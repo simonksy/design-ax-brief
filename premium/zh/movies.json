@@ -8394,6 +8394,130 @@
           "x": "每个应用在创建者选择分享之前都是私密的。App Studio 包含在所有付费方案中，无需额外购买或附加组件；构建、运行和托管应用都从你现有的 Runway 积分余额中扣除。App Studio 现已向所有付费方案开放。"
         }
       ]
+    },
+    "movies/jimengstudio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+          "cap": "ByteDance 推出短剧制作 AI 工作室"
+        },
+        {
+          "t": "p",
+          "x": "ByteDance 旗下 Jimeng AI 推出短剧工作室，将剧本开发、角色与场景创作、分镜、视频制作和后期制作整合进同一工作流。该平台使用三款自研模型：用于剧本的 DreamScript、用于图像的 Anycook 和用于分镜的 DreamShot。"
+        },
+        {
+          "t": "p",
+          "x": "DreamScript 支持原创故事、改编以及面向海外观众的剧本，图像和分镜工具则帮助创作者开发视觉素材、规划镜头。工作室还支持替换单个镜头、重构音频，以及按适合不同市场的视觉风格翻拍现有短剧。此次发布让 Jimeng 的工具从单一的图像或视频生成任务，延伸到协同的短剧制作。[iiMedia, in Chinese]"
+        }
+      ]
+    },
+    "movies/oscarsai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+          "cap": "Academy领导层在Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Academy主席Lynette Howell Taylor在Tokyo接受Variety采访时表示，即便AI在电影制作中日益普及，Oscars仍将继续表彰由人类主导的作品。Academy领导层正在出席Tokyo International Film Festival，与会员和电影人会面。"
+        },
+        {
+          "t": "p",
+          "x": "Howell Taylor说，AI十年来一直是后期制作流程的一部分，并已融入视觉特效，Academy也经常围绕参评资格讨论这一问题。“对Academy而言，始终不变的是我们表彰人类的卓越、人类主导的工作流程，”她说，“其核心永远是推动这一流程的人。”她还指出了“围绕版权以及透明度和披露的非常现实的担忧”。"
+        },
+        {
+          "t": "p",
+          "x": "根据第99届Oscars引入的规则，non-English-language（非英语）影片只要在六个电影节之一获得最高奖，即可获得国际影片奖资格。首席会员官Meredith Shea表示，委员会将每年审查这些规则。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Bill Kramer表示，Academy目前25%的会员来自non-U.S.（美国以外），而2029年颁奖典礼作为与YouTube合作后的首届典礼，可能以30多种语言触达2.5 billion（25亿）人。"
+        }
+      ]
+    },
+    "movies/rintaro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+          "cap": "2026 Busan International Film Festival（釜山国际电影节）上的 Rintaro"
+        },
+        {
+          "t": "p",
+          "x": "在第31届釜山国际电影节（31st Busan International Film Festival）上，执导过 Galaxy Express 999 和 Metropolis 的85岁（85-year-old）导演在大师班“A Living Legend in Japanese Animation”结束后的圆桌会上接受了 Cartoon Brew 的采访。"
+        },
+        {
+          "t": "video",
+          "yt": "aen2v31UjqA"
+        },
+        {
+          "t": "p",
+          "x": "谈及翻拍文化，他说：“我认为原因在于对全球市场的关注，因为把那些已经稳妥、受欢迎的旧作重新拿出来，能带来更多收入。”他表示，若要创造新的未来，“我们必须拥抱其中的风险……因为照这样下去，就不会有未来。”"
+        },
+        {
+          "t": "p",
+          "x": "他把翻拍与生成式AI联系起来：“AI也会推动翻拍旧作，因为AI的本质是推荐均值或平均水平，而这是可以推荐的稳妥选项。”他警告说，原创作品可能不再像从前那样成功。"
+        },
+        {
+          "t": "p",
+          "x": "谈到与AI合作，他说：“作为导演，我确实在考虑如何使用AI，但我会非常、非常谨慎。”他把AI比作刀刃，并说“我们需要想一想，我们已经让AI多深地进入了日常生活。”"
+        }
+      ]
+    },
+    "movies/atfaizone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+          "cap": "Singapore Media Festival（新加坡媒体节）"
+        },
+        {
+          "t": "p",
+          "x": "由 IMDA 主办的 Singapore Media Festival 将于12月1–5日举办下一届，届时将与历史悠久的 Asia TV Forum & Market（ATF）同期推出 Asia Creator Summit。"
+        },
+        {
+          "t": "p",
+          "x": "ACS 将于12月4–5日在 Marina Bay Sands 举行，以“Create. Monetize. Scale.”为主题，设有20多场会议。ATF 将于12月1–4日迎来第27届（27th），预计将有来自60个国家和地区的5,000多名内容从业者参加。"
+        },
+        {
+          "t": "p",
+          "x": "新板块“The AI Era | Entertainment Reimagined”将专题议程与展区结合，聚焦 AI 对内容创作、IP 权利和监管的意义，以及如何保护创意作品。Huace Group、Moonmax、Studio Meta K、Motion Picture Association、Television Academy 和 WIPO 将参与其中。ATF 还将举办由 Yoywow Space 和 Visify 支持的 AI Hackathon 2026 决赛，包括现场创意比赛和放映。"
+        },
+        {
+          "t": "p",
+          "x": "今年微短剧将成为更大的焦点。RX Global 的 Yeow Hui Leng 表示：“包括 AI 在内的新兴技术将是这场讨论的关键部分。”"
+        }
+      ]
+    },
+    "movies/resolve2112": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+        },
+        {
+          "t": "p",
+          "x": "Blackmagic Design宣布，DaVinci Resolve将迎来大幅提速的21.1.2更新。"
+        },
+        {
+          "t": "p",
+          "x": "在视频剪辑的时代，也就是如今的AI时代，速度比以往任何时候都更重要。无论你是喜欢AI本身，还是喜欢Resolve的IntelliSearch分析这类AI工具，只要在剪辑中用到它们，你都会希望它们运行得又快又高效。"
+        },
+        {
+          "t": "p",
+          "x": "这正是DaVinci Resolve此次更新(21.1.2版)要提供的：Blackmagic Design宣布，Apple M6上的IntelliSearch分析最高提速14倍，同时改进时间线剪辑，并加快OGraf播放。"
+        },
+        {
+          "t": "p",
+          "x": "此次更新侧重于重大改进，21.1.2新增了远超十几项的新功能和增强。其中最重要的是前述Apple M6上IntelliSearch分析的提速，以及快4倍的OGraf播放。"
+        },
+        {
+          "t": "p",
+          "x": "时间线剪辑也有所改进，Resolve增加了Linux图形支持，并扩展了用于自动化照片与剪辑任务的脚本APIs。亮点包括：套索选中的剪辑点可自动进入动态修剪、可在剪辑调音台中显示响度表的选项、能适应时间线画面比例的OGraf响应式模板、在Linux上支持OGraf和Lottie图形，以及整体性能和稳定性的提升。"
+        }
+      ]
     }
   }
 }

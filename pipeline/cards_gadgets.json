@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-ollama-tts",
+      "id": "gadgets-echo-studio-camera",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ollama, Mac에서\n로컬 텍스트 음성 변환",
-      "body": "Ollama가 Gradium의 Phonon 모델로 Mac에서 로컬 음성을 만든다.",
-      "mini_headline": "Ollama, Mac에 로컬 TTS 추가",
+      "headline": "Echo Studio에\nAlexa+용 카메라",
+      "body": "Amazon Echo Studio, $30 더 내면 Alexa+가 앞을 본다.",
+      "mini_headline": "Echo Studio에 카메라",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,233 +19,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Rachit Agarwal / Digital Trends"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+            "cap": "테이블 위에 놓인 Amazon Echo Studio with Home Camera"
           },
           {
             "t": "p",
-            "x": "App Store에는 음성을 텍스트로 바꾸는 앱이 넘쳐난다. 반면 쓸 만한 텍스트 음성 변환 모델은 드물고 좋은 모델은 대부분 구독제로 묶여 있다. 오픈소스 앱 Ollama가 이 판을 바꾸려 한다. 컴퓨터에서 로컬 AI 모델을 돌리는 앱으로 macOS, Windows, Linux에서 작동하며 프롬프트를 저장하거나 학습에 쓰지 않는다."
+            "x": "2019년 데뷔한 Amazon의 Echo Studio는 Alexa 스마트 스피커 가운데 음질을 따지는 사용자를 노려 왔다. 최신 Echo Studio에는 뜻밖의 차별점이 하나 더 붙었다. 내장 카메라다. 오디오는 기존 Echo Studio와 크게 다르지 않고, 13MP 카메라가 들어갔는데도 크기는 그대로다."
           },
           {
             "t": "p",
-            "x": "Ollama가 이제 Mac에서 텍스트 음성 변환 모델을 지원한다. 첫 모델은 Gradium이 만든 Phonon이다. 어떤 텍스트든 Mac에서 바로 음성으로 바꿔 주는 소형 모델 제품군이다. Windows와 Linux 지원도 곧 나온다."
+            "x": "스피커는 카메라로 사용자 위치를 파악해 “움직여도 음악이나 오디오북이 같은 볼륨을 유지하도록” 음량을 맞춘다. 원격으로 방 안을 살피는 스마트 카메라로 쓰는 사람도 있으리라는 게 Amazon의 계산이다. Amazon은 발표에서 “Alexa는 카메라 앞에 있는 것을 보고 이해해 실시간으로 도울 수도 있다. 보드게임 상자를 꺼내 Alexa+에게 규칙 설명을 부탁하거나 시리얼 상자를 들어 보이면, Alexa가 이를 알아보고 다른 맛을 재주문하도록 도와준다”고 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-            "cap": "Ollama"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+            "cap": "Echo Studio with Home Camera의 카메라 화면을 휴대폰으로 보는 모습."
           },
           {
             "t": "p",
-            "x": "목소리는 Zoey, Easton, Freya, Hugh 등 미국식·영국식 억양 가운데 고르면 된다. 영어 외에 프랑스어, 독일어, 스페인어, 포르투갈어 모델도 있다. Ollama에 따르면 M5 Max를 탑재한 MacBook Pro에서 Phonon은 Apple의 MLX 프레임워크 덕분에 정확도 손실 없이 Gradium 자체 런타임보다 35% 빠르게 돈다."
-          },
-          {
-            "t": "p",
-            "x": "채팅 모델과 함께 쓰면 Phonon이 답변을 소리 내어 읽는다. 첫 문장이 끝나는 즉시 재생되니 답변이 다 나올 때까지 기다릴 필요가 없다."
-          },
-          {
-            "t": "p",
-            "x": "Ollama 0.40.11 이상을 실행하는 Apple Silicon Mac이 있어야 한다. 영어 모델은 Apache 2.0 라이선스라 무료로 쓸 수 있지만 프랑스어·독일어·스페인어·포르투갈어와 다국어 모델은 비상업적 용도로만 쓸 수 있다."
+            "x": "전용 버튼으로 마이크와 카메라를 끌 수 있고, 클라우드로 스트리밍하는 동안에는 내장 LED가 켜진다. Ring 카메라를 둘러싼 Amazon의 전력을 떠올리면 개인정보에 민감한 고객 일부는 카메라 없는 모델을 고를 법하다. Echo Studio With Home Camera는 $250로, 카메라 없는 모델보다 $30 비싸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ollama brings local\ntext-to-speech to the Mac",
-          "body": "Ollama now turns text into natural-sounding speech on the Mac locally, using Gradium's small Phonon models.",
-          "mini_headline": "Ollama adds local TTS on Mac",
+          "headline": "Amazon's Echo Studio\nadds a camera for Alexa+",
+          "body": "Amazon's new Echo Studio with Home Camera costs $30 more and lets Alexa+ see and understand what is in front of it.",
+          "mini_headline": "Echo Studio gets a camera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "Amazon Echo Studio with Home Camera on a table"
               },
               {
                 "t": "p",
-                "x": "Speech-to-text apps have flooded the App Store, but there has been a dearth of good text-to-speech models, and most of the good ones are locked behind a subscription. Ollama, an open-source app that lets you run local AI models on your computer, wants to change that. It works on macOS, Windows, and Linux, and your prompts are never stored or used for training."
+                "x": "Since debuting in 2019, Amazon’s Echo Studio targeted users who wanted superior audio quality from their Alexa-based smart speaker. The latest Echo Studio adds another less-expected differentiator: an integrated camera. It doesn’t have many audio upgrades over the standard Echo Studio, and the devices have the same dimensions, even though the new model fits in a 13MP camera."
               },
               {
                 "t": "p",
-                "x": "Ollama now supports text-to-speech models on the Mac, starting with Phonon. Built by Gradium, Phonon is a family of small models that can turn any text into speech right on your Mac. Windows and Linux support is coming soon."
+                "x": "The speaker can use the camera to see where you are and adjust audio volume “so your music or audiobook maintains the same volume as you move about.” Amazon also sees people using it as a smart camera to remotely check on a room. “Alexa can also see and understand what’s in front of the camera and help you in real time. Pull out a board game box and ask Alexa+ to explain the rules or hold up a cereal box, and Alexa can recognize it and help you reorder more flavors,” Amazon’s announcement says."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "Watching the Echo Studio with Home Camera’s camera feed from a phone."
               },
               {
                 "t": "p",
-                "x": "You can choose from voices like Zoey, Easton, Freya, and Hugh with American and British accents. Apart from English, there are models for French, German, Spanish, and Portuguese. Thanks to Apple’s MLX framework, Ollama claims Phonon runs 35% faster than Gradium’s own runtime on a MacBook Pro with M5 Max, without losing accuracy."
-              },
-              {
-                "t": "p",
-                "x": "You can pair Phonon with a chat model to have its replies read aloud. Playback begins after the first sentence, so you don’t have to wait for the full answer."
-              },
-              {
-                "t": "p",
-                "x": "To get started, you need an Apple Silicon Mac running Ollama 0.40.11 or later. While the English model is free to use under Apache 2.0, the French, German, Spanish, Portuguese, and multilingual models are limited to noncommercial use."
+                "x": "A dedicated button turns off the microphones and cameras, and a built-in LED turns on when it streams to the cloud. Given Amazon’s past with Ring cameras, some privacy-focused customers may opt for camera-less alternatives. The Echo Studio With Home Camera is $250, which is $30 more than the camera-free version."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ollama, Mac에서\n로컬 텍스트 음성 변환",
-          "body": "Ollama가 Gradium의 Phonon 모델로 Mac에서 로컬 음성을 만든다.",
-          "mini_headline": "Ollama, Mac에 로컬 TTS 추가",
+          "headline": "Echo Studio에\nAlexa+용 카메라",
+          "body": "Amazon Echo Studio, $30 더 내면 Alexa+가 앞을 본다.",
+          "mini_headline": "Echo Studio에 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "테이블 위에 놓인 Amazon Echo Studio with Home Camera"
               },
               {
                 "t": "p",
-                "x": "App Store에는 음성을 텍스트로 바꾸는 앱이 넘쳐난다. 반면 쓸 만한 텍스트 음성 변환 모델은 드물고 좋은 모델은 대부분 구독제로 묶여 있다. 오픈소스 앱 Ollama가 이 판을 바꾸려 한다. 컴퓨터에서 로컬 AI 모델을 돌리는 앱으로 macOS, Windows, Linux에서 작동하며 프롬프트를 저장하거나 학습에 쓰지 않는다."
+                "x": "2019년 데뷔한 Amazon의 Echo Studio는 Alexa 스마트 스피커 가운데 음질을 따지는 사용자를 노려 왔다. 최신 Echo Studio에는 뜻밖의 차별점이 하나 더 붙었다. 내장 카메라다. 오디오는 기존 Echo Studio와 크게 다르지 않고, 13MP 카메라가 들어갔는데도 크기는 그대로다."
               },
               {
                 "t": "p",
-                "x": "Ollama가 이제 Mac에서 텍스트 음성 변환 모델을 지원한다. 첫 모델은 Gradium이 만든 Phonon이다. 어떤 텍스트든 Mac에서 바로 음성으로 바꿔 주는 소형 모델 제품군이다. Windows와 Linux 지원도 곧 나온다."
+                "x": "스피커는 카메라로 사용자 위치를 파악해 “움직여도 음악이나 오디오북이 같은 볼륨을 유지하도록” 음량을 맞춘다. 원격으로 방 안을 살피는 스마트 카메라로 쓰는 사람도 있으리라는 게 Amazon의 계산이다. Amazon은 발표에서 “Alexa는 카메라 앞에 있는 것을 보고 이해해 실시간으로 도울 수도 있다. 보드게임 상자를 꺼내 Alexa+에게 규칙 설명을 부탁하거나 시리얼 상자를 들어 보이면, Alexa가 이를 알아보고 다른 맛을 재주문하도록 도와준다”고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "Echo Studio with Home Camera의 카메라 화면을 휴대폰으로 보는 모습."
               },
               {
                 "t": "p",
-                "x": "목소리는 Zoey, Easton, Freya, Hugh 등 미국식·영국식 억양 가운데 고르면 된다. 영어 외에 프랑스어, 독일어, 스페인어, 포르투갈어 모델도 있다. Ollama에 따르면 M5 Max를 탑재한 MacBook Pro에서 Phonon은 Apple의 MLX 프레임워크 덕분에 정확도 손실 없이 Gradium 자체 런타임보다 35% 빠르게 돈다."
-              },
-              {
-                "t": "p",
-                "x": "채팅 모델과 함께 쓰면 Phonon이 답변을 소리 내어 읽는다. 첫 문장이 끝나는 즉시 재생되니 답변이 다 나올 때까지 기다릴 필요가 없다."
-              },
-              {
-                "t": "p",
-                "x": "Ollama 0.40.11 이상을 실행하는 Apple Silicon Mac이 있어야 한다. 영어 모델은 Apache 2.0 라이선스라 무료로 쓸 수 있지만 프랑스어·독일어·스페인어·포르투갈어와 다국어 모델은 비상업적 용도로만 쓸 수 있다."
+                "x": "전용 버튼으로 마이크와 카메라를 끌 수 있고, 클라우드로 스트리밍하는 동안에는 내장 LED가 켜진다. Ring 카메라를 둘러싼 Amazon의 전력을 떠올리면 개인정보에 민감한 고객 일부는 카메라 없는 모델을 고를 법하다. Echo Studio With Home Camera는 $250로, 카메라 없는 모델보다 $30 비싸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OllamaがMacで\nローカル音声合成",
-          "body": "OllamaはGradiumのPhononモデルで、Macでテキストを自然な音声に変える。",
-          "mini_headline": "OllamaがMacでローカルTTS",
+          "headline": "Echo Studioに\nAlexa+用カメラ",
+          "body": "Amazonの新Echo Studioは$30高く、Alexa+が目の前を見て理解する。",
+          "mini_headline": "Echo Studioにカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "テーブルに置かれたAmazon Echo Studio with Home Camera"
               },
               {
                 "t": "p",
-                "x": "App Storeには音声をテキストにするアプリがあふれているが、優れたテキスト読み上げモデルは乏しく、良いものの多くはサブスクリプションの壁の向こうにある。コンピューター上でローカルAIモデルを動かせるオープンソースアプリのOllamaは、この状況を変えようとしている。macOS、Windows、Linuxで動作し、プロンプトが保存されたり学習に使われたりすることはない。"
+                "x": "2019年に登場して以来、AmazonのEcho Studioは、Alexa搭載スマートスピーカーで優れた音質を求めるユーザーを狙ってきた。最新のEcho Studioは、やや意外な差別化要素をもう一つ加えた。内蔵カメラである。標準のEcho Studioに比べて音響面の改良は多くなく、新モデルは13MP カメラを収めながらも本体寸法は同じだ。"
               },
               {
                 "t": "p",
-                "x": "OllamaはMacでテキスト読み上げモデルに対応し、その第一弾がPhononだ。Gradiumが開発したPhononは、あらゆるテキストをMac上でそのまま音声に変換できる小型モデル群である。WindowsとLinuxへの対応も近く始まる。"
+                "x": "スピーカーはカメラでユーザーの位置を把握し、「動き回っても音楽やオーディオブックが同じ音量を保つように」音量を調整できる。Amazonは、部屋の様子を遠隔で確認するスマートカメラとして使う人も想定している。Amazonの発表は「Alexaはカメラの前にあるものを見て理解し、リアルタイムで手助けすることもできる。ボードゲームの箱を取り出してAlexa+にルールの説明を頼んだり、シリアルの箱を掲げたりすれば、Alexaがそれを認識し、ほかの味の再注文を手伝う」と述べている。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "スマートフォンでEcho Studio with Home Cameraのカメラ映像を見る様子。"
               },
               {
                 "t": "p",
-                "x": "声はZoey、Easton、Freya、Hughなどから選べ、米国英語と英国英語のアクセントがある。英語以外にフランス語、ドイツ語、スペイン語、ポルトガル語のモデルもある。Ollamaによれば、AppleのMLXフレームワークのおかげで、M5 Max搭載のMacBook Pro上でPhononはGradium独自のランタイムより35%速く、精度も落ちないという。"
-              },
-              {
-                "t": "p",
-                "x": "Phononをチャットモデルと組み合わせれば、返答を読み上げさせられる。最初の一文の後に再生が始まるため、回答全体を待つ必要はない。"
-              },
-              {
-                "t": "p",
-                "x": "利用にはOllama 0.40.11以降を動かすApple Silicon搭載Macが必要だ。英語モデルはApache 2.0のもとで無料で使えるが、フランス語、ドイツ語、スペイン語、ポルトガル語、多言語モデルは非商用利用に限られる。"
+                "x": "専用ボタンでマイクとカメラをオフにでき、クラウドへストリーミングする際は内蔵LEDが点灯する。AmazonのRingカメラをめぐる過去を考えると、プライバシーを重視する一部の顧客はカメラのない製品を選ぶかもしれない。Echo Studio With Home Cameraは$250で、カメラなしモデルより$30高い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ollama为Mac\n带来本地语音合成",
-          "body": "Ollama借助Gradium的小型Phonon模型，在Mac本地将文字转为自然语音。",
-          "mini_headline": "Ollama在Mac上支持本地TTS",
+          "headline": "Echo Studio加装\nAlexa+摄像头",
+          "body": "Amazon新款Echo Studio贵$30，能让Alexa+看懂眼前的事物。",
+          "mini_headline": "Echo Studio加装摄像头",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "放在桌上的Amazon Echo Studio with Home Camera"
               },
               {
                 "t": "p",
-                "x": "App Store里语音转文字应用泛滥，但好用的文字转语音模型却很少，而且其中大多数优秀模型都需要订阅。Ollama是一款可在电脑上运行本地AI模型的开源应用，它想改变这一现状。它支持macOS、Windows和Linux，用户的提示词既不会被存储，也不会被用于训练。"
+                "x": "自2019年首次亮相以来，Amazon的Echo Studio一直面向希望Alexa智能音箱拥有更出色音质的用户。最新款Echo Studio又增加了一个不太寻常的差异点：内置摄像头。与标准版Echo Studio相比，它在音频方面的升级不多，尽管新款塞进了一颗13MP 摄像头，两款设备的尺寸却完全相同。"
               },
               {
                 "t": "p",
-                "x": "Ollama现已在Mac上支持文字转语音模型，首个是Phonon。Phonon由Gradium打造，是一系列小型模型，能直接在Mac上把任何文字转成语音。对Windows和Linux的支持即将推出。"
+                "x": "这款音箱可以借助摄像头判断你的位置并调节音量，“让你走动时音乐或有声书始终保持相同音量”。Amazon还认为，有人会把它当作智能摄像头，远程查看房间情况。Amazon在公告中表示：“Alexa还能看懂摄像头前的事物，并实时为你提供帮助。拿出一盒桌游，让Alexa+讲解规则；或者举起一盒麦片，Alexa就能认出它，并帮你再订购更多口味。”"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "用手机查看Echo Studio with Home Camera的摄像头画面。"
               },
               {
                 "t": "p",
-                "x": "用户可以选择Zoey、Easton、Freya和Hugh等带美式和英式口音的声音。除英语外，还有法语、德语、西班牙语和葡萄牙语模型。Ollama称，得益于Apple的MLX框架，Phonon在搭载M5 Max的MacBook Pro上比Gradium自家运行时快35%，且不损失准确性。"
-              },
-              {
-                "t": "p",
-                "x": "Phonon可与聊天模型搭配，把回复朗读出来。第一句话生成后即开始播放，无需等待完整回答。"
-              },
-              {
-                "t": "p",
-                "x": "上手需要一台运行Ollama 0.40.11或更高版本的Apple Silicon Mac。英语模型可依据Apache 2.0免费使用，而法语、德语、西班牙语、葡萄牙语和多语种模型仅限非商业用途。"
+                "x": "专用按钮可关闭麦克风和摄像头，向云端传输画面时内置LED会亮起。考虑到Amazon在Ring摄像头上的过往，一些注重隐私的用户可能会选择不带摄像头的替代产品。Echo Studio With Home Camera售价$250，比无摄像头版本贵$30。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ollama lleva la conversión de\ntexto a voz local al Mac",
-          "body": "Ollama ya convierte texto en voz natural de forma local en el Mac con los pequeños modelos Phonon de Gradium.",
-          "mini_headline": "Ollama añade TTS local en Mac",
+          "headline": "Echo Studio de Amazon suma\nuna cámara para Alexa+",
+          "body": "El nuevo Echo Studio with Home Camera de Amazon cuesta $30 más y permite a Alexa+ ver y entender lo que tiene delante.",
+          "mini_headline": "Echo Studio estrena cámara",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "Amazon Echo Studio with Home Camera sobre una mesa"
               },
               {
                 "t": "p",
-                "x": "Las apps de voz a texto inundan la App Store, pero escasean los buenos modelos de texto a voz, y la mayoría de los buenos exigen una suscripción. Ollama, una app de código abierto que permite ejecutar modelos de AI locales en el propio equipo, quiere cambiar eso. Funciona en macOS, Windows y Linux, y los prompts nunca se almacenan ni se usan para entrenar."
+                "x": "Desde su debut en 2019, el Echo Studio de Amazon se dirigió a usuarios que querían una calidad de audio superior en su altavoz inteligente basado en Alexa. El último Echo Studio añade otro elemento diferenciador menos esperado: una cámara integrada. No trae muchas mejoras de audio respecto al Echo Studio estándar, y ambos dispositivos tienen las mismas dimensiones, aunque el nuevo modelo incorpora una cámara de 13MP."
               },
               {
                 "t": "p",
-                "x": "Ollama ya admite modelos de texto a voz en el Mac, empezando por Phonon. Creado por Gradium, Phonon es una familia de modelos pequeños que convierte cualquier texto en voz directamente en el Mac. El soporte para Windows y Linux llegará pronto."
+                "x": "El altavoz puede usar la cámara para ver dónde está el usuario y ajustar el volumen “para que la música o el audiolibro mantengan el mismo volumen mientras te mueves”. Amazon también prevé que algunas personas lo usen como cámara inteligente para revisar una habitación a distancia. “Alexa también puede ver y entender lo que hay frente a la cámara y ayudarte en tiempo real. Saca la caja de un juego de mesa y pide a Alexa+ que explique las reglas, o muestra una caja de cereales, y Alexa podrá reconocerla y ayudarte a pedir más sabores”, dice el anuncio de Amazon."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "Imagen de la cámara del Echo Studio with Home Camera vista desde un teléfono."
               },
               {
                 "t": "p",
-                "x": "Se puede elegir entre voces como Zoey, Easton, Freya y Hugh, con acentos estadounidense y británico. Además del inglés, hay modelos para francés, alemán, español y portugués. Gracias al framework MLX de Apple, Ollama afirma que Phonon funciona un 35% más rápido que el runtime propio de Gradium en un MacBook Pro con M5 Max, sin perder precisión."
-              },
-              {
-                "t": "p",
-                "x": "Phonon puede combinarse con un modelo de chat para que lea sus respuestas en voz alta. La reproducción empieza tras la primera frase, así que no hace falta esperar a la respuesta completa."
-              },
-              {
-                "t": "p",
-                "x": "Para empezar se necesita un Mac con Apple Silicon y Ollama 0.40.11 o posterior. El modelo en inglés es de uso libre bajo Apache 2.0, pero los modelos en francés, alemán, español, portugués y multilingüe se limitan al uso no comercial."
+                "x": "Un botón dedicado apaga los micrófonos y las cámaras, y un LED integrado se enciende cuando transmite a la nube. Dado el historial de Amazon con las cámaras Ring, algunos clientes preocupados por la privacidad podrían optar por alternativas sin cámara. El Echo Studio With Home Camera cuesta $250, $30 más que la versión sin cámara."
               }
             ]
           }
@@ -253,161 +205,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ollama, Mac에서\n로컬 텍스트 음성 변환",
-          "body": "Ollama가 Gradium의 Phonon 모델로 Mac에서 로컬 음성을 만든다.",
-          "mini_headline": "Ollama, Mac에 로컬 TTS 추가",
+          "headline": "Echo Studio에\nAlexa+용 카메라",
+          "body": "Amazon Echo Studio는 $30 더 비싸고 Alexa+가 앞을 본다.",
+          "mini_headline": "Echo Studio에 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "테이블 위에 놓인 Amazon Echo Studio with Home Camera"
               },
               {
                 "t": "p",
-                "x": "App Store에는 음성을 텍스트로 바꾸는 앱이 넘쳐나지만, 쓸 만한 텍스트 음성 변환 모델은 드물고 좋은 모델은 대부분 구독제로 묶여 있다. 컴퓨터에서 로컬 AI 모델을 돌릴 수 있는 오픈소스 앱 Ollama가 이를 바꾸려 한다. Ollama는 macOS, Windows, Linux에서 작동하며, 프롬프트는 저장되거나 학습에 쓰이지 않는다."
+                "x": "2019년 데뷔 이후 Amazon의 Echo Studio는 Alexa 기반 스마트 스피커에서 더 뛰어난 음질을 원하는 사용자를 겨냥해 왔다. 최신 Echo Studio는 다소 뜻밖의 차별점을 하나 더 더했다. 바로 내장 카메라다. 기존 Echo Studio에 비해 오디오 업그레이드는 많지 않고, 새 모델이 13MP 카메라를 품었는데도 두 기기의 크기는 같다."
               },
               {
                 "t": "p",
-                "x": "Ollama가 이제 Mac에서 텍스트 음성 변환 모델을 지원하며, 첫 모델은 Phonon이다. Gradium이 만든 Phonon은 어떤 텍스트든 Mac에서 바로 음성으로 바꿔 주는 소형 모델 제품군이다. Windows와 Linux 지원도 곧 추가된다."
+                "x": "스피커는 카메라로 사용자의 위치를 파악해 “움직여도 음악이나 오디오북이 같은 볼륨을 유지하도록” 음량을 조절할 수 있다. Amazon은 이 제품을 원격으로 방 안을 확인하는 스마트 카메라로 쓰는 사람도 있을 것으로 본다. Amazon은 발표에서 “Alexa는 카메라 앞에 있는 것을 보고 이해해 실시간으로 도울 수도 있다. 보드게임 상자를 꺼내 Alexa+에게 규칙 설명을 부탁하거나 시리얼 상자를 들어 보이면, Alexa가 이를 알아보고 다른 맛을 재주문하도록 도와준다”고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "휴대폰으로 Echo Studio with Home Camera의 카메라 화면을 보는 모습."
               },
               {
                 "t": "p",
-                "x": "Zoey, Easton, Freya, Hugh 등 미국식·영국식 억양의 목소리를 고를 수 있다. 영어 외에 프랑스어, 독일어, 스페인어, 포르투갈어 모델도 있다. Ollama는 Apple의 MLX 프레임워크 덕분에 M5 Max를 탑재한 MacBook Pro에서 Phonon이 정확도 손실 없이 Gradium 자체 런타임보다 35% 빠르게 돌아간다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Phonon을 채팅 모델과 함께 쓰면 답변을 소리 내어 읽어 준다. 첫 문장이 끝나면 바로 재생이 시작되므로 전체 답변을 기다릴 필요가 없다."
-              },
-              {
-                "t": "p",
-                "x": "사용하려면 Ollama 0.40.11 이상을 실행하는 Apple Silicon Mac이 필요하다. 영어 모델은 Apache 2.0 라이선스로 무료로 쓸 수 있지만, 프랑스어·독일어·스페인어·포르투갈어와 다국어 모델은 비상업적 용도로만 쓸 수 있다."
+                "x": "전용 버튼으로 마이크와 카메라를 끌 수 있고, 클라우드로 스트리밍할 때는 내장 LED가 켜진다. Ring 카메라를 둘러싼 Amazon의 과거를 고려하면, 개인정보를 중시하는 일부 고객은 카메라 없는 대안을 택할 수도 있다. Echo Studio With Home Camera는 $250로, 카메라 없는 모델보다 $30 비싸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OllamaがMacで\nローカル音声合成",
-          "body": "OllamaはGradiumのPhononモデルで、Macでテキストを自然な音声に変える。",
-          "mini_headline": "OllamaがMacでローカルTTS",
+          "headline": "Echo Studioに\nAlexa+用カメラ",
+          "body": "Amazonの新Echo Studioは$30高く、Alexa+が目の前を見て理解する。",
+          "mini_headline": "Echo Studioにカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "テーブルに置かれたAmazon Echo Studio with Home Camera"
               },
               {
                 "t": "p",
-                "x": "App Storeには音声をテキストにするアプリがあふれているが、優れたテキスト読み上げモデルは乏しく、良いものの多くはサブスクリプションの壁の向こうにある。コンピューター上でローカルAIモデルを動かせるオープンソースアプリのOllamaは、この状況を変えようとしている。macOS、Windows、Linuxで動作し、プロンプトが保存されたり学習に使われたりすることはない。"
+                "x": "2019年に登場して以来、AmazonのEcho Studioは、Alexa搭載スマートスピーカーで優れた音質を求めるユーザーを狙ってきた。最新のEcho Studioは、やや意外な差別化要素をもう一つ加えた。内蔵カメラである。標準のEcho Studioに比べて音響面の改良は多くなく、新モデルは13MP カメラを収めながらも本体寸法は同じだ。"
               },
               {
                 "t": "p",
-                "x": "OllamaはMacでテキスト読み上げモデルに対応し、その第一弾がPhononだ。Gradiumが開発したPhononは、あらゆるテキストをMac上でそのまま音声に変換できる小型モデル群である。WindowsとLinuxへの対応も近く始まる。"
+                "x": "スピーカーはカメラでユーザーの位置を把握し、「動き回っても音楽やオーディオブックが同じ音量を保つように」音量を調整できる。Amazonは、部屋の様子を遠隔で確認するスマートカメラとして使う人も想定している。Amazonの発表は「Alexaはカメラの前にあるものを見て理解し、リアルタイムで手助けすることもできる。ボードゲームの箱を取り出してAlexa+にルールの説明を頼んだり、シリアルの箱を掲げたりすれば、Alexaがそれを認識し、ほかの味の再注文を手伝う」と述べている。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "スマートフォンでEcho Studio with Home Cameraのカメラ映像を見る様子。"
               },
               {
                 "t": "p",
-                "x": "声はZoey、Easton、Freya、Hughなどから選べ、米国英語と英国英語のアクセントがある。英語以外にフランス語、ドイツ語、スペイン語、ポルトガル語のモデルもある。Ollamaによれば、AppleのMLXフレームワークのおかげで、M5 Max搭載のMacBook Pro上でPhononはGradium独自のランタイムより35%速く、精度も落ちないという。"
-              },
-              {
-                "t": "p",
-                "x": "Phononをチャットモデルと組み合わせれば、返答を読み上げさせられる。最初の一文の後に再生が始まるため、回答全体を待つ必要はない。"
-              },
-              {
-                "t": "p",
-                "x": "利用にはOllama 0.40.11以降を動かすApple Silicon搭載Macが必要だ。英語モデルはApache 2.0のもとで無料で使えるが、フランス語、ドイツ語、スペイン語、ポルトガル語、多言語モデルは非商用利用に限られる。"
+                "x": "専用ボタンでマイクとカメラをオフにでき、クラウドへストリーミングする際は内蔵LEDが点灯する。AmazonのRingカメラをめぐる過去を考えると、プライバシーを重視する一部の顧客はカメラのない製品を選ぶかもしれない。Echo Studio With Home Cameraは$250で、カメラなしモデルより$30高い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ollama为Mac\n带来本地语音合成",
-          "body": "Ollama借助Gradium的小型Phonon模型，在Mac本地将文字转为自然语音。",
-          "mini_headline": "Ollama在Mac上支持本地TTS",
+          "headline": "Echo Studio加装\nAlexa+摄像头",
+          "body": "Amazon新款Echo Studio贵$30，能让Alexa+看懂眼前的事物。",
+          "mini_headline": "Echo Studio加装摄像头",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "放在桌上的Amazon Echo Studio with Home Camera"
               },
               {
                 "t": "p",
-                "x": "App Store里语音转文字应用泛滥，但好用的文字转语音模型却很少，而且其中大多数优秀模型都需要订阅。Ollama是一款可在电脑上运行本地AI模型的开源应用，它想改变这一现状。它支持macOS、Windows和Linux，用户的提示词既不会被存储，也不会被用于训练。"
+                "x": "自2019年首次亮相以来，Amazon的Echo Studio一直面向希望Alexa智能音箱拥有更出色音质的用户。最新款Echo Studio又增加了一个不太寻常的差异点：内置摄像头。与标准版Echo Studio相比，它在音频方面的升级不多，尽管新款塞进了一颗13MP 摄像头，两款设备的尺寸却完全相同。"
               },
               {
                 "t": "p",
-                "x": "Ollama现已在Mac上支持文字转语音模型，首个是Phonon。Phonon由Gradium打造，是一系列小型模型，能直接在Mac上把任何文字转成语音。对Windows和Linux的支持即将推出。"
+                "x": "这款音箱可以借助摄像头判断你的位置并调节音量，“让你走动时音乐或有声书始终保持相同音量”。Amazon还认为，有人会把它当作智能摄像头，远程查看房间情况。Amazon在公告中表示：“Alexa还能看懂摄像头前的事物，并实时为你提供帮助。拿出一盒桌游，让Alexa+讲解规则；或者举起一盒麦片，Alexa就能认出它，并帮你再订购更多口味。”"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "用手机查看Echo Studio with Home Camera的摄像头画面。"
               },
               {
                 "t": "p",
-                "x": "用户可以选择Zoey、Easton、Freya和Hugh等带美式和英式口音的声音。除英语外，还有法语、德语、西班牙语和葡萄牙语模型。Ollama称，得益于Apple的MLX框架，Phonon在搭载M5 Max的MacBook Pro上比Gradium自家运行时快35%，且不损失准确性。"
-              },
-              {
-                "t": "p",
-                "x": "Phonon可与聊天模型搭配，把回复朗读出来。第一句话生成后即开始播放，无需等待完整回答。"
-              },
-              {
-                "t": "p",
-                "x": "上手需要一台运行Ollama 0.40.11或更高版本的Apple Silicon Mac。英语模型可依据Apache 2.0免费使用，而法语、德语、西班牙语、葡萄牙语和多语种模型仅限非商业用途。"
+                "x": "专用按钮可关闭麦克风和摄像头，向云端传输画面时内置LED会亮起。考虑到Amazon在Ring摄像头上的过往，一些注重隐私的用户可能会选择不带摄像头的替代产品。Echo Studio With Home Camera售价$250，比无摄像头版本贵$30。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ollama lleva la conversión de\ntexto a voz local al Mac",
-          "body": "Ollama ya convierte texto en voz natural de forma local en el Mac con los pequeños modelos Phonon de Gradium.",
-          "mini_headline": "Ollama añade TTS local en Mac",
+          "headline": "Echo Studio de Amazon suma\nuna cámara para Alexa+",
+          "body": "El nuevo Echo Studio with Home Camera de Amazon cuesta $30 más y permite a Alexa+ ver y entender lo que tiene delante.",
+          "mini_headline": "Echo Studio estrena cámara",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Rachit Agarwal / Digital Trends"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+                "cap": "Amazon Echo Studio with Home Camera sobre una mesa"
               },
               {
                 "t": "p",
-                "x": "Las apps de voz a texto inundan la App Store, pero escasean los buenos modelos de texto a voz, y la mayoría de los buenos exigen una suscripción. Ollama, una app de código abierto que permite ejecutar modelos de AI locales en el propio equipo, quiere cambiar eso. Funciona en macOS, Windows y Linux, y los prompts nunca se almacenan ni se usan para entrenar."
+                "x": "Desde su debut en 2019, el Echo Studio de Amazon se dirigió a usuarios que querían una calidad de audio superior en su altavoz inteligente basado en Alexa. El último Echo Studio añade otro elemento diferenciador menos esperado: una cámara integrada. No trae muchas mejoras de audio respecto al Echo Studio estándar, y ambos dispositivos tienen las mismas dimensiones, aunque el nuevo modelo incorpora una cámara de 13MP."
               },
               {
                 "t": "p",
-                "x": "Ollama ya admite modelos de texto a voz en el Mac, empezando por Phonon. Creado por Gradium, Phonon es una familia de modelos pequeños que convierte cualquier texto en voz directamente en el Mac. El soporte para Windows y Linux llegará pronto."
+                "x": "El altavoz puede usar la cámara para ver dónde está el usuario y ajustar el volumen “para que la música o el audiolibro mantengan el mismo volumen mientras te mueves”. Amazon también prevé que algunas personas lo usen como cámara inteligente para revisar una habitación a distancia. “Alexa también puede ver y entender lo que hay frente a la cámara y ayudarte en tiempo real. Saca la caja de un juego de mesa y pide a Alexa+ que explique las reglas, o muestra una caja de cereales, y Alexa podrá reconocerla y ayudarte a pedir más sabores”, dice el anuncio de Amazon."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
-                "cap": "Ollama"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+                "cap": "Imagen de la cámara del Echo Studio with Home Camera vista desde un teléfono."
               },
               {
                 "t": "p",
-                "x": "Se puede elegir entre voces como Zoey, Easton, Freya y Hugh, con acentos estadounidense y británico. Además del inglés, hay modelos para francés, alemán, español y portugués. Gracias al framework MLX de Apple, Ollama afirma que Phonon funciona un 35% más rápido que el runtime propio de Gradium en un MacBook Pro con M5 Max, sin perder precisión."
-              },
-              {
-                "t": "p",
-                "x": "Phonon puede combinarse con un modelo de chat para que lea sus respuestas en voz alta. La reproducción empieza tras la primera frase, así que no hace falta esperar a la respuesta completa."
-              },
-              {
-                "t": "p",
-                "x": "Para empezar se necesita un Mac con Apple Silicon y Ollama 0.40.11 o posterior. El modelo en inglés es de uso libre bajo Apache 2.0, pero los modelos en francés, alemán, español, portugués y multilingüe se limitan al uso no comercial."
+                "x": "Un botón dedicado apaga los micrófonos y las cámaras, y un LED integrado se enciende cuando transmite a la nube. Dado el historial de Amazon con las cámaras Ring, algunos clientes preocupados por la privacidad podrían optar por alternativas sin cámara. El Echo Studio With Home Camera cuesta $250, $30 más que la versión sin cámara."
               }
             ]
           }
@@ -415,15 +335,15 @@
       }
     },
     {
-      "id": "gadgets-macbook-pro-m6",
+      "id": "gadgets-xreal-aura-launch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MacBook Pro M6\nAI 성능 25% 향상",
-      "body": "Apple MacBook Pro 14인치 M6는 AI 25%·그래픽 30% 빠르다.",
-      "mini_headline": "MacBook Pro, M6 탑재",
+      "headline": "XREAL Aura 출시\nAR 안경 $1,100부터",
+      "body": "Android XR 첫 AR 안경 XREAL Aura가 $1,100부터 팔린다.",
+      "mini_headline": "XREAL Aura 안경 출시",
       "tool": "Gadgets",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -431,209 +351,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-            "cap": "(이미지 출처: Apple)"
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
           },
           {
             "t": "p",
-            "x": "Apple이 \"Pro and tell\" 발표에서 M6 프로세서를 단 14인치 MacBook Pro의 10월 리프레시 모델을 공개했다. 터치스크린은 없고 디자인도 크게 달라지지 않았다. 차세대 Apple Intelligence와 Siri AI를 담은 macOS 27 Golden Gate가 기본으로 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "새 M6 MacBook Pro는 M6 칩, 16GB RAM, 1TB 저장공간 구성이 $1,999부터다. 사전 주문은 10월 28일 수요일에 시작하며 출고는 11월 6일부터다."
+            "x": "XREAL이 Google의 Android XR 운영체제를 얹은 첫 AR 안경 XREAL AURA를 오늘 출시한다고 밝혔다. 한정 기간 $1,100부터 판다. 첫 물량은 mid-November부터 US, 캐나다, 일본, 한국에 먼저 출하된다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-            "cap": "(이미지 출처: Apple)"
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+            "cap": "사진 제공: XREAL"
           },
           {
             "t": "p",
-            "x": "M6는 2나노미터 아키텍처로 넘어갔고 M5의 10코어 CPU·10코어 GPU보다 CPU와 GPU 코어가 두 개씩 늘었다. AI와 머신러닝은 Dual 16코어 Neural Engine이 맡고 각 GPU 코어에 들어간 Neural Accelerators가 이를 받친다. Apple은 12코어 GPU가 M5보다 그래픽은 최대 30퍼센트, AI 작업은 최대 25퍼센트 빠르다고 밝혔다."
+            "x": "출시 할인은 December 2026까지 이어진다. Xreal Aura 12GB + 256GB 모델은 정가 $1,279에서 $1,099로, 16GB + 512GB 모델은 정가 $1,499에서 $1,299로 내려간다."
           },
           {
             "t": "p",
-            "x": "Wi-Fi 7과 Bluetooth 6을 지원하는 Apple의 N1 칩도 들어간다. 배터리는 최대 24시간 간다고 Apple은 밝혔다."
+            "x": "Aura는 프리즘 방식 시스루 광학계로 95그램이 안 되는 무게에 70도 시야각을 낸다. 주머니에 들어가는 컴퓨트 유닛과 선으로 연결되는데, 이 유닛에 XR 처리와 AI 작업을 맡는 Qualcomm의 Snapdragon Reality Elite 칩셋과 Xreal의 X1S Spatial Coprocessor가 들어 있다. 6DOF와 손 추적, Play Store 앱을 지원하고 150개가 넘는 made-for-XR 경험을 기본으로 담았다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+            "cap": "사진 제공: XREAL"
+          },
+          {
+            "t": "p",
+            "x": "Xreal은 GameSir와 함께 설계한 게임패드도 공개했다. 전용 Gemini 키를 눌러 “플레이 중 AI 도움을 빠르게 받는 방법”을 쓸 수 있다. 무선 휴대용 키보드도 함께 나왔다. 컴퓨트 퍽에는 Gemini AI의 맥락 이해 기능이 들어 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MacBook Pro moves to M6\nwith 25% faster AI",
-          "body": "Apple's 14-inch MacBook Pro moves to M6, promising 30% faster graphics, 25% faster AI and up to 24 hours of battery.",
-          "mini_headline": "MacBook Pro gets M6",
+          "headline": "XREAL Aura brings Android XR\nto AR glasses from $1,100",
+          "body": "XREAL Aura, the first AR glasses running Google's Android XR, launches today starting at $1,100 for a limited time.",
+          "mini_headline": "XREAL Aura glasses launch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "(Image credit: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Apple has unveiled an October refresh of its 14-inch MacBook Pro complete with the M6 processor, as part of its \"Pro and tell\" announcements. It doesn't come with a touchscreen or much in the way of a new design, and it will ship with macOS 27 Golden Gate, which includes the next version of Apple Intelligence and Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "The new M6 MacBook Pro starts at $1,999 with an M6 chip, 16GB of RAM and 1TB of storage. Pre-orders begin on Wednesday, October 28, and shipping will begin on November 6."
+                "x": "XREAL announced that XREAL AURA, the first AR glasses running Google’s Android XR operating system, is launching today, starting at $1,100 for a limited time. The first batch is slated to start shipping in mid-November, coming first to the US, Canada, Japan, and South Korea."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "(Image credit: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "Courtesy XREAL"
               },
               {
                 "t": "p",
-                "x": "The M6 moves to a 2-nanometer architecture and adds two cores to both the CPU and GPU over the M5's 10-core CPU and 10-core GPU. It also has a Dual 16-core Neural Engine for AI and machine learning, supported by Neural Accelerators in each GPU core. Apple says the 12-core GPU delivers up to 30 percent faster graphics and up to 25 percent faster AI workloads when compared to M5."
+                "x": "Launch discount through December 2026: Xreal Aura 12GB + 256GB: $1,099, regularly $1,279; 16GB + 512GB: $1,299, regularly $1,499."
               },
               {
                 "t": "p",
-                "x": "The MacBook Pro also gets Apple's N1 chip with Wi-Fi 7 and Bluetooth 6, and Apple says battery life reaches up to 24 hours overall."
+                "x": "Aura’s prism-style see-through optics deliver a 70-degree field-of-view in a package under 95 grams. It tethers to a pocketable compute unit with Qualcomm’s Snapdragon Reality Elite chipset for XR processing and AI workloads, and Xreal’s X1S Spatial Coprocessor. It supports 6DOF and hand tracking, Play Store apps, and ships with over 150 made-for-XR experiences."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "Courtesy XREAL"
+              },
+              {
+                "t": "p",
+                "x": "Xreal also announced a gamepad designed with GameSir featuring a dedicated Gemini key, giving players “a fast way to access AI assistance while they play,” plus a wireless portable keyboard. The compute puck offers built-in Gemini AI context understanding."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MacBook Pro M6\nAI 성능 25% 향상",
-          "body": "Apple MacBook Pro 14인치 M6는 AI 25%·그래픽 30% 빠르다.",
-          "mini_headline": "MacBook Pro, M6 탑재",
+          "headline": "XREAL Aura 출시\nAR 안경 $1,100부터",
+          "body": "Android XR 첫 AR 안경 XREAL Aura가 $1,100부터 팔린다.",
+          "mini_headline": "XREAL Aura 안경 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "(이미지 출처: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Apple이 \"Pro and tell\" 발표에서 M6 프로세서를 단 14인치 MacBook Pro의 10월 리프레시 모델을 공개했다. 터치스크린은 없고 디자인도 크게 달라지지 않았다. 차세대 Apple Intelligence와 Siri AI를 담은 macOS 27 Golden Gate가 기본으로 들어간다."
-              },
-              {
-                "t": "p",
-                "x": "새 M6 MacBook Pro는 M6 칩, 16GB RAM, 1TB 저장공간 구성이 $1,999부터다. 사전 주문은 10월 28일 수요일에 시작하며 출고는 11월 6일부터다."
+                "x": "XREAL이 Google의 Android XR 운영체제를 얹은 첫 AR 안경 XREAL AURA를 오늘 출시한다고 밝혔다. 한정 기간 $1,100부터 판다. 첫 물량은 mid-November부터 US, 캐나다, 일본, 한국에 먼저 출하된다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "(이미지 출처: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "사진 제공: XREAL"
               },
               {
                 "t": "p",
-                "x": "M6는 2나노미터 아키텍처로 넘어갔고 M5의 10코어 CPU·10코어 GPU보다 CPU와 GPU 코어가 두 개씩 늘었다. AI와 머신러닝은 Dual 16코어 Neural Engine이 맡고 각 GPU 코어에 들어간 Neural Accelerators가 이를 받친다. Apple은 12코어 GPU가 M5보다 그래픽은 최대 30퍼센트, AI 작업은 최대 25퍼센트 빠르다고 밝혔다."
+                "x": "출시 할인은 December 2026까지 이어진다. Xreal Aura 12GB + 256GB 모델은 정가 $1,279에서 $1,099로, 16GB + 512GB 모델은 정가 $1,499에서 $1,299로 내려간다."
               },
               {
                 "t": "p",
-                "x": "Wi-Fi 7과 Bluetooth 6을 지원하는 Apple의 N1 칩도 들어간다. 배터리는 최대 24시간 간다고 Apple은 밝혔다."
+                "x": "Aura는 프리즘 방식 시스루 광학계로 95그램이 안 되는 무게에 70도 시야각을 낸다. 주머니에 들어가는 컴퓨트 유닛과 선으로 연결되는데, 이 유닛에 XR 처리와 AI 작업을 맡는 Qualcomm의 Snapdragon Reality Elite 칩셋과 Xreal의 X1S Spatial Coprocessor가 들어 있다. 6DOF와 손 추적, Play Store 앱을 지원하고 150개가 넘는 made-for-XR 경험을 기본으로 담았다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "사진 제공: XREAL"
+              },
+              {
+                "t": "p",
+                "x": "Xreal은 GameSir와 함께 설계한 게임패드도 공개했다. 전용 Gemini 키를 눌러 “플레이 중 AI 도움을 빠르게 받는 방법”을 쓸 수 있다. 무선 휴대용 키보드도 함께 나왔다. 컴퓨트 퍽에는 Gemini AI의 맥락 이해 기능이 들어 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MacBook Pro M6\nAI性能25%向上",
-          "body": "M6搭載の14インチMacBook Proは描画30%、AI 25%速く、電池は24時間だ。",
-          "mini_headline": "MacBook ProがM6に",
+          "headline": "XREAL Aura発売\nARグラス$1,100から",
+          "body": "Android XR初のARグラスXREAL Auraが本日$1,100から発売された。",
+          "mini_headline": "XREAL Auraグラス発売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "(画像クレジット：Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Appleは「Pro and tell」発表の一環として、M6プロセッサーを搭載した14インチMacBook Proの10月リフレッシュを発表した。タッチスクリーンはなく、デザインもほとんど変わらない。次世代のApple IntelligenceとSiri AIを含むmacOS 27 Golden Gateを搭載して出荷される。"
-              },
-              {
-                "t": "p",
-                "x": "新しいM6 MacBook Proは、M6チップ、16GBのRAM、1TBのストレージを備えて$1,999からだ。予約注文は10月28日（水）に始まり、出荷は11月6日に始まる。"
+                "x": "XREALは、GoogleのAndroid XR OSを搭載した初のARグラスXREAL AURAを本日発売すると発表した。期間限定で$1,100からとなる。初回分はmid-Novemberに出荷が始まる予定で、まずUS、カナダ、日本、韓国で展開される。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "(画像クレジット：Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "提供：XREAL"
               },
               {
                 "t": "p",
-                "x": "M6は2ナノメートルのアーキテクチャに移行し、M5の10コアCPUと10コアGPUに対し、CPUとGPUにそれぞれ二つずつコアを追加した。AIと機械学習向けのDual 16コアNeural Engineも備え、各GPUコアのNeural Acceleratorsがそれを支える。Appleによれば、12コアGPUはM5と比べてグラフィックスが最大30パーセント、AI処理が最大25パーセント高速だという。"
+                "x": "December 2026までの発売記念割引では、Xreal Aura 12GB + 256GBが通常$1,279のところ$1,099、16GB + 512GBが通常$1,499のところ$1,299となる。"
               },
               {
                 "t": "p",
-                "x": "MacBook ProにはWi-Fi 7とBluetooth 6に対応したAppleのN1チップも搭載され、Appleはバッテリー駆動時間が全体で最大24時間に達するとしている。"
+                "x": "Auraのプリズム式シースルー光学系は、95グラム未満の筐体で70度の視野角を実現する。ポケットに収まるコンピュートユニットに有線で接続し、同ユニットはXR処理とAI処理を担うQualcommのSnapdragon Reality EliteチップセットとXrealのX1S Spatial Coprocessorを備える。6DOFとハンドトラッキング、Play Storeのアプリに対応し、150を超えるmade-for-XR体験を搭載して出荷される。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "提供：XREAL"
+              },
+              {
+                "t": "p",
+                "x": "XrealはGameSirと共同設計したゲームパッドも発表した。専用のGeminiキーを備え、プレイヤーに「プレイ中にAIの支援をすばやく受けられる手段」を提供する。ワイヤレスの携帯キーボードも用意した。コンピュートパックにはGemini AIによる文脈理解機能が組み込まれている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MacBook Pro M6\nAI性能提升25%",
-          "body": "14英寸MacBook Pro升级M6，图形快30%、AI快25%，续航最长24小时。",
-          "mini_headline": "MacBook Pro升级M6",
+          "headline": "XREAL Aura发布\nAR眼镜$1,100起",
+          "body": "首款搭载Android XR的AR眼镜XREAL Aura今日发售，限时$1,100起。",
+          "mini_headline": "XREAL Aura眼镜发售",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "（图片来源：Apple）"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Apple在“Pro and tell”系列发布中推出了14英寸MacBook Pro的10月更新款，搭载M6处理器。新款没有触控屏，设计也几乎没有变化，出厂预装macOS 27 Golden Gate，其中包含新一代Apple Intelligence和Siri AI。"
-              },
-              {
-                "t": "p",
-                "x": "新款M6 MacBook Pro起售价$1,999，配备M6芯片、16GB RAM和1TB存储。预订于10月28日周三开始，11月6日开始发货。"
+                "x": "XREAL宣布，首款搭载Google Android XR操作系统的AR眼镜XREAL AURA今日发售，限时起售价为$1,100。首批产品预计于mid-November开始发货，率先登陆US、加拿大、日本和韩国。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "（图片来源：Apple）"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "图片来源：XREAL"
               },
               {
                 "t": "p",
-                "x": "M6转向2纳米架构，在M5的10核CPU和10核GPU基础上，CPU和GPU各增加两个核心。它还配备用于AI和机器学习的Dual 16核Neural Engine，并由每个GPU核心中的Neural Accelerators提供支持。Apple表示，与M5相比，12核GPU的图形性能最高提升百分之三十，AI工作负载最高提升百分之二十五。"
+                "x": "首发优惠持续至December 2026：Xreal Aura 12GB + 256GB售价$1,099，原价$1,279；16GB + 512GB售价$1,299，原价$1,499。"
               },
               {
                 "t": "p",
-                "x": "MacBook Pro还配备支持Wi-Fi 7和Bluetooth 6的Apple N1芯片，Apple称其整体续航最长可达24小时。"
+                "x": "Aura采用棱镜式透视光学方案，在不到95克的机身中实现70度视场角。它通过线缆连接一台可放入口袋的计算单元，该单元配备负责XR处理和AI任务的Qualcomm Snapdragon Reality Elite芯片组，以及Xreal的X1S Spatial Coprocessor。设备支持6DOF与手势追踪、Play Store应用，出厂即附带超过150个made-for-XR体验。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "图片来源：XREAL"
+              },
+              {
+                "t": "p",
+                "x": "Xreal还发布了与GameSir合作设计的游戏手柄，配有专用Gemini按键，为玩家提供“在游戏中快速获取AI协助的方式”，另有一款无线便携键盘。计算模块内置Gemini AI情境理解功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El MacBook Pro pasa al M6\ncon AI un 25% más rápida",
-          "body": "El MacBook Pro de 14 pulgadas de Apple pasa al M6: gráficos un 30% y AI un 25% más rápidos y hasta 24 horas de batería.",
-          "mini_headline": "El MacBook Pro estrena el M6",
+          "headline": "XREAL Aura lleva Android XR\na gafas AR desde $1,100",
+          "body": "XREAL Aura, las primeras gafas AR con Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado.",
+          "mini_headline": "Llegan las gafas XREAL Aura",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "(Crédito de imagen: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Apple presentó una renovación de octubre de su MacBook Pro de 14 pulgadas con el procesador M6, como parte de sus anuncios \"Pro and tell\". No incluye pantalla táctil ni grandes cambios de diseño, y llegará con macOS 27 Golden Gate, que incluye la próxima versión de Apple Intelligence y Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "El nuevo MacBook Pro con M6 parte de $1,999 con chip M6, 16GB de RAM y 1TB de almacenamiento. Las reservas comienzan el miércoles 28 de octubre y los envíos, el 6 de noviembre."
+                "x": "XREAL anunció que XREAL AURA, las primeras gafas AR con el sistema operativo Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado. Está previsto que el primer lote empiece a enviarse a mid-November, primero en US, Canadá, Japón y Corea del Sur."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "(Crédito de imagen: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "Cortesía de XREAL"
               },
               {
                 "t": "p",
-                "x": "El M6 pasa a una arquitectura de 2 nanómetros y suma dos núcleos tanto a la CPU como a la GPU respecto a la CPU de 10 núcleos y la GPU de 10 núcleos del M5. También cuenta con un Dual 16-core Neural Engine para AI y aprendizaje automático, apoyado por Neural Accelerators en cada núcleo de la GPU. Apple afirma que la GPU de 12 núcleos ofrece gráficos hasta un 30 por ciento más rápidos y cargas de trabajo de AI hasta un 25 por ciento más rápidas que el M5."
+                "x": "Descuento de lanzamiento hasta December 2026: Xreal Aura 12GB + 256GB: $1,099, precio habitual $1,279; 16GB + 512GB: $1,299, precio habitual $1,499."
               },
               {
                 "t": "p",
-                "x": "El MacBook Pro también incorpora el chip N1 de Apple con Wi-Fi 7 y Bluetooth 6, y Apple asegura que la batería alcanza hasta 24 horas en total."
+                "x": "La óptica transparente de tipo prisma de Aura ofrece un campo de visión de 70 grados en un conjunto de menos de 95 gramos. Se conecta por cable a una unidad de cómputo de bolsillo con el chipset Snapdragon Reality Elite de Qualcomm para el procesamiento XR y las cargas de trabajo de AI, y con el X1S Spatial Coprocessor de Xreal. Admite 6DOF y seguimiento de manos, apps de Play Store, y llega con más de 150 experiencias made-for-XR."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "Cortesía de XREAL"
+              },
+              {
+                "t": "p",
+                "x": "Xreal también presentó un mando diseñado con GameSir que incluye una tecla Gemini dedicada y ofrece a los jugadores “una forma rápida de acceder a la asistencia de AI mientras juegan”, además de un teclado portátil inalámbrico. La unidad de cómputo integra la comprensión de contexto de Gemini AI."
               }
             ]
           }
@@ -641,145 +585,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MacBook Pro M6\nAI 성능 25% 향상",
-          "body": "Apple MacBook Pro 14인치 M6는 AI 25%·그래픽 30% 빠르다.",
-          "mini_headline": "MacBook Pro, M6 탑재",
+          "headline": "XREAL Aura 출시\nAR 안경 $1,100부터",
+          "body": "Android XR 첫 AR 안경 XREAL Aura가 $1,100부터 나온다.",
+          "mini_headline": "XREAL Aura 안경 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "(이미지 출처: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Apple이 \"Pro and tell\" 발표의 하나로 M6 프로세서를 탑재한 14인치 MacBook Pro의 10월 리프레시 모델을 공개했다. 터치스크린은 없고 디자인도 크게 바뀌지 않았으며, 차세대 Apple Intelligence와 Siri AI를 담은 macOS 27 Golden Gate가 기본 탑재된다."
-              },
-              {
-                "t": "p",
-                "x": "새 M6 MacBook Pro는 M6 칩, 16GB RAM, 1TB 저장공간 구성에 $1,999부터 시작한다. 사전 주문은 10월 28일 수요일에 시작되고, 출고는 11월 6일부터다."
+                "x": "XREAL은 Google의 Android XR 운영체제를 탑재한 첫 AR 안경 XREAL AURA를 오늘 출시한다고 발표했다. 한정 기간 동안 $1,100부터 판매한다. 첫 물량은 mid-November부터 출하를 시작하며 US, 캐나다, 일본, 한국에 먼저 공급된다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "(이미지 출처: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "사진 제공: XREAL"
               },
               {
                 "t": "p",
-                "x": "M6는 2나노미터 아키텍처로 바뀌었고, M5의 10코어 CPU와 10코어 GPU보다 CPU와 GPU에 코어를 두 개씩 더했다. AI와 머신러닝을 위한 Dual 16코어 Neural Engine도 갖췄으며, 각 GPU 코어에 들어간 Neural Accelerators가 이를 뒷받침한다. Apple은 12코어 GPU가 M5 대비 그래픽은 최대 30퍼센트, AI 작업은 최대 25퍼센트 빠르다고 밝혔다."
+                "x": "December 2026까지 출시 할인이 적용된다. Xreal Aura 12GB + 256GB 모델은 정가 $1,279에서 $1,099로, 16GB + 512GB 모델은 정가 $1,499에서 $1,299로 판매된다."
               },
               {
                 "t": "p",
-                "x": "MacBook Pro에는 Wi-Fi 7과 Bluetooth 6을 지원하는 Apple의 N1 칩도 들어가며, Apple은 배터리 사용 시간이 최대 24시간에 이른다고 밝혔다."
+                "x": "Aura의 프리즘 방식 시스루 광학계는 95그램이 안 되는 무게에 70도 시야각을 구현한다. 주머니에 넣을 수 있는 컴퓨트 유닛과 유선으로 연결되며, 이 유닛에는 XR 처리와 AI 작업을 맡는 Qualcomm의 Snapdragon Reality Elite 칩셋과 Xreal의 X1S Spatial Coprocessor가 들어간다. 6DOF와 손 추적, Play Store 앱을 지원하고 150개가 넘는 made-for-XR 경험을 기본으로 제공한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "사진 제공: XREAL"
+              },
+              {
+                "t": "p",
+                "x": "Xreal은 GameSir와 함께 설계한 게임패드도 공개했다. 전용 Gemini 키를 달아 플레이어에게 “플레이 중 AI 도움을 빠르게 받는 방법”을 제공하며, 무선 휴대용 키보드도 함께 내놓았다. 컴퓨트 퍽에는 Gemini AI의 맥락 이해 기능이 내장돼 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MacBook Pro M6\nAI性能25%向上",
-          "body": "M6搭載の14インチMacBook Proは描画30%、AI 25%速く、電池は24時間だ。",
-          "mini_headline": "MacBook ProがM6に",
+          "headline": "XREAL Aura発売\nARグラス$1,100から",
+          "body": "Android XR初のARグラスXREAL Auraが本日$1,100から発売された。",
+          "mini_headline": "XREAL Auraグラス発売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "(画像クレジット：Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Appleは「Pro and tell」発表の一環として、M6プロセッサーを搭載した14インチMacBook Proの10月リフレッシュを発表した。タッチスクリーンはなく、デザインもほとんど変わらない。次世代のApple IntelligenceとSiri AIを含むmacOS 27 Golden Gateを搭載して出荷される。"
-              },
-              {
-                "t": "p",
-                "x": "新しいM6 MacBook Proは、M6チップ、16GBのRAM、1TBのストレージを備えて$1,999からだ。予約注文は10月28日（水）に始まり、出荷は11月6日に始まる。"
+                "x": "XREALは、GoogleのAndroid XR OSを搭載した初のARグラスXREAL AURAを本日発売すると発表した。期間限定で$1,100からとなる。初回分はmid-Novemberに出荷が始まる予定で、まずUS、カナダ、日本、韓国で展開される。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "(画像クレジット：Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "提供：XREAL"
               },
               {
                 "t": "p",
-                "x": "M6は2ナノメートルのアーキテクチャに移行し、M5の10コアCPUと10コアGPUに対し、CPUとGPUにそれぞれ二つずつコアを追加した。AIと機械学習向けのDual 16コアNeural Engineも備え、各GPUコアのNeural Acceleratorsがそれを支える。Appleによれば、12コアGPUはM5と比べてグラフィックスが最大30パーセント、AI処理が最大25パーセント高速だという。"
+                "x": "December 2026までの発売記念割引では、Xreal Aura 12GB + 256GBが通常$1,279のところ$1,099、16GB + 512GBが通常$1,499のところ$1,299となる。"
               },
               {
                 "t": "p",
-                "x": "MacBook ProにはWi-Fi 7とBluetooth 6に対応したAppleのN1チップも搭載され、Appleはバッテリー駆動時間が全体で最大24時間に達するとしている。"
+                "x": "Auraのプリズム式シースルー光学系は、95グラム未満の筐体で70度の視野角を実現する。ポケットに収まるコンピュートユニットに有線で接続し、同ユニットはXR処理とAI処理を担うQualcommのSnapdragon Reality EliteチップセットとXrealのX1S Spatial Coprocessorを備える。6DOFとハンドトラッキング、Play Storeのアプリに対応し、150を超えるmade-for-XR体験を搭載して出荷される。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "提供：XREAL"
+              },
+              {
+                "t": "p",
+                "x": "XrealはGameSirと共同設計したゲームパッドも発表した。専用のGeminiキーを備え、プレイヤーに「プレイ中にAIの支援をすばやく受けられる手段」を提供する。ワイヤレスの携帯キーボードも用意した。コンピュートパックにはGemini AIによる文脈理解機能が組み込まれている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MacBook Pro M6\nAI性能提升25%",
-          "body": "14英寸MacBook Pro升级M6，图形快30%、AI快25%，续航最长24小时。",
-          "mini_headline": "MacBook Pro升级M6",
+          "headline": "XREAL Aura发布\nAR眼镜$1,100起",
+          "body": "首款搭载Android XR的AR眼镜XREAL Aura今日发售，限时$1,100起。",
+          "mini_headline": "XREAL Aura眼镜发售",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "（图片来源：Apple）"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Apple在“Pro and tell”系列发布中推出了14英寸MacBook Pro的10月更新款，搭载M6处理器。新款没有触控屏，设计也几乎没有变化，出厂预装macOS 27 Golden Gate，其中包含新一代Apple Intelligence和Siri AI。"
-              },
-              {
-                "t": "p",
-                "x": "新款M6 MacBook Pro起售价$1,999，配备M6芯片、16GB RAM和1TB存储。预订于10月28日周三开始，11月6日开始发货。"
+                "x": "XREAL宣布，首款搭载Google Android XR操作系统的AR眼镜XREAL AURA今日发售，限时起售价为$1,100。首批产品预计于mid-November开始发货，率先登陆US、加拿大、日本和韩国。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "（图片来源：Apple）"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "图片来源：XREAL"
               },
               {
                 "t": "p",
-                "x": "M6转向2纳米架构，在M5的10核CPU和10核GPU基础上，CPU和GPU各增加两个核心。它还配备用于AI和机器学习的Dual 16核Neural Engine，并由每个GPU核心中的Neural Accelerators提供支持。Apple表示，与M5相比，12核GPU的图形性能最高提升百分之三十，AI工作负载最高提升百分之二十五。"
+                "x": "首发优惠持续至December 2026：Xreal Aura 12GB + 256GB售价$1,099，原价$1,279；16GB + 512GB售价$1,299，原价$1,499。"
               },
               {
                 "t": "p",
-                "x": "MacBook Pro还配备支持Wi-Fi 7和Bluetooth 6的Apple N1芯片，Apple称其整体续航最长可达24小时。"
+                "x": "Aura采用棱镜式透视光学方案，在不到95克的机身中实现70度视场角。它通过线缆连接一台可放入口袋的计算单元，该单元配备负责XR处理和AI任务的Qualcomm Snapdragon Reality Elite芯片组，以及Xreal的X1S Spatial Coprocessor。设备支持6DOF与手势追踪、Play Store应用，出厂即附带超过150个made-for-XR体验。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "图片来源：XREAL"
+              },
+              {
+                "t": "p",
+                "x": "Xreal还发布了与GameSir合作设计的游戏手柄，配有专用Gemini按键，为玩家提供“在游戏中快速获取AI协助的方式”，另有一款无线便携键盘。计算模块内置Gemini AI情境理解功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El MacBook Pro pasa al M6\ncon AI un 25% más rápida",
-          "body": "El MacBook Pro de 14 pulgadas de Apple pasa al M6: gráficos un 30% y AI un 25% más rápidos y hasta 24 horas de batería.",
-          "mini_headline": "El MacBook Pro estrena el M6",
+          "headline": "XREAL Aura lleva Android XR\na gafas AR desde $1,100",
+          "body": "XREAL Aura, las primeras gafas AR con Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado.",
+          "mini_headline": "Llegan las gafas XREAL Aura",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
-                "cap": "(Crédito de imagen: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Apple presentó una renovación de octubre de su MacBook Pro de 14 pulgadas con el procesador M6, como parte de sus anuncios \"Pro and tell\". No incluye pantalla táctil ni grandes cambios de diseño, y llegará con macOS 27 Golden Gate, que incluye la próxima versión de Apple Intelligence y Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "El nuevo MacBook Pro con M6 parte de $1,999 con chip M6, 16GB de RAM y 1TB de almacenamiento. Las reservas comienzan el miércoles 28 de octubre y los envíos, el 6 de noviembre."
+                "x": "XREAL anunció que XREAL AURA, las primeras gafas AR con el sistema operativo Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado. Está previsto que el primer lote empiece a enviarse a mid-November, primero en US, Canadá, Japón y Corea del Sur."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
-                "cap": "(Crédito de imagen: Apple)"
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+                "cap": "Cortesía de XREAL"
               },
               {
                 "t": "p",
-                "x": "El M6 pasa a una arquitectura de 2 nanómetros y suma dos núcleos tanto a la CPU como a la GPU respecto a la CPU de 10 núcleos y la GPU de 10 núcleos del M5. También cuenta con un Dual 16-core Neural Engine para AI y aprendizaje automático, apoyado por Neural Accelerators en cada núcleo de la GPU. Apple afirma que la GPU de 12 núcleos ofrece gráficos hasta un 30 por ciento más rápidos y cargas de trabajo de AI hasta un 25 por ciento más rápidas que el M5."
+                "x": "Descuento de lanzamiento hasta December 2026: Xreal Aura 12GB + 256GB: $1,099, precio habitual $1,279; 16GB + 512GB: $1,299, precio habitual $1,499."
               },
               {
                 "t": "p",
-                "x": "El MacBook Pro también incorpora el chip N1 de Apple con Wi-Fi 7 y Bluetooth 6, y Apple asegura que la batería alcanza hasta 24 horas en total."
+                "x": "La óptica transparente de tipo prisma de Aura ofrece un campo de visión de 70 grados en un conjunto de menos de 95 gramos. Se conecta por cable a una unidad de cómputo de bolsillo con el chipset Snapdragon Reality Elite de Qualcomm para el procesamiento XR y las cargas de trabajo de AI, y con el X1S Spatial Coprocessor de Xreal. Admite 6DOF y seguimiento de manos, apps de Play Store, y llega con más de 150 experiencias made-for-XR."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+                "cap": "Cortesía de XREAL"
+              },
+              {
+                "t": "p",
+                "x": "Xreal también presentó un mando diseñado con GameSir que incluye una tecla Gemini dedicada y ofrece a los jugadores “una forma rápida de acceder a la asistencia de AI mientras juegan”, además de un teclado portátil inalámbrico. La unidad de cómputo integra la comprensión de contexto de Gemini AI."
               }
             ]
           }
@@ -787,427 +747,15 @@
       }
     },
     {
-      "id": "gadgets-galaxy-buds-on",
+      "id": "gadgets-copilot-tv-exit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Galaxy Buds On\nGemini Live 탑재",
-      "body": "Samsung Galaxy Buds On으로 Gemini Live를 손 없이 쓴다.",
-      "mini_headline": "Gemini Live 품은 Galaxy Buds On",
+      "headline": "Copilot, 스마트\nTVs에서 빠진다",
+      "body": "Microsoft가 LG·Samsung TVs에서 Copilot 지원을 접는다.",
+      "mini_headline": "Copilot, 스마트 TVs서 빠진다",
       "tool": "Gadgets",
-      "source": "Samsung Global Newsroom",
-      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-            "cap": "Galaxy Buds On"
-          },
-          {
-            "t": "p",
-            "x": "Samsung Electronics가 첫 오픈형 이어버드 Galaxy Buds On을 내놨다. 클립형 디자인에 풍부한 사운드와 AI-powered 기능을 더해 더 큰 자유와 유연성을 준다. 귀에 가볍게 걸리지만 머리를 격하게 움직여도 단단히 고정된다."
-          },
-          {
-            "t": "p",
-            "x": "“Hey Google, let’s talk Live”라고 말하면 Gemini Live가 켜져 스마트폰을 꺼내지 않고도 러닝 코스를 추천받는다. Galaxy AI-enabled 스마트폰과 연결하면 손을 쓰지 않고 Gemini Live를 이용할 수 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-          },
-          {
-            "t": "p",
-            "x": "“Next song”이나 “Volume up” 같은 음성 명령으로 이어버드를 건드리지 않고 재생을 제어한다. 회의가 끝난 뒤 이어버드를 길게 누르면 Quick Voice Memo가 녹음을 시작한다. 나중에 Bixby에게 할 일을 물으면 세부 내용을 음성으로 들려준다. Head Gestures 기능을 쓰면 고개를 끄덕여 전화를 받고 고개를 저어 거절한다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-            "cap": "Galaxy Buds On에는 Intelligent Clear Call 기능이 있다."
-          },
-          {
-            "t": "p",
-            "x": "Intelligent Clear Call은 마이크 세 개와 골전도 기반 Voice Pickup Unit Sensor, 머신러닝 기반 솔루션으로 사용자 목소리를 가려내고 주변 소음을 줄인다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Galaxy Buds On clip on\nwith hands-free Gemini Live",
-          "body": "Samsung's clip-on Galaxy Buds On launch with hands-free Gemini Live and head-gesture call handling.",
-          "mini_headline": "Galaxy Buds On with Gemini Live",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics has launched Galaxy Buds On, its first open-ear earbuds. Combining a clip-on design with rich sound and AI-powered features, Galaxy Buds On offers greater freedom and flexibility. The clip-on design rests lightly on the ears and stays securely in place even with vigorous head movements."
-              },
-              {
-                "t": "p",
-                "x": "Saying “Hey Google, let’s talk Live” launches Gemini Live, allowing users to ask for running route recommendations without taking out their smartphones. Galaxy Buds On offers hands-free access to Gemini Live when paired with a Galaxy AI-enabled smartphone."
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Voice commands like “Next song” or “Volume up” control playback without touching the earbuds. After a meeting, Quick Voice Memo starts recording when users press and hold an earbud; later, they can ask Bixby about their tasks and hear the details aloud. With Head Gestures, users can nod to answer incoming calls or shake their heads to decline them."
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds On features Intelligent Clear Call."
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Call uses three microphones, a bone conduction-based Voice Pickup Unit Sensor, and a machine learning-based solution to isolate the user’s voice and reduce background noise."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Galaxy Buds On\nGemini Live 탑재",
-          "body": "Samsung Galaxy Buds On으로 Gemini Live를 손 없이 쓴다.",
-          "mini_headline": "Gemini Live 품은 Galaxy Buds On",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics가 첫 오픈형 이어버드 Galaxy Buds On을 내놨다. 클립형 디자인에 풍부한 사운드와 AI-powered 기능을 더해 더 큰 자유와 유연성을 준다. 귀에 가볍게 걸리지만 머리를 격하게 움직여도 단단히 고정된다."
-              },
-              {
-                "t": "p",
-                "x": "“Hey Google, let’s talk Live”라고 말하면 Gemini Live가 켜져 스마트폰을 꺼내지 않고도 러닝 코스를 추천받는다. Galaxy AI-enabled 스마트폰과 연결하면 손을 쓰지 않고 Gemini Live를 이용할 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "“Next song”이나 “Volume up” 같은 음성 명령으로 이어버드를 건드리지 않고 재생을 제어한다. 회의가 끝난 뒤 이어버드를 길게 누르면 Quick Voice Memo가 녹음을 시작한다. 나중에 Bixby에게 할 일을 물으면 세부 내용을 음성으로 들려준다. Head Gestures 기능을 쓰면 고개를 끄덕여 전화를 받고 고개를 저어 거절한다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds On에는 Intelligent Clear Call 기능이 있다."
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Call은 마이크 세 개와 골전도 기반 Voice Pickup Unit Sensor, 머신러닝 기반 솔루션으로 사용자 목소리를 가려내고 주변 소음을 줄인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Galaxy Buds On\nGemini Live対応",
-          "body": "SamsungのGalaxy Buds OnはGemini Liveを手ぶらで呼び出せる。",
-          "mini_headline": "Gemini Live対応のGalaxy Buds On",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronicsは、同社初のオープンイヤー型イヤホン「Galaxy Buds On」を発売した。クリップオン型のデザインに豊かなサウンドとAI-powered機能を組み合わせ、より自由で柔軟な使い方ができる。クリップオン型デザインは耳に軽く載り、頭を激しく動かしてもしっかり固定される。"
-              },
-              {
-                "t": "p",
-                "x": "“Hey Google, let’s talk Live”と話しかけるとGemini Liveが起動し、スマートフォンを取り出さずにランニングルートのおすすめを尋ねられる。Galaxy Buds Onは、Galaxy AI-enabledのスマートフォンとペアリングすると、ハンズフリーでGemini Liveを利用できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "“Next song”や“Volume up”といった音声コマンドで、イヤホンに触れずに再生を操作できる。会議の後はイヤホンを長押しするとQuick Voice Memoが録音を始め、後でBixbyにタスクを尋ねて詳細を読み上げてもらえる。Head Gesturesを使えば、うなずいて着信に応答し、首を横に振って拒否できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds OnはIntelligent Clear Callを搭載している。"
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Callは、三つのマイク、骨伝導ベースのVoice Pickup Unit Sensor、機械学習ベースのソリューションを使い、ユーザーの声を分離して周囲の雑音を減らす。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Galaxy Buds On\n支持Gemini Live",
-          "body": "三星夹式Galaxy Buds On支持免提Gemini Live和头部手势接听来电。",
-          "mini_headline": "Galaxy Buds On支持Gemini Live",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics推出了旗下首款开放式耳机Galaxy Buds On。Galaxy Buds On将夹式设计与丰富音质和AI-powered功能相结合，带来更大的自由度和灵活性。夹式设计轻轻搭在耳朵上，即使头部剧烈运动也能牢牢固定。"
-              },
-              {
-                "t": "p",
-                "x": "说出“Hey Google, let’s talk Live”即可启动Gemini Live，用户无需掏出手机就能询问跑步路线推荐。与Galaxy AI-enabled智能手机配对后，Galaxy Buds On可免提使用Gemini Live。"
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "用“Next song”或“Volume up”等语音指令，无需触碰耳机即可控制播放。会议结束后，长按耳机即可让Quick Voice Memo开始录音；之后可以向Bixby询问待办事项并收听详细内容。借助Head Gestures，用户点头即可接听来电，摇头即可拒接。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds On具备Intelligent Clear Call功能。"
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Call利用三个麦克风、基于骨传导的Voice Pickup Unit Sensor和基于机器学习的方案，分离用户的声音并降低背景噪音。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Galaxy Buds On, con clip y\nGemini Live sin manos",
-          "body": "Los Galaxy Buds On de Samsung, con clip, llegan con Gemini Live sin manos y control de llamadas con gestos de cabeza.",
-          "mini_headline": "Galaxy Buds On con Gemini Live",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics ha lanzado Galaxy Buds On, sus primeros auriculares de oído abierto. Con un diseño de clip, un sonido rico y funciones AI-powered, Galaxy Buds On ofrece más libertad y flexibilidad. El diseño de clip descansa ligeramente sobre las orejas y se mantiene firme incluso con movimientos bruscos de la cabeza."
-              },
-              {
-                "t": "p",
-                "x": "Al decir “Hey Google, let’s talk Live” se inicia Gemini Live, que permite pedir recomendaciones de rutas para correr sin sacar el teléfono. Galaxy Buds On ofrece acceso manos libres a Gemini Live cuando se empareja con un smartphone Galaxy AI-enabled."
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Comandos de voz como “Next song” o “Volume up” controlan la reproducción sin tocar los auriculares. Tras una reunión, Quick Voice Memo empieza a grabar al mantener pulsado un auricular; después, se puede preguntar a Bixby por las tareas y escuchar los detalles en voz alta. Con Head Gestures, basta asentir para contestar una llamada o negar con la cabeza para rechazarla."
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds On incluye Intelligent Clear Call."
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Call utiliza tres micrófonos, un Voice Pickup Unit Sensor basado en conducción ósea y una solución basada en aprendizaje automático para aislar la voz del usuario y reducir el ruido de fondo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Galaxy Buds On\nGemini Live 탑재",
-          "body": "Samsung Galaxy Buds On은 Gemini Live를 손 없이 쓴다.",
-          "mini_headline": "Gemini Live 품은 Galaxy Buds On",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics가 첫 오픈형 이어버드 Galaxy Buds On을 출시했다. 클립형 디자인에 풍부한 사운드와 AI-powered 기능을 더한 Galaxy Buds On은 더 큰 자유와 유연성을 제공한다. 클립형 디자인은 귀에 가볍게 걸리고, 머리를 격하게 움직여도 단단히 고정된다."
-              },
-              {
-                "t": "p",
-                "x": "“Hey Google, let’s talk Live”라고 말하면 Gemini Live가 실행돼, 스마트폰을 꺼내지 않고도 러닝 코스 추천을 요청할 수 있다. Galaxy Buds On은 Galaxy AI-enabled 스마트폰과 연결하면 손을 쓰지 않고 Gemini Live를 이용할 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "“Next song”이나 “Volume up” 같은 음성 명령으로 이어버드를 건드리지 않고 재생을 제어한다. 회의가 끝난 뒤 이어버드를 길게 누르면 Quick Voice Memo가 녹음을 시작하고, 나중에 Bixby에게 할 일을 물어 세부 내용을 음성으로 들을 수 있다. Head Gestures 기능으로 고개를 끄덕여 전화를 받거나 고개를 저어 거절할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds On에는 Intelligent Clear Call 기능이 있다."
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Call은 마이크 세 개와 골전도 기반 Voice Pickup Unit Sensor, 머신러닝 기반 솔루션으로 사용자의 목소리를 분리하고 주변 소음을 줄인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Galaxy Buds On\nGemini Live対応",
-          "body": "SamsungのGalaxy Buds OnはGemini Liveを手ぶらで呼び出せる。",
-          "mini_headline": "Gemini Live対応のGalaxy Buds On",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronicsは、同社初のオープンイヤー型イヤホン「Galaxy Buds On」を発売した。クリップオン型のデザインに豊かなサウンドとAI-powered機能を組み合わせ、より自由で柔軟な使い方ができる。クリップオン型デザインは耳に軽く載り、頭を激しく動かしてもしっかり固定される。"
-              },
-              {
-                "t": "p",
-                "x": "“Hey Google, let’s talk Live”と話しかけるとGemini Liveが起動し、スマートフォンを取り出さずにランニングルートのおすすめを尋ねられる。Galaxy Buds Onは、Galaxy AI-enabledのスマートフォンとペアリングすると、ハンズフリーでGemini Liveを利用できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "“Next song”や“Volume up”といった音声コマンドで、イヤホンに触れずに再生を操作できる。会議の後はイヤホンを長押しするとQuick Voice Memoが録音を始め、後でBixbyにタスクを尋ねて詳細を読み上げてもらえる。Head Gesturesを使えば、うなずいて着信に応答し、首を横に振って拒否できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds OnはIntelligent Clear Callを搭載している。"
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Callは、三つのマイク、骨伝導ベースのVoice Pickup Unit Sensor、機械学習ベースのソリューションを使い、ユーザーの声を分離して周囲の雑音を減らす。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Galaxy Buds On\n支持Gemini Live",
-          "body": "三星夹式Galaxy Buds On支持免提Gemini Live和头部手势接听来电。",
-          "mini_headline": "Galaxy Buds On支持Gemini Live",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics推出了旗下首款开放式耳机Galaxy Buds On。Galaxy Buds On将夹式设计与丰富音质和AI-powered功能相结合，带来更大的自由度和灵活性。夹式设计轻轻搭在耳朵上，即使头部剧烈运动也能牢牢固定。"
-              },
-              {
-                "t": "p",
-                "x": "说出“Hey Google, let’s talk Live”即可启动Gemini Live，用户无需掏出手机就能询问跑步路线推荐。与Galaxy AI-enabled智能手机配对后，Galaxy Buds On可免提使用Gemini Live。"
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "用“Next song”或“Volume up”等语音指令，无需触碰耳机即可控制播放。会议结束后，长按耳机即可让Quick Voice Memo开始录音；之后可以向Bixby询问待办事项并收听详细内容。借助Head Gestures，用户点头即可接听来电，摇头即可拒接。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds On具备Intelligent Clear Call功能。"
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Call利用三个麦克风、基于骨传导的Voice Pickup Unit Sensor和基于机器学习的方案，分离用户的声音并降低背景噪音。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Galaxy Buds On, con clip y\nGemini Live sin manos",
-          "body": "Los Galaxy Buds On de Samsung, con clip, llegan con Gemini Live sin manos y control de llamadas con gestos de cabeza.",
-          "mini_headline": "Galaxy Buds On con Gemini Live",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
-                "cap": "Galaxy Buds On"
-              },
-              {
-                "t": "p",
-                "x": "Samsung Electronics ha lanzado Galaxy Buds On, sus primeros auriculares de oído abierto. Con un diseño de clip, un sonido rico y funciones AI-powered, Galaxy Buds On ofrece más libertad y flexibilidad. El diseño de clip descansa ligeramente sobre las orejas y se mantiene firme incluso con movimientos bruscos de la cabeza."
-              },
-              {
-                "t": "p",
-                "x": "Al decir “Hey Google, let’s talk Live” se inicia Gemini Live, que permite pedir recomendaciones de rutas para correr sin sacar el teléfono. Galaxy Buds On ofrece acceso manos libres a Gemini Live cuando se empareja con un smartphone Galaxy AI-enabled."
-              },
-              {
-                "t": "video",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Comandos de voz como “Next song” o “Volume up” controlan la reproducción sin tocar los auriculares. Tras una reunión, Quick Voice Memo empieza a grabar al mantener pulsado un auricular; después, se puede preguntar a Bixby por las tareas y escuchar los detalles en voz alta. Con Head Gestures, basta asentir para contestar una llamada o negar con la cabeza para rechazarla."
-              },
-              {
-                "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
-                "cap": "Galaxy Buds On incluye Intelligent Clear Call."
-              },
-              {
-                "t": "p",
-                "x": "Intelligent Clear Call utiliza tres micrófonos, un Voice Pickup Unit Sensor basado en conducción ósea y una solución basada en aprendizaje automático para aislar la voz del usuario y reducir el ruido de fondo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-opera-webai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Opera, 사이트 AI를\n내 노트북에서 돌린다",
-      "body": "Opera WebAI 프리뷰는 사이트별 허가 아래 기기 내 AI 모델을 쓰게 한다.",
-      "mini_headline": "Opera WebAI, AI를 로컬에서",
-      "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -1215,209 +763,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-            "cap": "Opera"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+            "cap": "이미지: Microsoft"
           },
           {
             "t": "p",
-            "x": "Opera의 새 WebAI 프리뷰를 쓰면 웹사이트와 브라우저 확장 프로그램이 Opera One 안에서 로컬 모델을 돌린다. 따로 AI를 구독할 필요도 없고 다루는 정보를 클라우드 서비스로 보내지도 않는다. 옵트인 방식의 프리뷰로 지원되는 Windows PCs와 Apple silicon Macs에 배포되고 있다."
+            "x": "LG와 Samsung은 CES 2025에서 최신 스마트 TVs에 Microsoft Copilot 접근 기능을 넣겠다고 발표했다. 그로부터 두 해 가까이 지나 Microsoft가 올해 모든 TVs에서 이 AI 어시스턴트 기능 지원을 끝낸다고 Windows Central이 보도했다."
           },
           {
             "t": "p",
-            "x": "WebAI는 웹사이트와 확장 프로그램이 브라우저를 거쳐 AI에 접근하게 하는 웹 표준 제안이다. Opera는 Google과 Microsoft도 이 작업에 힘을 보태고 있다고 밝혔다. Opera의 구현은 특정 모델에 묶이지 않고 오픈 모델을 중심에 둔다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-            "cap": "Opera"
+            "x": "소식은 LG TV 화면에 뜬 알림으로 알려졌다. “Microsoft는 최근 당사 LG TVs에서 제공되는 Copilot-enabled 기능을 포함해 모든 TVs에서 Copilot 기능 지원을 종료하기로 결정했습니다.” 알림은 기능이 “2026년 중 중단될 예정”이며 구체적인 날짜는 “Microsoft의 일정에 따른다”고 적었다."
           },
           {
             "t": "p",
-            "x": "Opera One은 Google의 Gemma 모델을 쓸 수 있고 호환되는 Macs에서는 Apple의 온디바이스 파운데이션 모델도 돌린다. 예시 확장 프로그램 중 하나는 어지러운 탭 모음을 정리하고 다른 하나는 낚시성 콘텐츠를 표시한다."
-          },
-          {
-            "t": "p",
-            "x": "WebAI는 기본값이 꺼짐이다. 사용자가 켜기 전에는 아무것도 내려받지 않으며 각 사이트는 브라우저의 로컬 AI에 접근하려면 먼저 허가를 받아야 한다. 속도와 성능은 컴퓨터마다 다르다. Opera GX와 Opera Neon에도 나중에 WebAI가 들어갈 예정이다."
+            "x": "LG는 지난 12월 webOS 업데이트로 지울 수 없는 Copilot 바로가기를 넣었다가 반발을 샀고, 결국 삭제할 수 있게 바꿨다. TVs의 Copilot은 친근한 AI 동반자를 내세웠다. 반면 Microsoft는 올해 초 Copilot “super app”을 내놓으며 Copilot을 디지털 동반자보다 비즈니스·생산성 도구 쪽으로 옮기려 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Opera lets websites run AI\non your own laptop",
-          "body": "Opera's WebAI preview lets sites and extensions use on-device AI models, gated by per-site permissions.",
-          "mini_headline": "Opera WebAI keeps AI local",
+          "headline": "Microsoft pulls Copilot\nfrom smart TVs",
+          "body": "Microsoft is ending Copilot support on LG and Samsung smart TVs, nearly two years after the TV makers announced it.",
+          "mini_headline": "Copilot leaves smart TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "Image: Microsoft"
               },
               {
                 "t": "p",
-                "x": "Opera’s new WebAI preview lets websites and browser extensions use local models inside Opera One without requiring another AI subscription or sending the information they handle to a cloud service. The opt-in preview is rolling out on supported Windows PCs and Apple silicon Macs."
+                "x": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft’s Copilot, the company is ending support for the AI assistant’s functionality on all TVs this year, according to a report by Windows Central."
               },
               {
                 "t": "p",
-                "x": "WebAI is a proposed web standard that gives websites and extensions access to AI through the browser. Opera says the effort has backing from Google and Microsoft. Its implementation is model-agnostic and centered on open models."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "The news comes from an on-screen notification on an LG TV: “Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs.” It says the feature is “scheduled for discontinuation during 2026” and a specific date is “subject to Microsoft’s timeline.”"
               },
               {
                 "t": "p",
-                "x": "Opera One can tap Google’s Gemma models, while compatible Macs can also use Apple’s on-device foundation model. One example extension can sort a messy tab collection, while another can flag clickbait."
-              },
-              {
-                "t": "p",
-                "x": "WebAI is disabled by default. Nothing is downloaded until the user enables it, and each site needs permission before it can access the browser’s local AI. Speed and capability depend on the computer. Opera GX and Opera Neon are scheduled to receive WebAI later."
+                "x": "Last December, LG faced backlash after a webOS update added an unremovable Copilot shortcut; it later allowed the shortcut to be deleted. Copilot served as a friendly AI companion on the TVs, but earlier this year Microsoft introduced a Copilot “super app” as part of a push towards positioning Copilot more as a business and productivity tool, and less as a digital companion."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Opera, 사이트 AI를\n내 노트북에서 돌린다",
-          "body": "Opera WebAI 프리뷰는 사이트별 허가 아래 기기 내 AI 모델을 쓰게 한다.",
-          "mini_headline": "Opera WebAI, AI를 로컬에서",
+          "headline": "Copilot, 스마트\nTVs에서 빠진다",
+          "body": "Microsoft가 LG·Samsung TVs에서 Copilot 지원을 접는다.",
+          "mini_headline": "Copilot, 스마트 TVs서 빠진다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "이미지: Microsoft"
               },
               {
                 "t": "p",
-                "x": "Opera의 새 WebAI 프리뷰를 쓰면 웹사이트와 브라우저 확장 프로그램이 Opera One 안에서 로컬 모델을 돌린다. 따로 AI를 구독할 필요도 없고 다루는 정보를 클라우드 서비스로 보내지도 않는다. 옵트인 방식의 프리뷰로 지원되는 Windows PCs와 Apple silicon Macs에 배포되고 있다."
+                "x": "LG와 Samsung은 CES 2025에서 최신 스마트 TVs에 Microsoft Copilot 접근 기능을 넣겠다고 발표했다. 그로부터 두 해 가까이 지나 Microsoft가 올해 모든 TVs에서 이 AI 어시스턴트 기능 지원을 끝낸다고 Windows Central이 보도했다."
               },
               {
                 "t": "p",
-                "x": "WebAI는 웹사이트와 확장 프로그램이 브라우저를 거쳐 AI에 접근하게 하는 웹 표준 제안이다. Opera는 Google과 Microsoft도 이 작업에 힘을 보태고 있다고 밝혔다. Opera의 구현은 특정 모델에 묶이지 않고 오픈 모델을 중심에 둔다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "소식은 LG TV 화면에 뜬 알림으로 알려졌다. “Microsoft는 최근 당사 LG TVs에서 제공되는 Copilot-enabled 기능을 포함해 모든 TVs에서 Copilot 기능 지원을 종료하기로 결정했습니다.” 알림은 기능이 “2026년 중 중단될 예정”이며 구체적인 날짜는 “Microsoft의 일정에 따른다”고 적었다."
               },
               {
                 "t": "p",
-                "x": "Opera One은 Google의 Gemma 모델을 쓸 수 있고 호환되는 Macs에서는 Apple의 온디바이스 파운데이션 모델도 돌린다. 예시 확장 프로그램 중 하나는 어지러운 탭 모음을 정리하고 다른 하나는 낚시성 콘텐츠를 표시한다."
-              },
-              {
-                "t": "p",
-                "x": "WebAI는 기본값이 꺼짐이다. 사용자가 켜기 전에는 아무것도 내려받지 않으며 각 사이트는 브라우저의 로컬 AI에 접근하려면 먼저 허가를 받아야 한다. 속도와 성능은 컴퓨터마다 다르다. Opera GX와 Opera Neon에도 나중에 WebAI가 들어갈 예정이다."
+                "x": "LG는 지난 12월 webOS 업데이트로 지울 수 없는 Copilot 바로가기를 넣었다가 반발을 샀고, 결국 삭제할 수 있게 바꿨다. TVs의 Copilot은 친근한 AI 동반자를 내세웠다. 반면 Microsoft는 올해 초 Copilot “super app”을 내놓으며 Copilot을 디지털 동반자보다 비즈니스·생산성 도구 쪽으로 옮기려 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Opera、サイトのAIを\n手元の端末で実行",
-          "body": "OperaのWebAIプレビューは、サイトごとの許可制で端末内のAIモデルを使わせる。",
-          "mini_headline": "Opera WebAIでAIをローカルに",
+          "headline": "Microsoft、\nTVsからCopilot撤退",
+          "body": "MicrosoftはLGとSamsungのスマートTVsでCopilot対応を終える。",
+          "mini_headline": "Copilot、スマートTVsから撤退",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "画像：Microsoft"
               },
               {
                 "t": "p",
-                "x": "Operaの新しいWebAIプレビューでは、ウェブサイトやブラウザー拡張機能が、別のAIサブスクリプションを必要とせず、扱う情報をクラウドサービスに送ることもなく、Opera One内でローカルモデルを使える。オプトイン形式のプレビューは、対応するWindows PCsとApple silicon Macsに順次提供されている。"
+                "x": "LGとSamsungがCES 2025で最新スマートTVsにMicrosoftのCopilotへのアクセスを搭載すると発表してからほぼ二年、Microsoftは今年中にすべてのTVsでこのAIアシスタント機能のサポートを終了する。Windows Centralが報じた。"
               },
               {
                 "t": "p",
-                "x": "WebAIは、ウェブサイトや拡張機能がブラウザーを通じてAIにアクセスできるようにする、提案中のウェブ標準だ。Operaによると、この取り組みはGoogleとMicrosoftの支持を得ている。Operaの実装はモデルを問わず、オープンモデルを中心としている。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "この情報はLG TVの画面に表示された通知によるものだ。「Microsoftは最近、当社のLG TVsで利用できるCopilot-enabled機能を含め、すべてのTVsでCopilot機能のサポートを終了することを決定しました」。通知によれば、この機能は「2026年中に提供終了の予定」で、具体的な日付は「Microsoftのスケジュールによる」という。"
               },
               {
                 "t": "p",
-                "x": "Opera OneはGoogleのGemmaモデルを利用でき、対応するMacsではAppleのオンデバイス基盤モデルも使える。拡張機能の例として、散らかったタブを整理するものや、クリックベイトを指摘するものがある。"
-              },
-              {
-                "t": "p",
-                "x": "WebAIは初期設定で無効になっている。ユーザーが有効にするまで何もダウンロードされず、各サイトはブラウザーのローカルAIにアクセスする前に許可を得る必要がある。速度と性能はコンピューターによって異なる。Opera GXとOpera Neonにも後日WebAIが提供される予定だ。"
+                "x": "LGは昨年12月、webOSのアップデートで削除できないCopilotのショートカットを追加して反発を受け、その後ショートカットを削除できるようにした。TVs上のCopilotは親しみやすいAIコンパニオンの役割を担っていたが、Microsoftは今年初め、Copilotをデジタルコンパニオンよりもビジネスと生産性のツールとして位置づける取り組みの一環として、Copilotの「super app」を投入した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Opera让网站AI\n在你的笔记本上运行",
-          "body": "Opera的WebAI预览版让网站和扩展调用本地AI模型，并按网站逐一授权。",
-          "mini_headline": "Opera WebAI让AI留在本地",
+          "headline": "Microsoft撤回\n智能TVs上的Copilot",
+          "body": "近两年后，Microsoft将终止LG与Samsung智能TVs的Copilot支持。",
+          "mini_headline": "Copilot退出智能TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "图片：Microsoft"
               },
               {
                 "t": "p",
-                "x": "Opera新推出的WebAI预览版让网站和浏览器扩展可以在Opera One内使用本地模型，无需额外订阅AI服务，也不必把所处理的信息发送到云服务。这一需用户主动开启的预览版正在受支持的Windows PCs和Apple silicon Macs上推出。"
+                "x": "据Windows Central报道，在LG和Samsung于CES 2025宣布其最新智能TVs将接入Microsoft的Copilot近两年后，Microsoft将于今年在所有TVs上终止这款AI助手的功能支持。"
               },
               {
                 "t": "p",
-                "x": "WebAI是一项拟议中的网络标准，让网站和扩展通过浏览器调用AI。Opera表示，这项工作得到了Google和Microsoft的支持。其实现不绑定特定模型，以开放模型为核心。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "消息来自LG TV上的一则屏幕通知：“Microsoft近期决定终止所有TVs上的Copilot功能支持，包括我们LG TVs上提供的Copilot-enabled功能。”通知称该功能“计划于2026年内停止提供”，具体日期“以Microsoft的时间表为准”。"
               },
               {
                 "t": "p",
-                "x": "Opera One可调用Google的Gemma模型，兼容的Macs还能使用Apple的设备端基础模型。一个示例扩展可以整理杂乱的标签页，另一个则能标记标题党内容。"
-              },
-              {
-                "t": "p",
-                "x": "WebAI默认关闭。在用户启用之前不会下载任何内容，每个网站在访问浏览器的本地AI前都需要获得许可。速度和能力取决于电脑配置。Opera GX和Opera Neon计划稍后支持WebAI。"
+                "x": "去年12月，LG因一次webOS更新加入了无法删除的Copilot快捷方式而遭到抵制，之后才允许用户删除。Copilot在TVs上扮演的是友好的AI伙伴角色，但Microsoft今年早些时候推出了Copilot“super app”，意在把Copilot更多定位为商业和生产力工具，而非数字伙伴。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Opera deja que las webs usen AI\nen tu propio portátil",
-          "body": "La vista previa de WebAI de Opera permite a sitios y extensiones usar modelos de AI locales, con permisos por sitio.",
-          "mini_headline": "Opera WebAI mantiene la AI en local",
+          "headline": "Microsoft retira Copilot\nde los smart TVs",
+          "body": "Microsoft pone fin al soporte de Copilot en los smart TVs de LG y Samsung, casi dos años después de que lo anunciaran.",
+          "mini_headline": "Copilot deja los smart TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "Imagen: Microsoft"
               },
               {
                 "t": "p",
-                "x": "La nueva vista previa de WebAI de Opera permite a sitios web y extensiones del navegador usar modelos locales dentro de Opera One sin exigir otra suscripción de AI ni enviar a un servicio en la nube la información que manejan. La vista previa, de activación voluntaria, se está desplegando en PCs con Windows y Macs con Apple silicon compatibles."
+                "x": "Casi dos años después de que LG y Samsung anunciaran en CES 2025 que sus nuevos smart TVs incluirían acceso a Copilot de Microsoft, la compañía pondrá fin este año al soporte de las funciones del asistente de AI en todos los TVs, según un informe de Windows Central."
               },
               {
                 "t": "p",
-                "x": "WebAI es una propuesta de estándar web que da a sitios y extensiones acceso a la AI a través del navegador. Opera afirma que la iniciativa cuenta con el respaldo de Google y Microsoft. Su implementación no depende de ningún modelo y se centra en modelos abiertos."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "La noticia procede de una notificación en pantalla de un LG TV: “Microsoft ha decidido recientemente poner fin al soporte de la funcionalidad de Copilot en todos los TVs, incluida la función Copilot-enabled disponible en nuestros LG TVs”. Indica que la función está “prevista para dejar de ofrecerse durante 2026” y que la fecha concreta está “sujeta al calendario de Microsoft”."
               },
               {
                 "t": "p",
-                "x": "Opera One puede recurrir a los modelos Gemma de Google, mientras que los Macs compatibles también pueden usar el modelo fundacional en el dispositivo de Apple. Una extensión de ejemplo puede ordenar una colección caótica de pestañas y otra puede señalar el clickbait."
-              },
-              {
-                "t": "p",
-                "x": "WebAI está desactivado por defecto. No se descarga nada hasta que el usuario lo activa, y cada sitio necesita permiso antes de acceder a la AI local del navegador. La velocidad y la capacidad dependen del equipo. Opera GX y Opera Neon recibirán WebAI más adelante."
+                "x": "El pasado diciembre, LG recibió críticas después de que una actualización de webOS añadiera un acceso directo a Copilot que no se podía eliminar; más tarde permitió borrarlo. Copilot funcionaba como un amable compañero de AI en los TVs, pero a principios de este año Microsoft presentó una “super app” de Copilot como parte de un esfuerzo por posicionarlo más como una herramienta empresarial y de productividad, y menos como un compañero digital."
               }
             ]
           }
@@ -1425,145 +919,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Opera, 사이트 AI를\n내 노트북에서 돌린다",
-          "body": "Opera WebAI 프리뷰는 사이트별 허가 아래 기기 내 AI 모델을 쓰게 한다.",
-          "mini_headline": "Opera WebAI, AI를 로컬에서",
+          "headline": "Copilot, 스마트\nTVs에서 철수한다",
+          "body": "Microsoft가 LG·Samsung TVs의 Copilot 지원을 끝낸다.",
+          "mini_headline": "Copilot, 스마트 TVs 떠난다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "이미지: Microsoft"
               },
               {
                 "t": "p",
-                "x": "Opera의 새 WebAI 프리뷰는 웹사이트와 브라우저 확장 프로그램이 별도의 AI 구독 없이, 다루는 정보를 클라우드 서비스로 보내지도 않고 Opera One 안에서 로컬 모델을 쓰게 한다. 옵트인 방식의 이 프리뷰는 지원되는 Windows PCs와 Apple silicon Macs에 배포되고 있다."
+                "x": "LG와 Samsung이 CES 2025에서 최신 스마트 TVs에 Microsoft Copilot 접근 기능을 넣겠다고 발표한 지 두 해 가까이 지난 지금, Microsoft가 올해 모든 TVs에서 이 AI 어시스턴트 기능 지원을 끝낸다고 Windows Central이 보도했다."
               },
               {
                 "t": "p",
-                "x": "WebAI는 웹사이트와 확장 프로그램이 브라우저를 통해 AI에 접근하도록 하는 웹 표준 제안이다. Opera는 이 작업에 Google과 Microsoft가 힘을 보태고 있다고 밝혔다. Opera의 구현은 특정 모델에 얽매이지 않고 오픈 모델을 중심으로 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "이 소식은 LG TV 화면에 뜬 알림에서 나왔다. “Microsoft는 최근 당사 LG TVs에서 제공되는 Copilot-enabled 기능을 포함해 모든 TVs에서 Copilot 기능 지원을 종료하기로 결정했습니다.” 알림은 이 기능이 “2026년 중 중단될 예정”이며 구체적인 날짜는 “Microsoft의 일정에 따른다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Opera One은 Google의 Gemma 모델을 활용할 수 있고, 호환되는 Macs에서는 Apple의 온디바이스 파운데이션 모델도 쓸 수 있다. 예시 확장 프로그램 하나는 어지러운 탭 모음을 정리하고, 다른 하나는 낚시성 콘텐츠를 표시한다."
-              },
-              {
-                "t": "p",
-                "x": "WebAI는 기본적으로 꺼져 있다. 사용자가 켜기 전에는 아무것도 내려받지 않으며, 각 사이트는 브라우저의 로컬 AI에 접근하기 전에 허가를 받아야 한다. 속도와 성능은 컴퓨터에 따라 다르다. Opera GX와 Opera Neon에도 나중에 WebAI가 들어갈 예정이다."
+                "x": "지난 12월 LG는 webOS 업데이트로 삭제할 수 없는 Copilot 바로가기를 추가했다가 반발을 샀고, 이후 바로가기를 지울 수 있게 했다. TVs에서 Copilot은 친근한 AI 동반자 역할을 했지만, Microsoft는 올해 초 Copilot을 디지털 동반자보다는 비즈니스·생산성 도구로 자리매김하려는 움직임의 일환으로 Copilot “super app”을 선보였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Opera、サイトのAIを\n手元の端末で実行",
-          "body": "OperaのWebAIプレビューは、サイトごとの許可制で端末内のAIモデルを使わせる。",
-          "mini_headline": "Opera WebAIでAIをローカルに",
+          "headline": "Microsoft、\nTVsからCopilot撤退",
+          "body": "MicrosoftはLGとSamsungのスマートTVsでCopilot対応を終える。",
+          "mini_headline": "Copilot、スマートTVsから撤退",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "画像：Microsoft"
               },
               {
                 "t": "p",
-                "x": "Operaの新しいWebAIプレビューでは、ウェブサイトやブラウザー拡張機能が、別のAIサブスクリプションを必要とせず、扱う情報をクラウドサービスに送ることもなく、Opera One内でローカルモデルを使える。オプトイン形式のプレビューは、対応するWindows PCsとApple silicon Macsに順次提供されている。"
+                "x": "LGとSamsungがCES 2025で最新スマートTVsにMicrosoftのCopilotへのアクセスを搭載すると発表してからほぼ二年、Microsoftは今年中にすべてのTVsでこのAIアシスタント機能のサポートを終了する。Windows Centralが報じた。"
               },
               {
                 "t": "p",
-                "x": "WebAIは、ウェブサイトや拡張機能がブラウザーを通じてAIにアクセスできるようにする、提案中のウェブ標準だ。Operaによると、この取り組みはGoogleとMicrosoftの支持を得ている。Operaの実装はモデルを問わず、オープンモデルを中心としている。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "この情報はLG TVの画面に表示された通知によるものだ。「Microsoftは最近、当社のLG TVsで利用できるCopilot-enabled機能を含め、すべてのTVsでCopilot機能のサポートを終了することを決定しました」。通知によれば、この機能は「2026年中に提供終了の予定」で、具体的な日付は「Microsoftのスケジュールによる」という。"
               },
               {
                 "t": "p",
-                "x": "Opera OneはGoogleのGemmaモデルを利用でき、対応するMacsではAppleのオンデバイス基盤モデルも使える。拡張機能の例として、散らかったタブを整理するものや、クリックベイトを指摘するものがある。"
-              },
-              {
-                "t": "p",
-                "x": "WebAIは初期設定で無効になっている。ユーザーが有効にするまで何もダウンロードされず、各サイトはブラウザーのローカルAIにアクセスする前に許可を得る必要がある。速度と性能はコンピューターによって異なる。Opera GXとOpera Neonにも後日WebAIが提供される予定だ。"
+                "x": "LGは昨年12月、webOSのアップデートで削除できないCopilotのショートカットを追加して反発を受け、その後ショートカットを削除できるようにした。TVs上のCopilotは親しみやすいAIコンパニオンの役割を担っていたが、Microsoftは今年初め、Copilotをデジタルコンパニオンよりもビジネスと生産性のツールとして位置づける取り組みの一環として、Copilotの「super app」を投入した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Opera让网站AI\n在你的笔记本上运行",
-          "body": "Opera的WebAI预览版让网站和扩展调用本地AI模型，并按网站逐一授权。",
-          "mini_headline": "Opera WebAI让AI留在本地",
+          "headline": "Microsoft撤回\n智能TVs上的Copilot",
+          "body": "近两年后，Microsoft将终止LG与Samsung智能TVs的Copilot支持。",
+          "mini_headline": "Copilot退出智能TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "图片：Microsoft"
               },
               {
                 "t": "p",
-                "x": "Opera新推出的WebAI预览版让网站和浏览器扩展可以在Opera One内使用本地模型，无需额外订阅AI服务，也不必把所处理的信息发送到云服务。这一需用户主动开启的预览版正在受支持的Windows PCs和Apple silicon Macs上推出。"
+                "x": "据Windows Central报道，在LG和Samsung于CES 2025宣布其最新智能TVs将接入Microsoft的Copilot近两年后，Microsoft将于今年在所有TVs上终止这款AI助手的功能支持。"
               },
               {
                 "t": "p",
-                "x": "WebAI是一项拟议中的网络标准，让网站和扩展通过浏览器调用AI。Opera表示，这项工作得到了Google和Microsoft的支持。其实现不绑定特定模型，以开放模型为核心。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "消息来自LG TV上的一则屏幕通知：“Microsoft近期决定终止所有TVs上的Copilot功能支持，包括我们LG TVs上提供的Copilot-enabled功能。”通知称该功能“计划于2026年内停止提供”，具体日期“以Microsoft的时间表为准”。"
               },
               {
                 "t": "p",
-                "x": "Opera One可调用Google的Gemma模型，兼容的Macs还能使用Apple的设备端基础模型。一个示例扩展可以整理杂乱的标签页，另一个则能标记标题党内容。"
-              },
-              {
-                "t": "p",
-                "x": "WebAI默认关闭。在用户启用之前不会下载任何内容，每个网站在访问浏览器的本地AI前都需要获得许可。速度和能力取决于电脑配置。Opera GX和Opera Neon计划稍后支持WebAI。"
+                "x": "去年12月，LG因一次webOS更新加入了无法删除的Copilot快捷方式而遭到抵制，之后才允许用户删除。Copilot在TVs上扮演的是友好的AI伙伴角色，但Microsoft今年早些时候推出了Copilot“super app”，意在把Copilot更多定位为商业和生产力工具，而非数字伙伴。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Opera deja que las webs usen AI\nen tu propio portátil",
-          "body": "La vista previa de WebAI de Opera permite a sitios y extensiones usar modelos de AI locales, con permisos por sitio.",
-          "mini_headline": "Opera WebAI mantiene la AI en local",
+          "headline": "Microsoft retira Copilot\nde los smart TVs",
+          "body": "Microsoft pone fin al soporte de Copilot en los smart TVs de LG y Samsung, casi dos años después de que lo anunciaran.",
+          "mini_headline": "Copilot deja los smart TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
-                "cap": "Opera"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+                "cap": "Imagen: Microsoft"
               },
               {
                 "t": "p",
-                "x": "La nueva vista previa de WebAI de Opera permite a sitios web y extensiones del navegador usar modelos locales dentro de Opera One sin exigir otra suscripción de AI ni enviar a un servicio en la nube la información que manejan. La vista previa, de activación voluntaria, se está desplegando en PCs con Windows y Macs con Apple silicon compatibles."
+                "x": "Casi dos años después de que LG y Samsung anunciaran en CES 2025 que sus nuevos smart TVs incluirían acceso a Copilot de Microsoft, la compañía pondrá fin este año al soporte de las funciones del asistente de AI en todos los TVs, según un informe de Windows Central."
               },
               {
                 "t": "p",
-                "x": "WebAI es una propuesta de estándar web que da a sitios y extensiones acceso a la AI a través del navegador. Opera afirma que la iniciativa cuenta con el respaldo de Google y Microsoft. Su implementación no depende de ningún modelo y se centra en modelos abiertos."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
-                "cap": "Opera"
+                "x": "La noticia procede de una notificación en pantalla de un LG TV: “Microsoft ha decidido recientemente poner fin al soporte de la funcionalidad de Copilot en todos los TVs, incluida la función Copilot-enabled disponible en nuestros LG TVs”. Indica que la función está “prevista para dejar de ofrecerse durante 2026” y que la fecha concreta está “sujeta al calendario de Microsoft”."
               },
               {
                 "t": "p",
-                "x": "Opera One puede recurrir a los modelos Gemma de Google, mientras que los Macs compatibles también pueden usar el modelo fundacional en el dispositivo de Apple. Una extensión de ejemplo puede ordenar una colección caótica de pestañas y otra puede señalar el clickbait."
-              },
-              {
-                "t": "p",
-                "x": "WebAI está desactivado por defecto. No se descarga nada hasta que el usuario lo activa, y cada sitio necesita permiso antes de acceder a la AI local del navegador. La velocidad y la capacidad dependen del equipo. Opera GX y Opera Neon recibirán WebAI más adelante."
+                "x": "El pasado diciembre, LG recibió críticas después de que una actualización de webOS añadiera un acceso directo a Copilot que no se podía eliminar; más tarde permitió borrarlo. Copilot funcionaba como un amable compañero de AI en los TVs, pero a principios de este año Microsoft presentó una “super app” de Copilot como parte de un esfuerzo por posicionarlo más como una herramienta empresarial y de productividad, y menos como un compañero digital."
               }
             ]
           }
@@ -1571,201 +1029,147 @@
       }
     },
     {
-      "id": "gadgets-nokia-claude-s40",
+      "id": "gadgets-openai-dot-text",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "2G Nokia 6300에\nClaude·ChatGPT",
-      "body": "Aikon 앱으로 2G Nokia 6300이 Claude·ChatGPT와 대화한다.",
-      "mini_headline": "구형 Nokia에 AI 챗봇",
+      "headline": "OpenAI Dot에\n이제 문자를 보낸다",
+      "body": "US Pro 사용자는 iMessage·RCS로 OpenAI Dot에 문자한다.",
+      "mini_headline": "OpenAI Dot에 문자하기",
       "tool": "Gadgets",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
+      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-            "cap": "AIKON은 오래된 Nokia S40·S60 휴대폰을 Claude 같은 챗봇에 연결해 주는 앱이다."
+            "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+            "cap": "OpenAI"
           },
           {
             "t": "p",
-            "x": "초기형 Nokia 6300은 브라우저가 TLS 1.0 이후로 업데이트되지 않은 2G 휴대폰이라 현대 인터넷에 사실상 접속하지 못한다. 그런데 9월 말 튀르키예 기업가 Emir Karşıyakalı가 앱 Claude S40을 선보였다. Java와 Go 백엔드를 거쳐 낡은 Nokia 6300을 Claude에 연결하도록 바이브 코딩한 앱이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-            "cap": "AIKON 인터페이스를 보여 주는 스크린숏 두 장."
+            "x": "OpenAI는 지난달 말 Dot 에이전트를 처음 내놓으며 언젠가 문자로도 지시할 수 있게 하겠다고 약속했다. 한 달 가까이 지나 회사는 US Pro 사용자에게 이 기능을 담은 프리뷰를 배포하기 시작했다. OpenAI에 따르면 이제 Dot에 문자는 물론 사진과 음성 메모도 보낼 수 있다. Dot 쪽에서도 맡은 작업의 진행 상황을 먼저 알려 줄 통로가 하나 더 생겼다."
           },
           {
             "t": "p",
-            "x": "그는 이후 ChatGPT, Gemini, Grok과도 작동하게 앱을 업데이트했고 이름도 Nokia를 거꾸로 쓴 Aikon으로 바꿨다. API 키는 Go 서버가 보관한다. 서버는 챗봇 응답을 오래된 휴대폰이 읽을 수 있는 8kB 블록으로 잘라 보낸다."
-          },
-          {
-            "t": "p",
-            "x": "앱은 읽기 모드와 응답을 메모리 카드에 오프라인으로 저장하는 기능, 사진 업로드, 최대 30초 길이의 음성 메시지를 지원한다. Karşıyakalı는 앱을 오픈소스로 공개했다. 다만 미국(US)에서는 쓸 수 없다. 8월 T-Mobile이 GSM 네트워크를 종료하면서 미국의 마지막 2G 네트워크가 사라졌기 때문이다."
+            "x": "Dot 문자 기능은 ChatGPT에서 프로필을 열고 Texting을 고르면 켜진다. 휴대폰은 iPhone이라면 iMessage를, 주로 Android 기기를 쓴다면 RCS를 켜 둬야 한다. OpenAI는 Linq와 손잡고 메시징을 지원하며, 안전을 위해 “광범위한” 침투 테스트를 거쳤다고 밝혔다. 회사는 X에 “당신의 dot에 문자를 보낼 수 있는 사람은 당신뿐이고, dot도 당신에게만 문자를 보낼 수 있다”고 덧붙였다. Dot이 메모리에 기록한 정보는 ChatGPT와 문자가 함께 쓰기 때문에 대화가 바뀌어도 맥락이 이어진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A 2G Nokia 6300 now\ntalks to Claude and ChatGPT",
-          "body": "A developer's vibe-coded Aikon app lets a 2G Nokia 6300 reach Claude, ChatGPT, Gemini or Grok via a Go server.",
-          "mini_headline": "Old Nokia gets AI chatbots",
+          "headline": "You can now text\nOpenAI's Dot agent",
+          "body": "OpenAI's proactive Dot agent can now be texted over iMessage and RCS, starting with a preview for US Pro users.",
+          "mini_headline": "Text OpenAI's Dot agent",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKON is an app that allows old Nokia S40 and S60 phones to connect to chatbots like Claude."
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
               },
               {
                 "t": "p",
-                "x": "The original Nokia 6300 is a 2G phone whose browser was never updated beyond TLS 1.0, meaning it essentially can't access the modern internet. In late September, Turkish entrepreneur Emir Karşıyakalı showed off Claude S40, an app he vibe coded to connect his old Nokia 6300 with Claude over a Java and Go backend."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "Two screenshots showing off the AIKON interface."
+                "x": "When OpenAI debuted its Dot agents late last month, it promised users would eventually be able to text them to give them instructions. Now, nearly a month later, the company has begun rolling out a preview among US Pro users that allows you to do just that. With the new feature, OpenAI says you can send your Dot texts, photos and even voice memos. It also gives your Dot another avenue to proactively contact you with updates about tasks you've assigned to it."
               },
               {
                 "t": "p",
-                "x": "He has since updated it to work with ChatGPT, Gemini and Grok, and renamed it Aikon — Nokia spelt backwards. A Go server holds the API key and truncates chatbot responses into 8kB blocks the old phone can read."
-              },
-              {
-                "t": "p",
-                "x": "The app offers a reading mode, offline saving of responses to a memory card, photo uploads and voice messages up to 30 seconds long. Karşıyakalı has open sourced it. In the US it won't run, since the nation's last 2G network went offline when T-Mobile shut down its GSM network in August."
+                "x": "To set up your Dot for texting, open its profile in ChatGPT and select Texting. Over on your phone, ensure iMessage is enabled if you're on an iPhone, and RCS if your daily driver is an Android device. OpenAI says it partnered with Linq to provide messaging support, and did \"extensive\" penetration testing to ensure the feature is safe. \"You're the only one who can text your dot, and your dot can only text you,\" the company adds on X. Any information your Dot writes to its memory is shared across ChatGPT and text, meaning context carries over between different conversations."
               }
             ]
           }
         },
         "ko": {
-          "headline": "2G Nokia 6300에\nClaude·ChatGPT",
-          "body": "Aikon 앱으로 2G Nokia 6300이 Claude·ChatGPT와 대화한다.",
-          "mini_headline": "구형 Nokia에 AI 챗봇",
+          "headline": "OpenAI Dot에\n이제 문자를 보낸다",
+          "body": "US Pro 사용자는 iMessage·RCS로 OpenAI Dot에 문자한다.",
+          "mini_headline": "OpenAI Dot에 문자하기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKON은 오래된 Nokia S40·S60 휴대폰을 Claude 같은 챗봇에 연결해 주는 앱이다."
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
               },
               {
                 "t": "p",
-                "x": "초기형 Nokia 6300은 브라우저가 TLS 1.0 이후로 업데이트되지 않은 2G 휴대폰이라 현대 인터넷에 사실상 접속하지 못한다. 그런데 9월 말 튀르키예 기업가 Emir Karşıyakalı가 앱 Claude S40을 선보였다. Java와 Go 백엔드를 거쳐 낡은 Nokia 6300을 Claude에 연결하도록 바이브 코딩한 앱이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "AIKON 인터페이스를 보여 주는 스크린숏 두 장."
+                "x": "OpenAI는 지난달 말 Dot 에이전트를 처음 내놓으며 언젠가 문자로도 지시할 수 있게 하겠다고 약속했다. 한 달 가까이 지나 회사는 US Pro 사용자에게 이 기능을 담은 프리뷰를 배포하기 시작했다. OpenAI에 따르면 이제 Dot에 문자는 물론 사진과 음성 메모도 보낼 수 있다. Dot 쪽에서도 맡은 작업의 진행 상황을 먼저 알려 줄 통로가 하나 더 생겼다."
               },
               {
                 "t": "p",
-                "x": "그는 이후 ChatGPT, Gemini, Grok과도 작동하게 앱을 업데이트했고 이름도 Nokia를 거꾸로 쓴 Aikon으로 바꿨다. API 키는 Go 서버가 보관한다. 서버는 챗봇 응답을 오래된 휴대폰이 읽을 수 있는 8kB 블록으로 잘라 보낸다."
-              },
-              {
-                "t": "p",
-                "x": "앱은 읽기 모드와 응답을 메모리 카드에 오프라인으로 저장하는 기능, 사진 업로드, 최대 30초 길이의 음성 메시지를 지원한다. Karşıyakalı는 앱을 오픈소스로 공개했다. 다만 미국(US)에서는 쓸 수 없다. 8월 T-Mobile이 GSM 네트워크를 종료하면서 미국의 마지막 2G 네트워크가 사라졌기 때문이다."
+                "x": "Dot 문자 기능은 ChatGPT에서 프로필을 열고 Texting을 고르면 켜진다. 휴대폰은 iPhone이라면 iMessage를, 주로 Android 기기를 쓴다면 RCS를 켜 둬야 한다. OpenAI는 Linq와 손잡고 메시징을 지원하며, 안전을 위해 “광범위한” 침투 테스트를 거쳤다고 밝혔다. 회사는 X에 “당신의 dot에 문자를 보낼 수 있는 사람은 당신뿐이고, dot도 당신에게만 문자를 보낼 수 있다”고 덧붙였다. Dot이 메모리에 기록한 정보는 ChatGPT와 문자가 함께 쓰기 때문에 대화가 바뀌어도 맥락이 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "2G Nokia 6300で\nClaudeやChatGPT",
-          "body": "Aikonアプリで2G Nokia 6300がClaudeやChatGPTとつながる。",
-          "mini_headline": "古いNokiaにAIチャットボット",
+          "headline": "OpenAIのDotに\nテキストを送れる",
+          "body": "OpenAIのDotにiMessageやRCSで連絡でき、US Proで先行提供が始まった。",
+          "mini_headline": "OpenAIのDotにテキスト",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKONは、古いNokia S40やS60の携帯電話をClaudeなどのチャットボットにつなぐアプリだ。"
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
               },
               {
                 "t": "p",
-                "x": "初代Nokia 6300は、ブラウザーがTLS 1.0より先に更新されなかった2G端末で、事実上現代のインターネットにはアクセスできない。9月下旬、トルコの起業家Emir Karşıyakalıは、JavaとGoのバックエンドを介して古いNokia 6300をClaudeにつなぐ、バイブコーディングで作ったアプリ「Claude S40」を披露した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "AIKONのインターフェースを示す二枚のスクリーンショット。"
+                "x": "OpenAIは先月末にDotエージェントを発表した際、いずれテキストメッセージで指示を出せるようにすると約束していた。それから一か月近くたった今、同社はUS Proユーザー向けに、まさにそれを可能にするプレビューの提供を始めた。OpenAIによると、新機能ではDotにテキスト、写真、さらにはボイスメモも送れる。Dotにとっても、任せたタスクの進捗を自ら知らせる新たな経路となる。"
               },
               {
                 "t": "p",
-                "x": "その後、彼はChatGPT、Gemini、Grokにも対応させ、名前をNokiaを逆につづったAikonに改めた。GoサーバーがAPIキーを保持し、チャットボットの応答を古い端末でも読める8kBのブロックに切り分ける。"
-              },
-              {
-                "t": "p",
-                "x": "アプリには読書モード、応答のメモリーカードへのオフライン保存、写真のアップロード、最長30秒の音声メッセージといった機能がある。Karşıyakalıはこれをオープンソースで公開した。US（米国）では動作しない。8月にT-MobileがGSMネットワークを停止し、同国最後の2Gネットワークが消えたためだ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un Nokia 6300 2G ya habla\ncon Claude y ChatGPT",
-          "body": "Aikon, una app vibe-coded, conecta un Nokia 6300 2G con Claude, ChatGPT, Gemini o Grok vía un servidor Go.",
-          "mini_headline": "Un viejo Nokia recibe chatbots de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKON es una app que permite conectar antiguos teléfonos Nokia S40 y S60 a chatbots como Claude."
-              },
-              {
-                "t": "p",
-                "x": "El Nokia 6300 original es un teléfono 2G cuyo navegador nunca pasó de TLS 1.0, por lo que en la práctica no puede acceder a la internet actual. A finales de septiembre, el emprendedor turco Emir Karşıyakalı presentó Claude S40, una app creada con vibe coding para conectar su viejo Nokia 6300 con Claude mediante un backend en Java y Go."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "Dos capturas de pantalla que muestran la interfaz de AIKON."
-              },
-              {
-                "t": "p",
-                "x": "Desde entonces la actualizó para que funcione con ChatGPT, Gemini y Grok, y la rebautizó como Aikon, Nokia escrito al revés. Un servidor Go guarda la clave de API y recorta las respuestas del chatbot en bloques de 8kB que el viejo teléfono puede leer."
-              },
-              {
-                "t": "p",
-                "x": "La app ofrece un modo de lectura, guardado sin conexión de respuestas en una tarjeta de memoria, subida de fotos y mensajes de voz de hasta 30 segundos. Karşıyakalı la ha publicado como código abierto. En Estados Unidos (US) no funciona, ya que la última red 2G del país se apagó cuando T-Mobile cerró su red GSM en agosto."
+                "x": "Dotでテキストを使うには、ChatGPTでDotのプロフィールを開きTextingを選ぶ。スマートフォン側では、iPhoneならiMessage、普段使いがAndroid端末ならRCSを有効にしておく。OpenAIはLinqと提携してメッセージ機能を提供し、安全性を確かめるため「広範な」侵入テストを実施したという。同社はXで「あなたのdotにテキストを送れるのはあなただけで、dotもあなたにしか送れない」と付け加えた。Dotがメモリに書き込んだ情報はChatGPTとテキストで共有されるため、別々の会話の間でも文脈が引き継がれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "2G Nokia 6300连\nClaude和ChatGPT",
-          "body": "Aikon应用让2G Nokia 6300连上Claude、ChatGPT等聊天机器人。",
-          "mini_headline": "老Nokia用上AI聊天机器人",
+          "headline": "现在可以给OpenAI\nDot发短信了",
+          "body": "OpenAI主动型Dot现可通过iMessage和RCS收短信，先向US Pro用户预览。",
+          "mini_headline": "给OpenAI的Dot发短信",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKON是一款能让老款Nokia S40和S60手机连接Claude等聊天机器人的应用。"
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
               },
               {
                 "t": "p",
-                "x": "初代Nokia 6300是一款2G手机，其浏览器从未更新到TLS 1.0以后的版本，基本无法访问现代互联网。9月下旬，土耳其创业者Emir Karşıyakalı展示了Claude S40，这是他用氛围编程做出的应用，通过Java和Go后端把他的旧Nokia 6300连上Claude。"
+                "x": "OpenAI上月底推出Dot智能体时曾承诺，用户最终可以通过短信向它们下达指令。近一个月后的现在，公司已开始向US Pro用户推送一项预览功能，正好能做到这一点。OpenAI表示，借助新功能，你可以给Dot发送文字、照片甚至语音备忘录。这也为Dot提供了另一条渠道，可以主动联系你，汇报你交给它的任务进展。"
               },
+              {
+                "t": "p",
+                "x": "要为Dot设置短信功能，请在ChatGPT中打开它的资料页并选择Texting。手机端方面，iPhone用户需确保开启iMessage，日常使用Android设备的用户则需开启RCS。OpenAI表示，它与Linq合作提供消息支持，并进行了“广泛的”渗透测试以确保功能安全。公司还在X上补充道：“只有你能给你的dot发短信，你的dot也只能给你发短信。”Dot写入记忆的任何信息都会在ChatGPT和短信之间共享，这意味着上下文会在不同对话间延续。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ya se pueden enviar mensajes\nal agente Dot de OpenAI",
+          "body": "El agente proactivo Dot de OpenAI ya recibe mensajes por iMessage y RCS, con una vista previa para usuarios Pro de US.",
+          "mini_headline": "Mensajes al Dot de OpenAI",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "两张展示AIKON界面的截图。"
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
               },
               {
                 "t": "p",
-                "x": "此后他又让它支持ChatGPT、Gemini和Grok，并改名为Aikon，即Nokia倒过来拼写。一台Go服务器保管API密钥，并把聊天机器人的回复截成旧手机能读取的8kB数据块。"
+                "x": "Cuando OpenAI presentó sus agentes Dot a finales del mes pasado, prometió que los usuarios podrían enviarles mensajes de texto para darles instrucciones. Ahora, casi un mes después, la compañía ha empezado a desplegar entre los usuarios Pro de US una vista previa que permite hacer justamente eso. Con la nueva función, según OpenAI, se pueden enviar a Dot textos, fotos e incluso notas de voz. También le da a Dot otra vía para contactar de forma proactiva con actualizaciones sobre las tareas que se le han asignado."
               },
               {
                 "t": "p",
-                "x": "该应用提供阅读模式、将回复离线保存到存储卡、上传照片，以及最长30秒的语音消息。Karşıyakalı已将其开源。它在US（美国）无法运行，因为T-Mobile在8月关闭了GSM网络，美国最后一个2G网络随之下线。"
+                "x": "Para configurar los mensajes con Dot, abre su perfil en ChatGPT y selecciona Texting. En el teléfono, asegúrate de tener activado iMessage si usas un iPhone, o RCS si tu dispositivo habitual es Android. OpenAI dice que se asoció con Linq para ofrecer la mensajería y que hizo pruebas de penetración “exhaustivas” para garantizar que la función sea segura. “Eres el único que puede enviar mensajes a tu dot, y tu dot solo puede enviarte mensajes a ti”, añade la compañía en X. Toda la información que Dot guarda en su memoria se comparte entre ChatGPT y los mensajes de texto, de modo que el contexto se mantiene entre conversaciones distintas."
               }
             ]
           }
@@ -1773,129 +1177,375 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "2G Nokia 6300에\nClaude·ChatGPT",
-          "body": "Aikon 앱으로 2G Nokia 6300이 Claude·ChatGPT와 대화한다.",
-          "mini_headline": "구형 Nokia에 AI 챗봇",
+          "headline": "OpenAI Dot에\n이제 문자를 보낸다",
+          "body": "US Pro는 iMessage·RCS로 OpenAI Dot에 문자할 수 있다.",
+          "mini_headline": "OpenAI Dot에 문자하기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKON은 오래된 Nokia S40·S60 휴대폰을 Claude 같은 챗봇에 연결해 주는 앱이다."
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
               },
               {
                 "t": "p",
-                "x": "초기형 Nokia 6300은 브라우저가 TLS 1.0 이후로 업데이트되지 않은 2G 휴대폰이라 사실상 현대 인터넷에 접속할 수 없다. 9월 말 튀르키예 기업가 Emir Karşıyakalı는 Java와 Go 백엔드를 거쳐 낡은 Nokia 6300을 Claude에 연결하도록 바이브 코딩한 앱 Claude S40을 선보였다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "AIKON 인터페이스를 보여 주는 스크린숏 두 장."
+                "x": "지난달 말 Dot 에이전트를 처음 선보였을 때 OpenAI는 사용자가 언젠가 문자로 지시를 내릴 수 있게 하겠다고 약속했다. 한 달 가까이 지난 지금, 회사는 US Pro 사용자를 대상으로 바로 그 기능을 담은 프리뷰를 배포하기 시작했다. OpenAI에 따르면 새 기능으로 Dot에 문자, 사진, 음성 메모까지 보낼 수 있다. Dot 역시 맡긴 작업의 진행 상황을 먼저 알려 줄 수 있는 또 하나의 통로를 얻는다."
               },
               {
                 "t": "p",
-                "x": "그는 이후 앱이 ChatGPT, Gemini, Grok과도 작동하도록 업데이트하고, 이름을 Nokia를 거꾸로 쓴 Aikon으로 바꿨다. Go 서버가 API 키를 보관하고, 챗봇 응답을 오래된 휴대폰이 읽을 수 있는 8kB 블록으로 잘라 보낸다."
-              },
-              {
-                "t": "p",
-                "x": "앱은 읽기 모드, 응답을 메모리 카드에 오프라인 저장하는 기능, 사진 업로드, 최대 30초 길이의 음성 메시지를 지원한다. Karşıyakalı는 이 앱을 오픈소스로 공개했다. 미국(US)에서는 작동하지 않는데, 8월 T-Mobile이 GSM 네트워크를 종료하면서 미국의 마지막 2G 네트워크가 사라졌기 때문이다."
+                "x": "Dot의 문자 기능을 설정하려면 ChatGPT에서 프로필을 열고 Texting을 선택한다. 휴대폰에서는 iPhone이면 iMessage를, 주로 Android 기기를 쓴다면 RCS를 켜 두어야 한다. OpenAI는 Linq와 협력해 메시징을 지원하며, 기능의 안전을 위해 “광범위한” 침투 테스트를 거쳤다고 밝혔다. 회사는 X에 “당신의 dot에 문자를 보낼 수 있는 사람은 당신뿐이고, dot도 당신에게만 문자를 보낼 수 있다”고 덧붙였다. Dot이 메모리에 기록한 정보는 ChatGPT와 문자 사이에서 공유되므로 서로 다른 대화 사이에서도 맥락이 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "2G Nokia 6300で\nClaudeやChatGPT",
-          "body": "Aikonアプリで2G Nokia 6300がClaudeやChatGPTとつながる。",
-          "mini_headline": "古いNokiaにAIチャットボット",
+          "headline": "OpenAIのDotに\nテキストを送れる",
+          "body": "OpenAIのDotにiMessageやRCSで連絡でき、US Proで先行提供が始まった。",
+          "mini_headline": "OpenAIのDotにテキスト",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKONは、古いNokia S40やS60の携帯電話をClaudeなどのチャットボットにつなぐアプリだ。"
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
               },
               {
                 "t": "p",
-                "x": "初代Nokia 6300は、ブラウザーがTLS 1.0より先に更新されなかった2G端末で、事実上現代のインターネットにはアクセスできない。9月下旬、トルコの起業家Emir Karşıyakalıは、JavaとGoのバックエンドを介して古いNokia 6300をClaudeにつなぐ、バイブコーディングで作ったアプリ「Claude S40」を披露した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "AIKONのインターフェースを示す二枚のスクリーンショット。"
+                "x": "OpenAIは先月末にDotエージェントを発表した際、いずれテキストメッセージで指示を出せるようにすると約束していた。それから一か月近くたった今、同社はUS Proユーザー向けに、まさにそれを可能にするプレビューの提供を始めた。OpenAIによると、新機能ではDotにテキスト、写真、さらにはボイスメモも送れる。Dotにとっても、任せたタスクの進捗を自ら知らせる新たな経路となる。"
               },
               {
                 "t": "p",
-                "x": "その後、彼はChatGPT、Gemini、Grokにも対応させ、名前をNokiaを逆につづったAikonに改めた。GoサーバーがAPIキーを保持し、チャットボットの応答を古い端末でも読める8kBのブロックに切り分ける。"
-              },
-              {
-                "t": "p",
-                "x": "アプリには読書モード、応答のメモリーカードへのオフライン保存、写真のアップロード、最長30秒の音声メッセージといった機能がある。Karşıyakalıはこれをオープンソースで公開した。US（米国）では動作しない。8月にT-MobileがGSMネットワークを停止し、同国最後の2Gネットワークが消えたためだ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un Nokia 6300 2G ya habla\ncon Claude y ChatGPT",
-          "body": "Aikon, una app vibe-coded, conecta un Nokia 6300 2G con Claude, ChatGPT, Gemini o Grok vía un servidor Go.",
-          "mini_headline": "Un viejo Nokia recibe chatbots de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKON es una app que permite conectar antiguos teléfonos Nokia S40 y S60 a chatbots como Claude."
-              },
-              {
-                "t": "p",
-                "x": "El Nokia 6300 original es un teléfono 2G cuyo navegador nunca pasó de TLS 1.0, por lo que en la práctica no puede acceder a la internet actual. A finales de septiembre, el emprendedor turco Emir Karşıyakalı presentó Claude S40, una app creada con vibe coding para conectar su viejo Nokia 6300 con Claude mediante un backend en Java y Go."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "Dos capturas de pantalla que muestran la interfaz de AIKON."
-              },
-              {
-                "t": "p",
-                "x": "Desde entonces la actualizó para que funcione con ChatGPT, Gemini y Grok, y la rebautizó como Aikon, Nokia escrito al revés. Un servidor Go guarda la clave de API y recorta las respuestas del chatbot en bloques de 8kB que el viejo teléfono puede leer."
-              },
-              {
-                "t": "p",
-                "x": "La app ofrece un modo de lectura, guardado sin conexión de respuestas en una tarjeta de memoria, subida de fotos y mensajes de voz de hasta 30 segundos. Karşıyakalı la ha publicado como código abierto. En Estados Unidos (US) no funciona, ya que la última red 2G del país se apagó cuando T-Mobile cerró su red GSM en agosto."
+                "x": "Dotでテキストを使うには、ChatGPTでDotのプロフィールを開きTextingを選ぶ。スマートフォン側では、iPhoneならiMessage、普段使いがAndroid端末ならRCSを有効にしておく。OpenAIはLinqと提携してメッセージ機能を提供し、安全性を確かめるため「広範な」侵入テストを実施したという。同社はXで「あなたのdotにテキストを送れるのはあなただけで、dotもあなたにしか送れない」と付け加えた。Dotがメモリに書き込んだ情報はChatGPTとテキストで共有されるため、別々の会話の間でも文脈が引き継がれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "2G Nokia 6300连\nClaude和ChatGPT",
-          "body": "Aikon应用让2G Nokia 6300连上Claude、ChatGPT等聊天机器人。",
-          "mini_headline": "老Nokia用上AI聊天机器人",
+          "headline": "现在可以给OpenAI\nDot发短信了",
+          "body": "OpenAI主动型Dot现可通过iMessage和RCS收短信，先向US Pro用户预览。",
+          "mini_headline": "给OpenAI的Dot发短信",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI上月底推出Dot智能体时曾承诺，用户最终可以通过短信向它们下达指令。近一个月后的现在，公司已开始向US Pro用户推送一项预览功能，正好能做到这一点。OpenAI表示，借助新功能，你可以给Dot发送文字、照片甚至语音备忘录。这也为Dot提供了另一条渠道，可以主动联系你，汇报你交给它的任务进展。"
+              },
+              {
+                "t": "p",
+                "x": "要为Dot设置短信功能，请在ChatGPT中打开它的资料页并选择Texting。手机端方面，iPhone用户需确保开启iMessage，日常使用Android设备的用户则需开启RCS。OpenAI表示，它与Linq合作提供消息支持，并进行了“广泛的”渗透测试以确保功能安全。公司还在X上补充道：“只有你能给你的dot发短信，你的dot也只能给你发短信。”Dot写入记忆的任何信息都会在ChatGPT和短信之间共享，这意味着上下文会在不同对话间延续。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ya se pueden enviar mensajes\nal agente Dot de OpenAI",
+          "body": "El agente proactivo Dot de OpenAI ya recibe mensajes por iMessage y RCS, con una vista previa para usuarios Pro de US.",
+          "mini_headline": "Mensajes al Dot de OpenAI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+                "cap": "OpenAI"
+              },
+              {
+                "t": "p",
+                "x": "Cuando OpenAI presentó sus agentes Dot a finales del mes pasado, prometió que los usuarios podrían enviarles mensajes de texto para darles instrucciones. Ahora, casi un mes después, la compañía ha empezado a desplegar entre los usuarios Pro de US una vista previa que permite hacer justamente eso. Con la nueva función, según OpenAI, se pueden enviar a Dot textos, fotos e incluso notas de voz. También le da a Dot otra vía para contactar de forma proactiva con actualizaciones sobre las tareas que se le han asignado."
+              },
+              {
+                "t": "p",
+                "x": "Para configurar los mensajes con Dot, abre su perfil en ChatGPT y selecciona Texting. En el teléfono, asegúrate de tener activado iMessage si usas un iPhone, o RCS si tu dispositivo habitual es Android. OpenAI dice que se asoció con Linq para ofrecer la mensajería y que hizo pruebas de penetración “exhaustivas” para garantizar que la función sea segura. “Eres el único que puede enviar mensajes a tu dot, y tu dot solo puede enviarte mensajes a ti”, añade la compañía en X. Toda la información que Dot guarda en su memoria se comparte entre ChatGPT y los mensajes de texto, de modo que el contexto se mantiene entre conversaciones distintas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-ios-synthid",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Apple AI 이미지에\nGoogle SynthID",
+      "body": "iOS 27.2부터 Image Playground 이미지에 SynthID가 붙는다.",
+      "mini_headline": "Apple, SynthID 도입",
+      "tool": "Gadgets",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+            "cap": "ChatGPT Image 2.5"
+          },
+          {
+            "t": "p",
+            "x": "Apple AI로 만든 이미지에 이제 보이지 않는 표식이 붙는다. iOS 27.2부터 iPhone은 Image Playground가 만든 모든 이미지에 Google이 개발한 워터마크 SynthID를 새긴다. Apple은 지난 6월 새 Image Playground를 소개하며 이 조치를 예고했다."
+          },
+          {
+            "t": "p",
+            "x": "새로 생성한 이미지에는 예외 없이 워터마크가 붙는다. 편집한 사진은 AI가 얼마나 손댔느냐에 따라 갈린다. MacRumors가 확인해 보니 Extend와 Reframe으로 바꾼 이미지에는 SynthID가 있었다. Clean Up은 작은 보정에는 표시가 없었고 큰 보정에는 워터마크가 붙었다."
+          },
+          {
+            "t": "p",
+            "x": "SynthID는 메타데이터가 아니라 픽셀에 직접 새겨진다. Google은 화질에 영향이 없고 자르기, 필터, 압축을 거쳐도 남는다고 약속한다. iPhone 안에서는 확인할 수 없어 Google이 10월 초 모두에게 공개한 SynthID Detector를 써야 한다. Apple이 합류하면서 SynthID는 사실상 업계 표준에 한 걸음 더 다가섰다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Apple's AI images now carry\nGoogle's SynthID watermark",
+          "body": "With iOS 27.2, Apple marks Image Playground output and heavily edited photos with Google's invisible SynthID watermark.",
+          "mini_headline": "Apple adopts SynthID",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
-                "cap": "AIKON是一款能让老款Nokia S40和S60手机连接Claude等聊天机器人的应用。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
               },
               {
                 "t": "p",
-                "x": "初代Nokia 6300是一款2G手机，其浏览器从未更新到TLS 1.0以后的版本，基本无法访问现代互联网。9月下旬，土耳其创业者Emir Karşıyakalı展示了Claude S40，这是他用氛围编程做出的应用，通过Java和Go后端把他的旧Nokia 6300连上Claude。"
+                "x": "Images from Apple's AI now carry an invisible mark. With iOS 27.2, the iPhone tags everything Image Playground creates with SynthID – the watermark developed by Google. Apple announced the move back in June along with the revamped Image Playground."
               },
+              {
+                "t": "p",
+                "x": "Newly generated images always get the watermark. For edited photos, it depends on how heavily the AI intervenes: MacRumors found images changed with Extend and Reframe carried SynthID, while with Clean Up small retouches stayed unmarked and larger ones got the watermark."
+              },
+              {
+                "t": "p",
+                "x": "SynthID sits directly in the pixels, not in the metadata. Google promises it does not affect image quality and survives cropping, filters and compression. It cannot be checked on the iPhone itself; you need Google's SynthID Detector, which Google opened up to everyone in early October. With Apple on board, SynthID is a good deal closer to a real industry standard."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Apple AI 이미지에\nGoogle SynthID",
+          "body": "iOS 27.2부터 Image Playground 이미지에 SynthID가 붙는다.",
+          "mini_headline": "Apple, SynthID 도입",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
-                "cap": "两张展示AIKON界面的截图。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
               },
               {
                 "t": "p",
-                "x": "此后他又让它支持ChatGPT、Gemini和Grok，并改名为Aikon，即Nokia倒过来拼写。一台Go服务器保管API密钥，并把聊天机器人的回复截成旧手机能读取的8kB数据块。"
+                "x": "Apple AI로 만든 이미지에 이제 보이지 않는 표식이 붙는다. iOS 27.2부터 iPhone은 Image Playground가 만든 모든 이미지에 Google이 개발한 워터마크 SynthID를 새긴다. Apple은 지난 6월 새 Image Playground를 소개하며 이 조치를 예고했다."
               },
               {
                 "t": "p",
-                "x": "该应用提供阅读模式、将回复离线保存到存储卡、上传照片，以及最长30秒的语音消息。Karşıyakalı已将其开源。它在US（美国）无法运行，因为T-Mobile在8月关闭了GSM网络，美国最后一个2G网络随之下线。"
+                "x": "새로 생성한 이미지에는 예외 없이 워터마크가 붙는다. 편집한 사진은 AI가 얼마나 손댔느냐에 따라 갈린다. MacRumors가 확인해 보니 Extend와 Reframe으로 바꾼 이미지에는 SynthID가 있었다. Clean Up은 작은 보정에는 표시가 없었고 큰 보정에는 워터마크가 붙었다."
+              },
+              {
+                "t": "p",
+                "x": "SynthID는 메타데이터가 아니라 픽셀에 직접 새겨진다. Google은 화질에 영향이 없고 자르기, 필터, 압축을 거쳐도 남는다고 약속한다. iPhone 안에서는 확인할 수 없어 Google이 10월 초 모두에게 공개한 SynthID Detector를 써야 한다. Apple이 합류하면서 SynthID는 사실상 업계 표준에 한 걸음 더 다가섰다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AppleのAI画像に\nGoogleのSynthID",
+          "body": "iOS 27.2はImage Playgroundの画像と加工写真にSynthIDを付ける。",
+          "mini_headline": "AppleがSynthIDを採用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
+              },
+              {
+                "t": "p",
+                "x": "AppleのAIが生成した画像には、今後は目に見えないマークが付く。iOS 27.2では、iPhoneはImage Playgroundが作るすべての画像に、Googleが開発した透かしSynthIDを付与する。Appleはこの方針を、刷新したImage Playgroundとともに6月に発表していた。"
+              },
+              {
+                "t": "p",
+                "x": "新たに生成した画像には必ず透かしが入る。編集した写真については、AIの介入の度合いによって変わる。MacRumorsの検証では、ExtendとReframeで変更した画像にはSynthIDが付いていた一方、Clean Upでは小さな修正は透かしなしで、大きな修正には透かしが付いた。"
+              },
+              {
+                "t": "p",
+                "x": "SynthIDはメタデータではなく、ピクセルに直接埋め込まれる。Googleは画質に影響せず、切り抜きやフィルター、圧縮にも耐えるとしている。iPhone上では確認できず、Googleが10月初めに全ユーザーへ開放したSynthID Detectorが必要だ。Appleが加わったことで、SynthIDは真の業界標準にかなり近づいた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple AI图像用上\nGoogle SynthID",
+          "body": "iOS 27.2起，Apple为Image Playground图像加SynthID水印。",
+          "mini_headline": "Apple采用SynthID",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
+              },
+              {
+                "t": "p",
+                "x": "Apple AI生成的图像如今都带有一个隐形标记。从iOS 27.2起，iPhone会为Image Playground生成的所有内容打上SynthID——这是Google开发的水印。Apple早在6月就随改版后的Image Playground宣布了这一举措。"
+              },
+              {
+                "t": "p",
+                "x": "新生成的图像一律带有水印。对于编辑过的照片，则取决于AI介入的程度：MacRumors发现，经Extend和Reframe修改的图像带有SynthID，而使用Clean Up时，小幅修饰不会被标记，较大的修改则会加上水印。"
+              },
+              {
+                "t": "p",
+                "x": "SynthID直接嵌入像素，而非元数据。Google承诺它不会影响画质，并能在裁剪、滤镜和压缩后保留。iPhone本身无法检测，需要使用Google在10月初向所有人开放的SynthID Detector。随着Apple加入，SynthID离真正的行业标准又近了一大步。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las imágenes AI de Apple llevan\nla marca SynthID de Google",
+          "body": "Con iOS 27.2, Apple marca Image Playground y las fotos muy editadas con el SynthID invisible de Google.",
+          "mini_headline": "Apple adopta SynthID",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
+              },
+              {
+                "t": "p",
+                "x": "Las imágenes de la AI de Apple llevan ahora una marca invisible. Con iOS 27.2, el iPhone etiqueta todo lo que crea Image Playground con SynthID, la marca de agua desarrollada por Google. Apple anunció la medida en junio junto con el renovado Image Playground."
+              },
+              {
+                "t": "p",
+                "x": "Las imágenes recién generadas siempre reciben la marca de agua. En las fotos editadas, depende de cuánto intervenga la AI: MacRumors comprobó que las imágenes modificadas con Extend y Reframe llevaban SynthID, mientras que con Clean Up los retoques pequeños quedaban sin marcar y los mayores recibían la marca de agua."
+              },
+              {
+                "t": "p",
+                "x": "SynthID se integra directamente en los píxeles, no en los metadatos. Google asegura que no afecta a la calidad de imagen y que resiste recortes, filtros y compresión. No se puede comprobar en el propio iPhone; hace falta SynthID Detector de Google, que la compañía abrió a todo el mundo a principios de octubre. Con Apple a bordo, SynthID está bastante más cerca de ser un verdadero estándar del sector."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Apple AI 이미지에\nGoogle SynthID",
+          "body": "iOS 27.2는 Image Playground 이미지에 SynthID를 넣는다.",
+          "mini_headline": "Apple, SynthID 도입",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
+              },
+              {
+                "t": "p",
+                "x": "Apple AI가 만든 이미지에는 이제 보이지 않는 표식이 붙는다. iOS 27.2부터 iPhone은 Image Playground가 만드는 모든 이미지에 Google이 개발한 워터마크 SynthID를 붙인다. Apple은 지난 6월 새로워진 Image Playground와 함께 이 조치를 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "새로 생성한 이미지에는 항상 워터마크가 붙는다. 편집한 사진은 AI가 얼마나 크게 개입했는지에 따라 다르다. MacRumors 확인 결과 Extend와 Reframe으로 바꾼 이미지에는 SynthID가 있었고, Clean Up에서는 작은 보정은 표시가 없었지만 큰 보정에는 워터마크가 붙었다."
+              },
+              {
+                "t": "p",
+                "x": "SynthID는 메타데이터가 아니라 픽셀에 직접 들어간다. Google은 화질에 영향을 주지 않으며 자르기, 필터, 압축을 거쳐도 남는다고 약속한다. iPhone 자체에서는 확인할 수 없고, Google이 10월 초 모두에게 공개한 SynthID Detector가 필요하다. Apple이 합류하면서 SynthID는 실질적인 업계 표준에 한층 가까워졌다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AppleのAI画像に\nGoogleのSynthID",
+          "body": "iOS 27.2はImage Playgroundの画像と加工写真にSynthIDを付ける。",
+          "mini_headline": "AppleがSynthIDを採用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
+              },
+              {
+                "t": "p",
+                "x": "AppleのAIが生成した画像には、今後は目に見えないマークが付く。iOS 27.2では、iPhoneはImage Playgroundが作るすべての画像に、Googleが開発した透かしSynthIDを付与する。Appleはこの方針を、刷新したImage Playgroundとともに6月に発表していた。"
+              },
+              {
+                "t": "p",
+                "x": "新たに生成した画像には必ず透かしが入る。編集した写真については、AIの介入の度合いによって変わる。MacRumorsの検証では、ExtendとReframeで変更した画像にはSynthIDが付いていた一方、Clean Upでは小さな修正は透かしなしで、大きな修正には透かしが付いた。"
+              },
+              {
+                "t": "p",
+                "x": "SynthIDはメタデータではなく、ピクセルに直接埋め込まれる。Googleは画質に影響せず、切り抜きやフィルター、圧縮にも耐えるとしている。iPhone上では確認できず、Googleが10月初めに全ユーザーへ開放したSynthID Detectorが必要だ。Appleが加わったことで、SynthIDは真の業界標準にかなり近づいた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple AI图像用上\nGoogle SynthID",
+          "body": "iOS 27.2起，Apple为Image Playground图像加SynthID水印。",
+          "mini_headline": "Apple采用SynthID",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
+              },
+              {
+                "t": "p",
+                "x": "Apple AI生成的图像如今都带有一个隐形标记。从iOS 27.2起，iPhone会为Image Playground生成的所有内容打上SynthID——这是Google开发的水印。Apple早在6月就随改版后的Image Playground宣布了这一举措。"
+              },
+              {
+                "t": "p",
+                "x": "新生成的图像一律带有水印。对于编辑过的照片，则取决于AI介入的程度：MacRumors发现，经Extend和Reframe修改的图像带有SynthID，而使用Clean Up时，小幅修饰不会被标记，较大的修改则会加上水印。"
+              },
+              {
+                "t": "p",
+                "x": "SynthID直接嵌入像素，而非元数据。Google承诺它不会影响画质，并能在裁剪、滤镜和压缩后保留。iPhone本身无法检测，需要使用Google在10月初向所有人开放的SynthID Detector。随着Apple加入，SynthID离真正的行业标准又近了一大步。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las imágenes AI de Apple llevan\nla marca SynthID de Google",
+          "body": "Con iOS 27.2, Apple marca Image Playground y las fotos muy editadas con el SynthID invisible de Google.",
+          "mini_headline": "Apple adopta SynthID",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+                "cap": "ChatGPT Image 2.5"
+              },
+              {
+                "t": "p",
+                "x": "Las imágenes de la AI de Apple llevan ahora una marca invisible. Con iOS 27.2, el iPhone etiqueta todo lo que crea Image Playground con SynthID, la marca de agua desarrollada por Google. Apple anunció la medida en junio junto con el renovado Image Playground."
+              },
+              {
+                "t": "p",
+                "x": "Las imágenes recién generadas siempre reciben la marca de agua. En las fotos editadas, depende de cuánto intervenga la AI: MacRumors comprobó que las imágenes modificadas con Extend y Reframe llevaban SynthID, mientras que con Clean Up los retoques pequeños quedaban sin marcar y los mayores recibían la marca de agua."
+              },
+              {
+                "t": "p",
+                "x": "SynthID se integra directamente en los píxeles, no en los metadatos. Google asegura que no afecta a la calidad de imagen y que resiste recortes, filtros y compresión. No se puede comprobar en el propio iPhone; hace falta SynthID Detector de Google, que la compañía abrió a todo el mundo a principios de octubre. Con Apple a bordo, SynthID está bastante más cerca de ser un verdadero estándar del sector."
               }
             ]
           }

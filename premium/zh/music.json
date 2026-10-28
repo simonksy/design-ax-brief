@@ -8086,6 +8086,153 @@
           "x": "Suno从一开始就以合理使用为由进行抗辩，并试图反驳其生成内容正在损害真实音乐市场的说法。与此同时，各大唱片公司也在就AI-detection工具向DistroKid施压，而Suno和Udio正向Mechanical Licensing Collective索取DSP播放量数据。"
         }
       ]
+    },
+    "music/behringerkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
+          "cap": "（图片来源：Behringer）"
+        },
+        {
+          "t": "p",
+          "x": "Behringer正在预热一款即将推出的硬件采样器Kick，它看起来与Akai近期更新的MPC One极为相似。硬件尚未发布，Behringer就已将其开源固件的资源上传至GitHub，邀请潜在用户“创造、修改并重新发明乐器所能做的事”。"
+        },
+        {
+          "t": "p",
+          "x": "Kick配备16个打击垫、四个可分配旋钮、触摸屏以及音频、MIDI和CV连接，另有一个据称支持手势控制的“AI摄像头”和一条小型触控条。其承诺售价为$150。"
+        },
+        {
+          "t": "p",
+          "x": "Behringer在Facebook帖子中明确表达了它对AI作用的看法：“有了AI，即使没有编程经验的人也能把想法变成新功能和固件。”Akai似乎也将通过已预热的MPC Sample Key采取开放路线。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
+          "cap": "Akai自家的Sample Key也将加入开源热潮。（图片来源：Akai Professional/Instagram）"
+        },
+        {
+          "t": "p",
+          "x": "MusicRadar警告其中存在风险：产品一旦向AI-generated固件开放，添加新功能就更多成了社区的责任，品牌可能会把AI-empowered用户视为节省开发、测试和更新成本的途径。Kick在GitHub上的规格以一个名为“JAM DAW”的东西为核心，主打采样编辑、步进音序器和循环器。"
+        }
+      ]
+    },
+    "music/machoverbso": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
+          "cap": "教授兼作曲家Tod Machover与他的大提琴，摄于MIT Media Lab。（Andrea Shea/WBUR）"
+        },
+        {
+          "t": "p",
+          "x": "MIT Media Lab教授Tod Machover正在首演他为Boston Symphony Orchestra和人工智能创作的一部互动作品：这部25分钟、名为“already and not yet”的作品将80多位乐手与一种新型AI系统配对，受委约以纪念Media Lab成立40周年。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
+          "cap": "Manaswi Mishra，Machover的Opera of the Future小组博士生。（Andrea Shea/WBUR）"
+        },
+        {
+          "t": "p",
+          "x": "他与博士生Manaswi Mishra共同打造了这套系统。“它是一个合作者，我们就是这样设计的，”Machover说，“它在与台上演奏的现场乐手对话……AI并不是想拿走乐手的演奏再做成一首新作品——它是在尝试回应、来回交流。”"
+        },
+        {
+          "t": "p",
+          "x": "Mishra在台上引导AI的回应：“我们可以让他们的和声信息凸显出来，可以让节奏信息凸显出来，也可以让音色朝不同方向变化。”Machover说，在独奏段落中，“AI会回应……每位演奏者都不一样。”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
+          "cap": "2026年10月22日，Manaswi Mishra在Symphony Hall的全球首演中操控现场AI系统。（Courtesy Winslow Townson）"
+        },
+        {
+          "t": "p",
+          "x": "BSO大提琴手Owen Young说：“它是一个工具——但人们担心它会取代我们——而在这部作品里它并没有取代我们。”该作品于10月22日至24日在BSO的“Technology and Our Humanity”系列中演出。"
+        }
+      ]
+    },
+    "music/russiaaisong": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据新闻媒体Ostorozhno, Novosti报道，音乐人DJ NARODNII的爆红AI-generated歌曲“Ty moya…”（“You’re my…”）已在俄罗斯流媒体服务上遭到屏蔽。"
+        },
+        {
+          "t": "p",
+          "x": "在Yandex Music等服务上尝试播放这首歌，会弹出提示称应俄罗斯通信监管机构Roskomnadzor的要求，该曲目无法播放。"
+        },
+        {
+          "t": "p",
+          "x": "9月下旬，俄罗斯联邦青年事务署要求限制对这首歌的访问。"
+        },
+        {
+          "t": "p",
+          "x": "DJ NARODNII表示，他事先没有收到曲目将被下架的任何通知，是在查看音乐平台时才发现的。他说，Yandex Music连同原曲一起删除了五个混音版本。"
+        },
+        {
+          "t": "p",
+          "x": "这位音乐人认为，曲目被屏蔽是因为“某些对号入座的人”的投诉。他不同意这一决定：“那他们就该把所有带脏话的歌都屏蔽掉。[…]有些人就是无法理解或欣赏真正的艺术。这就像一款香调复杂的小众香水。”"
+        },
+        {
+          "t": "p",
+          "x": "DJ NARODNII的这首AI歌曲副歌唱道“You’re my scumbag, you’re my pig…”，近几个月在TikTok和Instagram上走红。创作者最初发布这首歌是为了嘲讽AI-generated音乐，没想到却成了热门。"
+        }
+      ]
+    },
+    "music/smebench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "神经音乐编辑要求系统在执行所请求的改动的同时，保留本应不变的音乐内容。现有评估往往缺少配对的目标编辑。SMEBench是一个大规模受控音乐编辑基准，通过修改符号化MIDI演奏并渲染相互匹配的源音频和目标音频构建而成。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
+          "cap": "图1：SMEBench构建流程概览。先分析一段10秒的MIDI片段，施加选定的干预，再用同一个SoundFont渲染源和目标。"
+        },
+        {
+          "t": "p",
+          "x": "每个样例包含源、指令、配对目标、编辑元数据和补充描述。该基准涵盖配器、演奏法、力度和音高方面的十二种操作，并包括一个均衡的3,600样例测试集，以及一个取自多轨录音、规模较小的真实音频补充集。"
+        },
+        {
+          "t": "p",
+          "x": "作者对六个代表性编辑系统进行了基准测试——基于AudioLDM2主干的SDEdit、DDIM inversion、ZETA、VCI和SteerMusic，外加MusicGen——结果表明，用来给系统排名的指标可能实质性地改变结论。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
+          "cap": "图4：在编辑描述和编辑指令两种条件下，各系统在SMEBench和SME-Real上的表现。"
+        },
+        {
+          "t": "p",
+          "x": "局限：该分类体系不涵盖人声、制作效果或风格迁移，也没有任何单一指标能同时衡量保留程度、编辑执行和感知质量。"
+        }
+      ]
+    },
+    "music/logicpro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/intro-1793118031.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple更新了对标Adobe的软件套件Apple Creator Studio，恰逢新款M6 iMac和14英寸MacBook Pro上市。最大的新增内容之一是Final Cut Pro内置的MotionVFX工具，此前Apple已于今年早些时候收购MotionVFX；各应用之间的工作流程也更加顺畅，例如可将时间线图像发送到Pixelmator Pro。"
+        },
+        {
+          "t": "p",
+          "x": "AI已遍及Apple的所有应用，Final Cut Pro和Pixelmator Pro都新增了文生图生成与编辑工具。在Logic Pro中，Apple与OpenAI合作推出新助手，可编辑现有项目、开始新歌曲，并根据文字提示生成人声音轨。同一个聊天机器人也可在Keynote、Pages和Numbers中调用，完成制作幻灯片动画或整理数据等应用专属任务。"
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro还新增了借助Stem Splitter分离或替换鼓声部的功能。要在Mac版Logic Pro中使用这款仍处于测试阶段的新助手，需要一台支持Apple Intelligence、运行macOS 27 Golden Gate或更高版本的Mac。"
+        },
+        {
+          "t": "p",
+          "x": "更新将于11月向现有订阅用户免费提供。Apple Creator Studio售价为每月$13或每年$129；Logic Pro也可以$200单独购买。"
+        }
+      ]
     }
   }
 }

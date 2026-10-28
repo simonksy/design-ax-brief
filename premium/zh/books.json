@@ -7866,6 +7866,123 @@
           "x": "长期编排规模为韩文版1万4917本、英文版1万4917本,共2万9834本;商业运营后的目标产量为韩英合计每月2000本、每年2万4000本。AI收集并分析书店销售走势以决定后续生产,反响好的电子书将对接按需印刷(POD)。"
         }
       ]
+    },
+    "books/silva-rojas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+          "cap": "David Silva Rojas是《Donde el agua trabaja》的作者。Foto: composición Caretas/BeCult/El País"
+        },
+        {
+          "t": "p",
+          "x": "秘鲁作家David Silva Rojas的小说《Donde el agua trabaja》经检测工具Pangram分析，其约26,000个词中有99%被认定出自人工智能(IA)。该作于2026年7月获得奖金20,000欧元的Premio Internacional de Novela Breve Almadía Ventosa-Arrufat，而评选规则明确禁止部分或全部使用此类工具。"
+        },
+        {
+          "t": "p",
+          "x": "El País展开调查后，墨西哥出版社Almadía取消了原定10月23日在Madrid举行的新书发布会，并暂停了在西班牙其他城市的活动。作者否认使用过人工智能，出版社宣布将对此事进行审查。Pangram还将作者在杂志Ulrica访谈中97%的回答，以及一篇924个词的自传性文字中的80%，归为IA生成。"
+        },
+        {
+          "t": "p",
+          "x": "该媒体也提醒，Pangram并非万无一失：它能识别统计模式，却无法区分有人是用IA生成整部作品，还是把自己的笔记转写成文章。这部小说在由Cristina Rivera Garza、Selva Almada和Mónica Ojeda组成的评审团面前，从2,204份手稿中胜出。"
+        },
+        {
+          "t": "img",
+          "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
+        }
+      ]
+    },
+    "books/spiegelman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+          "cap": "Art Spiegelman（摄影：Zach Rabiroff）"
+        },
+        {
+          "t": "p",
+          "x": "看到Art Spiegelman图像小说《In the Shadow of No Towers》25周年纪念版左上角那枚金白相间的贴纸了吗？那是AI生成的。Spiegelman在接受Publishers Weekly的Zach Rabiroff采访时透露了这一点："
+        },
+        {
+          "t": "p",
+          "x": "“于是他还附上了一份类似周年礼物的东西：一枚封面贴纸，以反讽的方式把燃烧的大楼画成生日蛋糕上的蜡烛。这枚贴纸是Spiegelman首次使用AI生成的作品。‘我想让它看起来像一幅旧版画，而且我懒，’他对PW说。‘我说，用AI试试，看看会怎样。’Mouly在提示词上帮了忙：‘她很会跟Claude打交道，’Spiegelman说。”"
+        },
+        {
+          "t": "p",
+          "x": "这番坦白在整个漫画圈反响不佳。CBR的漫画研究者和史学家Brian Cronin写道：“Art Spiegelman是天才，但我的天，老兄，‘我太懒了’可不是用AI给自己书的再版生成图像的借口。”漫画家Evan Dorkin则画了一幅画作为回应："
+        },
+        {
+          "t": "img",
+          "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+          "cap": "Evan Dorkin"
+        },
+        {
+          "t": "p",
+          "x": "The Beat指出，Alison Bechdel承认她的书Spent借助了AI。漫画家Mike Lynch说：“拜托。睡个午觉。充充电。回来亲手画。”Michael Maslin指出，“Mouly”是“The New Yorker的封面编辑Francoise Mouly。Spiegelman和Mouly是夫妻。”Gemma Correll的反应是：“ew”"
+        }
+      ]
+    },
+    "books/winterson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
+        },
+        {
+          "t": "p",
+          "x": "2021年随笔集《12 Bytes》的作者Jeanette Winterson认为，人类作为一个物种，正处在自身故事的转折点。人工智能——她更愿意称之为“另类智能”——是“一次进化飞跃。就是这样。AI远不止是一种工具。”我们正处在一个与工业革命相似的抉择时刻：“我们要建设怎样的未来？”"
+        },
+        {
+          "t": "p",
+          "x": "她坚称，问题不在AI，而在我们自己。“不存在必然的反乌托邦。”如果出了问题，那是因为“把老派思维套在这一全新现实之上”：“我们对AI与就业的大部分担忧，归根结底取决于掌权者将做出的政治和经济选择，就像他们在工业革命时那样。”"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "‘我们对人类的了解是，他们热爱垄断。’摄影：Sarah Lee/The Guardian"
+        },
+        {
+          "t": "p",
+          "x": "在UK人文学科遭削减之际，她主张“人文主义教育必不可少。我们必须在这里以人为中心”，突出创造力、游戏、解决问题和艺术。“给我找一个不想听故事的孩子。”她说，最坏的情况“可能发生”，但“好结果之巨大，与我们未能做好这件事的彻底失败一样真实……一切都还未定。”"
+        }
+      ]
+    },
+    "books/mcp-discovery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究人员和学生越来越多地从AI助手开始工作，学术出版商也开始在那里与他们相遇。10月5日，Silverchair宣布Research Bridge开展为期六个月的试点，这是一个共享的Model Context Protocol（MCP）通道，助手可借此获取多家独立出版商的内容。此前已有Silverchair的Discovery Bridge、Research Solutions的Article Galaxy MCP、Clarivate的Nexus Connect，以及Wiley等出版商自建的服务器。"
+        },
+        {
+          "t": "p",
+          "x": "作者建议，图书馆应将MCP连接器（以及APIs和其他端点）视为一种馆藏，为其建立登记册，并要求提供方以机器可读的形式描述其连接器和元数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+          "cap": "List of Magical Stones，约公元前1千纪中后期"
+        },
+        {
+          "t": "p",
+          "x": "目前缺失的基础设施包括：找到合适连接器的方法（一项外部分析统计，截至9月10日，官方MCP注册表中的独立服务器超过30,000个）、将访问与机构授权挂钩的方法，以及依据COUNTER的Best Practice on Generative and Agentic AI usage metrics进行的使用量报告。正如面向链接解析器的KBART数据源，提供方应以数据源形式提供端点、认证、授权、AI-use条款和最后核实日期等字段。"
+        }
+      ]
+    },
+    "books/youtube-audiobooks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YouTube正寻求向有声书领域扩张。"
+        },
+        {
+          "t": "p",
+          "x": "由于AI-generated音频版本泛滥，该平台盗版猖獗，促使出版商在那里提供合法收听有声书的途径。"
+        },
+        {
+          "t": "p",
+          "x": "全文仅向Jane Friedman新闻通讯的付费订阅者开放。"
+        }
+      ]
     }
   }
 }

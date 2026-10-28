@@ -2739,6 +2739,139 @@
           "x": "Super interesting..."
         }
       ]
+    },
+    "marketing/metaranking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three ad ranking upgrades Meta announced on Wednesday. The others are an update to GEM, the ads recommendation model it introduced last year, and a new generative recommendations model (GenRecs) built on LLMs that can predict which ads people will want to see, even with limited engagement data."
+        },
+        {
+          "t": "p",
+          "x": "According to Meta, improvements to its ranking system drove 8.3% more clicks and a 15.7% lift in conversions on Facebook in Q2."
+        },
+        {
+          "t": "p",
+          "x": "GenRecs swaps advertiser, campaign and creative IDs for concepts: LLMs read an ad’s text and images and describe it by key attributes using shared semantic tokens. That eases the cold-start problem and shortens the learning phase. “You still have to learn,” said Matt Steiner, VP of ads infrastructure, ranking and AI foundations at Meta."
+        },
+        {
+          "t": "p",
+          "x": "GenRecs also powers a new generative retrieval model that runs in parallel with the original one, while Andromeda got a hardware and software overhaul through Meta’s partnership with Nvidia. The new GEM is bigger and reads twice as long a history for every user; Meta says the approach has delivered a roughly 19% conversion improvement since last year."
+        },
+        {
+          "t": "p",
+          "x": "“The importance of targeting is diminishing over time as ranking models get better at selecting who an ad would be relevant for,” Steiner said."
+        }
+      ]
+    },
+    "marketing/stackadapt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+        },
+        {
+          "t": "p",
+          "x": "StackAdapt announced expanded cross-channel retargeting for ChatGPT Ads. \"Advertisers can retarget consumers who viewed a ChatGPT Ad across StackAdapt's broader programmatic ecosystem,\" the release states — the trigger is a view rather than a click. Segments are managed in its Data Hub alongside first-party data and CRM integrations."
+        },
+        {
+          "t": "p",
+          "x": "The release is short. It names no launch markets, no pricing, no identifiers, no clients and no results. It also does not say how a view inside ChatGPT is recorded and then matched to a person on a television or a web page."
+        },
+        {
+          "t": "p",
+          "x": "Yang Han, StackAdapt's co-founder and chief technology officer, is the only person quoted; no OpenAI executive is quoted. OpenAI says advertisers receive only aggregate information about how their ads perform, and in the EEA and Switzerland ads launched without personalisation."
+        },
+        {
+          "t": "p",
+          "x": "Most of OpenAI's tooling has moved data from advertisers into ChatGPT; StackAdapt's release describes the opposite flow. On October 21, OpenAI extended ChatGPT ads to 26 more countries, bringing the total to 89."
+        }
+      ]
+    },
+    "marketing/adexfraud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ADEX, a company that screens ads for scams, says AI played a significant role in 52% of the fraud schemes it identified in January to September 2026, across 1.2 million campaigns on eight ad platforms. The figure counts distinct fraud schemes, not campaigns or accounts."
+        },
+        {
+          "t": "p",
+          "x": "Among schemes where AI was involved, bots impersonating humans appeared in 64%, cloned brands and fake endorsements in 53%, and deepfakes in 11%. The categories overlap."
+        },
+        {
+          "t": "p",
+          "x": "\"The scheme itself has not changed in years: borrow a trusted face, promise big returns, move the victim into a private chat. What AI changed is the finish,\" said Sergey Martianov, Chief Product Officer at ADEX. Revised versions of rejected campaigns sometimes returned within hours."
+        },
+        {
+          "t": "p",
+          "x": "Looking to 2027, ADEX forecasts prompt-injection attacks on AI shopping agents — \"a forecast rather than an attack category currently measured in its moderation data.\" \"If an agent is doing the shopping, someone will try to scam the agent,\" Martianov said."
+        }
+      ]
+    },
+    "marketing/clorox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+          "cap": "Eric Schwartz, CMO of The Clorox Company, speaks at the ANA Masters of Marketing conference on Oct. 22. Permission granted by ANA"
+        },
+        {
+          "t": "p",
+          "x": "At the ANA Masters of Marketing conference on Oct. 22, Clorox CMO Eric Schwartz said campaigns have been replaced with systems of continuous relevance, built with an engine that is powered by people, enabled by AI automation and amplified by partners. “It’s not about showing up once with a big idea,” he said."
+        },
+        {
+          "t": "p",
+          "x": "Pine-Sol’s social-first “OMG Da Pine” world averages more than 150 organic posts a month and a 13% engagement rate, and launched four limited-edition products on TikTok Shop that sold out in hours."
+        },
+        {
+          "t": "p",
+          "x": "Brita’s high-volume content model produces more than 100 assets per month; its efforts yielded 22 million engagements and a 1,742% year-over-year increase in organic impressions."
+        },
+        {
+          "t": "p",
+          "x": "For Clorox Pure, AI let the company use in-market signals to optimize ad creative without the cost of a reshoot. Hidden Valley’s World Cup ranch moment generated more than 600 pieces of social content and more than 6 billion impressions."
+        },
+        {
+          "t": "p",
+          "x": "“The content is no longer finished at launch. It’s built to keep getting better,” Schwartz said."
+        }
+      ]
+    },
+    "marketing/metaaiads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Resemble AI, a Mountain View company that sells software for detecting synthetic media, on October 22, 2026 published a study that scanned 37,768 image and video files from Facebook and Instagram ads and flagged 3,379 of them as AI-generated or manipulated. That is 8.9%, or roughly one file in 11. Of those 3,379 files, two mentioned AI anywhere in the ad copy."
+        },
+        {
+          "t": "p",
+          "x": "The 2026 Synthetic Advertising Report covers 509 companies in 26 industries, from ads collected in Meta's public archive in September 2026. 70% of the fakes were photoreal and 46% showed a person. None of the 971 files checked for provenance metadata carried any C2PA content credentials."
+        },
+        {
+          "t": "p",
+          "x": "On brands' own pages, 1,971 of 28,463 files were flagged (6.9%). Temu used AI in 64 of 100 sampled files, Wayfair in 56 of 100, Motel 6 in 50 of 80 and Lufthansa in 50 of 94. Bait pages ran 649 files, of which 463 (71.3%) were flagged. \"Brands fake polish. Bait pages fake people.\""
+        },
+        {
+          "t": "p",
+          "x": "Only one brand disclosed on its own ad: Turkish Airlines. The copy search cannot see labels burned into the video itself, so the 0.06% figure measures written disclosure only."
+        },
+        {
+          "t": "p",
+          "x": "New York's synthetic performer disclosure law has applied since June 9, 2026, and Article 50 of the EU AI Act since August 2, 2026. The report is also the work of a vendor with a direct commercial interest in the answer."
+        }
+      ]
     }
   }
 }

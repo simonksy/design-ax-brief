@@ -1,7 +1,31 @@
-{"date":"2026-10-28","section":"gadgets","media":[
-{"id":"gadgets-ollama-tts","type":"image","src":"pipeline/media/gadgets-ollama-tts.jpg"},
-{"id":"gadgets-macbook-pro-m6","type":"image","src":"pipeline/media/gadgets-macbook-pro-m6.jpg"},
-{"id":"gadgets-galaxy-buds-on","type":"video","src":"pipeline/media/gadgets-galaxy-buds-on.mp4","poster":"pipeline/media/gadgets-galaxy-buds-on.jpg"},
-{"id":"gadgets-opera-webai","type":"image","src":"pipeline/media/gadgets-opera-webai.jpg"},
-{"id":"gadgets-nokia-claude-s40","type":"image","src":"pipeline/media/gadgets-nokia-claude-s40.jpg"}
-]}
+{
+  "date": "2026-10-29",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "gadgets-echo-studio-camera",
+      "type": "image",
+      "src": "pipeline/media/gadgets-echo-studio-camera.png"
+    },
+    {
+      "id": "gadgets-xreal-aura-launch",
+      "type": "image",
+      "src": "pipeline/media/gadgets-xreal-aura-launch.jpg"
+    },
+    {
+      "id": "gadgets-copilot-tv-exit",
+      "type": "image",
+      "src": "pipeline/media/gadgets-copilot-tv-exit.jpg"
+    },
+    {
+      "id": "gadgets-openai-dot-text",
+      "type": "image",
+      "src": "pipeline/media/gadgets-openai-dot-text.jpg"
+    },
+    {
+      "id": "gadgets-ios-synthid",
+      "type": "image",
+      "src": "pipeline/media/gadgets-ios-synthid.jpg"
+    }
+  ]
+}

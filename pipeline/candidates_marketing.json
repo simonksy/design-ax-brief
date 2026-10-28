@@ -1,160 +1,142 @@
 {
- "section": "marketing",
- "now_iso": "2026-10-27T22:04:00Z",
- "window_hours": 72,
- "items": [
-  {
-   "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads",
-   "url": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "published_iso": "2026-10-27T17:11:52+00:00",
-   "excerpt": "Google updated its privacy policy so insights from connected Gmail, Photos and Drive apps can shape the ads shown in AI Mode, with implications for how Google Ads campaigns are targeted.",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_1921284380_1600x840-860.png"
-  },
-  {
-   "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin",
-   "url": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "published_iso": "2026-10-27T15:39:22+00:00",
-   "excerpt": "Shopify's knowledge base that feeds store facts to AI shopping agents now lives in the merchant admin; policies and contact details publish by default and some app users must re-add their facts.",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
-  },
-  {
-   "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them",
-   "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
-   "source": "Search Engine Journal",
-   "category": "marketing",
-   "published_iso": "2026-10-26T12:24:23+00:00",
-   "excerpt": "New comparison-prompt data from Graphite shows brands that logged-out ChatGPT rarely names without search also appear less when it searches, even when cited pages mention them.",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-brand-mentions-featured.jpg"
-  },
-  {
-   "title": "Only 2 of 3,379 AI-flagged Meta ad files disclosed AI use, Resemble AI finds",
-   "url": "https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/",
-   "source": "PPC Land",
-   "category": "marketing",
-   "published_iso": "2026-10-27T05:08:13.000Z",
-   "excerpt": "One in 11 Facebook and Instagram ad files from 509 brands carried AI-generated media, 70% built to look real, yet only 2 of 3,379 flagged files disclosed AI use, while New York and EU labelling rules already apply to ads.",
-   "og_image": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
-  },
-  {
-   "title": "Anthropic's IPO filing shows $16.3bn of revenue and no plan to sell ads",
-   "url": "https://ppc.land/anthropics-ipo-filing-shows-16-3bn-of-revenue-and-no-plan-to-sell-ads/",
-   "source": "PPC Land",
-   "category": "marketing",
-   "published_iso": "2026-10-26T19:38:06.000Z",
-   "excerpt": "Anthropic's S-1 shows $16.3bn of first-half revenue and no advertising model for Claude, setting it apart from ChatGPT's ad push.",
-   "og_image": "https://ppc.land/content/images/2026/10/anthropic-ipo-s1-no-ads-compute-landlords-blank-billboard.jpg"
-  },
-  {
-   "title": "Kochava's StationOne now routes simple AI tasks to cheaper models",
-   "url": "https://ppc.land/kochavas-stationone-now-routes-simple-ai-tasks-to-cheaper-models/",
-   "source": "PPC Land",
-   "category": "marketing",
-   "published_iso": "2026-10-25T22:12:37.000Z",
-   "excerpt": "Kochava's StationOne AI workspace for marketers now routes simple tasks to cheaper models, lets admins set token or dollar budgets per user and team, and can run models locally.",
-   "og_image": "https://ppc.land/content/images/2026/10/kochava-stationone-auto-router-cheaper-ai-models-mail-room-chute.jpg"
-  },
-  {
-   "title": "Anthropic's ad bill is soaring, according to IPO filing",
-   "url": "https://digiday.com/marketing/anthropics-ad-bill-is-soaring-according-to-ipo-filing/",
-   "source": "Digiday",
-   "category": "marketing",
-   "published_iso": "2026-10-27T04:01:00+00:00",
-   "excerpt": "Anthropic's S-1 filing shows an ad-free AI company with a fast-growing advertising bill as it markets Claude against rivals.",
-   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/05/spending-dollars1-digiday.jpg"
-  },
-  {
-   "title": "Inside indie agencies' DSP gripes and the rise of agentic media buying",
-   "url": "https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/",
-   "source": "Digiday",
-   "category": "marketing",
-   "published_iso": "2026-10-27T04:01:00+00:00",
-   "excerpt": "Independent agencies are pushing back on costly DSP fees as AI agents threaten to reshape how media is bought and who controls ad dollars.",
-   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/IMG_2091.jpeg"
-  },
-  {
-   "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
-   "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/",
-   "source": "Digiday",
-   "category": "marketing",
-   "published_iso": "2026-10-26T04:01:00+00:00",
-   "excerpt": "The Daily Mail is running around a dozen generative-engine-optimization tests with brands before turning its AI visibility offering into a sellable product next year.",
-   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
-  },
-  {
-   "title": "This Startup Makes Sure That AI Tools Aren't Out Of Reach For SMBs",
-   "url": "https://www.adexchanger.com/ai/this-startup-makes-sure-that-ai-tools-arent-out-of-reach-for-smbs/",
-   "source": "AdExchanger",
-   "category": "marketing",
-   "published_iso": "2026-10-27T12:54:52+00:00",
-   "excerpt": "AI growth platform Pie aims to give smaller businesses affordable access to AI marketing and advertising tools usually reserved for larger advertisers.",
-   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2851506425-scaled.jpg"
-  },
-  {
-   "title": "From Puppies To Programmatic To AI Agents",
-   "url": "https://www.adexchanger.com/adexchanger-talks/kovva/",
-   "source": "AdExchanger",
-   "category": "marketing",
-   "published_iso": "2026-10-27T05:30:19+00:00",
-   "excerpt": "Kovva COO Tanja Mimica on whether media buyers will trust AI agents to take over programmatic busywork, and the guardrails they need.",
-   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/09/Tanja_Mimica.jpg"
-  },
-  {
-   "title": "Google Sells Itself As A Commerce 'Matchmaker,' Not A Retailer",
-   "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
-   "source": "Adweek",
-   "category": "marketing",
-   "published_iso": "2026-10-26T11:51:00-04:00",
-   "excerpt": "As AI agents reshape product discovery, Google pitches its Universal Commerce Protocol and newly launched Universal Cart in Gemini and Search as a matchmaker for brands, leaving fulfillment to retailers.",
-   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Google-Universal-Cart.jpg?w=600&h=315&crop=1"
-  },
-  {
-   "title": "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원",
-   "url": "https://zdnet.co.kr/view/?no=20261027154918",
-   "source": "ZDNet Korea",
-   "category": "marketing",
-   "published_iso": "2026-10-27T15:53:22+09:00",
-   "excerpt": "라인플러스가 AI로 K뷰티 브랜드의 아마존 입점용 상품 이미지와 설명·광고 문구 제작, 현지화 작업을 자동화해 해외 판매를 지원한다.",
-   "og_image": "https://image.zdnet.co.kr/2026/10/27/ddde8f769469e3a6bd6be02880949dd4.jpg"
-  },
-  {
-   "title": "AI 비서 통한 주문 확대…유통업체 대응 갈렸다",
-   "url": "https://zdnet.co.kr/view/?no=20261026154903",
-   "source": "ZDNet Korea",
-   "category": "marketing",
-   "published_iso": "2026-10-26T16:04:42+09:00",
-   "excerpt": "AI 비서가 상품 검색·비교를 넘어 주문·결제까지 맡으면서 AI 기업과 기존 쇼핑몰 사이 쇼핑 주도권 경쟁이 시작됐고, 유통업체 대응은 개방과 차단으로 갈렸다.",
-   "og_image": "https://image.zdnet.co.kr/2026/10/26/de5ac1c48885d7b1ec95afd4fa33a53b.png"
-  },
-  {
-   "title": "커머스 AI '인덴트M' 공개…“K브랜드 72개국 진출 지원”",
-   "url": "https://www.etnews.com/20261027000286",
-   "source": "전자신문",
-   "category": "marketing",
-   "published_iso": "2026-10-27T14:08:26+09:00",
-   "excerpt": "인덴트코퍼레이션이 72개국에서 인플루언서 마케팅 기획과 실행을 대신 수행하는 AI 에이전트 '인덴트M'을 공개했다.",
-   "og_image": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
-  },
-  {
-   "title": "Fake AI Review Ads Disguised as Testimonials Spreading Online",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008817898",
-   "source": "SBS News",
-   "category": "marketing",
-   "published_iso": "2026-10-28T01:00:51+09:00",
-   "excerpt": "A significant number of ordinary-consumer review ads on YouTube turn out to be fabricated with AI, raising deceptive-advertising concerns in Korea. (off-list: no on-list Korean outlet covered it)",
-   "og_image": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
-  },
-  {
-   "title": "How Zalando is using AI to scale marketing content while maintaining authenticity",
-   "url": "https://www.marketingtechnews.net/news/how-zalando-is-using-ai-to-scale-marketing-content-while-maintaining-authenticity/",
-   "source": "Marketing Tech News",
-   "category": "marketing",
-   "published_iso": "2026-10-27T09:32:48+00:00",
-   "excerpt": "Zalando uses generative AI to scale marketing and campaign content production with a small team while keeping creative storytelling authentic. (off-list: ad-creative production angle)",
-   "og_image": "https://www.marketingtechnews.net/wp-content/uploads/2026/10/Zalando-scaled.jpg"
-  }
- ]
+  "section": "marketing",
+  "now_iso": "2026-10-28T22:04:45Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "title": "Ads in AI Mode expand to new markets.",
+      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "source": "Google Ads & Commerce Blog",
+      "category": "marketing",
+      "published_iso": "2026-10-28T21:30:00Z",
+      "excerpt": "Google is expanding ads in AI Mode (sponsored results inside its AI search experience) to 10 new countries including Canada and India, announced alongside Alphabet's Q3 earnings.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+    },
+    {
+      "title": "Meta Has A New Ad Ranking System Built On LLMs, Plus Upgrades To Andromeda And GEM",
+      "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-10-28T16:00:04+00:00",
+      "excerpt": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three anew d ranking upgrades.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+    },
+    {
+      "title": "From Puppies To Programmatic To AI Agents",
+      "url": "https://www.adexchanger.com/adexchanger-talks/kovva/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-10-27T05:30:19+00:00",
+      "excerpt": "Kovva COO Tanja Mimica on whether AI agents are ready to take over media buying's busywork, and the guardrails buyers need before trusting them.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/09/Tanja_Mimica.jpg"
+    },
+    {
+      "title": "This Startup Makes Sure That AI Tools Aren’t Out Of Reach For SMBs",
+      "url": "https://www.adexchanger.com/ai/this-startup-makes-sure-that-ai-tools-arent-out-of-reach-for-smbs/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-10-27T12:54:52+00:00",
+      "excerpt": "AI growth platform Pie aims to give smaller businesses affordable access to AI tools that are often reserved for larger, wealthier businesses.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2851506425-scaled.jpg"
+    },
+    {
+      "title": "Triton Digital's seller agent books Otrium audio campaign in minutes",
+      "url": "https://ppc.land/triton-digitals-seller-agent-books-otrium-audio-campaign-in-minutes/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-28T20:50:19.000Z",
+      "excerpt": "Otrium's AI buyer booked Talpa Media audio with no manual step between brief and ad server, Triton says. Price and budget are missing. What did humans still do?",
+      "og_image": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg"
+    },
+    {
+      "title": "StackAdapt lets advertisers retarget ChatGPT ad viewers on CTV and display",
+      "url": "https://ppc.land/stackadapt-lets-advertisers-retarget-chatgpt-ad-viewers-on-ctv-and-display/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-28T21:28:08.000Z",
+      "excerpt": "Brands and agencies can pool CRM data and retargeting segments around ChatGPT ad exposure in Data Hub, but how a view is matched, and where, goes unexplained.",
+      "og_image": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+    },
+    {
+      "title": "AI was involved in 52% of ad fraud schemes ADEX flagged in 2026",
+      "url": "https://ppc.land/ai-was-involved-in-52-of-ad-fraud-schemes-adex-flagged-in-2026/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-28T19:20:22.000Z",
+      "excerpt": "Bots posing as humans appeared in 64% of AI-linked schemes across 1.2m campaigns on eight ad platforms, ADEX says. Could AI shopping agents be next in 2027?",
+      "og_image": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+    },
+    {
+      "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads",
+      "url": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-27T17:11:52+00:00",
+      "excerpt": "Google updated its privacy policy to let connected Gmail, Photos, and Drive insights shape AI Mode ads. Here is what changes for your Google Ads campaigns.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_1921284380_1600x840-860.png"
+    },
+    {
+      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping",
+      "url": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-26T21:24:39+00:00",
+      "excerpt": "Google Ads expands customer lifecycle goals across Search and Shopping, letting value-based Smart Bidding assign extra conversion value to new, high-value or lapsed customers identified via Customer Match.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ads-customer-targeting-471.png"
+    },
+    {
+      "title": "Inside indie agencies' DSP gripes and the rise of agentic media buying",
+      "url": "https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-10-27T04:01:00+00:00",
+      "excerpt": "Independent agencies are pushing back on costly DSP fees as AI agents threaten to reshape how media is bought and who controls ad dollars.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/IMG_2091.jpeg"
+    },
+    {
+      "title": "Consumers Aren’t Ready to Let AI Do Their Holiday Shopping Yet",
+      "url": "https://www.adweek.com/commerce/consumers-arent-ready-to-let-ai-do-their-holiday-shopping-yet/",
+      "source": "Adweek",
+      "category": "marketing",
+      "published_iso": "2026-10-28T15:19:02-04:00",
+      "excerpt": "Only 16% of U.S. consumers trust AI agents to complete purchases for them (Deloitte survey of 4,000), and 66% worry about how AI assistants use their data, as other pre-holiday surveys also show hesitancy about agentic shopping.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Robot-Shopping.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "title": "Google Sells Itself As A Commerce 'Matchmaker,' Not A Retailer",
+      "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
+      "source": "Adweek",
+      "category": "marketing",
+      "published_iso": "2026-10-26T11:51:00-04:00",
+      "excerpt": "Google is weaving agent-ready commerce into its services via the Universal Commerce Protocol and newly launched Universal Cart, positioning itself as a 'matchmaker' that controls brand discovery while retailers handle fulfillment.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Google-Universal-Cart.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
+      "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+      "source": "Marketing Dive",
+      "category": "marketing",
+      "published_iso": "2026-10-26T10:18:00-04:00",
+      "excerpt": "Clorox CMO Eric Schwartz told ANA Masters of Marketing the company replaced big-bang campaigns with AI-automation-enabled 'systems of relevance' producing high-volume, social-first content for Pine-Sol, Brita and Hidden Valley.",
+      "og_image": "https://imgproxy.divecdn.com/NMt6t4n-CijjRIWwM1wIN4nhexsBPWn-ryobn983bp0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp"
+    },
+    {
+      "title": "인플루언서 찾고 섭외비 협상까지…피처링이 그리는 'AI 마케팅'",
+      "url": "https://zdnet.co.kr/view/?no=20261028122654",
+      "source": "ZDNet Korea",
+      "category": "marketing",
+      "published_iso": "2026-10-28T14:23:54+09:00",
+      "excerpt": "인플루언서 마케팅 기업 피처링이 크리에이터 탐색부터 섭외비 협상, 계약서 작성과 콘텐츠 검수까지 인공지능(AI)으로 연결하는 전략을 제시했다. 기업별로 쌓인 캠페인 데이터와 업무 경험을 AI에 접목해 반복 업무를 줄이고 실제 구매 성과로 이어가겠다는 구상이다.장지훈 피처링 대표와 최화섭 최...",
+      "og_image": "https://image.zdnet.co.kr/2026/10/28/0538774a3165538713af8dda12295e33.jpg"
+    },
+    {
+      "title": "칼리버스, 롯데백화점 '시시호시' AI 선물 추천 도입…이머시브 커머스 확대",
+      "url": "https://zdnet.co.kr/view/?no=20261027160033",
+      "source": "ZDNet Korea",
+      "category": "marketing",
+      "published_iso": "2026-10-27T16:02:07+09:00",
+      "excerpt": "칼리버스가 롯데백화점 라이프스타일 편집숍 '시시호시'에 고객 조건에 맞춰 선물을 추천하는 인공지능(AI) 큐레이터를 도입했다. 패션·가전·스포츠에 이어 라이프스타일 분야로 이머시브 커머스 사업을 넓힌다.롯데이노베이트는 자회사 칼리버스가 롯데백화점몰 모바일 앱 내 시시호시 ...",
+      "og_image": "https://image.zdnet.co.kr/2026/10/27/3ed58c31cc6e377e12c22c4c7c89b5d9.jpg"
+    }
+  ]
 }

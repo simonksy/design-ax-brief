@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "science",
   "items": [
     {
-      "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
-      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
-      "source": "Scientific American",
-      "published_iso": "2026-10-27T10:30:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-      "excerpt": "OpenAI and Anthropic released AI-generated results that claim to resolve major problems in math, physics and computer science, but like other recent AI 'slop drops' the releases are already controversial among researchers.",
+      "title": "When simulations fall short, this spectrometer learns for itself",
+      "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
+      "source": "Phys.org",
+      "published_iso": "2026-10-28T12:40:08-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+      "excerpt": "Aarhus University researchers used AI to let an NMR spectrometer learn the best pulse sequence directly from the sample, instead of relying on simulations, to boost weak signals that limit what the instrument can see.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "New concrete event: on the same day, OpenAI and Anthropic each released new AI-generated proofs. This is the one card for the proofs cluster and covers both labs plus researchers' pushback."
+      "rationale": "Fresh (10-28) method result in which AI tunes a lab instrument in place, on the sample itself. It moves 'AI for science' from analysing data to running the experiment."
     },
     {
-      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
-      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
-      "source": "Phys.org (SLAC)",
-      "published_iso": "2026-10-27T15:10:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-      "excerpt": "SLAC's SPINE runs staged machine-learning models that find features in liquid-argon detector images, identify individual particles and rebuild whole neutrino interactions. It underpins ICARUS's first search for sterile-neutrino oscillation (arXiv 2603.22557).",
+      "title": "Pasqal Launches AI Workflow for Cloud Quantum Experiments",
+      "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-10-28T12:07:54+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png",
+      "excerpt": "Pasqal's new AI-driven cloud workflow prepares quantum jobs, validates them in emulation, and processes the results into scientific observables.",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Fresh particle-physics result in which ML reconstruction is central: SPINE drives ICARUS's first sterile-neutrino search."
+      "rationale": "New product release (10-28): an end-to-end AI workflow that takes cloud quantum experiments from job prep through emulation to observables. It is a different event from the Google competition published 10-24."
     },
     {
-      "title": "Solving a 31-year-old grand challenge in mathematics: the KLS conjecture",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "source": "Microsoft Research",
-      "published_iso": "2026-10-21T16:00:00+00:00",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg",
-      "excerpt": "A Microsoft Research scientist and a collaborator proved the 1995 Kannan-Lovasz-Simonovits conjecture in high-dimensional convex geometry. They worked with AI agents in a structured, human-directed process that explored more than 100 candidate approaches before finding a recursive criterion.",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://allenai.org/blog/novelty-bench",
+      "source": "Ai2",
+      "published_iso": "2026-10-27T00:00:00-08:00",
+      "og_image": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png",
+      "excerpt": "Ai2's Old Ideas, Novel Problems benchmark tests how reliably LLMs judge the novelty of research ideas and finds small changes to the evaluation setup can flip their verdicts.",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Primary-source account of a major proof, worked out by humans directing AI agents. It is a counterpoint to the lab 'proof drops' and shows a workflow other researchers can copy."
+      "rationale": "Primary-source benchmark release from Ai2 showing that LLM novelty verdicts flip under small setup changes. This matters directly to anyone using LLMs for research triage or review."
     },
     {
-      "title": "AI designs functional enzyme components that could help expand drug discovery",
-      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
-      "source": "Phys.org (HIPS)",
-      "published_iso": "2026-10-21T16:20:14-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-aids-in-the-develop.jpg",
-      "excerpt": "HIPS researchers combined pretrained AI models with experiments to design 76 new thiolation domains for non-ribosomal peptide synthetases. Several worked in living cells, and some raised product yields up to threefold over natural versions (Nature Communications, 10.1038/s41467-026-77963-6).",
+      "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
+      "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
+      "source": "Phys.org",
+      "published_iso": "2026-10-27T16:20:15-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+      "excerpt": "University of Missouri researchers used an AI-designed genome-editing tool to create rice plants that resist bacterial blight, a disease that can destroy harvests across Asia and Africa.",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "AI protein design checked in the wet lab: designed NRPS domains work in cells and raise yields up to 3x. This is biosynthesis biology with no specific disease, so it belongs in science, not medicine."
+      "rationale": "Applied plant-science result: an AI-designed editor gives crops resistance to bacterial blight. It is host-side defence with no pathogen engineering, and it is not clinical, so it belongs in science."
     },
     {
-      "title": "New neural framework could make LLMs more empathetic",
-      "url": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html",
-      "source": "Tech Xplore (Georgia Tech)",
-      "published_iso": "2026-10-27T10:40:08-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neural-framework.jpg",
-      "excerpt": "Georgia Tech researchers built a 'capability provenance' framework that traces which training-data sources drive an LLM's behaviour. Auditing Olmo 3, they found that stronger social reasoning and empathy came from interpersonal dialogue data such as FAQs and customer-service chats, not from textbooks (COLM; arXiv 2606.19625).",
+      "title": "AI may quickly generate ideas, but working with people leads to more creative ones",
+      "url": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-10-28T11:20:17-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
+      "excerpt": "A study comparing idea generation with generative AI versus human collaboration finds AI is faster but people working together produce more creative ideas.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "A fresh cognitive-science-of-AI finding: tracing a model's training data shows that empathy and social reasoning come from dialogue data, not textbooks (COLM paper on the open model Olmo 3)."
+      "rationale": "New cognitive-science study (10-28) on AI versus human collaboration in ideation. It covers the psychology axis of the section and gives a practical takeaway for creative teams."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
-        "new_action": "New releases on 2026-10-27: OpenAI published a new batch of AI-generated proofs (math, CS, quantum physics) and Anthropic released its own AI-generated results, both after the 10-23 inside-story card"
-      },
-      "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html": {
+      "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html",
         "new_action": ""
       },
-      "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/": {
+      "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
+        "nearest": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html": {
+      "https://allenai.org/blog/novelty-bench": {
+        "verdict": "new",
+        "nearest": "https://allenai.org/blog/litpivot",
+        "new_action": ""
+      },
+      "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html": {
         "verdict": "new",
         "nearest": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html": {
+      "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates of published stories: Live Science '10 minutes of AI erodes motivation' (= 2026-10-10 eurekalert 1147258); Phys.org Caltech tipping points (= 2026-10-16 eurekalert 1147991); Physics World optical deepfake detector (= 2026-10-02 sciencedaily 260929053534). Dropped within the OpenAI/Anthropic proofs cluster, one card per story: SciAm 'OpenAI just scooped mathematicians' (same 10-27 release as the pick) and Quantum Insider 'OpenAI computing claim faces review' (commentary and review of the same OpenAI proof drop, and it overlaps the 10-17 SciAm encryption story). Skipped on judgement: Quanta quasi-Riemann (10-19; a third math card and possibly part of the running OpenAI million-dollar-proof story); Google sleep framework (pure ML method); USF mosquito trap (applied surveillance, low science value); MIT history Q&A (evergreen). Cross-section published_urls.json was not exact-grepped (no grep tool in this agent); the orchestrator should confirm that the 5 urls are absent from the other sections, especially medicine for the HIPS enzyme pick."
+    "note": "Dropped as already-published stories: phys.org tipping-points (same PNAS neural-operator study as eurekalert 1147991, 10-16); Live Science '10 minutes erodes motivation' (same study as eurekalert 1147258, 10-10); Live Science 'Is AI making you lazier?' (reader poll on that same study, no new event); Physics World optical deepfake detection (same 97.8% optical detector as ScienceDaily 10-02); MIT TR Astrolab FLIP LLMs on the moon (same FLIP rover onboard-compute story as space.com 10-21); Quanta quasi-Riemann AI proof (analysis of the AI proof wave already covered by SciAm 'Dueling proofs' 10-28 and the 10-02 Live Science Riemann piece; no new release). Excluded for safety/scope: DeepMind antimicrobial-peptide search (pathogen-adjacent per run brief; also 10-15, stale). Passed over on score: Ai2 olmOCR 2 archives (Ai2 already used once; adoption write-up, not a release), PsyPost algorithm revenge, MIT News Q&A and Smaragdis profile (profiles/history), arXiv AMARO v2.0 (generic arXiv logo image), MIT TR interspecies feature and Cammarata interview (features/interviews). Outlets in the final 5: Phys.org x2, The Quantum Insider, Ai2, Tech Xplore. Cross-section check: published_urls.json is too large (3.7k lines) to scan in full without grep. None of the picks' URLs appear in this section's 30-day history, and none is a clinical, marketing or politics topic, but the orchestrator should exact-grep the 5 URLs across all sections before roll."
   }
 }

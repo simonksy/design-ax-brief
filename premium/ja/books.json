@@ -8340,6 +8340,123 @@
           "x": "長期編成規模は韓国語版1万4917冊、英語版1万4917冊の計2万9834冊で、商業稼働後の目標生産量は韓英合計で月2000冊、年間2万4000冊だ。書店の販売動向をAIが収集・分析して後続の生産を決め、反応の良い電子書籍はオンデマンド印刷(POD)につなげる。"
         }
       ]
+    },
+    "books/silva-rojas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+          "cap": "David Silva Rojasは「Donde el agua trabaja」の作者である。Foto: composición Caretas/BeCult/El País"
+        },
+        {
+          "t": "p",
+          "x": "ペルーの作家David Silva Rojasの小説「Donde el agua trabaja」は、検出ツールPangramの分析で、約26,000語のうち99%が人工知能(IA)によるものとされた。同作は2026年7月、賞金20,000ユーロのPremio Internacional de Novela Breve Almadía Ventosa-Arrufatを受賞したが、応募規定はこうしたツールの部分的・全面的な使用を禁じていた。"
+        },
+        {
+          "t": "p",
+          "x": "El Paísの調査を受け、メキシコの出版社Almadíaは10月23日にMadridで予定していた刊行イベントを中止し、スペイン国内のほかの都市での催しも取りやめた。作者は人工知能の使用を否定しており、出版社は本件を検証すると発表した。Pangramは雑誌Ulricaのインタビューでの作者の回答の97%と、924語の自伝的文章の80%もIA生成と分類した。"
+        },
+        {
+          "t": "p",
+          "x": "同紙自身も、Pangramは万能ではないと指摘した。統計的なパターンは識別できるが、作品全体をIAで生み出したのか、自分のメモを文章に整えるのに使ったのかまでは区別できない。同作はCristina Rivera Garza、Selva Almada、Mónica Ojedaによる審査で、2,204編の原稿の中から選ばれた。"
+        },
+        {
+          "t": "img",
+          "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
+        }
+      ]
+    },
+    "books/spiegelman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+          "cap": "Art Spiegelman（撮影：Zach Rabiroff）"
+        },
+        {
+          "t": "p",
+          "x": "Art SpiegelmanのグラフィックノベルIn the Shadow of No Towers 25周年記念版の左上にある金と白のシールが見えるだろうか。あれはAIで生成されたものだ。SpiegelmanはPublishers WeeklyのZach Rabiroffによるインタビューで、その事実を明かした。"
+        },
+        {
+          "t": "p",
+          "x": "「そこで彼は、一種の記念の贈り物も添えた。燃えるタワーを誕生日ケーキのろうそくに見立てて皮肉った表紙シールだ。このシールは、SpiegelmanがAI生成のアートワークを初めて使ったものとなる。『古い版画のように見せたかったし、面倒だった』と彼はPWに語った。『AIでやってみて、どうなるか見ようと言ったんだ』。プロンプトにはMoulyが手を貸した。『彼女はClaudeを操るのがうまい』とSpiegelmanは言う」"
+        },
+        {
+          "t": "p",
+          "x": "この告白は、コミック界全体で評判が芳しくない。CBRのコミック研究者で歴史家のBrian Croninはこう書く。「Art Spiegelmanは天才だが、いやはや、『面倒だった』は自分の本の再刊用画像をAIで生成する言い訳にはならない」。漫画家Evan Dorkinは絵で応じた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+          "cap": "Evan Dorkin"
+        },
+        {
+          "t": "p",
+          "x": "The Beatによれば、Alison Bechdelも著書SpentでAIの助けを借りたと認めている。漫画家Mike Lynchは「おいおい。昼寝でもしなよ。充電して。戻ってきて、ちゃんと描くんだ」。Michael Maslinは、「Mouly」とは「The New Yorkerの表紙編集者Francoise Mouly。SpiegelmanとMoulyは夫婦だ」と指摘する。Gemma Correllの反応は「ew」だった。"
+        }
+      ]
+    },
+    "books/winterson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
+        },
+        {
+          "t": "p",
+          "x": "2021年のエッセイ集12 Bytesの著者Jeanette Wintersonは、私たちは種としての物語の転換点にいると論じる。彼女が「もう一つの知性」と呼びたがる人工知能は「進化の飛躍だ。まさにそういうことだ。AIは単なる道具をはるかに超える」。私たちは産業革命にも通じる選択の瞬間にいる。「私たちはどんな未来を築くのか」"
+        },
+        {
+          "t": "p",
+          "x": "問題はAIではなく私たちだ、と彼女は強調する。「避けられないディストピアなどない」。物事がうまくいかないとすれば、それは「このまったく新しい現実に重ねられた古い考え方」のせいだろう。「AIと仕事について私たちが恐れていることの大半は、産業革命のときと同じく、支配者たちが下す政治的・経済的な選択に帰着する」"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "「人間について分かっているのは、独占が大好きだということだ」 写真：Sarah Lee/The Guardian"
+        },
+        {
+          "t": "p",
+          "x": "UKで人文学の削減が進むなか、彼女は「人文主義の教育は不可欠だ。ここでは人間を中心に据えなければならない」と述べ、創造性、遊び、問題解決、芸術を前面に出す。「物語を聞きたがらない子どもがいるなら見せてほしい」。最悪の事態も「起こりうる」と彼女は言うが、「良い結果の大きさは、これをうまくやり損ねたときの失敗の全面性と同じくらい現実的だ……すべてはこれから次第だ」"
+        }
+      ]
+    },
+    "books/mcp-discovery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究者や学生がAIアシスタントで作業を始めることが増え、学術出版社もそこで彼らを迎え始めている。Silverchairは10月5日、Research Bridgeの六か月間の試験運用を発表した。複数の独立系出版社のコンテンツにアシスタントがアクセスできる、共有のModel Context Protocol（MCP）チャネルだ。これはSilverchairのDiscovery Bridge、Research SolutionsのArticle Galaxy MCP、ClarivateのNexus Connect、そしてWileyのような出版社独自のサーバーに続くものだ。"
+        },
+        {
+          "t": "p",
+          "x": "筆者は、図書館がMCPコネクタ（APIsやその他のエンドポイントも含む）をコレクションとして扱い、その登録簿を管理し、提供元にはコネクタとメタデータを機械可読な形式で記述するよう求めるべきだと提案する。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+          "cap": "List of Magical Stones、紀元前1千年紀中頃〜後半ごろ"
+        },
+        {
+          "t": "p",
+          "x": "欠けているインフラには、適切なコネクタを見つける手段（外部の分析によれば、9月10日時点で公式MCPレジストリには30,000を超える固有サーバーがある）、アクセスを機関の利用権と結びつける手段、そしてCOUNTERのBest Practice on Generative and Agentic AI usage metricsによる利用状況の報告がある。リンクリゾルバ向けのKBARTフィードのように、提供元はエンドポイント、認証、利用権、AI-use条件、最終確認日といった項目をフィードとして提供すべきだ。"
+        }
+      ]
+    },
+    "books/youtube-audiobooks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YouTubeはオーディオブックへの事業拡大を視野に入れている。"
+        },
+        {
+          "t": "p",
+          "x": "AI-generatedの音声版によって同プラットフォームでは海賊版が横行しており、出版社はそこでオーディオブックを正規に楽しめる手段の提供へ動いている。"
+        },
+        {
+          "t": "p",
+          "x": "記事全文はJane Friedmanのニュースレター有料購読者向けに公開されている。"
+        }
+      ]
     }
   }
 }

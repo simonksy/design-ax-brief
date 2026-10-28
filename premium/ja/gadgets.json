@@ -9526,6 +9526,133 @@
           "x": "OpenAIやAnthropicなどのAIモデルが絶えず進化するなか、Appleが登場直後からSiri AIの改良を重ねているのは喜ばしい。ソフトウェアアップデートのたびにアシスタントが良くなっていくことを期待したい。"
         }
       ]
+    },
+    "gadgets/gadgets-xreal-aura-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "XREALは、GoogleのAndroid XR OSを搭載した初のARグラスXREAL AURAを本日発売すると発表した。期間限定で$1,100からとなる。初回分はmid-Novemberに出荷が始まる予定で、まずUS、カナダ、日本、韓国で展開される。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+          "cap": "提供：XREAL"
+        },
+        {
+          "t": "p",
+          "x": "December 2026までの発売記念割引では、Xreal Aura 12GB + 256GBが通常$1,279のところ$1,099、16GB + 512GBが通常$1,499のところ$1,299となる。"
+        },
+        {
+          "t": "p",
+          "x": "Auraのプリズム式シースルー光学系は、95グラム未満の筐体で70度の視野角を実現する。ポケットに収まるコンピュートユニットに有線で接続し、同ユニットはXR処理とAI処理を担うQualcommのSnapdragon Reality EliteチップセットとXrealのX1S Spatial Coprocessorを備える。6DOFとハンドトラッキング、Play Storeのアプリに対応し、150を超えるmade-for-XR体験を搭載して出荷される。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+          "cap": "提供：XREAL"
+        },
+        {
+          "t": "p",
+          "x": "XrealはGameSirと共同設計したゲームパッドも発表した。専用のGeminiキーを備え、プレイヤーに「プレイ中にAIの支援をすばやく受けられる手段」を提供する。ワイヤレスの携帯キーボードも用意した。コンピュートパックにはGemini AIによる文脈理解機能が組み込まれている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-copilot-tv-exit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+          "cap": "画像：Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "LGとSamsungがCES 2025で最新スマートTVsにMicrosoftのCopilotへのアクセスを搭載すると発表してからほぼ二年、Microsoftは今年中にすべてのTVsでこのAIアシスタント機能のサポートを終了する。Windows Centralが報じた。"
+        },
+        {
+          "t": "p",
+          "x": "この情報はLG TVの画面に表示された通知によるものだ。「Microsoftは最近、当社のLG TVsで利用できるCopilot-enabled機能を含め、すべてのTVsでCopilot機能のサポートを終了することを決定しました」。通知によれば、この機能は「2026年中に提供終了の予定」で、具体的な日付は「Microsoftのスケジュールによる」という。"
+        },
+        {
+          "t": "p",
+          "x": "LGは昨年12月、webOSのアップデートで削除できないCopilotのショートカットを追加して反発を受け、その後ショートカットを削除できるようにした。TVs上のCopilotは親しみやすいAIコンパニオンの役割を担っていたが、Microsoftは今年初め、Copilotをデジタルコンパニオンよりもビジネスと生産性のツールとして位置づける取り組みの一環として、Copilotの「super app」を投入した。"
+        }
+      ]
+    },
+    "gadgets/gadgets-openai-dot-text": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+          "cap": "OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは先月末にDotエージェントを発表した際、いずれテキストメッセージで指示を出せるようにすると約束していた。それから一か月近くたった今、同社はUS Proユーザー向けに、まさにそれを可能にするプレビューの提供を始めた。OpenAIによると、新機能ではDotにテキスト、写真、さらにはボイスメモも送れる。Dotにとっても、任せたタスクの進捗を自ら知らせる新たな経路となる。"
+        },
+        {
+          "t": "p",
+          "x": "Dotでテキストを使うには、ChatGPTでDotのプロフィールを開きTextingを選ぶ。スマートフォン側では、iPhoneならiMessage、普段使いがAndroid端末ならRCSを有効にしておく。OpenAIはLinqと提携してメッセージ機能を提供し、安全性を確かめるため「広範な」侵入テストを実施したという。同社はXで「あなたのdotにテキストを送れるのはあなただけで、dotもあなたにしか送れない」と付け加えた。Dotがメモリに書き込んだ情報はChatGPTとテキストで共有されるため、別々の会話の間でも文脈が引き継がれる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-synthid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+          "cap": "ChatGPT Image 2.5"
+        },
+        {
+          "t": "p",
+          "x": "AppleのAIが生成した画像には、今後は目に見えないマークが付く。iOS 27.2では、iPhoneはImage Playgroundが作るすべての画像に、Googleが開発した透かしSynthIDを付与する。Appleはこの方針を、刷新したImage Playgroundとともに6月に発表していた。"
+        },
+        {
+          "t": "p",
+          "x": "新たに生成した画像には必ず透かしが入る。編集した写真については、AIの介入の度合いによって変わる。MacRumorsの検証では、ExtendとReframeで変更した画像にはSynthIDが付いていた一方、Clean Upでは小さな修正は透かしなしで、大きな修正には透かしが付いた。"
+        },
+        {
+          "t": "p",
+          "x": "SynthIDはメタデータではなく、ピクセルに直接埋め込まれる。Googleは画質に影響せず、切り抜きやフィルター、圧縮にも耐えるとしている。iPhone上では確認できず、Googleが10月初めに全ユーザーへ開放したSynthID Detectorが必要だ。Appleが加わったことで、SynthIDは真の業界標準にかなり近づいた。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ollama-tts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Rachit Agarwal / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "App Storeには音声をテキストにするアプリがあふれているが、優れたテキスト読み上げモデルは乏しく、良いものの多くはサブスクリプションの壁の向こうにある。コンピューター上でローカルAIモデルを動かせるオープンソースアプリのOllamaは、この状況を変えようとしている。macOS、Windows、Linuxで動作し、プロンプトが保存されたり学習に使われたりすることはない。"
+        },
+        {
+          "t": "p",
+          "x": "OllamaはMacでテキスト読み上げモデルに対応し、その第一弾がPhononだ。Gradiumが開発したPhononは、あらゆるテキストをMac上でそのまま音声に変換できる小型モデル群である。WindowsとLinuxへの対応も近く始まる。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+          "cap": "Ollama"
+        },
+        {
+          "t": "p",
+          "x": "声はZoey、Easton、Freya、Hughなどから選べ、米国英語と英国英語のアクセントがある。英語以外にフランス語、ドイツ語、スペイン語、ポルトガル語のモデルもある。Ollamaによれば、AppleのMLXフレームワークのおかげで、M5 Max搭載のMacBook Pro上でPhononはGradium独自のランタイムより35%速く、精度も落ちないという。"
+        },
+        {
+          "t": "p",
+          "x": "Phononをチャットモデルと組み合わせれば、返答を読み上げさせられる。最初の一文の後に再生が始まるため、回答全体を待つ必要はない。"
+        },
+        {
+          "t": "p",
+          "x": "利用にはOllama 0.40.11以降を動かすApple Silicon搭載Macが必要だ。英語モデルはApache 2.0のもとで無料で使えるが、フランス語、ドイツ語、スペイン語、ポルトガル語、多言語モデルは非商用利用に限られる。"
+        }
+      ]
     }
   }
 }

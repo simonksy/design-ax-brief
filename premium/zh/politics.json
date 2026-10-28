@@ -4073,6 +4073,133 @@
           "x": "据Sveriges Radio报道，瑞典税务局和国家机构护理委员会也已实施限制。出于数据安全担忧，这两个AI平台与DeepSeek一起被列入瑞典政府未批准的AI工具名单。"
         }
       ]
+    },
+    "politics/italy-ai-decree": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+        },
+        {
+          "t": "p",
+          "x": "随着第179号立法令(No. 179)于10月23日生效，意大利落实欧盟《人工智能法》(EU Artificial Intelligence Act)的国家框架迈出决定性一步。该法令于10月8日在官方公报上发布，是两步走方针的第二步；第一步是2025年9月出台的意大利AI通用法——第132号法律(No. 132)。"
+        },
+        {
+          "t": "p",
+          "x": "AI Act将重要部分留给各国法律：成员国必须指定主管机关，制定处罚和程序，并设立监管沙盒。意大利至少在两个领域作出了自己的选择。"
+        },
+        {
+          "t": "p",
+          "x": "意大利数字局(Agency for Digital Italy)AgID担任通报机构，负责评估、指定和监督合格评定机构。国家网络安全局(National Cybersecurity Agency)ACN是主要市场监督机构，也是与EU机构对接的单一联络点，拥有调查和执法权，包括在不事先通知的情况下检查真实环境测试，并负责登记用于关键基础设施的高风险系统。"
+        },
+        {
+          "t": "p",
+          "x": "IAPP分析的其余内容仅向会员开放。"
+        }
+      ]
+    },
+    "politics/pakistan-ecp-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+          "cap": "位于伊斯兰堡的巴基斯坦选举委员会大楼。图片：Radio Pakistan"
+        },
+        {
+          "t": "p",
+          "x": "巴基斯坦选举委员会(ECP)提议对2023年政党、媒体机构和选举观察员行为准则作出12项修订，以遏制选举期间滥用人工智能(AI)。"
+        },
+        {
+          "t": "p",
+          "x": "委员会在11月20日前征求公众和利益相关方的意见，相关措施旨在规范AI生成(AI-generated)内容、禁止欺骗性深度伪造，并确保选举相关传播的透明度。"
+        },
+        {
+          "t": "p",
+          "x": "媒体在播出、发布或公开经AI生成或修改的内容时，须予以明确披露。草案禁止制作政党领导人、候选人、选举官员、法官、武装部队人员及其他国家官员的深度伪造内容，前提是这些内容虚假、具有诽谤性或意在嘲弄他们。"
+        },
+        {
+          "t": "p",
+          "x": "媒体在披露的前提下，可使用AI工具准备、翻译、呈现或分析选举内容。Pemra、社交媒体保护与监管局和国家网络犯罪调查局将监测未标注的AI内容，并向ECP报告违规行为。"
+        }
+      ]
+    },
+    "politics/ap-ai-disinfo-videos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+          "cap": "一名选民在提前投票期间填写选票。"
+        },
+        {
+          "t": "p",
+          "x": "NEW YORK (AP) — 据信由人工智能制作、并与俄罗斯有关联的社交媒体视频，正在中期选举最后冲刺阶段盗用真实人物的姓名和照片，散布有关两名民主党参议员候选人的虚假信息。"
+        },
+        {
+          "t": "p",
+          "x": "其中一段视频针对在俄亥俄州挑战共和党参议员乔恩·赫斯特德(Jon Husted)的谢罗德·布朗(Sherrod Brown)，使用了前实习生哈娅·阿克比克(Haya Akbik)的照片；她称那些被归于她的说法“完全是捏造的”。另一段视频针对在得克萨斯州与共和党人肯·帕克斯顿(Ken Paxton)竞争的詹姆斯·塔拉里科(James Talarico)，以一名前学生自白的形式呈现。"
+        },
+        {
+          "t": "p",
+          "x": "X删除了最初的帖子并封禁了相关用户，但网上仍能找到副本。克莱姆森大学教授达伦·林维尔(Darren Linvill)表示，这些视频很可能出自俄罗斯网络Storm-1516。俄罗斯大使馆未立即回应；该使馆过去曾否认干预美国(U.S.)选举。"
+        },
+        {
+          "t": "p",
+          "x": "达特茅斯学院教授哈尼·法里德(Hany Farid)表示，这些视频很可能经过AI生成或篡改，并称布朗的视频是“技术含量相当低的伪造品”。"
+        }
+      ]
+    },
+    "politics/malaysia-ai-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+          "cap": "2026年10月28日，在马来西亚雪邦举行的海关记者会上展示的一台装有先进AI芯片的服务器。(图片：REUTERS/Hasnoor Hussain)"
+        },
+        {
+          "t": "p",
+          "x": "KUALA LUMPUR：马来西亚海关周三(10月28日)表示，本月查获价值约49.5 million 林吉特(US$12.11 million)的先进人工智能芯片，当局正逐步收网一个涉嫌经该国主要机场走私高性能半导体的集团。"
+        },
+        {
+          "t": "p",
+          "x": "在美国施压要求阻止相关芯片流入中国后，马来西亚去年对US原产的先进AI芯片实施出口管制。海关总监阿斯帕莉拉·阿格·图阿(Aspalila Ag Tuah)表示，10月15日，当局在吉隆坡国际机场自由贸易区发现30台装有这些芯片的服务器。这批货物原定再出口，而再出口需要贸易许可证。"
+        },
+        {
+          "t": "p",
+          "x": "阿斯帕莉拉说：“这些服务器被虚报为电子元件。”协助运送该批货物的一家马来西亚公司已被传唤协助调查。至少五起案件与该集团有关，查获总价值超过100 million 林吉特。"
+        }
+      ]
+    },
+    "politics/lords-aisi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+        },
+        {
+          "t": "p",
+          "x": "上议院（House of Lords）议员于10月26日星期一在报告阶段完成了对《网络安全与韧性（网络与信息系统）法案》（Cyber Security and Resilience (Network and Information Systems) Bill）的进一步审议。"
+        },
+        {
+          "t": "p",
+          "x": "该法案旨在加强UK境内提供医疗、饮用水和能源等基本服务的机构的网络安全。新法还将纳入更多行业，更新事件报告义务，并赋予政府出于国家安全利益向机构发出指令的权力。"
+        },
+        {
+          "t": "p",
+          "x": "议员们审议的修正案涉及：事件、网络威胁和未遂事件的自愿通报；将服务提供商和软件制造商纳入NIS框架；关键供应商的认定与供应链漏洞；“善意”网络安全专家的保护与起诉；面向SMEs的国家网络安全支持服务；以及数字主权战略（Digital Sovereignty Strategy）和董事会问责。"
+        },
+        {
+          "t": "p",
+          "x": "围绕法案修改共进行了三次分组表决。议员们投票通过了两项修正案，要求政府在十二个月内评估网络与信息系统（Network and Information Systems）机制的有效性，并建立威胁UK网络安全的国家行为体名册。"
+        },
+        {
+          "t": "p",
+          "x": "第三项修改涉及前沿AI模型相关事件的报告，经表决后未获议员同意。"
+        },
+        {
+          "t": "p",
+          "x": "三读是议员“整理”法案并作出修改的最后机会，定于11月2日星期一进行。"
+        }
+      ]
     }
   }
 }

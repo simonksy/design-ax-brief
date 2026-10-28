@@ -1,535 +1,215 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "design",
   "cards": [
     {
-      "id": "a2ui",
+      "id": "replica",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google A2UI,\n추론 형식 갈아 끼운다",
-      "body": "Google A2UI는 추론 형식을 바꿔 끼워 지연을 최대 3x 줄였다.",
-      "mini_headline": "Google, A2UI 속도 높였다",
-      "tool": "AI Workflow",
-      "source": "Google for Developers Blog",
-      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-          },
-          {
-            "t": "p",
-            "x": "A2UI와 생성형 UI 경험이 느리다는 우려가 들려왔다. 모델이 화면을 하나씩 만드는 동안 사람들이 기다려야 한다는 것이다. 이번 릴리스는 추론 형식을 바꿔 끼울 수 있게 했고, A2UI에서 결정 모델을 쓰는 예시도 공유한다. 새 A2UI Express를 추론 형식으로 쓰면 지연이 최대 3x 줄고, Jev 같은 결정 모델로 레이아웃을 정하면 최대 80x까지 준다. 같은 종류의 UI를 만들 때 Express는 Direct JSON보다 토큰이 최대 3x 적게 든다."
-          },
-          {
-            "t": "p",
-            "x": "복잡한 JSON 스키마에 맞춰 JSON 트리를 생성하는 일은 LLMs에게 느리고 오류도 잦았다. 이제 에이전트는 중간 형식인 A2UI Express를 만들고, A2UI의 Agent SDKs에 든 결정론적 코드가 이를 JSON-based 전송 프로토콜로 바꾼다. 형식은 생성기를 만들 때 인자 하나로 고른다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-          },
-          {
-            "t": "p",
-            "x": "Express는 Python과 비슷하게 한 줄에 한 문장씩 쓴다. Python agent SDK(a2ui-agent-sdk 0.9.0), TypeScript agent SDK(@a2ui/agent), Dart SDK에서 쓸 수 있다. Google은 gemini-3.5-flash에서 네 가지 형식을 같은 51-task eval에 돌렸는데, Express는 thinking을 꺼도 똑같이 잘 작동했다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-          },
-          {
-            "t": "p",
-            "x": "형태가 정해진 화면이라면 TypeSafe의 System One 모델인 Jev가 타입이 지정된 레이아웃 질문에 약 100~300 ms 만에 답한다. 오픈소스 Apparite(jev2ui) 예시에서는 프롬프트 11개에 걸쳐 컴포넌트 트리가 92~298 ms 만에 화면에 떴고, 화면 하나가 완성되기까지 0.8~1.7 s가 걸렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google's A2UI gets\nswappable inference formats",
-          "body": "Google's A2UI adds swappable inference formats, led by A2UI Express, which cuts latency by up to 3x.",
-          "mini_headline": "Google speeds up A2UI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "We've heard your concerns about the speed of A2UI and generative UI experiences: people wait while the model generates each screen. This release introduces swappable inference formats and shares examples on leveraging decision models with A2UI. Using the new A2UI Express as an inference format you can reduce latency by up to 3x, and up to 80x using decision models like Jev to make layout decisions. Express requires up to 3x fewer tokens to generate the same kinds of UI compared to Direct JSON."
-              },
-              {
-                "t": "p",
-                "x": "Generating JSON trees constrained by a complex JSON schema turned out to be slow and error-prone for LLMs. Now agents can generate A2UI Express, an intermediate format, and rely on deterministic code in A2UI's Agent SDKs to translate it into the JSON-based transport protocol. You choose the format with one argument when you create the generator."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Express writes one statement per line, in a style close to Python. It is available in the Python agent SDK (a2ui-agent-sdk 0.9.0), the TypeScript agent SDK (@a2ui/agent) and the Dart SDK. Google ran four formats through the same 51-task eval on gemini-3.5-flash and found Express works just as well even with thinking off."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "For screens with a known shape, Jev from TypeSafe, a System One model, answers typed layout questions in roughly 100 to 300 ms. In the open-source Apparite (jev2ui) example, the component tree was on screen in 92 to 298 ms and each screen was complete in 0.8 to 1.7 s across 11 prompts."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google A2UI,\n추론 형식 갈아 끼운다",
-          "body": "Google A2UI는 추론 형식을 바꿔 끼워 지연을 최대 3x 줄였다.",
-          "mini_headline": "Google, A2UI 속도 높였다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "A2UI와 생성형 UI 경험이 느리다는 우려가 들려왔다. 모델이 화면을 하나씩 만드는 동안 사람들이 기다려야 한다는 것이다. 이번 릴리스는 추론 형식을 바꿔 끼울 수 있게 했고, A2UI에서 결정 모델을 쓰는 예시도 공유한다. 새 A2UI Express를 추론 형식으로 쓰면 지연이 최대 3x 줄고, Jev 같은 결정 모델로 레이아웃을 정하면 최대 80x까지 준다. 같은 종류의 UI를 만들 때 Express는 Direct JSON보다 토큰이 최대 3x 적게 든다."
-              },
-              {
-                "t": "p",
-                "x": "복잡한 JSON 스키마에 맞춰 JSON 트리를 생성하는 일은 LLMs에게 느리고 오류도 잦았다. 이제 에이전트는 중간 형식인 A2UI Express를 만들고, A2UI의 Agent SDKs에 든 결정론적 코드가 이를 JSON-based 전송 프로토콜로 바꾼다. 형식은 생성기를 만들 때 인자 하나로 고른다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Express는 Python과 비슷하게 한 줄에 한 문장씩 쓴다. Python agent SDK(a2ui-agent-sdk 0.9.0), TypeScript agent SDK(@a2ui/agent), Dart SDK에서 쓸 수 있다. Google은 gemini-3.5-flash에서 네 가지 형식을 같은 51-task eval에 돌렸는데, Express는 thinking을 꺼도 똑같이 잘 작동했다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "형태가 정해진 화면이라면 TypeSafe의 System One 모델인 Jev가 타입이 지정된 레이아웃 질문에 약 100~300 ms 만에 답한다. 오픈소스 Apparite(jev2ui) 예시에서는 프롬프트 11개에 걸쳐 컴포넌트 트리가 92~298 ms 만에 화면에 떴고, 화면 하나가 완성되기까지 0.8~1.7 s가 걸렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GoogleのA2UIに\n推論形式の切り替え機能",
-          "body": "GoogleのA2UIに推論形式の切り替えが加わり、遅延は最大3x減る。",
-          "mini_headline": "GoogleがA2UIを高速化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "A2UIと生成UI体験の速度に関する懸念は届いている。モデルが画面を一つずつ生成する間、人は待たされる。今回のリリースは切り替え可能な推論形式を導入し、A2UIで決定モデルを活用する例も示す。新しいA2UI Expressを推論形式に使えば遅延を最大3x、Jevのような決定モデルでレイアウトを決めれば最大80x削減できる。Expressは同種のUIを生成するのに、Direct JSONと比べてトークンが最大3x少なくて済む。"
-              },
-              {
-                "t": "p",
-                "x": "複雑なJSONスキーマに縛られたJSONツリーの生成は、LLMsにとって遅く、誤りも起きやすいことがわかった。今後エージェントは中間形式のA2UI Expressを生成し、A2UIのAgent SDKsに含まれる決定論的なコードがそれをJSON-basedの転送プロトコルに変換する。形式はジェネレーター作成時に引数一つで選べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "ExpressはPythonに近いスタイルで、1行に1文を書く。Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）、Dart SDKで利用できる。Googleはgemini-3.5-flash上で4つの形式を同じ51-task evalにかけ、Expressがthinkingをオフにしても同等に機能することを確認した。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "形が決まった画面では、TypeSafeのSystem OneモデルであるJevが、型付きのレイアウト質問におよそ100〜300 msで答える。オープンソースのApparite（jev2ui）の例では、11のプロンプトを通じてコンポーネントツリーが92〜298 msで画面に表示され、各画面は0.8〜1.7 sで完成した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google的A2UI\n推理格式可自由切换",
-          "body": "Google的A2UI新增可切换的推理格式，A2UI Express可将延迟最多降低3x。",
-          "mini_headline": "Google提升A2UI速度",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "我们听到了大家对A2UI和生成式UI体验速度的担忧：模型逐个生成屏幕时，用户只能等待。此次发布引入了可切换的推理格式，并分享了在A2UI中使用决策模型的示例。使用新的A2UI Express作为推理格式，延迟最多可降低3x；借助Jev等决策模型做布局决策，最多可降低80x。与Direct JSON相比，Express生成同类UI所需的token最多少3x。"
-              },
-              {
-                "t": "p",
-                "x": "事实证明，让LLMs生成受复杂JSON schema约束的JSON树既慢又容易出错。现在，代理可以生成中间格式A2UI Express，再由A2UI的Agent SDKs中的确定性代码将其转换为JSON-based传输协议。创建生成器时，只需一个参数即可选择格式。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Express每行写一条语句，风格接近Python。它已在Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）和Dart SDK中提供。Google在gemini-3.5-flash上用同一套51-task eval测试了四种格式，发现即使关闭thinking，Express的表现也同样出色。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "对于结构已知的屏幕，TypeSafe的System One模型Jev回答类型化布局问题约需100至300 ms。在开源的Apparite（jev2ui）示例中，11个提示词下组件树在92至298 ms内显示到屏幕上，每个屏幕在0.8至1.7 s内完成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "A2UI de Google suma formatos\nde inferencia intercambiables",
-          "body": "El A2UI de Google añade formatos de inferencia intercambiables, como A2UI Express, que reduce la latencia hasta 3x.",
-          "mini_headline": "Google acelera A2UI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Hemos escuchado sus inquietudes sobre la velocidad de A2UI y de las experiencias de UI generativa: la gente espera mientras el modelo genera cada pantalla. Esta versión introduce formatos de inferencia intercambiables y comparte ejemplos de uso de modelos de decisión con A2UI. Con el nuevo A2UI Express como formato de inferencia se puede reducir la latencia hasta 3x, y hasta 80x con modelos de decisión como Jev para tomar decisiones de diseño. Express requiere hasta 3x menos tokens para generar el mismo tipo de UI que Direct JSON."
-              },
-              {
-                "t": "p",
-                "x": "Generar árboles JSON restringidos por un esquema JSON complejo resultó lento y propenso a errores para los LLMs. Ahora los agentes pueden generar A2UI Express, un formato intermedio, y apoyarse en código determinista de los Agent SDKs de A2UI para traducirlo al protocolo de transporte JSON-based. El formato se elige con un solo argumento al crear el generador."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Express escribe una instrucción por línea, con un estilo cercano a Python. Está disponible en el Python agent SDK (a2ui-agent-sdk 0.9.0), el TypeScript agent SDK (@a2ui/agent) y el Dart SDK. Google sometió cuatro formatos a la misma 51-task eval en gemini-3.5-flash y comprobó que Express funciona igual de bien incluso con thinking desactivado."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Para pantallas de forma conocida, Jev de TypeSafe, un modelo System One, responde preguntas de diseño tipadas en unos 100 a 300 ms. En el ejemplo de código abierto Apparite (jev2ui), el árbol de componentes apareció en pantalla en 92 a 298 ms y cada pantalla se completó en 0.8 a 1.7 s a lo largo de 11 prompts."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Google A2UI에\n추론 형식 교체 기능",
-          "body": "Google A2UI가 추론 형식 교체를 도입해 지연을 최대 3x 줄였다.",
-          "mini_headline": "Google, A2UI 속도를 높이다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "A2UI와 생성형 UI 경험의 속도에 대한 우려를 들었다. 모델이 화면을 하나씩 생성하는 동안 사람들이 기다려야 한다는 점이다. 이번 릴리스는 교체 가능한 추론 형식을 도입하고, A2UI에서 결정 모델을 활용하는 예시를 공유한다. 새 A2UI Express를 추론 형식으로 쓰면 지연을 최대 3x, Jev 같은 결정 모델로 레이아웃을 결정하면 최대 80x까지 줄일 수 있다. Express는 같은 종류의 UI를 생성할 때 Direct JSON보다 토큰이 최대 3x 적게 든다."
-              },
-              {
-                "t": "p",
-                "x": "복잡한 JSON 스키마의 제약을 받는 JSON 트리를 생성하는 일은 LLMs에게 느리고 오류가 잦은 것으로 드러났다. 이제 에이전트는 중간 형식인 A2UI Express를 생성하고, A2UI의 Agent SDKs에 있는 결정론적 코드가 이를 JSON-based 전송 프로토콜로 변환한다. 형식은 생성기를 만들 때 인자 하나로 고른다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Express는 Python에 가까운 방식으로 한 줄에 한 문장을 쓴다. Python agent SDK(a2ui-agent-sdk 0.9.0), TypeScript agent SDK(@a2ui/agent), Dart SDK에서 쓸 수 있다. Google은 gemini-3.5-flash에서 네 가지 형식을 같은 51-task eval에 돌렸고, Express가 thinking을 끈 상태에서도 똑같이 잘 작동함을 확인했다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "형태가 정해진 화면에서는 TypeSafe의 System One 모델인 Jev가 타입이 지정된 레이아웃 질문에 약 100~300 ms 만에 답한다. 오픈소스 Apparite(jev2ui) 예시에서는 11개 프롬프트에 걸쳐 컴포넌트 트리가 92~298 ms 만에 화면에 떴고, 각 화면은 0.8~1.7 s 만에 완성됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GoogleのA2UIに\n推論形式の切り替え機能",
-          "body": "GoogleのA2UIに推論形式の切り替えが加わり、遅延は最大3x減る。",
-          "mini_headline": "GoogleがA2UIを高速化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "A2UIと生成UI体験の速度に関する懸念は届いている。モデルが画面を一つずつ生成する間、人は待たされる。今回のリリースは切り替え可能な推論形式を導入し、A2UIで決定モデルを活用する例も示す。新しいA2UI Expressを推論形式に使えば遅延を最大3x、Jevのような決定モデルでレイアウトを決めれば最大80x削減できる。Expressは同種のUIを生成するのに、Direct JSONと比べてトークンが最大3x少なくて済む。"
-              },
-              {
-                "t": "p",
-                "x": "複雑なJSONスキーマに縛られたJSONツリーの生成は、LLMsにとって遅く、誤りも起きやすいことがわかった。今後エージェントは中間形式のA2UI Expressを生成し、A2UIのAgent SDKsに含まれる決定論的なコードがそれをJSON-basedの転送プロトコルに変換する。形式はジェネレーター作成時に引数一つで選べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "ExpressはPythonに近いスタイルで、1行に1文を書く。Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）、Dart SDKで利用できる。Googleはgemini-3.5-flash上で4つの形式を同じ51-task evalにかけ、Expressがthinkingをオフにしても同等に機能することを確認した。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "形が決まった画面では、TypeSafeのSystem OneモデルであるJevが、型付きのレイアウト質問におよそ100〜300 msで答える。オープンソースのApparite（jev2ui）の例では、11のプロンプトを通じてコンポーネントツリーが92〜298 msで画面に表示され、各画面は0.8〜1.7 sで完成した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google的A2UI\n推理格式可自由切换",
-          "body": "Google的A2UI新增可切换的推理格式，A2UI Express可将延迟最多降低3x。",
-          "mini_headline": "Google提升A2UI速度",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "我们听到了大家对A2UI和生成式UI体验速度的担忧：模型逐个生成屏幕时，用户只能等待。此次发布引入了可切换的推理格式，并分享了在A2UI中使用决策模型的示例。使用新的A2UI Express作为推理格式，延迟最多可降低3x；借助Jev等决策模型做布局决策，最多可降低80x。与Direct JSON相比，Express生成同类UI所需的token最多少3x。"
-              },
-              {
-                "t": "p",
-                "x": "事实证明，让LLMs生成受复杂JSON schema约束的JSON树既慢又容易出错。现在，代理可以生成中间格式A2UI Express，再由A2UI的Agent SDKs中的确定性代码将其转换为JSON-based传输协议。创建生成器时，只需一个参数即可选择格式。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Express每行写一条语句，风格接近Python。它已在Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）和Dart SDK中提供。Google在gemini-3.5-flash上用同一套51-task eval测试了四种格式，发现即使关闭thinking，Express的表现也同样出色。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "对于结构已知的屏幕，TypeSafe的System One模型Jev回答类型化布局问题约需100至300 ms。在开源的Apparite（jev2ui）示例中，11个提示词下组件树在92至298 ms内显示到屏幕上，每个屏幕在0.8至1.7 s内完成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "A2UI de Google suma formatos\nde inferencia intercambiables",
-          "body": "El A2UI de Google añade formatos de inferencia intercambiables, como A2UI Express, que reduce la latencia hasta 3x.",
-          "mini_headline": "Google acelera A2UI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Hemos escuchado sus inquietudes sobre la velocidad de A2UI y de las experiencias de UI generativa: la gente espera mientras el modelo genera cada pantalla. Esta versión introduce formatos de inferencia intercambiables y comparte ejemplos de uso de modelos de decisión con A2UI. Con el nuevo A2UI Express como formato de inferencia se puede reducir la latencia hasta 3x, y hasta 80x con modelos de decisión como Jev para tomar decisiones de diseño. Express requiere hasta 3x menos tokens para generar el mismo tipo de UI que Direct JSON."
-              },
-              {
-                "t": "p",
-                "x": "Generar árboles JSON restringidos por un esquema JSON complejo resultó lento y propenso a errores para los LLMs. Ahora los agentes pueden generar A2UI Express, un formato intermedio, y apoyarse en código determinista de los Agent SDKs de A2UI para traducirlo al protocolo de transporte JSON-based. El formato se elige con un solo argumento al crear el generador."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Express escribe una instrucción por línea, con un estilo cercano a Python. Está disponible en el Python agent SDK (a2ui-agent-sdk 0.9.0), el TypeScript agent SDK (@a2ui/agent) y el Dart SDK. Google sometió cuatro formatos a la misma 51-task eval en gemini-3.5-flash y comprobó que Express funciona igual de bien incluso con thinking desactivado."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
-              },
-              {
-                "t": "p",
-                "x": "Para pantallas de forma conocida, Jev de TypeSafe, un modelo System One, responde preguntas de diseño tipadas en unos 100 a 300 ms. En el ejemplo de código abierto Apparite (jev2ui), el árbol de componentes apareció en pantalla en 92 a 298 ms y cada pantalla se completó en 0.8 a 1.7 s a lo largo de 11 prompts."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "figma-agent-shaders",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Figma 에이전트,\n셰이더·모션까지",
-      "body": "Figma 팀이 평소 작업에서 Figma 에이전트로 셰이더·모션을 만들어 보였다.",
-      "mini_headline": "Figma 에이전트, 모션까지",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
-      "accent": "#ff2d55",
+      "headline": "GitHub Replica\nAI 프로토타입 도구 공개",
+      "body": "GitHub Design의 Replica는 자체 디자인 시스템으로 시제품을 만든다.",
+      "mini_headline": "GitHub, Replica 공개",
+      "tool": "Figma",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "GitHub Design이 AI-powered 프로토타이핑 도구 Replica를 오픈소스로 공개한다. 제품 팀의 누구든 자체 디자인 시스템으로 아이디어를 인터랙티브 프로토타입으로 바꿀 수 있다."
+          },
+          {
             "t": "video",
-            "yt": "BS-N-AM5ql4"
+            "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
           },
           {
             "t": "p",
-            "x": "Figma on Figma는 우리가 평소 일하면서 자사 도구를 어떻게 쓰는지 보여 주거나, 그냥 멋진 걸 자랑하는 시리즈다. 이번 에피소드에서는 Designer Advocate Brett McMillin이 Figma 에이전트에 모션과 커스텀 셰이더 효과를 더해 새로운 창작 아이디어를 탐색한다."
+            "x": "좋은 제품 아이디어는 어디서든 나오지만, 손에 잡히는 결과물로 만들려면 시간과 전문 기술이 드는 경우가 많다. Replica를 쓰면 디자이너와 프로덕트 매니저, 엔지니어가 함께 아이디어를 탐색하고 피드백을 더 일찍 받으며, 처음부터 다시 시작하지 않고 반복해서 다듬을 수 있다."
           },
           {
             "t": "p",
-            "x": "00:00 – Intro(인트로), Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figma 모션·셰이더 예시 살펴보기) · 01:45 – Automating Motion with the Figma agent(Figma 에이전트로 모션 자동화) · 02:45 – Custom Shader Generation(커스텀 셰이더 생성) · 03:00 – Stacking Built-in & Custom Effects(내장 효과와 커스텀 효과 겹치기) · 03:28 – Real-time Light Refraction Through Glass(유리를 통과하는 실시간 빛 굴절)"
+            "x": "범용 AI 프로토타이핑 도구와 달리 Replica는 팀이 이미 가진 컴포넌트와 패턴, 문서에서 출발한다. 디자이너가 가이드를 정해 두면 팀의 누구든 GitHub Copilot 앱에서 자연어로 프로토타입을 만들고 다듬을 수 있고, 그 결과물에는 제품이 실제로 작동하는 방식이 반영된다."
+          },
+          {
+            "t": "p",
+            "x": "Replica로는 디자인 시스템을 바탕으로 아이디어를 인터랙티브 경험으로 바꿀 수 있다. 결과는 Copilot 대화 옆에서 바로 보고 테스트하며 다듬는다. 완성한 프로토타입은 선택 사항인 자체 호스팅(self-hosted) Replica Hub에 올려 팀원이 살펴보고 댓글을 달게 할 수 있다. 오픈소스 도구와 가이드는 제품과 워크플로에 맞게 고쳐 쓸 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "Replica는 현재 MIT 라이선스 오픈소스 프로젝트로 제공된다. 로컬에서 바로 프로토타이핑을 시작해도 되고, Replica Hub를 꾸려 팀과 프로토타입을 공유해도 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Figma agent takes on\nshaders and motion",
-          "body": "Figma's own team demos the Figma agent creating shaders and motion in an everyday workflow.",
-          "mini_headline": "Figma agent does motion",
+          "headline": "GitHub open-sources Replica\nfor AI prototyping",
+          "body": "GitHub Design's Replica turns product ideas into interactive prototypes built with your own design system.",
+          "mini_headline": "GitHub opens Replica",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "We’re open sourcing Replica, an AI-powered prototyping tool created by GitHub Design that helps anyone on your product team turn ideas into interactive prototypes using your own design system."
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "Welcome to Figma on Figma the series where we showcase how we use our own tools in our every day workflows, or just to show off something cool. In this episode we have Brett McMillin, a Designer Advocate walk us through how he uses Figma's agent with motion and custom shaders effects to explore new creative ideas."
+                "x": "Great product ideas can come from anywhere, but turning them into something tangible often takes time and specialized skills. Replica makes it easier for designers, product managers, and engineers to explore ideas together, get feedback earlier, and iterate without starting from scratch."
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro, Brett McMillin · 00:45 – Exploring Figma motion & shaders example · 01:45 – Automating Motion with the Figma agent · 02:45 – Custom Shader Generation · 03:00 – Stacking Built-in & Custom Effects · 03:28 – Real-time Light Refraction Through Glass"
+                "x": "Unlike generic AI prototyping tools, Replica uses your team’s existing components, patterns, and documentation to guide what gets created. Designers define the guidance, while anyone on the team can use natural language in the GitHub Copilot app to create and refine prototypes that reflect how your product actually works."
+              },
+              {
+                "t": "p",
+                "x": "With Replica you can prototype with your design system; turn ideas into interactive experiences, then see, test, and refine the result alongside your Copilot conversation; publish prototypes to an optional, self-hosted Replica Hub where teammates can explore them and leave comments; and customize the open-source tooling and guidance to fit your product and workflows."
+              },
+              {
+                "t": "p",
+                "x": "Replica is available now as an open-source project under the MIT license. You can start prototyping locally or set up Replica Hub to share prototypes with your team."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Figma 에이전트,\n셰이더·모션까지",
-          "body": "Figma 팀이 평소 작업에서 Figma 에이전트로 셰이더·모션을 만들어 보였다.",
-          "mini_headline": "Figma 에이전트, 모션까지",
+          "headline": "GitHub Replica\nAI 프로토타입 도구 공개",
+          "body": "GitHub Design의 Replica는 자체 디자인 시스템으로 시제품을 만든다.",
+          "mini_headline": "GitHub, Replica 공개",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GitHub Design이 AI-powered 프로토타이핑 도구 Replica를 오픈소스로 공개한다. 제품 팀의 누구든 자체 디자인 시스템으로 아이디어를 인터랙티브 프로토타입으로 바꿀 수 있다."
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "Figma on Figma는 우리가 평소 일하면서 자사 도구를 어떻게 쓰는지 보여 주거나, 그냥 멋진 걸 자랑하는 시리즈다. 이번 에피소드에서는 Designer Advocate Brett McMillin이 Figma 에이전트에 모션과 커스텀 셰이더 효과를 더해 새로운 창작 아이디어를 탐색한다."
+                "x": "좋은 제품 아이디어는 어디서든 나오지만, 손에 잡히는 결과물로 만들려면 시간과 전문 기술이 드는 경우가 많다. Replica를 쓰면 디자이너와 프로덕트 매니저, 엔지니어가 함께 아이디어를 탐색하고 피드백을 더 일찍 받으며, 처음부터 다시 시작하지 않고 반복해서 다듬을 수 있다."
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro(인트로), Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figma 모션·셰이더 예시 살펴보기) · 01:45 – Automating Motion with the Figma agent(Figma 에이전트로 모션 자동화) · 02:45 – Custom Shader Generation(커스텀 셰이더 생성) · 03:00 – Stacking Built-in & Custom Effects(내장 효과와 커스텀 효과 겹치기) · 03:28 – Real-time Light Refraction Through Glass(유리를 통과하는 실시간 빛 굴절)"
+                "x": "범용 AI 프로토타이핑 도구와 달리 Replica는 팀이 이미 가진 컴포넌트와 패턴, 문서에서 출발한다. 디자이너가 가이드를 정해 두면 팀의 누구든 GitHub Copilot 앱에서 자연어로 프로토타입을 만들고 다듬을 수 있고, 그 결과물에는 제품이 실제로 작동하는 방식이 반영된다."
+              },
+              {
+                "t": "p",
+                "x": "Replica로는 디자인 시스템을 바탕으로 아이디어를 인터랙티브 경험으로 바꿀 수 있다. 결과는 Copilot 대화 옆에서 바로 보고 테스트하며 다듬는다. 완성한 프로토타입은 선택 사항인 자체 호스팅(self-hosted) Replica Hub에 올려 팀원이 살펴보고 댓글을 달게 할 수 있다. 오픈소스 도구와 가이드는 제품과 워크플로에 맞게 고쳐 쓸 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "Replica는 현재 MIT 라이선스 오픈소스 프로젝트로 제공된다. 로컬에서 바로 프로토타이핑을 시작해도 되고, Replica Hub를 꾸려 팀과 프로토타입을 공유해도 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaエージェントが\nシェーダーとモーションに",
-          "body": "Figmaチームが業務でFigmaエージェントによるシェーダーとモーション制作を実演した。",
-          "mini_headline": "Figmaエージェントがモーションも",
+          "headline": "GitHub、Replica\nAI試作ツールを公開",
+          "body": "GitHub DesignのReplicaはアイデアを自社デザインシステムの試作に変える。",
+          "mini_headline": "GitHub、Replicaを公開",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GitHub Designが開発したAI-poweredのプロトタイピングツール「Replica」をオープンソース化する。プロダクトチームの誰もが、自社のデザインシステムを使ってアイデアをインタラクティブなプロトタイプに変えられるツールだ。"
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "Figma on Figmaは、私たちが日々のワークフローで自社ツールをどう使っているか、あるいは単に面白いものを紹介するシリーズだ。今回はDesigner AdvocateのBrett McMillinが、Figmaのエージェントをモーションやカスタムシェーダー効果と組み合わせ、新しい創作アイデアを探る方法を解説する。"
+                "x": "優れたプロダクトのアイデアはどこからでも生まれるが、それを形にするには時間と専門スキルが必要になることが多い。Replicaは、デザイナー、プロダクトマネージャー、エンジニアが一緒にアイデアを探り、早い段階でフィードバックを得て、一からやり直すことなく反復できるようにする。"
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro(イントロ)、Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figmaのモーションとシェーダーの例を探る) · 01:45 – Automating Motion with the Figma agent(Figmaエージェントでモーションを自動化) · 02:45 – Custom Shader Generation(カスタムシェーダーの生成) · 03:00 – Stacking Built-in & Custom Effects(組み込み効果とカスタム効果の重ね合わせ) · 03:28 – Real-time Light Refraction Through Glass(ガラスを通るリアルタイムの光の屈折)"
+                "x": "汎用的なAIプロトタイピングツールとは異なり、Replicaはチームの既存のコンポーネント、パターン、ドキュメントを手がかりに生成内容を導く。デザイナーがガイダンスを定め、チームの誰もがGitHub Copilotアプリで自然言語を使い、製品の実際の動きを反映したプロトタイプを作成・改良できる。"
+              },
+              {
+                "t": "p",
+                "x": "Replicaでは、デザインシステムを使ったプロトタイピングができる。アイデアをインタラクティブな体験に変え、Copilotとの会話と並べて結果を確認・テスト・改良できる。プロトタイプは任意で導入できるセルフホスト型のReplica Hubに公開でき、チームメイトが閲覧してコメントを残せる。オープンソースのツールとガイダンスは、製品やワークフローに合わせてカスタマイズできる。"
+              },
+              {
+                "t": "p",
+                "x": "ReplicaはMITライセンスのオープンソースプロジェクトとして現在提供中だ。ローカルでプロトタイピングを始めることも、Replica Hubを立ち上げてチームとプロトタイプを共有することもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma智能体\n挑战着色器与动效",
-          "body": "Figma团队演示了Figma智能体在日常工作流程中制作着色器和动效。",
-          "mini_headline": "Figma智能体做动效",
+          "headline": "GitHub开源\nAI原型工具Replica",
+          "body": "GitHub Design的Replica借助自有设计系统，把产品创意变成可交互原型。",
+          "mini_headline": "GitHub开源Replica",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "我们将开源Replica——这是GitHub Design打造的一款AI-powered原型设计工具，帮助产品团队中的任何人利用自有设计系统，把想法变成可交互原型。"
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "欢迎收看Figma on Figma系列，我们在这里展示自己如何在日常工作流程中使用自家工具，或者只是展示一些很酷的东西。本期由Designer Advocate Brett McMillin带我们了解，他如何结合动效和自定义着色器效果使用Figma的智能体，探索新的创意。"
+                "x": "好的产品创意可能来自任何地方，但要把它们变成看得见摸得着的东西，往往需要时间和专业技能。Replica让设计师、产品经理和工程师更容易一起探索想法、更早获得反馈，并在不必从头开始的情况下持续迭代。"
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro（开场），Brett McMillin · 00:45 – Exploring Figma motion & shaders example（探索Figma动效与着色器示例） · 01:45 – Automating Motion with the Figma agent（用Figma智能体自动生成动效） · 02:45 – Custom Shader Generation（生成自定义着色器） · 03:00 – Stacking Built-in & Custom Effects（叠加内置与自定义效果） · 03:28 – Real-time Light Refraction Through Glass（光线穿过玻璃的实时折射）"
+                "x": "与通用的AI原型工具不同，Replica以团队现有的组件、模式和文档来引导生成内容。设计师负责制定指引，团队中的任何人都可以在GitHub Copilot应用中用自然语言创建和完善原型，使其贴合产品的实际运作方式。"
+              },
+              {
+                "t": "p",
+                "x": "借助Replica，你可以基于设计系统制作原型；把想法变成可交互的体验，并在Copilot对话旁查看、测试和完善结果；将原型发布到可选的自托管Replica Hub，供团队成员浏览和留言；还可以根据自己的产品和工作流程定制这套开源工具和指引。"
+              },
+              {
+                "t": "p",
+                "x": "Replica现已作为MIT许可证下的开源项目推出。你可以在本地开始制作原型，也可以搭建Replica Hub与团队共享原型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de Figma se ocupa\nde shaders y movimiento",
-          "body": "El propio equipo de Figma muestra al agente de Figma creando shaders y movimiento en un flujo de trabajo cotidiano.",
-          "mini_headline": "El agente de Figma anima",
+          "headline": "GitHub abre el código de Replica\npara prototipar con AI",
+          "body": "Replica, de GitHub Design, convierte ideas de producto en prototipos interactivos con su propio sistema de diseño.",
+          "mini_headline": "GitHub abre Replica",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GitHub abre el código de Replica, una herramienta de prototipado AI-powered creada por GitHub Design que ayuda a cualquier persona del equipo de producto a convertir ideas en prototipos interactivos con su propio sistema de diseño."
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "Bienvenidos a Figma on Figma, la serie en la que mostramos cómo usamos nuestras propias herramientas en el trabajo diario, o simplemente enseñamos algo interesante. En este episodio, Brett McMillin, Designer Advocate, explica cómo usa el agente de Figma con movimiento y efectos de shaders personalizados para explorar nuevas ideas creativas."
+                "x": "Las buenas ideas de producto pueden surgir en cualquier parte, pero convertirlas en algo tangible suele requerir tiempo y habilidades especializadas. Replica facilita que diseñadores, gerentes de producto e ingenieros exploren ideas juntos, reciban comentarios antes e iteren sin empezar desde el principio."
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro, Brett McMillin · 00:45 – Explorando un ejemplo de movimiento y shaders en Figma · 01:45 – Automatizar el movimiento con el agente de Figma · 02:45 – Generación de shaders personalizados · 03:00 – Apilar efectos integrados (Built-in) y personalizados · 03:28 – Refracción de luz en tiempo real (Real-time) a través del vidrio"
+                "x": "A diferencia de las herramientas genéricas de prototipado con AI, Replica usa los componentes, patrones y documentación que el equipo ya tiene para orientar lo que se crea. Los diseñadores definen las pautas, y cualquier miembro del equipo puede usar lenguaje natural en la app GitHub Copilot para crear y ajustar prototipos que reflejan cómo funciona realmente el producto."
+              },
+              {
+                "t": "p",
+                "x": "Con Replica se puede prototipar con el propio sistema de diseño; convertir ideas en experiencias interactivas y luego ver, probar y ajustar el resultado junto a la conversación con Copilot; publicar los prototipos en un Replica Hub opcional y autoalojado, donde los compañeros pueden explorarlos y dejar comentarios; y personalizar las herramientas y pautas de código abierto para adaptarlas al producto y a los flujos de trabajo."
+              },
+              {
+                "t": "p",
+                "x": "Replica ya está disponible como proyecto de código abierto bajo la licencia MIT. Se puede empezar a prototipar en local o configurar Replica Hub para compartir prototipos con el equipo."
               }
             ]
           }
@@ -537,89 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Figma 에이전트,\n셰이더·모션까지",
-          "body": "Figma 팀이 일상 작업 속 Figma 에이전트의 셰이더·모션 제작을 시연했다.",
-          "mini_headline": "Figma 에이전트, 모션까지",
+          "headline": "GitHub Replica\nAI 프로토타입 도구 공개",
+          "body": "GitHub Design의 Replica는 자체 디자인 시스템으로 시제품을 만든다.",
+          "mini_headline": "GitHub, Replica 공개",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GitHub Design이 만든 AI-powered 프로토타이핑 도구 Replica를 오픈소스로 공개한다. 제품 팀의 누구든 자체 디자인 시스템을 활용해 아이디어를 인터랙티브 프로토타입으로 바꿀 수 있도록 돕는 도구다."
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "Figma on Figma는 우리가 일상 작업에서 자사 도구를 어떻게 쓰는지 보여 주거나, 그냥 멋진 무언가를 자랑하는 시리즈다. 이번 에피소드에서는 Designer Advocate인 Brett McMillin이 Figma의 에이전트를 모션, 커스텀 셰이더 효과와 함께 활용해 새로운 창작 아이디어를 탐색하는 과정을 소개한다."
+                "x": "좋은 제품 아이디어는 어디서든 나올 수 있지만, 이를 손에 잡히는 결과물로 만들려면 시간과 전문 기술이 필요한 경우가 많다. Replica는 디자이너, 프로덕트 매니저, 엔지니어가 함께 아이디어를 탐색하고, 더 일찍 피드백을 받고, 처음부터 다시 시작하지 않고도 반복 개선할 수 있게 돕는다."
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro(인트로), Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figma 모션·셰이더 예시 살펴보기) · 01:45 – Automating Motion with the Figma agent(Figma 에이전트로 모션 자동화) · 02:45 – Custom Shader Generation(커스텀 셰이더 생성) · 03:00 – Stacking Built-in & Custom Effects(내장 효과와 커스텀 효과 겹치기) · 03:28 – Real-time Light Refraction Through Glass(유리를 통과하는 실시간 빛 굴절)"
+                "x": "범용 AI 프로토타이핑 도구와 달리 Replica는 팀이 이미 가진 컴포넌트, 패턴, 문서를 바탕으로 결과물을 이끈다. 디자이너가 가이드를 정하면 팀의 누구든 GitHub Copilot 앱에서 자연어로 프로토타입을 만들고 다듬을 수 있으며, 그 결과물은 제품이 실제로 작동하는 방식을 반영한다."
+              },
+              {
+                "t": "p",
+                "x": "Replica로는 디자인 시스템을 활용해 프로토타입을 만들 수 있다. 아이디어를 인터랙티브 경험으로 바꾼 뒤 Copilot 대화와 나란히 결과를 보고, 테스트하고, 다듬을 수 있다. 프로토타입은 선택 사항인 자체 호스팅(self-hosted) Replica Hub에 게시해 팀원이 살펴보고 댓글을 남기게 할 수 있고, 오픈소스 도구와 가이드를 제품과 워크플로에 맞게 고칠 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "Replica는 지금 MIT 라이선스의 오픈소스 프로젝트로 제공된다. 로컬에서 프로토타이핑을 시작하거나, Replica Hub를 구축해 팀과 프로토타입을 공유할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaエージェントが\nシェーダーとモーションに",
-          "body": "Figmaチームが業務でFigmaエージェントによるシェーダーとモーション制作を実演した。",
-          "mini_headline": "Figmaエージェントがモーションも",
+          "headline": "GitHub、Replica\nAI試作ツールを公開",
+          "body": "GitHub DesignのReplicaはアイデアを自社デザインシステムの試作に変える。",
+          "mini_headline": "GitHub、Replicaを公開",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GitHub Designが開発したAI-poweredのプロトタイピングツール「Replica」をオープンソース化する。プロダクトチームの誰もが、自社のデザインシステムを使ってアイデアをインタラクティブなプロトタイプに変えられるツールだ。"
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "Figma on Figmaは、私たちが日々のワークフローで自社ツールをどう使っているか、あるいは単に面白いものを紹介するシリーズだ。今回はDesigner AdvocateのBrett McMillinが、Figmaのエージェントをモーションやカスタムシェーダー効果と組み合わせ、新しい創作アイデアを探る方法を解説する。"
+                "x": "優れたプロダクトのアイデアはどこからでも生まれるが、それを形にするには時間と専門スキルが必要になることが多い。Replicaは、デザイナー、プロダクトマネージャー、エンジニアが一緒にアイデアを探り、早い段階でフィードバックを得て、一からやり直すことなく反復できるようにする。"
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro(イントロ)、Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figmaのモーションとシェーダーの例を探る) · 01:45 – Automating Motion with the Figma agent(Figmaエージェントでモーションを自動化) · 02:45 – Custom Shader Generation(カスタムシェーダーの生成) · 03:00 – Stacking Built-in & Custom Effects(組み込み効果とカスタム効果の重ね合わせ) · 03:28 – Real-time Light Refraction Through Glass(ガラスを通るリアルタイムの光の屈折)"
+                "x": "汎用的なAIプロトタイピングツールとは異なり、Replicaはチームの既存のコンポーネント、パターン、ドキュメントを手がかりに生成内容を導く。デザイナーがガイダンスを定め、チームの誰もがGitHub Copilotアプリで自然言語を使い、製品の実際の動きを反映したプロトタイプを作成・改良できる。"
+              },
+              {
+                "t": "p",
+                "x": "Replicaでは、デザインシステムを使ったプロトタイピングができる。アイデアをインタラクティブな体験に変え、Copilotとの会話と並べて結果を確認・テスト・改良できる。プロトタイプは任意で導入できるセルフホスト型のReplica Hubに公開でき、チームメイトが閲覧してコメントを残せる。オープンソースのツールとガイダンスは、製品やワークフローに合わせてカスタマイズできる。"
+              },
+              {
+                "t": "p",
+                "x": "ReplicaはMITライセンスのオープンソースプロジェクトとして現在提供中だ。ローカルでプロトタイピングを始めることも、Replica Hubを立ち上げてチームとプロトタイプを共有することもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma智能体\n挑战着色器与动效",
-          "body": "Figma团队演示了Figma智能体在日常工作流程中制作着色器和动效。",
-          "mini_headline": "Figma智能体做动效",
+          "headline": "GitHub开源\nAI原型工具Replica",
+          "body": "GitHub Design的Replica借助自有设计系统，把产品创意变成可交互原型。",
+          "mini_headline": "GitHub开源Replica",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "我们将开源Replica——这是GitHub Design打造的一款AI-powered原型设计工具，帮助产品团队中的任何人利用自有设计系统，把想法变成可交互原型。"
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "欢迎收看Figma on Figma系列，我们在这里展示自己如何在日常工作流程中使用自家工具，或者只是展示一些很酷的东西。本期由Designer Advocate Brett McMillin带我们了解，他如何结合动效和自定义着色器效果使用Figma的智能体，探索新的创意。"
+                "x": "好的产品创意可能来自任何地方，但要把它们变成看得见摸得着的东西，往往需要时间和专业技能。Replica让设计师、产品经理和工程师更容易一起探索想法、更早获得反馈，并在不必从头开始的情况下持续迭代。"
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro（开场），Brett McMillin · 00:45 – Exploring Figma motion & shaders example（探索Figma动效与着色器示例） · 01:45 – Automating Motion with the Figma agent（用Figma智能体自动生成动效） · 02:45 – Custom Shader Generation（生成自定义着色器） · 03:00 – Stacking Built-in & Custom Effects（叠加内置与自定义效果） · 03:28 – Real-time Light Refraction Through Glass（光线穿过玻璃的实时折射）"
+                "x": "与通用的AI原型工具不同，Replica以团队现有的组件、模式和文档来引导生成内容。设计师负责制定指引，团队中的任何人都可以在GitHub Copilot应用中用自然语言创建和完善原型，使其贴合产品的实际运作方式。"
+              },
+              {
+                "t": "p",
+                "x": "借助Replica，你可以基于设计系统制作原型；把想法变成可交互的体验，并在Copilot对话旁查看、测试和完善结果；将原型发布到可选的自托管Replica Hub，供团队成员浏览和留言；还可以根据自己的产品和工作流程定制这套开源工具和指引。"
+              },
+              {
+                "t": "p",
+                "x": "Replica现已作为MIT许可证下的开源项目推出。你可以在本地开始制作原型，也可以搭建Replica Hub与团队共享原型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de Figma se ocupa\nde shaders y movimiento",
-          "body": "El propio equipo de Figma muestra al agente de Figma creando shaders y movimiento en un flujo de trabajo cotidiano.",
-          "mini_headline": "El agente de Figma anima",
+          "headline": "GitHub abre el código de Replica\npara prototipar con AI",
+          "body": "Replica, de GitHub Design, convierte ideas de producto en prototipos interactivos con su propio sistema de diseño.",
+          "mini_headline": "GitHub abre Replica",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GitHub abre el código de Replica, una herramienta de prototipado AI-powered creada por GitHub Design que ayuda a cualquier persona del equipo de producto a convertir ideas en prototipos interactivos con su propio sistema de diseño."
+              },
+              {
                 "t": "video",
-                "yt": "BS-N-AM5ql4"
+                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
               },
               {
                 "t": "p",
-                "x": "Bienvenidos a Figma on Figma, la serie en la que mostramos cómo usamos nuestras propias herramientas en el trabajo diario, o simplemente enseñamos algo interesante. En este episodio, Brett McMillin, Designer Advocate, explica cómo usa el agente de Figma con movimiento y efectos de shaders personalizados para explorar nuevas ideas creativas."
+                "x": "Las buenas ideas de producto pueden surgir en cualquier parte, pero convertirlas en algo tangible suele requerir tiempo y habilidades especializadas. Replica facilita que diseñadores, gerentes de producto e ingenieros exploren ideas juntos, reciban comentarios antes e iteren sin empezar desde el principio."
               },
               {
                 "t": "p",
-                "x": "00:00 – Intro, Brett McMillin · 00:45 – Explorando un ejemplo de movimiento y shaders en Figma · 01:45 – Automatizar el movimiento con el agente de Figma · 02:45 – Generación de shaders personalizados · 03:00 – Apilar efectos integrados (Built-in) y personalizados · 03:28 – Refracción de luz en tiempo real (Real-time) a través del vidrio"
+                "x": "A diferencia de las herramientas genéricas de prototipado con AI, Replica usa los componentes, patrones y documentación que el equipo ya tiene para orientar lo que se crea. Los diseñadores definen las pautas, y cualquier miembro del equipo puede usar lenguaje natural en la app GitHub Copilot para crear y ajustar prototipos que reflejan cómo funciona realmente el producto."
+              },
+              {
+                "t": "p",
+                "x": "Con Replica se puede prototipar con el propio sistema de diseño; convertir ideas en experiencias interactivas y luego ver, probar y ajustar el resultado junto a la conversación con Copilot; publicar los prototipos en un Replica Hub opcional y autoalojado, donde los compañeros pueden explorarlos y dejar comentarios; y personalizar las herramientas y pautas de código abierto para adaptarlas al producto y a los flujos de trabajo."
+              },
+              {
+                "t": "p",
+                "x": "Replica ya está disponible como proyecto de código abierto bajo la licencia MIT. Se puede empezar a prototipar en local o configurar Replica Hub para compartir prototipos con el equipo."
               }
             ]
           }
@@ -627,689 +355,15 @@
       }
     },
     {
-      "id": "etsy-ai-photos",
+      "id": "clate",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Etsy, 가짜 AI\n상품 사진 금지",
-      "body": "Creative Bloq은 Etsy의 실물 사진 의무화를 AI 슬롭 증거로 읽는다.",
-      "mini_headline": "Etsy, AI 사진 단속",
-      "tool": "Figma",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-            "cap": "Etsy의 James Ossman이 YouTube 영상에서 플랫폼의 새 규칙을 설명했다 (Image credit: Etsy)"
-          },
-          {
-            "t": "p",
-            "x": "핸드메이드 디자인이 중심인 마켓플레이스에 가짜 사진 금지 규칙이 필요하다면 뭔가 잘못됐다. 그런데 Etsy는 왜 갑자기 판매자들에게 \"판매하는 상품의 사진은 실제로 판매하는 상품의 사진이어야 한다\"고 말하는 걸까?"
-          },
-          {
-            "t": "p",
-            "x": "이 핸드메이드 상품 마켓플레이스는 지난주, 모든 상품 목록에 실제 배경에서 찍고 보정하지 않은 실물 사진을 한 장 이상 넣으라고 발표했다. 고객용 패턴, 레시피, 설명서에 AI 이미지 생성기를 쓰는 일도 명시적으로 막았고, 봇이 만든 목록도 금지했다. AI-generated(AI 생성) 아트는 여전히 Etsy에서 허용되지만, 판매자가 그 사실을 분명히 밝혀야 한다."
-          },
-          {
-            "t": "video",
-            "yt": "QHMQbCF5PeM"
-          },
-          {
-            "t": "p",
-            "x": "불만이 빠르게 쌓이면서 Etsy도 손을 써야 했다. 크리에이터 Kara Lynne은 X에 이렇게 썼다. \"코바늘 패턴을 샀는데 PDF를 열어 보니 전부 AI-generated였고, 말이 안 되고, 완성품이 어떤 모습이어야 하는지와도 전혀 맞지 않을 때 얼마나 화가 나는지 설명할 수가 없다.\""
-          },
-          {
-            "t": "p",
-            "x": "Etsy는 이로써 AI 트랙 50 million 곡을 내린 Spotify, gen-AI 콘텐츠를 추천에서 뺀 Snap, 신고 버튼을 단 LinkedIn의 뒤를 잇는다. 새 규칙이 모든 문제를 풀지는 못하겠지만, \"핸드메이드\" 제품을 사는 사람들이 정말 사람이 만든 것인지 알고 싶어 한다는 사실은 인정한 셈이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Etsy bans fake AI\nproduct photos",
-          "body": "Etsy now requires a real, unedited photo of each item, a rule Creative Bloq says shows how far AI slop has spread.",
-          "mini_headline": "Etsy curbs AI photos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "Etsy’s James Ossman broke down the platform's new rules in a YouTube video (Image credit: Etsy)"
-              },
-              {
-                "t": "p",
-                "x": "When a marketplace focused on handmade design needs a rule banning fake photos, something's gone wrong. So why is Etsy suddenly telling its sellers: \"The photo of the product you're selling should actually be the photo of the product you're selling\"?"
-              },
-              {
-                "t": "p",
-                "x": "Last week the marketplace for handmade goods announced that every listing must now include at least one unedited photo of the actual item, shot against a real background. It also specifically banned the use of AI image generators for patterns, recipes and instructions for customers, and outlawed listings created by bots. AI-generated art is still okay on Etsy, but sellers need to be clear about that fact."
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "Etsy had to do something, because the complaints are mounting fast. Creator Kara Lynne wrote on X: \"I can't explain how infuriating it has been to purchase a crochet pattern, only to open the PDF and realise it's fully AI-generated, doesn't make sense, and definitely doesn't match what the finished product should be.\""
-              },
-              {
-                "t": "p",
-                "x": "Etsy now follows Spotify pulling 50 million AI tracks, Snap keeping gen-AI content out of its recommendations and LinkedIn adding a button to report it. The new rules won't fix everything, but they acknowledge that when people buy something \"handmade\", they want to know whether a human actually made it."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Etsy, 가짜 AI\n상품 사진 금지",
-          "body": "Creative Bloq은 Etsy의 실물 사진 의무화를 AI 슬롭 증거로 읽는다.",
-          "mini_headline": "Etsy, AI 사진 단속",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "Etsy의 James Ossman이 YouTube 영상에서 플랫폼의 새 규칙을 설명했다 (Image credit: Etsy)"
-              },
-              {
-                "t": "p",
-                "x": "핸드메이드 디자인이 중심인 마켓플레이스에 가짜 사진 금지 규칙이 필요하다면 뭔가 잘못됐다. 그런데 Etsy는 왜 갑자기 판매자들에게 \"판매하는 상품의 사진은 실제로 판매하는 상품의 사진이어야 한다\"고 말하는 걸까?"
-              },
-              {
-                "t": "p",
-                "x": "이 핸드메이드 상품 마켓플레이스는 지난주, 모든 상품 목록에 실제 배경에서 찍고 보정하지 않은 실물 사진을 한 장 이상 넣으라고 발표했다. 고객용 패턴, 레시피, 설명서에 AI 이미지 생성기를 쓰는 일도 명시적으로 막았고, 봇이 만든 목록도 금지했다. AI-generated(AI 생성) 아트는 여전히 Etsy에서 허용되지만, 판매자가 그 사실을 분명히 밝혀야 한다."
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "불만이 빠르게 쌓이면서 Etsy도 손을 써야 했다. 크리에이터 Kara Lynne은 X에 이렇게 썼다. \"코바늘 패턴을 샀는데 PDF를 열어 보니 전부 AI-generated였고, 말이 안 되고, 완성품이 어떤 모습이어야 하는지와도 전혀 맞지 않을 때 얼마나 화가 나는지 설명할 수가 없다.\""
-              },
-              {
-                "t": "p",
-                "x": "Etsy는 이로써 AI 트랙 50 million 곡을 내린 Spotify, gen-AI 콘텐츠를 추천에서 뺀 Snap, 신고 버튼을 단 LinkedIn의 뒤를 잇는다. 새 규칙이 모든 문제를 풀지는 못하겠지만, \"핸드메이드\" 제품을 사는 사람들이 정말 사람이 만든 것인지 알고 싶어 한다는 사실은 인정한 셈이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Etsy、偽のAI\n商品写真を禁止",
-          "body": "Creative Bloqは、Etsyの実物写真義務化をAIスロップ蔓延の証とみる。",
-          "mini_headline": "Etsy、AI写真を規制",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "EtsyのJames OssmanがYouTube動画でプラットフォームの新ルールを解説した (Image credit: Etsy)"
-              },
-              {
-                "t": "p",
-                "x": "手作りデザインに特化したマーケットプレイスに偽写真を禁じるルールが必要になるなら、何かがおかしくなっている。では、なぜEtsyは突然、販売者に「販売している商品の写真は、実際に販売している商品の写真であるべきだ」と伝えているのか。"
-              },
-              {
-                "t": "p",
-                "x": "先週、このハンドメイド品のマーケットプレイスは、すべての出品に、実際の背景で撮影した実物の無加工写真を少なくとも一枚含めることを義務づけると発表した。さらに、顧客向けの型紙やレシピ、説明書にAI画像生成ツールを使うことを明確に禁止し、ボットが作成した出品も禁じた。AI-generatedのアートは引き続きEtsyで認められるが、販売者はその旨を明示する必要がある。"
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "苦情が急増しており、Etsyは手を打つ必要があった。クリエイターのKara LynneはXにこう書いた。「かぎ針編みのパターンを買ってPDFを開いたら、完全にAI-generatedで、意味が通らず、完成品のあるべき姿ともまったく一致しなかったときの腹立たしさは言葉にできない」"
-              },
-              {
-                "t": "p",
-                "x": "これでEtsyは、50 million 曲のAIトラックを削除したSpotify、gen-AIコンテンツをおすすめから外したSnap、通報ボタンを追加したLinkedInに続くことになる。新ルールですべてが解決するわけではないが、人々が「ハンドメイド」の品を買うとき、本当に人間が作ったのかを知りたがっていることを認めたものだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Etsy禁止虚假\nAI商品照片",
-          "body": "Etsy要求每件商品附未修图实拍照，Creative Bloq称此举显示AI垃圾内容泛滥。",
-          "mini_headline": "Etsy限制AI照片",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "Etsy的James Ossman在YouTube视频中解读了平台新规（Image credit: Etsy）"
-              },
-              {
-                "t": "p",
-                "x": "当一个专注手工设计的平台需要一条禁止假照片的规则时，事情就已经不对劲了。那么，Etsy为何突然告诉卖家：“你所出售商品的照片，就应该真的是你所出售商品的照片”？"
-              },
-              {
-                "t": "p",
-                "x": "上周，这个手工商品平台宣布，每个商品页面现在必须至少包含一张在真实背景下拍摄、未经修图的实物照片。它还明确禁止使用AI图像生成器制作面向顾客的图样、食谱和说明，并禁止由机器人创建的商品页面。AI-generated艺术在Etsy上仍然允许，但卖家需要明确说明这一点。"
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "投诉正迅速增加，Etsy不得不有所行动。创作者Kara Lynne在X上写道：“我买了一份钩针图样，打开PDF却发现完全是AI-generated的，内容说不通，也和成品应有的样子完全不符，那种愤怒我真的无法形容。”"
-              },
-              {
-                "t": "p",
-                "x": "此前，Spotify下架了50 million 首AI歌曲，Snap将gen-AI内容排除在推荐之外，LinkedIn增加了举报按钮，如今Etsy也跟进了。新规不会解决所有问题，但它承认，人们购买“手工”商品时，想知道它是否真的由人制作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Etsy prohíbe fotos falsas\nde productos hechas con AI",
-          "body": "Etsy exige una foto real sin editar de cada artículo, señal, según Creative Bloq, del avance del AI slop.",
-          "mini_headline": "Etsy frena las fotos con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "James Ossman, de Etsy, explicó las nuevas reglas de la plataforma en un video de YouTube (Image credit: Etsy)"
-              },
-              {
-                "t": "p",
-                "x": "Cuando un mercado centrado en el diseño artesanal necesita una norma que prohíba las fotos falsas, algo ha salido mal. Entonces, ¿por qué Etsy les dice de repente a sus vendedores: \"La foto del producto que vendes debería ser realmente la foto del producto que vendes\"?"
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada, el mercado de productos artesanales anunció que cada anuncio debe incluir ahora al menos una foto sin editar del artículo real, tomada sobre un fondo real. También prohibió expresamente el uso de generadores de imágenes con AI para patrones, recetas e instrucciones para clientes, y vetó los anuncios creados por bots. El arte generado con AI (AI-generated) sigue estando permitido en Etsy, pero los vendedores deben indicarlo con claridad."
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "Etsy tenía que hacer algo, porque las quejas aumentan rápidamente. La creadora Kara Lynne escribió en X: \"No puedo explicar lo exasperante que ha sido comprar un patrón de crochet, abrir el PDF y darme cuenta de que está totalmente hecho con AI (AI-generated), no tiene sentido y definitivamente no coincide con cómo debería ser el producto terminado.\""
-              },
-              {
-                "t": "p",
-                "x": "Etsy sigue así a Spotify, que retiró 50 millones de pistas de AI; a Snap, que mantiene el contenido gen-AI fuera de sus recomendaciones, y a LinkedIn, que añadió un botón para denunciarlo. Las nuevas reglas no lo resolverán todo, pero reconocen que, cuando la gente compra algo \"hecho a mano\", quiere saber si realmente lo hizo una persona."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Etsy, 가짜 AI\n상품 사진 금지",
-          "body": "Creative Bloq은 Etsy의 실물 사진 의무화를 AI 슬롭 증거로 본다.",
-          "mini_headline": "Etsy, AI 사진 단속",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "Etsy의 James Ossman이 YouTube 영상에서 플랫폼의 새 규칙을 설명했다 (Image credit: Etsy)"
-              },
-              {
-                "t": "p",
-                "x": "핸드메이드 디자인 중심의 마켓플레이스에 가짜 사진을 금지하는 규칙이 필요하다면 뭔가 잘못된 것이다. 그렇다면 Etsy는 왜 갑자기 판매자들에게 \"판매하는 상품의 사진은 실제로 판매하는 상품의 사진이어야 한다\"고 말하는 걸까?"
-              },
-              {
-                "t": "p",
-                "x": "지난주 이 핸드메이드 상품 마켓플레이스는 모든 상품 목록에 실제 배경에서 찍은, 보정하지 않은 실물 사진을 한 장 이상 넣어야 한다고 발표했다. 또 고객용 패턴, 레시피, 설명서에 AI 이미지 생성기를 쓰는 것을 명시적으로 금지했고, 봇이 만든 목록도 금지했다. AI-generated(AI 생성) 아트는 여전히 Etsy에서 허용되지만, 판매자는 그 사실을 분명히 밝혀야 한다."
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "불만이 빠르게 쌓이고 있어 Etsy는 무언가 해야 했다. 크리에이터 Kara Lynne은 X에 이렇게 썼다. \"코바늘 패턴을 샀는데 PDF를 열어 보니 전부 AI-generated였고, 말이 안 되고, 완성품이 어떤 모습이어야 하는지와도 전혀 맞지 않을 때 얼마나 화가 나는지 설명할 수가 없다.\""
-              },
-              {
-                "t": "p",
-                "x": "이로써 Etsy는 AI 트랙 50 million 곡을 내린 Spotify, gen-AI 콘텐츠를 추천에서 뺀 Snap, 신고 버튼을 추가한 LinkedIn의 뒤를 따른다. 새 규칙이 모든 것을 해결하지는 못하겠지만, 사람들이 \"핸드메이드\" 제품을 살 때 정말 사람이 만들었는지 알고 싶어 한다는 점을 인정한 셈이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Etsy、偽のAI\n商品写真を禁止",
-          "body": "Creative Bloqは、Etsyの実物写真義務化をAIスロップ蔓延の証とみる。",
-          "mini_headline": "Etsy、AI写真を規制",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "EtsyのJames OssmanがYouTube動画でプラットフォームの新ルールを解説した (Image credit: Etsy)"
-              },
-              {
-                "t": "p",
-                "x": "手作りデザインに特化したマーケットプレイスに偽写真を禁じるルールが必要になるなら、何かがおかしくなっている。では、なぜEtsyは突然、販売者に「販売している商品の写真は、実際に販売している商品の写真であるべきだ」と伝えているのか。"
-              },
-              {
-                "t": "p",
-                "x": "先週、このハンドメイド品のマーケットプレイスは、すべての出品に、実際の背景で撮影した実物の無加工写真を少なくとも一枚含めることを義務づけると発表した。さらに、顧客向けの型紙やレシピ、説明書にAI画像生成ツールを使うことを明確に禁止し、ボットが作成した出品も禁じた。AI-generatedのアートは引き続きEtsyで認められるが、販売者はその旨を明示する必要がある。"
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "苦情が急増しており、Etsyは手を打つ必要があった。クリエイターのKara LynneはXにこう書いた。「かぎ針編みのパターンを買ってPDFを開いたら、完全にAI-generatedで、意味が通らず、完成品のあるべき姿ともまったく一致しなかったときの腹立たしさは言葉にできない」"
-              },
-              {
-                "t": "p",
-                "x": "これでEtsyは、50 million 曲のAIトラックを削除したSpotify、gen-AIコンテンツをおすすめから外したSnap、通報ボタンを追加したLinkedInに続くことになる。新ルールですべてが解決するわけではないが、人々が「ハンドメイド」の品を買うとき、本当に人間が作ったのかを知りたがっていることを認めたものだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Etsy禁止虚假\nAI商品照片",
-          "body": "Etsy要求每件商品附未修图实拍照，Creative Bloq称此举显示AI垃圾内容泛滥。",
-          "mini_headline": "Etsy限制AI照片",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "Etsy的James Ossman在YouTube视频中解读了平台新规（Image credit: Etsy）"
-              },
-              {
-                "t": "p",
-                "x": "当一个专注手工设计的平台需要一条禁止假照片的规则时，事情就已经不对劲了。那么，Etsy为何突然告诉卖家：“你所出售商品的照片，就应该真的是你所出售商品的照片”？"
-              },
-              {
-                "t": "p",
-                "x": "上周，这个手工商品平台宣布，每个商品页面现在必须至少包含一张在真实背景下拍摄、未经修图的实物照片。它还明确禁止使用AI图像生成器制作面向顾客的图样、食谱和说明，并禁止由机器人创建的商品页面。AI-generated艺术在Etsy上仍然允许，但卖家需要明确说明这一点。"
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "投诉正迅速增加，Etsy不得不有所行动。创作者Kara Lynne在X上写道：“我买了一份钩针图样，打开PDF却发现完全是AI-generated的，内容说不通，也和成品应有的样子完全不符，那种愤怒我真的无法形容。”"
-              },
-              {
-                "t": "p",
-                "x": "此前，Spotify下架了50 million 首AI歌曲，Snap将gen-AI内容排除在推荐之外，LinkedIn增加了举报按钮，如今Etsy也跟进了。新规不会解决所有问题，但它承认，人们购买“手工”商品时，想知道它是否真的由人制作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Etsy prohíbe fotos falsas\nde productos hechas con AI",
-          "body": "Etsy exige una foto real sin editar de cada artículo, señal, según Creative Bloq, del avance del AI slop.",
-          "mini_headline": "Etsy frena las fotos con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-                "cap": "James Ossman, de Etsy, explicó las nuevas reglas de la plataforma en un video de YouTube (Image credit: Etsy)"
-              },
-              {
-                "t": "p",
-                "x": "Cuando un mercado centrado en el diseño artesanal necesita una norma que prohíba las fotos falsas, algo ha salido mal. Entonces, ¿por qué Etsy les dice de repente a sus vendedores: \"La foto del producto que vendes debería ser realmente la foto del producto que vendes\"?"
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada, el mercado de productos artesanales anunció que cada anuncio debe incluir ahora al menos una foto sin editar del artículo real, tomada sobre un fondo real. También prohibió expresamente el uso de generadores de imágenes con AI para patrones, recetas e instrucciones para clientes, y vetó los anuncios creados por bots. El arte generado con AI (AI-generated) sigue estando permitido en Etsy, pero los vendedores deben indicarlo con claridad."
-              },
-              {
-                "t": "video",
-                "yt": "QHMQbCF5PeM"
-              },
-              {
-                "t": "p",
-                "x": "Etsy tenía que hacer algo, porque las quejas aumentan rápidamente. La creadora Kara Lynne escribió en X: \"No puedo explicar lo exasperante que ha sido comprar un patrón de crochet, abrir el PDF y darme cuenta de que está totalmente hecho con AI (AI-generated), no tiene sentido y definitivamente no coincide con cómo debería ser el producto terminado.\""
-              },
-              {
-                "t": "p",
-                "x": "Etsy sigue así a Spotify, que retiró 50 millones de pistas de AI; a Snap, que mantiene el contenido gen-AI fuera de sus recomendaciones, y a LinkedIn, que añadió un botón para denunciarlo. Las nuevas reglas no lo resolverán todo, pero reconocen que, cuando la gente compra algo \"hecho a mano\", quiere saber si realmente lo hizo una persona."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "edenlive",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "EdenLive,\n블록아웃을 실사 영상으로",
-      "body": "EdenLive는 GPU 하나로 블록아웃 애니메이션을 실시간 실사 영상으로 바꾼다.",
-      "mini_headline": "EdenLive, 실시간 렌더링",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "NbWLqOfP3XI"
-          },
-          {
-            "t": "p",
-            "x": "생성형 3D 플랫폼 Tripo를 만든 연구팀 Vast AI Research가 오픈소스 실시간 생성형 렌더러 EdenLive를 새로 공개했다. 인터랙티브 환경용 월드 모델인 Vast AI Research의 Project Eden에 속하며, 2D 또는 3D 장면이나 참조 영상, 목표 첫 프레임, 텍스트 프롬프트가 있어야 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "이 모델은 “거친 비주얼을 … 더 풍부하고 세밀한 영상으로 바꾼다”. 프리비즈나 게임 수준 애니메이션을 더 사실적인 결과물로 바꾸는 식이다. EdenLive가 내놓는 영상은 480p 또는 720p 해상도뿐이라 실용성은 제한적이지만, 실시간으로 돌아갈 만큼 빠르다."
-          },
-          {
-            "t": "p",
-            "x": "Vast AI에 따르면 5B 모델 가중치를 쓰면 EdenLive는 고급 소비자용 GPU NVIDIA GeForce RTX 5090 한 장으로 720p 영상을 “24fps 이상”으로 만든다. 블록아웃을 고품질 프리비즈나 애니메이션 미리보기로 바꾸는 작업에 쓸 만하다. 소스 코드는 Apache 2.0 라이선스로 풀렸고, 5B와 14B 모델 가중치는 Hugging Face에 올라 있다."
-          },
-          {
-            "t": "p",
-            "x": "같은 CG Channel 소식 모음에는 AI 어시스턴트가 제어할 수 있게 MCP 서버를 추가한 Gaffer 1.7.5, 소스 이미지 2-15 장으로 3D 머리를 만드는 KeenTools의 AI-powered(AI 기반) 브라우저 도구 KeenFace도 실렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "EdenLive renders blockouts\nas near-photoreal video",
-          "body": "Open-source EdenLive turns rough blockout animation into near-photorealistic video in real time on one consumer GPU.",
-          "mini_headline": "EdenLive renders in real time",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "Vast AI Research, the research team behind generative 3D platform Tripo, has released EdenLive, a new open-source real-time generative renderer. Part of Project Eden, Vast AI Research’s world model for interactive environments, it requires a 2D or 3D scene or reference video, a target first frame, and a text prompt."
-              },
-              {
-                "t": "p",
-                "x": "The model “transforms rough visuals … into richer, more detailed videos”: for example, converting previs or game-quality animation to more photorealistic output. EdenLive only generates video at 480p or 720p resolution, so its practical applications are limited, but it is fast enough to run in real time."
-              },
-              {
-                "t": "p",
-                "x": "According to Vast AI, when using the 5B model weights, EdenLive can generate 720p video at “over 24fps” on a single NVIDIA GeForce RTX 5090 high-end consumer GPU. Use cases include converting blockouts into high-quality previs or animation previews. The source code is available under an Apache 2.0 license; 5B and 14B model weights are on Hugging Face."
-              },
-              {
-                "t": "p",
-                "x": "The same CG Channel round-up also covers Gaffer 1.7.5, which adds an MCP server so AI assistants can control it, and KeenFace, an AI-powered browser tool from KeenTools that generates 3D heads from 2-15 source images."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "EdenLive,\n블록아웃을 실사 영상으로",
-          "body": "EdenLive는 GPU 하나로 블록아웃 애니메이션을 실시간 실사 영상으로 바꾼다.",
-          "mini_headline": "EdenLive, 실시간 렌더링",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "생성형 3D 플랫폼 Tripo를 만든 연구팀 Vast AI Research가 오픈소스 실시간 생성형 렌더러 EdenLive를 새로 공개했다. 인터랙티브 환경용 월드 모델인 Vast AI Research의 Project Eden에 속하며, 2D 또는 3D 장면이나 참조 영상, 목표 첫 프레임, 텍스트 프롬프트가 있어야 돌아간다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 “거친 비주얼을 … 더 풍부하고 세밀한 영상으로 바꾼다”. 프리비즈나 게임 수준 애니메이션을 더 사실적인 결과물로 바꾸는 식이다. EdenLive가 내놓는 영상은 480p 또는 720p 해상도뿐이라 실용성은 제한적이지만, 실시간으로 돌아갈 만큼 빠르다."
-              },
-              {
-                "t": "p",
-                "x": "Vast AI에 따르면 5B 모델 가중치를 쓰면 EdenLive는 고급 소비자용 GPU NVIDIA GeForce RTX 5090 한 장으로 720p 영상을 “24fps 이상”으로 만든다. 블록아웃을 고품질 프리비즈나 애니메이션 미리보기로 바꾸는 작업에 쓸 만하다. 소스 코드는 Apache 2.0 라이선스로 풀렸고, 5B와 14B 모델 가중치는 Hugging Face에 올라 있다."
-              },
-              {
-                "t": "p",
-                "x": "같은 CG Channel 소식 모음에는 AI 어시스턴트가 제어할 수 있게 MCP 서버를 추가한 Gaffer 1.7.5, 소스 이미지 2-15 장으로 3D 머리를 만드는 KeenTools의 AI-powered(AI 기반) 브라우저 도구 KeenFace도 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "EdenLiveが\nブロックアウトを実写風に",
-          "body": "EdenLiveは粗いブロックアウトを民生GPU一基でリアルタイムに実写風映像化する。",
-          "mini_headline": "EdenLive、リアルタイム描画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "生成 3D プラットフォームTripoを手がける研究チームVast AI Researchが、新しいオープンソースのリアルタイム生成レンダラーEdenLiveを公開した。インタラクティブな環境向けのVast AI Researchのワールドモデル、Project Edenの一部で、2D または 3D のシーンか参照動画、目標とする最初のフレーム、テキストプロンプトを必要とする。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは「粗いビジュアルを…より豊かで精細な動画に変える」。たとえば、プリビズやゲーム品質のアニメーションを、よりフォトリアルな出力に変換できる。EdenLiveが生成できる動画は480p または 720p の解像度に限られるため実用的な用途は限られるが、リアルタイムで動作するほど高速だ。"
-              },
-              {
-                "t": "p",
-                "x": "Vast AIによると、5B のモデル重みを使えば、EdenLiveはハイエンドの民生GPUであるNVIDIA GeForce RTX 5090 一基で、720p の動画を「24fps 以上」で生成できる。用途としては、ブロックアウトを高品質なプリビズやアニメーションのプレビューに変換することが挙げられる。ソースコードはApache 2.0ライセンスで公開され、5B と14B のモデル重みはHugging Faceにある。"
-              },
-              {
-                "t": "p",
-                "x": "同じCG Channelのまとめ記事では、AIアシスタントから操作できるようMCPサーバーを追加したGaffer 1.7.5と、2-15 枚のソース画像から3D の頭部を生成するKeenToolsのAI-poweredなブラウザツールKeenFaceも取り上げている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "EdenLive把粗模\n变成近写实视频",
-          "body": "开源的EdenLive可在一块消费级GPU上将粗糙的白模动画实时转为近乎写实的视频。",
-          "mini_headline": "EdenLive实时渲染",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "生成式3D 平台Tripo背后的研究团队Vast AI Research发布了EdenLive，这是一款新的开源实时生成式渲染器。它是Vast AI Research面向交互环境的世界模型Project Eden的一部分，需要输入2D 或3D 场景或参考视频、目标首帧以及文本提示词。"
-              },
-              {
-                "t": "p",
-                "x": "该模型能“将粗糙的画面…转化为更丰富、更精细的视频”，例如把预演或游戏品质的动画转换为更逼真的输出。EdenLive只能生成480p 或720p 分辨率的视频，因此实际用途有限，但速度足以实时运行。"
-              },
-              {
-                "t": "p",
-                "x": "据Vast AI介绍，使用5B 模型权重时，EdenLive可在单块高端消费级GPU NVIDIA GeForce RTX 5090上以“超过24fps”的速度生成720p 视频。用例包括将白模转换为高质量的预演或动画预览。源代码以Apache 2.0许可证发布，5B 和14B 模型权重已上传至Hugging Face。"
-              },
-              {
-                "t": "p",
-                "x": "同一篇CG Channel汇总还介绍了Gaffer 1.7.5和KeenFace：前者新增了MCP服务器，让AI助手可以控制它；后者是KeenTools推出的AI-powered浏览器工具，可根据2-15 张源图像生成3D 头部。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "EdenLive convierte blockouts\nen video casi fotorrealista",
-          "body": "EdenLive convierte animaciones de blockout en video casi fotorrealista en tiempo real con una GPU de consumo.",
-          "mini_headline": "EdenLive renderiza en tiempo real",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "Vast AI Research, el equipo de investigación detrás de la plataforma de 3D generativo Tripo, ha lanzado EdenLive, un nuevo renderizador generativo en tiempo real y de código abierto. Forma parte de Project Eden, el modelo de mundo de Vast AI Research para entornos interactivos, y requiere una escena 2D o 3D o un video de referencia, un primer fotograma objetivo y un prompt de texto."
-              },
-              {
-                "t": "p",
-                "x": "El modelo “transforma visuales toscos … en videos más ricos y detallados”: por ejemplo, convierte previs o animación con calidad de videojuego en un resultado más fotorrealista. EdenLive solo genera video en resolución 480p o 720p, por lo que sus aplicaciones prácticas son limitadas, pero es lo bastante rápido para funcionar en tiempo real."
-              },
-              {
-                "t": "p",
-                "x": "Según Vast AI, con los pesos del modelo 5B, EdenLive puede generar video 720p a “más de 24fps” en una sola GPU de consumo de gama alta NVIDIA GeForce RTX 5090. Entre los casos de uso está convertir blockouts en previs de alta calidad o en avances de animación. El código fuente está disponible bajo licencia Apache 2.0; los pesos de los modelos 5B y 14B están en Hugging Face."
-              },
-              {
-                "t": "p",
-                "x": "El mismo resumen de CG Channel también recoge Gaffer 1.7.5, que añade un servidor MCP para que los asistentes de AI puedan controlarlo, y KeenFace, una herramienta de navegador basada en AI (AI-powered) de KeenTools que genera cabezas 3D a partir de 2-15 imágenes de origen."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "EdenLive,\n블록아웃을 실사 영상으로",
-          "body": "EdenLive는 블록아웃 애니메이션을 GPU 하나로 실시간 실사 영상화한다.",
-          "mini_headline": "EdenLive, 실시간 렌더링",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "생성형 3D 플랫폼 Tripo를 만든 연구팀 Vast AI Research가 새로운 오픈소스 실시간 생성형 렌더러 EdenLive를 공개했다. 인터랙티브 환경을 위한 Vast AI Research의 월드 모델 Project Eden의 일부로, 2D 또는 3D 장면이나 참조 영상, 목표 첫 프레임, 텍스트 프롬프트가 필요하다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 “거친 비주얼을 … 더 풍부하고 세밀한 영상으로 바꾼다”. 예를 들어 프리비즈나 게임 수준 애니메이션을 더 사실적인 결과물로 변환한다. EdenLive는 480p 또는 720p 해상도로만 영상을 생성해 실용성은 제한적이지만, 실시간으로 돌아갈 만큼 빠르다."
-              },
-              {
-                "t": "p",
-                "x": "Vast AI에 따르면 5B 모델 가중치를 쓸 때 EdenLive는 고급 소비자용 GPU인 NVIDIA GeForce RTX 5090 한 장에서 720p 영상을 “24fps 이상”으로 생성할 수 있다. 활용 사례로는 블록아웃을 고품질 프리비즈나 애니메이션 미리보기로 바꾸는 작업이 있다. 소스 코드는 Apache 2.0 라이선스로 제공되며, 5B 및 14B 모델 가중치는 Hugging Face에 있다."
-              },
-              {
-                "t": "p",
-                "x": "같은 CG Channel 소식 모음은 AI 어시스턴트가 제어할 수 있도록 MCP 서버를 추가한 Gaffer 1.7.5와, 2-15 장의 소스 이미지로 3D 머리를 생성하는 KeenTools의 AI-powered(AI 기반) 브라우저 도구 KeenFace도 다룬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "EdenLiveが\nブロックアウトを実写風に",
-          "body": "EdenLiveは粗いブロックアウトを民生GPU一基でリアルタイムに実写風映像化する。",
-          "mini_headline": "EdenLive、リアルタイム描画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "生成 3D プラットフォームTripoを手がける研究チームVast AI Researchが、新しいオープンソースのリアルタイム生成レンダラーEdenLiveを公開した。インタラクティブな環境向けのVast AI Researchのワールドモデル、Project Edenの一部で、2D または 3D のシーンか参照動画、目標とする最初のフレーム、テキストプロンプトを必要とする。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは「粗いビジュアルを…より豊かで精細な動画に変える」。たとえば、プリビズやゲーム品質のアニメーションを、よりフォトリアルな出力に変換できる。EdenLiveが生成できる動画は480p または 720p の解像度に限られるため実用的な用途は限られるが、リアルタイムで動作するほど高速だ。"
-              },
-              {
-                "t": "p",
-                "x": "Vast AIによると、5B のモデル重みを使えば、EdenLiveはハイエンドの民生GPUであるNVIDIA GeForce RTX 5090 一基で、720p の動画を「24fps 以上」で生成できる。用途としては、ブロックアウトを高品質なプリビズやアニメーションのプレビューに変換することが挙げられる。ソースコードはApache 2.0ライセンスで公開され、5B と14B のモデル重みはHugging Faceにある。"
-              },
-              {
-                "t": "p",
-                "x": "同じCG Channelのまとめ記事では、AIアシスタントから操作できるようMCPサーバーを追加したGaffer 1.7.5と、2-15 枚のソース画像から3D の頭部を生成するKeenToolsのAI-poweredなブラウザツールKeenFaceも取り上げている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "EdenLive把粗模\n变成近写实视频",
-          "body": "开源的EdenLive可在一块消费级GPU上将粗糙的白模动画实时转为近乎写实的视频。",
-          "mini_headline": "EdenLive实时渲染",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "生成式3D 平台Tripo背后的研究团队Vast AI Research发布了EdenLive，这是一款新的开源实时生成式渲染器。它是Vast AI Research面向交互环境的世界模型Project Eden的一部分，需要输入2D 或3D 场景或参考视频、目标首帧以及文本提示词。"
-              },
-              {
-                "t": "p",
-                "x": "该模型能“将粗糙的画面…转化为更丰富、更精细的视频”，例如把预演或游戏品质的动画转换为更逼真的输出。EdenLive只能生成480p 或720p 分辨率的视频，因此实际用途有限，但速度足以实时运行。"
-              },
-              {
-                "t": "p",
-                "x": "据Vast AI介绍，使用5B 模型权重时，EdenLive可在单块高端消费级GPU NVIDIA GeForce RTX 5090上以“超过24fps”的速度生成720p 视频。用例包括将白模转换为高质量的预演或动画预览。源代码以Apache 2.0许可证发布，5B 和14B 模型权重已上传至Hugging Face。"
-              },
-              {
-                "t": "p",
-                "x": "同一篇CG Channel汇总还介绍了Gaffer 1.7.5和KeenFace：前者新增了MCP服务器，让AI助手可以控制它；后者是KeenTools推出的AI-powered浏览器工具，可根据2-15 张源图像生成3D 头部。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "EdenLive convierte blockouts\nen video casi fotorrealista",
-          "body": "EdenLive convierte animaciones de blockout en video casi fotorrealista en tiempo real con una GPU de consumo.",
-          "mini_headline": "EdenLive renderiza en tiempo real",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NbWLqOfP3XI"
-              },
-              {
-                "t": "p",
-                "x": "Vast AI Research, el equipo de investigación detrás de la plataforma de 3D generativo Tripo, ha lanzado EdenLive, un nuevo renderizador generativo en tiempo real y de código abierto. Forma parte de Project Eden, el modelo de mundo de Vast AI Research para entornos interactivos, y requiere una escena 2D o 3D o un video de referencia, un primer fotograma objetivo y un prompt de texto."
-              },
-              {
-                "t": "p",
-                "x": "El modelo “transforma visuales toscos … en videos más ricos y detallados”: por ejemplo, convierte previs o animación con calidad de videojuego en un resultado más fotorrealista. EdenLive solo genera video en resolución 480p o 720p, por lo que sus aplicaciones prácticas son limitadas, pero es lo bastante rápido para funcionar en tiempo real."
-              },
-              {
-                "t": "p",
-                "x": "Según Vast AI, con los pesos del modelo 5B, EdenLive puede generar video 720p a “más de 24fps” en una sola GPU de consumo de gama alta NVIDIA GeForce RTX 5090. Entre los casos de uso está convertir blockouts en previs de alta calidad o en avances de animación. El código fuente está disponible bajo licencia Apache 2.0; los pesos de los modelos 5B y 14B están en Hugging Face."
-              },
-              {
-                "t": "p",
-                "x": "El mismo resumen de CG Channel también recoge Gaffer 1.7.5, que añade un servidor MCP para que los asistentes de AI puedan controlarlo, y KeenFace, una herramienta de navegador basada en AI (AI-powered) de KeenTools que genera cabezas 3D a partir de 2-15 imágenes de origen."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "cli-anything",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "CLI-Anything이\n창작 앱을 AI에 연다",
-      "body": "CLI-Anything 덕분에 AI 에이전트가 GIMP·Blender를 다룬다.",
-      "mini_headline": "에이전트가 GIMP, Blender를 다룬다",
+      "headline": "Qt Group Clate\n임베디드 UI 설계에 AI",
+      "body": "Clate는 임베디드 UIs에 노코드와 자연어 프롬프트, QML 출력을 묶었다.",
+      "mini_headline": "Qt, Clate 출시",
       "tool": "Design Tokens",
-      "source": "MindStudio",
-      "url": "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/",
+      "source": "Electropages",
+      "url": "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1317,173 +371,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+            "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
           },
           {
             "t": "p",
-            "x": "CLI-Anything은 LightRAG를 만든 홍콩대학교(University of Hong Kong) 데이터 인텔리전스 연구실 HKUDS의 오픈소스 프로젝트다. GIMP, Blender, LibreOffice 같은 데스크톱 소프트웨어를 넣으면 코딩 에이전트가 조작할 수 있는 완전한 커맨드라인 인터페이스를 테스트, 문서, 스킬 파일까지 붙여 만들어 준다. 저장소는 54,000개가 넘는 스타를 받았고 Apache 2.0 라이선스로 배포된다."
+            "x": "Qt Group이 임베디드 기기용 사용자 인터페이스 제작에 특화된 AI-powered 디자인 도구 Clate를 새로 발표했다. Qt World Summit 2026에서 공개된 이 플랫폼은 노코드 환경이라, 디자이너가 임베디드 시스템의 하드웨어 제약을 따져 가며 인터페이스를 만들 수 있다."
           },
           {
             "t": "p",
-            "x": "AI 에이전트는 텍스트를 읽고 쓰는 데는 능하지만 픽셀을 클릭하는 데는 서툴다. GUI 자동화는 느리고 UI 요소가 움직이면 깨지며, 창작 앱 대부분은 네이티브 API가 없다. CLI는 두 문제를 모두 비켜 간다. CLI-Anything의 모든 명령에는 구조화된 출력용 --json 플래그와 실행 취소·다시 실행을 지원하는 REPL 모드가 있다."
+            "x": "Clate의 시각적 작업 공간에는 무한 캔버스와 계층 트리, 에셋 관리, 컴포넌트 라이브러리, 맥락 인식 속성 컨트롤이 들어 있다. 디자이너는 AI 어시스턴트에 자연어 프롬프트를 입력해 화면을 생성하고 인터페이스 요소를 고친다. Clate는 다른 도구와 Model Context Protocol (MCP)로 연동된다. QML 코드가 자동으로 생성되니 개발자는 인터페이스를 손으로 다시 만들 필요 없이 디자이너의 결과물을 곧바로 이어받는다."
           },
           {
             "t": "p",
-            "x": "CLI Hub는 Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI, FreeCAD 등 다른 사람들이 이미 만든 CLIs를 모은 패키지 관리자다. 생성된 CLIs는 내부에서 실제 애플리케이션을 부르기 때문에, GIMP CLI를 쓰려면 여전히 GIMP가 설치돼 있어야 한다."
+            "x": "Qt Group은 디자인 단계에서 프레임 레이트와 메모리 사용량을 모니터링하는 기능도 준비 중이다. Qt Group에 따르면 임베디드 UX 디자이너의 59%가 더 맞는 디자인 도구가 있으면 도움이 되겠다고 답했다."
           },
           {
             "t": "p",
-            "x": "CLI 생성기는 Claude Code용 플러그인이지만 Cursor, Codex, Open Code도 지원하며 일곱 단계 파이프라인을 돌린다. 프로젝트 측은 생성된 하네스 약 30개에서 2,400개가 넘는 테스트를 통과했다고 밝혔다."
+            "x": "\"너무 오랫동안 임베디드 UI/UX 디자이너들은 실제 하드웨어 제약을 전혀 고려하지 않는 웹 중심 도구를 쓰며 작업에서 타협해야 했다.\" Qt Group의 Vice President, Design Products인 Antti Kujala의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "Clate는 베타로 출시되며, 계획한 기능은 2027년 초에 모두 갖출 예정이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "CLI-Anything opens creative\napps to AI agents",
-          "body": "CLI-Anything auto-generates command-line interfaces for GIMP and Blender so AI coding agents can drive them directly.",
-          "mini_headline": "Agents drive GIMP, Blender",
+          "headline": "Qt Group's Clate brings AI\nto embedded UI design",
+          "body": "Clate combines no-code building, natural-language prompts and production-ready QML output for embedded UIs.",
+          "mini_headline": "Qt launches Clate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anything is an open-source project from HKUDS, the data intelligence lab at the University of Hong Kong that also built LightRAG. It takes desktop software such as GIMP, Blender and LibreOffice and generates a full command-line interface that a coding agent can operate, complete with tests, documentation and a skill file. The repository has passed 54,000 stars and ships under the Apache 2.0 license."
+                "x": "Qt Group has announced Clate, a new AI-powered design tool developed specifically for creating user interfaces for embedded devices. Unveiled at Qt World Summit 2026, the platform provides a no-code environment that allows designers to develop interfaces while accounting for the hardware constraints of embedded systems."
               },
               {
                 "t": "p",
-                "x": "AI agents are good at reading and writing text, not clicking pixels. GUI automation is slow and breaks when a UI element moves; most creative apps don’t expose a native API. A CLI sidesteps both, and every CLI-Anything command supports a --json flag for structured output, plus a REPL mode with undo and redo."
+                "x": "Clate provides a visual workspace with an infinite canvas, hierarchy trees, asset management, component libraries and context-aware property controls. AI assistants let designers generate screens and modify interface elements using natural language prompts, and it integrates with other tools through the Model Context Protocol (MCP). It automatically generates QML code, so developers can work directly with designers’ output instead of rebuilding interfaces manually."
               },
               {
                 "t": "p",
-                "x": "CLI Hub is a package manager for CLIs others already built, including Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI and FreeCAD. The generated CLIs call the real application underneath, so the GIMP CLI still needs GIMP installed."
+                "x": "Qt Group also plans design-time performance monitoring of frame rates and memory consumption. According to Qt Group, 59% of embedded UX designers believed they would benefit from a better-suited design tool."
               },
               {
                 "t": "p",
-                "x": "The CLI generator, a plugin for Claude Code that also supports Cursor, Codex and Open Code, runs a seven-phase pipeline; the project reports more than 2,400 passing tests across roughly 30 generated harnesses."
+                "x": "\"For too long, embedded UI/UX designers have had to compromise their work, using web-centric tools that simply don't account for real-world hardware constraints,\" said Antti Kujala, Vice President, Design Products at Qt Group."
+              },
+              {
+                "t": "p",
+                "x": "Clate is launching in beta, with its full planned feature set expected in early 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "CLI-Anything이\n창작 앱을 AI에 연다",
-          "body": "CLI-Anything 덕분에 AI 에이전트가 GIMP·Blender를 다룬다.",
-          "mini_headline": "에이전트가 GIMP, Blender를 다룬다",
+          "headline": "Qt Group Clate\n임베디드 UI 설계에 AI",
+          "body": "Clate는 임베디드 UIs에 노코드와 자연어 프롬프트, QML 출력을 묶었다.",
+          "mini_headline": "Qt, Clate 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anything은 LightRAG를 만든 홍콩대학교(University of Hong Kong) 데이터 인텔리전스 연구실 HKUDS의 오픈소스 프로젝트다. GIMP, Blender, LibreOffice 같은 데스크톱 소프트웨어를 넣으면 코딩 에이전트가 조작할 수 있는 완전한 커맨드라인 인터페이스를 테스트, 문서, 스킬 파일까지 붙여 만들어 준다. 저장소는 54,000개가 넘는 스타를 받았고 Apache 2.0 라이선스로 배포된다."
+                "x": "Qt Group이 임베디드 기기용 사용자 인터페이스 제작에 특화된 AI-powered 디자인 도구 Clate를 새로 발표했다. Qt World Summit 2026에서 공개된 이 플랫폼은 노코드 환경이라, 디자이너가 임베디드 시스템의 하드웨어 제약을 따져 가며 인터페이스를 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "AI 에이전트는 텍스트를 읽고 쓰는 데는 능하지만 픽셀을 클릭하는 데는 서툴다. GUI 자동화는 느리고 UI 요소가 움직이면 깨지며, 창작 앱 대부분은 네이티브 API가 없다. CLI는 두 문제를 모두 비켜 간다. CLI-Anything의 모든 명령에는 구조화된 출력용 --json 플래그와 실행 취소·다시 실행을 지원하는 REPL 모드가 있다."
+                "x": "Clate의 시각적 작업 공간에는 무한 캔버스와 계층 트리, 에셋 관리, 컴포넌트 라이브러리, 맥락 인식 속성 컨트롤이 들어 있다. 디자이너는 AI 어시스턴트에 자연어 프롬프트를 입력해 화면을 생성하고 인터페이스 요소를 고친다. Clate는 다른 도구와 Model Context Protocol (MCP)로 연동된다. QML 코드가 자동으로 생성되니 개발자는 인터페이스를 손으로 다시 만들 필요 없이 디자이너의 결과물을 곧바로 이어받는다."
               },
               {
                 "t": "p",
-                "x": "CLI Hub는 Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI, FreeCAD 등 다른 사람들이 이미 만든 CLIs를 모은 패키지 관리자다. 생성된 CLIs는 내부에서 실제 애플리케이션을 부르기 때문에, GIMP CLI를 쓰려면 여전히 GIMP가 설치돼 있어야 한다."
+                "x": "Qt Group은 디자인 단계에서 프레임 레이트와 메모리 사용량을 모니터링하는 기능도 준비 중이다. Qt Group에 따르면 임베디드 UX 디자이너의 59%가 더 맞는 디자인 도구가 있으면 도움이 되겠다고 답했다."
               },
               {
                 "t": "p",
-                "x": "CLI 생성기는 Claude Code용 플러그인이지만 Cursor, Codex, Open Code도 지원하며 일곱 단계 파이프라인을 돌린다. 프로젝트 측은 생성된 하네스 약 30개에서 2,400개가 넘는 테스트를 통과했다고 밝혔다."
+                "x": "\"너무 오랫동안 임베디드 UI/UX 디자이너들은 실제 하드웨어 제약을 전혀 고려하지 않는 웹 중심 도구를 쓰며 작업에서 타협해야 했다.\" Qt Group의 Vice President, Design Products인 Antti Kujala의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "Clate는 베타로 출시되며, 계획한 기능은 2027년 초에 모두 갖출 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CLI-Anything、\n創作アプリをAIに開放",
-          "body": "CLI-AnythingでAIエージェントがGIMPやBlenderを直接操作できる。",
-          "mini_headline": "エージェントがGIMP、Blenderを操作",
+          "headline": "Qt GroupのClate\n組み込みUI設計にAI",
+          "body": "Clateは組み込みUIs向けにノーコード構築、自然言語指示、量産用QML出力を備える。",
+          "mini_headline": "Qt、Clateを発表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anythingは、LightRAGも開発した香港大学(University of Hong Kong)のデータインテリジェンス研究室HKUDSによるオープンソースプロジェクトだ。GIMP、Blender、LibreOfficeなどのデスクトップソフトを対象に、コーディングエージェントが操作できる完全なコマンドラインインターフェースを、テスト、ドキュメント、スキルファイル付きで生成する。リポジトリのスター数は54,000を超え、Apache 2.0ライセンスで公開されている。"
+                "x": "Qt Groupは、組み込み機器向けのユーザーインターフェース制作に特化した新しいAI-poweredデザインツール「Clate」を発表した。Qt World Summit 2026で披露されたこのプラットフォームはノーコード環境を備え、デザイナーは組み込みシステムのハードウェア制約を考慮しながらインターフェースを開発できる。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントが得意なのはテキストの読み書きであり、ピクセルのクリックではない。GUIの自動化は遅く、UI要素が動くと壊れる。しかも多くのクリエイティブアプリはネイティブのAPIを公開していない。CLIなら両方を回避でき、CLI-Anythingのすべてのコマンドは構造化出力用の--jsonフラグに対応し、取り消しとやり直しが可能なREPLモードも備える。"
+                "x": "Clateは、無限キャンバス、階層ツリー、アセット管理、コンポーネントライブラリ、コンテキストに応じたプロパティ操作を備えたビジュアルな作業空間を提供する。AIアシスタントにより、デザイナーは自然言語プロンプトで画面を生成し、インターフェース要素を修正できる。Model Context Protocol (MCP)を通じて他のツールとも連携する。QMLコードを自動生成するため、開発者はインターフェースを手作業で作り直すことなく、デザイナーの成果物をそのまま扱える。"
               },
               {
                 "t": "p",
-                "x": "CLI Hubは、Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI、FreeCADなど、他者がすでに作ったCLIsのためのパッケージマネージャーだ。生成されたCLIsは内部で実際のアプリケーションを呼び出すため、GIMP CLIを使うにはGIMPのインストールが必要になる。"
+                "x": "Qt Groupは、フレームレートとメモリ消費量をデザイン時に監視する機能も計画している。Qt Groupによれば、組み込みUXデザイナーの59%が、より適したデザインツールがあれば役立つと考えていた。"
               },
               {
                 "t": "p",
-                "x": "Claude Code向けプラグインで、Cursor、Codex、Open Codeにも対応するCLIジェネレーターは七段階のパイプラインを実行する。プロジェクトによれば、約30の生成済みハーネス全体で2,400件を超えるテストに合格している。"
+                "x": "「組み込みUI/UXデザイナーはあまりにも長い間、現実のハードウェア制約をまったく考慮しないウェブ中心のツールを使い、仕事で妥協を強いられてきた」と、Qt GroupのVice President, Design ProductsであるAntti Kujala氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Clateはベータ版として提供を開始し、予定されている全機能は2027年初頭にそろう見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CLI-Anything让\nAI智能体操控创意应用",
-          "body": "CLI-Anything为GIMP和Blender自动生成命令行，供AI编程智能体操控。",
-          "mini_headline": "智能体操控GIMP、Blender",
+          "headline": "Qt Group的Clate\n把AI带入嵌入式UI设计",
+          "body": "Clate为嵌入式UIs整合了无代码构建、自然语言提示和可用于生产的QML输出。",
+          "mini_headline": "Qt推出Clate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anything是HKUDS推出的开源项目。HKUDS是香港大学（University of Hong Kong）的数据智能实验室，LightRAG也出自该实验室。它能针对GIMP、Blender、LibreOffice等桌面软件，生成一套可供编程智能体操作的完整命令行界面，并配有测试、文档和技能文件。该仓库已获得超过54,000颗星，采用Apache 2.0许可证发布。"
+                "x": "Qt Group发布了Clate，这是一款专为嵌入式设备用户界面打造的全新AI-powered设计工具。该平台在Qt World Summit 2026上亮相，提供无代码环境，让设计师在开发界面时能够兼顾嵌入式系统的硬件限制。"
               },
               {
                 "t": "p",
-                "x": "AI智能体擅长读写文本，而不是点击像素。GUI自动化速度慢，UI元素一移动就会失效；大多数创意应用也没有提供原生API。CLI可以同时绕开这两个问题，CLI-Anything的每条命令都支持用于结构化输出的--json标志，并提供支持撤销和重做的REPL模式。"
+                "x": "Clate提供一个可视化工作空间，具备无限画布、层级树、资源管理、组件库以及可感知上下文的属性控件。借助AI助手，设计师可以用自然语言提示生成界面并修改界面元素；它还通过Model Context Protocol (MCP)与其他工具集成。Clate会自动生成QML代码，开发者可以直接使用设计师的成果，无需手动重建界面。"
               },
               {
                 "t": "p",
-                "x": "CLI Hub是一个包管理器，收录了他人已经构建好的CLIs，包括Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI和FreeCAD。生成的CLIs在底层调用真实的应用程序，因此GIMP CLI仍需安装GIMP。"
+                "x": "Qt Group还计划在设计阶段提供帧率和内存占用的性能监测。据Qt Group称，59%的嵌入式UX设计师认为，更合适的设计工具会让他们受益。"
               },
               {
                 "t": "p",
-                "x": "CLI生成器是Claude Code的插件，也支持Cursor、Codex和Open Code，它运行一条七阶段流水线；项目方称，在约30个生成的测试框架中，已有超过2,400项测试通过。"
+                "x": "Qt Group的Vice President, Design Products Antti Kujala表示：“长期以来，嵌入式UI/UX设计师只能使用根本不考虑真实硬件限制的网页中心工具，在工作上不得不妥协。”"
+              },
+              {
+                "t": "p",
+                "x": "Clate以测试版形式推出，完整的计划功能预计于2027年初到位。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CLI-Anything abre las apps\ncreativas a agentes de AI",
-          "body": "CLI-Anything genera interfaces de línea de comandos para GIMP y Blender para que los agentes de AI los controlen.",
-          "mini_headline": "Agentes que manejan GIMP y Blender",
+          "headline": "Clate, de Qt Group, lleva la AI\nal diseño de UI embebida",
+          "body": "Para UIs embebidas, Clate combina creación sin código, prompts en lenguaje natural y salida QML lista para producción.",
+          "mini_headline": "Qt lanza Clate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anything es un proyecto de código abierto de HKUDS, el laboratorio de inteligencia de datos de la Universidad de Hong Kong (University of Hong Kong) que también creó LightRAG. Toma software de escritorio como GIMP, Blender y LibreOffice y genera una interfaz de línea de comandos completa que un agente de programación puede operar, con pruebas, documentación y un archivo de skill. El repositorio ha superado las 54,000 estrellas y se distribuye bajo licencia Apache 2.0."
+                "x": "Qt Group ha anunciado Clate, una nueva herramienta de diseño AI-powered desarrollada específicamente para crear interfaces de usuario para dispositivos embebidos. Presentada en Qt World Summit 2026, la plataforma ofrece un entorno sin código que permite a los diseñadores desarrollar interfaces teniendo en cuenta las limitaciones de hardware de los sistemas embebidos."
               },
               {
                 "t": "p",
-                "x": "Los agentes de AI son buenos leyendo y escribiendo texto, no haciendo clic en píxeles. La automatización de GUI es lenta y se rompe cuando un elemento de la UI se mueve; la mayoría de las apps creativas no exponen una API nativa. Una CLI evita ambos problemas, y cada comando de CLI-Anything admite un flag --json para salida estructurada, además de un modo REPL con deshacer y rehacer."
+                "x": "Clate ofrece un espacio de trabajo visual con lienzo infinito, árboles de jerarquía, gestión de recursos, bibliotecas de componentes y controles de propiedades sensibles al contexto. Sus asistentes de AI permiten a los diseñadores generar pantallas y modificar elementos de la interfaz mediante prompts en lenguaje natural, y se integra con otras herramientas a través del Model Context Protocol (MCP). Genera automáticamente código QML, de modo que los desarrolladores pueden trabajar directamente con el resultado de los diseñadores en lugar de reconstruir las interfaces a mano."
               },
               {
                 "t": "p",
-                "x": "CLI Hub es un gestor de paquetes para CLIs que otros ya han creado, entre ellas Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI y FreeCAD. Las CLIs generadas llaman por debajo a la aplicación real, así que la GIMP CLI sigue necesitando que GIMP esté instalado."
+                "x": "Qt Group también prevé incorporar la supervisión del rendimiento durante el diseño, con la velocidad de fotogramas y el consumo de memoria. Según Qt Group, el 59% de los diseñadores de UX embebida creía que se beneficiaría de una herramienta de diseño más adecuada."
               },
               {
                 "t": "p",
-                "x": "El generador de CLI, un plugin para Claude Code que también es compatible con Cursor, Codex y Open Code, ejecuta un pipeline de siete fases; el proyecto informa de más de 2,400 pruebas superadas en unos 30 harnesses generados."
+                "x": "\"Durante demasiado tiempo, los diseñadores de UI/UX embebida han tenido que hacer concesiones en su trabajo, usando herramientas centradas en la web que simplemente no tienen en cuenta las limitaciones reales del hardware\", afirmó Antti Kujala, Vice President, Design Products de Qt Group."
+              },
+              {
+                "t": "p",
+                "x": "Clate se lanza en beta, y se espera que su conjunto completo de funciones previstas llegue a principios de 2027."
               }
             ]
           }
@@ -1491,121 +569,1223 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "CLI-Anything이\n창작 앱을 AI에 연다",
-          "body": "CLI-Anything은 GIMP·Blender를 AI 에이전트가 다루게 한다.",
-          "mini_headline": "에이전트가 GIMP, Blender를 다룬다",
+          "headline": "Qt Group Clate\n임베디드 UI 설계에 AI",
+          "body": "Clate는 임베디드 UIs용 노코드와 자연어 프롬프트, QML 출력을 결합했다.",
+          "mini_headline": "Qt, Clate 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anything은 LightRAG를 만든 홍콩대학교(University of Hong Kong) 데이터 인텔리전스 연구실 HKUDS의 오픈소스 프로젝트다. GIMP, Blender, LibreOffice 같은 데스크톱 소프트웨어를 받아 코딩 에이전트가 조작할 수 있는 완전한 커맨드라인 인터페이스를 테스트, 문서, 스킬 파일까지 갖춰 생성한다. 저장소는 54,000개가 넘는 스타를 받았고 Apache 2.0 라이선스로 배포된다."
+                "x": "Qt Group이 임베디드 기기용 사용자 인터페이스 제작에 특화된 새로운 AI-powered 디자인 도구 Clate를 발표했다. Qt World Summit 2026에서 공개된 이 플랫폼은 노코드 환경을 제공해, 디자이너가 임베디드 시스템의 하드웨어 제약을 고려하면서 인터페이스를 개발할 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "AI 에이전트는 텍스트를 읽고 쓰는 데 능하지, 픽셀을 클릭하는 데 능하지 않다. GUI 자동화는 느리고 UI 요소가 움직이면 깨지며, 대부분의 창작 앱은 네이티브 API를 제공하지 않는다. CLI는 두 문제를 모두 피해 가고, CLI-Anything의 모든 명령은 구조화된 출력을 위한 --json 플래그와 실행 취소·다시 실행을 지원하는 REPL 모드를 갖췄다."
+                "x": "Clate는 무한 캔버스, 계층 트리, 에셋 관리, 컴포넌트 라이브러리, 맥락 인식 속성 컨트롤을 갖춘 시각적 작업 공간을 제공한다. 디자이너는 AI 어시스턴트로 자연어 프롬프트를 써서 화면을 생성하고 인터페이스 요소를 수정할 수 있으며, Clate는 Model Context Protocol (MCP)로 다른 도구와도 연동된다. QML 코드를 자동으로 생성하므로 개발자는 인터페이스를 수작업으로 다시 만들 필요 없이 디자이너의 결과물을 바로 다룰 수 있다."
               },
               {
                 "t": "p",
-                "x": "CLI Hub는 Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI, FreeCAD 등 다른 사람들이 이미 만든 CLIs를 위한 패키지 관리자다. 생성된 CLIs는 내부에서 실제 애플리케이션을 호출하므로, GIMP CLI를 쓰려면 여전히 GIMP가 설치돼 있어야 한다."
+                "x": "Qt Group은 프레임 레이트와 메모리 사용량을 디자인 단계에서 모니터링하는 기능도 계획하고 있다. Qt Group에 따르면 임베디드 UX 디자이너의 59%가 더 적합한 디자인 도구가 있으면 도움이 될 것이라고 답했다."
               },
               {
                 "t": "p",
-                "x": "Claude Code용 플러그인이면서 Cursor, Codex, Open Code도 지원하는 CLI 생성기는 일곱 단계 파이프라인을 실행하며, 프로젝트 측은 약 30개의 생성된 하네스에서 2,400개가 넘는 테스트를 통과했다고 밝혔다."
+                "x": "\"너무 오랫동안 임베디드 UI/UX 디자이너들은 실제 하드웨어 제약을 전혀 고려하지 않는 웹 중심 도구를 쓰며 작업에서 타협해야 했다.\" Qt Group의 Vice President, Design Products인 Antti Kujala의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "Clate는 베타로 출시되며, 계획된 전체 기능은 2027년 초에 갖춰질 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CLI-Anything、\n創作アプリをAIに開放",
-          "body": "CLI-AnythingでAIエージェントがGIMPやBlenderを直接操作できる。",
-          "mini_headline": "エージェントがGIMP、Blenderを操作",
+          "headline": "Qt GroupのClate\n組み込みUI設計にAI",
+          "body": "Clateは組み込みUIs向けにノーコード構築、自然言語指示、量産用QML出力を備える。",
+          "mini_headline": "Qt、Clateを発表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anythingは、LightRAGも開発した香港大学(University of Hong Kong)のデータインテリジェンス研究室HKUDSによるオープンソースプロジェクトだ。GIMP、Blender、LibreOfficeなどのデスクトップソフトを対象に、コーディングエージェントが操作できる完全なコマンドラインインターフェースを、テスト、ドキュメント、スキルファイル付きで生成する。リポジトリのスター数は54,000を超え、Apache 2.0ライセンスで公開されている。"
+                "x": "Qt Groupは、組み込み機器向けのユーザーインターフェース制作に特化した新しいAI-poweredデザインツール「Clate」を発表した。Qt World Summit 2026で披露されたこのプラットフォームはノーコード環境を備え、デザイナーは組み込みシステムのハードウェア制約を考慮しながらインターフェースを開発できる。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントが得意なのはテキストの読み書きであり、ピクセルのクリックではない。GUIの自動化は遅く、UI要素が動くと壊れる。しかも多くのクリエイティブアプリはネイティブのAPIを公開していない。CLIなら両方を回避でき、CLI-Anythingのすべてのコマンドは構造化出力用の--jsonフラグに対応し、取り消しとやり直しが可能なREPLモードも備える。"
+                "x": "Clateは、無限キャンバス、階層ツリー、アセット管理、コンポーネントライブラリ、コンテキストに応じたプロパティ操作を備えたビジュアルな作業空間を提供する。AIアシスタントにより、デザイナーは自然言語プロンプトで画面を生成し、インターフェース要素を修正できる。Model Context Protocol (MCP)を通じて他のツールとも連携する。QMLコードを自動生成するため、開発者はインターフェースを手作業で作り直すことなく、デザイナーの成果物をそのまま扱える。"
               },
               {
                 "t": "p",
-                "x": "CLI Hubは、Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI、FreeCADなど、他者がすでに作ったCLIsのためのパッケージマネージャーだ。生成されたCLIsは内部で実際のアプリケーションを呼び出すため、GIMP CLIを使うにはGIMPのインストールが必要になる。"
+                "x": "Qt Groupは、フレームレートとメモリ消費量をデザイン時に監視する機能も計画している。Qt Groupによれば、組み込みUXデザイナーの59%が、より適したデザインツールがあれば役立つと考えていた。"
               },
               {
                 "t": "p",
-                "x": "Claude Code向けプラグインで、Cursor、Codex、Open Codeにも対応するCLIジェネレーターは七段階のパイプラインを実行する。プロジェクトによれば、約30の生成済みハーネス全体で2,400件を超えるテストに合格している。"
+                "x": "「組み込みUI/UXデザイナーはあまりにも長い間、現実のハードウェア制約をまったく考慮しないウェブ中心のツールを使い、仕事で妥協を強いられてきた」と、Qt GroupのVice President, Design ProductsであるAntti Kujala氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Clateはベータ版として提供を開始し、予定されている全機能は2027年初頭にそろう見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CLI-Anything让\nAI智能体操控创意应用",
-          "body": "CLI-Anything为GIMP和Blender自动生成命令行，供AI编程智能体操控。",
-          "mini_headline": "智能体操控GIMP、Blender",
+          "headline": "Qt Group的Clate\n把AI带入嵌入式UI设计",
+          "body": "Clate为嵌入式UIs整合了无代码构建、自然语言提示和可用于生产的QML输出。",
+          "mini_headline": "Qt推出Clate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anything是HKUDS推出的开源项目。HKUDS是香港大学（University of Hong Kong）的数据智能实验室，LightRAG也出自该实验室。它能针对GIMP、Blender、LibreOffice等桌面软件，生成一套可供编程智能体操作的完整命令行界面，并配有测试、文档和技能文件。该仓库已获得超过54,000颗星，采用Apache 2.0许可证发布。"
+                "x": "Qt Group发布了Clate，这是一款专为嵌入式设备用户界面打造的全新AI-powered设计工具。该平台在Qt World Summit 2026上亮相，提供无代码环境，让设计师在开发界面时能够兼顾嵌入式系统的硬件限制。"
               },
               {
                 "t": "p",
-                "x": "AI智能体擅长读写文本，而不是点击像素。GUI自动化速度慢，UI元素一移动就会失效；大多数创意应用也没有提供原生API。CLI可以同时绕开这两个问题，CLI-Anything的每条命令都支持用于结构化输出的--json标志，并提供支持撤销和重做的REPL模式。"
+                "x": "Clate提供一个可视化工作空间，具备无限画布、层级树、资源管理、组件库以及可感知上下文的属性控件。借助AI助手，设计师可以用自然语言提示生成界面并修改界面元素；它还通过Model Context Protocol (MCP)与其他工具集成。Clate会自动生成QML代码，开发者可以直接使用设计师的成果，无需手动重建界面。"
               },
               {
                 "t": "p",
-                "x": "CLI Hub是一个包管理器，收录了他人已经构建好的CLIs，包括Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI和FreeCAD。生成的CLIs在底层调用真实的应用程序，因此GIMP CLI仍需安装GIMP。"
+                "x": "Qt Group还计划在设计阶段提供帧率和内存占用的性能监测。据Qt Group称，59%的嵌入式UX设计师认为，更合适的设计工具会让他们受益。"
               },
               {
                 "t": "p",
-                "x": "CLI生成器是Claude Code的插件，也支持Cursor、Codex和Open Code，它运行一条七阶段流水线；项目方称，在约30个生成的测试框架中，已有超过2,400项测试通过。"
+                "x": "Qt Group的Vice President, Design Products Antti Kujala表示：“长期以来，嵌入式UI/UX设计师只能使用根本不考虑真实硬件限制的网页中心工具，在工作上不得不妥协。”"
+              },
+              {
+                "t": "p",
+                "x": "Clate以测试版形式推出，完整的计划功能预计于2027年初到位。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CLI-Anything abre las apps\ncreativas a agentes de AI",
-          "body": "CLI-Anything genera interfaces de línea de comandos para GIMP y Blender para que los agentes de AI los controlen.",
-          "mini_headline": "Agentes que manejan GIMP y Blender",
+          "headline": "Clate, de Qt Group, lleva la AI\nal diseño de UI embebida",
+          "body": "Para UIs embebidas, Clate combina creación sin código, prompts en lenguaje natural y salida QML lista para producción.",
+          "mini_headline": "Qt lanza Clate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
               },
               {
                 "t": "p",
-                "x": "CLI-Anything es un proyecto de código abierto de HKUDS, el laboratorio de inteligencia de datos de la Universidad de Hong Kong (University of Hong Kong) que también creó LightRAG. Toma software de escritorio como GIMP, Blender y LibreOffice y genera una interfaz de línea de comandos completa que un agente de programación puede operar, con pruebas, documentación y un archivo de skill. El repositorio ha superado las 54,000 estrellas y se distribuye bajo licencia Apache 2.0."
+                "x": "Qt Group ha anunciado Clate, una nueva herramienta de diseño AI-powered desarrollada específicamente para crear interfaces de usuario para dispositivos embebidos. Presentada en Qt World Summit 2026, la plataforma ofrece un entorno sin código que permite a los diseñadores desarrollar interfaces teniendo en cuenta las limitaciones de hardware de los sistemas embebidos."
               },
               {
                 "t": "p",
-                "x": "Los agentes de AI son buenos leyendo y escribiendo texto, no haciendo clic en píxeles. La automatización de GUI es lenta y se rompe cuando un elemento de la UI se mueve; la mayoría de las apps creativas no exponen una API nativa. Una CLI evita ambos problemas, y cada comando de CLI-Anything admite un flag --json para salida estructurada, además de un modo REPL con deshacer y rehacer."
+                "x": "Clate ofrece un espacio de trabajo visual con lienzo infinito, árboles de jerarquía, gestión de recursos, bibliotecas de componentes y controles de propiedades sensibles al contexto. Sus asistentes de AI permiten a los diseñadores generar pantallas y modificar elementos de la interfaz mediante prompts en lenguaje natural, y se integra con otras herramientas a través del Model Context Protocol (MCP). Genera automáticamente código QML, de modo que los desarrolladores pueden trabajar directamente con el resultado de los diseñadores en lugar de reconstruir las interfaces a mano."
               },
               {
                 "t": "p",
-                "x": "CLI Hub es un gestor de paquetes para CLIs que otros ya han creado, entre ellas Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI y FreeCAD. Las CLIs generadas llaman por debajo a la aplicación real, así que la GIMP CLI sigue necesitando que GIMP esté instalado."
+                "x": "Qt Group también prevé incorporar la supervisión del rendimiento durante el diseño, con la velocidad de fotogramas y el consumo de memoria. Según Qt Group, el 59% de los diseñadores de UX embebida creía que se beneficiaría de una herramienta de diseño más adecuada."
               },
               {
                 "t": "p",
-                "x": "El generador de CLI, un plugin para Claude Code que también es compatible con Cursor, Codex y Open Code, ejecuta un pipeline de siete fases; el proyecto informa de más de 2,400 pruebas superadas en unos 30 harnesses generados."
+                "x": "\"Durante demasiado tiempo, los diseñadores de UI/UX embebida han tenido que hacer concesiones en su trabajo, usando herramientas centradas en la web que simplemente no tienen en cuenta las limitaciones reales del hardware\", afirmó Antti Kujala, Vice President, Design Products de Qt Group."
+              },
+              {
+                "t": "p",
+                "x": "Clate se lanza en beta, y se espera que su conjunto completo de funciones previstas llegue a principios de 2027."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "nuke18",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Nuke 18.0에\nGriptape AI 탑재",
+      "body": "Nuke 18.0의 Griptape 노드로 그래프 안에서 이미지·영상을 생성한다.",
+      "mini_headline": "Nuke 18.0, Griptape 추가",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Foundry가 컴포지팅 앱 제품군의 최신 업데이트 Nuke 18.0을 베타로 내놨다. Nuke에는 새 Griptape Node가 추가돼 Foundry의 AI 오케스트레이션 플랫폼 Griptape와 연결된다. 컴포지터는 Nuke 노드 그래프 안에서 생성형 AI 워크플로를 바로 돌릴 수 있다. 프로젝트에 합성할 이펙트 요소를 만드는 식이다."
+          },
+          {
+            "t": "video",
+            "yt": "iK5xckpMLag"
+          },
+          {
+            "t": "p",
+            "x": "Griptape를 쓰면 정지 이미지와 영상, 3D 에셋, 오디오용 서드파티 AI 모델을 비교적 제어 가능하고 반복 가능한 워크플로로 엮을 수 있다. 제안된 활용 사례도 키잉, 마스킹, 인페인팅, 클린 플레이트 생성에서 완전히 새로운 에셋 생성까지 폭넓다. 새 노드는 실행 중인 Griptape 엔진에 직접 붙고, Nuke 안의 컨트롤 노브(프롬프트, 모델, 시드, 화면비)를 자동으로 채운다."
+          },
+          {
+            "t": "p",
+            "x": "3D Gaussian Splats 워크플로도 개선됐다. 새 카메라 포맷과 H.265/HEVC 미디어를 지원하고, Nuke Studio에는 자동 컷 감지 기능이 들어갔다."
+          },
+          {
+            "t": "p",
+            "x": "Nuke 18.0은 아직 베타다. 연간 구독료는 Nuke가 연 $3,839, NukeX가 연 $5,219, Nuke Studio가 연 $6,379다. Griptape Nodes는 무료로 내려받을 수 있지만 AI 모델 사용료는 크레딧 단위로 매긴다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Nuke 18.0 brings Griptape AI\nto the compositing node graph",
+          "body": "Nuke 18.0's new Griptape node lets artists run generative image and video workflows inside the node graph.",
+          "mini_headline": "Nuke 18.0 adds Griptape",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundry has released Nuke 18.0, the latest update to its family of compositing apps, in beta. Nuke itself gets a new Griptape Node, connecting the software to Griptape, Foundry’s AI orchestration platform. With it, compositors can execute generative AI workflows directly inside the Nuke node graph: for example, to create effects elements to composite into a project."
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptape makes it possible to combine third-party AI models – for still images, video, 3D assets and audio – into relatively controllable, repeatable workflows. Suggested use cases range from keying, masking, inpainting and clean plate generation to generating completely novel assets. The new node connects directly to a running Griptape engine and automatically populates control knobs (prompts, models, seeds, aspect ratio) inside Nuke."
+              },
+              {
+                "t": "p",
+                "x": "The release also improves workflow with 3D Gaussian Splats, adds support for new camera formats and H.265/HEVC media, and gives Nuke Studio automatic cut detection."
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0 is in beta. Annual subscriptions cost $3,839/year for Nuke, $5,219/year for NukeX and $6,379/year for Nuke Studio. Griptape Nodes is a free download, but AI model usage is priced on a credit basis."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Nuke 18.0에\nGriptape AI 탑재",
+          "body": "Nuke 18.0의 Griptape 노드로 그래프 안에서 이미지·영상을 생성한다.",
+          "mini_headline": "Nuke 18.0, Griptape 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundry가 컴포지팅 앱 제품군의 최신 업데이트 Nuke 18.0을 베타로 내놨다. Nuke에는 새 Griptape Node가 추가돼 Foundry의 AI 오케스트레이션 플랫폼 Griptape와 연결된다. 컴포지터는 Nuke 노드 그래프 안에서 생성형 AI 워크플로를 바로 돌릴 수 있다. 프로젝트에 합성할 이펙트 요소를 만드는 식이다."
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptape를 쓰면 정지 이미지와 영상, 3D 에셋, 오디오용 서드파티 AI 모델을 비교적 제어 가능하고 반복 가능한 워크플로로 엮을 수 있다. 제안된 활용 사례도 키잉, 마스킹, 인페인팅, 클린 플레이트 생성에서 완전히 새로운 에셋 생성까지 폭넓다. 새 노드는 실행 중인 Griptape 엔진에 직접 붙고, Nuke 안의 컨트롤 노브(프롬프트, 모델, 시드, 화면비)를 자동으로 채운다."
+              },
+              {
+                "t": "p",
+                "x": "3D Gaussian Splats 워크플로도 개선됐다. 새 카메라 포맷과 H.265/HEVC 미디어를 지원하고, Nuke Studio에는 자동 컷 감지 기능이 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0은 아직 베타다. 연간 구독료는 Nuke가 연 $3,839, NukeX가 연 $5,219, Nuke Studio가 연 $6,379다. Griptape Nodes는 무료로 내려받을 수 있지만 AI 모델 사용료는 크레딧 단위로 매긴다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nuke 18.0が\nGriptape AIを統合",
+          "body": "Nuke 18.0の新Griptapeノードで、グラフ内で画像・動画を生成できる。",
+          "mini_headline": "Nuke 18.0にGriptape",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundryは、コンポジットアプリ群の最新アップデートとなるNuke 18.0をベータ版として公開した。Nuke本体には新たにGriptape Nodeが加わり、FoundryのAIオーケストレーションプラットフォームであるGriptapeと接続できるようになった。これによりコンポジターは、Nukeのノードグラフ内で生成AIワークフローを直接実行できる。たとえば、プロジェクトに合成するエフェクト素材を作成するといった使い方だ。"
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptapeでは、静止画、動画、3Dアセット、オーディオ向けのサードパーティ製AIモデルを組み合わせ、比較的制御しやすく再現性のあるワークフローを構築できる。想定される用途は、キーイング、マスキング、インペインティング、クリーンプレート生成から、まったく新しいアセットの生成まで幅広い。新しいノードは稼働中のGriptapeエンジンに直接接続し、Nuke内のコントロールノブ（プロンプト、モデル、シード、アスペクト比）を自動で設定する。"
+              },
+              {
+                "t": "p",
+                "x": "今回のリリースでは3D Gaussian Splatsを使ったワークフローも改善され、新しいカメラフォーマットとH.265/HEVCメディアに対応したほか、Nuke Studioに自動カット検出が加わった。"
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0はベータ版だ。年間サブスクリプション価格は、Nukeが年$3,839、NukeXが年$5,219、Nuke Studioが年$6,379だ。Griptape Nodesは無料でダウンロードできるが、AIモデルの利用はクレジット制で課金される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nuke 18.0节点图引入\nGriptape AI",
+          "body": "Nuke 18.0新增Griptape节点，艺术家可在节点图内运行生成式图像与视频工作流。",
+          "mini_headline": "Nuke 18.0新增Griptape",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundry以测试版形式发布了旗下合成软件系列的最新更新Nuke 18.0。Nuke本身新增了Griptape Node，将软件与Foundry的AI编排平台Griptape相连。借助它，合成师可以直接在Nuke节点图中执行生成式AI工作流，例如制作要合成进项目的特效元素。"
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptape可以把面向静态图像、视频、3D资产和音频的第三方AI模型组合成相对可控、可重复的工作流。建议的用例涵盖抠像、遮罩、内补绘制、干净背景板生成，乃至生成全新的资产。新节点直接连接正在运行的Griptape引擎，并在Nuke中自动填充控制旋钮（提示词、模型、种子、宽高比）。"
+              },
+              {
+                "t": "p",
+                "x": "此次版本还改进了3D Gaussian Splats相关工作流，新增对新摄像机格式和H.265/HEVC媒体的支持，并为Nuke Studio加入了自动剪辑点检测。"
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0目前处于测试阶段。年度订阅价格为：Nuke每年$3,839，NukeX每年$5,219，Nuke Studio每年$6,379。Griptape Nodes可免费下载，但AI模型的使用按积分计费。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nuke 18.0 integra Griptape AI\nen el grafo de nodos",
+          "body": "El nuevo nodo Griptape de Nuke 18.0 permite ejecutar flujos generativos de imagen y video dentro del grafo de nodos.",
+          "mini_headline": "Nuke 18.0 suma Griptape",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundry ha lanzado en beta Nuke 18.0, la última actualización de su familia de aplicaciones de composición. Nuke recibe un nuevo Griptape Node, que conecta el software con Griptape, la plataforma de orquestación de AI de Foundry. Con él, los compositores pueden ejecutar flujos de trabajo de AI generativa directamente dentro del grafo de nodos de Nuke: por ejemplo, para crear elementos de efectos que integrar en un proyecto."
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptape permite combinar modelos de AI de terceros (para imágenes fijas, video, recursos 3D y audio) en flujos de trabajo relativamente controlables y repetibles. Los casos de uso sugeridos van desde el keying, el enmascarado, el inpainting y la generación de clean plates hasta la creación de recursos completamente nuevos. El nuevo nodo se conecta directamente a un motor Griptape en ejecución y rellena automáticamente los controles (prompts, modelos, semillas, relación de aspecto) dentro de Nuke."
+              },
+              {
+                "t": "p",
+                "x": "La versión también mejora el flujo de trabajo con 3D Gaussian Splats, añade compatibilidad con nuevos formatos de cámara y con medios H.265/HEVC, y dota a Nuke Studio de detección automática de cortes."
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0 está en beta. Las suscripciones anuales cuestan $3,839/año para Nuke, $5,219/año para NukeX y $6,379/año para Nuke Studio. Griptape Nodes se descarga gratis, pero el uso de los modelos de AI se cobra por créditos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Nuke 18.0에\nGriptape AI 탑재",
+          "body": "Nuke 18.0의 Griptape 노드로 그래프 안에서 이미지·영상을 생성한다.",
+          "mini_headline": "Nuke 18.0, Griptape 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundry가 컴포지팅 앱 제품군의 최신 업데이트인 Nuke 18.0을 베타로 출시했다. Nuke 자체에는 새 Griptape Node가 추가돼, Foundry의 AI 오케스트레이션 플랫폼인 Griptape와 연결된다. 이를 통해 컴포지터는 Nuke 노드 그래프 안에서 생성형 AI 워크플로를 바로 실행할 수 있다. 예를 들어 프로젝트에 합성할 이펙트 요소를 만드는 식이다."
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptape를 쓰면 정지 이미지, 영상, 3D 에셋, 오디오용 서드파티 AI 모델을 비교적 제어 가능하고 반복 가능한 워크플로로 엮을 수 있다. 제안된 활용 사례는 키잉, 마스킹, 인페인팅, 클린 플레이트 생성부터 완전히 새로운 에셋 생성까지 다양하다. 새 노드는 실행 중인 Griptape 엔진에 직접 연결되고, Nuke 안에서 컨트롤 노브(프롬프트, 모델, 시드, 화면비)를 자동으로 채운다."
+              },
+              {
+                "t": "p",
+                "x": "이번 릴리스는 3D Gaussian Splats 워크플로도 개선하고, 새 카메라 포맷과 H.265/HEVC 미디어를 지원하며, Nuke Studio에 자동 컷 감지 기능을 더했다."
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0은 베타 단계다. 연간 구독료는 Nuke가 연 $3,839, NukeX가 연 $5,219, Nuke Studio가 연 $6,379다. Griptape Nodes는 무료로 내려받을 수 있지만, AI 모델 사용료는 크레딧 기반으로 책정된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nuke 18.0が\nGriptape AIを統合",
+          "body": "Nuke 18.0の新Griptapeノードで、グラフ内で画像・動画を生成できる。",
+          "mini_headline": "Nuke 18.0にGriptape",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundryは、コンポジットアプリ群の最新アップデートとなるNuke 18.0をベータ版として公開した。Nuke本体には新たにGriptape Nodeが加わり、FoundryのAIオーケストレーションプラットフォームであるGriptapeと接続できるようになった。これによりコンポジターは、Nukeのノードグラフ内で生成AIワークフローを直接実行できる。たとえば、プロジェクトに合成するエフェクト素材を作成するといった使い方だ。"
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptapeでは、静止画、動画、3Dアセット、オーディオ向けのサードパーティ製AIモデルを組み合わせ、比較的制御しやすく再現性のあるワークフローを構築できる。想定される用途は、キーイング、マスキング、インペインティング、クリーンプレート生成から、まったく新しいアセットの生成まで幅広い。新しいノードは稼働中のGriptapeエンジンに直接接続し、Nuke内のコントロールノブ（プロンプト、モデル、シード、アスペクト比）を自動で設定する。"
+              },
+              {
+                "t": "p",
+                "x": "今回のリリースでは3D Gaussian Splatsを使ったワークフローも改善され、新しいカメラフォーマットとH.265/HEVCメディアに対応したほか、Nuke Studioに自動カット検出が加わった。"
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0はベータ版だ。年間サブスクリプション価格は、Nukeが年$3,839、NukeXが年$5,219、Nuke Studioが年$6,379だ。Griptape Nodesは無料でダウンロードできるが、AIモデルの利用はクレジット制で課金される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nuke 18.0节点图引入\nGriptape AI",
+          "body": "Nuke 18.0新增Griptape节点，艺术家可在节点图内运行生成式图像与视频工作流。",
+          "mini_headline": "Nuke 18.0新增Griptape",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundry以测试版形式发布了旗下合成软件系列的最新更新Nuke 18.0。Nuke本身新增了Griptape Node，将软件与Foundry的AI编排平台Griptape相连。借助它，合成师可以直接在Nuke节点图中执行生成式AI工作流，例如制作要合成进项目的特效元素。"
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptape可以把面向静态图像、视频、3D资产和音频的第三方AI模型组合成相对可控、可重复的工作流。建议的用例涵盖抠像、遮罩、内补绘制、干净背景板生成，乃至生成全新的资产。新节点直接连接正在运行的Griptape引擎，并在Nuke中自动填充控制旋钮（提示词、模型、种子、宽高比）。"
+              },
+              {
+                "t": "p",
+                "x": "此次版本还改进了3D Gaussian Splats相关工作流，新增对新摄像机格式和H.265/HEVC媒体的支持，并为Nuke Studio加入了自动剪辑点检测。"
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0目前处于测试阶段。年度订阅价格为：Nuke每年$3,839，NukeX每年$5,219，Nuke Studio每年$6,379。Griptape Nodes可免费下载，但AI模型的使用按积分计费。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nuke 18.0 integra Griptape AI\nen el grafo de nodos",
+          "body": "El nuevo nodo Griptape de Nuke 18.0 permite ejecutar flujos generativos de imagen y video dentro del grafo de nodos.",
+          "mini_headline": "Nuke 18.0 suma Griptape",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Foundry ha lanzado en beta Nuke 18.0, la última actualización de su familia de aplicaciones de composición. Nuke recibe un nuevo Griptape Node, que conecta el software con Griptape, la plataforma de orquestación de AI de Foundry. Con él, los compositores pueden ejecutar flujos de trabajo de AI generativa directamente dentro del grafo de nodos de Nuke: por ejemplo, para crear elementos de efectos que integrar en un proyecto."
+              },
+              {
+                "t": "video",
+                "yt": "iK5xckpMLag"
+              },
+              {
+                "t": "p",
+                "x": "Griptape permite combinar modelos de AI de terceros (para imágenes fijas, video, recursos 3D y audio) en flujos de trabajo relativamente controlables y repetibles. Los casos de uso sugeridos van desde el keying, el enmascarado, el inpainting y la generación de clean plates hasta la creación de recursos completamente nuevos. El nuevo nodo se conecta directamente a un motor Griptape en ejecución y rellena automáticamente los controles (prompts, modelos, semillas, relación de aspecto) dentro de Nuke."
+              },
+              {
+                "t": "p",
+                "x": "La versión también mejora el flujo de trabajo con 3D Gaussian Splats, añade compatibilidad con nuevos formatos de cámara y con medios H.265/HEVC, y dota a Nuke Studio de detección automática de cortes."
+              },
+              {
+                "t": "p",
+                "x": "Nuke 18.0 está en beta. Las suscripciones anuales cuestan $3,839/año para Nuke, $5,219/año para NukeX y $6,379/año para Nuke Studio. Griptape Nodes se descarga gratis, pero el uso de los modelos de AI se cobra por créditos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "vectorworks-nano",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Vectorworks에\nNano Banana 탑재",
+      "body": "Vectorworks 구독자는 Nano Banana로 매달 150 크레딧을 쓴다.",
+      "mini_headline": "Vectorworks, Nano Banana 탑재",
+      "tool": "Text-to-CAD",
+      "source": "PBC Today",
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+            "cap": "이미지: © Vectorworks"
+          },
+          {
+            "t": "p",
+            "x": "Vectorworks AI Visualizer 최신 버전에 Google Nano Banana를 포함한 새 모델 두 가지가 들어갔다. 고품질의 사실적인 AI-generated 비주얼을 위한 모델이다. Vectorworks 2027 구독자는 이제 AI Visualizer 팔레트에서 Google의 Nano Banana 2와 Nano Banana Pro 모델을 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Nano Banana 2는 디자인 과정 내내 콘셉트를 시험하고 비주얼을 거듭 고치는 데 알맞다. Nano Banana Pro는 중요한 프레젠테이션이나 결과물에 쓸 더 정교한 이미지에 어울린다. 두 모델 모두 2K 해상도로 이미지를 생성·편집하고 4K로 업스케일하며, 프롬프트당 참조 이미지를 최대 14장까지 받는다."
+          },
+          {
+            "t": "p",
+            "x": "구독 라이선스마다 매달 150 크레딧이 나온다. Nano Banana 2는 이미지 한 장 생성·편집에 두 크레딧, 4K 업스케일에 네 크레딧이 들고, Nano Banana Pro는 각각 세 크레딧과 여섯 크레딧이 든다. 월 150 크레딧을 다 쓰면 AI Visualizer는 크레딧이 필요 없는 Basic 모델로 자동 전환된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+            "cap": "이미지: © Vectorworks"
+          },
+          {
+            "t": "p",
+            "x": "Basic 모델로는 빠른 스터디와 반복 작업용 AI 비주얼을 제한 없이 생성하고 다듬을 수 있다. 참조 이미지는 프롬프트당 최대 두 장까지 지원한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Vectorworks adds\nNano Banana models",
+          "body": "Vectorworks subscribers can now render with Nano Banana models, using 150 credits per license each month.",
+          "mini_headline": "Vectorworks adds Nano Banana",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "Image: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "The latest version of Vectorworks’ AI Visualizer offers two new models, including Google’s Nano Banana, for high-quality, realistic AI-generated visuals. With a Vectorworks 2027 subscription, you can now access Google’s Nano Banana 2 and Nano Banana Pro models in the AI Visualizer palette."
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2 is great for testing concepts and iterating on visuals throughout the design process, while Nano Banana Pro helps you create a more detailed image for a high-stakes presentation or deliverable. Both models generate and edit images at 2K resolution, can upscale to 4K, and support up to 14 reference images per prompt."
+              },
+              {
+                "t": "p",
+                "x": "Each subscription license includes 150 credits per calendar month. Nano Banana 2 uses two credits per generated or edited image and four to upscale to 4K; Nano Banana Pro uses three and six. Once the 150 monthly credits are used, the AI Visualizer automatically switches to the credit-free Basic model."
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "Image: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "The Basic model offers an unlimited way to generate and refine AI visuals for quick studies and repeated iterations, with up to two reference images per prompt."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Vectorworks에\nNano Banana 탑재",
+          "body": "Vectorworks 구독자는 Nano Banana로 매달 150 크레딧을 쓴다.",
+          "mini_headline": "Vectorworks, Nano Banana 탑재",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "이미지: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Vectorworks AI Visualizer 최신 버전에 Google Nano Banana를 포함한 새 모델 두 가지가 들어갔다. 고품질의 사실적인 AI-generated 비주얼을 위한 모델이다. Vectorworks 2027 구독자는 이제 AI Visualizer 팔레트에서 Google의 Nano Banana 2와 Nano Banana Pro 모델을 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2는 디자인 과정 내내 콘셉트를 시험하고 비주얼을 거듭 고치는 데 알맞다. Nano Banana Pro는 중요한 프레젠테이션이나 결과물에 쓸 더 정교한 이미지에 어울린다. 두 모델 모두 2K 해상도로 이미지를 생성·편집하고 4K로 업스케일하며, 프롬프트당 참조 이미지를 최대 14장까지 받는다."
+              },
+              {
+                "t": "p",
+                "x": "구독 라이선스마다 매달 150 크레딧이 나온다. Nano Banana 2는 이미지 한 장 생성·편집에 두 크레딧, 4K 업스케일에 네 크레딧이 들고, Nano Banana Pro는 각각 세 크레딧과 여섯 크레딧이 든다. 월 150 크레딧을 다 쓰면 AI Visualizer는 크레딧이 필요 없는 Basic 모델로 자동 전환된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "이미지: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Basic 모델로는 빠른 스터디와 반복 작업용 AI 비주얼을 제한 없이 생성하고 다듬을 수 있다. 참조 이미지는 프롬프트당 최대 두 장까지 지원한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Vectorworksに\nNano Banana搭載",
+          "body": "Vectorworksの契約者はNano Bananaで毎月150クレジットを使える。",
+          "mini_headline": "VectorworksにNano Banana搭載",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "画像: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Vectorworksの AI Visualizer 最新版は、高品質でリアルな AI-generated ビジュアルのため、GoogleのNano Bananaを含む新モデル二つを提供する。Vectorworks 2027 のサブスクリプションがあれば、AI Visualizer パレットでGoogleの Nano Banana 2 と Nano Banana Pro を使える。"
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2 はデザイン過程を通じてコンセプトを試し、ビジュアルを反復するのに向き、Nano Banana Pro は重要なプレゼンテーションや成果物向けにより精細な画像を作るのに役立つ。両モデルとも 2K 解像度で画像を生成・編集し、4K へのアップスケールが可能で、プロンプトごとに最大 14 枚の参照画像に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "各サブスクリプションライセンスには暦月ごとに 150 クレジットが含まれる。Nano Banana 2 は生成または編集した画像一枚につき二クレジット、4K へのアップスケールに四クレジットを使い、Nano Banana Pro はそれぞれ三と六を使う。月 150 クレジットを使い切ると、AI Visualizer はクレジット不要の Basic モデルに自動で切り替わる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "画像: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Basic モデルは、素早いスタディや繰り返しの反復のために AI ビジュアルを無制限に生成・調整でき、プロンプトごとに最大二枚の参照画像に対応する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Vectorworks新增\nNano Banana模型",
+          "body": "Vectorworks订阅用户现可用Nano Banana渲染，每个许可证每月150积分。",
+          "mini_headline": "Vectorworks新增Nano Banana",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "图片：© Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Vectorworks AI Visualizer 的最新版本提供两款新模型，其中包括 Google 的 Nano Banana，可生成高质量、逼真的 AI-generated 视觉效果。拥有 Vectorworks 2027 订阅的用户，现在可以在 AI Visualizer 面板中使用 Google 的 Nano Banana 2 和 Nano Banana Pro 模型。"
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2 适合在整个设计过程中测试概念、反复迭代视觉效果，而 Nano Banana Pro 则有助于为重要的演示或交付物制作更精细的图像。两款模型均以 2K 分辨率生成和编辑图像，可放大至 4K，每条提示词最多支持 14 张参考图像。"
+              },
+              {
+                "t": "p",
+                "x": "每个订阅许可证每个日历月包含 150 积分。Nano Banana 2 每生成或编辑一张图像消耗两个积分，放大至 4K 消耗四个；Nano Banana Pro 则分别消耗三个和六个。每月 150 积分用完后，AI Visualizer 会自动切换到无需积分的 Basic 模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "图片：© Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Basic 模型可无限次生成和优化 AI 视觉效果，适用于快速研究和反复迭代，每条提示词最多支持两张参考图像。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Vectorworks incorpora\nlos modelos Nano Banana",
+          "body": "Los suscriptores de Vectorworks ya pueden renderizar con modelos Nano Banana, con 150 créditos por licencia al mes.",
+          "mini_headline": "Vectorworks incorpora Nano Banana",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "Imagen: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "La última versión de AI Visualizer de Vectorworks ofrece dos nuevos modelos, entre ellos Nano Banana de Google, para obtener visuales AI-generated realistas y de alta calidad. Con una suscripción a Vectorworks 2027, ya es posible acceder a los modelos Nano Banana 2 y Nano Banana Pro de Google en la paleta de AI Visualizer."
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2 es ideal para probar conceptos e iterar sobre los visuales a lo largo del proceso de diseño, mientras que Nano Banana Pro ayuda a crear una imagen más detallada para una presentación o entrega importante. Ambos modelos generan y editan imágenes con resolución 2K, pueden escalar a 4K y admiten hasta 14 imágenes de referencia por prompt."
+              },
+              {
+                "t": "p",
+                "x": "Cada licencia de suscripción incluye 150 créditos por mes natural. Nano Banana 2 usa dos créditos por imagen generada o editada y cuatro para escalar a 4K; Nano Banana Pro usa tres y seis. Una vez agotados los 150 créditos mensuales, AI Visualizer cambia automáticamente al modelo Basic, que no consume créditos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "Imagen: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "El modelo Basic permite generar y refinar visuales de AI sin límite para estudios rápidos e iteraciones repetidas, con hasta dos imágenes de referencia por prompt."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Vectorworks에\nNano Banana 탑재",
+          "body": "Vectorworks 구독자는 Nano Banana로 매달 150 크레딧을 쓴다.",
+          "mini_headline": "Vectorworks, Nano Banana 탑재",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "이미지: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Vectorworks AI Visualizer 최신 버전은 고품질의 사실적인 AI-generated 비주얼을 위해 Google Nano Banana를 포함한 새 모델 두 가지를 제공한다. Vectorworks 2027 구독자는 이제 AI Visualizer 팔레트에서 Google의 Nano Banana 2와 Nano Banana Pro 모델을 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2는 디자인 과정 내내 콘셉트를 시험하고 비주얼을 반복 수정하는 데 알맞고, Nano Banana Pro는 중요한 프레젠테이션이나 결과물에 쓸 더 정교한 이미지를 만드는 데 도움이 된다. 두 모델 모두 2K 해상도로 이미지를 생성·편집하고, 4K로 업스케일할 수 있으며, 프롬프트당 최대 14장의 참조 이미지를 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "구독 라이선스마다 매달 150 크레딧이 주어진다. Nano Banana 2는 이미지 한 장을 생성하거나 편집할 때 두 크레딧, 4K 업스케일에 네 크레딧을 쓰고, Nano Banana Pro는 각각 세 크레딧과 여섯 크레딧을 쓴다. 월 150 크레딧을 다 쓰면 AI Visualizer는 크레딧이 필요 없는 Basic 모델로 자동 전환된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "이미지: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Basic 모델은 빠른 스터디와 반복 작업을 위해 AI 비주얼을 제한 없이 생성하고 다듬을 수 있게 하며, 프롬프트당 최대 두 장의 참조 이미지를 지원한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Vectorworksに\nNano Banana搭載",
+          "body": "Vectorworksの契約者はNano Bananaで毎月150クレジットを使える。",
+          "mini_headline": "VectorworksにNano Banana搭載",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "画像: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Vectorworksの AI Visualizer 最新版は、高品質でリアルな AI-generated ビジュアルのため、GoogleのNano Bananaを含む新モデル二つを提供する。Vectorworks 2027 のサブスクリプションがあれば、AI Visualizer パレットでGoogleの Nano Banana 2 と Nano Banana Pro を使える。"
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2 はデザイン過程を通じてコンセプトを試し、ビジュアルを反復するのに向き、Nano Banana Pro は重要なプレゼンテーションや成果物向けにより精細な画像を作るのに役立つ。両モデルとも 2K 解像度で画像を生成・編集し、4K へのアップスケールが可能で、プロンプトごとに最大 14 枚の参照画像に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "各サブスクリプションライセンスには暦月ごとに 150 クレジットが含まれる。Nano Banana 2 は生成または編集した画像一枚につき二クレジット、4K へのアップスケールに四クレジットを使い、Nano Banana Pro はそれぞれ三と六を使う。月 150 クレジットを使い切ると、AI Visualizer はクレジット不要の Basic モデルに自動で切り替わる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "画像: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Basic モデルは、素早いスタディや繰り返しの反復のために AI ビジュアルを無制限に生成・調整でき、プロンプトごとに最大二枚の参照画像に対応する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Vectorworks新增\nNano Banana模型",
+          "body": "Vectorworks订阅用户现可用Nano Banana渲染，每个许可证每月150积分。",
+          "mini_headline": "Vectorworks新增Nano Banana",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "图片：© Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Vectorworks AI Visualizer 的最新版本提供两款新模型，其中包括 Google 的 Nano Banana，可生成高质量、逼真的 AI-generated 视觉效果。拥有 Vectorworks 2027 订阅的用户，现在可以在 AI Visualizer 面板中使用 Google 的 Nano Banana 2 和 Nano Banana Pro 模型。"
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2 适合在整个设计过程中测试概念、反复迭代视觉效果，而 Nano Banana Pro 则有助于为重要的演示或交付物制作更精细的图像。两款模型均以 2K 分辨率生成和编辑图像，可放大至 4K，每条提示词最多支持 14 张参考图像。"
+              },
+              {
+                "t": "p",
+                "x": "每个订阅许可证每个日历月包含 150 积分。Nano Banana 2 每生成或编辑一张图像消耗两个积分，放大至 4K 消耗四个；Nano Banana Pro 则分别消耗三个和六个。每月 150 积分用完后，AI Visualizer 会自动切换到无需积分的 Basic 模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "图片：© Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "Basic 模型可无限次生成和优化 AI 视觉效果，适用于快速研究和反复迭代，每条提示词最多支持两张参考图像。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Vectorworks incorpora\nlos modelos Nano Banana",
+          "body": "Los suscriptores de Vectorworks ya pueden renderizar con modelos Nano Banana, con 150 créditos por licencia al mes.",
+          "mini_headline": "Vectorworks incorpora Nano Banana",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+                "cap": "Imagen: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "La última versión de AI Visualizer de Vectorworks ofrece dos nuevos modelos, entre ellos Nano Banana de Google, para obtener visuales AI-generated realistas y de alta calidad. Con una suscripción a Vectorworks 2027, ya es posible acceder a los modelos Nano Banana 2 y Nano Banana Pro de Google en la paleta de AI Visualizer."
+              },
+              {
+                "t": "p",
+                "x": "Nano Banana 2 es ideal para probar conceptos e iterar sobre los visuales a lo largo del proceso de diseño, mientras que Nano Banana Pro ayuda a crear una imagen más detallada para una presentación o entrega importante. Ambos modelos generan y editan imágenes con resolución 2K, pueden escalar a 4K y admiten hasta 14 imágenes de referencia por prompt."
+              },
+              {
+                "t": "p",
+                "x": "Cada licencia de suscripción incluye 150 créditos por mes natural. Nano Banana 2 usa dos créditos por imagen generada o editada y cuatro para escalar a 4K; Nano Banana Pro usa tres y seis. Una vez agotados los 150 créditos mensuales, AI Visualizer cambia automáticamente al modelo Basic, que no consume créditos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+                "cap": "Imagen: © Vectorworks"
+              },
+              {
+                "t": "p",
+                "x": "El modelo Basic permite generar y refinar visuales de AI sin límite para estudios rápidos e iteraciones repetidas, con hasta dos imágenes de referencia por prompt."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ai-time-savings",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 아껴준 디자이너의\n시간은 어디로 가나",
+      "body": "UX 실무자 521명 설문으로 AI가 아낀 시간의 행방과 지키는 법을 짚는다.",
+      "mini_headline": "AI가 아낀 시간 지키기",
+      "tool": "AI Workflow",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+            "cap": "사진: cottonbro studio"
+          },
+          {
+            "t": "p",
+            "x": "일은 그 어느 때보다 빨라졌는데 하루는 조금도 짧아지지 않았다. Nielsen Norman Group이 UX 실무자 521명을 설문한 결과를 최근 내놨다. 응답자들은 AI가 작업 시간에 주는 효과를 5점 만점에 4.2점으로 매겼다. 그런데 직장에서 AI를 어떻게 느끼는지 묻자 평균은 5점 만점에 3.57점에 그쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+          },
+          {
+            "t": "p",
+            "x": "의견의 69%에는 어느 정도 부정적인 정서가 묻어났다. 믿기 어려운 결과물과 그걸 검증하는 부담이 그 중심에 있었다. NN/g는 AI가 아껴준 시간이 그 시간을 아낀 사람에게 남는 일은 드물다고 결론 내렸다. Kai Wong은 이를 Jevons 역설, 그리고 Peter Merholz가 말한 “가독성 격차(legibility gap)”와 잇는다. 화면 뒤에서 하는 리서치와 반복 작업, AI-checking은 원래 눈에 띄지 않는다는 얘기다."
+          },
+          {
+            "t": "p",
+            "x": "B2B 보안 기업의 한 Head of Design은 Claude Code 덕분에 나흘 걸리던 Figma-to-code 작업이 약 여덟 시간으로 줄었다고 한다. 다만 “결과물은 여전히 똑같은 수준으로 꼼꼼히 검토해야 한다”고 덧붙인다."
+          },
+          {
+            "t": "p",
+            "x": "그의 조언은 “모든 것의 시간을 재라(Time everything)”다. 절감 전후 시간을 기록하고, 검증할 시간은 처음부터 떼어 두고, 보이지 않는 검토는 눈에 보이는 의사결정 문서로 남기고, 시간이 어디에 쓰였는지는 적극적으로 알리라는 것이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Where the time AI saves\ndesigners actually goes",
+          "body": "A survey of 521 UX professionals shows where AI's time savings go, and the piece explains how to keep them.",
+          "mini_headline": "Keeping AI's saved time",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "Photo by cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "You're faster than ever, and your days aren't any shorter. The Nielsen Norman Group just published a survey of 521 UX practitioners: respondents rated AI's effect on task time at 4.2 out of 5, yet when asked how they felt about AI at work, the average was only 3.57 out of 5."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "69% of the comments expressed some negative sentiment, led by unreliable output and the burden of checking it. NN/g's conclusion was that the time AI saves rarely stays with the person who saved it. Kai Wong ties this to the Jevons paradox and to Peter Merholz's “legibility gap”: the research, iteration and AI-checking behind screens is invisible by default."
+              },
+              {
+                "t": "p",
+                "x": "A Head of Design at a B2B security company says Claude Code cut a four-day Figma-to-code process to about eight hours, yet “you still have to scrutinize the outputs to the same degree.”"
+              },
+              {
+                "t": "p",
+                "x": "His advice: “Time everything.” Track before-and-after savings, claim validation time up front, turn invisible scrutiny into a visible decision document, and pitch where your time went."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 아껴준 디자이너의\n시간은 어디로 가나",
+          "body": "UX 실무자 521명 설문으로 AI가 아낀 시간의 행방과 지키는 법을 짚는다.",
+          "mini_headline": "AI가 아낀 시간 지키기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "사진: cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "일은 그 어느 때보다 빨라졌는데 하루는 조금도 짧아지지 않았다. Nielsen Norman Group이 UX 실무자 521명을 설문한 결과를 최근 내놨다. 응답자들은 AI가 작업 시간에 주는 효과를 5점 만점에 4.2점으로 매겼다. 그런데 직장에서 AI를 어떻게 느끼는지 묻자 평균은 5점 만점에 3.57점에 그쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "의견의 69%에는 어느 정도 부정적인 정서가 묻어났다. 믿기 어려운 결과물과 그걸 검증하는 부담이 그 중심에 있었다. NN/g는 AI가 아껴준 시간이 그 시간을 아낀 사람에게 남는 일은 드물다고 결론 내렸다. Kai Wong은 이를 Jevons 역설, 그리고 Peter Merholz가 말한 “가독성 격차(legibility gap)”와 잇는다. 화면 뒤에서 하는 리서치와 반복 작업, AI-checking은 원래 눈에 띄지 않는다는 얘기다."
+              },
+              {
+                "t": "p",
+                "x": "B2B 보안 기업의 한 Head of Design은 Claude Code 덕분에 나흘 걸리던 Figma-to-code 작업이 약 여덟 시간으로 줄었다고 한다. 다만 “결과물은 여전히 똑같은 수준으로 꼼꼼히 검토해야 한다”고 덧붙인다."
+              },
+              {
+                "t": "p",
+                "x": "그의 조언은 “모든 것의 시간을 재라(Time everything)”다. 절감 전후 시간을 기록하고, 검증할 시간은 처음부터 떼어 두고, 보이지 않는 검토는 눈에 보이는 의사결정 문서로 남기고, 시간이 어디에 쓰였는지는 적극적으로 알리라는 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで浮いたデザイナーの時間\n実際はどこへ行くのか",
+          "body": "UX専門家521人の調査から、AIで浮いた時間の行方と、それを守る方法を解説する。",
+          "mini_headline": "AIで浮いた時間を守る",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "写真: cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "仕事はかつてなく速くなったのに、一日は少しも短くならない。Nielsen Norman GroupがUX実務者521人を対象にした調査を発表した。回答者はAIが作業時間に与える効果を5点満点中4.2と評価したが、職場でのAIをどう感じるかという問いへの平均は5点満点中3.57にとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "コメントの69%には何らかの否定的な感情が表れており、その筆頭は出力の信頼性の低さと、それを確認する負担だった。NN/gの結論は、AIが節約した時間は、節約した本人の手元にはめったに残らないというものだ。Kai Wongはこれを、Jevonsのパラドックスや、Peter Merholzの言う「可読性のギャップ（legibility gap）」と結びつける。画面の裏にあるリサーチや反復、AI-checkingは、初期状態では見えないのだ。"
+              },
+              {
+                "t": "p",
+                "x": "B2Bセキュリティ企業のHead of Designは、Claude CodeによってFigma-to-codeの工程が四日間から約八時間に縮んだが、それでも「出力は同じ程度に精査しなければならない」と話す。"
+              },
+              {
+                "t": "p",
+                "x": "彼の助言は「すべての時間を計れ（Time everything）」だ。前後の節約時間を記録し、検証にかかる時間を最初に確保し、見えない精査を目に見える意思決定文書に変え、自分の時間がどこに使われたかを売り込むべきだという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI为设计师省下的时间\n究竟去了哪里",
+          "body": "一项针对521名UX从业者的调查揭示AI省下的时间去向，并探讨如何守住它。",
+          "mini_headline": "守住AI省下的时间",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "摄影：cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "你的速度前所未有地快，可你的一天并没有变短。Nielsen Norman Group刚刚发布了一项针对521名UX从业者的调查：受访者给AI对任务耗时的影响打出4.2分（满分5分），但被问及在工作中对AI的感受时，平均分只有3.57分（满分5分）。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "69%的评论流露出某种负面情绪，主要源于输出不可靠以及核查输出的负担。NN/g的结论是，AI节省下来的时间很少留在节省时间的人手里。Kai Wong将此与Jevons悖论以及Peter Merholz提出的“可读性鸿沟”（legibility gap）联系起来：屏幕背后的研究、迭代和AI-checking默认是看不见的。"
+              },
+              {
+                "t": "p",
+                "x": "一家B2B安全公司的Head of Design表示，Claude Code把原本需要四天的Figma-to-code流程缩短到约八小时，但“你仍然得以同样的力度仔细审查输出”。"
+              },
+              {
+                "t": "p",
+                "x": "他的建议是：“Time everything（一切都要计时）。”记录节省前后的时间，事先把验证时间算进去，把看不见的审查变成看得见的决策文档，并主动说明你的时间花在了哪里。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Adónde va el tiempo que la AI\nahorra a los diseñadores",
+          "body": "Una encuesta a 521 profesionales de UX muestra adónde va el tiempo que ahorra la AI y el texto explica cómo conservarlo.",
+          "mini_headline": "Conservar el tiempo que ahorra la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "Foto de cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "Trabajas más rápido que nunca, y tus días no son más cortos. El Nielsen Norman Group acaba de publicar una encuesta a 521 profesionales de UX: los encuestados calificaron el efecto de la AI en el tiempo de las tareas con 4.2 sobre 5, pero al preguntarles cómo se sentían respecto a la AI en el trabajo, la media fue de solo 3.57 sobre 5."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "El 69% de los comentarios expresó algún sentimiento negativo, encabezado por la falta de fiabilidad de los resultados y la carga de verificarlos. La conclusión de NN/g fue que el tiempo que ahorra la AI rara vez se queda con quien lo ahorró. Kai Wong relaciona esto con la paradoja de Jevons y con la “brecha de legibilidad” (legibility gap) de Peter Merholz: la investigación, la iteración y el AI-checking que hay detrás de las pantallas son invisibles por defecto."
+              },
+              {
+                "t": "p",
+                "x": "Un Head of Design de una empresa de seguridad B2B cuenta que Claude Code redujo un proceso Figma-to-code de cuatro días a unas ocho horas, pero que “hay que seguir examinando los resultados con el mismo rigor”."
+              },
+              {
+                "t": "p",
+                "x": "Su consejo: “Mídelo todo” (Time everything). Registrar el ahorro de tiempo antes y después, reservar desde el principio el tiempo de validación, convertir el escrutinio invisible en un documento de decisiones visible y explicar adónde se fue el tiempo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI가 아껴준 디자이너의\n시간은 어디로 가나",
+          "body": "UX 실무자 521명 설문으로 AI가 아낀 시간의 행방과 지키는 법을 짚는다.",
+          "mini_headline": "AI가 아낀 시간 지키기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "사진: cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "일하는 속도는 그 어느 때보다 빨라졌는데, 하루는 조금도 짧아지지 않았다. Nielsen Norman Group이 최근 UX 실무자 521명을 대상으로 한 설문 결과를 발표했다. 응답자들은 AI가 작업 시간에 미치는 효과를 5점 만점에 4.2점으로 평가했지만, 직장에서 AI를 어떻게 느끼는지 묻자 평균은 5점 만점에 3.57점에 그쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "의견의 69%는 어느 정도 부정적인 정서를 드러냈고, 그 중심에는 신뢰하기 어려운 결과물과 이를 검증하는 부담이 있었다. NN/g의 결론은 AI가 아껴준 시간이 그것을 아낀 사람에게 남는 경우가 드물다는 것이었다. Kai Wong은 이를 Jevons 역설, 그리고 Peter Merholz가 말한 “가독성 격차(legibility gap)”와 연결한다. 화면 뒤의 리서치, 반복 작업, AI-checking은 기본적으로 보이지 않는다는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "B2B 보안 기업의 Head of Design은 Claude Code 덕분에 나흘 걸리던 Figma-to-code 과정이 약 여덟 시간으로 줄었지만, “결과물은 여전히 똑같은 수준으로 꼼꼼히 검토해야 한다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "그의 조언은 “모든 것의 시간을 재라(Time everything)”는 것이다. 절감 전후의 시간을 기록하고, 검증에 드는 시간을 처음부터 확보하고, 보이지 않는 검토를 눈에 보이는 의사결정 문서로 바꾸고, 시간이 어디에 쓰였는지 적극적으로 알리라는 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで浮いたデザイナーの時間\n実際はどこへ行くのか",
+          "body": "UX専門家521人の調査から、AIで浮いた時間の行方と、それを守る方法を解説する。",
+          "mini_headline": "AIで浮いた時間を守る",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "写真: cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "仕事はかつてなく速くなったのに、一日は少しも短くならない。Nielsen Norman GroupがUX実務者521人を対象にした調査を発表した。回答者はAIが作業時間に与える効果を5点満点中4.2と評価したが、職場でのAIをどう感じるかという問いへの平均は5点満点中3.57にとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "コメントの69%には何らかの否定的な感情が表れており、その筆頭は出力の信頼性の低さと、それを確認する負担だった。NN/gの結論は、AIが節約した時間は、節約した本人の手元にはめったに残らないというものだ。Kai Wongはこれを、Jevonsのパラドックスや、Peter Merholzの言う「可読性のギャップ（legibility gap）」と結びつける。画面の裏にあるリサーチや反復、AI-checkingは、初期状態では見えないのだ。"
+              },
+              {
+                "t": "p",
+                "x": "B2Bセキュリティ企業のHead of Designは、Claude CodeによってFigma-to-codeの工程が四日間から約八時間に縮んだが、それでも「出力は同じ程度に精査しなければならない」と話す。"
+              },
+              {
+                "t": "p",
+                "x": "彼の助言は「すべての時間を計れ（Time everything）」だ。前後の節約時間を記録し、検証にかかる時間を最初に確保し、見えない精査を目に見える意思決定文書に変え、自分の時間がどこに使われたかを売り込むべきだという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI为设计师省下的时间\n究竟去了哪里",
+          "body": "一项针对521名UX从业者的调查揭示AI省下的时间去向，并探讨如何守住它。",
+          "mini_headline": "守住AI省下的时间",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "摄影：cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "你的速度前所未有地快，可你的一天并没有变短。Nielsen Norman Group刚刚发布了一项针对521名UX从业者的调查：受访者给AI对任务耗时的影响打出4.2分（满分5分），但被问及在工作中对AI的感受时，平均分只有3.57分（满分5分）。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "69%的评论流露出某种负面情绪，主要源于输出不可靠以及核查输出的负担。NN/g的结论是，AI节省下来的时间很少留在节省时间的人手里。Kai Wong将此与Jevons悖论以及Peter Merholz提出的“可读性鸿沟”（legibility gap）联系起来：屏幕背后的研究、迭代和AI-checking默认是看不见的。"
+              },
+              {
+                "t": "p",
+                "x": "一家B2B安全公司的Head of Design表示，Claude Code把原本需要四天的Figma-to-code流程缩短到约八小时，但“你仍然得以同样的力度仔细审查输出”。"
+              },
+              {
+                "t": "p",
+                "x": "他的建议是：“Time everything（一切都要计时）。”记录节省前后的时间，事先把验证时间算进去，把看不见的审查变成看得见的决策文档，并主动说明你的时间花在了哪里。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Adónde va el tiempo que la AI\nahorra a los diseñadores",
+          "body": "Una encuesta a 521 profesionales de UX muestra adónde va el tiempo que ahorra la AI y el texto explica cómo conservarlo.",
+          "mini_headline": "Conservar el tiempo que ahorra la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+                "cap": "Foto de cottonbro studio"
+              },
+              {
+                "t": "p",
+                "x": "Trabajas más rápido que nunca, y tus días no son más cortos. El Nielsen Norman Group acaba de publicar una encuesta a 521 profesionales de UX: los encuestados calificaron el efecto de la AI en el tiempo de las tareas con 4.2 sobre 5, pero al preguntarles cómo se sentían respecto a la AI en el trabajo, la media fue de solo 3.57 sobre 5."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+              },
+              {
+                "t": "p",
+                "x": "El 69% de los comentarios expresó algún sentimiento negativo, encabezado por la falta de fiabilidad de los resultados y la carga de verificarlos. La conclusión de NN/g fue que el tiempo que ahorra la AI rara vez se queda con quien lo ahorró. Kai Wong relaciona esto con la paradoja de Jevons y con la “brecha de legibilidad” (legibility gap) de Peter Merholz: la investigación, la iteración y el AI-checking que hay detrás de las pantallas son invisibles por defecto."
+              },
+              {
+                "t": "p",
+                "x": "Un Head of Design de una empresa de seguridad B2B cuenta que Claude Code redujo un proceso Figma-to-code de cuatro días a unas ocho horas, pero que “hay que seguir examinando los resultados con el mismo rigor”."
+              },
+              {
+                "t": "p",
+                "x": "Su consejo: “Mídelo todo” (Time everything). Registrar el ahorro de tiempo antes y después, reservar desde el principio el tiempo de validación, convertir el escrutinio invisible en un documento de decisiones visible y explicar adónde se fue el tiempo."
               }
             ]
           }

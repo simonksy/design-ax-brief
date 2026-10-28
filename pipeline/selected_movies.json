@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "movies",
   "items": [
     {
-      "title": "DaVinci Resolve is Getting Faster as Latest Update Boosts IntelliSearch and OGraf Playback",
-      "url": "https://nofilmschool.com/davinci-resolve-update-21-1-2",
-      "source": "No Film School",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "New version: DaVinci Resolve 21.1.2 makes AI IntelliSearch media analysis up to 14x faster on Apple M6 and improves timeline editing. It is a point release editors can install today.",
-      "published_iso": "2026-10-27T14:10:45+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68536481&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Blackmagic's DaVinci Resolve 21.1.2 promises up to 14x faster AI-driven IntelliSearch media analysis on Apple M6, along with improved timeline editing and faster OGraf playback."
-    },
-    {
-      "title": "SNTPCT Calls for 2-Hour Walkout of French Animation and VFX Workers",
-      "url": "https://www.awn.com/news/sntpct-calls-2-hour-walkout-french-animation-and-vfx-workers",
-      "source": "Animation World Network",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "New labor action: France's largest animation union has called a walkout for Nov. 18. One of its demands is a GenAI amendment that would stop employers from compelling workers to use or develop GenAI tools. That would set a concrete contract precedent for artists.",
-      "published_iso": "2026-10-27T09:17:15-07:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081637-sntpct-flyer-1a.jpg?itok=d-K9lh0m",
-      "excerpt": "France's majority animation union calls a Nov. 18 walkout pressing producers on pay and a generative AI amendment barring employers from compelling workers to use or develop GenAI tools."
-    },
-    {
-      "title": "This AI trick Magically Creates New Camera Angles",
-      "url": "https://www.youtube.com/watch?v=EPYh_bgXJBk",
-      "source": "Curious Refuge",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "Hands-on technique: a demo of generating new camera angles from existing footage. Filmmakers can try it on their next AI project.",
-      "published_iso": "2026-10-13T16:03:32-07:00",
-      "og_image": "https://i.ytimg.com/vi/EPYh_bgXJBk/maxresdefault.jpg",
-      "excerpt": "Curious Refuge demonstrates an AI technique for generating new camera angles from existing footage for AI filmmaking."
-    },
-    {
-      "title": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
-      "source": "Runway",
-      "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Primary source: Runway's safety leads explain how moderation works once video is generated in real time. Teams building on these tools learn which content guardrails they will hit.",
-      "published_iso": "2026-10-19T07:00:28-07:00",
-      "og_image": "https://i.ytimg.com/vi/NAKB5ixP6Kw/maxresdefault.jpg",
-      "excerpt": "Runway's Eliza Jacobs and Conner McDowell discuss safety and moderation approaches for real-time AI video generation at Runway AI Summit SF 2026."
+      "title": "ByteDance launches Seedance 2.5 4K video model for film production",
+      "headline": "ByteDance launches Seedance 2.5 4K video model for film production",
+      "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
+      "source": "TechNode",
+      "published_iso": "2026-10-23T13:51:44+00:00",
+      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+      "excerpt": "Volcano Engine's Seedance 2.5 4K targets film and TV production with 10-bit color, better facial expressions and fine detail, and a 480p Draft mode for testing shots and storyboards before final 4K renders. It is in trials with selected enterprise customers.",
+      "rationale": "Concrete new model release aimed at film/TV finishing (4K, 10-bit, cheap 480p draft pass) that changes previz-to-final workflows; no prior Seedance 2.5 4K card."
     },
     {
-      "title": "브이캣, 일본 TV아사히 사극 '사나다 주유시' AI 영상 제작 참여…넷플릭스 공개",
-      "url": "https://www.venturesquare.net/1122539/",
-      "source": "VentureSquare",
-      "category": "movies",
       "tool": "Movies",
-      "accent": "#00a86b",
+      "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Concrete deployment: Korean AI video studio VCAT produced AI shots for TV Asahi/Toei's 7-part period drama, mixing AI with live action and VFX for hard action scenes. The series airs on TV Asahi and streams on Netflix, so this is generative AI shipping inside a mainstream broadcast drama.",
-      "published_iso": "2026-10-23T14:01:18+09:00",
-      "og_image": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-      "excerpt": "Korean AI video studio VCAT produced AI shots for TV Asahi/Toei's 7-part period drama, combining live action with AI and VFX for difficult action scenes; the series airs on TV Asahi and streams on Netflix, and an AI-only promo ran in Times Square."
+      "title": "ByteDance launches AI studio for short-drama production",
+      "headline": "ByteDance launches AI studio for short-drama production",
+      "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+      "source": "TechNode",
+      "published_iso": "2026-10-27T05:51:08+00:00",
+      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+      "excerpt": "ByteDance's Jimeng AI launched a short-drama studio that puts script development, character and scene creation, storyboarding, video production and post into one workflow, using its in-house DreamScript, Anycook and DreamShot models.",
+      "rationale": "New end-to-end production product (script to post) for the microdrama format the section has tracked as a trend; a product launch, distinct from the 10-21 microdrama market report."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "title": "Oscars Will 'Always' Reward Human Excellence in AI Era, Academy Chiefs Say",
+      "headline": "Oscars Will 'Always' Reward Human Excellence in AI Era, Academy Chiefs Say",
+      "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/",
+      "source": "Variety",
+      "published_iso": "2026-10-28T03:48:43+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Academy president Lynette Howell Taylor tells Variety in Tokyo that the Oscars will keep honoring human-driven work as AI spreads through filmmaking, while leadership leaves the door open to tweaking international feature rules.",
+      "rationale": "Academy leadership's on-record stance on AI and awards eligibility is a signal every filmmaker using AI tools needs; fresh (10-28) and not covered before."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "Rintaro On Anime's Aversion To Risk: 'There Will Be No Future'",
+      "headline": "Rintaro On Anime's Aversion To Risk: 'There Will Be No Future'",
+      "url": "https://www.cartoonbrew.com/interviews/rintaro-interview-busan-metropolis-galaxy-express-268512.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-10-28T18:21:01+00:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+      "excerpt": "At Busan, the 'Galaxy Express 999' and 'Metropolis' director ties anime's remake culture to generative AI, arguing AI 'recommends the mean or the average' and pushes toward remaking past works instead of creating something new.",
+      "rationale": "A legendary anime director's specific critique linking generative AI to remake culture; animation voice and outlet diversity, distinct from earlier Busan AI cards."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "title": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
+      "headline": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
+      "url": "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/",
+      "source": "Variety",
+      "published_iso": "2026-10-16T08:36:57+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+      "excerpt": "ATF adds 'The AI Era | Entertainment Reimagined' strand and zone on AI in content creation, IP rights and regulation, plus the final round of AI Hackathon 2026 with a live creative contest and screenings.",
+      "rationale": "New program announcement from a different market (Singapore ATF) than the Busan ACFM story it loosely resembles; gives the section a market/events slot."
     }
   ],
   "dedup": {
     "checks": {
-      "https://nofilmschool.com/davinci-resolve-update-21-1-2": {
+      "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/": {
         "verdict": "new",
-        "nearest": "https://www.redsharknews.com/eddie-ai-update-plan-first-resolve-studio-panel",
+        "nearest": "https://www.youtube.com/watch?v=U4231qULtm8",
         "new_action": ""
       },
-      "https://www.awn.com/news/sntpct-calls-2-hour-walkout-french-animation-and-vfx-workers": {
+      "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/": {
         "verdict": "new",
-        "nearest": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
+        "nearest": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=EPYh_bgXJBk": {
+      "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=BExtQ740QgM",
+        "nearest": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=NAKB5ixP6Kw": {
+      "https://www.cartoonbrew.com/interviews/rintaro-interview-busan-metropolis-galaxy-express-268512.html": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=K7Q7FESRHJY",
+        "nearest": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
         "new_action": ""
       },
-      "https://www.venturesquare.net/1122539/": {
+      "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
+        "nearest": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
         "new_action": ""
       }
     },
-    "note": "Second swap on 10-28: I removed the THR TIFFCOM / Kaori Ikeda pick and its check. The enrichment fetch showed AI is only incidental in the body: one keynote mention plus reporter narration. I found no qualifying replacement, so the section ships 4 cards. Every remaining candidate was ruled out. Engadget Apple Creator Studio runs in music today. The Verge Google Genie 4 runs in games today. postPerspective's Resolve Studio discount is the same M6 AI-speedup push as the kept NFS Resolve 21.1.2 pick. Cartoon Brew's View Conference directors panel (10-15) is a same-outlet running story with the 10-16 View Conference AI/jobs card, and AI is one topic among several there. Dropped as history repeats: THR DuVernay '14th' (10-19 IndieWire), Deadline AI joke theft (10-17 THR), Verge Blue Planet III (10-20 Deadline), PVC FilmCraft hands-on (10-19 CineD ArtCraft) and Curious Refuge sound design (10-03 likely-repeat). Runway App Studio was published 10-27. Earlier swap: Engadget Apple Creator Studio was replaced by the Runway safety talk. RECOVERY PASS 2 (fifth card): added VentureSquare VCAT x TV Asahi 'Sanada Juyushi' AI shots (concrete deployment in a broadcast drama streaming on Netflix; no TV Asahi/VCAT story in 30-day history). Rejected from recovery pool: NFS Topview Film Studio 2.0 (flagged partner/advertorial; also would be a 2nd NFS card), Variety VelociPastor 2 (review, AI is framing), Cartoon Brew Loud House (runaway production lead, AI incidental), THR Aardman at 50 (AI one section; THR already swapped out today for incidental AI), THR Siebel Newsom (AI documentary subject, no craft hook), Deadline legacy IP roundtable (AI one section), Deadline Pzaz advisory board (exec-moves noise), Deadline RisingJoy x NTT DOCOMO (distribution deal lead; related to 10-05 MForMedia pact), VentureSquare Hudson AI dubbing agent (runner-up; press-release-style PoC announcement, AI dubbing covered 10-08 DittoDub and 10-27 Ramayana), VentureSquare Studio Yeoubyeol interview (10-16, profile/interview), Korea Herald Netflix localization (AI a side remark). Diversity: 5 distinct outlets. Orchestrator should exact-grep published_urls.json for venturesquare.net/1122539, NAKB5ixP6Kw and EPYh_bgXJBk before roll."
+    "note": "Dropped: Genie 4 (The Verge) - DeepMind Genie 4 already ran in games 10-28 (cross-section). Apple Creator Studio/MotionVFX (RedShark) - same Apple Creator Studio update ran in music 10-28. CorridorKey 2.0 launch (Corridor Crew) - same launch published in movies 10-17 ('CorridorKey 2.0 just works...'). Iron Goddess mystery model (Theoretically Media) - likely the same unclaimed 'secret video model' published 10-23 (qlSI_ZbRdEc); not a new release. Kling 4 vs Seedance 2.5 (AI Video School) - comparison on the Kling 4 launch already published 9-29, no new release, and overlaps the Seedance pick. Shirjara (Variety) - AI only as a film theme. Hollywood Animation Directors at View (Cartoon Brew) - AI incidental to the panel and adjacent to the published 10-16 View roundtable. Singapore ATF kept: different market/event from the Busan ACFM history_match. Cross-section exact-grep of published_urls.json was not possible with available tools (file too large for Read, no Grep); orchestrator should exact-grep the 5 picked URLs plus 'Seedance 2.5 4K', 'Jimeng', 'Rintaro', 'Academy'/'Howell Taylor', 'Asia TV Forum' before roll."
   }
 }

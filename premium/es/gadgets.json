@@ -9975,6 +9975,133 @@
           "x": "Con modelos de AI de empresas como OpenAI y Anthropic en mejora constante, es positivo ver que Apple ya itera sobre Siri AI tan poco después de su lanzamiento. Cabe esperar que el asistente siga mejorando con cada nueva actualización de software."
         }
       ]
+    },
+    "gadgets/gadgets-xreal-aura-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "XREAL anunció que XREAL AURA, las primeras gafas AR con el sistema operativo Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado. Está previsto que el primer lote empiece a enviarse a mid-November, primero en US, Canadá, Japón y Corea del Sur."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+          "cap": "Cortesía de XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Descuento de lanzamiento hasta December 2026: Xreal Aura 12GB + 256GB: $1,099, precio habitual $1,279; 16GB + 512GB: $1,299, precio habitual $1,499."
+        },
+        {
+          "t": "p",
+          "x": "La óptica transparente de tipo prisma de Aura ofrece un campo de visión de 70 grados en un conjunto de menos de 95 gramos. Se conecta por cable a una unidad de cómputo de bolsillo con el chipset Snapdragon Reality Elite de Qualcomm para el procesamiento XR y las cargas de trabajo de AI, y con el X1S Spatial Coprocessor de Xreal. Admite 6DOF y seguimiento de manos, apps de Play Store, y llega con más de 150 experiencias made-for-XR."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+          "cap": "Cortesía de XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Xreal también presentó un mando diseñado con GameSir que incluye una tecla Gemini dedicada y ofrece a los jugadores “una forma rápida de acceder a la asistencia de AI mientras juegan”, además de un teclado portátil inalámbrico. La unidad de cómputo integra la comprensión de contexto de Gemini AI."
+        }
+      ]
+    },
+    "gadgets/gadgets-copilot-tv-exit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+          "cap": "Imagen: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "Casi dos años después de que LG y Samsung anunciaran en CES 2025 que sus nuevos smart TVs incluirían acceso a Copilot de Microsoft, la compañía pondrá fin este año al soporte de las funciones del asistente de AI en todos los TVs, según un informe de Windows Central."
+        },
+        {
+          "t": "p",
+          "x": "La noticia procede de una notificación en pantalla de un LG TV: “Microsoft ha decidido recientemente poner fin al soporte de la funcionalidad de Copilot en todos los TVs, incluida la función Copilot-enabled disponible en nuestros LG TVs”. Indica que la función está “prevista para dejar de ofrecerse durante 2026” y que la fecha concreta está “sujeta al calendario de Microsoft”."
+        },
+        {
+          "t": "p",
+          "x": "El pasado diciembre, LG recibió críticas después de que una actualización de webOS añadiera un acceso directo a Copilot que no se podía eliminar; más tarde permitió borrarlo. Copilot funcionaba como un amable compañero de AI en los TVs, pero a principios de este año Microsoft presentó una “super app” de Copilot como parte de un esfuerzo por posicionarlo más como una herramienta empresarial y de productividad, y menos como un compañero digital."
+        }
+      ]
+    },
+    "gadgets/gadgets-openai-dot-text": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+          "cap": "OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "Cuando OpenAI presentó sus agentes Dot a finales del mes pasado, prometió que los usuarios podrían enviarles mensajes de texto para darles instrucciones. Ahora, casi un mes después, la compañía ha empezado a desplegar entre los usuarios Pro de US una vista previa que permite hacer justamente eso. Con la nueva función, según OpenAI, se pueden enviar a Dot textos, fotos e incluso notas de voz. También le da a Dot otra vía para contactar de forma proactiva con actualizaciones sobre las tareas que se le han asignado."
+        },
+        {
+          "t": "p",
+          "x": "Para configurar los mensajes con Dot, abre su perfil en ChatGPT y selecciona Texting. En el teléfono, asegúrate de tener activado iMessage si usas un iPhone, o RCS si tu dispositivo habitual es Android. OpenAI dice que se asoció con Linq para ofrecer la mensajería y que hizo pruebas de penetración “exhaustivas” para garantizar que la función sea segura. “Eres el único que puede enviar mensajes a tu dot, y tu dot solo puede enviarte mensajes a ti”, añade la compañía en X. Toda la información que Dot guarda en su memoria se comparte entre ChatGPT y los mensajes de texto, de modo que el contexto se mantiene entre conversaciones distintas."
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-synthid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+          "cap": "ChatGPT Image 2.5"
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes de la AI de Apple llevan ahora una marca invisible. Con iOS 27.2, el iPhone etiqueta todo lo que crea Image Playground con SynthID, la marca de agua desarrollada por Google. Apple anunció la medida en junio junto con el renovado Image Playground."
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes recién generadas siempre reciben la marca de agua. En las fotos editadas, depende de cuánto intervenga la AI: MacRumors comprobó que las imágenes modificadas con Extend y Reframe llevaban SynthID, mientras que con Clean Up los retoques pequeños quedaban sin marcar y los mayores recibían la marca de agua."
+        },
+        {
+          "t": "p",
+          "x": "SynthID se integra directamente en los píxeles, no en los metadatos. Google asegura que no afecta a la calidad de imagen y que resiste recortes, filtros y compresión. No se puede comprobar en el propio iPhone; hace falta SynthID Detector de Google, que la compañía abrió a todo el mundo a principios de octubre. Con Apple a bordo, SynthID está bastante más cerca de ser un verdadero estándar del sector."
+        }
+      ]
+    },
+    "gadgets/gadgets-ollama-tts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Rachit Agarwal / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Las apps de voz a texto inundan la App Store, pero escasean los buenos modelos de texto a voz, y la mayoría de los buenos exigen una suscripción. Ollama, una app de código abierto que permite ejecutar modelos de AI locales en el propio equipo, quiere cambiar eso. Funciona en macOS, Windows y Linux, y los prompts nunca se almacenan ni se usan para entrenar."
+        },
+        {
+          "t": "p",
+          "x": "Ollama ya admite modelos de texto a voz en el Mac, empezando por Phonon. Creado por Gradium, Phonon es una familia de modelos pequeños que convierte cualquier texto en voz directamente en el Mac. El soporte para Windows y Linux llegará pronto."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+          "cap": "Ollama"
+        },
+        {
+          "t": "p",
+          "x": "Se puede elegir entre voces como Zoey, Easton, Freya y Hugh, con acentos estadounidense y británico. Además del inglés, hay modelos para francés, alemán, español y portugués. Gracias al framework MLX de Apple, Ollama afirma que Phonon funciona un 35% más rápido que el runtime propio de Gradium en un MacBook Pro con M5 Max, sin perder precisión."
+        },
+        {
+          "t": "p",
+          "x": "Phonon puede combinarse con un modelo de chat para que lea sus respuestas en voz alta. La reproducción empieza tras la primera frase, así que no hace falta esperar a la respuesta completa."
+        },
+        {
+          "t": "p",
+          "x": "Para empezar se necesita un Mac con Apple Silicon y Ollama 0.40.11 o posterior. El modelo en inglés es de uso libre bajo Apache 2.0, pero los modelos en francés, alemán, español, portugués y multilingüe se limitan al uso no comercial."
+        }
+      ]
     }
   }
 }

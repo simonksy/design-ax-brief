@@ -2739,6 +2739,139 @@
           "x": "무척 흥미롭다..."
         }
       ]
+    },
+    "marketing/metaranking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta는 이제 노출 한 번마다 적격 광고 전부를 초당 십억 개 넘게 평가한다. 수요일 Meta가 발표한 광고 랭킹 개선 세 가지 가운데 하나다. 나머지 둘은 지난해 내놓은 광고 추천 모델 GEM의 업데이트와 LLMs 기반의 새 생성형 추천 모델(GenRecs)이다. GenRecs는 참여 데이터가 적어도 사람들이 보고 싶어 할 광고를 예측해 낸다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 랭킹 시스템을 개선한 결과 Q2 Facebook 클릭이 8.3%, 전환이 15.7% 늘었다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "GenRecs는 광고주·캠페인·크리에이티브 IDs를 개념으로 바꾼다. LLMs가 광고 텍스트와 이미지를 읽고 핵심 속성을 공유 시맨틱 토큰으로 기술하는 방식이다. 덕분에 콜드 스타트 문제가 줄고 학습 기간도 짧아진다. 그래도 Meta의 광고 인프라·랭킹·AI 기반 담당 VP Matt Steiner는 “여전히 학습은 필요하다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "GenRecs는 기존 모델과 나란히 돌아가는 새 생성형 검색 모델도 구동한다. Andromeda는 Meta와 Nvidia가 손잡고 하드웨어와 소프트웨어를 전면 개편했다. 새 GEM은 몸집이 더 커졌고 사용자마다 두 배 긴 이력을 읽는다. Meta는 이 방식으로 지난해 이후 전환이 약 19% 개선됐다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Steiner는 “랭킹 모델이 광고가 누구에게 맞을지 더 잘 고르게 되면서 타기팅의 중요성은 시간이 갈수록 줄고 있다”고 말했다."
+        }
+      ]
+    },
+    "marketing/stackadapt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+        },
+        {
+          "t": "p",
+          "x": "StackAdapt가 ChatGPT Ads용 크로스채널 리타기팅을 확대한다고 발표했다. 보도자료는 “광고주는 ChatGPT Ad를 본 소비자를 StackAdapt의 더 넓은 프로그래매틱 생태계 전반에서 리타기팅할 수 있다”고 밝힌다. 기준은 클릭이 아니라 노출이다. 세그먼트는 Data Hub에서 퍼스트파티 데이터, CRM 연동과 함께 관리한다."
+        },
+        {
+          "t": "p",
+          "x": "보도자료는 짧다. 출시 시장, 가격, 식별자, 고객사, 성과 중 어느 것도 밝히지 않는다. ChatGPT 안의 노출을 어떻게 기록하는지, 그 노출을 TV나 웹 페이지 속 사람과 어떻게 잇는지도 설명이 없다."
+        },
+        {
+          "t": "p",
+          "x": "인용된 인물은 StackAdapt 공동창업자 겸 최고기술책임자 Yang Han 한 명이고, OpenAI 임원의 발언은 없다. OpenAI는 광고주가 광고 성과에 관해 집계된 정보만 받는다고 말한다. EEA와 스위스에서는 개인화 없이 광고가 나갔다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI 도구는 대부분 광고주 데이터를 ChatGPT 쪽으로 옮겨 왔는데, StackAdapt 보도자료가 설명하는 흐름은 그 반대다. 10월 21일 OpenAI는 ChatGPT 광고를 26개국에 더 열어 총 89개국으로 늘렸다."
+        }
+      ]
+    },
+    "marketing/adexfraud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "광고 사기 차단 업체 ADEX는 2026년 1월부터 9월까지 광고 플랫폼 여덟 곳, 120만 개 캠페인에서 찾아낸 사기 수법 가운데 52%에 AI가 크게 관여했다고 밝혔다. 캠페인이나 계정 수가 아니라 서로 다른 사기 수법의 수를 센 결과다."
+        },
+        {
+          "t": "p",
+          "x": "AI가 관여한 수법 가운데 64%에 사람을 사칭하는 봇이, 53%에 브랜드 복제와 가짜 추천이, 11%에 딥페이크가 등장했다. 범주끼리는 서로 겹친다."
+        },
+        {
+          "t": "p",
+          "x": "ADEX의 최고제품책임자 Sergey Martianov는 “수법 자체는 몇 년째 그대로다. 믿을 만한 얼굴을 빌리고, 큰 수익을 약속하고, 피해자를 비공개 채팅으로 옮긴다. AI가 바꾼 것은 마무리다”라고 말했다. 거절된 캠페인이 몇 시간 만에 고쳐져 다시 들어온 경우도 있었다."
+        },
+        {
+          "t": "p",
+          "x": "ADEX는 2027년에 AI 쇼핑 에이전트를 노린 프롬프트 인젝션 공격이 나타날 것으로 본다. 다만 이는 “현재 모더레이션 데이터에서 측정하는 공격 범주가 아니라 예측”이다. Martianov는 “에이전트가 쇼핑을 한다면 누군가는 그 에이전트를 속이려 할 것”이라고 말했다."
+        }
+      ]
+    },
+    "marketing/clorox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+          "cap": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 발표하는 The Clorox Company CMO Eric Schwartz. ANA 사용 허가"
+        },
+        {
+          "t": "p",
+          "x": "Clorox CMO Eric Schwartz는 10월 22일 ANA Masters of Marketing 콘퍼런스에서 캠페인의 자리를 지속적 관련성의 시스템이 대신하게 됐다고 말했다. 사람이 움직이고 AI 자동화가 받치며 파트너가 증폭하는 엔진이다. 그는 “큰 아이디어 하나로 한 번 등장하는 게 아니다”라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Pine-Sol의 소셜 우선 세계관 “OMG Da Pine”은 한 달 평균 150건이 넘는 오가닉 게시물을 올리며 참여율 13%를 기록 중이다. TikTok Shop에 내놓은 한정판 제품 네 가지는 몇 시간 만에 매진됐다."
+        },
+        {
+          "t": "p",
+          "x": "Brita의 대량 콘텐츠 모델은 매달 에셋을 100개 넘게 만든다. 그 결과 참여 2,200만 건과 전년 대비 1,742% 늘어난 오가닉 노출을 얻었다."
+        },
+        {
+          "t": "p",
+          "x": "Clorox Pure는 AI 덕분에 재촬영 비용 없이 시장 신호에 맞춰 광고 크리에이티브를 최적화했다. Hidden Valley의 월드컵 랜치 모먼트는 600개가 넘는 소셜 콘텐츠와 60억 회가 넘는 노출을 낳았다."
+        },
+        {
+          "t": "p",
+          "x": "Schwartz는 “콘텐츠는 더 이상 출시 시점에 완성되지 않는다. 계속 나아지도록 만들어진다”고 말했다."
+        }
+      ]
+    },
+    "marketing/metaaiads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mountain View에서 합성 미디어 탐지 소프트웨어를 파는 Resemble AI가 2026년 10월 22일 연구 결과를 내놨다. Facebook과 Instagram 광고의 이미지·영상 파일 37,768개를 분석했더니 3,379개가 AI-generated(AI 생성)이거나 조작된 콘텐츠였다. 8.9%, 대략 11개에 한 개꼴이다. 이 3,379개 파일 중 광고 문구 어디에서든 AI를 언급한 건 두 개였다."
+        },
+        {
+          "t": "p",
+          "x": "2026 Synthetic Advertising Report는 2026년 9월 Meta 공개 광고 아카이브에서 모은 광고로 26개 업종 509개 기업을 살폈다. 가짜 이미지의 70%는 실사풍이었고 46%에는 사람이 나왔다. 출처 메타데이터를 확인한 971개 파일 중 C2PA 콘텐츠 자격증명이 들어 있는 파일은 하나도 없었다."
+        },
+        {
+          "t": "p",
+          "x": "브랜드 자체 페이지에서는 28,463개 파일 중 1,971개(6.9%)가 걸렸다. 표본 기준으로 Temu는 100개 중 64개, Wayfair는 100개 중 56개, Motel 6는 80개 중 50개, Lufthansa는 94개 중 50개에 AI를 썼다. 미끼 페이지가 집행한 649개 파일에서는 463개(71.3%)가 걸렸다. \"브랜드는 완성도를 꾸며내고, 미끼 페이지는 사람을 꾸며낸다.\""
+        },
+        {
+          "t": "p",
+          "x": "자사 광고에 AI를 썼다고 고지한 브랜드는 Turkish Airlines 한 곳뿐이었다. 문구 검색으로는 영상에 새겨진 라벨까지 잡지 못하니, 0.06%는 문자로 된 고지만 잰 수치다."
+        },
+        {
+          "t": "p",
+          "x": "New York의 합성 출연자 고지법은 2026년 6월 9일부터, EU AI Act Article 50(제50조)은 2026년 8월 2일부터 적용 중이다. 다만 이 보고서를 낸 곳은 결과에 상업적 이해관계가 직접 걸린 업체다."
+        }
+      ]
     }
   }
 }

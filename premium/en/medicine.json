@@ -2521,6 +2521,148 @@
           "x": "The FDA granted de novo market clearance for the CaRi-Heart technology in late July. It is the first technology that can visualize and clearly quantify coronary inflammation using FAI scores."
         }
       ]
+    },
+    "medicine/medicine-ed-fracture-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Artificial intelligence (AI) systems for fracture detection perform strongly in controlled settings, but prospective real-world evidence is limited. In a three-month deployment in one emergency department, thirteen radiographers in a radiographer-led screening programme independently interpreted 2496 consecutive musculoskeletal examinations (one radiographer per examination), reviewed output from a commercial deep-learning system, then recorded a final decision, giving 2496 paired reads against a radiologist reference standard."
+        },
+        {
+          "t": "p",
+          "x": "Standalone AI sensitivity was 75.6%, falling to 46.2% for subtle fractures, below the radiographers’ baseline sensitivity of 91.6%. Radiographers’ baseline accuracy was high (97.6%; specificity 99.0%) and improved modestly with AI assistance (98.0%; exact McNemar p = 0.0064). With AI assistance, radiographers corrected 11 errors and introduced 1, a net gain of 10 cases."
+        },
+        {
+          "t": "p",
+          "x": "Radiographers changed their decision in only 11 of 729 discordant cases, and most negative interactions were correct AI recommendations not adopted. No or incomplete AI output was returned for 8.8% of acquired examinations."
+        },
+        {
+          "t": "p",
+          "x": "AI assistance delivered a small, selective benefit arising from complementary rather than superior algorithmic performance. Operational reliability proved as consequential as diagnostic accuracy. Downstream clinical outcomes were not measured."
+        }
+      ]
+    },
+    "medicine/medicine-stanford-critical-results": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stanford Health developed an in-house large language model pipeline to flag critical results in pediatric radiology reports, presented by Pooja Pathak at SIIM-CAIMI 2026 in Philadelphia."
+        },
+        {
+          "t": "p",
+          "x": "The pipeline covers six categories: increased intracranial pressure, non-accidental trauma, malpositioned feeding tubes, unsuspected pneumoperitoneum, portal venous gas and tension pneumothorax. It runs locally on Llama 3.3 (70B), so no data leaves the institution and no commercial tool is needed."
+        },
+        {
+          "t": "p",
+          "x": "In validation on 916 reports, it reached 99.7% sensitivity and 97.9% specificity. From August 2024 to July 2026, it flagged 1,297 critical results among 182,047 finalized reports, with feeding tube malpositions the most common."
+        },
+        {
+          "t": "p",
+          "x": "Turnaround times and communication documentation stayed stable during deployment. Future work will focus on making the pipeline more context-aware and testing newer models."
+        }
+      ]
+    },
+    "medicine/medicine-ajou-thync": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Daewoong Pharmaceutical has built an AI-based real-time bed monitoring system at Ajou University Hospital. The company said on the 26th that it supplied its smart bed monitoring system thynC and began operating it in 342 beds across 7 wards."
+        },
+        {
+          "t": "p",
+          "x": "Ajou University Hospital started with its thoracic surgery and cardiology wards and has extended thynC to its emergency ward and its integrated nursing care service wards. Based on current results, it plans to consider expanding the rollout to up to 1100 beds."
+        },
+        {
+          "t": "p",
+          "x": "The rollout focuses on quickly catching changes in the condition of patients with severe illness and of patients who need close observation before and after surgery. The aim is to support patient care by medical staff through continuous monitoring of vital signs, even in general wards."
+        },
+        {
+          "t": "p",
+          "x": "thynC uses a wearable biosensor worn by the patient to measure electrocardiogram, heart rate, pulse rate, respiratory rate and oxygen saturation in real time. It offers AI-based detection and classification of falls and emergency arrhythmias, and when it detects an abnormal sign it shows an alarm on the ward monitoring screen to help medical staff respond."
+        },
+        {
+          "t": "p",
+          "x": "Key vital data are linked to the electronic medical record (EMR), which automatically records the latest readings at 60-second intervals. This reduces the burden of repetitive manual entry on medical staff and lets them view and save, in report form, the vital signs and ECG events measured during the hospital stay."
+        },
+        {
+          "t": "p",
+          "x": "Ajou University Hospital began installing equipment and building infrastructure last year and optimized the system for clinical settings through August this year. From September it expanded operations centered on thoracic surgery and cardiology, and this month it extended coverage to the emergency ward and the integrated nursing care service wards."
+        },
+        {
+          "t": "p",
+          "x": "It also built a wireless monitoring system using wearable devices and fixed gateways inside the wards. Because vital signs can be checked while patients move around the ward, the system is used to observe cardiovascular patients before and after surgery and to manage emergency ward patients."
+        },
+        {
+          "t": "p",
+          "x": "Han Sang-wook, president of Ajou University Medical Center, said, “We expect to further strengthen patient safety because we can check inpatients’ key vital signs in real time and detect abnormal signs early.” He added, “Based on the results of the 342 beds now in operation, we are also considering expanding the rollout to all 1100 beds, and we will continue to actively use digital technology to build a safer and smarter care environment.”"
+        },
+        {
+          "t": "p",
+          "x": "Daewoong Pharmaceutical is expanding thynC-based smart wards, centered on tertiary general hospitals and major regional hospitals. According to the company, as of October this year it had been installed at 218 medical institutions nationwide, for a cumulative 2만54 beds. It plans to support on-site operations with usage guides that reflect each institution’s patient characteristics and operating environment."
+        },
+        {
+          "t": "p",
+          "x": "Lee Chang-jae, CEO of Daewoong Pharmaceutical, said, “It is meaningful to take part in building smart wards that strengthen patient safety by supplying thynC to Ajou University Hospital, which plays a core role in severe and emergency care in southern Gyeonggi.” He added, “We will continue to strengthen our cooperation with Ajou University Hospital and support the digital transformation of medical institutions in southern Gyeonggi and the creation of patient-centered care environments.”"
+        }
+      ]
+    },
+    "medicine/medicine-ut-dell-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+          "cap": "The UT Dell Medical Center, slated to open in 2030, will integrate artificial intelligence and advanced tech directly into patient care and clinical training. (UT Dell Medicine)"
+        },
+        {
+          "t": "p",
+          "x": "The University of Texas at Austin unveiled Tuesday a unified academic health system, called UT Dell Medicine, that brings its clinics, Dell Medical School and the upcoming UT Dell Medical Center under one banner."
+        },
+        {
+          "t": "p",
+          "x": "Site clearing begins this month to build a new AI-native medical center in North Austin, slated to open in 2030 with an estimated price tag of about $5 billion, anchored by a $750 million gift from the Michael & Susan Dell Foundation. It will feature a 300-to-500-bed specialty hospital, an outpatient clinic and a full emergency department."
+        },
+        {
+          "t": "p",
+          "x": "UT leaders aim to build AI and other advanced technologies into the hospital's infrastructure from the ground up. The medical center expects to have 20,000 to 30,000 sensors throughout the facility, and is designing for extensive use of robotics, including automated transportation of medications, supplies, linens and food."
+        },
+        {
+          "t": "p",
+          "x": "The vision is for the hospital to “become an intelligent member of the care team,” said Claudia Lucchinetti, M.D. UT Dell Medicine also plans to use AI, predictive tools and data to shift care toward earlier detection and prevention."
+        }
+      ]
+    },
+    "medicine/medicine-azoospermia-sperm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+        },
+        {
+          "t": "p",
+          "x": "BALTIMORE -- An artificial intelligence (AI)-powered tool could be a last resort for couples wanting to conceive a biological child who had been told they have no sperm, researchers said at the American Society for Reproductive Medicine (ASRM) annual meeting."
+        },
+        {
+          "t": "p",
+          "x": "The Sperm Tracking and Recovery (STAR) system, developed by Hemant Suryawanshi, PhD, of Columbia University Fertility Center and colleagues, uses high-speed imaging, real-time AI, and microfluidic technology to take two million images, assess them, and isolate the sperm detected by AI into a small volume."
+        },
+        {
+          "t": "p",
+          "x": "In 10 spiked samples, STAR found sperm in all 10 cases while the manual expert only found it three times. STAR found 167 sperm while the human only found four -- a 41-fold difference."
+        },
+        {
+          "t": "p",
+          "x": "Among 175 consecutive men deemed sperm-negative by manual examination, STAR detected at least one sperm in 26% of the samples, and in 29% of those who had undergone TESE."
+        },
+        {
+          "t": "p",
+          "x": "Sperm identified with STAR has led to at least three live births in which the recovered sperm were used for ICSI or cryopreservation. A major limitation is user-friendliness: STAR requires a highly-trained technician to run it."
+        }
+      ]
     }
   }
 }

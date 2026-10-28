@@ -1,169 +1,232 @@
 {
   "section": "games",
-  "now_iso": "2026-10-27T22:04:00Z",
+  "now_iso": "2026-10-28T22:04:45Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "Google DeepMind",
+      "title": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+      "source": "Game Developer",
       "category": "games",
-      "published_iso": "2026-10-27T16:13:00+00:00",
-      "excerpt": "Genie 4 introduces real-time interactive world simulation with native audio, advanced physics, natural human motion, and steering powered by Gemini models.",
-      "og_image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+      "published_iso": "2026-10-28T16:28:55Z",
+      "excerpt": "Epic VP Marcus Wassmer confirmed AI coding tools now shape Unreal Engine development, crediting them with eliminating long-standing non-deterministic cooking bugs after the company's AI-first pivot.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt7995cdd00f8872de/682c4d0d08576d0f8460d2f7/Vader_Fortnite.png?disable=upscale&width=1200&height=630&fit=crop"
+    },
+    {
+      "title": "'Yes, we are vibe-coding things': Epic confirms it's using AI tools to code Unreal Engine 6, Fortnite, and more",
+      "url": "https://www.pcgamer.com/software/ai/yes-we-are-vibe-coding-things-epic-confirms-its-using-ai-tools-to-code-unreal-engine-6-fortnite-and-more/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-10-28T13:58:17Z",
+      "excerpt": "Epic says it is all-in on AI-assisted 'vibe-coding' well beyond its launcher, across Unreal Engine 6 and Fortnite: 'We are more concerned about the risks of moving too slowly than we are about AI skepticism.'",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZoNnbwEE9xr6vSMNfPbQVN-1920-80.jpg"
+    },
+    {
+      "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
+      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-10-28T20:08:50Z",
+      "excerpt": "Epic Games confirmed it is using AI-assisted vibe-coding for everything from Unreal Engine 6 to Fortnite, saying its engineers no longer write the bulk of the code.",
+      "og_image": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "\"We are more concerned about the risks of moving too slowly\": Epic get more specific about genAI use in Unreal Engine and Fortnite development",
+      "url": "https://www.rockpapershotgun.com/we-are-more-concerned-about-the-risks-of-moving-too-slowly-epic-get-more-specific-about-genai-use-in-unreal-engine-and-fortnite-development",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-10-28T16:49:39Z",
+      "excerpt": "Epic Games' Marcus Wassmer has gotten more specific about how the company uses generative AI in Unreal Engine and Fortnite development.",
+      "og_image": "https://assetsio.gnwcdn.com/epic-genai-use-development-unreal-fortnite-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Valve weighs in on Next Fest AI cloning phenomenon",
+      "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-10-28T14:42:21Z",
+      "excerpt": "Valve acknowledged the trend of Steam games getting quick AI-made clones during Next Fest, but placed the onus on developers to prevent it themselves.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt34133feb31dcd927/673b2a059175ed6eb9c1da89/Steam_Header.png?disable=upscale&width=1200&height=630&fit=crop"
+    },
+    {
+      "title": "Valve Knows Steam Has An AI Slop Problem And Has A 'Significant Number Of People' Working On It",
+      "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-10-28T15:30:21Z",
+      "excerpt": "Valve says a significant number of people are working on Steam's AI slop and clone problem, though it again puts the onus on the developers being ripped off.",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
+    },
+    {
+      "title": "Valve admits Steam has an AI slop and cloning problem, but says 'we don't want to be gatekeepers telling developers which tools they should or shouldn't use'",
+      "url": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-10-28T17:37:24Z",
+      "excerpt": "Steam Next Fest is flooded with thousands of low-effort games and developers fear sharing demos lest they be cloned; Valve says it won't police which tools developers use.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/UoEzWoavREo9zwpFLKCqC-2560-80.jpg"
+    },
+    {
+      "title": "Valve has addressed Steam's huge AI clone-game problem - but instead of vowing action, it suggests developers simply make their games less copyable",
+      "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-10-28T14:43:53Z",
+      "excerpt": "Valve suggests the AI clone-game problem is on developers making their games too easily copyable, rather than something the store should police.",
+      "og_image": "https://assetsio.gnwcdn.com/needle-in-a-haystack-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Valve says devs can fight AI clones on Steam by not \"relying on a single mechanic that someone can easily copy,\" and report extortion to law enforcement",
+      "url": "https://www.gamesradar.com/games/valve-says-devs-can-fight-ai-clones-on-steam-by-not-relying-on-a-single-mechanic-that-someone-can-easily-copy-and-report-extortion-to-law-enforcement-while-youre-at-it/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-10-28T17:40:29Z",
+      "excerpt": "After AI users reportedly threatened developers with rip-offs, Valve advised designing around more than one easily copied mechanic and reporting extortion to police.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/UVeRMf25WvmBAagVGKyH96-1920-80.jpg"
+    },
+    {
+      "title": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
+      "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-10-28T15:45:59Z",
+      "excerpt": "Roblox says an AI agent failed to operate 'as intended' when it mass-downloaded 3D files, including adult content, from Open3DLab, Smutlab and SFMLab for AI training data.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
     },
     {
       "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
       "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
       "source": "NVIDIA Technical Blog",
       "category": "games",
-      "published_iso": "2026-10-27T17:00:00+00:00",
-      "excerpt": "NVIDIA RTX Spark is a new Windows PC platform for AI development, creation, and gaming in slim laptops and compact desktops. Powered by an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU…",
+      "published_iso": "2026-10-27T17:00:00Z",
+      "excerpt": "NVIDIA details how its RTX Spark platform (Blackwell RTX GPU + Grace CPU) runs neural rendering and on-device AI characters for game developers.",
       "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2.webp"
     },
     {
-      "title": "Epic Games is updating its EULA to allow AI training",
-      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
-      "source": "Game Developer",
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "source": "NVIDIA Blog",
       "category": "games",
-      "published_iso": "2026-10-27T17:53:41.000Z",
-      "excerpt": "Epic Games CEO Tim Sweeney casually states that the EULA for using Epic's engines will allow for training AI on the output.",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?disable=upscale&width=1200&height=630&fit=crop"
+      "published_iso": "2026-10-28T15:00:46Z",
+      "excerpt": "NVIDIA RTX Spark Windows laptops are now available, with new models, local AI agent tools and game support for developers, creators and gamers.",
+      "og_image": null
     },
     {
-      "title": "Epic's Disney project reportedly shifts to 'AI-First' development",
-      "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-10-14T20:24:47.000Z",
-      "excerpt": "Developers have reportedly been instructed to lean heavily on AI during development, especially during the creation of code and art.",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt45db96c4d9745b58/6a6a08b8a3f8033a58ce5fbf/epic_games.jpg?disable=upscale&width=1200&height=630&fit=crop"
-    },
-    {
-      "title": "Peter Molyneux believes 'it's almost impossible to code now without using AI'",
-      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-27T13:30:01Z",
-      "excerpt": "The father of the god game weighs in on AI use in the gaming industry",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg"
-    },
-    {
-      "title": "EA workers complain of 'terrible' morale amid layoffs and 'heavily pushed' generative AI",
-      "url": "https://www.destructoid.com/ea-workers-complain-terrible-morale-layoffs-generative-ai/",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-10-27T15:35:22+00:00",
-      "excerpt": "EA workers speak out about \"terrible morale\" amid layoffs and a big push for generative AI like Claude, in a new report.",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2022/05/electronic-arts-ea-2023-remake.jpg"
-    },
-    {
-      "title": "AI 슬롭과 복제가 두려운 개발자들, 밸브가 직접 답했다",
-      "url": "https://www.inven.co.kr/webzine/news/?news=322622",
-      "source": "인벤",
-      "category": "games",
-      "published_iso": "2026-10-27T20:32:44+09:00",
-      "excerpt": "밸브가 AI 복제 게임을 우려하는 개발자들에게 커뮤니티 구축과 꾸준한 업데이트를 조언했다. 이용자와 쌓은 신뢰는 복제 게임을 막는 가장 큰 장벽이 되고, 업데이트로 계속 더해지는 기능과 개성은 메커니즘 하나처럼 쉽게 베낄 수 없다는 설명이다. 밸브 스팀 비즈니스 팀은 27일 열린 개발자 행사 '스팀 인디 커넥트'에서 \"진짜 버전이 가장 좋은 버전이 되게 하",
-      "og_image": "https://static.inven.co.kr/column/2026/10/27/news/i1276549523.jpg"
-    },
-    {
-      "title": "Zero Escape Writer Is Pro-AI, Believes His New Studio's Game Wouldn't Have Been Canceled If He'd Used It To Cut Costs - Kotaku",
-      "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
+      "title": "When You Search For This New Switch 2 Indie Game, An 'Unauthorized' Knockoff With 'AI-Generated Assets' Shows Up, Too",
+      "url": "https://kotaku.com/haunted-paws-switch-2-indie-world-nintendo-ghostly-whiskers-2000750524",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-27T14:30:31+00:00",
-      "excerpt": "Kotaro Uchikoshi understands the resistance to AI, but feels it is necessary to cut costs and make games faster",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg"
+      "published_iso": "2026-10-28T16:00:32Z",
+      "excerpt": "Haunted Paws was just shown at Nintendo's Indie World showcase, and an unauthorized knockoff using AI-generated assets already surfaces alongside it in search.",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/hauntedpaws.jpg"
     },
     {
-      "title": "The AI PS5 Homebrew Gold Rush Is Why GTA 6 Can't Be Pirated",
-      "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
-      "source": "Kotaku",
+      "title": "EA's Is Making Generative AI All But Mandatory From Now On",
+      "url": "https://www.thegamer.com/ea-employee-complaint-generative-ai-use/",
+      "source": "TheGamer",
       "category": "games",
-      "published_iso": "2026-10-26T21:30:32+00:00",
-      "excerpt": "One hacker is being accused of ruining everyone's chances of pirating GTA 6 after reporting a massive hypervisor exploit to Sony",
-      "og_image": "https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg"
+      "published_iso": "2026-10-27T22:35:29Z",
+      "excerpt": "EA employee complaints indicate generative AI use is being made all but mandatory in the publisher's development workflows.",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/10/news-deconstructed-ea-logo.jpg?w=1600&h=900&fit=crop"
     },
     {
-      "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
-      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-26T16:30:08+00:00",
-      "excerpt": "Rules for thee, but not for me",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Master-Chief-Fortnite-trailer-Epic-Games-Xbox-1200x675.jpg"
-    },
-    {
-      "title": "\"These tools have made it very easy for bad actors to flood things\" - AI video game wikis riddled with errors are taking over, and pushing real fans to the side",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-10-27T10:00:41.785138+00:00",
-      "excerpt": "LLM-powered wikis, often full of inaccurate or irrelevant information, are starting to take over, leaving fans sidelined and publishers playing whack-a-mole.",
-      "og_image": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "Retro gaming is being overrun with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "source": "The Verge",
-      "category": "games",
-      "published_iso": "2026-10-23T12:00:00+00:00",
-      "excerpt": "A rise in AI-powered decomps, recomps, and ports has thrust the community into chaos.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "Devs Shouldn't Have To Protect Their Games, Valve Should Be Protecting Their Shopfront",
-      "url": "https://aftermath.site/steam-indie-game-ai-clone-copy/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-10-22T23:39:36.000Z",
-      "excerpt": "Maybe Valve could spend some of those billions it makes on better moderation",
-      "og_image": "https://images.unsplash.com/photo-1582642880428-3e2c04ad14ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHZhbHZlfGVufDB8fHx8MTc5MjYxNzYxNXww&ixlib=rb-4.1.0&q=80&w=2000"
-    },
-    {
-      "title": "All My Hobbies Are Getting Slopped Up, And It’s Exhausting",
-      "url": "https://aftermath.site/ai-slop-hobbies-in-software-emulation/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-10-22T20:39:39.000Z",
-      "excerpt": "The explosion in vibe coding has created an endless sea of drive-by, unserious, and unmaintained software that is destabilizing longstanding communities.",
-      "og_image": "https://images.unsplash.com/photo-1758648998701-81cb2b33fa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG11ZHxlbnwwfHx8fDE3OTI2OTY4NTJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-    },
-    {
-      "title": "\"I want room to make a wrong turn\": Following Samson dev's bankruptcy, its founder is considering how AI might factor into new studio plans",
-      "url": "https://www.rockpapershotgun.com/i-want-room-to-make-a-wrong-turn-following-samson-devs-bankruptcy-its-founder-is-considering-how-ai-might-factor-into-new-studio-plans",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-10-21T12:30:00+00:00",
-      "excerpt": "Liquid Swords founder Christofer Sundberg has discussed how he might approach setting up a new studio following the Samson studio's bankruptcy.",
-      "og_image": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "Valve veteran says Steam is \"overwhelmed with slop and AI crap\" in Next Fest event, fears PC becoming more like mobile: \"This is the thing that I'm worried about more than anything\"",
-      "url": "https://www.gamesradar.com/games/valve-veteran-says-steam-is-overwhelmed-with-slop-and-ai-crap-in-next-fest-event-fears-pc-becoming-more-like-mobile-this-is-the-thing-that-im-worried-about-more-than-anything/",
+      "title": "EA morale hits a new low amid AI push and BioWare closure",
+      "url": "https://www.gamesradar.com/games/ea-morale-hits-a-new-low-amid-ai-push-and-bioware-closure-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-26T15:08:00Z",
-      "excerpt": "It used to be that Valve was about Steam, about meritocracy…",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/bu9uXWDTCADvMFjdW5Psi3-1920-80.png"
+      "published_iso": "2026-10-28T11:24:24Z",
+      "excerpt": "EA workers describe collapsing morale as leadership heavily pushes generative AI tools following the BioWare closure.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/oMgD3bRcWZAcazPz5zSUeF-1920-80.jpg"
     },
     {
-      "title": "You can now play my favorite Resident Evil multiplayer romp for free in a web browser without a PS2, but wretched AI vibecoding could be lurking",
-      "url": "https://www.gamesradar.com/hardware/retro/you-can-now-play-my-favorite-resident-evil-multiplayer-romp-for-free-in-a-web-browser-without-a-ps2-but-wretched-ai-vibecoding-could-be-lurking/",
-      "source": "GamesRadar+",
+      "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
+      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-10-23T12:07:07Z",
-      "excerpt": "Outbreak in your browser",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/j7bPMpKo7AiwMUqJtNduoa-1920-80.jpg"
+      "published_iso": "2026-10-26T08:40:16Z",
+      "excerpt": "Total War VP Roger Collum says the externally developed remaster, pulled over AI-upscaled visuals, slipped through because 'we took our eyes off its external development.'",
+      "og_image": "https://assetsio.gnwcdn.com/Total-War-Shogun-2-Complete-Edition_KL4qx2j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
-      "title": "AI 역설계 통한 게임 베끼기 극성, 개발 생태계가 무너진다",
-      "url": "https://www.gamemeca.com/view.php?gid=1782071",
+      "title": "'Low-Quality Goods' — Masahiro Sakurai Shrugs Off AI Games as 'Unprofitable Titles' as Clones and Mods Boom",
+      "url": "https://www.ign.com/articles/masahiro-sakurai-shrugs-off-ai-games-as-unprofitable-titles-as-clones-and-mods-boom",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-10-27T23:27:51Z",
+      "excerpt": "Smash Bros creator Masahiro Sakurai argues the boom in AI-created games won't create lasting demand, comparing them to 'low-quality goods' next to human-made titles.",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/27/sakurai-on-ai-games-1793143480248.jpg?width=1280&format=jpg&auto=webp&quality=80"
+    },
+    {
+      "title": "Modder Uses AI to Put Shadow of War's Nemesis System in Rockstar's Red Dead Redemption 2",
+      "url": "https://www.ign.com/articles/red-dead-redemption-2-enrage-mod-nemesis-system",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-10-19T10:32:10Z",
+      "excerpt": "A new AI-assisted Red Dead Redemption 2 mod recreates Shadow of War's Nemesis System, tracking how individual enemies feel about the player.",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/19/rdo-enrgage-1792404020996.webp?width=1280&format=jpg&auto=webp&quality=80"
+    },
+    {
+      "title": "라인게임즈, Games on AWS 2026서 AI 퍼블리싱 자동화 노하우 공개",
+      "url": "https://www.thisisgame.com/articles/431458?newsId=400004&categoryId=0",
+      "source": "디스이즈게임",
+      "category": "games",
+      "published_iso": "2026-10-27T21:50:40Z",
+      "excerpt": "라인게임즈가 Games on AWS 2026에서 사내 AI 시스템으로 게임 개발 문서 자동 갱신과 퍼블리싱 업무를 자동화한 노하우를 공개했다.",
+      "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
+    },
+    {
+      "title": "크래프톤, 고효율 LLM '라온-1 미니' 프리뷰 공개",
+      "url": "https://www.thisisgame.com/articles/431196?newsId=225",
+      "source": "디스이즈게임",
+      "category": "games",
+      "published_iso": "2026-10-20T21:48:25Z",
+      "excerpt": "크래프톤이 5년 연구 끝에 자체 개발한 30B급 고효율 LLM '라온-1 미니' 프리뷰를 공개했다.",
+      "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/10/21/1639281525090010818_364e12fb-b317-4736-83e6-2853bbc6d933_%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C_%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4%2C%20%EB%8F%85%EC%9E%90%20%EA%B0%9C%EB%B0%9C%20%EA%B3%A0%ED%9A%A8%EC%9C%A8%20LLM%20%E2%80%98%EB%9D%BC%EC%98%A8-1%20%EB%AF%B8%EB%8B%88%E2%80%99%20%ED%94%84%EB%A6%AC%EB%B7%B0%20%EA%B3%B5%EA%B0%9C.jpg"
+    },
+    {
+      "title": "게임을 지키려 게임을 숨긴다…AI 복제가 바꾼 인디 개발의 풍경",
+      "url": "https://www.thisisgame.com/articles/431216",
+      "source": "디스이즈게임",
+      "category": "games",
+      "published_iso": "2026-10-21T01:15:04Z",
+      "excerpt": "출시 전 AI 모방작 등장 우려가 확산되면서 인디 개발자들이 데모와 플레이테스트를 숨기고 있다. 개발자들은 안심하고 게임을 보여줄 보호 장치가 필요하다고 말한다.",
+      "og_image": "https://file.thisisgame.com/next-upload/cmcn2grqk0003t501uit9rzw9/2026/10/21/1639281742881034222_86aa6320-349e-48c1-bc06-424c611f73e1_road-ahead-s-42YN6C67E-unsplash.jpg"
+    },
+    {
+      "title": "협동게임 미메시스, 서로 다른 경험 주는 '편집증' 도입",
+      "url": "https://www.gamemeca.com/view.php?gid=1782416",
       "source": "게임메카",
       "category": "games",
-      "published_iso": "2026-10-20T16:41:30+09:00",
-      "excerpt": "생성형 AI 기술의 발전으로 독창적인 인디게임을 무단 도용하는 복제작이 급증하고 있다. 고도화된 AI 역설계를 악용한 카피캣 범죄로 인해 인디게임 개발자들의 생계가 위협받고 있다. 플랫폼의 소극적인 대처와 미비한 법적 제도 속에서 창작자들의 피해가 심화되는 중이다",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/071/gm343026_st.webp"
+      "published_iso": "2026-10-27T12:31:19+09:00",
+      "excerpt": "렐루게임즈가 미메시스 앞서 해보기 1주년을 맞아 편집증 시스템을 도입하고 AI 기반 몬스터의 행동 방식을 강화하는 대규모 업데이트를 진행했다.",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/416/gm899940_thumb__.webp"
+    },
+    {
+      "title": "\"네가 한 일을 알고 있다\"...넥슨, 이용자 행동 기억하는 'AI NPC' 개발",
+      "url": "https://www.inews24.com/view/2019597",
+      "source": "아이뉴스24",
+      "category": "games",
+      "published_iso": "2026-10-27T17:33:08+09:00",
+      "excerpt": "넥슨이 이용자의 게임 내 행동을 '라이브 메모리'로 실시간 기억해 NPC가 과거 행동에 맞춰 반응하도록 하는 AI 엔진과 자체 DB '패스트그래프'를 공개했다. (off-list: allowed Korean outlets had no fresh copy)",
+      "og_image": "https://image.inews24.com/v1/9c333440cef95f.jpg"
+    },
+    {
+      "title": "특이점 온 '인조이', AI로 원하는 모드 만든다",
+      "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216735",
+      "source": "게임플",
+      "category": "games",
+      "published_iso": "2026-10-19T17:08:57+09:00",
+      "excerpt": "크래프톤 '인조이'가 스크립트 모딩과 AI 모드 제작 연동을 지원하면서 이용자가 AI로 원하는 모드를 직접 만들 수 있게 됐다. (off-list: allowed Korean outlets had no fresh copy)",
+      "og_image": "https://cdn.gameple.co.kr/news/photo/202610/216735_249800_520.png"
+    },
+    {
+      "title": "Equity warns voice actors off a game casting that wants their voices for AI training, forever",
+      "url": "https://www.voiceoverherald.com/equity-video-game-casting-ai-voice-rights-warning/",
+      "source": "Voice Over Herald",
+      "category": "games",
+      "published_iso": "2026-10-25T13:00:00Z",
+      "excerpt": "UK union Equity tells performers to proceed with extreme caution over a video game casting call asking for AI training rights, a buyout and every right to their voice. (off-list: no allowed-domain copy found)",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/10/equity-casting-hero.jpg"
     }
   ]
 }

@@ -14063,6 +14063,130 @@
           "x": "모든 앱은 만든 사람이 공유하기 전까지 비공개다. App Studio는 모든 유료 플랜에 들어 있어 따로 사거나 애드온을 붙일 필요가 없다. 앱을 만들고 실행하고 호스팅하는 비용은 전부 기존 Runway 크레딧 잔액에서 빠진다. App Studio는 지금 모든 유료 플랜에서 쓸 수 있다."
         }
       ]
+    },
+    "movies/jimengstudio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+          "cap": "ByteDance가 내놓은 숏드라마 제작용 AI 스튜디오"
+        },
+        {
+          "t": "p",
+          "x": "ByteDance의 Jimeng AI가 숏드라마 스튜디오를 내놓았다. 각본 개발부터 캐릭터·장면 제작, 스토리보드, 영상 제작, 후반 작업까지 한 워크플로에 담았다. 플랫폼에는 자체 모델 세 개가 들어간다. 각본용 DreamScript, 이미지용 Anycook, 스토리보드용 DreamShot이다."
+        },
+        {
+          "t": "p",
+          "x": "DreamScript는 오리지널 이야기와 각색, 해외 시청자용 각본을 지원하고, 이미지·스토리보드 도구는 창작자의 시각 자산 제작과 샷 설계를 돕는다. 개별 샷 교체와 오디오 재구성은 물론, 기존 드라마를 시장별 시각 스타일로 리메이크하는 작업도 스튜디오 안에서 할 수 있다. 이미지·영상을 하나씩 생성하던 Jimeng의 도구가 이번 출시로 서로 맞물린 숏드라마 제작까지 넓어졌다. [iiMedia, in Chinese]"
+        }
+      ]
+    },
+    "movies/oscarsai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+          "cap": "Tokyo에 모인 Academy 지도부"
+        },
+        {
+          "t": "p",
+          "x": "Academy 회장 Lynette Howell Taylor는 Tokyo에서 Variety와 만나, AI가 영화 제작 전반에 퍼지더라도 Oscars는 계속 인간이 주도한 작업을 기릴 것이라고 말했다. Academy 지도부는 회원과 영화인을 만나러 Tokyo International Film Festival에 와 있다."
+        },
+        {
+          "t": "p",
+          "x": "Howell Taylor에 따르면 AI는 십 년 전부터 후반 작업 워크플로의 일부였고 시각효과에는 이미 녹아 있다. Academy는 출품 자격 문제와 엮어 이 사안을 정기적으로 논의한다. 그는 “Academy에 언제나 변하지 않는 사실은 우리가 인간의 탁월함, 인간이 주도하는 워크플로에 상을 준다는 점”이라며 “그 중심에는 언제나 그 워크플로를 이끄는 인간이 있을 것”이라고 말했다. “저작권, 그리고 투명성과 공개를 둘러싼 매우 현실적인 우려”도 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "제99회 Oscars부터 새로 도입된 규정으로, non-English-language(비영어) 영화는 여섯 개 영화제 중 한 곳에서 최고상을 받으면 국제장편영화상 자격을 얻는다. 최고회원책임자 Meredith Shea는 위원회가 해마다 규정을 검토할 것이라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "CEO Bill Kramer는 지금 Academy 회원의 25%가 non-U.S.(미국 외) 회원이라고 말했다. YouTube 계약 뒤 처음 열리는 2029년 시상식은 30개가 넘는 언어로 2.5 billion(25억) 명에게 닿을 수 있다고도 했다."
+        }
+      ]
+    },
+    "movies/rintaro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+          "cap": "2026 Busan International Film Festival(부산국제영화제)에 선 Rintaro"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy Express 999와 Metropolis를 연출한 85세(85-year-old) 감독은 제31회 부산국제영화제(31st Busan International Film Festival)에서 마스터클래스 ‘A Living Legend in Japanese Animation’을 마친 뒤 라운드테이블에서 Cartoon Brew와 이야기를 나눴다."
+        },
+        {
+          "t": "video",
+          "yt": "aen2v31UjqA"
+        },
+        {
+          "t": "p",
+          "x": "리메이크 문화를 두고 그는 “전 세계 시장에 초점을 맞춘 것이 원인이라고 본다. 이미 안전하고 인기 있는 과거의 것을 되살리면 더 많은 돈이 들어오기 때문”이라고 말했다. 새로운 미래를 만들려면 “따르는 위험을 받아들여야 한다… 이대로라면 미래는 없을 것이기 때문”이라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 리메이크 문제를 생성형 AI와 엮었다. “AI 역시 과거 작품의 리메이크 쪽으로 밀어붙일 것이다. AI는 평균값이나 평균치를 추천하는 것이고, 그것이 추천할 수 있는 안전한 선택지이기 때문”이라는 것이다. 오리지널 작품이 예전만큼 성공하지 못할 수도 있다는 경고도 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "AI와 협업하는 문제에는 “감독으로서 AI를 어떻게 쓸지 고민은 하지만, 아주, 아주 신중하게 하고 싶다”고 말했다. AI를 칼날에 비유한 그는 “우리가 AI를 일상에 얼마나 깊이 들여놓았는지 생각해 봐야 한다”고 했다."
+        }
+      ]
+    },
+    "movies/atfaizone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+          "cap": "Singapore Media Festival"
+        },
+        {
+          "t": "p",
+          "x": "IMDA가 주최하는 Singapore Media Festival은 12월 1–5일 열리는 다음 행사에서 오랜 역사의 Asia TV Forum & Market(ATF)과 나란히 Asia Creator Summit을 새로 선보인다."
+        },
+        {
+          "t": "p",
+          "x": "ACS는 12월 4–5일 Marina Bay Sands에서 “Create. Monetize. Scale.”을 내걸고 20개가 넘는 세션으로 열린다. 제27회(27th)를 맞는 ATF는 12월 1–4일 돌아오며, 60개 국가·지역에서 콘텐츠 업계 관계자 5,000명 이상이 찾을 전망이다."
+        },
+        {
+          "t": "p",
+          "x": "새 섹션 “The AI Era | Entertainment Reimagined”는 전용 프로그램과 전시 존을 묶어, AI가 콘텐츠 제작·IP 권리·규제에 갖는 의미와 창작물을 지키는 방법을 다룬다. Huace Group, Moonmax, Studio Meta K, Motion Picture Association, Television Academy, WIPO가 참여한다. Yoywow Space와 Visify가 후원하는 AI Hackathon 2026 결선도 ATF에서 열리며, 라이브 창작 경연과 상영이 곁들여진다."
+        },
+        {
+          "t": "p",
+          "x": "올해는 마이크로드라마 비중이 더 커진다. RX Global의 Yeow Hui Leng은 “AI를 포함한 신기술이 이 논의의 핵심이 될 것”이라고 말했다."
+        }
+      ]
+    },
+    "movies/resolve2112": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+        },
+        {
+          "t": "p",
+          "x": "Blackmagic Design이 속도를 크게 끌어올린 DaVinci Resolve 21.1.2 업데이트를 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "영상 편집에서, 굳이 덧붙이자면 AI 시대인 지금은 더더욱 속도가 중요하다. AI 전반이든 Resolve의 IntelliSearch 분석 같은 AI 도구든 편집에 쓴다면 빠르고 효율적으로 돌아가길 바라게 마련이다."
+        },
+        {
+          "t": "p",
+          "x": "DaVinci Resolve 이번 업데이트(버전 21.1.2)가 내세우는 점이 바로 이것이다. Blackmagic Design에 따르면 Apple M6에서 IntelliSearch 분석은 최대 14배 빨라지고 타임라인 편집은 개선되며 OGraf 재생도 빨라진다."
+        },
+        {
+          "t": "p",
+          "x": "무게는 큰 개선 쪽에 실렸다. 21.1.2에 더해진 새 기능과 개선 사항은 열두 가지를 훌쩍 넘는다. 핵심은 앞서 말한 Apple M6 IntelliSearch 분석 가속과 4배 빨라진 OGraf 재생이다."
+        },
+        {
+          "t": "p",
+          "x": "Resolve는 타임라인 편집을 다듬고 Linux 그래픽 지원을 늘렸으며, 사진·편집 작업을 자동화하는 스크립팅 APIs도 확장했다. 올가미로 편집 지점을 고르면 자동으로 다이내믹 트림에 들어가는 기능, 편집 믹서의 라우드니스 미터 표시 옵션, 타임라인 화면비에 맞춰 바뀌는 OGraf 반응형 템플릿, Linux용 OGraf·Lottie 그래픽 지원, 전반적인 성능·안정성 개선 등이 주요 내용이다."
+        }
+      ]
     }
   }
 }

@@ -1,215 +1,239 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "marketing",
   "cards": [
     {
-      "id": "metaaiads",
+      "id": "aimodeads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 광고 3,379건 중\nMeta 고지는 2건뿐",
-      "body": "Resemble AI가 본 Meta AI 광고 3,379건 중 고지는 2건이었다.",
-      "mini_headline": "Meta AI 광고, 고지 없이 집행",
+      "headline": "Google AI Mode\n광고 10개국 확대",
+      "body": "Google이 10개국에 AI Mode 광고를 열고 U.S.엔 멀티턴 광고를 낸다.",
+      "mini_headline": "세계로 가는 AI Mode 광고",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/",
+      "source": "Google Ads & Commerce Blog",
+      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
           },
           {
             "t": "p",
-            "x": "Mountain View에서 합성 미디어 탐지 소프트웨어를 파는 Resemble AI가 2026년 10월 22일 연구 결과를 내놨다. Facebook과 Instagram 광고의 이미지·영상 파일 37,768개를 분석했더니 3,379개가 AI-generated(AI 생성)이거나 조작된 콘텐츠였다. 8.9%, 대략 11개에 한 개꼴이다. 이 3,379개 파일 중 광고 문구 어디에서든 AI를 언급한 건 두 개였다."
+            "x": "AI Mode 광고가 새 국가로 넓어진다."
           },
           {
             "t": "p",
-            "x": "2026 Synthetic Advertising Report는 2026년 9월 Meta 공개 광고 아카이브에서 모은 광고로 26개 업종 509개 기업을 살폈다. 가짜 이미지의 70%는 실사풍이었고 46%에는 사람이 나왔다. 출처 메타데이터를 확인한 971개 파일 중 C2PA 콘텐츠 자격증명이 들어 있는 파일은 하나도 없었다."
+            "x": "AI가 검색 방식을 바꾸면서 검색어는 점점 대화를 닮아 간다. AI Mode 검색어는 기존 검색보다 평균 세 배 길다. AI는 사람들이 무엇을 찾는지 더 잘 파악하고, 그 필요에 가장 맞는 기업과 서비스를 연결해 준다."
           },
           {
             "t": "p",
-            "x": "브랜드 자체 페이지에서는 28,463개 파일 중 1,971개(6.9%)가 걸렸다. 표본 기준으로 Temu는 100개 중 64개, Wayfair는 100개 중 56개, Motel 6는 80개 중 50개, Lufthansa는 94개 중 50개에 AI를 썼다. 미끼 페이지가 집행한 649개 파일에서는 463개(71.3%)가 걸렸다. \"브랜드는 완성도를 꾸며내고, 미끼 페이지는 사람을 꾸며낸다.\""
+            "x": "자체 조사를 보면 사람들은 AI Mode 광고를 거부감 없이 받아들이고 관련성이 높다고 느낀다. AI Mode 안에서 스폰서 상품 목록의 클릭률은 이미 일반 상품 목록과 비슷하다."
           },
           {
             "t": "p",
-            "x": "자사 광고에 AI를 썼다고 고지한 브랜드는 Turkish Airlines 한 곳뿐이었다. 문구 검색으로는 영상에 새겨진 라벨까지 잡지 못하니, 0.06%는 문자로 된 고지만 잰 수치다."
+            "x": "확대 대상은 오스트레일리아, 캐나다, 인도, 케냐, 말레이시아, 뉴질랜드, 나이지리아, 파키스탄, 필리핀, 싱가포르다. Q4 2026에는 브라질, 멕시코, 영국 등으로 AI Mode 광고를 더 넓힐 계획이다."
           },
           {
             "t": "p",
-            "x": "New York의 합성 출연자 고지법은 2026년 6월 9일부터, EU AI Act Article 50(제50조)은 2026년 8월 2일부터 적용 중이다. 다만 이 보고서를 낸 곳은 결과에 상업적 이해관계가 직접 걸린 업체다."
+            "x": "U.S.에서는 멀티턴 광고를 출시해 AI Mode의 후속 질문에도 광고가 뜨게 한다."
+          },
+          {
+            "t": "p",
+            "x": "광고에는 “Sponsored” 표시가 분명히 붙는다. 광고가 계속 유용하고 관련성을 잃지 않도록 새 형식을 꾸준히 시험한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Only 2 of 3,379 AI ad files\non Meta disclosed AI use",
-          "body": "Resemble AI found AI media in one in 11 Meta ad files from 509 brands, yet only 2 of 3,379 flagged files disclosed it.",
-          "mini_headline": "Meta AI ads go undisclosed",
+          "headline": "Google takes ads in AI Mode\nto 10 new countries",
+          "body": "Google is scaling ads in AI Mode to 10 new countries, including Canada and India, and adding multiturn ads in the U.S.",
+          "mini_headline": "AI Mode ads go global",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "Resemble AI, a Mountain View company that sells software for detecting synthetic media, on October 22, 2026 published a study that scanned 37,768 image and video files from Facebook and Instagram ads and flagged 3,379 of them as AI-generated or manipulated. That is 8.9%, or roughly one file in 11. Of those 3,379 files, two mentioned AI anywhere in the ad copy."
+                "x": "We’re bringing ads in AI Mode to new countries."
               },
               {
                 "t": "p",
-                "x": "The 2026 Synthetic Advertising Report covers 509 companies in 26 industries, from ads collected in Meta's public archive in September 2026. 70% of the fakes were photoreal and 46% showed a person. None of the 971 files checked for provenance metadata carried any C2PA content credentials."
+                "x": "As AI transforms how people search, queries are becoming increasingly conversational. In AI Mode, queries are, on average, three times longer than traditional searches. AI helps us better understand what people are looking for, allowing us to connect them to the businesses and services that best match their needs."
               },
               {
                 "t": "p",
-                "x": "On brands' own pages, 1,971 of 28,463 files were flagged (6.9%). Temu used AI in 64 of 100 sampled files, Wayfair in 56 of 100, Motel 6 in 50 of 80 and Lufthansa in 50 of 94. Bait pages ran 649 files, of which 463 (71.3%) were flagged. \"Brands fake polish. Bait pages fake people.\""
+                "x": "Our research shows that people are comfortable with ads in AI Mode and find them highly relevant. In fact, click-through rates are already similar between sponsored and organic product list items within AI Mode."
               },
               {
                 "t": "p",
-                "x": "Only one brand disclosed on its own ad: Turkish Airlines. The copy search cannot see labels burned into the video itself, so the 0.06% figure measures written disclosure only."
+                "x": "Now we're scaling ads in AI Mode in Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. In Q4 2026, we plan to expand to additional locales, including Brazil, Mexico, and the United Kingdom."
               },
               {
                 "t": "p",
-                "x": "New York's synthetic performer disclosure law has applied since June 9, 2026, and Article 50 of the EU AI Act since August 2, 2026. The report is also the work of a vendor with a direct commercial interest in the answer."
+                "x": "To allow ads in follow-up queries in AI Mode, we are launching multiturn ads in the U.S."
+              },
+              {
+                "t": "p",
+                "x": "Ads will be clearly labeled as “Sponsored.” We’ll continue testing new formats to ensure ads remain helpful and relevant."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 광고 3,379건 중\nMeta 고지는 2건뿐",
-          "body": "Resemble AI가 본 Meta AI 광고 3,379건 중 고지는 2건이었다.",
-          "mini_headline": "Meta AI 광고, 고지 없이 집행",
+          "headline": "Google AI Mode\n광고 10개국 확대",
+          "body": "Google이 10개국에 AI Mode 광고를 열고 U.S.엔 멀티턴 광고를 낸다.",
+          "mini_headline": "세계로 가는 AI Mode 광고",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "Mountain View에서 합성 미디어 탐지 소프트웨어를 파는 Resemble AI가 2026년 10월 22일 연구 결과를 내놨다. Facebook과 Instagram 광고의 이미지·영상 파일 37,768개를 분석했더니 3,379개가 AI-generated(AI 생성)이거나 조작된 콘텐츠였다. 8.9%, 대략 11개에 한 개꼴이다. 이 3,379개 파일 중 광고 문구 어디에서든 AI를 언급한 건 두 개였다."
+                "x": "AI Mode 광고가 새 국가로 넓어진다."
               },
               {
                 "t": "p",
-                "x": "2026 Synthetic Advertising Report는 2026년 9월 Meta 공개 광고 아카이브에서 모은 광고로 26개 업종 509개 기업을 살폈다. 가짜 이미지의 70%는 실사풍이었고 46%에는 사람이 나왔다. 출처 메타데이터를 확인한 971개 파일 중 C2PA 콘텐츠 자격증명이 들어 있는 파일은 하나도 없었다."
+                "x": "AI가 검색 방식을 바꾸면서 검색어는 점점 대화를 닮아 간다. AI Mode 검색어는 기존 검색보다 평균 세 배 길다. AI는 사람들이 무엇을 찾는지 더 잘 파악하고, 그 필요에 가장 맞는 기업과 서비스를 연결해 준다."
               },
               {
                 "t": "p",
-                "x": "브랜드 자체 페이지에서는 28,463개 파일 중 1,971개(6.9%)가 걸렸다. 표본 기준으로 Temu는 100개 중 64개, Wayfair는 100개 중 56개, Motel 6는 80개 중 50개, Lufthansa는 94개 중 50개에 AI를 썼다. 미끼 페이지가 집행한 649개 파일에서는 463개(71.3%)가 걸렸다. \"브랜드는 완성도를 꾸며내고, 미끼 페이지는 사람을 꾸며낸다.\""
+                "x": "자체 조사를 보면 사람들은 AI Mode 광고를 거부감 없이 받아들이고 관련성이 높다고 느낀다. AI Mode 안에서 스폰서 상품 목록의 클릭률은 이미 일반 상품 목록과 비슷하다."
               },
               {
                 "t": "p",
-                "x": "자사 광고에 AI를 썼다고 고지한 브랜드는 Turkish Airlines 한 곳뿐이었다. 문구 검색으로는 영상에 새겨진 라벨까지 잡지 못하니, 0.06%는 문자로 된 고지만 잰 수치다."
+                "x": "확대 대상은 오스트레일리아, 캐나다, 인도, 케냐, 말레이시아, 뉴질랜드, 나이지리아, 파키스탄, 필리핀, 싱가포르다. Q4 2026에는 브라질, 멕시코, 영국 등으로 AI Mode 광고를 더 넓힐 계획이다."
               },
               {
                 "t": "p",
-                "x": "New York의 합성 출연자 고지법은 2026년 6월 9일부터, EU AI Act Article 50(제50조)은 2026년 8월 2일부터 적용 중이다. 다만 이 보고서를 낸 곳은 결과에 상업적 이해관계가 직접 걸린 업체다."
+                "x": "U.S.에서는 멀티턴 광고를 출시해 AI Mode의 후속 질문에도 광고가 뜨게 한다."
+              },
+              {
+                "t": "p",
+                "x": "광고에는 “Sponsored” 표시가 분명히 붙는다. 광고가 계속 유용하고 관련성을 잃지 않도록 새 형식을 꾸준히 시험한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI広告3,379件のうち\nMetaで開示は2件のみ",
-          "body": "Resemble AIによるとMetaのAI広告3,379件中、開示は2件だけだった。",
-          "mini_headline": "Meta上のAI広告、開示されず",
+          "headline": "GoogleのAI Mode\n広告、新たに10カ国へ",
+          "body": "GoogleはAI Mode広告を10カ国に広げ、U.S.ではマルチターン広告も始める。",
+          "mini_headline": "AI Mode広告が世界へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "合成メディアを検出するソフトウェアを販売するMountain ViewのResemble AIは2026年10月22日、研究を公表した。FacebookとInstagram広告の画像・動画ファイル37,768件を調べ、うち3,379件をAI-generated（AI生成）または改変されたものと判定した。これは8.9%で、およそ11件に一つにあたる。その3,379件のうち、広告文のどこかでAIに触れていたのは二つだった。"
+                "x": "AI Modeの広告を新たな国々に広げる。"
               },
               {
                 "t": "p",
-                "x": "2026 Synthetic Advertising Reportは、2026年9月にMetaの公開アーカイブで収集した広告をもとに、26業種509社を対象としている。偽物の70%は写実的で、46%には人物が写っていた。来歴メタデータを確認した971件のうち、C2PAのコンテンツクレデンシャルを持つものは一つもなかった。"
+                "x": "AIが人々の検索の仕方を変えるなか、検索語句はますます会話的になっている。AI Modeでは、検索語句は従来の検索より平均で三倍長い。AIは人々が何を探しているかをより深く理解する助けとなり、ニーズに最も合う企業やサービスへとつなげることができる。"
               },
               {
                 "t": "p",
-                "x": "ブランド自身のページでは、28,463件中1,971件（6.9%）が判定された。サンプルのうち、Temuは100件中64件、Wayfairは100件中56件、Motel 6は80件中50件、Lufthansaは94件中50件でAIを使っていた。釣りページは649件を配信し、うち463件（71.3%）が判定された。「ブランドは洗練を偽り、釣りページは人を偽る」"
+                "x": "当社の調査では、人々はAI Modeの広告に抵抗がなく、関連性が高いと感じている。実際、AI Mode内ではスポンサー付きの商品リストとオーガニックの商品リストのクリック率がすでに同水準にある。"
               },
               {
                 "t": "p",
-                "x": "自社広告で開示したブランドはTurkish Airlinesの一社のみだった。広告文の検索では動画そのものに焼き込まれたラベルは検出できないため、0.06%という数字は文字による開示だけを測ったものだ。"
+                "x": "今回、オーストラリア、カナダ、インド、ケニア、マレーシア、ニュージーランド、ナイジェリア、パキスタン、フィリピン、シンガポールでAI Modeの広告を拡大する。Q4 2026には、ブラジル、メキシコ、英国などさらに多くの地域へ広げる計画だ。"
               },
               {
                 "t": "p",
-                "x": "New Yorkの合成パフォーマー開示法は2026年6月9日から、EU AI ActのArticle 50（第50条）は2026年8月2日から適用されている。また本報告書は、結果に直接の商業的利害を持つベンダーによるものでもある。"
+                "x": "AI Modeでの追加の質問にも広告を表示できるよう、U.S.でマルチターン広告を開始する。"
+              },
+              {
+                "t": "p",
+                "x": "広告には「Sponsored」と明確に表示される。広告が役立ち、関連性を保ち続けるよう、新しい形式のテストを続ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "3,379个AI广告文件\n仅2个在Meta披露AI",
-          "body": "Resemble AI发现，Meta上3,379个AI广告文件中仅2个披露AI使用。",
-          "mini_headline": "Meta AI广告未作披露",
+          "headline": "Google AI Mode\n广告新增10个国家",
+          "body": "Google将AI Mode广告扩展至10个新国家，并在U.S.推出多轮广告。",
+          "mini_headline": "AI Mode广告走向全球",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "销售合成媒体检测软件的Mountain View公司Resemble AI于2026年10月22日发布一项研究，扫描了Facebook和Instagram广告中的37,768个图片和视频文件，并将其中3,379个标记为AI-generated（AI生成）或经过篡改。占比8.9%，约每11个文件中就有一个。在这3,379个文件中，广告文案里提及AI的只有两个。"
+                "x": "我们正将AI Mode广告引入新的国家。"
               },
               {
                 "t": "p",
-                "x": "《2026 Synthetic Advertising Report》涵盖26个行业的509家公司，广告采集自2026年9月的Meta公开广告库。70%的伪造内容为照片级写实，46%出现了人物。在检查来源元数据的971个文件中，没有一个带有C2PA内容凭证。"
+                "x": "随着AI改变人们的搜索方式，查询正变得越来越口语化。在AI Mode中，查询平均比传统搜索长三倍。AI帮助我们更好地理解人们在寻找什么，从而把他们与最符合需求的商家和服务联系起来。"
               },
               {
                 "t": "p",
-                "x": "在品牌自有主页上，28,463个文件中有1,971个被标记（6.9%）。在抽样文件中，Temu在100个中有64个使用了AI，Wayfair为100个中的56个，Motel 6为80个中的50个，Lufthansa为94个中的50个。诱饵主页投放了649个文件，其中463个（71.3%）被标记。“品牌伪造的是精致，诱饵主页伪造的是人。”"
+                "x": "我们的研究显示，人们能够接受AI Mode中的广告，并认为其相关性很高。事实上，在AI Mode中，赞助商品列表与自然商品列表的点击率已经相近。"
               },
               {
                 "t": "p",
-                "x": "只有一个品牌在自家广告中作了披露：Turkish Airlines。文案搜索无法识别直接嵌入视频画面的标签，因此0.06%这一数字只衡量了文字披露。"
+                "x": "现在，我们正在澳大利亚、加拿大、印度、肯尼亚、马来西亚、新西兰、尼日利亚、巴基斯坦、菲律宾和新加坡扩大AI Mode广告。我们计划在Q4 2026扩展到更多地区，包括巴西、墨西哥和英国。"
               },
               {
                 "t": "p",
-                "x": "New York的合成表演者披露法自2026年6月9日起适用，EU AI Act第50条（Article 50）自2026年8月2日起适用。此外，这份报告出自一家与结论有直接商业利益关系的供应商。"
+                "x": "为了在AI Mode的后续查询中展示广告，我们将在U.S.推出多轮对话广告。"
+              },
+              {
+                "t": "p",
+                "x": "广告将清楚标注为“Sponsored”。我们将继续测试新的形式，确保广告始终有用且相关。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Resemble AI: solo 2 de 3,379\nanuncios con IA en Meta avisan",
-          "body": "Resemble AI halló IA en uno de cada 11 anuncios de Meta de 509 marcas, pero solo 2 de 3,379 lo declaraban.",
-          "mini_headline": "Anuncios con IA en Meta sin aviso",
+          "headline": "Google extiende anuncios\nde AI Mode a 10 países nuevos",
+          "body": "Google amplía los anuncios en AI Mode a 10 nuevos países, como Canadá e India, y suma anuncios multiturno en U.S.",
+          "mini_headline": "Los anuncios de AI Mode se globalizan",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "Resemble AI, una empresa de Mountain View que vende software para detectar medios sintéticos, publicó el 22 de octubre de 2026 un estudio que analizó 37,768 archivos de imagen y video de anuncios de Facebook e Instagram y marcó 3,379 de ellos como AI-generated (generados por IA) o manipulados. Eso es el 8.9%, aproximadamente un archivo de cada 11. De esos 3,379 archivos, dos mencionaban la IA en alguna parte del texto del anuncio."
+                "x": "Llevamos los anuncios de AI Mode a nuevos países."
               },
               {
                 "t": "p",
-                "x": "El 2026 Synthetic Advertising Report abarca 509 empresas de 26 sectores, con anuncios recopilados en el archivo público de Meta en septiembre de 2026. El 70% de las falsificaciones eran fotorrealistas y el 46% mostraba a una persona. Ninguno de los 971 archivos revisados en busca de metadatos de procedencia contenía credenciales de contenido C2PA."
+                "x": "A medida que la AI transforma la forma en que las personas buscan, las consultas son cada vez más conversacionales. En AI Mode, las consultas son, de media, tres veces más largas que las búsquedas tradicionales. La AI nos ayuda a entender mejor lo que buscan las personas y a conectarlas con los negocios y servicios que mejor se ajustan a sus necesidades."
               },
               {
                 "t": "p",
-                "x": "En las páginas propias de las marcas se marcaron 1,971 de 28,463 archivos (6.9%). Temu usó IA en 64 de 100 archivos de la muestra, Wayfair en 56 de 100, Motel 6 en 50 de 80 y Lufthansa en 50 de 94. Las páginas cebo publicaron 649 archivos, de los cuales 463 (71.3%) fueron marcados. \"Las marcas falsean el acabado. Las páginas cebo falsean a las personas.\""
+                "x": "Nuestra investigación muestra que las personas se sienten cómodas con los anuncios en AI Mode y los consideran muy relevantes. De hecho, las tasas de clics ya son similares entre los listados de productos patrocinados y los orgánicos dentro de AI Mode."
               },
               {
                 "t": "p",
-                "x": "Solo una marca lo declaró en su propio anuncio: Turkish Airlines. La búsqueda en el texto no puede ver las etiquetas incrustadas en el propio video, por lo que la cifra del 0.06% mide solo la divulgación escrita."
+                "x": "Ahora ampliamos los anuncios en AI Mode en Australia, Canadá, India, Kenia, Malasia, Nueva Zelanda, Nigeria, Pakistán, Filipinas y Singapur. En el Q4 2026 prevemos llegar a más mercados, entre ellos Brasil, México y el Reino Unido."
               },
               {
                 "t": "p",
-                "x": "La ley de New York sobre divulgación de intérpretes sintéticos se aplica desde el 9 de junio de 2026, y el Article 50 (artículo 50) de la EU AI Act, desde el 2 de agosto de 2026. El informe es además obra de un proveedor con un interés comercial directo en la respuesta."
+                "x": "Para permitir anuncios en las consultas de seguimiento de AI Mode, lanzamos anuncios multiturno en U.S."
+              },
+              {
+                "t": "p",
+                "x": "Los anuncios llevarán la etiqueta “Sponsored” de forma clara. Seguiremos probando nuevos formatos para que los anuncios sigan siendo útiles y relevantes."
               }
             ]
           }
@@ -217,137 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 광고 3,379건 중\nMeta 고지는 2건뿐",
-          "body": "Resemble AI 분석에서 Meta AI 광고 3,379건 중 2건만 고지했다.",
-          "mini_headline": "Meta AI 광고, 고지 없이 집행",
+          "headline": "Google AI Mode\n광고 10개국으로 확대",
+          "body": "Google이 AI Mode 광고를 10개국에 열고 U.S.엔 멀티턴 광고를 낸다.",
+          "mini_headline": "AI Mode 광고, 세계로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "합성 미디어 탐지 소프트웨어를 판매하는 Mountain View 기업 Resemble AI는 2026년 10월 22일 연구 결과를 공개했다. Facebook과 Instagram 광고의 이미지·영상 파일 37,768개를 분석해 그중 3,379개를 AI-generated(AI 생성) 또는 조작된 콘텐츠로 판별했다. 8.9%로, 대략 11개 중 한 개꼴이다. 이 3,379개 파일 가운데 광고 문구 어디에서든 AI를 언급한 것은 두 개였다."
+                "x": "AI Mode 광고를 새로운 국가로 확대한다."
               },
               {
                 "t": "p",
-                "x": "2026 Synthetic Advertising Report는 2026년 9월 Meta 공개 광고 아카이브에서 수집한 광고를 바탕으로 26개 업종 509개 기업을 다룬다. 가짜 이미지의 70%는 실사풍이었고 46%에는 사람이 등장했다. 출처 메타데이터를 확인한 971개 파일 가운데 C2PA 콘텐츠 자격증명을 담은 파일은 하나도 없었다."
+                "x": "AI가 사람들의 검색 방식을 바꾸면서 검색어는 점점 대화에 가까워지고 있다. AI Mode에서 검색어는 기존 검색보다 평균 세 배 길다. AI는 사람들이 무엇을 찾는지 더 잘 이해하게 해 주고, 그 필요에 가장 잘 맞는 기업과 서비스로 이어 준다."
               },
               {
                 "t": "p",
-                "x": "브랜드 자체 페이지에서는 28,463개 파일 중 1,971개(6.9%)가 판별됐다. 표본 기준으로 Temu는 100개 중 64개, Wayfair는 100개 중 56개, Motel 6는 80개 중 50개, Lufthansa는 94개 중 50개에 AI를 썼다. 미끼 페이지는 649개 파일을 집행했고 그중 463개(71.3%)가 판별됐다. \"브랜드는 완성도를 꾸며내고, 미끼 페이지는 사람을 꾸며낸다.\""
+                "x": "자체 조사에 따르면 사람들은 AI Mode의 광고를 편하게 받아들이고 관련성이 높다고 느낀다. 실제로 AI Mode 안의 스폰서 상품 목록과 일반 상품 목록의 클릭률은 이미 비슷하다."
               },
               {
                 "t": "p",
-                "x": "자사 광고에서 AI 사용을 고지한 브랜드는 Turkish Airlines 한 곳뿐이었다. 문구 검색으로는 영상 자체에 새겨진 라벨을 볼 수 없으므로, 0.06%라는 수치는 문자로 된 고지만 측정한 것이다."
+                "x": "이제 오스트레일리아, 캐나다, 인도, 케냐, 말레이시아, 뉴질랜드, 나이지리아, 파키스탄, 필리핀, 싱가포르에서 AI Mode 광고를 확대한다. Q4 2026에는 브라질, 멕시코, 영국 등 더 많은 지역으로 넓힐 계획이다."
               },
               {
                 "t": "p",
-                "x": "New York의 합성 출연자 고지법은 2026년 6월 9일부터, EU AI Act Article 50(제50조)은 2026년 8월 2일부터 적용되고 있다. 이 보고서는 결과에 직접적인 상업적 이해관계가 있는 업체가 만든 것이기도 하다."
+                "x": "AI Mode의 후속 질문에도 광고를 보여 줄 수 있도록 U.S.에서 멀티턴 광고를 출시한다."
+              },
+              {
+                "t": "p",
+                "x": "광고에는 “Sponsored” 표시가 분명히 붙는다. 광고가 계속 유용하고 관련성 있도록 새로운 형식을 꾸준히 시험할 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI広告3,379件のうち\nMetaで開示は2件のみ",
-          "body": "Resemble AIによるとMetaのAI広告3,379件中、開示は2件だけだった。",
-          "mini_headline": "Meta上のAI広告、開示されず",
+          "headline": "GoogleのAI Mode\n広告、新たに10カ国へ",
+          "body": "GoogleはAI Mode広告を10カ国に広げ、U.S.ではマルチターン広告も始める。",
+          "mini_headline": "AI Mode広告が世界へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "合成メディアを検出するソフトウェアを販売するMountain ViewのResemble AIは2026年10月22日、研究を公表した。FacebookとInstagram広告の画像・動画ファイル37,768件を調べ、うち3,379件をAI-generated（AI生成）または改変されたものと判定した。これは8.9%で、およそ11件に一つにあたる。その3,379件のうち、広告文のどこかでAIに触れていたのは二つだった。"
+                "x": "AI Modeの広告を新たな国々に広げる。"
               },
               {
                 "t": "p",
-                "x": "2026 Synthetic Advertising Reportは、2026年9月にMetaの公開アーカイブで収集した広告をもとに、26業種509社を対象としている。偽物の70%は写実的で、46%には人物が写っていた。来歴メタデータを確認した971件のうち、C2PAのコンテンツクレデンシャルを持つものは一つもなかった。"
+                "x": "AIが人々の検索の仕方を変えるなか、検索語句はますます会話的になっている。AI Modeでは、検索語句は従来の検索より平均で三倍長い。AIは人々が何を探しているかをより深く理解する助けとなり、ニーズに最も合う企業やサービスへとつなげることができる。"
               },
               {
                 "t": "p",
-                "x": "ブランド自身のページでは、28,463件中1,971件（6.9%）が判定された。サンプルのうち、Temuは100件中64件、Wayfairは100件中56件、Motel 6は80件中50件、Lufthansaは94件中50件でAIを使っていた。釣りページは649件を配信し、うち463件（71.3%）が判定された。「ブランドは洗練を偽り、釣りページは人を偽る」"
+                "x": "当社の調査では、人々はAI Modeの広告に抵抗がなく、関連性が高いと感じている。実際、AI Mode内ではスポンサー付きの商品リストとオーガニックの商品リストのクリック率がすでに同水準にある。"
               },
               {
                 "t": "p",
-                "x": "自社広告で開示したブランドはTurkish Airlinesの一社のみだった。広告文の検索では動画そのものに焼き込まれたラベルは検出できないため、0.06%という数字は文字による開示だけを測ったものだ。"
+                "x": "今回、オーストラリア、カナダ、インド、ケニア、マレーシア、ニュージーランド、ナイジェリア、パキスタン、フィリピン、シンガポールでAI Modeの広告を拡大する。Q4 2026には、ブラジル、メキシコ、英国などさらに多くの地域へ広げる計画だ。"
               },
               {
                 "t": "p",
-                "x": "New Yorkの合成パフォーマー開示法は2026年6月9日から、EU AI ActのArticle 50（第50条）は2026年8月2日から適用されている。また本報告書は、結果に直接の商業的利害を持つベンダーによるものでもある。"
+                "x": "AI Modeでの追加の質問にも広告を表示できるよう、U.S.でマルチターン広告を開始する。"
+              },
+              {
+                "t": "p",
+                "x": "広告には「Sponsored」と明確に表示される。広告が役立ち、関連性を保ち続けるよう、新しい形式のテストを続ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "3,379个AI广告文件\n仅2个在Meta披露AI",
-          "body": "Resemble AI发现，Meta上3,379个AI广告文件中仅2个披露AI使用。",
-          "mini_headline": "Meta AI广告未作披露",
+          "headline": "Google AI Mode\n广告新增10个国家",
+          "body": "Google将AI Mode广告扩展至10个新国家，并在U.S.推出多轮广告。",
+          "mini_headline": "AI Mode广告走向全球",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "销售合成媒体检测软件的Mountain View公司Resemble AI于2026年10月22日发布一项研究，扫描了Facebook和Instagram广告中的37,768个图片和视频文件，并将其中3,379个标记为AI-generated（AI生成）或经过篡改。占比8.9%，约每11个文件中就有一个。在这3,379个文件中，广告文案里提及AI的只有两个。"
+                "x": "我们正将AI Mode广告引入新的国家。"
               },
               {
                 "t": "p",
-                "x": "《2026 Synthetic Advertising Report》涵盖26个行业的509家公司，广告采集自2026年9月的Meta公开广告库。70%的伪造内容为照片级写实，46%出现了人物。在检查来源元数据的971个文件中，没有一个带有C2PA内容凭证。"
+                "x": "随着AI改变人们的搜索方式，查询正变得越来越口语化。在AI Mode中，查询平均比传统搜索长三倍。AI帮助我们更好地理解人们在寻找什么，从而把他们与最符合需求的商家和服务联系起来。"
               },
               {
                 "t": "p",
-                "x": "在品牌自有主页上，28,463个文件中有1,971个被标记（6.9%）。在抽样文件中，Temu在100个中有64个使用了AI，Wayfair为100个中的56个，Motel 6为80个中的50个，Lufthansa为94个中的50个。诱饵主页投放了649个文件，其中463个（71.3%）被标记。“品牌伪造的是精致，诱饵主页伪造的是人。”"
+                "x": "我们的研究显示，人们能够接受AI Mode中的广告，并认为其相关性很高。事实上，在AI Mode中，赞助商品列表与自然商品列表的点击率已经相近。"
               },
               {
                 "t": "p",
-                "x": "只有一个品牌在自家广告中作了披露：Turkish Airlines。文案搜索无法识别直接嵌入视频画面的标签，因此0.06%这一数字只衡量了文字披露。"
+                "x": "现在，我们正在澳大利亚、加拿大、印度、肯尼亚、马来西亚、新西兰、尼日利亚、巴基斯坦、菲律宾和新加坡扩大AI Mode广告。我们计划在Q4 2026扩展到更多地区，包括巴西、墨西哥和英国。"
               },
               {
                 "t": "p",
-                "x": "New York的合成表演者披露法自2026年6月9日起适用，EU AI Act第50条（Article 50）自2026年8月2日起适用。此外，这份报告出自一家与结论有直接商业利益关系的供应商。"
+                "x": "为了在AI Mode的后续查询中展示广告，我们将在U.S.推出多轮对话广告。"
+              },
+              {
+                "t": "p",
+                "x": "广告将清楚标注为“Sponsored”。我们将继续测试新的形式，确保广告始终有用且相关。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Resemble AI: solo 2 de 3,379\nanuncios con IA en Meta avisan",
-          "body": "Resemble AI halló IA en uno de cada 11 anuncios de Meta de 509 marcas, pero solo 2 de 3,379 lo declaraban.",
-          "mini_headline": "Anuncios con IA en Meta sin aviso",
+          "headline": "Google extiende anuncios\nde AI Mode a 10 países nuevos",
+          "body": "Google amplía los anuncios en AI Mode a 10 nuevos países, como Canadá e India, y suma anuncios multiturno en U.S.",
+          "mini_headline": "Los anuncios de AI Mode se globalizan",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "Resemble AI, una empresa de Mountain View que vende software para detectar medios sintéticos, publicó el 22 de octubre de 2026 un estudio que analizó 37,768 archivos de imagen y video de anuncios de Facebook e Instagram y marcó 3,379 de ellos como AI-generated (generados por IA) o manipulados. Eso es el 8.9%, aproximadamente un archivo de cada 11. De esos 3,379 archivos, dos mencionaban la IA en alguna parte del texto del anuncio."
+                "x": "Llevamos los anuncios de AI Mode a nuevos países."
               },
               {
                 "t": "p",
-                "x": "El 2026 Synthetic Advertising Report abarca 509 empresas de 26 sectores, con anuncios recopilados en el archivo público de Meta en septiembre de 2026. El 70% de las falsificaciones eran fotorrealistas y el 46% mostraba a una persona. Ninguno de los 971 archivos revisados en busca de metadatos de procedencia contenía credenciales de contenido C2PA."
+                "x": "A medida que la AI transforma la forma en que las personas buscan, las consultas son cada vez más conversacionales. En AI Mode, las consultas son, de media, tres veces más largas que las búsquedas tradicionales. La AI nos ayuda a entender mejor lo que buscan las personas y a conectarlas con los negocios y servicios que mejor se ajustan a sus necesidades."
               },
               {
                 "t": "p",
-                "x": "En las páginas propias de las marcas se marcaron 1,971 de 28,463 archivos (6.9%). Temu usó IA en 64 de 100 archivos de la muestra, Wayfair en 56 de 100, Motel 6 en 50 de 80 y Lufthansa en 50 de 94. Las páginas cebo publicaron 649 archivos, de los cuales 463 (71.3%) fueron marcados. \"Las marcas falsean el acabado. Las páginas cebo falsean a las personas.\""
+                "x": "Nuestra investigación muestra que las personas se sienten cómodas con los anuncios en AI Mode y los consideran muy relevantes. De hecho, las tasas de clics ya son similares entre los listados de productos patrocinados y los orgánicos dentro de AI Mode."
               },
               {
                 "t": "p",
-                "x": "Solo una marca lo declaró en su propio anuncio: Turkish Airlines. La búsqueda en el texto no puede ver las etiquetas incrustadas en el propio video, por lo que la cifra del 0.06% mide solo la divulgación escrita."
+                "x": "Ahora ampliamos los anuncios en AI Mode en Australia, Canadá, India, Kenia, Malasia, Nueva Zelanda, Nigeria, Pakistán, Filipinas y Singapur. En el Q4 2026 prevemos llegar a más mercados, entre ellos Brasil, México y el Reino Unido."
               },
               {
                 "t": "p",
-                "x": "La ley de New York sobre divulgación de intérpretes sintéticos se aplica desde el 9 de junio de 2026, y el Article 50 (artículo 50) de la EU AI Act, desde el 2 de agosto de 2026. El informe es además obra de un proveedor con un interés comercial directo en la respuesta."
+                "x": "Para permitir anuncios en las consultas de seguimiento de AI Mode, lanzamos anuncios multiturno en U.S."
+              },
+              {
+                "t": "p",
+                "x": "Los anuncios llevarán la etiqueta “Sponsored” de forma clara. Seguiremos probando nuevos formatos para que los anuncios sigan siendo útiles y relevantes."
               }
             ]
           }
@@ -355,15 +395,15 @@
       }
     },
     {
-      "id": "shopifykb",
+      "id": "metaranking",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Shopify, 에이전트용\nAI 지식베이스 관리자로",
-      "body": "Shopify가 AI 에이전트용 지식베이스를 관리자로 옮겼고 정책은 기본 공개다.",
-      "mini_headline": "Shopify 에이전트 정보, 관리자로",
+      "headline": "Meta 광고 랭킹에\n새 LLM-based 체계",
+      "body": "Meta는 개선 세 가지 중 하나로 노출마다 광고를 초당 십억 개 넘게 채점한다.",
+      "mini_headline": "Meta의 LLM 광고 랭킹",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -371,197 +411,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "Shopify가 독립형 Knowledge Base 앱 대신 AI 쇼핑 에이전트용 Merchant Admin 지식베이스를 기본으로 넣었다. 10월 26일 Shopify Changelog를 보면 기존 앱은 2027년 1월 15일 이후 더는 제공되지 않는다."
+            "x": "Meta는 이제 노출 한 번마다 적격 광고 전부를 초당 십억 개 넘게 평가한다. 수요일 Meta가 발표한 광고 랭킹 개선 세 가지 가운데 하나다. 나머지 둘은 지난해 내놓은 광고 추천 모델 GEM의 업데이트와 LLMs 기반의 새 생성형 추천 모델(GenRecs)이다. GenRecs는 참여 데이터가 적어도 사람들이 보고 싶어 할 광고를 예측해 낸다."
           },
           {
             "t": "p",
-            "x": "지식베이스(Sales channels > Agentic > Knowledge base)에는 반품 정책, 배송 기간, 브랜드 가치처럼 AI 에이전트가 매장 관련 고객 질문에 답할 때 필요한 제품 외 정보가 들어간다. Store Policies와 Contact Info는 만들어지자마자 자동으로 공개된다."
+            "x": "Meta는 랭킹 시스템을 개선한 결과 Q2 Facebook 클릭이 8.3%, 전환이 15.7% 늘었다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "정보는 열 개 카테고리로 나뉘며 스토어프런트 스캔과 Shopify 관리자 설정, 수동 입력에서 들어온다. 스토어프런트 스캔으로 찾은 정보는 판매자가 공개하기 전까지 비공개로 남는다. 각 매장의 공개 지식베이스는 Shop 앱과 서드파티 플랫폼 같은 AI 앱에 \"Storefront MCP를 통해 공개적으로 제공\"된다."
+            "x": "GenRecs는 광고주·캠페인·크리에이티브 IDs를 개념으로 바꾼다. LLMs가 광고 텍스트와 이미지를 읽고 핵심 속성을 공유 시맨틱 토큰으로 기술하는 방식이다. 덕분에 콜드 스타트 문제가 줄고 학습 기간도 짧아진다. 그래도 Meta의 광고 인프라·랭킹·AI 기반 담당 VP Matt Steiner는 “여전히 학습은 필요하다”고 말했다."
           },
           {
             "t": "p",
-            "x": "기존 앱에 정보를 1,000개 넘게 둔 판매자는 이전 대상에서 빠졌다. 남길 정보는 2027년 1월 15일 전에 다시 입력해야 한다. 규모가 작은 판매자의 정보는 자동으로 옮겨져 공개됐다."
+            "x": "GenRecs는 기존 모델과 나란히 돌아가는 새 생성형 검색 모델도 구동한다. Andromeda는 Meta와 Nvidia가 손잡고 하드웨어와 소프트웨어를 전면 개편했다. 새 GEM은 몸집이 더 커졌고 사용자마다 두 배 긴 이력을 읽는다. Meta는 이 방식으로 지난해 이후 전환이 약 19% 개선됐다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "Bill Hunt가 Shopify 매장 122곳을 시험해 보니 정책 도구에 질의한 88곳 중 주문 취소에 쓸 만한 답을 준 곳은 두 곳이었다."
+            "x": "Steiner는 “랭킹 모델이 광고가 누구에게 맞을지 더 잘 고르게 되면서 타기팅의 중요성은 시간이 갈수록 줄고 있다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shopify moves its AI agent\nknowledge base into admin",
-          "body": "Shopify's knowledge base for AI shopping agents now lives in the merchant admin, with policies published by default.",
-          "mini_headline": "Shopify agent facts move to admin",
+          "headline": "Meta ranks ads with a new\nLLM-based system",
+          "body": "Meta now scores every eligible ad for every impression at over a billion ads per second, one of three ranking upgrades.",
+          "mini_headline": "Meta's LLM ad ranking",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopify has replaced its standalone Knowledge Base app with the now included Merchant Admin knowledge base for AI shopping agents. According to Shopify's October 26 Changelog, the previous app will no longer be available after January 15, 2027."
+                "x": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three ad ranking upgrades Meta announced on Wednesday. The others are an update to GEM, the ads recommendation model it introduced last year, and a new generative recommendations model (GenRecs) built on LLMs that can predict which ads people will want to see, even with limited engagement data."
               },
               {
                 "t": "p",
-                "x": "The knowledge base (Sales channels > Agentic > Knowledge base) holds the non-product information an AI agent may need to answer customer questions about a store, such as return policy, shipping times and brand values. Store Policies and Contact Info are published automatically when created."
+                "x": "According to Meta, improvements to its ranking system drove 8.3% more clicks and a 15.7% lift in conversions on Facebook in Q2."
               },
               {
                 "t": "p",
-                "x": "Information is organized into ten categories, drawn from storefront scans, Shopify admin settings or manual input. Facts found by a storefront scan stay unpublished until the merchant publishes them. Each store's published knowledge base is \"publicly available through the Storefront MCP\" for AI apps such as the Shop app and third-party platforms."
+                "x": "GenRecs swaps advertiser, campaign and creative IDs for concepts: LLMs read an ad’s text and images and describe it by key attributes using shared semantic tokens. That eases the cold-start problem and shortens the learning phase. “You still have to learn,” said Matt Steiner, VP of ads infrastructure, ranking and AI foundations at Meta."
               },
               {
                 "t": "p",
-                "x": "Merchants with more than 1,000 facts in the old app did not have them transferred and must re-enter the facts they want to keep before Jan. 15, 2027. Smaller merchants' facts were moved and published automatically."
+                "x": "GenRecs also powers a new generative retrieval model that runs in parallel with the original one, while Andromeda got a hardware and software overhaul through Meta’s partnership with Nvidia. The new GEM is bigger and reads twice as long a history for every user; Meta says the approach has delivered a roughly 19% conversion improvement since last year."
               },
               {
                 "t": "p",
-                "x": "Bill Hunt tested 122 Shopify stores; of the 88 whose policy tool he queried, two returned a usable answer about canceling an order."
+                "x": "“The importance of targeting is diminishing over time as ranking models get better at selecting who an ad would be relevant for,” Steiner said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Shopify, 에이전트용\nAI 지식베이스 관리자로",
-          "body": "Shopify가 AI 에이전트용 지식베이스를 관리자로 옮겼고 정책은 기본 공개다.",
-          "mini_headline": "Shopify 에이전트 정보, 관리자로",
+          "headline": "Meta 광고 랭킹에\n새 LLM-based 체계",
+          "body": "Meta는 개선 세 가지 중 하나로 노출마다 광고를 초당 십억 개 넘게 채점한다.",
+          "mini_headline": "Meta의 LLM 광고 랭킹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopify가 독립형 Knowledge Base 앱 대신 AI 쇼핑 에이전트용 Merchant Admin 지식베이스를 기본으로 넣었다. 10월 26일 Shopify Changelog를 보면 기존 앱은 2027년 1월 15일 이후 더는 제공되지 않는다."
+                "x": "Meta는 이제 노출 한 번마다 적격 광고 전부를 초당 십억 개 넘게 평가한다. 수요일 Meta가 발표한 광고 랭킹 개선 세 가지 가운데 하나다. 나머지 둘은 지난해 내놓은 광고 추천 모델 GEM의 업데이트와 LLMs 기반의 새 생성형 추천 모델(GenRecs)이다. GenRecs는 참여 데이터가 적어도 사람들이 보고 싶어 할 광고를 예측해 낸다."
               },
               {
                 "t": "p",
-                "x": "지식베이스(Sales channels > Agentic > Knowledge base)에는 반품 정책, 배송 기간, 브랜드 가치처럼 AI 에이전트가 매장 관련 고객 질문에 답할 때 필요한 제품 외 정보가 들어간다. Store Policies와 Contact Info는 만들어지자마자 자동으로 공개된다."
+                "x": "Meta는 랭킹 시스템을 개선한 결과 Q2 Facebook 클릭이 8.3%, 전환이 15.7% 늘었다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "정보는 열 개 카테고리로 나뉘며 스토어프런트 스캔과 Shopify 관리자 설정, 수동 입력에서 들어온다. 스토어프런트 스캔으로 찾은 정보는 판매자가 공개하기 전까지 비공개로 남는다. 각 매장의 공개 지식베이스는 Shop 앱과 서드파티 플랫폼 같은 AI 앱에 \"Storefront MCP를 통해 공개적으로 제공\"된다."
+                "x": "GenRecs는 광고주·캠페인·크리에이티브 IDs를 개념으로 바꾼다. LLMs가 광고 텍스트와 이미지를 읽고 핵심 속성을 공유 시맨틱 토큰으로 기술하는 방식이다. 덕분에 콜드 스타트 문제가 줄고 학습 기간도 짧아진다. 그래도 Meta의 광고 인프라·랭킹·AI 기반 담당 VP Matt Steiner는 “여전히 학습은 필요하다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "기존 앱에 정보를 1,000개 넘게 둔 판매자는 이전 대상에서 빠졌다. 남길 정보는 2027년 1월 15일 전에 다시 입력해야 한다. 규모가 작은 판매자의 정보는 자동으로 옮겨져 공개됐다."
+                "x": "GenRecs는 기존 모델과 나란히 돌아가는 새 생성형 검색 모델도 구동한다. Andromeda는 Meta와 Nvidia가 손잡고 하드웨어와 소프트웨어를 전면 개편했다. 새 GEM은 몸집이 더 커졌고 사용자마다 두 배 긴 이력을 읽는다. Meta는 이 방식으로 지난해 이후 전환이 약 19% 개선됐다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Bill Hunt가 Shopify 매장 122곳을 시험해 보니 정책 도구에 질의한 88곳 중 주문 취소에 쓸 만한 답을 준 곳은 두 곳이었다."
+                "x": "Steiner는 “랭킹 모델이 광고가 누구에게 맞을지 더 잘 고르게 되면서 타기팅의 중요성은 시간이 갈수록 줄고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopify、AI向け\nナレッジベースを管理画面へ",
-          "body": "ShopifyのAI向けナレッジベースが管理画面に移り、ポリシーは既定で公開される。",
-          "mini_headline": "Shopifyのエージェント情報が管理画面へ",
+          "headline": "Meta、広告順位付けに\n新たなLLM-based方式",
+          "body": "Metaは三つのランキング改良の一つとして、表示ごとに毎秒十億件超の広告を評価する。",
+          "mini_headline": "MetaのLLM広告ランキング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopifyは、単体のKnowledge Baseアプリを、現在は標準で含まれるAIショッピングエージェント向けのMerchant Adminナレッジベースに置き換えた。Shopifyの10月26日のChangelogによると、旧アプリは2027年1月15日以降利用できなくなる。"
+                "x": "Metaは現在、表示のたびに対象となるすべての広告を毎秒十億件超のペースで評価している。これはMetaが水曜日に発表した三つの広告ランキング改良の一つだ。その他は、昨年導入した広告推薦モデルGEMの更新と、LLMsを基盤とする新たな生成型推薦モデル(GenRecs)で、後者はエンゲージメントのデータが少なくても、人々が見たい広告を予測できる。"
               },
               {
                 "t": "p",
-                "x": "ナレッジベース（Sales channels > Agentic > Knowledge base）には、返品ポリシーや配送日数、ブランドの価値観など、AIエージェントが店舗に関する顧客の質問に答えるのに必要となりうる商品以外の情報を登録する。Store PoliciesとContact Infoは作成時に自動で公開される。"
+                "x": "Metaによると、ランキングシステムの改善により、Q2のFacebookではクリックが8.3%増え、コンバージョンが15.7%伸びた。"
               },
               {
                 "t": "p",
-                "x": "情報は十のカテゴリーに整理され、ストアフロントのスキャン、Shopify管理画面の設定、手動入力から取り込まれる。ストアフロントのスキャンで見つかった情報は、販売者が公開するまで非公開のままだ。各店舗の公開ナレッジベースは、ShopアプリやサードパーティーのプラットフォームなどのAIアプリに対し「Storefront MCPを通じて一般に利用可能」となる。"
+                "x": "GenRecsは広告主、キャンペーン、クリエイティブのIDsを概念に置き換える。LLMsが広告のテキストと画像を読み取り、共通のセマンティックトークンで主要な属性を記述する。これによりコールドスタート問題が和らぎ、学習期間が短くなる。「それでも学習は必要だ」と、Metaで広告インフラ、ランキング、AI基盤を担当するVPのMatt Steinerは述べた。"
               },
               {
                 "t": "p",
-                "x": "旧アプリに1,000件を超える情報を登録していた販売者は移行の対象外で、残したい情報を2027年1月15日までに再入力する必要がある。規模の小さい販売者の情報は自動で移行・公開された。"
+                "x": "GenRecsは従来のモデルと並行して動く新たな生成型検索モデルも支えている。一方、AndromedaはMetaとNvidiaの提携によりハードウェアとソフトウェアが刷新された。新しいGEMはより大きく、ユーザーごとに二倍の長さの履歴を読み込む。Metaによれば、この手法は昨年以降、コンバージョンを約19%改善した。"
               },
               {
                 "t": "p",
-                "x": "Bill HuntはShopifyの122店舗をテストした。ポリシーツールに問い合わせた88店舗のうち、注文のキャンセルについて使える回答を返したのは二店舗だった。"
+                "x": "「ランキングモデルが、広告が誰に関連するかをより的確に選べるようになるにつれ、ターゲティングの重要性は時間とともに薄れている」とSteinerは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shopify将AI代理\n知识库移入商家后台",
-          "body": "Shopify面向AI购物代理的知识库已移入商家后台，政策信息默认公开。",
-          "mini_headline": "Shopify代理信息移入后台",
+          "headline": "Meta广告排序\n启用新LLM-based系统",
+          "body": "Meta现以每秒超十亿条的速度为每次展示的全部合格广告评分，这是三项排序升级之一。",
+          "mini_headline": "Meta的LLM广告排序",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopify已用现已内置、面向AI购物代理的Merchant Admin知识库，取代了独立的Knowledge Base应用。根据Shopify 10月26日的Changelog，旧应用将在2027年1月15日之后停止提供。"
+                "x": "Meta如今以每秒超过十亿条的速度，为每一次展示的所有合格广告评分，这是Meta周三公布的三项广告排序升级之一。其余升级是对去年推出的广告推荐模型GEM的更新，以及基于LLMs的全新生成式推荐模型(GenRecs)，即使互动数据有限，它也能预测人们想看到哪些广告。"
               },
               {
                 "t": "p",
-                "x": "该知识库（Sales channels > Agentic > Knowledge base）存放AI代理回答顾客有关店铺的问题时可能需要的非商品信息，例如退货政策、配送时间和品牌价值观。Store Policies和Contact Info在创建时即自动发布。"
+                "x": "据Meta称，排序系统的改进使Facebook在Q2的点击量增加8.3%，转化率提升15.7%。"
               },
               {
                 "t": "p",
-                "x": "信息分为十个类别，来源包括店面扫描、Shopify后台设置或手动输入。通过店面扫描发现的信息在商家发布之前保持未发布状态。每家店铺已发布的知识库会“通过Storefront MCP公开提供”给Shop应用和第三方平台等AI应用。"
+                "x": "GenRecs用概念取代广告主、广告系列和创意的IDs：LLMs读取广告的文字和图片，并用共享的语义token按关键属性加以描述。这缓解了冷启动问题，并缩短了学习期。Meta广告基础设施、排序与AI基础VP Matt Steiner表示：“你仍然需要学习。”"
               },
               {
                 "t": "p",
-                "x": "旧应用中信息超过1,000条的商家，其信息未被迁移，必须在2027年1月15日之前重新录入想保留的信息。规模较小商家的信息已被自动迁移并发布。"
+                "x": "GenRecs还驱动一个与原有模型并行运行的新生成式检索模型；与此同时，Andromeda借助Meta与Nvidia的合作完成了软硬件全面升级。新版GEM规模更大，为每位用户读取的历史长度是原来的两倍；Meta称，这一方法自去年以来使转化率提升了约19%。"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt测试了122家Shopify店铺；在他查询过政策工具的88家中，有两家就取消订单给出了可用的回答。"
+                "x": "Steiner说：“随着排序模型越来越善于判断广告与谁相关，定向的重要性正随时间推移而下降。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shopify mueve al admin su base\nde conocimiento para agentes IA",
-          "body": "La base de conocimiento de Shopify para agentes de IA ya está en el admin, con las políticas publicadas por defecto.",
-          "mini_headline": "Los datos de agentes de Shopify, al admin",
+          "headline": "Meta ordena sus anuncios con un\nnuevo sistema LLM-based",
+          "body": "Meta ya puntúa cada anuncio elegible en cada impresión a más de mil millones por segundo, una de tres mejoras.",
+          "mini_headline": "El ranking de anuncios LLM de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopify reemplazó su app independiente Knowledge Base por la base de conocimiento de Merchant Admin para agentes de compra con IA, ahora incluida. Según el Changelog de Shopify del 26 de octubre, la app anterior dejará de estar disponible después del 15 de enero de 2027."
+                "x": "Meta ya puntúa cada anuncio elegible en cada impresión a un ritmo de más de mil millones de anuncios por segundo, una de las tres mejoras de ranking publicitario que Meta anunció el miércoles. Las otras son una actualización de GEM, el modelo de recomendación de anuncios que presentó el año pasado, y un nuevo modelo de recomendaciones generativas (GenRecs) basado en LLMs, capaz de predecir qué anuncios querrá ver la gente incluso con pocos datos de interacción."
               },
               {
                 "t": "p",
-                "x": "La base de conocimiento (Sales channels > Agentic > Knowledge base) contiene la información ajena a los productos que un agente de IA puede necesitar para responder preguntas de clientes sobre una tienda, como la política de devoluciones, los plazos de envío y los valores de marca. Store Policies y Contact Info se publican automáticamente al crearse."
+                "x": "Según Meta, las mejoras de su sistema de ranking generaron un 8.3% más de clics y un aumento del 15.7% en conversiones en Facebook en el Q2."
               },
               {
                 "t": "p",
-                "x": "La información se organiza en diez categorías y procede de escaneos de la tienda, ajustes del admin de Shopify o entrada manual. Los datos hallados por un escaneo de la tienda permanecen sin publicar hasta que el comerciante los publica. La base de conocimiento publicada de cada tienda está \"disponible públicamente a través del Storefront MCP\" para apps de IA como la Shop app y plataformas de terceros."
+                "x": "GenRecs sustituye los IDs de anunciante, campaña y creatividad por conceptos: los LLMs leen el texto y las imágenes de un anuncio y lo describen por sus atributos clave mediante tokens semánticos compartidos. Eso alivia el problema del arranque en frío y acorta la fase de aprendizaje. “Todavía hay que aprender”, dijo Matt Steiner, VP de infraestructura de anuncios, ranking y fundamentos de AI en Meta."
               },
               {
                 "t": "p",
-                "x": "A los comerciantes con más de 1,000 datos en la app anterior no se les transfirieron, y deben volver a introducir los que quieran conservar antes del 15 de enero de 2027. Los datos de los comerciantes más pequeños se trasladaron y publicaron automáticamente."
+                "x": "GenRecs también impulsa un nuevo modelo de recuperación generativa que funciona en paralelo con el original, mientras que Andromeda recibió una renovación de hardware y software gracias a la alianza de Meta con Nvidia. El nuevo GEM es más grande y lee un historial el doble de largo de cada usuario; Meta afirma que el enfoque ha logrado una mejora de alrededor del 19% en conversiones desde el año pasado."
               },
               {
                 "t": "p",
-                "x": "Bill Hunt probó 122 tiendas de Shopify; de las 88 cuya herramienta de políticas consultó, dos devolvieron una respuesta útil sobre la cancelación de un pedido."
+                "x": "“La importancia de la segmentación disminuye con el tiempo a medida que los modelos de ranking mejoran al elegir para quién sería relevante un anuncio”, dijo Steiner."
               }
             ]
           }
@@ -569,137 +609,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Shopify, 에이전트용\nAI 지식베이스 관리자로",
-          "body": "Shopify AI 에이전트용 지식베이스가 관리자로 옮겨졌고 정책은 기본 공개다.",
-          "mini_headline": "Shopify 에이전트 정보, 관리자로",
+          "headline": "Meta 광고 랭킹에\n새 LLM-based 체계",
+          "body": "Meta는 세 가지 개선 중 하나로 노출마다 광고를 초당 십억 개 넘게 채점한다.",
+          "mini_headline": "Meta의 LLM 광고 랭킹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopify가 독립형 Knowledge Base 앱을, 이제 기본 포함된 AI 쇼핑 에이전트용 Merchant Admin 지식베이스로 대체했다. Shopify의 10월 26일 Changelog에 따르면 기존 앱은 2027년 1월 15일 이후 더는 제공되지 않는다."
+                "x": "Meta는 이제 노출마다 모든 적격 광고를 초당 십억 개 넘게 평가한다. Meta가 수요일 발표한 광고 랭킹 개선 세 가지 중 하나다. 나머지는 지난해 내놓은 광고 추천 모델 GEM의 업데이트, 그리고 LLMs 기반의 새 생성형 추천 모델(GenRecs)이다. GenRecs는 참여 데이터가 적어도 사람들이 보고 싶어 할 광고를 예측할 수 있다."
               },
               {
                 "t": "p",
-                "x": "지식베이스(Sales channels > Agentic > Knowledge base)에는 반품 정책, 배송 기간, 브랜드 가치처럼 AI 에이전트가 매장에 관한 고객 질문에 답할 때 필요할 수 있는 제품 외 정보가 담긴다. Store Policies와 Contact Info는 생성되는 즉시 자동으로 공개된다."
+                "x": "Meta에 따르면 랭킹 시스템 개선으로 Q2 Facebook의 클릭이 8.3% 늘고 전환은 15.7% 증가했다."
               },
               {
                 "t": "p",
-                "x": "정보는 열 개 카테고리로 정리되며 스토어프런트 스캔, Shopify 관리자 설정, 수동 입력에서 가져온다. 스토어프런트 스캔으로 찾은 정보는 판매자가 공개하기 전까지 비공개로 남는다. 각 매장의 공개 지식베이스는 Shop 앱과 서드파티 플랫폼 같은 AI 앱에 \"Storefront MCP를 통해 공개적으로 제공\"된다."
+                "x": "GenRecs는 광고주·캠페인·크리에이티브 IDs를 개념으로 바꾼다. LLMs가 광고의 텍스트와 이미지를 읽고 공유 시맨틱 토큰으로 핵심 속성을 기술한다. 이는 콜드 스타트 문제를 덜고 학습 기간을 줄인다. Meta의 광고 인프라·랭킹·AI 기반 담당 VP Matt Steiner는 “여전히 학습은 필요하다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "기존 앱에 1,000개가 넘는 정보를 둔 판매자는 정보가 이전되지 않았으므로, 유지하려는 정보를 2027년 1월 15일 전에 다시 입력해야 한다. 규모가 작은 판매자의 정보는 자동으로 옮겨져 공개됐다."
+                "x": "GenRecs는 기존 모델과 병렬로 돌아가는 새 생성형 검색 모델도 구동하며, Andromeda는 Meta와 Nvidia의 협력으로 하드웨어와 소프트웨어를 전면 개편했다. 새 GEM은 더 커졌고 사용자마다 두 배 긴 이력을 읽는다. Meta는 이 방식이 지난해 이후 전환을 약 19% 개선했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Bill Hunt가 Shopify 매장 122곳을 테스트한 결과, 정책 도구에 질의한 88곳 가운데 주문 취소에 대해 쓸 만한 답을 내놓은 곳은 두 곳이었다."
+                "x": "Steiner는 “랭킹 모델이 광고가 누구에게 맞을지 더 잘 고르게 되면서 타기팅의 중요성은 시간이 갈수록 줄고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopify、AI向け\nナレッジベースを管理画面へ",
-          "body": "ShopifyのAI向けナレッジベースが管理画面に移り、ポリシーは既定で公開される。",
-          "mini_headline": "Shopifyのエージェント情報が管理画面へ",
+          "headline": "Meta、広告順位付けに\n新たなLLM-based方式",
+          "body": "Metaは三つのランキング改良の一つとして、表示ごとに毎秒十億件超の広告を評価する。",
+          "mini_headline": "MetaのLLM広告ランキング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopifyは、単体のKnowledge Baseアプリを、現在は標準で含まれるAIショッピングエージェント向けのMerchant Adminナレッジベースに置き換えた。Shopifyの10月26日のChangelogによると、旧アプリは2027年1月15日以降利用できなくなる。"
+                "x": "Metaは現在、表示のたびに対象となるすべての広告を毎秒十億件超のペースで評価している。これはMetaが水曜日に発表した三つの広告ランキング改良の一つだ。その他は、昨年導入した広告推薦モデルGEMの更新と、LLMsを基盤とする新たな生成型推薦モデル(GenRecs)で、後者はエンゲージメントのデータが少なくても、人々が見たい広告を予測できる。"
               },
               {
                 "t": "p",
-                "x": "ナレッジベース（Sales channels > Agentic > Knowledge base）には、返品ポリシーや配送日数、ブランドの価値観など、AIエージェントが店舗に関する顧客の質問に答えるのに必要となりうる商品以外の情報を登録する。Store PoliciesとContact Infoは作成時に自動で公開される。"
+                "x": "Metaによると、ランキングシステムの改善により、Q2のFacebookではクリックが8.3%増え、コンバージョンが15.7%伸びた。"
               },
               {
                 "t": "p",
-                "x": "情報は十のカテゴリーに整理され、ストアフロントのスキャン、Shopify管理画面の設定、手動入力から取り込まれる。ストアフロントのスキャンで見つかった情報は、販売者が公開するまで非公開のままだ。各店舗の公開ナレッジベースは、ShopアプリやサードパーティーのプラットフォームなどのAIアプリに対し「Storefront MCPを通じて一般に利用可能」となる。"
+                "x": "GenRecsは広告主、キャンペーン、クリエイティブのIDsを概念に置き換える。LLMsが広告のテキストと画像を読み取り、共通のセマンティックトークンで主要な属性を記述する。これによりコールドスタート問題が和らぎ、学習期間が短くなる。「それでも学習は必要だ」と、Metaで広告インフラ、ランキング、AI基盤を担当するVPのMatt Steinerは述べた。"
               },
               {
                 "t": "p",
-                "x": "旧アプリに1,000件を超える情報を登録していた販売者は移行の対象外で、残したい情報を2027年1月15日までに再入力する必要がある。規模の小さい販売者の情報は自動で移行・公開された。"
+                "x": "GenRecsは従来のモデルと並行して動く新たな生成型検索モデルも支えている。一方、AndromedaはMetaとNvidiaの提携によりハードウェアとソフトウェアが刷新された。新しいGEMはより大きく、ユーザーごとに二倍の長さの履歴を読み込む。Metaによれば、この手法は昨年以降、コンバージョンを約19%改善した。"
               },
               {
                 "t": "p",
-                "x": "Bill HuntはShopifyの122店舗をテストした。ポリシーツールに問い合わせた88店舗のうち、注文のキャンセルについて使える回答を返したのは二店舗だった。"
+                "x": "「ランキングモデルが、広告が誰に関連するかをより的確に選べるようになるにつれ、ターゲティングの重要性は時間とともに薄れている」とSteinerは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shopify将AI代理\n知识库移入商家后台",
-          "body": "Shopify面向AI购物代理的知识库已移入商家后台，政策信息默认公开。",
-          "mini_headline": "Shopify代理信息移入后台",
+          "headline": "Meta广告排序\n启用新LLM-based系统",
+          "body": "Meta现以每秒超十亿条的速度为每次展示的全部合格广告评分，这是三项排序升级之一。",
+          "mini_headline": "Meta的LLM广告排序",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopify已用现已内置、面向AI购物代理的Merchant Admin知识库，取代了独立的Knowledge Base应用。根据Shopify 10月26日的Changelog，旧应用将在2027年1月15日之后停止提供。"
+                "x": "Meta如今以每秒超过十亿条的速度，为每一次展示的所有合格广告评分，这是Meta周三公布的三项广告排序升级之一。其余升级是对去年推出的广告推荐模型GEM的更新，以及基于LLMs的全新生成式推荐模型(GenRecs)，即使互动数据有限，它也能预测人们想看到哪些广告。"
               },
               {
                 "t": "p",
-                "x": "该知识库（Sales channels > Agentic > Knowledge base）存放AI代理回答顾客有关店铺的问题时可能需要的非商品信息，例如退货政策、配送时间和品牌价值观。Store Policies和Contact Info在创建时即自动发布。"
+                "x": "据Meta称，排序系统的改进使Facebook在Q2的点击量增加8.3%，转化率提升15.7%。"
               },
               {
                 "t": "p",
-                "x": "信息分为十个类别，来源包括店面扫描、Shopify后台设置或手动输入。通过店面扫描发现的信息在商家发布之前保持未发布状态。每家店铺已发布的知识库会“通过Storefront MCP公开提供”给Shop应用和第三方平台等AI应用。"
+                "x": "GenRecs用概念取代广告主、广告系列和创意的IDs：LLMs读取广告的文字和图片，并用共享的语义token按关键属性加以描述。这缓解了冷启动问题，并缩短了学习期。Meta广告基础设施、排序与AI基础VP Matt Steiner表示：“你仍然需要学习。”"
               },
               {
                 "t": "p",
-                "x": "旧应用中信息超过1,000条的商家，其信息未被迁移，必须在2027年1月15日之前重新录入想保留的信息。规模较小商家的信息已被自动迁移并发布。"
+                "x": "GenRecs还驱动一个与原有模型并行运行的新生成式检索模型；与此同时，Andromeda借助Meta与Nvidia的合作完成了软硬件全面升级。新版GEM规模更大，为每位用户读取的历史长度是原来的两倍；Meta称，这一方法自去年以来使转化率提升了约19%。"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt测试了122家Shopify店铺；在他查询过政策工具的88家中，有两家就取消订单给出了可用的回答。"
+                "x": "Steiner说：“随着排序模型越来越善于判断广告与谁相关，定向的重要性正随时间推移而下降。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shopify mueve al admin su base\nde conocimiento para agentes IA",
-          "body": "La base de conocimiento de Shopify para agentes de IA ya está en el admin, con las políticas publicadas por defecto.",
-          "mini_headline": "Los datos de agentes de Shopify, al admin",
+          "headline": "Meta ordena sus anuncios con un\nnuevo sistema LLM-based",
+          "body": "Meta ya puntúa cada anuncio elegible en cada impresión a más de mil millones por segundo, una de tres mejoras.",
+          "mini_headline": "El ranking de anuncios LLM de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Shopify reemplazó su app independiente Knowledge Base por la base de conocimiento de Merchant Admin para agentes de compra con IA, ahora incluida. Según el Changelog de Shopify del 26 de octubre, la app anterior dejará de estar disponible después del 15 de enero de 2027."
+                "x": "Meta ya puntúa cada anuncio elegible en cada impresión a un ritmo de más de mil millones de anuncios por segundo, una de las tres mejoras de ranking publicitario que Meta anunció el miércoles. Las otras son una actualización de GEM, el modelo de recomendación de anuncios que presentó el año pasado, y un nuevo modelo de recomendaciones generativas (GenRecs) basado en LLMs, capaz de predecir qué anuncios querrá ver la gente incluso con pocos datos de interacción."
               },
               {
                 "t": "p",
-                "x": "La base de conocimiento (Sales channels > Agentic > Knowledge base) contiene la información ajena a los productos que un agente de IA puede necesitar para responder preguntas de clientes sobre una tienda, como la política de devoluciones, los plazos de envío y los valores de marca. Store Policies y Contact Info se publican automáticamente al crearse."
+                "x": "Según Meta, las mejoras de su sistema de ranking generaron un 8.3% más de clics y un aumento del 15.7% en conversiones en Facebook en el Q2."
               },
               {
                 "t": "p",
-                "x": "La información se organiza en diez categorías y procede de escaneos de la tienda, ajustes del admin de Shopify o entrada manual. Los datos hallados por un escaneo de la tienda permanecen sin publicar hasta que el comerciante los publica. La base de conocimiento publicada de cada tienda está \"disponible públicamente a través del Storefront MCP\" para apps de IA como la Shop app y plataformas de terceros."
+                "x": "GenRecs sustituye los IDs de anunciante, campaña y creatividad por conceptos: los LLMs leen el texto y las imágenes de un anuncio y lo describen por sus atributos clave mediante tokens semánticos compartidos. Eso alivia el problema del arranque en frío y acorta la fase de aprendizaje. “Todavía hay que aprender”, dijo Matt Steiner, VP de infraestructura de anuncios, ranking y fundamentos de AI en Meta."
               },
               {
                 "t": "p",
-                "x": "A los comerciantes con más de 1,000 datos en la app anterior no se les transfirieron, y deben volver a introducir los que quieran conservar antes del 15 de enero de 2027. Los datos de los comerciantes más pequeños se trasladaron y publicaron automáticamente."
+                "x": "GenRecs también impulsa un nuevo modelo de recuperación generativa que funciona en paralelo con el original, mientras que Andromeda recibió una renovación de hardware y software gracias a la alianza de Meta con Nvidia. El nuevo GEM es más grande y lee un historial el doble de largo de cada usuario; Meta afirma que el enfoque ha logrado una mejora de alrededor del 19% en conversiones desde el año pasado."
               },
               {
                 "t": "p",
-                "x": "Bill Hunt probó 122 tiendas de Shopify; de las 88 cuya herramienta de políticas consultó, dos devolvieron una respuesta útil sobre la cancelación de un pedido."
+                "x": "“La importancia de la segmentación disminuye con el tiempo a medida que los modelos de ranking mejoran al elegir para quién sería relevante un anuncio”, dijo Steiner."
               }
             ]
           }
@@ -707,631 +747,311 @@
       }
     },
     {
-      "id": "indentm",
-      "source_lang": "ko",
+      "id": "stackadapt",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "인플루언서 마케팅 맡는\nAI 에이전트 '인덴트M'",
-      "body": "인덴트코퍼레이션이 72개국 인플루언서 마케팅을 대행하는 AI 에이전트를 공개했다.",
-      "mini_headline": "인덴트M, 72개국 마케팅",
+      "headline": "StackAdapt 리타깃\nChatGPT→CTV·배너",
+      "body": "StackAdapt가 Data Hub로 ChatGPT 광고 시청자를 다시 겨냥한다.",
+      "mini_headline": "StackAdapt의 ChatGPT 광고 리타기팅",
       "tool": "Marketing",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261027000286",
+      "source": "PPC Land",
+      "url": "https://ppc.land/stackadapt-lets-advertisers-retarget-chatgpt-ad-viewers-on-ctv-and-display/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+            "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
           },
           {
             "t": "p",
-            "x": "인덴트코퍼레이션이 세계 72개국에서 인플루언서 마케팅 기획과 실행을 지원하는 인공지능(AI) 에이전트 '인덴트M'을 공개했다."
+            "x": "StackAdapt가 ChatGPT Ads용 크로스채널 리타기팅을 확대한다고 발표했다. 보도자료는 “광고주는 ChatGPT Ad를 본 소비자를 StackAdapt의 더 넓은 프로그래매틱 생태계 전반에서 리타기팅할 수 있다”고 밝힌다. 기준은 클릭이 아니라 노출이다. 세그먼트는 Data Hub에서 퍼스트파티 데이터, CRM 연동과 함께 관리한다."
           },
           {
             "t": "p",
-            "x": "윤태석 인덴트코퍼레이션 대표는 27일 서울 서대문구 피알브릿지 스토리움에서 열린 '인덴트M 론칭 기자간담회'에서 “1인 브랜드가 매출 1조원을 달성할 수 있는 엔진을 만드는 것이 비전”이라며 “이를 위해 인간 마케터의 반복적인 운영 업무를 AI가 대신 수행하는 인덴트M을 출시한다”고 밝혔다."
+            "x": "보도자료는 짧다. 출시 시장, 가격, 식별자, 고객사, 성과 중 어느 것도 밝히지 않는다. ChatGPT 안의 노출을 어떻게 기록하는지, 그 노출을 TV나 웹 페이지 속 사람과 어떻게 잇는지도 설명이 없다."
           },
           {
             "t": "p",
-            "x": "인덴트M은 마케팅 전략에 따라 크리에이터를 발굴하고 캠페인을 실행하는 AI 에이전트다. 72개 국가에서 뷰티·푸드·패션·라이프스타일 등 각 분야의 글로벌 인플루언서 마케팅을 지원한다."
+            "x": "인용된 인물은 StackAdapt 공동창업자 겸 최고기술책임자 Yang Han 한 명이고, OpenAI 임원의 발언은 없다. OpenAI는 광고주가 광고 성과에 관해 집계된 정보만 받는다고 말한다. EEA와 스위스에서는 개인화 없이 광고가 나갔다."
           },
           {
             "t": "p",
-            "x": "윤 대표는 “브랜드가 해외에 진출할 때 대기업이나 대형 대행사도 미국·일본 외 국가의 경우 현지 대행사에 의존하는 경우가 많다”며 “인덴트M은 사람이 아닌 AI가 전 세계 72개국에서 마케팅을 직접 집행해 언어 장벽이 없다는 점이 강점”이라고 강조했다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-          },
-          {
-            "t": "p",
-            "x": "윤 대표는 콘텐츠 커머스에 AI 자동화 기술이 결합하는 흐름을 '커머스 4.5세대'로 정의했다. 기존 4세대가 크리에이터의 콘텐츠로 소비자의 구매를 유도했다면, 4.5세대는 AI가 마케팅 기획·실행과 캠페인 실행의 반복 업무를 자동화한다."
-          },
-          {
-            "t": "p",
-            "x": "핵심 전략은 '바이럴 시딩(Viral Seeding)'이다. 유사한 크리에이터의 콘텐츠를 집중 게시해 소셜미디어 확산을 유도한다. K뷰티 브랜드가 틱톡에서 입소문을 타고 아마존 판매 상위권에 진입해 현지 유통업체의 상품 매입으로 이어진 사례가 대표적이다."
-          },
-          {
-            "t": "p",
-            "x": "문제는 캠페인 규모가 커질수록 크리에이터 탐색·섭외와 콘텐츠 관리에 필요한 인력과 시간이 늘어난다는 점이다. 윤 대표는 AI로 1분에 약 1000만명의 크리에이터를 검토해 대규모 마케팅의 운영 부담을 줄일 수 있다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "인덴트M은 자체 인플루언서 마케팅 플랫폼 '스프레이 IO'를 기반으로 개발됐다. 최근 3년간 100개 이상 브랜드와 930건 이상 캠페인, 8만건 이상 콘텐츠 협업을 진행한 경험을 반영했다."
-          },
-          {
-            "t": "p",
-            "x": "자연어로 제품·국가·캠페인 조건을 입력하면 AI가 적합한 크리에이터를 선정하고 마케팅을 집행한다. 예상 조회수와 판매 효과 등 예측 데이터를 기반으로 크리에이터별 성과를 비교할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "인덴트코퍼레이션은 인덴트M을 글로벌 판매·물류 플랫폼 '인덴트O'을 연계한다. 인덴트O는 직접 판매(D2C) 서비스 '보부샵' 기반으로 판매 페이지 생성, 다국어 현지화, 결제·배송 연동 등을 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "윤 대표는 “중소 브랜드뿐 아니라 대형 브랜드의 글로벌 마케팅 진입장벽을 낮추고 마케팅부터 판매·물류까지 연결되는 커머스 환경을 구축하겠다”고 말했다."
+            "x": "OpenAI 도구는 대부분 광고주 데이터를 ChatGPT 쪽으로 옮겨 왔는데, StackAdapt 보도자료가 설명하는 흐름은 그 반대다. 10월 21일 OpenAI는 ChatGPT 광고를 26개국에 더 열어 총 89개국으로 늘렸다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "인플루언서 마케팅 맡는\nAI 에이전트 '인덴트M'",
-          "body": "인덴트코퍼레이션이 72개국 인플루언서 마케팅을 대행하는 AI 에이전트를 공개했다.",
-          "mini_headline": "인덴트M, 72개국 마케팅",
+        "en": {
+          "headline": "StackAdapt retargets ChatGPT\nad viewers on CTV and display",
+          "body": "StackAdapt's Data Hub lets brands retarget ChatGPT ad viewers, though how a view is matched goes unexplained.",
+          "mini_headline": "StackAdapt retargets ChatGPT ads",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "인덴트코퍼레이션이 세계 72개국에서 인플루언서 마케팅 기획과 실행을 지원하는 인공지능(AI) 에이전트 '인덴트M'을 공개했다."
+                "x": "StackAdapt announced expanded cross-channel retargeting for ChatGPT Ads. \"Advertisers can retarget consumers who viewed a ChatGPT Ad across StackAdapt's broader programmatic ecosystem,\" the release states — the trigger is a view rather than a click. Segments are managed in its Data Hub alongside first-party data and CRM integrations."
               },
               {
                 "t": "p",
-                "x": "윤태석 인덴트코퍼레이션 대표는 27일 서울 서대문구 피알브릿지 스토리움에서 열린 '인덴트M 론칭 기자간담회'에서 “1인 브랜드가 매출 1조원을 달성할 수 있는 엔진을 만드는 것이 비전”이라며 “이를 위해 인간 마케터의 반복적인 운영 업무를 AI가 대신 수행하는 인덴트M을 출시한다”고 밝혔다."
+                "x": "The release is short. It names no launch markets, no pricing, no identifiers, no clients and no results. It also does not say how a view inside ChatGPT is recorded and then matched to a person on a television or a web page."
               },
               {
                 "t": "p",
-                "x": "인덴트M은 마케팅 전략에 따라 크리에이터를 발굴하고 캠페인을 실행하는 AI 에이전트다. 72개 국가에서 뷰티·푸드·패션·라이프스타일 등 각 분야의 글로벌 인플루언서 마케팅을 지원한다."
+                "x": "Yang Han, StackAdapt's co-founder and chief technology officer, is the only person quoted; no OpenAI executive is quoted. OpenAI says advertisers receive only aggregate information about how their ads perform, and in the EEA and Switzerland ads launched without personalisation."
               },
               {
                 "t": "p",
-                "x": "윤 대표는 “브랜드가 해외에 진출할 때 대기업이나 대형 대행사도 미국·일본 외 국가의 경우 현지 대행사에 의존하는 경우가 많다”며 “인덴트M은 사람이 아닌 AI가 전 세계 72개국에서 마케팅을 직접 집행해 언어 장벽이 없다는 점이 강점”이라고 강조했다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "윤 대표는 콘텐츠 커머스에 AI 자동화 기술이 결합하는 흐름을 '커머스 4.5세대'로 정의했다. 기존 4세대가 크리에이터의 콘텐츠로 소비자의 구매를 유도했다면, 4.5세대는 AI가 마케팅 기획·실행과 캠페인 실행의 반복 업무를 자동화한다."
-              },
-              {
-                "t": "p",
-                "x": "핵심 전략은 '바이럴 시딩(Viral Seeding)'이다. 유사한 크리에이터의 콘텐츠를 집중 게시해 소셜미디어 확산을 유도한다. K뷰티 브랜드가 틱톡에서 입소문을 타고 아마존 판매 상위권에 진입해 현지 유통업체의 상품 매입으로 이어진 사례가 대표적이다."
-              },
-              {
-                "t": "p",
-                "x": "문제는 캠페인 규모가 커질수록 크리에이터 탐색·섭외와 콘텐츠 관리에 필요한 인력과 시간이 늘어난다는 점이다. 윤 대표는 AI로 1분에 약 1000만명의 크리에이터를 검토해 대규모 마케팅의 운영 부담을 줄일 수 있다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "인덴트M은 자체 인플루언서 마케팅 플랫폼 '스프레이 IO'를 기반으로 개발됐다. 최근 3년간 100개 이상 브랜드와 930건 이상 캠페인, 8만건 이상 콘텐츠 협업을 진행한 경험을 반영했다."
-              },
-              {
-                "t": "p",
-                "x": "자연어로 제품·국가·캠페인 조건을 입력하면 AI가 적합한 크리에이터를 선정하고 마케팅을 집행한다. 예상 조회수와 판매 효과 등 예측 데이터를 기반으로 크리에이터별 성과를 비교할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "인덴트코퍼레이션은 인덴트M을 글로벌 판매·물류 플랫폼 '인덴트O'을 연계한다. 인덴트O는 직접 판매(D2C) 서비스 '보부샵' 기반으로 판매 페이지 생성, 다국어 현지화, 결제·배송 연동 등을 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "윤 대표는 “중소 브랜드뿐 아니라 대형 브랜드의 글로벌 마케팅 진입장벽을 낮추고 마케팅부터 판매·물류까지 연결되는 커머스 환경을 구축하겠다”고 말했다."
+                "x": "Most of OpenAI's tooling has moved data from advertisers into ChatGPT; StackAdapt's release describes the opposite flow. On October 21, OpenAI extended ChatGPT ads to 26 more countries, bringing the total to 89."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI agent 'Indent M' takes on\ninfluencer marketing",
-          "body": "Indent Corporation has unveiled an AI agent that handles influencer marketing in 72 countries.",
-          "mini_headline": "Indent M, marketing in 72 countries",
+        "ko": {
+          "headline": "StackAdapt 리타깃\nChatGPT→CTV·배너",
+          "body": "StackAdapt가 Data Hub로 ChatGPT 광고 시청자를 다시 겨냥한다.",
+          "mini_headline": "StackAdapt의 ChatGPT 광고 리타기팅",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation has unveiled 'Indent M,' an artificial intelligence (AI) agent that supports the planning and execution of influencer marketing in 72 countries worldwide."
+                "x": "StackAdapt가 ChatGPT Ads용 크로스채널 리타기팅을 확대한다고 발표했다. 보도자료는 “광고주는 ChatGPT Ad를 본 소비자를 StackAdapt의 더 넓은 프로그래매틱 생태계 전반에서 리타기팅할 수 있다”고 밝힌다. 기준은 클릭이 아니라 노출이다. 세그먼트는 Data Hub에서 퍼스트파티 데이터, CRM 연동과 함께 관리한다."
               },
               {
                 "t": "p",
-                "x": "Speaking at the 'Indent M launch press conference' held on the 27th at PR Bridge Storium in Seodaemun-gu, Seoul, Indent Corporation CEO Yoon Tae-seok said, \"Our vision is to build an engine that lets a 1-person brand reach 1조원 (one trillion won) in sales,\" adding, \"To that end, we are launching Indent M, in which AI takes over the repetitive operational work of human marketers.\""
+                "x": "보도자료는 짧다. 출시 시장, 가격, 식별자, 고객사, 성과 중 어느 것도 밝히지 않는다. ChatGPT 안의 노출을 어떻게 기록하는지, 그 노출을 TV나 웹 페이지 속 사람과 어떻게 잇는지도 설명이 없다."
               },
               {
                 "t": "p",
-                "x": "Indent M is an AI agent that finds creators and runs campaigns according to a marketing strategy. It supports global influencer marketing in 72 countries across fields such as beauty, food, fashion and lifestyle."
+                "x": "인용된 인물은 StackAdapt 공동창업자 겸 최고기술책임자 Yang Han 한 명이고, OpenAI 임원의 발언은 없다. OpenAI는 광고주가 광고 성과에 관해 집계된 정보만 받는다고 말한다. EEA와 스위스에서는 개인화 없이 광고가 나갔다."
               },
               {
                 "t": "p",
-                "x": "\"When brands expand overseas, even large companies and major agencies often rely on local agencies in countries other than the U.S. and Japan,\" Yoon said. \"Indent M's strength is that AI, not people, directly executes marketing in 72 countries around the world, so there is no language barrier.\""
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "Yoon defined the trend of AI automation technology combining with content commerce as 'commerce generation 4.5.' Where the existing generation 4 drove consumer purchases through creators' content, generation 4.5 uses AI to automate the repetitive work of marketing planning and execution and of campaign execution."
-              },
-              {
-                "t": "p",
-                "x": "The core strategy is 'Viral Seeding.' Content from similar creators is posted in concentrated bursts to drive spread on social media. A typical case is a K-beauty brand that gained word of mouth on TikTok, entered Amazon's top sellers and went on to win purchase orders from local retailers."
-              },
-              {
-                "t": "p",
-                "x": "The problem is that as campaigns grow, so do the staff and time needed to search for and recruit creators and to manage content. Yoon explained that AI can review about ten million (1000만) creators in 1 minute, reducing the operational burden of large-scale marketing."
-              },
-              {
-                "t": "p",
-                "x": "Indent M was developed on the company's own influencer marketing platform, 'Spray IO.' It reflects experience from the past 3 years of collaborations with more than 100 brands, on more than 930 campaigns and more than eighty thousand (8만) pieces of content."
-              },
-              {
-                "t": "p",
-                "x": "When product, country and campaign conditions are entered in natural language, the AI selects suitable creators and executes the marketing. Performance can be compared creator by creator based on forecast data such as expected views and sales impact."
-              },
-              {
-                "t": "p",
-                "x": "Indent Corporation links Indent M with its global sales and logistics platform 'Indent O.' Built on the direct-to-consumer (D2C) service 'Bobushop,' Indent O supports sales page creation, multilingual localization, and payment and shipping integration."
-              },
-              {
-                "t": "p",
-                "x": "\"We will lower the barriers to global marketing not only for small and midsize brands but also for large brands, and build a commerce environment that connects everything from marketing to sales and logistics,\" Yoon said."
+                "x": "OpenAI 도구는 대부분 광고주 데이터를 ChatGPT 쪽으로 옮겨 왔는데, StackAdapt 보도자료가 설명하는 흐름은 그 반대다. 10월 21일 OpenAI는 ChatGPT 광고를 26개국에 더 열어 총 89개국으로 늘렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インフルエンサー施策を担う\nAI「インデントM」",
-          "body": "インデント社が72カ国のインフルエンサー施策を代行するAIエージェントを公開した。",
-          "mini_headline": "インデントM、72カ国でマーケティング",
+          "headline": "StackAdaptが再訴求\nChatGPT広告→CTV",
+          "body": "StackAdaptのData HubでChatGPT広告の視聴者を再訴求できる。",
+          "mini_headline": "StackAdaptがChatGPT広告を再訴求",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "インデントコーポレーションは、世界72カ国でインフルエンサーマーケティングの企画と実行を支援する人工知能（AI）エージェント「インデントM」を公開した。"
+                "x": "StackAdaptは、ChatGPT Ads向けのクロスチャネル・リターゲティングの拡大を発表した。リリースには「広告主は、ChatGPT Adを見た消費者を、StackAdaptのより広いプログラマティック・エコシステム全体でリターゲティングできる」とあり、起点はクリックではなく表示だ。セグメントは、ファーストパーティデータやCRM連携とともにData Hubで管理される。"
               },
               {
                 "t": "p",
-                "x": "インデントコーポレーションのユン・テソク代表は27日、ソウル西大門区のPRブリッジ・ストーリアムで開かれた「インデントM ローンチ記者懇談会」で「1人ブランドが売上1兆ウォンを達成できるエンジンをつくることがビジョンだ」と述べ、「そのために、人間のマーケターの反復的な運用業務をAIが代わりに担うインデントMを発売する」と明らかにした。"
+                "x": "リリースは短い。展開市場、価格、識別子、顧客、成果のいずれも挙げていない。ChatGPT内での表示がどう記録され、テレビやウェブページ上の人物とどう照合されるのかも説明していない。"
               },
               {
                 "t": "p",
-                "x": "インデントMは、マーケティング戦略に沿ってクリエイターを発掘し、キャンペーンを実行するAIエージェントだ。72カ国でビューティー・フード・ファッション・ライフスタイルなど各分野のグローバルなインフルエンサーマーケティングを支援する。"
+                "x": "発言が引用されているのは、StackAdaptの共同創業者で最高技術責任者のYang Hanのみで、OpenAIの幹部の発言はない。OpenAIは、広告主が受け取るのは広告成果に関する集計情報だけだとしており、EEAとスイスでは広告はパーソナライズなしで始まった。"
               },
               {
                 "t": "p",
-                "x": "ユン代表は「ブランドが海外に進出する際、大企業や大手代理店でも米国・日本以外の国では現地の代理店に頼ることが多い」とし、「インデントMは人ではなくAIが世界72カ国でマーケティングを直接執行するため、言語の壁がない点が強みだ」と強調した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "ユン代表は、コンテンツコマースにAI自動化技術が組み合わさる流れを「コマース4.5世代」と定義した。従来の4世代がクリエイターのコンテンツで消費者の購買を促したとすれば、4.5世代はAIがマーケティングの企画・実行とキャンペーン実行の反復業務を自動化する。"
-              },
-              {
-                "t": "p",
-                "x": "中核となる戦略は「バイラルシーディング（Viral Seeding）」だ。似たクリエイターのコンテンツを集中的に投稿し、ソーシャルメディアでの拡散を促す。KビューティーブランドがTikTokで口コミを呼んでAmazonの販売上位に入り、現地流通業者による商品の買い付けにつながった事例が代表的だ。"
-              },
-              {
-                "t": "p",
-                "x": "問題は、キャンペーンの規模が大きくなるほど、クリエイターの探索・起用やコンテンツ管理に必要な人員と時間が増える点だ。ユン代表は、AIで1分間に約1000万人のクリエイターを検討し、大規模マーケティングの運用負担を減らせると説明した。"
-              },
-              {
-                "t": "p",
-                "x": "インデントMは自社のインフルエンサーマーケティングプラットフォーム「スプレーIO」をもとに開発された。直近3年間で100以上のブランド、930件以上のキャンペーン、8万件以上のコンテンツ協業を行った経験を反映している。"
-              },
-              {
-                "t": "p",
-                "x": "製品・国・キャンペーンの条件を自然言語で入力すると、AIが適したクリエイターを選び、マーケティングを執行する。予想再生数や販売効果などの予測データに基づき、クリエイターごとの成果を比較できる。"
-              },
-              {
-                "t": "p",
-                "x": "インデントコーポレーションは、インデントMをグローバル販売・物流プラットフォーム「インデントO」と連携させる。インデントOは直販（D2C）サービス「ボブショップ」を基盤に、販売ページの作成、多言語ローカライズ、決済・配送の連携などを支援する。"
-              },
-              {
-                "t": "p",
-                "x": "ユン代表は「中小ブランドだけでなく大手ブランドのグローバルマーケティングの参入障壁を下げ、マーケティングから販売・物流までつながるコマース環境を構築する」と述べた。"
+                "x": "OpenAIのツールの多くは広告主からChatGPTへデータを移すものだったが、StackAdaptのリリースはその逆の流れを示している。10月21日、OpenAIはChatGPTの広告をさらに26カ国に広げ、合計89カ国とした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "负责网红营销的\nAI代理Indent M",
-          "body": "Indent Corporation发布可在72个国家代理网红营销的AI代理。",
-          "mini_headline": "Indent M，72国营销",
+          "headline": "StackAdapt重定向\nChatGPT受众至CTV",
+          "body": "StackAdapt的Data Hub可重定向ChatGPT广告受众，但未说明如何匹配。",
+          "mini_headline": "StackAdapt重定向ChatGPT广告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation发布了人工智能（AI）代理“Indent M”，可支持全球72个国家的网红营销策划与执行。"
+                "x": "StackAdapt宣布扩展面向ChatGPT Ads的跨渠道重定向。新闻稿称：“广告主可以在StackAdapt更广泛的程序化生态中，重定向看过ChatGPT Ad的消费者。”触发条件是浏览而非点击。这些人群细分在其Data Hub中与第一方数据和CRM集成一同管理。"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation代表Yoon Tae-seok 27日在首尔西大门区PR Bridge Storium举行的“Indent M发布记者会”上表示：“我们的愿景是打造一个能让1人品牌实现1万亿韩元销售额的引擎。”他还说：“为此，我们推出由AI代替人类营销人员执行重复性运营工作的Indent M。”"
+                "x": "这份新闻稿很短。它没有列出上线市场、定价、标识符、客户或效果，也没有说明ChatGPT内的一次浏览如何被记录，又如何与电视或网页上的某个人匹配。"
               },
               {
                 "t": "p",
-                "x": "Indent M是根据营销战略发掘创作者并执行营销活动的AI代理，在72个国家支持美妆、食品、时尚、生活方式等各领域的全球网红营销。"
+                "x": "唯一被引用的人是StackAdapt联合创始人兼首席技术官Yang Han，没有引用任何OpenAI高管的话。OpenAI表示，广告主只能获得关于广告表现的汇总信息，且在EEA和瑞士，广告上线时不含个性化。"
               },
               {
                 "t": "p",
-                "x": "Yoon Tae-seok强调：“品牌出海时，即便是大企业或大型代理商，在美国、日本以外的国家也常常依赖当地代理商。”他说：“Indent M的优势在于由AI而非人在全球72个国家直接执行营销，因此不存在语言障碍。”"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "他把AI自动化技术与内容电商相结合的趋势定义为“第4.5代电商”。如果说此前的第4代是借助创作者内容引导消费者购买，那么第4.5代则由AI将营销策划与执行、活动执行中的重复性工作自动化。"
-              },
-              {
-                "t": "p",
-                "x": "核心策略是“病毒式播种（Viral Seeding）”，即集中发布相似创作者的内容，推动在社交媒体上扩散。典型案例是一个K美妆品牌在TikTok上形成口碑，进入Amazon销量前列，进而促成当地零售商采购商品。"
-              },
-              {
-                "t": "p",
-                "x": "问题在于，营销活动规模越大，寻找、邀约创作者和管理内容所需的人力与时间就越多。Yoon Tae-seok解释说，借助AI，1分钟可审阅约1000万名创作者，从而减轻大规模营销的运营负担。"
-              },
-              {
-                "t": "p",
-                "x": "Indent M基于自有网红营销平台“Spray IO”开发，吸收了近3年来与100多个品牌、930多场营销活动和8万多条内容开展合作的经验。"
-              },
-              {
-                "t": "p",
-                "x": "用自然语言输入产品、国家和活动条件后，AI会挑选合适的创作者并执行营销。还可以依据预计播放量和销售效果等预测数据，比较每位创作者的表现。"
-              },
-              {
-                "t": "p",
-                "x": "Indent Corporation将Indent M与全球销售及物流平台“Indent O”相连接。Indent O以直销（D2C）服务“Bobushop”为基础，支持生成销售页面、多语言本地化以及支付与配送对接等功能。"
-              },
-              {
-                "t": "p",
-                "x": "Yoon Tae-seok表示：“我们将降低中小品牌乃至大型品牌开展全球营销的门槛，打造从营销到销售、物流全面打通的电商环境。”"
+                "x": "OpenAI的大部分工具是把数据从广告主转入ChatGPT；StackAdapt的新闻稿描述的则是相反的流向。10月21日，OpenAI将ChatGPT广告再扩展至26个国家，总数达到89个。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Indent M, un agente de IA para\nmarketing de influencers",
-          "body": "Indent Corporation presentó un agente de IA que gestiona el marketing de influencers en 72 países.",
-          "mini_headline": "Indent M, marketing en 72 países",
+          "headline": "StackAdapt reimpacta en CTV y\ndisplay a quien vio ChatGPT Ads",
+          "body": "El Data Hub de StackAdapt permite reimpactar a quien vio anuncios de ChatGPT, sin explicar cómo vincula cada vista.",
+          "mini_headline": "StackAdapt reimpacta a quien vio ChatGPT Ads",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation presentó 'Indent M', un agente de inteligencia artificial (AI) que apoya la planificación y ejecución del marketing de influencers en 72 países del mundo."
+                "x": "StackAdapt anunció la ampliación del retargeting multicanal para ChatGPT Ads. “Los anunciantes pueden hacer retargeting a los consumidores que vieron un ChatGPT Ad en todo el ecosistema programático más amplio de StackAdapt”, señala el comunicado: el detonante es una visualización, no un clic. Los segmentos se gestionan en su Data Hub junto con datos propios e integraciones de CRM."
               },
               {
                 "t": "p",
-                "x": "Yoon Tae-seok, CEO de Indent Corporation, afirmó el día 27 en la 'rueda de prensa de lanzamiento de Indent M', celebrada en PR Bridge Storium, en Seodaemun-gu (Seúl): \"Nuestra visión es crear un motor que permita a una marca de 1 persona alcanzar ventas de 1조원 (un billón de wones)\". Y añadió: \"Para ello lanzamos Indent M, en el que la IA asume las tareas operativas repetitivas de los profesionales de marketing humanos\"."
+                "x": "El comunicado es breve. No menciona mercados de lanzamiento, precios, identificadores, clientes ni resultados. Tampoco explica cómo se registra una visualización dentro de ChatGPT y cómo se vincula después con una persona en un televisor o en una página web."
               },
               {
                 "t": "p",
-                "x": "Indent M es un agente de IA que descubre creadores y ejecuta campañas según la estrategia de marketing. Apoya el marketing global de influencers en 72 países, en sectores como belleza, alimentación, moda y estilo de vida."
+                "x": "Yang Han, cofundador y director de tecnología de StackAdapt, es la única persona citada; no se cita a ningún directivo de OpenAI. OpenAI afirma que los anunciantes solo reciben información agregada sobre el rendimiento de sus anuncios, y en el EEA y Suiza los anuncios se lanzaron sin personalización."
               },
               {
                 "t": "p",
-                "x": "\"Cuando las marcas salen al exterior, incluso las grandes empresas y agencias suelen depender de agencias locales en los países distintos de Estados Unidos y Japón\", dijo Yoon. \"La ventaja de Indent M es que no son personas sino la IA la que ejecuta directamente el marketing en 72 países del mundo, por lo que no hay barrera idiomática\", subrayó."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "Yoon definió la tendencia de combinar la tecnología de automatización con IA y el comercio de contenidos como la 'generación 4.5 del comercio'. Si la generación 4 anterior impulsaba las compras de los consumidores mediante el contenido de los creadores, la 4.5 automatiza con IA las tareas repetitivas de planificación y ejecución de marketing y de ejecución de campañas."
-              },
-              {
-                "t": "p",
-                "x": "La estrategia central es el 'Viral Seeding': se publica de forma concentrada contenido de creadores similares para impulsar su difusión en redes sociales. Un caso representativo es el de una marca de K-beauty que se hizo popular en TikTok por el boca a boca, entró entre los más vendidos de Amazon y acabó logrando compras de distribuidores locales."
-              },
-              {
-                "t": "p",
-                "x": "El problema es que, cuanto mayor es la campaña, más personal y tiempo se necesitan para buscar y contratar creadores y gestionar el contenido. Yoon explicó que con IA se pueden revisar unos diez millones (1000만) de creadores en 1 minuto, lo que reduce la carga operativa del marketing a gran escala."
-              },
-              {
-                "t": "p",
-                "x": "Indent M se desarrolló sobre la plataforma propia de marketing de influencers 'Spray IO'. Recoge la experiencia de los últimos 3 años en colaboraciones con más de 100 marcas, más de 930 campañas y más de ochenta mil (8만) contenidos."
-              },
-              {
-                "t": "p",
-                "x": "Al introducir en lenguaje natural las condiciones de producto, país y campaña, la IA selecciona a los creadores adecuados y ejecuta el marketing. Se puede comparar el rendimiento de cada creador a partir de datos de previsión, como las visualizaciones esperadas y el efecto en ventas."
-              },
-              {
-                "t": "p",
-                "x": "Indent Corporation conecta Indent M con su plataforma global de ventas y logística 'Indent O'. Basada en el servicio de venta directa (D2C) 'Bobushop', Indent O permite crear páginas de venta, localizar en varios idiomas e integrar pagos y envíos."
-              },
-              {
-                "t": "p",
-                "x": "\"Bajaremos las barreras de entrada al marketing global no solo para las marcas pequeñas y medianas, sino también para las grandes, y construiremos un entorno comercial que conecte desde el marketing hasta las ventas y la logística\", afirmó Yoon."
+                "x": "La mayoría de las herramientas de OpenAI han llevado datos de los anunciantes a ChatGPT; el comunicado de StackAdapt describe el flujo contrario. El 21 de octubre, OpenAI extendió los anuncios de ChatGPT a 26 países más, hasta un total de 89."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI agent 'Indent M' takes on\ninfluencer marketing",
-          "body": "Indent Corporation has unveiled an AI agent that handles influencer marketing in 72 countries.",
-          "mini_headline": "Indent M, marketing in 72 countries",
+        "ko": {
+          "headline": "StackAdapt 리타깃\nChatGPT→CTV·배너",
+          "body": "StackAdapt Data Hub로 ChatGPT 광고 시청자를 재타깃한다.",
+          "mini_headline": "StackAdapt의 ChatGPT 광고 리타기팅",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation has unveiled 'Indent M,' an artificial intelligence (AI) agent that supports the planning and execution of influencer marketing in 72 countries worldwide."
+                "x": "StackAdapt는 ChatGPT Ads를 위한 크로스채널 리타기팅 확대를 발표했다. 보도자료는 “광고주는 ChatGPT Ad를 본 소비자를 StackAdapt의 더 넓은 프로그래매틱 생태계 전반에서 리타기팅할 수 있다”고 밝힌다. 계기는 클릭이 아니라 노출이다. 세그먼트는 Data Hub에서 퍼스트파티 데이터, CRM 연동과 함께 관리된다."
               },
               {
                 "t": "p",
-                "x": "Speaking at the 'Indent M launch press conference' held on the 27th at PR Bridge Storium in Seodaemun-gu, Seoul, Indent Corporation CEO Yoon Tae-seok said, \"Our vision is to build an engine that lets a 1-person brand reach 1조원 (one trillion won) in sales,\" adding, \"To that end, we are launching Indent M, in which AI takes over the repetitive operational work of human marketers.\""
+                "x": "보도자료는 짧다. 출시 시장, 가격, 식별자, 고객사, 성과를 하나도 밝히지 않는다. ChatGPT 안에서의 노출이 어떻게 기록되고, TV나 웹 페이지의 사람과 어떻게 연결되는지도 설명하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Indent M is an AI agent that finds creators and runs campaigns according to a marketing strategy. It supports global influencer marketing in 72 countries across fields such as beauty, food, fashion and lifestyle."
+                "x": "인용된 인물은 StackAdapt 공동창업자이자 최고기술책임자인 Yang Han뿐이며, OpenAI 임원의 발언은 없다. OpenAI는 광고주가 광고 성과에 대해 집계된 정보만 받는다고 말하며, EEA와 스위스에서는 개인화 없이 광고가 출시됐다."
               },
               {
                 "t": "p",
-                "x": "\"When brands expand overseas, even large companies and major agencies often rely on local agencies in countries other than the U.S. and Japan,\" Yoon said. \"Indent M's strength is that AI, not people, directly executes marketing in 72 countries around the world, so there is no language barrier.\""
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "Yoon defined the trend of AI automation technology combining with content commerce as 'commerce generation 4.5.' Where the existing generation 4 drove consumer purchases through creators' content, generation 4.5 uses AI to automate the repetitive work of marketing planning and execution and of campaign execution."
-              },
-              {
-                "t": "p",
-                "x": "The core strategy is 'Viral Seeding.' Content from similar creators is posted in concentrated bursts to drive spread on social media. A typical case is a K-beauty brand that gained word of mouth on TikTok, entered Amazon's top sellers and went on to win purchase orders from local retailers."
-              },
-              {
-                "t": "p",
-                "x": "The problem is that as campaigns grow, so do the staff and time needed to search for and recruit creators and to manage content. Yoon explained that AI can review about ten million (1000만) creators in 1 minute, reducing the operational burden of large-scale marketing."
-              },
-              {
-                "t": "p",
-                "x": "Indent M was developed on the company's own influencer marketing platform, 'Spray IO.' It reflects experience from the past 3 years of collaborations with more than 100 brands, on more than 930 campaigns and more than eighty thousand (8만) pieces of content."
-              },
-              {
-                "t": "p",
-                "x": "When product, country and campaign conditions are entered in natural language, the AI selects suitable creators and executes the marketing. Performance can be compared creator by creator based on forecast data such as expected views and sales impact."
-              },
-              {
-                "t": "p",
-                "x": "Indent Corporation links Indent M with its global sales and logistics platform 'Indent O.' Built on the direct-to-consumer (D2C) service 'Bobushop,' Indent O supports sales page creation, multilingual localization, and payment and shipping integration."
-              },
-              {
-                "t": "p",
-                "x": "\"We will lower the barriers to global marketing not only for small and midsize brands but also for large brands, and build a commerce environment that connects everything from marketing to sales and logistics,\" Yoon said."
+                "x": "OpenAI의 도구 대부분은 광고주의 데이터를 ChatGPT로 옮겨 왔지만, StackAdapt의 보도자료는 그 반대 흐름을 설명한다. 10월 21일 OpenAI는 ChatGPT 광고를 26개국에 추가로 확대해 총 89개국이 됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インフルエンサー施策を担う\nAI「インデントM」",
-          "body": "インデント社が72カ国のインフルエンサー施策を代行するAIエージェントを公開した。",
-          "mini_headline": "インデントM、72カ国でマーケティング",
+          "headline": "StackAdaptが再訴求\nChatGPT広告→CTV",
+          "body": "StackAdaptのData HubでChatGPT広告の視聴者を再訴求できる。",
+          "mini_headline": "StackAdaptがChatGPT広告を再訴求",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "インデントコーポレーションは、世界72カ国でインフルエンサーマーケティングの企画と実行を支援する人工知能（AI）エージェント「インデントM」を公開した。"
+                "x": "StackAdaptは、ChatGPT Ads向けのクロスチャネル・リターゲティングの拡大を発表した。リリースには「広告主は、ChatGPT Adを見た消費者を、StackAdaptのより広いプログラマティック・エコシステム全体でリターゲティングできる」とあり、起点はクリックではなく表示だ。セグメントは、ファーストパーティデータやCRM連携とともにData Hubで管理される。"
               },
               {
                 "t": "p",
-                "x": "インデントコーポレーションのユン・テソク代表は27日、ソウル西大門区のPRブリッジ・ストーリアムで開かれた「インデントM ローンチ記者懇談会」で「1人ブランドが売上1兆ウォンを達成できるエンジンをつくることがビジョンだ」と述べ、「そのために、人間のマーケターの反復的な運用業務をAIが代わりに担うインデントMを発売する」と明らかにした。"
+                "x": "リリースは短い。展開市場、価格、識別子、顧客、成果のいずれも挙げていない。ChatGPT内での表示がどう記録され、テレビやウェブページ上の人物とどう照合されるのかも説明していない。"
               },
               {
                 "t": "p",
-                "x": "インデントMは、マーケティング戦略に沿ってクリエイターを発掘し、キャンペーンを実行するAIエージェントだ。72カ国でビューティー・フード・ファッション・ライフスタイルなど各分野のグローバルなインフルエンサーマーケティングを支援する。"
+                "x": "発言が引用されているのは、StackAdaptの共同創業者で最高技術責任者のYang Hanのみで、OpenAIの幹部の発言はない。OpenAIは、広告主が受け取るのは広告成果に関する集計情報だけだとしており、EEAとスイスでは広告はパーソナライズなしで始まった。"
               },
               {
                 "t": "p",
-                "x": "ユン代表は「ブランドが海外に進出する際、大企業や大手代理店でも米国・日本以外の国では現地の代理店に頼ることが多い」とし、「インデントMは人ではなくAIが世界72カ国でマーケティングを直接執行するため、言語の壁がない点が強みだ」と強調した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "ユン代表は、コンテンツコマースにAI自動化技術が組み合わさる流れを「コマース4.5世代」と定義した。従来の4世代がクリエイターのコンテンツで消費者の購買を促したとすれば、4.5世代はAIがマーケティングの企画・実行とキャンペーン実行の反復業務を自動化する。"
-              },
-              {
-                "t": "p",
-                "x": "中核となる戦略は「バイラルシーディング（Viral Seeding）」だ。似たクリエイターのコンテンツを集中的に投稿し、ソーシャルメディアでの拡散を促す。KビューティーブランドがTikTokで口コミを呼んでAmazonの販売上位に入り、現地流通業者による商品の買い付けにつながった事例が代表的だ。"
-              },
-              {
-                "t": "p",
-                "x": "問題は、キャンペーンの規模が大きくなるほど、クリエイターの探索・起用やコンテンツ管理に必要な人員と時間が増える点だ。ユン代表は、AIで1分間に約1000万人のクリエイターを検討し、大規模マーケティングの運用負担を減らせると説明した。"
-              },
-              {
-                "t": "p",
-                "x": "インデントMは自社のインフルエンサーマーケティングプラットフォーム「スプレーIO」をもとに開発された。直近3年間で100以上のブランド、930件以上のキャンペーン、8万件以上のコンテンツ協業を行った経験を反映している。"
-              },
-              {
-                "t": "p",
-                "x": "製品・国・キャンペーンの条件を自然言語で入力すると、AIが適したクリエイターを選び、マーケティングを執行する。予想再生数や販売効果などの予測データに基づき、クリエイターごとの成果を比較できる。"
-              },
-              {
-                "t": "p",
-                "x": "インデントコーポレーションは、インデントMをグローバル販売・物流プラットフォーム「インデントO」と連携させる。インデントOは直販（D2C）サービス「ボブショップ」を基盤に、販売ページの作成、多言語ローカライズ、決済・配送の連携などを支援する。"
-              },
-              {
-                "t": "p",
-                "x": "ユン代表は「中小ブランドだけでなく大手ブランドのグローバルマーケティングの参入障壁を下げ、マーケティングから販売・物流までつながるコマース環境を構築する」と述べた。"
+                "x": "OpenAIのツールの多くは広告主からChatGPTへデータを移すものだったが、StackAdaptのリリースはその逆の流れを示している。10月21日、OpenAIはChatGPTの広告をさらに26カ国に広げ、合計89カ国とした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "负责网红营销的\nAI代理Indent M",
-          "body": "Indent Corporation发布可在72个国家代理网红营销的AI代理。",
-          "mini_headline": "Indent M，72国营销",
+          "headline": "StackAdapt重定向\nChatGPT受众至CTV",
+          "body": "StackAdapt的Data Hub可重定向ChatGPT广告受众，但未说明如何匹配。",
+          "mini_headline": "StackAdapt重定向ChatGPT广告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation发布了人工智能（AI）代理“Indent M”，可支持全球72个国家的网红营销策划与执行。"
+                "x": "StackAdapt宣布扩展面向ChatGPT Ads的跨渠道重定向。新闻稿称：“广告主可以在StackAdapt更广泛的程序化生态中，重定向看过ChatGPT Ad的消费者。”触发条件是浏览而非点击。这些人群细分在其Data Hub中与第一方数据和CRM集成一同管理。"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation代表Yoon Tae-seok 27日在首尔西大门区PR Bridge Storium举行的“Indent M发布记者会”上表示：“我们的愿景是打造一个能让1人品牌实现1万亿韩元销售额的引擎。”他还说：“为此，我们推出由AI代替人类营销人员执行重复性运营工作的Indent M。”"
+                "x": "这份新闻稿很短。它没有列出上线市场、定价、标识符、客户或效果，也没有说明ChatGPT内的一次浏览如何被记录，又如何与电视或网页上的某个人匹配。"
               },
               {
                 "t": "p",
-                "x": "Indent M是根据营销战略发掘创作者并执行营销活动的AI代理，在72个国家支持美妆、食品、时尚、生活方式等各领域的全球网红营销。"
+                "x": "唯一被引用的人是StackAdapt联合创始人兼首席技术官Yang Han，没有引用任何OpenAI高管的话。OpenAI表示，广告主只能获得关于广告表现的汇总信息，且在EEA和瑞士，广告上线时不含个性化。"
               },
               {
                 "t": "p",
-                "x": "Yoon Tae-seok强调：“品牌出海时，即便是大企业或大型代理商，在美国、日本以外的国家也常常依赖当地代理商。”他说：“Indent M的优势在于由AI而非人在全球72个国家直接执行营销，因此不存在语言障碍。”"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "他把AI自动化技术与内容电商相结合的趋势定义为“第4.5代电商”。如果说此前的第4代是借助创作者内容引导消费者购买，那么第4.5代则由AI将营销策划与执行、活动执行中的重复性工作自动化。"
-              },
-              {
-                "t": "p",
-                "x": "核心策略是“病毒式播种（Viral Seeding）”，即集中发布相似创作者的内容，推动在社交媒体上扩散。典型案例是一个K美妆品牌在TikTok上形成口碑，进入Amazon销量前列，进而促成当地零售商采购商品。"
-              },
-              {
-                "t": "p",
-                "x": "问题在于，营销活动规模越大，寻找、邀约创作者和管理内容所需的人力与时间就越多。Yoon Tae-seok解释说，借助AI，1分钟可审阅约1000万名创作者，从而减轻大规模营销的运营负担。"
-              },
-              {
-                "t": "p",
-                "x": "Indent M基于自有网红营销平台“Spray IO”开发，吸收了近3年来与100多个品牌、930多场营销活动和8万多条内容开展合作的经验。"
-              },
-              {
-                "t": "p",
-                "x": "用自然语言输入产品、国家和活动条件后，AI会挑选合适的创作者并执行营销。还可以依据预计播放量和销售效果等预测数据，比较每位创作者的表现。"
-              },
-              {
-                "t": "p",
-                "x": "Indent Corporation将Indent M与全球销售及物流平台“Indent O”相连接。Indent O以直销（D2C）服务“Bobushop”为基础，支持生成销售页面、多语言本地化以及支付与配送对接等功能。"
-              },
-              {
-                "t": "p",
-                "x": "Yoon Tae-seok表示：“我们将降低中小品牌乃至大型品牌开展全球营销的门槛，打造从营销到销售、物流全面打通的电商环境。”"
+                "x": "OpenAI的大部分工具是把数据从广告主转入ChatGPT；StackAdapt的新闻稿描述的则是相反的流向。10月21日，OpenAI将ChatGPT广告再扩展至26个国家，总数达到89个。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Indent M, un agente de IA para\nmarketing de influencers",
-          "body": "Indent Corporation presentó un agente de IA que gestiona el marketing de influencers en 72 países.",
-          "mini_headline": "Indent M, marketing en 72 países",
+          "headline": "StackAdapt reimpacta en CTV y\ndisplay a quien vio ChatGPT Ads",
+          "body": "El Data Hub de StackAdapt permite reimpactar a quien vio anuncios de ChatGPT, sin explicar cómo vincula cada vista.",
+          "mini_headline": "StackAdapt reimpacta a quien vio ChatGPT Ads",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
               },
               {
                 "t": "p",
-                "x": "Indent Corporation presentó 'Indent M', un agente de inteligencia artificial (AI) que apoya la planificación y ejecución del marketing de influencers en 72 países del mundo."
+                "x": "StackAdapt anunció la ampliación del retargeting multicanal para ChatGPT Ads. “Los anunciantes pueden hacer retargeting a los consumidores que vieron un ChatGPT Ad en todo el ecosistema programático más amplio de StackAdapt”, señala el comunicado: el detonante es una visualización, no un clic. Los segmentos se gestionan en su Data Hub junto con datos propios e integraciones de CRM."
               },
               {
                 "t": "p",
-                "x": "Yoon Tae-seok, CEO de Indent Corporation, afirmó el día 27 en la 'rueda de prensa de lanzamiento de Indent M', celebrada en PR Bridge Storium, en Seodaemun-gu (Seúl): \"Nuestra visión es crear un motor que permita a una marca de 1 persona alcanzar ventas de 1조원 (un billón de wones)\". Y añadió: \"Para ello lanzamos Indent M, en el que la IA asume las tareas operativas repetitivas de los profesionales de marketing humanos\"."
+                "x": "El comunicado es breve. No menciona mercados de lanzamiento, precios, identificadores, clientes ni resultados. Tampoco explica cómo se registra una visualización dentro de ChatGPT y cómo se vincula después con una persona en un televisor o en una página web."
               },
               {
                 "t": "p",
-                "x": "Indent M es un agente de IA que descubre creadores y ejecuta campañas según la estrategia de marketing. Apoya el marketing global de influencers en 72 países, en sectores como belleza, alimentación, moda y estilo de vida."
+                "x": "Yang Han, cofundador y director de tecnología de StackAdapt, es la única persona citada; no se cita a ningún directivo de OpenAI. OpenAI afirma que los anunciantes solo reciben información agregada sobre el rendimiento de sus anuncios, y en el EEA y Suiza los anuncios se lanzaron sin personalización."
               },
               {
                 "t": "p",
-                "x": "\"Cuando las marcas salen al exterior, incluso las grandes empresas y agencias suelen depender de agencias locales en los países distintos de Estados Unidos y Japón\", dijo Yoon. \"La ventaja de Indent M es que no son personas sino la IA la que ejecuta directamente el marketing en 72 países del mundo, por lo que no hay barrera idiomática\", subrayó."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "Yoon definió la tendencia de combinar la tecnología de automatización con IA y el comercio de contenidos como la 'generación 4.5 del comercio'. Si la generación 4 anterior impulsaba las compras de los consumidores mediante el contenido de los creadores, la 4.5 automatiza con IA las tareas repetitivas de planificación y ejecución de marketing y de ejecución de campañas."
-              },
-              {
-                "t": "p",
-                "x": "La estrategia central es el 'Viral Seeding': se publica de forma concentrada contenido de creadores similares para impulsar su difusión en redes sociales. Un caso representativo es el de una marca de K-beauty que se hizo popular en TikTok por el boca a boca, entró entre los más vendidos de Amazon y acabó logrando compras de distribuidores locales."
-              },
-              {
-                "t": "p",
-                "x": "El problema es que, cuanto mayor es la campaña, más personal y tiempo se necesitan para buscar y contratar creadores y gestionar el contenido. Yoon explicó que con IA se pueden revisar unos diez millones (1000만) de creadores en 1 minuto, lo que reduce la carga operativa del marketing a gran escala."
-              },
-              {
-                "t": "p",
-                "x": "Indent M se desarrolló sobre la plataforma propia de marketing de influencers 'Spray IO'. Recoge la experiencia de los últimos 3 años en colaboraciones con más de 100 marcas, más de 930 campañas y más de ochenta mil (8만) contenidos."
-              },
-              {
-                "t": "p",
-                "x": "Al introducir en lenguaje natural las condiciones de producto, país y campaña, la IA selecciona a los creadores adecuados y ejecuta el marketing. Se puede comparar el rendimiento de cada creador a partir de datos de previsión, como las visualizaciones esperadas y el efecto en ventas."
-              },
-              {
-                "t": "p",
-                "x": "Indent Corporation conecta Indent M con su plataforma global de ventas y logística 'Indent O'. Basada en el servicio de venta directa (D2C) 'Bobushop', Indent O permite crear páginas de venta, localizar en varios idiomas e integrar pagos y envíos."
-              },
-              {
-                "t": "p",
-                "x": "\"Bajaremos las barreras de entrada al marketing global no solo para las marcas pequeñas y medianas, sino también para las grandes, y construiremos un entorno comercial que conecte desde el marketing hasta las ventas y la logística\", afirmó Yoon."
+                "x": "La mayoría de las herramientas de OpenAI han llevado datos de los anunciantes a ChatGPT; el comunicado de StackAdapt describe el flujo contrario. El 21 de octubre, OpenAI extendió los anuncios de ChatGPT a 26 países más, hasta un total de 89."
               }
             ]
           }
@@ -1339,15 +1059,15 @@
       }
     },
     {
-      "id": "dailymailgeo",
+      "id": "adexfraud",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Daily Mail, AI\n노출 팔기 전 GEO 시험",
-      "body": "Daily Mail이 AI 노출을 상품으로 팔기 전 GEO 시험을 십여 건 돌린다.",
-      "mini_headline": "Daily Mail, 브랜드 대상 GEO 시험",
+      "headline": "ADEX 2026년 적발\n광고사기 52% AI 관여",
+      "body": "ADEX가 본 1.2m 캠페인 사기 52%에 AI가 쓰였고 64%는 위장 봇이었다.",
+      "mini_headline": "광고 사기 절반에 AI",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/ai-was-involved-in-52-of-ad-fraud-schemes-adex-flagged-in-2026/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1355,197 +1075,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+            "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
           },
           {
             "t": "p",
-            "x": "Daily Mail은 내년 초 AI 가시성 상품을 정식 출시하기 전에 무엇이 통하는지 알아보려고 GEO 테스트를 십여 건 진행하고 있다."
+            "x": "광고 사기 차단 업체 ADEX는 2026년 1월부터 9월까지 광고 플랫폼 여덟 곳, 120만 개 캠페인에서 찾아낸 사기 수법 가운데 52%에 AI가 크게 관여했다고 밝혔다. 캠페인이나 계정 수가 아니라 서로 다른 사기 수법의 수를 센 결과다."
           },
           {
             "t": "p",
-            "x": "SEO·에디토리얼 이커머스 디렉터 Carly Steven은 Digiday의 Media Strategies London 행사에서 AI-generated 답변에 어떻게 노출되는지 묻는 브랜드가 늘어 미국(U.S.)·영국(U.K.)·호주에서 테스트 12~15건을 진행 중이라고 했다. \"브랜드들이 이미 찾아와 '우리는 이런 공간[AI surfaces]에 들어가고 싶다. 우리 고객이 여기 있다는 걸 안다. 어떻게 도와줄 수 있나?'라고 말한다.\""
+            "x": "AI가 관여한 수법 가운데 64%에 사람을 사칭하는 봇이, 53%에 브랜드 복제와 가짜 추천이, 11%에 딥페이크가 등장했다. 범주끼리는 서로 겹친다."
           },
           {
             "t": "p",
-            "x": "테스트는 소비자가 쓸 법한 프롬프트를 골라 여러 AI 플랫폼에서 꾸준히 추적하고 어떤 출처가 인용되는지 본 다음, 기회가 보이는 곳에 맞춤형 브랜디드 콘텐츠를 만드는 식이다. 이름을 밝히지 않은 개인 금융 브랜드로 한 초기 테스트에서 목표 프롬프트 전반의 가시성은 약 50%에서 75% 가까이로 올랐다."
+            "x": "ADEX의 최고제품책임자 Sergey Martianov는 “수법 자체는 몇 년째 그대로다. 믿을 만한 얼굴을 빌리고, 큰 수익을 약속하고, 피해자를 비공개 채팅으로 옮긴다. AI가 바꾼 것은 마무리다”라고 말했다. 거절된 캠페인이 몇 시간 만에 고쳐져 다시 들어온 경우도 있었다."
           },
           {
             "t": "p",
-            "x": "상업적 효과를 입증하는 건 더 어렵다. 한 브랜드는 분석 도구에서 Claude 유입이 0.1%에 그쳤는데, 고객 설문 응답을 들여다보니 전환에서는 약 11%를 차지했다."
-          },
-          {
-            "t": "p",
-            "x": "Future의 GEO 상품 고객사는 30곳을 넘었다. Ziff Davis도 GEO 고객사가 여럿이라고 밝혔고 Forbes는 AI-search 가시성을 브랜드 파트너용 컨설팅 상품으로 만드는 중이다."
+            "x": "ADEX는 2027년에 AI 쇼핑 에이전트를 노린 프롬프트 인젝션 공격이 나타날 것으로 본다. 다만 이는 “현재 모더레이션 데이터에서 측정하는 공격 범주가 아니라 예측”이다. Martianov는 “에이전트가 쇼핑을 한다면 누군가는 그 에이전트를 속이려 할 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Daily Mail tests GEO\nbefore selling AI visibility",
-          "body": "The Daily Mail is running about a dozen GEO tests with brands before making AI visibility a sellable product next year.",
-          "mini_headline": "Daily Mail tests GEO for brands",
+          "headline": "AI was behind 52% of ad fraud\nschemes ADEX flagged in 2026",
+          "body": "ADEX says AI played a part in 52% of fraud schemes across 1.2m campaigns, with bots posing as humans in 64% of them.",
+          "mini_headline": "AI in half of ad fraud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year."
+                "x": "ADEX, a company that screens ads for scams, says AI played a significant role in 52% of the fraud schemes it identified in January to September 2026, across 1.2 million campaigns on eight ad platforms. The figure counts distinct fraud schemes, not campaigns or accounts."
               },
               {
                 "t": "p",
-                "x": "Director of SEO and editorial ecommerce Carly Steven said at Digiday's Media Strategies London event that the publisher has between 12 and 15 tests underway across the U.S., U.K. and Australia, as brands increasingly ask how they can appear in AI-generated answers. \"Brands are coming to us already and saying, 'we want to be in these spaces [AI surfaces]. We know that our customers are here. How can you help us?'\""
+                "x": "Among schemes where AI was involved, bots impersonating humans appeared in 64%, cloned brands and fake endorsements in 53%, and deepfakes in 11%. The categories overlap."
               },
               {
                 "t": "p",
-                "x": "The tests identify prompts consumers might use, track them across AI platforms over time, look at which sources are cited and create bespoke branded content where there's an opportunity. In one early test for an unnamed personal finance brand, visibility across the target prompts rose from about 50% to nearly 75%."
+                "x": "\"The scheme itself has not changed in years: borrow a trusted face, promise big returns, move the victim into a private chat. What AI changed is the finish,\" said Sergey Martianov, Chief Product Officer at ADEX. Revised versions of rejected campaigns sometimes returned within hours."
               },
               {
                 "t": "p",
-                "x": "Proving commercial impact is harder. One brand found Claude accounted for just 0.1% of referrals in its analytics but around 11% of conversions after reviewing customer survey responses."
-              },
-              {
-                "t": "p",
-                "x": "Future's GEO product has more than 30 clients, Ziff Davis says it has multiple GEO clients, and Forbes is turning AI-search visibility into a consultative offer for brand partners."
+                "x": "Looking to 2027, ADEX forecasts prompt-injection attacks on AI shopping agents — \"a forecast rather than an attack category currently measured in its moderation data.\" \"If an agent is doing the shopping, someone will try to scam the agent,\" Martianov said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Daily Mail, AI\n노출 팔기 전 GEO 시험",
-          "body": "Daily Mail이 AI 노출을 상품으로 팔기 전 GEO 시험을 십여 건 돌린다.",
-          "mini_headline": "Daily Mail, 브랜드 대상 GEO 시험",
+          "headline": "ADEX 2026년 적발\n광고사기 52% AI 관여",
+          "body": "ADEX가 본 1.2m 캠페인 사기 52%에 AI가 쓰였고 64%는 위장 봇이었다.",
+          "mini_headline": "광고 사기 절반에 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "Daily Mail은 내년 초 AI 가시성 상품을 정식 출시하기 전에 무엇이 통하는지 알아보려고 GEO 테스트를 십여 건 진행하고 있다."
+                "x": "광고 사기 차단 업체 ADEX는 2026년 1월부터 9월까지 광고 플랫폼 여덟 곳, 120만 개 캠페인에서 찾아낸 사기 수법 가운데 52%에 AI가 크게 관여했다고 밝혔다. 캠페인이나 계정 수가 아니라 서로 다른 사기 수법의 수를 센 결과다."
               },
               {
                 "t": "p",
-                "x": "SEO·에디토리얼 이커머스 디렉터 Carly Steven은 Digiday의 Media Strategies London 행사에서 AI-generated 답변에 어떻게 노출되는지 묻는 브랜드가 늘어 미국(U.S.)·영국(U.K.)·호주에서 테스트 12~15건을 진행 중이라고 했다. \"브랜드들이 이미 찾아와 '우리는 이런 공간[AI surfaces]에 들어가고 싶다. 우리 고객이 여기 있다는 걸 안다. 어떻게 도와줄 수 있나?'라고 말한다.\""
+                "x": "AI가 관여한 수법 가운데 64%에 사람을 사칭하는 봇이, 53%에 브랜드 복제와 가짜 추천이, 11%에 딥페이크가 등장했다. 범주끼리는 서로 겹친다."
               },
               {
                 "t": "p",
-                "x": "테스트는 소비자가 쓸 법한 프롬프트를 골라 여러 AI 플랫폼에서 꾸준히 추적하고 어떤 출처가 인용되는지 본 다음, 기회가 보이는 곳에 맞춤형 브랜디드 콘텐츠를 만드는 식이다. 이름을 밝히지 않은 개인 금융 브랜드로 한 초기 테스트에서 목표 프롬프트 전반의 가시성은 약 50%에서 75% 가까이로 올랐다."
+                "x": "ADEX의 최고제품책임자 Sergey Martianov는 “수법 자체는 몇 년째 그대로다. 믿을 만한 얼굴을 빌리고, 큰 수익을 약속하고, 피해자를 비공개 채팅으로 옮긴다. AI가 바꾼 것은 마무리다”라고 말했다. 거절된 캠페인이 몇 시간 만에 고쳐져 다시 들어온 경우도 있었다."
               },
               {
                 "t": "p",
-                "x": "상업적 효과를 입증하는 건 더 어렵다. 한 브랜드는 분석 도구에서 Claude 유입이 0.1%에 그쳤는데, 고객 설문 응답을 들여다보니 전환에서는 약 11%를 차지했다."
-              },
-              {
-                "t": "p",
-                "x": "Future의 GEO 상품 고객사는 30곳을 넘었다. Ziff Davis도 GEO 고객사가 여럿이라고 밝혔고 Forbes는 AI-search 가시성을 브랜드 파트너용 컨설팅 상품으로 만드는 중이다."
+                "x": "ADEX는 2027년에 AI 쇼핑 에이전트를 노린 프롬프트 인젝션 공격이 나타날 것으로 본다. 다만 이는 “현재 모더레이션 데이터에서 측정하는 공격 범주가 아니라 예측”이다. Martianov는 “에이전트가 쇼핑을 한다면 누군가는 그 에이전트를 속이려 할 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Daily Mail、AI\n露出の販売前にGEO検証",
-          "body": "Daily MailはAI露出の商品化を前に、ブランドと十数件のGEO検証を進めている。",
-          "mini_headline": "Daily Mail、ブランド向けGEOを検証",
+          "headline": "ADEXが2026年に検出\n広告詐欺の52%にAI",
+          "body": "ADEXは1.2m 件の広告で詐欺の52%にAIが関与し、64%に偽装ボットがいたとする。",
+          "mini_headline": "広告詐欺の半分にAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "Daily Mailは、AI可視性サービスを来年初めに正式な商品にする前に、何が効果的かを見極めるため、十数件ほどのGEOテストを実施している。"
+                "x": "広告の詐欺審査を手がけるADEXは、2026年1月から9月にかけて八つの広告プラットフォーム上の120万件のキャンペーンで特定した詐欺スキームのうち、52%でAIが大きな役割を果たしたとしている。この数値はキャンペーンやアカウントではなく、個別の詐欺スキームを数えたものだ。"
               },
               {
                 "t": "p",
-                "x": "SEO・エディトリアルEコマース担当ディレクターのCarly Steven氏は、DigidayのMedia Strategies Londonイベントで、AI-generatedの回答に表示される方法を尋ねるブランドが増えるなか、同社がU.S.（米国）、U.K.（英国）、オーストラリアで12〜15件のテストを進めていると述べた。「ブランドはすでに私たちのところに来て、『こうした場［AI surfaces］に入りたい。顧客がここにいるのはわかっている。どう手伝ってくれるのか』と言っている」"
+                "x": "AIが関与したスキームのうち、人間になりすますボットは64%、ブランドの複製や偽の推薦は53%、ディープフェイクは11%に見られた。これらの分類は重複している。"
               },
               {
                 "t": "p",
-                "x": "テストでは、消費者が使いそうなプロンプトを特定し、複数のAIプラットフォームで経時的に追跡し、どの情報源が引用されているかを調べ、機会があれば専用のブランデッドコンテンツを制作する。名前の明かされていない個人金融ブランド向けの初期テストでは、対象プロンプト全体での可視性が約50%から75%近くに上昇した。"
+                "x": "「手口そのものは何年も変わっていない。信頼される顔を借り、高いリターンを約束し、被害者を非公開のチャットに誘導する。AIが変えたのは仕上がりだ」と、ADEXの最高製品責任者であるSergey Martianovは述べた。却下されたキャンペーンの修正版が、数時間以内に戻ってくることもあった。"
               },
               {
                 "t": "p",
-                "x": "商業的な効果を証明するのはより難しい。あるブランドでは、分析ツール上でClaude経由の参照流入はわずか0.1%だったが、顧客アンケートの回答を確認すると、コンバージョンの約11%を占めていたことがわかった。"
-              },
-              {
-                "t": "p",
-                "x": "FutureのGEO商品には30社を超える顧客がおり、Ziff DavisはGEOの顧客が複数いるとしている。ForbesはAI-searchでの可視性を、ブランドパートナー向けのコンサルティング型サービスにしようとしている。"
+                "x": "2027年に向けて、ADEXはAIショッピングエージェントを狙ったプロンプトインジェクション攻撃を予測している。これは「現在モデレーションデータで測定している攻撃カテゴリーではなく、予測」だという。「エージェントが買い物をするなら、誰かがそのエージェントをだまそうとするだろう」とMartianovは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Daily Mail出售AI\n可见度前先测试GEO",
-          "body": "Daily Mail正与品牌开展约十几项GEO测试，计划明年将AI可见度做成可售产品。",
-          "mini_headline": "Daily Mail为品牌测试GEO",
+          "headline": "ADEX 2026年查获\n广告欺诈52%涉AI",
+          "body": "ADEX称，在1.2m 个广告活动的欺诈中52%涉及AI，其中64%有冒充真人的机器人。",
+          "mini_headline": "半数广告欺诈涉AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "Daily Mail正在开展约十几项GEO测试，以摸清哪些做法有效，然后在明年初将其AI可见度服务正式产品化。"
+                "x": "专门筛查诈骗广告的公司ADEX表示，在2026年1月至9月期间，它在八个广告平台的120万个广告活动中识别出的欺诈手法里，有52%是AI发挥了重要作用。这一数字统计的是不同的欺诈手法，而非广告活动或账户。"
               },
               {
                 "t": "p",
-                "x": "SEO与编辑电商总监Carly Steven在Digiday的Media Strategies London活动上表示，随着越来越多品牌询问如何出现在AI-generated答案中，这家出版商正在U.S.（美国）、U.K.（英国）和澳大利亚开展12至15项测试。“品牌已经在找我们，说：‘我们想进入这些空间[AI surfaces]。我们知道我们的客户在这里。你们能怎么帮我们？’”"
+                "x": "在涉及AI的手法中，冒充真人的机器人出现在64%中，仿冒品牌和虚假代言出现在53%中，深度伪造出现在11%中。各类别之间存在重叠。"
               },
               {
                 "t": "p",
-                "x": "测试会找出消费者可能使用的提示词，在各AI平台上持续追踪，查看哪些来源被引用，并在有机会时制作定制品牌内容。在为一家未具名个人理财品牌进行的早期测试中，目标提示词的整体可见度从约50%升至接近75%。"
+                "x": "ADEX首席产品官Sergey Martianov说：“这种骗局本身多年未变：借用一张可信的面孔，承诺高额回报，再把受害者引到私聊中。AI改变的是成品的精细程度。”被拒的广告活动修改后，有时几小时内就会卷土重来。"
               },
               {
                 "t": "p",
-                "x": "证明商业效果则更难。一个品牌发现，在其分析数据中Claude仅占引荐流量的0.1%，但查看客户调查回复后发现，它带来了约11%的转化。"
-              },
-              {
-                "t": "p",
-                "x": "Future的GEO产品已有30多家客户，Ziff Davis称其有多家GEO客户，Forbes则正把AI-search可见度打造成面向品牌合作伙伴的咨询服务。"
+                "x": "展望2027年，ADEX预测会出现针对AI购物代理的提示注入攻击——“这是一项预测，而不是其审核数据中目前测量的攻击类别。”Martianov说：“如果由代理来购物，就会有人试图欺骗这个代理。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Daily Mail prueba GEO antes de\nvender visibilidad en IA",
-          "body": "El Daily Mail hace una docena de pruebas de GEO con marcas antes de vender visibilidad en IA el próximo año.",
-          "mini_headline": "Daily Mail prueba GEO para marcas",
+          "headline": "La AI, tras el 52% de estafas\npublicitarias en 2026, dice ADEX",
+          "body": "ADEX afirma que la AI intervino en el 52% de los fraudes en 1.2m campañas, con bots que imitan a humanos en el 64%.",
+          "mini_headline": "La AI, en la mitad del fraude publicitario",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "El Daily Mail está realizando alrededor de una docena de pruebas de GEO para averiguar qué funciona antes de convertir su oferta de visibilidad en IA en un producto oficial a principios del próximo año."
+                "x": "ADEX, una empresa que revisa anuncios para detectar estafas, afirma que la AI tuvo un papel importante en el 52% de los esquemas de fraude que identificó entre enero y septiembre de 2026, en 1.2 millones de campañas de ocho plataformas publicitarias. La cifra cuenta esquemas de fraude distintos, no campañas ni cuentas."
               },
               {
                 "t": "p",
-                "x": "Carly Steven, directora de SEO y comercio electrónico editorial, dijo en el evento Media Strategies London de Digiday que el editor tiene en marcha entre 12 y 15 pruebas en Estados Unidos (U.S.), Reino Unido (U.K.) y Australia, a medida que las marcas preguntan cada vez más cómo pueden aparecer en las respuestas generadas por IA (AI-generated). \"Las marcas ya acuden a nosotros y nos dicen: 'queremos estar en estos espacios [AI surfaces]. Sabemos que nuestros clientes están aquí. ¿Cómo pueden ayudarnos?'\""
+                "x": "Entre los esquemas en los que intervino la AI, aparecieron bots que se hacían pasar por humanos en el 64%, marcas clonadas y falsos respaldos en el 53%, y deepfakes en el 11%. Las categorías se solapan."
               },
               {
                 "t": "p",
-                "x": "Las pruebas identifican prompts que podrían usar los consumidores, los siguen en las plataformas de IA a lo largo del tiempo, observan qué fuentes se citan y crean contenido de marca a medida donde hay una oportunidad. En una de las primeras pruebas, para una marca de finanzas personales no identificada, la visibilidad en los prompts objetivo pasó de alrededor del 50% a casi el 75%."
+                "x": "“El esquema en sí no ha cambiado en años: tomar prestado un rostro de confianza, prometer grandes rendimientos, llevar a la víctima a un chat privado. Lo que la AI cambió es el acabado”, dijo Sergey Martianov, director de producto de ADEX. Versiones revisadas de campañas rechazadas volvían a veces en cuestión de horas."
               },
               {
                 "t": "p",
-                "x": "Demostrar el impacto comercial es más difícil. Una marca comprobó que Claude representaba solo el 0.1% de las referencias en su analítica, pero alrededor del 11% de las conversiones tras revisar las respuestas de encuestas a clientes."
-              },
-              {
-                "t": "p",
-                "x": "El producto de GEO de Future tiene más de 30 clientes, Ziff Davis afirma tener varios clientes de GEO y Forbes está convirtiendo la visibilidad en búsquedas con IA (AI-search) en una oferta de consultoría para sus socios de marca."
+                "x": "De cara a 2027, ADEX prevé ataques de inyección de prompts contra agentes de compra con AI: “un pronóstico más que una categoría de ataque que hoy se mida en sus datos de moderación”. “Si un agente hace las compras, alguien intentará estafar al agente”, dijo Martianov."
               }
             ]
           }
@@ -1553,137 +1249,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Daily Mail, AI\n노출 팔기 전 GEO 시험",
-          "body": "Daily Mail이 AI 노출 상품화 전 GEO 시험 십여 건을 진행 중이다.",
-          "mini_headline": "Daily Mail, 브랜드 대상 GEO 시험",
+          "headline": "ADEX 2026년 적발\n광고사기 52% AI 관여",
+          "body": "ADEX의 1.2m 캠페인 사기 52%에 AI가 쓰였고 64%는 위장 봇이었다.",
+          "mini_headline": "광고 사기 절반에 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "Daily Mail은 내년 초 AI 가시성 상품을 공식 출시하기에 앞서, 무엇이 효과가 있는지 파악하려고 십여 건의 GEO 테스트를 진행하고 있다."
+                "x": "광고 사기를 걸러내는 회사 ADEX는 2026년 1월부터 9월까지 광고 플랫폼 여덟 곳의 120만 개 캠페인에서 찾아낸 사기 수법 가운데 52%에서 AI가 큰 역할을 했다고 밝혔다. 이 수치는 캠페인이나 계정이 아니라 서로 다른 사기 수법을 센 것이다."
               },
               {
                 "t": "p",
-                "x": "SEO·에디토리얼 이커머스 디렉터 Carly Steven은 Digiday의 Media Strategies London 행사에서, AI-generated 답변에 어떻게 노출될 수 있는지 묻는 브랜드가 늘면서 회사가 미국(U.S.)·영국(U.K.)·호주에서 12~15건의 테스트를 진행 중이라고 말했다. \"브랜드들이 이미 찾아와 '우리는 이런 공간[AI surfaces]에 들어가고 싶다. 우리 고객이 여기 있다는 걸 안다. 어떻게 도와줄 수 있나?'라고 말한다.\""
+                "x": "AI가 관여한 수법 중 사람을 사칭하는 봇은 64%, 브랜드 복제와 가짜 추천은 53%, 딥페이크는 11%에서 나타났다. 각 범주는 서로 겹친다."
               },
               {
                 "t": "p",
-                "x": "테스트는 소비자가 쓸 법한 프롬프트를 찾아 여러 AI 플랫폼에서 시간에 따라 추적하고, 어떤 출처가 인용되는지 살핀 뒤, 기회가 있는 곳에 맞춤형 브랜디드 콘텐츠를 만든다. 이름을 밝히지 않은 개인 금융 브랜드를 대상으로 한 초기 테스트에서는 목표 프롬프트 전반의 가시성이 약 50%에서 75% 가까이로 올랐다."
+                "x": "ADEX의 최고제품책임자 Sergey Martianov는 “수법 자체는 몇 년째 그대로다. 믿을 만한 얼굴을 빌리고, 큰 수익을 약속하고, 피해자를 비공개 채팅으로 옮긴다. AI가 바꾼 것은 마무리다”라고 말했다. 거절된 캠페인의 수정본이 몇 시간 만에 다시 들어오기도 했다."
               },
               {
                 "t": "p",
-                "x": "상업적 효과를 입증하기는 더 어렵다. 한 브랜드는 분석 도구상 Claude가 유입의 0.1%에 불과했지만, 고객 설문 응답을 검토해 보니 전환의 약 11%를 차지한다는 사실을 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "Future의 GEO 상품은 고객사가 30곳이 넘고, Ziff Davis는 GEO 고객사가 여럿이라고 밝혔으며, Forbes는 AI-search 가시성을 브랜드 파트너 대상 컨설팅 상품으로 만들고 있다."
+                "x": "2027년을 내다보며 ADEX는 AI 쇼핑 에이전트를 노린 프롬프트 인젝션 공격을 예상한다. 이는 “현재 모더레이션 데이터에서 측정하는 공격 범주가 아니라 예측”이다. Martianov는 “에이전트가 쇼핑을 한다면 누군가는 그 에이전트를 속이려 할 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Daily Mail、AI\n露出の販売前にGEO検証",
-          "body": "Daily MailはAI露出の商品化を前に、ブランドと十数件のGEO検証を進めている。",
-          "mini_headline": "Daily Mail、ブランド向けGEOを検証",
+          "headline": "ADEXが2026年に検出\n広告詐欺の52%にAI",
+          "body": "ADEXは1.2m 件の広告で詐欺の52%にAIが関与し、64%に偽装ボットがいたとする。",
+          "mini_headline": "広告詐欺の半分にAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "Daily Mailは、AI可視性サービスを来年初めに正式な商品にする前に、何が効果的かを見極めるため、十数件ほどのGEOテストを実施している。"
+                "x": "広告の詐欺審査を手がけるADEXは、2026年1月から9月にかけて八つの広告プラットフォーム上の120万件のキャンペーンで特定した詐欺スキームのうち、52%でAIが大きな役割を果たしたとしている。この数値はキャンペーンやアカウントではなく、個別の詐欺スキームを数えたものだ。"
               },
               {
                 "t": "p",
-                "x": "SEO・エディトリアルEコマース担当ディレクターのCarly Steven氏は、DigidayのMedia Strategies Londonイベントで、AI-generatedの回答に表示される方法を尋ねるブランドが増えるなか、同社がU.S.（米国）、U.K.（英国）、オーストラリアで12〜15件のテストを進めていると述べた。「ブランドはすでに私たちのところに来て、『こうした場［AI surfaces］に入りたい。顧客がここにいるのはわかっている。どう手伝ってくれるのか』と言っている」"
+                "x": "AIが関与したスキームのうち、人間になりすますボットは64%、ブランドの複製や偽の推薦は53%、ディープフェイクは11%に見られた。これらの分類は重複している。"
               },
               {
                 "t": "p",
-                "x": "テストでは、消費者が使いそうなプロンプトを特定し、複数のAIプラットフォームで経時的に追跡し、どの情報源が引用されているかを調べ、機会があれば専用のブランデッドコンテンツを制作する。名前の明かされていない個人金融ブランド向けの初期テストでは、対象プロンプト全体での可視性が約50%から75%近くに上昇した。"
+                "x": "「手口そのものは何年も変わっていない。信頼される顔を借り、高いリターンを約束し、被害者を非公開のチャットに誘導する。AIが変えたのは仕上がりだ」と、ADEXの最高製品責任者であるSergey Martianovは述べた。却下されたキャンペーンの修正版が、数時間以内に戻ってくることもあった。"
               },
               {
                 "t": "p",
-                "x": "商業的な効果を証明するのはより難しい。あるブランドでは、分析ツール上でClaude経由の参照流入はわずか0.1%だったが、顧客アンケートの回答を確認すると、コンバージョンの約11%を占めていたことがわかった。"
-              },
-              {
-                "t": "p",
-                "x": "FutureのGEO商品には30社を超える顧客がおり、Ziff DavisはGEOの顧客が複数いるとしている。ForbesはAI-searchでの可視性を、ブランドパートナー向けのコンサルティング型サービスにしようとしている。"
+                "x": "2027年に向けて、ADEXはAIショッピングエージェントを狙ったプロンプトインジェクション攻撃を予測している。これは「現在モデレーションデータで測定している攻撃カテゴリーではなく、予測」だという。「エージェントが買い物をするなら、誰かがそのエージェントをだまそうとするだろう」とMartianovは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Daily Mail出售AI\n可见度前先测试GEO",
-          "body": "Daily Mail正与品牌开展约十几项GEO测试，计划明年将AI可见度做成可售产品。",
-          "mini_headline": "Daily Mail为品牌测试GEO",
+          "headline": "ADEX 2026年查获\n广告欺诈52%涉AI",
+          "body": "ADEX称，在1.2m 个广告活动的欺诈中52%涉及AI，其中64%有冒充真人的机器人。",
+          "mini_headline": "半数广告欺诈涉AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "Daily Mail正在开展约十几项GEO测试，以摸清哪些做法有效，然后在明年初将其AI可见度服务正式产品化。"
+                "x": "专门筛查诈骗广告的公司ADEX表示，在2026年1月至9月期间，它在八个广告平台的120万个广告活动中识别出的欺诈手法里，有52%是AI发挥了重要作用。这一数字统计的是不同的欺诈手法，而非广告活动或账户。"
               },
               {
                 "t": "p",
-                "x": "SEO与编辑电商总监Carly Steven在Digiday的Media Strategies London活动上表示，随着越来越多品牌询问如何出现在AI-generated答案中，这家出版商正在U.S.（美国）、U.K.（英国）和澳大利亚开展12至15项测试。“品牌已经在找我们，说：‘我们想进入这些空间[AI surfaces]。我们知道我们的客户在这里。你们能怎么帮我们？’”"
+                "x": "在涉及AI的手法中，冒充真人的机器人出现在64%中，仿冒品牌和虚假代言出现在53%中，深度伪造出现在11%中。各类别之间存在重叠。"
               },
               {
                 "t": "p",
-                "x": "测试会找出消费者可能使用的提示词，在各AI平台上持续追踪，查看哪些来源被引用，并在有机会时制作定制品牌内容。在为一家未具名个人理财品牌进行的早期测试中，目标提示词的整体可见度从约50%升至接近75%。"
+                "x": "ADEX首席产品官Sergey Martianov说：“这种骗局本身多年未变：借用一张可信的面孔，承诺高额回报，再把受害者引到私聊中。AI改变的是成品的精细程度。”被拒的广告活动修改后，有时几小时内就会卷土重来。"
               },
               {
                 "t": "p",
-                "x": "证明商业效果则更难。一个品牌发现，在其分析数据中Claude仅占引荐流量的0.1%，但查看客户调查回复后发现，它带来了约11%的转化。"
-              },
-              {
-                "t": "p",
-                "x": "Future的GEO产品已有30多家客户，Ziff Davis称其有多家GEO客户，Forbes则正把AI-search可见度打造成面向品牌合作伙伴的咨询服务。"
+                "x": "展望2027年，ADEX预测会出现针对AI购物代理的提示注入攻击——“这是一项预测，而不是其审核数据中目前测量的攻击类别。”Martianov说：“如果由代理来购物，就会有人试图欺骗这个代理。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Daily Mail prueba GEO antes de\nvender visibilidad en IA",
-          "body": "El Daily Mail hace una docena de pruebas de GEO con marcas antes de vender visibilidad en IA el próximo año.",
-          "mini_headline": "Daily Mail prueba GEO para marcas",
+          "headline": "La AI, tras el 52% de estafas\npublicitarias en 2026, dice ADEX",
+          "body": "ADEX afirma que la AI intervino en el 52% de los fraudes en 1.2m campañas, con bots que imitan a humanos en el 64%.",
+          "mini_headline": "La AI, en la mitad del fraude publicitario",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
               },
               {
                 "t": "p",
-                "x": "El Daily Mail está realizando alrededor de una docena de pruebas de GEO para averiguar qué funciona antes de convertir su oferta de visibilidad en IA en un producto oficial a principios del próximo año."
+                "x": "ADEX, una empresa que revisa anuncios para detectar estafas, afirma que la AI tuvo un papel importante en el 52% de los esquemas de fraude que identificó entre enero y septiembre de 2026, en 1.2 millones de campañas de ocho plataformas publicitarias. La cifra cuenta esquemas de fraude distintos, no campañas ni cuentas."
               },
               {
                 "t": "p",
-                "x": "Carly Steven, directora de SEO y comercio electrónico editorial, dijo en el evento Media Strategies London de Digiday que el editor tiene en marcha entre 12 y 15 pruebas en Estados Unidos (U.S.), Reino Unido (U.K.) y Australia, a medida que las marcas preguntan cada vez más cómo pueden aparecer en las respuestas generadas por IA (AI-generated). \"Las marcas ya acuden a nosotros y nos dicen: 'queremos estar en estos espacios [AI surfaces]. Sabemos que nuestros clientes están aquí. ¿Cómo pueden ayudarnos?'\""
+                "x": "Entre los esquemas en los que intervino la AI, aparecieron bots que se hacían pasar por humanos en el 64%, marcas clonadas y falsos respaldos en el 53%, y deepfakes en el 11%. Las categorías se solapan."
               },
               {
                 "t": "p",
-                "x": "Las pruebas identifican prompts que podrían usar los consumidores, los siguen en las plataformas de IA a lo largo del tiempo, observan qué fuentes se citan y crean contenido de marca a medida donde hay una oportunidad. En una de las primeras pruebas, para una marca de finanzas personales no identificada, la visibilidad en los prompts objetivo pasó de alrededor del 50% a casi el 75%."
+                "x": "“El esquema en sí no ha cambiado en años: tomar prestado un rostro de confianza, prometer grandes rendimientos, llevar a la víctima a un chat privado. Lo que la AI cambió es el acabado”, dijo Sergey Martianov, director de producto de ADEX. Versiones revisadas de campañas rechazadas volvían a veces en cuestión de horas."
               },
               {
                 "t": "p",
-                "x": "Demostrar el impacto comercial es más difícil. Una marca comprobó que Claude representaba solo el 0.1% de las referencias en su analítica, pero alrededor del 11% de las conversiones tras revisar las respuestas de encuestas a clientes."
-              },
-              {
-                "t": "p",
-                "x": "El producto de GEO de Future tiene más de 30 clientes, Ziff Davis afirma tener varios clientes de GEO y Forbes está convirtiendo la visibilidad en búsquedas con IA (AI-search) en una oferta de consultoría para sus socios de marca."
+                "x": "De cara a 2027, ADEX prevé ataques de inyección de prompts contra agentes de compra con AI: “un pronóstico más que una categoría de ataque que hoy se mida en sus datos de moderación”. “Si un agente hace las compras, alguien intentará estafar al agente”, dijo Martianov."
               }
             ]
           }
@@ -1691,15 +1371,15 @@
       }
     },
     {
-      "id": "fakeaireviews",
+      "id": "clorox",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 가짜 후기 광고\nYouTube 체험담 둔갑",
-      "body": "YouTube 소비자 후기 광고 상당수가 AI로 조작돼 기만 광고 우려가 크다.",
-      "mini_headline": "AI-faked 후기 광고 확산",
+      "headline": "Clorox, 캠페인 대신\n‘관련성 시스템’으로",
+      "body": "Clorox가 대형 캠페인을 접고 AI-enabled 콘텐츠 시스템을 택했다.",
+      "mini_headline": "Clorox, 대형 캠페인을 접다",
       "tool": "Marketing",
-      "source": "SBS News",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008817898",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1707,269 +1387,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+            "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+            "cap": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 발표하는 The Clorox Company CMO Eric Schwartz. ANA 사용 허가"
           },
           {
             "t": "p",
-            "x": "YouTube에서 쉽게 볼 수 있는 일반 소비자 후기 광고 상당수가 AI로 조작된 것으로 드러났다."
+            "x": "Clorox CMO Eric Schwartz는 10월 22일 ANA Masters of Marketing 콘퍼런스에서 캠페인의 자리를 지속적 관련성의 시스템이 대신하게 됐다고 말했다. 사람이 움직이고 AI 자동화가 받치며 파트너가 증폭하는 엔진이다. 그는 “큰 아이디어 하나로 한 번 등장하는 게 아니다”라고 말했다."
           },
           {
             "t": "p",
-            "x": "허리둘레가 줄었다는 이 후기도 AI로 만든 가짜 영상이었다."
+            "x": "Pine-Sol의 소셜 우선 세계관 “OMG Da Pine”은 한 달 평균 150건이 넘는 오가닉 게시물을 올리며 참여율 13%를 기록 중이다. TikTok Shop에 내놓은 한정판 제품 네 가지는 몇 시간 만에 매진됐다."
           },
           {
             "t": "p",
-            "x": "한국소비자원(Korea Consumer Agency)이 6월까지 아홉 달 동안 YouTube 광고를 분석해 AI로 조작된(AI-manipulated) 광고 420건을 적발했다."
+            "x": "Brita의 대량 콘텐츠 모델은 매달 에셋을 100개 넘게 만든다. 그 결과 참여 2,200만 건과 전년 대비 1,742% 늘어난 오가닉 노출을 얻었다."
           },
           {
             "t": "p",
-            "x": "AI를 쓰면 사진 한 장으로 키와 몸무게 같은 외모를 손쉽게 바꾼다. 적발된 가짜 광고 중에서도 이렇게 신체 변화를 부풀린 사례가 171건으로 가장 많았다."
+            "x": "Clorox Pure는 AI 덕분에 재촬영 비용 없이 시장 신호에 맞춰 광고 크리에이티브를 최적화했다. Hidden Valley의 월드컵 랜치 모먼트는 600개가 넘는 소셜 콘텐츠와 60억 회가 넘는 노출을 낳았다."
           },
           {
             "t": "p",
-            "x": "성장판이 닫힌 성인이 키 성장 보조제를 먹고 6 cm 컸다고 주장하는 체험 광고인데, 이것도 AI로 조작한 영상이다."
-          },
-          {
-            "t": "p",
-            "x": "[최병호(Choi Byung-ho) / 고려대(Korea University) Human-Inspired AI Research Institute 교수: 이제는 막을 수 없는 일입니다. AI 영상 제작 비용이 점점 싸지고 기술이 대중화되면서 누구나 만들 수 있는 상황이 됐습니다.]"
-          },
-          {
-            "t": "p",
-            "x": "한때 YouTube에 가짜 AI 의사 광고가 넘쳐나자 정부는 지난해 말 AI-generated 콘텐츠 표시제를 도입하겠다고 했다. 시행이 늦어지는 사이 문제는 일반 소비자를 내세운 조작 후기로까지 번졌다."
-          },
-          {
-            "t": "p",
-            "x": "YouTube는 한국소비자원의 요청이 있으면 해당 영상을 신속히 삭제한다고 밝혔다. 그러나 조작 영상을 자체적으로 미리 탐지해 막는 조치는 도입하지 않았다."
+            "x": "Schwartz는 “콘텐츠는 더 이상 출시 시점에 완성되지 않는다. 계속 나아지도록 만들어진다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fake AI review ads pose\nas testimonials on YouTube",
-          "body": "Many YouTube ads posing as ordinary consumer reviews in Korea are AI fabrications, raising deceptive-ad concerns.",
-          "mini_headline": "AI-faked review ads spread",
+          "headline": "Clorox trades brand campaigns\nfor systems of relevance",
+          "body": "Clorox swapped big-bang campaigns for AI-enabled systems that make high-volume, social-first content for its brands.",
+          "mini_headline": "Clorox drops big campaigns",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "Eric Schwartz, CMO of The Clorox Company, speaks at the ANA Masters of Marketing conference on Oct. 22. Permission granted by ANA"
               },
               {
                 "t": "p",
-                "x": "It has been revealed that a significant number of ordinary consumer review ads easily found on YouTube are fabricated using AI."
+                "x": "At the ANA Masters of Marketing conference on Oct. 22, Clorox CMO Eric Schwartz said campaigns have been replaced with systems of continuous relevance, built with an engine that is powered by people, enabled by AI automation and amplified by partners. “It’s not about showing up once with a big idea,” he said."
               },
               {
                 "t": "p",
-                "x": "The review claiming a reduction in waist size was confirmed to be a fake video created using AI."
+                "x": "Pine-Sol’s social-first “OMG Da Pine” world averages more than 150 organic posts a month and a 13% engagement rate, and launched four limited-edition products on TikTok Shop that sold out in hours."
               },
               {
                 "t": "p",
-                "x": "An analysis of YouTube advertisements conducted by the Korea Consumer Agency over a nine-month period up to June uncovered 420 AI-manipulated ads."
+                "x": "Brita’s high-volume content model produces more than 100 assets per month; its efforts yielded 22 million engagements and a 1,742% year-over-year increase in organic impressions."
               },
               {
                 "t": "p",
-                "x": "By utilizing AI, appearances such as height and weight can be easily altered using just a single photo. Among the fake ads caught this time, exaggerating physical changes in this manner was the most common case, accounting for 171 instances."
+                "x": "For Clorox Pure, AI let the company use in-market signals to optimize ad creative without the cost of a reshoot. Hidden Valley’s World Cup ranch moment generated more than 600 pieces of social content and more than 6 billion impressions."
               },
               {
                 "t": "p",
-                "x": "A testimonial ad claiming that an adult whose growth plates have closed grew 6 cm taller after taking a height-increase supplement. This is also an AI fabrication."
-              },
-              {
-                "t": "p",
-                "x": "[Choi Byung-ho / Professor, Korea University Human-Inspired AI Research Institute: This is something that cannot be stopped now. Because the cost of creating AI videos is getting cheaper and the technology is becoming democratized, we have reached a situation where anyone can make them.]"
-              },
-              {
-                "t": "p",
-                "x": "When YouTube was once flooded with fake AI doctor ads, the government announced late last year that it would introduce a labeling system for AI-generated content. However, the implementation of the system has been delayed, and the issue has now spread to fabricated reviews from ordinary consumers."
-              },
-              {
-                "t": "p",
-                "x": "YouTube stated that it promptly removes such videos upon requests from the Korea Consumer Agency, but it has not introduced measures to proactively detect and block manipulated videos on its own."
+                "x": "“The content is no longer finished at launch. It’s built to keep getting better,” Schwartz said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 가짜 후기 광고\nYouTube 체험담 둔갑",
-          "body": "YouTube 소비자 후기 광고 상당수가 AI로 조작돼 기만 광고 우려가 크다.",
-          "mini_headline": "AI-faked 후기 광고 확산",
+          "headline": "Clorox, 캠페인 대신\n‘관련성 시스템’으로",
+          "body": "Clorox가 대형 캠페인을 접고 AI-enabled 콘텐츠 시스템을 택했다.",
+          "mini_headline": "Clorox, 대형 캠페인을 접다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 발표하는 The Clorox Company CMO Eric Schwartz. ANA 사용 허가"
               },
               {
                 "t": "p",
-                "x": "YouTube에서 쉽게 볼 수 있는 일반 소비자 후기 광고 상당수가 AI로 조작된 것으로 드러났다."
+                "x": "Clorox CMO Eric Schwartz는 10월 22일 ANA Masters of Marketing 콘퍼런스에서 캠페인의 자리를 지속적 관련성의 시스템이 대신하게 됐다고 말했다. 사람이 움직이고 AI 자동화가 받치며 파트너가 증폭하는 엔진이다. 그는 “큰 아이디어 하나로 한 번 등장하는 게 아니다”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "허리둘레가 줄었다는 이 후기도 AI로 만든 가짜 영상이었다."
+                "x": "Pine-Sol의 소셜 우선 세계관 “OMG Da Pine”은 한 달 평균 150건이 넘는 오가닉 게시물을 올리며 참여율 13%를 기록 중이다. TikTok Shop에 내놓은 한정판 제품 네 가지는 몇 시간 만에 매진됐다."
               },
               {
                 "t": "p",
-                "x": "한국소비자원(Korea Consumer Agency)이 6월까지 아홉 달 동안 YouTube 광고를 분석해 AI로 조작된(AI-manipulated) 광고 420건을 적발했다."
+                "x": "Brita의 대량 콘텐츠 모델은 매달 에셋을 100개 넘게 만든다. 그 결과 참여 2,200만 건과 전년 대비 1,742% 늘어난 오가닉 노출을 얻었다."
               },
               {
                 "t": "p",
-                "x": "AI를 쓰면 사진 한 장으로 키와 몸무게 같은 외모를 손쉽게 바꾼다. 적발된 가짜 광고 중에서도 이렇게 신체 변화를 부풀린 사례가 171건으로 가장 많았다."
+                "x": "Clorox Pure는 AI 덕분에 재촬영 비용 없이 시장 신호에 맞춰 광고 크리에이티브를 최적화했다. Hidden Valley의 월드컵 랜치 모먼트는 600개가 넘는 소셜 콘텐츠와 60억 회가 넘는 노출을 낳았다."
               },
               {
                 "t": "p",
-                "x": "성장판이 닫힌 성인이 키 성장 보조제를 먹고 6 cm 컸다고 주장하는 체험 광고인데, 이것도 AI로 조작한 영상이다."
-              },
-              {
-                "t": "p",
-                "x": "[최병호(Choi Byung-ho) / 고려대(Korea University) Human-Inspired AI Research Institute 교수: 이제는 막을 수 없는 일입니다. AI 영상 제작 비용이 점점 싸지고 기술이 대중화되면서 누구나 만들 수 있는 상황이 됐습니다.]"
-              },
-              {
-                "t": "p",
-                "x": "한때 YouTube에 가짜 AI 의사 광고가 넘쳐나자 정부는 지난해 말 AI-generated 콘텐츠 표시제를 도입하겠다고 했다. 시행이 늦어지는 사이 문제는 일반 소비자를 내세운 조작 후기로까지 번졌다."
-              },
-              {
-                "t": "p",
-                "x": "YouTube는 한국소비자원의 요청이 있으면 해당 영상을 신속히 삭제한다고 밝혔다. 그러나 조작 영상을 자체적으로 미리 탐지해 막는 조치는 도입하지 않았다."
+                "x": "Schwartz는 “콘텐츠는 더 이상 출시 시점에 완성되지 않는다. 계속 나아지도록 만들어진다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで捏造した口コミ広告\nYouTubeで体験談を装う",
-          "body": "韓国のYouTubeで一般消費者の口コミを装う広告の多くがAIによる捏造だと判明した。",
-          "mini_headline": "AI-fakedの口コミ広告が拡散",
+          "headline": "Clorox、キャンペーン\nから「関連性の仕組み」へ",
+          "body": "Cloroxは大型キャンペーンをAI-enabledの量産型の仕組みに替えた。",
+          "mini_headline": "Clorox、大型キャンペーンをやめる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "10月22日、ANA Masters of Marketingカンファレンスで講演するThe Clorox CompanyのCMO、Eric Schwartz。ANAの許可を得て掲載"
               },
               {
                 "t": "p",
-                "x": "YouTubeで手軽に目にする一般消費者の口コミ広告の多くが、AIで捏造されたものであることが明らかになった。"
+                "x": "10月22日のANA Masters of Marketingカンファレンスで、CloroxのCMOであるEric Schwartzは、キャンペーンは継続的な関連性のシステムに置き換わったと語った。そのシステムは、人が動かし、AIによる自動化が支え、パートナーが増幅するエンジンで構築されている。「大きなアイデアで一度だけ登場するということではない」と彼は述べた。"
               },
               {
                 "t": "p",
-                "x": "ウエストが細くなったという口コミは、AIで作られた偽の動画だと確認された。"
+                "x": "Pine-Solのソーシャルファーストな世界観「OMG Da Pine」は、月平均150件を超えるオーガニック投稿と13%のエンゲージメント率を記録し、TikTok Shopで四つの限定商品を発売して数時間で完売させた。"
               },
               {
                 "t": "p",
-                "x": "韓国消費者院（Korea Consumer Agency）が6月までの九カ月間にYouTube広告を分析したところ、AIで操作された（AI-manipulated）広告420件が見つかった。"
+                "x": "Britaの大量コンテンツモデルは毎月100点を超えるアセットを制作している。その取り組みにより、2200万件のエンゲージメントと、オーガニックインプレッションの前年比1,742%増を達成した。"
               },
               {
                 "t": "p",
-                "x": "AIを使えば、写真一枚だけで身長や体重といった外見を簡単に変えられる。今回摘発された偽広告のうち、このように体の変化を誇張したケースが171件で最も多かった。"
+                "x": "Clorox Pureでは、AIによって市場のシグナルを使い、撮り直しの費用をかけずに広告クリエイティブを最適化できた。Hidden Valleyのワールドカップにちなんだランチの企画は、600点を超えるソーシャルコンテンツと60億回を超えるインプレッションを生んだ。"
               },
               {
                 "t": "p",
-                "x": "成長板が閉じた大人が身長サプリを飲んで6 cm伸びたと主張する体験談広告。これもAIによる捏造だ。"
-              },
-              {
-                "t": "p",
-                "x": "［チェ・ビョンホ（Choi Byung-ho）／高麗大学（Korea University）Human-Inspired AI Research Institute教授：もはや止められないことです。AI動画の制作コストが下がり、技術が大衆化したことで、誰でも作れる状況になりました。］"
-              },
-              {
-                "t": "p",
-                "x": "かつてYouTubeに偽のAI医師広告があふれた際、政府は昨年末、AI-generatedコンテンツの表示制度を導入すると発表した。しかし制度の施行は遅れており、問題はいまや一般消費者を装った捏造口コミにまで広がっている。"
-              },
-              {
-                "t": "p",
-                "x": "YouTubeは、韓国消費者院の要請があればこうした動画を速やかに削除しているとしたが、操作された動画を自ら事前に検知して遮断する措置は導入していない。"
+                "x": "「コンテンツはもはやローンチ時点で完成しない。改善し続けるように作られている」とSchwartzは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI伪造的测评广告\n在YouTube冒充真实体验",
-          "body": "韩国YouTube上许多冒充普通消费者测评的广告由AI伪造，引发虚假广告担忧。",
-          "mini_headline": "AI-faked测评广告蔓延",
+          "headline": "Clorox告别品牌战役\n转向“相关性系统”",
+          "body": "Clorox以AI-enabled系统取代大型营销战役，为旗下品牌批量产出社交优先内容。",
+          "mini_headline": "Clorox放弃大型战役",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "10月22日，The Clorox Company CMO Eric Schwartz在ANA Masters of Marketing大会上发言。经ANA许可使用"
               },
               {
                 "t": "p",
-                "x": "调查发现，YouTube上随处可见的普通消费者测评广告中，有相当一部分是用AI伪造的。"
+                "x": "在10月22日的ANA Masters of Marketing大会上，Clorox CMO Eric Schwartz表示，营销战役已被“持续相关性系统”取代，这套系统依托一台由人驱动、由AI自动化赋能、由合作伙伴放大的引擎。他说：“这不是靠一个大创意露面一次。”"
               },
               {
                 "t": "p",
-                "x": "那条声称腰围变小的测评，被证实是用AI制作的假视频。"
+                "x": "Pine-Sol以社交优先打造的“OMG Da Pine”世界平均每月发布150多条自然帖子，互动率达13%，还在TikTok Shop推出四款限量产品，数小时内售罄。"
               },
               {
                 "t": "p",
-                "x": "韩国消费者院（Korea Consumer Agency）对截至6月的九个月间的YouTube广告进行分析，发现了420条经AI篡改（AI-manipulated）的广告。"
+                "x": "Brita的高产量内容模式每月产出100多个素材；这些努力带来了2200万次互动，自然曝光同比增长1,742%。"
               },
               {
                 "t": "p",
-                "x": "借助AI，只需一张照片就能轻松改变身高、体重等外貌。在此次查获的虚假广告中，以这种方式夸大身体变化的情况最多，共171例。"
+                "x": "在Clorox Pure上，AI让公司无需重拍即可利用市场信号优化广告创意。Hidden Valley借世界杯打造的牧场酱时刻产生了600多条社交内容和超过60亿次曝光。"
               },
               {
                 "t": "p",
-                "x": "一则体验广告声称，一名骨骺线已闭合的成年人服用增高保健品后长高了6 cm。这同样是AI伪造的。"
-              },
-              {
-                "t": "p",
-                "x": "［Choi Byung-ho／高丽大学（Korea University）Human-Inspired AI Research Institute教授：这已经是无法阻止的事了。由于制作AI视频的成本越来越低，技术日益普及，现在已经到了谁都能制作的地步。］"
-              },
-              {
-                "t": "p",
-                "x": "YouTube上一度充斥着虚假的AI医生广告，政府去年年底宣布将引入AI-generated内容标识制度。但该制度的实施一再推迟，问题如今已蔓延到冒充普通消费者的伪造测评。"
-              },
-              {
-                "t": "p",
-                "x": "YouTube表示，会在韩国消费者院提出要求后迅速删除此类视频，但尚未引入主动检测和拦截篡改视频的措施。"
+                "x": "Schwartz说：“内容不再在发布时就完成，而是为不断变好而打造。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios falsos hechos con IA\nsimulan testimonios en YouTube",
-          "body": "En Corea, muchos anuncios de YouTube que imitan reseñas de consumidores son falsificaciones hechas con IA.",
-          "mini_headline": "Proliferan reseñas AI-faked",
+          "headline": "Clorox cambia las campañas por\nsistemas de relevancia",
+          "body": "Clorox sustituyó las grandes campañas por sistemas AI-enabled que producen contenido social en gran volumen.",
+          "mini_headline": "Clorox deja las grandes campañas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "Eric Schwartz, CMO de The Clorox Company, interviene en la conferencia ANA Masters of Marketing el 22 de octubre. Permiso concedido por ANA"
               },
               {
                 "t": "p",
-                "x": "Se ha revelado que una parte importante de los anuncios con reseñas de consumidores comunes que se encuentran fácilmente en YouTube están fabricados con IA."
+                "x": "En la conferencia ANA Masters of Marketing del 22 de octubre, el CMO de Clorox, Eric Schwartz, dijo que las campañas han sido reemplazadas por sistemas de relevancia continua, construidos con un motor impulsado por personas, habilitado por la automatización con AI y amplificado por socios. “No se trata de aparecer una vez con una gran idea”, afirmó."
               },
               {
                 "t": "p",
-                "x": "La reseña que afirmaba una reducción de la talla de cintura resultó ser un video falso creado con IA."
+                "x": "El universo social-first “OMG Da Pine” de Pine-Sol promedia más de 150 publicaciones orgánicas al mes y una tasa de interacción del 13%, y lanzó en TikTok Shop cuatro productos de edición limitada que se agotaron en horas."
               },
               {
                 "t": "p",
-                "x": "Un análisis de anuncios de YouTube realizado por la Korea Consumer Agency (Agencia de Consumidores de Corea) durante un periodo de nueve meses hasta junio detectó 420 anuncios manipulados con IA (AI-manipulated)."
+                "x": "El modelo de contenido de alto volumen de Brita produce más de 100 piezas al mes; sus esfuerzos generaron 22 millones de interacciones y un aumento interanual del 1,742% en impresiones orgánicas."
               },
               {
                 "t": "p",
-                "x": "Con IA, rasgos como la estatura y el peso pueden alterarse fácilmente a partir de una sola foto. Entre los anuncios falsos detectados esta vez, exagerar así los cambios físicos fue el caso más común, con 171 casos."
+                "x": "Para Clorox Pure, la AI permitió a la empresa usar señales del mercado para optimizar la creatividad publicitaria sin el coste de una nueva sesión de fotos. El momento ranch de Hidden Valley en el Mundial generó más de 600 piezas de contenido social y más de 6 mil millones de impresiones."
               },
               {
                 "t": "p",
-                "x": "Un anuncio testimonial afirma que un adulto con las placas de crecimiento cerradas creció 6 cm tras tomar un suplemento para aumentar la estatura. También es una fabricación con IA."
-              },
-              {
-                "t": "p",
-                "x": "[Choi Byung-ho / Profesor, Korea University Human-Inspired AI Research Institute: Esto ya no se puede detener. Como el costo de crear videos con IA es cada vez menor y la tecnología se está democratizando, hemos llegado a una situación en la que cualquiera puede hacerlos.]"
-              },
-              {
-                "t": "p",
-                "x": "Cuando YouTube se llenó en su momento de anuncios falsos de médicos creados con IA, el gobierno anunció a finales del año pasado que introduciría un sistema de etiquetado para el contenido AI-generated (generado por IA). Sin embargo, la aplicación del sistema se ha retrasado, y el problema se ha extendido ahora a reseñas fabricadas de consumidores comunes."
-              },
-              {
-                "t": "p",
-                "x": "YouTube afirmó que elimina con rapidez estos videos a petición de la Korea Consumer Agency, pero no ha introducido medidas para detectar y bloquear por su cuenta, de forma proactiva, los videos manipulados."
+                "x": "“El contenido ya no está terminado en el lanzamiento. Está hecho para seguir mejorando”, dijo Schwartz."
               }
             ]
           }
@@ -1977,185 +1591,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 가짜 후기 광고\nYouTube 체험담 둔갑",
-          "body": "YouTube 소비자 후기 광고 상당수가 AI로 조작돼 기만 광고 우려가 크다.",
-          "mini_headline": "AI-faked 후기 광고 확산",
+          "headline": "Clorox, 캠페인 대신\n‘관련성 시스템’으로",
+          "body": "Clorox가 대형 캠페인 대신 AI-enabled 콘텐츠 시스템을 택했다.",
+          "mini_headline": "Clorox, 대형 캠페인을 접다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 발표하는 The Clorox Company CMO Eric Schwartz. ANA 사용 허가"
               },
               {
                 "t": "p",
-                "x": "YouTube에서 쉽게 볼 수 있는 일반 소비자 후기 광고 상당수가 AI로 조작된 것으로 드러났다."
+                "x": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 Clorox CMO Eric Schwartz는 캠페인이 지속적 관련성의 시스템으로 대체됐다고 말했다. 이 시스템은 사람이 움직이고, AI 자동화가 뒷받침하며, 파트너가 증폭하는 엔진으로 만들어진다. 그는 “큰 아이디어 하나로 한 번 등장하는 게 아니다”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "허리둘레가 줄었다는 후기는 AI로 만든 가짜 영상으로 확인됐다."
+                "x": "Pine-Sol의 소셜 우선 세계관 “OMG Da Pine”은 한 달 평균 150건이 넘는 오가닉 게시물과 13%의 참여율을 기록하고 있으며, TikTok Shop에서 한정판 제품 네 가지를 내놓아 몇 시간 만에 매진시켰다."
               },
               {
                 "t": "p",
-                "x": "한국소비자원(Korea Consumer Agency)이 6월까지 아홉 달 동안 YouTube 광고를 분석한 결과, AI로 조작된(AI-manipulated) 광고 420건이 적발됐다."
+                "x": "Brita의 대량 콘텐츠 모델은 매달 100개가 넘는 에셋을 만든다. 이를 통해 2,200만 건의 참여와 전년 대비 1,742% 늘어난 오가닉 노출을 얻었다."
               },
               {
                 "t": "p",
-                "x": "AI를 활용하면 사진 한 장만으로 키와 몸무게 같은 외모를 쉽게 바꿀 수 있다. 이번에 적발된 가짜 광고 가운데 이렇게 신체 변화를 과장한 사례가 171건으로 가장 많았다."
+                "x": "Clorox Pure에서는 AI 덕분에 재촬영 비용 없이 시장 신호를 활용해 광고 크리에이티브를 최적화할 수 있었다. Hidden Valley의 월드컵 랜치 모먼트는 600개가 넘는 소셜 콘텐츠와 60억 회가 넘는 노출을 만들어 냈다."
               },
               {
                 "t": "p",
-                "x": "성장판이 닫힌 성인이 키 성장 보조제를 먹고 6 cm 컸다고 주장하는 체험 광고다. 이 역시 AI로 조작한 것이다."
-              },
-              {
-                "t": "p",
-                "x": "[최병호(Choi Byung-ho) / 고려대(Korea University) Human-Inspired AI Research Institute 교수: 이제는 막을 수 없는 일입니다. AI 영상 제작 비용이 점점 싸지고 기술이 대중화되면서 누구나 만들 수 있는 상황이 됐습니다.]"
-              },
-              {
-                "t": "p",
-                "x": "한때 YouTube에 가짜 AI 의사 광고가 넘쳐나자 정부는 지난해 말 AI-generated 콘텐츠 표시제를 도입하겠다고 발표했다. 하지만 제도 시행이 늦어지는 사이 문제는 일반 소비자를 내세운 조작 후기로까지 번졌다."
-              },
-              {
-                "t": "p",
-                "x": "YouTube는 한국소비자원의 요청이 있으면 해당 영상을 신속히 삭제한다고 밝혔지만, 조작 영상을 스스로 미리 탐지해 차단하는 조치는 도입하지 않았다."
+                "x": "Schwartz는 “콘텐츠는 더 이상 출시 시점에 완성되지 않는다. 계속 나아지도록 만들어진다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで捏造した口コミ広告\nYouTubeで体験談を装う",
-          "body": "韓国のYouTubeで一般消費者の口コミを装う広告の多くがAIによる捏造だと判明した。",
-          "mini_headline": "AI-fakedの口コミ広告が拡散",
+          "headline": "Clorox、キャンペーン\nから「関連性の仕組み」へ",
+          "body": "Cloroxは大型キャンペーンをAI-enabledの量産型の仕組みに替えた。",
+          "mini_headline": "Clorox、大型キャンペーンをやめる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "10月22日、ANA Masters of Marketingカンファレンスで講演するThe Clorox CompanyのCMO、Eric Schwartz。ANAの許可を得て掲載"
               },
               {
                 "t": "p",
-                "x": "YouTubeで手軽に目にする一般消費者の口コミ広告の多くが、AIで捏造されたものであることが明らかになった。"
+                "x": "10月22日のANA Masters of Marketingカンファレンスで、CloroxのCMOであるEric Schwartzは、キャンペーンは継続的な関連性のシステムに置き換わったと語った。そのシステムは、人が動かし、AIによる自動化が支え、パートナーが増幅するエンジンで構築されている。「大きなアイデアで一度だけ登場するということではない」と彼は述べた。"
               },
               {
                 "t": "p",
-                "x": "ウエストが細くなったという口コミは、AIで作られた偽の動画だと確認された。"
+                "x": "Pine-Solのソーシャルファーストな世界観「OMG Da Pine」は、月平均150件を超えるオーガニック投稿と13%のエンゲージメント率を記録し、TikTok Shopで四つの限定商品を発売して数時間で完売させた。"
               },
               {
                 "t": "p",
-                "x": "韓国消費者院（Korea Consumer Agency）が6月までの九カ月間にYouTube広告を分析したところ、AIで操作された（AI-manipulated）広告420件が見つかった。"
+                "x": "Britaの大量コンテンツモデルは毎月100点を超えるアセットを制作している。その取り組みにより、2200万件のエンゲージメントと、オーガニックインプレッションの前年比1,742%増を達成した。"
               },
               {
                 "t": "p",
-                "x": "AIを使えば、写真一枚だけで身長や体重といった外見を簡単に変えられる。今回摘発された偽広告のうち、このように体の変化を誇張したケースが171件で最も多かった。"
+                "x": "Clorox Pureでは、AIによって市場のシグナルを使い、撮り直しの費用をかけずに広告クリエイティブを最適化できた。Hidden Valleyのワールドカップにちなんだランチの企画は、600点を超えるソーシャルコンテンツと60億回を超えるインプレッションを生んだ。"
               },
               {
                 "t": "p",
-                "x": "成長板が閉じた大人が身長サプリを飲んで6 cm伸びたと主張する体験談広告。これもAIによる捏造だ。"
-              },
-              {
-                "t": "p",
-                "x": "［チェ・ビョンホ（Choi Byung-ho）／高麗大学（Korea University）Human-Inspired AI Research Institute教授：もはや止められないことです。AI動画の制作コストが下がり、技術が大衆化したことで、誰でも作れる状況になりました。］"
-              },
-              {
-                "t": "p",
-                "x": "かつてYouTubeに偽のAI医師広告があふれた際、政府は昨年末、AI-generatedコンテンツの表示制度を導入すると発表した。しかし制度の施行は遅れており、問題はいまや一般消費者を装った捏造口コミにまで広がっている。"
-              },
-              {
-                "t": "p",
-                "x": "YouTubeは、韓国消費者院の要請があればこうした動画を速やかに削除しているとしたが、操作された動画を自ら事前に検知して遮断する措置は導入していない。"
+                "x": "「コンテンツはもはやローンチ時点で完成しない。改善し続けるように作られている」とSchwartzは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI伪造的测评广告\n在YouTube冒充真实体验",
-          "body": "韩国YouTube上许多冒充普通消费者测评的广告由AI伪造，引发虚假广告担忧。",
-          "mini_headline": "AI-faked测评广告蔓延",
+          "headline": "Clorox告别品牌战役\n转向“相关性系统”",
+          "body": "Clorox以AI-enabled系统取代大型营销战役，为旗下品牌批量产出社交优先内容。",
+          "mini_headline": "Clorox放弃大型战役",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "10月22日，The Clorox Company CMO Eric Schwartz在ANA Masters of Marketing大会上发言。经ANA许可使用"
               },
               {
                 "t": "p",
-                "x": "调查发现，YouTube上随处可见的普通消费者测评广告中，有相当一部分是用AI伪造的。"
+                "x": "在10月22日的ANA Masters of Marketing大会上，Clorox CMO Eric Schwartz表示，营销战役已被“持续相关性系统”取代，这套系统依托一台由人驱动、由AI自动化赋能、由合作伙伴放大的引擎。他说：“这不是靠一个大创意露面一次。”"
               },
               {
                 "t": "p",
-                "x": "那条声称腰围变小的测评，被证实是用AI制作的假视频。"
+                "x": "Pine-Sol以社交优先打造的“OMG Da Pine”世界平均每月发布150多条自然帖子，互动率达13%，还在TikTok Shop推出四款限量产品，数小时内售罄。"
               },
               {
                 "t": "p",
-                "x": "韩国消费者院（Korea Consumer Agency）对截至6月的九个月间的YouTube广告进行分析，发现了420条经AI篡改（AI-manipulated）的广告。"
+                "x": "Brita的高产量内容模式每月产出100多个素材；这些努力带来了2200万次互动，自然曝光同比增长1,742%。"
               },
               {
                 "t": "p",
-                "x": "借助AI，只需一张照片就能轻松改变身高、体重等外貌。在此次查获的虚假广告中，以这种方式夸大身体变化的情况最多，共171例。"
+                "x": "在Clorox Pure上，AI让公司无需重拍即可利用市场信号优化广告创意。Hidden Valley借世界杯打造的牧场酱时刻产生了600多条社交内容和超过60亿次曝光。"
               },
               {
                 "t": "p",
-                "x": "一则体验广告声称，一名骨骺线已闭合的成年人服用增高保健品后长高了6 cm。这同样是AI伪造的。"
-              },
-              {
-                "t": "p",
-                "x": "［Choi Byung-ho／高丽大学（Korea University）Human-Inspired AI Research Institute教授：这已经是无法阻止的事了。由于制作AI视频的成本越来越低，技术日益普及，现在已经到了谁都能制作的地步。］"
-              },
-              {
-                "t": "p",
-                "x": "YouTube上一度充斥着虚假的AI医生广告，政府去年年底宣布将引入AI-generated内容标识制度。但该制度的实施一再推迟，问题如今已蔓延到冒充普通消费者的伪造测评。"
-              },
-              {
-                "t": "p",
-                "x": "YouTube表示，会在韩国消费者院提出要求后迅速删除此类视频，但尚未引入主动检测和拦截篡改视频的措施。"
+                "x": "Schwartz说：“内容不再在发布时就完成，而是为不断变好而打造。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios falsos hechos con IA\nsimulan testimonios en YouTube",
-          "body": "En Corea, muchos anuncios de YouTube que imitan reseñas de consumidores son falsificaciones hechas con IA.",
-          "mini_headline": "Proliferan reseñas AI-faked",
+          "headline": "Clorox cambia las campañas por\nsistemas de relevancia",
+          "body": "Clorox sustituyó las grandes campañas por sistemas AI-enabled que producen contenido social en gran volumen.",
+          "mini_headline": "Clorox deja las grandes campañas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+                "cap": "Eric Schwartz, CMO de The Clorox Company, interviene en la conferencia ANA Masters of Marketing el 22 de octubre. Permiso concedido por ANA"
               },
               {
                 "t": "p",
-                "x": "Se ha revelado que una parte importante de los anuncios con reseñas de consumidores comunes que se encuentran fácilmente en YouTube están fabricados con IA."
+                "x": "En la conferencia ANA Masters of Marketing del 22 de octubre, el CMO de Clorox, Eric Schwartz, dijo que las campañas han sido reemplazadas por sistemas de relevancia continua, construidos con un motor impulsado por personas, habilitado por la automatización con AI y amplificado por socios. “No se trata de aparecer una vez con una gran idea”, afirmó."
               },
               {
                 "t": "p",
-                "x": "La reseña que afirmaba una reducción de la talla de cintura resultó ser un video falso creado con IA."
+                "x": "El universo social-first “OMG Da Pine” de Pine-Sol promedia más de 150 publicaciones orgánicas al mes y una tasa de interacción del 13%, y lanzó en TikTok Shop cuatro productos de edición limitada que se agotaron en horas."
               },
               {
                 "t": "p",
-                "x": "Un análisis de anuncios de YouTube realizado por la Korea Consumer Agency (Agencia de Consumidores de Corea) durante un periodo de nueve meses hasta junio detectó 420 anuncios manipulados con IA (AI-manipulated)."
+                "x": "El modelo de contenido de alto volumen de Brita produce más de 100 piezas al mes; sus esfuerzos generaron 22 millones de interacciones y un aumento interanual del 1,742% en impresiones orgánicas."
               },
               {
                 "t": "p",
-                "x": "Con IA, rasgos como la estatura y el peso pueden alterarse fácilmente a partir de una sola foto. Entre los anuncios falsos detectados esta vez, exagerar así los cambios físicos fue el caso más común, con 171 casos."
+                "x": "Para Clorox Pure, la AI permitió a la empresa usar señales del mercado para optimizar la creatividad publicitaria sin el coste de una nueva sesión de fotos. El momento ranch de Hidden Valley en el Mundial generó más de 600 piezas de contenido social y más de 6 mil millones de impresiones."
               },
               {
                 "t": "p",
-                "x": "Un anuncio testimonial afirma que un adulto con las placas de crecimiento cerradas creció 6 cm tras tomar un suplemento para aumentar la estatura. También es una fabricación con IA."
-              },
-              {
-                "t": "p",
-                "x": "[Choi Byung-ho / Profesor, Korea University Human-Inspired AI Research Institute: Esto ya no se puede detener. Como el costo de crear videos con IA es cada vez menor y la tecnología se está democratizando, hemos llegado a una situación en la que cualquiera puede hacerlos.]"
-              },
-              {
-                "t": "p",
-                "x": "Cuando YouTube se llenó en su momento de anuncios falsos de médicos creados con IA, el gobierno anunció a finales del año pasado que introduciría un sistema de etiquetado para el contenido AI-generated (generado por IA). Sin embargo, la aplicación del sistema se ha retrasado, y el problema se ha extendido ahora a reseñas fabricadas de consumidores comunes."
-              },
-              {
-                "t": "p",
-                "x": "YouTube afirmó que elimina con rapidez estos videos a petición de la Korea Consumer Agency, pero no ha introducido medidas para detectar y bloquear por su cuenta, de forma proactiva, los videos manipulados."
+                "x": "“El contenido ya no está terminado en el lanzamiento. Está hecho para seguir mejorando”, dijo Schwartz."
               }
             ]
           }

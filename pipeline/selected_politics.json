@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "politics",
   "items": [
     {
       "rank": 1,
-      "title": "Lords asks government to think again on Cyber Security Bill (AISI powers review agreed 202-155; frontier-AI incident-reporting amendment defeated)",
-      "url": "https://www.parliament.uk/business/news/2026/october-2026/cyber-security-and-resilience-network-and-information-systems-bill-undergoes-further-scrutiny-in-the-lords/",
-      "source": "UK Parliament",
-      "published_iso": "2026-10-27T00:00:00Z",
-      "og_image": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp",
-      "excerpt": "At report stage on 26 October the House of Lords defeated the government 202-155 to write into the Cyber Security and Resilience Bill a review that must consider giving the AI Security Institute powers; a separate amendment requiring frontier AI developers to report incidents was defeated 95-165, while a government amendment lets ministers take powers where an AI agent loses oversight or control of a regulated network.",
+      "title": "New York Gov. Hochul signs law barring AI companion chatbots from simulating human relationships with minors",
+      "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+      "source": "New York Governor's Office",
+      "published_iso": "2026-10-28T13:38:00Z",
+      "og_image": null,
+      "excerpt": "Hochul signed S.9051B/A.10379C: chatbots may not claim to be human or form romantic/authority relationships with minors, must use multi-method age verification, and face AG civil penalties up to $25,000 per violation.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Primary parliamentary record of a recorded vote. The Lords wrote an AISI-powers review into the bill and rejected mandatory frontier-AI incident reporting, and ministers gained powers over AI agents that lose control of networks."
+      "rationale": "Primary source on a signed state law, so the decision is final. It sets concrete duties for chatbot builders (no claiming to be human, age verification, $25K AG penalties) and is a new enacted law, not part of the earlier state lawsuits against OpenAI."
     },
     {
       "rank": 2,
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "source": "Ars Technica",
-      "published_iso": "2026-10-27T21:50:04Z",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-      "excerpt": "A Delaware corporate-law proposal would allow AI agents to run entire companies with no human at the helm; US Rep. Comer warns owners of AI-run firms could evade liability for 'reckless' AI.",
+      "title": "Italy's AI Act framework takes shape: Legislative Decree No. 179/2026",
+      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
+      "source": "IAPP",
+      "published_iso": "2026-10-26T15:54:35Z",
+      "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg",
+      "excerpt": "IAPP explains Italy's implementing decree for the EU AI Act - designated authorities, sanctions and new workplace rules requiring a human decision-maker for AI-driven hiring and firing.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A new corporate-law proposal in the state where most US companies incorporate would let AI agents run firms. Liability concerns are attributed to Rep. Comer. This bears directly on anyone building agentic systems."
+      "rationale": "This is national implementation of the EU AI Act, via an adopted legislative decree. It names the enforcement authorities and sanctions and requires a human decision-maker for AI hiring and firing. No Italy implementation story has run before."
     },
     {
       "rank": 3,
-      "title": "INEC Probes Suspected AI-Generated Photos In Voters' Register",
-      "url": "https://www.channelstv.com/2026/10/27/inec-probes-suspected-ai-generated-photos-in-voters-register/",
-      "source": "Channels Television",
-      "published_iso": "2026-10-27T20:35:52Z",
-      "og_image": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-      "excerpt": "Nigeria's Independent National Electoral Commission said in a statement it is investigating suspected AI-generated photographs found in the preliminary Register of Voters published online on October 26, reviewing records for technical or procedural lapses before the final register is certified on December 15, 2026.",
+      "title": "Pakistan's Election Commission proposes 12 code-of-conduct amendments to curb AI misuse and deepfakes in polls",
+      "url": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
+      "source": "The Express Tribune",
+      "published_iso": "2026-10-26T06:48:23Z",
+      "og_image": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+      "excerpt": "The ECP draft would require media to disclose AI-generated or modified content, prohibit deceptive deepfakes by parties and candidates, and is open for public comment until Nov 20.",
       "axis": "elections",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Elections axis: a national electoral body formally opened a probe into synthetic photos in its voter register. This is an official action outside the US/EU and a new kind of AI election-integrity issue."
+      "rationale": "Elections axis: a national electoral body has released draft rules requiring AI-content disclosure and banning deceptive deepfakes, with comments open until Nov 20. It is an official rulemaking step outside the US and EU."
     },
     {
       "rank": 4,
-      "title": "The U.S.-Taiwan ART's Export Control Puzzle",
-      "url": "https://www.lawfaremedia.org/article/the-u.s.-taiwan-art-s-export-control-puzzle",
-      "source": "Lawfare",
-      "published_iso": "2026-10-27T22:00:07Z",
-      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5",
-      "excerpt": "Analysis of what the export-control 'alignment' clause in the US-Taiwan Agreement on Reciprocal Trade requires of Taipei for advanced chips and AI hardware.",
-      "axis": "geopolitics",
+      "title": "Disinformation videos, likely from Russia, use AI and real people's identities to malign Senate candidates",
+      "url": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
+      "source": "Associated Press (via Pioneer Press)",
+      "published_iso": "2026-10-28T15:14:21Z",
+      "og_image": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg?w=2000&h=1333",
+      "excerpt": "AP reports a network of AI-fabricated videos, attributed by researchers to likely Russian origin, that hijack real Americans' identities to target two Democratic Senate candidates days before the midterms.",
+      "axis": "elections",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Geopolitics axis: an on-list legal analysis of the trade agreement's export-control alignment clause for AI chips and hardware. The ART clause itself has not been carried before."
+      "rationale": "Elections axis: AP wire reporting on a specific, newly identified AI-video influence network before the midterms. Copy must attribute the Russian origin to the researchers who made that assessment and must not frame the story around the targeted candidates' party."
     },
     {
       "rank": 5,
-      "title": "정부, AI 청소년 보호 강화…심의·법제 정비 본격화",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709998",
-      "source": "디지털투데이",
-      "published_iso": "2026-10-27T05:48:07+09:00",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-      "excerpt": "Korea's Broadcasting, Media and Communications Commission is preparing a standalone 'AI Service User Protection Act' (provisional name) and moving to amend the Network Act and AI Basic Act as AI chatbots' harmful content and youth over-use draw scrutiny.",
-      "axis": "policy",
+      "title": "Malaysia customs seizes US$12.1M of advanced AI chips in 30 servers at KL airport",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
+      "source": "CNA",
+      "published_iso": "2026-10-28T05:52:00Z",
+      "og_image": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+      "excerpt": "Malaysian customs intercepted servers carrying advanced AI chips suspected of violating the country's export controls on US-origin high-performance chips; investigators are probing a suspected smuggling network.",
+      "axis": "geopolitics",
       "tool": "Politics",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Korea's media regulator is drafting a standalone AI user-protection law and amendments to the AI Basic Act aimed at chatbot harms to minors. This regional regulation is distinct from the US state lawsuits already published."
+      "rationale": "Geopolitics axis: a new enforcement action, with Malaysia applying its own export controls on US-origin AI chips at a transshipment hub. It is a separate event from the 10-02 DOJ California smuggling arrest and the 10-20 Taiwan server-export law."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.parliament.uk/business/news/2026/october-2026/cyber-security-and-resilience-network-and-information-systems-bill-undergoes-further-scrutiny-in-the-lords/": {
-        "verdict": "new",
-        "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
-        "new_action": ""
-      },
-      "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/": {
-        "verdict": "new",
-        "nearest": "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/",
-        "new_action": ""
-      },
-      "https://www.channelstv.com/2026/10/27/inec-probes-suspected-ai-generated-photos-in-voters-register/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.lawfaremedia.org/article/the-u.s.-taiwan-art-s-export-control-puzzle": {
-        "verdict": "new",
-        "nearest": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
-        "new_action": ""
-      },
-      "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709998": {
+      "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby": {
         "verdict": "new",
         "nearest": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
         "new_action": ""
+      },
+      "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations": {
+        "verdict": "new",
+        "nearest": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance",
+        "new_action": ""
+      },
+      "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls": {
+        "verdict": "new",
+        "nearest": "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
+        "new_action": ""
+      },
+      "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/": {
+        "verdict": "new",
+        "nearest": "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
+        "new_action": ""
+      },
+      "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976": {
+        "verdict": "new",
+        "nearest": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+        "new_action": ""
       }
     },
-    "note": "Pool 20, picks 5, outlets 5 (UK Parliament, Ars Technica, Channels TV, Lawfare, Digital Today); axes: policy x3, elections x1, geopolitics x1. DROPPED AS RUNNING-STORY DUPLICATES: WIRED UK Home Office/OpenAI watchdog (the watchdog is only 'considering' a probe; no new decision; follow-up to the 10-14 Register asylum-AI card); Register 'Britain bets big on AI' GBP600M cyber plan (same UK AI-defence plan as the 10-15 gov.uk and 10-26 Chancellor cards); Yonhap Trump 'ban the term AI' (a Truth Social post, not a new order; follows the 09-30 SI executive order); WIRED Jess Asato interview (interview format, no new filing reported). DROPPED FOR CROSS-SECTION RISK: News1 Melon AI-music labelling (likely overlaps the music section). Runner-up held back: Asahi Japan Cabinet Office release of five AI firms' training-data transparency responses (a genuine new official release, but books published a Japanese ai.watch.impress item on 10-26 that may cover the same IP principles; swap it in only if the orchestrator grep clears it). PASSED ON SCORE: Tech Policy Press x2 (opinion), Nextgov ARI proposal (think-tank), FPF hallucination mapping (analysis), WIRED AI radio host (feature), Kyosu ethics-guidelines roundup, Gizmodo ACLU plate-reader warning, Register datacenter-meeting records, Tribune ASD wire copy. Cross-section: the curator has no grep tool. The orchestrator should exact-grep these 5 URLs plus 'Delaware', 'INEC', 'Cyber Security and Resilience', 'Reciprocal Trade' and '방미통위 AI 이용자보호법' across all sections before roll."
+    "note": "Pool 22, picks 5, outlets 5 (NY Governor, IAPP, Express Tribune, AP/Pioneer Press, CNA); axes: policy x2, elections x2, geopolitics x1. DROPPED AS DUPLICATES / RUNNING STORIES: Rapporteur Spain Sanchez-wife deepfake suit (likely-repeat of the 10-26 Guardian card; the filing is new, but the body is Cloudflare-blocked and unverifiable, so it was held out rather than kept as a follow-up); WIRED Home Office GPT-4 asylum tools (watchdog only weighing a probe, no decision; follow-up to the 10-14 Register card, already dropped 10-28); WIRED Jess Asato interview (interview, no filing reported; already dropped 10-28); Nextgov ARI proposal and Register UK datacentre-meeting records (passed on 10-28, think-tank/records analysis). DEFERRED TO BOOKS: Stanford Daily authors v. Anthropic (copyright litigation, not a policy ruling). PASSED ON SCORE: OpenAI Election Operations Center (Verge; strong runner-up 1, company announcement; nearest 10-24 techpolicy.press deepfakes, related only), Australia Digital Duty of Care chatbot-intimacy ban (Guardian; runner-up 2, lower house only and overlaps the NY minors-chatbot pick thematically), Guardian UK vapes-consultation AI astroturf (runner-up 3), noyb GDPR complaints vs Scale AI (Register; runner-up 4), GSA OneGov Claude pricing (procurement terms, close to business noise), FedScoop DualChem (CAISI chemistry-risk benchmark, science/biosecurity-adjacent), Guardian xAI Mississippi home-buyout claims, Lawfare/Tech Policy Press/Brookings analyses, Yonhap FKI AI Basic Act industry petition (not an official decision). Cross-section: the curator has no grep tool. The orchestrator should exact-grep these 5 URLs plus 'Hochul', 'S.9051', '179/2026', 'ECP', 'twincities', and 'Malaysia customs' across all sections in published_urls.json before roll. Hochul og_image is null and needs an in-article image from ax-media."
   }
 }

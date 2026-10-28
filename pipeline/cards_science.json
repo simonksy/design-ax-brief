@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "science",
   "cards": [
     {
-      "id": "dueling-proofs",
+      "id": "nmr-spectrometer",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI의 AI 증명\nAnthropic도 맞불",
-      "body": "OpenAI의 AI 증명에 Anthropic은 몇 시간 만에 ETH 반증을 냈다.",
-      "mini_headline": "두 연구소의 AI 증명 대결",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+      "headline": "펄스를 스스로 배우는\nNMR 분광기",
+      "body": "Aarhus 연구진의 AI NMR은 시뮬레이션 없이 시료에서 최적 펄스열을 익힌다.",
+      "mini_headline": "시료에서 배우는 NMR",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,203 +19,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-            "cap": "xpixel/Shutterstock"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+            "cap": "Niels Chr. Nielsen(왼쪽), Filip V. Jensen, Anders Bodholt Nielsen(오른쪽)이 NMR 분광기로 분석할 시료를 준비하고 있다. Credit: Peter F. Gammelby, Aarhus University"
           },
           {
             "t": "p",
-            "x": "가뜩이나 위기에 놓인 분야에 인공지능이 생성한 수학 성과 수백 건을 쏟아낸 지 몇 주 만에 OpenAI가 수학·물리학·컴퓨터 과학을 아우르는 대형 증명 세 건을 내놓았다. 최근 잇따른 AI-generated “slop drops”가 그랬듯 이번 공개도 벌써 논란이다."
+            "x": "NMR 분광기는 분자 구조를 원자 수준까지 밝혀내지만 신호가 약해 검출할 수 있는 대상이 제한된다. Aarhus University 연구진은 AI를 써서 분광기가 시료에서 직접 최적의 펄스열을 학습하게 했다."
           },
           {
             "t": "p",
-            "x": "OpenAI가 직접 꾸린 전문가 패널, 수학·인공지능 자문그룹(Advisory Group on Mathematics and Artificial Intelligence, AGMAI)의 권고와도 어긋나는 공개다. 모델은 여전히 비공개다. 프롬프트와 연산 시간, 사고 사슬(chain-of-thought) 출력도 나오지 않았다. 결과 두 건은 Anthropic이 관여한 연구와 밀접하게 겹친다."
+            "x": "신호가 약한 것은 한쪽 방향을 향하는 핵스핀이 반대쪽보다 아주 조금 많을 뿐이기 때문이다. Niels Chr. Nielsen 교수는 \"NMR은 MRI 스캐너와 같은 약점이 있다. 상대적으로 둔감하다는 점이다\"라고 말한다. 전자의 자기 모멘트는 양성자보다 약 660배 크다. 동적 핵 편극(DNP)은 마이크로파 펄스로 전자의 정렬 일부를 원자핵에 옮긴다. 다만 스핀 수백, 수천 개가 상호작용하면 이상적인 펄스열을 미리 계산하기가 매우 어렵고 모델이 실제 장비의 결함을 놓칠 수도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+            "cap": "분광기는 시료에서 배운다. 측정한 신호는 베이지안 최적화(Bayesian optimization) 알고리즘으로 되돌아간다. Credit: Filip V. Jensen, Aarhus University / Science Advances"
           },
           {
             "t": "p",
-            "x": "Kakeya: 지난달 사차원 사례를 풀었던 OpenAI 내부 모델이 이번에는 모든 차원의 Kakeya 문제를 풀었다."
+            "x": "연구팀은 직접 만든 DNP 분광기를 베이지안 최적화(Bayesian optimization) 기반 머신러닝 알고리즘에 연결했다. 알고리즘이 시료에 펄스열을 시험하고 결과를 재서 학습한 뒤 다음 실험을 제안하는 방식이다. 주저자 Filip V. Jensen은 \"새로운 점은 분광기가 최선의 실험을 수행하는 방법을 스스로 배우게 했다는 것\"이라고 말한다."
           },
           {
             "t": "p",
-            "x": "Yang-Mills: OpenAI는 Millennium Prize Problem(밀레니엄 난제) 가운데 “존재” 절반을 증명했다고 주장한다. “질량 간극”은 아직 풀리지 않았다. Anthropic 직원 Levent Alpöge와 Northwestern의 Ethan Sussman은 공개 GitHub 저장소에서 LLMs로 Balaban의 프로그램을 완성해 가던 참이었는데, 증명을 공개하지 않은 OpenAI의 주장이 이들을 앞지른 셈이 됐다."
-          },
-          {
-            "t": "p",
-            "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘으로 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 맡았다. OpenAI 발표 몇 시간 뒤 Anthropic도 내부 Anthropic 모델의 작업을 토대로 ETH를 반증하는 독자 결과를 올렸다."
+            "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준 방법 일부와 맞먹었고, 더 복잡한 스핀계에서는 기준 방법보다 신호를 약 70% 더 크게 증폭했다. 최적화 한 번에 이틀이 조금 못 되는 시간부터 거의 닷새까지 걸렸지만 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이번 개념 증명 연구는 자기공명 기반 양자 센서에도 쓰임새가 있을 전망이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OpenAI and Anthropic\nrelease dueling AI proofs",
-          "body": "OpenAI dropped AI proofs in math, physics and computing, and Anthropic answered within hours with its own ETH disproof.",
-          "mini_headline": "Rival AI proofs from two labs",
+          "headline": "An NMR spectrometer that\nlearns its own pulses",
+          "body": "Aarhus researchers used AI to let an NMR spectrometer learn its best pulse sequence from the sample, not simulations.",
+          "mini_headline": "NMR learns from the sample",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "Niels Chr. Nielsen (left), Filip V. Jensen and Anders Bodholt Nielsen (right) prepare a sample for analysis in the NMR spectrometer. Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "Just a few weeks after dropping hundreds of artificial-intelligence-generated math breakthroughs on a field that's already in crisis, OpenAI dropped three massive proofs that touched on math, physics and computer science. Like other recent AI-generated “slop drops,” the releases are already controversial."
+                "x": "NMR spectrometers can reveal molecular structure down to the atomic level, but weak signals limit what they can detect. Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample."
               },
               {
                 "t": "p",
-                "x": "The releases contradict the recommendations of the Advisory Group on Mathematics and Artificial Intelligence (AGMAI), the expert panel OpenAI organized. The model remains proprietary, and the prompts, compute time and chain-of-thought outputs have not been made public. Two of the results coincide with closely related work involving Anthropic."
+                "x": "Only a very small excess of nuclear spins points one way rather than the other, so the signal is weak. \"NMR has the same disadvantage as MRI scanners: it is relatively insensitive,\" says Prof. Niels Chr. Nielsen. Electrons have a magnetic moment about 660 times larger than a proton's, and in dynamic nuclear polarization (DNP) microwave pulses transfer some of their order to the nuclei. But with hundreds or thousands of interacting spins, the ideal pulse sequence is very hard to calculate in advance, and models may miss real instrument imperfections."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "The spectrometer learns from the sample: measured signals are fed back to a Bayesian optimization algorithm. Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya: after solving the four-dimensional case last month, OpenAI's internal model has now solved the Kakeya problem in every dimension."
+                "x": "The team connected a home-built DNP spectrometer to a machine-learning algorithm based on Bayesian optimization. It tests a pulse sequence on the sample, measures the result, learns from it and proposes the next experiment. \"What is new is that we let the spectrometer learn for itself how to perform the best experiments,\" says first author Filip V. Jensen."
               },
               {
                 "t": "p",
-                "x": "Yang-Mills: OpenAI claimed to prove the “existence” half of the Millennium Prize Problem; the “mass gap” remains open. Anthropic employee Levent Alpöge and Northwestern's Ethan Sussman had been using LLMs to finish Balaban's program in a public GitHub repository; OpenAI's claim, with no publicly available proof, appears to have beaten them."
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis: OpenAI's proof gives a 3-SAT algorithm just a tiny bit faster than exponential time, refuting ETH. Russell Impagliazzo, Ramamohan Paturi and Ryan Williams are working with OpenAI on an independent investigation. Mere hours after OpenAI's announcement, Anthropic posted its own independent result disproving ETH, based on work by an internal Anthropic model."
+                "x": "In a simpler spin system the algorithm matched some of the best existing approaches; in a more complex one it gave about 70% greater signal enhancement than the reference method. Each optimization took from just under two days to almost five days, but a working sequence can be reused. The proof-of-concept study, published in Science Advances, could help magnetic-resonance-based quantum sensors."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI의 AI 증명\nAnthropic도 맞불",
-          "body": "OpenAI의 AI 증명에 Anthropic은 몇 시간 만에 ETH 반증을 냈다.",
-          "mini_headline": "두 연구소의 AI 증명 대결",
+          "headline": "펄스를 스스로 배우는\nNMR 분광기",
+          "body": "Aarhus 연구진의 AI NMR은 시뮬레이션 없이 시료에서 최적 펄스열을 익힌다.",
+          "mini_headline": "시료에서 배우는 NMR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "Niels Chr. Nielsen(왼쪽), Filip V. Jensen, Anders Bodholt Nielsen(오른쪽)이 NMR 분광기로 분석할 시료를 준비하고 있다. Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "가뜩이나 위기에 놓인 분야에 인공지능이 생성한 수학 성과 수백 건을 쏟아낸 지 몇 주 만에 OpenAI가 수학·물리학·컴퓨터 과학을 아우르는 대형 증명 세 건을 내놓았다. 최근 잇따른 AI-generated “slop drops”가 그랬듯 이번 공개도 벌써 논란이다."
+                "x": "NMR 분광기는 분자 구조를 원자 수준까지 밝혀내지만 신호가 약해 검출할 수 있는 대상이 제한된다. Aarhus University 연구진은 AI를 써서 분광기가 시료에서 직접 최적의 펄스열을 학습하게 했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 직접 꾸린 전문가 패널, 수학·인공지능 자문그룹(Advisory Group on Mathematics and Artificial Intelligence, AGMAI)의 권고와도 어긋나는 공개다. 모델은 여전히 비공개다. 프롬프트와 연산 시간, 사고 사슬(chain-of-thought) 출력도 나오지 않았다. 결과 두 건은 Anthropic이 관여한 연구와 밀접하게 겹친다."
+                "x": "신호가 약한 것은 한쪽 방향을 향하는 핵스핀이 반대쪽보다 아주 조금 많을 뿐이기 때문이다. Niels Chr. Nielsen 교수는 \"NMR은 MRI 스캐너와 같은 약점이 있다. 상대적으로 둔감하다는 점이다\"라고 말한다. 전자의 자기 모멘트는 양성자보다 약 660배 크다. 동적 핵 편극(DNP)은 마이크로파 펄스로 전자의 정렬 일부를 원자핵에 옮긴다. 다만 스핀 수백, 수천 개가 상호작용하면 이상적인 펄스열을 미리 계산하기가 매우 어렵고 모델이 실제 장비의 결함을 놓칠 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "분광기는 시료에서 배운다. 측정한 신호는 베이지안 최적화(Bayesian optimization) 알고리즘으로 되돌아간다. Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya: 지난달 사차원 사례를 풀었던 OpenAI 내부 모델이 이번에는 모든 차원의 Kakeya 문제를 풀었다."
+                "x": "연구팀은 직접 만든 DNP 분광기를 베이지안 최적화(Bayesian optimization) 기반 머신러닝 알고리즘에 연결했다. 알고리즘이 시료에 펄스열을 시험하고 결과를 재서 학습한 뒤 다음 실험을 제안하는 방식이다. 주저자 Filip V. Jensen은 \"새로운 점은 분광기가 최선의 실험을 수행하는 방법을 스스로 배우게 했다는 것\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "Yang-Mills: OpenAI는 Millennium Prize Problem(밀레니엄 난제) 가운데 “존재” 절반을 증명했다고 주장한다. “질량 간극”은 아직 풀리지 않았다. Anthropic 직원 Levent Alpöge와 Northwestern의 Ethan Sussman은 공개 GitHub 저장소에서 LLMs로 Balaban의 프로그램을 완성해 가던 참이었는데, 증명을 공개하지 않은 OpenAI의 주장이 이들을 앞지른 셈이 됐다."
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘으로 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 맡았다. OpenAI 발표 몇 시간 뒤 Anthropic도 내부 Anthropic 모델의 작업을 토대로 ETH를 반증하는 독자 결과를 올렸다."
+                "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준 방법 일부와 맞먹었고, 더 복잡한 스핀계에서는 기준 방법보다 신호를 약 70% 더 크게 증폭했다. 최적화 한 번에 이틀이 조금 못 되는 시간부터 거의 닷새까지 걸렸지만 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이번 개념 증명 연구는 자기공명 기반 양자 센서에도 쓰임새가 있을 전망이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAIがAI証明\nAnthropicも対抗",
-          "body": "OpenAIのAI証明に対し、Anthropicは数時間後に独自のETH反証を出した。",
-          "mini_headline": "二つの研究所がAI証明で競う",
+          "headline": "パルスを自ら学ぶ\nNMR分光計",
+          "body": "Aarhusの研究者はAIでNMRに模擬計算でなく試料から最適なパルス列を学ばせた。",
+          "mini_headline": "試料から学ぶNMR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "NMR分光計で分析する試料を準備するNiels Chr. Nielsen(左)、Filip V. Jensen、Anders Bodholt Nielsen(右)。Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "すでに危機にある分野に人工知能が生み出した数学的成果を数百件投じてからわずか数週間後、OpenAIは数学・物理学・計算機科学にまたがる大型の証明を三つ公開した。最近の他のAI-generatedな“slop drops”と同様、今回の公開もすでに論争を呼んでいる。"
+                "x": "NMR分光計は分子構造を原子レベルまで明らかにできるが、信号が弱いため検出できる対象には限界がある。Aarhus Universityの研究者は、AIを用いて分光計が試料から直接最適なパルス列を学習できるようにした。"
               },
               {
                 "t": "p",
-                "x": "今回の公開は、OpenAIが組織した専門家パネルAdvisory Group on Mathematics and Artificial Intelligence(AGMAI)の勧告に反する。モデルは非公開のままで、プロンプト、計算時間、chain-of-thoughtの出力も公開されていない。結果のうち二つは、Anthropicが関わる密接に関連した研究と重なる。"
+                "x": "一方向を向く核スピンが逆向きのものをごくわずかに上回るだけなので、信号は弱い。Niels Chr. Nielsen教授は「NMRにはMRIスキャナーと同じ欠点がある。比較的感度が低いのだ」と語る。電子の磁気モーメントは陽子の約660倍で、動的核偏極(DNP)ではマイクロ波パルスが電子の秩序の一部を原子核に移す。しかし数百、数千ものスピンが相互作用する場合、理想的なパルス列を事前に計算するのは非常に難しく、モデルが実際の装置の不完全さを見落とすおそれもある。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "分光計は試料から学ぶ。測定した信号はベイズ最適化(Bayesian optimization)アルゴリズムにフィードバックされる。Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya:先月四次元の場合を解いたOpenAIの内部モデルが、今回はあらゆる次元でKakeya問題を解いた。"
+                "x": "研究チームは自作のDNP分光計を、ベイズ最適化(Bayesian optimization)に基づく機械学習アルゴリズムに接続した。アルゴリズムは試料でパルス列を試し、結果を測定して学習し、次の実験を提案する。筆頭著者のFilip V. Jensenは「新しいのは、最良の実験の進め方を分光計自身に学ばせた点だ」と話す。"
               },
               {
                 "t": "p",
-                "x": "Yang-Mills:OpenAIはMillennium Prize Problemの“存在”の半分を証明したと主張したが、“質量ギャップ”は未解決のままだ。Anthropic社員のLevent AlpögeとNorthwesternのEthan Sussmanは、公開GitHubリポジトリでLLMsを使いBalabanのプログラムを完成させようとしていた。証明が公開されていないOpenAIの主張は、彼らに先んじたとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis:OpenAIの証明は指数時間よりごくわずかに速い3-SATアルゴリズムを示し、ETHを否定する。Russell Impagliazzo、Ramamohan Paturi、Ryan WilliamsがOpenAIと独立した検証を進めている。OpenAIの発表からわずか数時間後、Anthropicは社内のAnthropicモデルの成果に基づき、ETHを反証する独自の結果を公開した。"
+                "x": "より単純なスピン系では、アルゴリズムは既存の最良手法の一部と同等の結果を示し、より複雑な系では基準手法より約70%大きな信号増強を得た。各最適化には二日弱から五日近くを要したが、有効なパルス列は再利用できる。Science Advancesに掲載されたこの概念実証研究は、磁気共鳴を利用した量子センサーに役立つ可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI发布AI证明\nAnthropic随即反击",
-          "body": "OpenAI发布数学、物理和计算的AI证明，Anthropic数小时内以ETH反证回应。",
-          "mini_headline": "两家实验室的AI证明之争",
+          "headline": "自学脉冲序列的\nNMR波谱仪",
+          "body": "Aarhus研究人员借助AI，让NMR波谱仪不靠模拟、直接从样品中学会最佳脉冲序列。",
+          "mini_headline": "NMR从样品中学习",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "Niels Chr. Nielsen（左）、Filip V. Jensen和Anders Bodholt Nielsen（右）正在准备用于NMR波谱仪分析的样品。Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "在向一个本已陷入危机的领域抛出数百项人工智能生成的数学突破仅几周后，OpenAI又发布了三项涉及数学、物理和计算机科学的大型证明。与近来其他AI-generated的“slop drops”一样，这些发布已经引发争议。"
+                "x": "NMR波谱仪能把分子结构解析到原子层面，但微弱的信号限制了它能检测的范围。Aarhus University的研究人员借助AI，让波谱仪直接从样品中学习最佳脉冲序列。"
               },
               {
                 "t": "p",
-                "x": "这些发布与OpenAI自己组建的专家小组Advisory Group on Mathematics and Artificial Intelligence（AGMAI）的建议相悖。该模型仍为专有，提示词、计算时长和chain-of-thought输出均未公开。其中两项结果与Anthropic参与的密切相关研究重合。"
+                "x": "朝一个方向排列的核自旋只比反方向的多出极少一点，因此信号很弱。Niels Chr. Nielsen教授说：“NMR和MRI扫描仪有同样的缺点：灵敏度相对较低。”电子的磁矩约为质子的660倍，在动态核极化（DNP）中，微波脉冲会把电子的部分有序性转移给原子核。但当数百乃至数千个自旋相互作用时，理想的脉冲序列很难预先计算，模型也可能忽略仪器的真实缺陷。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "波谱仪从样品中学习：测得的信号被反馈给贝叶斯优化（Bayesian optimization）算法。Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya：在上月解决四维情形后，OpenAI的内部模型如今已在所有维度上解决了Kakeya问题。"
+                "x": "团队把自制的DNP波谱仪连接到基于贝叶斯优化（Bayesian optimization）的机器学习算法上。算法在样品上测试脉冲序列、测量结果、从中学习，再提出下一次实验。论文第一作者Filip V. Jensen说：“新颖之处在于，我们让波谱仪自己学会如何开展最佳实验。”"
               },
               {
                 "t": "p",
-                "x": "Yang-Mills：OpenAI声称证明了Millennium Prize Problem中“存在性”的一半，“质量间隙”仍未解决。Anthropic员工Levent Alpöge与Northwestern的Ethan Sussman此前一直在公开的GitHub仓库中借助LLMs完成Balaban的纲领；OpenAI这一没有公开证明的主张似乎抢先了他们。"
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis：OpenAI的证明给出了一个仅比指数时间略快一点的3-SAT算法，从而推翻ETH。Russell Impagliazzo、Ramamohan Paturi和Ryan Williams正与OpenAI合作开展独立调查。OpenAI宣布后仅数小时，Anthropic便基于其内部Anthropic模型的工作，发布了自己独立证否ETH的结果。"
+                "x": "在较简单的自旋体系中，该算法与部分现有最佳方法持平；在更复杂的体系中，它的信号增强比参考方法高出约70%。每次优化耗时从不到两天到将近五天不等，但有效的序列可以重复使用。这项发表于Science Advances的概念验证研究，或有助于基于磁共振的量子传感器。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI y Anthropic publican\ndemostraciones rivales de AI",
-          "body": "OpenAI publicó demostraciones de AI en matemáticas, física y computación; Anthropic respondió en horas refutando ETH.",
-          "mini_headline": "Demostraciones de AI rivales de dos laboratorios",
+          "headline": "Un espectrómetro de NMR que\naprende sus propios pulsos",
+          "body": "En Aarhus, la AI permitió a un espectrómetro de NMR aprender sus mejores pulsos de la muestra, no de simulaciones.",
+          "mini_headline": "La NMR aprende de la muestra",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "Niels Chr. Nielsen (izquierda), Filip V. Jensen y Anders Bodholt Nielsen (derecha) preparan una muestra para analizarla en el espectrómetro de NMR. Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "Apenas unas semanas después de lanzar cientos de avances matemáticos generados por inteligencia artificial sobre un campo que ya está en crisis, OpenAI publicó tres demostraciones de gran envergadura que abarcan matemáticas, física y ciencias de la computación. Como otros “slop drops” AI-generated recientes, los lanzamientos ya son polémicos."
+                "x": "Los espectrómetros de NMR pueden revelar la estructura molecular hasta el nivel atómico, pero las señales débiles limitan lo que pueden detectar. Investigadores de Aarhus University han usado AI para que el espectrómetro aprenda la mejor secuencia de pulsos directamente de la muestra."
               },
               {
                 "t": "p",
-                "x": "Los lanzamientos contradicen las recomendaciones del Advisory Group on Mathematics and Artificial Intelligence (AGMAI), el panel de expertos que organizó OpenAI. El modelo sigue siendo propietario, y los prompts, el tiempo de cómputo y las salidas de chain-of-thought no se han hecho públicos. Dos de los resultados coinciden con trabajos estrechamente relacionados en los que participa Anthropic."
+                "x": "Solo un exceso muy pequeño de espines nucleares apunta en un sentido y no en el otro, por lo que la señal es débil. \"La NMR tiene la misma desventaja que los escáneres de MRI: es relativamente poco sensible\", dice el Prof. Niels Chr. Nielsen. Los electrones tienen un momento magnético unas 660 veces mayor que el de un protón, y en la polarización nuclear dinámica (DNP) los pulsos de microondas transfieren parte de su orden a los núcleos. Pero con cientos o miles de espines que interactúan, la secuencia de pulsos ideal es muy difícil de calcular de antemano, y los modelos pueden pasar por alto imperfecciones reales del instrumento."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "El espectrómetro aprende de la muestra: las señales medidas se envían de vuelta a un algoritmo de optimización bayesiana (Bayesian optimization). Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya: tras resolver el caso de cuatro dimensiones el mes pasado, el modelo interno de OpenAI ha resuelto ahora el problema de Kakeya en todas las dimensiones."
+                "x": "El equipo conectó un espectrómetro de DNP de fabricación propia a un algoritmo de aprendizaje automático basado en optimización bayesiana (Bayesian optimization). Este prueba una secuencia de pulsos en la muestra, mide el resultado, aprende de él y propone el siguiente experimento. \"Lo nuevo es que dejamos que el espectrómetro aprendiera por sí mismo a realizar los mejores experimentos\", dice el primer autor, Filip V. Jensen."
               },
               {
                 "t": "p",
-                "x": "Yang-Mills: OpenAI afirmó haber demostrado la mitad de “existencia” del Millennium Prize Problem; la “brecha de masa” sigue abierta. Levent Alpöge, empleado de Anthropic, y Ethan Sussman, de Northwestern, usaban LLMs para completar el programa de Balaban en un repositorio público de GitHub; la afirmación de OpenAI, sin una demostración disponible públicamente, parece haberse adelantado a ellos."
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis: la demostración de OpenAI ofrece un algoritmo para 3-SAT apenas un poco más rápido que el tiempo exponencial, lo que refuta la ETH. Russell Impagliazzo, Ramamohan Paturi y Ryan Williams trabajan con OpenAI en una investigación independiente. Apenas unas horas después del anuncio de OpenAI, Anthropic publicó su propio resultado independiente que refuta la ETH, basado en el trabajo de un modelo interno de Anthropic."
+                "x": "En un sistema de espines más simple, el algoritmo igualó a algunos de los mejores enfoques existentes; en uno más complejo, logró un aumento de señal alrededor de un 70% mayor que el del método de referencia. Cada optimización tardó desde poco menos de dos días hasta casi cinco, pero una secuencia que funciona puede reutilizarse. El estudio de prueba de concepto, publicado en Science Advances, podría ayudar a los sensores cuánticos basados en resonancia magnética."
               }
             ]
           }
@@ -223,141 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI의 AI 증명\nAnthropic도 맞불",
-          "body": "OpenAI의 AI 증명에 Anthropic은 몇 시간 만에 ETH 반증을 냈다.",
-          "mini_headline": "두 연구소의 AI 증명 대결",
+          "headline": "펄스를 스스로 배우는\nNMR 분광기",
+          "body": "Aarhus 연구진의 AI NMR은 시뮬레이션 대신 시료로 최적 펄스열을 익힌다.",
+          "mini_headline": "시료에서 배우는 NMR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "Niels Chr. Nielsen(왼쪽), Filip V. Jensen, Anders Bodholt Nielsen(오른쪽)이 NMR 분광기로 분석할 시료를 준비하고 있다. Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "이미 위기에 처한 분야에 인공지능이 생성한 수학 성과 수백 건을 쏟아낸 지 불과 몇 주 만에, OpenAI는 수학·물리학·컴퓨터 과학에 걸친 대형 증명 세 건을 내놓았다. 최근 잇따른 다른 AI-generated “slop drops”처럼 이번 공개도 벌써 논란이 되고 있다."
+                "x": "NMR 분광기는 분자 구조를 원자 수준까지 밝혀낼 수 있지만, 신호가 약해 검출할 수 있는 대상에 한계가 있다. Aarhus University 연구진은 AI를 활용해 분광기가 시료에서 직접 최적의 펄스열을 학습하도록 했다."
               },
               {
                 "t": "p",
-                "x": "이번 공개는 OpenAI가 직접 꾸린 전문가 패널인 수학·인공지능 자문그룹(Advisory Group on Mathematics and Artificial Intelligence, AGMAI)의 권고와 어긋난다. 모델은 여전히 비공개이며, 프롬프트와 연산 시간, 사고 사슬(chain-of-thought) 출력도 공개되지 않았다. 결과 중 두 건은 Anthropic이 관여한 밀접한 연구와 겹친다."
+                "x": "한쪽 방향을 향하는 핵스핀이 반대쪽보다 아주 조금 많을 뿐이어서 신호가 약하다. Niels Chr. Nielsen 교수는 \"NMR은 MRI 스캐너와 같은 약점이 있다. 상대적으로 둔감하다는 점이다\"라고 말한다. 전자의 자기 모멘트는 양성자보다 약 660배 크며, 동적 핵 편극(DNP)에서는 마이크로파 펄스가 전자의 정렬 일부를 원자핵으로 옮긴다. 그러나 수백, 수천 개의 스핀이 상호작용하면 이상적인 펄스열을 미리 계산하기가 매우 어렵고, 모델이 실제 장비의 결함을 놓칠 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "분광기는 시료에서 배운다. 측정된 신호가 베이지안 최적화(Bayesian optimization) 알고리즘으로 다시 전달된다. Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya: 지난달 사차원 사례를 푼 OpenAI의 내부 모델이 이번에는 모든 차원에서 Kakeya 문제를 풀었다."
+                "x": "연구팀은 직접 제작한 DNP 분광기를 베이지안 최적화(Bayesian optimization) 기반의 머신러닝 알고리즘에 연결했다. 알고리즘은 시료에 펄스열을 시험하고 결과를 측정해 학습한 뒤 다음 실험을 제안한다. 주저자 Filip V. Jensen은 \"새로운 점은 분광기가 최선의 실험을 수행하는 방법을 스스로 배우게 했다는 것\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "Yang-Mills: OpenAI는 Millennium Prize Problem(밀레니엄 난제) 가운데 “존재” 절반을 증명했다고 주장했으며, “질량 간극”은 여전히 미해결로 남아 있다. Anthropic 직원 Levent Alpöge와 Northwestern의 Ethan Sussman은 공개 GitHub 저장소에서 LLMs를 활용해 Balaban의 프로그램을 완성하던 중이었는데, 증명이 공개되지 않은 OpenAI의 주장이 이들을 앞지른 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘을 제시해 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 진행하고 있다. OpenAI 발표 후 불과 몇 시간 만에 Anthropic은 내부 Anthropic 모델의 작업을 바탕으로 ETH를 반증하는 독자적 결과를 게시했다."
+                "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준의 방법 일부와 대등한 성능을 냈고, 더 복잡한 스핀계에서는 기준 방법보다 약 70% 큰 신호 증폭을 보였다. 최적화마다 이틀이 조금 안 되는 시간에서 거의 닷새까지 걸렸지만, 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이 개념 증명 연구는 자기공명 기반 양자 센서에 도움이 될 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAIがAI証明\nAnthropicも対抗",
-          "body": "OpenAIのAI証明に対し、Anthropicは数時間後に独自のETH反証を出した。",
-          "mini_headline": "二つの研究所がAI証明で競う",
+          "headline": "パルスを自ら学ぶ\nNMR分光計",
+          "body": "Aarhusの研究者はAIでNMRに模擬計算でなく試料から最適なパルス列を学ばせた。",
+          "mini_headline": "試料から学ぶNMR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "NMR分光計で分析する試料を準備するNiels Chr. Nielsen(左)、Filip V. Jensen、Anders Bodholt Nielsen(右)。Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "すでに危機にある分野に人工知能が生み出した数学的成果を数百件投じてからわずか数週間後、OpenAIは数学・物理学・計算機科学にまたがる大型の証明を三つ公開した。最近の他のAI-generatedな“slop drops”と同様、今回の公開もすでに論争を呼んでいる。"
+                "x": "NMR分光計は分子構造を原子レベルまで明らかにできるが、信号が弱いため検出できる対象には限界がある。Aarhus Universityの研究者は、AIを用いて分光計が試料から直接最適なパルス列を学習できるようにした。"
               },
               {
                 "t": "p",
-                "x": "今回の公開は、OpenAIが組織した専門家パネルAdvisory Group on Mathematics and Artificial Intelligence(AGMAI)の勧告に反する。モデルは非公開のままで、プロンプト、計算時間、chain-of-thoughtの出力も公開されていない。結果のうち二つは、Anthropicが関わる密接に関連した研究と重なる。"
+                "x": "一方向を向く核スピンが逆向きのものをごくわずかに上回るだけなので、信号は弱い。Niels Chr. Nielsen教授は「NMRにはMRIスキャナーと同じ欠点がある。比較的感度が低いのだ」と語る。電子の磁気モーメントは陽子の約660倍で、動的核偏極(DNP)ではマイクロ波パルスが電子の秩序の一部を原子核に移す。しかし数百、数千ものスピンが相互作用する場合、理想的なパルス列を事前に計算するのは非常に難しく、モデルが実際の装置の不完全さを見落とすおそれもある。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "分光計は試料から学ぶ。測定した信号はベイズ最適化(Bayesian optimization)アルゴリズムにフィードバックされる。Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya:先月四次元の場合を解いたOpenAIの内部モデルが、今回はあらゆる次元でKakeya問題を解いた。"
+                "x": "研究チームは自作のDNP分光計を、ベイズ最適化(Bayesian optimization)に基づく機械学習アルゴリズムに接続した。アルゴリズムは試料でパルス列を試し、結果を測定して学習し、次の実験を提案する。筆頭著者のFilip V. Jensenは「新しいのは、最良の実験の進め方を分光計自身に学ばせた点だ」と話す。"
               },
               {
                 "t": "p",
-                "x": "Yang-Mills:OpenAIはMillennium Prize Problemの“存在”の半分を証明したと主張したが、“質量ギャップ”は未解決のままだ。Anthropic社員のLevent AlpögeとNorthwesternのEthan Sussmanは、公開GitHubリポジトリでLLMsを使いBalabanのプログラムを完成させようとしていた。証明が公開されていないOpenAIの主張は、彼らに先んじたとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis:OpenAIの証明は指数時間よりごくわずかに速い3-SATアルゴリズムを示し、ETHを否定する。Russell Impagliazzo、Ramamohan Paturi、Ryan WilliamsがOpenAIと独立した検証を進めている。OpenAIの発表からわずか数時間後、Anthropicは社内のAnthropicモデルの成果に基づき、ETHを反証する独自の結果を公開した。"
+                "x": "より単純なスピン系では、アルゴリズムは既存の最良手法の一部と同等の結果を示し、より複雑な系では基準手法より約70%大きな信号増強を得た。各最適化には二日弱から五日近くを要したが、有効なパルス列は再利用できる。Science Advancesに掲載されたこの概念実証研究は、磁気共鳴を利用した量子センサーに役立つ可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI发布AI证明\nAnthropic随即反击",
-          "body": "OpenAI发布数学、物理和计算的AI证明，Anthropic数小时内以ETH反证回应。",
-          "mini_headline": "两家实验室的AI证明之争",
+          "headline": "自学脉冲序列的\nNMR波谱仪",
+          "body": "Aarhus研究人员借助AI，让NMR波谱仪不靠模拟、直接从样品中学会最佳脉冲序列。",
+          "mini_headline": "NMR从样品中学习",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "Niels Chr. Nielsen（左）、Filip V. Jensen和Anders Bodholt Nielsen（右）正在准备用于NMR波谱仪分析的样品。Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "在向一个本已陷入危机的领域抛出数百项人工智能生成的数学突破仅几周后，OpenAI又发布了三项涉及数学、物理和计算机科学的大型证明。与近来其他AI-generated的“slop drops”一样，这些发布已经引发争议。"
+                "x": "NMR波谱仪能把分子结构解析到原子层面，但微弱的信号限制了它能检测的范围。Aarhus University的研究人员借助AI，让波谱仪直接从样品中学习最佳脉冲序列。"
               },
               {
                 "t": "p",
-                "x": "这些发布与OpenAI自己组建的专家小组Advisory Group on Mathematics and Artificial Intelligence（AGMAI）的建议相悖。该模型仍为专有，提示词、计算时长和chain-of-thought输出均未公开。其中两项结果与Anthropic参与的密切相关研究重合。"
+                "x": "朝一个方向排列的核自旋只比反方向的多出极少一点，因此信号很弱。Niels Chr. Nielsen教授说：“NMR和MRI扫描仪有同样的缺点：灵敏度相对较低。”电子的磁矩约为质子的660倍，在动态核极化（DNP）中，微波脉冲会把电子的部分有序性转移给原子核。但当数百乃至数千个自旋相互作用时，理想的脉冲序列很难预先计算，模型也可能忽略仪器的真实缺陷。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "波谱仪从样品中学习：测得的信号被反馈给贝叶斯优化（Bayesian optimization）算法。Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya：在上月解决四维情形后，OpenAI的内部模型如今已在所有维度上解决了Kakeya问题。"
+                "x": "团队把自制的DNP波谱仪连接到基于贝叶斯优化（Bayesian optimization）的机器学习算法上。算法在样品上测试脉冲序列、测量结果、从中学习，再提出下一次实验。论文第一作者Filip V. Jensen说：“新颖之处在于，我们让波谱仪自己学会如何开展最佳实验。”"
               },
               {
                 "t": "p",
-                "x": "Yang-Mills：OpenAI声称证明了Millennium Prize Problem中“存在性”的一半，“质量间隙”仍未解决。Anthropic员工Levent Alpöge与Northwestern的Ethan Sussman此前一直在公开的GitHub仓库中借助LLMs完成Balaban的纲领；OpenAI这一没有公开证明的主张似乎抢先了他们。"
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis：OpenAI的证明给出了一个仅比指数时间略快一点的3-SAT算法，从而推翻ETH。Russell Impagliazzo、Ramamohan Paturi和Ryan Williams正与OpenAI合作开展独立调查。OpenAI宣布后仅数小时，Anthropic便基于其内部Anthropic模型的工作，发布了自己独立证否ETH的结果。"
+                "x": "在较简单的自旋体系中，该算法与部分现有最佳方法持平；在更复杂的体系中，它的信号增强比参考方法高出约70%。每次优化耗时从不到两天到将近五天不等，但有效的序列可以重复使用。这项发表于Science Advances的概念验证研究，或有助于基于磁共振的量子传感器。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI y Anthropic publican\ndemostraciones rivales de AI",
-          "body": "OpenAI publicó demostraciones de AI en matemáticas, física y computación; Anthropic respondió en horas refutando ETH.",
-          "mini_headline": "Demostraciones de AI rivales de dos laboratorios",
+          "headline": "Un espectrómetro de NMR que\naprende sus propios pulsos",
+          "body": "En Aarhus, la AI permitió a un espectrómetro de NMR aprender sus mejores pulsos de la muestra, no de simulaciones.",
+          "mini_headline": "La NMR aprende de la muestra",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
-                "cap": "xpixel/Shutterstock"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+                "cap": "Niels Chr. Nielsen (izquierda), Filip V. Jensen y Anders Bodholt Nielsen (derecha) preparan una muestra para analizarla en el espectrómetro de NMR. Credit: Peter F. Gammelby, Aarhus University"
               },
               {
                 "t": "p",
-                "x": "Apenas unas semanas después de lanzar cientos de avances matemáticos generados por inteligencia artificial sobre un campo que ya está en crisis, OpenAI publicó tres demostraciones de gran envergadura que abarcan matemáticas, física y ciencias de la computación. Como otros “slop drops” AI-generated recientes, los lanzamientos ya son polémicos."
+                "x": "Los espectrómetros de NMR pueden revelar la estructura molecular hasta el nivel atómico, pero las señales débiles limitan lo que pueden detectar. Investigadores de Aarhus University han usado AI para que el espectrómetro aprenda la mejor secuencia de pulsos directamente de la muestra."
               },
               {
                 "t": "p",
-                "x": "Los lanzamientos contradicen las recomendaciones del Advisory Group on Mathematics and Artificial Intelligence (AGMAI), el panel de expertos que organizó OpenAI. El modelo sigue siendo propietario, y los prompts, el tiempo de cómputo y las salidas de chain-of-thought no se han hecho públicos. Dos de los resultados coinciden con trabajos estrechamente relacionados en los que participa Anthropic."
+                "x": "Solo un exceso muy pequeño de espines nucleares apunta en un sentido y no en el otro, por lo que la señal es débil. \"La NMR tiene la misma desventaja que los escáneres de MRI: es relativamente poco sensible\", dice el Prof. Niels Chr. Nielsen. Los electrones tienen un momento magnético unas 660 veces mayor que el de un protón, y en la polarización nuclear dinámica (DNP) los pulsos de microondas transfieren parte de su orden a los núcleos. Pero con cientos o miles de espines que interactúan, la secuencia de pulsos ideal es muy difícil de calcular de antemano, y los modelos pueden pasar por alto imperfecciones reales del instrumento."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+                "cap": "El espectrómetro aprende de la muestra: las señales medidas se envían de vuelta a un algoritmo de optimización bayesiana (Bayesian optimization). Credit: Filip V. Jensen, Aarhus University / Science Advances"
               },
               {
                 "t": "p",
-                "x": "Kakeya: tras resolver el caso de cuatro dimensiones el mes pasado, el modelo interno de OpenAI ha resuelto ahora el problema de Kakeya en todas las dimensiones."
+                "x": "El equipo conectó un espectrómetro de DNP de fabricación propia a un algoritmo de aprendizaje automático basado en optimización bayesiana (Bayesian optimization). Este prueba una secuencia de pulsos en la muestra, mide el resultado, aprende de él y propone el siguiente experimento. \"Lo nuevo es que dejamos que el espectrómetro aprendiera por sí mismo a realizar los mejores experimentos\", dice el primer autor, Filip V. Jensen."
               },
               {
                 "t": "p",
-                "x": "Yang-Mills: OpenAI afirmó haber demostrado la mitad de “existencia” del Millennium Prize Problem; la “brecha de masa” sigue abierta. Levent Alpöge, empleado de Anthropic, y Ethan Sussman, de Northwestern, usaban LLMs para completar el programa de Balaban en un repositorio público de GitHub; la afirmación de OpenAI, sin una demostración disponible públicamente, parece haberse adelantado a ellos."
-              },
-              {
-                "t": "p",
-                "x": "Exponential Time Hypothesis: la demostración de OpenAI ofrece un algoritmo para 3-SAT apenas un poco más rápido que el tiempo exponencial, lo que refuta la ETH. Russell Impagliazzo, Ramamohan Paturi y Ryan Williams trabajan con OpenAI en una investigación independiente. Apenas unas horas después del anuncio de OpenAI, Anthropic publicó su propio resultado independiente que refuta la ETH, basado en el trabajo de un modelo interno de Anthropic."
+                "x": "En un sistema de espines más simple, el algoritmo igualó a algunos de los mejores enfoques existentes; en uno más complejo, logró un aumento de señal alrededor de un 70% mayor que el del método de referencia. Cada optimización tardó desde poco menos de dos días hasta casi cinco, pero una secuencia que funciona puede reutilizarse. El estudio de prueba de concepto, publicado en Science Advances, podría ayudar a los sensores cuánticos basados en resonancia magnética."
               }
             ]
           }
@@ -365,15 +375,15 @@
       }
     },
     {
-      "id": "spine",
+      "id": "pasqal",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "SLAC의 SPINE\nML로 중성미자 추적",
-      "body": "SPINE은 검출기 영상으로 중성미자 반응을 재구성해 ICARUS 탐색을 도왔다.",
-      "mini_headline": "ML이 유령 입자를 쫓는다",
-      "source": "Phys.org (SLAC)",
-      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
+      "headline": "Pasqal, 클라우드\n양자 실험 AI 워크플로",
+      "body": "Pasqal의 AI-driven 워크플로가 양자 작업을 준비·검증해 관측량을 낸다.",
+      "mini_headline": "Pasqal의 AI 양자 워크플로",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -381,209 +391,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-            "cap": "ICARUS 검출기 내부. Credit: CERN"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
           },
           {
             "t": "p",
-            "x": "SLAC National Accelerator Laboratory(SLAC 국립가속기연구소) 연구진이 액체 아르곤 시간투영함 데이터를 분석하는 머신러닝 프로그램 SPINE(Scalable Particle Imaging with Neural Embeddings)을 만들었다. SPINE은 시뮬레이션한 검출기 영상으로 학습한 뒤 입자를 식별하고 궤적을 따라가며, 그 입자를 낳은 상호작용까지 재구성한다."
+            "x": "중성원자 양자컴퓨팅 기업 Pasqal(Nasdaq: PSQL)이 Pasqal Cloud용 AI-assisted 워크플로를 발표했다. 주요 에이전틱 코딩 환경의 플러그인 형태로, 명확히 정의된 과학 아이디어를 양자 처리 장치(QPU)에서 돌아가는 실험으로 옮겨 준다. 아이디어와 하드웨어 실행 사이에 놓인 엔지니어링 부담을 덜어 주는 셈이다."
           },
           {
             "t": "p",
-            "x": "경직된 전문 알고리즘을 줄줄이 잇는 대신 SPINE은 여러 머신러닝 모델을 함께 돌린다. 영상의 기본 특징을 먼저 찾고 개별 입자를 가려낸 다음 전체 상호작용을 재구성하는 순서다. 지금은 약 25개 기관의 검출기 여덟 대에 배치돼 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-            "cap": "ICARUS에는 액체 아르곤 760톤이 들어 있다. Credit: Al Johnson/Fermilab"
+            "x": "워크플로는 논문에 실린 실험이나 독창적인 아이디어에서 출발한다. 프로토콜을 추출하거나 정식화해 하드웨어에서 바로 돌릴 수 있는 양자 작업으로 바꾸고, 에뮬레이션으로 검증한 다음 클라우드로 제출해 결과를 과학적 관측량으로 처리한다."
           },
           {
             "t": "p",
-            "x": "ICARUS의 첫 중성미자 물리 결과는 뮤온 중성미자 소실로 비활성 중성미자를 찾는 연구였다(arXiv, DOI: 10.48550/arxiv.2603.22557). 연구진은 그런 신호의 증거를 찾지 못했다. SPINE은 기존 재구성 방식보다 쓸 만한 중성미자 상호작용을 약 60% 더 복원했다. 표본은 더 깨끗해졌고 에너지 분해능은 올라갔으며 계통 불확도는 줄었다."
+            "x": "CEO Wasiq Bokhari는 \"양자컴퓨팅의 병목이 옮겨 가고 있다\"며 \"한때 연구자의 주의를 요구하던 엔지니어링 작업은 점점 더 자동화할 수 있게 됐고, 덕분에 연구자는 과학에 더 온전히 집중할 수 있다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "연구팀은 DUNE 근거리·원거리 검출기용 SPINE 모델도 학습시켰다. 근거리 검출기에서 겹치는 상호작용 수백 개를 처리할 수 있는 방법은 현재 이것뿐이다. 수석 개발자 François Drielsma는 “도구는 만들었다. 이제 그것이 무엇을 발견하는지 지켜볼 차례다”라고 말했다."
+            "x": "아이디어 구상과 검증, 무엇을 측정할지, 결과가 물리적 주장을 뒷받침하는지 판단하는 일은 여전히 사용자 몫이다. 플러그인은 Claude Code, Cursor, Codex 등에 설치할 수 있고, 실험은 Pasqal Cloud의 QPUs 세 대에서 돌아간다. 프랑스 CEA에서 GENCI가 운영하는 Ruby, 캐나다 Québec주 Sherbrooke의 FC1, 사우디아라비아 왕국의 SA1이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SLAC's SPINE puts ML\non the trail of neutrinos",
-          "body": "SPINE's staged models rebuild neutrino interactions from detector images for ICARUS's first sterile-neutrino search.",
-          "mini_headline": "ML hunts ghost particles",
+          "headline": "Pasqal adds an AI workflow\nfor cloud quantum experiments",
+          "body": "Pasqal's AI-driven cloud workflow prepares quantum jobs, checks them in emulation and turns results into observables.",
+          "mini_headline": "Pasqal's AI quantum workflow",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "Inside the ICARUS detector. Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "Researchers at SLAC National Accelerator Laboratory have developed SPINE (Scalable Particle Imaging with Neural Embeddings), a machine-learning program that analyzes data from liquid argon time-projection chambers. It learns from simulated detector images to identify particles, trace their paths and piece together the interactions that produced them."
+                "x": "Pasqal (Nasdaq: PSQL), a neutral-atom quantum computing company, has announced an AI-assisted workflow on Pasqal Cloud. Available as a plugin for leading agentic coding environments, it can take a well-defined scientific idea to a running experiment on a quantum processing unit (QPU), reducing the engineering effort between an idea and its execution on hardware."
               },
               {
                 "t": "p",
-                "x": "Instead of a rigid chain of specialized algorithms, SPINE uses multiple machine-learning models that work together—first spotting basic features in the image, then identifying individual particles and finally piecing together the complete interaction. It is now deployed on eight detectors across approximately 25 institutions."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUS holds 760 tons of liquid argon. Credit: Al Johnson/Fermilab"
+                "x": "Starting from an experiment described in a paper or an original idea, the workflow extracts or formalizes the protocol, translates it into a hardware-ready quantum job, validates it in emulation, submits it through the cloud and processes the results into scientific observables."
               },
               {
                 "t": "p",
-                "x": "In the first neutrino physics result from ICARUS, a search for sterile neutrinos via muon-neutrino disappearance (arXiv, DOI: 10.48550/arxiv.2603.22557), researchers found no evidence for such a signal. SPINE recovered roughly 60% more usable neutrino interactions than conventional reconstruction, with a cleaner sample, improved energy resolution and reduced systematic uncertainties."
+                "x": "\"The bottleneck in quantum computing is shifting,\" said CEO Wasiq Bokhari. \"The engineering work that once demanded a researcher's attention can increasingly be automated, allowing researchers to focus more fully on the science.\""
               },
               {
                 "t": "p",
-                "x": "The team has trained SPINE models for the DUNE near and far detectors; for the near detector it is currently the only approach capable of handling hundreds of overlapping interactions. “We've built the tool. Now we get to see what it discovers,” said lead developer François Drielsma."
+                "x": "Ideation, validation and decisions about what to measure and whether a result supports a physical claim remain with the users. The plugin can be installed in Claude Code, Cursor, Codex and others, and runs experiments on three Pasqal Cloud QPUs: Ruby, operated by GENCI at CEA in France; FC1 in Sherbrooke, Québec, Canada; and SA1 in the Kingdom of Saudi Arabia."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SLAC의 SPINE\nML로 중성미자 추적",
-          "body": "SPINE은 검출기 영상으로 중성미자 반응을 재구성해 ICARUS 탐색을 도왔다.",
-          "mini_headline": "ML이 유령 입자를 쫓는다",
+          "headline": "Pasqal, 클라우드\n양자 실험 AI 워크플로",
+          "body": "Pasqal의 AI-driven 워크플로가 양자 작업을 준비·검증해 관측량을 낸다.",
+          "mini_headline": "Pasqal의 AI 양자 워크플로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "ICARUS 검출기 내부. Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "SLAC National Accelerator Laboratory(SLAC 국립가속기연구소) 연구진이 액체 아르곤 시간투영함 데이터를 분석하는 머신러닝 프로그램 SPINE(Scalable Particle Imaging with Neural Embeddings)을 만들었다. SPINE은 시뮬레이션한 검출기 영상으로 학습한 뒤 입자를 식별하고 궤적을 따라가며, 그 입자를 낳은 상호작용까지 재구성한다."
+                "x": "중성원자 양자컴퓨팅 기업 Pasqal(Nasdaq: PSQL)이 Pasqal Cloud용 AI-assisted 워크플로를 발표했다. 주요 에이전틱 코딩 환경의 플러그인 형태로, 명확히 정의된 과학 아이디어를 양자 처리 장치(QPU)에서 돌아가는 실험으로 옮겨 준다. 아이디어와 하드웨어 실행 사이에 놓인 엔지니어링 부담을 덜어 주는 셈이다."
               },
               {
                 "t": "p",
-                "x": "경직된 전문 알고리즘을 줄줄이 잇는 대신 SPINE은 여러 머신러닝 모델을 함께 돌린다. 영상의 기본 특징을 먼저 찾고 개별 입자를 가려낸 다음 전체 상호작용을 재구성하는 순서다. 지금은 약 25개 기관의 검출기 여덟 대에 배치돼 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUS에는 액체 아르곤 760톤이 들어 있다. Credit: Al Johnson/Fermilab"
+                "x": "워크플로는 논문에 실린 실험이나 독창적인 아이디어에서 출발한다. 프로토콜을 추출하거나 정식화해 하드웨어에서 바로 돌릴 수 있는 양자 작업으로 바꾸고, 에뮬레이션으로 검증한 다음 클라우드로 제출해 결과를 과학적 관측량으로 처리한다."
               },
               {
                 "t": "p",
-                "x": "ICARUS의 첫 중성미자 물리 결과는 뮤온 중성미자 소실로 비활성 중성미자를 찾는 연구였다(arXiv, DOI: 10.48550/arxiv.2603.22557). 연구진은 그런 신호의 증거를 찾지 못했다. SPINE은 기존 재구성 방식보다 쓸 만한 중성미자 상호작용을 약 60% 더 복원했다. 표본은 더 깨끗해졌고 에너지 분해능은 올라갔으며 계통 불확도는 줄었다."
+                "x": "CEO Wasiq Bokhari는 \"양자컴퓨팅의 병목이 옮겨 가고 있다\"며 \"한때 연구자의 주의를 요구하던 엔지니어링 작업은 점점 더 자동화할 수 있게 됐고, 덕분에 연구자는 과학에 더 온전히 집중할 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 DUNE 근거리·원거리 검출기용 SPINE 모델도 학습시켰다. 근거리 검출기에서 겹치는 상호작용 수백 개를 처리할 수 있는 방법은 현재 이것뿐이다. 수석 개발자 François Drielsma는 “도구는 만들었다. 이제 그것이 무엇을 발견하는지 지켜볼 차례다”라고 말했다."
+                "x": "아이디어 구상과 검증, 무엇을 측정할지, 결과가 물리적 주장을 뒷받침하는지 판단하는 일은 여전히 사용자 몫이다. 플러그인은 Claude Code, Cursor, Codex 등에 설치할 수 있고, 실험은 Pasqal Cloud의 QPUs 세 대에서 돌아간다. 프랑스 CEA에서 GENCI가 운영하는 Ruby, 캐나다 Québec주 Sherbrooke의 FC1, 사우디아라비아 왕국의 SA1이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SLACのSPINE\nMLでニュートリノ追跡",
-          "body": "SPINEは検出器画像からニュートリノ反応を再構成し、ICARUS初の探索を支えた。",
-          "mini_headline": "MLが幽霊粒子を追う",
+          "headline": "Pasqal、クラウド量子\n実験にAIワークフロー",
+          "body": "PasqalのAI-drivenワークフローは量子ジョブを準備・検証し結果を観測量にする。",
+          "mini_headline": "PasqalのAI量子ワークフロー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "ICARUS検出器の内部。Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "SLAC National Accelerator Laboratoryの研究者らは、液体アルゴン時間投影チェンバーのデータを解析する機械学習プログラムSPINE(Scalable Particle Imaging with Neural Embeddings)を開発した。シミュレーションした検出器画像から学習し、粒子を識別してその軌跡をたどり、粒子を生んだ相互作用を組み立て直す。"
+                "x": "中性原子方式の量子コンピューター企業Pasqal(Nasdaq: PSQL)は、Pasqal Cloud上のAI-assistedワークフローを発表した。主要なエージェント型コーディング環境向けのプラグインとして提供され、明確に定義された科学的アイデアを量子処理装置(QPU)上で動く実験へと移すことができ、アイデアからハードウェアでの実行までのエンジニアリング作業を減らす。"
               },
               {
                 "t": "p",
-                "x": "SPINEは特化型アルゴリズムを硬直的に連ねる代わりに、複数の機械学習モデルを連携させる。まず画像の基本的な特徴を見つけ、次に個々の粒子を識別し、最後に相互作用の全体像を再構成する。現在、約25の機関にまたがる八つの検出器で運用されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUSは760トンの液体アルゴンを収容する。Credit: Al Johnson/Fermilab"
+                "x": "論文に記載された実験や独自のアイデアを出発点に、ワークフローはプロトコルを抽出または定式化し、ハードウェアで実行可能な量子ジョブに変換し、エミュレーションで検証し、クラウド経由で投入し、結果を科学的な観測量へと処理する。"
               },
               {
                 "t": "p",
-                "x": "ICARUS初のニュートリノ物理の成果である、ミューニュートリノ消失によるステライルニュートリノ探索(arXiv, DOI: 10.48550/arxiv.2603.22557)では、そうした信号の証拠は見つからなかった。SPINEは従来の再構成より使えるニュートリノ相互作用を約60%多く回収し、サンプルはより純度が高く、エネルギー分解能は向上し、系統的不確かさは減った。"
+                "x": "CEOのWasiq Bokhariは「量子コンピューティングのボトルネックは移りつつある」と述べた。「かつて研究者の注意を必要としたエンジニアリング作業はますます自動化できるようになり、研究者は科学により専念できる」"
               },
               {
                 "t": "p",
-                "x": "チームはDUNEの前置検出器と後置検出器向けにもSPINEモデルを学習させた。前置検出器では、重なり合う数百の相互作用を扱える現時点で唯一の手法だ。“道具はできた。あとはそれが何を発見するかを見るだけだ”と主任開発者のFrançois Drielsmaは語った。"
+                "x": "アイデアの創出や検証、何を測定するか、結果が物理的な主張を裏づけるかの判断は、引き続きユーザーが担う。プラグインはClaude Code、Cursor、Codexなどにインストールでき、Pasqal CloudのQPUs三台で実験を実行する。フランスのCEAでGENCIが運用するRuby、カナダ・QuébecのSherbrookeにあるFC1、サウジアラビア王国のSA1である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SLAC的SPINE\n用ML追踪中微子",
-          "body": "SPINE的分级模型从探测器图像重建中微子相互作用，助力ICARUS首次惰性中微子搜寻。",
-          "mini_headline": "ML追寻幽灵粒子",
+          "headline": "Pasqal新增云端\n量子实验AI工作流",
+          "body": "Pasqal的AI-driven云端工作流准备量子任务、做仿真检验，再把结果转为可观测量。",
+          "mini_headline": "Pasqal的AI量子工作流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "ICARUS探测器内部。Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "SLAC National Accelerator Laboratory的研究人员开发了机器学习程序SPINE（Scalable Particle Imaging with Neural Embeddings），用于分析液氩时间投影室的数据。它通过模拟的探测器图像进行学习，识别粒子、追踪其路径，并拼合出产生这些粒子的相互作用。"
+                "x": "中性原子量子计算公司Pasqal（Nasdaq: PSQL）宣布在Pasqal Cloud上推出AI-assisted工作流。它以插件形式支持主流智能体编程环境，可把定义清晰的科学构想变成在量子处理器（QPU）上运行的实验，减少从构想到硬件执行之间的工程工作量。"
               },
               {
                 "t": "p",
-                "x": "SPINE没有采用由专用算法组成的僵硬链条，而是让多个机器学习模型协同工作——先识别图像中的基本特征，再识别单个粒子，最后拼合出完整的相互作用。目前它已部署在约25家机构的八台探测器上。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUS装有760吨液氩。Credit: Al Johnson/Fermilab"
+                "x": "从论文中描述的实验或原创构想出发，该工作流会提取或形式化实验方案，将其转换为可在硬件上运行的量子任务，在仿真中验证，通过云端提交，并把结果处理成科学可观测量。"
               },
               {
                 "t": "p",
-                "x": "在ICARUS的首个中微子物理成果——通过缪子中微子消失搜寻惰性中微子（arXiv, DOI: 10.48550/arxiv.2603.22557）中，研究人员未发现此类信号的证据。与传统重建方法相比，SPINE多找回了约60%的可用中微子相互作用，样本更纯净，能量分辨率更高，系统不确定性更低。"
+                "x": "CEO Wasiq Bokhari表示：“量子计算的瓶颈正在转移。过去需要研究人员投入精力的工程工作，越来越可以自动化，让研究人员能更专注于科学本身。”"
               },
               {
                 "t": "p",
-                "x": "团队已为DUNE的近端和远端探测器训练了SPINE模型；对近端探测器而言，它是目前唯一能够处理数百个相互重叠的相互作用的方法。首席开发者François Drielsma表示：“我们已经造好了工具，现在就看它能发现什么。”"
+                "x": "构想、验证，以及测量什么、结果是否支持某个物理结论等决策，仍由用户负责。该插件可安装在Claude Code、Cursor、Codex等环境中，并在Pasqal Cloud的三台QPUs上运行实验：由GENCI在法国CEA运营的Ruby、位于加拿大Québec省Sherbrooke的FC1，以及位于沙特阿拉伯王国的SA1。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SPINE, de SLAC, pone al ML\ntras la pista de los neutrinos",
-          "body": "Los modelos por etapas de SPINE reconstruyen interacciones de neutrinos en imágenes del detector para ICARUS.",
-          "mini_headline": "El ML rastrea partículas fantasma",
+          "headline": "Pasqal suma un flujo de AI\npara experimentos cuánticos",
+          "body": "El flujo AI-driven de Pasqal en la nube prepara trabajos cuánticos, los valida en emulación y extrae observables.",
+          "mini_headline": "El flujo cuántico con AI de Pasqal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "Interior del detector ICARUS. Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores del SLAC National Accelerator Laboratory han desarrollado SPINE (Scalable Particle Imaging with Neural Embeddings), un programa de aprendizaje automático que analiza datos de cámaras de proyección temporal de argón líquido. Aprende de imágenes simuladas del detector para identificar partículas, trazar sus trayectorias y reconstruir las interacciones que las produjeron."
+                "x": "Pasqal (Nasdaq: PSQL), empresa de computación cuántica de átomos neutros, ha anunciado un flujo de trabajo AI-assisted en Pasqal Cloud. Disponible como plugin para los principales entornos de programación agéntica, puede llevar una idea científica bien definida a un experimento en marcha en una unidad de procesamiento cuántico (QPU), lo que reduce el esfuerzo de ingeniería entre una idea y su ejecución en hardware."
               },
               {
                 "t": "p",
-                "x": "En lugar de una cadena rígida de algoritmos especializados, SPINE utiliza varios modelos de aprendizaje automático que trabajan juntos: primero detectan rasgos básicos en la imagen, luego identifican partículas individuales y finalmente reconstruyen la interacción completa. Ya está implementado en ocho detectores de aproximadamente 25 instituciones."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUS contiene 760 toneladas de argón líquido. Credit: Al Johnson/Fermilab"
+                "x": "A partir de un experimento descrito en un artículo o de una idea original, el flujo extrae o formaliza el protocolo, lo traduce a un trabajo cuántico listo para el hardware, lo valida en emulación, lo envía a través de la nube y procesa los resultados para obtener observables científicos."
               },
               {
                 "t": "p",
-                "x": "En el primer resultado de física de neutrinos de ICARUS, una búsqueda de neutrinos estériles mediante la desaparición de neutrinos muónicos (arXiv, DOI: 10.48550/arxiv.2603.22557), los investigadores no hallaron indicios de esa señal. SPINE recuperó aproximadamente un 60% más de interacciones de neutrinos utilizables que la reconstrucción convencional, con una muestra más limpia, mejor resolución energética y menores incertidumbres sistemáticas."
+                "x": "\"El cuello de botella de la computación cuántica se está desplazando\", dijo el CEO Wasiq Bokhari. \"El trabajo de ingeniería que antes exigía la atención de un investigador puede automatizarse cada vez más, lo que permite a los investigadores centrarse más plenamente en la ciencia\"."
               },
               {
                 "t": "p",
-                "x": "El equipo ha entrenado modelos de SPINE para los detectores cercano y lejano de DUNE; para el detector cercano, es actualmente el único enfoque capaz de manejar cientos de interacciones superpuestas. “Hemos construido la herramienta. Ahora veremos qué descubre”, dijo el desarrollador principal, François Drielsma."
+                "x": "La ideación, la validación y las decisiones sobre qué medir y si un resultado respalda una afirmación física siguen en manos de los usuarios. El plugin puede instalarse en Claude Code, Cursor, Codex y otros, y ejecuta experimentos en tres QPUs de Pasqal Cloud: Ruby, operada por GENCI en el CEA de Francia; FC1, en Sherbrooke, Québec, Canadá; y SA1, en el Reino de Arabia Saudita."
               }
             ]
           }
@@ -591,145 +565,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SLAC의 SPINE\nML로 중성미자 추적",
-          "body": "SPINE은 검출기 영상으로 중성미자 반응을 재구성해 ICARUS 탐색을 도왔다.",
-          "mini_headline": "ML이 유령 입자를 쫓는다",
+          "headline": "Pasqal, 클라우드\n양자 실험 AI 워크플로",
+          "body": "Pasqal AI-driven 워크플로는 양자 작업을 준비·검증해 관측량을 낸다.",
+          "mini_headline": "Pasqal의 AI 양자 워크플로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "ICARUS 검출기 내부. Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "SLAC National Accelerator Laboratory(SLAC 국립가속기연구소) 연구진이 액체 아르곤 시간투영함 데이터를 분석하는 머신러닝 프로그램 SPINE(Scalable Particle Imaging with Neural Embeddings)을 개발했다. SPINE은 시뮬레이션된 검출기 영상으로 학습해 입자를 식별하고, 그 궤적을 추적하며, 입자를 만들어 낸 상호작용을 재구성한다."
+                "x": "중성원자 양자컴퓨팅 기업 Pasqal(Nasdaq: PSQL)이 Pasqal Cloud에서 쓰는 AI-assisted 워크플로를 발표했다. 주요 에이전틱 코딩 환경용 플러그인으로 제공되며, 명확하게 정의된 과학적 아이디어를 양자 처리 장치(QPU)에서 돌아가는 실험으로 옮길 수 있어 아이디어와 하드웨어 실행 사이의 엔지니어링 부담을 줄인다."
               },
               {
                 "t": "p",
-                "x": "SPINE은 경직된 전문 알고리즘 사슬 대신 여러 머신러닝 모델이 함께 작동하는 방식을 쓴다. 먼저 영상의 기본 특징을 찾고, 이어 개별 입자를 식별한 뒤, 마지막으로 전체 상호작용을 재구성한다. 현재 약 25개 기관에 걸쳐 검출기 여덟 대에 배치돼 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUS에는 액체 아르곤 760톤이 들어 있다. Credit: Al Johnson/Fermilab"
+                "x": "이 워크플로는 논문에 기술된 실험이나 독창적인 아이디어에서 출발해 프로토콜을 추출하거나 정식화하고, 하드웨어에서 바로 실행할 수 있는 양자 작업으로 변환한 뒤, 에뮬레이션으로 검증하고, 클라우드를 통해 제출하며, 결과를 과학적 관측량으로 처리한다."
               },
               {
                 "t": "p",
-                "x": "ICARUS의 첫 중성미자 물리 결과인, 뮤온 중성미자 소실을 통한 비활성 중성미자 탐색(arXiv, DOI: 10.48550/arxiv.2603.22557)에서 연구진은 그런 신호의 증거를 찾지 못했다. SPINE은 기존 재구성 방식보다 쓸 수 있는 중성미자 상호작용을 약 60% 더 많이 복원했고, 표본은 더 깨끗했으며 에너지 분해능은 높아지고 계통 불확도는 줄었다."
+                "x": "CEO Wasiq Bokhari는 \"양자컴퓨팅의 병목이 옮겨 가고 있다\"며 \"한때 연구자의 주의를 요구하던 엔지니어링 작업은 점점 더 자동화할 수 있게 됐고, 덕분에 연구자는 과학에 더 온전히 집중할 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 DUNE 근거리·원거리 검출기용 SPINE 모델도 학습시켰다. 근거리 검출기에서는 수백 개의 겹치는 상호작용을 처리할 수 있는 현재 유일한 방법이다. 수석 개발자 François Drielsma는 “도구는 만들었다. 이제 그것이 무엇을 발견하는지 지켜볼 차례다”라고 말했다."
+                "x": "아이디어 구상과 검증, 무엇을 측정할지, 결과가 물리적 주장을 뒷받침하는지에 대한 판단은 여전히 사용자의 몫이다. 플러그인은 Claude Code, Cursor, Codex 등에 설치할 수 있으며, Pasqal Cloud의 QPUs 세 대에서 실험을 실행한다. 프랑스 CEA에서 GENCI가 운영하는 Ruby, 캐나다 Québec주 Sherbrooke의 FC1, 사우디아라비아 왕국의 SA1이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SLACのSPINE\nMLでニュートリノ追跡",
-          "body": "SPINEは検出器画像からニュートリノ反応を再構成し、ICARUS初の探索を支えた。",
-          "mini_headline": "MLが幽霊粒子を追う",
+          "headline": "Pasqal、クラウド量子\n実験にAIワークフロー",
+          "body": "PasqalのAI-drivenワークフローは量子ジョブを準備・検証し結果を観測量にする。",
+          "mini_headline": "PasqalのAI量子ワークフロー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "ICARUS検出器の内部。Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "SLAC National Accelerator Laboratoryの研究者らは、液体アルゴン時間投影チェンバーのデータを解析する機械学習プログラムSPINE(Scalable Particle Imaging with Neural Embeddings)を開発した。シミュレーションした検出器画像から学習し、粒子を識別してその軌跡をたどり、粒子を生んだ相互作用を組み立て直す。"
+                "x": "中性原子方式の量子コンピューター企業Pasqal(Nasdaq: PSQL)は、Pasqal Cloud上のAI-assistedワークフローを発表した。主要なエージェント型コーディング環境向けのプラグインとして提供され、明確に定義された科学的アイデアを量子処理装置(QPU)上で動く実験へと移すことができ、アイデアからハードウェアでの実行までのエンジニアリング作業を減らす。"
               },
               {
                 "t": "p",
-                "x": "SPINEは特化型アルゴリズムを硬直的に連ねる代わりに、複数の機械学習モデルを連携させる。まず画像の基本的な特徴を見つけ、次に個々の粒子を識別し、最後に相互作用の全体像を再構成する。現在、約25の機関にまたがる八つの検出器で運用されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUSは760トンの液体アルゴンを収容する。Credit: Al Johnson/Fermilab"
+                "x": "論文に記載された実験や独自のアイデアを出発点に、ワークフローはプロトコルを抽出または定式化し、ハードウェアで実行可能な量子ジョブに変換し、エミュレーションで検証し、クラウド経由で投入し、結果を科学的な観測量へと処理する。"
               },
               {
                 "t": "p",
-                "x": "ICARUS初のニュートリノ物理の成果である、ミューニュートリノ消失によるステライルニュートリノ探索(arXiv, DOI: 10.48550/arxiv.2603.22557)では、そうした信号の証拠は見つからなかった。SPINEは従来の再構成より使えるニュートリノ相互作用を約60%多く回収し、サンプルはより純度が高く、エネルギー分解能は向上し、系統的不確かさは減った。"
+                "x": "CEOのWasiq Bokhariは「量子コンピューティングのボトルネックは移りつつある」と述べた。「かつて研究者の注意を必要としたエンジニアリング作業はますます自動化できるようになり、研究者は科学により専念できる」"
               },
               {
                 "t": "p",
-                "x": "チームはDUNEの前置検出器と後置検出器向けにもSPINEモデルを学習させた。前置検出器では、重なり合う数百の相互作用を扱える現時点で唯一の手法だ。“道具はできた。あとはそれが何を発見するかを見るだけだ”と主任開発者のFrançois Drielsmaは語った。"
+                "x": "アイデアの創出や検証、何を測定するか、結果が物理的な主張を裏づけるかの判断は、引き続きユーザーが担う。プラグインはClaude Code、Cursor、Codexなどにインストールでき、Pasqal CloudのQPUs三台で実験を実行する。フランスのCEAでGENCIが運用するRuby、カナダ・QuébecのSherbrookeにあるFC1、サウジアラビア王国のSA1である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SLAC的SPINE\n用ML追踪中微子",
-          "body": "SPINE的分级模型从探测器图像重建中微子相互作用，助力ICARUS首次惰性中微子搜寻。",
-          "mini_headline": "ML追寻幽灵粒子",
+          "headline": "Pasqal新增云端\n量子实验AI工作流",
+          "body": "Pasqal的AI-driven云端工作流准备量子任务、做仿真检验，再把结果转为可观测量。",
+          "mini_headline": "Pasqal的AI量子工作流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "ICARUS探测器内部。Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "SLAC National Accelerator Laboratory的研究人员开发了机器学习程序SPINE（Scalable Particle Imaging with Neural Embeddings），用于分析液氩时间投影室的数据。它通过模拟的探测器图像进行学习，识别粒子、追踪其路径，并拼合出产生这些粒子的相互作用。"
+                "x": "中性原子量子计算公司Pasqal（Nasdaq: PSQL）宣布在Pasqal Cloud上推出AI-assisted工作流。它以插件形式支持主流智能体编程环境，可把定义清晰的科学构想变成在量子处理器（QPU）上运行的实验，减少从构想到硬件执行之间的工程工作量。"
               },
               {
                 "t": "p",
-                "x": "SPINE没有采用由专用算法组成的僵硬链条，而是让多个机器学习模型协同工作——先识别图像中的基本特征，再识别单个粒子，最后拼合出完整的相互作用。目前它已部署在约25家机构的八台探测器上。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUS装有760吨液氩。Credit: Al Johnson/Fermilab"
+                "x": "从论文中描述的实验或原创构想出发，该工作流会提取或形式化实验方案，将其转换为可在硬件上运行的量子任务，在仿真中验证，通过云端提交，并把结果处理成科学可观测量。"
               },
               {
                 "t": "p",
-                "x": "在ICARUS的首个中微子物理成果——通过缪子中微子消失搜寻惰性中微子（arXiv, DOI: 10.48550/arxiv.2603.22557）中，研究人员未发现此类信号的证据。与传统重建方法相比，SPINE多找回了约60%的可用中微子相互作用，样本更纯净，能量分辨率更高，系统不确定性更低。"
+                "x": "CEO Wasiq Bokhari表示：“量子计算的瓶颈正在转移。过去需要研究人员投入精力的工程工作，越来越可以自动化，让研究人员能更专注于科学本身。”"
               },
               {
                 "t": "p",
-                "x": "团队已为DUNE的近端和远端探测器训练了SPINE模型；对近端探测器而言，它是目前唯一能够处理数百个相互重叠的相互作用的方法。首席开发者François Drielsma表示：“我们已经造好了工具，现在就看它能发现什么。”"
+                "x": "构想、验证，以及测量什么、结果是否支持某个物理结论等决策，仍由用户负责。该插件可安装在Claude Code、Cursor、Codex等环境中，并在Pasqal Cloud的三台QPUs上运行实验：由GENCI在法国CEA运营的Ruby、位于加拿大Québec省Sherbrooke的FC1，以及位于沙特阿拉伯王国的SA1。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SPINE, de SLAC, pone al ML\ntras la pista de los neutrinos",
-          "body": "Los modelos por etapas de SPINE reconstruyen interacciones de neutrinos en imágenes del detector para ICARUS.",
-          "mini_headline": "El ML rastrea partículas fantasma",
+          "headline": "Pasqal suma un flujo de AI\npara experimentos cuánticos",
+          "body": "El flujo AI-driven de Pasqal en la nube prepara trabajos cuánticos, los valida en emulación y extrae observables.",
+          "mini_headline": "El flujo cuántico con AI de Pasqal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
-                "cap": "Interior del detector ICARUS. Credit: CERN"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores del SLAC National Accelerator Laboratory han desarrollado SPINE (Scalable Particle Imaging with Neural Embeddings), un programa de aprendizaje automático que analiza datos de cámaras de proyección temporal de argón líquido. Aprende de imágenes simuladas del detector para identificar partículas, trazar sus trayectorias y reconstruir las interacciones que las produjeron."
+                "x": "Pasqal (Nasdaq: PSQL), empresa de computación cuántica de átomos neutros, ha anunciado un flujo de trabajo AI-assisted en Pasqal Cloud. Disponible como plugin para los principales entornos de programación agéntica, puede llevar una idea científica bien definida a un experimento en marcha en una unidad de procesamiento cuántico (QPU), lo que reduce el esfuerzo de ingeniería entre una idea y su ejecución en hardware."
               },
               {
                 "t": "p",
-                "x": "En lugar de una cadena rígida de algoritmos especializados, SPINE utiliza varios modelos de aprendizaje automático que trabajan juntos: primero detectan rasgos básicos en la imagen, luego identifican partículas individuales y finalmente reconstruyen la interacción completa. Ya está implementado en ocho detectores de aproximadamente 25 instituciones."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
-                "cap": "ICARUS contiene 760 toneladas de argón líquido. Credit: Al Johnson/Fermilab"
+                "x": "A partir de un experimento descrito en un artículo o de una idea original, el flujo extrae o formaliza el protocolo, lo traduce a un trabajo cuántico listo para el hardware, lo valida en emulación, lo envía a través de la nube y procesa los resultados para obtener observables científicos."
               },
               {
                 "t": "p",
-                "x": "En el primer resultado de física de neutrinos de ICARUS, una búsqueda de neutrinos estériles mediante la desaparición de neutrinos muónicos (arXiv, DOI: 10.48550/arxiv.2603.22557), los investigadores no hallaron indicios de esa señal. SPINE recuperó aproximadamente un 60% más de interacciones de neutrinos utilizables que la reconstrucción convencional, con una muestra más limpia, mejor resolución energética y menores incertidumbres sistemáticas."
+                "x": "\"El cuello de botella de la computación cuántica se está desplazando\", dijo el CEO Wasiq Bokhari. \"El trabajo de ingeniería que antes exigía la atención de un investigador puede automatizarse cada vez más, lo que permite a los investigadores centrarse más plenamente en la ciencia\"."
               },
               {
                 "t": "p",
-                "x": "El equipo ha entrenado modelos de SPINE para los detectores cercano y lejano de DUNE; para el detector cercano, es actualmente el único enfoque capaz de manejar cientos de interacciones superpuestas. “Hemos construido la herramienta. Ahora veremos qué descubre”, dijo el desarrollador principal, François Drielsma."
+                "x": "La ideación, la validación y las decisiones sobre qué medir y si un resultado respalda una afirmación física siguen en manos de los usuarios. El plugin puede instalarse en Claude Code, Cursor, Codex y otros, y ejecuta experimentos en tres QPUs de Pasqal Cloud: Ruby, operada por GENCI en el CEA de Francia; FC1, en Sherbrooke, Québec, Canadá; y SA1, en el Reino de Arabia Saudita."
               }
             ]
           }
@@ -737,15 +687,15 @@
       }
     },
     {
-      "id": "kls-conjecture",
+      "id": "novelty-bench",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "인간과 AI 에이전트,\n31년 묵은 추측 증명",
-      "body": "연구진이 AI로 100개 넘는 접근법을 거쳐 1995년 KLS 추측을 증명했다.",
-      "mini_headline": "AI-assisted KLS 증명",
-      "source": "Microsoft Research",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "headline": "LLMs는 연구 아이디어의\n참신성을 판단할 수 있을까",
+      "body": "Ai2 Old Ideas, Novel Problems에서 LLM 판정은 흔들렸다.",
+      "mini_headline": "흔들리는 LLM 참신성 판정",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/novelty-bench",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -753,179 +703,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+            "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
           },
           {
             "t": "p",
-            "x": "1995년 제기된 Kannan–Lovász–Simonovits(KLS) 추측은 폭넓은 고차원 확률분포에서 최적의 초평면 절단이 어떤 모양의 최적 절단과 견줘도 늘 거의 같은 효과를 내는지 묻는다. Microsoft Research의 Xinzhi Zhang 등 연구자 두 명이 이를 증명했다. 차원이 몇이든 고정된 상한으로 이 관계가 성립함을 보였다."
+            "x": "Ai2가 연구 아이디어의 참신성을 LLMs가 얼마나 믿을 만하게 평가하는지 살핀 연구 Old Ideas, Novel Problems를 공개했다. 벤치마크와 데이터, 코드에 새 평가 세트를 만드는 자동화 파이프라인까지 함께 내놓았다. 연구 아이디어를 생성하는 시스템은 참신성 판정을 또 다른 LLM, 이른바 '참신성 심판'에 맡기는 경우가 많다."
+          },
+          {
+            "t": "p",
+            "x": "벤치마크는 ICLR 2026 동료 심사 자료를 쓴다. top-10% 채택 논문에서 뽑은 참신성 높은 인간 아이디어 154개와 bottom-10% 탈락 논문에서 뽑은 참신성 낮은 아이디어 145개(Human-Only), 그리고 인간 아이디어 154개를 단순한 LLM 생성기가 만든 아이디어 154개와 짝지은 세트(Human+Generated)로 이뤄졌다."
+          },
+          {
+            "t": "p",
+            "x": "여섯 심판 모델(GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5, Claude Opus 4.6) 모두에서 설정을 조금만 바꿔도 판정이 완전히 달라졌다. GPT-5.4의 프롬프트를 더 단순하게 바꾸자 Human+Generated 쌍 정확도가 93.5%에서 40.9%로 떨어져 무작위 수준 아래로 내려갔다. 같은 변화가 Human-Only에서는 정확도를 약 일곱 포인트 움직이는 데 그쳤다."
           },
           {
             "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-            "cap": "그림 1: 정사면체 위에서 본 KLS 추측(단순화) 예시."
+            "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
           },
           {
             "t": "p",
-            "x": "저자들은 사람이 이끄는 체계적 과정에서 AI 에이전트와 함께 100개가 넘는 후보 접근법을 훑은 끝에 재귀적으로 적용할 수 있는 새 판정 기준을 얻었다. 재귀적 정밀화 과정 전체를 되풀이해 누적 오차를 보편 상수 안에 묶었다. 증명은 2026년 10월 4일 판 논문에서 완성됐다."
-          },
-          {
-            "t": "p",
-            "x": "같은 날 다른 연구진도 병행된 완전한 증명을 올렸다. 세 번째 증명은 밀접하게 관련된 아이디어에 기대며, 뒤이어 Lean 4 형식화도 나왔다. 주요 AI 모델 여러 개에 거의 같은 토큰 예산을 주고 사람 안내 없이 맡겼을 때는 성공하지 못했다. 성공에는 AI 시스템과 연구자들의 수학적 판단이 모두 필요했다."
+            "x": "검색과 추론을 늘려도 성능이 꾸준히 오르지는 않았다. 에이전트형 GPT-5.6 Sol 심판은 macro-F1 0.78로 Claude Opus 4.6의 0.89에 못 미쳤고 비용은 약 10x 들었다. 단순한 Claude Opus 4.6 프롬프트는 $2.59로 0.854를 기록해 Idea Novelty Checker(0.642, $30.66)와 Sakana AI의 AI Scientist(0.772, $82.05)를 앞질렀다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Humans and AI agents prove\na 31-year-old conjecture",
-          "body": "Two researchers steered AI agents through over 100 approaches to prove the 1995 KLS conjecture in convex geometry.",
-          "mini_headline": "AI-assisted KLS proof",
+          "headline": "Can LLMs judge whether\na research idea is novel",
+          "body": "Ai2's Old Ideas, Novel Problems benchmark finds small changes to the evaluation setup can flip LLM novelty verdicts.",
+          "mini_headline": "LLM novelty verdicts wobble",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "The Kannan–Lovász–Simonovits (KLS) conjecture, proposed in 1995, asks whether for a broad class of high-dimensional probability distributions the best hyperplane cut is always nearly as effective as the best cut of any shape. Two researchers, including Xinzhi Zhang of Microsoft Research, have proved it, showing the relationship holds with a fixed bound regardless of dimension."
+                "x": "Ai2 released Old Ideas, Novel Problems, a study of how reliably LLMs evaluate the novelty of research ideas, with a benchmark, data, code and an automated pipeline for building new evaluation sets. Systems that generate research ideas often hand the novelty verdict to another LLM, a \"novelty judge.\""
+              },
+              {
+                "t": "p",
+                "x": "The benchmark mines ICLR 2026 peer reviews: 154 high-novelty human ideas from top-10% accepted papers and 145 lower-novelty ideas from bottom-10% rejected papers (Human-Only), plus the 154 human ideas paired with 154 ideas from a simple LLM generator (Human+Generated)."
+              },
+              {
+                "t": "p",
+                "x": "Across six judges (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 and Claude Opus 4.6), small setup changes produced very different verdicts. Switching GPT-5.4 to a simpler prompt dropped accuracy on Human+Generated pairs from 93.5% to 40.9%, below chance; on Human-Only the same change shifted accuracy by only about seven points."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "Figure 1: An illustration of the KLS Conjecture (simplified) on regular tetrahedron."
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "Working with AI agents in a structured, human-directed process, the authors explored more than 100 candidate approaches, producing a new criterion that could be applied recursively. Repeating the whole recursive refinement kept accumulated errors bounded by a universal constant, completing the proof in the October 4, 2026 version of the paper."
-              },
-              {
-                "t": "p",
-                "x": "A separate group posted a parallel full proof the same day, a third proof relies on a closely related idea, and a Lean 4 formalization followed. Unguided attempts with several leading AI models on roughly the same token budget fell short; success depended on both the AI systems and the researchers' mathematical judgment."
+                "x": "More search and reasoning didn't reliably help: an agentic GPT-5.6 Sol judge scored 0.78 macro-F1 versus 0.89 for Claude Opus 4.6, at roughly 10x the cost. A simple Claude Opus 4.6 prompt reached 0.854 for $2.59, beating Idea Novelty Checker (0.642, $30.66) and Sakana AI's AI Scientist (0.772, $82.05)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "인간과 AI 에이전트,\n31년 묵은 추측 증명",
-          "body": "연구진이 AI로 100개 넘는 접근법을 거쳐 1995년 KLS 추측을 증명했다.",
-          "mini_headline": "AI-assisted KLS 증명",
+          "headline": "LLMs는 연구 아이디어의\n참신성을 판단할 수 있을까",
+          "body": "Ai2 Old Ideas, Novel Problems에서 LLM 판정은 흔들렸다.",
+          "mini_headline": "흔들리는 LLM 참신성 판정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "1995년 제기된 Kannan–Lovász–Simonovits(KLS) 추측은 폭넓은 고차원 확률분포에서 최적의 초평면 절단이 어떤 모양의 최적 절단과 견줘도 늘 거의 같은 효과를 내는지 묻는다. Microsoft Research의 Xinzhi Zhang 등 연구자 두 명이 이를 증명했다. 차원이 몇이든 고정된 상한으로 이 관계가 성립함을 보였다."
+                "x": "Ai2가 연구 아이디어의 참신성을 LLMs가 얼마나 믿을 만하게 평가하는지 살핀 연구 Old Ideas, Novel Problems를 공개했다. 벤치마크와 데이터, 코드에 새 평가 세트를 만드는 자동화 파이프라인까지 함께 내놓았다. 연구 아이디어를 생성하는 시스템은 참신성 판정을 또 다른 LLM, 이른바 '참신성 심판'에 맡기는 경우가 많다."
+              },
+              {
+                "t": "p",
+                "x": "벤치마크는 ICLR 2026 동료 심사 자료를 쓴다. top-10% 채택 논문에서 뽑은 참신성 높은 인간 아이디어 154개와 bottom-10% 탈락 논문에서 뽑은 참신성 낮은 아이디어 145개(Human-Only), 그리고 인간 아이디어 154개를 단순한 LLM 생성기가 만든 아이디어 154개와 짝지은 세트(Human+Generated)로 이뤄졌다."
+              },
+              {
+                "t": "p",
+                "x": "여섯 심판 모델(GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5, Claude Opus 4.6) 모두에서 설정을 조금만 바꿔도 판정이 완전히 달라졌다. GPT-5.4의 프롬프트를 더 단순하게 바꾸자 Human+Generated 쌍 정확도가 93.5%에서 40.9%로 떨어져 무작위 수준 아래로 내려갔다. 같은 변화가 Human-Only에서는 정확도를 약 일곱 포인트 움직이는 데 그쳤다."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "그림 1: 정사면체 위에서 본 KLS 추측(단순화) 예시."
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "저자들은 사람이 이끄는 체계적 과정에서 AI 에이전트와 함께 100개가 넘는 후보 접근법을 훑은 끝에 재귀적으로 적용할 수 있는 새 판정 기준을 얻었다. 재귀적 정밀화 과정 전체를 되풀이해 누적 오차를 보편 상수 안에 묶었다. 증명은 2026년 10월 4일 판 논문에서 완성됐다."
-              },
-              {
-                "t": "p",
-                "x": "같은 날 다른 연구진도 병행된 완전한 증명을 올렸다. 세 번째 증명은 밀접하게 관련된 아이디어에 기대며, 뒤이어 Lean 4 형식화도 나왔다. 주요 AI 모델 여러 개에 거의 같은 토큰 예산을 주고 사람 안내 없이 맡겼을 때는 성공하지 못했다. 성공에는 AI 시스템과 연구자들의 수학적 판단이 모두 필요했다."
+                "x": "검색과 추론을 늘려도 성능이 꾸준히 오르지는 않았다. 에이전트형 GPT-5.6 Sol 심판은 macro-F1 0.78로 Claude Opus 4.6의 0.89에 못 미쳤고 비용은 약 10x 들었다. 단순한 Claude Opus 4.6 프롬프트는 $2.59로 0.854를 기록해 Idea Novelty Checker(0.642, $30.66)와 Sakana AI의 AI Scientist(0.772, $82.05)를 앞질렀다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人間とAIエージェント\n31年来の予想を証明",
-          "body": "二人の研究者がAIエージェントと100超の手法を探り、1995年のKLS予想を証明した。",
-          "mini_headline": "AI-assisted KLS証明",
+          "headline": "LLMsは研究アイデアの\n新規性を判定できるか",
+          "body": "Ai2のOld Ideas, Novel ProblemsでLLM判定は設定次第で覆った。",
+          "mini_headline": "揺らぐLLMの新規性判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "1995年に提唱されたKannan–Lovász–Simonovits(KLS)予想は、広いクラスの高次元確率分布において、最良の超平面による切断が、どんな形の最良の切断と比べても常にほぼ同等に有効かどうかを問う。Microsoft ResearchのXinzhi Zhangを含む二人の研究者がこれを証明し、次元にかかわらず固定された上界でこの関係が成り立つことを示した。"
+                "x": "Ai2は、LLMsが研究アイデアの新規性をどれほど確実に評価できるかを調べた研究Old Ideas, Novel Problemsを公開し、ベンチマーク、データ、コード、新たな評価セットを構築する自動パイプラインも併せて公開した。研究アイデアを生成するシステムは、新規性の判定を別のLLM、すなわち「新規性ジャッジ」に委ねることが多い。"
+              },
+              {
+                "t": "p",
+                "x": "ベンチマークはICLR 2026の査読を素材とする。top-10%の採択論文から得た新規性の高い人間のアイデア154件と、bottom-10%の不採択論文から得た新規性の低いアイデア145件(Human-Only)、さらに人間のアイデア154件を単純なLLM生成器によるアイデア154件と組み合わせたもの(Human+Generated)だ。"
+              },
+              {
+                "t": "p",
+                "x": "六つのジャッジ(GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5、Claude Opus 4.6)のいずれでも、わずかな設定変更で判定が大きく変わった。GPT-5.4をより単純なプロンプトに切り替えると、Human+Generatedペアでの正解率は93.5%から40.9%へと下がり、偶然の水準を下回った。Human-Onlyでは、同じ変更による正解率の変化は約七ポイントにとどまった。"
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "図1:正四面体上でのKLS予想(簡略化)の図解。"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "著者らは人間が主導する構造化されたプロセスでAIエージェントと協働し、100を超える候補手法を探って、再帰的に適用できる新たな基準を得た。再帰的な精緻化全体を繰り返すことで蓄積誤差を普遍定数で抑え、2026年10月4日版の論文で証明を完成させた。"
-              },
-              {
-                "t": "p",
-                "x": "同じ日に別のグループも並行して完全な証明を投稿し、三つ目の証明は密接に関連するアイデアに基づいている。その後Lean 4による形式化も行われた。いくつかの主要AIモデルにほぼ同じトークン予算で誘導なしに挑ませた試みは届かなかった。成功はAIシステムと研究者の数学的判断の両方にかかっていた。"
+                "x": "検索や推論を増やしても確実な改善にはつながらなかった。エージェント型のGPT-5.6 Solジャッジはmacro-F1が0.78で、Claude Opus 4.6の0.89を下回り、コストは約10xだった。単純なClaude Opus 4.6のプロンプトは$2.59で0.854に達し、Idea Novelty Checker(0.642、$30.66)やSakana AIのAI Scientist(0.772、$82.05)を上回った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人类与AI智能体\n证明31年前的猜想",
-          "body": "两名研究者引导AI智能体尝试100多种方法，证明了凸几何中1995年的KLS猜想。",
-          "mini_headline": "AI-assisted KLS证明",
+          "headline": "LLMs能否判断\n研究构想是否新颖",
+          "body": "Ai2的Old Ideas, Novel Problems发现设置微调会使LLM判定反转。",
+          "mini_headline": "LLM新颖性判定不稳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "1995年提出的Kannan–Lovász–Simonovits（KLS）猜想探讨的是：对于一大类高维概率分布，最优的超平面切分是否总能与任意形状的最优切分几乎同样有效。包括Microsoft Research的Xinzhi Zhang在内的两名研究者证明了这一猜想，表明无论维度如何，这一关系都在一个固定界限内成立。"
+                "x": "Ai2发布了Old Ideas, Novel Problems，研究LLMs评估研究构想新颖性的可靠程度，并公开了基准、数据、代码以及用于构建新评估集的自动化流程。生成研究构想的系统往往把新颖性判定交给另一个LLM，即“新颖性评判者”。"
+              },
+              {
+                "t": "p",
+                "x": "该基准取材于ICLR 2026的同行评审：来自top-10%录用论文的154个高新颖性人类构想，与来自bottom-10%被拒论文的145个低新颖性构想（Human-Only）；以及这154个人类构想与一个简单LLM生成器产出的154个构想的配对（Human+Generated）。"
+              },
+              {
+                "t": "p",
+                "x": "在六个评判模型（GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5和Claude Opus 4.6）上，细微的设置改动都带来了截然不同的判定。把GPT-5.4换成更简单的提示词后，它在Human+Generated配对上的准确率从93.5%降至40.9%，低于随机水平；而在Human-Only上，同样的改动只让准确率变化约七个点。"
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "图1：正四面体上KLS猜想（简化版）的示意图。"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "作者在人类主导的结构化流程中与AI智能体协作，探索了100多种候选方法，得出一个可递归应用的新判据。反复进行整个递归细化过程，使累积误差始终受一个普适常数约束，并在2026年10月4日版本的论文中完成了证明。"
-              },
-              {
-                "t": "p",
-                "x": "另一组研究者在同一天发布了一份并行的完整证明，第三份证明依赖一个密切相关的思路，随后又出现了Lean 4形式化。在大致相同的token预算下，多款领先AI模型在无引导情况下的尝试均未成功；成功既取决于AI系统，也取决于研究者的数学判断。"
+                "x": "更多搜索和推理并不能稳定带来提升：智能体式的GPT-5.6 Sol评判者macro-F1为0.78，低于Claude Opus 4.6的0.89，成本却约为10x。一个简单的Claude Opus 4.6提示词以$2.59达到0.854，胜过Idea Novelty Checker（0.642，$30.66）和Sakana AI的AI Scientist（0.772，$82.05）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Humanos y agentes de AI prueban\nuna conjetura de 31 años",
-          "body": "Dos investigadores guiaron a agentes de AI por más de 100 enfoques para demostrar la conjetura KLS de 1995.",
-          "mini_headline": "Demostración de KLS (AI-assisted)",
+          "headline": "¿Pueden los LLMs juzgar si\nes nueva una idea científica?",
+          "body": "El benchmark Old Ideas, Novel Problems de Ai2 muestra que pequeños cambios pueden invertir el veredicto de un LLM.",
+          "mini_headline": "Los veredictos de los LLM vacilan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "La conjetura de Kannan–Lovász–Simonovits (KLS), propuesta en 1995, plantea si, para una amplia clase de distribuciones de probabilidad de alta dimensión, el mejor corte por un hiperplano es siempre casi tan eficaz como el mejor corte de cualquier forma. Dos investigadores, entre ellos Xinzhi Zhang, de Microsoft Research, la han demostrado y han mostrado que la relación se cumple con una cota fija independientemente de la dimensión."
+                "x": "Ai2 publicó Old Ideas, Novel Problems, un estudio sobre la fiabilidad con la que los LLMs evalúan la novedad de las ideas de investigación, junto con un benchmark, datos, código y un pipeline automatizado para crear nuevos conjuntos de evaluación. Los sistemas que generan ideas de investigación suelen delegar el veredicto de novedad en otro LLM, un \"juez de novedad\"."
+              },
+              {
+                "t": "p",
+                "x": "El benchmark se basa en revisiones por pares de ICLR 2026: 154 ideas humanas de alta novedad procedentes de artículos aceptados del top-10% y 145 ideas de menor novedad de artículos rechazados del bottom-10% (Human-Only), además de las 154 ideas humanas emparejadas con 154 ideas de un generador LLM sencillo (Human+Generated)."
+              },
+              {
+                "t": "p",
+                "x": "En los seis jueces (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 y Claude Opus 4.6), pequeños cambios de configuración produjeron veredictos muy distintos. Cambiar GPT-5.4 a un prompt más simple redujo la precisión en los pares Human+Generated del 93.5% al 40.9%, por debajo del azar; en Human-Only, el mismo cambio movió la precisión solo unos siete puntos."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "Figura 1: Ilustración de la conjetura KLS (simplificada) en un tetraedro regular."
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "Trabajando con agentes de AI en un proceso estructurado y dirigido por humanos, los autores exploraron más de 100 enfoques candidatos y obtuvieron un nuevo criterio que podía aplicarse de forma recursiva. Repetir todo el refinamiento recursivo mantuvo los errores acumulados acotados por una constante universal, lo que completó la demostración en la versión del artículo del 4 de octubre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "Otro grupo publicó el mismo día una demostración completa paralela, una tercera demostración se basa en una idea estrechamente relacionada y después llegó una formalización en Lean 4. Los intentos sin guía con varios modelos de AI líderes y aproximadamente el mismo presupuesto de tokens no lo lograron; el éxito dependió tanto de los sistemas de AI como del criterio matemático de los investigadores."
+                "x": "Más búsqueda y razonamiento no ayudaron de forma fiable: un juez agéntico GPT-5.6 Sol obtuvo 0.78 de macro-F1 frente a 0.89 de Claude Opus 4.6, con un costo aproximadamente 10x mayor. Un prompt simple de Claude Opus 4.6 alcanzó 0.854 por $2.59, por encima de Idea Novelty Checker (0.642, $30.66) y de AI Scientist de Sakana AI (0.772, $82.05)."
               }
             ]
           }
@@ -933,125 +901,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "인간과 AI 에이전트,\n31년 묵은 추측 증명",
-          "body": "연구진이 AI로 100개 넘는 접근법을 거쳐 1995년 KLS 추측을 증명했다.",
-          "mini_headline": "AI-assisted KLS 증명",
+          "headline": "LLMs는 연구 아이디어의\n참신성을 판단할 수 있을까",
+          "body": "Ai2 Old Ideas, Novel Problems에선 LLM 판정이 흔들렸다.",
+          "mini_headline": "흔들리는 LLM 참신성 판정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "1995년 제기된 Kannan–Lovász–Simonovits(KLS) 추측은 광범위한 고차원 확률분포에서 최적의 초평면 절단이 어떤 모양의 최적 절단과 비교해도 항상 거의 같은 효과를 내는지를 묻는다. Microsoft Research의 Xinzhi Zhang을 포함한 연구자 두 명이 이를 증명해, 차원과 상관없이 고정된 상한으로 이 관계가 성립함을 보였다."
+                "x": "Ai2가 LLMs가 연구 아이디어의 참신성을 얼마나 믿을 만하게 평가하는지 살핀 연구 Old Ideas, Novel Problems를 공개하면서 벤치마크와 데이터, 코드, 새 평가 세트를 만드는 자동화 파이프라인도 함께 내놓았다. 연구 아이디어를 생성하는 시스템은 참신성 판정을 또 다른 LLM, 곧 '참신성 심판'에게 맡기는 경우가 많다."
+              },
+              {
+                "t": "p",
+                "x": "벤치마크는 ICLR 2026 동료 심사 자료를 활용한다. top-10%에 드는 채택 논문에서 뽑은 참신성 높은 인간 아이디어 154개와 bottom-10%에 드는 탈락 논문에서 뽑은 참신성 낮은 아이디어 145개(Human-Only), 그리고 인간 아이디어 154개를 단순한 LLM 생성기가 만든 아이디어 154개와 짝지은 세트(Human+Generated)로 구성된다."
+              },
+              {
+                "t": "p",
+                "x": "여섯 심판 모델(GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5, Claude Opus 4.6) 전반에서 작은 설정 변화가 전혀 다른 판정을 낳았다. GPT-5.4를 더 단순한 프롬프트로 바꾸자 Human+Generated 쌍의 정확도가 93.5%에서 40.9%로 떨어져 무작위 수준을 밑돌았다. Human-Only에서는 같은 변화로 정확도가 약 일곱 포인트 움직이는 데 그쳤다."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "그림 1: 정사면체 위에서 본 KLS 추측(단순화) 예시."
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "저자들은 사람이 이끄는 체계적인 과정에서 AI 에이전트와 협업하며 100개가 넘는 후보 접근법을 탐색했고, 재귀적으로 적용할 수 있는 새 판정 기준을 얻었다. 재귀적 정밀화 과정 전체를 반복해 누적 오차를 보편 상수 이내로 묶었고, 2026년 10월 4일 판 논문에서 증명을 완성했다."
-              },
-              {
-                "t": "p",
-                "x": "같은 날 다른 연구진도 병행된 완전한 증명을 올렸고, 세 번째 증명은 밀접하게 관련된 아이디어에 기대며, 뒤이어 Lean 4 형식화도 나왔다. 여러 주요 AI 모델에 거의 같은 토큰 예산을 주고 사람의 안내 없이 시도했을 때는 성공하지 못했다. 성공은 AI 시스템과 연구자들의 수학적 판단 모두에 달려 있었다."
+                "x": "검색과 추론을 늘린다고 꾸준히 나아지지는 않았다. 에이전트형 GPT-5.6 Sol 심판은 macro-F1 0.78로 Claude Opus 4.6의 0.89에 못 미쳤고, 비용은 약 10x였다. 단순한 Claude Opus 4.6 프롬프트는 $2.59로 0.854에 도달해 Idea Novelty Checker(0.642, $30.66)와 Sakana AI의 AI Scientist(0.772, $82.05)를 앞섰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人間とAIエージェント\n31年来の予想を証明",
-          "body": "二人の研究者がAIエージェントと100超の手法を探り、1995年のKLS予想を証明した。",
-          "mini_headline": "AI-assisted KLS証明",
+          "headline": "LLMsは研究アイデアの\n新規性を判定できるか",
+          "body": "Ai2のOld Ideas, Novel ProblemsでLLM判定は設定次第で覆った。",
+          "mini_headline": "揺らぐLLMの新規性判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "1995年に提唱されたKannan–Lovász–Simonovits(KLS)予想は、広いクラスの高次元確率分布において、最良の超平面による切断が、どんな形の最良の切断と比べても常にほぼ同等に有効かどうかを問う。Microsoft ResearchのXinzhi Zhangを含む二人の研究者がこれを証明し、次元にかかわらず固定された上界でこの関係が成り立つことを示した。"
+                "x": "Ai2は、LLMsが研究アイデアの新規性をどれほど確実に評価できるかを調べた研究Old Ideas, Novel Problemsを公開し、ベンチマーク、データ、コード、新たな評価セットを構築する自動パイプラインも併せて公開した。研究アイデアを生成するシステムは、新規性の判定を別のLLM、すなわち「新規性ジャッジ」に委ねることが多い。"
+              },
+              {
+                "t": "p",
+                "x": "ベンチマークはICLR 2026の査読を素材とする。top-10%の採択論文から得た新規性の高い人間のアイデア154件と、bottom-10%の不採択論文から得た新規性の低いアイデア145件(Human-Only)、さらに人間のアイデア154件を単純なLLM生成器によるアイデア154件と組み合わせたもの(Human+Generated)だ。"
+              },
+              {
+                "t": "p",
+                "x": "六つのジャッジ(GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5、Claude Opus 4.6)のいずれでも、わずかな設定変更で判定が大きく変わった。GPT-5.4をより単純なプロンプトに切り替えると、Human+Generatedペアでの正解率は93.5%から40.9%へと下がり、偶然の水準を下回った。Human-Onlyでは、同じ変更による正解率の変化は約七ポイントにとどまった。"
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "図1:正四面体上でのKLS予想(簡略化)の図解。"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "著者らは人間が主導する構造化されたプロセスでAIエージェントと協働し、100を超える候補手法を探って、再帰的に適用できる新たな基準を得た。再帰的な精緻化全体を繰り返すことで蓄積誤差を普遍定数で抑え、2026年10月4日版の論文で証明を完成させた。"
-              },
-              {
-                "t": "p",
-                "x": "同じ日に別のグループも並行して完全な証明を投稿し、三つ目の証明は密接に関連するアイデアに基づいている。その後Lean 4による形式化も行われた。いくつかの主要AIモデルにほぼ同じトークン予算で誘導なしに挑ませた試みは届かなかった。成功はAIシステムと研究者の数学的判断の両方にかかっていた。"
+                "x": "検索や推論を増やしても確実な改善にはつながらなかった。エージェント型のGPT-5.6 Solジャッジはmacro-F1が0.78で、Claude Opus 4.6の0.89を下回り、コストは約10xだった。単純なClaude Opus 4.6のプロンプトは$2.59で0.854に達し、Idea Novelty Checker(0.642、$30.66)やSakana AIのAI Scientist(0.772、$82.05)を上回った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人类与AI智能体\n证明31年前的猜想",
-          "body": "两名研究者引导AI智能体尝试100多种方法，证明了凸几何中1995年的KLS猜想。",
-          "mini_headline": "AI-assisted KLS证明",
+          "headline": "LLMs能否判断\n研究构想是否新颖",
+          "body": "Ai2的Old Ideas, Novel Problems发现设置微调会使LLM判定反转。",
+          "mini_headline": "LLM新颖性判定不稳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "1995年提出的Kannan–Lovász–Simonovits（KLS）猜想探讨的是：对于一大类高维概率分布，最优的超平面切分是否总能与任意形状的最优切分几乎同样有效。包括Microsoft Research的Xinzhi Zhang在内的两名研究者证明了这一猜想，表明无论维度如何，这一关系都在一个固定界限内成立。"
+                "x": "Ai2发布了Old Ideas, Novel Problems，研究LLMs评估研究构想新颖性的可靠程度，并公开了基准、数据、代码以及用于构建新评估集的自动化流程。生成研究构想的系统往往把新颖性判定交给另一个LLM，即“新颖性评判者”。"
+              },
+              {
+                "t": "p",
+                "x": "该基准取材于ICLR 2026的同行评审：来自top-10%录用论文的154个高新颖性人类构想，与来自bottom-10%被拒论文的145个低新颖性构想（Human-Only）；以及这154个人类构想与一个简单LLM生成器产出的154个构想的配对（Human+Generated）。"
+              },
+              {
+                "t": "p",
+                "x": "在六个评判模型（GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5和Claude Opus 4.6）上，细微的设置改动都带来了截然不同的判定。把GPT-5.4换成更简单的提示词后，它在Human+Generated配对上的准确率从93.5%降至40.9%，低于随机水平；而在Human-Only上，同样的改动只让准确率变化约七个点。"
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "图1：正四面体上KLS猜想（简化版）的示意图。"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "作者在人类主导的结构化流程中与AI智能体协作，探索了100多种候选方法，得出一个可递归应用的新判据。反复进行整个递归细化过程，使累积误差始终受一个普适常数约束，并在2026年10月4日版本的论文中完成了证明。"
-              },
-              {
-                "t": "p",
-                "x": "另一组研究者在同一天发布了一份并行的完整证明，第三份证明依赖一个密切相关的思路，随后又出现了Lean 4形式化。在大致相同的token预算下，多款领先AI模型在无引导情况下的尝试均未成功；成功既取决于AI系统，也取决于研究者的数学判断。"
+                "x": "更多搜索和推理并不能稳定带来提升：智能体式的GPT-5.6 Sol评判者macro-F1为0.78，低于Claude Opus 4.6的0.89，成本却约为10x。一个简单的Claude Opus 4.6提示词以$2.59达到0.854，胜过Idea Novelty Checker（0.642，$30.66）和Sakana AI的AI Scientist（0.772，$82.05）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Humanos y agentes de AI prueban\nuna conjetura de 31 años",
-          "body": "Dos investigadores guiaron a agentes de AI por más de 100 enfoques para demostrar la conjetura KLS de 1995.",
-          "mini_headline": "Demostración de KLS (AI-assisted)",
+          "headline": "¿Pueden los LLMs juzgar si\nes nueva una idea científica?",
+          "body": "El benchmark Old Ideas, Novel Problems de Ai2 muestra que pequeños cambios pueden invertir el veredicto de un LLM.",
+          "mini_headline": "Los veredictos de los LLM vacilan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
               },
               {
                 "t": "p",
-                "x": "La conjetura de Kannan–Lovász–Simonovits (KLS), propuesta en 1995, plantea si, para una amplia clase de distribuciones de probabilidad de alta dimensión, el mejor corte por un hiperplano es siempre casi tan eficaz como el mejor corte de cualquier forma. Dos investigadores, entre ellos Xinzhi Zhang, de Microsoft Research, la han demostrado y han mostrado que la relación se cumple con una cota fija independientemente de la dimensión."
+                "x": "Ai2 publicó Old Ideas, Novel Problems, un estudio sobre la fiabilidad con la que los LLMs evalúan la novedad de las ideas de investigación, junto con un benchmark, datos, código y un pipeline automatizado para crear nuevos conjuntos de evaluación. Los sistemas que generan ideas de investigación suelen delegar el veredicto de novedad en otro LLM, un \"juez de novedad\"."
+              },
+              {
+                "t": "p",
+                "x": "El benchmark se basa en revisiones por pares de ICLR 2026: 154 ideas humanas de alta novedad procedentes de artículos aceptados del top-10% y 145 ideas de menor novedad de artículos rechazados del bottom-10% (Human-Only), además de las 154 ideas humanas emparejadas con 154 ideas de un generador LLM sencillo (Human+Generated)."
+              },
+              {
+                "t": "p",
+                "x": "En los seis jueces (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 y Claude Opus 4.6), pequeños cambios de configuración produjeron veredictos muy distintos. Cambiar GPT-5.4 a un prompt más simple redujo la precisión en los pares Human+Generated del 93.5% al 40.9%, por debajo del azar; en Human-Only, el mismo cambio movió la precisión solo unos siete puntos."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
-                "cap": "Figura 1: Ilustración de la conjetura KLS (simplificada) en un tetraedro regular."
+                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
               },
               {
                 "t": "p",
-                "x": "Trabajando con agentes de AI en un proceso estructurado y dirigido por humanos, los autores exploraron más de 100 enfoques candidatos y obtuvieron un nuevo criterio que podía aplicarse de forma recursiva. Repetir todo el refinamiento recursivo mantuvo los errores acumulados acotados por una constante universal, lo que completó la demostración en la versión del artículo del 4 de octubre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "Otro grupo publicó el mismo día una demostración completa paralela, una tercera demostración se basa en una idea estrechamente relacionada y después llegó una formalización en Lean 4. Los intentos sin guía con varios modelos de AI líderes y aproximadamente el mismo presupuesto de tokens no lo lograron; el éxito dependió tanto de los sistemas de AI como del criterio matemático de los investigadores."
+                "x": "Más búsqueda y razonamiento no ayudaron de forma fiable: un juez agéntico GPT-5.6 Sol obtuvo 0.78 de macro-F1 frente a 0.89 de Claude Opus 4.6, con un costo aproximadamente 10x mayor. Un prompt simple de Claude Opus 4.6 alcanzó 0.854 por $2.59, por encima de Idea Novelty Checker (0.642, $30.66) y de AI Scientist de Sakana AI (0.772, $82.05)."
               }
             ]
           }
@@ -1059,15 +1039,15 @@
       }
     },
     {
-      "id": "nrps-enzyme",
+      "id": "blight-rice",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "AI-designed 효소\n부품, 생세포서 작동",
-      "body": "HIPS가 AI로 티올화 도메인 76개를 설계해 일부가 수율을 세 배까지 높였다.",
-      "mini_headline": "AI가 설계한 효소 부품",
-      "source": "Phys.org (HIPS)",
-      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
+      "headline": "AI-designed\n유전자 가위가 벼 지킨다",
+      "body": "Missouri대가 AI-designed 편집기로 마름병에 강한 벼를 얻었다.",
+      "mini_headline": "AI 편집기가 벼를 지킨다",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1075,179 +1055,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-            "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+            "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
           },
           {
             "t": "p",
-            "x": "Dr. Kenan Bozhüyük이 이끄는 Helmholtz Institute for Pharmaceutical Research Saarland(HIPS) 연구진이 AI로 비리보솜 펩타이드 합성효소(NRPS)의 새 단백질 구성 요소를 개발했다. NRPS는 수많은 항생제, 면역억제제, 항암제의 바탕이 되는 천연 화합물을 만드는 효소 복합체로, 일종의 분자 조립 라인이다."
+            "x": "University of Missouri 연구진이 세균성 흰잎마름병에 강한 벼를 만들었다. 아시아와 아프리카 일부 지역에서 수확을 망치고 생계까지 위협하기도 하는 병이다. College of Agriculture, Food and Natural Resources의 Curators' 석좌교수이자 Bond Life Sciences Center 연구원인 Bing Yang은 \"세균성 흰잎마름병은 벼농사에 큰 피해를 주어 수확량과 품질을 모두 떨어뜨린다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "연구팀은 사전 학습된 AI 모델 여러 개와 실험을 엮어 중간체를 넘겨주는 운반 팔인 티올화 도메인(T-domains) 76개를 새로 설계했다. 이를 넣은 NRPS 변이체 수백 개를 만들어 살아 있는 세포에서 시험했다."
+            "x": "연구팀은 인공지능이 설계한 유전자 편집 시스템 OpenCRISPR-1을 써서 식물을 병에 약하게 만드는 유전자를 바꿨다. 캘리포니아 생명공학 기업 Profluent가 처음 개발해 동물 세포에서 효과를 입증한 도구를 Yang 연구팀이 벼에 맞게 조정했다. 결과는 aBIOTECH에 실렸다."
           },
           {
             "t": "p",
-            "x": "여러 설계가 제대로 작동했다. 일부는 천연 변이체보다 수율을 최대 세 배까지 끌어올렸고 적어도 하나는 용해도와 열 안정성이 더 좋았다. 열쇠는 각 구성 요소를 인접 영역에 맞춰 조정한 데 있었다."
-          },
-          {
-            "t": "p",
-            "x": "Bozhüyük은 “AI가 실험을 대체하지는 않지만, 수많은 가능한 변이체 가운데 유망한 후보를 더 빨리 고르도록 돕는다”고 말했다. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+            "x": "아직은 실험실 계통에서 얻은 결과다. 농가가 혜택을 보기까지는 몇 년이 걸릴 수 있다. 이 형질을 상업 재배 품종에 옮기고 추가 시험과 규제 요건을 통과해야 하며 산업 파트너도 찾아야 한다. Yang은 이 방식을 옥수수와 콩으로, 병해부터 가뭄과 극한 기온까지 여러 과제로 넓힐 수 있다고 본다. OpenCRISPR-1은 오픈소스여서 작물 유전체 편집 연구와 상업화에 무료로 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-designed enzyme parts\nwork in living cells",
-          "body": "HIPS researchers used AI to design 76 thiolation domains, some raising yields up to threefold over natural ones.",
-          "mini_headline": "AI designs enzyme parts",
+          "headline": "AI-designed gene editor\nhelps rice resist blight",
+          "body": "Missouri researchers used an AI-designed genome-editing tool to make rice plants that resist bacterial blight.",
+          "mini_headline": "AI editor shields rice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "Researchers at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), led by Dr. Kenan Bozhüyük, used AI to develop novel protein building blocks for non-ribosomal peptide synthetases (NRPS)—enzyme complexes that work like molecular assembly lines for natural compounds behind numerous antibiotics, immunosuppressants and cancer drugs."
+                "x": "University of Missouri researchers have created rice plants that resist bacterial blight, a disease that can wipe out harvests and endanger livelihoods in parts of Asia and Africa. \"Bacterial blight can wreak havoc on rice crops, reducing both yield and quality,\" said Bing Yang, a Curators' distinguished professor in the College of Agriculture, Food and Natural Resources and an investigator in the Bond Life Sciences Center."
               },
               {
                 "t": "p",
-                "x": "Combining several pretrained AI models with experiments, the team designed 76 new thiolation domains (T-domains), the transport arms that pass intermediates along, produced hundreds of NRPS variants and tested them in living cells."
+                "x": "The team used OpenCRISPR-1, a gene-editing system designed using artificial intelligence, to alter genes that make plants vulnerable to disease. The tool was originally developed by the California biotechnology company Profluent and had been demonstrated in animal cells; Yang's team adapted it for rice. The study appeared in aBIOTECH."
               },
               {
                 "t": "p",
-                "x": "Several designs were functional; some increased the yield up to three times compared to natural variants, and at least one was more soluble and thermally more stable. A key factor was tailoring each building block to its neighboring regions."
-              },
-              {
-                "t": "p",
-                "x": "“AI does not replace experiments, but it helps us select promising candidates more quickly from among many possible variants,” says Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "The results come from a laboratory line. Before farmers benefit, the traits must move into commercially grown varieties, pass more testing and regulatory requirements, and find industry partners, which could take several years. Yang sees the approach extending to corn and soybeans and to challenges from plant diseases to drought and extreme temperatures. OpenCRISPR-1 is open source and free for research and commercialization of crop genome editing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-designed 효소\n부품, 생세포서 작동",
-          "body": "HIPS가 AI로 티올화 도메인 76개를 설계해 일부가 수율을 세 배까지 높였다.",
-          "mini_headline": "AI가 설계한 효소 부품",
+          "headline": "AI-designed\n유전자 가위가 벼 지킨다",
+          "body": "Missouri대가 AI-designed 편집기로 마름병에 강한 벼를 얻었다.",
+          "mini_headline": "AI 편집기가 벼를 지킨다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "Dr. Kenan Bozhüyük이 이끄는 Helmholtz Institute for Pharmaceutical Research Saarland(HIPS) 연구진이 AI로 비리보솜 펩타이드 합성효소(NRPS)의 새 단백질 구성 요소를 개발했다. NRPS는 수많은 항생제, 면역억제제, 항암제의 바탕이 되는 천연 화합물을 만드는 효소 복합체로, 일종의 분자 조립 라인이다."
+                "x": "University of Missouri 연구진이 세균성 흰잎마름병에 강한 벼를 만들었다. 아시아와 아프리카 일부 지역에서 수확을 망치고 생계까지 위협하기도 하는 병이다. College of Agriculture, Food and Natural Resources의 Curators' 석좌교수이자 Bond Life Sciences Center 연구원인 Bing Yang은 \"세균성 흰잎마름병은 벼농사에 큰 피해를 주어 수확량과 품질을 모두 떨어뜨린다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 사전 학습된 AI 모델 여러 개와 실험을 엮어 중간체를 넘겨주는 운반 팔인 티올화 도메인(T-domains) 76개를 새로 설계했다. 이를 넣은 NRPS 변이체 수백 개를 만들어 살아 있는 세포에서 시험했다."
+                "x": "연구팀은 인공지능이 설계한 유전자 편집 시스템 OpenCRISPR-1을 써서 식물을 병에 약하게 만드는 유전자를 바꿨다. 캘리포니아 생명공학 기업 Profluent가 처음 개발해 동물 세포에서 효과를 입증한 도구를 Yang 연구팀이 벼에 맞게 조정했다. 결과는 aBIOTECH에 실렸다."
               },
               {
                 "t": "p",
-                "x": "여러 설계가 제대로 작동했다. 일부는 천연 변이체보다 수율을 최대 세 배까지 끌어올렸고 적어도 하나는 용해도와 열 안정성이 더 좋았다. 열쇠는 각 구성 요소를 인접 영역에 맞춰 조정한 데 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Bozhüyük은 “AI가 실험을 대체하지는 않지만, 수많은 가능한 변이체 가운데 유망한 후보를 더 빨리 고르도록 돕는다”고 말했다. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "아직은 실험실 계통에서 얻은 결과다. 농가가 혜택을 보기까지는 몇 년이 걸릴 수 있다. 이 형질을 상업 재배 품종에 옮기고 추가 시험과 규제 요건을 통과해야 하며 산업 파트너도 찾아야 한다. Yang은 이 방식을 옥수수와 콩으로, 병해부터 가뭄과 극한 기온까지 여러 과제로 넓힐 수 있다고 본다. OpenCRISPR-1은 오픈소스여서 작물 유전체 편집 연구와 상업화에 무료로 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-designedの酵素\n部品が生細胞で機能",
-          "body": "HIPSはAIで76個のチオール化ドメインを設計し、一部は収率を最大三倍に高めた。",
-          "mini_headline": "AIが酵素部品を設計",
+          "headline": "AI-designedの\n編集技術で病に強いイネ",
+          "body": "Missouriの研究者はAI-designedのゲノム編集で白葉枯病に強いイネを作った。",
+          "mini_headline": "AI編集技術がイネを守る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "Dr. Kenan Bozhüyük率いるHelmholtz Institute for Pharmaceutical Research Saarland(HIPS)の研究者らは、AIを用いて非リボソームペプチド合成酵素(NRPS)の新たなタンパク質構成要素を開発した。NRPSは、数多くの抗生物質や免疫抑制剤、抗がん剤のもととなる天然化合物を作る、分子の組み立てラインのように働く酵素複合体だ。"
+                "x": "University of Missouriの研究者は、白葉枯病に抵抗性を持つイネを作出した。この病気はアジアやアフリカの一部で収穫を壊滅させ、生計を脅かしかねない。College of Agriculture, Food and Natural ResourcesのCurators'特別栄誉教授で、Bond Life Sciences Centerの研究者でもあるBing Yangは「白葉枯病はイネに大きな被害をもたらし、収量と品質の両方を低下させる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "チームは複数の事前学習済みAIモデルと実験を組み合わせ、中間体を受け渡す運搬アームであるチオール化ドメイン(T-domains)を76個新たに設計し、数百のNRPS変異体を作って生きた細胞で試験した。"
+                "x": "研究チームは、人工知能を使って設計されたゲノム編集システムOpenCRISPR-1を用いて、植物を病気にかかりやすくする遺伝子を改変した。このツールはもともとカリフォルニアのバイオテクノロジー企業Profluentが開発し、動物細胞で実証されていたもので、Yangのチームがイネ向けに適応させた。研究はaBIOTECHに掲載された。"
               },
               {
                 "t": "p",
-                "x": "いくつかの設計は機能した。一部は天然の変異体と比べて収率を最大三倍に高め、少なくとも一つは溶解性と熱安定性がより高かった。鍵となったのは、各構成要素を隣接する領域に合わせて調整したことだ。"
-              },
-              {
-                "t": "p",
-                "x": "“AIは実験に取って代わるものではないが、多数の候補となる変異体の中から有望なものをより速く選ぶ助けになる”とBozhüyükは語る。Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "今回の結果は実験系統によるものだ。農家が恩恵を受けるには、この形質を商業栽培品種に導入し、さらなる試験や規制要件をクリアし、産業界のパートナーを見つける必要があり、数年かかる可能性がある。Yangは、この手法がトウモロコシや大豆にも、また植物病害から干ばつ、極端な気温に至る課題にも広がるとみている。OpenCRISPR-1はオープンソースで、作物ゲノム編集の研究と商業化に無料で利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-designed酶部件\n在活细胞中发挥作用",
-          "body": "HIPS研究人员用AI设计了76个硫醇化结构域，部分产量最高提升至天然的三倍。",
-          "mini_headline": "AI设计酶部件",
+          "headline": "AI-designed编辑器\n助水稻抵御白叶枯病",
+          "body": "Missouri研究人员用AI-designed基因组编辑工具，培育出抗白叶枯病的水稻。",
+          "mini_headline": "AI编辑器护水稻",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "由Dr. Kenan Bozhüyük领导的Helmholtz Institute for Pharmaceutical Research Saarland（HIPS）研究人员利用AI为非核糖体肽合成酶（NRPS）开发了新型蛋白质构件。NRPS是一类酶复合体，如同分子装配线，负责合成众多抗生素、免疫抑制剂和抗癌药物背后的天然化合物。"
+                "x": "University of Missouri的研究人员培育出了抗白叶枯病的水稻。这种病害可能让亚洲和非洲部分地区的收成毁于一旦，危及生计。College of Agriculture, Food and Natural Resources的Curators'杰出教授、Bond Life Sciences Center研究员Bing Yang说：“白叶枯病会严重破坏水稻作物，使产量和品质双双下降。”"
               },
               {
                 "t": "p",
-                "x": "研究团队将多个预训练AI模型与实验相结合，设计了76个新的硫醇化结构域（T-domains）——即传递中间体的转运臂，构建了数百种NRPS变体，并在活细胞中进行了测试。"
+                "x": "团队使用借助人工智能设计的基因编辑系统OpenCRISPR-1，改变了使植物易感病的基因。该工具最初由加利福尼亚生物技术公司Profluent开发，并已在动物细胞中得到验证；Yang的团队将其改造用于水稻。研究发表在aBIOTECH上。"
               },
               {
                 "t": "p",
-                "x": "多个设计具有功能；其中一些与天然变体相比产量最高提升至三倍，至少有一个溶解性更好、热稳定性更高。关键在于让每个构件与其相邻区域相匹配。"
-              },
-              {
-                "t": "p",
-                "x": "Bozhüyük表示：“AI不会取代实验，但它能帮助我们更快地从众多可能的变体中挑选出有前景的候选。”Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "这些结果来自实验室株系。在农民受益之前，这些性状还需导入商业种植品种，通过更多测试和监管要求，并找到产业合作伙伴，这可能需要数年时间。Yang认为，这一方法可推广到玉米和大豆，并用于应对从植物病害到干旱和极端温度等各种挑战。OpenCRISPR-1是开源的，可免费用于作物基因组编辑的研究和商业化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Piezas enzimáticas AI-designed\nfuncionan en células vivas",
-          "body": "Investigadores de HIPS diseñaron con AI 76 dominios de tiolación; algunos elevaron el rendimiento hasta el triple.",
-          "mini_headline": "La AI diseña piezas de enzimas",
+          "headline": "Un editor genético AI-designed\nayuda al arroz contra el tizón",
+          "body": "Investigadores de Missouri usaron edición genómica AI-designed para crear arroz resistente al tizón bacteriano.",
+          "mini_headline": "Un editor con AI protege el arroz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), dirigidos por el Dr. Kenan Bozhüyük, usaron AI para desarrollar nuevos bloques proteicos para las sintetasas de péptidos no ribosómicos (NRPS), complejos enzimáticos que funcionan como cadenas de montaje moleculares de compuestos naturales en los que se basan numerosos antibióticos, inmunosupresores y fármacos contra el cáncer."
+                "x": "Investigadores de la University of Missouri han creado plantas de arroz resistentes al tizón bacteriano, una enfermedad que puede arrasar cosechas y poner en peligro los medios de vida en partes de Asia y África. \"El tizón bacteriano puede causar estragos en los cultivos de arroz, reduciendo tanto el rendimiento como la calidad\", dijo Bing Yang, profesor distinguido Curators' en el College of Agriculture, Food and Natural Resources e investigador del Bond Life Sciences Center."
               },
               {
                 "t": "p",
-                "x": "Combinando varios modelos de AI preentrenados con experimentos, el equipo diseñó 76 nuevos dominios de tiolación (T-domains), los brazos de transporte que van pasando los intermediarios, produjo cientos de variantes de NRPS y las probó en células vivas."
+                "x": "El equipo utilizó OpenCRISPR-1, un sistema de edición genética diseñado mediante inteligencia artificial, para modificar genes que hacen a las plantas vulnerables a enfermedades. La herramienta fue desarrollada originalmente por la empresa de biotecnología californiana Profluent y se había demostrado en células animales; el equipo de Yang la adaptó al arroz. El estudio se publicó en aBIOTECH."
               },
               {
                 "t": "p",
-                "x": "Varios diseños fueron funcionales; algunos aumentaron el rendimiento hasta tres veces respecto a las variantes naturales, y al menos uno resultó más soluble y térmicamente más estable. Un factor clave fue adaptar cada bloque a sus regiones vecinas."
-              },
-              {
-                "t": "p",
-                "x": "“La AI no sustituye a los experimentos, pero nos ayuda a seleccionar candidatos prometedores con mayor rapidez entre muchas variantes posibles”, afirma Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "Los resultados proceden de una línea de laboratorio. Antes de que los agricultores se beneficien, los rasgos deben trasladarse a variedades de cultivo comercial, superar más pruebas y requisitos regulatorios y encontrar socios en la industria, lo que podría llevar varios años. Yang prevé que el enfoque se extienda al maíz y la soja, y a desafíos que van desde las enfermedades de las plantas hasta la sequía y las temperaturas extremas. OpenCRISPR-1 es de código abierto y gratuito para la investigación y la comercialización de la edición genómica de cultivos."
               }
             ]
           }
@@ -1255,125 +1211,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-designed 효소\n부품, 생세포서 작동",
-          "body": "HIPS가 AI로 티올화 도메인 76개를 설계해 일부가 수율을 세 배까지 높였다.",
-          "mini_headline": "AI가 설계한 효소 부품",
+          "headline": "AI-designed\n유전자 가위가 벼 지킨다",
+          "body": "Missouri대가 AI-designed 편집기로 마름병에 강한 벼를 만들었다.",
+          "mini_headline": "AI 편집기가 벼를 지킨다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "Dr. Kenan Bozhüyük이 이끄는 Helmholtz Institute for Pharmaceutical Research Saarland(HIPS) 연구진은 AI를 활용해 비리보솜 펩타이드 합성효소(NRPS)용 새로운 단백질 구성 요소를 개발했다. NRPS는 수많은 항생제, 면역억제제, 항암제의 바탕이 되는 천연 화합물을 만드는 분자 조립 라인처럼 작동하는 효소 복합체다."
+                "x": "University of Missouri 연구진이 세균성 흰잎마름병에 강한 벼를 만들었다. 이 병은 아시아와 아프리카 일부 지역에서 수확을 망치고 생계를 위협할 수 있다. College of Agriculture, Food and Natural Resources의 Curators' 석좌교수이자 Bond Life Sciences Center 연구원인 Bing Yang은 \"세균성 흰잎마름병은 벼농사에 큰 피해를 주어 수확량과 품질을 모두 떨어뜨린다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 사전 학습된 여러 AI 모델과 실험을 결합해 중간체를 넘겨주는 운반 팔인 티올화 도메인(T-domains) 76개를 새로 설계했고, NRPS 변이체 수백 개를 만들어 살아 있는 세포에서 시험했다."
+                "x": "연구팀은 인공지능으로 설계한 유전자 편집 시스템 OpenCRISPR-1을 이용해 식물을 병에 취약하게 만드는 유전자를 바꿨다. 이 도구는 원래 캘리포니아의 생명공학 기업 Profluent가 개발해 동물 세포에서 효과를 입증한 것으로, Yang 연구팀이 벼에 맞게 조정했다. 연구 결과는 aBIOTECH에 실렸다."
               },
               {
                 "t": "p",
-                "x": "여러 설계가 제 기능을 했다. 일부는 천연 변이체보다 수율을 최대 세 배까지 높였고, 적어도 하나는 용해도와 열 안정성이 더 높았다. 핵심은 각 구성 요소를 인접 영역에 맞춰 조정한 것이었다."
-              },
-              {
-                "t": "p",
-                "x": "Bozhüyük은 “AI가 실험을 대체하지는 않지만, 수많은 가능한 변이체 가운데 유망한 후보를 더 빨리 고르도록 돕는다”고 말했다. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "이번 결과는 실험실 계통에서 나온 것이다. 농가가 혜택을 보려면 이 형질을 상업 재배 품종에 옮기고, 추가 시험과 규제 요건을 통과하고, 산업 파트너도 찾아야 해 몇 년이 걸릴 수 있다. Yang은 이 방식이 옥수수와 콩으로, 또 병해에서 가뭄과 극한 기온에 이르는 여러 과제로 확장될 수 있다고 본다. OpenCRISPR-1은 오픈소스이며 작물 유전체 편집의 연구와 상업화에 무료로 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-designedの酵素\n部品が生細胞で機能",
-          "body": "HIPSはAIで76個のチオール化ドメインを設計し、一部は収率を最大三倍に高めた。",
-          "mini_headline": "AIが酵素部品を設計",
+          "headline": "AI-designedの\n編集技術で病に強いイネ",
+          "body": "Missouriの研究者はAI-designedのゲノム編集で白葉枯病に強いイネを作った。",
+          "mini_headline": "AI編集技術がイネを守る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "Dr. Kenan Bozhüyük率いるHelmholtz Institute for Pharmaceutical Research Saarland(HIPS)の研究者らは、AIを用いて非リボソームペプチド合成酵素(NRPS)の新たなタンパク質構成要素を開発した。NRPSは、数多くの抗生物質や免疫抑制剤、抗がん剤のもととなる天然化合物を作る、分子の組み立てラインのように働く酵素複合体だ。"
+                "x": "University of Missouriの研究者は、白葉枯病に抵抗性を持つイネを作出した。この病気はアジアやアフリカの一部で収穫を壊滅させ、生計を脅かしかねない。College of Agriculture, Food and Natural ResourcesのCurators'特別栄誉教授で、Bond Life Sciences Centerの研究者でもあるBing Yangは「白葉枯病はイネに大きな被害をもたらし、収量と品質の両方を低下させる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "チームは複数の事前学習済みAIモデルと実験を組み合わせ、中間体を受け渡す運搬アームであるチオール化ドメイン(T-domains)を76個新たに設計し、数百のNRPS変異体を作って生きた細胞で試験した。"
+                "x": "研究チームは、人工知能を使って設計されたゲノム編集システムOpenCRISPR-1を用いて、植物を病気にかかりやすくする遺伝子を改変した。このツールはもともとカリフォルニアのバイオテクノロジー企業Profluentが開発し、動物細胞で実証されていたもので、Yangのチームがイネ向けに適応させた。研究はaBIOTECHに掲載された。"
               },
               {
                 "t": "p",
-                "x": "いくつかの設計は機能した。一部は天然の変異体と比べて収率を最大三倍に高め、少なくとも一つは溶解性と熱安定性がより高かった。鍵となったのは、各構成要素を隣接する領域に合わせて調整したことだ。"
-              },
-              {
-                "t": "p",
-                "x": "“AIは実験に取って代わるものではないが、多数の候補となる変異体の中から有望なものをより速く選ぶ助けになる”とBozhüyükは語る。Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "今回の結果は実験系統によるものだ。農家が恩恵を受けるには、この形質を商業栽培品種に導入し、さらなる試験や規制要件をクリアし、産業界のパートナーを見つける必要があり、数年かかる可能性がある。Yangは、この手法がトウモロコシや大豆にも、また植物病害から干ばつ、極端な気温に至る課題にも広がるとみている。OpenCRISPR-1はオープンソースで、作物ゲノム編集の研究と商業化に無料で利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-designed酶部件\n在活细胞中发挥作用",
-          "body": "HIPS研究人员用AI设计了76个硫醇化结构域，部分产量最高提升至天然的三倍。",
-          "mini_headline": "AI设计酶部件",
+          "headline": "AI-designed编辑器\n助水稻抵御白叶枯病",
+          "body": "Missouri研究人员用AI-designed基因组编辑工具，培育出抗白叶枯病的水稻。",
+          "mini_headline": "AI编辑器护水稻",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "由Dr. Kenan Bozhüyük领导的Helmholtz Institute for Pharmaceutical Research Saarland（HIPS）研究人员利用AI为非核糖体肽合成酶（NRPS）开发了新型蛋白质构件。NRPS是一类酶复合体，如同分子装配线，负责合成众多抗生素、免疫抑制剂和抗癌药物背后的天然化合物。"
+                "x": "University of Missouri的研究人员培育出了抗白叶枯病的水稻。这种病害可能让亚洲和非洲部分地区的收成毁于一旦，危及生计。College of Agriculture, Food and Natural Resources的Curators'杰出教授、Bond Life Sciences Center研究员Bing Yang说：“白叶枯病会严重破坏水稻作物，使产量和品质双双下降。”"
               },
               {
                 "t": "p",
-                "x": "研究团队将多个预训练AI模型与实验相结合，设计了76个新的硫醇化结构域（T-domains）——即传递中间体的转运臂，构建了数百种NRPS变体，并在活细胞中进行了测试。"
+                "x": "团队使用借助人工智能设计的基因编辑系统OpenCRISPR-1，改变了使植物易感病的基因。该工具最初由加利福尼亚生物技术公司Profluent开发，并已在动物细胞中得到验证；Yang的团队将其改造用于水稻。研究发表在aBIOTECH上。"
               },
               {
                 "t": "p",
-                "x": "多个设计具有功能；其中一些与天然变体相比产量最高提升至三倍，至少有一个溶解性更好、热稳定性更高。关键在于让每个构件与其相邻区域相匹配。"
-              },
-              {
-                "t": "p",
-                "x": "Bozhüyük表示：“AI不会取代实验，但它能帮助我们更快地从众多可能的变体中挑选出有前景的候选。”Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "这些结果来自实验室株系。在农民受益之前，这些性状还需导入商业种植品种，通过更多测试和监管要求，并找到产业合作伙伴，这可能需要数年时间。Yang认为，这一方法可推广到玉米和大豆，并用于应对从植物病害到干旱和极端温度等各种挑战。OpenCRISPR-1是开源的，可免费用于作物基因组编辑的研究和商业化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Piezas enzimáticas AI-designed\nfuncionan en células vivas",
-          "body": "Investigadores de HIPS diseñaron con AI 76 dominios de tiolación; algunos elevaron el rendimiento hasta el triple.",
-          "mini_headline": "La AI diseña piezas de enzimas",
+          "headline": "Un editor genético AI-designed\nayuda al arroz contra el tizón",
+          "body": "Investigadores de Missouri usaron edición genómica AI-designed para crear arroz resistente al tizón bacteriano.",
+          "mini_headline": "Un editor con AI protege el arroz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
-                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), dirigidos por el Dr. Kenan Bozhüyük, usaron AI para desarrollar nuevos bloques proteicos para las sintetasas de péptidos no ribosómicos (NRPS), complejos enzimáticos que funcionan como cadenas de montaje moleculares de compuestos naturales en los que se basan numerosos antibióticos, inmunosupresores y fármacos contra el cáncer."
+                "x": "Investigadores de la University of Missouri han creado plantas de arroz resistentes al tizón bacteriano, una enfermedad que puede arrasar cosechas y poner en peligro los medios de vida en partes de Asia y África. \"El tizón bacteriano puede causar estragos en los cultivos de arroz, reduciendo tanto el rendimiento como la calidad\", dijo Bing Yang, profesor distinguido Curators' en el College of Agriculture, Food and Natural Resources e investigador del Bond Life Sciences Center."
               },
               {
                 "t": "p",
-                "x": "Combinando varios modelos de AI preentrenados con experimentos, el equipo diseñó 76 nuevos dominios de tiolación (T-domains), los brazos de transporte que van pasando los intermediarios, produjo cientos de variantes de NRPS y las probó en células vivas."
+                "x": "El equipo utilizó OpenCRISPR-1, un sistema de edición genética diseñado mediante inteligencia artificial, para modificar genes que hacen a las plantas vulnerables a enfermedades. La herramienta fue desarrollada originalmente por la empresa de biotecnología californiana Profluent y se había demostrado en células animales; el equipo de Yang la adaptó al arroz. El estudio se publicó en aBIOTECH."
               },
               {
                 "t": "p",
-                "x": "Varios diseños fueron funcionales; algunos aumentaron el rendimiento hasta tres veces respecto a las variantes naturales, y al menos uno resultó más soluble y térmicamente más estable. Un factor clave fue adaptar cada bloque a sus regiones vecinas."
-              },
-              {
-                "t": "p",
-                "x": "“La AI no sustituye a los experimentos, pero nos ayuda a seleccionar candidatos prometedores con mayor rapidez entre muchas variantes posibles”, afirma Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+                "x": "Los resultados proceden de una línea de laboratorio. Antes de que los agricultores se beneficien, los rasgos deben trasladarse a variedades de cultivo comercial, superar más pruebas y requisitos regulatorios y encontrar socios en la industria, lo que podría llevar varios años. Yang prevé que el enfoque se extienda al maíz y la soja, y a desafíos que van desde las enfermedades de las plantas hasta la sequía y las temperaturas extremas. OpenCRISPR-1 es de código abierto y gratuito para la investigación y la comercialización de la edición genómica de cultivos."
               }
             ]
           }
@@ -1381,15 +1321,15 @@
       }
     },
     {
-      "id": "llm-empathy",
+      "id": "ai-ideas-people",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "LLM 공감의 뿌리는\n고객 상담 대화",
-      "body": "Georgia Tech는 Olmo 3의 사회적 추론이 FAQs에 기댄다고 봤다.",
-      "mini_headline": "LLM 공감은 어디서 오나",
-      "source": "Tech Xplore (Georgia Tech)",
-      "url": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html",
+      "headline": "AI 아이디어는 빨라도\n창의성은 사람끼리",
+      "body": "208명 실험에서 ChatGPT와 하면 답이 길었고 사람끼리는 더 창의적이었다.",
+      "mini_headline": "AI는 빠르고 사람은 창의적",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1397,155 +1337,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
             "cap": "Credit: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Georgia Tech 연구진이 LLM으로 모델을 감사하는 신경망 프레임워크를 개발했다. 문서와 대화록 같은 여러 데이터 출처가 모델 출력에 얼마나 영향을 주는지 추정하는 도구로, 학습 데이터가 공감과 사회적 추론을 어떻게 빚어내는지 들여다보려고 만들었다."
+            "x": "생성형 AI가 생산성을 높인다는 이야기는 자주 나오지만, 협업과 창의성에는 어떤 영향을 줄까? 인지과학자 Clin Lai와 Roger Beaty는 발산적 사고를 재는 '대체 용도 과제'로 실험하면서 참가자 208명을 ChatGPT나 다른 사람과 함께 작업하도록 무작위 배정했다."
           },
           {
             "t": "p",
-            "x": "주저자 Glenn Matlin은 “사회적 추론에 능한 모델은 인간 감정에 관한 교과서보다 FAQs나 고객 상담 대화에 더 많이 기댄다”고 말했다. 그는 “분노를 설명하는 글을 아무리 많이 읽어도, 상대가 화가 났는지 판단하는 데는 도움이 되지 않는다”고 했다."
+            "x": "ChatGPT와 작업한 사람들은 답을 더 길게 썼지만, \"사람끼리 짝을 이룬 쪽이 ChatGPT와 작업한 사람들보다 더 창의적인 아이디어를 냈다.\" 사람 짝의 아이디어는 더 독특하고 다양하기도 했다. 책을 방음재로 쓰는 식으로 AI의 개별 제안이 창의적일 때도 있었다. 하지만 ChatGPT가 서로 다른 여러 세션에서 같은 아이디어를 되풀이하면서 아이디어 풀은 더 균질해졌다."
           },
           {
             "t": "p",
-            "x": "감사 대상은 Ai2의 오픈소스 모델 Olmo 3로, 학습 데이터가 십억 건 넘는 문서로 이뤄져 있다. ChatGPT와 Claude는 학습 데이터를 공개하지 않는다. 지도교수(Adviser) Mark Riedl은 모델이 공감을 배우는 문서를 엔지니어들이 더 늘리거나 줄일 수 있다고 했다. 논문은 Conference on Language Modeling에서 발표됐다(arXiv, DOI: 10.48550/arxiv.2606.19625)."
+            "x": "저자들은 비슷한 데이터로 다음에 올 가능성이 가장 높은 단어를 예측하도록 학습된 대규모 언어 모델이 한곳으로 수렴하기 쉽다고 지적한다. 의미적 거리로 재 보니 다른 사람과 함께 일해서 얻는 창의성 이점은 협업이 이어질수록 커졌다."
+          },
+          {
+            "t": "p",
+            "x": "페르소나 프롬프팅으로 ChatGPT의 아이디어 다양성은 높아졌지만 그 폭은 여전히 사람 작성자에 못 미쳤다. 연구진은 AI와 대화하기 전에 먼저 사람과 이야기하라고 조언한다. 연구는 Computers in Human Behavior에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LLM empathy traced back\nto customer-service chats",
-          "body": "Georgia Tech's provenance audit of Olmo 3 found social reasoning leans on dialogue like FAQs more than textbooks.",
-          "mini_headline": "Where LLM empathy comes from",
+          "headline": "AI ideas come faster,\npeople together more creative",
+          "body": "A study of 208 people finds ChatGPT partners yield longer answers, but human pairs come up with more creative ideas.",
+          "mini_headline": "AI is fast, people creative",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech researchers have developed a neural framework that audits a model with an LLM and estimates the influence documents, transcripts and other data sources have on its output, to examine how training sources shape empathy and social reasoning."
+                "x": "Generative AI's productivity gains are often touted, but how does it affect collaboration and creativity? Cognitive scientists Clin Lai and Roger Beaty ran an experiment using the alternate uses task, a measure of divergent thinking, randomly assigning 208 participants to work with either ChatGPT or another person."
               },
               {
                 "t": "p",
-                "x": "“Models that are good at social reasoning will rely less on textbooks about human emotions and more on FAQs or customer service dialogue,” said lead author Glenn Matlin. “It can read all it wants from texts that explain anger, but that wouldn't help it determine whether someone is angry.”"
+                "x": "People working with ChatGPT wrote longer responses, \"but human pairs came up with more creative ideas than the humans working with ChatGPT.\" Ideas from human pairs were also more distinct and diverse. Individual AI suggestions could be creative, such as using a book as a sound dampener, but ChatGPT presented that same idea across many separate sessions, making its pool of ideas more homogeneous."
               },
               {
                 "t": "p",
-                "x": "The audit covered Ai2's open-source Olmo 3, whose training data comprises over a billion documents; ChatGPT and Claude do not disclose theirs. Adviser Mark Riedl said engineers could give a model more or fewer of the documents where it learns empathy. The paper was presented at the Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
+                "x": "The authors note that large language models, trained on similar data to predict the next most likely words, tend to converge. The creativity benefit of working with another person grew stronger as the collaboration progressed, measured by semantic distance."
+              },
+              {
+                "t": "p",
+                "x": "Persona prompting increased ChatGPT's idea diversity, but the range still fell short of human writers. Their advice: chat with a person before chatting with AI. The study appeared in Computers in Human Behavior."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLM 공감의 뿌리는\n고객 상담 대화",
-          "body": "Georgia Tech는 Olmo 3의 사회적 추론이 FAQs에 기댄다고 봤다.",
-          "mini_headline": "LLM 공감은 어디서 오나",
+          "headline": "AI 아이디어는 빨라도\n창의성은 사람끼리",
+          "body": "208명 실험에서 ChatGPT와 하면 답이 길었고 사람끼리는 더 창의적이었다.",
+          "mini_headline": "AI는 빠르고 사람은 창의적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech 연구진이 LLM으로 모델을 감사하는 신경망 프레임워크를 개발했다. 문서와 대화록 같은 여러 데이터 출처가 모델 출력에 얼마나 영향을 주는지 추정하는 도구로, 학습 데이터가 공감과 사회적 추론을 어떻게 빚어내는지 들여다보려고 만들었다."
+                "x": "생성형 AI가 생산성을 높인다는 이야기는 자주 나오지만, 협업과 창의성에는 어떤 영향을 줄까? 인지과학자 Clin Lai와 Roger Beaty는 발산적 사고를 재는 '대체 용도 과제'로 실험하면서 참가자 208명을 ChatGPT나 다른 사람과 함께 작업하도록 무작위 배정했다."
               },
               {
                 "t": "p",
-                "x": "주저자 Glenn Matlin은 “사회적 추론에 능한 모델은 인간 감정에 관한 교과서보다 FAQs나 고객 상담 대화에 더 많이 기댄다”고 말했다. 그는 “분노를 설명하는 글을 아무리 많이 읽어도, 상대가 화가 났는지 판단하는 데는 도움이 되지 않는다”고 했다."
+                "x": "ChatGPT와 작업한 사람들은 답을 더 길게 썼지만, \"사람끼리 짝을 이룬 쪽이 ChatGPT와 작업한 사람들보다 더 창의적인 아이디어를 냈다.\" 사람 짝의 아이디어는 더 독특하고 다양하기도 했다. 책을 방음재로 쓰는 식으로 AI의 개별 제안이 창의적일 때도 있었다. 하지만 ChatGPT가 서로 다른 여러 세션에서 같은 아이디어를 되풀이하면서 아이디어 풀은 더 균질해졌다."
               },
               {
                 "t": "p",
-                "x": "감사 대상은 Ai2의 오픈소스 모델 Olmo 3로, 학습 데이터가 십억 건 넘는 문서로 이뤄져 있다. ChatGPT와 Claude는 학습 데이터를 공개하지 않는다. 지도교수(Adviser) Mark Riedl은 모델이 공감을 배우는 문서를 엔지니어들이 더 늘리거나 줄일 수 있다고 했다. 논문은 Conference on Language Modeling에서 발표됐다(arXiv, DOI: 10.48550/arxiv.2606.19625)."
+                "x": "저자들은 비슷한 데이터로 다음에 올 가능성이 가장 높은 단어를 예측하도록 학습된 대규모 언어 모델이 한곳으로 수렴하기 쉽다고 지적한다. 의미적 거리로 재 보니 다른 사람과 함께 일해서 얻는 창의성 이점은 협업이 이어질수록 커졌다."
+              },
+              {
+                "t": "p",
+                "x": "페르소나 프롬프팅으로 ChatGPT의 아이디어 다양성은 높아졌지만 그 폭은 여전히 사람 작성자에 못 미쳤다. 연구진은 AI와 대화하기 전에 먼저 사람과 이야기하라고 조언한다. 연구는 Computers in Human Behavior에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMの共感の源は\n顧客対応の会話",
-          "body": "Georgia TechはOlmo 3の社会的推論が教科書よりFAQsに頼ると示した。",
-          "mini_headline": "LLMの共感はどこから来るのか",
+          "headline": "AIでアイデアは速く\n人同士ならより創造的",
+          "body": "208人の研究で、ChatGPTと組むと回答は長いが、人同士の方がより創造的だった。",
+          "mini_headline": "AIは速く、人は創造的",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Georgia Techの研究者らは、LLMでモデルを監査し、文書や会話記録などのデータ源が出力に与える影響を推定するニューラルフレームワークを開発した。学習データが共感や社会的推論をどう形づくるかを調べるためだ。"
+                "x": "生成AIの生産性向上はしばしば強調されるが、協働や創造性にはどう影響するのか。認知科学者のClin LaiとRoger Beatyは、拡散的思考を測る「代替用途課題」を用いた実験を行い、208人の参加者をChatGPTか別の人のどちらかと組むよう無作為に割り当てた。"
               },
               {
                 "t": "p",
-                "x": "“社会的推論が得意なモデルほど、人間の感情に関する教科書よりもFAQsや顧客対応の対話に頼る”と筆頭著者のGlenn Matlinは述べた。“怒りを説明する文章をいくら読んでも、相手が怒っているかどうかを見極める助けにはならない”"
+                "x": "ChatGPTと組んだ人はより長い回答を書いたが、「人同士のペアは、ChatGPTと組んだ人よりも創造的なアイデアを出した」。人同士のペアのアイデアは、より独自性が高く多様でもあった。本を防音材として使うなど、AIの個々の提案が創造的なこともあったが、ChatGPTは別々の多くのセッションで同じアイデアを示したため、アイデアの集まりはより均質になった。"
               },
               {
                 "t": "p",
-                "x": "監査の対象は、学習データが十億件を超える文書からなるAi2のオープンソースモデルOlmo 3だ。ChatGPTとClaudeは学習データを開示していない。指導教員(Adviser)のMark Riedlは、モデルが共感を学ぶ文書をエンジニアが増やしたり減らしたりできると述べた。論文はConference on Language Modelingで発表された(arXiv, DOI: 10.48550/arxiv.2606.19625)。"
+                "x": "著者らは、似たデータで次に来る可能性が最も高い語を予測するよう訓練された大規模言語モデルは、収束しやすいと指摘する。意味的距離で測ると、他者と協働することによる創造性の利点は、協働が進むにつれて強まった。"
+              },
+              {
+                "t": "p",
+                "x": "ペルソナ・プロンプティングはChatGPTのアイデアの多様性を高めたが、その幅はなお人間の書き手に及ばなかった。彼らの助言は、AIと話す前にまず人と話すことだ。研究はComputers in Human Behaviorに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM的共情能力\n源自客服对话",
-          "body": "Georgia Tech对Olmo 3的审计发现，社会推理更依赖FAQs等对话而非教科书。",
-          "mini_headline": "LLM的共情从何而来",
+          "headline": "AI出点子更快\n人与人合作更有创意",
+          "body": "一项208人的研究发现，与ChatGPT搭档回答更长，但真人搭档的点子更有创意。",
+          "mini_headline": "AI快，人更有创意",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech的研究人员开发了一个神经框架，用LLM对模型进行审计，估算文档、对话记录及其他数据源对模型输出的影响，以考察训练数据如何塑造共情与社会推理能力。"
+                "x": "生成式AI带来的效率提升常被宣扬，但它如何影响协作与创造力？认知科学家Clin Lai和Roger Beaty用衡量发散思维的“替代用途任务”做了一项实验，将208名参与者随机分配与ChatGPT或另一个人合作。"
               },
               {
                 "t": "p",
-                "x": "“擅长社会推理的模型会更少依赖关于人类情绪的教科书，而更多依赖FAQs或客服对话，”第一作者Glenn Matlin表示，“它可以随意阅读解释愤怒的文本，但这并不能帮助它判断一个人是否在生气。”"
+                "x": "与ChatGPT合作的人写出的回答更长，“但真人搭档想出的点子比与ChatGPT合作的人更有创意。”真人搭档的点子也更独特、更多样。AI的个别建议也可能很有创意，比如把书当作消音材料，但ChatGPT在许多彼此独立的会话中给出了同一个点子，使其点子池更趋同质。"
               },
               {
                 "t": "p",
-                "x": "此次审计针对的是Ai2的开源模型Olmo 3，其训练数据包含超过十亿份文档；ChatGPT和Claude则未公开各自的训练数据。导师（Adviser）Mark Riedl表示，工程师可以增加或减少模型学习共情所依赖的文档。该论文已在Conference on Language Modeling上发表（arXiv, DOI: 10.48550/arxiv.2606.19625）。"
+                "x": "作者指出，大型语言模型基于相似数据训练，用于预测最可能出现的下一个词，因此往往趋于一致。以语义距离衡量，与他人合作带来的创造力优势会随着协作推进而增强。"
+              },
+              {
+                "t": "p",
+                "x": "人设提示提高了ChatGPT点子的多样性，但其范围仍不及人类写作者。他们的建议是：先和人聊，再和AI聊。该研究发表于Computers in Human Behavior。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La empatía de los LLM se remonta\na chats de atención al cliente",
-          "body": "Una auditoría de Georgia Tech sobre Olmo 3 halló que su razonamiento social se apoya más en FAQs que en manuales.",
-          "mini_headline": "De dónde viene la empatía de los LLM",
+          "headline": "Con AI, ideas más rápidas;\nentre personas, más creativas",
+          "body": "En un estudio con 208 personas, con ChatGPT hubo respuestas más largas, pero las parejas humanas fueron más creativas.",
+          "mini_headline": "La AI es rápida; las personas, creativas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Georgia Tech han desarrollado un marco neuronal que audita un modelo con un LLM y estima la influencia que documentos, transcripciones y otras fuentes de datos tienen en sus respuestas, para examinar cómo las fuentes de entrenamiento moldean la empatía y el razonamiento social."
+                "x": "A menudo se pregonan las mejoras de productividad de la AI generativa, pero ¿cómo afecta a la colaboración y la creatividad? Los científicos cognitivos Clin Lai y Roger Beaty realizaron un experimento con la tarea de usos alternativos, una medida del pensamiento divergente, y asignaron al azar a 208 participantes a trabajar con ChatGPT o con otra persona."
               },
               {
                 "t": "p",
-                "x": "“Los modelos que son buenos en razonamiento social dependerán menos de los libros de texto sobre emociones humanas y más de las FAQs o de los diálogos de atención al cliente”, dijo el autor principal, Glenn Matlin. “Puede leer todo lo que quiera de textos que explican la ira, pero eso no le ayudaría a determinar si alguien siente ira.”"
+                "x": "Quienes trabajaron con ChatGPT escribieron respuestas más largas, \"pero las parejas humanas propusieron ideas más creativas que las personas que trabajaron con ChatGPT\". Las ideas de las parejas humanas también fueron más distintas y diversas. Algunas sugerencias de la AI podían ser creativas, como usar un libro para amortiguar el sonido, pero ChatGPT presentó esa misma idea en muchas sesiones distintas, lo que hizo más homogéneo su conjunto de ideas."
               },
               {
                 "t": "p",
-                "x": "La auditoría abarcó Olmo 3, el modelo de código abierto de Ai2, cuyos datos de entrenamiento comprenden más de mil millones de documentos; ChatGPT y Claude no revelan los suyos. El asesor (Adviser) Mark Riedl dijo que los ingenieros podrían darle a un modelo más o menos documentos de aquellos con los que aprende empatía. El artículo se presentó en la Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
+                "x": "Los autores señalan que los grandes modelos de lenguaje, entrenados con datos similares para predecir las siguientes palabras más probables, tienden a converger. El beneficio creativo de trabajar con otra persona se hizo más fuerte a medida que avanzaba la colaboración, según la distancia semántica."
+              },
+              {
+                "t": "p",
+                "x": "El prompting con personajes aumentó la diversidad de ideas de ChatGPT, pero su variedad siguió por debajo de la de los escritores humanos. Su consejo: hablar con una persona antes de hablar con la AI. El estudio se publicó en Computers in Human Behavior."
               }
             ]
           }
@@ -1553,109 +1517,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLM 공감의 뿌리는\n고객 상담 대화",
-          "body": "Georgia Tech는 Olmo 3의 사회적 추론이 FAQs에 기댄다고 봤다.",
-          "mini_headline": "LLM 공감은 어디서 오나",
+          "headline": "AI 아이디어는 빨라도\n창의성은 사람끼리",
+          "body": "208명 실험에서 ChatGPT와는 답이 길었고 사람끼리는 더 창의적이었다.",
+          "mini_headline": "AI는 빠르고, 사람은 창의적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech 연구진은 LLM으로 모델을 감사해 문서, 대화록 등 여러 데이터 출처가 모델 출력에 미치는 영향을 추정하는 신경망 프레임워크를 개발했다. 학습 데이터가 공감과 사회적 추론을 어떻게 형성하는지 살피기 위해서다."
+                "x": "생성형 AI의 생산성 향상은 자주 강조되지만, 협업과 창의성에는 어떤 영향을 줄까? 인지과학자 Clin Lai와 Roger Beaty는 발산적 사고를 측정하는 '대체 용도 과제'로 실험을 진행하며 참가자 208명을 ChatGPT 또는 다른 사람과 함께 작업하도록 무작위로 배정했다."
               },
               {
                 "t": "p",
-                "x": "주저자 Glenn Matlin은 “사회적 추론에 능한 모델은 인간 감정에 관한 교과서보다 FAQs나 고객 상담 대화에 더 많이 기댄다”고 말했다. 그는 “분노를 설명하는 글을 아무리 많이 읽어도, 상대가 화가 났는지 판단하는 데는 도움이 되지 않는다”고 했다."
+                "x": "ChatGPT와 작업한 사람들은 더 긴 답을 썼지만, \"사람끼리 짝을 이룬 쪽이 ChatGPT와 작업한 사람들보다 더 창의적인 아이디어를 냈다.\" 사람 짝의 아이디어는 더 독특하고 다양하기도 했다. 책을 방음재로 쓰는 것처럼 AI의 개별 제안이 창의적일 때도 있었지만, ChatGPT는 서로 다른 여러 세션에서 같은 아이디어를 내놓아 아이디어 풀이 더 균질해졌다."
               },
               {
                 "t": "p",
-                "x": "감사 대상은 학습 데이터가 십억 건이 넘는 문서로 이뤄진 Ai2의 오픈소스 모델 Olmo 3였다. ChatGPT와 Claude는 학습 데이터를 공개하지 않는다. 지도교수(Adviser) Mark Riedl은 엔지니어들이 모델이 공감을 배우는 문서를 더 많이, 혹은 더 적게 줄 수 있다고 말했다. 논문은 Conference on Language Modeling에서 발표됐다(arXiv, DOI: 10.48550/arxiv.2606.19625)."
+                "x": "저자들은 비슷한 데이터로 다음에 올 가능성이 가장 높은 단어를 예측하도록 학습된 대규모 언어 모델이 한곳으로 수렴하는 경향이 있다고 지적한다. 의미적 거리로 측정한 결과, 다른 사람과 함께 일하는 데서 오는 창의성 이점은 협업이 진행될수록 커졌다."
+              },
+              {
+                "t": "p",
+                "x": "페르소나 프롬프팅은 ChatGPT의 아이디어 다양성을 높였지만, 그 폭은 여전히 사람 작성자에 못 미쳤다. 연구진의 조언은 AI와 대화하기 전에 먼저 사람과 이야기하라는 것이다. 연구는 Computers in Human Behavior에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMの共感の源は\n顧客対応の会話",
-          "body": "Georgia TechはOlmo 3の社会的推論が教科書よりFAQsに頼ると示した。",
-          "mini_headline": "LLMの共感はどこから来るのか",
+          "headline": "AIでアイデアは速く\n人同士ならより創造的",
+          "body": "208人の研究で、ChatGPTと組むと回答は長いが、人同士の方がより創造的だった。",
+          "mini_headline": "AIは速く、人は創造的",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Georgia Techの研究者らは、LLMでモデルを監査し、文書や会話記録などのデータ源が出力に与える影響を推定するニューラルフレームワークを開発した。学習データが共感や社会的推論をどう形づくるかを調べるためだ。"
+                "x": "生成AIの生産性向上はしばしば強調されるが、協働や創造性にはどう影響するのか。認知科学者のClin LaiとRoger Beatyは、拡散的思考を測る「代替用途課題」を用いた実験を行い、208人の参加者をChatGPTか別の人のどちらかと組むよう無作為に割り当てた。"
               },
               {
                 "t": "p",
-                "x": "“社会的推論が得意なモデルほど、人間の感情に関する教科書よりもFAQsや顧客対応の対話に頼る”と筆頭著者のGlenn Matlinは述べた。“怒りを説明する文章をいくら読んでも、相手が怒っているかどうかを見極める助けにはならない”"
+                "x": "ChatGPTと組んだ人はより長い回答を書いたが、「人同士のペアは、ChatGPTと組んだ人よりも創造的なアイデアを出した」。人同士のペアのアイデアは、より独自性が高く多様でもあった。本を防音材として使うなど、AIの個々の提案が創造的なこともあったが、ChatGPTは別々の多くのセッションで同じアイデアを示したため、アイデアの集まりはより均質になった。"
               },
               {
                 "t": "p",
-                "x": "監査の対象は、学習データが十億件を超える文書からなるAi2のオープンソースモデルOlmo 3だ。ChatGPTとClaudeは学習データを開示していない。指導教員(Adviser)のMark Riedlは、モデルが共感を学ぶ文書をエンジニアが増やしたり減らしたりできると述べた。論文はConference on Language Modelingで発表された(arXiv, DOI: 10.48550/arxiv.2606.19625)。"
+                "x": "著者らは、似たデータで次に来る可能性が最も高い語を予測するよう訓練された大規模言語モデルは、収束しやすいと指摘する。意味的距離で測ると、他者と協働することによる創造性の利点は、協働が進むにつれて強まった。"
+              },
+              {
+                "t": "p",
+                "x": "ペルソナ・プロンプティングはChatGPTのアイデアの多様性を高めたが、その幅はなお人間の書き手に及ばなかった。彼らの助言は、AIと話す前にまず人と話すことだ。研究はComputers in Human Behaviorに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM的共情能力\n源自客服对话",
-          "body": "Georgia Tech对Olmo 3的审计发现，社会推理更依赖FAQs等对话而非教科书。",
-          "mini_headline": "LLM的共情从何而来",
+          "headline": "AI出点子更快\n人与人合作更有创意",
+          "body": "一项208人的研究发现，与ChatGPT搭档回答更长，但真人搭档的点子更有创意。",
+          "mini_headline": "AI快，人更有创意",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech的研究人员开发了一个神经框架，用LLM对模型进行审计，估算文档、对话记录及其他数据源对模型输出的影响，以考察训练数据如何塑造共情与社会推理能力。"
+                "x": "生成式AI带来的效率提升常被宣扬，但它如何影响协作与创造力？认知科学家Clin Lai和Roger Beaty用衡量发散思维的“替代用途任务”做了一项实验，将208名参与者随机分配与ChatGPT或另一个人合作。"
               },
               {
                 "t": "p",
-                "x": "“擅长社会推理的模型会更少依赖关于人类情绪的教科书，而更多依赖FAQs或客服对话，”第一作者Glenn Matlin表示，“它可以随意阅读解释愤怒的文本，但这并不能帮助它判断一个人是否在生气。”"
+                "x": "与ChatGPT合作的人写出的回答更长，“但真人搭档想出的点子比与ChatGPT合作的人更有创意。”真人搭档的点子也更独特、更多样。AI的个别建议也可能很有创意，比如把书当作消音材料，但ChatGPT在许多彼此独立的会话中给出了同一个点子，使其点子池更趋同质。"
               },
               {
                 "t": "p",
-                "x": "此次审计针对的是Ai2的开源模型Olmo 3，其训练数据包含超过十亿份文档；ChatGPT和Claude则未公开各自的训练数据。导师（Adviser）Mark Riedl表示，工程师可以增加或减少模型学习共情所依赖的文档。该论文已在Conference on Language Modeling上发表（arXiv, DOI: 10.48550/arxiv.2606.19625）。"
+                "x": "作者指出，大型语言模型基于相似数据训练，用于预测最可能出现的下一个词，因此往往趋于一致。以语义距离衡量，与他人合作带来的创造力优势会随着协作推进而增强。"
+              },
+              {
+                "t": "p",
+                "x": "人设提示提高了ChatGPT点子的多样性，但其范围仍不及人类写作者。他们的建议是：先和人聊，再和AI聊。该研究发表于Computers in Human Behavior。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La empatía de los LLM se remonta\na chats de atención al cliente",
-          "body": "Una auditoría de Georgia Tech sobre Olmo 3 halló que su razonamiento social se apoya más en FAQs que en manuales.",
-          "mini_headline": "De dónde viene la empatía de los LLM",
+          "headline": "Con AI, ideas más rápidas;\nentre personas, más creativas",
+          "body": "En un estudio con 208 personas, con ChatGPT hubo respuestas más largas, pero las parejas humanas fueron más creativas.",
+          "mini_headline": "La AI es rápida; las personas, creativas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Georgia Tech han desarrollado un marco neuronal que audita un modelo con un LLM y estima la influencia que documentos, transcripciones y otras fuentes de datos tienen en sus respuestas, para examinar cómo las fuentes de entrenamiento moldean la empatía y el razonamiento social."
+                "x": "A menudo se pregonan las mejoras de productividad de la AI generativa, pero ¿cómo afecta a la colaboración y la creatividad? Los científicos cognitivos Clin Lai y Roger Beaty realizaron un experimento con la tarea de usos alternativos, una medida del pensamiento divergente, y asignaron al azar a 208 participantes a trabajar con ChatGPT o con otra persona."
               },
               {
                 "t": "p",
-                "x": "“Los modelos que son buenos en razonamiento social dependerán menos de los libros de texto sobre emociones humanas y más de las FAQs o de los diálogos de atención al cliente”, dijo el autor principal, Glenn Matlin. “Puede leer todo lo que quiera de textos que explican la ira, pero eso no le ayudaría a determinar si alguien siente ira.”"
+                "x": "Quienes trabajaron con ChatGPT escribieron respuestas más largas, \"pero las parejas humanas propusieron ideas más creativas que las personas que trabajaron con ChatGPT\". Las ideas de las parejas humanas también fueron más distintas y diversas. Algunas sugerencias de la AI podían ser creativas, como usar un libro para amortiguar el sonido, pero ChatGPT presentó esa misma idea en muchas sesiones distintas, lo que hizo más homogéneo su conjunto de ideas."
               },
               {
                 "t": "p",
-                "x": "La auditoría abarcó Olmo 3, el modelo de código abierto de Ai2, cuyos datos de entrenamiento comprenden más de mil millones de documentos; ChatGPT y Claude no revelan los suyos. El asesor (Adviser) Mark Riedl dijo que los ingenieros podrían darle a un modelo más o menos documentos de aquellos con los que aprende empatía. El artículo se presentó en la Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
+                "x": "Los autores señalan que los grandes modelos de lenguaje, entrenados con datos similares para predecir las siguientes palabras más probables, tienden a converger. El beneficio creativo de trabajar con otra persona se hizo más fuerte a medida que avanzaba la colaboración, según la distancia semántica."
+              },
+              {
+                "t": "p",
+                "x": "El prompting con personajes aumentó la diversidad de ideas de ChatGPT, pero su variedad siguió por debajo de la de los escritores humanos. Su consejo: hablar con una persona antes de hablar con la AI. El estudio se publicó en Computers in Human Behavior."
               }
             ]
           }

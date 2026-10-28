@@ -1,66 +1,64 @@
 {
   "section": "science",
-  "now_iso": "2026-10-27T22:04:00Z",
+  "now_iso": "2026-10-28T22:04:45Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "OpenAI just scooped mathematicians' work on another million-dollar problem",
-      "url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
-      "source": "Scientific American",
+      "title": "Forecasting 'tipping points' with AI climate simulation",
+      "url": "https://phys.org/news/2026-10-ai-climate-simulation.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-27T14:10:00-04:00",
-      "excerpt": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics: OpenAI says its models produced proofs in mathematics, computer science and quantum physics, one of which touches a million-dollar problem.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/be949c97-6aba-446d-bd3a-f2e111fa9566/Quantum-AI-math-blob.jpeg?m=1793127414.515&w=1200",
+      "published_iso": "2026-10-16T12:00:00-04:00",
+      "excerpt": "Caltech, CU Boulder and NVIDIA researchers used a recurrent neural operator to forecast tipping points in simplified climate and wing-airflow simulations, predicting a simulated loss of ocean low clouds more than two years ahead with about 11 days of timing error (PNAS).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-tipping-po.jpg",
       "history_match": {
-        "score": 0.361,
-        "date": "2026-10-23",
-        "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
-        "title": "The inside story behind OpenAI's million-dollar math proof",
+        "score": 0.488,
+        "date": "2026-10-16",
+        "url": "https://www.eurekalert.org/news-releases/1147991",
+        "title": "Neural operator predicts when tipping points will occur in climate and turbulence models",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "When simulations fall short, this spectrometer learns for itself",
+      "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-10-28T12:40:08-04:00",
+      "excerpt": "Aarhus University researchers used AI to let an NMR spectrometer learn the best pulse sequence directly from the sample, instead of relying on simulations, to boost weak signals that limit what the instrument can see.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+      "history_match": {
+        "score": 0.214,
+        "date": "2026-10-26",
+        "url": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html",
+        "title": "App's AI 'eyes' for blind users fall short, researchers find",
         "band": "related"
       }
     },
     {
-      "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
-      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
-      "source": "Scientific American",
+      "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
+      "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-27T10:30:00-04:00",
-      "excerpt": "OpenAI and Anthropic released AI-generated results that claim to resolve major problems in math, physics and computer science, but like other recent AI 'slop drops' the releases are already controversial among researchers. Same cluster as the OpenAI-proofs item; the curator should pick one.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+      "published_iso": "2026-10-27T16:20:15-04:00",
+      "excerpt": "University of Missouri researchers used an AI-designed genome-editing tool to create rice plants that resist bacterial blight, a disease that can destroy harvests across Asia and Africa.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg"
+    },
+    {
+      "title": "AI may quickly generate ideas, but working with people leads to more creative ones",
+      "url": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-10-28T11:20:17-04:00",
+      "excerpt": "A study comparing idea generation with generative AI versus human collaboration finds AI is faster but people working together produce more creative ideas.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
       "history_match": {
-        "score": 0.172,
-        "date": "2026-10-23",
-        "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
-        "title": "The inside story behind OpenAI's million-dollar math proof",
+        "score": 0.159,
+        "date": "2026-10-14",
+        "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+        "title": "Scientists worry AI is stealing their ideas",
         "band": "related"
       }
-    },
-    {
-      "title": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage",
-      "url": "https://thequantuminsider.com/2026/10/27/openai-computing-claim-faces-review-raising-questions-about-quantum-advantage/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-10-27T08:55:21+00:00",
-      "excerpt": "Researchers will examine an AI-generated proof claiming to refute the Exponential Time Hypothesis, a long-standing assumption about how hard certain computing problems are, and the article covers what that would mean for quantum-advantage arguments.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Branching-paths-in-quantum-complexity-1.png"
-    },
-    {
-      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
-      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
-      "source": "Phys.org (SLAC)",
-      "category": "science",
-      "published_iso": "2026-10-27T15:10:01-04:00",
-      "excerpt": "SLAC's SPINE runs staged machine-learning models that find features in liquid-argon detector images, identify individual particles and rebuild whole neutrino interactions. It underpins ICARUS's first search for sterile-neutrino oscillation (arXiv 2603.22557).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg"
-    },
-    {
-      "title": "New neural framework could make LLMs more empathetic",
-      "url": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html",
-      "source": "Tech Xplore (Georgia Tech)",
-      "category": "science",
-      "published_iso": "2026-10-27T10:40:08-04:00",
-      "excerpt": "Georgia Tech researchers built a 'capability provenance' framework that traces which training-data sources drive an LLM's behaviour. Auditing Olmo 3, they found that stronger social reasoning and empathy came from interpersonal dialogue data such as FAQs and customer-service chats, not from textbooks (COLM; arXiv 2606.19625).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neural-framework.jpg"
     },
     {
       "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
@@ -68,10 +66,10 @@
       "source": "Live Science",
       "category": "science",
       "published_iso": "2026-10-26T09:00:00Z",
-      "excerpt": "In a set of problem-solving experiments, people who used AI to get answers were more likely to give up and fail once that help was removed than people who never had AI help. A cognitive-offloading study.",
+      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once that help was removed, compared with people who never used AI.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg",
       "history_match": {
-        "score": 0.175,
+        "score": 0.186,
         "date": "2026-10-10",
         "url": "https://www.eurekalert.org/news-releases/1147258",
         "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
@@ -79,15 +77,24 @@
       }
     },
     {
+      "title": "Is AI making you lazier?",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/is-ai-making-you-lazier",
+      "source": "Live Science",
+      "category": "science",
+      "published_iso": "2026-10-27T20:13:27Z",
+      "excerpt": "Following a study showing people who rely on AI for basic tasks like math became less motivated, Live Science polled readers on whether AI is eroding their effort and skills.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fesreS5Z47ZikP5mVmRyj3-2000-80.jpg"
+    },
+    {
       "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
       "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
       "source": "Quanta Magazine",
       "category": "science",
       "published_iso": "2026-10-19T15:40:26+00:00",
-      "excerpt": "Unlike other recent AI proofs, this one has been unpacked by human experts, and one mathematician called the implications 'staggering'.",
+      "excerpt": "Unlike other recent AI proofs, the AI-generated proof of the quasi-Riemann hypothesis has been unpacked by human experts, and one mathematician calls the implications 'staggering.'",
       "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Social.jpg",
       "history_match": {
-        "score": 0.253,
+        "score": 0.285,
         "date": "2026-10-02",
         "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
         "title": "AI's failed attempt to crack the Riemann hypothesis led a mathematician to a breakthrough",
@@ -95,38 +102,58 @@
       }
     },
     {
-      "title": "Solving a 31-year-old grand challenge in mathematics: the KLS conjecture",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "source": "Microsoft Research",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://allenai.org/blog/novelty-bench",
+      "source": "Ai2",
       "category": "science",
-      "published_iso": "2026-10-21T16:00:00+00:00",
-      "excerpt": "A Microsoft Research scientist and a collaborator proved the 1995 Kannan-Lovasz-Simonovits conjecture in high-dimensional convex geometry. They worked with AI agents in a structured, human-directed process that explored more than 100 candidate approaches before finding a recursive criterion.",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg"
+      "published_iso": "2026-10-27T00:00:00-08:00",
+      "excerpt": "Ai2's Old Ideas, Novel Problems benchmark tests how reliably LLMs judge the novelty of research ideas and finds small changes to the evaluation setup can flip their verdicts.",
+      "og_image": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
     },
     {
-      "title": "AI designs functional enzyme components that could help expand drug discovery",
-      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
-      "source": "Phys.org (HIPS)",
+      "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives",
+      "url": "https://allenai.org/blog/olmocr-2-historical-archives",
+      "source": "Ai2",
       "category": "science",
-      "published_iso": "2026-10-21T16:20:14-04:00",
-      "excerpt": "HIPS researchers combined pretrained AI models with experiments to design 76 new thiolation domains for non-ribosomal peptide synthetases. Several worked in living cells, and some raised product yields up to threefold over natural versions (Nature Communications, 10.1038/s41467-026-77963-6).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-aids-in-the-develop.jpg"
+      "published_iso": "2026-10-28T00:00:00-08:00",
+      "excerpt": "Researchers are adapting Ai2's open olmOCR 2 model to make historical photo libraries searchable locally and to improve transcription of handwritten archaeological records.",
+      "og_image": "https://www.datocms-assets.com/64837/1793156211-olmocr-featured.png"
     },
     {
-      "title": "Forecasting 'tipping points' with AI climate simulation",
-      "url": "https://phys.org/news/2026-10-ai-climate-simulation.html",
-      "source": "Phys.org (Caltech)",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
       "category": "science",
-      "published_iso": "2026-10-16",
-      "excerpt": "A recurrent neural operator with built-in memory of how the physics changes flagged a simulated collapse of low ocean clouds more than two years ahead, with a timing error of about 11 days. It also anticipated an abrupt loss of wing lift in airflow simulations (Caltech/CU Boulder/NVIDIA, PNAS 10.1073/pnas.2600331123). The page shows a date only.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-tipping-po.jpg",
-      "history_match": {
-        "score": 0.388,
-        "date": "2026-10-16",
-        "url": "https://www.eurekalert.org/news-releases/1147991",
-        "title": "Neural operator predicts when tipping points will occur in climate and turbulence models",
-        "band": "related"
-      }
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "excerpt": "Google DeepMind shows its Antigravity agentic platform acting as a science workbench that uses the ProtNLM model to scan millions of uncharacterized UniProt proteins and prioritize candidate antimicrobial peptides in a single session.",
+      "og_image": "https://lh3.googleusercontent.com/I6-x5Sp8EpQG9Kgas50ZDrM7EA54uJHfQs6GOs6CQsWJo2VpNZB0toOQKY93YkTo9VcAjoYAP9HgIF15Rp8lAQFAjlMp9V4xeYTIWPYF9jx_lP_UrA=w1440-h810-n-nu"
+    },
+    {
+      "title": "We'll pay to get revenge on an algorithm, even though it can't feel a thing",
+      "url": "https://www.psypost.org/well-pay-to-get-revenge-on-an-algorithm-even-though-it-cant-feel-a-thing/",
+      "source": "PsyPost",
+      "category": "science",
+      "published_iso": "2026-10-27T11:00:47+00:00",
+      "excerpt": "In experiments with more than 6,000 participants, people sacrificed their own money to retaliate against unfair machine decisions, even though an algorithm cannot feel the loss.",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/05/artificial-intelligence.jpg"
+    },
+    {
+      "title": "Q&A: How AI came to model the 'messy' human mind",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-10-23T04:00:00Z",
+      "excerpt": "MIT's Benjamin Lindquist discusses his research on how randomness and irrationality were built into early AI models designed to mimic human creativity.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg"
+    },
+    {
+      "title": "Making machines that can listen",
+      "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-10-28T04:00:00Z",
+      "excerpt": "MIT professor Paris Smaragdis works on machine listening so AI can hear and understand sounds the way humans do, improving artificial perception across applications.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Paris-Smaragdis_01-press.jpg"
     },
     {
       "title": "To detect deepfake videos, researchers turn to the physics of light",
@@ -134,10 +161,10 @@
       "source": "Physics World",
       "category": "science",
       "published_iso": "2026-10-21T14:00:50+00:00",
-      "excerpt": "UCLA researchers paired a digital encoder with a free-space optical decoder to score video authenticity. It reached about 97.8% accuracy on Celeb-DF batches while using less energy than comparable digital neural networks (eLight).",
+      "excerpt": "An optical technique for detecting deepfake videos claims 97.8% accuracy while using less energy than digital neural networks with similar performance.",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg",
       "history_match": {
-        "score": 0.281,
+        "score": 0.301,
         "date": "2026-10-02",
         "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
         "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
@@ -145,70 +172,77 @@
       }
     },
     {
-      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-      "source": "Google Research",
+      "title": "A unified coarse-grained neural network potential for the dynamics of biomolecular complexes",
+      "url": "https://arxiv.org/abs/2610.37606v1",
+      "source": "arXiv",
       "category": "science",
-      "published_iso": "2026-10-27T17:35:00+00:00",
-      "excerpt": "Google Research adds a sleep phase to continual learning so that LLMs can keep absorbing new facts and improving their reasoning while avoiding catastrophic forgetting and fixed knowledge cutoffs. This is ML method work with a neuroscience-inspired angle, so it is lower priority for science.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+      "published_iso": "2026-10-27T17:37:10Z",
+      "excerpt": "AMARO v2.0 is a coarse-grained neural network potential that keeps all heavy atoms and treats solvent implicitly, giving one shared representation for proteins, drug-like molecules and their complexes to reach rare events atomistic molecular dynamics struggles with.",
+      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
-      "title": "New AI-powered mosquito trap could help curb dengue outbreaks",
-      "url": "https://techxplore.com/news/2026-10-ai-powered-mosquito-curb-dengue.html",
-      "source": "Tech Xplore (USF)",
+      "title": "Interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "source": "MIT Technology Review",
       "category": "science",
-      "published_iso": "2026-10-26T10:40:01-04:00",
-      "excerpt": "A smart trap from the USF startup Digitomy uses built-in cameras and AI to identify mosquito species with more than 98% accuracy, supporting real-time vector surveillance during Florida's dengue outbreak. Low priority: it is applied surveillance.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-powered-mosquit.jpg"
+      "published_iso": "2026-10-21T05:00:00-04:00",
+      "excerpt": "Machine learning now detects animal calls and identifies which individual made them, as with the Earth Species Project's work on carrion crows, and researchers think more advanced AI and LLM-style models could help decode animal communication.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Interspecies-Final.jpg?resize=1200,600"
     },
     {
-      "title": "Q&A: How AI came to model the 'messy' human mind",
-      "url": "https://techxplore.com/news/2026-10-qa-ai-messy-human-mind.html",
-      "source": "Tech Xplore (MIT)",
+      "title": "Astrolab's upcoming rover will run the first LLMs on the moon",
+      "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+      "source": "MIT Technology Review",
       "category": "science",
-      "published_iso": "2026-10-23T12:30:01-04:00",
-      "excerpt": "MIT historian Benjamin Lindquist argues that generative AI models are rooted in ideas from mid-20th-century engineers who thought some irrationality was essential for a machine that could think like a human. Low priority: this is history of science.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-hallucination-1.jpg"
+      "published_iso": "2026-10-20T16:07:21-04:00",
+      "excerpt": "Astrolab's FLIP rover will carry an onboard AI demonstration running large language models on the lunar surface, a step toward more autonomy in future space missions.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/flip-wheel.jpg?resize=1200,600",
+      "history_match": {
+        "score": 0.419,
+        "date": "2026-10-21",
+        "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+        "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "'We were looking at it wrong': The explosive claim that's upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "published_iso": "2026-10-19T13:45:55-04:00",
+      "excerpt": "An exclusive interview with researcher Nick Cammarata, whose viral 26,000-word post argues LLM internals are less complicated than assumed, a claim reshaping interpretability research.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600"
+    },
+    {
+      "title": "Pasqal Launches AI Workflow for Cloud Quantum Experiments",
+      "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-10-28T12:07:54+00:00",
+      "excerpt": "Pasqal's new AI-driven cloud workflow prepares quantum jobs, validates them in emulation, and processes the results into scientific observables.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png",
+      "history_match": {
+        "score": 0.187,
+        "date": "2026-10-24",
+        "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+        "title": "Google launches $150,000 AI competition to reduce quantum computing demands",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-28",
-      "title": "MD Anderson AI flags lung cancer patients at risk of immunotherapy side effect from routine imaging",
-      "url": "https://medicalxpress.com/news/2026-09-ai-routine-imaging-patients-treatment.html"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "AI model takes on the hardest part of forecasting: hurricane intensity",
-      "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Machine learning finds chemicals that safely keep honey bees away from pesticide-treated crops",
-      "url": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "IonQ tests quantum generative models for change detection on real satellite radar",
-      "url": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "AtomFlow: flow-matching AI predicts 3D reactant structures while conserving every atom",
-      "url": "https://www.eurekalert.org/news-releases/1144666"
-    },
     {
       "date": "2026-09-29",
       "title": "AI가 짚은 BRSK1 변이, 초파리에서 확인했다",
@@ -908,6 +942,31 @@
       "date": "2026-10-27",
       "title": "AI could turn scientific papers into research assistants",
       "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "AI designs functional enzyme components that could help expand drug discovery",
+      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
+      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "New neural framework could make LLMs more empathetic",
+      "url": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Solving a 31-year-old grand challenge in mathematics: the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
+      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/"
     }
   ]
 }

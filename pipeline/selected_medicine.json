@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "medicine",
   "user_selection": null,
   "picks": [
@@ -9,14 +9,14 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "AI May Help Detect Rare Sperm in Men With Azoospermia",
-      "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123609",
-      "source": "MedPage Today",
-      "published_iso": "2026-10-27T20:30:43Z",
-      "og_image": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg",
-      "excerpt": "An AI system that scans testicular tissue samples for rare sperm in men with azoospermia was presented at ASRM 2026; researchers said it has already resulted in three live births.",
+      "title": "Zocdoc invites AI agents to book appointments on behalf of patients",
+      "url": "https://www.healthcaredive.com/news/zocdoc-invites-ai-agents-to-book-appointments-on-behalf-of-patients/873035/",
+      "source": "Healthcare Dive",
+      "published_iso": "2026-10-28T10:49:30-04:00",
+      "og_image": "https://imgproxy.divecdn.com/elahFCfzHG_iBMAh9B7qxCmYkTvmKes7ye5YTqcmRmg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+      "excerpt": "It’s a “contrarian move” for the company as much of the industry remains wary of agentic AI, according to CEO Dr. Oliver Kharraz.",
       "lang": "en",
-      "rationale": "A clinical result tied to real patient outcomes: AI that finds rare sperm in testicular tissue from men with azoospermia has already led to three live births (ASRM 2026). Nothing in the 30-day history covers fertility or andrology."
+      "rationale": "A patient-access change: Zocdoc is opening its booking system to third-party AI agents that schedule real appointments for patients. The 30-day history has no Zocdoc or agentic-booking card. The 10-16 AMA agentic-AI framework was governance guidance, not a product."
     },
     {
       "rank": 2,
@@ -24,14 +24,14 @@
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "ChatGPT-5 misses half of distal radius fractures on x-rays",
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-27T19:31:26Z",
+      "title": "Radiographer fracture detection with and without AI assistance in prospective emergency department use",
+      "url": "https://www.nature.com/articles/s41746-026-03313-x",
+      "source": "npj Digital Medicine (Nature)",
+      "published_iso": "2026-10-27T00:00:00Z",
       "og_image": null,
-      "excerpt": "Rambam Health Care Campus researchers (Emergency Radiology, Oct 26) found ChatGPT-5 had 51.2% sensitivity and 61.6% accuracy on 370 wrist x-rays, missing 83 of 170 distal radius fractures.",
+      "excerpt": "Artificial intelligence (AI) systems for fracture detection perform strongly in controlled settings, but prospective real-world evidence is limited. In a three-month deployment in one emergency department, thirteen radiographers in a radiographer-led screening programme independently interpreted 249",
       "lang": "en",
-      "rationale": "A patient-safety warning that clinicians can act on: a general-purpose chatbot missed 83 of 170 wrist fractures (51.2% sensitivity). The 10-10 GPT-5 card was a multimodal diagnosis benchmark, and the 10-16 card was about detecting AI-generated chest x-rays. Neither is this study."
+      "rationale": "Prospective real-world evidence from a live emergency department: 13 radiographers read fractures with and without AI assistance over three months. The 10-28 ChatGPT-5 card tested a general chatbot retrospectively on wrist x-rays. This study covers a dedicated fracture-AI deployment in clinical workflow, so it is a different study."
     },
     {
       "rank": 3,
@@ -39,14 +39,14 @@
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "SIIM-CAIMI: AI triaging for ICH leads to faster turnaround times",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
+      "title": "SIIM-CAIMI: LLM pipeline tracks critical results in pediatric patients",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975424/siimcaimi-llm-pipeline-tracks-critical-results-in-pediatric-patients",
       "source": "AuntMinnie",
-      "published_iso": "2026-10-27T19:29:56Z",
+      "published_iso": "2026-10-26T18:45:21Z",
       "og_image": null,
-      "excerpt": "A multisite University of Washington study of an AI intracranial hemorrhage triage system found 79.3% sensitivity and 94.2% specificity; median report turnaround for ICH-positive head CTs fell from 214 to 201 minutes and AI-flagged patients reached admission sooner.",
+      "excerpt": "Stanford Health built an in-house LLM pipeline that flags critical results in pediatric radiology reports with 99.7% sensitivity and 97.9% specificity, replacing costly commercial tools for critical-result tracking.",
       "lang": "en",
-      "rationale": "Real-world deployment evidence from a multisite University of Washington study: AI triage for brain bleeds (ICH) shortened report turnaround, and flagged patients were admitted sooner. The history has no ICH-triage card. The 10-22 PE-detection card covered a different finding and different sites. This is the second AuntMinnie card, which is the outlet cap."
+      "rationale": "A patient-safety operations tool that a hospital built itself: Stanford's in-house LLM flags critical pediatric radiology results (99.7% sensitivity) and replaces commercial tracking tools. The 10-28 SIIM-CAIMI card was a different presentation (University of Washington ICH triage), so this is a new story."
     },
     {
       "rank": 4,
@@ -54,14 +54,14 @@
       "category": "medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Scalable drift monitoring in medical imaging AI",
-      "url": "https://www.nature.com/articles/s41746-026-03301-1",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-10-27T00:00:00Z",
-      "og_image": null,
-      "excerpt": "The integration of artificial intelligence (AI) into clinical medical imaging has advanced diagnostics but also poses challenges in maintaining long-term reliability as input data change. To address this, we present MMC+, a modular framework for scalable drift monitoring that builds on our CheXstray",
-      "lang": "en",
-      "rationale": "Post-deployment safety for clinical imaging AI: MMC+ monitors deployed models for input drift, which is the operational gap that regulators and the AMA have been raising. The 10-25 card on AI checking breast-cancer models audited trustworthiness of the models themselves. This one is about monitoring live input data, so it is distinct."
+      "title": "대웅제약, 아주대병원 씽크 공급…최대 1100병상 확대 검토",
+      "url": "https://www.dailypharm.com/user/news/343797",
+      "source": "데일리팜",
+      "published_iso": "2026-10-26T10:39:30+09:00",
+      "og_image": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/10/26/e84c568a-90d5-4c8c-a53f-32114edb092e.jpg",
+      "excerpt": "대웅제약이 아주대학교병원에 AI 기반 실시간 병상 모니터링 체계를 구축했다. 회사는 스마트 병상 모니터링 시스템 씽크(thynC)를 공급해 7개 병동 342병상에서 운영을 시작했다고 26일 밝혔다. 아주대병원은 흉부외과와 순환기내과 병동을 시작으로 응급병동과 간호·간병통합서비스 병동까지 씽크 적용 범위를 넓혔다. 현재 운영 성과를 바탕으로 향후 최대 1100병상까지 확대 도입을…",
+      "lang": "ko",
+      "rationale": "A ward-level deployment in a Korean hospital: Ajou University Hospital is running AI real-time bed monitoring (thynC) on 342 beds in 7 wards and is considering expanding to 1,100. No thynC or Ajou card exists in the history. The 10-11 Asan pediatric RRS card was a different hospital and system."
     },
     {
       "rank": 5,
@@ -69,44 +69,44 @@
       "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "UnitedHealthcare expands AI companion Avery to 21M members",
-      "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members",
+      "title": "UT Austin unveils UT Dell Medicine as it bets big on new AI-native hospital",
+      "url": "https://www.fiercehealthcare.com/health-tech/university-texas-austin-unveils-new-academic-health-system-it-builds-ai-native-hospital",
       "source": "Fierce Healthcare",
-      "published_iso": "2026-10-26T21:00:00Z",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-      "excerpt": "UnitedHealthcare is expanding Avery, its generative AI companion for care coordination, to 21 million members.",
+      "published_iso": "2026-10-27T10:30:00-04:00",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+      "excerpt": "The University of Texas at Austin unveiled Tuesday a unified academic health system, called UT Dell Medicine, that brings its clinics, Dell Medical School and the upcoming UT Dell Medical Center un",
       "lang": "en",
-      "rationale": "A patient-facing rollout: the largest U.S. insurer is putting a generative AI care-coordination companion in front of 21 million members. No UnitedHealthcare or Avery card exists in the history. The nearest payer or care-ops card is the 10-23 Sentara/Regard case-management tool, which is a different company and product."
+      "rationale": "An academic health system is designing its new hospital to be AI-native from the start, with AI at the center of the announcement rather than incidental. The history_match is the 10-10 Abridge and UT System enterprise scribe deal, which involved a different entity (the UT System) and a different event (a vendor contract), so this is new."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.medpagetoday.com/meetingcoverage/asrm/123609": {
+      "https://www.healthcaredive.com/news/zocdoc-invites-ai-agents-to-book-appointments-on-behalf-of-patients/873035/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
         "new_action": ""
       },
-      "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays": {
+      "https://www.nature.com/articles/s41746-026-03313-x": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03325-7",
+        "nearest": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
         "new_action": ""
       },
-      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times": {
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975424/siimcaimi-llm-pipeline-tracks-critical-results-in-pediatric-patients": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03418-3",
+        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03301-1": {
+      "https://www.dailypharm.com/user/news/343797": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+        "nearest": "https://www.medigatenews.com/news/1174160810",
         "new_action": ""
       },
-      "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members": {
+      "https://www.fiercehealthcare.com/health-tech/university-texas-austin-unveils-new-academic-health-system-it-builds-ai-native-hospital": {
         "verdict": "new",
-        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
         "new_action": ""
       }
     },
-    "note": "DROPPED AS DUPLICATES (30-day medicine history): Cardiovascular Business 'Clinicians from all specialties use AI to answer cardiology questions' and STAT 'OpenEvidence's JAMA paper leaves open questions' (history_match related) are the same OpenEvidence JAMA study as the 10-16 Becker's card. Radiology Business 'Radiology societies weigh in on FDA's push to regulate generative AI' and MedCity 'AMA Calls for Risk-Based GenAI Oversight' are comment letters on the FDA generative-AI docket that was published 10-23 (Healthcare Dive, developers accountable), with no new FDA decision. Radiology Business 'adapting adult radiology AI models to pediatric population' is the same study as the 10-14 Nature BME neonatal continual-learning card. STAT 'AI sandboxes are all the rage' is newsletter commentary in the running state-AI-regulation story (10-15 STAT lobbyists card, 10-07 Utah pilots), with no new decision. DELIBERATELY SKIPPED: the JAMA WISeR AI prior-authorization research letter. It is fresh, but it was swapped out of the 10-27 medicine picks because its findings are paywalled or Cloudflare-blocked and no coverage reports them, and that has not changed. NOT PICKED ON RANK: the npj prospective radiographer fracture study (it would be a second fracture card next to the ChatGPT-5 pick, and the outlet and topic spread is better without it); SIIM-CAIMI Apollo (it would be a third AuntMinnie card, over the outlet cap); and UT Dell Medicine's AI-native hospital (an institutional and organizational announcement with no change in care yet). It is the strongest runner-up if a swap is needed. CROSS-SECTION: I read the politics and science sections of published_urls.json in full, and none of the picked URLs or story subjects appear there. I did not read the other sections in full, and these medical stories are unlikely to appear in them. The orchestrator can still run its exact-grep backstop. Diversity: 4 outlets (MedPage Today x1, AuntMinnie x2, npj Digital Medicine x1, Fierce Healthcare x1). No pathogen or biosecurity content."
+    "note": "DROPPED AS DUPLICATES: BMJ 'AI recommends vastly more expensive treatment than physicians' is news coverage of the same 24-AI-system, 200-outpatient-case cost study published 10-17 (NEJM AI 'Comparative Cost of Care Recommended by LLMs versus Treating Physicians'). Cardiovascular Business 'Clinicians from all specialties use AI to answer cardiology questions' is the same OpenEvidence JAMA study (950k clinicians) as the 10-16 Becker's card. DROPPED AS BORDERLINE OFF-SCOPE: Healthcare Dive 'Prior authorization in the real world: Takeaways from Epic'. It is an interview about the CMS prior-auth API (FHIR interoperability) deadline, AI is incidental, and the story still stands with AI removed from the headline. STAT 'Why every health care AI company must face Epic' is an AI Prognosis newsletter analysis of Epic's market power, which makes it commentary rather than a new release, and it sits next to the 10-22 Epic Connectors card. The 'AI fake-ads crackdown' item the librarian flagged is not in candidates_filtered_medicine.json, so it was not considered. WITHIN-POOL: the npj fracture umbrella meta-analysis was dropped in favor of the prospective ED deployment study, keeping one fracture card. NOT PICKED ON RANK: AuntMinnie SIIM-CAIMI Apollo (an outlet and conference-series spread choice; it is the first runner-up). Counsel Health GLP-1 program (AI is secondary to a weight-management and LillyDirect commercial tie-up). npj ambient-scribe adoption (a scribe topic was published 10-27). Cardiovascular Business photon-counting CT plaque piece (expert overview, 10-19, and not on the medicine whitelist). CROSS-SECTION: I read the science section of published_urls.json and found none of the picked URLs or subjects there. I did not grep the other sections, so the orchestrator should run its exact-grep backstop. Diversity: 5 distinct outlets (Healthcare Dive, npj Digital Medicine, AuntMinnie, 데일리팜, Fierce Healthcare). No pathogen or biosecurity content."
   }
 }

@@ -1,61 +1,182 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-10-27T22:04:00Z",
+  "now_iso": "2026-10-28T22:04:45Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
-      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
-      "source": "Engadget",
+      "title": "Amazon unveils its newest lineup of Alexa devices",
+      "url": "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
+      "source": "Amazon News",
       "category": "gadgets",
-      "published_iso": "2026-10-27T18:30:00+00:00",
-      "excerpt": "A Turkish developer vibe-coded 'Claude S40', an app that lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok via a small Go server, with a reading mode and offline saving of responses.",
-      "og_image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg"
-    },
-    {
-      "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
-      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-10-26T23:07:18-07:00",
-      "excerpt": "Ollama now lets Mac users turn text into natural-sounding speech locally with Phonon, a family of small text-to-speech models from Gradium. No subscription required.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
-      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-10-27T06:00:00-07:00",
-      "excerpt": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "Apple refreshes the iMac with M6 chip, faster AI performance, and Wi-Fi 7",
-      "url": "https://www.digitaltrends.com/computing/apple-refreshes-the-imac-with-m6-chip-faster-ai-performance-and-wi-fi-7/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-10-27T06:30:21-07:00",
-      "excerpt": "Apple’s refreshed iMac brings M6 power, faster AI, Wi-Fi 7, and improved connectivity, starting at $1,499.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/New-iMac.jpg?resize=1200%2C630&ssl=1",
+      "published_iso": "2026-10-28T11:57:05.531Z",
+      "excerpt": "Five new products purpose-built for the home, powered by the latest Alexa, that help make daily life easier.",
+      "og_image": "https://assets.aboutamazon.com/dims4/default/e1ba14b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fd4%2F6b%2F26b6a7a84941977645661bb54831%2Fechoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png",
       "history_match": {
-        "score": 0.191,
-        "date": "2026-10-06",
-        "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
-        "title": "The First 'Wireless GPU' Uses Wi-Fi to Headbutt All Those AI Subscriptions",
+        "score": 0.192,
+        "date": "2026-10-10",
+        "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+        "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
         "band": "related"
       },
-      "cluster": "c3"
+      "cluster": "c0"
     },
     {
-      "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
-      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
-      "source": "Tom's Guide",
+      "title": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home - ZDNET",
+      "url": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
+      "source": "ZDNET",
       "category": "gadgets",
-      "published_iso": "2026-10-27T13:14:15Z",
-      "excerpt": "Apple's new 14-inch MacBook Pro moves to the M6 chip, which Apple says brings 30% faster graphics and 25% faster AI performance, plus up to 24 hours of battery life.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT-980-80.jpg",
-      "cluster": "c3"
+      "published_iso": "2026-10-28T11:26:34-04:00",
+      "excerpt": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable 'visual intelligence' features - but there's a kill switch.",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/EchoStudio.png",
+      "history_match": {
+        "score": 0.194,
+        "date": "2026-10-10",
+        "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+        "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
+        "band": "related"
+      },
+      "cluster": "c1"
+    },
+    {
+      "title": "Amazon unveils Alexa Home Map, letting you control your smart home in 3D",
+      "url": "https://www.digitaltrends.com/home/amazon-unveils-alexa-home-map-letting-you-control-your-smart-home-in-3d/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T08:23:10-07:00",
+      "excerpt": "Amazon has been a major player in the smart home market for years, but fresh competition from Apple may have lit a fire under it. The company has just unveiled a new lineup of Alexa devices, including Echo speakers, a smart alarm clock, a photo frame, and the Echo Show 16. On the software side, […]",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Alexa-Home-Map.jpg?resize=1200%2C630&ssl=1",
+      "history_match": {
+        "score": 0.22,
+        "date": "2026-10-10",
+        "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+        "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Google’s new Android XR tools let developers test apps without needing to buy expensive smart glasses",
+      "url": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T12:38:50-07:00",
+      "excerpt": "At the 2026 Android Dev Summit, Google has announced some interesting features coming to both Android XR and Android CLI. Developers can now build and test apps for smart glasses without owning the hardware, while Android’s command-line tools are getting upgrades that help AI coding agents test appl",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C630&ssl=1",
+      "history_match": {
+        "score": 0.231,
+        "date": "2026-10-15",
+        "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+        "title": "Google lets you make personal Android apps for free now – with just prompts",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Amazon’s New Echo Lineup Goes in the Opposite Direction of Apple HomeView - CNET",
+      "url": "https://www.cnet.com/home/smart-home/amazon-echo-apple-homeview-smart-home-devices/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T08:00:12-04:00",
+      "excerpt": "While Apple’s first home screen is small, Amazon is going bigger and more TV-oriented than ever before — but that comes with high prices.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Echo-Show-16-Stand-1920x1080-1.png",
+      "history_match": {
+        "score": 0.189,
+        "date": "2026-10-14",
+        "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Amazon’s New Alarm Clock ‘Knows’ if You’re in a Deep Sleep and Lets You Sleep Longer - CNET",
+      "url": "https://www.cnet.com/home/smart-home/amazon-echo-time-smart-alarm-clock/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T08:20:35-04:00",
+      "excerpt": "The Amazon Echo Time, launched today, has a few wild features.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_5746.jpg"
+    },
+    {
+      "title": "Amazon launches its first digital photo frame with built-in Alexa",
+      "url": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T12:00:00+00:00",
+      "excerpt": "You can tell Amazon’s Alexa Photo Frame which images you want to see.",
+      "og_image": "https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg",
+      "history_match": {
+        "score": 0.216,
+        "date": "2026-10-09",
+        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
+        "band": "related"
+      }
+    },
+    {
+      "title": "OpenAI now lets you text your Dot agent",
+      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T19:15:00+00:00",
+      "excerpt": "The feature works with both iMessage and RCS messaging.",
+      "og_image": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-10-28",
+        "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+        "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
+        "band": "related"
+      },
+      "cluster": "c7"
+    },
+    {
+      "title": "The best ways to tell if someone is using AI glasses",
+      "url": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-27T22:30:00+00:00",
+      "excerpt": "If you're concerned about being unknowingly filmed with AI glasses, check for blinking LED lights or rely on certain apps to identify them as soon as possible.",
+      "og_image": "https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg",
+      "history_match": {
+        "score": 0.156,
+        "date": "2026-10-26",
+        "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
+        "title": "Someone turned their monitor into a laser pointer firing range game using Claude Code",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
+      "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T16:59:00+00:00",
+      "excerpt": "XREAL announced that XREAL AURA, the first AR glasses running Google’s Android XR operating system, is launching today, starting at $1,100 for a limited time. While the glasses have been available for reservation since June, Xreal and Google today announced the first batch of Aura AR glasses are sla",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1",
+      "history_match": {
+        "score": 0.225,
+        "date": "2026-10-17",
+        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+        "band": "related"
+      },
+      "cluster": "c9"
+    },
+    {
+      "title": "XREAL Aura brings Android XR and Gemini to your eyes, but it'll cost you",
+      "url": "https://www.androidauthority.com/android-xr-xreal-aura-launch-3729162/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T17:00:36+00:00",
+      "excerpt": "XREAL has unveiled its Aura smart glasses, featuring Android XR, Gemini integration, and immersive experiences. Here's all you need to know.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/XREAL-Aura-connected-to-a-puck.jpg",
+      "history_match": {
+        "score": 0.217,
+        "date": "2026-10-17",
+        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+        "band": "related"
+      },
+      "cluster": "c9"
     },
     {
       "title": "Google's working on a new look for Gemini Live, and we have a sneak peek for you",
@@ -67,34 +188,68 @@
       "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175549-scaled.jpg"
     },
     {
-      "title": "Google is building a home for everything you've asked Gemini to remember",
-      "url": "https://www.androidauthority.com/google-gemini-remembered-items-feature-apk-teardown-3728147/",
+      "title": "Samsung's Android XR smart glasses are doomed to fail",
+      "url": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-doomed-3726764/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-26T18:27:22+00:00",
-      "excerpt": "Google is working on a new Gemini feature that could let you easily view and manage text and images you've asked it to remember.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/06/Google-Gemini-autocomplete-for-AI-queries-scaled.jpg",
+      "published_iso": "2026-10-28T10:00:23+00:00",
+      "excerpt": "Samsung must know public perception about smart glasses is negative, yet is doing nothing about it. It could be a costly mistake.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/ray-ban-meta-camera-scaled.jpg",
       "history_match": {
-        "score": 0.163,
-        "date": "2026-10-25",
-        "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
-        "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
+        "score": 0.229,
+        "date": "2026-10-14",
+        "url": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
+        "title": "Samsung Smart Glasses Unveiled, and They're Superlight",
         "band": "related"
       }
     },
     {
-      "title": "Gemini Live redesign makes it easier to add context to chats",
-      "url": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
-      "source": "9to5Google",
+      "title": "XREAL AURA: Wired XR glasses to watch, work, and play",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "source": "Google",
       "category": "gadgets",
-      "published_iso": "2026-10-26T19:00:50+00:00",
-      "excerpt": "Following the other big interface updates this month, Google is rolling out a small 'plus' redesign to Gemini Live on Android...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&resize=1200,628",
+      "published_iso": "2026-10-28T17:00:00+00:00",
+      "excerpt": "XREAL AURA, the first wired XR glasses powered by Android XR, lets you work, watch, and play anywhere with Gemini by your side.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.width-1300.png",
       "history_match": {
-        "score": 0.279,
-        "date": "2026-10-26",
-        "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
-        "title": "Gemini for Android rolls out side panel and settings redesign",
+        "score": 0.192,
+        "date": "2026-10-17",
+        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+        "band": "related"
+      },
+      "cluster": "c9"
+    },
+    {
+      "title": "OpenAI expanding ChatGPT dot access to iMessage and RCS",
+      "url": "https://9to5mac.com/2026/10/28/openai-expanding-chatgpt-dot-access-to-imessage-and-rcs/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T18:15:27+00:00",
+      "excerpt": "Well this is pretty cool. OpenAI is expanding ChatGPT dot access to iMessage and RCS. Before now, the proactive agent...",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&strip=all&resize=1200,628",
+      "history_match": {
+        "score": 0.17,
+        "date": "2026-10-14",
+        "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
+        "title": "Robots could get a ‘ChatGPT moment’ in the next one to two years, Unitree chief says — and it’ll be powered by OpenAI’s GPT-7",
+        "band": "related"
+      },
+      "cluster": "c7"
+    },
+    {
+      "title": "Perplexity upgrades Mac app with ChatGPT-powered voice mode",
+      "url": "https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T16:28:15+00:00",
+      "excerpt": "Earlier this year, OpenAI unveiled its gpt-live-1 voice model. This includes the ability for the model to listen to you...",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?resize=1200,628",
+      "history_match": {
+        "score": 0.231,
+        "date": "2026-10-14",
+        "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
+        "title": "Robots could get a ‘ChatGPT moment’ in the next one to two years, Unitree chief says — and it’ll be powered by OpenAI’s GPT-7",
         "band": "related"
       }
     },
@@ -104,10 +259,10 @@
       "source": "9to5Google",
       "category": "gadgets",
       "published_iso": "2026-10-21T22:45:00+00:00",
-      "excerpt": "INMO GO3 smart glasses put a display in the lens with real-time translation across 98 languages (13 offline) and an assistant powered by Gemini and ChatGPT, plus swappable batteries and a physical camera privacy shade.",
+      "excerpt": "There are two problems with smart glasses today. Most don’t deliver that futuristic display we all want to have, and...",
       "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?resize=1200,628",
       "history_match": {
-        "score": 0.19,
+        "score": 0.221,
         "date": "2026-10-14",
         "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
         "title": "Apple’s first smart display is the 7-inch HomeView for $299",
@@ -115,128 +270,148 @@
       }
     },
     {
-      "title": "Google Maps on CarPlay rolling out Gemini when navigating",
-      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
+      "title": "Gemini Notebook for Android, iOS adds built-in audio recorder",
+      "url": "https://9to5google.com/2026/10/27/gemini-notebook-recorder/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-10-21T15:00:00+00:00",
-      "excerpt": "Google Maps in CarPlay now lets you access Gemini when using navigation for a conversational driving experience.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&strip=all&resize=1200,628",
+      "published_iso": "2026-10-27T22:44:07+00:00",
+      "excerpt": "After introducing Connected App integration last week, Gemini Notebook has rolled out an audio recorder on Android and iOS.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-5.jpg?quality=82&strip=all&resize=1200,628",
       "history_match": {
-        "score": 0.154,
-        "date": "2026-10-03",
-        "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
-        "title": "Gemini fully replaces Google Assistant on Android",
+        "score": 0.323,
+        "date": "2026-10-25",
+        "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
+        "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
         "band": "related"
       }
     },
     {
-      "title": "Intel Arc B580 runs 125B AI model nearly 3x faster with XeStrata in new test",
-      "url": "https://www.notebookcheck.net/Intel-Arc-B580-runs-125B-AI-model-nearly-3x-faster-with-XeStrata-in-new-test.1434389.0.html",
+      "title": "Meta has a new AI pet app called Waddle World",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T13:53:31+00:00",
+      "excerpt": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
+    },
+    {
+      "title": "iOS 27.2: Apple's AI images now carry Google's SynthID watermark",
+      "url": "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-10-26T22:49:00+01:00",
-      "excerpt": "Intel's 12GB Arc B580 delivered 31.1 tokens per second when running a 125-billion-parameter AI model with XeStrata, compared with 10.9 tokens per second using Strata. The result highlights the impact of inference software, although the test PC also required 64GB of RAM.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/asrock-intel-arc-b580-challenger-12gb-xestrata1.jpg"
+      "published_iso": "2026-10-27T08:48:00+01:00",
+      "excerpt": "With iOS 27.2, Apple marks all images from Image Playground and more extensively edited photos with Google's invisible SynthID watermark. It is embedded in the pixels rather than the metadata and is designed to survive cropping and compression. However, it cannot be checked on the iPhone itself; Goo",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+      "history_match": {
+        "score": 0.201,
+        "date": "2026-10-15",
+        "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+        "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+        "band": "related"
+      }
     },
     {
-      "title": "[Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On",
-      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
-      "source": "Samsung Global Newsroom",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-10-27T08:00:00+09:00",
-      "excerpt": "Samsung's first clip-on open-ear Galaxy Buds On launch in Korea with hands-free Gemini Live ('Hey Google, let's talk Live'), head-gesture call handling and up to 9.5 hours of playback.",
-      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26123413/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Thumb932.jpg",
+      "published_iso": "2026-10-28T18:36:26+00:00",
+      "excerpt": "Microsoft’s AI assistant will soon disappear from your TV.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
       "history_match": {
-        "score": 0.15,
-        "date": "2026-10-17",
-        "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
-        "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+        "score": 0.249,
+        "date": "2026-10-08",
+        "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "title": "Microsoft is giving Copilot more control over Windows and your files",
         "band": "related"
       },
-      "cluster": "c11"
+      "cluster": "c20"
     },
     {
-      "title": "Samsung to Launch First Clip-On Galaxy Buds Earphones",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=14922",
-      "source": "The Elec",
+      "title": "After only two years, Microsoft removes Copilot from all smart TVs",
+      "url": "https://www.xda-developers.com/after-only-two-years-microsoft-removes-copilot-from-all-smart-tvs/",
+      "source": "XDA",
       "category": "gadgets",
-      "published_iso": "2026-10-27T09:30:21+09:00",
-      "excerpt": "Samsung launches Galaxy Buds On, its first clip-on Galaxy Buds, in Korea on Oct. 27 at 299,000 won, with Gemini Live support when paired with a Galaxy AI phone; global markets follow.",
-      "og_image": "https://cdn.thelec.net/news/photo/202610/14922_15191_5154.jpg",
+      "published_iso": "2026-10-28T19:36:19Z",
+      "excerpt": "It didn't last too long.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/01/lg-2023-oled-evo-series-tv.jpg?w=1600&h=900&fit=crop",
       "history_match": {
-        "score": 0.296,
-        "date": "2026-10-17",
-        "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
-        "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+        "score": 0.218,
+        "date": "2026-10-24",
+        "url": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+        "title": "Microsoft pulls eight Copilot actions from Windows 11 File Explorer",
         "band": "related"
       },
-      "cluster": "c11"
+      "cluster": "c20"
     },
     {
-      "title": "Samsung has new clip-on buds, OnePlus has new clip-on buds — when do we say 'that's enough new open earbuds'?",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/samsung-has-new-clip-on-buds-oneplus-has-new-clip-on-buds-when-do-we-say-thats-enough-new-open-earbuds",
-      "source": "TechRadar",
+      "title": "Japan experiments with autonomous AI chainsaw-wielding robots — video shows rail truck-mounted metal humanoid cutting down tree branches",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-10-26T10:48:18Z",
-      "excerpt": "Two more ear cuff-style open earbuds have launched, from Samsung and OnePlus — neither of which are available in the west yet — but it",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7Eiej3j97RTPjHg4crWdvk-2000-80.jpg",
-      "cluster": "c11"
+      "published_iso": "2026-10-28T09:40:00Z",
+      "excerpt": "The frightening-looking mech in the demo still has a human operator, for now.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GNdgn4uQJSieHfhRki6Xdn-1920-80.jpg"
+    },
+    {
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "published_iso": "2026-10-28T18:05:22+00:00",
+      "excerpt": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+      "cluster": "c1"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 24,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 19,
     "same_story_pairs": [
       [
-        "https://www.digitaltrends.com/computing/apple-refreshes-the-imac-with-m6-chip-faster-ai-performance-and-wi-fi-7/",
-        "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
-        0.348
+        "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
+        "https://www.digitaltrends.com/home/amazon-unveils-alexa-home-map-letting-you-control-your-smart-home-in-3d/",
+        0.326
       ],
       [
-        "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
-        "https://www.thelec.net/news/articleView.html?idxno=14922",
-        0.429
+        "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
+        "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+        0.336
       ],
       [
-        "https://www.thelec.net/news/articleView.html?idxno=14922",
-        "https://www.techradar.com/audio/earbuds-airpods/samsung-has-new-clip-on-buds-oneplus-has-new-clip-on-buds-when-do-we-say-thats-enough-new-open-earbuds",
-        0.38
+        "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+        "https://9to5mac.com/2026/10/28/openai-expanding-chatgpt-dot-access-to-imessage-and-rcs/",
+        0.532
+      ],
+      [
+        "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+        "https://www.androidauthority.com/android-xr-xreal-aura-launch-3729162/",
+        0.395
+      ],
+      [
+        "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+        "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+        0.397
+      ],
+      [
+        "https://www.androidauthority.com/android-xr-xreal-aura-launch-3729162/",
+        "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+        0.438
+      ],
+      [
+        "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+        "https://www.xda-developers.com/after-only-two-years-microsoft-removes-copilot-from-all-smart-tvs/",
+        0.455
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-09-28",
-      "title": "I turned my Android phone’s annoying AI button into its most powerful shortcut key",
-      "url": "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "I saw Microsoft Surface laptops with the Snapdragon X2, and this is what AI PCs should feel like",
-      "url": "https://www.digitaltrends.com/computing/microsoft-snapdragon-x2-elite-surface-local-ai-demos/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Meta brings FDA-cleared hearing enhancement to its smart glasses",
-      "url": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update, causes outrage",
-      "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
-      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk"
-    },
     {
       "date": "2026-09-29",
       "title": "Pixel Buds app update lets Gemini control audio and settings",
@@ -926,6 +1101,31 @@
       "date": "2026-10-27",
       "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090",
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "[Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On",
+      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
+      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
+      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
+      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new"
     }
   ]
 }

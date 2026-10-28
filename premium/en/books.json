@@ -8333,6 +8333,123 @@
           "x": "The long-term lineup totals 29834 titles, including 14917 in Korean and 14917 in English, and the production target after commercial launch is 2000 books a month, or 24000 a year, for Korean and English combined. AI collects and analyzes bookstore sales trends to decide on follow-up production, and e-books that sell well are linked to print-on-demand (POD)."
         }
       ]
+    },
+    "books/silva-rojas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+          "cap": "David Silva Rojas is the author of \"Donde el agua trabaja\". Foto: composición Caretas/BeCult/El País"
+        },
+        {
+          "t": "p",
+          "x": "The novel \"Donde el agua trabaja\", by Peruvian writer David Silva Rojas, was flagged by an analysis from the Pangram detector, which attributed 99% of its roughly 26,000 words to artificial intelligence (IA). In July 2026 the work won the Premio Internacional de Novela Breve Almadía Ventosa-Arrufat, worth 20,000 euros, even though the contest rules prohibited partial or total use of these tools."
+        },
+        {
+          "t": "p",
+          "x": "Following the investigation by El País, the Mexican publisher Almadía cancelled the book's presentation planned for October 23 in Madrid and suspended events in other Spanish cities. The author denies having used artificial intelligence, and the publisher announced a review of the case. Pangram also classified as AI-generated (IA) 97% of his answers in an interview with the magazine Ulrica and 80% of a 924-word autobiographical text."
+        },
+        {
+          "t": "p",
+          "x": "The outlet itself warned that Pangram is not infallible: it identifies statistical patterns, but cannot tell whether someone used AI (IA) to produce an entire work or to turn their own notes into prose. The novel was chosen from 2,204 manuscripts by a jury made up of Cristina Rivera Garza, Selva Almada and Mónica Ojeda."
+        },
+        {
+          "t": "img",
+          "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
+        }
+      ]
+    },
+    "books/spiegelman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+          "cap": "Art Spiegelman (photo by Zach Rabiroff)"
+        },
+        {
+          "t": "p",
+          "x": "See that gold and white sticker in the upper left corner of the 25th anniversary edition of Art Spiegelman’s In the Shadow of No Towers graphic novel? That is AI generated. In an interview with Zach Rabiroff for Publishers Weekly, Spiegelman revealed that fact:"
+        },
+        {
+          "t": "p",
+          "x": "“So he’s also included an anniversary present of sorts: a cover sticker ironically depicting the burning towers as candles on a birthday cake. The sticker marks Spiegelman’s first use of AI-generated artwork. ‘I wanted it to look like an old engraving, and I was lazy,’ he told PW. ‘I said, let’s do it with AI and see what happens.’ Mouly lent a hand with the prompts: ‘She’s good at Claude whispering,’ Spiegelman said.”"
+        },
+        {
+          "t": "p",
+          "x": "That confession is not going well with the comics community at large. Brian Cronin, comics researcher and historian for CBR, writes: “Art Spiegelman is a genius, but holy shit, dude, ‘I was too lazy’ is not an excuse for using AI to generate an image for the reissue of your book.” Cartoonist Evan Dorkin drew his response:"
+        },
+        {
+          "t": "img",
+          "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+          "cap": "Evan Dorkin"
+        },
+        {
+          "t": "p",
+          "x": "The Beat notes that Alison Bechdel admits getting an assist from AI for her Spent book. Cartoonist Mike Lynch: “Come on. Take a nap. Recharge. Come back to it and actually draw it.” Michael Maslin notes that “Mouly” is “Francoise Mouly, The New Yorker’s cover editor. Spiegelman and Mouly are married.” Gemma Correll’s reaction: “ew”"
+        }
+      ]
+    },
+    "books/winterson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
+        },
+        {
+          "t": "p",
+          "x": "Jeanette Winterson, author of the 2021 essay collection 12 Bytes, argues we are at a turning point in our story as a species. Artificial intelligence – which she would prefer to call alternative intelligence – is “an evolutionary leap. That’s what this is. AI is much more than a tool.” We are at a moment of choice that mirrors the Industrial Revolution: “What future shall we build?”"
+        },
+        {
+          "t": "p",
+          "x": "The problem is not AI, she insists, but us. “There is no inevitable dystopia.” If things go wrong, it will be because of “old-fashioned thinking laid over this brand-new reality”: “Most of what we fear about AI and jobs comes down to the political and economic choices our masters will make, just as they did in the Industrial Revolution.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "‘What we know about humans is they love monopolies.’ Photograph: Sarah Lee/The Guardian"
+        },
+        {
+          "t": "p",
+          "x": "Amid UK humanities cuts, she argues “a humanist education is essential. We have to centre the human here,” foregrounding creativity, play, problem-solving and the arts. “Show me a child that doesn’t want to hear a story.” The worst “could happen”, she says, but “the immensity of the good outcome is just as real as the totality of our failure to get this right… It’s all to play for.”"
+        }
+      ]
+    },
+    "books/mcp-discovery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers and students increasingly begin their work in AI assistants, and scholarly publishers are starting to meet them there. On October 5, Silverchair announced a six-month pilot of Research Bridge, a shared Model Context Protocol (MCP) channel through which assistants can reach content from several independent publishers. It follows Silverchair’s Discovery Bridge, Research Solutions’ Article Galaxy MCP, Clarivate’s Nexus Connect and publisher-built servers such as Wiley’s."
+        },
+        {
+          "t": "p",
+          "x": "The author proposes that a library treat MCP connectors (as well as APIs and other endpoints) as a collection, keep a register of them, and expect providers to describe their connectors and metadata in machine-readable form."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+          "cap": "List of Magical Stones, ca. mid- to late 1st millennium BCE"
+        },
+        {
+          "t": "p",
+          "x": "Missing infrastructure includes a way to find the right connectors (a third-party analysis counted more than 30,000 unique servers in the official MCP registry as of September 10), a way to tie access to institutional entitlements, and usage reporting via COUNTER’s Best Practice on Generative and Agentic AI usage metrics. Like KBART feeds for link resolvers, providers should supply fields such as endpoint, authentication, entitlements, AI-use terms and the date last verified as a feed."
+        }
+      ]
+    },
+    "books/youtube-audiobooks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YouTube looks to expand into audiobooks."
+        },
+        {
+          "t": "p",
+          "x": "Rampant piracy on the platform, due to AI-generated audio versions, is leading publishers to provide legitimate means of enjoying audiobooks there."
+        },
+        {
+          "t": "p",
+          "x": "The full article is available to paid subscribers of Jane Friedman's newsletter."
+        }
+      ]
     }
   }
 }

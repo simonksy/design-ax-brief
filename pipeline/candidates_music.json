@@ -1,106 +1,141 @@
 {
- "section": "music",
- "now_iso": "2026-10-27T22:04:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Massive XL is here: Native Instruments supersizes its flagship soft synth with AI-powered preset generation, custom wavetables and much more",
-   "url": "https://www.musicradar.com/music-tech/massive-xl-is-here-native-instruments-supersizes-its-flagship-soft-synth-with-ai-powered-preset-generation-custom-wavetables-and-much-more",
-   "source": "MusicRadar",
-   "category": "music",
-   "published_iso": "2026-10-27T14:10:25Z",
-   "excerpt": "20 years after Massive, Native Instruments unveils Massive XL, which uses AI to turn audio samples into synth patches, alongside custom wavetables and an expanded effects suite.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/m8Dyd4QeFBbPdomvykgtZm-1600-80.jpg"
-  },
-  {
-   "title": "NI's new Massive XL is nicely overstuffed but easier to morph, mutate, and play",
-   "url": "https://cdm.link/massive-xl-first-impressions/",
-   "source": "CDM Create Digital Music",
-   "category": "music",
-   "published_iso": "2026-10-27T17:57:26+00:00",
-   "excerpt": "A first hands-on with Massive XL: mutation and audio-to-preset generation options that lead sound designers into more tweaking rather than away from it, at a $99 intro price.",
-   "og_image": "https://cdm.link/app/uploads/2026/10/Massive-editing.png"
-  },
-  {
-   "title": "Tracktion Waveform Pro 14.1 Update Adds AI-Assisted Plugin Creation",
-   "url": "https://www.gearnews.com/tracktion-waveform-pro-studio/",
-   "source": "Gearnews",
-   "category": "music",
-   "published_iso": "2026-10-27T19:30:57+01:00",
-   "excerpt": "With the version 14.1 update, Tracktion Waveform Pro lets users build their own instruments and effects inside the DAW using AI-assisted code generation.",
-   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-plugin-generation.jpg"
-  },
-  {
-   "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
-   "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
-   "source": "Engadget",
-   "category": "music",
-   "published_iso": "2026-10-27T16:21:44+00:00",
-   "excerpt": "Logic Pro gets a beta AI assistant built with OpenAI that can edit existing projects, start new songs and generate vocal tracks from text prompts; Stem Splitter can now isolate or swap drum parts.",
-   "og_image": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg"
-  },
-  {
-   "title": "Charlotte de Witte announces new EP, 'Azadi', featuring AI vocalist NAVA",
-   "url": "https://djmag.com/news/charlotte-de-witte-announces-new-ep-azadi-featuring-ai-vocalist-nava",
-   "source": "DJ Mag",
-   "category": "music",
-   "published_iso": "2026-10-27T15:27:39+00:00",
-   "excerpt": "Charlotte de Witte's three-track KNTXT EP features NAVA, an AI vocalist created by British-Iranian artist Farbod Mehr to represent Iranian women banned from singing in public; the choice has drawn mixed reactions.",
-   "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-10/Screenshot%202026-10-27%20at%2013.59.48.png.webp?itok=xhyKzlLI"
-  },
-  {
-   "title": "Edged Out Records built 'the first costume shop for AI agents'",
-   "url": "https://musically.com/2026/10/27/edged-out-records-built-the-first-costume-shop-for-ai-agents/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-10-27T13:30:00+00:00",
-   "excerpt": "Independent label Edged Out Records launched a marketing campaign riffing on Jolly, the plush mascot Meta uses for its Muse AI agent, building a 'costume shop' for AI agents.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-27T124653.395.png?fit=2000%2C1500&ssl=1"
-  },
-  {
-   "title": "Here's Every Company Fighting Subpoenas in Suno's Legal Fight With Universal and Sony Music",
-   "url": "https://www.billboard.com/pro/suno-vs-universal-sony-music-ai-lawsuit-companies-subpoenas/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-27T19:52:17+00:00",
-   "excerpt": "A rundown of the companies resisting subpoenas in UMG and Sony Music's AI-training lawsuit against Suno, from investors to the MLC, DistroKid and Apple.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/06/suno-2026-press-suno-billboard-1800.jpg?w=1024"
-  },
-  {
-   "title": "Suno Files Subpoena Demands Against Apple As Major Label Legal War Intensifies",
-   "url": "https://www.digitalmusicnews.com/2026/10/26/suno-files-subpoena-demands-apple/",
-   "source": "Digital Music News",
-   "category": "music",
-   "published_iso": "2026-10-27T04:27:19+00:00",
-   "excerpt": "Apple moves to quash Suno's subpoena in the UMG/Sony AI case, arguing the demand for Apple Music data is superfluous and goes well beyond what Suno needs.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/suno-files-subpoena-demands-against-apple.png"
-  },
-  {
-   "title": "Stop sending me vibecoded plugins, I'm begging you",
-   "url": "https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/",
-   "source": "MusicTech",
-   "category": "music",
-   "published_iso": "2026-10-21T10:04:18+00:00",
-   "excerpt": "MusicTech's inbox is drowning in AI-vibecoded audio plugins; the piece explains why that's a problem and which indie developers are using AI coding tools properly.",
-   "og_image": "https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500-1068x801.jpg"
-  },
-  {
-   "title": "Introducing Instant Soundtracks",
-   "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
-   "source": "ElevenLabs",
-   "category": "music",
-   "published_iso": "2026-10-15T12:00:00.000Z",
-   "excerpt": "ElevenLabs' Instant Soundtracks scores an uploaded video with original music, detects sound-effect cues and places generated SFX on separate timeline layers in one pass; available in ElevenCreative, ElevenMusic and the API. (Off-list: no on-list outlet covered it.)",
-   "og_image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/sm49fesxdni-Blog-cover.webp"
-  },
-  {
-   "title": "수노 AI곡 'The Adult I Dreamed Of', 멜론 3위인데 AI 표기는 없다",
-   "url": "https://www.wikitree.co.kr/articles/1166610",
-   "source": "위키트리",
-   "category": "music",
-   "published_iso": "2026-10-16T03:04:00+09:00",
-   "excerpt": "Suno로 만든 Meomuru(머무르)의 AI 곡이 멜론 Top 100 3위, 유튜브 1,000만 뷰에 근접했지만 AI 표기는 없다. AI 표기 필요 응답 85.6%. (Off-list Korea angle: no allowed outlet covers the Korean chart story.)",
-   "og_image": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/16/202610160308277678_ai.jpeg"
-  }
- ]
+  "section": "music",
+  "now_iso": "2026-10-28T22:04:45Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Add music and sound effects to any video with ElevenCreative (Instant Soundtracks)",
+      "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+      "source": "ElevenLabs",
+      "published_iso": "2026-10-15T12:00:00Z",
+      "excerpt": "Upload a video to ElevenCreative and Instant Soundtracks scores it with original music, then analyzes the footage for sound-effect cues and places generated, synced effects on the timeline in one pass.",
+      "og_image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/sm49fesxdni-Blog-cover.webp",
+      "keyword": "ElevenLabs Music",
+      "category": "music"
+    },
+    {
+      "title": "Behringer Kick is a sampler with vibe-coded firmware at its core: Is this really the future we want?",
+      "url": "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware",
+      "source": "MusicRadar",
+      "published_iso": "2026-10-28T18:09:34Z",
+      "excerpt": "Behringer's in-development open-source sampler Kick is pitched around AI-generated firmware: 'With AI, even people without programming experience can turn their ideas into new features and firmware.' It also lists an 'AI camera' for gesture control.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd-768-80.jpg",
+      "keyword": "AI music plugin / vibe-coded gear",
+      "category": "music"
+    },
+    {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge",
+      "published_iso": "2026-10-28T21:34:04Z",
+      "excerpt": "The MPC Sample Key will be an open-source 37-key take on Akai's budget MPC Sample, with firmware opened so users can vibe-code new instruments and features with AI coding tools.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
+      "keyword": "AI music plugin / vibe-coded gear",
+      "category": "music"
+    },
+    {
+      "title": "Akai kicks back? Sample Key teaser lands a day after Behringer's open-source Kick",
+      "url": "https://www.musicradar.com/music-tech/akai-kicks-back-sample-key-teaser-lands-a-day-after-behringers-open-source-kick",
+      "source": "MusicRadar",
+      "published_iso": "2026-10-28T17:29:15Z",
+      "excerpt": "Akai says it is 'embracing the AI and vibe-coding community' by opening Sample Key's firmware; teaser videos show staff using Claude to turn it into a chord machine and units running custom vibe-coded VA, FM and wavetable synths. (Same story as The Verge item - alternate source.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH-1305-80.jpg",
+      "keyword": "AI music plugin / vibe-coded gear",
+      "category": "music"
+    },
+    {
+      "title": "AI takes the stage with BSO musicians in Tod Machover's wild world premiere",
+      "url": "https://www.wbur.org/news/2026/10/22/tod-machover-mit-media-lab-bso-ai",
+      "source": "WBUR",
+      "published_iso": "2026-10-22T19:54:16Z",
+      "excerpt": "MIT Media Lab composer Tod Machover's 25-minute 'already and not yet' puts 80-plus Boston Symphony Orchestra players in dialogue with a live AI system that responds to each musician's performance.",
+      "og_image": "https://media.wbur.org/wp/2026/10/IMG_8264-2048x1536.jpeg",
+      "keyword": "real-time AI music",
+      "off_list": true,
+      "category": "music"
+    },
+    {
+      "title": "Russia's media regulator blocks viral AI-generated song 'You're My Scumbag' on streaming services",
+      "url": "https://meduza.io/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
+      "source": "Meduza",
+      "published_iso": "2026-10-28T16:04:19Z",
+      "excerpt": "The viral AI-generated song 'Ty moya...' by DJ NARODNII has been blocked on Russian streaming services by the media regulator.",
+      "og_image": "https://meduza.io/imgly/share/1793203459/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
+      "keyword": "AI music",
+      "off_list": true,
+      "category": "music"
+    },
+    {
+      "title": "사람보다 더 잘 듣는 AI 개발한다…MIT 스마라그디스 교수, 음원 분리·음성 인식·환경 소리 분석 기술 개발",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42471",
+      "source": "인공지능신문",
+      "published_iso": "2026-10-28T12:47:15Z",
+      "excerpt": "MIT의 파리 스마라그디스 교수 연구팀이 음원 분리, 음성 인식, 환경 소리 분석을 아우르는 '사람보다 더 잘 듣는' 청각 AI 연구를 소개했다.",
+      "og_image": "https://cdn.aitimes.kr/news/thumbnail/202610/42471_63842_4657_v150.jpg",
+      "keyword": "AI stem separation",
+      "off_list": true,
+      "category": "music"
+    },
+    {
+      "title": "SMEBench: Benchmarking Neural Music Editing with Synthetized MIDI Edits",
+      "url": "https://arxiv.org/abs/2610.36715",
+      "source": "arXiv",
+      "published_iso": "2026-10-27T06:31:02Z",
+      "excerpt": "A large-scale benchmark of controlled music edits built by modifying symbolic MIDI performances and rendering matched source/target audio, covering twelve instrumentation, articulation and dynamics edit types for evaluating instruction-based neural music editors.",
+      "og_image": null,
+      "keyword": "text-to-music",
+      "category": "music"
+    },
+    {
+      "title": "ChoreoStudio: Planning What, When, and Who in Music-Driven Group Choreography",
+      "url": "https://arxiv.org/abs/2610.32325",
+      "source": "arXiv",
+      "published_iso": "2026-10-23T08:23:10Z",
+      "excerpt": "ChoreoStudio makes choreography planning explicit for music-driven group dance generation, aligning formation transitions with high-level musical structure (intro to chorus to climax) and deciding which dancer executes each transition.",
+      "og_image": null,
+      "keyword": "generative music",
+      "category": "music"
+    },
+    {
+      "title": "Suno Fires Back Against Apple Amid Ugly Subpoena Dispute",
+      "url": "https://www.digitalmusicnews.com/2026/10/28/suno-apple-subpoena-dispute/",
+      "source": "Digital Music News",
+      "published_iso": "2026-10-28T19:30:44Z",
+      "excerpt": "Suno is firing back against Apple's motion to quash a deposition subpoena concerning major-label licensing talks, AI fraud and more in the UMG/Sony case. (Litigation angle - deprioritized.)",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Apple-Subpoena.jpg",
+      "keyword": "Suno",
+      "category": "music"
+    },
+    {
+      "title": "ICMP Says Australian Songs Used to Train AI Sans Compensation",
+      "url": "https://www.digitalmusicnews.com/2026/10/19/icmp-kylie-minogue-songs-train-ai/",
+      "source": "Digital Music News",
+      "published_iso": "2026-10-20T04:00:26Z",
+      "excerpt": "ICMP warns that Australian copyright law risks being watered down for AI training, saying major hits by Kylie Minogue and Nick Cave were already used to train AI without consent.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/major-australian-hits-kylie-minogue-nick-cave-already-used-to-train-ai.png",
+      "keyword": "music AI licensing",
+      "category": "music"
+    },
+    {
+      "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
+      "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
+      "source": "Billboard",
+      "published_iso": "2026-10-21T22:08:29Z",
+      "excerpt": "A Billboard Latin Music Week panel with SGAE's Cristina Perpiñá-Robert and Pierre Hachar Jr. weighed how to protect human creators as AI-generated songs spread, including Spain's concerns about AI replacing creators.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024",
+      "keyword": "music AI licensing",
+      "category": "music"
+    },
+    {
+      "title": "Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch",
+      "published_iso": "2026-10-27T16:30:57Z",
+      "excerpt": "DeepMind's Genie 4 research preview generates real-time audio matched to the simulated world, including music, ambient sound and dialogue, while users steer scenes with mid-simulation prompts. (Music is a secondary angle; likely also a games/gadgets candidate.)",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
+      "keyword": "real-time AI music",
+      "category": "music"
+    }
+  ],
+  "notes": "RSS-first harvest of 30+ allowed-domain feeds/sitemaps + Google News RSS (GN decoder hit 429, so Korean/off-list GN-only stories - Pozalabs Steal Saturday, News1 Melon AI labelling, A$AP Rocky 'Shroom Clouds' AI video - could not be resolved to outlet URLs). Dropped as already published: Logic Pro 13, Massive XL, Tracktion 14.1, NAVA, Edged Out, Spotify 50M/75M slop, Believe x Spotify remix, YouTube AI labels, UMG-Tyger, AFM Human Made Human Paid, IAMDDB, KOMCA, Samplab, vibe-coded plugins feature, MuLaCover/Agentic post-production/MQAScore arXiv. Dropped for weak AI or business noise: Easol/Sonilo/ArtMaster funding, Raye/Sam Fender bot presales, Hotone VOCLAS, Overtune, Serato iOS, Chase & Status, ComplianceCheck. Note that the Akai items (Verge + MusicRadar) are one story, and Behringer Kick is a sibling story; Genie 4 may collide with games/gadgets."
 }

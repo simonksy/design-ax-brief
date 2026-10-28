@@ -8895,6 +8895,165 @@
           "x": "La app de escritorio se descarga gratis. Para crear juegos con la AI de Remix, los planes empiezan en $5 al mes, y los creadores también pueden conectar una suscripción existente de Anthropic, OpenAI o Google."
         }
       ]
+    },
+    "games/epicaicode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Arte principal de Fortnite: Save the World. Crédito de la imagen: Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games ha confirmado que usará gen-AI en todo, desde Fortnite hasta Unreal Engine 6. En declaraciones a This Week In Video Games, el vicepresidente ejecutivo de desarrollo, Marcus Wassmer, dijo que “sin duda estamos usando AI para desarrollar código y funciones para Unreal Engine”. “Casi todo el desarrollo que se hace ahora mismo se realiza en los flujos de desarrollo vinculados a Fortnite, UEFN [Unreal Editor for Fortnite] y UE6”."
+        },
+        {
+          "t": "p",
+          "x": "Preguntado por el vibe-coding, Wassmer respondió: “Sí, estamos haciendo vibe-coding. Eso significa que nuestros ingenieros ya no escriben la mayor parte del código, pero siguen guiando las herramientas para obtener el resultado arquitectónico que queremos. No estamos haciendo 'one-shotting' del motor; iteramos con AI para lanzar las funciones que quieren los desarrolladores y mantener el motor dentro de los márgenes de memoria, rendimiento y escalabilidad”. Afirmó que las herramientas ayudarían a publicar actualizaciones más rápido y con menos errores."
+        },
+        {
+          "t": "p",
+          "x": "Epic está “más preocupada por los riesgos de avanzar demasiado despacio que por el escepticismo hacia la AI”, dijo. “No creemos que sea viable adoptar un enfoque a medias con la AI en el desarrollo”."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este mes, Epic dijo que hizo con vibe-coded el último Epic Games Launcher, y su CEO, Tim Sweeney, criticó la política de Valve que pide a los desarrolladores declarar el uso de gen-AI en las páginas de Steam."
+        }
+      ]
+    },
+    "games/roblox3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "cap": "Imagen de Photo Agency via Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Roblox Corporation ha confirmado las acusaciones del sitio de recursos 3D Open3DLab de que uno de sus agentes AI descargó 145.5 GB de contenido como recursos artísticos y modelos 3D, incluido contenido adulto alojado en los sitios subsidiarios Smutlab y SFMLab. Un portavoz dijo que un investigador de Roblox creó el agente para “recopilar recursos 3D disponibles públicamente”; el agente rastreó Open3DLab “por error” y “no estaba funcionando como se pretendía”."
+        },
+        {
+          "t": "p",
+          "x": "“El agente fue desactivado y los datos no se usaron para ningún fin, incluido el entrenamiento de cualquier modelo AI. Estamos reforzando las salvaguardas sobre cómo se crean y revisan agentes como este, y seguiremos haciéndolo a medida que evolucione el panorama de los agentes”."
+        },
+        {
+          "t": "p",
+          "x": "Según el administrador de Open3DLab, Salaryman, el rastreador descargó “1,027 archivos de 712 proyectos”, 117.4 GB de ellos de contenido adulto, ignoró robots.txt y los Terms of Service, y se reanudó el 19 de octubre tras ser bloqueado el 18 de octubre. Identificó a su creador como un investigador de Roblox coautor del artículo en el que se basa Cube, el sistema de AI generativa de Roblox."
+        },
+        {
+          "t": "p",
+          "x": "“Los modelos reproducen aquello de lo que aprenden”, dijo Salaryman, y advirtió que, si datos de entrenamiento adultos llegaran a un modelo que genera recursos para Roblox, solo quedaría un filtro entre esos datos y los niños."
+        }
+      ]
+    },
+    "games/nexonnpc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nexon ha presentado un motor de inteligencia artificial (AI) que recuerda en tiempo real las acciones de los usuarios dentro del juego. La tecnología enlaza el historial de juego del usuario en una sola memoria para que los personajes no jugadores (NPC) reaccionen según sus acciones pasadas. Nexon también desarrolló su propia base de datos (DB) para procesar los datos de memoria, lo que mejoró la eficiencia de costes."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+          "cap": "Jung Yoon-ho, ingeniero del Equipo de Tecnología de Datos Avanzada de la División de AI de Nexon, explica el motor de memoria AI 'Live Memory' en 'Games on AWS 2026', celebrado el día 27. [Foto=periodista Kwak Min-gu]"
+        },
+        {
+          "t": "p",
+          "x": "Jung Yoon-ho y Bae Seung-jong, ingenieros del Equipo de Tecnología de Datos Avanzada de la División de AI de Nexon, presentaron los resultados del desarrollo del motor de memoria AI 'Live Memory' y de la base de datos de grafos propia 'FastGraph' en 'Games on AWS 2026', celebrado el día 27."
+        },
+        {
+          "t": "p",
+          "x": "Live Memory es un sistema que enlaza los registros de acciones del usuario, como mejorar y equipar objetos, unirse a un grupo, entrar en mazmorras o derrotar jefes, y los organiza en una sola memoria. Con él, un AI NPC puede reaccionar según las experiencias pasadas del usuario."
+        },
+        {
+          "t": "p",
+          "x": "Por ejemplo, si un usuario mejora un arma en la herrería y vuelve tras derrotar a un jefe con ella, el NPC reacciona: “Has vencido al jefe con el arma que te mejoré ayer. Estoy orgulloso”. A un usuario que mejora la misma arma una y otra vez, le dice: “Ya has mejorado esta arma 13 veces. ¿No crees que ya es suficiente?”."
+        },
+        {
+          "t": "p",
+          "x": "El ingeniero Jung subrayó que “un AI NPC que se sienta vivo debe percibir incluso la acción que el usuario acaba de realizar, y juzgar y actuar en consecuencia”."
+        },
+        {
+          "t": "p",
+          "x": "Para lograr estas funciones, Nexon optó por convertir los registros de acciones de los usuarios en una estructura de grafo. En lugar de limitarse a almacenar acciones sueltas, conecta las relaciones entre tiempo, lugar y sucesos."
+        },
+        {
+          "t": "p",
+          "x": "El sistema está diseñado para reducir el coste de procesamiento y la pérdida de información mediante reglas predefinidas, sin llamar cada vez a un gran modelo de lenguaje (LLM). En particular, Nexon desarrolló su propia DB de grafos, FastGraph, para almacenar los datos de memoria de forma eficiente."
+        },
+        {
+          "t": "p",
+          "x": "Nexon calculó que almacenar los datos de memoria de un millón (100만) de usuarios en una DB de grafos comercial existente requeriría unos 430TB de memoria y un coste operativo anual de 412억원. FastGraph, en cambio, redujo el uso de memoria a 8.2TB mediante la compresión de datos y la optimización de la estructura de almacenamiento, con un coste operativo anual estimado de unos 8억3000만원."
+        },
+        {
+          "t": "p",
+          "x": "El ingeniero Bae Seung-jong explicó: “En las pruebas de rendimiento de escritura con datos reales de juegos de Nexon, también fue 2.7 veces más rápido que los productos existentes”, y añadió: “Ahora podemos procesar con rapidez y a bajo coste los datos de memoria de muchos usuarios”."
+        },
+        {
+          "t": "p",
+          "x": "Nexon se propone crear AI NPC que recuerden no solo las acciones de los usuarios, sino también sus conversaciones y emociones. “Nuestro próximo objetivo es un AI NPC que me recuerde”, dijo Bae, y añadió: “Crearemos NPC capaces de comunicarse con los usuarios de forma más viva”."
+        }
+      ]
+    },
+    "games/linegames": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Line Games informó el día 28 de que dio a conocer su experiencia en tecnología avanzada de publicación basada en AI en 'Games on AWS 2026', organizado conjuntamente por AWS y GS Neotek. El evento, una conferencia en la que desarrolladores de videojuegos y profesionales del sector comparten el desarrollo y la operación de juegos en la nube y las tendencias tecnológicas, se celebró el día 27 en el DoubleTree by Hilton Seoul Pangyo, en Seongnam, provincia de Gyeonggi."
+        },
+        {
+          "t": "p",
+          "x": "Lee Ah-young, directora de la oficina de tecnología de publicación de Line Games, dio una charla titulada 'Agente de aceleración de la publicación Part 2: de la revisión de código a la actualización automática de documentos'. El año pasado presentó los resultados de la creación de 'Nexus AI', un agente AI que responde de forma autónoma a las consultas técnicas de desarrolladores externos. La charla de este año abordó los avances técnicos que resolvieron las limitaciones que quedaron tras crear Nexus AI, ya que los cambios en el código de la plataforma se reflejaban a mano en los documentos técnicos y la precisión de las respuestas de la AI caía cuando la actualización de los documentos se retrasaba, así como casos de mejora de la eficiencia en la publicación."
+        },
+        {
+          "t": "img",
+          "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Para superar esa limitación, Line Games adoptó Amazon Bedrock AgentCore y construyó una cadena automatizada que une la revisión de código y la redacción de documentación técnica. En la fase de MR (Merge Request) de herramientas como GitLab, el nuevo agente analiza por sí solo los cambios en el código de la plataforma para hacer la revisión de código y, a partir del resultado, propone modificaciones a los documentos técnicos relacionados. Cuando el responsable las aprueba, se incorporan a los documentos, y los documentos actualizados vuelven a la base de conocimiento de Nexus AI para mantener de forma constante la fiabilidad de las respuestas a las consultas de los desarrolladores externos."
+        },
+        {
+          "t": "p",
+          "x": "Además, utilizó AWS Security Agent para realizar en paralelo la revisión de código y la revisión de seguridad, de modo que los problemas de seguridad que suelen detectarse tarde se revisen en el mismo flujo. Lee explicó el 'bucle de automatización entre código y documentos', completado a medida que el agente AI pasó de leer documentos a comprender los cambios en el código y redactar documentos. También presentó el 'límite de confianza de la automatización (Trust Boundary)' fijado para garantizar la calidad en el uso real, su experiencia práctica y la hoja de ruta futura de la tecnología de publicación."
+        },
+        {
+          "t": "p",
+          "x": "“Hemos eliminado la ineficiencia de corregir documentos técnicos y ahora podemos automatizar sobre una estructura que pasa por la aprobación humana”, dijo Lee Ah-young, directora de la oficina de tecnología de publicación de Line Games. “Seguiremos aprovechando activamente la tecnología AI más reciente de AWS para mejorar la eficiencia de la colaboración con los desarrolladores externos y reforzar de forma continua nuestra competitividad en tecnología de publicación de juegos”."
+        }
+      ]
+    },
+    "games/genie4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind anuncia Genie 4, su nuevo modelo de mundo, que ofrece un realismo sin precedentes y mejora la simulación interactiva en tiempo real. Genie 4 es multimodal de forma nativa, lo que permite generar audio —como música, ruido ambiental y diálogo interactivo— de manera simultánea con el mundo."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se basa en capacidades de la familia Gemini: Gemini Omni ancla las simulaciones en la apariencia y el comportamiento del mundo real, mientras que otros modelos Gemini aportan el razonamiento complejo necesario para mantener la coherencia y la continuidad de la simulación."
+        },
+        {
+          "t": "video",
+          "yt": "sFfPkUJd_Jk"
+        },
+        {
+          "t": "p",
+          "x": "Con Genie 4, los usuarios pueden usar lenguaje natural para modificar una simulación en tiempo real, por ejemplo cambiando el clima, moviendo la cámara o introduciendo una nueva persona u objeto. Gracias a una comprensión física avanzada del mundo, simula escenarios como la aerodinámica y las colisiones, y crea personajes que se mueven con naturalidad y pueden dirigirse en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 3.8 Flash actúa como agente guía dentro del ciclo: observa la escena, divide los objetivos en pasos y verifica cada uno. Todo el video y el audio generados por Genie 4 incluirán la marca de agua SynthID."
+        },
+        {
+          "t": "p",
+          "x": "Genie 4 se ha lanzado como versión preliminar de investigación para probadores de confianza y pronto llegará a los suscriptores de Google AI Ultra en Project Genie y a los socios de acceso anticipado en la Gemini API y Google AI Studio."
+        }
+      ]
     }
   }
 }

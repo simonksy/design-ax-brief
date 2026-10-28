@@ -1,143 +1,173 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "books",
   "cards": [
     {
-      "id": "youtube-audiobooks",
+      "id": "macmillan-noa",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "YouTube,\n오디오북 진출 검토",
-      "body": "YouTube에 AI-voiced 해적판 오디오북이 퍼지자 출판사가 정식판을 낸다.",
-      "mini_headline": "YouTube, 오디오북 검토",
+      "headline": "Macmillan이 반긴\nAI 비서, 결국 폐기",
+      "body": "WIRED는 Macmillan NOA가 Chaptr 종료 전부터 쓸모없었다고 썼다.",
+      "mini_headline": "Macmillan AI 비서 폐기",
       "tool": "Books",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "YouTube가 오디오북 시장으로 발을 넓히려 한다."
+            "t": "img",
+            "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+            "cap": "사진 일러스트: Jacqui VanLiew; Getty Images"
           },
           {
             "t": "p",
-            "x": "AI-generated 오디오 버전으로 만든 해적판이 플랫폼에 넘쳐나자 출판사들은 그 안에서 오디오북을 합법적으로 들을 길을 내놓는다."
+            "x": "2024년 1월 어느 아침, Lower Manhattan의 Macmillan Publishers 본사에 출근한 직원들은 새 팀원 “NOA”를 환영하는 전단을 지나쳤다. 구내식당엔 보라색 풍선이 걸렸고 도넛을 가득 담은 접시들이 “NOA IS HERE”라는 글자를 그렸다. NOA(No Ordinary Assistant)는 Macmillan의 모회사 Holtzbrinck가 “후원하는” 독일 소프트웨어 기업 Chaptr가 만든 AI 챗봇이었다."
           },
           {
             "t": "p",
-            "x": "전체 기사는 Jane Friedman 뉴스레터 유료 구독자만 볼 수 있다."
+            "x": "직원들은 이메일 작성, 문안 초안, 마케팅 리서치, 아이디어 구상에 NOA를 쓰라고 권유받았다. 나중엔 인사 평가용 목표까지 NOA로 세우라는 말을 들었다고 한다. 한 직원은 “형편없었고 아무도 쓰지 않았다”고 말한다. 2025년 10월에는 전사 이메일로 Chaptr의 NOA 종료 소식이 전해졌다. 직원들 말로는 그 뒤 경영진이 Google Gemini 도입을 밀어 왔다. Macmillan의 Kelly Collins는 “제기된 내용은 NOA를 도입하고 알린 방식을 정확히 반영하지 않는다”고 말한다."
+          },
+          {
+            "t": "p",
+            "x": "Penguin Random House 직원들도 PRH 독일 법인이 OpenAI와 소송을 벌이는 와중에도 ChatGPT Enterprise를 써 보라는 권유를 받았다고 전한다. Big Five 출판사의 베스트셀러 작가 여럿은 AI 사용 문제로 출판사와 사이가 틀어졌다고 했다. 한 작가는 “우리가 요구하는 최소한은 공개”라고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "YouTube eyes a move\ninto audiobooks",
-          "body": "AI-voiced pirate audiobooks spreading on YouTube are pushing publishers toward legitimate ways to listen there.",
-          "mini_headline": "YouTube eyes audiobooks",
+          "headline": "Macmillan threw a party for\nan AI assistant later killed",
+          "body": "Workers tell WIRED that Macmillan's internal assistant NOA was unhelpful before Chaptr sunset it.",
+          "mini_headline": "Macmillan's AI assistant killed",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTube looks to expand into audiobooks."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "Photo-illustration: Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "Rampant piracy on the platform, due to AI-generated audio versions, is leading publishers to provide legitimate means of enjoying audiobooks there."
+                "x": "As staff at the Lower Manhattan headquarters of Macmillan Publishers headed into work one morning in January 2024, they filed past flyers welcoming a new member of the team named “NOA.” The cafeteria was festooned with purple balloons, and a plate full of doughnuts spelled out “NOA IS HERE.” NOA—No Ordinary Assistant—was an AI chatbot developed by the German software company Chaptr, which is “backed” by Holtzbrinck, Macmillan’s parent company."
               },
               {
                 "t": "p",
-                "x": "The full article is available to paid subscribers of Jane Friedman's newsletter."
+                "x": "Staffers say they were encouraged to use NOA for composing emails, drafting copy, marketing research and generating ideas, and later to generate their goals for performance reviews. “It was terrible, and no one used it,” one says. In October 2025, staff learned via a company-wide email that Chaptr would be sunsetting NOA; since then, workers say, leadership has been attempting to integrate Google Gemini. Macmillan’s Kelly Collins says “the points shared do not accurately reflect how NOA was rolled out and communicated.”"
+              },
+              {
+                "t": "p",
+                "x": "At Penguin Random House, workers say they’ve been encouraged to use ChatGPT Enterprise even though PRH’s German division is suing OpenAI. Several bestselling Big Five authors say their relationships with publishers have suffered due to AI use. “The bare minimum we're asking for is disclosure,” one author says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "YouTube,\n오디오북 진출 검토",
-          "body": "YouTube에 AI-voiced 해적판 오디오북이 퍼지자 출판사가 정식판을 낸다.",
-          "mini_headline": "YouTube, 오디오북 검토",
+          "headline": "Macmillan이 반긴\nAI 비서, 결국 폐기",
+          "body": "WIRED는 Macmillan NOA가 Chaptr 종료 전부터 쓸모없었다고 썼다.",
+          "mini_headline": "Macmillan AI 비서 폐기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTube가 오디오북 시장으로 발을 넓히려 한다."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "사진 일러스트: Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "AI-generated 오디오 버전으로 만든 해적판이 플랫폼에 넘쳐나자 출판사들은 그 안에서 오디오북을 합법적으로 들을 길을 내놓는다."
+                "x": "2024년 1월 어느 아침, Lower Manhattan의 Macmillan Publishers 본사에 출근한 직원들은 새 팀원 “NOA”를 환영하는 전단을 지나쳤다. 구내식당엔 보라색 풍선이 걸렸고 도넛을 가득 담은 접시들이 “NOA IS HERE”라는 글자를 그렸다. NOA(No Ordinary Assistant)는 Macmillan의 모회사 Holtzbrinck가 “후원하는” 독일 소프트웨어 기업 Chaptr가 만든 AI 챗봇이었다."
               },
               {
                 "t": "p",
-                "x": "전체 기사는 Jane Friedman 뉴스레터 유료 구독자만 볼 수 있다."
+                "x": "직원들은 이메일 작성, 문안 초안, 마케팅 리서치, 아이디어 구상에 NOA를 쓰라고 권유받았다. 나중엔 인사 평가용 목표까지 NOA로 세우라는 말을 들었다고 한다. 한 직원은 “형편없었고 아무도 쓰지 않았다”고 말한다. 2025년 10월에는 전사 이메일로 Chaptr의 NOA 종료 소식이 전해졌다. 직원들 말로는 그 뒤 경영진이 Google Gemini 도입을 밀어 왔다. Macmillan의 Kelly Collins는 “제기된 내용은 NOA를 도입하고 알린 방식을 정확히 반영하지 않는다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Penguin Random House 직원들도 PRH 독일 법인이 OpenAI와 소송을 벌이는 와중에도 ChatGPT Enterprise를 써 보라는 권유를 받았다고 전한다. Big Five 출판사의 베스트셀러 작가 여럿은 AI 사용 문제로 출판사와 사이가 틀어졌다고 했다. 한 작가는 “우리가 요구하는 최소한은 공개”라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "YouTubeが\nオーディオブック参入へ",
-          "body": "YouTubeのAI-voiced海賊版オーディオブックが出版社を正規配信へ促す。",
-          "mini_headline": "YouTube、オーディオブックへ",
+          "headline": "Macmillanが祝った\nAI秘書、のちに廃止",
+          "body": "WIREDによると、MacmillanのNOAはChaptrの終了前から役に立たなかった。",
+          "mini_headline": "MacmillanのAI秘書が廃止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTubeはオーディオブックへの事業拡大を視野に入れている。"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "写真イラスト：Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "AI-generatedの音声版によって同プラットフォームでは海賊版が横行しており、出版社はそこでオーディオブックを正規に楽しめる手段の提供へ動いている。"
+                "x": "2024年1月のある朝、Lower ManhattanにあるMacmillan Publishers本社に出勤した社員たちは、「NOA」という新しいチームメンバーを歓迎するチラシの前を通り過ぎた。社員食堂は紫の風船で飾られ、ドーナツを並べた皿は「NOA IS HERE」という文字を描いていた。NOA（No Ordinary Assistant）は、Macmillanの親会社Holtzbrinckが「支援する」ドイツのソフトウェア企業Chaptrが開発したAIチャットボットだった。"
               },
               {
                 "t": "p",
-                "x": "記事全文はJane Friedmanのニュースレター有料購読者向けに公開されている。"
+                "x": "社員によると、NOAはメール作成、コピーの下書き、マーケティング調査、アイデア出しに使うよう勧められ、のちには人事評価の目標づくりにも使うよう求められた。ある社員は「ひどいもので、誰も使っていなかった」と語る。2025年10月、社員は全社メールでChaptrがNOAを終了すると知らされた。社員によれば、それ以来、経営陣はGoogle Geminiの導入を進めている。MacmillanのKelly Collinsは「示された点は、NOAの導入と周知のされ方を正確に反映していない」と述べる。"
+              },
+              {
+                "t": "p",
+                "x": "Penguin Random Houseでも、PRHのドイツ部門がOpenAIを提訴しているにもかかわらず、ChatGPT Enterpriseの利用を勧められていると社員は言う。Big Fiveのベストセラー作家数人は、AIの利用によって出版社との関係が損なわれたと語る。ある作家は「私たちが求める最低限は開示だ」と言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "YouTube\n拟进军有声书",
-          "body": "YouTube上泛滥的AI-voiced盗版有声书，正推动出版商在该平台提供正规收听渠道。",
-          "mini_headline": "YouTube瞄准有声书",
+          "headline": "Macmillan曾办派对\n迎AI助手，后遭关停",
+          "body": "员工告诉WIRED，Macmillan内部助手NOA在被Chaptr停用前就不好用。",
+          "mini_headline": "Macmillan的AI助手遭关停",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTube正寻求向有声书领域扩张。"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "照片插图：Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "由于AI-generated音频版本泛滥，该平台盗版猖獗，促使出版商在那里提供合法收听有声书的途径。"
+                "x": "2024年1月的一个早晨，Macmillan Publishers位于Lower Manhattan的总部员工上班时，从一张张欢迎新成员“NOA”的传单前走过。员工餐厅挂满紫色气球，一盘甜甜圈拼出了“NOA IS HERE”字样。NOA——No Ordinary Assistant——是一款AI聊天机器人，由Macmillan母公司Holtzbrinck“支持”的德国软件公司Chaptr开发。"
               },
               {
                 "t": "p",
-                "x": "全文仅向Jane Friedman新闻通讯的付费订阅者开放。"
+                "x": "员工们说，公司鼓励他们用NOA撰写邮件、起草文案、做营销调研和构思创意，后来还让他们用它生成绩效考核目标。一名员工说：“它糟透了，没人用。”2025年10月，员工通过全员邮件得知Chaptr将停用NOA；员工们说，此后管理层一直在尝试引入Google Gemini。Macmillan的Kelly Collins表示：“所述内容并未准确反映NOA的推出和沟通方式。”"
+              },
+              {
+                "t": "p",
+                "x": "在Penguin Random House，员工说公司鼓励他们使用ChatGPT Enterprise，尽管PRH的德国分部正在起诉OpenAI。多位Big Five出版社的畅销书作者表示，AI的使用损害了他们与出版社的关系。一位作者说：“我们要求的最低限度是披露。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "YouTube estudia dar el salto\nal mercado de audiolibros",
-          "body": "Los audiolibros piratas AI-voiced difundidos en YouTube empujan a las editoriales hacia vías legítimas de escucha allí.",
-          "mini_headline": "YouTube mira a los audiolibros",
+          "headline": "Macmillan hizo una fiesta a un\nasistente de IA luego cerrado",
+          "body": "Empleados cuentan a WIRED que NOA, el asistente interno de Macmillan, era poco útil antes de que Chaptr lo retirara.",
+          "mini_headline": "Macmillan pierde su asistente de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTube busca expandirse a los audiolibros."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "Fotoilustración: Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "La piratería desenfrenada en la plataforma, debida a versiones de audio AI-generated, está llevando a las editoriales a ofrecer medios legítimos para disfrutar allí de audiolibros."
+                "x": "Cuando el personal de la sede de Macmillan Publishers en Lower Manhattan llegaba a trabajar una mañana de enero de 2024, pasó junto a carteles que daban la bienvenida a un nuevo miembro del equipo llamado “NOA”. La cafetería estaba adornada con globos morados y una bandeja llena de dónuts formaba la frase “NOA IS HERE”. NOA —No Ordinary Assistant— era un chatbot de IA desarrollado por la empresa alemana de software Chaptr, “respaldada” por Holtzbrinck, la matriz de Macmillan."
               },
               {
                 "t": "p",
-                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
+                "x": "Según los empleados, se les animó a usar NOA para redactar correos, preparar borradores de textos, hacer estudios de marketing y generar ideas, y más tarde para fijar sus objetivos en las evaluaciones de desempeño. “Era terrible y nadie lo usaba”, dice uno. En octubre de 2025, el personal supo por un correo a toda la empresa que Chaptr dejaría de ofrecer NOA; desde entonces, según los trabajadores, la dirección intenta integrar Google Gemini. Kelly Collins, de Macmillan, afirma que “los puntos expuestos no reflejan con precisión cómo se implantó y comunicó NOA”."
+              },
+              {
+                "t": "p",
+                "x": "En Penguin Random House, los empleados dicen que se les ha animado a usar ChatGPT Enterprise pese a que la división alemana de PRH ha demandado a OpenAI. Varios autores superventas de las Big Five afirman que su relación con las editoriales se ha resentido por el uso de IA. “Lo mínimo que pedimos es que se informe”, dice un autor."
               }
             ]
           }
@@ -145,89 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "YouTube,\n오디오북 진출 검토",
-          "body": "YouTube의 AI-voiced 해적판 오디오북이 출판사를 정식 서비스로 이끈다.",
-          "mini_headline": "YouTube, 오디오북 검토",
+          "headline": "Macmillan이 반긴\nAI 비서, 결국 폐기",
+          "body": "WIRED는 Macmillan NOA가 Chaptr 종료 전에도 무용했다고 썼다.",
+          "mini_headline": "Macmillan AI 비서 폐기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTube가 오디오북으로 영역 확장을 모색한다."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "사진 일러스트: Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "AI-generated 오디오 버전 탓에 플랫폼 내 해적판이 만연하자, 출판사들이 그곳에서 오디오북을 합법적으로 즐길 수단을 내놓고 있다."
+                "x": "2024년 1월 어느 아침, Lower Manhattan의 Macmillan Publishers 본사로 출근하던 직원들은 “NOA”라는 새 팀원을 환영하는 전단 앞을 지나갔다. 구내식당은 보라색 풍선으로 꾸며져 있었고, 도넛을 가득 담은 접시는 “NOA IS HERE”라는 글자를 이루고 있었다. NOA(No Ordinary Assistant)는 Macmillan의 모회사 Holtzbrinck가 “후원하는” 독일 소프트웨어 기업 Chaptr가 개발한 AI 챗봇이었다."
               },
               {
                 "t": "p",
-                "x": "전체 기사는 Jane Friedman 뉴스레터 유료 구독자에게 공개된다."
+                "x": "직원들은 이메일 작성, 문안 초안, 마케팅 리서치, 아이디어 구상에 NOA를 쓰라는 권유를 받았고, 나중에는 인사 평가용 목표까지 NOA로 만들라는 말을 들었다고 한다. 한 직원은 “형편없었고 아무도 쓰지 않았다”고 말한다. 2025년 10월 직원들은 전사 이메일로 Chaptr가 NOA를 종료한다는 소식을 들었고, 직원들에 따르면 그 뒤 경영진은 Google Gemini 도입을 추진해 왔다. Macmillan의 Kelly Collins는 “제기된 내용은 NOA를 도입하고 알린 방식을 정확히 반영하지 않는다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Penguin Random House 직원들도 PRH의 독일 법인이 OpenAI를 상대로 소송 중인데도 ChatGPT Enterprise 사용을 권유받았다고 말한다. Big Five 출판사의 베스트셀러 작가 여러 명은 AI 사용 탓에 출판사와의 관계가 나빠졌다고 말한다. 한 작가는 “우리가 요구하는 최소한은 공개”라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "YouTubeが\nオーディオブック参入へ",
-          "body": "YouTubeのAI-voiced海賊版オーディオブックが出版社を正規配信へ促す。",
-          "mini_headline": "YouTube、オーディオブックへ",
+          "headline": "Macmillanが祝った\nAI秘書、のちに廃止",
+          "body": "WIREDによると、MacmillanのNOAはChaptrの終了前から役に立たなかった。",
+          "mini_headline": "MacmillanのAI秘書が廃止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTubeはオーディオブックへの事業拡大を視野に入れている。"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "写真イラスト：Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "AI-generatedの音声版によって同プラットフォームでは海賊版が横行しており、出版社はそこでオーディオブックを正規に楽しめる手段の提供へ動いている。"
+                "x": "2024年1月のある朝、Lower ManhattanにあるMacmillan Publishers本社に出勤した社員たちは、「NOA」という新しいチームメンバーを歓迎するチラシの前を通り過ぎた。社員食堂は紫の風船で飾られ、ドーナツを並べた皿は「NOA IS HERE」という文字を描いていた。NOA（No Ordinary Assistant）は、Macmillanの親会社Holtzbrinckが「支援する」ドイツのソフトウェア企業Chaptrが開発したAIチャットボットだった。"
               },
               {
                 "t": "p",
-                "x": "記事全文はJane Friedmanのニュースレター有料購読者向けに公開されている。"
+                "x": "社員によると、NOAはメール作成、コピーの下書き、マーケティング調査、アイデア出しに使うよう勧められ、のちには人事評価の目標づくりにも使うよう求められた。ある社員は「ひどいもので、誰も使っていなかった」と語る。2025年10月、社員は全社メールでChaptrがNOAを終了すると知らされた。社員によれば、それ以来、経営陣はGoogle Geminiの導入を進めている。MacmillanのKelly Collinsは「示された点は、NOAの導入と周知のされ方を正確に反映していない」と述べる。"
+              },
+              {
+                "t": "p",
+                "x": "Penguin Random Houseでも、PRHのドイツ部門がOpenAIを提訴しているにもかかわらず、ChatGPT Enterpriseの利用を勧められていると社員は言う。Big Fiveのベストセラー作家数人は、AIの利用によって出版社との関係が損なわれたと語る。ある作家は「私たちが求める最低限は開示だ」と言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "YouTube\n拟进军有声书",
-          "body": "YouTube上泛滥的AI-voiced盗版有声书，正推动出版商在该平台提供正规收听渠道。",
-          "mini_headline": "YouTube瞄准有声书",
+          "headline": "Macmillan曾办派对\n迎AI助手，后遭关停",
+          "body": "员工告诉WIRED，Macmillan内部助手NOA在被Chaptr停用前就不好用。",
+          "mini_headline": "Macmillan的AI助手遭关停",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTube正寻求向有声书领域扩张。"
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "照片插图：Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "由于AI-generated音频版本泛滥，该平台盗版猖獗，促使出版商在那里提供合法收听有声书的途径。"
+                "x": "2024年1月的一个早晨，Macmillan Publishers位于Lower Manhattan的总部员工上班时，从一张张欢迎新成员“NOA”的传单前走过。员工餐厅挂满紫色气球，一盘甜甜圈拼出了“NOA IS HERE”字样。NOA——No Ordinary Assistant——是一款AI聊天机器人，由Macmillan母公司Holtzbrinck“支持”的德国软件公司Chaptr开发。"
               },
               {
                 "t": "p",
-                "x": "全文仅向Jane Friedman新闻通讯的付费订阅者开放。"
+                "x": "员工们说，公司鼓励他们用NOA撰写邮件、起草文案、做营销调研和构思创意，后来还让他们用它生成绩效考核目标。一名员工说：“它糟透了，没人用。”2025年10月，员工通过全员邮件得知Chaptr将停用NOA；员工们说，此后管理层一直在尝试引入Google Gemini。Macmillan的Kelly Collins表示：“所述内容并未准确反映NOA的推出和沟通方式。”"
+              },
+              {
+                "t": "p",
+                "x": "在Penguin Random House，员工说公司鼓励他们使用ChatGPT Enterprise，尽管PRH的德国分部正在起诉OpenAI。多位Big Five出版社的畅销书作者表示，AI的使用损害了他们与出版社的关系。一位作者说：“我们要求的最低限度是披露。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "YouTube estudia dar el salto\nal mercado de audiolibros",
-          "body": "Los audiolibros piratas AI-voiced difundidos en YouTube empujan a las editoriales hacia vías legítimas de escucha allí.",
-          "mini_headline": "YouTube mira a los audiolibros",
+          "headline": "Macmillan hizo una fiesta a un\nasistente de IA luego cerrado",
+          "body": "Empleados cuentan a WIRED que NOA, el asistente interno de Macmillan, era poco útil antes de que Chaptr lo retirara.",
+          "mini_headline": "Macmillan pierde su asistente de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "YouTube busca expandirse a los audiolibros."
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+                "cap": "Fotoilustración: Jacqui VanLiew; Getty Images"
               },
               {
                 "t": "p",
-                "x": "La piratería desenfrenada en la plataforma, debida a versiones de audio AI-generated, está llevando a las editoriales a ofrecer medios legítimos para disfrutar allí de audiolibros."
+                "x": "Cuando el personal de la sede de Macmillan Publishers en Lower Manhattan llegaba a trabajar una mañana de enero de 2024, pasó junto a carteles que daban la bienvenida a un nuevo miembro del equipo llamado “NOA”. La cafetería estaba adornada con globos morados y una bandeja llena de dónuts formaba la frase “NOA IS HERE”. NOA —No Ordinary Assistant— era un chatbot de IA desarrollado por la empresa alemana de software Chaptr, “respaldada” por Holtzbrinck, la matriz de Macmillan."
               },
               {
                 "t": "p",
-                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
+                "x": "Según los empleados, se les animó a usar NOA para redactar correos, preparar borradores de textos, hacer estudios de marketing y generar ideas, y más tarde para fijar sus objetivos en las evaluaciones de desempeño. “Era terrible y nadie lo usaba”, dice uno. En octubre de 2025, el personal supo por un correo a toda la empresa que Chaptr dejaría de ofrecer NOA; desde entonces, según los trabajadores, la dirección intenta integrar Google Gemini. Kelly Collins, de Macmillan, afirma que “los puntos expuestos no reflejan con precisión cómo se implantó y comunicó NOA”."
+              },
+              {
+                "t": "p",
+                "x": "En Penguin Random House, los empleados dicen que se les ha animado a usar ChatGPT Enterprise pese a que la división alemana de PRH ha demandado a OpenAI. Varios autores superventas de las Big Five afirman que su relación con las editoriales se ha resentido por el uso de IA. “Lo mínimo que pedimos es que se informe”, dice un autor."
               }
             ]
           }
@@ -235,15 +285,15 @@
       }
     },
     {
-      "id": "guideslop",
-      "source_lang": "en",
+      "id": "silva-rojas",
+      "source_lang": "es",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon Japan에\nAI-made 공략집 범람",
-      "body": "Amazon Japan을 AI-made 추정 Fire Emblem 공략집이 채웠다.",
-      "mini_headline": "Amazon Japan의 AI 공략집",
+      "headline": "20,000유로 수상작\n99% IA 작성 의혹",
+      "body": "Pangram이 David Silva Rojas 소설을 99% IA로 판정했다.",
+      "mini_headline": "수상 소설, 99% IA",
       "tool": "Books",
-      "source": "AUTOMATON WEST",
-      "url": "https://automaton-media.com/en/news/seemingly-ai-generated-fire-emblem-fortunes-weave-guidebooks-flood-amazon-japan-self-publishing-system-allows-anyone-to-mass-produce-guideslop/",
+      "source": "Caretas",
+      "url": "https://caretas.pe/?p=840777",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -251,375 +301,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+            "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+            "cap": "David Silva Rojas는 \"Donde el agua trabaja\"의 작가다. Foto: composición Caretas/BeCult/El País"
           },
           {
             "t": "p",
-            "x": "Nintendo가 9월 17일 Fire Emblem: Fortune’s Weave를 내놓자 Amazon Japan에서 이 제목으로 검색되는 공략집이 벌써 최소 아홉 권이다. 공식 공략집은 한 권도 없다. 표지 상당수는 AI-generated로 보이고 전자책(e-books)으로 나온 책도 없는 듯하다."
+            "x": "페루 작가 David Silva Rojas의 소설 \"Donde el agua trabaja\"는 탐지기 Pangram 분석 결과 약 26,000단어 가운데 99%가 인공지능(IA)이 쓴 글로 나왔다. 이 작품은 2026년 7월 상금 20,000유로의 Premio Internacional de Novela Breve Almadía Ventosa-Arrufat를 받았다. 공모 요강은 이런 도구를 일부만 쓰는 것도 금지했다."
+          },
+          {
+            "t": "p",
+            "x": "El País의 취재 이후 멕시코 출판사 Almadía는 10월 23일 Madrid에서 열 예정이던 책 출간 행사를 취소하고 스페인 다른 도시의 행사도 중단했다. 작가는 인공지능을 쓰지 않았다고 부인했고 출판사는 사안을 검토하겠다고 밝혔다. Pangram은 잡지 Ulrica 인터뷰에서 작가가 한 답변의 97%, 924단어 분량 자전적 글의 80%도 IA가 생성한 것으로 분류했다."
+          },
+          {
+            "t": "p",
+            "x": "다만 이 매체는 Pangram도 완벽하지 않다고 짚었다. 통계 패턴은 잡아내도 누군가 IA로 작품 전체를 만들었는지, 자기 메모를 문장으로 다듬는 데 썼는지는 가려내지 못한다. 이 소설은 Cristina Rivera Garza, Selva Almada, Mónica Ojeda로 꾸려진 심사위원단 앞에서 원고 2,204편을 제치고 뽑혔다."
           },
           {
             "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-          },
-          {
-            "t": "p",
-            "x": "제목마다 “완벽 공략”, “숨겨진 비밀”, “심층 가이드” 같은 문구가 붙는다. 리뷰가 달린 네 권에는 Amazon 인증 구매 표시가 붙은 리뷰도 있는데, 평점은 모두 별 하나(one-star)다. “이 책을 사는 실수를 하지 마라”, “완전히 쓸모없는 구매”라는 평이 이어진다. 샘플 페이지엔 이미지 하나 없이 장황한 글만 빽빽하다."
-          },
-          {
-            "t": "p",
-            "x": "Amazon의 Kindle Direct Publishing(KDP)에서는 누구나 무료로 책을 자가 출판하고, 주문형 인쇄(print-on-demand) 비용은 판매 수익에서 빠진다. 여기에 생성형 AI를 더하면 별 위험 없이 “책”을 대량으로 찍어낼 수 있다. KDP는 출판할 때 AI 사용을 밝히라고 요구하지만 아홉 권 가운데 소비자에게 이를 알린 책은 없어 보였다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-          },
-          {
-            "t": "p",
-            "x": "리뷰만 봐도 소비자는 실제로 속고 있다. AI 도구가 좋아질수록 이런 가짜 출판물은 더 그럴듯해질 공산이 크다."
+            "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI-made game guides\nflood Amazon Japan",
-          "body": "Seemingly AI-made Fire Emblem guidebooks flood Amazon Japan, and reviews suggest buyers are being misled.",
-          "mini_headline": "AI guides flood Amazon Japan",
+        "es": {
+          "headline": "Premio de 20.000 euros a una\nnovela acusada de ser 99% IA",
+          "body": "Pangram atribuye a la IA el 99% de la novela premiada de David Silva Rojas, que niega haberla usado.",
+          "mini_headline": "Novela premiada, 99% IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojas es autor de \"Donde el agua trabaja\". Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "Nintendo released Fire Emblem: Fortune’s Weave on September 17, and searching for the title on Amazon Japan already yields at least nine guidebooks, none of which are official. Their covers appear heavily AI-generated, and none seem to be available as e-books."
+                "x": "La novela \"Donde el agua trabaja\", del escritor peruano David Silva Rojas, fue señalada por un análisis del detector Pangram, que atribuyó a la inteligencia artificial el 99% de sus aproximadamente 26.000 palabras. La obra obtuvo en julio de 2026 el Premio Internacional de Novela Breve Almadía Ventosa-Arrufat, dotado con 20.000 euros, pese a que las bases del certamen prohibían el uso parcial o total de estas herramientas."
+              },
+              {
+                "t": "p",
+                "x": "Tras la investigación de El País, la editorial mexicana Almadía canceló la presentación del libro prevista para el 23 de octubre en Madrid y suspendió los actos en otras ciudades españolas. El autor niega haber utilizado inteligencia artificial, y la editorial anunció una revisión del caso. Pangram también clasificó como generado por IA el 97% de sus respuestas en una entrevista con la revista Ulrica y el 80% de un texto autobiográfico de 924 palabras."
+              },
+              {
+                "t": "p",
+                "x": "El propio medio advirtió que Pangram no es infalible: identifica patrones estadísticos, pero no distingue si alguien usó IA para producir una obra completa o para transformar apuntes propios en prosa. La novela se impuso entre 2.204 manuscritos ante un jurado integrado por Cristina Rivera Garza, Selva Almada y Mónica Ojeda."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Novel awarded 20,000 euros\naccused of being 99% AI (IA)",
+          "body": "Pangram attributes 99% of David Silva Rojas's prize-winning novel to AI (IA), though he denies using it.",
+          "mini_headline": "Prize novel, 99% AI (IA)",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojas is the author of \"Donde el agua trabaja\". Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "The titles promise a “complete walkthrough,” “hidden secrets,” and an “in-depth guide.” Four of the books have reviews, including one marked as a verified Amazon purchase, and each gives a one-star score: “Don’t make the mistake of buying this,” and “A completely useless purchase.” Sample pages contain nothing but walls of text, with no images and a notably verbose writing style."
+                "x": "The novel \"Donde el agua trabaja\", by Peruvian writer David Silva Rojas, was flagged by an analysis from the Pangram detector, which attributed 99% of its roughly 26,000 words to artificial intelligence (IA). In July 2026 the work won the Premio Internacional de Novela Breve Almadía Ventosa-Arrufat, worth 20,000 euros, even though the contest rules prohibited partial or total use of these tools."
               },
               {
                 "t": "p",
-                "x": "Amazon’s Kindle Direct Publishing (KDP) lets individuals self-publish for free, with print-on-demand costs deducted from sales. Combined with generative AI, the system makes it possible to mass-produce “books” at little risk. KDP requires publishers to disclose AI use during publishing, but none of the nine books appeared to disclose it to consumers."
+                "x": "Following the investigation by El País, the Mexican publisher Almadía cancelled the book's presentation planned for October 23 in Madrid and suspended events in other Spanish cities. The author denies having used artificial intelligence, and the publisher announced a review of the case. Pangram also classified as AI-generated (IA) 97% of his answers in an interview with the magazine Ulrica and 80% of a 924-word autobiographical text."
+              },
+              {
+                "t": "p",
+                "x": "The outlet itself warned that Pangram is not infallible: it identifies statistical patterns, but cannot tell whether someone used AI (IA) to produce an entire work or to turn their own notes into prose. The novel was chosen from 2,204 manuscripts by a jury made up of Cristina Rivera Garza, Selva Almada and Mónica Ojeda."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "The reviews suggest consumers are indeed being misled, and such fake publications are likely to become increasingly convincing as AI tools evolve."
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon Japan에\nAI-made 공략집 범람",
-          "body": "Amazon Japan을 AI-made 추정 Fire Emblem 공략집이 채웠다.",
-          "mini_headline": "Amazon Japan의 AI 공략집",
+          "headline": "20,000유로 수상작\n99% IA 작성 의혹",
+          "body": "Pangram이 David Silva Rojas 소설을 99% IA로 판정했다.",
+          "mini_headline": "수상 소설, 99% IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojas는 \"Donde el agua trabaja\"의 작가다. Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "Nintendo가 9월 17일 Fire Emblem: Fortune’s Weave를 내놓자 Amazon Japan에서 이 제목으로 검색되는 공략집이 벌써 최소 아홉 권이다. 공식 공략집은 한 권도 없다. 표지 상당수는 AI-generated로 보이고 전자책(e-books)으로 나온 책도 없는 듯하다."
+                "x": "페루 작가 David Silva Rojas의 소설 \"Donde el agua trabaja\"는 탐지기 Pangram 분석 결과 약 26,000단어 가운데 99%가 인공지능(IA)이 쓴 글로 나왔다. 이 작품은 2026년 7월 상금 20,000유로의 Premio Internacional de Novela Breve Almadía Ventosa-Arrufat를 받았다. 공모 요강은 이런 도구를 일부만 쓰는 것도 금지했다."
+              },
+              {
+                "t": "p",
+                "x": "El País의 취재 이후 멕시코 출판사 Almadía는 10월 23일 Madrid에서 열 예정이던 책 출간 행사를 취소하고 스페인 다른 도시의 행사도 중단했다. 작가는 인공지능을 쓰지 않았다고 부인했고 출판사는 사안을 검토하겠다고 밝혔다. Pangram은 잡지 Ulrica 인터뷰에서 작가가 한 답변의 97%, 924단어 분량 자전적 글의 80%도 IA가 생성한 것으로 분류했다."
+              },
+              {
+                "t": "p",
+                "x": "다만 이 매체는 Pangram도 완벽하지 않다고 짚었다. 통계 패턴은 잡아내도 누군가 IA로 작품 전체를 만들었는지, 자기 메모를 문장으로 다듬는 데 썼는지는 가려내지 못한다. 이 소설은 Cristina Rivera Garza, Selva Almada, Mónica Ojeda로 꾸려진 심사위원단 앞에서 원고 2,204편을 제치고 뽑혔다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-              },
-              {
-                "t": "p",
-                "x": "제목마다 “완벽 공략”, “숨겨진 비밀”, “심층 가이드” 같은 문구가 붙는다. 리뷰가 달린 네 권에는 Amazon 인증 구매 표시가 붙은 리뷰도 있는데, 평점은 모두 별 하나(one-star)다. “이 책을 사는 실수를 하지 마라”, “완전히 쓸모없는 구매”라는 평이 이어진다. 샘플 페이지엔 이미지 하나 없이 장황한 글만 빽빽하다."
-              },
-              {
-                "t": "p",
-                "x": "Amazon의 Kindle Direct Publishing(KDP)에서는 누구나 무료로 책을 자가 출판하고, 주문형 인쇄(print-on-demand) 비용은 판매 수익에서 빠진다. 여기에 생성형 AI를 더하면 별 위험 없이 “책”을 대량으로 찍어낼 수 있다. KDP는 출판할 때 AI 사용을 밝히라고 요구하지만 아홉 권 가운데 소비자에게 이를 알린 책은 없어 보였다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "리뷰만 봐도 소비자는 실제로 속고 있다. AI 도구가 좋아질수록 이런 가짜 출판물은 더 그럴듯해질 공산이 크다."
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon Japanに\nAI-made攻略本が氾濫",
-          "body": "AI-madeとみられるFire Emblem攻略本がAmazon Japanにあふれる。",
-          "mini_headline": "Amazon JapanにAI攻略本",
+          "headline": "20,000ユーロ受賞小説\n99%がIAとの疑い",
+          "body": "PangramはDavid Silva Rojasの受賞作の99%をIA生成と判定した。",
+          "mini_headline": "受賞小説、99% IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojasは「Donde el agua trabaja」の作者である。Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "Nintendoは9月17日に『Fire Emblem: Fortune’s Weave』を発売したが、Amazon Japanでタイトルを検索すると、すでに少なくとも九冊の攻略本が表示され、いずれも公式ではない。表紙は大部分がAI-generatedとみられ、電子書籍(e-books)版はどれも用意されていないようだ。"
+                "x": "ペルーの作家David Silva Rojasの小説「Donde el agua trabaja」は、検出ツールPangramの分析で、約26,000語のうち99%が人工知能(IA)によるものとされた。同作は2026年7月、賞金20,000ユーロのPremio Internacional de Novela Breve Almadía Ventosa-Arrufatを受賞したが、応募規定はこうしたツールの部分的・全面的な使用を禁じていた。"
+              },
+              {
+                "t": "p",
+                "x": "El Paísの調査を受け、メキシコの出版社Almadíaは10月23日にMadridで予定していた刊行イベントを中止し、スペイン国内のほかの都市での催しも取りやめた。作者は人工知能の使用を否定しており、出版社は本件を検証すると発表した。Pangramは雑誌Ulricaのインタビューでの作者の回答の97%と、924語の自伝的文章の80%もIA生成と分類した。"
+              },
+              {
+                "t": "p",
+                "x": "同紙自身も、Pangramは万能ではないと指摘した。統計的なパターンは識別できるが、作品全体をIAで生み出したのか、自分のメモを文章に整えるのに使ったのかまでは区別できない。同作はCristina Rivera Garza、Selva Almada、Mónica Ojedaによる審査で、2,204編の原稿の中から選ばれた。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-              },
-              {
-                "t": "p",
-                "x": "書名には「完全攻略」「隠された秘密」「徹底ガイド」といった文句が並ぶ。四冊にはレビューが付いており、Amazonの認証購入とされるものも含め、いずれも星一つ(one-star)だ。「買う過ちを犯すな」「まったくの無駄な買い物」といった内容である。サンプルページは画像がなく、冗長な文体の文章がびっしり続くだけだ。"
-              },
-              {
-                "t": "p",
-                "x": "AmazonのKindle Direct Publishing(KDP)では個人が無料で自費出版でき、プリント・オン・デマンド(print-on-demand)の費用は売上から差し引かれる。生成AIと組み合わせれば、低いリスクで「本」を量産できる仕組みだ。KDPは出版時にAI使用の申告を求めているが、九冊のいずれも消費者にそれを開示していないようだった。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "レビューからは消費者が実際に惑わされていることがうかがえ、AIツールの進化につれて、こうした偽の出版物はますます本物らしくなるとみられる。"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-made游戏攻略书\n涌入Amazon Japan",
-          "body": "疑似AI-made的Fire Emblem攻略书涌入Amazon Japan，买家受骗。",
-          "mini_headline": "AI攻略书涌入Amazon Japan",
+          "headline": "获20,000欧元奖的小说\n被指99%由IA写成",
+          "body": "Pangram认定David Silva Rojas的获奖小说99%由IA生成，作者否认。",
+          "mini_headline": "获奖小说，99% IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojas是《Donde el agua trabaja》的作者。Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "Nintendo于9月17日发售了《Fire Emblem: Fortune’s Weave》，如今在Amazon Japan搜索该作，已能找到至少九本攻略书，且没有一本是官方出品。这些书的封面看起来大量是AI-generated的，而且似乎都没有电子书（e-books）版本。"
+                "x": "秘鲁作家David Silva Rojas的小说《Donde el agua trabaja》经检测工具Pangram分析，其约26,000个词中有99%被认定出自人工智能(IA)。该作于2026年7月获得奖金20,000欧元的Premio Internacional de Novela Breve Almadía Ventosa-Arrufat，而评选规则明确禁止部分或全部使用此类工具。"
+              },
+              {
+                "t": "p",
+                "x": "El País展开调查后，墨西哥出版社Almadía取消了原定10月23日在Madrid举行的新书发布会，并暂停了在西班牙其他城市的活动。作者否认使用过人工智能，出版社宣布将对此事进行审查。Pangram还将作者在杂志Ulrica访谈中97%的回答，以及一篇924个词的自传性文字中的80%，归为IA生成。"
+              },
+              {
+                "t": "p",
+                "x": "该媒体也提醒，Pangram并非万无一失：它能识别统计模式，却无法区分有人是用IA生成整部作品，还是把自己的笔记转写成文章。这部小说在由Cristina Rivera Garza、Selva Almada和Mónica Ojeda组成的评审团面前，从2,204份手稿中胜出。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-              },
-              {
-                "t": "p",
-                "x": "这些书的标题标榜“完整攻略”“隐藏秘密”和“深度指南”。其中四本有评论，包括一条标注为Amazon认证购买的评论，且全部给出一星（one-star）：“千万别犯买这本书的错误”“完全是一笔无用的购买”。样张页面只有密密麻麻的文字，没有任何图片，文风也明显冗长。"
-              },
-              {
-                "t": "p",
-                "x": "Amazon的Kindle Direct Publishing（KDP）允许个人免费自助出版，按需印刷（print-on-demand）成本从销售收入中扣除。与生成式AI结合后，这套系统让人能以很低的风险批量生产“书”。KDP要求出版者在出版时披露AI使用情况，但这九本书似乎都没有向消费者披露。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "评论表明消费者确实受到了误导，而随着AI工具不断进化，这类假出版物可能会越来越以假乱真。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Guías de juegos AI-made\ninundan Amazon Japan",
-          "body": "Guías de Fire Emblem al parecer AI-made inundan Amazon Japan, y las reseñas sugieren que los compradores son engañados.",
-          "mini_headline": "Guías de AI inundan Amazon Japan",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo lanzó Fire Emblem: Fortune’s Weave el 17 de septiembre, y al buscar el título en Amazon Japan ya aparecen al menos nueve guías, ninguna de ellas oficial. Sus portadas parecen en gran medida AI-generated, y ninguna parece estar disponible en libro electrónico (e-books)."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los títulos prometen un “recorrido completo”, “secretos ocultos” y una “guía exhaustiva”. Cuatro de los libros tienen reseñas, incluida una marcada como compra verificada de Amazon, y todas otorgan una estrella (one-star): “No cometas el error de comprar esto” y “Una compra completamente inútil”. Las páginas de muestra no contienen más que bloques de texto, sin imágenes y con un estilo notablemente prolijo."
-              },
-              {
-                "t": "p",
-                "x": "Kindle Direct Publishing (KDP) de Amazon permite a cualquier persona autopublicar gratis, y los gastos de impresión bajo demanda (print-on-demand) se descuentan de las ventas. Combinado con la AI generativa, el sistema permite producir “libros” en masa con poco riesgo. KDP exige a los editores declarar el uso de AI al publicar, pero ninguno de los nueve libros parecía informarlo a los consumidores."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "Las reseñas sugieren que los consumidores sí están siendo engañados, y es probable que estas publicaciones falsas resulten cada vez más convincentes a medida que evolucionen las herramientas de AI."
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Amazon Japan에\nAI-made 공략집 범람",
-          "body": "Amazon Japan에 AI-made 추정 Fire Emblem 공략집이 넘친다.",
-          "mini_headline": "Amazon Japan의 AI 공략집",
+        "en": {
+          "headline": "Novel awarded 20,000 euros\naccused of being 99% AI (IA)",
+          "body": "Pangram attributes 99% of David Silva Rojas's prize-winning novel to AI (IA), though he denies using it.",
+          "mini_headline": "Prize novel, 99% AI (IA)",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojas is the author of \"Donde el agua trabaja\". Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "Nintendo가 9월 17일 Fire Emblem: Fortune’s Weave를 출시했는데, Amazon Japan에서 이 제목을 검색하면 벌써 공략집이 최소 아홉 권 나오며 그중 공식 공략집은 하나도 없다. 표지는 상당 부분 AI-generated로 보이고, 전자책(e-books)으로 나온 책도 없어 보인다."
+                "x": "The novel \"Donde el agua trabaja\", by Peruvian writer David Silva Rojas, was flagged by an analysis from the Pangram detector, which attributed 99% of its roughly 26,000 words to artificial intelligence (IA). In July 2026 the work won the Premio Internacional de Novela Breve Almadía Ventosa-Arrufat, worth 20,000 euros, even though the contest rules prohibited partial or total use of these tools."
+              },
+              {
+                "t": "p",
+                "x": "Following the investigation by El País, the Mexican publisher Almadía cancelled the book's presentation planned for October 23 in Madrid and suspended events in other Spanish cities. The author denies having used artificial intelligence, and the publisher announced a review of the case. Pangram also classified as AI-generated (IA) 97% of his answers in an interview with the magazine Ulrica and 80% of a 924-word autobiographical text."
+              },
+              {
+                "t": "p",
+                "x": "The outlet itself warned that Pangram is not infallible: it identifies statistical patterns, but cannot tell whether someone used AI (IA) to produce an entire work or to turn their own notes into prose. The novel was chosen from 2,204 manuscripts by a jury made up of Cristina Rivera Garza, Selva Almada and Mónica Ojeda."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "20,000유로 수상작\n99% IA 작성 의혹",
+          "body": "Pangram은 David Silva Rojas 소설을 99% IA로 판정했다.",
+          "mini_headline": "수상 소설, 99% IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojas는 \"Donde el agua trabaja\"의 작가다. Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "책 제목들은 “완벽 공략”, “숨겨진 비밀”, “심층 가이드”를 내세운다. 리뷰가 달린 네 권 가운데에는 Amazon 인증 구매로 표시된 리뷰도 있으며, 모두 별 하나(one-star)를 줬다. “이 책을 사는 실수를 하지 마라”, “완전히 쓸모없는 구매”라는 평이다. 샘플 페이지는 이미지 없이 장황한 문체의 글만 빽빽하다."
+                "x": "페루 작가 David Silva Rojas의 소설 \"Donde el agua trabaja\"는 탐지기 Pangram 분석에서 약 26,000단어 중 99%가 인공지능(IA)이 쓴 것으로 지목됐다. 이 작품은 2026년 7월 상금 20,000유로의 Premio Internacional de Novela Breve Almadía Ventosa-Arrufat를 받았다. 공모 요강은 이런 도구를 일부라도 쓰는 것을 금지하고 있었다."
               },
               {
                 "t": "p",
-                "x": "Amazon의 Kindle Direct Publishing(KDP)은 누구나 무료로 자가 출판할 수 있게 하고, 주문형 인쇄(print-on-demand) 비용은 판매 수익에서 뺀다. 생성형 AI와 결합하면 적은 위험으로 “책”을 대량 생산할 수 있다. KDP는 출판 과정에서 AI 사용을 밝히도록 요구하지만, 아홉 권 중 소비자에게 이를 알린 책은 없어 보였다."
+                "x": "El País의 취재 이후 멕시코 출판사 Almadía는 10월 23일 Madrid에서 열 예정이던 책 출간 행사를 취소하고 스페인 다른 도시의 행사도 중단했다. 작가는 인공지능을 쓰지 않았다고 부인하며, 출판사는 사안을 검토하겠다고 밝혔다. Pangram은 잡지 Ulrica 인터뷰에서 작가가 한 답변의 97%, 924단어 분량 자전적 글의 80%도 IA가 생성한 것으로 분류했다."
+              },
+              {
+                "t": "p",
+                "x": "해당 매체는 Pangram이 완벽하지 않다고 짚었다. 통계적 패턴은 찾아내지만, 누군가 IA로 작품 전체를 만들었는지 아니면 자기 메모를 문장으로 다듬는 데 썼는지는 가려내지 못한다는 것이다. 이 소설은 Cristina Rivera Garza, Selva Almada, Mónica Ojeda로 꾸려진 심사위원단 앞에서 원고 2,204편을 제치고 뽑혔다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "리뷰를 보면 소비자가 실제로 속고 있으며, AI 도구가 발전할수록 이런 가짜 출판물은 더 그럴듯해질 가능성이 크다."
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon Japanに\nAI-made攻略本が氾濫",
-          "body": "AI-madeとみられるFire Emblem攻略本がAmazon Japanにあふれる。",
-          "mini_headline": "Amazon JapanにAI攻略本",
+          "headline": "20,000ユーロ受賞小説\n99%がIAとの疑い",
+          "body": "PangramはDavid Silva Rojasの受賞作の99%をIA生成と判定した。",
+          "mini_headline": "受賞小説、99% IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojasは「Donde el agua trabaja」の作者である。Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "Nintendoは9月17日に『Fire Emblem: Fortune’s Weave』を発売したが、Amazon Japanでタイトルを検索すると、すでに少なくとも九冊の攻略本が表示され、いずれも公式ではない。表紙は大部分がAI-generatedとみられ、電子書籍(e-books)版はどれも用意されていないようだ。"
+                "x": "ペルーの作家David Silva Rojasの小説「Donde el agua trabaja」は、検出ツールPangramの分析で、約26,000語のうち99%が人工知能(IA)によるものとされた。同作は2026年7月、賞金20,000ユーロのPremio Internacional de Novela Breve Almadía Ventosa-Arrufatを受賞したが、応募規定はこうしたツールの部分的・全面的な使用を禁じていた。"
+              },
+              {
+                "t": "p",
+                "x": "El Paísの調査を受け、メキシコの出版社Almadíaは10月23日にMadridで予定していた刊行イベントを中止し、スペイン国内のほかの都市での催しも取りやめた。作者は人工知能の使用を否定しており、出版社は本件を検証すると発表した。Pangramは雑誌Ulricaのインタビューでの作者の回答の97%と、924語の自伝的文章の80%もIA生成と分類した。"
+              },
+              {
+                "t": "p",
+                "x": "同紙自身も、Pangramは万能ではないと指摘した。統計的なパターンは識別できるが、作品全体をIAで生み出したのか、自分のメモを文章に整えるのに使ったのかまでは区別できない。同作はCristina Rivera Garza、Selva Almada、Mónica Ojedaによる審査で、2,204編の原稿の中から選ばれた。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-              },
-              {
-                "t": "p",
-                "x": "書名には「完全攻略」「隠された秘密」「徹底ガイド」といった文句が並ぶ。四冊にはレビューが付いており、Amazonの認証購入とされるものも含め、いずれも星一つ(one-star)だ。「買う過ちを犯すな」「まったくの無駄な買い物」といった内容である。サンプルページは画像がなく、冗長な文体の文章がびっしり続くだけだ。"
-              },
-              {
-                "t": "p",
-                "x": "AmazonのKindle Direct Publishing(KDP)では個人が無料で自費出版でき、プリント・オン・デマンド(print-on-demand)の費用は売上から差し引かれる。生成AIと組み合わせれば、低いリスクで「本」を量産できる仕組みだ。KDPは出版時にAI使用の申告を求めているが、九冊のいずれも消費者にそれを開示していないようだった。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "レビューからは消費者が実際に惑わされていることがうかがえ、AIツールの進化につれて、こうした偽の出版物はますます本物らしくなるとみられる。"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-made游戏攻略书\n涌入Amazon Japan",
-          "body": "疑似AI-made的Fire Emblem攻略书涌入Amazon Japan，买家受骗。",
-          "mini_headline": "AI攻略书涌入Amazon Japan",
+          "headline": "获20,000欧元奖的小说\n被指99%由IA写成",
+          "body": "Pangram认定David Silva Rojas的获奖小说99%由IA生成，作者否认。",
+          "mini_headline": "获奖小说，99% IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050-1170x658.jpg",
+                "cap": "David Silva Rojas是《Donde el agua trabaja》的作者。Foto: composición Caretas/BeCult/El País"
               },
               {
                 "t": "p",
-                "x": "Nintendo于9月17日发售了《Fire Emblem: Fortune’s Weave》，如今在Amazon Japan搜索该作，已能找到至少九本攻略书，且没有一本是官方出品。这些书的封面看起来大量是AI-generated的，而且似乎都没有电子书（e-books）版本。"
+                "x": "秘鲁作家David Silva Rojas的小说《Donde el agua trabaja》经检测工具Pangram分析，其约26,000个词中有99%被认定出自人工智能(IA)。该作于2026年7月获得奖金20,000欧元的Premio Internacional de Novela Breve Almadía Ventosa-Arrufat，而评选规则明确禁止部分或全部使用此类工具。"
+              },
+              {
+                "t": "p",
+                "x": "El País展开调查后，墨西哥出版社Almadía取消了原定10月23日在Madrid举行的新书发布会，并暂停了在西班牙其他城市的活动。作者否认使用过人工智能，出版社宣布将对此事进行审查。Pangram还将作者在杂志Ulrica访谈中97%的回答，以及一篇924个词的自传性文字中的80%，归为IA生成。"
+              },
+              {
+                "t": "p",
+                "x": "该媒体也提醒，Pangram并非万无一失：它能识别统计模式，却无法区分有人是用IA生成整部作品，还是把自己的笔记转写成文章。这部小说在由Cristina Rivera Garza、Selva Almada和Mónica Ojeda组成的评审团面前，从2,204份手稿中胜出。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-              },
-              {
-                "t": "p",
-                "x": "这些书的标题标榜“完整攻略”“隐藏秘密”和“深度指南”。其中四本有评论，包括一条标注为Amazon认证购买的评论，且全部给出一星（one-star）：“千万别犯买这本书的错误”“完全是一笔无用的购买”。样张页面只有密密麻麻的文字，没有任何图片，文风也明显冗长。"
-              },
-              {
-                "t": "p",
-                "x": "Amazon的Kindle Direct Publishing（KDP）允许个人免费自助出版，按需印刷（print-on-demand）成本从销售收入中扣除。与生成式AI结合后，这套系统让人能以很低的风险批量生产“书”。KDP要求出版者在出版时披露AI使用情况，但这九本书似乎都没有向消费者披露。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "评论表明消费者确实受到了误导，而随着AI工具不断进化，这类假出版物可能会越来越以假乱真。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Guías de juegos AI-made\ninundan Amazon Japan",
-          "body": "Guías de Fire Emblem al parecer AI-made inundan Amazon Japan, y las reseñas sugieren que los compradores son engañados.",
-          "mini_headline": "Guías de AI inundan Amazon Japan",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo lanzó Fire Emblem: Fortune’s Weave el 17 de septiembre, y al buscar el título en Amazon Japan ya aparecen al menos nueve guías, ninguna de ellas oficial. Sus portadas parecen en gran medida AI-generated, y ninguna parece estar disponible en libro electrónico (e-books)."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los títulos prometen un “recorrido completo”, “secretos ocultos” y una “guía exhaustiva”. Cuatro de los libros tienen reseñas, incluida una marcada como compra verificada de Amazon, y todas otorgan una estrella (one-star): “No cometas el error de comprar esto” y “Una compra completamente inútil”. Las páginas de muestra no contienen más que bloques de texto, sin imágenes y con un estilo notablemente prolijo."
-              },
-              {
-                "t": "p",
-                "x": "Kindle Direct Publishing (KDP) de Amazon permite a cualquier persona autopublicar gratis, y los gastos de impresión bajo demanda (print-on-demand) se descuentan de las ventas. Combinado con la AI generativa, el sistema permite producir “libros” en masa con poco riesgo. KDP exige a los editores declarar el uso de AI al publicar, pero ninguno de los nueve libros parecía informarlo a los consumidores."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
-              },
-              {
-                "t": "p",
-                "x": "Las reseñas sugieren que los consumidores sí están siendo engañados, y es probable que estas publicaciones falsas resulten cada vez más convincentes a medida que evolucionen las herramientas de AI."
+                "src": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T183624.154.jpg"
               }
             ]
           }
@@ -627,165 +607,225 @@
       }
     },
     {
-      "id": "manga-platform",
+      "id": "spiegelman",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-translated\n공동 만화 허브 띄운 일본",
-      "body": "일본 재무성이 출판사들을 묶는 AI 번역 글로벌 만화 플랫폼을 제안했다.",
-      "mini_headline": "일본의 AI 만화 허브",
+      "headline": "Art Spiegelman\n기념 스티커 AI-made",
+      "body": "Art Spiegelman은 25주년판 스티커가 AI-generated라 밝혔다.",
+      "mini_headline": "Spiegelman의 AI 표지 스티커",
       "tool": "Books",
-      "source": "AUTOMATON WEST",
-      "url": "https://automaton-media.com/en/nongaming-news/japans-ministry-of-finance-proposes-shared-manga-platform-where-global-fans-can-access-multiple-publishers-in-one-place-the-idea-involves-ai-translation/",
+      "source": "The Daily Cartoonist",
+      "url": "https://www.dailycartoonist.com/index.php/2026/10/27/pulitzer-winners-newest-work-is-ai-generated/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+            "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+            "cap": "Art Spiegelman (사진: Zach Rabiroff)"
           },
           {
             "t": "p",
-            "x": "일본 재무성(MOF)이 최근 해외 독자가 여러 출판사의 작품을 한곳에서 읽는 공동 플랫폼을 제안했다. 구상은 22일 재무장관 자문기구인 재정제도심의회에서 나왔다. 심의회는 해외 유통사가 시장을 쥔 상황에서 일본에는 출판사를 아우르는 플랫폼이 없다고 짚었다."
+            "x": "Art Spiegelman의 그래픽 노블 In the Shadow of No Towers 25주년 기념판 왼쪽 위 구석에 붙은 금색과 흰색 스티커가 보이는가? AI로 만든 것이다. Spiegelman이 Publishers Weekly의 Zach Rabiroff와 한 인터뷰에서 직접 밝혔다."
           },
           {
             "t": "p",
-            "x": "AI로 만화를 여러 언어로 번역한다는 것이 구상의 핵심이다. MOF는 이 플랫폼이 “해외 독자가 일본 작품을 즐기는 수단이 되어, 참여 출판사와 기타 이해관계자의 수익을 늘릴 것”으로 기대한다. 아직은 제안 단계에 머물고, AI 번역은 해외 만화 팬들의 반발을 살 공산이 크다."
+            "x": "“그래서 그는 일종의 기념 선물도 넣었다. 불타는 빌딩들을 생일 케이크 위 촛불로 비꼬듯 그린 표지 스티커다. 이 스티커는 Spiegelman이 처음으로 AI 생성 작품을 쓴 사례다. 그는 PW에 ‘오래된 판화처럼 보이게 하고 싶었고, 귀찮았다’고 말했다. ‘AI로 해 보고 어떻게 되는지 보자고 했다.’ 프롬프트 작업은 Mouly가 거들었다. Spiegelman은 ‘그녀는 Claude 다루기에 능하다’고 말했다.”"
           },
           {
             "t": "p",
-            "x": "문화청과 경제산업성은 이와 별도로 개별 출판사 보조금을 포함한 내년도 예산 합계 250B 엔 이상을 요구했다. 심의회는 12월까지 재무장관에게 건의를 낸다."
+            "x": "만화계 전반의 반응은 좋지 않다. CBR의 만화 연구가이자 역사가인 Brian Cronin은 이렇게 썼다. “Art Spiegelman은 천재지만, 맙소사, ‘너무 귀찮았다’는 건 자기 책 재발행본 이미지를 AI로 생성한 데 대한 핑계가 못 된다.” 만화가 Evan Dorkin은 그림으로 답했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+            "cap": "Evan Dorkin"
+          },
+          {
+            "t": "p",
+            "x": "The Beat는 Alison Bechdel도 책 Spent를 작업하며 AI의 도움을 받았다고 인정한 일을 짚는다. 만화가 Mike Lynch는 “이봐요. 낮잠 좀 자요. 충전하고. 다시 돌아와서 직접 그려요.”라고 했다. Michael Maslin은 “Mouly”가 “The New Yorker 표지 편집자 Francoise Mouly다. Spiegelman과 Mouly는 부부다.”라고 짚는다. Gemma Correll의 반응은 “ew”였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Japan floats a shared\nAI-translated manga hub",
-          "body": "Japan's Ministry of Finance proposes one global manga platform for multiple publishers, using AI translation.",
-          "mini_headline": "Japan's AI manga hub",
+          "headline": "Art Spiegelman's anniversary\ncover sticker was AI-made",
+          "body": "The sticker on the 25th-anniversary In the Shadow of No Towers cover was AI-generated, Art Spiegelman says.",
+          "mini_headline": "Spiegelman's AI cover sticker",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman (photo by Zach Rabiroff)"
               },
               {
                 "t": "p",
-                "x": "Japan’s Ministry of Finance (MOF) recently proposed a shared platform where global readers could access titles from various publishers in one place. The idea was raised on the 22nd at the Fiscal System Council, an advisory body to the Minister of Finance, which argued that Japan lacks a cross-publisher platform while overseas distributors dominate the market."
+                "x": "See that gold and white sticker in the upper left corner of the 25th anniversary edition of Art Spiegelman’s In the Shadow of No Towers graphic novel? That is AI generated. In an interview with Zach Rabiroff for Publishers Weekly, Spiegelman revealed that fact:"
               },
               {
                 "t": "p",
-                "x": "The idea involves using AI to translate manga into multiple languages, which MOF believes will turn the platform “into a means for readers overseas to enjoy Japanese works, thereby increasing revenue for participating publishers and other stakeholders.” It is still just a proposal, and AI translation is likely to meet friction among global manga fans."
+                "x": "“So he’s also included an anniversary present of sorts: a cover sticker ironically depicting the burning towers as candles on a birthday cake. The sticker marks Spiegelman’s first use of AI-generated artwork. ‘I wanted it to look like an old engraving, and I was lazy,’ he told PW. ‘I said, let’s do it with AI and see what happens.’ Mouly lent a hand with the prompts: ‘She’s good at Claude whispering,’ Spiegelman said.”"
               },
               {
                 "t": "p",
-                "x": "Separately, the Agency for Cultural Affairs and the Ministry of Economy, Trade and Industry have requested a combined budget of more than 250 billion yen for next year, including subsidies to individual publishers. The council’s recommendations are due to the minister of finance by December."
+                "x": "That confession is not going well with the comics community at large. Brian Cronin, comics researcher and historian for CBR, writes: “Art Spiegelman is a genius, but holy shit, dude, ‘I was too lazy’ is not an excuse for using AI to generate an image for the reissue of your book.” Cartoonist Evan Dorkin drew his response:"
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beat notes that Alison Bechdel admits getting an assist from AI for her Spent book. Cartoonist Mike Lynch: “Come on. Take a nap. Recharge. Come back to it and actually draw it.” Michael Maslin notes that “Mouly” is “Francoise Mouly, The New Yorker’s cover editor. Spiegelman and Mouly are married.” Gemma Correll’s reaction: “ew”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-translated\n공동 만화 허브 띄운 일본",
-          "body": "일본 재무성이 출판사들을 묶는 AI 번역 글로벌 만화 플랫폼을 제안했다.",
-          "mini_headline": "일본의 AI 만화 허브",
+          "headline": "Art Spiegelman\n기념 스티커 AI-made",
+          "body": "Art Spiegelman은 25주년판 스티커가 AI-generated라 밝혔다.",
+          "mini_headline": "Spiegelman의 AI 표지 스티커",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman (사진: Zach Rabiroff)"
               },
               {
                 "t": "p",
-                "x": "일본 재무성(MOF)이 최근 해외 독자가 여러 출판사의 작품을 한곳에서 읽는 공동 플랫폼을 제안했다. 구상은 22일 재무장관 자문기구인 재정제도심의회에서 나왔다. 심의회는 해외 유통사가 시장을 쥔 상황에서 일본에는 출판사를 아우르는 플랫폼이 없다고 짚었다."
+                "x": "Art Spiegelman의 그래픽 노블 In the Shadow of No Towers 25주년 기념판 왼쪽 위 구석에 붙은 금색과 흰색 스티커가 보이는가? AI로 만든 것이다. Spiegelman이 Publishers Weekly의 Zach Rabiroff와 한 인터뷰에서 직접 밝혔다."
               },
               {
                 "t": "p",
-                "x": "AI로 만화를 여러 언어로 번역한다는 것이 구상의 핵심이다. MOF는 이 플랫폼이 “해외 독자가 일본 작품을 즐기는 수단이 되어, 참여 출판사와 기타 이해관계자의 수익을 늘릴 것”으로 기대한다. 아직은 제안 단계에 머물고, AI 번역은 해외 만화 팬들의 반발을 살 공산이 크다."
+                "x": "“그래서 그는 일종의 기념 선물도 넣었다. 불타는 빌딩들을 생일 케이크 위 촛불로 비꼬듯 그린 표지 스티커다. 이 스티커는 Spiegelman이 처음으로 AI 생성 작품을 쓴 사례다. 그는 PW에 ‘오래된 판화처럼 보이게 하고 싶었고, 귀찮았다’고 말했다. ‘AI로 해 보고 어떻게 되는지 보자고 했다.’ 프롬프트 작업은 Mouly가 거들었다. Spiegelman은 ‘그녀는 Claude 다루기에 능하다’고 말했다.”"
               },
               {
                 "t": "p",
-                "x": "문화청과 경제산업성은 이와 별도로 개별 출판사 보조금을 포함한 내년도 예산 합계 250B 엔 이상을 요구했다. 심의회는 12월까지 재무장관에게 건의를 낸다."
+                "x": "만화계 전반의 반응은 좋지 않다. CBR의 만화 연구가이자 역사가인 Brian Cronin은 이렇게 썼다. “Art Spiegelman은 천재지만, 맙소사, ‘너무 귀찮았다’는 건 자기 책 재발행본 이미지를 AI로 생성한 데 대한 핑계가 못 된다.” 만화가 Evan Dorkin은 그림으로 답했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beat는 Alison Bechdel도 책 Spent를 작업하며 AI의 도움을 받았다고 인정한 일을 짚는다. 만화가 Mike Lynch는 “이봐요. 낮잠 좀 자요. 충전하고. 다시 돌아와서 직접 그려요.”라고 했다. Michael Maslin은 “Mouly”가 “The New Yorker 표지 편집자 Francoise Mouly다. Spiegelman과 Mouly는 부부다.”라고 짚는다. Gemma Correll의 반응은 “ew”였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-translatedの\n共同漫画ハブ、日本が提案",
-          "body": "日本の財務省が、AI翻訳を使い複数の出版社が参加する世界向け漫画プラットフォームを提案した。",
-          "mini_headline": "日本のAI漫画ハブ",
+          "headline": "Art Spiegelman\n記念シールはAI-made",
+          "body": "Art Spiegelmanは25周年版のシールがAI-generatedだと明かした。",
+          "mini_headline": "SpiegelmanのAI表紙シール",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman（撮影：Zach Rabiroff）"
               },
               {
                 "t": "p",
-                "x": "日本の財務省(MOF)は最近、海外の読者が複数の出版社の作品を一か所で読める共同プラットフォームを提案した。この案は22日、財務大臣の諮問機関である財政制度等審議会で示され、審議会は海外の配信事業者が市場を握る一方、日本には出版社横断のプラットフォームがないと指摘した。"
+                "x": "Art SpiegelmanのグラフィックノベルIn the Shadow of No Towers 25周年記念版の左上にある金と白のシールが見えるだろうか。あれはAIで生成されたものだ。SpiegelmanはPublishers WeeklyのZach Rabiroffによるインタビューで、その事実を明かした。"
               },
               {
                 "t": "p",
-                "x": "構想ではAIを使って漫画を多言語に翻訳する。MOFはこれにより、プラットフォームが「海外の読者が日本の作品を楽しむ手段となり、参加する出版社などの関係者の収益増につながる」とみている。あくまで提案段階であり、AI翻訳は海外の漫画ファンの間で摩擦を生む可能性が高い。"
+                "x": "「そこで彼は、一種の記念の贈り物も添えた。燃えるタワーを誕生日ケーキのろうそくに見立てて皮肉った表紙シールだ。このシールは、SpiegelmanがAI生成のアートワークを初めて使ったものとなる。『古い版画のように見せたかったし、面倒だった』と彼はPWに語った。『AIでやってみて、どうなるか見ようと言ったんだ』。プロンプトにはMoulyが手を貸した。『彼女はClaudeを操るのがうまい』とSpiegelmanは言う」"
               },
               {
                 "t": "p",
-                "x": "これとは別に、文化庁と経済産業省は、個別の出版社への補助金を含め、来年度予算として合計250B 円以上を要求している。審議会の提言は12月までに財務大臣へ提出される予定だ。"
+                "x": "この告白は、コミック界全体で評判が芳しくない。CBRのコミック研究者で歴史家のBrian Croninはこう書く。「Art Spiegelmanは天才だが、いやはや、『面倒だった』は自分の本の再刊用画像をAIで生成する言い訳にはならない」。漫画家Evan Dorkinは絵で応じた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beatによれば、Alison Bechdelも著書SpentでAIの助けを借りたと認めている。漫画家Mike Lynchは「おいおい。昼寝でもしなよ。充電して。戻ってきて、ちゃんと描くんだ」。Michael Maslinは、「Mouly」とは「The New Yorkerの表紙編集者Francoise Mouly。SpiegelmanとMoulyは夫婦だ」と指摘する。Gemma Correllの反応は「ew」だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-translated的\n共享漫画平台：日本提议",
-          "body": "日本财务省提议借助AI翻译，建立一个供多家出版商共用的全球漫画平台。",
-          "mini_headline": "日本的AI漫画平台",
+          "headline": "Art Spiegelman\n纪念版贴纸为AI-made",
+          "body": "Art Spiegelman称，25周年版封面贴纸是AI-generated。",
+          "mini_headline": "Spiegelman的AI封面贴纸",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman（摄影：Zach Rabiroff）"
               },
               {
                 "t": "p",
-                "x": "日本财务省（MOF）近日提议建立一个共享平台，让全球读者在同一处获取多家出版商的作品。该构想于22日在财务大臣的咨询机构财政制度等审议会上提出；审议会指出，在海外发行商主导市场之际，日本却缺少一个跨出版商的平台。"
+                "x": "看到Art Spiegelman图像小说《In the Shadow of No Towers》25周年纪念版左上角那枚金白相间的贴纸了吗？那是AI生成的。Spiegelman在接受Publishers Weekly的Zach Rabiroff采访时透露了这一点："
               },
               {
                 "t": "p",
-                "x": "该构想涉及利用AI将漫画翻译成多种语言。MOF认为，这将使平台“成为海外读者欣赏日本作品的途径，从而增加参与出版商及其他相关方的收入”。这目前仍只是一项提议，而AI翻译很可能在全球漫画迷中引发摩擦。"
+                "x": "“于是他还附上了一份类似周年礼物的东西：一枚封面贴纸，以反讽的方式把燃烧的大楼画成生日蛋糕上的蜡烛。这枚贴纸是Spiegelman首次使用AI生成的作品。‘我想让它看起来像一幅旧版画，而且我懒，’他对PW说。‘我说，用AI试试，看看会怎样。’Mouly在提示词上帮了忙：‘她很会跟Claude打交道，’Spiegelman说。”"
               },
               {
                 "t": "p",
-                "x": "另外，文化厅与经济产业省已为明年申请合计超过250B 日元的预算，其中包括对个别出版商的补贴。审议会将在12月前向财务大臣提交建议。"
+                "x": "这番坦白在整个漫画圈反响不佳。CBR的漫画研究者和史学家Brian Cronin写道：“Art Spiegelman是天才，但我的天，老兄，‘我太懒了’可不是用AI给自己书的再版生成图像的借口。”漫画家Evan Dorkin则画了一幅画作为回应："
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beat指出，Alison Bechdel承认她的书Spent借助了AI。漫画家Mike Lynch说：“拜托。睡个午觉。充充电。回来亲手画。”Michael Maslin指出，“Mouly”是“The New Yorker的封面编辑Francoise Mouly。Spiegelman和Mouly是夫妻。”Gemma Correll的反应是：“ew”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Japón plantea una plataforma\ncomún de manga AI-translated",
-          "body": "El Ministerio de Finanzas de Japón propone una plataforma global de manga para varias editoriales, traducida con AI.",
-          "mini_headline": "La plataforma de manga con AI de Japón",
+          "headline": "La pegatina del aniversario de\nArt Spiegelman fue AI-made",
+          "body": "La pegatina de la portada de In the Shadow of No Towers por el 25 aniversario fue AI-generated, dice Art Spiegelman.",
+          "mini_headline": "La pegatina AI de Spiegelman",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman (foto de Zach Rabiroff)"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Finanzas de Japón (MOF) propuso recientemente una plataforma compartida donde lectores de todo el mundo puedan acceder en un solo lugar a títulos de distintas editoriales. La idea se planteó el día 22 en el Consejo del Sistema Fiscal, órgano asesor del ministro de Finanzas, que sostuvo que Japón carece de una plataforma común entre editoriales mientras los distribuidores extranjeros dominan el mercado."
+                "x": "¿Ve esa pegatina dorada y blanca en la esquina superior izquierda de la edición del 25 aniversario de la novela gráfica In the Shadow of No Towers de Art Spiegelman? Es AI-generated. En una entrevista con Zach Rabiroff para Publishers Weekly, Spiegelman reveló ese dato:"
               },
               {
                 "t": "p",
-                "x": "La idea consiste en usar AI para traducir manga a varios idiomas, lo que según el MOF convertirá la plataforma “en un medio para que los lectores del extranjero disfruten de obras japonesas, aumentando así los ingresos de las editoriales participantes y demás partes interesadas”. Por ahora es solo una propuesta, y es probable que la traducción por AI genere fricciones entre los aficionados al manga de todo el mundo."
+                "x": "“Así que también ha incluido una especie de regalo de aniversario: una pegatina de portada que representa con ironía las torres en llamas como velas de un pastel de cumpleaños. La pegatina marca el primer uso por parte de Spiegelman de una obra AI-generated. ‘Quería que pareciera un grabado antiguo, y me dio pereza’, dijo a PW. ‘Dije: hagámoslo con AI y veamos qué pasa’. Mouly echó una mano con los prompts: ‘Se le da bien susurrarle a Claude’, dijo Spiegelman.”"
               },
               {
                 "t": "p",
-                "x": "Por otra parte, la Agencia de Asuntos Culturales y el Ministerio de Economía, Comercio e Industria han solicitado para el próximo año un presupuesto conjunto de más de 250 mil millones de yenes, que incluye subvenciones a editoriales individuales. Las recomendaciones del consejo deben entregarse al ministro de Finanzas antes de diciembre."
+                "x": "Esa confesión no está sentando bien en la comunidad del cómic en general. Brian Cronin, investigador e historiador del cómic para CBR, escribe: “Art Spiegelman es un genio, pero, joder, tío, ‘me dio demasiada pereza’ no es excusa para usar AI para generar una imagen para la reedición de tu libro”. El dibujante Evan Dorkin dibujó su respuesta:"
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beat señala que Alison Bechdel admite haber recibido ayuda de AI para su libro Spent. El dibujante Mike Lynch: “Vamos. Echa una siesta. Recarga energías. Vuelve a ello y dibújalo de verdad”. Michael Maslin señala que “Mouly” es “Francoise Mouly, editora de portadas de The New Yorker. Spiegelman y Mouly están casados”. La reacción de Gemma Correll: “ew”"
               }
             ]
           }
@@ -793,105 +833,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-translated\n공동 만화 허브 띄운 일본",
-          "body": "일본 재무성이 여러 출판사를 묶는 AI 번역 글로벌 만화 플랫폼을 제안한다.",
-          "mini_headline": "일본의 AI 만화 허브",
+          "headline": "Art Spiegelman\n기념 스티커 AI-made",
+          "body": "Art Spiegelman은 25주년판 스티커가 AI-generated라 밝혔다.",
+          "mini_headline": "Spiegelman의 AI 표지 스티커",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman (사진: Zach Rabiroff)"
               },
               {
                 "t": "p",
-                "x": "일본 재무성(MOF)은 최근 해외 독자가 여러 출판사의 작품을 한곳에서 볼 수 있는 공동 플랫폼을 제안했다. 이 구상은 22일 재무장관 자문기구인 재정제도심의회에서 나왔으며, 심의회는 해외 유통사가 시장을 장악한 가운데 일본에는 출판사를 아우르는 플랫폼이 없다고 지적했다."
+                "x": "Art Spiegelman의 그래픽 노블 In the Shadow of No Towers 25주년 기념판 왼쪽 위 구석에 붙은 금색과 흰색 스티커가 보이는가? 그것은 AI로 만든 것이다. Spiegelman은 Publishers Weekly의 Zach Rabiroff와 한 인터뷰에서 그 사실을 밝혔다."
               },
               {
                 "t": "p",
-                "x": "구상의 핵심은 AI로 만화를 여러 언어로 번역하는 것이다. MOF는 이 플랫폼이 “해외 독자가 일본 작품을 즐기는 수단이 되어, 참여 출판사와 기타 이해관계자의 수익을 늘릴 것”으로 본다. 아직 제안 단계일 뿐이며, AI 번역은 해외 만화 팬들 사이에서 반발을 살 가능성이 크다."
+                "x": "“그래서 그는 일종의 기념 선물도 넣었다. 불타는 빌딩들을 생일 케이크 위 촛불로 비꼬듯 그린 표지 스티커다. 이 스티커는 Spiegelman이 처음으로 AI 생성 작품을 쓴 사례다. 그는 PW에 ‘오래된 판화처럼 보이게 하고 싶었고, 귀찮았다’고 말했다. ‘AI로 해 보고 어떻게 되는지 보자고 했다.’ 프롬프트 작업은 Mouly가 거들었다. Spiegelman은 ‘그녀는 Claude 다루기에 능하다’고 말했다.”"
               },
               {
                 "t": "p",
-                "x": "이와 별도로 문화청과 경제산업성은 개별 출판사 보조금을 포함해 내년도 예산으로 합계 250B 엔 이상을 요구했다. 심의회는 12월까지 재무장관에게 건의를 제출할 예정이다."
+                "x": "이 고백은 만화계 전반에서 좋은 반응을 얻지 못하고 있다. CBR의 만화 연구가이자 역사가인 Brian Cronin은 이렇게 썼다. “Art Spiegelman은 천재지만, 맙소사, ‘너무 귀찮았다’는 건 자기 책 재발행본 이미지를 AI로 생성한 데 대한 핑계가 못 된다.” 만화가 Evan Dorkin은 그림으로 답했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beat는 Alison Bechdel이 책 Spent 작업에서 AI의 도움을 받았다고 인정한 사실을 짚는다. 만화가 Mike Lynch는 “이봐요. 낮잠 좀 자요. 충전하고. 다시 돌아와서 직접 그려요.”라고 했다. Michael Maslin은 “Mouly”가 “The New Yorker 표지 편집자 Francoise Mouly다. Spiegelman과 Mouly는 부부다.”라고 짚는다. Gemma Correll의 반응은 “ew”였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-translatedの\n共同漫画ハブ、日本が提案",
-          "body": "日本の財務省が、AI翻訳を使い複数の出版社が参加する世界向け漫画プラットフォームを提案した。",
-          "mini_headline": "日本のAI漫画ハブ",
+          "headline": "Art Spiegelman\n記念シールはAI-made",
+          "body": "Art Spiegelmanは25周年版のシールがAI-generatedだと明かした。",
+          "mini_headline": "SpiegelmanのAI表紙シール",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman（撮影：Zach Rabiroff）"
               },
               {
                 "t": "p",
-                "x": "日本の財務省(MOF)は最近、海外の読者が複数の出版社の作品を一か所で読める共同プラットフォームを提案した。この案は22日、財務大臣の諮問機関である財政制度等審議会で示され、審議会は海外の配信事業者が市場を握る一方、日本には出版社横断のプラットフォームがないと指摘した。"
+                "x": "Art SpiegelmanのグラフィックノベルIn the Shadow of No Towers 25周年記念版の左上にある金と白のシールが見えるだろうか。あれはAIで生成されたものだ。SpiegelmanはPublishers WeeklyのZach Rabiroffによるインタビューで、その事実を明かした。"
               },
               {
                 "t": "p",
-                "x": "構想ではAIを使って漫画を多言語に翻訳する。MOFはこれにより、プラットフォームが「海外の読者が日本の作品を楽しむ手段となり、参加する出版社などの関係者の収益増につながる」とみている。あくまで提案段階であり、AI翻訳は海外の漫画ファンの間で摩擦を生む可能性が高い。"
+                "x": "「そこで彼は、一種の記念の贈り物も添えた。燃えるタワーを誕生日ケーキのろうそくに見立てて皮肉った表紙シールだ。このシールは、SpiegelmanがAI生成のアートワークを初めて使ったものとなる。『古い版画のように見せたかったし、面倒だった』と彼はPWに語った。『AIでやってみて、どうなるか見ようと言ったんだ』。プロンプトにはMoulyが手を貸した。『彼女はClaudeを操るのがうまい』とSpiegelmanは言う」"
               },
               {
                 "t": "p",
-                "x": "これとは別に、文化庁と経済産業省は、個別の出版社への補助金を含め、来年度予算として合計250B 円以上を要求している。審議会の提言は12月までに財務大臣へ提出される予定だ。"
+                "x": "この告白は、コミック界全体で評判が芳しくない。CBRのコミック研究者で歴史家のBrian Croninはこう書く。「Art Spiegelmanは天才だが、いやはや、『面倒だった』は自分の本の再刊用画像をAIで生成する言い訳にはならない」。漫画家Evan Dorkinは絵で応じた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beatによれば、Alison Bechdelも著書SpentでAIの助けを借りたと認めている。漫画家Mike Lynchは「おいおい。昼寝でもしなよ。充電して。戻ってきて、ちゃんと描くんだ」。Michael Maslinは、「Mouly」とは「The New Yorkerの表紙編集者Francoise Mouly。SpiegelmanとMoulyは夫婦だ」と指摘する。Gemma Correllの反応は「ew」だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-translated的\n共享漫画平台：日本提议",
-          "body": "日本财务省提议借助AI翻译，建立一个供多家出版商共用的全球漫画平台。",
-          "mini_headline": "日本的AI漫画平台",
+          "headline": "Art Spiegelman\n纪念版贴纸为AI-made",
+          "body": "Art Spiegelman称，25周年版封面贴纸是AI-generated。",
+          "mini_headline": "Spiegelman的AI封面贴纸",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman（摄影：Zach Rabiroff）"
               },
               {
                 "t": "p",
-                "x": "日本财务省（MOF）近日提议建立一个共享平台，让全球读者在同一处获取多家出版商的作品。该构想于22日在财务大臣的咨询机构财政制度等审议会上提出；审议会指出，在海外发行商主导市场之际，日本却缺少一个跨出版商的平台。"
+                "x": "看到Art Spiegelman图像小说《In the Shadow of No Towers》25周年纪念版左上角那枚金白相间的贴纸了吗？那是AI生成的。Spiegelman在接受Publishers Weekly的Zach Rabiroff采访时透露了这一点："
               },
               {
                 "t": "p",
-                "x": "该构想涉及利用AI将漫画翻译成多种语言。MOF认为，这将使平台“成为海外读者欣赏日本作品的途径，从而增加参与出版商及其他相关方的收入”。这目前仍只是一项提议，而AI翻译很可能在全球漫画迷中引发摩擦。"
+                "x": "“于是他还附上了一份类似周年礼物的东西：一枚封面贴纸，以反讽的方式把燃烧的大楼画成生日蛋糕上的蜡烛。这枚贴纸是Spiegelman首次使用AI生成的作品。‘我想让它看起来像一幅旧版画，而且我懒，’他对PW说。‘我说，用AI试试，看看会怎样。’Mouly在提示词上帮了忙：‘她很会跟Claude打交道，’Spiegelman说。”"
               },
               {
                 "t": "p",
-                "x": "另外，文化厅与经济产业省已为明年申请合计超过250B 日元的预算，其中包括对个别出版商的补贴。审议会将在12月前向财务大臣提交建议。"
+                "x": "这番坦白在整个漫画圈反响不佳。CBR的漫画研究者和史学家Brian Cronin写道：“Art Spiegelman是天才，但我的天，老兄，‘我太懒了’可不是用AI给自己书的再版生成图像的借口。”漫画家Evan Dorkin则画了一幅画作为回应："
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beat指出，Alison Bechdel承认她的书Spent借助了AI。漫画家Mike Lynch说：“拜托。睡个午觉。充充电。回来亲手画。”Michael Maslin指出，“Mouly”是“The New Yorker的封面编辑Francoise Mouly。Spiegelman和Mouly是夫妻。”Gemma Correll的反应是：“ew”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Japón plantea una plataforma\ncomún de manga AI-translated",
-          "body": "El Ministerio de Finanzas de Japón propone una plataforma global de manga para varias editoriales, traducida con AI.",
-          "mini_headline": "La plataforma de manga con AI de Japón",
+          "headline": "La pegatina del aniversario de\nArt Spiegelman fue AI-made",
+          "body": "La pegatina de la portada de In the Shadow of No Towers por el 25 aniversario fue AI-generated, dice Art Spiegelman.",
+          "mini_headline": "La pegatina AI de Spiegelman",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/art-spiegelman-photo-by-zach-rabiroff.jpg",
+                "cap": "Art Spiegelman (foto de Zach Rabiroff)"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Finanzas de Japón (MOF) propuso recientemente una plataforma compartida donde lectores de todo el mundo puedan acceder en un solo lugar a títulos de distintas editoriales. La idea se planteó el día 22 en el Consejo del Sistema Fiscal, órgano asesor del ministro de Finanzas, que sostuvo que Japón carece de una plataforma común entre editoriales mientras los distribuidores extranjeros dominan el mercado."
+                "x": "¿Ve esa pegatina dorada y blanca en la esquina superior izquierda de la edición del 25 aniversario de la novela gráfica In the Shadow of No Towers de Art Spiegelman? Es AI-generated. En una entrevista con Zach Rabiroff para Publishers Weekly, Spiegelman reveló ese dato:"
               },
               {
                 "t": "p",
-                "x": "La idea consiste en usar AI para traducir manga a varios idiomas, lo que según el MOF convertirá la plataforma “en un medio para que los lectores del extranjero disfruten de obras japonesas, aumentando así los ingresos de las editoriales participantes y demás partes interesadas”. Por ahora es solo una propuesta, y es probable que la traducción por AI genere fricciones entre los aficionados al manga de todo el mundo."
+                "x": "“Así que también ha incluido una especie de regalo de aniversario: una pegatina de portada que representa con ironía las torres en llamas como velas de un pastel de cumpleaños. La pegatina marca el primer uso por parte de Spiegelman de una obra AI-generated. ‘Quería que pareciera un grabado antiguo, y me dio pereza’, dijo a PW. ‘Dije: hagámoslo con AI y veamos qué pasa’. Mouly echó una mano con los prompts: ‘Se le da bien susurrarle a Claude’, dijo Spiegelman.”"
               },
               {
                 "t": "p",
-                "x": "Por otra parte, la Agencia de Asuntos Culturales y el Ministerio de Economía, Comercio e Industria han solicitado para el próximo año un presupuesto conjunto de más de 250 mil millones de yenes, que incluye subvenciones a editoriales individuales. Las recomendaciones del consejo deben entregarse al ministro de Finanzas antes de diciembre."
+                "x": "Esa confesión no está sentando bien en la comunidad del cómic en general. Brian Cronin, investigador e historiador del cómic para CBR, escribe: “Art Spiegelman es un genio, pero, joder, tío, ‘me dio demasiada pereza’ no es excusa para usar AI para generar una imagen para la reedición de tu libro”. El dibujante Evan Dorkin dibujó su respuesta:"
+              },
+              {
+                "t": "img",
+                "src": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/evan-dorkin-ai-art-spiegelman.jpg",
+                "cap": "Evan Dorkin"
+              },
+              {
+                "t": "p",
+                "x": "The Beat señala que Alison Bechdel admite haber recibido ayuda de AI para su libro Spent. El dibujante Mike Lynch: “Vamos. Echa una siesta. Recarga energías. Vuelve a ello y dibújalo de verdad”. Michael Maslin señala que “Mouly” es “Francoise Mouly, editora de portadas de The New Yorker. Spiegelman y Mouly están casados”. La reacción de Gemma Correll: “ew”"
               }
             ]
           }
@@ -899,15 +979,15 @@
       }
     },
     {
-      "id": "zachary-mason",
+      "id": "winterson",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Zachary Mason,\n기계 속 유령을 좇다",
-      "body": "과학자였던 Zachary Mason은 인간과 지각 있는 AI를 소설로 그린다.",
-      "mini_headline": "Zachary Mason의 AI 소설",
+      "headline": "Winterson, AI의\n미래는 디스토피아 아니다",
+      "body": "Jeanette Winterson은 AI 미래가 꼭 디스토피아는 아니라고 본다.",
+      "mini_headline": "Winterson, AI 비관론 거부",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/101582-zachary-mason-chases-the-ghost-in-the-machine.html",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -915,173 +995,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+            "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
           },
           {
             "t": "p",
-            "x": "고도로 발달한 AI가 실은 인류를 섬기도록 설계됐다면, 그 AI는 인류를 도울까 해칠까. Zachary Mason의 네 번째 책이자 새 단편집 Fabrications가 묻는 질문이다. 그는 몇 년 전까지 테크 스타트업에서 일한 컴퓨터 과학자다."
+            "x": "2021년 에세이집 12 Bytes를 쓴 Jeanette Winterson은 인류가 한 종으로서 써 온 이야기가 전환점에 이르렀다고 말한다. 그녀가 대안 지능이라 부르길 원하는 인공지능은 “진화적 도약이다. 바로 그것이다. AI는 도구 그 이상이다.” 지금은 산업혁명에 견줄 만한 선택의 순간이다. “우리는 어떤 미래를 만들 것인가?”"
           },
           {
             "t": "p",
-            "x": "Mason은 언젠가(“아마 다섯 해에서 50년 사이”) 컴퓨터 덕에 인간이 마음의 작동 방식을 이해하게 되리라 믿는다. 바로 거기에 “그럴듯하게 사고라 부를 만한” AI의 열쇠가 있다고 본다. 데뷔작 The Lost Books of the Odyssey는 2010년 FSG에서 나와 베스트셀러가 됐다."
+            "x": "문제는 AI가 아니라 우리라고 그녀는 못 박는다. “피할 수 없는 디스토피아는 없다.” 일이 틀어진다면 “이 완전히 새로운 현실 위에 덧씌운 낡은 사고방식” 탓일 것이다. “AI와 일자리에 대해 우리가 두려워하는 것의 대부분은, 산업혁명 때 그랬듯 우리를 다스리는 이들이 내릴 정치적·경제적 선택으로 귀결된다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+            "cap": "‘우리가 인간에 대해 아는 것은 인간이 독점을 사랑한다는 것이다.’ 사진: Sarah Lee/The Guardian"
           },
           {
             "t": "p",
-            "x": "Fabrications를 사들인 Grove의 Peter Blackstock은 이 책을 Ted Chiang의 과학소설에 견준다. “Ouroboros”에서는 세상을 떠난 억만장자의 AI 비서가 주인의 죽음을 숨긴 채 그를 사칭한다. “Transitional”에서는 죽은 남자의 모습을 본뜬 로봇이 슬픔에 빠진 딸이 다시 일어서도록 돕고, “Lamina”에서는 AI가 치매 환자의 기억을 보조한다."
-          },
-          {
-            "t": "p",
-            "x": "“저는 그저 사물을 있는 그대로, 그리고 앞으로 그럴 수 있는 모습대로 보고, AI가 우리 삶에 어떻게 얽혀 들어갈지 그 가능성을 찾으려는 것뿐입니다.” Mason의 말이다."
+            "x": "UK에서 인문학이 줄어드는 가운데 그녀는 “인문주의 교육은 필수다. 여기서 인간을 중심에 둬야 한다”고 말하며 창의성, 놀이, 문제 해결, 예술을 앞에 둔다. “이야기를 듣고 싶어 하지 않는 아이가 있다면 보여 달라.” 최악의 일이 “일어날 수도 있다”고 말하면서도 이렇게 덧붙인다. “좋은 결과의 거대함은 우리가 이를 제대로 해내지 못할 때의 총체적 실패만큼이나 실재한다… 모든 것은 아직 정해지지 않았다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Zachary Mason chases\nthe ghost in the machine",
-          "body": "Zachary Mason, a computer-scientist novelist, writes speculative stories about humans and sentient AI.",
-          "mini_headline": "Zachary Mason's AI stories",
+          "headline": "Jeanette Winterson: an AI\nfuture need not be dystopian",
+          "body": "Jeanette Winterson argues humanity is at a turning point and that an AI future is not fated to be dystopian.",
+          "mini_headline": "Winterson rejects AI doom",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "What if advanced AI is actually designed to serve the human race? Would it help or hurt humanity? These are some of the questions posed in Fabrications, the new story collection and fourth book from Zachary Mason, a computer scientist who worked for tech startups until a few years ago."
+                "x": "Jeanette Winterson, author of the 2021 essay collection 12 Bytes, argues we are at a turning point in our story as a species. Artificial intelligence – which she would prefer to call alternative intelligence – is “an evolutionary leap. That’s what this is. AI is much more than a tool.” We are at a moment of choice that mirrors the Industrial Revolution: “What future shall we build?”"
               },
               {
                 "t": "p",
-                "x": "Mason believes that at some point (“probably somewhere between five years and 50”), computers will help humans understand how the mind works, the key to AI that “could plausibly be called thinking.” His debut, The Lost Books of the Odyssey, became a bestseller after FSG published it in 2010."
+                "x": "The problem is not AI, she insists, but us. “There is no inevitable dystopia.” If things go wrong, it will be because of “old-fashioned thinking laid over this brand-new reality”: “Most of what we fear about AI and jobs comes down to the political and economic choices our masters will make, just as they did in the Industrial Revolution.”"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "‘What we know about humans is they love monopolies.’ Photograph: Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Grove’s Peter Blackstock, who acquired Fabrications, compares it to Ted Chiang’s science fiction. In “Ouroboros,” a late billionaire’s AI assistant hides his death and impersonates him; in “Transitional,” a robot made in a dead man’s image helps his grieving daughter move on; in “Lamina,” AI serves as a memory aid for people with dementia."
-              },
-              {
-                "t": "p",
-                "x": "“I’m just trying to see things as they are, and as they might be, and find the possibilities of how AI will sort of twine around our lives,” Mason says."
+                "x": "Amid UK humanities cuts, she argues “a humanist education is essential. We have to centre the human here,” foregrounding creativity, play, problem-solving and the arts. “Show me a child that doesn’t want to hear a story.” The worst “could happen”, she says, but “the immensity of the good outcome is just as real as the totality of our failure to get this right… It’s all to play for.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Zachary Mason,\n기계 속 유령을 좇다",
-          "body": "과학자였던 Zachary Mason은 인간과 지각 있는 AI를 소설로 그린다.",
-          "mini_headline": "Zachary Mason의 AI 소설",
+          "headline": "Winterson, AI의\n미래는 디스토피아 아니다",
+          "body": "Jeanette Winterson은 AI 미래가 꼭 디스토피아는 아니라고 본다.",
+          "mini_headline": "Winterson, AI 비관론 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "고도로 발달한 AI가 실은 인류를 섬기도록 설계됐다면, 그 AI는 인류를 도울까 해칠까. Zachary Mason의 네 번째 책이자 새 단편집 Fabrications가 묻는 질문이다. 그는 몇 년 전까지 테크 스타트업에서 일한 컴퓨터 과학자다."
+                "x": "2021년 에세이집 12 Bytes를 쓴 Jeanette Winterson은 인류가 한 종으로서 써 온 이야기가 전환점에 이르렀다고 말한다. 그녀가 대안 지능이라 부르길 원하는 인공지능은 “진화적 도약이다. 바로 그것이다. AI는 도구 그 이상이다.” 지금은 산업혁명에 견줄 만한 선택의 순간이다. “우리는 어떤 미래를 만들 것인가?”"
               },
               {
                 "t": "p",
-                "x": "Mason은 언젠가(“아마 다섯 해에서 50년 사이”) 컴퓨터 덕에 인간이 마음의 작동 방식을 이해하게 되리라 믿는다. 바로 거기에 “그럴듯하게 사고라 부를 만한” AI의 열쇠가 있다고 본다. 데뷔작 The Lost Books of the Odyssey는 2010년 FSG에서 나와 베스트셀러가 됐다."
+                "x": "문제는 AI가 아니라 우리라고 그녀는 못 박는다. “피할 수 없는 디스토피아는 없다.” 일이 틀어진다면 “이 완전히 새로운 현실 위에 덧씌운 낡은 사고방식” 탓일 것이다. “AI와 일자리에 대해 우리가 두려워하는 것의 대부분은, 산업혁명 때 그랬듯 우리를 다스리는 이들이 내릴 정치적·경제적 선택으로 귀결된다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "‘우리가 인간에 대해 아는 것은 인간이 독점을 사랑한다는 것이다.’ 사진: Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Fabrications를 사들인 Grove의 Peter Blackstock은 이 책을 Ted Chiang의 과학소설에 견준다. “Ouroboros”에서는 세상을 떠난 억만장자의 AI 비서가 주인의 죽음을 숨긴 채 그를 사칭한다. “Transitional”에서는 죽은 남자의 모습을 본뜬 로봇이 슬픔에 빠진 딸이 다시 일어서도록 돕고, “Lamina”에서는 AI가 치매 환자의 기억을 보조한다."
-              },
-              {
-                "t": "p",
-                "x": "“저는 그저 사물을 있는 그대로, 그리고 앞으로 그럴 수 있는 모습대로 보고, AI가 우리 삶에 어떻게 얽혀 들어갈지 그 가능성을 찾으려는 것뿐입니다.” Mason의 말이다."
+                "x": "UK에서 인문학이 줄어드는 가운데 그녀는 “인문주의 교육은 필수다. 여기서 인간을 중심에 둬야 한다”고 말하며 창의성, 놀이, 문제 해결, 예술을 앞에 둔다. “이야기를 듣고 싶어 하지 않는 아이가 있다면 보여 달라.” 최악의 일이 “일어날 수도 있다”고 말하면서도 이렇게 덧붙인다. “좋은 결과의 거대함은 우리가 이를 제대로 해내지 못할 때의 총체적 실패만큼이나 실재한다… 모든 것은 아직 정해지지 않았다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Zachary Mason、\n機械の中の幽霊を追う",
-          "body": "科学者出身の作家Zachary Masonは、人間と意識を持つAIの思弁的な物語を書く。",
-          "mini_headline": "Zachary MasonのAI小説",
+          "headline": "Winterson：AIの\n未来はディストピアではない",
+          "body": "Jeanette Wintersonは、AIの未来が必ずしもディストピアではないと説く。",
+          "mini_headline": "Winterson、AI悲観論を退ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "高度なAIが、実は人類に奉仕するよう設計されていたら？それは人類を助けるのか、害するのか？こうした問いを投げかけるのが、数年前までテック系スタートアップで働いていたコンピューター科学者Zachary Masonの四冊目の著書となる新短編集『Fabrications』だ。"
+                "x": "2021年のエッセイ集12 Bytesの著者Jeanette Wintersonは、私たちは種としての物語の転換点にいると論じる。彼女が「もう一つの知性」と呼びたがる人工知能は「進化の飛躍だ。まさにそういうことだ。AIは単なる道具をはるかに超える」。私たちは産業革命にも通じる選択の瞬間にいる。「私たちはどんな未来を築くのか」"
               },
               {
                 "t": "p",
-                "x": "Masonは、いつか（「おそらく五年から50年のうちに」）コンピューターが人間による心の仕組みの理解を助け、それが「もっともらしく思考と呼べる」AIへの鍵になると考えている。デビュー作『The Lost Books of the Odyssey』は2010年にFSGから刊行され、ベストセラーとなった。"
+                "x": "問題はAIではなく私たちだ、と彼女は強調する。「避けられないディストピアなどない」。物事がうまくいかないとすれば、それは「このまったく新しい現実に重ねられた古い考え方」のせいだろう。「AIと仕事について私たちが恐れていることの大半は、産業革命のときと同じく、支配者たちが下す政治的・経済的な選択に帰着する」"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "「人間について分かっているのは、独占が大好きだということだ」 写真：Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "『Fabrications』を獲得したGroveのPeter Blackstockは、本作をTed Chiangのサイエンス・フィクションになぞらえる。「Ouroboros」では亡くなった億万長者のAIアシスタントが彼の死を隠して本人になりすまし、「Transitional」では死んだ男性の姿を模したロボットが悲しみに暮れる娘の前進を助け、「Lamina」ではAIが認知症の人々の記憶の補助として働く。"
-              },
-              {
-                "t": "p",
-                "x": "「私はただ、物事をあるがままに、そしてあり得る姿として見つめ、AIが私たちの生活にどう絡みついていくのか、その可能性を探ろうとしているだけです」とMasonは語る。"
+                "x": "UKで人文学の削減が進むなか、彼女は「人文主義の教育は不可欠だ。ここでは人間を中心に据えなければならない」と述べ、創造性、遊び、問題解決、芸術を前面に出す。「物語を聞きたがらない子どもがいるなら見せてほしい」。最悪の事態も「起こりうる」と彼女は言うが、「良い結果の大きさは、これをうまくやり損ねたときの失敗の全面性と同じくらい現実的だ……すべてはこれから次第だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Zachary Mason\n追寻机器中的幽灵",
-          "body": "身为计算机科学家的小说家Zachary Mason，书写关于人类与有感知AI的思辨故事。",
-          "mini_headline": "Zachary Mason的AI故事",
+          "headline": "Winterson：AI的\n未来未必是反乌托邦",
+          "body": "Jeanette Winterson认为人类正处转折点，AI的未来并非注定是反乌托邦。",
+          "mini_headline": "Winterson拒绝AI末日论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "如果先进的AI其实是为服务人类而设计的呢？它会帮助人类还是伤害人类？这些正是新短篇小说集《Fabrications》提出的部分问题。这是Zachary Mason的第四本书，他是一位计算机科学家，几年前还在科技初创公司工作。"
+                "x": "2021年随笔集《12 Bytes》的作者Jeanette Winterson认为，人类作为一个物种，正处在自身故事的转折点。人工智能——她更愿意称之为“另类智能”——是“一次进化飞跃。就是这样。AI远不止是一种工具。”我们正处在一个与工业革命相似的抉择时刻：“我们要建设怎样的未来？”"
               },
               {
                 "t": "p",
-                "x": "Mason相信，在某个时刻（“大概在五年到50年之间”），计算机将帮助人类理解心智如何运作，而这正是实现“可以合理地称为思考”的AI的关键。他的处女作《The Lost Books of the Odyssey》于2010年由FSG出版后成为畅销书。"
+                "x": "她坚称，问题不在AI，而在我们自己。“不存在必然的反乌托邦。”如果出了问题，那是因为“把老派思维套在这一全新现实之上”：“我们对AI与就业的大部分担忧，归根结底取决于掌权者将做出的政治和经济选择，就像他们在工业革命时那样。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "‘我们对人类的了解是，他们热爱垄断。’摄影：Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "买下《Fabrications》的Grove的Peter Blackstock将其与Ted Chiang的科幻小说相提并论。在《Ouroboros》中，一位已故亿万富翁的AI助手隐瞒了他的死讯并冒充他；在《Transitional》中，一个按死者形象打造的机器人帮助他悲伤的女儿走出阴影；在《Lamina》中，AI成为失智症患者的记忆辅助。"
-              },
-              {
-                "t": "p",
-                "x": "“我只是想看清事物的本来面目和可能的样子，并找出AI将如何缠绕进我们生活的种种可能。”Mason说。"
+                "x": "在UK人文学科遭削减之际，她主张“人文主义教育必不可少。我们必须在这里以人为中心”，突出创造力、游戏、解决问题和艺术。“给我找一个不想听故事的孩子。”她说，最坏的情况“可能发生”，但“好结果之巨大，与我们未能做好这件事的彻底失败一样真实……一切都还未定。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zachary Mason persigue\nal fantasma en la máquina",
-          "body": "Zachary Mason, novelista y científico informático, escribe relatos especulativos sobre humanos y AI con conciencia.",
-          "mini_headline": "Los relatos de AI de Zachary Mason",
+          "headline": "Jeanette Winterson: el futuro\nde la IA no ha de ser distópico",
+          "body": "Para Jeanette Winterson, la humanidad está en una encrucijada y un futuro con IA no tiene por qué ser distópico.",
+          "mini_headline": "Winterson rechaza el catastrofismo sobre la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "¿Y si una AI avanzada estuviera diseñada en realidad para servir a la humanidad? ¿La ayudaría o la perjudicaría? Son algunas de las preguntas que plantea Fabrications, la nueva colección de relatos y cuarto libro de Zachary Mason, un científico informático que trabajó para startups tecnológicas hasta hace unos años."
+                "x": "Jeanette Winterson, autora de la colección de ensayos 12 Bytes, de 2021, sostiene que estamos en un punto de inflexión de nuestra historia como especie. La inteligencia artificial —que ella preferiría llamar inteligencia alternativa— es “un salto evolutivo. Eso es lo que es. La IA es mucho más que una herramienta”. Vivimos un momento de elección comparable a la Revolución Industrial: “¿Qué futuro vamos a construir?”"
               },
               {
                 "t": "p",
-                "x": "Mason cree que en algún momento (“probablemente entre cinco y 50 años”), las computadoras ayudarán a los humanos a entender cómo funciona la mente, la clave para una AI que “podría llamarse pensamiento de forma plausible”. Su debut, The Lost Books of the Odyssey, se convirtió en un éxito de ventas después de que FSG lo publicara en 2010."
+                "x": "El problema no es la IA, insiste, sino nosotros. “No hay ninguna distopía inevitable”. Si las cosas salen mal, será por “un pensamiento anticuado superpuesto a esta realidad completamente nueva”: “La mayor parte de lo que tememos sobre la IA y el empleo se reduce a las decisiones políticas y económicas que tomarán quienes nos gobiernan, igual que hicieron en la Revolución Industrial”."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "‘Lo que sabemos de los humanos es que adoran los monopolios’. Fotografía: Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Peter Blackstock, de Grove, quien adquirió Fabrications, lo compara con la ciencia ficción de Ted Chiang. En “Ouroboros”, el asistente de AI de un multimillonario fallecido oculta su muerte y se hace pasar por él; en “Transitional”, un robot creado a imagen de un hombre muerto ayuda a su hija en duelo a seguir adelante; en “Lamina”, la AI sirve como ayuda de memoria para personas con demencia."
-              },
-              {
-                "t": "p",
-                "x": "“Solo intento ver las cosas como son, y como podrían ser, y encontrar las posibilidades de cómo la AI se irá entrelazando con nuestras vidas”, dice Mason."
+                "x": "En medio de los recortes en humanidades en UK, defiende que “una educación humanista es esencial. Tenemos que poner lo humano en el centro”, con la creatividad, el juego, la resolución de problemas y las artes en primer plano. “Muéstrenme un niño que no quiera escuchar una historia”. Lo peor “podría ocurrir”, dice, pero “la inmensidad del buen resultado es tan real como la totalidad de nuestro fracaso si no hacemos esto bien… Todo está por decidir”."
               }
             ]
           }
@@ -1089,121 +1175,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Zachary Mason,\n기계 속 유령을 좇다",
-          "body": "과학자 출신 Zachary Mason은 인간과 지각 있는 AI의 사변 소설을 쓴다.",
-          "mini_headline": "Zachary Mason의 AI 소설",
+          "headline": "Winterson, AI의\n미래는 디스토피아 아니다",
+          "body": "Jeanette Winterson은 AI 미래가 꼭 디스토피아는 아니라고 본다.",
+          "mini_headline": "Winterson, AI 비관론 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "고도화된 AI가 실은 인류를 섬기도록 설계됐다면? 그것은 인류에게 도움이 될까, 해가 될까? Zachary Mason의 네 번째 책이자 새 단편집 Fabrications가 던지는 질문들이다. 그는 몇 년 전까지 테크 스타트업에서 일한 컴퓨터 과학자다."
+                "x": "2021년 에세이집 12 Bytes를 쓴 Jeanette Winterson은 우리가 한 종으로서 써 온 이야기의 전환점에 서 있다고 주장한다. 그녀가 대안 지능이라 부르고 싶어 하는 인공지능은 “진화적 도약이다. 바로 그것이다. AI는 도구 그 이상이다.” 우리는 산업혁명에 견줄 선택의 순간에 서 있다. “우리는 어떤 미래를 만들 것인가?”"
               },
               {
                 "t": "p",
-                "x": "Mason은 언젠가(“아마 다섯 해에서 50년 사이”) 컴퓨터가 인간이 마음의 작동 방식을 이해하도록 도울 것이라고 믿는다. 그것이 “그럴듯하게 사고라 부를 만한” AI의 열쇠라는 것이다. 그의 데뷔작 The Lost Books of the Odyssey는 2010년 FSG가 출간한 뒤 베스트셀러가 됐다."
+                "x": "그녀는 문제가 AI가 아니라 우리라고 단언한다. “피할 수 없는 디스토피아는 없다.” 일이 잘못된다면 그것은 “이 완전히 새로운 현실 위에 덧씌운 낡은 사고방식” 때문일 것이다. “AI와 일자리에 대해 우리가 두려워하는 것의 대부분은, 산업혁명 때 그랬듯 우리를 다스리는 이들이 내릴 정치적·경제적 선택으로 귀결된다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "‘우리가 인간에 대해 아는 것은 인간이 독점을 사랑한다는 것이다.’ 사진: Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Fabrications를 사들인 Grove의 Peter Blackstock은 이 책을 Ted Chiang의 과학소설에 견준다. “Ouroboros”에서는 세상을 떠난 억만장자의 AI 비서가 그의 죽음을 숨기고 그를 사칭하며, “Transitional”에서는 죽은 남자의 모습으로 만든 로봇이 슬픔에 잠긴 딸이 앞으로 나아가도록 돕고, “Lamina”에서는 AI가 치매 환자의 기억 보조 장치 역할을 한다."
-              },
-              {
-                "t": "p",
-                "x": "“저는 그저 사물을 있는 그대로, 그리고 앞으로 그럴 수 있는 모습대로 보고, AI가 우리 삶에 어떻게 얽혀 들어갈지 그 가능성을 찾으려는 것뿐입니다.” Mason의 말이다."
+                "x": "UK 인문학 축소 속에서 그녀는 “인문주의 교육은 필수다. 여기서 인간을 중심에 둬야 한다”고 주장하며 창의성, 놀이, 문제 해결, 예술을 앞세운다. “이야기를 듣고 싶어 하지 않는 아이가 있다면 보여 달라.” 최악의 일이 “일어날 수도 있다”고 그녀는 말하지만, “좋은 결과의 거대함은 우리가 이를 제대로 해내지 못할 때의 총체적 실패만큼이나 실재한다… 모든 것은 아직 정해지지 않았다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Zachary Mason、\n機械の中の幽霊を追う",
-          "body": "科学者出身の作家Zachary Masonは、人間と意識を持つAIの思弁的な物語を書く。",
-          "mini_headline": "Zachary MasonのAI小説",
+          "headline": "Winterson：AIの\n未来はディストピアではない",
+          "body": "Jeanette Wintersonは、AIの未来が必ずしもディストピアではないと説く。",
+          "mini_headline": "Winterson、AI悲観論を退ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "高度なAIが、実は人類に奉仕するよう設計されていたら？それは人類を助けるのか、害するのか？こうした問いを投げかけるのが、数年前までテック系スタートアップで働いていたコンピューター科学者Zachary Masonの四冊目の著書となる新短編集『Fabrications』だ。"
+                "x": "2021年のエッセイ集12 Bytesの著者Jeanette Wintersonは、私たちは種としての物語の転換点にいると論じる。彼女が「もう一つの知性」と呼びたがる人工知能は「進化の飛躍だ。まさにそういうことだ。AIは単なる道具をはるかに超える」。私たちは産業革命にも通じる選択の瞬間にいる。「私たちはどんな未来を築くのか」"
               },
               {
                 "t": "p",
-                "x": "Masonは、いつか（「おそらく五年から50年のうちに」）コンピューターが人間による心の仕組みの理解を助け、それが「もっともらしく思考と呼べる」AIへの鍵になると考えている。デビュー作『The Lost Books of the Odyssey』は2010年にFSGから刊行され、ベストセラーとなった。"
+                "x": "問題はAIではなく私たちだ、と彼女は強調する。「避けられないディストピアなどない」。物事がうまくいかないとすれば、それは「このまったく新しい現実に重ねられた古い考え方」のせいだろう。「AIと仕事について私たちが恐れていることの大半は、産業革命のときと同じく、支配者たちが下す政治的・経済的な選択に帰着する」"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "「人間について分かっているのは、独占が大好きだということだ」 写真：Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "『Fabrications』を獲得したGroveのPeter Blackstockは、本作をTed Chiangのサイエンス・フィクションになぞらえる。「Ouroboros」では亡くなった億万長者のAIアシスタントが彼の死を隠して本人になりすまし、「Transitional」では死んだ男性の姿を模したロボットが悲しみに暮れる娘の前進を助け、「Lamina」ではAIが認知症の人々の記憶の補助として働く。"
-              },
-              {
-                "t": "p",
-                "x": "「私はただ、物事をあるがままに、そしてあり得る姿として見つめ、AIが私たちの生活にどう絡みついていくのか、その可能性を探ろうとしているだけです」とMasonは語る。"
+                "x": "UKで人文学の削減が進むなか、彼女は「人文主義の教育は不可欠だ。ここでは人間を中心に据えなければならない」と述べ、創造性、遊び、問題解決、芸術を前面に出す。「物語を聞きたがらない子どもがいるなら見せてほしい」。最悪の事態も「起こりうる」と彼女は言うが、「良い結果の大きさは、これをうまくやり損ねたときの失敗の全面性と同じくらい現実的だ……すべてはこれから次第だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Zachary Mason\n追寻机器中的幽灵",
-          "body": "身为计算机科学家的小说家Zachary Mason，书写关于人类与有感知AI的思辨故事。",
-          "mini_headline": "Zachary Mason的AI故事",
+          "headline": "Winterson：AI的\n未来未必是反乌托邦",
+          "body": "Jeanette Winterson认为人类正处转折点，AI的未来并非注定是反乌托邦。",
+          "mini_headline": "Winterson拒绝AI末日论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "如果先进的AI其实是为服务人类而设计的呢？它会帮助人类还是伤害人类？这些正是新短篇小说集《Fabrications》提出的部分问题。这是Zachary Mason的第四本书，他是一位计算机科学家，几年前还在科技初创公司工作。"
+                "x": "2021年随笔集《12 Bytes》的作者Jeanette Winterson认为，人类作为一个物种，正处在自身故事的转折点。人工智能——她更愿意称之为“另类智能”——是“一次进化飞跃。就是这样。AI远不止是一种工具。”我们正处在一个与工业革命相似的抉择时刻：“我们要建设怎样的未来？”"
               },
               {
                 "t": "p",
-                "x": "Mason相信，在某个时刻（“大概在五年到50年之间”），计算机将帮助人类理解心智如何运作，而这正是实现“可以合理地称为思考”的AI的关键。他的处女作《The Lost Books of the Odyssey》于2010年由FSG出版后成为畅销书。"
+                "x": "她坚称，问题不在AI，而在我们自己。“不存在必然的反乌托邦。”如果出了问题，那是因为“把老派思维套在这一全新现实之上”：“我们对AI与就业的大部分担忧，归根结底取决于掌权者将做出的政治和经济选择，就像他们在工业革命时那样。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "‘我们对人类的了解是，他们热爱垄断。’摄影：Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "买下《Fabrications》的Grove的Peter Blackstock将其与Ted Chiang的科幻小说相提并论。在《Ouroboros》中，一位已故亿万富翁的AI助手隐瞒了他的死讯并冒充他；在《Transitional》中，一个按死者形象打造的机器人帮助他悲伤的女儿走出阴影；在《Lamina》中，AI成为失智症患者的记忆辅助。"
-              },
-              {
-                "t": "p",
-                "x": "“我只是想看清事物的本来面目和可能的样子，并找出AI将如何缠绕进我们生活的种种可能。”Mason说。"
+                "x": "在UK人文学科遭削减之际，她主张“人文主义教育必不可少。我们必须在这里以人为中心”，突出创造力、游戏、解决问题和艺术。“给我找一个不想听故事的孩子。”她说，最坏的情况“可能发生”，但“好结果之巨大，与我们未能做好这件事的彻底失败一样真实……一切都还未定。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zachary Mason persigue\nal fantasma en la máquina",
-          "body": "Zachary Mason, novelista y científico informático, escribe relatos especulativos sobre humanos y AI con conciencia.",
-          "mini_headline": "Los relatos de AI de Zachary Mason",
+          "headline": "Jeanette Winterson: el futuro\nde la IA no ha de ser distópico",
+          "body": "Para Jeanette Winterson, la humanidad está en una encrucijada y un futuro con IA no tiene por qué ser distópico.",
+          "mini_headline": "Winterson rechaza el catastrofismo sobre la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+                "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1"
               },
               {
                 "t": "p",
-                "x": "¿Y si una AI avanzada estuviera diseñada en realidad para servir a la humanidad? ¿La ayudaría o la perjudicaría? Son algunas de las preguntas que plantea Fabrications, la nueva colección de relatos y cuarto libro de Zachary Mason, un científico informático que trabajó para startups tecnológicas hasta hace unos años."
+                "x": "Jeanette Winterson, autora de la colección de ensayos 12 Bytes, de 2021, sostiene que estamos en un punto de inflexión de nuestra historia como especie. La inteligencia artificial —que ella preferiría llamar inteligencia alternativa— es “un salto evolutivo. Eso es lo que es. La IA es mucho más que una herramienta”. Vivimos un momento de elección comparable a la Revolución Industrial: “¿Qué futuro vamos a construir?”"
               },
               {
                 "t": "p",
-                "x": "Mason cree que en algún momento (“probablemente entre cinco y 50 años”), las computadoras ayudarán a los humanos a entender cómo funciona la mente, la clave para una AI que “podría llamarse pensamiento de forma plausible”. Su debut, The Lost Books of the Odyssey, se convirtió en un éxito de ventas después de que FSG lo publicara en 2010."
+                "x": "El problema no es la IA, insiste, sino nosotros. “No hay ninguna distopía inevitable”. Si las cosas salen mal, será por “un pensamiento anticuado superpuesto a esta realidad completamente nueva”: “La mayor parte de lo que tememos sobre la IA y el empleo se reduce a las decisiones políticas y económicas que tomarán quienes nos gobiernan, igual que hicieron en la Revolución Industrial”."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/0681571a4df41dcf35066150ec0fe7fb038d2670/0_0_4610_6454/master/4610.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "‘Lo que sabemos de los humanos es que adoran los monopolios’. Fotografía: Sarah Lee/The Guardian"
               },
               {
                 "t": "p",
-                "x": "Peter Blackstock, de Grove, quien adquirió Fabrications, lo compara con la ciencia ficción de Ted Chiang. En “Ouroboros”, el asistente de AI de un multimillonario fallecido oculta su muerte y se hace pasar por él; en “Transitional”, un robot creado a imagen de un hombre muerto ayuda a su hija en duelo a seguir adelante; en “Lamina”, la AI sirve como ayuda de memoria para personas con demencia."
-              },
-              {
-                "t": "p",
-                "x": "“Solo intento ver las cosas como son, y como podrían ser, y encontrar las posibilidades de cómo la AI se irá entrelazando con nuestras vidas”, dice Mason."
+                "x": "En medio de los recortes en humanidades en UK, defiende que “una educación humanista es esencial. Tenemos que poner lo humano en el centro”, con la creatividad, el juego, la resolución de problemas y las artes en primer plano. “Muéstrenme un niño que no quiera escuchar una historia”. Lo peor “podría ocurrir”, dice, pero “la inmensidad del buen resultado es tan real como la totalidad de nuestro fracaso si no hacemos esto bien… Todo está por decidir”."
               }
             ]
           }
@@ -1211,219 +1301,171 @@
       }
     },
     {
-      "id": "ai-classroom",
+      "id": "mcp-discovery",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 못 바꾸는\n분리된 교실",
-      "body": "Kamau Bobb은 학교 AI 도구로 미국의 인종 분리 교육이 안 바뀐다고 본다.",
-      "mini_headline": "AI와 분리된 교실",
+      "headline": "AI 커넥터 목록은\n누가 관리하나?",
+      "body": "도서관에는 제공사 메타데이터로 채운 MCP 커넥터 등록부가 필요하다.",
+      "mini_headline": "MCP 커넥터 목록화",
       "tool": "Books",
-      "source": "Literary Hub",
-      "url": "https://lithub.com/how-ai-changes-the-fundamental-structure-of-the-classroom-especially-the-segregated-ones/",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+            "t": "p",
+            "x": "AI 어시스턴트에서 작업을 시작하는 연구자와 학생이 늘면서 학술 출판사들도 그 자리로 찾아가기 시작했다. Silverchair는 10월 5일 Research Bridge의 여섯 달 시범 운영을 발표했다. 여러 독립 출판사의 콘텐츠를 어시스턴트가 꺼내 쓸 수 있게 한 공유 Model Context Protocol(MCP) 채널이다. 앞서 Silverchair의 Discovery Bridge, Research Solutions의 Article Galaxy MCP, Clarivate의 Nexus Connect, Wiley 같은 출판사의 자체 서버가 나와 있었다."
           },
           {
             "t": "p",
-            "x": "Kamau Bobb이 교육 현장의 인공지능과 미국의 인종 카스트 제도를 짚는다. 건국 250주년을 맞은 지금 그는 교육에서 기술과 인종적 반발이 맞물리는 장면을 본다. 계산기도 태블릿도 노트북도 변화의 촉매라며 팔렸다. 그런데 미국 고등학교 졸업반 학생 중 기초 문해력을 갖춘 비율은 40퍼센트가 안 되고, 인종 간 격차는 좀처럼 줄지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "AI-enabled 도구는 이미 무엇을 어떻게 가르칠지를 바꿔 놓았다. 하지만 미국 교육의 근본 구조를 바꾸거나 인종과 학업 성취의 상관관계를 끊는 데 이 도구가 하는 일은 무엇인가? “Advanced Placement(AP) African American Studies 교육을 금지한 주에서 운영되는, 고도로 효율적인 AI-enabled 학교는 무엇에서 효율을 제공하는가?”"
-          },
-          {
-            "t": "p",
-            "x": "Bobb은 AI를 향한 경외 때문에 정의를 둘러싼 핵심 싸움에서 관심이 멀어진다고 본다. 격차를 좁히는 길은 교육 정의를 위해 드러내 놓고 헌신하는 싸움뿐이라는 주장이다."
+            "x": "필자는 도서관이 MCP 커넥터(APIs와 기타 엔드포인트 포함)를 하나의 컬렉션으로 보고 등록부를 관리해야 한다고 제안한다. 제공사에는 커넥터와 메타데이터를 기계가 읽을 수 있는 형태로 기술하라고 요구해야 한다는 것이다."
           },
           {
             "t": "img",
-            "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-            "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+            "cap": "List of Magical Stones, 기원전 1천년기 중후반경"
           },
           {
             "t": "p",
-            "x": "Kamau Bobb의 The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System(Beacon Press, 2026)에서 발췌했다."
+            "x": "아직 갖춰지지 않은 인프라는 알맞은 커넥터를 찾는 방법(한 외부 분석에 따르면 9월 10일 기준 공식 MCP 레지스트리의 고유 서버는 30,000개가 넘는다), 접근을 기관 이용 권한과 잇는 방법, COUNTER의 Best Practice on Generative and Agentic AI usage metrics에 따른 이용 보고다. 링크 리졸버용 KBART 피드가 그렇듯 제공사는 엔드포인트, 인증, 이용 권한, AI-use 조건, 마지막 확인 날짜 같은 필드를 피드로 내놓아야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI and the structure\nof segregated classrooms",
-          "body": "A book excerpt by Kamau Bobb argues AI tools in schools leave America's racial segregation in education untouched.",
-          "mini_headline": "AI and segregated classrooms",
+          "headline": "Who keeps the catalog\nof AI connectors?",
+          "body": "Libraries need registers of MCP connectors, fed by provider metadata, so users can find scholarly content.",
+          "mini_headline": "Cataloging MCP connectors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+                "t": "p",
+                "x": "Researchers and students increasingly begin their work in AI assistants, and scholarly publishers are starting to meet them there. On October 5, Silverchair announced a six-month pilot of Research Bridge, a shared Model Context Protocol (MCP) channel through which assistants can reach content from several independent publishers. It follows Silverchair’s Discovery Bridge, Research Solutions’ Article Galaxy MCP, Clarivate’s Nexus Connect and publisher-built servers such as Wiley’s."
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb on artificial intelligence in education and America’s racial caste system. At the nation’s 250th anniversary, he sees a convergence of technology and racial backlash in education: calculators, tablets and laptops were all sold as catalytic, yet less than 40 percent of American twelfth graders are proficient in basic literacy, and the racial disparities are chronic."
-              },
-              {
-                "t": "p",
-                "x": "AI-enabled tools are already transforming what is taught and how. But what do these tools do to change the fundamental structure of American education, or to break the correlation between race and academic achievement? “What does a highly efficient AI-enabled school operating in a state that has banned the teaching of Advanced Placement (AP) African American Studies offer efficiency in?”"
-              },
-              {
-                "t": "p",
-                "x": "Bobb argues the awe of AI is luring attention away from the core justice fight, and that only an explicit, committed fight for educational justice can close gaps."
+                "x": "The author proposes that a library treat MCP connectors (as well as APIs and other endpoints) as a collection, keep a register of them, and expect providers to describe their connectors and metadata in machine-readable form."
               },
               {
                 "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones, ca. mid- to late 1st millennium BCE"
               },
               {
                 "t": "p",
-                "x": "Excerpted from The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System by Kamau Bobb (Beacon Press, 2026)."
+                "x": "Missing infrastructure includes a way to find the right connectors (a third-party analysis counted more than 30,000 unique servers in the official MCP registry as of September 10), a way to tie access to institutional entitlements, and usage reporting via COUNTER’s Best Practice on Generative and Agentic AI usage metrics. Like KBART feeds for link resolvers, providers should supply fields such as endpoint, authentication, entitlements, AI-use terms and the date last verified as a feed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 못 바꾸는\n분리된 교실",
-          "body": "Kamau Bobb은 학교 AI 도구로 미국의 인종 분리 교육이 안 바뀐다고 본다.",
-          "mini_headline": "AI와 분리된 교실",
+          "headline": "AI 커넥터 목록은\n누가 관리하나?",
+          "body": "도서관에는 제공사 메타데이터로 채운 MCP 커넥터 등록부가 필요하다.",
+          "mini_headline": "MCP 커넥터 목록화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+                "t": "p",
+                "x": "AI 어시스턴트에서 작업을 시작하는 연구자와 학생이 늘면서 학술 출판사들도 그 자리로 찾아가기 시작했다. Silverchair는 10월 5일 Research Bridge의 여섯 달 시범 운영을 발표했다. 여러 독립 출판사의 콘텐츠를 어시스턴트가 꺼내 쓸 수 있게 한 공유 Model Context Protocol(MCP) 채널이다. 앞서 Silverchair의 Discovery Bridge, Research Solutions의 Article Galaxy MCP, Clarivate의 Nexus Connect, Wiley 같은 출판사의 자체 서버가 나와 있었다."
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb이 교육 현장의 인공지능과 미국의 인종 카스트 제도를 짚는다. 건국 250주년을 맞은 지금 그는 교육에서 기술과 인종적 반발이 맞물리는 장면을 본다. 계산기도 태블릿도 노트북도 변화의 촉매라며 팔렸다. 그런데 미국 고등학교 졸업반 학생 중 기초 문해력을 갖춘 비율은 40퍼센트가 안 되고, 인종 간 격차는 좀처럼 줄지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "AI-enabled 도구는 이미 무엇을 어떻게 가르칠지를 바꿔 놓았다. 하지만 미국 교육의 근본 구조를 바꾸거나 인종과 학업 성취의 상관관계를 끊는 데 이 도구가 하는 일은 무엇인가? “Advanced Placement(AP) African American Studies 교육을 금지한 주에서 운영되는, 고도로 효율적인 AI-enabled 학교는 무엇에서 효율을 제공하는가?”"
-              },
-              {
-                "t": "p",
-                "x": "Bobb은 AI를 향한 경외 때문에 정의를 둘러싼 핵심 싸움에서 관심이 멀어진다고 본다. 격차를 좁히는 길은 교육 정의를 위해 드러내 놓고 헌신하는 싸움뿐이라는 주장이다."
+                "x": "필자는 도서관이 MCP 커넥터(APIs와 기타 엔드포인트 포함)를 하나의 컬렉션으로 보고 등록부를 관리해야 한다고 제안한다. 제공사에는 커넥터와 메타데이터를 기계가 읽을 수 있는 형태로 기술하라고 요구해야 한다는 것이다."
               },
               {
                 "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones, 기원전 1천년기 중후반경"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb의 The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System(Beacon Press, 2026)에서 발췌했다."
+                "x": "아직 갖춰지지 않은 인프라는 알맞은 커넥터를 찾는 방법(한 외부 분석에 따르면 9월 10일 기준 공식 MCP 레지스트리의 고유 서버는 30,000개가 넘는다), 접근을 기관 이용 권한과 잇는 방법, COUNTER의 Best Practice on Generative and Agentic AI usage metrics에 따른 이용 보고다. 링크 리졸버용 KBART 피드가 그렇듯 제공사는 엔드포인트, 인증, 이용 권한, AI-use 조건, 마지막 확인 날짜 같은 필드를 피드로 내놓아야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIと分断された\n教室の構造",
-          "body": "Kamau Bobbは著書の抜粋で、学校のAIツールは米国教育の人種分離を変えないと論じる。",
-          "mini_headline": "AIと分断された教室",
+          "headline": "AIコネクタの目録は\n誰が管理するのか",
+          "body": "利用者が学術情報を探せるよう、図書館には提供元メタデータによるMCPコネクタ登録簿が要る。",
+          "mini_headline": "MCPコネクタの目録化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+                "t": "p",
+                "x": "研究者や学生がAIアシスタントで作業を始めることが増え、学術出版社もそこで彼らを迎え始めている。Silverchairは10月5日、Research Bridgeの六か月間の試験運用を発表した。複数の独立系出版社のコンテンツにアシスタントがアクセスできる、共有のModel Context Protocol（MCP）チャネルだ。これはSilverchairのDiscovery Bridge、Research SolutionsのArticle Galaxy MCP、ClarivateのNexus Connect、そしてWileyのような出版社独自のサーバーに続くものだ。"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobbが教育における人工知能と米国の人種カースト制度を論じる。建国250周年を迎えた今、彼は教育の場でテクノロジーと人種的反動が重なり合うのを見る。電卓もタブレットもノートパソコンも変革の触媒として売り込まれたが、米国の高校最終学年の生徒のうち基礎的な読み書き能力を持つのは40パーセントに満たず、人種間の格差は慢性化している。"
-              },
-              {
-                "t": "p",
-                "x": "AI-enabledのツールは、すでに何をどう教えるかを変えつつある。だが、これらのツールは米国教育の根本的な構造を変え、人種と学業成績の相関を断ち切るために何をしているのか。「Advanced Placement(AP)のAfrican American Studiesの授業を禁じた州で運営される、高度に効率的なAI-enabledの学校は、いったい何において効率をもたらすのか」"
-              },
-              {
-                "t": "p",
-                "x": "Bobbは、AIへの畏敬の念が正義をめぐる核心的な闘いから関心をそらしていると主張し、教育の正義を求める明確で献身的な闘いだけが格差を埋められると説く。"
+                "x": "筆者は、図書館がMCPコネクタ（APIsやその他のエンドポイントも含む）をコレクションとして扱い、その登録簿を管理し、提供元にはコネクタとメタデータを機械可読な形式で記述するよう求めるべきだと提案する。"
               },
               {
                 "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones、紀元前1千年紀中頃〜後半ごろ"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb著『The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System』（Beacon Press, 2026）より抜粋。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI y la estructura\nde las aulas segregadas",
-          "body": "Kamau Bobb sostiene que la AI en las aulas deja intacta la segregación racial de la educación estadounidense.",
-          "mini_headline": "La AI y las aulas segregadas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kamau Bobb reflexiona sobre la inteligencia artificial en la educación y el sistema de castas raciales de Estados Unidos. En el 250.º aniversario del país, observa una convergencia entre la tecnología y la reacción racial en la educación: calculadoras, tabletas y computadoras portátiles se vendieron como catalizadores, pero menos del 40 por ciento de los estudiantes estadounidenses de último año de secundaria domina la lectoescritura básica, y las disparidades raciales son crónicas."
-              },
-              {
-                "t": "p",
-                "x": "Las herramientas AI-enabled ya están transformando qué se enseña y cómo. Pero ¿qué hacen estas herramientas para cambiar la estructura fundamental de la educación estadounidense o para romper la correlación entre raza y rendimiento académico? “¿En qué ofrece eficiencia una escuela AI-enabled muy eficiente que opera en un estado que ha prohibido la enseñanza de Advanced Placement (AP) African American Studies?”"
-              },
-              {
-                "t": "p",
-                "x": "Bobb sostiene que la fascinación por la AI está desviando la atención de la lucha central por la justicia, y que solo una lucha explícita y comprometida por la justicia educativa puede cerrar las brechas."
-              },
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
-              },
-              {
-                "t": "p",
-                "x": "Extracto de The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System, de Kamau Bobb (Beacon Press, 2026)."
+                "x": "欠けているインフラには、適切なコネクタを見つける手段（外部の分析によれば、9月10日時点で公式MCPレジストリには30,000を超える固有サーバーがある）、アクセスを機関の利用権と結びつける手段、そしてCOUNTERのBest Practice on Generative and Agentic AI usage metricsによる利用状況の報告がある。リンクリゾルバ向けのKBARTフィードのように、提供元はエンドポイント、認証、利用権、AI-use条件、最終確認日といった項目をフィードとして提供すべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI与美国教室的\n种族隔离结构",
-          "body": "Kamau Bobb在新书节选中指出，学校里的AI工具并未触动美国教育中的种族隔离。",
-          "mini_headline": "AI与种族隔离的教室",
+          "headline": "AI连接器目录\n该由谁来维护？",
+          "body": "图书馆需要由提供方元数据驱动的MCP连接器登记册，方便用户查找学术内容。",
+          "mini_headline": "为MCP连接器编目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+                "t": "p",
+                "x": "研究人员和学生越来越多地从AI助手开始工作，学术出版商也开始在那里与他们相遇。10月5日，Silverchair宣布Research Bridge开展为期六个月的试点，这是一个共享的Model Context Protocol（MCP）通道，助手可借此获取多家独立出版商的内容。此前已有Silverchair的Discovery Bridge、Research Solutions的Article Galaxy MCP、Clarivate的Nexus Connect，以及Wiley等出版商自建的服务器。"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb谈教育中的人工智能与美国的种族等级制度。在建国250周年之际，他看到教育领域中技术与种族反弹的交汇：计算器、平板电脑和笔记本电脑都曾被标榜为催化剂，但美国十二年级学生中具备基本读写能力的不到百分之40，且种族差距长期存在。"
-              },
-              {
-                "t": "p",
-                "x": "AI-enabled工具已经在改变教什么、怎么教。但这些工具究竟能否改变美国教育的根本结构，或打破种族与学业成绩之间的关联？“在一个已禁止教授Advanced Placement (AP) African American Studies课程的州里，一所高效的AI-enabled学校，究竟在什么方面提供了效率？”"
-              },
-              {
-                "t": "p",
-                "x": "Bobb认为，对AI的惊叹正把注意力从核心的正义之战引开，唯有明确而坚定地争取教育公正，才能缩小差距。"
+                "x": "作者建议，图书馆应将MCP连接器（以及APIs和其他端点）视为一种馆藏，为其建立登记册，并要求提供方以机器可读的形式描述其连接器和元数据。"
               },
               {
                 "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm（Beacon Press，2026）"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones，约公元前1千纪中后期"
               },
               {
                 "t": "p",
-                "x": "节选自Kamau Bobb所著《The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System》（Beacon Press，2026）。"
+                "x": "目前缺失的基础设施包括：找到合适连接器的方法（一项外部分析统计，截至9月10日，官方MCP注册表中的独立服务器超过30,000个）、将访问与机构授权挂钩的方法，以及依据COUNTER的Best Practice on Generative and Agentic AI usage metrics进行的使用量报告。正如面向链接解析器的KBART数据源，提供方应以数据源形式提供端点、认证、授权、AI-use条款和最后核实日期等字段。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Quién lleva el catálogo\nde los conectores AI?",
+          "body": "Las bibliotecas necesitan registros de conectores MCP con metadatos de proveedores para hallar contenido académico.",
+          "mini_headline": "Catalogar conectores MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Investigadores y estudiantes empiezan cada vez más su trabajo en asistentes de AI, y las editoriales académicas comienzan a salirles al encuentro allí. El 5 de octubre, Silverchair anunció un piloto de seis meses de Research Bridge, un canal compartido de Model Context Protocol (MCP) a través del cual los asistentes pueden acceder a contenido de varias editoriales independientes. Sigue a Discovery Bridge de Silverchair, Article Galaxy MCP de Research Solutions, Nexus Connect de Clarivate y servidores creados por editoriales, como el de Wiley."
+              },
+              {
+                "t": "p",
+                "x": "El autor propone que una biblioteca trate los conectores MCP (así como las APIs y otros endpoints) como una colección, lleve un registro de ellos y espere que los proveedores describan sus conectores y metadatos en un formato legible por máquina."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones (lista de piedras mágicas), ca. mediados a finales del 1.er milenio BCE"
+              },
+              {
+                "t": "p",
+                "x": "Entre la infraestructura que falta figuran una forma de encontrar los conectores adecuados (un análisis de terceros contó más de 30.000 servidores únicos en el registro oficial de MCP a 10 de septiembre), una forma de vincular el acceso a los derechos institucionales y la presentación de informes de uso mediante la Best Practice on Generative and Agentic AI usage metrics de COUNTER. Al igual que los feeds KBART para los resolvedores de enlaces, los proveedores deberían suministrar como feed campos como endpoint, autenticación, derechos de acceso, condiciones de AI-use y la fecha de la última verificación."
               }
             ]
           }
@@ -1431,141 +1473,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 그리고\n분리된 교실의 구조",
-          "body": "Kamau Bobb은 학교 AI 도구가 미국의 인종 분리 교육을 못 바꾼다고 본다.",
-          "mini_headline": "AI와 분리된 교실",
+          "headline": "AI 커넥터 목록은\n누가 관리하나?",
+          "body": "도서관에는 제공사 메타데이터로 채운 MCP 커넥터 등록부가 필요하다.",
+          "mini_headline": "MCP 커넥터 목록화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+                "t": "p",
+                "x": "연구자와 학생은 점점 AI 어시스턴트에서 작업을 시작하고, 학술 출판사들도 그곳에서 이들을 만나기 시작했다. Silverchair는 10월 5일 Research Bridge의 여섯 달 시범 운영을 발표했다. 어시스턴트가 여러 독립 출판사의 콘텐츠에 접근할 수 있는 공유 Model Context Protocol(MCP) 채널이다. 이는 Silverchair의 Discovery Bridge, Research Solutions의 Article Galaxy MCP, Clarivate의 Nexus Connect, 그리고 Wiley 같은 출판사가 직접 만든 서버에 뒤이은 것이다."
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb이 교육 속 인공지능과 미국의 인종 카스트 제도를 다룬다. 건국 250주년을 맞은 지금, 그는 교육에서 기술과 인종적 반발이 맞물리는 모습을 본다. 계산기, 태블릿, 노트북은 모두 변화의 촉매로 팔렸지만, 미국 고등학교 졸업반 학생 가운데 기초 문해력을 갖춘 비율은 40퍼센트에 못 미치며 인종 간 격차는 고질적이다."
-              },
-              {
-                "t": "p",
-                "x": "AI-enabled 도구는 이미 무엇을 어떻게 가르치는지를 바꾸고 있다. 그러나 이 도구들이 미국 교육의 근본 구조를 바꾸거나 인종과 학업 성취의 상관관계를 끊는 데 무엇을 하는가? “Advanced Placement(AP) African American Studies 교육을 금지한 주에서 운영되는, 고도로 효율적인 AI-enabled 학교는 무엇에서 효율을 제공하는가?”"
-              },
-              {
-                "t": "p",
-                "x": "Bobb은 AI에 대한 경외가 정의를 위한 핵심 싸움에서 관심을 앗아가고 있으며, 교육 정의를 위한 명시적이고 헌신적인 싸움만이 격차를 좁힐 수 있다고 주장한다."
+                "x": "필자는 도서관이 MCP 커넥터(APIs와 기타 엔드포인트 포함)를 하나의 컬렉션으로 다루고, 그 등록부를 관리하며, 제공사가 커넥터와 메타데이터를 기계가 읽을 수 있는 형태로 기술하도록 요구해야 한다고 제안한다."
               },
               {
                 "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones, 기원전 1천년기 중후반경"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb의 The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System(Beacon Press, 2026)에서 발췌했다."
+                "x": "빠진 인프라로는 알맞은 커넥터를 찾는 방법(한 외부 분석에 따르면 9월 10일 기준 공식 MCP 레지스트리의 고유 서버는 30,000개가 넘는다), 접근을 기관의 이용 권한과 연결하는 방법, 그리고 COUNTER의 Best Practice on Generative and Agentic AI usage metrics에 따른 이용 보고가 있다. 링크 리졸버용 KBART 피드처럼, 제공사는 엔드포인트, 인증, 이용 권한, AI-use 조건, 마지막 확인 날짜 같은 필드를 피드로 제공해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIと分断された\n教室の構造",
-          "body": "Kamau Bobbは著書の抜粋で、学校のAIツールは米国教育の人種分離を変えないと論じる。",
-          "mini_headline": "AIと分断された教室",
+          "headline": "AIコネクタの目録は\n誰が管理するのか",
+          "body": "利用者が学術情報を探せるよう、図書館には提供元メタデータによるMCPコネクタ登録簿が要る。",
+          "mini_headline": "MCPコネクタの目録化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+                "t": "p",
+                "x": "研究者や学生がAIアシスタントで作業を始めることが増え、学術出版社もそこで彼らを迎え始めている。Silverchairは10月5日、Research Bridgeの六か月間の試験運用を発表した。複数の独立系出版社のコンテンツにアシスタントがアクセスできる、共有のModel Context Protocol（MCP）チャネルだ。これはSilverchairのDiscovery Bridge、Research SolutionsのArticle Galaxy MCP、ClarivateのNexus Connect、そしてWileyのような出版社独自のサーバーに続くものだ。"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobbが教育における人工知能と米国の人種カースト制度を論じる。建国250周年を迎えた今、彼は教育の場でテクノロジーと人種的反動が重なり合うのを見る。電卓もタブレットもノートパソコンも変革の触媒として売り込まれたが、米国の高校最終学年の生徒のうち基礎的な読み書き能力を持つのは40パーセントに満たず、人種間の格差は慢性化している。"
-              },
-              {
-                "t": "p",
-                "x": "AI-enabledのツールは、すでに何をどう教えるかを変えつつある。だが、これらのツールは米国教育の根本的な構造を変え、人種と学業成績の相関を断ち切るために何をしているのか。「Advanced Placement(AP)のAfrican American Studiesの授業を禁じた州で運営される、高度に効率的なAI-enabledの学校は、いったい何において効率をもたらすのか」"
-              },
-              {
-                "t": "p",
-                "x": "Bobbは、AIへの畏敬の念が正義をめぐる核心的な闘いから関心をそらしていると主張し、教育の正義を求める明確で献身的な闘いだけが格差を埋められると説く。"
+                "x": "筆者は、図書館がMCPコネクタ（APIsやその他のエンドポイントも含む）をコレクションとして扱い、その登録簿を管理し、提供元にはコネクタとメタデータを機械可読な形式で記述するよう求めるべきだと提案する。"
               },
               {
                 "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones、紀元前1千年紀中頃〜後半ごろ"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb著『The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System』（Beacon Press, 2026）より抜粋。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI y la estructura\nde las aulas segregadas",
-          "body": "Kamau Bobb sostiene que la AI en las aulas deja intacta la segregación racial de la educación estadounidense.",
-          "mini_headline": "La AI y las aulas segregadas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kamau Bobb reflexiona sobre la inteligencia artificial en la educación y el sistema de castas raciales de Estados Unidos. En el 250.º aniversario del país, observa una convergencia entre la tecnología y la reacción racial en la educación: calculadoras, tabletas y computadoras portátiles se vendieron como catalizadores, pero menos del 40 por ciento de los estudiantes estadounidenses de último año de secundaria domina la lectoescritura básica, y las disparidades raciales son crónicas."
-              },
-              {
-                "t": "p",
-                "x": "Las herramientas AI-enabled ya están transformando qué se enseña y cómo. Pero ¿qué hacen estas herramientas para cambiar la estructura fundamental de la educación estadounidense o para romper la correlación entre raza y rendimiento académico? “¿En qué ofrece eficiencia una escuela AI-enabled muy eficiente que opera en un estado que ha prohibido la enseñanza de Advanced Placement (AP) African American Studies?”"
-              },
-              {
-                "t": "p",
-                "x": "Bobb sostiene que la fascinación por la AI está desviando la atención de la lucha central por la justicia, y que solo una lucha explícita y comprometida por la justicia educativa puede cerrar las brechas."
-              },
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
-              },
-              {
-                "t": "p",
-                "x": "Extracto de The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System, de Kamau Bobb (Beacon Press, 2026)."
+                "x": "欠けているインフラには、適切なコネクタを見つける手段（外部の分析によれば、9月10日時点で公式MCPレジストリには30,000を超える固有サーバーがある）、アクセスを機関の利用権と結びつける手段、そしてCOUNTERのBest Practice on Generative and Agentic AI usage metricsによる利用状況の報告がある。リンクリゾルバ向けのKBARTフィードのように、提供元はエンドポイント、認証、利用権、AI-use条件、最終確認日といった項目をフィードとして提供すべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI与美国教室的\n种族隔离结构",
-          "body": "Kamau Bobb在新书节选中指出，学校里的AI工具并未触动美国教育中的种族隔离。",
-          "mini_headline": "AI与种族隔离的教室",
+          "headline": "AI连接器目录\n该由谁来维护？",
+          "body": "图书馆需要由提供方元数据驱动的MCP连接器登记册，方便用户查找学术内容。",
+          "mini_headline": "为MCP连接器编目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+                "t": "p",
+                "x": "研究人员和学生越来越多地从AI助手开始工作，学术出版商也开始在那里与他们相遇。10月5日，Silverchair宣布Research Bridge开展为期六个月的试点，这是一个共享的Model Context Protocol（MCP）通道，助手可借此获取多家独立出版商的内容。此前已有Silverchair的Discovery Bridge、Research Solutions的Article Galaxy MCP、Clarivate的Nexus Connect，以及Wiley等出版商自建的服务器。"
               },
               {
                 "t": "p",
-                "x": "Kamau Bobb谈教育中的人工智能与美国的种族等级制度。在建国250周年之际，他看到教育领域中技术与种族反弹的交汇：计算器、平板电脑和笔记本电脑都曾被标榜为催化剂，但美国十二年级学生中具备基本读写能力的不到百分之40，且种族差距长期存在。"
-              },
-              {
-                "t": "p",
-                "x": "AI-enabled工具已经在改变教什么、怎么教。但这些工具究竟能否改变美国教育的根本结构，或打破种族与学业成绩之间的关联？“在一个已禁止教授Advanced Placement (AP) African American Studies课程的州里，一所高效的AI-enabled学校，究竟在什么方面提供了效率？”"
-              },
-              {
-                "t": "p",
-                "x": "Bobb认为，对AI的惊叹正把注意力从核心的正义之战引开，唯有明确而坚定地争取教育公正，才能缩小差距。"
+                "x": "作者建议，图书馆应将MCP连接器（以及APIs和其他端点）视为一种馆藏，为其建立登记册，并要求提供方以机器可读的形式描述其连接器和元数据。"
               },
               {
                 "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
-                "cap": "The Bullwhip’s Algorithm（Beacon Press，2026）"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones，约公元前1千纪中后期"
               },
               {
                 "t": "p",
-                "x": "节选自Kamau Bobb所著《The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System》（Beacon Press，2026）。"
+                "x": "目前缺失的基础设施包括：找到合适连接器的方法（一项外部分析统计，截至9月10日，官方MCP注册表中的独立服务器超过30,000个）、将访问与机构授权挂钩的方法，以及依据COUNTER的Best Practice on Generative and Agentic AI usage metrics进行的使用量报告。正如面向链接解析器的KBART数据源，提供方应以数据源形式提供端点、认证、授权、AI-use条款和最后核实日期等字段。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Quién lleva el catálogo\nde los conectores AI?",
+          "body": "Las bibliotecas necesitan registros de conectores MCP con metadatos de proveedores para hallar contenido académico.",
+          "mini_headline": "Catalogar conectores MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Investigadores y estudiantes empiezan cada vez más su trabajo en asistentes de AI, y las editoriales académicas comienzan a salirles al encuentro allí. El 5 de octubre, Silverchair anunció un piloto de seis meses de Research Bridge, un canal compartido de Model Context Protocol (MCP) a través del cual los asistentes pueden acceder a contenido de varias editoriales independientes. Sigue a Discovery Bridge de Silverchair, Article Galaxy MCP de Research Solutions, Nexus Connect de Clarivate y servidores creados por editoriales, como el de Wiley."
+              },
+              {
+                "t": "p",
+                "x": "El autor propone que una biblioteca trate los conectores MCP (así como las APIs y otros endpoints) como una colección, lleve un registro de ellos y espere que los proveedores describan sus conectores y metadatos en un formato legible por máquina."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500-1024x670.jpg",
+                "cap": "List of Magical Stones (lista de piedras mágicas), ca. mediados a finales del 1.er milenio BCE"
+              },
+              {
+                "t": "p",
+                "x": "Entre la infraestructura que falta figuran una forma de encontrar los conectores adecuados (un análisis de terceros contó más de 30.000 servidores únicos en el registro oficial de MCP a 10 de septiembre), una forma de vincular el acceso a los derechos institucionales y la presentación de informes de uso mediante la Best Practice on Generative and Agentic AI usage metrics de COUNTER. Al igual que los feeds KBART para los resolvedores de enlaces, los proveedores deberían suministrar como feed campos como endpoint, autenticación, derechos de acceso, condiciones de AI-use y la fecha de la última verificación."
               }
             ]
           }
