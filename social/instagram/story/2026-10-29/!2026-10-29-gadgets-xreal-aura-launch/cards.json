@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "Android XR 첫 AR 안경, XREAL Aura 출시",
+    "date": "2026.10.28",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "Road to VR 원문(2026-10-28 16:59 UTC, KST 10-29 01:59) 대조. 가격·할인 기한·출하 시기·국가, 95g·70도 FOV, Snapdragon Reality Elite + X1S, 150개 넘는 XR 경험, GameSir 게임패드 Gemini 키 인용, 리뷰 전이라는 문구까지 원문 확인. 초안 날짜 2026.10.29(브리프 날짜) → 기사 날짜 2026.10.28로 정정. 사진은 모두 기사 본문 이미지(Courtesy XREAL): 표지는 pipeline/media(xreal-aura-sm), wear=xreal-aura-screen, puck=xreal-aura-lrg, gamepad=xreal-controller. 워터마크 없음. 기사에 영상 임베드 없음.",
+    "sources": [
+      "Road to VR — Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 가젯 · 2026.10.28",
+      "headline": "Android XR 첫 AR 안경 나왔다",
+      "body": "XREAL이 Google Android XR을 얹은 AR 안경 Aura를 내놨다. 한정 기간 $1,100부터 판다.",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/gadgets-xreal-aura-launch.jpg",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "$1,279",
+      "stat_arrow": "12월까지 출시 할인",
+      "stat_bottom": "$1,099",
+      "stat_strike": true,
+      "eyebrow": "무슨 일인가",
+      "headline": "11월 중순, 한국에도 온다",
+      "body": "첫 물량은 미국·캐나다·일본·한국부터 간다. 16GB·512GB 모델은 $1,499에서 $1,299로 내렸다.",
+      "foot": "2026.10.28",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "media": "src/puck.jpg",
+      "eyebrow": "어떻게 가볍게 했나",
+      "headline": "무게는 주머니로 덜었다",
+      "body": "머리에 얹는 무게는 95g이 안 된다. 칩은 선으로 잇는 주머니 유닛에 넣었다. 시야각은 70도다.",
+      "foot": "2026.10.28",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "media": "src/gamepad.jpg",
+      "eyebrow": "짚을 대목",
+      "headline": "게임패드에 Gemini 키",
+      "body": "GameSir와 만든 게임패드에 Gemini 전용 키를 달았다. 놀다가 바로 AI 도움을 부르라는 뜻이다.",
+      "foot": "2026.10.28",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "media": "src/wear.jpg",
+      "eyebrow": "그래서 지금",
+      "headline": "진짜 평가는 써본 뒤에",
+      "body": "XR 전용 경험 150개 넘게 담고 Play Store 앱도 돈다. Road to VR도 아직 정식 리뷰 전이다.",
+      "foot": "2026.10.28",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

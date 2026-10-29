@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "issue": "린타로, AI의 ‘평균’을 경계하다",
+    "date": "2026.10.28",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "Cartoon Brew(Kambole Campbell, 2026.10.28 11:21 게시, datePublished 2026-10-28T11:21:01) 원문 대조. 인용은 원문 영어에서 옮겼다: 리메이크 원인(세계 시장·안전하고 인기 있는 과거의 것), AI=평균값·평균을 권하는 안전한 선택지, '아주, 아주 신중하게', '이대로라면 미래는 없다'. 라운드테이블은 씨네21 기자와 함께한 자리(원문엔 마스터클래스 '뒤'라는 말이 없어 뺐다). '신중하게' 발언은 씨네21 기자의 질문(지브리풍 AI 이미지)에 대한 답. 날짜 초안 10.29 → 원문 게시일 10.28로 정정. 미디어: 표지·5장 = 기사에 임베드된 Metropolis (2001) 공식 예고편(YouTube aen2v31UjqA, Umbrella Entertainment)에서 자막·로고 없는 구간 15–23s·33–41s, 3장 = 기사에 임베드된 단편 Nezumikozō Jirokichi(YouTube JoKCJln_vYA)에서 영어 자막 없는 98–106s, 2장 = 기사 대표 이미지(Wikimedia Commons, BIFF 마스터클래스) 가운데 칸만 잘라 상단 크레디트 글자 제거. / 2장 사진은 기사 대표 이미지(크레디트가 박힌 합성)를 쓰지 않고 Wikimedia Commons \"Rintaro at the 2026 Busan International Film Festival. 01.jpg\"(Saraa.kom, CC BY-SA 4.0)로 바꿈 — 캡션에 사진 출처 표기. 사진은 얼굴이 보이도록 위쪽 1280×830만 잘라 씀.",
+    "sources": [
+      "Cartoon Brew — Rintaro On Anime’s Aversion To Risk: ‘There Will Be No Future’ (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 영화 · 2026.10.28",
+      "headline": "린타로, AI의\n평균을 경계하다",
+      "body": "〈은하철도 999〉 〈메트로폴리스〉를 만든 85세 감독이 부산에서 말했다. AI가 애니메이션을 과거로 끌고 간다고.",
+      "foot": "밀어서 보기 →",
+      "video": "src/metropolis_city.mp4",
+      "start": 0,
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "부산에서 열린\n거장의 라운드테이블",
+      "body": "제31회 부산국제영화제에 마스터클래스로 온 그는 Cartoon Brew·씨네21 기자와 마주 앉아 업계의 변화를 돌아봤다.",
+      "foot": "2026.10.28",
+      "media": "src/rintaro_biff_commons.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "왜 그런가",
+      "headline": "새것보다\n안전한 옛것",
+      "body": "리메이크가 쏟아지는 까닭으로 그는 세계 시장을 꼽았다. 이미 안전하고 인기 있는 옛 작품을 되살려야 돈이 더 들어온다는 것이다.",
+      "foot": "2026.10.28",
+      "video": "src/nezumikozo.mp4",
+      "start": 0,
+      "dur": 8,
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "AI는 평균값이나 평균을 권하는 것이고, 그것이 권할 수 있는 안전한 선택지이기 때문이다.",
+      "quote_by": "린타로 · 애니메이션 감독",
+      "eyebrow": "짚을 대목",
+      "headline": "AI도 리메이크\n쪽으로 민다",
+      "body": "AI는 위험을 무릅쓴 독창적인 작업을 권하지 않는다. 오리지널이 예전만큼 성공하지 못할 수 있다는 경고다.",
+      "foot": "2026.10.28",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "“이대로라면\n미래는 없다”",
+      "body": "AI를 칼날에 비유한 그는 쓰더라도 ‘아주, 아주 신중하게’ 쓰겠다고 했다. 새 미래를 원한다면 위험을 받아들여야 한다.",
+      "foot": "2026.10.28",
+      "video": "src/metropolis_eye.mp4",
+      "start": 0,
+      "dur": 8,
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
