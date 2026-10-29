@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "issue": "AI 코딩, 게임 개발의 기본값",
+    "date": "2026.10.30",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(Unity 10.25→10.22, Molyneux 10.28→10.27, Epic 10.29→10.28, EA 10.30→10.29, Roblox 10.30→10.29 실적 발표). 사진은 Molyneux 한 장만 두고 나머지는 stat·quote로. 수치 98%·0.2%·2억 건(7.20~10.13), 12%, 80%·세 배·다섯 배 가까이, Wassmer·EA 직원 인용 확인.",
+    "sources": [
+      "Unity — Meeting you where you work: Inside 200M+ Unity CLI events (2026.10.22)",
+      "PC Gamer — Peter Molyneux speaks candidly about AI (2026.10.27)",
+      "Eurogamer — Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more (2026.10.28)",
+      "PC Gamer — 'Morale has been terrible' at EA, workers claim (2026.10.29)",
+      "GamesBeat — Roblox says more than 80% of its top 100 games used AI to accelerate creation (2026.10.29)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 게임 · 10.22~10.29",
+      "thread": [
+        {
+          "d": "10.22",
+          "t": "Unity",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.27",
+          "t": "몰리뉴",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.28",
+          "t": "Epic",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.29",
+          "t": "EA",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.29",
+          "t": "Roblox",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "게임 개발에서 AI 코딩이 선택에서 기본값이 됐다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI 코딩,\n게임 개발의 기본값",
+      "body": "한 건씩 보면 한 회사의 선택이다. 엔진, 개발사, 플랫폼이 한 주 사이 같은 말을 했고 직원들은 강요라고 느꼈다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.22",
+      "headline": "Unity, 손보다 에이전트",
+      "body": "7월 20일~10월 13일 Unity CLI 실행의 약 98%가 코딩 에이전트와 자동화였다. 사람이 직접 친 건 0.2%.",
+      "foot": "2026.10.22",
+      "_src": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+      "_id": "games-unity-cli-agents",
+      "stat_top": "사람이 직접 입력 0.2%",
+      "stat_arrow": "Unity CLI 실행 중 에이전트·자동화",
+      "stat_bottom": "약 98%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.27",
+      "headline": "안 쓰는 척할 뿐",
+      "body": "Peter Molyneux는 업계가 AI를 안 쓰는 척하지만 이제 AI 없이 코딩하기란 거의 불가능하다고 말했다.",
+      "foot": "2026.10.27",
+      "_src": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/",
+      "_id": "molyneux",
+      "media": "pipeline/media/molyneux.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.10.28",
+      "headline": "Epic, UE6도 AI로 짠다",
+      "body": "Epic은 Unreal 코드와 기능을 AI로 개발하고 UE6로도 넓힌다. 너무 느린 쪽이 AI 회의론보다 더 걱정이라고 했다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "_id": "epicaicode",
+      "quote": "엔지니어는 더 이상\n코드 대부분을\n직접 쓰지 않는다",
+      "quote_by": "Marcus Wassmer · Epic 개발 부사장"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.29",
+      "headline": "EA 안에서는 강요",
+      "body": "EA 직원들은 감원 뒤 AI 강요와 부실 경영으로 사기가 바닥이라고 했다. 경영진은 Claude에 들떠 있었다고 한다.",
+      "foot": "2026.10.29",
+      "_src": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
+      "_id": "games-ea-ai-mandate-morale",
+      "quote": "사기는\n최악이었다",
+      "quote_by": "EA 익명 직원 · Vertical Slice 보도"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "Roblox 상위 게임도",
+      "body": "Roblox 3분기 실적: 10월 상위 100개 게임의 80% 넘게 AI로 제작을 앞당겼다. 상위 창작자 AI 도구 사용은 세 배.",
+      "foot": "2026.10.29",
+      "_src": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
+      "_id": "games-roblox-q3-ai-creation",
+      "stat_top": "상위 100개 게임(플레이 시간 기준)",
+      "stat_arrow": "10월, AI로 제작을 앞당긴 비율",
+      "stat_bottom": "80%+",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

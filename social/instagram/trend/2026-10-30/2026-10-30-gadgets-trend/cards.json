@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "AI 안경, 판이 깔린다",
+    "date": "2026.10.30",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 아카이브(10.27·10.29·10.30·10.30)에서 원문 게재일로 고침(9to5Google 10.26 PT, Road to VR 10.28 16:59 UTC, Notebookcheck 10.28 19:20 CET, Digital Trends 10.28 12:38 PT) → 게재 시각순으로 Rokid를 Android XR 앞에 둠. 수치 2.4.0·기록 10개·Even AI 2.0, $1,279→$1,099·95g, 210→263mAh·11월 11일·Codex, 에뮬레이터·Jetpack XR SDK 정식판 확인. XREAL 사진은 10-29 story에서 이미 써서 stat(가격)으로 바꿈.",
+    "sources": [
+      "9to5Google — Major Even Realities G2 smart glasses update adds Conversate 'Pro Mode,' Knowledge Base (2026.10.26)",
+      "Road to VR — Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time (2026.10.28)",
+      "Notebookcheck — Rokid Glasses 2 launch with upgraded design, bigger battery, and Dolby Audio support (2026.10.28)",
+      "Digital Trends — Google's new Android XR tools let developers test apps without needing to buy expensive smart glasses (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.26~10.28",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "기억 AI",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.28",
+          "t": "첫 AR",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.28",
+          "t": "2세대",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.28",
+          "t": "개발 도구",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 안경은 기기 한 대가 아니라 업데이트·신제품·개발 도구가 함께 움직인다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 안경,\n판이 깔린다",
+      "body": "하나씩 보면 신제품 소식이다. 그런데 사흘 사이 업데이트, 새 안경 둘, 개발 도구가 한꺼번에 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "안경이 내 기록을 기억",
+      "body": "G2 2.4.0 업데이트. Conversate 기록을 처음 10개까지 Knowledge Base에 올리고, Even AI 2.0도 온다.",
+      "foot": "2026.10.26",
+      "_src": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+      "_id": "gadgets-even-g2-update",
+      "media": "pipeline/media/gadgets-even-g2-update.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "Android XR\n첫 AR 안경",
+      "body": "XREAL Aura가 나왔다. 머리에 얹는 무게는 95g이 안 되고, 칩은 선으로 잇는 주머니 유닛에 넣었다.",
+      "foot": "2026.10.28",
+      "_src": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+      "_id": "gadgets-xreal-aura-launch",
+      "stat_top": "$1,279",
+      "stat_arrow": "12월까지 출시 할인",
+      "stat_bottom": "$1,099",
+      "stat_strike": true
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "2세대 안경,\n에이전트까지",
+      "body": "Rokid Glasses 2는 배터리를 210mAh에서 263mAh로 키우고 Codex 같은 데스크톱 에이전트를 지원한다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html",
+      "_id": "rokid-glasses2-microled",
+      "media": "pipeline/media/rokid-glasses2-microled.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "안경 없이\n안경 앱을 시험",
+      "body": "Android XR 에뮬레이터와 Jetpack XR SDK가 정식판이 됐다. AI 에이전트는 Android CLI로 앱을 시험한다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
+      "_id": "android-xr-cli-devtools",
+      "media": "pipeline/media/android-xr-cli-devtools.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

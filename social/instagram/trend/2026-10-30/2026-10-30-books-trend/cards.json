@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI 학습 보상, 합의 대신 법정",
+    "date": "2026.10.30",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(PW 10.22→10.21, 비즈한국 10.27→10.23, Stanford Daily 10.30→10.27, Bookseller 10.30→10.29). 건당 약 $3,000·최대 $150,000, 약 300명·Project Vellum 스캔, 46종·홍길동전·구운몽, Wolff·Chang-rae Lee의 Cruz v. Anthropic, 네 단체 확인. 사진은 2개만(앤트로픽·저작권), 나머지는 stat·quote. 10-20 trend에 쓴 hankang 카드는 뺌.",
+    "sources": [
+      "Publishers Weekly — Hundreds Sue Meta for Copyright Infringement, Rejecting Class Action Payouts (2026.10.21)",
+      "비즈한국 — 앤트로픽 저작권 보상 목록에 ‘홍길동전’ ‘구운몽’, 북한 소설까지 포함 (2026.10.23)",
+      "The Stanford Daily — Anthropic illegally trained Claude with Stanford professors’ books (2026.10.27)",
+      "The Bookseller — Publishers urge US court to reject OpenAI’s fair use defence in copyright case (2026.10.29)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 10.21~10.29",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "Meta 제소",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.23",
+          "t": "보상 목록",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.27",
+          "t": "합의 거부",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.29",
+          "t": "공정이용",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "해적판 학습 배상, 건당 $3,000 합의에서 법정 싸움으로 옮겨 간다",
+      "eyebrow": "흐름 · 책",
+      "headline": "AI 학습 보상,\n합의 대신 법정",
+      "body": "한 건만 보면 소송 하나다. 이어 보면 건당 $3,000 합의를 두고 작가와 출판계가 차례로 법정을 고르고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.21",
+      "headline": "합의금 대신 배심원",
+      "body": "작가 약 300명이 집단소송에 끼지 않고 Meta를 각자 제소했다. 해적판에 더해 사서 스캔한 책 학습도 문제 삼았다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html",
+      "_id": "books-meta-suits",
+      "stat_top": "Anthropic 합의 건당 약 $3,000",
+      "stat_arrow": "Meta 개별 소송이 구하는 액수",
+      "stat_bottom": "건당 최대 $150,000",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "합의 목록엔\n한국 책 46종",
+      "body": "앤트로픽 합의 보상 목록에 홍길동전·구운몽 영역본까지 한국 관련 도서 46종이 올랐다. 1건당 약 $3,000이다.",
+      "foot": "2026.10.23",
+      "_src": "https://bizhankook.com/articles/anthropic-training-data-korean-literature.html",
+      "_id": "books-anthropic-korean-titles",
+      "media": "pipeline/media/books-anthropic-korean-titles.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.10.27",
+      "headline": "교수들, 합의를 거부하다",
+      "body": "Wolff와 Chang-rae Lee는 합의에서 빠져 따로 소송을 냈다. 배심원에게 건당 최대 $150,000를 구한다.",
+      "foot": "2026.10.27",
+      "_src": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "_id": "books-stanford-anthropic-optout",
+      "quote": "합의는 여전히 앤트로픽이\n우리 문학을 마음대로\n돌아다니게 둔다",
+      "quote_by": "Tobias Wolff · Stanford 영문과 명예교수"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.29",
+      "headline": "OpenAI 소송,\n공정이용부터 막는다",
+      "body": "출판·저작권 네 단체가 US 법원에 OpenAI 공정이용 항변 기각을 촉구했다. 학습이 라이선스 시장을 무너뜨린다는 것이다.",
+      "foot": "2026.10.29",
+      "_src": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
+      "_id": "books-openai-fairuse-amicus",
+      "media": "pipeline/media/books-openai-fairuse-amicus.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

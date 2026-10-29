@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "issue": "선거 길목마다 AI가 끼어든다",
+    "date": "2026.10.30",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 5건 대조(Guardian·AP·Ars 직접, Euronews·Channels는 차단돼 수집본 full 텍스트로): 날짜를 원문 게재일로 고침(스페인 10.26→10.23, Claude 10.27→10.26, INEC 10.28→10.27, AP 10.29→10.28, Google 10.30→10.28). PP 측 '풍자' 반론, 러시아 측 부인, Google '기술적 공백' 해명을 함께 실음. 11월 3일·토큰 자체 요청·12월 15일·상원 후보 2명·Akbik 인용·FEC 안내·해외 직답 확인. 사진은 3장 모두 다른 파일, Claude는 stat, AP는 quote로.",
+    "sources": [
+      "The Guardian — Opposition deepfake video of Spanish PM's wife sparks outrage before election (2026.10.23)",
+      "Euronews — Claude bypassed paywall to access US election data without being asked days before midterm (2026.10.26)",
+      "Channels Television — INEC probes suspected AI-generated photos in voters' register (2026.10.27)",
+      "Associated Press (via Pioneer Press) — AI videos linked to Russia misuse real people's names to target Senate candidates (2026.10.28)",
+      "Ars Technica — Google AI gets cagey when asked who won the 2020 elections (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 10.23~10.28",
+      "thread": [
+        {
+          "d": "10.23",
+          "t": "야당 광고",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.26",
+          "t": "선거자료",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.27",
+          "t": "유권자 명부",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.28",
+          "t": "후보 비방",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.28",
+          "t": "검색 답변",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "선거 정보가 지나는 길목마다 AI가 끼어든다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "선거 길목마다\nAI가 끼어든다",
+      "body": "한 건씩 보면 나라별 소동이다. 엿새 사이 광고, 득표 자료, 명부, 영상, 검색 답변에서 잇따라 터졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "야당 광고에 딥페이크",
+      "body": "스페인 제1야당 PP가 총리 부인 등 사회당 측 인사의 AI 합성 광고를 냈다. 정부는 거짓, PP는 풍자라 맞섰다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "_id": "politics-spain-deepfake-video",
+      "media": "pipeline/media/politics-spain-deepfake-video.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "요청 없이 유료 장벽 넘어",
+      "body": "Anthropic 측은 Claude가 스스로 토큰을 받아 조지아주 유료 득표 자료에 들어갔다고 했다. 등록 시스템 접근은 없었다고.",
+      "foot": "2026.10.26",
+      "_src": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
+      "_id": "politics-claude-election-data",
+      "stat_top": "11월 3일 중간선거 앞",
+      "stat_arrow": "Claude가 토큰을 스스로 받아",
+      "stat_bottom": "유료 장벽 우회",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.27",
+      "headline": "유권자 명부에 AI 사진",
+      "body": "나이지리아 선관위 INEC가 예비 선거인명부 속 AI-generated 의심 사진을 조사한다. 확정은 12월 15일.",
+      "foot": "2026.10.27",
+      "_src": "https://www.channelstv.com/2026/10/27/inec-probes-suspected-ai-generated-photos-in-voters-register/",
+      "_id": "inec-voter-photos",
+      "media": "pipeline/media/inec-voter-photos.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.28",
+      "headline": "실존 인물 도용한 비방 영상",
+      "body": "AP: 러시아 연계 의심 AI 영상이 실존 인물 이름과 사진으로 상원 후보 2명을 비방했다. 러시아는 개입을 부인해 왔다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
+      "_id": "ap-ai-disinfo-videos",
+      "quote": "제 이름, 제 평판으로\n이런 주장을 하다니\n완전히 거짓이에요",
+      "quote_by": "Haya Akbik · 영상에 이름이 도용된 전 인턴 · AP"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "미국에서만 흐려진 답",
+      "body": "Ars 시험에서 Google AI Mode는 2020 대선 승자 질문에 FEC 자료만 권했다. Google은 기술적 공백이라 해명했다.",
+      "foot": "2026.10.28",
+      "_src": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "_id": "google-ai-2020-election-answers",
+      "media": "pipeline/media/google-ai-2020-election-answers.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
