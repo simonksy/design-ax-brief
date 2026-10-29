@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "issue": "AI가 연구 아이디어를 낸다",
+    "date": "2026.10.29",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 5건 재대조(10.29): 날짜 10.21·10.22·10.23·10.27·10.28 원문 게재일 확인. 74/100편·2배 이상, 약 2,000 에이전트·32분·60건 중 45건, 17명, 판정 모델 6개·50%p 이상, 208명 확인. LitPivot 인용을 원문대로 '바꿀 수 있다'로 고침, 마지막 장은 숫자 없는 stat 대신 원문 인용 quote로 바꿈. 사진은 Paper2Agent 한 장.",
+    "sources": [
+      "Science News — AI 'virtual authors' could turn scientific papers into research assistants (2026.10.21)",
+      "GEN — PerturbAI and OpenAI Launch AI Reasoning Agents for Biomedical Discovery (2026.10.22)",
+      "Ai2 — LitPivot: Developing research ideas through dynamic contextualization within the literature landscape (2026.10.23)",
+      "Ai2 — Old Ideas, Novel Problems: how reliably LLMs evaluate research novelty (2026.10.27)",
+      "Tech Xplore — AI can quickly generate ideas, but people are more creative together (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학 · 10.21~10.28",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "가상 저자",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.22",
+          "t": "가설 에이전트",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.23",
+          "t": "문헌 비평",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.27",
+          "t": "참신성 판정",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.28",
+          "t": "창의성",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 연구 아이디어를 내는 데까지 왔지만, 새로운지 가리는 눈은 아직 사람 몫이다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "아이디어는 AI가,\n새로움은 아직 사람이",
+      "body": "한 건씩 보면 연구 도구 소식이다. 여드레 사이 AI는 가설과 비평까지 맡았지만, 참신함 판정은 흔들렸다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "논문이 직접 일하는 조수로",
+      "body": "Paper2Agent는 논문의 코드·데이터를 AI 도구로 묶는다. 100편 중 74편이 변환됐고 분석은 2배 넘게 빨랐다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
+      "_id": "science-virtual-author",
+      "media": "pipeline/media/science-virtual-author.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.22",
+      "headline": "에이전트 수천 개가 가설을",
+      "body": "PerturbAI·OpenAI는 약 2,000개 에이전트를 병렬로 돌려 뇌 아틀라스를 32분 만에 분석하고 가설을 냈다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
+      "_id": "science-perturbai-openai-reasoning-agents",
+      "stat_top": "단일 에이전트 대비",
+      "stat_arrow": "전문가 블라인드 비교에서 선호",
+      "stat_bottom": "60번 중 45번",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.10.23",
+      "headline": "문헌이 아이디어를 비평한다",
+      "body": "Ai2 LitPivot은 논문 발췌를 근거로 초안을 비평하고 수정안을 낸다. 17명 실험에서 전문가는 근거가 더 탄탄하다고 봤다.",
+      "foot": "2026.10.23",
+      "_src": "https://allenai.org/blog/litpivot",
+      "_id": "science-ai2-litpivot",
+      "quote": "새 논문 한 편이\n연구 아이디어의\n방향을 바꿀 수 있다",
+      "quote_by": "Ai2 · LitPivot 소개 글"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "새로운지 묻자 흔들렸다",
+      "body": "Ai2가 LLM 판정 모델 6개로 연구 아이디어의 참신성을 가리게 했다. 프롬프트 몇 단어에 판정이 크게 갈렸다.",
+      "foot": "2026.10.27",
+      "_src": "https://allenai.org/blog/novelty-bench",
+      "_id": "novelty-bench",
+      "stat_top": "프롬프트 몇 단어 바꾸니",
+      "stat_arrow": "더 참신한 쪽 고르는 정확도",
+      "stat_bottom": "50%p 넘게 출렁",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.10.28",
+      "headline": "양은 AI, 다양함은 사람",
+      "body": "208명 실험에서 ChatGPT와 짝이면 답은 길어졌다. 하지만 ChatGPT는 세션마다 같은 아이디어를 되풀이했다.",
+      "foot": "2026.10.28",
+      "_src": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
+      "_id": "ai-ideas-people",
+      "quote": "사람끼리 짝을 이룬 쪽이\n더 창의적인\n아이디어를 냈다",
+      "quote_by": "Clin Lai·Roger Beaty · Computers in Human Behavior"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
