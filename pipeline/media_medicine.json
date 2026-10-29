@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-29",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "medicine-zocdoc-agents",
-      "type": "image",
-      "src": "pipeline/media/medicine-zocdoc-agents.jpg"
-    },
-    {
-      "id": "medicine-ed-fracture-ai",
-      "type": "image",
-      "src": "pipeline/media/medicine-ed-fracture-ai.png"
-    },
-    {
-      "id": "medicine-stanford-critical-results",
-      "type": "image",
-      "src": "pipeline/media/medicine-stanford-critical-results.jpg"
-    },
-    {
-      "id": "medicine-ajou-thync",
-      "type": "image",
-      "src": "pipeline/media/medicine-ajou-thync.jpg"
-    },
-    {
-      "id": "medicine-ut-dell-ai",
-      "type": "image",
-      "src": "pipeline/media/medicine-ut-dell-ai.jpg"
-    }
-  ]
-}
+{"date":"2026-10-30","section":"medicine","media":[
+{"id":"jama-wiser-prior-auth","type":"image","src":"pipeline/media/jama-wiser-prior-auth.jpg"},
+{"id":"nature-cancer-irae-agent","type":"image","src":"pipeline/media/nature-cancer-irae-agent.png"},
+{"id":"nyu-langone-openevidence-ehr","type":"image","src":"pipeline/media/nyu-langone-openevidence-ehr.jpg"},
+{"id":"doximity-dosing-error-test","type":"image","src":"pipeline/media/doximity-dosing-error-test.jpg"},
+{"id":"hoppr-msk-xray-drafting","type":"svg"}
+]}

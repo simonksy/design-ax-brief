@@ -8926,6 +8926,132 @@
           "x": "タイムライン編集も改善され、ResolveはLinuxのグラフィックス対応を広げ、写真や編集作業を自動化するスクリプトAPIsを拡充した。主な内容は、投げ縄で選んだ編集点が自動でダイナミックトリムに入る機能、編集ミキサーにラウドネスメーターを表示するオプション、タイムラインのアスペクト比に合わせて変わるOGrafレスポンシブテンプレート、LinuxでのOGrafとLottieグラフィックスへの対応、そして全般的なパフォーマンスと安定性の向上である。"
         }
       ]
+    },
+    "movies/apple-creator-studio-motionvfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple Creator StudioのNovemberアップデートは既存の購読者に無料で提供され、Final Cut Pro内にMotionVFXを組み込む。Logic Pro、Keynote、Pages、Numbersにはベータ版のAIアシスタントが加わる。"
+        },
+        {
+          "t": "p",
+          "x": "Mac版Final Cut Proには、AppleがMarchに同社を買収したのを受けてMotionVFXが標準搭載され、数千種類のエフェクト、プラグイン(plug-ins)、トランジション、テンプレート、タイトル、グラフィックに加え、ロトスコープ、トラッキング、カラーグレーディング用のツールが追加される。Final Cut Proはテキストの説明からのAI画像生成にも対応し、タイムライン上のどの画像もPixelmator Proで開いて自動で保存し戻せる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pixelmator ProにはGenerate Fillが加わる。ユーザーが選んだ範囲をテキストの説明に沿って編集し、照明、遠近、質感も合わせる機能だ。Mac版Logic Proには、Apple-builtのモデルとOpenAIを用いたベータ版アシスタントが加わり、制作ワークフローの操作を助ける。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Keynote、Pages、NumbersにはAppleのモデルとOpenAIを基盤とするベータ版アシスタントが入り、外部のAIエージェントがコンテンツの読み取り、編集、自動化された操作の実行を行えるModel Context Protocol(MCP)にも対応する。アップデートはNovemberにApp Storeで配信され、新規のUS購読者は月額$12.99または年額$129を支払う。"
+        }
+      ]
+    },
+    "movies/agbo-tiffcom-shakespeare": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "AGBOの経営トップChris BreartonとDominic Hughesは、東京国際映画祭(Tokyo International Film Festival)のコンテンツマーケットTIFFCOMで基調講演を行い、AIを人間のクリエイターの代わりではなく支援に使う方法について語った。「人間は物語を語るうえで特別な立場にある」とBreartonは述べた。「私たちのテクノロジーの取り入れ方は、すべてアーティストのため、アーティストを第一に考えることにある」"
+        },
+        {
+          "t": "p",
+          "x": "Breartonによれば、好きな演技を特別なものにするのは、AIには及ばない「人間的な要素」だという。「AIが本当に大きな影響を与えるのは、特に中期的には、工程の効率化の面だろう」"
+        },
+        {
+          "t": "p",
+          "x": "Hughesは、AIは「過去に行われてきたことを焼き直す」のは得意だが、何もないところから何かを生み出すのは得意ではないと指摘した。AIは「批評が得意」で、屋根裏で見つかった戯曲がShakespeareの作である可能性を判断することはできるが、自分で書かせると「12歳(12-year-old)が書いたような印象を受けるだろう」という。"
+        },
+        {
+          "t": "p",
+          "x": "著作権について、Breartonは「私たちはあらゆるツール、そしてあらゆるツールのあらゆる使用を漏れなく追跡している」と語った。基調講演の司会はVarietyのAsia EditorであるNaman Ramachandranが務めた。"
+        }
+      ]
+    },
+    "movies/curious-refuge-horror-2026": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Q6xJOpTylco"
+        },
+        {
+          "t": "p",
+          "x": "第4回AI Horror Film competitionを終えたばかりだが、私たちはまさにSHOOKだ。"
+        },
+        {
+          "t": "p",
+          "x": "物語の怖さに震え上がっただけでなく(審査員は全員、今や明かりをつけたまま眠っている)、作品の質も驚くほど高い。"
+        },
+        {
+          "t": "p",
+          "x": "プレミア上映が終わったら、受賞作をここで確認してほしい: https://curiousrefuge.com/2026-ai-horror-film-competition"
+        }
+      ]
+    },
+    "movies/karts-neverland-ai-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
+          "cap": "韓国芸術総合学校ATラボ制作のアニメ『チケット・トゥ・ネバーランド』の場面(韓国芸術総合学校提供)"
+        },
+        {
+          "t": "p",
+          "x": "韓国芸術総合学校融合芸術センターのアート&テクノロジーラボ(ATラボ)が制作した3Dアニメーション『チケット・トゥ・ネバーランド』が、日本の国際AI映画祭のコンペティション部門で最終候補に選ばれた。生成人工知能(AI)を創作ツールとして活用した作品だ。"
+        },
+        {
+          "t": "p",
+          "x": "第2回「AIフィルムフェスティバル・ジャパン2026」は10月31日から11月2日まで日本・東京で開かれる。世界60余りの国から730本余りが出品され、公式選出作68本、コンペティションのファイナリスト21本が選ばれた。『チケット・トゥ・ネバーランド』はAIアニメーション部門のファイナリストに選出された。最終受賞作は11月1日の授賞式で発表される。"
+        },
+        {
+          "t": "p",
+          "x": "作品は、最も悲惨な身の上話を語った者に永遠の安息の地「ネバーランド」行きの切符を与えるリアリティーショーを描いたブラックコメディーだ。童話の登場人物たちがそれぞれ自らの悲劇を語りながら競い合う。"
+        },
+        {
+          "t": "p",
+          "x": "韓国芸術総合学校映像院映画科の学生ホ・ミン、ソン・ミンホと、演劇院劇作科の学生キム・ハンインが共同制作した。三人は産学協力プロジェクトの授業「AIフィルム/アニメーションメイキング」で作品を完成させた。この作品は3月に「WAIFF ソウル 2026」でAI脚本賞を受賞し、7月には第30回富川国際ファンタスティック映画祭に公式招待された。"
+        },
+        {
+          "t": "p",
+          "x": "イ・スンムATラボ所長は、企画段階から生成AIを活用した「100% AIネイティブ作品」だと説明した。AI映画専門の国際舞台で作品を披露することに意義があるとした。"
+        },
+        {
+          "t": "p",
+          "x": "ATラボは仮想現実やバーチャルプロダクションなどの技術を組み合わせた融合芸術の創作を研究している。文化体育観光部と韓国コンテンツ振興院が支援するグローバル文化技術専門人材育成事業にも参加している。"
+        }
+      ]
+    },
+    "movies/seedance25-4k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+          "cap": "ByteDance、映画制作向け動画モデル Seedance 2.5 4K を発表"
+        },
+        {
+          "t": "p",
+          "x": "ByteDance のクラウドプラットフォーム Volcano Engine は10月23日、映画・テレビ制作向けに高解像度の動画生成を可能にする Seedance 2.5 4K を公開した。同社によると、追加学習により表情や細かな動き、視覚的なディテールの描写が向上したという。現在は選ばれた一部の企業顧客が試用できる。"
+        },
+        {
+          "t": "p",
+          "x": "Draft モードでは、最終的な4K 版を生成する前に、低コストの480p プレビューでショットを試し、絵コンテを練ることができる。10-bit カラーにも対応し、参照素材を使う場合や既存映像を編集する場合でも画質や色、細部を保つよう設計されている。中国内外の映画制作会社やポストプロダクション会社の一部がすでにテストを始めている。[IT Home, in Chinese]"
+        }
+      ]
     }
   }
 }

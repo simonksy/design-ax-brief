@@ -8890,6 +8890,128 @@
           "x": "Exponential Time Hypothesis：OpenAI的证明给出了一个仅比指数时间略快一点的3-SAT算法，从而推翻ETH。Russell Impagliazzo、Ramamohan Paturi和Ryan Williams正与OpenAI合作开展独立调查。OpenAI宣布后仅数小时，Anthropic便基于其内部Anthropic模型的工作，发布了自己独立证否ETH的结果。"
         }
       ]
+    },
+    "science/nyu-wildfire-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+          "cap": "NYU的Digital Fire Twin原型预测图，生成于Oregon的Grasshopper Fire观测火线出现前约三小时：蓝色为预测火线，红色为实际火线。Credit: NYU Tandon School of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "NYU Tandon研究人员Prabodh Panindre、Anandu Nair和Sunil Kumar打造了一个活跃山火的数字孪生原型，会随着来自卫星、气象数据、地形与燃料地图、无人机、传感器和现场人员的新数据不断更新蔓延预测。用户可选择火点位置、预测区域以及最长12小时的预测时段，一个使用通俗语言的AI界面可回答有关疏散、防火隔离带和风向变化的问题。"
+        },
+        {
+          "t": "p",
+          "x": "该系统并不主要依赖历史数据，而是将基于物理的火势蔓延模型与AI层相结合。Kumar说：“我们的系统不是靠训练数据构建的，而是以物理为基础。”"
+        },
+        {
+          "t": "p",
+          "x": "在对三场活跃山火——Oregon的Grasshopper Fire、Utah的Widemouth 2 Fire和New Mexico的Sacaton Fire——的测试中，与观测火线的空间重合度在一次Grasshopper Fire测试中达到94.6%，在另一次卫星观测间隔较长的测试中降至72.4%。模型还重现了真实火线的不规则边缘。"
+        },
+        {
+          "t": "p",
+          "x": "该系统仍是研究原型，尚未用于实际山火；团队希望与消防部门和联邦机构开展更多测试，并已申请U.S.临时专利。"
+        }
+      ]
+    },
+    "science/radboud-fluent-hallucination": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Radboud University研究人员Marianna de Sá Siqueira、Barbara Müller和Tibor Bosse向参与者展示了关于The Lord of the Rings的聊天机器人对话。给出错误答案但表达流畅的聊天机器人，被评为与回答准确但言简意赅的聊天机器人同样聪明、讨人喜欢。"
+        },
+        {
+          "t": "p",
+          "x": "尽管参与者是按对该书具备基础知识的标准挑选的，约80%的人仍未察觉错误。Müller表示：“如果一段文字听起来优雅自然，人们会自动认为它具有智能。”"
+        },
+        {
+          "t": "p",
+          "x": "作者认为，流畅的语言让人们过于轻易地信任AI输出，而在对话开头加一条免责声明并不足够。他们建议由聊天机器人自行表达不确定性，或要求企业将不确定性显示出来。该研究发表于Computers in Human Behavior: Artificial Humans (2026)。"
+        }
+      ]
+    },
+    "science/google-sleep-continual-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+          "cap": "一股闪着蓝光的几何形状流汇聚成一个明亮、相互连接的神经网络球体。"
+        },
+        {
+          "t": "p",
+          "x": "Google Research的Ali Behrouz和Vahab Mirrokni在持续学习中引入睡眠阶段，使大语言模型能够在减轻灾难性遗忘或静态知识截止问题的同时，持续整合新事实并增强推理能力。通过在主动交互与离线记忆巩固之间交替，LLMs能够获取新事实、保留最多10M token的长上下文知识，并提升复杂推理能力。"
+        },
+        {
+          "t": "p",
+          "x": "在活跃（清醒）阶段，模型把临时信息存入快速的短期记忆。在睡眠阶段，模型暂停接收新输入：记忆巩固会解锁预先分配的Mixture-of-Experts记忆块，把短期记忆蒸馏进去，然后重置临时参数；做梦则生成合成练习样本，加以筛选，并用最佳样本微调模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+          "cap": "睡眠框架概览：Consolidation（巩固）与Dreaming（做梦）。"
+        },
+        {
+          "t": "p",
+          "x": "在Manchu、Kalamang等未见过语言的持续翻译中，该框架的性能几乎零下降。在SQuAD和持续预训练上分别达到48.9%和46.2%；在AIME 24/25和HMMT 25上，经睡眠增强的基础模型得分为79.2%、69.0%和46.1%，优于SFT、GRPO和OPSD。"
+        }
+      ]
+    },
+    "science/yonsei-mamba-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+        },
+        {
+          "t": "p",
+          "x": "Yonsei University的研究人员开发了一种基于Mamba结构化状态空间架构的神经量子纠错（QEC）解码器，将深度学习解码的计算复杂度从码距d的O(d4)降至O(d2)。在发表于npj Quantum Information的研究中，该模型在实验性存储器基准测试上达到了AlphaQubit等基于Transformer模型的精度。"
+        },
+        {
+          "t": "p",
+          "x": "Transformer解码器要对所有稳定子token进行两两比较，导致O(d4)的扩展规模以及超出超导相干极限的延迟积压；Mamba则用选择性状态空间层取代注意力机制。在Google Quantum AI的Sycamore数据集上，它达到了与Transformer相当的精度，并在计入解码器引发的延迟噪声时保持了错误抑制优势，且差距从d = 3到d = 9逐步扩大。"
+        },
+        {
+          "t": "p",
+          "x": "要投入实际应用，仍需把解码器移植到低延迟FPGAs或定制ASICs上，以便在亚微秒级的周期预算内完成推理。"
+        }
+      ]
+    },
+    "science/nmr-spectrometer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+          "cap": "Niels Chr. Nielsen（左）、Filip V. Jensen和Anders Bodholt Nielsen（右）正在准备用于NMR波谱仪分析的样品。Credit: Peter F. Gammelby, Aarhus University"
+        },
+        {
+          "t": "p",
+          "x": "NMR波谱仪能把分子结构解析到原子层面，但微弱的信号限制了它能检测的范围。Aarhus University的研究人员借助AI，让波谱仪直接从样品中学习最佳脉冲序列。"
+        },
+        {
+          "t": "p",
+          "x": "朝一个方向排列的核自旋只比反方向的多出极少一点，因此信号很弱。Niels Chr. Nielsen教授说：“NMR和MRI扫描仪有同样的缺点：灵敏度相对较低。”电子的磁矩约为质子的660倍，在动态核极化（DNP）中，微波脉冲会把电子的部分有序性转移给原子核。但当数百乃至数千个自旋相互作用时，理想的脉冲序列很难预先计算，模型也可能忽略仪器的真实缺陷。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+          "cap": "波谱仪从样品中学习：测得的信号被反馈给贝叶斯优化（Bayesian optimization）算法。Credit: Filip V. Jensen, Aarhus University / Science Advances"
+        },
+        {
+          "t": "p",
+          "x": "团队把自制的DNP波谱仪连接到基于贝叶斯优化（Bayesian optimization）的机器学习算法上。算法在样品上测试脉冲序列、测量结果、从中学习，再提出下一次实验。论文第一作者Filip V. Jensen说：“新颖之处在于，我们让波谱仪自己学会如何开展最佳实验。”"
+        },
+        {
+          "t": "p",
+          "x": "在较简单的自旋体系中，该算法与部分现有最佳方法持平；在更复杂的体系中，它的信号增强比参考方法高出约70%。每次优化耗时从不到两天到将近五天不等，但有效的序列可以重复使用。这项发表于Science Advances的概念验证研究，或有助于基于磁共振的量子传感器。"
+        }
+      ]
     }
   }
 }

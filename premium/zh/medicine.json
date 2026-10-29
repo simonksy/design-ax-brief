@@ -2663,6 +2663,130 @@
           "x": "借助STAR识别的精子已促成至少三例活产，回收的精子被用于ICSI或冷冻保存。一大局限在于易用性：STAR需要训练有素的技术人员操作。"
         }
       ]
+    },
+    "medicine/nature-cancer-irae-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "免疫相关不良事件（irAEs）影响多达40%接受免疫检查点抑制剂治疗的患者，但识别这些事件需要费时费力且标准不一的人工病历审查。作者开发并评估了一套智能体式大语言模型系统，用于从临床记录中提取六类irAE的存在与否、时间关系、严重程度分级、归因和确定性。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+          "cap": "Fig. 1: LLM-based智能体式irAE检测系统的多维验证框架。"
+        },
+        {
+          "t": "p",
+          "x": "在回顾性评估中，该系统在当前事件检测上的宏平均F1为0.92，在多类别严重程度分级上为0.66；自洽性使F1提高0.14。表现最佳的配置每份记录成本约US$0.02。在为期3个月的前瞻性静默部署中，二分类F1为0.72–0.79。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+          "cap": "Fig. 2: 用于irAE检测、分级、归因和确定性评估的多阶段智能体架构。"
+        },
+        {
+          "t": "p",
+          "x": "在一项针对临床试验人员的随机交叉研究中，智能体辅助使标注时间缩短2.71分钟（P < 0.001），提高了完全匹配准确率（比值比1.45；95%置信区间1.01–2.08；P = 0.045），并改善了标注者间一致性（Krippendorff's α从0.22–0.51升至0.82–0.85）。"
+        }
+      ]
+    },
+    "medicine/nyu-langone-openevidence-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenEvidence通过与NYU Langone Health合作，扩大其在New York City的布局。其AI驱动（AI-powered）的临床证据平台直接嵌入NYU Langone的Epic EHR工作流程，覆盖旗下医院、门诊网络和Family Health Centers，并惠及在NYU Grossman School of Medicine和NYU Grossman Long Island School of Medicine接受培训的医生。NYU Langone每年门诊量超过1200万人次，医生和教职人员超过6,000名。"
+        },
+        {
+          "t": "p",
+          "x": "临床医生无需离开Epic工作流程，即可用自然语言提出复杂的临床问题，获得以同行评审医学文献为依据、并结合患者本人临床记录解读的答案。创始人兼CEO Daniel Nadler表示：“把OpenEvidence放进NYU Langone的病历，意味着这个系统每年支持的一千二百万次就诊中，每一次都有全世界的医学文献在场。”"
+        },
+        {
+          "t": "p",
+          "x": "该公司称，约三分之二的U.S.医生使用其平台；10月，120万名经过认证的U.S.临床医生使用了4500万次。它已在NewYork-Presbyterian和Mount Sinai部署，并与Memorial Sloan Kettering开展肿瘤学合作。一项JAMA研究发现，2024年1月至2026年6月，近100万名U.S.临床医生提交了2.71亿次查询，其中51.9%与临床决策相关。"
+        }
+      ]
+    },
+    "medicine/doximity-dosing-error-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Doximity发布的研究显示，其剂量核验工具的表现优于通用AI模型，该公司称后者错误频出。Doximity表示，它用8,500多道临床剂量问题测试了2026年发布的几款大语言模型，这些问题涵盖2,200多种FDA-approved（FDA批准）药物。"
+        },
+        {
+          "t": "p",
+          "x": "新近获批药物出错的几率是五倍。在检出的错误中，13.2%属轻微，43%属严重，3.4%可能致命。最常见的错误是即便问题中已给出相关信息，仍未根据年龄、肾功能或药物相互作用调整剂量。"
+        },
+        {
+          "t": "p",
+          "x": "Doximity称其新核验工具DoseCheck的正确率为99.9%，并将其定位为Doximity Ask中的安全网。Doximity首席AI研究员Dr. Louis-Antoine Mullie表示：“我们看到的失败模式并非剂量问题所独有。”"
+        },
+        {
+          "t": "p",
+          "x": "这项研究发布之际，Anthropic和OpenAI正进军医疗领域。现有研究结论不一：Stanford和Harvard的研究人员发现临床专用工具优于通用模型，而今年夏天另一支团队得出了相反结论。"
+        }
+      ]
+    },
+    "medicine/hoppr-msk-xray-drafting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+          "cap": "人体膝关节正位X-ray影像，可见股骨、胫骨、腓骨和髌骨"
+        },
+        {
+          "t": "p",
+          "x": "HOPPR推出其FS MSK Whole-Body Narrative Model测试版。这是一款视觉语言基础模型，可利用每项检查最多三个视图，为肌肉骨骼（MSK）X光片生成所见草稿文本。"
+        },
+        {
+          "t": "p",
+          "x": "据该厂商介绍，模型基于约674,000例门诊MSK检查训练，涵盖脊柱、胸廓与胸壁、上肢以及骨盆与下肢。它侧重描述异常而非正常解剖结构。HOPPR表示，已针对26类MSK所见对模型进行评估，包括骨折、退行性关节和脊柱改变、对线以及内植物。"
+        },
+        {
+          "t": "p",
+          "x": "该公司表示，该模型被设计为面向开发放射学报告和工作流程应用的开发者的软件组件，HOPPR的Forward Deployed Services团队将根据各机构的数据和工作流程进行定制和集成。该公司称，该模型未获U.S. Food and Drug Administration（FDA）批准，不用于诊断。"
+        }
+      ]
+    },
+    "medicine/medicine-zocdoc-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在线预约公司Zocdoc现已允许AI代理代表患者搜索医疗服务提供者并预约就诊。"
+        },
+        {
+          "t": "p",
+          "x": "该公司周三表示，代理须在Zocdoc注册以获得访问权限，并在其在线平台上预约或取消预约前获得患者同意。Google Gemini、Amazon Health AI以及基于短信和电话的AI代理Instinct已经接入，其他代理无论有无人工协助均可申请访问。"
+        },
+        {
+          "t": "p",
+          "x": "“我想说，像我们这样欢迎代理，有点逆向而行，”Zocdoc创始人兼CEO Dr. Oliver Kharraz表示。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+          "cap": "Zocdoc称，自七月以来其平台上的AI代理流量增长了近30倍，如今公司正直接向它们开放预约平台。"
+        },
+        {
+          "t": "p",
+          "x": "获批的代理可接入Zocdoc的AI后端，筛查其医疗服务提供者名录、查看临床医生的空闲时间、核实保险并预约就诊，在做出任何最终决定前都会先与患者确认。"
+        },
+        {
+          "t": "p",
+          "x": "作为交换，Zocdoc要求代理获得患者同意，并保护患者和医疗服务提供者的数据；代理不得利用这些数据训练自身，也不得转售或重新发布。Zocdoc未具体说明将如何确保代理遵守这一约定。"
+        },
+        {
+          "t": "p",
+          "x": "“我们的使命是赋权于患者。如果他们想把预约交给AI代理，我们就应当为他们提供所希望的无摩擦就医渠道，”Kharraz说。"
+        }
+      ]
     }
   }
 }

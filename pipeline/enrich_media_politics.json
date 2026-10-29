@@ -1,27 +1,26 @@
 {
-  "hochul-chatbots": {
-    "lead_image": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-    "video": "https://www.youtube.com/watch?v=3Kza_uwnviw",
-    "yt": "3Kza_uwnviw",
-    "note": "governor.ny.gov returns 403 to curl for page and image (WAF); YouTube maxresdefault thumb 1280x720 reachable: https://i.ytimg.com/vi/3Kza_uwnviw/maxresdefault.jpg; yt-dlp hit bot-check"
-  },
-  "italy-ai-decree": {
-    "lead_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg",
+  "dod-unbiased-ai-procurement": {
+    "lead_image": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg",
     "video": "",
     "yt": ""
   },
-  "pakistan-ecp-ai": {
-    "lead_image": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+  "wired-accenture-agent-pentagon": {
+    "lead_image": "https://media.wired.com/photos/6ae113e3b0a8ac98a8d177dc/191:100/w_1280,c_limit/102726-department-of-defense-ai-agent.jpg",
     "video": "",
     "yt": ""
   },
-  "ap-ai-disinfo-videos": {
-    "lead_image": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+  "austria-un-ai-centre-vienna": {
+    "lead_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
     "video": "",
     "yt": ""
   },
-  "malaysia-ai-chips": {
-    "lead_image": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+  "canada-security-strategy-frontier-ai": {
+    "lead_image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+    "video": "",
+    "yt": ""
+  },
+  "google-ai-2020-election-answers": {
+    "lead_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
     "video": "",
     "yt": ""
   }

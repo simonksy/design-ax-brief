@@ -1,101 +1,106 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "movies",
   "items": [
     {
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "ByteDance launches Seedance 2.5 4K video model for film production",
-      "headline": "ByteDance launches Seedance 2.5 4K video model for film production",
-      "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
-      "source": "TechNode",
-      "published_iso": "2026-10-23T13:51:44+00:00",
-      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
-      "excerpt": "Volcano Engine's Seedance 2.5 4K targets film and TV production with 10-bit color, better facial expressions and fine detail, and a 480p Draft mode for testing shots and storyboards before final 4K renders. It is in trials with selected enterprise customers.",
-      "rationale": "Concrete new model release aimed at film/TV finishing (4K, 10-bit, cheap 480p draft pass) that changes previz-to-final workflows; no prior Seedance 2.5 4K card."
+      "title": "Mayur More & Ashlesha Thakur To Lead AI Hybrid Movie 'Beta Builder'",
+      "headline": "Mayur More & Ashlesha Thakur To Lead AI Hybrid Movie 'Beta Builder'",
+      "url": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-10-29T09:43:08+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
+      "excerpt": "Abundantia Entertainment's AI unit AiOn and video-tech firm InVideo are making 'Beta Builder', a hybrid feature that pairs live actors with AI-generated production.",
+      "rationale": "Concrete new production: a cast, greenlit hybrid feature pairing live actors with AI-generated production (AiOn + InVideo)."
     },
     {
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "ByteDance launches AI studio for short-drama production",
-      "headline": "ByteDance launches AI studio for short-drama production",
-      "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
-      "source": "TechNode",
-      "published_iso": "2026-10-27T05:51:08+00:00",
-      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
-      "excerpt": "ByteDance's Jimeng AI launched a short-drama studio that puts script development, character and scene creation, storyboarding, video production and post into one workflow, using its in-house DreamScript, Anycook and DreamShot models.",
-      "rationale": "New end-to-end production product (script to post) for the microdrama format the section has tracked as a trend; a product launch, distinct from the 10-21 microdrama market report."
+      "title": "Apple Creator Studio update: MotionVFX and AI",
+      "headline": "Apple Creator Studio update: MotionVFX and AI",
+      "url": "https://www.redsharknews.com/apple-creator-studio-motionvfx-final-cut-pro-update",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-10-27T15:45:41+00:00",
+      "og_image": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg",
+      "excerpt": "Apple Creator Studio's free November update builds MotionVFX into Final Cut Pro and adds AI assistants across its creative apps.",
+      "rationale": "Most actionable item in the pool: a free tool update that puts MotionVFX and AI assistants straight into editors' Final Cut Pro workflow."
     },
     {
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Oscars Will 'Always' Reward Human Excellence in AI Era, Academy Chiefs Say",
-      "headline": "Oscars Will 'Always' Reward Human Excellence in AI Era, Academy Chiefs Say",
-      "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/",
+      "title": "AI Can Critique Shakespeare but Can't Write It, Russo Brothers' AGBO Execs Tell Tokyo Market",
+      "headline": "AI Can Critique Shakespeare but Can't Write It, Russo Brothers' AGBO Execs Tell Tokyo Market",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-critique-shakespeare-cant-write-russo-brothers-agbo-tokyo-1236933960/",
       "source": "Variety",
-      "published_iso": "2026-10-28T03:48:43+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Academy president Lynette Howell Taylor tells Variety in Tokyo that the Oscars will keep honoring human-driven work as AI spreads through filmmaking, while leadership leaves the door open to tweaking international feature rules.",
-      "rationale": "Academy leadership's on-record stance on AI and awards eligibility is a signal every filmmaker using AI tools needs; fresh (10-28) and not covered before."
+      "category": "movies",
+      "published_iso": "2026-10-29T08:25:52+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=563&crop=1",
+      "excerpt": "At a TIFFCOM keynote, AGBO's technology heads argued AI should support artists and can't match the human element of storytelling.",
+      "rationale": "Major-studio tech leads (AGBO) setting out where AI fits in their pipeline at TIFFCOM; new event, not covered before."
     },
     {
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "Rintaro On Anime's Aversion To Risk: 'There Will Be No Future'",
-      "headline": "Rintaro On Anime's Aversion To Risk: 'There Will Be No Future'",
-      "url": "https://www.cartoonbrew.com/interviews/rintaro-interview-busan-metropolis-galaxy-express-268512.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-10-28T18:21:01+00:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
-      "excerpt": "At Busan, the 'Galaxy Express 999' and 'Metropolis' director ties anime's remake culture to generative AI, arguing AI 'recommends the mean or the average' and pushes toward remaking past works instead of creating something new.",
-      "rationale": "A legendary anime director's specific critique linking generative AI to remake culture; animation voice and outlet diversity, distinct from earlier Busan AI cards."
+      "title": "2026 AI Horror Film Competition Winners!",
+      "headline": "2026 AI Horror Film Competition Winners!",
+      "url": "https://www.youtube.com/watch?v=Q6xJOpTylco",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-10-29T12:00:11-07:00",
+      "og_image": "https://i.ytimg.com/vi/Q6xJOpTylco/maxresdefault.jpg",
+      "excerpt": "Curious Refuge wraps its 4th annual AI Horror Film Competition, announcing the winning AI-made horror films.",
+      "rationale": "Whitelisted channel; the winning AI-made shorts show where AI filmmaking craft stands right now."
     },
     {
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
-      "headline": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
-      "url": "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/",
-      "source": "Variety",
-      "published_iso": "2026-10-16T08:36:57+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
-      "excerpt": "ATF adds 'The AI Era | Entertainment Reimagined' strand and zone on AI in content creation, IP rights and regulation, plus the final round of AI Hackathon 2026 with a live creative contest and screenings.",
-      "rationale": "New program announcement from a different market (Singapore ATF) than the Busan ACFM story it loosely resembles; gives the section a market/events slot."
+      "title": "한예종 AI 애니 '티켓 투 네버랜드'…일본 영화제 최종 경쟁 진출",
+      "headline": "한예종 AI 애니 '티켓 투 네버랜드'…일본 영화제 최종 경쟁 진출",
+      "url": "https://www.news1.kr/life-culture/general-cultural/6335398",
+      "source": "뉴스1",
+      "category": "movies",
+      "published_iso": "2026-10-29T06:29:01+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
+      "excerpt": "한국예술종합학교 AT랩이 제작한 3D AI 애니메이션 '티켓 투 네버랜드'가 60여개국 730여편이 출품된 일본 국제 AI 영화제 경쟁 부문 파이널리스트 21편에 올랐다.",
+      "rationale": "Korean angle: a K-Arts 3D AI animation made the final 21 of 730+ entries at an international AI film festival."
     }
   ],
   "dedup": {
     "checks": {
-      "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/": {
+      "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/": {
+        "verdict": "follow-up",
+        "nearest": "https://deadline.com/2026/10/abundantia-entertainment-ai-creative-arm-studio-1237147643/",
+        "new_action": "New project announcement: AiOn (with InVideo) greenlights and casts the AI-hybrid feature 'Beta Builder' (10-08 story covered only AiOn's spin-out as a standalone studio)."
+      },
+      "https://www.redsharknews.com/apple-creator-studio-motionvfx-final-cut-pro-update": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=U4231qULtm8",
+        "nearest": "https://www.redsharknews.com/eddie-ai-update-plan-first-resolve-studio-panel",
         "new_action": ""
       },
-      "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/": {
+      "https://variety.com/2026/film/markets-festivals/ai-critique-shakespeare-cant-write-russo-brothers-agbo-tokyo-1236933960/": {
         "verdict": "new",
-        "nearest": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+        "nearest": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/",
         "new_action": ""
       },
-      "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/": {
+      "https://www.youtube.com/watch?v=Q6xJOpTylco": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
         "new_action": ""
       },
-      "https://www.cartoonbrew.com/interviews/rintaro-interview-busan-metropolis-galaxy-express-268512.html": {
+      "https://www.news1.kr/life-culture/general-cultural/6335398": {
         "verdict": "new",
-        "nearest": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
-        "new_action": ""
-      },
-      "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/": {
-        "verdict": "new",
-        "nearest": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+        "nearest": "https://www.maxmovie.com/news/articleView.html?idxno=502436",
         "new_action": ""
       }
     },
-    "note": "Dropped: Genie 4 (The Verge) - DeepMind Genie 4 already ran in games 10-28 (cross-section). Apple Creator Studio/MotionVFX (RedShark) - same Apple Creator Studio update ran in music 10-28. CorridorKey 2.0 launch (Corridor Crew) - same launch published in movies 10-17 ('CorridorKey 2.0 just works...'). Iron Goddess mystery model (Theoretically Media) - likely the same unclaimed 'secret video model' published 10-23 (qlSI_ZbRdEc); not a new release. Kling 4 vs Seedance 2.5 (AI Video School) - comparison on the Kling 4 launch already published 9-29, no new release, and overlaps the Seedance pick. Shirjara (Variety) - AI only as a film theme. Hollywood Animation Directors at View (Cartoon Brew) - AI incidental to the panel and adjacent to the published 10-16 View roundtable. Singapore ATF kept: different market/event from the Busan ACFM history_match. Cross-section exact-grep of published_urls.json was not possible with available tools (file too large for Read, no Grep); orchestrator should exact-grep the 5 picked URLs plus 'Seedance 2.5 4K', 'Jimeng', 'Rintaro', 'Academy'/'Howell Taylor', 'Asia TV Forum' before roll."
+    "note": "Dropped as duplicates: Korea Times 'Steelay' review (Steelay's release was already published 2026-09-30 via news.jkn.co.kr; a review of it is commentary, not a new event); TechNode 'ByteDance Is Rewiring Its AI Video Bet' (same 10-27 ByteDance consolidation story as the 2026-10-29 card 'ByteDance launches AI studio for short-drama production'); Screen Daily AGBO TIFFCOM piece (same keynote as the Variety pick; Variety kept); Cartoon Brew View Conference AI-pitch column (commentary on View 2026, which already ran 10-14, 10-16 and 10-21). Not picked on merit or diversity: Variety Shaun the Sheep interview (commentary, second Variety card), Kling AI 4.0 / Fotor Agent (TechNode, 10-16/10-22, older; the Kling story is analysis), Google Genie 4 (a world model; more likely to belong to games/gadgets, so a cross-section clash risk), K-EnterTech Hub Lipie, Idris Elba Akuna programme, HKU report (weak). Cross-section check: published_urls.json is too large to scan in full with Read-only tools (only the books block was checked); none of the five pick URLs appear in it or in the movies history_digest. The orchestrator should exact-grep the five URLs and the names 'Beta Builder', 'Apple Creator Studio', 'AGBO', 'Curious Refuge' and '티켓 투 네버랜드' across all sections before roll."
   }
 }

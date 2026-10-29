@@ -2663,6 +2663,130 @@
           "x": "Sperm identified with STAR has led to at least three live births in which the recovered sperm were used for ICSI or cryopreservation. A major limitation is user-friendliness: STAR requires a highly-trained technician to run it."
         }
       ]
+    },
+    "medicine/nature-cancer-irae-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Immune-related adverse events (irAEs) affect up to 40% of patients receiving immune checkpoint inhibitors, yet identification requires laborious, inconsistent manual chart review. The authors developed and evaluated an agentic large language model system to extract the presence, temporality, severity grade, attribution and certainty of six irAE types from clinical notes."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+          "cap": "Fig. 1: Multi-dimensional validation framework for an agentic LLM-based irAE detection system."
+        },
+        {
+          "t": "p",
+          "x": "Retrospectively, the system achieved a macro-averaged F1 of 0.92 for current-event detection and 0.66 for multi-class severity grading; self-consistency improved F1 by 0.14. The best-performing configuration cost approximately US$0.02 per note. In prospective silent deployment over 3 months, the binary F1 was 0.72–0.79."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+          "cap": "Fig. 2: Multi-stage agentic architecture for irAE detection, grading, attribution and certainty assessment."
+        },
+        {
+          "t": "p",
+          "x": "In a randomized crossover study of clinical trial staff, agentic assistance reduced annotation time by 2.71 min (P < 0.001), increased complete-match accuracy (odds ratio 1.45; 95% confidence interval 1.01–2.08; P = 0.045) and improved interannotator agreement (Krippendorff's α from 0.22–0.51 to 0.82–0.85)."
+        }
+      ]
+    },
+    "medicine/nyu-langone-openevidence-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenEvidence is expanding its footprint in New York City through a partnership with NYU Langone Health. Its AI-powered clinical evidence platform is embedded directly into NYU Langone's Epic EHR workflows, spanning its hospitals, ambulatory network and the Family Health Centers, and reaching physicians training at the NYU Grossman School of Medicine and the NYU Grossman Long Island School of Medicine. NYU Langone has more than 12 million outpatient visits annually and over 6,000 physicians and faculty."
+        },
+        {
+          "t": "p",
+          "x": "Clinicians will be able to ask complex clinical questions in natural language and receive answers grounded in peer-reviewed medical literature and read against the patient's own clinical record, all without leaving their Epic workflow. \"Putting OpenEvidence inside the chart at NYU Langone means the world's medical literature is now in the room for every one of the twelve million visits this system supports each year,\" said founder and CEO Daniel Nadler."
+        },
+        {
+          "t": "p",
+          "x": "The company says roughly two-thirds of U.S. physicians use its platform; 1.2 million verified U.S. clinicians consulted it 45 million times in October. It already has deployments at NewYork-Presbyterian and Mount Sinai and an oncology partnership with Memorial Sloan Kettering. A JAMA study found nearly 1 million U.S. clinicians submitted 271 million queries from January 2024 to June 2026, 51.9% related to clinical decision-making."
+        }
+      ]
+    },
+    "medicine/doximity-dosing-error-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Research released by Doximity shows that its dose verification tool outperformed general-use AI models, which it says are rife with errors. Doximity says it tested a handful of large language models released in 2026 with more than 8,500 clinical dosing questions covering more than 2,200 FDA-approved drugs."
+        },
+        {
+          "t": "p",
+          "x": "Freshly approved drugs had five times the odds of an error. Of the errors detected, 13.2% were minor, 43% were significant and 3.4% were potentially lethal. The most common mistake was failing to adjust doses for age, kidney function or drug interactions, even when that information was given in the question."
+        },
+        {
+          "t": "p",
+          "x": "Doximity claimed its new verification tool, DoseCheck, was correct 99.9% of the time; it frames the tool as a safety net within Doximity Ask. \"The failure modes we saw aren't unique to dosing,\" said Dr. Louis-Antoine Mullie, chief AI researcher at Doximity."
+        },
+        {
+          "t": "p",
+          "x": "The research comes as Anthropic and OpenAI enter healthcare. Studies have landed on both sides: Stanford and Harvard researchers found clinically specialized tools outperformed general-purpose models, while another team this summer found the opposite."
+        }
+      ]
+    },
+    "medicine/hoppr-msk-xray-drafting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+          "cap": "X-ray image of human knee joint showing femur, tibia, fibula, and patella in anteroposterior view"
+        },
+        {
+          "t": "p",
+          "x": "HOPPR is launching a beta version of its FS MSK Whole-Body Narrative Model, a vision-language foundation model that generates draft findings text for musculoskeletal (MSK) radiographs using up to three views per study."
+        },
+        {
+          "t": "p",
+          "x": "The model was trained on about 674,000 outpatient MSK studies covering the spine, thorax and chest wall, upper extremity, and pelvis and lower extremity, according to the vendor. It focuses on describing abnormalities rather than normal anatomy. HOPPR said it evaluated the model against 26 MSK finding categories, including fracture, degenerative joint and spine changes, alignment, and hardware."
+        },
+        {
+          "t": "p",
+          "x": "The model is designed as a software component for developers building radiology reporting and workflow applications, and HOPPR’s Forward Deployed Services team will customize and integrate it for each organization’s data and workflows, the company said. It is not cleared by the U.S. Food and Drug Administration (FDA) and is not intended for diagnostic use, the firm said."
+        }
+      ]
+    },
+    "medicine/medicine-zocdoc-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Online scheduling company Zocdoc is now letting AI agents search for providers and book appointments on behalf of patients."
+        },
+        {
+          "t": "p",
+          "x": "Agents must register with Zocdoc to gain access and obtain patient consent before booking or canceling an appointment on its online platform, the company said Wednesday. Google Gemini, Amazon Health AI, and text- and call-based AI agent Instinct are already connected, and other agents can apply for access with or without a human’s help."
+        },
+        {
+          "t": "p",
+          "x": "“I would say that welcoming agents the way we are is a bit of a contrarian move,” said Dr. Oliver Kharraz, founder and CEO of Zocdoc."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+          "cap": "Zocdoc says AI agent traffic on its platform has grown nearly 30-fold since July — now the company is opening its booking platform to them directly."
+        },
+        {
+          "t": "p",
+          "x": "An approved agent can plug into Zocdoc’s AI backend to sift through its provider directory, check a clinician’s availability, verify insurance and book an appointment, checking in with the patient before making any final decisions."
+        },
+        {
+          "t": "p",
+          "x": "In return, Zocdoc expects agents to obtain patient consent and protect patient and provider data; they are not allowed to train themselves based on the data, resell it or republish it. Zocdoc did not specify how it plans to ensure that agents respect that agreement."
+        },
+        {
+          "t": "p",
+          "x": "“Our mission is to give power to the patient. If they want to delegate the booking to an AI agent, then we should give them the frictionless access to care that they want,” Kharraz said."
+        }
+      ]
     }
   }
 }

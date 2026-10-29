@@ -1,178 +1,187 @@
 {
- "section": "science",
- "now_iso": "2026-10-28T22:04:45Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Forecasting 'tipping points' with AI climate simulation",
-   "url": "https://phys.org/news/2026-10-ai-climate-simulation.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-10-16T12:00:00-04:00",
-   "excerpt": "Caltech, CU Boulder and NVIDIA researchers used a recurrent neural operator to forecast tipping points in simplified climate and wing-airflow simulations, predicting a simulated loss of ocean low clouds more than two years ahead with about 11 days of timing error (PNAS).",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-tipping-po.jpg"
-  },
-  {
-   "title": "When simulations fall short, this spectrometer learns for itself",
-   "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-10-28T12:40:08-04:00",
-   "excerpt": "Aarhus University researchers used AI to let an NMR spectrometer learn the best pulse sequence directly from the sample, instead of relying on simulations, to boost weak signals that limit what the instrument can see.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg"
-  },
-  {
-   "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
-   "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-10-27T16:20:15-04:00",
-   "excerpt": "University of Missouri researchers used an AI-designed genome-editing tool to create rice plants that resist bacterial blight, a disease that can destroy harvests across Asia and Africa.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg"
-  },
-  {
-   "title": "AI may quickly generate ideas, but working with people leads to more creative ones",
-   "url": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
-   "source": "Tech Xplore",
-   "category": "science",
-   "published_iso": "2026-10-28T11:20:17-04:00",
-   "excerpt": "A study comparing idea generation with generative AI versus human collaboration finds AI is faster but people working together produce more creative ideas.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg"
-  },
-  {
-   "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
-   "url": "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows",
-   "source": "Live Science",
-   "category": "science",
-   "published_iso": "2026-10-26T09:00:00Z",
-   "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once that help was removed, compared with people who never used AI.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg"
-  },
-  {
-   "title": "Is AI making you lazier?",
-   "url": "https://www.livescience.com/technology/artificial-intelligence/is-ai-making-you-lazier",
-   "source": "Live Science",
-   "category": "science",
-   "published_iso": "2026-10-27T20:13:27Z",
-   "excerpt": "Following a study showing people who rely on AI for basic tasks like math became less motivated, Live Science polled readers on whether AI is eroding their effort and skills.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/fesreS5Z47ZikP5mVmRyj3-2000-80.jpg"
-  },
-  {
-   "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-   "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-   "source": "Quanta Magazine",
-   "category": "science",
-   "published_iso": "2026-10-19T15:40:26+00:00",
-   "excerpt": "Unlike other recent AI proofs, the AI-generated proof of the quasi-Riemann hypothesis has been unpacked by human experts, and one mathematician calls the implications 'staggering.'",
-   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Social.jpg"
-  },
-  {
-   "title": "Can we trust LLMs to judge whether a research idea is novel?",
-   "url": "https://allenai.org/blog/novelty-bench",
-   "source": "Ai2",
-   "category": "science",
-   "published_iso": "2026-10-27T00:00:00-08:00",
-   "excerpt": "Ai2's Old Ideas, Novel Problems benchmark tests how reliably LLMs judge the novelty of research ideas and finds small changes to the evaluation setup can flip their verdicts.",
-   "og_image": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
-  },
-  {
-   "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives",
-   "url": "https://allenai.org/blog/olmocr-2-historical-archives",
-   "source": "Ai2",
-   "category": "science",
-   "published_iso": "2026-10-28T00:00:00-08:00",
-   "excerpt": "Researchers are adapting Ai2's open olmOCR 2 model to make historical photo libraries searchable locally and to improve transcription of handwritten archaeological records.",
-   "og_image": "https://www.datocms-assets.com/64837/1793156211-olmocr-featured.png"
-  },
-  {
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "source": "Google DeepMind",
-   "category": "science",
-   "published_iso": "2026-10-15T16:00:00+00:00",
-   "excerpt": "Google DeepMind shows its Antigravity agentic platform acting as a science workbench that uses the ProtNLM model to scan millions of uncharacterized UniProt proteins and prioritize candidate antimicrobial peptides in a single session.",
-   "og_image": "https://lh3.googleusercontent.com/I6-x5Sp8EpQG9Kgas50ZDrM7EA54uJHfQs6GOs6CQsWJo2VpNZB0toOQKY93YkTo9VcAjoYAP9HgIF15Rp8lAQFAjlMp9V4xeYTIWPYF9jx_lP_UrA=w1440-h810-n-nu"
-  },
-  {
-   "title": "We'll pay to get revenge on an algorithm, even though it can't feel a thing",
-   "url": "https://www.psypost.org/well-pay-to-get-revenge-on-an-algorithm-even-though-it-cant-feel-a-thing/",
-   "source": "PsyPost",
-   "category": "science",
-   "published_iso": "2026-10-27T11:00:47+00:00",
-   "excerpt": "In experiments with more than 6,000 participants, people sacrificed their own money to retaliate against unfair machine decisions, even though an algorithm cannot feel the loss.",
-   "og_image": "https://www.psypost.org/wp-content/uploads/2026/05/artificial-intelligence.jpg"
-  },
-  {
-   "title": "Q&A: How AI came to model the 'messy' human mind",
-   "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-   "source": "MIT News",
-   "category": "science",
-   "published_iso": "2026-10-23T04:00:00Z",
-   "excerpt": "MIT's Benjamin Lindquist discusses his research on how randomness and irrationality were built into early AI models designed to mimic human creativity.",
-   "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg"
-  },
-  {
-   "title": "Making machines that can listen",
-   "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
-   "source": "MIT News",
-   "category": "science",
-   "published_iso": "2026-10-28T04:00:00Z",
-   "excerpt": "MIT professor Paris Smaragdis works on machine listening so AI can hear and understand sounds the way humans do, improving artificial perception across applications.",
-   "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Paris-Smaragdis_01-press.jpg"
-  },
-  {
-   "title": "To detect deepfake videos, researchers turn to the physics of light",
-   "url": "https://physicsworld.com/a/to-detect-deepfake-videos-researchers-turn-to-the-physics-of-light/",
-   "source": "Physics World",
-   "category": "science",
-   "published_iso": "2026-10-21T14:00:50+00:00",
-   "excerpt": "An optical technique for detecting deepfake videos claims 97.8% accuracy while using less energy than digital neural networks with similar performance.",
-   "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg"
-  },
-  {
-   "title": "A unified coarse-grained neural network potential for the dynamics of biomolecular complexes",
-   "url": "https://arxiv.org/abs/2610.37606v1",
-   "source": "arXiv",
-   "category": "science",
-   "published_iso": "2026-10-27T17:37:10Z",
-   "excerpt": "AMARO v2.0 is a coarse-grained neural network potential that keeps all heavy atoms and treats solvent implicitly, giving one shared representation for proteins, drug-like molecules and their complexes to reach rare events atomistic molecular dynamics struggles with.",
-   "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-   "title": "Interspecies communication",
-   "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-   "source": "MIT Technology Review",
-   "category": "science",
-   "published_iso": "2026-10-21T05:00:00-04:00",
-   "excerpt": "Machine learning now detects animal calls and identifies which individual made them, as with the Earth Species Project's work on carrion crows, and researchers think more advanced AI and LLM-style models could help decode animal communication.",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Interspecies-Final.jpg?resize=1200,600"
-  },
-  {
-   "title": "Astrolab's upcoming rover will run the first LLMs on the moon",
-   "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
-   "source": "MIT Technology Review",
-   "category": "science",
-   "published_iso": "2026-10-20T16:07:21-04:00",
-   "excerpt": "Astrolab's FLIP rover will carry an onboard AI demonstration running large language models on the lunar surface, a step toward more autonomy in future space missions.",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/flip-wheel.jpg?resize=1200,600"
-  },
-  {
-   "title": "'We were looking at it wrong': The explosive claim that's upended the AI world",
-   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-   "source": "MIT Technology Review",
-   "category": "science",
-   "published_iso": "2026-10-19T13:45:55-04:00",
-   "excerpt": "An exclusive interview with researcher Nick Cammarata, whose viral 26,000-word post argues LLM internals are less complicated than assumed, a claim reshaping interpretability research.",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600"
-  },
-  {
-   "title": "Pasqal Launches AI Workflow for Cloud Quantum Experiments",
-   "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
-   "source": "The Quantum Insider",
-   "category": "science",
-   "published_iso": "2026-10-28T12:07:54+00:00",
-   "excerpt": "Pasqal's new AI-driven cloud workflow prepares quantum jobs, validates them in emulation, and processes the results into scientific observables.",
-   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
-  }
- ]
+  "section": "science",
+  "now_iso": "2026-10-29T22:00:32Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Hidden and forgotten 2D materials are discovered with AI",
+      "url": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subgroup": "materials",
+      "published_iso": "2026-10-29T12:00:00-04:00",
+      "excerpt": "Linköping University researchers used AI to mine materials databases, finding 33 overlooked MXenes and making 11 new ones, plus a seconds-fast synthesis route without external heating (Science).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg"
+    },
+    {
+      "title": "A new physics-informed AI tool aims to predict wildfire spread in real time and assist wildfire response",
+      "url": "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subgroup": "physics",
+      "published_iso": "2026-10-28T16:00:10-04:00",
+      "excerpt": "NYU Tandon built a wildfire digital twin pairing a physics fire-spread model with an AI solver fed by live satellite, weather and sensor data; forecasts matched observed burn areas with up to 94.6% overlap on three past fires.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg"
+    },
+    {
+      "title": "The human surfaceome: AI flags potential cell surface drug targets overlooked by major databases",
+      "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subgroup": "life_science",
+      "published_iso": "2026-10-29T17:50:01-04:00",
+      "excerpt": "Five protein databases agreed on only 188 of 5,546 surface proteins; a Claude Sonnet 4.6-based agent reviewing the literature classified surface proteins at 95.7% accuracy versus ~90% for UniProt (bioRxiv preprint).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg"
+    },
+    {
+      "title": "Fluent language makes a hallucinatory chatbot just as credible as a curt, flawless one",
+      "url": "https://techxplore.com/news/2026-10-fluent-language-hallucinatory-chatbot-credible.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subgroup": "psychology",
+      "published_iso": "2026-10-29T09:00:14-04:00",
+      "excerpt": "Radboud University found a fluent chatbot giving false facts was rated as intelligent and pleasant as a terse accurate one, and about 80% of participants missed the errors (Computers in Human Behavior: Artificial Humans).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg"
+    },
+    {
+      "title": "AI often passes for human, but asking follow-up questions can trip it up",
+      "url": "https://techxplore.com/news/2026-10-ai-human.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subgroup": "cognition",
+      "published_iso": "2026-10-29T08:20:04-04:00",
+      "excerpt": "Across 72,000+ judgments, people identified AI-generated captions, word associations and replies only slightly above chance (53-57%), but got better at spotting chatbots as live questioning went on (Nature Human Behaviour, NTU Singapore).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg"
+    },
+    {
+      "title": "AIs fail to reliably detect AIs in reverse Turing tests",
+      "url": "https://techxplore.com/news/2026-10-ais-reliably-reverse-turing.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subgroup": "cognition",
+      "published_iso": "2026-10-27T10:00:01-04:00",
+      "excerpt": "Seven LLMs acting as interrogators in 238 reverse Turing tests flagged only 3 of 98 AI respondents as AI, judging AIs human more often than real people (Paris Cité University, Computers in Human Behavior Reports).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ais-fail-to-reliably-d.jpg"
+    },
+    {
+      "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows",
+      "source": "Live Science",
+      "category": "science",
+      "subgroup": "psychology",
+      "published_iso": "2026-10-26T09:00:00Z",
+      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once the help was removed than people who never used AI.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg"
+    },
+    {
+      "title": "OpenAI just scooped mathematicians' work on another million-dollar problem",
+      "url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
+      "source": "Scientific American",
+      "category": "science",
+      "subgroup": "research_automation",
+      "published_iso": "2026-10-27T14:10:00-04:00",
+      "excerpt": "Using an internal LLM, OpenAI released a formal proof tied to the quantum chromodynamics Millennium problem, scooping an independent proof in progress by Anthropic's Levent Alpoge and Northwestern's Ethan Sussman.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/be949c97-6aba-446d-bd3a-f2e111fa9566/Quantum-AI-math-blob.jpeg?m=1793127414.515&w=1200"
+    },
+    {
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "source": "Google Research",
+      "category": "science",
+      "subgroup": "cognition",
+      "published_iso": "2026-10-27T17:35:00+00:00",
+      "excerpt": "Google Research adds a 'sleep' phase to continual learning so LLMs can integrate new facts and improve reasoning while mitigating catastrophic forgetting and fixed knowledge cutoffs.",
+      "og_image": null
+    },
+    {
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "source": "Google Research",
+      "category": "science",
+      "subgroup": "life_science",
+      "published_iso": "2026-10-23T18:51:33+00:00",
+      "excerpt": "Google describes five years of moving from TB-detection benchmarks to open foundation models that can be tuned and deployed at the point of care in high-burden communities.",
+      "og_image": null
+    },
+    {
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "source": "Google Research",
+      "category": "science",
+      "subgroup": "life_science",
+      "published_iso": "2026-10-21T16:23:53+00:00",
+      "excerpt": "A prospective multi-center study shows AI blind-sweep ultrasound lets non-sonographers with low-cost probes deliver expert-level gestational age assessments.",
+      "og_image": null
+    },
+    {
+      "title": "Q&A: How AI came to model the 'messy' human mind",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "source": "MIT News",
+      "category": "science",
+      "subgroup": "cognition",
+      "published_iso": "2026-10-23T04:00:00Z",
+      "excerpt": "MIT's Benjamin Lindquist discusses how randomness and irrationality were built into early AI models designed to mimic human creativity.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg"
+    },
+    {
+      "title": "To detect deepfake videos, researchers turn to the physics of light",
+      "url": "https://physicsworld.com/a/to-detect-deepfake-videos-researchers-turn-to-the-physics-of-light/",
+      "source": "Physics World",
+      "category": "science",
+      "subgroup": "physics",
+      "published_iso": "2026-10-21T14:00:50+00:00",
+      "excerpt": "An optical deepfake-detection technique claims 97.8% accuracy while using less energy than digital neural networks of similar performance.",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg"
+    },
+    {
+      "title": "Google Launches $150,000 AI Competition to Reduce Quantum Computing Demands",
+      "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "subgroup": "quantum",
+      "published_iso": "2026-10-23T08:12:25+00:00",
+      "excerpt": "Google Quantum AI launched a $150,000 Kaggle competition for AI agents to compress fault-tolerant quantum circuits into smaller, more efficient ones.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+    },
+    {
+      "title": "Study: AI Could Speed Quantum Threats - And Help Build Defenses",
+      "url": "https://thequantuminsider.com/2026/10/21/study-ai-could-speed-quantum-threats-and-help-build-defenses/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "subgroup": "quantum",
+      "published_iso": "2026-10-21T12:04:23+00:00",
+      "excerpt": "A new analysis argues AI could accelerate quantum threats to encryption while also helping organizations prepare post-quantum defenses.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-security-shield-over-silver-chip-1.png"
+    },
+    {
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "subgroup": "life_science",
+      "published_iso": "2026-10-21T22:37:00+00:00",
+      "excerpt": "AI analysis of nearly 150,000 Reddit posts surfaced symptom reports linked to unapproved retatrutide - increased appetite, sleep disturbance, elevated heart rate - that differ from clinical-trial results.",
+      "og_image": null
+    },
+    {
+      "title": "Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction",
+      "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
+      "source": "Quantum Computing Report",
+      "category": "science",
+      "subgroup": "quantum",
+      "published_iso": "2026-10-29T02:04:03+00:00",
+      "excerpt": "A Mamba-based QEC decoder matches Transformer decoders like AlphaQubit in accuracy while cutting complexity from O(d^4) to O(d^2), aiming at real-time decoding. (Off-list: on-list quantum outlets had no fresh AI-decoder item.)",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+    },
+    {
+      "title": "Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery",
+      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery/",
+      "source": "Quantum Computing Report",
+      "category": "science",
+      "subgroup": "quantum",
+      "published_iso": "2026-10-29T02:12:19+00:00",
+      "excerpt": "A modular graph neural network decoder for surface-code QEC outperforms traditional decoders and adapts across hardware and lattice-surgery operations. (Off-list exception.)",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+    }
+  ]
 }

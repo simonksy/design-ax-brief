@@ -1,97 +1,97 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "marketing",
   "selection_mode": "curator (user deferred)",
   "items": [
     {
-      "title": "Ads in AI Mode expand to new markets.",
-      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-      "source": "Google Ads & Commerce Blog",
-      "published_iso": "2026-10-28T21:30:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png",
-      "excerpt": "Google is expanding ads in AI Mode (sponsored results inside its AI search experience) to 10 new countries including Canada and India, announced alongside Alphabet's Q3 earnings.",
+      "title": "AI가 광고 상품 권하면 선택률 3배…이용자 82% 눈치 못 챘다",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710979",
+      "source": "Digital Today",
+      "published_iso": "2026-10-29T14:05:55+09:00",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+      "excerpt": "[디지털투데이 AI리포터] 대화형 인공지능(AI)이 특정 광고 상품을 적극적으로 추천하면 이용자의 선택률이 기존 검색 광고보다 약 3배 높아질 수 있다는 연구 결과가 나왔다. 29일(현지시간) IT매체 아이티미디어에 따르면 미국 프린스턴대 연구진은 온라인 쇼핑에서 AI 대화가 소비자 선택에 미치는 영향을 분석한 논문 'AI 매개 대화에서의 상업적 설득'을 공개했다. 연구진은 미국 거주자 2012명을 대상으로 약 5500권의 전자책 중 원하는 책을 고르게 했다. 전체 상품의 20%를 무작위로 광고 상품으로 지정한 뒤, 검색 화면과 G",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Primary-source launch: paid placements inside Google's AI search surface open in 10 more countries, so advertisers there get new inventory now."
+      "rationale": "New Princeton experiment (n=2,012): conversational AI pushing sponsored items triples pick rate vs search ads and 82% miss it — hard data on in-chat ad persuasion and its disclosure problem."
     },
     {
-      "title": "Meta Has A New Ad Ranking System Built On LLMs, Plus Upgrades To Andromeda And GEM",
-      "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
-      "source": "AdExchanger",
-      "published_iso": "2026-10-28T16:00:04+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg",
-      "excerpt": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three new ad ranking upgrades.",
+      "title": "Google AI Mode Testing Blending All Products With Sponsored Products",
+      "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
+      "source": "Search Engine Roundtable",
+      "published_iso": "2026-10-29T07:31:00-04:00",
+      "og_image": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+      "excerpt": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are sponsored or not.",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "New LLM-based ad ranking system plus Andromeda/GEM upgrades changes how every Meta ad gets chosen for delivery — a fresh announcement, not the earlier GEM conversion stat."
+      "rationale": "A new ad-format test inside AI Mode: shopping ads mixed into organic product results under one ambiguous label — changes how shopping ads appear, separate from the 10-29 market-expansion news."
     },
     {
-      "title": "StackAdapt lets advertisers retarget ChatGPT ad viewers on CTV and display",
-      "url": "https://ppc.land/stackadapt-lets-advertisers-retarget-chatgpt-ad-viewers-on-ctv-and-display/",
+      "title": "Triton Digital's seller agent books Otrium audio campaign in minutes",
+      "url": "https://ppc.land/triton-digitals-seller-agent-books-otrium-audio-campaign-in-minutes/",
       "source": "PPC Land",
-      "published_iso": "2026-10-28T21:28:08.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg",
-      "excerpt": "Brands and agencies can pool CRM data and retargeting segments around ChatGPT ad exposure in Data Hub, but how a view is matched, and where, goes unexplained.",
+      "published_iso": "2026-10-28T20:50:19.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+      "excerpt": "Otrium's AI buyer booked Talpa Media audio with no manual step between brief and ad server, Triton says. Price and budget are missing. What did humans still do?",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "First DSP feature that turns ChatGPT ad exposure into a retargeting audience on CTV and display — a concrete new buying lever."
+      "rationale": "First reported live agent-to-agent audio buy, from brief to ad server with no manual step — a concrete agentic media-buying deployment, not commentary."
     },
     {
-      "title": "AI was involved in 52% of ad fraud schemes ADEX flagged in 2026",
-      "url": "https://ppc.land/ai-was-involved-in-52-of-ad-fraud-schemes-adex-flagged-in-2026/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-28T19:20:22.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg",
-      "excerpt": "Bots posing as humans appeared in 64% of AI-linked schemes across 1.2m campaigns on eight ad platforms, ADEX says. Could AI shopping agents be next in 2027?",
+      "title": "Tatari Gives CTV Ad Matching The Max Treatment",
+      "url": "https://www.adexchanger.com/tv/tatari-gives-ctv-ad-matching-the-max-treatment/",
+      "source": "AdExchanger",
+      "published_iso": "2026-10-29T13:00:26+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg",
+      "excerpt": "Tatari's new optimization engine sits at the ad server level and uses machine learning to determine which TV ads to serve to which audiences.",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "New fraud data across 1.2m campaigns: AI now drives half of flagged ad-fraud schemes, which hits media budgets and verification choices directly."
+      "rationale": "New ML optimization engine at the CTV ad-server level that picks which creative goes to which audience — a new product for TV buyers."
     },
     {
-      "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
-      "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
-      "source": "Marketing Dive",
-      "published_iso": "2026-10-26T10:18:00-04:00",
-      "og_image": "https://imgproxy.divecdn.com/NMt6t4n-CijjRIWwM1wIN4nhexsBPWn-ryobn983bp0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-      "excerpt": "Clorox CMO Eric Schwartz told ANA Masters of Marketing the company replaced big-bang campaigns with AI-automation-enabled 'systems of relevance' producing high-volume, social-first content for Pine-Sol, Brita and Hidden Valley.",
+      "title": "VAB puts US ad dollars spent on AI slop at up to $978.7 million",
+      "url": "https://ppc.land/vab-puts-us-ad-dollars-spent-on-ai-slop-at-up-to-978-7-million/",
+      "source": "PPC Land",
+      "published_iso": "2026-10-28T19:22:44.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+      "excerpt": "Bad bots took 40% of 2025 web traffic and US consumers lost $2.1B to social media scams. Which of the deck's 12 figures hold up once checked against sources?",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A major advertiser describing how AI automation replaced campaign-based ad creative with high-volume social content — the creative-production angle the other picks lack."
+      "rationale": "New VAB report putting a dollar figure on US ad spend landing on AI-slop inventory — a brand-safety number buyers can take to their supply-path reviews."
     }
   ],
   "dedup": {
     "checks": {
-      "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/": {
+      "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710979": {
         "verdict": "new",
-        "nearest": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
+        "nearest": "https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/",
         "new_action": ""
       },
-      "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/": {
+      "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html": {
         "verdict": "new",
-        "nearest": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
+        "nearest": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
         "new_action": ""
       },
-      "https://ppc.land/stackadapt-lets-advertisers-retarget-chatgpt-ad-viewers-on-ctv-and-display/": {
+      "https://ppc.land/triton-digitals-seller-agent-books-otrium-audio-campaign-in-minutes/": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
+        "nearest": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
         "new_action": ""
       },
-      "https://ppc.land/ai-was-involved-in-52-of-ad-fraud-schemes-adex-flagged-in-2026/": {
+      "https://www.adexchanger.com/tv/tatari-gives-ctv-ad-matching-the-max-treatment/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/",
+        "nearest": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
         "new_action": ""
       },
-      "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/": {
+      "https://ppc.land/vab-puts-us-ad-dollars-spent-on-ai-slop-at-up-to-978-7-million/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: SEJ 'Google Privacy Update Lets Connected Apps Shape AI Mode Ads' (same privacy-policy change as The Verge 10-24 'Now Google says it might use your Gmail and Google Photos data to target ads'); Adweek 'Google Sells Itself As A Commerce Matchmaker' (analysis of Universal Cart/UCP, already published via TechCrunch 10-16, no new release). Dropped on scope/quality: Kovva AdExchanger Talks and Digiday indie-agency podcast (interview/commentary, agentic-buying theme already covered 10-11); Pie SMB startup (vendor profile); Google Ads customer lifecycle goals (AI incidental, bidding config); Adweek Deloitte holiday-shopping trust survey (consumer sentiment, overlaps 10-19 Semafor holiday-agents piece; held as next-best). Triton/Otrium seller-agent booking held back only by the 2-per-outlet cap on PPC Land. Cross-section check: published_urls.json is 3.7k lines and no grep tool was available to this agent; spot-read only — orchestrator should exact-grep the 5 URLs and 'AI Mode'/'Andromeda'/'StackAdapt'/'ADEX'/'Clorox' before roll."
+    "note": "Dropped as duplicates: Retail Dive 'Fanatics revamps outfit curation tool with OpenAI' (same story as zdnet 10-27 '파나틱스, 오픈AI와 맞손'); Marketing Dive 'Sociable: Meta says its expanded processing capacity is driving ad results' (same Meta Q3 ad-ranking/capacity story as AdExchanger 10-29 'Meta Has A New Ad Ranking System...'). Dropped cluster c2 (SER 'Ads In AI Mode Earning Less', SEJ 'Lower AI Mode Monetization', The Verge 'lower monetization') plus Marketing Dive 'Google's AI overhaul of search hits snags': earnings-call commentary on the AI Mode ads story already published 10-29 via blog.google; no new release, and earnings counts as business noise. Dropped on scope/quality: Digiday Anthropic S-1 ad bill (IPO/business noise); Digiday indie-agency DSP podcast (commentary, agentic-buying theme covered 10-11); Adweek holiday-shopping trust surveys (overlaps 10-19 Semafor holiday-agents story); AdExchanger Pie SMB startup (vendor profile); TikTok Brand Safety Center (AI incidental in the excerpt); Edaily Prompt Factory/Crowdworks ad-prediction agent (vendor promo); Retail Dive consumer AI discovery research (product discovery, not ads; overlaps 10-23 Modern Retail research). PPC Land 'Amazon calls its ad platform an agent' held back by the 2-per-outlet cap (next-best backfill). Cross-section check: no grep tool available to this agent; published_urls.json (alphabetical per section) spot-read only. Orchestrator should exact-grep the 5 URLs (full digitaltoday ?idxno=710979) and 'Princeton'/'commercial persuasion', 'Triton', 'Tatari', 'VAB' across all sections before roll. The Princeton study is the most likely to have run in politics or science."
   }
 }

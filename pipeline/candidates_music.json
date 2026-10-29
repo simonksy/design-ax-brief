@@ -1,141 +1,142 @@
 {
-  "section": "music",
-  "now_iso": "2026-10-28T22:04:45Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Add music and sound effects to any video with ElevenCreative (Instant Soundtracks)",
-      "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
-      "source": "ElevenLabs",
-      "published_iso": "2026-10-15T12:00:00Z",
-      "excerpt": "Upload a video to ElevenCreative and Instant Soundtracks scores it with original music, then analyzes the footage for sound-effect cues and places generated, synced effects on the timeline in one pass.",
-      "og_image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/sm49fesxdni-Blog-cover.webp",
-      "keyword": "ElevenLabs Music",
-      "category": "music"
-    },
-    {
-      "title": "Behringer Kick is a sampler with vibe-coded firmware at its core: Is this really the future we want?",
-      "url": "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware",
-      "source": "MusicRadar",
-      "published_iso": "2026-10-28T18:09:34Z",
-      "excerpt": "Behringer's in-development open-source sampler Kick is pitched around AI-generated firmware: 'With AI, even people without programming experience can turn their ideas into new features and firmware.' It also lists an 'AI camera' for gesture control.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd-768-80.jpg",
-      "keyword": "AI music plugin / vibe-coded gear",
-      "category": "music"
-    },
-    {
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "source": "The Verge",
-      "published_iso": "2026-10-28T21:34:04Z",
-      "excerpt": "The MPC Sample Key will be an open-source 37-key take on Akai's budget MPC Sample, with firmware opened so users can vibe-code new instruments and features with AI coding tools.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
-      "keyword": "AI music plugin / vibe-coded gear",
-      "category": "music"
-    },
-    {
-      "title": "Akai kicks back? Sample Key teaser lands a day after Behringer's open-source Kick",
-      "url": "https://www.musicradar.com/music-tech/akai-kicks-back-sample-key-teaser-lands-a-day-after-behringers-open-source-kick",
-      "source": "MusicRadar",
-      "published_iso": "2026-10-28T17:29:15Z",
-      "excerpt": "Akai says it is 'embracing the AI and vibe-coding community' by opening Sample Key's firmware; teaser videos show staff using Claude to turn it into a chord machine and units running custom vibe-coded VA, FM and wavetable synths. (Same story as The Verge item - alternate source.)",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH-1305-80.jpg",
-      "keyword": "AI music plugin / vibe-coded gear",
-      "category": "music"
-    },
-    {
-      "title": "AI takes the stage with BSO musicians in Tod Machover's wild world premiere",
-      "url": "https://www.wbur.org/news/2026/10/22/tod-machover-mit-media-lab-bso-ai",
-      "source": "WBUR",
-      "published_iso": "2026-10-22T19:54:16Z",
-      "excerpt": "MIT Media Lab composer Tod Machover's 25-minute 'already and not yet' puts 80-plus Boston Symphony Orchestra players in dialogue with a live AI system that responds to each musician's performance.",
-      "og_image": "https://media.wbur.org/wp/2026/10/IMG_8264-2048x1536.jpeg",
-      "keyword": "real-time AI music",
-      "off_list": true,
-      "category": "music"
-    },
-    {
-      "title": "Russia's media regulator blocks viral AI-generated song 'You're My Scumbag' on streaming services",
-      "url": "https://meduza.io/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
-      "source": "Meduza",
-      "published_iso": "2026-10-28T16:04:19Z",
-      "excerpt": "The viral AI-generated song 'Ty moya...' by DJ NARODNII has been blocked on Russian streaming services by the media regulator.",
-      "og_image": "https://meduza.io/imgly/share/1793203459/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
-      "keyword": "AI music",
-      "off_list": true,
-      "category": "music"
-    },
-    {
-      "title": "사람보다 더 잘 듣는 AI 개발한다…MIT 스마라그디스 교수, 음원 분리·음성 인식·환경 소리 분석 기술 개발",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42471",
-      "source": "인공지능신문",
-      "published_iso": "2026-10-28T12:47:15Z",
-      "excerpt": "MIT의 파리 스마라그디스 교수 연구팀이 음원 분리, 음성 인식, 환경 소리 분석을 아우르는 '사람보다 더 잘 듣는' 청각 AI 연구를 소개했다.",
-      "og_image": "https://cdn.aitimes.kr/news/thumbnail/202610/42471_63842_4657_v150.jpg",
-      "keyword": "AI stem separation",
-      "off_list": true,
-      "category": "music"
-    },
-    {
-      "title": "SMEBench: Benchmarking Neural Music Editing with Synthetized MIDI Edits",
-      "url": "https://arxiv.org/abs/2610.36715",
-      "source": "arXiv",
-      "published_iso": "2026-10-27T06:31:02Z",
-      "excerpt": "A large-scale benchmark of controlled music edits built by modifying symbolic MIDI performances and rendering matched source/target audio, covering twelve instrumentation, articulation and dynamics edit types for evaluating instruction-based neural music editors.",
-      "og_image": null,
-      "keyword": "text-to-music",
-      "category": "music"
-    },
-    {
-      "title": "ChoreoStudio: Planning What, When, and Who in Music-Driven Group Choreography",
-      "url": "https://arxiv.org/abs/2610.32325",
-      "source": "arXiv",
-      "published_iso": "2026-10-23T08:23:10Z",
-      "excerpt": "ChoreoStudio makes choreography planning explicit for music-driven group dance generation, aligning formation transitions with high-level musical structure (intro to chorus to climax) and deciding which dancer executes each transition.",
-      "og_image": null,
-      "keyword": "generative music",
-      "category": "music"
-    },
-    {
-      "title": "Suno Fires Back Against Apple Amid Ugly Subpoena Dispute",
-      "url": "https://www.digitalmusicnews.com/2026/10/28/suno-apple-subpoena-dispute/",
-      "source": "Digital Music News",
-      "published_iso": "2026-10-28T19:30:44Z",
-      "excerpt": "Suno is firing back against Apple's motion to quash a deposition subpoena concerning major-label licensing talks, AI fraud and more in the UMG/Sony case. (Litigation angle - deprioritized.)",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Apple-Subpoena.jpg",
-      "keyword": "Suno",
-      "category": "music"
-    },
-    {
-      "title": "ICMP Says Australian Songs Used to Train AI Sans Compensation",
-      "url": "https://www.digitalmusicnews.com/2026/10/19/icmp-kylie-minogue-songs-train-ai/",
-      "source": "Digital Music News",
-      "published_iso": "2026-10-20T04:00:26Z",
-      "excerpt": "ICMP warns that Australian copyright law risks being watered down for AI training, saying major hits by Kylie Minogue and Nick Cave were already used to train AI without consent.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/major-australian-hits-kylie-minogue-nick-cave-already-used-to-train-ai.png",
-      "keyword": "music AI licensing",
-      "category": "music"
-    },
-    {
-      "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
-      "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
-      "source": "Billboard",
-      "published_iso": "2026-10-21T22:08:29Z",
-      "excerpt": "A Billboard Latin Music Week panel with SGAE's Cristina Perpiñá-Robert and Pierre Hachar Jr. weighed how to protect human creators as AI-generated songs spread, including Spain's concerns about AI replacing creators.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024",
-      "keyword": "music AI licensing",
-      "category": "music"
-    },
-    {
-      "title": "Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-27T16:30:57Z",
-      "excerpt": "DeepMind's Genie 4 research preview generates real-time audio matched to the simulated world, including music, ambient sound and dialogue, while users steer scenes with mid-simulation prompts. (Music is a secondary angle; likely also a games/gadgets candidate.)",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
-      "keyword": "real-time AI music",
-      "category": "music"
-    }
-  ],
-  "notes": "RSS-first harvest of 30+ allowed-domain feeds/sitemaps + Google News RSS (GN decoder hit 429, so Korean/off-list GN-only stories - Pozalabs Steal Saturday, News1 Melon AI labelling, A$AP Rocky 'Shroom Clouds' AI video - could not be resolved to outlet URLs). Dropped as already published: Logic Pro 13, Massive XL, Tracktion 14.1, NAVA, Edged Out, Spotify 50M/75M slop, Believe x Spotify remix, YouTube AI labels, UMG-Tyger, AFM Human Made Human Paid, IAMDDB, KOMCA, Samplab, vibe-coded plugins feature, MuLaCover/Agentic post-production/MQAScore arXiv. Dropped for weak AI or business noise: Easol/Sonilo/ArtMaster funding, Raye/Sam Fender bot presales, Hotone VOCLAS, Overtune, Serato iOS, Chase & Status, ComplianceCheck. Note that the Akai items (Verge + MusicRadar) are one story, and Behringer Kick is a sibling story; Genie 4 may collide with games/gadgets."
+ "section": "music",
+ "now_iso": "2026-10-29T22:00:32Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Suno launches MCP server to 'create music right from the chat'",
+   "url": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
+   "source": "Music Ally",
+   "category": "music",
+   "published_iso": "2026-10-29T13:30:00+00:00",
+   "excerpt": "Suno opened an early-access MCP server so users can generate songs from inside Claude, ChatGPT, Gemini, Claude Code and Cursor; tracks use normal Suno credits and land in the user's Suno library, for free and paid tiers.",
+   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
+  },
+  {
+   "title": "SkillBox has launched an AI-powered 'event creation' engine",
+   "url": "https://musically.com/2026/10/29/skillbox-has-launched-an-ai-powered-event-creation-engine/",
+   "source": "Music Ally",
+   "category": "music",
+   "published_iso": "2026-10-29T10:25:15+00:00",
+   "excerpt": "Indian live-entertainment company SkillBox launched Zenith Studio, which generates event listings, descriptions, ticketing info and artwork for concert organisers from a single-line prompt.",
+   "og_image": "https://musically.com/wp-content/uploads/2026/10/Skillbox-new-logo.jpg"
+  },
+  {
+   "title": "Avenged Sevenfold's Zacky Vengeance Defends AI Art, Calls Majority of Designers He's Worked With 'Lazy'",
+   "url": "https://metalinjection.net/news/avenged-sevenfolds-zacky-vengeance-defends-ai-art-calls-majority-of-designers-hes-worked-with-lazy",
+   "source": "Metal Injection",
+   "category": "music",
+   "published_iso": "2026-10-29T19:16:30+00:00",
+   "excerpt": "After fans flagged the artwork for A7X's Misfits 'Horror Business' cover as AI-generated, Zacky Vengeance said he 'fully embraces AI', prefers 'my prompts', and called most designers he has worked with lazy — reigniting the album-art vs. AI debate.",
+   "og_image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-1024x576.jpg"
+  },
+  {
+   "title": "A$AP Rocky Accused Of Plagiarizing Part Of AI-Assisted 'Shroom Clouds' Video",
+   "url": "https://stereogum.com/2515567/aap-rocky-accused-of-plagiarizing-part-of-ai-assisted-shroom-clouds-video/news",
+   "source": "Stereogum",
+   "category": "music",
+   "published_iso": "2026-10-26T15:18:51+00:00",
+   "excerpt": "VFX artist Cache Bunny says a psychedelic tunnel shot in A$AP Rocky's 'Shroom Clouds' video lifts a 2019 GoPro Fusion piece and was altered with AI; the video credits list two 'AI Artist' roles.",
+   "og_image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
+  },
+  {
+   "title": "[단독] 멜론 차트 2위가 AI 음악?…정부, 표시 의무 확대 검토",
+   "url": "https://www.news1.kr/it-science/internet-platform/6333828",
+   "source": "뉴스1",
+   "category": "music",
+   "published_iso": "2026-10-27T17:58:01+09:00",
+   "excerpt": "Suno로 만든 AI 음원 '꿈꾸던 어른이 되었나요?'가 멜론 차트 2위에 오르며 AI 제작 사실이 뒤늦게 알려지자, 정부가 AI 음원 표시 의무 확대를 검토하고 있다.",
+   "og_image": "https://i3n.news1.kr/system/photos/2026/10/27/8182188/high.jpg"
+  },
+  {
+   "title": "'딸깍 음악' 대중화 시대…정책은 '공백'",
+   "url": "https://www.news1.kr/it-science/internet-platform/6335523",
+   "source": "뉴스1",
+   "category": "music",
+   "published_iso": "2026-10-29T07:33:47+09:00",
+   "excerpt": "카페 플레이리스트와 음원 차트 상위권까지 AI로 만든 '딸깍 음악'이 퍼졌지만, 표기·저작권·정산 정책은 공백이라는 진단. 정부는 표시 의무 확대를 검토 중이다.",
+   "og_image": "https://i3n.news1.kr/system/photos/2026/10/28/8184836/high.jpg"
+  },
+  {
+   "title": "\"AI 썼다고 밝히면 저작권료 못 받는 현실\"…국회서 분배 기준 논의",
+   "url": "https://news.ifm.kr/news/articleView.html?idxno=482765",
+   "source": "경인방송",
+   "category": "music",
+   "published_iso": "2026-10-27T15:19:38+09:00",
+   "excerpt": "김재원·배현진 의원이 국회에서 'AI 활용 음악' 저작권료 분배 기준 토론회를 열고, AI 사용을 정직하게 신고한 창작자만 저작권료를 못 받는 구조를 바로잡을 기준을 논의했다.",
+   "og_image": "https://cdn.news.ifm.kr/news/thumbnail/202610/482765_157214_1634_v150.jpg"
+  },
+  {
+   "title": "AI로 작곡한 클래식, 정식 무대 오른다",
+   "url": "https://www.hankyung.com/article/2026102814101",
+   "source": "한국경제",
+   "category": "music",
+   "published_iso": "2026-10-28T18:11:54+09:00",
+   "excerpt": "이진준 KAIST 교수가 AI와 함께 작곡한 클래식 '쓰러진 거인'을 국립심포니오케스트라가 세종시에서 정식 연주한다.",
+   "og_image": "https://img.hankyung.com/photo/202610/AA.46224900.1.jpg"
+  },
+  {
+   "title": "'케이팝업차트쇼' AI 가수 로진 출격",
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610260099",
+   "source": "bnt뉴스",
+   "category": "music",
+   "published_iso": "2026-10-26T08:27:59+09:00",
+   "excerpt": "AI 가수 로진(RŌSIEN)이 ENA '케이팝업차트쇼'로 TV 정규 음악방송 무대에 처음 오른다. 인공지능 영상 생성 기술로 만든 K팝 퍼포먼스를 선보인다.",
+   "og_image": "https://www.bntnews.co.kr/data/bnt/image/2026/10/26/bnt202610260132.png"
+  },
+  {
+   "title": "Pozalabs reveals AI producer Steal Saturday as its own act",
+   "url": "https://www.kentertechhub.com/pozalabs-ai-producer/",
+   "source": "K-EnterTech Hub",
+   "category": "music",
+   "published_iso": "2026-10-26T05:49:35+00:00",
+   "excerpt": "Seoul AI-music company Pozalabs released a five-song ballad album by AI producer Steal Saturday on Oct. 26 and, for the first time, publicly identified the act as one it created.",
+   "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+  },
+  {
+   "title": "사람보다 더 잘 듣는 AI 개발한다…MIT 스마라그디스 교수, 음원 분리·음성 인식·환경 소리 분석 기술 개발",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42471",
+   "source": "인공지능신문",
+   "category": "music",
+   "published_iso": "2026-10-28T21:47:15+09:00",
+   "excerpt": "MIT 파리 스마라그디스 교수 연구팀이 음원 분리, 음성 인식, 환경음 분석을 아우르는 '사람보다 잘 듣는' 청각 AI를 개발하고 있다고 MIT가 소개했다.",
+   "og_image": "https://cdn.aitimes.kr/news/thumbnail/202610/42471_63842_4657_v150.jpg"
+  },
+  {
+   "title": "Does Notation Matter? MusicXML Tokenisation for Symbolic Music Generation and Understanding",
+   "url": "https://arxiv.org/abs/2610.34247",
+   "source": "arXiv",
+   "category": "music",
+   "published_iso": "2026-10-25T12:21:00Z",
+   "excerpt": "Researchers compare MIDI-style versus fully notated MusicXML tokenisation for deep-learning symbolic music generation and understanding, testing how score richness changes model output.",
+   "og_image": null
+  },
+  {
+   "title": "Gangqinpu: A Multi-Genre, Multi-Task Piano Dataset with Aligned Audio, MIDI, and Musical Scores",
+   "url": "https://arxiv.org/abs/2610.34694",
+   "source": "arXiv",
+   "category": "music",
+   "published_iso": "2026-10-26T01:31:00Z",
+   "excerpt": "Gangqinpu is a multi-genre piano dataset that jointly aligns audio, performance MIDI and scores to train music transcription, analysis and performance-modelling AI.",
+   "og_image": null
+  },
+  {
+   "title": "Spotify Co-CEOs Talk AI Remixing Tool: 'We're the Right Company to Do This'",
+   "url": "https://www.billboard.com/pro/spotify-co-ceos-talk-ai-music-remixing-tool-subscribers/",
+   "source": "Billboard",
+   "category": "music",
+   "published_iso": "2026-10-22T20:47:12+00:00",
+   "excerpt": "Spotify's co-CEOs described the coming subscriber AI remixing tool and argued it will create new revenue for rights holders.",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2277532373.jpg?w=1024"
+  },
+  {
+   "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
+   "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
+   "source": "Billboard",
+   "category": "music",
+   "published_iso": "2026-10-21T22:08:29+00:00",
+   "excerpt": "A Billboard Latin Music Week panel with Cristina Perpiñá-Robert and Pierre Hachar Jr. debated AI-generated music and how to protect human creators.",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024"
+  }
+ ]
 }

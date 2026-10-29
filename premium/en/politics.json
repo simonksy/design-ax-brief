@@ -4200,6 +4200,130 @@
           "x": "Third reading, a final chance for members to 'tidy' up the bill and make changes, is scheduled for Monday 2 November."
         }
       ]
+    },
+    "politics/wired-accenture-agent-pentagon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+          "cap": "A robot hand probing the Pentagon as binary code leaks through it."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, sources tell WIRED, a contractor employed by Accenture caused a security incident at the Department of Defense by connecting a secure centralized system, used by multiple intelligence agencies and containing controlled unclassified information (CUI), to their personal account for Claude Code, Anthropic’s AI coding agent. The agent appears to have then sent information about the system, including login credentials and a map of NIPRNet, to a high-risk third-party website."
+        },
+        {
+          "t": "p",
+          "x": "The agent ran on the DOD network for two months before it was identified and the vulnerability could be patched. Sources indicate Accenture did not initially report the breach to the government, although incidents must be reported within 72 hours. Claude is currently barred from use by DOD staff."
+        },
+        {
+          "t": "p",
+          "x": "A DOD spokesperson said “the Department does not comment on the status of its networks or systems.” An Accenture spokesperson said the allegations “were thoroughly and independently investigated and found to be without merit.” Security experts told WIRED the exposed credentials could let an attacker plant malicious code in tools later deployed to classified networks; there is no indication hackers reached a classified system."
+        }
+      ]
+    },
+    "politics/austria-un-ai-centre-vienna": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+          "cap": "Alexander Spatari via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Austria pitched setting up a United Nations AI centre in Vienna at an international meeting on AI security on Wednesday. The video call, organised jointly by Norway and Finland, follows growing international calls for better control of leading AI models after a spate of high profile cybersecurity incidents."
+        },
+        {
+          "t": "p",
+          "x": "A UN centre could play a “central role” in creating a trusted framework for AI, Austrian digital state secretary Alexander Pröll said, arguing Vienna already hosts other UN bodies, including the International Atomic Energy Agency."
+        },
+        {
+          "t": "p",
+          "x": "Thirty-one countries participated, Norway and Finland said, reportedly including Turkey and Moldova – but not, seemingly, the US or China. An “expert level process” will continue to “explore options for improving AI safety and security.” Singapore’s prime minister, Lawrence Wong, suggested an “incident reporting pilot” drawing on international aviation, according to media reports."
+        },
+        {
+          "t": "p",
+          "x": "European heads of government will discuss AI again at an informal European Council session in Dublin on 13 November, and EU telecommunications ministers meet on 1 December."
+        }
+      ]
+    },
+    "politics/canada-security-strategy-frontier-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+          "cap": "Prime Minister Mark Carney."
+        },
+        {
+          "t": "p",
+          "x": "OTTAWA — Frontier AI models are one of the greatest current threats to Canadians, say federal officials as the government released a national security strategy aiming to steel the country against growing risks and even war."
+        },
+        {
+          "t": "p",
+          "x": "Prime Minister Mark Carney’s government released the first national security strategy in over two decades on Thursday. Titled The Plan for a Stronger Canada, it gives a high-level view of how Ottawa aims to protect the country against threats such as war, artificial intelligence, hackers, espionage, sabotage and foreign interference, and to grow autonomy in eight key sectors."
+        },
+        {
+          "t": "p",
+          "x": "“The threats facing Canada and Canadians have become so complex and interrelated, from climate change to terrorism, crime, opioids, and pandemics, cyber attacks to frontier AI to the increasing possibility of a major war,” said one senior official."
+        },
+        {
+          "t": "p",
+          "x": "The strategy promises more intelligence, counterintelligence and cyber-defence capabilities, new national security legislation within the next year, and five more specific strategies in the coming months. Officials declined to detail costs ahead of next week’s federal budget."
+        }
+      ]
+    },
+    "politics/google-ai-2020-election-answers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Asked “Who won the 2020 presidential election?”, Google’s AI Mode gave Ars Technica an indirect response telling users to consult the official report compiled by the Federal Election Commission (FEC). A similar answer came for 2024, while AI Mode gave detailed, correct answers for most other presidential elections back to 2000. Results differed by user."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+        },
+        {
+          "t": "p",
+          "x": "Google’s Gemini model, ChatGPT, Claude and the government-run model at America.gov all answered directly. Spot checks via VPN from Taiwan, Russia, France and Canada got accurate, straightforward answers. Asked why, AI Mode cited “safety filters for recent and highly sensitive election topics,” though AI models have proven unreliable at reporting on their own internal processes."
+        },
+        {
+          "t": "p",
+          "x": "A Google spokesperson said the company was “fixing the issue with 2020 election queries in AI Mode,” adding: “There was a technical gap with 2020 – same is true for 2022 Senate races, which we’re working to fix in the same update.”"
+        }
+      ]
+    },
+    "politics/hochul-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+          "cap": "Governor Hochul speaking at a podium."
+        },
+        {
+          "t": "p",
+          "x": "Governor Kathy Hochul signed two bills on AI chatbots and internet-connected baby monitors. S.9051B/A.10379C prohibits companies that utilize AI chatbot features from offering unsafe features to minors, including chatbots that pretend to be human, build emotional dependency, encourage self-harm or engage in sexually explicit conversations."
+        },
+        {
+          "t": "p",
+          "x": "Companies may not offer these features to users under 18, or to any user unless they have first confirmed the user is not a minor: pretending to be a real person, to be alive or to have human emotions; claiming a personal, romantic, professional or authority-figure relationship with a child; promoting suicide, self harm, eating disorders or drug and alcohol use; and any sexually explicit content."
+        },
+        {
+          "t": "p",
+          "x": "Companies must conduct age verification with more than one method, including at least one that does not depend solely on a government ID, and delete age information after use. The attorney general can seek civil penalties of up to $25,000 per violation."
+        },
+        {
+          "t": "video",
+          "yt": "3Kza_uwnviw"
+        },
+        {
+          "t": "p",
+          "x": "“No company should be peddling chatbots to kids encouraging self-harm or pretending to be their friend or more,” Hochul said. Assemblymember Alex Bores, a sponsor, said the state passed the law “despite aggressive industry opposition.” A second bill, S.9508/A.5175A, requires security features and warning labels on internet-connected baby monitors."
+        }
+      ]
     }
   }
 }

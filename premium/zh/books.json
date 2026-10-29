@@ -7983,6 +7983,118 @@
           "x": "全文仅向Jane Friedman新闻通讯的付费订阅者开放。"
         }
       ]
+    },
+    "books/books-aoi-illustrator-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+          "cap": "插画师(Illustrator) © Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "插画师协会(Association of Illustrators，AOI)的一项新调查发现，越来越多的插画师因生成式AI(GenAI)失去工作和收入，这项技术“不仅改变了插画师接到的工作量，也改变了委托的构成、估价和执行方式”。"
+        }
+      ]
+    },
+    "books/books-stanford-anthropic-optout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+          "cap": "图书馆书架上堆放的书籍。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic此前曾用非法获取的Stanford教授Tobias Wolff、Abraham Verghese、Chang-Rae Lee、Daniel Mason、Hayagreeva Rao和Myra Strober的作品训练Claude。在Bartz v. Anthropic案中，William Alsup法官裁定Anthropic不得再通过盗版图书建立永久性中央图书馆，同时认定为训练Claude而合法获取图书属于合理使用(fair use)。"
+        },
+        {
+          "t": "p",
+          "x": "$1.5B 和解金发放给了近500,000部登记作品的作者和出版商。Wolff和另外27位作者认为这一和解并不足够。英语系荣休教授Wolff说：“他们在使用我的作品却不付钱。”他有10部出版物未经许可被用于AI训练。"
+        },
+        {
+          "t": "p",
+          "x": "Wolff与英语系教授Chang-rae Lee一同退出了Bartz和解。2026年5月，他们另行提起非集体诉讼Cruz v. Anthropic，要求由陪审团审理，就每部被侵权作品索赔最高$150,000的全额法定赔偿，高于Bartz和解中每部作品约$3,000的金额。他们指控Anthropic从LibGen和PiLiMi等“影子图书馆”下载了他们的书；若胜诉，他们将获得永久禁令，禁止使用其作品训练Claude模型。"
+        },
+        {
+          "t": "p",
+          "x": "集体诉讼原告、Stanford Law学者Paul Goldstein指出了“交易成本”问题：“平台要从每一部——或者说任何一部——作品的版权所有者那里取得许可，根本不切实际。”除Bartz和Cruz案外，作者、视觉艺术家和新闻机构已对AI公司提起了70多起侵权诉讼。"
+        }
+      ]
+    },
+    "books/books-ifrro-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "该报告题为《The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works》，与知识产权法教授Eleonora Rosati合作完成，梳理了法律与政策格局，并公布了IFRRO 2026年对近2,000名受访者开展的全球调查结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "受访者中，超过90%认为“生成式AI已直接且负面地影响了”权利人的收入；超过75%认为AI将“取代创意工作者”；96%认为现行版权框架未能充分保护他们；超过50%认为“AI专用许可(AI-specific licenses)”将“大大改善其经济状况”。"
+        },
+        {
+          "t": "p",
+          "x": "研究得出结论：“在未经同意、缺乏透明度且无报酬的情况下大规模(large-scale)擅自使用受保护内容”在“法律和经济上都不可持续”，并提出三项“根本”条件：作者和权利人的同意与控制、有效的版权原则，以及贯穿训练和输出生成全过程的高度透明。IFRRO将于11月23日举办网络研讨会，届时Rosati将介绍主要发现。"
+        }
+      ]
+    },
+    "books/books-toonflow-brainventures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
+          "cap": "Brainventures在Adobe Exchange正式上架网络漫画本地化插件“ToonFlow”"
+        },
+        {
+          "t": "p",
+          "x": "基于AI的网络漫画本地化专业企业Brainventures(代表Kim Won-hoe)将自动完成网络漫画翻译与嵌字工作的Photoshop插件“ToonFlow”上架至Adobe官方插件市场“Adobe Exchange”。借此，一款以单一流程处理从对话框检测到文本识别、翻译、嵌字等网络漫画本地化主要工序的Photoshop插件，正式在全球市场发行。"
+        },
+        {
+          "t": "p",
+          "x": "ToonFlow是一款人工智能(AI)插件，旨在让网络漫画本地化从业者无需离开现有的Adobe Photoshop工作环境即可完成翻译和嵌字工作。它一站式提供对话框及文本区域检测、包括竖排文字在内的原文光学字符识别(OCR)、结合术语表的语境化机器翻译，以及自动匹配字体的嵌字功能。尤其是采用按顺序执行多阶段工序的“自动驾驶(Autopilot)”功能，无需切换标签页即可一次完成全部流程，并配备保存各作品专属设置的“预设”功能和可对照前后结果的“原文/译文对比面板”，提升了审校便利性。"
+        },
+        {
+          "t": "p",
+          "x": "该插件在“2026年高阳型民间投资联动技术创业支援项目(高阳型TIPS)”的支持下开发。公司于3月在高阳市设立分公司，5月入选高阳型TIPS并着手研发。目前支持韩语、日语、英语3种语言，通过Adobe Exchange和ToonFlow官方网站发布。新注册账户可免费试用1话。公司预计，随着以往以手工为主的嵌字流程实现自动化，作业耗时将大幅缩短。"
+        },
+        {
+          "t": "p",
+          "x": "Brainventures代表Kim Won-hoe表示：“我们把多年积累的网络漫画本地化技术，实现在了从业者最熟悉的Photoshop环境中。”他还说：“我们将持续提升技术，力争成为全球网络漫画制作公司和平台发行商在一线信赖的核心本地化解决方案。”"
+        },
+        {
+          "t": "p",
+          "x": "此外，Brainventures是“板桥创业区”的入驻企业。该区由中小风险企业部于2017年设立，由创业振兴院与京畿创造经济革新中心共同运营，是国内最大的创业支援集群。"
+        }
+      ]
+    },
+    "books/macmillan-noa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+          "cap": "照片插图：Jacqui VanLiew; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "2024年1月的一个早晨，Macmillan Publishers位于Lower Manhattan的总部员工上班时，从一张张欢迎新成员“NOA”的传单前走过。员工餐厅挂满紫色气球，一盘甜甜圈拼出了“NOA IS HERE”字样。NOA——No Ordinary Assistant——是一款AI聊天机器人，由Macmillan母公司Holtzbrinck“支持”的德国软件公司Chaptr开发。"
+        },
+        {
+          "t": "p",
+          "x": "员工们说，公司鼓励他们用NOA撰写邮件、起草文案、做营销调研和构思创意，后来还让他们用它生成绩效考核目标。一名员工说：“它糟透了，没人用。”2025年10月，员工通过全员邮件得知Chaptr将停用NOA；员工们说，此后管理层一直在尝试引入Google Gemini。Macmillan的Kelly Collins表示：“所述内容并未准确反映NOA的推出和沟通方式。”"
+        },
+        {
+          "t": "p",
+          "x": "在Penguin Random House，员工说公司鼓励他们使用ChatGPT Enterprise，尽管PRH的德国分部正在起诉OpenAI。多位Big Five出版社的畅销书作者表示，AI的使用损害了他们与出版社的关系。一位作者说：“我们要求的最低限度是披露。”"
+        }
+      ]
     }
   }
 }

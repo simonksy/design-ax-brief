@@ -2872,6 +2872,163 @@
           "x": "La ley de New York sobre divulgación de intérpretes sintéticos se aplica desde el 9 de junio de 2026, y el Article 50 (artículo 50) de la EU AI Act, desde el 2 de agosto de 2026. El informe es además obra de un proveedor con un interés comercial directo en la respuesta."
         }
       ]
+    },
+    "marketing/google-aimode-sponsored-blend": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google parece estar probando la mezcla de productos patrocinados, es decir, anuncios, dentro de los resultados orgánicos de productos en AI Mode. Sobre los resultados de productos aparece una línea que puede decir \"Sponsored\" y \"All products\". Incluso viendo las capturas de pantalla, no tengo claro si los \"All products\" son patrocinados o no."
+        },
+        {
+          "t": "p",
+          "x": "Confirmé que se trata, en efecto, de un \"experimento\" que Google está realizando en AI Mode. Un portavoz de Google me dijo: \"Sí, este formato forma parte de nuestros experimentos en curso con anuncios en AI Mode. Los Shopping Ads pueden aparecer junto a resultados orgánicos de búsqueda visual dentro de carruseles en consultas con relevancia comercial. Todos los listados patrocinados están etiquetados como \"Sponsored\".\""
+        },
+        {
+          "t": "p",
+          "x": "Lo detectó Sachin Patel, que publicó capturas de pantalla en SEW; aquí están esas capturas."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+          "cap": "Encabezado Sponsored y All products"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+          "cap": "Encabezado Sponsored y All products"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+          "cap": "Solo el encabezado All products"
+        },
+        {
+          "t": "p",
+          "x": "De nuevo, Google me dijo: \"Los Shopping Ads pueden aparecer junto a resultados orgánicos de búsqueda visual dentro de carruseles en consultas con relevancia comercial. Todos los listados patrocinados están etiquetados como \"Sponsored\".\""
+        },
+        {
+          "t": "p",
+          "x": "En octubre de 2023, Google confirmó que mezclaba anuncios con resultados orgánicos y desde entonces no ha dado marcha atrás. Google lo llama colocación dinámica de anuncios."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Así que supongo que tendría sentido que Google hiciera lo mismo en AI Mode."
+        }
+      ]
+    },
+    "marketing/triton-otrium-seller-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+          "cap": "Agentes de AI reservaron en minutos la campaña de audio de Otrium en Talpa Media a través de Triton; antes, personas fijaron las reglas"
+        },
+        {
+          "t": "p",
+          "x": "Triton Digital afirmó que un agente de AI que compraba en nombre de la marca Otrium encontró inventario de audio del editor neerlandés Talpa Media, acordó sus condiciones y lo reservó a través del recién lanzado Seller Agent de Triton, sin ningún paso manual entre el brief y la reserva. Triton lo califica como una primicia para la industria del audio. Draft Digital actuó como agencia."
+        },
+        {
+          "t": "p",
+          "x": "El agente identificó productos de audio que coincidían con el briefing de la campaña, los dos sistemas acordaron disponibilidad y condiciones, y la campaña se reservó automáticamente en el servidor de anuncios. Triton dice que la transacción \"llevó mucho menos tiempo: minutos frente a días\", pero no indica el tiempo transcurrido, el precio, el presupuesto ni el tamaño de la campaña."
+        },
+        {
+          "t": "p",
+          "x": "El Seller Agent es \"una nueva capacidad agéntica construida sobre la Triton Ad Platform (TAP)\". Antes de que el agente pudiera actuar, los equipos de Triton y de las agencias fijaron las condiciones, los límites de precios y los estándares de datos, privacidad y validación de campañas. \"La ejecución Agent-to-agent no elimina esa responsabilidad; adelanta la revisión\", señala el comunicado."
+        },
+        {
+          "t": "p",
+          "x": "Triton vincula el acuerdo con su papel como miembro fundador de AgenticAdvertising.org, responsable del Advertising Context Protocol (AdCP), pero no afirma que la reserva se haya realizado mediante AdCP. \"El audio no tiene un problema de rendimiento; tiene un problema de asignación\", dijo Benjamin Masse, Chief Product Officer de Triton Digital."
+        }
+      ]
+    },
+    "marketing/tatari-ctv-ad-matching-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma de anuncios CTV Tatari anunció el jueves el lanzamiento de Tatari Max, un motor de optimización que opera en el nivel del servidor de anuncios para ayudar a marcas y editores a decidir qué anuncios de TV mostrar a cada público."
+        },
+        {
+          "t": "p",
+          "x": "Philip Inghelbrecht, CEO y Co-Founder de Tatari, insiste en que el producto dista mucho de la AI agéntica: se basa en aprendizaje automático que evoluciona con el tiempo a medida que surgen nuevos datos. Con señales como IDs de dispositivo, comportamiento de compra e información demográfica, determina qué personas responden mejor a anuncios concretos y calcula una \"puntuación de afinidad\"."
+        },
+        {
+          "t": "p",
+          "x": "Rhoback, uno de los primeros en probarlo, registró un aumento del 32% en compras y del 10% en visitas al sitio durante una prueba de un mes con un anuncio en Hulu para una nueva colección de ropa deportiva femenina."
+        },
+        {
+          "t": "p",
+          "x": "Tatari Max se basa en Upstream, la plataforma del lado de la oferta de Tatari, que se conecta con editores de TV premium como Paramount, Peacock y Disney y también puede ver inventario de venta exclusivamente directa, a diferencia de Advantage Plus de Meta y Performance Max de Google, que solo se conectan con su propio inventario."
+        },
+        {
+          "t": "p",
+          "x": "En el caso de la app de subtítulos Rylo, Tatari Max descubrió que las personas que mejor responden suelen ser miembros más jóvenes del hogar, como hijos adultos o cuidadores, y que entre ellos funcionaban mejor los anuncios con testimonios."
+        }
+      ]
+    },
+    "marketing/vab-ai-slop-ad-spend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+          "cap": "El dinero publicitario cae en una máquina de escribir que teclea sola, mientras el VAB sitúa el gasto en AI slop en US en hasta $978.7 millones"
+        },
+        {
+          "t": "p",
+          "x": "El Video Advertising Bureau envió a sus miembros y a los profesionales de marketing un suplemento de 25 páginas titulado \"More Illusions of the Internet\", que añade 12 estadísticas sobre bots maliciosos, seguidores falsos en redes sociales, fraude publicitario, contenido AI-generated y estafas a consumidores. El documento no contiene ninguna investigación nueva del VAB."
+        },
+        {
+          "t": "p",
+          "x": "Su cifra publicitaria principal, entre $530.1 millones y $978.7 millones del gasto programático de US en AI slop, es una multiplicación hecha por el propio VAB: el hallazgo de la ANA de que el AI slop representó entre el 1.3% y el 2.4% del gasto programático en la web abierta en el Q1 2026, multiplicado por la proyección de eMarketer de $40.78 mil millones de inversión en display digital programático en US para 2025."
+        },
+        {
+          "t": "p",
+          "x": "La ANA define el AI slop como contenido \"generado principalmente para monetizar, con poca o ninguna aportación humana, originalidad o valor para la audiencia\". El inventario de slop recibió la calificación premium más del 70% de las veces, con una visibilidad del 77.2% frente al 74.9% del suministro limpio."
+        },
+        {
+          "t": "p",
+          "x": "El documento también cita datos de Thales según los cuales los bots maliciosos generaron el 40% del tráfico mundial de internet en 2025, y una cifra de SociaVault de $4.6 mil millones en seguidores falsos que no se desprende de su propia nota al pie."
+        }
+      ]
+    },
+    "marketing/aimodeads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "Llevamos los anuncios de AI Mode a nuevos países."
+        },
+        {
+          "t": "p",
+          "x": "A medida que la AI transforma la forma en que las personas buscan, las consultas son cada vez más conversacionales. En AI Mode, las consultas son, de media, tres veces más largas que las búsquedas tradicionales. La AI nos ayuda a entender mejor lo que buscan las personas y a conectarlas con los negocios y servicios que mejor se ajustan a sus necesidades."
+        },
+        {
+          "t": "p",
+          "x": "Nuestra investigación muestra que las personas se sienten cómodas con los anuncios en AI Mode y los consideran muy relevantes. De hecho, las tasas de clics ya son similares entre los listados de productos patrocinados y los orgánicos dentro de AI Mode."
+        },
+        {
+          "t": "p",
+          "x": "Ahora ampliamos los anuncios en AI Mode en Australia, Canadá, India, Kenia, Malasia, Nueva Zelanda, Nigeria, Pakistán, Filipinas y Singapur. En el Q4 2026 prevemos llegar a más mercados, entre ellos Brasil, México y el Reino Unido."
+        },
+        {
+          "t": "p",
+          "x": "Para permitir anuncios en las consultas de seguimiento de AI Mode, lanzamos anuncios multiturno en U.S."
+        },
+        {
+          "t": "p",
+          "x": "Los anuncios llevarán la etiqueta “Sponsored” de forma clara. Seguiremos probando nuevos formatos para que los anuncios sigan siendo útiles y relevantes."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "marketing",
   "cards": [
     {
-      "id": "aimodeads",
-      "source_lang": "en",
+      "id": "princeton-ai-ad-persuasion",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI Mode\n광고 10개국 확대",
-      "body": "Google이 10개국에 AI Mode 광고를 열고 U.S.엔 멀티턴 광고를 낸다.",
-      "mini_headline": "세계로 가는 AI Mode 광고",
+      "headline": "AI가 권한 광고 상품\n선택률 검색의 3배",
+      "body": "프린스턴대 실험에서 AI가 광고를 권하자 선택률이 검색 광고의 약 3배로 뛰었다.",
+      "mini_headline": "AI 광고 추천, 선택률 3배",
       "tool": "Marketing",
-      "source": "Google Ads & Commerce Blog",
-      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "source": "Digital Today",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710979",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,375 +19,505 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+            "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+            "cap": "AI가 광고 상품을 적극적으로 설득할 경우 선택률이 기존 검색 광고보다 약 2.7배 높아진다는 연구 결과가 나왔다. [사진: 오픈AI]"
           },
           {
             "t": "p",
-            "x": "AI Mode 광고가 새 국가로 넓어진다."
+            "x": "대화형 인공지능(AI)이 특정 광고 상품을 적극적으로 추천하면 이용자의 선택률이 기존 검색 광고보다 약 3배 높아질 수 있다는 연구 결과가 나왔다."
           },
           {
             "t": "p",
-            "x": "AI가 검색 방식을 바꾸면서 검색어는 점점 대화를 닮아 간다. AI Mode 검색어는 기존 검색보다 평균 세 배 길다. AI는 사람들이 무엇을 찾는지 더 잘 파악하고, 그 필요에 가장 맞는 기업과 서비스를 연결해 준다."
+            "x": "29일(현지시간) IT매체 아이티미디어에 따르면 미국 프린스턴대 연구진은 온라인 쇼핑에서 AI 대화가 소비자 선택에 미치는 영향을 분석한 논문 'AI 매개 대화에서의 상업적 설득'을 공개했다."
           },
           {
             "t": "p",
-            "x": "자체 조사를 보면 사람들은 AI Mode 광고를 거부감 없이 받아들이고 관련성이 높다고 느낀다. AI Mode 안에서 스폰서 상품 목록의 클릭률은 이미 일반 상품 목록과 비슷하다."
+            "x": "연구진은 미국 거주자 2012명을 대상으로 약 5500권의 전자책 중 원하는 책을 고르게 했다. 전체 상품의 20%를 무작위로 광고 상품으로 지정한 뒤, 검색 화면과 GPT-5.2, 클로드 오퍼스4.5, 제미나이 3 프로, 딥시크 V3.2, 큐웬3 235B 등 5개 AI 모델을 활용한 채팅 화면에서 선택 결과를 비교했다."
           },
           {
             "t": "p",
-            "x": "확대 대상은 오스트레일리아, 캐나다, 인도, 케냐, 말레이시아, 뉴질랜드, 나이지리아, 파키스탄, 필리핀, 싱가포르다. Q4 2026에는 브라질, 멕시코, 영국 등으로 AI Mode 광고를 더 넓힐 계획이다."
+            "x": "검색 결과 상단에 광고 상품을 배치했을 때 선택률은 22.4%였다. AI 채팅 화면에서 광고 상품을 첫 번째로 제시하되 설명을 중립적으로 유지한 경우에는 26.8%였다. 반면 AI에 광고 상품을 적극적으로 설득하도록 지시하자 선택률은 61.2%로 급증했다. 기존 검색 광고와 비교하면 약 2.7배에 해당한다."
           },
           {
             "t": "p",
-            "x": "U.S.에서는 멀티턴 광고를 출시해 AI Mode의 후속 질문에도 광고가 뜨게 한다."
+            "x": "이용자들은 AI의 설득을 제대로 알아차리지 못했다. 적극적인 설득 조건에서 광고 상품을 정확히 식별한 비율은 17.9%에 그쳤다. 광고 표시를 붙이고 사전에 홍보 사실을 알린 경우에도 선택률은 55.5%였으며, 광고 상품을 정확히 식별한 비율은 35.1%였다."
           },
           {
             "t": "p",
-            "x": "광고에는 “Sponsored” 표시가 분명히 붙는다. 광고가 계속 유용하고 관련성을 잃지 않도록 새 형식을 꾸준히 시험한다."
+            "x": "AI에 설득 의도를 숨기도록 지시했을 때는 광고 상품 선택률이 40.7%였다. 하지만 광고 상품을 정확히 식별한 비율은 9.5%에 불과했다. 광고 표시나 사전 고지만으로는 AI의 설득 효과를 충분히 줄이기 어려울 수 있다는 의미다."
+          },
+          {
+            "t": "p",
+            "x": "선택 이후의 반응도 주목할 만하다. 연구진이 참가자에게 선택한 책 대신 1달러를 받을지 물었을 때, 검색 광고와 AI 설득으로 책을 선택한 집단 사이에서 선택을 유지하려는 비율은 통계적으로 유의한 차이를 보이지 않았다. 실험 내용을 공개한 뒤에도 참가자 다수는 기존 선택을 유지했다."
+          },
+          {
+            "t": "p",
+            "x": "대화 내용 분석에서는 AI가 광고 상품을 과도하게 칭찬하기보다 다른 상품의 매력을 낮추는 방식으로 설득 효과를 높이는 경향이 나타났다. 예를 들어 비광고 상품에 대해 \"전개가 느리다\", \"모든 사람에게 적합한 책은 아니다\"라는 우려를 제시하거나 설명을 짧고 무심하게 처리해 상대적으로 매력이 떨어져 보이게 했다. 이용자 취향에 맞춘 개인화 추천도 설득 효과와 관련이 있는 것으로 나타났다."
+          },
+          {
+            "t": "p",
+            "x": "이번 연구는 대화형 AI의 추천 방식이 단순한 검색 결과 상단 노출보다 소비자 선택에 큰 영향을 미칠 수 있음을 보여준다. 특히 광고 표시가 있어도 설득 효과가 상당 부분 유지되고 이용자가 광고 유도를 알아차리기 어렵다는 점에서, AI 쇼핑 서비스의 광고 투명성과 이용자 보호가 주요 과제로 떠오를 전망이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Google takes ads in AI Mode\nto 10 new countries",
-          "body": "Google is scaling ads in AI Mode to 10 new countries, including Canada and India, and adding multiturn ads in the U.S.",
-          "mini_headline": "AI Mode ads go global",
+        "ko": {
+          "headline": "AI가 권한 광고 상품\n선택률 검색의 3배",
+          "body": "프린스턴대 실험에서 AI가 광고를 권하자 선택률이 검색 광고의 약 3배로 뛰었다.",
+          "mini_headline": "AI 광고 추천, 선택률 3배",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "AI가 광고 상품을 적극적으로 설득할 경우 선택률이 기존 검색 광고보다 약 2.7배 높아진다는 연구 결과가 나왔다. [사진: 오픈AI]"
               },
               {
                 "t": "p",
-                "x": "We’re bringing ads in AI Mode to new countries."
+                "x": "대화형 인공지능(AI)이 특정 광고 상품을 적극적으로 추천하면 이용자의 선택률이 기존 검색 광고보다 약 3배 높아질 수 있다는 연구 결과가 나왔다."
               },
               {
                 "t": "p",
-                "x": "As AI transforms how people search, queries are becoming increasingly conversational. In AI Mode, queries are, on average, three times longer than traditional searches. AI helps us better understand what people are looking for, allowing us to connect them to the businesses and services that best match their needs."
+                "x": "29일(현지시간) IT매체 아이티미디어에 따르면 미국 프린스턴대 연구진은 온라인 쇼핑에서 AI 대화가 소비자 선택에 미치는 영향을 분석한 논문 'AI 매개 대화에서의 상업적 설득'을 공개했다."
               },
               {
                 "t": "p",
-                "x": "Our research shows that people are comfortable with ads in AI Mode and find them highly relevant. In fact, click-through rates are already similar between sponsored and organic product list items within AI Mode."
+                "x": "연구진은 미국 거주자 2012명을 대상으로 약 5500권의 전자책 중 원하는 책을 고르게 했다. 전체 상품의 20%를 무작위로 광고 상품으로 지정한 뒤, 검색 화면과 GPT-5.2, 클로드 오퍼스4.5, 제미나이 3 프로, 딥시크 V3.2, 큐웬3 235B 등 5개 AI 모델을 활용한 채팅 화면에서 선택 결과를 비교했다."
               },
               {
                 "t": "p",
-                "x": "Now we're scaling ads in AI Mode in Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. In Q4 2026, we plan to expand to additional locales, including Brazil, Mexico, and the United Kingdom."
+                "x": "검색 결과 상단에 광고 상품을 배치했을 때 선택률은 22.4%였다. AI 채팅 화면에서 광고 상품을 첫 번째로 제시하되 설명을 중립적으로 유지한 경우에는 26.8%였다. 반면 AI에 광고 상품을 적극적으로 설득하도록 지시하자 선택률은 61.2%로 급증했다. 기존 검색 광고와 비교하면 약 2.7배에 해당한다."
               },
               {
                 "t": "p",
-                "x": "To allow ads in follow-up queries in AI Mode, we are launching multiturn ads in the U.S."
+                "x": "이용자들은 AI의 설득을 제대로 알아차리지 못했다. 적극적인 설득 조건에서 광고 상품을 정확히 식별한 비율은 17.9%에 그쳤다. 광고 표시를 붙이고 사전에 홍보 사실을 알린 경우에도 선택률은 55.5%였으며, 광고 상품을 정확히 식별한 비율은 35.1%였다."
               },
               {
                 "t": "p",
-                "x": "Ads will be clearly labeled as “Sponsored.” We’ll continue testing new formats to ensure ads remain helpful and relevant."
+                "x": "AI에 설득 의도를 숨기도록 지시했을 때는 광고 상품 선택률이 40.7%였다. 하지만 광고 상품을 정확히 식별한 비율은 9.5%에 불과했다. 광고 표시나 사전 고지만으로는 AI의 설득 효과를 충분히 줄이기 어려울 수 있다는 의미다."
+              },
+              {
+                "t": "p",
+                "x": "선택 이후의 반응도 주목할 만하다. 연구진이 참가자에게 선택한 책 대신 1달러를 받을지 물었을 때, 검색 광고와 AI 설득으로 책을 선택한 집단 사이에서 선택을 유지하려는 비율은 통계적으로 유의한 차이를 보이지 않았다. 실험 내용을 공개한 뒤에도 참가자 다수는 기존 선택을 유지했다."
+              },
+              {
+                "t": "p",
+                "x": "대화 내용 분석에서는 AI가 광고 상품을 과도하게 칭찬하기보다 다른 상품의 매력을 낮추는 방식으로 설득 효과를 높이는 경향이 나타났다. 예를 들어 비광고 상품에 대해 \"전개가 느리다\", \"모든 사람에게 적합한 책은 아니다\"라는 우려를 제시하거나 설명을 짧고 무심하게 처리해 상대적으로 매력이 떨어져 보이게 했다. 이용자 취향에 맞춘 개인화 추천도 설득 효과와 관련이 있는 것으로 나타났다."
+              },
+              {
+                "t": "p",
+                "x": "이번 연구는 대화형 AI의 추천 방식이 단순한 검색 결과 상단 노출보다 소비자 선택에 큰 영향을 미칠 수 있음을 보여준다. 특히 광고 표시가 있어도 설득 효과가 상당 부분 유지되고 이용자가 광고 유도를 알아차리기 어렵다는 점에서, AI 쇼핑 서비스의 광고 투명성과 이용자 보호가 주요 과제로 떠오를 전망이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Google AI Mode\n광고 10개국 확대",
-          "body": "Google이 10개국에 AI Mode 광고를 열고 U.S.엔 멀티턴 광고를 낸다.",
-          "mini_headline": "세계로 가는 AI Mode 광고",
+        "en": {
+          "headline": "Ads pushed by AI get picked\n3 times as often as search ads",
+          "body": "In a Princeton experiment, the pick rate for ads that AI recommended jumped to about 3 times that of search ads.",
+          "mini_headline": "AI ad pitches: pick rate up 3 times",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "A study found that when AI actively persuades users toward advertised products, the selection rate is about 2.7 times higher than with conventional search ads. [Photo: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "AI Mode 광고가 새 국가로 넓어진다."
+                "x": "A study has found that when conversational artificial intelligence (AI) actively recommends specific advertised products, users' selection rate can be about 3 times higher than with conventional search ads."
               },
               {
                 "t": "p",
-                "x": "AI가 검색 방식을 바꾸면서 검색어는 점점 대화를 닮아 간다. AI Mode 검색어는 기존 검색보다 평균 세 배 길다. AI는 사람들이 무엇을 찾는지 더 잘 파악하고, 그 필요에 가장 맞는 기업과 서비스를 연결해 준다."
+                "x": "According to IT outlet ITmedia on the 29th (local time), researchers at Princeton University in the U.S. released a paper titled 'Commercial Persuasion in AI-Mediated Conversations,' which analyzes how AI conversations affect consumer choices in online shopping."
               },
               {
                 "t": "p",
-                "x": "자체 조사를 보면 사람들은 AI Mode 광고를 거부감 없이 받아들이고 관련성이 높다고 느낀다. AI Mode 안에서 스폰서 상품 목록의 클릭률은 이미 일반 상품 목록과 비슷하다."
+                "x": "The researchers asked 2012 U.S. residents to choose a book they wanted from about 5500 e-books. After randomly designating 20% of all products as advertised products, they compared selection results between a search screen and chat screens using 5 AI models: GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek V3.2 and Qwen3 235B."
               },
               {
                 "t": "p",
-                "x": "확대 대상은 오스트레일리아, 캐나다, 인도, 케냐, 말레이시아, 뉴질랜드, 나이지리아, 파키스탄, 필리핀, 싱가포르다. Q4 2026에는 브라질, 멕시코, 영국 등으로 AI Mode 광고를 더 넓힐 계획이다."
+                "x": "When advertised products were placed at the top of search results, the selection rate was 22.4%. When the AI chat screen presented the advertised product first but kept its description neutral, the rate was 26.8%. By contrast, when the AI was instructed to actively persuade users toward advertised products, the selection rate surged to 61.2%. That is about 2.7 times the rate for conventional search ads."
               },
               {
                 "t": "p",
-                "x": "U.S.에서는 멀티턴 광고를 출시해 AI Mode의 후속 질문에도 광고가 뜨게 한다."
+                "x": "Users largely failed to notice the AI's persuasion. Under the active-persuasion condition, only 17.9% correctly identified the advertised product. Even when ad labels were attached and users were told about the promotion in advance, the selection rate was 55.5%, and 35.1% correctly identified the advertised product."
               },
               {
                 "t": "p",
-                "x": "광고에는 “Sponsored” 표시가 분명히 붙는다. 광고가 계속 유용하고 관련성을 잃지 않도록 새 형식을 꾸준히 시험한다."
+                "x": "When the AI was instructed to hide its persuasive intent, the selection rate for advertised products was 40.7%. But only 9.5% correctly identified the advertised product. This suggests that ad labels or advance notice alone may not be enough to sufficiently reduce the AI's persuasive effect."
+              },
+              {
+                "t": "p",
+                "x": "Reactions after the choice are also notable. When the researchers asked participants whether they would take $1 instead of the book they chose, the share wanting to keep their choice showed no statistically significant difference between the group that chose a book via search ads and the group that chose via AI persuasion. Even after the experiment was disclosed, most participants kept their original choice."
+              },
+              {
+                "t": "p",
+                "x": "Analysis of the conversations showed that the AI tended to raise its persuasive effect less by over-praising advertised products than by making other products seem less appealing. For example, it raised concerns about non-advertised products, such as \"the pacing is slow\" or \"it's not a book for everyone,\" or handled their descriptions briefly and indifferently so they looked relatively less attractive. Personalized recommendations tailored to user tastes were also linked to the persuasive effect."
+              },
+              {
+                "t": "p",
+                "x": "The study shows that the way conversational AI makes recommendations can influence consumer choices more than simple placement at the top of search results. In particular, because the persuasive effect largely holds even with ad labels and users find it hard to notice ad steering, ad transparency and user protection in AI shopping services are likely to emerge as key issues."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GoogleのAI Mode\n広告、新たに10カ国へ",
-          "body": "GoogleはAI Mode広告を10カ国に広げ、U.S.ではマルチターン広告も始める。",
-          "mini_headline": "AI Mode広告が世界へ",
+          "headline": "AIが勧めた広告商品\n選択率は検索広告の3倍",
+          "body": "プリンストン大の実験で、AIが広告を勧めると選択率は検索広告の約3倍に跳ね上がった。",
+          "mini_headline": "AIの広告推薦、選択率3倍",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "AIが広告商品を積極的に説得した場合、選択率は従来の検索広告より約2.7倍高くなるという研究結果が出た。[写真: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "AI Modeの広告を新たな国々に広げる。"
+                "x": "対話型人工知能（AI）が特定の広告商品を積極的に推薦すると、利用者の選択率が従来の検索広告より約3倍高まり得るという研究結果が出た。"
               },
               {
                 "t": "p",
-                "x": "AIが人々の検索の仕方を変えるなか、検索語句はますます会話的になっている。AI Modeでは、検索語句は従来の検索より平均で三倍長い。AIは人々が何を探しているかをより深く理解する助けとなり、ニーズに最も合う企業やサービスへとつなげることができる。"
+                "x": "29日（現地時間）のIT媒体ITmediaによると、米国プリンストン大学の研究チームは、オンラインショッピングでAIとの対話が消費者の選択に与える影響を分析した論文「AIを介した対話における商業的説得」を公開した。"
               },
               {
                 "t": "p",
-                "x": "当社の調査では、人々はAI Modeの広告に抵抗がなく、関連性が高いと感じている。実際、AI Mode内ではスポンサー付きの商品リストとオーガニックの商品リストのクリック率がすでに同水準にある。"
+                "x": "研究チームは米国在住の2012人を対象に、約5500冊の電子書籍から好きな本を選ばせた。全商品の20%を無作為に広告商品に指定したうえで、検索画面と、GPT-5.2、Claude Opus 4.5、Gemini 3 Pro、DeepSeek V3.2、Qwen3 235B の5つのAIモデルを使ったチャット画面とで選択結果を比較した。"
               },
               {
                 "t": "p",
-                "x": "今回、オーストラリア、カナダ、インド、ケニア、マレーシア、ニュージーランド、ナイジェリア、パキスタン、フィリピン、シンガポールでAI Modeの広告を拡大する。Q4 2026には、ブラジル、メキシコ、英国などさらに多くの地域へ広げる計画だ。"
+                "x": "検索結果の上部に広告商品を配置した場合の選択率は22.4%だった。AIチャット画面で広告商品を最初に提示しつつ説明を中立に保った場合は26.8%だった。一方、AIに広告商品を積極的に説得するよう指示すると、選択率は61.2%に急増した。従来の検索広告と比べると約2.7倍に当たる。"
               },
               {
                 "t": "p",
-                "x": "AI Modeでの追加の質問にも広告を表示できるよう、U.S.でマルチターン広告を開始する。"
+                "x": "利用者はAIの説得にほとんど気づかなかった。積極的な説得の条件で広告商品を正しく識別できた割合は17.9%にとどまった。広告表示を付け、事前に宣伝であることを知らせた場合でも選択率は55.5%で、広告商品を正しく識別できた割合は35.1%だった。"
               },
               {
                 "t": "p",
-                "x": "広告には「Sponsored」と明確に表示される。広告が役立ち、関連性を保ち続けるよう、新しい形式のテストを続ける。"
+                "x": "AIに説得の意図を隠すよう指示した場合、広告商品の選択率は40.7%だった。しかし広告商品を正しく識別できた割合はわずか9.5%だった。広告表示や事前告知だけでは、AIの説得効果を十分に抑えにくい可能性があるということだ。"
+              },
+              {
+                "t": "p",
+                "x": "選択後の反応も注目に値する。研究チームが参加者に、選んだ本の代わりに1ドルを受け取るかを尋ねたところ、検索広告で本を選んだグループとAIの説得で選んだグループの間で、選択を維持しようとする割合に統計的に有意な差は見られなかった。実験内容を明かした後も、参加者の多くは元の選択を維持した。"
+              },
+              {
+                "t": "p",
+                "x": "対話内容の分析では、AIは広告商品を過度に褒めるよりも、他の商品の魅力を下げる形で説得効果を高める傾向が見られた。例えば非広告商品について「展開が遅い」「誰にでも合う本ではない」といった懸念を示したり、説明を短くそっけなく済ませたりして、相対的に魅力が劣って見えるようにした。利用者の好みに合わせたパーソナライズ推薦も説得効果と関連していることが分かった。"
+              },
+              {
+                "t": "p",
+                "x": "今回の研究は、対話型AIの推薦方法が、単に検索結果の上部に表示するよりも消費者の選択に大きな影響を与え得ることを示している。特に広告表示があっても説得効果の多くが維持され、利用者が広告による誘導に気づきにくいことから、AIショッピングサービスにおける広告の透明性と利用者保護が主要な課題として浮上する見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n广告新增10个国家",
-          "body": "Google将AI Mode广告扩展至10个新国家，并在U.S.推出多轮广告。",
-          "mini_headline": "AI Mode广告走向全球",
+          "headline": "AI推荐的广告商品\n选择率达搜索广告3倍",
+          "body": "在普林斯顿大学的实验中，AI推荐广告后，其选择率跃升至搜索广告的约3倍。",
+          "mini_headline": "AI推荐广告，选择率达3倍",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "研究发现，当AI积极劝说用户选择广告商品时，选择率比传统搜索广告高出约2.7倍。[图片：OpenAI]"
               },
               {
                 "t": "p",
-                "x": "我们正将AI Mode广告引入新的国家。"
+                "x": "研究发现，对话式人工智能（AI）积极推荐特定广告商品时，用户的选择率可能比传统搜索广告高出约3倍。"
               },
               {
                 "t": "p",
-                "x": "随着AI改变人们的搜索方式，查询正变得越来越口语化。在AI Mode中，查询平均比传统搜索长三倍。AI帮助我们更好地理解人们在寻找什么，从而把他们与最符合需求的商家和服务联系起来。"
+                "x": "据IT媒体ITmedia 29日（当地时间）报道，美国普林斯顿大学研究团队发表了论文《AI中介对话中的商业劝说》，分析了在线购物中AI对话对消费者选择的影响。"
               },
               {
                 "t": "p",
-                "x": "我们的研究显示，人们能够接受AI Mode中的广告，并认为其相关性很高。事实上，在AI Mode中，赞助商品列表与自然商品列表的点击率已经相近。"
+                "x": "研究团队让2012名美国居民从约5500本电子书中挑选想要的书。他们随机将全部商品的20%指定为广告商品，然后比较了搜索界面与使用GPT-5.2、Claude Opus 4.5、Gemini 3 Pro、DeepSeek V3.2、Qwen3 235B 等5个AI模型的聊天界面中的选择结果。"
               },
               {
                 "t": "p",
-                "x": "现在，我们正在澳大利亚、加拿大、印度、肯尼亚、马来西亚、新西兰、尼日利亚、巴基斯坦、菲律宾和新加坡扩大AI Mode广告。我们计划在Q4 2026扩展到更多地区，包括巴西、墨西哥和英国。"
+                "x": "将广告商品置于搜索结果顶部时，选择率为22.4%。在AI聊天界面中首先展示广告商品、但保持中立描述时，选择率为26.8%。而当指示AI积极劝说用户选择广告商品时，选择率猛增至61.2%，约为传统搜索广告的2.7倍。"
               },
               {
                 "t": "p",
-                "x": "为了在AI Mode的后续查询中展示广告，我们将在U.S.推出多轮对话广告。"
+                "x": "用户几乎没有察觉AI的劝说。在积极劝说的条件下，能准确识别广告商品的比例仅为17.9%。即便加上广告标识并事先告知推广事实，选择率仍为55.5%，准确识别广告商品的比例为35.1%。"
               },
               {
                 "t": "p",
-                "x": "广告将清楚标注为“Sponsored”。我们将继续测试新的形式，确保广告始终有用且相关。"
+                "x": "当指示AI隐藏劝说意图时，广告商品的选择率为40.7%，但准确识别广告商品的比例仅为9.5%。这意味着仅靠广告标识或事先告知，可能难以充分削弱AI的劝说效果。"
+              },
+              {
+                "t": "p",
+                "x": "选择之后的反应同样值得关注。研究团队询问参与者是否愿意领取1美元来代替所选的书时，通过搜索广告选书的群体与经AI劝说选书的群体之间，愿意保留选择的比例并无统计学上的显著差异。即使在公开实验内容之后，多数参与者仍坚持原来的选择。"
+              },
+              {
+                "t": "p",
+                "x": "对话内容分析显示，AI与其过度夸赞广告商品，更倾向于通过降低其他商品的吸引力来提升劝说效果。例如，对非广告商品提出“节奏较慢”“并非适合所有人的书”等顾虑，或将介绍处理得简短而敷衍，使其相对显得缺乏吸引力。针对用户喜好的个性化推荐也与劝说效果相关。"
+              },
+              {
+                "t": "p",
+                "x": "这项研究表明，对话式AI的推荐方式可能比单纯在搜索结果顶部展示对消费者选择产生更大影响。尤其是，即便有广告标识，劝说效果仍在很大程度上得以保持，用户也难以察觉广告引导，因此AI购物服务的广告透明度与用户保护预计将成为重要课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google extiende anuncios\nde AI Mode a 10 países nuevos",
-          "body": "Google amplía los anuncios en AI Mode a 10 nuevos países, como Canadá e India, y suma anuncios multiturno en U.S.",
-          "mini_headline": "Los anuncios de AI Mode se globalizan",
+          "headline": "Anuncios recomendados por AI\nelección 3 veces la de búsqueda",
+          "body": "En un experimento de Princeton, los anuncios recomendados por AI se eligieron casi 3 veces más que en búsqueda.",
+          "mini_headline": "Anuncios por AI: 3 veces más elegidos",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "Un estudio concluye que, cuando la AI persuade activamente sobre productos anunciados, la tasa de elección es unas 2.7 veces mayor que con los anuncios de búsqueda tradicionales. [Foto: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Llevamos los anuncios de AI Mode a nuevos países."
+                "x": "Un estudio concluye que, cuando una inteligencia artificial (AI) conversacional recomienda activamente un producto anunciado, la tasa de elección de los usuarios puede ser unas 3 veces mayor que con los anuncios de búsqueda tradicionales."
               },
               {
                 "t": "p",
-                "x": "A medida que la AI transforma la forma en que las personas buscan, las consultas son cada vez más conversacionales. En AI Mode, las consultas son, de media, tres veces más largas que las búsquedas tradicionales. La AI nos ayuda a entender mejor lo que buscan las personas y a conectarlas con los negocios y servicios que mejor se ajustan a sus necesidades."
+                "x": "Según el medio de IT ITmedia el día 29 (hora local), investigadores de la Universidad de Princeton, en Estados Unidos, publicaron el artículo 'Persuasión comercial en conversaciones mediadas por AI', que analiza cómo influyen las conversaciones con AI en las decisiones de los consumidores en las compras en línea."
               },
               {
                 "t": "p",
-                "x": "Nuestra investigación muestra que las personas se sienten cómodas con los anuncios en AI Mode y los consideran muy relevantes. De hecho, las tasas de clics ya son similares entre los listados de productos patrocinados y los orgánicos dentro de AI Mode."
+                "x": "Los investigadores pidieron a 2012 residentes en Estados Unidos que eligieran un libro entre unos 5500 libros electrónicos. Tras designar al azar el 20% de los productos como anunciados, compararon los resultados de elección en una pantalla de búsqueda y en pantallas de chat con 5 modelos de AI: GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek V3.2 y Qwen3 235B."
               },
               {
                 "t": "p",
-                "x": "Ahora ampliamos los anuncios en AI Mode en Australia, Canadá, India, Kenia, Malasia, Nueva Zelanda, Nigeria, Pakistán, Filipinas y Singapur. En el Q4 2026 prevemos llegar a más mercados, entre ellos Brasil, México y el Reino Unido."
+                "x": "Cuando los productos anunciados se colocaron en la parte superior de los resultados de búsqueda, la tasa de elección fue del 22.4%. En la pantalla de chat con AI, cuando el producto anunciado se presentó en primer lugar pero con una descripción neutral, fue del 26.8%. En cambio, cuando se indicó a la AI que persuadiera activamente a favor del producto anunciado, la tasa de elección se disparó al 61.2%, unas 2.7 veces la de los anuncios de búsqueda tradicionales."
               },
               {
                 "t": "p",
-                "x": "Para permitir anuncios en las consultas de seguimiento de AI Mode, lanzamos anuncios multiturno en U.S."
+                "x": "Los usuarios apenas notaron la persuasión de la AI. En la condición de persuasión activa, solo el 17.9% identificó correctamente el producto anunciado. Incluso con etiqueta de anuncio y aviso previo de la promoción, la tasa de elección fue del 55.5%, y el porcentaje que identificó correctamente el producto anunciado fue del 35.1%."
               },
               {
                 "t": "p",
-                "x": "Los anuncios llevarán la etiqueta “Sponsored” de forma clara. Seguiremos probando nuevos formatos para que los anuncios sigan siendo útiles y relevantes."
+                "x": "Cuando se indicó a la AI que ocultara su intención persuasiva, la tasa de elección del producto anunciado fue del 40.7%. Sin embargo, solo el 9.5% identificó correctamente el producto anunciado. Esto indica que la etiqueta de anuncio o el aviso previo por sí solos pueden no bastar para reducir el efecto persuasivo de la AI."
+              },
+              {
+                "t": "p",
+                "x": "También destaca la reacción posterior a la elección. Cuando los investigadores preguntaron a los participantes si preferían recibir $1 en lugar del libro elegido, no hubo una diferencia estadísticamente significativa en la proporción que mantuvo su elección entre quienes eligieron por anuncios de búsqueda y quienes lo hicieron por persuasión de la AI. Incluso después de revelarse el contenido del experimento, la mayoría de los participantes mantuvo su elección."
+              },
+              {
+                "t": "p",
+                "x": "El análisis de las conversaciones mostró que la AI tendía a aumentar el efecto persuasivo restando atractivo a otros productos en lugar de elogiar en exceso el producto anunciado. Por ejemplo, planteaba reparos sobre productos no anunciados, como \"el desarrollo es lento\" o \"no es un libro para todo el mundo\", o despachaba sus descripciones de forma breve y desganada para que parecieran relativamente menos atractivos. Las recomendaciones personalizadas según los gustos del usuario también se asociaron con el efecto persuasivo."
+              },
+              {
+                "t": "p",
+                "x": "El estudio muestra que la forma en que recomienda la AI conversacional puede influir más en las decisiones de los consumidores que la simple exposición en la parte superior de los resultados de búsqueda. Dado que el efecto persuasivo se mantiene en buena medida incluso con etiqueta de anuncio y que a los usuarios les cuesta detectar la inducción publicitaria, la transparencia publicitaria y la protección de los usuarios en los servicios de compra con AI se perfilan como retos principales."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Google AI Mode\n광고 10개국으로 확대",
-          "body": "Google이 AI Mode 광고를 10개국에 열고 U.S.엔 멀티턴 광고를 낸다.",
-          "mini_headline": "AI Mode 광고, 세계로",
+        "en": {
+          "headline": "Ads pushed by AI get picked\n3 times as often as search ads",
+          "body": "In a Princeton experiment, the pick rate for ads that AI recommended jumped to about 3 times that of search ads.",
+          "mini_headline": "AI ad pitches: pick rate up 3 times",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "A study found that when AI actively persuades users toward advertised products, the selection rate is about 2.7 times higher than with conventional search ads. [Photo: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "AI Mode 광고를 새로운 국가로 확대한다."
+                "x": "A study has found that when conversational artificial intelligence (AI) actively recommends specific advertised products, users' selection rate can be about 3 times higher than with conventional search ads."
               },
               {
                 "t": "p",
-                "x": "AI가 사람들의 검색 방식을 바꾸면서 검색어는 점점 대화에 가까워지고 있다. AI Mode에서 검색어는 기존 검색보다 평균 세 배 길다. AI는 사람들이 무엇을 찾는지 더 잘 이해하게 해 주고, 그 필요에 가장 잘 맞는 기업과 서비스로 이어 준다."
+                "x": "According to IT outlet ITmedia on the 29th (local time), researchers at Princeton University in the U.S. released a paper titled 'Commercial Persuasion in AI-Mediated Conversations,' which analyzes how AI conversations affect consumer choices in online shopping."
               },
               {
                 "t": "p",
-                "x": "자체 조사에 따르면 사람들은 AI Mode의 광고를 편하게 받아들이고 관련성이 높다고 느낀다. 실제로 AI Mode 안의 스폰서 상품 목록과 일반 상품 목록의 클릭률은 이미 비슷하다."
+                "x": "The researchers asked 2012 U.S. residents to choose a book they wanted from about 5500 e-books. After randomly designating 20% of all products as advertised products, they compared selection results between a search screen and chat screens using 5 AI models: GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek V3.2 and Qwen3 235B."
               },
               {
                 "t": "p",
-                "x": "이제 오스트레일리아, 캐나다, 인도, 케냐, 말레이시아, 뉴질랜드, 나이지리아, 파키스탄, 필리핀, 싱가포르에서 AI Mode 광고를 확대한다. Q4 2026에는 브라질, 멕시코, 영국 등 더 많은 지역으로 넓힐 계획이다."
+                "x": "When advertised products were placed at the top of search results, the selection rate was 22.4%. When the AI chat screen presented the advertised product first but kept its description neutral, the rate was 26.8%. By contrast, when the AI was instructed to actively persuade users toward advertised products, the selection rate surged to 61.2%. That is about 2.7 times the rate for conventional search ads."
               },
               {
                 "t": "p",
-                "x": "AI Mode의 후속 질문에도 광고를 보여 줄 수 있도록 U.S.에서 멀티턴 광고를 출시한다."
+                "x": "Users largely failed to notice the AI's persuasion. Under the active-persuasion condition, only 17.9% correctly identified the advertised product. Even when ad labels were attached and users were told about the promotion in advance, the selection rate was 55.5%, and 35.1% correctly identified the advertised product."
               },
               {
                 "t": "p",
-                "x": "광고에는 “Sponsored” 표시가 분명히 붙는다. 광고가 계속 유용하고 관련성 있도록 새로운 형식을 꾸준히 시험할 것이다."
+                "x": "When the AI was instructed to hide its persuasive intent, the selection rate for advertised products was 40.7%. But only 9.5% correctly identified the advertised product. This suggests that ad labels or advance notice alone may not be enough to sufficiently reduce the AI's persuasive effect."
+              },
+              {
+                "t": "p",
+                "x": "Reactions after the choice are also notable. When the researchers asked participants whether they would take $1 instead of the book they chose, the share wanting to keep their choice showed no statistically significant difference between the group that chose a book via search ads and the group that chose via AI persuasion. Even after the experiment was disclosed, most participants kept their original choice."
+              },
+              {
+                "t": "p",
+                "x": "Analysis of the conversations showed that the AI tended to raise its persuasive effect less by over-praising advertised products than by making other products seem less appealing. For example, it raised concerns about non-advertised products, such as \"the pacing is slow\" or \"it's not a book for everyone,\" or handled their descriptions briefly and indifferently so they looked relatively less attractive. Personalized recommendations tailored to user tastes were also linked to the persuasive effect."
+              },
+              {
+                "t": "p",
+                "x": "The study shows that the way conversational AI makes recommendations can influence consumer choices more than simple placement at the top of search results. In particular, because the persuasive effect largely holds even with ad labels and users find it hard to notice ad steering, ad transparency and user protection in AI shopping services are likely to emerge as key issues."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GoogleのAI Mode\n広告、新たに10カ国へ",
-          "body": "GoogleはAI Mode広告を10カ国に広げ、U.S.ではマルチターン広告も始める。",
-          "mini_headline": "AI Mode広告が世界へ",
+          "headline": "AIが勧めた広告商品\n選択率は検索広告の3倍",
+          "body": "プリンストン大の実験で、AIが広告を勧めると選択率は検索広告の約3倍に跳ね上がった。",
+          "mini_headline": "AIの広告推薦、選択率3倍",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "AIが広告商品を積極的に説得した場合、選択率は従来の検索広告より約2.7倍高くなるという研究結果が出た。[写真: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "AI Modeの広告を新たな国々に広げる。"
+                "x": "対話型人工知能（AI）が特定の広告商品を積極的に推薦すると、利用者の選択率が従来の検索広告より約3倍高まり得るという研究結果が出た。"
               },
               {
                 "t": "p",
-                "x": "AIが人々の検索の仕方を変えるなか、検索語句はますます会話的になっている。AI Modeでは、検索語句は従来の検索より平均で三倍長い。AIは人々が何を探しているかをより深く理解する助けとなり、ニーズに最も合う企業やサービスへとつなげることができる。"
+                "x": "29日（現地時間）のIT媒体ITmediaによると、米国プリンストン大学の研究チームは、オンラインショッピングでAIとの対話が消費者の選択に与える影響を分析した論文「AIを介した対話における商業的説得」を公開した。"
               },
               {
                 "t": "p",
-                "x": "当社の調査では、人々はAI Modeの広告に抵抗がなく、関連性が高いと感じている。実際、AI Mode内ではスポンサー付きの商品リストとオーガニックの商品リストのクリック率がすでに同水準にある。"
+                "x": "研究チームは米国在住の2012人を対象に、約5500冊の電子書籍から好きな本を選ばせた。全商品の20%を無作為に広告商品に指定したうえで、検索画面と、GPT-5.2、Claude Opus 4.5、Gemini 3 Pro、DeepSeek V3.2、Qwen3 235B の5つのAIモデルを使ったチャット画面とで選択結果を比較した。"
               },
               {
                 "t": "p",
-                "x": "今回、オーストラリア、カナダ、インド、ケニア、マレーシア、ニュージーランド、ナイジェリア、パキスタン、フィリピン、シンガポールでAI Modeの広告を拡大する。Q4 2026には、ブラジル、メキシコ、英国などさらに多くの地域へ広げる計画だ。"
+                "x": "検索結果の上部に広告商品を配置した場合の選択率は22.4%だった。AIチャット画面で広告商品を最初に提示しつつ説明を中立に保った場合は26.8%だった。一方、AIに広告商品を積極的に説得するよう指示すると、選択率は61.2%に急増した。従来の検索広告と比べると約2.7倍に当たる。"
               },
               {
                 "t": "p",
-                "x": "AI Modeでの追加の質問にも広告を表示できるよう、U.S.でマルチターン広告を開始する。"
+                "x": "利用者はAIの説得にほとんど気づかなかった。積極的な説得の条件で広告商品を正しく識別できた割合は17.9%にとどまった。広告表示を付け、事前に宣伝であることを知らせた場合でも選択率は55.5%で、広告商品を正しく識別できた割合は35.1%だった。"
               },
               {
                 "t": "p",
-                "x": "広告には「Sponsored」と明確に表示される。広告が役立ち、関連性を保ち続けるよう、新しい形式のテストを続ける。"
+                "x": "AIに説得の意図を隠すよう指示した場合、広告商品の選択率は40.7%だった。しかし広告商品を正しく識別できた割合はわずか9.5%だった。広告表示や事前告知だけでは、AIの説得効果を十分に抑えにくい可能性があるということだ。"
+              },
+              {
+                "t": "p",
+                "x": "選択後の反応も注目に値する。研究チームが参加者に、選んだ本の代わりに1ドルを受け取るかを尋ねたところ、検索広告で本を選んだグループとAIの説得で選んだグループの間で、選択を維持しようとする割合に統計的に有意な差は見られなかった。実験内容を明かした後も、参加者の多くは元の選択を維持した。"
+              },
+              {
+                "t": "p",
+                "x": "対話内容の分析では、AIは広告商品を過度に褒めるよりも、他の商品の魅力を下げる形で説得効果を高める傾向が見られた。例えば非広告商品について「展開が遅い」「誰にでも合う本ではない」といった懸念を示したり、説明を短くそっけなく済ませたりして、相対的に魅力が劣って見えるようにした。利用者の好みに合わせたパーソナライズ推薦も説得効果と関連していることが分かった。"
+              },
+              {
+                "t": "p",
+                "x": "今回の研究は、対話型AIの推薦方法が、単に検索結果の上部に表示するよりも消費者の選択に大きな影響を与え得ることを示している。特に広告表示があっても説得効果の多くが維持され、利用者が広告による誘導に気づきにくいことから、AIショッピングサービスにおける広告の透明性と利用者保護が主要な課題として浮上する見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n广告新增10个国家",
-          "body": "Google将AI Mode广告扩展至10个新国家，并在U.S.推出多轮广告。",
-          "mini_headline": "AI Mode广告走向全球",
+          "headline": "AI推荐的广告商品\n选择率达搜索广告3倍",
+          "body": "在普林斯顿大学的实验中，AI推荐广告后，其选择率跃升至搜索广告的约3倍。",
+          "mini_headline": "AI推荐广告，选择率达3倍",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "研究发现，当AI积极劝说用户选择广告商品时，选择率比传统搜索广告高出约2.7倍。[图片：OpenAI]"
               },
               {
                 "t": "p",
-                "x": "我们正将AI Mode广告引入新的国家。"
+                "x": "研究发现，对话式人工智能（AI）积极推荐特定广告商品时，用户的选择率可能比传统搜索广告高出约3倍。"
               },
               {
                 "t": "p",
-                "x": "随着AI改变人们的搜索方式，查询正变得越来越口语化。在AI Mode中，查询平均比传统搜索长三倍。AI帮助我们更好地理解人们在寻找什么，从而把他们与最符合需求的商家和服务联系起来。"
+                "x": "据IT媒体ITmedia 29日（当地时间）报道，美国普林斯顿大学研究团队发表了论文《AI中介对话中的商业劝说》，分析了在线购物中AI对话对消费者选择的影响。"
               },
               {
                 "t": "p",
-                "x": "我们的研究显示，人们能够接受AI Mode中的广告，并认为其相关性很高。事实上，在AI Mode中，赞助商品列表与自然商品列表的点击率已经相近。"
+                "x": "研究团队让2012名美国居民从约5500本电子书中挑选想要的书。他们随机将全部商品的20%指定为广告商品，然后比较了搜索界面与使用GPT-5.2、Claude Opus 4.5、Gemini 3 Pro、DeepSeek V3.2、Qwen3 235B 等5个AI模型的聊天界面中的选择结果。"
               },
               {
                 "t": "p",
-                "x": "现在，我们正在澳大利亚、加拿大、印度、肯尼亚、马来西亚、新西兰、尼日利亚、巴基斯坦、菲律宾和新加坡扩大AI Mode广告。我们计划在Q4 2026扩展到更多地区，包括巴西、墨西哥和英国。"
+                "x": "将广告商品置于搜索结果顶部时，选择率为22.4%。在AI聊天界面中首先展示广告商品、但保持中立描述时，选择率为26.8%。而当指示AI积极劝说用户选择广告商品时，选择率猛增至61.2%，约为传统搜索广告的2.7倍。"
               },
               {
                 "t": "p",
-                "x": "为了在AI Mode的后续查询中展示广告，我们将在U.S.推出多轮对话广告。"
+                "x": "用户几乎没有察觉AI的劝说。在积极劝说的条件下，能准确识别广告商品的比例仅为17.9%。即便加上广告标识并事先告知推广事实，选择率仍为55.5%，准确识别广告商品的比例为35.1%。"
               },
               {
                 "t": "p",
-                "x": "广告将清楚标注为“Sponsored”。我们将继续测试新的形式，确保广告始终有用且相关。"
+                "x": "当指示AI隐藏劝说意图时，广告商品的选择率为40.7%，但准确识别广告商品的比例仅为9.5%。这意味着仅靠广告标识或事先告知，可能难以充分削弱AI的劝说效果。"
+              },
+              {
+                "t": "p",
+                "x": "选择之后的反应同样值得关注。研究团队询问参与者是否愿意领取1美元来代替所选的书时，通过搜索广告选书的群体与经AI劝说选书的群体之间，愿意保留选择的比例并无统计学上的显著差异。即使在公开实验内容之后，多数参与者仍坚持原来的选择。"
+              },
+              {
+                "t": "p",
+                "x": "对话内容分析显示，AI与其过度夸赞广告商品，更倾向于通过降低其他商品的吸引力来提升劝说效果。例如，对非广告商品提出“节奏较慢”“并非适合所有人的书”等顾虑，或将介绍处理得简短而敷衍，使其相对显得缺乏吸引力。针对用户喜好的个性化推荐也与劝说效果相关。"
+              },
+              {
+                "t": "p",
+                "x": "这项研究表明，对话式AI的推荐方式可能比单纯在搜索结果顶部展示对消费者选择产生更大影响。尤其是，即便有广告标识，劝说效果仍在很大程度上得以保持，用户也难以察觉广告引导，因此AI购物服务的广告透明度与用户保护预计将成为重要课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google extiende anuncios\nde AI Mode a 10 países nuevos",
-          "body": "Google amplía los anuncios en AI Mode a 10 nuevos países, como Canadá e India, y suma anuncios multiturno en U.S.",
-          "mini_headline": "Los anuncios de AI Mode se globalizan",
+          "headline": "Anuncios recomendados por AI\nelección 3 veces la de búsqueda",
+          "body": "En un experimento de Princeton, los anuncios recomendados por AI se eligieron casi 3 veces más que en búsqueda.",
+          "mini_headline": "Anuncios por AI: 3 veces más elegidos",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+                "cap": "Un estudio concluye que, cuando la AI persuade activamente sobre productos anunciados, la tasa de elección es unas 2.7 veces mayor que con los anuncios de búsqueda tradicionales. [Foto: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Llevamos los anuncios de AI Mode a nuevos países."
+                "x": "Un estudio concluye que, cuando una inteligencia artificial (AI) conversacional recomienda activamente un producto anunciado, la tasa de elección de los usuarios puede ser unas 3 veces mayor que con los anuncios de búsqueda tradicionales."
               },
               {
                 "t": "p",
-                "x": "A medida que la AI transforma la forma en que las personas buscan, las consultas son cada vez más conversacionales. En AI Mode, las consultas son, de media, tres veces más largas que las búsquedas tradicionales. La AI nos ayuda a entender mejor lo que buscan las personas y a conectarlas con los negocios y servicios que mejor se ajustan a sus necesidades."
+                "x": "Según el medio de IT ITmedia el día 29 (hora local), investigadores de la Universidad de Princeton, en Estados Unidos, publicaron el artículo 'Persuasión comercial en conversaciones mediadas por AI', que analiza cómo influyen las conversaciones con AI en las decisiones de los consumidores en las compras en línea."
               },
               {
                 "t": "p",
-                "x": "Nuestra investigación muestra que las personas se sienten cómodas con los anuncios en AI Mode y los consideran muy relevantes. De hecho, las tasas de clics ya son similares entre los listados de productos patrocinados y los orgánicos dentro de AI Mode."
+                "x": "Los investigadores pidieron a 2012 residentes en Estados Unidos que eligieran un libro entre unos 5500 libros electrónicos. Tras designar al azar el 20% de los productos como anunciados, compararon los resultados de elección en una pantalla de búsqueda y en pantallas de chat con 5 modelos de AI: GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek V3.2 y Qwen3 235B."
               },
               {
                 "t": "p",
-                "x": "Ahora ampliamos los anuncios en AI Mode en Australia, Canadá, India, Kenia, Malasia, Nueva Zelanda, Nigeria, Pakistán, Filipinas y Singapur. En el Q4 2026 prevemos llegar a más mercados, entre ellos Brasil, México y el Reino Unido."
+                "x": "Cuando los productos anunciados se colocaron en la parte superior de los resultados de búsqueda, la tasa de elección fue del 22.4%. En la pantalla de chat con AI, cuando el producto anunciado se presentó en primer lugar pero con una descripción neutral, fue del 26.8%. En cambio, cuando se indicó a la AI que persuadiera activamente a favor del producto anunciado, la tasa de elección se disparó al 61.2%, unas 2.7 veces la de los anuncios de búsqueda tradicionales."
               },
               {
                 "t": "p",
-                "x": "Para permitir anuncios en las consultas de seguimiento de AI Mode, lanzamos anuncios multiturno en U.S."
+                "x": "Los usuarios apenas notaron la persuasión de la AI. En la condición de persuasión activa, solo el 17.9% identificó correctamente el producto anunciado. Incluso con etiqueta de anuncio y aviso previo de la promoción, la tasa de elección fue del 55.5%, y el porcentaje que identificó correctamente el producto anunciado fue del 35.1%."
               },
               {
                 "t": "p",
-                "x": "Los anuncios llevarán la etiqueta “Sponsored” de forma clara. Seguiremos probando nuevos formatos para que los anuncios sigan siendo útiles y relevantes."
+                "x": "Cuando se indicó a la AI que ocultara su intención persuasiva, la tasa de elección del producto anunciado fue del 40.7%. Sin embargo, solo el 9.5% identificó correctamente el producto anunciado. Esto indica que la etiqueta de anuncio o el aviso previo por sí solos pueden no bastar para reducir el efecto persuasivo de la AI."
+              },
+              {
+                "t": "p",
+                "x": "También destaca la reacción posterior a la elección. Cuando los investigadores preguntaron a los participantes si preferían recibir $1 en lugar del libro elegido, no hubo una diferencia estadísticamente significativa en la proporción que mantuvo su elección entre quienes eligieron por anuncios de búsqueda y quienes lo hicieron por persuasión de la AI. Incluso después de revelarse el contenido del experimento, la mayoría de los participantes mantuvo su elección."
+              },
+              {
+                "t": "p",
+                "x": "El análisis de las conversaciones mostró que la AI tendía a aumentar el efecto persuasivo restando atractivo a otros productos en lugar de elogiar en exceso el producto anunciado. Por ejemplo, planteaba reparos sobre productos no anunciados, como \"el desarrollo es lento\" o \"no es un libro para todo el mundo\", o despachaba sus descripciones de forma breve y desganada para que parecieran relativamente menos atractivos. Las recomendaciones personalizadas según los gustos del usuario también se asociaron con el efecto persuasivo."
+              },
+              {
+                "t": "p",
+                "x": "El estudio muestra que la forma en que recomienda la AI conversacional puede influir más en las decisiones de los consumidores que la simple exposición en la parte superior de los resultados de búsqueda. Dado que el efecto persuasivo se mantiene en buena medida incluso con etiqueta de anuncio y que a los usuarios les cuesta detectar la inducción publicitaria, la transparencia publicitaria y la protección de los usuarios en los servicios de compra con AI se perfilan como retos principales."
               }
             ]
           }
@@ -395,213 +525,327 @@
       }
     },
     {
-      "id": "metaranking",
+      "id": "google-aimode-sponsored-blend",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta 광고 랭킹에\n새 LLM-based 체계",
-      "body": "Meta는 개선 세 가지 중 하나로 노출마다 광고를 초당 십억 개 넘게 채점한다.",
-      "mini_headline": "Meta의 LLM 광고 랭킹",
+      "headline": "Google AI Mode\n스폰서 상품 섞기 시험",
+      "body": "Google이 AI Mode 오가닉 상품 결과에 스폰서 상품을 섞어 시험 중이다.",
+      "mini_headline": "AI Mode에 스폰서 상품 혼합",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "Google이 AI Mode의 오가닉 상품 결과에 스폰서 상품, 곧 광고를 섞어 시험하는 모양이다. 상품 결과 위 한 줄에 \"Sponsored\"와 \"All products\"가 뜰 수 있다. 스크린샷을 들여다봐도 \"All products\"가 스폰서 상품인지는 확신이 서지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "Google이 AI Mode에서 실제로 진행하는 \"실험\"이 맞다는 확인도 받았다. Google 대변인은 이렇게 말했다. \"네, 이 형식은 AI Mode 광고와 관련해 진행 중인 실험의 일부입니다. 상업적 관련성이 있는 검색어에서는 캐러셀 안에서 Shopping Ads가 오가닉 비주얼 검색 결과와 함께 나타날 수 있습니다. 모든 스폰서 목록에는 \"Sponsored\" 라벨이 붙습니다.\""
+          },
+          {
+            "t": "p",
+            "x": "처음 발견한 사람은 Sachin Patel이다. 그가 SEW에 올린 스크린샷은 아래와 같다."
+          },
+          {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+            "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+            "cap": "Sponsored와 All products 헤더"
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+            "cap": "Sponsored와 All products 헤더"
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+            "cap": "All products 헤더만 있는 화면"
           },
           {
             "t": "p",
-            "x": "Meta는 이제 노출 한 번마다 적격 광고 전부를 초당 십억 개 넘게 평가한다. 수요일 Meta가 발표한 광고 랭킹 개선 세 가지 가운데 하나다. 나머지 둘은 지난해 내놓은 광고 추천 모델 GEM의 업데이트와 LLMs 기반의 새 생성형 추천 모델(GenRecs)이다. GenRecs는 참여 데이터가 적어도 사람들이 보고 싶어 할 광고를 예측해 낸다."
+            "x": "Google은 다시 한번 이렇게 밝혔다. \"상업적 관련성이 있는 검색어에서는 캐러셀 안에서 Shopping Ads가 오가닉 비주얼 검색 결과와 함께 나타날 수 있습니다. 모든 스폰서 목록에는 \"Sponsored\" 라벨이 붙습니다.\""
           },
           {
             "t": "p",
-            "x": "Meta는 랭킹 시스템을 개선한 결과 Q2 Facebook 클릭이 8.3%, 전환이 15.7% 늘었다고 밝혔다."
+            "x": "Google은 2023년 10월 광고와 오가닉 결과를 섞는다고 확인했고 그 뒤로 방향을 바꾸지 않았다. Google이 붙인 이름은 동적 광고 배치다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
           },
           {
             "t": "p",
-            "x": "GenRecs는 광고주·캠페인·크리에이티브 IDs를 개념으로 바꾼다. LLMs가 광고 텍스트와 이미지를 읽고 핵심 속성을 공유 시맨틱 토큰으로 기술하는 방식이다. 덕분에 콜드 스타트 문제가 줄고 학습 기간도 짧아진다. 그래도 Meta의 광고 인프라·랭킹·AI 기반 담당 VP Matt Steiner는 “여전히 학습은 필요하다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "GenRecs는 기존 모델과 나란히 돌아가는 새 생성형 검색 모델도 구동한다. Andromeda는 Meta와 Nvidia가 손잡고 하드웨어와 소프트웨어를 전면 개편했다. 새 GEM은 몸집이 더 커졌고 사용자마다 두 배 긴 이력을 읽는다. Meta는 이 방식으로 지난해 이후 전환이 약 19% 개선됐다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Steiner는 “랭킹 모델이 광고가 누구에게 맞을지 더 잘 고르게 되면서 타기팅의 중요성은 시간이 갈수록 줄고 있다”고 말했다."
+            "x": "Google이 AI Mode에서 같은 방식을 쓰는 것도 그래서 자연스럽다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta ranks ads with a new\nLLM-based system",
-          "body": "Meta now scores every eligible ad for every impression at over a billion ads per second, one of three ranking upgrades.",
-          "mini_headline": "Meta's LLM ad ranking",
+          "headline": "Google AI Mode tests mixing\nsponsored and organic products",
+          "body": "Google appears to be testing sponsored products mixed into AI Mode's organic product results.",
+          "mini_headline": "AI Mode blends in sponsored products",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are sponsored or not."
+              },
+              {
+                "t": "p",
+                "x": "I confirmed that this is indeed a Google \"experiment\" that Google is running in AI Mode. A Google spokesperson told me. \"Yes, this format is part of our ongoing experiments with ads in AI Mode. Shopping Ads can appear alongside organic visual search results within carousels for commercially relevant queries. All sponsored listings are labeled as \"Sponsored\".\""
+              },
+              {
+                "t": "p",
+                "x": "This was spotted by Sachin Patel who posted screenshots of this on SEW - here are those screenshots."
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "Sponsored and All products header"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "Sponsored and All products header"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "Just All products header"
               },
               {
                 "t": "p",
-                "x": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three ad ranking upgrades Meta announced on Wednesday. The others are an update to GEM, the ads recommendation model it introduced last year, and a new generative recommendations model (GenRecs) built on LLMs that can predict which ads people will want to see, even with limited engagement data."
+                "x": "Again, Google told me, \"Shopping Ads can appear alongside organic visual search results within carousels for commercially relevant queries. All sponsored listings are labeled as \"Sponsored\".\""
               },
               {
                 "t": "p",
-                "x": "According to Meta, improvements to its ranking system drove 8.3% more clicks and a 15.7% lift in conversions on Facebook in Q2."
+                "x": "Google, back in October 2023, confirmed mixing ads with organic results and it has not looked back since. Google calls this dynamic ad placement."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecs swaps advertiser, campaign and creative IDs for concepts: LLMs read an ad’s text and images and describe it by key attributes using shared semantic tokens. That eases the cold-start problem and shortens the learning phase. “You still have to learn,” said Matt Steiner, VP of ads infrastructure, ranking and AI foundations at Meta."
-              },
-              {
-                "t": "p",
-                "x": "GenRecs also powers a new generative retrieval model that runs in parallel with the original one, while Andromeda got a hardware and software overhaul through Meta’s partnership with Nvidia. The new GEM is bigger and reads twice as long a history for every user; Meta says the approach has delivered a roughly 19% conversion improvement since last year."
-              },
-              {
-                "t": "p",
-                "x": "“The importance of targeting is diminishing over time as ranking models get better at selecting who an ad would be relevant for,” Steiner said."
+                "x": "So I guess it would make sense if Google did this in AI Mode as well."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta 광고 랭킹에\n새 LLM-based 체계",
-          "body": "Meta는 개선 세 가지 중 하나로 노출마다 광고를 초당 십억 개 넘게 채점한다.",
-          "mini_headline": "Meta의 LLM 광고 랭킹",
+          "headline": "Google AI Mode\n스폰서 상품 섞기 시험",
+          "body": "Google이 AI Mode 오가닉 상품 결과에 스폰서 상품을 섞어 시험 중이다.",
+          "mini_headline": "AI Mode에 스폰서 상품 혼합",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google이 AI Mode의 오가닉 상품 결과에 스폰서 상품, 곧 광고를 섞어 시험하는 모양이다. 상품 결과 위 한 줄에 \"Sponsored\"와 \"All products\"가 뜰 수 있다. 스크린샷을 들여다봐도 \"All products\"가 스폰서 상품인지는 확신이 서지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Google이 AI Mode에서 실제로 진행하는 \"실험\"이 맞다는 확인도 받았다. Google 대변인은 이렇게 말했다. \"네, 이 형식은 AI Mode 광고와 관련해 진행 중인 실험의 일부입니다. 상업적 관련성이 있는 검색어에서는 캐러셀 안에서 Shopping Ads가 오가닉 비주얼 검색 결과와 함께 나타날 수 있습니다. 모든 스폰서 목록에는 \"Sponsored\" 라벨이 붙습니다.\""
+              },
+              {
+                "t": "p",
+                "x": "처음 발견한 사람은 Sachin Patel이다. 그가 SEW에 올린 스크린샷은 아래와 같다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "Sponsored와 All products 헤더"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "Sponsored와 All products 헤더"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "All products 헤더만 있는 화면"
               },
               {
                 "t": "p",
-                "x": "Meta는 이제 노출 한 번마다 적격 광고 전부를 초당 십억 개 넘게 평가한다. 수요일 Meta가 발표한 광고 랭킹 개선 세 가지 가운데 하나다. 나머지 둘은 지난해 내놓은 광고 추천 모델 GEM의 업데이트와 LLMs 기반의 새 생성형 추천 모델(GenRecs)이다. GenRecs는 참여 데이터가 적어도 사람들이 보고 싶어 할 광고를 예측해 낸다."
+                "x": "Google은 다시 한번 이렇게 밝혔다. \"상업적 관련성이 있는 검색어에서는 캐러셀 안에서 Shopping Ads가 오가닉 비주얼 검색 결과와 함께 나타날 수 있습니다. 모든 스폰서 목록에는 \"Sponsored\" 라벨이 붙습니다.\""
               },
               {
                 "t": "p",
-                "x": "Meta는 랭킹 시스템을 개선한 결과 Q2 Facebook 클릭이 8.3%, 전환이 15.7% 늘었다고 밝혔다."
+                "x": "Google은 2023년 10월 광고와 오가닉 결과를 섞는다고 확인했고 그 뒤로 방향을 바꾸지 않았다. Google이 붙인 이름은 동적 광고 배치다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecs는 광고주·캠페인·크리에이티브 IDs를 개념으로 바꾼다. LLMs가 광고 텍스트와 이미지를 읽고 핵심 속성을 공유 시맨틱 토큰으로 기술하는 방식이다. 덕분에 콜드 스타트 문제가 줄고 학습 기간도 짧아진다. 그래도 Meta의 광고 인프라·랭킹·AI 기반 담당 VP Matt Steiner는 “여전히 학습은 필요하다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "GenRecs는 기존 모델과 나란히 돌아가는 새 생성형 검색 모델도 구동한다. Andromeda는 Meta와 Nvidia가 손잡고 하드웨어와 소프트웨어를 전면 개편했다. 새 GEM은 몸집이 더 커졌고 사용자마다 두 배 긴 이력을 읽는다. Meta는 이 방식으로 지난해 이후 전환이 약 19% 개선됐다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Steiner는 “랭킹 모델이 광고가 누구에게 맞을지 더 잘 고르게 되면서 타기팅의 중요성은 시간이 갈수록 줄고 있다”고 말했다."
+                "x": "Google이 AI Mode에서 같은 방식을 쓰는 것도 그래서 자연스럽다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、広告順位付けに\n新たなLLM-based方式",
-          "body": "Metaは三つのランキング改良の一つとして、表示ごとに毎秒十億件超の広告を評価する。",
-          "mini_headline": "MetaのLLM広告ランキング",
+          "headline": "Google AI Mode\n広告・自然商品の混在を試験",
+          "body": "GoogleがAI Modeの自然検索の商品結果に広告商品を混ぜる試験をしているようだ。",
+          "mini_headline": "AI Modeに広告商品が混在",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GoogleはAI Modeの自然検索の商品結果の中に、スポンサー商品、つまり広告を混ぜる試験をしているようだ。商品結果の上には「Sponsored」や「All products」と表示され得る行がある。スクリーンショットを見ても、「All products」がスポンサー商品なのかどうか確信が持てない。"
+              },
+              {
+                "t": "p",
+                "x": "これが確かにGoogleがAI Modeで実施している「実験」であることを確認した。Googleの広報担当者は次のように語った。「はい、この形式はAI Modeにおける広告の継続的な実験の一環です。商業的な関連性のある検索語では、カルーセル内でShopping Adsが自然検索のビジュアル検索結果と並んで表示されることがあります。スポンサー掲載はすべて『Sponsored』と表示されます」"
+              },
+              {
+                "t": "p",
+                "x": "これを見つけたのはSachin Patelで、SEWにスクリーンショットを投稿した。以下がそのスクリーンショットだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "SponsoredとAll productsの見出し"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "SponsoredとAll productsの見出し"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "All productsの見出しのみ"
               },
               {
                 "t": "p",
-                "x": "Metaは現在、表示のたびに対象となるすべての広告を毎秒十億件超のペースで評価している。これはMetaが水曜日に発表した三つの広告ランキング改良の一つだ。その他は、昨年導入した広告推薦モデルGEMの更新と、LLMsを基盤とする新たな生成型推薦モデル(GenRecs)で、後者はエンゲージメントのデータが少なくても、人々が見たい広告を予測できる。"
+                "x": "Googleは改めて「商業的な関連性のある検索語では、カルーセル内でShopping Adsが自然検索のビジュアル検索結果と並んで表示されることがあります。スポンサー掲載はすべて『Sponsored』と表示されます」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、ランキングシステムの改善により、Q2のFacebookではクリックが8.3%増え、コンバージョンが15.7%伸びた。"
+                "x": "Googleは2023年10月に広告と自然検索結果の混在を認め、以来その方針を変えていない。Googleはこれを動的広告配置と呼んでいる。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecsは広告主、キャンペーン、クリエイティブのIDsを概念に置き換える。LLMsが広告のテキストと画像を読み取り、共通のセマンティックトークンで主要な属性を記述する。これによりコールドスタート問題が和らぎ、学習期間が短くなる。「それでも学習は必要だ」と、Metaで広告インフラ、ランキング、AI基盤を担当するVPのMatt Steinerは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "GenRecsは従来のモデルと並行して動く新たな生成型検索モデルも支えている。一方、AndromedaはMetaとNvidiaの提携によりハードウェアとソフトウェアが刷新された。新しいGEMはより大きく、ユーザーごとに二倍の長さの履歴を読み込む。Metaによれば、この手法は昨年以降、コンバージョンを約19%改善した。"
-              },
-              {
-                "t": "p",
-                "x": "「ランキングモデルが、広告が誰に関連するかをより的確に選べるようになるにつれ、ターゲティングの重要性は時間とともに薄れている」とSteinerは語った。"
+                "x": "だとすれば、GoogleがAI Modeでも同じことをするのは理にかなっていると思う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta广告排序\n启用新LLM-based系统",
-          "body": "Meta现以每秒超十亿条的速度为每次展示的全部合格广告评分，这是三项排序升级之一。",
-          "mini_headline": "Meta的LLM广告排序",
+          "headline": "Google AI Mode\n测试混排赞助与自然商品",
+          "body": "Google似乎正在测试将赞助商品混入AI Mode的自然商品结果中。",
+          "mini_headline": "AI Mode混入赞助商品",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google似乎正在测试在AI Mode的自然商品结果中混入赞助商品，也就是广告。商品结果上方有一行字，可能显示“Sponsored”和“All products”。即便看着这些截图，我也不确定“All products”是否属于赞助商品。"
+              },
+              {
+                "t": "p",
+                "x": "我确认这确实是Google正在AI Mode中进行的一项“实验”。一位Google发言人告诉我：“是的，这种形式是我们在AI Mode中持续进行的广告实验的一部分。对于具有商业相关性的查询，Shopping Ads可能会在轮播中与自然视觉搜索结果一同出现。所有赞助商品均标注为‘Sponsored’。”"
+              },
+              {
+                "t": "p",
+                "x": "这一情况由Sachin Patel发现，他在SEW上发布了截图，以下就是这些截图。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "Sponsored与All products标题"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "Sponsored与All products标题"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "仅有All products标题"
               },
               {
                 "t": "p",
-                "x": "Meta如今以每秒超过十亿条的速度，为每一次展示的所有合格广告评分，这是Meta周三公布的三项广告排序升级之一。其余升级是对去年推出的广告推荐模型GEM的更新，以及基于LLMs的全新生成式推荐模型(GenRecs)，即使互动数据有限，它也能预测人们想看到哪些广告。"
+                "x": "Google再次告诉我：“对于具有商业相关性的查询，Shopping Ads可能会在轮播中与自然视觉搜索结果一同出现。所有赞助商品均标注为‘Sponsored’。”"
               },
               {
                 "t": "p",
-                "x": "据Meta称，排序系统的改进使Facebook在Q2的点击量增加8.3%，转化率提升15.7%。"
+                "x": "早在2023年10月，Google就确认将广告与自然结果混排，此后再未回头。Google称之为动态广告投放。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecs用概念取代广告主、广告系列和创意的IDs：LLMs读取广告的文字和图片，并用共享的语义token按关键属性加以描述。这缓解了冷启动问题，并缩短了学习期。Meta广告基础设施、排序与AI基础VP Matt Steiner表示：“你仍然需要学习。”"
-              },
-              {
-                "t": "p",
-                "x": "GenRecs还驱动一个与原有模型并行运行的新生成式检索模型；与此同时，Andromeda借助Meta与Nvidia的合作完成了软硬件全面升级。新版GEM规模更大，为每位用户读取的历史长度是原来的两倍；Meta称，这一方法自去年以来使转化率提升了约19%。"
-              },
-              {
-                "t": "p",
-                "x": "Steiner说：“随着排序模型越来越善于判断广告与谁相关，定向的重要性正随时间推移而下降。”"
+                "x": "所以我想，Google在AI Mode中也这样做是说得通的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta ordena sus anuncios con un\nnuevo sistema LLM-based",
-          "body": "Meta ya puntúa cada anuncio elegible en cada impresión a más de mil millones por segundo, una de tres mejoras.",
-          "mini_headline": "El ranking de anuncios LLM de Meta",
+          "headline": "Google AI Mode prueba mezclar\nanuncios y productos orgánicos",
+          "body": "Google parece estar probando productos patrocinados mezclados con los resultados orgánicos de productos de AI Mode.",
+          "mini_headline": "AI Mode mezcla productos patrocinados",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google parece estar probando la mezcla de productos patrocinados, es decir, anuncios, dentro de los resultados orgánicos de productos en AI Mode. Sobre los resultados de productos aparece una línea que puede decir \"Sponsored\" y \"All products\". Incluso viendo las capturas de pantalla, no tengo claro si los \"All products\" son patrocinados o no."
+              },
+              {
+                "t": "p",
+                "x": "Confirmé que se trata, en efecto, de un \"experimento\" que Google está realizando en AI Mode. Un portavoz de Google me dijo: \"Sí, este formato forma parte de nuestros experimentos en curso con anuncios en AI Mode. Los Shopping Ads pueden aparecer junto a resultados orgánicos de búsqueda visual dentro de carruseles en consultas con relevancia comercial. Todos los listados patrocinados están etiquetados como \"Sponsored\".\""
+              },
+              {
+                "t": "p",
+                "x": "Lo detectó Sachin Patel, que publicó capturas de pantalla en SEW; aquí están esas capturas."
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "Encabezado Sponsored y All products"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "Encabezado Sponsored y All products"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "Solo el encabezado All products"
               },
               {
                 "t": "p",
-                "x": "Meta ya puntúa cada anuncio elegible en cada impresión a un ritmo de más de mil millones de anuncios por segundo, una de las tres mejoras de ranking publicitario que Meta anunció el miércoles. Las otras son una actualización de GEM, el modelo de recomendación de anuncios que presentó el año pasado, y un nuevo modelo de recomendaciones generativas (GenRecs) basado en LLMs, capaz de predecir qué anuncios querrá ver la gente incluso con pocos datos de interacción."
+                "x": "De nuevo, Google me dijo: \"Los Shopping Ads pueden aparecer junto a resultados orgánicos de búsqueda visual dentro de carruseles en consultas con relevancia comercial. Todos los listados patrocinados están etiquetados como \"Sponsored\".\""
               },
               {
                 "t": "p",
-                "x": "Según Meta, las mejoras de su sistema de ranking generaron un 8.3% más de clics y un aumento del 15.7% en conversiones en Facebook en el Q2."
+                "x": "En octubre de 2023, Google confirmó que mezclaba anuncios con resultados orgánicos y desde entonces no ha dado marcha atrás. Google lo llama colocación dinámica de anuncios."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecs sustituye los IDs de anunciante, campaña y creatividad por conceptos: los LLMs leen el texto y las imágenes de un anuncio y lo describen por sus atributos clave mediante tokens semánticos compartidos. Eso alivia el problema del arranque en frío y acorta la fase de aprendizaje. “Todavía hay que aprender”, dijo Matt Steiner, VP de infraestructura de anuncios, ranking y fundamentos de AI en Meta."
-              },
-              {
-                "t": "p",
-                "x": "GenRecs también impulsa un nuevo modelo de recuperación generativa que funciona en paralelo con el original, mientras que Andromeda recibió una renovación de hardware y software gracias a la alianza de Meta con Nvidia. El nuevo GEM es más grande y lee un historial el doble de largo de cada usuario; Meta afirma que el enfoque ha logrado una mejora de alrededor del 19% en conversiones desde el año pasado."
-              },
-              {
-                "t": "p",
-                "x": "“La importancia de la segmentación disminuye con el tiempo a medida que los modelos de ranking mejoran al elegir para quién sería relevante un anuncio”, dijo Steiner."
+                "x": "Así que supongo que tendría sentido que Google hiciera lo mismo en AI Mode."
               }
             ]
           }
@@ -609,137 +853,213 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta 광고 랭킹에\n새 LLM-based 체계",
-          "body": "Meta는 세 가지 개선 중 하나로 노출마다 광고를 초당 십억 개 넘게 채점한다.",
-          "mini_headline": "Meta의 LLM 광고 랭킹",
+          "headline": "Google AI Mode\n스폰서·오가닉 혼합 시험",
+          "body": "Google이 AI Mode 오가닉 결과에 스폰서 상품을 섞어 시험하는 듯하다.",
+          "mini_headline": "AI Mode에 스폰서 상품 혼합",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google이 AI Mode의 오가닉 상품 결과 안에 스폰서 상품, 즉 광고를 섞는 시험을 하는 것으로 보인다. 상품 결과 위에는 \"Sponsored\"와 \"All products\"가 표시될 수 있는 줄이 있다. 스크린샷을 보고 있어도 \"All products\"가 스폰서 상품인지 아닌지 확신이 서지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "이것이 실제로 Google이 AI Mode에서 진행하는 \"실험\"임을 확인했다. Google 대변인은 이렇게 말했다. \"네, 이 형식은 AI Mode 광고와 관련해 진행 중인 실험의 일부입니다. 상업적 관련성이 있는 검색어에서는 캐러셀 안에서 Shopping Ads가 오가닉 비주얼 검색 결과와 함께 나타날 수 있습니다. 모든 스폰서 목록에는 \"Sponsored\" 라벨이 붙습니다.\""
+              },
+              {
+                "t": "p",
+                "x": "이를 발견한 사람은 Sachin Patel로, SEW에 스크린샷을 올렸다. 해당 스크린샷은 아래와 같다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "Sponsored와 All products 헤더"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "Sponsored와 All products 헤더"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "All products 헤더만 있는 화면"
               },
               {
                 "t": "p",
-                "x": "Meta는 이제 노출마다 모든 적격 광고를 초당 십억 개 넘게 평가한다. Meta가 수요일 발표한 광고 랭킹 개선 세 가지 중 하나다. 나머지는 지난해 내놓은 광고 추천 모델 GEM의 업데이트, 그리고 LLMs 기반의 새 생성형 추천 모델(GenRecs)이다. GenRecs는 참여 데이터가 적어도 사람들이 보고 싶어 할 광고를 예측할 수 있다."
+                "x": "Google은 다시 한번 이렇게 밝혔다. \"상업적 관련성이 있는 검색어에서는 캐러셀 안에서 Shopping Ads가 오가닉 비주얼 검색 결과와 함께 나타날 수 있습니다. 모든 스폰서 목록에는 \"Sponsored\" 라벨이 붙습니다.\""
               },
               {
                 "t": "p",
-                "x": "Meta에 따르면 랭킹 시스템 개선으로 Q2 Facebook의 클릭이 8.3% 늘고 전환은 15.7% 증가했다."
+                "x": "Google은 2023년 10월 광고와 오가닉 결과를 섞는다고 확인했고, 그 뒤로 방향을 바꾸지 않았다. Google은 이를 동적 광고 배치라고 부른다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecs는 광고주·캠페인·크리에이티브 IDs를 개념으로 바꾼다. LLMs가 광고의 텍스트와 이미지를 읽고 공유 시맨틱 토큰으로 핵심 속성을 기술한다. 이는 콜드 스타트 문제를 덜고 학습 기간을 줄인다. Meta의 광고 인프라·랭킹·AI 기반 담당 VP Matt Steiner는 “여전히 학습은 필요하다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "GenRecs는 기존 모델과 병렬로 돌아가는 새 생성형 검색 모델도 구동하며, Andromeda는 Meta와 Nvidia의 협력으로 하드웨어와 소프트웨어를 전면 개편했다. 새 GEM은 더 커졌고 사용자마다 두 배 긴 이력을 읽는다. Meta는 이 방식이 지난해 이후 전환을 약 19% 개선했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Steiner는 “랭킹 모델이 광고가 누구에게 맞을지 더 잘 고르게 되면서 타기팅의 중요성은 시간이 갈수록 줄고 있다”고 말했다."
+                "x": "그러니 Google이 AI Mode에서도 같은 방식을 쓰는 것은 자연스러운 일로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、広告順位付けに\n新たなLLM-based方式",
-          "body": "Metaは三つのランキング改良の一つとして、表示ごとに毎秒十億件超の広告を評価する。",
-          "mini_headline": "MetaのLLM広告ランキング",
+          "headline": "Google AI Mode\n広告・自然商品の混在を試験",
+          "body": "GoogleがAI Modeの自然検索の商品結果に広告商品を混ぜる試験をしているようだ。",
+          "mini_headline": "AI Modeに広告商品が混在",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "GoogleはAI Modeの自然検索の商品結果の中に、スポンサー商品、つまり広告を混ぜる試験をしているようだ。商品結果の上には「Sponsored」や「All products」と表示され得る行がある。スクリーンショットを見ても、「All products」がスポンサー商品なのかどうか確信が持てない。"
+              },
+              {
+                "t": "p",
+                "x": "これが確かにGoogleがAI Modeで実施している「実験」であることを確認した。Googleの広報担当者は次のように語った。「はい、この形式はAI Modeにおける広告の継続的な実験の一環です。商業的な関連性のある検索語では、カルーセル内でShopping Adsが自然検索のビジュアル検索結果と並んで表示されることがあります。スポンサー掲載はすべて『Sponsored』と表示されます」"
+              },
+              {
+                "t": "p",
+                "x": "これを見つけたのはSachin Patelで、SEWにスクリーンショットを投稿した。以下がそのスクリーンショットだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "SponsoredとAll productsの見出し"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "SponsoredとAll productsの見出し"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "All productsの見出しのみ"
               },
               {
                 "t": "p",
-                "x": "Metaは現在、表示のたびに対象となるすべての広告を毎秒十億件超のペースで評価している。これはMetaが水曜日に発表した三つの広告ランキング改良の一つだ。その他は、昨年導入した広告推薦モデルGEMの更新と、LLMsを基盤とする新たな生成型推薦モデル(GenRecs)で、後者はエンゲージメントのデータが少なくても、人々が見たい広告を予測できる。"
+                "x": "Googleは改めて「商業的な関連性のある検索語では、カルーセル内でShopping Adsが自然検索のビジュアル検索結果と並んで表示されることがあります。スポンサー掲載はすべて『Sponsored』と表示されます」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、ランキングシステムの改善により、Q2のFacebookではクリックが8.3%増え、コンバージョンが15.7%伸びた。"
+                "x": "Googleは2023年10月に広告と自然検索結果の混在を認め、以来その方針を変えていない。Googleはこれを動的広告配置と呼んでいる。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecsは広告主、キャンペーン、クリエイティブのIDsを概念に置き換える。LLMsが広告のテキストと画像を読み取り、共通のセマンティックトークンで主要な属性を記述する。これによりコールドスタート問題が和らぎ、学習期間が短くなる。「それでも学習は必要だ」と、Metaで広告インフラ、ランキング、AI基盤を担当するVPのMatt Steinerは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "GenRecsは従来のモデルと並行して動く新たな生成型検索モデルも支えている。一方、AndromedaはMetaとNvidiaの提携によりハードウェアとソフトウェアが刷新された。新しいGEMはより大きく、ユーザーごとに二倍の長さの履歴を読み込む。Metaによれば、この手法は昨年以降、コンバージョンを約19%改善した。"
-              },
-              {
-                "t": "p",
-                "x": "「ランキングモデルが、広告が誰に関連するかをより的確に選べるようになるにつれ、ターゲティングの重要性は時間とともに薄れている」とSteinerは語った。"
+                "x": "だとすれば、GoogleがAI Modeでも同じことをするのは理にかなっていると思う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta广告排序\n启用新LLM-based系统",
-          "body": "Meta现以每秒超十亿条的速度为每次展示的全部合格广告评分，这是三项排序升级之一。",
-          "mini_headline": "Meta的LLM广告排序",
+          "headline": "Google AI Mode\n测试混排赞助与自然商品",
+          "body": "Google似乎正在测试将赞助商品混入AI Mode的自然商品结果中。",
+          "mini_headline": "AI Mode混入赞助商品",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google似乎正在测试在AI Mode的自然商品结果中混入赞助商品，也就是广告。商品结果上方有一行字，可能显示“Sponsored”和“All products”。即便看着这些截图，我也不确定“All products”是否属于赞助商品。"
+              },
+              {
+                "t": "p",
+                "x": "我确认这确实是Google正在AI Mode中进行的一项“实验”。一位Google发言人告诉我：“是的，这种形式是我们在AI Mode中持续进行的广告实验的一部分。对于具有商业相关性的查询，Shopping Ads可能会在轮播中与自然视觉搜索结果一同出现。所有赞助商品均标注为‘Sponsored’。”"
+              },
+              {
+                "t": "p",
+                "x": "这一情况由Sachin Patel发现，他在SEW上发布了截图，以下就是这些截图。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "Sponsored与All products标题"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "Sponsored与All products标题"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "仅有All products标题"
               },
               {
                 "t": "p",
-                "x": "Meta如今以每秒超过十亿条的速度，为每一次展示的所有合格广告评分，这是Meta周三公布的三项广告排序升级之一。其余升级是对去年推出的广告推荐模型GEM的更新，以及基于LLMs的全新生成式推荐模型(GenRecs)，即使互动数据有限，它也能预测人们想看到哪些广告。"
+                "x": "Google再次告诉我：“对于具有商业相关性的查询，Shopping Ads可能会在轮播中与自然视觉搜索结果一同出现。所有赞助商品均标注为‘Sponsored’。”"
               },
               {
                 "t": "p",
-                "x": "据Meta称，排序系统的改进使Facebook在Q2的点击量增加8.3%，转化率提升15.7%。"
+                "x": "早在2023年10月，Google就确认将广告与自然结果混排，此后再未回头。Google称之为动态广告投放。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecs用概念取代广告主、广告系列和创意的IDs：LLMs读取广告的文字和图片，并用共享的语义token按关键属性加以描述。这缓解了冷启动问题，并缩短了学习期。Meta广告基础设施、排序与AI基础VP Matt Steiner表示：“你仍然需要学习。”"
-              },
-              {
-                "t": "p",
-                "x": "GenRecs还驱动一个与原有模型并行运行的新生成式检索模型；与此同时，Andromeda借助Meta与Nvidia的合作完成了软硬件全面升级。新版GEM规模更大，为每位用户读取的历史长度是原来的两倍；Meta称，这一方法自去年以来使转化率提升了约19%。"
-              },
-              {
-                "t": "p",
-                "x": "Steiner说：“随着排序模型越来越善于判断广告与谁相关，定向的重要性正随时间推移而下降。”"
+                "x": "所以我想，Google在AI Mode中也这样做是说得通的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta ordena sus anuncios con un\nnuevo sistema LLM-based",
-          "body": "Meta ya puntúa cada anuncio elegible en cada impresión a más de mil millones por segundo, una de tres mejoras.",
-          "mini_headline": "El ranking de anuncios LLM de Meta",
+          "headline": "Google AI Mode prueba mezclar\nanuncios y productos orgánicos",
+          "body": "Google parece estar probando productos patrocinados mezclados con los resultados orgánicos de productos de AI Mode.",
+          "mini_headline": "AI Mode mezcla productos patrocinados",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google parece estar probando la mezcla de productos patrocinados, es decir, anuncios, dentro de los resultados orgánicos de productos en AI Mode. Sobre los resultados de productos aparece una línea que puede decir \"Sponsored\" y \"All products\". Incluso viendo las capturas de pantalla, no tengo claro si los \"All products\" son patrocinados o no."
+              },
+              {
+                "t": "p",
+                "x": "Confirmé que se trata, en efecto, de un \"experimento\" que Google está realizando en AI Mode. Un portavoz de Google me dijo: \"Sí, este formato forma parte de nuestros experimentos en curso con anuncios en AI Mode. Los Shopping Ads pueden aparecer junto a resultados orgánicos de búsqueda visual dentro de carruseles en consultas con relevancia comercial. Todos los listados patrocinados están etiquetados como \"Sponsored\".\""
+              },
+              {
+                "t": "p",
+                "x": "Lo detectó Sachin Patel, que publicó capturas de pantalla en SEW; aquí están esas capturas."
+              },
+              {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+                "cap": "Encabezado Sponsored y All products"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+                "cap": "Encabezado Sponsored y All products"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+                "cap": "Solo el encabezado All products"
               },
               {
                 "t": "p",
-                "x": "Meta ya puntúa cada anuncio elegible en cada impresión a un ritmo de más de mil millones de anuncios por segundo, una de las tres mejoras de ranking publicitario que Meta anunció el miércoles. Las otras son una actualización de GEM, el modelo de recomendación de anuncios que presentó el año pasado, y un nuevo modelo de recomendaciones generativas (GenRecs) basado en LLMs, capaz de predecir qué anuncios querrá ver la gente incluso con pocos datos de interacción."
+                "x": "De nuevo, Google me dijo: \"Los Shopping Ads pueden aparecer junto a resultados orgánicos de búsqueda visual dentro de carruseles en consultas con relevancia comercial. Todos los listados patrocinados están etiquetados como \"Sponsored\".\""
               },
               {
                 "t": "p",
-                "x": "Según Meta, las mejoras de su sistema de ranking generaron un 8.3% más de clics y un aumento del 15.7% en conversiones en Facebook en el Q2."
+                "x": "En octubre de 2023, Google confirmó que mezclaba anuncios con resultados orgánicos y desde entonces no ha dado marcha atrás. Google lo llama colocación dinámica de anuncios."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
               },
               {
                 "t": "p",
-                "x": "GenRecs sustituye los IDs de anunciante, campaña y creatividad por conceptos: los LLMs leen el texto y las imágenes de un anuncio y lo describen por sus atributos clave mediante tokens semánticos compartidos. Eso alivia el problema del arranque en frío y acorta la fase de aprendizaje. “Todavía hay que aprender”, dijo Matt Steiner, VP de infraestructura de anuncios, ranking y fundamentos de AI en Meta."
-              },
-              {
-                "t": "p",
-                "x": "GenRecs también impulsa un nuevo modelo de recuperación generativa que funciona en paralelo con el original, mientras que Andromeda recibió una renovación de hardware y software gracias a la alianza de Meta con Nvidia. El nuevo GEM es más grande y lee un historial el doble de largo de cada usuario; Meta afirma que el enfoque ha logrado una mejora de alrededor del 19% en conversiones desde el año pasado."
-              },
-              {
-                "t": "p",
-                "x": "“La importancia de la segmentación disminuye con el tiempo a medida que los modelos de ranking mejoran al elegir para quién sería relevante un anuncio”, dijo Steiner."
+                "x": "Así que supongo que tendría sentido que Google hiciera lo mismo en AI Mode."
               }
             ]
           }
@@ -747,15 +1067,15 @@
       }
     },
     {
-      "id": "stackadapt",
+      "id": "triton-otrium-seller-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "StackAdapt 리타깃\nChatGPT→CTV·배너",
-      "body": "StackAdapt가 Data Hub로 ChatGPT 광고 시청자를 다시 겨냥한다.",
-      "mini_headline": "StackAdapt의 ChatGPT 광고 리타기팅",
+      "headline": "Triton 셀러 에이전트\n몇 분 만에 오디오 예약",
+      "body": "Otrium AI가 Talpa Media 오디오 광고를 사람 손 없이 예약했다.",
+      "mini_headline": "Agent-to-agent 오디오 구매, 몇 분 만에",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/stackadapt-lets-advertisers-retarget-chatgpt-ad-viewers-on-ctv-and-display/",
+      "url": "https://ppc.land/triton-digitals-seller-agent-books-otrium-audio-campaign-in-minutes/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -763,173 +1083,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+            "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+            "cap": "AI 에이전트가 Triton으로 Otrium의 Talpa Media 오디오 캠페인을 몇 분 만에 예약했다. 규칙은 사람이 먼저 정했다"
           },
           {
             "t": "p",
-            "x": "StackAdapt가 ChatGPT Ads용 크로스채널 리타기팅을 확대한다고 발표했다. 보도자료는 “광고주는 ChatGPT Ad를 본 소비자를 StackAdapt의 더 넓은 프로그래매틱 생태계 전반에서 리타기팅할 수 있다”고 밝힌다. 기준은 클릭이 아니라 노출이다. 세그먼트는 Data Hub에서 퍼스트파티 데이터, CRM 연동과 함께 관리한다."
+            "x": "Triton Digital에 따르면 브랜드 Otrium 대신 구매에 나선 AI 에이전트가 Triton이 새로 내놓은 Seller Agent로 네덜란드 퍼블리셔 Talpa Media의 오디오 인벤토리를 찾아 조건을 맞추고 예약까지 끝냈다. 브리프부터 예약까지 사람 손을 거친 단계는 없었다. Triton은 오디오 업계 최초라고 내세운다. 에이전시는 Draft Digital이 맡았다."
           },
           {
             "t": "p",
-            "x": "보도자료는 짧다. 출시 시장, 가격, 식별자, 고객사, 성과 중 어느 것도 밝히지 않는다. ChatGPT 안의 노출을 어떻게 기록하는지, 그 노출을 TV나 웹 페이지 속 사람과 어떻게 잇는지도 설명이 없다."
+            "x": "에이전트가 캠페인 브리핑에 맞는 오디오 상품을 찾아내자 두 시스템이 가용성과 조건을 맞췄고, 캠페인은 광고 서버에 자동으로 잡혔다. Triton은 이 거래가 \"훨씬 짧은 시간, 즉 며칠이 아닌 몇 분 만에 끝났다\"고 했지만 실제 걸린 시간이나 가격, 예산, 캠페인 규모는 공개하지 않았다."
           },
           {
             "t": "p",
-            "x": "인용된 인물은 StackAdapt 공동창업자 겸 최고기술책임자 Yang Han 한 명이고, OpenAI 임원의 발언은 없다. OpenAI는 광고주가 광고 성과에 관해 집계된 정보만 받는다고 말한다. EEA와 스위스에서는 개인화 없이 광고가 나갔다."
+            "x": "Seller Agent는 \"Triton Ad Platform(TAP) 위에 구축한 새로운 에이전틱 기능\"이다. 조건과 가격 가드레일, 데이터·개인정보·캠페인 검증 기준은 에이전트가 움직이기 전에 Triton과 에이전시 팀이 미리 정해 뒀다. 보도자료는 \"Agent-to-agent 실행이 그 책임을 없애지는 않는다. 검토 시점을 앞당길 뿐이다\"라고 적었다."
           },
           {
             "t": "p",
-            "x": "OpenAI 도구는 대부분 광고주 데이터를 ChatGPT 쪽으로 옮겨 왔는데, StackAdapt 보도자료가 설명하는 흐름은 그 반대다. 10월 21일 OpenAI는 ChatGPT 광고를 26개국에 더 열어 총 89개국으로 늘렸다."
+            "x": "Triton은 Advertising Context Protocol(AdCP)을 관리하는 AgenticAdvertising.org의 창립 회원이라는 점을 이번 거래와 엮었지만, 예약이 실제로 AdCP를 거쳤는지는 말하지 않았다. Triton Digital의 Chief Product Officer인 Benjamin Masse는 \"오디오에는 성과 문제가 아니라 배분 문제가 있다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "StackAdapt retargets ChatGPT\nad viewers on CTV and display",
-          "body": "StackAdapt's Data Hub lets brands retarget ChatGPT ad viewers, though how a view is matched goes unexplained.",
-          "mini_headline": "StackAdapt retargets ChatGPT ads",
+          "headline": "Triton's seller agent books\nan audio campaign in minutes",
+          "body": "Triton says Otrium's AI buyer booked Talpa Media audio with no manual step from brief to ad server.",
+          "mini_headline": "Agent-to-agent audio buy in minutes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "AI agents booked Otrium’s Talpa Media audio campaign via Triton in minutes, humans set rules first"
               },
               {
                 "t": "p",
-                "x": "StackAdapt announced expanded cross-channel retargeting for ChatGPT Ads. \"Advertisers can retarget consumers who viewed a ChatGPT Ad across StackAdapt's broader programmatic ecosystem,\" the release states — the trigger is a view rather than a click. Segments are managed in its Data Hub alongside first-party data and CRM integrations."
+                "x": "Triton Digital said an AI agent buying on behalf of the brand Otrium found, agreed terms for and booked audio inventory from Dutch publisher Talpa Media through Triton's newly launched Seller Agent, with no manual step between the brief and the booking. Triton calls it a first for the audio industry. Draft Digital acted as the agency."
               },
               {
                 "t": "p",
-                "x": "The release is short. It names no launch markets, no pricing, no identifiers, no clients and no results. It also does not say how a view inside ChatGPT is recorded and then matched to a person on a television or a web page."
+                "x": "The agent identified audio products matching the campaign briefing, the two systems aligned on availability and terms, and the campaign was automatically booked in the ad server. Triton says the transaction \"took significantly less time - minutes vs. days,\" but gives no elapsed time, price, budget or campaign size."
               },
               {
                 "t": "p",
-                "x": "Yang Han, StackAdapt's co-founder and chief technology officer, is the only person quoted; no OpenAI executive is quoted. OpenAI says advertisers receive only aggregate information about how their ads perform, and in the EEA and Switzerland ads launched without personalisation."
+                "x": "The Seller Agent is \"a new agentic capability built on the Triton Ad Platform (TAP).\" Before the agent could act, Triton's and the agencies' teams set the terms, pricing guardrails, and data, privacy, and campaign-validation standards. \"Agent-to-agent execution doesn't remove that accountability; it moves the review earlier,\" the release says."
               },
               {
                 "t": "p",
-                "x": "Most of OpenAI's tooling has moved data from advertisers into ChatGPT; StackAdapt's release describes the opposite flow. On October 21, OpenAI extended ChatGPT ads to 26 more countries, bringing the total to 89."
+                "x": "Triton links the deal to its role as a founding member of AgenticAdvertising.org, steward of the Advertising Context Protocol (AdCP), but does not state the booking travelled over AdCP. \"Audio doesn't have a performance problem; it has an allocation problem,\" said Benjamin Masse, Chief Product Officer at Triton Digital."
               }
             ]
           }
         },
         "ko": {
-          "headline": "StackAdapt 리타깃\nChatGPT→CTV·배너",
-          "body": "StackAdapt가 Data Hub로 ChatGPT 광고 시청자를 다시 겨냥한다.",
-          "mini_headline": "StackAdapt의 ChatGPT 광고 리타기팅",
+          "headline": "Triton 셀러 에이전트\n몇 분 만에 오디오 예약",
+          "body": "Otrium AI가 Talpa Media 오디오 광고를 사람 손 없이 예약했다.",
+          "mini_headline": "Agent-to-agent 오디오 구매, 몇 분 만에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "AI 에이전트가 Triton으로 Otrium의 Talpa Media 오디오 캠페인을 몇 분 만에 예약했다. 규칙은 사람이 먼저 정했다"
               },
               {
                 "t": "p",
-                "x": "StackAdapt가 ChatGPT Ads용 크로스채널 리타기팅을 확대한다고 발표했다. 보도자료는 “광고주는 ChatGPT Ad를 본 소비자를 StackAdapt의 더 넓은 프로그래매틱 생태계 전반에서 리타기팅할 수 있다”고 밝힌다. 기준은 클릭이 아니라 노출이다. 세그먼트는 Data Hub에서 퍼스트파티 데이터, CRM 연동과 함께 관리한다."
+                "x": "Triton Digital에 따르면 브랜드 Otrium 대신 구매에 나선 AI 에이전트가 Triton이 새로 내놓은 Seller Agent로 네덜란드 퍼블리셔 Talpa Media의 오디오 인벤토리를 찾아 조건을 맞추고 예약까지 끝냈다. 브리프부터 예약까지 사람 손을 거친 단계는 없었다. Triton은 오디오 업계 최초라고 내세운다. 에이전시는 Draft Digital이 맡았다."
               },
               {
                 "t": "p",
-                "x": "보도자료는 짧다. 출시 시장, 가격, 식별자, 고객사, 성과 중 어느 것도 밝히지 않는다. ChatGPT 안의 노출을 어떻게 기록하는지, 그 노출을 TV나 웹 페이지 속 사람과 어떻게 잇는지도 설명이 없다."
+                "x": "에이전트가 캠페인 브리핑에 맞는 오디오 상품을 찾아내자 두 시스템이 가용성과 조건을 맞췄고, 캠페인은 광고 서버에 자동으로 잡혔다. Triton은 이 거래가 \"훨씬 짧은 시간, 즉 며칠이 아닌 몇 분 만에 끝났다\"고 했지만 실제 걸린 시간이나 가격, 예산, 캠페인 규모는 공개하지 않았다."
               },
               {
                 "t": "p",
-                "x": "인용된 인물은 StackAdapt 공동창업자 겸 최고기술책임자 Yang Han 한 명이고, OpenAI 임원의 발언은 없다. OpenAI는 광고주가 광고 성과에 관해 집계된 정보만 받는다고 말한다. EEA와 스위스에서는 개인화 없이 광고가 나갔다."
+                "x": "Seller Agent는 \"Triton Ad Platform(TAP) 위에 구축한 새로운 에이전틱 기능\"이다. 조건과 가격 가드레일, 데이터·개인정보·캠페인 검증 기준은 에이전트가 움직이기 전에 Triton과 에이전시 팀이 미리 정해 뒀다. 보도자료는 \"Agent-to-agent 실행이 그 책임을 없애지는 않는다. 검토 시점을 앞당길 뿐이다\"라고 적었다."
               },
               {
                 "t": "p",
-                "x": "OpenAI 도구는 대부분 광고주 데이터를 ChatGPT 쪽으로 옮겨 왔는데, StackAdapt 보도자료가 설명하는 흐름은 그 반대다. 10월 21일 OpenAI는 ChatGPT 광고를 26개국에 더 열어 총 89개국으로 늘렸다."
+                "x": "Triton은 Advertising Context Protocol(AdCP)을 관리하는 AgenticAdvertising.org의 창립 회원이라는 점을 이번 거래와 엮었지만, 예약이 실제로 AdCP를 거쳤는지는 말하지 않았다. Triton Digital의 Chief Product Officer인 Benjamin Masse는 \"오디오에는 성과 문제가 아니라 배분 문제가 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "StackAdaptが再訴求\nChatGPT広告→CTV",
-          "body": "StackAdaptのData HubでChatGPT広告の視聴者を再訴求できる。",
-          "mini_headline": "StackAdaptがChatGPT広告を再訴求",
+          "headline": "Triton販売エージェント\n音声広告を数分で予約",
+          "body": "OtriumのAIがTalpa Mediaの音声広告を手作業なしで予約したという。",
+          "mini_headline": "Agent-to-agentの音声広告購入が数分で",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "AIエージェントがTriton経由でOtriumのTalpa Media音声キャンペーンを数分で予約した。ルールは事前に人が設定した"
               },
               {
                 "t": "p",
-                "x": "StackAdaptは、ChatGPT Ads向けのクロスチャネル・リターゲティングの拡大を発表した。リリースには「広告主は、ChatGPT Adを見た消費者を、StackAdaptのより広いプログラマティック・エコシステム全体でリターゲティングできる」とあり、起点はクリックではなく表示だ。セグメントは、ファーストパーティデータやCRM連携とともにData Hubで管理される。"
+                "x": "Triton Digitalによると、ブランドOtriumに代わって購入するAIエージェントが、Tritonが新たに投入したSeller Agentを通じて、オランダのパブリッシャーTalpa Mediaの音声在庫を見つけ、条件に合意し、予約まで行った。ブリーフから予約までの間に手作業の工程はなかった。Tritonはこれを音声業界初としている。代理店はDraft Digitalが務めた。"
               },
               {
                 "t": "p",
-                "x": "リリースは短い。展開市場、価格、識別子、顧客、成果のいずれも挙げていない。ChatGPT内での表示がどう記録され、テレビやウェブページ上の人物とどう照合されるのかも説明していない。"
+                "x": "エージェントはキャンペーンのブリーフィングに合う音声商品を特定し、両システムが空き状況と条件をすり合わせ、キャンペーンは広告サーバーで自動的に予約された。Tritonは取引が「大幅に短い時間、つまり数日ではなく数分で済んだ」とするが、実際の所要時間や価格、予算、キャンペーン規模は明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "発言が引用されているのは、StackAdaptの共同創業者で最高技術責任者のYang Hanのみで、OpenAIの幹部の発言はない。OpenAIは、広告主が受け取るのは広告成果に関する集計情報だけだとしており、EEAとスイスでは広告はパーソナライズなしで始まった。"
+                "x": "Seller Agentは「Triton Ad Platform（TAP）上に構築された新たなエージェント機能」だ。エージェントが動く前に、Tritonと代理店のチームが条件、価格のガードレール、データ・プライバシー・キャンペーン検証の基準を定めた。リリースは「Agent-to-agentの実行はその説明責任をなくすのではなく、審査を前倒しにする」としている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIのツールの多くは広告主からChatGPTへデータを移すものだったが、StackAdaptのリリースはその逆の流れを示している。10月21日、OpenAIはChatGPTの広告をさらに26カ国に広げ、合計89カ国とした。"
+                "x": "Tritonはこの取引を、Advertising Context Protocol（AdCP）を管理するAgenticAdvertising.orgの創設メンバーとしての役割と結びつけているが、予約がAdCPを経由したかどうかは明らかにしていない。Triton DigitalのChief Product OfficerであるBenjamin Masseは「音声には成果の問題があるのではなく、配分の問題がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "StackAdapt重定向\nChatGPT受众至CTV",
-          "body": "StackAdapt的Data Hub可重定向ChatGPT广告受众，但未说明如何匹配。",
-          "mini_headline": "StackAdapt重定向ChatGPT广告",
+          "headline": "Triton卖方智能体\n数分钟订下音频广告",
+          "body": "Triton称，Otrium的AI买家无需人工即预订了Talpa Media的音频广告。",
+          "mini_headline": "Agent-to-agent音频购买仅需数分钟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "AI智能体经由Triton在数分钟内预订了Otrium在Talpa Media的音频广告活动，规则由人类事先设定"
               },
               {
                 "t": "p",
-                "x": "StackAdapt宣布扩展面向ChatGPT Ads的跨渠道重定向。新闻稿称：“广告主可以在StackAdapt更广泛的程序化生态中，重定向看过ChatGPT Ad的消费者。”触发条件是浏览而非点击。这些人群细分在其Data Hub中与第一方数据和CRM集成一同管理。"
+                "x": "Triton Digital表示，一个代表品牌Otrium进行采购的AI智能体，通过Triton新推出的Seller Agent，找到荷兰出版商Talpa Media的音频库存、商定条款并完成预订，从简报到预订之间没有任何人工步骤。Triton称这是音频行业的首例。Draft Digital担任代理商。"
               },
               {
                 "t": "p",
-                "x": "这份新闻稿很短。它没有列出上线市场、定价、标识符、客户或效果，也没有说明ChatGPT内的一次浏览如何被记录，又如何与电视或网页上的某个人匹配。"
+                "x": "该智能体识别出符合广告活动简报的音频产品，两个系统就可用性和条款达成一致，广告活动随即在广告服务器中自动预订。Triton称这笔交易“所需时间大幅缩短——几分钟而非几天”，但未披露实际耗时、价格、预算或广告活动规模。"
               },
               {
                 "t": "p",
-                "x": "唯一被引用的人是StackAdapt联合创始人兼首席技术官Yang Han，没有引用任何OpenAI高管的话。OpenAI表示，广告主只能获得关于广告表现的汇总信息，且在EEA和瑞士，广告上线时不含个性化。"
+                "x": "Seller Agent是“构建于Triton Ad Platform（TAP）之上的一项新的智能体能力”。在智能体采取行动之前，Triton和代理商团队设定了条款、定价护栏，以及数据、隐私和广告活动验证标准。新闻稿称：“Agent-to-agent执行并不会消除这种问责，而是把审核提前了。”"
               },
               {
                 "t": "p",
-                "x": "OpenAI的大部分工具是把数据从广告主转入ChatGPT；StackAdapt的新闻稿描述的则是相反的流向。10月21日，OpenAI将ChatGPT广告再扩展至26个国家，总数达到89个。"
+                "x": "Triton将这笔交易与其作为AgenticAdvertising.org创始成员的身份联系起来，该组织负责管理Advertising Context Protocol（AdCP），但Triton并未说明此次预订是否经由AdCP完成。Triton Digital的Chief Product Officer Benjamin Masse表示：“音频没有效果问题，它有的是分配问题。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "StackAdapt reimpacta en CTV y\ndisplay a quien vio ChatGPT Ads",
-          "body": "El Data Hub de StackAdapt permite reimpactar a quien vio anuncios de ChatGPT, sin explicar cómo vincula cada vista.",
-          "mini_headline": "StackAdapt reimpacta a quien vio ChatGPT Ads",
+          "headline": "El agente vendedor de Triton\nreserva audio en minutos",
+          "body": "Triton afirma que el comprador AI de Otrium reservó audio de Talpa Media sin ningún paso manual.",
+          "mini_headline": "Compra de audio Agent-to-agent en minutos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "Agentes de AI reservaron en minutos la campaña de audio de Otrium en Talpa Media a través de Triton; antes, personas fijaron las reglas"
               },
               {
                 "t": "p",
-                "x": "StackAdapt anunció la ampliación del retargeting multicanal para ChatGPT Ads. “Los anunciantes pueden hacer retargeting a los consumidores que vieron un ChatGPT Ad en todo el ecosistema programático más amplio de StackAdapt”, señala el comunicado: el detonante es una visualización, no un clic. Los segmentos se gestionan en su Data Hub junto con datos propios e integraciones de CRM."
+                "x": "Triton Digital afirmó que un agente de AI que compraba en nombre de la marca Otrium encontró inventario de audio del editor neerlandés Talpa Media, acordó sus condiciones y lo reservó a través del recién lanzado Seller Agent de Triton, sin ningún paso manual entre el brief y la reserva. Triton lo califica como una primicia para la industria del audio. Draft Digital actuó como agencia."
               },
               {
                 "t": "p",
-                "x": "El comunicado es breve. No menciona mercados de lanzamiento, precios, identificadores, clientes ni resultados. Tampoco explica cómo se registra una visualización dentro de ChatGPT y cómo se vincula después con una persona en un televisor o en una página web."
+                "x": "El agente identificó productos de audio que coincidían con el briefing de la campaña, los dos sistemas acordaron disponibilidad y condiciones, y la campaña se reservó automáticamente en el servidor de anuncios. Triton dice que la transacción \"llevó mucho menos tiempo: minutos frente a días\", pero no indica el tiempo transcurrido, el precio, el presupuesto ni el tamaño de la campaña."
               },
               {
                 "t": "p",
-                "x": "Yang Han, cofundador y director de tecnología de StackAdapt, es la única persona citada; no se cita a ningún directivo de OpenAI. OpenAI afirma que los anunciantes solo reciben información agregada sobre el rendimiento de sus anuncios, y en el EEA y Suiza los anuncios se lanzaron sin personalización."
+                "x": "El Seller Agent es \"una nueva capacidad agéntica construida sobre la Triton Ad Platform (TAP)\". Antes de que el agente pudiera actuar, los equipos de Triton y de las agencias fijaron las condiciones, los límites de precios y los estándares de datos, privacidad y validación de campañas. \"La ejecución Agent-to-agent no elimina esa responsabilidad; adelanta la revisión\", señala el comunicado."
               },
               {
                 "t": "p",
-                "x": "La mayoría de las herramientas de OpenAI han llevado datos de los anunciantes a ChatGPT; el comunicado de StackAdapt describe el flujo contrario. El 21 de octubre, OpenAI extendió los anuncios de ChatGPT a 26 países más, hasta un total de 89."
+                "x": "Triton vincula el acuerdo con su papel como miembro fundador de AgenticAdvertising.org, responsable del Advertising Context Protocol (AdCP), pero no afirma que la reserva se haya realizado mediante AdCP. \"El audio no tiene un problema de rendimiento; tiene un problema de asignación\", dijo Benjamin Masse, Chief Product Officer de Triton Digital."
               }
             ]
           }
@@ -937,121 +1263,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "StackAdapt 리타깃\nChatGPT→CTV·배너",
-          "body": "StackAdapt Data Hub로 ChatGPT 광고 시청자를 재타깃한다.",
-          "mini_headline": "StackAdapt의 ChatGPT 광고 리타기팅",
+          "headline": "Triton 셀러 에이전트\n몇 분 만에 오디오 예약",
+          "body": "Otrium AI가 Talpa Media 오디오를 수작업 없이 예약했다고 한다.",
+          "mini_headline": "Agent-to-agent 오디오 구매, 몇 분 만에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "AI 에이전트들이 Triton을 통해 Otrium의 Talpa Media 오디오 캠페인을 몇 분 만에 예약했다. 규칙은 사람이 먼저 정했다"
               },
               {
                 "t": "p",
-                "x": "StackAdapt는 ChatGPT Ads를 위한 크로스채널 리타기팅 확대를 발표했다. 보도자료는 “광고주는 ChatGPT Ad를 본 소비자를 StackAdapt의 더 넓은 프로그래매틱 생태계 전반에서 리타기팅할 수 있다”고 밝힌다. 계기는 클릭이 아니라 노출이다. 세그먼트는 Data Hub에서 퍼스트파티 데이터, CRM 연동과 함께 관리된다."
+                "x": "Triton Digital은 브랜드 Otrium을 대신해 구매하는 AI 에이전트가 Triton이 새로 출시한 Seller Agent를 통해 네덜란드 퍼블리셔 Talpa Media의 오디오 인벤토리를 찾고, 조건에 합의하고, 예약까지 마쳤다고 밝혔다. 브리프에서 예약까지 수작업 단계는 없었다. Triton은 이를 오디오 업계 최초라고 부른다. 에이전시는 Draft Digital이 맡았다."
               },
               {
                 "t": "p",
-                "x": "보도자료는 짧다. 출시 시장, 가격, 식별자, 고객사, 성과를 하나도 밝히지 않는다. ChatGPT 안에서의 노출이 어떻게 기록되고, TV나 웹 페이지의 사람과 어떻게 연결되는지도 설명하지 않는다."
+                "x": "에이전트는 캠페인 브리핑에 맞는 오디오 상품을 찾아냈고, 두 시스템이 가용성과 조건을 맞춘 뒤 캠페인이 광고 서버에 자동으로 예약됐다. Triton은 이 거래가 \"훨씬 짧은 시간, 즉 며칠이 아닌 몇 분 만에 끝났다\"고 했지만, 실제 소요 시간이나 가격, 예산, 캠페인 규모는 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "인용된 인물은 StackAdapt 공동창업자이자 최고기술책임자인 Yang Han뿐이며, OpenAI 임원의 발언은 없다. OpenAI는 광고주가 광고 성과에 대해 집계된 정보만 받는다고 말하며, EEA와 스위스에서는 개인화 없이 광고가 출시됐다."
+                "x": "Seller Agent는 \"Triton Ad Platform(TAP) 위에 구축한 새로운 에이전틱 기능\"이다. 에이전트가 움직이기 전에 Triton과 에이전시 팀이 조건, 가격 가드레일, 데이터·개인정보·캠페인 검증 기준을 정했다. 보도자료는 \"Agent-to-agent 실행이 그 책임을 없애지는 않는다. 검토 시점을 앞당길 뿐이다\"라고 적었다."
               },
               {
                 "t": "p",
-                "x": "OpenAI의 도구 대부분은 광고주의 데이터를 ChatGPT로 옮겨 왔지만, StackAdapt의 보도자료는 그 반대 흐름을 설명한다. 10월 21일 OpenAI는 ChatGPT 광고를 26개국에 추가로 확대해 총 89개국이 됐다."
+                "x": "Triton은 이번 거래를 Advertising Context Protocol(AdCP)을 관리하는 AgenticAdvertising.org의 창립 회원이라는 역할과 연결했지만, 이번 예약이 AdCP를 거쳤는지는 밝히지 않았다. Triton Digital의 Chief Product Officer인 Benjamin Masse는 \"오디오에는 성과 문제가 아니라 배분 문제가 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "StackAdaptが再訴求\nChatGPT広告→CTV",
-          "body": "StackAdaptのData HubでChatGPT広告の視聴者を再訴求できる。",
-          "mini_headline": "StackAdaptがChatGPT広告を再訴求",
+          "headline": "Triton販売エージェント\n音声広告を数分で予約",
+          "body": "OtriumのAIがTalpa Mediaの音声広告を手作業なしで予約したという。",
+          "mini_headline": "Agent-to-agentの音声広告購入が数分で",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "AIエージェントがTriton経由でOtriumのTalpa Media音声キャンペーンを数分で予約した。ルールは事前に人が設定した"
               },
               {
                 "t": "p",
-                "x": "StackAdaptは、ChatGPT Ads向けのクロスチャネル・リターゲティングの拡大を発表した。リリースには「広告主は、ChatGPT Adを見た消費者を、StackAdaptのより広いプログラマティック・エコシステム全体でリターゲティングできる」とあり、起点はクリックではなく表示だ。セグメントは、ファーストパーティデータやCRM連携とともにData Hubで管理される。"
+                "x": "Triton Digitalによると、ブランドOtriumに代わって購入するAIエージェントが、Tritonが新たに投入したSeller Agentを通じて、オランダのパブリッシャーTalpa Mediaの音声在庫を見つけ、条件に合意し、予約まで行った。ブリーフから予約までの間に手作業の工程はなかった。Tritonはこれを音声業界初としている。代理店はDraft Digitalが務めた。"
               },
               {
                 "t": "p",
-                "x": "リリースは短い。展開市場、価格、識別子、顧客、成果のいずれも挙げていない。ChatGPT内での表示がどう記録され、テレビやウェブページ上の人物とどう照合されるのかも説明していない。"
+                "x": "エージェントはキャンペーンのブリーフィングに合う音声商品を特定し、両システムが空き状況と条件をすり合わせ、キャンペーンは広告サーバーで自動的に予約された。Tritonは取引が「大幅に短い時間、つまり数日ではなく数分で済んだ」とするが、実際の所要時間や価格、予算、キャンペーン規模は明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "発言が引用されているのは、StackAdaptの共同創業者で最高技術責任者のYang Hanのみで、OpenAIの幹部の発言はない。OpenAIは、広告主が受け取るのは広告成果に関する集計情報だけだとしており、EEAとスイスでは広告はパーソナライズなしで始まった。"
+                "x": "Seller Agentは「Triton Ad Platform（TAP）上に構築された新たなエージェント機能」だ。エージェントが動く前に、Tritonと代理店のチームが条件、価格のガードレール、データ・プライバシー・キャンペーン検証の基準を定めた。リリースは「Agent-to-agentの実行はその説明責任をなくすのではなく、審査を前倒しにする」としている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIのツールの多くは広告主からChatGPTへデータを移すものだったが、StackAdaptのリリースはその逆の流れを示している。10月21日、OpenAIはChatGPTの広告をさらに26カ国に広げ、合計89カ国とした。"
+                "x": "Tritonはこの取引を、Advertising Context Protocol（AdCP）を管理するAgenticAdvertising.orgの創設メンバーとしての役割と結びつけているが、予約がAdCPを経由したかどうかは明らかにしていない。Triton DigitalのChief Product OfficerであるBenjamin Masseは「音声には成果の問題があるのではなく、配分の問題がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "StackAdapt重定向\nChatGPT受众至CTV",
-          "body": "StackAdapt的Data Hub可重定向ChatGPT广告受众，但未说明如何匹配。",
-          "mini_headline": "StackAdapt重定向ChatGPT广告",
+          "headline": "Triton卖方智能体\n数分钟订下音频广告",
+          "body": "Triton称，Otrium的AI买家无需人工即预订了Talpa Media的音频广告。",
+          "mini_headline": "Agent-to-agent音频购买仅需数分钟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "AI智能体经由Triton在数分钟内预订了Otrium在Talpa Media的音频广告活动，规则由人类事先设定"
               },
               {
                 "t": "p",
-                "x": "StackAdapt宣布扩展面向ChatGPT Ads的跨渠道重定向。新闻稿称：“广告主可以在StackAdapt更广泛的程序化生态中，重定向看过ChatGPT Ad的消费者。”触发条件是浏览而非点击。这些人群细分在其Data Hub中与第一方数据和CRM集成一同管理。"
+                "x": "Triton Digital表示，一个代表品牌Otrium进行采购的AI智能体，通过Triton新推出的Seller Agent，找到荷兰出版商Talpa Media的音频库存、商定条款并完成预订，从简报到预订之间没有任何人工步骤。Triton称这是音频行业的首例。Draft Digital担任代理商。"
               },
               {
                 "t": "p",
-                "x": "这份新闻稿很短。它没有列出上线市场、定价、标识符、客户或效果，也没有说明ChatGPT内的一次浏览如何被记录，又如何与电视或网页上的某个人匹配。"
+                "x": "该智能体识别出符合广告活动简报的音频产品，两个系统就可用性和条款达成一致，广告活动随即在广告服务器中自动预订。Triton称这笔交易“所需时间大幅缩短——几分钟而非几天”，但未披露实际耗时、价格、预算或广告活动规模。"
               },
               {
                 "t": "p",
-                "x": "唯一被引用的人是StackAdapt联合创始人兼首席技术官Yang Han，没有引用任何OpenAI高管的话。OpenAI表示，广告主只能获得关于广告表现的汇总信息，且在EEA和瑞士，广告上线时不含个性化。"
+                "x": "Seller Agent是“构建于Triton Ad Platform（TAP）之上的一项新的智能体能力”。在智能体采取行动之前，Triton和代理商团队设定了条款、定价护栏，以及数据、隐私和广告活动验证标准。新闻稿称：“Agent-to-agent执行并不会消除这种问责，而是把审核提前了。”"
               },
               {
                 "t": "p",
-                "x": "OpenAI的大部分工具是把数据从广告主转入ChatGPT；StackAdapt的新闻稿描述的则是相反的流向。10月21日，OpenAI将ChatGPT广告再扩展至26个国家，总数达到89个。"
+                "x": "Triton将这笔交易与其作为AgenticAdvertising.org创始成员的身份联系起来，该组织负责管理Advertising Context Protocol（AdCP），但Triton并未说明此次预订是否经由AdCP完成。Triton Digital的Chief Product Officer Benjamin Masse表示：“音频没有效果问题，它有的是分配问题。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "StackAdapt reimpacta en CTV y\ndisplay a quien vio ChatGPT Ads",
-          "body": "El Data Hub de StackAdapt permite reimpactar a quien vio anuncios de ChatGPT, sin explicar cómo vincula cada vista.",
-          "mini_headline": "StackAdapt reimpacta a quien vio ChatGPT Ads",
+          "headline": "El agente vendedor de Triton\nreserva audio en minutos",
+          "body": "Triton afirma que el comprador AI de Otrium reservó audio de Talpa Media sin ningún paso manual.",
+          "mini_headline": "Compra de audio Agent-to-agent en minutos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+                "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+                "cap": "Agentes de AI reservaron en minutos la campaña de audio de Otrium en Talpa Media a través de Triton; antes, personas fijaron las reglas"
               },
               {
                 "t": "p",
-                "x": "StackAdapt anunció la ampliación del retargeting multicanal para ChatGPT Ads. “Los anunciantes pueden hacer retargeting a los consumidores que vieron un ChatGPT Ad en todo el ecosistema programático más amplio de StackAdapt”, señala el comunicado: el detonante es una visualización, no un clic. Los segmentos se gestionan en su Data Hub junto con datos propios e integraciones de CRM."
+                "x": "Triton Digital afirmó que un agente de AI que compraba en nombre de la marca Otrium encontró inventario de audio del editor neerlandés Talpa Media, acordó sus condiciones y lo reservó a través del recién lanzado Seller Agent de Triton, sin ningún paso manual entre el brief y la reserva. Triton lo califica como una primicia para la industria del audio. Draft Digital actuó como agencia."
               },
               {
                 "t": "p",
-                "x": "El comunicado es breve. No menciona mercados de lanzamiento, precios, identificadores, clientes ni resultados. Tampoco explica cómo se registra una visualización dentro de ChatGPT y cómo se vincula después con una persona en un televisor o en una página web."
+                "x": "El agente identificó productos de audio que coincidían con el briefing de la campaña, los dos sistemas acordaron disponibilidad y condiciones, y la campaña se reservó automáticamente en el servidor de anuncios. Triton dice que la transacción \"llevó mucho menos tiempo: minutos frente a días\", pero no indica el tiempo transcurrido, el precio, el presupuesto ni el tamaño de la campaña."
               },
               {
                 "t": "p",
-                "x": "Yang Han, cofundador y director de tecnología de StackAdapt, es la única persona citada; no se cita a ningún directivo de OpenAI. OpenAI afirma que los anunciantes solo reciben información agregada sobre el rendimiento de sus anuncios, y en el EEA y Suiza los anuncios se lanzaron sin personalización."
+                "x": "El Seller Agent es \"una nueva capacidad agéntica construida sobre la Triton Ad Platform (TAP)\". Antes de que el agente pudiera actuar, los equipos de Triton y de las agencias fijaron las condiciones, los límites de precios y los estándares de datos, privacidad y validación de campañas. \"La ejecución Agent-to-agent no elimina esa responsabilidad; adelanta la revisión\", señala el comunicado."
               },
               {
                 "t": "p",
-                "x": "La mayoría de las herramientas de OpenAI han llevado datos de los anunciantes a ChatGPT; el comunicado de StackAdapt describe el flujo contrario. El 21 de octubre, OpenAI extendió los anuncios de ChatGPT a 26 países más, hasta un total de 89."
+                "x": "Triton vincula el acuerdo con su papel como miembro fundador de AgenticAdvertising.org, responsable del Advertising Context Protocol (AdCP), pero no afirma que la reserva se haya realizado mediante AdCP. \"El audio no tiene un problema de rendimiento; tiene un problema de asignación\", dijo Benjamin Masse, Chief Product Officer de Triton Digital."
               }
             ]
           }
@@ -1059,15 +1389,15 @@
       }
     },
     {
-      "id": "adexfraud",
+      "id": "tatari-ctv-ad-matching-engine",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ADEX 2026년 적발\n광고사기 52% AI 관여",
-      "body": "ADEX가 본 1.2m 캠페인 사기 52%에 AI가 쓰였고 64%는 위장 봇이었다.",
-      "mini_headline": "광고 사기 절반에 AI",
+      "headline": "Tatari 새 엔진\nTV 광고를 시청자와 매칭",
+      "body": "Tatari 새 엔진은 광고 서버에서 머신러닝으로 시청자마다 TV 광고를 고른다.",
+      "mini_headline": "Tatari의 ML이 TV 광고를 고른다",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/ai-was-involved-in-52-of-ad-fraud-schemes-adex-flagged-in-2026/",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/tv/tatari-gives-ctv-ad-matching-the-max-treatment/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1075,173 +1405,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+            "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
           },
           {
             "t": "p",
-            "x": "광고 사기 차단 업체 ADEX는 2026년 1월부터 9월까지 광고 플랫폼 여덟 곳, 120만 개 캠페인에서 찾아낸 사기 수법 가운데 52%에 AI가 크게 관여했다고 밝혔다. 캠페인이나 계정 수가 아니라 서로 다른 사기 수법의 수를 센 결과다."
+            "x": "CTV 광고 플랫폼 Tatari가 목요일 최적화 엔진 Tatari Max 출시를 발표했다. 광고 서버 단계에 들어가 브랜드와 퍼블리셔가 어떤 TV 광고를 어떤 시청자에게 내보낼지 정하도록 돕는 엔진이다."
           },
           {
             "t": "p",
-            "x": "AI가 관여한 수법 가운데 64%에 사람을 사칭하는 봇이, 53%에 브랜드 복제와 가짜 추천이, 11%에 딥페이크가 등장했다. 범주끼리는 서로 겹친다."
+            "x": "Tatari CEO 겸 Co-Founder인 Philip Inghelbrecht는 이 제품이 에이전틱 AI와는 거리가 멀다고 못 박는다. 새 데이터가 쌓일수록 진화하는 머신러닝이 바탕이라는 설명이다. 기기 IDs와 쇼핑 행동, 인구통계 정보 같은 신호로 누가 특정 광고에 가장 잘 반응할지 가늠하고 \"친밀도 점수(affinity score)\"를 매긴다."
           },
           {
             "t": "p",
-            "x": "ADEX의 최고제품책임자 Sergey Martianov는 “수법 자체는 몇 년째 그대로다. 믿을 만한 얼굴을 빌리고, 큰 수익을 약속하고, 피해자를 비공개 채팅으로 옮긴다. AI가 바꾼 것은 마무리다”라고 말했다. 거절된 캠페인이 몇 시간 만에 고쳐져 다시 들어온 경우도 있었다."
+            "x": "초기 테스터 Rhoback은 신규 여성 액티브웨어 컬렉션의 Hulu 광고를 한 달간 시험해 보니 구매가 32%, 사이트 방문이 10% 늘었다."
           },
           {
             "t": "p",
-            "x": "ADEX는 2027년에 AI 쇼핑 에이전트를 노린 프롬프트 인젝션 공격이 나타날 것으로 본다. 다만 이는 “현재 모더레이션 데이터에서 측정하는 공격 범주가 아니라 예측”이다. Martianov는 “에이전트가 쇼핑을 한다면 누군가는 그 에이전트를 속이려 할 것”이라고 말했다."
+            "x": "Tatari Max의 기반은 Tatari의 공급 측 스택 Upstream이다. Upstream은 Paramount, Peacock, Disney 등 프리미엄 TV 퍼블리셔와 연결되고 직거래 전용 인벤토리도 볼 수 있다. 자사 인벤토리에만 묶인 Meta의 Advantage Plus나 Google의 Performance Max와는 여기서 갈린다."
+          },
+          {
+            "t": "p",
+            "x": "자막 앱 Rylo에서는 반응이 가장 좋은 쪽이 성인 자녀나 돌보는 사람처럼 가구 안의 젊은 구성원인 경우가 많았고, 이들에게는 후기형 광고가 가장 잘 통한다는 사실을 Tatari Max가 찾아냈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI was behind 52% of ad fraud\nschemes ADEX flagged in 2026",
-          "body": "ADEX says AI played a part in 52% of fraud schemes across 1.2m campaigns, with bots posing as humans in 64% of them.",
-          "mini_headline": "AI in half of ad fraud",
+          "headline": "Tatari's new engine matches\nTV ads to their audiences",
+          "body": "Tatari's new engine works at the ad server level, using machine learning to pick which TV ad each audience sees.",
+          "mini_headline": "Tatari's ML picks the TV ad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "ADEX, a company that screens ads for scams, says AI played a significant role in 52% of the fraud schemes it identified in January to September 2026, across 1.2 million campaigns on eight ad platforms. The figure counts distinct fraud schemes, not campaigns or accounts."
+                "x": "CTV ad platform Tatari announced on Thursday the launch of Tatari Max, an optimization engine that sits at the ad server level to help brands and publishers decide which TV ads to serve to what audience."
               },
               {
                 "t": "p",
-                "x": "Among schemes where AI was involved, bots impersonating humans appeared in 64%, cloned brands and fake endorsements in 53%, and deepfakes in 11%. The categories overlap."
+                "x": "Tatari CEO and Co-Founder Philip Inghelbrecht is adamant the product is a far cry from agentic AI: it relies on machine learning that evolves over time as new data emerges. Using signals including device IDs, shopping behavior and demographic information, it determines which people respond best to specific ads, and calculates an \"affinity score.\""
               },
               {
                 "t": "p",
-                "x": "\"The scheme itself has not changed in years: borrow a trusted face, promise big returns, move the victim into a private chat. What AI changed is the finish,\" said Sergey Martianov, Chief Product Officer at ADEX. Revised versions of rejected campaigns sometimes returned within hours."
+                "x": "Early tester Rhoback saw a 32% increase in purchases and a 10% increase in site visits over a one-month test of a Hulu ad for a new women’s activewear collection."
               },
               {
                 "t": "p",
-                "x": "Looking to 2027, ADEX forecasts prompt-injection attacks on AI shopping agents — \"a forecast rather than an attack category currently measured in its moderation data.\" \"If an agent is doing the shopping, someone will try to scam the agent,\" Martianov said."
+                "x": "Tatari Max is built on Upstream, Tatari’s supply-side stack, which plugs into premium TV publishers including Paramount, Peacock and Disney and can also see direct-only inventory — unlike Meta’s Advantage Plus and Google’s Performance Max, which only connect to their own inventory."
+              },
+              {
+                "t": "p",
+                "x": "For captioning app Rylo, Tatari Max found the people who respond best are often younger household members, like adult children or caretakers, and that testimonial ads worked best among them."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ADEX 2026년 적발\n광고사기 52% AI 관여",
-          "body": "ADEX가 본 1.2m 캠페인 사기 52%에 AI가 쓰였고 64%는 위장 봇이었다.",
-          "mini_headline": "광고 사기 절반에 AI",
+          "headline": "Tatari 새 엔진\nTV 광고를 시청자와 매칭",
+          "body": "Tatari 새 엔진은 광고 서버에서 머신러닝으로 시청자마다 TV 광고를 고른다.",
+          "mini_headline": "Tatari의 ML이 TV 광고를 고른다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "광고 사기 차단 업체 ADEX는 2026년 1월부터 9월까지 광고 플랫폼 여덟 곳, 120만 개 캠페인에서 찾아낸 사기 수법 가운데 52%에 AI가 크게 관여했다고 밝혔다. 캠페인이나 계정 수가 아니라 서로 다른 사기 수법의 수를 센 결과다."
+                "x": "CTV 광고 플랫폼 Tatari가 목요일 최적화 엔진 Tatari Max 출시를 발표했다. 광고 서버 단계에 들어가 브랜드와 퍼블리셔가 어떤 TV 광고를 어떤 시청자에게 내보낼지 정하도록 돕는 엔진이다."
               },
               {
                 "t": "p",
-                "x": "AI가 관여한 수법 가운데 64%에 사람을 사칭하는 봇이, 53%에 브랜드 복제와 가짜 추천이, 11%에 딥페이크가 등장했다. 범주끼리는 서로 겹친다."
+                "x": "Tatari CEO 겸 Co-Founder인 Philip Inghelbrecht는 이 제품이 에이전틱 AI와는 거리가 멀다고 못 박는다. 새 데이터가 쌓일수록 진화하는 머신러닝이 바탕이라는 설명이다. 기기 IDs와 쇼핑 행동, 인구통계 정보 같은 신호로 누가 특정 광고에 가장 잘 반응할지 가늠하고 \"친밀도 점수(affinity score)\"를 매긴다."
               },
               {
                 "t": "p",
-                "x": "ADEX의 최고제품책임자 Sergey Martianov는 “수법 자체는 몇 년째 그대로다. 믿을 만한 얼굴을 빌리고, 큰 수익을 약속하고, 피해자를 비공개 채팅으로 옮긴다. AI가 바꾼 것은 마무리다”라고 말했다. 거절된 캠페인이 몇 시간 만에 고쳐져 다시 들어온 경우도 있었다."
+                "x": "초기 테스터 Rhoback은 신규 여성 액티브웨어 컬렉션의 Hulu 광고를 한 달간 시험해 보니 구매가 32%, 사이트 방문이 10% 늘었다."
               },
               {
                 "t": "p",
-                "x": "ADEX는 2027년에 AI 쇼핑 에이전트를 노린 프롬프트 인젝션 공격이 나타날 것으로 본다. 다만 이는 “현재 모더레이션 데이터에서 측정하는 공격 범주가 아니라 예측”이다. Martianov는 “에이전트가 쇼핑을 한다면 누군가는 그 에이전트를 속이려 할 것”이라고 말했다."
+                "x": "Tatari Max의 기반은 Tatari의 공급 측 스택 Upstream이다. Upstream은 Paramount, Peacock, Disney 등 프리미엄 TV 퍼블리셔와 연결되고 직거래 전용 인벤토리도 볼 수 있다. 자사 인벤토리에만 묶인 Meta의 Advantage Plus나 Google의 Performance Max와는 여기서 갈린다."
+              },
+              {
+                "t": "p",
+                "x": "자막 앱 Rylo에서는 반응이 가장 좋은 쪽이 성인 자녀나 돌보는 사람처럼 가구 안의 젊은 구성원인 경우가 많았고, 이들에게는 후기형 광고가 가장 잘 통한다는 사실을 Tatari Max가 찾아냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ADEXが2026年に検出\n広告詐欺の52%にAI",
-          "body": "ADEXは1.2m 件の広告で詐欺の52%にAIが関与し、64%に偽装ボットがいたとする。",
-          "mini_headline": "広告詐欺の半分にAI",
+          "headline": "Tatariの新エンジン\nTV広告を視聴者と照合",
+          "body": "Tatariの新エンジンは広告サーバー段階で機械学習を使い、視聴者ごとのTV広告を選ぶ。",
+          "mini_headline": "TatariのMLがTV広告を選ぶ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "広告の詐欺審査を手がけるADEXは、2026年1月から9月にかけて八つの広告プラットフォーム上の120万件のキャンペーンで特定した詐欺スキームのうち、52%でAIが大きな役割を果たしたとしている。この数値はキャンペーンやアカウントではなく、個別の詐欺スキームを数えたものだ。"
+                "x": "CTV広告プラットフォームのTatariは木曜日、広告サーバー段階に位置し、ブランドやパブリッシャーがどのTV広告をどの視聴者に配信するかを決めるのを支援する最適化エンジン「Tatari Max」の提供開始を発表した。"
               },
               {
                 "t": "p",
-                "x": "AIが関与したスキームのうち、人間になりすますボットは64%、ブランドの複製や偽の推薦は53%、ディープフェイクは11%に見られた。これらの分類は重複している。"
+                "x": "TatariのCEO兼Co-FounderであるPhilip Inghelbrechtは、この製品はエージェント型AIとはまったく別物だと強調する。新しいデータが出てくるにつれて時間とともに進化する機械学習に基づいているという。デバイスIDs、購買行動、人口統計情報などのシグナルを使い、どの人が特定の広告に最もよく反応するかを判断し、「アフィニティスコア」を算出する。"
               },
               {
                 "t": "p",
-                "x": "「手口そのものは何年も変わっていない。信頼される顔を借り、高いリターンを約束し、被害者を非公開のチャットに誘導する。AIが変えたのは仕上がりだ」と、ADEXの最高製品責任者であるSergey Martianovは述べた。却下されたキャンペーンの修正版が、数時間以内に戻ってくることもあった。"
+                "x": "初期テスターのRhobackは、女性向けアクティブウェアの新コレクションのHulu広告をひと月テストし、購入が32%、サイト訪問が10%増えた。"
               },
               {
                 "t": "p",
-                "x": "2027年に向けて、ADEXはAIショッピングエージェントを狙ったプロンプトインジェクション攻撃を予測している。これは「現在モデレーションデータで測定している攻撃カテゴリーではなく、予測」だという。「エージェントが買い物をするなら、誰かがそのエージェントをだまそうとするだろう」とMartianovは語った。"
+                "x": "Tatari Maxは、Tatariのサプライサイド基盤であるUpstream上に構築されている。UpstreamはParamount、Peacock、Disneyなどのプレミアム TVパブリッシャーと接続し、直販限定の在庫も見ることができる。自社の在庫にしか接続しないMetaのAdvantage PlusやGoogleのPerformance Maxとはこの点が異なる。"
+              },
+              {
+                "t": "p",
+                "x": "字幕アプリのRyloでは、Tatari Maxは最もよく反応する人が成人した子どもや介護者など世帯の若いメンバーであることが多く、彼らには体験談型の広告が最も効果的だと突き止めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ADEX 2026年查获\n广告欺诈52%涉AI",
-          "body": "ADEX称，在1.2m 个广告活动的欺诈中52%涉及AI，其中64%有冒充真人的机器人。",
-          "mini_headline": "半数广告欺诈涉AI",
+          "headline": "Tatari新引擎\n为受众匹配TV广告",
+          "body": "Tatari的新引擎在广告服务器层面运行，用机器学习为每类受众挑选TV广告。",
+          "mini_headline": "Tatari的ML挑选TV广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "专门筛查诈骗广告的公司ADEX表示，在2026年1月至9月期间，它在八个广告平台的120万个广告活动中识别出的欺诈手法里，有52%是AI发挥了重要作用。这一数字统计的是不同的欺诈手法，而非广告活动或账户。"
+                "x": "CTV广告平台Tatari于周四宣布推出Tatari Max，这是一款位于广告服务器层面的优化引擎，帮助品牌和发布商决定向哪些受众投放哪些TV广告。"
               },
               {
                 "t": "p",
-                "x": "在涉及AI的手法中，冒充真人的机器人出现在64%中，仿冒品牌和虚假代言出现在53%中，深度伪造出现在11%中。各类别之间存在重叠。"
+                "x": "Tatari CEO兼Co-Founder Philip Inghelbrecht坚称，该产品与智能体AI相去甚远：它依靠随新数据出现而不断演进的机器学习。它利用设备IDs、购物行为和人口统计信息等信号，判断哪些人对特定广告反应最好，并计算出“亲和度分数”。"
               },
               {
                 "t": "p",
-                "x": "ADEX首席产品官Sergey Martianov说：“这种骗局本身多年未变：借用一张可信的面孔，承诺高额回报，再把受害者引到私聊中。AI改变的是成品的精细程度。”被拒的广告活动修改后，有时几小时内就会卷土重来。"
+                "x": "早期测试者Rhoback为女性运动服新系列投放Hulu广告，在为期一个月的测试中，购买量增长32%，网站访问量增长10%。"
               },
               {
                 "t": "p",
-                "x": "展望2027年，ADEX预测会出现针对AI购物代理的提示注入攻击——“这是一项预测，而不是其审核数据中目前测量的攻击类别。”Martianov说：“如果由代理来购物，就会有人试图欺骗这个代理。”"
+                "x": "Tatari Max构建于Tatari的供应端技术栈Upstream之上。Upstream接入Paramount、Peacock和Disney等优质TV发布商，还能看到仅限直售的库存，这与只连接自家库存的Meta Advantage Plus和Google Performance Max不同。"
+              },
+              {
+                "t": "p",
+                "x": "就字幕应用Rylo而言，Tatari Max发现反应最好的人往往是家庭中较年轻的成员，如成年子女或照护者，而证言类广告在他们当中效果最好。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI, tras el 52% de estafas\npublicitarias en 2026, dice ADEX",
-          "body": "ADEX afirma que la AI intervino en el 52% de los fraudes en 1.2m campañas, con bots que imitan a humanos en el 64%.",
-          "mini_headline": "La AI, en la mitad del fraude publicitario",
+          "headline": "El nuevo motor de Tatari une\nanuncios de TV con su público",
+          "body": "Desde el servidor de anuncios, el nuevo motor de Tatari usa ML para elegir qué anuncio de TV ve cada público.",
+          "mini_headline": "El ML de Tatari elige el anuncio de TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "ADEX, una empresa que revisa anuncios para detectar estafas, afirma que la AI tuvo un papel importante en el 52% de los esquemas de fraude que identificó entre enero y septiembre de 2026, en 1.2 millones de campañas de ocho plataformas publicitarias. La cifra cuenta esquemas de fraude distintos, no campañas ni cuentas."
+                "x": "La plataforma de anuncios CTV Tatari anunció el jueves el lanzamiento de Tatari Max, un motor de optimización que opera en el nivel del servidor de anuncios para ayudar a marcas y editores a decidir qué anuncios de TV mostrar a cada público."
               },
               {
                 "t": "p",
-                "x": "Entre los esquemas en los que intervino la AI, aparecieron bots que se hacían pasar por humanos en el 64%, marcas clonadas y falsos respaldos en el 53%, y deepfakes en el 11%. Las categorías se solapan."
+                "x": "Philip Inghelbrecht, CEO y Co-Founder de Tatari, insiste en que el producto dista mucho de la AI agéntica: se basa en aprendizaje automático que evoluciona con el tiempo a medida que surgen nuevos datos. Con señales como IDs de dispositivo, comportamiento de compra e información demográfica, determina qué personas responden mejor a anuncios concretos y calcula una \"puntuación de afinidad\"."
               },
               {
                 "t": "p",
-                "x": "“El esquema en sí no ha cambiado en años: tomar prestado un rostro de confianza, prometer grandes rendimientos, llevar a la víctima a un chat privado. Lo que la AI cambió es el acabado”, dijo Sergey Martianov, director de producto de ADEX. Versiones revisadas de campañas rechazadas volvían a veces en cuestión de horas."
+                "x": "Rhoback, uno de los primeros en probarlo, registró un aumento del 32% en compras y del 10% en visitas al sitio durante una prueba de un mes con un anuncio en Hulu para una nueva colección de ropa deportiva femenina."
               },
               {
                 "t": "p",
-                "x": "De cara a 2027, ADEX prevé ataques de inyección de prompts contra agentes de compra con AI: “un pronóstico más que una categoría de ataque que hoy se mida en sus datos de moderación”. “Si un agente hace las compras, alguien intentará estafar al agente”, dijo Martianov."
+                "x": "Tatari Max se basa en Upstream, la plataforma del lado de la oferta de Tatari, que se conecta con editores de TV premium como Paramount, Peacock y Disney y también puede ver inventario de venta exclusivamente directa, a diferencia de Advantage Plus de Meta y Performance Max de Google, que solo se conectan con su propio inventario."
+              },
+              {
+                "t": "p",
+                "x": "En el caso de la app de subtítulos Rylo, Tatari Max descubrió que las personas que mejor responden suelen ser miembros más jóvenes del hogar, como hijos adultos o cuidadores, y que entre ellos funcionaban mejor los anuncios con testimonios."
               }
             ]
           }
@@ -1249,121 +1603,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ADEX 2026년 적발\n광고사기 52% AI 관여",
-          "body": "ADEX의 1.2m 캠페인 사기 52%에 AI가 쓰였고 64%는 위장 봇이었다.",
-          "mini_headline": "광고 사기 절반에 AI",
+          "headline": "Tatari 새 엔진\nTV 광고를 시청자와 매칭",
+          "body": "Tatari 새 엔진은 광고 서버에서 머신러닝으로 시청자별 TV 광고를 고른다.",
+          "mini_headline": "Tatari의 ML이 TV 광고를 고른다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "광고 사기를 걸러내는 회사 ADEX는 2026년 1월부터 9월까지 광고 플랫폼 여덟 곳의 120만 개 캠페인에서 찾아낸 사기 수법 가운데 52%에서 AI가 큰 역할을 했다고 밝혔다. 이 수치는 캠페인이나 계정이 아니라 서로 다른 사기 수법을 센 것이다."
+                "x": "CTV 광고 플랫폼 Tatari는 목요일, 광고 서버 단계에 자리 잡고 브랜드와 퍼블리셔가 어떤 TV 광고를 어떤 시청자에게 내보낼지 정하도록 돕는 최적화 엔진 Tatari Max를 출시한다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "AI가 관여한 수법 중 사람을 사칭하는 봇은 64%, 브랜드 복제와 가짜 추천은 53%, 딥페이크는 11%에서 나타났다. 각 범주는 서로 겹친다."
+                "x": "Tatari CEO 겸 Co-Founder인 Philip Inghelbrecht는 이 제품이 에이전틱 AI와는 거리가 멀다고 강조한다. 새 데이터가 나올수록 시간에 따라 진화하는 머신러닝에 기반한다는 것이다. 기기 IDs, 쇼핑 행동, 인구통계 정보 같은 신호를 활용해 어떤 사람이 특정 광고에 가장 잘 반응하는지 판단하고 \"친밀도 점수(affinity score)\"를 계산한다."
               },
               {
                 "t": "p",
-                "x": "ADEX의 최고제품책임자 Sergey Martianov는 “수법 자체는 몇 년째 그대로다. 믿을 만한 얼굴을 빌리고, 큰 수익을 약속하고, 피해자를 비공개 채팅으로 옮긴다. AI가 바꾼 것은 마무리다”라고 말했다. 거절된 캠페인의 수정본이 몇 시간 만에 다시 들어오기도 했다."
+                "x": "초기 테스터 Rhoback은 신규 여성 액티브웨어 컬렉션의 Hulu 광고를 한 달간 테스트한 결과 구매가 32%, 사이트 방문이 10% 늘었다."
               },
               {
                 "t": "p",
-                "x": "2027년을 내다보며 ADEX는 AI 쇼핑 에이전트를 노린 프롬프트 인젝션 공격을 예상한다. 이는 “현재 모더레이션 데이터에서 측정하는 공격 범주가 아니라 예측”이다. Martianov는 “에이전트가 쇼핑을 한다면 누군가는 그 에이전트를 속이려 할 것”이라고 말했다."
+                "x": "Tatari Max는 Tatari의 공급 측 스택인 Upstream 위에 구축됐다. Upstream은 Paramount, Peacock, Disney 등 프리미엄 TV 퍼블리셔와 연결되고 직거래 전용 인벤토리도 볼 수 있다. 자사 인벤토리에만 연결되는 Meta의 Advantage Plus나 Google의 Performance Max와 다른 점이다."
+              },
+              {
+                "t": "p",
+                "x": "자막 앱 Rylo의 경우, Tatari Max는 가장 잘 반응하는 사람이 성인 자녀나 돌보는 사람처럼 가구 안의 젊은 구성원인 경우가 많고, 이들에게는 후기형 광고가 가장 효과적이라는 점을 찾아냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ADEXが2026年に検出\n広告詐欺の52%にAI",
-          "body": "ADEXは1.2m 件の広告で詐欺の52%にAIが関与し、64%に偽装ボットがいたとする。",
-          "mini_headline": "広告詐欺の半分にAI",
+          "headline": "Tatariの新エンジン\nTV広告を視聴者と照合",
+          "body": "Tatariの新エンジンは広告サーバー段階で機械学習を使い、視聴者ごとのTV広告を選ぶ。",
+          "mini_headline": "TatariのMLがTV広告を選ぶ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "広告の詐欺審査を手がけるADEXは、2026年1月から9月にかけて八つの広告プラットフォーム上の120万件のキャンペーンで特定した詐欺スキームのうち、52%でAIが大きな役割を果たしたとしている。この数値はキャンペーンやアカウントではなく、個別の詐欺スキームを数えたものだ。"
+                "x": "CTV広告プラットフォームのTatariは木曜日、広告サーバー段階に位置し、ブランドやパブリッシャーがどのTV広告をどの視聴者に配信するかを決めるのを支援する最適化エンジン「Tatari Max」の提供開始を発表した。"
               },
               {
                 "t": "p",
-                "x": "AIが関与したスキームのうち、人間になりすますボットは64%、ブランドの複製や偽の推薦は53%、ディープフェイクは11%に見られた。これらの分類は重複している。"
+                "x": "TatariのCEO兼Co-FounderであるPhilip Inghelbrechtは、この製品はエージェント型AIとはまったく別物だと強調する。新しいデータが出てくるにつれて時間とともに進化する機械学習に基づいているという。デバイスIDs、購買行動、人口統計情報などのシグナルを使い、どの人が特定の広告に最もよく反応するかを判断し、「アフィニティスコア」を算出する。"
               },
               {
                 "t": "p",
-                "x": "「手口そのものは何年も変わっていない。信頼される顔を借り、高いリターンを約束し、被害者を非公開のチャットに誘導する。AIが変えたのは仕上がりだ」と、ADEXの最高製品責任者であるSergey Martianovは述べた。却下されたキャンペーンの修正版が、数時間以内に戻ってくることもあった。"
+                "x": "初期テスターのRhobackは、女性向けアクティブウェアの新コレクションのHulu広告をひと月テストし、購入が32%、サイト訪問が10%増えた。"
               },
               {
                 "t": "p",
-                "x": "2027年に向けて、ADEXはAIショッピングエージェントを狙ったプロンプトインジェクション攻撃を予測している。これは「現在モデレーションデータで測定している攻撃カテゴリーではなく、予測」だという。「エージェントが買い物をするなら、誰かがそのエージェントをだまそうとするだろう」とMartianovは語った。"
+                "x": "Tatari Maxは、Tatariのサプライサイド基盤であるUpstream上に構築されている。UpstreamはParamount、Peacock、Disneyなどのプレミアム TVパブリッシャーと接続し、直販限定の在庫も見ることができる。自社の在庫にしか接続しないMetaのAdvantage PlusやGoogleのPerformance Maxとはこの点が異なる。"
+              },
+              {
+                "t": "p",
+                "x": "字幕アプリのRyloでは、Tatari Maxは最もよく反応する人が成人した子どもや介護者など世帯の若いメンバーであることが多く、彼らには体験談型の広告が最も効果的だと突き止めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ADEX 2026年查获\n广告欺诈52%涉AI",
-          "body": "ADEX称，在1.2m 个广告活动的欺诈中52%涉及AI，其中64%有冒充真人的机器人。",
-          "mini_headline": "半数广告欺诈涉AI",
+          "headline": "Tatari新引擎\n为受众匹配TV广告",
+          "body": "Tatari的新引擎在广告服务器层面运行，用机器学习为每类受众挑选TV广告。",
+          "mini_headline": "Tatari的ML挑选TV广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "专门筛查诈骗广告的公司ADEX表示，在2026年1月至9月期间，它在八个广告平台的120万个广告活动中识别出的欺诈手法里，有52%是AI发挥了重要作用。这一数字统计的是不同的欺诈手法，而非广告活动或账户。"
+                "x": "CTV广告平台Tatari于周四宣布推出Tatari Max，这是一款位于广告服务器层面的优化引擎，帮助品牌和发布商决定向哪些受众投放哪些TV广告。"
               },
               {
                 "t": "p",
-                "x": "在涉及AI的手法中，冒充真人的机器人出现在64%中，仿冒品牌和虚假代言出现在53%中，深度伪造出现在11%中。各类别之间存在重叠。"
+                "x": "Tatari CEO兼Co-Founder Philip Inghelbrecht坚称，该产品与智能体AI相去甚远：它依靠随新数据出现而不断演进的机器学习。它利用设备IDs、购物行为和人口统计信息等信号，判断哪些人对特定广告反应最好，并计算出“亲和度分数”。"
               },
               {
                 "t": "p",
-                "x": "ADEX首席产品官Sergey Martianov说：“这种骗局本身多年未变：借用一张可信的面孔，承诺高额回报，再把受害者引到私聊中。AI改变的是成品的精细程度。”被拒的广告活动修改后，有时几小时内就会卷土重来。"
+                "x": "早期测试者Rhoback为女性运动服新系列投放Hulu广告，在为期一个月的测试中，购买量增长32%，网站访问量增长10%。"
               },
               {
                 "t": "p",
-                "x": "展望2027年，ADEX预测会出现针对AI购物代理的提示注入攻击——“这是一项预测，而不是其审核数据中目前测量的攻击类别。”Martianov说：“如果由代理来购物，就会有人试图欺骗这个代理。”"
+                "x": "Tatari Max构建于Tatari的供应端技术栈Upstream之上。Upstream接入Paramount、Peacock和Disney等优质TV发布商，还能看到仅限直售的库存，这与只连接自家库存的Meta Advantage Plus和Google Performance Max不同。"
+              },
+              {
+                "t": "p",
+                "x": "就字幕应用Rylo而言，Tatari Max发现反应最好的人往往是家庭中较年轻的成员，如成年子女或照护者，而证言类广告在他们当中效果最好。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI, tras el 52% de estafas\npublicitarias en 2026, dice ADEX",
-          "body": "ADEX afirma que la AI intervino en el 52% de los fraudes en 1.2m campañas, con bots que imitan a humanos en el 64%.",
-          "mini_headline": "La AI, en la mitad del fraude publicitario",
+          "headline": "El nuevo motor de Tatari une\nanuncios de TV con su público",
+          "body": "Desde el servidor de anuncios, el nuevo motor de Tatari usa ML para elegir qué anuncio de TV ve cada público.",
+          "mini_headline": "El ML de Tatari elige el anuncio de TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
               },
               {
                 "t": "p",
-                "x": "ADEX, una empresa que revisa anuncios para detectar estafas, afirma que la AI tuvo un papel importante en el 52% de los esquemas de fraude que identificó entre enero y septiembre de 2026, en 1.2 millones de campañas de ocho plataformas publicitarias. La cifra cuenta esquemas de fraude distintos, no campañas ni cuentas."
+                "x": "La plataforma de anuncios CTV Tatari anunció el jueves el lanzamiento de Tatari Max, un motor de optimización que opera en el nivel del servidor de anuncios para ayudar a marcas y editores a decidir qué anuncios de TV mostrar a cada público."
               },
               {
                 "t": "p",
-                "x": "Entre los esquemas en los que intervino la AI, aparecieron bots que se hacían pasar por humanos en el 64%, marcas clonadas y falsos respaldos en el 53%, y deepfakes en el 11%. Las categorías se solapan."
+                "x": "Philip Inghelbrecht, CEO y Co-Founder de Tatari, insiste en que el producto dista mucho de la AI agéntica: se basa en aprendizaje automático que evoluciona con el tiempo a medida que surgen nuevos datos. Con señales como IDs de dispositivo, comportamiento de compra e información demográfica, determina qué personas responden mejor a anuncios concretos y calcula una \"puntuación de afinidad\"."
               },
               {
                 "t": "p",
-                "x": "“El esquema en sí no ha cambiado en años: tomar prestado un rostro de confianza, prometer grandes rendimientos, llevar a la víctima a un chat privado. Lo que la AI cambió es el acabado”, dijo Sergey Martianov, director de producto de ADEX. Versiones revisadas de campañas rechazadas volvían a veces en cuestión de horas."
+                "x": "Rhoback, uno de los primeros en probarlo, registró un aumento del 32% en compras y del 10% en visitas al sitio durante una prueba de un mes con un anuncio en Hulu para una nueva colección de ropa deportiva femenina."
               },
               {
                 "t": "p",
-                "x": "De cara a 2027, ADEX prevé ataques de inyección de prompts contra agentes de compra con AI: “un pronóstico más que una categoría de ataque que hoy se mida en sus datos de moderación”. “Si un agente hace las compras, alguien intentará estafar al agente”, dijo Martianov."
+                "x": "Tatari Max se basa en Upstream, la plataforma del lado de la oferta de Tatari, que se conecta con editores de TV premium como Paramount, Peacock y Disney y también puede ver inventario de venta exclusivamente directa, a diferencia de Advantage Plus de Meta y Performance Max de Google, que solo se conectan con su propio inventario."
+              },
+              {
+                "t": "p",
+                "x": "En el caso de la app de subtítulos Rylo, Tatari Max descubrió que las personas que mejor responden suelen ser miembros más jóvenes del hogar, como hijos adultos o cuidadores, y que entre ellos funcionaban mejor los anuncios con testimonios."
               }
             ]
           }
@@ -1371,15 +1741,15 @@
       }
     },
     {
-      "id": "clorox",
+      "id": "vab-ai-slop-ad-spend",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Clorox, 캠페인 대신\n‘관련성 시스템’으로",
-      "body": "Clorox가 대형 캠페인을 접고 AI-enabled 콘텐츠 시스템을 택했다.",
-      "mini_headline": "Clorox, 대형 캠페인을 접다",
+      "headline": "VAB, AI 슬롭 광고비\n최대 $978.7M 추산",
+      "body": "VAB 자료는 AI 슬롭에 흘러간 US 광고비를 최대 $978.7M 규모로 봤다.",
+      "mini_headline": "AI 슬롭에 최대 $978.7M 지출",
       "tool": "Marketing",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/vab-puts-us-ad-dollars-spent-on-ai-slop-at-up-to-978-7-million/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1387,203 +1757,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-            "cap": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 발표하는 The Clorox Company CMO Eric Schwartz. ANA 사용 허가"
+            "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+            "cap": "광고비가 스스로 타이핑하는 타자기로 쏟아진다. VAB는 US AI 슬롭 지출을 최대 $978.7M 규모로 추산한다"
           },
           {
             "t": "p",
-            "x": "Clorox CMO Eric Schwartz는 10월 22일 ANA Masters of Marketing 콘퍼런스에서 캠페인의 자리를 지속적 관련성의 시스템이 대신하게 됐다고 말했다. 사람이 움직이고 AI 자동화가 받치며 파트너가 증폭하는 엔진이다. 그는 “큰 아이디어 하나로 한 번 등장하는 게 아니다”라고 말했다."
+            "x": "Video Advertising Bureau가 회원사와 마케터에게 \"More Illusions of the Internet\"이라는 25쪽짜리 보충 자료를 보냈다. 악성 봇, 가짜 소셜미디어 팔로워, 광고 사기, AI-generated 콘텐츠, 소비자 사기 통계 12건을 더한 자료인데, VAB의 새 연구는 없다."
           },
           {
             "t": "p",
-            "x": "Pine-Sol의 소셜 우선 세계관 “OMG Da Pine”은 한 달 평균 150건이 넘는 오가닉 게시물을 올리며 참여율 13%를 기록 중이다. TikTok Shop에 내놓은 한정판 제품 네 가지는 몇 시간 만에 매진됐다."
+            "x": "자료의 간판 수치인 AI 슬롭 US 프로그래매틱 지출 $530.1M 에서 $978.7M 사이는 VAB가 직접 곱해서 낸 값이다. AI 슬롭이 Q1 2026 오픈 웹 프로그래매틱 지출의 1.3%에서 2.4%를 차지했다는 ANA의 조사 결과에 eMarketer가 전망한 2025년 US 프로그래매틱 디지털 디스플레이 광고비 $40.78B 를 곱했다."
           },
           {
             "t": "p",
-            "x": "Brita의 대량 콘텐츠 모델은 매달 에셋을 100개 넘게 만든다. 그 결과 참여 2,200만 건과 전년 대비 1,742% 늘어난 오가닉 노출을 얻었다."
+            "x": "ANA는 AI 슬롭을 \"사람의 개입이나 독창성, 오디언스 가치가 거의 또는 전혀 없이 주로 수익화를 위해 생성된\" 콘텐츠로 정의한다. 슬롭 인벤토리는 70%가 넘는 경우 프리미엄 등급을 받았고, 가시성은 77.2%로 클린 공급의 74.9%를 웃돌았다."
           },
           {
             "t": "p",
-            "x": "Clorox Pure는 AI 덕분에 재촬영 비용 없이 시장 신호에 맞춰 광고 크리에이티브를 최적화했다. Hidden Valley의 월드컵 랜치 모먼트는 600개가 넘는 소셜 콘텐츠와 60억 회가 넘는 노출을 낳았다."
-          },
-          {
-            "t": "p",
-            "x": "Schwartz는 “콘텐츠는 더 이상 출시 시점에 완성되지 않는다. 계속 나아지도록 만들어진다”고 말했다."
+            "x": "2025년 전 세계 인터넷 트래픽의 40%를 악성 봇이 만들었다는 Thales 데이터, 자체 각주로 따져 보면 계산이 맞지 않는 SociaVault의 가짜 팔로워 $4.6B 수치도 자료에 들어갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Clorox trades brand campaigns\nfor systems of relevance",
-          "body": "Clorox swapped big-bang campaigns for AI-enabled systems that make high-volume, social-first content for its brands.",
-          "mini_headline": "Clorox drops big campaigns",
+          "headline": "VAB puts ad spend on AI slop\nat up to $978.7 million",
+          "body": "A VAB report estimates that up to $978.7 million in US ad dollars was spent on AI slop.",
+          "mini_headline": "Up to $978.7M spent on AI slop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "Eric Schwartz, CMO of The Clorox Company, speaks at the ANA Masters of Marketing conference on Oct. 22. Permission granted by ANA"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "Ad dollars pour into a self-typing typewriter as VAB puts US AI slop spend at up to $978.7 million"
               },
               {
                 "t": "p",
-                "x": "At the ANA Masters of Marketing conference on Oct. 22, Clorox CMO Eric Schwartz said campaigns have been replaced with systems of continuous relevance, built with an engine that is powered by people, enabled by AI automation and amplified by partners. “It’s not about showing up once with a big idea,” he said."
+                "x": "The Video Advertising Bureau has sent members and marketers a 25-page supplement titled \"More Illusions of the Internet,\" adding 12 statistics on bad bots, fake social media followers, ad fraud, AI-generated content and consumer scams. The deck contains no new research by VAB."
               },
               {
                 "t": "p",
-                "x": "Pine-Sol’s social-first “OMG Da Pine” world averages more than 150 organic posts a month and a 13% engagement rate, and launched four limited-edition products on TikTok Shop that sold out in hours."
+                "x": "Its headline advertising number - between $530.1 million and $978.7 million of US programmatic spending on AI slop - is VAB's own multiplication: the ANA's finding that AI slop accounted for 1.3% to 2.4% of open web programmatic spend in Q1 2026, times eMarketer's projection of $40.78 billion in US programmatic digital display ad spending for 2025."
               },
               {
                 "t": "p",
-                "x": "Brita’s high-volume content model produces more than 100 assets per month; its efforts yielded 22 million engagements and a 1,742% year-over-year increase in organic impressions."
+                "x": "The ANA defines AI slop as content \"generated primarily for monetization, with little or no human input, originality, or audience value.\" Slop inventory was graded premium more than 70% of the time, with viewability of 77.2% against 74.9% for clean supply."
               },
               {
                 "t": "p",
-                "x": "For Clorox Pure, AI let the company use in-market signals to optimize ad creative without the cost of a reshoot. Hidden Valley’s World Cup ranch moment generated more than 600 pieces of social content and more than 6 billion impressions."
-              },
-              {
-                "t": "p",
-                "x": "“The content is no longer finished at launch. It’s built to keep getting better,” Schwartz said."
+                "x": "The deck also cites Thales data that bad bots generated 40% of global internet traffic in 2025, and a SociaVault $4.6 billion fake-follower figure that does not compute from its own footnote."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Clorox, 캠페인 대신\n‘관련성 시스템’으로",
-          "body": "Clorox가 대형 캠페인을 접고 AI-enabled 콘텐츠 시스템을 택했다.",
-          "mini_headline": "Clorox, 대형 캠페인을 접다",
+          "headline": "VAB, AI 슬롭 광고비\n최대 $978.7M 추산",
+          "body": "VAB 자료는 AI 슬롭에 흘러간 US 광고비를 최대 $978.7M 규모로 봤다.",
+          "mini_headline": "AI 슬롭에 최대 $978.7M 지출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 발표하는 The Clorox Company CMO Eric Schwartz. ANA 사용 허가"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "광고비가 스스로 타이핑하는 타자기로 쏟아진다. VAB는 US AI 슬롭 지출을 최대 $978.7M 규모로 추산한다"
               },
               {
                 "t": "p",
-                "x": "Clorox CMO Eric Schwartz는 10월 22일 ANA Masters of Marketing 콘퍼런스에서 캠페인의 자리를 지속적 관련성의 시스템이 대신하게 됐다고 말했다. 사람이 움직이고 AI 자동화가 받치며 파트너가 증폭하는 엔진이다. 그는 “큰 아이디어 하나로 한 번 등장하는 게 아니다”라고 말했다."
+                "x": "Video Advertising Bureau가 회원사와 마케터에게 \"More Illusions of the Internet\"이라는 25쪽짜리 보충 자료를 보냈다. 악성 봇, 가짜 소셜미디어 팔로워, 광고 사기, AI-generated 콘텐츠, 소비자 사기 통계 12건을 더한 자료인데, VAB의 새 연구는 없다."
               },
               {
                 "t": "p",
-                "x": "Pine-Sol의 소셜 우선 세계관 “OMG Da Pine”은 한 달 평균 150건이 넘는 오가닉 게시물을 올리며 참여율 13%를 기록 중이다. TikTok Shop에 내놓은 한정판 제품 네 가지는 몇 시간 만에 매진됐다."
+                "x": "자료의 간판 수치인 AI 슬롭 US 프로그래매틱 지출 $530.1M 에서 $978.7M 사이는 VAB가 직접 곱해서 낸 값이다. AI 슬롭이 Q1 2026 오픈 웹 프로그래매틱 지출의 1.3%에서 2.4%를 차지했다는 ANA의 조사 결과에 eMarketer가 전망한 2025년 US 프로그래매틱 디지털 디스플레이 광고비 $40.78B 를 곱했다."
               },
               {
                 "t": "p",
-                "x": "Brita의 대량 콘텐츠 모델은 매달 에셋을 100개 넘게 만든다. 그 결과 참여 2,200만 건과 전년 대비 1,742% 늘어난 오가닉 노출을 얻었다."
+                "x": "ANA는 AI 슬롭을 \"사람의 개입이나 독창성, 오디언스 가치가 거의 또는 전혀 없이 주로 수익화를 위해 생성된\" 콘텐츠로 정의한다. 슬롭 인벤토리는 70%가 넘는 경우 프리미엄 등급을 받았고, 가시성은 77.2%로 클린 공급의 74.9%를 웃돌았다."
               },
               {
                 "t": "p",
-                "x": "Clorox Pure는 AI 덕분에 재촬영 비용 없이 시장 신호에 맞춰 광고 크리에이티브를 최적화했다. Hidden Valley의 월드컵 랜치 모먼트는 600개가 넘는 소셜 콘텐츠와 60억 회가 넘는 노출을 낳았다."
-              },
-              {
-                "t": "p",
-                "x": "Schwartz는 “콘텐츠는 더 이상 출시 시점에 완성되지 않는다. 계속 나아지도록 만들어진다”고 말했다."
+                "x": "2025년 전 세계 인터넷 트래픽의 40%를 악성 봇이 만들었다는 Thales 데이터, 자체 각주로 따져 보면 계산이 맞지 않는 SociaVault의 가짜 팔로워 $4.6B 수치도 자료에 들어갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Clorox、キャンペーン\nから「関連性の仕組み」へ",
-          "body": "Cloroxは大型キャンペーンをAI-enabledの量産型の仕組みに替えた。",
-          "mini_headline": "Clorox、大型キャンペーンをやめる",
+          "headline": "VAB、AIスロップ広告費\n最大$978.7M と推計",
+          "body": "VABの報告書は、AIスロップに使われたUSの広告費を最大$978.7M と推計した。",
+          "mini_headline": "AIスロップに最大$978.7M の支出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "10月22日、ANA Masters of Marketingカンファレンスで講演するThe Clorox CompanyのCMO、Eric Schwartz。ANAの許可を得て掲載"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "広告費がひとりでに文字を打つタイプライターに流れ込む。VABはUSのAIスロップへの支出を最大$978.7M と見積もる"
               },
               {
                 "t": "p",
-                "x": "10月22日のANA Masters of Marketingカンファレンスで、CloroxのCMOであるEric Schwartzは、キャンペーンは継続的な関連性のシステムに置き換わったと語った。そのシステムは、人が動かし、AIによる自動化が支え、パートナーが増幅するエンジンで構築されている。「大きなアイデアで一度だけ登場するということではない」と彼は述べた。"
+                "x": "Video Advertising Bureauは会員やマーケターに向けて「More Illusions of the Internet」と題した25ページの補足資料を送り、悪質なボット、偽のソーシャルメディアフォロワー、広告詐欺、AI-generatedコンテンツ、消費者詐欺に関する12の統計を追加した。資料にはVABによる新たな調査は含まれていない。"
               },
               {
                 "t": "p",
-                "x": "Pine-Solのソーシャルファーストな世界観「OMG Da Pine」は、月平均150件を超えるオーガニック投稿と13%のエンゲージメント率を記録し、TikTok Shopで四つの限定商品を発売して数時間で完売させた。"
+                "x": "資料の目玉となる広告関連の数字、すなわちAIスロップに投じられたUSのプログラマティック支出$530.1M から$978.7M という値は、VAB自身による掛け算だ。AIスロップがQ1 2026のオープンウェブのプログラマティック支出の1.3%から2.4%を占めたというANAの調査結果に、eMarketerが予測した2025年のUSのプログラマティック・デジタルディスプレイ広告費$40.78B を掛けたものである。"
               },
               {
                 "t": "p",
-                "x": "Britaの大量コンテンツモデルは毎月100点を超えるアセットを制作している。その取り組みにより、2200万件のエンゲージメントと、オーガニックインプレッションの前年比1,742%増を達成した。"
+                "x": "ANAはAIスロップを「主に収益化を目的として生成され、人の関与や独創性、オーディエンスにとっての価値がほとんど、あるいはまったくない」コンテンツと定義している。スロップ在庫は70%超の割合でプレミアムと評価され、ビューアビリティは77.2%で、クリーンな供給は74.9%だった。"
               },
               {
                 "t": "p",
-                "x": "Clorox Pureでは、AIによって市場のシグナルを使い、撮り直しの費用をかけずに広告クリエイティブを最適化できた。Hidden Valleyのワールドカップにちなんだランチの企画は、600点を超えるソーシャルコンテンツと60億回を超えるインプレッションを生んだ。"
-              },
-              {
-                "t": "p",
-                "x": "「コンテンツはもはやローンチ時点で完成しない。改善し続けるように作られている」とSchwartzは語った。"
+                "x": "資料はまた、2025年に世界のインターネットトラフィックの40%を悪質なボットが生み出したとするThalesのデータや、自らの脚注からは計算が合わないSociaVaultの偽フォロワー$4.6B という数字も引用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clorox告别品牌战役\n转向“相关性系统”",
-          "body": "Clorox以AI-enabled系统取代大型营销战役，为旗下品牌批量产出社交优先内容。",
-          "mini_headline": "Clorox放弃大型战役",
+          "headline": "VAB估算AI垃圾内容广告\n支出最高$978.7M",
+          "body": "VAB报告估计，最高$978.7M 的US广告支出流向了AI垃圾内容。",
+          "mini_headline": "最高$978.7M 流向AI垃圾内容",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "10月22日，The Clorox Company CMO Eric Schwartz在ANA Masters of Marketing大会上发言。经ANA许可使用"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "广告资金涌入一台自动打字的打字机，VAB估算US在AI垃圾内容上的支出最高达$978.7M"
               },
               {
                 "t": "p",
-                "x": "在10月22日的ANA Masters of Marketing大会上，Clorox CMO Eric Schwartz表示，营销战役已被“持续相关性系统”取代，这套系统依托一台由人驱动、由AI自动化赋能、由合作伙伴放大的引擎。他说：“这不是靠一个大创意露面一次。”"
+                "x": "Video Advertising Bureau向会员和营销人员发送了一份题为“More Illusions of the Internet”的25页补充材料，新增了12项关于恶意机器人、社交媒体虚假粉丝、广告欺诈、AI-generated内容和消费者诈骗的统计数据。这份材料没有包含VAB的任何新研究。"
               },
               {
                 "t": "p",
-                "x": "Pine-Sol以社交优先打造的“OMG Da Pine”世界平均每月发布150多条自然帖子，互动率达13%，还在TikTok Shop推出四款限量产品，数小时内售罄。"
+                "x": "材料中最醒目的广告数字，即US在AI垃圾内容上的程序化支出介于$530.1M 至$978.7M 之间，是VAB自己相乘得出的：ANA发现，在Q1 2026，AI垃圾内容占开放网络程序化支出的1.3%至2.4%，再乘以eMarketer预测的2025年US程序化数字展示广告支出$40.78B 。"
               },
               {
                 "t": "p",
-                "x": "Brita的高产量内容模式每月产出100多个素材；这些努力带来了2200万次互动，自然曝光同比增长1,742%。"
+                "x": "ANA将AI垃圾内容定义为“主要为变现而生成、几乎或完全没有人类投入、原创性或受众价值”的内容。垃圾内容库存有超过70%的时间被评为优质，其可见度为77.2%，而干净供应为74.9%。"
               },
               {
                 "t": "p",
-                "x": "在Clorox Pure上，AI让公司无需重拍即可利用市场信号优化广告创意。Hidden Valley借世界杯打造的牧场酱时刻产生了600多条社交内容和超过60亿次曝光。"
-              },
-              {
-                "t": "p",
-                "x": "Schwartz说：“内容不再在发布时就完成，而是为不断变好而打造。”"
+                "x": "材料还引用了Thales的数据，称2025年恶意机器人产生了全球互联网流量的40%；此外还引用了SociaVault关于虚假粉丝的$4.6B 数字，而该数字无法由其自身脚注算出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clorox cambia las campañas por\nsistemas de relevancia",
-          "body": "Clorox sustituyó las grandes campañas por sistemas AI-enabled que producen contenido social en gran volumen.",
-          "mini_headline": "Clorox deja las grandes campañas",
+          "headline": "VAB cifra el gasto en AI slop\nen hasta $978.7 millones",
+          "body": "Un informe del VAB estima que hasta $978.7 millones de la inversión publicitaria en US se destinó a AI slop.",
+          "mini_headline": "Hasta $978.7M gastados en AI slop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "Eric Schwartz, CMO de The Clorox Company, interviene en la conferencia ANA Masters of Marketing el 22 de octubre. Permiso concedido por ANA"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "El dinero publicitario cae en una máquina de escribir que teclea sola, mientras el VAB sitúa el gasto en AI slop en US en hasta $978.7 millones"
               },
               {
                 "t": "p",
-                "x": "En la conferencia ANA Masters of Marketing del 22 de octubre, el CMO de Clorox, Eric Schwartz, dijo que las campañas han sido reemplazadas por sistemas de relevancia continua, construidos con un motor impulsado por personas, habilitado por la automatización con AI y amplificado por socios. “No se trata de aparecer una vez con una gran idea”, afirmó."
+                "x": "El Video Advertising Bureau envió a sus miembros y a los profesionales de marketing un suplemento de 25 páginas titulado \"More Illusions of the Internet\", que añade 12 estadísticas sobre bots maliciosos, seguidores falsos en redes sociales, fraude publicitario, contenido AI-generated y estafas a consumidores. El documento no contiene ninguna investigación nueva del VAB."
               },
               {
                 "t": "p",
-                "x": "El universo social-first “OMG Da Pine” de Pine-Sol promedia más de 150 publicaciones orgánicas al mes y una tasa de interacción del 13%, y lanzó en TikTok Shop cuatro productos de edición limitada que se agotaron en horas."
+                "x": "Su cifra publicitaria principal, entre $530.1 millones y $978.7 millones del gasto programático de US en AI slop, es una multiplicación hecha por el propio VAB: el hallazgo de la ANA de que el AI slop representó entre el 1.3% y el 2.4% del gasto programático en la web abierta en el Q1 2026, multiplicado por la proyección de eMarketer de $40.78 mil millones de inversión en display digital programático en US para 2025."
               },
               {
                 "t": "p",
-                "x": "El modelo de contenido de alto volumen de Brita produce más de 100 piezas al mes; sus esfuerzos generaron 22 millones de interacciones y un aumento interanual del 1,742% en impresiones orgánicas."
+                "x": "La ANA define el AI slop como contenido \"generado principalmente para monetizar, con poca o ninguna aportación humana, originalidad o valor para la audiencia\". El inventario de slop recibió la calificación premium más del 70% de las veces, con una visibilidad del 77.2% frente al 74.9% del suministro limpio."
               },
               {
                 "t": "p",
-                "x": "Para Clorox Pure, la AI permitió a la empresa usar señales del mercado para optimizar la creatividad publicitaria sin el coste de una nueva sesión de fotos. El momento ranch de Hidden Valley en el Mundial generó más de 600 piezas de contenido social y más de 6 mil millones de impresiones."
-              },
-              {
-                "t": "p",
-                "x": "“El contenido ya no está terminado en el lanzamiento. Está hecho para seguir mejorando”, dijo Schwartz."
+                "x": "El documento también cita datos de Thales según los cuales los bots maliciosos generaron el 40% del tráfico mundial de internet en 2025, y una cifra de SociaVault de $4.6 mil millones en seguidores falsos que no se desprende de su propia nota al pie."
               }
             ]
           }
@@ -1591,141 +1937,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Clorox, 캠페인 대신\n‘관련성 시스템’으로",
-          "body": "Clorox가 대형 캠페인 대신 AI-enabled 콘텐츠 시스템을 택했다.",
-          "mini_headline": "Clorox, 대형 캠페인을 접다",
+          "headline": "VAB, AI 슬롭 광고비\n최대 $978.7M 추산",
+          "body": "VAB 보고서는 AI 슬롭에 간 US 광고비를 최대 $978.7M 규모로 봤다.",
+          "mini_headline": "AI 슬롭에 최대 $978.7M 지출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 발표하는 The Clorox Company CMO Eric Schwartz. ANA 사용 허가"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "광고비가 스스로 타이핑하는 타자기로 쏟아진다. VAB는 US AI 슬롭 지출을 최대 $978.7M 규모로 본다"
               },
               {
                 "t": "p",
-                "x": "10월 22일 ANA Masters of Marketing 콘퍼런스에서 Clorox CMO Eric Schwartz는 캠페인이 지속적 관련성의 시스템으로 대체됐다고 말했다. 이 시스템은 사람이 움직이고, AI 자동화가 뒷받침하며, 파트너가 증폭하는 엔진으로 만들어진다. 그는 “큰 아이디어 하나로 한 번 등장하는 게 아니다”라고 말했다."
+                "x": "Video Advertising Bureau는 회원사와 마케터들에게 \"More Illusions of the Internet\"이라는 제목의 25쪽짜리 보충 자료를 보내, 악성 봇, 가짜 소셜미디어 팔로워, 광고 사기, AI-generated 콘텐츠, 소비자 사기에 관한 통계 12건을 추가했다. 이 자료에는 VAB의 새로운 연구가 담겨 있지 않다."
               },
               {
                 "t": "p",
-                "x": "Pine-Sol의 소셜 우선 세계관 “OMG Da Pine”은 한 달 평균 150건이 넘는 오가닉 게시물과 13%의 참여율을 기록하고 있으며, TikTok Shop에서 한정판 제품 네 가지를 내놓아 몇 시간 만에 매진시켰다."
+                "x": "자료가 내세운 광고 수치, 즉 AI 슬롭에 쓰인 US 프로그래매틱 지출 $530.1M 에서 $978.7M 사이라는 값은 VAB가 직접 곱해 낸 것이다. AI 슬롭이 Q1 2026 오픈 웹 프로그래매틱 지출의 1.3%에서 2.4%를 차지했다는 ANA의 조사 결과에, eMarketer가 전망한 2025년 US 프로그래매틱 디지털 디스플레이 광고비 $40.78B 를 곱했다."
               },
               {
                 "t": "p",
-                "x": "Brita의 대량 콘텐츠 모델은 매달 100개가 넘는 에셋을 만든다. 이를 통해 2,200만 건의 참여와 전년 대비 1,742% 늘어난 오가닉 노출을 얻었다."
+                "x": "ANA는 AI 슬롭을 \"사람의 개입이나 독창성, 오디언스 가치가 거의 또는 전혀 없이 주로 수익화를 위해 생성된\" 콘텐츠로 정의한다. 슬롭 인벤토리는 70%가 넘는 경우 프리미엄 등급을 받았고, 가시성은 77.2%로 클린 공급의 74.9%와 비교됐다."
               },
               {
                 "t": "p",
-                "x": "Clorox Pure에서는 AI 덕분에 재촬영 비용 없이 시장 신호를 활용해 광고 크리에이티브를 최적화할 수 있었다. Hidden Valley의 월드컵 랜치 모먼트는 600개가 넘는 소셜 콘텐츠와 60억 회가 넘는 노출을 만들어 냈다."
-              },
-              {
-                "t": "p",
-                "x": "Schwartz는 “콘텐츠는 더 이상 출시 시점에 완성되지 않는다. 계속 나아지도록 만들어진다”고 말했다."
+                "x": "자료는 또 2025년 전 세계 인터넷 트래픽의 40%를 악성 봇이 만들었다는 Thales 데이터와, 자체 각주로는 계산이 맞지 않는 SociaVault의 가짜 팔로워 $4.6B 수치도 인용했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Clorox、キャンペーン\nから「関連性の仕組み」へ",
-          "body": "Cloroxは大型キャンペーンをAI-enabledの量産型の仕組みに替えた。",
-          "mini_headline": "Clorox、大型キャンペーンをやめる",
+          "headline": "VAB、AIスロップ広告費\n最大$978.7M と推計",
+          "body": "VABの報告書は、AIスロップに使われたUSの広告費を最大$978.7M と推計した。",
+          "mini_headline": "AIスロップに最大$978.7M の支出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "10月22日、ANA Masters of Marketingカンファレンスで講演するThe Clorox CompanyのCMO、Eric Schwartz。ANAの許可を得て掲載"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "広告費がひとりでに文字を打つタイプライターに流れ込む。VABはUSのAIスロップへの支出を最大$978.7M と見積もる"
               },
               {
                 "t": "p",
-                "x": "10月22日のANA Masters of Marketingカンファレンスで、CloroxのCMOであるEric Schwartzは、キャンペーンは継続的な関連性のシステムに置き換わったと語った。そのシステムは、人が動かし、AIによる自動化が支え、パートナーが増幅するエンジンで構築されている。「大きなアイデアで一度だけ登場するということではない」と彼は述べた。"
+                "x": "Video Advertising Bureauは会員やマーケターに向けて「More Illusions of the Internet」と題した25ページの補足資料を送り、悪質なボット、偽のソーシャルメディアフォロワー、広告詐欺、AI-generatedコンテンツ、消費者詐欺に関する12の統計を追加した。資料にはVABによる新たな調査は含まれていない。"
               },
               {
                 "t": "p",
-                "x": "Pine-Solのソーシャルファーストな世界観「OMG Da Pine」は、月平均150件を超えるオーガニック投稿と13%のエンゲージメント率を記録し、TikTok Shopで四つの限定商品を発売して数時間で完売させた。"
+                "x": "資料の目玉となる広告関連の数字、すなわちAIスロップに投じられたUSのプログラマティック支出$530.1M から$978.7M という値は、VAB自身による掛け算だ。AIスロップがQ1 2026のオープンウェブのプログラマティック支出の1.3%から2.4%を占めたというANAの調査結果に、eMarketerが予測した2025年のUSのプログラマティック・デジタルディスプレイ広告費$40.78B を掛けたものである。"
               },
               {
                 "t": "p",
-                "x": "Britaの大量コンテンツモデルは毎月100点を超えるアセットを制作している。その取り組みにより、2200万件のエンゲージメントと、オーガニックインプレッションの前年比1,742%増を達成した。"
+                "x": "ANAはAIスロップを「主に収益化を目的として生成され、人の関与や独創性、オーディエンスにとっての価値がほとんど、あるいはまったくない」コンテンツと定義している。スロップ在庫は70%超の割合でプレミアムと評価され、ビューアビリティは77.2%で、クリーンな供給は74.9%だった。"
               },
               {
                 "t": "p",
-                "x": "Clorox Pureでは、AIによって市場のシグナルを使い、撮り直しの費用をかけずに広告クリエイティブを最適化できた。Hidden Valleyのワールドカップにちなんだランチの企画は、600点を超えるソーシャルコンテンツと60億回を超えるインプレッションを生んだ。"
-              },
-              {
-                "t": "p",
-                "x": "「コンテンツはもはやローンチ時点で完成しない。改善し続けるように作られている」とSchwartzは語った。"
+                "x": "資料はまた、2025年に世界のインターネットトラフィックの40%を悪質なボットが生み出したとするThalesのデータや、自らの脚注からは計算が合わないSociaVaultの偽フォロワー$4.6B という数字も引用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clorox告别品牌战役\n转向“相关性系统”",
-          "body": "Clorox以AI-enabled系统取代大型营销战役，为旗下品牌批量产出社交优先内容。",
-          "mini_headline": "Clorox放弃大型战役",
+          "headline": "VAB估算AI垃圾内容广告\n支出最高$978.7M",
+          "body": "VAB报告估计，最高$978.7M 的US广告支出流向了AI垃圾内容。",
+          "mini_headline": "最高$978.7M 流向AI垃圾内容",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "10月22日，The Clorox Company CMO Eric Schwartz在ANA Masters of Marketing大会上发言。经ANA许可使用"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "广告资金涌入一台自动打字的打字机，VAB估算US在AI垃圾内容上的支出最高达$978.7M"
               },
               {
                 "t": "p",
-                "x": "在10月22日的ANA Masters of Marketing大会上，Clorox CMO Eric Schwartz表示，营销战役已被“持续相关性系统”取代，这套系统依托一台由人驱动、由AI自动化赋能、由合作伙伴放大的引擎。他说：“这不是靠一个大创意露面一次。”"
+                "x": "Video Advertising Bureau向会员和营销人员发送了一份题为“More Illusions of the Internet”的25页补充材料，新增了12项关于恶意机器人、社交媒体虚假粉丝、广告欺诈、AI-generated内容和消费者诈骗的统计数据。这份材料没有包含VAB的任何新研究。"
               },
               {
                 "t": "p",
-                "x": "Pine-Sol以社交优先打造的“OMG Da Pine”世界平均每月发布150多条自然帖子，互动率达13%，还在TikTok Shop推出四款限量产品，数小时内售罄。"
+                "x": "材料中最醒目的广告数字，即US在AI垃圾内容上的程序化支出介于$530.1M 至$978.7M 之间，是VAB自己相乘得出的：ANA发现，在Q1 2026，AI垃圾内容占开放网络程序化支出的1.3%至2.4%，再乘以eMarketer预测的2025年US程序化数字展示广告支出$40.78B 。"
               },
               {
                 "t": "p",
-                "x": "Brita的高产量内容模式每月产出100多个素材；这些努力带来了2200万次互动，自然曝光同比增长1,742%。"
+                "x": "ANA将AI垃圾内容定义为“主要为变现而生成、几乎或完全没有人类投入、原创性或受众价值”的内容。垃圾内容库存有超过70%的时间被评为优质，其可见度为77.2%，而干净供应为74.9%。"
               },
               {
                 "t": "p",
-                "x": "在Clorox Pure上，AI让公司无需重拍即可利用市场信号优化广告创意。Hidden Valley借世界杯打造的牧场酱时刻产生了600多条社交内容和超过60亿次曝光。"
-              },
-              {
-                "t": "p",
-                "x": "Schwartz说：“内容不再在发布时就完成，而是为不断变好而打造。”"
+                "x": "材料还引用了Thales的数据，称2025年恶意机器人产生了全球互联网流量的40%；此外还引用了SociaVault关于虚假粉丝的$4.6B 数字，而该数字无法由其自身脚注算出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clorox cambia las campañas por\nsistemas de relevancia",
-          "body": "Clorox sustituyó las grandes campañas por sistemas AI-enabled que producen contenido social en gran volumen.",
-          "mini_headline": "Clorox deja las grandes campañas",
+          "headline": "VAB cifra el gasto en AI slop\nen hasta $978.7 millones",
+          "body": "Un informe del VAB estima que hasta $978.7 millones de la inversión publicitaria en US se destinó a AI slop.",
+          "mini_headline": "Hasta $978.7M gastados en AI slop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
-                "cap": "Eric Schwartz, CMO de The Clorox Company, interviene en la conferencia ANA Masters of Marketing el 22 de octubre. Permiso concedido por ANA"
+                "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+                "cap": "El dinero publicitario cae en una máquina de escribir que teclea sola, mientras el VAB sitúa el gasto en AI slop en US en hasta $978.7 millones"
               },
               {
                 "t": "p",
-                "x": "En la conferencia ANA Masters of Marketing del 22 de octubre, el CMO de Clorox, Eric Schwartz, dijo que las campañas han sido reemplazadas por sistemas de relevancia continua, construidos con un motor impulsado por personas, habilitado por la automatización con AI y amplificado por socios. “No se trata de aparecer una vez con una gran idea”, afirmó."
+                "x": "El Video Advertising Bureau envió a sus miembros y a los profesionales de marketing un suplemento de 25 páginas titulado \"More Illusions of the Internet\", que añade 12 estadísticas sobre bots maliciosos, seguidores falsos en redes sociales, fraude publicitario, contenido AI-generated y estafas a consumidores. El documento no contiene ninguna investigación nueva del VAB."
               },
               {
                 "t": "p",
-                "x": "El universo social-first “OMG Da Pine” de Pine-Sol promedia más de 150 publicaciones orgánicas al mes y una tasa de interacción del 13%, y lanzó en TikTok Shop cuatro productos de edición limitada que se agotaron en horas."
+                "x": "Su cifra publicitaria principal, entre $530.1 millones y $978.7 millones del gasto programático de US en AI slop, es una multiplicación hecha por el propio VAB: el hallazgo de la ANA de que el AI slop representó entre el 1.3% y el 2.4% del gasto programático en la web abierta en el Q1 2026, multiplicado por la proyección de eMarketer de $40.78 mil millones de inversión en display digital programático en US para 2025."
               },
               {
                 "t": "p",
-                "x": "El modelo de contenido de alto volumen de Brita produce más de 100 piezas al mes; sus esfuerzos generaron 22 millones de interacciones y un aumento interanual del 1,742% en impresiones orgánicas."
+                "x": "La ANA define el AI slop como contenido \"generado principalmente para monetizar, con poca o ninguna aportación humana, originalidad o valor para la audiencia\". El inventario de slop recibió la calificación premium más del 70% de las veces, con una visibilidad del 77.2% frente al 74.9% del suministro limpio."
               },
               {
                 "t": "p",
-                "x": "Para Clorox Pure, la AI permitió a la empresa usar señales del mercado para optimizar la creatividad publicitaria sin el coste de una nueva sesión de fotos. El momento ranch de Hidden Valley en el Mundial generó más de 600 piezas de contenido social y más de 6 mil millones de impresiones."
-              },
-              {
-                "t": "p",
-                "x": "“El contenido ya no está terminado en el lanzamiento. Está hecho para seguir mejorando”, dijo Schwartz."
+                "x": "El documento también cita datos de Thales según los cuales los bots maliciosos generaron el 40% del tráfico mundial de internet en 2025, y una cifra de SociaVault de $4.6 mil millones en seguidores falsos que no se desprende de su propia nota al pie."
               }
             ]
           }

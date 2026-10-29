@@ -1,50 +1,38 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-30",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-doximity-uptodate-ask",
+      "id": "hoppr-msk-xray-drafting",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Doximity adds UpToDate\nto its Ask AI tool",
-      "body": "Doximity is embedding Wolters Kluwer's UpToDate clinical content directly inside Ask, its AI decision support tool.",
-      "mini_headline": "Doximity adds UpToDate to Ask",
+      "headline": "HOPPR model drafts findings\nfor whole-body MSK x-rays",
+      "body": "HOPPR's beta vision-language model drafts findings for musculoskeletal radiographs from up to three views per study.",
+      "mini_headline": "HOPPR drafts MSK x-ray findings",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
-      "accent": "#2ec5c5",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-            "cap": "As Doximity ramps up its investment in clinical AI tools, the partnership with Wolters Kluwer positions Ask as the front door to clinical knowledge."
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+            "cap": "X-ray image of human knee joint showing femur, tibia, fibula, and patella in anteroposterior view"
           },
           {
             "t": "p",
-            "x": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool."
+            "x": "HOPPR is launching a beta version of its FS MSK Whole-Body Narrative Model, a vision-language foundation model that generates draft findings text for musculoskeletal (MSK) radiographs using up to three views per study."
           },
           {
             "t": "p",
-            "x": "In the coming weeks, at health systems that use both products, clinicians will see an answer based on UpToDate’s 13,000 clinical topics and best practice guides alongside Doximity Ask’s response, without leaving the Ask workflow."
+            "x": "The model was trained on about 674,000 outpatient MSK studies covering the spine, thorax and chest wall, upper extremity, and pelvis and lower extremity, according to the vendor. It focuses on describing abnormalities rather than normal anatomy. HOPPR said it evaluated the model against 26 MSK finding categories, including fracture, degenerative joint and spine changes, alignment, and hardware."
           },
           {
             "t": "p",
-            "x": "The company aims to become a leading AI platform for doctors, scaling a clinical AI suite that includes its ambient note-taking tool Scribe and Ask. A year ago, Doximity acquired clinical AI company Pathway."
-          },
-          {
-            "t": "p",
-            "x": "“Every frontier model has read all the same journals. UpToDate stands alone as a gold standard reference from experienced physicians about what happens when there isn't an RCT,” Doximity CEO Jeff Tangney told Fierce Healthcare."
-          },
-          {
-            "t": "p",
-            "x": "Doximity’s membership includes more than 85% of all U.S. doctors, and its clinical AI tools, including Ask, have been deployed across more than 165 health systems, according to the company."
-          },
-          {
-            "t": "p",
-            "x": "Competition in clinical AI is intensifying. Wolters Kluwer has also partnered with Epic and Abridge to integrate UpToDate into their AI-powered CDS tools."
+            "x": "The model is designed as a software component for developers building radiology reporting and workflow applications, and HOPPR’s Forward Deployed Services team will customize and integrate it for each organization’s data and workflows, the company said. It is not cleared by the U.S. Food and Drug Administration (FDA) and is not intended for diagnostic use, the firm said."
           }
         ]
       }

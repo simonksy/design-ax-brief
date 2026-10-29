@@ -9890,6 +9890,173 @@
           "x": "Para pantallas de forma conocida, Jev de TypeSafe, un modelo System One, responde preguntas de diseño tipadas en unos 100 a 300 ms. En el ejemplo de código abierto Apparite (jev2ui), el árbol de componentes apareció en pantalla en 92 a 298 ms y cada pantalla se completó en 0.8 a 1.7 s a lo largo de 11 prompts."
         }
       ]
+    },
+    "design/canva-brush-vlm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+        },
+        {
+          "t": "p",
+          "x": "Hoy presentamos Canva Brush, un nuevo modelo de visión y lenguaje para diseño creado por Canva Research. Brush ve tu diseño, entiende cómo está construido y aplica los cambios que pides, desde una sola línea de texto hasta todas las diapositivas de una presentación. Llega una semana después de nuestro primer modelo de generación de imágenes, Canva Craft; ambos los desarrolló Canva Research, nuestro laboratorio de IA de 160 personas."
+        },
+        {
+          "t": "p",
+          "x": "Desde el lanzamiento de hoy, es hasta un 69% más rápido en tareas generales de edición de diseño y cuesta un 46% menos por tarea de edición que el anterior agente de diseño de Canva."
+        },
+        {
+          "t": "img",
+          "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+        },
+        {
+          "t": "p",
+          "x": "Internamente, Brush usa un bucle agéntico que escribe y ejecuta código para ajustar los elementos del diseño y luego revisa lo que ocurre en la página para decidir el siguiente paso. Todo lo que crea es totalmente editable."
+        },
+        {
+          "t": "img",
+          "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+        },
+        {
+          "t": "p",
+          "x": "Brush partió de un modelo de pesos abiertos líder, posentrenado con tareas reales de diseño y edición y combinado con aprendizaje por refuerzo a gran escala, con un sistema de recompensas que evalúa la calidad visual, la maquetación y la finalización de la tarea."
+        },
+        {
+          "t": "img",
+          "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
+        },
+        {
+          "t": "p",
+          "x": "Desde hoy, Brush impulsa las ediciones de diseño compatibles en Canva AI para los usuarios de los planes Canva Pro, y pronto llegará a más usuarios. El soporte para Brand Kit y las referencias a archivos adjuntos están en desarrollo."
+        }
+      ]
+    },
+    "design/snaptrude-bim-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Snaptrude ha presentado Snaptrude Agent, un agente de IA para su plataforma BIM pensado para acompañar a los equipos desde los primeros estudios de concepto hasta modelos LoD 400 listos para obra que incorporan estructura, instalaciones mecánicas, eléctricas y de fontanería (MEP) y planos. Los usuarios plantean al agente una instrucción o un problema, revisan el plan que propone y luego lo aprueban o le dan nuevas indicaciones."
+        },
+        {
+          "t": "p",
+          "x": "Puede generar múltiples opciones volumétricas a partir de un análisis del emplazamiento, desde unas pocas alternativas hasta cientos. Según la empresa, el agente puede convertir modelos volumétricos en modelos BIM LoD 400 detallados en minutos; para los componentes que no estén en las bibliotecas existentes, los usuarios pueden aportar fichas técnicas de los fabricantes."
+        },
+        {
+          "t": "p",
+          "x": "El agente también admite el modelado paramétrico estructural y de MEP, y puede generar juegos de planos de obra según los estándares de cada estudio. Los modelos pueden transferirse a Revit conservando las familias existentes."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los proyectos pueden empezar en un solar vacío o usar modelos existentes importados de Revit, Rhino o SketchUp, de modo que los equipos pueden aplicar el agente tanto a diseños nuevos como a proyectos ya en curso."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+        }
+      ]
+    },
+    "design/fusion-oct26-auto-timeline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+        },
+        {
+          "t": "p",
+          "x": "La actualización de octubre de 2026 de Autodesk Fusion añade Auto Timeline, asistido por IA (AI-assisted), para modelos importados, un System Modeler sin código, mejoras de torneado, nuevas vistas de taladros y de cobre en eCAD y gestión de tareas integrada."
+        },
+        {
+          "t": "video",
+          "yt": "Pq616aIBf3I"
+        },
+        {
+          "t": "p",
+          "x": "Si importas a Fusion un modelo no nativo y necesitas cambiarlo, probablemente hayas acabado reconstruyendo partes desde cero. Auto Timeline usa reconstrucción de operaciones asistida por IA para convertir esa geometría en un diseño paramétrico editable de Fusion. Hoy reconstruye extrusiones, revoluciones, chaflanes, empalmes, agujeros y barridos básicos, y llegarán más tipos de operaciones. Está pensado para ajustes rápidos del modelo, no para reconstrucciones completas."
+        },
+        {
+          "t": "p",
+          "x": "System Modeler es un entorno de scripting basado en nodos que automatiza tareas repetitivas de diseño y fabricación sin escribir código. El torneado suma la posición de tirada de barra, la limpieza de crestas en el desbaste de ranuras y límites de herramienta; los planos de eCAD añaden vistas de taladros, tablas de taladros y vistas de cobre."
+        },
+        {
+          "t": "p",
+          "x": "La gestión de tareas está integrada en Fusion, vinculada a los diseños, con tableros Kanban o de lista. Con Autodesk Assistant puedes crear tareas, actualizar el trabajo existente o encontrar lo que necesitas en lenguaje natural."
+        }
+      ]
+    },
+    "design/uxc-deep-research-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+          "cap": "Diseñar para la investigación compleja con IA"
+        },
+        {
+          "t": "p",
+          "x": "¿Qué ocurre cuando generar una respuesta lleva minutos en lugar de segundos? Este artículo analiza interfaces que responden a las preguntas que se hacen los usuarios al trabajar con IA en tareas complejas: ¿Es esto lo que querías decir? ¿Está pasando algo? ¿Puedo entenderlo? ¿Puedo confiar en esto? ¿Qué hago ahora? ¿Puedo cambiarlo?"
+        },
+        {
+          "t": "p",
+          "x": "Cuando una respuesta tarda minutos, un mal comienzo sale caro. Las preguntas aclaratorias funcionan cuando una solicitud es vaga; un plan funciona cuando es clara pero amplia. Gemini Deep Research expone sus pasos de investigación y un tiempo estimado, y el usuario puede editar el plan o iniciar la investigación."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+          "cap": "Cadena de razonamiento de la investigación de Google"
+        },
+        {
+          "t": "p",
+          "x": "Elicit y Gemini muestran los pasos de razonamiento, ya que ver el progreso hace más llevadera la espera. Consensus califica la solidez de la evidencia, y su Consensus Meter muestra cuántos estudios dicen sí, no o tienen resultados mixtos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+          "cap": "Respuesta de Consensus"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity y Microsoft Copilot vinculan las afirmaciones con el pasaje exacto de una fuente y sugieren el siguiente paso después de cada respuesta; Copilot limita las sugerencias a tres. Layla AI permite a los usuarios cambiar directamente partes de un viaje generado."
+        },
+        {
+          "t": "p",
+          "x": "Si tu tarea de IA tarda más de 30 segundos, acuerda el alcance antes de empezar y muestra el progreso mientras trabaja."
+        }
+      ]
+    },
+    "design/replica": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GitHub abre el código de Replica, una herramienta de prototipado AI-powered creada por GitHub Design que ayuda a cualquier persona del equipo de producto a convertir ideas en prototipos interactivos con su propio sistema de diseño."
+        },
+        {
+          "t": "video",
+          "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
+        },
+        {
+          "t": "p",
+          "x": "Las buenas ideas de producto pueden surgir en cualquier parte, pero convertirlas en algo tangible suele requerir tiempo y habilidades especializadas. Replica facilita que diseñadores, gerentes de producto e ingenieros exploren ideas juntos, reciban comentarios antes e iteren sin empezar desde el principio."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de las herramientas genéricas de prototipado con AI, Replica usa los componentes, patrones y documentación que el equipo ya tiene para orientar lo que se crea. Los diseñadores definen las pautas, y cualquier miembro del equipo puede usar lenguaje natural en la app GitHub Copilot para crear y ajustar prototipos que reflejan cómo funciona realmente el producto."
+        },
+        {
+          "t": "p",
+          "x": "Con Replica se puede prototipar con el propio sistema de diseño; convertir ideas en experiencias interactivas y luego ver, probar y ajustar el resultado junto a la conversación con Copilot; publicar los prototipos en un Replica Hub opcional y autoalojado, donde los compañeros pueden explorarlos y dejar comentarios; y personalizar las herramientas y pautas de código abierto para adaptarlas al producto y a los flujos de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Replica ya está disponible como proyecto de código abierto bajo la licencia MIT. Se puede empezar a prototipar en local o configurar Replica Hub para compartir prototipos con el equipo."
+        }
+      ]
     }
   }
 }

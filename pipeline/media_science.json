@@ -1,6 +1,31 @@
-{"date":"2026-10-29","section":"science","media":[
-{"id":"nmr-spectrometer","type":"image","src":"pipeline/media/nmr-spectrometer.jpg"},
-{"id":"pasqal","type":"image","src":"pipeline/media/pasqal.png"},
-{"id":"novelty-bench","type":"image","src":"pipeline/media/novelty-bench.png"},
-{"id":"blight-rice","type":"image","src":"pipeline/media/blight-rice.jpg"},
-{"id":"ai-ideas-people","type":"image","src":"pipeline/media/ai-ideas-people.jpg"}]}
+{
+ "date": "2026-10-30",
+ "section": "science",
+ "media": [
+  {
+   "id": "linkoping-mxene-mining",
+   "type": "image",
+   "src": "pipeline/media/linkoping-mxene-mining.jpg"
+  },
+  {
+   "id": "nyu-wildfire-digital-twin",
+   "type": "image",
+   "src": "pipeline/media/nyu-wildfire-digital-twin.jpg"
+  },
+  {
+   "id": "radboud-fluent-hallucination",
+   "type": "image",
+   "src": "pipeline/media/radboud-fluent-hallucination.jpg"
+  },
+  {
+   "id": "google-sleep-continual-learning",
+   "type": "image",
+   "src": "pipeline/media/google-sleep-continual-learning.jpg"
+  },
+  {
+   "id": "yonsei-mamba-qec-decoder",
+   "type": "image",
+   "src": "pipeline/media/yonsei-mamba-qec-decoder.png"
+  }
+ ]
+}

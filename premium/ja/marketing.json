@@ -2872,6 +2872,163 @@
           "x": "New Yorkの合成パフォーマー開示法は2026年6月9日から、EU AI ActのArticle 50（第50条）は2026年8月2日から適用されている。また本報告書は、結果に直接の商業的利害を持つベンダーによるものでもある。"
         }
       ]
+    },
+    "marketing/google-aimode-sponsored-blend": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GoogleはAI Modeの自然検索の商品結果の中に、スポンサー商品、つまり広告を混ぜる試験をしているようだ。商品結果の上には「Sponsored」や「All products」と表示され得る行がある。スクリーンショットを見ても、「All products」がスポンサー商品なのかどうか確信が持てない。"
+        },
+        {
+          "t": "p",
+          "x": "これが確かにGoogleがAI Modeで実施している「実験」であることを確認した。Googleの広報担当者は次のように語った。「はい、この形式はAI Modeにおける広告の継続的な実験の一環です。商業的な関連性のある検索語では、カルーセル内でShopping Adsが自然検索のビジュアル検索結果と並んで表示されることがあります。スポンサー掲載はすべて『Sponsored』と表示されます」"
+        },
+        {
+          "t": "p",
+          "x": "これを見つけたのはSachin Patelで、SEWにスクリーンショットを投稿した。以下がそのスクリーンショットだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+          "cap": "SponsoredとAll productsの見出し"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+          "cap": "SponsoredとAll productsの見出し"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+          "cap": "All productsの見出しのみ"
+        },
+        {
+          "t": "p",
+          "x": "Googleは改めて「商業的な関連性のある検索語では、カルーセル内でShopping Adsが自然検索のビジュアル検索結果と並んで表示されることがあります。スポンサー掲載はすべて『Sponsored』と表示されます」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは2023年10月に広告と自然検索結果の混在を認め、以来その方針を変えていない。Googleはこれを動的広告配置と呼んでいる。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "だとすれば、GoogleがAI Modeでも同じことをするのは理にかなっていると思う。"
+        }
+      ]
+    },
+    "marketing/triton-otrium-seller-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+          "cap": "AIエージェントがTriton経由でOtriumのTalpa Media音声キャンペーンを数分で予約した。ルールは事前に人が設定した"
+        },
+        {
+          "t": "p",
+          "x": "Triton Digitalによると、ブランドOtriumに代わって購入するAIエージェントが、Tritonが新たに投入したSeller Agentを通じて、オランダのパブリッシャーTalpa Mediaの音声在庫を見つけ、条件に合意し、予約まで行った。ブリーフから予約までの間に手作業の工程はなかった。Tritonはこれを音声業界初としている。代理店はDraft Digitalが務めた。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはキャンペーンのブリーフィングに合う音声商品を特定し、両システムが空き状況と条件をすり合わせ、キャンペーンは広告サーバーで自動的に予約された。Tritonは取引が「大幅に短い時間、つまり数日ではなく数分で済んだ」とするが、実際の所要時間や価格、予算、キャンペーン規模は明らかにしていない。"
+        },
+        {
+          "t": "p",
+          "x": "Seller Agentは「Triton Ad Platform（TAP）上に構築された新たなエージェント機能」だ。エージェントが動く前に、Tritonと代理店のチームが条件、価格のガードレール、データ・プライバシー・キャンペーン検証の基準を定めた。リリースは「Agent-to-agentの実行はその説明責任をなくすのではなく、審査を前倒しにする」としている。"
+        },
+        {
+          "t": "p",
+          "x": "Tritonはこの取引を、Advertising Context Protocol（AdCP）を管理するAgenticAdvertising.orgの創設メンバーとしての役割と結びつけているが、予約がAdCPを経由したかどうかは明らかにしていない。Triton DigitalのChief Product OfficerであるBenjamin Masseは「音声には成果の問題があるのではなく、配分の問題がある」と述べた。"
+        }
+      ]
+    },
+    "marketing/tatari-ctv-ad-matching-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
+        },
+        {
+          "t": "p",
+          "x": "CTV広告プラットフォームのTatariは木曜日、広告サーバー段階に位置し、ブランドやパブリッシャーがどのTV広告をどの視聴者に配信するかを決めるのを支援する最適化エンジン「Tatari Max」の提供開始を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "TatariのCEO兼Co-FounderであるPhilip Inghelbrechtは、この製品はエージェント型AIとはまったく別物だと強調する。新しいデータが出てくるにつれて時間とともに進化する機械学習に基づいているという。デバイスIDs、購買行動、人口統計情報などのシグナルを使い、どの人が特定の広告に最もよく反応するかを判断し、「アフィニティスコア」を算出する。"
+        },
+        {
+          "t": "p",
+          "x": "初期テスターのRhobackは、女性向けアクティブウェアの新コレクションのHulu広告をひと月テストし、購入が32%、サイト訪問が10%増えた。"
+        },
+        {
+          "t": "p",
+          "x": "Tatari Maxは、Tatariのサプライサイド基盤であるUpstream上に構築されている。UpstreamはParamount、Peacock、Disneyなどのプレミアム TVパブリッシャーと接続し、直販限定の在庫も見ることができる。自社の在庫にしか接続しないMetaのAdvantage PlusやGoogleのPerformance Maxとはこの点が異なる。"
+        },
+        {
+          "t": "p",
+          "x": "字幕アプリのRyloでは、Tatari Maxは最もよく反応する人が成人した子どもや介護者など世帯の若いメンバーであることが多く、彼らには体験談型の広告が最も効果的だと突き止めた。"
+        }
+      ]
+    },
+    "marketing/vab-ai-slop-ad-spend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+          "cap": "広告費がひとりでに文字を打つタイプライターに流れ込む。VABはUSのAIスロップへの支出を最大$978.7M と見積もる"
+        },
+        {
+          "t": "p",
+          "x": "Video Advertising Bureauは会員やマーケターに向けて「More Illusions of the Internet」と題した25ページの補足資料を送り、悪質なボット、偽のソーシャルメディアフォロワー、広告詐欺、AI-generatedコンテンツ、消費者詐欺に関する12の統計を追加した。資料にはVABによる新たな調査は含まれていない。"
+        },
+        {
+          "t": "p",
+          "x": "資料の目玉となる広告関連の数字、すなわちAIスロップに投じられたUSのプログラマティック支出$530.1M から$978.7M という値は、VAB自身による掛け算だ。AIスロップがQ1 2026のオープンウェブのプログラマティック支出の1.3%から2.4%を占めたというANAの調査結果に、eMarketerが予測した2025年のUSのプログラマティック・デジタルディスプレイ広告費$40.78B を掛けたものである。"
+        },
+        {
+          "t": "p",
+          "x": "ANAはAIスロップを「主に収益化を目的として生成され、人の関与や独創性、オーディエンスにとっての価値がほとんど、あるいはまったくない」コンテンツと定義している。スロップ在庫は70%超の割合でプレミアムと評価され、ビューアビリティは77.2%で、クリーンな供給は74.9%だった。"
+        },
+        {
+          "t": "p",
+          "x": "資料はまた、2025年に世界のインターネットトラフィックの40%を悪質なボットが生み出したとするThalesのデータや、自らの脚注からは計算が合わないSociaVaultの偽フォロワー$4.6B という数字も引用している。"
+        }
+      ]
+    },
+    "marketing/aimodeads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "AI Modeの広告を新たな国々に広げる。"
+        },
+        {
+          "t": "p",
+          "x": "AIが人々の検索の仕方を変えるなか、検索語句はますます会話的になっている。AI Modeでは、検索語句は従来の検索より平均で三倍長い。AIは人々が何を探しているかをより深く理解する助けとなり、ニーズに最も合う企業やサービスへとつなげることができる。"
+        },
+        {
+          "t": "p",
+          "x": "当社の調査では、人々はAI Modeの広告に抵抗がなく、関連性が高いと感じている。実際、AI Mode内ではスポンサー付きの商品リストとオーガニックの商品リストのクリック率がすでに同水準にある。"
+        },
+        {
+          "t": "p",
+          "x": "今回、オーストラリア、カナダ、インド、ケニア、マレーシア、ニュージーランド、ナイジェリア、パキスタン、フィリピン、シンガポールでAI Modeの広告を拡大する。Q4 2026には、ブラジル、メキシコ、英国などさらに多くの地域へ広げる計画だ。"
+        },
+        {
+          "t": "p",
+          "x": "AI Modeでの追加の質問にも広告を表示できるよう、U.S.でマルチターン広告を開始する。"
+        },
+        {
+          "t": "p",
+          "x": "広告には「Sponsored」と明確に表示される。広告が役立ち、関連性を保ち続けるよう、新しい形式のテストを続ける。"
+        }
+      ]
     }
   }
 }

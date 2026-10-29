@@ -2663,6 +2663,130 @@
           "x": "Los espermatozoides identificados con STAR han dado lugar al menos a tres nacimientos vivos en los que los espermatozoides recuperados se usaron para ICSI o criopreservación. Una limitación importante es la facilidad de uso: STAR requiere un técnico altamente capacitado para operarlo."
         }
       ]
+    },
+    "medicine/nature-cancer-irae-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los eventos adversos inmunorrelacionados (irAEs) afectan hasta al 40% de los pacientes que reciben inhibidores de puntos de control inmunitario, pero identificarlos exige una revisión manual de historias clínicas laboriosa e inconsistente. Los autores desarrollaron y evaluaron un sistema agéntico basado en modelos de lenguaje de gran tamaño para extraer de las notas clínicas la presencia, la temporalidad, el grado de gravedad, la atribución y la certeza de seis tipos de irAE."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+          "cap": "Fig. 1: Marco de validación multidimensional para un sistema agéntico de detección de irAE LLM-based."
+        },
+        {
+          "t": "p",
+          "x": "De forma retrospectiva, el sistema alcanzó un F1 macropromediado de 0.92 en la detección de eventos actuales y de 0.66 en la gradación de gravedad multiclase; la autoconsistencia mejoró el F1 en 0.14. La configuración con mejor rendimiento costó aproximadamente US$0.02 por nota. En un despliegue prospectivo silencioso durante 3 meses, el F1 binario fue de 0.72–0.79."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+          "cap": "Fig. 2: Arquitectura agéntica multietapa para la detección, gradación, atribución y evaluación de certeza de irAE."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio cruzado aleatorizado con personal de ensayos clínicos, la asistencia agéntica redujo el tiempo de anotación en 2.71 min (P < 0.001), aumentó la exactitud de coincidencia completa (odds ratio 1.45; intervalo de confianza del 95% 1.01–2.08; P = 0.045) y mejoró la concordancia entre anotadores (Krippendorff's α de 0.22–0.51 a 0.82–0.85)."
+        }
+      ]
+    },
+    "medicine/nyu-langone-openevidence-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenEvidence amplía su presencia en New York City mediante una alianza con NYU Langone Health. Su plataforma de evidencia clínica impulsada por AI (AI-powered) se integra directamente en los flujos de trabajo del Epic EHR de NYU Langone, abarca sus hospitales, su red ambulatoria y los Family Health Centers, y llega a los médicos en formación de la NYU Grossman School of Medicine y la NYU Grossman Long Island School of Medicine. NYU Langone registra más de 12 millones de visitas ambulatorias al año y más de 6,000 médicos y docentes."
+        },
+        {
+          "t": "p",
+          "x": "Los clínicos podrán formular preguntas clínicas complejas en lenguaje natural y recibir respuestas basadas en literatura médica revisada por pares y contrastadas con la historia clínica del propio paciente, sin salir de su flujo de trabajo de Epic. \"Poner OpenEvidence dentro de la historia clínica en NYU Langone significa que la literatura médica del mundo está ahora presente en cada una de los doce millones de visitas que este sistema atiende cada año\", dijo el fundador y CEO Daniel Nadler."
+        },
+        {
+          "t": "p",
+          "x": "La compañía afirma que aproximadamente dos tercios de los médicos de U.S. usan su plataforma; 1.2 millones de clínicos verificados de U.S. la consultaron 45 millones de veces en octubre. Ya está implantada en NewYork-Presbyterian y Mount Sinai y tiene una alianza en oncología con Memorial Sloan Kettering. Un estudio de JAMA halló que casi 1 millón de clínicos de U.S. enviaron 271 millones de consultas entre enero de 2024 y junio de 2026, el 51.9% relacionadas con la toma de decisiones clínicas."
+        }
+      ]
+    },
+    "medicine/doximity-dosing-error-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Una investigación publicada por Doximity muestra que su herramienta de verificación de dosis superó a los modelos de AI de uso general, que según la empresa están plagados de errores. Doximity afirma que probó un puñado de grandes modelos de lenguaje lanzados en 2026 con más de 8,500 preguntas clínicas de dosificación sobre más de 2,200 fármacos FDA-approved (aprobados por la FDA)."
+        },
+        {
+          "t": "p",
+          "x": "Los fármacos aprobados recientemente tuvieron cinco veces más probabilidades de error. De los errores detectados, el 13.2% fueron leves, el 43% significativos y el 3.4% potencialmente letales. El fallo más común fue no ajustar la dosis según la edad, la función renal o las interacciones farmacológicas, incluso cuando esa información figuraba en la pregunta."
+        },
+        {
+          "t": "p",
+          "x": "Doximity aseguró que su nueva herramienta de verificación, DoseCheck, acertó el 99.9% de las veces; la presenta como una red de seguridad dentro de Doximity Ask. \"Los modos de fallo que vimos no son exclusivos de la dosificación\", dijo Dr. Louis-Antoine Mullie, investigador jefe de AI en Doximity."
+        },
+        {
+          "t": "p",
+          "x": "La investigación llega cuando Anthropic y OpenAI entran en la atención sanitaria. Los estudios apuntan en ambas direcciones: investigadores de Stanford y Harvard hallaron que las herramientas clínicas especializadas superaban a los modelos de uso general, mientras que otro equipo llegó este verano a la conclusión contraria."
+        }
+      ]
+    },
+    "medicine/hoppr-msk-xray-drafting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+          "cap": "Imagen de X-ray de la articulación de la rodilla humana que muestra fémur, tibia, peroné y rótula en proyección anteroposterior"
+        },
+        {
+          "t": "p",
+          "x": "HOPPR lanza una versión beta de su FS MSK Whole-Body Narrative Model, un modelo fundacional de visión y lenguaje que genera borradores de texto de hallazgos para radiografías musculoesqueléticas (MSK) con hasta tres vistas por estudio."
+        },
+        {
+          "t": "p",
+          "x": "Según el proveedor, el modelo se entrenó con unos 674,000 estudios MSK ambulatorios de columna, tórax y pared torácica, extremidad superior, y pelvis y extremidad inferior. Se centra en describir anomalías y no la anatomía normal. HOPPR dijo que evaluó el modelo en 26 categorías de hallazgos MSK, entre ellas fracturas, cambios degenerativos articulares y de columna, alineación y material implantado."
+        },
+        {
+          "t": "p",
+          "x": "El modelo está diseñado como un componente de software para desarrolladores que crean aplicaciones de informes radiológicos y de flujo de trabajo, y el equipo Forward Deployed Services de HOPPR lo personalizará e integrará según los datos y flujos de trabajo de cada organización, dijo la empresa. No cuenta con la autorización de la U.S. Food and Drug Administration (FDA) y no está destinado a uso diagnóstico, señaló la firma."
+        }
+      ]
+    },
+    "medicine/medicine-zocdoc-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La empresa de citas en línea Zocdoc permite ahora que agentes de AI busquen proveedores y reserven citas en nombre de los pacientes."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes deben registrarse en Zocdoc para obtener acceso y conseguir el consentimiento del paciente antes de reservar o cancelar una cita en su plataforma en línea, informó la empresa el miércoles. Google Gemini, Amazon Health AI e Instinct, un agente de AI basado en texto y llamadas, ya están conectados, y otros agentes pueden solicitar acceso con o sin ayuda de una persona."
+        },
+        {
+          "t": "p",
+          "x": "“Diría que recibir a los agentes como lo hacemos es una apuesta algo a contracorriente”, dijo el Dr. Oliver Kharraz, fundador y CEO de Zocdoc."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+          "cap": "Zocdoc afirma que el tráfico de agentes de AI en su plataforma se ha multiplicado casi por 30 desde julio; ahora la empresa les abre directamente su plataforma de reservas."
+        },
+        {
+          "t": "p",
+          "x": "Un agente aprobado puede conectarse al backend de AI de Zocdoc para revisar su directorio de proveedores, consultar la disponibilidad de un clínico, verificar el seguro y reservar una cita, y consulta con el paciente antes de tomar cualquier decisión final."
+        },
+        {
+          "t": "p",
+          "x": "A cambio, Zocdoc espera que los agentes obtengan el consentimiento del paciente y protejan los datos de pacientes y proveedores; no pueden entrenarse con esos datos, revenderlos ni republicarlos. Zocdoc no precisó cómo piensa garantizar que los agentes respeten ese acuerdo."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestra misión es dar poder al paciente. Si quiere delegar la reserva en un agente de AI, debemos darle el acceso sin fricciones a la atención que desea”, dijo Kharraz."
+        }
+      ]
     }
   }
 }

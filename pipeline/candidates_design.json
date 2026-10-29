@@ -1,223 +1,160 @@
 {
   "section": "design",
-  "now_iso": "2026-10-28T22:04:45Z",
+  "now_iso": "2026-10-29T22:00:32Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Figma Weave image and video models now reachable from AI agents via the Figma MCP",
-      "url": "https://www.figma.com/release-notes/",
-      "source": "Figma",
+      "title": "How we're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "source": "Figma Blog",
       "category": "figma",
-      "published_iso": "2026-10-26T00:00:00Z",
-      "excerpt": "Figma release notes (Oct 26): video and image models from Figma Weave are now available to your AI agent through the Figma MCP server; generations draw on Weave credits.",
-      "og_image": null
-    },
-    {
-      "title": "Figma adds version history for generative plugins and shaders",
-      "url": "https://opentools.ai/news/figma-generative-plugins-shaders-version-history-restore-published-marker",
-      "source": "OpenTools",
-      "category": "figma",
-      "published_iso": "2026-10-28T13:57:45Z",
-      "excerpt": "Editing a Figma generative plugin or shader now creates a new version you can revisit or restore; each version gets an agent-written description and the list marks which one is published.",
-      "og_image": "https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/editorial-news-fab931370f7281d70157eb9aaf5687aa99e967e11961df183d504d128cad9be8/editorialhero"
+      "published_iso": "2026-10-29T21:00:00Z",
+      "excerpt": "Figma explains how it fine-tuned a model on its native file format so the Figma agent can make fast, iterative design edits (spacing, color, layout rework) that frontier models handled poorly and expensively.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1200&q=70&fit=max&auto=format"
     },
     {
       "title": "Make your Figma design system agent-ready",
       "url": "https://www.youtube.com/watch?v=yj90StgN70w",
       "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-10-28T16:00:25Z",
-      "excerpt": "Figma walks through structuring libraries, variables and component docs so the Figma agent produces designs that look and feel like your product.",
+      "published_iso": "2026-10-28T09:00:25-07:00",
+      "excerpt": "Figma walkthrough on structuring a design system so the Figma agent can understand it and produce designs that look and feel like your product.",
       "og_image": "https://i.ytimg.com/vi/yj90StgN70w/maxresdefault.jpg"
     },
     {
-      "title": "Config India 2026: When everyone can make anything, how far can we take it? (teamLab's Daisuke Sakai)",
-      "url": "https://www.youtube.com/watch?v=dOr3UsOlunY",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-26T14:41:24Z",
-      "excerpt": "teamLab co-founder Daisuke Sakai asks what creative work means when anyone can generate images, build software and ship products faster than ever.",
-      "og_image": "https://i.ytimg.com/vi/dOr3UsOlunY/maxresdefault.jpg"
-    },
-    {
-      "title": "GitHub open-sources Replica, an AI prototyping tool built by GitHub Design",
-      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
-      "source": "GitHub Changelog",
+      "title": "AI meets Apple's HIG: Redesign lessons and Liquid Glass",
+      "url": "https://blog.logrocket.com/ux-design/redesigning-with-apple-hig-and-ai/",
+      "source": "LogRocket Blog",
       "category": "figma",
-      "published_iso": "2026-10-28T15:30:00Z",
-      "excerpt": "GitHub is open-sourcing Replica, an AI-powered prototyping tool from GitHub Design that turns product ideas into interactive prototypes built with your own design system.",
-      "og_image": "https://github.blog/wp-content/uploads/2026/11/681822683-69153c7f-086b-466e-8be1-e18aed63efac.jpg"
+      "published_iso": "2026-10-27T15:30:05+00:00",
+      "excerpt": "A designer combines Apple's Human Interface Guidelines with AI tools in a real iOS redesign project, documenting how AI sped up the work and where HIG and Liquid Glass constraints shaped the outcome.",
+      "og_image": "https://blog.logrocket.com/wp-content/uploads/2025/10/AI-meets-Apples-HIG-Actual-results-from-my-redesign-project.png"
     },
     {
-      "title": "Generate and edit images directly in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
-      "source": "GitHub Changelog",
-      "category": "workflow",
-      "published_iso": "2026-10-28T15:30:55Z",
-      "excerpt": "GitHub Copilot can now generate and edit images from natural-language requests; the selected reasoning model calls a dedicated image-generation tool.",
-      "og_image": "https://github.blog/wp-content/uploads/2026/10/Changelog_NewRelease_Unfurl_GenerateImagesCopilotApp.jpg"
+      "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-10-28T23:23:05Z",
+      "excerpt": "Six UX questions for designing long-running AI research tasks, drawn from how Google, Perplexity and Microsoft present deep-research agents.",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*Tqg1rP0B6d3ahTwuShJERg.png"
     },
     {
-      "title": "Qt Group launches Clate, an AI-native design tool for embedded interfaces",
-      "url": "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces",
-      "source": "Electropages",
-      "category": "tokens",
-      "published_iso": "2026-10-27T08:30:00Z",
-      "excerpt": "Qt Group unveiled Clate, an AI-powered design environment for embedded UIs that combines no-code building, natural-language prompts and production-ready QML output.",
-      "og_image": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+      "title": "The agent woke up before you did",
+      "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-10-28T09:34:18Z",
+      "excerpt": "Argues that proactive AI agents shipped by four companies at once break the last assumption of user-centered design, that the user initiates the interaction.",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*xF61mJn34Pwxg-ICAafEsg.jpeg"
     },
     {
-      "title": "Foundry releases Nuke 18.0 in open beta with a Griptape node for AI image and video workflows",
-      "url": "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-10-28T04:30:00Z",
-      "excerpt": "Nuke 18.0's new Griptape node connects the compositor to Foundry's AI orchestration platform, letting artists run generative image and video workflows - such as generating a dust element - inside the node graph.",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+      "title": "Maxon teases another AI tool, and 3D artists aren't impressed",
+      "url": "https://www.creativebloq.com/news/maxon-teases-another-ai-tool-and-artists-arent-happy-despite-not-knowing-what-it-does-yet",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-10-29T12:00:00Z",
+      "excerpt": "Maxon teased a possible new AI tool for Cinema 4D, and the 3D artist community pushed back before any details were revealed.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tHY72zoz94SoDPkP2RXqcK-1600-80.jpg"
     },
     {
-      "title": "NVIDIA RTX Spark powers neural rendering and AI characters in games",
-      "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
-      "source": "NVIDIA Technical Blog",
-      "category": "render",
-      "published_iso": "2026-10-27T17:00:00Z",
-      "excerpt": "NVIDIA details neural rendering and on-device AI character tooling for its RTX Spark Windows platform, pairing a Blackwell RTX GPU with a Grace CPU in slim laptops and compact desktops.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2.webp"
+      "title": "New AI game engine wants NPCs to remember what you did",
+      "url": "https://www.creativebloq.com/news/the-new-atelico-ai-engine-gives-game-npcs-memories",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-10-29T17:00:00Z",
+      "excerpt": "Atelico's on-device AI engine gives game NPCs persistent memory, pitched as a toolkit that changes how games are played rather than replacing the people who make them.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ALRfZwHTXJjz4KqLE7KkEk-1600-80.jpg"
     },
     {
-      "title": "RTX Spark Windows laptops gain new models, agent tools and creator apps",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "source": "NVIDIA Blog",
       "category": "render",
-      "published_iso": "2026-10-28T15:00:46Z",
-      "excerpt": "RTX Spark laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI ship with new local AI models and agent tools aimed at developers and creators.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg"
+      "published_iso": "2026-10-29T16:00:35+00:00",
+      "excerpt": "Developers direct frontier AI agents in natural language to assemble assets, wire physics and rendering with Omniverse libraries, and iterate on designs in simulation.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png"
     },
     {
-      "title": "Runway launches App Studio: describe a creative tool and it builds a custom app",
-      "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
-      "source": "Runway",
-      "category": "render",
-      "published_iso": "2026-10-26T20:31:00Z",
-      "excerpt": "Runway App Studio builds custom creative apps from a plain-language description, generating images, video and audio with your Brand Kits and Workflows; apps can be shared with a team or published by link.",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
+      "title": "More mesh-to-CAD and a full stack of agentic EDA news",
+      "url": "https://www.engineering.com/more-mesh-to-cad-and-a-full-stack-of-agentic-eda-news/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-29T15:50:49+00:00",
+      "excerpt": "CADFit, an open-source MIT/Siemens-backed tool, turns meshes into editable CAD code, alongside a wave of AI-agent announcements for electronics design.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/img_engpaper_thumb2026-Oct27.png"
     },
     {
-      "title": "Google DeepMind's Genie 4 generates more realistic interactive worlds",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-27T16:00:00Z",
-      "excerpt": "Google DeepMind announced Genie 4, a world model for real-time interactive simulation that turns prompts into explorable, more realistic AI-generated worlds.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200"
+      "title": "Mercedes-Benz introduces AI-native backbone for product development",
+      "url": "https://www.engineering.com/mercedes-benz-introduces-ai-native-backbone-for-product-development/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-29T11:57:43+00:00",
+      "excerpt": "Mercedes-Benz's PLM.AI aims to cut vehicle development time by 30% and halve physical testing while keeping existing quality and safety standards.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/csm_Mercedes-Visual-EN_d9aeb7374f-2.jpg"
     },
     {
-      "title": "8 examples of Gemini 4 Argon in action, from deep research to interactive design",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
-      "source": "Google Blog",
-      "category": "workflow",
-      "published_iso": "2026-10-27T15:00:00Z",
-      "excerpt": "Google shows eight uses of Gemini 4 Argon, its most capable model, including interactive design work.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExamplesofArgon_Hero.width-1300.png"
+      "title": "Snaptrude Agent launches for BIM workflows",
+      "url": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-10-29T15:38:39+00:00",
+      "excerpt": "Snaptrude's new AI agent supports architectural workflows from concept design and BIM modelling through MEP and construction documentation.",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
     },
     {
-      "title": "Apple Creator Studio adds new AI features and more creative tools",
+      "title": "Allplan Max delivers engineering AI across portfolio",
+      "url": "https://aecmag.com/bim/allplan-max-delivers-engineering-ai-across-portfolio/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-10-28T15:38:23+00:00",
+      "excerpt": "Allplan Max, a purpose-built engineering AI, is rolling out across Allplan's portfolio to automate repetitive design work and give expert guidance.",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/allplan-3.jpg"
+    },
+    {
+      "title": "Autodesk Fusion October 2026 Update: 5 Features That Mean Less Rework",
+      "url": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
+      "source": "Autodesk Fusion Blog",
+      "category": "cad",
+      "published_iso": "2026-10-29T07:24:00-07:00",
+      "excerpt": "The October Fusion update adds AI-assisted Auto Timeline that reconstructs imported geometry into editable parametric features, plus natural-language task management via Autodesk Assistant.",
+      "og_image": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+    },
+    {
+      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
       "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
       "source": "Apple Newsroom",
+      "category": "vr",
+      "published_iso": "2026-10-27",
+      "excerpt": "Apple Creator Studio adds built-in MotionVFX content to Final Cut Pro, video assets in the Content Hub, and new intelligence features in Logic Pro, Keynote, Pages and Numbers.",
+      "og_image": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202610291909"
+    },
+    {
+      "title": "Introducing Canva Brush, a vision-language model for design",
+      "url": "https://www.canva.com/newsroom/news/canva-brush/",
+      "source": "Canva Newsroom",
       "category": "workflow",
-      "published_iso": "2026-10-27T12:58:45Z",
-      "excerpt": "Apple updated Creator Studio, its bundle of pro creative apps, with new AI features for video editing, music and image design, plus MotionVFX tools for Final Cut Pro.",
-      "og_image": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202610281719"
+      "published_iso": "2026-10-29",
+      "excerpt": "Canva Research's Brush, post-trained from an open-weights model on real design edits, now powers design edits in Canva AI for Pro users, up to 69% faster and 46% cheaper per edit than Canva's previous design agent. (Off-list: on-list outlets had not covered it.)",
+      "og_image": null
+    },
+    {
+      "title": "Runway Ads is generally available",
+      "url": "https://runway.com/news/company-news/runway-ads",
+      "source": "Runway",
+      "category": "workflow",
+      "published_iso": "2026-10-27T16:11:00Z",
+      "excerpt": "Runway Ads generates on-brand video and image ad variants from a brand kit, publishes approved variants to Meta, Google and TikTok and iterates on performance; now on all paid plans. (Off-list vendor source.)",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/runwayads-ga-social-og-no-headline-1600x900-2x-3d214819-c070-4f55-8d8f-c8685168dc16.png"
     },
     {
       "title": "These people are cutting the clutter and redesigning their smart TVs with AI",
       "url": "https://www.fastcompany.com/91630508/vibe-coding-smart-tv-redesign",
       "source": "Fast Company",
       "category": "workflow",
-      "published_iso": "2026-10-28T15:30:43Z",
-      "excerpt": "Tinkerers are pasting prompts into AI coding agents to replace ad-cluttered smart-TV home screens with custom launchers - from liturgical-calendar dashboards to app icons styled as books on a shelf.",
-      "og_image": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2026/10/p-1-91630508-smart-tv-redesign.jpg"
-    },
-    {
-      "title": "3 design principles in the AI age",
-      "url": "https://www.fastcompany.com/91629505/3-design-principles-in-the-ai-age",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-10-27T12:00:00Z",
-      "excerpt": "A design leader argues iteration, feedback and craft still define good design, and that AI feedback should be one input among diverse human perspectives, not the only one.",
-      "og_image": null
-    },
-    {
-      "title": "The time AI saves designers usually disappears. Here's how to keep it.",
-      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-10-27T11:13:45Z",
-      "excerpt": "What a survey of 521 UX professionals found about where AI time savings go - and how designers can keep them.",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg"
-    },
-    {
-      "title": "The agent woke up before you did",
-      "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-10-28T09:34:18Z",
-      "excerpt": "The last assumption of user-centered design just fell as four companies pushed proactive agents at once - what designing for agents that act before the user asks means.",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*xF61mJn34Pwxg-ICAafEsg.jpeg"
-    },
-    {
-      "title": "Smaller teams want design leaders who make, again",
-      "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-10-28T09:37:57Z",
-      "excerpt": "AI is shrinking design teams and raising the bar for each person's output, so leaders are expected to be player-coaches who still make the work.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*C6ckPKkjzXCbYxsEwU-pqg.png"
-    },
-    {
-      "title": "Generate character variations instantly with AI Assistant in Frame.io",
-      "url": "https://www.youtube.com/watch?v=_XbBqoX_XoQ",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-27T23:26:37Z",
-      "excerpt": "Frame.io's AI Assistant uses Firefly to turn one character image into multiple angle variations and saves them straight into the project folder.",
-      "og_image": "https://i.ytimg.com/vi/_XbBqoX_XoQ/maxresdefault.jpg"
-    },
-    {
-      "title": "Vectorworks 2027 AI Visualizer adds Google's Nano Banana 2 and Nano Banana Pro",
-      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/",
-      "source": "PBC Today",
-      "category": "cad",
-      "published_iso": "2026-10-27T15:25:50Z",
-      "excerpt": "Vectorworks 2027's AI Visualizer palette now offers Nano Banana 2 for fast concept iteration and Nano Banana Pro for presentation images, at 2K with 4K upscaling and up to 14 reference images per prompt.",
-      "og_image": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp"
-    },
-    {
-      "title": "Allplan Max delivers engineering AI across the Allplan portfolio",
-      "url": "https://aecmag.com/bim/allplan-max-delivers-engineering-ai-across-portfolio/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "published_iso": "2026-10-28T15:38:23Z",
-      "excerpt": "Allplan Max is a purpose-built engineering AI that automates repetitive design work and offers expert guidance across Allplan's BIM tools.",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/allplan-3.jpg"
-    },
-    {
-      "title": "Lovable ad passed off a designer's handmade website as AI work",
-      "url": "https://www.trendingtopics.eu/lovable-ad-designer-handmade-website/",
-      "source": "Trending Topics",
-      "category": "workflow",
-      "published_iso": "2026-10-28T12:37:32Z",
-      "excerpt": "Designer Joe Taylor of 12 Studio says Lovable showed his hand-built Forge Automotive website in an Instagram ad as AI-generated work; Lovable pulled the ad.",
-      "og_image": "https://www.trendingtopics.eu/wp-content/uploads/2026/10/lovable-bfi-imax-london-social.jpg"
-    },
-    {
-      "title": "Microsoft's MAI-Image-2.6 and MAI-Image-2.6-Flash hit general availability in Foundry",
-      "url": "https://windowsreport.com/microsofts-mai-image-2-6-mai-image-2-6-flash-models-hit-general-availability-in-microsoft-foundry/",
-      "source": "Windows Report",
-      "category": "render",
-      "published_iso": "2026-10-27T16:41:30Z",
-      "excerpt": "Microsoft made MAI-Image-2.6 and its Flash variant generally available in Foundry, adding reference editing, Bing grounding, flexible image controls and cheaper generation.",
-      "og_image": "https://windowsreport.com/wp-content/uploads/2026/08/Microsoft-Image-2.6.jpg"
+      "published_iso": "2026-10-28T15:30:43+00:00",
+      "excerpt": "Owners are using a handful of AI prompts to vibe-code replacement launchers that strip ads and recommendations from smart TV home screens, a grassroots UI redesign trend.",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91630508-smart-tv-redesign.jpg"
     }
   ]
 }

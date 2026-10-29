@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "music",
   "cards": [
     {
-      "id": "akaimpc",
+      "id": "suno-mcp-chat-server",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Akai, MPC를 열다\n바이브 코딩 개조 허용",
-      "body": "Akai MPC Sample Key는 펌웨어를 열어 AI로 기능을 짜게 한다.",
-      "mini_headline": "Akai, MPC 펌웨어를 AI에 개방",
+      "headline": "Suno MCP 서버 공개\n채팅하며 음악 만든다",
+      "body": "Suno MCP로 Claude·ChatGPT·Gemini·Cursor에서 작곡한다.",
+      "mini_headline": "채팅으로 곡 쓰는 Suno MCP",
       "tool": "Music",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,203 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-            "cap": "MPC Sample Key는 패드 대신 건반을 단 MPC Sample처럼 생겼다. 이미지: Akai"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
           },
           {
             "t": "p",
-            "x": "MPC Sample Key는 아직 공식 발표 전인데, Akai는 모딩 커뮤니티가 바이브 코딩으로 만든 결과물부터 벌써 내보이고 있다. 해커와 커스텀 펌웨어 개발자가 폭발적으로 늘자 Akai는 이 흐름을 받아들이기로 했고, 오픈소스 펌웨어를 얹을 이 기기를 그들에게 먼저 건넸다."
+            "x": "음악 업계 사람들은 각자 쓰는 AI 챗봇에 여러 Model Context Protocol(MCP) 서버를 부지런히 붙여 왔다. 그런데 이번에 나온 서버 앞에서는 망설이는 이도 있을 법하다. Suno가 만든 서버라서다."
           },
           {
             "t": "p",
-            "x": "기기는 MPC Sample과 같은 소프트웨어의 한 버전을 돌릴 가능성이 높다. 다만 전통적인 건반과 피치 휠, 모드 휠에 맞춘 조정이 들어간다. 상위 기종 MPC Key 37과 달리 Sample Key에는 패드가 없고, 샘플은 건반으로 재생한다."
+            "x": "“AI 스택에 Suno를 더하세요.” Suno가 MCP 진출을 알린 출시 안내문의 문구다. Suno는 당분간 이 제품을 ‘early access(얼리 액세스)’로 제공한다. “AI 도구에서 Suno MCP에 접속해 채팅에서 바로 음악을 만드세요.”"
           },
           {
             "t": "p",
-            "x": "Akai가 어젯밤과 오늘 올린 짧은 Instagram Reels에는 Native Instruments Massive를 비롯한 신스와 버추얼 아날로그, FM 신스를 기기에 더한 바이브 코딩 개조가 여럿 나온다. 그중 하나는 “여러 가지 신스가 들어 있는” 완전한 커스텀 OS를 돌린다."
+            "x": "Suno MCP는 지금 Claude, ChatGPT, Gemini, Claude Code, Cursor에 연결된다. 커넥터 설정을 직접 만지는 게 번거롭지 않다면 다른 AI 도구에도 붙일 수 있다."
           },
           {
             "t": "p",
-            "x": "영상을 보면 같은 “커뮤니티” 기능이 일반 MPC Sample에도 들어가고, 이 기기에서도 Claude가 만든 바이브 코딩 신스 몇 개가 돌아간다. Akai가 MPC Sample 플랫폼 전체를 오픈소스로 풀 계획일 수도 있다."
+            "x": "Suno MCP로 곡을 만들면 Suno 사이트·앱에서처럼 크레딧이 차감되고, 결과물은 라이브러리에 저장돼 사이트와 앱에서 다시 열어 볼 수 있다. MCP는 Suno 유료 구독자뿐 아니라 무료 사용자도 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "CEO Jack O’Donnell은 The Verge에 inMusic 브랜드, 특히 Akai가 초기 기기를 개발자에게 먼저 보내 모딩 커뮤니티를 끌어안으려 한다고 말했다. 일부 소프트웨어의 오픈소스 공개와 SDK 제공도 그 일환이다."
+            "x": "Suno는 MCP 서버를 내놓은 첫 대형 AI 음악(AI-music) 도구 중 하나다. 다만 아직 누구나 쓰는 건 아니고 얼리 액세스로만 열려 있다. Anthropic의 Claude에서 Suno를 쓸 수 있게 된 대목은 음악 권리자들이 특히 예민하게 볼 만하다. 두 회사 모두 저작권 소송을 치르는 중이어서다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Akai opens up its MPC\nfor vibe-coded mods",
-          "body": "Akai's MPC Sample Key opens its firmware so users can vibe-code new instruments and features with AI coding tools.",
-          "mini_headline": "Akai opens MPC firmware to AI",
+          "headline": "Suno opens an MCP server\nfor music made in chat",
+          "body": "Suno's early-access MCP server lets users make songs inside Claude, ChatGPT, Gemini and Cursor.",
+          "mini_headline": "Suno MCP for in-chat music",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. Image: Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "The MPC Sample Key isn’t even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware."
+                "x": "Music-industry professionals have been rushing to connect various Model Context Protocol (MCP) servers to their AI chatbots of choice. However, there may be more reluctance in some quarters to add the latest launch: it’s from Suno."
               },
               {
                 "t": "p",
-                "x": "It will likely run some version of the same software found on the MPC Sample, but with tweaks to accommodate the traditional keyboard, pitch, and mod wheels. Unlike the higher-end MPC Key 37, however, the Sample Key doesn’t have pads. Instead, you play back samples with the keys."
+                "x": "“Add Suno to your AI stack,” explains the launch blurb for Suno’s move into the MCP world, which is billed as an ‘early access’ product for now. “Access the Suno MCP from your AI tool and create music right from the chat.”"
               },
               {
                 "t": "p",
-                "x": "In the short Instagram Reels posted last night and today, Akai shows a number of vibe-coded mods that add synths, including Native Instruments Massive, to the device, as well as virtual analog and FM synths. One is even shown running a completely custom OS, with “several different synths in it.”"
+                "x": "The Suno MCP can currently be connected to Claude, ChatGPT, Gemini, Claude Code and Cursor, as well as other AI tools if people are comfortable fiddling with the required connector settings manually."
               },
               {
                 "t": "p",
-                "x": "According to the clips, the same “community” features will come to the regular MPC Sample, which is also shown running a few vibe-coded synths built by Claude. That could mean Akai plans to open-source the entire MPC Sample platform."
+                "x": "Songs that people generate using the Suno MCP use up credits as they would on Suno’s own site and app, with the music saved to their library so it can be accessed from those places too. The MCP is available to free users of Suno as well as paying subscribers."
               },
               {
                 "t": "p",
-                "x": "CEO Jack O’Donnell told The Verge that inMusic brands, especially Akai, would be looking to embrace the modding community by seeding early devices to developers. These efforts will also include open-sourcing some software and providing an SDK."
+                "x": "Suno is one of the first big AI-music tools to launch an MCP server, albeit in early-access form rather than being available to all. The prospect of accessing Suno from Anthropic’s Claude is a particularly spicy one for music rightsholders, given the ongoing copyright lawsuits against both companies."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Akai, MPC를 열다\n바이브 코딩 개조 허용",
-          "body": "Akai MPC Sample Key는 펌웨어를 열어 AI로 기능을 짜게 한다.",
-          "mini_headline": "Akai, MPC 펌웨어를 AI에 개방",
+          "headline": "Suno MCP 서버 공개\n채팅하며 음악 만든다",
+          "body": "Suno MCP로 Claude·ChatGPT·Gemini·Cursor에서 작곡한다.",
+          "mini_headline": "채팅으로 곡 쓰는 Suno MCP",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "MPC Sample Key는 패드 대신 건반을 단 MPC Sample처럼 생겼다. 이미지: Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "MPC Sample Key는 아직 공식 발표 전인데, Akai는 모딩 커뮤니티가 바이브 코딩으로 만든 결과물부터 벌써 내보이고 있다. 해커와 커스텀 펌웨어 개발자가 폭발적으로 늘자 Akai는 이 흐름을 받아들이기로 했고, 오픈소스 펌웨어를 얹을 이 기기를 그들에게 먼저 건넸다."
+                "x": "음악 업계 사람들은 각자 쓰는 AI 챗봇에 여러 Model Context Protocol(MCP) 서버를 부지런히 붙여 왔다. 그런데 이번에 나온 서버 앞에서는 망설이는 이도 있을 법하다. Suno가 만든 서버라서다."
               },
               {
                 "t": "p",
-                "x": "기기는 MPC Sample과 같은 소프트웨어의 한 버전을 돌릴 가능성이 높다. 다만 전통적인 건반과 피치 휠, 모드 휠에 맞춘 조정이 들어간다. 상위 기종 MPC Key 37과 달리 Sample Key에는 패드가 없고, 샘플은 건반으로 재생한다."
+                "x": "“AI 스택에 Suno를 더하세요.” Suno가 MCP 진출을 알린 출시 안내문의 문구다. Suno는 당분간 이 제품을 ‘early access(얼리 액세스)’로 제공한다. “AI 도구에서 Suno MCP에 접속해 채팅에서 바로 음악을 만드세요.”"
               },
               {
                 "t": "p",
-                "x": "Akai가 어젯밤과 오늘 올린 짧은 Instagram Reels에는 Native Instruments Massive를 비롯한 신스와 버추얼 아날로그, FM 신스를 기기에 더한 바이브 코딩 개조가 여럿 나온다. 그중 하나는 “여러 가지 신스가 들어 있는” 완전한 커스텀 OS를 돌린다."
+                "x": "Suno MCP는 지금 Claude, ChatGPT, Gemini, Claude Code, Cursor에 연결된다. 커넥터 설정을 직접 만지는 게 번거롭지 않다면 다른 AI 도구에도 붙일 수 있다."
               },
               {
                 "t": "p",
-                "x": "영상을 보면 같은 “커뮤니티” 기능이 일반 MPC Sample에도 들어가고, 이 기기에서도 Claude가 만든 바이브 코딩 신스 몇 개가 돌아간다. Akai가 MPC Sample 플랫폼 전체를 오픈소스로 풀 계획일 수도 있다."
+                "x": "Suno MCP로 곡을 만들면 Suno 사이트·앱에서처럼 크레딧이 차감되고, 결과물은 라이브러리에 저장돼 사이트와 앱에서 다시 열어 볼 수 있다. MCP는 Suno 유료 구독자뿐 아니라 무료 사용자도 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "CEO Jack O’Donnell은 The Verge에 inMusic 브랜드, 특히 Akai가 초기 기기를 개발자에게 먼저 보내 모딩 커뮤니티를 끌어안으려 한다고 말했다. 일부 소프트웨어의 오픈소스 공개와 SDK 제공도 그 일환이다."
+                "x": "Suno는 MCP 서버를 내놓은 첫 대형 AI 음악(AI-music) 도구 중 하나다. 다만 아직 누구나 쓰는 건 아니고 얼리 액세스로만 열려 있다. Anthropic의 Claude에서 Suno를 쓸 수 있게 된 대목은 음악 권리자들이 특히 예민하게 볼 만하다. 두 회사 모두 저작권 소송을 치르는 중이어서다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Akai、MPCを開放\nバイブコーディングで改造",
-          "body": "AkaiのMPC Sample Keyはファームウェアを開放し、AIで機能を追加できる。",
-          "mini_headline": "Akai、MPCファームウェアをAIに開放",
+          "headline": "Suno、MCPサーバー公開\nチャットで音楽を作る",
+          "body": "SunoのMCPならClaude、ChatGPT、Gemini、Cursorで曲が作れる。",
+          "mini_headline": "チャットで音楽を作るSuno MCP",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "MPC Sample Keyは、パッドの代わりに鍵盤を備えたMPC Sampleのような外観だ。画像:Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "MPC Sample Keyはまだ正式発表すらされていないが、Akaiはモディングコミュニティがバイブコーディングで生み出しているものをすでに披露している。Akaiはハッカーやカスタムファームウェア開発者の急増を受け入れることを決め、オープンソースのファームウェアを搭載するこのデバイスを彼らに先行提供した。"
+                "x": "音楽業界の関係者は、愛用するAIチャットボットにさまざまなModel Context Protocol（MCP）サーバーを次々とつないできた。ただ、最新の一つについては追加をためらう向きもありそうだ。Sunoが出したものだからだ。"
               },
               {
                 "t": "p",
-                "x": "おそらくMPC Sampleと同じソフトウェアの一バージョンが動くが、従来型の鍵盤やピッチホイール、モジュレーションホイールに合わせた調整が加わる見込みだ。ただし上位機種のMPC Key 37とは異なり、Sample Keyにはパッドがない。代わりに鍵盤でサンプルを再生する。"
+                "x": "「AIスタックにSunoを加えよう」。SunoのMCP参入を告げる紹介文はこう記す。当面は「early access（早期アクセス）」の製品という位置づけだ。「AIツールからSuno MCPにアクセスし、チャットからそのまま音楽を作ろう」"
               },
               {
                 "t": "p",
-                "x": "昨夜と今日投稿された短いInstagram Reelsで、AkaiはNative Instruments Massiveを含むシンセや、バーチャルアナログ、FMシンセをデバイスに追加するバイブコーディングの改造を多数紹介している。そのうち一つは、「複数の異なるシンセを内蔵した」完全なカスタムOSを動かしている。"
+                "x": "Suno MCPは現在、Claude、ChatGPT、Gemini、Claude Code、Cursorに接続できる。必要なコネクタ設定を手作業でいじることに抵抗がなければ、ほかのAIツールにもつなげられる。"
               },
               {
                 "t": "p",
-                "x": "動画によると、同じ「コミュニティ」機能は通常のMPC Sampleにも提供され、こちらもClaudeが作ったバイブコーディングのシンセをいくつか動かす様子が映っている。AkaiがMPC Sampleプラットフォーム全体のオープンソース化を計画している可能性がある。"
+                "x": "Suno MCPで生成した曲は、Suno自身のサイトやアプリと同様にクレジットを消費する。音楽はライブラリに保存され、サイトやアプリからも開ける。MCPはSunoの有料会員だけでなく無料ユーザーも使える。"
               },
               {
                 "t": "p",
-                "x": "CEOのJack O’DonnellはThe Vergeに対し、inMusicのブランド、とりわけAkaiは初期デバイスを開発者に先行配布し、モディングコミュニティを取り込む考えだと語った。この取り組みには一部ソフトウェアのオープンソース化とSDKの提供も含まれる。"
+                "x": "Sunoは、MCPサーバーを公開した最初の大手AI音楽（AI-music）ツールの一つだ。ただし全員向けではなく早期アクセスの形である。AnthropicのClaudeからSunoを使えるという見通しは、音楽の権利者にとって特に刺激の強い話だ。両社とも著作権訴訟を抱えているからである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Akai开放MPC\n迎接氛围编程改装",
-          "body": "Akai的MPC Sample Key开放固件，让用户用AI编程工具打造新乐器和功能。",
-          "mini_headline": "Akai向AI开放MPC固件",
+          "headline": "Suno推出MCP服务器\n在聊天中创作音乐",
+          "body": "Suno的MCP服务器可在Claude、ChatGPT、Gemini和Cursor中作曲。",
+          "mini_headline": "Suno MCP：在聊天中做音乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "MPC Sample Key看起来就像把打击垫换成琴键的MPC Sample。图片：Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "MPC Sample Key甚至尚未正式发布，但Akai已经在展示改装社区通过氛围编程鼓捣出的成果。面对黑客和自定义固件开发者的爆发式增长，Akai决定主动拥抱，向他们提前提供这款将采用开源固件的设备。"
+                "x": "音乐行业从业者纷纷把各种Model Context Protocol（MCP）服务器接入自己常用的AI聊天机器人。不过，对于最新推出的这一款，一些人可能会更犹豫，因为它来自Suno。"
               },
               {
                 "t": "p",
-                "x": "它很可能运行与MPC Sample相同软件的某个版本，但会针对传统键盘、弯音轮和调制轮做出调整。不过与更高端的MPC Key 37不同，Sample Key没有打击垫，而是用琴键来回放采样。"
+                "x": "“把Suno加入你的AI工具栈。”Suno进军MCP领域的发布介绍这样写道，该产品目前定位为“early access（抢先体验）”版本。“在你的AI工具中访问Suno MCP，直接在聊天里创作音乐。”"
               },
               {
                 "t": "p",
-                "x": "在昨晚和今天发布的短Instagram Reels中，Akai展示了多个氛围编程改装，为设备加入包括Native Instruments Massive在内的合成器，以及虚拟模拟和FM合成器。其中一个甚至运行着完全自定义的OS，“里面有好几种不同的合成器”。"
+                "x": "Suno MCP目前可接入Claude、ChatGPT、Gemini、Claude Code和Cursor；如果用户愿意手动调整所需的连接器设置，也可接入其他AI工具。"
               },
               {
                 "t": "p",
-                "x": "从视频来看，同样的“社区”功能也将登陆普通版MPC Sample，视频中它同样运行着几款由Claude打造的氛围编程合成器。这可能意味着Akai计划将整个MPC Sample平台开源。"
+                "x": "通过Suno MCP生成的歌曲会像在Suno自家网站和应用上一样消耗积分，音乐会保存到用户的曲库中，也可在网站和应用中访问。Suno的免费用户和付费订阅用户都可使用该MCP。"
               },
               {
                 "t": "p",
-                "x": "CEO Jack O’Donnell对The Verge表示，inMusic旗下品牌，尤其是Akai，将通过向开发者提前提供设备来拥抱改装社区。这些举措还将包括开源部分软件并提供SDK。"
+                "x": "Suno是首批推出MCP服务器的大型AI音乐（AI-music）工具之一，不过目前是抢先体验形式，并未向所有人开放。鉴于两家公司都面临正在进行的版权诉讼，能在Anthropic的Claude中使用Suno，对音乐版权方来说尤其敏感。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Akai abre su MPC a los mods\nhechos con vibe coding",
-          "body": "El MPC Sample Key de Akai abre su firmware para que los usuarios creen instrumentos y funciones con AI.",
-          "mini_headline": "Akai abre el firmware del MPC a la AI",
+          "headline": "Suno abre un servidor MCP\npara crear música en el chat",
+          "body": "El servidor MCP de Suno, en acceso anticipado, permite crear canciones dentro de Claude, ChatGPT, Gemini y Cursor.",
+          "mini_headline": "Suno MCP para hacer música en el chat",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "El MPC Sample Key se parece al MPC Sample, pero con teclas en lugar de pads. Imagen: Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "El MPC Sample Key ni siquiera se ha anunciado formalmente, pero Akai ya muestra lo que la comunidad de modding está creando con vibe coding. Akai ha decidido sumarse a la explosión de hackers y desarrolladores de firmware personalizado dándoles acceso anticipado al dispositivo, que tendrá firmware de código abierto."
+                "x": "Los profesionales de la industria musical se han apresurado a conectar varios servidores Model Context Protocol (MCP) a sus chatbots de AI preferidos. Sin embargo, en algunos sectores puede haber más reticencia a añadir el más reciente: es de Suno."
               },
               {
                 "t": "p",
-                "x": "Es probable que ejecute alguna versión del mismo software del MPC Sample, con ajustes para el teclado tradicional y las ruedas de pitch y modulación. Sin embargo, a diferencia del MPC Key 37, de gama más alta, el Sample Key no tiene pads. En su lugar, las muestras se reproducen con las teclas."
+                "x": "“Añade Suno a tu stack de AI”, explica el texto de lanzamiento del paso de Suno al mundo MCP, presentado por ahora como un producto de ‘early access’ (acceso anticipado). “Accede al Suno MCP desde tu herramienta de AI y crea música directamente desde el chat”."
               },
               {
                 "t": "p",
-                "x": "En los breves Instagram Reels publicados anoche y hoy, Akai muestra varios mods hechos con vibe coding que añaden sintetizadores al dispositivo, entre ellos Native Instruments Massive, además de sintetizadores de modelado analógico virtual y FM. En uno incluso se ve un OS completamente personalizado, con “varios sintetizadores distintos”."
+                "x": "El Suno MCP puede conectarse actualmente a Claude, ChatGPT, Gemini, Claude Code y Cursor, así como a otras herramientas de AI si los usuarios se sienten cómodos ajustando a mano la configuración del conector necesaria."
               },
               {
                 "t": "p",
-                "x": "Según los clips, las mismas funciones de la “comunidad” llegarán al MPC Sample normal, que también aparece ejecutando algunos sintetizadores hechos con vibe coding creados por Claude. Eso podría significar que Akai planea abrir el código de toda la plataforma MPC Sample."
+                "x": "Las canciones que se generan con el Suno MCP consumen créditos igual que en el sitio y la app de Suno, y la música se guarda en la biblioteca del usuario para que también pueda abrirse desde allí. El MCP está disponible tanto para usuarios gratuitos de Suno como para suscriptores de pago."
               },
               {
                 "t": "p",
-                "x": "El CEO Jack O’Donnell dijo a The Verge que las marcas de inMusic, sobre todo Akai, buscarán sumarse a la comunidad de modding enviando dispositivos anticipados a desarrolladores. Estos esfuerzos también incluirán abrir el código de parte del software y ofrecer un SDK."
+                "x": "Suno es una de las primeras grandes herramientas de música con AI (AI-music) en lanzar un servidor MCP, aunque en acceso anticipado y no para todos. La posibilidad de usar Suno desde Claude, de Anthropic, resulta especialmente delicada para los titulares de derechos musicales, dados los pleitos por copyright en curso contra ambas empresas."
               }
             ]
           }
@@ -223,141 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Akai, MPC를 열다\n바이브 코딩 개조 허용",
-          "body": "Akai MPC Sample Key는 펌웨어를 열어 AI로 기능을 만들게 한다.",
-          "mini_headline": "Akai, MPC 펌웨어를 AI에 개방",
+          "headline": "Suno MCP 서버 공개\n채팅하며 음악 만든다",
+          "body": "Suno MCP로 Claude·ChatGPT·Gemini·Cursor에서 작곡한다.",
+          "mini_headline": "채팅 속 음악 만드는 Suno MCP",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "MPC Sample Key는 패드 대신 건반을 단 MPC Sample처럼 생겼다. 이미지: Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "MPC Sample Key는 아직 공식 발표도 되지 않았지만, Akai는 모딩 커뮤니티가 바이브 코딩으로 만들어 내는 결과물을 벌써 선보이고 있다. Akai는 해커와 커스텀 펌웨어 개발자가 폭발적으로 늘어난 흐름을 받아들이기로 하고, 오픈소스 펌웨어를 탑재할 이 기기를 그들에게 먼저 제공했다."
+                "x": "음악 업계 종사자들은 저마다 쓰는 AI 챗봇에 다양한 Model Context Protocol(MCP) 서버를 서둘러 연결해 왔다. 다만 이번에 새로 나온 서버는 일부에서 추가를 더 망설일 수도 있다. Suno가 내놓은 것이기 때문이다."
               },
               {
                 "t": "p",
-                "x": "기기는 MPC Sample과 같은 소프트웨어의 한 버전을 돌릴 가능성이 높지만, 전통적인 건반과 피치 휠, 모드 휠에 맞춘 조정이 들어간다. 다만 상위 기종인 MPC Key 37과 달리 Sample Key에는 패드가 없다. 대신 건반으로 샘플을 재생한다."
+                "x": "“AI 스택에 Suno를 더하세요.” Suno의 MCP 진출을 알리는 출시 안내문은 이렇게 설명한다. Suno는 이 제품을 당분간 ‘early access(얼리 액세스)’로 내놓았다. “AI 도구에서 Suno MCP에 접속해 채팅에서 바로 음악을 만드세요.”"
               },
               {
                 "t": "p",
-                "x": "Akai는 어젯밤과 오늘 올린 짧은 Instagram Reels에서 Native Instruments Massive를 비롯한 신스와 버추얼 아날로그, FM 신스를 기기에 더하는 바이브 코딩 개조를 여럿 보여 준다. 그중 하나는 “여러 가지 신스가 들어 있는” 완전한 커스텀 OS를 돌린다."
+                "x": "Suno MCP는 현재 Claude, ChatGPT, Gemini, Claude Code, Cursor에 연결할 수 있다. 필요한 커넥터 설정을 직접 손보는 데 거리낌이 없다면 다른 AI 도구에도 붙일 수 있다."
               },
               {
                 "t": "p",
-                "x": "영상에 따르면 같은 “커뮤니티” 기능이 일반 MPC Sample에도 들어가며, 이 기기 역시 Claude가 만든 바이브 코딩 신스 몇 개를 돌리는 모습이 나온다. Akai가 MPC Sample 플랫폼 전체를 오픈소스로 공개할 계획이라는 뜻일 수 있다."
+                "x": "Suno MCP로 만든 곡은 Suno 사이트와 앱에서 만들 때처럼 크레딧을 쓰고, 음악은 라이브러리에 저장돼 사이트와 앱에서도 열어 볼 수 있다. MCP는 Suno 유료 구독자뿐 아니라 무료 사용자도 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "CEO Jack O’Donnell은 The Verge에 inMusic 브랜드, 특히 Akai가 초기 기기를 개발자에게 먼저 보내 모딩 커뮤니티를 끌어안으려 한다고 말했다. 이 노력에는 일부 소프트웨어의 오픈소스 공개와 SDK 제공도 포함된다."
+                "x": "Suno는 MCP 서버를 내놓은 첫 대형 AI 음악(AI-music) 도구 가운데 하나다. 다만 모두에게 열린 것이 아니라 얼리 액세스 형태다. Anthropic의 Claude에서 Suno를 쓸 수 있다는 점은 음악 권리자들에게 특히 민감한 대목이다. 두 회사 모두 저작권 소송을 치르고 있기 때문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Akai、MPCを開放\nバイブコーディングで改造",
-          "body": "AkaiのMPC Sample Keyはファームウェアを開放し、AIで機能を追加できる。",
-          "mini_headline": "Akai、MPCファームウェアをAIに開放",
+          "headline": "Suno、MCPサーバー公開\nチャットで音楽を作る",
+          "body": "SunoのMCPならClaude、ChatGPT、Gemini、Cursorで曲が作れる。",
+          "mini_headline": "チャットで音楽を作るSuno MCP",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "MPC Sample Keyは、パッドの代わりに鍵盤を備えたMPC Sampleのような外観だ。画像:Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "MPC Sample Keyはまだ正式発表すらされていないが、Akaiはモディングコミュニティがバイブコーディングで生み出しているものをすでに披露している。Akaiはハッカーやカスタムファームウェア開発者の急増を受け入れることを決め、オープンソースのファームウェアを搭載するこのデバイスを彼らに先行提供した。"
+                "x": "音楽業界の関係者は、愛用するAIチャットボットにさまざまなModel Context Protocol（MCP）サーバーを次々とつないできた。ただ、最新の一つについては追加をためらう向きもありそうだ。Sunoが出したものだからだ。"
               },
               {
                 "t": "p",
-                "x": "おそらくMPC Sampleと同じソフトウェアの一バージョンが動くが、従来型の鍵盤やピッチホイール、モジュレーションホイールに合わせた調整が加わる見込みだ。ただし上位機種のMPC Key 37とは異なり、Sample Keyにはパッドがない。代わりに鍵盤でサンプルを再生する。"
+                "x": "「AIスタックにSunoを加えよう」。SunoのMCP参入を告げる紹介文はこう記す。当面は「early access（早期アクセス）」の製品という位置づけだ。「AIツールからSuno MCPにアクセスし、チャットからそのまま音楽を作ろう」"
               },
               {
                 "t": "p",
-                "x": "昨夜と今日投稿された短いInstagram Reelsで、AkaiはNative Instruments Massiveを含むシンセや、バーチャルアナログ、FMシンセをデバイスに追加するバイブコーディングの改造を多数紹介している。そのうち一つは、「複数の異なるシンセを内蔵した」完全なカスタムOSを動かしている。"
+                "x": "Suno MCPは現在、Claude、ChatGPT、Gemini、Claude Code、Cursorに接続できる。必要なコネクタ設定を手作業でいじることに抵抗がなければ、ほかのAIツールにもつなげられる。"
               },
               {
                 "t": "p",
-                "x": "動画によると、同じ「コミュニティ」機能は通常のMPC Sampleにも提供され、こちらもClaudeが作ったバイブコーディングのシンセをいくつか動かす様子が映っている。AkaiがMPC Sampleプラットフォーム全体のオープンソース化を計画している可能性がある。"
+                "x": "Suno MCPで生成した曲は、Suno自身のサイトやアプリと同様にクレジットを消費する。音楽はライブラリに保存され、サイトやアプリからも開ける。MCPはSunoの有料会員だけでなく無料ユーザーも使える。"
               },
               {
                 "t": "p",
-                "x": "CEOのJack O’DonnellはThe Vergeに対し、inMusicのブランド、とりわけAkaiは初期デバイスを開発者に先行配布し、モディングコミュニティを取り込む考えだと語った。この取り組みには一部ソフトウェアのオープンソース化とSDKの提供も含まれる。"
+                "x": "Sunoは、MCPサーバーを公開した最初の大手AI音楽（AI-music）ツールの一つだ。ただし全員向けではなく早期アクセスの形である。AnthropicのClaudeからSunoを使えるという見通しは、音楽の権利者にとって特に刺激の強い話だ。両社とも著作権訴訟を抱えているからである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Akai开放MPC\n迎接氛围编程改装",
-          "body": "Akai的MPC Sample Key开放固件，让用户用AI编程工具打造新乐器和功能。",
-          "mini_headline": "Akai向AI开放MPC固件",
+          "headline": "Suno推出MCP服务器\n在聊天中创作音乐",
+          "body": "Suno的MCP服务器可在Claude、ChatGPT、Gemini和Cursor中作曲。",
+          "mini_headline": "Suno MCP：在聊天中做音乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "MPC Sample Key看起来就像把打击垫换成琴键的MPC Sample。图片：Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "MPC Sample Key甚至尚未正式发布，但Akai已经在展示改装社区通过氛围编程鼓捣出的成果。面对黑客和自定义固件开发者的爆发式增长，Akai决定主动拥抱，向他们提前提供这款将采用开源固件的设备。"
+                "x": "音乐行业从业者纷纷把各种Model Context Protocol（MCP）服务器接入自己常用的AI聊天机器人。不过，对于最新推出的这一款，一些人可能会更犹豫，因为它来自Suno。"
               },
               {
                 "t": "p",
-                "x": "它很可能运行与MPC Sample相同软件的某个版本，但会针对传统键盘、弯音轮和调制轮做出调整。不过与更高端的MPC Key 37不同，Sample Key没有打击垫，而是用琴键来回放采样。"
+                "x": "“把Suno加入你的AI工具栈。”Suno进军MCP领域的发布介绍这样写道，该产品目前定位为“early access（抢先体验）”版本。“在你的AI工具中访问Suno MCP，直接在聊天里创作音乐。”"
               },
               {
                 "t": "p",
-                "x": "在昨晚和今天发布的短Instagram Reels中，Akai展示了多个氛围编程改装，为设备加入包括Native Instruments Massive在内的合成器，以及虚拟模拟和FM合成器。其中一个甚至运行着完全自定义的OS，“里面有好几种不同的合成器”。"
+                "x": "Suno MCP目前可接入Claude、ChatGPT、Gemini、Claude Code和Cursor；如果用户愿意手动调整所需的连接器设置，也可接入其他AI工具。"
               },
               {
                 "t": "p",
-                "x": "从视频来看，同样的“社区”功能也将登陆普通版MPC Sample，视频中它同样运行着几款由Claude打造的氛围编程合成器。这可能意味着Akai计划将整个MPC Sample平台开源。"
+                "x": "通过Suno MCP生成的歌曲会像在Suno自家网站和应用上一样消耗积分，音乐会保存到用户的曲库中，也可在网站和应用中访问。Suno的免费用户和付费订阅用户都可使用该MCP。"
               },
               {
                 "t": "p",
-                "x": "CEO Jack O’Donnell对The Verge表示，inMusic旗下品牌，尤其是Akai，将通过向开发者提前提供设备来拥抱改装社区。这些举措还将包括开源部分软件并提供SDK。"
+                "x": "Suno是首批推出MCP服务器的大型AI音乐（AI-music）工具之一，不过目前是抢先体验形式，并未向所有人开放。鉴于两家公司都面临正在进行的版权诉讼，能在Anthropic的Claude中使用Suno，对音乐版权方来说尤其敏感。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Akai abre su MPC a los mods\nhechos con vibe coding",
-          "body": "El MPC Sample Key de Akai abre su firmware para que los usuarios creen instrumentos y funciones con AI.",
-          "mini_headline": "Akai abre el firmware del MPC a la AI",
+          "headline": "Suno abre un servidor MCP\npara crear música en el chat",
+          "body": "El servidor MCP de Suno, en acceso anticipado, permite crear canciones dentro de Claude, ChatGPT, Gemini y Cursor.",
+          "mini_headline": "Suno MCP para hacer música en el chat",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0%2C12.303664921466%2C100%2C75.392670157068&w=2400",
-                "cap": "El MPC Sample Key se parece al MPC Sample, pero con teclas en lugar de pads. Imagen: Akai"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "El MPC Sample Key ni siquiera se ha anunciado formalmente, pero Akai ya muestra lo que la comunidad de modding está creando con vibe coding. Akai ha decidido sumarse a la explosión de hackers y desarrolladores de firmware personalizado dándoles acceso anticipado al dispositivo, que tendrá firmware de código abierto."
+                "x": "Los profesionales de la industria musical se han apresurado a conectar varios servidores Model Context Protocol (MCP) a sus chatbots de AI preferidos. Sin embargo, en algunos sectores puede haber más reticencia a añadir el más reciente: es de Suno."
               },
               {
                 "t": "p",
-                "x": "Es probable que ejecute alguna versión del mismo software del MPC Sample, con ajustes para el teclado tradicional y las ruedas de pitch y modulación. Sin embargo, a diferencia del MPC Key 37, de gama más alta, el Sample Key no tiene pads. En su lugar, las muestras se reproducen con las teclas."
+                "x": "“Añade Suno a tu stack de AI”, explica el texto de lanzamiento del paso de Suno al mundo MCP, presentado por ahora como un producto de ‘early access’ (acceso anticipado). “Accede al Suno MCP desde tu herramienta de AI y crea música directamente desde el chat”."
               },
               {
                 "t": "p",
-                "x": "En los breves Instagram Reels publicados anoche y hoy, Akai muestra varios mods hechos con vibe coding que añaden sintetizadores al dispositivo, entre ellos Native Instruments Massive, además de sintetizadores de modelado analógico virtual y FM. En uno incluso se ve un OS completamente personalizado, con “varios sintetizadores distintos”."
+                "x": "El Suno MCP puede conectarse actualmente a Claude, ChatGPT, Gemini, Claude Code y Cursor, así como a otras herramientas de AI si los usuarios se sienten cómodos ajustando a mano la configuración del conector necesaria."
               },
               {
                 "t": "p",
-                "x": "Según los clips, las mismas funciones de la “comunidad” llegarán al MPC Sample normal, que también aparece ejecutando algunos sintetizadores hechos con vibe coding creados por Claude. Eso podría significar que Akai planea abrir el código de toda la plataforma MPC Sample."
+                "x": "Las canciones que se generan con el Suno MCP consumen créditos igual que en el sitio y la app de Suno, y la música se guarda en la biblioteca del usuario para que también pueda abrirse desde allí. El MCP está disponible tanto para usuarios gratuitos de Suno como para suscriptores de pago."
               },
               {
                 "t": "p",
-                "x": "El CEO Jack O’Donnell dijo a The Verge que las marcas de inMusic, sobre todo Akai, buscarán sumarse a la comunidad de modding enviando dispositivos anticipados a desarrolladores. Estos esfuerzos también incluirán abrir el código de parte del software y ofrecer un SDK."
+                "x": "Suno es una de las primeras grandes herramientas de música con AI (AI-music) en lanzar un servidor MCP, aunque en acceso anticipado y no para todos. La posibilidad de usar Suno desde Claude, de Anthropic, resulta especialmente delicada para los titulares de derechos musicales, dados los pleitos por copyright en curso contra ambas empresas."
               }
             ]
           }
@@ -365,225 +355,237 @@
       }
     },
     {
-      "id": "behringerkick",
+      "id": "a7x-zacky-ai-cover-art",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Behringer Kick\n바이브 코딩 펌웨어에 베팅",
-      "body": "Behringer Kick은 누구나 AI-generated 펌웨어로 기능을 단다.",
-      "mini_headline": "Behringer Kick, AI 펌웨어로 돌아간다",
+      "headline": "AI 커버 편든 Zacky\nVengeance(A7X)",
+      "body": "Zacky Vengeance는 AI를 반기며 디자이너 다수를 게으르다고 했다.",
+      "mini_headline": "A7X Zacky, AI 아트 옹호",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware",
-      "accent": "#0070f3",
+      "source": "Metal Injection",
+      "url": "https://metalinjection.net/news/avenged-sevenfolds-zacky-vengeance-defends-ai-art-calls-majority-of-designers-hes-worked-with-lazy",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-            "cap": "(이미지 출처: Behringer)"
+            "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "Behringer가 곧 나올 하드웨어 샘플러 Kick을 예고했다. 최근 업데이트된 Akai의 MPC One과 무척 닮은 기기다. Behringer는 하드웨어가 나오기도 전에 오픈소스 펌웨어 자료를 GitHub에 올리고, 잠재 사용자에게 “악기가 할 수 있는 일을 만들고, 고치고, 새로 발명하라”고 권했다."
+            "x": "Avenged Sevenfold가 해마다 내는 Misfits 헌정곡이 아무도 원치 않던 AI 논쟁에 화젯거리를 하나 더 얹었다. 올해 밴드는 팬클럽 Deathbats를 위해 \"Horror Business\"를 골랐는데, 함께 낸 아트워크가 AI로 만든(AI-generated) 것 아니냐는 의혹 속에 뭇매를 맞고 있다. A7X 기타리스트 겸 보컬 Zacky Vengeance는 소셜미디어에서 밴드의 선택을 감쌌고, 물러설 생각도 없다."
           },
           {
             "t": "p",
-            "x": "Kick에는 패드 16개와 할당 가능한 노브 네 개, 터치스크린, 오디오·MIDI·CV 연결이 들어간다. 제스처 제어를 지원한다는 ‘AI 카메라’와 작은 터치스트립도 달렸다. 예고 가격은 $150다."
+            "x": "\"사실 나는 AI를 전적으로 받아들인다. 실물 미술과 그것을 만드는 재능 있는 사람들(나도 그중 하나다)을 사랑하지만, 지난 20년 동안 함께 일한 디자이너 대다수는 게을렀고 안일함과 탐욕 탓에 스스로 대체되도록 내버려 뒀다고 본다\"고 Vengeance는 썼다. \"나는 내 프롬프트와 집단 지성, 미래의 효율을 택한다. 내 의견일 뿐이지만 나는 그것을 받아들인다. 그리고 그것은 분명히 우리 모두를 죽일 것이다.\""
           },
           {
             "t": "p",
-            "x": "Behringer는 Facebook 게시물에서 AI의 역할을 분명히 했다. “AI가 있으면 프로그래밍 경험이 없는 사람도 아이디어를 새 기능과 펌웨어로 바꿀 수 있다.” 예고된 Akai의 MPC Sample Key도 비슷하게 문을 열 것으로 보인다."
+            "x": "Vengeance는 AI가 “분명히 우리 모두를 죽일 것”이라고 하면서도 AI를 또 하나의 기술 발전으로 여긴다. 총기를 두고 많은 이들이 펴는 논리와 닮았다. 위험은 도구가 아니라 그것을 쓰는 사람에게서 나온다는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "\"모든 주요 기술 발전은 두려움과 저항에 부딪혀 왔다. AI도 다르지 않다. AI는 창의성이나 인간 독창성의 죽음이 아니라 가능성의 확장이다\"라고 Vengeance는 이어 갔다. \"문제는 기술 자체가 아니라 사람들이 그것을 어떻게 쓰느냐다. AI를 거부한다고 발전이 멈추지는 않는다. 책임 있게 다루는 법을 익혀야 미래를 만들어 갈 수 있다. 이 메시지는 AI로 작성했다. 잘 자라(Goodnight)\""
+          },
+          {
+            "t": "p",
+            "x": "그는 댓글로 팬들과 이야기를 나누며 조금 더 자세히 설명했다. 그 일부는 아래에서 볼 수 있다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-            "cap": "Akai의 Sample Key도 오픈소스 흐름에 합류할 예정이다. (이미지 출처: Akai Professional/Instagram)"
-          },
-          {
-            "t": "p",
-            "x": "MusicRadar는 위험도 짚는다. 제품을 AI-generated 펌웨어에 열어 두면 새 기능 추가는 사실상 커뮤니티 몫이 되고, 브랜드가 AI-empowered 사용자를 개발·테스트·업데이트 비용을 아끼는 수단으로 여길 수 있다는 지적이다. GitHub에 올라온 Kick 사양은 ‘JAM DAW’라는 무언가를 중심에 두고 샘플 편집, 스텝 시퀀서, 루퍼를 내세운다."
+            "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Behringer Kick sampler bets\non vibe-coded firmware",
-          "body": "Behringer's open-source Kick sampler leans on AI-generated firmware so non-programmers can add their own features.",
-          "mini_headline": "Behringer Kick runs on AI firmware",
+          "headline": "Zacky Vengeance defends\nAI art for an A7X cover",
+          "body": "Facing AI cover-art claims, Zacky Vengeance said he fully embraces AI and called most designers he's worked with lazy.",
+          "mini_headline": "A7X's Zacky backs AI art",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "(Image credit: Behringer)"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringer is teasing a forthcoming hardware sampler, Kick, which looks an awful lot like Akai’s recently-updated MPC One. Even before the hardware has been released, Behringer has uploaded resources for its open source firmware to GitHub, inviting potential users to “create, modify and reinvent what an instrument can do.”"
+                "x": "Avenged Sevenfold's annual Misfits tribute has led to yet another contribution to the AI conversation no one asked for. This year, the band decided to take on \"Horror Business\" for their Deathbats fan club, but their choice of artwork to go with it seems to be attracting some hate for allegedly being AI-generated. A7X guitarist/vocalist Zacky Vengeance has taken to social media to defend the band's use of it, and he's not backing down."
               },
               {
                 "t": "p",
-                "x": "Kick has 16 pads, four assignable knobs, a touchscreen and audio, MIDI and CV connectivity, plus an ‘AI camera’ said to allow for gesture control and a small touchstrip. Its promised price is $150."
+                "x": "\"I actually fully embrace AI. While I love physical art and the talented people who create it (myself being one of them) I also think the majority of designers I have worked with over the past 20 years are lazy and allowed themselves to be replaced due to complacency and greed,\" Vengeance wrote. \"I prefer my prompts and the collective hive mind and efficiency of the future. Just my opinion but I embrace it. Also it will absolutely kill us all.\""
               },
               {
                 "t": "p",
-                "x": "In its Facebook post, Behringer is explicit about the role it sees AI playing: “With AI, even people without programming experience can turn their ideas into new features and firmware.” Akai looks set to take an open approach too with the teased MPC Sample Key."
+                "x": "Despite predicting that AI will “absolutely kill us all,” Vengeance sees it as just another technological advancement. Essentially, he likened it to the argument many present when it comes to guns—it's not the tool itself that creates the danger, but the people who use it."
+              },
+              {
+                "t": "p",
+                "x": "\"Every major technological advancement has been met with fear and resistance. AI is no different. It’s not the death of creativity or human ingenuity; it’s an expansion of what’s possible,\" Vengeance continues. \"The problem isn’t the technology itself, but how people choose to use it. Rejecting AI won’t stop progress. Learning to harness it responsibly will help shape the future – this message was made using AI. Goodnight\""
+              },
+              {
+                "t": "p",
+                "x": "He goes into it a bit more in exchanges with fans in the comments, a few of which can be seen below."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "Akai's own Sample Key is also set to join the open-source boom. (Image credit: Akai Professional/Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadar warns of a danger: by opening a product up to AI-generated firmware, adding new features becomes more of a community responsibility, and brands could see AI-empowered users as a way to save money on development, testing and updating. Kick’s GitHub specs tout sample editing, a step sequencer and looper, around something called ‘JAM DAW’."
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Behringer Kick\n바이브 코딩 펌웨어에 베팅",
-          "body": "Behringer Kick은 누구나 AI-generated 펌웨어로 기능을 단다.",
-          "mini_headline": "Behringer Kick, AI 펌웨어로 돌아간다",
+          "headline": "AI 커버 편든 Zacky\nVengeance(A7X)",
+          "body": "Zacky Vengeance는 AI를 반기며 디자이너 다수를 게으르다고 했다.",
+          "mini_headline": "A7X Zacky, AI 아트 옹호",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "(이미지 출처: Behringer)"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringer가 곧 나올 하드웨어 샘플러 Kick을 예고했다. 최근 업데이트된 Akai의 MPC One과 무척 닮은 기기다. Behringer는 하드웨어가 나오기도 전에 오픈소스 펌웨어 자료를 GitHub에 올리고, 잠재 사용자에게 “악기가 할 수 있는 일을 만들고, 고치고, 새로 발명하라”고 권했다."
+                "x": "Avenged Sevenfold가 해마다 내는 Misfits 헌정곡이 아무도 원치 않던 AI 논쟁에 화젯거리를 하나 더 얹었다. 올해 밴드는 팬클럽 Deathbats를 위해 \"Horror Business\"를 골랐는데, 함께 낸 아트워크가 AI로 만든(AI-generated) 것 아니냐는 의혹 속에 뭇매를 맞고 있다. A7X 기타리스트 겸 보컬 Zacky Vengeance는 소셜미디어에서 밴드의 선택을 감쌌고, 물러설 생각도 없다."
               },
               {
                 "t": "p",
-                "x": "Kick에는 패드 16개와 할당 가능한 노브 네 개, 터치스크린, 오디오·MIDI·CV 연결이 들어간다. 제스처 제어를 지원한다는 ‘AI 카메라’와 작은 터치스트립도 달렸다. 예고 가격은 $150다."
+                "x": "\"사실 나는 AI를 전적으로 받아들인다. 실물 미술과 그것을 만드는 재능 있는 사람들(나도 그중 하나다)을 사랑하지만, 지난 20년 동안 함께 일한 디자이너 대다수는 게을렀고 안일함과 탐욕 탓에 스스로 대체되도록 내버려 뒀다고 본다\"고 Vengeance는 썼다. \"나는 내 프롬프트와 집단 지성, 미래의 효율을 택한다. 내 의견일 뿐이지만 나는 그것을 받아들인다. 그리고 그것은 분명히 우리 모두를 죽일 것이다.\""
               },
               {
                 "t": "p",
-                "x": "Behringer는 Facebook 게시물에서 AI의 역할을 분명히 했다. “AI가 있으면 프로그래밍 경험이 없는 사람도 아이디어를 새 기능과 펌웨어로 바꿀 수 있다.” 예고된 Akai의 MPC Sample Key도 비슷하게 문을 열 것으로 보인다."
+                "x": "Vengeance는 AI가 “분명히 우리 모두를 죽일 것”이라고 하면서도 AI를 또 하나의 기술 발전으로 여긴다. 총기를 두고 많은 이들이 펴는 논리와 닮았다. 위험은 도구가 아니라 그것을 쓰는 사람에게서 나온다는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "\"모든 주요 기술 발전은 두려움과 저항에 부딪혀 왔다. AI도 다르지 않다. AI는 창의성이나 인간 독창성의 죽음이 아니라 가능성의 확장이다\"라고 Vengeance는 이어 갔다. \"문제는 기술 자체가 아니라 사람들이 그것을 어떻게 쓰느냐다. AI를 거부한다고 발전이 멈추지는 않는다. 책임 있게 다루는 법을 익혀야 미래를 만들어 갈 수 있다. 이 메시지는 AI로 작성했다. 잘 자라(Goodnight)\""
+              },
+              {
+                "t": "p",
+                "x": "그는 댓글로 팬들과 이야기를 나누며 조금 더 자세히 설명했다. 그 일부는 아래에서 볼 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "Akai의 Sample Key도 오픈소스 흐름에 합류할 예정이다. (이미지 출처: Akai Professional/Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadar는 위험도 짚는다. 제품을 AI-generated 펌웨어에 열어 두면 새 기능 추가는 사실상 커뮤니티 몫이 되고, 브랜드가 AI-empowered 사용자를 개발·테스트·업데이트 비용을 아끼는 수단으로 여길 수 있다는 지적이다. GitHub에 올라온 Kick 사양은 ‘JAM DAW’라는 무언가를 중심에 두고 샘플 편집, 스텝 시퀀서, 루퍼를 내세운다."
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Behringer Kick\nバイブコーディングに賭ける",
-          "body": "BehringerのKickは、AI-generatedのファームで誰でも機能を追加できる。",
-          "mini_headline": "Behringer Kick、AIファームで動く",
+          "headline": "AIアート擁護のZacky\nVengeance(A7X)",
+          "body": "Zacky VengeanceはAIを全面的に受け入れ、デザイナーの多くを怠惰と評した。",
+          "mini_headline": "A7XのZacky、AIアートを擁護",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "(画像提供:Behringer)"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringerは近日発売のハードウェアサンプラー「Kick」を予告している。最近アップデートされたAkaiのMPC Oneによく似た外観だ。ハードウェアの発売前から、Behringerはオープンソースファームウェアのリソースを GitHubに公開し、潜在的なユーザーに「楽器にできることを作り、改変し、再発明する」よう呼びかけている。"
+                "x": "Avenged Sevenfoldの毎年恒例のMisfitsトリビュートが、誰も求めていないAI論争にまた一つ話題を加えた。今年、バンドはファンクラブDeathbatsのために\"Horror Business\"を取り上げたが、添えたアートワークがAI生成（AI-generated）ではないかと疑われ、反発を招いている。A7XのギタリストでボーカルのZacky Vengeanceはソーシャルメディアでその使用を擁護し、一歩も引かない構えだ。"
               },
               {
                 "t": "p",
-                "x": "Kickは16個のパッド、アサイン可能なノブ四つ、タッチスクリーン、オーディオ・MIDI・CV接続を備え、さらにジェスチャー操作ができるという「AIカメラ」と小型タッチストリップも搭載する。予告価格は$150だ。"
+                "x": "「実は僕はAIを全面的に受け入れている。物理的なアートとそれを生み出す才能ある人々（僕自身もその一人だ）は大好きだが、この20年間一緒に仕事をしたデザイナーの大半は怠惰で、慢心と強欲のせいで自ら取って代わられるに任せたとも思う」とVengeanceは書いた。「僕は自分のプロンプトと集合的な知性、そして未来の効率を選ぶ。あくまで僕の意見だが、受け入れている。それに、それは間違いなく僕ら全員を殺すだろう」"
               },
               {
                 "t": "p",
-                "x": "BehringerはFacebookの投稿で、AIが果たす役割をはっきりと述べている。「AIがあれば、プログラミング経験のない人でもアイデアを新しい機能やファームウェアに変えられる」。Akaiも予告中のMPC Sample Keyでオープンな姿勢を取るとみられる。"
+                "x": "AIが「間違いなく僕ら全員を殺す」と予言しながらも、Vengeanceはそれを技術進歩の一つにすぎないとみている。要するに彼は、銃をめぐって多くの人が持ち出す議論になぞらえた。危険を生むのは道具そのものではなく、それを使う人間だというわけだ。"
+              },
+              {
+                "t": "p",
+                "x": "「大きな技術進歩はどれも恐怖と抵抗に迎えられてきた。AIも同じだ。創造性や人間の独創性の死ではなく、可能性の拡張だ」とVengeanceは続ける。「問題は技術そのものではなく、人々がそれをどう使うかだ。AIを拒んでも進歩は止まらない。責任をもって使いこなすことを学べば、未来を形づくる助けになる――このメッセージはAIを使って作成した。おやすみ（Goodnight）」"
+              },
+              {
+                "t": "p",
+                "x": "彼はコメント欄でのファンとのやり取りで、もう少し踏み込んで語っている。その一部は以下で見られる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "AkaiのSample Keyもオープンソースの潮流に加わる見込みだ。(画像提供:Akai Professional/Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadarは危うさも指摘する。製品をAI-generatedファームウェアに開放すると、新機能の追加はコミュニティの責任に近づき、ブランドはAI-empoweredなユーザーを開発・テスト・アップデートの費用を節約する手段とみなしかねない。GitHub上のKickの仕様は、「JAM DAW」と呼ばれるものを中心に、サンプル編集、ステップシーケンサー、ルーパーをうたっている。"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Behringer Kick\n押注氛围编程固件",
-          "body": "Behringer开源采样器Kick用AI-generated固件，让非程序员也能加功能。",
-          "mini_headline": "Behringer Kick采用AI固件",
+          "headline": "力挺AI封面的Zacky\nVengeance(A7X)",
+          "body": "面对AI封面质疑，Zacky Vengeance称全面拥抱AI，并称合作的多数设计师很懒。",
+          "mini_headline": "A7X的Zacky力挺AI艺术",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "（图片来源：Behringer）"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringer正在预热一款即将推出的硬件采样器Kick，它看起来与Akai近期更新的MPC One极为相似。硬件尚未发布，Behringer就已将其开源固件的资源上传至GitHub，邀请潜在用户“创造、修改并重新发明乐器所能做的事”。"
+                "x": "Avenged Sevenfold一年一度的Misfits致敬作品，又给这场没人想要的AI讨论添了一笔。今年乐队为粉丝俱乐部Deathbats选了\"Horror Business\"，但所配的艺术作品被指由AI生成（AI-generated），招来不少骂声。A7X吉他手兼主唱Zacky Vengeance在社交媒体上为乐队的使用辩护，而且毫不退让。"
               },
               {
                 "t": "p",
-                "x": "Kick配备16个打击垫、四个可分配旋钮、触摸屏以及音频、MIDI和CV连接，另有一个据称支持手势控制的“AI摄像头”和一条小型触控条。其承诺售价为$150。"
+                "x": "“其实我完全拥抱AI。我热爱实体艺术，也热爱创作它们的有才华的人（我自己就是其中之一），但我也认为，过去20年里与我合作过的大多数设计师都很懒，因为自满和贪婪而任由自己被取代，”Vengeance写道。“我更喜欢我的提示词、集体蜂巢思维和未来的效率。只是我的看法，但我拥抱它。而且它绝对会杀死我们所有人。”"
               },
               {
                 "t": "p",
-                "x": "Behringer在Facebook帖子中明确表达了它对AI作用的看法：“有了AI，即使没有编程经验的人也能把想法变成新功能和固件。”Akai似乎也将通过已预热的MPC Sample Key采取开放路线。"
+                "x": "尽管预言AI“绝对会杀死我们所有人”，Vengeance仍把它视为又一项技术进步。他基本上把这比作许多人在枪支问题上的论点：制造危险的不是工具本身，而是使用它的人。"
+              },
+              {
+                "t": "p",
+                "x": "“每一次重大技术进步都曾遭遇恐惧和抵制。AI也不例外。它不是创造力或人类智慧的终结，而是可能性的扩展，”Vengeance接着写道。“问题不在技术本身，而在人们选择如何使用它。拒绝AI阻止不了进步。学会负责任地驾驭它，才能帮助塑造未来——这条消息是用AI写的。晚安（Goodnight）”"
+              },
+              {
+                "t": "p",
+                "x": "他在评论区与粉丝的交流中又多谈了一些，下面可以看到其中几条。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "Akai自家的Sample Key也将加入开源热潮。（图片来源：Akai Professional/Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadar警告其中存在风险：产品一旦向AI-generated固件开放，添加新功能就更多成了社区的责任，品牌可能会把AI-empowered用户视为节省开发、测试和更新成本的途径。Kick在GitHub上的规格以一个名为“JAM DAW”的东西为核心，主打采样编辑、步进音序器和循环器。"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "El sampler Kick de Behringer\napuesta por firmware vibe-coded",
-          "body": "El sampler de código abierto Kick de Behringer usa firmware AI-generated para que quien no programa añada funciones.",
-          "mini_headline": "Behringer Kick funciona con firmware de AI",
+          "headline": "Zacky Vengeance defiende la AI\nen una portada de A7X",
+          "body": "Zacky Vengeance dijo que abraza por completo la AI y llamó perezosos a la mayoría de los diseñadores con que trabajó.",
+          "mini_headline": "Zacky, de A7X, respalda el arte con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "(Crédito de imagen: Behringer)"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringer adelanta un próximo sampler de hardware, Kick, muy parecido al MPC One de Akai, actualizado recientemente. Incluso antes del lanzamiento del hardware, Behringer ha subido a GitHub los recursos de su firmware de código abierto e invita a los posibles usuarios a “crear, modificar y reinventar lo que puede hacer un instrumento”."
+                "x": "El tributo anual de Avenged Sevenfold a Misfits ha sumado otra aportación a la conversación sobre la AI que nadie pidió. Este año, la banda eligió \"Horror Business\" para su club de fans Deathbats, pero la ilustración que escogió para acompañarla parece estar recibiendo críticas porque supuestamente fue generada con AI (AI-generated). El guitarrista y vocalista de A7X Zacky Vengeance salió en redes sociales a defender su uso, y no da marcha atrás."
               },
               {
                 "t": "p",
-                "x": "Kick tiene 16 pads, cuatro controles asignables, pantalla táctil y conectividad de audio, MIDI y CV, además de una ‘cámara AI’ que, según se dice, permite el control por gestos, y una pequeña tira táctil. Su precio prometido es de $150."
+                "x": "\"En realidad abrazo por completo la AI. Aunque amo el arte físico y a las personas talentosas que lo crean (yo mismo soy una de ellas), también creo que la mayoría de los diseñadores con los que he trabajado en los últimos 20 años son perezosos y se dejaron reemplazar por complacencia y codicia\", escribió Vengeance. \"Prefiero mis prompts, la mente colmena colectiva y la eficiencia del futuro. Es solo mi opinión, pero lo abrazo. Además, sin duda nos matará a todos.\""
               },
               {
                 "t": "p",
-                "x": "En su publicación de Facebook, Behringer es explícito sobre el papel que ve para la AI: “Con AI, incluso las personas sin experiencia en programación pueden convertir sus ideas en nuevas funciones y firmware”. Akai también parece dispuesta a adoptar un enfoque abierto con el anunciado MPC Sample Key."
+                "x": "Pese a predecir que la AI “sin duda nos matará a todos”, Vengeance la ve como un avance tecnológico más. En esencia, la comparó con el argumento que muchos plantean sobre las armas: no es la herramienta en sí la que crea el peligro, sino las personas que la usan."
+              },
+              {
+                "t": "p",
+                "x": "\"Todo gran avance tecnológico ha encontrado miedo y resistencia. La AI no es diferente. No es la muerte de la creatividad ni del ingenio humano; es una ampliación de lo posible\", continúa Vengeance. \"El problema no es la tecnología en sí, sino cómo la gente decide usarla. Rechazar la AI no detendrá el progreso. Aprender a aprovecharla con responsabilidad ayudará a dar forma al futuro: este mensaje se hizo con AI. Buenas noches (Goodnight)\""
+              },
+              {
+                "t": "p",
+                "x": "Profundiza un poco más en sus intercambios con fans en los comentarios, algunos de los cuales pueden verse abajo."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "El Sample Key de Akai también se sumará al auge del código abierto. (Crédito de imagen: Akai Professional/Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadar advierte de un peligro: al abrir un producto al firmware AI-generated, añadir funciones pasa a ser más una responsabilidad de la comunidad, y las marcas podrían ver a los usuarios AI-empowered como una forma de ahorrar en desarrollo, pruebas y actualizaciones. Las especificaciones de Kick en GitHub destacan edición de muestras, secuenciador por pasos y looper, en torno a algo llamado ‘JAM DAW’."
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
@@ -591,145 +593,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Behringer Kick\n바이브 코딩 펌웨어에 베팅",
-          "body": "Behringer Kick은 AI-generated 펌웨어로 누구나 기능을 더한다.",
-          "mini_headline": "Behringer Kick, AI 펌웨어로 돌아간다",
+          "headline": "AI 커버 편든 Zacky\nVengeance(A7X)",
+          "body": "Zacky Vengeance는 AI를 반기며 디자이너 다수를 게으르다고 했다.",
+          "mini_headline": "A7X Zacky, AI 아트 옹호",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "(이미지 출처: Behringer)"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringer가 곧 나올 하드웨어 샘플러 Kick을 예고했다. 최근 업데이트된 Akai의 MPC One과 무척 닮았다. Behringer는 하드웨어 출시 전부터 오픈소스 펌웨어 자료를 GitHub에 올리고, 잠재 사용자에게 “악기가 할 수 있는 일을 만들고, 고치고, 새로 발명하라”고 권했다."
+                "x": "Avenged Sevenfold의 연례 Misfits 헌정곡이 아무도 원하지 않던 AI 논쟁에 또 하나의 화제를 보탰다. 올해 밴드는 팬클럽 Deathbats를 위해 \"Horror Business\"를 골랐는데, 함께 고른 아트워크가 AI로 만든(AI-generated) 것이라는 의혹 속에 비난을 사고 있다. A7X 기타리스트 겸 보컬 Zacky Vengeance는 소셜미디어에서 밴드의 선택을 옹호했고, 물러설 뜻이 없다."
               },
               {
                 "t": "p",
-                "x": "Kick은 패드 16개, 할당 가능한 노브 네 개, 터치스크린, 오디오·MIDI·CV 연결을 갖췄다. 여기에 제스처 제어를 지원한다는 ‘AI 카메라’와 작은 터치스트립도 있다. 예고된 가격은 $150다."
+                "x": "\"사실 나는 AI를 전적으로 받아들인다. 실물 미술과 그것을 만드는 재능 있는 사람들(나도 그중 하나다)을 사랑하지만, 지난 20년 동안 함께 일한 디자이너 대다수는 게을렀고 안일함과 탐욕 탓에 스스로 대체되도록 내버려 뒀다고 본다\"고 Vengeance는 썼다. \"나는 내 프롬프트와 집단 지성, 미래의 효율을 택한다. 내 의견일 뿐이지만 나는 그것을 받아들인다. 그리고 그것은 분명히 우리 모두를 죽일 것이다.\""
               },
               {
                 "t": "p",
-                "x": "Behringer는 Facebook 게시물에서 AI의 역할을 분명히 밝혔다. “AI가 있으면 프로그래밍 경험이 없는 사람도 아이디어를 새 기능과 펌웨어로 바꿀 수 있다.” Akai도 예고한 MPC Sample Key로 개방적 방식을 택할 것으로 보인다."
+                "x": "AI가 “분명히 우리 모두를 죽일 것”이라고 내다보면서도 Vengeance는 AI를 또 하나의 기술 발전으로 본다. 요컨대 그는 총기를 두고 많은 이들이 펴는 논리에 빗댔다. 위험을 만드는 것은 도구 자체가 아니라 그것을 쓰는 사람이라는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "\"모든 주요 기술 발전은 두려움과 저항에 부딪혀 왔다. AI도 다르지 않다. AI는 창의성이나 인간 독창성의 죽음이 아니라 가능성의 확장이다\"라고 Vengeance는 이어 갔다. \"문제는 기술 자체가 아니라 사람들이 그것을 어떻게 쓰느냐다. AI를 거부한다고 발전이 멈추지는 않는다. 책임 있게 다루는 법을 익혀야 미래를 만들어 갈 수 있다. 이 메시지는 AI로 작성했다. 잘 자라(Goodnight)\""
+              },
+              {
+                "t": "p",
+                "x": "그는 댓글에서 팬들과 주고받은 대화에서 조금 더 자세히 이야기했고, 그중 일부는 아래에서 볼 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "Akai의 Sample Key도 오픈소스 흐름에 합류할 예정이다. (이미지 출처: Akai Professional/Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadar는 위험도 경고한다. 제품을 AI-generated 펌웨어에 열면 새 기능 추가가 커뮤니티의 책임에 가까워지고, 브랜드는 AI-empowered 사용자를 개발·테스트·업데이트 비용을 아낄 수단으로 볼 수 있다는 것이다. GitHub에 올라온 Kick 사양은 ‘JAM DAW’라는 무언가를 중심으로 샘플 편집, 스텝 시퀀서, 루퍼를 내세운다."
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Behringer Kick\nバイブコーディングに賭ける",
-          "body": "BehringerのKickは、AI-generatedのファームで誰でも機能を追加できる。",
-          "mini_headline": "Behringer Kick、AIファームで動く",
+          "headline": "AIアート擁護のZacky\nVengeance(A7X)",
+          "body": "Zacky VengeanceはAIを全面的に受け入れ、デザイナーの多くを怠惰と評した。",
+          "mini_headline": "A7XのZacky、AIアートを擁護",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "(画像提供:Behringer)"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringerは近日発売のハードウェアサンプラー「Kick」を予告している。最近アップデートされたAkaiのMPC Oneによく似た外観だ。ハードウェアの発売前から、Behringerはオープンソースファームウェアのリソースを GitHubに公開し、潜在的なユーザーに「楽器にできることを作り、改変し、再発明する」よう呼びかけている。"
+                "x": "Avenged Sevenfoldの毎年恒例のMisfitsトリビュートが、誰も求めていないAI論争にまた一つ話題を加えた。今年、バンドはファンクラブDeathbatsのために\"Horror Business\"を取り上げたが、添えたアートワークがAI生成（AI-generated）ではないかと疑われ、反発を招いている。A7XのギタリストでボーカルのZacky Vengeanceはソーシャルメディアでその使用を擁護し、一歩も引かない構えだ。"
               },
               {
                 "t": "p",
-                "x": "Kickは16個のパッド、アサイン可能なノブ四つ、タッチスクリーン、オーディオ・MIDI・CV接続を備え、さらにジェスチャー操作ができるという「AIカメラ」と小型タッチストリップも搭載する。予告価格は$150だ。"
+                "x": "「実は僕はAIを全面的に受け入れている。物理的なアートとそれを生み出す才能ある人々（僕自身もその一人だ）は大好きだが、この20年間一緒に仕事をしたデザイナーの大半は怠惰で、慢心と強欲のせいで自ら取って代わられるに任せたとも思う」とVengeanceは書いた。「僕は自分のプロンプトと集合的な知性、そして未来の効率を選ぶ。あくまで僕の意見だが、受け入れている。それに、それは間違いなく僕ら全員を殺すだろう」"
               },
               {
                 "t": "p",
-                "x": "BehringerはFacebookの投稿で、AIが果たす役割をはっきりと述べている。「AIがあれば、プログラミング経験のない人でもアイデアを新しい機能やファームウェアに変えられる」。Akaiも予告中のMPC Sample Keyでオープンな姿勢を取るとみられる。"
+                "x": "AIが「間違いなく僕ら全員を殺す」と予言しながらも、Vengeanceはそれを技術進歩の一つにすぎないとみている。要するに彼は、銃をめぐって多くの人が持ち出す議論になぞらえた。危険を生むのは道具そのものではなく、それを使う人間だというわけだ。"
+              },
+              {
+                "t": "p",
+                "x": "「大きな技術進歩はどれも恐怖と抵抗に迎えられてきた。AIも同じだ。創造性や人間の独創性の死ではなく、可能性の拡張だ」とVengeanceは続ける。「問題は技術そのものではなく、人々がそれをどう使うかだ。AIを拒んでも進歩は止まらない。責任をもって使いこなすことを学べば、未来を形づくる助けになる――このメッセージはAIを使って作成した。おやすみ（Goodnight）」"
+              },
+              {
+                "t": "p",
+                "x": "彼はコメント欄でのファンとのやり取りで、もう少し踏み込んで語っている。その一部は以下で見られる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "AkaiのSample Keyもオープンソースの潮流に加わる見込みだ。(画像提供:Akai Professional/Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadarは危うさも指摘する。製品をAI-generatedファームウェアに開放すると、新機能の追加はコミュニティの責任に近づき、ブランドはAI-empoweredなユーザーを開発・テスト・アップデートの費用を節約する手段とみなしかねない。GitHub上のKickの仕様は、「JAM DAW」と呼ばれるものを中心に、サンプル編集、ステップシーケンサー、ルーパーをうたっている。"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Behringer Kick\n押注氛围编程固件",
-          "body": "Behringer开源采样器Kick用AI-generated固件，让非程序员也能加功能。",
-          "mini_headline": "Behringer Kick采用AI固件",
+          "headline": "力挺AI封面的Zacky\nVengeance(A7X)",
+          "body": "面对AI封面质疑，Zacky Vengeance称全面拥抱AI，并称合作的多数设计师很懒。",
+          "mini_headline": "A7X的Zacky力挺AI艺术",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "（图片来源：Behringer）"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringer正在预热一款即将推出的硬件采样器Kick，它看起来与Akai近期更新的MPC One极为相似。硬件尚未发布，Behringer就已将其开源固件的资源上传至GitHub，邀请潜在用户“创造、修改并重新发明乐器所能做的事”。"
+                "x": "Avenged Sevenfold一年一度的Misfits致敬作品，又给这场没人想要的AI讨论添了一笔。今年乐队为粉丝俱乐部Deathbats选了\"Horror Business\"，但所配的艺术作品被指由AI生成（AI-generated），招来不少骂声。A7X吉他手兼主唱Zacky Vengeance在社交媒体上为乐队的使用辩护，而且毫不退让。"
               },
               {
                 "t": "p",
-                "x": "Kick配备16个打击垫、四个可分配旋钮、触摸屏以及音频、MIDI和CV连接，另有一个据称支持手势控制的“AI摄像头”和一条小型触控条。其承诺售价为$150。"
+                "x": "“其实我完全拥抱AI。我热爱实体艺术，也热爱创作它们的有才华的人（我自己就是其中之一），但我也认为，过去20年里与我合作过的大多数设计师都很懒，因为自满和贪婪而任由自己被取代，”Vengeance写道。“我更喜欢我的提示词、集体蜂巢思维和未来的效率。只是我的看法，但我拥抱它。而且它绝对会杀死我们所有人。”"
               },
               {
                 "t": "p",
-                "x": "Behringer在Facebook帖子中明确表达了它对AI作用的看法：“有了AI，即使没有编程经验的人也能把想法变成新功能和固件。”Akai似乎也将通过已预热的MPC Sample Key采取开放路线。"
+                "x": "尽管预言AI“绝对会杀死我们所有人”，Vengeance仍把它视为又一项技术进步。他基本上把这比作许多人在枪支问题上的论点：制造危险的不是工具本身，而是使用它的人。"
+              },
+              {
+                "t": "p",
+                "x": "“每一次重大技术进步都曾遭遇恐惧和抵制。AI也不例外。它不是创造力或人类智慧的终结，而是可能性的扩展，”Vengeance接着写道。“问题不在技术本身，而在人们选择如何使用它。拒绝AI阻止不了进步。学会负责任地驾驭它，才能帮助塑造未来——这条消息是用AI写的。晚安（Goodnight）”"
+              },
+              {
+                "t": "p",
+                "x": "他在评论区与粉丝的交流中又多谈了一些，下面可以看到其中几条。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "Akai自家的Sample Key也将加入开源热潮。（图片来源：Akai Professional/Instagram）"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadar警告其中存在风险：产品一旦向AI-generated固件开放，添加新功能就更多成了社区的责任，品牌可能会把AI-empowered用户视为节省开发、测试和更新成本的途径。Kick在GitHub上的规格以一个名为“JAM DAW”的东西为核心，主打采样编辑、步进音序器和循环器。"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "El sampler Kick de Behringer\napuesta por firmware vibe-coded",
-          "body": "El sampler de código abierto Kick de Behringer usa firmware AI-generated para que quien no programa añada funciones.",
-          "mini_headline": "Behringer Kick funciona con firmware de AI",
+          "headline": "Zacky Vengeance defiende la AI\nen una portada de A7X",
+          "body": "Zacky Vengeance dijo que abraza por completo la AI y llamó perezosos a la mayoría de los diseñadores con que trabajó.",
+          "mini_headline": "Zacky, de A7X, respalda el arte con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
-                "cap": "(Crédito de imagen: Behringer)"
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Behringer adelanta un próximo sampler de hardware, Kick, muy parecido al MPC One de Akai, actualizado recientemente. Incluso antes del lanzamiento del hardware, Behringer ha subido a GitHub los recursos de su firmware de código abierto e invita a los posibles usuarios a “crear, modificar y reinventar lo que puede hacer un instrumento”."
+                "x": "El tributo anual de Avenged Sevenfold a Misfits ha sumado otra aportación a la conversación sobre la AI que nadie pidió. Este año, la banda eligió \"Horror Business\" para su club de fans Deathbats, pero la ilustración que escogió para acompañarla parece estar recibiendo críticas porque supuestamente fue generada con AI (AI-generated). El guitarrista y vocalista de A7X Zacky Vengeance salió en redes sociales a defender su uso, y no da marcha atrás."
               },
               {
                 "t": "p",
-                "x": "Kick tiene 16 pads, cuatro controles asignables, pantalla táctil y conectividad de audio, MIDI y CV, además de una ‘cámara AI’ que, según se dice, permite el control por gestos, y una pequeña tira táctil. Su precio prometido es de $150."
+                "x": "\"En realidad abrazo por completo la AI. Aunque amo el arte físico y a las personas talentosas que lo crean (yo mismo soy una de ellas), también creo que la mayoría de los diseñadores con los que he trabajado en los últimos 20 años son perezosos y se dejaron reemplazar por complacencia y codicia\", escribió Vengeance. \"Prefiero mis prompts, la mente colmena colectiva y la eficiencia del futuro. Es solo mi opinión, pero lo abrazo. Además, sin duda nos matará a todos.\""
               },
               {
                 "t": "p",
-                "x": "En su publicación de Facebook, Behringer es explícito sobre el papel que ve para la AI: “Con AI, incluso las personas sin experiencia en programación pueden convertir sus ideas en nuevas funciones y firmware”. Akai también parece dispuesta a adoptar un enfoque abierto con el anunciado MPC Sample Key."
+                "x": "Pese a predecir que la AI “sin duda nos matará a todos”, Vengeance la ve como un avance tecnológico más. En esencia, la comparó con el argumento que muchos plantean sobre las armas: no es la herramienta en sí la que crea el peligro, sino las personas que la usan."
+              },
+              {
+                "t": "p",
+                "x": "\"Todo gran avance tecnológico ha encontrado miedo y resistencia. La AI no es diferente. No es la muerte de la creatividad ni del ingenio humano; es una ampliación de lo posible\", continúa Vengeance. \"El problema no es la tecnología en sí, sino cómo la gente decide usarla. Rechazar la AI no detendrá el progreso. Aprender a aprovecharla con responsabilidad ayudará a dar forma al futuro: este mensaje se hizo con AI. Buenas noches (Goodnight)\""
+              },
+              {
+                "t": "p",
+                "x": "Profundiza un poco más en sus intercambios con fans en los comentarios, algunos de los cuales pueden verse abajo."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
-                "cap": "El Sample Key de Akai también se sumará al auge del código abierto. (Crédito de imagen: Akai Professional/Instagram)"
-              },
-              {
-                "t": "p",
-                "x": "MusicRadar advierte de un peligro: al abrir un producto al firmware AI-generated, añadir funciones pasa a ser más una responsabilidad de la comunidad, y las marcas podrían ver a los usuarios AI-empowered como una forma de ahorrar en desarrollo, pruebas y actualizaciones. Las especificaciones de Kick en GitHub destacan edición de muestras, secuenciador por pasos y looper, en torno a algo llamado ‘JAM DAW’."
+                "src": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2026/10/image-2-750x766.png"
               }
             ]
           }
@@ -737,15 +747,15 @@
       }
     },
     {
-      "id": "machoverbso",
+      "id": "asap-rocky-shroom-clouds-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, BSO와 협연\nMachover 신작 초연",
-      "body": "Tod Machover 신작에서는 BSO 단원 80여 명이 반응형 AI와 대화한다.",
-      "mini_headline": "AI, BSO와 함께 연주하다",
+      "headline": "A$AP Rocky 뮤비\nVFX 장면 도용 의혹",
+      "body": "Cache Bunny는 A$AP Rocky가 자기 작품을 AI로 베꼈다고 했다.",
+      "mini_headline": "A$AP Rocky 뮤비 AI 도용 의혹",
       "tool": "Music",
-      "source": "WBUR",
-      "url": "https://www.wbur.org/news/2026/10/22/tod-machover-mit-media-lab-bso-ai",
+      "source": "Stereogum",
+      "url": "https://stereogum.com/2515567/aap-rocky-accused-of-plagiarizing-part-of-ai-assisted-shroom-clouds-video/news",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -753,239 +763,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-            "cap": "MIT Media Lab에서 첼로와 함께한 교수 겸 작곡가 Tod Machover. (Andrea Shea/WBUR)"
+            "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
           },
           {
             "t": "p",
-            "x": "MIT Media Lab 교수 Tod Machover가 Boston Symphony Orchestra와 인공지능을 위한 인터랙티브 작품을 초연한다. 25분짜리 곡 “already and not yet”은 80여 명의 연주자를 새로운 종류의 AI 시스템과 짝지은 작품으로, Media Lab 40주년을 기념해 위촉됐다."
+            "x": "A$AP Rocky가 2021년 미리 공개했던 \"Mushroom Clouds\"가 10월 19일 \"Shroom Clouds\"라는 새 싱글로 다시 나왔다. reggie, Jeremih가 함께한 곡이며 Don't Be Dumb 디럭스 에디션에 실릴 것으로 보인다. Rocky가 Aisultan Seitov, Pietro Biz Biasia와 함께 연출한 초현실적 영상에는 AI 효과가 일부 쓰였는데, 팬들이 짚는 건 2분 25초 무렵의 사이키델릭한 터널 장면이다."
+          },
+          {
+            "t": "video",
+            "yt": "jnFVwpvlq4E"
+          },
+          {
+            "t": "p",
+            "x": "Rocky는 2019년 GoPro Fusion으로 찍은 영상 시리즈에서 장면을 베꼈다는 의혹을 받는다. Ari Fararooy와 Cache Bunny가 연출하고 Cache Bunny가 시각효과를 맡은 시리즈로, 독일 파쿠르 선수 Jason Paul이 출연했다. Cache Bunny는 \"그들은 우리 영상을 허락 없이(묻지도 않고) 가져가 AI에 넣고 Jason을 ASAP Rocky로 바꿨다\"고 썼다. \"우리 원본의 풀과 그림자를 그대로 남겨 뒀으니 도용임은 논란의 여지가 없다.\""
+          },
+          {
+            "t": "p",
+            "x": "그는 이 일로 메시지를 600건 넘게 받았다며 이렇게 덧붙였다. \"아티스트의 작품을 훔치는 것은 옳지 않고, 우리가 남기고 싶은 선례도 아니다. 왜 그냥 연락해 클립 라이선스를 받거나, 거기서 영감을 얻은 자기 버전을 만들지 않았는지 이해할 수 없다.\""
           },
           {
             "t": "img",
-            "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-            "cap": "Machover의 Opera of the Future 그룹 박사과정생 Manaswi Mishra. (Andrea Shea/WBUR)"
+            "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
           },
           {
             "t": "p",
-            "x": "시스템은 박사과정생 Manaswi Mishra와 함께 만들었다. Machover는 “이것은 협업자이고, 우리는 그렇게 설계했다”며 “무대에서 연주하는 라이브 연주자들과 대화한다… AI는 연주자가 하는 것을 가져다 새 작품을 만들려는 게 아니라, 반응하고 주고받으려 한다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Mishra는 무대에서 AI의 반응을 이끈다. “화성 정보를 두드러지게 할 수도, 리듬 정보를 두드러지게 할 수도, 음색을 여러 방향으로 움직일 수도 있다.” 솔로 대목에 대해 Machover는 “AI가 반응한다… 연주자마다 다르다”고 설명했다."
+            "x": "YouTube 크레딧에는 \"AI Artist: Spike and Red\"와 \"AI Artist: Ces\"가 이름을 올렸다. Rocky는 며칠 전 Complex에 작업은 직접 하는 편이 좋지만 AI는 \"도구여야 한다\"고 말했다. 스템을 분리하고 보컬을 지운 뒤 인스트루멘털 위에서 랩을 하는 식이다."
           },
           {
             "t": "img",
-            "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-            "cap": "2026년 10월 22일 Symphony Hall 세계 초연에서 라이브 AI 시스템을 조작하는 Manaswi Mishra. (Courtesy Winslow Townson)"
-          },
-          {
-            "t": "p",
-            "x": "BSO 첼리스트 Owen Young은 “이것은 도구다. 하지만 우리를 대체할까 두렵다. 그리고 이 작품에서는 우리를 대체하지 않는다”고 말했다. 작품은 10월 22~24일 BSO의 “Technology and Our Humanity” 시리즈 무대에 오른다."
+            "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI joins BSO musicians in\nTod Machover's world premiere",
-          "body": "Tod Machover's 'already and not yet' puts 80-plus BSO players in dialogue with a live AI that responds to each one.",
-          "mini_headline": "AI plays with the BSO",
+          "headline": "A$AP Rocky video accused\nof lifting a VFX artist's shot",
+          "body": "Cache Bunny says a tunnel shot in A$AP Rocky's 'Shroom Clouds' video copies a 2019 GoPro piece reworked with AI.",
+          "mini_headline": "A$AP Rocky video AI copy claim",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "Professor and composer Tod Machover with his cello at MIT's Media Lab. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "MIT Media Lab professor Tod Machover is premiering an interactive composition he wrote for the Boston Symphony Orchestra and artificial intelligence: a 25-minute piece titled “already and not yet” that pairs 80-plus musicians with a new kind of AI system, commissioned to mark the Media Lab’s 40th anniversary."
+                "x": "On Oct. 19, A$AP Rocky's 2021 preview \"Mushroom Clouds\" re-emerged as \"Shroom Clouds,\" a new single with reggie and Jeremih expected on a deluxe edition of Don't Be Dumb. Directed by Rocky plus Aisultan Seitov and Pietro Biz Biasia, the surreal video uses some AI effects, and fans are flagging the psychedelic tunnel imagery at the 2m25s mark."
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Rocky is accused of ripping off a visual from a 2019 video series using GoPro Fusion directed by Ari Fararooy and Cache Bunny, with visual effects by Cache Bunny, featuring German parkour athlete Jason Paul. \"They took our video without permission (or even asking), then fed it into AI and changed Jason to ASAP Rocky,\" Cache Bunny wrote. \"They left our original grass and shadow intact, so this is indisputably stolen.\""
+              },
+              {
+                "t": "p",
+                "x": "He says he has gotten over 600 messages about it: \"Stealing artists work is not ok, and that's not the precedent we want to set. I can't understand why they didn't just reach out to license the clip, or make their own version inspired by it.\""
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "Manaswi Mishra, a doctoral student in Machover’s Opera of the Future group. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "He built it with doctoral student Manaswi Mishra. “It’s a collaborator, and we've designed it like that,” Machover said. “It’s in dialogue with the live musicians playing on stage… The AI isn't trying to take what the musician does and make a new piece out of it – it's trying to respond and have a back and forth.”"
-              },
-              {
-                "t": "p",
-                "x": "Mishra guides the AI’s responses on stage: “We can make their harmonic information stand out, we can make the rhythmic information stand out, we can make the timbre move in different directions.” In solos, Machover said, “the AI responds… it's different for each performer.”"
+                "x": "The YouTube credits list \"AI Artist: Spike and Red\" and \"AI Artist: Ces.\" Days earlier, Rocky told Complex he prefers to do things himself, but that AI \"is supposed to be a tool,\" for example to split stems and remove a vocal so he could rap on an instrumental."
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "Manaswi Mishra controls a live AI system during the world premiere at Symphony Hall on Oct. 22, 2026. (Courtesy Winslow Townson)"
-              },
-              {
-                "t": "p",
-                "x": "BSO cellist Owen Young: “It is a tool – but the fear is it will replace us – and it's not replacing us in this composition.” The piece runs Oct. 22 - 24 in the BSO’s “Technology and Our Humanity” series."
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, BSO와 협연\nMachover 신작 초연",
-          "body": "Tod Machover 신작에서는 BSO 단원 80여 명이 반응형 AI와 대화한다.",
-          "mini_headline": "AI, BSO와 함께 연주하다",
+          "headline": "A$AP Rocky 뮤비\nVFX 장면 도용 의혹",
+          "body": "Cache Bunny는 A$AP Rocky가 자기 작품을 AI로 베꼈다고 했다.",
+          "mini_headline": "A$AP Rocky 뮤비 AI 도용 의혹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "MIT Media Lab에서 첼로와 함께한 교수 겸 작곡가 Tod Machover. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "MIT Media Lab 교수 Tod Machover가 Boston Symphony Orchestra와 인공지능을 위한 인터랙티브 작품을 초연한다. 25분짜리 곡 “already and not yet”은 80여 명의 연주자를 새로운 종류의 AI 시스템과 짝지은 작품으로, Media Lab 40주년을 기념해 위촉됐다."
+                "x": "A$AP Rocky가 2021년 미리 공개했던 \"Mushroom Clouds\"가 10월 19일 \"Shroom Clouds\"라는 새 싱글로 다시 나왔다. reggie, Jeremih가 함께한 곡이며 Don't Be Dumb 디럭스 에디션에 실릴 것으로 보인다. Rocky가 Aisultan Seitov, Pietro Biz Biasia와 함께 연출한 초현실적 영상에는 AI 효과가 일부 쓰였는데, 팬들이 짚는 건 2분 25초 무렵의 사이키델릭한 터널 장면이다."
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Rocky는 2019년 GoPro Fusion으로 찍은 영상 시리즈에서 장면을 베꼈다는 의혹을 받는다. Ari Fararooy와 Cache Bunny가 연출하고 Cache Bunny가 시각효과를 맡은 시리즈로, 독일 파쿠르 선수 Jason Paul이 출연했다. Cache Bunny는 \"그들은 우리 영상을 허락 없이(묻지도 않고) 가져가 AI에 넣고 Jason을 ASAP Rocky로 바꿨다\"고 썼다. \"우리 원본의 풀과 그림자를 그대로 남겨 뒀으니 도용임은 논란의 여지가 없다.\""
+              },
+              {
+                "t": "p",
+                "x": "그는 이 일로 메시지를 600건 넘게 받았다며 이렇게 덧붙였다. \"아티스트의 작품을 훔치는 것은 옳지 않고, 우리가 남기고 싶은 선례도 아니다. 왜 그냥 연락해 클립 라이선스를 받거나, 거기서 영감을 얻은 자기 버전을 만들지 않았는지 이해할 수 없다.\""
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "Machover의 Opera of the Future 그룹 박사과정생 Manaswi Mishra. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "시스템은 박사과정생 Manaswi Mishra와 함께 만들었다. Machover는 “이것은 협업자이고, 우리는 그렇게 설계했다”며 “무대에서 연주하는 라이브 연주자들과 대화한다… AI는 연주자가 하는 것을 가져다 새 작품을 만들려는 게 아니라, 반응하고 주고받으려 한다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Mishra는 무대에서 AI의 반응을 이끈다. “화성 정보를 두드러지게 할 수도, 리듬 정보를 두드러지게 할 수도, 음색을 여러 방향으로 움직일 수도 있다.” 솔로 대목에 대해 Machover는 “AI가 반응한다… 연주자마다 다르다”고 설명했다."
+                "x": "YouTube 크레딧에는 \"AI Artist: Spike and Red\"와 \"AI Artist: Ces\"가 이름을 올렸다. Rocky는 며칠 전 Complex에 작업은 직접 하는 편이 좋지만 AI는 \"도구여야 한다\"고 말했다. 스템을 분리하고 보컬을 지운 뒤 인스트루멘털 위에서 랩을 하는 식이다."
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "2026년 10월 22일 Symphony Hall 세계 초연에서 라이브 AI 시스템을 조작하는 Manaswi Mishra. (Courtesy Winslow Townson)"
-              },
-              {
-                "t": "p",
-                "x": "BSO 첼리스트 Owen Young은 “이것은 도구다. 하지만 우리를 대체할까 두렵다. 그리고 이 작품에서는 우리를 대체하지 않는다”고 말했다. 작품은 10월 22~24일 BSO의 “Technology and Our Humanity” 시리즈 무대에 오른다."
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがBSOと共演\nMachoverの世界初演",
-          "body": "Tod Machoverの新作で、BSOの80人超が各奏者に応えるAIと対話する。",
-          "mini_headline": "AIがBSOと共演",
+          "headline": "A$AP RockyのMV\nVFX作家の映像盗用疑惑",
+          "body": "Cache BunnyはA$AP RockyのMVが自作をAIで改変・盗用したと主張する。",
+          "mini_headline": "A$AP Rocky映像にAI盗用疑惑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "MIT Media Labでチェロを手にする教授で作曲家のTod Machover。(Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "MIT Media Lab教授のTod Machoverが、Boston Symphony Orchestraと人工知能のために書いたインタラクティブ作品を初演する。「already and not yet」と題した25分の作品で、80人超の音楽家と新しいタイプのAIシステムを組み合わせる。Media Labの40周年を記念して委嘱された。"
+                "x": "10月19日、A$AP Rockyが2021年に先行公開した\"Mushroom Clouds\"が、新シングル\"Shroom Clouds\"として再登場した。reggieとJeremihが参加し、Don't Be Dumbのデラックス・エディションに収録される見込みだ。RockyとAisultan Seitov、Pietro Biz Biasiaが監督したシュールな映像には一部AIエフェクトが使われており、ファンは2分25秒あたりのサイケデリックなトンネル映像を問題視している。"
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Rockyは、2019年にGoPro Fusionで撮影された映像シリーズのビジュアルを盗用したと非難されている。シリーズはAri FararooyとCache Bunnyが監督し、視覚効果はCache Bunnyが担当、ドイツのパルクール選手Jason Paulが出演した。「彼らは許可なく（尋ねることさえせず）私たちの映像を持ち出し、AIに読み込ませてJasonをASAP Rockyに変えた」とCache Bunnyは書いた。「元の草や影はそのまま残っているので、盗用であることは議論の余地がない」"
+              },
+              {
+                "t": "p",
+                "x": "彼はこの件で600件を超えるメッセージを受け取ったという。「アーティストの作品を盗むのは許されないし、私たちが作りたい前例でもない。なぜ連絡してクリップのライセンスを取るか、それに着想を得た独自版を作るかしなかったのか理解できない」"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "MachoverのOpera of the Futureグループの博士課程学生、Manaswi Mishra。(Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "彼は博士課程学生のManaswi Mishraとともにこれを作った。「これは協働者であり、私たちはそのように設計した」とMachoverは言う。「舞台で演奏する生の音楽家たちと対話している…AIは音楽家の演奏を取り込んで新しい作品を作ろうとしているのではなく、応答し、やり取りしようとしている」"
-              },
-              {
-                "t": "p",
-                "x": "Mishraは舞台上でAIの応答を導く。「和声の情報を際立たせることも、リズムの情報を際立たせることも、音色をさまざまな方向に動かすこともできる」。ソロについてMachoverは「AIが応答する…奏者ごとに異なる」と語った。"
+                "x": "YouTubeのクレジットには「AI Artist: Spike and Red」と「AI Artist: Ces」が並ぶ。その数日前、RockyはComplexに対し、自分でやるほうが好きだが、AIは「道具であるべきもの」だと語っていた。たとえばステムを分離してボーカルを消し、インストの上でラップするといった使い方だ。"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "2026年10月22日、Symphony Hallでの世界初演でライブAIシステムを操作するManaswi Mishra。(Courtesy Winslow Townson)"
-              },
-              {
-                "t": "p",
-                "x": "BSOのチェロ奏者Owen Youngは言う。「これは道具だ。でも、私たちが置き換えられるのではという恐れがある。そしてこの作品では置き換えられていない」。作品は10月22日から24日まで、BSOの「Technology and Our Humanity」シリーズで上演される。"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI加入BSO演奏\nMachover作品全球首演",
-          "body": "Tod Machover新作让80多位BSO乐手与逐一回应的现场AI对话。",
-          "mini_headline": "AI与BSO同台演奏",
+          "headline": "A$AP Rocky新MV\n被指盗用VFX艺术家镜头",
+          "body": "Cache Bunny称A$AP Rocky新MV用AI改造他2019年的GoPro作品。",
+          "mini_headline": "A$AP Rocky视频陷AI抄袭指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "教授兼作曲家Tod Machover与他的大提琴，摄于MIT Media Lab。（Andrea Shea/WBUR）"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "MIT Media Lab教授Tod Machover正在首演他为Boston Symphony Orchestra和人工智能创作的一部互动作品：这部25分钟、名为“already and not yet”的作品将80多位乐手与一种新型AI系统配对，受委约以纪念Media Lab成立40周年。"
+                "x": "10月19日，A$AP Rocky在2021年预告过的\"Mushroom Clouds\"以\"Shroom Clouds\"之名重新面世，这首与reggie和Jeremih合作的新单曲预计收录于Don't Be Dumb豪华版。这支由Rocky与Aisultan Seitov、Pietro Biz Biasia共同执导的超现实视频用了一些AI特效，粉丝们指出了2分25秒处的迷幻隧道画面。"
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Rocky被指抄袭了一组2019年用GoPro Fusion拍摄的视频系列中的画面。该系列由Ari Fararooy和Cache Bunny执导，Cache Bunny负责视觉特效，由德国跑酷运动员Jason Paul出镜。“他们未经许可（甚至没有询问）就拿走了我们的视频，输入AI，把Jason换成了ASAP Rocky，”Cache Bunny写道。“他们把我们原片里的草地和影子原封不动地留着，所以这无可争辩就是盗用。”"
+              },
+              {
+                "t": "p",
+                "x": "他说已为此收到600多条消息：“盗用艺术家的作品是不对的，这也不是我们想开的先例。我无法理解他们为什么不直接联系授权这段片段，或者受其启发做一个自己的版本。”"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "Manaswi Mishra，Machover的Opera of the Future小组博士生。（Andrea Shea/WBUR）"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "他与博士生Manaswi Mishra共同打造了这套系统。“它是一个合作者，我们就是这样设计的，”Machover说，“它在与台上演奏的现场乐手对话……AI并不是想拿走乐手的演奏再做成一首新作品——它是在尝试回应、来回交流。”"
-              },
-              {
-                "t": "p",
-                "x": "Mishra在台上引导AI的回应：“我们可以让他们的和声信息凸显出来，可以让节奏信息凸显出来，也可以让音色朝不同方向变化。”Machover说，在独奏段落中，“AI会回应……每位演奏者都不一样。”"
+                "x": "YouTube上的制作名单列有“AI Artist: Spike and Red”和“AI Artist: Ces”。几天前，Rocky对Complex表示，他更喜欢亲力亲为，但AI“本该是一种工具”，例如用来分离音轨、去掉人声，好让他在伴奏上说唱。"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "2026年10月22日，Manaswi Mishra在Symphony Hall的全球首演中操控现场AI系统。（Courtesy Winslow Townson）"
-              },
-              {
-                "t": "p",
-                "x": "BSO大提琴手Owen Young说：“它是一个工具——但人们担心它会取代我们——而在这部作品里它并没有取代我们。”该作品于10月22日至24日在BSO的“Technology and Our Humanity”系列中演出。"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI se une a la BSO en el\nestreno mundial de Tod Machover",
-          "body": "En 'already and not yet', de Tod Machover, más de 80 músicos de la BSO dialogan con una AI que responde a cada uno.",
-          "mini_headline": "La AI toca con la BSO",
+          "headline": "Acusan al video de A$AP Rocky\nde copiar a un artista de VFX",
+          "body": "Cache Bunny dice que un túnel del video 'Shroom Clouds' de A$AP Rocky copia una pieza de GoPro de 2019 rehecha con AI.",
+          "mini_headline": "A$AP Rocky, acusado de copia con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "El profesor y compositor Tod Machover con su violonchelo en el Media Lab del MIT. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "Tod Machover, profesor del MIT Media Lab, estrena una composición interactiva que escribió para la Boston Symphony Orchestra y la inteligencia artificial: una pieza de 25 minutos titulada “already and not yet” que une a más de 80 músicos con un nuevo tipo de sistema de AI, encargada para celebrar el 40.º aniversario del Media Lab."
+                "x": "El 19 de octubre, el adelanto \"Mushroom Clouds\" que A$AP Rocky presentó en 2021 reapareció como \"Shroom Clouds\", un nuevo sencillo con reggie y Jeremih que se espera en una edición de lujo de Don't Be Dumb. Dirigido por Rocky junto a Aisultan Seitov y Pietro Biz Biasia, el surrealista video usa algunos efectos de AI, y los fans señalan las imágenes de un túnel psicodélico en el minuto 2:25."
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Acusan a Rocky de copiar una imagen de una serie de videos de 2019 grabada con GoPro Fusion, dirigida por Ari Fararooy y Cache Bunny, con efectos visuales de Cache Bunny y protagonizada por el atleta de parkour alemán Jason Paul. \"Tomaron nuestro video sin permiso (ni siquiera preguntaron), luego lo pasaron por AI y cambiaron a Jason por ASAP Rocky\", escribió Cache Bunny. \"Dejaron intactos nuestro césped y nuestra sombra originales, así que esto es un robo indiscutible\"."
+              },
+              {
+                "t": "p",
+                "x": "Dice que ha recibido más de 600 mensajes al respecto: \"Robar el trabajo de los artistas no está bien, y no es el precedente que queremos sentar. No entiendo por qué no se pusieron en contacto para licenciar el clip o hicieron su propia versión inspirada en él\"."
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "Manaswi Mishra, estudiante de doctorado del grupo Opera of the Future de Machover. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "Lo desarrolló con Manaswi Mishra, estudiante de doctorado. “Es un colaborador, y lo hemos diseñado así”, dijo Machover. “Está en diálogo con los músicos que tocan en vivo en el escenario… La AI no intenta tomar lo que hace el músico y convertirlo en una pieza nueva: intenta responder y mantener un intercambio”."
-              },
-              {
-                "t": "p",
-                "x": "Mishra guía las respuestas de la AI en el escenario: “Podemos hacer que destaque su información armónica, que destaque la información rítmica, o hacer que el timbre se mueva en distintas direcciones”. En los solos, dijo Machover, “la AI responde… es diferente para cada intérprete”."
+                "x": "Los créditos de YouTube incluyen \"AI Artist: Spike and Red\" y \"AI Artist: Ces\". Días antes, Rocky dijo a Complex que prefiere hacer las cosas él mismo, pero que la AI \"se supone que es una herramienta\", por ejemplo para separar stems y quitar una voz para poder rapear sobre una instrumental."
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "Manaswi Mishra controla un sistema de AI en vivo durante el estreno mundial en Symphony Hall, el 22 de octubre de 2026. (Courtesy Winslow Townson)"
-              },
-              {
-                "t": "p",
-                "x": "Owen Young, violonchelista de la BSO: “Es una herramienta, pero el miedo es que nos reemplace, y en esta composición no nos está reemplazando”. La obra se presenta del 22 al 24 de octubre dentro de la serie “Technology and Our Humanity” de la BSO."
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
@@ -993,165 +1009,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, BSO와 협연\nMachover 신작 초연",
-          "body": "Tod Machover 신작에서 BSO 80여 명이 반응형 AI와 대화한다.",
-          "mini_headline": "AI, BSO와 함께 연주하다",
+          "headline": "A$AP Rocky 뮤비\nVFX 장면 도용 의혹",
+          "body": "Cache Bunny는 A$AP Rocky가 자기 작품을 AI로 베꼈다고 했다.",
+          "mini_headline": "A$AP Rocky 뮤비 AI 도용 의혹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "MIT Media Lab에서 첼로와 함께한 교수 겸 작곡가 Tod Machover. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "MIT Media Lab 교수 Tod Machover가 Boston Symphony Orchestra와 인공지능을 위해 쓴 인터랙티브 작품을 초연한다. “already and not yet”이라는 25분짜리 곡으로, 80여 명의 연주자와 새로운 종류의 AI 시스템을 짝지으며, Media Lab 40주년을 기념해 위촉됐다."
+                "x": "10월 19일, A$AP Rocky가 2021년 미리 공개했던 \"Mushroom Clouds\"가 \"Shroom Clouds\"라는 새 싱글로 다시 나왔다. reggie, Jeremih가 함께한 곡으로 Don't Be Dumb 디럭스 에디션에 실릴 것으로 보인다. Rocky와 Aisultan Seitov, Pietro Biz Biasia가 함께 연출한 초현실적인 영상은 일부 AI 효과를 썼는데, 팬들은 2분 25초 지점의 사이키델릭한 터널 장면을 지목하고 있다."
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Rocky는 2019년 GoPro Fusion으로 찍은 영상 시리즈의 장면을 베꼈다는 의혹을 받고 있다. 이 시리즈는 Ari Fararooy와 Cache Bunny가 연출하고 Cache Bunny가 시각효과를 맡았으며, 독일 파쿠르 선수 Jason Paul이 출연했다. Cache Bunny는 \"그들은 우리 영상을 허락 없이(묻지도 않고) 가져가 AI에 넣고 Jason을 ASAP Rocky로 바꿨다\"고 썼다. \"우리 원본의 풀과 그림자를 그대로 남겨 뒀으니 도용임은 논란의 여지가 없다.\""
+              },
+              {
+                "t": "p",
+                "x": "그는 이 일로 600건 넘는 메시지를 받았다며 이렇게 말했다. \"아티스트의 작품을 훔치는 것은 옳지 않고, 우리가 남기고 싶은 선례도 아니다. 왜 그냥 연락해 클립 라이선스를 받거나, 거기서 영감을 얻은 자기 버전을 만들지 않았는지 이해할 수 없다.\""
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "Machover의 Opera of the Future 그룹 박사과정생 Manaswi Mishra. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "그는 박사과정생 Manaswi Mishra와 함께 이 시스템을 만들었다. Machover는 “이것은 협업자이고, 우리는 그렇게 설계했다”며 “무대에서 연주하는 라이브 연주자들과 대화한다… AI는 연주자가 하는 것을 가져다 새 작품을 만들려는 게 아니라, 반응하고 주고받으려 한다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Mishra는 무대에서 AI의 반응을 이끈다. “화성 정보를 두드러지게 할 수도, 리듬 정보를 두드러지게 할 수도, 음색을 여러 방향으로 움직일 수도 있다.” Machover는 솔로에서 “AI가 반응한다… 연주자마다 다르다”고 말했다."
+                "x": "YouTube 크레딧에는 \"AI Artist: Spike and Red\"와 \"AI Artist: Ces\"가 올라 있다. 며칠 전 Rocky는 Complex에 일을 직접 하는 쪽을 좋아하지만 AI는 \"도구여야 한다\"고 말했다. 예를 들어 스템을 분리하고 보컬을 지워 인스트루멘털 위에 랩을 하는 식이다."
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "2026년 10월 22일 Symphony Hall 세계 초연에서 라이브 AI 시스템을 조작하는 Manaswi Mishra. (Courtesy Winslow Townson)"
-              },
-              {
-                "t": "p",
-                "x": "BSO 첼리스트 Owen Young은 “이것은 도구다. 하지만 우리를 대체할까 두렵다. 그리고 이 작품에서는 우리를 대체하지 않는다”고 말했다. 작품은 10월 22~24일 BSO의 “Technology and Our Humanity” 시리즈에서 공연된다."
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがBSOと共演\nMachoverの世界初演",
-          "body": "Tod Machoverの新作で、BSOの80人超が各奏者に応えるAIと対話する。",
-          "mini_headline": "AIがBSOと共演",
+          "headline": "A$AP RockyのMV\nVFX作家の映像盗用疑惑",
+          "body": "Cache BunnyはA$AP RockyのMVが自作をAIで改変・盗用したと主張する。",
+          "mini_headline": "A$AP Rocky映像にAI盗用疑惑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "MIT Media Labでチェロを手にする教授で作曲家のTod Machover。(Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "MIT Media Lab教授のTod Machoverが、Boston Symphony Orchestraと人工知能のために書いたインタラクティブ作品を初演する。「already and not yet」と題した25分の作品で、80人超の音楽家と新しいタイプのAIシステムを組み合わせる。Media Labの40周年を記念して委嘱された。"
+                "x": "10月19日、A$AP Rockyが2021年に先行公開した\"Mushroom Clouds\"が、新シングル\"Shroom Clouds\"として再登場した。reggieとJeremihが参加し、Don't Be Dumbのデラックス・エディションに収録される見込みだ。RockyとAisultan Seitov、Pietro Biz Biasiaが監督したシュールな映像には一部AIエフェクトが使われており、ファンは2分25秒あたりのサイケデリックなトンネル映像を問題視している。"
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Rockyは、2019年にGoPro Fusionで撮影された映像シリーズのビジュアルを盗用したと非難されている。シリーズはAri FararooyとCache Bunnyが監督し、視覚効果はCache Bunnyが担当、ドイツのパルクール選手Jason Paulが出演した。「彼らは許可なく（尋ねることさえせず）私たちの映像を持ち出し、AIに読み込ませてJasonをASAP Rockyに変えた」とCache Bunnyは書いた。「元の草や影はそのまま残っているので、盗用であることは議論の余地がない」"
+              },
+              {
+                "t": "p",
+                "x": "彼はこの件で600件を超えるメッセージを受け取ったという。「アーティストの作品を盗むのは許されないし、私たちが作りたい前例でもない。なぜ連絡してクリップのライセンスを取るか、それに着想を得た独自版を作るかしなかったのか理解できない」"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "MachoverのOpera of the Futureグループの博士課程学生、Manaswi Mishra。(Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "彼は博士課程学生のManaswi Mishraとともにこれを作った。「これは協働者であり、私たちはそのように設計した」とMachoverは言う。「舞台で演奏する生の音楽家たちと対話している…AIは音楽家の演奏を取り込んで新しい作品を作ろうとしているのではなく、応答し、やり取りしようとしている」"
-              },
-              {
-                "t": "p",
-                "x": "Mishraは舞台上でAIの応答を導く。「和声の情報を際立たせることも、リズムの情報を際立たせることも、音色をさまざまな方向に動かすこともできる」。ソロについてMachoverは「AIが応答する…奏者ごとに異なる」と語った。"
+                "x": "YouTubeのクレジットには「AI Artist: Spike and Red」と「AI Artist: Ces」が並ぶ。その数日前、RockyはComplexに対し、自分でやるほうが好きだが、AIは「道具であるべきもの」だと語っていた。たとえばステムを分離してボーカルを消し、インストの上でラップするといった使い方だ。"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "2026年10月22日、Symphony Hallでの世界初演でライブAIシステムを操作するManaswi Mishra。(Courtesy Winslow Townson)"
-              },
-              {
-                "t": "p",
-                "x": "BSOのチェロ奏者Owen Youngは言う。「これは道具だ。でも、私たちが置き換えられるのではという恐れがある。そしてこの作品では置き換えられていない」。作品は10月22日から24日まで、BSOの「Technology and Our Humanity」シリーズで上演される。"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI加入BSO演奏\nMachover作品全球首演",
-          "body": "Tod Machover新作让80多位BSO乐手与逐一回应的现场AI对话。",
-          "mini_headline": "AI与BSO同台演奏",
+          "headline": "A$AP Rocky新MV\n被指盗用VFX艺术家镜头",
+          "body": "Cache Bunny称A$AP Rocky新MV用AI改造他2019年的GoPro作品。",
+          "mini_headline": "A$AP Rocky视频陷AI抄袭指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "教授兼作曲家Tod Machover与他的大提琴，摄于MIT Media Lab。（Andrea Shea/WBUR）"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "MIT Media Lab教授Tod Machover正在首演他为Boston Symphony Orchestra和人工智能创作的一部互动作品：这部25分钟、名为“already and not yet”的作品将80多位乐手与一种新型AI系统配对，受委约以纪念Media Lab成立40周年。"
+                "x": "10月19日，A$AP Rocky在2021年预告过的\"Mushroom Clouds\"以\"Shroom Clouds\"之名重新面世，这首与reggie和Jeremih合作的新单曲预计收录于Don't Be Dumb豪华版。这支由Rocky与Aisultan Seitov、Pietro Biz Biasia共同执导的超现实视频用了一些AI特效，粉丝们指出了2分25秒处的迷幻隧道画面。"
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Rocky被指抄袭了一组2019年用GoPro Fusion拍摄的视频系列中的画面。该系列由Ari Fararooy和Cache Bunny执导，Cache Bunny负责视觉特效，由德国跑酷运动员Jason Paul出镜。“他们未经许可（甚至没有询问）就拿走了我们的视频，输入AI，把Jason换成了ASAP Rocky，”Cache Bunny写道。“他们把我们原片里的草地和影子原封不动地留着，所以这无可争辩就是盗用。”"
+              },
+              {
+                "t": "p",
+                "x": "他说已为此收到600多条消息：“盗用艺术家的作品是不对的，这也不是我们想开的先例。我无法理解他们为什么不直接联系授权这段片段，或者受其启发做一个自己的版本。”"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "Manaswi Mishra，Machover的Opera of the Future小组博士生。（Andrea Shea/WBUR）"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "他与博士生Manaswi Mishra共同打造了这套系统。“它是一个合作者，我们就是这样设计的，”Machover说，“它在与台上演奏的现场乐手对话……AI并不是想拿走乐手的演奏再做成一首新作品——它是在尝试回应、来回交流。”"
-              },
-              {
-                "t": "p",
-                "x": "Mishra在台上引导AI的回应：“我们可以让他们的和声信息凸显出来，可以让节奏信息凸显出来，也可以让音色朝不同方向变化。”Machover说，在独奏段落中，“AI会回应……每位演奏者都不一样。”"
+                "x": "YouTube上的制作名单列有“AI Artist: Spike and Red”和“AI Artist: Ces”。几天前，Rocky对Complex表示，他更喜欢亲力亲为，但AI“本该是一种工具”，例如用来分离音轨、去掉人声，好让他在伴奏上说唱。"
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "2026年10月22日，Manaswi Mishra在Symphony Hall的全球首演中操控现场AI系统。（Courtesy Winslow Townson）"
-              },
-              {
-                "t": "p",
-                "x": "BSO大提琴手Owen Young说：“它是一个工具——但人们担心它会取代我们——而在这部作品里它并没有取代我们。”该作品于10月22日至24日在BSO的“Technology and Our Humanity”系列中演出。"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI se une a la BSO en el\nestreno mundial de Tod Machover",
-          "body": "En 'already and not yet', de Tod Machover, más de 80 músicos de la BSO dialogan con una AI que responde a cada uno.",
-          "mini_headline": "La AI toca con la BSO",
+          "headline": "Acusan al video de A$AP Rocky\nde copiar a un artista de VFX",
+          "body": "Cache Bunny dice que un túnel del video 'Shroom Clouds' de A$AP Rocky copia una pieza de GoPro de 2019 rehecha con AI.",
+          "mini_headline": "A$AP Rocky, acusado de copia con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
-                "cap": "El profesor y compositor Tod Machover con su violonchelo en el Media Lab del MIT. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
               },
               {
                 "t": "p",
-                "x": "Tod Machover, profesor del MIT Media Lab, estrena una composición interactiva que escribió para la Boston Symphony Orchestra y la inteligencia artificial: una pieza de 25 minutos titulada “already and not yet” que une a más de 80 músicos con un nuevo tipo de sistema de AI, encargada para celebrar el 40.º aniversario del Media Lab."
+                "x": "El 19 de octubre, el adelanto \"Mushroom Clouds\" que A$AP Rocky presentó en 2021 reapareció como \"Shroom Clouds\", un nuevo sencillo con reggie y Jeremih que se espera en una edición de lujo de Don't Be Dumb. Dirigido por Rocky junto a Aisultan Seitov y Pietro Biz Biasia, el surrealista video usa algunos efectos de AI, y los fans señalan las imágenes de un túnel psicodélico en el minuto 2:25."
+              },
+              {
+                "t": "video",
+                "yt": "jnFVwpvlq4E"
+              },
+              {
+                "t": "p",
+                "x": "Acusan a Rocky de copiar una imagen de una serie de videos de 2019 grabada con GoPro Fusion, dirigida por Ari Fararooy y Cache Bunny, con efectos visuales de Cache Bunny y protagonizada por el atleta de parkour alemán Jason Paul. \"Tomaron nuestro video sin permiso (ni siquiera preguntaron), luego lo pasaron por AI y cambiaron a Jason por ASAP Rocky\", escribió Cache Bunny. \"Dejaron intactos nuestro césped y nuestra sombra originales, así que esto es un robo indiscutible\"."
+              },
+              {
+                "t": "p",
+                "x": "Dice que ha recibido más de 600 mensajes al respecto: \"Robar el trabajo de los artistas no está bien, y no es el precedente que queremos sentar. No entiendo por qué no se pusieron en contacto para licenciar el clip o hicieron su propia versión inspirada en él\"."
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
-                "cap": "Manaswi Mishra, estudiante de doctorado del grupo Opera of the Future de Machover. (Andrea Shea/WBUR)"
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny1.jpg"
               },
               {
                 "t": "p",
-                "x": "Lo desarrolló con Manaswi Mishra, estudiante de doctorado. “Es un colaborador, y lo hemos diseñado así”, dijo Machover. “Está en diálogo con los músicos que tocan en vivo en el escenario… La AI no intenta tomar lo que hace el músico y convertirlo en una pieza nueva: intenta responder y mantener un intercambio”."
-              },
-              {
-                "t": "p",
-                "x": "Mishra guía las respuestas de la AI en el escenario: “Podemos hacer que destaque su información armónica, que destaque la información rítmica, o hacer que el timbre se mueva en distintas direcciones”. En los solos, dijo Machover, “la AI responde… es diferente para cada intérprete”."
+                "x": "Los créditos de YouTube incluyen \"AI Artist: Spike and Red\" y \"AI Artist: Ces\". Días antes, Rocky dijo a Complex que prefiere hacer las cosas él mismo, pero que la AI \"se supone que es una herramienta\", por ejemplo para separar stems y quitar una voz para poder rapear sobre una instrumental."
               },
               {
                 "t": "img",
-                "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
-                "cap": "Manaswi Mishra controla un sistema de AI en vivo durante el estreno mundial en Symphony Hall, el 22 de octubre de 2026. (Courtesy Winslow Townson)"
-              },
-              {
-                "t": "p",
-                "x": "Owen Young, violonchelista de la BSO: “Es una herramienta, pero el miedo es que nos reemplace, y en esta composición no nos está reemplazando”. La obra se presenta del 22 al 24 de octubre dentro de la serie “Technology and Our Humanity” de la BSO."
+                "src": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/asaprocky-cachebunny2.jpg"
               }
             ]
           }
@@ -1159,577 +1179,237 @@
       }
     },
     {
-      "id": "russiaaisong",
+      "id": "pozalabs-steal-saturday",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "러시아, AI 화제곡\n스트리밍에서 차단",
-      "body": "러시아 당국이 DJ NARODNII의 AI-generated 화제곡 재생을 막았다.",
-      "mini_headline": "러시아, AI 화제곡 차단",
+      "headline": "Steal Saturday\nPozalabs가 만들었다",
+      "body": "Pozalabs가 AI 프로듀서 Steal Saturday를 만들었다고 밝혔다.",
+      "mini_headline": "Pozalabs의 AI 아티스트",
       "tool": "Music",
-      "source": "Meduza",
-      "url": "https://meduza.io/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "음악가 DJ NARODNII의 AI-generated 화제곡 “Ty moya…”(“You’re my…”)가 러시아 스트리밍 서비스에서 차단됐다. 매체 Ostorozhno, Novosti가 보도했다."
-          },
-          {
-            "t": "p",
-            "x": "Yandex Music 등에서 이 곡을 틀면 러시아 통신 규제 당국 Roskomnadzor의 요청으로 이용할 수 없다는 안내가 뜬다."
-          },
-          {
-            "t": "p",
-            "x": "앞서 9월 말 러시아 연방 청년청이 이 곡의 접근을 제한하라고 요구했다."
-          },
-          {
-            "t": "p",
-            "x": "DJ NARODNII는 곡이 삭제된다는 예고를 받지 못했고, 음악 플랫폼을 확인하다 알게 됐다고 했다. Yandex Music이 원곡과 함께 리믹스 다섯 곡도 지웠다는 게 그의 말이다."
-          },
-          {
-            "t": "p",
-            "x": "그는 “이를 개인적으로 받아들인 특정 인물들”의 항의 탓에 곡이 차단됐다고 본다. 결정에도 동의하지 않는다. “그렇다면 욕설이 조금이라도 들어간 노래는 모두 막아야 한다. […] 어떤 사람들은 진짜 예술을 이해하거나 음미하지 못한다. 복합적인 노트를 지닌 니치 향수와 같다.”"
-          },
-          {
-            "t": "p",
-            "x": "“You’re my scumbag, you’re my pig…”라는 후렴이 담긴 DJ NARODNII의 AI 곡은 최근 몇 달 사이 TikTok과 Instagram에서 인기를 끌었다. 제작자는 원래 AI-generated 음악을 조롱하려고 곡을 올렸는데, 곡은 오히려 히트했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Russia blocks viral AI song\non streaming services",
-          "body": "Russia's media regulator has blocked DJ NARODNII's viral AI-generated song 'You're My Scumbag' on streaming services.",
-          "mini_headline": "Russia blocks a viral AI song",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "The viral AI-generated song “Ty moya…” (“You’re my…”) by musician DJ NARODNII has been blocked on Russian streaming services, the news outlet Ostorozhno, Novosti reported."
-              },
-              {
-                "t": "p",
-                "x": "Attempts to play the track on services such as Yandex Music bring up a notice saying it is unavailable at the request of Roskomnadzor, Russia’s communications regulator."
-              },
-              {
-                "t": "p",
-                "x": "In late September, Russia’s Federal Agency for Youth Affairs demanded that access to the song be restricted."
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII said he received no warning that the track would be removed and found out when he checked the music platforms. He said Yandex Music had removed five remixes along with the original song."
-              },
-              {
-                "t": "p",
-                "x": "The musician believes the track was blocked because of complaints from “certain individuals who took it personally.” He disagrees with the decision: “Then they should block every song with any swearing in it. […] Some people just can’t understand or appreciate real art. It’s like a niche perfume with complex notes.”"
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII’s AI track, whose chorus goes “You’re my scumbag, you’re my pig…” has become popular on TikTok and Instagram in recent months. Its creator originally posted the song to mock AI-generated music, but it became a hit."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "러시아, AI 화제곡\n스트리밍에서 차단",
-          "body": "러시아 당국이 DJ NARODNII의 AI-generated 화제곡 재생을 막았다.",
-          "mini_headline": "러시아, AI 화제곡 차단",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "음악가 DJ NARODNII의 AI-generated 화제곡 “Ty moya…”(“You’re my…”)가 러시아 스트리밍 서비스에서 차단됐다. 매체 Ostorozhno, Novosti가 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "Yandex Music 등에서 이 곡을 틀면 러시아 통신 규제 당국 Roskomnadzor의 요청으로 이용할 수 없다는 안내가 뜬다."
-              },
-              {
-                "t": "p",
-                "x": "앞서 9월 말 러시아 연방 청년청이 이 곡의 접근을 제한하라고 요구했다."
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII는 곡이 삭제된다는 예고를 받지 못했고, 음악 플랫폼을 확인하다 알게 됐다고 했다. Yandex Music이 원곡과 함께 리믹스 다섯 곡도 지웠다는 게 그의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “이를 개인적으로 받아들인 특정 인물들”의 항의 탓에 곡이 차단됐다고 본다. 결정에도 동의하지 않는다. “그렇다면 욕설이 조금이라도 들어간 노래는 모두 막아야 한다. […] 어떤 사람들은 진짜 예술을 이해하거나 음미하지 못한다. 복합적인 노트를 지닌 니치 향수와 같다.”"
-              },
-              {
-                "t": "p",
-                "x": "“You’re my scumbag, you’re my pig…”라는 후렴이 담긴 DJ NARODNII의 AI 곡은 최근 몇 달 사이 TikTok과 Instagram에서 인기를 끌었다. 제작자는 원래 AI-generated 음악을 조롱하려고 곡을 올렸는데, 곡은 오히려 히트했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ロシア、話題のAI曲を\n配信サービスで遮断",
-          "body": "ロシア当局が、DJ NARODNIIのAI-generatedのヒット曲を配信で遮断した。",
-          "mini_headline": "ロシア、話題のAI曲を遮断",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ミュージシャンDJ NARODNIIによるAI-generatedのヒット曲「Ty moya…」(「You’re my…」)がロシアのストリーミングサービスで遮断されたと、ニュースメディアOstorozhno, Novostiが報じた。"
-              },
-              {
-                "t": "p",
-                "x": "Yandex Musicなどのサービスで再生しようとすると、ロシアの通信規制当局Roskomnadzorの要請により利用できないという通知が表示される。"
-              },
-              {
-                "t": "p",
-                "x": "9月下旬、ロシア連邦青年問題庁はこの曲へのアクセスを制限するよう求めていた。"
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNIIによると、曲が削除されるという警告はなく、音楽プラットフォームを確認して初めて知ったという。Yandex Musicは原曲とともにリミックス五曲も削除したと彼は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "彼は、曲が遮断されたのは「個人的に受け取ったある人々」からの苦情が原因だとみている。決定には反対だ。「それなら少しでも罵り言葉が入った曲はすべて遮断すべきだ。[…]本物の芸術を理解できない、味わえない人もいる。複雑なノートを持つニッチな香水のようなものだ」"
-              },
-              {
-                "t": "p",
-                "x": "サビが「You’re my scumbag, you’re my pig…」と続くDJ NARODNIIのAI曲は、ここ数カ月でTikTokやInstagramで人気を集めた。作者はもともとAI-generatedの音楽を揶揄するために投稿したが、ヒットした。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "俄罗斯封禁爆红AI歌曲\n流媒体服务上被屏蔽",
-          "body": "俄罗斯监管机构在流媒体平台封禁了DJ NARODNII的爆红AI-generated歌曲。",
-          "mini_headline": "俄罗斯封禁爆红AI歌曲",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据新闻媒体Ostorozhno, Novosti报道，音乐人DJ NARODNII的爆红AI-generated歌曲“Ty moya…”（“You’re my…”）已在俄罗斯流媒体服务上遭到屏蔽。"
-              },
-              {
-                "t": "p",
-                "x": "在Yandex Music等服务上尝试播放这首歌，会弹出提示称应俄罗斯通信监管机构Roskomnadzor的要求，该曲目无法播放。"
-              },
-              {
-                "t": "p",
-                "x": "9月下旬，俄罗斯联邦青年事务署要求限制对这首歌的访问。"
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII表示，他事先没有收到曲目将被下架的任何通知，是在查看音乐平台时才发现的。他说，Yandex Music连同原曲一起删除了五个混音版本。"
-              },
-              {
-                "t": "p",
-                "x": "这位音乐人认为，曲目被屏蔽是因为“某些对号入座的人”的投诉。他不同意这一决定：“那他们就该把所有带脏话的歌都屏蔽掉。[…]有些人就是无法理解或欣赏真正的艺术。这就像一款香调复杂的小众香水。”"
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII的这首AI歌曲副歌唱道“You’re my scumbag, you’re my pig…”，近几个月在TikTok和Instagram上走红。创作者最初发布这首歌是为了嘲讽AI-generated音乐，没想到却成了热门。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rusia bloquea una canción viral\nhecha con AI en streaming",
-          "body": "El regulador ruso bloqueó en streaming 'You're My Scumbag', la canción viral AI-generated de DJ NARODNII.",
-          "mini_headline": "Rusia bloquea una canción viral de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La canción viral AI-generated “Ty moya…” (“You’re my…”), del músico DJ NARODNII, ha sido bloqueada en los servicios de streaming rusos, informó el medio Ostorozhno, Novosti."
-              },
-              {
-                "t": "p",
-                "x": "Al intentar reproducir el tema en servicios como Yandex Music aparece un aviso que indica que no está disponible a petición de Roskomnadzor, el regulador de comunicaciones de Rusia."
-              },
-              {
-                "t": "p",
-                "x": "A finales de septiembre, la Agencia Federal de Asuntos de la Juventud de Rusia exigió que se restringiera el acceso a la canción."
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII dijo que no recibió ningún aviso de que el tema sería retirado y que se enteró al revisar las plataformas de música. Afirmó que Yandex Music eliminó cinco remezclas junto con la canción original."
-              },
-              {
-                "t": "p",
-                "x": "El músico cree que el tema fue bloqueado por las quejas de “ciertas personas que se lo tomaron como algo personal”. No está de acuerdo con la decisión: “Entonces deberían bloquear todas las canciones que tengan alguna palabrota. […] Hay gente que simplemente no puede entender ni apreciar el arte de verdad. Es como un perfume de nicho con notas complejas”."
-              },
-              {
-                "t": "p",
-                "x": "El tema de AI de DJ NARODNII, cuyo estribillo dice “You’re my scumbag, you’re my pig…”, se ha vuelto popular en TikTok e Instagram en los últimos meses. Su creador publicó originalmente la canción para burlarse de la música AI-generated, pero se convirtió en un éxito."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "러시아, AI 화제곡\n스트리밍에서 차단",
-          "body": "러시아 당국이 DJ NARODNII의 AI-generated 화제곡을 막았다.",
-          "mini_headline": "러시아, AI 화제곡 차단",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "음악가 DJ NARODNII의 AI-generated 화제곡 “Ty moya…”(“You’re my…”)가 러시아 스트리밍 서비스에서 차단됐다고 매체 Ostorozhno, Novosti가 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "Yandex Music 같은 서비스에서 이 곡을 재생하려 하면, 러시아 통신 규제 당국 Roskomnadzor의 요청으로 이용할 수 없다는 안내가 뜬다."
-              },
-              {
-                "t": "p",
-                "x": "9월 말 러시아 연방 청년청은 이 곡에 대한 접근을 제한하라고 요구했다."
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII는 곡이 삭제된다는 예고를 받지 못했고, 음악 플랫폼을 확인하다 알게 됐다고 말했다. 그는 Yandex Music이 원곡과 함께 리믹스 다섯 곡도 삭제했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “이를 개인적으로 받아들인 특정 인물들”의 항의 때문에 곡이 차단됐다고 본다. 그는 결정에 동의하지 않는다. “그렇다면 욕설이 조금이라도 들어간 노래는 모두 막아야 한다. […] 어떤 사람들은 진짜 예술을 이해하거나 음미하지 못한다. 복합적인 노트를 지닌 니치 향수와 같다.”"
-              },
-              {
-                "t": "p",
-                "x": "“You’re my scumbag, you’re my pig…”라는 후렴이 담긴 DJ NARODNII의 AI 곡은 최근 몇 달 사이 TikTok과 Instagram에서 인기를 얻었다. 제작자는 원래 AI-generated 음악을 조롱하려고 곡을 올렸지만, 곡은 히트했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ロシア、話題のAI曲を\n配信サービスで遮断",
-          "body": "ロシア当局が、DJ NARODNIIのAI-generatedのヒット曲を配信で遮断した。",
-          "mini_headline": "ロシア、話題のAI曲を遮断",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ミュージシャンDJ NARODNIIによるAI-generatedのヒット曲「Ty moya…」(「You’re my…」)がロシアのストリーミングサービスで遮断されたと、ニュースメディアOstorozhno, Novostiが報じた。"
-              },
-              {
-                "t": "p",
-                "x": "Yandex Musicなどのサービスで再生しようとすると、ロシアの通信規制当局Roskomnadzorの要請により利用できないという通知が表示される。"
-              },
-              {
-                "t": "p",
-                "x": "9月下旬、ロシア連邦青年問題庁はこの曲へのアクセスを制限するよう求めていた。"
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNIIによると、曲が削除されるという警告はなく、音楽プラットフォームを確認して初めて知ったという。Yandex Musicは原曲とともにリミックス五曲も削除したと彼は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "彼は、曲が遮断されたのは「個人的に受け取ったある人々」からの苦情が原因だとみている。決定には反対だ。「それなら少しでも罵り言葉が入った曲はすべて遮断すべきだ。[…]本物の芸術を理解できない、味わえない人もいる。複雑なノートを持つニッチな香水のようなものだ」"
-              },
-              {
-                "t": "p",
-                "x": "サビが「You’re my scumbag, you’re my pig…」と続くDJ NARODNIIのAI曲は、ここ数カ月でTikTokやInstagramで人気を集めた。作者はもともとAI-generatedの音楽を揶揄するために投稿したが、ヒットした。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "俄罗斯封禁爆红AI歌曲\n流媒体服务上被屏蔽",
-          "body": "俄罗斯监管机构在流媒体平台封禁了DJ NARODNII的爆红AI-generated歌曲。",
-          "mini_headline": "俄罗斯封禁爆红AI歌曲",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据新闻媒体Ostorozhno, Novosti报道，音乐人DJ NARODNII的爆红AI-generated歌曲“Ty moya…”（“You’re my…”）已在俄罗斯流媒体服务上遭到屏蔽。"
-              },
-              {
-                "t": "p",
-                "x": "在Yandex Music等服务上尝试播放这首歌，会弹出提示称应俄罗斯通信监管机构Roskomnadzor的要求，该曲目无法播放。"
-              },
-              {
-                "t": "p",
-                "x": "9月下旬，俄罗斯联邦青年事务署要求限制对这首歌的访问。"
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII表示，他事先没有收到曲目将被下架的任何通知，是在查看音乐平台时才发现的。他说，Yandex Music连同原曲一起删除了五个混音版本。"
-              },
-              {
-                "t": "p",
-                "x": "这位音乐人认为，曲目被屏蔽是因为“某些对号入座的人”的投诉。他不同意这一决定：“那他们就该把所有带脏话的歌都屏蔽掉。[…]有些人就是无法理解或欣赏真正的艺术。这就像一款香调复杂的小众香水。”"
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII的这首AI歌曲副歌唱道“You’re my scumbag, you’re my pig…”，近几个月在TikTok和Instagram上走红。创作者最初发布这首歌是为了嘲讽AI-generated音乐，没想到却成了热门。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rusia bloquea una canción viral\nhecha con AI en streaming",
-          "body": "El regulador ruso bloqueó en streaming 'You're My Scumbag', la canción viral AI-generated de DJ NARODNII.",
-          "mini_headline": "Rusia bloquea una canción viral de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La canción viral AI-generated “Ty moya…” (“You’re my…”), del músico DJ NARODNII, ha sido bloqueada en los servicios de streaming rusos, informó el medio Ostorozhno, Novosti."
-              },
-              {
-                "t": "p",
-                "x": "Al intentar reproducir el tema en servicios como Yandex Music aparece un aviso que indica que no está disponible a petición de Roskomnadzor, el regulador de comunicaciones de Rusia."
-              },
-              {
-                "t": "p",
-                "x": "A finales de septiembre, la Agencia Federal de Asuntos de la Juventud de Rusia exigió que se restringiera el acceso a la canción."
-              },
-              {
-                "t": "p",
-                "x": "DJ NARODNII dijo que no recibió ningún aviso de que el tema sería retirado y que se enteró al revisar las plataformas de música. Afirmó que Yandex Music eliminó cinco remezclas junto con la canción original."
-              },
-              {
-                "t": "p",
-                "x": "El músico cree que el tema fue bloqueado por las quejas de “ciertas personas que se lo tomaron como algo personal”. No está de acuerdo con la decisión: “Entonces deberían bloquear todas las canciones que tengan alguna palabrota. […] Hay gente que simplemente no puede entender ni apreciar el arte de verdad. Es como un perfume de nicho con notas complejas”."
-              },
-              {
-                "t": "p",
-                "x": "El tema de AI de DJ NARODNII, cuyo estribillo dice “You’re my scumbag, you’re my pig…”, se ha vuelto popular en TikTok e Instagram en los últimos meses. Su creador publicó originalmente la canción para burlarse de la música AI-generated, pero se convirtió en un éxito."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "smebench",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "SMEBench, MIDI\n합성으로 AI 편집기 평가",
-      "body": "SMEBench는 MIDI 편집 음원 쌍으로 음악 편집기를 12가지로 시험한다.",
-      "mini_headline": "SMEBench, AI 음악 편집 벤치마크",
-      "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.36715",
+      "source": "K-EnterTech Hub",
+      "url": "https://www.kentertechhub.com/pozalabs-ai-producer/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+          },
+          {
             "t": "p",
-            "x": "신경망 음악 편집 시스템은 요청받은 변화를 해내면서도 바뀌지 말아야 할 음악적 내용은 지켜야 한다. 하지만 기존 평가에는 짝을 이루는 목표 편집이 없는 경우가 많다. SMEBench는 기호 MIDI 연주를 수정한 뒤 짝이 맞는 원본·목표 오디오를 렌더링해 만든 대규모 통제 음악 편집 벤치마크다."
+            "x": "서울의 AI 음악 기업 Pozalabs(포자랩스)가 10월 26일 AI 프로듀서 Steal Saturday의 새 앨범을 내면서, 이 아티스트를 자사가 만들었다는 사실을 처음 공개했다."
+          },
+          {
+            "t": "p",
+            "x": "하이퍼팝, 일렉트로팝, 하우스, R&B를 오간 전자음악을 내온 뒤, 새 앨범 Geureomedo, Oneureun(그럼에도, 오늘은, 대략 \"Even So, Today\")에서는 방향을 틀어 밴드 편곡과 어쿠스틱 기타, 현악이 중심인 발라드를 담았다. 다섯 곡은 바라던 대로 흘러가지 않은 삶에서도 계속 걸어가는 사람들을 그린다."
           },
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-            "cap": "그림 1: SMEBench 구축 방식 개요. 10초 길이의 MIDI 발췌를 분석하고 선택한 개입을 적용한 뒤, 같은 SoundFont로 원본과 목표를 렌더링한다."
+            "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
           },
           {
             "t": "p",
-            "x": "예시마다 원본, 지시문, 짝을 이루는 목표, 편집 메타데이터, 보완 설명이 붙는다. 작업은 악기 편성, 아티큘레이션, 다이내믹스, 음높이에 걸친 열두 가지다. 균형 잡힌 3,600개 예시의 테스트 세트와 멀티트랙 녹음에서 얻은 소규모 실제 오디오 보완 세트도 들어 있다."
+            "x": "다섯 곡에는 객원 보컬 Naran, Seo Jeong-gil, Eliot Rue가 참여했고, \"The Side Dishes Mom Sent\"는 Steal Saturday가 직접 불렀다."
           },
           {
             "t": "p",
-            "x": "저자들은 AudioLDM2 백본 위의 SDEdit, DDIM inversion, ZETA, VCI, SteerMusic과 MusicGen까지 대표적인 편집 시스템 여섯 개를 벤치마크했다. 어떤 지표로 순위를 매기느냐에 따라 결론이 크게 달라질 수 있다는 사실도 드러났다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-            "cap": "그림 4: 편집 캡션 조건과 편집 지시문 조건에서 SMEBench와 SME-Real에 대한 시스템 성능."
+            "x": "2018년 설립된 Pozalabs는 API로 제공하는 AI 음악 생성 모델을 개발한다. 회사는 자사의 MIDI-based(MIDI 기반) 모델이 특정 곡을 흉내 내지 않고 화성의 규칙을 배운다고 설명한다. CJ ENM은 2022년 10월 이 회사의 두 번째로 큰 주주가 됐다."
           },
           {
             "t": "p",
-            "x": "한계도 있다. 분류 체계는 보컬, 프로덕션 효과, 장르 전환을 다루지 않고, 보존과 편집 수행, 지각 품질을 한꺼번에 담는 단일 지표도 없다."
+            "x": "한국에는 AI로 만든 곡의 등록·표기 기준이 아직 없다. KOMCA는 8월 3일 AI-assisted(AI 활용) 작품 접수를 시작했지만 8월 25일 이 규정을 거둬들였다. Pozalabs는 여러 장르로 발매를 이어 가고 아티스트와의 협업도 늘릴 계획이라고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SMEBench tests AI music editors\nwith synthesized MIDI edits",
-          "body": "SMEBench renders matched audio pairs from edited MIDI to test instruction-based music editors on 12 edit types.",
-          "mini_headline": "SMEBench benchmarks AI music edits",
+          "headline": "Pozalabs reveals it created\nAI producer Steal Saturday",
+          "body": "Pozalabs released a five-song ballad album by AI producer Steal Saturday and publicly named the act as its own.",
+          "mini_headline": "Pozalabs owns AI act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Neural music editing requires a system to perform a requested change while preserving the musical content that should remain unchanged. Existing evaluations often lack a paired target edit. SMEBench is a large-scale benchmark of controlled music edits constructed by modifying symbolic MIDI performances and rendering matched source and target audio."
+                "x": "Pozalabs (포자랩스), a Seoul-based AI music company, released a new album by the AI producer Steal Saturday on Oct. 26 and said publicly for the first time that it created the act."
+              },
+              {
+                "t": "p",
+                "x": "After electronic releases spanning hyperpop, electropop, house and R&B, the new album, Geureomedo, Oneureun (그럼에도, 오늘은, roughly \"Even So, Today\"), turns to ballads built on band arrangements, acoustic guitar and strings. Its five songs are about people who keep going in lives that turned out differently than they had hoped."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "Figure 1: Overview of the SMEBench construction recipe. A 10-second MIDI excerpt is analyzed, the selected intervention is applied, and source and target are rendered with the same SoundFont."
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "Each example contains a source, an instruction, a paired target, edit metadata, and complementary descriptions. The benchmark covers twelve instrumentation, articulation, dynamics, and pitch operations and includes a balanced 3,600-example test set together with a smaller real-audio complement derived from multitrack recordings."
+                "x": "Guest vocalists Naran, Seo Jeong-gil and Eliot Rue appear across the five songs, and Steal Saturday takes the vocal itself on \"The Side Dishes Mom Sent.\""
               },
               {
                 "t": "p",
-                "x": "The authors benchmark six representative editing systems — SDEdit, DDIM inversion, ZETA, VCI and SteerMusic on an AudioLDM2 backbone, plus MusicGen — showing that the metric used to rank a system can materially change the conclusion."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "Figure 4: System performance on SMEBench and SME-Real under edit-caption and edit-instruction conditioning."
+                "x": "Founded in 2018, Pozalabs builds AI music-generation models offered through an API and says its MIDI-based models learn the rules of harmony rather than imitating particular songs. CJ ENM became its second-largest shareholder in October 2022."
               },
               {
                 "t": "p",
-                "x": "Limitations: the taxonomy does not represent vocals, production effects or genre transfer, and no single metric captures preservation, edit execution, and perceptual quality."
+                "x": "Korea still has no standard for registering or labeling songs made with AI: KOMCA began accepting AI-assisted works on Aug. 3, then withdrew the rule on Aug. 25. Pozalabs said it plans further releases across genres and more collaborations with artists."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SMEBench, MIDI\n합성으로 AI 편집기 평가",
-          "body": "SMEBench는 MIDI 편집 음원 쌍으로 음악 편집기를 12가지로 시험한다.",
-          "mini_headline": "SMEBench, AI 음악 편집 벤치마크",
+          "headline": "Steal Saturday\nPozalabs가 만들었다",
+          "body": "Pozalabs가 AI 프로듀서 Steal Saturday를 만들었다고 밝혔다.",
+          "mini_headline": "Pozalabs의 AI 아티스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "신경망 음악 편집 시스템은 요청받은 변화를 해내면서도 바뀌지 말아야 할 음악적 내용은 지켜야 한다. 하지만 기존 평가에는 짝을 이루는 목표 편집이 없는 경우가 많다. SMEBench는 기호 MIDI 연주를 수정한 뒤 짝이 맞는 원본·목표 오디오를 렌더링해 만든 대규모 통제 음악 편집 벤치마크다."
+                "x": "서울의 AI 음악 기업 Pozalabs(포자랩스)가 10월 26일 AI 프로듀서 Steal Saturday의 새 앨범을 내면서, 이 아티스트를 자사가 만들었다는 사실을 처음 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "하이퍼팝, 일렉트로팝, 하우스, R&B를 오간 전자음악을 내온 뒤, 새 앨범 Geureomedo, Oneureun(그럼에도, 오늘은, 대략 \"Even So, Today\")에서는 방향을 틀어 밴드 편곡과 어쿠스틱 기타, 현악이 중심인 발라드를 담았다. 다섯 곡은 바라던 대로 흘러가지 않은 삶에서도 계속 걸어가는 사람들을 그린다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "그림 1: SMEBench 구축 방식 개요. 10초 길이의 MIDI 발췌를 분석하고 선택한 개입을 적용한 뒤, 같은 SoundFont로 원본과 목표를 렌더링한다."
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "예시마다 원본, 지시문, 짝을 이루는 목표, 편집 메타데이터, 보완 설명이 붙는다. 작업은 악기 편성, 아티큘레이션, 다이내믹스, 음높이에 걸친 열두 가지다. 균형 잡힌 3,600개 예시의 테스트 세트와 멀티트랙 녹음에서 얻은 소규모 실제 오디오 보완 세트도 들어 있다."
+                "x": "다섯 곡에는 객원 보컬 Naran, Seo Jeong-gil, Eliot Rue가 참여했고, \"The Side Dishes Mom Sent\"는 Steal Saturday가 직접 불렀다."
               },
               {
                 "t": "p",
-                "x": "저자들은 AudioLDM2 백본 위의 SDEdit, DDIM inversion, ZETA, VCI, SteerMusic과 MusicGen까지 대표적인 편집 시스템 여섯 개를 벤치마크했다. 어떤 지표로 순위를 매기느냐에 따라 결론이 크게 달라질 수 있다는 사실도 드러났다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "그림 4: 편집 캡션 조건과 편집 지시문 조건에서 SMEBench와 SME-Real에 대한 시스템 성능."
+                "x": "2018년 설립된 Pozalabs는 API로 제공하는 AI 음악 생성 모델을 개발한다. 회사는 자사의 MIDI-based(MIDI 기반) 모델이 특정 곡을 흉내 내지 않고 화성의 규칙을 배운다고 설명한다. CJ ENM은 2022년 10월 이 회사의 두 번째로 큰 주주가 됐다."
               },
               {
                 "t": "p",
-                "x": "한계도 있다. 분류 체계는 보컬, 프로덕션 효과, 장르 전환을 다루지 않고, 보존과 편집 수행, 지각 품질을 한꺼번에 담는 단일 지표도 없다."
+                "x": "한국에는 AI로 만든 곡의 등록·표기 기준이 아직 없다. KOMCA는 8월 3일 AI-assisted(AI 활용) 작품 접수를 시작했지만 8월 25일 이 규정을 거둬들였다. Pozalabs는 여러 장르로 발매를 이어 가고 아티스트와의 협업도 늘릴 계획이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SMEBench、AI音楽\n編集をMIDIで検証",
-          "body": "SMEBenchは編集したMIDIから音声ペアを作り、12種の編集で音楽編集AIを試す。",
-          "mini_headline": "SMEBench、AI音楽編集を評価",
+          "headline": "Steal Saturday\nPozalabsが制作と公表",
+          "body": "PozalabsがAIプロデューサーSteal Saturdayを自ら制作したと明かした。",
+          "mini_headline": "PozalabsのAIアーティスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "ニューラル音楽編集では、システムが要求された変更を行いつつ、変えるべきでない音楽内容を保つ必要がある。既存の評価には、対になる目標編集が欠けていることが多い。SMEBenchは、記号的なMIDI演奏を改変し、対応する元音声と目標音声をレンダリングして構築した、制御された音楽編集の大規模ベンチマークだ。"
+                "x": "ソウルのAI音楽企業Pozalabs（포자랩스）は10月26日、AIプロデューサーSteal Saturdayの新アルバムをリリースし、このアーティストを自社が生み出したことを初めて公にした。"
+              },
+              {
+                "t": "p",
+                "x": "ハイパーポップ、エレクトロポップ、ハウス、R&Bにまたがるエレクトロニックな作品を経て、新アルバムGeureomedo, Oneureun（그럼에도, 오늘은、おおよそ\"Even So, Today\"）は、バンド編成のアレンジ、アコースティックギター、ストリングスを軸にしたバラードへと向かった。五曲は、望んだ形とは違う人生を歩みながらも進み続ける人々を描く。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "図1:SMEBench構築手順の概要。10秒のMIDI抜粋を分析し、選んだ介入を適用したうえで、元と目標を同じSoundFontでレンダリングする。"
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "各例は、元音声、指示、対になる目標、編集メタデータ、補足説明で構成される。ベンチマークは楽器編成、アーティキュレーション、ダイナミクス、ピッチに関する十二の操作を扱い、均衡のとれた3,600例のテストセットと、マルチトラック録音から得た小規模な実音声の補完セットを含む。"
+                "x": "ゲストボーカルとしてNaran、Seo Jeong-gil、Eliot Rueが五曲にわたって参加し、\"The Side Dishes Mom Sent\"ではSteal Saturday自身が歌っている。"
               },
               {
                 "t": "p",
-                "x": "著者らは、AudioLDM2バックボーン上のSDEdit、DDIM inversion、ZETA、VCI、SteerMusicに加えMusicGenという代表的な編集システム六つを評価し、システムの順位付けに使う指標によって結論が大きく変わりうることを示した。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "図4:編集キャプション条件と編集指示条件におけるSMEBenchとSME-Realでのシステム性能。"
+                "x": "2018年に設立されたPozalabsは、APIで提供するAI音楽生成モデルを開発しており、MIDI-based（MIDIベース）のモデルは特定の曲を模倣するのではなく和声の規則を学習すると説明している。CJ ENMは2022年10月に第二位の株主となった。"
               },
               {
                 "t": "p",
-                "x": "限界:分類体系はボーカル、制作エフェクト、ジャンル変換を扱っておらず、保存、編集の実行、知覚品質のすべてを捉える単一の指標は存在しない。"
+                "x": "韓国にはAIで作られた楽曲の登録や表示に関する基準がまだない。KOMCAは8月3日にAI-assisted（AI支援）作品の受け付けを始めたが、8月25日にその規定を撤回した。Pozalabsは今後、さまざまなジャンルでのリリースとアーティストとのコラボレーションを重ねていく計画だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SMEBench测试AI\n以合成MIDI评测音乐编辑",
-          "body": "SMEBench用编辑后的MIDI渲染成对音频，在12类编辑上测试指令式音乐编辑器。",
-          "mini_headline": "SMEBench评测AI音乐编辑",
+          "headline": "Steal Saturday\n原来出自Pozalabs",
+          "body": "Pozalabs发布五首抒情歌，并公开AI制作人Steal Saturday出自其手。",
+          "mini_headline": "Pozalabs的AI艺人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "神经音乐编辑要求系统在执行所请求的改动的同时，保留本应不变的音乐内容。现有评估往往缺少配对的目标编辑。SMEBench是一个大规模受控音乐编辑基准，通过修改符号化MIDI演奏并渲染相互匹配的源音频和目标音频构建而成。"
+                "x": "首尔AI音乐公司Pozalabs（포자랩스）于10月26日发布AI制作人Steal Saturday的新专辑，并首次公开表示这位艺人由公司打造。"
+              },
+              {
+                "t": "p",
+                "x": "在推出横跨超流行、电子流行、浩室和R&B的电子作品之后，新专辑Geureomedo, Oneureun（그럼에도, 오늘은，大意为\"Even So, Today\"）转向以乐队编曲、原声吉他和弦乐为基础的抒情歌。五首歌讲述的是人生未能如愿、却仍在继续前行的人们。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "图1：SMEBench构建流程概览。先分析一段10秒的MIDI片段，施加选定的干预，再用同一个SoundFont渲染源和目标。"
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "每个样例包含源、指令、配对目标、编辑元数据和补充描述。该基准涵盖配器、演奏法、力度和音高方面的十二种操作，并包括一个均衡的3,600样例测试集，以及一个取自多轨录音、规模较小的真实音频补充集。"
+                "x": "客座歌手Naran、Seo Jeong-gil和Eliot Rue参与了这五首歌，Steal Saturday则在\"The Side Dishes Mom Sent\"中亲自演唱。"
               },
               {
                 "t": "p",
-                "x": "作者对六个代表性编辑系统进行了基准测试——基于AudioLDM2主干的SDEdit、DDIM inversion、ZETA、VCI和SteerMusic，外加MusicGen——结果表明，用来给系统排名的指标可能实质性地改变结论。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "图4：在编辑描述和编辑指令两种条件下，各系统在SMEBench和SME-Real上的表现。"
+                "x": "Pozalabs成立于2018年，开发通过API提供的AI音乐生成模型，并称其MIDI-based（基于MIDI）的模型学习的是和声规则，而非模仿特定歌曲。CJ ENM于2022年10月成为其第二大股东。"
               },
               {
                 "t": "p",
-                "x": "局限：该分类体系不涵盖人声、制作效果或风格迁移，也没有任何单一指标能同时衡量保留程度、编辑执行和感知质量。"
+                "x": "韩国目前仍没有登记或标注AI创作歌曲的标准：KOMCA于8月3日开始受理AI-assisted（AI辅助）作品，又在8月25日撤回了这一规定。Pozalabs表示，计划推出更多不同类型的作品，并与更多艺人合作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SMEBench evalúa editores de AI\ncon ediciones MIDI sintéticas",
-          "body": "SMEBench crea pares de audio desde MIDI editado para evaluar editores musicales en 12 tipos de edición.",
-          "mini_headline": "SMEBench evalúa la edición musical con AI",
+          "headline": "Pozalabs revela que creó al\nproductor de IA Steal Saturday",
+          "body": "Pozalabs lanzó un álbum de cinco baladas del productor de IA Steal Saturday y admitió públicamente que es obra suya.",
+          "mini_headline": "Pozalabs, dueña de un artista de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "La edición musical neuronal exige que un sistema realice el cambio solicitado y conserve el contenido musical que debe permanecer igual. Las evaluaciones existentes a menudo carecen de una edición objetivo emparejada. SMEBench es un benchmark a gran escala de ediciones musicales controladas, construido modificando interpretaciones MIDI simbólicas y renderizando audio de origen y de destino emparejado."
+                "x": "Pozalabs (포자랩스), empresa de música con IA con sede en Seúl, lanzó el 26 de octubre un nuevo álbum del productor de IA Steal Saturday y reconoció públicamente por primera vez que es su creadora."
+              },
+              {
+                "t": "p",
+                "x": "Tras lanzamientos electrónicos que abarcaban hyperpop, electropop, house y R&B, el nuevo álbum, Geureomedo, Oneureun (그럼에도, 오늘은, aproximadamente \"Even So, Today\"), se vuelca hacia baladas construidas sobre arreglos de banda, guitarra acústica y cuerdas. Sus cinco canciones hablan de personas que siguen adelante en vidas que resultaron distintas de lo que esperaban."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "Figura 1: Resumen del método de construcción de SMEBench. Se analiza un fragmento MIDI de 10 segundos, se aplica la intervención seleccionada y el origen y el destino se renderizan con la misma SoundFont."
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "Cada ejemplo contiene un origen, una instrucción, un destino emparejado, metadatos de edición y descripciones complementarias. El benchmark abarca doce operaciones de instrumentación, articulación, dinámica y altura, e incluye un conjunto de prueba equilibrado de 3,600 ejemplos junto con un complemento más pequeño de audio real derivado de grabaciones multipista."
+                "x": "Los vocalistas invitados Naran, Seo Jeong-gil y Eliot Rue participan a lo largo de las cinco canciones, y Steal Saturday se encarga de la voz en \"The Side Dishes Mom Sent.\""
               },
               {
                 "t": "p",
-                "x": "Los autores evalúan seis sistemas de edición representativos —SDEdit, DDIM inversion, ZETA, VCI y SteerMusic sobre una base AudioLDM2, además de MusicGen— y muestran que la métrica usada para clasificar un sistema puede cambiar sustancialmente la conclusión."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "Figura 4: Rendimiento de los sistemas en SMEBench y SME-Real con condicionamiento por descripción de la edición y por instrucción de edición."
+                "x": "Fundada en 2018, Pozalabs desarrolla modelos de generación musical con IA que ofrece a través de una API y afirma que sus modelos MIDI-based (basados en MIDI) aprenden las reglas de la armonía en lugar de imitar canciones concretas. CJ ENM se convirtió en su segundo mayor accionista en octubre de 2022."
               },
               {
                 "t": "p",
-                "x": "Limitaciones: la taxonomía no representa voces, efectos de producción ni transferencia de género, y ninguna métrica por sí sola capta la preservación, la ejecución de la edición y la calidad perceptiva."
+                "x": "Corea aún no tiene una norma para registrar o etiquetar canciones hechas con IA: KOMCA empezó a aceptar obras AI-assisted (asistidas por IA) el 3 de agosto y retiró la norma el 25 de agosto. Pozalabs dijo que prevé nuevos lanzamientos en distintos géneros y más colaboraciones con artistas."
               }
             ]
           }
@@ -1737,145 +1417,595 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SMEBench, MIDI\n합성으로 AI 편집기 평가",
-          "body": "SMEBench는 MIDI 편집 음원 쌍으로 음악 편집기를 12가지로 시험한다.",
-          "mini_headline": "SMEBench, AI 음악 편집 벤치마크",
+          "headline": "Steal Saturday\nPozalabs가 만들었다",
+          "body": "Pozalabs가 AI 프로듀서 Steal Saturday를 만들었다고 밝혔다.",
+          "mini_headline": "Pozalabs의 AI 아티스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "신경망 음악 편집 시스템은 요청받은 변화를 수행하면서도 바뀌지 않아야 할 음악적 내용은 보존해야 한다. 기존 평가에는 짝을 이루는 목표 편집이 없는 경우가 많다. SMEBench는 기호 MIDI 연주를 수정하고 짝이 맞는 원본·목표 오디오를 렌더링해 만든 대규모 통제 음악 편집 벤치마크다."
+                "x": "서울의 AI 음악 기업 Pozalabs(포자랩스)가 10월 26일 AI 프로듀서 Steal Saturday의 새 앨범을 내고, 이 아티스트를 자사가 만들었다고 처음으로 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "하이퍼팝, 일렉트로팝, 하우스, R&B를 넘나든 전자음악 발매에 이어, 새 앨범 Geureomedo, Oneureun(그럼에도, 오늘은, 대략 \"Even So, Today\")은 밴드 편곡과 어쿠스틱 기타, 현악을 바탕으로 한 발라드로 방향을 틀었다. 다섯 곡은 바랐던 것과 다르게 흘러간 삶 속에서도 계속 나아가는 사람들을 그린다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "그림 1: SMEBench 구축 방식 개요. 10초 길이의 MIDI 발췌를 분석하고 선택한 개입을 적용한 뒤, 같은 SoundFont로 원본과 목표를 렌더링한다."
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "각 예시는 원본, 지시문, 짝을 이루는 목표, 편집 메타데이터, 보완 설명으로 구성된다. 벤치마크는 악기 편성, 아티큘레이션, 다이내믹스, 음높이에 걸친 열두 가지 작업을 다루며, 균형 잡힌 3,600개 예시의 테스트 세트와 멀티트랙 녹음에서 얻은 소규모 실제 오디오 보완 세트를 포함한다."
+                "x": "객원 보컬 Naran, Seo Jeong-gil, Eliot Rue가 다섯 곡에 걸쳐 참여했고, \"The Side Dishes Mom Sent\"에서는 Steal Saturday가 직접 노래를 맡았다."
               },
               {
                 "t": "p",
-                "x": "저자들은 AudioLDM2 백본 위의 SDEdit, DDIM inversion, ZETA, VCI, SteerMusic과 MusicGen까지 대표적인 편집 시스템 여섯 개를 벤치마크했고, 시스템 순위를 매기는 지표에 따라 결론이 크게 달라질 수 있음을 보여 줬다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "그림 4: 편집 캡션 조건과 편집 지시문 조건에서 SMEBench와 SME-Real에 대한 시스템 성능."
+                "x": "2018년 설립된 Pozalabs는 API로 제공되는 AI 음악 생성 모델을 개발하며, 자사의 MIDI-based(MIDI 기반) 모델이 특정 곡을 흉내 내지 않고 화성의 규칙을 학습한다고 설명한다. CJ ENM은 2022년 10월 두 번째로 큰 주주가 됐다."
               },
               {
                 "t": "p",
-                "x": "한계: 분류 체계는 보컬, 프로덕션 효과, 장르 전환을 다루지 않으며, 보존과 편집 수행, 지각 품질을 모두 담는 단일 지표는 없다."
+                "x": "한국에는 아직 AI로 만든 곡을 등록하거나 표기하는 기준이 없다. KOMCA는 8월 3일 AI-assisted(AI 활용) 작품을 받기 시작했다가 8월 25일 그 규정을 철회했다. Pozalabs는 여러 장르에 걸친 추가 발매와 아티스트와의 협업 확대를 계획하고 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SMEBench、AI音楽\n編集をMIDIで検証",
-          "body": "SMEBenchは編集したMIDIから音声ペアを作り、12種の編集で音楽編集AIを試す。",
-          "mini_headline": "SMEBench、AI音楽編集を評価",
+          "headline": "Steal Saturday\nPozalabsが制作と公表",
+          "body": "PozalabsがAIプロデューサーSteal Saturdayを自ら制作したと明かした。",
+          "mini_headline": "PozalabsのAIアーティスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "ニューラル音楽編集では、システムが要求された変更を行いつつ、変えるべきでない音楽内容を保つ必要がある。既存の評価には、対になる目標編集が欠けていることが多い。SMEBenchは、記号的なMIDI演奏を改変し、対応する元音声と目標音声をレンダリングして構築した、制御された音楽編集の大規模ベンチマークだ。"
+                "x": "ソウルのAI音楽企業Pozalabs（포자랩스）は10月26日、AIプロデューサーSteal Saturdayの新アルバムをリリースし、このアーティストを自社が生み出したことを初めて公にした。"
+              },
+              {
+                "t": "p",
+                "x": "ハイパーポップ、エレクトロポップ、ハウス、R&Bにまたがるエレクトロニックな作品を経て、新アルバムGeureomedo, Oneureun（그럼에도, 오늘은、おおよそ\"Even So, Today\"）は、バンド編成のアレンジ、アコースティックギター、ストリングスを軸にしたバラードへと向かった。五曲は、望んだ形とは違う人生を歩みながらも進み続ける人々を描く。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "図1:SMEBench構築手順の概要。10秒のMIDI抜粋を分析し、選んだ介入を適用したうえで、元と目標を同じSoundFontでレンダリングする。"
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "各例は、元音声、指示、対になる目標、編集メタデータ、補足説明で構成される。ベンチマークは楽器編成、アーティキュレーション、ダイナミクス、ピッチに関する十二の操作を扱い、均衡のとれた3,600例のテストセットと、マルチトラック録音から得た小規模な実音声の補完セットを含む。"
+                "x": "ゲストボーカルとしてNaran、Seo Jeong-gil、Eliot Rueが五曲にわたって参加し、\"The Side Dishes Mom Sent\"ではSteal Saturday自身が歌っている。"
               },
               {
                 "t": "p",
-                "x": "著者らは、AudioLDM2バックボーン上のSDEdit、DDIM inversion、ZETA、VCI、SteerMusicに加えMusicGenという代表的な編集システム六つを評価し、システムの順位付けに使う指標によって結論が大きく変わりうることを示した。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "図4:編集キャプション条件と編集指示条件におけるSMEBenchとSME-Realでのシステム性能。"
+                "x": "2018年に設立されたPozalabsは、APIで提供するAI音楽生成モデルを開発しており、MIDI-based（MIDIベース）のモデルは特定の曲を模倣するのではなく和声の規則を学習すると説明している。CJ ENMは2022年10月に第二位の株主となった。"
               },
               {
                 "t": "p",
-                "x": "限界:分類体系はボーカル、制作エフェクト、ジャンル変換を扱っておらず、保存、編集の実行、知覚品質のすべてを捉える単一の指標は存在しない。"
+                "x": "韓国にはAIで作られた楽曲の登録や表示に関する基準がまだない。KOMCAは8月3日にAI-assisted（AI支援）作品の受け付けを始めたが、8月25日にその規定を撤回した。Pozalabsは今後、さまざまなジャンルでのリリースとアーティストとのコラボレーションを重ねていく計画だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SMEBench测试AI\n以合成MIDI评测音乐编辑",
-          "body": "SMEBench用编辑后的MIDI渲染成对音频，在12类编辑上测试指令式音乐编辑器。",
-          "mini_headline": "SMEBench评测AI音乐编辑",
+          "headline": "Steal Saturday\n原来出自Pozalabs",
+          "body": "Pozalabs发布五首抒情歌，并公开AI制作人Steal Saturday出自其手。",
+          "mini_headline": "Pozalabs的AI艺人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "神经音乐编辑要求系统在执行所请求的改动的同时，保留本应不变的音乐内容。现有评估往往缺少配对的目标编辑。SMEBench是一个大规模受控音乐编辑基准，通过修改符号化MIDI演奏并渲染相互匹配的源音频和目标音频构建而成。"
+                "x": "首尔AI音乐公司Pozalabs（포자랩스）于10月26日发布AI制作人Steal Saturday的新专辑，并首次公开表示这位艺人由公司打造。"
+              },
+              {
+                "t": "p",
+                "x": "在推出横跨超流行、电子流行、浩室和R&B的电子作品之后，新专辑Geureomedo, Oneureun（그럼에도, 오늘은，大意为\"Even So, Today\"）转向以乐队编曲、原声吉他和弦乐为基础的抒情歌。五首歌讲述的是人生未能如愿、却仍在继续前行的人们。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "图1：SMEBench构建流程概览。先分析一段10秒的MIDI片段，施加选定的干预，再用同一个SoundFont渲染源和目标。"
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "每个样例包含源、指令、配对目标、编辑元数据和补充描述。该基准涵盖配器、演奏法、力度和音高方面的十二种操作，并包括一个均衡的3,600样例测试集，以及一个取自多轨录音、规模较小的真实音频补充集。"
+                "x": "客座歌手Naran、Seo Jeong-gil和Eliot Rue参与了这五首歌，Steal Saturday则在\"The Side Dishes Mom Sent\"中亲自演唱。"
               },
               {
                 "t": "p",
-                "x": "作者对六个代表性编辑系统进行了基准测试——基于AudioLDM2主干的SDEdit、DDIM inversion、ZETA、VCI和SteerMusic，外加MusicGen——结果表明，用来给系统排名的指标可能实质性地改变结论。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "图4：在编辑描述和编辑指令两种条件下，各系统在SMEBench和SME-Real上的表现。"
+                "x": "Pozalabs成立于2018年，开发通过API提供的AI音乐生成模型，并称其MIDI-based（基于MIDI）的模型学习的是和声规则，而非模仿特定歌曲。CJ ENM于2022年10月成为其第二大股东。"
               },
               {
                 "t": "p",
-                "x": "局限：该分类体系不涵盖人声、制作效果或风格迁移，也没有任何单一指标能同时衡量保留程度、编辑执行和感知质量。"
+                "x": "韩国目前仍没有登记或标注AI创作歌曲的标准：KOMCA于8月3日开始受理AI-assisted（AI辅助）作品，又在8月25日撤回了这一规定。Pozalabs表示，计划推出更多不同类型的作品，并与更多艺人合作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SMEBench evalúa editores de AI\ncon ediciones MIDI sintéticas",
-          "body": "SMEBench crea pares de audio desde MIDI editado para evaluar editores musicales en 12 tipos de edición.",
-          "mini_headline": "SMEBench evalúa la edición musical con AI",
+          "headline": "Pozalabs revela que creó al\nproductor de IA Steal Saturday",
+          "body": "Pozalabs lanzó un álbum de cinco baladas del productor de IA Steal Saturday y admitió públicamente que es obra suya.",
+          "mini_headline": "Pozalabs, dueña de un artista de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
+              },
+              {
                 "t": "p",
-                "x": "La edición musical neuronal exige que un sistema realice el cambio solicitado y conserve el contenido musical que debe permanecer igual. Las evaluaciones existentes a menudo carecen de una edición objetivo emparejada. SMEBench es un benchmark a gran escala de ediciones musicales controladas, construido modificando interpretaciones MIDI simbólicas y renderizando audio de origen y de destino emparejado."
+                "x": "Pozalabs (포자랩스), empresa de música con IA con sede en Seúl, lanzó el 26 de octubre un nuevo álbum del productor de IA Steal Saturday y reconoció públicamente por primera vez que es su creadora."
+              },
+              {
+                "t": "p",
+                "x": "Tras lanzamientos electrónicos que abarcaban hyperpop, electropop, house y R&B, el nuevo álbum, Geureomedo, Oneureun (그럼에도, 오늘은, aproximadamente \"Even So, Today\"), se vuelca hacia baladas construidas sobre arreglos de banda, guitarra acústica y cuerdas. Sus cinco canciones hablan de personas que siguen adelante en vidas que resultaron distintas de lo que esperaban."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
-                "cap": "Figura 1: Resumen del método de construcción de SMEBench. Se analiza un fragmento MIDI de 10 segundos, se aplica la intervención seleccionada y el origen y el destino se renderizan con la misma SoundFont."
+                "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/x8n8r1_202610260547.jpg"
               },
               {
                 "t": "p",
-                "x": "Cada ejemplo contiene un origen, una instrucción, un destino emparejado, metadatos de edición y descripciones complementarias. El benchmark abarca doce operaciones de instrumentación, articulación, dinámica y altura, e incluye un conjunto de prueba equilibrado de 3,600 ejemplos junto con un complemento más pequeño de audio real derivado de grabaciones multipista."
+                "x": "Los vocalistas invitados Naran, Seo Jeong-gil y Eliot Rue participan a lo largo de las cinco canciones, y Steal Saturday se encarga de la voz en \"The Side Dishes Mom Sent.\""
               },
               {
                 "t": "p",
-                "x": "Los autores evalúan seis sistemas de edición representativos —SDEdit, DDIM inversion, ZETA, VCI y SteerMusic sobre una base AudioLDM2, además de MusicGen— y muestran que la métrica usada para clasificar un sistema puede cambiar sustancialmente la conclusión."
+                "x": "Fundada en 2018, Pozalabs desarrolla modelos de generación musical con IA que ofrece a través de una API y afirma que sus modelos MIDI-based (basados en MIDI) aprenden las reglas de la armonía en lugar de imitar canciones concretas. CJ ENM se convirtió en su segundo mayor accionista en octubre de 2022."
               },
+              {
+                "t": "p",
+                "x": "Corea aún no tiene una norma para registrar o etiquetar canciones hechas con IA: KOMCA empezó a aceptar obras AI-assisted (asistidas por IA) el 3 de agosto y retiró la norma el 25 de agosto. Pozalabs dijo que prevé nuevos lanzamientos en distintos géneros y más colaboraciones con artistas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ifm-ai-music-royalty-forum",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 쓴 음악 저작권료\n국회서 분배 기준 논의",
+      "body": "국회 토론회는 AI 사용을 신고한 창작자만 저작권료를 못 받는 구조를 다뤘다.",
+      "mini_headline": "AI 음악 저작권료 기준",
+      "tool": "Music",
+      "source": "경인방송",
+      "url": "https://news.ifm.kr/news/articleView.html?idxno=482765",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+            "cap": "27일 국회 의원회관에서 열린 'AI 활용 음악의 신탁 기준 마련을 위한 2차 토론회'에서 참석자들이 기념촬영을 하고 있다. [사진=김재원 의원실]"
+          },
+          {
+            "t": "p",
+            "x": "[국회(서울)=경인방송] 인공지능(AI)을 썼다고 정직하게 밝힌 창작자는 저작권료를 받지 못하고, 밝히지 않은 쪽은 받을 수 있는 문제를 바로잡을 기준이 국회에서 논의됐다."
+          },
+          {
+            "t": "p",
+            "x": "오늘(27일) 김재원 조국혁신당 의원실에 따르면 김 의원은 국민의힘 배현진 의원과 함께 국회에서 ‘AI 활용 음악의 신탁 기준 마련을 위한 2차 토론회'를 열었다. 이날 토론회에는 이재정 국회 문화체육관광위원장(안양 동안을)도 참석했다."
+          },
+          {
+            "t": "p",
+            "x": "발제를 맡은 김현숙 디지털지식재산연구소 소장은 AI 활용 사실을 신고한 창작자는 신탁 등록이 유보돼 저작권료를 받지 못하지만 밝히지 않으면 받을 수 있다고 지적했다. 등록과 검증, 징수와 분배를 잇는 구체적인 기준이 필요하다는 제안이다."
+          },
+          {
+            "t": "p",
+            "x": "등록 기준에 대해 조성남 한국음악저작권협회 신탁국장은 \"밝히면 등록, 숨기면 제재\"라는 원칙을 내놨다. 협회는 사람의 창작성이 인정되는 부분만 등록을 허용하고, 허위 신고에는 분배금 지급 보류와 법적 대응을 추진한다는 방향이다."
+          },
+          {
+            "t": "p",
+            "x": "다만 제재를 도입하려면 약관 개정과 총회 의결, 문화체육관광부 승인을 거쳐야 한다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "국회도 대응을 예고했다. 이 위원장은 기술 변화에 뒤처지지 않도록 제도 정비에 나서겠다고 했고, 김 의원은 \"중요한 것은 AI의 사용 여부가 아니라 사람이 창작의 주체였느냐는 것\"이라며 \"이제는 구체적인 답을 찾아야 한다\"고 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "정직하게 밝힌 창작자가 손해를 보는 구조가 언제 바로잡힐지는 협회 내부 절차와 국회 논의에 달렸다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "AI 쓴 음악 저작권료\n국회서 분배 기준 논의",
+          "body": "국회 토론회는 AI 사용을 신고한 창작자만 저작권료를 못 받는 구조를 다뤘다.",
+          "mini_headline": "AI 음악 저작권료 기준",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
-                "cap": "Figura 4: Rendimiento de los sistemas en SMEBench y SME-Real con condicionamiento por descripción de la edición y por instrucción de edición."
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "27일 국회 의원회관에서 열린 'AI 활용 음악의 신탁 기준 마련을 위한 2차 토론회'에서 참석자들이 기념촬영을 하고 있다. [사진=김재원 의원실]"
               },
               {
                 "t": "p",
-                "x": "Limitaciones: la taxonomía no representa voces, efectos de producción ni transferencia de género, y ninguna métrica por sí sola capta la preservación, la ejecución de la edición y la calidad perceptiva."
+                "x": "[국회(서울)=경인방송] 인공지능(AI)을 썼다고 정직하게 밝힌 창작자는 저작권료를 받지 못하고, 밝히지 않은 쪽은 받을 수 있는 문제를 바로잡을 기준이 국회에서 논의됐다."
+              },
+              {
+                "t": "p",
+                "x": "오늘(27일) 김재원 조국혁신당 의원실에 따르면 김 의원은 국민의힘 배현진 의원과 함께 국회에서 ‘AI 활용 음악의 신탁 기준 마련을 위한 2차 토론회'를 열었다. 이날 토론회에는 이재정 국회 문화체육관광위원장(안양 동안을)도 참석했다."
+              },
+              {
+                "t": "p",
+                "x": "발제를 맡은 김현숙 디지털지식재산연구소 소장은 AI 활용 사실을 신고한 창작자는 신탁 등록이 유보돼 저작권료를 받지 못하지만 밝히지 않으면 받을 수 있다고 지적했다. 등록과 검증, 징수와 분배를 잇는 구체적인 기준이 필요하다는 제안이다."
+              },
+              {
+                "t": "p",
+                "x": "등록 기준에 대해 조성남 한국음악저작권협회 신탁국장은 \"밝히면 등록, 숨기면 제재\"라는 원칙을 내놨다. 협회는 사람의 창작성이 인정되는 부분만 등록을 허용하고, 허위 신고에는 분배금 지급 보류와 법적 대응을 추진한다는 방향이다."
+              },
+              {
+                "t": "p",
+                "x": "다만 제재를 도입하려면 약관 개정과 총회 의결, 문화체육관광부 승인을 거쳐야 한다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "국회도 대응을 예고했다. 이 위원장은 기술 변화에 뒤처지지 않도록 제도 정비에 나서겠다고 했고, 김 의원은 \"중요한 것은 AI의 사용 여부가 아니라 사람이 창작의 주체였느냐는 것\"이라며 \"이제는 구체적인 답을 찾아야 한다\"고 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "정직하게 밝힌 창작자가 손해를 보는 구조가 언제 바로잡힐지는 협회 내부 절차와 국회 논의에 달렸다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Lawmakers weigh royalty rules\nfor music made with AI",
+          "body": "A National Assembly forum examined why only creators who report using AI are denied copyright royalties.",
+          "mini_headline": "AI music royalty standards",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "Participants pose for a photo at the '2nd Forum on Setting Trust Standards for Music Made with AI' at the National Assembly Members' Office Building on the 27th. [Photo=Office of Rep. Kim Jae-won]"
+              },
+              {
+                "t": "p",
+                "x": "[National Assembly (Seoul)=Gyeongin Broadcasting] Standards to fix a problem in which creators who honestly disclose using artificial intelligence (AI) receive no copyright royalties, while those who do not disclose it can, were discussed at the National Assembly."
+              },
+              {
+                "t": "p",
+                "x": "According to the office of Rebuilding Korea Party lawmaker Kim Jae-won today (the 27th), Kim held the '2nd Forum on Setting Trust Standards for Music Made with AI' at the National Assembly together with People Power Party lawmaker Bae Hyun-jin. Lee Jae-jung, chair of the National Assembly Culture, Sports and Tourism Committee (Anyang Dongan B), also attended the forum."
+              },
+              {
+                "t": "p",
+                "x": "Presenter Kim Hyun-sook, head of the Digital Intellectual Property Research Institute, pointed out that creators who report using AI have their trust registration put on hold and receive no royalties, while those who do not disclose it can. The proposal calls for concrete standards linking registration, verification, collection and distribution."
+              },
+              {
+                "t": "p",
+                "x": "On registration standards, Cho Sung-nam, head of the trust division at the Korea Music Copyright Association, set out the principle of \"Disclose and register; hide and face sanctions.\" The association intends to allow registration only for the parts where human creativity is recognized, and to pursue withheld distribution payments and legal action against false reports."
+              },
+              {
+                "t": "p",
+                "x": "Cho added, however, that introducing sanctions requires amending the association's terms, a vote by its general assembly and approval from the Ministry of Culture, Sports and Tourism."
+              },
+              {
+                "t": "p",
+                "x": "The National Assembly also signaled a response. Chair Lee said the committee would work to overhaul the system so it does not fall behind technological change, and Kim stressed, \"What matters is not whether AI was used, but whether a person was the agent of creation,\" adding, \"Now we have to find concrete answers.\""
+              },
+              {
+                "t": "p",
+                "x": "When the structure that leaves honest creators worse off will be corrected depends on the association's internal procedures and discussions at the National Assembly."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI使用曲の著作権料\n国会で分配基準を議論",
+          "body": "国会の討論会は、AI使用を申告した創作者だけが著作権料を受け取れない構造を取り上げた。",
+          "mini_headline": "AI音楽の著作権料基準",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "27日、国会議員会館で開かれた「AI活用音楽の信託基準づくりに向けた第2回討論会」で記念撮影する参加者たち。[写真=キム・ジェウォン議員室]"
+              },
+              {
+                "t": "p",
+                "x": "[国会（ソウル）=京仁放送] 人工知能（AI）を使ったと正直に明かした創作者は著作権料を受け取れず、明かさなかった側は受け取れるという問題を正すための基準が、国会で議論された。"
+              },
+              {
+                "t": "p",
+                "x": "きょう（27日）、祖国革新党のキム・ジェウォン議員室によると、キム議員は国民の力のペ・ヒョンジン議員とともに、国会で「AI活用音楽の信託基準づくりに向けた第2回討論会」を開いた。この日の討論会には、イ・ジェジョン国会文化体育観光委員長（安養東安乙）も出席した。"
+              },
+              {
+                "t": "p",
+                "x": "発題を担ったデジタル知識財産研究所のキム・ヒョンスク所長は、AI活用を申告した創作者は信託登録が保留されて著作権料を受け取れない一方、明かさなければ受け取れると指摘した。登録と検証、徴収と分配をつなぐ具体的な基準が必要だという提案だ。"
+              },
+              {
+                "t": "p",
+                "x": "登録基準について、韓国音楽著作権協会のチョ・ソンナム信託局長は「明かせば登録、隠せば制裁」という原則を示した。協会は人の創作性が認められる部分にのみ登録を認め、虚偽申告には分配金の支払い保留と法的対応を進める方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、制裁を導入するには約款の改正と総会の議決、文化体育観光部の承認を経なければならないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "国会も対応を予告した。イ委員長は技術の変化に遅れを取らないよう制度整備に乗り出すと述べ、キム議員は「重要なのはAIを使ったかどうかではなく、人が創作の主体だったかどうかだ」とし、「今こそ具体的な答えを見つけなければならない」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "正直に明かした創作者が損をする構造がいつ正されるかは、協会内部の手続きと国会の議論にかかっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用AI的音乐版权费\n国会讨论分配标准",
+          "body": "国会讨论会探讨了只有申报使用AI的创作者反而拿不到版权费的结构。",
+          "mini_headline": "AI音乐版权费标准",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "27日，在国会议员会馆举行的“为制定AI音乐信托标准召开的第2次讨论会”上，参会者合影留念。[图片=Kim Jae-won议员办公室]"
+              },
+              {
+                "t": "p",
+                "x": "[国会（首尔）=京仁广播] 诚实申报使用了人工智能（AI）的创作者拿不到版权费，未申报者却能拿到——为纠正这一问题而制定的标准，在国会展开了讨论。"
+              },
+              {
+                "t": "p",
+                "x": "据祖国革新党议员Kim Jae-won办公室今天（27日）介绍，Kim议员与国民力量党议员Bae Hyun-jin在国会共同举办了“为制定AI音乐信托标准召开的第2次讨论会”。国会文化体育观光委员长Lee Jae-jung（安养东安乙）当天也出席了讨论会。"
+              },
+              {
+                "t": "p",
+                "x": "担任主题发言的数字知识产权研究所所长Kim Hyun-sook指出，申报使用AI的创作者因信托登记被搁置而拿不到版权费，不申报反而能拿到。这一发言提出，需要把登记与验证、征收与分配衔接起来的具体标准。"
+              },
+              {
+                "t": "p",
+                "x": "关于登记标准，韩国音乐著作权协会信托局长Cho Sung-nam提出了“申报即登记，隐瞒即制裁”的原则。协会的方向是只允许对认定具有人类创作性的部分进行登记，对虚假申报则推动暂停发放分配金并采取法律行动。"
+              },
+              {
+                "t": "p",
+                "x": "不过Cho Sung-nam补充说，要引入制裁，须经过修订章程、会员大会表决以及文化体育观光部批准。"
+              },
+              {
+                "t": "p",
+                "x": "国会也预告将作出应对。Lee委员长表示将着手完善制度，以免落后于技术变化；Kim议员则强调：“重要的不是是否使用了AI，而是人是否是创作的主体”，“现在必须找到具体的答案”。"
+              },
+              {
+                "t": "p",
+                "x": "诚实申报的创作者吃亏的结构何时能得到纠正，取决于协会内部程序和国会的讨论。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Regalías de música hecha con AI\na debate en la Asamblea Nacional",
+          "body": "Un foro en la Asamblea Nacional analizó por qué solo los creadores que declaran usar AI se quedan sin regalías.",
+          "mini_headline": "Criterios de regalías para música con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "Los participantes posan para una foto en el '2.º foro para establecer criterios de gestión colectiva de la música hecha con AI', celebrado el día 27 en el edificio de oficinas de los diputados de la Asamblea Nacional. [Foto=Despacho de Kim Jae-won]"
+              },
+              {
+                "t": "p",
+                "x": "[Asamblea Nacional (Seúl)=Gyeongin Broadcasting] En la Asamblea Nacional se debatieron criterios para corregir un problema: los creadores que declaran honestamente haber usado inteligencia artificial (AI) no reciben regalías de autor, mientras que quienes no lo declaran sí pueden recibirlas."
+              },
+              {
+                "t": "p",
+                "x": "Según el despacho de Kim Jae-won, del Partido de Reconstrucción de Corea, hoy (día 27) Kim celebró en la Asamblea Nacional, junto con Bae Hyun-jin, del Partido del Poder Popular, el '2.º foro para establecer criterios de gestión colectiva de la música hecha con AI'. También asistió Lee Jae-jung, quien preside la Comisión de Cultura, Deportes y Turismo de la Asamblea Nacional (Anyang Dongan B)."
+              },
+              {
+                "t": "p",
+                "x": "En su ponencia, Kim Hyun-sook, al frente del Instituto de Investigación de Propiedad Intelectual Digital, señaló que los creadores que declaran el uso de AI ven aplazado su registro en la gestión colectiva y no cobran regalías, mientras que si no lo declaran pueden cobrarlas. La propuesta pide criterios concretos que conecten registro, verificación, recaudación y distribución."
+              },
+              {
+                "t": "p",
+                "x": "Sobre los criterios de registro, Cho Sung-nam, responsable del área de gestión colectiva de la Asociación de Derechos de Autor Musicales de Corea, planteó el principio de \"si se declara, se registra; si se oculta, se sanciona\". La asociación prevé permitir el registro solo de las partes en las que se reconozca creatividad humana y, ante declaraciones falsas, retener los pagos de distribución y emprender acciones legales."
+              },
+              {
+                "t": "p",
+                "x": "No obstante, Cho añadió que introducir sanciones exige modificar los estatutos, una votación en la asamblea general y la aprobación del Ministerio de Cultura, Deportes y Turismo."
+              },
+              {
+                "t": "p",
+                "x": "La Asamblea Nacional también anunció que actuará. Lee dijo que se trabajará para actualizar el marco normativo de modo que no se quede atrás frente al cambio tecnológico, y Kim Jae-won subrayó: \"Lo importante no es si se usó AI, sino si una persona fue el sujeto de la creación\", y añadió: \"Ahora hay que encontrar respuestas concretas\"."
+              },
+              {
+                "t": "p",
+                "x": "Cuándo se corregirá un sistema en el que salen perdiendo los creadores que lo declaran con honestidad depende de los procedimientos internos de la asociación y del debate en la Asamblea Nacional."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Lawmakers weigh royalty rules\nfor music made with AI",
+          "body": "A National Assembly forum examined why only creators who report using AI are denied copyright royalties.",
+          "mini_headline": "AI music royalty standards",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "Participants pose for a photo at the '2nd Forum on Setting Trust Standards for Music Made with AI' at the National Assembly Members' Office Building on the 27th. [Photo=Office of Rep. Kim Jae-won]"
+              },
+              {
+                "t": "p",
+                "x": "[National Assembly (Seoul)=Gyeongin Broadcasting] Standards to fix a problem in which creators who honestly disclose using artificial intelligence (AI) receive no copyright royalties, while those who do not disclose it can, were discussed at the National Assembly."
+              },
+              {
+                "t": "p",
+                "x": "According to the office of Rebuilding Korea Party lawmaker Kim Jae-won today (the 27th), Kim held the '2nd Forum on Setting Trust Standards for Music Made with AI' at the National Assembly together with People Power Party lawmaker Bae Hyun-jin. Lee Jae-jung, chair of the National Assembly Culture, Sports and Tourism Committee (Anyang Dongan B), also attended the forum."
+              },
+              {
+                "t": "p",
+                "x": "Presenter Kim Hyun-sook, head of the Digital Intellectual Property Research Institute, pointed out that creators who report using AI have their trust registration put on hold and receive no royalties, while those who do not disclose it can. The proposal calls for concrete standards linking registration, verification, collection and distribution."
+              },
+              {
+                "t": "p",
+                "x": "On registration standards, Cho Sung-nam, head of the trust division at the Korea Music Copyright Association, set out the principle of \"Disclose and register; hide and face sanctions.\" The association intends to allow registration only for the parts where human creativity is recognized, and to pursue withheld distribution payments and legal action against false reports."
+              },
+              {
+                "t": "p",
+                "x": "Cho added, however, that introducing sanctions requires amending the association's terms, a vote by its general assembly and approval from the Ministry of Culture, Sports and Tourism."
+              },
+              {
+                "t": "p",
+                "x": "The National Assembly also signaled a response. Chair Lee said the committee would work to overhaul the system so it does not fall behind technological change, and Kim stressed, \"What matters is not whether AI was used, but whether a person was the agent of creation,\" adding, \"Now we have to find concrete answers.\""
+              },
+              {
+                "t": "p",
+                "x": "When the structure that leaves honest creators worse off will be corrected depends on the association's internal procedures and discussions at the National Assembly."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI使用曲の著作権料\n国会で分配基準を議論",
+          "body": "国会の討論会は、AI使用を申告した創作者だけが著作権料を受け取れない構造を取り上げた。",
+          "mini_headline": "AI音楽の著作権料基準",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "27日、国会議員会館で開かれた「AI活用音楽の信託基準づくりに向けた第2回討論会」で記念撮影する参加者たち。[写真=キム・ジェウォン議員室]"
+              },
+              {
+                "t": "p",
+                "x": "[国会（ソウル）=京仁放送] 人工知能（AI）を使ったと正直に明かした創作者は著作権料を受け取れず、明かさなかった側は受け取れるという問題を正すための基準が、国会で議論された。"
+              },
+              {
+                "t": "p",
+                "x": "きょう（27日）、祖国革新党のキム・ジェウォン議員室によると、キム議員は国民の力のペ・ヒョンジン議員とともに、国会で「AI活用音楽の信託基準づくりに向けた第2回討論会」を開いた。この日の討論会には、イ・ジェジョン国会文化体育観光委員長（安養東安乙）も出席した。"
+              },
+              {
+                "t": "p",
+                "x": "発題を担ったデジタル知識財産研究所のキム・ヒョンスク所長は、AI活用を申告した創作者は信託登録が保留されて著作権料を受け取れない一方、明かさなければ受け取れると指摘した。登録と検証、徴収と分配をつなぐ具体的な基準が必要だという提案だ。"
+              },
+              {
+                "t": "p",
+                "x": "登録基準について、韓国音楽著作権協会のチョ・ソンナム信託局長は「明かせば登録、隠せば制裁」という原則を示した。協会は人の創作性が認められる部分にのみ登録を認め、虚偽申告には分配金の支払い保留と法的対応を進める方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、制裁を導入するには約款の改正と総会の議決、文化体育観光部の承認を経なければならないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "国会も対応を予告した。イ委員長は技術の変化に遅れを取らないよう制度整備に乗り出すと述べ、キム議員は「重要なのはAIを使ったかどうかではなく、人が創作の主体だったかどうかだ」とし、「今こそ具体的な答えを見つけなければならない」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "正直に明かした創作者が損をする構造がいつ正されるかは、協会内部の手続きと国会の議論にかかっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用AI的音乐版权费\n国会讨论分配标准",
+          "body": "国会讨论会探讨了只有申报使用AI的创作者反而拿不到版权费的结构。",
+          "mini_headline": "AI音乐版权费标准",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "27日，在国会议员会馆举行的“为制定AI音乐信托标准召开的第2次讨论会”上，参会者合影留念。[图片=Kim Jae-won议员办公室]"
+              },
+              {
+                "t": "p",
+                "x": "[国会（首尔）=京仁广播] 诚实申报使用了人工智能（AI）的创作者拿不到版权费，未申报者却能拿到——为纠正这一问题而制定的标准，在国会展开了讨论。"
+              },
+              {
+                "t": "p",
+                "x": "据祖国革新党议员Kim Jae-won办公室今天（27日）介绍，Kim议员与国民力量党议员Bae Hyun-jin在国会共同举办了“为制定AI音乐信托标准召开的第2次讨论会”。国会文化体育观光委员长Lee Jae-jung（安养东安乙）当天也出席了讨论会。"
+              },
+              {
+                "t": "p",
+                "x": "担任主题发言的数字知识产权研究所所长Kim Hyun-sook指出，申报使用AI的创作者因信托登记被搁置而拿不到版权费，不申报反而能拿到。这一发言提出，需要把登记与验证、征收与分配衔接起来的具体标准。"
+              },
+              {
+                "t": "p",
+                "x": "关于登记标准，韩国音乐著作权协会信托局长Cho Sung-nam提出了“申报即登记，隐瞒即制裁”的原则。协会的方向是只允许对认定具有人类创作性的部分进行登记，对虚假申报则推动暂停发放分配金并采取法律行动。"
+              },
+              {
+                "t": "p",
+                "x": "不过Cho Sung-nam补充说，要引入制裁，须经过修订章程、会员大会表决以及文化体育观光部批准。"
+              },
+              {
+                "t": "p",
+                "x": "国会也预告将作出应对。Lee委员长表示将着手完善制度，以免落后于技术变化；Kim议员则强调：“重要的不是是否使用了AI，而是人是否是创作的主体”，“现在必须找到具体的答案”。"
+              },
+              {
+                "t": "p",
+                "x": "诚实申报的创作者吃亏的结构何时能得到纠正，取决于协会内部程序和国会的讨论。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Regalías de música hecha con AI\na debate en la Asamblea Nacional",
+          "body": "Un foro en la Asamblea Nacional analizó por qué solo los creadores que declaran usar AI se quedan sin regalías.",
+          "mini_headline": "Criterios de regalías para música con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.news.ifm.kr/news/photo/202610/482765_157214_1634.jpg",
+                "cap": "Los participantes posan para una foto en el '2.º foro para establecer criterios de gestión colectiva de la música hecha con AI', celebrado el día 27 en el edificio de oficinas de los diputados de la Asamblea Nacional. [Foto=Despacho de Kim Jae-won]"
+              },
+              {
+                "t": "p",
+                "x": "[Asamblea Nacional (Seúl)=Gyeongin Broadcasting] En la Asamblea Nacional se debatieron criterios para corregir un problema: los creadores que declaran honestamente haber usado inteligencia artificial (AI) no reciben regalías de autor, mientras que quienes no lo declaran sí pueden recibirlas."
+              },
+              {
+                "t": "p",
+                "x": "Según el despacho de Kim Jae-won, del Partido de Reconstrucción de Corea, hoy (día 27) Kim celebró en la Asamblea Nacional, junto con Bae Hyun-jin, del Partido del Poder Popular, el '2.º foro para establecer criterios de gestión colectiva de la música hecha con AI'. También asistió Lee Jae-jung, quien preside la Comisión de Cultura, Deportes y Turismo de la Asamblea Nacional (Anyang Dongan B)."
+              },
+              {
+                "t": "p",
+                "x": "En su ponencia, Kim Hyun-sook, al frente del Instituto de Investigación de Propiedad Intelectual Digital, señaló que los creadores que declaran el uso de AI ven aplazado su registro en la gestión colectiva y no cobran regalías, mientras que si no lo declaran pueden cobrarlas. La propuesta pide criterios concretos que conecten registro, verificación, recaudación y distribución."
+              },
+              {
+                "t": "p",
+                "x": "Sobre los criterios de registro, Cho Sung-nam, responsable del área de gestión colectiva de la Asociación de Derechos de Autor Musicales de Corea, planteó el principio de \"si se declara, se registra; si se oculta, se sanciona\". La asociación prevé permitir el registro solo de las partes en las que se reconozca creatividad humana y, ante declaraciones falsas, retener los pagos de distribución y emprender acciones legales."
+              },
+              {
+                "t": "p",
+                "x": "No obstante, Cho añadió que introducir sanciones exige modificar los estatutos, una votación en la asamblea general y la aprobación del Ministerio de Cultura, Deportes y Turismo."
+              },
+              {
+                "t": "p",
+                "x": "La Asamblea Nacional también anunció que actuará. Lee dijo que se trabajará para actualizar el marco normativo de modo que no se quede atrás frente al cambio tecnológico, y Kim Jae-won subrayó: \"Lo importante no es si se usó AI, sino si una persona fue el sujeto de la creación\", y añadió: \"Ahora hay que encontrar respuestas concretas\"."
+              },
+              {
+                "t": "p",
+                "x": "Cuándo se corregirá un sistema en el que salen perdiendo los creadores que lo declaran con honestidad depende de los procedimientos internos de la asociación y del debate en la Asamblea Nacional."
               }
             ]
           }

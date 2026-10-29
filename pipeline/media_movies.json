@@ -1,32 +1,7 @@
-{
-  "date": "2026-10-29",
-  "section": "movies",
-  "media": [
-    {
-      "id": "seedance25-4k",
-      "type": "image",
-      "src": "pipeline/media/seedance25-4k.jpg"
-    },
-    {
-      "id": "jimengstudio",
-      "type": "image",
-      "src": "pipeline/media/jimengstudio.png"
-    },
-    {
-      "id": "oscarsai",
-      "type": "image",
-      "src": "pipeline/media/oscarsai.jpg"
-    },
-    {
-      "id": "rintaro",
-      "type": "video",
-      "src": "pipeline/media/rintaro.mp4",
-      "poster": "pipeline/media/rintaro.jpg"
-    },
-    {
-      "id": "atfaizone",
-      "type": "image",
-      "src": "pipeline/media/atfaizone.jpg"
-    }
-  ]
-}
+{"date":"2026-10-30","section":"movies","media":[
+ {"id":"beta-builder-aion-hybrid","type":"image","src":"pipeline/media/beta-builder-aion-hybrid.jpg"},
+ {"id":"apple-creator-studio-motionvfx","type":"image","src":"pipeline/media/apple-creator-studio-motionvfx.jpg"},
+ {"id":"agbo-tiffcom-shakespeare","type":"image","src":"pipeline/media/agbo-tiffcom-shakespeare.jpg"},
+ {"id":"curious-refuge-horror-2026","type":"video","src":"pipeline/media/curious-refuge-horror-2026.mp4","poster":"pipeline/media/curious-refuge-horror-2026.jpg"},
+ {"id":"karts-neverland-ai-anime","type":"image","src":"pipeline/media/karts-neverland-ai-anime.jpg"}
+]}

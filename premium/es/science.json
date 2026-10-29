@@ -9329,6 +9329,128 @@
           "x": "Exponential Time Hypothesis: la demostración de OpenAI ofrece un algoritmo para 3-SAT apenas un poco más rápido que el tiempo exponencial, lo que refuta la ETH. Russell Impagliazzo, Ramamohan Paturi y Ryan Williams trabajan con OpenAI en una investigación independiente. Apenas unas horas después del anuncio de OpenAI, Anthropic publicó su propio resultado independiente que refuta la ETH, basado en el trabajo de un modelo interno de Anthropic."
         }
       ]
+    },
+    "science/nyu-wildfire-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+          "cap": "Pronóstico del prototipo Digital Fire Twin de NYU, hecho unas tres horas antes del perímetro observado del Grasshopper Fire en Oregon: en azul, el perímetro previsto; en rojo, el real. Credit: NYU Tandon School of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de NYU Tandon Prabodh Panindre, Anandu Nair y Sunil Kumar han creado un prototipo de gemelo digital de incendios activos que actualiza sus pronósticos de propagación a medida que llegan nuevos datos de satélites, servicios meteorológicos, mapas de terreno y combustible, drones, sensores y equipos de campo. Los usuarios eligen la ubicación del incendio, el área de pronóstico y un horizonte temporal de hasta 12 horas, y una interfaz de AI en lenguaje sencillo responde preguntas sobre evacuación, cortafuegos y cambios de viento."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de depender sobre todo de datos históricos, el sistema combina un modelo de propagación del fuego basado en la física con una capa de AI. \"Nuestro sistema no se construye a partir de datos de entrenamiento. Se basa en la física\", dijo Kumar."
+        },
+        {
+          "t": "p",
+          "x": "En pruebas con tres incendios activos (el Grasshopper Fire de Oregon, el Widemouth 2 Fire de Utah y el Sacaton Fire de New Mexico), la superposición espacial con los perímetros observados alcanzó el 94.6% en una prueba del Grasshopper Fire y bajó al 72.4% en otra, tras un intervalo más largo entre observaciones satelitales. El modelo reprodujo los bordes irregulares de los perímetros reales."
+        },
+        {
+          "t": "p",
+          "x": "Sigue siendo un prototipo de investigación, aún no desplegado en incendios activos; el equipo quiere hacer más pruebas con departamentos de bomberos y agencias federales y ha presentado una solicitud provisional de patente en U.S."
+        }
+      ]
+    },
+    "science/radboud-fluent-hallucination": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de la Radboud University Marianna de Sá Siqueira, Barbara Müller y Tibor Bosse mostraron a los participantes conversaciones con un chatbot sobre The Lord of the Rings. Un chatbot fluido que daba respuestas falsas fue valorado tan inteligente y agradable como un chatbot escueto que respondía con precisión."
+        },
+        {
+          "t": "p",
+          "x": "Cerca del 80% de los participantes no detectó los errores, pese a que habían sido seleccionados por tener conocimientos básicos del libro. \"Si un texto suena elegante y natural, la gente le atribuye inteligencia automáticamente\", afirma Müller."
+        },
+        {
+          "t": "p",
+          "x": "Los autores sostienen que el lenguaje fluido hace que la gente confíe con demasiada facilidad en los resultados de la AI y que un aviso al inicio del chat no basta. Proponen que los chatbots expresen ellos mismos su incertidumbre, o que se obligue a las empresas a hacerla visible. El estudio aparece en Computers in Human Behavior: Artificial Humans (2026)."
+        }
+      ]
+    },
+    "science/google-sleep-continual-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+          "cap": "Un flujo de formas geométricas azules y luminosas se consolida en una esfera brillante de red neuronal interconectada."
+        },
+        {
+          "t": "p",
+          "x": "Ali Behrouz y Vahab Mirrokni, de Google Research, introducen una fase de sueño en el aprendizaje continuo que permite a los grandes modelos de lenguaje integrar de forma continua hechos nuevos y mejorar el razonamiento, a la vez que mitiga el olvido catastrófico o los cortes de conocimiento estáticos. Alternar entre la interacción activa y la consolidación de memoria fuera de línea permite a los LLMs adquirir hechos nuevos, retener conocimiento de contexto largo de hasta 10M tokens y mejorar el razonamiento complejo."
+        },
+        {
+          "t": "p",
+          "x": "En la fase activa (de vigilia), el modelo guarda información temporal en una memoria a corto plazo rápida. En la fase de sueño detiene las entradas nuevas: la consolidación de memoria desbloquea bloques de memoria Mixture-of-Experts preasignados y destila en ellos los recuerdos a corto plazo, y luego restablece los parámetros temporales; el soñar genera muestras sintéticas de práctica, las filtra y refina el modelo con las mejores."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+          "cap": "Esquema general del marco de sueño: Consolidation (consolidación) y Dreaming (soñar)."
+        },
+        {
+          "t": "p",
+          "x": "En traducción continua a lenguas no vistas, como el Manchu y el Kalamang, el marco mantuvo una caída de rendimiento casi nula. En SQuAD y en preentrenamiento continuo alcanzó el 48.9% y el 46.2%, y en AIME 24/25 y HMMT 25 el modelo base reforzado con sueño obtuvo el 79.2%, el 69.0% y el 46.1%, por encima de SFT, GRPO y OPSD."
+        }
+      ]
+    },
+    "science/yonsei-mamba-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Yonsei University han desarrollado un decodificador neuronal de corrección cuántica de errores (QEC) basado en la arquitectura de espacio de estados estructurado Mamba, que reduce la complejidad computacional de la decodificación por aprendizaje profundo de O(d4) a O(d2) en la distancia de código d. En una investigación publicada en npj Quantum Information, el modelo iguala la precisión de modelos basados en Transformer como AlphaQubit en pruebas experimentales de memoria."
+        },
+        {
+          "t": "p",
+          "x": "Los decodificadores Transformer comparan todos los tokens estabilizadores por pares, lo que produce un escalado O(d4) y retrasos acumulados que superan los límites de coherencia superconductora; Mamba sustituye la atención por capas selectivas de espacio de estados. En el conjunto de datos Sycamore de Google Quantum AI igualó la precisión de Transformer y mantuvo una ventaja en supresión de errores al contabilizar el ruido de latencia inducido por el decodificador, con una brecha que crecía de d = 3 a d = 9."
+        },
+        {
+          "t": "p",
+          "x": "Su uso práctico aún requiere trasladar el decodificador a FPGAs de baja latencia o ASICs a medida para ejecutar la inferencia dentro de presupuestos de ciclo inferiores al microsegundo."
+        }
+      ]
+    },
+    "science/nmr-spectrometer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+          "cap": "Niels Chr. Nielsen (izquierda), Filip V. Jensen y Anders Bodholt Nielsen (derecha) preparan una muestra para analizarla en el espectrómetro de NMR. Credit: Peter F. Gammelby, Aarhus University"
+        },
+        {
+          "t": "p",
+          "x": "Los espectrómetros de NMR pueden revelar la estructura molecular hasta el nivel atómico, pero las señales débiles limitan lo que pueden detectar. Investigadores de Aarhus University han usado AI para que el espectrómetro aprenda la mejor secuencia de pulsos directamente de la muestra."
+        },
+        {
+          "t": "p",
+          "x": "Solo un exceso muy pequeño de espines nucleares apunta en un sentido y no en el otro, por lo que la señal es débil. \"La NMR tiene la misma desventaja que los escáneres de MRI: es relativamente poco sensible\", dice el Prof. Niels Chr. Nielsen. Los electrones tienen un momento magnético unas 660 veces mayor que el de un protón, y en la polarización nuclear dinámica (DNP) los pulsos de microondas transfieren parte de su orden a los núcleos. Pero con cientos o miles de espines que interactúan, la secuencia de pulsos ideal es muy difícil de calcular de antemano, y los modelos pueden pasar por alto imperfecciones reales del instrumento."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+          "cap": "El espectrómetro aprende de la muestra: las señales medidas se envían de vuelta a un algoritmo de optimización bayesiana (Bayesian optimization). Credit: Filip V. Jensen, Aarhus University / Science Advances"
+        },
+        {
+          "t": "p",
+          "x": "El equipo conectó un espectrómetro de DNP de fabricación propia a un algoritmo de aprendizaje automático basado en optimización bayesiana (Bayesian optimization). Este prueba una secuencia de pulsos en la muestra, mide el resultado, aprende de él y propone el siguiente experimento. \"Lo nuevo es que dejamos que el espectrómetro aprendiera por sí mismo a realizar los mejores experimentos\", dice el primer autor, Filip V. Jensen."
+        },
+        {
+          "t": "p",
+          "x": "En un sistema de espines más simple, el algoritmo igualó a algunos de los mejores enfoques existentes; en uno más complejo, logró un aumento de señal alrededor de un 70% mayor que el del método de referencia. Cada optimización tardó desde poco menos de dos días hasta casi cinco, pero una secuencia que funciona puede reutilizarse. El estudio de prueba de concepto, publicado en Science Advances, podría ayudar a los sensores cuánticos basados en resonancia magnética."
+        }
+      ]
     }
   }
 }

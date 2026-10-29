@@ -2663,6 +2663,130 @@
           "x": "회수한 정자를 ICSI나 동결 보존에 쓴 사례에서 STAR로 찾은 정자는 최소 세 건의 출산으로 이어졌다. 걸림돌은 사용 편의성이다. STAR를 돌리려면 고도로 훈련된 기술자가 있어야 한다."
         }
       ]
+    },
+    "medicine/nature-cancer-irae-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "면역 관련 이상반응(irAEs)은 면역관문억제제를 투여받는 환자의 최대 40%에서 나타난다. 그런데 이를 찾으려면 손이 많이 들고 결과도 들쭉날쭉한 수작업 차트 검토에 기대야 한다. 저자들은 에이전트형 대규모 언어모델 시스템을 만들어 평가했다. 임상 기록에서 여섯 가지 irAE 유형의 유무와 시간적 관계, 중증도 등급, 인과 귀속, 확실성을 뽑아내는 시스템이다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+          "cap": "Fig. 1: LLM-based 에이전트형 irAE 탐지 시스템을 여러 차원에서 검증하는 프레임워크."
+        },
+        {
+          "t": "p",
+          "x": "후향적 평가에서 시스템은 현재 이벤트 탐지 매크로 평균 F1 0.92, 다중 클래스 중증도 등급 분류 0.66을 기록했다. 자기일관성 기법을 더하자 F1이 0.14 올랐다. 가장 성능이 좋은 구성은 기록 한 건에 약 US$0.02가 들었다. 3개월 동안 전향적 무표시 배치를 했을 때 이진 F1은 0.72–0.79였다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+          "cap": "Fig. 2: irAE 탐지와 등급 분류, 인과 귀속, 확실성 평가를 맡는 다단계 에이전트형 아키텍처."
+        },
+        {
+          "t": "p",
+          "x": "임상시험 인력이 참여한 무작위 교차 연구에서는 에이전트의 도움을 받자 주석 작업 시간이 2.71분 줄었다(P < 0.001). 완전 일치 정확도도 높아졌고(오즈비 1.45; 95% 신뢰구간 1.01–2.08; P = 0.045) 주석자 간 일치도는 Krippendorff's α 0.22–0.51에서 0.82–0.85로 올랐다."
+        }
+      ]
+    },
+    "medicine/nyu-langone-openevidence-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenEvidence가 NYU Langone Health와 손잡고 New York City에서 입지를 넓힌다. 이 AI 기반(AI-powered) 임상 근거 플랫폼은 NYU Langone의 Epic EHR 워크플로에 바로 들어가 병원과 외래 네트워크, Family Health Centers 전체에 깔린다. NYU Grossman School of Medicine과 NYU Grossman Long Island School of Medicine에서 수련하는 의사들도 쓰게 된다. NYU Langone의 외래 방문은 한 해 1200만 건이 넘고 의사와 교수진은 6,000명을 웃돈다."
+        },
+        {
+          "t": "p",
+          "x": "임상의는 Epic 워크플로 안에서 복잡한 임상 질문을 자연어로 묻는다. 답은 동료 심사를 거친 의학 문헌에 근거하되 환자 본인의 임상 기록에 비춰 나온다. 창업자이자 CEO인 Daniel Nadler는 “NYU Langone의 차트 안에 OpenEvidence를 넣는다는 것은 이 시스템이 해마다 지원하는 천이백만 건의 진료 하나하나마다 세계의 의학 문헌이 그 자리에 함께한다는 뜻”이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 U.S. 의사의 약 삼분의 이가 자사 플랫폼을 쓴다고 밝혔다. 10월에는 검증된 U.S. 임상의 120만 명이 4500만 회 이용했다. NewYork-Presbyterian과 Mount Sinai에는 이미 들어갔고 Memorial Sloan Kettering과는 종양학 분야에서 손을 잡았다. JAMA 연구에 따르면 2024년 1월부터 2026년 6월까지 100만 명 가까운 U.S. 임상의가 2억7100만 건을 질의했다. 이 가운데 51.9%가 임상 의사결정과 관련된 질문이었다."
+        }
+      ]
+    },
+    "medicine/doximity-dosing-error-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Doximity가 공개한 연구에서 자사 용량 검증 도구가 범용 AI 모델을 앞섰다. Doximity는 범용 모델에 오류가 넘쳐난다고 본다. 시험에는 2026년에 나온 대규모 언어 모델 몇 개와 FDA-approved(FDA 승인) 약물 2,200종 이상을 다루는 임상 용량 질문 8,500개 이상이 쓰였다고 Doximity는 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "새로 승인된 약물은 오류가 날 확률이 다섯 배 높았다. 찾아낸 오류 가운데 13.2%는 경미했고 43%는 중대했으며 3.4%는 치명적일 수 있었다. 가장 흔한 실수는 질문에 관련 정보가 있었는데도 나이와 신장 기능, 약물 상호작용에 맞춰 용량을 조정하지 않은 것이었다."
+        },
+        {
+          "t": "p",
+          "x": "Doximity는 새 검증 도구 DoseCheck가 99.9%의 경우 정확했다며 이를 Doximity Ask 안의 안전망으로 내세운다. Doximity의 최고 AI 연구자 Dr. Louis-Antoine Mullie는 \"우리가 본 실패 양상은 용량에만 국한되지 않는다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic과 OpenAI가 의료 분야에 뛰어드는 와중에 나온 연구다. 결과는 엇갈린다. Stanford와 Harvard 연구진은 임상 특화 도구가 범용 모델을 앞섰다고 밝혔지만 올여름 다른 연구팀은 정반대 결과를 내놨다."
+        }
+      ]
+    },
+    "medicine/hoppr-msk-xray-drafting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+          "cap": "대퇴골과 경골, 비골, 슬개골이 드러난 사람 무릎 관절 전후면 X-ray 영상"
+        },
+        {
+          "t": "p",
+          "x": "HOPPR가 FS MSK Whole-Body Narrative Model 베타 버전을 내놓는다. 검사 한 건에 영상을 최대 세 장까지 받아 근골격계(MSK) 방사선 사진의 소견 초안을 써 주는 비전-언어 파운데이션 모델이다."
+        },
+        {
+          "t": "p",
+          "x": "업체에 따르면 이 모델은 척추, 흉곽과 흉벽, 상지, 골반과 하지를 아우르는 외래 MSK 검사 약 674,000건으로 학습했다. 정상 해부 구조보다는 이상 소견을 적는 데 무게를 둔다. HOPPR는 골절, 퇴행성 관절·척추 변화, 정렬, 금속 고정물 등 26개 MSK 소견 범주로 모델을 평가했다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "회사 설명으로는 영상의학 판독 보고와 워크플로 애플리케이션을 만드는 개발자용 소프트웨어 구성요소다. 기관마다 다른 데이터와 워크플로에 맞춰 HOPPR의 Forward Deployed Services 팀이 맞춤화하고 통합한다. 회사는 이 모델이 미국 식품의약국(U.S. Food and Drug Administration, FDA)의 승인을 받지 않았으며 진단용도 아니라고 밝혔다."
+        }
+      ]
+    },
+    "medicine/medicine-zocdoc-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "온라인 진료 예약 기업 Zocdoc이 AI 에이전트가 환자 대신 의료진을 찾고 진료를 예약하도록 길을 열었다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 수요일, 에이전트가 접근하려면 Zocdoc에 등록해야 하고 온라인 플랫폼에서 예약을 잡거나 취소하기 전에 환자 동의를 받아야 한다고 밝혔다. Google Gemini, Amazon Health AI, 문자·전화로 움직이는 AI 에이전트 Instinct가 이미 연결됐다. 다른 에이전트도 사람의 도움 여부와 상관없이 접근을 신청할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Zocdoc 창업자이자 CEO인 Dr. Oliver Kharraz는 “우리처럼 에이전트를 반기는 방식은 다소 역발상적인 행보라고 말하고 싶다”고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+          "cap": "Zocdoc은 칠월 이후 자사 플랫폼의 AI 에이전트 트래픽이 30배 가까이 늘었다고 밝혔다. 이제 예약 플랫폼을 에이전트에 직접 개방한다."
+        },
+        {
+          "t": "p",
+          "x": "승인된 에이전트는 Zocdoc의 AI 백엔드에 붙어 의료진 목록을 살피고, 진료 가능 시간과 보험을 확인한 뒤 진료를 예약할 수 있다. 최종 결정 전에는 환자에게 확인을 받는다."
+        },
+        {
+          "t": "p",
+          "x": "대신 Zocdoc은 에이전트가 환자 동의를 받고 환자·의료진 데이터를 보호하기를 기대한다. 에이전트는 이 데이터로 스스로를 학습시키거나 재판매하거나 재게시할 수 없다. 이 약속을 어떻게 지키게 할지는 Zocdoc이 구체적으로 밝히지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Kharraz는 “우리의 사명은 환자에게 힘을 주는 것이다. 환자가 예약을 AI 에이전트에 맡기고 싶다면, 우리는 그들이 원하는 마찰 없는 진료 접근을 제공해야 한다”고 말했다."
+        }
+      ]
     }
   }
 }

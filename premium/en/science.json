@@ -9579,6 +9579,128 @@
           "x": "Exponential Time Hypothesis: OpenAI's proof gives a 3-SAT algorithm just a tiny bit faster than exponential time, refuting ETH. Russell Impagliazzo, Ramamohan Paturi and Ryan Williams are working with OpenAI on an independent investigation. Mere hours after OpenAI's announcement, Anthropic posted its own independent result disproving ETH, based on work by an internal Anthropic model."
         }
       ]
+    },
+    "science/nyu-wildfire-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+          "cap": "NYU's Digital Fire Twin prototype forecast, made about three hours before the observed perimeter of the Grasshopper Fire in Oregon: blue is the predicted perimeter, red the actual one. Credit: NYU Tandon School of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "NYU Tandon researchers Prabodh Panindre, Anandu Nair and Sunil Kumar have built a prototype digital twin of active wildfires that updates its spread forecasts as new data arrives from satellites, weather feeds, terrain and fuel maps, drones, sensors and field crews. Users pick a fire location and forecast area and a time horizon of up to 12 hours, and a plain-language AI interface answers questions about evacuation, firebreaks and wind shifts."
+        },
+        {
+          "t": "p",
+          "x": "Rather than relying mainly on historical data, the system pairs a physics-based fire-spread model with an AI layer. \"Our system is not built from training data. It is grounded in physics,\" Kumar said."
+        },
+        {
+          "t": "p",
+          "x": "In tests on three active fires — Oregon's Grasshopper Fire, Utah's Widemouth 2 Fire and New Mexico's Sacaton Fire — spatial overlap with observed perimeters reached 94.6% in one Grasshopper Fire test, dropping to 72.4% in another after a longer gap between satellite observations. The model reproduced the irregular edges of real fire perimeters."
+        },
+        {
+          "t": "p",
+          "x": "It remains a research prototype, not yet deployed on active fires; the team wants more testing with fire departments and federal agencies and has filed a provisional U.S. patent."
+        }
+      ]
+    },
+    "science/radboud-fluent-hallucination": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Radboud University researchers Marianna de Sá Siqueira, Barbara Müller and Tibor Bosse showed participants chatbot conversations about The Lord of the Rings. A fluent chatbot that gave false answers was rated as intelligent and pleasant as a terse chatbot that answered accurately."
+        },
+        {
+          "t": "p",
+          "x": "About 80% of participants did not notice the errors, even though they had been selected for basic knowledge of the book. \"If a text sounds elegant and natural, people automatically attribute intelligence to it,\" Müller says."
+        },
+        {
+          "t": "p",
+          "x": "The authors argue that fluent language makes people trust AI output too readily and that a disclaimer at the start of a chat is not enough. They suggest chatbots express uncertainty themselves, or that companies be required to make uncertainty visible. The study appears in Computers in Human Behavior: Artificial Humans (2026)."
+        }
+      ]
+    },
+    "science/google-sleep-continual-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+          "cap": "A flowing stream of glowing blue geometric shapes consolidates into a bright, interconnected neural network sphere."
+        },
+        {
+          "t": "p",
+          "x": "Ali Behrouz and Vahab Mirrokni of Google Research introduce a sleep phase in continual learning, enabling large language models to continuously integrate new facts and enhance reasoning while mitigating catastrophic forgetting or static knowledge cutoffs. Alternating between active interaction and offline memory consolidation lets LLMs acquire new facts, retain long-context knowledge up to 10M tokens, and improve complex reasoning."
+        },
+        {
+          "t": "p",
+          "x": "In the active (wake) phase the model stores temporary information in fast, short-term memory. In the sleep phase it pauses new inputs: memory consolidation unlocks pre-allocated Mixture-of-Experts memory blocks and distills short-term memories into them, then resets the temporary parameters; dreaming generates synthetic practice samples, filters them and refines the model on the best."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+          "cap": "Overview of the sleep framework: Consolidation and Dreaming."
+        },
+        {
+          "t": "p",
+          "x": "In continual translation on unseen languages such as Manchu and Kalamang, the framework kept a near-zero performance drop. On SQuAD and continued pre-training it reached 48.9% and 46.2%, and on AIME 24/25 and HMMT 25 the sleep-enhanced base model scored 79.2%, 69.0% and 46.1%, outperforming SFT, GRPO and OPSD."
+        }
+      ]
+    },
+    "science/yonsei-mamba-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Yonsei University have developed a neural quantum error correction (QEC) decoder based on the Mamba structured state-space architecture, reducing the computational complexity of deep-learning decoding from O(d4) to O(d2) in code distance d. In research published in npj Quantum Information, the model matches the accuracy of Transformer-based models such as AlphaQubit on experimental memory benchmarks."
+        },
+        {
+          "t": "p",
+          "x": "Transformer decoders compare all stabilizer tokens pairwise, yielding O(d4) scaling and latency backlogs beyond superconducting coherence limits; Mamba replaces attention with selective state-space layers. On the Google Quantum AI Sycamore dataset it matched Transformer accuracy and kept an error-suppression advantage when decoder-induced latency noise was counted, with the gap growing from d = 3 through d = 9."
+        },
+        {
+          "t": "p",
+          "x": "Practical use still requires porting the decoder onto low-latency FPGAs or custom ASICs to run inference within sub-microsecond cycle budgets."
+        }
+      ]
+    },
+    "science/nmr-spectrometer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+          "cap": "Niels Chr. Nielsen (left), Filip V. Jensen and Anders Bodholt Nielsen (right) prepare a sample for analysis in the NMR spectrometer. Credit: Peter F. Gammelby, Aarhus University"
+        },
+        {
+          "t": "p",
+          "x": "NMR spectrometers can reveal molecular structure down to the atomic level, but weak signals limit what they can detect. Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample."
+        },
+        {
+          "t": "p",
+          "x": "Only a very small excess of nuclear spins points one way rather than the other, so the signal is weak. \"NMR has the same disadvantage as MRI scanners: it is relatively insensitive,\" says Prof. Niels Chr. Nielsen. Electrons have a magnetic moment about 660 times larger than a proton's, and in dynamic nuclear polarization (DNP) microwave pulses transfer some of their order to the nuclei. But with hundreds or thousands of interacting spins, the ideal pulse sequence is very hard to calculate in advance, and models may miss real instrument imperfections."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+          "cap": "The spectrometer learns from the sample: measured signals are fed back to a Bayesian optimization algorithm. Credit: Filip V. Jensen, Aarhus University / Science Advances"
+        },
+        {
+          "t": "p",
+          "x": "The team connected a home-built DNP spectrometer to a machine-learning algorithm based on Bayesian optimization. It tests a pulse sequence on the sample, measures the result, learns from it and proposes the next experiment. \"What is new is that we let the spectrometer learn for itself how to perform the best experiments,\" says first author Filip V. Jensen."
+        },
+        {
+          "t": "p",
+          "x": "In a simpler spin system the algorithm matched some of the best existing approaches; in a more complex one it gave about 70% greater signal enhancement than the reference method. Each optimization took from just under two days to almost five days, but a working sequence can be reused. The proof-of-concept study, published in Science Advances, could help magnetic-resonance-based quantum sensors."
+        }
+      ]
     }
   }
 }

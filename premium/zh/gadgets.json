@@ -9314,6 +9314,157 @@
           "x": "上手需要一台运行Ollama 0.40.11或更高版本的Apple Silicon Mac。英语模型可依据Apache 2.0免费使用，而法语、德语、西班牙语、葡萄牙语和多语种模型仅限非商业用途。"
         }
       ]
+    },
+    "gadgets/raycast-ios-keyboard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Raycast希望你的iPhone键盘不只是用来打字发消息。其全新的iOS主键盘将日常输入与AI工具、语音听写、GIF搜索和文本快捷方式结合在一起。最大的变化是，使用Raycast的效率功能时不再需要切换键盘。"
+        },
+        {
+          "t": "p",
+          "x": "Raycast起初尝试了另一种做法：大约一年前推出了一款辅助键盘，它更像一个伴侣工具，只在需要其功能时才切换过去。"
+        },
+        {
+          "t": "p",
+          "x": "新的主键盘如今能够媲美iPhone原生键盘的体验，同时在其之上叠加Raycast的工具。你可以使用完整的滑动输入和自动纠错，使用直接从Mac同步的风格进行听写，在任何应用中通过前缀字符触发片段扩展，还能随时插入Quicklinks。此外还有可自定义的常用AI命令操作栏、智能表情搜索、GIF搜索，以及五种不同的视觉主题可供选择。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+          "cap": "iOS版Raycast。"
+        },
+        {
+          "t": "p",
+          "x": "该键盘目前仅支持英语，但更多语言的支持已在开发中。Apple要求第三方键盘在听写时短暂跳转到自己的应用，然后再返回原应用。你需要Raycast 1.1.0版本才能使用新键盘，该版本还包含七项错误修复。"
+        }
+      ]
+    },
+    "gadgets/android-xr-cli-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+          "cap": "搭载Android XR的Gentle Moster智能眼镜"
+        },
+        {
+          "t": "p",
+          "x": "在2026 Android Dev Summit上，Google宣布了面向Android XR和Android CLI的一些有趣新功能。开发者如今无需拥有硬件即可为智能眼镜构建和测试应用，而Android的命令行工具也迎来升级，帮助AI编程智能体测试应用并找出性能问题。"
+        },
+        {
+          "t": "p",
+          "x": "Android Studio中的Android XR模拟器已进入稳定版，开发者可以直接在电脑上模拟不同类型的智能眼镜。核心Jetpack XR SDK库也已稳定，Google还新增了Geospatial APIs，让开发者能够把数字对象锚定到现实世界中的位置。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+          "cap": "Google Audio眼镜"
+        },
+        {
+          "t": "p",
+          "x": "使用Unity、Godot和Unreal的开发者还将获得稳定版Android XR Engine Hub，用于辅助性能分析。Google在发布这些更新的同时推出了XREAL AURA，称其为首款搭载Android XR的有线XR眼镜。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+          "cap": "Android Studio界面，显示编程智能体选择菜单，包括Claude Agent、OpenAI Codex、Google Antigravity和内置智能体。"
+        },
+        {
+          "t": "p",
+          "x": "Google还升级了Android CLI，让AI编程智能体不只是生成代码。智能体现在可以通过Android Device Streaming在真实Android设备上远程测试应用，并在不启动模拟器的情况下生成Jetpack Compose预览。此外还有用于识别应用启动缓慢、动画卡顿和不必要后台活动的工具，以及应用质量检查和30多项Android技能，涵盖安全、小组件和性能优化等领域。"
+        }
+      ]
+    },
+    "gadgets/strava-gemini-insights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Strava本周扩大了与Google Gemini的AI集成，让订阅用户能够根据自己的运动记录获得个性化洞察。"
+        },
+        {
+          "t": "p",
+          "x": "几个月前，Strava推出了基于Model Context Protocol（MCP）的Claude集成，用户可以通过与Anthropic的AI助手进行自然语言对话，分析自己的运动记录和训练表现。MCP是一项开放标准（由Anthropic创建，后捐赠给Linux Foundation旗下的Agentic AI Foundation），可让AI助手连接外部应用和服务。"
+        },
+        {
+          "t": "p",
+          "x": "据该公司介绍，Strava订阅用户中“将Strava直接连接到Gemini的用户，将获得基于其活动记录、更具情境性和个性化的回答”。该公司补充说，这项集成完全可选，且为只读。"
+        },
+        {
+          "t": "p",
+          "x": "连接后，用户可以向Gemini提问，例如“在相同心率下我是不是变快了？”“你能详细分析一下我上一场比赛的表现吗？”“我今年最快的10K 成绩和历史最快相比如何？”以及“周六长距离跑时，高温让我慢了多少？”"
+        },
+        {
+          "t": "p",
+          "x": "该功能首先仅在US（美国）推出，无论使用哪种Gemini方案，Strava订阅用户均可使用。Strava尚未宣布何时扩展到其他国家。"
+        }
+      ]
+    },
+    "gadgets/google-home-gemini-fix-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+          "cap": "google assistant 智能显示屏 nest hub"
+        },
+        {
+          "t": "p",
+          "x": "Google最新的Gemini for Home更新解决了几个问题，其中之一是音箱会在无人询问时突然冒出一句“我没听懂”。"
+        },
+        {
+          "t": "p",
+          "x": "Google今天发布了十月的第二次Gemini for Home更新。此次更新包含若干修复，更新日志中还有很长一部分专门介绍Google Home应用。"
+        },
+        {
+          "t": "p",
+          "x": "不过，Home应用中针对Gemini的单独改动共有六项，其中有一项修复最为突出。根据更新说明，Google已经知道Home和Nest音箱/显示屏存在一个漏洞，会让它们随机说出“抱歉，我没听懂”。这种情况在无人提示时发生，难免让人有些不安。这个奇怪的漏洞应该会在此次新更新中得到修复。"
+        },
+        {
+          "t": "p",
+          "x": "此外，有两项修复针对Gemini在Google Home设备上理解用户的能力。其一，它会误解把音乐从一个房间移到另一个房间的请求。其二，它会错误地调整睡眠、媒体或普通计时器，而不是用户要求的类型。据称这两项功能今后都将按预期工作。"
+        },
+        {
+          "t": "p",
+          "x": "更新日志还让智能显示屏上的YouTube TV指令更加可靠，让跨房间的音量控制更可预测，并修复了闹钟和计时器音量被设为零的漏洞。"
+        },
+        {
+          "t": "p",
+          "x": "更新从今天开始向用户推送，但可能需要一段时间才能覆盖所有人。希望今后Gemini只在真正没听懂时才告诉你它没听懂。"
+        }
+      ]
+    },
+    "gadgets/gadgets-echo-studio-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+          "cap": "放在桌上的Amazon Echo Studio with Home Camera"
+        },
+        {
+          "t": "p",
+          "x": "自2019年首次亮相以来，Amazon的Echo Studio一直面向希望Alexa智能音箱拥有更出色音质的用户。最新款Echo Studio又增加了一个不太寻常的差异点：内置摄像头。与标准版Echo Studio相比，它在音频方面的升级不多，尽管新款塞进了一颗13MP 摄像头，两款设备的尺寸却完全相同。"
+        },
+        {
+          "t": "p",
+          "x": "这款音箱可以借助摄像头判断你的位置并调节音量，“让你走动时音乐或有声书始终保持相同音量”。Amazon还认为，有人会把它当作智能摄像头，远程查看房间情况。Amazon在公告中表示：“Alexa还能看懂摄像头前的事物，并实时为你提供帮助。拿出一盒桌游，让Alexa+讲解规则；或者举起一盒麦片，Alexa就能认出它，并帮你再订购更多口味。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+          "cap": "用手机查看Echo Studio with Home Camera的摄像头画面。"
+        },
+        {
+          "t": "p",
+          "x": "专用按钮可关闭麦克风和摄像头，向云端传输画面时内置LED会亮起。考虑到Amazon在Ring摄像头上的过往，一些注重隐私的用户可能会选择不带摄像头的替代产品。Echo Studio With Home Camera售价$250，比无摄像头版本贵$30。"
+        }
+      ]
     }
   }
 }
