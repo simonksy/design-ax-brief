@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "AI 쓴 소설, 상 앞에 서다",
+    "date": "2026.10.29",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Bookseller 10.21→10.20, CBC 10.22→10.21, Times Now 10.25→10.23, Caretas 10.29→10.23). 사진은 Silva Rojas 한 장만 두고 나머지는 stat. Prix Pascal 도구·방법 공개 조건, Pangram 100%·Fnac 수상일, 370권·2025년 2월·혐오 메시지 수만 통, 99%·20,000유로·Almadía 금지 규정 확인. Bookseller 본문은 유료라 설명문으로만 확인.",
+    "sources": [
+      "The Bookseller — New literary prize Prix Pascal launches in France for manuscripts written with AI (2026.10.20)",
+      "CBC News — Publisher cuts ties with Quebec author accused of AI use in award-winning novel (2026.10.21)",
+      "Times Now — 370 Books In 20 Months Has Made This Author Famous For All The Wrong Reasons (2026.10.23)",
+      "Caretas — Escritor peruano es acusado de presentar obra con 99% de IA a concurso donde ganó un premio de 20.000 euros (2026.10.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 10.20~10.23",
+      "thread": [
+        {
+          "d": "10.20",
+          "t": "공개 조건",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.21",
+          "t": "결별",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.23",
+          "t": "370권",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.23",
+          "t": "99% 판정",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "작가가 AI 사용을 밝히지 않으면, 탐지기가 대신 밝힌다",
+      "eyebrow": "흐름 · 책",
+      "headline": "AI 쓴 소설,\n상 앞에 서다",
+      "body": "한 건씩 보면 작가 한 명의 스캔들이다. 나란히 놓으면 문학상이 AI를 밝히게 하거나 탐지기로 거르는 갈림길에 섰다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.20",
+      "headline": "밝히면 받는 상",
+      "body": "프랑스 새 문학상 Prix Pascal은 AI로 쓴 원고에 상을 준다. 조건은 쓴 도구와 방법을 공개하는 것.",
+      "foot": "2026.10.20",
+      "_src": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+      "_id": "books-prix-pascal-ai-manuscripts",
+      "stat_top": "AI로 쓴 원고",
+      "stat_arrow": "응모 조건은 하나",
+      "stat_bottom": "도구·방법 공개",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.21",
+      "headline": "부인했지만 결별",
+      "body": "Fnac 소설상을 받은 날 Pangram 판정이 퍼졌다. 집필 과정 확인이 무산되자 Boréal은 Orélien 책을 더 내지 않는다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+      "_id": "books-boreal-orelien",
+      "stat_top": "Prix du roman Fnac",
+      "stat_arrow": "수상 당일 Pangram 판정",
+      "stat_bottom": "100% AI",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.23",
+      "headline": "밝히고 370권",
+      "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 냈다고 밝혔다. 돌아온 건 혐오 메시지 수만 통과 살해 위협.",
+      "foot": "2026.10.23",
+      "_src": "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358",
+      "_id": "books-coral-hart-370-ai-books",
+      "stat_top": "2025년 2월부터",
+      "stat_arrow": "AI로 펴낸 책",
+      "stat_bottom": "370권+",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "AI 금지한 상,\n99% 판정작에",
+      "body": "AI를 금한 Almadía 상 2만 유로를 받은 Silva Rojas 소설을 Pangram이 99% AI로 봤다. 작가는 부인한다.",
+      "foot": "2026.10.23",
+      "_src": "https://caretas.pe/?p=840777",
+      "_id": "silva-rojas",
+      "media": "pipeline/media/silva-rojas.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

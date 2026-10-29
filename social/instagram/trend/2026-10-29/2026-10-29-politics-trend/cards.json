@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "issue": "선거 앞의 AI 합성물, 규칙은 뒤따른다",
+    "date": "2026.10.29",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 5건 대조(Axios·Channels는 Cloudflare 차단이라 10-24·10-28 enrich 전문으로 확인): 날짜를 원문 게재일로 고침(Axios 10.22, Guardian 10.23 BST, Tribune 10.26, Channels 10.27, AP 10.28)·시간순 재배열. 220건·$137M(Wesleyan, 10.11까지), 조회 약 200만, 11월 20일, 12월 15일, 후보 2명·X 삭제 확인. 사진은 AP 투표소 1장만, 나머지 stat/quote. 주장은 모두 주체에 귀속.",
+    "sources": [
+      "Axios Seattle — Washington Democrats allege PAC mailer broke AI election law (2026.10.22)",
+      "The Guardian — Opposition deepfake video of Spanish PM's wife sparks outrage before election (2026.10.23)",
+      "The Express Tribune — ECP proposes rule amendments to curb AI misuse during polls (2026.10.26)",
+      "Channels Television — INEC probes suspected AI-generated photos in voters' register (2026.10.27)",
+      "Associated Press (via Pioneer Press) — AI videos linked to Russia misuse real identities to target Senate candidates (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 10.22~10.28",
+      "thread": [
+        {
+          "d": "10.22",
+          "t": "우편물",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.23",
+          "t": "야당 영상",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.26",
+          "t": "규칙안",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.27",
+          "t": "명부 사진",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.28",
+          "t": "도용 영상",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI 합성물은 이미 선거 현장에 닿았고, 규칙은 한발 늦게 따라온다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "선거 앞의 AI 합성물\n규칙은 뒤따른다",
+      "body": "한 건씩 보면 한 나라의 소동이다. 그런데 이레 사이 미국·스페인·파키스탄·나이지리아에서 같은 질문이 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.22",
+      "headline": "고지 없는 합성 논란",
+      "body": "워싱턴주 상원 민주당 측은 공화당 계열 PAC 우편물이 고지 없이 후보 사진을 조작했다고 주장한다. PAC 측은 흔한 우편물이라 반박.",
+      "foot": "2026.10.22",
+      "_src": "https://www.axios.com/local/seattle/2026/10/22/mailer-michael-shepard-ai-letter-washington-election-law",
+      "_id": "politics-washington-pac-ai-mailer",
+      "stat_top": "미국 전역 AI 생성 광고",
+      "stat_arrow": "10월 11일까지 · Wesleyan Media Project",
+      "stat_bottom": "220건 · $137M",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.23",
+      "headline": "표기는 작고 조회는 200만",
+      "body": "스페인 국민당(PP)이 사회당 측 인사들의 딥페이크 광고를 올렸다. AI 표기는 아주 작았고, 조회는 금요일까지 약 200만 회였다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "_id": "politics-spain-deepfake-video",
+      "quote": "AI에 익숙하지 않은 사람은\n누구나 그 영상을\n현실과 혼동하기 쉽다",
+      "quote_by": "Óscar López 스페인 디지털전환부 장관 · TVE"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "선관위가 먼저 규칙을",
+      "body": "파키스탄 선관위(ECP)는 언론에 AI 콘텐츠 표기를 요구하고 후보·공직자를 겨냥한 기만적 딥페이크를 금지하는 개정안을 냈다.",
+      "foot": "2026.10.26",
+      "_src": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
+      "_id": "pakistan-ecp-ai",
+      "stat_top": "AI 표기·딥페이크 금지안",
+      "stat_arrow": "의견 수렴 마감",
+      "stat_bottom": "11월 20일",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.27",
+      "headline": "명부 속 사진도 의심",
+      "body": "나이지리아 INEC은 온라인에 올린 예비 선거인명부의 AI-generated 의심 사진을 조사 중이다. 명부 확정은 12월 15일.",
+      "foot": "2026.10.27",
+      "_src": "https://www.channelstv.com/2026/10/27/inec-probes-suspected-ai-generated-photos-in-voters-register/",
+      "_id": "inec-voter-photos",
+      "quote": "기술적·절차적 허점\n가능성을 포함해\n경위를 살피고 있다",
+      "quote_by": "INEC 성명 · Channels Television"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "실존 인물 빌린 AI 영상",
+      "body": "AP는 러시아 연계로 보이는 AI 영상이 실존 인물 이름·사진으로 민주당 상원 후보 둘을 겨냥했다고 전했다. X는 첫 게시물을 내렸다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
+      "_id": "ap-ai-disinfo-videos",
+      "media": "pipeline/media/ap-ai-disinfo-videos.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "판독실 AI, 현장서 재다",
+    "date": "2026.10.29",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조(AuntMinnie 3건은 Cloudflare 차단이라 10-27·10-28 enrichment 본문으로, npj는 curl 초록으로): κ 0.71→0.61, 370장·170건 중 83건·61.6%, 214→201분, 2,496건·11건 교정/1건 오류·97.6→98.0% 확인. 날짜는 아카이브 카드 날짜(npj 온라인 게재는 10.27). 사진은 2·4장만, 3·5장은 stat.",
+    "sources": [
+      "AuntMinnie — AI fails to compensate for night-shift fatigue among residents (2026.10.27)",
+      "AuntMinnie — ChatGPT-5 misses half of distal radius fractures on x-rays (2026.10.28)",
+      "AuntMinnie — SIIM-CAIMI: AI triaging for ICH leads to faster turnaround times (2026.10.28)",
+      "npj Digital Medicine — Radiographer fracture detection with and without AI assistance in prospective emergency department use (2026.10.27)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 10.27~10.29",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "야간 피로",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.28",
+          "t": "챗봇 골절",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.28",
+          "t": "뇌출혈",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.29",
+          "t": "응급 골절",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "판독실에 들어간 AI의 몫은 생각보다 작고 조건이 붙는다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "판독실 AI, 현장서 재다",
+      "body": "한 편만 보면 예외로 넘긴다. 사흘 새 네 건이 실제 판독에서 AI를 쟀고, 이득은 작거나 조건부였다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.27",
+      "headline": "지친 전공의, AI도 못 살려",
+      "body": "야간 근무 뒤 지친 전공의 6명의 흉부 x-ray 정확도는 κ 0.71→0.61. AI 보조로도 근무 전 수준을 못 되찾았다.",
+      "foot": "2026.10.27",
+      "_src": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents",
+      "_id": "medicine-night-shift",
+      "media": "pipeline/media/medicine-night-shift.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "챗봇은 골절 절반 놓쳐",
+      "body": "손목 x-ray 370장을 ChatGPT-5에 '골절 있나'만 물었다. 골절 170건 중 83건을 놓쳤고 정확도는 61.6%.",
+      "foot": "2026.10.28",
+      "_src": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
+      "_id": "medicine-chatgpt5-fracture",
+      "stat_top": "골절 170건",
+      "stat_arrow": "ChatGPT-5가 놓친 골절",
+      "stat_bottom": "83건",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "뇌출혈 판독, 13분 당겼다",
+      "body": "UW AI 트리아지로 뇌출혈 CT 보고 시간 중앙값이 214분에서 201분으로. 발표자는 상관관계만 본 초기 단계라 했다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
+      "_id": "medicine-ich-triage",
+      "media": "pipeline/media/medicine-ich-triage.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "AI 도움, 순이익 10건",
+      "body": "응급실 방사선사 13명이 2,496건을 읽었다. AI 보조로 오류 11건을 고치고 1건을 새로 만들었다.",
+      "foot": "2026.10.29",
+      "_src": "https://www.nature.com/articles/s41746-026-03313-x",
+      "_id": "medicine-ed-fracture-ai",
+      "stat_top": "방사선사 정확도 97.6%",
+      "stat_arrow": "AI 보조를 받은 뒤",
+      "stat_bottom": "98.0%",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

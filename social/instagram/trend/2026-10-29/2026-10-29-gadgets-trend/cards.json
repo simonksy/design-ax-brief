@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI 비서, 몸에 붙는다",
+    "date": "2026.10.29",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Ray-Ban 10.27→10.26, Even G2 10.27→10.26, Galaxy Buds On 10.28→10.27 KST, Echo Studio 10.29→10.28). 9월 24일·저장 기본값, v2.4.0·최대 10개, 'Hey Google, let's talk Live', 13MP·$250·+$30 확인. 사진은 Ray-Ban 한 장만, Even G2·Echo는 stat.",
+    "sources": [
+      "Notebookcheck — Ray-Ban Meta: How to stop your glasses from training AI (2026.10.26)",
+      "9to5Google — Even Realities G2 smart glasses get a massive feature update (2026.10.26)",
+      "Samsung Newsroom — A Day With Galaxy Buds On (2026.10.27)",
+      "Ars Technica — Amazon turns its most capable smart speaker into a smart camera, too (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.26~10.28",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "학습 제외",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.26",
+          "t": "고른 기억",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.27",
+          "t": "귀에 비서",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.28",
+          "t": "스피커 눈",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 비서가 안경·이어폰·스피커로 들어오며, 무엇을 보고 남기느냐가 같이 따라온다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 비서,\n몸에 붙는다",
+      "body": "한 건씩 보면 신제품 소식이다. 사흘 새 안경·이어폰·스피커가 비서를 품자, 무엇을 보고 남기느냐가 함께 따라왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "안경이 본 것,\n학습에서 뺀다",
+      "body": "Ray-Ban Meta에 앞에 보이는 걸 물으면 Meta가 그 이미지를 저장한다. 9월 24일부터 앱에서 끌 수 있다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
+      "_id": "gadgets-rayban-meta-training",
+      "media": "pipeline/media/gadgets-rayban-meta-training.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "고른 것만\n기억하는 안경",
+      "body": "Even G2 2.4.0 업데이트. Knowledge Base는 사용자가 고른 기록만 기억하고, Pro Mode가 대화 중에 꺼낸다.",
+      "foot": "2026.10.26",
+      "_src": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+      "_id": "gadgets-even-g2-update",
+      "stat_top": "Conversate 기록",
+      "stat_arrow": "Knowledge Base에 처음 올리는 수",
+      "stat_bottom": "최대 10개",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.27",
+      "headline": "귀에 건\nGemini Live",
+      "body": "Samsung 첫 오픈형 이어폰. 'Hey Google, let's talk Live'라고 말하면 Gemini Live가 켜진다.",
+      "foot": "2026.10.27",
+      "_src": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
+      "_id": "gadgets-galaxy-buds-on",
+      "video": "pipeline/media/gadgets-galaxy-buds-on.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "스피커에\n눈을 달았다",
+      "body": "보드게임 상자를 들어 보이면 Alexa+가 카메라로 보고 규칙을 설명한다. 카메라 모델은 $250이다.",
+      "foot": "2026.10.28",
+      "_src": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "_id": "gadgets-echo-studio-camera",
+      "stat_top": "카메라 없는 Echo Studio",
+      "stat_arrow": "13MP 카메라를 넣으면",
+      "stat_bottom": "+$30",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
