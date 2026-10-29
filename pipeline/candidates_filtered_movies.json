@@ -1,56 +1,62 @@
 {
   "section": "movies",
-  "date": "2026-10-29",
-  "now_iso": "2026-10-28T22:04:45Z",
+  "now_iso": "2026-10-29T22:00:32Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Oscars Will 'Always' Reward Human Excellence in AI Era, Academy Chiefs Say",
-      "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/",
+      "title": "‘Shaun the Sheep: The Beast of Mossy Bottom’ Director on Why AI Is Not a Threat: ‘There’s a Desire to See the Craft Behind the Finished Product’",
+      "url": "https://variety.com/2026/film/global/shaun-the-sheep-mossy-bottom-director-ai-animation-1236933410/",
       "source": "Variety",
-      "published_iso": "2026-10-28T03:48:43+00:00",
-      "excerpt": "Academy president Lynette Howell Taylor tells Variety in Tokyo that the Oscars will keep honoring human-driven work as AI spreads through filmmaking, while leadership leaves the door open to tweaking international feature rules.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "Ancestral Memory Meets AI in Himalayan Drama 'Shirjara: Song of Grandmother' at Tokyo Gap-Financing Market",
-      "url": "https://variety.com/2026/film/markets-festivals/ancestral-memory-ai-nepali-drama-shirjara-tokyo-market-1236932531/",
-      "source": "Variety",
-      "published_iso": "2026-10-27T23:33:19+00:00",
-      "excerpt": "Bikash Subedi's Nepali feature sets a grandmother's oral stories against the rise of artificial intelligence; the film has wrapped principal photography and is seeking gap financing at TIFFCOM with an eye on a Cannes premiere.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Shirjara-Song-of-Grandmother.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
-      "url": "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/",
-      "source": "Variety",
-      "published_iso": "2026-10-16T08:36:57+00:00",
-      "excerpt": "ATF adds 'The AI Era | Entertainment Reimagined' strand and zone on AI in content creation, IP rights and regulation, plus the final round of AI Hackathon 2026 with a live creative contest and screenings.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
       "category": "movies",
+      "published_iso": "2026-10-29T16:16:13+00:00",
+      "excerpt": "Aardman co-director Matthew Walker explains why he sees generative AI as no threat to stop-motion animation, arguing audiences want to see the craft behind the finished product.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Matthew-Walker1000.jpg?w=1000&h=563&crop=1",
       "history_match": {
-        "score": 0.163,
-        "date": "2026-10-15",
-        "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
-        "title": "Busan's Asian Contents & Film Market evolves with added focus on AI and microdramas",
+        "score": 0.154,
+        "date": "2026-10-24",
+        "url": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
+        "title": "'Wildwood' Director Hopes People \"See The Danger\" In GenAI",
         "band": "related"
       }
     },
     {
-      "title": "Google's next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge",
-      "published_iso": "2026-10-27T16:00:00+00:00",
-      "excerpt": "Google DeepMind's Genie 4 world model generates more realistic, interactive AI worlds from prompts in real time. Note: DeepMind's own Genie 4 post already ran in the games section on 10-28.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200",
+      "title": "AI Can Critique Shakespeare but Can’t Write It, Russo Brothers’ AGBO Execs Tell Tokyo Market",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-critique-shakespeare-cant-write-russo-brothers-agbo-tokyo-1236933960/",
+      "source": "Variety",
       "category": "movies",
+      "published_iso": "2026-10-29T08:25:52+00:00",
+      "excerpt": "At a TIFFCOM keynote, AGBO's technology heads argued AI should support artists and can't match the human element of storytelling.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "title": "Mayur More & Ashlesha Thakur To Lead AI Hybrid Movie 'Beta Builder'",
+      "url": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-10-29T09:43:08+00:00",
+      "excerpt": "Abundantia Entertainment's AI unit AiOn and video-tech firm InVideo are making 'Beta Builder', a hybrid feature that pairs live actors with AI-generated production.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
       "history_match": {
-        "score": 0.189,
-        "date": "2026-10-13",
-        "url": "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat",
-        "title": "Real-Time AI Worlds in Focus at Visko and Google Cloud's October 14 LA Fireside Chat",
+        "score": 0.186,
+        "date": "2026-10-08",
+        "url": "https://deadline.com/2026/10/abundantia-entertainment-ai-creative-arm-studio-1237147643/",
+        "title": "Abundantia Entertainment To Turn AI Arm AiOn Into Standalone Studio",
+        "band": "related"
+      }
+    },
+    {
+      "title": "View Conference Was Inspiring: The AI Sales Pitches Were Exhausting (And Occasionally Bullshit)",
+      "url": "https://www.cartoonbrew.com/events/view-conference-ai-sales-pitches-268698.html",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-10-29T16:56:00+00:00",
+      "excerpt": "Filmmakers shared their craft at Turin's View Conference, while AI evangelists (a real job title of one speaker) insisted everyone already uses the technology.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Conference.jpg",
+      "history_match": {
+        "score": 0.173,
+        "date": "2026-10-21",
+        "url": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
+        "title": "AI Could ‘Absolutely’ Replace Human Actors, CEO of Generative AI Startup Runway Says at Italy’s View Conference: ‘It’s Already Happening in a Way’",
         "band": "related"
       }
     },
@@ -58,12 +64,12 @@
       "title": "Apple Creator Studio update: MotionVFX and AI",
       "url": "https://www.redsharknews.com/apple-creator-studio-motionvfx-final-cut-pro-update",
       "source": "RedShark News",
-      "published_iso": "2026-10-27T15:45:41Z",
-      "excerpt": "Apple Creator Studio's free November update builds MotionVFX into Final Cut Pro and adds AI assistants to Logic Pro, Keynote, Pages and Numbers. Note: Engadget's version of this story ran in the music section on 10-28.",
-      "og_image": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg",
       "category": "movies",
+      "published_iso": "2026-10-27T15:45:41+00:00",
+      "excerpt": "Apple Creator Studio's free November update builds MotionVFX into Final Cut Pro and adds AI assistants across its creative apps.",
+      "og_image": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg",
       "history_match": {
-        "score": 0.165,
+        "score": 0.162,
         "date": "2026-10-22",
         "url": "https://www.redsharknews.com/eddie-ai-update-plan-first-resolve-studio-panel",
         "title": "Eddie AI update: plan first, Resolve Studio panel, and more",
@@ -71,127 +77,145 @@
       }
     },
     {
-      "title": "Rintaro On Anime's Aversion To Risk: 'There Will Be No Future'",
-      "url": "https://www.cartoonbrew.com/interviews/rintaro-interview-busan-metropolis-galaxy-express-268512.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-10-28T18:21:01+00:00",
-      "excerpt": "At Busan, the 'Galaxy Express 999' and 'Metropolis' director ties anime's remake culture to generative AI, arguing AI 'recommends the mean or the average' and pushes toward remaking past works instead of creating something new.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Hollywood Animation Directors On Distribution, Sequels, And AI",
-      "url": "https://www.cartoonbrew.com/events/view-conference-joel-crawford-januel-mercado-mckenna-harris-tyree-dillihay-267957.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-10-15T16:54:47+00:00",
-      "excerpt": "At View Conference, the directors of 'GOAT', 'Forgotten Island' and 'Toy Story 5' discussed box office and original storytelling; questions on generative AI met a notably cool reception from the panel.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Directors.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "The Final Boss of Green Screen. (CorridorKey 2.0 launch)",
-      "url": "https://www.youtube.com/watch?v=4C2e0oFgAkw",
-      "source": "Corridor Crew",
-      "published_iso": "2026-10-21T09:00:09-07:00",
-      "excerpt": "Corridor Digital releases CorridorKey 2.0, its neural green/blue-screen keyer that runs locally as a one-click plugin for Resolve, Nuke, After Effects, Premiere and Blender, with a free GitHub version too. Beta pricing runs until Nov 20.",
-      "og_image": "https://i.ytimg.com/vi/4C2e0oFgAkw/maxresdefault.jpg",
+      "title": "2026 AI Horror Film Competition Winners!",
+      "url": "https://www.youtube.com/watch?v=Q6xJOpTylco",
+      "source": "Curious Refuge",
       "category": "movies",
+      "published_iso": "2026-10-29T12:00:11-07:00",
+      "excerpt": "Curious Refuge wraps its 4th annual AI Horror Film Competition, announcing the winning AI-made horror films.",
+      "og_image": "https://i.ytimg.com/vi/Q6xJOpTylco/maxresdefault.jpg",
       "history_match": {
-        "score": 0.293,
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=godomkRXBLE",
-        "title": "CorridorKey 2.0 just works...",
+        "score": 0.255,
+        "date": "2026-10-10",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
         "band": "related"
       }
     },
     {
-      "title": "New Mystery AI Video Model: Iron Goddess!",
-      "url": "https://www.youtube.com/watch?v=U6vf0kjMPqU",
-      "source": "Theoretically Media",
-      "published_iso": "2026-10-24T08:50:06-07:00",
-      "excerpt": "An unclaimed video model called 'Iron Goddess' appeared in battle mode on the Arena, showing big, fast motion that smudges frame-by-frame. Compared against Seedance 2.5, with speculation it is Alibaba's model due in November.",
-      "og_image": "https://i.ytimg.com/vi/U6vf0kjMPqU/maxresdefault.jpg",
+      "title": "Kling AI 4.0 suggests a shift in AI video competition from visual quality to directorial control",
+      "url": "https://technode.com/2026/10/16/kling-ai-4-0-suggests-a-shift-in-ai-video-competition-from-visual-quality-to-directorial-control/",
+      "source": "TechNode",
       "category": "movies",
+      "published_iso": "2026-10-16T08:34:06+00:00",
+      "excerpt": "Kuaishou's Kling AI 4.0 shifts AI video generation from impressive single clips toward director-style control over shots, camera and continuity for short films and ads.",
+      "og_image": "https://technode.com/wp-content/uploads/2026/10/Kling-4-pic.jpg"
+    },
+    {
+      "title": "From AI generation to final cut, Fotor Agent takes on the video production workflow",
+      "url": "https://technode.com/2026/10/22/from-ai-generation-to-final-cut-fotor-agent-takes-on-the-video-production-workflow/",
+      "source": "TechNode",
+      "category": "movies",
+      "published_iso": "2026-10-22T05:47:58+00:00",
+      "excerpt": "Fotor Agent aims to carry AI video from generation through editing to a finished cut, targeting the gap between impressive clips and usable productions.",
+      "og_image": "https://technode.com/wp-content/uploads/2026/10/page2.jpg"
+    },
+    {
+      "title": "ByteDance Is Rewiring Its AI Video Bet",
+      "url": "https://technode.com/2026/10/27/bytedance-is-rewiring-its-ai-video-bet/",
+      "source": "TechNode",
+      "category": "movies",
+      "published_iso": "2026-10-27T06:01:45+00:00",
+      "excerpt": "ByteDance's CapCut unit folded its Xiaoyunque AI video product into Jimeng, consolidating its AI video creation tools around one platform.",
+      "og_image": "https://technode.com/wp-content/uploads/2026/10/ByteDance封面-scaled.jpg",
       "history_match": {
-        "score": 0.233,
+        "score": 0.254,
+        "date": "2026-10-29",
+        "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+        "title": "ByteDance launches AI studio for short-drama production",
+        "band": "related"
+      }
+    },
+    {
+      "title": "[REVIEW] 'Steelay' opens new era for AI feature films",
+      "url": "https://www.koreatimes.co.kr/entertainment/films/20261029/steelay-opens-new-era-for-ai-feature-films",
+      "source": "The Korea Times",
+      "category": "movies",
+      "published_iso": "2026-10-29T11:39:03+00:00",
+      "excerpt": "Korea's first fully generative-AI sci-fi action feature 'Steelay' hit local theaters on Oct. 21, which the Korea Times review frames as the start of a new era for AI feature films.",
+      "og_image": "https://newsimg.koreatimes.co.kr/2026/10/29/4c8e8de1-f735-4360-b7e1-8b70bbd73a7c.jpg",
+      "history_match": {
+        "score": 0.209,
         "date": "2026-10-23",
-        "url": "https://www.youtube.com/watch?v=qlSI_ZbRdEc",
-        "title": "This FREE AI Previz Tool is Awesome & a Secret Video Model!",
+        "url": "https://www.globaltimes.cn/page/202610/1372724.shtml",
+        "title": "China's first fully AI-generated feature film to hit cinemas on Friday",
         "band": "related"
       }
     },
     {
-      "title": "Is Kling 4 Better Than Seedance 2.5 for AI Films?",
-      "url": "https://www.youtube.com/watch?v=0rNpuQoGSHY",
-      "source": "AI Video School",
-      "published_iso": "2026-10-20T06:30:27-07:00",
-      "excerpt": "A filmmaker starting a new AI short tests Kling 4 against Seedance 2.5 on directing dramatic performances, keyframe control of complex scenes, water physics, and character swaps with camera motion.",
-      "og_image": "https://i.ytimg.com/vi/0rNpuQoGSHY/maxresdefault.jpg",
+      "title": "한예종 AI 애니 '티켓 투 네버랜드'…일본 영화제 최종 경쟁 진출",
+      "url": "https://www.news1.kr/life-culture/general-cultural/6335398",
+      "source": "뉴스1",
       "category": "movies",
+      "published_iso": "2026-10-29T06:29:01+09:00",
+      "excerpt": "한국예술종합학교 AT랩이 제작한 3D AI 애니메이션 '티켓 투 네버랜드'가 60여개국 730여편이 출품된 일본 국제 AI 영화제 경쟁 부문 파이널리스트 21편에 올랐다.",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg"
+    },
+    {
+      "title": "헬로웍스, 1959년 한국 SF 영웅 ‘라이파이’를 AI 애니메이션으로 되살린다",
+      "url": "https://www.kentertechhub.com/gsh-helloworks-lipie/",
+      "source": "K-EnterTech Hub",
+      "category": "movies",
+      "published_iso": "2026-10-28T18:30:10+00:00",
+      "excerpt": "원작자 김산호 화백이 크리에이티브 디렉션에 참여해 캐릭터 레퍼런스→AI 생성 컷→사람의 연출 순서로 제작하며, 미국 공개는 다큐멘터리로 시작한다.",
+      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/p5905f_202610281829.jpg"
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-10-27T16:00:00+00:00",
+      "excerpt": "Google DeepMind's Genie 4 world model generates more realistic, explorable AI environments, letting users explore realistic AI-generated worlds.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200",
       "history_match": {
-        "score": 0.237,
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=nlM7kL3kv_Y",
-        "title": "Meet KLING 4.0 | You Call the Shots",
+        "score": 0.181,
+        "date": "2026-10-13",
+        "url": "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat",
+        "title": "Real-Time AI Worlds in Focus at Visko and Google Cloud's October 14 LA Fireside Chat",
         "band": "related"
       }
     },
     {
-      "title": "ByteDance launches Seedance 2.5 4K video model for film production",
-      "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
-      "source": "TechNode",
-      "published_iso": "2026-10-23T13:51:44+00:00",
-      "excerpt": "Volcano Engine's Seedance 2.5 4K targets film and TV production with 10-bit color, better facial expressions and fine detail, and a 480p Draft mode for testing shots and storyboards before final 4K renders. It is in trials with selected enterprise customers. (Off-list source: no allowed outlet covered it.)",
-      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
-      "category": "movies"
+      "title": "Idris Elba's Akuna Group Launches Free AI Filmmaking Program For African Creators",
+      "url": "https://cioafrica.co/idris-elbas-akuna-group-launches-free-ai-filmmaking-program-for-african-creators/",
+      "source": "CIO Africa",
+      "category": "movies",
+      "published_iso": "2026-10-27T12:54:39+00:00",
+      "excerpt": "Idris Elba's Akuna Group, with Google, launches a free AI filmmaking programme for creators in five African countries.",
+      "og_image": "https://cioafrica.co/wp-content/uploads/2026/10/wallpapersden.com_idris-elba-new-hd-pic_2560x1600.jpg"
     },
     {
-      "title": "ByteDance launches AI studio for short-drama production",
-      "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
-      "source": "TechNode",
-      "published_iso": "2026-10-27T05:51:08+00:00",
-      "excerpt": "ByteDance's Jimeng AI launched a short-drama studio that puts script development, character and scene creation, storyboarding, video production and post into one workflow, using its in-house DreamScript, Anycook and DreamShot models. (Off-list source.)",
-      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
-      "category": "movies"
+      "title": "HKU Business School Releases Report on Gen AI Video Generation Capabilities",
+      "url": "https://lead.hku.hk/en/article/2026/10/hku-business-school-releases-report-on-gen-ai-video-generation-capabilities/",
+      "source": "HKU Lead",
+      "category": "movies",
+      "published_iso": "2026-10-26T17:04:00+08:00",
+      "excerpt": "HKU Business School released a report evaluating the capabilities of generative AI video models.",
+      "og_image": "https://lead.hku.hk/media/1ktlwv4x/prof-jack-jiang_16x9.png"
+    },
+    {
+      "title": "Execs at 'Avengers' studio AGBO talk AI limitations and looking to Japan",
+      "url": "https://www.screendaily.com/news/execs-at-avengers-studio-agbo-talk-ai-limitations-and-looking-to-japan/5221871.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-10-29T09:03:00+00:00",
+      "excerpt": "AGBO's Chris Brearton and Dominic Hughes led a TIFFCOM keynote on AI's limitations and the studio's interest in Japan.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/9/6/5/1490965_dominichugheschrisbrearton_426395.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 12,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-29",
-      "title": "'Harry Potter' Producer David Barron Backs AI Adaptation Of 'The Call Of The Wild'",
-      "url": "https://deadline.com/2026/09/harry-potter-david-barron-backs-ai-the-call-of-the-wild-1237115076/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Dear Upstairs Neighbors: How Connie He Taught a Machine to See the Way She Draws",
-      "url": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Art of the Frame Podcast: The Alan Smithee Round Table - How will AI impact the future of filmmaking?",
-      "url": "https://www.provideocoalition.com/art-of-the-frame-podcast-the-alan-smithee-round-table-how-will-ai-impact-the-future-of-filmmaking/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Meta Muse Won? Alibaba's \"Seedance Killer\" & AI Audio Levels Up!",
-      "url": "https://www.youtube.com/watch?v=U4231qULtm8"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Meet KLING 4.0 | You Call the Shots",
-      "url": "https://www.youtube.com/watch?v=nlM7kL3kv_Y"
-    },
     {
       "date": "2026-09-30",
       "title": "'The Gifted' Wins Inaugural Future Vision XPRIZE",
@@ -861,6 +885,31 @@
       "date": "2026-10-28",
       "title": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026",
       "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "ByteDance launches Seedance 2.5 4K video model for film production",
+      "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "ByteDance launches AI studio for short-drama production",
+      "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Oscars Will 'Always' Reward Human Excellence in AI Era, Academy Chiefs Say",
+      "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
+      "url": "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Rintaro On Anime's Aversion To Risk: 'There Will Be No Future'",
+      "url": "https://www.cartoonbrew.com/interviews/rintaro-interview-busan-metropolis-galaxy-express-268512.html"
     }
   ]
 }

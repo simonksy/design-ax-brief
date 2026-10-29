@@ -11891,6 +11891,118 @@
           "x": "전체 기사는 Jane Friedman 뉴스레터 유료 구독자만 볼 수 있다."
         }
       ]
+    },
+    "books/books-aoi-illustrator-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+          "cap": "일러스트레이터(Illustrator) © Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "일러스트레이터협회(Association of Illustrators, AOI)의 새 조사를 보면 생성형 AI(GenAI) 때문에 일감과 수입을 잃는 일러스트레이터가 늘었다. 이 기술이 “일러스트레이터가 받는 일의 양뿐 아니라 의뢰가 구성되고 평가되고 수행되는 방식까지 바꾸고 있다”는 지적이다."
+        }
+      ]
+    },
+    "books/books-stanford-anthropic-optout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+          "cap": "도서관 서가에 쌓인 책들."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic은 앞서 Stanford 교수 Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao, Myra Strober의 글을 불법으로 입수해 Claude를 학습시켰다. Bartz v. Anthropic 사건에서 William Alsup 판사는 Anthropic이 책을 불법 복제해 영구 중앙 도서관을 만드는 일은 더 이상 안 된다고 판결했다. 다만 책을 합법적으로 확보해 Claude를 학습시키는 것은 공정이용(fair use)으로 봤다."
+        },
+        {
+          "t": "p",
+          "x": "$1.5B 합의금은 등록 저작물 약 500,000편의 작가와 출판사에게 돌아갔다. Wolff와 다른 작가 27명은 이 합의로는 모자란다고 본다. 영문학 명예교수인 Wolff는 “그들은 대가를 치르지 않고 내 작품을 쓰고 있다”고 말했다. 그의 출판물 10편이 허락 없이 AI 학습에 쓰였다."
+        },
+        {
+          "t": "p",
+          "x": "Wolff는 영문학 교수 Chang-rae Lee와 함께 Bartz 합의에서 빠졌다. 두 사람은 2026년 5월 집단소송이 아닌 별도 소송 Cruz v. Anthropic을 내고 침해 저작물마다 최대 $150,000의 법정 손해배상 전액을 배심 재판으로 청구했다. Bartz 합의가 제시한 저작물당 약 $3,000보다 많다. 이들은 Anthropic이 LibGen, PiLiMi 같은 “섀도 라이브러리”에서 자기 책을 내려받았다고 주장한다. 승소하면 자신들의 작품으로 Claude 모델을 학습시키지 못하게 하는 영구 금지 명령을 얻는다."
+        },
+        {
+          "t": "p",
+          "x": "집단소송 원고인 Stanford Law 학자 Paul Goldstein은 “거래 비용”을 지적했다. 그는 “플랫폼이 모든 — 아니, 사실상 어느 — 저작물에 대해서든 저작권자에게서 라이선스를 받는 것은 현실적으로 불가능하다”고 말했다. Bartz와 Cruz 말고도 작가와 시각 예술가, 언론사가 AI 기업을 상대로 낸 침해 소송은 70건이 넘는다."
+        }
+      ]
+    },
+    "books/books-ifrro-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "지식재산권법 교수 Eleonora Rosati와 함께 만든 보고서 「The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works」는 법·정책 지형을 살피고, IFRRO가 2026년 약 2,000명에게 받은 글로벌 설문 결과도 실었다."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "응답자의 90% 이상이 “생성형 AI가 권리자의 수입에 직접적이고 부정적인 영향을 미쳤다”는 데 동의했다. 75% 이상은 AI가 “창작 노동자를 대체할 것”이라고 봤다. 96%는 현행 저작권 체계가 자신들을 제대로 보호하지 못한다고 답했고 50% 이상은 “AI 전용 라이선스(AI-specific licenses)”가 “자신들의 경제적 상황을 크게 개선할 것”이라고 내다봤다."
+        },
+        {
+          "t": "p",
+          "x": "보고서는 “동의, 투명성, 보상 없이 이뤄지는 보호 콘텐츠의 대규모(large-scale) 무단 사용”이 “법적으로도 경제적으로도 지속 가능하지 않다”고 결론지었다. 그러면서 세 가지 “근본적” 조건으로 작가와 권리자의 동의 및 통제, 실효성 있는 저작권 원칙, 학습과 결과물 생성 전반의 강력한 투명성을 꼽았다. 11월 23일 IFRRO 웨비나에서 Rosati가 주요 결과를 발표한다."
+        }
+      ]
+    },
+    "books/books-toonflow-brainventures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
+          "cap": "브레인벤쳐스, 어도비 익스체인지에 웹툰 현지화 플러그인 ‘ToonFlow’ 공식 등록"
+        },
+        {
+          "t": "p",
+          "x": "AI 기반 웹툰 현지화 전문기업 브레인벤쳐스(대표 김원회)가 웹툰 번역과 식자 작업을 자동화하는 포토샵 플러그인 ‘ToonFlow(툰플로우)’를 어도비 공식 마켓플레이스인 ‘Adobe Exchange’에 등록했다. 이번 등록을 통해 말풍선 감지부터 텍스트 인식, 번역, 식자까지 웹툰 현지화의 주요 공정을 단일 파이프라인으로 처리하는 포토샵 플러그인이 글로벌 마켓플레이스에 본격 유통된다."
+        },
+        {
+          "t": "p",
+          "x": "ToonFlow는 웹툰 현지화 작업자가 기존 어도비 포토샵 작업 환경에서 벗어나지 않고 번역 및 식자 업무를 수행할 수 있도록 개발된 인공지능(AI) 플러그인이다. 말풍선 및 텍스트 영역 감지, 세로쓰기를 포함한 원문 텍스트 광학문자인식(OCR), 용어집을 반영한 문맥 기반 기계번역, 폰트 자동 매칭 식자 기능을 일괄 제공한다. 특히 다단계 공정을 순차 실행하는 ‘오토파일럿(Autopilot)’ 기능을 적용해 탭 이동 없이 전 과정을 한 번에 처리하며, 작품별 맞춤 설정을 저장하는 ‘프리셋’ 기능과 전후 결과를 대조할 수 있는 ‘원문/번역 비교 패널’을 탑재해 검수 편의성을 높였다."
+        },
+        {
+          "t": "p",
+          "x": "이번 플러그인은 ‘2026년 고양형 민간투자연계 기술창업지원사업(고양형 TIPS)’의 지원을 받아 개발됐다. 지난 3월 고양시에 지사를 설립한 데 이어 5월 고양형 TIPS에 선정되며 연구개발에 착수했다. 현재 한국어·일본어·영어 등 3개 언어를 지원하며, Adobe Exchange와 ToonFlow 공식 웹사이트를 통해 배포된다. 신규 계정 가입자에게는 1화 무료 체험 혜택이 제공된다. 회사는 기존 수작업 중심의 식자 프로세스가 자동화되면서 작업 소요 시간을 대폭 줄일 수 있을 것으로 내다봤다."
+        },
+        {
+          "t": "p",
+          "x": "김원회 브레인벤쳐스 대표는 “그간 축적해 온 웹툰 현지화 기술을 작업자들에게 가장 친숙한 포토샵 환경에 구현했다”며 “기술 고도화를 지속해 글로벌 웹툰 제작사와 플랫폼 유통사들이 현장에서 신뢰하는 핵심 현지화 솔루션으로 자리매김하겠다”고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "한편 브레인벤쳐스는 중소벤처기업부가 2017년 설립하고 창업진흥원과 경기창조경제혁신센터가 공동 운영하는 국내 최대 창업지원 클러스터인 ‘판교 창업존’ 입주기업이다."
+        }
+      ]
+    },
+    "books/macmillan-noa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+          "cap": "사진 일러스트: Jacqui VanLiew; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "2024년 1월 어느 아침, Lower Manhattan의 Macmillan Publishers 본사에 출근한 직원들은 새 팀원 “NOA”를 환영하는 전단을 지나쳤다. 구내식당엔 보라색 풍선이 걸렸고 도넛을 가득 담은 접시들이 “NOA IS HERE”라는 글자를 그렸다. NOA(No Ordinary Assistant)는 Macmillan의 모회사 Holtzbrinck가 “후원하는” 독일 소프트웨어 기업 Chaptr가 만든 AI 챗봇이었다."
+        },
+        {
+          "t": "p",
+          "x": "직원들은 이메일 작성, 문안 초안, 마케팅 리서치, 아이디어 구상에 NOA를 쓰라고 권유받았다. 나중엔 인사 평가용 목표까지 NOA로 세우라는 말을 들었다고 한다. 한 직원은 “형편없었고 아무도 쓰지 않았다”고 말한다. 2025년 10월에는 전사 이메일로 Chaptr의 NOA 종료 소식이 전해졌다. 직원들 말로는 그 뒤 경영진이 Google Gemini 도입을 밀어 왔다. Macmillan의 Kelly Collins는 “제기된 내용은 NOA를 도입하고 알린 방식을 정확히 반영하지 않는다”고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "Penguin Random House 직원들도 PRH 독일 법인이 OpenAI와 소송을 벌이는 와중에도 ChatGPT Enterprise를 써 보라는 권유를 받았다고 전한다. Big Five 출판사의 베스트셀러 작가 여럿은 AI 사용 문제로 출판사와 사이가 틀어졌다고 했다. 한 작가는 “우리가 요구하는 최소한은 공개”라고 말한다."
+        }
+      ]
     }
   }
 }

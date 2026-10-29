@@ -9328,6 +9328,132 @@
           "x": "Timeline editing has also improved, and Resolve gets more Linux graphics support and expanded scripting APIs for automated photo and editing tasks. Highlights include lasso selecting edit points that can now enter dynamic trim automatically, an option to show loudness meters in the edit mixer, OGraf responsive templates that adapt to timeline aspect ratio, and support for OGraf and Lottie graphics on Linux, along with general performance and stability improvements."
         }
       ]
+    },
+    "movies/apple-creator-studio-motionvfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple Creator Studio's November update, free to existing subscribers, puts MotionVFX inside Final Cut Pro. Logic Pro, Keynote, Pages, and Numbers gain beta AI assistants."
+        },
+        {
+          "t": "p",
+          "x": "Final Cut Pro for Mac now includes built-in MotionVFX, following Apple's purchase of the company back in March, adding thousands of effects, plug-ins, transitions, templates, titles, graphics, and tools for rotoscoping, tracking, and color grading. Final Cut Pro also adds AI image generation from text descriptions, and any timeline image can be opened in Pixelmator Pro and saved back automatically."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pixelmator Pro adds Generate Fill, which edits a user-selected area from a text description, matching lighting, perspective, and texture. Logic Pro for Mac adds an assistant in beta, powered by Apple-built models and OpenAI, for navigating production workflows."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Keynote, Pages, and Numbers get an assistant in beta, built on Apple models and OpenAI, plus Model Context Protocol (MCP) support that lets external AI agents read content, perform edits, and run automated actions. The update arrives on the App Store in November; new US subscribers pay $12.99 per month or $129 per year."
+        }
+      ]
+    },
+    "movies/agbo-tiffcom-shakespeare": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Top AGBO execs Chris Brearton and Dominic Hughes delivered a keynote at TIFFCOM, the content market of the Tokyo International Film Festival, about how AI can be used to assist rather than replace human creators. “Humans are uniquely positioned to tell stories,” Brearton said. “The way we embrace technology is all about artists and putting artists first.”"
+        },
+        {
+          "t": "p",
+          "x": "What makes a favorite performance special, Brearton said, “is the human element” that AI cannot equal. “AI is really going to be more impactful, particularly in the midterm, in process efficiencies.”"
+        },
+        {
+          "t": "p",
+          "x": "AI, Hughes noted, is good at “regurgitating what has been done in the past,” but not at creating something from scratch. It “is good at critiquing”: it can tell you whether a play found in an attic might have been written by Shakespeare, but ask it to write its own and “you'd have the sense that it was written by a 12-year-old.”"
+        },
+        {
+          "t": "p",
+          "x": "On copyright, Brearton said, “We track every single tool and every single usage of every single tool.” The keynote was moderated by Variety's Asia Editor Naman Ramachandran."
+        }
+      ]
+    },
+    "movies/curious-refuge-horror-2026": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Q6xJOpTylco"
+        },
+        {
+          "t": "p",
+          "x": "We just wrapped our 4th annual AI Horror Film competition, and we are SHOOK."
+        },
+        {
+          "t": "p",
+          "x": "Not only are we terrified by the stories (all our judges are now sleeping with the lights on), but the quality of these films is mind-blowing."
+        },
+        {
+          "t": "p",
+          "x": "Once the premiere has finished, check out the winners here: https://curiousrefuge.com/2026-ai-horror-film-competition"
+        }
+      ]
+    },
+    "movies/karts-neverland-ai-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
+          "cap": "A scene from 'Ticket to Neverland', an animation produced by K-Arts AT Lab (provided by Korea National University of Arts)"
+        },
+        {
+          "t": "p",
+          "x": "'Ticket to Neverland', a 3D animation produced by the Art & Technology Lab (AT Lab) at the Korea National University of Arts' Convergence Arts Center, has been named a final nominee in the competition section of an international AI film festival in Japan. The work uses generative artificial intelligence (AI) as a creative tool."
+        },
+        {
+          "t": "p",
+          "x": "The 2nd 'AI Film Festival Japan 2026' runs in Tokyo, Japan, from October 31 to November 2. More than 730 works were submitted from over 60 countries, from which 68 official selections and 21 competition finalists were chosen. 'Ticket to Neverland' was selected as a finalist in the AI animation category. The final winners will be announced at the awards ceremony on November 1."
+        },
+        {
+          "t": "p",
+          "x": "The work is a black comedy about a reality show that gives a ticket to 'Neverland', an eternal place of rest, to whoever tells the most miserable story. Fairy-tale characters compete by each explaining their own tragedy."
+        },
+        {
+          "t": "p",
+          "x": "It was co-produced by Heo Min and Son Min-ho, students in the Department of Filmmaking at the K-Arts School of Film, and Kim Han-in, a student in the Department of Playwriting at the School of Drama. The three completed the work in 'AI Film/Animation Making', a class run as an industry-academia cooperation project. In March, the work won the AI screenplay award at 'WAIFF Seoul 2026'. In July, it was officially invited to the 30th Bucheon International Fantastic Film Festival."
+        },
+        {
+          "t": "p",
+          "x": "Lee Seung-mu, head of AT Lab, described it as a '100% AI-native work' that used generative AI from the planning stage. He said it was meaningful to present the work on an international stage dedicated to AI film."
+        },
+        {
+          "t": "p",
+          "x": "AT Lab researches convergence art creation that combines technologies such as virtual reality and virtual production. It also takes part in a global culture-technology talent training program supported by the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency."
+        }
+      ]
+    },
+    "movies/seedance25-4k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+          "cap": "ByteDance launches Seedance 2.5 4K video model for film production"
+        },
+        {
+          "t": "p",
+          "x": "ByteDance’s cloud platform Volcano Engine released Seedance 2.5 4K on October 23, targeting film and television production with higher-resolution video generation. The company said additional training improves the rendering of facial expressions, subtle movements and visual details. The model is currently available for trials by selected enterprise customers."
+        },
+        {
+          "t": "p",
+          "x": "A Draft mode allows users to test shots and refine storyboards with lower-cost 480p previews before generating a final 4K version. The model also supports 10-bit color and is designed to preserve image quality, colors and fine details when working with reference materials or editing existing footage. Some film-production and post-production companies in China and overseas have begun testing it. [IT Home, in Chinese]"
+        }
+      ]
     }
   }
 }

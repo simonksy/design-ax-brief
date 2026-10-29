@@ -10058,6 +10058,157 @@
           "x": "To get started, you need an Apple Silicon Mac running Ollama 0.40.11 or later. While the English model is free to use under Apache 2.0, the French, German, Spanish, Portuguese, and multilingual models are limited to noncommercial use."
         }
       ]
+    },
+    "gadgets/raycast-ios-keyboard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Raycast wants your iPhone keyboard to do more than just typing out messages. Its new primary keyboard for iOS combines everyday typing with AI tools, voice dictation, GIF search, and text shortcuts. The biggest change is that you no longer need to switch keyboards to use Raycast's productivity features."
+        },
+        {
+          "t": "p",
+          "x": "Raycast tried a different approach first, launching a secondary keyboard about a year ago that worked more like a companion you switched to only when you needed its features."
+        },
+        {
+          "t": "p",
+          "x": "The new primary keyboard can now match the native iPhone keyboard experience while layering Raycast's tools on top. You get full swipe typing and autocorrect, dictation with styles pulled straight from your Mac, snippet expansion triggered by a prefix character in any app, and Quicklinks that you can insert on the fly. There is also a customizable action row for your frequently used AI commands, smart emoji search, GIF search, and five different visual themes to pick from."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+          "cap": "Raycast for iOS."
+        },
+        {
+          "t": "p",
+          "x": "The keyboard currently works in English only, but support for more languages is already in progress. Apple requires third-party keyboards to briefly jump into their own app for dictation before returning to yours. You will need Raycast version 1.1.0 to get the new keyboard, which also includes seven bug fixes."
+        }
+      ]
+    },
+    "gadgets/android-xr-cli-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Gentle Moster smart glasses powered by Android XR"
+        },
+        {
+          "t": "p",
+          "x": "At the 2026 Android Dev Summit, Google has announced some interesting features coming to both Android XR and Android CLI. Developers can now build and test apps for smart glasses without owning the hardware, while Android's command-line tools are getting upgrades that help AI coding agents test applications and identify performance problems."
+        },
+        {
+          "t": "p",
+          "x": "Google's Android XR emulators in Android Studio are stable, letting developers simulate different types of smart glasses directly from their computers. The core Jetpack XR SDK libraries are also stable, and Google added Geospatial APIs, which let developers anchor digital objects to real-world locations."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+          "cap": "Google Audio glasses"
+        },
+        {
+          "t": "p",
+          "x": "Developers working with Unity, Godot, and Unreal also get a stable Android XR Engine Hub to help analyze performance. Google announced the XREAL AURA alongside these updates, calling it the first wired XR glasses powered by Android XR."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+          "cap": "Android Studio interface showing a coding agent selection menu with Claude Agent, OpenAI Codex, Google Antigravity, and the built-in agent."
+        },
+        {
+          "t": "p",
+          "x": "Google has also upgraded Android CLI to let AI coding agents do more than generate code. Agents can now remotely test apps on real Android devices through Android Device Streaming and generate Jetpack Compose previews without launching an emulator. There are tools for identifying slow app launches, stuttering animations, and unnecessary background activity, plus app quality checks and over 30 Android skills covering areas such as security, widgets, and performance optimization."
+        }
+      ]
+    },
+    "gadgets/strava-gemini-insights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history."
+        },
+        {
+          "t": "p",
+          "x": "A few months ago, Strava launched an integration with Claude using the Model Context Protocol (MCP), allowing users to analyze their workout history and training performance through natural-language conversations with Anthropic's AI assistant. MCP is an open standard (created by Anthropic and later donated to the Linux Foundation's Agentic AI Foundation) that allows AI assistants to connect to external apps and services."
+        },
+        {
+          "t": "p",
+          "x": "As the company explained, Strava subscribers “who connect Strava directly to Gemini will get more contextual and personalized answers grounded in their activity history.” The company added that the integration is entirely optional and read-only."
+        },
+        {
+          "t": "p",
+          "x": "Once connected, users can ask Gemini things such as “Am I getting faster at the same heart rate?”, “Can you give me a detailed analysis of how I performed in my last race?”, “What's my fastest 10K this year vs. all time?” and “How much did the heat slow me down on Saturday's long run?”"
+        },
+        {
+          "t": "p",
+          "x": "The rollout will be limited to the US at first, with the integration available to Strava subscribers regardless of their Gemini plan. Strava has not announced when it might expand to other countries."
+        }
+      ]
+    },
+    "gadgets/google-home-gemini-fix-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+          "cap": "google assistant smart display nest hub"
+        },
+        {
+          "t": "p",
+          "x": "Google's latest Gemini for Home update targets a few issues, like one where speakers randomly blurt out “I didn't understand” when no one asks."
+        },
+        {
+          "t": "p",
+          "x": "The second October Gemini for Home update was released by Google today. It bundles a few fixes with a lengthy section in the changelog dedicated to the Google Home app."
+        },
+        {
+          "t": "p",
+          "x": "But there are six individual changes for Gemini within the Home app. One fix stands out the most, though. According to the update post, Google was aware that Home and Nest speakers/displays were facing a bug that would prompt them to say “Sorry, I didn't understand” at random. That would happen unprompted, which is understandably a little unsettling. That strange bug should be fixed in this new update."
+        },
+        {
+          "t": "p",
+          "x": "Further down, two fixes target Gemini's ability to understand users on Google Home devices. For one, it would misunderstand requests to move music from one room to another. In other cases, it would incorrectly adjust sleep, media, or normal timers instead of the requested type. Both of those features will reportedly work as intended going forward."
+        },
+        {
+          "t": "p",
+          "x": "The changelog also brings more reliable YouTube TV commands on smart displays, more predictable volume controls across rooms, and a fix for a bug where alarm and timer volumes were being set to zero."
+        },
+        {
+          "t": "p",
+          "x": "Updates should be live for users starting today, though it might take some time for them to roll out to everyone. Hopefully, Gemini will only let you know it doesn't understand if it genuinely doesn't understand."
+        }
+      ]
+    },
+    "gadgets/gadgets-echo-studio-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+          "cap": "Amazon Echo Studio with Home Camera on a table"
+        },
+        {
+          "t": "p",
+          "x": "Since debuting in 2019, Amazon’s Echo Studio targeted users who wanted superior audio quality from their Alexa-based smart speaker. The latest Echo Studio adds another less-expected differentiator: an integrated camera. It doesn’t have many audio upgrades over the standard Echo Studio, and the devices have the same dimensions, even though the new model fits in a 13MP camera."
+        },
+        {
+          "t": "p",
+          "x": "The speaker can use the camera to see where you are and adjust audio volume “so your music or audiobook maintains the same volume as you move about.” Amazon also sees people using it as a smart camera to remotely check on a room. “Alexa can also see and understand what’s in front of the camera and help you in real time. Pull out a board game box and ask Alexa+ to explain the rules or hold up a cereal box, and Alexa can recognize it and help you reorder more flavors,” Amazon’s announcement says."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+          "cap": "Watching the Echo Studio with Home Camera’s camera feed from a phone."
+        },
+        {
+          "t": "p",
+          "x": "A dedicated button turns off the microphones and cameras, and a built-in LED turns on when it streams to the cloud. Given Amazon’s past with Ring cameras, some privacy-focused customers may opt for camera-less alternatives. The Echo Studio With Home Camera is $250, which is $30 more than the camera-free version."
+        }
+      ]
     }
   }
 }

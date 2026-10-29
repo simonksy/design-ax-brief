@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-zocdoc-agents",
+      "id": "jama-wiser-prior-auth",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Zocdoc, 환자 예약을\nAI 에이전트에 연다",
-      "body": "Zocdoc이 환자 예약을 AI 에이전트에 열자 CEO는 역발상이라 불렀다.",
-      "mini_headline": "Zocdoc, AI 에이전트에 문 연다",
+      "headline": "AI 사전승인 도입 뒤\nMedicare 이용 감소",
+      "body": "JAMA 분석에서 WISeR 주 경막외 주사 약 15%, 기타는 약 20% 줄었다.",
+      "mini_headline": "Medicare 속 AI 사전승인",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/zocdoc-invites-ai-agents-to-book-appointments-on-behalf-of-patients/873035/",
+      "source": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855989",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,227 +19,173 @@
         "blocks": [
           {
             "t": "p",
-            "x": "온라인 진료 예약 기업 Zocdoc이 AI 에이전트가 환자 대신 의료진을 찾고 진료를 예약하도록 길을 열었다."
+            "x": "University of Minnesota의 Hannah T. Neprash, PhD와 Brown University의 Michael L. Barnett, MD, MS가 쓴 Research Letter다. 사전승인은 \"임상의가 보상을 받기 전에 특정 의료 서비스의 정당성을 제출하도록 요구하는 절차\"다. 전통적 Medicare는 드문 예외를 빼고는 사전승인을 요구하지 않았다."
           },
           {
             "t": "p",
-            "x": "회사는 수요일, 에이전트가 접근하려면 Zocdoc에 등록해야 하고 온라인 플랫폼에서 예약을 잡거나 취소하기 전에 환자 동의를 받아야 한다고 밝혔다. Google Gemini, Amazon Health AI, 문자·전화로 움직이는 AI 에이전트 Instinct가 이미 연결됐다. 다른 에이전트도 사람의 도움 여부와 상관없이 접근을 신청할 수 있다."
+            "x": "Center for Medicare & Medicaid Innovation의 Wasteful and Inappropriate Service Reduction(WISeR) 모델은 2026년 1월 Arizona, New Jersey, Ohio, Oklahoma, Texas, Washington에서 시작된 6년짜리 시범 사업이다. 선정된 서비스에 사전승인을 요구하고 참여자에게는 인공지능을 쓰도록 권한다. 초기 효과를 보여 주는 근거는 아직 없었다."
           },
           {
             "t": "p",
-            "x": "Zocdoc 창업자이자 CEO인 Dr. Oliver Kharraz는 “우리처럼 에이전트를 반기는 방식은 다소 역발상적인 행보라고 말하고 싶다”고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-            "cap": "Zocdoc은 칠월 이후 자사 플랫폼의 AI 에이전트 트래픽이 30배 가까이 늘었다고 밝혔다. 이제 예약 플랫폼을 에이전트에 직접 개방한다."
+            "x": "연구진은 Epic Cosmos 전자건강기록 데이터로 WISeR-targeted(WISeR 대상) 서비스의 월별 이용량을 살폈다. 여섯 개 시범 주와 나머지 모든 주 및 Washington, D.C.를 나눠 시행 전 두 해와 시행 후 첫 여섯 달을 견줬다."
           },
           {
             "t": "p",
-            "x": "승인된 에이전트는 Zocdoc의 AI 백엔드에 붙어 의료진 목록을 살피고, 진료 가능 시간과 보험을 확인한 뒤 진료를 예약할 수 있다. 최종 결정 전에는 환자에게 확인을 받는다."
+            "x": "비시범 주와 비교하면 경막외 스테로이드 주사는 약 15%, 기타 대상 서비스는 약 20% 줄었다. 감소 폭은 시행 직후가 가장 컸다. 경막외 스테로이드 주사는 2026년 첫 분기에 약 21%, 두 번째 분기에 약 9% 낮았다. 기타 서비스는 21%에서 18%로 움직였다. WISeR 대상으로 예정됐다가 실제로 시행되지 않은 서비스는 유의하게 줄지 않았다."
           },
           {
             "t": "p",
-            "x": "대신 Zocdoc은 에이전트가 환자 동의를 받고 환자·의료진 데이터를 보호하기를 기대한다. 에이전트는 이 데이터로 스스로를 학습시키거나 재판매하거나 재게시할 수 없다. 이 약속을 어떻게 지키게 할지는 Zocdoc이 구체적으로 밝히지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "Kharraz는 “우리의 사명은 환자에게 힘을 주는 것이다. 환자가 예약을 AI 에이전트에 맡기고 싶다면, 우리는 그들이 원하는 마찰 없는 진료 접근을 제공해야 한다”고 말했다."
+            "x": "줄어든 진료가 불필요했는지, 꼭 필요했는지는 아직 모른다. 연구진은 효과가 이어지는지와 진료의 적절성, 환자 결과, 임상의 부담, Medicare 지출을 계속 추적해야 한다고 제언한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Zocdoc lets AI agents book\nappointments for patients",
-          "body": "Zocdoc is inviting AI agents to book appointments for patients, which its CEO calls a contrarian move.",
-          "mini_headline": "Zocdoc opens to AI agents",
+          "headline": "Medicare use falls after\nAI prior authorization",
+          "body": "In WISeR pilot states, epidural steroid injections fell about 15% and other targeted services about 20%, JAMA finds.",
+          "mini_headline": "AI prior auth in Medicare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Online scheduling company Zocdoc is now letting AI agents search for providers and book appointments on behalf of patients."
+                "x": "Research Letter by Hannah T. Neprash, PhD (University of Minnesota) and Michael L. Barnett, MD, MS (Brown University). Prior authorization is \"a process that requires clinicians to submit justification for specific medical services before reimbursement is offered.\" Historically, traditional Medicare has not required any prior authorization, with rare exceptions."
               },
               {
                 "t": "p",
-                "x": "Agents must register with Zocdoc to gain access and obtain patient consent before booking or canceling an appointment on its online platform, the company said Wednesday. Google Gemini, Amazon Health AI, and text- and call-based AI agent Instinct are already connected, and other agents can apply for access with or without a human’s help."
+                "x": "The Center for Medicare & Medicaid Innovation's Wasteful and Inappropriate Service Reduction (WISeR) model, a 6-year pilot that began in January 2026 in Arizona, New Jersey, Ohio, Oklahoma, Texas and Washington, requires prior authorization for selected services and encourages participants to use artificial intelligence. There was no evidence to date on its initial impact."
               },
               {
                 "t": "p",
-                "x": "“I would say that welcoming agents the way we are is a bit of a contrarian move,” said Dr. Oliver Kharraz, founder and CEO of Zocdoc."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdoc says AI agent traffic on its platform has grown nearly 30-fold since July — now the company is opening its booking platform to them directly."
+                "x": "Using Epic Cosmos electronic health record data, the authors compared monthly use of WISeR-targeted services in the six pilot states with all other states and Washington, D.C., over the two years before launch and the first six months after."
               },
               {
                 "t": "p",
-                "x": "An approved agent can plug into Zocdoc’s AI backend to sift through its provider directory, check a clinician’s availability, verify insurance and book an appointment, checking in with the patient before making any final decisions."
+                "x": "Relative to nonpilot states, epidural steroid injections fell about 15% and other targeted services about 20%. The drop was largest at launch: epidural steroid injections were about 21% lower in the first quarter of 2026 and about 9% lower in the second; other services went from 21% to 18%. Services slated for WISeR but never implemented showed no significant decline."
               },
               {
                 "t": "p",
-                "x": "In return, Zocdoc expects agents to obtain patient consent and protect patient and provider data; they are not allowed to train themselves based on the data, resell it or republish it. Zocdoc did not specify how it plans to ensure that agents respect that agreement."
-              },
-              {
-                "t": "p",
-                "x": "“Our mission is to give power to the patient. If they want to delegate the booking to an AI agent, then we should give them the frictionless access to care that they want,” Kharraz said."
+                "x": "Whether the forgone care was unnecessary or needed remains unknown; the authors call for tracking persistence, appropriateness of care, patient outcomes, clinician burden and Medicare spending."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Zocdoc, 환자 예약을\nAI 에이전트에 연다",
-          "body": "Zocdoc이 환자 예약을 AI 에이전트에 열자 CEO는 역발상이라 불렀다.",
-          "mini_headline": "Zocdoc, AI 에이전트에 문 연다",
+          "headline": "AI 사전승인 도입 뒤\nMedicare 이용 감소",
+          "body": "JAMA 분석에서 WISeR 주 경막외 주사 약 15%, 기타는 약 20% 줄었다.",
+          "mini_headline": "Medicare 속 AI 사전승인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "온라인 진료 예약 기업 Zocdoc이 AI 에이전트가 환자 대신 의료진을 찾고 진료를 예약하도록 길을 열었다."
+                "x": "University of Minnesota의 Hannah T. Neprash, PhD와 Brown University의 Michael L. Barnett, MD, MS가 쓴 Research Letter다. 사전승인은 \"임상의가 보상을 받기 전에 특정 의료 서비스의 정당성을 제출하도록 요구하는 절차\"다. 전통적 Medicare는 드문 예외를 빼고는 사전승인을 요구하지 않았다."
               },
               {
                 "t": "p",
-                "x": "회사는 수요일, 에이전트가 접근하려면 Zocdoc에 등록해야 하고 온라인 플랫폼에서 예약을 잡거나 취소하기 전에 환자 동의를 받아야 한다고 밝혔다. Google Gemini, Amazon Health AI, 문자·전화로 움직이는 AI 에이전트 Instinct가 이미 연결됐다. 다른 에이전트도 사람의 도움 여부와 상관없이 접근을 신청할 수 있다."
+                "x": "Center for Medicare & Medicaid Innovation의 Wasteful and Inappropriate Service Reduction(WISeR) 모델은 2026년 1월 Arizona, New Jersey, Ohio, Oklahoma, Texas, Washington에서 시작된 6년짜리 시범 사업이다. 선정된 서비스에 사전승인을 요구하고 참여자에게는 인공지능을 쓰도록 권한다. 초기 효과를 보여 주는 근거는 아직 없었다."
               },
               {
                 "t": "p",
-                "x": "Zocdoc 창업자이자 CEO인 Dr. Oliver Kharraz는 “우리처럼 에이전트를 반기는 방식은 다소 역발상적인 행보라고 말하고 싶다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdoc은 칠월 이후 자사 플랫폼의 AI 에이전트 트래픽이 30배 가까이 늘었다고 밝혔다. 이제 예약 플랫폼을 에이전트에 직접 개방한다."
+                "x": "연구진은 Epic Cosmos 전자건강기록 데이터로 WISeR-targeted(WISeR 대상) 서비스의 월별 이용량을 살폈다. 여섯 개 시범 주와 나머지 모든 주 및 Washington, D.C.를 나눠 시행 전 두 해와 시행 후 첫 여섯 달을 견줬다."
               },
               {
                 "t": "p",
-                "x": "승인된 에이전트는 Zocdoc의 AI 백엔드에 붙어 의료진 목록을 살피고, 진료 가능 시간과 보험을 확인한 뒤 진료를 예약할 수 있다. 최종 결정 전에는 환자에게 확인을 받는다."
+                "x": "비시범 주와 비교하면 경막외 스테로이드 주사는 약 15%, 기타 대상 서비스는 약 20% 줄었다. 감소 폭은 시행 직후가 가장 컸다. 경막외 스테로이드 주사는 2026년 첫 분기에 약 21%, 두 번째 분기에 약 9% 낮았다. 기타 서비스는 21%에서 18%로 움직였다. WISeR 대상으로 예정됐다가 실제로 시행되지 않은 서비스는 유의하게 줄지 않았다."
               },
               {
                 "t": "p",
-                "x": "대신 Zocdoc은 에이전트가 환자 동의를 받고 환자·의료진 데이터를 보호하기를 기대한다. 에이전트는 이 데이터로 스스로를 학습시키거나 재판매하거나 재게시할 수 없다. 이 약속을 어떻게 지키게 할지는 Zocdoc이 구체적으로 밝히지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Kharraz는 “우리의 사명은 환자에게 힘을 주는 것이다. 환자가 예약을 AI 에이전트에 맡기고 싶다면, 우리는 그들이 원하는 마찰 없는 진료 접근을 제공해야 한다”고 말했다."
+                "x": "줄어든 진료가 불필요했는지, 꼭 필요했는지는 아직 모른다. 연구진은 효과가 이어지는지와 진료의 적절성, 환자 결과, 임상의 부담, Medicare 지출을 계속 추적해야 한다고 제언한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Zocdoc、患者の予約を\nAIエージェントに開放",
-          "body": "Zocdocが患者の予約をAIエージェントに開放し、CEOはこれを逆張りの一手と呼ぶ。",
-          "mini_headline": "Zocdoc、AIエージェントに開放",
+          "headline": "AI事前承認の導入で\nMedicare利用が減少",
+          "body": "JAMAによると、WISeR試行州で硬膜外注射は約15%、他の対象は約20%減った。",
+          "mini_headline": "MedicareのAI事前承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "オンライン予約サービスのZocdocは、AIエージェントが患者に代わって医療提供者を探し、予約できるようにした。"
+                "x": "University of MinnesotaのHannah T. Neprash, PhDとBrown UniversityのMichael L. Barnett, MD, MSによるResearch Letterである。事前承認とは「償還が行われる前に、特定の医療サービスについて臨床医に正当性の提出を求める手続き」だ。従来型のMedicareは、まれな例外を除き事前承認を一切求めてこなかった。"
               },
               {
                 "t": "p",
-                "x": "同社が水曜日に明らかにしたところによると、エージェントはアクセスを得るためにZocdocに登録し、オンラインプラットフォーム上で予約や取り消しを行う前に患者の同意を得る必要がある。Google Gemini、Amazon Health AI、テキストと通話で動くAIエージェントInstinctがすでに接続しており、ほかのエージェントも人の手を借りるかどうかにかかわらずアクセスを申請できる。"
+                "x": "Center for Medicare & Medicaid InnovationのWasteful and Inappropriate Service Reduction（WISeR）モデルは、2026年1月にArizona、New Jersey、Ohio、Oklahoma、Texas、Washingtonで始まった6年間の試行事業で、選定したサービスに事前承認を求め、参加者に人工知能の活用を促している。初期の影響を示す根拠はこれまでなかった。"
               },
               {
                 "t": "p",
-                "x": "「当社のようにエージェントを歓迎するのは、少し逆張りの動きだと言える」と、Zocdocの創業者兼CEOであるDr. Oliver Kharrazは述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdocによると、同社プラットフォーム上のAIエージェントのトラフィックは七月以降で30倍近くに増えた。同社は今、予約プラットフォームをエージェントに直接開放する。"
+                "x": "著者らはEpic Cosmosの電子カルテデータを用い、WISeR-targeted（WISeRの対象）サービスの月間利用量を、六つの試行州と、それ以外のすべての州およびWashington, D.C.とで比較した。期間は開始前の二年間と開始後の最初の六カ月である。"
               },
               {
                 "t": "p",
-                "x": "承認されたエージェントはZocdocのAIバックエンドに接続し、医療提供者のディレクトリを調べ、臨床医の空き状況を確認し、保険を照合して予約できる。最終的な決定の前には患者に確認をとる。"
+                "x": "非試行州と比べ、硬膜外ステロイド注射は約15%、他の対象サービスは約20%減った。減少は開始直後が最も大きかった。硬膜外ステロイド注射は2026年の最初の四半期に約21%、次の四半期に約9%低く、他のサービスは21%から18%に推移した。WISeRの対象に予定されながら実施されなかったサービスには有意な減少は見られなかった。"
               },
               {
                 "t": "p",
-                "x": "その見返りとして、Zocdocはエージェントに患者の同意を得ることと、患者と医療提供者のデータを保護することを求める。エージェントはそのデータで自らを学習させることも、転売や再公開も認められない。Zocdocは、エージェントにこの合意を守らせる方法を明らかにしていない。"
-              },
-              {
-                "t": "p",
-                "x": "「当社の使命は患者に力を与えることだ。患者が予約をAIエージェントに任せたいなら、望む通りの摩擦のない医療へのアクセスを提供すべきだ」とKharrazは語った。"
+                "x": "見送られた医療が不要だったのか必要だったのかは、まだわからない。著者らは、効果の持続性、医療の適切性、患者アウトカム、臨床医の負担、Medicareの支出を追跡するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Zocdoc向AI代理\n开放患者预约",
-          "body": "Zocdoc邀请AI代理为患者预约就诊，其CEO称这是一步逆向之举。",
-          "mini_headline": "Zocdoc向AI代理开放",
+          "headline": "AI预先授权上路后\nMedicare使用量下降",
+          "body": "JAMA发现，WISeR试点州硬膜外类固醇注射减少约15%，其他目标服务减少约20%。",
+          "mini_headline": "Medicare的AI预先授权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "在线预约公司Zocdoc现已允许AI代理代表患者搜索医疗服务提供者并预约就诊。"
+                "x": "这是University of Minnesota的Hannah T. Neprash, PhD与Brown University的Michael L. Barnett, MD, MS撰写的Research Letter。预先授权是“要求临床医生在获得报销之前，为特定医疗服务提交理由的流程”。传统Medicare历来除极少数例外，从未要求任何预先授权。"
               },
               {
                 "t": "p",
-                "x": "该公司周三表示，代理须在Zocdoc注册以获得访问权限，并在其在线平台上预约或取消预约前获得患者同意。Google Gemini、Amazon Health AI以及基于短信和电话的AI代理Instinct已经接入，其他代理无论有无人工协助均可申请访问。"
+                "x": "Center for Medicare & Medicaid Innovation推出的Wasteful and Inappropriate Service Reduction（WISeR）模式是一项为期6年的试点，于2026年1月在Arizona、New Jersey、Ohio、Oklahoma、Texas和Washington启动，要求部分选定服务事先授权，并鼓励参与方使用人工智能。此前尚无关于其初期影响的证据。"
               },
               {
                 "t": "p",
-                "x": "“我想说，像我们这样欢迎代理，有点逆向而行，”Zocdoc创始人兼CEO Dr. Oliver Kharraz表示。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdoc称，自七月以来其平台上的AI代理流量增长了近30倍，如今公司正直接向它们开放预约平台。"
+                "x": "作者利用Epic Cosmos电子健康记录数据，比较了六个试点州与其他所有州及Washington, D.C.在WISeR-targeted（WISeR目标）服务上的月度使用量，时间跨度为启动前两年和启动后的头六个月。"
               },
               {
                 "t": "p",
-                "x": "获批的代理可接入Zocdoc的AI后端，筛查其医疗服务提供者名录、查看临床医生的空闲时间、核实保险并预约就诊，在做出任何最终决定前都会先与患者确认。"
+                "x": "与非试点州相比，硬膜外类固醇注射减少约15%，其他目标服务减少约20%。降幅在启动之初最大：2026年第一季度硬膜外类固醇注射低约21%，第二季度低约9%；其他服务则从21%变为18%。原定纳入WISeR但从未实施的服务没有出现显著下降。"
               },
               {
                 "t": "p",
-                "x": "作为交换，Zocdoc要求代理获得患者同意，并保护患者和医疗服务提供者的数据；代理不得利用这些数据训练自身，也不得转售或重新发布。Zocdoc未具体说明将如何确保代理遵守这一约定。"
-              },
-              {
-                "t": "p",
-                "x": "“我们的使命是赋权于患者。如果他们想把预约交给AI代理，我们就应当为他们提供所希望的无摩擦就医渠道，”Kharraz说。"
+                "x": "被放弃的医疗究竟是不必要的还是必需的，目前仍不清楚；作者呼吁追踪效果的持续性、医疗的适当性、患者结局、临床医生负担以及Medicare支出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zocdoc deja que agentes de AI\nreserven citas para pacientes",
-          "body": "Zocdoc invita a agentes de AI a reservar citas para pacientes, algo que su CEO llama una apuesta a contracorriente.",
-          "mini_headline": "Zocdoc se abre a agentes de AI",
+          "headline": "Cae el uso de Medicare tras la\nautorización previa con AI",
+          "body": "En los estados de WISeR, las inyecciones epidurales bajaron cerca de un 15% y otros servicios un 20%, según JAMA.",
+          "mini_headline": "Autorización previa con AI en Medicare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La empresa de citas en línea Zocdoc permite ahora que agentes de AI busquen proveedores y reserven citas en nombre de los pacientes."
+                "x": "Research Letter de Hannah T. Neprash, PhD (University of Minnesota) y Michael L. Barnett, MD, MS (Brown University). La autorización previa es \"un proceso que exige a los clínicos presentar una justificación de determinados servicios médicos antes de que se ofrezca el reembolso\". Históricamente, Medicare tradicional no ha exigido ninguna autorización previa, salvo raras excepciones."
               },
               {
                 "t": "p",
-                "x": "Los agentes deben registrarse en Zocdoc para obtener acceso y conseguir el consentimiento del paciente antes de reservar o cancelar una cita en su plataforma en línea, informó la empresa el miércoles. Google Gemini, Amazon Health AI e Instinct, un agente de AI basado en texto y llamadas, ya están conectados, y otros agentes pueden solicitar acceso con o sin ayuda de una persona."
+                "x": "El modelo Wasteful and Inappropriate Service Reduction (WISeR) del Center for Medicare & Medicaid Innovation, un piloto de 6 años que comenzó en enero de 2026 en Arizona, New Jersey, Ohio, Oklahoma, Texas y Washington, exige autorización previa para servicios seleccionados y anima a los participantes a usar inteligencia artificial. Hasta ahora no había evidencia sobre su impacto inicial."
               },
               {
                 "t": "p",
-                "x": "“Diría que recibir a los agentes como lo hacemos es una apuesta algo a contracorriente”, dijo el Dr. Oliver Kharraz, fundador y CEO de Zocdoc."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdoc afirma que el tráfico de agentes de AI en su plataforma se ha multiplicado casi por 30 desde julio; ahora la empresa les abre directamente su plataforma de reservas."
+                "x": "Con datos de historias clínicas electrónicas de Epic Cosmos, los autores compararon el uso mensual de los servicios WISeR-targeted (objetivo de WISeR) en los seis estados piloto con el resto de los estados y Washington, D.C., durante los dos años previos al lanzamiento y los primeros seis meses posteriores."
               },
               {
                 "t": "p",
-                "x": "Un agente aprobado puede conectarse al backend de AI de Zocdoc para revisar su directorio de proveedores, consultar la disponibilidad de un clínico, verificar el seguro y reservar una cita, y consulta con el paciente antes de tomar cualquier decisión final."
+                "x": "Frente a los estados no piloto, las inyecciones epidurales de esteroides cayeron cerca de un 15% y otros servicios objetivo cerca de un 20%. La caída fue mayor al inicio: las inyecciones epidurales de esteroides fueron cerca de un 21% menores en el primer trimestre de 2026 y cerca de un 9% en el segundo; otros servicios pasaron del 21% al 18%. Los servicios previstos para WISeR que nunca se implementaron no mostraron un descenso significativo."
               },
               {
                 "t": "p",
-                "x": "A cambio, Zocdoc espera que los agentes obtengan el consentimiento del paciente y protejan los datos de pacientes y proveedores; no pueden entrenarse con esos datos, revenderlos ni republicarlos. Zocdoc no precisó cómo piensa garantizar que los agentes respeten ese acuerdo."
-              },
-              {
-                "t": "p",
-                "x": "“Nuestra misión es dar poder al paciente. Si quiere delegar la reserva en un agente de AI, debemos darle el acceso sin fricciones a la atención que desea”, dijo Kharraz."
+                "x": "Se desconoce si la atención no prestada era innecesaria o necesaria; los autores piden seguir la persistencia del efecto, la idoneidad de la atención, los resultados de los pacientes, la carga de los clínicos y el gasto de Medicare."
               }
             ]
           }
@@ -247,157 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Zocdoc, 환자 예약을\nAI 에이전트에 연다",
-          "body": "Zocdoc이 AI 에이전트에 환자 예약을 열었고, CEO는 역발상이라 했다.",
-          "mini_headline": "Zocdoc, AI 에이전트에 문 연다",
+          "headline": "AI 사전승인 후\nMedicare 이용 감소",
+          "body": "JAMA는 WISeR 주 경막외 주사 약 15%, 기타 약 20% 감소를 확인했다.",
+          "mini_headline": "Medicare의 AI 사전승인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "온라인 진료 예약 기업 Zocdoc이 AI 에이전트가 환자를 대신해 의료진을 찾고 진료를 예약할 수 있도록 했다."
+                "x": "University of Minnesota의 Hannah T. Neprash, PhD와 Brown University의 Michael L. Barnett, MD, MS가 쓴 Research Letter다. 사전승인은 \"임상의가 보상을 받기 전에 특정 의료 서비스의 정당성을 제출하도록 요구하는 절차\"다. 전통적 Medicare는 드문 예외를 빼면 사전승인을 요구하지 않았다."
               },
               {
                 "t": "p",
-                "x": "회사는 수요일, 에이전트가 접근 권한을 얻으려면 Zocdoc에 등록해야 하고 온라인 플랫폼에서 예약을 잡거나 취소하기 전에 환자 동의를 받아야 한다고 밝혔다. Google Gemini, Amazon Health AI, 문자·전화 기반 AI 에이전트 Instinct가 이미 연결됐고, 다른 에이전트도 사람의 도움을 받든 받지 않든 접근을 신청할 수 있다."
+                "x": "Center for Medicare & Medicaid Innovation의 Wasteful and Inappropriate Service Reduction(WISeR) 모델은 2026년 1월 Arizona, New Jersey, Ohio, Oklahoma, Texas, Washington에서 시작된 6년 시범 사업으로, 선정된 서비스에 사전승인을 요구하고 참여자에게 인공지능 활용을 권한다. 초기 효과에 대한 근거는 지금까지 없었다."
               },
               {
                 "t": "p",
-                "x": "Zocdoc 창업자이자 CEO인 Dr. Oliver Kharraz는 “우리처럼 에이전트를 반기는 방식은 다소 역발상적인 행보라고 말하고 싶다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdoc은 칠월 이후 자사 플랫폼의 AI 에이전트 트래픽이 30배 가까이 늘었다고 밝혔다. 이제 회사는 예약 플랫폼을 에이전트에 직접 개방한다."
+                "x": "연구진은 Epic Cosmos 전자건강기록 데이터로 WISeR-targeted(WISeR 대상) 서비스의 월별 이용량을 여섯 개 시범 주와 나머지 모든 주 및 Washington, D.C.로 나눠 비교했다. 기간은 시행 전 두 해와 시행 후 첫 여섯 달이다."
               },
               {
                 "t": "p",
-                "x": "승인된 에이전트는 Zocdoc의 AI 백엔드에 연결해 의료진 목록을 살피고, 의료진의 진료 가능 시간을 확인하고, 보험을 확인한 뒤 진료를 예약할 수 있다. 최종 결정을 내리기 전에는 환자에게 확인을 거친다."
+                "x": "비시범 주와 비교해 경막외 스테로이드 주사는 약 15%, 기타 대상 서비스는 약 20% 줄었다. 감소 폭은 시행 직후가 가장 컸다. 경막외 스테로이드 주사는 2026년 첫 분기에 약 21%, 두 번째 분기에 약 9% 낮았고, 기타 서비스는 21%에서 18%로 바뀌었다. WISeR 대상으로 예정됐지만 실제로 시행되지 않은 서비스에서는 유의한 감소가 없었다."
               },
               {
                 "t": "p",
-                "x": "그 대가로 Zocdoc은 에이전트가 환자 동의를 받고 환자와 의료진 데이터를 보호하기를 기대한다. 에이전트는 이 데이터로 스스로를 학습시키거나 재판매하거나 재게시할 수 없다. Zocdoc은 에이전트가 이 약속을 지키도록 어떻게 보장할지는 구체적으로 밝히지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Kharraz는 “우리의 사명은 환자에게 힘을 주는 것이다. 환자가 예약을 AI 에이전트에 맡기고 싶다면, 우리는 그들이 원하는 마찰 없는 진료 접근을 제공해야 한다”고 말했다."
+                "x": "줄어든 진료가 불필요했는지 필요했는지는 아직 알 수 없다. 연구진은 효과의 지속성, 진료의 적절성, 환자 결과, 임상의 부담, Medicare 지출을 추적해야 한다고 제언한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Zocdoc、患者の予約を\nAIエージェントに開放",
-          "body": "Zocdocが患者の予約をAIエージェントに開放し、CEOはこれを逆張りの一手と呼ぶ。",
-          "mini_headline": "Zocdoc、AIエージェントに開放",
+          "headline": "AI事前承認の導入で\nMedicare利用が減少",
+          "body": "JAMAによると、WISeR試行州で硬膜外注射は約15%、他の対象は約20%減った。",
+          "mini_headline": "MedicareのAI事前承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "オンライン予約サービスのZocdocは、AIエージェントが患者に代わって医療提供者を探し、予約できるようにした。"
+                "x": "University of MinnesotaのHannah T. Neprash, PhDとBrown UniversityのMichael L. Barnett, MD, MSによるResearch Letterである。事前承認とは「償還が行われる前に、特定の医療サービスについて臨床医に正当性の提出を求める手続き」だ。従来型のMedicareは、まれな例外を除き事前承認を一切求めてこなかった。"
               },
               {
                 "t": "p",
-                "x": "同社が水曜日に明らかにしたところによると、エージェントはアクセスを得るためにZocdocに登録し、オンラインプラットフォーム上で予約や取り消しを行う前に患者の同意を得る必要がある。Google Gemini、Amazon Health AI、テキストと通話で動くAIエージェントInstinctがすでに接続しており、ほかのエージェントも人の手を借りるかどうかにかかわらずアクセスを申請できる。"
+                "x": "Center for Medicare & Medicaid InnovationのWasteful and Inappropriate Service Reduction（WISeR）モデルは、2026年1月にArizona、New Jersey、Ohio、Oklahoma、Texas、Washingtonで始まった6年間の試行事業で、選定したサービスに事前承認を求め、参加者に人工知能の活用を促している。初期の影響を示す根拠はこれまでなかった。"
               },
               {
                 "t": "p",
-                "x": "「当社のようにエージェントを歓迎するのは、少し逆張りの動きだと言える」と、Zocdocの創業者兼CEOであるDr. Oliver Kharrazは述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdocによると、同社プラットフォーム上のAIエージェントのトラフィックは七月以降で30倍近くに増えた。同社は今、予約プラットフォームをエージェントに直接開放する。"
+                "x": "著者らはEpic Cosmosの電子カルテデータを用い、WISeR-targeted（WISeRの対象）サービスの月間利用量を、六つの試行州と、それ以外のすべての州およびWashington, D.C.とで比較した。期間は開始前の二年間と開始後の最初の六カ月である。"
               },
               {
                 "t": "p",
-                "x": "承認されたエージェントはZocdocのAIバックエンドに接続し、医療提供者のディレクトリを調べ、臨床医の空き状況を確認し、保険を照合して予約できる。最終的な決定の前には患者に確認をとる。"
+                "x": "非試行州と比べ、硬膜外ステロイド注射は約15%、他の対象サービスは約20%減った。減少は開始直後が最も大きかった。硬膜外ステロイド注射は2026年の最初の四半期に約21%、次の四半期に約9%低く、他のサービスは21%から18%に推移した。WISeRの対象に予定されながら実施されなかったサービスには有意な減少は見られなかった。"
               },
               {
                 "t": "p",
-                "x": "その見返りとして、Zocdocはエージェントに患者の同意を得ることと、患者と医療提供者のデータを保護することを求める。エージェントはそのデータで自らを学習させることも、転売や再公開も認められない。Zocdocは、エージェントにこの合意を守らせる方法を明らかにしていない。"
-              },
-              {
-                "t": "p",
-                "x": "「当社の使命は患者に力を与えることだ。患者が予約をAIエージェントに任せたいなら、望む通りの摩擦のない医療へのアクセスを提供すべきだ」とKharrazは語った。"
+                "x": "見送られた医療が不要だったのか必要だったのかは、まだわからない。著者らは、効果の持続性、医療の適切性、患者アウトカム、臨床医の負担、Medicareの支出を追跡するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Zocdoc向AI代理\n开放患者预约",
-          "body": "Zocdoc邀请AI代理为患者预约就诊，其CEO称这是一步逆向之举。",
-          "mini_headline": "Zocdoc向AI代理开放",
+          "headline": "AI预先授权上路后\nMedicare使用量下降",
+          "body": "JAMA发现，WISeR试点州硬膜外类固醇注射减少约15%，其他目标服务减少约20%。",
+          "mini_headline": "Medicare的AI预先授权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "在线预约公司Zocdoc现已允许AI代理代表患者搜索医疗服务提供者并预约就诊。"
+                "x": "这是University of Minnesota的Hannah T. Neprash, PhD与Brown University的Michael L. Barnett, MD, MS撰写的Research Letter。预先授权是“要求临床医生在获得报销之前，为特定医疗服务提交理由的流程”。传统Medicare历来除极少数例外，从未要求任何预先授权。"
               },
               {
                 "t": "p",
-                "x": "该公司周三表示，代理须在Zocdoc注册以获得访问权限，并在其在线平台上预约或取消预约前获得患者同意。Google Gemini、Amazon Health AI以及基于短信和电话的AI代理Instinct已经接入，其他代理无论有无人工协助均可申请访问。"
+                "x": "Center for Medicare & Medicaid Innovation推出的Wasteful and Inappropriate Service Reduction（WISeR）模式是一项为期6年的试点，于2026年1月在Arizona、New Jersey、Ohio、Oklahoma、Texas和Washington启动，要求部分选定服务事先授权，并鼓励参与方使用人工智能。此前尚无关于其初期影响的证据。"
               },
               {
                 "t": "p",
-                "x": "“我想说，像我们这样欢迎代理，有点逆向而行，”Zocdoc创始人兼CEO Dr. Oliver Kharraz表示。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdoc称，自七月以来其平台上的AI代理流量增长了近30倍，如今公司正直接向它们开放预约平台。"
+                "x": "作者利用Epic Cosmos电子健康记录数据，比较了六个试点州与其他所有州及Washington, D.C.在WISeR-targeted（WISeR目标）服务上的月度使用量，时间跨度为启动前两年和启动后的头六个月。"
               },
               {
                 "t": "p",
-                "x": "获批的代理可接入Zocdoc的AI后端，筛查其医疗服务提供者名录、查看临床医生的空闲时间、核实保险并预约就诊，在做出任何最终决定前都会先与患者确认。"
+                "x": "与非试点州相比，硬膜外类固醇注射减少约15%，其他目标服务减少约20%。降幅在启动之初最大：2026年第一季度硬膜外类固醇注射低约21%，第二季度低约9%；其他服务则从21%变为18%。原定纳入WISeR但从未实施的服务没有出现显著下降。"
               },
               {
                 "t": "p",
-                "x": "作为交换，Zocdoc要求代理获得患者同意，并保护患者和医疗服务提供者的数据；代理不得利用这些数据训练自身，也不得转售或重新发布。Zocdoc未具体说明将如何确保代理遵守这一约定。"
-              },
-              {
-                "t": "p",
-                "x": "“我们的使命是赋权于患者。如果他们想把预约交给AI代理，我们就应当为他们提供所希望的无摩擦就医渠道，”Kharraz说。"
+                "x": "被放弃的医疗究竟是不必要的还是必需的，目前仍不清楚；作者呼吁追踪效果的持续性、医疗的适当性、患者结局、临床医生负担以及Medicare支出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zocdoc deja que agentes de AI\nreserven citas para pacientes",
-          "body": "Zocdoc invita a agentes de AI a reservar citas para pacientes, algo que su CEO llama una apuesta a contracorriente.",
-          "mini_headline": "Zocdoc se abre a agentes de AI",
+          "headline": "Cae el uso de Medicare tras la\nautorización previa con AI",
+          "body": "En los estados de WISeR, las inyecciones epidurales bajaron cerca de un 15% y otros servicios un 20%, según JAMA.",
+          "mini_headline": "Autorización previa con AI en Medicare",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La empresa de citas en línea Zocdoc permite ahora que agentes de AI busquen proveedores y reserven citas en nombre de los pacientes."
+                "x": "Research Letter de Hannah T. Neprash, PhD (University of Minnesota) y Michael L. Barnett, MD, MS (Brown University). La autorización previa es \"un proceso que exige a los clínicos presentar una justificación de determinados servicios médicos antes de que se ofrezca el reembolso\". Históricamente, Medicare tradicional no ha exigido ninguna autorización previa, salvo raras excepciones."
               },
               {
                 "t": "p",
-                "x": "Los agentes deben registrarse en Zocdoc para obtener acceso y conseguir el consentimiento del paciente antes de reservar o cancelar una cita en su plataforma en línea, informó la empresa el miércoles. Google Gemini, Amazon Health AI e Instinct, un agente de AI basado en texto y llamadas, ya están conectados, y otros agentes pueden solicitar acceso con o sin ayuda de una persona."
+                "x": "El modelo Wasteful and Inappropriate Service Reduction (WISeR) del Center for Medicare & Medicaid Innovation, un piloto de 6 años que comenzó en enero de 2026 en Arizona, New Jersey, Ohio, Oklahoma, Texas y Washington, exige autorización previa para servicios seleccionados y anima a los participantes a usar inteligencia artificial. Hasta ahora no había evidencia sobre su impacto inicial."
               },
               {
                 "t": "p",
-                "x": "“Diría que recibir a los agentes como lo hacemos es una apuesta algo a contracorriente”, dijo el Dr. Oliver Kharraz, fundador y CEO de Zocdoc."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-                "cap": "Zocdoc afirma que el tráfico de agentes de AI en su plataforma se ha multiplicado casi por 30 desde julio; ahora la empresa les abre directamente su plataforma de reservas."
+                "x": "Con datos de historias clínicas electrónicas de Epic Cosmos, los autores compararon el uso mensual de los servicios WISeR-targeted (objetivo de WISeR) en los seis estados piloto con el resto de los estados y Washington, D.C., durante los dos años previos al lanzamiento y los primeros seis meses posteriores."
               },
               {
                 "t": "p",
-                "x": "Un agente aprobado puede conectarse al backend de AI de Zocdoc para revisar su directorio de proveedores, consultar la disponibilidad de un clínico, verificar el seguro y reservar una cita, y consulta con el paciente antes de tomar cualquier decisión final."
+                "x": "Frente a los estados no piloto, las inyecciones epidurales de esteroides cayeron cerca de un 15% y otros servicios objetivo cerca de un 20%. La caída fue mayor al inicio: las inyecciones epidurales de esteroides fueron cerca de un 21% menores en el primer trimestre de 2026 y cerca de un 9% en el segundo; otros servicios pasaron del 21% al 18%. Los servicios previstos para WISeR que nunca se implementaron no mostraron un descenso significativo."
               },
               {
                 "t": "p",
-                "x": "A cambio, Zocdoc espera que los agentes obtengan el consentimiento del paciente y protejan los datos de pacientes y proveedores; no pueden entrenarse con esos datos, revenderlos ni republicarlos. Zocdoc no precisó cómo piensa garantizar que los agentes respeten ese acuerdo."
-              },
-              {
-                "t": "p",
-                "x": "“Nuestra misión es dar poder al paciente. Si quiere delegar la reserva en un agente de AI, debemos darle el acceso sin fricciones a la atención que desea”, dijo Kharraz."
+                "x": "Se desconoce si la atención no prestada era innecesaria o necesaria; los autores piden seguir la persistencia del efecto, la idoneidad de la atención, los resultados de los pacientes, la carga de los clínicos y el gasto de Medicare."
               }
             ]
           }
@@ -405,15 +315,15 @@
       }
     },
     {
-      "id": "medicine-ed-fracture-ai",
+      "id": "nature-cancer-irae-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "응급실(ED) 방사선사,\nAI 유무로 골절 판독",
-      "body": "한 응급실 방사선사 13명이 석 달간 AI 도움 유무에 따라 골절을 판독했다.",
-      "mini_headline": "실제 ED 현장의 골절 AI",
+      "headline": "면역항암제 부작용\nAI 에이전트가 잡는다",
+      "body": "연구진이 면역항암제 이상반응 탐지를 돕는 AI 에이전트를 단계별로 검증했다.",
+      "mini_headline": "irAEs 찾아내는 AI 에이전트",
       "tool": "Medicine",
-      "source": "npj Digital Medicine (Nature)",
-      "url": "https://www.nature.com/articles/s41746-026-03313-x",
+      "source": "Nature Cancer",
+      "url": "https://www.nature.com/articles/s43018-026-01264-6",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -421,149 +331,185 @@
         "blocks": [
           {
             "t": "p",
-            "x": "골절 탐지 인공지능(AI) 시스템은 통제된 환경에서는 성능이 높지만 실제 현장의 전향적 근거는 부족하다. 배치는 한 응급실에서 석 달간 진행됐다. 방사선사 주도 선별 프로그램에 속한 방사선사 열세 명이 연속된 근골격계 검사 2496건을 독립적으로 판독하고(검사당 방사선사 한 명), 상용 딥러닝 시스템의 출력을 검토한 뒤 최종 판단을 기록했다. 이렇게 영상의학과 전문의 기준과 비교할 짝 판독 2496건이 모였다."
+            "x": "면역 관련 이상반응(irAEs)은 면역관문억제제를 투여받는 환자의 최대 40%에서 나타난다. 그런데 이를 찾으려면 손이 많이 들고 결과도 들쭉날쭉한 수작업 차트 검토에 기대야 한다. 저자들은 에이전트형 대규모 언어모델 시스템을 만들어 평가했다. 임상 기록에서 여섯 가지 irAE 유형의 유무와 시간적 관계, 중증도 등급, 인과 귀속, 확실성을 뽑아내는 시스템이다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+            "cap": "Fig. 1: LLM-based 에이전트형 irAE 탐지 시스템을 여러 차원에서 검증하는 프레임워크."
           },
           {
             "t": "p",
-            "x": "AI 단독 민감도는 75.6%였고 미세 골절에서는 46.2%까지 떨어져, 방사선사의 기본 민감도 91.6%에 못 미쳤다. 방사선사의 기본 정확도는 높았는데(97.6%, 특이도 99.0%) AI 도움을 받자 소폭 올랐다(98.0%, exact McNemar p = 0.0064). AI 도움을 받은 방사선사는 오류 11건을 바로잡고 1건을 새로 만들어 순이득 10건을 거뒀다."
+            "x": "후향적 평가에서 시스템은 현재 이벤트 탐지 매크로 평균 F1 0.92, 다중 클래스 중증도 등급 분류 0.66을 기록했다. 자기일관성 기법을 더하자 F1이 0.14 올랐다. 가장 성능이 좋은 구성은 기록 한 건에 약 US$0.02가 들었다. 3개월 동안 전향적 무표시 배치를 했을 때 이진 F1은 0.72–0.79였다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+            "cap": "Fig. 2: irAE 탐지와 등급 분류, 인과 귀속, 확실성 평가를 맡는 다단계 에이전트형 아키텍처."
           },
           {
             "t": "p",
-            "x": "판단이 엇갈린 729건 가운데 방사선사가 결정을 바꾼 건 11건뿐이었고, 부정적 상호작용은 대부분 맞는 AI 권고를 받아들이지 않은 경우였다. 촬영 검사의 8.8%에서는 AI 출력이 아예 없거나 불완전했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 도움이 낸 이득은 작고 선택적이었다. 알고리즘이 더 뛰어나서가 아니라 서로 보완했기 때문이다. 운영 신뢰성은 진단 정확도만큼 중요했다. 이후 임상 결과는 측정하지 않았다."
+            "x": "임상시험 인력이 참여한 무작위 교차 연구에서는 에이전트의 도움을 받자 주석 작업 시간이 2.71분 줄었다(P < 0.001). 완전 일치 정확도도 높아졌고(오즈비 1.45; 95% 신뢰구간 1.01–2.08; P = 0.045) 주석자 간 일치도는 Krippendorff's α 0.22–0.51에서 0.82–0.85로 올랐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Radiographers read fractures\nwith and without AI in the ED",
-          "body": "Over three months in one emergency department, 13 radiographers read fractures both with and without AI assistance.",
-          "mini_headline": "Fracture AI in a live ED",
+          "headline": "An AI agent helps catch\nimmunotherapy side effects",
+          "body": "A multi-phase study validates an AI agent that helps clinicians detect immune-related adverse events of immunotherapy.",
+          "mini_headline": "AI agent flags irAEs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) systems for fracture detection perform strongly in controlled settings, but prospective real-world evidence is limited. In a three-month deployment in one emergency department, thirteen radiographers in a radiographer-led screening programme independently interpreted 2496 consecutive musculoskeletal examinations (one radiographer per examination), reviewed output from a commercial deep-learning system, then recorded a final decision, giving 2496 paired reads against a radiologist reference standard."
+                "x": "Immune-related adverse events (irAEs) affect up to 40% of patients receiving immune checkpoint inhibitors, yet identification requires laborious, inconsistent manual chart review. The authors developed and evaluated an agentic large language model system to extract the presence, temporality, severity grade, attribution and certainty of six irAE types from clinical notes."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: Multi-dimensional validation framework for an agentic LLM-based irAE detection system."
               },
               {
                 "t": "p",
-                "x": "Standalone AI sensitivity was 75.6%, falling to 46.2% for subtle fractures, below the radiographers’ baseline sensitivity of 91.6%. Radiographers’ baseline accuracy was high (97.6%; specificity 99.0%) and improved modestly with AI assistance (98.0%; exact McNemar p = 0.0064). With AI assistance, radiographers corrected 11 errors and introduced 1, a net gain of 10 cases."
+                "x": "Retrospectively, the system achieved a macro-averaged F1 of 0.92 for current-event detection and 0.66 for multi-class severity grading; self-consistency improved F1 by 0.14. The best-performing configuration cost approximately US$0.02 per note. In prospective silent deployment over 3 months, the binary F1 was 0.72–0.79."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: Multi-stage agentic architecture for irAE detection, grading, attribution and certainty assessment."
               },
               {
                 "t": "p",
-                "x": "Radiographers changed their decision in only 11 of 729 discordant cases, and most negative interactions were correct AI recommendations not adopted. No or incomplete AI output was returned for 8.8% of acquired examinations."
-              },
-              {
-                "t": "p",
-                "x": "AI assistance delivered a small, selective benefit arising from complementary rather than superior algorithmic performance. Operational reliability proved as consequential as diagnostic accuracy. Downstream clinical outcomes were not measured."
+                "x": "In a randomized crossover study of clinical trial staff, agentic assistance reduced annotation time by 2.71 min (P < 0.001), increased complete-match accuracy (odds ratio 1.45; 95% confidence interval 1.01–2.08; P = 0.045) and improved interannotator agreement (Krippendorff's α from 0.22–0.51 to 0.82–0.85)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "응급실(ED) 방사선사,\nAI 유무로 골절 판독",
-          "body": "한 응급실 방사선사 13명이 석 달간 AI 도움 유무에 따라 골절을 판독했다.",
-          "mini_headline": "실제 ED 현장의 골절 AI",
+          "headline": "면역항암제 부작용\nAI 에이전트가 잡는다",
+          "body": "연구진이 면역항암제 이상반응 탐지를 돕는 AI 에이전트를 단계별로 검증했다.",
+          "mini_headline": "irAEs 찾아내는 AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "골절 탐지 인공지능(AI) 시스템은 통제된 환경에서는 성능이 높지만 실제 현장의 전향적 근거는 부족하다. 배치는 한 응급실에서 석 달간 진행됐다. 방사선사 주도 선별 프로그램에 속한 방사선사 열세 명이 연속된 근골격계 검사 2496건을 독립적으로 판독하고(검사당 방사선사 한 명), 상용 딥러닝 시스템의 출력을 검토한 뒤 최종 판단을 기록했다. 이렇게 영상의학과 전문의 기준과 비교할 짝 판독 2496건이 모였다."
+                "x": "면역 관련 이상반응(irAEs)은 면역관문억제제를 투여받는 환자의 최대 40%에서 나타난다. 그런데 이를 찾으려면 손이 많이 들고 결과도 들쭉날쭉한 수작업 차트 검토에 기대야 한다. 저자들은 에이전트형 대규모 언어모델 시스템을 만들어 평가했다. 임상 기록에서 여섯 가지 irAE 유형의 유무와 시간적 관계, 중증도 등급, 인과 귀속, 확실성을 뽑아내는 시스템이다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: LLM-based 에이전트형 irAE 탐지 시스템을 여러 차원에서 검증하는 프레임워크."
               },
               {
                 "t": "p",
-                "x": "AI 단독 민감도는 75.6%였고 미세 골절에서는 46.2%까지 떨어져, 방사선사의 기본 민감도 91.6%에 못 미쳤다. 방사선사의 기본 정확도는 높았는데(97.6%, 특이도 99.0%) AI 도움을 받자 소폭 올랐다(98.0%, exact McNemar p = 0.0064). AI 도움을 받은 방사선사는 오류 11건을 바로잡고 1건을 새로 만들어 순이득 10건을 거뒀다."
+                "x": "후향적 평가에서 시스템은 현재 이벤트 탐지 매크로 평균 F1 0.92, 다중 클래스 중증도 등급 분류 0.66을 기록했다. 자기일관성 기법을 더하자 F1이 0.14 올랐다. 가장 성능이 좋은 구성은 기록 한 건에 약 US$0.02가 들었다. 3개월 동안 전향적 무표시 배치를 했을 때 이진 F1은 0.72–0.79였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: irAE 탐지와 등급 분류, 인과 귀속, 확실성 평가를 맡는 다단계 에이전트형 아키텍처."
               },
               {
                 "t": "p",
-                "x": "판단이 엇갈린 729건 가운데 방사선사가 결정을 바꾼 건 11건뿐이었고, 부정적 상호작용은 대부분 맞는 AI 권고를 받아들이지 않은 경우였다. 촬영 검사의 8.8%에서는 AI 출력이 아예 없거나 불완전했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 도움이 낸 이득은 작고 선택적이었다. 알고리즘이 더 뛰어나서가 아니라 서로 보완했기 때문이다. 운영 신뢰성은 진단 정확도만큼 중요했다. 이후 임상 결과는 측정하지 않았다."
+                "x": "임상시험 인력이 참여한 무작위 교차 연구에서는 에이전트의 도움을 받자 주석 작업 시간이 2.71분 줄었다(P < 0.001). 완전 일치 정확도도 높아졌고(오즈비 1.45; 95% 신뢰구간 1.01–2.08; P = 0.045) 주석자 간 일치도는 Krippendorff's α 0.22–0.51에서 0.82–0.85로 올랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ED放射線技師が骨折を\nAIあり・なしで読影",
-          "body": "一つの救急外来で三か月間、放射線技師13人がAIの支援あり・なしで骨折を読影した。",
-          "mini_headline": "実臨床のEDで骨折AI",
+          "headline": "AIエージェントが\n免疫療法の副作用発見を支援",
+          "body": "多段階研究が、臨床医の免疫関連有害事象の検出を助けるAIエージェントを検証した。",
+          "mini_headline": "irAEsを捉えるAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "骨折検出用の人工知能(AI)システムは管理された環境では高い性能を示すが、前向きな実臨床エビデンスは限られている。一つの救急外来での三か月間の導入で、放射線技師主導のスクリーニングプログラムに属する十三人の放射線技師が、連続する筋骨格系検査2496件を独立して読影し(検査ごとに技師一人)、商用ディープラーニングシステムの出力を確認したうえで最終判断を記録した。これにより、放射線科医による参照基準と比較できる2496件のペア読影が得られた。"
+                "x": "免疫関連有害事象（irAEs）は免疫チェックポイント阻害薬を投与された患者の最大40%に起こるが、その特定には手間がかかり一貫性にも欠ける手作業のカルテレビューが必要だ。著者らは、臨床記録から六種類のirAEについて有無、時間的関係、重症度グレード、帰属、確実性を抽出するエージェント型大規模言語モデルシステムを開発し、評価した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: LLM-basedのエージェント型irAE検出システムに対する多次元検証フレームワーク。"
               },
               {
                 "t": "p",
-                "x": "AI単独の感度は75.6%で、微細な骨折では46.2%に下がり、放射線技師のベースライン感度91.6%を下回った。放射線技師のベースライン正確度は高く(97.6%、特異度99.0%)、AIの支援でわずかに向上した(98.0%、exact McNemar p = 0.0064)。AIの支援により、技師は誤りを11件修正し、1件を新たに生じさせ、差し引き10件の改善となった。"
+                "x": "後ろ向き評価では、現在のイベント検出でマクロ平均F1が0.92、多クラスの重症度グレード分類で0.66を達成し、自己一貫性によってF1は0.14向上した。最も性能の高い構成のコストはノートあたり約US$0.02だった。3か月間の前向きサイレント運用では、二値F1は0.72–0.79だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: irAEの検出、グレード分類、帰属、確実性評価のための多段階エージェント型アーキテクチャ。"
               },
               {
                 "t": "p",
-                "x": "判断が食い違った729件のうち、技師が判断を変えたのは11件にとどまり、負の相互作用の大半は正しいAIの推奨が採用されなかったケースだった。撮影された検査の8.8%では、AIの出力が返されないか不完全だった。"
-              },
-              {
-                "t": "p",
-                "x": "AIの支援がもたらしたのは、アルゴリズムの優位性ではなく補完性から生じた小さく選択的な利益だった。運用上の信頼性は診断精度と同じくらい重要であることが分かった。その後の臨床転帰は測定されていない。"
+                "x": "臨床試験スタッフを対象としたランダム化クロスオーバー試験で、エージェントによる支援はアノテーション時間を2.71分短縮し（P < 0.001）、完全一致の正確度を高め（オッズ比1.45、95%信頼区間1.01–2.08、P = 0.045）、アノテーター間の一致度を改善した（Krippendorff's αは0.22–0.51から0.82–0.85へ）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "急诊科(ED)放射技师\n有无AI辅助读骨折片",
-          "body": "在一家急诊科的三个月里，13名放射技师在有无AI辅助下判读骨折。",
-          "mini_headline": "真实ED中的骨折AI",
+          "headline": "AI智能体助力发现\n免疫治疗副作用",
+          "body": "一项多阶段研究验证了一款AI智能体，可帮助临床医生发现免疫治疗的免疫相关不良事件。",
+          "mini_headline": "AI智能体识别irAEs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "用于骨折检测的人工智能(AI)系统在受控环境中表现出色，但前瞻性真实世界证据有限。在一家急诊科为期三个月的部署中，放射技师主导的筛查项目里的十三名放射技师独立判读了2496例连续的肌肉骨骼检查（每例检查由一名技师判读），查看一套商用深度学习系统的输出后记录最终判断，从而得到2496组以放射科医生参考标准为对照的配对判读。"
+                "x": "免疫相关不良事件（irAEs）影响多达40%接受免疫检查点抑制剂治疗的患者，但识别这些事件需要费时费力且标准不一的人工病历审查。作者开发并评估了一套智能体式大语言模型系统，用于从临床记录中提取六类irAE的存在与否、时间关系、严重程度分级、归因和确定性。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: LLM-based智能体式irAE检测系统的多维验证框架。"
               },
               {
                 "t": "p",
-                "x": "AI单独使用时的敏感度为75.6%，对细微骨折降至46.2%，低于放射技师91.6%的基线敏感度。放射技师的基线准确率很高（97.6%；特异度99.0%），在AI辅助下略有提升（98.0%；exact McNemar p = 0.0064）。在AI辅助下，放射技师纠正了11处错误、新增1处错误，净增10例。"
+                "x": "在回顾性评估中，该系统在当前事件检测上的宏平均F1为0.92，在多类别严重程度分级上为0.66；自洽性使F1提高0.14。表现最佳的配置每份记录成本约US$0.02。在为期3个月的前瞻性静默部署中，二分类F1为0.72–0.79。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: 用于irAE检测、分级、归因和确定性评估的多阶段智能体架构。"
               },
               {
                 "t": "p",
-                "x": "在729例判读不一致的病例中，放射技师仅在11例中改变了判断，大多数负面交互是未采纳正确的AI建议。在已采集的检查中，有8.8%未返回AI输出或输出不完整。"
-              },
-              {
-                "t": "p",
-                "x": "AI辅助带来的是小幅、选择性的获益，源于算法的互补性而非更优性能。运行可靠性被证明与诊断准确性同样关键。研究未测量后续临床结局。"
+                "x": "在一项针对临床试验人员的随机交叉研究中，智能体辅助使标注时间缩短2.71分钟（P < 0.001），提高了完全匹配准确率（比值比1.45；95%置信区间1.01–2.08；P = 0.045），并改善了标注者间一致性（Krippendorff's α从0.22–0.51升至0.82–0.85）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radiógrafos leen fracturas\ncon y sin AI en urgencias (ED)",
-          "body": "Durante tres meses en un servicio de urgencias, 13 radiógrafos leyeron fracturas con y sin ayuda de AI.",
-          "mini_headline": "AI de fracturas en un ED real",
+          "headline": "Un agente de AI ayuda a captar\nefectos de la inmunoterapia",
+          "body": "Un estudio en varias fases valida un agente de AI que ayuda a los clínicos a detectar efectos adversos inmunitarios.",
+          "mini_headline": "Un agente de AI detecta irAEs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los sistemas de inteligencia artificial (AI) para detectar fracturas rinden bien en entornos controlados, pero la evidencia prospectiva en condiciones reales es limitada. En un despliegue de tres meses en un servicio de urgencias, trece radiógrafos de un programa de cribado dirigido por radiógrafos interpretaron de forma independiente 2496 exámenes musculoesqueléticos consecutivos (un radiógrafo por examen), revisaron el resultado de un sistema comercial de aprendizaje profundo y luego registraron una decisión final, lo que dio 2496 lecturas pareadas frente a un estándar de referencia de radiólogos."
+                "x": "Los eventos adversos inmunorrelacionados (irAEs) afectan hasta al 40% de los pacientes que reciben inhibidores de puntos de control inmunitario, pero identificarlos exige una revisión manual de historias clínicas laboriosa e inconsistente. Los autores desarrollaron y evaluaron un sistema agéntico basado en modelos de lenguaje de gran tamaño para extraer de las notas clínicas la presencia, la temporalidad, el grado de gravedad, la atribución y la certeza de seis tipos de irAE."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: Marco de validación multidimensional para un sistema agéntico de detección de irAE LLM-based."
               },
               {
                 "t": "p",
-                "x": "La sensibilidad de la AI por sí sola fue del 75.6%, y cayó al 46.2% en fracturas sutiles, por debajo de la sensibilidad basal de los radiógrafos, del 91.6%. La exactitud basal de los radiógrafos fue alta (97.6%; especificidad 99.0%) y mejoró ligeramente con la ayuda de la AI (98.0%; exact McNemar p = 0.0064). Con la ayuda de la AI, los radiógrafos corrigieron 11 errores e introdujeron 1, una ganancia neta de 10 casos."
+                "x": "De forma retrospectiva, el sistema alcanzó un F1 macropromediado de 0.92 en la detección de eventos actuales y de 0.66 en la gradación de gravedad multiclase; la autoconsistencia mejoró el F1 en 0.14. La configuración con mejor rendimiento costó aproximadamente US$0.02 por nota. En un despliegue prospectivo silencioso durante 3 meses, el F1 binario fue de 0.72–0.79."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: Arquitectura agéntica multietapa para la detección, gradación, atribución y evaluación de certeza de irAE."
               },
               {
                 "t": "p",
-                "x": "Los radiógrafos cambiaron su decisión en solo 11 de 729 casos discordantes, y la mayoría de las interacciones negativas fueron recomendaciones correctas de la AI que no se adoptaron. En el 8.8% de los exámenes adquiridos, la AI no devolvió resultado o lo devolvió incompleto."
-              },
-              {
-                "t": "p",
-                "x": "La ayuda de la AI aportó un beneficio pequeño y selectivo, derivado de un rendimiento algorítmico complementario y no superior. La fiabilidad operativa resultó tan determinante como la precisión diagnóstica. No se midieron los resultados clínicos posteriores."
+                "x": "En un estudio cruzado aleatorizado con personal de ensayos clínicos, la asistencia agéntica redujo el tiempo de anotación en 2.71 min (P < 0.001), aumentó la exactitud de coincidencia completa (odds ratio 1.45; intervalo de confianza del 95% 1.01–2.08; P = 0.045) y mejoró la concordancia entre anotadores (Krippendorff's α de 0.22–0.51 a 0.82–0.85)."
               }
             ]
           }
@@ -571,105 +517,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "응급실(ED) 방사선사,\nAI 유무로 골절 판독",
-          "body": "한 응급실에서 석 달간 방사선사 13명이 AI 도움 유무로 골절을 판독했다.",
-          "mini_headline": "실제 ED 현장의 골절 AI",
+          "headline": "AI 에이전트가 돕는\n면역항암제 부작용 포착",
+          "body": "다단계 연구가 의료진의 면역항암제 이상반응 탐지를 돕는 AI 에이전트를 검증했다.",
+          "mini_headline": "irAEs 잡는 AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "골절 탐지 인공지능(AI) 시스템은 통제된 환경에서 높은 성능을 보이지만, 실제 현장의 전향적 근거는 부족하다. 한 응급실에서 석 달간 진행한 배치에서, 방사선사 주도 선별 프로그램에 속한 방사선사 열세 명이 연속된 근골격계 검사 2496건을 독립적으로 판독하고(검사당 방사선사 한 명), 상용 딥러닝 시스템의 출력을 검토한 뒤 최종 판단을 기록했다. 이렇게 영상의학과 전문의 기준과 비교한 짝 판독 2496건을 얻었다."
+                "x": "면역 관련 이상반응(irAEs)은 면역관문억제제를 투여받는 환자의 최대 40%에서 나타나지만, 이를 찾아내려면 손이 많이 가고 일관성도 떨어지는 수작업 차트 검토가 필요하다. 저자들은 임상 기록에서 여섯 가지 irAE 유형의 유무, 시간적 관계, 중증도 등급, 인과 귀속, 확실성을 추출하는 에이전트형 대규모 언어모델 시스템을 개발해 평가했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: LLM-based 에이전트형 irAE 탐지 시스템의 다차원 검증 프레임워크."
               },
               {
                 "t": "p",
-                "x": "AI 단독 민감도는 75.6%였고, 미세 골절에서는 46.2%로 떨어져 방사선사의 기본 민감도 91.6%보다 낮았다. 방사선사의 기본 정확도는 높았고(97.6%, 특이도 99.0%) AI 도움을 받으면 소폭 올라갔다(98.0%, exact McNemar p = 0.0064). AI 도움을 받은 방사선사는 오류 11건을 바로잡고 1건을 새로 만들어 순이득은 10건이었다."
+                "x": "후향적 평가에서 이 시스템은 현재 이벤트 탐지에서 매크로 평균 F1 0.92, 다중 클래스 중증도 등급 분류에서 0.66을 기록했고, 자기일관성 기법은 F1을 0.14 끌어올렸다. 성능이 가장 좋은 구성의 비용은 기록 한 건당 약 US$0.02였다. 3개월간의 전향적 무표시 배치에서 이진 F1은 0.72–0.79였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: irAE 탐지, 등급 분류, 인과 귀속, 확실성 평가를 위한 다단계 에이전트형 아키텍처."
               },
               {
                 "t": "p",
-                "x": "판단이 엇갈린 729건 가운데 방사선사가 결정을 바꾼 경우는 11건에 그쳤고, 부정적 상호작용의 대부분은 맞는 AI 권고를 받아들이지 않은 경우였다. 촬영한 검사의 8.8%에서는 AI 출력이 아예 없거나 불완전했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 도움은 알고리즘이 더 뛰어나서가 아니라 상호 보완적이어서 생긴 작고 선택적인 이득을 냈다. 운영 신뢰성은 진단 정확도만큼 중요했다. 이후 임상 결과는 측정하지 않았다."
+                "x": "임상시험 인력을 대상으로 한 무작위 교차 연구에서 에이전트 보조는 주석 작업 시간을 2.71분 줄였고(P < 0.001), 완전 일치 정확도를 높였으며(오즈비 1.45; 95% 신뢰구간 1.01–2.08; P = 0.045), 주석자 간 일치도를 개선했다(Krippendorff's α 0.22–0.51에서 0.82–0.85로)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ED放射線技師が骨折を\nAIあり・なしで読影",
-          "body": "一つの救急外来で三か月間、放射線技師13人がAIの支援あり・なしで骨折を読影した。",
-          "mini_headline": "実臨床のEDで骨折AI",
+          "headline": "AIエージェントが\n免疫療法の副作用発見を支援",
+          "body": "多段階研究が、臨床医の免疫関連有害事象の検出を助けるAIエージェントを検証した。",
+          "mini_headline": "irAEsを捉えるAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "骨折検出用の人工知能(AI)システムは管理された環境では高い性能を示すが、前向きな実臨床エビデンスは限られている。一つの救急外来での三か月間の導入で、放射線技師主導のスクリーニングプログラムに属する十三人の放射線技師が、連続する筋骨格系検査2496件を独立して読影し(検査ごとに技師一人)、商用ディープラーニングシステムの出力を確認したうえで最終判断を記録した。これにより、放射線科医による参照基準と比較できる2496件のペア読影が得られた。"
+                "x": "免疫関連有害事象（irAEs）は免疫チェックポイント阻害薬を投与された患者の最大40%に起こるが、その特定には手間がかかり一貫性にも欠ける手作業のカルテレビューが必要だ。著者らは、臨床記録から六種類のirAEについて有無、時間的関係、重症度グレード、帰属、確実性を抽出するエージェント型大規模言語モデルシステムを開発し、評価した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: LLM-basedのエージェント型irAE検出システムに対する多次元検証フレームワーク。"
               },
               {
                 "t": "p",
-                "x": "AI単独の感度は75.6%で、微細な骨折では46.2%に下がり、放射線技師のベースライン感度91.6%を下回った。放射線技師のベースライン正確度は高く(97.6%、特異度99.0%)、AIの支援でわずかに向上した(98.0%、exact McNemar p = 0.0064)。AIの支援により、技師は誤りを11件修正し、1件を新たに生じさせ、差し引き10件の改善となった。"
+                "x": "後ろ向き評価では、現在のイベント検出でマクロ平均F1が0.92、多クラスの重症度グレード分類で0.66を達成し、自己一貫性によってF1は0.14向上した。最も性能の高い構成のコストはノートあたり約US$0.02だった。3か月間の前向きサイレント運用では、二値F1は0.72–0.79だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: irAEの検出、グレード分類、帰属、確実性評価のための多段階エージェント型アーキテクチャ。"
               },
               {
                 "t": "p",
-                "x": "判断が食い違った729件のうち、技師が判断を変えたのは11件にとどまり、負の相互作用の大半は正しいAIの推奨が採用されなかったケースだった。撮影された検査の8.8%では、AIの出力が返されないか不完全だった。"
-              },
-              {
-                "t": "p",
-                "x": "AIの支援がもたらしたのは、アルゴリズムの優位性ではなく補完性から生じた小さく選択的な利益だった。運用上の信頼性は診断精度と同じくらい重要であることが分かった。その後の臨床転帰は測定されていない。"
+                "x": "臨床試験スタッフを対象としたランダム化クロスオーバー試験で、エージェントによる支援はアノテーション時間を2.71分短縮し（P < 0.001）、完全一致の正確度を高め（オッズ比1.45、95%信頼区間1.01–2.08、P = 0.045）、アノテーター間の一致度を改善した（Krippendorff's αは0.22–0.51から0.82–0.85へ）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "急诊科(ED)放射技师\n有无AI辅助读骨折片",
-          "body": "在一家急诊科的三个月里，13名放射技师在有无AI辅助下判读骨折。",
-          "mini_headline": "真实ED中的骨折AI",
+          "headline": "AI智能体助力发现\n免疫治疗副作用",
+          "body": "一项多阶段研究验证了一款AI智能体，可帮助临床医生发现免疫治疗的免疫相关不良事件。",
+          "mini_headline": "AI智能体识别irAEs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "用于骨折检测的人工智能(AI)系统在受控环境中表现出色，但前瞻性真实世界证据有限。在一家急诊科为期三个月的部署中，放射技师主导的筛查项目里的十三名放射技师独立判读了2496例连续的肌肉骨骼检查（每例检查由一名技师判读），查看一套商用深度学习系统的输出后记录最终判断，从而得到2496组以放射科医生参考标准为对照的配对判读。"
+                "x": "免疫相关不良事件（irAEs）影响多达40%接受免疫检查点抑制剂治疗的患者，但识别这些事件需要费时费力且标准不一的人工病历审查。作者开发并评估了一套智能体式大语言模型系统，用于从临床记录中提取六类irAE的存在与否、时间关系、严重程度分级、归因和确定性。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: LLM-based智能体式irAE检测系统的多维验证框架。"
               },
               {
                 "t": "p",
-                "x": "AI单独使用时的敏感度为75.6%，对细微骨折降至46.2%，低于放射技师91.6%的基线敏感度。放射技师的基线准确率很高（97.6%；特异度99.0%），在AI辅助下略有提升（98.0%；exact McNemar p = 0.0064）。在AI辅助下，放射技师纠正了11处错误、新增1处错误，净增10例。"
+                "x": "在回顾性评估中，该系统在当前事件检测上的宏平均F1为0.92，在多类别严重程度分级上为0.66；自洽性使F1提高0.14。表现最佳的配置每份记录成本约US$0.02。在为期3个月的前瞻性静默部署中，二分类F1为0.72–0.79。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: 用于irAE检测、分级、归因和确定性评估的多阶段智能体架构。"
               },
               {
                 "t": "p",
-                "x": "在729例判读不一致的病例中，放射技师仅在11例中改变了判断，大多数负面交互是未采纳正确的AI建议。在已采集的检查中，有8.8%未返回AI输出或输出不完整。"
-              },
-              {
-                "t": "p",
-                "x": "AI辅助带来的是小幅、选择性的获益，源于算法的互补性而非更优性能。运行可靠性被证明与诊断准确性同样关键。研究未测量后续临床结局。"
+                "x": "在一项针对临床试验人员的随机交叉研究中，智能体辅助使标注时间缩短2.71分钟（P < 0.001），提高了完全匹配准确率（比值比1.45；95%置信区间1.01–2.08；P = 0.045），并改善了标注者间一致性（Krippendorff's α从0.22–0.51升至0.82–0.85）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radiógrafos leen fracturas\ncon y sin AI en urgencias (ED)",
-          "body": "Durante tres meses en un servicio de urgencias, 13 radiógrafos leyeron fracturas con y sin ayuda de AI.",
-          "mini_headline": "AI de fracturas en un ED real",
+          "headline": "Un agente de AI ayuda a captar\nefectos de la inmunoterapia",
+          "body": "Un estudio en varias fases valida un agente de AI que ayuda a los clínicos a detectar efectos adversos inmunitarios.",
+          "mini_headline": "Un agente de AI detecta irAEs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los sistemas de inteligencia artificial (AI) para detectar fracturas rinden bien en entornos controlados, pero la evidencia prospectiva en condiciones reales es limitada. En un despliegue de tres meses en un servicio de urgencias, trece radiógrafos de un programa de cribado dirigido por radiógrafos interpretaron de forma independiente 2496 exámenes musculoesqueléticos consecutivos (un radiógrafo por examen), revisaron el resultado de un sistema comercial de aprendizaje profundo y luego registraron una decisión final, lo que dio 2496 lecturas pareadas frente a un estándar de referencia de radiólogos."
+                "x": "Los eventos adversos inmunorrelacionados (irAEs) afectan hasta al 40% de los pacientes que reciben inhibidores de puntos de control inmunitario, pero identificarlos exige una revisión manual de historias clínicas laboriosa e inconsistente. Los autores desarrollaron y evaluaron un sistema agéntico basado en modelos de lenguaje de gran tamaño para extraer de las notas clínicas la presencia, la temporalidad, el grado de gravedad, la atribución y la certeza de seis tipos de irAE."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+                "cap": "Fig. 1: Marco de validación multidimensional para un sistema agéntico de detección de irAE LLM-based."
               },
               {
                 "t": "p",
-                "x": "La sensibilidad de la AI por sí sola fue del 75.6%, y cayó al 46.2% en fracturas sutiles, por debajo de la sensibilidad basal de los radiógrafos, del 91.6%. La exactitud basal de los radiógrafos fue alta (97.6%; especificidad 99.0%) y mejoró ligeramente con la ayuda de la AI (98.0%; exact McNemar p = 0.0064). Con la ayuda de la AI, los radiógrafos corrigieron 11 errores e introdujeron 1, una ganancia neta de 10 casos."
+                "x": "De forma retrospectiva, el sistema alcanzó un F1 macropromediado de 0.92 en la detección de eventos actuales y de 0.66 en la gradación de gravedad multiclase; la autoconsistencia mejoró el F1 en 0.14. La configuración con mejor rendimiento costó aproximadamente US$0.02 por nota. En un despliegue prospectivo silencioso durante 3 meses, el F1 binario fue de 0.72–0.79."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+                "cap": "Fig. 2: Arquitectura agéntica multietapa para la detección, gradación, atribución y evaluación de certeza de irAE."
               },
               {
                 "t": "p",
-                "x": "Los radiógrafos cambiaron su decisión en solo 11 de 729 casos discordantes, y la mayoría de las interacciones negativas fueron recomendaciones correctas de la AI que no se adoptaron. En el 8.8% de los exámenes adquiridos, la AI no devolvió resultado o lo devolvió incompleto."
-              },
-              {
-                "t": "p",
-                "x": "La ayuda de la AI aportó un beneficio pequeño y selectivo, derivado de un rendimiento algorítmico complementario y no superior. La fiabilidad operativa resultó tan determinante como la precisión diagnóstica. No se midieron los resultados clínicos posteriores."
+                "x": "En un estudio cruzado aleatorizado con personal de ensayos clínicos, la asistencia agéntica redujo el tiempo de anotación en 2.71 min (P < 0.001), aumentó la exactitud de coincidencia completa (odds ratio 1.45; intervalo de confianza del 95% 1.01–2.08; P = 0.045) y mejoró la concordancia entre anotadores (Krippendorff's α de 0.22–0.51 a 0.82–0.85)."
               }
             ]
           }
@@ -677,833 +647,271 @@
       }
     },
     {
-      "id": "medicine-stanford-critical-results",
+      "id": "nyu-langone-openevidence-ehr",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Stanford LLM이\n소아 위급 결과 짚는다",
-      "body": "Stanford LLM의 소아 위급 결과 민감도는 99.7%, 특이도 97.9%다.",
-      "mini_headline": "Stanford LLM, 위급 결과 포착",
+      "headline": "OpenEvidence가\nNYU Langone 입성",
+      "body": "NYU Langone Health가 OpenEvidence AI를 기록에 들인다.",
+      "mini_headline": "NYU EHR 속 OpenEvidence",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975424/siimcaimi-llm-pipeline-tracks-critical-results-in-pediatric-patients",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Stanford Health가 소아 영상의학 판독문에서 위급 결과를 표시하는 대규모 언어 모델 파이프라인을 자체 개발했다. Philadelphia에서 열린 SIIM-CAIMI 2026에서 Pooja Pathak이 발표했다."
-          },
-          {
-            "t": "p",
-            "x": "파이프라인이 다루는 범주는 두개내압 상승, 비우발적 외상, 위치가 잘못된 영양관, 예상치 못한 기복증, 문맥 가스, 긴장성 기흉 등 여섯 가지다. Llama 3.3(70B)을 로컬에서 돌리기 때문에 데이터가 기관 밖으로 나가지 않고 상용 도구도 필요 없다."
-          },
-          {
-            "t": "p",
-            "x": "판독문 916건으로 검증하니 민감도 99.7%, 특이도 97.9%가 나왔다. 2024년 팔월부터 2026년 칠월까지 확정 판독문 182,047건에서 위급 결과 1,297건을 표시했고, 가장 많은 건 영양관 위치 이상이었다."
-          },
-          {
-            "t": "p",
-            "x": "배치 기간에 처리 소요 시간과 소통 기록은 안정적이었다. 다음 연구는 파이프라인의 맥락 인식 능력을 끌어올리고 더 새로운 모델을 시험하는 데 초점을 둔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Stanford's in-house LLM flags\ncritical pediatric results",
-          "body": "Stanford's in-house LLM flags critical pediatric radiology results with 99.7% sensitivity and 97.9% specificity.",
-          "mini_headline": "Stanford LLM flags critical results",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Health developed an in-house large language model pipeline to flag critical results in pediatric radiology reports, presented by Pooja Pathak at SIIM-CAIMI 2026 in Philadelphia."
-              },
-              {
-                "t": "p",
-                "x": "The pipeline covers six categories: increased intracranial pressure, non-accidental trauma, malpositioned feeding tubes, unsuspected pneumoperitoneum, portal venous gas and tension pneumothorax. It runs locally on Llama 3.3 (70B), so no data leaves the institution and no commercial tool is needed."
-              },
-              {
-                "t": "p",
-                "x": "In validation on 916 reports, it reached 99.7% sensitivity and 97.9% specificity. From August 2024 to July 2026, it flagged 1,297 critical results among 182,047 finalized reports, with feeding tube malpositions the most common."
-              },
-              {
-                "t": "p",
-                "x": "Turnaround times and communication documentation stayed stable during deployment. Future work will focus on making the pipeline more context-aware and testing newer models."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Stanford LLM이\n소아 위급 결과 짚는다",
-          "body": "Stanford LLM의 소아 위급 결과 민감도는 99.7%, 특이도 97.9%다.",
-          "mini_headline": "Stanford LLM, 위급 결과 포착",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Health가 소아 영상의학 판독문에서 위급 결과를 표시하는 대규모 언어 모델 파이프라인을 자체 개발했다. Philadelphia에서 열린 SIIM-CAIMI 2026에서 Pooja Pathak이 발표했다."
-              },
-              {
-                "t": "p",
-                "x": "파이프라인이 다루는 범주는 두개내압 상승, 비우발적 외상, 위치가 잘못된 영양관, 예상치 못한 기복증, 문맥 가스, 긴장성 기흉 등 여섯 가지다. Llama 3.3(70B)을 로컬에서 돌리기 때문에 데이터가 기관 밖으로 나가지 않고 상용 도구도 필요 없다."
-              },
-              {
-                "t": "p",
-                "x": "판독문 916건으로 검증하니 민감도 99.7%, 특이도 97.9%가 나왔다. 2024년 팔월부터 2026년 칠월까지 확정 판독문 182,047건에서 위급 결과 1,297건을 표시했고, 가장 많은 건 영양관 위치 이상이었다."
-              },
-              {
-                "t": "p",
-                "x": "배치 기간에 처리 소요 시간과 소통 기록은 안정적이었다. 다음 연구는 파이프라인의 맥락 인식 능력을 끌어올리고 더 새로운 모델을 시험하는 데 초점을 둔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Stanford自社LLMが\n小児の重大所見を検出",
-          "body": "Stanfordの自社LLMは小児の重大所見を感度99.7%、特異度97.9%で検出する。",
-          "mini_headline": "Stanford LLMが重大所見を検出",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Healthは、小児放射線科の読影レポートにある重大所見を検出する自社開発の大規模言語モデルパイプラインを開発した。Pooja PathakがPhiladelphiaで開かれたSIIM-CAIMI 2026で発表した。"
-              },
-              {
-                "t": "p",
-                "x": "パイプラインは、頭蓋内圧亢進、非偶発的外傷、栄養チューブの位置異常、予期せぬ気腹、門脈ガス、緊張性気胸の六つのカテゴリーを対象とする。Llama 3.3(70B)上でローカルに動作するため、データは施設外に出ず、商用ツールも必要ない。"
-              },
-              {
-                "t": "p",
-                "x": "916件のレポートによる検証では、感度99.7%、特異度97.9%に達した。2024年八月から2026年七月までに、確定済みレポート182,047件のうち1,297件の重大所見を検出し、最も多かったのは栄養チューブの位置異常だった。"
-              },
-              {
-                "t": "p",
-                "x": "導入期間中、報告までの所要時間と連絡記録は安定していた。今後はパイプラインの文脈認識を高めることと、より新しいモデルの検証に取り組む。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Stanford自研LLM\n标记儿科危急结果",
-          "body": "Stanford自研LLM标记儿科影像危急结果，敏感度99.7%，特异度97.9%。",
-          "mini_headline": "Stanford LLM标记危急结果",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Health开发了一套自研大语言模型流程，用于标记儿科放射报告中的危急结果，由Pooja Pathak在Philadelphia举行的SIIM-CAIMI 2026上发表。"
-              },
-              {
-                "t": "p",
-                "x": "该流程涵盖六类情况：颅内压增高、非意外创伤、喂养管位置不当、意外气腹、门静脉积气和张力性气胸。它在本地基于Llama 3.3（70B）运行，因此数据不会离开机构，也无需商业工具。"
-              },
-              {
-                "t": "p",
-                "x": "在916份报告的验证中，其敏感度达99.7%，特异度达97.9%。从2024年八月至2026年七月，它在182,047份定稿报告中标记出1,297项危急结果，其中以喂养管位置不当最为常见。"
-              },
-              {
-                "t": "p",
-                "x": "部署期间，报告周转时间和沟通记录保持稳定。后续工作将侧重提升流程的情境感知能力，并测试更新的模型。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "LLM propio de Stanford detecta\nresultados críticos pediátricos",
-          "body": "El LLM propio de Stanford detecta resultados pediátricos críticos con 99.7% de sensibilidad y 97.9% de especificidad.",
-          "mini_headline": "LLM de Stanford marca resultados críticos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Health desarrolló un pipeline propio de modelo de lenguaje grande para señalar resultados críticos en informes de radiología pediátrica, presentado por Pooja Pathak en SIIM-CAIMI 2026, en Philadelphia."
-              },
-              {
-                "t": "p",
-                "x": "El pipeline abarca seis categorías: aumento de la presión intracraneal, traumatismo no accidental, sondas de alimentación mal colocadas, neumoperitoneo no sospechado, gas venoso portal y neumotórax a tensión. Funciona localmente sobre Llama 3.3 (70B), de modo que ningún dato sale de la institución y no se necesita ninguna herramienta comercial."
-              },
-              {
-                "t": "p",
-                "x": "En la validación con 916 informes alcanzó un 99.7% de sensibilidad y un 97.9% de especificidad. Entre agosto de 2024 y julio de 2026 señaló 1,297 resultados críticos entre 182,047 informes finalizados; las sondas de alimentación mal colocadas fueron las más frecuentes."
-              },
-              {
-                "t": "p",
-                "x": "Los tiempos de respuesta y la documentación de la comunicación se mantuvieron estables durante el despliegue. El trabajo futuro se centrará en hacer el pipeline más sensible al contexto y en probar modelos más recientes."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Stanford LLM이\n소아 위급 결과 짚는다",
-          "body": "Stanford LLM의 소아 위급 결과 민감도는 99.7%, 특이도 97.9%다.",
-          "mini_headline": "Stanford LLM, 위급 결과 포착",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Health가 소아 영상의학 판독문에서 위급 결과를 표시하는 자체 대규모 언어 모델 파이프라인을 개발했다. Pooja Pathak이 Philadelphia에서 열린 SIIM-CAIMI 2026에서 이를 발표했다."
-              },
-              {
-                "t": "p",
-                "x": "파이프라인은 두개내압 상승, 비우발적 외상, 위치가 잘못된 영양관, 예상치 못한 기복증, 문맥 가스, 긴장성 기흉 등 여섯 범주를 다룬다. Llama 3.3(70B)으로 로컬에서 실행되므로 데이터가 기관 밖으로 나가지 않고 상용 도구도 필요 없다."
-              },
-              {
-                "t": "p",
-                "x": "판독문 916건으로 검증한 결과 민감도 99.7%, 특이도 97.9%를 기록했다. 2024년 팔월부터 2026년 칠월까지 확정 판독문 182,047건 가운데 위급 결과 1,297건을 표시했으며, 영양관 위치 이상이 가장 많았다."
-              },
-              {
-                "t": "p",
-                "x": "배치 기간 동안 처리 소요 시간과 소통 기록은 안정적으로 유지됐다. 향후 연구는 파이프라인의 맥락 인식 능력을 높이고 더 새로운 모델을 시험하는 데 집중할 예정이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Stanford自社LLMが\n小児の重大所見を検出",
-          "body": "Stanfordの自社LLMは小児の重大所見を感度99.7%、特異度97.9%で検出する。",
-          "mini_headline": "Stanford LLMが重大所見を検出",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Healthは、小児放射線科の読影レポートにある重大所見を検出する自社開発の大規模言語モデルパイプラインを開発した。Pooja PathakがPhiladelphiaで開かれたSIIM-CAIMI 2026で発表した。"
-              },
-              {
-                "t": "p",
-                "x": "パイプラインは、頭蓋内圧亢進、非偶発的外傷、栄養チューブの位置異常、予期せぬ気腹、門脈ガス、緊張性気胸の六つのカテゴリーを対象とする。Llama 3.3(70B)上でローカルに動作するため、データは施設外に出ず、商用ツールも必要ない。"
-              },
-              {
-                "t": "p",
-                "x": "916件のレポートによる検証では、感度99.7%、特異度97.9%に達した。2024年八月から2026年七月までに、確定済みレポート182,047件のうち1,297件の重大所見を検出し、最も多かったのは栄養チューブの位置異常だった。"
-              },
-              {
-                "t": "p",
-                "x": "導入期間中、報告までの所要時間と連絡記録は安定していた。今後はパイプラインの文脈認識を高めることと、より新しいモデルの検証に取り組む。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Stanford自研LLM\n标记儿科危急结果",
-          "body": "Stanford自研LLM标记儿科影像危急结果，敏感度99.7%，特异度97.9%。",
-          "mini_headline": "Stanford LLM标记危急结果",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Health开发了一套自研大语言模型流程，用于标记儿科放射报告中的危急结果，由Pooja Pathak在Philadelphia举行的SIIM-CAIMI 2026上发表。"
-              },
-              {
-                "t": "p",
-                "x": "该流程涵盖六类情况：颅内压增高、非意外创伤、喂养管位置不当、意外气腹、门静脉积气和张力性气胸。它在本地基于Llama 3.3（70B）运行，因此数据不会离开机构，也无需商业工具。"
-              },
-              {
-                "t": "p",
-                "x": "在916份报告的验证中，其敏感度达99.7%，特异度达97.9%。从2024年八月至2026年七月，它在182,047份定稿报告中标记出1,297项危急结果，其中以喂养管位置不当最为常见。"
-              },
-              {
-                "t": "p",
-                "x": "部署期间，报告周转时间和沟通记录保持稳定。后续工作将侧重提升流程的情境感知能力，并测试更新的模型。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "LLM propio de Stanford detecta\nresultados críticos pediátricos",
-          "body": "El LLM propio de Stanford detecta resultados pediátricos críticos con 99.7% de sensibilidad y 97.9% de especificidad.",
-          "mini_headline": "LLM de Stanford marca resultados críticos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Stanford Health desarrolló un pipeline propio de modelo de lenguaje grande para señalar resultados críticos en informes de radiología pediátrica, presentado por Pooja Pathak en SIIM-CAIMI 2026, en Philadelphia."
-              },
-              {
-                "t": "p",
-                "x": "El pipeline abarca seis categorías: aumento de la presión intracraneal, traumatismo no accidental, sondas de alimentación mal colocadas, neumoperitoneo no sospechado, gas venoso portal y neumotórax a tensión. Funciona localmente sobre Llama 3.3 (70B), de modo que ningún dato sale de la institución y no se necesita ninguna herramienta comercial."
-              },
-              {
-                "t": "p",
-                "x": "En la validación con 916 informes alcanzó un 99.7% de sensibilidad y un 97.9% de especificidad. Entre agosto de 2024 y julio de 2026 señaló 1,297 resultados críticos entre 182,047 informes finalizados; las sondas de alimentación mal colocadas fueron las más frecuentes."
-              },
-              {
-                "t": "p",
-                "x": "Los tiempos de respuesta y la documentación de la comunicación se mantuvieron estables durante el despliegue. El trabajo futuro se centrará en hacer el pipeline más sensible al contexto y en probar modelos más recientes."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-ajou-thync",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "아주대병원, AI 병상\n모니터링 씽크 도입",
-      "body": "아주대병원이 대웅제약 씽크를 342병상에 도입해 최대 1100병상 확대를 검토한다.",
-      "mini_headline": "아주대병원, 씽크 도입",
-      "tool": "Medicine",
-      "source": "데일리팜",
-      "url": "https://www.dailypharm.com/user/news/343797",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
             "t": "img",
-            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-            "cap": ""
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
           },
           {
             "t": "p",
-            "x": "대웅제약이 아주대학교병원에 AI 기반 실시간 병상 모니터링 체계를 구축했다. 회사는 스마트 병상 모니터링 시스템 '씽크(thynC)'를 공급해 7개 병동 342병상에서 운영을 시작했다고 26일 밝혔다."
+            "x": "OpenEvidence가 NYU Langone Health와 손잡고 New York City에서 입지를 넓힌다. 이 AI 기반(AI-powered) 임상 근거 플랫폼은 NYU Langone의 Epic EHR 워크플로에 바로 들어가 병원과 외래 네트워크, Family Health Centers 전체에 깔린다. NYU Grossman School of Medicine과 NYU Grossman Long Island School of Medicine에서 수련하는 의사들도 쓰게 된다. NYU Langone의 외래 방문은 한 해 1200만 건이 넘고 의사와 교수진은 6,000명을 웃돈다."
           },
           {
             "t": "p",
-            "x": "아주대병원은 흉부외과와 순환기내과 병동을 시작으로 응급병동과 간호·간병통합서비스 병동까지 씽크 적용 범위를 넓혔다. 현재 운영 성과를 바탕으로 향후 최대 1100병상까지 확대 도입을 검토할 계획이다."
+            "x": "임상의는 Epic 워크플로 안에서 복잡한 임상 질문을 자연어로 묻는다. 답은 동료 심사를 거친 의학 문헌에 근거하되 환자 본인의 임상 기록에 비춰 나온다. 창업자이자 CEO인 Daniel Nadler는 “NYU Langone의 차트 안에 OpenEvidence를 넣는다는 것은 이 시스템이 해마다 지원하는 천이백만 건의 진료 하나하나마다 세계의 의학 문헌이 그 자리에 함께한다는 뜻”이라고 말했다."
           },
           {
             "t": "p",
-            "x": "이번 도입은 중증질환 환자와 수술 전후 집중 관찰이 필요한 환자의 상태 변화를 신속하게 파악하는 데 초점을 맞췄다. 일반병동에서도 생체신호를 연속적으로 확인해 의료진의 환자 관리를 지원한다는 취지다."
-          },
-          {
-            "t": "p",
-            "x": "씽크는 환자가 착용하는 웨어러블 바이오센서로 심전도와 심박수, 맥박수, 호흡수, 산소포화도 등을 실시간 측정한다. AI를 활용한 낙상 및 응급 부정맥 감지·분류 기능을 제공하며, 이상 징후가 감지되면 병동 모니터링 화면에 알람을 표시해 의료진의 대응을 돕는다."
-          },
-          {
-            "t": "p",
-            "x": "측정한 주요 생체정보는 전자의무기록(EMR)과 연동해 60초 간격으로 최신 측정값을 자동 기록한다. 의료진의 반복적인 수기 입력 부담을 줄이고, 입원 기간에 측정한 생체신호와 심전도 이벤트를 보고서 형태로 조회·저장할 수 있도록 했다."
-          },
-          {
-            "t": "p",
-            "x": "아주대병원은 지난해 장비 도입과 기반시설 구축을 시작해 올해 8월까지 임상 현장에 맞춘 최적화 작업을 진행했다. 9월부터 흉부외과와 순환기내과를 중심으로 운영을 확대했으며, 이달에는 응급병동과 간호·간병통합서비스 병동 등으로 적용 범위를 넓혔다."
-          },
-          {
-            "t": "p",
-            "x": "웨어러블 측정기와 병동 내 고정형 게이트웨이를 활용한 무선 모니터링 체계도 구축했다. 환자가 병동에서 이동하는 동안에도 생체신호를 확인할 수 있어 심혈관질환 환자의 수술 전후 상태 관찰과 응급병동 환자 관리 등에 활용된다."
-          },
-          {
-            "t": "p",
-            "x": "한상욱 아주대학교 의료원장은 \"입원환자의 주요 생체신호를 실시간으로 확인하고 이상징후를 조기에 발견할 수 있어 환자 안전을 한층 강화할 것으로 기대한다\"며 \"현재 운영 중인 342병상의 운영 성과를 바탕으로 향후 전체 1100병상으로의 확대 도입도 검토하고 있으며, 앞으로도 디지털 기술을 적극 활용해 보다 안전하고 스마트한 진료환경을 구축해 나가겠다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "대웅제약은 상급종합병원과 주요 거점병원을 중심으로 씽크를 활용한 스마트병동 구축을 확대하고 있다. 회사에 따르면 올해 10월 기준 전국 218개 의료기관, 누적 2만54병상에 도입됐다. 의료기관별 환자 특성과 운영 환경을 고려한 활용 가이드를 마련해 현장 운영을 지원할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "이창재 대웅제약 대표는 \"경기남부권 중증·응급의료의 핵심 역할을 담당하는 아주대병원에 씽크를 공급해 환자 안전을 강화하는 스마트병동 구축에 함께하게 돼 뜻깊다\"며 \"앞으로도 아주대병원과 협력을 강화하고, 경기남부권 의료기관의 디지털 전환과 환자 중심의 진료환경 조성을 지원해 나가겠다\"고 말했다."
+            "x": "회사는 U.S. 의사의 약 삼분의 이가 자사 플랫폼을 쓴다고 밝혔다. 10월에는 검증된 U.S. 임상의 120만 명이 4500만 회 이용했다. NewYork-Presbyterian과 Mount Sinai에는 이미 들어갔고 Memorial Sloan Kettering과는 종양학 분야에서 손을 잡았다. JAMA 연구에 따르면 2024년 1월부터 2026년 6월까지 100만 명 가까운 U.S. 임상의가 2억7100만 건을 질의했다. 이 가운데 51.9%가 임상 의사결정과 관련된 질문이었다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "아주대병원, AI 병상\n모니터링 씽크 도입",
-          "body": "아주대병원이 대웅제약 씽크를 342병상에 도입해 최대 1100병상 확대를 검토한다.",
-          "mini_headline": "아주대병원, 씽크 도입",
+        "en": {
+          "headline": "NYU Langone puts OpenEvidence\ninside its health record",
+          "body": "NYU Langone Health is building OpenEvidence's clinical AI search into its electronic health record across the system.",
+          "mini_headline": "OpenEvidence enters NYU's EHR",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "대웅제약이 아주대학교병원에 AI 기반 실시간 병상 모니터링 체계를 구축했다. 회사는 스마트 병상 모니터링 시스템 '씽크(thynC)'를 공급해 7개 병동 342병상에서 운영을 시작했다고 26일 밝혔다."
+                "x": "OpenEvidence is expanding its footprint in New York City through a partnership with NYU Langone Health. Its AI-powered clinical evidence platform is embedded directly into NYU Langone's Epic EHR workflows, spanning its hospitals, ambulatory network and the Family Health Centers, and reaching physicians training at the NYU Grossman School of Medicine and the NYU Grossman Long Island School of Medicine. NYU Langone has more than 12 million outpatient visits annually and over 6,000 physicians and faculty."
               },
               {
                 "t": "p",
-                "x": "아주대병원은 흉부외과와 순환기내과 병동을 시작으로 응급병동과 간호·간병통합서비스 병동까지 씽크 적용 범위를 넓혔다. 현재 운영 성과를 바탕으로 향후 최대 1100병상까지 확대 도입을 검토할 계획이다."
+                "x": "Clinicians will be able to ask complex clinical questions in natural language and receive answers grounded in peer-reviewed medical literature and read against the patient's own clinical record, all without leaving their Epic workflow. \"Putting OpenEvidence inside the chart at NYU Langone means the world's medical literature is now in the room for every one of the twelve million visits this system supports each year,\" said founder and CEO Daniel Nadler."
               },
               {
                 "t": "p",
-                "x": "이번 도입은 중증질환 환자와 수술 전후 집중 관찰이 필요한 환자의 상태 변화를 신속하게 파악하는 데 초점을 맞췄다. 일반병동에서도 생체신호를 연속적으로 확인해 의료진의 환자 관리를 지원한다는 취지다."
+                "x": "The company says roughly two-thirds of U.S. physicians use its platform; 1.2 million verified U.S. clinicians consulted it 45 million times in October. It already has deployments at NewYork-Presbyterian and Mount Sinai and an oncology partnership with Memorial Sloan Kettering. A JAMA study found nearly 1 million U.S. clinicians submitted 271 million queries from January 2024 to June 2026, 51.9% related to clinical decision-making."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "OpenEvidence가\nNYU Langone 입성",
+          "body": "NYU Langone Health가 OpenEvidence AI를 기록에 들인다.",
+          "mini_headline": "NYU EHR 속 OpenEvidence",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "씽크는 환자가 착용하는 웨어러블 바이오센서로 심전도와 심박수, 맥박수, 호흡수, 산소포화도 등을 실시간 측정한다. AI를 활용한 낙상 및 응급 부정맥 감지·분류 기능을 제공하며, 이상 징후가 감지되면 병동 모니터링 화면에 알람을 표시해 의료진의 대응을 돕는다."
+                "x": "OpenEvidence가 NYU Langone Health와 손잡고 New York City에서 입지를 넓힌다. 이 AI 기반(AI-powered) 임상 근거 플랫폼은 NYU Langone의 Epic EHR 워크플로에 바로 들어가 병원과 외래 네트워크, Family Health Centers 전체에 깔린다. NYU Grossman School of Medicine과 NYU Grossman Long Island School of Medicine에서 수련하는 의사들도 쓰게 된다. NYU Langone의 외래 방문은 한 해 1200만 건이 넘고 의사와 교수진은 6,000명을 웃돈다."
               },
               {
                 "t": "p",
-                "x": "측정한 주요 생체정보는 전자의무기록(EMR)과 연동해 60초 간격으로 최신 측정값을 자동 기록한다. 의료진의 반복적인 수기 입력 부담을 줄이고, 입원 기간에 측정한 생체신호와 심전도 이벤트를 보고서 형태로 조회·저장할 수 있도록 했다."
+                "x": "임상의는 Epic 워크플로 안에서 복잡한 임상 질문을 자연어로 묻는다. 답은 동료 심사를 거친 의학 문헌에 근거하되 환자 본인의 임상 기록에 비춰 나온다. 창업자이자 CEO인 Daniel Nadler는 “NYU Langone의 차트 안에 OpenEvidence를 넣는다는 것은 이 시스템이 해마다 지원하는 천이백만 건의 진료 하나하나마다 세계의 의학 문헌이 그 자리에 함께한다는 뜻”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "아주대병원은 지난해 장비 도입과 기반시설 구축을 시작해 올해 8월까지 임상 현장에 맞춘 최적화 작업을 진행했다. 9월부터 흉부외과와 순환기내과를 중심으로 운영을 확대했으며, 이달에는 응급병동과 간호·간병통합서비스 병동 등으로 적용 범위를 넓혔다."
-              },
-              {
-                "t": "p",
-                "x": "웨어러블 측정기와 병동 내 고정형 게이트웨이를 활용한 무선 모니터링 체계도 구축했다. 환자가 병동에서 이동하는 동안에도 생체신호를 확인할 수 있어 심혈관질환 환자의 수술 전후 상태 관찰과 응급병동 환자 관리 등에 활용된다."
-              },
-              {
-                "t": "p",
-                "x": "한상욱 아주대학교 의료원장은 \"입원환자의 주요 생체신호를 실시간으로 확인하고 이상징후를 조기에 발견할 수 있어 환자 안전을 한층 강화할 것으로 기대한다\"며 \"현재 운영 중인 342병상의 운영 성과를 바탕으로 향후 전체 1100병상으로의 확대 도입도 검토하고 있으며, 앞으로도 디지털 기술을 적극 활용해 보다 안전하고 스마트한 진료환경을 구축해 나가겠다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "대웅제약은 상급종합병원과 주요 거점병원을 중심으로 씽크를 활용한 스마트병동 구축을 확대하고 있다. 회사에 따르면 올해 10월 기준 전국 218개 의료기관, 누적 2만54병상에 도입됐다. 의료기관별 환자 특성과 운영 환경을 고려한 활용 가이드를 마련해 현장 운영을 지원할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "이창재 대웅제약 대표는 \"경기남부권 중증·응급의료의 핵심 역할을 담당하는 아주대병원에 씽크를 공급해 환자 안전을 강화하는 스마트병동 구축에 함께하게 돼 뜻깊다\"며 \"앞으로도 아주대병원과 협력을 강화하고, 경기남부권 의료기관의 디지털 전환과 환자 중심의 진료환경 조성을 지원해 나가겠다\"고 말했다."
+                "x": "회사는 U.S. 의사의 약 삼분의 이가 자사 플랫폼을 쓴다고 밝혔다. 10월에는 검증된 U.S. 임상의 120만 명이 4500만 회 이용했다. NewYork-Presbyterian과 Mount Sinai에는 이미 들어갔고 Memorial Sloan Kettering과는 종양학 분야에서 손을 잡았다. JAMA 연구에 따르면 2024년 1월부터 2026년 6월까지 100만 명 가까운 U.S. 임상의가 2억7100만 건을 질의했다. 이 가운데 51.9%가 임상 의사결정과 관련된 질문이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "亜洲大学病院、AI病床\nモニタリングthynC導入",
-          "body": "亜洲大学病院が大熊製薬のthynCを342床に導入し、最大1100床への拡大を検討する。",
-          "mini_headline": "亜洲大学病院、thynC導入",
+          "headline": "NYU Langoneが\nOpenEvidence統合",
+          "body": "NYU Langone HealthがOpenEvidenceのAIをカルテに組み込む。",
+          "mini_headline": "OpenEvidenceがNYUのEHRへ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "大熊製薬は亜洲大学病院に、AIを活用したリアルタイムの病床モニタリング体制を構築した。同社はスマート病床モニタリングシステム「シンク(thynC)」を供給し、7病棟342床で運用を始めたと26日に明らかにした。"
+                "x": "OpenEvidenceは、NYU Langone Healthとの提携によりNew York Cityでの存在感を広げる。AIを活用した（AI-powered）臨床エビデンスプラットフォームはNYU LangoneのEpic EHRワークフローに直接組み込まれ、病院、外来ネットワーク、Family Health Centersにまたがり、NYU Grossman School of MedicineとNYU Grossman Long Island School of Medicineで研修する医師にも届く。NYU Langoneの外来受診は年間1200万件を超え、医師・教員は6,000人を超える。"
               },
               {
                 "t": "p",
-                "x": "亜洲大学病院は胸部外科と循環器内科の病棟を皮切りに、救急病棟や看護・介護統合サービス病棟までthynCの適用範囲を広げた。現在の運用実績を踏まえ、今後最大1100床まで導入拡大を検討する計画だ。"
+                "x": "臨床医はEpicのワークフローを離れることなく、複雑な臨床上の質問を自然言語で尋ね、査読済みの医学文献に基づき、患者自身の臨床記録と照らし合わせた回答を得られるようになる。創業者でCEOのDaniel Nadler氏は「NYU LangoneのカルテにOpenEvidenceを組み込むことは、このシステムが毎年支える一千二百万件の受診の一つひとつに、世界の医学文献が同席することを意味する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "今回の導入は、重症患者や手術前後に集中的な観察が必要な患者の状態変化を素早く把握することに重点を置いた。一般病棟でも生体信号を連続的に確認し、医療スタッフの患者管理を支援する狙いだ。"
-              },
-              {
-                "t": "p",
-                "x": "thynCは患者が装着するウェアラブルバイオセンサーで、心電図、心拍数、脈拍数、呼吸数、酸素飽和度などをリアルタイムで測定する。AIを活用した転倒や緊急性不整脈の検知・分類機能を備え、異常の兆候を検知すると病棟のモニタリング画面にアラームを表示し、医療スタッフの対応を助ける。"
-              },
-              {
-                "t": "p",
-                "x": "測定した主な生体情報は電子カルテ(EMR)と連携し、60秒間隔で最新の測定値を自動記録する。医療スタッフが繰り返し手入力する負担を減らし、入院期間中に測定した生体信号と心電図イベントをレポート形式で閲覧・保存できるようにした。"
-              },
-              {
-                "t": "p",
-                "x": "亜洲大学病院は昨年、機器の導入とインフラ整備を始め、今年8月まで臨床現場に合わせた最適化作業を進めた。9月からは胸部外科と循環器内科を中心に運用を拡大し、今月は救急病棟や看護・介護統合サービス病棟などへ適用範囲を広げた。"
-              },
-              {
-                "t": "p",
-                "x": "ウェアラブル測定器と病棟内の固定型ゲートウェイを用いた無線モニタリング体制も構築した。患者が病棟内を移動している間も生体信号を確認でき、心血管疾患患者の手術前後の状態観察や救急病棟の患者管理などに活用されている。"
-              },
-              {
-                "t": "p",
-                "x": "ハン・サンウク亜洲大学校医療院長は「入院患者の主要な生体信号をリアルタイムで確認し、異常の兆候を早期に発見できるため、患者の安全を一層強化できると期待している」と述べ、「現在運用中の342床の実績を踏まえ、今後全1100床への拡大導入も検討しており、これからもデジタル技術を積極的に活用し、より安全でスマートな診療環境を築いていく」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "大熊製薬は上級総合病院や主要拠点病院を中心に、thynCを活用したスマート病棟の構築を拡大している。同社によると、今年10月時点で全国218の医療機関、累計2万54床に導入された。医療機関ごとの患者特性や運用環境を考慮した活用ガイドを用意し、現場での運用を支援する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "イ・チャンジェ大熊製薬代表は「京畿道南部の重症・救急医療で中核的な役割を担う亜洲大学病院にthynCを供給し、患者の安全を強化するスマート病棟の構築に携われたことは意義深い」と述べ、「今後も亜洲大学病院との協力を強化し、京畿道南部の医療機関のデジタル転換と患者中心の診療環境づくりを支援していく」と語った。"
+                "x": "同社によると、U.S.の医師の約三分の二が同社のプラットフォームを利用しており、10月には認証済みのU.S.の臨床医120万人が4500万回利用した。すでにNewYork-PresbyterianとMount Sinaiで導入され、Memorial Sloan Ketteringとはがん領域で提携している。JAMAの研究では、2024年1月から2026年6月までに100万人近いU.S.の臨床医が2億7100万件のクエリを送信し、その51.9%が臨床意思決定に関するものだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "亚洲大学医院引入\nAI病床监测thynC",
-          "body": "亚洲大学医院在342张病床引入大熊制药thynC，并考虑扩至最多1100张。",
-          "mini_headline": "亚洲大学医院引入thynC",
+          "headline": "NYU Langone病历\n接入OpenEvidence",
+          "body": "NYU Langone Health将OpenEvidence临床AI搜索嵌入电子病历。",
+          "mini_headline": "OpenEvidence进入NYU的EHR",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "大熊制药为亚洲大学医院搭建了基于AI的实时病床监测体系。该公司26日表示，已供应智能病床监测系统“thynC”，并在7个病区的342张病床上投入运行。"
+                "x": "OpenEvidence通过与NYU Langone Health合作，扩大其在New York City的布局。其AI驱动（AI-powered）的临床证据平台直接嵌入NYU Langone的Epic EHR工作流程，覆盖旗下医院、门诊网络和Family Health Centers，并惠及在NYU Grossman School of Medicine和NYU Grossman Long Island School of Medicine接受培训的医生。NYU Langone每年门诊量超过1200万人次，医生和教职人员超过6,000名。"
               },
               {
                 "t": "p",
-                "x": "亚洲大学医院从胸外科和心内科病区起步，将thynC的应用范围扩展到急诊病区和护理·看护一体化服务病区。医院计划根据目前的运行成效，考虑今后将引入规模扩大至最多1100张病床。"
+                "x": "临床医生无需离开Epic工作流程，即可用自然语言提出复杂的临床问题，获得以同行评审医学文献为依据、并结合患者本人临床记录解读的答案。创始人兼CEO Daniel Nadler表示：“把OpenEvidence放进NYU Langone的病历，意味着这个系统每年支持的一千二百万次就诊中，每一次都有全世界的医学文献在场。”"
               },
               {
                 "t": "p",
-                "x": "此次引入的重点是迅速掌握重症患者以及手术前后需要重点观察的患者的病情变化，旨在让普通病区也能连续查看生命体征，支持医护人员管理患者。"
-              },
-              {
-                "t": "p",
-                "x": "thynC通过患者佩戴的可穿戴生物传感器，实时测量心电图、心率、脉率、呼吸频率和血氧饱和度等指标。它提供基于AI的跌倒和紧急心律失常检测与分类功能，一旦发现异常征兆，便在病区监测屏幕上显示警报，协助医护人员应对。"
-              },
-              {
-                "t": "p",
-                "x": "测得的主要生命体征数据与电子病历(EMR)联动，每隔60秒自动记录最新测量值。这减轻了医护人员反复手工录入的负担，并可将住院期间测得的生命体征和心电图事件以报告形式查询和保存。"
-              },
-              {
-                "t": "p",
-                "x": "亚洲大学医院去年开始引进设备、建设基础设施，并在今年8月前完成了贴合临床现场的优化工作。自9月起以胸外科和心内科为中心扩大运行，本月又将应用范围扩展到急诊病区和护理·看护一体化服务病区等。"
-              },
-              {
-                "t": "p",
-                "x": "医院还利用可穿戴测量设备和病区内的固定式网关搭建了无线监测体系。患者在病区内走动时也能查看其生命体征，可用于观察心血管疾病患者的术前术后状态以及管理急诊病区患者等。"
-              },
-              {
-                "t": "p",
-                "x": "亚洲大学医疗院院长Han Sang-wook表示：“我们可以实时查看住院患者的主要生命体征并及早发现异常征兆，期待借此进一步加强患者安全。”他还说：“我们正以目前运行中的342张病床的成效为基础，考虑今后扩大到全部1100张病床，并将继续积极运用数字技术，打造更安全、更智能的诊疗环境。”"
-              },
-              {
-                "t": "p",
-                "x": "大熊制药正以上级综合医院和主要据点医院为中心，扩大基于thynC的智慧病区建设。据该公司介绍，截至今年10月，thynC已在全国218家医疗机构投入使用，累计2万54张病床。公司计划制定兼顾各医疗机构患者特点和运营环境的使用指南，为现场运营提供支持。"
-              },
-              {
-                "t": "p",
-                "x": "大熊制药代表Lee Chang-jae表示：“能够向在京畿南部重症和急救医疗中发挥核心作用的亚洲大学医院供应thynC，共同建设加强患者安全的智慧病区，意义深远。”他还说：“今后我们将加强与亚洲大学医院的合作，支持京畿南部医疗机构的数字化转型和以患者为中心的诊疗环境建设。”"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Ajou University Hospital adopts\nthynC AI bed monitoring",
-          "body": "Ajou University Hospital uses Daewoong Pharmaceutical's thynC in 342 beds and weighs expanding to up to 1100 beds.",
-          "mini_headline": "Ajou University Hospital adopts thynC",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Daewoong Pharmaceutical has built an AI-based real-time bed monitoring system at Ajou University Hospital. The company said on the 26th that it supplied its smart bed monitoring system thynC and began operating it in 342 beds across 7 wards."
-              },
-              {
-                "t": "p",
-                "x": "Ajou University Hospital started with its thoracic surgery and cardiology wards and has extended thynC to its emergency ward and its integrated nursing care service wards. Based on current results, it plans to consider expanding the rollout to up to 1100 beds."
-              },
-              {
-                "t": "p",
-                "x": "The rollout focuses on quickly catching changes in the condition of patients with severe illness and of patients who need close observation before and after surgery. The aim is to support patient care by medical staff through continuous monitoring of vital signs, even in general wards."
-              },
-              {
-                "t": "p",
-                "x": "thynC uses a wearable biosensor worn by the patient to measure electrocardiogram, heart rate, pulse rate, respiratory rate and oxygen saturation in real time. It offers AI-based detection and classification of falls and emergency arrhythmias, and when it detects an abnormal sign it shows an alarm on the ward monitoring screen to help medical staff respond."
-              },
-              {
-                "t": "p",
-                "x": "Key vital data are linked to the electronic medical record (EMR), which automatically records the latest readings at 60-second intervals. This reduces the burden of repetitive manual entry on medical staff and lets them view and save, in report form, the vital signs and ECG events measured during the hospital stay."
-              },
-              {
-                "t": "p",
-                "x": "Ajou University Hospital began installing equipment and building infrastructure last year and optimized the system for clinical settings through August this year. From September it expanded operations centered on thoracic surgery and cardiology, and this month it extended coverage to the emergency ward and the integrated nursing care service wards."
-              },
-              {
-                "t": "p",
-                "x": "It also built a wireless monitoring system using wearable devices and fixed gateways inside the wards. Because vital signs can be checked while patients move around the ward, the system is used to observe cardiovascular patients before and after surgery and to manage emergency ward patients."
-              },
-              {
-                "t": "p",
-                "x": "Han Sang-wook, president of Ajou University Medical Center, said, “We expect to further strengthen patient safety because we can check inpatients’ key vital signs in real time and detect abnormal signs early.” He added, “Based on the results of the 342 beds now in operation, we are also considering expanding the rollout to all 1100 beds, and we will continue to actively use digital technology to build a safer and smarter care environment.”"
-              },
-              {
-                "t": "p",
-                "x": "Daewoong Pharmaceutical is expanding thynC-based smart wards, centered on tertiary general hospitals and major regional hospitals. According to the company, as of October this year it had been installed at 218 medical institutions nationwide, for a cumulative 2만54 beds. It plans to support on-site operations with usage guides that reflect each institution’s patient characteristics and operating environment."
-              },
-              {
-                "t": "p",
-                "x": "Lee Chang-jae, CEO of Daewoong Pharmaceutical, said, “It is meaningful to take part in building smart wards that strengthen patient safety by supplying thynC to Ajou University Hospital, which plays a core role in severe and emergency care in southern Gyeonggi.” He added, “We will continue to strengthen our cooperation with Ajou University Hospital and support the digital transformation of medical institutions in southern Gyeonggi and the creation of patient-centered care environments.”"
+                "x": "该公司称，约三分之二的U.S.医生使用其平台；10月，120万名经过认证的U.S.临床医生使用了4500万次。它已在NewYork-Presbyterian和Mount Sinai部署，并与Memorial Sloan Kettering开展肿瘤学合作。一项JAMA研究发现，2024年1月至2026年6月，近100万名U.S.临床医生提交了2.71亿次查询，其中51.9%与临床决策相关。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Hospital Universitario Ajou\nadopta thynC, monitoreo con AI",
-          "body": "El Hospital Universitario Ajou instaló thynC de Daewoong Pharmaceutical en 342 camas y estudia llegar hasta 1100.",
-          "mini_headline": "El Hospital Universitario Ajou adopta thynC",
+          "headline": "NYU Langone lleva OpenEvidence\na su historia clínica",
+          "body": "NYU Langone Health integra la búsqueda clínica con AI de OpenEvidence en el historial electrónico de todo su sistema.",
+          "mini_headline": "OpenEvidence entra en el EHR de NYU",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "Daewoong Pharmaceutical implantó en el Hospital Universitario Ajou un sistema de monitorización de camas en tiempo real basado en AI. La empresa informó el día 26 que suministró su sistema inteligente de monitorización de camas thynC y que comenzó a operarlo en 342 camas de 7 salas."
+                "x": "OpenEvidence amplía su presencia en New York City mediante una alianza con NYU Langone Health. Su plataforma de evidencia clínica impulsada por AI (AI-powered) se integra directamente en los flujos de trabajo del Epic EHR de NYU Langone, abarca sus hospitales, su red ambulatoria y los Family Health Centers, y llega a los médicos en formación de la NYU Grossman School of Medicine y la NYU Grossman Long Island School of Medicine. NYU Langone registra más de 12 millones de visitas ambulatorias al año y más de 6,000 médicos y docentes."
               },
               {
                 "t": "p",
-                "x": "El hospital comenzó por las salas de cirugía torácica y cardiología y amplió el uso de thynC a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados. Con base en los resultados actuales, prevé estudiar su ampliación a un máximo de 1100 camas."
+                "x": "Los clínicos podrán formular preguntas clínicas complejas en lenguaje natural y recibir respuestas basadas en literatura médica revisada por pares y contrastadas con la historia clínica del propio paciente, sin salir de su flujo de trabajo de Epic. \"Poner OpenEvidence dentro de la historia clínica en NYU Langone significa que la literatura médica del mundo está ahora presente en cada una de los doce millones de visitas que este sistema atiende cada año\", dijo el fundador y CEO Daniel Nadler."
               },
               {
                 "t": "p",
-                "x": "La implantación se centra en detectar con rapidez los cambios en el estado de los pacientes con enfermedades graves y de quienes requieren observación intensiva antes y después de una cirugía. El objetivo es apoyar la atención del personal médico mediante la vigilancia continua de los signos vitales, también en las salas generales."
-              },
-              {
-                "t": "p",
-                "x": "thynC mide en tiempo real, mediante un biosensor portátil que lleva el paciente, el electrocardiograma, la frecuencia cardiaca, el pulso, la frecuencia respiratoria y la saturación de oxígeno, entre otros. Ofrece detección y clasificación de caídas y arritmias urgentes con AI y, si detecta una anomalía, muestra una alarma en la pantalla de monitorización de la sala para ayudar al personal médico a responder."
-              },
-              {
-                "t": "p",
-                "x": "Los principales datos vitales se vinculan con la historia clínica electrónica (EMR), que registra automáticamente los valores más recientes cada 60 segundos. Esto reduce la carga de la introducción manual repetitiva para el personal médico y permite consultar y guardar en forma de informe los signos vitales y los eventos de electrocardiograma medidos durante la hospitalización."
-              },
-              {
-                "t": "p",
-                "x": "El Hospital Universitario Ajou empezó el año pasado a instalar equipos y a construir la infraestructura, y hasta agosto de este año realizó ajustes de optimización adaptados a la práctica clínica. Desde septiembre amplió la operación con foco en cirugía torácica y cardiología, y este mes extendió su alcance a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados."
-              },
-              {
-                "t": "p",
-                "x": "También se montó un sistema de monitorización inalámbrica con medidores portátiles y pasarelas fijas en las salas. Como los signos vitales pueden verse incluso mientras el paciente se desplaza por la sala, se utiliza para observar a pacientes cardiovasculares antes y después de la cirugía y para atender a pacientes de la sala de urgencias."
-              },
-              {
-                "t": "p",
-                "x": "Han Sang-wook, director del Centro Médico de la Universidad Ajou, dijo: “Esperamos reforzar aún más la seguridad del paciente, ya que podemos verificar en tiempo real los principales signos vitales de los pacientes hospitalizados y detectar anomalías de forma temprana”. Añadió: “Con base en los resultados de las 342 camas que operan hoy, también estudiamos ampliar la implantación a las 1100 camas en total, y seguiremos aprovechando la tecnología digital para crear un entorno asistencial más seguro e inteligente”."
-              },
-              {
-                "t": "p",
-                "x": "Daewoong Pharmaceutical está ampliando la creación de salas inteligentes con thynC, sobre todo en hospitales generales de nivel superior y en grandes hospitales de referencia regionales. Según la empresa, a octubre de este año el sistema se había instalado en 218 instituciones médicas de todo el país, con un acumulado de 2만54 camas. Prevé apoyar la operación sobre el terreno con guías de uso adaptadas a las características de los pacientes y al entorno de cada institución."
-              },
-              {
-                "t": "p",
-                "x": "Lee Chang-jae, director ejecutivo de Daewoong Pharmaceutical, dijo: “Es significativo participar en la creación de salas inteligentes que refuerzan la seguridad del paciente suministrando thynC al Hospital Universitario Ajou, que desempeña un papel central en la atención grave y de urgencias del sur de Gyeonggi”. Añadió: “Seguiremos reforzando la cooperación con el Hospital Universitario Ajou y apoyando la transformación digital de las instituciones médicas del sur de Gyeonggi y la creación de entornos asistenciales centrados en el paciente”."
+                "x": "La compañía afirma que aproximadamente dos tercios de los médicos de U.S. usan su plataforma; 1.2 millones de clínicos verificados de U.S. la consultaron 45 millones de veces en octubre. Ya está implantada en NewYork-Presbyterian y Mount Sinai y tiene una alianza en oncología con Memorial Sloan Kettering. Un estudio de JAMA halló que casi 1 millón de clínicos de U.S. enviaron 271 millones de consultas entre enero de 2024 y junio de 2026, el 51.9% relacionadas con la toma de decisiones clínicas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "亜洲大学病院、AI病床\nモニタリングthynC導入",
-          "body": "亜洲大学病院が大熊製薬のthynCを342床に導入し、最大1100床への拡大を検討する。",
-          "mini_headline": "亜洲大学病院、thynC導入",
+        "ko": {
+          "headline": "OpenEvidence,\nNYU Langone 탑재",
+          "body": "NYU Langone Health는 OpenEvidence AI를 기록에 넣는다.",
+          "mini_headline": "NYU EHR 속 OpenEvidence",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "大熊製薬は亜洲大学病院に、AIを活用したリアルタイムの病床モニタリング体制を構築した。同社はスマート病床モニタリングシステム「シンク(thynC)」を供給し、7病棟342床で運用を始めたと26日に明らかにした。"
+                "x": "OpenEvidence가 NYU Langone Health와의 제휴로 New York City에서 입지를 넓힌다. AI 기반(AI-powered) 임상 근거 플랫폼은 NYU Langone의 Epic EHR 워크플로에 직접 내장돼 병원, 외래 네트워크, Family Health Centers 전반에 걸치며, NYU Grossman School of Medicine과 NYU Grossman Long Island School of Medicine에서 수련하는 의사들에게도 닿는다. NYU Langone의 연간 외래 방문은 1200만 건이 넘고, 의사와 교수진은 6,000명이 넘는다."
               },
               {
                 "t": "p",
-                "x": "亜洲大学病院は胸部外科と循環器内科の病棟を皮切りに、救急病棟や看護・介護統合サービス病棟までthynCの適用範囲を広げた。現在の運用実績を踏まえ、今後最大1100床まで導入拡大を検討する計画だ。"
+                "x": "임상의는 Epic 워크플로를 벗어나지 않고도 복잡한 임상 질문을 자연어로 묻고, 동료 심사를 거친 의학 문헌에 근거하면서 환자 본인의 임상 기록에 비춰 본 답을 받을 수 있게 된다. 창업자이자 CEO인 Daniel Nadler는 “NYU Langone의 차트 안에 OpenEvidence를 넣는다는 것은 이 시스템이 해마다 지원하는 천이백만 건의 진료 하나하나마다 세계의 의학 문헌이 그 자리에 함께한다는 뜻”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "今回の導入は、重症患者や手術前後に集中的な観察が必要な患者の状態変化を素早く把握することに重点を置いた。一般病棟でも生体信号を連続的に確認し、医療スタッフの患者管理を支援する狙いだ。"
+                "x": "회사는 U.S. 의사의 약 삼분의 이가 자사 플랫폼을 쓴다고 밝혔다. 10월에는 검증된 U.S. 임상의 120만 명이 4500만 회 이용했다. NewYork-Presbyterian과 Mount Sinai에 이미 도입됐고, Memorial Sloan Kettering과는 종양학 분야 제휴를 맺었다. JAMA 연구에 따르면 2024년 1월부터 2026년 6월까지 100만 명 가까운 U.S. 임상의가 2억7100만 건의 질의를 제출했고, 그중 51.9%가 임상 의사결정과 관련됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NYU Langoneが\nOpenEvidence統合",
+          "body": "NYU Langone HealthがOpenEvidenceのAIをカルテに組み込む。",
+          "mini_headline": "OpenEvidenceがNYUのEHRへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "thynCは患者が装着するウェアラブルバイオセンサーで、心電図、心拍数、脈拍数、呼吸数、酸素飽和度などをリアルタイムで測定する。AIを活用した転倒や緊急性不整脈の検知・分類機能を備え、異常の兆候を検知すると病棟のモニタリング画面にアラームを表示し、医療スタッフの対応を助ける。"
+                "x": "OpenEvidenceは、NYU Langone Healthとの提携によりNew York Cityでの存在感を広げる。AIを活用した（AI-powered）臨床エビデンスプラットフォームはNYU LangoneのEpic EHRワークフローに直接組み込まれ、病院、外来ネットワーク、Family Health Centersにまたがり、NYU Grossman School of MedicineとNYU Grossman Long Island School of Medicineで研修する医師にも届く。NYU Langoneの外来受診は年間1200万件を超え、医師・教員は6,000人を超える。"
               },
               {
                 "t": "p",
-                "x": "測定した主な生体情報は電子カルテ(EMR)と連携し、60秒間隔で最新の測定値を自動記録する。医療スタッフが繰り返し手入力する負担を減らし、入院期間中に測定した生体信号と心電図イベントをレポート形式で閲覧・保存できるようにした。"
+                "x": "臨床医はEpicのワークフローを離れることなく、複雑な臨床上の質問を自然言語で尋ね、査読済みの医学文献に基づき、患者自身の臨床記録と照らし合わせた回答を得られるようになる。創業者でCEOのDaniel Nadler氏は「NYU LangoneのカルテにOpenEvidenceを組み込むことは、このシステムが毎年支える一千二百万件の受診の一つひとつに、世界の医学文献が同席することを意味する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "亜洲大学病院は昨年、機器の導入とインフラ整備を始め、今年8月まで臨床現場に合わせた最適化作業を進めた。9月からは胸部外科と循環器内科を中心に運用を拡大し、今月は救急病棟や看護・介護統合サービス病棟などへ適用範囲を広げた。"
-              },
-              {
-                "t": "p",
-                "x": "ウェアラブル測定器と病棟内の固定型ゲートウェイを用いた無線モニタリング体制も構築した。患者が病棟内を移動している間も生体信号を確認でき、心血管疾患患者の手術前後の状態観察や救急病棟の患者管理などに活用されている。"
-              },
-              {
-                "t": "p",
-                "x": "ハン・サンウク亜洲大学校医療院長は「入院患者の主要な生体信号をリアルタイムで確認し、異常の兆候を早期に発見できるため、患者の安全を一層強化できると期待している」と述べ、「現在運用中の342床の実績を踏まえ、今後全1100床への拡大導入も検討しており、これからもデジタル技術を積極的に活用し、より安全でスマートな診療環境を築いていく」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "大熊製薬は上級総合病院や主要拠点病院を中心に、thynCを活用したスマート病棟の構築を拡大している。同社によると、今年10月時点で全国218の医療機関、累計2万54床に導入された。医療機関ごとの患者特性や運用環境を考慮した活用ガイドを用意し、現場での運用を支援する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "イ・チャンジェ大熊製薬代表は「京畿道南部の重症・救急医療で中核的な役割を担う亜洲大学病院にthynCを供給し、患者の安全を強化するスマート病棟の構築に携われたことは意義深い」と述べ、「今後も亜洲大学病院との協力を強化し、京畿道南部の医療機関のデジタル転換と患者中心の診療環境づくりを支援していく」と語った。"
+                "x": "同社によると、U.S.の医師の約三分の二が同社のプラットフォームを利用しており、10月には認証済みのU.S.の臨床医120万人が4500万回利用した。すでにNewYork-PresbyterianとMount Sinaiで導入され、Memorial Sloan Ketteringとはがん領域で提携している。JAMAの研究では、2024年1月から2026年6月までに100万人近いU.S.の臨床医が2億7100万件のクエリを送信し、その51.9%が臨床意思決定に関するものだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "亚洲大学医院引入\nAI病床监测thynC",
-          "body": "亚洲大学医院在342张病床引入大熊制药thynC，并考虑扩至最多1100张。",
-          "mini_headline": "亚洲大学医院引入thynC",
+          "headline": "NYU Langone病历\n接入OpenEvidence",
+          "body": "NYU Langone Health将OpenEvidence临床AI搜索嵌入电子病历。",
+          "mini_headline": "OpenEvidence进入NYU的EHR",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "大熊制药为亚洲大学医院搭建了基于AI的实时病床监测体系。该公司26日表示，已供应智能病床监测系统“thynC”，并在7个病区的342张病床上投入运行。"
+                "x": "OpenEvidence通过与NYU Langone Health合作，扩大其在New York City的布局。其AI驱动（AI-powered）的临床证据平台直接嵌入NYU Langone的Epic EHR工作流程，覆盖旗下医院、门诊网络和Family Health Centers，并惠及在NYU Grossman School of Medicine和NYU Grossman Long Island School of Medicine接受培训的医生。NYU Langone每年门诊量超过1200万人次，医生和教职人员超过6,000名。"
               },
               {
                 "t": "p",
-                "x": "亚洲大学医院从胸外科和心内科病区起步，将thynC的应用范围扩展到急诊病区和护理·看护一体化服务病区。医院计划根据目前的运行成效，考虑今后将引入规模扩大至最多1100张病床。"
+                "x": "临床医生无需离开Epic工作流程，即可用自然语言提出复杂的临床问题，获得以同行评审医学文献为依据、并结合患者本人临床记录解读的答案。创始人兼CEO Daniel Nadler表示：“把OpenEvidence放进NYU Langone的病历，意味着这个系统每年支持的一千二百万次就诊中，每一次都有全世界的医学文献在场。”"
               },
               {
                 "t": "p",
-                "x": "此次引入的重点是迅速掌握重症患者以及手术前后需要重点观察的患者的病情变化，旨在让普通病区也能连续查看生命体征，支持医护人员管理患者。"
-              },
-              {
-                "t": "p",
-                "x": "thynC通过患者佩戴的可穿戴生物传感器，实时测量心电图、心率、脉率、呼吸频率和血氧饱和度等指标。它提供基于AI的跌倒和紧急心律失常检测与分类功能，一旦发现异常征兆，便在病区监测屏幕上显示警报，协助医护人员应对。"
-              },
-              {
-                "t": "p",
-                "x": "测得的主要生命体征数据与电子病历(EMR)联动，每隔60秒自动记录最新测量值。这减轻了医护人员反复手工录入的负担，并可将住院期间测得的生命体征和心电图事件以报告形式查询和保存。"
-              },
-              {
-                "t": "p",
-                "x": "亚洲大学医院去年开始引进设备、建设基础设施，并在今年8月前完成了贴合临床现场的优化工作。自9月起以胸外科和心内科为中心扩大运行，本月又将应用范围扩展到急诊病区和护理·看护一体化服务病区等。"
-              },
-              {
-                "t": "p",
-                "x": "医院还利用可穿戴测量设备和病区内的固定式网关搭建了无线监测体系。患者在病区内走动时也能查看其生命体征，可用于观察心血管疾病患者的术前术后状态以及管理急诊病区患者等。"
-              },
-              {
-                "t": "p",
-                "x": "亚洲大学医疗院院长Han Sang-wook表示：“我们可以实时查看住院患者的主要生命体征并及早发现异常征兆，期待借此进一步加强患者安全。”他还说：“我们正以目前运行中的342张病床的成效为基础，考虑今后扩大到全部1100张病床，并将继续积极运用数字技术，打造更安全、更智能的诊疗环境。”"
-              },
-              {
-                "t": "p",
-                "x": "大熊制药正以上级综合医院和主要据点医院为中心，扩大基于thynC的智慧病区建设。据该公司介绍，截至今年10月，thynC已在全国218家医疗机构投入使用，累计2万54张病床。公司计划制定兼顾各医疗机构患者特点和运营环境的使用指南，为现场运营提供支持。"
-              },
-              {
-                "t": "p",
-                "x": "大熊制药代表Lee Chang-jae表示：“能够向在京畿南部重症和急救医疗中发挥核心作用的亚洲大学医院供应thynC，共同建设加强患者安全的智慧病区，意义深远。”他还说：“今后我们将加强与亚洲大学医院的合作，支持京畿南部医疗机构的数字化转型和以患者为中心的诊疗环境建设。”"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Ajou University Hospital adopts\nthynC AI bed monitoring",
-          "body": "Ajou University Hospital uses Daewoong Pharmaceutical's thynC in 342 beds and weighs expanding to up to 1100 beds.",
-          "mini_headline": "Ajou University Hospital adopts thynC",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Daewoong Pharmaceutical has built an AI-based real-time bed monitoring system at Ajou University Hospital. The company said on the 26th that it supplied its smart bed monitoring system thynC and began operating it in 342 beds across 7 wards."
-              },
-              {
-                "t": "p",
-                "x": "Ajou University Hospital started with its thoracic surgery and cardiology wards and has extended thynC to its emergency ward and its integrated nursing care service wards. Based on current results, it plans to consider expanding the rollout to up to 1100 beds."
-              },
-              {
-                "t": "p",
-                "x": "The rollout focuses on quickly catching changes in the condition of patients with severe illness and of patients who need close observation before and after surgery. The aim is to support patient care by medical staff through continuous monitoring of vital signs, even in general wards."
-              },
-              {
-                "t": "p",
-                "x": "thynC uses a wearable biosensor worn by the patient to measure electrocardiogram, heart rate, pulse rate, respiratory rate and oxygen saturation in real time. It offers AI-based detection and classification of falls and emergency arrhythmias, and when it detects an abnormal sign it shows an alarm on the ward monitoring screen to help medical staff respond."
-              },
-              {
-                "t": "p",
-                "x": "Key vital data are linked to the electronic medical record (EMR), which automatically records the latest readings at 60-second intervals. This reduces the burden of repetitive manual entry on medical staff and lets them view and save, in report form, the vital signs and ECG events measured during the hospital stay."
-              },
-              {
-                "t": "p",
-                "x": "Ajou University Hospital began installing equipment and building infrastructure last year and optimized the system for clinical settings through August this year. From September it expanded operations centered on thoracic surgery and cardiology, and this month it extended coverage to the emergency ward and the integrated nursing care service wards."
-              },
-              {
-                "t": "p",
-                "x": "It also built a wireless monitoring system using wearable devices and fixed gateways inside the wards. Because vital signs can be checked while patients move around the ward, the system is used to observe cardiovascular patients before and after surgery and to manage emergency ward patients."
-              },
-              {
-                "t": "p",
-                "x": "Han Sang-wook, president of Ajou University Medical Center, said, “We expect to further strengthen patient safety because we can check inpatients’ key vital signs in real time and detect abnormal signs early.” He added, “Based on the results of the 342 beds now in operation, we are also considering expanding the rollout to all 1100 beds, and we will continue to actively use digital technology to build a safer and smarter care environment.”"
-              },
-              {
-                "t": "p",
-                "x": "Daewoong Pharmaceutical is expanding thynC-based smart wards, centered on tertiary general hospitals and major regional hospitals. According to the company, as of October this year it had been installed at 218 medical institutions nationwide, for a cumulative 2만54 beds. It plans to support on-site operations with usage guides that reflect each institution’s patient characteristics and operating environment."
-              },
-              {
-                "t": "p",
-                "x": "Lee Chang-jae, CEO of Daewoong Pharmaceutical, said, “It is meaningful to take part in building smart wards that strengthen patient safety by supplying thynC to Ajou University Hospital, which plays a core role in severe and emergency care in southern Gyeonggi.” He added, “We will continue to strengthen our cooperation with Ajou University Hospital and support the digital transformation of medical institutions in southern Gyeonggi and the creation of patient-centered care environments.”"
+                "x": "该公司称，约三分之二的U.S.医生使用其平台；10月，120万名经过认证的U.S.临床医生使用了4500万次。它已在NewYork-Presbyterian和Mount Sinai部署，并与Memorial Sloan Kettering开展肿瘤学合作。一项JAMA研究发现，2024年1月至2026年6月，近100万名U.S.临床医生提交了2.71亿次查询，其中51.9%与临床决策相关。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Hospital Universitario Ajou\nadopta thynC, monitoreo con AI",
-          "body": "El Hospital Universitario Ajou instaló thynC de Daewoong Pharmaceutical en 342 camas y estudia llegar hasta 1100.",
-          "mini_headline": "El Hospital Universitario Ajou adopta thynC",
+          "headline": "NYU Langone lleva OpenEvidence\na su historia clínica",
+          "body": "NYU Langone Health integra la búsqueda clínica con AI de OpenEvidence en el historial electrónico de todo su sistema.",
+          "mini_headline": "OpenEvidence entra en el EHR de NYU",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
-                "cap": ""
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
               },
               {
                 "t": "p",
-                "x": "Daewoong Pharmaceutical implantó en el Hospital Universitario Ajou un sistema de monitorización de camas en tiempo real basado en AI. La empresa informó el día 26 que suministró su sistema inteligente de monitorización de camas thynC y que comenzó a operarlo en 342 camas de 7 salas."
+                "x": "OpenEvidence amplía su presencia en New York City mediante una alianza con NYU Langone Health. Su plataforma de evidencia clínica impulsada por AI (AI-powered) se integra directamente en los flujos de trabajo del Epic EHR de NYU Langone, abarca sus hospitales, su red ambulatoria y los Family Health Centers, y llega a los médicos en formación de la NYU Grossman School of Medicine y la NYU Grossman Long Island School of Medicine. NYU Langone registra más de 12 millones de visitas ambulatorias al año y más de 6,000 médicos y docentes."
               },
               {
                 "t": "p",
-                "x": "El hospital comenzó por las salas de cirugía torácica y cardiología y amplió el uso de thynC a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados. Con base en los resultados actuales, prevé estudiar su ampliación a un máximo de 1100 camas."
+                "x": "Los clínicos podrán formular preguntas clínicas complejas en lenguaje natural y recibir respuestas basadas en literatura médica revisada por pares y contrastadas con la historia clínica del propio paciente, sin salir de su flujo de trabajo de Epic. \"Poner OpenEvidence dentro de la historia clínica en NYU Langone significa que la literatura médica del mundo está ahora presente en cada una de los doce millones de visitas que este sistema atiende cada año\", dijo el fundador y CEO Daniel Nadler."
               },
               {
                 "t": "p",
-                "x": "La implantación se centra en detectar con rapidez los cambios en el estado de los pacientes con enfermedades graves y de quienes requieren observación intensiva antes y después de una cirugía. El objetivo es apoyar la atención del personal médico mediante la vigilancia continua de los signos vitales, también en las salas generales."
-              },
-              {
-                "t": "p",
-                "x": "thynC mide en tiempo real, mediante un biosensor portátil que lleva el paciente, el electrocardiograma, la frecuencia cardiaca, el pulso, la frecuencia respiratoria y la saturación de oxígeno, entre otros. Ofrece detección y clasificación de caídas y arritmias urgentes con AI y, si detecta una anomalía, muestra una alarma en la pantalla de monitorización de la sala para ayudar al personal médico a responder."
-              },
-              {
-                "t": "p",
-                "x": "Los principales datos vitales se vinculan con la historia clínica electrónica (EMR), que registra automáticamente los valores más recientes cada 60 segundos. Esto reduce la carga de la introducción manual repetitiva para el personal médico y permite consultar y guardar en forma de informe los signos vitales y los eventos de electrocardiograma medidos durante la hospitalización."
-              },
-              {
-                "t": "p",
-                "x": "El Hospital Universitario Ajou empezó el año pasado a instalar equipos y a construir la infraestructura, y hasta agosto de este año realizó ajustes de optimización adaptados a la práctica clínica. Desde septiembre amplió la operación con foco en cirugía torácica y cardiología, y este mes extendió su alcance a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados."
-              },
-              {
-                "t": "p",
-                "x": "También se montó un sistema de monitorización inalámbrica con medidores portátiles y pasarelas fijas en las salas. Como los signos vitales pueden verse incluso mientras el paciente se desplaza por la sala, se utiliza para observar a pacientes cardiovasculares antes y después de la cirugía y para atender a pacientes de la sala de urgencias."
-              },
-              {
-                "t": "p",
-                "x": "Han Sang-wook, director del Centro Médico de la Universidad Ajou, dijo: “Esperamos reforzar aún más la seguridad del paciente, ya que podemos verificar en tiempo real los principales signos vitales de los pacientes hospitalizados y detectar anomalías de forma temprana”. Añadió: “Con base en los resultados de las 342 camas que operan hoy, también estudiamos ampliar la implantación a las 1100 camas en total, y seguiremos aprovechando la tecnología digital para crear un entorno asistencial más seguro e inteligente”."
-              },
-              {
-                "t": "p",
-                "x": "Daewoong Pharmaceutical está ampliando la creación de salas inteligentes con thynC, sobre todo en hospitales generales de nivel superior y en grandes hospitales de referencia regionales. Según la empresa, a octubre de este año el sistema se había instalado en 218 instituciones médicas de todo el país, con un acumulado de 2만54 camas. Prevé apoyar la operación sobre el terreno con guías de uso adaptadas a las características de los pacientes y al entorno de cada institución."
-              },
-              {
-                "t": "p",
-                "x": "Lee Chang-jae, director ejecutivo de Daewoong Pharmaceutical, dijo: “Es significativo participar en la creación de salas inteligentes que refuerzan la seguridad del paciente suministrando thynC al Hospital Universitario Ajou, que desempeña un papel central en la atención grave y de urgencias del sur de Gyeonggi”. Añadió: “Seguiremos reforzando la cooperación con el Hospital Universitario Ajou y apoyando la transformación digital de las instituciones médicas del sur de Gyeonggi y la creación de entornos asistenciales centrados en el paciente”."
+                "x": "La compañía afirma que aproximadamente dos tercios de los médicos de U.S. usan su plataforma; 1.2 millones de clínicos verificados de U.S. la consultaron 45 millones de veces en octubre. Ya está implantada en NewYork-Presbyterian y Mount Sinai y tiene una alianza en oncología con Memorial Sloan Kettering. Un estudio de JAMA halló que casi 1 millón de clínicos de U.S. enviaron 271 millones de consultas entre enero de 2024 y junio de 2026, el 51.9% relacionadas con la toma de decisiones clínicas."
               }
             ]
           }
@@ -1511,195 +919,189 @@
       }
     },
     {
-      "id": "medicine-ut-dell-ai",
+      "id": "doximity-dosing-error-test",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UT, AI-native\n병원에 크게 건다",
-      "body": "UT가 UT Dell Medicine을 출범시켜 AI-native 병원을 짓는다.",
-      "mini_headline": "UT, AI-native 병원에 건다",
+      "headline": "Doximity 자체 시험\n인기 AI도 용량 오류",
+      "body": "Doximity는 범용 AI가 위험한 용량 오류도 낸다며 자사 도구가 낫다고 했다.",
+      "mini_headline": "Doximity가 짚은 AI 용량 오류",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/health-tech/university-texas-austin-unveils-new-academic-health-system-it-builds-ai-native-hospital",
-      "accent": "#f5a623",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-            "cap": "2030년 개원 예정인 UT Dell Medical Center는 인공지능과 첨단 기술을 환자 진료와 임상 교육에 곧바로 접목한다. (UT Dell Medicine)"
+            "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
           },
           {
             "t": "p",
-            "x": "텍사스대학교 오스틴(The University of Texas at Austin)은 화요일 통합 학술 의료 체계 UT Dell Medicine을 공개했다. 클리닉과 Dell Medical School, 개원을 앞둔 UT Dell Medical Center를 하나로 묶은 체계다."
+            "x": "Doximity가 공개한 연구에서 자사 용량 검증 도구가 범용 AI 모델을 앞섰다. Doximity는 범용 모델에 오류가 넘쳐난다고 본다. 시험에는 2026년에 나온 대규모 언어 모델 몇 개와 FDA-approved(FDA 승인) 약물 2,200종 이상을 다루는 임상 용량 질문 8,500개 이상이 쓰였다고 Doximity는 밝혔다."
           },
           {
             "t": "p",
-            "x": "새 AI-native 의료 센터를 지을 North Austin 부지는 이달 정리 작업에 들어간다. 센터는 2030년 개원 예정으로 예상 비용은 약 $5 billion이며, Michael & Susan Dell Foundation의 $750 million 기부금이 바탕이다. 300-to-500-bed(300~500병상) 규모의 전문 병원과 외래 클리닉, 완전한 응급실이 들어선다."
+            "x": "새로 승인된 약물은 오류가 날 확률이 다섯 배 높았다. 찾아낸 오류 가운데 13.2%는 경미했고 43%는 중대했으며 3.4%는 치명적일 수 있었다. 가장 흔한 실수는 질문에 관련 정보가 있었는데도 나이와 신장 기능, 약물 상호작용에 맞춰 용량을 조정하지 않은 것이었다."
           },
           {
             "t": "p",
-            "x": "UT 지도부는 AI와 여러 첨단 기술을 처음부터 병원 인프라에 녹여 넣겠다는 목표다. 시설 전체에 센서 20,000~30,000개가 들어갈 전망이고, 의약품·물품·리넨·음식 자동 운반을 비롯해 로봇을 폭넓게 쓰도록 설계 중이다."
+            "x": "Doximity는 새 검증 도구 DoseCheck가 99.9%의 경우 정확했다며 이를 Doximity Ask 안의 안전망으로 내세운다. Doximity의 최고 AI 연구자 Dr. Louis-Antoine Mullie는 \"우리가 본 실패 양상은 용량에만 국한되지 않는다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "Claudia Lucchinetti, M.D.는 병원이 “진료팀의 지능적인 일원이 되는 것”이 비전이라고 말했다. UT Dell Medicine은 AI와 예측 도구, 데이터를 써서 진료의 무게중심을 조기 발견과 예방으로 옮길 계획이다."
+            "x": "Anthropic과 OpenAI가 의료 분야에 뛰어드는 와중에 나온 연구다. 결과는 엇갈린다. Stanford와 Harvard 연구진은 임상 특화 도구가 범용 모델을 앞섰다고 밝혔지만 올여름 다른 연구팀은 정반대 결과를 내놨다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UT Dell Medicine bets big\non an AI-native hospital",
-          "body": "UT Austin unveiled UT Dell Medicine, a unified academic health system, as it builds an AI-native hospital.",
-          "mini_headline": "UT bets on AI-native hospital",
+          "headline": "Doximity says popular AI\nmodels get doses wrong",
+          "body": "In its own test, Doximity says general-use AI models made dosing errors, some dangerous, and its own tool did better.",
+          "mini_headline": "Doximity flags AI dosing errors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "The UT Dell Medical Center, slated to open in 2030, will integrate artificial intelligence and advanced tech directly into patient care and clinical training. (UT Dell Medicine)"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "The University of Texas at Austin unveiled Tuesday a unified academic health system, called UT Dell Medicine, that brings its clinics, Dell Medical School and the upcoming UT Dell Medical Center under one banner."
+                "x": "Research released by Doximity shows that its dose verification tool outperformed general-use AI models, which it says are rife with errors. Doximity says it tested a handful of large language models released in 2026 with more than 8,500 clinical dosing questions covering more than 2,200 FDA-approved drugs."
               },
               {
                 "t": "p",
-                "x": "Site clearing begins this month to build a new AI-native medical center in North Austin, slated to open in 2030 with an estimated price tag of about $5 billion, anchored by a $750 million gift from the Michael & Susan Dell Foundation. It will feature a 300-to-500-bed specialty hospital, an outpatient clinic and a full emergency department."
+                "x": "Freshly approved drugs had five times the odds of an error. Of the errors detected, 13.2% were minor, 43% were significant and 3.4% were potentially lethal. The most common mistake was failing to adjust doses for age, kidney function or drug interactions, even when that information was given in the question."
               },
               {
                 "t": "p",
-                "x": "UT leaders aim to build AI and other advanced technologies into the hospital's infrastructure from the ground up. The medical center expects to have 20,000 to 30,000 sensors throughout the facility, and is designing for extensive use of robotics, including automated transportation of medications, supplies, linens and food."
+                "x": "Doximity claimed its new verification tool, DoseCheck, was correct 99.9% of the time; it frames the tool as a safety net within Doximity Ask. \"The failure modes we saw aren't unique to dosing,\" said Dr. Louis-Antoine Mullie, chief AI researcher at Doximity."
               },
               {
                 "t": "p",
-                "x": "The vision is for the hospital to “become an intelligent member of the care team,” said Claudia Lucchinetti, M.D. UT Dell Medicine also plans to use AI, predictive tools and data to shift care toward earlier detection and prevention."
+                "x": "The research comes as Anthropic and OpenAI enter healthcare. Studies have landed on both sides: Stanford and Harvard researchers found clinically specialized tools outperformed general-purpose models, while another team this summer found the opposite."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UT, AI-native\n병원에 크게 건다",
-          "body": "UT가 UT Dell Medicine을 출범시켜 AI-native 병원을 짓는다.",
-          "mini_headline": "UT, AI-native 병원에 건다",
+          "headline": "Doximity 자체 시험\n인기 AI도 용량 오류",
+          "body": "Doximity는 범용 AI가 위험한 용량 오류도 낸다며 자사 도구가 낫다고 했다.",
+          "mini_headline": "Doximity가 짚은 AI 용량 오류",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "2030년 개원 예정인 UT Dell Medical Center는 인공지능과 첨단 기술을 환자 진료와 임상 교육에 곧바로 접목한다. (UT Dell Medicine)"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "텍사스대학교 오스틴(The University of Texas at Austin)은 화요일 통합 학술 의료 체계 UT Dell Medicine을 공개했다. 클리닉과 Dell Medical School, 개원을 앞둔 UT Dell Medical Center를 하나로 묶은 체계다."
+                "x": "Doximity가 공개한 연구에서 자사 용량 검증 도구가 범용 AI 모델을 앞섰다. Doximity는 범용 모델에 오류가 넘쳐난다고 본다. 시험에는 2026년에 나온 대규모 언어 모델 몇 개와 FDA-approved(FDA 승인) 약물 2,200종 이상을 다루는 임상 용량 질문 8,500개 이상이 쓰였다고 Doximity는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "새 AI-native 의료 센터를 지을 North Austin 부지는 이달 정리 작업에 들어간다. 센터는 2030년 개원 예정으로 예상 비용은 약 $5 billion이며, Michael & Susan Dell Foundation의 $750 million 기부금이 바탕이다. 300-to-500-bed(300~500병상) 규모의 전문 병원과 외래 클리닉, 완전한 응급실이 들어선다."
+                "x": "새로 승인된 약물은 오류가 날 확률이 다섯 배 높았다. 찾아낸 오류 가운데 13.2%는 경미했고 43%는 중대했으며 3.4%는 치명적일 수 있었다. 가장 흔한 실수는 질문에 관련 정보가 있었는데도 나이와 신장 기능, 약물 상호작용에 맞춰 용량을 조정하지 않은 것이었다."
               },
               {
                 "t": "p",
-                "x": "UT 지도부는 AI와 여러 첨단 기술을 처음부터 병원 인프라에 녹여 넣겠다는 목표다. 시설 전체에 센서 20,000~30,000개가 들어갈 전망이고, 의약품·물품·리넨·음식 자동 운반을 비롯해 로봇을 폭넓게 쓰도록 설계 중이다."
+                "x": "Doximity는 새 검증 도구 DoseCheck가 99.9%의 경우 정확했다며 이를 Doximity Ask 안의 안전망으로 내세운다. Doximity의 최고 AI 연구자 Dr. Louis-Antoine Mullie는 \"우리가 본 실패 양상은 용량에만 국한되지 않는다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "Claudia Lucchinetti, M.D.는 병원이 “진료팀의 지능적인 일원이 되는 것”이 비전이라고 말했다. UT Dell Medicine은 AI와 예측 도구, 데이터를 써서 진료의 무게중심을 조기 발견과 예방으로 옮길 계획이다."
+                "x": "Anthropic과 OpenAI가 의료 분야에 뛰어드는 와중에 나온 연구다. 결과는 엇갈린다. Stanford와 Harvard 연구진은 임상 특화 도구가 범용 모델을 앞섰다고 밝혔지만 올여름 다른 연구팀은 정반대 결과를 내놨다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UT、AI-native\n病院に大きく賭ける",
-          "body": "UT AustinがUT Dell Medicineを始動、AI-native病院を造る。",
-          "mini_headline": "UT、AI-native病院に賭ける",
+          "headline": "Doximity自社試験\n人気AIは用量を誤る",
+          "body": "Doximityは自社試験で、汎用AIに危険な用量誤りもあり自社ツールが上回ったとした。",
+          "mini_headline": "DoximityがAIの用量誤りを指摘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "2030年開院予定のUT Dell Medical Centerは、人工知能と先端技術を患者ケアと臨床教育に直接組み込む。(UT Dell Medicine)"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "The University of Texas at Austin(テキサス大学オースティン校)は火曜日、クリニック、Dell Medical School、開院予定のUT Dell Medical Centerを一つにまとめる統合学術医療システム「UT Dell Medicine」を発表した。"
+                "x": "Doximityが公表した研究によると、同社の用量検証ツールは、誤りだらけだと同社が指摘する汎用AIモデルを上回った。Doximityは、2026年に公開された大規模言語モデル数種を、2,200種を超えるFDA-approved（FDA承認）薬を対象とした8,500問を超える臨床用量の質問で試験したという。"
               },
               {
                 "t": "p",
-                "x": "North Austinに新たなAI-native医療センターを建設するための用地整備が今月始まる。2030年の開院を予定し、推定費用は約$5 billionで、Michael & Susan Dell Foundationからの$750 millionの寄付が柱となる。300-to-500-bed(300〜500床)の専門病院、外来クリニック、本格的な救急部門を備える。"
+                "x": "承認されたばかりの薬では、誤りが生じるオッズが五倍だった。検出された誤りのうち13.2%は軽微、43%は重大、3.4%は致死的となりうるものだった。最も多い誤りは、質問に情報が示されていても、年齢、腎機能、薬物相互作用に応じて用量を調整しないことだった。"
               },
               {
                 "t": "p",
-                "x": "UTの指導部は、AIをはじめとする先端技術を最初から病院のインフラに組み込むことを目指している。医療センターは施設全体に20,000〜30,000個のセンサーを設置する見込みで、医薬品、物品、リネン、食事の自動搬送を含め、ロボットを幅広く活用する設計を進めている。"
+                "x": "Doximityは新しい検証ツールDoseCheckの正答率が99.9%だったと主張し、Doximity Ask内の安全網と位置づけている。Doximityの最高AI研究責任者Dr. Louis-Antoine Mullieは「我々が見た失敗のパターンは用量に限ったものではない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "目指すのは病院が「ケアチームの知的な一員になる」ことだと、Claudia Lucchinetti, M.D.は語った。UT Dell MedicineはAI、予測ツール、データを活用し、ケアを早期発見と予防へと移していく計画だ。"
+                "x": "この研究は、AnthropicとOpenAIが医療分野に参入するなかで発表された。研究結果は割れている。StanfordとHarvardの研究者は臨床特化型ツールが汎用モデルを上回ったとしたが、この夏には別のチームが逆の結果を示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UT重金押注\nAI-native医院",
-          "body": "UT Austin推出UT Dell Medicine，并兴建AI-native医院。",
-          "mini_headline": "UT押注AI-native医院",
+          "headline": "Doximity称热门AI\n模型常算错剂量",
+          "body": "Doximity称，自测中通用AI模型出现剂量错误，部分很危险，自家工具表现更好。",
+          "mini_headline": "Doximity指出AI剂量错误",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "UT Dell Medical Center计划于2030年开业，将把人工智能和先进技术直接融入患者护理与临床培训。（UT Dell Medicine）"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "The University of Texas at Austin（得克萨斯大学奥斯汀分校）周二公布了名为UT Dell Medicine的一体化学术医疗体系，将旗下诊所、Dell Medical School以及即将建成的UT Dell Medical Center整合在同一品牌之下。"
+                "x": "Doximity发布的研究显示，其剂量核验工具的表现优于通用AI模型，该公司称后者错误频出。Doximity表示，它用8,500多道临床剂量问题测试了2026年发布的几款大语言模型，这些问题涵盖2,200多种FDA-approved（FDA批准）药物。"
               },
               {
                 "t": "p",
-                "x": "本月，North Austin将开始清理场地，兴建一座新的AI-native医疗中心，计划于2030年开业，预计造价约$5 billion，其中Michael & Susan Dell Foundation捐赠的$750 million为核心资金。中心将设有一座300-to-500-bed（300至500张床位）的专科医院、一个门诊诊所和一个全功能急诊科。"
+                "x": "新近获批药物出错的几率是五倍。在检出的错误中，13.2%属轻微，43%属严重，3.4%可能致命。最常见的错误是即便问题中已给出相关信息，仍未根据年龄、肾功能或药物相互作用调整剂量。"
               },
               {
                 "t": "p",
-                "x": "UT领导层希望从一开始就将AI及其他先进技术融入医院基础设施。该医疗中心预计在整个设施内部署20,000至30,000个传感器，并在设计上大量使用机器人，包括自动运送药品、物资、布草和餐食。"
+                "x": "Doximity称其新核验工具DoseCheck的正确率为99.9%，并将其定位为Doximity Ask中的安全网。Doximity首席AI研究员Dr. Louis-Antoine Mullie表示：“我们看到的失败模式并非剂量问题所独有。”"
               },
               {
                 "t": "p",
-                "x": "Claudia Lucchinetti, M.D.表示，愿景是让医院“成为护理团队中的智能成员”。UT Dell Medicine还计划利用AI、预测工具和数据，推动医疗向更早发现和预防转变。"
+                "x": "这项研究发布之际，Anthropic和OpenAI正进军医疗领域。现有研究结论不一：Stanford和Harvard的研究人员发现临床专用工具优于通用模型，而今年夏天另一支团队得出了相反结论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UT Dell Medicine apuesta fuerte\npor un hospital AI-native",
-          "body": "UT Austin presentó UT Dell Medicine, un sistema de salud académico unificado, y construye un hospital AI-native.",
-          "mini_headline": "UT apuesta por un hospital AI-native",
+          "headline": "Doximity dice que modelos de AI\npopulares fallan en las dosis",
+          "body": "Doximity afirma que, en su prueba, la AI de uso general erró dosis, a veces con peligro, y su herramienta rindió más.",
+          "mini_headline": "Doximity señala errores de dosis de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "El UT Dell Medical Center, cuya apertura está prevista para 2030, integrará la inteligencia artificial y la tecnología avanzada directamente en la atención al paciente y la formación clínica. (UT Dell Medicine)"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "The University of Texas at Austin presentó el martes un sistema de salud académico unificado, llamado UT Dell Medicine, que reúne bajo una misma marca sus clínicas, la Dell Medical School y el futuro UT Dell Medical Center."
+                "x": "Una investigación publicada por Doximity muestra que su herramienta de verificación de dosis superó a los modelos de AI de uso general, que según la empresa están plagados de errores. Doximity afirma que probó un puñado de grandes modelos de lenguaje lanzados en 2026 con más de 8,500 preguntas clínicas de dosificación sobre más de 2,200 fármacos FDA-approved (aprobados por la FDA)."
               },
               {
                 "t": "p",
-                "x": "Este mes comienza el despeje del terreno para construir un nuevo centro médico AI-native en North Austin, cuya apertura está prevista para 2030, con un costo estimado de unos 5 mil millones de dólares y respaldado por una donación de 750 millones de dólares de la Michael & Susan Dell Foundation. Contará con un hospital de especialidades 300-to-500-bed (de 300 a 500 camas), una clínica ambulatoria y un servicio de urgencias completo."
+                "x": "Los fármacos aprobados recientemente tuvieron cinco veces más probabilidades de error. De los errores detectados, el 13.2% fueron leves, el 43% significativos y el 3.4% potencialmente letales. El fallo más común fue no ajustar la dosis según la edad, la función renal o las interacciones farmacológicas, incluso cuando esa información figuraba en la pregunta."
               },
               {
                 "t": "p",
-                "x": "Los líderes de UT buscan integrar la AI y otras tecnologías avanzadas en la infraestructura del hospital desde cero. El centro médico prevé contar con entre 20,000 y 30,000 sensores en todas sus instalaciones y se está diseñando para un uso extensivo de la robótica, incluido el transporte automatizado de medicamentos, suministros, ropa de cama y comida."
+                "x": "Doximity aseguró que su nueva herramienta de verificación, DoseCheck, acertó el 99.9% de las veces; la presenta como una red de seguridad dentro de Doximity Ask. \"Los modos de fallo que vimos no son exclusivos de la dosificación\", dijo Dr. Louis-Antoine Mullie, investigador jefe de AI en Doximity."
               },
               {
                 "t": "p",
-                "x": "La visión es que el hospital “se convierta en un miembro inteligente del equipo de atención”, dijo Claudia Lucchinetti, M.D. UT Dell Medicine también planea usar AI, herramientas predictivas y datos para orientar la atención hacia la detección temprana y la prevención."
+                "x": "La investigación llega cuando Anthropic y OpenAI entran en la atención sanitaria. Los estudios apuntan en ambas direcciones: investigadores de Stanford y Harvard hallaron que las herramientas clínicas especializadas superaban a los modelos de uso general, mientras que otro equipo llegó este verano a la conclusión contraria."
               }
             ]
           }
@@ -1707,125 +1109,403 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UT, AI-native\n병원에 크게 건다",
-          "body": "UT가 UT Dell Medicine을 내놓고 AI-native 병원을 짓는다.",
-          "mini_headline": "UT, AI-native 병원에 건다",
+          "headline": "Doximity 자체 시험\n인기 AI 용량 오류",
+          "body": "Doximity는 범용 AI가 위험한 용량 오류도 내며 자사 도구가 낫다고 밝혔다.",
+          "mini_headline": "Doximity, AI 용량 오류 지적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "2030년 개원 예정인 UT Dell Medical Center는 인공지능과 첨단 기술을 환자 진료와 임상 교육에 직접 통합한다. (UT Dell Medicine)"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "텍사스대학교 오스틴(The University of Texas at Austin)은 화요일, 클리닉과 Dell Medical School, 개원을 앞둔 UT Dell Medical Center를 하나로 묶는 통합 학술 의료 체계 UT Dell Medicine을 공개했다."
+                "x": "Doximity가 공개한 연구에 따르면 자사 용량 검증 도구가 범용 AI 모델보다 나은 성능을 보였다. Doximity는 범용 모델에 오류가 넘쳐난다고 본다. Doximity는 2026년에 출시된 대규모 언어 모델 몇 개를 FDA-approved(FDA 승인) 약물 2,200종 이상을 다루는 임상 용량 질문 8,500개 이상으로 시험했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "이달 North Austin에서 새 AI-native 의료 센터를 짓기 위한 부지 정리가 시작된다. 센터는 2030년 개원 예정이며 예상 비용은 약 $5 billion이고, Michael & Susan Dell Foundation의 $750 million 기부가 바탕이 된다. 300-to-500-bed(300~500병상) 규모의 전문 병원, 외래 클리닉, 완전한 응급실을 갖춘다."
+                "x": "새로 승인된 약물은 오류가 날 확률이 다섯 배 높았다. 발견된 오류 가운데 13.2%는 경미했고 43%는 중대했으며 3.4%는 치명적일 수 있었다. 가장 흔한 실수는 질문에 관련 정보가 주어졌는데도 나이, 신장 기능, 약물 상호작용에 맞춰 용량을 조정하지 않은 것이었다."
               },
               {
                 "t": "p",
-                "x": "UT 지도부는 AI와 여러 첨단 기술을 처음부터 병원 인프라에 녹여 넣는 것을 목표로 한다. 의료 센터는 시설 전체에 센서 20,000~30,000개를 설치할 것으로 예상하며, 의약품·물품·리넨·음식의 자동 운반을 포함해 로봇을 폭넓게 활용하도록 설계하고 있다."
+                "x": "Doximity는 새 검증 도구 DoseCheck가 99.9%의 경우 정확했다고 주장하며, 이를 Doximity Ask 안의 안전망으로 내세운다. Doximity의 최고 AI 연구자 Dr. Louis-Antoine Mullie는 \"우리가 본 실패 양상은 용량에만 국한되지 않는다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "Claudia Lucchinetti, M.D.는 병원이 “진료팀의 지능적인 일원이 되는 것”이 비전이라고 말했다. UT Dell Medicine은 AI와 예측 도구, 데이터를 활용해 진료의 무게중심을 조기 발견과 예방으로 옮길 계획이다."
+                "x": "이번 연구는 Anthropic과 OpenAI가 의료 분야에 진출하는 가운데 나왔다. 연구 결과는 엇갈린다. Stanford와 Harvard 연구진은 임상 특화 도구가 범용 모델을 앞섰다고 밝혔지만, 올여름 다른 연구팀은 반대 결과를 내놨다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UT、AI-native\n病院に大きく賭ける",
-          "body": "UT AustinがUT Dell Medicineを始動、AI-native病院を造る。",
-          "mini_headline": "UT、AI-native病院に賭ける",
+          "headline": "Doximity自社試験\n人気AIは用量を誤る",
+          "body": "Doximityは自社試験で、汎用AIに危険な用量誤りもあり自社ツールが上回ったとした。",
+          "mini_headline": "DoximityがAIの用量誤りを指摘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "2030年開院予定のUT Dell Medical Centerは、人工知能と先端技術を患者ケアと臨床教育に直接組み込む。(UT Dell Medicine)"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "The University of Texas at Austin(テキサス大学オースティン校)は火曜日、クリニック、Dell Medical School、開院予定のUT Dell Medical Centerを一つにまとめる統合学術医療システム「UT Dell Medicine」を発表した。"
+                "x": "Doximityが公表した研究によると、同社の用量検証ツールは、誤りだらけだと同社が指摘する汎用AIモデルを上回った。Doximityは、2026年に公開された大規模言語モデル数種を、2,200種を超えるFDA-approved（FDA承認）薬を対象とした8,500問を超える臨床用量の質問で試験したという。"
               },
               {
                 "t": "p",
-                "x": "North Austinに新たなAI-native医療センターを建設するための用地整備が今月始まる。2030年の開院を予定し、推定費用は約$5 billionで、Michael & Susan Dell Foundationからの$750 millionの寄付が柱となる。300-to-500-bed(300〜500床)の専門病院、外来クリニック、本格的な救急部門を備える。"
+                "x": "承認されたばかりの薬では、誤りが生じるオッズが五倍だった。検出された誤りのうち13.2%は軽微、43%は重大、3.4%は致死的となりうるものだった。最も多い誤りは、質問に情報が示されていても、年齢、腎機能、薬物相互作用に応じて用量を調整しないことだった。"
               },
               {
                 "t": "p",
-                "x": "UTの指導部は、AIをはじめとする先端技術を最初から病院のインフラに組み込むことを目指している。医療センターは施設全体に20,000〜30,000個のセンサーを設置する見込みで、医薬品、物品、リネン、食事の自動搬送を含め、ロボットを幅広く活用する設計を進めている。"
+                "x": "Doximityは新しい検証ツールDoseCheckの正答率が99.9%だったと主張し、Doximity Ask内の安全網と位置づけている。Doximityの最高AI研究責任者Dr. Louis-Antoine Mullieは「我々が見た失敗のパターンは用量に限ったものではない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "目指すのは病院が「ケアチームの知的な一員になる」ことだと、Claudia Lucchinetti, M.D.は語った。UT Dell MedicineはAI、予測ツール、データを活用し、ケアを早期発見と予防へと移していく計画だ。"
+                "x": "この研究は、AnthropicとOpenAIが医療分野に参入するなかで発表された。研究結果は割れている。StanfordとHarvardの研究者は臨床特化型ツールが汎用モデルを上回ったとしたが、この夏には別のチームが逆の結果を示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UT重金押注\nAI-native医院",
-          "body": "UT Austin推出UT Dell Medicine，并兴建AI-native医院。",
-          "mini_headline": "UT押注AI-native医院",
+          "headline": "Doximity称热门AI\n模型常算错剂量",
+          "body": "Doximity称，自测中通用AI模型出现剂量错误，部分很危险，自家工具表现更好。",
+          "mini_headline": "Doximity指出AI剂量错误",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "UT Dell Medical Center计划于2030年开业，将把人工智能和先进技术直接融入患者护理与临床培训。（UT Dell Medicine）"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "The University of Texas at Austin（得克萨斯大学奥斯汀分校）周二公布了名为UT Dell Medicine的一体化学术医疗体系，将旗下诊所、Dell Medical School以及即将建成的UT Dell Medical Center整合在同一品牌之下。"
+                "x": "Doximity发布的研究显示，其剂量核验工具的表现优于通用AI模型，该公司称后者错误频出。Doximity表示，它用8,500多道临床剂量问题测试了2026年发布的几款大语言模型，这些问题涵盖2,200多种FDA-approved（FDA批准）药物。"
               },
               {
                 "t": "p",
-                "x": "本月，North Austin将开始清理场地，兴建一座新的AI-native医疗中心，计划于2030年开业，预计造价约$5 billion，其中Michael & Susan Dell Foundation捐赠的$750 million为核心资金。中心将设有一座300-to-500-bed（300至500张床位）的专科医院、一个门诊诊所和一个全功能急诊科。"
+                "x": "新近获批药物出错的几率是五倍。在检出的错误中，13.2%属轻微，43%属严重，3.4%可能致命。最常见的错误是即便问题中已给出相关信息，仍未根据年龄、肾功能或药物相互作用调整剂量。"
               },
               {
                 "t": "p",
-                "x": "UT领导层希望从一开始就将AI及其他先进技术融入医院基础设施。该医疗中心预计在整个设施内部署20,000至30,000个传感器，并在设计上大量使用机器人，包括自动运送药品、物资、布草和餐食。"
+                "x": "Doximity称其新核验工具DoseCheck的正确率为99.9%，并将其定位为Doximity Ask中的安全网。Doximity首席AI研究员Dr. Louis-Antoine Mullie表示：“我们看到的失败模式并非剂量问题所独有。”"
               },
               {
                 "t": "p",
-                "x": "Claudia Lucchinetti, M.D.表示，愿景是让医院“成为护理团队中的智能成员”。UT Dell Medicine还计划利用AI、预测工具和数据，推动医疗向更早发现和预防转变。"
+                "x": "这项研究发布之际，Anthropic和OpenAI正进军医疗领域。现有研究结论不一：Stanford和Harvard的研究人员发现临床专用工具优于通用模型，而今年夏天另一支团队得出了相反结论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UT Dell Medicine apuesta fuerte\npor un hospital AI-native",
-          "body": "UT Austin presentó UT Dell Medicine, un sistema de salud académico unificado, y construye un hospital AI-native.",
-          "mini_headline": "UT apuesta por un hospital AI-native",
+          "headline": "Doximity dice que modelos de AI\npopulares fallan en las dosis",
+          "body": "Doximity afirma que, en su prueba, la AI de uso general erró dosis, a veces con peligro, y su herramienta rindió más.",
+          "mini_headline": "Doximity señala errores de dosis de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
-                "cap": "El UT Dell Medical Center, cuya apertura está prevista para 2030, integrará la inteligencia artificial y la tecnología avanzada directamente en la atención al paciente y la formación clínica. (UT Dell Medicine)"
+                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
               },
               {
                 "t": "p",
-                "x": "The University of Texas at Austin presentó el martes un sistema de salud académico unificado, llamado UT Dell Medicine, que reúne bajo una misma marca sus clínicas, la Dell Medical School y el futuro UT Dell Medical Center."
+                "x": "Una investigación publicada por Doximity muestra que su herramienta de verificación de dosis superó a los modelos de AI de uso general, que según la empresa están plagados de errores. Doximity afirma que probó un puñado de grandes modelos de lenguaje lanzados en 2026 con más de 8,500 preguntas clínicas de dosificación sobre más de 2,200 fármacos FDA-approved (aprobados por la FDA)."
               },
               {
                 "t": "p",
-                "x": "Este mes comienza el despeje del terreno para construir un nuevo centro médico AI-native en North Austin, cuya apertura está prevista para 2030, con un costo estimado de unos 5 mil millones de dólares y respaldado por una donación de 750 millones de dólares de la Michael & Susan Dell Foundation. Contará con un hospital de especialidades 300-to-500-bed (de 300 a 500 camas), una clínica ambulatoria y un servicio de urgencias completo."
+                "x": "Los fármacos aprobados recientemente tuvieron cinco veces más probabilidades de error. De los errores detectados, el 13.2% fueron leves, el 43% significativos y el 3.4% potencialmente letales. El fallo más común fue no ajustar la dosis según la edad, la función renal o las interacciones farmacológicas, incluso cuando esa información figuraba en la pregunta."
               },
               {
                 "t": "p",
-                "x": "Los líderes de UT buscan integrar la AI y otras tecnologías avanzadas en la infraestructura del hospital desde cero. El centro médico prevé contar con entre 20,000 y 30,000 sensores en todas sus instalaciones y se está diseñando para un uso extensivo de la robótica, incluido el transporte automatizado de medicamentos, suministros, ropa de cama y comida."
+                "x": "Doximity aseguró que su nueva herramienta de verificación, DoseCheck, acertó el 99.9% de las veces; la presenta como una red de seguridad dentro de Doximity Ask. \"Los modos de fallo que vimos no son exclusivos de la dosificación\", dijo Dr. Louis-Antoine Mullie, investigador jefe de AI en Doximity."
               },
               {
                 "t": "p",
-                "x": "La visión es que el hospital “se convierta en un miembro inteligente del equipo de atención”, dijo Claudia Lucchinetti, M.D. UT Dell Medicine también planea usar AI, herramientas predictivas y datos para orientar la atención hacia la detección temprana y la prevención."
+                "x": "La investigación llega cuando Anthropic y OpenAI entran en la atención sanitaria. Los estudios apuntan en ambas direcciones: investigadores de Stanford y Harvard hallaron que las herramientas clínicas especializadas superaban a los modelos de uso general, mientras que otro equipo llegó este verano a la conclusión contraria."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "hoppr-msk-xray-drafting",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "HOPPR 모델, 전신\nMSK X선 소견 초안",
+      "body": "HOPPR 베타 모델이 검사당 최대 세 영상으로 근골격계 X선 소견 초안을 쓴다.",
+      "mini_headline": "HOPPR의 MSK X선 소견 초안",
+      "tool": "Medicine",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+            "cap": "대퇴골과 경골, 비골, 슬개골이 드러난 사람 무릎 관절 전후면 X-ray 영상"
+          },
+          {
+            "t": "p",
+            "x": "HOPPR가 FS MSK Whole-Body Narrative Model 베타 버전을 내놓는다. 검사 한 건에 영상을 최대 세 장까지 받아 근골격계(MSK) 방사선 사진의 소견 초안을 써 주는 비전-언어 파운데이션 모델이다."
+          },
+          {
+            "t": "p",
+            "x": "업체에 따르면 이 모델은 척추, 흉곽과 흉벽, 상지, 골반과 하지를 아우르는 외래 MSK 검사 약 674,000건으로 학습했다. 정상 해부 구조보다는 이상 소견을 적는 데 무게를 둔다. HOPPR는 골절, 퇴행성 관절·척추 변화, 정렬, 금속 고정물 등 26개 MSK 소견 범주로 모델을 평가했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "회사 설명으로는 영상의학 판독 보고와 워크플로 애플리케이션을 만드는 개발자용 소프트웨어 구성요소다. 기관마다 다른 데이터와 워크플로에 맞춰 HOPPR의 Forward Deployed Services 팀이 맞춤화하고 통합한다. 회사는 이 모델이 미국 식품의약국(U.S. Food and Drug Administration, FDA)의 승인을 받지 않았으며 진단용도 아니라고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "HOPPR model drafts findings\nfor whole-body MSK x-rays",
+          "body": "HOPPR's beta vision-language model drafts findings for musculoskeletal radiographs from up to three views per study.",
+          "mini_headline": "HOPPR drafts MSK x-ray findings",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "X-ray image of human knee joint showing femur, tibia, fibula, and patella in anteroposterior view"
+              },
+              {
+                "t": "p",
+                "x": "HOPPR is launching a beta version of its FS MSK Whole-Body Narrative Model, a vision-language foundation model that generates draft findings text for musculoskeletal (MSK) radiographs using up to three views per study."
+              },
+              {
+                "t": "p",
+                "x": "The model was trained on about 674,000 outpatient MSK studies covering the spine, thorax and chest wall, upper extremity, and pelvis and lower extremity, according to the vendor. It focuses on describing abnormalities rather than normal anatomy. HOPPR said it evaluated the model against 26 MSK finding categories, including fracture, degenerative joint and spine changes, alignment, and hardware."
+              },
+              {
+                "t": "p",
+                "x": "The model is designed as a software component for developers building radiology reporting and workflow applications, and HOPPR’s Forward Deployed Services team will customize and integrate it for each organization’s data and workflows, the company said. It is not cleared by the U.S. Food and Drug Administration (FDA) and is not intended for diagnostic use, the firm said."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "HOPPR 모델, 전신\nMSK X선 소견 초안",
+          "body": "HOPPR 베타 모델이 검사당 최대 세 영상으로 근골격계 X선 소견 초안을 쓴다.",
+          "mini_headline": "HOPPR의 MSK X선 소견 초안",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "대퇴골과 경골, 비골, 슬개골이 드러난 사람 무릎 관절 전후면 X-ray 영상"
+              },
+              {
+                "t": "p",
+                "x": "HOPPR가 FS MSK Whole-Body Narrative Model 베타 버전을 내놓는다. 검사 한 건에 영상을 최대 세 장까지 받아 근골격계(MSK) 방사선 사진의 소견 초안을 써 주는 비전-언어 파운데이션 모델이다."
+              },
+              {
+                "t": "p",
+                "x": "업체에 따르면 이 모델은 척추, 흉곽과 흉벽, 상지, 골반과 하지를 아우르는 외래 MSK 검사 약 674,000건으로 학습했다. 정상 해부 구조보다는 이상 소견을 적는 데 무게를 둔다. HOPPR는 골절, 퇴행성 관절·척추 변화, 정렬, 금속 고정물 등 26개 MSK 소견 범주로 모델을 평가했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "회사 설명으로는 영상의학 판독 보고와 워크플로 애플리케이션을 만드는 개발자용 소프트웨어 구성요소다. 기관마다 다른 데이터와 워크플로에 맞춰 HOPPR의 Forward Deployed Services 팀이 맞춤화하고 통합한다. 회사는 이 모델이 미국 식품의약국(U.S. Food and Drug Administration, FDA)의 승인을 받지 않았으며 진단용도 아니라고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HOPPRのモデル、全身\nMSKのX線所見を下書き",
+          "body": "HOPPRのベータ視覚言語モデルは、検査ごとに最大三方向画像から筋骨格X線の所見案を作る。",
+          "mini_headline": "HOPPR、MSK X線の所見を下書き",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "大腿骨、脛骨、腓骨、膝蓋骨が写る人の膝関節の前後方向X-ray画像"
+              },
+              {
+                "t": "p",
+                "x": "HOPPRは、FS MSK Whole-Body Narrative Modelのベータ版を公開する。検査ごとに最大三方向の画像を用いて、筋骨格（MSK）X線写真の所見の下書きテキストを生成する視覚言語基盤モデルである。"
+              },
+              {
+                "t": "p",
+                "x": "ベンダーによると、このモデルは脊椎、胸郭と胸壁、上肢、骨盤と下肢を含む外来MSK検査約674,000件で学習した。正常な解剖ではなく異常の記述に重点を置く。HOPPRは、骨折、変性性の関節・脊椎変化、アライメント、インプラントなど26のMSK所見カテゴリーでモデルを評価したとしている。"
+              },
+              {
+                "t": "p",
+                "x": "同社によると、このモデルは放射線レポートやワークフローのアプリケーションを開発する開発者向けのソフトウェアコンポーネントとして設計されており、HOPPRのForward Deployed Servicesチームが各組織のデータとワークフローに合わせてカスタマイズし、統合する。同社は、U.S. Food and Drug Administration（FDA）の承認は受けておらず、診断用途を意図したものではないとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HOPPR模型起草\n全身MSK X光片所见",
+          "body": "HOPPR的测试版视觉语言模型可基于每项检查最多三个视图，起草肌肉骨骼X光片所见。",
+          "mini_headline": "HOPPR起草MSK X光所见",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "人体膝关节正位X-ray影像，可见股骨、胫骨、腓骨和髌骨"
+              },
+              {
+                "t": "p",
+                "x": "HOPPR推出其FS MSK Whole-Body Narrative Model测试版。这是一款视觉语言基础模型，可利用每项检查最多三个视图，为肌肉骨骼（MSK）X光片生成所见草稿文本。"
+              },
+              {
+                "t": "p",
+                "x": "据该厂商介绍，模型基于约674,000例门诊MSK检查训练，涵盖脊柱、胸廓与胸壁、上肢以及骨盆与下肢。它侧重描述异常而非正常解剖结构。HOPPR表示，已针对26类MSK所见对模型进行评估，包括骨折、退行性关节和脊柱改变、对线以及内植物。"
+              },
+              {
+                "t": "p",
+                "x": "该公司表示，该模型被设计为面向开发放射学报告和工作流程应用的开发者的软件组件，HOPPR的Forward Deployed Services团队将根据各机构的数据和工作流程进行定制和集成。该公司称，该模型未获U.S. Food and Drug Administration（FDA）批准，不用于诊断。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "HOPPR redacta hallazgos de\nrayos X MSK de cuerpo entero",
+          "body": "El modelo beta de HOPPR redacta hallazgos de radiografías musculoesqueléticas con hasta tres vistas por estudio.",
+          "mini_headline": "HOPPR redacta hallazgos de rayos X MSK",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "Imagen de X-ray de la articulación de la rodilla humana que muestra fémur, tibia, peroné y rótula en proyección anteroposterior"
+              },
+              {
+                "t": "p",
+                "x": "HOPPR lanza una versión beta de su FS MSK Whole-Body Narrative Model, un modelo fundacional de visión y lenguaje que genera borradores de texto de hallazgos para radiografías musculoesqueléticas (MSK) con hasta tres vistas por estudio."
+              },
+              {
+                "t": "p",
+                "x": "Según el proveedor, el modelo se entrenó con unos 674,000 estudios MSK ambulatorios de columna, tórax y pared torácica, extremidad superior, y pelvis y extremidad inferior. Se centra en describir anomalías y no la anatomía normal. HOPPR dijo que evaluó el modelo en 26 categorías de hallazgos MSK, entre ellas fracturas, cambios degenerativos articulares y de columna, alineación y material implantado."
+              },
+              {
+                "t": "p",
+                "x": "El modelo está diseñado como un componente de software para desarrolladores que crean aplicaciones de informes radiológicos y de flujo de trabajo, y el equipo Forward Deployed Services de HOPPR lo personalizará e integrará según los datos y flujos de trabajo de cada organización, dijo la empresa. No cuenta con la autorización de la U.S. Food and Drug Administration (FDA) y no está destinado a uso diagnóstico, señaló la firma."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "HOPPR 모델, 전신\nMSK X선 소견 초안",
+          "body": "HOPPR 베타 모델은 검사당 최대 세 영상으로 근골격계 X선 소견 초안을 쓴다.",
+          "mini_headline": "HOPPR, MSK X선 소견 초안",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "대퇴골, 경골, 비골, 슬개골이 보이는 사람 무릎 관절의 전후면 X-ray 영상"
+              },
+              {
+                "t": "p",
+                "x": "HOPPR가 FS MSK Whole-Body Narrative Model의 베타 버전을 출시한다. 검사당 최대 세 장의 영상으로 근골격계(MSK) 방사선 사진의 소견 초안 텍스트를 생성하는 비전-언어 파운데이션 모델이다."
+              },
+              {
+                "t": "p",
+                "x": "업체에 따르면 이 모델은 척추, 흉곽과 흉벽, 상지, 골반과 하지를 아우르는 외래 MSK 검사 약 674,000건으로 학습했다. 정상 해부 구조보다 이상 소견을 기술하는 데 초점을 맞춘다. HOPPR는 골절, 퇴행성 관절·척추 변화, 정렬, 금속 고정물 등 26개 MSK 소견 범주를 기준으로 모델을 평가했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "회사에 따르면 이 모델은 영상의학 판독 보고와 워크플로 애플리케이션을 만드는 개발자용 소프트웨어 구성요소로 설계됐으며, HOPPR의 Forward Deployed Services 팀이 기관별 데이터와 워크플로에 맞춰 맞춤화하고 통합한다. 회사는 이 모델이 미국 식품의약국(U.S. Food and Drug Administration, FDA)의 승인을 받지 않았고 진단용이 아니라고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HOPPRのモデル、全身\nMSKのX線所見を下書き",
+          "body": "HOPPRのベータ視覚言語モデルは、検査ごとに最大三方向画像から筋骨格X線の所見案を作る。",
+          "mini_headline": "HOPPR、MSK X線の所見を下書き",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "大腿骨、脛骨、腓骨、膝蓋骨が写る人の膝関節の前後方向X-ray画像"
+              },
+              {
+                "t": "p",
+                "x": "HOPPRは、FS MSK Whole-Body Narrative Modelのベータ版を公開する。検査ごとに最大三方向の画像を用いて、筋骨格（MSK）X線写真の所見の下書きテキストを生成する視覚言語基盤モデルである。"
+              },
+              {
+                "t": "p",
+                "x": "ベンダーによると、このモデルは脊椎、胸郭と胸壁、上肢、骨盤と下肢を含む外来MSK検査約674,000件で学習した。正常な解剖ではなく異常の記述に重点を置く。HOPPRは、骨折、変性性の関節・脊椎変化、アライメント、インプラントなど26のMSK所見カテゴリーでモデルを評価したとしている。"
+              },
+              {
+                "t": "p",
+                "x": "同社によると、このモデルは放射線レポートやワークフローのアプリケーションを開発する開発者向けのソフトウェアコンポーネントとして設計されており、HOPPRのForward Deployed Servicesチームが各組織のデータとワークフローに合わせてカスタマイズし、統合する。同社は、U.S. Food and Drug Administration（FDA）の承認は受けておらず、診断用途を意図したものではないとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HOPPR模型起草\n全身MSK X光片所见",
+          "body": "HOPPR的测试版视觉语言模型可基于每项检查最多三个视图，起草肌肉骨骼X光片所见。",
+          "mini_headline": "HOPPR起草MSK X光所见",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "人体膝关节正位X-ray影像，可见股骨、胫骨、腓骨和髌骨"
+              },
+              {
+                "t": "p",
+                "x": "HOPPR推出其FS MSK Whole-Body Narrative Model测试版。这是一款视觉语言基础模型，可利用每项检查最多三个视图，为肌肉骨骼（MSK）X光片生成所见草稿文本。"
+              },
+              {
+                "t": "p",
+                "x": "据该厂商介绍，模型基于约674,000例门诊MSK检查训练，涵盖脊柱、胸廓与胸壁、上肢以及骨盆与下肢。它侧重描述异常而非正常解剖结构。HOPPR表示，已针对26类MSK所见对模型进行评估，包括骨折、退行性关节和脊柱改变、对线以及内植物。"
+              },
+              {
+                "t": "p",
+                "x": "该公司表示，该模型被设计为面向开发放射学报告和工作流程应用的开发者的软件组件，HOPPR的Forward Deployed Services团队将根据各机构的数据和工作流程进行定制和集成。该公司称，该模型未获U.S. Food and Drug Administration（FDA）批准，不用于诊断。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "HOPPR redacta hallazgos de\nrayos X MSK de cuerpo entero",
+          "body": "El modelo beta de HOPPR redacta hallazgos de radiografías musculoesqueléticas con hasta tres vistas por estudio.",
+          "mini_headline": "HOPPR redacta hallazgos de rayos X MSK",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+                "cap": "Imagen de X-ray de la articulación de la rodilla humana que muestra fémur, tibia, peroné y rótula en proyección anteroposterior"
+              },
+              {
+                "t": "p",
+                "x": "HOPPR lanza una versión beta de su FS MSK Whole-Body Narrative Model, un modelo fundacional de visión y lenguaje que genera borradores de texto de hallazgos para radiografías musculoesqueléticas (MSK) con hasta tres vistas por estudio."
+              },
+              {
+                "t": "p",
+                "x": "Según el proveedor, el modelo se entrenó con unos 674,000 estudios MSK ambulatorios de columna, tórax y pared torácica, extremidad superior, y pelvis y extremidad inferior. Se centra en describir anomalías y no la anatomía normal. HOPPR dijo que evaluó el modelo en 26 categorías de hallazgos MSK, entre ellas fracturas, cambios degenerativos articulares y de columna, alineación y material implantado."
+              },
+              {
+                "t": "p",
+                "x": "El modelo está diseñado como un componente de software para desarrolladores que crean aplicaciones de informes radiológicos y de flujo de trabajo, y el equipo Forward Deployed Services de HOPPR lo personalizará e integrará según los datos y flujos de trabajo de cada organización, dijo la empresa. No cuenta con la autorización de la U.S. Food and Drug Administration (FDA) y no está destinado a uso diagnóstico, señaló la firma."
               }
             ]
           }

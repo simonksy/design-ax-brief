@@ -1,567 +1,251 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "design",
   "cards": [
     {
-      "id": "replica",
+      "id": "figma-fluent-edit-model",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "GitHub Replica\nAI 프로토타입 도구 공개",
-      "body": "GitHub Design의 Replica는 자체 디자인 시스템으로 시제품을 만든다.",
-      "mini_headline": "GitHub, Replica 공개",
+      "headline": "Figma가 직접 학습한\n빠른 디자인 편집 모델",
+      "body": "Figma가 자체 포맷으로 모델을 미세조정해 간격·색·레이아웃 편집 속도를 높였다.",
+      "mini_headline": "Figma 자체 편집 모델",
       "tool": "Figma",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "GitHub Design이 AI-powered 프로토타이핑 도구 Replica를 오픈소스로 공개한다. 제품 팀의 누구든 자체 디자인 시스템으로 아이디어를 인터랙티브 프로토타입으로 바꿀 수 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-          },
-          {
-            "t": "p",
-            "x": "좋은 제품 아이디어는 어디서든 나오지만, 손에 잡히는 결과물로 만들려면 시간과 전문 기술이 드는 경우가 많다. Replica를 쓰면 디자이너와 프로덕트 매니저, 엔지니어가 함께 아이디어를 탐색하고 피드백을 더 일찍 받으며, 처음부터 다시 시작하지 않고 반복해서 다듬을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "범용 AI 프로토타이핑 도구와 달리 Replica는 팀이 이미 가진 컴포넌트와 패턴, 문서에서 출발한다. 디자이너가 가이드를 정해 두면 팀의 누구든 GitHub Copilot 앱에서 자연어로 프로토타입을 만들고 다듬을 수 있고, 그 결과물에는 제품이 실제로 작동하는 방식이 반영된다."
-          },
-          {
-            "t": "p",
-            "x": "Replica로는 디자인 시스템을 바탕으로 아이디어를 인터랙티브 경험으로 바꿀 수 있다. 결과는 Copilot 대화 옆에서 바로 보고 테스트하며 다듬는다. 완성한 프로토타입은 선택 사항인 자체 호스팅(self-hosted) Replica Hub에 올려 팀원이 살펴보고 댓글을 달게 할 수 있다. 오픈소스 도구와 가이드는 제품과 워크플로에 맞게 고쳐 쓸 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "Replica는 현재 MIT 라이선스 오픈소스 프로젝트로 제공된다. 로컬에서 바로 프로토타이핑을 시작해도 되고, Replica Hub를 꾸려 팀과 프로토타입을 공유해도 된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "GitHub open-sources Replica\nfor AI prototyping",
-          "body": "GitHub Design's Replica turns product ideas into interactive prototypes built with your own design system.",
-          "mini_headline": "GitHub opens Replica",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "We’re open sourcing Replica, an AI-powered prototyping tool created by GitHub Design that helps anyone on your product team turn ideas into interactive prototypes using your own design system."
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "Great product ideas can come from anywhere, but turning them into something tangible often takes time and specialized skills. Replica makes it easier for designers, product managers, and engineers to explore ideas together, get feedback earlier, and iterate without starting from scratch."
-              },
-              {
-                "t": "p",
-                "x": "Unlike generic AI prototyping tools, Replica uses your team’s existing components, patterns, and documentation to guide what gets created. Designers define the guidance, while anyone on the team can use natural language in the GitHub Copilot app to create and refine prototypes that reflect how your product actually works."
-              },
-              {
-                "t": "p",
-                "x": "With Replica you can prototype with your design system; turn ideas into interactive experiences, then see, test, and refine the result alongside your Copilot conversation; publish prototypes to an optional, self-hosted Replica Hub where teammates can explore them and leave comments; and customize the open-source tooling and guidance to fit your product and workflows."
-              },
-              {
-                "t": "p",
-                "x": "Replica is available now as an open-source project under the MIT license. You can start prototyping locally or set up Replica Hub to share prototypes with your team."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "GitHub Replica\nAI 프로토타입 도구 공개",
-          "body": "GitHub Design의 Replica는 자체 디자인 시스템으로 시제품을 만든다.",
-          "mini_headline": "GitHub, Replica 공개",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GitHub Design이 AI-powered 프로토타이핑 도구 Replica를 오픈소스로 공개한다. 제품 팀의 누구든 자체 디자인 시스템으로 아이디어를 인터랙티브 프로토타입으로 바꿀 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "좋은 제품 아이디어는 어디서든 나오지만, 손에 잡히는 결과물로 만들려면 시간과 전문 기술이 드는 경우가 많다. Replica를 쓰면 디자이너와 프로덕트 매니저, 엔지니어가 함께 아이디어를 탐색하고 피드백을 더 일찍 받으며, 처음부터 다시 시작하지 않고 반복해서 다듬을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "범용 AI 프로토타이핑 도구와 달리 Replica는 팀이 이미 가진 컴포넌트와 패턴, 문서에서 출발한다. 디자이너가 가이드를 정해 두면 팀의 누구든 GitHub Copilot 앱에서 자연어로 프로토타입을 만들고 다듬을 수 있고, 그 결과물에는 제품이 실제로 작동하는 방식이 반영된다."
-              },
-              {
-                "t": "p",
-                "x": "Replica로는 디자인 시스템을 바탕으로 아이디어를 인터랙티브 경험으로 바꿀 수 있다. 결과는 Copilot 대화 옆에서 바로 보고 테스트하며 다듬는다. 완성한 프로토타입은 선택 사항인 자체 호스팅(self-hosted) Replica Hub에 올려 팀원이 살펴보고 댓글을 달게 할 수 있다. 오픈소스 도구와 가이드는 제품과 워크플로에 맞게 고쳐 쓸 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Replica는 현재 MIT 라이선스 오픈소스 프로젝트로 제공된다. 로컬에서 바로 프로토타이핑을 시작해도 되고, Replica Hub를 꾸려 팀과 프로토타입을 공유해도 된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GitHub、Replica\nAI試作ツールを公開",
-          "body": "GitHub DesignのReplicaはアイデアを自社デザインシステムの試作に変える。",
-          "mini_headline": "GitHub、Replicaを公開",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GitHub Designが開発したAI-poweredのプロトタイピングツール「Replica」をオープンソース化する。プロダクトチームの誰もが、自社のデザインシステムを使ってアイデアをインタラクティブなプロトタイプに変えられるツールだ。"
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "優れたプロダクトのアイデアはどこからでも生まれるが、それを形にするには時間と専門スキルが必要になることが多い。Replicaは、デザイナー、プロダクトマネージャー、エンジニアが一緒にアイデアを探り、早い段階でフィードバックを得て、一からやり直すことなく反復できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "汎用的なAIプロトタイピングツールとは異なり、Replicaはチームの既存のコンポーネント、パターン、ドキュメントを手がかりに生成内容を導く。デザイナーがガイダンスを定め、チームの誰もがGitHub Copilotアプリで自然言語を使い、製品の実際の動きを反映したプロトタイプを作成・改良できる。"
-              },
-              {
-                "t": "p",
-                "x": "Replicaでは、デザインシステムを使ったプロトタイピングができる。アイデアをインタラクティブな体験に変え、Copilotとの会話と並べて結果を確認・テスト・改良できる。プロトタイプは任意で導入できるセルフホスト型のReplica Hubに公開でき、チームメイトが閲覧してコメントを残せる。オープンソースのツールとガイダンスは、製品やワークフローに合わせてカスタマイズできる。"
-              },
-              {
-                "t": "p",
-                "x": "ReplicaはMITライセンスのオープンソースプロジェクトとして現在提供中だ。ローカルでプロトタイピングを始めることも、Replica Hubを立ち上げてチームとプロトタイプを共有することもできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "GitHub开源\nAI原型工具Replica",
-          "body": "GitHub Design的Replica借助自有设计系统，把产品创意变成可交互原型。",
-          "mini_headline": "GitHub开源Replica",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "我们将开源Replica——这是GitHub Design打造的一款AI-powered原型设计工具，帮助产品团队中的任何人利用自有设计系统，把想法变成可交互原型。"
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "好的产品创意可能来自任何地方，但要把它们变成看得见摸得着的东西，往往需要时间和专业技能。Replica让设计师、产品经理和工程师更容易一起探索想法、更早获得反馈，并在不必从头开始的情况下持续迭代。"
-              },
-              {
-                "t": "p",
-                "x": "与通用的AI原型工具不同，Replica以团队现有的组件、模式和文档来引导生成内容。设计师负责制定指引，团队中的任何人都可以在GitHub Copilot应用中用自然语言创建和完善原型，使其贴合产品的实际运作方式。"
-              },
-              {
-                "t": "p",
-                "x": "借助Replica，你可以基于设计系统制作原型；把想法变成可交互的体验，并在Copilot对话旁查看、测试和完善结果；将原型发布到可选的自托管Replica Hub，供团队成员浏览和留言；还可以根据自己的产品和工作流程定制这套开源工具和指引。"
-              },
-              {
-                "t": "p",
-                "x": "Replica现已作为MIT许可证下的开源项目推出。你可以在本地开始制作原型，也可以搭建Replica Hub与团队共享原型。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "GitHub abre el código de Replica\npara prototipar con AI",
-          "body": "Replica, de GitHub Design, convierte ideas de producto en prototipos interactivos con su propio sistema de diseño.",
-          "mini_headline": "GitHub abre Replica",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GitHub abre el código de Replica, una herramienta de prototipado AI-powered creada por GitHub Design que ayuda a cualquier persona del equipo de producto a convertir ideas en prototipos interactivos con su propio sistema de diseño."
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "Las buenas ideas de producto pueden surgir en cualquier parte, pero convertirlas en algo tangible suele requerir tiempo y habilidades especializadas. Replica facilita que diseñadores, gerentes de producto e ingenieros exploren ideas juntos, reciban comentarios antes e iteren sin empezar desde el principio."
-              },
-              {
-                "t": "p",
-                "x": "A diferencia de las herramientas genéricas de prototipado con AI, Replica usa los componentes, patrones y documentación que el equipo ya tiene para orientar lo que se crea. Los diseñadores definen las pautas, y cualquier miembro del equipo puede usar lenguaje natural en la app GitHub Copilot para crear y ajustar prototipos que reflejan cómo funciona realmente el producto."
-              },
-              {
-                "t": "p",
-                "x": "Con Replica se puede prototipar con el propio sistema de diseño; convertir ideas en experiencias interactivas y luego ver, probar y ajustar el resultado junto a la conversación con Copilot; publicar los prototipos en un Replica Hub opcional y autoalojado, donde los compañeros pueden explorarlos y dejar comentarios; y personalizar las herramientas y pautas de código abierto para adaptarlas al producto y a los flujos de trabajo."
-              },
-              {
-                "t": "p",
-                "x": "Replica ya está disponible como proyecto de código abierto bajo la licencia MIT. Se puede empezar a prototipar en local o configurar Replica Hub para compartir prototipos con el equipo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "GitHub Replica\nAI 프로토타입 도구 공개",
-          "body": "GitHub Design의 Replica는 자체 디자인 시스템으로 시제품을 만든다.",
-          "mini_headline": "GitHub, Replica 공개",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GitHub Design이 만든 AI-powered 프로토타이핑 도구 Replica를 오픈소스로 공개한다. 제품 팀의 누구든 자체 디자인 시스템을 활용해 아이디어를 인터랙티브 프로토타입으로 바꿀 수 있도록 돕는 도구다."
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "좋은 제품 아이디어는 어디서든 나올 수 있지만, 이를 손에 잡히는 결과물로 만들려면 시간과 전문 기술이 필요한 경우가 많다. Replica는 디자이너, 프로덕트 매니저, 엔지니어가 함께 아이디어를 탐색하고, 더 일찍 피드백을 받고, 처음부터 다시 시작하지 않고도 반복 개선할 수 있게 돕는다."
-              },
-              {
-                "t": "p",
-                "x": "범용 AI 프로토타이핑 도구와 달리 Replica는 팀이 이미 가진 컴포넌트, 패턴, 문서를 바탕으로 결과물을 이끈다. 디자이너가 가이드를 정하면 팀의 누구든 GitHub Copilot 앱에서 자연어로 프로토타입을 만들고 다듬을 수 있으며, 그 결과물은 제품이 실제로 작동하는 방식을 반영한다."
-              },
-              {
-                "t": "p",
-                "x": "Replica로는 디자인 시스템을 활용해 프로토타입을 만들 수 있다. 아이디어를 인터랙티브 경험으로 바꾼 뒤 Copilot 대화와 나란히 결과를 보고, 테스트하고, 다듬을 수 있다. 프로토타입은 선택 사항인 자체 호스팅(self-hosted) Replica Hub에 게시해 팀원이 살펴보고 댓글을 남기게 할 수 있고, 오픈소스 도구와 가이드를 제품과 워크플로에 맞게 고칠 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Replica는 지금 MIT 라이선스의 오픈소스 프로젝트로 제공된다. 로컬에서 프로토타이핑을 시작하거나, Replica Hub를 구축해 팀과 프로토타입을 공유할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GitHub、Replica\nAI試作ツールを公開",
-          "body": "GitHub DesignのReplicaはアイデアを自社デザインシステムの試作に変える。",
-          "mini_headline": "GitHub、Replicaを公開",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GitHub Designが開発したAI-poweredのプロトタイピングツール「Replica」をオープンソース化する。プロダクトチームの誰もが、自社のデザインシステムを使ってアイデアをインタラクティブなプロトタイプに変えられるツールだ。"
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "優れたプロダクトのアイデアはどこからでも生まれるが、それを形にするには時間と専門スキルが必要になることが多い。Replicaは、デザイナー、プロダクトマネージャー、エンジニアが一緒にアイデアを探り、早い段階でフィードバックを得て、一からやり直すことなく反復できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "汎用的なAIプロトタイピングツールとは異なり、Replicaはチームの既存のコンポーネント、パターン、ドキュメントを手がかりに生成内容を導く。デザイナーがガイダンスを定め、チームの誰もがGitHub Copilotアプリで自然言語を使い、製品の実際の動きを反映したプロトタイプを作成・改良できる。"
-              },
-              {
-                "t": "p",
-                "x": "Replicaでは、デザインシステムを使ったプロトタイピングができる。アイデアをインタラクティブな体験に変え、Copilotとの会話と並べて結果を確認・テスト・改良できる。プロトタイプは任意で導入できるセルフホスト型のReplica Hubに公開でき、チームメイトが閲覧してコメントを残せる。オープンソースのツールとガイダンスは、製品やワークフローに合わせてカスタマイズできる。"
-              },
-              {
-                "t": "p",
-                "x": "ReplicaはMITライセンスのオープンソースプロジェクトとして現在提供中だ。ローカルでプロトタイピングを始めることも、Replica Hubを立ち上げてチームとプロトタイプを共有することもできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "GitHub开源\nAI原型工具Replica",
-          "body": "GitHub Design的Replica借助自有设计系统，把产品创意变成可交互原型。",
-          "mini_headline": "GitHub开源Replica",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "我们将开源Replica——这是GitHub Design打造的一款AI-powered原型设计工具，帮助产品团队中的任何人利用自有设计系统，把想法变成可交互原型。"
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "好的产品创意可能来自任何地方，但要把它们变成看得见摸得着的东西，往往需要时间和专业技能。Replica让设计师、产品经理和工程师更容易一起探索想法、更早获得反馈，并在不必从头开始的情况下持续迭代。"
-              },
-              {
-                "t": "p",
-                "x": "与通用的AI原型工具不同，Replica以团队现有的组件、模式和文档来引导生成内容。设计师负责制定指引，团队中的任何人都可以在GitHub Copilot应用中用自然语言创建和完善原型，使其贴合产品的实际运作方式。"
-              },
-              {
-                "t": "p",
-                "x": "借助Replica，你可以基于设计系统制作原型；把想法变成可交互的体验，并在Copilot对话旁查看、测试和完善结果；将原型发布到可选的自托管Replica Hub，供团队成员浏览和留言；还可以根据自己的产品和工作流程定制这套开源工具和指引。"
-              },
-              {
-                "t": "p",
-                "x": "Replica现已作为MIT许可证下的开源项目推出。你可以在本地开始制作原型，也可以搭建Replica Hub与团队共享原型。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "GitHub abre el código de Replica\npara prototipar con AI",
-          "body": "Replica, de GitHub Design, convierte ideas de producto en prototipos interactivos con su propio sistema de diseño.",
-          "mini_headline": "GitHub abre Replica",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GitHub abre el código de Replica, una herramienta de prototipado AI-powered creada por GitHub Design que ayuda a cualquier persona del equipo de producto a convertir ideas en prototipos interactivos con su propio sistema de diseño."
-              },
-              {
-                "t": "video",
-                "src": "https://github.com/user-attachments/assets/84aae570-157a-4c1b-884a-db87795e5522"
-              },
-              {
-                "t": "p",
-                "x": "Las buenas ideas de producto pueden surgir en cualquier parte, pero convertirlas en algo tangible suele requerir tiempo y habilidades especializadas. Replica facilita que diseñadores, gerentes de producto e ingenieros exploren ideas juntos, reciban comentarios antes e iteren sin empezar desde el principio."
-              },
-              {
-                "t": "p",
-                "x": "A diferencia de las herramientas genéricas de prototipado con AI, Replica usa los componentes, patrones y documentación que el equipo ya tiene para orientar lo que se crea. Los diseñadores definen las pautas, y cualquier miembro del equipo puede usar lenguaje natural en la app GitHub Copilot para crear y ajustar prototipos que reflejan cómo funciona realmente el producto."
-              },
-              {
-                "t": "p",
-                "x": "Con Replica se puede prototipar con el propio sistema de diseño; convertir ideas en experiencias interactivas y luego ver, probar y ajustar el resultado junto a la conversación con Copilot; publicar los prototipos en un Replica Hub opcional y autoalojado, donde los compañeros pueden explorarlos y dejar comentarios; y personalizar las herramientas y pautas de código abierto para adaptarlas al producto y a los flujos de trabajo."
-              },
-              {
-                "t": "p",
-                "x": "Replica ya está disponible como proyecto de código abierto bajo la licencia MIT. Se puede empezar a prototipar en local o configurar Replica Hub para compartir prototipos con el equipo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "clate",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Qt Group Clate\n임베디드 UI 설계에 AI",
-      "body": "Clate는 임베디드 UIs에 노코드와 자연어 프롬프트, QML 출력을 묶었다.",
-      "mini_headline": "Qt, Clate 출시",
-      "tool": "Design Tokens",
-      "source": "Electropages",
-      "url": "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
           },
           {
             "t": "p",
-            "x": "Qt Group이 임베디드 기기용 사용자 인터페이스 제작에 특화된 AI-powered 디자인 도구 Clate를 새로 발표했다. Qt World Summit 2026에서 공개된 이 플랫폼은 노코드 환경이라, 디자이너가 임베디드 시스템의 하드웨어 제약을 따져 가며 인터페이스를 만들 수 있다."
+            "x": "특화된 사후 학습이 프런티어 모델과 겨룰 수 있다는 사실이 갈수록 자주 확인된다. 일상 디자인 작업은 대개 더 작고 반복적이며 정답을 검증하기도 어렵다. 간격을 맞추고 색을 바꾸고, 피드백에 따라 레이아웃을 다시 짜는 식이다. Figma 에이전트가 범위가 분명한 과제, 곧 디자이너가 캔버스에 이미 올려 둔 작업을 편집하는 일에서 출발한 이유다."
           },
           {
             "t": "p",
-            "x": "Clate의 시각적 작업 공간에는 무한 캔버스와 계층 트리, 에셋 관리, 컴포넌트 라이브러리, 맥락 인식 속성 컨트롤이 들어 있다. 디자이너는 AI 어시스턴트에 자연어 프롬프트를 입력해 화면을 생성하고 인터페이스 요소를 고친다. Clate는 다른 도구와 Model Context Protocol (MCP)로 연동된다. QML 코드가 자동으로 생성되니 개발자는 인터페이스를 손으로 다시 만들 필요 없이 디자이너의 결과물을 곧바로 이어받는다."
+            "x": "프런티어 모델은 Figma 문법을 이해하지 못했고, 그래서 지도 미세조정(SFT)에 투자했다. 디자인을 Figma 고유 파일 포맷으로 표현하고, 캔버스에 다시 적용할 수 있는 변경을 모델이 만들도록 학습시켰다. 편집은 더 큰 교사 모델이 시도했고, 결과는 결정론적 검증기와 시각 모델 심사자가 확인했다. 예시 250,000개 이상으로 학습한 초기 Llama 3.3 70B 모델 하나가 편집 과제에서 당시 최상위 모델과 대등한 성능을 냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+            "cap": "초기 SFT 파이프라인"
           },
           {
             "t": "p",
-            "x": "Qt Group은 디자인 단계에서 프레임 레이트와 메모리 사용량을 모니터링하는 기능도 준비 중이다. Qt Group에 따르면 임베디드 UX 디자이너의 59%가 더 맞는 디자인 도구가 있으면 도움이 되겠다고 답했다."
+            "x": "이후 최신 Qwen 모델 등 더 뛰어난 기반 모델로 옮겼고, 강화학습(RL)에도 투자한다. 정렬·대비·요청 충족 같은 항목을 따로 평가하는데, 구조 검사와 전문 디자이너가 보정한 시각 심사자를 함께 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+            "cap": "Qwen 3.8 27B 기반으로 사후 학습한 미공개 최신 Figma 편집 모델과 다른 서드파티 모델의 디자인 편집 과제 비교"
           },
           {
             "t": "p",
-            "x": "\"너무 오랫동안 임베디드 UI/UX 디자이너들은 실제 하드웨어 제약을 전혀 고려하지 않는 웹 중심 도구를 쓰며 작업에서 타협해야 했다.\" Qt Group의 Vice President, Design Products인 Antti Kujala의 말이다."
-          },
-          {
-            "t": "p",
-            "x": "Clate는 베타로 출시되며, 계획한 기능은 2027년 초에 모두 갖출 예정이다."
+            "x": "에이전트는 이 모델을 주요 서드파티 모델과 나란히 돌린다. 일반 작업은 약 20% 빨라졌다. 새 에이전트의 결과는 62%의 경우 이전 프로덕션 에이전트와 같거나 나았다. 사용자 평점은 33% 올랐고, 작업을 되돌리는 빈도는 60% 줄었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Qt Group's Clate brings AI\nto embedded UI design",
-          "body": "Clate combines no-code building, natural-language prompts and production-ready QML output for embedded UIs.",
-          "mini_headline": "Qt launches Clate",
+          "headline": "Figma trains its own model\nfor fast design edits",
+          "body": "Figma fine-tuned a model on its native file format so its agent can make quick spacing, color and layout edits.",
+          "mini_headline": "Figma's own editing model",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Group has announced Clate, a new AI-powered design tool developed specifically for creating user interfaces for embedded devices. Unveiled at Qt World Summit 2026, the platform provides a no-code environment that allows designers to develop interfaces while accounting for the hardware constraints of embedded systems."
+                "x": "We’ve increasingly seen that specialized post-training can compete with frontier models. A lot of everyday design work is smaller, more iterative, and often non-verifiable: adjust the spacing, change a color, rework a layout after feedback. So the Figma agent started with a focused task: help designers make edits to the work already on their canvas."
               },
               {
                 "t": "p",
-                "x": "Clate provides a visual workspace with an infinite canvas, hierarchy trees, asset management, component libraries and context-aware property controls. AI assistants let designers generate screens and modify interface elements using natural language prompts, and it integrates with other tools through the Model Context Protocol (MCP). It automatically generates QML code, so developers can work directly with designers’ output instead of rebuilding interfaces manually."
+                "x": "Frontier models couldn’t understand Figma syntax, so we invested in supervised fine-tuning (SFT). We represented designs in Figma’s native file format, so the model learned to produce changes we could apply back to the canvas. Larger teacher models attempted edits, checked by deterministic validators and visual model judges. One of our earlier Llama 3.3 70B models, trained on more than 250,000 examples, was competitive on editing tasks with top models at the time."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "Our earliest SFT pipeline"
               },
               {
                 "t": "p",
-                "x": "Qt Group also plans design-time performance monitoring of frame rates and memory consumption. According to Qt Group, 59% of embedded UX designers believed they would benefit from a better-suited design tool."
+                "x": "We’ve since moved to more capable base models, including newer Qwen models, and are investing in Reinforcement Learning (RL). We evaluate dimensions like alignment, contrast and request fulfillment separately, combining structural checks with visual judges calibrated by expert designers."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "Comparing the latest unreleased Figma edits model, post-trained on Qwen 3.8 27B with other third-party models on design editing tasks"
               },
               {
                 "t": "p",
-                "x": "\"For too long, embedded UI/UX designers have had to compromise their work, using web-centric tools that simply don't account for real-world hardware constraints,\" said Antti Kujala, Vice President, Design Products at Qt Group."
-              },
-              {
-                "t": "p",
-                "x": "Clate is launching in beta, with its full planned feature set expected in early 2027."
+                "x": "The agent runs this model alongside leading third-party models. Typical tasks are about 20% faster; the new agent beats or matches the previous production agent 62% of the time, user ratings are 33% higher, and users undo its work 60% less often."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Qt Group Clate\n임베디드 UI 설계에 AI",
-          "body": "Clate는 임베디드 UIs에 노코드와 자연어 프롬프트, QML 출력을 묶었다.",
-          "mini_headline": "Qt, Clate 출시",
+          "headline": "Figma가 직접 학습한\n빠른 디자인 편집 모델",
+          "body": "Figma가 자체 포맷으로 모델을 미세조정해 간격·색·레이아웃 편집 속도를 높였다.",
+          "mini_headline": "Figma 자체 편집 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Group이 임베디드 기기용 사용자 인터페이스 제작에 특화된 AI-powered 디자인 도구 Clate를 새로 발표했다. Qt World Summit 2026에서 공개된 이 플랫폼은 노코드 환경이라, 디자이너가 임베디드 시스템의 하드웨어 제약을 따져 가며 인터페이스를 만들 수 있다."
+                "x": "특화된 사후 학습이 프런티어 모델과 겨룰 수 있다는 사실이 갈수록 자주 확인된다. 일상 디자인 작업은 대개 더 작고 반복적이며 정답을 검증하기도 어렵다. 간격을 맞추고 색을 바꾸고, 피드백에 따라 레이아웃을 다시 짜는 식이다. Figma 에이전트가 범위가 분명한 과제, 곧 디자이너가 캔버스에 이미 올려 둔 작업을 편집하는 일에서 출발한 이유다."
               },
               {
                 "t": "p",
-                "x": "Clate의 시각적 작업 공간에는 무한 캔버스와 계층 트리, 에셋 관리, 컴포넌트 라이브러리, 맥락 인식 속성 컨트롤이 들어 있다. 디자이너는 AI 어시스턴트에 자연어 프롬프트를 입력해 화면을 생성하고 인터페이스 요소를 고친다. Clate는 다른 도구와 Model Context Protocol (MCP)로 연동된다. QML 코드가 자동으로 생성되니 개발자는 인터페이스를 손으로 다시 만들 필요 없이 디자이너의 결과물을 곧바로 이어받는다."
+                "x": "프런티어 모델은 Figma 문법을 이해하지 못했고, 그래서 지도 미세조정(SFT)에 투자했다. 디자인을 Figma 고유 파일 포맷으로 표현하고, 캔버스에 다시 적용할 수 있는 변경을 모델이 만들도록 학습시켰다. 편집은 더 큰 교사 모델이 시도했고, 결과는 결정론적 검증기와 시각 모델 심사자가 확인했다. 예시 250,000개 이상으로 학습한 초기 Llama 3.3 70B 모델 하나가 편집 과제에서 당시 최상위 모델과 대등한 성능을 냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "초기 SFT 파이프라인"
               },
               {
                 "t": "p",
-                "x": "Qt Group은 디자인 단계에서 프레임 레이트와 메모리 사용량을 모니터링하는 기능도 준비 중이다. Qt Group에 따르면 임베디드 UX 디자이너의 59%가 더 맞는 디자인 도구가 있으면 도움이 되겠다고 답했다."
+                "x": "이후 최신 Qwen 모델 등 더 뛰어난 기반 모델로 옮겼고, 강화학습(RL)에도 투자한다. 정렬·대비·요청 충족 같은 항목을 따로 평가하는데, 구조 검사와 전문 디자이너가 보정한 시각 심사자를 함께 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "Qwen 3.8 27B 기반으로 사후 학습한 미공개 최신 Figma 편집 모델과 다른 서드파티 모델의 디자인 편집 과제 비교"
               },
               {
                 "t": "p",
-                "x": "\"너무 오랫동안 임베디드 UI/UX 디자이너들은 실제 하드웨어 제약을 전혀 고려하지 않는 웹 중심 도구를 쓰며 작업에서 타협해야 했다.\" Qt Group의 Vice President, Design Products인 Antti Kujala의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Clate는 베타로 출시되며, 계획한 기능은 2027년 초에 모두 갖출 예정이다."
+                "x": "에이전트는 이 모델을 주요 서드파티 모델과 나란히 돌린다. 일반 작업은 약 20% 빨라졌다. 새 에이전트의 결과는 62%의 경우 이전 프로덕션 에이전트와 같거나 나았다. 사용자 평점은 33% 올랐고, 작업을 되돌리는 빈도는 60% 줄었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Qt GroupのClate\n組み込みUI設計にAI",
-          "body": "Clateは組み込みUIs向けにノーコード構築、自然言語指示、量産用QML出力を備える。",
-          "mini_headline": "Qt、Clateを発表",
+          "headline": "Figmaが独自モデルを訓練\nデザイン編集を高速化",
+          "body": "Figmaは独自のファイル形式でモデルを微調整し、間隔や色、レイアウトの編集を速めた。",
+          "mini_headline": "Figma独自の編集モデル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Groupは、組み込み機器向けのユーザーインターフェース制作に特化した新しいAI-poweredデザインツール「Clate」を発表した。Qt World Summit 2026で披露されたこのプラットフォームはノーコード環境を備え、デザイナーは組み込みシステムのハードウェア制約を考慮しながらインターフェースを開発できる。"
+                "x": "特化型のポストトレーニングがフロンティアモデルに対抗できることは、ますます明らかになってきた。日々のデザイン作業の多くは小さく反復的で、正解を検証しにくい。間隔を調整する、色を変える、フィードバックを受けてレイアウトを組み直す、といった作業だ。そこでFigmaのエージェントは、デザイナーがすでにキャンバス上にある作品を編集するのを助けるという、焦点を絞ったタスクから始まった。"
               },
               {
                 "t": "p",
-                "x": "Clateは、無限キャンバス、階層ツリー、アセット管理、コンポーネントライブラリ、コンテキストに応じたプロパティ操作を備えたビジュアルな作業空間を提供する。AIアシスタントにより、デザイナーは自然言語プロンプトで画面を生成し、インターフェース要素を修正できる。Model Context Protocol (MCP)を通じて他のツールとも連携する。QMLコードを自動生成するため、開発者はインターフェースを手作業で作り直すことなく、デザイナーの成果物をそのまま扱える。"
+                "x": "フロンティアモデルはFigmaの構文を理解できなかったため、教師ありファインチューニング（SFT）に投資した。デザインをFigma独自のファイル形式で表現し、モデルがキャンバスにそのまま適用できる変更を生成するよう学習させた。より大きな教師モデルが編集を試み、決定論的な検証器と視覚モデルの審査員がそれを確認した。250,000件を超える例で学習した初期のLlama 3.3 70B モデルの一つは、編集タスクで当時のトップモデルに匹敵した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "初期のSFTパイプライン"
               },
               {
                 "t": "p",
-                "x": "Qt Groupは、フレームレートとメモリ消費量をデザイン時に監視する機能も計画している。Qt Groupによれば、組み込みUXデザイナーの59%が、より適したデザインツールがあれば役立つと考えていた。"
+                "x": "その後、新しいQwenモデルを含むより高性能なベースモデルに移行し、強化学習（RL）にも投資している。整列、コントラスト、要求の達成度といった観点を個別に評価し、構造的なチェックと、熟練デザイナーが調整した視覚的な審査員を組み合わせている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "Qwen 3.8 27B をベースにポストトレーニングした未公開の最新Figma編集モデルと、他のサードパーティモデルのデザイン編集タスクでの比較"
               },
               {
                 "t": "p",
-                "x": "「組み込みUI/UXデザイナーはあまりにも長い間、現実のハードウェア制約をまったく考慮しないウェブ中心のツールを使い、仕事で妥協を強いられてきた」と、Qt GroupのVice President, Design ProductsであるAntti Kujala氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Clateはベータ版として提供を開始し、予定されている全機能は2027年初頭にそろう見込みだ。"
+                "x": "エージェントはこのモデルを主要なサードパーティモデルと併用する。一般的なタスクは約20%速くなり、新しいエージェントは62%のケースで従来の本番エージェントを上回るか同等だった。ユーザー評価は33%高く、ユーザーが作業を取り消す頻度は60%減った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Qt Group的Clate\n把AI带入嵌入式UI设计",
-          "body": "Clate为嵌入式UIs整合了无代码构建、自然语言提示和可用于生产的QML输出。",
-          "mini_headline": "Qt推出Clate",
+          "headline": "Figma训练自有模型\n加速设计编辑",
+          "body": "Figma用原生文件格式微调模型，让智能体快速完成间距、颜色和布局编辑。",
+          "mini_headline": "Figma自研编辑模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Group发布了Clate，这是一款专为嵌入式设备用户界面打造的全新AI-powered设计工具。该平台在Qt World Summit 2026上亮相，提供无代码环境，让设计师在开发界面时能够兼顾嵌入式系统的硬件限制。"
+                "x": "我们越来越多地看到，专门的后训练可以与前沿模型一较高下。许多日常设计工作规模更小、迭代更多，而且往往难以验证：调整间距、更换颜色、根据反馈重做布局。因此，Figma 智能体从一个聚焦的任务起步：帮助设计师编辑画布上已有的作品。"
               },
               {
                 "t": "p",
-                "x": "Clate提供一个可视化工作空间，具备无限画布、层级树、资源管理、组件库以及可感知上下文的属性控件。借助AI助手，设计师可以用自然语言提示生成界面并修改界面元素；它还通过Model Context Protocol (MCP)与其他工具集成。Clate会自动生成QML代码，开发者可以直接使用设计师的成果，无需手动重建界面。"
+                "x": "前沿模型无法理解 Figma 的语法，因此我们投入了监督微调（SFT）。我们用 Figma 的原生文件格式来表示设计，让模型学会生成可以直接应用回画布的修改。更大的教师模型尝试编辑，再由确定性验证器和视觉模型评审进行检查。我们早期的一个 Llama 3.3 70B 模型用超过 250,000 个示例训练，在编辑任务上可与当时的顶尖模型相媲美。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "我们最早的 SFT 流程"
               },
               {
                 "t": "p",
-                "x": "Qt Group还计划在设计阶段提供帧率和内存占用的性能监测。据Qt Group称，59%的嵌入式UX设计师认为，更合适的设计工具会让他们受益。"
+                "x": "此后我们转向了能力更强的基础模型，包括较新的 Qwen 模型，并在强化学习（RL）上加大投入。我们分别评估对齐、对比度和需求完成度等维度，将结构检查与经专业设计师校准的视觉评审结合起来。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "最新未发布的 Figma 编辑模型（基于 Qwen 3.8 27B 后训练）与其他第三方模型在设计编辑任务上的对比"
               },
               {
                 "t": "p",
-                "x": "Qt Group的Vice President, Design Products Antti Kujala表示：“长期以来，嵌入式UI/UX设计师只能使用根本不考虑真实硬件限制的网页中心工具，在工作上不得不妥协。”"
-              },
-              {
-                "t": "p",
-                "x": "Clate以测试版形式推出，完整的计划功能预计于2027年初到位。"
+                "x": "该智能体将这一模型与领先的第三方模型并用。典型任务提速约 20%；新智能体有 62% 的情况优于或持平此前的生产版智能体，用户评分高出 33%，用户撤销其操作的频率降低 60%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clate, de Qt Group, lleva la AI\nal diseño de UI embebida",
-          "body": "Para UIs embebidas, Clate combina creación sin código, prompts en lenguaje natural y salida QML lista para producción.",
-          "mini_headline": "Qt lanza Clate",
+          "headline": "Figma entrena su propio modelo\npara editar diseños rápido",
+          "body": "Figma afinó un modelo con su formato de archivo nativo para que su agente edite rápido espaciado, color y maquetación.",
+          "mini_headline": "El modelo de edición propio de Figma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Group ha anunciado Clate, una nueva herramienta de diseño AI-powered desarrollada específicamente para crear interfaces de usuario para dispositivos embebidos. Presentada en Qt World Summit 2026, la plataforma ofrece un entorno sin código que permite a los diseñadores desarrollar interfaces teniendo en cuenta las limitaciones de hardware de los sistemas embebidos."
+                "x": "Cada vez vemos con más claridad que el posentrenamiento especializado puede competir con los modelos de frontera. Gran parte del trabajo de diseño cotidiano es más pequeño, más iterativo y a menudo no verificable: ajustar el espaciado, cambiar un color, rehacer una maquetación tras recibir comentarios. Por eso el agente de Figma empezó con una tarea acotada: ayudar a los diseñadores a editar el trabajo que ya tienen en su lienzo."
               },
               {
                 "t": "p",
-                "x": "Clate ofrece un espacio de trabajo visual con lienzo infinito, árboles de jerarquía, gestión de recursos, bibliotecas de componentes y controles de propiedades sensibles al contexto. Sus asistentes de AI permiten a los diseñadores generar pantallas y modificar elementos de la interfaz mediante prompts en lenguaje natural, y se integra con otras herramientas a través del Model Context Protocol (MCP). Genera automáticamente código QML, de modo que los desarrolladores pueden trabajar directamente con el resultado de los diseñadores en lugar de reconstruir las interfaces a mano."
+                "x": "Los modelos de frontera no entendían la sintaxis de Figma, así que invertimos en ajuste fino supervisado (SFT). Representamos los diseños en el formato de archivo nativo de Figma, de modo que el modelo aprendió a producir cambios que podíamos aplicar de vuelta al lienzo. Modelos maestros más grandes intentaban las ediciones, verificadas por validadores deterministas y jueces basados en modelos visuales. Uno de nuestros primeros modelos Llama 3.3 70B, entrenado con más de 250.000 ejemplos, competía en tareas de edición con los mejores modelos de su momento."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "Nuestro primer pipeline de SFT"
               },
               {
                 "t": "p",
-                "x": "Qt Group también prevé incorporar la supervisión del rendimiento durante el diseño, con la velocidad de fotogramas y el consumo de memoria. Según Qt Group, el 59% de los diseñadores de UX embebida creía que se beneficiaría de una herramienta de diseño más adecuada."
+                "x": "Desde entonces pasamos a modelos base más capaces, incluidos modelos Qwen más recientes, y estamos invirtiendo en aprendizaje por refuerzo (RL). Evaluamos por separado dimensiones como la alineación, el contraste y el cumplimiento de la solicitud, combinando comprobaciones estructurales con jueces visuales calibrados por diseñadores expertos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "Comparación del último modelo de edición de Figma, aún no lanzado y posentrenado sobre Qwen 3.8 27B, con otros modelos de terceros en tareas de edición de diseño"
               },
               {
                 "t": "p",
-                "x": "\"Durante demasiado tiempo, los diseñadores de UI/UX embebida han tenido que hacer concesiones en su trabajo, usando herramientas centradas en la web que simplemente no tienen en cuenta las limitaciones reales del hardware\", afirmó Antti Kujala, Vice President, Design Products de Qt Group."
-              },
-              {
-                "t": "p",
-                "x": "Clate se lanza en beta, y se espera que su conjunto completo de funciones previstas llegue a principios de 2027."
+                "x": "El agente ejecuta este modelo junto a modelos líderes de terceros. Las tareas habituales son un 20% más rápidas; el nuevo agente supera o iguala al agente de producción anterior el 62% de las veces, las valoraciones de los usuarios son un 33% más altas y los usuarios deshacen su trabajo un 60% menos."
               }
             ]
           }
@@ -569,137 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Qt Group Clate\n임베디드 UI 설계에 AI",
-          "body": "Clate는 임베디드 UIs용 노코드와 자연어 프롬프트, QML 출력을 결합했다.",
-          "mini_headline": "Qt, Clate 출시",
+          "headline": "Figma가 직접 학습한\n빠른 디자인 편집 모델",
+          "body": "Figma는 자체 포맷으로 모델을 미세조정해 간격·색·레이아웃 편집을 빠르게 했다.",
+          "mini_headline": "Figma 자체 편집 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Group이 임베디드 기기용 사용자 인터페이스 제작에 특화된 새로운 AI-powered 디자인 도구 Clate를 발표했다. Qt World Summit 2026에서 공개된 이 플랫폼은 노코드 환경을 제공해, 디자이너가 임베디드 시스템의 하드웨어 제약을 고려하면서 인터페이스를 개발할 수 있게 한다."
+                "x": "특화된 사후 학습이 프런티어 모델과 겨룰 수 있다는 점을 갈수록 자주 확인하고 있다. 일상적인 디자인 작업의 상당수는 더 작고 반복적이며, 정답을 검증하기 어려운 경우가 많다. 간격을 조정하고, 색을 바꾸고, 피드백을 받아 레이아웃을 다시 짜는 일이다. 그래서 Figma 에이전트는 디자이너가 이미 캔버스에 올려 둔 작업을 편집하도록 돕는, 범위가 분명한 과제에서 출발했다."
               },
               {
                 "t": "p",
-                "x": "Clate는 무한 캔버스, 계층 트리, 에셋 관리, 컴포넌트 라이브러리, 맥락 인식 속성 컨트롤을 갖춘 시각적 작업 공간을 제공한다. 디자이너는 AI 어시스턴트로 자연어 프롬프트를 써서 화면을 생성하고 인터페이스 요소를 수정할 수 있으며, Clate는 Model Context Protocol (MCP)로 다른 도구와도 연동된다. QML 코드를 자동으로 생성하므로 개발자는 인터페이스를 수작업으로 다시 만들 필요 없이 디자이너의 결과물을 바로 다룰 수 있다."
+                "x": "프런티어 모델은 Figma 문법을 이해하지 못했다. 그래서 지도 미세조정(SFT)에 투자했다. 디자인을 Figma 고유 파일 포맷으로 표현해, 모델이 캔버스에 다시 적용할 수 있는 변경을 만들도록 학습시켰다. 더 큰 교사 모델이 편집을 시도하고, 결정론적 검증기와 시각 모델 심사자가 결과를 확인했다. 250,000개가 넘는 예시로 학습한 초기 Llama 3.3 70B 모델 하나는 편집 과제에서 당시 최상위 모델들과 대등한 성능을 냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "초기 SFT 파이프라인"
               },
               {
                 "t": "p",
-                "x": "Qt Group은 프레임 레이트와 메모리 사용량을 디자인 단계에서 모니터링하는 기능도 계획하고 있다. Qt Group에 따르면 임베디드 UX 디자이너의 59%가 더 적합한 디자인 도구가 있으면 도움이 될 것이라고 답했다."
+                "x": "이후 최신 Qwen 모델을 비롯해 더 뛰어난 기반 모델로 옮겼고, 강화학습(RL)에도 투자하고 있다. 정렬, 대비, 요청 충족 같은 항목을 따로 평가하며, 구조 검사와 전문 디자이너가 보정한 시각 심사자를 함께 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "Qwen 3.8 27B 기반으로 사후 학습한 미공개 최신 Figma 편집 모델과 다른 서드파티 모델의 디자인 편집 과제 비교"
               },
               {
                 "t": "p",
-                "x": "\"너무 오랫동안 임베디드 UI/UX 디자이너들은 실제 하드웨어 제약을 전혀 고려하지 않는 웹 중심 도구를 쓰며 작업에서 타협해야 했다.\" Qt Group의 Vice President, Design Products인 Antti Kujala의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "Clate는 베타로 출시되며, 계획된 전체 기능은 2027년 초에 갖춰질 예정이다."
+                "x": "에이전트는 이 모델을 주요 서드파티 모델과 함께 돌린다. 일반적인 작업은 약 20% 빨라졌고, 새 에이전트는 62%의 경우 이전 프로덕션 에이전트보다 낫거나 같은 결과를 냈다. 사용자 평점은 33% 높아졌고, 사용자가 작업을 되돌리는 빈도는 60% 줄었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Qt GroupのClate\n組み込みUI設計にAI",
-          "body": "Clateは組み込みUIs向けにノーコード構築、自然言語指示、量産用QML出力を備える。",
-          "mini_headline": "Qt、Clateを発表",
+          "headline": "Figmaが独自モデルを訓練\nデザイン編集を高速化",
+          "body": "Figmaは独自のファイル形式でモデルを微調整し、間隔や色、レイアウトの編集を速めた。",
+          "mini_headline": "Figma独自の編集モデル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Groupは、組み込み機器向けのユーザーインターフェース制作に特化した新しいAI-poweredデザインツール「Clate」を発表した。Qt World Summit 2026で披露されたこのプラットフォームはノーコード環境を備え、デザイナーは組み込みシステムのハードウェア制約を考慮しながらインターフェースを開発できる。"
+                "x": "特化型のポストトレーニングがフロンティアモデルに対抗できることは、ますます明らかになってきた。日々のデザイン作業の多くは小さく反復的で、正解を検証しにくい。間隔を調整する、色を変える、フィードバックを受けてレイアウトを組み直す、といった作業だ。そこでFigmaのエージェントは、デザイナーがすでにキャンバス上にある作品を編集するのを助けるという、焦点を絞ったタスクから始まった。"
               },
               {
                 "t": "p",
-                "x": "Clateは、無限キャンバス、階層ツリー、アセット管理、コンポーネントライブラリ、コンテキストに応じたプロパティ操作を備えたビジュアルな作業空間を提供する。AIアシスタントにより、デザイナーは自然言語プロンプトで画面を生成し、インターフェース要素を修正できる。Model Context Protocol (MCP)を通じて他のツールとも連携する。QMLコードを自動生成するため、開発者はインターフェースを手作業で作り直すことなく、デザイナーの成果物をそのまま扱える。"
+                "x": "フロンティアモデルはFigmaの構文を理解できなかったため、教師ありファインチューニング（SFT）に投資した。デザインをFigma独自のファイル形式で表現し、モデルがキャンバスにそのまま適用できる変更を生成するよう学習させた。より大きな教師モデルが編集を試み、決定論的な検証器と視覚モデルの審査員がそれを確認した。250,000件を超える例で学習した初期のLlama 3.3 70B モデルの一つは、編集タスクで当時のトップモデルに匹敵した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "初期のSFTパイプライン"
               },
               {
                 "t": "p",
-                "x": "Qt Groupは、フレームレートとメモリ消費量をデザイン時に監視する機能も計画している。Qt Groupによれば、組み込みUXデザイナーの59%が、より適したデザインツールがあれば役立つと考えていた。"
+                "x": "その後、新しいQwenモデルを含むより高性能なベースモデルに移行し、強化学習（RL）にも投資している。整列、コントラスト、要求の達成度といった観点を個別に評価し、構造的なチェックと、熟練デザイナーが調整した視覚的な審査員を組み合わせている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "Qwen 3.8 27B をベースにポストトレーニングした未公開の最新Figma編集モデルと、他のサードパーティモデルのデザイン編集タスクでの比較"
               },
               {
                 "t": "p",
-                "x": "「組み込みUI/UXデザイナーはあまりにも長い間、現実のハードウェア制約をまったく考慮しないウェブ中心のツールを使い、仕事で妥協を強いられてきた」と、Qt GroupのVice President, Design ProductsであるAntti Kujala氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Clateはベータ版として提供を開始し、予定されている全機能は2027年初頭にそろう見込みだ。"
+                "x": "エージェントはこのモデルを主要なサードパーティモデルと併用する。一般的なタスクは約20%速くなり、新しいエージェントは62%のケースで従来の本番エージェントを上回るか同等だった。ユーザー評価は33%高く、ユーザーが作業を取り消す頻度は60%減った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Qt Group的Clate\n把AI带入嵌入式UI设计",
-          "body": "Clate为嵌入式UIs整合了无代码构建、自然语言提示和可用于生产的QML输出。",
-          "mini_headline": "Qt推出Clate",
+          "headline": "Figma训练自有模型\n加速设计编辑",
+          "body": "Figma用原生文件格式微调模型，让智能体快速完成间距、颜色和布局编辑。",
+          "mini_headline": "Figma自研编辑模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Group发布了Clate，这是一款专为嵌入式设备用户界面打造的全新AI-powered设计工具。该平台在Qt World Summit 2026上亮相，提供无代码环境，让设计师在开发界面时能够兼顾嵌入式系统的硬件限制。"
+                "x": "我们越来越多地看到，专门的后训练可以与前沿模型一较高下。许多日常设计工作规模更小、迭代更多，而且往往难以验证：调整间距、更换颜色、根据反馈重做布局。因此，Figma 智能体从一个聚焦的任务起步：帮助设计师编辑画布上已有的作品。"
               },
               {
                 "t": "p",
-                "x": "Clate提供一个可视化工作空间，具备无限画布、层级树、资源管理、组件库以及可感知上下文的属性控件。借助AI助手，设计师可以用自然语言提示生成界面并修改界面元素；它还通过Model Context Protocol (MCP)与其他工具集成。Clate会自动生成QML代码，开发者可以直接使用设计师的成果，无需手动重建界面。"
+                "x": "前沿模型无法理解 Figma 的语法，因此我们投入了监督微调（SFT）。我们用 Figma 的原生文件格式来表示设计，让模型学会生成可以直接应用回画布的修改。更大的教师模型尝试编辑，再由确定性验证器和视觉模型评审进行检查。我们早期的一个 Llama 3.3 70B 模型用超过 250,000 个示例训练，在编辑任务上可与当时的顶尖模型相媲美。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "我们最早的 SFT 流程"
               },
               {
                 "t": "p",
-                "x": "Qt Group还计划在设计阶段提供帧率和内存占用的性能监测。据Qt Group称，59%的嵌入式UX设计师认为，更合适的设计工具会让他们受益。"
+                "x": "此后我们转向了能力更强的基础模型，包括较新的 Qwen 模型，并在强化学习（RL）上加大投入。我们分别评估对齐、对比度和需求完成度等维度，将结构检查与经专业设计师校准的视觉评审结合起来。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "最新未发布的 Figma 编辑模型（基于 Qwen 3.8 27B 后训练）与其他第三方模型在设计编辑任务上的对比"
               },
               {
                 "t": "p",
-                "x": "Qt Group的Vice President, Design Products Antti Kujala表示：“长期以来，嵌入式UI/UX设计师只能使用根本不考虑真实硬件限制的网页中心工具，在工作上不得不妥协。”"
-              },
-              {
-                "t": "p",
-                "x": "Clate以测试版形式推出，完整的计划功能预计于2027年初到位。"
+                "x": "该智能体将这一模型与领先的第三方模型并用。典型任务提速约 20%；新智能体有 62% 的情况优于或持平此前的生产版智能体，用户评分高出 33%，用户撤销其操作的频率降低 60%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clate, de Qt Group, lleva la AI\nal diseño de UI embebida",
-          "body": "Para UIs embebidas, Clate combina creación sin código, prompts en lenguaje natural y salida QML lista para producción.",
-          "mini_headline": "Qt lanza Clate",
+          "headline": "Figma entrena su propio modelo\npara editar diseños rápido",
+          "body": "Figma afinó un modelo con su formato de archivo nativo para que su agente edite rápido espaciado, color y maquetación.",
+          "mini_headline": "El modelo de edición propio de Figma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Qt Group ha anunciado Clate, una nueva herramienta de diseño AI-powered desarrollada específicamente para crear interfaces de usuario para dispositivos embebidos. Presentada en Qt World Summit 2026, la plataforma ofrece un entorno sin código que permite a los diseñadores desarrollar interfaces teniendo en cuenta las limitaciones de hardware de los sistemas embebidos."
+                "x": "Cada vez vemos con más claridad que el posentrenamiento especializado puede competir con los modelos de frontera. Gran parte del trabajo de diseño cotidiano es más pequeño, más iterativo y a menudo no verificable: ajustar el espaciado, cambiar un color, rehacer una maquetación tras recibir comentarios. Por eso el agente de Figma empezó con una tarea acotada: ayudar a los diseñadores a editar el trabajo que ya tienen en su lienzo."
               },
               {
                 "t": "p",
-                "x": "Clate ofrece un espacio de trabajo visual con lienzo infinito, árboles de jerarquía, gestión de recursos, bibliotecas de componentes y controles de propiedades sensibles al contexto. Sus asistentes de AI permiten a los diseñadores generar pantallas y modificar elementos de la interfaz mediante prompts en lenguaje natural, y se integra con otras herramientas a través del Model Context Protocol (MCP). Genera automáticamente código QML, de modo que los desarrolladores pueden trabajar directamente con el resultado de los diseñadores en lugar de reconstruir las interfaces a mano."
+                "x": "Los modelos de frontera no entendían la sintaxis de Figma, así que invertimos en ajuste fino supervisado (SFT). Representamos los diseños en el formato de archivo nativo de Figma, de modo que el modelo aprendió a producir cambios que podíamos aplicar de vuelta al lienzo. Modelos maestros más grandes intentaban las ediciones, verificadas por validadores deterministas y jueces basados en modelos visuales. Uno de nuestros primeros modelos Llama 3.3 70B, entrenado con más de 250.000 ejemplos, competía en tareas de edición con los mejores modelos de su momento."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+                "cap": "Nuestro primer pipeline de SFT"
               },
               {
                 "t": "p",
-                "x": "Qt Group también prevé incorporar la supervisión del rendimiento durante el diseño, con la velocidad de fotogramas y el consumo de memoria. Según Qt Group, el 59% de los diseñadores de UX embebida creía que se beneficiaría de una herramienta de diseño más adecuada."
+                "x": "Desde entonces pasamos a modelos base más capaces, incluidos modelos Qwen más recientes, y estamos invirtiendo en aprendizaje por refuerzo (RL). Evaluamos por separado dimensiones como la alineación, el contraste y el cumplimiento de la solicitud, combinando comprobaciones estructurales con jueces visuales calibrados por diseñadores expertos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+                "cap": "Comparación del último modelo de edición de Figma, aún no lanzado y posentrenado sobre Qwen 3.8 27B, con otros modelos de terceros en tareas de edición de diseño"
               },
               {
                 "t": "p",
-                "x": "\"Durante demasiado tiempo, los diseñadores de UI/UX embebida han tenido que hacer concesiones en su trabajo, usando herramientas centradas en la web que simplemente no tienen en cuenta las limitaciones reales del hardware\", afirmó Antti Kujala, Vice President, Design Products de Qt Group."
-              },
-              {
-                "t": "p",
-                "x": "Clate se lanza en beta, y se espera que su conjunto completo de funciones previstas llegue a principios de 2027."
+                "x": "El agente ejecuta este modelo junto a modelos líderes de terceros. Las tareas habituales son un 20% más rápidas; el nuevo agente supera o iguala al agente de producción anterior el 62% de las veces, las valoraciones de los usuarios son un 33% más altas y los usuarios deshacen su trabajo un 60% menos."
               }
             ]
           }
@@ -707,739 +415,15 @@
       }
     },
     {
-      "id": "nuke18",
+      "id": "canva-brush-vlm",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nuke 18.0에\nGriptape AI 탑재",
-      "body": "Nuke 18.0의 Griptape 노드로 그래프 안에서 이미지·영상을 생성한다.",
-      "mini_headline": "Nuke 18.0, Griptape 추가",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Foundry가 컴포지팅 앱 제품군의 최신 업데이트 Nuke 18.0을 베타로 내놨다. Nuke에는 새 Griptape Node가 추가돼 Foundry의 AI 오케스트레이션 플랫폼 Griptape와 연결된다. 컴포지터는 Nuke 노드 그래프 안에서 생성형 AI 워크플로를 바로 돌릴 수 있다. 프로젝트에 합성할 이펙트 요소를 만드는 식이다."
-          },
-          {
-            "t": "video",
-            "yt": "iK5xckpMLag"
-          },
-          {
-            "t": "p",
-            "x": "Griptape를 쓰면 정지 이미지와 영상, 3D 에셋, 오디오용 서드파티 AI 모델을 비교적 제어 가능하고 반복 가능한 워크플로로 엮을 수 있다. 제안된 활용 사례도 키잉, 마스킹, 인페인팅, 클린 플레이트 생성에서 완전히 새로운 에셋 생성까지 폭넓다. 새 노드는 실행 중인 Griptape 엔진에 직접 붙고, Nuke 안의 컨트롤 노브(프롬프트, 모델, 시드, 화면비)를 자동으로 채운다."
-          },
-          {
-            "t": "p",
-            "x": "3D Gaussian Splats 워크플로도 개선됐다. 새 카메라 포맷과 H.265/HEVC 미디어를 지원하고, Nuke Studio에는 자동 컷 감지 기능이 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "Nuke 18.0은 아직 베타다. 연간 구독료는 Nuke가 연 $3,839, NukeX가 연 $5,219, Nuke Studio가 연 $6,379다. Griptape Nodes는 무료로 내려받을 수 있지만 AI 모델 사용료는 크레딧 단위로 매긴다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Nuke 18.0 brings Griptape AI\nto the compositing node graph",
-          "body": "Nuke 18.0's new Griptape node lets artists run generative image and video workflows inside the node graph.",
-          "mini_headline": "Nuke 18.0 adds Griptape",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundry has released Nuke 18.0, the latest update to its family of compositing apps, in beta. Nuke itself gets a new Griptape Node, connecting the software to Griptape, Foundry’s AI orchestration platform. With it, compositors can execute generative AI workflows directly inside the Nuke node graph: for example, to create effects elements to composite into a project."
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptape makes it possible to combine third-party AI models – for still images, video, 3D assets and audio – into relatively controllable, repeatable workflows. Suggested use cases range from keying, masking, inpainting and clean plate generation to generating completely novel assets. The new node connects directly to a running Griptape engine and automatically populates control knobs (prompts, models, seeds, aspect ratio) inside Nuke."
-              },
-              {
-                "t": "p",
-                "x": "The release also improves workflow with 3D Gaussian Splats, adds support for new camera formats and H.265/HEVC media, and gives Nuke Studio automatic cut detection."
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0 is in beta. Annual subscriptions cost $3,839/year for Nuke, $5,219/year for NukeX and $6,379/year for Nuke Studio. Griptape Nodes is a free download, but AI model usage is priced on a credit basis."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Nuke 18.0에\nGriptape AI 탑재",
-          "body": "Nuke 18.0의 Griptape 노드로 그래프 안에서 이미지·영상을 생성한다.",
-          "mini_headline": "Nuke 18.0, Griptape 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundry가 컴포지팅 앱 제품군의 최신 업데이트 Nuke 18.0을 베타로 내놨다. Nuke에는 새 Griptape Node가 추가돼 Foundry의 AI 오케스트레이션 플랫폼 Griptape와 연결된다. 컴포지터는 Nuke 노드 그래프 안에서 생성형 AI 워크플로를 바로 돌릴 수 있다. 프로젝트에 합성할 이펙트 요소를 만드는 식이다."
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptape를 쓰면 정지 이미지와 영상, 3D 에셋, 오디오용 서드파티 AI 모델을 비교적 제어 가능하고 반복 가능한 워크플로로 엮을 수 있다. 제안된 활용 사례도 키잉, 마스킹, 인페인팅, 클린 플레이트 생성에서 완전히 새로운 에셋 생성까지 폭넓다. 새 노드는 실행 중인 Griptape 엔진에 직접 붙고, Nuke 안의 컨트롤 노브(프롬프트, 모델, 시드, 화면비)를 자동으로 채운다."
-              },
-              {
-                "t": "p",
-                "x": "3D Gaussian Splats 워크플로도 개선됐다. 새 카메라 포맷과 H.265/HEVC 미디어를 지원하고, Nuke Studio에는 자동 컷 감지 기능이 들어갔다."
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0은 아직 베타다. 연간 구독료는 Nuke가 연 $3,839, NukeX가 연 $5,219, Nuke Studio가 연 $6,379다. Griptape Nodes는 무료로 내려받을 수 있지만 AI 모델 사용료는 크레딧 단위로 매긴다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Nuke 18.0が\nGriptape AIを統合",
-          "body": "Nuke 18.0の新Griptapeノードで、グラフ内で画像・動画を生成できる。",
-          "mini_headline": "Nuke 18.0にGriptape",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundryは、コンポジットアプリ群の最新アップデートとなるNuke 18.0をベータ版として公開した。Nuke本体には新たにGriptape Nodeが加わり、FoundryのAIオーケストレーションプラットフォームであるGriptapeと接続できるようになった。これによりコンポジターは、Nukeのノードグラフ内で生成AIワークフローを直接実行できる。たとえば、プロジェクトに合成するエフェクト素材を作成するといった使い方だ。"
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptapeでは、静止画、動画、3Dアセット、オーディオ向けのサードパーティ製AIモデルを組み合わせ、比較的制御しやすく再現性のあるワークフローを構築できる。想定される用途は、キーイング、マスキング、インペインティング、クリーンプレート生成から、まったく新しいアセットの生成まで幅広い。新しいノードは稼働中のGriptapeエンジンに直接接続し、Nuke内のコントロールノブ（プロンプト、モデル、シード、アスペクト比）を自動で設定する。"
-              },
-              {
-                "t": "p",
-                "x": "今回のリリースでは3D Gaussian Splatsを使ったワークフローも改善され、新しいカメラフォーマットとH.265/HEVCメディアに対応したほか、Nuke Studioに自動カット検出が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0はベータ版だ。年間サブスクリプション価格は、Nukeが年$3,839、NukeXが年$5,219、Nuke Studioが年$6,379だ。Griptape Nodesは無料でダウンロードできるが、AIモデルの利用はクレジット制で課金される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Nuke 18.0节点图引入\nGriptape AI",
-          "body": "Nuke 18.0新增Griptape节点，艺术家可在节点图内运行生成式图像与视频工作流。",
-          "mini_headline": "Nuke 18.0新增Griptape",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundry以测试版形式发布了旗下合成软件系列的最新更新Nuke 18.0。Nuke本身新增了Griptape Node，将软件与Foundry的AI编排平台Griptape相连。借助它，合成师可以直接在Nuke节点图中执行生成式AI工作流，例如制作要合成进项目的特效元素。"
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptape可以把面向静态图像、视频、3D资产和音频的第三方AI模型组合成相对可控、可重复的工作流。建议的用例涵盖抠像、遮罩、内补绘制、干净背景板生成，乃至生成全新的资产。新节点直接连接正在运行的Griptape引擎，并在Nuke中自动填充控制旋钮（提示词、模型、种子、宽高比）。"
-              },
-              {
-                "t": "p",
-                "x": "此次版本还改进了3D Gaussian Splats相关工作流，新增对新摄像机格式和H.265/HEVC媒体的支持，并为Nuke Studio加入了自动剪辑点检测。"
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0目前处于测试阶段。年度订阅价格为：Nuke每年$3,839，NukeX每年$5,219，Nuke Studio每年$6,379。Griptape Nodes可免费下载，但AI模型的使用按积分计费。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Nuke 18.0 integra Griptape AI\nen el grafo de nodos",
-          "body": "El nuevo nodo Griptape de Nuke 18.0 permite ejecutar flujos generativos de imagen y video dentro del grafo de nodos.",
-          "mini_headline": "Nuke 18.0 suma Griptape",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundry ha lanzado en beta Nuke 18.0, la última actualización de su familia de aplicaciones de composición. Nuke recibe un nuevo Griptape Node, que conecta el software con Griptape, la plataforma de orquestación de AI de Foundry. Con él, los compositores pueden ejecutar flujos de trabajo de AI generativa directamente dentro del grafo de nodos de Nuke: por ejemplo, para crear elementos de efectos que integrar en un proyecto."
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptape permite combinar modelos de AI de terceros (para imágenes fijas, video, recursos 3D y audio) en flujos de trabajo relativamente controlables y repetibles. Los casos de uso sugeridos van desde el keying, el enmascarado, el inpainting y la generación de clean plates hasta la creación de recursos completamente nuevos. El nuevo nodo se conecta directamente a un motor Griptape en ejecución y rellena automáticamente los controles (prompts, modelos, semillas, relación de aspecto) dentro de Nuke."
-              },
-              {
-                "t": "p",
-                "x": "La versión también mejora el flujo de trabajo con 3D Gaussian Splats, añade compatibilidad con nuevos formatos de cámara y con medios H.265/HEVC, y dota a Nuke Studio de detección automática de cortes."
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0 está en beta. Las suscripciones anuales cuestan $3,839/año para Nuke, $5,219/año para NukeX y $6,379/año para Nuke Studio. Griptape Nodes se descarga gratis, pero el uso de los modelos de AI se cobra por créditos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Nuke 18.0에\nGriptape AI 탑재",
-          "body": "Nuke 18.0의 Griptape 노드로 그래프 안에서 이미지·영상을 생성한다.",
-          "mini_headline": "Nuke 18.0, Griptape 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundry가 컴포지팅 앱 제품군의 최신 업데이트인 Nuke 18.0을 베타로 출시했다. Nuke 자체에는 새 Griptape Node가 추가돼, Foundry의 AI 오케스트레이션 플랫폼인 Griptape와 연결된다. 이를 통해 컴포지터는 Nuke 노드 그래프 안에서 생성형 AI 워크플로를 바로 실행할 수 있다. 예를 들어 프로젝트에 합성할 이펙트 요소를 만드는 식이다."
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptape를 쓰면 정지 이미지, 영상, 3D 에셋, 오디오용 서드파티 AI 모델을 비교적 제어 가능하고 반복 가능한 워크플로로 엮을 수 있다. 제안된 활용 사례는 키잉, 마스킹, 인페인팅, 클린 플레이트 생성부터 완전히 새로운 에셋 생성까지 다양하다. 새 노드는 실행 중인 Griptape 엔진에 직접 연결되고, Nuke 안에서 컨트롤 노브(프롬프트, 모델, 시드, 화면비)를 자동으로 채운다."
-              },
-              {
-                "t": "p",
-                "x": "이번 릴리스는 3D Gaussian Splats 워크플로도 개선하고, 새 카메라 포맷과 H.265/HEVC 미디어를 지원하며, Nuke Studio에 자동 컷 감지 기능을 더했다."
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0은 베타 단계다. 연간 구독료는 Nuke가 연 $3,839, NukeX가 연 $5,219, Nuke Studio가 연 $6,379다. Griptape Nodes는 무료로 내려받을 수 있지만, AI 모델 사용료는 크레딧 기반으로 책정된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Nuke 18.0が\nGriptape AIを統合",
-          "body": "Nuke 18.0の新Griptapeノードで、グラフ内で画像・動画を生成できる。",
-          "mini_headline": "Nuke 18.0にGriptape",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundryは、コンポジットアプリ群の最新アップデートとなるNuke 18.0をベータ版として公開した。Nuke本体には新たにGriptape Nodeが加わり、FoundryのAIオーケストレーションプラットフォームであるGriptapeと接続できるようになった。これによりコンポジターは、Nukeのノードグラフ内で生成AIワークフローを直接実行できる。たとえば、プロジェクトに合成するエフェクト素材を作成するといった使い方だ。"
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptapeでは、静止画、動画、3Dアセット、オーディオ向けのサードパーティ製AIモデルを組み合わせ、比較的制御しやすく再現性のあるワークフローを構築できる。想定される用途は、キーイング、マスキング、インペインティング、クリーンプレート生成から、まったく新しいアセットの生成まで幅広い。新しいノードは稼働中のGriptapeエンジンに直接接続し、Nuke内のコントロールノブ（プロンプト、モデル、シード、アスペクト比）を自動で設定する。"
-              },
-              {
-                "t": "p",
-                "x": "今回のリリースでは3D Gaussian Splatsを使ったワークフローも改善され、新しいカメラフォーマットとH.265/HEVCメディアに対応したほか、Nuke Studioに自動カット検出が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0はベータ版だ。年間サブスクリプション価格は、Nukeが年$3,839、NukeXが年$5,219、Nuke Studioが年$6,379だ。Griptape Nodesは無料でダウンロードできるが、AIモデルの利用はクレジット制で課金される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Nuke 18.0节点图引入\nGriptape AI",
-          "body": "Nuke 18.0新增Griptape节点，艺术家可在节点图内运行生成式图像与视频工作流。",
-          "mini_headline": "Nuke 18.0新增Griptape",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundry以测试版形式发布了旗下合成软件系列的最新更新Nuke 18.0。Nuke本身新增了Griptape Node，将软件与Foundry的AI编排平台Griptape相连。借助它，合成师可以直接在Nuke节点图中执行生成式AI工作流，例如制作要合成进项目的特效元素。"
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptape可以把面向静态图像、视频、3D资产和音频的第三方AI模型组合成相对可控、可重复的工作流。建议的用例涵盖抠像、遮罩、内补绘制、干净背景板生成，乃至生成全新的资产。新节点直接连接正在运行的Griptape引擎，并在Nuke中自动填充控制旋钮（提示词、模型、种子、宽高比）。"
-              },
-              {
-                "t": "p",
-                "x": "此次版本还改进了3D Gaussian Splats相关工作流，新增对新摄像机格式和H.265/HEVC媒体的支持，并为Nuke Studio加入了自动剪辑点检测。"
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0目前处于测试阶段。年度订阅价格为：Nuke每年$3,839，NukeX每年$5,219，Nuke Studio每年$6,379。Griptape Nodes可免费下载，但AI模型的使用按积分计费。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Nuke 18.0 integra Griptape AI\nen el grafo de nodos",
-          "body": "El nuevo nodo Griptape de Nuke 18.0 permite ejecutar flujos generativos de imagen y video dentro del grafo de nodos.",
-          "mini_headline": "Nuke 18.0 suma Griptape",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Foundry ha lanzado en beta Nuke 18.0, la última actualización de su familia de aplicaciones de composición. Nuke recibe un nuevo Griptape Node, que conecta el software con Griptape, la plataforma de orquestación de AI de Foundry. Con él, los compositores pueden ejecutar flujos de trabajo de AI generativa directamente dentro del grafo de nodos de Nuke: por ejemplo, para crear elementos de efectos que integrar en un proyecto."
-              },
-              {
-                "t": "video",
-                "yt": "iK5xckpMLag"
-              },
-              {
-                "t": "p",
-                "x": "Griptape permite combinar modelos de AI de terceros (para imágenes fijas, video, recursos 3D y audio) en flujos de trabajo relativamente controlables y repetibles. Los casos de uso sugeridos van desde el keying, el enmascarado, el inpainting y la generación de clean plates hasta la creación de recursos completamente nuevos. El nuevo nodo se conecta directamente a un motor Griptape en ejecución y rellena automáticamente los controles (prompts, modelos, semillas, relación de aspecto) dentro de Nuke."
-              },
-              {
-                "t": "p",
-                "x": "La versión también mejora el flujo de trabajo con 3D Gaussian Splats, añade compatibilidad con nuevos formatos de cámara y con medios H.265/HEVC, y dota a Nuke Studio de detección automática de cortes."
-              },
-              {
-                "t": "p",
-                "x": "Nuke 18.0 está en beta. Las suscripciones anuales cuestan $3,839/año para Nuke, $5,219/año para NukeX y $6,379/año para Nuke Studio. Griptape Nodes se descarga gratis, pero el uso de los modelos de AI se cobra por créditos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "vectorworks-nano",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Vectorworks에\nNano Banana 탑재",
-      "body": "Vectorworks 구독자는 Nano Banana로 매달 150 크레딧을 쓴다.",
-      "mini_headline": "Vectorworks, Nano Banana 탑재",
-      "tool": "Text-to-CAD",
-      "source": "PBC Today",
-      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-            "cap": "이미지: © Vectorworks"
-          },
-          {
-            "t": "p",
-            "x": "Vectorworks AI Visualizer 최신 버전에 Google Nano Banana를 포함한 새 모델 두 가지가 들어갔다. 고품질의 사실적인 AI-generated 비주얼을 위한 모델이다. Vectorworks 2027 구독자는 이제 AI Visualizer 팔레트에서 Google의 Nano Banana 2와 Nano Banana Pro 모델을 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Nano Banana 2는 디자인 과정 내내 콘셉트를 시험하고 비주얼을 거듭 고치는 데 알맞다. Nano Banana Pro는 중요한 프레젠테이션이나 결과물에 쓸 더 정교한 이미지에 어울린다. 두 모델 모두 2K 해상도로 이미지를 생성·편집하고 4K로 업스케일하며, 프롬프트당 참조 이미지를 최대 14장까지 받는다."
-          },
-          {
-            "t": "p",
-            "x": "구독 라이선스마다 매달 150 크레딧이 나온다. Nano Banana 2는 이미지 한 장 생성·편집에 두 크레딧, 4K 업스케일에 네 크레딧이 들고, Nano Banana Pro는 각각 세 크레딧과 여섯 크레딧이 든다. 월 150 크레딧을 다 쓰면 AI Visualizer는 크레딧이 필요 없는 Basic 모델로 자동 전환된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-            "cap": "이미지: © Vectorworks"
-          },
-          {
-            "t": "p",
-            "x": "Basic 모델로는 빠른 스터디와 반복 작업용 AI 비주얼을 제한 없이 생성하고 다듬을 수 있다. 참조 이미지는 프롬프트당 최대 두 장까지 지원한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Vectorworks adds\nNano Banana models",
-          "body": "Vectorworks subscribers can now render with Nano Banana models, using 150 credits per license each month.",
-          "mini_headline": "Vectorworks adds Nano Banana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "Image: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "The latest version of Vectorworks’ AI Visualizer offers two new models, including Google’s Nano Banana, for high-quality, realistic AI-generated visuals. With a Vectorworks 2027 subscription, you can now access Google’s Nano Banana 2 and Nano Banana Pro models in the AI Visualizer palette."
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2 is great for testing concepts and iterating on visuals throughout the design process, while Nano Banana Pro helps you create a more detailed image for a high-stakes presentation or deliverable. Both models generate and edit images at 2K resolution, can upscale to 4K, and support up to 14 reference images per prompt."
-              },
-              {
-                "t": "p",
-                "x": "Each subscription license includes 150 credits per calendar month. Nano Banana 2 uses two credits per generated or edited image and four to upscale to 4K; Nano Banana Pro uses three and six. Once the 150 monthly credits are used, the AI Visualizer automatically switches to the credit-free Basic model."
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "Image: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "The Basic model offers an unlimited way to generate and refine AI visuals for quick studies and repeated iterations, with up to two reference images per prompt."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Vectorworks에\nNano Banana 탑재",
-          "body": "Vectorworks 구독자는 Nano Banana로 매달 150 크레딧을 쓴다.",
-          "mini_headline": "Vectorworks, Nano Banana 탑재",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "이미지: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Vectorworks AI Visualizer 최신 버전에 Google Nano Banana를 포함한 새 모델 두 가지가 들어갔다. 고품질의 사실적인 AI-generated 비주얼을 위한 모델이다. Vectorworks 2027 구독자는 이제 AI Visualizer 팔레트에서 Google의 Nano Banana 2와 Nano Banana Pro 모델을 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2는 디자인 과정 내내 콘셉트를 시험하고 비주얼을 거듭 고치는 데 알맞다. Nano Banana Pro는 중요한 프레젠테이션이나 결과물에 쓸 더 정교한 이미지에 어울린다. 두 모델 모두 2K 해상도로 이미지를 생성·편집하고 4K로 업스케일하며, 프롬프트당 참조 이미지를 최대 14장까지 받는다."
-              },
-              {
-                "t": "p",
-                "x": "구독 라이선스마다 매달 150 크레딧이 나온다. Nano Banana 2는 이미지 한 장 생성·편집에 두 크레딧, 4K 업스케일에 네 크레딧이 들고, Nano Banana Pro는 각각 세 크레딧과 여섯 크레딧이 든다. 월 150 크레딧을 다 쓰면 AI Visualizer는 크레딧이 필요 없는 Basic 모델로 자동 전환된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "이미지: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Basic 모델로는 빠른 스터디와 반복 작업용 AI 비주얼을 제한 없이 생성하고 다듬을 수 있다. 참조 이미지는 프롬프트당 최대 두 장까지 지원한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Vectorworksに\nNano Banana搭載",
-          "body": "Vectorworksの契約者はNano Bananaで毎月150クレジットを使える。",
-          "mini_headline": "VectorworksにNano Banana搭載",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "画像: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Vectorworksの AI Visualizer 最新版は、高品質でリアルな AI-generated ビジュアルのため、GoogleのNano Bananaを含む新モデル二つを提供する。Vectorworks 2027 のサブスクリプションがあれば、AI Visualizer パレットでGoogleの Nano Banana 2 と Nano Banana Pro を使える。"
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2 はデザイン過程を通じてコンセプトを試し、ビジュアルを反復するのに向き、Nano Banana Pro は重要なプレゼンテーションや成果物向けにより精細な画像を作るのに役立つ。両モデルとも 2K 解像度で画像を生成・編集し、4K へのアップスケールが可能で、プロンプトごとに最大 14 枚の参照画像に対応する。"
-              },
-              {
-                "t": "p",
-                "x": "各サブスクリプションライセンスには暦月ごとに 150 クレジットが含まれる。Nano Banana 2 は生成または編集した画像一枚につき二クレジット、4K へのアップスケールに四クレジットを使い、Nano Banana Pro はそれぞれ三と六を使う。月 150 クレジットを使い切ると、AI Visualizer はクレジット不要の Basic モデルに自動で切り替わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "画像: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Basic モデルは、素早いスタディや繰り返しの反復のために AI ビジュアルを無制限に生成・調整でき、プロンプトごとに最大二枚の参照画像に対応する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Vectorworks新增\nNano Banana模型",
-          "body": "Vectorworks订阅用户现可用Nano Banana渲染，每个许可证每月150积分。",
-          "mini_headline": "Vectorworks新增Nano Banana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "图片：© Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Vectorworks AI Visualizer 的最新版本提供两款新模型，其中包括 Google 的 Nano Banana，可生成高质量、逼真的 AI-generated 视觉效果。拥有 Vectorworks 2027 订阅的用户，现在可以在 AI Visualizer 面板中使用 Google 的 Nano Banana 2 和 Nano Banana Pro 模型。"
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2 适合在整个设计过程中测试概念、反复迭代视觉效果，而 Nano Banana Pro 则有助于为重要的演示或交付物制作更精细的图像。两款模型均以 2K 分辨率生成和编辑图像，可放大至 4K，每条提示词最多支持 14 张参考图像。"
-              },
-              {
-                "t": "p",
-                "x": "每个订阅许可证每个日历月包含 150 积分。Nano Banana 2 每生成或编辑一张图像消耗两个积分，放大至 4K 消耗四个；Nano Banana Pro 则分别消耗三个和六个。每月 150 积分用完后，AI Visualizer 会自动切换到无需积分的 Basic 模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "图片：© Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Basic 模型可无限次生成和优化 AI 视觉效果，适用于快速研究和反复迭代，每条提示词最多支持两张参考图像。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Vectorworks incorpora\nlos modelos Nano Banana",
-          "body": "Los suscriptores de Vectorworks ya pueden renderizar con modelos Nano Banana, con 150 créditos por licencia al mes.",
-          "mini_headline": "Vectorworks incorpora Nano Banana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "Imagen: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "La última versión de AI Visualizer de Vectorworks ofrece dos nuevos modelos, entre ellos Nano Banana de Google, para obtener visuales AI-generated realistas y de alta calidad. Con una suscripción a Vectorworks 2027, ya es posible acceder a los modelos Nano Banana 2 y Nano Banana Pro de Google en la paleta de AI Visualizer."
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2 es ideal para probar conceptos e iterar sobre los visuales a lo largo del proceso de diseño, mientras que Nano Banana Pro ayuda a crear una imagen más detallada para una presentación o entrega importante. Ambos modelos generan y editan imágenes con resolución 2K, pueden escalar a 4K y admiten hasta 14 imágenes de referencia por prompt."
-              },
-              {
-                "t": "p",
-                "x": "Cada licencia de suscripción incluye 150 créditos por mes natural. Nano Banana 2 usa dos créditos por imagen generada o editada y cuatro para escalar a 4K; Nano Banana Pro usa tres y seis. Una vez agotados los 150 créditos mensuales, AI Visualizer cambia automáticamente al modelo Basic, que no consume créditos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "Imagen: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "El modelo Basic permite generar y refinar visuales de AI sin límite para estudios rápidos e iteraciones repetidas, con hasta dos imágenes de referencia por prompt."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Vectorworks에\nNano Banana 탑재",
-          "body": "Vectorworks 구독자는 Nano Banana로 매달 150 크레딧을 쓴다.",
-          "mini_headline": "Vectorworks, Nano Banana 탑재",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "이미지: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Vectorworks AI Visualizer 최신 버전은 고품질의 사실적인 AI-generated 비주얼을 위해 Google Nano Banana를 포함한 새 모델 두 가지를 제공한다. Vectorworks 2027 구독자는 이제 AI Visualizer 팔레트에서 Google의 Nano Banana 2와 Nano Banana Pro 모델을 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2는 디자인 과정 내내 콘셉트를 시험하고 비주얼을 반복 수정하는 데 알맞고, Nano Banana Pro는 중요한 프레젠테이션이나 결과물에 쓸 더 정교한 이미지를 만드는 데 도움이 된다. 두 모델 모두 2K 해상도로 이미지를 생성·편집하고, 4K로 업스케일할 수 있으며, 프롬프트당 최대 14장의 참조 이미지를 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "구독 라이선스마다 매달 150 크레딧이 주어진다. Nano Banana 2는 이미지 한 장을 생성하거나 편집할 때 두 크레딧, 4K 업스케일에 네 크레딧을 쓰고, Nano Banana Pro는 각각 세 크레딧과 여섯 크레딧을 쓴다. 월 150 크레딧을 다 쓰면 AI Visualizer는 크레딧이 필요 없는 Basic 모델로 자동 전환된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "이미지: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Basic 모델은 빠른 스터디와 반복 작업을 위해 AI 비주얼을 제한 없이 생성하고 다듬을 수 있게 하며, 프롬프트당 최대 두 장의 참조 이미지를 지원한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Vectorworksに\nNano Banana搭載",
-          "body": "Vectorworksの契約者はNano Bananaで毎月150クレジットを使える。",
-          "mini_headline": "VectorworksにNano Banana搭載",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "画像: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Vectorworksの AI Visualizer 最新版は、高品質でリアルな AI-generated ビジュアルのため、GoogleのNano Bananaを含む新モデル二つを提供する。Vectorworks 2027 のサブスクリプションがあれば、AI Visualizer パレットでGoogleの Nano Banana 2 と Nano Banana Pro を使える。"
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2 はデザイン過程を通じてコンセプトを試し、ビジュアルを反復するのに向き、Nano Banana Pro は重要なプレゼンテーションや成果物向けにより精細な画像を作るのに役立つ。両モデルとも 2K 解像度で画像を生成・編集し、4K へのアップスケールが可能で、プロンプトごとに最大 14 枚の参照画像に対応する。"
-              },
-              {
-                "t": "p",
-                "x": "各サブスクリプションライセンスには暦月ごとに 150 クレジットが含まれる。Nano Banana 2 は生成または編集した画像一枚につき二クレジット、4K へのアップスケールに四クレジットを使い、Nano Banana Pro はそれぞれ三と六を使う。月 150 クレジットを使い切ると、AI Visualizer はクレジット不要の Basic モデルに自動で切り替わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "画像: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Basic モデルは、素早いスタディや繰り返しの反復のために AI ビジュアルを無制限に生成・調整でき、プロンプトごとに最大二枚の参照画像に対応する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Vectorworks新增\nNano Banana模型",
-          "body": "Vectorworks订阅用户现可用Nano Banana渲染，每个许可证每月150积分。",
-          "mini_headline": "Vectorworks新增Nano Banana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "图片：© Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Vectorworks AI Visualizer 的最新版本提供两款新模型，其中包括 Google 的 Nano Banana，可生成高质量、逼真的 AI-generated 视觉效果。拥有 Vectorworks 2027 订阅的用户，现在可以在 AI Visualizer 面板中使用 Google 的 Nano Banana 2 和 Nano Banana Pro 模型。"
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2 适合在整个设计过程中测试概念、反复迭代视觉效果，而 Nano Banana Pro 则有助于为重要的演示或交付物制作更精细的图像。两款模型均以 2K 分辨率生成和编辑图像，可放大至 4K，每条提示词最多支持 14 张参考图像。"
-              },
-              {
-                "t": "p",
-                "x": "每个订阅许可证每个日历月包含 150 积分。Nano Banana 2 每生成或编辑一张图像消耗两个积分，放大至 4K 消耗四个；Nano Banana Pro 则分别消耗三个和六个。每月 150 积分用完后，AI Visualizer 会自动切换到无需积分的 Basic 模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "图片：© Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "Basic 模型可无限次生成和优化 AI 视觉效果，适用于快速研究和反复迭代，每条提示词最多支持两张参考图像。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Vectorworks incorpora\nlos modelos Nano Banana",
-          "body": "Los suscriptores de Vectorworks ya pueden renderizar con modelos Nano Banana, con 150 créditos por licencia al mes.",
-          "mini_headline": "Vectorworks incorpora Nano Banana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-                "cap": "Imagen: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "La última versión de AI Visualizer de Vectorworks ofrece dos nuevos modelos, entre ellos Nano Banana de Google, para obtener visuales AI-generated realistas y de alta calidad. Con una suscripción a Vectorworks 2027, ya es posible acceder a los modelos Nano Banana 2 y Nano Banana Pro de Google en la paleta de AI Visualizer."
-              },
-              {
-                "t": "p",
-                "x": "Nano Banana 2 es ideal para probar conceptos e iterar sobre los visuales a lo largo del proceso de diseño, mientras que Nano Banana Pro ayuda a crear una imagen más detallada para una presentación o entrega importante. Ambos modelos generan y editan imágenes con resolución 2K, pueden escalar a 4K y admiten hasta 14 imágenes de referencia por prompt."
-              },
-              {
-                "t": "p",
-                "x": "Cada licencia de suscripción incluye 150 créditos por mes natural. Nano Banana 2 usa dos créditos por imagen generada o editada y cuatro para escalar a 4K; Nano Banana Pro usa tres y seis. Una vez agotados los 150 créditos mensuales, AI Visualizer cambia automáticamente al modelo Basic, que no consume créditos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
-                "cap": "Imagen: © Vectorworks"
-              },
-              {
-                "t": "p",
-                "x": "El modelo Basic permite generar y refinar visuales de AI sin límite para estudios rápidos e iteraciones repetidas, con hasta dos imágenes de referencia por prompt."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ai-time-savings",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 아껴준 디자이너의\n시간은 어디로 가나",
-      "body": "UX 실무자 521명 설문으로 AI가 아낀 시간의 행방과 지키는 법을 짚는다.",
-      "mini_headline": "AI가 아낀 시간 지키기",
+      "headline": "Canva AI에 디자인\n편집 모델 Brush 탑재",
+      "body": "Brush를 단 Canva AI의 Pro 편집이 최대 69% 빠르고 46% 싸졌다.",
+      "mini_headline": "디자인 편집하는 Canva Brush",
       "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
+      "source": "Canva Newsroom",
+      "url": "https://www.canva.com/newsroom/news/canva-brush/",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -1447,203 +431,269 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-            "cap": "사진: cottonbro studio"
+            "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
           },
           {
             "t": "p",
-            "x": "일은 그 어느 때보다 빨라졌는데 하루는 조금도 짧아지지 않았다. Nielsen Norman Group이 UX 실무자 521명을 설문한 결과를 최근 내놨다. 응답자들은 AI가 작업 시간에 주는 효과를 5점 만점에 4.2점으로 매겼다. 그런데 직장에서 AI를 어떻게 느끼는지 묻자 평균은 5점 만점에 3.57점에 그쳤다."
+            "x": "Canva Research가 만든 디자인용 새 시각-언어 모델 Canva Brush를 오늘 공개한다. Brush는 디자인을 보고 구성을 파악한 뒤, 문구 한 줄이든 덱 전체 슬라이드든 요청한 대로 고친다. 첫 이미지 생성 모델 Canva Craft를 내놓은 지 일주일 만이다. 두 모델 모두 160명 규모의 AI 연구소 Canva Research가 개발했다."
+          },
+          {
+            "t": "p",
+            "x": "출시 시점 기준으로 일반 디자인 편집은 Canva의 이전 디자인 에이전트보다 최대 69% 빠르고, 편집 작업당 비용은 46% 낮다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+            "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
           },
           {
             "t": "p",
-            "x": "의견의 69%에는 어느 정도 부정적인 정서가 묻어났다. 믿기 어려운 결과물과 그걸 검증하는 부담이 그 중심에 있었다. NN/g는 AI가 아껴준 시간이 그 시간을 아낀 사람에게 남는 일은 드물다고 결론 내렸다. Kai Wong은 이를 Jevons 역설, 그리고 Peter Merholz가 말한 “가독성 격차(legibility gap)”와 잇는다. 화면 뒤에서 하는 리서치와 반복 작업, AI-checking은 원래 눈에 띄지 않는다는 얘기다."
+            "x": "Brush 내부에서는 에이전트 루프가 돈다. 코드를 짜고 실행해 디자인 요소를 조정하고, 페이지에서 벌어지는 일을 보고 다음 단계를 정한다. 결과물은 모두 자유롭게 편집할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
           },
           {
             "t": "p",
-            "x": "B2B 보안 기업의 한 Head of Design은 Claude Code 덕분에 나흘 걸리던 Figma-to-code 작업이 약 여덟 시간으로 줄었다고 한다. 다만 “결과물은 여전히 똑같은 수준으로 꼼꼼히 검토해야 한다”고 덧붙인다."
+            "x": "Brush는 선도적인 오픈 웨이트 모델을 바탕으로 실제 디자인·편집 작업에 맞춰 사후 학습하고 대규모 강화학습을 더했다. 보상 시스템은 시각 품질과 레이아웃, 작업을 끝냈는지를 본다."
+          },
+          {
+            "t": "img",
+            "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
           },
           {
             "t": "p",
-            "x": "그의 조언은 “모든 것의 시간을 재라(Time everything)”다. 절감 전후 시간을 기록하고, 검증할 시간은 처음부터 떼어 두고, 보이지 않는 검토는 눈에 보이는 의사결정 문서로 남기고, 시간이 어디에 쓰였는지는 적극적으로 알리라는 것이다."
+            "x": "Brush는 오늘부터 Canva Pro 요금제 사용자에게 Canva AI가 지원하는 디자인 편집을 맡고, 곧 대상을 넓힌다. Brand Kit 지원과 첨부 파일 참조 기능도 준비하고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Where the time AI saves\ndesigners actually goes",
-          "body": "A survey of 521 UX professionals shows where AI's time savings go, and the piece explains how to keep them.",
-          "mini_headline": "Keeping AI's saved time",
+          "headline": "Canva Brush brings a design\nediting model to Canva AI",
+          "body": "Canva Brush, trained on real design edits, now powers Pro edits in Canva AI up to 69% faster and 46% cheaper.",
+          "mini_headline": "Canva Brush edits designs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "Photo by cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "You're faster than ever, and your days aren't any shorter. The Nielsen Norman Group just published a survey of 521 UX practitioners: respondents rated AI's effect on task time at 4.2 out of 5, yet when asked how they felt about AI at work, the average was only 3.57 out of 5."
+                "x": "Today, we’re unveiling Canva Brush, a new vision-language model for design, built by Canva Research. Brush sees your design, understands how it’s put together, and makes the changes you ask for, from a single line of copy to every slide in a deck. It arrives a week after our first image-generation model, Canva Craft; both were developed by Canva Research, our 160-person AI lab."
+              },
+              {
+                "t": "p",
+                "x": "As of today’s launch, it’s up to 69% faster for general design editing tasks and 46% lower cost per edit task compared to Canva's previous design agent."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "69% of the comments expressed some negative sentiment, led by unreliable output and the burden of checking it. NN/g's conclusion was that the time AI saves rarely stays with the person who saved it. Kai Wong ties this to the Jevons paradox and to Peter Merholz's “legibility gap”: the research, iteration and AI-checking behind screens is invisible by default."
+                "x": "Behind the scenes, Brush uses an agentic loop that writes and runs code to adjust design elements, then inspects what’s happening on the page to guide its next step. Everything it creates is fully editable."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "A Head of Design at a B2B security company says Claude Code cut a four-day Figma-to-code process to about eight hours, yet “you still have to scrutinize the outputs to the same degree.”"
+                "x": "Brush started from a leading open-weights model, post-trained on real design and editing tasks and combined with large-scale reinforcement learning, with a reward system judging visual quality, layout and task completion."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "His advice: “Time everything.” Track before-and-after savings, claim validation time up front, turn invisible scrutiny into a visible decision document, and pitch where your time went."
+                "x": "Starting today, Brush is powering supported design edits in Canva AI for people on Canva Pro plans, with wider availability coming soon. Brand Kit support and attachment references are in the works."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 아껴준 디자이너의\n시간은 어디로 가나",
-          "body": "UX 실무자 521명 설문으로 AI가 아낀 시간의 행방과 지키는 법을 짚는다.",
-          "mini_headline": "AI가 아낀 시간 지키기",
+          "headline": "Canva AI에 디자인\n편집 모델 Brush 탑재",
+          "body": "Brush를 단 Canva AI의 Pro 편집이 최대 69% 빠르고 46% 싸졌다.",
+          "mini_headline": "디자인 편집하는 Canva Brush",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "사진: cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "일은 그 어느 때보다 빨라졌는데 하루는 조금도 짧아지지 않았다. Nielsen Norman Group이 UX 실무자 521명을 설문한 결과를 최근 내놨다. 응답자들은 AI가 작업 시간에 주는 효과를 5점 만점에 4.2점으로 매겼다. 그런데 직장에서 AI를 어떻게 느끼는지 묻자 평균은 5점 만점에 3.57점에 그쳤다."
+                "x": "Canva Research가 만든 디자인용 새 시각-언어 모델 Canva Brush를 오늘 공개한다. Brush는 디자인을 보고 구성을 파악한 뒤, 문구 한 줄이든 덱 전체 슬라이드든 요청한 대로 고친다. 첫 이미지 생성 모델 Canva Craft를 내놓은 지 일주일 만이다. 두 모델 모두 160명 규모의 AI 연구소 Canva Research가 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "출시 시점 기준으로 일반 디자인 편집은 Canva의 이전 디자인 에이전트보다 최대 69% 빠르고, 편집 작업당 비용은 46% 낮다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "의견의 69%에는 어느 정도 부정적인 정서가 묻어났다. 믿기 어려운 결과물과 그걸 검증하는 부담이 그 중심에 있었다. NN/g는 AI가 아껴준 시간이 그 시간을 아낀 사람에게 남는 일은 드물다고 결론 내렸다. Kai Wong은 이를 Jevons 역설, 그리고 Peter Merholz가 말한 “가독성 격차(legibility gap)”와 잇는다. 화면 뒤에서 하는 리서치와 반복 작업, AI-checking은 원래 눈에 띄지 않는다는 얘기다."
+                "x": "Brush 내부에서는 에이전트 루프가 돈다. 코드를 짜고 실행해 디자인 요소를 조정하고, 페이지에서 벌어지는 일을 보고 다음 단계를 정한다. 결과물은 모두 자유롭게 편집할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "B2B 보안 기업의 한 Head of Design은 Claude Code 덕분에 나흘 걸리던 Figma-to-code 작업이 약 여덟 시간으로 줄었다고 한다. 다만 “결과물은 여전히 똑같은 수준으로 꼼꼼히 검토해야 한다”고 덧붙인다."
+                "x": "Brush는 선도적인 오픈 웨이트 모델을 바탕으로 실제 디자인·편집 작업에 맞춰 사후 학습하고 대규모 강화학습을 더했다. 보상 시스템은 시각 품질과 레이아웃, 작업을 끝냈는지를 본다."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "그의 조언은 “모든 것의 시간을 재라(Time everything)”다. 절감 전후 시간을 기록하고, 검증할 시간은 처음부터 떼어 두고, 보이지 않는 검토는 눈에 보이는 의사결정 문서로 남기고, 시간이 어디에 쓰였는지는 적극적으로 알리라는 것이다."
+                "x": "Brush는 오늘부터 Canva Pro 요금제 사용자에게 Canva AI가 지원하는 디자인 편집을 맡고, 곧 대상을 넓힌다. Brand Kit 지원과 첨부 파일 참조 기능도 준비하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで浮いたデザイナーの時間\n実際はどこへ行くのか",
-          "body": "UX専門家521人の調査から、AIで浮いた時間の行方と、それを守る方法を解説する。",
-          "mini_headline": "AIで浮いた時間を守る",
+          "headline": "Canva AIにデザイン\n編集モデルBrushが登場",
+          "body": "Canva BrushでCanva AIのPro編集が最大69%速く、46%安くなった。",
+          "mini_headline": "デザインを編集するCanva Brush",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "写真: cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "仕事はかつてなく速くなったのに、一日は少しも短くならない。Nielsen Norman GroupがUX実務者521人を対象にした調査を発表した。回答者はAIが作業時間に与える効果を5点満点中4.2と評価したが、職場でのAIをどう感じるかという問いへの平均は5点満点中3.57にとどまった。"
+                "x": "本日、Canva Researchが開発したデザイン向けの新しい視覚言語モデル、Canva Brushを発表する。Brushはデザインを見て、その構成を理解し、コピー1行からデッキの全スライドまで、求められた変更を加える。初の画像生成モデルCanva Craftの1週間後の登場で、どちらも160人規模のAIラボであるCanva Researchが開発した。"
+              },
+              {
+                "t": "p",
+                "x": "本日のリリース時点で、Canvaの従来のデザインエージェントと比べ、一般的なデザイン編集タスクは最大69%速く、編集タスクあたりのコストは46%低い。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "コメントの69%には何らかの否定的な感情が表れており、その筆頭は出力の信頼性の低さと、それを確認する負担だった。NN/gの結論は、AIが節約した時間は、節約した本人の手元にはめったに残らないというものだ。Kai Wongはこれを、Jevonsのパラドックスや、Peter Merholzの言う「可読性のギャップ（legibility gap）」と結びつける。画面の裏にあるリサーチや反復、AI-checkingは、初期状態では見えないのだ。"
+                "x": "裏側では、Brushはコードを書いて実行しデザイン要素を調整するエージェント型ループを使い、ページ上で起きていることを確認して次の手順を決める。生成したものはすべて完全に編集できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "B2Bセキュリティ企業のHead of Designは、Claude CodeによってFigma-to-codeの工程が四日間から約八時間に縮んだが、それでも「出力は同じ程度に精査しなければならない」と話す。"
+                "x": "Brushは有力なオープンウェイトモデルを出発点に、実際のデザインと編集のタスクでポストトレーニングし、大規模な強化学習を組み合わせた。報酬システムが視覚的な品質、レイアウト、タスクの完了度を判定する。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "彼の助言は「すべての時間を計れ（Time everything）」だ。前後の節約時間を記録し、検証にかかる時間を最初に確保し、見えない精査を目に見える意思決定文書に変え、自分の時間がどこに使われたかを売り込むべきだという。"
+                "x": "本日から、BrushはCanva Proプランの利用者向けにCanva AIで対応するデザイン編集を担い、近く提供範囲を広げる。Brand Kitへの対応と添付ファイルの参照機能も開発中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI为设计师省下的时间\n究竟去了哪里",
-          "body": "一项针对521名UX从业者的调查揭示AI省下的时间去向，并探讨如何守住它。",
-          "mini_headline": "守住AI省下的时间",
+          "headline": "Canva AI迎来\n设计编辑模型Brush",
+          "body": "Canva Brush让Canva AI的Pro编辑最多提速69%，成本降低46%。",
+          "mini_headline": "会编辑设计的Canva Brush",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "摄影：cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "你的速度前所未有地快，可你的一天并没有变短。Nielsen Norman Group刚刚发布了一项针对521名UX从业者的调查：受访者给AI对任务耗时的影响打出4.2分（满分5分），但被问及在工作中对AI的感受时，平均分只有3.57分（满分5分）。"
+                "x": "今天，我们发布 Canva Brush，这是由 Canva Research 打造的全新设计视觉语言模型。Brush 能看懂你的设计，理解其构成方式，并按你的要求进行修改，从一行文案到演示文稿中的每一张幻灯片都可以。它在我们首个图像生成模型 Canva Craft 推出一周后亮相；两者均由我们拥有 160 人的 AI 实验室 Canva Research 开发。"
+              },
+              {
+                "t": "p",
+                "x": "截至今天发布时，与 Canva 此前的设计智能体相比，它在一般设计编辑任务上最多快 69%，每项编辑任务的成本低 46%。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "69%的评论流露出某种负面情绪，主要源于输出不可靠以及核查输出的负担。NN/g的结论是，AI节省下来的时间很少留在节省时间的人手里。Kai Wong将此与Jevons悖论以及Peter Merholz提出的“可读性鸿沟”（legibility gap）联系起来：屏幕背后的研究、迭代和AI-checking默认是看不见的。"
+                "x": "在幕后，Brush 采用智能体循环，编写并运行代码来调整设计元素，再检查页面上的变化以决定下一步。它生成的一切都可以完全编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "一家B2B安全公司的Head of Design表示，Claude Code把原本需要四天的Figma-to-code流程缩短到约八小时，但“你仍然得以同样的力度仔细审查输出”。"
+                "x": "Brush 以一款领先的开放权重模型为起点，在真实的设计与编辑任务上进行后训练，并结合大规模强化学习，由奖励系统评判视觉质量、布局和任务完成度。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "他的建议是：“Time everything（一切都要计时）。”记录节省前后的时间，事先把验证时间算进去，把看不见的审查变成看得见的决策文档，并主动说明你的时间花在了哪里。"
+                "x": "从今天起，Brush 为 Canva Pro 方案用户提供 Canva AI 中受支持的设计编辑，更大范围的开放即将到来。Brand Kit 支持和附件参考功能正在开发中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adónde va el tiempo que la AI\nahorra a los diseñadores",
-          "body": "Una encuesta a 521 profesionales de UX muestra adónde va el tiempo que ahorra la AI y el texto explica cómo conservarlo.",
-          "mini_headline": "Conservar el tiempo que ahorra la AI",
+          "headline": "Canva Brush suma a Canva AI\nun modelo de edición de diseño",
+          "body": "Canva Brush, entrenado con ediciones reales, acelera hasta un 69% y abarata hasta un 46% la edición Pro en Canva AI.",
+          "mini_headline": "Canva Brush edita diseños",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "Foto de cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "Trabajas más rápido que nunca, y tus días no son más cortos. El Nielsen Norman Group acaba de publicar una encuesta a 521 profesionales de UX: los encuestados calificaron el efecto de la AI en el tiempo de las tareas con 4.2 sobre 5, pero al preguntarles cómo se sentían respecto a la AI en el trabajo, la media fue de solo 3.57 sobre 5."
+                "x": "Hoy presentamos Canva Brush, un nuevo modelo de visión y lenguaje para diseño creado por Canva Research. Brush ve tu diseño, entiende cómo está construido y aplica los cambios que pides, desde una sola línea de texto hasta todas las diapositivas de una presentación. Llega una semana después de nuestro primer modelo de generación de imágenes, Canva Craft; ambos los desarrolló Canva Research, nuestro laboratorio de IA de 160 personas."
+              },
+              {
+                "t": "p",
+                "x": "Desde el lanzamiento de hoy, es hasta un 69% más rápido en tareas generales de edición de diseño y cuesta un 46% menos por tarea de edición que el anterior agente de diseño de Canva."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "El 69% de los comentarios expresó algún sentimiento negativo, encabezado por la falta de fiabilidad de los resultados y la carga de verificarlos. La conclusión de NN/g fue que el tiempo que ahorra la AI rara vez se queda con quien lo ahorró. Kai Wong relaciona esto con la paradoja de Jevons y con la “brecha de legibilidad” (legibility gap) de Peter Merholz: la investigación, la iteración y el AI-checking que hay detrás de las pantallas son invisibles por defecto."
+                "x": "Internamente, Brush usa un bucle agéntico que escribe y ejecuta código para ajustar los elementos del diseño y luego revisa lo que ocurre en la página para decidir el siguiente paso. Todo lo que crea es totalmente editable."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "Un Head of Design de una empresa de seguridad B2B cuenta que Claude Code redujo un proceso Figma-to-code de cuatro días a unas ocho horas, pero que “hay que seguir examinando los resultados con el mismo rigor”."
+                "x": "Brush partió de un modelo de pesos abiertos líder, posentrenado con tareas reales de diseño y edición y combinado con aprendizaje por refuerzo a gran escala, con un sistema de recompensas que evalúa la calidad visual, la maquetación y la finalización de la tarea."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "Su consejo: “Mídelo todo” (Time everything). Registrar el ahorro de tiempo antes y después, reservar desde el principio el tiempo de validación, convertir el escrutinio invisible en un documento de decisiones visible y explicar adónde se fue el tiempo."
+                "x": "Desde hoy, Brush impulsa las ediciones de diseño compatibles en Canva AI para los usuarios de los planes Canva Pro, y pronto llegará a más usuarios. El soporte para Brand Kit y las referencias a archivos adjuntos están en desarrollo."
               }
             ]
           }
@@ -1651,141 +701,1391 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 아껴준 디자이너의\n시간은 어디로 가나",
-          "body": "UX 실무자 521명 설문으로 AI가 아낀 시간의 행방과 지키는 법을 짚는다.",
-          "mini_headline": "AI가 아낀 시간 지키기",
+          "headline": "Canva AI에 디자인\n편집 모델 Brush 탑재",
+          "body": "Canva AI의 Pro 편집이 Brush로 최대 69% 빠르고 46% 싸졌다.",
+          "mini_headline": "디자인 편집하는 Canva Brush",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "사진: cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "일하는 속도는 그 어느 때보다 빨라졌는데, 하루는 조금도 짧아지지 않았다. Nielsen Norman Group이 최근 UX 실무자 521명을 대상으로 한 설문 결과를 발표했다. 응답자들은 AI가 작업 시간에 미치는 효과를 5점 만점에 4.2점으로 평가했지만, 직장에서 AI를 어떻게 느끼는지 묻자 평균은 5점 만점에 3.57점에 그쳤다."
+                "x": "오늘 Canva Research가 만든 디자인용 새 시각-언어 모델 Canva Brush를 공개한다. Brush는 디자인을 보고 어떻게 구성됐는지 이해한 뒤, 문구 한 줄부터 덱의 모든 슬라이드까지 요청한 변경을 적용한다. 첫 이미지 생성 모델 Canva Craft를 내놓은 지 일주일 만이며, 두 모델 모두 160명 규모의 AI 연구소 Canva Research가 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 출시 기준으로 Canva의 이전 디자인 에이전트보다 일반 디자인 편집 작업이 최대 69% 빠르고, 편집 작업당 비용은 46% 낮다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "의견의 69%는 어느 정도 부정적인 정서를 드러냈고, 그 중심에는 신뢰하기 어려운 결과물과 이를 검증하는 부담이 있었다. NN/g의 결론은 AI가 아껴준 시간이 그것을 아낀 사람에게 남는 경우가 드물다는 것이었다. Kai Wong은 이를 Jevons 역설, 그리고 Peter Merholz가 말한 “가독성 격차(legibility gap)”와 연결한다. 화면 뒤의 리서치, 반복 작업, AI-checking은 기본적으로 보이지 않는다는 것이다."
+                "x": "Brush는 내부적으로 코드를 작성하고 실행해 디자인 요소를 조정하는 에이전트 루프를 쓰고, 페이지에서 일어나는 일을 살펴 다음 단계를 정한다. 만든 결과물은 모두 자유롭게 편집할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "B2B 보안 기업의 Head of Design은 Claude Code 덕분에 나흘 걸리던 Figma-to-code 과정이 약 여덟 시간으로 줄었지만, “결과물은 여전히 똑같은 수준으로 꼼꼼히 검토해야 한다”고 말한다."
+                "x": "Brush는 선도적인 오픈 웨이트 모델에서 출발해 실제 디자인·편집 작업으로 사후 학습했고, 대규모 강화학습을 결합했다. 보상 시스템은 시각적 품질, 레이아웃, 작업 완수 여부를 평가한다."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "그의 조언은 “모든 것의 시간을 재라(Time everything)”는 것이다. 절감 전후의 시간을 기록하고, 검증에 드는 시간을 처음부터 확보하고, 보이지 않는 검토를 눈에 보이는 의사결정 문서로 바꾸고, 시간이 어디에 쓰였는지 적극적으로 알리라는 것이다."
+                "x": "오늘부터 Brush는 Canva Pro 요금제 사용자를 대상으로 Canva AI에서 지원되는 디자인 편집을 맡으며, 곧 더 넓게 제공될 예정이다. Brand Kit 지원과 첨부 파일 참조 기능도 준비 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで浮いたデザイナーの時間\n実際はどこへ行くのか",
-          "body": "UX専門家521人の調査から、AIで浮いた時間の行方と、それを守る方法を解説する。",
-          "mini_headline": "AIで浮いた時間を守る",
+          "headline": "Canva AIにデザイン\n編集モデルBrushが登場",
+          "body": "Canva BrushでCanva AIのPro編集が最大69%速く、46%安くなった。",
+          "mini_headline": "デザインを編集するCanva Brush",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "写真: cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "仕事はかつてなく速くなったのに、一日は少しも短くならない。Nielsen Norman GroupがUX実務者521人を対象にした調査を発表した。回答者はAIが作業時間に与える効果を5点満点中4.2と評価したが、職場でのAIをどう感じるかという問いへの平均は5点満点中3.57にとどまった。"
+                "x": "本日、Canva Researchが開発したデザイン向けの新しい視覚言語モデル、Canva Brushを発表する。Brushはデザインを見て、その構成を理解し、コピー1行からデッキの全スライドまで、求められた変更を加える。初の画像生成モデルCanva Craftの1週間後の登場で、どちらも160人規模のAIラボであるCanva Researchが開発した。"
+              },
+              {
+                "t": "p",
+                "x": "本日のリリース時点で、Canvaの従来のデザインエージェントと比べ、一般的なデザイン編集タスクは最大69%速く、編集タスクあたりのコストは46%低い。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "コメントの69%には何らかの否定的な感情が表れており、その筆頭は出力の信頼性の低さと、それを確認する負担だった。NN/gの結論は、AIが節約した時間は、節約した本人の手元にはめったに残らないというものだ。Kai Wongはこれを、Jevonsのパラドックスや、Peter Merholzの言う「可読性のギャップ（legibility gap）」と結びつける。画面の裏にあるリサーチや反復、AI-checkingは、初期状態では見えないのだ。"
+                "x": "裏側では、Brushはコードを書いて実行しデザイン要素を調整するエージェント型ループを使い、ページ上で起きていることを確認して次の手順を決める。生成したものはすべて完全に編集できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "B2Bセキュリティ企業のHead of Designは、Claude CodeによってFigma-to-codeの工程が四日間から約八時間に縮んだが、それでも「出力は同じ程度に精査しなければならない」と話す。"
+                "x": "Brushは有力なオープンウェイトモデルを出発点に、実際のデザインと編集のタスクでポストトレーニングし、大規模な強化学習を組み合わせた。報酬システムが視覚的な品質、レイアウト、タスクの完了度を判定する。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "彼の助言は「すべての時間を計れ（Time everything）」だ。前後の節約時間を記録し、検証にかかる時間を最初に確保し、見えない精査を目に見える意思決定文書に変え、自分の時間がどこに使われたかを売り込むべきだという。"
+                "x": "本日から、BrushはCanva Proプランの利用者向けにCanva AIで対応するデザイン編集を担い、近く提供範囲を広げる。Brand Kitへの対応と添付ファイルの参照機能も開発中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI为设计师省下的时间\n究竟去了哪里",
-          "body": "一项针对521名UX从业者的调查揭示AI省下的时间去向，并探讨如何守住它。",
-          "mini_headline": "守住AI省下的时间",
+          "headline": "Canva AI迎来\n设计编辑模型Brush",
+          "body": "Canva Brush让Canva AI的Pro编辑最多提速69%，成本降低46%。",
+          "mini_headline": "会编辑设计的Canva Brush",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "摄影：cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "你的速度前所未有地快，可你的一天并没有变短。Nielsen Norman Group刚刚发布了一项针对521名UX从业者的调查：受访者给AI对任务耗时的影响打出4.2分（满分5分），但被问及在工作中对AI的感受时，平均分只有3.57分（满分5分）。"
+                "x": "今天，我们发布 Canva Brush，这是由 Canva Research 打造的全新设计视觉语言模型。Brush 能看懂你的设计，理解其构成方式，并按你的要求进行修改，从一行文案到演示文稿中的每一张幻灯片都可以。它在我们首个图像生成模型 Canva Craft 推出一周后亮相；两者均由我们拥有 160 人的 AI 实验室 Canva Research 开发。"
+              },
+              {
+                "t": "p",
+                "x": "截至今天发布时，与 Canva 此前的设计智能体相比，它在一般设计编辑任务上最多快 69%，每项编辑任务的成本低 46%。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "69%的评论流露出某种负面情绪，主要源于输出不可靠以及核查输出的负担。NN/g的结论是，AI节省下来的时间很少留在节省时间的人手里。Kai Wong将此与Jevons悖论以及Peter Merholz提出的“可读性鸿沟”（legibility gap）联系起来：屏幕背后的研究、迭代和AI-checking默认是看不见的。"
+                "x": "在幕后，Brush 采用智能体循环，编写并运行代码来调整设计元素，再检查页面上的变化以决定下一步。它生成的一切都可以完全编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "一家B2B安全公司的Head of Design表示，Claude Code把原本需要四天的Figma-to-code流程缩短到约八小时，但“你仍然得以同样的力度仔细审查输出”。"
+                "x": "Brush 以一款领先的开放权重模型为起点，在真实的设计与编辑任务上进行后训练，并结合大规模强化学习，由奖励系统评判视觉质量、布局和任务完成度。"
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "他的建议是：“Time everything（一切都要计时）。”记录节省前后的时间，事先把验证时间算进去，把看不见的审查变成看得见的决策文档，并主动说明你的时间花在了哪里。"
+                "x": "从今天起，Brush 为 Canva Pro 方案用户提供 Canva AI 中受支持的设计编辑，更大范围的开放即将到来。Brand Kit 支持和附件参考功能正在开发中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adónde va el tiempo que la AI\nahorra a los diseñadores",
-          "body": "Una encuesta a 521 profesionales de UX muestra adónde va el tiempo que ahorra la AI y el texto explica cómo conservarlo.",
-          "mini_headline": "Conservar el tiempo que ahorra la AI",
+          "headline": "Canva Brush suma a Canva AI\nun modelo de edición de diseño",
+          "body": "Canva Brush, entrenado con ediciones reales, acelera hasta un 69% y abarata hasta un 46% la edición Pro en Canva AI.",
+          "mini_headline": "Canva Brush edita diseños",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-                "cap": "Foto de cottonbro studio"
+                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
               },
               {
                 "t": "p",
-                "x": "Trabajas más rápido que nunca, y tus días no son más cortos. El Nielsen Norman Group acaba de publicar una encuesta a 521 profesionales de UX: los encuestados calificaron el efecto de la AI en el tiempo de las tareas con 4.2 sobre 5, pero al preguntarles cómo se sentían respecto a la AI en el trabajo, la media fue de solo 3.57 sobre 5."
+                "x": "Hoy presentamos Canva Brush, un nuevo modelo de visión y lenguaje para diseño creado por Canva Research. Brush ve tu diseño, entiende cómo está construido y aplica los cambios que pides, desde una sola línea de texto hasta todas las diapositivas de una presentación. Llega una semana después de nuestro primer modelo de generación de imágenes, Canva Craft; ambos los desarrolló Canva Research, nuestro laboratorio de IA de 160 personas."
+              },
+              {
+                "t": "p",
+                "x": "Desde el lanzamiento de hoy, es hasta un 69% más rápido en tareas generales de edición de diseño y cuesta un 46% menos por tarea de edición que el anterior agente de diseño de Canva."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
               },
               {
                 "t": "p",
-                "x": "El 69% de los comentarios expresó algún sentimiento negativo, encabezado por la falta de fiabilidad de los resultados y la carga de verificarlos. La conclusión de NN/g fue que el tiempo que ahorra la AI rara vez se queda con quien lo ahorró. Kai Wong relaciona esto con la paradoja de Jevons y con la “brecha de legibilidad” (legibility gap) de Peter Merholz: la investigación, la iteración y el AI-checking que hay detrás de las pantallas son invisibles por defecto."
+                "x": "Internamente, Brush usa un bucle agéntico que escribe y ejecuta código para ajustar los elementos del diseño y luego revisa lo que ocurre en la página para decidir el siguiente paso. Todo lo que crea es totalmente editable."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
               },
               {
                 "t": "p",
-                "x": "Un Head of Design de una empresa de seguridad B2B cuenta que Claude Code redujo un proceso Figma-to-code de cuatro días a unas ocho horas, pero que “hay que seguir examinando los resultados con el mismo rigor”."
+                "x": "Brush partió de un modelo de pesos abiertos líder, posentrenado con tareas reales de diseño y edición y combinado con aprendizaje por refuerzo a gran escala, con un sistema de recompensas que evalúa la calidad visual, la maquetación y la finalización de la tarea."
+              },
+              {
+                "t": "img",
+                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
               },
               {
                 "t": "p",
-                "x": "Su consejo: “Mídelo todo” (Time everything). Registrar el ahorro de tiempo antes y después, reservar desde el principio el tiempo de validación, convertir el escrutinio invisible en un documento de decisiones visible y explicar adónde se fue el tiempo."
+                "x": "Desde hoy, Brush impulsa las ediciones de diseño compatibles en Canva AI para los usuarios de los planes Canva Pro, y pronto llegará a más usuarios. El soporte para Brand Kit y las referencias a archivos adjuntos están en desarrollo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "snaptrude-bim-agent",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Snaptrude 에이전트\n구상부터 시공 도면까지",
+      "body": "구상·BIM 모델링에서 MEP·시공 문서까지 Snaptrude 에이전트가 맡는다.",
+      "mini_headline": "Snaptrude의 BIM 에이전트",
+      "tool": "Text-to-CAD",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Snaptrude가 자사 BIM 플랫폼에 AI 에이전트 Snaptrude Agent를 내놨다. 초기 콘셉트 검토에서 구조, 기계·전기·배관(MEP), 도면까지 담은 시공 수준 LoD 400 모델에 이르기까지 팀 작업을 돕는다. 사용자가 프롬프트나 문제를 던지면 에이전트가 계획을 내놓고, 사용자는 검토해 승인하거나 추가로 지시한다."
+          },
+          {
+            "t": "p",
+            "x": "대지 분석 결과로 매스 대안을 몇 개에서 수백 개까지 만든다. 회사 설명으로는 매스 모델을 몇 분 만에 상세한 LoD 400 BIM 모델로 바꿀 수 있다. 라이브러리에 없는 부재는 사용자가 제조사 사양서를 넣어 주면 된다."
+          },
+          {
+            "t": "p",
+            "x": "구조·MEP 파라메트릭 모델링도 지원하고, 회사 기준에 맞춘 시공 도면 세트도 만든다. 모델은 기존 패밀리를 그대로 둔 채 Revit으로 옮길 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+          },
+          {
+            "t": "p",
+            "x": "빈 대지에서 프로젝트를 시작해도 되고, Revit, Rhino, SketchUp에서 가져온 기존 모델을 써도 된다. 신규 설계와 진행 중인 프로젝트 모두에 에이전트를 쓸 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Snaptrude's AI agent spans\nconcept to construction docs",
+          "body": "Snaptrude's new agent covers architecture from concept and BIM modelling through MEP and construction documents.",
+          "mini_headline": "Snaptrude's BIM agent",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Snaptrude has introduced Snaptrude Agent, an AI agent for its BIM platform designed to support teams from early concept studies to construction-ready LoD 400 models incorporating structure, mechanical, electrical and plumbing (MEP), and drawings. Users give the Agent a prompt or problem, review its proposed plan, then approve it or provide further direction."
+              },
+              {
+                "t": "p",
+                "x": "It can generate multiple massing options from a site analysis, ranging from a handful of alternatives to hundreds. The company says the Agent can convert massing models into detailed LoD 400 BIM models in minutes; for components not in existing libraries, users can supply vendor specification sheets."
+              },
+              {
+                "t": "p",
+                "x": "The Agent also supports structural and MEP parametric modelling and can generate construction drawing sets to a firm’s standards. Models can be transferred to Revit with existing families retained."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Projects can start from an empty site or use existing models imported from Revit, Rhino or SketchUp, so teams can apply the Agent to both new design work and projects already in progress."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Snaptrude 에이전트\n구상부터 시공 도면까지",
+          "body": "구상·BIM 모델링에서 MEP·시공 문서까지 Snaptrude 에이전트가 맡는다.",
+          "mini_headline": "Snaptrude의 BIM 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Snaptrude가 자사 BIM 플랫폼에 AI 에이전트 Snaptrude Agent를 내놨다. 초기 콘셉트 검토에서 구조, 기계·전기·배관(MEP), 도면까지 담은 시공 수준 LoD 400 모델에 이르기까지 팀 작업을 돕는다. 사용자가 프롬프트나 문제를 던지면 에이전트가 계획을 내놓고, 사용자는 검토해 승인하거나 추가로 지시한다."
+              },
+              {
+                "t": "p",
+                "x": "대지 분석 결과로 매스 대안을 몇 개에서 수백 개까지 만든다. 회사 설명으로는 매스 모델을 몇 분 만에 상세한 LoD 400 BIM 모델로 바꿀 수 있다. 라이브러리에 없는 부재는 사용자가 제조사 사양서를 넣어 주면 된다."
+              },
+              {
+                "t": "p",
+                "x": "구조·MEP 파라메트릭 모델링도 지원하고, 회사 기준에 맞춘 시공 도면 세트도 만든다. 모델은 기존 패밀리를 그대로 둔 채 Revit으로 옮길 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "빈 대지에서 프로젝트를 시작해도 되고, Revit, Rhino, SketchUp에서 가져온 기존 모델을 써도 된다. 신규 설계와 진행 중인 프로젝트 모두에 에이전트를 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "SnaptrudeのAIが\n構想から施工図書まで",
+          "body": "Snaptrudeの新エージェントは構想とBIMモデリングからMEP、施工図書までを担う。",
+          "mini_headline": "SnaptrudeのBIMエージェント",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "SnaptrudeはBIMプラットフォーム向けのAIエージェント「Snaptrude Agent」を発表した。初期の構想検討から、構造、機械・電気・配管（MEP）、図面を含む施工レベルのLoD 400モデルまでチームを支援する設計だ。ユーザーがプロンプトや課題を与えると、エージェントが計画を提案し、ユーザーはそれを確認して承認するか、追加の指示を出す。"
+              },
+              {
+                "t": "p",
+                "x": "敷地分析から複数のボリューム案を生成でき、その数は数案から数百案に及ぶ。同社によれば、エージェントはボリュームモデルを数分で詳細なLoD 400 BIMモデルに変換できる。既存ライブラリにない部材は、ユーザーがメーカーの仕様書を提供すればよい。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントは構造とMEPのパラメトリックモデリングにも対応し、事務所の基準に沿った施工図一式を生成できる。モデルは既存のファミリーを保持したままRevitに移行できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "プロジェクトは空の敷地から始めることも、Revit、Rhino、SketchUpから読み込んだ既存モデルを使うこともできるため、新規の設計作業にも進行中のプロジェクトにもエージェントを適用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Snaptrude智能体\n从概念直通施工文档",
+          "body": "Snaptrude新智能体覆盖从概念、BIM建模到MEP和施工文档的建筑设计全流程。",
+          "mini_headline": "Snaptrude的BIM智能体",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Snaptrude 推出了 Snaptrude Agent，这是面向其 BIM 平台的 AI 智能体，旨在支持团队从早期概念研究一直推进到包含结构、机械电气管道（MEP）和图纸的可施工 LoD 400 模型。用户向智能体提出提示或问题，审阅其提出的方案，然后批准或给出进一步指示。"
+              },
+              {
+                "t": "p",
+                "x": "它可以根据场地分析生成多种体块方案，数量从几个到数百个不等。公司表示，智能体能在几分钟内把体块模型转换为详细的 LoD 400 BIM 模型；对于现有库中没有的构件，用户可以提供厂商规格表。"
+              },
+              {
+                "t": "p",
+                "x": "智能体还支持结构和 MEP 参数化建模，并能按照事务所的标准生成施工图纸集。模型可以在保留现有族的情况下导入 Revit。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "项目既可以从空白场地开始，也可以使用从 Revit、Rhino 或 SketchUp 导入的现有模型，因此团队既能将智能体用于新的设计工作，也能用于已在进行中的项目。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El agente de IA de Snaptrude va\ndel concepto a planos de obra",
+          "body": "El nuevo agente de Snaptrude cubre la arquitectura desde el concepto y el modelado BIM hasta MEP y documentos de obra.",
+          "mini_headline": "El agente BIM de Snaptrude",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Snaptrude ha presentado Snaptrude Agent, un agente de IA para su plataforma BIM pensado para acompañar a los equipos desde los primeros estudios de concepto hasta modelos LoD 400 listos para obra que incorporan estructura, instalaciones mecánicas, eléctricas y de fontanería (MEP) y planos. Los usuarios plantean al agente una instrucción o un problema, revisan el plan que propone y luego lo aprueban o le dan nuevas indicaciones."
+              },
+              {
+                "t": "p",
+                "x": "Puede generar múltiples opciones volumétricas a partir de un análisis del emplazamiento, desde unas pocas alternativas hasta cientos. Según la empresa, el agente puede convertir modelos volumétricos en modelos BIM LoD 400 detallados en minutos; para los componentes que no estén en las bibliotecas existentes, los usuarios pueden aportar fichas técnicas de los fabricantes."
+              },
+              {
+                "t": "p",
+                "x": "El agente también admite el modelado paramétrico estructural y de MEP, y puede generar juegos de planos de obra según los estándares de cada estudio. Los modelos pueden transferirse a Revit conservando las familias existentes."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Los proyectos pueden empezar en un solar vacío o usar modelos existentes importados de Revit, Rhino o SketchUp, de modo que los equipos pueden aplicar el agente tanto a diseños nuevos como a proyectos ya en curso."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Snaptrude 에이전트\n구상부터 시공 도면까지",
+          "body": "Snaptrude 에이전트는 구상·BIM 모델링부터 MEP·시공 문서까지 맡는다.",
+          "mini_headline": "Snaptrude의 BIM 에이전트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Snaptrude가 자사 BIM 플랫폼용 AI 에이전트 Snaptrude Agent를 선보였다. 초기 콘셉트 검토부터 구조, 기계·전기·배관(MEP), 도면을 담은 시공 수준의 LoD 400 모델까지 팀을 지원하도록 설계됐다. 사용자가 프롬프트나 문제를 주면 에이전트가 계획을 제안하고, 사용자는 이를 검토해 승인하거나 추가 지시를 내린다."
+              },
+              {
+                "t": "p",
+                "x": "대지 분석을 바탕으로 매스 대안을 몇 개에서 수백 개까지 만들 수 있다. 회사는 에이전트가 매스 모델을 몇 분 만에 상세한 LoD 400 BIM 모델로 바꿀 수 있다고 설명한다. 기존 라이브러리에 없는 부재는 사용자가 제조사 사양서를 넣어 주면 된다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트는 구조와 MEP 파라메트릭 모델링도 지원하며, 회사 기준에 맞춘 시공 도면 세트를 만들 수 있다. 모델은 기존 패밀리를 유지한 채 Revit으로 옮길 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "프로젝트는 빈 대지에서 시작하거나 Revit, Rhino, SketchUp에서 가져온 기존 모델을 쓸 수 있어, 새 설계 작업과 이미 진행 중인 프로젝트 모두에 에이전트를 적용할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "SnaptrudeのAIが\n構想から施工図書まで",
+          "body": "Snaptrudeの新エージェントは構想とBIMモデリングからMEP、施工図書までを担う。",
+          "mini_headline": "SnaptrudeのBIMエージェント",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "SnaptrudeはBIMプラットフォーム向けのAIエージェント「Snaptrude Agent」を発表した。初期の構想検討から、構造、機械・電気・配管（MEP）、図面を含む施工レベルのLoD 400モデルまでチームを支援する設計だ。ユーザーがプロンプトや課題を与えると、エージェントが計画を提案し、ユーザーはそれを確認して承認するか、追加の指示を出す。"
+              },
+              {
+                "t": "p",
+                "x": "敷地分析から複数のボリューム案を生成でき、その数は数案から数百案に及ぶ。同社によれば、エージェントはボリュームモデルを数分で詳細なLoD 400 BIMモデルに変換できる。既存ライブラリにない部材は、ユーザーがメーカーの仕様書を提供すればよい。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントは構造とMEPのパラメトリックモデリングにも対応し、事務所の基準に沿った施工図一式を生成できる。モデルは既存のファミリーを保持したままRevitに移行できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "プロジェクトは空の敷地から始めることも、Revit、Rhino、SketchUpから読み込んだ既存モデルを使うこともできるため、新規の設計作業にも進行中のプロジェクトにもエージェントを適用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Snaptrude智能体\n从概念直通施工文档",
+          "body": "Snaptrude新智能体覆盖从概念、BIM建模到MEP和施工文档的建筑设计全流程。",
+          "mini_headline": "Snaptrude的BIM智能体",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Snaptrude 推出了 Snaptrude Agent，这是面向其 BIM 平台的 AI 智能体，旨在支持团队从早期概念研究一直推进到包含结构、机械电气管道（MEP）和图纸的可施工 LoD 400 模型。用户向智能体提出提示或问题，审阅其提出的方案，然后批准或给出进一步指示。"
+              },
+              {
+                "t": "p",
+                "x": "它可以根据场地分析生成多种体块方案，数量从几个到数百个不等。公司表示，智能体能在几分钟内把体块模型转换为详细的 LoD 400 BIM 模型；对于现有库中没有的构件，用户可以提供厂商规格表。"
+              },
+              {
+                "t": "p",
+                "x": "智能体还支持结构和 MEP 参数化建模，并能按照事务所的标准生成施工图纸集。模型可以在保留现有族的情况下导入 Revit。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "项目既可以从空白场地开始，也可以使用从 Revit、Rhino 或 SketchUp 导入的现有模型，因此团队既能将智能体用于新的设计工作，也能用于已在进行中的项目。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El agente de IA de Snaptrude va\ndel concepto a planos de obra",
+          "body": "El nuevo agente de Snaptrude cubre la arquitectura desde el concepto y el modelado BIM hasta MEP y documentos de obra.",
+          "mini_headline": "El agente BIM de Snaptrude",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Snaptrude ha presentado Snaptrude Agent, un agente de IA para su plataforma BIM pensado para acompañar a los equipos desde los primeros estudios de concepto hasta modelos LoD 400 listos para obra que incorporan estructura, instalaciones mecánicas, eléctricas y de fontanería (MEP) y planos. Los usuarios plantean al agente una instrucción o un problema, revisan el plan que propone y luego lo aprueban o le dan nuevas indicaciones."
+              },
+              {
+                "t": "p",
+                "x": "Puede generar múltiples opciones volumétricas a partir de un análisis del emplazamiento, desde unas pocas alternativas hasta cientos. Según la empresa, el agente puede convertir modelos volumétricos en modelos BIM LoD 400 detallados en minutos; para los componentes que no estén en las bibliotecas existentes, los usuarios pueden aportar fichas técnicas de los fabricantes."
+              },
+              {
+                "t": "p",
+                "x": "El agente también admite el modelado paramétrico estructural y de MEP, y puede generar juegos de planos de obra según los estándares de cada estudio. Los modelos pueden transferirse a Revit conservando las familias existentes."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Los proyectos pueden empezar en un solar vacío o usar modelos existentes importados de Revit, Rhino o SketchUp, de modo que los equipos pueden aplicar el agente tanto a diseños nuevos como a proyectos ya en curso."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "fusion-oct26-auto-timeline",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Fusion, 외부 형상을\n편집 가능한 피처로",
+      "body": "Fusion의 Auto Timeline이 불러온 형상을 파라메트릭 피처로 되살린다.",
+      "mini_headline": "Fusion의 Auto Timeline",
+      "tool": "Text-to-CAD",
+      "source": "Autodesk Fusion Blog",
+      "url": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+          },
+          {
+            "t": "p",
+            "x": "Autodesk Fusion 2026년 10월 업데이트로 가져온 모델용 AI-assisted Auto Timeline, 코드 없이 쓰는 System Modeler, 선삭 기능 개선, 새 eCAD 드릴·동박 뷰, 내장 작업 관리가 들어왔다."
+          },
+          {
+            "t": "video",
+            "yt": "Pq616aIBf3I"
+          },
+          {
+            "t": "p",
+            "x": "비네이티브 모델을 Fusion에 가져와 고치다 보면 일부를 처음부터 다시 만들게 되곤 한다. Auto Timeline은 AI-assisted 피처 재구성으로 그 형상을 편집 가능한 파라메트릭 Fusion 디자인으로 바꾼다. 지금은 돌출, 회전, 모따기, 필렛, 구멍, 기본 스윕을 재구성하고, 피처 유형은 더 늘릴 예정이다. 모델 전체를 다시 쓰는 기능이 아니라 빠르게 고치기 위한 기능이다."
+          },
+          {
+            "t": "p",
+            "x": "System Modeler는 반복되는 설계·제조 작업을 코드 없이 자동화하는 노드 기반 스크립팅 환경이다. 선삭에는 바 풀 위치, 홈 황삭 커스프 정리, 공구 한계가 생겼고 eCAD 도면에는 드릴 뷰, 드릴 표, 동박 뷰가 붙었다."
+          },
+          {
+            "t": "p",
+            "x": "작업 관리는 Fusion 안에서 디자인과 연결되고, Kanban이나 목록 보드로 본다. Autodesk Assistant에 자연어로 말하면 작업을 만들거나 기존 작업을 업데이트하고, 필요한 것을 찾을 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Autodesk Fusion turns imported\ngeometry into features",
+          "body": "Fusion's October update adds Auto Timeline, which rebuilds imported geometry as editable parametric features.",
+          "mini_headline": "Fusion's Auto Timeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "The October 2026 Autodesk Fusion update adds AI-assisted Auto Timeline for imported models, a no-code System Modeler, turning improvements, new eCAD drill and copper views, and built-in task management."
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "If you bring a non-native model into Fusion and need to change it, you have probably ended up rebuilding parts of it from scratch. Auto Timeline uses AI-assisted feature reconstruction to convert that geometry into an editable parametric Fusion design. It reconstructs extrudes, revolves, chamfers, fillets, holes and basic sweeps today, with more feature types on the way. It is built for quick model adjustments, not full rebuilds."
+              },
+              {
+                "t": "p",
+                "x": "System Modeler is a node-based scripting environment that automates repetitive design and manufacturing tasks without writing code. Turning gains bar pull position, groove roughing cusp clearing and tool limits; eCAD drawings add drill views, drill tables and copper views."
+              },
+              {
+                "t": "p",
+                "x": "Task management is built into Fusion, linked to designs, with Kanban or list boards. With Autodesk Assistant you can create tasks, update existing work or find what you need in natural language."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Fusion, 외부 형상을\n편집 가능한 피처로",
+          "body": "Fusion의 Auto Timeline이 불러온 형상을 파라메트릭 피처로 되살린다.",
+          "mini_headline": "Fusion의 Auto Timeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "Autodesk Fusion 2026년 10월 업데이트로 가져온 모델용 AI-assisted Auto Timeline, 코드 없이 쓰는 System Modeler, 선삭 기능 개선, 새 eCAD 드릴·동박 뷰, 내장 작업 관리가 들어왔다."
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "비네이티브 모델을 Fusion에 가져와 고치다 보면 일부를 처음부터 다시 만들게 되곤 한다. Auto Timeline은 AI-assisted 피처 재구성으로 그 형상을 편집 가능한 파라메트릭 Fusion 디자인으로 바꾼다. 지금은 돌출, 회전, 모따기, 필렛, 구멍, 기본 스윕을 재구성하고, 피처 유형은 더 늘릴 예정이다. 모델 전체를 다시 쓰는 기능이 아니라 빠르게 고치기 위한 기능이다."
+              },
+              {
+                "t": "p",
+                "x": "System Modeler는 반복되는 설계·제조 작업을 코드 없이 자동화하는 노드 기반 스크립팅 환경이다. 선삭에는 바 풀 위치, 홈 황삭 커스프 정리, 공구 한계가 생겼고 eCAD 도면에는 드릴 뷰, 드릴 표, 동박 뷰가 붙었다."
+              },
+              {
+                "t": "p",
+                "x": "작업 관리는 Fusion 안에서 디자인과 연결되고, Kanban이나 목록 보드로 본다. Autodesk Assistant에 자연어로 말하면 작업을 만들거나 기존 작업을 업데이트하고, 필요한 것을 찾을 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Fusionがインポート\n形状をフィーチャー化",
+          "body": "FusionのAuto Timelineは取り込んだ形状を編集可能なフィーチャーに変える。",
+          "mini_headline": "FusionのAuto Timeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "Autodesk Fusionの2026年10月アップデートでは、インポートしたモデル向けのAI-assisted Auto Timeline、ノーコードのSystem Modeler、旋削機能の改善、eCADの新しいドリルビューと銅箔ビュー、組み込みのタスク管理が加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "ネイティブ以外のモデルをFusionに取り込んで変更する必要があるとき、一部をゼロから作り直すことになった経験があるだろう。Auto TimelineはAI-assistedのフィーチャー再構築により、その形状を編集可能なパラメトリックFusionデザインに変換する。現在は押し出し、回転、面取り、フィレット、穴、基本的なスイープを再構築でき、対応するフィーチャーの種類は今後増える。完全な作り直しではなく、素早いモデル調整のための機能だ。"
+              },
+              {
+                "t": "p",
+                "x": "System Modelerは、コードを書かずに繰り返しの設計・製造作業を自動化するノードベースのスクリプト環境だ。旋削にはバープル位置、溝荒加工のカスプ除去、工具制限が加わり、eCAD図面にはドリルビュー、ドリル表、銅箔ビューが追加された。"
+              },
+              {
+                "t": "p",
+                "x": "タスク管理はFusionに組み込まれてデザインと連携し、Kanbanまたはリスト形式のボードで使える。Autodesk Assistantを使えば、自然言語でタスクを作成し、既存の作業を更新し、必要なものを見つけられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Fusion将导入几何\n转为可编辑特征",
+          "body": "Fusion十月更新加入Auto Timeline，可将导入几何重建为可编辑的参数化特征。",
+          "mini_headline": "Fusion的Auto Timeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "Autodesk Fusion 2026年10月更新为导入模型加入了 AI-assisted Auto Timeline，还带来无代码的 System Modeler、车削改进、新的 eCAD 钻孔与铜箔视图，以及内置任务管理。"
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "如果你把非原生模型导入 Fusion 并需要修改，很可能不得不从头重建其中一部分。Auto Timeline 借助 AI-assisted 特征重建，把这些几何体转换为可编辑的参数化 Fusion 设计。目前它能重建拉伸、旋转、倒角、圆角、孔和基本扫掠，更多特征类型即将推出。它面向快速的模型调整，而非完整重建。"
+              },
+              {
+                "t": "p",
+                "x": "System Modeler 是基于节点的脚本环境，无需编写代码即可自动化重复的设计和制造任务。车削新增棒料拉出位置、槽粗加工残留清理和刀具限制；eCAD 图纸新增钻孔视图、钻孔表和铜箔视图。"
+              },
+              {
+                "t": "p",
+                "x": "任务管理内置于 Fusion，与设计关联，支持 Kanban 或列表看板。借助 Autodesk Assistant，你可以用自然语言创建任务、更新现有工作或查找所需内容。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Autodesk Fusion vuelve editable\nla geometría importada",
+          "body": "Fusion suma en octubre Auto Timeline, que reconstruye la geometría importada como operaciones paramétricas editables.",
+          "mini_headline": "Auto Timeline de Fusion",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "La actualización de octubre de 2026 de Autodesk Fusion añade Auto Timeline, asistido por IA (AI-assisted), para modelos importados, un System Modeler sin código, mejoras de torneado, nuevas vistas de taladros y de cobre en eCAD y gestión de tareas integrada."
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "Si importas a Fusion un modelo no nativo y necesitas cambiarlo, probablemente hayas acabado reconstruyendo partes desde cero. Auto Timeline usa reconstrucción de operaciones asistida por IA para convertir esa geometría en un diseño paramétrico editable de Fusion. Hoy reconstruye extrusiones, revoluciones, chaflanes, empalmes, agujeros y barridos básicos, y llegarán más tipos de operaciones. Está pensado para ajustes rápidos del modelo, no para reconstrucciones completas."
+              },
+              {
+                "t": "p",
+                "x": "System Modeler es un entorno de scripting basado en nodos que automatiza tareas repetitivas de diseño y fabricación sin escribir código. El torneado suma la posición de tirada de barra, la limpieza de crestas en el desbaste de ranuras y límites de herramienta; los planos de eCAD añaden vistas de taladros, tablas de taladros y vistas de cobre."
+              },
+              {
+                "t": "p",
+                "x": "La gestión de tareas está integrada en Fusion, vinculada a los diseños, con tableros Kanban o de lista. Con Autodesk Assistant puedes crear tareas, actualizar el trabajo existente o encontrar lo que necesitas en lenguaje natural."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Fusion, 외부 형상을\n편집 가능한 피처로",
+          "body": "Fusion의 Auto Timeline은 불러온 형상을 파라메트릭 피처로 바꾼다.",
+          "mini_headline": "Fusion의 Auto Timeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "Autodesk Fusion 2026년 10월 업데이트에는 가져온 모델을 위한 AI-assisted Auto Timeline, 코드 없이 쓰는 System Modeler, 선삭 기능 개선, 새 eCAD 드릴·동박 뷰, 내장 작업 관리 기능이 추가됐다."
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "비네이티브 모델을 Fusion으로 가져와 수정해야 할 때, 일부를 처음부터 다시 만든 경험이 있을 것이다. Auto Timeline은 AI-assisted 피처 재구성으로 그 형상을 편집 가능한 파라메트릭 Fusion 디자인으로 바꾼다. 현재 돌출, 회전, 모따기, 필렛, 구멍, 기본 스윕을 재구성하며 더 많은 피처 유형이 추가될 예정이다. 전체 재작성이 아니라 빠른 모델 수정을 위한 기능이다."
+              },
+              {
+                "t": "p",
+                "x": "System Modeler는 코드를 쓰지 않고 반복적인 설계·제조 작업을 자동화하는 노드 기반 스크립팅 환경이다. 선삭에는 바 풀 위치, 홈 황삭 커스프 정리, 공구 한계가 추가됐고, eCAD 도면에는 드릴 뷰, 드릴 표, 동박 뷰가 더해졌다."
+              },
+              {
+                "t": "p",
+                "x": "작업 관리는 Fusion에 내장돼 디자인과 연결되며, Kanban 또는 목록 보드를 쓴다. Autodesk Assistant를 쓰면 자연어로 작업을 만들고, 기존 작업을 업데이트하거나 필요한 것을 찾을 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Fusionがインポート\n形状をフィーチャー化",
+          "body": "FusionのAuto Timelineは取り込んだ形状を編集可能なフィーチャーに変える。",
+          "mini_headline": "FusionのAuto Timeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "Autodesk Fusionの2026年10月アップデートでは、インポートしたモデル向けのAI-assisted Auto Timeline、ノーコードのSystem Modeler、旋削機能の改善、eCADの新しいドリルビューと銅箔ビュー、組み込みのタスク管理が加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "ネイティブ以外のモデルをFusionに取り込んで変更する必要があるとき、一部をゼロから作り直すことになった経験があるだろう。Auto TimelineはAI-assistedのフィーチャー再構築により、その形状を編集可能なパラメトリックFusionデザインに変換する。現在は押し出し、回転、面取り、フィレット、穴、基本的なスイープを再構築でき、対応するフィーチャーの種類は今後増える。完全な作り直しではなく、素早いモデル調整のための機能だ。"
+              },
+              {
+                "t": "p",
+                "x": "System Modelerは、コードを書かずに繰り返しの設計・製造作業を自動化するノードベースのスクリプト環境だ。旋削にはバープル位置、溝荒加工のカスプ除去、工具制限が加わり、eCAD図面にはドリルビュー、ドリル表、銅箔ビューが追加された。"
+              },
+              {
+                "t": "p",
+                "x": "タスク管理はFusionに組み込まれてデザインと連携し、Kanbanまたはリスト形式のボードで使える。Autodesk Assistantを使えば、自然言語でタスクを作成し、既存の作業を更新し、必要なものを見つけられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Fusion将导入几何\n转为可编辑特征",
+          "body": "Fusion十月更新加入Auto Timeline，可将导入几何重建为可编辑的参数化特征。",
+          "mini_headline": "Fusion的Auto Timeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "Autodesk Fusion 2026年10月更新为导入模型加入了 AI-assisted Auto Timeline，还带来无代码的 System Modeler、车削改进、新的 eCAD 钻孔与铜箔视图，以及内置任务管理。"
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "如果你把非原生模型导入 Fusion 并需要修改，很可能不得不从头重建其中一部分。Auto Timeline 借助 AI-assisted 特征重建，把这些几何体转换为可编辑的参数化 Fusion 设计。目前它能重建拉伸、旋转、倒角、圆角、孔和基本扫掠，更多特征类型即将推出。它面向快速的模型调整，而非完整重建。"
+              },
+              {
+                "t": "p",
+                "x": "System Modeler 是基于节点的脚本环境，无需编写代码即可自动化重复的设计和制造任务。车削新增棒料拉出位置、槽粗加工残留清理和刀具限制；eCAD 图纸新增钻孔视图、钻孔表和铜箔视图。"
+              },
+              {
+                "t": "p",
+                "x": "任务管理内置于 Fusion，与设计关联，支持 Kanban 或列表看板。借助 Autodesk Assistant，你可以用自然语言创建任务、更新现有工作或查找所需内容。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Autodesk Fusion vuelve editable\nla geometría importada",
+          "body": "Fusion suma en octubre Auto Timeline, que reconstruye la geometría importada como operaciones paramétricas editables.",
+          "mini_headline": "Auto Timeline de Fusion",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
+              },
+              {
+                "t": "p",
+                "x": "La actualización de octubre de 2026 de Autodesk Fusion añade Auto Timeline, asistido por IA (AI-assisted), para modelos importados, un System Modeler sin código, mejoras de torneado, nuevas vistas de taladros y de cobre en eCAD y gestión de tareas integrada."
+              },
+              {
+                "t": "video",
+                "yt": "Pq616aIBf3I"
+              },
+              {
+                "t": "p",
+                "x": "Si importas a Fusion un modelo no nativo y necesitas cambiarlo, probablemente hayas acabado reconstruyendo partes desde cero. Auto Timeline usa reconstrucción de operaciones asistida por IA para convertir esa geometría en un diseño paramétrico editable de Fusion. Hoy reconstruye extrusiones, revoluciones, chaflanes, empalmes, agujeros y barridos básicos, y llegarán más tipos de operaciones. Está pensado para ajustes rápidos del modelo, no para reconstrucciones completas."
+              },
+              {
+                "t": "p",
+                "x": "System Modeler es un entorno de scripting basado en nodos que automatiza tareas repetitivas de diseño y fabricación sin escribir código. El torneado suma la posición de tirada de barra, la limpieza de crestas en el desbaste de ranuras y límites de herramienta; los planos de eCAD añaden vistas de taladros, tablas de taladros y vistas de cobre."
+              },
+              {
+                "t": "p",
+                "x": "La gestión de tareas está integrada en Fusion, vinculada a los diseños, con tableros Kanban o de lista. Con Autodesk Assistant puedes crear tareas, actualizar el trabajo existente o encontrar lo que necesitas en lenguaje natural."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "uxc-deep-research-ux",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 딥리서치 에이전트의\nUX 질문 여섯 가지",
+      "body": "긴 AI 리서치 작업의 UX 질문 여섯 가지를 Google 등 사례로 짚었다.",
+      "mini_headline": "딥리서치 UX 설계",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+            "cap": "복잡한 AI 리서치를 위한 디자인"
+          },
+          {
+            "t": "p",
+            "x": "답이 나오기까지 몇 초가 아니라 몇 분이 걸린다면? 복잡한 작업을 AI와 함께 하는 사용자는 여러 질문을 품는다. 글은 그 질문에 답하는 인터페이스를 살펴본다. 내 뜻을 제대로 이해했나? 지금 뭔가 진행되고 있나? 결과를 이해할 수 있나? 믿어도 되나? 다음엔 무엇을 하나? 바꿀 수 있나?"
+          },
+          {
+            "t": "p",
+            "x": "몇 분씩 걸리는 작업에서 첫 단추를 잘못 끼우면 대가가 크다. 요청이 모호하면 되묻는 질문이, 명확하지만 범위가 넓으면 계획이 잘 통한다. Gemini Deep Research는 리서치 단계와 예상 소요 시간을 보여 주고, 사용자는 계획을 고치거나 바로 리서치를 시작할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+            "cap": "Google 리서치의 사고 과정"
+          },
+          {
+            "t": "p",
+            "x": "Elicit과 Gemini는 추론 단계를 보여 준다. 진행 상황이 보이면 기다리기가 한결 쉬워서다. Consensus는 근거의 강도를 매긴다. Consensus Meter는 연구 몇 건이 각각 '예', '아니요', '엇갈림'으로 답하는지 보여 준다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+            "cap": "Consensus의 답변"
+          },
+          {
+            "t": "p",
+            "x": "Perplexity와 Microsoft Copilot은 주장마다 출처의 정확한 구절을 잇고, 응답마다 다음 행동을 제안한다. Copilot은 제안을 세 개까지만 낸다. Layla AI에서는 AI가 짠 여행 일정 일부를 사용자가 직접 바꿀 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "AI 작업이 30초를 넘긴다면 시작하기 전에 범위를 맞추고, 작업하는 동안에는 진행 상황을 보여 줘야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Six UX questions for AI\ndeep-research agents",
+          "body": "The essay draws six UX questions for long-running AI research tasks from Google, Perplexity and Microsoft.",
+          "mini_headline": "Designing deep research UX",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "Designing for complex AI research"
+              },
+              {
+                "t": "p",
+                "x": "What happens when generating an answer takes minutes rather than seconds? This article looks at interfaces that answer the questions users have when working with AI on complex tasks: Is this what you meant? Is anything happening? Can I make sense of it? Can I trust this? What do I do next? Can I change it?"
+              },
+              {
+                "t": "p",
+                "x": "When an answer takes minutes, a wrong start is expensive. Clarifying questions work when a request is vague; a plan works when it is clear but broad. Gemini Deep Research lays out its research steps and an estimated time, and the user can edit the plan or start the research."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Google research chain of thought"
+              },
+              {
+                "t": "p",
+                "x": "Elicit and Gemini show reasoning steps, since visible progress makes waiting easier. Consensus rates the strength of evidence, and its Consensus Meter shows how many studies say yes, no or are mixed."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Consensus answer"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity and Microsoft Copilot link claims to the exact passage in a source and suggest the next move after every response; Copilot limits suggestions to three. Layla AI lets users swap parts of a generated trip directly."
+              },
+              {
+                "t": "p",
+                "x": "If your AI task takes more than 30 seconds, agree on the scope before it starts and show progress while it works."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 딥리서치 에이전트의\nUX 질문 여섯 가지",
+          "body": "긴 AI 리서치 작업의 UX 질문 여섯 가지를 Google 등 사례로 짚었다.",
+          "mini_headline": "딥리서치 UX 설계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "복잡한 AI 리서치를 위한 디자인"
+              },
+              {
+                "t": "p",
+                "x": "답이 나오기까지 몇 초가 아니라 몇 분이 걸린다면? 복잡한 작업을 AI와 함께 하는 사용자는 여러 질문을 품는다. 글은 그 질문에 답하는 인터페이스를 살펴본다. 내 뜻을 제대로 이해했나? 지금 뭔가 진행되고 있나? 결과를 이해할 수 있나? 믿어도 되나? 다음엔 무엇을 하나? 바꿀 수 있나?"
+              },
+              {
+                "t": "p",
+                "x": "몇 분씩 걸리는 작업에서 첫 단추를 잘못 끼우면 대가가 크다. 요청이 모호하면 되묻는 질문이, 명확하지만 범위가 넓으면 계획이 잘 통한다. Gemini Deep Research는 리서치 단계와 예상 소요 시간을 보여 주고, 사용자는 계획을 고치거나 바로 리서치를 시작할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Google 리서치의 사고 과정"
+              },
+              {
+                "t": "p",
+                "x": "Elicit과 Gemini는 추론 단계를 보여 준다. 진행 상황이 보이면 기다리기가 한결 쉬워서다. Consensus는 근거의 강도를 매긴다. Consensus Meter는 연구 몇 건이 각각 '예', '아니요', '엇갈림'으로 답하는지 보여 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Consensus의 답변"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity와 Microsoft Copilot은 주장마다 출처의 정확한 구절을 잇고, 응답마다 다음 행동을 제안한다. Copilot은 제안을 세 개까지만 낸다. Layla AI에서는 AI가 짠 여행 일정 일부를 사용자가 직접 바꿀 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI 작업이 30초를 넘긴다면 시작하기 전에 범위를 맞추고, 작업하는 동안에는 진행 상황을 보여 줘야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIディープリサーチの\nUXをめぐる6つの問い",
+          "body": "GoogleやMicrosoftなどの例から、長時間AI調査のUXの問いを6つ挙げる。",
+          "mini_headline": "ディープリサーチのUX設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "複雑なAIリサーチのためのデザイン"
+              },
+              {
+                "t": "p",
+                "x": "回答の生成に数秒ではなく数分かかるとしたら、どうなるか。本稿では、複雑なタスクでAIと協働するユーザーが抱く疑問に答えるインターフェースを取り上げる。意図は伝わっているか。何か進んでいるのか。内容を理解できるか。信頼できるか。次に何をすればよいか。変更できるか。"
+              },
+              {
+                "t": "p",
+                "x": "回答に数分かかる場合、出だしを誤るとコストが大きい。依頼が曖昧なときは確認の質問が、明確だが範囲が広いときは計画が有効だ。Gemini Deep Researchは調査の手順と所要時間の見込みを示し、ユーザーは計画を編集するか、調査を開始できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Googleリサーチの思考過程"
+              },
+              {
+                "t": "p",
+                "x": "ElicitとGeminiは推論のステップを表示する。進捗が見えると待つのが楽になるからだ。Consensusは根拠の強さを評価し、そのConsensus Meterは、どれだけの研究がイエス、ノー、あるいは賛否混在と答えているかを示す。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Consensusの回答"
+              },
+              {
+                "t": "p",
+                "x": "PerplexityとMicrosoft Copilotは主張を出典の該当箇所に結びつけ、応答のたびに次の一手を提案する。Copilotは提案を三つに絞る。Layla AIでは、生成された旅程の一部をユーザーが直接差し替えられる。"
+              },
+              {
+                "t": "p",
+                "x": "AIタスクに30秒以上かかるなら、開始前に範囲を合意し、作業中は進捗を見せるべきだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI深度研究智能体\n的六个UX设计问题",
+          "body": "从Google、Perplexity和Microsoft提炼长时AI研究的六个UX问题。",
+          "mini_headline": "深度研究的UX设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "为复杂的 AI 研究而设计"
+              },
+              {
+                "t": "p",
+                "x": "如果生成一个答案需要几分钟而不是几秒，会发生什么？本文考察了一些界面，它们回应用户在借助 AI 处理复杂任务时提出的问题：这是你想要的吗？有在进行吗？我能看懂吗？我能信任它吗？下一步该做什么？我能修改吗？"
+              },
+              {
+                "t": "p",
+                "x": "当答案需要几分钟才能生成时，开局出错代价高昂。请求含糊时，澄清式提问有效；请求明确但范围宽泛时，计划更有效。Gemini Deep Research 会列出研究步骤和预计用时，用户可以编辑计划或直接开始研究。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Google 研究的思维链"
+              },
+              {
+                "t": "p",
+                "x": "Elicit 和 Gemini 会展示推理步骤，因为可见的进度让等待更容易。Consensus 会评估证据强度，其 Consensus Meter 显示有多少研究给出肯定、否定或结论不一。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Consensus 的回答"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity 和 Microsoft Copilot 将论断链接到来源中的确切段落，并在每次回复后建议下一步；Copilot 将建议限制为三条。Layla AI 让用户直接替换生成行程中的部分内容。"
+              },
+              {
+                "t": "p",
+                "x": "如果你的 AI 任务耗时超过 30 秒，就在开始前约定范围，并在运行时展示进度。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Seis preguntas de UX para\nagentes de investigación de IA",
+          "body": "El ensayo extrae de Google, Perplexity y Microsoft seis preguntas de UX para tareas largas de investigación con IA.",
+          "mini_headline": "Diseñar la UX de la investigación profunda",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "Diseñar para la investigación compleja con IA"
+              },
+              {
+                "t": "p",
+                "x": "¿Qué ocurre cuando generar una respuesta lleva minutos en lugar de segundos? Este artículo analiza interfaces que responden a las preguntas que se hacen los usuarios al trabajar con IA en tareas complejas: ¿Es esto lo que querías decir? ¿Está pasando algo? ¿Puedo entenderlo? ¿Puedo confiar en esto? ¿Qué hago ahora? ¿Puedo cambiarlo?"
+              },
+              {
+                "t": "p",
+                "x": "Cuando una respuesta tarda minutos, un mal comienzo sale caro. Las preguntas aclaratorias funcionan cuando una solicitud es vaga; un plan funciona cuando es clara pero amplia. Gemini Deep Research expone sus pasos de investigación y un tiempo estimado, y el usuario puede editar el plan o iniciar la investigación."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Cadena de razonamiento de la investigación de Google"
+              },
+              {
+                "t": "p",
+                "x": "Elicit y Gemini muestran los pasos de razonamiento, ya que ver el progreso hace más llevadera la espera. Consensus califica la solidez de la evidencia, y su Consensus Meter muestra cuántos estudios dicen sí, no o tienen resultados mixtos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Respuesta de Consensus"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity y Microsoft Copilot vinculan las afirmaciones con el pasaje exacto de una fuente y sugieren el siguiente paso después de cada respuesta; Copilot limita las sugerencias a tres. Layla AI permite a los usuarios cambiar directamente partes de un viaje generado."
+              },
+              {
+                "t": "p",
+                "x": "Si tu tarea de IA tarda más de 30 segundos, acuerda el alcance antes de empezar y muestra el progreso mientras trabaja."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 딥리서치 에이전트의\nUX 질문 여섯 가지",
+          "body": "Google 등의 사례로 긴 AI 리서치 작업의 UX 질문 여섯 가지를 정리했다.",
+          "mini_headline": "딥리서치 UX 설계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "복잡한 AI 리서치를 위한 디자인"
+              },
+              {
+                "t": "p",
+                "x": "답을 만드는 데 몇 초가 아니라 몇 분이 걸리면 어떻게 될까? 이 글은 복잡한 작업에서 AI와 함께 일하는 사용자가 품는 질문에 답하는 인터페이스를 살펴본다. 내 뜻을 제대로 이해했나? 지금 뭔가 진행되고 있나? 결과를 이해할 수 있나? 믿어도 되나? 다음엔 무엇을 하나? 바꿀 수 있나?"
+              },
+              {
+                "t": "p",
+                "x": "답이 나오는 데 몇 분이 걸린다면 잘못된 출발은 비용이 크다. 요청이 모호할 때는 되묻는 질문이, 요청이 명확하지만 범위가 넓을 때는 계획이 효과적이다. Gemini Deep Research는 리서치 단계와 예상 소요 시간을 보여 주고, 사용자는 계획을 수정하거나 리서치를 시작할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Google 리서치의 사고 과정"
+              },
+              {
+                "t": "p",
+                "x": "Elicit과 Gemini는 추론 단계를 보여 준다. 진행 상황이 보이면 기다리기가 쉬워지기 때문이다. Consensus는 근거의 강도를 평가하며, Consensus Meter는 얼마나 많은 연구가 '예', '아니요', '엇갈림'으로 답하는지 보여 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Consensus의 답변"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity와 Microsoft Copilot은 주장을 출처의 정확한 구절에 연결하고, 응답마다 다음 행동을 제안한다. Copilot은 제안을 세 개로 제한한다. Layla AI에서는 생성된 여행 일정의 일부를 사용자가 직접 바꿀 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI 작업이 30초 넘게 걸린다면 시작 전에 범위를 합의하고, 작업 중에는 진행 상황을 보여 줘야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIディープリサーチの\nUXをめぐる6つの問い",
+          "body": "GoogleやMicrosoftなどの例から、長時間AI調査のUXの問いを6つ挙げる。",
+          "mini_headline": "ディープリサーチのUX設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "複雑なAIリサーチのためのデザイン"
+              },
+              {
+                "t": "p",
+                "x": "回答の生成に数秒ではなく数分かかるとしたら、どうなるか。本稿では、複雑なタスクでAIと協働するユーザーが抱く疑問に答えるインターフェースを取り上げる。意図は伝わっているか。何か進んでいるのか。内容を理解できるか。信頼できるか。次に何をすればよいか。変更できるか。"
+              },
+              {
+                "t": "p",
+                "x": "回答に数分かかる場合、出だしを誤るとコストが大きい。依頼が曖昧なときは確認の質問が、明確だが範囲が広いときは計画が有効だ。Gemini Deep Researchは調査の手順と所要時間の見込みを示し、ユーザーは計画を編集するか、調査を開始できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Googleリサーチの思考過程"
+              },
+              {
+                "t": "p",
+                "x": "ElicitとGeminiは推論のステップを表示する。進捗が見えると待つのが楽になるからだ。Consensusは根拠の強さを評価し、そのConsensus Meterは、どれだけの研究がイエス、ノー、あるいは賛否混在と答えているかを示す。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Consensusの回答"
+              },
+              {
+                "t": "p",
+                "x": "PerplexityとMicrosoft Copilotは主張を出典の該当箇所に結びつけ、応答のたびに次の一手を提案する。Copilotは提案を三つに絞る。Layla AIでは、生成された旅程の一部をユーザーが直接差し替えられる。"
+              },
+              {
+                "t": "p",
+                "x": "AIタスクに30秒以上かかるなら、開始前に範囲を合意し、作業中は進捗を見せるべきだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI深度研究智能体\n的六个UX设计问题",
+          "body": "从Google、Perplexity和Microsoft提炼长时AI研究的六个UX问题。",
+          "mini_headline": "深度研究的UX设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "为复杂的 AI 研究而设计"
+              },
+              {
+                "t": "p",
+                "x": "如果生成一个答案需要几分钟而不是几秒，会发生什么？本文考察了一些界面，它们回应用户在借助 AI 处理复杂任务时提出的问题：这是你想要的吗？有在进行吗？我能看懂吗？我能信任它吗？下一步该做什么？我能修改吗？"
+              },
+              {
+                "t": "p",
+                "x": "当答案需要几分钟才能生成时，开局出错代价高昂。请求含糊时，澄清式提问有效；请求明确但范围宽泛时，计划更有效。Gemini Deep Research 会列出研究步骤和预计用时，用户可以编辑计划或直接开始研究。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Google 研究的思维链"
+              },
+              {
+                "t": "p",
+                "x": "Elicit 和 Gemini 会展示推理步骤，因为可见的进度让等待更容易。Consensus 会评估证据强度，其 Consensus Meter 显示有多少研究给出肯定、否定或结论不一。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Consensus 的回答"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity 和 Microsoft Copilot 将论断链接到来源中的确切段落，并在每次回复后建议下一步；Copilot 将建议限制为三条。Layla AI 让用户直接替换生成行程中的部分内容。"
+              },
+              {
+                "t": "p",
+                "x": "如果你的 AI 任务耗时超过 30 秒，就在开始前约定范围，并在运行时展示进度。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Seis preguntas de UX para\nagentes de investigación de IA",
+          "body": "El ensayo extrae de Google, Perplexity y Microsoft seis preguntas de UX para tareas largas de investigación con IA.",
+          "mini_headline": "Diseñar la UX de la investigación profunda",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
+                "cap": "Diseñar para la investigación compleja con IA"
+              },
+              {
+                "t": "p",
+                "x": "¿Qué ocurre cuando generar una respuesta lleva minutos en lugar de segundos? Este artículo analiza interfaces que responden a las preguntas que se hacen los usuarios al trabajar con IA en tareas complejas: ¿Es esto lo que querías decir? ¿Está pasando algo? ¿Puedo entenderlo? ¿Puedo confiar en esto? ¿Qué hago ahora? ¿Puedo cambiarlo?"
+              },
+              {
+                "t": "p",
+                "x": "Cuando una respuesta tarda minutos, un mal comienzo sale caro. Las preguntas aclaratorias funcionan cuando una solicitud es vaga; un plan funciona cuando es clara pero amplia. Gemini Deep Research expone sus pasos de investigación y un tiempo estimado, y el usuario puede editar el plan o iniciar la investigación."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
+                "cap": "Cadena de razonamiento de la investigación de Google"
+              },
+              {
+                "t": "p",
+                "x": "Elicit y Gemini muestran los pasos de razonamiento, ya que ver el progreso hace más llevadera la espera. Consensus califica la solidez de la evidencia, y su Consensus Meter muestra cuántos estudios dicen sí, no o tienen resultados mixtos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
+                "cap": "Respuesta de Consensus"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity y Microsoft Copilot vinculan las afirmaciones con el pasaje exacto de una fuente y sugieren el siguiente paso después de cada respuesta; Copilot limita las sugerencias a tres. Layla AI permite a los usuarios cambiar directamente partes de un viaje generado."
+              },
+              {
+                "t": "p",
+                "x": "Si tu tarea de IA tarda más de 30 segundos, acuerda el alcance antes de empezar y muestra el progreso mientras trabaja."
               }
             ]
           }

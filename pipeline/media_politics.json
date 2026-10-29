@@ -1,7 +1,30 @@
-{"date":"2026-10-29","section":"politics","media":[
-{"id":"hochul-chatbots","type":"image","src":"pipeline/media/hochul-chatbots.jpg"},
-{"id":"italy-ai-decree","type":"image","src":"pipeline/media/italy-ai-decree.jpg"},
-{"id":"pakistan-ecp-ai","type":"image","src":"pipeline/media/pakistan-ecp-ai.jpg"},
-{"id":"ap-ai-disinfo-videos","type":"image","src":"pipeline/media/ap-ai-disinfo-videos.jpg"},
-{"id":"malaysia-ai-chips","type":"image","src":"pipeline/media/malaysia-ai-chips.jpg"}
-]}
+{
+  "date": "2026-10-30",
+  "section": "politics",
+  "media": [
+    {
+      "id": "dod-unbiased-ai-procurement",
+      "type": "image",
+      "src": "pipeline/media/dod-unbiased-ai-procurement.jpg"
+    },
+    {
+      "id": "wired-accenture-agent-pentagon",
+      "type": "image",
+      "src": "pipeline/media/wired-accenture-agent-pentagon.jpg"
+    },
+    {
+      "id": "austria-un-ai-centre-vienna",
+      "type": "svg"
+    },
+    {
+      "id": "canada-security-strategy-frontier-ai",
+      "type": "image",
+      "src": "pipeline/media/canada-security-strategy-frontier-ai.jpg"
+    },
+    {
+      "id": "google-ai-2020-election-answers",
+      "type": "image",
+      "src": "pipeline/media/google-ai-2020-election-answers.jpg"
+    }
+  ]
+}

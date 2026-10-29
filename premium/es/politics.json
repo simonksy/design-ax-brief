@@ -4200,6 +4200,130 @@
           "x": "La tercera lectura, última oportunidad para que los miembros 'pulan' el proyecto y le introduzcan cambios, está prevista para el lunes 2 de noviembre."
         }
       ]
+    },
+    "politics/wired-accenture-agent-pentagon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+          "cap": "Una mano robótica sondea el Pentágono mientras se filtra código binario."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año, según fuentes consultadas por WIRED, un contratista empleado por Accenture provocó un incidente de seguridad en el Departamento de Defensa al conectar un sistema centralizado seguro, utilizado por varias agencias de inteligencia y que contiene información controlada no clasificada (CUI), a su cuenta personal de Claude Code, el agente de programación con AI de Anthropic. Al parecer, el agente envió después información sobre el sistema, incluidas credenciales de inicio de sesión y un mapa de NIPRNet, a un sitio web de terceros de alto riesgo."
+        },
+        {
+          "t": "p",
+          "x": "El agente funcionó en la red del DOD durante dos meses antes de que se le identificara y pudiera corregirse la vulnerabilidad. Según las fuentes, Accenture no informó inicialmente de la brecha al gobierno, aunque los incidentes deben notificarse en un plazo de 72 horas. Actualmente, el personal del DOD tiene prohibido usar Claude."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz del DOD dijo que “el Departamento no comenta el estado de sus redes o sistemas”. Un portavoz de Accenture afirmó que las acusaciones “fueron investigadas a fondo y de forma independiente, y se determinó que carecían de fundamento”. Expertos en seguridad dijeron a WIRED que las credenciales expuestas podrían permitir a un atacante insertar código malicioso en herramientas que luego se despliegan en redes clasificadas; no hay indicios de que los hackers llegaran a un sistema clasificado."
+        }
+      ]
+    },
+    "politics/austria-un-ai-centre-vienna": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+          "cap": "Alexander Spatari via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Austria propuso el miércoles crear en Viena un centro de AI de las Naciones Unidas durante una reunión internacional sobre seguridad de la AI. La videollamada, organizada conjuntamente por Noruega y Finlandia, se produce tras crecientes llamamientos internacionales a un mayor control de los principales modelos de AI después de una serie de incidentes de ciberseguridad de alto perfil."
+        },
+        {
+          "t": "p",
+          "x": "Un centro de la UN podría desempeñar un “papel central” en la creación de un marco de confianza para la AI, dijo el secretario de Estado austriaco de Digitalización, Alexander Pröll, quien argumentó que Viena ya alberga otros organismos de la UN, incluido el Organismo Internacional de Energía Atómica."
+        },
+        {
+          "t": "p",
+          "x": "Participaron treinta y un países, según Noruega y Finlandia, entre ellos, al parecer, Turquía y Moldavia, pero aparentemente no Estados Unidos (US) ni China. Un “proceso a nivel de expertos” seguirá “explorando opciones para mejorar la seguridad y la protección de la AI”. El primer ministro de Singapur, Lawrence Wong, sugirió un “piloto de notificación de incidentes” inspirado en la aviación internacional, según informes de prensa."
+        },
+        {
+          "t": "p",
+          "x": "Los jefes de Gobierno europeos volverán a debatir sobre AI en una sesión informal del Consejo Europeo en Dublín el 13 de noviembre, y los ministros de Telecomunicaciones de la EU se reunirán el 1 de diciembre."
+        }
+      ]
+    },
+    "politics/canada-security-strategy-frontier-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+          "cap": "El primer ministro Mark Carney."
+        },
+        {
+          "t": "p",
+          "x": "OTTAWA — Los modelos de AI de frontera son una de las mayores amenazas actuales para los canadienses, afirman funcionarios federales, mientras el Gobierno publicó una estrategia de seguridad nacional que busca blindar al país frente a riesgos crecientes e incluso una guerra."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno del primer ministro Mark Carney publicó el jueves la primera estrategia de seguridad nacional en más de dos décadas. Titulada The Plan for a Stronger Canada, ofrece una visión general de cómo Ottawa pretende proteger al país frente a amenazas como la guerra, la inteligencia artificial, los hackers, el espionaje, el sabotaje y la injerencia extranjera, y aumentar su autonomía en ocho sectores clave."
+        },
+        {
+          "t": "p",
+          "x": "“Las amenazas que enfrentan Canadá y los canadienses se han vuelto tan complejas e interrelacionadas, desde el cambio climático hasta el terrorismo, la delincuencia, los opioides y las pandemias, desde los ciberataques hasta la AI de frontera y la creciente posibilidad de una gran guerra”, dijo un alto funcionario."
+        },
+        {
+          "t": "p",
+          "x": "La estrategia promete más capacidades de inteligencia, contrainteligencia y ciberdefensa, una nueva legislación de seguridad nacional en el próximo año y cinco estrategias más específicas en los próximos meses. Los funcionarios declinaron detallar los costos antes del presupuesto federal de la próxima semana."
+        }
+      ]
+    },
+    "politics/google-ai-2020-election-answers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ante la pregunta “¿Quién ganó las elecciones presidenciales de 2020?”, el AI Mode de Google dio a Ars Technica una respuesta indirecta que remitía a los usuarios al informe oficial elaborado por la Comisión Federal Electoral (Federal Election Commission, FEC). Hubo una respuesta similar para 2024, mientras que AI Mode ofreció respuestas detalladas y correctas para la mayoría de las demás elecciones presidenciales hasta 2000. Los resultados variaron según el usuario."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+        },
+        {
+          "t": "p",
+          "x": "El modelo Gemini de Google, ChatGPT, Claude y el modelo gestionado por el gobierno en America.gov respondieron directamente. Las comprobaciones puntuales mediante VPN desde Taiwán, Rusia, Francia y Canadá obtuvieron respuestas precisas y directas. Al preguntarle por qué, AI Mode citó “filtros de seguridad para temas electorales recientes y muy sensibles”, aunque los modelos de AI han demostrado ser poco fiables al informar sobre sus propios procesos internos."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de Google dijo que la empresa estaba “corrigiendo el problema con las consultas sobre las elecciones de 2020 en AI Mode”, y añadió: “Hubo una brecha técnica con 2020; lo mismo ocurre con las contiendas al Senado (Senate) de 2022, que estamos trabajando para corregir en la misma actualización”."
+        }
+      ]
+    },
+    "politics/hochul-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+          "cap": "La gobernadora Hochul habla en un podio."
+        },
+        {
+          "t": "p",
+          "x": "La gobernadora Kathy Hochul firmó dos proyectos de ley sobre chatbots de AI y monitores para bebés conectados a internet. La S.9051B/A.10379C prohíbe a las empresas que utilizan funciones de chatbot de AI ofrecer funciones inseguras a menores, incluidos chatbots que se hacen pasar por humanos, generan dependencia emocional, fomentan las autolesiones o mantienen conversaciones sexualmente explícitas."
+        },
+        {
+          "t": "p",
+          "x": "Las empresas no podrán ofrecer estas funciones a usuarios menores de 18 años, ni a ningún usuario sin haber confirmado antes que no es menor de edad: hacerse pasar por una persona real, por un ser vivo o por alguien con emociones humanas; afirmar una relación personal, romántica, profesional o de figura de autoridad con un niño; promover el suicidio, las autolesiones, los trastornos alimentarios o el consumo de drogas y alcohol; y cualquier contenido sexualmente explícito."
+        },
+        {
+          "t": "p",
+          "x": "Las empresas deberán verificar la edad con más de un método, incluido al menos uno que no dependa únicamente de un ID oficial, y borrar la información de edad tras usarla. El fiscal general podrá solicitar sanciones civiles de hasta $25,000 por infracción."
+        },
+        {
+          "t": "video",
+          "yt": "3Kza_uwnviw"
+        },
+        {
+          "t": "p",
+          "x": "“Ninguna empresa debería vender a los niños chatbots que fomenten las autolesiones o finjan ser su amigo o algo más”, dijo Hochul. El asambleísta Alex Bores, uno de los promotores, afirmó que el estado aprobó la ley “pese a la agresiva oposición de la industria”. Un segundo proyecto, S.9508/A.5175A, exige funciones de seguridad y etiquetas de advertencia en los monitores para bebés conectados a internet."
+        }
+      ]
     }
   }
 }

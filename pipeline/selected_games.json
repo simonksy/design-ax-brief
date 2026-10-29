@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "games",
   "items": [
     {
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Valve Knows Steam Has An AI Slop Problem And Has A 'Significant Number Of People' Working On It",
-      "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
-      "source": "Kotaku",
-      "published_iso": "2026-10-28T15:30:21Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg",
-      "excerpt": "Valve says a significant number of people are working on Steam's AI slop and clone problem, though it again puts the onus on the developers being ripped off.",
-      "rationale": "Valve's first official response to the Next Fest AI-clone wave sets the store policy every Steam developer has to plan their demos around."
+      "title": "Studio Atelico launches AI engine built to run on-device inside games",
+      "url": "https://gamesbeat.com/studio-atelico-launches-ai-engine-built-to-run-on-device-inside-games/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-29T17:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg",
+      "excerpt": "Studio Atelico opened early access to the Atelico AI Engine, which runs language models, image generation, speech and AI character behaviours entirely on the player's device inside the game process; it already powers the studio's creature-battler Bobium Brawlers.",
+      "rationale": "A new engine that runs LLMs, image generation, speech and AI characters on the player's device opens to developers in early access, so studios get gen-AI features without paying per-call cloud costs."
     },
     {
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
-      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
-      "source": "Eurogamer",
-      "published_iso": "2026-10-28T20:08:50Z",
-      "og_image": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Epic Games confirmed it is using AI-assisted vibe-coding for everything from Unreal Engine 6 to Fortnite, saying its engineers no longer write the bulk of the code.",
-      "rationale": "The engine most studios build on is now officially written mostly by AI, which changes how UE6 users should think about engine stability and tooling."
+      "title": "Roblox says more than 80% of its top 100 games used AI to accelerate creation",
+      "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-29T20:10:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg",
+      "excerpt": "Roblox's Q3 earnings say more than 80% of its top 100 games used AI to speed up creation in October, time spent in its AI tools tripled among top creators since Q2, and daily use of its MCP Server rose nearly five-fold.",
+      "rationale": "Hard usage numbers from the biggest UGC platform (80% of its top 100 games, 3x time in AI tools, MCP server use up 5x) show AI-assisted creation is now the norm for top Roblox creators."
     },
     {
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "title": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
-      "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
-      "source": "Game Developer",
-      "published_iso": "2026-10-28T15:45:59Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Roblox says an AI agent failed to operate 'as intended' when it mass-downloaded 3D files, including adult content, from Open3DLab, Smutlab and SFMLab for AI training data.",
-      "rationale": "A rogue scraping agent pulled community 3D assets into Roblox's training data, a concrete data-provenance incident 3D artists need to know about."
+      "title": "크래프톤 렐루게임즈, '미메시스' 대규모 업데이트…AI 몬스터 강화",
+      "url": "https://www.inews24.com/view/2019475",
+      "source": "아이뉴스24",
+      "published_iso": "2026-10-27T14:44:56+09:00",
+      "og_image": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
+      "excerpt": "AI 기반 NPC 몬스터가 플레이어의 모습·행동·목소리를 모방하는 'AI 네이티브' 협동 공포게임 미메시스가 1주년 업데이트로 AI 몬스터를 고도화하고 '편집증' 시스템을 추가했다.",
+      "rationale": "A shipped AI-native game updates its mimic monsters, which copy players' looks, behaviour and voices, and adds a new 'paranoia' system: a working example of AI NPCs as the core mechanic."
     },
     {
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "\"네가 한 일을 알고 있다\"...넥슨, 이용자 행동 기억하는 'AI NPC' 개발",
-      "url": "https://www.inews24.com/view/2019597",
-      "source": "아이뉴스24",
-      "published_iso": "2026-10-27T17:33:08+09:00",
-      "og_image": "https://image.inews24.com/v1/9c333440cef95f.jpg",
-      "excerpt": "넥슨이 이용자의 게임 내 행동을 '라이브 메모리'로 실시간 기억해 NPC가 과거 행동에 맞춰 반응하도록 하는 AI 엔진과 자체 DB '패스트그래프'를 공개했다. (off-list: allowed Korean outlets had no fresh copy)",
-      "rationale": "Nexon unveiled a concrete memory engine and graph DB for persistent AI NPCs, a new system that game and narrative designers can actually build on."
+      "title": "'Morale has been terrible' at EA, workers claim, saying that AI mandates and mismanagement have left the company in dysfunction",
+      "url": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
+      "source": "PC Gamer",
+      "published_iso": "2026-10-29T11:47:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg",
+      "excerpt": "EA developers describe top-down mandates to use generative AI tools such as Claude in daily work, alongside layoffs, as a key driver of collapsing morale inside the publisher.",
+      "rationale": "EA developers describe top-down orders to use tools like Claude in daily work at one of the largest AAA publishers, the clearest picture yet of how AI mandates land inside a big studio."
     },
     {
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "라인게임즈, Games on AWS 2026서 AI 퍼블리싱 자동화 노하우 공개",
-      "url": "https://www.thisisgame.com/articles/431458?newsId=400004&categoryId=0",
-      "source": "디스이즈게임",
-      "published_iso": "2026-10-27T21:50:40Z",
-      "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg",
-      "excerpt": "라인게임즈가 Games on AWS 2026에서 사내 AI 시스템으로 게임 개발 문서 자동 갱신과 퍼블리싱 업무를 자동화한 노하우를 공개했다.",
-      "rationale": "A publisher's own account of automating dev-doc updates and publishing ops with in-house AI, a workflow other teams can copy."
+      "title": "Virtue And A Sledgehammer declares war on AI",
+      "url": "https://aftermath.site/virtue-and-a-sledgehammer-review-impressions/",
+      "source": "Aftermath",
+      "published_iso": "2026-10-28T20:10:47.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg",
+      "excerpt": "Deconstructeam's new narrative game Virtue and a Sledgehammer is explicitly about AI - tools like ChatGPT and Claude invading work and home life - and builds toward the player taking a sledgehammer to a data center.",
+      "rationale": "A notable indie studio has shipped a narrative game about AI itself. It shows AI turning into subject matter for games, not just a production tool, and it adds a cultural angle to the day's lineup."
     }
   ],
   "dedup": {
     "checks": {
-      "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496": {
-        "verdict": "follow-up",
-        "nearest": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-        "new_action": "Valve's first official statement on the Next Fest AI-clone problem: it says a 'significant number of people' are working on it and tells developers to make games harder to copy and to report extortion to police. Earlier cards (IGN 10-20, Kotaku 10-17, gamedeveloper 10-24, gamemeca 10-26) covered fans and developers, not a Valve response."
-      },
-      "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code": {
-        "verdict": "follow-up",
-        "nearest": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-        "new_action": "Epic (VP Marcus Wassmer) officially confirmed that Unreal Engine 6 and Fortnite are now developed with AI-written code and that engineers no longer write most of it. This is a new disclosure, not the launcher vibe-coding story (Verge 10-15), the AI-first memo (gamesindustry.biz 10-13), the $50k jam (10-23) or the EULA change (gamedeveloper 10-28)."
-      },
-      "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data": {
+      "https://gamesbeat.com/studio-atelico-launches-ai-engine-built-to-run-on-device-inside-games/": {
         "verdict": "new",
-        "nearest": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+        "nearest": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
         "new_action": ""
       },
-      "https://www.inews24.com/view/2019597": {
+      "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/": {
         "verdict": "new",
-        "nearest": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
+        "nearest": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
         "new_action": ""
       },
-      "https://www.thisisgame.com/articles/431458?newsId=400004&categoryId=0": {
+      "https://www.inews24.com/view/2019475": {
         "verdict": "new",
-        "nearest": "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/",
+        "nearest": "https://www.inews24.com/view/2019597",
+        "new_action": ""
+      },
+      "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/": {
+        "verdict": "new",
+        "nearest": "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/",
+        "new_action": ""
+      },
+      "https://aftermath.site/virtue-and-a-sledgehammer-review-impressions/": {
+        "verdict": "new",
+        "nearest": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
         "new_action": ""
       }
     },
-    "note": "One pick per cluster. Epic UE6/Fortnite AI-coding cluster: kept Eurogamer and dropped PC Gamer, Rock Paper Shotgun and Game Developer (the same Wassmer statement). Valve AI-clone cluster: kept Kotaku and dropped Game Developer, PC Gamer, Eurogamer and GamesRadar (the same Valve statement). Dropped as already published: Krafton Raon-1 mini (= gamemeca 10-22); Shogun 2 VP comment (commentary on the pulled remaster, Kotaku 10-15/10-16); Sakurai 'low-quality goods' (commentary following his 10-17 column); thisisgame indie devs hiding demos (running AI-clone story, inven 10-21 and others); NVIDIA RTX Spark laptops and the RTX Spark neural-rendering dev blog (same platform, blogs.nvidia 10-16 in games and 10-14 in design, no new release). Deprioritized: EA gen-AI mandate and EA morale (based on employee complaints, a labor/business angle, no official action); Kotaku Haunted Paws knockoff (another case in the AI-clone running story); Equity voice-actor warning (union advisory about one casting call, off-list outlet); IGN RDR2 Nemesis mod (10-19, stale); Gameple inZOI AI mods (10-19, stale). Cross-section: published_urls.json is too large to scan in full without grep. Only the design block was checked, and it has blogs.nvidia RTX Spark, so NVIDIA was avoided. The orchestrator should exact-grep these five URLs and 'Open3DLab', 'Nexon AI NPC'/'넥슨 라이브 메모리' and '라인게임즈 Games on AWS' across all sections before roll. Outlets: Kotaku, Eurogamer, Game Developer, 아이뉴스24, 디스이즈게임, one card each."
+    "note": "Dropped as already published or running stories with no new release. Shogun 2 VP comment (likely-repeat of Kotaku 10-15/10-16, commentary only). Both NVIDIA RTX Spark items, cluster c7 (same platform as blogs.nvidia 10-16 in games; gadgets also ran RTX Spark items on 10-10 and 10-18). Steam Next Fest top-50 analysis (running Next Fest AI-slop story: IGN 10-20, Kotaku 10-29). 80 Level haystack dev vs AI clones (same running AI-clone story). Kotaku 'Microsoft and Epic agree AI is theft' (opinion on the running decomp/recomp story). Kotaku PS5 homebrew (running story, Kotaku 10-08). Deprioritized: Playgama AI Game Index (would be a third GamesBeat card, related to Playgama 10-15); GamesRadar Zeschuk (commentary on the Mass Effect 5 cancellation); Wccftech Phantom Blade DLSS 5 mod (another entry in the much-repeated DLSS 5 mod genre: 10-01, 10-09, 10-14, 10-25); Krafton LLM gateway (internal cost story); RPS Sundberg (10-21, stale). Cross-section: published_urls.json is too large to scan in full without grep. The books block and the gadgets block were read, and no pick appears in either; gadgets carries RTX Spark, which is why NVIDIA was avoided. The orchestrator should exact-grep the five URLs plus 'Atelico', 'Mimesis'/'미메시스' and 'Virtue and a Sledgehammer' across all sections before roll. Outlets: GamesBeat x2, 아이뉴스24, PC Gamer, Aftermath."
   }
 }

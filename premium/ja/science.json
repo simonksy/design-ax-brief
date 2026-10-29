@@ -9764,6 +9764,128 @@
           "x": "Exponential Time Hypothesis:OpenAIの証明は指数時間よりごくわずかに速い3-SATアルゴリズムを示し、ETHを否定する。Russell Impagliazzo、Ramamohan Paturi、Ryan WilliamsがOpenAIと独立した検証を進めている。OpenAIの発表からわずか数時間後、Anthropicは社内のAnthropicモデルの成果に基づき、ETHを反証する独自の結果を公開した。"
         }
       ]
+    },
+    "science/nyu-wildfire-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+          "cap": "NYUのDigital Fire Twin試作機による予測。OregonのGrasshopper Fireで火災範囲が観測される約三時間前に出したもので、青が予測、赤が実際の火災範囲を示す。Credit: NYU Tandon School of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "NYU Tandonの研究者Prabodh Panindre、Anandu Nair、Sunil Kumarは、進行中の山火事のデジタルツイン試作機を開発した。衛星、気象情報、地形・燃料マップ、ドローン、センサー、現場隊員から新しいデータが届くたびに延焼予測を更新する。利用者が火災地点と予測エリア、最大12時間の予測期間を選ぶと、平易な言葉で応じるAIインターフェースが避難や防火帯、風向きの変化に関する質問に答える。"
+        },
+        {
+          "t": "p",
+          "x": "このシステムは主に過去のデータに頼るのではなく、物理ベースの延焼モデルとAI層を組み合わせている。「私たちのシステムは学習データから作られたものではない。物理に根ざしている」とKumarは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "進行中の三件の山火事、すなわちOregonのGrasshopper Fire、UtahのWidemouth 2 Fire、New MexicoのSacaton Fireで試験したところ、観測された火災範囲との空間的な重なりはGrasshopper Fireのある試験で94.6%に達し、衛星観測の間隔が長く空いた別の試験では72.4%に下がった。モデルは実際の火災範囲の不規則な縁も再現した。"
+        },
+        {
+          "t": "p",
+          "x": "まだ研究段階の試作機で、実際の山火事には投入されていない。チームは消防機関や連邦政府機関とのさらなる試験を望んでおり、U.S.の仮特許を出願済みだ。"
+        }
+      ]
+    },
+    "science/radboud-fluent-hallucination": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Radboud Universityの研究者Marianna de Sá Siqueira、Barbara Müller、Tibor Bosseは、参加者にThe Lord of the Ringsに関するチャットボットとの会話を見せた。誤った答えを返す流暢なチャットボットは、正確に答える簡潔なチャットボットと同程度に知的で好ましいと評価された。"
+        },
+        {
+          "t": "p",
+          "x": "参加者はこの本の基礎知識を基準に選ばれていたにもかかわらず、約80%が誤りに気づかなかった。「文章が洗練されて自然に聞こえると、人は自動的にそこに知性を見いだす」とMüllerは言う。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、流暢な言葉によって人々がAIの出力を安易に信頼しすぎること、そしてチャット冒頭の免責表示だけでは不十分であることを指摘する。チャットボット自身が不確かさを表明するか、企業に不確かさの可視化を義務づけるべきだと提案している。研究はComputers in Human Behavior: Artificial Humans (2026)に掲載された。"
+        }
+      ]
+    },
+    "science/google-sleep-continual-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+          "cap": "光る青い幾何学図形の流れが、明るく相互につながったニューラルネットワークの球体へと集約していく。"
+        },
+        {
+          "t": "p",
+          "x": "Google ResearchのAli BehrouzとVahab Mirrokniは、継続学習に睡眠段階を導入した。これにより大規模言語モデルは、壊滅的忘却や固定的な知識カットオフを抑えながら新しい事実を継続的に取り込み、推論力を高められる。能動的な対話とオフラインの記憶統合を交互に行うことで、LLMsは新事実を獲得し、最大10M トークンの長文脈の知識を保持し、複雑な推論を改善する。"
+        },
+        {
+          "t": "p",
+          "x": "活動（覚醒）段階では、モデルは一時的な情報を高速な短期記憶に保存する。睡眠段階では新たな入力を止める。記憶統合では、あらかじめ割り当てたMixture-of-Expertsの記憶ブロックを解放して短期記憶をそこへ蒸留し、一時パラメータをリセットする。夢見では合成した練習サンプルを生成・選別し、最良のものでモデルを洗練させる。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+          "cap": "睡眠フレームワークの概要：Consolidation（統合）とDreaming（夢見）。"
+        },
+        {
+          "t": "p",
+          "x": "ManchuやKalamangといった未知の言語での継続翻訳では、性能低下をほぼゼロに抑えた。SQuADと継続事前学習ではそれぞれ48.9%と46.2%に達し、AIME 24/25とHMMT 25では睡眠で強化したベースモデルが79.2%、69.0%、46.1%を記録してSFT、GRPO、OPSDを上回った。"
+        }
+      ]
+    },
+    "science/yonsei-mamba-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+        },
+        {
+          "t": "p",
+          "x": "Yonsei Universityの研究者らは、Mamba構造化状態空間アーキテクチャに基づくニューラル量子誤り訂正（QEC）デコーダーを開発し、深層学習による復号の計算量を符号距離dに対してO(d4)からO(d2)へ削減した。npj Quantum Informationに掲載された研究で、このモデルは実験的なメモリベンチマークにおいてAlphaQubitなどのTransformerベースのモデルと同等の精度を示した。"
+        },
+        {
+          "t": "p",
+          "x": "Transformerデコーダーはすべてのスタビライザートークンを総当たりで比較するため、O(d4)のスケーリングとなり、超伝導コヒーレンスの限界を超える遅延の滞留が生じる。Mambaはアテンションを選択的状態空間層に置き換える。Google Quantum AIのSycamoreデータセットでは、Transformerと同等の精度を達成し、デコーダー起因の遅延ノイズを考慮した場合にも誤り抑制の優位を保ち、その差はd = 3からd = 9にかけて拡大した。"
+        },
+        {
+          "t": "p",
+          "x": "実用化には、サブマイクロ秒のサイクル予算内で推論を実行できるよう、デコーダーを低遅延のFPGAsや専用ASICsに移植する必要がある。"
+        }
+      ]
+    },
+    "science/nmr-spectrometer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+          "cap": "NMR分光計で分析する試料を準備するNiels Chr. Nielsen(左)、Filip V. Jensen、Anders Bodholt Nielsen(右)。Credit: Peter F. Gammelby, Aarhus University"
+        },
+        {
+          "t": "p",
+          "x": "NMR分光計は分子構造を原子レベルまで明らかにできるが、信号が弱いため検出できる対象には限界がある。Aarhus Universityの研究者は、AIを用いて分光計が試料から直接最適なパルス列を学習できるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "一方向を向く核スピンが逆向きのものをごくわずかに上回るだけなので、信号は弱い。Niels Chr. Nielsen教授は「NMRにはMRIスキャナーと同じ欠点がある。比較的感度が低いのだ」と語る。電子の磁気モーメントは陽子の約660倍で、動的核偏極(DNP)ではマイクロ波パルスが電子の秩序の一部を原子核に移す。しかし数百、数千ものスピンが相互作用する場合、理想的なパルス列を事前に計算するのは非常に難しく、モデルが実際の装置の不完全さを見落とすおそれもある。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+          "cap": "分光計は試料から学ぶ。測定した信号はベイズ最適化(Bayesian optimization)アルゴリズムにフィードバックされる。Credit: Filip V. Jensen, Aarhus University / Science Advances"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは自作のDNP分光計を、ベイズ最適化(Bayesian optimization)に基づく機械学習アルゴリズムに接続した。アルゴリズムは試料でパルス列を試し、結果を測定して学習し、次の実験を提案する。筆頭著者のFilip V. Jensenは「新しいのは、最良の実験の進め方を分光計自身に学ばせた点だ」と話す。"
+        },
+        {
+          "t": "p",
+          "x": "より単純なスピン系では、アルゴリズムは既存の最良手法の一部と同等の結果を示し、より複雑な系では基準手法より約70%大きな信号増強を得た。各最適化には二日弱から五日近くを要したが、有効なパルス列は再利用できる。Science Advancesに掲載されたこの概念実証研究は、磁気共鳴を利用した量子センサーに役立つ可能性がある。"
+        }
+      ]
     }
   }
 }

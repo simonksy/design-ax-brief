@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "gadgets",
   "items": [
     {
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-      "source": "Ars Technica",
+      "title": "Rokid Glasses 2 launch with upgraded design, bigger battery, and Dolby Audio support",
+      "url": "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html",
+      "source": "Notebookcheck",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New hardware: in its 10-28 Echo launch, Amazon added a camera to the Echo Studio for $30 more, so Alexa+ can 'see and understand' the room. This one card stands for the whole Echo/Alexa+ launch cluster.",
-      "published_iso": "2026-10-28T18:05:22+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-      "excerpt": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\""
+      "rationale": "New hardware: Rokid's second-gen microLED display glasses add AI-agent support, a bigger battery, and a lighter frame, and are pitched directly at Meta Ray-Ban Display. This one card covers the Rokid cluster.",
+      "published_iso": "2026-10-28T19:20:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+      "excerpt": "Rokid has launched a second-gen model of its smart glasses with a microLED display. The new glasses have a more comfortable design, a bigger battery capacity, upgraded audio, and support for AI agents."
     },
     {
-      "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
-      "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
-      "source": "Road to VR",
+      "title": "Raycast's new iOS keyboard app lets you dictate, swipe type and use AI commands without switching apps",
+      "url": "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/",
+      "source": "Digital Trends",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New product on sale: XREAL Aura, the first AR glasses running Android XR with Gemini built in, ships today starting at $1,100.",
-      "published_iso": "2026-10-28T16:59:00+00:00",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1",
-      "excerpt": "XREAL announced that XREAL AURA, the first AR glasses running Google's Android XR operating system, is launching today, starting at $1,100 for a limited time."
+      "rationale": "New release: Raycast ships a full iPhone keyboard with swipe typing, dictation, and AI writing commands built in, so you can run AI rewrites inside any app without switching keyboards.",
+      "published_iso": "2026-10-29T13:09:45-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Raycast's new iPhone keyboard combines swipe typing, AI writing tools, voice dictation, GIF search, and text shortcuts. You can now access its productivity features without switching keyboards."
     },
     {
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "source": "The Verge",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "rationale": "New decision: Microsoft is removing its Copilot assistant from LG and Samsung smart TVs about two years after launch. It is a clear retreat of an AI assistant from a device category.",
-      "published_iso": "2026-10-28T18:36:26+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-      "excerpt": "Microsoft's AI assistant will soon disappear from your TV."
-    },
-    {
-      "title": "OpenAI now lets you text your Dot agent",
-      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "rationale": "New feature: OpenAI's proactive Dot agent can now be reached by iMessage and RCS, so it works inside the phone's default messaging app.",
-      "published_iso": "2026-10-28T19:15:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-      "excerpt": "The feature works with both iMessage and RCS messaging."
-    },
-    {
-      "title": "iOS 27.2: Apple's AI images now carry Google's SynthID watermark",
-      "url": "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html",
-      "source": "Notebookcheck",
+      "title": "Google's new Android XR tools let developers test apps without needing to buy expensive smart glasses",
+      "url": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
+      "source": "Digital Trends",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "New release behavior: in iOS 27.2, Apple embeds Google's invisible SynthID pixel watermark in Image Playground output and heavily edited photos. The mark is built to survive cropping and compression, which matters for anyone who publishes AI imagery.",
-      "published_iso": "2026-10-27T08:48:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-      "excerpt": "With iOS 27.2, Apple marks all images from Image Playground and more extensively edited photos with Google's invisible SynthID watermark. It is embedded in the pixels rather than the metadata and is designed to survive cropping and compression."
+      "rationale": "New tooling from Android Dev Summit: developers can build and test smart-glasses apps in an emulator without owning the hardware, and Android CLI gains hooks that let AI coding agents test apps and find performance problems.",
+      "published_iso": "2026-10-28T12:38:50-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "At the 2026 Android Dev Summit, Google has announced some interesting features coming to both Android XR and Android CLI. Developers can now build and test apps for smart glasses without owning the hardware, while Android's command-line tools are getting upgrades that help AI coding agents test applications and identify performance problems."
+    },
+    {
+      "title": "Strava adds Google Gemini integration with personalized workout insights",
+      "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "rationale": "New integration: Strava subscribers can now connect Gemini and get personalized insights drawn from their workout history, which brings wearable fitness data into a general-purpose assistant.",
+      "published_iso": "2026-10-29T21:06:35+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history."
+    },
+    {
+      "title": "Google Home update should make Gemini stop saying 'Sorry, I didn't understand' so much",
+      "url": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "rationale": "New release: the latest Gemini for Home update targets a bug where speakers randomly say 'I didn't understand', plus other fixes. It is a fresh release in the running Gemini-on-speakers rollout.",
+      "published_iso": "2026-10-29T19:13:49+00:00",
+      "og_image": null,
+      "excerpt": "Google's latest Gemini for Home update targets a few issues, like one where speakers randomly blurt out \"I didn't understand\"..."
     }
   ],
   "dedup": {
     "checks": {
-      "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/": {
+      "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+        "nearest": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
         "new_action": ""
       },
-      "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/": {
+      "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending": {
+      "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "nearest": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
         "new_action": ""
       },
-      "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/": {
+      "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/": {
         "verdict": "new",
-        "nearest": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+        "nearest": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html": {
-        "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
-        "new_action": ""
+      "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
+        "new_action": "New Gemini for Home software release (late October) fixing the random 'Sorry, I didn't understand' responses. The 10-02 card covered the earlier September noise-handling update."
       }
     },
-    "note": "Amazon Echo/Alexa+ 10-28 launch (c0 aboutamazon + Digital Trends Home Map, c1 ZDNET + Ars Echo Studio camera, CNET Echo vs HomeView, CNET Echo Time, Engadget Alexa Photo Frame): all one launch event, so I kept only Ars (on the whitelist, and its AI-camera angle is the strongest). Its history_match, the 10-10 Verge 'one year with Alexa Plus' review, and the 10-09 Engadget Alexa tablets card are earlier, separate events. XREAL Aura (c9: Road to VR, Android Authority, blog.google): kept Road to VR for the price and ship date. The 10-17 Android Authority Gemini-on-XR teardown is a different story. Also dropped from the glasses group: the Samsung XR glasses 'doomed' opinion piece (commentary on the 10-14 Samsung reveal), the Engadget 'how to tell if someone uses AI glasses' explainer (evergreen), INMO GO3 (flagged sponsored on 10-26, and stale), and the Android XR dev tools item (second Android XR item on the same day; a developer story). Copilot on TVs (c20: Verge, XDA): kept the Verge. The 10-08 Copilot-in-Windows and 10-24 File Explorer cards are different events. OpenAI Dot (c7: Engadget, 9to5Mac): kept Engadget. The gadgets history has no earlier Dot card, and the history_match (Ollama TTS) is unrelated. SynthID: the nearest earlier card is the 10-27 9to5Mac 'what's new in iOS 27.2' Siri roundup, which is about Siri, not the watermark, so this one is new. Other drops: Gemini Live redesign sneak peek (an unreleased teardown, dropped 10-28 too); Gemini Notebook recorder (a small increment on the 10-25 Notebook card); Perplexity Mac voice mode (lower priority); Meta Waddle World (AI pet app, not a gadget); Japan chainsaw robot (still human-operated, so a demo). Cross-section: I had no grep tool, so I did NOT exact-grep published_urls.json. The orchestrator must verify these 5 URLs, plus 'Echo Studio', 'XREAL Aura', 'Dot' and 'SynthID', against every section. The SynthID item (10-27) is the most likely to clash with design or politics. Diversity: 5 outlets (Ars, Road to VR, The Verge, Engadget, Notebookcheck), each with a distinct accent."
+    "note": "Cross-section: I read the gadgets, design and marketing blocks of published_urls.json. I could not grep the whole file, so the orchestrator should still exact-check these 5 URLs, plus 'Rokid', 'Raycast', 'Strava' and 'Android XR CLI', against books, games, movies, music, science, medicine and politics. Dropped as duplicates: (1) Tom's Hardware Samsung TV AI ad-tracking: the exact URL ran in MARKETING on 2026-10-26. (2) The Verge Amazon digital picture frame and the TechRadar Echo Show 16: both come from the same 10-28 Amazon Echo/Alexa+ launch, which gadgets already covered on 10-29 with the Ars Echo Studio camera card. Yesterday's curator kept that one card for the whole cluster and dropped the Engadget Alexa Photo Frame. (3) Tom's Guide Alexa Tablet 12 Pro review: a review of the tablets that ran 10-09 (Engadget), with no new release. (4) Android Authority 'Rokid takes on Meta Ray-Ban Displays': same Rokid launch as the Notebookcheck pick; I kept Notebookcheck for its spec detail. Other drops: INMO GO3 (flagged as sponsored on 10-26, and stale at 10-21); iPhone 18 Pro vs Android AI (opinion); Apple Watch 'two features soon' (vague teaser; 9to5Mac ran a similar Series 12 features piece 09-08); HomePod mini 2 release (Siri AI is not available at launch, so AI is incidental); Rivian/VW JV AI assistant (business/JV framing); Alexa for Shopping 100+ capabilities (commerce, borders marketing, and a fourth Amazon item); Vivo V80 camera (10-20, lower novelty); Chicago delivery-robot lawsuits (10-21, older, legal angle). The Android XR dev tools item was skipped on 10-29 only because a second XR item ran that day, not as a duplicate. It is a different event from the XREAL Aura launch. Diversity: 4 outlets (Notebookcheck, Digital Trends x2, 9to5Mac, 9to5Google), each card with a distinct accent."
   }
 }

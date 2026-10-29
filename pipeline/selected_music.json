@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "music",
   "items": [
     {
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "source": "The Verge",
-      "published_iso": "2026-10-28T21:34:04Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
-      "excerpt": "The MPC Sample Key will be an open-source 37-key take on Akai's budget MPC Sample, with firmware opened so users can vibe-code new instruments and features with AI coding tools.",
-      "rationale": "A major hardware maker opens an MPC's firmware so owners can vibe-code new instruments with AI. That is a concrete product announcement, not more trend commentary like the 10-20 Verge feature. Of the two outlets covering it, The Verge has the fuller report."
-    },
-    {
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "title": "Behringer Kick is a sampler with vibe-coded firmware at its core: Is this really the future we want?",
-      "url": "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware",
-      "source": "MusicRadar",
-      "published_iso": "2026-10-28T18:09:34Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd-768-80.jpg",
-      "excerpt": "Behringer's in-development open-source sampler Kick is pitched around AI-generated firmware: 'With AI, even people without programming experience can turn their ideas into new features and firmware.' It also lists an 'AI camera' for gesture control.",
-      "rationale": "A separate product reveal from another company: Behringer's open-source Kick sampler is designed around AI-written firmware and has an AI gesture camera. Together with Akai, it shows AI-moddable firmware becoming a hardware selling point."
-    },
-    {
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "AI takes the stage with BSO musicians in Tod Machover's wild world premiere",
-      "url": "https://www.wbur.org/news/2026/10/22/tod-machover-mit-media-lab-bso-ai",
-      "source": "WBUR",
-      "published_iso": "2026-10-22T19:54:16Z",
-      "og_image": "https://media.wbur.org/wp/2026/10/IMG_8264-2048x1536.jpeg",
-      "excerpt": "MIT Media Lab composer Tod Machover's 25-minute 'already and not yet' puts 80-plus Boston Symphony Orchestra players in dialogue with a live AI system that responds to each musician's performance.",
-      "rationale": "A major orchestra premieres a work with a live AI system that responds to each of 80+ players in real time. It brings performance and classical music into a pool otherwise full of gear stories, and it was the reserve pick on 10-28."
+      "title": "Suno launches MCP server to 'create music right from the chat'",
+      "url": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
+      "source": "Music Ally",
+      "published_iso": "2026-10-29T13:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Suno opened an early-access MCP server so users can generate songs from inside Claude, ChatGPT, Gemini, Claude Code and Cursor; tracks use normal Suno credits and land in the user's Suno library, for free and paid tiers.",
+      "rationale": "New product release: you can now run Suno from inside the AI assistants people already work in, on both free and paid tiers."
     },
     {
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Russia's media regulator blocks viral AI-generated song 'You're My Scumbag' on streaming services",
-      "url": "https://meduza.io/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
-      "source": "Meduza",
-      "published_iso": "2026-10-28T16:04:19Z",
-      "og_image": "https://meduza.io/imgly/share/1793203459/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
-      "excerpt": "The viral AI-generated song 'Ty moya...' by DJ NARODNII has been blocked on Russian streaming services by the media regulator.",
-      "rationale": "A new regulatory action: a state media regulator ordered a viral AI-generated song off streaming services. It is a fresh angle on AI tracks charting, separate from the platform-labelling stories already published."
+      "title": "Avenged Sevenfold's Zacky Vengeance Defends AI Art, Calls Majority of Designers He's Worked With 'Lazy'",
+      "url": "https://metalinjection.net/news/avenged-sevenfolds-zacky-vengeance-defends-ai-art-calls-majority-of-designers-hes-worked-with-lazy",
+      "source": "Metal Injection",
+      "published_iso": "2026-10-29T19:16:30+00:00",
+      "og_image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-1024x576.jpg",
+      "excerpt": "After fans flagged the artwork for A7X's Misfits 'Horror Business' cover as AI-generated, Zacky Vengeance said he 'fully embraces AI', prefers 'my prompts', and called most designers he has worked with lazy — reigniting the album-art vs. AI debate.",
+      "rationale": "A fresh flashpoint over AI-made album art, and the cover designers who are losing that work, from a major band."
+    },
+    {
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "A$AP Rocky Accused Of Plagiarizing Part Of AI-Assisted 'Shroom Clouds' Video",
+      "url": "https://stereogum.com/2515567/aap-rocky-accused-of-plagiarizing-part-of-ai-assisted-shroom-clouds-video/news",
+      "source": "Stereogum",
+      "published_iso": "2026-10-26T15:18:51+00:00",
+      "og_image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png",
+      "excerpt": "VFX artist Cache Bunny says a psychedelic tunnel shot in A$AP Rocky's 'Shroom Clouds' video lifts a 2019 GoPro Fusion piece and was altered with AI; the video credits list two 'AI Artist' roles.",
+      "rationale": "A new case of AI being used to rework an artist's footage without credit in a big music video, which raises the question of who gets credited."
     },
     {
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "SMEBench: Benchmarking Neural Music Editing with Synthetized MIDI Edits",
-      "url": "https://arxiv.org/abs/2610.36715",
-      "source": "arXiv",
-      "published_iso": "2026-10-27T06:31:02Z",
-      "og_image": null,
-      "excerpt": "A large-scale benchmark of controlled music edits built by modifying symbolic MIDI performances and rendering matched source/target audio, covering twelve instrumentation, articulation and dynamics edit types for evaluating instruction-based neural music editors.",
-      "rationale": "A new benchmark for instruction-based music editing, with 12 controlled edit types built from paired MIDI renders. It gives a standard way to compare AI editors for instrumentation, articulation and dynamics changes. It is a different task from the published MQAScore and MuseBench evaluation papers."
+      "title": "Pozalabs reveals AI producer Steal Saturday as its own act",
+      "url": "https://www.kentertechhub.com/pozalabs-ai-producer/",
+      "source": "K-EnterTech Hub",
+      "published_iso": "2026-10-26T05:49:35+00:00",
+      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg",
+      "excerpt": "Seoul AI-music company Pozalabs released a five-song ballad album by AI producer Steal Saturday on Oct. 26 and, for the first time, publicly identified the act as one it created.",
+      "rationale": "New album release plus a first public disclosure that a Korean AI-music company is behind an AI act, at a time when AI labels are under scrutiny."
+    },
+    {
+      "tool": "Music",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "title": "\"AI 썼다고 밝히면 저작권료 못 받는 현실\"…국회서 분배 기준 논의",
+      "url": "https://news.ifm.kr/news/articleView.html?idxno=482765",
+      "source": "경인방송",
+      "published_iso": "2026-10-27T15:19:38+09:00",
+      "og_image": "https://cdn.news.ifm.kr/news/thumbnail/202610/482765_157214_1634_v150.jpg",
+      "excerpt": "김재원·배현진 의원이 국회에서 'AI 활용 음악' 저작권료 분배 기준 토론회를 열고, AI 사용을 정직하게 신고한 창작자만 저작권료를 못 받는 구조를 바로잡을 기준을 논의했다.",
+      "rationale": "A National Assembly forum on royalty-split rules for AI-assisted music, which bears directly on how Korean creators get paid."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key": {
+      "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+        "nearest": "https://www.digitalmusicnews.com/2026/10/07/grok-bot-suno/",
         "new_action": ""
       },
-      "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware": {
+      "https://metalinjection.net/news/avenged-sevenfolds-zacky-vengeance-defends-ai-art-calls-majority-of-designers-hes-worked-with-lazy": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+        "nearest": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-expectations-ai-debunk-1235644671/",
         "new_action": ""
       },
-      "https://www.wbur.org/news/2026/10/22/tod-machover-mit-media-lab-bso-ai": {
+      "https://stereogum.com/2515567/aap-rocky-accused-of-plagiarizing-part-of-ai-assisted-shroom-clouds-video/news": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.vice.com/en/article/fontaines-dc-blindsided-by-unsanctioned-ironic-use-of-ai-on-marianne-music-video/",
         "new_action": ""
       },
-      "https://meduza.io/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services": {
+      "https://www.kentertechhub.com/pozalabs-ai-producer/": {
         "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "nearest": "https://ra.co/news/86257",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.36715": {
+      "https://news.ifm.kr/news/articleView.html?idxno=482765": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.31083",
+        "nearest": "https://news.tf.co.kr/read/ptoday/2378150.htm",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or skipped: (1) MusicRadar 'Akai kicks back? Sample Key teaser' is cluster c1, the same Akai Sample Key story as the Verge pick, so one per story. (2) TechCrunch Genie 4 already ran in games on 10-28 (cross-section rule), and music is only a side angle there. (3) DMN 'Suno fires back against Apple' is another filing in the UMG/Sony v. Suno subpoena saga (10-17, 10-20, 10-24, 10-25, 10-27). The 10-27 and 10-28 curators dropped the Apple-subpoena item for consistency, and it stays dropped. (4) DMN ICMP Australia is the running Australian copyright/ARIA lobbying story from 10-07, an advocacy statement only (also dropped 10-28). (5) Billboard Latin Music Week AI panel is commentary with no new decision. Not picked: aitimes.kr MIT Smaragdis hearing-AI overview (research profile, no new release; reserve) and arXiv ChoreoStudio (dance generation, music is only an input, and related to the DJustify paper from 10-27). Cross-section: checked published_urls.json science and politics blocks, and none of the five URLs appear. The Akai, Behringer and Meduza items were published after the 10-28 run, so they cannot be in any section's history. Exact-grep all five URLs plus 'Sample Key', 'Behringer Kick' and 'Machover' across sections before roll. Akai and Behringer are the same theme (vibe-coded open firmware), but they are distinct product announcements from different companies, kept as two cards on different outlets. Final 5 outlets: The Verge, MusicRadar, WBUR, Meduza, arXiv, one each. SMEBench has no og_image, so ax-media needs an in-article or figure image."
+    "note": "Dropped as repeats of published stories: news1 6333828 (Melon #2 Suno track = same song as the 10-18 musically 'The Adult I Dreamed Of' card; the government is only reviewing labeling, with no decision yet); news1 6335523 ('딸깍 음악' policy-gap analysis of the same story, commentary only); Billboard Spotify co-CEOs remix tool (commentary on the Spotify AI remix tool already covered 10-21 hypebot and 10-26 musically). Not picked on score: SkillBox Zenith Studio (event-listing tool, only loosely about music), Hankyung AI classical premiere (too close to the 10-29 Tod Machover BSO card), bnt AI singer Rosien, MIT Smaragdis feature (evergreen), two arXiv papers, Billboard Latin panel (commentary). Cross-section published_urls.json was spot-checked only, not exhaustively grepped — the orchestrator should confirm Suno MCP is not already in another section (design/workflow)."
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "science",
   "cards": [
     {
-      "id": "nmr-spectrometer",
+      "id": "linkoping-mxene-mining",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "펄스를 스스로 배우는\nNMR 분광기",
-      "body": "Aarhus 연구진의 AI NMR은 시뮬레이션 없이 시료에서 최적 펄스열을 익힌다.",
-      "mini_headline": "시료에서 배우는 NMR",
+      "headline": "AI, 데이터베이스에서\n잊힌 2D 소재 캐내다",
+      "body": "Linköping이 AI로 놓친 MXenes 33종을 찾아 11종을 새로 합성했다.",
+      "mini_headline": "AI가 찾은 잊힌 MXenes",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
+      "url": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,209 +19,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-            "cap": "Niels Chr. Nielsen(왼쪽), Filip V. Jensen, Anders Bodholt Nielsen(오른쪽)이 NMR 분광기로 분석할 시료를 준비하고 있다. Credit: Peter F. Gammelby, Aarhus University"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+            "cap": "2-d 소재. Credit: CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "NMR 분광기는 분자 구조를 원자 수준까지 밝혀내지만 신호가 약해 검출할 수 있는 대상이 제한된다. Aarhus University 연구진은 AI를 써서 분광기가 시료에서 직접 최적의 펄스열을 학습하게 했다."
+            "x": "Linköping University 연구진이 AI로 소재 데이터베이스를 뒤져 MXenes를 찾았다. MXenes는 2011년 처음 발견된 초박형 2D 소재 계열이다. 그동안 아무도 눈여겨보지 않던 MXenes 33종이 검색에 걸렸다."
           },
           {
             "t": "p",
-            "x": "신호가 약한 것은 한쪽 방향을 향하는 핵스핀이 반대쪽보다 아주 조금 많을 뿐이기 때문이다. Niels Chr. Nielsen 교수는 \"NMR은 MRI 스캐너와 같은 약점이 있다. 상대적으로 둔감하다는 점이다\"라고 말한다. 전자의 자기 모멘트는 양성자보다 약 660배 크다. 동적 핵 편극(DNP)은 마이크로파 펄스로 전자의 정렬 일부를 원자핵에 옮긴다. 다만 스핀 수백, 수천 개가 상호작용하면 이상적인 펄스열을 미리 계산하기가 매우 어렵고 모델이 실제 장비의 결함을 놓칠 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-            "cap": "분광기는 시료에서 배운다. 측정한 신호는 베이지안 최적화(Bayesian optimization) 알고리즘으로 되돌아간다. Credit: Filip V. Jensen, Aarhus University / Science Advances"
+            "x": "연구팀은 여기서 착안해 MXenes 11종을 새로 합성했다. 외부 가열 없이 몇 초 만에 MXenes를 만드는 방법도 찾았는데, 기존 방식보다 유해 화학물질과 물이 덜 든다."
           },
           {
             "t": "p",
-            "x": "연구팀은 직접 만든 DNP 분광기를 베이지안 최적화(Bayesian optimization) 기반 머신러닝 알고리즘에 연결했다. 알고리즘이 시료에 펄스열을 시험하고 결과를 재서 학습한 뒤 다음 실험을 제안하는 방식이다. 주저자 Filip V. Jensen은 \"새로운 점은 분광기가 최선의 실험을 수행하는 방법을 스스로 배우게 했다는 것\"이라고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준 방법 일부와 맞먹었고, 더 복잡한 스핀계에서는 기준 방법보다 신호를 약 70% 더 크게 증폭했다. 최적화 한 번에 이틀이 조금 못 되는 시간부터 거의 닷새까지 걸렸지만 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이번 개념 증명 연구는 자기공명 기반 양자 센서에도 쓰임새가 있을 전망이다."
+            "x": "일부 금속을 희토류 금속으로 바꾸자 소재에 자성이 생겼다. 에너지와 데이터 저장 분야에도 쓸 길이 열린다. 연구 그룹을 이끄는 Johanna Rosén은 \"문헌과 데이터베이스는 보물창고다\"라고 말했다. 연구는 Science에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An NMR spectrometer that\nlearns its own pulses",
-          "body": "Aarhus researchers used AI to let an NMR spectrometer learn its best pulse sequence from the sample, not simulations.",
-          "mini_headline": "NMR learns from the sample",
+          "headline": "AI mines databases for\nforgotten 2D materials",
+          "body": "Linköping researchers used AI to mine materials databases, finding 33 overlooked MXenes and making 11 new ones.",
+          "mini_headline": "AI finds forgotten MXenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "Niels Chr. Nielsen (left), Filip V. Jensen and Anders Bodholt Nielsen (right) prepare a sample for analysis in the NMR spectrometer. Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "2-d material. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "NMR spectrometers can reveal molecular structure down to the atomic level, but weak signals limit what they can detect. Aarhus University researchers have used AI to let the spectrometer learn the best pulse sequence directly from the sample."
+                "x": "Researchers at Linköping University used AI to search materials databases for MXenes, a family of ultrathin 2D materials first discovered in 2011. The search turned up 33 MXenes that had previously been overlooked."
               },
               {
                 "t": "p",
-                "x": "Only a very small excess of nuclear spins points one way rather than the other, so the signal is weak. \"NMR has the same disadvantage as MRI scanners: it is relatively insensitive,\" says Prof. Niels Chr. Nielsen. Electrons have a magnetic moment about 660 times larger than a proton's, and in dynamic nuclear polarization (DNP) microwave pulses transfer some of their order to the nuclei. But with hundreds or thousands of interacting spins, the ideal pulse sequence is very hard to calculate in advance, and models may miss real instrument imperfections."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "The spectrometer learns from the sample: measured signals are fed back to a Bayesian optimization algorithm. Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "Inspired by these findings, the team synthesized 11 new MXenes. They also made MXenes in seconds without external heating, using fewer hazardous chemicals and less water than earlier methods."
               },
               {
                 "t": "p",
-                "x": "The team connected a home-built DNP spectrometer to a machine-learning algorithm based on Bayesian optimization. It tests a pulse sequence on the sample, measures the result, learns from it and proposes the next experiment. \"What is new is that we let the spectrometer learn for itself how to perform the best experiments,\" says first author Filip V. Jensen."
-              },
-              {
-                "t": "p",
-                "x": "In a simpler spin system the algorithm matched some of the best existing approaches; in a more complex one it gave about 70% greater signal enhancement than the reference method. Each optimization took from just under two days to almost five days, but a working sequence can be reused. The proof-of-concept study, published in Science Advances, could help magnetic-resonance-based quantum sensors."
+                "x": "Replacing some of the metals with rare-earth metals made the materials magnetic, which could broaden their use in energy and data storage. \"The literature and databases are treasure troves,\" said Johanna Rosén, who leads the group. The study was published in Science."
               }
             ]
           }
         },
         "ko": {
-          "headline": "펄스를 스스로 배우는\nNMR 분광기",
-          "body": "Aarhus 연구진의 AI NMR은 시뮬레이션 없이 시료에서 최적 펄스열을 익힌다.",
-          "mini_headline": "시료에서 배우는 NMR",
+          "headline": "AI, 데이터베이스에서\n잊힌 2D 소재 캐내다",
+          "body": "Linköping이 AI로 놓친 MXenes 33종을 찾아 11종을 새로 합성했다.",
+          "mini_headline": "AI가 찾은 잊힌 MXenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "Niels Chr. Nielsen(왼쪽), Filip V. Jensen, Anders Bodholt Nielsen(오른쪽)이 NMR 분광기로 분석할 시료를 준비하고 있다. Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "2-d 소재. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "NMR 분광기는 분자 구조를 원자 수준까지 밝혀내지만 신호가 약해 검출할 수 있는 대상이 제한된다. Aarhus University 연구진은 AI를 써서 분광기가 시료에서 직접 최적의 펄스열을 학습하게 했다."
+                "x": "Linköping University 연구진이 AI로 소재 데이터베이스를 뒤져 MXenes를 찾았다. MXenes는 2011년 처음 발견된 초박형 2D 소재 계열이다. 그동안 아무도 눈여겨보지 않던 MXenes 33종이 검색에 걸렸다."
               },
               {
                 "t": "p",
-                "x": "신호가 약한 것은 한쪽 방향을 향하는 핵스핀이 반대쪽보다 아주 조금 많을 뿐이기 때문이다. Niels Chr. Nielsen 교수는 \"NMR은 MRI 스캐너와 같은 약점이 있다. 상대적으로 둔감하다는 점이다\"라고 말한다. 전자의 자기 모멘트는 양성자보다 약 660배 크다. 동적 핵 편극(DNP)은 마이크로파 펄스로 전자의 정렬 일부를 원자핵에 옮긴다. 다만 스핀 수백, 수천 개가 상호작용하면 이상적인 펄스열을 미리 계산하기가 매우 어렵고 모델이 실제 장비의 결함을 놓칠 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "분광기는 시료에서 배운다. 측정한 신호는 베이지안 최적화(Bayesian optimization) 알고리즘으로 되돌아간다. Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "연구팀은 여기서 착안해 MXenes 11종을 새로 합성했다. 외부 가열 없이 몇 초 만에 MXenes를 만드는 방법도 찾았는데, 기존 방식보다 유해 화학물질과 물이 덜 든다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 직접 만든 DNP 분광기를 베이지안 최적화(Bayesian optimization) 기반 머신러닝 알고리즘에 연결했다. 알고리즘이 시료에 펄스열을 시험하고 결과를 재서 학습한 뒤 다음 실험을 제안하는 방식이다. 주저자 Filip V. Jensen은 \"새로운 점은 분광기가 최선의 실험을 수행하는 방법을 스스로 배우게 했다는 것\"이라고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준 방법 일부와 맞먹었고, 더 복잡한 스핀계에서는 기준 방법보다 신호를 약 70% 더 크게 증폭했다. 최적화 한 번에 이틀이 조금 못 되는 시간부터 거의 닷새까지 걸렸지만 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이번 개념 증명 연구는 자기공명 기반 양자 센서에도 쓰임새가 있을 전망이다."
+                "x": "일부 금속을 희토류 금속으로 바꾸자 소재에 자성이 생겼다. 에너지와 데이터 저장 분야에도 쓸 길이 열린다. 연구 그룹을 이끄는 Johanna Rosén은 \"문헌과 데이터베이스는 보물창고다\"라고 말했다. 연구는 Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "パルスを自ら学ぶ\nNMR分光計",
-          "body": "Aarhusの研究者はAIでNMRに模擬計算でなく試料から最適なパルス列を学ばせた。",
-          "mini_headline": "試料から学ぶNMR",
+          "headline": "AIがデータベースから\n忘れられた2D素材を発掘",
+          "body": "Linköping大はAIで埋もれたMXenes 33種を見つけ、11種を新たに作った。",
+          "mini_headline": "AIが忘れられたMXenesを発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "NMR分光計で分析する試料を準備するNiels Chr. Nielsen(左)、Filip V. Jensen、Anders Bodholt Nielsen(右)。Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "2-d 素材。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "NMR分光計は分子構造を原子レベルまで明らかにできるが、信号が弱いため検出できる対象には限界がある。Aarhus Universityの研究者は、AIを用いて分光計が試料から直接最適なパルス列を学習できるようにした。"
+                "x": "Linköping Universityの研究者は、AIを使って素材データベースからMXenesを探索した。MXenesは2011年に初めて発見された極薄の2D材料の一群である。その結果、これまで見落とされていたMXenes 33種が見つかった。"
               },
               {
                 "t": "p",
-                "x": "一方向を向く核スピンが逆向きのものをごくわずかに上回るだけなので、信号は弱い。Niels Chr. Nielsen教授は「NMRにはMRIスキャナーと同じ欠点がある。比較的感度が低いのだ」と語る。電子の磁気モーメントは陽子の約660倍で、動的核偏極(DNP)ではマイクロ波パルスが電子の秩序の一部を原子核に移す。しかし数百、数千ものスピンが相互作用する場合、理想的なパルス列を事前に計算するのは非常に難しく、モデルが実際の装置の不完全さを見落とすおそれもある。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "分光計は試料から学ぶ。測定した信号はベイズ最適化(Bayesian optimization)アルゴリズムにフィードバックされる。Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "研究チームはこの成果に触発され、新たに11種のMXenesを合成した。さらに外部加熱なしにわずか数秒でMXenesを作製し、従来法より有害化学物質と水の使用量も抑えた。"
               },
               {
                 "t": "p",
-                "x": "研究チームは自作のDNP分光計を、ベイズ最適化(Bayesian optimization)に基づく機械学習アルゴリズムに接続した。アルゴリズムは試料でパルス列を試し、結果を測定して学習し、次の実験を提案する。筆頭著者のFilip V. Jensenは「新しいのは、最良の実験の進め方を分光計自身に学ばせた点だ」と話す。"
-              },
-              {
-                "t": "p",
-                "x": "より単純なスピン系では、アルゴリズムは既存の最良手法の一部と同等の結果を示し、より複雑な系では基準手法より約70%大きな信号増強を得た。各最適化には二日弱から五日近くを要したが、有効なパルス列は再利用できる。Science Advancesに掲載されたこの概念実証研究は、磁気共鳴を利用した量子センサーに役立つ可能性がある。"
+                "x": "一部の金属を希土類金属に置き換えると材料が磁性を帯び、エネルギーやデータ保存への用途が広がる可能性がある。グループを率いるJohanna Rosénは「文献とデータベースは宝の山だ」と語った。研究成果はScienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "自学脉冲序列的\nNMR波谱仪",
-          "body": "Aarhus研究人员借助AI，让NMR波谱仪不靠模拟、直接从样品中学会最佳脉冲序列。",
-          "mini_headline": "NMR从样品中学习",
+          "headline": "AI挖掘数据库\n找回被遗忘的2D材料",
+          "body": "Linköping团队用AI挖掘数据库，找到33种被忽视的MXenes并新制11种。",
+          "mini_headline": "AI找回被遗忘的MXenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "Niels Chr. Nielsen（左）、Filip V. Jensen和Anders Bodholt Nielsen（右）正在准备用于NMR波谱仪分析的样品。Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "2-d 材料。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "NMR波谱仪能把分子结构解析到原子层面，但微弱的信号限制了它能检测的范围。Aarhus University的研究人员借助AI，让波谱仪直接从样品中学习最佳脉冲序列。"
+                "x": "Linköping University的研究人员利用AI在材料数据库中搜寻MXenes。MXenes是一类超薄2D材料，于2011年首次被发现。此次搜索找出了33种此前被忽视的MXenes。"
               },
               {
                 "t": "p",
-                "x": "朝一个方向排列的核自旋只比反方向的多出极少一点，因此信号很弱。Niels Chr. Nielsen教授说：“NMR和MRI扫描仪有同样的缺点：灵敏度相对较低。”电子的磁矩约为质子的660倍，在动态核极化（DNP）中，微波脉冲会把电子的部分有序性转移给原子核。但当数百乃至数千个自旋相互作用时，理想的脉冲序列很难预先计算，模型也可能忽略仪器的真实缺陷。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "波谱仪从样品中学习：测得的信号被反馈给贝叶斯优化（Bayesian optimization）算法。Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "受这些发现启发，团队合成了11种新的MXenes。他们还在无需外部加热的条件下数秒内制得MXenes，所用有害化学品和水都少于以往方法。"
               },
               {
                 "t": "p",
-                "x": "团队把自制的DNP波谱仪连接到基于贝叶斯优化（Bayesian optimization）的机器学习算法上。算法在样品上测试脉冲序列、测量结果、从中学习，再提出下一次实验。论文第一作者Filip V. Jensen说：“新颖之处在于，我们让波谱仪自己学会如何开展最佳实验。”"
-              },
-              {
-                "t": "p",
-                "x": "在较简单的自旋体系中，该算法与部分现有最佳方法持平；在更复杂的体系中，它的信号增强比参考方法高出约70%。每次优化耗时从不到两天到将近五天不等，但有效的序列可以重复使用。这项发表于Science Advances的概念验证研究，或有助于基于磁共振的量子传感器。"
+                "x": "用稀土金属替换部分金属后，材料具有了磁性，有望拓宽其在能源和数据存储领域的用途。领导该团队的Johanna Rosén表示：“文献和数据库是宝库。”该研究发表于Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un espectrómetro de NMR que\naprende sus propios pulsos",
-          "body": "En Aarhus, la AI permitió a un espectrómetro de NMR aprender sus mejores pulsos de la muestra, no de simulaciones.",
-          "mini_headline": "La NMR aprende de la muestra",
+          "headline": "La AI explora bases de datos\ny halla materiales 2D olvidados",
+          "body": "Un equipo de Linköping usó AI para explorar bases de datos, halló 33 MXenes olvidados y creó 11 nuevos.",
+          "mini_headline": "La AI halla MXenes olvidados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "Niels Chr. Nielsen (izquierda), Filip V. Jensen y Anders Bodholt Nielsen (derecha) preparan una muestra para analizarla en el espectrómetro de NMR. Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "Material 2-d. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Los espectrómetros de NMR pueden revelar la estructura molecular hasta el nivel atómico, pero las señales débiles limitan lo que pueden detectar. Investigadores de Aarhus University han usado AI para que el espectrómetro aprenda la mejor secuencia de pulsos directamente de la muestra."
+                "x": "Investigadores de la Linköping University usaron AI para buscar en bases de datos de materiales MXenes, una familia de materiales 2D ultrafinos descubiertos por primera vez en 2011. La búsqueda reveló 33 MXenes que habían pasado inadvertidos."
               },
               {
                 "t": "p",
-                "x": "Solo un exceso muy pequeño de espines nucleares apunta en un sentido y no en el otro, por lo que la señal es débil. \"La NMR tiene la misma desventaja que los escáneres de MRI: es relativamente poco sensible\", dice el Prof. Niels Chr. Nielsen. Los electrones tienen un momento magnético unas 660 veces mayor que el de un protón, y en la polarización nuclear dinámica (DNP) los pulsos de microondas transfieren parte de su orden a los núcleos. Pero con cientos o miles de espines que interactúan, la secuencia de pulsos ideal es muy difícil de calcular de antemano, y los modelos pueden pasar por alto imperfecciones reales del instrumento."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "El espectrómetro aprende de la muestra: las señales medidas se envían de vuelta a un algoritmo de optimización bayesiana (Bayesian optimization). Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "A partir de estos hallazgos, el equipo sintetizó 11 MXenes nuevos. También fabricó MXenes en segundos sin calentamiento externo, con menos productos químicos peligrosos y menos agua que los métodos anteriores."
               },
               {
                 "t": "p",
-                "x": "El equipo conectó un espectrómetro de DNP de fabricación propia a un algoritmo de aprendizaje automático basado en optimización bayesiana (Bayesian optimization). Este prueba una secuencia de pulsos en la muestra, mide el resultado, aprende de él y propone el siguiente experimento. \"Lo nuevo es que dejamos que el espectrómetro aprendiera por sí mismo a realizar los mejores experimentos\", dice el primer autor, Filip V. Jensen."
-              },
-              {
-                "t": "p",
-                "x": "En un sistema de espines más simple, el algoritmo igualó a algunos de los mejores enfoques existentes; en uno más complejo, logró un aumento de señal alrededor de un 70% mayor que el del método de referencia. Cada optimización tardó desde poco menos de dos días hasta casi cinco, pero una secuencia que funciona puede reutilizarse. El estudio de prueba de concepto, publicado en Science Advances, podría ayudar a los sensores cuánticos basados en resonancia magnética."
+                "x": "Al sustituir parte de los metales por metales de tierras raras, los materiales se volvieron magnéticos, lo que podría ampliar su uso en energía y almacenamiento de datos. \"La literatura y las bases de datos son auténticos tesoros\", dijo Johanna Rosén, que dirige el grupo. El estudio se publicó en Science."
               }
             ]
           }
@@ -229,145 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "펄스를 스스로 배우는\nNMR 분광기",
-          "body": "Aarhus 연구진의 AI NMR은 시뮬레이션 대신 시료로 최적 펄스열을 익힌다.",
-          "mini_headline": "시료에서 배우는 NMR",
+          "headline": "AI, 데이터베이스에서\n잊힌 2D 소재 캐내다",
+          "body": "Linköping이 AI로 놓친 MXenes 33종을 찾고 11종을 새로 만들었다.",
+          "mini_headline": "AI가 찾은 잊힌 MXenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "Niels Chr. Nielsen(왼쪽), Filip V. Jensen, Anders Bodholt Nielsen(오른쪽)이 NMR 분광기로 분석할 시료를 준비하고 있다. Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "2-d 소재. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "NMR 분광기는 분자 구조를 원자 수준까지 밝혀낼 수 있지만, 신호가 약해 검출할 수 있는 대상에 한계가 있다. Aarhus University 연구진은 AI를 활용해 분광기가 시료에서 직접 최적의 펄스열을 학습하도록 했다."
+                "x": "Linköping University 연구진이 AI로 소재 데이터베이스를 뒤져 MXenes를 찾았다. MXenes는 2011년 처음 발견된 초박형 2D 소재 계열이다. 검색 결과 그동안 간과된 MXenes 33종이 드러났다."
               },
               {
                 "t": "p",
-                "x": "한쪽 방향을 향하는 핵스핀이 반대쪽보다 아주 조금 많을 뿐이어서 신호가 약하다. Niels Chr. Nielsen 교수는 \"NMR은 MRI 스캐너와 같은 약점이 있다. 상대적으로 둔감하다는 점이다\"라고 말한다. 전자의 자기 모멘트는 양성자보다 약 660배 크며, 동적 핵 편극(DNP)에서는 마이크로파 펄스가 전자의 정렬 일부를 원자핵으로 옮긴다. 그러나 수백, 수천 개의 스핀이 상호작용하면 이상적인 펄스열을 미리 계산하기가 매우 어렵고, 모델이 실제 장비의 결함을 놓칠 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "분광기는 시료에서 배운다. 측정된 신호가 베이지안 최적화(Bayesian optimization) 알고리즘으로 다시 전달된다. Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "연구팀은 이 결과에서 착안해 새로운 MXenes 11종을 합성했다. 외부 가열 없이 몇 초 만에 MXenes를 만드는 데도 성공했고, 기존 방법보다 유해 화학물질과 물을 덜 썼다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 직접 제작한 DNP 분광기를 베이지안 최적화(Bayesian optimization) 기반의 머신러닝 알고리즘에 연결했다. 알고리즘은 시료에 펄스열을 시험하고 결과를 측정해 학습한 뒤 다음 실험을 제안한다. 주저자 Filip V. Jensen은 \"새로운 점은 분광기가 최선의 실험을 수행하는 방법을 스스로 배우게 했다는 것\"이라고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준의 방법 일부와 대등한 성능을 냈고, 더 복잡한 스핀계에서는 기준 방법보다 약 70% 큰 신호 증폭을 보였다. 최적화마다 이틀이 조금 안 되는 시간에서 거의 닷새까지 걸렸지만, 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이 개념 증명 연구는 자기공명 기반 양자 센서에 도움이 될 수 있다."
+                "x": "일부 금속을 희토류 금속으로 바꾸자 소재가 자성을 띠었고, 이는 에너지와 데이터 저장 분야로 쓰임을 넓힐 수 있다. 연구 그룹을 이끄는 Johanna Rosén은 \"문헌과 데이터베이스는 보물창고다\"라고 말했다. 연구는 Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "パルスを自ら学ぶ\nNMR分光計",
-          "body": "Aarhusの研究者はAIでNMRに模擬計算でなく試料から最適なパルス列を学ばせた。",
-          "mini_headline": "試料から学ぶNMR",
+          "headline": "AIがデータベースから\n忘れられた2D素材を発掘",
+          "body": "Linköping大はAIで埋もれたMXenes 33種を見つけ、11種を新たに作った。",
+          "mini_headline": "AIが忘れられたMXenesを発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "NMR分光計で分析する試料を準備するNiels Chr. Nielsen(左)、Filip V. Jensen、Anders Bodholt Nielsen(右)。Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "2-d 素材。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "NMR分光計は分子構造を原子レベルまで明らかにできるが、信号が弱いため検出できる対象には限界がある。Aarhus Universityの研究者は、AIを用いて分光計が試料から直接最適なパルス列を学習できるようにした。"
+                "x": "Linköping Universityの研究者は、AIを使って素材データベースからMXenesを探索した。MXenesは2011年に初めて発見された極薄の2D材料の一群である。その結果、これまで見落とされていたMXenes 33種が見つかった。"
               },
               {
                 "t": "p",
-                "x": "一方向を向く核スピンが逆向きのものをごくわずかに上回るだけなので、信号は弱い。Niels Chr. Nielsen教授は「NMRにはMRIスキャナーと同じ欠点がある。比較的感度が低いのだ」と語る。電子の磁気モーメントは陽子の約660倍で、動的核偏極(DNP)ではマイクロ波パルスが電子の秩序の一部を原子核に移す。しかし数百、数千ものスピンが相互作用する場合、理想的なパルス列を事前に計算するのは非常に難しく、モデルが実際の装置の不完全さを見落とすおそれもある。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "分光計は試料から学ぶ。測定した信号はベイズ最適化(Bayesian optimization)アルゴリズムにフィードバックされる。Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "研究チームはこの成果に触発され、新たに11種のMXenesを合成した。さらに外部加熱なしにわずか数秒でMXenesを作製し、従来法より有害化学物質と水の使用量も抑えた。"
               },
               {
                 "t": "p",
-                "x": "研究チームは自作のDNP分光計を、ベイズ最適化(Bayesian optimization)に基づく機械学習アルゴリズムに接続した。アルゴリズムは試料でパルス列を試し、結果を測定して学習し、次の実験を提案する。筆頭著者のFilip V. Jensenは「新しいのは、最良の実験の進め方を分光計自身に学ばせた点だ」と話す。"
-              },
-              {
-                "t": "p",
-                "x": "より単純なスピン系では、アルゴリズムは既存の最良手法の一部と同等の結果を示し、より複雑な系では基準手法より約70%大きな信号増強を得た。各最適化には二日弱から五日近くを要したが、有効なパルス列は再利用できる。Science Advancesに掲載されたこの概念実証研究は、磁気共鳴を利用した量子センサーに役立つ可能性がある。"
+                "x": "一部の金属を希土類金属に置き換えると材料が磁性を帯び、エネルギーやデータ保存への用途が広がる可能性がある。グループを率いるJohanna Rosénは「文献とデータベースは宝の山だ」と語った。研究成果はScienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "自学脉冲序列的\nNMR波谱仪",
-          "body": "Aarhus研究人员借助AI，让NMR波谱仪不靠模拟、直接从样品中学会最佳脉冲序列。",
-          "mini_headline": "NMR从样品中学习",
+          "headline": "AI挖掘数据库\n找回被遗忘的2D材料",
+          "body": "Linköping团队用AI挖掘数据库，找到33种被忽视的MXenes并新制11种。",
+          "mini_headline": "AI找回被遗忘的MXenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "Niels Chr. Nielsen（左）、Filip V. Jensen和Anders Bodholt Nielsen（右）正在准备用于NMR波谱仪分析的样品。Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "2-d 材料。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "NMR波谱仪能把分子结构解析到原子层面，但微弱的信号限制了它能检测的范围。Aarhus University的研究人员借助AI，让波谱仪直接从样品中学习最佳脉冲序列。"
+                "x": "Linköping University的研究人员利用AI在材料数据库中搜寻MXenes。MXenes是一类超薄2D材料，于2011年首次被发现。此次搜索找出了33种此前被忽视的MXenes。"
               },
               {
                 "t": "p",
-                "x": "朝一个方向排列的核自旋只比反方向的多出极少一点，因此信号很弱。Niels Chr. Nielsen教授说：“NMR和MRI扫描仪有同样的缺点：灵敏度相对较低。”电子的磁矩约为质子的660倍，在动态核极化（DNP）中，微波脉冲会把电子的部分有序性转移给原子核。但当数百乃至数千个自旋相互作用时，理想的脉冲序列很难预先计算，模型也可能忽略仪器的真实缺陷。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "波谱仪从样品中学习：测得的信号被反馈给贝叶斯优化（Bayesian optimization）算法。Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "受这些发现启发，团队合成了11种新的MXenes。他们还在无需外部加热的条件下数秒内制得MXenes，所用有害化学品和水都少于以往方法。"
               },
               {
                 "t": "p",
-                "x": "团队把自制的DNP波谱仪连接到基于贝叶斯优化（Bayesian optimization）的机器学习算法上。算法在样品上测试脉冲序列、测量结果、从中学习，再提出下一次实验。论文第一作者Filip V. Jensen说：“新颖之处在于，我们让波谱仪自己学会如何开展最佳实验。”"
-              },
-              {
-                "t": "p",
-                "x": "在较简单的自旋体系中，该算法与部分现有最佳方法持平；在更复杂的体系中，它的信号增强比参考方法高出约70%。每次优化耗时从不到两天到将近五天不等，但有效的序列可以重复使用。这项发表于Science Advances的概念验证研究，或有助于基于磁共振的量子传感器。"
+                "x": "用稀土金属替换部分金属后，材料具有了磁性，有望拓宽其在能源和数据存储领域的用途。领导该团队的Johanna Rosén表示：“文献和数据库是宝库。”该研究发表于Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un espectrómetro de NMR que\naprende sus propios pulsos",
-          "body": "En Aarhus, la AI permitió a un espectrómetro de NMR aprender sus mejores pulsos de la muestra, no de simulaciones.",
-          "mini_headline": "La NMR aprende de la muestra",
+          "headline": "La AI explora bases de datos\ny halla materiales 2D olvidados",
+          "body": "Un equipo de Linköping usó AI para explorar bases de datos, halló 33 MXenes olvidados y creó 11 nuevos.",
+          "mini_headline": "La AI halla MXenes olvidados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-                "cap": "Niels Chr. Nielsen (izquierda), Filip V. Jensen y Anders Bodholt Nielsen (derecha) preparan una muestra para analizarla en el espectrómetro de NMR. Credit: Peter F. Gammelby, Aarhus University"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+                "cap": "Material 2-d. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Los espectrómetros de NMR pueden revelar la estructura molecular hasta el nivel atómico, pero las señales débiles limitan lo que pueden detectar. Investigadores de Aarhus University han usado AI para que el espectrómetro aprenda la mejor secuencia de pulsos directamente de la muestra."
+                "x": "Investigadores de la Linköping University usaron AI para buscar en bases de datos de materiales MXenes, una familia de materiales 2D ultrafinos descubiertos por primera vez en 2011. La búsqueda reveló 33 MXenes que habían pasado inadvertidos."
               },
               {
                 "t": "p",
-                "x": "Solo un exceso muy pequeño de espines nucleares apunta en un sentido y no en el otro, por lo que la señal es débil. \"La NMR tiene la misma desventaja que los escáneres de MRI: es relativamente poco sensible\", dice el Prof. Niels Chr. Nielsen. Los electrones tienen un momento magnético unas 660 veces mayor que el de un protón, y en la polarización nuclear dinámica (DNP) los pulsos de microondas transfieren parte de su orden a los núcleos. Pero con cientos o miles de espines que interactúan, la secuencia de pulsos ideal es muy difícil de calcular de antemano, y los modelos pueden pasar por alto imperfecciones reales del instrumento."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
-                "cap": "El espectrómetro aprende de la muestra: las señales medidas se envían de vuelta a un algoritmo de optimización bayesiana (Bayesian optimization). Credit: Filip V. Jensen, Aarhus University / Science Advances"
+                "x": "A partir de estos hallazgos, el equipo sintetizó 11 MXenes nuevos. También fabricó MXenes en segundos sin calentamiento externo, con menos productos químicos peligrosos y menos agua que los métodos anteriores."
               },
               {
                 "t": "p",
-                "x": "El equipo conectó un espectrómetro de DNP de fabricación propia a un algoritmo de aprendizaje automático basado en optimización bayesiana (Bayesian optimization). Este prueba una secuencia de pulsos en la muestra, mide el resultado, aprende de él y propone el siguiente experimento. \"Lo nuevo es que dejamos que el espectrómetro aprendiera por sí mismo a realizar los mejores experimentos\", dice el primer autor, Filip V. Jensen."
-              },
-              {
-                "t": "p",
-                "x": "En un sistema de espines más simple, el algoritmo igualó a algunos de los mejores enfoques existentes; en uno más complejo, logró un aumento de señal alrededor de un 70% mayor que el del método de referencia. Cada optimización tardó desde poco menos de dos días hasta casi cinco, pero una secuencia que funciona puede reutilizarse. El estudio de prueba de concepto, publicado en Science Advances, podría ayudar a los sensores cuánticos basados en resonancia magnética."
+                "x": "Al sustituir parte de los metales por metales de tierras raras, los materiales se volvieron magnéticos, lo que podría ampliar su uso en energía y almacenamiento de datos. \"La literatura y las bases de datos son auténticos tesoros\", dijo Johanna Rosén, que dirige el grupo. El estudio se publicó en Science."
               }
             ]
           }
@@ -375,15 +285,15 @@
       }
     },
     {
-      "id": "pasqal",
+      "id": "nyu-wildfire-digital-twin",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "Pasqal, 클라우드\n양자 실험 AI 워크플로",
-      "body": "Pasqal의 AI-driven 워크플로가 양자 작업을 준비·검증해 관측량을 낸다.",
-      "mini_headline": "Pasqal의 AI 양자 워크플로",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
+      "headline": "물리 기반 AI가\n산불 확산 예측한다",
+      "body": "NYU Tandon 산불 트윈은 위성 자료로 실제 화선과 최대 94.6% 겹쳤다.",
+      "mini_headline": "AI 트윈이 내다본 산불",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -391,173 +301,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+            "cap": "NYU의 Digital Fire Twin 시제품 예측. Oregon의 Grasshopper Fire 화선이 관측되기 약 세 시간 전에 만들었다. 파란색은 예측 화선, 빨간색은 실제 화선이다. Credit: NYU Tandon School of Engineering"
           },
           {
             "t": "p",
-            "x": "중성원자 양자컴퓨팅 기업 Pasqal(Nasdaq: PSQL)이 Pasqal Cloud용 AI-assisted 워크플로를 발표했다. 주요 에이전틱 코딩 환경의 플러그인 형태로, 명확히 정의된 과학 아이디어를 양자 처리 장치(QPU)에서 돌아가는 실험으로 옮겨 준다. 아이디어와 하드웨어 실행 사이에 놓인 엔지니어링 부담을 덜어 주는 셈이다."
+            "x": "NYU Tandon의 연구자 Prabodh Panindre, Anandu Nair, Sunil Kumar가 진행 중인 산불의 디지털 트윈 시제품을 만들었다. 위성, 기상 정보, 지형·연료 지도, 드론, 센서, 현장 대원에게서 새 데이터가 들어올 때마다 확산 예측이 갱신된다. 사용자가 산불 위치와 예측 범위, 예측 기간(최대 12시간)을 고르면 AI 인터페이스가 대피, 방화선, 풍향 변화 같은 질문에 쉬운 말로 답한다."
           },
           {
             "t": "p",
-            "x": "워크플로는 논문에 실린 실험이나 독창적인 아이디어에서 출발한다. 프로토콜을 추출하거나 정식화해 하드웨어에서 바로 돌릴 수 있는 양자 작업으로 바꾸고, 에뮬레이션으로 검증한 다음 클라우드로 제출해 결과를 과학적 관측량으로 처리한다."
+            "x": "과거 데이터에 주로 기대는 방식이 아니라, 물리 기반 산불 확산 모델 위에 AI 층을 얹었다. Kumar는 \"우리 시스템은 학습 데이터로 만든 것이 아니다. 물리학에 근거한다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "CEO Wasiq Bokhari는 \"양자컴퓨팅의 병목이 옮겨 가고 있다\"며 \"한때 연구자의 주의를 요구하던 엔지니어링 작업은 점점 더 자동화할 수 있게 됐고, 덕분에 연구자는 과학에 더 온전히 집중할 수 있다\"고 말했다."
+            "x": "Oregon의 Grasshopper Fire, Utah의 Widemouth 2 Fire, New Mexico의 Sacaton Fire 등 진행 중인 산불 세 건에서 시험했다. 관측 화선과의 공간 중첩률은 Grasshopper Fire 시험 한 번에서 94.6%까지 올라갔고, 위성 관측 간격이 길었던 다른 시험에서는 72.4%에 그쳤다. 모델은 실제 화선의 들쭉날쭉한 가장자리까지 재현했다."
           },
           {
             "t": "p",
-            "x": "아이디어 구상과 검증, 무엇을 측정할지, 결과가 물리적 주장을 뒷받침하는지 판단하는 일은 여전히 사용자 몫이다. 플러그인은 Claude Code, Cursor, Codex 등에 설치할 수 있고, 실험은 Pasqal Cloud의 QPUs 세 대에서 돌아간다. 프랑스 CEA에서 GENCI가 운영하는 Ruby, 캐나다 Québec주 Sherbrooke의 FC1, 사우디아라비아 왕국의 SA1이다."
+            "x": "아직 연구용 시제품이라 실제 산불 현장에 투입된 적은 없다. 연구팀은 소방서·연방 기관과 시험을 더 늘리고 싶어 하며, U.S. 임시 특허도 출원했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pasqal adds an AI workflow\nfor cloud quantum experiments",
-          "body": "Pasqal's AI-driven cloud workflow prepares quantum jobs, checks them in emulation and turns results into observables.",
-          "mini_headline": "Pasqal's AI quantum workflow",
+          "headline": "A physics-informed AI\nforecasts wildfire spread",
+          "body": "NYU Tandon's wildfire digital twin, fed live satellite data, matched observed fire perimeters with up to 94.6% overlap.",
+          "mini_headline": "AI twin forecasts wildfires",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "NYU's Digital Fire Twin prototype forecast, made about three hours before the observed perimeter of the Grasshopper Fire in Oregon: blue is the predicted perimeter, red the actual one. Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "Pasqal (Nasdaq: PSQL), a neutral-atom quantum computing company, has announced an AI-assisted workflow on Pasqal Cloud. Available as a plugin for leading agentic coding environments, it can take a well-defined scientific idea to a running experiment on a quantum processing unit (QPU), reducing the engineering effort between an idea and its execution on hardware."
+                "x": "NYU Tandon researchers Prabodh Panindre, Anandu Nair and Sunil Kumar have built a prototype digital twin of active wildfires that updates its spread forecasts as new data arrives from satellites, weather feeds, terrain and fuel maps, drones, sensors and field crews. Users pick a fire location and forecast area and a time horizon of up to 12 hours, and a plain-language AI interface answers questions about evacuation, firebreaks and wind shifts."
               },
               {
                 "t": "p",
-                "x": "Starting from an experiment described in a paper or an original idea, the workflow extracts or formalizes the protocol, translates it into a hardware-ready quantum job, validates it in emulation, submits it through the cloud and processes the results into scientific observables."
+                "x": "Rather than relying mainly on historical data, the system pairs a physics-based fire-spread model with an AI layer. \"Our system is not built from training data. It is grounded in physics,\" Kumar said."
               },
               {
                 "t": "p",
-                "x": "\"The bottleneck in quantum computing is shifting,\" said CEO Wasiq Bokhari. \"The engineering work that once demanded a researcher's attention can increasingly be automated, allowing researchers to focus more fully on the science.\""
+                "x": "In tests on three active fires — Oregon's Grasshopper Fire, Utah's Widemouth 2 Fire and New Mexico's Sacaton Fire — spatial overlap with observed perimeters reached 94.6% in one Grasshopper Fire test, dropping to 72.4% in another after a longer gap between satellite observations. The model reproduced the irregular edges of real fire perimeters."
               },
               {
                 "t": "p",
-                "x": "Ideation, validation and decisions about what to measure and whether a result supports a physical claim remain with the users. The plugin can be installed in Claude Code, Cursor, Codex and others, and runs experiments on three Pasqal Cloud QPUs: Ruby, operated by GENCI at CEA in France; FC1 in Sherbrooke, Québec, Canada; and SA1 in the Kingdom of Saudi Arabia."
+                "x": "It remains a research prototype, not yet deployed on active fires; the team wants more testing with fire departments and federal agencies and has filed a provisional U.S. patent."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pasqal, 클라우드\n양자 실험 AI 워크플로",
-          "body": "Pasqal의 AI-driven 워크플로가 양자 작업을 준비·검증해 관측량을 낸다.",
-          "mini_headline": "Pasqal의 AI 양자 워크플로",
+          "headline": "물리 기반 AI가\n산불 확산 예측한다",
+          "body": "NYU Tandon 산불 트윈은 위성 자료로 실제 화선과 최대 94.6% 겹쳤다.",
+          "mini_headline": "AI 트윈이 내다본 산불",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "NYU의 Digital Fire Twin 시제품 예측. Oregon의 Grasshopper Fire 화선이 관측되기 약 세 시간 전에 만들었다. 파란색은 예측 화선, 빨간색은 실제 화선이다. Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "중성원자 양자컴퓨팅 기업 Pasqal(Nasdaq: PSQL)이 Pasqal Cloud용 AI-assisted 워크플로를 발표했다. 주요 에이전틱 코딩 환경의 플러그인 형태로, 명확히 정의된 과학 아이디어를 양자 처리 장치(QPU)에서 돌아가는 실험으로 옮겨 준다. 아이디어와 하드웨어 실행 사이에 놓인 엔지니어링 부담을 덜어 주는 셈이다."
+                "x": "NYU Tandon의 연구자 Prabodh Panindre, Anandu Nair, Sunil Kumar가 진행 중인 산불의 디지털 트윈 시제품을 만들었다. 위성, 기상 정보, 지형·연료 지도, 드론, 센서, 현장 대원에게서 새 데이터가 들어올 때마다 확산 예측이 갱신된다. 사용자가 산불 위치와 예측 범위, 예측 기간(최대 12시간)을 고르면 AI 인터페이스가 대피, 방화선, 풍향 변화 같은 질문에 쉬운 말로 답한다."
               },
               {
                 "t": "p",
-                "x": "워크플로는 논문에 실린 실험이나 독창적인 아이디어에서 출발한다. 프로토콜을 추출하거나 정식화해 하드웨어에서 바로 돌릴 수 있는 양자 작업으로 바꾸고, 에뮬레이션으로 검증한 다음 클라우드로 제출해 결과를 과학적 관측량으로 처리한다."
+                "x": "과거 데이터에 주로 기대는 방식이 아니라, 물리 기반 산불 확산 모델 위에 AI 층을 얹었다. Kumar는 \"우리 시스템은 학습 데이터로 만든 것이 아니다. 물리학에 근거한다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "CEO Wasiq Bokhari는 \"양자컴퓨팅의 병목이 옮겨 가고 있다\"며 \"한때 연구자의 주의를 요구하던 엔지니어링 작업은 점점 더 자동화할 수 있게 됐고, 덕분에 연구자는 과학에 더 온전히 집중할 수 있다\"고 말했다."
+                "x": "Oregon의 Grasshopper Fire, Utah의 Widemouth 2 Fire, New Mexico의 Sacaton Fire 등 진행 중인 산불 세 건에서 시험했다. 관측 화선과의 공간 중첩률은 Grasshopper Fire 시험 한 번에서 94.6%까지 올라갔고, 위성 관측 간격이 길었던 다른 시험에서는 72.4%에 그쳤다. 모델은 실제 화선의 들쭉날쭉한 가장자리까지 재현했다."
               },
               {
                 "t": "p",
-                "x": "아이디어 구상과 검증, 무엇을 측정할지, 결과가 물리적 주장을 뒷받침하는지 판단하는 일은 여전히 사용자 몫이다. 플러그인은 Claude Code, Cursor, Codex 등에 설치할 수 있고, 실험은 Pasqal Cloud의 QPUs 세 대에서 돌아간다. 프랑스 CEA에서 GENCI가 운영하는 Ruby, 캐나다 Québec주 Sherbrooke의 FC1, 사우디아라비아 왕국의 SA1이다."
+                "x": "아직 연구용 시제품이라 실제 산불 현장에 투입된 적은 없다. 연구팀은 소방서·연방 기관과 시험을 더 늘리고 싶어 하며, U.S. 임시 특허도 출원했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pasqal、クラウド量子\n実験にAIワークフロー",
-          "body": "PasqalのAI-drivenワークフローは量子ジョブを準備・検証し結果を観測量にする。",
-          "mini_headline": "PasqalのAI量子ワークフロー",
+          "headline": "物理に基づくAIが\n山火事の延焼を予測",
+          "body": "NYU Tandonの山火事ツインは衛星データで実測の火災範囲と最大94.6%重なった。",
+          "mini_headline": "AIツインが山火事を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "NYUのDigital Fire Twin試作機による予測。OregonのGrasshopper Fireで火災範囲が観測される約三時間前に出したもので、青が予測、赤が実際の火災範囲を示す。Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "中性原子方式の量子コンピューター企業Pasqal(Nasdaq: PSQL)は、Pasqal Cloud上のAI-assistedワークフローを発表した。主要なエージェント型コーディング環境向けのプラグインとして提供され、明確に定義された科学的アイデアを量子処理装置(QPU)上で動く実験へと移すことができ、アイデアからハードウェアでの実行までのエンジニアリング作業を減らす。"
+                "x": "NYU Tandonの研究者Prabodh Panindre、Anandu Nair、Sunil Kumarは、進行中の山火事のデジタルツイン試作機を開発した。衛星、気象情報、地形・燃料マップ、ドローン、センサー、現場隊員から新しいデータが届くたびに延焼予測を更新する。利用者が火災地点と予測エリア、最大12時間の予測期間を選ぶと、平易な言葉で応じるAIインターフェースが避難や防火帯、風向きの変化に関する質問に答える。"
               },
               {
                 "t": "p",
-                "x": "論文に記載された実験や独自のアイデアを出発点に、ワークフローはプロトコルを抽出または定式化し、ハードウェアで実行可能な量子ジョブに変換し、エミュレーションで検証し、クラウド経由で投入し、結果を科学的な観測量へと処理する。"
+                "x": "このシステムは主に過去のデータに頼るのではなく、物理ベースの延焼モデルとAI層を組み合わせている。「私たちのシステムは学習データから作られたものではない。物理に根ざしている」とKumarは述べた。"
               },
               {
                 "t": "p",
-                "x": "CEOのWasiq Bokhariは「量子コンピューティングのボトルネックは移りつつある」と述べた。「かつて研究者の注意を必要としたエンジニアリング作業はますます自動化できるようになり、研究者は科学により専念できる」"
+                "x": "進行中の三件の山火事、すなわちOregonのGrasshopper Fire、UtahのWidemouth 2 Fire、New MexicoのSacaton Fireで試験したところ、観測された火災範囲との空間的な重なりはGrasshopper Fireのある試験で94.6%に達し、衛星観測の間隔が長く空いた別の試験では72.4%に下がった。モデルは実際の火災範囲の不規則な縁も再現した。"
               },
               {
                 "t": "p",
-                "x": "アイデアの創出や検証、何を測定するか、結果が物理的な主張を裏づけるかの判断は、引き続きユーザーが担う。プラグインはClaude Code、Cursor、Codexなどにインストールでき、Pasqal CloudのQPUs三台で実験を実行する。フランスのCEAでGENCIが運用するRuby、カナダ・QuébecのSherbrookeにあるFC1、サウジアラビア王国のSA1である。"
+                "x": "まだ研究段階の試作機で、実際の山火事には投入されていない。チームは消防機関や連邦政府機関とのさらなる試験を望んでおり、U.S.の仮特許を出願済みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pasqal新增云端\n量子实验AI工作流",
-          "body": "Pasqal的AI-driven云端工作流准备量子任务、做仿真检验，再把结果转为可观测量。",
-          "mini_headline": "Pasqal的AI量子工作流",
+          "headline": "融合物理知识的AI\n预测山火蔓延",
+          "body": "NYU Tandon的山火数字孪生接入实时卫星数据，与实测火线重合度最高达94.6%。",
+          "mini_headline": "AI孪生预测山火",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "NYU的Digital Fire Twin原型预测图，生成于Oregon的Grasshopper Fire观测火线出现前约三小时：蓝色为预测火线，红色为实际火线。Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "中性原子量子计算公司Pasqal（Nasdaq: PSQL）宣布在Pasqal Cloud上推出AI-assisted工作流。它以插件形式支持主流智能体编程环境，可把定义清晰的科学构想变成在量子处理器（QPU）上运行的实验，减少从构想到硬件执行之间的工程工作量。"
+                "x": "NYU Tandon研究人员Prabodh Panindre、Anandu Nair和Sunil Kumar打造了一个活跃山火的数字孪生原型，会随着来自卫星、气象数据、地形与燃料地图、无人机、传感器和现场人员的新数据不断更新蔓延预测。用户可选择火点位置、预测区域以及最长12小时的预测时段，一个使用通俗语言的AI界面可回答有关疏散、防火隔离带和风向变化的问题。"
               },
               {
                 "t": "p",
-                "x": "从论文中描述的实验或原创构想出发，该工作流会提取或形式化实验方案，将其转换为可在硬件上运行的量子任务，在仿真中验证，通过云端提交，并把结果处理成科学可观测量。"
+                "x": "该系统并不主要依赖历史数据，而是将基于物理的火势蔓延模型与AI层相结合。Kumar说：“我们的系统不是靠训练数据构建的，而是以物理为基础。”"
               },
               {
                 "t": "p",
-                "x": "CEO Wasiq Bokhari表示：“量子计算的瓶颈正在转移。过去需要研究人员投入精力的工程工作，越来越可以自动化，让研究人员能更专注于科学本身。”"
+                "x": "在对三场活跃山火——Oregon的Grasshopper Fire、Utah的Widemouth 2 Fire和New Mexico的Sacaton Fire——的测试中，与观测火线的空间重合度在一次Grasshopper Fire测试中达到94.6%，在另一次卫星观测间隔较长的测试中降至72.4%。模型还重现了真实火线的不规则边缘。"
               },
               {
                 "t": "p",
-                "x": "构想、验证，以及测量什么、结果是否支持某个物理结论等决策，仍由用户负责。该插件可安装在Claude Code、Cursor、Codex等环境中，并在Pasqal Cloud的三台QPUs上运行实验：由GENCI在法国CEA运营的Ruby、位于加拿大Québec省Sherbrooke的FC1，以及位于沙特阿拉伯王国的SA1。"
+                "x": "该系统仍是研究原型，尚未用于实际山火；团队希望与消防部门和联邦机构开展更多测试，并已申请U.S.临时专利。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pasqal suma un flujo de AI\npara experimentos cuánticos",
-          "body": "El flujo AI-driven de Pasqal en la nube prepara trabajos cuánticos, los valida en emulación y extrae observables.",
-          "mini_headline": "El flujo cuántico con AI de Pasqal",
+          "headline": "Una AI basada en física\npredice el avance de incendios",
+          "body": "Con datos satelitales en vivo, el gemelo digital de NYU Tandon coincidió hasta un 94.6% con los perímetros reales.",
+          "mini_headline": "Un gemelo AI predice incendios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "Pronóstico del prototipo Digital Fire Twin de NYU, hecho unas tres horas antes del perímetro observado del Grasshopper Fire en Oregon: en azul, el perímetro previsto; en rojo, el real. Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "Pasqal (Nasdaq: PSQL), empresa de computación cuántica de átomos neutros, ha anunciado un flujo de trabajo AI-assisted en Pasqal Cloud. Disponible como plugin para los principales entornos de programación agéntica, puede llevar una idea científica bien definida a un experimento en marcha en una unidad de procesamiento cuántico (QPU), lo que reduce el esfuerzo de ingeniería entre una idea y su ejecución en hardware."
+                "x": "Los investigadores de NYU Tandon Prabodh Panindre, Anandu Nair y Sunil Kumar han creado un prototipo de gemelo digital de incendios activos que actualiza sus pronósticos de propagación a medida que llegan nuevos datos de satélites, servicios meteorológicos, mapas de terreno y combustible, drones, sensores y equipos de campo. Los usuarios eligen la ubicación del incendio, el área de pronóstico y un horizonte temporal de hasta 12 horas, y una interfaz de AI en lenguaje sencillo responde preguntas sobre evacuación, cortafuegos y cambios de viento."
               },
               {
                 "t": "p",
-                "x": "A partir de un experimento descrito en un artículo o de una idea original, el flujo extrae o formaliza el protocolo, lo traduce a un trabajo cuántico listo para el hardware, lo valida en emulación, lo envía a través de la nube y procesa los resultados para obtener observables científicos."
+                "x": "En lugar de depender sobre todo de datos históricos, el sistema combina un modelo de propagación del fuego basado en la física con una capa de AI. \"Nuestro sistema no se construye a partir de datos de entrenamiento. Se basa en la física\", dijo Kumar."
               },
               {
                 "t": "p",
-                "x": "\"El cuello de botella de la computación cuántica se está desplazando\", dijo el CEO Wasiq Bokhari. \"El trabajo de ingeniería que antes exigía la atención de un investigador puede automatizarse cada vez más, lo que permite a los investigadores centrarse más plenamente en la ciencia\"."
+                "x": "En pruebas con tres incendios activos (el Grasshopper Fire de Oregon, el Widemouth 2 Fire de Utah y el Sacaton Fire de New Mexico), la superposición espacial con los perímetros observados alcanzó el 94.6% en una prueba del Grasshopper Fire y bajó al 72.4% en otra, tras un intervalo más largo entre observaciones satelitales. El modelo reprodujo los bordes irregulares de los perímetros reales."
               },
               {
                 "t": "p",
-                "x": "La ideación, la validación y las decisiones sobre qué medir y si un resultado respalda una afirmación física siguen en manos de los usuarios. El plugin puede instalarse en Claude Code, Cursor, Codex y otros, y ejecuta experimentos en tres QPUs de Pasqal Cloud: Ruby, operada por GENCI en el CEA de Francia; FC1, en Sherbrooke, Québec, Canadá; y SA1, en el Reino de Arabia Saudita."
+                "x": "Sigue siendo un prototipo de investigación, aún no desplegado en incendios activos; el equipo quiere hacer más pruebas con departamentos de bomberos y agencias federales y ha presentado una solicitud provisional de patente en U.S."
               }
             ]
           }
@@ -565,121 +481,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pasqal, 클라우드\n양자 실험 AI 워크플로",
-          "body": "Pasqal AI-driven 워크플로는 양자 작업을 준비·검증해 관측량을 낸다.",
-          "mini_headline": "Pasqal의 AI 양자 워크플로",
+          "headline": "물리 기반 AI가\n산불 확산 예측한다",
+          "body": "NYU Tandon의 산불 트윈은 위성 자료로 실제 화선과 최대 94.6% 겹쳤다.",
+          "mini_headline": "AI 트윈, 산불을 예측하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "NYU의 Digital Fire Twin 시제품 예측이다. Oregon의 Grasshopper Fire 화선이 관측되기 약 세 시간 전에 만든 것으로, 파란색은 예측 화선, 빨간색은 실제 화선이다. Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "중성원자 양자컴퓨팅 기업 Pasqal(Nasdaq: PSQL)이 Pasqal Cloud에서 쓰는 AI-assisted 워크플로를 발표했다. 주요 에이전틱 코딩 환경용 플러그인으로 제공되며, 명확하게 정의된 과학적 아이디어를 양자 처리 장치(QPU)에서 돌아가는 실험으로 옮길 수 있어 아이디어와 하드웨어 실행 사이의 엔지니어링 부담을 줄인다."
+                "x": "NYU Tandon의 연구자 Prabodh Panindre, Anandu Nair, Sunil Kumar는 진행 중인 산불의 디지털 트윈 시제품을 만들었다. 위성, 기상 정보, 지형·연료 지도, 드론, 센서, 현장 대원에게서 새 데이터가 들어올 때마다 확산 예측을 갱신한다. 사용자가 산불 위치와 예측 범위, 최대 12시간의 예측 기간을 고르면, 쉬운 말로 소통하는 AI 인터페이스가 대피, 방화선, 풍향 변화에 관한 질문에 답한다."
               },
               {
                 "t": "p",
-                "x": "이 워크플로는 논문에 기술된 실험이나 독창적인 아이디어에서 출발해 프로토콜을 추출하거나 정식화하고, 하드웨어에서 바로 실행할 수 있는 양자 작업으로 변환한 뒤, 에뮬레이션으로 검증하고, 클라우드를 통해 제출하며, 결과를 과학적 관측량으로 처리한다."
+                "x": "이 시스템은 주로 과거 데이터에 기대는 대신, 물리 기반 산불 확산 모델에 AI 층을 결합했다. Kumar는 \"우리 시스템은 학습 데이터로 만든 것이 아니다. 물리학에 근거한다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "CEO Wasiq Bokhari는 \"양자컴퓨팅의 병목이 옮겨 가고 있다\"며 \"한때 연구자의 주의를 요구하던 엔지니어링 작업은 점점 더 자동화할 수 있게 됐고, 덕분에 연구자는 과학에 더 온전히 집중할 수 있다\"고 말했다."
+                "x": "진행 중인 산불 세 건, 즉 Oregon의 Grasshopper Fire, Utah의 Widemouth 2 Fire, New Mexico의 Sacaton Fire에서 시험한 결과, 관측 화선과의 공간 중첩률은 Grasshopper Fire 시험 한 번에서 94.6%에 이르렀고, 위성 관측 간격이 길었던 다른 시험에서는 72.4%로 떨어졌다. 모델은 실제 화선의 불규칙한 가장자리도 재현했다."
               },
               {
                 "t": "p",
-                "x": "아이디어 구상과 검증, 무엇을 측정할지, 결과가 물리적 주장을 뒷받침하는지에 대한 판단은 여전히 사용자의 몫이다. 플러그인은 Claude Code, Cursor, Codex 등에 설치할 수 있으며, Pasqal Cloud의 QPUs 세 대에서 실험을 실행한다. 프랑스 CEA에서 GENCI가 운영하는 Ruby, 캐나다 Québec주 Sherbrooke의 FC1, 사우디아라비아 왕국의 SA1이다."
+                "x": "아직 연구용 시제품으로 실제 산불에는 투입되지 않았다. 연구팀은 소방서, 연방 기관과 함께 더 많은 시험을 하길 원하며, U.S. 임시 특허를 출원했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pasqal、クラウド量子\n実験にAIワークフロー",
-          "body": "PasqalのAI-drivenワークフローは量子ジョブを準備・検証し結果を観測量にする。",
-          "mini_headline": "PasqalのAI量子ワークフロー",
+          "headline": "物理に基づくAIが\n山火事の延焼を予測",
+          "body": "NYU Tandonの山火事ツインは衛星データで実測の火災範囲と最大94.6%重なった。",
+          "mini_headline": "AIツインが山火事を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "NYUのDigital Fire Twin試作機による予測。OregonのGrasshopper Fireで火災範囲が観測される約三時間前に出したもので、青が予測、赤が実際の火災範囲を示す。Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "中性原子方式の量子コンピューター企業Pasqal(Nasdaq: PSQL)は、Pasqal Cloud上のAI-assistedワークフローを発表した。主要なエージェント型コーディング環境向けのプラグインとして提供され、明確に定義された科学的アイデアを量子処理装置(QPU)上で動く実験へと移すことができ、アイデアからハードウェアでの実行までのエンジニアリング作業を減らす。"
+                "x": "NYU Tandonの研究者Prabodh Panindre、Anandu Nair、Sunil Kumarは、進行中の山火事のデジタルツイン試作機を開発した。衛星、気象情報、地形・燃料マップ、ドローン、センサー、現場隊員から新しいデータが届くたびに延焼予測を更新する。利用者が火災地点と予測エリア、最大12時間の予測期間を選ぶと、平易な言葉で応じるAIインターフェースが避難や防火帯、風向きの変化に関する質問に答える。"
               },
               {
                 "t": "p",
-                "x": "論文に記載された実験や独自のアイデアを出発点に、ワークフローはプロトコルを抽出または定式化し、ハードウェアで実行可能な量子ジョブに変換し、エミュレーションで検証し、クラウド経由で投入し、結果を科学的な観測量へと処理する。"
+                "x": "このシステムは主に過去のデータに頼るのではなく、物理ベースの延焼モデルとAI層を組み合わせている。「私たちのシステムは学習データから作られたものではない。物理に根ざしている」とKumarは述べた。"
               },
               {
                 "t": "p",
-                "x": "CEOのWasiq Bokhariは「量子コンピューティングのボトルネックは移りつつある」と述べた。「かつて研究者の注意を必要としたエンジニアリング作業はますます自動化できるようになり、研究者は科学により専念できる」"
+                "x": "進行中の三件の山火事、すなわちOregonのGrasshopper Fire、UtahのWidemouth 2 Fire、New MexicoのSacaton Fireで試験したところ、観測された火災範囲との空間的な重なりはGrasshopper Fireのある試験で94.6%に達し、衛星観測の間隔が長く空いた別の試験では72.4%に下がった。モデルは実際の火災範囲の不規則な縁も再現した。"
               },
               {
                 "t": "p",
-                "x": "アイデアの創出や検証、何を測定するか、結果が物理的な主張を裏づけるかの判断は、引き続きユーザーが担う。プラグインはClaude Code、Cursor、Codexなどにインストールでき、Pasqal CloudのQPUs三台で実験を実行する。フランスのCEAでGENCIが運用するRuby、カナダ・QuébecのSherbrookeにあるFC1、サウジアラビア王国のSA1である。"
+                "x": "まだ研究段階の試作機で、実際の山火事には投入されていない。チームは消防機関や連邦政府機関とのさらなる試験を望んでおり、U.S.の仮特許を出願済みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pasqal新增云端\n量子实验AI工作流",
-          "body": "Pasqal的AI-driven云端工作流准备量子任务、做仿真检验，再把结果转为可观测量。",
-          "mini_headline": "Pasqal的AI量子工作流",
+          "headline": "融合物理知识的AI\n预测山火蔓延",
+          "body": "NYU Tandon的山火数字孪生接入实时卫星数据，与实测火线重合度最高达94.6%。",
+          "mini_headline": "AI孪生预测山火",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "NYU的Digital Fire Twin原型预测图，生成于Oregon的Grasshopper Fire观测火线出现前约三小时：蓝色为预测火线，红色为实际火线。Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "中性原子量子计算公司Pasqal（Nasdaq: PSQL）宣布在Pasqal Cloud上推出AI-assisted工作流。它以插件形式支持主流智能体编程环境，可把定义清晰的科学构想变成在量子处理器（QPU）上运行的实验，减少从构想到硬件执行之间的工程工作量。"
+                "x": "NYU Tandon研究人员Prabodh Panindre、Anandu Nair和Sunil Kumar打造了一个活跃山火的数字孪生原型，会随着来自卫星、气象数据、地形与燃料地图、无人机、传感器和现场人员的新数据不断更新蔓延预测。用户可选择火点位置、预测区域以及最长12小时的预测时段，一个使用通俗语言的AI界面可回答有关疏散、防火隔离带和风向变化的问题。"
               },
               {
                 "t": "p",
-                "x": "从论文中描述的实验或原创构想出发，该工作流会提取或形式化实验方案，将其转换为可在硬件上运行的量子任务，在仿真中验证，通过云端提交，并把结果处理成科学可观测量。"
+                "x": "该系统并不主要依赖历史数据，而是将基于物理的火势蔓延模型与AI层相结合。Kumar说：“我们的系统不是靠训练数据构建的，而是以物理为基础。”"
               },
               {
                 "t": "p",
-                "x": "CEO Wasiq Bokhari表示：“量子计算的瓶颈正在转移。过去需要研究人员投入精力的工程工作，越来越可以自动化，让研究人员能更专注于科学本身。”"
+                "x": "在对三场活跃山火——Oregon的Grasshopper Fire、Utah的Widemouth 2 Fire和New Mexico的Sacaton Fire——的测试中，与观测火线的空间重合度在一次Grasshopper Fire测试中达到94.6%，在另一次卫星观测间隔较长的测试中降至72.4%。模型还重现了真实火线的不规则边缘。"
               },
               {
                 "t": "p",
-                "x": "构想、验证，以及测量什么、结果是否支持某个物理结论等决策，仍由用户负责。该插件可安装在Claude Code、Cursor、Codex等环境中，并在Pasqal Cloud的三台QPUs上运行实验：由GENCI在法国CEA运营的Ruby、位于加拿大Québec省Sherbrooke的FC1，以及位于沙特阿拉伯王国的SA1。"
+                "x": "该系统仍是研究原型，尚未用于实际山火；团队希望与消防部门和联邦机构开展更多测试，并已申请U.S.临时专利。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pasqal suma un flujo de AI\npara experimentos cuánticos",
-          "body": "El flujo AI-driven de Pasqal en la nube prepara trabajos cuánticos, los valida en emulación y extrae observables.",
-          "mini_headline": "El flujo cuántico con AI de Pasqal",
+          "headline": "Una AI basada en física\npredice el avance de incendios",
+          "body": "Con datos satelitales en vivo, el gemelo digital de NYU Tandon coincidió hasta un 94.6% con los perímetros reales.",
+          "mini_headline": "Un gemelo AI predice incendios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+                "cap": "Pronóstico del prototipo Digital Fire Twin de NYU, hecho unas tres horas antes del perímetro observado del Grasshopper Fire en Oregon: en azul, el perímetro previsto; en rojo, el real. Credit: NYU Tandon School of Engineering"
               },
               {
                 "t": "p",
-                "x": "Pasqal (Nasdaq: PSQL), empresa de computación cuántica de átomos neutros, ha anunciado un flujo de trabajo AI-assisted en Pasqal Cloud. Disponible como plugin para los principales entornos de programación agéntica, puede llevar una idea científica bien definida a un experimento en marcha en una unidad de procesamiento cuántico (QPU), lo que reduce el esfuerzo de ingeniería entre una idea y su ejecución en hardware."
+                "x": "Los investigadores de NYU Tandon Prabodh Panindre, Anandu Nair y Sunil Kumar han creado un prototipo de gemelo digital de incendios activos que actualiza sus pronósticos de propagación a medida que llegan nuevos datos de satélites, servicios meteorológicos, mapas de terreno y combustible, drones, sensores y equipos de campo. Los usuarios eligen la ubicación del incendio, el área de pronóstico y un horizonte temporal de hasta 12 horas, y una interfaz de AI en lenguaje sencillo responde preguntas sobre evacuación, cortafuegos y cambios de viento."
               },
               {
                 "t": "p",
-                "x": "A partir de un experimento descrito en un artículo o de una idea original, el flujo extrae o formaliza el protocolo, lo traduce a un trabajo cuántico listo para el hardware, lo valida en emulación, lo envía a través de la nube y procesa los resultados para obtener observables científicos."
+                "x": "En lugar de depender sobre todo de datos históricos, el sistema combina un modelo de propagación del fuego basado en la física con una capa de AI. \"Nuestro sistema no se construye a partir de datos de entrenamiento. Se basa en la física\", dijo Kumar."
               },
               {
                 "t": "p",
-                "x": "\"El cuello de botella de la computación cuántica se está desplazando\", dijo el CEO Wasiq Bokhari. \"El trabajo de ingeniería que antes exigía la atención de un investigador puede automatizarse cada vez más, lo que permite a los investigadores centrarse más plenamente en la ciencia\"."
+                "x": "En pruebas con tres incendios activos (el Grasshopper Fire de Oregon, el Widemouth 2 Fire de Utah y el Sacaton Fire de New Mexico), la superposición espacial con los perímetros observados alcanzó el 94.6% en una prueba del Grasshopper Fire y bajó al 72.4% en otra, tras un intervalo más largo entre observaciones satelitales. El modelo reprodujo los bordes irregulares de los perímetros reales."
               },
               {
                 "t": "p",
-                "x": "La ideación, la validación y las decisiones sobre qué medir y si un resultado respalda una afirmación física siguen en manos de los usuarios. El plugin puede instalarse en Claude Code, Cursor, Codex y otros, y ejecuta experimentos en tres QPUs de Pasqal Cloud: Ruby, operada por GENCI en el CEA de Francia; FC1, en Sherbrooke, Québec, Canadá; y SA1, en el Reino de Arabia Saudita."
+                "x": "Sigue siendo un prototipo de investigación, aún no desplegado en incendios activos; el equipo quiere hacer más pruebas con departamentos de bomberos y agencias federales y ha presentado una solicitud provisional de patente en U.S."
               }
             ]
           }
@@ -687,15 +607,15 @@
       }
     },
     {
-      "id": "novelty-bench",
+      "id": "radboud-fluent-hallucination",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "LLMs는 연구 아이디어의\n참신성을 판단할 수 있을까",
-      "body": "Ai2 Old Ideas, Novel Problems에서 LLM 판정은 흔들렸다.",
-      "mini_headline": "흔들리는 LLM 참신성 판정",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/novelty-bench",
+      "headline": "유창한 챗봇의 오류\n대부분 눈치 못 챈다",
+      "body": "Radboud 연구에서 유창하게 틀리는 챗봇은 똑똑해 보였고 약 80%가 속았다.",
+      "mini_headline": "유창한 오류는 잘 안 보인다",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-fluent-language-hallucinatory-chatbot-credible.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -703,197 +623,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+            "cap": "Credit: Pixabay/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Ai2가 연구 아이디어의 참신성을 LLMs가 얼마나 믿을 만하게 평가하는지 살핀 연구 Old Ideas, Novel Problems를 공개했다. 벤치마크와 데이터, 코드에 새 평가 세트를 만드는 자동화 파이프라인까지 함께 내놓았다. 연구 아이디어를 생성하는 시스템은 참신성 판정을 또 다른 LLM, 이른바 '참신성 심판'에 맡기는 경우가 많다."
+            "x": "Radboud University 연구자 Marianna de Sá Siqueira, Barbara Müller, Tibor Bosse는 참가자들에게 The Lord of the Rings를 두고 나눈 챗봇 대화를 보여 줬다. 유창하게 틀린 답을 내놓는 챗봇도 간결하게 정답을 말하는 챗봇만큼 지적이고 호감 간다는 평가를 받았다."
           },
           {
             "t": "p",
-            "x": "벤치마크는 ICLR 2026 동료 심사 자료를 쓴다. top-10% 채택 논문에서 뽑은 참신성 높은 인간 아이디어 154개와 bottom-10% 탈락 논문에서 뽑은 참신성 낮은 아이디어 145개(Human-Only), 그리고 인간 아이디어 154개를 단순한 LLM 생성기가 만든 아이디어 154개와 짝지은 세트(Human+Generated)로 이뤄졌다."
+            "x": "참가자들은 이 책의 기본 지식을 갖췄는지 보고 뽑았는데도 약 80%가 오류를 알아채지 못했다. Müller는 \"글이 우아하고 자연스럽게 들리면 사람들은 자동으로 거기에 지능이 있다고 여긴다\"고 말한다."
           },
           {
             "t": "p",
-            "x": "여섯 심판 모델(GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5, Claude Opus 4.6) 모두에서 설정을 조금만 바꿔도 판정이 완전히 달라졌다. GPT-5.4의 프롬프트를 더 단순하게 바꾸자 Human+Generated 쌍 정확도가 93.5%에서 40.9%로 떨어져 무작위 수준 아래로 내려갔다. 같은 변화가 Human-Only에서는 정확도를 약 일곱 포인트 움직이는 데 그쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-          },
-          {
-            "t": "p",
-            "x": "검색과 추론을 늘려도 성능이 꾸준히 오르지는 않았다. 에이전트형 GPT-5.6 Sol 심판은 macro-F1 0.78로 Claude Opus 4.6의 0.89에 못 미쳤고 비용은 약 10x 들었다. 단순한 Claude Opus 4.6 프롬프트는 $2.59로 0.854를 기록해 Idea Novelty Checker(0.642, $30.66)와 Sakana AI의 AI Scientist(0.772, $82.05)를 앞질렀다."
+            "x": "저자들은 언어가 유창하면 사람들이 AI 출력을 너무 쉽게 믿는다며, 대화 첫머리에 면책 문구를 띄우는 것만으로는 부족하다고 본다. 챗봇이 불확실성을 스스로 드러내게 하거나, 기업이 불확실성을 표시하도록 의무화하자고 제안한다. 연구는 Computers in Human Behavior: Artificial Humans (2026)에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Can LLMs judge whether\na research idea is novel",
-          "body": "Ai2's Old Ideas, Novel Problems benchmark finds small changes to the evaluation setup can flip LLM novelty verdicts.",
-          "mini_headline": "LLM novelty verdicts wobble",
+          "headline": "A fluent chatbot's errors\ngo largely unnoticed",
+          "body": "Radboud found a fluent but wrong chatbot seemed as smart as a terse accurate one, and about 80% missed its errors.",
+          "mini_headline": "Fluent errors go unnoticed",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2 released Old Ideas, Novel Problems, a study of how reliably LLMs evaluate the novelty of research ideas, with a benchmark, data, code and an automated pipeline for building new evaluation sets. Systems that generate research ideas often hand the novelty verdict to another LLM, a \"novelty judge.\""
+                "x": "Radboud University researchers Marianna de Sá Siqueira, Barbara Müller and Tibor Bosse showed participants chatbot conversations about The Lord of the Rings. A fluent chatbot that gave false answers was rated as intelligent and pleasant as a terse chatbot that answered accurately."
               },
               {
                 "t": "p",
-                "x": "The benchmark mines ICLR 2026 peer reviews: 154 high-novelty human ideas from top-10% accepted papers and 145 lower-novelty ideas from bottom-10% rejected papers (Human-Only), plus the 154 human ideas paired with 154 ideas from a simple LLM generator (Human+Generated)."
+                "x": "About 80% of participants did not notice the errors, even though they had been selected for basic knowledge of the book. \"If a text sounds elegant and natural, people automatically attribute intelligence to it,\" Müller says."
               },
               {
                 "t": "p",
-                "x": "Across six judges (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 and Claude Opus 4.6), small setup changes produced very different verdicts. Switching GPT-5.4 to a simpler prompt dropped accuracy on Human+Generated pairs from 93.5% to 40.9%, below chance; on Human-Only the same change shifted accuracy by only about seven points."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "More search and reasoning didn't reliably help: an agentic GPT-5.6 Sol judge scored 0.78 macro-F1 versus 0.89 for Claude Opus 4.6, at roughly 10x the cost. A simple Claude Opus 4.6 prompt reached 0.854 for $2.59, beating Idea Novelty Checker (0.642, $30.66) and Sakana AI's AI Scientist (0.772, $82.05)."
+                "x": "The authors argue that fluent language makes people trust AI output too readily and that a disclaimer at the start of a chat is not enough. They suggest chatbots express uncertainty themselves, or that companies be required to make uncertainty visible. The study appears in Computers in Human Behavior: Artificial Humans (2026)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLMs는 연구 아이디어의\n참신성을 판단할 수 있을까",
-          "body": "Ai2 Old Ideas, Novel Problems에서 LLM 판정은 흔들렸다.",
-          "mini_headline": "흔들리는 LLM 참신성 판정",
+          "headline": "유창한 챗봇의 오류\n대부분 눈치 못 챈다",
+          "body": "Radboud 연구에서 유창하게 틀리는 챗봇은 똑똑해 보였고 약 80%가 속았다.",
+          "mini_headline": "유창한 오류는 잘 안 보인다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2가 연구 아이디어의 참신성을 LLMs가 얼마나 믿을 만하게 평가하는지 살핀 연구 Old Ideas, Novel Problems를 공개했다. 벤치마크와 데이터, 코드에 새 평가 세트를 만드는 자동화 파이프라인까지 함께 내놓았다. 연구 아이디어를 생성하는 시스템은 참신성 판정을 또 다른 LLM, 이른바 '참신성 심판'에 맡기는 경우가 많다."
+                "x": "Radboud University 연구자 Marianna de Sá Siqueira, Barbara Müller, Tibor Bosse는 참가자들에게 The Lord of the Rings를 두고 나눈 챗봇 대화를 보여 줬다. 유창하게 틀린 답을 내놓는 챗봇도 간결하게 정답을 말하는 챗봇만큼 지적이고 호감 간다는 평가를 받았다."
               },
               {
                 "t": "p",
-                "x": "벤치마크는 ICLR 2026 동료 심사 자료를 쓴다. top-10% 채택 논문에서 뽑은 참신성 높은 인간 아이디어 154개와 bottom-10% 탈락 논문에서 뽑은 참신성 낮은 아이디어 145개(Human-Only), 그리고 인간 아이디어 154개를 단순한 LLM 생성기가 만든 아이디어 154개와 짝지은 세트(Human+Generated)로 이뤄졌다."
+                "x": "참가자들은 이 책의 기본 지식을 갖췄는지 보고 뽑았는데도 약 80%가 오류를 알아채지 못했다. Müller는 \"글이 우아하고 자연스럽게 들리면 사람들은 자동으로 거기에 지능이 있다고 여긴다\"고 말한다."
               },
               {
                 "t": "p",
-                "x": "여섯 심판 모델(GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5, Claude Opus 4.6) 모두에서 설정을 조금만 바꿔도 판정이 완전히 달라졌다. GPT-5.4의 프롬프트를 더 단순하게 바꾸자 Human+Generated 쌍 정확도가 93.5%에서 40.9%로 떨어져 무작위 수준 아래로 내려갔다. 같은 변화가 Human-Only에서는 정확도를 약 일곱 포인트 움직이는 데 그쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "검색과 추론을 늘려도 성능이 꾸준히 오르지는 않았다. 에이전트형 GPT-5.6 Sol 심판은 macro-F1 0.78로 Claude Opus 4.6의 0.89에 못 미쳤고 비용은 약 10x 들었다. 단순한 Claude Opus 4.6 프롬프트는 $2.59로 0.854를 기록해 Idea Novelty Checker(0.642, $30.66)와 Sakana AI의 AI Scientist(0.772, $82.05)를 앞질렀다."
+                "x": "저자들은 언어가 유창하면 사람들이 AI 출력을 너무 쉽게 믿는다며, 대화 첫머리에 면책 문구를 띄우는 것만으로는 부족하다고 본다. 챗봇이 불확실성을 스스로 드러내게 하거나, 기업이 불확실성을 표시하도록 의무화하자고 제안한다. 연구는 Computers in Human Behavior: Artificial Humans (2026)에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMsは研究アイデアの\n新規性を判定できるか",
-          "body": "Ai2のOld Ideas, Novel ProblemsでLLM判定は設定次第で覆った。",
-          "mini_headline": "揺らぐLLMの新規性判定",
+          "headline": "流暢なチャットボットの\n誤りは大半が見逃される",
+          "body": "Radboudの研究では流暢な誤答ボットも賢く見え、約80%が誤りを見逃した。",
+          "mini_headline": "流暢な誤りは気づかれない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2は、LLMsが研究アイデアの新規性をどれほど確実に評価できるかを調べた研究Old Ideas, Novel Problemsを公開し、ベンチマーク、データ、コード、新たな評価セットを構築する自動パイプラインも併せて公開した。研究アイデアを生成するシステムは、新規性の判定を別のLLM、すなわち「新規性ジャッジ」に委ねることが多い。"
+                "x": "Radboud Universityの研究者Marianna de Sá Siqueira、Barbara Müller、Tibor Bosseは、参加者にThe Lord of the Ringsに関するチャットボットとの会話を見せた。誤った答えを返す流暢なチャットボットは、正確に答える簡潔なチャットボットと同程度に知的で好ましいと評価された。"
               },
               {
                 "t": "p",
-                "x": "ベンチマークはICLR 2026の査読を素材とする。top-10%の採択論文から得た新規性の高い人間のアイデア154件と、bottom-10%の不採択論文から得た新規性の低いアイデア145件(Human-Only)、さらに人間のアイデア154件を単純なLLM生成器によるアイデア154件と組み合わせたもの(Human+Generated)だ。"
+                "x": "参加者はこの本の基礎知識を基準に選ばれていたにもかかわらず、約80%が誤りに気づかなかった。「文章が洗練されて自然に聞こえると、人は自動的にそこに知性を見いだす」とMüllerは言う。"
               },
               {
                 "t": "p",
-                "x": "六つのジャッジ(GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5、Claude Opus 4.6)のいずれでも、わずかな設定変更で判定が大きく変わった。GPT-5.4をより単純なプロンプトに切り替えると、Human+Generatedペアでの正解率は93.5%から40.9%へと下がり、偶然の水準を下回った。Human-Onlyでは、同じ変更による正解率の変化は約七ポイントにとどまった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "検索や推論を増やしても確実な改善にはつながらなかった。エージェント型のGPT-5.6 Solジャッジはmacro-F1が0.78で、Claude Opus 4.6の0.89を下回り、コストは約10xだった。単純なClaude Opus 4.6のプロンプトは$2.59で0.854に達し、Idea Novelty Checker(0.642、$30.66)やSakana AIのAI Scientist(0.772、$82.05)を上回った。"
+                "x": "著者らは、流暢な言葉によって人々がAIの出力を安易に信頼しすぎること、そしてチャット冒頭の免責表示だけでは不十分であることを指摘する。チャットボット自身が不確かさを表明するか、企業に不確かさの可視化を義務づけるべきだと提案している。研究はComputers in Human Behavior: Artificial Humans (2026)に掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs能否判断\n研究构想是否新颖",
-          "body": "Ai2的Old Ideas, Novel Problems发现设置微调会使LLM判定反转。",
-          "mini_headline": "LLM新颖性判定不稳",
+          "headline": "流畅聊天机器人的错误\n大多无人察觉",
+          "body": "Radboud发现，流畅却出错的聊天机器人显得与简洁准确者一样聪明，约80%未察觉错误。",
+          "mini_headline": "流畅的错误无人察觉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2发布了Old Ideas, Novel Problems，研究LLMs评估研究构想新颖性的可靠程度，并公开了基准、数据、代码以及用于构建新评估集的自动化流程。生成研究构想的系统往往把新颖性判定交给另一个LLM，即“新颖性评判者”。"
+                "x": "Radboud University研究人员Marianna de Sá Siqueira、Barbara Müller和Tibor Bosse向参与者展示了关于The Lord of the Rings的聊天机器人对话。给出错误答案但表达流畅的聊天机器人，被评为与回答准确但言简意赅的聊天机器人同样聪明、讨人喜欢。"
               },
               {
                 "t": "p",
-                "x": "该基准取材于ICLR 2026的同行评审：来自top-10%录用论文的154个高新颖性人类构想，与来自bottom-10%被拒论文的145个低新颖性构想（Human-Only）；以及这154个人类构想与一个简单LLM生成器产出的154个构想的配对（Human+Generated）。"
+                "x": "尽管参与者是按对该书具备基础知识的标准挑选的，约80%的人仍未察觉错误。Müller表示：“如果一段文字听起来优雅自然，人们会自动认为它具有智能。”"
               },
               {
                 "t": "p",
-                "x": "在六个评判模型（GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5和Claude Opus 4.6）上，细微的设置改动都带来了截然不同的判定。把GPT-5.4换成更简单的提示词后，它在Human+Generated配对上的准确率从93.5%降至40.9%，低于随机水平；而在Human-Only上，同样的改动只让准确率变化约七个点。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "更多搜索和推理并不能稳定带来提升：智能体式的GPT-5.6 Sol评判者macro-F1为0.78，低于Claude Opus 4.6的0.89，成本却约为10x。一个简单的Claude Opus 4.6提示词以$2.59达到0.854，胜过Idea Novelty Checker（0.642，$30.66）和Sakana AI的AI Scientist（0.772，$82.05）。"
+                "x": "作者认为，流畅的语言让人们过于轻易地信任AI输出，而在对话开头加一条免责声明并不足够。他们建议由聊天机器人自行表达不确定性，或要求企业将不确定性显示出来。该研究发表于Computers in Human Behavior: Artificial Humans (2026)。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Pueden los LLMs juzgar si\nes nueva una idea científica?",
-          "body": "El benchmark Old Ideas, Novel Problems de Ai2 muestra que pequeños cambios pueden invertir el veredicto de un LLM.",
-          "mini_headline": "Los veredictos de los LLM vacilan",
+          "headline": "Los fallos de un chatbot fluido\nsuelen pasar inadvertidos",
+          "body": "En Radboud, un chatbot fluido pero erróneo pareció tan listo como uno preciso y cerca del 80% no vio sus fallos.",
+          "mini_headline": "Errores fluidos que pasan inadvertidos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2 publicó Old Ideas, Novel Problems, un estudio sobre la fiabilidad con la que los LLMs evalúan la novedad de las ideas de investigación, junto con un benchmark, datos, código y un pipeline automatizado para crear nuevos conjuntos de evaluación. Los sistemas que generan ideas de investigación suelen delegar el veredicto de novedad en otro LLM, un \"juez de novedad\"."
+                "x": "Los investigadores de la Radboud University Marianna de Sá Siqueira, Barbara Müller y Tibor Bosse mostraron a los participantes conversaciones con un chatbot sobre The Lord of the Rings. Un chatbot fluido que daba respuestas falsas fue valorado tan inteligente y agradable como un chatbot escueto que respondía con precisión."
               },
               {
                 "t": "p",
-                "x": "El benchmark se basa en revisiones por pares de ICLR 2026: 154 ideas humanas de alta novedad procedentes de artículos aceptados del top-10% y 145 ideas de menor novedad de artículos rechazados del bottom-10% (Human-Only), además de las 154 ideas humanas emparejadas con 154 ideas de un generador LLM sencillo (Human+Generated)."
+                "x": "Cerca del 80% de los participantes no detectó los errores, pese a que habían sido seleccionados por tener conocimientos básicos del libro. \"Si un texto suena elegante y natural, la gente le atribuye inteligencia automáticamente\", afirma Müller."
               },
               {
                 "t": "p",
-                "x": "En los seis jueces (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 y Claude Opus 4.6), pequeños cambios de configuración produjeron veredictos muy distintos. Cambiar GPT-5.4 a un prompt más simple redujo la precisión en los pares Human+Generated del 93.5% al 40.9%, por debajo del azar; en Human-Only, el mismo cambio movió la precisión solo unos siete puntos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "Más búsqueda y razonamiento no ayudaron de forma fiable: un juez agéntico GPT-5.6 Sol obtuvo 0.78 de macro-F1 frente a 0.89 de Claude Opus 4.6, con un costo aproximadamente 10x mayor. Un prompt simple de Claude Opus 4.6 alcanzó 0.854 por $2.59, por encima de Idea Novelty Checker (0.642, $30.66) y de AI Scientist de Sakana AI (0.772, $82.05)."
+                "x": "Los autores sostienen que el lenguaje fluido hace que la gente confíe con demasiada facilidad en los resultados de la AI y que un aviso al inicio del chat no basta. Proponen que los chatbots expresen ellos mismos su incertidumbre, o que se obligue a las empresas a hacerla visible. El estudio aparece en Computers in Human Behavior: Artificial Humans (2026)."
               }
             ]
           }
@@ -901,137 +779,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLMs는 연구 아이디어의\n참신성을 판단할 수 있을까",
-          "body": "Ai2 Old Ideas, Novel Problems에선 LLM 판정이 흔들렸다.",
-          "mini_headline": "흔들리는 LLM 참신성 판정",
+          "headline": "유창한 챗봇의 오류\n대부분 눈치 못 챈다",
+          "body": "Radboud 연구에서 유창한 오답 챗봇은 똑똑해 보였고 약 80%가 속았다.",
+          "mini_headline": "유창한 오류는 눈에 띄지 않는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2가 LLMs가 연구 아이디어의 참신성을 얼마나 믿을 만하게 평가하는지 살핀 연구 Old Ideas, Novel Problems를 공개하면서 벤치마크와 데이터, 코드, 새 평가 세트를 만드는 자동화 파이프라인도 함께 내놓았다. 연구 아이디어를 생성하는 시스템은 참신성 판정을 또 다른 LLM, 곧 '참신성 심판'에게 맡기는 경우가 많다."
+                "x": "Radboud University 연구자 Marianna de Sá Siqueira, Barbara Müller, Tibor Bosse는 참가자들에게 The Lord of the Rings에 관한 챗봇 대화를 보여 주었다. 틀린 답을 내놓는 유창한 챗봇은 정확히 답하는 간결한 챗봇과 똑같이 지적이고 호감 간다는 평가를 받았다."
               },
               {
                 "t": "p",
-                "x": "벤치마크는 ICLR 2026 동료 심사 자료를 활용한다. top-10%에 드는 채택 논문에서 뽑은 참신성 높은 인간 아이디어 154개와 bottom-10%에 드는 탈락 논문에서 뽑은 참신성 낮은 아이디어 145개(Human-Only), 그리고 인간 아이디어 154개를 단순한 LLM 생성기가 만든 아이디어 154개와 짝지은 세트(Human+Generated)로 구성된다."
+                "x": "참가자들은 이 책에 대한 기본 지식을 기준으로 선발됐는데도 약 80%가 오류를 알아차리지 못했다. Müller는 \"글이 우아하고 자연스럽게 들리면 사람들은 자동으로 거기에 지능이 있다고 여긴다\"고 말한다."
               },
               {
                 "t": "p",
-                "x": "여섯 심판 모델(GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5, Claude Opus 4.6) 전반에서 작은 설정 변화가 전혀 다른 판정을 낳았다. GPT-5.4를 더 단순한 프롬프트로 바꾸자 Human+Generated 쌍의 정확도가 93.5%에서 40.9%로 떨어져 무작위 수준을 밑돌았다. Human-Only에서는 같은 변화로 정확도가 약 일곱 포인트 움직이는 데 그쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "검색과 추론을 늘린다고 꾸준히 나아지지는 않았다. 에이전트형 GPT-5.6 Sol 심판은 macro-F1 0.78로 Claude Opus 4.6의 0.89에 못 미쳤고, 비용은 약 10x였다. 단순한 Claude Opus 4.6 프롬프트는 $2.59로 0.854에 도달해 Idea Novelty Checker(0.642, $30.66)와 Sakana AI의 AI Scientist(0.772, $82.05)를 앞섰다."
+                "x": "저자들은 유창한 언어 탓에 사람들이 AI 출력을 너무 쉽게 믿게 되며, 대화 첫머리의 면책 문구만으로는 부족하다고 주장한다. 챗봇이 스스로 불확실성을 드러내거나, 기업이 불확실성을 보이게 하도록 의무화하자고 제안한다. 연구는 Computers in Human Behavior: Artificial Humans (2026)에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMsは研究アイデアの\n新規性を判定できるか",
-          "body": "Ai2のOld Ideas, Novel ProblemsでLLM判定は設定次第で覆った。",
-          "mini_headline": "揺らぐLLMの新規性判定",
+          "headline": "流暢なチャットボットの\n誤りは大半が見逃される",
+          "body": "Radboudの研究では流暢な誤答ボットも賢く見え、約80%が誤りを見逃した。",
+          "mini_headline": "流暢な誤りは気づかれない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2は、LLMsが研究アイデアの新規性をどれほど確実に評価できるかを調べた研究Old Ideas, Novel Problemsを公開し、ベンチマーク、データ、コード、新たな評価セットを構築する自動パイプラインも併せて公開した。研究アイデアを生成するシステムは、新規性の判定を別のLLM、すなわち「新規性ジャッジ」に委ねることが多い。"
+                "x": "Radboud Universityの研究者Marianna de Sá Siqueira、Barbara Müller、Tibor Bosseは、参加者にThe Lord of the Ringsに関するチャットボットとの会話を見せた。誤った答えを返す流暢なチャットボットは、正確に答える簡潔なチャットボットと同程度に知的で好ましいと評価された。"
               },
               {
                 "t": "p",
-                "x": "ベンチマークはICLR 2026の査読を素材とする。top-10%の採択論文から得た新規性の高い人間のアイデア154件と、bottom-10%の不採択論文から得た新規性の低いアイデア145件(Human-Only)、さらに人間のアイデア154件を単純なLLM生成器によるアイデア154件と組み合わせたもの(Human+Generated)だ。"
+                "x": "参加者はこの本の基礎知識を基準に選ばれていたにもかかわらず、約80%が誤りに気づかなかった。「文章が洗練されて自然に聞こえると、人は自動的にそこに知性を見いだす」とMüllerは言う。"
               },
               {
                 "t": "p",
-                "x": "六つのジャッジ(GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5、Claude Opus 4.6)のいずれでも、わずかな設定変更で判定が大きく変わった。GPT-5.4をより単純なプロンプトに切り替えると、Human+Generatedペアでの正解率は93.5%から40.9%へと下がり、偶然の水準を下回った。Human-Onlyでは、同じ変更による正解率の変化は約七ポイントにとどまった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "検索や推論を増やしても確実な改善にはつながらなかった。エージェント型のGPT-5.6 Solジャッジはmacro-F1が0.78で、Claude Opus 4.6の0.89を下回り、コストは約10xだった。単純なClaude Opus 4.6のプロンプトは$2.59で0.854に達し、Idea Novelty Checker(0.642、$30.66)やSakana AIのAI Scientist(0.772、$82.05)を上回った。"
+                "x": "著者らは、流暢な言葉によって人々がAIの出力を安易に信頼しすぎること、そしてチャット冒頭の免責表示だけでは不十分であることを指摘する。チャットボット自身が不確かさを表明するか、企業に不確かさの可視化を義務づけるべきだと提案している。研究はComputers in Human Behavior: Artificial Humans (2026)に掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs能否判断\n研究构想是否新颖",
-          "body": "Ai2的Old Ideas, Novel Problems发现设置微调会使LLM判定反转。",
-          "mini_headline": "LLM新颖性判定不稳",
+          "headline": "流畅聊天机器人的错误\n大多无人察觉",
+          "body": "Radboud发现，流畅却出错的聊天机器人显得与简洁准确者一样聪明，约80%未察觉错误。",
+          "mini_headline": "流畅的错误无人察觉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2发布了Old Ideas, Novel Problems，研究LLMs评估研究构想新颖性的可靠程度，并公开了基准、数据、代码以及用于构建新评估集的自动化流程。生成研究构想的系统往往把新颖性判定交给另一个LLM，即“新颖性评判者”。"
+                "x": "Radboud University研究人员Marianna de Sá Siqueira、Barbara Müller和Tibor Bosse向参与者展示了关于The Lord of the Rings的聊天机器人对话。给出错误答案但表达流畅的聊天机器人，被评为与回答准确但言简意赅的聊天机器人同样聪明、讨人喜欢。"
               },
               {
                 "t": "p",
-                "x": "该基准取材于ICLR 2026的同行评审：来自top-10%录用论文的154个高新颖性人类构想，与来自bottom-10%被拒论文的145个低新颖性构想（Human-Only）；以及这154个人类构想与一个简单LLM生成器产出的154个构想的配对（Human+Generated）。"
+                "x": "尽管参与者是按对该书具备基础知识的标准挑选的，约80%的人仍未察觉错误。Müller表示：“如果一段文字听起来优雅自然，人们会自动认为它具有智能。”"
               },
               {
                 "t": "p",
-                "x": "在六个评判模型（GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5和Claude Opus 4.6）上，细微的设置改动都带来了截然不同的判定。把GPT-5.4换成更简单的提示词后，它在Human+Generated配对上的准确率从93.5%降至40.9%，低于随机水平；而在Human-Only上，同样的改动只让准确率变化约七个点。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "更多搜索和推理并不能稳定带来提升：智能体式的GPT-5.6 Sol评判者macro-F1为0.78，低于Claude Opus 4.6的0.89，成本却约为10x。一个简单的Claude Opus 4.6提示词以$2.59达到0.854，胜过Idea Novelty Checker（0.642，$30.66）和Sakana AI的AI Scientist（0.772，$82.05）。"
+                "x": "作者认为，流畅的语言让人们过于轻易地信任AI输出，而在对话开头加一条免责声明并不足够。他们建议由聊天机器人自行表达不确定性，或要求企业将不确定性显示出来。该研究发表于Computers in Human Behavior: Artificial Humans (2026)。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Pueden los LLMs juzgar si\nes nueva una idea científica?",
-          "body": "El benchmark Old Ideas, Novel Problems de Ai2 muestra que pequeños cambios pueden invertir el veredicto de un LLM.",
-          "mini_headline": "Los veredictos de los LLM vacilan",
+          "headline": "Los fallos de un chatbot fluido\nsuelen pasar inadvertidos",
+          "body": "En Radboud, un chatbot fluido pero erróneo pareció tan listo como uno preciso y cerca del 80% no vio sus fallos.",
+          "mini_headline": "Errores fluidos que pasan inadvertidos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Ai2 publicó Old Ideas, Novel Problems, un estudio sobre la fiabilidad con la que los LLMs evalúan la novedad de las ideas de investigación, junto con un benchmark, datos, código y un pipeline automatizado para crear nuevos conjuntos de evaluación. Los sistemas que generan ideas de investigación suelen delegar el veredicto de novedad en otro LLM, un \"juez de novedad\"."
+                "x": "Los investigadores de la Radboud University Marianna de Sá Siqueira, Barbara Müller y Tibor Bosse mostraron a los participantes conversaciones con un chatbot sobre The Lord of the Rings. Un chatbot fluido que daba respuestas falsas fue valorado tan inteligente y agradable como un chatbot escueto que respondía con precisión."
               },
               {
                 "t": "p",
-                "x": "El benchmark se basa en revisiones por pares de ICLR 2026: 154 ideas humanas de alta novedad procedentes de artículos aceptados del top-10% y 145 ideas de menor novedad de artículos rechazados del bottom-10% (Human-Only), además de las 154 ideas humanas emparejadas con 154 ideas de un generador LLM sencillo (Human+Generated)."
+                "x": "Cerca del 80% de los participantes no detectó los errores, pese a que habían sido seleccionados por tener conocimientos básicos del libro. \"Si un texto suena elegante y natural, la gente le atribuye inteligencia automáticamente\", afirma Müller."
               },
               {
                 "t": "p",
-                "x": "En los seis jueces (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 y Claude Opus 4.6), pequeños cambios de configuración produjeron veredictos muy distintos. Cambiar GPT-5.4 a un prompt más simple redujo la precisión en los pares Human+Generated del 93.5% al 40.9%, por debajo del azar; en Human-Only, el mismo cambio movió la precisión solo unos siete puntos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
-              },
-              {
-                "t": "p",
-                "x": "Más búsqueda y razonamiento no ayudaron de forma fiable: un juez agéntico GPT-5.6 Sol obtuvo 0.78 de macro-F1 frente a 0.89 de Claude Opus 4.6, con un costo aproximadamente 10x mayor. Un prompt simple de Claude Opus 4.6 alcanzó 0.854 por $2.59, por encima de Idea Novelty Checker (0.642, $30.66) y de AI Scientist de Sakana AI (0.772, $82.05)."
+                "x": "Los autores sostienen que el lenguaje fluido hace que la gente confíe con demasiada facilidad en los resultados de la AI y que un aviso al inicio del chat no basta. Proponen que los chatbots expresen ellos mismos su incertidumbre, o que se obligue a las empresas a hacerla visible. El estudio aparece en Computers in Human Behavior: Artificial Humans (2026)."
               }
             ]
           }
@@ -1039,15 +889,15 @@
       }
     },
     {
-      "id": "blight-rice",
+      "id": "google-sleep-continual-learning",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "AI-designed\n유전자 가위가 벼 지킨다",
-      "body": "Missouri대가 AI-designed 편집기로 마름병에 강한 벼를 얻었다.",
-      "mini_headline": "AI 편집기가 벼를 지킨다",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
+      "headline": "Google, LLMs가\n자면서 덜 잊는다",
+      "body": "Google Research는 LLMs를 재워서 덜 잊고 새로 배우게 만든다.",
+      "mini_headline": "잠자며 배우는 LLMs",
+      "source": "Google Research",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1055,155 +905,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-            "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+            "cap": "빛나는 파란색 기하학 도형이 줄지어 흘러가 밝게 연결된 신경망 구체로 모인다."
           },
           {
             "t": "p",
-            "x": "University of Missouri 연구진이 세균성 흰잎마름병에 강한 벼를 만들었다. 아시아와 아프리카 일부 지역에서 수확을 망치고 생계까지 위협하기도 하는 병이다. College of Agriculture, Food and Natural Resources의 Curators' 석좌교수이자 Bond Life Sciences Center 연구원인 Bing Yang은 \"세균성 흰잎마름병은 벼농사에 큰 피해를 주어 수확량과 품질을 모두 떨어뜨린다\"고 말했다."
+            "x": "Google Research의 Ali Behrouz와 Vahab Mirrokni가 지속 학습에 수면 단계를 넣었다. 대규모 언어 모델은 파국적 망각이나 지식 기준 시점이 고정되는 문제를 덜 겪으면서 새 사실을 계속 받아들이고 추론 능력도 키운다. 능동적 상호작용과 오프라인 기억 통합을 번갈아 하는 동안 LLMs는 새 사실을 익히고, 최대 10M 토큰의 장문 맥락 지식을 유지하며, 복잡한 추론 실력을 끌어올린다."
           },
           {
             "t": "p",
-            "x": "연구팀은 인공지능이 설계한 유전자 편집 시스템 OpenCRISPR-1을 써서 식물을 병에 약하게 만드는 유전자를 바꿨다. 캘리포니아 생명공학 기업 Profluent가 처음 개발해 동물 세포에서 효과를 입증한 도구를 Yang 연구팀이 벼에 맞게 조정했다. 결과는 aBIOTECH에 실렸다."
+            "x": "활동(각성) 단계에서 모델은 임시 정보를 빠른 단기 기억에 담는다. 수면 단계에 들어가면 새 입력이 멈춘다. 기억 통합 과정에서는 미리 할당해 둔 Mixture-of-Experts 기억 블록을 열고 단기 기억을 그 안에 증류한 다음 임시 매개변수를 초기화한다. 꿈꾸기 과정은 합성 연습 샘플을 만들고 걸러 낸 뒤 가장 좋은 샘플로 모델을 다듬는다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+            "cap": "수면 프레임워크 개요: Consolidation(통합)과 Dreaming(꿈꾸기)."
           },
           {
             "t": "p",
-            "x": "아직은 실험실 계통에서 얻은 결과다. 농가가 혜택을 보기까지는 몇 년이 걸릴 수 있다. 이 형질을 상업 재배 품종에 옮기고 추가 시험과 규제 요건을 통과해야 하며 산업 파트너도 찾아야 한다. Yang은 이 방식을 옥수수와 콩으로, 병해부터 가뭄과 극한 기온까지 여러 과제로 넓힐 수 있다고 본다. OpenCRISPR-1은 오픈소스여서 작물 유전체 편집 연구와 상업화에 무료로 쓸 수 있다."
+            "x": "Manchu, Kalamang처럼 처음 보는 언어를 이어서 번역할 때도 성능이 거의 떨어지지 않았다. SQuAD와 지속 사전학습에서는 각각 48.9%, 46.2%를 기록했다. AIME 24/25와 HMMT 25에서는 수면으로 강화한 기본 모델이 79.2%, 69.0%, 46.1%를 얻어 SFT, GRPO, OPSD를 앞섰다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-designed gene editor\nhelps rice resist blight",
-          "body": "Missouri researchers used an AI-designed genome-editing tool to make rice plants that resist bacterial blight.",
-          "mini_headline": "AI editor shields rice",
+          "headline": "Google gives LLMs a sleep\nphase to keep knowledge",
+          "body": "Google Research adds a sleep phase so LLMs can absorb new facts while mitigating catastrophic forgetting.",
+          "mini_headline": "LLMs that learn by sleeping",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "A flowing stream of glowing blue geometric shapes consolidates into a bright, interconnected neural network sphere."
               },
               {
                 "t": "p",
-                "x": "University of Missouri researchers have created rice plants that resist bacterial blight, a disease that can wipe out harvests and endanger livelihoods in parts of Asia and Africa. \"Bacterial blight can wreak havoc on rice crops, reducing both yield and quality,\" said Bing Yang, a Curators' distinguished professor in the College of Agriculture, Food and Natural Resources and an investigator in the Bond Life Sciences Center."
+                "x": "Ali Behrouz and Vahab Mirrokni of Google Research introduce a sleep phase in continual learning, enabling large language models to continuously integrate new facts and enhance reasoning while mitigating catastrophic forgetting or static knowledge cutoffs. Alternating between active interaction and offline memory consolidation lets LLMs acquire new facts, retain long-context knowledge up to 10M tokens, and improve complex reasoning."
               },
               {
                 "t": "p",
-                "x": "The team used OpenCRISPR-1, a gene-editing system designed using artificial intelligence, to alter genes that make plants vulnerable to disease. The tool was originally developed by the California biotechnology company Profluent and had been demonstrated in animal cells; Yang's team adapted it for rice. The study appeared in aBIOTECH."
+                "x": "In the active (wake) phase the model stores temporary information in fast, short-term memory. In the sleep phase it pauses new inputs: memory consolidation unlocks pre-allocated Mixture-of-Experts memory blocks and distills short-term memories into them, then resets the temporary parameters; dreaming generates synthetic practice samples, filters them and refines the model on the best."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "Overview of the sleep framework: Consolidation and Dreaming."
               },
               {
                 "t": "p",
-                "x": "The results come from a laboratory line. Before farmers benefit, the traits must move into commercially grown varieties, pass more testing and regulatory requirements, and find industry partners, which could take several years. Yang sees the approach extending to corn and soybeans and to challenges from plant diseases to drought and extreme temperatures. OpenCRISPR-1 is open source and free for research and commercialization of crop genome editing."
+                "x": "In continual translation on unseen languages such as Manchu and Kalamang, the framework kept a near-zero performance drop. On SQuAD and continued pre-training it reached 48.9% and 46.2%, and on AIME 24/25 and HMMT 25 the sleep-enhanced base model scored 79.2%, 69.0% and 46.1%, outperforming SFT, GRPO and OPSD."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-designed\n유전자 가위가 벼 지킨다",
-          "body": "Missouri대가 AI-designed 편집기로 마름병에 강한 벼를 얻었다.",
-          "mini_headline": "AI 편집기가 벼를 지킨다",
+          "headline": "Google, LLMs가\n자면서 덜 잊는다",
+          "body": "Google Research는 LLMs를 재워서 덜 잊고 새로 배우게 만든다.",
+          "mini_headline": "잠자며 배우는 LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "빛나는 파란색 기하학 도형이 줄지어 흘러가 밝게 연결된 신경망 구체로 모인다."
               },
               {
                 "t": "p",
-                "x": "University of Missouri 연구진이 세균성 흰잎마름병에 강한 벼를 만들었다. 아시아와 아프리카 일부 지역에서 수확을 망치고 생계까지 위협하기도 하는 병이다. College of Agriculture, Food and Natural Resources의 Curators' 석좌교수이자 Bond Life Sciences Center 연구원인 Bing Yang은 \"세균성 흰잎마름병은 벼농사에 큰 피해를 주어 수확량과 품질을 모두 떨어뜨린다\"고 말했다."
+                "x": "Google Research의 Ali Behrouz와 Vahab Mirrokni가 지속 학습에 수면 단계를 넣었다. 대규모 언어 모델은 파국적 망각이나 지식 기준 시점이 고정되는 문제를 덜 겪으면서 새 사실을 계속 받아들이고 추론 능력도 키운다. 능동적 상호작용과 오프라인 기억 통합을 번갈아 하는 동안 LLMs는 새 사실을 익히고, 최대 10M 토큰의 장문 맥락 지식을 유지하며, 복잡한 추론 실력을 끌어올린다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 인공지능이 설계한 유전자 편집 시스템 OpenCRISPR-1을 써서 식물을 병에 약하게 만드는 유전자를 바꿨다. 캘리포니아 생명공학 기업 Profluent가 처음 개발해 동물 세포에서 효과를 입증한 도구를 Yang 연구팀이 벼에 맞게 조정했다. 결과는 aBIOTECH에 실렸다."
+                "x": "활동(각성) 단계에서 모델은 임시 정보를 빠른 단기 기억에 담는다. 수면 단계에 들어가면 새 입력이 멈춘다. 기억 통합 과정에서는 미리 할당해 둔 Mixture-of-Experts 기억 블록을 열고 단기 기억을 그 안에 증류한 다음 임시 매개변수를 초기화한다. 꿈꾸기 과정은 합성 연습 샘플을 만들고 걸러 낸 뒤 가장 좋은 샘플로 모델을 다듬는다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "수면 프레임워크 개요: Consolidation(통합)과 Dreaming(꿈꾸기)."
               },
               {
                 "t": "p",
-                "x": "아직은 실험실 계통에서 얻은 결과다. 농가가 혜택을 보기까지는 몇 년이 걸릴 수 있다. 이 형질을 상업 재배 품종에 옮기고 추가 시험과 규제 요건을 통과해야 하며 산업 파트너도 찾아야 한다. Yang은 이 방식을 옥수수와 콩으로, 병해부터 가뭄과 극한 기온까지 여러 과제로 넓힐 수 있다고 본다. OpenCRISPR-1은 오픈소스여서 작물 유전체 편집 연구와 상업화에 무료로 쓸 수 있다."
+                "x": "Manchu, Kalamang처럼 처음 보는 언어를 이어서 번역할 때도 성능이 거의 떨어지지 않았다. SQuAD와 지속 사전학습에서는 각각 48.9%, 46.2%를 기록했다. AIME 24/25와 HMMT 25에서는 수면으로 강화한 기본 모델이 79.2%, 69.0%, 46.1%를 얻어 SFT, GRPO, OPSD를 앞섰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-designedの\n編集技術で病に強いイネ",
-          "body": "Missouriの研究者はAI-designedのゲノム編集で白葉枯病に強いイネを作った。",
-          "mini_headline": "AI編集技術がイネを守る",
+          "headline": "GoogleがLLMsに\n知識を守る睡眠段階",
+          "body": "Google ResearchはLLMsに睡眠段階を加え忘却を抑えつつ新事実を学ばせる。",
+          "mini_headline": "眠って学ぶLLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "光る青い幾何学図形の流れが、明るく相互につながったニューラルネットワークの球体へと集約していく。"
               },
               {
                 "t": "p",
-                "x": "University of Missouriの研究者は、白葉枯病に抵抗性を持つイネを作出した。この病気はアジアやアフリカの一部で収穫を壊滅させ、生計を脅かしかねない。College of Agriculture, Food and Natural ResourcesのCurators'特別栄誉教授で、Bond Life Sciences Centerの研究者でもあるBing Yangは「白葉枯病はイネに大きな被害をもたらし、収量と品質の両方を低下させる」と述べた。"
+                "x": "Google ResearchのAli BehrouzとVahab Mirrokniは、継続学習に睡眠段階を導入した。これにより大規模言語モデルは、壊滅的忘却や固定的な知識カットオフを抑えながら新しい事実を継続的に取り込み、推論力を高められる。能動的な対話とオフラインの記憶統合を交互に行うことで、LLMsは新事実を獲得し、最大10M トークンの長文脈の知識を保持し、複雑な推論を改善する。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、人工知能を使って設計されたゲノム編集システムOpenCRISPR-1を用いて、植物を病気にかかりやすくする遺伝子を改変した。このツールはもともとカリフォルニアのバイオテクノロジー企業Profluentが開発し、動物細胞で実証されていたもので、Yangのチームがイネ向けに適応させた。研究はaBIOTECHに掲載された。"
+                "x": "活動（覚醒）段階では、モデルは一時的な情報を高速な短期記憶に保存する。睡眠段階では新たな入力を止める。記憶統合では、あらかじめ割り当てたMixture-of-Expertsの記憶ブロックを解放して短期記憶をそこへ蒸留し、一時パラメータをリセットする。夢見では合成した練習サンプルを生成・選別し、最良のものでモデルを洗練させる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "睡眠フレームワークの概要：Consolidation（統合）とDreaming（夢見）。"
               },
               {
                 "t": "p",
-                "x": "今回の結果は実験系統によるものだ。農家が恩恵を受けるには、この形質を商業栽培品種に導入し、さらなる試験や規制要件をクリアし、産業界のパートナーを見つける必要があり、数年かかる可能性がある。Yangは、この手法がトウモロコシや大豆にも、また植物病害から干ばつ、極端な気温に至る課題にも広がるとみている。OpenCRISPR-1はオープンソースで、作物ゲノム編集の研究と商業化に無料で利用できる。"
+                "x": "ManchuやKalamangといった未知の言語での継続翻訳では、性能低下をほぼゼロに抑えた。SQuADと継続事前学習ではそれぞれ48.9%と46.2%に達し、AIME 24/25とHMMT 25では睡眠で強化したベースモデルが79.2%、69.0%、46.1%を記録してSFT、GRPO、OPSDを上回った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-designed编辑器\n助水稻抵御白叶枯病",
-          "body": "Missouri研究人员用AI-designed基因组编辑工具，培育出抗白叶枯病的水稻。",
-          "mini_headline": "AI编辑器护水稻",
+          "headline": "Google为LLMs\n引入睡眠以保住知识",
+          "body": "Google Research为LLMs加入睡眠阶段，使其吸收新事实并减轻灾难性遗忘。",
+          "mini_headline": "靠睡眠学习的LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "一股闪着蓝光的几何形状流汇聚成一个明亮、相互连接的神经网络球体。"
               },
               {
                 "t": "p",
-                "x": "University of Missouri的研究人员培育出了抗白叶枯病的水稻。这种病害可能让亚洲和非洲部分地区的收成毁于一旦，危及生计。College of Agriculture, Food and Natural Resources的Curators'杰出教授、Bond Life Sciences Center研究员Bing Yang说：“白叶枯病会严重破坏水稻作物，使产量和品质双双下降。”"
+                "x": "Google Research的Ali Behrouz和Vahab Mirrokni在持续学习中引入睡眠阶段，使大语言模型能够在减轻灾难性遗忘或静态知识截止问题的同时，持续整合新事实并增强推理能力。通过在主动交互与离线记忆巩固之间交替，LLMs能够获取新事实、保留最多10M token的长上下文知识，并提升复杂推理能力。"
               },
               {
                 "t": "p",
-                "x": "团队使用借助人工智能设计的基因编辑系统OpenCRISPR-1，改变了使植物易感病的基因。该工具最初由加利福尼亚生物技术公司Profluent开发，并已在动物细胞中得到验证；Yang的团队将其改造用于水稻。研究发表在aBIOTECH上。"
+                "x": "在活跃（清醒）阶段，模型把临时信息存入快速的短期记忆。在睡眠阶段，模型暂停接收新输入：记忆巩固会解锁预先分配的Mixture-of-Experts记忆块，把短期记忆蒸馏进去，然后重置临时参数；做梦则生成合成练习样本，加以筛选，并用最佳样本微调模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "睡眠框架概览：Consolidation（巩固）与Dreaming（做梦）。"
               },
               {
                 "t": "p",
-                "x": "这些结果来自实验室株系。在农民受益之前，这些性状还需导入商业种植品种，通过更多测试和监管要求，并找到产业合作伙伴，这可能需要数年时间。Yang认为，这一方法可推广到玉米和大豆，并用于应对从植物病害到干旱和极端温度等各种挑战。OpenCRISPR-1是开源的，可免费用于作物基因组编辑的研究和商业化。"
+                "x": "在Manchu、Kalamang等未见过语言的持续翻译中，该框架的性能几乎零下降。在SQuAD和持续预训练上分别达到48.9%和46.2%；在AIME 24/25和HMMT 25上，经睡眠增强的基础模型得分为79.2%、69.0%和46.1%，优于SFT、GRPO和OPSD。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un editor genético AI-designed\nayuda al arroz contra el tizón",
-          "body": "Investigadores de Missouri usaron edición genómica AI-designed para crear arroz resistente al tizón bacteriano.",
-          "mini_headline": "Un editor con AI protege el arroz",
+          "headline": "Google da a los LLMs una fase\nde sueño para no olvidar",
+          "body": "Google Research añade una fase de sueño para que los LLMs absorban hechos nuevos y mitiguen el olvido catastrófico.",
+          "mini_headline": "LLMs que aprenden durmiendo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "Un flujo de formas geométricas azules y luminosas se consolida en una esfera brillante de red neuronal interconectada."
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Missouri han creado plantas de arroz resistentes al tizón bacteriano, una enfermedad que puede arrasar cosechas y poner en peligro los medios de vida en partes de Asia y África. \"El tizón bacteriano puede causar estragos en los cultivos de arroz, reduciendo tanto el rendimiento como la calidad\", dijo Bing Yang, profesor distinguido Curators' en el College of Agriculture, Food and Natural Resources e investigador del Bond Life Sciences Center."
+                "x": "Ali Behrouz y Vahab Mirrokni, de Google Research, introducen una fase de sueño en el aprendizaje continuo que permite a los grandes modelos de lenguaje integrar de forma continua hechos nuevos y mejorar el razonamiento, a la vez que mitiga el olvido catastrófico o los cortes de conocimiento estáticos. Alternar entre la interacción activa y la consolidación de memoria fuera de línea permite a los LLMs adquirir hechos nuevos, retener conocimiento de contexto largo de hasta 10M tokens y mejorar el razonamiento complejo."
               },
               {
                 "t": "p",
-                "x": "El equipo utilizó OpenCRISPR-1, un sistema de edición genética diseñado mediante inteligencia artificial, para modificar genes que hacen a las plantas vulnerables a enfermedades. La herramienta fue desarrollada originalmente por la empresa de biotecnología californiana Profluent y se había demostrado en células animales; el equipo de Yang la adaptó al arroz. El estudio se publicó en aBIOTECH."
+                "x": "En la fase activa (de vigilia), el modelo guarda información temporal en una memoria a corto plazo rápida. En la fase de sueño detiene las entradas nuevas: la consolidación de memoria desbloquea bloques de memoria Mixture-of-Experts preasignados y destila en ellos los recuerdos a corto plazo, y luego restablece los parámetros temporales; el soñar genera muestras sintéticas de práctica, las filtra y refina el modelo con las mejores."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "Esquema general del marco de sueño: Consolidation (consolidación) y Dreaming (soñar)."
               },
               {
                 "t": "p",
-                "x": "Los resultados proceden de una línea de laboratorio. Antes de que los agricultores se beneficien, los rasgos deben trasladarse a variedades de cultivo comercial, superar más pruebas y requisitos regulatorios y encontrar socios en la industria, lo que podría llevar varios años. Yang prevé que el enfoque se extienda al maíz y la soja, y a desafíos que van desde las enfermedades de las plantas hasta la sequía y las temperaturas extremas. OpenCRISPR-1 es de código abierto y gratuito para la investigación y la comercialización de la edición genómica de cultivos."
+                "x": "En traducción continua a lenguas no vistas, como el Manchu y el Kalamang, el marco mantuvo una caída de rendimiento casi nula. En SQuAD y en preentrenamiento continuo alcanzó el 48.9% y el 46.2%, y en AIME 24/25 y HMMT 25 el modelo base reforzado con sueño obtuvo el 79.2%, el 69.0% y el 46.1%, por encima de SFT, GRPO y OPSD."
               }
             ]
           }
@@ -1211,109 +1091,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-designed\n유전자 가위가 벼 지킨다",
-          "body": "Missouri대가 AI-designed 편집기로 마름병에 강한 벼를 만들었다.",
-          "mini_headline": "AI 편집기가 벼를 지킨다",
+          "headline": "Google, LLMs에\n지식 지킬 수면 단계",
+          "body": "Google Research는 LLMs가 덜 잊고 새로 배우도록 잠을 재운다.",
+          "mini_headline": "잠자며 배우는 LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "빛나는 파란색 기하학 도형의 흐름이 밝고 서로 연결된 신경망 구체로 모여든다."
               },
               {
                 "t": "p",
-                "x": "University of Missouri 연구진이 세균성 흰잎마름병에 강한 벼를 만들었다. 이 병은 아시아와 아프리카 일부 지역에서 수확을 망치고 생계를 위협할 수 있다. College of Agriculture, Food and Natural Resources의 Curators' 석좌교수이자 Bond Life Sciences Center 연구원인 Bing Yang은 \"세균성 흰잎마름병은 벼농사에 큰 피해를 주어 수확량과 품질을 모두 떨어뜨린다\"고 말했다."
+                "x": "Google Research의 Ali Behrouz와 Vahab Mirrokni는 지속 학습에 수면 단계를 도입했다. 이를 통해 대규모 언어 모델은 파국적 망각이나 고정된 지식 기준 시점 문제를 줄이면서 새 사실을 계속 통합하고 추론 능력을 높일 수 있다. 능동적 상호작용과 오프라인 기억 통합을 번갈아 하면서 LLMs는 새 사실을 습득하고, 최대 10M 토큰의 장문 맥락 지식을 유지하며, 복잡한 추론 능력을 끌어올린다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 인공지능으로 설계한 유전자 편집 시스템 OpenCRISPR-1을 이용해 식물을 병에 취약하게 만드는 유전자를 바꿨다. 이 도구는 원래 캘리포니아의 생명공학 기업 Profluent가 개발해 동물 세포에서 효과를 입증한 것으로, Yang 연구팀이 벼에 맞게 조정했다. 연구 결과는 aBIOTECH에 실렸다."
+                "x": "활동(각성) 단계에서 모델은 임시 정보를 빠른 단기 기억에 저장한다. 수면 단계에서는 새 입력을 멈춘다. 기억 통합 과정은 미리 할당된 Mixture-of-Experts 기억 블록을 열어 단기 기억을 그 안에 증류한 뒤 임시 매개변수를 초기화한다. 꿈꾸기 과정은 합성 연습 샘플을 만들어 걸러낸 뒤, 가장 좋은 샘플로 모델을 다듬는다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "수면 프레임워크 개요: Consolidation(통합)과 Dreaming(꿈꾸기)."
               },
               {
                 "t": "p",
-                "x": "이번 결과는 실험실 계통에서 나온 것이다. 농가가 혜택을 보려면 이 형질을 상업 재배 품종에 옮기고, 추가 시험과 규제 요건을 통과하고, 산업 파트너도 찾아야 해 몇 년이 걸릴 수 있다. Yang은 이 방식이 옥수수와 콩으로, 또 병해에서 가뭄과 극한 기온에 이르는 여러 과제로 확장될 수 있다고 본다. OpenCRISPR-1은 오픈소스이며 작물 유전체 편집의 연구와 상업화에 무료로 쓸 수 있다."
+                "x": "Manchu, Kalamang처럼 처음 보는 언어의 지속 번역에서 이 프레임워크는 성능 저하가 거의 없었다. SQuAD와 지속 사전학습에서는 48.9%와 46.2%를 기록했고, AIME 24/25와 HMMT 25에서는 수면으로 강화한 기본 모델이 79.2%, 69.0%, 46.1%를 얻어 SFT, GRPO, OPSD를 앞섰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-designedの\n編集技術で病に強いイネ",
-          "body": "Missouriの研究者はAI-designedのゲノム編集で白葉枯病に強いイネを作った。",
-          "mini_headline": "AI編集技術がイネを守る",
+          "headline": "GoogleがLLMsに\n知識を守る睡眠段階",
+          "body": "Google ResearchはLLMsに睡眠段階を加え忘却を抑えつつ新事実を学ばせる。",
+          "mini_headline": "眠って学ぶLLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "光る青い幾何学図形の流れが、明るく相互につながったニューラルネットワークの球体へと集約していく。"
               },
               {
                 "t": "p",
-                "x": "University of Missouriの研究者は、白葉枯病に抵抗性を持つイネを作出した。この病気はアジアやアフリカの一部で収穫を壊滅させ、生計を脅かしかねない。College of Agriculture, Food and Natural ResourcesのCurators'特別栄誉教授で、Bond Life Sciences Centerの研究者でもあるBing Yangは「白葉枯病はイネに大きな被害をもたらし、収量と品質の両方を低下させる」と述べた。"
+                "x": "Google ResearchのAli BehrouzとVahab Mirrokniは、継続学習に睡眠段階を導入した。これにより大規模言語モデルは、壊滅的忘却や固定的な知識カットオフを抑えながら新しい事実を継続的に取り込み、推論力を高められる。能動的な対話とオフラインの記憶統合を交互に行うことで、LLMsは新事実を獲得し、最大10M トークンの長文脈の知識を保持し、複雑な推論を改善する。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、人工知能を使って設計されたゲノム編集システムOpenCRISPR-1を用いて、植物を病気にかかりやすくする遺伝子を改変した。このツールはもともとカリフォルニアのバイオテクノロジー企業Profluentが開発し、動物細胞で実証されていたもので、Yangのチームがイネ向けに適応させた。研究はaBIOTECHに掲載された。"
+                "x": "活動（覚醒）段階では、モデルは一時的な情報を高速な短期記憶に保存する。睡眠段階では新たな入力を止める。記憶統合では、あらかじめ割り当てたMixture-of-Expertsの記憶ブロックを解放して短期記憶をそこへ蒸留し、一時パラメータをリセットする。夢見では合成した練習サンプルを生成・選別し、最良のものでモデルを洗練させる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "睡眠フレームワークの概要：Consolidation（統合）とDreaming（夢見）。"
               },
               {
                 "t": "p",
-                "x": "今回の結果は実験系統によるものだ。農家が恩恵を受けるには、この形質を商業栽培品種に導入し、さらなる試験や規制要件をクリアし、産業界のパートナーを見つける必要があり、数年かかる可能性がある。Yangは、この手法がトウモロコシや大豆にも、また植物病害から干ばつ、極端な気温に至る課題にも広がるとみている。OpenCRISPR-1はオープンソースで、作物ゲノム編集の研究と商業化に無料で利用できる。"
+                "x": "ManchuやKalamangといった未知の言語での継続翻訳では、性能低下をほぼゼロに抑えた。SQuADと継続事前学習ではそれぞれ48.9%と46.2%に達し、AIME 24/25とHMMT 25では睡眠で強化したベースモデルが79.2%、69.0%、46.1%を記録してSFT、GRPO、OPSDを上回った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-designed编辑器\n助水稻抵御白叶枯病",
-          "body": "Missouri研究人员用AI-designed基因组编辑工具，培育出抗白叶枯病的水稻。",
-          "mini_headline": "AI编辑器护水稻",
+          "headline": "Google为LLMs\n引入睡眠以保住知识",
+          "body": "Google Research为LLMs加入睡眠阶段，使其吸收新事实并减轻灾难性遗忘。",
+          "mini_headline": "靠睡眠学习的LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "一股闪着蓝光的几何形状流汇聚成一个明亮、相互连接的神经网络球体。"
               },
               {
                 "t": "p",
-                "x": "University of Missouri的研究人员培育出了抗白叶枯病的水稻。这种病害可能让亚洲和非洲部分地区的收成毁于一旦，危及生计。College of Agriculture, Food and Natural Resources的Curators'杰出教授、Bond Life Sciences Center研究员Bing Yang说：“白叶枯病会严重破坏水稻作物，使产量和品质双双下降。”"
+                "x": "Google Research的Ali Behrouz和Vahab Mirrokni在持续学习中引入睡眠阶段，使大语言模型能够在减轻灾难性遗忘或静态知识截止问题的同时，持续整合新事实并增强推理能力。通过在主动交互与离线记忆巩固之间交替，LLMs能够获取新事实、保留最多10M token的长上下文知识，并提升复杂推理能力。"
               },
               {
                 "t": "p",
-                "x": "团队使用借助人工智能设计的基因编辑系统OpenCRISPR-1，改变了使植物易感病的基因。该工具最初由加利福尼亚生物技术公司Profluent开发，并已在动物细胞中得到验证；Yang的团队将其改造用于水稻。研究发表在aBIOTECH上。"
+                "x": "在活跃（清醒）阶段，模型把临时信息存入快速的短期记忆。在睡眠阶段，模型暂停接收新输入：记忆巩固会解锁预先分配的Mixture-of-Experts记忆块，把短期记忆蒸馏进去，然后重置临时参数；做梦则生成合成练习样本，加以筛选，并用最佳样本微调模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "睡眠框架概览：Consolidation（巩固）与Dreaming（做梦）。"
               },
               {
                 "t": "p",
-                "x": "这些结果来自实验室株系。在农民受益之前，这些性状还需导入商业种植品种，通过更多测试和监管要求，并找到产业合作伙伴，这可能需要数年时间。Yang认为，这一方法可推广到玉米和大豆，并用于应对从植物病害到干旱和极端温度等各种挑战。OpenCRISPR-1是开源的，可免费用于作物基因组编辑的研究和商业化。"
+                "x": "在Manchu、Kalamang等未见过语言的持续翻译中，该框架的性能几乎零下降。在SQuAD和持续预训练上分别达到48.9%和46.2%；在AIME 24/25和HMMT 25上，经睡眠增强的基础模型得分为79.2%、69.0%和46.1%，优于SFT、GRPO和OPSD。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un editor genético AI-designed\nayuda al arroz contra el tizón",
-          "body": "Investigadores de Missouri usaron edición genómica AI-designed para crear arroz resistente al tizón bacteriano.",
-          "mini_headline": "Un editor con AI protege el arroz",
+          "headline": "Google da a los LLMs una fase\nde sueño para no olvidar",
+          "body": "Google Research añade una fase de sueño para que los LLMs absorban hechos nuevos y mitiguen el olvido catastrófico.",
+          "mini_headline": "LLMs que aprenden durmiendo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-                "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+                "cap": "Un flujo de formas geométricas azules y luminosas se consolida en una esfera brillante de red neuronal interconectada."
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Missouri han creado plantas de arroz resistentes al tizón bacteriano, una enfermedad que puede arrasar cosechas y poner en peligro los medios de vida en partes de Asia y África. \"El tizón bacteriano puede causar estragos en los cultivos de arroz, reduciendo tanto el rendimiento como la calidad\", dijo Bing Yang, profesor distinguido Curators' en el College of Agriculture, Food and Natural Resources e investigador del Bond Life Sciences Center."
+                "x": "Ali Behrouz y Vahab Mirrokni, de Google Research, introducen una fase de sueño en el aprendizaje continuo que permite a los grandes modelos de lenguaje integrar de forma continua hechos nuevos y mejorar el razonamiento, a la vez que mitiga el olvido catastrófico o los cortes de conocimiento estáticos. Alternar entre la interacción activa y la consolidación de memoria fuera de línea permite a los LLMs adquirir hechos nuevos, retener conocimiento de contexto largo de hasta 10M tokens y mejorar el razonamiento complejo."
               },
               {
                 "t": "p",
-                "x": "El equipo utilizó OpenCRISPR-1, un sistema de edición genética diseñado mediante inteligencia artificial, para modificar genes que hacen a las plantas vulnerables a enfermedades. La herramienta fue desarrollada originalmente por la empresa de biotecnología californiana Profluent y se había demostrado en células animales; el equipo de Yang la adaptó al arroz. El estudio se publicó en aBIOTECH."
+                "x": "En la fase activa (de vigilia), el modelo guarda información temporal en una memoria a corto plazo rápida. En la fase de sueño detiene las entradas nuevas: la consolidación de memoria desbloquea bloques de memoria Mixture-of-Experts preasignados y destila en ellos los recuerdos a corto plazo, y luego restablece los parámetros temporales; el soñar genera muestras sintéticas de práctica, las filtra y refina el modelo con las mejores."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+                "cap": "Esquema general del marco de sueño: Consolidation (consolidación) y Dreaming (soñar)."
               },
               {
                 "t": "p",
-                "x": "Los resultados proceden de una línea de laboratorio. Antes de que los agricultores se beneficien, los rasgos deben trasladarse a variedades de cultivo comercial, superar más pruebas y requisitos regulatorios y encontrar socios en la industria, lo que podría llevar varios años. Yang prevé que el enfoque se extienda al maíz y la soja, y a desafíos que van desde las enfermedades de las plantas hasta la sequía y las temperaturas extremas. OpenCRISPR-1 es de código abierto y gratuito para la investigación y la comercialización de la edición genómica de cultivos."
+                "x": "En traducción continua a lenguas no vistas, como el Manchu y el Kalamang, el marco mantuvo una caída de rendimiento casi nula. En SQuAD y en preentrenamiento continuo alcanzó el 48.9% y el 46.2%, y en AIME 24/25 y HMMT 25 el modelo base reforzado con sueño obtuvo el 79.2%, el 69.0% y el 46.1%, por encima de SFT, GRPO y OPSD."
               }
             ]
           }
@@ -1321,15 +1221,15 @@
       }
     },
     {
-      "id": "ai-ideas-people",
+      "id": "yonsei-mamba-qec-decoder",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "AI 아이디어는 빨라도\n창의성은 사람끼리",
-      "body": "208명 실험에서 ChatGPT와 하면 답이 길었고 사람끼리는 더 창의적이었다.",
-      "mini_headline": "AI는 빠르고 사람은 창의적",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
+      "headline": "양자 오류 정정용\n더 가벼운 AI 디코더",
+      "body": "AlphaQubit-style 정확도에 복잡도는 O(d^4)→O(d^2)로 줄었다.",
+      "mini_headline": "더 가벼운 양자 오류 디코딩",
+      "source": "Quantum Computing Report",
+      "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1337,305 +1237,255 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-            "cap": "Credit: Unsplash/CC0 Public Domain"
+            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
           },
           {
             "t": "p",
-            "x": "생성형 AI가 생산성을 높인다는 이야기는 자주 나오지만, 협업과 창의성에는 어떤 영향을 줄까? 인지과학자 Clin Lai와 Roger Beaty는 발산적 사고를 재는 '대체 용도 과제'로 실험하면서 참가자 208명을 ChatGPT나 다른 사람과 함께 작업하도록 무작위 배정했다."
+            "x": "Yonsei University 연구진이 Mamba 구조적 상태공간 아키텍처로 신경망 양자 오류 정정(QEC) 디코더를 만들어, 딥러닝 디코딩의 계산 복잡도를 코드 거리 d 기준 O(d4)에서 O(d2)로 낮췄다. 연구는 npj Quantum Information에 실렸다. 모델은 실험용 메모리 벤치마크에서 AlphaQubit 같은 Transformer 기반 모델과 정확도가 같았다."
           },
           {
             "t": "p",
-            "x": "ChatGPT와 작업한 사람들은 답을 더 길게 썼지만, \"사람끼리 짝을 이룬 쪽이 ChatGPT와 작업한 사람들보다 더 창의적인 아이디어를 냈다.\" 사람 짝의 아이디어는 더 독특하고 다양하기도 했다. 책을 방음재로 쓰는 식으로 AI의 개별 제안이 창의적일 때도 있었다. 하지만 ChatGPT가 서로 다른 여러 세션에서 같은 아이디어를 되풀이하면서 아이디어 풀은 더 균질해졌다."
+            "x": "Transformer 디코더는 안정자 토큰을 모두 쌍으로 비교하기 때문에 O(d4)로 스케일링되고, 지연이 쌓여 초전도 결맞음 한계를 넘어선다. Mamba는 어텐션 대신 선택적 상태공간 층을 쓴다. Google Quantum AI Sycamore 데이터셋에서 이 모델은 Transformer와 정확도가 같았고, 디코더가 일으키는 지연 잡음을 반영해도 오류 억제 우위를 지켰다. 격차는 d = 3에서 d = 9로 갈수록 벌어졌다."
           },
           {
             "t": "p",
-            "x": "저자들은 비슷한 데이터로 다음에 올 가능성이 가장 높은 단어를 예측하도록 학습된 대규모 언어 모델이 한곳으로 수렴하기 쉽다고 지적한다. 의미적 거리로 재 보니 다른 사람과 함께 일해서 얻는 창의성 이점은 협업이 이어질수록 커졌다."
-          },
-          {
-            "t": "p",
-            "x": "페르소나 프롬프팅으로 ChatGPT의 아이디어 다양성은 높아졌지만 그 폭은 여전히 사람 작성자에 못 미쳤다. 연구진은 AI와 대화하기 전에 먼저 사람과 이야기하라고 조언한다. 연구는 Computers in Human Behavior에 실렸다."
+            "x": "실용화하려면 디코더를 저지연 FPGAs나 맞춤형 ASICs로 옮겨, 마이크로초가 안 되는 주기 예산 안에서 추론을 돌려야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI ideas come faster,\npeople together more creative",
-          "body": "A study of 208 people finds ChatGPT partners yield longer answers, but human pairs come up with more creative ideas.",
-          "mini_headline": "AI is fast, people creative",
+          "headline": "A leaner AI decoder for\nquantum error correction",
+          "body": "Yonsei's Mamba decoder matches AlphaQubit-style Transformers in accuracy but cuts complexity from O(d^4) to O(d^2).",
+          "mini_headline": "Leaner quantum error decoding",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
               },
               {
                 "t": "p",
-                "x": "Generative AI's productivity gains are often touted, but how does it affect collaboration and creativity? Cognitive scientists Clin Lai and Roger Beaty ran an experiment using the alternate uses task, a measure of divergent thinking, randomly assigning 208 participants to work with either ChatGPT or another person."
+                "x": "Researchers from Yonsei University have developed a neural quantum error correction (QEC) decoder based on the Mamba structured state-space architecture, reducing the computational complexity of deep-learning decoding from O(d4) to O(d2) in code distance d. In research published in npj Quantum Information, the model matches the accuracy of Transformer-based models such as AlphaQubit on experimental memory benchmarks."
               },
               {
                 "t": "p",
-                "x": "People working with ChatGPT wrote longer responses, \"but human pairs came up with more creative ideas than the humans working with ChatGPT.\" Ideas from human pairs were also more distinct and diverse. Individual AI suggestions could be creative, such as using a book as a sound dampener, but ChatGPT presented that same idea across many separate sessions, making its pool of ideas more homogeneous."
+                "x": "Transformer decoders compare all stabilizer tokens pairwise, yielding O(d4) scaling and latency backlogs beyond superconducting coherence limits; Mamba replaces attention with selective state-space layers. On the Google Quantum AI Sycamore dataset it matched Transformer accuracy and kept an error-suppression advantage when decoder-induced latency noise was counted, with the gap growing from d = 3 through d = 9."
               },
               {
                 "t": "p",
-                "x": "The authors note that large language models, trained on similar data to predict the next most likely words, tend to converge. The creativity benefit of working with another person grew stronger as the collaboration progressed, measured by semantic distance."
-              },
-              {
-                "t": "p",
-                "x": "Persona prompting increased ChatGPT's idea diversity, but the range still fell short of human writers. Their advice: chat with a person before chatting with AI. The study appeared in Computers in Human Behavior."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 아이디어는 빨라도\n창의성은 사람끼리",
-          "body": "208명 실험에서 ChatGPT와 하면 답이 길었고 사람끼리는 더 창의적이었다.",
-          "mini_headline": "AI는 빠르고 사람은 창의적",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "생성형 AI가 생산성을 높인다는 이야기는 자주 나오지만, 협업과 창의성에는 어떤 영향을 줄까? 인지과학자 Clin Lai와 Roger Beaty는 발산적 사고를 재는 '대체 용도 과제'로 실험하면서 참가자 208명을 ChatGPT나 다른 사람과 함께 작업하도록 무작위 배정했다."
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT와 작업한 사람들은 답을 더 길게 썼지만, \"사람끼리 짝을 이룬 쪽이 ChatGPT와 작업한 사람들보다 더 창의적인 아이디어를 냈다.\" 사람 짝의 아이디어는 더 독특하고 다양하기도 했다. 책을 방음재로 쓰는 식으로 AI의 개별 제안이 창의적일 때도 있었다. 하지만 ChatGPT가 서로 다른 여러 세션에서 같은 아이디어를 되풀이하면서 아이디어 풀은 더 균질해졌다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 비슷한 데이터로 다음에 올 가능성이 가장 높은 단어를 예측하도록 학습된 대규모 언어 모델이 한곳으로 수렴하기 쉽다고 지적한다. 의미적 거리로 재 보니 다른 사람과 함께 일해서 얻는 창의성 이점은 협업이 이어질수록 커졌다."
-              },
-              {
-                "t": "p",
-                "x": "페르소나 프롬프팅으로 ChatGPT의 아이디어 다양성은 높아졌지만 그 폭은 여전히 사람 작성자에 못 미쳤다. 연구진은 AI와 대화하기 전에 먼저 사람과 이야기하라고 조언한다. 연구는 Computers in Human Behavior에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIでアイデアは速く\n人同士ならより創造的",
-          "body": "208人の研究で、ChatGPTと組むと回答は長いが、人同士の方がより創造的だった。",
-          "mini_headline": "AIは速く、人は創造的",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "生成AIの生産性向上はしばしば強調されるが、協働や創造性にはどう影響するのか。認知科学者のClin LaiとRoger Beatyは、拡散的思考を測る「代替用途課題」を用いた実験を行い、208人の参加者をChatGPTか別の人のどちらかと組むよう無作為に割り当てた。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPTと組んだ人はより長い回答を書いたが、「人同士のペアは、ChatGPTと組んだ人よりも創造的なアイデアを出した」。人同士のペアのアイデアは、より独自性が高く多様でもあった。本を防音材として使うなど、AIの個々の提案が創造的なこともあったが、ChatGPTは別々の多くのセッションで同じアイデアを示したため、アイデアの集まりはより均質になった。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、似たデータで次に来る可能性が最も高い語を予測するよう訓練された大規模言語モデルは、収束しやすいと指摘する。意味的距離で測ると、他者と協働することによる創造性の利点は、協働が進むにつれて強まった。"
-              },
-              {
-                "t": "p",
-                "x": "ペルソナ・プロンプティングはChatGPTのアイデアの多様性を高めたが、その幅はなお人間の書き手に及ばなかった。彼らの助言は、AIと話す前にまず人と話すことだ。研究はComputers in Human Behaviorに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI出点子更快\n人与人合作更有创意",
-          "body": "一项208人的研究发现，与ChatGPT搭档回答更长，但真人搭档的点子更有创意。",
-          "mini_headline": "AI快，人更有创意",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "生成式AI带来的效率提升常被宣扬，但它如何影响协作与创造力？认知科学家Clin Lai和Roger Beaty用衡量发散思维的“替代用途任务”做了一项实验，将208名参与者随机分配与ChatGPT或另一个人合作。"
-              },
-              {
-                "t": "p",
-                "x": "与ChatGPT合作的人写出的回答更长，“但真人搭档想出的点子比与ChatGPT合作的人更有创意。”真人搭档的点子也更独特、更多样。AI的个别建议也可能很有创意，比如把书当作消音材料，但ChatGPT在许多彼此独立的会话中给出了同一个点子，使其点子池更趋同质。"
-              },
-              {
-                "t": "p",
-                "x": "作者指出，大型语言模型基于相似数据训练，用于预测最可能出现的下一个词，因此往往趋于一致。以语义距离衡量，与他人合作带来的创造力优势会随着协作推进而增强。"
-              },
-              {
-                "t": "p",
-                "x": "人设提示提高了ChatGPT点子的多样性，但其范围仍不及人类写作者。他们的建议是：先和人聊，再和AI聊。该研究发表于Computers in Human Behavior。"
+                "x": "Practical use still requires porting the decoder onto low-latency FPGAs or custom ASICs to run inference within sub-microsecond cycle budgets."
               }
             ]
           }
         },
         "es": {
-          "headline": "Con AI, ideas más rápidas;\nentre personas, más creativas",
-          "body": "En un estudio con 208 personas, con ChatGPT hubo respuestas más largas, pero las parejas humanas fueron más creativas.",
-          "mini_headline": "La AI es rápida; las personas, creativas",
+          "headline": "Un decodificador AI más ligero\npara corregir errores cuánticos",
+          "body": "El decodificador Mamba de Yonsei iguala en precisión a Transformers AlphaQubit-style y baja de O(d^4) a O(d^2).",
+          "mini_headline": "Decodificación cuántica más ligera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
               },
               {
                 "t": "p",
-                "x": "A menudo se pregonan las mejoras de productividad de la AI generativa, pero ¿cómo afecta a la colaboración y la creatividad? Los científicos cognitivos Clin Lai y Roger Beaty realizaron un experimento con la tarea de usos alternativos, una medida del pensamiento divergente, y asignaron al azar a 208 participantes a trabajar con ChatGPT o con otra persona."
+                "x": "Investigadores de la Yonsei University han desarrollado un decodificador neuronal de corrección cuántica de errores (QEC) basado en la arquitectura de espacio de estados estructurado Mamba, que reduce la complejidad computacional de la decodificación por aprendizaje profundo de O(d4) a O(d2) en la distancia de código d. En una investigación publicada en npj Quantum Information, el modelo iguala la precisión de modelos basados en Transformer como AlphaQubit en pruebas experimentales de memoria."
               },
               {
                 "t": "p",
-                "x": "Quienes trabajaron con ChatGPT escribieron respuestas más largas, \"pero las parejas humanas propusieron ideas más creativas que las personas que trabajaron con ChatGPT\". Las ideas de las parejas humanas también fueron más distintas y diversas. Algunas sugerencias de la AI podían ser creativas, como usar un libro para amortiguar el sonido, pero ChatGPT presentó esa misma idea en muchas sesiones distintas, lo que hizo más homogéneo su conjunto de ideas."
+                "x": "Los decodificadores Transformer comparan todos los tokens estabilizadores por pares, lo que produce un escalado O(d4) y retrasos acumulados que superan los límites de coherencia superconductora; Mamba sustituye la atención por capas selectivas de espacio de estados. En el conjunto de datos Sycamore de Google Quantum AI igualó la precisión de Transformer y mantuvo una ventaja en supresión de errores al contabilizar el ruido de latencia inducido por el decodificador, con una brecha que crecía de d = 3 a d = 9."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que los grandes modelos de lenguaje, entrenados con datos similares para predecir las siguientes palabras más probables, tienden a converger. El beneficio creativo de trabajar con otra persona se hizo más fuerte a medida que avanzaba la colaboración, según la distancia semántica."
+                "x": "Su uso práctico aún requiere trasladar el decodificador a FPGAs de baja latencia o ASICs a medida para ejecutar la inferencia dentro de presupuestos de ciclo inferiores al microsegundo."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "양자 오류 정정용\n더 가벼운 AI 디코더",
+          "body": "AlphaQubit-style 정확도에 복잡도는 O(d^4)→O(d^2)로 줄었다.",
+          "mini_headline": "더 가벼운 양자 오류 디코딩",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
               },
               {
                 "t": "p",
-                "x": "El prompting con personajes aumentó la diversidad de ideas de ChatGPT, pero su variedad siguió por debajo de la de los escritores humanos. Su consejo: hablar con una persona antes de hablar con la AI. El estudio se publicó en Computers in Human Behavior."
+                "x": "Yonsei University 연구진이 Mamba 구조적 상태공간 아키텍처로 신경망 양자 오류 정정(QEC) 디코더를 만들어, 딥러닝 디코딩의 계산 복잡도를 코드 거리 d 기준 O(d4)에서 O(d2)로 낮췄다. 연구는 npj Quantum Information에 실렸다. 모델은 실험용 메모리 벤치마크에서 AlphaQubit 같은 Transformer 기반 모델과 정확도가 같았다."
+              },
+              {
+                "t": "p",
+                "x": "Transformer 디코더는 안정자 토큰을 모두 쌍으로 비교하기 때문에 O(d4)로 스케일링되고, 지연이 쌓여 초전도 결맞음 한계를 넘어선다. Mamba는 어텐션 대신 선택적 상태공간 층을 쓴다. Google Quantum AI Sycamore 데이터셋에서 이 모델은 Transformer와 정확도가 같았고, 디코더가 일으키는 지연 잡음을 반영해도 오류 억제 우위를 지켰다. 격차는 d = 3에서 d = 9로 갈수록 벌어졌다."
+              },
+              {
+                "t": "p",
+                "x": "실용화하려면 디코더를 저지연 FPGAs나 맞춤형 ASICs로 옮겨, 마이크로초가 안 되는 주기 예산 안에서 추론을 돌려야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "量子誤り訂正向けの\n軽量なAIデコーダー",
+          "body": "AlphaQubit-style並の精度で計算量をO(d^4)→O(d^2)に削減した。",
+          "mini_headline": "軽量な量子誤り復号",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+              },
+              {
+                "t": "p",
+                "x": "Yonsei Universityの研究者らは、Mamba構造化状態空間アーキテクチャに基づくニューラル量子誤り訂正（QEC）デコーダーを開発し、深層学習による復号の計算量を符号距離dに対してO(d4)からO(d2)へ削減した。npj Quantum Informationに掲載された研究で、このモデルは実験的なメモリベンチマークにおいてAlphaQubitなどのTransformerベースのモデルと同等の精度を示した。"
+              },
+              {
+                "t": "p",
+                "x": "Transformerデコーダーはすべてのスタビライザートークンを総当たりで比較するため、O(d4)のスケーリングとなり、超伝導コヒーレンスの限界を超える遅延の滞留が生じる。Mambaはアテンションを選択的状態空間層に置き換える。Google Quantum AIのSycamoreデータセットでは、Transformerと同等の精度を達成し、デコーダー起因の遅延ノイズを考慮した場合にも誤り抑制の優位を保ち、その差はd = 3からd = 9にかけて拡大した。"
+              },
+              {
+                "t": "p",
+                "x": "実用化には、サブマイクロ秒のサイクル予算内で推論を実行できるよう、デコーダーを低遅延のFPGAsや専用ASICsに移植する必要がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用于量子纠错的\n更精简的AI解码器",
+          "body": "Mamba精度媲美AlphaQubit-style模型，复杂度O(d^4)降至O(d^2)。",
+          "mini_headline": "更精简的量子纠错解码",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+              },
+              {
+                "t": "p",
+                "x": "Yonsei University的研究人员开发了一种基于Mamba结构化状态空间架构的神经量子纠错（QEC）解码器，将深度学习解码的计算复杂度从码距d的O(d4)降至O(d2)。在发表于npj Quantum Information的研究中，该模型在实验性存储器基准测试上达到了AlphaQubit等基于Transformer模型的精度。"
+              },
+              {
+                "t": "p",
+                "x": "Transformer解码器要对所有稳定子token进行两两比较，导致O(d4)的扩展规模以及超出超导相干极限的延迟积压；Mamba则用选择性状态空间层取代注意力机制。在Google Quantum AI的Sycamore数据集上，它达到了与Transformer相当的精度，并在计入解码器引发的延迟噪声时保持了错误抑制优势，且差距从d = 3到d = 9逐步扩大。"
+              },
+              {
+                "t": "p",
+                "x": "要投入实际应用，仍需把解码器移植到低延迟FPGAs或定制ASICs上，以便在亚微秒级的周期预算内完成推理。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI 아이디어는 빨라도\n창의성은 사람끼리",
-          "body": "208명 실험에서 ChatGPT와는 답이 길었고 사람끼리는 더 창의적이었다.",
-          "mini_headline": "AI는 빠르고, 사람은 창의적",
+        "es": {
+          "headline": "Un decodificador AI más ligero\npara corregir errores cuánticos",
+          "body": "El decodificador Mamba de Yonsei iguala en precisión a Transformers AlphaQubit-style y baja de O(d^4) a O(d^2).",
+          "mini_headline": "Decodificación cuántica más ligera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
               },
               {
                 "t": "p",
-                "x": "생성형 AI의 생산성 향상은 자주 강조되지만, 협업과 창의성에는 어떤 영향을 줄까? 인지과학자 Clin Lai와 Roger Beaty는 발산적 사고를 측정하는 '대체 용도 과제'로 실험을 진행하며 참가자 208명을 ChatGPT 또는 다른 사람과 함께 작업하도록 무작위로 배정했다."
+                "x": "Investigadores de la Yonsei University han desarrollado un decodificador neuronal de corrección cuántica de errores (QEC) basado en la arquitectura de espacio de estados estructurado Mamba, que reduce la complejidad computacional de la decodificación por aprendizaje profundo de O(d4) a O(d2) en la distancia de código d. En una investigación publicada en npj Quantum Information, el modelo iguala la precisión de modelos basados en Transformer como AlphaQubit en pruebas experimentales de memoria."
               },
               {
                 "t": "p",
-                "x": "ChatGPT와 작업한 사람들은 더 긴 답을 썼지만, \"사람끼리 짝을 이룬 쪽이 ChatGPT와 작업한 사람들보다 더 창의적인 아이디어를 냈다.\" 사람 짝의 아이디어는 더 독특하고 다양하기도 했다. 책을 방음재로 쓰는 것처럼 AI의 개별 제안이 창의적일 때도 있었지만, ChatGPT는 서로 다른 여러 세션에서 같은 아이디어를 내놓아 아이디어 풀이 더 균질해졌다."
+                "x": "Los decodificadores Transformer comparan todos los tokens estabilizadores por pares, lo que produce un escalado O(d4) y retrasos acumulados que superan los límites de coherencia superconductora; Mamba sustituye la atención por capas selectivas de espacio de estados. En el conjunto de datos Sycamore de Google Quantum AI igualó la precisión de Transformer y mantuvo una ventaja en supresión de errores al contabilizar el ruido de latencia inducido por el decodificador, con una brecha que crecía de d = 3 a d = 9."
               },
               {
                 "t": "p",
-                "x": "저자들은 비슷한 데이터로 다음에 올 가능성이 가장 높은 단어를 예측하도록 학습된 대규모 언어 모델이 한곳으로 수렴하는 경향이 있다고 지적한다. 의미적 거리로 측정한 결과, 다른 사람과 함께 일하는 데서 오는 창의성 이점은 협업이 진행될수록 커졌다."
+                "x": "Su uso práctico aún requiere trasladar el decodificador a FPGAs de baja latencia o ASICs a medida para ejecutar la inferencia dentro de presupuestos de ciclo inferiores al microsegundo."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "양자 오류 정정용\n더 가벼운 AI 디코더",
+          "body": "AlphaQubit-style 정확도에 복잡도는 O(d^4)→O(d^2)로 줄었다.",
+          "mini_headline": "더 가벼운 양자 오류 디코딩",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
               },
               {
                 "t": "p",
-                "x": "페르소나 프롬프팅은 ChatGPT의 아이디어 다양성을 높였지만, 그 폭은 여전히 사람 작성자에 못 미쳤다. 연구진의 조언은 AI와 대화하기 전에 먼저 사람과 이야기하라는 것이다. 연구는 Computers in Human Behavior에 실렸다."
+                "x": "Yonsei University 연구진이 Mamba 구조적 상태공간 아키텍처를 기반으로 신경망 양자 오류 정정(QEC) 디코더를 개발해, 딥러닝 디코딩의 계산 복잡도를 코드 거리 d 기준 O(d4)에서 O(d2)로 낮췄다. npj Quantum Information에 실린 이 연구에서 모델은 실험용 메모리 벤치마크에서 AlphaQubit 같은 Transformer 기반 모델과 같은 정확도를 보였다."
+              },
+              {
+                "t": "p",
+                "x": "Transformer 디코더는 모든 안정자 토큰을 쌍으로 비교하므로 O(d4) 스케일링이 생기고, 초전도 결맞음 한계를 넘어서는 지연 적체가 발생한다. Mamba는 어텐션을 선택적 상태공간 층으로 대체한다. Google Quantum AI Sycamore 데이터셋에서 이 모델은 Transformer와 같은 정확도를 냈고, 디코더가 유발하는 지연 잡음을 반영했을 때도 오류 억제 우위를 유지했으며, 그 격차는 d = 3에서 d = 9로 갈수록 커졌다."
+              },
+              {
+                "t": "p",
+                "x": "실용화하려면 마이크로초 미만의 주기 예산 안에서 추론을 실행할 수 있도록 디코더를 저지연 FPGAs나 맞춤형 ASICs로 옮겨야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでアイデアは速く\n人同士ならより創造的",
-          "body": "208人の研究で、ChatGPTと組むと回答は長いが、人同士の方がより創造的だった。",
-          "mini_headline": "AIは速く、人は創造的",
+          "headline": "量子誤り訂正向けの\n軽量なAIデコーダー",
+          "body": "AlphaQubit-style並の精度で計算量をO(d^4)→O(d^2)に削減した。",
+          "mini_headline": "軽量な量子誤り復号",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
               },
               {
                 "t": "p",
-                "x": "生成AIの生産性向上はしばしば強調されるが、協働や創造性にはどう影響するのか。認知科学者のClin LaiとRoger Beatyは、拡散的思考を測る「代替用途課題」を用いた実験を行い、208人の参加者をChatGPTか別の人のどちらかと組むよう無作為に割り当てた。"
+                "x": "Yonsei Universityの研究者らは、Mamba構造化状態空間アーキテクチャに基づくニューラル量子誤り訂正（QEC）デコーダーを開発し、深層学習による復号の計算量を符号距離dに対してO(d4)からO(d2)へ削減した。npj Quantum Informationに掲載された研究で、このモデルは実験的なメモリベンチマークにおいてAlphaQubitなどのTransformerベースのモデルと同等の精度を示した。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTと組んだ人はより長い回答を書いたが、「人同士のペアは、ChatGPTと組んだ人よりも創造的なアイデアを出した」。人同士のペアのアイデアは、より独自性が高く多様でもあった。本を防音材として使うなど、AIの個々の提案が創造的なこともあったが、ChatGPTは別々の多くのセッションで同じアイデアを示したため、アイデアの集まりはより均質になった。"
+                "x": "Transformerデコーダーはすべてのスタビライザートークンを総当たりで比較するため、O(d4)のスケーリングとなり、超伝導コヒーレンスの限界を超える遅延の滞留が生じる。Mambaはアテンションを選択的状態空間層に置き換える。Google Quantum AIのSycamoreデータセットでは、Transformerと同等の精度を達成し、デコーダー起因の遅延ノイズを考慮した場合にも誤り抑制の優位を保ち、その差はd = 3からd = 9にかけて拡大した。"
               },
               {
                 "t": "p",
-                "x": "著者らは、似たデータで次に来る可能性が最も高い語を予測するよう訓練された大規模言語モデルは、収束しやすいと指摘する。意味的距離で測ると、他者と協働することによる創造性の利点は、協働が進むにつれて強まった。"
-              },
-              {
-                "t": "p",
-                "x": "ペルソナ・プロンプティングはChatGPTのアイデアの多様性を高めたが、その幅はなお人間の書き手に及ばなかった。彼らの助言は、AIと話す前にまず人と話すことだ。研究はComputers in Human Behaviorに掲載された。"
+                "x": "実用化には、サブマイクロ秒のサイクル予算内で推論を実行できるよう、デコーダーを低遅延のFPGAsや専用ASICsに移植する必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI出点子更快\n人与人合作更有创意",
-          "body": "一项208人的研究发现，与ChatGPT搭档回答更长，但真人搭档的点子更有创意。",
-          "mini_headline": "AI快，人更有创意",
+          "headline": "用于量子纠错的\n更精简的AI解码器",
+          "body": "Mamba精度媲美AlphaQubit-style模型，复杂度O(d^4)降至O(d^2)。",
+          "mini_headline": "更精简的量子纠错解码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
               },
               {
                 "t": "p",
-                "x": "生成式AI带来的效率提升常被宣扬，但它如何影响协作与创造力？认知科学家Clin Lai和Roger Beaty用衡量发散思维的“替代用途任务”做了一项实验，将208名参与者随机分配与ChatGPT或另一个人合作。"
+                "x": "Yonsei University的研究人员开发了一种基于Mamba结构化状态空间架构的神经量子纠错（QEC）解码器，将深度学习解码的计算复杂度从码距d的O(d4)降至O(d2)。在发表于npj Quantum Information的研究中，该模型在实验性存储器基准测试上达到了AlphaQubit等基于Transformer模型的精度。"
               },
               {
                 "t": "p",
-                "x": "与ChatGPT合作的人写出的回答更长，“但真人搭档想出的点子比与ChatGPT合作的人更有创意。”真人搭档的点子也更独特、更多样。AI的个别建议也可能很有创意，比如把书当作消音材料，但ChatGPT在许多彼此独立的会话中给出了同一个点子，使其点子池更趋同质。"
+                "x": "Transformer解码器要对所有稳定子token进行两两比较，导致O(d4)的扩展规模以及超出超导相干极限的延迟积压；Mamba则用选择性状态空间层取代注意力机制。在Google Quantum AI的Sycamore数据集上，它达到了与Transformer相当的精度，并在计入解码器引发的延迟噪声时保持了错误抑制优势，且差距从d = 3到d = 9逐步扩大。"
               },
               {
                 "t": "p",
-                "x": "作者指出，大型语言模型基于相似数据训练，用于预测最可能出现的下一个词，因此往往趋于一致。以语义距离衡量，与他人合作带来的创造力优势会随着协作推进而增强。"
-              },
-              {
-                "t": "p",
-                "x": "人设提示提高了ChatGPT点子的多样性，但其范围仍不及人类写作者。他们的建议是：先和人聊，再和AI聊。该研究发表于Computers in Human Behavior。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Con AI, ideas más rápidas;\nentre personas, más creativas",
-          "body": "En un estudio con 208 personas, con ChatGPT hubo respuestas más largas, pero las parejas humanas fueron más creativas.",
-          "mini_headline": "La AI es rápida; las personas, creativas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "A menudo se pregonan las mejoras de productividad de la AI generativa, pero ¿cómo afecta a la colaboración y la creatividad? Los científicos cognitivos Clin Lai y Roger Beaty realizaron un experimento con la tarea de usos alternativos, una medida del pensamiento divergente, y asignaron al azar a 208 participantes a trabajar con ChatGPT o con otra persona."
-              },
-              {
-                "t": "p",
-                "x": "Quienes trabajaron con ChatGPT escribieron respuestas más largas, \"pero las parejas humanas propusieron ideas más creativas que las personas que trabajaron con ChatGPT\". Las ideas de las parejas humanas también fueron más distintas y diversas. Algunas sugerencias de la AI podían ser creativas, como usar un libro para amortiguar el sonido, pero ChatGPT presentó esa misma idea en muchas sesiones distintas, lo que hizo más homogéneo su conjunto de ideas."
-              },
-              {
-                "t": "p",
-                "x": "Los autores señalan que los grandes modelos de lenguaje, entrenados con datos similares para predecir las siguientes palabras más probables, tienden a converger. El beneficio creativo de trabajar con otra persona se hizo más fuerte a medida que avanzaba la colaboración, según la distancia semántica."
-              },
-              {
-                "t": "p",
-                "x": "El prompting con personajes aumentó la diversidad de ideas de ChatGPT, pero su variedad siguió por debajo de la de los escritores humanos. Su consejo: hablar con una persona antes de hablar con la AI. El estudio se publicó en Computers in Human Behavior."
+                "x": "要投入实际应用，仍需把解码器移植到低延迟FPGAs或定制ASICs上，以便在亚微秒级的周期预算内完成推理。"
               }
             ]
           }

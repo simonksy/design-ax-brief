@@ -1,179 +1,107 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "GitHub open-sources Replica, an AI prototyping tool built by GitHub Design",
-      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
-      "source": "GitHub Changelog",
+      "title": "How we're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "source": "Figma Blog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-28T15:30:00Z",
-      "og_image": "https://github.blog/wp-content/uploads/2026/11/681822683-69153c7f-086b-466e-8be1-e18aed63efac.jpg",
-      "excerpt": "GitHub is open-sourcing Replica, an AI-powered prototyping tool from GitHub Design that turns product ideas into interactive prototypes built with your own design system.",
-      "rationale": "This is a primary-source release from GitHub's own design team. Replica is an open-source AI prototyping tool that builds interactive prototypes with your own design system, so product designers can try it immediately. The only history match is the 10-10 AWS physical-AI toolchain, which shares the words 'open-sources' but is a different story."
+      "published_iso": "2026-10-29T21:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma explains how it fine-tuned a model on its native file format so the Figma agent can make fast, iterative design edits (spacing, color, layout rework) that frontier models handled poorly and expensively.",
+      "rationale": "Primary-source disclosure that the Figma agent now runs on an in-house model trained on Figma's native format for quick spacing, color and layout edits. That changes how fast and how cheaply designers can iterate with the agent. Earlier Figma-agent cards covered how to use the agent, not the model behind it."
     },
     {
       "rank": 2,
-      "title": "Qt Group launches Clate, an AI-native design tool for embedded interfaces",
-      "url": "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces",
-      "source": "Electropages",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-10-27T08:30:00Z",
-      "og_image": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg",
-      "excerpt": "Qt Group unveiled Clate, an AI-powered design environment for embedded UIs that combines no-code building, natural-language prompts and production-ready QML output.",
-      "rationale": "This is a new product launch. Clate takes designers from natural-language prompts to production-ready QML for embedded and device UIs, which narrows the design-to-engineering handoff in HMI work. Nothing on Qt or Clate appears in the 30-day history or in the gadgets published list."
-    },
-    {
-      "rank": 3,
-      "title": "Foundry releases Nuke 18.0 in open beta with a Griptape node for AI image and video workflows",
-      "url": "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/",
-      "source": "CG Channel",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-10-28T04:30:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg",
-      "excerpt": "Nuke 18.0's new Griptape node connects the compositor to Foundry's AI orchestration platform, letting artists run generative image and video workflows - such as generating a dust element - inside the node graph.",
-      "rationale": "This is a new version release. Nuke 18.0 adds a Griptape node, so compositors can run generative image and video steps inside the node graph, and the open beta is available now. The movies section ran the Griptape Enterprise launch (AWN) on 07-17, which was a different event; Nuke 18 itself has not been published in any section."
-    },
-    {
-      "rank": 4,
-      "title": "Vectorworks 2027 AI Visualizer adds Google's Nano Banana 2 and Nano Banana Pro",
-      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/",
-      "source": "PBC Today",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-10-27T15:25:50Z",
-      "og_image": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-      "excerpt": "Vectorworks 2027's AI Visualizer palette now offers Nano Banana 2 for fast concept iteration and Nano Banana Pro for presentation images, at 2K with 4K upscaling and up to 14 reference images per prompt.",
-      "rationale": "This is a new feature inside a professional CAD/BIM tool. Architects and landscape designers get two Nano Banana models in Vectorworks for concept and presentation renders, with 4K upscaling and up to 14 reference images. The history match is the 09-29 Google Flow build pointing to Nano Banana 2.1, which is a different product and a different event."
-    },
-    {
-      "rank": 5,
-      "title": "The time AI saves designers usually disappears. Here's how to keep it.",
-      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
-      "source": "UX Collective",
+      "title": "Introducing Canva Brush, a vision-language model for design",
+      "url": "https://www.canva.com/newsroom/news/canva-brush/",
+      "source": "Canva Newsroom",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-10-27T11:13:45Z",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-      "excerpt": "What a survey of 521 UX professionals found about where AI time savings go - and how designers can keep them.",
-      "rationale": "This piece rests on new data, a survey of 521 UX professionals on where AI time savings actually go, and gives designers practical steps to keep that time. That makes it more useful than the opinion essays in the pool. The nearest earlier items are UXC essays on 10-15 ('hourglass') and 10-06 ('skill atrophy'), which are different arguments without this survey."
-    }
-  ],
-  "items": [
+      "published_iso": "2026-10-29",
+      "og_image": null,
+      "excerpt": "Canva Research's Brush, post-trained from an open-weights model on real design edits, now powers design edits in Canva AI for Pro users, up to 69% faster and 46% cheaper per edit than Canva's previous design agent.",
+      "rationale": "A new model release that is already live for Canva AI Pro users, with measured speed and cost gains per edit. The related 10-23 card was Canva Craft, an image-generation model; Brush is a different, editing-focused model, so this is a separate release."
+    },
     {
-      "rank": 1,
-      "title": "GitHub open-sources Replica, an AI prototyping tool built by GitHub Design",
-      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
-      "source": "GitHub Changelog",
+      "rank": 3,
+      "title": "Snaptrude Agent launches for BIM workflows",
+      "url": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-10-29T15:38:39+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg",
+      "excerpt": "Snaptrude's new AI agent supports architectural workflows from concept design and BIM modelling through MEP and construction documentation.",
+      "rationale": "A new agent launch covering the whole architectural pipeline, from concept through BIM, MEP and construction documents. Snaptrude does not appear anywhere in the 30-day history."
+    },
+    {
+      "rank": 4,
+      "title": "Autodesk Fusion October 2026 Update: 5 Features That Mean Less Rework",
+      "url": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
+      "source": "Autodesk Fusion Blog",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-10-29T07:24:00-07:00",
+      "og_image": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png",
+      "excerpt": "The October Fusion update adds AI-assisted Auto Timeline that reconstructs imported geometry into editable parametric features, plus natural-language task management via Autodesk Assistant.",
+      "rationale": "Primary-source release notes for a shipping update. Auto Timeline rebuilds imported dumb geometry into editable parametric features, which saves product designers rework right away. No Fusion update appears in the 30-day history. This is the second cad card, so it gets the palette accent #3b6bff."
+    },
+    {
+      "rank": 5,
+      "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
+      "source": "UX Collective",
       "category": "figma",
       "tool": "Figma",
-      "accent": "#0070f3",
+      "accent": "#eb367f",
       "motif": "frame",
-      "published_iso": "2026-10-28T15:30:00Z",
-      "og_image": "https://github.blog/wp-content/uploads/2026/11/681822683-69153c7f-086b-466e-8be1-e18aed63efac.jpg",
-      "excerpt": "GitHub is open-sourcing Replica, an AI-powered prototyping tool from GitHub Design that turns product ideas into interactive prototypes built with your own design system.",
-      "rationale": "This is a primary-source release from GitHub's own design team. Replica is an open-source AI prototyping tool that builds interactive prototypes with your own design system, so product designers can try it immediately. The only history match is the 10-10 AWS physical-AI toolchain, which shares the words 'open-sources' but is a different story."
-    },
-    {
-      "rank": 2,
-      "title": "Qt Group launches Clate, an AI-native design tool for embedded interfaces",
-      "url": "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces",
-      "source": "Electropages",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-10-27T08:30:00Z",
-      "og_image": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg",
-      "excerpt": "Qt Group unveiled Clate, an AI-powered design environment for embedded UIs that combines no-code building, natural-language prompts and production-ready QML output.",
-      "rationale": "This is a new product launch. Clate takes designers from natural-language prompts to production-ready QML for embedded and device UIs, which narrows the design-to-engineering handoff in HMI work. Nothing on Qt or Clate appears in the 30-day history or in the gadgets published list."
-    },
-    {
-      "rank": 3,
-      "title": "Foundry releases Nuke 18.0 in open beta with a Griptape node for AI image and video workflows",
-      "url": "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/",
-      "source": "CG Channel",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-10-28T04:30:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg",
-      "excerpt": "Nuke 18.0's new Griptape node connects the compositor to Foundry's AI orchestration platform, letting artists run generative image and video workflows - such as generating a dust element - inside the node graph.",
-      "rationale": "This is a new version release. Nuke 18.0 adds a Griptape node, so compositors can run generative image and video steps inside the node graph, and the open beta is available now. The movies section ran the Griptape Enterprise launch (AWN) on 07-17, which was a different event; Nuke 18 itself has not been published in any section."
-    },
-    {
-      "rank": 4,
-      "title": "Vectorworks 2027 AI Visualizer adds Google's Nano Banana 2 and Nano Banana Pro",
-      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/",
-      "source": "PBC Today",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-10-27T15:25:50Z",
-      "og_image": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
-      "excerpt": "Vectorworks 2027's AI Visualizer palette now offers Nano Banana 2 for fast concept iteration and Nano Banana Pro for presentation images, at 2K with 4K upscaling and up to 14 reference images per prompt.",
-      "rationale": "This is a new feature inside a professional CAD/BIM tool. Architects and landscape designers get two Nano Banana models in Vectorworks for concept and presentation renders, with 4K upscaling and up to 14 reference images. The history match is the 09-29 Google Flow build pointing to Nano Banana 2.1, which is a different product and a different event."
-    },
-    {
-      "rank": 5,
-      "title": "The time AI saves designers usually disappears. Here's how to keep it.",
-      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
-      "source": "UX Collective",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-10-27T11:13:45Z",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
-      "excerpt": "What a survey of 521 UX professionals found about where AI time savings go - and how designers can keep them.",
-      "rationale": "This piece rests on new data, a survey of 521 UX professionals on where AI time savings actually go, and gives designers practical steps to keep that time. That makes it more useful than the opinion essays in the pool. The nearest earlier items are UXC essays on 10-15 ('hourglass') and 10-06 ('skill atrophy'), which are different arguments without this survey."
+      "published_iso": "2026-10-28T23:23:05Z",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*Tqg1rP0B6d3ahTwuShJERg.png",
+      "excerpt": "Six UX questions for designing long-running AI research tasks, drawn from how Google, Perplexity and Microsoft present deep-research agents.",
+      "rationale": "A practical UX-pattern teardown of long-running agent tasks, comparing three shipped products, that designers can apply to their own agent UIs. Earlier UX Collective cards covered latency (Doherty threshold) and delegation, not deep-research task design. This is the second figma card, so it gets the palette accent #eb367f."
     }
   ],
   "dedup": {
     "checks": {
-      "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/": {
+      "https://www.figma.com/blog/training-a-figma-fluent-editing-model/": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
+        "nearest": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
         "new_action": ""
       },
-      "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces": {
+      "https://www.canva.com/newsroom/news/canva-brush/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "new_action": ""
+      },
+      "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/": {
+        "verdict": "new",
+        "nearest": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
+        "new_action": ""
+      },
+      "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/": {
+      "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e": {
         "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
-        "new_action": ""
-      },
-      "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/": {
-        "verdict": "new",
-        "nearest": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
-        "new_action": ""
-      },
-      "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69": {
-        "verdict": "new",
-        "nearest": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
+        "nearest": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc",
         "new_action": ""
       }
     },
-    "note": "Dropped as cross-section or published duplicates: Runway App Studio (movies), The Verge Genie 4 (games), Apple Creator Studio (music/gadgets), and both NVIDIA RTX Spark posts (they continue the 10-14 RTX Spark story, and RTX Spark coverage belongs to games/gadgets). Not picked: the Figma generative-plugin version history (close to the 10-28 Figma shaders video, and would have been a second figma pick), the Figma 'agent-ready design system' video (same topic as the 10-24 Figma blog post and the 10-27 UXC MCP design-system post), the Config India keynote (promo), the GitHub Copilot image generation post (would be a second GitHub card, and the dev-tool feature is less design-specific), the Gemini 4 Argon showcase (model promo, and likely to clash across sections), the Lovable ad controversy (a marketing angle), MAI-Image-2.6 GA (an off-list outlet, and a model-availability item), Allplan Max (a second cad pick; Vectorworks has the more concrete feature detail), the Frame.io YouTube short, the Fast Company smart-TV and design-principles pieces (one has no og_image; the other is less design-tool-relevant), and the remaining UXC essays (opinion only; the one UXC slot went to the survey piece). Cross-section check: I exact-checked published_urls.json movies (cgchannel and Foundry entries) and gadgets (no electropages). Nuke 18 is unpublished; only the 07-17 AWN Griptape Enterprise item exists, which is a different event. Outlets: 5 distinct. Categories: figma, tokens, render, cad, workflow."
+    "note": "Dropped as duplicates: Figma YouTube 'Make your Figma design system agent-ready' (same topic as the 10-24 Figma blog post on the design system and the Figma agent; no new release). Runway Ads GA had already been removed by story_dedup (it repeats the 10-01 Introducing Runway Ads card). Not picked, though not duplicates: the Maxon AI tease (no concrete release, community-reaction piece; related to the 10-01 C4D MCP card), Atelico NPC engine (games-adjacent), Mercedes PLM.AI (enterprise business), Apple Creator Studio (could also run in the movies or music section, and those sections' published URLs were not fully checked), Allplan Max, NVIDIA Omniverse agents, CADFit/EDA roundup, UXC 'agent woke up' (opinion piece), LogRocket HIG, and the Fast Company smart-TV piece. Cross-section check: there is no canva.com entry in published_urls marketing. The figma.com, aecmag.com, autodesk.com and uxdesign.cc picks are design-only outlets. Outlets: 5 distinct. Categories: figma 2, cad 2, workflow 1."
   }
 }

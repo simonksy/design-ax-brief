@@ -8450,6 +8450,118 @@
           "x": "The full article is available to paid subscribers of Jane Friedman's newsletter."
         }
       ]
+    },
+    "books/books-aoi-illustrator-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+          "cap": "Illustrator © Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "An increasing number of illustrators are losing work and income to generative AI (GenAI), a new survey by the Association of Illustrators (AOI) has found, with the technology “changing not only how much work illustrators receive but how commissions are structured, valued and carried out”."
+        }
+      ]
+    },
+    "books/books-stanford-anthropic-optout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+          "cap": "Books stacked on a library shelf."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic previously trained Claude on illegally obtained texts from Stanford professors Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao and Myra Strober. In Bartz v. Anthropic, Judge William Alsup ruled that Anthropic could no longer pirate books to create a permanent central library, while calling the legal acquisition of books to train Claude fair use."
+        },
+        {
+          "t": "p",
+          "x": "The $1.5 billion settlement went to authors and publishers of nearly 500,000 registered works. Wolff and 27 other authors say the settlement isn’t enough. “They’re using my work without paying for it,” said Wolff, professor emeritus of English. 10 of his publications had been used for AI training without permission."
+        },
+        {
+          "t": "p",
+          "x": "Wolff, along with English professor Chang-rae Lee, opted out of the Bartz settlement. In May 2026, they filed the separate non-class lawsuit Cruz v. Anthropic, seeking a jury trial for full statutory damages of up to $150,000 per infringed work, surpassing the approximate $3,000 per work offered in the Bartz settlement. They allege Anthropic downloaded their books from “shadow libraries” like LibGen and PiLiMi; if successful, they would gain a permanent injunction against Claude model training using their works."
+        },
+        {
+          "t": "p",
+          "x": "Stanford Law scholar Paul Goldstein, a plaintiff in the class action, pointed to “transaction costs”: “it’s simply impracticable for the platform to obtain licenses from the copyright owner of every — or, indeed, any — single work.” Outside of Bartz and Cruz, authors, visual artists and news outlets have filed over 70 infringement lawsuits against AI companies."
+        }
+      ]
+    },
+    "books/books-ifrro-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "The report, The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works, developed in collaboration with intellectual property law professor Eleonora Rosati, offers a review of the legal and policy landscape along with the results of IFRRO’s 2026 global survey of nearly 2,000 respondents."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Survey respondents reported: more than 90% agreeing that “generative AI has directly and negatively impacted” rightsholders’ earnings; more than 75% believing that AI will “displace creative workers”; 96% believing the current copyright framework does not adequately protect them; and more than 50% believing that “AI-specific licenses” would “greatly improve their economic situation.”"
+        },
+        {
+          "t": "p",
+          "x": "The study concludes that “the large-scale unauthorized uses of protected content without consent, transparency, or remuneration” are neither “legally nor economically sustainable,” and identifies three “fundamental” conditions: consent and control for authors and rightsholders, effective copyright principles, and robust transparency across training and output generation. IFRRO will host a webinar on November 23, at which Rosati will present the key findings."
+        }
+      ]
+    },
+    "books/books-toonflow-brainventures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
+          "cap": "Brainventures officially lists webtoon localization plug-in ‘ToonFlow’ on Adobe Exchange"
+        },
+        {
+          "t": "p",
+          "x": "Brainventures (CEO Kim Won-hoe), a company specializing in AI-based webtoon localization, has listed ‘ToonFlow’, a Photoshop plug-in that automates webtoon translation and typesetting, on ‘Adobe Exchange’, Adobe’s official marketplace. With the listing, a Photoshop plug-in that handles the main steps of webtoon localization — from speech-bubble detection to text recognition, translation and typesetting — in a single pipeline is now being distributed in earnest on a global marketplace."
+        },
+        {
+          "t": "p",
+          "x": "ToonFlow is an artificial intelligence (AI) plug-in developed so that webtoon localization workers can carry out translation and typesetting without leaving their existing Adobe Photoshop environment. It provides speech-bubble and text-area detection, optical character recognition (OCR) of source text including vertical writing, context-based machine translation that reflects glossaries, and typesetting with automatic font matching, all in one package. Its ‘Autopilot’ feature runs the multistep process in sequence, handling the entire workflow at once without switching tabs, and it adds a ‘Preset’ feature that saves settings for each title and a ‘source/translation comparison panel’ for checking before-and-after results, making review easier."
+        },
+        {
+          "t": "p",
+          "x": "The plug-in was developed with support from the ‘2026 Goyang-type Private Investment-Linked Tech Startup Support Program (Goyang-type TIPS)’. The company set up a branch office in Goyang in March and, after being selected for Goyang-type TIPS in May, began research and development. It currently supports 3 languages — Korean, Japanese and English — and is distributed through Adobe Exchange and the official ToonFlow website. New account holders get a free trial of 1 episode. The company expects that automating the largely manual typesetting process will sharply cut the time the work takes."
+        },
+        {
+          "t": "p",
+          "x": "“We have brought the webtoon localization technology we have built up into the Photoshop environment that workers know best,” said Kim Won-hoe, CEO of Brainventures. “We will keep advancing the technology to establish ourselves as the core localization solution that global webtoon studios and platform distributors trust in the field.”"
+        },
+        {
+          "t": "p",
+          "x": "Brainventures is a resident company of the ‘Pangyo Startup Zone’, the country’s largest startup support cluster, established in 2017 by the Ministry of SMEs and Startups and jointly operated by the Korea Institute of Startup and Entrepreneurship Development and the Gyeonggi Center for Creative Economy and Innovation."
+        }
+      ]
+    },
+    "books/macmillan-noa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+          "cap": "Photo-illustration: Jacqui VanLiew; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "As staff at the Lower Manhattan headquarters of Macmillan Publishers headed into work one morning in January 2024, they filed past flyers welcoming a new member of the team named “NOA.” The cafeteria was festooned with purple balloons, and a plate full of doughnuts spelled out “NOA IS HERE.” NOA—No Ordinary Assistant—was an AI chatbot developed by the German software company Chaptr, which is “backed” by Holtzbrinck, Macmillan’s parent company."
+        },
+        {
+          "t": "p",
+          "x": "Staffers say they were encouraged to use NOA for composing emails, drafting copy, marketing research and generating ideas, and later to generate their goals for performance reviews. “It was terrible, and no one used it,” one says. In October 2025, staff learned via a company-wide email that Chaptr would be sunsetting NOA; since then, workers say, leadership has been attempting to integrate Google Gemini. Macmillan’s Kelly Collins says “the points shared do not accurately reflect how NOA was rolled out and communicated.”"
+        },
+        {
+          "t": "p",
+          "x": "At Penguin Random House, workers say they’ve been encouraged to use ChatGPT Enterprise even though PRH’s German division is suing OpenAI. Several bestselling Big Five authors say their relationships with publishers have suffered due to AI use. “The bare minimum we're asking for is disclosure,” one author says."
+        }
+      ]
     }
   }
 }

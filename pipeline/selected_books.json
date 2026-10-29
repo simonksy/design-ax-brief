@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "books",
   "items": [
     {
+      "rank": 1,
+      "title": "Publishers urge US court to reject OpenAI's fair use defence in copyright case",
+      "url": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
+      "source": "The Bookseller",
+      "published_iso": "2026-10-29T14:44:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
+      "excerpt": "Four publishing and copyright organisations, including the AAP and IBPA, filed an amicus brief urging a US court to reject OpenAI's fair-use defence, arguing AI training on copyrighted books threatens authors' livelihoods.",
       "tool": "Books",
-      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "source": "WIRED",
-      "published_iso": "2026-10-28T10:15:00Z",
-      "og_image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/191:100/w_1280,c_limit/culture_macmillon_failed_ai_project.jpg",
-      "excerpt": "Workers tell WIRED that Macmillan's internal assistant NOA ('No Ordinary Assistant') was unhelpful before it was shut down. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "rationale": "New concrete event: a Big Five publisher's internal AI assistant (NOA) launched with fanfare and was then shut down — the freshest item, from a whitelisted outlet, and a first look at an AI rollout inside a major house failing."
+      "rationale": "A new court filing: four publishing bodies, including the AAP and IBPA, filed an amicus brief against OpenAI's fair-use defence in the authors' case. It is a concrete step in the central AI-training dispute and is separate from the ROSS ruling published 10-06."
     },
     {
+      "rank": 2,
+      "title": "Rise in number of illustrators losing work to GenAI, survey finds",
+      "url": "https://www.thebookseller.com/news/rise-in-number-of-illustrators-losing-work-to-genai-survey-finds",
+      "source": "The Bookseller",
+      "published_iso": "2026-10-29T16:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+      "excerpt": "An Association of Illustrators survey finds a growing number of illustrators losing work and income to generative AI, with the technology changing how much work they get and how commissions are briefed.",
       "tool": "Books",
-      "category": "books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "title": "Escritor peruano es acusado de presentar obra con 99% de IA a concurso donde ganó un premio de 20.000 euros",
-      "url": "https://caretas.pe/?p=840777",
-      "source": "Caretas",
-      "published_iso": "2026-10-23T23:45:49+00:00",
-      "og_image": "https://caretas.pe/wp-content/uploads/2026/10/image-2026-10-23T184423.050.jpg",
-      "excerpt": "A Pangram scan run by El País attributed 99% of David Silva Rojas's prize-winning novel 'Donde el agua trabaja' to AI. The author denies it, and publisher Almadía has cancelled launch events and opened a review.",
-      "rationale": "New case in the prize-integrity wave: a 20,000-euro award-winning novel flagged as 99% AI, and the publisher has acted (launch events cancelled, review opened). It is a different author and prize from the Caine and Quebec cases already published."
+      "rationale": "New Association of Illustrators survey data on lost commissions and income, which is directly relevant to book illustrators and cover designers. The ERR item from 09-30 was a publisher's opinion, not this data."
     },
     {
+      "rank": 3,
+      "title": "Stanford professors opt out of Anthropic settlement and file their own lawsuit over pirated books used to train Claude",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "source": "The Stanford Daily",
+      "published_iso": "2026-10-27T02:46:17-07:00",
+      "og_image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+      "excerpt": "Stanford professors whose books were pirated to train Claude opted out of the $1.5 billion settlement and filed their own lawsuit against Anthropic.",
       "tool": "Books",
-      "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "title": "Pulitzer Prize-Winner's Newest Work is AI Generated",
-      "url": "https://www.dailycartoonist.com/index.php/2026/10/27/pulitzer-winners-newest-work-is-ai-generated/",
-      "source": "The Daily Cartoonist",
-      "published_iso": "2026-10-27T16:59:38-06:00",
-      "og_image": "https://www.dailycartoonist.com/wp-content/uploads/2026/10/spiegelman-in-the-shadow-of-no-towers-closeup.jpg",
-      "excerpt": "The gold-and-white sticker on the cover of the 25th-anniversary edition of Art Spiegelman's graphic novel In the Shadow of No Towers was AI-generated, as Spiegelman told Publishers Weekly in an interview.",
-      "rationale": "New disclosure: Art Spiegelman confirms AI-generated cover art on his 25th-anniversary graphic novel edition, a high-profile comics and cover-design case. Its history_match (Caine Prize) is a different event."
+      "rationale": "Follow-up on the Anthropic settlement with a new event: authors who opted out have filed their own suit. This shows the opt-out-and-sue route that authors deciding on the $1.5B payout can take."
     },
     {
+      "rank": 4,
+      "title": "IFRRO Releases New Study on AI, Copyright Issues",
+      "url": "https://publishingperspectives.com/2026/10/ifrro-releases-new-study-on-ai-copyright-issues/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-10-29T11:57:18+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png",
+      "excerpt": "IFRRO's new report combines legal and market analysis of AI and copyright with a global survey of nearly 2,000 rightsholders and users.",
       "tool": "Books",
-      "category": "books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "title": "'There is no inevitable dystopia': Jeanette Winterson on AI and the future of humanity",
-      "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
-      "source": "The Guardian",
-      "published_iso": "2026-10-28T10:00:05Z",
-      "og_image": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1",
-      "excerpt": "The novelist argues that humanity is at a turning point as a species and that an AI future is not fated to be dystopian, setting out how writers and readers should approach the technology.",
-      "rationale": "A fresh (10-28) essay by a major novelist that pushes back on the doom framing, from a credible outlet. It adds a counterweight to the run of scandal stories."
+      "rationale": "A newly released global report from the reproduction-rights federation, with a survey of nearly 2,000 rightsholders and users. It is a different document from the Authors Guild guidelines published 10-17."
     },
     {
+      "rank": 5,
+      "title": "Brain Ventures lists webtoon-localization Photoshop plugin ToonFlow on Adobe Exchange",
+      "url": "https://besuccess.com/?p=187516",
+      "source": "beSUCCESS",
+      "published_iso": "2026-10-29T04:08:40+00:00",
+      "og_image": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
+      "excerpt": "AI webtoon-localization firm Brain Ventures listed ToonFlow, a Photoshop plugin that automates speech-bubble detection, OCR, translation and lettering, on Adobe Exchange.",
       "tool": "Books",
-      "category": "books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "title": "Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-10-27T09:30:06+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Listof-Magical-Stones-scaled-e1792867605500.jpg",
-      "excerpt": "As AI agents reach scholarly content through MCP connectors, the piece argues libraries and vendors need to build registries and metadata feeds so those connectors can be found, accessed and used.",
-      "rationale": "A new and practical angle: MCP connector registries and metadata as the next discovery layer for scholarly content. It differs from the published TRACE and agentic-consumption posts and covers the scholarly and library category."
+      "rationale": "The most actionable pick: a released tool, now on Adobe Exchange, that automates bubble detection, OCR, translation and lettering in Photoshop for comics and webtoon localization. No earlier ToonFlow story has run."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/": {
+      "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
         "new_action": ""
       },
-      "https://caretas.pe/?p=840777": {
+      "https://www.thebookseller.com/news/rise-in-number-of-illustrators-losing-work-to-genai-survey-finds": {
         "verdict": "new",
-        "nearest": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+        "nearest": "https://news.err.ee/1610151322/publisher-ai-will-come-for-translators-and-illustrators-first",
         "new_action": ""
       },
-      "https://www.dailycartoonist.com/index.php/2026/10/27/pulitzer-winners-newest-work-is-ai-generated/": {
+      "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
+        "new_action": "Stanford professors opted out of the $1.5B Anthropic settlement and filed their own copyright lawsuit (a new court filing)."
+      },
+      "https://publishingperspectives.com/2026/10/ifrro-releases-new-study-on-ai-copyright-issues/": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
+        "nearest": "http://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101557-authors-guild-issues-ai-guidelines-for-publishers.html",
         "new_action": ""
       },
-      "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity": {
+      "https://besuccess.com/?p=187516": {
         "verdict": "new",
-        "nearest": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/",
-        "new_action": ""
-      },
-      "https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/": {
-        "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Stanford Daily 'Anthropic illegally trained Claude with Stanford professors' books' (local angle on the already-covered $1.5B Anthropic settlement and claims list, extra reporting with no new action; nearest bizhankook 10-27 and PW 10-01; also dropped in the 10-28 run). ALLi 'News Podcast: Audible Lets Listeners Talk to Dracula' (the Audible talk-to-characters feature was published 10-02 via TechCrunch; the Chakrabarty study drop was published 10-24). Passed over on merit, not as duplicates: Newsis 'AI 시대 출판업계… 亞 출판인' (the 2026 Asian Publishers Week, an event already introduced 08-10 via publishingperspectives applications-still-open; this is a program preview, kept as first alternate), Book Riot podcast (commentary on the already-covered publishing-AI exposé and prize case), ALLi marketing Q&A (evergreen how-to), ALLi 'detection wars' (opinion in the running Pangram and detection story, nearest Bookseller 10-08), Lit Hub 'publishers suing and embracing AI' (opinion). 5 distinct outlets, max 1 per outlet. Cross-section check: published_urls.json is too large to read whole in this agent (no grep tool); the books section block was checked line by line, other sections were not. All picks are books-native stories."
+    "note": "Dropped as duplicates or rehash: Bookseller 'Hundreds of authors bring individual claims against Meta' (same story as PW 10-22); ALLi 'Audible Lets Listeners Talk to Dracula' (Audible character-chat feature already published 10-02 via TechCrunch; podcast roundup); ALLi audiobook multi-format/ghostwriting podcast (rehash of the Bookseller ghostwriting story 10-10 and the audiobook coverage); Korea Daily 'AI data companies buying books' (running bulk-buying story: Joongang 10-12 and 10-15, Sedaily 10-20, Nippan 10-14); Media in Canada NielsenIQ AI narration (same 'half open to AI narration' finding as the 10-14 Audible survey). Passed over on score: Renaudot shortlist exclusion (a follow-up to CBC 10-22 Orelien with a real new decision, but the source is a weak Vietnam.vn aggregator); ANN Korea kids AI-webtoon contest; Asian Publishing Week preview; Korean commentary and forum pieces (Ilyo, Nocut x2, ZDNet Korea, Joongang Authors Guild interview); Novelnara (vendor PR); ALLi marketing Q&A (evergreen); Guardian poetry-slam video (no og_image). Cross-section: no pick appears in the politics 30-day history_digest or today's politics pool. The full published_urls.json was not exact-grepped (no shell in this agent), so the orchestrator should grep the 5 URLs plus 'ToonFlow' and 'Stanford' before roll."
   }
 }

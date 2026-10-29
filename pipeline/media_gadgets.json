@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-echo-studio-camera",
+      "id": "rokid-glasses2-microled",
       "type": "image",
-      "src": "pipeline/media/gadgets-echo-studio-camera.png"
+      "src": "pipeline/media/rokid-glasses2-microled.jpg"
     },
     {
-      "id": "gadgets-xreal-aura-launch",
+      "id": "raycast-ios-keyboard",
       "type": "image",
-      "src": "pipeline/media/gadgets-xreal-aura-launch.jpg"
+      "src": "pipeline/media/raycast-ios-keyboard.jpg"
     },
     {
-      "id": "gadgets-copilot-tv-exit",
+      "id": "android-xr-cli-devtools",
       "type": "image",
-      "src": "pipeline/media/gadgets-copilot-tv-exit.jpg"
+      "src": "pipeline/media/android-xr-cli-devtools.jpg"
     },
     {
-      "id": "gadgets-openai-dot-text",
+      "id": "strava-gemini-insights",
       "type": "image",
-      "src": "pipeline/media/gadgets-openai-dot-text.jpg"
+      "src": "pipeline/media/strava-gemini-insights.jpg"
     },
     {
-      "id": "gadgets-ios-synthid",
+      "id": "google-home-gemini-fix-oct",
       "type": "image",
-      "src": "pipeline/media/gadgets-ios-synthid.jpg"
+      "src": "pipeline/media/google-home-gemini-fix-oct.jpg"
     }
   ]
 }

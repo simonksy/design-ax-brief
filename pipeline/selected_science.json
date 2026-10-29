@@ -1,96 +1,101 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "science",
   "items": [
     {
-      "title": "When simulations fall short, this spectrometer learns for itself",
-      "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-28T12:40:08-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
-      "excerpt": "Aarhus University researchers used AI to let an NMR spectrometer learn the best pulse sequence directly from the sample, instead of relying on simulations, to boost weak signals that limit what the instrument can see.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Fresh (10-28) method result in which AI tunes a lab instrument in place, on the sample itself. It moves 'AI for science' from analysing data to running the experiment."
+      "title": "Hidden and forgotten 2D materials are discovered with AI",
+      "url": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
+      "source": "Phys.org",
+      "subgroup": "materials",
+      "published_iso": "2026-10-29T12:00:00-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+      "excerpt": "Linköping University researchers used AI to mine materials databases, finding 33 overlooked MXenes and making 11 new ones, plus a seconds-fast synthesis route without external heating (Science).",
+      "rationale": "Peer-reviewed (Science) result where AI mining leads to 11 newly synthesized MXenes; concrete, fresh, materials subgroup."
     },
     {
-      "title": "Pasqal Launches AI Workflow for Cloud Quantum Experiments",
-      "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-10-28T12:07:54+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png",
-      "excerpt": "Pasqal's new AI-driven cloud workflow prepares quantum jobs, validates them in emulation, and processes the results into scientific observables.",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New product release (10-28): an end-to-end AI workflow that takes cloud quantum experiments from job prep through emulation to observables. It is a different event from the Google competition published 10-24."
+      "title": "A new physics-informed AI tool aims to predict wildfire spread in real time and assist wildfire response",
+      "url": "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html",
+      "source": "Phys.org",
+      "subgroup": "physics",
+      "published_iso": "2026-10-28T16:00:10-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+      "excerpt": "NYU Tandon built a wildfire digital twin pairing a physics fire-spread model with an AI solver fed by live satellite, weather and sensor data; forecasts matched observed burn areas with up to 94.6% overlap on three past fires.",
+      "rationale": "Physics-informed AI digital twin with a measurable validation (94.6% burn-area overlap); applied earth-science, no wildfire story in history."
     },
     {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://allenai.org/blog/novelty-bench",
-      "source": "Ai2",
-      "published_iso": "2026-10-27T00:00:00-08:00",
-      "og_image": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png",
-      "excerpt": "Ai2's Old Ideas, Novel Problems benchmark tests how reliably LLMs judge the novelty of research ideas and finds small changes to the evaluation setup can flip their verdicts.",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Primary-source benchmark release from Ai2 showing that LLM novelty verdicts flip under small setup changes. This matters directly to anyone using LLMs for research triage or review."
+      "title": "Fluent language makes a hallucinatory chatbot just as credible as a curt, flawless one",
+      "url": "https://techxplore.com/news/2026-10-fluent-language-hallucinatory-chatbot-credible.html",
+      "source": "Tech Xplore",
+      "subgroup": "psychology",
+      "published_iso": "2026-10-29T09:00:14-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+      "excerpt": "Radboud University found a fluent chatbot giving false facts was rated as intelligent and pleasant as a terse accurate one, and about 80% of participants missed the errors (Computers in Human Behavior: Artificial Humans).",
+      "rationale": "Psychology study with a sharp, usable finding (80% miss fluent hallucinations); distinct from published chatbot-perception items."
     },
     {
-      "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
-      "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-27T16:20:15-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
-      "excerpt": "University of Missouri researchers used an AI-designed genome-editing tool to create rice plants that resist bacterial blight, a disease that can destroy harvests across Asia and Africa.",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Applied plant-science result: an AI-designed editor gives crops resistance to bacterial blight. It is host-side defence with no pathogen engineering, and it is not clinical, so it belongs in science."
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "source": "Google Research",
+      "subgroup": "cognition",
+      "published_iso": "2026-10-27T17:35:00+00:00",
+      "og_image": null,
+      "excerpt": "Google Research adds a 'sleep' phase to continual learning so LLMs can integrate new facts and improve reasoning while mitigating catastrophic forgetting and fixed knowledge cutoffs.",
+      "rationale": "Primary-source research release on brain-inspired continual learning; new method, cognition subgroup, different outlet."
     },
     {
-      "title": "AI may quickly generate ideas, but working with people leads to more creative ones",
-      "url": "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-10-28T11:20:17-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
-      "excerpt": "A study comparing idea generation with generative AI versus human collaboration finds AI is faster but people working together produce more creative ideas.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "New cognitive-science study (10-28) on AI versus human collaboration in ideation. It covers the psychology axis of the section and gives a practical takeaway for creative teams."
+      "title": "Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction",
+      "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
+      "source": "Quantum Computing Report",
+      "subgroup": "quantum",
+      "published_iso": "2026-10-29T02:04:03+00:00",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png",
+      "excerpt": "A Mamba-based QEC decoder matches Transformer decoders like AlphaQubit in accuracy while cutting complexity from O(d^4) to O(d^2), aiming at real-time decoding.",
+      "rationale": "New academic decoder result (O(d^4) to O(d^2)) for quantum error correction; distinct work from the SEEQC/Riverlane industry items; fills the quantum slot."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html": {
+      "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html",
+        "nearest": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
         "new_action": ""
       },
-      "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/": {
+      "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html": {
         "verdict": "new",
-        "nearest": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+        "nearest": "https://techxplore.com/news/2026-10-ai-method-knowledge-disaster-incomplete.html",
         "new_action": ""
       },
-      "https://allenai.org/blog/novelty-bench": {
+      "https://techxplore.com/news/2026-10-fluent-language-hallucinatory-chatbot-credible.html": {
         "verdict": "new",
-        "nearest": "https://allenai.org/blog/litpivot",
+        "nearest": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html": {
+      "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
+        "nearest": "",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-ai-quickly-generate-ideas-people.html": {
+      "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+        "nearest": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
         "new_action": ""
       }
     },
-    "note": "Dropped as already-published stories: phys.org tipping-points (same PNAS neural-operator study as eurekalert 1147991, 10-16); Live Science '10 minutes erodes motivation' (same study as eurekalert 1147258, 10-10); Live Science 'Is AI making you lazier?' (reader poll on that same study, no new event); Physics World optical deepfake detection (same 97.8% optical detector as ScienceDaily 10-02); MIT TR Astrolab FLIP LLMs on the moon (same FLIP rover onboard-compute story as space.com 10-21); Quanta quasi-Riemann AI proof (analysis of the AI proof wave already covered by SciAm 'Dueling proofs' 10-28 and the 10-02 Live Science Riemann piece; no new release). Excluded for safety/scope: DeepMind antimicrobial-peptide search (pathogen-adjacent per run brief; also 10-15, stale). Passed over on score: Ai2 olmOCR 2 archives (Ai2 already used once; adoption write-up, not a release), PsyPost algorithm revenge, MIT News Q&A and Smaragdis profile (profiles/history), arXiv AMARO v2.0 (generic arXiv logo image), MIT TR interspecies feature and Cammarata interview (features/interviews). Outlets in the final 5: Phys.org x2, The Quantum Insider, Ai2, Tech Xplore. Cross-section check: published_urls.json is too large (3.7k lines) to scan in full without grep. None of the picks' URLs appear in this section's 30-day history, and none is a clinical, marketing or politics topic, but the orchestrator should exact-grep the 5 URLs across all sections before roll."
+    "note": "Dropped as duplicates: Live Science '10 minutes of AI erodes motivation' (same study as EurekAlert 1147258, 10-10); Scientific American 'OpenAI scooped mathematicians' (running QCD-proof story, published 10-23 and 10-28, no new release); Physics World optical deepfake detection (same 97.8% optical study as ScienceDaily 10-02). Within-pool: Chalmers GNN decoder dropped in favour of Yonsei (same outlet, same topic). Skipped on scoring/diversity: surfaceome (Phys.org cap of 2; bioRxiv preprint), NTU 'AI passes for human' and reverse-Turing (Tech Xplore cap; running Turing-test theme from 10-21), Google TB screening and maternal ultrasound and ScienceDaily retatrutide (clinical, belong closer to medicine), MIT Q&A (evergreen interview), Quantum Insider threat analysis (commentary). Cross-section: medicine block of published_urls.json checked for the picked URLs, none found."
   }
 }

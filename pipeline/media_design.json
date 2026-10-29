@@ -1,7 +1,32 @@
-{"date":"2026-10-29","section":"design","media":[
-{"id":"replica","type":"video","src":"pipeline/media/replica.mp4","poster":"pipeline/media/replica.jpg"},
-{"id":"clate","type":"image","src":"pipeline/media/clate.jpg"},
-{"id":"nuke18","type":"video","src":"pipeline/media/nuke18.mp4","poster":"pipeline/media/nuke18.jpg"},
-{"id":"vectorworks-nano","type":"image","src":"pipeline/media/vectorworks-nano.jpg"},
-{"id":"ai-time-savings","type":"image","src":"pipeline/media/ai-time-savings.jpg"}
-]}
+{
+ "date": "2026-10-30",
+ "section": "design",
+ "media": [
+  {
+   "id": "figma-fluent-edit-model",
+   "type": "image",
+   "src": "pipeline/media/figma-fluent-edit-model.jpg"
+  },
+  {
+   "id": "canva-brush-vlm",
+   "type": "image",
+   "src": "pipeline/media/canva-brush-vlm.png"
+  },
+  {
+   "id": "snaptrude-bim-agent",
+   "type": "image",
+   "src": "pipeline/media/snaptrude-bim-agent.jpg"
+  },
+  {
+   "id": "fusion-oct26-auto-timeline",
+   "type": "video",
+   "src": "pipeline/media/fusion-oct26-auto-timeline.mp4",
+   "poster": "pipeline/media/fusion-oct26-auto-timeline.jpg"
+  },
+  {
+   "id": "uxc-deep-research-ux",
+   "type": "image",
+   "src": "pipeline/media/uxc-deep-research-ux.png"
+  }
+ ]
+}

@@ -8518,6 +8518,132 @@
           "x": "时间线剪辑也有所改进，Resolve增加了Linux图形支持，并扩展了用于自动化照片与剪辑任务的脚本APIs。亮点包括：套索选中的剪辑点可自动进入动态修剪、可在剪辑调音台中显示响度表的选项、能适应时间线画面比例的OGraf响应式模板、在Linux上支持OGraf和Lottie图形，以及整体性能和稳定性的提升。"
         }
       ]
+    },
+    "movies/apple-creator-studio-motionvfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple Creator Studio的November更新对现有订阅用户免费,将MotionVFX整合进Final Cut Pro。Logic Pro、Keynote、Pages和Numbers则新增测试版AI助手。"
+        },
+        {
+          "t": "p",
+          "x": "继Apple于March收购MotionVFX之后,Mac版Final Cut Pro现已内置MotionVFX,新增数千种特效、插件(plug-ins)、转场、模板、标题、图形,以及用于转描、跟踪和调色的工具。Final Cut Pro还新增根据文字描述生成AI图像的功能,时间线上的任何图像都可以在Pixelmator Pro中打开并自动存回。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pixelmator Pro新增Generate Fill,可根据文字描述编辑用户选定的区域,并匹配光线、透视和纹理。Mac版Logic Pro新增测试版助手,由Apple-built模型和OpenAI驱动,帮助用户在制作流程中导航。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Keynote、Pages和Numbers将获得基于Apple模型和OpenAI的测试版助手,并支持Model Context Protocol(MCP),让外部AI智能体能够读取内容、执行编辑并运行自动化操作。此次更新将于November登陆App Store;新US订阅用户的价格为每月$12.99或每年$129。"
+        }
+      ]
+    },
+    "movies/agbo-tiffcom-shakespeare": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "AGBO高管Chris Brearton和Dominic Hughes在东京国际电影节(Tokyo International Film Festival)的内容市场TIFFCOM发表主题演讲,谈到AI如何用来辅助而非取代人类创作者。“人类在讲故事方面具有独特的优势,”Brearton说。“我们拥抱技术的方式,完全围绕艺术家,把艺术家放在首位。”"
+        },
+        {
+          "t": "p",
+          "x": "Brearton说,让心仪的表演变得特别的,是AI无法企及的“人的因素”。“AI真正会产生更大影响的地方,特别是在中期,是流程效率。”"
+        },
+        {
+          "t": "p",
+          "x": "Hughes指出,AI擅长“重复过去已经做过的东西”,却不擅长凭空创造。它“擅长评判”:可以告诉你在阁楼里发现的剧本是否可能出自Shakespeare之手,但如果让它自己写,“你会觉得那是12岁(12-year-old)孩子写的。”"
+        },
+        {
+          "t": "p",
+          "x": "谈到版权,Brearton说:“我们追踪每个工具,以及每个工具的每次使用。”主题演讲由Variety亚洲编辑(Asia Editor)Naman Ramachandran主持。"
+        }
+      ]
+    },
+    "movies/curious-refuge-horror-2026": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Q6xJOpTylco"
+        },
+        {
+          "t": "p",
+          "x": "我们刚刚办完第4届年度AI Horror Film competition，整个人都SHOOK了。"
+        },
+        {
+          "t": "p",
+          "x": "我们不仅被这些故事吓坏了（所有评委现在都开着灯睡觉），这些影片的质量更是令人惊叹。"
+        },
+        {
+          "t": "p",
+          "x": "首映结束后，请在此查看获奖作品：https://curiousrefuge.com/2026-ai-horror-film-competition"
+        }
+      ]
+    },
+    "movies/karts-neverland-ai-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
+          "cap": "韩国艺术综合学校AT实验室制作的动画《Ticket to Neverland》剧照(韩国艺术综合学校提供)"
+        },
+        {
+          "t": "p",
+          "x": "由韩国艺术综合学校融合艺术中心艺术与技术实验室(AT实验室)制作的3D动画《Ticket to Neverland》入围日本国际AI电影节竞赛单元最终候选。该片以生成式人工智能(AI)作为创作工具。"
+        },
+        {
+          "t": "p",
+          "x": "第2届“AI电影节日本2026”将于10月31日至11月2日在日本东京举行。来自全球60多个国家的730余部作品参赛,其中68部入选官方作品,21部入围竞赛决赛。《Ticket to Neverland》入选AI动画单元决赛名单。最终获奖作品将在11月1日的颁奖典礼上公布。"
+        },
+        {
+          "t": "p",
+          "x": "该片为黑色喜剧,描绘了这样的真人秀:谁讲出最悲惨的故事,谁就能获得前往永恒安息之地“梦幻岛”的车票。童话人物们各自讲述自己的悲剧,彼此竞争。"
+        },
+        {
+          "t": "p",
+          "x": "该片由韩国艺术综合学校影像院电影系学生Heo Min、Son Min-ho与戏剧院剧作系学生Kim Han-in共同制作。三人在产学合作项目课程“AI电影/动画制作”中完成了这部作品。该片于3月在“WAIFF Seoul 2026”上获得AI剧本奖,7月获邀参加第30届富川国际奇幻电影节。"
+        },
+        {
+          "t": "p",
+          "x": "AT实验室负责人Lee Seung-mu表示,这是从策划阶段就运用生成式AI的“100% AI原生作品”,并称能在AI电影专业国际舞台上展示作品意义重大。"
+        },
+        {
+          "t": "p",
+          "x": "AT实验室致力于研究结合虚拟现实与虚拟制作等技术的融合艺术创作,还参与了由文化体育观光部和韩国文化产业振兴院支持的全球文化技术专业人才培养项目。"
+        }
+      ]
+    },
+    "movies/seedance25-4k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+          "cap": "ByteDance 推出面向电影制作的 Seedance 2.5 4K 视频模型"
+        },
+        {
+          "t": "p",
+          "x": "ByteDance 旗下云平台 Volcano Engine 于10月23日发布 Seedance 2.5 4K，面向电影和电视制作，提供更高分辨率的视频生成。公司表示，额外训练提升了面部表情、细微动作和视觉细节的呈现效果。该模型目前仅向部分选定的企业客户开放试用。"
+        },
+        {
+          "t": "p",
+          "x": "借助 Draft 模式，用户可在生成最终4K 版本前，先用成本更低的480p 预览测试镜头、完善分镜。该模型还支持10-bit 色彩，在使用参考素材或编辑现有素材时，可保留画质、色彩和精细细节。中国及海外的部分电影制作和后期制作公司已开始测试。[IT Home, in Chinese]"
+        }
+      ]
     }
   }
 }

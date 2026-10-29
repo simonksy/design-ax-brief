@@ -8457,6 +8457,118 @@
           "x": "記事全文はJane Friedmanのニュースレター有料購読者向けに公開されている。"
         }
       ]
+    },
+    "books/books-aoi-illustrator-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+          "cap": "イラストレーター(Illustrator) © Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "イラストレーター協会(Association of Illustrators、AOI)の新たな調査によると、生成AI(GenAI)によって仕事と収入を失うイラストレーターが増えている。この技術は「イラストレーターが受ける仕事の量だけでなく、依頼の組み立て方、評価のされ方、遂行のされ方まで変えつつある」という。"
+        }
+      ]
+    },
+    "books/books-stanford-anthropic-optout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+          "cap": "図書館の棚に積まれた本。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicは以前、Stanfordの教授であるTobias Wolff、Abraham Verghese、Chang-Rae Lee、Daniel Mason、Hayagreeva Rao、Myra Stroberの著作を違法に入手し、Claudeの学習に用いていた。Bartz v. Anthropic訴訟でWilliam Alsup判事は、Anthropicが書籍を海賊版で入手して恒久的な中央ライブラリーを作ることはもはや認められないと判断する一方、Claudeの学習のために書籍を合法的に取得することはフェアユース(fair use)だとした。"
+        },
+        {
+          "t": "p",
+          "x": "$1.5B の和解金は、登録作品約500,000件の著者と出版社に支払われた。Wolffとほか27人の著者は、この和解では不十分だと訴える。英文学の名誉教授であるWolffは「彼らは代価を払わずに私の作品を使っている」と語った。彼の出版物のうち10点が許可なくAIの学習に使われていた。"
+        },
+        {
+          "t": "p",
+          "x": "Wolffは英文学教授のChang-rae LeeとともにBartz和解から離脱した。両氏は2026年5月、集団訴訟ではない別の訴訟Cruz v. Anthropicを起こし、侵害作品ごとに最大$150,000の法定損害賠償全額を求めて陪審裁判を請求した。これはBartz和解で提示された作品あたり約$3,000を上回る。両氏はAnthropicがLibGenやPiLiMiといった「シャドーライブラリー」から自分たちの本をダウンロードしたと主張しており、勝訴すれば、自らの作品を使ったClaudeモデルの学習を恒久的に差し止める命令を得ることになる。"
+        },
+        {
+          "t": "p",
+          "x": "集団訴訟の原告であるStanford Lawの研究者Paul Goldsteinは「取引コスト」を指摘し、「プラットフォームがあらゆる — いや、実のところどの — 作品についても、その著作権者からライセンスを得るのはまったく現実的ではない」と述べた。BartzとCruz以外にも、著者、ビジュアルアーティスト、報道機関がAI企業を相手取り70件を超える侵害訴訟を起こしている。"
+        }
+      ]
+    },
+    "books/books-ifrro-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "知的財産法の教授Eleonora Rosatiと共同で作成された報告書『The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works』は、法と政策の状況を概観するとともに、約2,000人の回答者を対象としたIFRROの2026年グローバル調査の結果を示している。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "調査では、90%超が「生成AIが直接的かつ否定的な影響を与えた」と権利者の収入について回答し、75%超がAIは「創作者を置き換える」と考え、96%が現行の著作権制度は自分たちを十分に守っていないとし、50%超が「AI専用ライセンス(AI-specific licenses)」は「経済状況を大きく改善する」と考えている。"
+        },
+        {
+          "t": "p",
+          "x": "報告書は「同意、透明性、対価のないまま保護コンテンツを大規模(large-scale)に無断利用すること」は「法的にも経済的にも持続可能ではない」と結論づけ、三つの「根本的な」条件として、著者と権利者による同意と管理、実効性のある著作権原則、学習から出力生成までの強固な透明性を挙げた。IFRROは11月23日にウェビナーを開き、Rosatiが主な調査結果を発表する。"
+        }
+      ]
+    },
+    "books/books-toonflow-brainventures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
+          "cap": "ブレインベンチャーズ、アドビ・エクスチェンジにウェブトゥーン現地化プラグイン「ToonFlow」を正式登録"
+        },
+        {
+          "t": "p",
+          "x": "AIを活用したウェブトゥーン現地化の専門企業ブレインベンチャーズ(代表キム・ウォンフェ)が、ウェブトゥーンの翻訳と写植作業を自動化するPhotoshopプラグイン「ToonFlow(トゥーンフロー)」を、アドビの公式マーケットプレイス「Adobe Exchange」に登録した。今回の登録により、吹き出し検出からテキスト認識、翻訳、写植まで、ウェブトゥーン現地化の主要工程を単一のパイプラインで処理するPhotoshopプラグインが、グローバルマーケットプレイスで本格的に流通する。"
+        },
+        {
+          "t": "p",
+          "x": "ToonFlowは、ウェブトゥーン現地化の作業者が既存のAdobe Photoshopの作業環境を離れずに翻訳や写植の業務を行えるよう開発された人工知能(AI)プラグインだ。吹き出しとテキスト領域の検出、縦書きを含む原文テキストの光学文字認識(OCR)、用語集を反映した文脈ベースの機械翻訳、フォント自動マッチングによる写植機能を一括で提供する。特に、多段階の工程を順に実行する「オートパイロット(Autopilot)」機能により、タブを移動せずに全工程を一度に処理でき、作品ごとの設定を保存する「プリセット」機能と、前後の結果を照合できる「原文/翻訳比較パネル」を搭載して検収の利便性を高めた。"
+        },
+        {
+          "t": "p",
+          "x": "このプラグインは「2026年高陽型民間投資連携技術創業支援事業(高陽型TIPS)」の支援を受けて開発された。同社は3月に高陽市に支社を設立し、5月に高陽型TIPSに選ばれて研究開発に着手した。現在、韓国語・日本語・英語の3言語に対応し、Adobe ExchangeとToonFlowの公式ウェブサイトを通じて配布される。新規アカウント登録者には1話分の無料体験が提供される。同社は、従来の手作業中心の写植プロセスが自動化されることで、作業時間を大幅に短縮できると見込んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "ブレインベンチャーズのキム・ウォンフェ代表は「これまで蓄積してきたウェブトゥーン現地化技術を、作業者にとって最もなじみのあるPhotoshop環境に実装した」とし、「技術の高度化を続け、グローバルなウェブトゥーン制作会社やプラットフォーム流通事業者が現場で信頼する中核的な現地化ソリューションとしての地位を確立したい」と説明した。"
+        },
+        {
+          "t": "p",
+          "x": "なお、ブレインベンチャーズは、中小ベンチャー企業部が2017年に設立し、創業振興院と京畿創造経済革新センターが共同運営する国内最大の創業支援クラスター「板橋創業ゾーン」の入居企業である。"
+        }
+      ]
+    },
+    "books/macmillan-noa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+          "cap": "写真イラスト：Jacqui VanLiew; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "2024年1月のある朝、Lower ManhattanにあるMacmillan Publishers本社に出勤した社員たちは、「NOA」という新しいチームメンバーを歓迎するチラシの前を通り過ぎた。社員食堂は紫の風船で飾られ、ドーナツを並べた皿は「NOA IS HERE」という文字を描いていた。NOA（No Ordinary Assistant）は、Macmillanの親会社Holtzbrinckが「支援する」ドイツのソフトウェア企業Chaptrが開発したAIチャットボットだった。"
+        },
+        {
+          "t": "p",
+          "x": "社員によると、NOAはメール作成、コピーの下書き、マーケティング調査、アイデア出しに使うよう勧められ、のちには人事評価の目標づくりにも使うよう求められた。ある社員は「ひどいもので、誰も使っていなかった」と語る。2025年10月、社員は全社メールでChaptrがNOAを終了すると知らされた。社員によれば、それ以来、経営陣はGoogle Geminiの導入を進めている。MacmillanのKelly Collinsは「示された点は、NOAの導入と周知のされ方を正確に反映していない」と述べる。"
+        },
+        {
+          "t": "p",
+          "x": "Penguin Random Houseでも、PRHのドイツ部門がOpenAIを提訴しているにもかかわらず、ChatGPT Enterpriseの利用を勧められていると社員は言う。Big Fiveのベストセラー作家数人は、AIの利用によって出版社との関係が損なわれたと語る。ある作家は「私たちが求める最低限は開示だ」と言う。"
+        }
+      ]
     }
   }
 }

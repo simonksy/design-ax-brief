@@ -4200,6 +4200,130 @@
           "x": "三读是议员“整理”法案并作出修改的最后机会，定于11月2日星期一进行。"
         }
       ]
+    },
+    "politics/wired-accenture-agent-pentagon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+          "cap": "一只机器人手探向五角大楼，二进制代码从中泄出。"
+        },
+        {
+          "t": "p",
+          "x": "WIRED消息人士称，今年早些时候，一名受雇于Accenture的承包商人员将一套被多个情报机构使用、包含受控非密信息(CUI)的安全集中式系统，连接到其Anthropic旗下AI编程代理Claude Code的个人账户，在国防部(Department of Defense)引发安全事件。该代理随后似乎将包括登录凭证和NIPRNet地图在内的系统信息发送到了一个高风险第三方网站。"
+        },
+        {
+          "t": "p",
+          "x": "该代理在DOD网络上运行了两个月才被发现，漏洞随后得以修补。消息人士指出，尽管事件须在72小时内上报，Accenture起初并未向政府报告此次泄露。目前DOD工作人员被禁止使用Claude。"
+        },
+        {
+          "t": "p",
+          "x": "DOD发言人表示：“国防部不对其网络或系统的状况发表评论。”Accenture发言人称，相关指控“经过了彻底和独立的调查，被认定毫无根据”。安全专家告诉WIRED，泄露的凭证可能让攻击者在日后部署到机密网络的工具中植入恶意代码；目前没有迹象表明黑客进入了机密系统。"
+        }
+      ]
+    },
+    "politics/austria-un-ai-centre-vienna": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+          "cap": "Alexander Spatari via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "奥地利周三在一场AI安全国际会议上提议在维也纳设立一个联合国(United Nations)AI中心。这次视频会议由挪威和芬兰联合主办，此前一系列备受关注的网络安全事件发生后，国际社会要求加强管控领先AI模型的呼声日益高涨。"
+        },
+        {
+          "t": "p",
+          "x": "奥地利数字事务国务秘书亚历山大·普勒尔(Alexander Pröll)表示，UN中心可在构建可信AI框架方面发挥“核心作用”，并称维也纳已设有包括国际原子能机构(International Atomic Energy Agency)在内的其他UN机构。"
+        },
+        {
+          "t": "p",
+          "x": "挪威和芬兰表示，共有三十一个国家参加，据报道包括土耳其和摩尔多瓦，但美国(US)和中国似乎没有参加。一个“专家级进程”将继续“探索改善AI安全与安保的方案”。据媒体报道，新加坡总理黄循财(Lawrence Wong)建议借鉴国际航空经验开展“事件报告试点”。"
+        },
+        {
+          "t": "p",
+          "x": "欧洲各国政府首脑将于11月13日在都柏林举行的欧洲理事会(European Council)非正式会议上再次讨论AI，EU电信部长们将于12月1日会面。"
+        }
+      ]
+    },
+    "politics/canada-security-strategy-frontier-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+          "cap": "总理马克·卡尼(Mark Carney)。"
+        },
+        {
+          "t": "p",
+          "x": "OTTAWA——联邦官员表示，前沿AI模型是加拿大人当前面临的最大威胁之一。与此同时，政府发布了一份旨在让国家抵御日益增长的风险乃至战争的国家安全战略。"
+        },
+        {
+          "t": "p",
+          "x": "总理马克·卡尼(Mark Carney)领导的政府周四发布了二十多年来的首份国家安全战略。这份题为《打造更强大加拿大计划》(The Plan for a Stronger Canada)的战略从宏观层面阐述了渥太华(Ottawa)打算如何保护国家免受战争、人工智能、黑客、间谍活动、破坏活动和外国干预等威胁，并在八个关键领域增强自主性。"
+        },
+        {
+          "t": "p",
+          "x": "一名高级官员表示：“加拿大和加拿大人面临的威胁已变得如此复杂且相互交织，从气候变化到恐怖主义、犯罪、阿片类药物和大流行病，从网络攻击到前沿AI，再到日益增加的大规模战争可能性。”"
+        },
+        {
+          "t": "p",
+          "x": "该战略承诺加强情报、反情报和网络防御能力，在未来一年内出台新的国家安全立法，并在未来几个月推出另外五项具体战略。官员们在下周联邦预算公布前拒绝透露具体成本。"
+        }
+      ]
+    },
+    "politics/google-ai-2020-election-answers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "当被问及“谁赢得了2020年总统大选？”时，Google的AI Mode向Ars Technica给出了间接回答，让用户查阅联邦选举委员会(Federal Election Commission，FEC)编制的官方报告。对2024年的问题也给出了类似回答，而对于追溯至2000年的其他大多数总统大选，AI Mode都给出了详细且正确的答案。结果因用户而异。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+        },
+        {
+          "t": "p",
+          "x": "Google的Gemini模型、ChatGPT、Claude以及America.gov上的政府运营模型都直接作答。通过VPN从台湾、俄罗斯、法国和加拿大进行抽查，得到的也是准确、直接的答案。被问及原因时，AI Mode称这是“针对近期高度敏感选举话题的安全过滤机制”，不过事实证明，AI模型在报告自身内部流程方面并不可靠。"
+        },
+        {
+          "t": "p",
+          "x": "Google发言人表示，公司正在“修复AI Mode中有关2020年大选查询的问题”，并补充说：“2020年存在技术漏洞——2022年参议院(Senate)选举也是如此，我们正在同一次更新中修复。”"
+        }
+      ]
+    },
+    "politics/hochul-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+          "cap": "霍楚尔(Hochul)州长在讲台上发言。"
+        },
+        {
+          "t": "p",
+          "x": "州长凯西·霍楚尔(Kathy Hochul)签署了两项关于AI聊天机器人和联网婴儿监视器的法案。S.9051B/A.10379C禁止使用AI聊天机器人功能的公司向未成年人提供不安全的功能，包括假装是人类、培养情感依赖、鼓励自残或进行露骨性对话的聊天机器人。"
+        },
+        {
+          "t": "p",
+          "x": "公司不得向18岁以下用户提供以下功能，也不得向任何未经事先确认并非未成年人的用户提供：假装是真人、有生命或拥有人类情感；声称与儿童存在个人、恋爱、职业或权威人物关系；宣扬自杀、自残、饮食失调或吸毒酗酒；以及任何露骨的色情内容。"
+        },
+        {
+          "t": "p",
+          "x": "公司必须采用不止一种方法进行年龄验证，其中至少一种不能仅依赖政府签发的ID，并须在使用后删除年龄信息。总检察长可对每次违规寻求最高$25,000的民事罚款。"
+        },
+        {
+          "t": "video",
+          "yt": "3Kza_uwnviw"
+        },
+        {
+          "t": "p",
+          "x": "霍楚尔表示：“任何公司都不应向孩子兜售鼓励自残或假装是他们朋友乃至更亲密关系的聊天机器人。”法案提案人之一、州众议员亚历克斯·博雷斯(Alex Bores)表示，该州“顶着业界的强烈反对”通过了这项法律。第二项法案S.9508/A.5175A要求联网婴儿监视器配备安全功能和警告标签。"
+        }
+      ]
     }
   }
 }

@@ -13772,6 +13772,128 @@
           "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘으로 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 맡았다. OpenAI 발표 몇 시간 뒤 Anthropic도 내부 Anthropic 모델의 작업을 토대로 ETH를 반증하는 독자 결과를 올렸다."
         }
       ]
+    },
+    "science/nyu-wildfire-digital-twin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-physics-informed.jpg",
+          "cap": "NYU의 Digital Fire Twin 시제품 예측. Oregon의 Grasshopper Fire 화선이 관측되기 약 세 시간 전에 만들었다. 파란색은 예측 화선, 빨간색은 실제 화선이다. Credit: NYU Tandon School of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "NYU Tandon의 연구자 Prabodh Panindre, Anandu Nair, Sunil Kumar가 진행 중인 산불의 디지털 트윈 시제품을 만들었다. 위성, 기상 정보, 지형·연료 지도, 드론, 센서, 현장 대원에게서 새 데이터가 들어올 때마다 확산 예측이 갱신된다. 사용자가 산불 위치와 예측 범위, 예측 기간(최대 12시간)을 고르면 AI 인터페이스가 대피, 방화선, 풍향 변화 같은 질문에 쉬운 말로 답한다."
+        },
+        {
+          "t": "p",
+          "x": "과거 데이터에 주로 기대는 방식이 아니라, 물리 기반 산불 확산 모델 위에 AI 층을 얹었다. Kumar는 \"우리 시스템은 학습 데이터로 만든 것이 아니다. 물리학에 근거한다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Oregon의 Grasshopper Fire, Utah의 Widemouth 2 Fire, New Mexico의 Sacaton Fire 등 진행 중인 산불 세 건에서 시험했다. 관측 화선과의 공간 중첩률은 Grasshopper Fire 시험 한 번에서 94.6%까지 올라갔고, 위성 관측 간격이 길었던 다른 시험에서는 72.4%에 그쳤다. 모델은 실제 화선의 들쭉날쭉한 가장자리까지 재현했다."
+        },
+        {
+          "t": "p",
+          "x": "아직 연구용 시제품이라 실제 산불 현장에 투입된 적은 없다. 연구팀은 소방서·연방 기관과 시험을 더 늘리고 싶어 하며, U.S. 임시 특허도 출원했다."
+        }
+      ]
+    },
+    "science/radboud-fluent-hallucination": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Radboud University 연구자 Marianna de Sá Siqueira, Barbara Müller, Tibor Bosse는 참가자들에게 The Lord of the Rings를 두고 나눈 챗봇 대화를 보여 줬다. 유창하게 틀린 답을 내놓는 챗봇도 간결하게 정답을 말하는 챗봇만큼 지적이고 호감 간다는 평가를 받았다."
+        },
+        {
+          "t": "p",
+          "x": "참가자들은 이 책의 기본 지식을 갖췄는지 보고 뽑았는데도 약 80%가 오류를 알아채지 못했다. Müller는 \"글이 우아하고 자연스럽게 들리면 사람들은 자동으로 거기에 지능이 있다고 여긴다\"고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 언어가 유창하면 사람들이 AI 출력을 너무 쉽게 믿는다며, 대화 첫머리에 면책 문구를 띄우는 것만으로는 부족하다고 본다. 챗봇이 불확실성을 스스로 드러내게 하거나, 기업이 불확실성을 표시하도록 의무화하자고 제안한다. 연구는 Computers in Human Behavior: Artificial Humans (2026)에 실렸다."
+        }
+      ]
+    },
+    "science/google-sleep-continual-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+          "cap": "빛나는 파란색 기하학 도형이 줄지어 흘러가 밝게 연결된 신경망 구체로 모인다."
+        },
+        {
+          "t": "p",
+          "x": "Google Research의 Ali Behrouz와 Vahab Mirrokni가 지속 학습에 수면 단계를 넣었다. 대규모 언어 모델은 파국적 망각이나 지식 기준 시점이 고정되는 문제를 덜 겪으면서 새 사실을 계속 받아들이고 추론 능력도 키운다. 능동적 상호작용과 오프라인 기억 통합을 번갈아 하는 동안 LLMs는 새 사실을 익히고, 최대 10M 토큰의 장문 맥락 지식을 유지하며, 복잡한 추론 실력을 끌어올린다."
+        },
+        {
+          "t": "p",
+          "x": "활동(각성) 단계에서 모델은 임시 정보를 빠른 단기 기억에 담는다. 수면 단계에 들어가면 새 입력이 멈춘다. 기억 통합 과정에서는 미리 할당해 둔 Mixture-of-Experts 기억 블록을 열고 단기 기억을 그 안에 증류한 다음 임시 매개변수를 초기화한다. 꿈꾸기 과정은 합성 연습 샘플을 만들고 걸러 낸 뒤 가장 좋은 샘플로 모델을 다듬는다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/LLMSleep1_Framework.width-1250.png",
+          "cap": "수면 프레임워크 개요: Consolidation(통합)과 Dreaming(꿈꾸기)."
+        },
+        {
+          "t": "p",
+          "x": "Manchu, Kalamang처럼 처음 보는 언어를 이어서 번역할 때도 성능이 거의 떨어지지 않았다. SQuAD와 지속 사전학습에서는 각각 48.9%, 46.2%를 기록했다. AIME 24/25와 HMMT 25에서는 수면으로 강화한 기본 모델이 79.2%, 69.0%, 46.1%를 얻어 SFT, GRPO, OPSD를 앞섰다."
+        }
+      ]
+    },
+    "science/yonsei-mamba-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-232.png"
+        },
+        {
+          "t": "p",
+          "x": "Yonsei University 연구진이 Mamba 구조적 상태공간 아키텍처로 신경망 양자 오류 정정(QEC) 디코더를 만들어, 딥러닝 디코딩의 계산 복잡도를 코드 거리 d 기준 O(d4)에서 O(d2)로 낮췄다. 연구는 npj Quantum Information에 실렸다. 모델은 실험용 메모리 벤치마크에서 AlphaQubit 같은 Transformer 기반 모델과 정확도가 같았다."
+        },
+        {
+          "t": "p",
+          "x": "Transformer 디코더는 안정자 토큰을 모두 쌍으로 비교하기 때문에 O(d4)로 스케일링되고, 지연이 쌓여 초전도 결맞음 한계를 넘어선다. Mamba는 어텐션 대신 선택적 상태공간 층을 쓴다. Google Quantum AI Sycamore 데이터셋에서 이 모델은 Transformer와 정확도가 같았고, 디코더가 일으키는 지연 잡음을 반영해도 오류 억제 우위를 지켰다. 격차는 d = 3에서 d = 9로 갈수록 벌어졌다."
+        },
+        {
+          "t": "p",
+          "x": "실용화하려면 디코더를 저지연 FPGAs나 맞춤형 ASICs로 옮겨, 마이크로초가 안 되는 주기 예산 안에서 추론을 돌려야 한다."
+        }
+      ]
+    },
+    "science/nmr-spectrometer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up.jpg",
+          "cap": "Niels Chr. Nielsen(왼쪽), Filip V. Jensen, Anders Bodholt Nielsen(오른쪽)이 NMR 분광기로 분석할 시료를 준비하고 있다. Credit: Peter F. Gammelby, Aarhus University"
+        },
+        {
+          "t": "p",
+          "x": "NMR 분광기는 분자 구조를 원자 수준까지 밝혀내지만 신호가 약해 검출할 수 있는 대상이 제한된다. Aarhus University 연구진은 AI를 써서 분광기가 시료에서 직접 최적의 펄스열을 학습하게 했다."
+        },
+        {
+          "t": "p",
+          "x": "신호가 약한 것은 한쪽 방향을 향하는 핵스핀이 반대쪽보다 아주 조금 많을 뿐이기 때문이다. Niels Chr. Nielsen 교수는 \"NMR은 MRI 스캐너와 같은 약점이 있다. 상대적으로 둔감하다는 점이다\"라고 말한다. 전자의 자기 모멘트는 양성자보다 약 660배 크다. 동적 핵 편극(DNP)은 마이크로파 펄스로 전자의 정렬 일부를 원자핵에 옮긴다. 다만 스핀 수백, 수천 개가 상호작용하면 이상적인 펄스열을 미리 계산하기가 매우 어렵고 모델이 실제 장비의 결함을 놓칠 수도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-computers-give-up-1.jpg",
+          "cap": "분광기는 시료에서 배운다. 측정한 신호는 베이지안 최적화(Bayesian optimization) 알고리즘으로 되돌아간다. Credit: Filip V. Jensen, Aarhus University / Science Advances"
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 직접 만든 DNP 분광기를 베이지안 최적화(Bayesian optimization) 기반 머신러닝 알고리즘에 연결했다. 알고리즘이 시료에 펄스열을 시험하고 결과를 재서 학습한 뒤 다음 실험을 제안하는 방식이다. 주저자 Filip V. Jensen은 \"새로운 점은 분광기가 최선의 실험을 수행하는 방법을 스스로 배우게 했다는 것\"이라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준 방법 일부와 맞먹었고, 더 복잡한 스핀계에서는 기준 방법보다 신호를 약 70% 더 크게 증폭했다. 최적화 한 번에 이틀이 조금 못 되는 시간부터 거의 닷새까지 걸렸지만 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이번 개념 증명 연구는 자기공명 기반 양자 센서에도 쓰임새가 있을 전망이다."
+        }
+      ]
     }
   }
 }

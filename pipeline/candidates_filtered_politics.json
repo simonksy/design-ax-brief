@@ -1,79 +1,73 @@
 {
   "section": "politics",
-  "now_iso": "2026-10-28T22:04:45Z",
+  "now_iso": "2026-10-29T22:00:32Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "New York Gov. Hochul signs law barring AI companion chatbots from simulating human relationships with minors",
-      "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
-      "source": "New York Governor's Office",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-28T13:38:00Z",
-      "excerpt": "Hochul signed S.9051B/A.10379C: chatbots may not claim to be human or form romantic/authority relationships with minors, must use multi-method age verification, and face AG civil penalties up to $25,000 per violation.",
-      "og_image": null
-    },
-    {
-      "title": "'Emotional intimacy' from AI chatbots would be banned under Australia's digital duty of care laws",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
-      "source": "The Guardian",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-28T05:31:55Z",
-      "excerpt": "Australia's Digital Duty of Care bill, which passed the lower house, would bar AI chatbots from fostering emotional intimacy with children as part of new online safety standards.",
-      "og_image": "https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6603762f6a8144d4854949f0e3542f5"
-    },
-    {
-      "title": "OpenAI sets up an Election Operations Center for the US midterms",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020748/another-election-year-another-tech-company-war-room",
-      "source": "The Verge",
-      "category": "elections_public_opinion",
-      "published_iso": "2026-10-28T15:51:30Z",
-      "excerpt": "OpenAI's Election Operations Center runs until all votes are counted, monitoring misuse of ChatGPT and other tools for misinformation or election disruption; Politico reports it is the first major AI company to do so.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "title": "Carney frames C$1.6B AI investment as national security imperative",
+      "url": "https://www.politico.eu/article/mark-carney-canada-ai-investment-national-security-imperative/",
+      "source": "POLITICO Europe",
+      "category": "politics",
+      "subtopic": "geopolitics",
+      "published_iso": "2026-10-29T18:21:56+00:00",
+      "excerpt": "Canada's government is putting C$1.6 billion into Cohere's Series E, which Prime Minister Mark Carney framed as a sovereign-AI and national-security investment ahead of the Canada-EU summit, where von der Leyen pledged joint work on AI safety rules and standards.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/29/GettyImages-2302028695-scaled.jpg",
       "history_match": {
-        "score": 0.187,
-        "date": "2026-10-24",
-        "url": "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
-        "title": "LLMs Are Still Making Election Deepfakes Just Days Before the US Midterms",
+        "score": 0.188,
+        "date": "2026-10-23",
+        "url": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia",
+        "title": "Investment summit: German government strikes AI deal with Nvidia",
         "band": "related"
       }
     },
     {
-      "title": "Disinformation videos, likely from Russia, use AI and real people's identities to malign Senate candidates",
-      "url": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
-      "source": "Associated Press (via Pioneer Press)",
-      "category": "elections_public_opinion",
-      "published_iso": "2026-10-28T15:14:21Z",
-      "excerpt": "AP reports a network of AI-fabricated videos, attributed by researchers to likely Russian origin, that hijack real Americans' identities to target two Democratic Senate candidates days before the midterms.",
-      "og_image": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg?w=2000&h=1333"
-    },
-    {
-      "title": "Pakistan's Election Commission proposes 12 code-of-conduct amendments to curb AI misuse and deepfakes in polls",
-      "url": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
-      "source": "The Express Tribune",
-      "category": "elections_public_opinion",
-      "published_iso": "2026-10-26T06:48:23Z",
-      "excerpt": "The ECP draft would require media to disclose AI-generated or modified content, prohibit deceptive deepfakes by parties and candidates, and is open for public comment until Nov 20.",
-      "og_image": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp"
-    },
-    {
-      "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-      "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-      "source": "The Guardian",
-      "category": "elections_public_opinion",
-      "published_iso": "2026-10-27T22:30:45Z",
-      "excerpt": "Research finds three-quarters of responses to a UK government consultation were machine-generated in a failed attempt to stop the disposable vapes ban - an AI astroturfing case in public policymaking.",
-      "og_image": "https://i.guim.co.uk/img/media/aaba9471514c493b64cda0d52e0de7fe61c3d279/124_0_3703_2963/master/3703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec2877bdeec17ca02797b769d571c765"
-    },
-    {
-      "title": "Spain PM Sánchez's wife sues opposition over AI deepfake",
-      "url": "https://www.rapporteur.com/news/spains-sanchez-wife-sues-opposition-over-ai-deepfake/",
-      "source": "Euractiv (Rapporteur)",
-      "category": "elections_public_opinion",
-      "published_iso": "2026-10-28T11:06:14Z",
-      "excerpt": "Begoña Gómez has filed suit against the Spanish opposition over an AI-generated deepfake video; follow-up to the opposition deepfake row, with a new legal filing. (Body Cloudflare-blocked; time from outlet RSS.)",
-      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2300629447.jpg",
+      "title": "Canada to join EU network of supercomputers",
+      "url": "https://www.politico.eu/article/canada-joining-eu-supercomputer-network/",
+      "source": "POLITICO Europe",
+      "category": "politics",
+      "subtopic": "geopolitics",
+      "published_iso": "2026-10-29T14:34:08+00:00",
+      "excerpt": "Canada will join the EU's network of supercomputers. POLITICO calls the compute-sharing deal a first step toward middle-power cooperation on AI, announced around the Canada-EU summit.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/29/GettyImages-1864160079.jpg",
       "history_match": {
-        "score": 0.439,
+        "score": 0.15,
+        "date": "2026-10-24",
+        "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+        "title": "EXCLUSIVE: China offered European Commission to join its AI alliance",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Frontier AI one of greatest threats to Canadians as Ottawa releases national security strategy",
+      "url": "https://nationalpost.com/news/frontier-ai-one-of-greatest-threats-to-canadians-as-ottawa-releases-national-security-strategy",
+      "source": "National Post",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-29T15:25:18+00:00",
+      "excerpt": "Canada released its first national security strategy in more than two decades, 'The Plan for a Stronger Canada'. Officials named frontier AI models among the greatest current threats, and the plan promises more intelligence and cyber-defence capability.",
+      "og_image": null
+    },
+    {
+      "title": "Austria pitches for United Nations AI security centre in Vienna",
+      "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
+      "source": "Rapporteur (Euractiv)",
+      "category": "politics",
+      "subtopic": "geopolitics",
+      "published_iso": "2026-10-29T11:53:09+00:00",
+      "excerpt": "At a 31-country virtual meeting on frontier-AI control co-hosted by Norway and Finland, Austria proposed a UN AI centre in Vienna and Singapore floated an incident-reporting pilot. An expert-level process will continue, apparently without the US or China taking part.",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg"
+    },
+    {
+      "title": "Sánchez's wife sues Spanish opposition over AI deepfake",
+      "url": "https://www.rapporteur.com/news/spains-sanchez-wife-sues-opposition-over-ai-deepfake/",
+      "source": "Rapporteur (Euractiv)",
+      "category": "politics",
+      "subtopic": "elections_public_opinion",
+      "published_iso": "2026-10-28T11:06:14+00:00",
+      "excerpt": "Begoña Gómez filed a legal complaint for 'identity theft' against Spain's People's Party over an AI-generated video of her used in a PP campaign ad. The case lands ahead of a November election and touches on EU tech rules. (New filing in a story already published on 10-26.)",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2184509820-e1793256654574-1182x788.jpg",
+      "history_match": {
+        "score": 0.408,
         "date": "2026-10-26",
         "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
         "title": "Opposition deepfake video of Spanish PM's wife sparks outrage before election",
@@ -81,24 +75,26 @@
       }
     },
     {
-      "title": "UK MP Jess Asato pursues legal action against xAI over Grok deepfakes",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "source": "WIRED",
-      "category": "elections_public_opinion",
-      "published_iso": "2026-10-27T13:29:41Z",
-      "excerpt": "Labour MP Jess Asato, targeted by Grok-generated sexual deepfakes, is pursuing legal action against xAI arguing it unlawfully used her image without consent - a potential precedent for AI-company liability.",
-      "og_image": "https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Illo-1027.jpg"
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-29T18:39:43+00:00",
+      "excerpt": "Sources tell WIRED that an Accenture employee's personal Claude agent ran on a DOD network for two months before it was found and the vulnerability patched. The case raises questions about agent-access policy in government systems.",
+      "og_image": "https://media.wired.com/photos/6ae113e3b0a8ac98a8d177dc/191:100/w_1280,c_limit/102726-department-of-defense-ai-agent.jpg"
     },
     {
-      "title": "UK Home Office may face watchdog investigation over GPT-4-based asylum tools",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
       "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
       "source": "WIRED",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-27T15:10:26Z",
-      "excerpt": "The Independent Chief Inspector of Borders and Immigration is weighing a probe into the Home Office's Asylum Case Summarisation and Policy Search tools built on OpenAI GPT-4, after Open Rights Group's records requests.",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-27T15:10:26+00:00",
+      "excerpt": "A UK government watchdog is weighing a probe into the Home Office's use of ChatGPT-based tools to process asylum claims, over concerns about the tools' accuracy and the secrecy around their use.",
       "og_image": "https://media.wired.com/photos/6ada70c6eb086323489423af/191:100/w_1280,c_limit/GettyImages-2275955534.jpg",
       "history_match": {
-        "score": 0.318,
+        "score": 0.379,
         "date": "2026-10-14",
         "url": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
         "title": "Home Office asylum AI flunks one in five accuracy checks",
@@ -106,188 +102,174 @@
       }
     },
     {
-      "title": "noyb files five GDPR complaints in four EU states against Scale AI over contractor surveillance",
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She's Taking xAI to Court",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "source": "WIRED",
+      "category": "politics",
+      "subtopic": "elections_public_opinion",
+      "published_iso": "2026-10-27T13:29:41+00:00",
+      "excerpt": "Labour MP Jess Asato, herself a target of Grok-generated sexual deepfakes, is taking legal action against xAI, arguing it unlawfully used her image without consent. The case could set a precedent on AI-company liability. (Interview format.)",
+      "og_image": "https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Illo-1027.jpg"
+    },
+    {
+      "title": "Trump's AI use to inform military operations questioned by House duo",
+      "url": "https://fedscoop.com/trump-ai-use-military-operations-house-letter/",
+      "source": "FedScoop",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-29T21:20:09+00:00",
+      "excerpt": "The ranking members of two House committees asked for a closed-door briefing on the administration's use of AI to inform military operations. The request covers document-retention policy, vendor contracts and cybersecurity safeguards.",
+      "og_image": null
+    },
+    {
+      "title": "DoD issues guidance for procuring 'unbiased' AI systems",
+      "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/",
+      "source": "Federal News Network",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-26T22:51:17+00:00",
+      "excerpt": "The Pentagon issued non-binding acquisition guidance, with templates and sample contract language, for buying AI that meets the administration's 'truth-seeking' and 'ideological neutrality' principles under EO 14319 and OMB memo M-26-04.",
+      "og_image": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+    },
+    {
+      "title": "Attorney General James Uthmeier ... Files Lawsuit Against A2E for Enabling AI-Generated CSAM",
+      "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-charges-against-osceola-county-predator-100-counts",
+      "source": "Florida Attorney General",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-28T16:00:00+00:00",
+      "excerpt": "Florida's attorney general filed a civil suit against Rengstorff Consulting, operator of the A2E AI platform and apps. The suit alleges the tools let users generate child sexual abuse material and non-consensual sexualized images of Floridians. (Release date Oct 28, 2026; time-of-day not given.)",
+      "og_image": null
+    },
+    {
+      "title": "FTC expands personalized pricing scrutiny as states, Congress, regulators turn up pressure",
+      "url": "https://iapp.org/news/a/ftc-expands-personalized-pricing-scrutiny-as-states-congress-regulators-turn-up-pressure",
+      "source": "IAPP",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-29T16:30:30+00:00",
+      "excerpt": "The FTC sent Section 6(b) orders to nine companies, including Delta, United, Uber, DoorDash, Instacart, Target and Walmart, demanding details on how personal data and AI are used to set consumer prices and gig-worker pay.",
+      "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt4f0b7def9b0e4257/6ae379504ea2fdb5402f334b/online-shopping-retail-10292026.jpg",
+      "history_match": {
+        "score": 0.228,
+        "date": "2026-10-27",
+        "url": "https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai",
+        "title": "FTC demands Anthropic execs testify in expanding AI safety probe",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "source": "Ars Technica",
+      "category": "politics",
+      "subtopic": "elections_public_opinion",
+      "published_iso": "2026-10-28T17:46:32+00:00",
+      "excerpt": "Days before the US midterms, Google's AI answers dodge the question of who won the 2020 US election, though they are more forthright when asked from outside the US.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
+      "history_match": {
+        "score": 0.158,
+        "date": "2026-10-24",
+        "url": "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
+        "title": "LLMs Are Still Making Election Deepfakes Just Days Before the US Midterms",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Trump ignored intel on China's Nvidia spy to protect company's stock, report says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "source": "Ars Technica",
+      "category": "politics",
+      "subtopic": "geopolitics",
+      "published_iso": "2026-10-29T18:29:12+00:00",
+      "excerpt": "A report says US officials investigated a suspected Chinese intelligence asset with access close to Nvidia CEO Jensen Huang, and that the White House did not act on the intel. Attributed to the report; Huang called the ties 'normal'.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg"
+    },
+    {
+      "title": "Voters in Texas agree: They hate data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "source": "The Verge",
+      "category": "politics",
+      "subtopic": "geopolitics",
+      "published_iso": "2026-10-28T12:00:00+00:00",
+      "excerpt": "AI data-center siting has become a midterm issue in rural Texas, where energy and water concerns have turned voters against Republican support for data-center buildouts.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "history_match": {
+        "score": 0.184,
+        "date": "2026-10-09",
+        "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+        "title": "Data centers face a sweeping new power regime",
+        "band": "related"
+      }
+    },
+    {
+      "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
       "url": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
       "source": "The Register",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-27T17:29:00Z",
-      "excerpt": "Privacy group noyb alleges Scale AI unlawfully tracks European data-annotation contractors on its Outlier platform, which trains models for OpenAI, Anthropic, Google and the US government.",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-27T17:29:00+00:00",
+      "excerpt": "noyb filed five GDPR complaints in four EU member states over alleged tracking of AI data-annotation workers on Scale AI's Outlier platform.",
       "og_image": "https://image.theregister.com/5305785.jpg?imageId=5305785&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
-      "title": "UK ministers met 137 businesses over AI datacentres but no environmental groups",
-      "url": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
-      "source": "The Register",
-      "category": "geopolitics",
-      "published_iso": "2026-10-27T11:00:00Z",
-      "excerpt": "An investigation of ministerial meeting records finds the UK government met datacentre and AI firms repeatedly while drafting AI Growth Zone and datacentre expansion plans, with no environmental groups consulted.",
-      "og_image": "https://image.theregister.com/5305665.jpg?imageId=5305665&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-      "title": "Malaysia customs seizes US$12.1M of advanced AI chips in 30 servers at KL airport",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
-      "source": "CNA",
-      "category": "geopolitics",
-      "published_iso": "2026-10-28T05:52:00Z",
-      "excerpt": "Malaysian customs intercepted servers carrying advanced AI chips suspected of violating the country's export controls on US-origin high-performance chips; investigators are probing a suspected smuggling network.",
-      "og_image": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-      "history_match": {
-        "score": 0.196,
-        "date": "2026-10-19",
-        "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
-        "title": "China proposes export controls on its advanced AI models and chip designs",
-        "band": "related"
-      }
-    },
-    {
-      "title": "GSA expands OneGov agreement with Anthropic: token-based Claude pricing with 40% discount for agencies",
-      "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/",
-      "source": "FedScoop",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-27T21:56:53Z",
-      "excerpt": "GSA's expanded OneGov deal gives federal agencies a 40% discount on consumption-based Claude usage with no minimum purchase - a shift in federal AI procurement terms.",
-      "og_image": null
-    },
-    {
-      "title": "Scale publishes DualChem, first AI benchmark through CAISI partnership, to gauge chemistry risk",
-      "url": "https://fedscoop.com/scale-chemistry-ai-benchmark-caissi-partnership-dualchem/",
-      "source": "FedScoop",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-28T10:00:00Z",
-      "excerpt": "The DualChem benchmark, built with the Commerce Department's Center for AI Standards and Innovation, is meant to help government agencies assess AI model risk in chemistry applications.",
-      "og_image": null,
-      "history_match": {
-        "score": 0.155,
-        "date": "2026-10-20",
-        "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
-        "title": "First harmonised standard supporting the AI Act published in the Official Journal",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416812/",
-      "source": "Nextgov/FCW",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-26T15:31:00Z",
-      "excerpt": "Americans for Responsible Innovation proposes a federal framework requiring frontier developers to disclose their use of AI in AI R&D (automated model development) to Washington.",
-      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/26/GettyImages_2297779263/open-graph.jpg",
-      "history_match": {
-        "score": 0.168,
-        "date": "2026-10-27",
-        "url": "https://www.lawtimesnews.com/news/general/law-commission-pitches-laws-frameworks-for-ai-use-in-criminal-justice/393553",
-        "title": "Law Commission pitches laws, frameworks for AI use in criminal justice",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Stanford professors among authors suing Anthropic after opting out of the Bartz settlement",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "source": "The Stanford Daily",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-27T09:46:17Z",
-      "excerpt": "Tobias Wolff and 27 other authors say the $1.5B Bartz v. Anthropic settlement is not enough and are pursuing their own claims over pirated books used to train Claude.",
-      "og_image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png"
-    },
-    {
-      "title": "Italy's AI Act framework takes shape: Legislative Decree No. 179/2026",
-      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
-      "source": "IAPP",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-26T15:54:35Z",
-      "excerpt": "IAPP explains Italy's implementing decree for the EU AI Act - designated authorities, sanctions and new workplace rules requiring a human decision-maker for AI-driven hiring and firing.",
-      "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
-    },
-    {
-      "title": "xAI offered to buy Mississippi residents' homes if they don't sue over datacenter noise, residents say",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
-      "source": "The Guardian",
-      "category": "geopolitics",
-      "published_iso": "2026-10-28T15:32:41Z",
-      "excerpt": "Residents near xAI's Mississippi datacenter say the company offered to buy their homes on condition they not sue over noise - a local siting fight around AI compute.",
-      "og_image": "https://i.guim.co.uk/img/media/348dbc85214c965490fc99f4d07ce31c26d36a5c/389_0_6003_4803/master/6003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=587db4b3f142b7de055fcd139e5dfcaa"
-    },
-    {
-      "title": "A First Amendment approach to regulating AI model weights",
-      "url": "https://www.lawfaremedia.org/article/a-first-amendment-approach-to-regulating-ai-model-weights",
+      "title": "Washington's Overlooked Leverage Over China's Chip Ambitions",
+      "url": "https://www.lawfaremedia.org/article/washington-s-overlooked-leverage-over-china-s-chip-ambitions",
       "source": "Lawfare",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-28T17:00:04Z",
-      "excerpt": "Lawfare analysis: whether or not model weights are speech, any licensing regime for them should be built with First Amendment protections. (Analysis - lower priority.)",
-      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/datacenter.jpg?sfvrsn=d59d8d43_5",
+      "category": "politics",
+      "subtopic": "geopolitics",
+      "published_iso": "2026-10-29T14:03:54+00:00",
+      "excerpt": "Analysis: China's new immersion lithography tools are not yet production-ready, but continued servicing by the US and its allies speeds their progress. The author argues existing US export-control rules already allow a response. (Commentary.)",
+      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/a-close-up-of-a-computer-chip.jpeg?sfvrsn=9e68c398_5",
       "history_match": {
-        "score": 0.183,
-        "date": "2026-10-17",
-        "url": "https://restofworld.org/2026/china-open-weight-models/",
-        "title": "Western open-weight models still can't beat China",
+        "score": 0.199,
+        "date": "2026-10-18",
+        "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+        "title": "The Case for DUV Controls",
         "band": "related"
       }
     },
     {
-      "title": "The UK-US Tech Deal exposes the limits of Britain's AI ambitions",
-      "url": "https://techpolicy.press/the-ukus-tech-deal-exposes-the-limits-of-britains-ai-ambitions",
-      "source": "Tech Policy Press",
-      "category": "geopolitics",
-      "published_iso": "2026-10-27T09:16:50Z",
-      "excerpt": "Analysis of the UK-US Tech Prosperity Deal as a test of Britain's sovereign AI and compute ambitions. (Analysis - lower priority.)",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/cde3512ffde483633cc84fb4034cb1d0919d9941-1200x675.png"
+      "title": "Back in the Chat: California and New York Take Diverging Paths in Second Wave of Chatbot Regulations",
+      "url": "https://fpf.org/blog/back-in-the-chat-california-and-new-york-take-diverging-paths-in-second-wave-of-chatbot-regulations/",
+      "source": "Future of Privacy Forum",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-29T18:10:30+00:00",
+      "excerpt": "FPF compares New York's newly signed S 9051B, which restricts AI companion-chatbot features for minors, with California's approach in the second wave of state chatbot laws. (Analysis; the NY signing was already published 10-29.)",
+      "og_image": "https://fpf.org/wp-content/uploads/2026/10/shutterstock_2671995353-1-2-scaled-e1793295720842.jpg",
+      "history_match": {
+        "score": 0.228,
+        "date": "2026-10-29",
+        "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+        "title": "New York Gov. Hochul signs law barring AI companion chatbots from simulating human relationships with minors",
+        "band": "related"
+      }
     },
     {
-      "title": "Taxing artificial intelligence: What's on the table, and what's at stake",
-      "url": "https://www.brookings.edu/articles/taxing-artificial-intelligence-whats-on-the-table-and-whats-at-stake/",
-      "source": "Brookings",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-27T14:00:42Z",
-      "excerpt": "Brookings surveys proposals to tax AI - compute, token and automation taxes - and their trade-offs. (Analysis - lower priority.)",
-      "og_image": "https://www.brookings.edu/wp-content/uploads/2026/10/shutterstock-FOTOGRIN.jpg"
-    },
-    {
-      "title": "한경협, 'AI 기본법 개선과제 19건' 과기정통부에 건의…\"사내 AI는 외부 서비스와 구분해야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261028181000003",
-      "source": "연합뉴스",
-      "category": "policy_regulation",
-      "published_iso": "2026-10-29T06:00:02+09:00",
-      "excerpt": "한국경제인협회가 회원사 의견을 모아 AI 기본법 개선과제 19건을 과학기술정보통신부에 건의했다. 사내 전용 AI를 외부 서비스와 구분해 규제해야 한다는 내용 등이 담겼다. (업계 건의 - 공식 결정 아님)",
-      "og_image": null
+      "title": "Who Wins, Who Sues, Who Pays the Price",
+      "url": "https://www.cjr.org/tow_center/who-wins-who-sues-who-pays-the-price-tow-ai-deals-tracker-lawsuits-complex-geographic-inequities.php",
+      "source": "Columbia Journalism Review",
+      "category": "politics",
+      "subtopic": "policy_regulation",
+      "published_iso": "2026-10-29T10:00:00+00:00",
+      "excerpt": "The Tow Center's updated tracker of AI licensing deals and lawsuits between publishers and AI companies shows striking geographic inequities in who gets paid and who sues.",
+      "og_image": "https://www.cjr.org/wp-content/uploads/2026/10/tow-visualizer3.jpg"
     }
   ],
+  "notes": "Feeds harvested from on-list RSS (politico.eu, rapporteur/euractiv, ars, wired, verge, register, techreview, lawfare, fpf, cjr, niemanlab, poynter, diplomat, techpolicy sitemap, iapp sitemap) + Google News RSS (titles only; decode endpoint rate-limited 429). Off-list used where on-list had no coverage: nationalpost.com, fedscoop.com, federalnewsnetwork.com, myfloridalegal.com. Dropped as stale despite late re-coverage: DOJ $300M Nvidia smuggling (arrest Oct 1), Virginia ED6 (Oct 23), Hungary EU-evaluators exclusive (Oct 15). Dropped as already published: Meta AI terms pause, FTC AI safety probe, Georgia/Claude election data, Malaysia chip seizure, NY chatbot law. Unresolved (URL not recoverable): Anthropic letter to Newsom on courts blocking risky models; Trump remark on banning the term AI. Korean feeds (etnews, zdnet.co.kr, digitaltoday, yna) had no fresh AI-policy decision.",
   "dedup": {
-    "dropped": 0,
-    "kept": 22,
+    "dropped": 1,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 9,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-29",
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Defining “Agentic”: Why We Need a Shared Taxonomy for AI Agents",
-      "url": "https://fpf.org/blog/defining-agentic-why-we-need-a-shared-taxonomy-for-ai-agents/"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Pope Leo rejects AI \"fake news\" claims after Trump calls fears a \"hoax\"",
-      "url": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
-    },
     {
       "date": "2026-09-30",
       "title": "Tracking AI Chips: What Does It Cost?",
@@ -982,6 +964,31 @@
       "date": "2026-10-28",
       "title": "Lords asks government to think again on Cyber Security Bill (AISI powers review agreed 202-155; frontier-AI incident-reporting amendment defeated)",
       "url": "https://www.parliament.uk/business/news/2026/october-2026/cyber-security-and-resilience-network-and-information-systems-bill-undergoes-further-scrutiny-in-the-lords/"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "New York Gov. Hochul signs law barring AI companion chatbots from simulating human relationships with minors",
+      "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Italy's AI Act framework takes shape: Legislative Decree No. 179/2026",
+      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Pakistan's Election Commission proposes 12 code-of-conduct amendments to curb AI misuse and deepfakes in polls",
+      "url": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Malaysia customs seizes US$12.1M of advanced AI chips in 30 servers at KL airport",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Disinformation videos, likely from Russia, use AI and real people's identities to malign Senate candidates",
+      "url": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/"
     }
   ]
 }

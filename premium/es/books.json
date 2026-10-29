@@ -8216,6 +8216,118 @@
           "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
         }
       ]
+    },
+    "books/books-aoi-illustrator-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+          "cap": "Ilustrador (Illustrator) © Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Cada vez más ilustradores pierden trabajo e ingresos por la AI generativa (GenAI), según una nueva encuesta de la Association of Illustrators (AOI), que señala que la tecnología está “cambiando no solo cuánto trabajo reciben los ilustradores, sino cómo se estructuran, valoran y ejecutan los encargos”."
+        }
+      ]
+    },
+    "books/books-stanford-anthropic-optout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+          "cap": "Libros apilados en un estante de biblioteca."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic entrenó anteriormente a Claude con textos obtenidos ilegalmente de los profesores de Stanford Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao y Myra Strober. En Bartz v. Anthropic, el juez William Alsup dictaminó que Anthropic ya no podía piratear libros para crear una biblioteca central permanente, aunque calificó de uso legítimo (fair use) la adquisición legal de libros para entrenar a Claude."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo de $1.5B se repartió entre autores y editoriales de casi 500,000 obras registradas. Wolff y otros 27 autores afirman que el acuerdo no es suficiente. “Están usando mi obra sin pagar por ella”, dijo Wolff, profesor emérito de Inglés. 10 de sus publicaciones se habían usado para entrenar AI sin permiso."
+        },
+        {
+          "t": "p",
+          "x": "Wolff, junto con el profesor de Inglés Chang-rae Lee, se retiró del acuerdo Bartz. En mayo de 2026 presentaron la demanda independiente, no colectiva, Cruz v. Anthropic, en la que piden un juicio con jurado por la totalidad de los daños legales, de hasta $150,000 por obra infringida, por encima de los aproximadamente $3,000 por obra ofrecidos en el acuerdo Bartz. Alegan que Anthropic descargó sus libros de “bibliotecas en la sombra” como LibGen y PiLiMi; si ganan, obtendrían una orden judicial permanente que impediría entrenar modelos Claude con sus obras."
+        },
+        {
+          "t": "p",
+          "x": "Paul Goldstein, académico de Stanford Law y demandante en la acción colectiva, señaló los “costos de transacción”: “simplemente es inviable que la plataforma obtenga licencias del titular de los derechos de cada obra — o, de hecho, de una sola”. Además de Bartz y Cruz, autores, artistas visuales y medios de comunicación han presentado más de 70 demandas por infracción contra empresas de AI."
+        }
+      ]
+    },
+    "books/books-ifrro-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "El informe, The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works, elaborado en colaboración con la profesora de derecho de propiedad intelectual Eleonora Rosati, ofrece una revisión del panorama legal y político junto con los resultados de la encuesta global de IFRRO de 2026 a casi 2,000 encuestados."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Los encuestados señalaron lo siguiente: más del 90% está de acuerdo en que “la AI generativa ha afectado directa y negativamente” a los ingresos de los titulares de derechos; más del 75% cree que la AI “desplazará a los trabajadores creativos”; el 96% considera que el marco actual de derechos de autor no los protege adecuadamente; y más del 50% cree que las “licencias específicas para AI” (AI-specific licenses) “mejorarían mucho su situación económica”."
+        },
+        {
+          "t": "p",
+          "x": "El estudio concluye que “los usos no autorizados a gran escala (large-scale) de contenido protegido sin consentimiento, transparencia ni remuneración” no son “sostenibles ni legal ni económicamente”, e identifica tres condiciones “fundamentales”: consentimiento y control para autores y titulares de derechos, principios de derechos de autor eficaces y una transparencia sólida en el entrenamiento y la generación de resultados. IFRRO celebrará un seminario web el 23 de noviembre, en el que Rosati presentará las conclusiones principales."
+        }
+      ]
+    },
+    "books/books-toonflow-brainventures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
+          "cap": "Brainventures registra oficialmente en Adobe Exchange ‘ToonFlow’, su plugin de localización de webtoons"
+        },
+        {
+          "t": "p",
+          "x": "Brainventures (director ejecutivo: Kim Won-hoe), empresa especializada en la localización de webtoons basada en AI, ha registrado ‘ToonFlow’, un plugin de Photoshop que automatiza la traducción y la rotulación de webtoons, en ‘Adobe Exchange’, el mercado oficial de Adobe. Con este registro, un plugin de Photoshop que procesa en un único flujo los principales pasos de la localización de webtoons —desde la detección de bocadillos hasta el reconocimiento de texto, la traducción y la rotulación— empieza a distribuirse de lleno en un mercado global."
+        },
+        {
+          "t": "p",
+          "x": "ToonFlow es un plugin de inteligencia artificial (AI) desarrollado para que los profesionales de la localización de webtoons puedan traducir y rotular sin salir de su entorno de trabajo habitual en Adobe Photoshop. Ofrece de forma integrada la detección de bocadillos y áreas de texto, el reconocimiento óptico de caracteres (OCR) del texto original, incluida la escritura vertical, la traducción automática contextual que tiene en cuenta glosarios y la rotulación con ajuste automático de fuentes. En particular, su función ‘Autopilot’ ejecuta en secuencia el proceso de varias etapas y permite completarlo todo de una vez sin cambiar de pestaña; además, incorpora una función de ‘ajustes preestablecidos’ que guarda la configuración de cada obra y un ‘panel de comparación original/traducción’ para cotejar los resultados antes y después, lo que facilita la revisión."
+        },
+        {
+          "t": "p",
+          "x": "El plugin se desarrolló con el apoyo del ‘Programa de apoyo a startups tecnológicas vinculado a la inversión privada de Goyang 2026 (TIPS de Goyang)’. La empresa abrió una sucursal en la ciudad de Goyang en marzo y, tras ser seleccionada para el TIPS de Goyang en mayo, inició la investigación y el desarrollo. Actualmente admite 3 idiomas —coreano, japonés e inglés— y se distribuye a través de Adobe Exchange y del sitio web oficial de ToonFlow. Quienes abran una cuenta nueva reciben una prueba gratuita de 1 episodio. La empresa prevé que la automatización del proceso de rotulación, hasta ahora mayoritariamente manual, reducirá de forma notable el tiempo de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "“Hemos llevado la tecnología de localización de webtoons que hemos acumulado al entorno de Photoshop, el más familiar para los profesionales”, explicó Kim Won-hoe, director ejecutivo de Brainventures. “Seguiremos perfeccionando la tecnología para consolidarnos como la solución de localización de referencia en la que confían sobre el terreno los estudios de webtoons y los distribuidores de plataformas de todo el mundo”."
+        },
+        {
+          "t": "p",
+          "x": "Brainventures está instalada en la ‘Pangyo Startup Zone’, el mayor clúster de apoyo a startups del país, creado en 2017 por el Ministerio de Pymes y Startups y gestionado conjuntamente por el Instituto Coreano de Emprendimiento y el Centro de Economía Creativa e Innovación de Gyeonggi."
+        }
+      ]
+    },
+    "books/macmillan-noa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/w_2560%2Cc_limit/culture_macmillon_failed_ai_project.jpg",
+          "cap": "Fotoilustración: Jacqui VanLiew; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Cuando el personal de la sede de Macmillan Publishers en Lower Manhattan llegaba a trabajar una mañana de enero de 2024, pasó junto a carteles que daban la bienvenida a un nuevo miembro del equipo llamado “NOA”. La cafetería estaba adornada con globos morados y una bandeja llena de dónuts formaba la frase “NOA IS HERE”. NOA —No Ordinary Assistant— era un chatbot de IA desarrollado por la empresa alemana de software Chaptr, “respaldada” por Holtzbrinck, la matriz de Macmillan."
+        },
+        {
+          "t": "p",
+          "x": "Según los empleados, se les animó a usar NOA para redactar correos, preparar borradores de textos, hacer estudios de marketing y generar ideas, y más tarde para fijar sus objetivos en las evaluaciones de desempeño. “Era terrible y nadie lo usaba”, dice uno. En octubre de 2025, el personal supo por un correo a toda la empresa que Chaptr dejaría de ofrecer NOA; desde entonces, según los trabajadores, la dirección intenta integrar Google Gemini. Kelly Collins, de Macmillan, afirma que “los puntos expuestos no reflejan con precisión cómo se implantó y comunicó NOA”."
+        },
+        {
+          "t": "p",
+          "x": "En Penguin Random House, los empleados dicen que se les ha animado a usar ChatGPT Enterprise pese a que la división alemana de PRH ha demandado a OpenAI. Varios autores superventas de las Big Five afirman que su relación con las editoriales se ha resentido por el uso de IA. “Lo mínimo que pedimos es que se informe”, dice un autor."
+        }
+      ]
     }
   }
 }

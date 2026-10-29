@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "politics",
   "items": [
     {
-      "rank": 1,
-      "title": "New York Gov. Hochul signs law barring AI companion chatbots from simulating human relationships with minors",
-      "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
-      "source": "New York Governor's Office",
-      "published_iso": "2026-10-28T13:38:00Z",
-      "og_image": null,
-      "excerpt": "Hochul signed S.9051B/A.10379C: chatbots may not claim to be human or form romantic/authority relationships with minors, must use multi-method age verification, and face AG civil penalties up to $25,000 per violation.",
-      "axis": "policy",
       "tool": "Politics",
+      "category": "politics",
+      "subtopic": "policy_regulation",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Primary source on a signed state law, so the decision is final. It sets concrete duties for chatbot builders (no claiming to be human, age verification, $25K AG penalties) and is a new enacted law, not part of the earlier state lawsuits against OpenAI."
+      "title": "DoD issues guidance for procuring 'unbiased' AI systems",
+      "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/",
+      "source": "Federal News Network",
+      "published_iso": "2026-10-26T22:51:17+00:00",
+      "og_image": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg",
+      "excerpt": "The Pentagon issued non-binding acquisition guidance, with templates and sample contract language, for buying AI that meets the administration's 'truth-seeking' and 'ideological neutrality' principles under EO 14319 and OMB memo M-26-04.",
+      "rationale": "Official procurement release with sample contract language; it changes what vendors selling AI to DoD must show."
     },
     {
-      "rank": 2,
-      "title": "Italy's AI Act framework takes shape: Legislative Decree No. 179/2026",
-      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
-      "source": "IAPP",
-      "published_iso": "2026-10-26T15:54:35Z",
-      "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg",
-      "excerpt": "IAPP explains Italy's implementing decree for the EU AI Act - designated authorities, sanctions and new workplace rules requiring a human decision-maker for AI-driven hiring and firing.",
-      "axis": "policy",
       "tool": "Politics",
+      "category": "politics",
+      "subtopic": "policy_regulation",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "This is national implementation of the EU AI Act, via an adopted legislative decree. It names the enforcement authorities and sanctions and requires a human decision-maker for AI hiring and firing. No Italy implementation story has run before."
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source": "WIRED",
+      "published_iso": "2026-10-29T18:39:43+00:00",
+      "og_image": "https://media.wired.com/photos/6ae113e3b0a8ac98a8d177dc/191:100/w_1280,c_limit/102726-department-of-defense-ai-agent.jpg",
+      "excerpt": "Sources tell WIRED that an Accenture employee's personal Claude agent ran on a DOD network for two months before it was found and the vulnerability patched. The case raises questions about agent-access policy in government systems.",
+      "rationale": "New incident that puts agent-access policy for government networks on the table; attribute details to WIRED's sources."
     },
     {
-      "rank": 3,
-      "title": "Pakistan's Election Commission proposes 12 code-of-conduct amendments to curb AI misuse and deepfakes in polls",
-      "url": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
-      "source": "The Express Tribune",
-      "published_iso": "2026-10-26T06:48:23Z",
-      "og_image": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-      "excerpt": "The ECP draft would require media to disclose AI-generated or modified content, prohibit deceptive deepfakes by parties and candidates, and is open for public comment until Nov 20.",
-      "axis": "elections",
       "tool": "Politics",
+      "category": "politics",
+      "subtopic": "geopolitics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Elections axis: a national electoral body has released draft rules requiring AI-content disclosure and banning deceptive deepfakes, with comments open until Nov 20. It is an official rulemaking step outside the US and EU."
+      "title": "Austria pitches for United Nations AI security centre in Vienna",
+      "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
+      "source": "Rapporteur (Euractiv)",
+      "published_iso": "2026-10-29T11:53:09+00:00",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+      "excerpt": "At a 31-country virtual meeting on frontier-AI control co-hosted by Norway and Finland, Austria proposed a UN AI centre in Vienna and Singapore floated an incident-reporting pilot. An expert-level process will continue, apparently without the US or China taking part.",
+      "rationale": "New multilateral governance proposals (UN centre, incident-reporting pilot) from a 31-country meeting; geopolitics axis."
     },
     {
-      "rank": 4,
-      "title": "Disinformation videos, likely from Russia, use AI and real people's identities to malign Senate candidates",
-      "url": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
-      "source": "Associated Press (via Pioneer Press)",
-      "published_iso": "2026-10-28T15:14:21Z",
-      "og_image": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg?w=2000&h=1333",
-      "excerpt": "AP reports a network of AI-fabricated videos, attributed by researchers to likely Russian origin, that hijack real Americans' identities to target two Democratic Senate candidates days before the midterms.",
-      "axis": "elections",
       "tool": "Politics",
+      "category": "politics",
+      "subtopic": "policy_regulation",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Elections axis: AP wire reporting on a specific, newly identified AI-video influence network before the midterms. Copy must attribute the Russian origin to the researchers who made that assessment and must not frame the story around the targeted candidates' party."
+      "title": "Frontier AI one of greatest threats to Canadians as Ottawa releases national security strategy",
+      "url": "https://nationalpost.com/news/frontier-ai-one-of-greatest-threats-to-canadians-as-ottawa-releases-national-security-strategy",
+      "source": "National Post",
+      "published_iso": "2026-10-29T15:25:18+00:00",
+      "og_image": null,
+      "excerpt": "Canada released its first national security strategy in more than two decades, 'The Plan for a Stronger Canada'. Officials named frontier AI models among the greatest current threats, and the plan promises more intelligence and cyber-defence capability.",
+      "rationale": "Official national strategy that names frontier AI as a top threat; the single Canada pick out of three Canada items this cycle."
     },
     {
-      "rank": 5,
-      "title": "Malaysia customs seizes US$12.1M of advanced AI chips in 30 servers at KL airport",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
-      "source": "CNA",
-      "published_iso": "2026-10-28T05:52:00Z",
-      "og_image": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-      "excerpt": "Malaysian customs intercepted servers carrying advanced AI chips suspected of violating the country's export controls on US-origin high-performance chips; investigators are probing a suspected smuggling network.",
-      "axis": "geopolitics",
       "tool": "Politics",
-      "accent": "#f5a623",
+      "category": "politics",
+      "subtopic": "elections_public_opinion",
+      "accent": "#ff5a4d",
       "motif": "cube",
-      "rationale": "Geopolitics axis: a new enforcement action, with Malaysia applying its own export controls on US-origin AI chips at a transshipment hub. It is a separate event from the 10-02 DOJ California smuggling arrest and the 10-20 Taiwan server-export law."
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "source": "Ars Technica",
+      "published_iso": "2026-10-28T17:46:32+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
+      "excerpt": "Days before the US midterms, Google's AI answers dodge the question of who won the 2020 US election, though they are more forthright when asked from outside the US.",
+      "rationale": "Elections axis: a measurable AI-answer behaviour days before the midterms; report the observed answers without partisan framing."
     }
   ],
   "dedup": {
     "checks": {
-      "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby": {
+      "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "nearest": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
         "new_action": ""
       },
-      "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations": {
+      "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/": {
         "verdict": "new",
-        "nearest": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance",
+        "nearest": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
         "new_action": ""
       },
-      "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls": {
+      "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/": {
         "verdict": "new",
-        "nearest": "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
+        "nearest": "https://apnews.com/article/un-artificial-intelligence-military-china-us-e0a3c48c91a9de89cab72609d185f658",
         "new_action": ""
       },
-      "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/": {
+      "https://nationalpost.com/news/frontier-ai-one-of-greatest-threats-to-canadians-as-ottawa-releases-national-security-strategy": {
+        "verdict": "new",
+        "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+        "new_action": ""
+      },
+      "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/": {
         "verdict": "new",
         "nearest": "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
         "new_action": ""
-      },
-      "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976": {
-        "verdict": "new",
-        "nearest": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
-        "new_action": ""
       }
     },
-    "note": "Pool 22, picks 5, outlets 5 (NY Governor, IAPP, Express Tribune, AP/Pioneer Press, CNA); axes: policy x2, elections x2, geopolitics x1. DROPPED AS DUPLICATES / RUNNING STORIES: Rapporteur Spain Sanchez-wife deepfake suit (likely-repeat of the 10-26 Guardian card; the filing is new, but the body is Cloudflare-blocked and unverifiable, so it was held out rather than kept as a follow-up); WIRED Home Office GPT-4 asylum tools (watchdog only weighing a probe, no decision; follow-up to the 10-14 Register card, already dropped 10-28); WIRED Jess Asato interview (interview, no filing reported; already dropped 10-28); Nextgov ARI proposal and Register UK datacentre-meeting records (passed on 10-28, think-tank/records analysis). DEFERRED TO BOOKS: Stanford Daily authors v. Anthropic (copyright litigation, not a policy ruling). PASSED ON SCORE: OpenAI Election Operations Center (Verge; strong runner-up 1, company announcement; nearest 10-24 techpolicy.press deepfakes, related only), Australia Digital Duty of Care chatbot-intimacy ban (Guardian; runner-up 2, lower house only and overlaps the NY minors-chatbot pick thematically), Guardian UK vapes-consultation AI astroturf (runner-up 3), noyb GDPR complaints vs Scale AI (Register; runner-up 4), GSA OneGov Claude pricing (procurement terms, close to business noise), FedScoop DualChem (CAISI chemistry-risk benchmark, science/biosecurity-adjacent), Guardian xAI Mississippi home-buyout claims, Lawfare/Tech Policy Press/Brookings analyses, Yonhap FKI AI Basic Act industry petition (not an official decision). Cross-section: the curator has no grep tool. The orchestrator should exact-grep these 5 URLs plus 'Hochul', 'S.9051', '179/2026', 'ECP', 'twincities', and 'Malaysia customs' across all sections in published_urls.json before roll. Hochul og_image is null and needs an in-article image from ax-media."
+    "note": "Dropped: Sanchez wife deepfake suit (Rapporteur). It is a likely-repeat of the 10-26 Guardian story; the new filing qualifies as a follow-up, but fresh stories ranked higher. UK Home Office possible probe (WIRED): only a 'may face' investigation, a follow-up to the 10-14 Register asylum-AI story with no decision yet. FPF NY/CA chatbot analysis: commentary on the NY law published 10-29. Lawfare chip-leverage piece: commentary in the running DUV-controls thread (10-18). Carney C$1.6B Cohere stake: funding/AI-business noise and part of the same Canada-EU summit cluster as the supercomputer item; one Canada pick kept (the national security strategy). Canada joins EU supercomputer network: same summit cluster. Jess Asato v xAI: interview format, no dated filing. Florida AG A2E suit: the URL slug (Osceola predator charges) does not match the A2E headline, so the source is unverified. Lower-ranked but fresh and unused: noyb GDPR complaints vs Scale AI (Register), FTC 6(b) personalized-pricing orders (IAPP; borders on marketing), House letter on military AI use (FedScoop), Texas data-center voters (Verge), Trump/Nvidia spy report (Ars; contested claims), CJR Tow tracker. Outlets in the final 5: Federal News Network, WIRED, Rapporteur, National Post, Ars Technica (1 each). Cross-section: published_urls.json is too large to read in full with Read-only tools (no grep), so only the politics history_digest was checked exactly. The picks are defense, UN, Canadian security and election-answer stories, which are unlikely to have run in another section, but the orchestrator should exact-grep these 5 URLs before roll."
   }
 }

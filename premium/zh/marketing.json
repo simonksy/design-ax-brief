@@ -2872,6 +2872,163 @@
           "x": "New York的合成表演者披露法自2026年6月9日起适用，EU AI Act第50条（Article 50）自2026年8月2日起适用。此外，这份报告出自一家与结论有直接商业利益关系的供应商。"
         }
       ]
+    },
+    "marketing/google-aimode-sponsored-blend": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google似乎正在测试在AI Mode的自然商品结果中混入赞助商品，也就是广告。商品结果上方有一行字，可能显示“Sponsored”和“All products”。即便看着这些截图，我也不确定“All products”是否属于赞助商品。"
+        },
+        {
+          "t": "p",
+          "x": "我确认这确实是Google正在AI Mode中进行的一项“实验”。一位Google发言人告诉我：“是的，这种形式是我们在AI Mode中持续进行的广告实验的一部分。对于具有商业相关性的查询，Shopping Ads可能会在轮播中与自然视觉搜索结果一同出现。所有赞助商品均标注为‘Sponsored’。”"
+        },
+        {
+          "t": "p",
+          "x": "这一情况由Sachin Patel发现，他在SEW上发布了截图，以下就是这些截图。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+          "cap": "Sponsored与All products标题"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products-j1nCXxCL.webp",
+          "cap": "Sponsored与All products标题"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-all-products-YbqqHJTF.webp",
+          "cap": "仅有All products标题"
+        },
+        {
+          "t": "p",
+          "x": "Google再次告诉我：“对于具有商业相关性的查询，Shopping Ads可能会在轮播中与自然视觉搜索结果一同出现。所有赞助商品均标注为‘Sponsored’。”"
+        },
+        {
+          "t": "p",
+          "x": "早在2023年10月，Google就确认将广告与自然结果混排，此后再未回头。Google称之为动态广告投放。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-organic-blend-7BE0ULsU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "所以我想，Google在AI Mode中也这样做是说得通的。"
+        }
+      ]
+    },
+    "marketing/triton-otrium-seller-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg",
+          "cap": "AI智能体经由Triton在数分钟内预订了Otrium在Talpa Media的音频广告活动，规则由人类事先设定"
+        },
+        {
+          "t": "p",
+          "x": "Triton Digital表示，一个代表品牌Otrium进行采购的AI智能体，通过Triton新推出的Seller Agent，找到荷兰出版商Talpa Media的音频库存、商定条款并完成预订，从简报到预订之间没有任何人工步骤。Triton称这是音频行业的首例。Draft Digital担任代理商。"
+        },
+        {
+          "t": "p",
+          "x": "该智能体识别出符合广告活动简报的音频产品，两个系统就可用性和条款达成一致，广告活动随即在广告服务器中自动预订。Triton称这笔交易“所需时间大幅缩短——几分钟而非几天”，但未披露实际耗时、价格、预算或广告活动规模。"
+        },
+        {
+          "t": "p",
+          "x": "Seller Agent是“构建于Triton Ad Platform（TAP）之上的一项新的智能体能力”。在智能体采取行动之前，Triton和代理商团队设定了条款、定价护栏，以及数据、隐私和广告活动验证标准。新闻稿称：“Agent-to-agent执行并不会消除这种问责，而是把审核提前了。”"
+        },
+        {
+          "t": "p",
+          "x": "Triton将这笔交易与其作为AgenticAdvertising.org创始成员的身份联系起来，该组织负责管理Advertising Context Protocol（AdCP），但Triton并未说明此次预订是否经由AdCP完成。Triton Digital的Chief Product Officer Benjamin Masse表示：“音频没有效果问题，它有的是分配问题。”"
+        }
+      ]
+    },
+    "marketing/tatari-ctv-ad-matching-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
+        },
+        {
+          "t": "p",
+          "x": "CTV广告平台Tatari于周四宣布推出Tatari Max，这是一款位于广告服务器层面的优化引擎，帮助品牌和发布商决定向哪些受众投放哪些TV广告。"
+        },
+        {
+          "t": "p",
+          "x": "Tatari CEO兼Co-Founder Philip Inghelbrecht坚称，该产品与智能体AI相去甚远：它依靠随新数据出现而不断演进的机器学习。它利用设备IDs、购物行为和人口统计信息等信号，判断哪些人对特定广告反应最好，并计算出“亲和度分数”。"
+        },
+        {
+          "t": "p",
+          "x": "早期测试者Rhoback为女性运动服新系列投放Hulu广告，在为期一个月的测试中，购买量增长32%，网站访问量增长10%。"
+        },
+        {
+          "t": "p",
+          "x": "Tatari Max构建于Tatari的供应端技术栈Upstream之上。Upstream接入Paramount、Peacock和Disney等优质TV发布商，还能看到仅限直售的库存，这与只连接自家库存的Meta Advantage Plus和Google Performance Max不同。"
+        },
+        {
+          "t": "p",
+          "x": "就字幕应用Rylo而言，Tatari Max发现反应最好的人往往是家庭中较年轻的成员，如成年子女或照护者，而证言类广告在他们当中效果最好。"
+        }
+      ]
+    },
+    "marketing/vab-ai-slop-ad-spend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg",
+          "cap": "广告资金涌入一台自动打字的打字机，VAB估算US在AI垃圾内容上的支出最高达$978.7M"
+        },
+        {
+          "t": "p",
+          "x": "Video Advertising Bureau向会员和营销人员发送了一份题为“More Illusions of the Internet”的25页补充材料，新增了12项关于恶意机器人、社交媒体虚假粉丝、广告欺诈、AI-generated内容和消费者诈骗的统计数据。这份材料没有包含VAB的任何新研究。"
+        },
+        {
+          "t": "p",
+          "x": "材料中最醒目的广告数字，即US在AI垃圾内容上的程序化支出介于$530.1M 至$978.7M 之间，是VAB自己相乘得出的：ANA发现，在Q1 2026，AI垃圾内容占开放网络程序化支出的1.3%至2.4%，再乘以eMarketer预测的2025年US程序化数字展示广告支出$40.78B 。"
+        },
+        {
+          "t": "p",
+          "x": "ANA将AI垃圾内容定义为“主要为变现而生成、几乎或完全没有人类投入、原创性或受众价值”的内容。垃圾内容库存有超过70%的时间被评为优质，其可见度为77.2%，而干净供应为74.9%。"
+        },
+        {
+          "t": "p",
+          "x": "材料还引用了Thales的数据，称2025年恶意机器人产生了全球互联网流量的40%；此外还引用了SociaVault关于虚假粉丝的$4.6B 数字，而该数字无法由其自身脚注算出。"
+        }
+      ]
+    },
+    "marketing/aimodeads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "我们正将AI Mode广告引入新的国家。"
+        },
+        {
+          "t": "p",
+          "x": "随着AI改变人们的搜索方式，查询正变得越来越口语化。在AI Mode中，查询平均比传统搜索长三倍。AI帮助我们更好地理解人们在寻找什么，从而把他们与最符合需求的商家和服务联系起来。"
+        },
+        {
+          "t": "p",
+          "x": "我们的研究显示，人们能够接受AI Mode中的广告，并认为其相关性很高。事实上，在AI Mode中，赞助商品列表与自然商品列表的点击率已经相近。"
+        },
+        {
+          "t": "p",
+          "x": "现在，我们正在澳大利亚、加拿大、印度、肯尼亚、马来西亚、新西兰、尼日利亚、巴基斯坦、菲律宾和新加坡扩大AI Mode广告。我们计划在Q4 2026扩展到更多地区，包括巴西、墨西哥和英国。"
+        },
+        {
+          "t": "p",
+          "x": "为了在AI Mode的后续查询中展示广告，我们将在U.S.推出多轮对话广告。"
+        },
+        {
+          "t": "p",
+          "x": "广告将清楚标注为“Sponsored”。我们将继续测试新的形式，确保广告始终有用且相关。"
+        }
+      ]
     }
   }
 }

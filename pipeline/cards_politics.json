@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "politics",
   "cards": [
     {
-      "id": "hochul-chatbots",
+      "id": "dod-unbiased-ai-procurement",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "뉴욕주, 미성년자 대상\nAI 챗봇 기능 제한",
-      "body": "챗봇이 미성년자에게 사람·연인 행세하면 AG가 건당 최대 $25,000를 물린다.",
-      "mini_headline": "NY, 미성년자 대상 AI 챗봇 제한",
+      "headline": "펜타곤, '편향 없는'\nAI 구매 지침 발표",
+      "body": "펜타곤이 트럼프의 AI 중립 명령을 따라 AI 구매용 비구속 서식과 예문을 냈다.",
+      "mini_headline": "펜타곤, '편향 없는' AI 지침",
       "tool": "Politics",
-      "source": "New York Governor's Office",
-      "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+      "source": "Federal News Network",
+      "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,203 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-            "cap": "연단에서 발언하는 호컬(Hochul) 주지사."
+            "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
           },
           {
             "t": "p",
-            "x": "캐시 호컬(Kathy Hochul) 주지사가 AI 챗봇과 인터넷 연결형 베이비 모니터 법안 두 건에 서명했다. S.9051B/A.10379C는 AI 챗봇 기능을 쓰는 기업이 미성년자에게 안전하지 않은 기능을 내놓지 못하게 막는다. 사람인 척하거나 정서적 의존을 키우거나 자해를 부추기거나 성적으로 노골적인 대화를 하는 챗봇이 대상이다."
+            "x": "국방부(Defense Department)가 계약·사업 담당 인력에게 새 지침을 내놓았다. 펜타곤이 사들이는 AI 시스템이 트럼프(Trump) 행정부가 내세운 “진실 추구”와 “이념적 중립성” 조달 원칙을 따르게 하려는 취지다. 발표는 국방 가격·계약·획득 정책 담당 수석국장 존 테날리아(John Tenaglia)가 맡았다."
           },
           {
             "t": "p",
-            "x": "18세 미만 이용자, 그리고 미성년자가 아니라는 확인을 거치지 않은 이용자에게는 다음 기능을 제공할 수 없다. 실제 사람이거나 살아 있거나 인간의 감정을 지닌 척하는 것, 아동과 개인적·연애·직업적 관계나 권위자 관계를 맺었다고 주장하는 것, 자살·자해·섭식장애·약물·음주를 조장하는 것, 성적으로 노골적인 콘텐츠 전부다."
+            "x": "트럼프가 지난 7월 서명한 행정명령과 이후 나온 관리예산처(Office of Management and Budget) 메모에 따른 조치다. 행정명령은 기관이 사들이는 대규모 언어 모델을 “중립적이고 초당파적인 도구”로 만들라고 요구한다. 테날리아는 행정명령과 메모는 반드시 지켜야 하지만 새 문서는 “지침으로만” 마련됐으며 “편향 없는 AI 원칙을 문서화하고, 요청하고, 집행하는 표준화된 접근법”을 제시한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "연령 확인은 두 가지 이상 방법으로 해야 하고 그중 하나 이상은 정부 발급 ID에만 기대지 않는 방식이어야 한다. 확인에 쓴 연령 정보는 지워야 한다. 법무장관은 위반 건당 최대 $25,000의 민사 벌금을 청구할 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "3Kza_uwnviw"
+            "x": "서식에는 투명성·문서화 요건을 고를 때 쓸 메모, 기업이 내야 할 문서를 정한 표준 입찰 요청 문구, 작업기술서(statement of work)에 넣을 공식 계약 문구가 담겼다. DoD 산하 기관은 개별 요건에 맞춰 문구를 고쳐 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "호컬은 “어떤 기업도 아이들에게 자해를 부추기거나 친구, 혹은 그 이상인 척하는 챗봇을 팔아서는 안 된다”고 말했다. 법안을 발의한 알렉스 보어스(Alex Bores) 주 하원의원은 “업계의 공격적인 반대에도 불구하고” 주가 이 법을 통과시켰다고 했다. 두 번째 법안 S.9508/A.5175A는 인터넷 연결형 베이비 모니터에 보안 기능과 경고 라벨을 의무화한다."
+            "x": "지미 패트로니스(Jimmy Patronis) 하원의원(R-Fla.)은 이 행정명령을 법으로 명문화하려 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "New York law limits AI\nchatbot features for minors",
-          "body": "New York chatbots may not claim to be human or a romantic partner to minors, with AG fines up to $25,000 per violation.",
-          "mini_headline": "NY limits AI chatbots for minors",
+          "headline": "Pentagon issues guidance on\nbuying 'unbiased' AI",
+          "body": "The Pentagon issued non-binding templates and sample contract language for AI buys under Trump's AI neutrality order.",
+          "mini_headline": "Pentagon guidance on 'unbiased' AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "Governor Hochul speaking at a podium."
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "Governor Kathy Hochul signed two bills on AI chatbots and internet-connected baby monitors. S.9051B/A.10379C prohibits companies that utilize AI chatbot features from offering unsafe features to minors, including chatbots that pretend to be human, build emotional dependency, encourage self-harm or engage in sexually explicit conversations."
+                "x": "The Defense Department has issued new guidance for contracting and program personnel to ensure that AI systems the Pentagon buys adhere to what the Trump administration labels “truth-seeking” and “ideological neutrality” procurement principles. The directive was issued by John Tenaglia, principal director for defense pricing, contracting and acquisition policy."
               },
               {
                 "t": "p",
-                "x": "Companies may not offer these features to users under 18, or to any user unless they have first confirmed the user is not a minor: pretending to be a real person, to be alive or to have human emotions; claiming a personal, romantic, professional or authority-figure relationship with a child; promoting suicide, self harm, eating disorders or drug and alcohol use; and any sexually explicit content."
+                "x": "It follows an executive order Trump signed last July requiring agencies to ensure the large language models they purchase are “neutral, nonpartisan tools,” and a later Office of Management and Budget memo. Tenaglia said compliance with the order and memo is mandatory, but the new document is intended “as guidance only,” offering “a standardized approach to documenting, soliciting and enforcing the unbiased AI principles.”"
               },
               {
                 "t": "p",
-                "x": "Companies must conduct age verification with more than one method, including at least one that does not depend solely on a government ID, and delete age information after use. The attorney general can seek civil penalties of up to $25,000 per violation."
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "The templates include a memo for selecting transparency and documentation requirements, standardized solicitation language on the documentation companies must provide, and formal contract language for the statement of work. DoD components can revise or tailor the language to fit individual requirements."
               },
               {
                 "t": "p",
-                "x": "“No company should be peddling chatbots to kids encouraging self-harm or pretending to be their friend or more,” Hochul said. Assemblymember Alex Bores, a sponsor, said the state passed the law “despite aggressive industry opposition.” A second bill, S.9508/A.5175A, requires security features and warning labels on internet-connected baby monitors."
+                "x": "Rep. Jimmy Patronis (R-Fla.) is looking to codify the executive order into law."
               }
             ]
           }
         },
         "ko": {
-          "headline": "뉴욕주, 미성년자 대상\nAI 챗봇 기능 제한",
-          "body": "챗봇이 미성년자에게 사람·연인 행세하면 AG가 건당 최대 $25,000를 물린다.",
-          "mini_headline": "NY, 미성년자 대상 AI 챗봇 제한",
+          "headline": "펜타곤, '편향 없는'\nAI 구매 지침 발표",
+          "body": "펜타곤이 트럼프의 AI 중립 명령을 따라 AI 구매용 비구속 서식과 예문을 냈다.",
+          "mini_headline": "펜타곤, '편향 없는' AI 지침",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "연단에서 발언하는 호컬(Hochul) 주지사."
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "캐시 호컬(Kathy Hochul) 주지사가 AI 챗봇과 인터넷 연결형 베이비 모니터 법안 두 건에 서명했다. S.9051B/A.10379C는 AI 챗봇 기능을 쓰는 기업이 미성년자에게 안전하지 않은 기능을 내놓지 못하게 막는다. 사람인 척하거나 정서적 의존을 키우거나 자해를 부추기거나 성적으로 노골적인 대화를 하는 챗봇이 대상이다."
+                "x": "국방부(Defense Department)가 계약·사업 담당 인력에게 새 지침을 내놓았다. 펜타곤이 사들이는 AI 시스템이 트럼프(Trump) 행정부가 내세운 “진실 추구”와 “이념적 중립성” 조달 원칙을 따르게 하려는 취지다. 발표는 국방 가격·계약·획득 정책 담당 수석국장 존 테날리아(John Tenaglia)가 맡았다."
               },
               {
                 "t": "p",
-                "x": "18세 미만 이용자, 그리고 미성년자가 아니라는 확인을 거치지 않은 이용자에게는 다음 기능을 제공할 수 없다. 실제 사람이거나 살아 있거나 인간의 감정을 지닌 척하는 것, 아동과 개인적·연애·직업적 관계나 권위자 관계를 맺었다고 주장하는 것, 자살·자해·섭식장애·약물·음주를 조장하는 것, 성적으로 노골적인 콘텐츠 전부다."
+                "x": "트럼프가 지난 7월 서명한 행정명령과 이후 나온 관리예산처(Office of Management and Budget) 메모에 따른 조치다. 행정명령은 기관이 사들이는 대규모 언어 모델을 “중립적이고 초당파적인 도구”로 만들라고 요구한다. 테날리아는 행정명령과 메모는 반드시 지켜야 하지만 새 문서는 “지침으로만” 마련됐으며 “편향 없는 AI 원칙을 문서화하고, 요청하고, 집행하는 표준화된 접근법”을 제시한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "연령 확인은 두 가지 이상 방법으로 해야 하고 그중 하나 이상은 정부 발급 ID에만 기대지 않는 방식이어야 한다. 확인에 쓴 연령 정보는 지워야 한다. 법무장관은 위반 건당 최대 $25,000의 민사 벌금을 청구할 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "서식에는 투명성·문서화 요건을 고를 때 쓸 메모, 기업이 내야 할 문서를 정한 표준 입찰 요청 문구, 작업기술서(statement of work)에 넣을 공식 계약 문구가 담겼다. DoD 산하 기관은 개별 요건에 맞춰 문구를 고쳐 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "호컬은 “어떤 기업도 아이들에게 자해를 부추기거나 친구, 혹은 그 이상인 척하는 챗봇을 팔아서는 안 된다”고 말했다. 법안을 발의한 알렉스 보어스(Alex Bores) 주 하원의원은 “업계의 공격적인 반대에도 불구하고” 주가 이 법을 통과시켰다고 했다. 두 번째 법안 S.9508/A.5175A는 인터넷 연결형 베이비 모니터에 보안 기능과 경고 라벨을 의무화한다."
+                "x": "지미 패트로니스(Jimmy Patronis) 하원의원(R-Fla.)은 이 행정명령을 법으로 명문화하려 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューヨーク州法が未成年向け\nAIチャットボット機能を制限",
-          "body": "NY州のチャットボットは未成年に人や恋人を装えず、AGは違反毎に最大$25,000を科す。",
-          "mini_headline": "NY州、未成年向けAIチャットボットを制限",
+          "headline": "国防総省、「偏りない」\nAI調達の指針を公表",
+          "body": "国防総省はトランプ氏のAI中立令に基づき、AI調達の拘束力のない書式と契約文例を示した。",
+          "mini_headline": "国防総省、「偏りない」AIの指針",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "演台で話すホークル(Hochul)知事。"
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "キャシー・ホークル(Kathy Hochul)知事は、AIチャットボットとインターネット接続型ベビーモニターに関する二つの法案に署名した。S.9051B/A.10379Cは、AIチャットボット機能を利用する企業が未成年者に安全でない機能を提供することを禁じる。人間のふりをする、感情的な依存を生む、自傷を促す、性的に露骨な会話をするといったチャットボットが対象だ。"
+                "x": "国防総省(Defense Department)は、同省が購入するAIシステムがトランプ(Trump)政権の掲げる「真実の追求」と「イデオロギー的中立」という調達原則に沿うよう、契約・プログラム担当者向けの新たな指針を出した。指令を出したのは、国防価格・契約・調達政策担当の首席ディレクター、ジョン・テナリア(John Tenaglia)氏である。"
               },
               {
                 "t": "p",
-                "x": "企業は18歳未満の利用者に対し、また未成年でないことを事前に確認していない利用者に対しても、次の機能を提供してはならない。実在の人物である、生きている、人間の感情を持つと装うこと。子どもとの個人的、恋愛的、職業的、または権威者としての関係を主張すること。自殺、自傷、摂食障害、薬物や飲酒を助長すること。そして性的に露骨なあらゆるコンテンツである。"
+                "x": "これは、各機関が購入する大規模言語モデルを「中立で超党派的なツール」とするよう求めて先の7月にトランプ氏が署名した大統領令と、その後の行政管理予算局(Office of Management and Budget)のメモを受けたものだ。テナリア氏は、大統領令とメモの順守は義務だが、新文書は「指針としてのみ」意図されたもので、「偏りのないAI原則を文書化し、求め、執行するための標準化された手法」を示すものだと述べた。"
               },
               {
                 "t": "p",
-                "x": "企業は複数の方法で年齢確認を行う必要があり、そのうち少なくとも一つは政府発行のIDだけに依存しない方法でなければならない。年齢情報は使用後に削除する。司法長官は違反ごとに最大$25,000の民事制裁金を求めることができる。"
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "テンプレートには、透明性と文書化の要件を選ぶためのメモ、企業が提出すべき文書に関する標準的な募集文言、作業範囲記述書(statement of work)向けの正式な契約文言が含まれる。DoDの各部局は、個別の要件に合わせて文言を修正・調整できる。"
               },
               {
                 "t": "p",
-                "x": "「自傷を促したり、友人やそれ以上の存在を装ったりするチャットボットを子どもに売りつける企業があってはならない」とホークル氏は述べた。法案提出者の一人であるアレックス・ボアーズ(Alex Bores)州下院議員は、州が「業界の激しい反対にもかかわらず」この法律を成立させたと語った。二つ目の法案S.9508/A.5175Aは、インターネット接続型ベビーモニターにセキュリティ機能と警告ラベルを義務づける。"
+                "x": "ジミー・パトロニス(Jimmy Patronis)下院議員(R-Fla.)は、この大統領令の法制化を目指している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纽约州立法限制面向\n未成年人的AI聊天机器人功能",
-          "body": "纽约州聊天机器人不得向未成年人冒充真人或恋人，AG可对每次违规处以最高$25,000罚款。",
-          "mini_headline": "NY限制面向未成年人的AI聊天机器人",
+          "headline": "五角大楼发布\n“无偏见”AI采购指南",
+          "body": "五角大楼依据特朗普AI中立行政令，为AI采购发布了不具约束力的模板和合同范本。",
+          "mini_headline": "五角大楼“无偏见”AI指南",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "霍楚尔(Hochul)州长在讲台上发言。"
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "州长凯西·霍楚尔(Kathy Hochul)签署了两项关于AI聊天机器人和联网婴儿监视器的法案。S.9051B/A.10379C禁止使用AI聊天机器人功能的公司向未成年人提供不安全的功能，包括假装是人类、培养情感依赖、鼓励自残或进行露骨性对话的聊天机器人。"
+                "x": "国防部(Defense Department)发布新指南，要求合同和项目人员确保五角大楼采购的AI系统符合特朗普(Trump)政府所称的“求真”与“意识形态中立”采购原则。该指令由国防定价、合同与采办政策首席主任约翰·特纳利亚(John Tenaglia)签发。"
               },
               {
                 "t": "p",
-                "x": "公司不得向18岁以下用户提供以下功能，也不得向任何未经事先确认并非未成年人的用户提供：假装是真人、有生命或拥有人类情感；声称与儿童存在个人、恋爱、职业或权威人物关系；宣扬自杀、自残、饮食失调或吸毒酗酒；以及任何露骨的色情内容。"
+                "x": "此前，特朗普于7月签署行政令，要求各机构确保其采购的大语言模型是“中立、无党派的工具”，随后管理和预算办公室(Office of Management and Budget)又发布了相关备忘录。特纳利亚表示，遵守该行政令和备忘录是强制性的，但新文件“仅作为指导”，提供“一种记录、征求和执行无偏见AI原则的标准化方法”。"
               },
               {
                 "t": "p",
-                "x": "公司必须采用不止一种方法进行年龄验证，其中至少一种不能仅依赖政府签发的ID，并须在使用后删除年龄信息。总检察长可对每次违规寻求最高$25,000的民事罚款。"
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "这些模板包括一份用于选定透明度和文档要求的备忘录、关于企业须提供文档的标准化招标文本，以及用于工作说明书(statement of work)的正式合同文本。DoD各部门可根据具体需求修改或调整这些文本。"
               },
               {
                 "t": "p",
-                "x": "霍楚尔表示：“任何公司都不应向孩子兜售鼓励自残或假装是他们朋友乃至更亲密关系的聊天机器人。”法案提案人之一、州众议员亚历克斯·博雷斯(Alex Bores)表示，该州“顶着业界的强烈反对”通过了这项法律。第二项法案S.9508/A.5175A要求联网婴儿监视器配备安全功能和警告标签。"
+                "x": "众议员吉米·帕特罗尼斯(Jimmy Patronis，R-Fla.)正寻求将该行政令写入法律。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva York limita funciones de\nchatbots de AI para menores",
-          "body": "Los chatbots de Nueva York no podrán fingirse humanos o pareja de menores; el AG multará hasta $25,000 por infracción.",
-          "mini_headline": "NY limita los chatbots de AI para menores",
+          "headline": "El Pentágono emite guía para\ncomprar AI 'sin sesgos'",
+          "body": "El Pentágono emitió plantillas no vinculantes y cláusulas modelo para comprar AI bajo la orden de neutralidad de Trump.",
+          "mini_headline": "Guía del Pentágono sobre AI 'sin sesgos'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "La gobernadora Hochul habla en un podio."
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "La gobernadora Kathy Hochul firmó dos proyectos de ley sobre chatbots de AI y monitores para bebés conectados a internet. La S.9051B/A.10379C prohíbe a las empresas que utilizan funciones de chatbot de AI ofrecer funciones inseguras a menores, incluidos chatbots que se hacen pasar por humanos, generan dependencia emocional, fomentan las autolesiones o mantienen conversaciones sexualmente explícitas."
+                "x": "El Departamento de Defensa emitió una nueva guía para el personal de contratación y de programas con el fin de garantizar que los sistemas de AI que compra el Pentágono se ajusten a lo que el gobierno de Trump denomina principios de adquisición de “búsqueda de la verdad” y “neutralidad ideológica”. La directiva la emitió John Tenaglia, director principal de política de precios, contratación y adquisiciones de defensa."
               },
               {
                 "t": "p",
-                "x": "Las empresas no podrán ofrecer estas funciones a usuarios menores de 18 años, ni a ningún usuario sin haber confirmado antes que no es menor de edad: hacerse pasar por una persona real, por un ser vivo o por alguien con emociones humanas; afirmar una relación personal, romántica, profesional o de figura de autoridad con un niño; promover el suicidio, las autolesiones, los trastornos alimentarios o el consumo de drogas y alcohol; y cualquier contenido sexualmente explícito."
+                "x": "Llega tras una orden ejecutiva que Trump firmó el pasado julio, que exige a las agencias garantizar que los grandes modelos de lenguaje que compran sean “herramientas neutrales y no partidistas”, y tras un memorando posterior de la Oficina de Administración y Presupuesto (Office of Management and Budget). Tenaglia afirmó que cumplir la orden y el memorando es obligatorio, pero que el nuevo documento tiene carácter “solo orientativo” y ofrece “un enfoque estandarizado para documentar, solicitar y hacer cumplir los principios de AI sin sesgos”."
               },
               {
                 "t": "p",
-                "x": "Las empresas deberán verificar la edad con más de un método, incluido al menos uno que no dependa únicamente de un ID oficial, y borrar la información de edad tras usarla. El fiscal general podrá solicitar sanciones civiles de hasta $25,000 por infracción."
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "Las plantillas incluyen un memorando para seleccionar requisitos de transparencia y documentación, un texto de solicitud estandarizado sobre la documentación que deben aportar las empresas y cláusulas contractuales formales para la declaración de trabajo (statement of work). Los componentes del DoD pueden revisar o adaptar el texto a cada necesidad."
               },
               {
                 "t": "p",
-                "x": "“Ninguna empresa debería vender a los niños chatbots que fomenten las autolesiones o finjan ser su amigo o algo más”, dijo Hochul. El asambleísta Alex Bores, uno de los promotores, afirmó que el estado aprobó la ley “pese a la agresiva oposición de la industria”. Un segundo proyecto, S.9508/A.5175A, exige funciones de seguridad y etiquetas de advertencia en los monitores para bebés conectados a internet."
+                "x": "El representante Jimmy Patronis (R-Fla.) busca convertir la orden ejecutiva en ley."
               }
             ]
           }
@@ -223,141 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "뉴욕주, 미성년자 대상\nAI 챗봇 기능 제한",
-          "body": "챗봇이 미성년자에게 사람·연인 행세하면 AG가 건당 최대 $25,000를 물린다.",
-          "mini_headline": "NY, 미성년자 대상 AI 챗봇 제한",
+          "headline": "펜타곤, '편향 없는'\nAI 구매 지침 발표",
+          "body": "펜타곤이 트럼프 AI 중립 명령에 따라 AI 구매용 비구속 서식·예문을 냈다.",
+          "mini_headline": "펜타곤, '편향 없는' AI 지침",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "연단에서 발언하는 호컬(Hochul) 주지사."
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "캐시 호컬(Kathy Hochul) 주지사가 AI 챗봇과 인터넷 연결형 베이비 모니터에 관한 법안 두 건에 서명했다. S.9051B/A.10379C는 AI 챗봇 기능을 활용하는 기업이 미성년자에게 안전하지 않은 기능을 제공하지 못하게 한다. 사람인 척하거나, 정서적 의존을 키우거나, 자해를 부추기거나, 성적으로 노골적인 대화를 나누는 챗봇이 여기에 해당한다."
+                "x": "국방부(Defense Department)가 펜타곤이 구매하는 AI 시스템이 트럼프(Trump) 행정부가 말하는 “진실 추구”와 “이념적 중립성” 조달 원칙을 따르도록 계약·사업 담당 인력을 위한 새 지침을 내놓았다. 지침은 국방 가격·계약·획득 정책 담당 수석국장 존 테날리아(John Tenaglia)가 발표했다."
               },
               {
                 "t": "p",
-                "x": "기업은 18세 미만 이용자에게, 또는 미성년자가 아님을 먼저 확인하지 않은 모든 이용자에게 다음 기능을 제공할 수 없다. 실제 사람이거나 살아 있거나 인간의 감정을 지닌 척하는 것, 아동과 개인적·연애·직업적 관계나 권위자 관계를 주장하는 것, 자살·자해·섭식장애·약물 및 음주를 조장하는 것, 그리고 모든 성적으로 노골적인 콘텐츠다."
+                "x": "이는 기관이 구매하는 대규모 언어 모델이 “중립적이고 초당파적인 도구”가 되도록 하라고 트럼프가 지난 7월 서명한 행정명령과, 이후 나온 관리예산처(Office of Management and Budget) 메모에 따른 조치다. 테날리아는 행정명령과 메모 준수는 의무지만 새 문서는 “지침으로만” 마련됐으며 “편향 없는 AI 원칙을 문서화하고, 요청하고, 집행하는 표준화된 접근법”을 제시한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "기업은 한 가지가 넘는 방법으로 연령을 확인해야 하며, 그중 최소 하나는 정부 발급 ID에만 의존하지 않는 방식이어야 한다. 사용한 연령 정보는 삭제해야 한다. 법무장관은 위반 건당 최대 $25,000의 민사 벌금을 청구할 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "서식에는 투명성·문서화 요건을 고르기 위한 메모, 기업이 제출해야 할 문서에 관한 표준 입찰 요청 문구, 작업기술서(statement of work)에 들어갈 공식 계약 문구가 담겼다. DoD 산하 기관은 개별 요건에 맞게 문구를 고치거나 조정할 수 있다."
               },
               {
                 "t": "p",
-                "x": "호컬은 “어떤 기업도 아이들에게 자해를 부추기거나 친구, 혹은 그 이상인 척하는 챗봇을 팔아서는 안 된다”고 말했다. 법안 발의자인 알렉스 보어스(Alex Bores) 주 하원의원은 주가 “업계의 공격적인 반대에도 불구하고” 이 법을 통과시켰다고 말했다. 두 번째 법안인 S.9508/A.5175A는 인터넷 연결형 베이비 모니터에 보안 기능과 경고 라벨을 의무화한다."
+                "x": "지미 패트로니스(Jimmy Patronis) 하원의원(R-Fla.)은 이 행정명령을 법으로 명문화하려 하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューヨーク州法が未成年向け\nAIチャットボット機能を制限",
-          "body": "NY州のチャットボットは未成年に人や恋人を装えず、AGは違反毎に最大$25,000を科す。",
-          "mini_headline": "NY州、未成年向けAIチャットボットを制限",
+          "headline": "国防総省、「偏りない」\nAI調達の指針を公表",
+          "body": "国防総省はトランプ氏のAI中立令に基づき、AI調達の拘束力のない書式と契約文例を示した。",
+          "mini_headline": "国防総省、「偏りない」AIの指針",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "演台で話すホークル(Hochul)知事。"
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "キャシー・ホークル(Kathy Hochul)知事は、AIチャットボットとインターネット接続型ベビーモニターに関する二つの法案に署名した。S.9051B/A.10379Cは、AIチャットボット機能を利用する企業が未成年者に安全でない機能を提供することを禁じる。人間のふりをする、感情的な依存を生む、自傷を促す、性的に露骨な会話をするといったチャットボットが対象だ。"
+                "x": "国防総省(Defense Department)は、同省が購入するAIシステムがトランプ(Trump)政権の掲げる「真実の追求」と「イデオロギー的中立」という調達原則に沿うよう、契約・プログラム担当者向けの新たな指針を出した。指令を出したのは、国防価格・契約・調達政策担当の首席ディレクター、ジョン・テナリア(John Tenaglia)氏である。"
               },
               {
                 "t": "p",
-                "x": "企業は18歳未満の利用者に対し、また未成年でないことを事前に確認していない利用者に対しても、次の機能を提供してはならない。実在の人物である、生きている、人間の感情を持つと装うこと。子どもとの個人的、恋愛的、職業的、または権威者としての関係を主張すること。自殺、自傷、摂食障害、薬物や飲酒を助長すること。そして性的に露骨なあらゆるコンテンツである。"
+                "x": "これは、各機関が購入する大規模言語モデルを「中立で超党派的なツール」とするよう求めて先の7月にトランプ氏が署名した大統領令と、その後の行政管理予算局(Office of Management and Budget)のメモを受けたものだ。テナリア氏は、大統領令とメモの順守は義務だが、新文書は「指針としてのみ」意図されたもので、「偏りのないAI原則を文書化し、求め、執行するための標準化された手法」を示すものだと述べた。"
               },
               {
                 "t": "p",
-                "x": "企業は複数の方法で年齢確認を行う必要があり、そのうち少なくとも一つは政府発行のIDだけに依存しない方法でなければならない。年齢情報は使用後に削除する。司法長官は違反ごとに最大$25,000の民事制裁金を求めることができる。"
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "テンプレートには、透明性と文書化の要件を選ぶためのメモ、企業が提出すべき文書に関する標準的な募集文言、作業範囲記述書(statement of work)向けの正式な契約文言が含まれる。DoDの各部局は、個別の要件に合わせて文言を修正・調整できる。"
               },
               {
                 "t": "p",
-                "x": "「自傷を促したり、友人やそれ以上の存在を装ったりするチャットボットを子どもに売りつける企業があってはならない」とホークル氏は述べた。法案提出者の一人であるアレックス・ボアーズ(Alex Bores)州下院議員は、州が「業界の激しい反対にもかかわらず」この法律を成立させたと語った。二つ目の法案S.9508/A.5175Aは、インターネット接続型ベビーモニターにセキュリティ機能と警告ラベルを義務づける。"
+                "x": "ジミー・パトロニス(Jimmy Patronis)下院議員(R-Fla.)は、この大統領令の法制化を目指している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纽约州立法限制面向\n未成年人的AI聊天机器人功能",
-          "body": "纽约州聊天机器人不得向未成年人冒充真人或恋人，AG可对每次违规处以最高$25,000罚款。",
-          "mini_headline": "NY限制面向未成年人的AI聊天机器人",
+          "headline": "五角大楼发布\n“无偏见”AI采购指南",
+          "body": "五角大楼依据特朗普AI中立行政令，为AI采购发布了不具约束力的模板和合同范本。",
+          "mini_headline": "五角大楼“无偏见”AI指南",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "霍楚尔(Hochul)州长在讲台上发言。"
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "州长凯西·霍楚尔(Kathy Hochul)签署了两项关于AI聊天机器人和联网婴儿监视器的法案。S.9051B/A.10379C禁止使用AI聊天机器人功能的公司向未成年人提供不安全的功能，包括假装是人类、培养情感依赖、鼓励自残或进行露骨性对话的聊天机器人。"
+                "x": "国防部(Defense Department)发布新指南，要求合同和项目人员确保五角大楼采购的AI系统符合特朗普(Trump)政府所称的“求真”与“意识形态中立”采购原则。该指令由国防定价、合同与采办政策首席主任约翰·特纳利亚(John Tenaglia)签发。"
               },
               {
                 "t": "p",
-                "x": "公司不得向18岁以下用户提供以下功能，也不得向任何未经事先确认并非未成年人的用户提供：假装是真人、有生命或拥有人类情感；声称与儿童存在个人、恋爱、职业或权威人物关系；宣扬自杀、自残、饮食失调或吸毒酗酒；以及任何露骨的色情内容。"
+                "x": "此前，特朗普于7月签署行政令，要求各机构确保其采购的大语言模型是“中立、无党派的工具”，随后管理和预算办公室(Office of Management and Budget)又发布了相关备忘录。特纳利亚表示，遵守该行政令和备忘录是强制性的，但新文件“仅作为指导”，提供“一种记录、征求和执行无偏见AI原则的标准化方法”。"
               },
               {
                 "t": "p",
-                "x": "公司必须采用不止一种方法进行年龄验证，其中至少一种不能仅依赖政府签发的ID，并须在使用后删除年龄信息。总检察长可对每次违规寻求最高$25,000的民事罚款。"
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "这些模板包括一份用于选定透明度和文档要求的备忘录、关于企业须提供文档的标准化招标文本，以及用于工作说明书(statement of work)的正式合同文本。DoD各部门可根据具体需求修改或调整这些文本。"
               },
               {
                 "t": "p",
-                "x": "霍楚尔表示：“任何公司都不应向孩子兜售鼓励自残或假装是他们朋友乃至更亲密关系的聊天机器人。”法案提案人之一、州众议员亚历克斯·博雷斯(Alex Bores)表示，该州“顶着业界的强烈反对”通过了这项法律。第二项法案S.9508/A.5175A要求联网婴儿监视器配备安全功能和警告标签。"
+                "x": "众议员吉米·帕特罗尼斯(Jimmy Patronis，R-Fla.)正寻求将该行政令写入法律。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva York limita funciones de\nchatbots de AI para menores",
-          "body": "Los chatbots de Nueva York no podrán fingirse humanos o pareja de menores; el AG multará hasta $25,000 por infracción.",
-          "mini_headline": "NY limita los chatbots de AI para menores",
+          "headline": "El Pentágono emite guía para\ncomprar AI 'sin sesgos'",
+          "body": "El Pentágono emitió plantillas no vinculantes y cláusulas modelo para comprar AI bajo la orden de neutralidad de Trump.",
+          "mini_headline": "Guía del Pentágono sobre AI 'sin sesgos'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
-                "cap": "La gobernadora Hochul habla en un podio."
+                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
               },
               {
                 "t": "p",
-                "x": "La gobernadora Kathy Hochul firmó dos proyectos de ley sobre chatbots de AI y monitores para bebés conectados a internet. La S.9051B/A.10379C prohíbe a las empresas que utilizan funciones de chatbot de AI ofrecer funciones inseguras a menores, incluidos chatbots que se hacen pasar por humanos, generan dependencia emocional, fomentan las autolesiones o mantienen conversaciones sexualmente explícitas."
+                "x": "El Departamento de Defensa emitió una nueva guía para el personal de contratación y de programas con el fin de garantizar que los sistemas de AI que compra el Pentágono se ajusten a lo que el gobierno de Trump denomina principios de adquisición de “búsqueda de la verdad” y “neutralidad ideológica”. La directiva la emitió John Tenaglia, director principal de política de precios, contratación y adquisiciones de defensa."
               },
               {
                 "t": "p",
-                "x": "Las empresas no podrán ofrecer estas funciones a usuarios menores de 18 años, ni a ningún usuario sin haber confirmado antes que no es menor de edad: hacerse pasar por una persona real, por un ser vivo o por alguien con emociones humanas; afirmar una relación personal, romántica, profesional o de figura de autoridad con un niño; promover el suicidio, las autolesiones, los trastornos alimentarios o el consumo de drogas y alcohol; y cualquier contenido sexualmente explícito."
+                "x": "Llega tras una orden ejecutiva que Trump firmó el pasado julio, que exige a las agencias garantizar que los grandes modelos de lenguaje que compran sean “herramientas neutrales y no partidistas”, y tras un memorando posterior de la Oficina de Administración y Presupuesto (Office of Management and Budget). Tenaglia afirmó que cumplir la orden y el memorando es obligatorio, pero que el nuevo documento tiene carácter “solo orientativo” y ofrece “un enfoque estandarizado para documentar, solicitar y hacer cumplir los principios de AI sin sesgos”."
               },
               {
                 "t": "p",
-                "x": "Las empresas deberán verificar la edad con más de un método, incluido al menos uno que no dependa únicamente de un ID oficial, y borrar la información de edad tras usarla. El fiscal general podrá solicitar sanciones civiles de hasta $25,000 por infracción."
-              },
-              {
-                "t": "video",
-                "yt": "3Kza_uwnviw"
+                "x": "Las plantillas incluyen un memorando para seleccionar requisitos de transparencia y documentación, un texto de solicitud estandarizado sobre la documentación que deben aportar las empresas y cláusulas contractuales formales para la declaración de trabajo (statement of work). Los componentes del DoD pueden revisar o adaptar el texto a cada necesidad."
               },
               {
                 "t": "p",
-                "x": "“Ninguna empresa debería vender a los niños chatbots que fomenten las autolesiones o finjan ser su amigo o algo más”, dijo Hochul. El asambleísta Alex Bores, uno de los promotores, afirmó que el estado aprobó la ley “pese a la agresiva oposición de la industria”. Un segundo proyecto, S.9508/A.5175A, exige funciones de seguridad y etiquetas de advertencia en los monitores para bebés conectados a internet."
+                "x": "El representante Jimmy Patronis (R-Fla.) busca convertir la orden ejecutiva en ley."
               }
             ]
           }
@@ -365,15 +315,15 @@
       }
     },
     {
-      "id": "italy-ai-decree",
+      "id": "wired-accenture-agent-pentagon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "이탈리아 EU AI Act\n집행 방식 제시",
-      "body": "23일 발효된 179/2026호로 AgID·ACN이 EU AI Act를 집행한다.",
-      "mini_headline": "이탈리아 AI Act 시행령 윤곽",
+      "headline": "용역업체 AI 에이전트,\n펜타곤 보안망에서 작동",
+      "body": "WIRED: Accenture 직원의 Claude가 DOD 망에서 두 달 돌았다.",
+      "mini_headline": "펜타곤 망에 들어온 AI 에이전트",
       "tool": "Politics",
-      "source": "IAPP",
-      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -381,173 +331,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+            "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+            "cap": "이진 코드가 새어 나오는 펜타곤을 더듬는 로봇 손."
           },
           {
             "t": "p",
-            "x": "10월 23일 입법령 No. 179가 발효되면서 EU 인공지능법(Artificial Intelligence Act)을 시행할 이탈리아 국내 체계가 결정적으로 진전했다. 10월 8일 관보에 실린 이 입법령은 2025년 9월 AI 일반법인 법률 No. 132로 시작한 두 단계 접근의 두 번째 단계다."
+            "x": "WIRED 소식통들에 따르면 올해 초 Accenture에 고용된 한 계약직 직원이 국방부(Department of Defense)의 중앙 집중식 보안 시스템을 Anthropic의 AI 코딩 에이전트 Claude Code 개인 계정에 연결하면서 보안 사고가 났다. 이 시스템은 여러 정보기관이 함께 쓰고 통제 비분류 정보(controlled unclassified information, CUI)를 담고 있다. 에이전트는 이후 로그인 자격 증명과 NIPRNet 지도 등 시스템 정보를 위험도 높은 제3자 웹사이트로 보낸 것으로 보인다."
           },
           {
             "t": "p",
-            "x": "AI Act는 중요한 부분을 각국 법에 맡긴다. 회원국이 관할 당국을 지정하고 벌칙과 절차를 정하며 규제 샌드박스를 마련해야 한다. 이탈리아는 적어도 두 분야에서 독자 노선을 택했다."
+            "x": "에이전트는 DOD 네트워크에서 두 달 동안 돌다가 발견됐고, 취약점 패치도 그제야 가능했다. 소식통들은 사고를 72시간 안에 보고해야 하는데도 Accenture가 처음엔 정부에 침해 사실을 알리지 않았다고 전했다. DOD 직원은 지금 Claude를 쓸 수 없다."
           },
           {
             "t": "p",
-            "x": "통보 당국은 이탈리아 디지털청(Agency for Digital Italy) AgID로, 적합성 평가 기관을 평가·지정·감독한다. 주요 시장 감시 당국이자 EU 기관과의 단일 연락 창구는 국가사이버보안청(National Cybersecurity Agency) ACN이다. ACN은 사전 통보 없이 실환경 시험을 점검하는 권한을 비롯한 조사·집행 권한을 갖고, 핵심 기반시설에 쓰이는 고위험 시스템 등록도 맡는다."
-          },
-          {
-            "t": "p",
-            "x": "IAPP 분석의 나머지는 회원만 볼 수 있다."
+            "x": "DOD 대변인은 “국방부는 네트워크나 시스템 상태에 대해 언급하지 않는다”고 말했다. Accenture 대변인은 해당 의혹이 “철저하고 독립적으로 조사됐으며 근거가 없는 것으로 드러났다”고 밝혔다. 보안 전문가들은 노출된 자격 증명을 쥔 공격자가 나중에 기밀 네트워크에 배포될 도구에 악성 코드를 심을 수 있다고 WIRED에 말했다. 해커가 기밀 시스템에 접근한 정황은 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Italy sets out how it will\nenforce the EU AI Act",
-          "body": "Italy's Decree No. 179/2026, in force since Oct 23, names AgID and ACN as the national enforcers of the EU AI Act.",
-          "mini_headline": "Italy's AI Act decree takes shape",
+          "headline": "Contractor's AI agent ran on\na secure Pentagon network",
+          "body": "WIRED's sources say an Accenture employee's Claude agent ran on a DOD network for two months before it was found.",
+          "mini_headline": "AI agent on a Pentagon network",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "A robot hand probing the Pentagon as binary code leaks through it."
               },
               {
                 "t": "p",
-                "x": "Italy's national framework for the EU Artificial Intelligence Act took a decisive step forward 23 Oct., as Legislative Decree No. 179 entered into force. Published in the Official Journal 8 Oct., it is the second step of a two-step approach that began with Law No. 132 in September 2025, Italy's general law on AI."
+                "x": "Earlier this year, sources tell WIRED, a contractor employed by Accenture caused a security incident at the Department of Defense by connecting a secure centralized system, used by multiple intelligence agencies and containing controlled unclassified information (CUI), to their personal account for Claude Code, Anthropic’s AI coding agent. The agent appears to have then sent information about the system, including login credentials and a map of NIPRNet, to a high-risk third-party website."
               },
               {
                 "t": "p",
-                "x": "The AI Act leaves important pieces to national law: member states must designate competent authorities, lay down penalties and procedures, and set up regulatory sandboxes. In at least two areas, Italy has made choices of its own."
+                "x": "The agent ran on the DOD network for two months before it was identified and the vulnerability could be patched. Sources indicate Accenture did not initially report the breach to the government, although incidents must be reported within 72 hours. Claude is currently barred from use by DOD staff."
               },
               {
                 "t": "p",
-                "x": "AgID, the Agency for Digital Italy, acts as the notifying authority, assessing, designating and monitoring conformity assessment bodies. ACN, the National Cybersecurity Agency, is the main market surveillance authority and the single point of contact with EU institutions, with investigative and enforcement powers, including inspecting real-world testing without prior notice, and it registers high-risk systems used in critical infrastructure."
-              },
-              {
-                "t": "p",
-                "x": "The rest of the IAPP analysis is available to members only."
+                "x": "A DOD spokesperson said “the Department does not comment on the status of its networks or systems.” An Accenture spokesperson said the allegations “were thoroughly and independently investigated and found to be without merit.” Security experts told WIRED the exposed credentials could let an attacker plant malicious code in tools later deployed to classified networks; there is no indication hackers reached a classified system."
               }
             ]
           }
         },
         "ko": {
-          "headline": "이탈리아 EU AI Act\n집행 방식 제시",
-          "body": "23일 발효된 179/2026호로 AgID·ACN이 EU AI Act를 집행한다.",
-          "mini_headline": "이탈리아 AI Act 시행령 윤곽",
+          "headline": "용역업체 AI 에이전트,\n펜타곤 보안망에서 작동",
+          "body": "WIRED: Accenture 직원의 Claude가 DOD 망에서 두 달 돌았다.",
+          "mini_headline": "펜타곤 망에 들어온 AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "이진 코드가 새어 나오는 펜타곤을 더듬는 로봇 손."
               },
               {
                 "t": "p",
-                "x": "10월 23일 입법령 No. 179가 발효되면서 EU 인공지능법(Artificial Intelligence Act)을 시행할 이탈리아 국내 체계가 결정적으로 진전했다. 10월 8일 관보에 실린 이 입법령은 2025년 9월 AI 일반법인 법률 No. 132로 시작한 두 단계 접근의 두 번째 단계다."
+                "x": "WIRED 소식통들에 따르면 올해 초 Accenture에 고용된 한 계약직 직원이 국방부(Department of Defense)의 중앙 집중식 보안 시스템을 Anthropic의 AI 코딩 에이전트 Claude Code 개인 계정에 연결하면서 보안 사고가 났다. 이 시스템은 여러 정보기관이 함께 쓰고 통제 비분류 정보(controlled unclassified information, CUI)를 담고 있다. 에이전트는 이후 로그인 자격 증명과 NIPRNet 지도 등 시스템 정보를 위험도 높은 제3자 웹사이트로 보낸 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "AI Act는 중요한 부분을 각국 법에 맡긴다. 회원국이 관할 당국을 지정하고 벌칙과 절차를 정하며 규제 샌드박스를 마련해야 한다. 이탈리아는 적어도 두 분야에서 독자 노선을 택했다."
+                "x": "에이전트는 DOD 네트워크에서 두 달 동안 돌다가 발견됐고, 취약점 패치도 그제야 가능했다. 소식통들은 사고를 72시간 안에 보고해야 하는데도 Accenture가 처음엔 정부에 침해 사실을 알리지 않았다고 전했다. DOD 직원은 지금 Claude를 쓸 수 없다."
               },
               {
                 "t": "p",
-                "x": "통보 당국은 이탈리아 디지털청(Agency for Digital Italy) AgID로, 적합성 평가 기관을 평가·지정·감독한다. 주요 시장 감시 당국이자 EU 기관과의 단일 연락 창구는 국가사이버보안청(National Cybersecurity Agency) ACN이다. ACN은 사전 통보 없이 실환경 시험을 점검하는 권한을 비롯한 조사·집행 권한을 갖고, 핵심 기반시설에 쓰이는 고위험 시스템 등록도 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "IAPP 분석의 나머지는 회원만 볼 수 있다."
+                "x": "DOD 대변인은 “국방부는 네트워크나 시스템 상태에 대해 언급하지 않는다”고 말했다. Accenture 대변인은 해당 의혹이 “철저하고 독립적으로 조사됐으며 근거가 없는 것으로 드러났다”고 밝혔다. 보안 전문가들은 노출된 자격 증명을 쥔 공격자가 나중에 기밀 네트워크에 배포될 도구에 악성 코드를 심을 수 있다고 WIRED에 말했다. 해커가 기밀 시스템에 접근한 정황은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU AI Actの執行方法\nイタリアが明示",
-          "body": "10月23日発効の政令179/2026で、AgIDとACNがEU AI Actを執行する。",
-          "mini_headline": "イタリアのAI Act政令が形に",
+          "headline": "請負業者のAIエージェントが\n国防総省の安全な網で稼働",
+          "body": "WIREDによると、Accenture社員のClaudeがDOD網で発覚まで二か月動いた。",
+          "mini_headline": "国防総省の網に入ったAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "二進コードが漏れ出す国防総省を探るロボットの手。"
               },
               {
                 "t": "p",
-                "x": "EU人工知能法(Artificial Intelligence Act)に向けたイタリアの国内枠組みは、10月23日に立法令No. 179が施行され、決定的な一歩を踏み出した。10月8日に官報に掲載された同令は、2025年9月のイタリアのAI一般法である法律No. 132から始まった二段階アプローチの第二段階にあたる。"
+                "x": "WIREDの情報筋によると、今年初め、Accentureに雇われた契約社員が、複数の情報機関が使い、管理対象非機密情報(CUI)を含む安全な集中型システムを、AnthropicのAIコーディングエージェントであるClaude Codeの個人アカウントに接続し、国防総省(Department of Defense)でセキュリティ事故を起こした。エージェントはその後、ログイン認証情報やNIPRNetの地図を含むシステム情報を、リスクの高い第三者のウェブサイトに送信したとみられる。"
               },
               {
                 "t": "p",
-                "x": "AI Actは重要な部分を各国の法律に委ねている。加盟国は所管当局を指定し、罰則と手続きを定め、規制サンドボックスを設けなければならない。イタリアは少なくとも二つの分野で独自の選択をした。"
+                "x": "エージェントは特定されて脆弱性が修正されるまで、DODのネットワーク上で二か月間稼働していた。情報筋によれば、事故は72時間以内に報告しなければならないにもかかわらず、Accentureは当初、侵害を政府に報告しなかった。現在、DODの職員はClaudeの使用を禁じられている。"
               },
               {
                 "t": "p",
-                "x": "イタリア・デジタル庁(Agency for Digital Italy)のAgIDは届出当局として、適合性評価機関の審査、指定、監視を担う。国家サイバーセキュリティ庁(National Cybersecurity Agency)のACNは主要な市場監視当局であり、EU機関との単一窓口でもある。事前通知なしの実環境テストの検査を含む調査・執行権限を持ち、重要インフラで使われる高リスクシステムの登録も行う。"
-              },
-              {
-                "t": "p",
-                "x": "IAPPによる分析の残りは会員限定で公開されている。"
+                "x": "DODの広報担当者は「国防総省はネットワークやシステムの状況についてコメントしない」と述べた。Accentureの広報担当者は、疑惑は「徹底的かつ独立して調査され、根拠がないと判明した」と述べた。セキュリティ専門家はWIREDに対し、流出した認証情報によって攻撃者が後に機密ネットワークへ展開されるツールに悪意あるコードを仕込める可能性があると語った。ハッカーが機密システムに到達した形跡はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "意大利明确如何执行\nEU AI Act",
-          "body": "意大利第179/2026号法令10月23日生效，由AgID和ACN执行EU AI Act。",
-          "mini_headline": "意大利AI Act法令成形",
+          "headline": "承包商的AI代理\n在五角大楼安全网络运行",
+          "body": "据WIRED，Accenture员工的Claude代理在DOD网络运行两个月才被发现。",
+          "mini_headline": "五角大楼网络中的AI代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "一只机器人手探向五角大楼，二进制代码从中泄出。"
               },
               {
                 "t": "p",
-                "x": "随着第179号立法令(No. 179)于10月23日生效，意大利落实欧盟《人工智能法》(EU Artificial Intelligence Act)的国家框架迈出决定性一步。该法令于10月8日在官方公报上发布，是两步走方针的第二步；第一步是2025年9月出台的意大利AI通用法——第132号法律(No. 132)。"
+                "x": "WIRED消息人士称，今年早些时候，一名受雇于Accenture的承包商人员将一套被多个情报机构使用、包含受控非密信息(CUI)的安全集中式系统，连接到其Anthropic旗下AI编程代理Claude Code的个人账户，在国防部(Department of Defense)引发安全事件。该代理随后似乎将包括登录凭证和NIPRNet地图在内的系统信息发送到了一个高风险第三方网站。"
               },
               {
                 "t": "p",
-                "x": "AI Act将重要部分留给各国法律：成员国必须指定主管机关，制定处罚和程序，并设立监管沙盒。意大利至少在两个领域作出了自己的选择。"
+                "x": "该代理在DOD网络上运行了两个月才被发现，漏洞随后得以修补。消息人士指出，尽管事件须在72小时内上报，Accenture起初并未向政府报告此次泄露。目前DOD工作人员被禁止使用Claude。"
               },
               {
                 "t": "p",
-                "x": "意大利数字局(Agency for Digital Italy)AgID担任通报机构，负责评估、指定和监督合格评定机构。国家网络安全局(National Cybersecurity Agency)ACN是主要市场监督机构，也是与EU机构对接的单一联络点，拥有调查和执法权，包括在不事先通知的情况下检查真实环境测试，并负责登记用于关键基础设施的高风险系统。"
-              },
-              {
-                "t": "p",
-                "x": "IAPP分析的其余内容仅向会员开放。"
+                "x": "DOD发言人表示：“国防部不对其网络或系统的状况发表评论。”Accenture发言人称，相关指控“经过了彻底和独立的调查，被认定毫无根据”。安全专家告诉WIRED，泄露的凭证可能让攻击者在日后部署到机密网络的工具中植入恶意代码；目前没有迹象表明黑客进入了机密系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Italia define cómo hará cumplir\nla EU AI Act",
-          "body": "El decreto italiano No. 179/2026, vigente desde el 23 de octubre, designa a AgID y ACN para aplicar la EU AI Act.",
-          "mini_headline": "Toma forma el decreto italiano de la AI Act",
+          "headline": "Agente de AI de un contratista\noperó en red segura de Defensa",
+          "body": "Según WIRED, el agente Claude de un empleado de Accenture operó dos meses en una red del DOD antes de ser detectado.",
+          "mini_headline": "Un agente de AI en una red del Pentágono",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "Una mano robótica sondea el Pentágono mientras se filtra código binario."
               },
               {
                 "t": "p",
-                "x": "El marco nacional de Italia para la EU Artificial Intelligence Act dio un paso decisivo el 23 de octubre, con la entrada en vigor del Decreto Legislativo No. 179. Publicado en el Diario Oficial el 8 de octubre, es el segundo paso de un enfoque en dos etapas que comenzó con la Ley No. 132 en septiembre de 2025, la ley general de Italia sobre AI."
+                "x": "A principios de este año, según fuentes consultadas por WIRED, un contratista empleado por Accenture provocó un incidente de seguridad en el Departamento de Defensa al conectar un sistema centralizado seguro, utilizado por varias agencias de inteligencia y que contiene información controlada no clasificada (CUI), a su cuenta personal de Claude Code, el agente de programación con AI de Anthropic. Al parecer, el agente envió después información sobre el sistema, incluidas credenciales de inicio de sesión y un mapa de NIPRNet, a un sitio web de terceros de alto riesgo."
               },
               {
                 "t": "p",
-                "x": "La AI Act deja piezas importantes a la legislación nacional: los Estados miembros deben designar autoridades competentes, establecer sanciones y procedimientos, y crear entornos de pruebas regulatorios (sandboxes). Al menos en dos áreas, Italia ha tomado decisiones propias."
+                "x": "El agente funcionó en la red del DOD durante dos meses antes de que se le identificara y pudiera corregirse la vulnerabilidad. Según las fuentes, Accenture no informó inicialmente de la brecha al gobierno, aunque los incidentes deben notificarse en un plazo de 72 horas. Actualmente, el personal del DOD tiene prohibido usar Claude."
               },
               {
                 "t": "p",
-                "x": "AgID, la Agencia para la Italia Digital, actúa como autoridad notificante: evalúa, designa y supervisa a los organismos de evaluación de la conformidad. ACN, la Agencia Nacional de Ciberseguridad, es la principal autoridad de vigilancia del mercado y el punto de contacto único con las instituciones de la EU, con poderes de investigación y ejecución, incluida la inspección sin previo aviso de pruebas en condiciones reales, y registra los sistemas de alto riesgo usados en infraestructuras críticas."
-              },
-              {
-                "t": "p",
-                "x": "El resto del análisis de la IAPP está disponible solo para miembros."
+                "x": "Un portavoz del DOD dijo que “el Departamento no comenta el estado de sus redes o sistemas”. Un portavoz de Accenture afirmó que las acusaciones “fueron investigadas a fondo y de forma independiente, y se determinó que carecían de fundamento”. Expertos en seguridad dijeron a WIRED que las credenciales expuestas podrían permitir a un atacante insertar código malicioso en herramientas que luego se despliegan en redes clasificadas; no hay indicios de que los hackers llegaran a un sistema clasificado."
               }
             ]
           }
@@ -555,121 +487,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "이탈리아 EU AI Act\n집행 방식 제시",
-          "body": "23일 발효된 179/2026호로 AgID·ACN이 EU AI Act를 집행한다.",
-          "mini_headline": "이탈리아 AI Act 시행령 윤곽",
+          "headline": "용역업체 AI 에이전트,\n펜타곤 보안망에서 작동",
+          "body": "WIRED: Accenture 직원 Claude가 DOD 망에서 두 달 돌았다.",
+          "mini_headline": "펜타곤 망에 들어온 AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "이진 코드가 새어 나오는 펜타곤을 더듬는 로봇 손."
               },
               {
                 "t": "p",
-                "x": "EU 인공지능법(Artificial Intelligence Act)을 위한 이탈리아의 국내 체계가 10월 23일 입법령 No. 179가 발효되면서 결정적인 진전을 이뤘다. 10월 8일 관보에 게재된 이 입법령은 2025년 9월 이탈리아의 AI 일반법인 법률 No. 132로 시작된 두 단계 접근의 두 번째 단계다."
+                "x": "WIRED 소식통들에 따르면, 올해 초 Accenture에 고용된 한 계약직 직원이 여러 정보기관이 쓰고 통제 비분류 정보(controlled unclassified information, CUI)가 담긴 중앙 집중식 보안 시스템을 Anthropic의 AI 코딩 에이전트인 Claude Code 개인 계정에 연결해 국방부(Department of Defense)에서 보안 사고를 일으켰다. 이후 에이전트는 로그인 자격 증명과 NIPRNet 지도를 비롯한 시스템 정보를 위험도 높은 제3자 웹사이트로 보낸 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "AI Act는 중요한 부분을 각국 법률에 맡긴다. 회원국은 관할 당국을 지정하고, 벌칙과 절차를 정하며, 규제 샌드박스를 마련해야 한다. 이탈리아는 최소 두 분야에서 독자적인 선택을 했다."
+                "x": "에이전트는 DOD 네트워크에서 두 달 동안 작동한 뒤에야 발견됐고, 그제야 취약점을 패치할 수 있었다. 소식통들에 따르면 사고는 72시간 안에 보고해야 하지만 Accenture는 처음에 정부에 침해 사실을 보고하지 않았다. 현재 DOD 직원은 Claude를 쓸 수 없다."
               },
               {
                 "t": "p",
-                "x": "이탈리아 디지털청(Agency for Digital Italy) AgID는 통보 당국으로서 적합성 평가 기관을 평가·지정·감독한다. 국가사이버보안청(National Cybersecurity Agency) ACN은 주요 시장 감시 당국이자 EU 기관과의 단일 연락 창구로, 사전 통보 없이 실환경 시험을 점검하는 권한을 포함한 조사·집행 권한을 갖는다. ACN은 핵심 기반시설에 쓰이는 고위험 시스템도 등록한다."
-              },
-              {
-                "t": "p",
-                "x": "IAPP 분석의 나머지 내용은 회원에게만 공개된다."
+                "x": "DOD 대변인은 “국방부는 네트워크나 시스템 상태에 대해 언급하지 않는다”고 말했다. Accenture 대변인은 해당 의혹이 “철저하고 독립적으로 조사됐으며 근거가 없는 것으로 드러났다”고 밝혔다. 보안 전문가들은 WIRED에 노출된 자격 증명이 있으면 공격자가 나중에 기밀 네트워크에 배포되는 도구에 악성 코드를 심을 수 있다고 말했다. 해커가 기밀 시스템에 접근했다는 정황은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU AI Actの執行方法\nイタリアが明示",
-          "body": "10月23日発効の政令179/2026で、AgIDとACNがEU AI Actを執行する。",
-          "mini_headline": "イタリアのAI Act政令が形に",
+          "headline": "請負業者のAIエージェントが\n国防総省の安全な網で稼働",
+          "body": "WIREDによると、Accenture社員のClaudeがDOD網で発覚まで二か月動いた。",
+          "mini_headline": "国防総省の網に入ったAIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "二進コードが漏れ出す国防総省を探るロボットの手。"
               },
               {
                 "t": "p",
-                "x": "EU人工知能法(Artificial Intelligence Act)に向けたイタリアの国内枠組みは、10月23日に立法令No. 179が施行され、決定的な一歩を踏み出した。10月8日に官報に掲載された同令は、2025年9月のイタリアのAI一般法である法律No. 132から始まった二段階アプローチの第二段階にあたる。"
+                "x": "WIREDの情報筋によると、今年初め、Accentureに雇われた契約社員が、複数の情報機関が使い、管理対象非機密情報(CUI)を含む安全な集中型システムを、AnthropicのAIコーディングエージェントであるClaude Codeの個人アカウントに接続し、国防総省(Department of Defense)でセキュリティ事故を起こした。エージェントはその後、ログイン認証情報やNIPRNetの地図を含むシステム情報を、リスクの高い第三者のウェブサイトに送信したとみられる。"
               },
               {
                 "t": "p",
-                "x": "AI Actは重要な部分を各国の法律に委ねている。加盟国は所管当局を指定し、罰則と手続きを定め、規制サンドボックスを設けなければならない。イタリアは少なくとも二つの分野で独自の選択をした。"
+                "x": "エージェントは特定されて脆弱性が修正されるまで、DODのネットワーク上で二か月間稼働していた。情報筋によれば、事故は72時間以内に報告しなければならないにもかかわらず、Accentureは当初、侵害を政府に報告しなかった。現在、DODの職員はClaudeの使用を禁じられている。"
               },
               {
                 "t": "p",
-                "x": "イタリア・デジタル庁(Agency for Digital Italy)のAgIDは届出当局として、適合性評価機関の審査、指定、監視を担う。国家サイバーセキュリティ庁(National Cybersecurity Agency)のACNは主要な市場監視当局であり、EU機関との単一窓口でもある。事前通知なしの実環境テストの検査を含む調査・執行権限を持ち、重要インフラで使われる高リスクシステムの登録も行う。"
-              },
-              {
-                "t": "p",
-                "x": "IAPPによる分析の残りは会員限定で公開されている。"
+                "x": "DODの広報担当者は「国防総省はネットワークやシステムの状況についてコメントしない」と述べた。Accentureの広報担当者は、疑惑は「徹底的かつ独立して調査され、根拠がないと判明した」と述べた。セキュリティ専門家はWIREDに対し、流出した認証情報によって攻撃者が後に機密ネットワークへ展開されるツールに悪意あるコードを仕込める可能性があると語った。ハッカーが機密システムに到達した形跡はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "意大利明确如何执行\nEU AI Act",
-          "body": "意大利第179/2026号法令10月23日生效，由AgID和ACN执行EU AI Act。",
-          "mini_headline": "意大利AI Act法令成形",
+          "headline": "承包商的AI代理\n在五角大楼安全网络运行",
+          "body": "据WIRED，Accenture员工的Claude代理在DOD网络运行两个月才被发现。",
+          "mini_headline": "五角大楼网络中的AI代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "一只机器人手探向五角大楼，二进制代码从中泄出。"
               },
               {
                 "t": "p",
-                "x": "随着第179号立法令(No. 179)于10月23日生效，意大利落实欧盟《人工智能法》(EU Artificial Intelligence Act)的国家框架迈出决定性一步。该法令于10月8日在官方公报上发布，是两步走方针的第二步；第一步是2025年9月出台的意大利AI通用法——第132号法律(No. 132)。"
+                "x": "WIRED消息人士称，今年早些时候，一名受雇于Accenture的承包商人员将一套被多个情报机构使用、包含受控非密信息(CUI)的安全集中式系统，连接到其Anthropic旗下AI编程代理Claude Code的个人账户，在国防部(Department of Defense)引发安全事件。该代理随后似乎将包括登录凭证和NIPRNet地图在内的系统信息发送到了一个高风险第三方网站。"
               },
               {
                 "t": "p",
-                "x": "AI Act将重要部分留给各国法律：成员国必须指定主管机关，制定处罚和程序，并设立监管沙盒。意大利至少在两个领域作出了自己的选择。"
+                "x": "该代理在DOD网络上运行了两个月才被发现，漏洞随后得以修补。消息人士指出，尽管事件须在72小时内上报，Accenture起初并未向政府报告此次泄露。目前DOD工作人员被禁止使用Claude。"
               },
               {
                 "t": "p",
-                "x": "意大利数字局(Agency for Digital Italy)AgID担任通报机构，负责评估、指定和监督合格评定机构。国家网络安全局(National Cybersecurity Agency)ACN是主要市场监督机构，也是与EU机构对接的单一联络点，拥有调查和执法权，包括在不事先通知的情况下检查真实环境测试，并负责登记用于关键基础设施的高风险系统。"
-              },
-              {
-                "t": "p",
-                "x": "IAPP分析的其余内容仅向会员开放。"
+                "x": "DOD发言人表示：“国防部不对其网络或系统的状况发表评论。”Accenture发言人称，相关指控“经过了彻底和独立的调查，被认定毫无根据”。安全专家告诉WIRED，泄露的凭证可能让攻击者在日后部署到机密网络的工具中植入恶意代码；目前没有迹象表明黑客进入了机密系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Italia define cómo hará cumplir\nla EU AI Act",
-          "body": "El decreto italiano No. 179/2026, vigente desde el 23 de octubre, designa a AgID y ACN para aplicar la EU AI Act.",
-          "mini_headline": "Toma forma el decreto italiano de la AI Act",
+          "headline": "Agente de AI de un contratista\noperó en red segura de Defensa",
+          "body": "Según WIRED, el agente Claude de un empleado de Accenture operó dos meses en una red del DOD antes de ser detectado.",
+          "mini_headline": "Un agente de AI en una red del Pentágono",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
+                "cap": "Una mano robótica sondea el Pentágono mientras se filtra código binario."
               },
               {
                 "t": "p",
-                "x": "El marco nacional de Italia para la EU Artificial Intelligence Act dio un paso decisivo el 23 de octubre, con la entrada en vigor del Decreto Legislativo No. 179. Publicado en el Diario Oficial el 8 de octubre, es el segundo paso de un enfoque en dos etapas que comenzó con la Ley No. 132 en septiembre de 2025, la ley general de Italia sobre AI."
+                "x": "A principios de este año, según fuentes consultadas por WIRED, un contratista empleado por Accenture provocó un incidente de seguridad en el Departamento de Defensa al conectar un sistema centralizado seguro, utilizado por varias agencias de inteligencia y que contiene información controlada no clasificada (CUI), a su cuenta personal de Claude Code, el agente de programación con AI de Anthropic. Al parecer, el agente envió después información sobre el sistema, incluidas credenciales de inicio de sesión y un mapa de NIPRNet, a un sitio web de terceros de alto riesgo."
               },
               {
                 "t": "p",
-                "x": "La AI Act deja piezas importantes a la legislación nacional: los Estados miembros deben designar autoridades competentes, establecer sanciones y procedimientos, y crear entornos de pruebas regulatorios (sandboxes). Al menos en dos áreas, Italia ha tomado decisiones propias."
+                "x": "El agente funcionó en la red del DOD durante dos meses antes de que se le identificara y pudiera corregirse la vulnerabilidad. Según las fuentes, Accenture no informó inicialmente de la brecha al gobierno, aunque los incidentes deben notificarse en un plazo de 72 horas. Actualmente, el personal del DOD tiene prohibido usar Claude."
               },
               {
                 "t": "p",
-                "x": "AgID, la Agencia para la Italia Digital, actúa como autoridad notificante: evalúa, designa y supervisa a los organismos de evaluación de la conformidad. ACN, la Agencia Nacional de Ciberseguridad, es la principal autoridad de vigilancia del mercado y el punto de contacto único con las instituciones de la EU, con poderes de investigación y ejecución, incluida la inspección sin previo aviso de pruebas en condiciones reales, y registra los sistemas de alto riesgo usados en infraestructuras críticas."
-              },
-              {
-                "t": "p",
-                "x": "El resto del análisis de la IAPP está disponible solo para miembros."
+                "x": "Un portavoz del DOD dijo que “el Departamento no comenta el estado de sus redes o sistemas”. Un portavoz de Accenture afirmó que las acusaciones “fueron investigadas a fondo y de forma independiente, y se determinó que carecían de fundamento”. Expertos en seguridad dijeron a WIRED que las credenciales expuestas podrían permitir a un atacante insertar código malicioso en herramientas que luego se despliegan en redes clasificadas; no hay indicios de que los hackers llegaran a un sistema clasificado."
               }
             ]
           }
@@ -677,15 +597,15 @@
       }
     },
     {
-      "id": "pakistan-ecp-ai",
+      "id": "austria-un-ai-centre-vienna",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "파키스탄 선관위\nAI·딥페이크 규칙 제안",
-      "body": "ECP가 AI 표기·기만적 딥페이크 금지안을 내고 11월 20일까지 의견을 받는다.",
-      "mini_headline": "파키스탄, AI 선거 규칙 초안",
+      "headline": "오스트리아, 빈에\nUN AI 안보센터 제안",
+      "body": "31개국 회의서 오스트리아는 빈 UN AI 센터를, 싱가포르는 사고 보고를 내놨다.",
+      "mini_headline": "오스트리아, UN AI 센터 제안",
       "tool": "Politics",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
+      "source": "Rapporteur (Euractiv)",
+      "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -693,179 +613,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-            "cap": "이슬라마바드의 파키스탄 선거관리위원회 건물. 사진: Radio Pakistan"
+            "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+            "cap": "Alexander Spatari via Getty Images"
           },
           {
             "t": "p",
-            "x": "파키스탄 선거관리위원회(ECP)가 선거 기간 인공지능(AI) 오용을 막으려고 정당·언론사·선거 참관인용 2023년 행동강령 개정안 12건을 내놨다."
+            "x": "오스트리아가 수요일 AI 안보 국제회의에서 빈에 유엔(United Nations) AI 센터를 세우자고 제안했다. 노르웨이와 핀란드가 공동 주최한 이번 화상회의는 이목을 끈 사이버보안 사고가 잇따르면서 선도적 AI 모델을 더 잘 통제하라는 국제 요구가 커지는 와중에 열렸다."
           },
           {
             "t": "p",
-            "x": "위원회는 11월 20일까지 일반 시민과 이해관계자 의견을 받는다. AI 생성(AI-generated) 콘텐츠를 규제하고 기만적 딥페이크를 금지하며 선거 관련 소통을 투명하게 하자는 취지다."
+            "x": "알렉산더 프뢸(Alexander Pröll) 오스트리아 디지털 담당 국무장관은 UN 센터가 신뢰할 만한 AI 체계를 세우는 데 “중심적 역할”을 할 수 있다고 말했다. 빈에 이미 국제원자력기구(International Atomic Energy Agency) 등 다른 UN 기구가 자리 잡고 있다는 점도 내세웠다."
           },
           {
             "t": "p",
-            "x": "언론사는 AI로 만들거나 고친 콘텐츠를 방송·게재·공개할 때 그 사실을 분명히 밝혀야 한다. 초안은 정당 지도자, 후보자, 선거 관리 공무원, 판사, 군인과 그 밖의 국가 공무원을 다룬 딥페이크가 허위이거나 명예를 훼손하거나 조롱할 의도라면 이를 금지한다."
+            "x": "노르웨이와 핀란드에 따르면 참여국은 서른한 개 나라로, 튀르키예와 몰도바도 들어간 것으로 알려졌다. 미국(US)과 중국은 빠진 것으로 보인다. 앞으로 “전문가급 절차”로 “AI 안전과 보안을 개선할 방안 모색”을 이어 간다. 언론 보도에 따르면 로렌스 웡(Lawrence Wong) 싱가포르 총리는 국제 항공 분야를 본뜬 “사고 보고 시범 사업”을 제안했다."
           },
           {
             "t": "p",
-            "x": "AI 사용을 밝히기만 하면 언론은 선거 콘텐츠를 준비·번역·진행·분석하는 데 AI 도구를 쓸 수 있다. 표시 없는 AI 콘텐츠는 Pemra, 소셜미디어보호규제청, 국가사이버범죄수사청이 감시하고 위반 사항을 ECP에 보고한다."
+            "x": "유럽 정상들은 11월 13일 더블린 비공식 유럽이사회(European Council) 회의에서 AI를 다시 다루고, EU 통신 장관들은 12월 1일 모인다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pakistan poll body proposes\nrules on AI and deepfakes",
-          "body": "Pakistan's ECP draft asks media to disclose AI content and bans deceptive deepfakes; comments run to Nov 20.",
-          "mini_headline": "Pakistan drafts AI poll rules",
+          "headline": "Austria pitches a UN AI\nsecurity centre in Vienna",
+          "body": "At a 31-country AI meeting, Austria proposed a UN AI centre in Vienna and Singapore floated incident reporting.",
+          "mini_headline": "Austria pitches UN AI centre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "Election Commission of Pakistan building in Islamabad. Photo: Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "The Election Commission of Pakistan (ECP) proposed 12 amendments to the 2023 codes of conduct for political parties, media organisations and election observers to curb the misuse of artificial intelligence (AI) during elections."
+                "x": "Austria pitched setting up a United Nations AI centre in Vienna at an international meeting on AI security on Wednesday. The video call, organised jointly by Norway and Finland, follows growing international calls for better control of leading AI models after a spate of high profile cybersecurity incidents."
               },
               {
                 "t": "p",
-                "x": "The commission has sought public and stakeholder feedback by Nov 20, with the measures aimed at regulating AI-generated content, prohibiting deceptive deepfakes and ensuring transparency in election-related communication."
+                "x": "A UN centre could play a “central role” in creating a trusted framework for AI, Austrian digital state secretary Alexander Pröll said, arguing Vienna already hosts other UN bodies, including the International Atomic Energy Agency."
               },
               {
                 "t": "p",
-                "x": "Media outlets would be required to clearly disclose when content generated or modified through AI is broadcast, published or released. The draft prohibits deepfakes of party leaders, candidates, election officials, judges, armed forces personnel and other state officials if the content is false, defamatory or intended to ridicule them."
+                "x": "Thirty-one countries participated, Norway and Finland said, reportedly including Turkey and Moldova – but not, seemingly, the US or China. An “expert level process” will continue to “explore options for improving AI safety and security.” Singapore’s prime minister, Lawrence Wong, suggested an “incident reporting pilot” drawing on international aviation, according to media reports."
               },
               {
                 "t": "p",
-                "x": "Media may use AI tools for preparing, translating, presenting or analysing election content if they disclose it. Pemra, the Social Media Protection and Regulatory Authority and the National Cyber Crime Investigation Agency would monitor unlabeled AI content and report violations to the ECP."
+                "x": "European heads of government will discuss AI again at an informal European Council session in Dublin on 13 November, and EU telecommunications ministers meet on 1 December."
               }
             ]
           }
         },
         "ko": {
-          "headline": "파키스탄 선관위\nAI·딥페이크 규칙 제안",
-          "body": "ECP가 AI 표기·기만적 딥페이크 금지안을 내고 11월 20일까지 의견을 받는다.",
-          "mini_headline": "파키스탄, AI 선거 규칙 초안",
+          "headline": "오스트리아, 빈에\nUN AI 안보센터 제안",
+          "body": "31개국 회의서 오스트리아는 빈 UN AI 센터를, 싱가포르는 사고 보고를 내놨다.",
+          "mini_headline": "오스트리아, UN AI 센터 제안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "이슬라마바드의 파키스탄 선거관리위원회 건물. 사진: Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "파키스탄 선거관리위원회(ECP)가 선거 기간 인공지능(AI) 오용을 막으려고 정당·언론사·선거 참관인용 2023년 행동강령 개정안 12건을 내놨다."
+                "x": "오스트리아가 수요일 AI 안보 국제회의에서 빈에 유엔(United Nations) AI 센터를 세우자고 제안했다. 노르웨이와 핀란드가 공동 주최한 이번 화상회의는 이목을 끈 사이버보안 사고가 잇따르면서 선도적 AI 모델을 더 잘 통제하라는 국제 요구가 커지는 와중에 열렸다."
               },
               {
                 "t": "p",
-                "x": "위원회는 11월 20일까지 일반 시민과 이해관계자 의견을 받는다. AI 생성(AI-generated) 콘텐츠를 규제하고 기만적 딥페이크를 금지하며 선거 관련 소통을 투명하게 하자는 취지다."
+                "x": "알렉산더 프뢸(Alexander Pröll) 오스트리아 디지털 담당 국무장관은 UN 센터가 신뢰할 만한 AI 체계를 세우는 데 “중심적 역할”을 할 수 있다고 말했다. 빈에 이미 국제원자력기구(International Atomic Energy Agency) 등 다른 UN 기구가 자리 잡고 있다는 점도 내세웠다."
               },
               {
                 "t": "p",
-                "x": "언론사는 AI로 만들거나 고친 콘텐츠를 방송·게재·공개할 때 그 사실을 분명히 밝혀야 한다. 초안은 정당 지도자, 후보자, 선거 관리 공무원, 판사, 군인과 그 밖의 국가 공무원을 다룬 딥페이크가 허위이거나 명예를 훼손하거나 조롱할 의도라면 이를 금지한다."
+                "x": "노르웨이와 핀란드에 따르면 참여국은 서른한 개 나라로, 튀르키예와 몰도바도 들어간 것으로 알려졌다. 미국(US)과 중국은 빠진 것으로 보인다. 앞으로 “전문가급 절차”로 “AI 안전과 보안을 개선할 방안 모색”을 이어 간다. 언론 보도에 따르면 로렌스 웡(Lawrence Wong) 싱가포르 총리는 국제 항공 분야를 본뜬 “사고 보고 시범 사업”을 제안했다."
               },
               {
                 "t": "p",
-                "x": "AI 사용을 밝히기만 하면 언론은 선거 콘텐츠를 준비·번역·진행·분석하는 데 AI 도구를 쓸 수 있다. 표시 없는 AI 콘텐츠는 Pemra, 소셜미디어보호규제청, 국가사이버범죄수사청이 감시하고 위반 사항을 ECP에 보고한다."
+                "x": "유럽 정상들은 11월 13일 더블린 비공식 유럽이사회(European Council) 회의에서 AI를 다시 다루고, EU 통신 장관들은 12월 1일 모인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "パキスタン選管、AIと\nディープフェイクに規則案",
-          "body": "ECP案はメディアにAI開示を求め欺瞞的ディープフェイクを禁止、意見は11月20日までだ。",
-          "mini_headline": "パキスタン、AI選挙規則案",
+          "headline": "オーストリア、ウィーンに\nUNのAI安保センター提案",
+          "body": "31か国会合でオーストリアはウィーンにUNのAI拠点を、シンガポールは事故報告を提案した。",
+          "mini_headline": "オーストリア、UNのAIセンターを提案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "イスラマバードのパキスタン選挙管理委員会の建物。写真:Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "パキスタン選挙管理委員会(ECP)は、選挙中の人工知能(AI)の悪用を抑えるため、政党、報道機関、選挙監視員を対象とする2023年の行動規範に対し、12項目の改正を提案した。"
+                "x": "オーストリアは水曜日、AIの安全保障に関する国際会合で、ウィーンに国連(United Nations)のAIセンターを設置することを提案した。ノルウェーとフィンランドが共同で開催したこのビデオ会議は、注目を集めたサイバーセキュリティ事件が相次いだことを受け、先端AIモデルの管理強化を求める国際的な声が高まるなかで開かれた。"
               },
               {
                 "t": "p",
-                "x": "委員会は11月20日までに一般市民と関係者からの意見を求めている。これらの措置は、AI生成(AI-generated)コンテンツの規制、欺瞞的なディープフェイクの禁止、選挙関連の情報発信の透明性確保を目的とする。"
+                "x": "オーストリアのデジタル担当国務長官アレクサンダー・プレル(Alexander Pröll)氏は、UNのセンターがAIの信頼できる枠組みづくりで「中心的な役割」を果たし得ると述べ、ウィーンにはすでに国際原子力機関(International Atomic Energy Agency)を含む他のUN機関があると主張した。"
               },
               {
                 "t": "p",
-                "x": "報道機関は、AIで生成または加工したコンテンツを放送、掲載、公開する際に、その旨を明確に開示する必要がある。草案は、政党指導者、候補者、選挙管理職員、裁判官、軍関係者、その他の国家公務員のディープフェイクについて、内容が虚偽、名誉毀損、または嘲笑を目的とする場合に禁止する。"
+                "x": "ノルウェーとフィンランドによると三十一か国が参加し、トルコやモルドバも含まれていたと伝えられるが、米国(US)や中国は参加しなかったもようだ。「専門家レベルのプロセス」が今後も「AIの安全性とセキュリティを高める選択肢を探る」。報道によると、シンガポールのローレンス・ウォン(Lawrence Wong)首相は国際航空を参考にした「インシデント報告の試験的取り組み」を提案した。"
               },
               {
                 "t": "p",
-                "x": "報道機関は、開示すれば選挙コンテンツの準備、翻訳、提示、分析にAIツールを使える。Pemra、ソーシャルメディア保護規制庁、国家サイバー犯罪捜査庁が表示のないAIコンテンツを監視し、違反をECPに報告する。"
+                "x": "欧州各国の首脳は11月13日にダブリンで開かれる非公式の欧州理事会(European Council)で再びAIを議論し、EUの通信相は12月1日に会合を開く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴基斯坦选举委员会拟定\nAI与深度伪造规则",
-          "body": "巴基斯坦ECP草案要求媒体披露AI内容并禁止欺骗性深度伪造，意见征询至11月20日。",
-          "mini_headline": "巴基斯坦拟定AI选举规则",
+          "headline": "奥地利提议在维也纳\n设立UN AI安全中心",
+          "body": "在31国AI会议上，奥地利提议在维也纳设UN AI中心，新加坡则提出事件报告机制。",
+          "mini_headline": "奥地利提议设UN AI中心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "位于伊斯兰堡的巴基斯坦选举委员会大楼。图片：Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "巴基斯坦选举委员会(ECP)提议对2023年政党、媒体机构和选举观察员行为准则作出12项修订，以遏制选举期间滥用人工智能(AI)。"
+                "x": "奥地利周三在一场AI安全国际会议上提议在维也纳设立一个联合国(United Nations)AI中心。这次视频会议由挪威和芬兰联合主办，此前一系列备受关注的网络安全事件发生后，国际社会要求加强管控领先AI模型的呼声日益高涨。"
               },
               {
                 "t": "p",
-                "x": "委员会在11月20日前征求公众和利益相关方的意见，相关措施旨在规范AI生成(AI-generated)内容、禁止欺骗性深度伪造，并确保选举相关传播的透明度。"
+                "x": "奥地利数字事务国务秘书亚历山大·普勒尔(Alexander Pröll)表示，UN中心可在构建可信AI框架方面发挥“核心作用”，并称维也纳已设有包括国际原子能机构(International Atomic Energy Agency)在内的其他UN机构。"
               },
               {
                 "t": "p",
-                "x": "媒体在播出、发布或公开经AI生成或修改的内容时，须予以明确披露。草案禁止制作政党领导人、候选人、选举官员、法官、武装部队人员及其他国家官员的深度伪造内容，前提是这些内容虚假、具有诽谤性或意在嘲弄他们。"
+                "x": "挪威和芬兰表示，共有三十一个国家参加，据报道包括土耳其和摩尔多瓦，但美国(US)和中国似乎没有参加。一个“专家级进程”将继续“探索改善AI安全与安保的方案”。据媒体报道，新加坡总理黄循财(Lawrence Wong)建议借鉴国际航空经验开展“事件报告试点”。"
               },
               {
                 "t": "p",
-                "x": "媒体在披露的前提下，可使用AI工具准备、翻译、呈现或分析选举内容。Pemra、社交媒体保护与监管局和国家网络犯罪调查局将监测未标注的AI内容，并向ECP报告违规行为。"
+                "x": "欧洲各国政府首脑将于11月13日在都柏林举行的欧洲理事会(European Council)非正式会议上再次讨论AI，EU电信部长们将于12月1日会面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El órgano electoral de Pakistán\npropone normas de AI y deepfakes",
-          "body": "La ECP pide a los medios revelar contenido de AI y veta deepfakes engañosos; recibe opiniones hasta el 20 de noviembre.",
-          "mini_headline": "Pakistán redacta normas electorales de AI",
+          "headline": "Austria propone en Viena un\ncentro UN de seguridad de AI",
+          "body": "En una reunión de 31 países, Austria propuso un centro de AI de la UN en Viena y Singapur planteó notificar incidentes.",
+          "mini_headline": "Austria propone un centro de AI de la UN",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "Edificio de la Comisión Electoral de Pakistán en Islamabad. Foto: Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Comisión Electoral de Pakistán (ECP) propuso 12 enmiendas a los códigos de conducta de 2023 para partidos políticos, medios de comunicación y observadores electorales, con el fin de frenar el uso indebido de la inteligencia artificial (AI) durante las elecciones."
+                "x": "Austria propuso el miércoles crear en Viena un centro de AI de las Naciones Unidas durante una reunión internacional sobre seguridad de la AI. La videollamada, organizada conjuntamente por Noruega y Finlandia, se produce tras crecientes llamamientos internacionales a un mayor control de los principales modelos de AI después de una serie de incidentes de ciberseguridad de alto perfil."
               },
               {
                 "t": "p",
-                "x": "La comisión ha pedido la opinión del público y de las partes interesadas hasta el 20 de noviembre; las medidas buscan regular el contenido generado por AI (AI-generated), prohibir los deepfakes engañosos y garantizar la transparencia en la comunicación relacionada con las elecciones."
+                "x": "Un centro de la UN podría desempeñar un “papel central” en la creación de un marco de confianza para la AI, dijo el secretario de Estado austriaco de Digitalización, Alexander Pröll, quien argumentó que Viena ya alberga otros organismos de la UN, incluido el Organismo Internacional de Energía Atómica."
               },
               {
                 "t": "p",
-                "x": "Los medios estarían obligados a indicar claramente cuándo emiten, publican o difunden contenido generado o modificado mediante AI. El borrador prohíbe los deepfakes de líderes de partidos, candidatos, funcionarios electorales, jueces, miembros de las fuerzas armadas y otros funcionarios del Estado si el contenido es falso, difamatorio o busca ridiculizarlos."
+                "x": "Participaron treinta y un países, según Noruega y Finlandia, entre ellos, al parecer, Turquía y Moldavia, pero aparentemente no Estados Unidos (US) ni China. Un “proceso a nivel de expertos” seguirá “explorando opciones para mejorar la seguridad y la protección de la AI”. El primer ministro de Singapur, Lawrence Wong, sugirió un “piloto de notificación de incidentes” inspirado en la aviación internacional, según informes de prensa."
               },
               {
                 "t": "p",
-                "x": "Los medios podrán usar herramientas de AI para preparar, traducir, presentar o analizar contenido electoral si lo declaran. Pemra, la Autoridad de Protección y Regulación de Redes Sociales y la Agencia Nacional de Investigación de Delitos Cibernéticos vigilarían el contenido de AI sin etiquetar y comunicarían las infracciones a la ECP."
+                "x": "Los jefes de Gobierno europeos volverán a debatir sobre AI en una sesión informal del Consejo Europeo en Dublín el 13 de noviembre, y los ministros de Telecomunicaciones de la EU se reunirán el 1 de diciembre."
               }
             ]
           }
@@ -873,125 +793,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "파키스탄 선관위\nAI·딥페이크 규칙 제안",
-          "body": "ECP가 AI 표기·기만적 딥페이크 금지안을 냈고 11월 20일까지 의견을 받는다.",
-          "mini_headline": "파키스탄, AI 선거 규칙 초안",
+          "headline": "오스트리아, 빈에\nUN AI 안보센터 제안",
+          "body": "31개국 회의서 오스트리아는 빈 UN AI 센터, 싱가포르는 사고 보고를 제안했다.",
+          "mini_headline": "오스트리아, UN AI 센터 제안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "이슬라마바드의 파키스탄 선거관리위원회 건물. 사진: Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "파키스탄 선거관리위원회(ECP)는 선거 기간 인공지능(AI) 오용을 막기 위해 정당·언론사·선거 참관인을 위한 2023년 행동강령에 12개 개정안을 제안했다."
+                "x": "오스트리아는 수요일 AI 안보에 관한 국제회의에서 빈에 유엔(United Nations) AI 센터를 세우자고 제안했다. 노르웨이와 핀란드가 공동으로 주최한 이번 화상회의는 세간의 이목을 끈 사이버보안 사고가 잇따른 뒤 선도적 AI 모델을 더 잘 통제해야 한다는 국제적 요구가 커지는 가운데 열렸다."
               },
               {
                 "t": "p",
-                "x": "위원회는 11월 20일까지 일반 시민과 이해관계자의 의견을 받는다. 이번 조치는 AI 생성(AI-generated) 콘텐츠를 규제하고, 기만적 딥페이크를 금지하며, 선거 관련 소통의 투명성을 확보하는 데 목적이 있다."
+                "x": "알렉산더 프뢸(Alexander Pröll) 오스트리아 디지털 담당 국무장관은 UN 센터가 신뢰할 수 있는 AI 체계를 만드는 데 “중심적 역할”을 할 수 있다며, 빈에는 이미 국제원자력기구(International Atomic Energy Agency)를 비롯한 다른 UN 기구가 자리하고 있다고 주장했다."
               },
               {
                 "t": "p",
-                "x": "언론사는 AI로 생성하거나 수정한 콘텐츠를 방송·게재·공개할 때 이를 명확히 밝혀야 한다. 초안은 정당 지도자, 후보자, 선거 관리 공무원, 판사, 군인 및 기타 국가 공무원의 딥페이크가 허위이거나 명예를 훼손하거나 이들을 조롱할 의도라면 이를 금지한다."
+                "x": "노르웨이와 핀란드에 따르면 서른한 개 나라가 참여했으며, 튀르키예와 몰도바가 포함된 것으로 알려졌다. 다만 미국(US)과 중국은 참여하지 않은 것으로 보인다. “전문가급 절차”를 통해 “AI 안전과 보안을 개선할 방안 모색”이 이어진다. 언론 보도에 따르면 로렌스 웡(Lawrence Wong) 싱가포르 총리는 국제 항공 분야를 참고한 “사고 보고 시범 사업”을 제안했다."
               },
               {
                 "t": "p",
-                "x": "언론은 이를 밝히면 선거 콘텐츠의 준비·번역·진행·분석에 AI 도구를 쓸 수 있다. Pemra, 소셜미디어보호규제청, 국가사이버범죄수사청이 표시 없는 AI 콘텐츠를 감시하고 위반 사항을 ECP에 보고하게 된다."
+                "x": "유럽 정상들은 11월 13일 더블린에서 열리는 비공식 유럽이사회(European Council) 회의에서 AI를 다시 논의하며, EU 통신 장관들은 12월 1일 만난다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "パキスタン選管、AIと\nディープフェイクに規則案",
-          "body": "ECP案はメディアにAI開示を求め欺瞞的ディープフェイクを禁止、意見は11月20日までだ。",
-          "mini_headline": "パキスタン、AI選挙規則案",
+          "headline": "オーストリア、ウィーンに\nUNのAI安保センター提案",
+          "body": "31か国会合でオーストリアはウィーンにUNのAI拠点を、シンガポールは事故報告を提案した。",
+          "mini_headline": "オーストリア、UNのAIセンターを提案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "イスラマバードのパキスタン選挙管理委員会の建物。写真:Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "パキスタン選挙管理委員会(ECP)は、選挙中の人工知能(AI)の悪用を抑えるため、政党、報道機関、選挙監視員を対象とする2023年の行動規範に対し、12項目の改正を提案した。"
+                "x": "オーストリアは水曜日、AIの安全保障に関する国際会合で、ウィーンに国連(United Nations)のAIセンターを設置することを提案した。ノルウェーとフィンランドが共同で開催したこのビデオ会議は、注目を集めたサイバーセキュリティ事件が相次いだことを受け、先端AIモデルの管理強化を求める国際的な声が高まるなかで開かれた。"
               },
               {
                 "t": "p",
-                "x": "委員会は11月20日までに一般市民と関係者からの意見を求めている。これらの措置は、AI生成(AI-generated)コンテンツの規制、欺瞞的なディープフェイクの禁止、選挙関連の情報発信の透明性確保を目的とする。"
+                "x": "オーストリアのデジタル担当国務長官アレクサンダー・プレル(Alexander Pröll)氏は、UNのセンターがAIの信頼できる枠組みづくりで「中心的な役割」を果たし得ると述べ、ウィーンにはすでに国際原子力機関(International Atomic Energy Agency)を含む他のUN機関があると主張した。"
               },
               {
                 "t": "p",
-                "x": "報道機関は、AIで生成または加工したコンテンツを放送、掲載、公開する際に、その旨を明確に開示する必要がある。草案は、政党指導者、候補者、選挙管理職員、裁判官、軍関係者、その他の国家公務員のディープフェイクについて、内容が虚偽、名誉毀損、または嘲笑を目的とする場合に禁止する。"
+                "x": "ノルウェーとフィンランドによると三十一か国が参加し、トルコやモルドバも含まれていたと伝えられるが、米国(US)や中国は参加しなかったもようだ。「専門家レベルのプロセス」が今後も「AIの安全性とセキュリティを高める選択肢を探る」。報道によると、シンガポールのローレンス・ウォン(Lawrence Wong)首相は国際航空を参考にした「インシデント報告の試験的取り組み」を提案した。"
               },
               {
                 "t": "p",
-                "x": "報道機関は、開示すれば選挙コンテンツの準備、翻訳、提示、分析にAIツールを使える。Pemra、ソーシャルメディア保護規制庁、国家サイバー犯罪捜査庁が表示のないAIコンテンツを監視し、違反をECPに報告する。"
+                "x": "欧州各国の首脳は11月13日にダブリンで開かれる非公式の欧州理事会(European Council)で再びAIを議論し、EUの通信相は12月1日に会合を開く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴基斯坦选举委员会拟定\nAI与深度伪造规则",
-          "body": "巴基斯坦ECP草案要求媒体披露AI内容并禁止欺骗性深度伪造，意见征询至11月20日。",
-          "mini_headline": "巴基斯坦拟定AI选举规则",
+          "headline": "奥地利提议在维也纳\n设立UN AI安全中心",
+          "body": "在31国AI会议上，奥地利提议在维也纳设UN AI中心，新加坡则提出事件报告机制。",
+          "mini_headline": "奥地利提议设UN AI中心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "位于伊斯兰堡的巴基斯坦选举委员会大楼。图片：Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "巴基斯坦选举委员会(ECP)提议对2023年政党、媒体机构和选举观察员行为准则作出12项修订，以遏制选举期间滥用人工智能(AI)。"
+                "x": "奥地利周三在一场AI安全国际会议上提议在维也纳设立一个联合国(United Nations)AI中心。这次视频会议由挪威和芬兰联合主办，此前一系列备受关注的网络安全事件发生后，国际社会要求加强管控领先AI模型的呼声日益高涨。"
               },
               {
                 "t": "p",
-                "x": "委员会在11月20日前征求公众和利益相关方的意见，相关措施旨在规范AI生成(AI-generated)内容、禁止欺骗性深度伪造，并确保选举相关传播的透明度。"
+                "x": "奥地利数字事务国务秘书亚历山大·普勒尔(Alexander Pröll)表示，UN中心可在构建可信AI框架方面发挥“核心作用”，并称维也纳已设有包括国际原子能机构(International Atomic Energy Agency)在内的其他UN机构。"
               },
               {
                 "t": "p",
-                "x": "媒体在播出、发布或公开经AI生成或修改的内容时，须予以明确披露。草案禁止制作政党领导人、候选人、选举官员、法官、武装部队人员及其他国家官员的深度伪造内容，前提是这些内容虚假、具有诽谤性或意在嘲弄他们。"
+                "x": "挪威和芬兰表示，共有三十一个国家参加，据报道包括土耳其和摩尔多瓦，但美国(US)和中国似乎没有参加。一个“专家级进程”将继续“探索改善AI安全与安保的方案”。据媒体报道，新加坡总理黄循财(Lawrence Wong)建议借鉴国际航空经验开展“事件报告试点”。"
               },
               {
                 "t": "p",
-                "x": "媒体在披露的前提下，可使用AI工具准备、翻译、呈现或分析选举内容。Pemra、社交媒体保护与监管局和国家网络犯罪调查局将监测未标注的AI内容，并向ECP报告违规行为。"
+                "x": "欧洲各国政府首脑将于11月13日在都柏林举行的欧洲理事会(European Council)非正式会议上再次讨论AI，EU电信部长们将于12月1日会面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El órgano electoral de Pakistán\npropone normas de AI y deepfakes",
-          "body": "La ECP pide a los medios revelar contenido de AI y veta deepfakes engañosos; recibe opiniones hasta el 20 de noviembre.",
-          "mini_headline": "Pakistán redacta normas electorales de AI",
+          "headline": "Austria propone en Viena un\ncentro UN de seguridad de AI",
+          "body": "En una reunión de 31 países, Austria propuso un centro de AI de la UN en Viena y Singapur planteó notificar incidentes.",
+          "mini_headline": "Austria propone un centro de AI de la UN",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
-                "cap": "Edificio de la Comisión Electoral de Pakistán en Islamabad. Foto: Radio Pakistan"
+                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
+                "cap": "Alexander Spatari via Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Comisión Electoral de Pakistán (ECP) propuso 12 enmiendas a los códigos de conducta de 2023 para partidos políticos, medios de comunicación y observadores electorales, con el fin de frenar el uso indebido de la inteligencia artificial (AI) durante las elecciones."
+                "x": "Austria propuso el miércoles crear en Viena un centro de AI de las Naciones Unidas durante una reunión internacional sobre seguridad de la AI. La videollamada, organizada conjuntamente por Noruega y Finlandia, se produce tras crecientes llamamientos internacionales a un mayor control de los principales modelos de AI después de una serie de incidentes de ciberseguridad de alto perfil."
               },
               {
                 "t": "p",
-                "x": "La comisión ha pedido la opinión del público y de las partes interesadas hasta el 20 de noviembre; las medidas buscan regular el contenido generado por AI (AI-generated), prohibir los deepfakes engañosos y garantizar la transparencia en la comunicación relacionada con las elecciones."
+                "x": "Un centro de la UN podría desempeñar un “papel central” en la creación de un marco de confianza para la AI, dijo el secretario de Estado austriaco de Digitalización, Alexander Pröll, quien argumentó que Viena ya alberga otros organismos de la UN, incluido el Organismo Internacional de Energía Atómica."
               },
               {
                 "t": "p",
-                "x": "Los medios estarían obligados a indicar claramente cuándo emiten, publican o difunden contenido generado o modificado mediante AI. El borrador prohíbe los deepfakes de líderes de partidos, candidatos, funcionarios electorales, jueces, miembros de las fuerzas armadas y otros funcionarios del Estado si el contenido es falso, difamatorio o busca ridiculizarlos."
+                "x": "Participaron treinta y un países, según Noruega y Finlandia, entre ellos, al parecer, Turquía y Moldavia, pero aparentemente no Estados Unidos (US) ni China. Un “proceso a nivel de expertos” seguirá “explorando opciones para mejorar la seguridad y la protección de la AI”. El primer ministro de Singapur, Lawrence Wong, sugirió un “piloto de notificación de incidentes” inspirado en la aviación internacional, según informes de prensa."
               },
               {
                 "t": "p",
-                "x": "Los medios podrán usar herramientas de AI para preparar, traducir, presentar o analizar contenido electoral si lo declaran. Pemra, la Autoridad de Protección y Regulación de Redes Sociales y la Agencia Nacional de Investigación de Delitos Cibernéticos vigilarían el contenido de AI sin etiquetar y comunicarían las infracciones a la ECP."
+                "x": "Los jefes de Gobierno europeos volverán a debatir sobre AI en una sesión informal del Consejo Europeo en Dublín el 13 de noviembre, y los ministros de Telecomunicaciones de la EU se reunirán el 1 de diciembre."
               }
             ]
           }
@@ -999,15 +919,15 @@
       }
     },
     {
-      "id": "ap-ai-disinfo-videos",
+      "id": "canada-security-strategy-frontier-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "실존 인물 도용 AI 영상\n상원 후보 비방",
-      "body": "연구진은 미국인 신원을 훔쳐 상원 후보를 비방한 AI 영상이 러시아발이라고 본다.",
-      "mini_headline": "AI 영상, 상원 후보 겨냥",
+      "headline": "캐나다, 프런티어 AI를\n최대 안보 위협에 포함",
+      "body": "캐나다가 20여 년 만에 낸 국가안보전략에서 프런티어 AI를 주요 위협으로 꼽았다.",
+      "mini_headline": "캐나다, 프런티어 AI 위협 지목",
       "tool": "Politics",
-      "source": "Associated Press (via Pioneer Press)",
-      "url": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
+      "source": "National Post",
+      "url": "https://nationalpost.com/news/frontier-ai-one-of-greatest-threats-to-canadians-as-ottawa-releases-national-security-strategy",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1015,179 +935,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-            "cap": "사전투표 기간 한 유권자가 투표용지를 작성하고 있다."
+            "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+            "cap": "마크 카니(Mark Carney) 총리."
           },
           {
             "t": "p",
-            "x": "NEW YORK (AP) — 인공지능으로 만든 것으로 보이는 러시아 연계 소셜미디어 영상들이 실존 인물의 이름과 사진을 도용해 중간선거 막바지에 민주당 상원 후보 두 명에 관한 허위 정보를 퍼뜨리고 있다."
+            "x": "OTTAWA — 정부가 커지는 위험, 나아가 전쟁에까지 나라를 대비시키려는 국가안보전략을 공개하자 연방 당국자들은 프런티어 AI 모델을 지금 캐나다인이 맞닥뜨린 가장 큰 위협 가운데 하나로 꼽았다."
           },
           {
             "t": "p",
-            "x": "한 영상은 오하이오에서 공화당 존 허스테드(Jon Husted) 상원의원과 맞붙는 셰러드 브라운(Sherrod Brown)을 겨냥해 전직 인턴 하야 악비크(Haya Akbik)의 사진을 썼다. 악비크는 자기가 했다는 주장이 “완전히 지어낸 것”이라고 말했다. 다른 영상은 텍사스에서 공화당 켄 팩스턴(Ken Paxton)과 맞붙는 제임스 탈라리코(James Talarico)를 노렸는데, 전직 학생의 고백 형식이다."
+            "x": "마크 카니(Mark Carney) 총리 정부가 목요일 공개한 국가안보전략은 이십여 년 만에 처음이다. ‘더 강한 캐나다를 위한 계획(The Plan for a Stronger Canada)’이라는 이 전략에는 오타와(Ottawa)가 전쟁, 인공지능, 해커, 간첩 활동, 사보타주, 외국의 간섭 같은 위협에서 나라를 지키고 여덟 개 핵심 부문의 자율성을 키우려는 구상이 개략적으로 담겼다."
           },
           {
             "t": "p",
-            "x": "X는 최초 게시물을 내리고 해당 계정을 정지했지만 사본은 여전히 온라인에 남아 있었다. 클렘슨대 대런 린빌(Darren Linvill) 교수는 이 영상들이 러시아 네트워크 Storm-1516에서 나왔을 가능성이 크다고 말했다. 러시아 대사관은 즉각 답하지 않았고, 과거에는 미국(U.S.) 선거 개입을 부인해 왔다."
+            "x": "한 고위 당국자는 “기후 변화부터 테러, 범죄, 오피오이드, 팬데믹, 사이버 공격, 프런티어 AI, 커져가는 대규모 전쟁 가능성까지 캐나다와 캐나다인이 직면한 위협은 매우 복잡하고 서로 얽히게 됐다”고 말했다."
           },
           {
             "t": "p",
-            "x": "다트머스대 하니 파리드(Hany Farid) 교수는 영상들이 AI로 생성되거나 조작됐을 공산이 크다며 브라운 영상을 “꽤 기술 수준이 낮은 가짜”라고 평했다."
+            "x": "전략은 정보·방첩·사이버 방어 역량을 강화하고, 한 해 안에 새 국가안보 법안을 내고, 몇 달 안에 다섯 개 세부 전략을 내놓겠다고 약속했다. 당국자들은 다음 주 연방 예산안 발표를 앞두고 비용은 구체적으로 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI videos use real identities\nto malign Senate candidates",
-          "body": "Researchers say AI videos using real Americans' identities to malign Senate candidates likely come from Russia.",
-          "mini_headline": "AI videos target Senate candidates",
+          "headline": "Canada names frontier AI among\nits greatest security threats",
+          "body": "Unveiling Canada's first national security strategy in over 20 years, officials named frontier AI a top threat.",
+          "mini_headline": "Canada flags frontier AI threat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "A voter fills out a ballot during early voting."
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "Prime Minister Mark Carney."
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — Social media videos believed to be produced with artificial intelligence and linked to Russia are misusing real people’s names and photographs to spread disinformation about two Democratic Senate candidates in the final stretch of midterm voting."
+                "x": "OTTAWA — Frontier AI models are one of the greatest current threats to Canadians, say federal officials as the government released a national security strategy aiming to steel the country against growing risks and even war."
               },
               {
                 "t": "p",
-                "x": "One targets Sherrod Brown, running against Republican Sen. Jon Husted in Ohio, and uses pictures of a former intern, Haya Akbik, who called the claims attributed to her “completely made up.” Another targets James Talarico, running against Republican Ken Paxton in Texas, framed as a confessional from a former student."
+                "x": "Prime Minister Mark Carney’s government released the first national security strategy in over two decades on Thursday. Titled The Plan for a Stronger Canada, it gives a high-level view of how Ottawa aims to protect the country against threats such as war, artificial intelligence, hackers, espionage, sabotage and foreign interference, and to grow autonomy in eight key sectors."
               },
               {
                 "t": "p",
-                "x": "X took down the initial posts and suspended the users, but copies could still be found online. Clemson University professor Darren Linvill said the videos are likely products of Storm-1516, a Russian network. The Russian Embassy did not immediately respond; in the past, it has denied interfering in U.S. elections."
+                "x": "“The threats facing Canada and Canadians have become so complex and interrelated, from climate change to terrorism, crime, opioids, and pandemics, cyber attacks to frontier AI to the increasing possibility of a major war,” said one senior official."
               },
               {
                 "t": "p",
-                "x": "Dartmouth professor Hany Farid said the videos were likely generated or manipulated with AI, calling the Brown video a “fairly low-tech fake.”"
+                "x": "The strategy promises more intelligence, counterintelligence and cyber-defence capabilities, new national security legislation within the next year, and five more specific strategies in the coming months. Officials declined to detail costs ahead of next week’s federal budget."
               }
             ]
           }
         },
         "ko": {
-          "headline": "실존 인물 도용 AI 영상\n상원 후보 비방",
-          "body": "연구진은 미국인 신원을 훔쳐 상원 후보를 비방한 AI 영상이 러시아발이라고 본다.",
-          "mini_headline": "AI 영상, 상원 후보 겨냥",
+          "headline": "캐나다, 프런티어 AI를\n최대 안보 위협에 포함",
+          "body": "캐나다가 20여 년 만에 낸 국가안보전략에서 프런티어 AI를 주요 위협으로 꼽았다.",
+          "mini_headline": "캐나다, 프런티어 AI 위협 지목",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "사전투표 기간 한 유권자가 투표용지를 작성하고 있다."
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "마크 카니(Mark Carney) 총리."
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 인공지능으로 만든 것으로 보이는 러시아 연계 소셜미디어 영상들이 실존 인물의 이름과 사진을 도용해 중간선거 막바지에 민주당 상원 후보 두 명에 관한 허위 정보를 퍼뜨리고 있다."
+                "x": "OTTAWA — 정부가 커지는 위험, 나아가 전쟁에까지 나라를 대비시키려는 국가안보전략을 공개하자 연방 당국자들은 프런티어 AI 모델을 지금 캐나다인이 맞닥뜨린 가장 큰 위협 가운데 하나로 꼽았다."
               },
               {
                 "t": "p",
-                "x": "한 영상은 오하이오에서 공화당 존 허스테드(Jon Husted) 상원의원과 맞붙는 셰러드 브라운(Sherrod Brown)을 겨냥해 전직 인턴 하야 악비크(Haya Akbik)의 사진을 썼다. 악비크는 자기가 했다는 주장이 “완전히 지어낸 것”이라고 말했다. 다른 영상은 텍사스에서 공화당 켄 팩스턴(Ken Paxton)과 맞붙는 제임스 탈라리코(James Talarico)를 노렸는데, 전직 학생의 고백 형식이다."
+                "x": "마크 카니(Mark Carney) 총리 정부가 목요일 공개한 국가안보전략은 이십여 년 만에 처음이다. ‘더 강한 캐나다를 위한 계획(The Plan for a Stronger Canada)’이라는 이 전략에는 오타와(Ottawa)가 전쟁, 인공지능, 해커, 간첩 활동, 사보타주, 외국의 간섭 같은 위협에서 나라를 지키고 여덟 개 핵심 부문의 자율성을 키우려는 구상이 개략적으로 담겼다."
               },
               {
                 "t": "p",
-                "x": "X는 최초 게시물을 내리고 해당 계정을 정지했지만 사본은 여전히 온라인에 남아 있었다. 클렘슨대 대런 린빌(Darren Linvill) 교수는 이 영상들이 러시아 네트워크 Storm-1516에서 나왔을 가능성이 크다고 말했다. 러시아 대사관은 즉각 답하지 않았고, 과거에는 미국(U.S.) 선거 개입을 부인해 왔다."
+                "x": "한 고위 당국자는 “기후 변화부터 테러, 범죄, 오피오이드, 팬데믹, 사이버 공격, 프런티어 AI, 커져가는 대규모 전쟁 가능성까지 캐나다와 캐나다인이 직면한 위협은 매우 복잡하고 서로 얽히게 됐다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "다트머스대 하니 파리드(Hany Farid) 교수는 영상들이 AI로 생성되거나 조작됐을 공산이 크다며 브라운 영상을 “꽤 기술 수준이 낮은 가짜”라고 평했다."
+                "x": "전략은 정보·방첩·사이버 방어 역량을 강화하고, 한 해 안에 새 국가안보 법안을 내고, 몇 달 안에 다섯 개 세부 전략을 내놓겠다고 약속했다. 당국자들은 다음 주 연방 예산안 발표를 앞두고 비용은 구체적으로 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "実在の身元を使うAI動画\n上院候補を中傷",
-          "body": "研究者によると、実在の米国人の身元で上院候補を中傷するAI動画はロシア発の可能性が高い。",
-          "mini_headline": "AI動画、上院候補を標的に",
+          "headline": "カナダ、フロンティアAIを\n最大級の安全保障上の脅威に",
+          "body": "カナダ当局者は20年余りで初の国家安全保障戦略でフロンティアAIを主な脅威に挙げた。",
+          "mini_headline": "カナダ、フロンティアAIを脅威と指摘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "期日前投票で投票用紙に記入する有権者。"
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "マーク・カーニー(Mark Carney)首相。"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 人工知能で制作されたとみられ、ロシアとの関連が指摘されるソーシャルメディア動画が、実在の人物の名前や写真を悪用し、中間選挙の終盤戦で民主党の上院候補二人に関する偽情報を広めている。"
+                "x": "OTTAWA — 政府が高まるリスクや戦争にさえ備えて国を強化することを目指す国家安全保障戦略を公表するなか、連邦当局者は、フロンティアAIモデルが現在カナダ国民にとって最大の脅威の一つだと述べた。"
               },
               {
                 "t": "p",
-                "x": "一つはオハイオ州で共和党のジョン・ヒューステッド(Jon Husted)上院議員と争うシェロッド・ブラウン(Sherrod Brown)を標的にし、元インターンのハヤ・アクビク(Haya Akbik)の写真を使っている。アクビクは自分の発言とされた内容を「完全なでっち上げ」だと述べた。もう一つはテキサス州で共和党のケン・パクストン(Ken Paxton)と争うジェームズ・タラリコ(James Talarico)を標的にし、元教え子による告白の体裁をとる。"
+                "x": "マーク・カーニー(Mark Carney)首相の政府は木曜日、二十年余りぶりとなる国家安全保障戦略を公表した。「より強いカナダのための計画(The Plan for a Stronger Canada)」と題した戦略は、戦争、人工知能、ハッカー、スパイ活動、破壊工作、外国干渉などの脅威から国を守り、八つの主要分野で自律性を高めるためのオタワ(Ottawa)の方針を大局的に示している。"
               },
               {
                 "t": "p",
-                "x": "Xは最初の投稿を削除してユーザーを凍結したが、コピーはなおオンラインで見つかった。クレムソン大学のダレン・リンビル(Darren Linvill)教授は、動画はロシアのネットワークStorm-1516が作った可能性が高いと述べた。ロシア大使館はすぐには回答しなかったが、過去には米国(U.S.)の選挙への干渉を否定している。"
+                "x": "ある政府高官は「気候変動からテロ、犯罪、オピオイド、パンデミック、サイバー攻撃、フロンティアAI、そして大規模な戦争の可能性の高まりまで、カナダとカナダ国民が直面する脅威は非常に複雑で相互に絡み合うようになった」と述べた。"
               },
               {
                 "t": "p",
-                "x": "ダートマス大学のハニー・ファリド(Hany Farid)教授は、動画はAIで生成または加工された可能性が高いとし、ブラウン氏の動画を「かなりローテクな偽物」と評した。"
+                "x": "戦略は、情報・防諜・サイバー防衛能力の強化、今後一年以内の新たな国家安全保障法制、そして今後数か月のうちに策定される五つの個別戦略を約束している。当局者は来週の連邦予算を前に、費用の詳細を明らかにしなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI视频冒用真人身份\n抹黑参议员候选人",
-          "body": "研究人员称，冒用美国真人身份抹黑参议员候选人的AI视频很可能来自俄罗斯。",
-          "mini_headline": "AI视频瞄准参议员候选人",
+          "headline": "加拿大将前沿AI列为\n最大安全威胁之一",
+          "body": "加拿大发布逾20年来首份国家安全战略，官员将前沿AI列为首要威胁之一。",
+          "mini_headline": "加拿大警示前沿AI威胁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "一名选民在提前投票期间填写选票。"
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "总理马克·卡尼(Mark Carney)。"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 据信由人工智能制作、并与俄罗斯有关联的社交媒体视频，正在中期选举最后冲刺阶段盗用真实人物的姓名和照片，散布有关两名民主党参议员候选人的虚假信息。"
+                "x": "OTTAWA——联邦官员表示，前沿AI模型是加拿大人当前面临的最大威胁之一。与此同时，政府发布了一份旨在让国家抵御日益增长的风险乃至战争的国家安全战略。"
               },
               {
                 "t": "p",
-                "x": "其中一段视频针对在俄亥俄州挑战共和党参议员乔恩·赫斯特德(Jon Husted)的谢罗德·布朗(Sherrod Brown)，使用了前实习生哈娅·阿克比克(Haya Akbik)的照片；她称那些被归于她的说法“完全是捏造的”。另一段视频针对在得克萨斯州与共和党人肯·帕克斯顿(Ken Paxton)竞争的詹姆斯·塔拉里科(James Talarico)，以一名前学生自白的形式呈现。"
+                "x": "总理马克·卡尼(Mark Carney)领导的政府周四发布了二十多年来的首份国家安全战略。这份题为《打造更强大加拿大计划》(The Plan for a Stronger Canada)的战略从宏观层面阐述了渥太华(Ottawa)打算如何保护国家免受战争、人工智能、黑客、间谍活动、破坏活动和外国干预等威胁，并在八个关键领域增强自主性。"
               },
               {
                 "t": "p",
-                "x": "X删除了最初的帖子并封禁了相关用户，但网上仍能找到副本。克莱姆森大学教授达伦·林维尔(Darren Linvill)表示，这些视频很可能出自俄罗斯网络Storm-1516。俄罗斯大使馆未立即回应；该使馆过去曾否认干预美国(U.S.)选举。"
+                "x": "一名高级官员表示：“加拿大和加拿大人面临的威胁已变得如此复杂且相互交织，从气候变化到恐怖主义、犯罪、阿片类药物和大流行病，从网络攻击到前沿AI，再到日益增加的大规模战争可能性。”"
               },
               {
                 "t": "p",
-                "x": "达特茅斯学院教授哈尼·法里德(Hany Farid)表示，这些视频很可能经过AI生成或篡改，并称布朗的视频是“技术含量相当低的伪造品”。"
+                "x": "该战略承诺加强情报、反情报和网络防御能力，在未来一年内出台新的国家安全立法，并在未来几个月推出另外五项具体战略。官员们在下周联邦预算公布前拒绝透露具体成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Videos de AI atacan a candidatos\nal Senado con identidades reales",
-          "body": "Videos de AI que difaman a candidatos al Senado con identidades de estadounidenses vendrían de Rusia, según expertos.",
-          "mini_headline": "Videos de AI apuntan a candidatos al Senado",
+          "headline": "Canadá sitúa la AI de frontera\nentre sus mayores amenazas",
+          "body": "En su primera estrategia de seguridad nacional en más de 20 años, Canadá señala la AI de frontera como amenaza clave.",
+          "mini_headline": "Canadá alerta sobre la AI de frontera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "Un votante llena su boleta durante la votación anticipada."
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "El primer ministro Mark Carney."
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — Videos en redes sociales que se cree fueron producidos con inteligencia artificial y que están vinculados a Rusia usan indebidamente nombres y fotografías de personas reales para difundir desinformación sobre dos candidatos demócratas al Senado en el tramo final de las elecciones de medio mandato."
+                "x": "OTTAWA — Los modelos de AI de frontera son una de las mayores amenazas actuales para los canadienses, afirman funcionarios federales, mientras el Gobierno publicó una estrategia de seguridad nacional que busca blindar al país frente a riesgos crecientes e incluso una guerra."
               },
               {
                 "t": "p",
-                "x": "Uno apunta a Sherrod Brown, que compite contra el senador republicano Jon Husted en Ohio, y usa fotos de una exbecaria, Haya Akbik, quien calificó de “completamente inventadas” las afirmaciones que se le atribuyen. Otro apunta a James Talarico, que compite contra el republicano Ken Paxton en Texas, y se presenta como la confesión de un exalumno."
+                "x": "El Gobierno del primer ministro Mark Carney publicó el jueves la primera estrategia de seguridad nacional en más de dos décadas. Titulada The Plan for a Stronger Canada, ofrece una visión general de cómo Ottawa pretende proteger al país frente a amenazas como la guerra, la inteligencia artificial, los hackers, el espionaje, el sabotaje y la injerencia extranjera, y aumentar su autonomía en ocho sectores clave."
               },
               {
                 "t": "p",
-                "x": "X retiró las publicaciones iniciales y suspendió a los usuarios, pero aún podían encontrarse copias en internet. Darren Linvill, profesor de la Universidad de Clemson, dijo que los videos probablemente son obra de Storm-1516, una red rusa. La Embajada de Rusia no respondió de inmediato; en el pasado ha negado interferir en las elecciones de Estados Unidos (U.S.)."
+                "x": "“Las amenazas que enfrentan Canadá y los canadienses se han vuelto tan complejas e interrelacionadas, desde el cambio climático hasta el terrorismo, la delincuencia, los opioides y las pandemias, desde los ciberataques hasta la AI de frontera y la creciente posibilidad de una gran guerra”, dijo un alto funcionario."
               },
               {
                 "t": "p",
-                "x": "Hany Farid, profesor de Dartmouth, dijo que los videos probablemente fueron generados o manipulados con AI, y calificó el de Brown como una “falsificación de bastante baja tecnología”."
+                "x": "La estrategia promete más capacidades de inteligencia, contrainteligencia y ciberdefensa, una nueva legislación de seguridad nacional en el próximo año y cinco estrategias más específicas en los próximos meses. Los funcionarios declinaron detallar los costos antes del presupuesto federal de la próxima semana."
               }
             ]
           }
@@ -1195,125 +1115,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "실제 신원 도용 AI 영상\n상원 후보들 비방",
-          "body": "연구진은 미국인 신원을 도용해 상원 후보를 비방한 AI 영상을 러시아발로 본다.",
-          "mini_headline": "AI 영상, 상원 후보 겨냥",
+          "headline": "캐나다, 프런티어 AI를\n최대 안보 위협에 포함",
+          "body": "캐나다는 20여 년 만의 국가안보전략에서 프런티어 AI를 주요 위협으로 꼽았다.",
+          "mini_headline": "캐나다, 프런티어 AI 위협 지목",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "사전투표 기간 한 유권자가 투표용지를 작성하고 있다."
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "마크 카니(Mark Carney) 총리."
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 인공지능으로 제작된 것으로 보이며 러시아와 연계된 소셜미디어 영상들이 실존 인물의 이름과 사진을 도용해, 중간선거 막바지에 민주당 상원 후보 두 명에 대한 허위 정보를 퍼뜨리고 있다."
+                "x": "OTTAWA — 연방 당국자들은 커지는 위험과 심지어 전쟁에도 나라를 대비시키려는 국가안보전략을 정부가 공개한 가운데, 프런티어 AI 모델이 현재 캐나다인에게 가장 큰 위협 중 하나라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "한 영상은 오하이오에서 공화당 존 허스테드(Jon Husted) 상원의원과 맞붙는 셰러드 브라운(Sherrod Brown)을 겨냥하며, 전직 인턴 하야 악비크(Haya Akbik)의 사진을 쓴다. 악비크는 자신이 했다는 주장이 “완전히 지어낸 것”이라고 말했다. 또 다른 영상은 텍사스에서 공화당 켄 팩스턴(Ken Paxton)과 맞붙는 제임스 탈라리코(James Talarico)를 겨냥하며, 전직 학생의 고백 형식을 띤다."
+                "x": "마크 카니(Mark Carney) 총리 정부는 목요일 이십여 년 만에 처음으로 국가안보전략을 공개했다. ‘더 강한 캐나다를 위한 계획(The Plan for a Stronger Canada)’이라는 제목의 이 전략은 오타와(Ottawa)가 전쟁, 인공지능, 해커, 간첩 활동, 사보타주, 외국의 간섭 같은 위협으로부터 나라를 보호하고 여덟 개 핵심 부문에서 자율성을 키우려는 방안을 개괄적으로 보여준다."
               },
               {
                 "t": "p",
-                "x": "X는 최초 게시물을 내리고 사용자 계정을 정지했지만, 사본은 여전히 온라인에서 찾을 수 있었다. 클렘슨대 대런 린빌(Darren Linvill) 교수는 이 영상들이 러시아 네트워크 Storm-1516의 산물일 가능성이 크다고 말했다. 러시아 대사관은 즉각 응답하지 않았으며, 과거에는 미국(U.S.) 선거 개입을 부인해 왔다."
+                "x": "한 고위 당국자는 “기후 변화부터 테러, 범죄, 오피오이드, 팬데믹, 사이버 공격, 프런티어 AI, 커져가는 대규모 전쟁 가능성까지 캐나다와 캐나다인이 직면한 위협은 매우 복잡하고 서로 얽히게 됐다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "다트머스대 하니 파리드(Hany Farid) 교수는 영상들이 AI로 생성되거나 조작됐을 가능성이 크다며, 브라운 영상을 “꽤 기술 수준이 낮은 가짜”라고 평했다."
+                "x": "전략은 정보·방첩·사이버 방어 역량 강화, 향후 한 해 안의 새 국가안보 법안, 앞으로 몇 달 안에 나올 다섯 개의 세부 전략을 약속한다. 당국자들은 다음 주 연방 예산안 발표를 앞두고 비용에 대한 구체적 언급을 피했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "実在の身元を使うAI動画\n上院候補を中傷",
-          "body": "研究者によると、実在の米国人の身元で上院候補を中傷するAI動画はロシア発の可能性が高い。",
-          "mini_headline": "AI動画、上院候補を標的に",
+          "headline": "カナダ、フロンティアAIを\n最大級の安全保障上の脅威に",
+          "body": "カナダ当局者は20年余りで初の国家安全保障戦略でフロンティアAIを主な脅威に挙げた。",
+          "mini_headline": "カナダ、フロンティアAIを脅威と指摘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "期日前投票で投票用紙に記入する有権者。"
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "マーク・カーニー(Mark Carney)首相。"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 人工知能で制作されたとみられ、ロシアとの関連が指摘されるソーシャルメディア動画が、実在の人物の名前や写真を悪用し、中間選挙の終盤戦で民主党の上院候補二人に関する偽情報を広めている。"
+                "x": "OTTAWA — 政府が高まるリスクや戦争にさえ備えて国を強化することを目指す国家安全保障戦略を公表するなか、連邦当局者は、フロンティアAIモデルが現在カナダ国民にとって最大の脅威の一つだと述べた。"
               },
               {
                 "t": "p",
-                "x": "一つはオハイオ州で共和党のジョン・ヒューステッド(Jon Husted)上院議員と争うシェロッド・ブラウン(Sherrod Brown)を標的にし、元インターンのハヤ・アクビク(Haya Akbik)の写真を使っている。アクビクは自分の発言とされた内容を「完全なでっち上げ」だと述べた。もう一つはテキサス州で共和党のケン・パクストン(Ken Paxton)と争うジェームズ・タラリコ(James Talarico)を標的にし、元教え子による告白の体裁をとる。"
+                "x": "マーク・カーニー(Mark Carney)首相の政府は木曜日、二十年余りぶりとなる国家安全保障戦略を公表した。「より強いカナダのための計画(The Plan for a Stronger Canada)」と題した戦略は、戦争、人工知能、ハッカー、スパイ活動、破壊工作、外国干渉などの脅威から国を守り、八つの主要分野で自律性を高めるためのオタワ(Ottawa)の方針を大局的に示している。"
               },
               {
                 "t": "p",
-                "x": "Xは最初の投稿を削除してユーザーを凍結したが、コピーはなおオンラインで見つかった。クレムソン大学のダレン・リンビル(Darren Linvill)教授は、動画はロシアのネットワークStorm-1516が作った可能性が高いと述べた。ロシア大使館はすぐには回答しなかったが、過去には米国(U.S.)の選挙への干渉を否定している。"
+                "x": "ある政府高官は「気候変動からテロ、犯罪、オピオイド、パンデミック、サイバー攻撃、フロンティアAI、そして大規模な戦争の可能性の高まりまで、カナダとカナダ国民が直面する脅威は非常に複雑で相互に絡み合うようになった」と述べた。"
               },
               {
                 "t": "p",
-                "x": "ダートマス大学のハニー・ファリド(Hany Farid)教授は、動画はAIで生成または加工された可能性が高いとし、ブラウン氏の動画を「かなりローテクな偽物」と評した。"
+                "x": "戦略は、情報・防諜・サイバー防衛能力の強化、今後一年以内の新たな国家安全保障法制、そして今後数か月のうちに策定される五つの個別戦略を約束している。当局者は来週の連邦予算を前に、費用の詳細を明らかにしなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI视频冒用真人身份\n抹黑参议员候选人",
-          "body": "研究人员称，冒用美国真人身份抹黑参议员候选人的AI视频很可能来自俄罗斯。",
-          "mini_headline": "AI视频瞄准参议员候选人",
+          "headline": "加拿大将前沿AI列为\n最大安全威胁之一",
+          "body": "加拿大发布逾20年来首份国家安全战略，官员将前沿AI列为首要威胁之一。",
+          "mini_headline": "加拿大警示前沿AI威胁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "一名选民在提前投票期间填写选票。"
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "总理马克·卡尼(Mark Carney)。"
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — 据信由人工智能制作、并与俄罗斯有关联的社交媒体视频，正在中期选举最后冲刺阶段盗用真实人物的姓名和照片，散布有关两名民主党参议员候选人的虚假信息。"
+                "x": "OTTAWA——联邦官员表示，前沿AI模型是加拿大人当前面临的最大威胁之一。与此同时，政府发布了一份旨在让国家抵御日益增长的风险乃至战争的国家安全战略。"
               },
               {
                 "t": "p",
-                "x": "其中一段视频针对在俄亥俄州挑战共和党参议员乔恩·赫斯特德(Jon Husted)的谢罗德·布朗(Sherrod Brown)，使用了前实习生哈娅·阿克比克(Haya Akbik)的照片；她称那些被归于她的说法“完全是捏造的”。另一段视频针对在得克萨斯州与共和党人肯·帕克斯顿(Ken Paxton)竞争的詹姆斯·塔拉里科(James Talarico)，以一名前学生自白的形式呈现。"
+                "x": "总理马克·卡尼(Mark Carney)领导的政府周四发布了二十多年来的首份国家安全战略。这份题为《打造更强大加拿大计划》(The Plan for a Stronger Canada)的战略从宏观层面阐述了渥太华(Ottawa)打算如何保护国家免受战争、人工智能、黑客、间谍活动、破坏活动和外国干预等威胁，并在八个关键领域增强自主性。"
               },
               {
                 "t": "p",
-                "x": "X删除了最初的帖子并封禁了相关用户，但网上仍能找到副本。克莱姆森大学教授达伦·林维尔(Darren Linvill)表示，这些视频很可能出自俄罗斯网络Storm-1516。俄罗斯大使馆未立即回应；该使馆过去曾否认干预美国(U.S.)选举。"
+                "x": "一名高级官员表示：“加拿大和加拿大人面临的威胁已变得如此复杂且相互交织，从气候变化到恐怖主义、犯罪、阿片类药物和大流行病，从网络攻击到前沿AI，再到日益增加的大规模战争可能性。”"
               },
               {
                 "t": "p",
-                "x": "达特茅斯学院教授哈尼·法里德(Hany Farid)表示，这些视频很可能经过AI生成或篡改，并称布朗的视频是“技术含量相当低的伪造品”。"
+                "x": "该战略承诺加强情报、反情报和网络防御能力，在未来一年内出台新的国家安全立法，并在未来几个月推出另外五项具体战略。官员们在下周联邦预算公布前拒绝透露具体成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Videos de AI atacan a candidatos\nal Senado con identidades reales",
-          "body": "Videos de AI que difaman a candidatos al Senado con identidades de estadounidenses vendrían de Rusia, según expertos.",
-          "mini_headline": "Videos de AI apuntan a candidatos al Senado",
+          "headline": "Canadá sitúa la AI de frontera\nentre sus mayores amenazas",
+          "body": "En su primera estrategia de seguridad nacional en más de 20 años, Canadá señala la AI de frontera como amenaza clave.",
+          "mini_headline": "Canadá alerta sobre la AI de frontera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
-                "cap": "Un votante llena su boleta durante la votación anticipada."
+                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
+                "cap": "El primer ministro Mark Carney."
               },
               {
                 "t": "p",
-                "x": "NEW YORK (AP) — Videos en redes sociales que se cree fueron producidos con inteligencia artificial y que están vinculados a Rusia usan indebidamente nombres y fotografías de personas reales para difundir desinformación sobre dos candidatos demócratas al Senado en el tramo final de las elecciones de medio mandato."
+                "x": "OTTAWA — Los modelos de AI de frontera son una de las mayores amenazas actuales para los canadienses, afirman funcionarios federales, mientras el Gobierno publicó una estrategia de seguridad nacional que busca blindar al país frente a riesgos crecientes e incluso una guerra."
               },
               {
                 "t": "p",
-                "x": "Uno apunta a Sherrod Brown, que compite contra el senador republicano Jon Husted en Ohio, y usa fotos de una exbecaria, Haya Akbik, quien calificó de “completamente inventadas” las afirmaciones que se le atribuyen. Otro apunta a James Talarico, que compite contra el republicano Ken Paxton en Texas, y se presenta como la confesión de un exalumno."
+                "x": "El Gobierno del primer ministro Mark Carney publicó el jueves la primera estrategia de seguridad nacional en más de dos décadas. Titulada The Plan for a Stronger Canada, ofrece una visión general de cómo Ottawa pretende proteger al país frente a amenazas como la guerra, la inteligencia artificial, los hackers, el espionaje, el sabotaje y la injerencia extranjera, y aumentar su autonomía en ocho sectores clave."
               },
               {
                 "t": "p",
-                "x": "X retiró las publicaciones iniciales y suspendió a los usuarios, pero aún podían encontrarse copias en internet. Darren Linvill, profesor de la Universidad de Clemson, dijo que los videos probablemente son obra de Storm-1516, una red rusa. La Embajada de Rusia no respondió de inmediato; en el pasado ha negado interferir en las elecciones de Estados Unidos (U.S.)."
+                "x": "“Las amenazas que enfrentan Canadá y los canadienses se han vuelto tan complejas e interrelacionadas, desde el cambio climático hasta el terrorismo, la delincuencia, los opioides y las pandemias, desde los ciberataques hasta la AI de frontera y la creciente posibilidad de una gran guerra”, dijo un alto funcionario."
               },
               {
                 "t": "p",
-                "x": "Hany Farid, profesor de Dartmouth, dijo que los videos probablemente fueron generados o manipulados con AI, y calificó el de Brown como una “falsificación de bastante baja tecnología”."
+                "x": "La estrategia promete más capacidades de inteligencia, contrainteligencia y ciberdefensa, una nueva legislación de seguridad nacional en el próximo año y cinco estrategias más específicas en los próximos meses. Los funcionarios declinaron detallar los costos antes del presupuesto federal de la próxima semana."
               }
             ]
           }
@@ -1321,171 +1241,189 @@
       }
     },
     {
-      "id": "malaysia-ai-chips",
+      "id": "google-ai-2020-election-answers",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "$12.1M 규모 AI 칩\n말레이시아 공항서 압수",
-      "body": "세관이 US-origin 칩 수출통제 위반 의심 서버 30대에서 AI 칩을 찾았다.",
-      "mini_headline": "말레이시아, AI 칩 $12.1M 어치 압수",
+      "headline": "Google AI는\n2020 대선 승자엔 모호",
+      "body": "US 중간선거 전 Google AI는 2020 대선 승자를 흐리고 해외선 직답한다.",
+      "mini_headline": "Google AI, 2020 대선 질문 회피",
       "tool": "Politics",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
-      "accent": "#f5a623",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-            "cap": "2026년 10월 28일 말레이시아 세팡에서 열린 세관 기자회견에서 공개된 첨단 AI 칩 탑재 서버. (사진: REUTERS/Hasnoor Hussain)"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
           },
           {
             "t": "p",
-            "x": "KUALA LUMPUR: 말레이시아 세관이 수요일(10월 28일) 이달 들어 약 49.5 million 링깃(US$12.11 million) 상당의 첨단 인공지능 칩을 압수했다고 밝혔다. 당국은 주요 공항으로 고성능 반도체를 밀수한 것으로 의심되는 조직을 향해 수사망을 좁히고 있다."
+            "x": "“2020년 대선에서 누가 이겼나?”라고 묻자 Google의 AI Mode는 Ars Technica에 연방선거위원회(Federal Election Commission, FEC)가 작성한 공식 보고서를 참고하라며 에둘러 답했다. 2024년에도 비슷한 답이 돌아왔지만, 2000년까지 거슬러 올라가는 다른 대선은 대부분 상세하고 정확하게 답했다. 결과는 이용자마다 달랐다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
           },
           {
             "t": "p",
-            "x": "말레이시아는 지난해 중국 유입을 막으라는 미국의 압박을 받고 US 원산 첨단 AI 칩에 수출 통제를 도입했다. 아스팔릴라 악 투아(Aspalila Ag Tuah) 세관 국장은 당국이 10월 15일 쿠알라룸푸르 국제공항 자유무역지대에서 이 칩이 든 서버 30대를 찾아냈다고 말했다. 재수출될 화물이었고, 재수출하려면 무역 허가가 필요했다."
+            "x": "Google의 Gemini 모델, ChatGPT, Claude, America.gov의 정부 운영 모델은 모두 바로 답했다. 대만, 러시아, 프랑스, 캐나다에서 VPN으로 확인했을 때도 정확하고 직설적인 답이 나왔다. 이유를 묻자 AI Mode는 “최근의 매우 민감한 선거 주제에 대한 안전 필터”를 들었다. 다만 AI 모델이 자기 내부 과정을 설명할 때 믿기 어렵다는 점은 이미 드러났다."
           },
           {
             "t": "p",
-            "x": "아스팔릴라는 “서버가 전자 부품으로 허위 신고됐다”고 말했다. 화물 운송을 도운 말레이시아 업체는 수사에 협조하라는 소환을 받았다. 이 조직과 얽힌 사건은 최소 다섯 건이고, 압수 규모는 모두 합쳐 100 million 링깃을 넘는다."
+            "x": "Google 대변인은 회사가 “AI Mode의 2020년 대선 질문 문제를 고치고 있다”며 “2020년에 기술적 공백이 있었다. 2022년 상원(Senate) 선거도 마찬가지이며, 같은 업데이트에서 고치고 있다”고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Malaysia seizes $12.1M in AI\nchips at Kuala Lumpur airport",
-          "body": "Malaysian customs found advanced AI chips in 30 servers suspected of breaching export controls on US-origin chips.",
-          "mini_headline": "Malaysia seizes $12.1M of AI chips",
+          "headline": "Google AI gets cagey on who\nwon the 2020 election",
+          "body": "Ahead of the US midterms, Google's AI dodges who won the 2020 election but is more direct when asked from abroad.",
+          "mini_headline": "Google AI dodges 2020 question",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "A server unit containing advanced AI chips shown at a customs press conference in Sepang, Malaysia, Oct 28, 2026. (Photo: REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR: Malaysian customs said on Wednesday (Oct 28) that it had seized about 49.5 million ringgit (US$12.11 million) worth of advanced artificial intelligence chips this month, as authorities close in on a syndicate suspected of smuggling high-performance semiconductors through the country's main airport."
+                "x": "Asked “Who won the 2020 presidential election?”, Google’s AI Mode gave Ars Technica an indirect response telling users to consult the official report compiled by the Federal Election Commission (FEC). A similar answer came for 2024, while AI Mode gave detailed, correct answers for most other presidential elections back to 2000. Results differed by user."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "Malaysia imposed export controls last year on advanced AI chips of US origin, following pressure from the United States to stem their flow into China. On Oct 15, authorities found 30 server units containing the chips at Kuala Lumpur International Airport's free trade zone, customs director Aspalila Ag Tuah said. The shipment was to be re-exported, a move that required a trade permit."
+                "x": "Google’s Gemini model, ChatGPT, Claude and the government-run model at America.gov all answered directly. Spot checks via VPN from Taiwan, Russia, France and Canada got accurate, straightforward answers. Asked why, AI Mode cited “safety filters for recent and highly sensitive election topics,” though AI models have proven unreliable at reporting on their own internal processes."
               },
               {
                 "t": "p",
-                "x": "\"The servers were falsely declared as electronic components,\" Aspalila said. A Malaysian firm that facilitated the shipment has been called in to assist investigations. At least five cases are linked to the syndicate, involving seizures worth more than 100 million ringgit in total."
+                "x": "A Google spokesperson said the company was “fixing the issue with 2020 election queries in AI Mode,” adding: “There was a technical gap with 2020 – same is true for 2022 Senate races, which we’re working to fix in the same update.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "$12.1M 규모 AI 칩\n말레이시아 공항서 압수",
-          "body": "세관이 US-origin 칩 수출통제 위반 의심 서버 30대에서 AI 칩을 찾았다.",
-          "mini_headline": "말레이시아, AI 칩 $12.1M 어치 압수",
+          "headline": "Google AI는\n2020 대선 승자엔 모호",
+          "body": "US 중간선거 전 Google AI는 2020 대선 승자를 흐리고 해외선 직답한다.",
+          "mini_headline": "Google AI, 2020 대선 질문 회피",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "2026년 10월 28일 말레이시아 세팡에서 열린 세관 기자회견에서 공개된 첨단 AI 칩 탑재 서버. (사진: REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR: 말레이시아 세관이 수요일(10월 28일) 이달 들어 약 49.5 million 링깃(US$12.11 million) 상당의 첨단 인공지능 칩을 압수했다고 밝혔다. 당국은 주요 공항으로 고성능 반도체를 밀수한 것으로 의심되는 조직을 향해 수사망을 좁히고 있다."
+                "x": "“2020년 대선에서 누가 이겼나?”라고 묻자 Google의 AI Mode는 Ars Technica에 연방선거위원회(Federal Election Commission, FEC)가 작성한 공식 보고서를 참고하라며 에둘러 답했다. 2024년에도 비슷한 답이 돌아왔지만, 2000년까지 거슬러 올라가는 다른 대선은 대부분 상세하고 정확하게 답했다. 결과는 이용자마다 달랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "말레이시아는 지난해 중국 유입을 막으라는 미국의 압박을 받고 US 원산 첨단 AI 칩에 수출 통제를 도입했다. 아스팔릴라 악 투아(Aspalila Ag Tuah) 세관 국장은 당국이 10월 15일 쿠알라룸푸르 국제공항 자유무역지대에서 이 칩이 든 서버 30대를 찾아냈다고 말했다. 재수출될 화물이었고, 재수출하려면 무역 허가가 필요했다."
+                "x": "Google의 Gemini 모델, ChatGPT, Claude, America.gov의 정부 운영 모델은 모두 바로 답했다. 대만, 러시아, 프랑스, 캐나다에서 VPN으로 확인했을 때도 정확하고 직설적인 답이 나왔다. 이유를 묻자 AI Mode는 “최근의 매우 민감한 선거 주제에 대한 안전 필터”를 들었다. 다만 AI 모델이 자기 내부 과정을 설명할 때 믿기 어렵다는 점은 이미 드러났다."
               },
               {
                 "t": "p",
-                "x": "아스팔릴라는 “서버가 전자 부품으로 허위 신고됐다”고 말했다. 화물 운송을 도운 말레이시아 업체는 수사에 협조하라는 소환을 받았다. 이 조직과 얽힌 사건은 최소 다섯 건이고, 압수 규모는 모두 합쳐 100 million 링깃을 넘는다."
+                "x": "Google 대변인은 회사가 “AI Mode의 2020년 대선 질문 문제를 고치고 있다”며 “2020년에 기술적 공백이 있었다. 2022년 상원(Senate) 선거도 마찬가지이며, 같은 업데이트에서 고치고 있다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "$12.1M 分のAIチップ\nマレーシアが空港で押収",
-          "body": "税関がUS-origin チップ輸出規制違反疑いのサーバー30台からAIチップを発見した。",
-          "mini_headline": "マレーシア、$12.1M 分のAIチップ押収",
+          "headline": "Google AI、\n2020年選挙の勝者明言せず",
+          "body": "US中間選挙を前に、GoogleのAIは2020年選挙の勝者をぼかすが、海外ではより率直だ。",
+          "mini_headline": "Google AI、2020年選挙の質問をかわす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "2026年10月28日、マレーシア・セパンでの税関の記者会見で公開された、先端AIチップを搭載したサーバー。(写真:REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR:マレーシア税関は水曜日(10月28日)、今月約49.5 million リンギ(US$12.11 million)相当の先端人工知能チップを押収したと発表した。当局は、同国の主要空港を経由して高性能半導体を密輸した疑いのある組織に迫っている。"
+                "x": "「2020年の大統領選挙で勝ったのは誰か」と尋ねると、GoogleのAI ModeはArs Technicaに対し、連邦選挙委員会(Federal Election Commission、FEC)がまとめた公式報告書を参照するよう促す間接的な回答を返した。2024年についても同様の回答だった一方、AI Modeは2000年までさかのぼる他の大統領選挙の大半について、詳細で正確な回答を示した。結果はユーザーによって異なった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "マレーシアは、中国への流入を食い止めるよう求める米国の圧力を受け、昨年US原産の先端AIチップに輸出規制を導入した。アスパリラ・アグ・トゥア(Aspalila Ag Tuah)税関局長によると、当局は10月15日、クアラルンプール国際空港の自由貿易区域で、このチップを搭載したサーバー30台を発見した。貨物は再輸出される予定で、それには貿易許可が必要だった。"
+                "x": "GoogleのGeminiモデル、ChatGPT、Claude、そしてAmerica.govの政府運営モデルはいずれも直接答えた。台湾、ロシア、フランス、カナダからVPN経由で抜き取り確認したところ、正確で率直な回答が得られた。理由を尋ねると、AI Modeは「最近の非常に敏感な選挙関連トピックに対する安全フィルター」を挙げたが、AIモデルは自らの内部処理を説明する点で信頼性に欠けることが分かっている。"
               },
               {
                 "t": "p",
-                "x": "「サーバーは電子部品と偽って申告されていた」とアスパリラ氏は述べた。輸送を手助けしたマレーシア企業は捜査協力のため呼び出された。この組織に関連する事件は少なくとも五件あり、押収額は合計100 million リンギを超える。"
+                "x": "Googleの広報担当者は、同社が「AI Modeにおける2020年選挙関連の質問の問題を修正している」と述べ、「2020年については技術的な抜けがあった。2022年の上院(Senate)選についても同様で、同じアップデートで修正を進めている」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "马来西亚在吉隆坡机场\n查获$12.1M AI芯片",
-          "body": "马来西亚海关在30台涉嫌违反US-origin 芯片出口管制的服务器中发现先进AI芯片。",
-          "mini_headline": "马来西亚查获$12.1M AI芯片",
+          "headline": "Google AI\n对2020年大选胜者含糊其辞",
+          "body": "US中期选举前，Google的AI回避谁赢得2020年大选，但从海外提问时更直接。",
+          "mini_headline": "Google AI回避2020年大选问题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "2026年10月28日，在马来西亚雪邦举行的海关记者会上展示的一台装有先进AI芯片的服务器。(图片：REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR：马来西亚海关周三(10月28日)表示，本月查获价值约49.5 million 林吉特(US$12.11 million)的先进人工智能芯片，当局正逐步收网一个涉嫌经该国主要机场走私高性能半导体的集团。"
+                "x": "当被问及“谁赢得了2020年总统大选？”时，Google的AI Mode向Ars Technica给出了间接回答，让用户查阅联邦选举委员会(Federal Election Commission，FEC)编制的官方报告。对2024年的问题也给出了类似回答，而对于追溯至2000年的其他大多数总统大选，AI Mode都给出了详细且正确的答案。结果因用户而异。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "在美国施压要求阻止相关芯片流入中国后，马来西亚去年对US原产的先进AI芯片实施出口管制。海关总监阿斯帕莉拉·阿格·图阿(Aspalila Ag Tuah)表示，10月15日，当局在吉隆坡国际机场自由贸易区发现30台装有这些芯片的服务器。这批货物原定再出口，而再出口需要贸易许可证。"
+                "x": "Google的Gemini模型、ChatGPT、Claude以及America.gov上的政府运营模型都直接作答。通过VPN从台湾、俄罗斯、法国和加拿大进行抽查，得到的也是准确、直接的答案。被问及原因时，AI Mode称这是“针对近期高度敏感选举话题的安全过滤机制”，不过事实证明，AI模型在报告自身内部流程方面并不可靠。"
               },
               {
                 "t": "p",
-                "x": "阿斯帕莉拉说：“这些服务器被虚报为电子元件。”协助运送该批货物的一家马来西亚公司已被传唤协助调查。至少五起案件与该集团有关，查获总价值超过100 million 林吉特。"
+                "x": "Google发言人表示，公司正在“修复AI Mode中有关2020年大选查询的问题”，并补充说：“2020年存在技术漏洞——2022年参议院(Senate)选举也是如此，我们正在同一次更新中修复。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Incautan $12.1M en chips de AI\nen el aeropuerto de Kuala Lumpur",
-          "body": "La aduana malasia halló chips de AI avanzados en 30 servidores sospechosos de violar controles a chips US-origin.",
-          "mini_headline": "Malasia incauta $12.1M en chips de AI",
+          "headline": "La AI de Google elude decir\nquién ganó la elección de 2020",
+          "body": "Ante las intermedias de US, la AI de Google elude decir quién ganó en 2020, pero es más directa desde el exterior.",
+          "mini_headline": "La AI de Google elude la pregunta de 2020",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "Una unidad de servidor con chips avanzados de AI, mostrada en una rueda de prensa de aduanas en Sepang, Malasia, el 28 de octubre de 2026. (Foto: REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR: La aduana de Malasia informó el miércoles (28 de octubre) que este mes incautó chips avanzados de inteligencia artificial por valor de unos 49.5 millones de ringgit (US$12.11 millones), mientras las autoridades cercan a una red sospechosa de contrabandear semiconductores de alto rendimiento a través del principal aeropuerto del país."
+                "x": "Ante la pregunta “¿Quién ganó las elecciones presidenciales de 2020?”, el AI Mode de Google dio a Ars Technica una respuesta indirecta que remitía a los usuarios al informe oficial elaborado por la Comisión Federal Electoral (Federal Election Commission, FEC). Hubo una respuesta similar para 2024, mientras que AI Mode ofreció respuestas detalladas y correctas para la mayoría de las demás elecciones presidenciales hasta 2000. Los resultados variaron según el usuario."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "Malasia impuso el año pasado controles de exportación a los chips avanzados de AI de origen US, tras la presión de Estados Unidos para frenar su llegada a China. El 15 de octubre, las autoridades hallaron 30 unidades de servidor con esos chips en la zona franca del Aeropuerto Internacional de Kuala Lumpur, dijo la directora de aduanas Aspalila Ag Tuah. El envío iba a reexportarse, lo que requería un permiso comercial."
+                "x": "El modelo Gemini de Google, ChatGPT, Claude y el modelo gestionado por el gobierno en America.gov respondieron directamente. Las comprobaciones puntuales mediante VPN desde Taiwán, Rusia, Francia y Canadá obtuvieron respuestas precisas y directas. Al preguntarle por qué, AI Mode citó “filtros de seguridad para temas electorales recientes y muy sensibles”, aunque los modelos de AI han demostrado ser poco fiables al informar sobre sus propios procesos internos."
               },
               {
                 "t": "p",
-                "x": "\"Los servidores se declararon falsamente como componentes electrónicos\", dijo Aspalila. Una empresa malasia que facilitó el envío fue citada para colaborar con la investigación. Al menos cinco casos están vinculados a la red, con incautaciones que suman más de 100 millones de ringgit."
+                "x": "Un portavoz de Google dijo que la empresa estaba “corrigiendo el problema con las consultas sobre las elecciones de 2020 en AI Mode”, y añadió: “Hubo una brecha técnica con 2020; lo mismo ocurre con las contiendas al Senado (Senate) de 2022, que estamos trabajando para corregir en la misma actualización”."
               }
             ]
           }
@@ -1493,109 +1431,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "$12.1M 규모 AI 칩\n말레이시아 공항서 압수",
-          "body": "세관이 US-origin 칩 수출통제 위반 의심 서버 30대서 AI 칩을 찾았다.",
-          "mini_headline": "말레이시아, AI 칩 $12.1M 어치 압수",
+          "headline": "Google AI는\n2020 대선 승자엔 모호",
+          "body": "US 중간선거 전 Google AI는 2020 대선 승자를 흐리나 해외선 직답한다.",
+          "mini_headline": "Google AI, 2020 대선 질문 회피",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "2026년 10월 28일 말레이시아 세팡에서 열린 세관 기자회견에서 공개된 첨단 AI 칩 탑재 서버. (사진: REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR: 말레이시아 세관은 수요일(10월 28일) 이달 약 49.5 million 링깃(US$12.11 million) 상당의 첨단 인공지능 칩을 압수했다고 밝혔다. 당국은 이 나라 주요 공항을 통해 고성능 반도체를 밀수한 것으로 의심되는 조직을 좁혀 들어가고 있다."
+                "x": "“2020년 대선에서 누가 이겼나?”라는 질문에 Google의 AI Mode는 Ars Technica에 연방선거위원회(Federal Election Commission, FEC)가 작성한 공식 보고서를 참고하라는 간접적인 답을 내놨다. 2024년에도 비슷한 답이 나왔지만, AI Mode는 2000년까지 거슬러 올라가는 다른 대선 대부분에 대해서는 상세하고 정확하게 답했다. 결과는 이용자마다 달랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "말레이시아는 중국으로의 유입을 막으라는 미국의 압박에 따라 지난해 US 원산 첨단 AI 칩에 수출 통제를 도입했다. 아스팔릴라 악 투아(Aspalila Ag Tuah) 세관 국장은 10월 15일 당국이 쿠알라룸푸르 국제공항 자유무역지대에서 이 칩이 들어 있는 서버 30대를 발견했다고 말했다. 이 화물은 재수출될 예정이었고, 재수출에는 무역 허가가 필요했다."
+                "x": "Google의 Gemini 모델, ChatGPT, Claude, 그리고 America.gov의 정부 운영 모델은 모두 직접 답했다. 대만, 러시아, 프랑스, 캐나다에서 VPN으로 점검한 결과에서도 정확하고 직설적인 답이 나왔다. 이유를 묻자 AI Mode는 “최근의 매우 민감한 선거 주제에 대한 안전 필터”를 들었지만, AI 모델은 자체 내부 과정을 설명하는 데 신뢰하기 어렵다는 점이 드러난 바 있다."
               },
               {
                 "t": "p",
-                "x": "아스팔릴라는 “서버가 전자 부품으로 허위 신고됐다”고 말했다. 화물 운송을 도운 말레이시아 업체는 수사 협조를 위해 소환됐다. 이 조직과 연관된 사건은 최소 다섯 건으로, 압수 규모는 모두 합쳐 100 million 링깃이 넘는다."
+                "x": "Google 대변인은 회사가 “AI Mode의 2020년 대선 질문 문제를 고치고 있다”며 “2020년에 기술적 공백이 있었다. 2022년 상원(Senate) 선거도 마찬가지이며, 같은 업데이트에서 고치고 있다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "$12.1M 分のAIチップ\nマレーシアが空港で押収",
-          "body": "税関がUS-origin チップ輸出規制違反疑いのサーバー30台からAIチップを発見した。",
-          "mini_headline": "マレーシア、$12.1M 分のAIチップ押収",
+          "headline": "Google AI、\n2020年選挙の勝者明言せず",
+          "body": "US中間選挙を前に、GoogleのAIは2020年選挙の勝者をぼかすが、海外ではより率直だ。",
+          "mini_headline": "Google AI、2020年選挙の質問をかわす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "2026年10月28日、マレーシア・セパンでの税関の記者会見で公開された、先端AIチップを搭載したサーバー。(写真:REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR:マレーシア税関は水曜日(10月28日)、今月約49.5 million リンギ(US$12.11 million)相当の先端人工知能チップを押収したと発表した。当局は、同国の主要空港を経由して高性能半導体を密輸した疑いのある組織に迫っている。"
+                "x": "「2020年の大統領選挙で勝ったのは誰か」と尋ねると、GoogleのAI ModeはArs Technicaに対し、連邦選挙委員会(Federal Election Commission、FEC)がまとめた公式報告書を参照するよう促す間接的な回答を返した。2024年についても同様の回答だった一方、AI Modeは2000年までさかのぼる他の大統領選挙の大半について、詳細で正確な回答を示した。結果はユーザーによって異なった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "マレーシアは、中国への流入を食い止めるよう求める米国の圧力を受け、昨年US原産の先端AIチップに輸出規制を導入した。アスパリラ・アグ・トゥア(Aspalila Ag Tuah)税関局長によると、当局は10月15日、クアラルンプール国際空港の自由貿易区域で、このチップを搭載したサーバー30台を発見した。貨物は再輸出される予定で、それには貿易許可が必要だった。"
+                "x": "GoogleのGeminiモデル、ChatGPT、Claude、そしてAmerica.govの政府運営モデルはいずれも直接答えた。台湾、ロシア、フランス、カナダからVPN経由で抜き取り確認したところ、正確で率直な回答が得られた。理由を尋ねると、AI Modeは「最近の非常に敏感な選挙関連トピックに対する安全フィルター」を挙げたが、AIモデルは自らの内部処理を説明する点で信頼性に欠けることが分かっている。"
               },
               {
                 "t": "p",
-                "x": "「サーバーは電子部品と偽って申告されていた」とアスパリラ氏は述べた。輸送を手助けしたマレーシア企業は捜査協力のため呼び出された。この組織に関連する事件は少なくとも五件あり、押収額は合計100 million リンギを超える。"
+                "x": "Googleの広報担当者は、同社が「AI Modeにおける2020年選挙関連の質問の問題を修正している」と述べ、「2020年については技術的な抜けがあった。2022年の上院(Senate)選についても同様で、同じアップデートで修正を進めている」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "马来西亚在吉隆坡机场\n查获$12.1M AI芯片",
-          "body": "马来西亚海关在30台涉嫌违反US-origin 芯片出口管制的服务器中发现先进AI芯片。",
-          "mini_headline": "马来西亚查获$12.1M AI芯片",
+          "headline": "Google AI\n对2020年大选胜者含糊其辞",
+          "body": "US中期选举前，Google的AI回避谁赢得2020年大选，但从海外提问时更直接。",
+          "mini_headline": "Google AI回避2020年大选问题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "2026年10月28日，在马来西亚雪邦举行的海关记者会上展示的一台装有先进AI芯片的服务器。(图片：REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR：马来西亚海关周三(10月28日)表示，本月查获价值约49.5 million 林吉特(US$12.11 million)的先进人工智能芯片，当局正逐步收网一个涉嫌经该国主要机场走私高性能半导体的集团。"
+                "x": "当被问及“谁赢得了2020年总统大选？”时，Google的AI Mode向Ars Technica给出了间接回答，让用户查阅联邦选举委员会(Federal Election Commission，FEC)编制的官方报告。对2024年的问题也给出了类似回答，而对于追溯至2000年的其他大多数总统大选，AI Mode都给出了详细且正确的答案。结果因用户而异。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "在美国施压要求阻止相关芯片流入中国后，马来西亚去年对US原产的先进AI芯片实施出口管制。海关总监阿斯帕莉拉·阿格·图阿(Aspalila Ag Tuah)表示，10月15日，当局在吉隆坡国际机场自由贸易区发现30台装有这些芯片的服务器。这批货物原定再出口，而再出口需要贸易许可证。"
+                "x": "Google的Gemini模型、ChatGPT、Claude以及America.gov上的政府运营模型都直接作答。通过VPN从台湾、俄罗斯、法国和加拿大进行抽查，得到的也是准确、直接的答案。被问及原因时，AI Mode称这是“针对近期高度敏感选举话题的安全过滤机制”，不过事实证明，AI模型在报告自身内部流程方面并不可靠。"
               },
               {
                 "t": "p",
-                "x": "阿斯帕莉拉说：“这些服务器被虚报为电子元件。”协助运送该批货物的一家马来西亚公司已被传唤协助调查。至少五起案件与该集团有关，查获总价值超过100 million 林吉特。"
+                "x": "Google发言人表示，公司正在“修复AI Mode中有关2020年大选查询的问题”，并补充说：“2020年存在技术漏洞——2022年参议院(Senate)选举也是如此，我们正在同一次更新中修复。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Incautan $12.1M en chips de AI\nen el aeropuerto de Kuala Lumpur",
-          "body": "La aduana malasia halló chips de AI avanzados en 30 servidores sospechosos de violar controles a chips US-origin.",
-          "mini_headline": "Malasia incauta $12.1M en chips de AI",
+          "headline": "La AI de Google elude decir\nquién ganó la elección de 2020",
+          "body": "Ante las intermedias de US, la AI de Google elude decir quién ganó en 2020, pero es más directa desde el exterior.",
+          "mini_headline": "La AI de Google elude la pregunta de 2020",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
-                "cap": "Una unidad de servidor con chips avanzados de AI, mostrada en una rueda de prensa de aduanas en Sepang, Malasia, el 28 de octubre de 2026. (Foto: REUTERS/Hasnoor Hussain)"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
               },
               {
                 "t": "p",
-                "x": "KUALA LUMPUR: La aduana de Malasia informó el miércoles (28 de octubre) que este mes incautó chips avanzados de inteligencia artificial por valor de unos 49.5 millones de ringgit (US$12.11 millones), mientras las autoridades cercan a una red sospechosa de contrabandear semiconductores de alto rendimiento a través del principal aeropuerto del país."
+                "x": "Ante la pregunta “¿Quién ganó las elecciones presidenciales de 2020?”, el AI Mode de Google dio a Ars Technica una respuesta indirecta que remitía a los usuarios al informe oficial elaborado por la Comisión Federal Electoral (Federal Election Commission, FEC). Hubo una respuesta similar para 2024, mientras que AI Mode ofreció respuestas detalladas y correctas para la mayoría de las demás elecciones presidenciales hasta 2000. Los resultados variaron según el usuario."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
               },
               {
                 "t": "p",
-                "x": "Malasia impuso el año pasado controles de exportación a los chips avanzados de AI de origen US, tras la presión de Estados Unidos para frenar su llegada a China. El 15 de octubre, las autoridades hallaron 30 unidades de servidor con esos chips en la zona franca del Aeropuerto Internacional de Kuala Lumpur, dijo la directora de aduanas Aspalila Ag Tuah. El envío iba a reexportarse, lo que requería un permiso comercial."
+                "x": "El modelo Gemini de Google, ChatGPT, Claude y el modelo gestionado por el gobierno en America.gov respondieron directamente. Las comprobaciones puntuales mediante VPN desde Taiwán, Rusia, Francia y Canadá obtuvieron respuestas precisas y directas. Al preguntarle por qué, AI Mode citó “filtros de seguridad para temas electorales recientes y muy sensibles”, aunque los modelos de AI han demostrado ser poco fiables al informar sobre sus propios procesos internos."
               },
               {
                 "t": "p",
-                "x": "\"Los servidores se declararon falsamente como componentes electrónicos\", dijo Aspalila. Una empresa malasia que facilitó el envío fue citada para colaborar con la investigación. Al menos cinco casos están vinculados a la red, con incautaciones que suman más de 100 millones de ringgit."
+                "x": "Un portavoz de Google dijo que la empresa estaba “corrigiendo el problema con las consultas sobre las elecciones de 2020 en AI Mode”, y añadió: “Hubo una brecha técnica con 2020; lo mismo ocurre con las contiendas al Senado (Senate) de 2022, que estamos trabajando para corregir en la misma actualización”."
               }
             ]
           }

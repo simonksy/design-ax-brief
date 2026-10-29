@@ -9653,6 +9653,157 @@
           "x": "利用にはOllama 0.40.11以降を動かすApple Silicon搭載Macが必要だ。英語モデルはApache 2.0のもとで無料で使えるが、フランス語、ドイツ語、スペイン語、ポルトガル語、多言語モデルは非商用利用に限られる。"
         }
       ]
+    },
+    "gadgets/raycast-ios-keyboard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Raycastは、iPhoneのキーボードにメッセージを打つ以上の役割を持たせたいと考えている。iOS向けの新しいメインキーボードは、普段のタイピングにAIツール、音声入力、GIF検索、テキストショートカットを組み合わせた。最大の変化は、Raycastの生産性機能を使うためにキーボードを切り替える必要がなくなったことだ。"
+        },
+        {
+          "t": "p",
+          "x": "Raycastは当初、別のアプローチを試していた。およそ一年前に補助キーボードを公開したが、それは機能が必要なときだけ切り替えて使う、相棒のような存在だった。"
+        },
+        {
+          "t": "p",
+          "x": "新しいメインキーボードは、iPhone純正キーボードと同等の使い心地を実現しつつ、その上にRaycastのツールを重ねる。スワイプ入力と自動修正に完全対応し、Macからそのまま取り込んだスタイルで音声入力ができ、どのアプリでも接頭文字でスニペットを展開でき、Quicklinksをその場で挿入できる。よく使うAIコマンドを並べられるカスタマイズ可能なアクション行、スマート絵文字検索、GIF検索、そして選べる五種類のビジュアルテーマも用意されている。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+          "cap": "iOS版Raycast。"
+        },
+        {
+          "t": "p",
+          "x": "キーボードは現在英語のみに対応するが、他言語への対応もすでに進められている。Appleは、サードパーティ製キーボードが音声入力を行う際、いったん自社アプリへ移ってから元のアプリに戻ることを求めている。新しいキーボードを使うにはRaycastのバージョン1.1.0が必要で、このバージョンには七件のバグ修正も含まれる。"
+        }
+      ]
+    },
+    "gadgets/android-xr-cli-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Android XRを搭載したGentle Mosterのスマートグラス"
+        },
+        {
+          "t": "p",
+          "x": "Googleは2026 Android Dev Summitで、Android XRとAndroid CLIの両方に向けた興味深い新機能を発表した。開発者はハードウェアを持っていなくてもスマートグラス向けアプリを開発・テストできるようになり、Androidのコマンドラインツールは、AIコーディングエージェントがアプリをテストし性能問題を特定するのを助けるアップグレードを受ける。"
+        },
+        {
+          "t": "p",
+          "x": "Android StudioのAndroid XRエミュレーターが安定版となり、開発者はさまざまな種類のスマートグラスをパソコン上で直接シミュレートできる。中核となるJetpack XR SDKライブラリも安定版となり、Googleはデジタルオブジェクトを現実の場所に固定できるGeospatial APIsを追加した。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+          "cap": "Google Audioグラス"
+        },
+        {
+          "t": "p",
+          "x": "Unity、Godot、Unrealを使う開発者には、性能分析を支援する安定版のAndroid XR Engine Hubも提供される。Googleはこれらのアップデートとあわせて XREAL AURAを発表し、Android XRを搭載した初の有線XRグラスだとしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+          "cap": "Claude Agent、OpenAI Codex、Google Antigravity、内蔵エージェントから選べるコーディングエージェント選択メニューを表示したAndroid Studioの画面。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはAndroid CLIもアップグレードし、AIコーディングエージェントがコード生成以上のことをできるようにした。エージェントはAndroid Device Streamingを通じて実際のAndroidデバイス上でアプリをリモートテストしたり、エミュレーターを起動せずにJetpack Composeのプレビューを生成したりできる。アプリ起動の遅さ、カクつくアニメーション、不要なバックグラウンド処理を特定するツールのほか、アプリ品質チェックや、セキュリティ、ウィジェット、性能最適化などを扱う30以上のAndroidスキルも用意された。"
+        }
+      ]
+    },
+    "gadgets/strava-gemini-insights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Stravaは今週、Google GeminiとのAI連携を拡大し、会員が運動履歴に基づくパーソナライズされたインサイトを得られるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "Stravaは数カ月前、Model Context Protocol(MCP)を使ったClaudeとの連携を開始し、ユーザーがAnthropicのAIアシスタントとの自然言語の対話を通じて運動履歴やトレーニングの成果を分析できるようにした。MCPは、AIアシスタントが外部のアプリやサービスに接続できるようにするオープン標準で、Anthropicが作成し、のちにLinux FoundationのAgentic AI Foundationに寄贈された。"
+        },
+        {
+          "t": "p",
+          "x": "同社の説明によると、Stravaの会員のうち「StravaをGeminiに直接接続した人は、アクティビティ履歴に基づいた、より文脈に即したパーソナライズされた回答を得られる」。同社は、この連携は完全に任意で、読み取り専用だと付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "接続後、ユーザーはGeminiに「同じ心拍数で速くなっている?」「前回のレースでの走りを詳しく分析してくれる?」「今年の10K 最速タイムと歴代最速を比べると?」「土曜日のロング走で暑さのせいでどれだけ遅くなった?」といった質問ができる。"
+        },
+        {
+          "t": "p",
+          "x": "提供はまずUS(米国)に限られ、Geminiのプランに関係なくStravaの会員なら利用できる。Stravaは他の国への拡大時期を発表していない。"
+        }
+      ]
+    },
+    "gadgets/google-home-gemini-fix-oct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+          "cap": "google assistant スマートディスプレイ nest hub"
+        },
+        {
+          "t": "p",
+          "x": "GoogleのGemini for Homeの最新アップデートは、誰も話しかけていないのにスピーカーが突然「理解できませんでした」と口にする問題など、いくつかの問題に対処する。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは本日、十月二回目となるGemini for Homeのアップデートを公開した。いくつかの修正に加え、変更履歴にはGoogle Homeアプリに関する長いセクションが含まれている。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、Homeアプリ内のGeminiに関する個別の変更は六つある。中でも最も目を引く修正が一つある。アップデートの投稿によると、GoogleはHomeとNestのスピーカー/ディスプレイが不意に「すみません、理解できませんでした」と話すバグを把握していた。何も話しかけていないのに起きるため、少し不気味に感じるのも無理はない。この奇妙なバグは今回のアップデートで修正されるはずだ。"
+        },
+        {
+          "t": "p",
+          "x": "さらに、二つの修正はGoogle Homeデバイス上でGeminiがユーザーを理解する能力に関わるものだ。一つは、音楽をある部屋から別の部屋へ移す依頼を誤解してしまう問題。別のケースでは、指定した種類ではなく、スリープ、メディア、通常のタイマーを誤って調整していた。いずれの機能も今後は意図どおりに動作するという。"
+        },
+        {
+          "t": "p",
+          "x": "変更履歴には、スマートディスプレイでのYouTube TVコマンドの信頼性向上、部屋をまたいだ音量調整の予測しやすさの改善、アラームとタイマーの音量がゼロに設定されてしまうバグの修正も含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "アップデートは本日から配信されるが、全ユーザーに行き渡るまでには時間がかかる場合がある。Geminiが理解できないと告げるのは、本当に理解できないときだけになってほしいものだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-echo-studio-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+          "cap": "テーブルに置かれたAmazon Echo Studio with Home Camera"
+        },
+        {
+          "t": "p",
+          "x": "2019年に登場して以来、AmazonのEcho Studioは、Alexa搭載スマートスピーカーで優れた音質を求めるユーザーを狙ってきた。最新のEcho Studioは、やや意外な差別化要素をもう一つ加えた。内蔵カメラである。標準のEcho Studioに比べて音響面の改良は多くなく、新モデルは13MP カメラを収めながらも本体寸法は同じだ。"
+        },
+        {
+          "t": "p",
+          "x": "スピーカーはカメラでユーザーの位置を把握し、「動き回っても音楽やオーディオブックが同じ音量を保つように」音量を調整できる。Amazonは、部屋の様子を遠隔で確認するスマートカメラとして使う人も想定している。Amazonの発表は「Alexaはカメラの前にあるものを見て理解し、リアルタイムで手助けすることもできる。ボードゲームの箱を取り出してAlexa+にルールの説明を頼んだり、シリアルの箱を掲げたりすれば、Alexaがそれを認識し、ほかの味の再注文を手伝う」と述べている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
+          "cap": "スマートフォンでEcho Studio with Home Cameraのカメラ映像を見る様子。"
+        },
+        {
+          "t": "p",
+          "x": "専用ボタンでマイクとカメラをオフにでき、クラウドへストリーミングする際は内蔵LEDが点灯する。AmazonのRingカメラをめぐる過去を考えると、プライバシーを重視する一部の顧客はカメラのない製品を選ぶかもしれない。Echo Studio With Home Cameraは$250で、カメラなしモデルより$30高い。"
+        }
+      ]
     }
   }
 }

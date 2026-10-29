@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-30",
+  "section": "medicine",
+  "user_selection": null,
+  "picks": [
+    {
+      "rank": 5,
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "HOPPR releases whole-body MSK x-ray report drafting model",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-29T18:05:29Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+      "excerpt": "HOPPR is launching a beta of its FS MSK Whole-Body Narrative Model, a vision-language foundation model that generates draft findings text for musculoskeletal radiographs using up to three views per study.",
+      "lang": "en",
+      "rationale": "A new product release with real AI content: HOPPR's vision-language foundation model drafts findings text for whole-body MSK radiographs, so it changes how radiologists produce reports. The recent fracture cards (10-28 ChatGPT-5 wrist study, 10-29 radiographer ED study) evaluated detection, not report drafting, and no HOPPR story is in the 30-day history."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model": {
+        "verdict": "new",
+        "nearest": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
+        "new_action": ""
+      }
+    },
+    "note": "This pick replaces Deep Reasoning AI NeuroDR (AuntMinnie), which was dropped because AI appears only in the company name. The swap curator had Read access only and could not exact-grep published_urls.json for HOPPR across all sections, so the orchestrator should check it before roll."
+  }
+}

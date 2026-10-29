@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-echo-studio-camera",
+      "id": "rokid-glasses2-microled",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Echo Studio에\nAlexa+용 카메라",
-      "body": "Amazon Echo Studio, $30 더 내면 Alexa+가 앞을 본다.",
-      "mini_headline": "Echo Studio에 카메라",
+      "headline": "Rokid 2세대 안경\nAI 에이전트·큰 배터리",
+      "body": "Rokid microLED 안경은 배터리·음질을 키우고 AI 에이전트를 지원한다.",
+      "mini_headline": "Rokid Glasses 2, AI 에이전트 지원",
       "tool": "Gadgets",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,185 +19,263 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-            "cap": "테이블 위에 놓인 Amazon Echo Studio with Home Camera"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+            "cap": "디자인이 더 편안해진 Rokid Glasses 2."
           },
           {
             "t": "p",
-            "x": "2019년 데뷔한 Amazon의 Echo Studio는 Alexa 스마트 스피커 가운데 음질을 따지는 사용자를 노려 왔다. 최신 Echo Studio에는 뜻밖의 차별점이 하나 더 붙었다. 내장 카메라다. 오디오는 기존 Echo Studio와 크게 다르지 않고, 13MP 카메라가 들어갔는데도 크기는 그대로다."
+            "x": "Rokid가 microLED 디스플레이를 단 스마트 안경 2세대 모델을 내놨다. 디자인이 더 편안해졌고 배터리 용량도 늘었다. 오디오를 개선했고 AI 에이전트도 지원한다."
           },
           {
             "t": "p",
-            "x": "스피커는 카메라로 사용자 위치를 파악해 “움직여도 음악이나 오디오북이 같은 볼륨을 유지하도록” 음량을 맞춘다. 원격으로 방 안을 살피는 스마트 카메라로 쓰는 사람도 있으리라는 게 Amazon의 계산이다. Amazon은 발표에서 “Alexa는 카메라 앞에 있는 것을 보고 이해해 실시간으로 도울 수도 있다. 보드게임 상자를 꺼내 Alexa+에게 규칙 설명을 부탁하거나 시리얼 상자를 들어 보이면, Alexa가 이를 알아보고 다른 맛을 재주문하도록 도와준다”고 밝혔다."
+            "x": "Rokid Glasses 2는 스쿼클(squircle) 프레임에 유연한 다리를 달았는데, 다리는 이전 세대보다 최대 22% 더 넓게 벌어진다. IPX4 등급은 이전 세대와 같다. 렌즈를 개선해 반사가 70% 줄었다고 한다. microLED 도파관 디스플레이(단일 녹색 디스플레이)는 해상도 480 × 380, 시야각 25°, 밝기 1500 nits다."
           },
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-            "cap": "Echo Studio with Home Camera의 카메라 화면을 휴대폰으로 보는 모습."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+            "cap": "Rokid Glasses 2에는 Snapdragon AR1+ 칩이 들어간다."
           },
           {
             "t": "p",
-            "x": "전용 버튼으로 마이크와 카메라를 끌 수 있고, 클라우드로 스트리밍하는 동안에는 내장 LED가 켜진다. Ring 카메라를 둘러싼 Amazon의 전력을 떠올리면 개인정보에 민감한 고객 일부는 카메라 없는 모델을 고를 법하다. Echo Studio With Home Camera는 $250로, 카메라 없는 모델보다 $30 비싸다."
+            "x": "안경에는 BES2800BP와 Snapdragon AR1+ 듀얼 프로세서가 들어갔고, RAM 2GB와 저장공간 32GB는 그대로다. 12MP 카메라는 4K 30fps 영상을 찍는다. 스피커도 개선돼 Dolby Audio를 지원하며 전방향 마이크 네 개와 골전도 마이크 하나가 더해졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+            "cap": "Rokid Glasses 2는 Dolby Audio를 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "Rokid Glasses 2는 실시간 번역을 지원한다. 보고 있는 대상을 인식해 정보를 알려 주고, 회의나 아이디어를 녹음해 텍스트로 옮겨 준다. Rokid는 Hermes, Codex, OpenClaw, Alibaba의 Qoder, Tencent의 WorkBuddy, OpenCode 같은 데스크톱 에이전트도 Glasses 2에서 쓸 수 있다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "배터리는 263mAh로 이전 세대의 210mAh보다 커졌다. 가격은 Black 색상이 CNY 3699(~$555/€498), Tortoiseshell 색상이 CNY 3849(~$577/€518)다. 지금 예약 주문을 받고 있고 11월 11일 출시된다. Rokid는 중국 외 지역 출시 시점을 아직 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon's Echo Studio\nadds a camera for Alexa+",
-          "body": "Amazon's new Echo Studio with Home Camera costs $30 more and lets Alexa+ see and understand what is in front of it.",
-          "mini_headline": "Echo Studio gets a camera",
+          "headline": "Rokid Glasses 2 add AI agents\nand a bigger battery",
+          "body": "Rokid's second-gen microLED glasses add a bigger battery, upgraded audio and support for AI agents.",
+          "mini_headline": "Rokid Glasses 2 add AI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "Amazon Echo Studio with Home Camera on a table"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "The Rokid Glasses 2 have a more comfortable design."
               },
               {
                 "t": "p",
-                "x": "Since debuting in 2019, Amazon’s Echo Studio targeted users who wanted superior audio quality from their Alexa-based smart speaker. The latest Echo Studio adds another less-expected differentiator: an integrated camera. It doesn’t have many audio upgrades over the standard Echo Studio, and the devices have the same dimensions, even though the new model fits in a 13MP camera."
+                "x": "Rokid has launched a second-gen model of its smart glasses with a microLED display. The new glasses have a more comfortable design, a bigger battery capacity, upgraded audio, and support for AI agents."
               },
               {
                 "t": "p",
-                "x": "The speaker can use the camera to see where you are and adjust audio volume “so your music or audiobook maintains the same volume as you move about.” Amazon also sees people using it as a smart camera to remotely check on a room. “Alexa can also see and understand what’s in front of the camera and help you in real time. Pull out a board game box and ask Alexa+ to explain the rules or hold up a cereal box, and Alexa can recognize it and help you reorder more flavors,” Amazon’s announcement says."
+                "x": "The Rokid Glasses 2 have a squircle frame attached to flexible temples that open up to 22% wider than those of the previous generation. The glasses retain the IPX4 rating of the previous generation. Upgraded lenses are reported to be 70% less reflective, and the microLED waveguide display (single green display) has a 480 × 380 resolution, 25° field of view, and 1500 nits of brightness."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "Watching the Echo Studio with Home Camera’s camera feed from a phone."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "The Rokid Glasses 2 are powered by the Snapdragon AR1+."
               },
               {
                 "t": "p",
-                "x": "A dedicated button turns off the microphones and cameras, and a built-in LED turns on when it streams to the cloud. Given Amazon’s past with Ring cameras, some privacy-focused customers may opt for camera-less alternatives. The Echo Studio With Home Camera is $250, which is $30 more than the camera-free version."
+                "x": "The glasses have dual-processors — the BES2800BP and the Snapdragon AR1+ — while RAM and storage remain 2GB and 32GB. A 12MP camera records in 4K at 30fps, and upgraded speakers support Dolby Audio, alongside four omnidirectional microphones and a bone conduction microphone."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "The Rokid Glasses 2 have support for Dolby Audio."
+              },
+              {
+                "t": "p",
+                "x": "The Rokid Glasses 2 have live translate; can identify and provide information about what you are looking at; and can record and transcribe meetings and ideas. Rokid also says the Glasses 2 support desktop agents such as Hermes, Codex, OpenClaw, Alibaba's Qoder, Tencent's WorkBuddy, and OpenCode."
+              },
+              {
+                "t": "p",
+                "x": "A 263mAh battery is larger than the 210mAh of the previous generation. Black costs CNY 3699 (~$555/€498) and Tortoiseshell CNY 3849 (~$577/€518); they are available to pre-order now and will be released on November 11. Rokid hasn't announced when they will be released outside China."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Echo Studio에\nAlexa+용 카메라",
-          "body": "Amazon Echo Studio, $30 더 내면 Alexa+가 앞을 본다.",
-          "mini_headline": "Echo Studio에 카메라",
+          "headline": "Rokid 2세대 안경\nAI 에이전트·큰 배터리",
+          "body": "Rokid microLED 안경은 배터리·음질을 키우고 AI 에이전트를 지원한다.",
+          "mini_headline": "Rokid Glasses 2, AI 에이전트 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "테이블 위에 놓인 Amazon Echo Studio with Home Camera"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "디자인이 더 편안해진 Rokid Glasses 2."
               },
               {
                 "t": "p",
-                "x": "2019년 데뷔한 Amazon의 Echo Studio는 Alexa 스마트 스피커 가운데 음질을 따지는 사용자를 노려 왔다. 최신 Echo Studio에는 뜻밖의 차별점이 하나 더 붙었다. 내장 카메라다. 오디오는 기존 Echo Studio와 크게 다르지 않고, 13MP 카메라가 들어갔는데도 크기는 그대로다."
+                "x": "Rokid가 microLED 디스플레이를 단 스마트 안경 2세대 모델을 내놨다. 디자인이 더 편안해졌고 배터리 용량도 늘었다. 오디오를 개선했고 AI 에이전트도 지원한다."
               },
               {
                 "t": "p",
-                "x": "스피커는 카메라로 사용자 위치를 파악해 “움직여도 음악이나 오디오북이 같은 볼륨을 유지하도록” 음량을 맞춘다. 원격으로 방 안을 살피는 스마트 카메라로 쓰는 사람도 있으리라는 게 Amazon의 계산이다. Amazon은 발표에서 “Alexa는 카메라 앞에 있는 것을 보고 이해해 실시간으로 도울 수도 있다. 보드게임 상자를 꺼내 Alexa+에게 규칙 설명을 부탁하거나 시리얼 상자를 들어 보이면, Alexa가 이를 알아보고 다른 맛을 재주문하도록 도와준다”고 밝혔다."
+                "x": "Rokid Glasses 2는 스쿼클(squircle) 프레임에 유연한 다리를 달았는데, 다리는 이전 세대보다 최대 22% 더 넓게 벌어진다. IPX4 등급은 이전 세대와 같다. 렌즈를 개선해 반사가 70% 줄었다고 한다. microLED 도파관 디스플레이(단일 녹색 디스플레이)는 해상도 480 × 380, 시야각 25°, 밝기 1500 nits다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "Echo Studio with Home Camera의 카메라 화면을 휴대폰으로 보는 모습."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Rokid Glasses 2에는 Snapdragon AR1+ 칩이 들어간다."
               },
               {
                 "t": "p",
-                "x": "전용 버튼으로 마이크와 카메라를 끌 수 있고, 클라우드로 스트리밍하는 동안에는 내장 LED가 켜진다. Ring 카메라를 둘러싼 Amazon의 전력을 떠올리면 개인정보에 민감한 고객 일부는 카메라 없는 모델을 고를 법하다. Echo Studio With Home Camera는 $250로, 카메라 없는 모델보다 $30 비싸다."
+                "x": "안경에는 BES2800BP와 Snapdragon AR1+ 듀얼 프로세서가 들어갔고, RAM 2GB와 저장공간 32GB는 그대로다. 12MP 카메라는 4K 30fps 영상을 찍는다. 스피커도 개선돼 Dolby Audio를 지원하며 전방향 마이크 네 개와 골전도 마이크 하나가 더해졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Rokid Glasses 2는 Dolby Audio를 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Rokid Glasses 2는 실시간 번역을 지원한다. 보고 있는 대상을 인식해 정보를 알려 주고, 회의나 아이디어를 녹음해 텍스트로 옮겨 준다. Rokid는 Hermes, Codex, OpenClaw, Alibaba의 Qoder, Tencent의 WorkBuddy, OpenCode 같은 데스크톱 에이전트도 Glasses 2에서 쓸 수 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "배터리는 263mAh로 이전 세대의 210mAh보다 커졌다. 가격은 Black 색상이 CNY 3699(~$555/€498), Tortoiseshell 색상이 CNY 3849(~$577/€518)다. 지금 예약 주문을 받고 있고 11월 11일 출시된다. Rokid는 중국 외 지역 출시 시점을 아직 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Echo Studioに\nAlexa+用カメラ",
-          "body": "Amazonの新Echo Studioは$30高く、Alexa+が目の前を見て理解する。",
-          "mini_headline": "Echo Studioにカメラ",
+          "headline": "Rokid第2世代グラス\nAIエージェントと大容量電池",
+          "body": "Rokidの2代目microLEDグラスは電池と音質を強化し、AIエージェントに対応した。",
+          "mini_headline": "Rokid Glasses 2がAIエージェント対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "テーブルに置かれたAmazon Echo Studio with Home Camera"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "Rokid Glasses 2はより快適なデザインになった。"
               },
               {
                 "t": "p",
-                "x": "2019年に登場して以来、AmazonのEcho Studioは、Alexa搭載スマートスピーカーで優れた音質を求めるユーザーを狙ってきた。最新のEcho Studioは、やや意外な差別化要素をもう一つ加えた。内蔵カメラである。標準のEcho Studioに比べて音響面の改良は多くなく、新モデルは13MP カメラを収めながらも本体寸法は同じだ。"
+                "x": "Rokidは、microLEDディスプレイを搭載したスマートグラスの第2世代モデルを発売した。新モデルはより快適なデザイン、大容量化したバッテリー、強化されたオーディオ、そしてAIエージェントへの対応を備える。"
               },
               {
                 "t": "p",
-                "x": "スピーカーはカメラでユーザーの位置を把握し、「動き回っても音楽やオーディオブックが同じ音量を保つように」音量を調整できる。Amazonは、部屋の様子を遠隔で確認するスマートカメラとして使う人も想定している。Amazonの発表は「Alexaはカメラの前にあるものを見て理解し、リアルタイムで手助けすることもできる。ボードゲームの箱を取り出してAlexa+にルールの説明を頼んだり、シリアルの箱を掲げたりすれば、Alexaがそれを認識し、ほかの味の再注文を手伝う」と述べている。"
+                "x": "Rokid Glasses 2はスクワークル(squircle)形状のフレームに柔軟なテンプルを組み合わせ、テンプルは前世代より最大22%広く開く。前世代のIPX4等級は引き継いだ。改良されたレンズは反射が70%少ないとされ、microLED導波路ディスプレイ(単色グリーン表示)は480 × 380の解像度、25°の視野角、1500 nitsの輝度を持つ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "スマートフォンでEcho Studio with Home Cameraのカメラ映像を見る様子。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Rokid Glasses 2はSnapdragon AR1+を搭載する。"
               },
               {
                 "t": "p",
-                "x": "専用ボタンでマイクとカメラをオフにでき、クラウドへストリーミングする際は内蔵LEDが点灯する。AmazonのRingカメラをめぐる過去を考えると、プライバシーを重視する一部の顧客はカメラのない製品を選ぶかもしれない。Echo Studio With Home Cameraは$250で、カメラなしモデルより$30高い。"
+                "x": "BES2800BPとSnapdragon AR1+のデュアルプロセッサーを搭載し、RAMとストレージはそれぞれ2GB 、32GB のまま据え置かれた。12MP カメラは4K 30fps で録画でき、改良されたスピーカーはDolby Audioに対応する。さらに全指向性マイク四つと骨伝導マイク一つを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Rokid Glasses 2はDolby Audioに対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Rokid Glasses 2はライブ翻訳に対応し、見ている対象を認識して情報を提示できるほか、会議やアイデアを録音して文字起こしもできる。RokidによるとGlasses 2は、Hermes、Codex、OpenClaw、AlibabaのQoder、TencentのWorkBuddy、OpenCodeといったデスクトップエージェントにも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "バッテリーは263mAh で、前世代の210mAh から大きくなった。Black はCNY 3699(~$555/€498)、Tortoiseshell はCNY 3849(~$577/€518)で、現在予約受付中、11月11日に発売される。Rokidは中国以外での発売時期を発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Echo Studio加装\nAlexa+摄像头",
-          "body": "Amazon新款Echo Studio贵$30，能让Alexa+看懂眼前的事物。",
-          "mini_headline": "Echo Studio加装摄像头",
+          "headline": "Rokid第二代眼镜\n支持AI智能体、电池更大",
+          "body": "Rokid第二代microLED眼镜电池更大、音频升级，并支持AI智能体。",
+          "mini_headline": "Rokid Glasses 2支持AI智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "放在桌上的Amazon Echo Studio with Home Camera"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "Rokid Glasses 2的设计更加舒适。"
               },
               {
                 "t": "p",
-                "x": "自2019年首次亮相以来，Amazon的Echo Studio一直面向希望Alexa智能音箱拥有更出色音质的用户。最新款Echo Studio又增加了一个不太寻常的差异点：内置摄像头。与标准版Echo Studio相比，它在音频方面的升级不多，尽管新款塞进了一颗13MP 摄像头，两款设备的尺寸却完全相同。"
+                "x": "Rokid推出了第二代搭载microLED显示屏的智能眼镜。新款眼镜设计更舒适，电池容量更大，音频得到升级，并支持AI智能体。"
               },
               {
                 "t": "p",
-                "x": "这款音箱可以借助摄像头判断你的位置并调节音量，“让你走动时音乐或有声书始终保持相同音量”。Amazon还认为，有人会把它当作智能摄像头，远程查看房间情况。Amazon在公告中表示：“Alexa还能看懂摄像头前的事物，并实时为你提供帮助。拿出一盒桌游，让Alexa+讲解规则；或者举起一盒麦片，Alexa就能认出它，并帮你再订购更多口味。”"
+                "x": "Rokid Glasses 2采用方圆形（squircle）镜框，搭配柔性镜腿，镜腿张开幅度比上一代最多宽22%。眼镜保留了上一代的IPX4防护等级。据称升级后的镜片反光减少70%，microLED光波导显示屏（单绿色显示）分辨率为480 × 380，视场角25°，亮度1500 nits。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "用手机查看Echo Studio with Home Camera的摄像头画面。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Rokid Glasses 2由Snapdragon AR1+驱动。"
               },
               {
                 "t": "p",
-                "x": "专用按钮可关闭麦克风和摄像头，向云端传输画面时内置LED会亮起。考虑到Amazon在Ring摄像头上的过往，一些注重隐私的用户可能会选择不带摄像头的替代产品。Echo Studio With Home Camera售价$250，比无摄像头版本贵$30。"
+                "x": "眼镜采用BES2800BP与Snapdragon AR1+双处理器，RAM和存储仍为2GB 和32GB 。12MP 摄像头可录制4K 30fps 视频，升级后的扬声器支持Dolby Audio，另配有四个全向麦克风和一个骨传导麦克风。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Rokid Glasses 2支持Dolby Audio。"
+              },
+              {
+                "t": "p",
+                "x": "Rokid Glasses 2支持实时翻译，能识别你所看到的事物并提供相关信息，还能录制并转写会议和想法。Rokid还表示，Glasses 2支持Hermes、Codex、OpenClaw、Alibaba的Qoder、Tencent的WorkBuddy以及OpenCode等桌面智能体。"
+              },
+              {
+                "t": "p",
+                "x": "263mAh 电池比上一代的210mAh 更大。Black 款售价CNY 3699（~$555/€498），Tortoiseshell 款售价CNY 3849（~$577/€518）；现已开放预订，将于11月11日发售。Rokid尚未公布在中国以外地区的发售时间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Echo Studio de Amazon suma\nuna cámara para Alexa+",
-          "body": "El nuevo Echo Studio with Home Camera de Amazon cuesta $30 más y permite a Alexa+ ver y entender lo que tiene delante.",
-          "mini_headline": "Echo Studio estrena cámara",
+          "headline": "Rokid Glasses 2 suma agentes AI\ny una batería más grande",
+          "body": "Las gafas microLED de segunda generación de Rokid suman más batería, mejor audio y compatibilidad con agentes AI.",
+          "mini_headline": "Rokid Glasses 2 suma agentes AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "Amazon Echo Studio with Home Camera sobre una mesa"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "Las Rokid Glasses 2 tienen un diseño más cómodo."
               },
               {
                 "t": "p",
-                "x": "Desde su debut en 2019, el Echo Studio de Amazon se dirigió a usuarios que querían una calidad de audio superior en su altavoz inteligente basado en Alexa. El último Echo Studio añade otro elemento diferenciador menos esperado: una cámara integrada. No trae muchas mejoras de audio respecto al Echo Studio estándar, y ambos dispositivos tienen las mismas dimensiones, aunque el nuevo modelo incorpora una cámara de 13MP."
+                "x": "Rokid ha lanzado la segunda generación de sus gafas inteligentes con pantalla microLED. Las nuevas gafas tienen un diseño más cómodo, una batería de mayor capacidad, audio mejorado y compatibilidad con agentes AI."
               },
               {
                 "t": "p",
-                "x": "El altavoz puede usar la cámara para ver dónde está el usuario y ajustar el volumen “para que la música o el audiolibro mantengan el mismo volumen mientras te mueves”. Amazon también prevé que algunas personas lo usen como cámara inteligente para revisar una habitación a distancia. “Alexa también puede ver y entender lo que hay frente a la cámara y ayudarte en tiempo real. Saca la caja de un juego de mesa y pide a Alexa+ que explique las reglas, o muestra una caja de cereales, y Alexa podrá reconocerla y ayudarte a pedir más sabores”, dice el anuncio de Amazon."
+                "x": "Las Rokid Glasses 2 tienen una montura squircle unida a varillas flexibles que se abren hasta un 22% más que las de la generación anterior. Las gafas mantienen la certificación IPX4 de la generación anterior. Según la información disponible, las lentes mejoradas reflejan un 70% menos, y la pantalla de guía de ondas microLED (una sola pantalla verde) tiene una resolución de 480 × 380, un campo de visión de 25° y un brillo de 1500 nits."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "Imagen de la cámara del Echo Studio with Home Camera vista desde un teléfono."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Las Rokid Glasses 2 funcionan con el Snapdragon AR1+."
               },
               {
                 "t": "p",
-                "x": "Un botón dedicado apaga los micrófonos y las cámaras, y un LED integrado se enciende cuando transmite a la nube. Dado el historial de Amazon con las cámaras Ring, algunos clientes preocupados por la privacidad podrían optar por alternativas sin cámara. El Echo Studio With Home Camera cuesta $250, $30 más que la versión sin cámara."
+                "x": "Las gafas tienen dos procesadores, el BES2800BP y el Snapdragon AR1+, mientras que la RAM y el almacenamiento se mantienen en 2GB y 32GB. Una cámara de 12MP graba en 4K a 30fps, y los altavoces mejorados son compatibles con Dolby Audio, junto con cuatro micrófonos omnidireccionales y un micrófono de conducción ósea."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Las Rokid Glasses 2 son compatibles con Dolby Audio."
+              },
+              {
+                "t": "p",
+                "x": "Las Rokid Glasses 2 ofrecen traducción en directo, pueden identificar lo que estás mirando y dar información sobre ello, y pueden grabar y transcribir reuniones e ideas. Rokid también afirma que las Glasses 2 son compatibles con agentes de escritorio como Hermes, Codex, OpenClaw, Qoder de Alibaba, WorkBuddy de Tencent y OpenCode."
+              },
+              {
+                "t": "p",
+                "x": "La batería de 263mAh es mayor que la de 210mAh de la generación anterior. El modelo Black cuesta CNY 3699 (~$555/€498) y el Tortoiseshell CNY 3849 (~$577/€518); ya se pueden reservar y saldrán a la venta el 11 de noviembre. Rokid no ha anunciado cuándo se lanzarán fuera de China."
               }
             ]
           }
@@ -205,129 +283,181 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Echo Studio에\nAlexa+용 카메라",
-          "body": "Amazon Echo Studio는 $30 더 비싸고 Alexa+가 앞을 본다.",
-          "mini_headline": "Echo Studio에 카메라",
+          "headline": "Rokid 2세대 안경\nAI 에이전트·큰 배터리",
+          "body": "Rokid microLED 안경은 배터리·음질을 키우고 AI 에이전트를 지원한다.",
+          "mini_headline": "Rokid Glasses 2, AI 에이전트 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "테이블 위에 놓인 Amazon Echo Studio with Home Camera"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "Rokid Glasses 2는 더 편안한 디자인을 갖췄다."
               },
               {
                 "t": "p",
-                "x": "2019년 데뷔 이후 Amazon의 Echo Studio는 Alexa 기반 스마트 스피커에서 더 뛰어난 음질을 원하는 사용자를 겨냥해 왔다. 최신 Echo Studio는 다소 뜻밖의 차별점을 하나 더 더했다. 바로 내장 카메라다. 기존 Echo Studio에 비해 오디오 업그레이드는 많지 않고, 새 모델이 13MP 카메라를 품었는데도 두 기기의 크기는 같다."
+                "x": "Rokid가 microLED 디스플레이를 탑재한 스마트 안경의 2세대 모델을 출시했다. 새 안경은 더 편안한 디자인과 더 큰 배터리 용량, 개선된 오디오, AI 에이전트 지원을 갖췄다."
               },
               {
                 "t": "p",
-                "x": "스피커는 카메라로 사용자의 위치를 파악해 “움직여도 음악이나 오디오북이 같은 볼륨을 유지하도록” 음량을 조절할 수 있다. Amazon은 이 제품을 원격으로 방 안을 확인하는 스마트 카메라로 쓰는 사람도 있을 것으로 본다. Amazon은 발표에서 “Alexa는 카메라 앞에 있는 것을 보고 이해해 실시간으로 도울 수도 있다. 보드게임 상자를 꺼내 Alexa+에게 규칙 설명을 부탁하거나 시리얼 상자를 들어 보이면, Alexa가 이를 알아보고 다른 맛을 재주문하도록 도와준다”고 밝혔다."
+                "x": "Rokid Glasses 2는 스쿼클(squircle) 프레임에 유연한 다리를 달았고, 다리는 이전 세대보다 최대 22% 더 넓게 벌어진다. 이전 세대의 IPX4 등급은 그대로 유지했다. 개선된 렌즈는 반사가 70% 적은 것으로 알려졌으며, microLED 도파관 디스플레이(단일 녹색 디스플레이)는 480 × 380 해상도, 25° 시야각, 1500 nits 밝기를 갖췄다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "휴대폰으로 Echo Studio with Home Camera의 카메라 화면을 보는 모습."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Rokid Glasses 2에는 Snapdragon AR1+ 칩이 들어간다."
               },
               {
                 "t": "p",
-                "x": "전용 버튼으로 마이크와 카메라를 끌 수 있고, 클라우드로 스트리밍할 때는 내장 LED가 켜진다. Ring 카메라를 둘러싼 Amazon의 과거를 고려하면, 개인정보를 중시하는 일부 고객은 카메라 없는 대안을 택할 수도 있다. Echo Studio With Home Camera는 $250로, 카메라 없는 모델보다 $30 비싸다."
+                "x": "안경은 BES2800BP와 Snapdragon AR1+ 듀얼 프로세서를 갖췄고, RAM과 저장공간은 각각 2GB, 32GB 그대로다. 12MP 카메라는 4K 30fps 영상을 녹화하며, 개선된 스피커는 Dolby Audio를 지원한다. 여기에 전방향 마이크 네 개와 골전도 마이크 하나가 더해진다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Rokid Glasses 2는 Dolby Audio를 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Rokid Glasses 2는 실시간 번역을 지원하고, 보고 있는 대상을 인식해 정보를 알려 주며, 회의와 아이디어를 녹음해 텍스트로 옮겨 준다. Rokid는 Glasses 2가 Hermes, Codex, OpenClaw, Alibaba의 Qoder, Tencent의 WorkBuddy, OpenCode 같은 데스크톱 에이전트도 지원한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "263mAh 배터리는 이전 세대의 210mAh 대비 커졌다. Black 색상은 CNY 3699(~$555/€498), Tortoiseshell 색상은 CNY 3849(~$577/€518)이며, 지금 예약 주문을 받고 11월 11일 출시된다. Rokid는 중국 외 지역 출시 시점을 아직 발표하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Echo Studioに\nAlexa+用カメラ",
-          "body": "Amazonの新Echo Studioは$30高く、Alexa+が目の前を見て理解する。",
-          "mini_headline": "Echo Studioにカメラ",
+          "headline": "Rokid第2世代グラス\nAIエージェントと大容量電池",
+          "body": "Rokidの2代目microLEDグラスは電池と音質を強化し、AIエージェントに対応した。",
+          "mini_headline": "Rokid Glasses 2がAIエージェント対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "テーブルに置かれたAmazon Echo Studio with Home Camera"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "Rokid Glasses 2はより快適なデザインになった。"
               },
               {
                 "t": "p",
-                "x": "2019年に登場して以来、AmazonのEcho Studioは、Alexa搭載スマートスピーカーで優れた音質を求めるユーザーを狙ってきた。最新のEcho Studioは、やや意外な差別化要素をもう一つ加えた。内蔵カメラである。標準のEcho Studioに比べて音響面の改良は多くなく、新モデルは13MP カメラを収めながらも本体寸法は同じだ。"
+                "x": "Rokidは、microLEDディスプレイを搭載したスマートグラスの第2世代モデルを発売した。新モデルはより快適なデザイン、大容量化したバッテリー、強化されたオーディオ、そしてAIエージェントへの対応を備える。"
               },
               {
                 "t": "p",
-                "x": "スピーカーはカメラでユーザーの位置を把握し、「動き回っても音楽やオーディオブックが同じ音量を保つように」音量を調整できる。Amazonは、部屋の様子を遠隔で確認するスマートカメラとして使う人も想定している。Amazonの発表は「Alexaはカメラの前にあるものを見て理解し、リアルタイムで手助けすることもできる。ボードゲームの箱を取り出してAlexa+にルールの説明を頼んだり、シリアルの箱を掲げたりすれば、Alexaがそれを認識し、ほかの味の再注文を手伝う」と述べている。"
+                "x": "Rokid Glasses 2はスクワークル(squircle)形状のフレームに柔軟なテンプルを組み合わせ、テンプルは前世代より最大22%広く開く。前世代のIPX4等級は引き継いだ。改良されたレンズは反射が70%少ないとされ、microLED導波路ディスプレイ(単色グリーン表示)は480 × 380の解像度、25°の視野角、1500 nitsの輝度を持つ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "スマートフォンでEcho Studio with Home Cameraのカメラ映像を見る様子。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Rokid Glasses 2はSnapdragon AR1+を搭載する。"
               },
               {
                 "t": "p",
-                "x": "専用ボタンでマイクとカメラをオフにでき、クラウドへストリーミングする際は内蔵LEDが点灯する。AmazonのRingカメラをめぐる過去を考えると、プライバシーを重視する一部の顧客はカメラのない製品を選ぶかもしれない。Echo Studio With Home Cameraは$250で、カメラなしモデルより$30高い。"
+                "x": "BES2800BPとSnapdragon AR1+のデュアルプロセッサーを搭載し、RAMとストレージはそれぞれ2GB 、32GB のまま据え置かれた。12MP カメラは4K 30fps で録画でき、改良されたスピーカーはDolby Audioに対応する。さらに全指向性マイク四つと骨伝導マイク一つを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Rokid Glasses 2はDolby Audioに対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Rokid Glasses 2はライブ翻訳に対応し、見ている対象を認識して情報を提示できるほか、会議やアイデアを録音して文字起こしもできる。RokidによるとGlasses 2は、Hermes、Codex、OpenClaw、AlibabaのQoder、TencentのWorkBuddy、OpenCodeといったデスクトップエージェントにも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "バッテリーは263mAh で、前世代の210mAh から大きくなった。Black はCNY 3699(~$555/€498)、Tortoiseshell はCNY 3849(~$577/€518)で、現在予約受付中、11月11日に発売される。Rokidは中国以外での発売時期を発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Echo Studio加装\nAlexa+摄像头",
-          "body": "Amazon新款Echo Studio贵$30，能让Alexa+看懂眼前的事物。",
-          "mini_headline": "Echo Studio加装摄像头",
+          "headline": "Rokid第二代眼镜\n支持AI智能体、电池更大",
+          "body": "Rokid第二代microLED眼镜电池更大、音频升级，并支持AI智能体。",
+          "mini_headline": "Rokid Glasses 2支持AI智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "放在桌上的Amazon Echo Studio with Home Camera"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "Rokid Glasses 2的设计更加舒适。"
               },
               {
                 "t": "p",
-                "x": "自2019年首次亮相以来，Amazon的Echo Studio一直面向希望Alexa智能音箱拥有更出色音质的用户。最新款Echo Studio又增加了一个不太寻常的差异点：内置摄像头。与标准版Echo Studio相比，它在音频方面的升级不多，尽管新款塞进了一颗13MP 摄像头，两款设备的尺寸却完全相同。"
+                "x": "Rokid推出了第二代搭载microLED显示屏的智能眼镜。新款眼镜设计更舒适，电池容量更大，音频得到升级，并支持AI智能体。"
               },
               {
                 "t": "p",
-                "x": "这款音箱可以借助摄像头判断你的位置并调节音量，“让你走动时音乐或有声书始终保持相同音量”。Amazon还认为，有人会把它当作智能摄像头，远程查看房间情况。Amazon在公告中表示：“Alexa还能看懂摄像头前的事物，并实时为你提供帮助。拿出一盒桌游，让Alexa+讲解规则；或者举起一盒麦片，Alexa就能认出它，并帮你再订购更多口味。”"
+                "x": "Rokid Glasses 2采用方圆形（squircle）镜框，搭配柔性镜腿，镜腿张开幅度比上一代最多宽22%。眼镜保留了上一代的IPX4防护等级。据称升级后的镜片反光减少70%，microLED光波导显示屏（单绿色显示）分辨率为480 × 380，视场角25°，亮度1500 nits。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "用手机查看Echo Studio with Home Camera的摄像头画面。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Rokid Glasses 2由Snapdragon AR1+驱动。"
               },
               {
                 "t": "p",
-                "x": "专用按钮可关闭麦克风和摄像头，向云端传输画面时内置LED会亮起。考虑到Amazon在Ring摄像头上的过往，一些注重隐私的用户可能会选择不带摄像头的替代产品。Echo Studio With Home Camera售价$250，比无摄像头版本贵$30。"
+                "x": "眼镜采用BES2800BP与Snapdragon AR1+双处理器，RAM和存储仍为2GB 和32GB 。12MP 摄像头可录制4K 30fps 视频，升级后的扬声器支持Dolby Audio，另配有四个全向麦克风和一个骨传导麦克风。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Rokid Glasses 2支持Dolby Audio。"
+              },
+              {
+                "t": "p",
+                "x": "Rokid Glasses 2支持实时翻译，能识别你所看到的事物并提供相关信息，还能录制并转写会议和想法。Rokid还表示，Glasses 2支持Hermes、Codex、OpenClaw、Alibaba的Qoder、Tencent的WorkBuddy以及OpenCode等桌面智能体。"
+              },
+              {
+                "t": "p",
+                "x": "263mAh 电池比上一代的210mAh 更大。Black 款售价CNY 3699（~$555/€498），Tortoiseshell 款售价CNY 3849（~$577/€518）；现已开放预订，将于11月11日发售。Rokid尚未公布在中国以外地区的发售时间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Echo Studio de Amazon suma\nuna cámara para Alexa+",
-          "body": "El nuevo Echo Studio with Home Camera de Amazon cuesta $30 más y permite a Alexa+ ver y entender lo que tiene delante.",
-          "mini_headline": "Echo Studio estrena cámara",
+          "headline": "Rokid Glasses 2 suma agentes AI\ny una batería más grande",
+          "body": "Las gafas microLED de segunda generación de Rokid suman más batería, mejor audio y compatibilidad con agentes AI.",
+          "mini_headline": "Rokid Glasses 2 suma agentes AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-                "cap": "Amazon Echo Studio with Home Camera sobre una mesa"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+                "cap": "Las Rokid Glasses 2 tienen un diseño más cómodo."
               },
               {
                 "t": "p",
-                "x": "Desde su debut en 2019, el Echo Studio de Amazon se dirigió a usuarios que querían una calidad de audio superior en su altavoz inteligente basado en Alexa. El último Echo Studio añade otro elemento diferenciador menos esperado: una cámara integrada. No trae muchas mejoras de audio respecto al Echo Studio estándar, y ambos dispositivos tienen las mismas dimensiones, aunque el nuevo modelo incorpora una cámara de 13MP."
+                "x": "Rokid ha lanzado la segunda generación de sus gafas inteligentes con pantalla microLED. Las nuevas gafas tienen un diseño más cómodo, una batería de mayor capacidad, audio mejorado y compatibilidad con agentes AI."
               },
               {
                 "t": "p",
-                "x": "El altavoz puede usar la cámara para ver dónde está el usuario y ajustar el volumen “para que la música o el audiolibro mantengan el mismo volumen mientras te mueves”. Amazon también prevé que algunas personas lo usen como cámara inteligente para revisar una habitación a distancia. “Alexa también puede ver y entender lo que hay frente a la cámara y ayudarte en tiempo real. Saca la caja de un juego de mesa y pide a Alexa+ que explique las reglas, o muestra una caja de cereales, y Alexa podrá reconocerla y ayudarte a pedir más sabores”, dice el anuncio de Amazon."
+                "x": "Las Rokid Glasses 2 tienen una montura squircle unida a varillas flexibles que se abren hasta un 22% más que las de la generación anterior. Las gafas mantienen la certificación IPX4 de la generación anterior. Según la información disponible, las lentes mejoradas reflejan un 70% menos, y la pantalla de guía de ondas microLED (una sola pantalla verde) tiene una resolución de 480 × 380, un campo de visión de 25° y un brillo de 1500 nits."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1.png",
-                "cap": "Imagen de la cámara del Echo Studio with Home Camera vista desde un teléfono."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+                "cap": "Las Rokid Glasses 2 funcionan con el Snapdragon AR1+."
               },
               {
                 "t": "p",
-                "x": "Un botón dedicado apaga los micrófonos y las cámaras, y un LED integrado se enciende cuando transmite a la nube. Dado el historial de Amazon con las cámaras Ring, algunos clientes preocupados por la privacidad podrían optar por alternativas sin cámara. El Echo Studio With Home Camera cuesta $250, $30 más que la versión sin cámara."
+                "x": "Las gafas tienen dos procesadores, el BES2800BP y el Snapdragon AR1+, mientras que la RAM y el almacenamiento se mantienen en 2GB y 32GB. Una cámara de 12MP graba en 4K a 30fps, y los altavoces mejorados son compatibles con Dolby Audio, junto con cuatro micrófonos omnidireccionales y un micrófono de conducción ósea."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+                "cap": "Las Rokid Glasses 2 son compatibles con Dolby Audio."
+              },
+              {
+                "t": "p",
+                "x": "Las Rokid Glasses 2 ofrecen traducción en directo, pueden identificar lo que estás mirando y dar información sobre ello, y pueden grabar y transcribir reuniones e ideas. Rokid también afirma que las Glasses 2 son compatibles con agentes de escritorio como Hermes, Codex, OpenClaw, Qoder de Alibaba, WorkBuddy de Tencent y OpenCode."
+              },
+              {
+                "t": "p",
+                "x": "La batería de 263mAh es mayor que la de 210mAh de la generación anterior. El modelo Black cuesta CNY 3699 (~$555/€498) y el Tortoiseshell CNY 3849 (~$577/€518); ya se pueden reservar y saldrán a la venta el 11 de noviembre. Rokid no ha anunciado cuándo se lanzarán fuera de China."
               }
             ]
           }
@@ -335,15 +465,15 @@
       }
     },
     {
-      "id": "gadgets-xreal-aura-launch",
+      "id": "raycast-ios-keyboard",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "XREAL Aura 출시\nAR 안경 $1,100부터",
-      "body": "Android XR 첫 AR 안경 XREAL Aura가 $1,100부터 팔린다.",
-      "mini_headline": "XREAL Aura 안경 출시",
+      "headline": "iPhone 키보드에\nRaycast AI 명령",
+      "body": "Raycast iPhone 키보드는 스와이프·받아쓰기·AI 도구를 한데 담았다.",
+      "mini_headline": "Raycast의 AI iPhone 키보드",
       "tool": "Gadgets",
-      "source": "Road to VR",
-      "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -351,233 +481,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
           },
           {
             "t": "p",
-            "x": "XREAL이 Google의 Android XR 운영체제를 얹은 첫 AR 안경 XREAL AURA를 오늘 출시한다고 밝혔다. 한정 기간 $1,100부터 판다. 첫 물량은 mid-November부터 US, 캐나다, 일본, 한국에 먼저 출하된다."
+            "x": "Raycast는 iPhone 키보드가 메시지 입력 이상의 일을 하길 바란다. iOS용 새 기본 키보드는 평소 타이핑에 AI 도구, 음성 받아쓰기, GIF 검색, 텍스트 단축어를 더했다. 무엇보다 Raycast의 생산성 기능을 쓰려고 키보드를 바꿀 필요가 없어졌다."
+          },
+          {
+            "t": "p",
+            "x": "처음엔 다른 길을 갔다. 약 일 년 전 Raycast가 내놓은 보조 키보드는 필요할 때만 전환해 쓰는 동반 도구에 가까웠다."
+          },
+          {
+            "t": "p",
+            "x": "새 기본 키보드는 iPhone 기본 키보드와 같은 경험 위에 Raycast의 도구를 얹었다. 스와이프 입력과 자동 수정을 모두 지원한다. 받아쓰기는 Mac 스타일을 그대로 가져왔고, 어느 앱에서든 접두 문자로 스니펫을 펼치거나 Quicklinks를 바로 넣을 수 있다. 자주 쓰는 AI 명령을 모아 두는 맞춤형 액션 행, 스마트 이모지 검색, GIF 검색, 다섯 가지 비주얼 테마도 갖췄다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-            "cap": "사진 제공: XREAL"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+            "cap": "iOS용 Raycast."
           },
           {
             "t": "p",
-            "x": "출시 할인은 December 2026까지 이어진다. Xreal Aura 12GB + 256GB 모델은 정가 $1,279에서 $1,099로, 16GB + 512GB 모델은 정가 $1,499에서 $1,299로 내려간다."
-          },
-          {
-            "t": "p",
-            "x": "Aura는 프리즘 방식 시스루 광학계로 95그램이 안 되는 무게에 70도 시야각을 낸다. 주머니에 들어가는 컴퓨트 유닛과 선으로 연결되는데, 이 유닛에 XR 처리와 AI 작업을 맡는 Qualcomm의 Snapdragon Reality Elite 칩셋과 Xreal의 X1S Spatial Coprocessor가 들어 있다. 6DOF와 손 추적, Play Store 앱을 지원하고 150개가 넘는 made-for-XR 경험을 기본으로 담았다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-            "cap": "사진 제공: XREAL"
-          },
-          {
-            "t": "p",
-            "x": "Xreal은 GameSir와 함께 설계한 게임패드도 공개했다. 전용 Gemini 키를 눌러 “플레이 중 AI 도움을 빠르게 받는 방법”을 쓸 수 있다. 무선 휴대용 키보드도 함께 나왔다. 컴퓨트 퍽에는 Gemini AI의 맥락 이해 기능이 들어 있다."
+            "x": "지금은 영어만 지원하지만 다른 언어도 준비 중이다. Apple은 서드파티 키보드로 받아쓰기를 하려면 잠시 자체 앱으로 넘어갔다가 원래 앱으로 돌아오도록 정해 두었다. 새 키보드는 Raycast 1.1.0 버전부터 쓸 수 있고, 이 버전에는 버그 수정 일곱 건도 담겼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "XREAL Aura brings Android XR\nto AR glasses from $1,100",
-          "body": "XREAL Aura, the first AR glasses running Google's Android XR, launches today starting at $1,100 for a limited time.",
-          "mini_headline": "XREAL Aura glasses launch",
+          "headline": "Raycast brings AI commands\nto a full iPhone keyboard",
+          "body": "Raycast's new iPhone keyboard puts swipe typing, dictation and AI writing tools in one place, no switching needed.",
+          "mini_headline": "Raycast's AI iPhone keyboard",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREAL announced that XREAL AURA, the first AR glasses running Google’s Android XR operating system, is launching today, starting at $1,100 for a limited time. The first batch is slated to start shipping in mid-November, coming first to the US, Canada, Japan, and South Korea."
+                "x": "Raycast wants your iPhone keyboard to do more than just typing out messages. Its new primary keyboard for iOS combines everyday typing with AI tools, voice dictation, GIF search, and text shortcuts. The biggest change is that you no longer need to switch keyboards to use Raycast's productivity features."
+              },
+              {
+                "t": "p",
+                "x": "Raycast tried a different approach first, launching a secondary keyboard about a year ago that worked more like a companion you switched to only when you needed its features."
+              },
+              {
+                "t": "p",
+                "x": "The new primary keyboard can now match the native iPhone keyboard experience while layering Raycast's tools on top. You get full swipe typing and autocorrect, dictation with styles pulled straight from your Mac, snippet expansion triggered by a prefix character in any app, and Quicklinks that you can insert on the fly. There is also a customizable action row for your frequently used AI commands, smart emoji search, GIF search, and five different visual themes to pick from."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "Courtesy XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "Raycast for iOS."
               },
               {
                 "t": "p",
-                "x": "Launch discount through December 2026: Xreal Aura 12GB + 256GB: $1,099, regularly $1,279; 16GB + 512GB: $1,299, regularly $1,499."
-              },
-              {
-                "t": "p",
-                "x": "Aura’s prism-style see-through optics deliver a 70-degree field-of-view in a package under 95 grams. It tethers to a pocketable compute unit with Qualcomm’s Snapdragon Reality Elite chipset for XR processing and AI workloads, and Xreal’s X1S Spatial Coprocessor. It supports 6DOF and hand tracking, Play Store apps, and ships with over 150 made-for-XR experiences."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "Courtesy XREAL"
-              },
-              {
-                "t": "p",
-                "x": "Xreal also announced a gamepad designed with GameSir featuring a dedicated Gemini key, giving players “a fast way to access AI assistance while they play,” plus a wireless portable keyboard. The compute puck offers built-in Gemini AI context understanding."
+                "x": "The keyboard currently works in English only, but support for more languages is already in progress. Apple requires third-party keyboards to briefly jump into their own app for dictation before returning to yours. You will need Raycast version 1.1.0 to get the new keyboard, which also includes seven bug fixes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "XREAL Aura 출시\nAR 안경 $1,100부터",
-          "body": "Android XR 첫 AR 안경 XREAL Aura가 $1,100부터 팔린다.",
-          "mini_headline": "XREAL Aura 안경 출시",
+          "headline": "iPhone 키보드에\nRaycast AI 명령",
+          "body": "Raycast iPhone 키보드는 스와이프·받아쓰기·AI 도구를 한데 담았다.",
+          "mini_headline": "Raycast의 AI iPhone 키보드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREAL이 Google의 Android XR 운영체제를 얹은 첫 AR 안경 XREAL AURA를 오늘 출시한다고 밝혔다. 한정 기간 $1,100부터 판다. 첫 물량은 mid-November부터 US, 캐나다, 일본, 한국에 먼저 출하된다."
+                "x": "Raycast는 iPhone 키보드가 메시지 입력 이상의 일을 하길 바란다. iOS용 새 기본 키보드는 평소 타이핑에 AI 도구, 음성 받아쓰기, GIF 검색, 텍스트 단축어를 더했다. 무엇보다 Raycast의 생산성 기능을 쓰려고 키보드를 바꿀 필요가 없어졌다."
+              },
+              {
+                "t": "p",
+                "x": "처음엔 다른 길을 갔다. 약 일 년 전 Raycast가 내놓은 보조 키보드는 필요할 때만 전환해 쓰는 동반 도구에 가까웠다."
+              },
+              {
+                "t": "p",
+                "x": "새 기본 키보드는 iPhone 기본 키보드와 같은 경험 위에 Raycast의 도구를 얹었다. 스와이프 입력과 자동 수정을 모두 지원한다. 받아쓰기는 Mac 스타일을 그대로 가져왔고, 어느 앱에서든 접두 문자로 스니펫을 펼치거나 Quicklinks를 바로 넣을 수 있다. 자주 쓰는 AI 명령을 모아 두는 맞춤형 액션 행, 스마트 이모지 검색, GIF 검색, 다섯 가지 비주얼 테마도 갖췄다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "사진 제공: XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "iOS용 Raycast."
               },
               {
                 "t": "p",
-                "x": "출시 할인은 December 2026까지 이어진다. Xreal Aura 12GB + 256GB 모델은 정가 $1,279에서 $1,099로, 16GB + 512GB 모델은 정가 $1,499에서 $1,299로 내려간다."
-              },
-              {
-                "t": "p",
-                "x": "Aura는 프리즘 방식 시스루 광학계로 95그램이 안 되는 무게에 70도 시야각을 낸다. 주머니에 들어가는 컴퓨트 유닛과 선으로 연결되는데, 이 유닛에 XR 처리와 AI 작업을 맡는 Qualcomm의 Snapdragon Reality Elite 칩셋과 Xreal의 X1S Spatial Coprocessor가 들어 있다. 6DOF와 손 추적, Play Store 앱을 지원하고 150개가 넘는 made-for-XR 경험을 기본으로 담았다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "사진 제공: XREAL"
-              },
-              {
-                "t": "p",
-                "x": "Xreal은 GameSir와 함께 설계한 게임패드도 공개했다. 전용 Gemini 키를 눌러 “플레이 중 AI 도움을 빠르게 받는 방법”을 쓸 수 있다. 무선 휴대용 키보드도 함께 나왔다. 컴퓨트 퍽에는 Gemini AI의 맥락 이해 기능이 들어 있다."
+                "x": "지금은 영어만 지원하지만 다른 언어도 준비 중이다. Apple은 서드파티 키보드로 받아쓰기를 하려면 잠시 자체 앱으로 넘어갔다가 원래 앱으로 돌아오도록 정해 두었다. 새 키보드는 Raycast 1.1.0 버전부터 쓸 수 있고, 이 버전에는 버그 수정 일곱 건도 담겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "XREAL Aura発売\nARグラス$1,100から",
-          "body": "Android XR初のARグラスXREAL Auraが本日$1,100から発売された。",
-          "mini_headline": "XREAL Auraグラス発売",
+          "headline": "RaycastのAIコマンド\niPhoneキーボードに",
+          "body": "Raycastの新iPhoneキーボードはスワイプ入力、音声入力、AIツールを一つにした。",
+          "mini_headline": "RaycastのAI iPhoneキーボード",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREALは、GoogleのAndroid XR OSを搭載した初のARグラスXREAL AURAを本日発売すると発表した。期間限定で$1,100からとなる。初回分はmid-Novemberに出荷が始まる予定で、まずUS、カナダ、日本、韓国で展開される。"
+                "x": "Raycastは、iPhoneのキーボードにメッセージを打つ以上の役割を持たせたいと考えている。iOS向けの新しいメインキーボードは、普段のタイピングにAIツール、音声入力、GIF検索、テキストショートカットを組み合わせた。最大の変化は、Raycastの生産性機能を使うためにキーボードを切り替える必要がなくなったことだ。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastは当初、別のアプローチを試していた。およそ一年前に補助キーボードを公開したが、それは機能が必要なときだけ切り替えて使う、相棒のような存在だった。"
+              },
+              {
+                "t": "p",
+                "x": "新しいメインキーボードは、iPhone純正キーボードと同等の使い心地を実現しつつ、その上にRaycastのツールを重ねる。スワイプ入力と自動修正に完全対応し、Macからそのまま取り込んだスタイルで音声入力ができ、どのアプリでも接頭文字でスニペットを展開でき、Quicklinksをその場で挿入できる。よく使うAIコマンドを並べられるカスタマイズ可能なアクション行、スマート絵文字検索、GIF検索、そして選べる五種類のビジュアルテーマも用意されている。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "提供：XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "iOS版Raycast。"
               },
               {
                 "t": "p",
-                "x": "December 2026までの発売記念割引では、Xreal Aura 12GB + 256GBが通常$1,279のところ$1,099、16GB + 512GBが通常$1,499のところ$1,299となる。"
-              },
-              {
-                "t": "p",
-                "x": "Auraのプリズム式シースルー光学系は、95グラム未満の筐体で70度の視野角を実現する。ポケットに収まるコンピュートユニットに有線で接続し、同ユニットはXR処理とAI処理を担うQualcommのSnapdragon Reality EliteチップセットとXrealのX1S Spatial Coprocessorを備える。6DOFとハンドトラッキング、Play Storeのアプリに対応し、150を超えるmade-for-XR体験を搭載して出荷される。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "提供：XREAL"
-              },
-              {
-                "t": "p",
-                "x": "XrealはGameSirと共同設計したゲームパッドも発表した。専用のGeminiキーを備え、プレイヤーに「プレイ中にAIの支援をすばやく受けられる手段」を提供する。ワイヤレスの携帯キーボードも用意した。コンピュートパックにはGemini AIによる文脈理解機能が組み込まれている。"
+                "x": "キーボードは現在英語のみに対応するが、他言語への対応もすでに進められている。Appleは、サードパーティ製キーボードが音声入力を行う際、いったん自社アプリへ移ってから元のアプリに戻ることを求めている。新しいキーボードを使うにはRaycastのバージョン1.1.0が必要で、このバージョンには七件のバグ修正も含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "XREAL Aura发布\nAR眼镜$1,100起",
-          "body": "首款搭载Android XR的AR眼镜XREAL Aura今日发售，限时$1,100起。",
-          "mini_headline": "XREAL Aura眼镜发售",
+          "headline": "Raycast把AI命令\n带进完整iPhone键盘",
+          "body": "Raycast新款iPhone键盘集滑动输入、听写和AI写作工具于一身，无需切换。",
+          "mini_headline": "Raycast推出AI iPhone键盘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREAL宣布，首款搭载Google Android XR操作系统的AR眼镜XREAL AURA今日发售，限时起售价为$1,100。首批产品预计于mid-November开始发货，率先登陆US、加拿大、日本和韩国。"
+                "x": "Raycast希望你的iPhone键盘不只是用来打字发消息。其全新的iOS主键盘将日常输入与AI工具、语音听写、GIF搜索和文本快捷方式结合在一起。最大的变化是，使用Raycast的效率功能时不再需要切换键盘。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast起初尝试了另一种做法：大约一年前推出了一款辅助键盘，它更像一个伴侣工具，只在需要其功能时才切换过去。"
+              },
+              {
+                "t": "p",
+                "x": "新的主键盘如今能够媲美iPhone原生键盘的体验，同时在其之上叠加Raycast的工具。你可以使用完整的滑动输入和自动纠错，使用直接从Mac同步的风格进行听写，在任何应用中通过前缀字符触发片段扩展，还能随时插入Quicklinks。此外还有可自定义的常用AI命令操作栏、智能表情搜索、GIF搜索，以及五种不同的视觉主题可供选择。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "图片来源：XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "iOS版Raycast。"
               },
               {
                 "t": "p",
-                "x": "首发优惠持续至December 2026：Xreal Aura 12GB + 256GB售价$1,099，原价$1,279；16GB + 512GB售价$1,299，原价$1,499。"
-              },
-              {
-                "t": "p",
-                "x": "Aura采用棱镜式透视光学方案，在不到95克的机身中实现70度视场角。它通过线缆连接一台可放入口袋的计算单元，该单元配备负责XR处理和AI任务的Qualcomm Snapdragon Reality Elite芯片组，以及Xreal的X1S Spatial Coprocessor。设备支持6DOF与手势追踪、Play Store应用，出厂即附带超过150个made-for-XR体验。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "图片来源：XREAL"
-              },
-              {
-                "t": "p",
-                "x": "Xreal还发布了与GameSir合作设计的游戏手柄，配有专用Gemini按键，为玩家提供“在游戏中快速获取AI协助的方式”，另有一款无线便携键盘。计算模块内置Gemini AI情境理解功能。"
+                "x": "该键盘目前仅支持英语，但更多语言的支持已在开发中。Apple要求第三方键盘在听写时短暂跳转到自己的应用，然后再返回原应用。你需要Raycast 1.1.0版本才能使用新键盘，该版本还包含七项错误修复。"
               }
             ]
           }
         },
         "es": {
-          "headline": "XREAL Aura lleva Android XR\na gafas AR desde $1,100",
-          "body": "XREAL Aura, las primeras gafas AR con Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado.",
-          "mini_headline": "Llegan las gafas XREAL Aura",
+          "headline": "Raycast lleva comandos de AI\na un teclado completo de iPhone",
+          "body": "El nuevo teclado de Raycast para iPhone reúne deslizamiento, dictado y herramientas de AI sin cambiar de teclado.",
+          "mini_headline": "El teclado de iPhone con AI de Raycast",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREAL anunció que XREAL AURA, las primeras gafas AR con el sistema operativo Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado. Está previsto que el primer lote empiece a enviarse a mid-November, primero en US, Canadá, Japón y Corea del Sur."
+                "x": "Raycast quiere que el teclado de tu iPhone haga algo más que escribir mensajes. Su nuevo teclado principal para iOS combina la escritura diaria con herramientas de AI, dictado por voz, búsqueda de GIF y atajos de texto. El mayor cambio es que ya no hace falta cambiar de teclado para usar las funciones de productividad de Raycast."
+              },
+              {
+                "t": "p",
+                "x": "Raycast probó primero otro enfoque: hace aproximadamente un año lanzó un teclado secundario que funcionaba más bien como un complemento al que solo se cambiaba cuando se necesitaban sus funciones."
+              },
+              {
+                "t": "p",
+                "x": "El nuevo teclado principal ya puede igualar la experiencia del teclado nativo del iPhone mientras añade encima las herramientas de Raycast. Ofrece escritura completa por deslizamiento y autocorrección, dictado con estilos tomados directamente de tu Mac, expansión de fragmentos activada por un carácter de prefijo en cualquier app y Quicklinks que se pueden insertar al momento. También incluye una fila de acciones personalizable para tus comandos de AI más usados, búsqueda inteligente de emojis, búsqueda de GIF y cinco temas visuales distintos para elegir."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "Cortesía de XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "Raycast para iOS."
               },
               {
                 "t": "p",
-                "x": "Descuento de lanzamiento hasta December 2026: Xreal Aura 12GB + 256GB: $1,099, precio habitual $1,279; 16GB + 512GB: $1,299, precio habitual $1,499."
-              },
-              {
-                "t": "p",
-                "x": "La óptica transparente de tipo prisma de Aura ofrece un campo de visión de 70 grados en un conjunto de menos de 95 gramos. Se conecta por cable a una unidad de cómputo de bolsillo con el chipset Snapdragon Reality Elite de Qualcomm para el procesamiento XR y las cargas de trabajo de AI, y con el X1S Spatial Coprocessor de Xreal. Admite 6DOF y seguimiento de manos, apps de Play Store, y llega con más de 150 experiencias made-for-XR."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "Cortesía de XREAL"
-              },
-              {
-                "t": "p",
-                "x": "Xreal también presentó un mando diseñado con GameSir que incluye una tecla Gemini dedicada y ofrece a los jugadores “una forma rápida de acceder a la asistencia de AI mientras juegan”, además de un teclado portátil inalámbrico. La unidad de cómputo integra la comprensión de contexto de Gemini AI."
+                "x": "Por ahora el teclado solo funciona en inglés, pero ya se trabaja en la compatibilidad con más idiomas. Apple exige que los teclados de terceros salten brevemente a su propia app para el dictado antes de volver a la tuya. Para obtener el nuevo teclado se necesita la versión 1.1.0 de Raycast, que también incluye siete correcciones de errores."
               }
             ]
           }
@@ -585,161 +685,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "XREAL Aura 출시\nAR 안경 $1,100부터",
-          "body": "Android XR 첫 AR 안경 XREAL Aura가 $1,100부터 나온다.",
-          "mini_headline": "XREAL Aura 안경 출시",
+          "headline": "iPhone 키보드에\nRaycast AI 명령",
+          "body": "Raycast iPhone 키보드는 스와이프·받아쓰기·AI 도구를 한데 담았다.",
+          "mini_headline": "Raycast의 AI iPhone 키보드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREAL은 Google의 Android XR 운영체제를 탑재한 첫 AR 안경 XREAL AURA를 오늘 출시한다고 발표했다. 한정 기간 동안 $1,100부터 판매한다. 첫 물량은 mid-November부터 출하를 시작하며 US, 캐나다, 일본, 한국에 먼저 공급된다."
+                "x": "Raycast는 iPhone 키보드가 메시지 입력 이상의 일을 하길 바란다. iOS용 새 기본 키보드는 일상적인 타이핑에 AI 도구, 음성 받아쓰기, GIF 검색, 텍스트 단축어를 결합했다. 가장 큰 변화는 Raycast의 생산성 기능을 쓰려고 더 이상 키보드를 바꿀 필요가 없다는 점이다."
+              },
+              {
+                "t": "p",
+                "x": "Raycast는 처음엔 다른 방식을 택했다. 약 일 년 전 보조 키보드를 내놨는데, 기능이 필요할 때만 전환해 쓰는 동반 도구에 가까웠다."
+              },
+              {
+                "t": "p",
+                "x": "새 기본 키보드는 이제 iPhone 기본 키보드와 같은 경험을 제공하면서 그 위에 Raycast의 도구를 얹는다. 스와이프 입력과 자동 수정을 모두 지원하고, Mac에서 그대로 가져온 스타일로 받아쓰기를 할 수 있으며, 어느 앱에서든 접두 문자로 스니펫을 펼칠 수 있고, Quicklinks를 즉석에서 넣을 수 있다. 자주 쓰는 AI 명령을 담는 맞춤형 액션 행, 스마트 이모지 검색, GIF 검색, 고를 수 있는 다섯 가지 비주얼 테마도 있다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "사진 제공: XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "iOS용 Raycast."
               },
               {
                 "t": "p",
-                "x": "December 2026까지 출시 할인이 적용된다. Xreal Aura 12GB + 256GB 모델은 정가 $1,279에서 $1,099로, 16GB + 512GB 모델은 정가 $1,499에서 $1,299로 판매된다."
-              },
-              {
-                "t": "p",
-                "x": "Aura의 프리즘 방식 시스루 광학계는 95그램이 안 되는 무게에 70도 시야각을 구현한다. 주머니에 넣을 수 있는 컴퓨트 유닛과 유선으로 연결되며, 이 유닛에는 XR 처리와 AI 작업을 맡는 Qualcomm의 Snapdragon Reality Elite 칩셋과 Xreal의 X1S Spatial Coprocessor가 들어간다. 6DOF와 손 추적, Play Store 앱을 지원하고 150개가 넘는 made-for-XR 경험을 기본으로 제공한다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "사진 제공: XREAL"
-              },
-              {
-                "t": "p",
-                "x": "Xreal은 GameSir와 함께 설계한 게임패드도 공개했다. 전용 Gemini 키를 달아 플레이어에게 “플레이 중 AI 도움을 빠르게 받는 방법”을 제공하며, 무선 휴대용 키보드도 함께 내놓았다. 컴퓨트 퍽에는 Gemini AI의 맥락 이해 기능이 내장돼 있다."
+                "x": "키보드는 현재 영어만 지원하지만, 더 많은 언어 지원을 이미 준비하고 있다. Apple은 서드파티 키보드가 받아쓰기를 하려면 잠시 자체 앱으로 넘어갔다가 원래 앱으로 돌아오도록 요구한다. 새 키보드를 쓰려면 Raycast 1.1.0 버전이 필요하며, 이 버전에는 일곱 건의 버그 수정도 담겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "XREAL Aura発売\nARグラス$1,100から",
-          "body": "Android XR初のARグラスXREAL Auraが本日$1,100から発売された。",
-          "mini_headline": "XREAL Auraグラス発売",
+          "headline": "RaycastのAIコマンド\niPhoneキーボードに",
+          "body": "Raycastの新iPhoneキーボードはスワイプ入力、音声入力、AIツールを一つにした。",
+          "mini_headline": "RaycastのAI iPhoneキーボード",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREALは、GoogleのAndroid XR OSを搭載した初のARグラスXREAL AURAを本日発売すると発表した。期間限定で$1,100からとなる。初回分はmid-Novemberに出荷が始まる予定で、まずUS、カナダ、日本、韓国で展開される。"
+                "x": "Raycastは、iPhoneのキーボードにメッセージを打つ以上の役割を持たせたいと考えている。iOS向けの新しいメインキーボードは、普段のタイピングにAIツール、音声入力、GIF検索、テキストショートカットを組み合わせた。最大の変化は、Raycastの生産性機能を使うためにキーボードを切り替える必要がなくなったことだ。"
+              },
+              {
+                "t": "p",
+                "x": "Raycastは当初、別のアプローチを試していた。およそ一年前に補助キーボードを公開したが、それは機能が必要なときだけ切り替えて使う、相棒のような存在だった。"
+              },
+              {
+                "t": "p",
+                "x": "新しいメインキーボードは、iPhone純正キーボードと同等の使い心地を実現しつつ、その上にRaycastのツールを重ねる。スワイプ入力と自動修正に完全対応し、Macからそのまま取り込んだスタイルで音声入力ができ、どのアプリでも接頭文字でスニペットを展開でき、Quicklinksをその場で挿入できる。よく使うAIコマンドを並べられるカスタマイズ可能なアクション行、スマート絵文字検索、GIF検索、そして選べる五種類のビジュアルテーマも用意されている。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "提供：XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "iOS版Raycast。"
               },
               {
                 "t": "p",
-                "x": "December 2026までの発売記念割引では、Xreal Aura 12GB + 256GBが通常$1,279のところ$1,099、16GB + 512GBが通常$1,499のところ$1,299となる。"
-              },
-              {
-                "t": "p",
-                "x": "Auraのプリズム式シースルー光学系は、95グラム未満の筐体で70度の視野角を実現する。ポケットに収まるコンピュートユニットに有線で接続し、同ユニットはXR処理とAI処理を担うQualcommのSnapdragon Reality EliteチップセットとXrealのX1S Spatial Coprocessorを備える。6DOFとハンドトラッキング、Play Storeのアプリに対応し、150を超えるmade-for-XR体験を搭載して出荷される。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "提供：XREAL"
-              },
-              {
-                "t": "p",
-                "x": "XrealはGameSirと共同設計したゲームパッドも発表した。専用のGeminiキーを備え、プレイヤーに「プレイ中にAIの支援をすばやく受けられる手段」を提供する。ワイヤレスの携帯キーボードも用意した。コンピュートパックにはGemini AIによる文脈理解機能が組み込まれている。"
+                "x": "キーボードは現在英語のみに対応するが、他言語への対応もすでに進められている。Appleは、サードパーティ製キーボードが音声入力を行う際、いったん自社アプリへ移ってから元のアプリに戻ることを求めている。新しいキーボードを使うにはRaycastのバージョン1.1.0が必要で、このバージョンには七件のバグ修正も含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "XREAL Aura发布\nAR眼镜$1,100起",
-          "body": "首款搭载Android XR的AR眼镜XREAL Aura今日发售，限时$1,100起。",
-          "mini_headline": "XREAL Aura眼镜发售",
+          "headline": "Raycast把AI命令\n带进完整iPhone键盘",
+          "body": "Raycast新款iPhone键盘集滑动输入、听写和AI写作工具于一身，无需切换。",
+          "mini_headline": "Raycast推出AI iPhone键盘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREAL宣布，首款搭载Google Android XR操作系统的AR眼镜XREAL AURA今日发售，限时起售价为$1,100。首批产品预计于mid-November开始发货，率先登陆US、加拿大、日本和韩国。"
+                "x": "Raycast希望你的iPhone键盘不只是用来打字发消息。其全新的iOS主键盘将日常输入与AI工具、语音听写、GIF搜索和文本快捷方式结合在一起。最大的变化是，使用Raycast的效率功能时不再需要切换键盘。"
+              },
+              {
+                "t": "p",
+                "x": "Raycast起初尝试了另一种做法：大约一年前推出了一款辅助键盘，它更像一个伴侣工具，只在需要其功能时才切换过去。"
+              },
+              {
+                "t": "p",
+                "x": "新的主键盘如今能够媲美iPhone原生键盘的体验，同时在其之上叠加Raycast的工具。你可以使用完整的滑动输入和自动纠错，使用直接从Mac同步的风格进行听写，在任何应用中通过前缀字符触发片段扩展，还能随时插入Quicklinks。此外还有可自定义的常用AI命令操作栏、智能表情搜索、GIF搜索，以及五种不同的视觉主题可供选择。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "图片来源：XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "iOS版Raycast。"
               },
               {
                 "t": "p",
-                "x": "首发优惠持续至December 2026：Xreal Aura 12GB + 256GB售价$1,099，原价$1,279；16GB + 512GB售价$1,299，原价$1,499。"
-              },
-              {
-                "t": "p",
-                "x": "Aura采用棱镜式透视光学方案，在不到95克的机身中实现70度视场角。它通过线缆连接一台可放入口袋的计算单元，该单元配备负责XR处理和AI任务的Qualcomm Snapdragon Reality Elite芯片组，以及Xreal的X1S Spatial Coprocessor。设备支持6DOF与手势追踪、Play Store应用，出厂即附带超过150个made-for-XR体验。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "图片来源：XREAL"
-              },
-              {
-                "t": "p",
-                "x": "Xreal还发布了与GameSir合作设计的游戏手柄，配有专用Gemini按键，为玩家提供“在游戏中快速获取AI协助的方式”，另有一款无线便携键盘。计算模块内置Gemini AI情境理解功能。"
+                "x": "该键盘目前仅支持英语，但更多语言的支持已在开发中。Apple要求第三方键盘在听写时短暂跳转到自己的应用，然后再返回原应用。你需要Raycast 1.1.0版本才能使用新键盘，该版本还包含七项错误修复。"
               }
             ]
           }
         },
         "es": {
-          "headline": "XREAL Aura lleva Android XR\na gafas AR desde $1,100",
-          "body": "XREAL Aura, las primeras gafas AR con Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado.",
-          "mini_headline": "Llegan las gafas XREAL Aura",
+          "headline": "Raycast lleva comandos de AI\na un teclado completo de iPhone",
+          "body": "El nuevo teclado de Raycast para iPhone reúne deslizamiento, dictado y herramientas de AI sin cambiar de teclado.",
+          "mini_headline": "El teclado de iPhone con AI de Raycast",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "XREAL anunció que XREAL AURA, las primeras gafas AR con el sistema operativo Android XR de Google, sale hoy a la venta desde $1,100 por tiempo limitado. Está previsto que el primer lote empiece a enviarse a mid-November, primero en US, Canadá, Japón y Corea del Sur."
+                "x": "Raycast quiere que el teclado de tu iPhone haga algo más que escribir mensajes. Su nuevo teclado principal para iOS combina la escritura diaria con herramientas de AI, dictado por voz, búsqueda de GIF y atajos de texto. El mayor cambio es que ya no hace falta cambiar de teclado para usar las funciones de productividad de Raycast."
+              },
+              {
+                "t": "p",
+                "x": "Raycast probó primero otro enfoque: hace aproximadamente un año lanzó un teclado secundario que funcionaba más bien como un complemento al que solo se cambiaba cuando se necesitaban sus funciones."
+              },
+              {
+                "t": "p",
+                "x": "El nuevo teclado principal ya puede igualar la experiencia del teclado nativo del iPhone mientras añade encima las herramientas de Raycast. Ofrece escritura completa por deslizamiento y autocorrección, dictado con estilos tomados directamente de tu Mac, expansión de fragmentos activada por un carácter de prefijo en cualquier app y Quicklinks que se pueden insertar al momento. También incluye una fila de acciones personalizable para tus comandos de AI más usados, búsqueda inteligente de emojis, búsqueda de GIF y cinco temas visuales distintos para elegir."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
-                "cap": "Cortesía de XREAL"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/04/raycast-iphone.jpeg?resize=1920%2C1152&ssl=1",
+                "cap": "Raycast para iOS."
               },
               {
                 "t": "p",
-                "x": "Descuento de lanzamiento hasta December 2026: Xreal Aura 12GB + 256GB: $1,099, precio habitual $1,279; 16GB + 512GB: $1,299, precio habitual $1,499."
-              },
-              {
-                "t": "p",
-                "x": "La óptica transparente de tipo prisma de Aura ofrece un campo de visión de 70 grados en un conjunto de menos de 95 gramos. Se conecta por cable a una unidad de cómputo de bolsillo con el chipset Snapdragon Reality Elite de Qualcomm para el procesamiento XR y las cargas de trabajo de AI, y con el X1S Spatial Coprocessor de Xreal. Admite 6DOF y seguimiento de manos, apps de Play Store, y llega con más de 150 experiencias made-for-XR."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
-                "cap": "Cortesía de XREAL"
-              },
-              {
-                "t": "p",
-                "x": "Xreal también presentó un mando diseñado con GameSir que incluye una tecla Gemini dedicada y ofrece a los jugadores “una forma rápida de acceder a la asistencia de AI mientras juegan”, además de un teclado portátil inalámbrico. La unidad de cómputo integra la comprensión de contexto de Gemini AI."
+                "x": "Por ahora el teclado solo funciona en inglés, pero ya se trabaja en la compatibilidad con más idiomas. Apple exige que los teclados de terceros salten brevemente a su propia app para el dictado antes de volver a la tuya. Para obtener el nuevo teclado se necesita la versión 1.1.0 de Raycast, que también incluye siete correcciones de errores."
               }
             ]
           }
@@ -747,539 +827,15 @@
       }
     },
     {
-      "id": "gadgets-copilot-tv-exit",
+      "id": "android-xr-cli-devtools",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Copilot, 스마트\nTVs에서 빠진다",
-      "body": "Microsoft가 LG·Samsung TVs에서 Copilot 지원을 접는다.",
-      "mini_headline": "Copilot, 스마트 TVs서 빠진다",
+      "headline": "Android XR 앱\n하드웨어 없이 테스트",
+      "body": "안경 없이 앱을 시험하고 AI 에이전트는 Android CLI로 성능을 점검한다.",
+      "mini_headline": "안경 없이 만드는 Android XR 앱",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-            "cap": "이미지: Microsoft"
-          },
-          {
-            "t": "p",
-            "x": "LG와 Samsung은 CES 2025에서 최신 스마트 TVs에 Microsoft Copilot 접근 기능을 넣겠다고 발표했다. 그로부터 두 해 가까이 지나 Microsoft가 올해 모든 TVs에서 이 AI 어시스턴트 기능 지원을 끝낸다고 Windows Central이 보도했다."
-          },
-          {
-            "t": "p",
-            "x": "소식은 LG TV 화면에 뜬 알림으로 알려졌다. “Microsoft는 최근 당사 LG TVs에서 제공되는 Copilot-enabled 기능을 포함해 모든 TVs에서 Copilot 기능 지원을 종료하기로 결정했습니다.” 알림은 기능이 “2026년 중 중단될 예정”이며 구체적인 날짜는 “Microsoft의 일정에 따른다”고 적었다."
-          },
-          {
-            "t": "p",
-            "x": "LG는 지난 12월 webOS 업데이트로 지울 수 없는 Copilot 바로가기를 넣었다가 반발을 샀고, 결국 삭제할 수 있게 바꿨다. TVs의 Copilot은 친근한 AI 동반자를 내세웠다. 반면 Microsoft는 올해 초 Copilot “super app”을 내놓으며 Copilot을 디지털 동반자보다 비즈니스·생산성 도구 쪽으로 옮기려 했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Microsoft pulls Copilot\nfrom smart TVs",
-          "body": "Microsoft is ending Copilot support on LG and Samsung smart TVs, nearly two years after the TV makers announced it.",
-          "mini_headline": "Copilot leaves smart TVs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "Image: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft’s Copilot, the company is ending support for the AI assistant’s functionality on all TVs this year, according to a report by Windows Central."
-              },
-              {
-                "t": "p",
-                "x": "The news comes from an on-screen notification on an LG TV: “Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs.” It says the feature is “scheduled for discontinuation during 2026” and a specific date is “subject to Microsoft’s timeline.”"
-              },
-              {
-                "t": "p",
-                "x": "Last December, LG faced backlash after a webOS update added an unremovable Copilot shortcut; it later allowed the shortcut to be deleted. Copilot served as a friendly AI companion on the TVs, but earlier this year Microsoft introduced a Copilot “super app” as part of a push towards positioning Copilot more as a business and productivity tool, and less as a digital companion."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Copilot, 스마트\nTVs에서 빠진다",
-          "body": "Microsoft가 LG·Samsung TVs에서 Copilot 지원을 접는다.",
-          "mini_headline": "Copilot, 스마트 TVs서 빠진다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "이미지: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "LG와 Samsung은 CES 2025에서 최신 스마트 TVs에 Microsoft Copilot 접근 기능을 넣겠다고 발표했다. 그로부터 두 해 가까이 지나 Microsoft가 올해 모든 TVs에서 이 AI 어시스턴트 기능 지원을 끝낸다고 Windows Central이 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "소식은 LG TV 화면에 뜬 알림으로 알려졌다. “Microsoft는 최근 당사 LG TVs에서 제공되는 Copilot-enabled 기능을 포함해 모든 TVs에서 Copilot 기능 지원을 종료하기로 결정했습니다.” 알림은 기능이 “2026년 중 중단될 예정”이며 구체적인 날짜는 “Microsoft의 일정에 따른다”고 적었다."
-              },
-              {
-                "t": "p",
-                "x": "LG는 지난 12월 webOS 업데이트로 지울 수 없는 Copilot 바로가기를 넣었다가 반발을 샀고, 결국 삭제할 수 있게 바꿨다. TVs의 Copilot은 친근한 AI 동반자를 내세웠다. 반면 Microsoft는 올해 초 Copilot “super app”을 내놓으며 Copilot을 디지털 동반자보다 비즈니스·생산성 도구 쪽으로 옮기려 했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Microsoft、\nTVsからCopilot撤退",
-          "body": "MicrosoftはLGとSamsungのスマートTVsでCopilot対応を終える。",
-          "mini_headline": "Copilot、スマートTVsから撤退",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "画像：Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "LGとSamsungがCES 2025で最新スマートTVsにMicrosoftのCopilotへのアクセスを搭載すると発表してからほぼ二年、Microsoftは今年中にすべてのTVsでこのAIアシスタント機能のサポートを終了する。Windows Centralが報じた。"
-              },
-              {
-                "t": "p",
-                "x": "この情報はLG TVの画面に表示された通知によるものだ。「Microsoftは最近、当社のLG TVsで利用できるCopilot-enabled機能を含め、すべてのTVsでCopilot機能のサポートを終了することを決定しました」。通知によれば、この機能は「2026年中に提供終了の予定」で、具体的な日付は「Microsoftのスケジュールによる」という。"
-              },
-              {
-                "t": "p",
-                "x": "LGは昨年12月、webOSのアップデートで削除できないCopilotのショートカットを追加して反発を受け、その後ショートカットを削除できるようにした。TVs上のCopilotは親しみやすいAIコンパニオンの役割を担っていたが、Microsoftは今年初め、Copilotをデジタルコンパニオンよりもビジネスと生産性のツールとして位置づける取り組みの一環として、Copilotの「super app」を投入した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Microsoft撤回\n智能TVs上的Copilot",
-          "body": "近两年后，Microsoft将终止LG与Samsung智能TVs的Copilot支持。",
-          "mini_headline": "Copilot退出智能TVs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "图片：Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "据Windows Central报道，在LG和Samsung于CES 2025宣布其最新智能TVs将接入Microsoft的Copilot近两年后，Microsoft将于今年在所有TVs上终止这款AI助手的功能支持。"
-              },
-              {
-                "t": "p",
-                "x": "消息来自LG TV上的一则屏幕通知：“Microsoft近期决定终止所有TVs上的Copilot功能支持，包括我们LG TVs上提供的Copilot-enabled功能。”通知称该功能“计划于2026年内停止提供”，具体日期“以Microsoft的时间表为准”。"
-              },
-              {
-                "t": "p",
-                "x": "去年12月，LG因一次webOS更新加入了无法删除的Copilot快捷方式而遭到抵制，之后才允许用户删除。Copilot在TVs上扮演的是友好的AI伙伴角色，但Microsoft今年早些时候推出了Copilot“super app”，意在把Copilot更多定位为商业和生产力工具，而非数字伙伴。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Microsoft retira Copilot\nde los smart TVs",
-          "body": "Microsoft pone fin al soporte de Copilot en los smart TVs de LG y Samsung, casi dos años después de que lo anunciaran.",
-          "mini_headline": "Copilot deja los smart TVs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "Imagen: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "Casi dos años después de que LG y Samsung anunciaran en CES 2025 que sus nuevos smart TVs incluirían acceso a Copilot de Microsoft, la compañía pondrá fin este año al soporte de las funciones del asistente de AI en todos los TVs, según un informe de Windows Central."
-              },
-              {
-                "t": "p",
-                "x": "La noticia procede de una notificación en pantalla de un LG TV: “Microsoft ha decidido recientemente poner fin al soporte de la funcionalidad de Copilot en todos los TVs, incluida la función Copilot-enabled disponible en nuestros LG TVs”. Indica que la función está “prevista para dejar de ofrecerse durante 2026” y que la fecha concreta está “sujeta al calendario de Microsoft”."
-              },
-              {
-                "t": "p",
-                "x": "El pasado diciembre, LG recibió críticas después de que una actualización de webOS añadiera un acceso directo a Copilot que no se podía eliminar; más tarde permitió borrarlo. Copilot funcionaba como un amable compañero de AI en los TVs, pero a principios de este año Microsoft presentó una “super app” de Copilot como parte de un esfuerzo por posicionarlo más como una herramienta empresarial y de productividad, y menos como un compañero digital."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Copilot, 스마트\nTVs에서 철수한다",
-          "body": "Microsoft가 LG·Samsung TVs의 Copilot 지원을 끝낸다.",
-          "mini_headline": "Copilot, 스마트 TVs 떠난다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "이미지: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "LG와 Samsung이 CES 2025에서 최신 스마트 TVs에 Microsoft Copilot 접근 기능을 넣겠다고 발표한 지 두 해 가까이 지난 지금, Microsoft가 올해 모든 TVs에서 이 AI 어시스턴트 기능 지원을 끝낸다고 Windows Central이 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "이 소식은 LG TV 화면에 뜬 알림에서 나왔다. “Microsoft는 최근 당사 LG TVs에서 제공되는 Copilot-enabled 기능을 포함해 모든 TVs에서 Copilot 기능 지원을 종료하기로 결정했습니다.” 알림은 이 기능이 “2026년 중 중단될 예정”이며 구체적인 날짜는 “Microsoft의 일정에 따른다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "지난 12월 LG는 webOS 업데이트로 삭제할 수 없는 Copilot 바로가기를 추가했다가 반발을 샀고, 이후 바로가기를 지울 수 있게 했다. TVs에서 Copilot은 친근한 AI 동반자 역할을 했지만, Microsoft는 올해 초 Copilot을 디지털 동반자보다는 비즈니스·생산성 도구로 자리매김하려는 움직임의 일환으로 Copilot “super app”을 선보였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Microsoft、\nTVsからCopilot撤退",
-          "body": "MicrosoftはLGとSamsungのスマートTVsでCopilot対応を終える。",
-          "mini_headline": "Copilot、スマートTVsから撤退",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "画像：Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "LGとSamsungがCES 2025で最新スマートTVsにMicrosoftのCopilotへのアクセスを搭載すると発表してからほぼ二年、Microsoftは今年中にすべてのTVsでこのAIアシスタント機能のサポートを終了する。Windows Centralが報じた。"
-              },
-              {
-                "t": "p",
-                "x": "この情報はLG TVの画面に表示された通知によるものだ。「Microsoftは最近、当社のLG TVsで利用できるCopilot-enabled機能を含め、すべてのTVsでCopilot機能のサポートを終了することを決定しました」。通知によれば、この機能は「2026年中に提供終了の予定」で、具体的な日付は「Microsoftのスケジュールによる」という。"
-              },
-              {
-                "t": "p",
-                "x": "LGは昨年12月、webOSのアップデートで削除できないCopilotのショートカットを追加して反発を受け、その後ショートカットを削除できるようにした。TVs上のCopilotは親しみやすいAIコンパニオンの役割を担っていたが、Microsoftは今年初め、Copilotをデジタルコンパニオンよりもビジネスと生産性のツールとして位置づける取り組みの一環として、Copilotの「super app」を投入した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Microsoft撤回\n智能TVs上的Copilot",
-          "body": "近两年后，Microsoft将终止LG与Samsung智能TVs的Copilot支持。",
-          "mini_headline": "Copilot退出智能TVs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "图片：Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "据Windows Central报道，在LG和Samsung于CES 2025宣布其最新智能TVs将接入Microsoft的Copilot近两年后，Microsoft将于今年在所有TVs上终止这款AI助手的功能支持。"
-              },
-              {
-                "t": "p",
-                "x": "消息来自LG TV上的一则屏幕通知：“Microsoft近期决定终止所有TVs上的Copilot功能支持，包括我们LG TVs上提供的Copilot-enabled功能。”通知称该功能“计划于2026年内停止提供”，具体日期“以Microsoft的时间表为准”。"
-              },
-              {
-                "t": "p",
-                "x": "去年12月，LG因一次webOS更新加入了无法删除的Copilot快捷方式而遭到抵制，之后才允许用户删除。Copilot在TVs上扮演的是友好的AI伙伴角色，但Microsoft今年早些时候推出了Copilot“super app”，意在把Copilot更多定位为商业和生产力工具，而非数字伙伴。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Microsoft retira Copilot\nde los smart TVs",
-          "body": "Microsoft pone fin al soporte de Copilot en los smart TVs de LG y Samsung, casi dos años después de que lo anunciaran.",
-          "mini_headline": "Copilot deja los smart TVs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
-                "cap": "Imagen: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "Casi dos años después de que LG y Samsung anunciaran en CES 2025 que sus nuevos smart TVs incluirían acceso a Copilot de Microsoft, la compañía pondrá fin este año al soporte de las funciones del asistente de AI en todos los TVs, según un informe de Windows Central."
-              },
-              {
-                "t": "p",
-                "x": "La noticia procede de una notificación en pantalla de un LG TV: “Microsoft ha decidido recientemente poner fin al soporte de la funcionalidad de Copilot en todos los TVs, incluida la función Copilot-enabled disponible en nuestros LG TVs”. Indica que la función está “prevista para dejar de ofrecerse durante 2026” y que la fecha concreta está “sujeta al calendario de Microsoft”."
-              },
-              {
-                "t": "p",
-                "x": "El pasado diciembre, LG recibió críticas después de que una actualización de webOS añadiera un acceso directo a Copilot que no se podía eliminar; más tarde permitió borrarlo. Copilot funcionaba como un amable compañero de AI en los TVs, pero a principios de este año Microsoft presentó una “super app” de Copilot como parte de un esfuerzo por posicionarlo más como una herramienta empresarial y de productividad, y menos como un compañero digital."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-openai-dot-text",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "OpenAI Dot에\n이제 문자를 보낸다",
-      "body": "US Pro 사용자는 iMessage·RCS로 OpenAI Dot에 문자한다.",
-      "mini_headline": "OpenAI Dot에 문자하기",
-      "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-            "cap": "OpenAI"
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 지난달 말 Dot 에이전트를 처음 내놓으며 언젠가 문자로도 지시할 수 있게 하겠다고 약속했다. 한 달 가까이 지나 회사는 US Pro 사용자에게 이 기능을 담은 프리뷰를 배포하기 시작했다. OpenAI에 따르면 이제 Dot에 문자는 물론 사진과 음성 메모도 보낼 수 있다. Dot 쪽에서도 맡은 작업의 진행 상황을 먼저 알려 줄 통로가 하나 더 생겼다."
-          },
-          {
-            "t": "p",
-            "x": "Dot 문자 기능은 ChatGPT에서 프로필을 열고 Texting을 고르면 켜진다. 휴대폰은 iPhone이라면 iMessage를, 주로 Android 기기를 쓴다면 RCS를 켜 둬야 한다. OpenAI는 Linq와 손잡고 메시징을 지원하며, 안전을 위해 “광범위한” 침투 테스트를 거쳤다고 밝혔다. 회사는 X에 “당신의 dot에 문자를 보낼 수 있는 사람은 당신뿐이고, dot도 당신에게만 문자를 보낼 수 있다”고 덧붙였다. Dot이 메모리에 기록한 정보는 ChatGPT와 문자가 함께 쓰기 때문에 대화가 바뀌어도 맥락이 이어진다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "You can now text\nOpenAI's Dot agent",
-          "body": "OpenAI's proactive Dot agent can now be texted over iMessage and RCS, starting with a preview for US Pro users.",
-          "mini_headline": "Text OpenAI's Dot agent",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "When OpenAI debuted its Dot agents late last month, it promised users would eventually be able to text them to give them instructions. Now, nearly a month later, the company has begun rolling out a preview among US Pro users that allows you to do just that. With the new feature, OpenAI says you can send your Dot texts, photos and even voice memos. It also gives your Dot another avenue to proactively contact you with updates about tasks you've assigned to it."
-              },
-              {
-                "t": "p",
-                "x": "To set up your Dot for texting, open its profile in ChatGPT and select Texting. Over on your phone, ensure iMessage is enabled if you're on an iPhone, and RCS if your daily driver is an Android device. OpenAI says it partnered with Linq to provide messaging support, and did \"extensive\" penetration testing to ensure the feature is safe. \"You're the only one who can text your dot, and your dot can only text you,\" the company adds on X. Any information your Dot writes to its memory is shared across ChatGPT and text, meaning context carries over between different conversations."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OpenAI Dot에\n이제 문자를 보낸다",
-          "body": "US Pro 사용자는 iMessage·RCS로 OpenAI Dot에 문자한다.",
-          "mini_headline": "OpenAI Dot에 문자하기",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 지난달 말 Dot 에이전트를 처음 내놓으며 언젠가 문자로도 지시할 수 있게 하겠다고 약속했다. 한 달 가까이 지나 회사는 US Pro 사용자에게 이 기능을 담은 프리뷰를 배포하기 시작했다. OpenAI에 따르면 이제 Dot에 문자는 물론 사진과 음성 메모도 보낼 수 있다. Dot 쪽에서도 맡은 작업의 진행 상황을 먼저 알려 줄 통로가 하나 더 생겼다."
-              },
-              {
-                "t": "p",
-                "x": "Dot 문자 기능은 ChatGPT에서 프로필을 열고 Texting을 고르면 켜진다. 휴대폰은 iPhone이라면 iMessage를, 주로 Android 기기를 쓴다면 RCS를 켜 둬야 한다. OpenAI는 Linq와 손잡고 메시징을 지원하며, 안전을 위해 “광범위한” 침투 테스트를 거쳤다고 밝혔다. 회사는 X에 “당신의 dot에 문자를 보낼 수 있는 사람은 당신뿐이고, dot도 당신에게만 문자를 보낼 수 있다”고 덧붙였다. Dot이 메모리에 기록한 정보는 ChatGPT와 문자가 함께 쓰기 때문에 대화가 바뀌어도 맥락이 이어진다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAIのDotに\nテキストを送れる",
-          "body": "OpenAIのDotにiMessageやRCSで連絡でき、US Proで先行提供が始まった。",
-          "mini_headline": "OpenAIのDotにテキスト",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは先月末にDotエージェントを発表した際、いずれテキストメッセージで指示を出せるようにすると約束していた。それから一か月近くたった今、同社はUS Proユーザー向けに、まさにそれを可能にするプレビューの提供を始めた。OpenAIによると、新機能ではDotにテキスト、写真、さらにはボイスメモも送れる。Dotにとっても、任せたタスクの進捗を自ら知らせる新たな経路となる。"
-              },
-              {
-                "t": "p",
-                "x": "Dotでテキストを使うには、ChatGPTでDotのプロフィールを開きTextingを選ぶ。スマートフォン側では、iPhoneならiMessage、普段使いがAndroid端末ならRCSを有効にしておく。OpenAIはLinqと提携してメッセージ機能を提供し、安全性を確かめるため「広範な」侵入テストを実施したという。同社はXで「あなたのdotにテキストを送れるのはあなただけで、dotもあなたにしか送れない」と付け加えた。Dotがメモリに書き込んだ情報はChatGPTとテキストで共有されるため、別々の会話の間でも文脈が引き継がれる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "现在可以给OpenAI\nDot发短信了",
-          "body": "OpenAI主动型Dot现可通过iMessage和RCS收短信，先向US Pro用户预览。",
-          "mini_headline": "给OpenAI的Dot发短信",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI上月底推出Dot智能体时曾承诺，用户最终可以通过短信向它们下达指令。近一个月后的现在，公司已开始向US Pro用户推送一项预览功能，正好能做到这一点。OpenAI表示，借助新功能，你可以给Dot发送文字、照片甚至语音备忘录。这也为Dot提供了另一条渠道，可以主动联系你，汇报你交给它的任务进展。"
-              },
-              {
-                "t": "p",
-                "x": "要为Dot设置短信功能，请在ChatGPT中打开它的资料页并选择Texting。手机端方面，iPhone用户需确保开启iMessage，日常使用Android设备的用户则需开启RCS。OpenAI表示，它与Linq合作提供消息支持，并进行了“广泛的”渗透测试以确保功能安全。公司还在X上补充道：“只有你能给你的dot发短信，你的dot也只能给你发短信。”Dot写入记忆的任何信息都会在ChatGPT和短信之间共享，这意味着上下文会在不同对话间延续。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ya se pueden enviar mensajes\nal agente Dot de OpenAI",
-          "body": "El agente proactivo Dot de OpenAI ya recibe mensajes por iMessage y RCS, con una vista previa para usuarios Pro de US.",
-          "mini_headline": "Mensajes al Dot de OpenAI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "Cuando OpenAI presentó sus agentes Dot a finales del mes pasado, prometió que los usuarios podrían enviarles mensajes de texto para darles instrucciones. Ahora, casi un mes después, la compañía ha empezado a desplegar entre los usuarios Pro de US una vista previa que permite hacer justamente eso. Con la nueva función, según OpenAI, se pueden enviar a Dot textos, fotos e incluso notas de voz. También le da a Dot otra vía para contactar de forma proactiva con actualizaciones sobre las tareas que se le han asignado."
-              },
-              {
-                "t": "p",
-                "x": "Para configurar los mensajes con Dot, abre su perfil en ChatGPT y selecciona Texting. En el teléfono, asegúrate de tener activado iMessage si usas un iPhone, o RCS si tu dispositivo habitual es Android. OpenAI dice que se asoció con Linq para ofrecer la mensajería y que hizo pruebas de penetración “exhaustivas” para garantizar que la función sea segura. “Eres el único que puede enviar mensajes a tu dot, y tu dot solo puede enviarte mensajes a ti”, añade la compañía en X. Toda la información que Dot guarda en su memoria se comparte entre ChatGPT y los mensajes de texto, de modo que el contexto se mantiene entre conversaciones distintas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "OpenAI Dot에\n이제 문자를 보낸다",
-          "body": "US Pro는 iMessage·RCS로 OpenAI Dot에 문자할 수 있다.",
-          "mini_headline": "OpenAI Dot에 문자하기",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "지난달 말 Dot 에이전트를 처음 선보였을 때 OpenAI는 사용자가 언젠가 문자로 지시를 내릴 수 있게 하겠다고 약속했다. 한 달 가까이 지난 지금, 회사는 US Pro 사용자를 대상으로 바로 그 기능을 담은 프리뷰를 배포하기 시작했다. OpenAI에 따르면 새 기능으로 Dot에 문자, 사진, 음성 메모까지 보낼 수 있다. Dot 역시 맡긴 작업의 진행 상황을 먼저 알려 줄 수 있는 또 하나의 통로를 얻는다."
-              },
-              {
-                "t": "p",
-                "x": "Dot의 문자 기능을 설정하려면 ChatGPT에서 프로필을 열고 Texting을 선택한다. 휴대폰에서는 iPhone이면 iMessage를, 주로 Android 기기를 쓴다면 RCS를 켜 두어야 한다. OpenAI는 Linq와 협력해 메시징을 지원하며, 기능의 안전을 위해 “광범위한” 침투 테스트를 거쳤다고 밝혔다. 회사는 X에 “당신의 dot에 문자를 보낼 수 있는 사람은 당신뿐이고, dot도 당신에게만 문자를 보낼 수 있다”고 덧붙였다. Dot이 메모리에 기록한 정보는 ChatGPT와 문자 사이에서 공유되므로 서로 다른 대화 사이에서도 맥락이 이어진다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAIのDotに\nテキストを送れる",
-          "body": "OpenAIのDotにiMessageやRCSで連絡でき、US Proで先行提供が始まった。",
-          "mini_headline": "OpenAIのDotにテキスト",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは先月末にDotエージェントを発表した際、いずれテキストメッセージで指示を出せるようにすると約束していた。それから一か月近くたった今、同社はUS Proユーザー向けに、まさにそれを可能にするプレビューの提供を始めた。OpenAIによると、新機能ではDotにテキスト、写真、さらにはボイスメモも送れる。Dotにとっても、任せたタスクの進捗を自ら知らせる新たな経路となる。"
-              },
-              {
-                "t": "p",
-                "x": "Dotでテキストを使うには、ChatGPTでDotのプロフィールを開きTextingを選ぶ。スマートフォン側では、iPhoneならiMessage、普段使いがAndroid端末ならRCSを有効にしておく。OpenAIはLinqと提携してメッセージ機能を提供し、安全性を確かめるため「広範な」侵入テストを実施したという。同社はXで「あなたのdotにテキストを送れるのはあなただけで、dotもあなたにしか送れない」と付け加えた。Dotがメモリに書き込んだ情報はChatGPTとテキストで共有されるため、別々の会話の間でも文脈が引き継がれる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "现在可以给OpenAI\nDot发短信了",
-          "body": "OpenAI主动型Dot现可通过iMessage和RCS收短信，先向US Pro用户预览。",
-          "mini_headline": "给OpenAI的Dot发短信",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI上月底推出Dot智能体时曾承诺，用户最终可以通过短信向它们下达指令。近一个月后的现在，公司已开始向US Pro用户推送一项预览功能，正好能做到这一点。OpenAI表示，借助新功能，你可以给Dot发送文字、照片甚至语音备忘录。这也为Dot提供了另一条渠道，可以主动联系你，汇报你交给它的任务进展。"
-              },
-              {
-                "t": "p",
-                "x": "要为Dot设置短信功能，请在ChatGPT中打开它的资料页并选择Texting。手机端方面，iPhone用户需确保开启iMessage，日常使用Android设备的用户则需开启RCS。OpenAI表示，它与Linq合作提供消息支持，并进行了“广泛的”渗透测试以确保功能安全。公司还在X上补充道：“只有你能给你的dot发短信，你的dot也只能给你发短信。”Dot写入记忆的任何信息都会在ChatGPT和短信之间共享，这意味着上下文会在不同对话间延续。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ya se pueden enviar mensajes\nal agente Dot de OpenAI",
-          "body": "El agente proactivo Dot de OpenAI ya recibe mensajes por iMessage y RCS, con una vista previa para usuarios Pro de US.",
-          "mini_headline": "Mensajes al Dot de OpenAI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
-                "cap": "OpenAI"
-              },
-              {
-                "t": "p",
-                "x": "Cuando OpenAI presentó sus agentes Dot a finales del mes pasado, prometió que los usuarios podrían enviarles mensajes de texto para darles instrucciones. Ahora, casi un mes después, la compañía ha empezado a desplegar entre los usuarios Pro de US una vista previa que permite hacer justamente eso. Con la nueva función, según OpenAI, se pueden enviar a Dot textos, fotos e incluso notas de voz. También le da a Dot otra vía para contactar de forma proactiva con actualizaciones sobre las tareas que se le han asignado."
-              },
-              {
-                "t": "p",
-                "x": "Para configurar los mensajes con Dot, abre su perfil en ChatGPT y selecciona Texting. En el teléfono, asegúrate de tener activado iMessage si usas un iPhone, o RCS si tu dispositivo habitual es Android. OpenAI dice que se asoció con Linq para ofrecer la mensajería y que hizo pruebas de penetración “exhaustivas” para garantizar que la función sea segura. “Eres el único que puede enviar mensajes a tu dot, y tu dot solo puede enviarte mensajes a ti”, añade la compañía en X. Toda la información que Dot guarda en su memoria se comparte entre ChatGPT y los mensajes de texto, de modo que el contexto se mantiene entre conversaciones distintas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-ios-synthid",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Apple AI 이미지에\nGoogle SynthID",
-      "body": "iOS 27.2부터 Image Playground 이미지에 SynthID가 붙는다.",
-      "mini_headline": "Apple, SynthID 도입",
-      "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -1287,155 +843,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-            "cap": "ChatGPT Image 2.5"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Android XR 기반 Gentle Moster 스마트 안경"
           },
           {
             "t": "p",
-            "x": "Apple AI로 만든 이미지에 이제 보이지 않는 표식이 붙는다. iOS 27.2부터 iPhone은 Image Playground가 만든 모든 이미지에 Google이 개발한 워터마크 SynthID를 새긴다. Apple은 지난 6월 새 Image Playground를 소개하며 이 조치를 예고했다."
+            "x": "Google이 2026 Android Dev Summit에서 Android XR과 Android CLI의 흥미로운 새 기능을 발표했다. 개발자는 이제 하드웨어 없이도 스마트 안경용 앱을 만들고 테스트할 수 있다. Android 명령줄 도구도 AI 코딩 에이전트가 앱을 테스트하고 성능 문제를 찾도록 업그레이드된다."
           },
           {
             "t": "p",
-            "x": "새로 생성한 이미지에는 예외 없이 워터마크가 붙는다. 편집한 사진은 AI가 얼마나 손댔느냐에 따라 갈린다. MacRumors가 확인해 보니 Extend와 Reframe으로 바꾼 이미지에는 SynthID가 있었다. Clean Up은 작은 보정에는 표시가 없었고 큰 보정에는 워터마크가 붙었다."
+            "x": "Android Studio의 Android XR 에뮬레이터가 안정화 버전이 되면서 개발자는 컴퓨터에서 바로 여러 스마트 안경을 시뮬레이션할 수 있게 됐다. 핵심 Jetpack XR SDK 라이브러리도 안정화됐다. Google은 디지털 객체를 실제 장소에 고정하는 Geospatial APIs도 추가했다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+            "cap": "Google Audio 안경"
           },
           {
             "t": "p",
-            "x": "SynthID는 메타데이터가 아니라 픽셀에 직접 새겨진다. Google은 화질에 영향이 없고 자르기, 필터, 압축을 거쳐도 남는다고 약속한다. iPhone 안에서는 확인할 수 없어 Google이 10월 초 모두에게 공개한 SynthID Detector를 써야 한다. Apple이 합류하면서 SynthID는 사실상 업계 표준에 한 걸음 더 다가섰다."
+            "x": "Unity, Godot, Unreal 개발자는 성능 분석을 돕는 Android XR Engine Hub 안정화 버전도 쓸 수 있다. Google은 이번 업데이트와 함께 XREAL AURA를 공개하며 Android XR 기반 첫 유선 XR 안경이라고 소개했다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+            "cap": "Claude Agent, OpenAI Codex, Google Antigravity, 내장 에이전트 가운데 코딩 에이전트를 고르는 메뉴가 보이는 Android Studio 화면."
+          },
+          {
+            "t": "p",
+            "x": "Google은 Android CLI도 손봐 AI 코딩 에이전트가 코드 생성 너머의 일까지 하게 했다. 에이전트는 Android Device Streaming으로 실제 Android 기기에서 앱을 원격 테스트하고, 에뮬레이터를 띄우지 않고도 Jetpack Compose 미리보기를 만든다. 느린 앱 실행, 끊기는 애니메이션, 불필요한 백그라운드 활동을 찾아내는 도구와 앱 품질 점검 기능도 들어갔다. 보안·위젯·성능 최적화 등을 다루는 Android 스킬도 30개 이상 제공된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple's AI images now carry\nGoogle's SynthID watermark",
-          "body": "With iOS 27.2, Apple marks Image Playground output and heavily edited photos with Google's invisible SynthID watermark.",
-          "mini_headline": "Apple adopts SynthID",
+          "headline": "Android XR lets developers test\nglasses apps without hardware",
+          "body": "Developers can test smart-glasses apps without hardware, and Android CLI now helps AI agents find performance issues.",
+          "mini_headline": "Android XR apps, no glasses needed",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Gentle Moster smart glasses powered by Android XR"
               },
               {
                 "t": "p",
-                "x": "Images from Apple's AI now carry an invisible mark. With iOS 27.2, the iPhone tags everything Image Playground creates with SynthID – the watermark developed by Google. Apple announced the move back in June along with the revamped Image Playground."
+                "x": "At the 2026 Android Dev Summit, Google has announced some interesting features coming to both Android XR and Android CLI. Developers can now build and test apps for smart glasses without owning the hardware, while Android's command-line tools are getting upgrades that help AI coding agents test applications and identify performance problems."
               },
               {
                 "t": "p",
-                "x": "Newly generated images always get the watermark. For edited photos, it depends on how heavily the AI intervenes: MacRumors found images changed with Extend and Reframe carried SynthID, while with Clean Up small retouches stayed unmarked and larger ones got the watermark."
+                "x": "Google's Android XR emulators in Android Studio are stable, letting developers simulate different types of smart glasses directly from their computers. The core Jetpack XR SDK libraries are also stable, and Google added Geospatial APIs, which let developers anchor digital objects to real-world locations."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Google Audio glasses"
               },
               {
                 "t": "p",
-                "x": "SynthID sits directly in the pixels, not in the metadata. Google promises it does not affect image quality and survives cropping, filters and compression. It cannot be checked on the iPhone itself; you need Google's SynthID Detector, which Google opened up to everyone in early October. With Apple on board, SynthID is a good deal closer to a real industry standard."
+                "x": "Developers working with Unity, Godot, and Unreal also get a stable Android XR Engine Hub to help analyze performance. Google announced the XREAL AURA alongside these updates, calling it the first wired XR glasses powered by Android XR."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Android Studio interface showing a coding agent selection menu with Claude Agent, OpenAI Codex, Google Antigravity, and the built-in agent."
+              },
+              {
+                "t": "p",
+                "x": "Google has also upgraded Android CLI to let AI coding agents do more than generate code. Agents can now remotely test apps on real Android devices through Android Device Streaming and generate Jetpack Compose previews without launching an emulator. There are tools for identifying slow app launches, stuttering animations, and unnecessary background activity, plus app quality checks and over 30 Android skills covering areas such as security, widgets, and performance optimization."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple AI 이미지에\nGoogle SynthID",
-          "body": "iOS 27.2부터 Image Playground 이미지에 SynthID가 붙는다.",
-          "mini_headline": "Apple, SynthID 도입",
+          "headline": "Android XR 앱\n하드웨어 없이 테스트",
+          "body": "안경 없이 앱을 시험하고 AI 에이전트는 Android CLI로 성능을 점검한다.",
+          "mini_headline": "안경 없이 만드는 Android XR 앱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Android XR 기반 Gentle Moster 스마트 안경"
               },
               {
                 "t": "p",
-                "x": "Apple AI로 만든 이미지에 이제 보이지 않는 표식이 붙는다. iOS 27.2부터 iPhone은 Image Playground가 만든 모든 이미지에 Google이 개발한 워터마크 SynthID를 새긴다. Apple은 지난 6월 새 Image Playground를 소개하며 이 조치를 예고했다."
+                "x": "Google이 2026 Android Dev Summit에서 Android XR과 Android CLI의 흥미로운 새 기능을 발표했다. 개발자는 이제 하드웨어 없이도 스마트 안경용 앱을 만들고 테스트할 수 있다. Android 명령줄 도구도 AI 코딩 에이전트가 앱을 테스트하고 성능 문제를 찾도록 업그레이드된다."
               },
               {
                 "t": "p",
-                "x": "새로 생성한 이미지에는 예외 없이 워터마크가 붙는다. 편집한 사진은 AI가 얼마나 손댔느냐에 따라 갈린다. MacRumors가 확인해 보니 Extend와 Reframe으로 바꾼 이미지에는 SynthID가 있었다. Clean Up은 작은 보정에는 표시가 없었고 큰 보정에는 워터마크가 붙었다."
+                "x": "Android Studio의 Android XR 에뮬레이터가 안정화 버전이 되면서 개발자는 컴퓨터에서 바로 여러 스마트 안경을 시뮬레이션할 수 있게 됐다. 핵심 Jetpack XR SDK 라이브러리도 안정화됐다. Google은 디지털 객체를 실제 장소에 고정하는 Geospatial APIs도 추가했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Google Audio 안경"
               },
               {
                 "t": "p",
-                "x": "SynthID는 메타데이터가 아니라 픽셀에 직접 새겨진다. Google은 화질에 영향이 없고 자르기, 필터, 압축을 거쳐도 남는다고 약속한다. iPhone 안에서는 확인할 수 없어 Google이 10월 초 모두에게 공개한 SynthID Detector를 써야 한다. Apple이 합류하면서 SynthID는 사실상 업계 표준에 한 걸음 더 다가섰다."
+                "x": "Unity, Godot, Unreal 개발자는 성능 분석을 돕는 Android XR Engine Hub 안정화 버전도 쓸 수 있다. Google은 이번 업데이트와 함께 XREAL AURA를 공개하며 Android XR 기반 첫 유선 XR 안경이라고 소개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Claude Agent, OpenAI Codex, Google Antigravity, 내장 에이전트 가운데 코딩 에이전트를 고르는 메뉴가 보이는 Android Studio 화면."
+              },
+              {
+                "t": "p",
+                "x": "Google은 Android CLI도 손봐 AI 코딩 에이전트가 코드 생성 너머의 일까지 하게 했다. 에이전트는 Android Device Streaming으로 실제 Android 기기에서 앱을 원격 테스트하고, 에뮬레이터를 띄우지 않고도 Jetpack Compose 미리보기를 만든다. 느린 앱 실행, 끊기는 애니메이션, 불필요한 백그라운드 활동을 찾아내는 도구와 앱 품질 점검 기능도 들어갔다. 보안·위젯·성능 최적화 등을 다루는 Android 스킬도 30개 이상 제공된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppleのAI画像に\nGoogleのSynthID",
-          "body": "iOS 27.2はImage Playgroundの画像と加工写真にSynthIDを付ける。",
-          "mini_headline": "AppleがSynthIDを採用",
+          "headline": "Android XRアプリを\n実機なしでテスト可能",
+          "body": "実機なしでグラス用アプリを試せ、Android CLIでAIエージェントが性能問題を探す。",
+          "mini_headline": "グラス不要のAndroid XRアプリ開発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Android XRを搭載したGentle Mosterのスマートグラス"
               },
               {
                 "t": "p",
-                "x": "AppleのAIが生成した画像には、今後は目に見えないマークが付く。iOS 27.2では、iPhoneはImage Playgroundが作るすべての画像に、Googleが開発した透かしSynthIDを付与する。Appleはこの方針を、刷新したImage Playgroundとともに6月に発表していた。"
+                "x": "Googleは2026 Android Dev Summitで、Android XRとAndroid CLIの両方に向けた興味深い新機能を発表した。開発者はハードウェアを持っていなくてもスマートグラス向けアプリを開発・テストできるようになり、Androidのコマンドラインツールは、AIコーディングエージェントがアプリをテストし性能問題を特定するのを助けるアップグレードを受ける。"
               },
               {
                 "t": "p",
-                "x": "新たに生成した画像には必ず透かしが入る。編集した写真については、AIの介入の度合いによって変わる。MacRumorsの検証では、ExtendとReframeで変更した画像にはSynthIDが付いていた一方、Clean Upでは小さな修正は透かしなしで、大きな修正には透かしが付いた。"
+                "x": "Android StudioのAndroid XRエミュレーターが安定版となり、開発者はさまざまな種類のスマートグラスをパソコン上で直接シミュレートできる。中核となるJetpack XR SDKライブラリも安定版となり、Googleはデジタルオブジェクトを現実の場所に固定できるGeospatial APIsを追加した。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Google Audioグラス"
               },
               {
                 "t": "p",
-                "x": "SynthIDはメタデータではなく、ピクセルに直接埋め込まれる。Googleは画質に影響せず、切り抜きやフィルター、圧縮にも耐えるとしている。iPhone上では確認できず、Googleが10月初めに全ユーザーへ開放したSynthID Detectorが必要だ。Appleが加わったことで、SynthIDは真の業界標準にかなり近づいた。"
+                "x": "Unity、Godot、Unrealを使う開発者には、性能分析を支援する安定版のAndroid XR Engine Hubも提供される。Googleはこれらのアップデートとあわせて XREAL AURAを発表し、Android XRを搭載した初の有線XRグラスだとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Claude Agent、OpenAI Codex、Google Antigravity、内蔵エージェントから選べるコーディングエージェント選択メニューを表示したAndroid Studioの画面。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleはAndroid CLIもアップグレードし、AIコーディングエージェントがコード生成以上のことをできるようにした。エージェントはAndroid Device Streamingを通じて実際のAndroidデバイス上でアプリをリモートテストしたり、エミュレーターを起動せずにJetpack Composeのプレビューを生成したりできる。アプリ起動の遅さ、カクつくアニメーション、不要なバックグラウンド処理を特定するツールのほか、アプリ品質チェックや、セキュリティ、ウィジェット、性能最適化などを扱う30以上のAndroidスキルも用意された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple AI图像用上\nGoogle SynthID",
-          "body": "iOS 27.2起，Apple为Image Playground图像加SynthID水印。",
-          "mini_headline": "Apple采用SynthID",
+          "headline": "Android XR应用\n无需硬件即可测试",
+          "body": "开发者无需硬件即可测试智能眼镜应用，Android CLI还能帮AI智能体排查性能问题。",
+          "mini_headline": "Android XR应用开发无需眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "搭载Android XR的Gentle Moster智能眼镜"
               },
               {
                 "t": "p",
-                "x": "Apple AI生成的图像如今都带有一个隐形标记。从iOS 27.2起，iPhone会为Image Playground生成的所有内容打上SynthID——这是Google开发的水印。Apple早在6月就随改版后的Image Playground宣布了这一举措。"
+                "x": "在2026 Android Dev Summit上，Google宣布了面向Android XR和Android CLI的一些有趣新功能。开发者如今无需拥有硬件即可为智能眼镜构建和测试应用，而Android的命令行工具也迎来升级，帮助AI编程智能体测试应用并找出性能问题。"
               },
               {
                 "t": "p",
-                "x": "新生成的图像一律带有水印。对于编辑过的照片，则取决于AI介入的程度：MacRumors发现，经Extend和Reframe修改的图像带有SynthID，而使用Clean Up时，小幅修饰不会被标记，较大的修改则会加上水印。"
+                "x": "Android Studio中的Android XR模拟器已进入稳定版，开发者可以直接在电脑上模拟不同类型的智能眼镜。核心Jetpack XR SDK库也已稳定，Google还新增了Geospatial APIs，让开发者能够把数字对象锚定到现实世界中的位置。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Google Audio眼镜"
               },
               {
                 "t": "p",
-                "x": "SynthID直接嵌入像素，而非元数据。Google承诺它不会影响画质，并能在裁剪、滤镜和压缩后保留。iPhone本身无法检测，需要使用Google在10月初向所有人开放的SynthID Detector。随着Apple加入，SynthID离真正的行业标准又近了一大步。"
+                "x": "使用Unity、Godot和Unreal的开发者还将获得稳定版Android XR Engine Hub，用于辅助性能分析。Google在发布这些更新的同时推出了XREAL AURA，称其为首款搭载Android XR的有线XR眼镜。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Android Studio界面，显示编程智能体选择菜单，包括Claude Agent、OpenAI Codex、Google Antigravity和内置智能体。"
+              },
+              {
+                "t": "p",
+                "x": "Google还升级了Android CLI，让AI编程智能体不只是生成代码。智能体现在可以通过Android Device Streaming在真实Android设备上远程测试应用，并在不启动模拟器的情况下生成Jetpack Compose预览。此外还有用于识别应用启动缓慢、动画卡顿和不必要后台活动的工具，以及应用质量检查和30多项Android技能，涵盖安全、小组件和性能优化等领域。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las imágenes AI de Apple llevan\nla marca SynthID de Google",
-          "body": "Con iOS 27.2, Apple marca Image Playground y las fotos muy editadas con el SynthID invisible de Google.",
-          "mini_headline": "Apple adopta SynthID",
+          "headline": "Android XR permite probar apps\nde gafas sin hardware",
+          "body": "Ya se pueden probar apps de gafas sin hardware, y Android CLI ayuda a agentes AI a detectar problemas de rendimiento.",
+          "mini_headline": "Apps de Android XR sin gafas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Gafas inteligentes Gentle Moster con Android XR"
               },
               {
                 "t": "p",
-                "x": "Las imágenes de la AI de Apple llevan ahora una marca invisible. Con iOS 27.2, el iPhone etiqueta todo lo que crea Image Playground con SynthID, la marca de agua desarrollada por Google. Apple anunció la medida en junio junto con el renovado Image Playground."
+                "x": "En el 2026 Android Dev Summit, Google anunció varias funciones interesantes que llegarán tanto a Android XR como a Android CLI. Los desarrolladores ya pueden crear y probar apps para gafas inteligentes sin tener el hardware, mientras que las herramientas de línea de comandos de Android reciben mejoras que ayudan a los agentes de programación con AI a probar aplicaciones e identificar problemas de rendimiento."
               },
               {
                 "t": "p",
-                "x": "Las imágenes recién generadas siempre reciben la marca de agua. En las fotos editadas, depende de cuánto intervenga la AI: MacRumors comprobó que las imágenes modificadas con Extend y Reframe llevaban SynthID, mientras que con Clean Up los retoques pequeños quedaban sin marcar y los mayores recibían la marca de agua."
+                "x": "Los emuladores de Android XR en Android Studio ya son estables y permiten a los desarrolladores simular distintos tipos de gafas inteligentes directamente desde sus equipos. Las bibliotecas principales de Jetpack XR SDK también son estables, y Google añadió Geospatial APIs, que permiten anclar objetos digitales a ubicaciones del mundo real."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Gafas Google Audio"
               },
               {
                 "t": "p",
-                "x": "SynthID se integra directamente en los píxeles, no en los metadatos. Google asegura que no afecta a la calidad de imagen y que resiste recortes, filtros y compresión. No se puede comprobar en el propio iPhone; hace falta SynthID Detector de Google, que la compañía abrió a todo el mundo a principios de octubre. Con Apple a bordo, SynthID está bastante más cerca de ser un verdadero estándar del sector."
+                "x": "Quienes desarrollan con Unity, Godot y Unreal también obtienen un Android XR Engine Hub estable para ayudar a analizar el rendimiento. Junto con estas novedades, Google anunció las XREAL AURA, a las que describe como las primeras gafas XR con cable impulsadas por Android XR."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Interfaz de Android Studio con un menú de selección de agente de programación que incluye Claude Agent, OpenAI Codex, Google Antigravity y el agente integrado."
+              },
+              {
+                "t": "p",
+                "x": "Google también mejoró Android CLI para que los agentes de programación con AI hagan algo más que generar código. Ahora los agentes pueden probar apps de forma remota en dispositivos Android reales mediante Android Device Streaming y generar vistas previas de Jetpack Compose sin abrir un emulador. Hay herramientas para detectar arranques lentos de apps, animaciones entrecortadas y actividad innecesaria en segundo plano, además de comprobaciones de calidad de apps y más de 30 habilidades de Android que abarcan áreas como seguridad, widgets y optimización del rendimiento."
               }
             ]
           }
@@ -1443,109 +1083,919 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple AI 이미지에\nGoogle SynthID",
-          "body": "iOS 27.2는 Image Playground 이미지에 SynthID를 넣는다.",
-          "mini_headline": "Apple, SynthID 도입",
+          "headline": "Android XR 앱\n하드웨어 없이 테스트",
+          "body": "안경 없이 앱을 시험하고 AI 에이전트는 Android CLI로 성능을 점검한다.",
+          "mini_headline": "안경 없이 만드는 Android XR 앱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Android XR 기반 Gentle Moster 스마트 안경"
               },
               {
                 "t": "p",
-                "x": "Apple AI가 만든 이미지에는 이제 보이지 않는 표식이 붙는다. iOS 27.2부터 iPhone은 Image Playground가 만드는 모든 이미지에 Google이 개발한 워터마크 SynthID를 붙인다. Apple은 지난 6월 새로워진 Image Playground와 함께 이 조치를 발표했다."
+                "x": "Google이 2026 Android Dev Summit에서 Android XR과 Android CLI에 적용될 흥미로운 기능을 발표했다. 이제 개발자는 하드웨어를 갖추지 않고도 스마트 안경용 앱을 만들고 테스트할 수 있으며, Android의 명령줄 도구는 AI 코딩 에이전트가 앱을 테스트하고 성능 문제를 찾도록 돕는 방향으로 업그레이드된다."
               },
               {
                 "t": "p",
-                "x": "새로 생성한 이미지에는 항상 워터마크가 붙는다. 편집한 사진은 AI가 얼마나 크게 개입했는지에 따라 다르다. MacRumors 확인 결과 Extend와 Reframe으로 바꾼 이미지에는 SynthID가 있었고, Clean Up에서는 작은 보정은 표시가 없었지만 큰 보정에는 워터마크가 붙었다."
+                "x": "Android Studio의 Android XR 에뮬레이터가 안정화 버전이 되면서, 개발자는 컴퓨터에서 바로 여러 종류의 스마트 안경을 시뮬레이션할 수 있다. 핵심 Jetpack XR SDK 라이브러리도 안정화됐고, Google은 디지털 객체를 실제 장소에 고정할 수 있는 Geospatial APIs를 추가했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Google Audio 안경"
               },
               {
                 "t": "p",
-                "x": "SynthID는 메타데이터가 아니라 픽셀에 직접 들어간다. Google은 화질에 영향을 주지 않으며 자르기, 필터, 압축을 거쳐도 남는다고 약속한다. iPhone 자체에서는 확인할 수 없고, Google이 10월 초 모두에게 공개한 SynthID Detector가 필요하다. Apple이 합류하면서 SynthID는 실질적인 업계 표준에 한층 가까워졌다."
+                "x": "Unity, Godot, Unreal을 쓰는 개발자는 성능 분석을 돕는 안정화된 Android XR Engine Hub도 쓸 수 있다. Google은 이번 업데이트와 함께 XREAL AURA를 발표하며, 이를 Android XR 기반의 첫 유선 XR 안경이라고 소개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Claude Agent, OpenAI Codex, Google Antigravity, 내장 에이전트 가운데 코딩 에이전트를 고르는 메뉴가 보이는 Android Studio 화면."
+              },
+              {
+                "t": "p",
+                "x": "Google은 Android CLI도 업그레이드해 AI 코딩 에이전트가 코드 생성 이상의 일을 하도록 했다. 이제 에이전트는 Android Device Streaming으로 실제 Android 기기에서 앱을 원격 테스트하고, 에뮬레이터를 띄우지 않고도 Jetpack Compose 미리보기를 생성할 수 있다. 느린 앱 실행, 끊기는 애니메이션, 불필요한 백그라운드 활동을 찾아내는 도구와 앱 품질 점검 기능, 보안·위젯·성능 최적화 등을 다루는 30개 이상의 Android 스킬도 제공된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppleのAI画像に\nGoogleのSynthID",
-          "body": "iOS 27.2はImage Playgroundの画像と加工写真にSynthIDを付ける。",
-          "mini_headline": "AppleがSynthIDを採用",
+          "headline": "Android XRアプリを\n実機なしでテスト可能",
+          "body": "実機なしでグラス用アプリを試せ、Android CLIでAIエージェントが性能問題を探す。",
+          "mini_headline": "グラス不要のAndroid XRアプリ開発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Android XRを搭載したGentle Mosterのスマートグラス"
               },
               {
                 "t": "p",
-                "x": "AppleのAIが生成した画像には、今後は目に見えないマークが付く。iOS 27.2では、iPhoneはImage Playgroundが作るすべての画像に、Googleが開発した透かしSynthIDを付与する。Appleはこの方針を、刷新したImage Playgroundとともに6月に発表していた。"
+                "x": "Googleは2026 Android Dev Summitで、Android XRとAndroid CLIの両方に向けた興味深い新機能を発表した。開発者はハードウェアを持っていなくてもスマートグラス向けアプリを開発・テストできるようになり、Androidのコマンドラインツールは、AIコーディングエージェントがアプリをテストし性能問題を特定するのを助けるアップグレードを受ける。"
               },
               {
                 "t": "p",
-                "x": "新たに生成した画像には必ず透かしが入る。編集した写真については、AIの介入の度合いによって変わる。MacRumorsの検証では、ExtendとReframeで変更した画像にはSynthIDが付いていた一方、Clean Upでは小さな修正は透かしなしで、大きな修正には透かしが付いた。"
+                "x": "Android StudioのAndroid XRエミュレーターが安定版となり、開発者はさまざまな種類のスマートグラスをパソコン上で直接シミュレートできる。中核となるJetpack XR SDKライブラリも安定版となり、Googleはデジタルオブジェクトを現実の場所に固定できるGeospatial APIsを追加した。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Google Audioグラス"
               },
               {
                 "t": "p",
-                "x": "SynthIDはメタデータではなく、ピクセルに直接埋め込まれる。Googleは画質に影響せず、切り抜きやフィルター、圧縮にも耐えるとしている。iPhone上では確認できず、Googleが10月初めに全ユーザーへ開放したSynthID Detectorが必要だ。Appleが加わったことで、SynthIDは真の業界標準にかなり近づいた。"
+                "x": "Unity、Godot、Unrealを使う開発者には、性能分析を支援する安定版のAndroid XR Engine Hubも提供される。Googleはこれらのアップデートとあわせて XREAL AURAを発表し、Android XRを搭載した初の有線XRグラスだとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Claude Agent、OpenAI Codex、Google Antigravity、内蔵エージェントから選べるコーディングエージェント選択メニューを表示したAndroid Studioの画面。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleはAndroid CLIもアップグレードし、AIコーディングエージェントがコード生成以上のことをできるようにした。エージェントはAndroid Device Streamingを通じて実際のAndroidデバイス上でアプリをリモートテストしたり、エミュレーターを起動せずにJetpack Composeのプレビューを生成したりできる。アプリ起動の遅さ、カクつくアニメーション、不要なバックグラウンド処理を特定するツールのほか、アプリ品質チェックや、セキュリティ、ウィジェット、性能最適化などを扱う30以上のAndroidスキルも用意された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple AI图像用上\nGoogle SynthID",
-          "body": "iOS 27.2起，Apple为Image Playground图像加SynthID水印。",
-          "mini_headline": "Apple采用SynthID",
+          "headline": "Android XR应用\n无需硬件即可测试",
+          "body": "开发者无需硬件即可测试智能眼镜应用，Android CLI还能帮AI智能体排查性能问题。",
+          "mini_headline": "Android XR应用开发无需眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "搭载Android XR的Gentle Moster智能眼镜"
               },
               {
                 "t": "p",
-                "x": "Apple AI生成的图像如今都带有一个隐形标记。从iOS 27.2起，iPhone会为Image Playground生成的所有内容打上SynthID——这是Google开发的水印。Apple早在6月就随改版后的Image Playground宣布了这一举措。"
+                "x": "在2026 Android Dev Summit上，Google宣布了面向Android XR和Android CLI的一些有趣新功能。开发者如今无需拥有硬件即可为智能眼镜构建和测试应用，而Android的命令行工具也迎来升级，帮助AI编程智能体测试应用并找出性能问题。"
               },
               {
                 "t": "p",
-                "x": "新生成的图像一律带有水印。对于编辑过的照片，则取决于AI介入的程度：MacRumors发现，经Extend和Reframe修改的图像带有SynthID，而使用Clean Up时，小幅修饰不会被标记，较大的修改则会加上水印。"
+                "x": "Android Studio中的Android XR模拟器已进入稳定版，开发者可以直接在电脑上模拟不同类型的智能眼镜。核心Jetpack XR SDK库也已稳定，Google还新增了Geospatial APIs，让开发者能够把数字对象锚定到现实世界中的位置。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Google Audio眼镜"
               },
               {
                 "t": "p",
-                "x": "SynthID直接嵌入像素，而非元数据。Google承诺它不会影响画质，并能在裁剪、滤镜和压缩后保留。iPhone本身无法检测，需要使用Google在10月初向所有人开放的SynthID Detector。随着Apple加入，SynthID离真正的行业标准又近了一大步。"
+                "x": "使用Unity、Godot和Unreal的开发者还将获得稳定版Android XR Engine Hub，用于辅助性能分析。Google在发布这些更新的同时推出了XREAL AURA，称其为首款搭载Android XR的有线XR眼镜。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Android Studio界面，显示编程智能体选择菜单，包括Claude Agent、OpenAI Codex、Google Antigravity和内置智能体。"
+              },
+              {
+                "t": "p",
+                "x": "Google还升级了Android CLI，让AI编程智能体不只是生成代码。智能体现在可以通过Android Device Streaming在真实Android设备上远程测试应用，并在不启动模拟器的情况下生成Jetpack Compose预览。此外还有用于识别应用启动缓慢、动画卡顿和不必要后台活动的工具，以及应用质量检查和30多项Android技能，涵盖安全、小组件和性能优化等领域。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las imágenes AI de Apple llevan\nla marca SynthID de Google",
-          "body": "Con iOS 27.2, Apple marca Image Playground y las fotos muy editadas con el SynthID invisible de Google.",
-          "mini_headline": "Apple adopta SynthID",
+          "headline": "Android XR permite probar apps\nde gafas sin hardware",
+          "body": "Ya se pueden probar apps de gafas sin hardware, y Android CLI ayuda a agentes AI a detectar problemas de rendimiento.",
+          "mini_headline": "Apps de Android XR sin gafas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
-                "cap": "ChatGPT Image 2.5"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Gafas inteligentes Gentle Moster con Android XR"
               },
               {
                 "t": "p",
-                "x": "Las imágenes de la AI de Apple llevan ahora una marca invisible. Con iOS 27.2, el iPhone etiqueta todo lo que crea Image Playground con SynthID, la marca de agua desarrollada por Google. Apple anunció la medida en junio junto con el renovado Image Playground."
+                "x": "En el 2026 Android Dev Summit, Google anunció varias funciones interesantes que llegarán tanto a Android XR como a Android CLI. Los desarrolladores ya pueden crear y probar apps para gafas inteligentes sin tener el hardware, mientras que las herramientas de línea de comandos de Android reciben mejoras que ayudan a los agentes de programación con AI a probar aplicaciones e identificar problemas de rendimiento."
               },
               {
                 "t": "p",
-                "x": "Las imágenes recién generadas siempre reciben la marca de agua. En las fotos editadas, depende de cuánto intervenga la AI: MacRumors comprobó que las imágenes modificadas con Extend y Reframe llevaban SynthID, mientras que con Clean Up los retoques pequeños quedaban sin marcar y los mayores recibían la marca de agua."
+                "x": "Los emuladores de Android XR en Android Studio ya son estables y permiten a los desarrolladores simular distintos tipos de gafas inteligentes directamente desde sus equipos. Las bibliotecas principales de Jetpack XR SDK también son estables, y Google añadió Geospatial APIs, que permiten anclar objetos digitales a ubicaciones del mundo real."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Gentle-Monster-Lifestyle-scaled.jpg?resize=2136%2C2560&ssl=1",
+                "cap": "Gafas Google Audio"
               },
               {
                 "t": "p",
-                "x": "SynthID se integra directamente en los píxeles, no en los metadatos. Google asegura que no afecta a la calidad de imagen y que resiste recortes, filtros y compresión. No se puede comprobar en el propio iPhone; hace falta SynthID Detector de Google, que la compañía abrió a todo el mundo a principios de octubre. Con Apple a bordo, SynthID está bastante más cerca de ser un verdadero estándar del sector."
+                "x": "Quienes desarrollan con Unity, Godot y Unreal también obtienen un Android XR Engine Hub estable para ayudar a analizar el rendimiento. Junto con estas novedades, Google anunció las XREAL AURA, a las que describe como las primeras gafas XR con cable impulsadas por Android XR."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Android-Developers-blog-Build-it-your-way_-A-next-era-of-Android-development.jpg?resize=2048%2C1152&ssl=1",
+                "cap": "Interfaz de Android Studio con un menú de selección de agente de programación que incluye Claude Agent, OpenAI Codex, Google Antigravity y el agente integrado."
+              },
+              {
+                "t": "p",
+                "x": "Google también mejoró Android CLI para que los agentes de programación con AI hagan algo más que generar código. Ahora los agentes pueden probar apps de forma remota en dispositivos Android reales mediante Android Device Streaming y generar vistas previas de Jetpack Compose sin abrir un emulador. Hay herramientas para detectar arranques lentos de apps, animaciones entrecortadas y actividad innecesaria en segundo plano, además de comprobaciones de calidad de apps y más de 30 habilidades de Android que abarcan áreas como seguridad, widgets y optimización del rendimiento."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "strava-gemini-insights",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Strava, 운동 기록에\nGemini를 잇는다",
+      "body": "US Strava 구독자는 Google Gemini로 운동 기록을 분석받는다.",
+      "mini_headline": "Strava, Gemini 인사이트 추가",
+      "tool": "Gadgets",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+          },
+          {
+            "t": "p",
+            "x": "Strava가 이번 주 Google Gemini와의 AI 연동을 넓혔다. 이제 구독자는 자기 운동 기록에 맞춘 인사이트를 받는다."
+          },
+          {
+            "t": "p",
+            "x": "Strava는 몇 달 전 Model Context Protocol(MCP)을 활용한 Claude 연동을 내놨다. 사용자가 Anthropic의 AI 어시스턴트와 자연어로 대화하며 운동 기록과 훈련 성과를 분석하는 기능이다. MCP는 AI 어시스턴트를 외부 앱과 서비스에 연결하는 개방형 표준이다. Anthropic이 만들었고 이후 Linux Foundation 산하 Agentic AI Foundation에 기증됐다."
+          },
+          {
+            "t": "p",
+            "x": "회사 설명에 따르면 Strava 구독자 가운데 “Strava를 Gemini에 직접 연결한 이들은 활동 기록에 기반해 더 맥락에 맞고 개인화된 답변을 받게 된다.” 연동은 전적으로 선택 사항이고 읽기 전용이라고 회사는 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "연결한 뒤에는 Gemini에 “같은 심박수에서 내가 더 빨라지고 있나?”, “지난 레이스에서 어떻게 달렸는지 자세히 분석해 줄 수 있어?”, “올해 가장 빠른 10K 기록과 역대 최고 기록을 비교하면?”, “토요일 장거리 달리기에서 더위 때문에 얼마나 느려졌지?” 같은 질문을 던질 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "출시는 우선 미국(US)에 한정된다. Gemini 요금제와 상관없이 Strava 구독자면 누구나 쓸 수 있다. Strava는 다른 국가로 언제 넓힐지 밝히지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Strava connects Gemini\nto your workout history",
+          "body": "Strava subscribers in the US can now connect Google Gemini and get personalized insights from their workout history.",
+          "mini_headline": "Strava adds Gemini insights",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history."
+              },
+              {
+                "t": "p",
+                "x": "A few months ago, Strava launched an integration with Claude using the Model Context Protocol (MCP), allowing users to analyze their workout history and training performance through natural-language conversations with Anthropic's AI assistant. MCP is an open standard (created by Anthropic and later donated to the Linux Foundation's Agentic AI Foundation) that allows AI assistants to connect to external apps and services."
+              },
+              {
+                "t": "p",
+                "x": "As the company explained, Strava subscribers “who connect Strava directly to Gemini will get more contextual and personalized answers grounded in their activity history.” The company added that the integration is entirely optional and read-only."
+              },
+              {
+                "t": "p",
+                "x": "Once connected, users can ask Gemini things such as “Am I getting faster at the same heart rate?”, “Can you give me a detailed analysis of how I performed in my last race?”, “What's my fastest 10K this year vs. all time?” and “How much did the heat slow me down on Saturday's long run?”"
+              },
+              {
+                "t": "p",
+                "x": "The rollout will be limited to the US at first, with the integration available to Strava subscribers regardless of their Gemini plan. Strava has not announced when it might expand to other countries."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Strava, 운동 기록에\nGemini를 잇는다",
+          "body": "US Strava 구독자는 Google Gemini로 운동 기록을 분석받는다.",
+          "mini_headline": "Strava, Gemini 인사이트 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Strava가 이번 주 Google Gemini와의 AI 연동을 넓혔다. 이제 구독자는 자기 운동 기록에 맞춘 인사이트를 받는다."
+              },
+              {
+                "t": "p",
+                "x": "Strava는 몇 달 전 Model Context Protocol(MCP)을 활용한 Claude 연동을 내놨다. 사용자가 Anthropic의 AI 어시스턴트와 자연어로 대화하며 운동 기록과 훈련 성과를 분석하는 기능이다. MCP는 AI 어시스턴트를 외부 앱과 서비스에 연결하는 개방형 표준이다. Anthropic이 만들었고 이후 Linux Foundation 산하 Agentic AI Foundation에 기증됐다."
+              },
+              {
+                "t": "p",
+                "x": "회사 설명에 따르면 Strava 구독자 가운데 “Strava를 Gemini에 직접 연결한 이들은 활동 기록에 기반해 더 맥락에 맞고 개인화된 답변을 받게 된다.” 연동은 전적으로 선택 사항이고 읽기 전용이라고 회사는 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "연결한 뒤에는 Gemini에 “같은 심박수에서 내가 더 빨라지고 있나?”, “지난 레이스에서 어떻게 달렸는지 자세히 분석해 줄 수 있어?”, “올해 가장 빠른 10K 기록과 역대 최고 기록을 비교하면?”, “토요일 장거리 달리기에서 더위 때문에 얼마나 느려졌지?” 같은 질문을 던질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "출시는 우선 미국(US)에 한정된다. Gemini 요금제와 상관없이 Strava 구독자면 누구나 쓸 수 있다. Strava는 다른 국가로 언제 넓힐지 밝히지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "StravaがGemini\nと運動履歴を連携",
+          "body": "USのStrava会員はGoogle Geminiを連携し運動履歴から個別分析を得る。",
+          "mini_headline": "StravaにGeminiのインサイト",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Stravaは今週、Google GeminiとのAI連携を拡大し、会員が運動履歴に基づくパーソナライズされたインサイトを得られるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "Stravaは数カ月前、Model Context Protocol(MCP)を使ったClaudeとの連携を開始し、ユーザーがAnthropicのAIアシスタントとの自然言語の対話を通じて運動履歴やトレーニングの成果を分析できるようにした。MCPは、AIアシスタントが外部のアプリやサービスに接続できるようにするオープン標準で、Anthropicが作成し、のちにLinux FoundationのAgentic AI Foundationに寄贈された。"
+              },
+              {
+                "t": "p",
+                "x": "同社の説明によると、Stravaの会員のうち「StravaをGeminiに直接接続した人は、アクティビティ履歴に基づいた、より文脈に即したパーソナライズされた回答を得られる」。同社は、この連携は完全に任意で、読み取り専用だと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "接続後、ユーザーはGeminiに「同じ心拍数で速くなっている?」「前回のレースでの走りを詳しく分析してくれる?」「今年の10K 最速タイムと歴代最速を比べると?」「土曜日のロング走で暑さのせいでどれだけ遅くなった?」といった質問ができる。"
+              },
+              {
+                "t": "p",
+                "x": "提供はまずUS(米国)に限られ、Geminiのプランに関係なくStravaの会員なら利用できる。Stravaは他の国への拡大時期を発表していない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Strava接入Gemini\n分析你的运动记录",
+          "body": "US地区Strava订阅用户可接入Google Gemini，按运动记录获取个性化洞察。",
+          "mini_headline": "Strava新增Gemini洞察",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Strava本周扩大了与Google Gemini的AI集成，让订阅用户能够根据自己的运动记录获得个性化洞察。"
+              },
+              {
+                "t": "p",
+                "x": "几个月前，Strava推出了基于Model Context Protocol（MCP）的Claude集成，用户可以通过与Anthropic的AI助手进行自然语言对话，分析自己的运动记录和训练表现。MCP是一项开放标准（由Anthropic创建，后捐赠给Linux Foundation旗下的Agentic AI Foundation），可让AI助手连接外部应用和服务。"
+              },
+              {
+                "t": "p",
+                "x": "据该公司介绍，Strava订阅用户中“将Strava直接连接到Gemini的用户，将获得基于其活动记录、更具情境性和个性化的回答”。该公司补充说，这项集成完全可选，且为只读。"
+              },
+              {
+                "t": "p",
+                "x": "连接后，用户可以向Gemini提问，例如“在相同心率下我是不是变快了？”“你能详细分析一下我上一场比赛的表现吗？”“我今年最快的10K 成绩和历史最快相比如何？”以及“周六长距离跑时，高温让我慢了多少？”"
+              },
+              {
+                "t": "p",
+                "x": "该功能首先仅在US（美国）推出，无论使用哪种Gemini方案，Strava订阅用户均可使用。Strava尚未宣布何时扩展到其他国家。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Strava conecta Gemini\na tu historial de entrenamiento",
+          "body": "Los suscriptores de Strava en US ya pueden conectar Google Gemini y obtener análisis personalizados de su historial.",
+          "mini_headline": "Strava suma análisis con Gemini",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Strava amplió esta semana sus integraciones de AI con Google Gemini, lo que permite a los suscriptores obtener análisis personalizados basados en su historial de entrenamientos."
+              },
+              {
+                "t": "p",
+                "x": "Hace unos meses, Strava lanzó una integración con Claude mediante el Model Context Protocol (MCP), que permite a los usuarios analizar su historial de entrenamientos y su rendimiento mediante conversaciones en lenguaje natural con el asistente de AI de Anthropic. MCP es un estándar abierto (creado por Anthropic y donado después a la Agentic AI Foundation de la Linux Foundation) que permite a los asistentes de AI conectarse con apps y servicios externos."
+              },
+              {
+                "t": "p",
+                "x": "Según explicó la empresa, los suscriptores de Strava “que conecten Strava directamente con Gemini obtendrán respuestas más contextuales y personalizadas basadas en su historial de actividad”. La empresa añadió que la integración es totalmente opcional y de solo lectura."
+              },
+              {
+                "t": "p",
+                "x": "Una vez conectados, los usuarios pueden preguntar a Gemini cosas como “¿Estoy siendo más rápido con la misma frecuencia cardíaca?”, “¿Puedes hacerme un análisis detallado de cómo rendí en mi última carrera?”, “¿Cuál es mi 10K más rápido este año frente a mi mejor marca histórica?” y “¿Cuánto me frenó el calor en la tirada larga del sábado?”"
+              },
+              {
+                "t": "p",
+                "x": "El despliegue se limitará al principio a Estados Unidos (US), y la integración estará disponible para los suscriptores de Strava independientemente de su plan de Gemini. Strava no ha anunciado cuándo podría ampliarse a otros países."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Strava, 운동 기록에\nGemini를 잇는다",
+          "body": "US Strava 구독자는 Google Gemini로 운동 기록을 분석받는다.",
+          "mini_headline": "Strava, Gemini 인사이트 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Strava는 이번 주 Google Gemini와의 AI 연동을 확대해, 구독자가 운동 기록을 바탕으로 맞춤형 인사이트를 받을 수 있게 했다."
+              },
+              {
+                "t": "p",
+                "x": "Strava는 몇 달 전 Model Context Protocol(MCP)을 활용한 Claude 연동을 출시해, 사용자가 Anthropic의 AI 어시스턴트와 자연어로 대화하며 운동 기록과 훈련 성과를 분석할 수 있게 했다. MCP는 AI 어시스턴트가 외부 앱과 서비스에 연결되도록 해 주는 개방형 표준으로, Anthropic이 만들었고 이후 Linux Foundation 산하 Agentic AI Foundation에 기증됐다."
+              },
+              {
+                "t": "p",
+                "x": "회사 설명에 따르면 Strava 구독자 가운데 “Strava를 Gemini에 직접 연결한 이들은 활동 기록에 기반해 더 맥락에 맞고 개인화된 답변을 받게 된다.” 회사는 이 연동이 전적으로 선택 사항이며 읽기 전용이라고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "연결하고 나면 사용자는 Gemini에 “같은 심박수에서 내가 더 빨라지고 있나?”, “지난 레이스에서 어떻게 달렸는지 자세히 분석해 줄 수 있어?”, “올해 가장 빠른 10K 기록과 역대 최고 기록을 비교하면?”, “토요일 장거리 달리기에서 더위 때문에 얼마나 느려졌지?” 같은 질문을 할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "출시는 우선 미국(US)으로 한정되며, Gemini 요금제와 관계없이 Strava 구독자라면 연동을 이용할 수 있다. Strava는 다른 국가로 언제 확대할지 발표하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "StravaがGemini\nと運動履歴を連携",
+          "body": "USのStrava会員はGoogle Geminiを連携し運動履歴から個別分析を得る。",
+          "mini_headline": "StravaにGeminiのインサイト",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Stravaは今週、Google GeminiとのAI連携を拡大し、会員が運動履歴に基づくパーソナライズされたインサイトを得られるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "Stravaは数カ月前、Model Context Protocol(MCP)を使ったClaudeとの連携を開始し、ユーザーがAnthropicのAIアシスタントとの自然言語の対話を通じて運動履歴やトレーニングの成果を分析できるようにした。MCPは、AIアシスタントが外部のアプリやサービスに接続できるようにするオープン標準で、Anthropicが作成し、のちにLinux FoundationのAgentic AI Foundationに寄贈された。"
+              },
+              {
+                "t": "p",
+                "x": "同社の説明によると、Stravaの会員のうち「StravaをGeminiに直接接続した人は、アクティビティ履歴に基づいた、より文脈に即したパーソナライズされた回答を得られる」。同社は、この連携は完全に任意で、読み取り専用だと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "接続後、ユーザーはGeminiに「同じ心拍数で速くなっている?」「前回のレースでの走りを詳しく分析してくれる?」「今年の10K 最速タイムと歴代最速を比べると?」「土曜日のロング走で暑さのせいでどれだけ遅くなった?」といった質問ができる。"
+              },
+              {
+                "t": "p",
+                "x": "提供はまずUS(米国)に限られ、Geminiのプランに関係なくStravaの会員なら利用できる。Stravaは他の国への拡大時期を発表していない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Strava接入Gemini\n分析你的运动记录",
+          "body": "US地区Strava订阅用户可接入Google Gemini，按运动记录获取个性化洞察。",
+          "mini_headline": "Strava新增Gemini洞察",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Strava本周扩大了与Google Gemini的AI集成，让订阅用户能够根据自己的运动记录获得个性化洞察。"
+              },
+              {
+                "t": "p",
+                "x": "几个月前，Strava推出了基于Model Context Protocol（MCP）的Claude集成，用户可以通过与Anthropic的AI助手进行自然语言对话，分析自己的运动记录和训练表现。MCP是一项开放标准（由Anthropic创建，后捐赠给Linux Foundation旗下的Agentic AI Foundation），可让AI助手连接外部应用和服务。"
+              },
+              {
+                "t": "p",
+                "x": "据该公司介绍，Strava订阅用户中“将Strava直接连接到Gemini的用户，将获得基于其活动记录、更具情境性和个性化的回答”。该公司补充说，这项集成完全可选，且为只读。"
+              },
+              {
+                "t": "p",
+                "x": "连接后，用户可以向Gemini提问，例如“在相同心率下我是不是变快了？”“你能详细分析一下我上一场比赛的表现吗？”“我今年最快的10K 成绩和历史最快相比如何？”以及“周六长距离跑时，高温让我慢了多少？”"
+              },
+              {
+                "t": "p",
+                "x": "该功能首先仅在US（美国）推出，无论使用哪种Gemini方案，Strava订阅用户均可使用。Strava尚未宣布何时扩展到其他国家。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Strava conecta Gemini\na tu historial de entrenamiento",
+          "body": "Los suscriptores de Strava en US ya pueden conectar Google Gemini y obtener análisis personalizados de su historial.",
+          "mini_headline": "Strava suma análisis con Gemini",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Strava amplió esta semana sus integraciones de AI con Google Gemini, lo que permite a los suscriptores obtener análisis personalizados basados en su historial de entrenamientos."
+              },
+              {
+                "t": "p",
+                "x": "Hace unos meses, Strava lanzó una integración con Claude mediante el Model Context Protocol (MCP), que permite a los usuarios analizar su historial de entrenamientos y su rendimiento mediante conversaciones en lenguaje natural con el asistente de AI de Anthropic. MCP es un estándar abierto (creado por Anthropic y donado después a la Agentic AI Foundation de la Linux Foundation) que permite a los asistentes de AI conectarse con apps y servicios externos."
+              },
+              {
+                "t": "p",
+                "x": "Según explicó la empresa, los suscriptores de Strava “que conecten Strava directamente con Gemini obtendrán respuestas más contextuales y personalizadas basadas en su historial de actividad”. La empresa añadió que la integración es totalmente opcional y de solo lectura."
+              },
+              {
+                "t": "p",
+                "x": "Una vez conectados, los usuarios pueden preguntar a Gemini cosas como “¿Estoy siendo más rápido con la misma frecuencia cardíaca?”, “¿Puedes hacerme un análisis detallado de cómo rendí en mi última carrera?”, “¿Cuál es mi 10K más rápido este año frente a mi mejor marca histórica?” y “¿Cuánto me frenó el calor en la tirada larga del sábado?”"
+              },
+              {
+                "t": "p",
+                "x": "El despliegue se limitará al principio a Estados Unidos (US), y la integración estará disponible para los suscriptores de Strava independientemente de su plan de Gemini. Strava no ha anunciado cuándo podría ampliarse a otros países."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "google-home-gemini-fix-oct",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Google Home 패치\n'이해 못 했다' 잡는다",
+      "body": "Gemini for Home 패치가 뜬금없는 '이해 못 했다' 응답 등을 고친다.",
+      "mini_headline": "Gemini for Home 버그 수정",
+      "tool": "Gadgets",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+            "cap": "google assistant 스마트 디스플레이 nest hub"
+          },
+          {
+            "t": "p",
+            "x": "Google의 최신 Gemini for Home 업데이트가 아무도 묻지 않았는데 스피커가 불쑥 “이해하지 못했어요”라고 말하던 문제 등 몇 가지를 고친다."
+          },
+          {
+            "t": "p",
+            "x": "Google이 오늘 시월 두 번째 Gemini for Home 업데이트를 내놨다. 몇 가지 수정 사항과 함께 Google Home 앱에 관한 긴 항목이 변경 내역에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "다만 Home 앱 안에서 Gemini와 관련해 따로 바뀐 것은 여섯 가지다. 그중 가장 눈에 띄는 수정이 하나 있다. 업데이트 게시글에 따르면 Google은 Home과 Nest 스피커/디스플레이가 무작위로 “죄송해요, 이해하지 못했어요”라고 말하는 버그를 알고 있었다. 아무 요청도 없는데 벌어지는 일이니 불안하게 느껴질 만하다. 이 이상한 버그는 이번 업데이트로 해결된다."
+          },
+          {
+            "t": "p",
+            "x": "다른 두 가지 수정은 Google Home 기기에서 Gemini가 사용자 말을 알아듣는 능력을 겨냥한다. 하나는 음악을 한 방에서 다른 방으로 옮겨 달라는 요청을 잘못 알아듣던 문제다. 다른 하나는 요청한 종류 대신 수면, 미디어, 일반 타이머를 잘못 조정하던 문제다. 두 기능 모두 이제 의도대로 작동한다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "스마트 디스플레이에서 더 안정적으로 작동하는 YouTube TV 명령, 방 사이에서 더 예측 가능해진 볼륨 조절, 알람과 타이머 볼륨이 제로로 설정되던 버그 수정도 변경 내역에 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "업데이트는 오늘부터 적용되지만 모든 사용자에게 퍼지기까지는 시간이 걸릴 수 있다. 이제 Gemini가 정말 이해하지 못했을 때만 그렇다고 말해 주길 바란다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google Home update targets\nGemini's 'I didn't understand'",
+          "body": "Google's Gemini for Home update targets a bug where speakers randomly say they didn't understand, plus other issues.",
+          "mini_headline": "Gemini for Home gets a fix",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant smart display nest hub"
+              },
+              {
+                "t": "p",
+                "x": "Google's latest Gemini for Home update targets a few issues, like one where speakers randomly blurt out “I didn't understand” when no one asks."
+              },
+              {
+                "t": "p",
+                "x": "The second October Gemini for Home update was released by Google today. It bundles a few fixes with a lengthy section in the changelog dedicated to the Google Home app."
+              },
+              {
+                "t": "p",
+                "x": "But there are six individual changes for Gemini within the Home app. One fix stands out the most, though. According to the update post, Google was aware that Home and Nest speakers/displays were facing a bug that would prompt them to say “Sorry, I didn't understand” at random. That would happen unprompted, which is understandably a little unsettling. That strange bug should be fixed in this new update."
+              },
+              {
+                "t": "p",
+                "x": "Further down, two fixes target Gemini's ability to understand users on Google Home devices. For one, it would misunderstand requests to move music from one room to another. In other cases, it would incorrectly adjust sleep, media, or normal timers instead of the requested type. Both of those features will reportedly work as intended going forward."
+              },
+              {
+                "t": "p",
+                "x": "The changelog also brings more reliable YouTube TV commands on smart displays, more predictable volume controls across rooms, and a fix for a bug where alarm and timer volumes were being set to zero."
+              },
+              {
+                "t": "p",
+                "x": "Updates should be live for users starting today, though it might take some time for them to roll out to everyone. Hopefully, Gemini will only let you know it doesn't understand if it genuinely doesn't understand."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google Home 패치\n'이해 못 했다' 잡는다",
+          "body": "Gemini for Home 패치가 뜬금없는 '이해 못 했다' 응답 등을 고친다.",
+          "mini_headline": "Gemini for Home 버그 수정",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant 스마트 디스플레이 nest hub"
+              },
+              {
+                "t": "p",
+                "x": "Google의 최신 Gemini for Home 업데이트가 아무도 묻지 않았는데 스피커가 불쑥 “이해하지 못했어요”라고 말하던 문제 등 몇 가지를 고친다."
+              },
+              {
+                "t": "p",
+                "x": "Google이 오늘 시월 두 번째 Gemini for Home 업데이트를 내놨다. 몇 가지 수정 사항과 함께 Google Home 앱에 관한 긴 항목이 변경 내역에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "다만 Home 앱 안에서 Gemini와 관련해 따로 바뀐 것은 여섯 가지다. 그중 가장 눈에 띄는 수정이 하나 있다. 업데이트 게시글에 따르면 Google은 Home과 Nest 스피커/디스플레이가 무작위로 “죄송해요, 이해하지 못했어요”라고 말하는 버그를 알고 있었다. 아무 요청도 없는데 벌어지는 일이니 불안하게 느껴질 만하다. 이 이상한 버그는 이번 업데이트로 해결된다."
+              },
+              {
+                "t": "p",
+                "x": "다른 두 가지 수정은 Google Home 기기에서 Gemini가 사용자 말을 알아듣는 능력을 겨냥한다. 하나는 음악을 한 방에서 다른 방으로 옮겨 달라는 요청을 잘못 알아듣던 문제다. 다른 하나는 요청한 종류 대신 수면, 미디어, 일반 타이머를 잘못 조정하던 문제다. 두 기능 모두 이제 의도대로 작동한다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "스마트 디스플레이에서 더 안정적으로 작동하는 YouTube TV 명령, 방 사이에서 더 예측 가능해진 볼륨 조절, 알람과 타이머 볼륨이 제로로 설정되던 버그 수정도 변경 내역에 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "업데이트는 오늘부터 적용되지만 모든 사용자에게 퍼지기까지는 시간이 걸릴 수 있다. 이제 Gemini가 정말 이해하지 못했을 때만 그렇다고 말해 주길 바란다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google Home更新\n「理解できない」を修正",
+          "body": "Gemini for Home更新が、突然「理解できない」と話す不具合などを直す。",
+          "mini_headline": "Gemini for Homeの不具合を修正",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant スマートディスプレイ nest hub"
+              },
+              {
+                "t": "p",
+                "x": "GoogleのGemini for Homeの最新アップデートは、誰も話しかけていないのにスピーカーが突然「理解できませんでした」と口にする問題など、いくつかの問題に対処する。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは本日、十月二回目となるGemini for Homeのアップデートを公開した。いくつかの修正に加え、変更履歴にはGoogle Homeアプリに関する長いセクションが含まれている。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、Homeアプリ内のGeminiに関する個別の変更は六つある。中でも最も目を引く修正が一つある。アップデートの投稿によると、GoogleはHomeとNestのスピーカー/ディスプレイが不意に「すみません、理解できませんでした」と話すバグを把握していた。何も話しかけていないのに起きるため、少し不気味に感じるのも無理はない。この奇妙なバグは今回のアップデートで修正されるはずだ。"
+              },
+              {
+                "t": "p",
+                "x": "さらに、二つの修正はGoogle Homeデバイス上でGeminiがユーザーを理解する能力に関わるものだ。一つは、音楽をある部屋から別の部屋へ移す依頼を誤解してしまう問題。別のケースでは、指定した種類ではなく、スリープ、メディア、通常のタイマーを誤って調整していた。いずれの機能も今後は意図どおりに動作するという。"
+              },
+              {
+                "t": "p",
+                "x": "変更履歴には、スマートディスプレイでのYouTube TVコマンドの信頼性向上、部屋をまたいだ音量調整の予測しやすさの改善、アラームとタイマーの音量がゼロに設定されてしまうバグの修正も含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "アップデートは本日から配信されるが、全ユーザーに行き渡るまでには時間がかかる場合がある。Geminiが理解できないと告げるのは、本当に理解できないときだけになってほしいものだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google Home更新\n修复Gemini“没听懂”",
+          "body": "Google的Gemini for Home更新修复了音箱随机说“没听懂”等问题。",
+          "mini_headline": "Gemini for Home获修复",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant 智能显示屏 nest hub"
+              },
+              {
+                "t": "p",
+                "x": "Google最新的Gemini for Home更新解决了几个问题，其中之一是音箱会在无人询问时突然冒出一句“我没听懂”。"
+              },
+              {
+                "t": "p",
+                "x": "Google今天发布了十月的第二次Gemini for Home更新。此次更新包含若干修复，更新日志中还有很长一部分专门介绍Google Home应用。"
+              },
+              {
+                "t": "p",
+                "x": "不过，Home应用中针对Gemini的单独改动共有六项，其中有一项修复最为突出。根据更新说明，Google已经知道Home和Nest音箱/显示屏存在一个漏洞，会让它们随机说出“抱歉，我没听懂”。这种情况在无人提示时发生，难免让人有些不安。这个奇怪的漏洞应该会在此次新更新中得到修复。"
+              },
+              {
+                "t": "p",
+                "x": "此外，有两项修复针对Gemini在Google Home设备上理解用户的能力。其一，它会误解把音乐从一个房间移到另一个房间的请求。其二，它会错误地调整睡眠、媒体或普通计时器，而不是用户要求的类型。据称这两项功能今后都将按预期工作。"
+              },
+              {
+                "t": "p",
+                "x": "更新日志还让智能显示屏上的YouTube TV指令更加可靠，让跨房间的音量控制更可预测，并修复了闹钟和计时器音量被设为零的漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "更新从今天开始向用户推送，但可能需要一段时间才能覆盖所有人。希望今后Gemini只在真正没听懂时才告诉你它没听懂。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Home corrige el error\n'No entendí' de Gemini",
+          "body": "Una actualización de Gemini for Home corrige el fallo de altavoces que decían al azar no entender, entre otros.",
+          "mini_headline": "Gemini for Home recibe correcciones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant pantalla inteligente nest hub"
+              },
+              {
+                "t": "p",
+                "x": "La última actualización de Gemini for Home de Google resuelve varios problemas, como uno por el que los altavoces soltaban de repente “No entendí” sin que nadie les preguntara nada."
+              },
+              {
+                "t": "p",
+                "x": "Google publicó hoy la segunda actualización de octubre de Gemini for Home. Reúne varias correcciones junto con una extensa sección del registro de cambios dedicada a la app Google Home."
+              },
+              {
+                "t": "p",
+                "x": "Pero hay seis cambios individuales para Gemini dentro de la app Home. Aun así, una corrección destaca sobre las demás. Según la publicación de la actualización, Google sabía que los altavoces/pantallas Home y Nest sufrían un error que los llevaba a decir “Lo siento, no entendí” al azar. Ocurría sin que nadie les hablara, lo que resulta comprensiblemente algo inquietante. Ese extraño error debería quedar corregido con esta nueva actualización."
+              },
+              {
+                "t": "p",
+                "x": "Más abajo, dos correcciones apuntan a la capacidad de Gemini para entender a los usuarios en dispositivos Google Home. Por un lado, malinterpretaba las solicitudes para mover la música de una habitación a otra. En otros casos, ajustaba por error temporizadores de sueño, multimedia o normales en lugar del tipo solicitado. Según se informa, ambas funciones operarán como se espera a partir de ahora."
+              },
+              {
+                "t": "p",
+                "x": "El registro de cambios también incluye comandos de YouTube TV más fiables en pantallas inteligentes, controles de volumen más predecibles entre habitaciones y la corrección de un error por el que el volumen de alarmas y temporizadores se ponía en cero."
+              },
+              {
+                "t": "p",
+                "x": "Las actualizaciones deberían estar disponibles para los usuarios desde hoy, aunque podrían tardar un tiempo en llegar a todos. Con suerte, Gemini solo dirá que no entiende cuando de verdad no entienda."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Google Home 패치\n'이해 못 했다' 잡는다",
+          "body": "Gemini for Home 패치가 뜬금없는 '이해 못 했다' 응답 등을 고친다.",
+          "mini_headline": "Gemini for Home 버그 수정",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant 스마트 디스플레이 nest hub"
+              },
+              {
+                "t": "p",
+                "x": "Google의 최신 Gemini for Home 업데이트는 아무도 묻지 않았는데 스피커가 불쑥 “이해하지 못했어요”라고 말하는 문제 등 몇 가지 문제를 해결한다."
+              },
+              {
+                "t": "p",
+                "x": "Google이 오늘 시월의 두 번째 Gemini for Home 업데이트를 내놨다. 몇 가지 수정 사항과 함께, 변경 내역에는 Google Home 앱에 관한 긴 항목이 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "다만 Home 앱 안에서 Gemini 관련 개별 변경 사항은 여섯 가지다. 그중 가장 눈에 띄는 수정이 하나 있다. 업데이트 게시글에 따르면, Google은 Home과 Nest 스피커/디스플레이가 무작위로 “죄송해요, 이해하지 못했어요”라고 말하는 버그를 알고 있었다. 아무 요청 없이 일어나는 일이라 다소 불안하게 느껴지는 것도 당연하다. 이 이상한 버그는 이번 업데이트로 해결될 것이다."
+              },
+              {
+                "t": "p",
+                "x": "이어서 두 가지 수정은 Google Home 기기에서 Gemini가 사용자를 이해하는 능력을 겨냥한다. 하나는 음악을 한 방에서 다른 방으로 옮겨 달라는 요청을 잘못 이해하던 문제다. 또 다른 경우에는 요청한 종류 대신 수면, 미디어, 일반 타이머를 잘못 조정하곤 했다. 두 기능 모두 앞으로는 의도대로 작동할 것이라고 한다."
+              },
+              {
+                "t": "p",
+                "x": "변경 내역에는 스마트 디스플레이에서 더 안정적인 YouTube TV 명령, 방 사이에서 더 예측 가능한 볼륨 조절, 알람과 타이머 볼륨이 제로로 설정되던 버그 수정도 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "업데이트는 오늘부터 적용되지만 모든 사용자에게 배포되기까지는 시간이 걸릴 수 있다. 이제 Gemini가 정말로 이해하지 못했을 때만 그렇다고 알려 주기를 바란다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google Home更新\n「理解できない」を修正",
+          "body": "Gemini for Home更新が、突然「理解できない」と話す不具合などを直す。",
+          "mini_headline": "Gemini for Homeの不具合を修正",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant スマートディスプレイ nest hub"
+              },
+              {
+                "t": "p",
+                "x": "GoogleのGemini for Homeの最新アップデートは、誰も話しかけていないのにスピーカーが突然「理解できませんでした」と口にする問題など、いくつかの問題に対処する。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは本日、十月二回目となるGemini for Homeのアップデートを公開した。いくつかの修正に加え、変更履歴にはGoogle Homeアプリに関する長いセクションが含まれている。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、Homeアプリ内のGeminiに関する個別の変更は六つある。中でも最も目を引く修正が一つある。アップデートの投稿によると、GoogleはHomeとNestのスピーカー/ディスプレイが不意に「すみません、理解できませんでした」と話すバグを把握していた。何も話しかけていないのに起きるため、少し不気味に感じるのも無理はない。この奇妙なバグは今回のアップデートで修正されるはずだ。"
+              },
+              {
+                "t": "p",
+                "x": "さらに、二つの修正はGoogle Homeデバイス上でGeminiがユーザーを理解する能力に関わるものだ。一つは、音楽をある部屋から別の部屋へ移す依頼を誤解してしまう問題。別のケースでは、指定した種類ではなく、スリープ、メディア、通常のタイマーを誤って調整していた。いずれの機能も今後は意図どおりに動作するという。"
+              },
+              {
+                "t": "p",
+                "x": "変更履歴には、スマートディスプレイでのYouTube TVコマンドの信頼性向上、部屋をまたいだ音量調整の予測しやすさの改善、アラームとタイマーの音量がゼロに設定されてしまうバグの修正も含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "アップデートは本日から配信されるが、全ユーザーに行き渡るまでには時間がかかる場合がある。Geminiが理解できないと告げるのは、本当に理解できないときだけになってほしいものだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google Home更新\n修复Gemini“没听懂”",
+          "body": "Google的Gemini for Home更新修复了音箱随机说“没听懂”等问题。",
+          "mini_headline": "Gemini for Home获修复",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant 智能显示屏 nest hub"
+              },
+              {
+                "t": "p",
+                "x": "Google最新的Gemini for Home更新解决了几个问题，其中之一是音箱会在无人询问时突然冒出一句“我没听懂”。"
+              },
+              {
+                "t": "p",
+                "x": "Google今天发布了十月的第二次Gemini for Home更新。此次更新包含若干修复，更新日志中还有很长一部分专门介绍Google Home应用。"
+              },
+              {
+                "t": "p",
+                "x": "不过，Home应用中针对Gemini的单独改动共有六项，其中有一项修复最为突出。根据更新说明，Google已经知道Home和Nest音箱/显示屏存在一个漏洞，会让它们随机说出“抱歉，我没听懂”。这种情况在无人提示时发生，难免让人有些不安。这个奇怪的漏洞应该会在此次新更新中得到修复。"
+              },
+              {
+                "t": "p",
+                "x": "此外，有两项修复针对Gemini在Google Home设备上理解用户的能力。其一，它会误解把音乐从一个房间移到另一个房间的请求。其二，它会错误地调整睡眠、媒体或普通计时器，而不是用户要求的类型。据称这两项功能今后都将按预期工作。"
+              },
+              {
+                "t": "p",
+                "x": "更新日志还让智能显示屏上的YouTube TV指令更加可靠，让跨房间的音量控制更可预测，并修复了闹钟和计时器音量被设为零的漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "更新从今天开始向用户推送，但可能需要一段时间才能覆盖所有人。希望今后Gemini只在真正没听懂时才告诉你它没听懂。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Home corrige el error\n'No entendí' de Gemini",
+          "body": "Una actualización de Gemini for Home corrige el fallo de altavoces que decían al azar no entender, entre otros.",
+          "mini_headline": "Gemini for Home recibe correcciones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&strip=all&w=1600",
+                "cap": "google assistant pantalla inteligente nest hub"
+              },
+              {
+                "t": "p",
+                "x": "La última actualización de Gemini for Home de Google resuelve varios problemas, como uno por el que los altavoces soltaban de repente “No entendí” sin que nadie les preguntara nada."
+              },
+              {
+                "t": "p",
+                "x": "Google publicó hoy la segunda actualización de octubre de Gemini for Home. Reúne varias correcciones junto con una extensa sección del registro de cambios dedicada a la app Google Home."
+              },
+              {
+                "t": "p",
+                "x": "Pero hay seis cambios individuales para Gemini dentro de la app Home. Aun así, una corrección destaca sobre las demás. Según la publicación de la actualización, Google sabía que los altavoces/pantallas Home y Nest sufrían un error que los llevaba a decir “Lo siento, no entendí” al azar. Ocurría sin que nadie les hablara, lo que resulta comprensiblemente algo inquietante. Ese extraño error debería quedar corregido con esta nueva actualización."
+              },
+              {
+                "t": "p",
+                "x": "Más abajo, dos correcciones apuntan a la capacidad de Gemini para entender a los usuarios en dispositivos Google Home. Por un lado, malinterpretaba las solicitudes para mover la música de una habitación a otra. En otros casos, ajustaba por error temporizadores de sueño, multimedia o normales en lugar del tipo solicitado. Según se informa, ambas funciones operarán como se espera a partir de ahora."
+              },
+              {
+                "t": "p",
+                "x": "El registro de cambios también incluye comandos de YouTube TV más fiables en pantallas inteligentes, controles de volumen más predecibles entre habitaciones y la corrección de un error por el que el volumen de alarmas y temporizadores se ponía en cero."
+              },
+              {
+                "t": "p",
+                "x": "Las actualizaciones deberían estar disponibles para los usuarios desde hoy, aunque podrían tardar un tiempo en llegar a todos. Con suerte, Gemini solo dirá que no entiende cuando de verdad no entienda."
               }
             ]
           }

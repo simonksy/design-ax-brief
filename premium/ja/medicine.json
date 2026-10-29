@@ -2663,6 +2663,130 @@
           "x": "STARで特定された精子は、回収精子をICSIまたは凍結保存に用いた例で少なくとも三件の出生につながった。大きな課題は使いやすさで、STARの運用には高度な訓練を受けた技術者が必要だ。"
         }
       ]
+    },
+    "medicine/nature-cancer-irae-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "免疫関連有害事象（irAEs）は免疫チェックポイント阻害薬を投与された患者の最大40%に起こるが、その特定には手間がかかり一貫性にも欠ける手作業のカルテレビューが必要だ。著者らは、臨床記録から六種類のirAEについて有無、時間的関係、重症度グレード、帰属、確実性を抽出するエージェント型大規模言語モデルシステムを開発し、評価した。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
+          "cap": "Fig. 1: LLM-basedのエージェント型irAE検出システムに対する多次元検証フレームワーク。"
+        },
+        {
+          "t": "p",
+          "x": "後ろ向き評価では、現在のイベント検出でマクロ平均F1が0.92、多クラスの重症度グレード分類で0.66を達成し、自己一貫性によってF1は0.14向上した。最も性能の高い構成のコストはノートあたり約US$0.02だった。3か月間の前向きサイレント運用では、二値F1は0.72–0.79だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
+          "cap": "Fig. 2: irAEの検出、グレード分類、帰属、確実性評価のための多段階エージェント型アーキテクチャ。"
+        },
+        {
+          "t": "p",
+          "x": "臨床試験スタッフを対象としたランダム化クロスオーバー試験で、エージェントによる支援はアノテーション時間を2.71分短縮し（P < 0.001）、完全一致の正確度を高め（オッズ比1.45、95%信頼区間1.01–2.08、P = 0.045）、アノテーター間の一致度を改善した（Krippendorff's αは0.22–0.51から0.82–0.85へ）。"
+        }
+      ]
+    },
+    "medicine/nyu-langone-openevidence-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenEvidenceは、NYU Langone Healthとの提携によりNew York Cityでの存在感を広げる。AIを活用した（AI-powered）臨床エビデンスプラットフォームはNYU LangoneのEpic EHRワークフローに直接組み込まれ、病院、外来ネットワーク、Family Health Centersにまたがり、NYU Grossman School of MedicineとNYU Grossman Long Island School of Medicineで研修する医師にも届く。NYU Langoneの外来受診は年間1200万件を超え、医師・教員は6,000人を超える。"
+        },
+        {
+          "t": "p",
+          "x": "臨床医はEpicのワークフローを離れることなく、複雑な臨床上の質問を自然言語で尋ね、査読済みの医学文献に基づき、患者自身の臨床記録と照らし合わせた回答を得られるようになる。創業者でCEOのDaniel Nadler氏は「NYU LangoneのカルテにOpenEvidenceを組み込むことは、このシステムが毎年支える一千二百万件の受診の一つひとつに、世界の医学文献が同席することを意味する」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、U.S.の医師の約三分の二が同社のプラットフォームを利用しており、10月には認証済みのU.S.の臨床医120万人が4500万回利用した。すでにNewYork-PresbyterianとMount Sinaiで導入され、Memorial Sloan Ketteringとはがん領域で提携している。JAMAの研究では、2024年1月から2026年6月までに100万人近いU.S.の臨床医が2億7100万件のクエリを送信し、その51.9%が臨床意思決定に関するものだった。"
+        }
+      ]
+    },
+    "medicine/doximity-dosing-error-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Doximityが公表した研究によると、同社の用量検証ツールは、誤りだらけだと同社が指摘する汎用AIモデルを上回った。Doximityは、2026年に公開された大規模言語モデル数種を、2,200種を超えるFDA-approved（FDA承認）薬を対象とした8,500問を超える臨床用量の質問で試験したという。"
+        },
+        {
+          "t": "p",
+          "x": "承認されたばかりの薬では、誤りが生じるオッズが五倍だった。検出された誤りのうち13.2%は軽微、43%は重大、3.4%は致死的となりうるものだった。最も多い誤りは、質問に情報が示されていても、年齢、腎機能、薬物相互作用に応じて用量を調整しないことだった。"
+        },
+        {
+          "t": "p",
+          "x": "Doximityは新しい検証ツールDoseCheckの正答率が99.9%だったと主張し、Doximity Ask内の安全網と位置づけている。Doximityの最高AI研究責任者Dr. Louis-Antoine Mullieは「我々が見た失敗のパターンは用量に限ったものではない」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "この研究は、AnthropicとOpenAIが医療分野に参入するなかで発表された。研究結果は割れている。StanfordとHarvardの研究者は臨床特化型ツールが汎用モデルを上回ったとしたが、この夏には別のチームが逆の結果を示した。"
+        }
+      ]
+    },
+    "medicine/hoppr-msk-xray-drafting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
+          "cap": "大腿骨、脛骨、腓骨、膝蓋骨が写る人の膝関節の前後方向X-ray画像"
+        },
+        {
+          "t": "p",
+          "x": "HOPPRは、FS MSK Whole-Body Narrative Modelのベータ版を公開する。検査ごとに最大三方向の画像を用いて、筋骨格（MSK）X線写真の所見の下書きテキストを生成する視覚言語基盤モデルである。"
+        },
+        {
+          "t": "p",
+          "x": "ベンダーによると、このモデルは脊椎、胸郭と胸壁、上肢、骨盤と下肢を含む外来MSK検査約674,000件で学習した。正常な解剖ではなく異常の記述に重点を置く。HOPPRは、骨折、変性性の関節・脊椎変化、アライメント、インプラントなど26のMSK所見カテゴリーでモデルを評価したとしている。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、このモデルは放射線レポートやワークフローのアプリケーションを開発する開発者向けのソフトウェアコンポーネントとして設計されており、HOPPRのForward Deployed Servicesチームが各組織のデータとワークフローに合わせてカスタマイズし、統合する。同社は、U.S. Food and Drug Administration（FDA）の承認は受けておらず、診断用途を意図したものではないとしている。"
+        }
+      ]
+    },
+    "medicine/medicine-zocdoc-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "オンライン予約サービスのZocdocは、AIエージェントが患者に代わって医療提供者を探し、予約できるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "同社が水曜日に明らかにしたところによると、エージェントはアクセスを得るためにZocdocに登録し、オンラインプラットフォーム上で予約や取り消しを行う前に患者の同意を得る必要がある。Google Gemini、Amazon Health AI、テキストと通話で動くAIエージェントInstinctがすでに接続しており、ほかのエージェントも人の手を借りるかどうかにかかわらずアクセスを申請できる。"
+        },
+        {
+          "t": "p",
+          "x": "「当社のようにエージェントを歓迎するのは、少し逆張りの動きだと言える」と、Zocdocの創業者兼CEOであるDr. Oliver Kharrazは述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+          "cap": "Zocdocによると、同社プラットフォーム上のAIエージェントのトラフィックは七月以降で30倍近くに増えた。同社は今、予約プラットフォームをエージェントに直接開放する。"
+        },
+        {
+          "t": "p",
+          "x": "承認されたエージェントはZocdocのAIバックエンドに接続し、医療提供者のディレクトリを調べ、臨床医の空き状況を確認し、保険を照合して予約できる。最終的な決定の前には患者に確認をとる。"
+        },
+        {
+          "t": "p",
+          "x": "その見返りとして、Zocdocはエージェントに患者の同意を得ることと、患者と医療提供者のデータを保護することを求める。エージェントはそのデータで自らを学習させることも、転売や再公開も認められない。Zocdocは、エージェントにこの合意を守らせる方法を明らかにしていない。"
+        },
+        {
+          "t": "p",
+          "x": "「当社の使命は患者に力を与えることだ。患者が予約をAIエージェントに任せたいなら、望む通りの摩擦のない医療へのアクセスを提供すべきだ」とKharrazは語った。"
+        }
+      ]
     }
   }
 }
