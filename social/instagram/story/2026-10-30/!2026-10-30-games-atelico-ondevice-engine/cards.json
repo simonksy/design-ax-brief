@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "issue": "게임 속 AI, 서버 없이 플레이어 기기에서 돈다",
+    "date": "2026.10.29",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "GamesBeat(Dean Takahashi, 2026.10.29 17:00 UTC, exclusive interview) 원문 대조. 초안 날짜 10.30 → 기사 게시일 10.29로 정정. $1M/day는 '사용자 100만 명 기준 클라우드 비용이 될 수 있다'는 Molino 발언, 0은 기기 처리 시 스튜디오 추론 비용. 1년 반 개발·Bobium Brawlers 미출시·고객사 미공개도 원문. 영상은 Studio Atelico 공식 YouTube 'AI Engine Debut'(xLwBBlMYokg, 기사 임베드, 2026.10.29) 33–79초를 잘라 src/engine.mp4(1280×720, 무음, 워터마크 없음). 사진은 기사 대표 이미지 Bobium Brawlers 키아트(출처: Studio Atelico, 크레딧 줄 없음).",
+    "sources": [
+      "GamesBeat — Studio Atelico launches AI engine built to run on-device inside games | exclusive interview (2026.10.29)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/engine.mp4",
+      "start": 1,
+      "dur": 8,
+      "eyebrow": "AI × 게임 · 2026.10.29",
+      "headline": "게임 속 AI, 서버 없이 돈다",
+      "body": "Studio Atelico가 언어 모델·이미지 생성·음성을 플레이어 기기에서 돌리는 AI 엔진을 얼리 액세스로 열었다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "media": "src/bobium.jpg",
+      "eyebrow": "무슨 일인가",
+      "headline": "자기 게임 만들다 나온 엔진",
+      "body": "데뷔작 Bobium Brawlers를 만들며 1년 반 동안 다듬었다. 말로 캐릭터를 설명하면 폰이 초상화와 덱을 그려 낸다.",
+      "foot": "2026.10.29",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/engine.mp4",
+      "start": 37,
+      "dur": 7,
+      "eyebrow": "어떻게 돌아가나",
+      "headline": "렌더링 옆에서 함께 돈다",
+      "body": "Unity·Unreal·Godot에 붙여 쓴다. 자체 스케줄러 CGS가 추론을 렌더링과 나란히, 프레임 드롭 없이 돌린다.",
+      "foot": "2026.10.29",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "하루 $1M",
+      "stat_arrow": "기기에서 돌리면",
+      "stat_bottom": "0",
+      "stat_strike": true,
+      "eyebrow": "짚을 대목",
+      "headline": "클라우드면 하루 100만 달러",
+      "body": "사용자 100만 명을 클라우드로 받으면 하루 100만 달러가 들 수 있다고 Molino는 말한다. 기기에서 돌리면 스튜디오 몫은 0이다.",
+      "foot": "2026.10.29",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "성공하는 스튜디오는 AI를 가장 많이 쓰는 곳이 아닐 겁니다. AI를 온전히 플레이어 경험에 쓰는 곳일 겁니다.",
+      "quote_by": "Piero Molino · Studio Atelico CEO",
+      "eyebrow": "그래서 지금",
+      "headline": "많이 쓴다고 이기진 않는다",
+      "body": "공개한 고객사는 아직 없다. 비용 걱정이 사라진 자리에서 남는 질문은 하나, AI를 어디에 쓰느냐다.",
+      "foot": "2026.10.29",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
