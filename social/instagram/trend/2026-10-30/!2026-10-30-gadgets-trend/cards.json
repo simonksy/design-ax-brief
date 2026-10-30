@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "AI 안경, 판이 깔린다",
+    "date": "2026.10.30",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조(9to5Google·Notebookcheck 2건·Digital Trends 모두 curl 확인). XREAL Aura는 10-29 story로 이미 올라가 빼고, 같은 전선의 아카이브 카드 Ray-Ban Meta 학습 제외 설정(Notebookcheck 10.26 10:00 CET)으로 바꿈. 날짜는 원문 게재일(Even 10.26 16:41 UTC, Rokid 10.28 19:20 CET, Digital Trends 10.28 12:38 PT). 수치 9월 24일·2025년 4월, 2.4.0·최대 10개·Even AI 2.0, 210→263mAh·Codex, 에뮬레이터·Jetpack XR SDK 정식판 확인. Even 사진은 9to5Google 워터마크가 4:5 크롭에서 잘려 stat으로 바꿈. Ray-Ban 사진은 기사 대표 이미지(Pexels, 사진에 박힌 크레디트 없음).",
+    "sources": [
+      "Notebookcheck — Ray-Ban Meta: How to stop your glasses from training AI (2026.10.26)",
+      "9to5Google — Major Even Realities G2 smart glasses update adds Conversate 'Pro Mode,' Knowledge Base (2026.10.26)",
+      "Notebookcheck — Rokid Glasses 2 launch with upgraded design, bigger battery, and Dolby Audio support (2026.10.28)",
+      "Digital Trends — Google's new Android XR tools let developers test apps without needing to buy expensive smart glasses (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.26~10.28",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "학습 설정",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.26",
+          "t": "기억 AI",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.28",
+          "t": "2세대",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.28",
+          "t": "개발 도구",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 안경은 이제 기기 한 대가 아니라 데이터·앱·도구가 함께 크는 판이다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 안경,\n판이 깔린다",
+      "body": "하나씩 보면 제품 소식이다. 그런데 사흘 새 데이터 설정, 업데이트, 새 안경, 개발 도구가 한꺼번에 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "안경이 본 장면,\n학습서 뺀다",
+      "body": "Ray-Ban Meta는 9월 24일부터 AI 요청 사진을 학습에 안 쓰게 끌 수 있다. 미국에선 음성 저장을 못 끈다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
+      "_id": "gadgets-rayban-meta-training",
+      "media": "pipeline/media/gadgets-rayban-meta-training.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "안경이\n내 기록을 기억",
+      "body": "G2 2.4.0 업데이트에 Knowledge Base가 생겼다. 골라 올린 Conversate 기록을 Even AI 2.0이 맥락으로 쓴다.",
+      "foot": "2026.10.26",
+      "_src": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+      "_id": "gadgets-even-g2-update",
+      "stat_top": "Conversate 기록",
+      "stat_arrow": "처음 설정 때 올릴 수 있는 수",
+      "stat_bottom": "최대 10개",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "2세대 안경,\n에이전트까지",
+      "body": "Rokid Glasses 2는 배터리를 210mAh에서 263mAh로 키우고 Codex 같은 데스크톱 에이전트를 지원한다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html",
+      "_id": "rokid-glasses2-microled",
+      "media": "pipeline/media/rokid-glasses2-microled.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "안경 없이\n안경 앱을 시험",
+      "body": "Android XR 에뮬레이터와 Jetpack XR SDK가 정식판이 됐다. 안경이 깔리기 전에 앱부터 쌓을 수 있다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
+      "_id": "android-xr-cli-devtools",
+      "media": "pipeline/media/android-xr-cli-devtools.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
