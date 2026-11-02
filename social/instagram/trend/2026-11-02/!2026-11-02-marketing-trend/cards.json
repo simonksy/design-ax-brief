@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "issue": "AI 답변이 광고 지면이 된다",
+    "date": "2026.11.02",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 직접 대조(SER 4건·Google 블로그 curl로 열림). 게재일 10.26·10.28·10.29·10.30·10.30 확인 — 첫 장 '닷새'는 10.26~10.30이라 맞지만, '세 곳이 모두 광고를 넣었다'는 과장(Bing은 제보 스크린숏뿐, 기자 재현 못 함; ChatGPT 26개국 확대는 SER도 '좀 묵은 소식')이라 '광고 소식이 잇따랐다'로 고침. Bing 스크린숏에 제보자 워터마크(b4k_khushal)가 커서 quote 카드로 바꿈. 10개국·질문 3배·멀티턴(미국)·26개국·89개국·10만 광고주·Google 대변인 확인 발언 대조함.",
+    "sources": [
+      "Search Engine Roundtable — ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP (2026.10.26)",
+      "Google Ads & Commerce Blog — Ads in AI Mode expand to 10 new countries (2026.10.28)",
+      "Search Engine Roundtable — Google AI Mode Tests Blending All Products With Sponsored Products (2026.10.29)",
+      "Search Engine Roundtable — Microsoft Bing Showing Ads Within Copilot AI Overviews (2026.10.30)",
+      "Search Engine Roundtable — ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More (2026.10.30)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 10.26~10.30",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "DSP 연동",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.28",
+          "t": "10개국",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.29",
+          "t": "섞인 상품",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.30",
+          "t": "Bing",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.30",
+          "t": "89개국",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "AI 답변 화면이 새 광고 지면이 된다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "AI 답변 속으로\n광고가 들어온다",
+      "body": "한 건씩 보면 작은 변화다. 그런데 닷새 동안 ChatGPT·Google·Bing의 AI 답변 속 광고 소식이 잇따랐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "ChatGPT 광고,\nAmazon DSP로",
+      "body": "일부 ChatGPT 광고 클릭이 Amazon 클릭 추적 서버를 거친다는 관찰이 나왔다. 연동 방식은 공개되지 않았다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
+      "_id": "marketing-chatgpt-ads-amazon-dsp",
+      "media": "pipeline/media/marketing-chatgpt-ads-amazon-dsp.png"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "AI Mode 광고,\n10개국으로",
+      "body": "Google이 호주·캐나다·인도 등 10개국에 AI Mode 광고를 열고, 미국엔 후속 질문에도 붙는 멀티턴 광고를 낸다.",
+      "foot": "2026.10.28",
+      "_src": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "_id": "aimodeads",
+      "stat_top": "AI Mode 질문 길이",
+      "stat_arrow": "일반 검색과 비교하면",
+      "stat_bottom": "평균 3배",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.29",
+      "headline": "오가닉 사이에\n스폰서 상품",
+      "body": "Google이 AI Mode 상품 캐러셀에 오가닉 결과와 쇼핑 광고를 섞는 실험을 확인했다. 광고엔 'Sponsored'가 붙는다.",
+      "foot": "2026.10.29",
+      "_src": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
+      "_id": "google-aimode-sponsored-blend",
+      "media": "pipeline/media/google-aimode-sponsored-blend.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.30",
+      "headline": "Bing AI 답변에도\n광고가 떴다",
+      "body": "Copilot 기반 Bing AI Overviews에 광고가 뜬 화면이 X에 올라왔다. 기자는 아직 직접 띄우지 못했다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
+      "_id": "bing-copilot-overview-ads",
+      "quote": "Bing이 AI Overviews 안에\nSponsored 결과를\n보여 주고 있다",
+      "quote_by": "Khushal Bherwani · X 게시물"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "ChatGPT 광고,\n89개국으로",
+      "body": "OpenAI가 광고주 메일로 26개국 추가와 넓은 광고 카드를 알렸다. 광고주만 10만 곳, 대화창도 이제 지면이다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+      "_id": "chatgpt-ads-26-countries",
+      "stat_top": "26개국 추가",
+      "stat_arrow": "ChatGPT Ads 제공 국가",
+      "stat_bottom": "89개국",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

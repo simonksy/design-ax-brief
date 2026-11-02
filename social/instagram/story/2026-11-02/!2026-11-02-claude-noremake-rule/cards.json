@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "issue": "Claude Code, 남의 게임은 다시 만들지 않는다",
+    "date": "2026.10.30",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "Game Developer(Bryant Francis, 2026.10.30 18:52 UTC 게재, 10.31 수정) 원문 대조. 'Update' 문구와 달리 Anthropic의 확인은 대변인이 Addy Osmani(Anthropic member of technical staff)의 X 글을 안내한 것 — 인용은 Osmani로 돌렸다. Osmani 표현은 '프롬프트에 두 문장을 넣어 steer'이므로 초안의 '금지령'은 버리고 '안 만든다/비켜 가게'로 고쳤다. 규칙 발견(10월 27일 배포, tengu_heron_brook, 끌 방법 없음)은 X 사용자 Chasm의 주장으로 돌렸다. Digital Sun은 이 기사 표현대로 '공개 플레이테스트 취소'. 날짜는 브리프 날짜(11.02)가 아니라 기사 게재일 10.30. 미디어: 표지는 기사 대표 이미지(Image via Anthropic, pipeline/media, 크레딧 줄 없음). 4장 영상은 Digital Sun 공식 ReVamp Steam 공개 트레일러(app 3295000) 40–48초 게임플레이 구간, 로고·자막 없음. ReVamp 기사 대표 이미지는 10-24 games-trend 회차가 이미 써서 쓰지 않았다. X 게시물 캡처(프로필 사진 포함)는 쓰지 않았다.",
+    "sources": [
+      "Game Developer — Anthropic appears to have ordered AI tool Claude to stop remaking video games (2026.10.30)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 게임 · 2026.10.30",
+      "headline": "Claude, 남의 게임은 안 베낀다",
+      "body": "Anthropic이 Claude Code 프롬프트에 두 문장을 더했다. 남의 특정 게임을 그대로 재현하는 쪽은 비켜 가라는 지시다.",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/claude-noremake-rule.jpg",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "기존 특정 게임의 재현작은 만들지 않는다. 이름을 바꾸거나 오리지널이라고 불러도 마찬가지다.",
+      "quote_by": "Claude Code 규칙 · tengu_heron_brook",
+      "eyebrow": "무슨 일인가",
+      "headline": "사용자가 먼저 찾아냈다",
+      "body": "X 사용자 Chasm이 10월 27일 배포된 규칙이라며 공개했다. 오리지널·장르 게임, 내 에셋으로 만든 게임은 된다. 끌 방법은 없다고 했다.",
+      "foot": "2026.10.30",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "Claude로 IP를 침해하는 건 이용 정책 위반입니다. 그래서 남의 특정 게임을 재현하지 않도록 두 문장을 넣었습니다.",
+      "quote_by": "Addy Osmani · Anthropic 기술 스태프",
+      "eyebrow": "Anthropic의 답",
+      "headline": "IP 침해는 정책 위반",
+      "body": "Anthropic 대변인은 Osmani의 X 글로 답을 대신했다. 균형을 계속 다듬겠다며, 내 게임인데 거절당하면 알려 달라고 했다.",
+      "foot": "2026.10.30",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "video": "src/revamp.mp4",
+      "start": 0,
+      "dur": 8,
+      "eyebrow": "왜 민감한가",
+      "headline": "데모 공개가 겁나는 인디",
+      "body": "원작보다 먼저 나올 AI 복제작이 두렵다. Digital Sun Games는 ReVamp 데모가 복제될까 봐 공개 플레이테스트를 취소했다.",
+      "foot": "2026.10.30",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "Claude가 막히면",
+      "stat_arrow": "옮겨 가면 그만",
+      "stat_bottom": "오픈 웨이트 모델",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "막히는 건 게으른 복제뿐",
+      "body": "말재주로 안전 제한을 피한 사례는 많다. 그래도 대량 복제를 돕지 않겠다고 선을 그은 것은 개발자에게 작은 위안이다.",
+      "foot": "2026.10.30",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
