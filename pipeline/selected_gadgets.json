@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "gadgets",
   "items": [
     {
-      "title": "Rokid Glasses 2 launch with upgraded design, bigger battery, and Dolby Audio support",
-      "url": "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html",
-      "source": "Notebookcheck",
+      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
+      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+      "source": "Engadget",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New hardware: Rokid's second-gen microLED display glasses add AI-agent support, a bigger battery, and a lighter frame, and are pitched directly at Meta Ray-Ban Display. This one card covers the Rokid cluster.",
-      "published_iso": "2026-10-28T19:20:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
-      "excerpt": "Rokid has launched a second-gen model of its smart glasses with a microLED display. The new glasses have a more comfortable design, a bigger battery capacity, upgraded audio, and support for AI agents."
+      "rationale": "New report: Meta has a working household-chore humanoid prototype, codenamed Max, that runs on Nvidia Jetson Thor, and a Max 2 is already in development. It is Meta's first known move into home robot hardware.",
+      "published_iso": "2026-11-01T17:17:42+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
+      "excerpt": "Meta has reportedly built a household-chore humanoid robot prototype codenamed Max, running on Nvidia Jetson Thor, and is already working on Max 2, per The Information."
     },
     {
-      "title": "Raycast's new iOS keyboard app lets you dictate, swipe type and use AI commands without switching apps",
-      "url": "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/",
-      "source": "Digital Trends",
+      "title": "No internet, no problem: Google is working on an offline mode for Gemini Live",
+      "url": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/",
+      "source": "Android Authority",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New release: Raycast ships a full iPhone keyboard with swipe typing, dictation, and AI writing commands built in, so you can run AI rewrites inside any app without switching keyboards.",
-      "published_iso": "2026-10-29T13:09:45-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/raycast-primary-ios-keyboard.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Raycast's new iPhone keyboard combines swipe typing, AI writing tools, voice dictation, GIF search, and text shortcuts. You can now access its productivity features without switching keyboards."
+      "rationale": "New teardown finding: Gemini Live voice conversations could run fully on-device with no connection, which would push Google's assistant toward offline, local AI on phones.",
+      "published_iso": "2026-10-30T12:42:15+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
+      "excerpt": "An Android Authority APK teardown shows Google working on an offline mode for Gemini Live, which would run voice conversations on-device without an internet connection."
     },
     {
-      "title": "Google's new Android XR tools let developers test apps without needing to buy expensive smart glasses",
-      "url": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
-      "source": "Digital Trends",
+      "title": "Logitech releases MX Master 4 Developer Edition with AI support and new design",
+      "url": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html",
+      "source": "Notebookcheck",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "New tooling from Android Dev Summit: developers can build and test smart-glasses apps in an emulator without owning the hardware, and Android CLI gains hooks that let AI coding agents test apps and find performance problems.",
-      "published_iso": "2026-10-28T12:38:50-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Gentle-Moster-smart-glasses.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "At the 2026 Android Dev Summit, Google has announced some interesting features coming to both Android XR and Android CLI. Developers can now build and test apps for smart glasses without owning the hardware, while Android's command-line tools are getting upgrades that help AI coding agents test applications and identify performance problems."
+      "rationale": "New hardware: a Developer Edition of the MX Master 4 whose Logi Options+ plugin maps the shortcuts and Actions Ring to an AI assistant. AI is built into the input device creators use every day.",
+      "published_iso": "2026-11-01T08:00:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
+      "excerpt": "Logitech listed an MX Master 4 Developer Edition mouse in China; a Logi Options+ plugin maps its shortcuts and Actions Ring to the WorkBuddy AI assistant."
     },
     {
-      "title": "Strava adds Google Gemini integration with personalized workout insights",
-      "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
-      "source": "9to5Mac",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "source": "The Verge",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New integration: Strava subscribers can now connect Gemini and get personalized insights drawn from their workout history, which brings wearable fitness data into a general-purpose assistant.",
-      "published_iso": "2026-10-29T21:06:35+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history."
+      "rationale": "New product: Arrowmax's Arrowspace S1 puts a camera in the tip and uses AI to identify a screw head and recommend the right bit. It is a concrete example of vision AI built into a hand tool.",
+      "published_iso": "2026-10-30T14:23:26+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0,10.667430009877,100,78.665139980246",
+      "excerpt": "Arrowmax's Arrowspace S1 electric screwdriver uses a tip camera and an AI model to identify a screw head and recommend the right bit; it's launching on Kickstarter."
     },
     {
-      "title": "Google Home update should make Gemini stop saying 'Sorry, I didn't understand' so much",
-      "url": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
-      "source": "9to5Google",
+      "title": "Google is giving Gemini's overlay a literal sparkle on your Android phone",
+      "url": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
+      "source": "Android Authority",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New release: the latest Gemini for Home update targets a bug where speakers randomly say 'I didn't understand', plus other fixes. It is a fresh release in the running Gemini-on-speakers rollout.",
-      "published_iso": "2026-10-29T19:13:49+00:00",
-      "og_image": null,
-      "excerpt": "Google's latest Gemini for Home update targets a few issues, like one where speakers randomly blurt out \"I didn't understand\"..."
+      "rationale": "New rollout: the redesigned Gemini overlay, with a sparkling animation from the Neural Expressive design language, is reaching all Android phones. It shows how Google is visually styling AI in the system UI.",
+      "published_iso": "2026-10-30T06:59:52+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
+      "excerpt": "Google is rolling out the redesigned Gemini overlay, with a new sparkling animation based on its Neural Expressive design language, to all Android phones."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html": {
+      "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+        "nearest": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/phones/raycast-primary-ios-keyboard-lets-you-dictate-swipe-type-and-use-ai-commands-without-switching-apps/": {
+      "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/": {
+        "verdict": "new",
+        "nearest": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
+        "new_action": ""
+      },
+      "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/": {
+      "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter": {
         "verdict": "new",
-        "nearest": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/": {
+      "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/": {
         "verdict": "new",
-        "nearest": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+        "nearest": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
         "new_action": ""
-      },
-      "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
-        "new_action": "New Gemini for Home software release (late October) fixing the random 'Sorry, I didn't understand' responses. The 10-02 card covered the earlier September noise-handling update."
       }
     },
-    "note": "Cross-section: I read the gadgets, design and marketing blocks of published_urls.json. I could not grep the whole file, so the orchestrator should still exact-check these 5 URLs, plus 'Rokid', 'Raycast', 'Strava' and 'Android XR CLI', against books, games, movies, music, science, medicine and politics. Dropped as duplicates: (1) Tom's Hardware Samsung TV AI ad-tracking: the exact URL ran in MARKETING on 2026-10-26. (2) The Verge Amazon digital picture frame and the TechRadar Echo Show 16: both come from the same 10-28 Amazon Echo/Alexa+ launch, which gadgets already covered on 10-29 with the Ars Echo Studio camera card. Yesterday's curator kept that one card for the whole cluster and dropped the Engadget Alexa Photo Frame. (3) Tom's Guide Alexa Tablet 12 Pro review: a review of the tablets that ran 10-09 (Engadget), with no new release. (4) Android Authority 'Rokid takes on Meta Ray-Ban Displays': same Rokid launch as the Notebookcheck pick; I kept Notebookcheck for its spec detail. Other drops: INMO GO3 (flagged as sponsored on 10-26, and stale at 10-21); iPhone 18 Pro vs Android AI (opinion); Apple Watch 'two features soon' (vague teaser; 9to5Mac ran a similar Series 12 features piece 09-08); HomePod mini 2 release (Siri AI is not available at launch, so AI is incidental); Rivian/VW JV AI assistant (business/JV framing); Alexa for Shopping 100+ capabilities (commerce, borders marketing, and a fourth Amazon item); Vivo V80 camera (10-20, lower novelty); Chicago delivery-robot lawsuits (10-21, older, legal angle). The Android XR dev tools item was skipped on 10-29 only because a second XR item ran that day, not as a duplicate. It is a different event from the XREAL Aura launch. Diversity: 4 outlets (Notebookcheck, Digital Trends x2, 9to5Mac, 9to5Google), each card with a distinct accent."
+    "note": "Cross-section exclusions (orchestrator instruction): Samsung Galaxy Watch sleep-apnea (ZDNET) is reserved for medicine, and Google/NASA AI medical robot (TechRadar) is skipped. Dropped as duplicates or follow-ups with no new action: (1) Samsung AI glasses December launch (Digital Trends) restates the glasses unveiled 10-14 (CNET) and adds only an unconfirmed ChosunBiz launch-timing report. (2) iOS 27.3 beta with Apple Intelligence in China (9to5Mac) is the same story as the 10-15 MacRumors card. The only new detail is the beta timing, and the beta has not shipped. (3) Alexa Photo Frame (ZDNET) comes from the same 10-28 Amazon Echo launch that the 10-29 Ars card covered. Other drops: Apple CEO earnings-call comments (business noise, similar to the 10-17 Tom's Guide Siri strategy card); Apple @ Work token bill (opinion); HomePod Mini 2 first look (Siri AI is not available yet, so AI is incidental, as the 10-30 curator also judged); Ring third-party AI apps (analysis piece, lower novelty); Senators' letter to Meta over glasses privacy (politics axis, so it is better placed in politics if anywhere); Alexa for Shopping (commerce and marketing edge, dropped 10-30 too); DIY AI Tamagotchi (Verge first-person build, lower novelty, would have been a second Verge card). The 5-day window flagged no Korean-copy repeats. I could not grep all of published_urls.json, so the orchestrator should exact-check these 5 URLs and the names 'Meta Max humanoid', 'Gemini Live offline', 'MX Master 4 Developer Edition', 'Arrowspace S1' and 'Gemini overlay' across the other sections. Diversity: 4 outlets (Engadget, Android Authority x2, Notebookcheck, The Verge), each card with a distinct accent."
   }
 }

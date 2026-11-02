@@ -1,142 +1,133 @@
 {
- "section": "music",
- "now_iso": "2026-10-29T22:00:32Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Suno launches MCP server to 'create music right from the chat'",
-   "url": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-10-29T13:30:00+00:00",
-   "excerpt": "Suno opened an early-access MCP server so users can generate songs from inside Claude, ChatGPT, Gemini, Claude Code and Cursor; tracks use normal Suno credits and land in the user's Suno library, for free and paid tiers.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
-  },
-  {
-   "title": "SkillBox has launched an AI-powered 'event creation' engine",
-   "url": "https://musically.com/2026/10/29/skillbox-has-launched-an-ai-powered-event-creation-engine/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-10-29T10:25:15+00:00",
-   "excerpt": "Indian live-entertainment company SkillBox launched Zenith Studio, which generates event listings, descriptions, ticketing info and artwork for concert organisers from a single-line prompt.",
-   "og_image": "https://musically.com/wp-content/uploads/2026/10/Skillbox-new-logo.jpg"
-  },
-  {
-   "title": "Avenged Sevenfold's Zacky Vengeance Defends AI Art, Calls Majority of Designers He's Worked With 'Lazy'",
-   "url": "https://metalinjection.net/news/avenged-sevenfolds-zacky-vengeance-defends-ai-art-calls-majority-of-designers-hes-worked-with-lazy",
-   "source": "Metal Injection",
-   "category": "music",
-   "published_iso": "2026-10-29T19:16:30+00:00",
-   "excerpt": "After fans flagged the artwork for A7X's Misfits 'Horror Business' cover as AI-generated, Zacky Vengeance said he 'fully embraces AI', prefers 'my prompts', and called most designers he has worked with lazy — reigniting the album-art vs. AI debate.",
-   "og_image": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2025/06/RfP25-0312_Avenged-Sevenfold_www.klapper.cz_-1024x576.jpg"
-  },
-  {
-   "title": "A$AP Rocky Accused Of Plagiarizing Part Of AI-Assisted 'Shroom Clouds' Video",
-   "url": "https://stereogum.com/2515567/aap-rocky-accused-of-plagiarizing-part-of-ai-assisted-shroom-clouds-video/news",
-   "source": "Stereogum",
-   "category": "music",
-   "published_iso": "2026-10-26T15:18:51+00:00",
-   "excerpt": "VFX artist Cache Bunny says a psychedelic tunnel shot in A$AP Rocky's 'Shroom Clouds' video lifts a 2019 GoPro Fusion piece and was altered with AI; the video credits list two 'AI Artist' roles.",
-   "og_image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Rocky.png"
-  },
-  {
-   "title": "[단독] 멜론 차트 2위가 AI 음악?…정부, 표시 의무 확대 검토",
-   "url": "https://www.news1.kr/it-science/internet-platform/6333828",
-   "source": "뉴스1",
-   "category": "music",
-   "published_iso": "2026-10-27T17:58:01+09:00",
-   "excerpt": "Suno로 만든 AI 음원 '꿈꾸던 어른이 되었나요?'가 멜론 차트 2위에 오르며 AI 제작 사실이 뒤늦게 알려지자, 정부가 AI 음원 표시 의무 확대를 검토하고 있다.",
-   "og_image": "https://i3n.news1.kr/system/photos/2026/10/27/8182188/high.jpg"
-  },
-  {
-   "title": "'딸깍 음악' 대중화 시대…정책은 '공백'",
-   "url": "https://www.news1.kr/it-science/internet-platform/6335523",
-   "source": "뉴스1",
-   "category": "music",
-   "published_iso": "2026-10-29T07:33:47+09:00",
-   "excerpt": "카페 플레이리스트와 음원 차트 상위권까지 AI로 만든 '딸깍 음악'이 퍼졌지만, 표기·저작권·정산 정책은 공백이라는 진단. 정부는 표시 의무 확대를 검토 중이다.",
-   "og_image": "https://i3n.news1.kr/system/photos/2026/10/28/8184836/high.jpg"
-  },
-  {
-   "title": "\"AI 썼다고 밝히면 저작권료 못 받는 현실\"…국회서 분배 기준 논의",
-   "url": "https://news.ifm.kr/news/articleView.html?idxno=482765",
-   "source": "경인방송",
-   "category": "music",
-   "published_iso": "2026-10-27T15:19:38+09:00",
-   "excerpt": "김재원·배현진 의원이 국회에서 'AI 활용 음악' 저작권료 분배 기준 토론회를 열고, AI 사용을 정직하게 신고한 창작자만 저작권료를 못 받는 구조를 바로잡을 기준을 논의했다.",
-   "og_image": "https://cdn.news.ifm.kr/news/thumbnail/202610/482765_157214_1634_v150.jpg"
-  },
-  {
-   "title": "AI로 작곡한 클래식, 정식 무대 오른다",
-   "url": "https://www.hankyung.com/article/2026102814101",
-   "source": "한국경제",
-   "category": "music",
-   "published_iso": "2026-10-28T18:11:54+09:00",
-   "excerpt": "이진준 KAIST 교수가 AI와 함께 작곡한 클래식 '쓰러진 거인'을 국립심포니오케스트라가 세종시에서 정식 연주한다.",
-   "og_image": "https://img.hankyung.com/photo/202610/AA.46224900.1.jpg"
-  },
-  {
-   "title": "'케이팝업차트쇼' AI 가수 로진 출격",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610260099",
-   "source": "bnt뉴스",
-   "category": "music",
-   "published_iso": "2026-10-26T08:27:59+09:00",
-   "excerpt": "AI 가수 로진(RŌSIEN)이 ENA '케이팝업차트쇼'로 TV 정규 음악방송 무대에 처음 오른다. 인공지능 영상 생성 기술로 만든 K팝 퍼포먼스를 선보인다.",
-   "og_image": "https://www.bntnews.co.kr/data/bnt/image/2026/10/26/bnt202610260132.png"
-  },
-  {
-   "title": "Pozalabs reveals AI producer Steal Saturday as its own act",
-   "url": "https://www.kentertechhub.com/pozalabs-ai-producer/",
-   "source": "K-EnterTech Hub",
-   "category": "music",
-   "published_iso": "2026-10-26T05:49:35+00:00",
-   "excerpt": "Seoul AI-music company Pozalabs released a five-song ballad album by AI producer Steal Saturday on Oct. 26 and, for the first time, publicly identified the act as one it created.",
-   "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/bhcnv2_202610260551.jpg"
-  },
-  {
-   "title": "사람보다 더 잘 듣는 AI 개발한다…MIT 스마라그디스 교수, 음원 분리·음성 인식·환경 소리 분석 기술 개발",
-   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42471",
-   "source": "인공지능신문",
-   "category": "music",
-   "published_iso": "2026-10-28T21:47:15+09:00",
-   "excerpt": "MIT 파리 스마라그디스 교수 연구팀이 음원 분리, 음성 인식, 환경음 분석을 아우르는 '사람보다 잘 듣는' 청각 AI를 개발하고 있다고 MIT가 소개했다.",
-   "og_image": "https://cdn.aitimes.kr/news/thumbnail/202610/42471_63842_4657_v150.jpg"
-  },
-  {
-   "title": "Does Notation Matter? MusicXML Tokenisation for Symbolic Music Generation and Understanding",
-   "url": "https://arxiv.org/abs/2610.34247",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-25T12:21:00Z",
-   "excerpt": "Researchers compare MIDI-style versus fully notated MusicXML tokenisation for deep-learning symbolic music generation and understanding, testing how score richness changes model output.",
-   "og_image": null
-  },
-  {
-   "title": "Gangqinpu: A Multi-Genre, Multi-Task Piano Dataset with Aligned Audio, MIDI, and Musical Scores",
-   "url": "https://arxiv.org/abs/2610.34694",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-26T01:31:00Z",
-   "excerpt": "Gangqinpu is a multi-genre piano dataset that jointly aligns audio, performance MIDI and scores to train music transcription, analysis and performance-modelling AI.",
-   "og_image": null
-  },
-  {
-   "title": "Spotify Co-CEOs Talk AI Remixing Tool: 'We're the Right Company to Do This'",
-   "url": "https://www.billboard.com/pro/spotify-co-ceos-talk-ai-music-remixing-tool-subscribers/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-22T20:47:12+00:00",
-   "excerpt": "Spotify's co-CEOs described the coming subscriber AI remixing tool and argued it will create new revenue for rights holders.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2277532373.jpg?w=1024"
-  },
-  {
-   "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
-   "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-21T22:08:29+00:00",
-   "excerpt": "A Billboard Latin Music Week panel with Cristina Perpiñá-Robert and Pierre Hachar Jr. debated AI-generated music and how to protect human creators.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024"
-  }
- ]
+  "section": "music",
+  "now_iso": "2026-11-01T23:50:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "What Is Attribution?",
+      "url": "https://www.digitalmusicnews.com/2026/11/01/what-is-attribution-metadata-music-ai/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-11-01T23:28:35+00:00",
+      "excerpt": "Explainer on attribution metadata, which may become one of the most useful bridges between human creativity and AI music: tracing which human works and contributors an AI output draws on.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/what-is-attrbution-podcast-screengrab-Large.jpeg"
+    },
+    {
+      "title": "1위 A2O는 AI로 소통·뒤쫓는 2위는 AI곡…K팝에 인공지능 물결",
+      "url": "https://www.yna.co.kr/view/AKR20261031048000005",
+      "source": "연합뉴스",
+      "category": "music",
+      "published_iso": "2026-11-01T08:00:00+09:00",
+      "excerpt": "올가을 음원 차트 1위를 휩쓴 이수만표 걸그룹 A2O 라이트는 AI 기반 팬 소통 앱을 쓰고, 2위는 AI로 만든 곡이 차지하는 등 K팝 전반에 인공지능 제작·소통 도구가 확산되고 있다.",
+      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/31/AKR20261031048000005_02_i_P4.jpg"
+    },
+    {
+      "title": "생성 AI가 바꾼 콘텐츠 제작 공정 조명… ICNX 2026, 3일 송도서 개막",
+      "url": "https://www.kentertechhub.com/icnx-2026-showcase/",
+      "source": "K-EnterTech Hub",
+      "category": "music",
+      "published_iso": "2026-10-31T21:36:55+00:00",
+      "excerpt": "ICNX 2026이 3일 송도컨벤시아에서 개막한다. 테크놀로지 쇼케이스 영상은 텍스트가 영상 장면이 되고 디지털 휴먼이 연기하며 AI 더빙이 입 모양까지 맞추는 제작 공정을 보여준다.",
+      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/c1v5m0_202610312136.jpg"
+    },
+    {
+      "title": "Suno Plows Ahead With MLC Subpoena, Sets Response Deadline",
+      "url": "https://www.digitalmusicnews.com/2026/10/30/suno-mlc-subpoena-schedule/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-30T20:51:29+00:00",
+      "excerpt": "Suno is charging ahead with its Mechanical Licensing Collective subpoena in the UMG/Sony training case; a court set a response deadline and the MLC is expected to formally oppose in early November.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/FT-Courthouse.jpg"
+    },
+    {
+      "title": "Spotify aiming to get AI remix product live in early 2027, even though it remains unclear if artists and fans are all that interested in it",
+      "url": "https://completemusicupdate.com/spotify-aiming-to-get-ai-remix-product-live-in-early-2027-even-though-it-remains-unclear-if-artists-and-fans-are-all-that-interested-in-it/",
+      "source": "CMU",
+      "category": "music",
+      "published_iso": "2026-10-30T16:16:55+00:00",
+      "excerpt": "Spotify reportedly hopes to launch its AI remix and cover tool early next year as a paid add-on, though it is not clear music creators or fans are excited about it.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/ai-remix-Spotify.png"
+    },
+    {
+      "title": "Spotify is hoping to launch its AI remix tool in early 2027",
+      "url": "https://musically.com/2026/10/30/spotify-is-hoping-to-launch-its-ai-remix-tool-in-early-2027/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-30T13:30:00+00:00",
+      "excerpt": "Spotify, which announced in May an AI tool letting fans create covers and remixes, is now reported to be targeting early 2027 for launch, with a $4-5 monthly add-on price under consideration.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2025/10/Spotify-logo-white-on-green.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "title": "UMG talks AI music: 'The volume is growing faster than the safeguards'",
+      "url": "https://musically.com/2026/10/30/umg-talks-ai-music-the-volume-is-growing-faster-than-the-safeguards/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-30T12:30:00+00:00",
+      "excerpt": "On UMG's Q3 earnings call Lucian Grainge sounded the alarm on AI music, citing Deezer figures of more than 90,000 fully AI-generated tracks uploaded to streaming services every day.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-17T113755.557.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "title": "Spotify Reportedly Set to Debut AI Cover & Remix Tool in Early '27",
+      "url": "https://www.digitalmusicnews.com/2026/10/30/spotify-ai-cover-remix-tool-launch/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-30T10:30:58+00:00",
+      "excerpt": "Spotify is reportedly preparing to launch its long-awaited AI cover and remix tool in early 2027, charging subscribers up to $5 a month extra.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Spotify-AI-Remix-Tool.jpg"
+    },
+    {
+      "title": "Zeds Dead on two decades of sampling: “The interest is in the history; AI has no history”",
+      "url": "https://musictech.com/features/interviews/zeds-dead-interview-sampling-ai/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-10-30T09:00:08+00:00",
+      "excerpt": "Zeds Dead discuss two decades of sampling-based production and why they see AI-generated material as lacking the history that makes sampling meaningful.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-hero-credit-Max-Thompson@2000x1500-1068x801.jpg"
+    },
+    {
+      "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
+      "url": "https://elevenlabs.io/blog/sound-effects-v3",
+      "source": "ElevenLabs",
+      "category": "music",
+      "published_iso": "2026-10-29T12:00:00+00:00",
+      "excerpt": "ElevenLabs' SFX v3 brings more reliable multi-sound prompts, cleaner audio and more convincing music and vocals, opening up effects that pair a musical phrase or vocal performance with everyday sounds.",
+      "og_image": null
+    },
+    {
+      "title": "SkillBox has launched an AI-powered 'event creation' engine",
+      "url": "https://musically.com/2026/10/29/skillbox-has-launched-an-ai-powered-event-creation-engine/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-29T10:25:15+00:00",
+      "excerpt": "Indian live entertainment company SkillBox launched Zenith Studio, an AI engine that generates event listings, descriptions, ticketing information and artwork from a single-line prompt.",
+      "og_image": "https://musically.com/wp-content/uploads/2026/10/Skillbox-new-logo.jpg"
+    },
+    {
+      "title": "MiDiff: MIDI-Conditioned Diffusion Models for Drum Audio Enhancement",
+      "url": "https://arxiv.org/abs/2610.38619",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-28T10:40:26+00:00",
+      "excerpt": "MiDiff is a diffusion-based generative model that restores severely degraded drum recordings by conditioning the reverse process on temporally aligned MIDI piano rolls.",
+      "og_image": null
+    },
+    {
+      "title": "A Tutorial on Generative Models for Music Audio",
+      "url": "https://arxiv.org/abs/2610.38252",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-28T04:04:24+00:00",
+      "excerpt": "A monograph explaining the methods behind music-audio generation systems - instrumental clips, full songs with vocals, edits and real-time accompaniment - covering neural codecs, token models and diffusion.",
+      "og_image": null
+    },
+    {
+      "title": "Multimodal Concert Video Editing: System Design and Exploratory Evaluation",
+      "url": "https://arxiv.org/abs/2610.35816",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-26T17:43:58+00:00",
+      "excerpt": "A modular framework that automatically edits multi-camera concert footage by combining instrument activity from multitrack audio, visible instruments, image sharpness and beat-based cut timing.",
+      "og_image": null
+    }
+  ]
 }

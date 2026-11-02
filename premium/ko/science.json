@@ -13894,6 +13894,120 @@
           "x": "더 단순한 스핀계에서 알고리즘은 기존 최고 수준 방법 일부와 맞먹었고, 더 복잡한 스핀계에서는 기준 방법보다 신호를 약 70% 더 크게 증폭했다. 최적화 한 번에 이틀이 조금 못 되는 시간부터 거의 닷새까지 걸렸지만 효과가 확인된 펄스열은 다시 쓸 수 있다. Science Advances에 실린 이번 개념 증명 연구는 자기공명 기반 양자 센서에도 쓰임새가 있을 전망이다."
         }
       ]
+    },
+    "science/bbert-soil-dna-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
+          "cap": "초록. 출처: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+        },
+        {
+          "t": "p",
+          "x": "Hebrew University of Jerusalem과 협력 기관 연구진이 최소 100 염기 길이의 짧은 세균 DNA 조각까지 식별하는 AI 도구 BBERT를 개발했다. BBERT는 서열을 참조 데이터베이스와 맞춰 보지 않고 세균 DNA의 패턴 자체를 학습한다. 그래서 데이터베이스에 없는 생물을 다룰 때 특히 쓸모가 있다."
+        },
+        {
+          "t": "p",
+          "x": "벤치마크에서 BBERT는 세균 DNA와 비세균 DNA를 약 90% 정확도로 구별했다. BBERT로 걸러내자 모의 혼합 시료의 유전체 복원 시간이 데이터셋당 약 66시간에서 25시간으로 줄었고, 세균 유전체 커버리지는 약 96%를 유지했다. 그래픽카드만 제대로 갖추면 개인용 컴퓨터에서도 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "한계도 있다. 엽록체 DNA를 세균으로 잘못 분류하거나 세균과 고세균을 잘 구분하지 못하고, 세균 정보를 이따금 놓치기도 한다. 연구는 Nucleic Acids Research에 실렸다."
+        }
+      ]
+    },
+    "science/turing-followup-questions-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
+          "cap": "세 가지 언어 과제로 진행한 Turing식 테스트. 출처: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
+        },
+        {
+          "t": "p",
+          "x": "Nanyang Technological University의 Mengmi Zhang 연구팀이 72,000건 이상의 판정을 분석했다. 캡션 작성부터 이미지 속 색과 사물 식별까지 여섯 가지 과제 범주에서 사람 636명과 AI 모델 37개가 내놓은 응답을 두고 내린 판정이다. 통제된 언어 테스트에서 판정자가 작성자를 맞힌 비율은 약 53–57%로, 우연 수준을 겨우 넘었다."
+        },
+        {
+          "t": "p",
+          "x": "더 작은 규모의 실험에서는 판정자가 주제와 추가 질문을 직접 정해 사람과 챗봇에게 물었다. GPT-3.5-Turbo는 일곱 번의 대화에서 모두 정체가 드러났는데, 문체와 응답 타이밍이 단서가 됐을 가능성이 있다. 참가자 28명이 Llama-3-70B-Instruct와 맞붙은 188회 시행에서는 판정자가 여전히 틀리기도 했다. 다만 대화가 길어질수록 기계의 응답을 더 잘 가려냈다."
+        },
+        {
+          "t": "p",
+          "x": "이 실험만으로는 질문 자체의 효과를 따로 떼어낼 수 없으며, 최신 시스템에는 결과가 들어맞지 않을 수도 있다고 저자들은 경고한다. 연구는 Nature Human Behaviour에 실렸다."
+        }
+      ]
+    },
+    "science/lumina-lunar-landing-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
+          "cap": "목표 착륙지를 찾으려고 달 환경 데이터 층을 매핑하는 AI 개념 시각화. (출처: The Ohio State University)"
+        },
+        {
+          "t": "p",
+          "x": "The Ohio State University 연구진이 AAS Division for Planetary Sciences 제58회 연례 회의(DPS 58)에서 LUMINA를 발표했다. LUMINA는 임무 기획자가 안전한 달 착륙지를 평가하도록 돕는 에이전트형 AI 프레임워크다. 물 얼음 같은 핵심 자원과 잠재적인 과학 가치를 중점적으로 본다."
+        },
+        {
+          "t": "p",
+          "x": "LUMINA는 궤도 영상에만 의존하지 않는다. 지형과 지형 위험, 과학적 가치, 지질, 표면 특성을 함께 따지고 착륙 후보지끼리 비교까지 한다. 연구팀은 이 방식을 다른 행성체, 특히 화성에도 적용할 방안을 구상 중이다."
+        },
+        {
+          "t": "video",
+          "yt": "iJQdny3-T2Q"
+        },
+        {
+          "t": "p",
+          "x": "Ohio State PhD 과정생이자 제1저자인 Gokce Inal은 \"AI 시스템은 우주 탐사의 핵심 도구가 될 것\"이라고 말했다. LUMINA는 연구팀이 앞서 만든 Large Language-and-Vision Assistant for Lunar Exploration(LLaVA-LE)을 바탕으로 한다. LLaVA-LE는 달 표면 궤도 영상을 분석해 설명해 주는 모델이다."
+        }
+      ]
+    },
+    "science/skku-sag-agent-feedback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
+          "cap": "OGBench. 출처: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+        },
+        {
+          "t": "p",
+          "x": "Sungkyunkwan University의 Prof. Minhae Kwon(교수) 연구팀이 AI 기법 두 가지를 개발했다. 로보틱스와 자율주행을 염두에 두고, 여러 단계로 길게 이어지는 과제에서 컴퓨팅 비용은 줄이고 신뢰성은 높이는 기법이다. 두 기법 모두 제40회 Conference on Neural Information Processing Systems(NeurIPS 2026)에 채택됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
+          "cap": "Selective Critique(SAG) 프레임워크 개념도."
+        },
+        {
+          "t": "p",
+          "x": "SAG 에이전트는 단계마다 고성능 모델에 묻지 않는다. 스스로 불확실성을 따져 보고, 비용을 들일 만할 때만 외부 피드백을 구한다. 어려운 문제만 선생님에게 묻는 학생과 비슷하다. 성공 경험도 쌓아 가며 피드백 의존도를 줄인다. 덕분에 연산 자원 소모는 기존 방식의 약 삼분의 일로 줄었고, 복잡한 가상 환경에서 과제 성공률은 24.6%에서 78.3%로 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "두 번째 기법 VAN-Flow는 우연에 기댄 불안정한 행동을 걸러내는 오프라인 강화학습 방법이다. 40개가 넘는 로봇 제어 시뮬레이션 과제에서 대부분의 최신 기법을 앞섰다."
+        }
+      ]
+    },
+    "science/linkoping-mxene-mining": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+          "cap": "2-d 소재. Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Linköping University 연구진이 AI로 소재 데이터베이스를 뒤져 MXenes를 찾았다. MXenes는 2011년 처음 발견된 초박형 2D 소재 계열이다. 그동안 아무도 눈여겨보지 않던 MXenes 33종이 검색에 걸렸다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 여기서 착안해 MXenes 11종을 새로 합성했다. 외부 가열 없이 몇 초 만에 MXenes를 만드는 방법도 찾았는데, 기존 방식보다 유해 화학물질과 물이 덜 든다."
+        },
+        {
+          "t": "p",
+          "x": "일부 금속을 희토류 금속으로 바꾸자 소재에 자성이 생겼다. 에너지와 데이터 저장 분야에도 쓸 길이 열린다. 연구 그룹을 이끄는 Johanna Rosén은 \"문헌과 데이터베이스는 보물창고다\"라고 말했다. 연구는 Science에 실렸다."
+        }
+      ]
     }
   }
 }

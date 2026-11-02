@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "politics",
   "media": [
     {
-      "id": "dod-unbiased-ai-procurement",
+      "id": "politics-cma-meta-probe",
       "type": "image",
-      "src": "pipeline/media/dod-unbiased-ai-procurement.jpg"
+      "src": "pipeline/media/politics-cma-meta-probe.jpg"
     },
     {
-      "id": "wired-accenture-agent-pentagon",
+      "id": "wikimedia-nyt-amicus",
       "type": "image",
-      "src": "pipeline/media/wired-accenture-agent-pentagon.jpg"
+      "src": "pipeline/media/wikimedia-nyt-amicus.jpg"
     },
     {
-      "id": "austria-un-ai-centre-vienna",
-      "type": "svg"
+      "id": "epic-fcc-robocall-tcpa",
+      "type": "image",
+      "src": "pipeline/media/epic-fcc-robocall-tcpa.jpg"
     },
     {
-      "id": "canada-security-strategy-frontier-ai",
+      "id": "kazakhstan-nvidia-firebird",
       "type": "image",
-      "src": "pipeline/media/canada-security-strategy-frontier-ai.jpg"
+      "src": "pipeline/media/kazakhstan-nvidia-firebird.jpg"
     },
     {
-      "id": "google-ai-2020-election-answers",
+      "id": "ai-training-optout-standard",
       "type": "image",
-      "src": "pipeline/media/google-ai-2020-election-answers.jpg"
+      "src": "pipeline/media/ai-training-optout-standard.jpg"
     }
   ]
 }

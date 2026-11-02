@@ -4324,6 +4324,124 @@
           "x": "「自傷を促したり、友人やそれ以上の存在を装ったりするチャットボットを子どもに売りつける企業があってはならない」とホークル氏は述べた。法案提出者の一人であるアレックス・ボアーズ(Alex Bores)州下院議員は、州が「業界の激しい反対にもかかわらず」この法律を成立させたと語った。二つ目の法案S.9508/A.5175Aは、インターネット接続型ベビーモニターにセキュリティ機能と警告ラベルを義務づける。"
         }
       ]
+    },
+    "politics/wikimedia-nyt-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Wikimedia Foundationは、画期的なAI著作権訴訟群で中間的な立場を打ち出した。著作物を使った大規模言語モデル(LLMs)の学習は法的に保護する一方、チャットボットがその著作物をユーザーにそのまま吐き出すことは保護しないよう、裁判所に求めている。"
+        },
+        {
+          "t": "p",
+          "x": "Wikipediaを運営するこの非営利団体は金曜日に提出したアミカスブリーフ(amicus brief)で、The New York Timesなどの出版社がOpenAIとMicrosoftを訴えた訴訟について意見を述べたが、どちらの側にもつかなかった。意見書は「Wikimediaは、本件当事者の主張がフェアユースの法理を過度に広く、単純に適用する方向に向かっていることを懸念している」と述べている。"
+        },
+        {
+          "t": "p",
+          "x": "Timesは、OpenAIが学習用データセットを作るためにウェブサイトをスクレイピングし、著作権を侵害したと主張している。OpenAIとMicrosoftはLLMsの利用はフェアユースにあたると反論しており、OpenAIは著作物をそのまま再出力するのは「まれなバグ」だと述べている。"
+        },
+        {
+          "t": "p",
+          "x": "Wikimediaは妥協案を示す。モデルが「元の情報源とは異なる新しい何か」を提供するなら、ライセンスなしのスクレイピングと事前学習はフェアユースとすべきだが、「元の作品への読者の関与に取って代わる形で」資料の複製をユーザーに届ける場合はライセンスを必要とすべきだという。"
+        }
+      ]
+    },
+    "politics/epic-fcc-robocall-tcpa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
+        },
+        {
+          "t": "p",
+          "x": "EPICは先週、連邦通信委員会(Federal Communications Commission、FCC)に返答コメントを提出し、電話消費者保護法(Telephone Consumer Protection Act、TCPA)のロボコール規則の適用除外を求めるClub for Growthの請願に反対した。請願は、AI生成(AI-generated)音声を含む人工音声または録音音声を使い、事前の明示的な同意を得ずに携帯電話番号へ「政治電話」をかけることを認めるようFCCに求めている。FCCの消費者・政府業務局(Consumer and Governmental Affairs Bureau)は2026年9月4日、この請願への意見を募集した。"
+        },
+        {
+          "t": "p",
+          "x": "EPICはFCCに請願を全面的に却下するよう求めた。米国民がすでに詐欺電話などの自動電話にさらされているなか、この要求が通れば、望まない迷惑な政治ロボコールがかつてない規模で押し寄せることになると説明している。議会はプライバシー保護のためにTCPAの同意要件を定めたのであり、望まない電話が携帯電話にかかってくることによる中断や混乱の害は、政治電話であっても同じか、それ以上に大きい。"
+        },
+        {
+          "t": "p",
+          "x": "EPICは、「政治電話」をTCPAの適用除外とすることは公益にかなわず、AI生成(AI-generated)の政治的コミュニケーションが急増すれば偽情報が増幅され、民主的なプロセスが損なわれると説明した。さらに、「政治電話」には実用的な定義が存在しないため、この要求は成り立たないと強調した。"
+        }
+      ]
+    },
+    "politics/kazakhstan-nvidia-firebird": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "10月23日、アスタナでNvidiaのCEOジェンスン・フアン(Jensen Huang)は聴衆に向け、カザフスタンは「このエネルギーを知能に変え、知能を輸出する」ことができると語り、同国を将来の「ヨーロッパ全体のためのAIファクトリーハブ」と呼んだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+          "cap": "混雑するカザフスタンの新たな「人工知能センター」alem.aiで、ジャスラン・マディエフ(Zhaslan Madiyev)副首相とNvidiaのCEOジェンスン・フアン(Jensen Huang)。写真:Oliver Fisk。"
+        },
+        {
+          "t": "p",
+          "x": "目玉は、石炭火力発電所Ekibastuz GRES-1に隣接するEkibastuzで計画されているデータセンター・バレー(Data Center Valley)だ。U.S.のクラウド事業者Firebirdが結んだ投資契約により、同地にはNvidia Grace Blackwell GPUs 45,000基が配備される。これらのGPUsのU.S.輸出許可は先週発表された。FirebirdのGPU容量の10パーセントはカザフスタンの企業と政府機関に割り当てられる。"
+        },
+        {
+          "t": "p",
+          "x": "専門家は電力と顧客という二つの課題を挙げる。カザフスタンは2023年以降、毎年発電量を上回る電力を消費しており、エネルギー自給の目標は2028年初めに先送りされた。国外の顧客は公に明らかになっておらず、国外向けインターネット通信の約95パーセントはロシアを経由している。"
+        },
+        {
+          "t": "img",
+          "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+          "cap": "NvidiaのCEOジェンスン・フアン(Jensen Huang)が即興で自撮りしようとすると、興奮した参加者が舞台に殺到した。写真:Oliver Fisk。"
+        }
+      ]
+    },
+    "politics/ai-training-optout-standard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI、Google、Microsoft、Anthropicは、パブリッシャーがAIによるスクレイピングを拒否(opt out)できる新たな標準を採用すると表明した。この仕組みにより、パブリッシャーはAI企業ごとに個別に設定しなくても、複数のAI企業にまとめてAI学習に関する意向を適用できる。"
+        },
+        {
+          "t": "p",
+          "x": "共通の「ポリシートークン(policy token)」シグナルは、Anthropicで標準化を担当する技術リードのケビン・ケリー(Kevin Kelley)が、インターネット技術特別調査委員会(Internet Engineering Task Force、IETF)の一環として提案したものだ。シグナルはウェブサイトのrobots.txtファイル内に置かれる。OpenAI、Google、Microsoft、Anthropicは、この共通トークンを検出した場合、自社のAIクローラーによるサイトへのアクセスを制限するとしている。"
+        },
+        {
+          "t": "p",
+          "x": "Metaの広報責任者アンディ・ストーン(Andy Stone)も新しい設定への支持を示したが、同社がそれに従うかどうかは明らかにしていない。Microsoftは、AI学習やAIグラウンディングを拒否できるきめ細かな設定を提供するという。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicはすでにこのシグナルを採用しており、GoogleとMicrosoftは来年対応する予定だ。OpenAIは「今後数か月以内」に実装するとしている。"
+        }
+      ]
+    },
+    "politics/dod-unbiased-ai-procurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+        },
+        {
+          "t": "p",
+          "x": "国防総省(Defense Department)は、同省が購入するAIシステムがトランプ(Trump)政権の掲げる「真実の追求」と「イデオロギー的中立」という調達原則に沿うよう、契約・プログラム担当者向けの新たな指針を出した。指令を出したのは、国防価格・契約・調達政策担当の首席ディレクター、ジョン・テナリア(John Tenaglia)氏である。"
+        },
+        {
+          "t": "p",
+          "x": "これは、各機関が購入する大規模言語モデルを「中立で超党派的なツール」とするよう求めて先の7月にトランプ氏が署名した大統領令と、その後の行政管理予算局(Office of Management and Budget)のメモを受けたものだ。テナリア氏は、大統領令とメモの順守は義務だが、新文書は「指針としてのみ」意図されたもので、「偏りのないAI原則を文書化し、求め、執行するための標準化された手法」を示すものだと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "テンプレートには、透明性と文書化の要件を選ぶためのメモ、企業が提出すべき文書に関する標準的な募集文言、作業範囲記述書(statement of work)向けの正式な契約文言が含まれる。DoDの各部局は、個別の要件に合わせて文言を修正・調整できる。"
+        },
+        {
+          "t": "p",
+          "x": "ジミー・パトロニス(Jimmy Patronis)下院議員(R-Fla.)は、この大統領令の法制化を目指している。"
+        }
+      ]
     }
   }
 }

@@ -16182,6 +16182,133 @@
           "x": "Replica는 현재 MIT 라이선스 오픈소스 프로젝트로 제공된다. 로컬에서 바로 프로토타이핑을 시작해도 되고, Replica Hub를 꾸려 팀과 프로토타입을 공유해도 된다."
         }
       ]
+    },
+    "design/nngroup-ux-agentic-factories": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI-native 소프트웨어 개발 생명주기에서 UX는 AI에 넣을 맥락 정도로 쪼그라든다. 하지만 UX가 할 일은 사용자 니즈를 찾고 무엇을 만들지 정하며 출시 전후로 이를 평가하는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic은 2026년 8월 AI-native 소프트웨어 개발 생명주기(SDLC) 비전을 내놓았다. Google(2026년 5월)과 OpenAI(2025년 11월)에 이은 발표다. 세 회사 모두 UX를 변두리로 밀어내고 AI 생성을 뒤에서 이끄는 맥락으로만 다룬다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+          "cap": "전통 SDLC의 6단계"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic 플레이북에서 UX가 맡는 단계나 승인 관문은 하나도 없다. 사용자 리서치는 아예 언급되지 않는다. Test 단계는 빌드를 제품 책임자의 목업과 대조할 뿐이라 사용성이나 접근성이 좋은지는 보장하지 못한다. 출시 후 기술 지표를 지켜보는 일과 사용성 지표는 별개다."
+        },
+        {
+          "t": "p",
+          "x": "AI가 소프트웨어 생산 속도를 끌어올리는 지금 UX의 역할은 3가지다. 무엇이 만들 가치가 있는지 가리고, 만든 결과를 평가하고, AI 생성에 맥락을 보태는 일이다. 플레이북이 다루는 건 이 중 세 번째뿐이다. NN/g의 제안은 이렇다. intent.md는 사용자 니즈에 맞추고, 어느 작업에 UX 검토가 필요한지 정하고, 모니터링에 사용자 신호를 넣는다. UX 맥락의 주인 자리를 지키고 리서치와 디자인 시스템은 기계가 읽을 수 있게 만든다."
+        }
+      ]
+    },
+    "design/allplan-max-2027-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nemetschek Group과 산하 브랜드 Allplan이 엔지니어링 워크플로용 AI 신제품 Allplan Max 2027 출시를 알렸다. Nemetschek Intelligence Platform에 속한 제품이다. 엔지니어가 쓰던 도구 안으로 AI를 들여와 반복 작업은 줄이고, 프로젝트 정보는 더 빨리 찾고, 일상 업무는 자동으로 돌리게 한다."
+        },
+        {
+          "t": "p",
+          "x": "탑재 기능은 Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer, AI Steel Take Off다. Allplan은 이 시스템이 엔지니어링 판단을 대신하지 않고 거들도록 설계했다고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "Allplan Max는 포트폴리오 전체에 들어간다. BIM·디테일링·워크플로 맞춤화는 Allplan, 구조 해석은 SCIA와 FRILO, 제작 중심 워크플로는 SDS2가 맡는다. 사용자들은 일부 작업을 최대 36퍼센트 빨리 끝냈다고 했다. 다만 자가 보고 추정치라 차이가 날 수 있다. Allplan Max 2027 출시일은 2026년 10월 28일이다."
+        }
+      ]
+    },
+    "design/uxcollective-ai-cost-controls": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "사용 단위 고르기, 지출 한도 설계, 작업 전·중·후 AI 비용 설명법을 담은 실용 가이드다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "AI 응답에는 하나하나 값이 매겨진다. 빠른 수정도, 오래 도는 에이전트도 인터페이스에서는 거의 똑같아 보이고 같은 버튼으로 시작한다. 그래서 디자이너가 정할 건 두 가지다. 사용자가 무엇을 쓰고 있다고 여기게 할 단위, 그리고 비용을 언제 알게 할지다."
+        },
+        {
+          "t": "p",
+          "x": "토큰은 시스템의 화폐지 사용자의 화폐가 아니다. 단위는 토큰·달러부터 크레딧, 작업·결과, 사용 허용량까지 여러 가지인데 결정적 차이는 불확실성을 누가 지느냐에 있다. 사용 한도라면 기간과 초기화 시점을, 작업 단위 가격이라면 무엇이 집계되는지를 보여 줘야 한다. 크레딧은 그 가치를 가늠할 수 있어야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "작업 전에는 비용을 좌우하는 요인을 알리고 더 싼 모드나 상한을 내민다. 작업 중에는 실제 진행 상황을 보여 주다가 추정치가 빗나가면 계속할지 먼저 묻는다. 끝나면 영수증을 붙인다. 비용은 필요할 때 보이면 그만이다. 사용자가 내내 신경 쓰게 만들어서는 안 된다."
+        }
+      ]
+    },
+    "design/borisfx-continuum-2027-ml": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_cnXGCOCCJY"
+        },
+        {
+          "t": "p",
+          "x": "Boris FX가 합성·편집 소프트웨어용 이펙트 플러그인 모음의 새 버전 Continuum 2027.0을 내놨다. 2D 타이틀 시스템과 3D 노이즈 생성기, 워프·왜곡 이펙트 다섯 종이 새로 들어갔고 Continuum의 마스킹 도구와 파티클 이펙트 시스템도 손봤다."
+        },
+        {
+          "t": "p",
+          "x": "Continuum 2026.0에 들어갔던 AI 마스킹 도구도 개선됐다. BCC+ Face ML은 이제 귀까지 얼굴 전체 윤곽을 따라가므로 “더 완전한 커버리지와 더 적은 수작업 수정”이 가능하다. BCC+ Matte Refine ML은 머리카락 같은 미세한 디테일을 더 잘 살리고, BCC+ Witness Protection ML은 흔한 타원 대신 정밀한 마스크를 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "Continuum 2027.0은 Windows 10+ 또는 macOS 12.0+ 환경에서 After Effects, DaVinci Resolve, Nuke와 함께 쓸 수 있다. 영구 라이선스는 $365에서 $2,195, 구독은 $32/month에서 $112/month, 또는 $215/year에서 $765/year다."
+        }
+      ]
+    },
+    "design/figma-fluent-edit-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "특화된 사후 학습이 프런티어 모델과 겨룰 수 있다는 사실이 갈수록 자주 확인된다. 일상 디자인 작업은 대개 더 작고 반복적이며 정답을 검증하기도 어렵다. 간격을 맞추고 색을 바꾸고, 피드백에 따라 레이아웃을 다시 짜는 식이다. Figma 에이전트가 범위가 분명한 과제, 곧 디자이너가 캔버스에 이미 올려 둔 작업을 편집하는 일에서 출발한 이유다."
+        },
+        {
+          "t": "p",
+          "x": "프런티어 모델은 Figma 문법을 이해하지 못했고, 그래서 지도 미세조정(SFT)에 투자했다. 디자인을 Figma 고유 파일 포맷으로 표현하고, 캔버스에 다시 적용할 수 있는 변경을 모델이 만들도록 학습시켰다. 편집은 더 큰 교사 모델이 시도했고, 결과는 결정론적 검증기와 시각 모델 심사자가 확인했다. 예시 250,000개 이상으로 학습한 초기 Llama 3.3 70B 모델 하나가 편집 과제에서 당시 최상위 모델과 대등한 성능을 냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+          "cap": "초기 SFT 파이프라인"
+        },
+        {
+          "t": "p",
+          "x": "이후 최신 Qwen 모델 등 더 뛰어난 기반 모델로 옮겼고, 강화학습(RL)에도 투자한다. 정렬·대비·요청 충족 같은 항목을 따로 평가하는데, 구조 검사와 전문 디자이너가 보정한 시각 심사자를 함께 쓴다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+          "cap": "Qwen 3.8 27B 기반으로 사후 학습한 미공개 최신 Figma 편집 모델과 다른 서드파티 모델의 디자인 편집 과제 비교"
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 이 모델을 주요 서드파티 모델과 나란히 돌린다. 일반 작업은 약 20% 빨라졌다. 새 에이전트의 결과는 62%의 경우 이전 프로덕션 에이전트와 같거나 나았다. 사용자 평점은 33% 올랐고, 작업을 되돌리는 빈도는 60% 줄었다."
+        }
+      ]
     }
   }
 }

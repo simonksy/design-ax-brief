@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-30",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "rokid-glasses2-microled",
-      "type": "image",
-      "src": "pipeline/media/rokid-glasses2-microled.jpg"
-    },
-    {
-      "id": "raycast-ios-keyboard",
-      "type": "image",
-      "src": "pipeline/media/raycast-ios-keyboard.jpg"
-    },
-    {
-      "id": "android-xr-cli-devtools",
-      "type": "image",
-      "src": "pipeline/media/android-xr-cli-devtools.jpg"
-    },
-    {
-      "id": "strava-gemini-insights",
-      "type": "image",
-      "src": "pipeline/media/strava-gemini-insights.jpg"
-    },
-    {
-      "id": "google-home-gemini-fix-oct",
-      "type": "image",
-      "src": "pipeline/media/google-home-gemini-fix-oct.jpg"
-    }
-  ]
-}
+{"date":"2026-11-02","section":"gadgets","media":[
+{"id":"meta-max-humanoid-robot","type":"image","src":"pipeline/media/meta-max-humanoid-robot.jpg"},
+{"id":"gemini-live-offline-mode","type":"image","src":"pipeline/media/gemini-live-offline-mode.jpg"},
+{"id":"logitech-mx-master4-devedition","type":"image","src":"pipeline/media/logitech-mx-master4-devedition.png"},
+{"id":"arrowspace-s1-ai-screwdriver","type":"video","src":"pipeline/media/arrowspace-s1-ai-screwdriver.mp4","poster":"pipeline/media/arrowspace-s1-ai-screwdriver.jpg"},
+{"id":"gemini-overlay-sparkle-android","type":"image","src":"pipeline/media/gemini-overlay-sparkle-android.jpg"}
+]}

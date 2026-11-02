@@ -4324,6 +4324,124 @@
           "x": "“No company should be peddling chatbots to kids encouraging self-harm or pretending to be their friend or more,” Hochul said. Assemblymember Alex Bores, a sponsor, said the state passed the law “despite aggressive industry opposition.” A second bill, S.9508/A.5175A, requires security features and warning labels on internet-connected baby monitors."
         }
       ]
+    },
+    "politics/wikimedia-nyt-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work — but not chatbots regurgitating that work to users."
+        },
+        {
+          "t": "p",
+          "x": "In an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. “Wikimedia is concerned that the parties’ positions in this case push for overbroad and simplified applications of the fair use doctrine,” the filing says."
+        },
+        {
+          "t": "p",
+          "x": "The Times alleges OpenAI infringed its copyright by scraping its website to build training datasets; OpenAI and Microsoft contend that using LLMs constitutes fair use, and OpenAI has said regurgitating work “is a rare bug.”"
+        },
+        {
+          "t": "p",
+          "x": "Wikimedia proposes a compromise: scraping and pre-training without a license should be fair use when models provide “something new and different from the original sources,” but delivering copies of material to users “while supplanting readers’ engagement with those original works” should require a license."
+        }
+      ]
+    },
+    "politics/epic-fcc-robocall-tcpa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Last week, EPIC filed reply comments with the Federal Communications Commission (FCC) opposing a petition from the Club for Growth that requested an exemption from the Telephone Consumer Protection Act’s (TCPA) robocall rules. The petition asks the FCC to allow callers to make “political calls” to wireless numbers using an artificial or prerecorded voice, including an AI-generated voice, without obtaining prior express consent. The FCC’s Consumer and Governmental Affairs Bureau sought comment on the petition on September 4, 2026."
+        },
+        {
+          "t": "p",
+          "x": "EPIC urged the FCC to deny the petition in its entirety, explaining that the request would subject Americans to an unprecedented wave of unwanted and harassing political robocalls at a time when they are already inundated with scam and other automated calls. Congress enacted the TCPA’s consent requirements to protect privacy, and the interruption and disruption caused by an unwanted call to a cellphone is just as harmful, if not more, when the call is political."
+        },
+        {
+          "t": "p",
+          "x": "EPIC explained that exempting “political calls” from the TCPA will not serve the public interest and a surge in AI-generated political communications will amplify disinformation and undermine democratic processes. EPIC highlighted that there is no workable definition of a “political call” that exists, making the request untenable."
+        }
+      ]
+    },
+    "politics/kazakhstan-nvidia-firebird": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On October 23 in Astana, Nvidia CEO Jensen Huang told an audience that Kazakhstan could “transform this energy into intelligence and export intelligence,” calling it a future “AI factory hub for all of Europe.”"
+        },
+        {
+          "t": "img",
+          "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+          "cap": "Deputy Prime Minister Zhaslan Madiyev and Nvidia CEO Jensen Huang at a crowded alem.ai, Kazakhstan’s new “artificial intelligence center.” Photo by Oliver Fisk."
+        },
+        {
+          "t": "p",
+          "x": "The centerpiece is the planned Data Center Valley in Ekibastuz, beside the coal-fired Ekibastuz GRES-1 plant. Firebird, a U.S. cloud operator, signed an investment agreement under which the site will be powered by 45,000 Nvidia Grace Blackwell GPUs, for which U.S. export licenses were announced last week, with 10 percent of Firebird’s GPU capacity allocated to Kazakhstani companies and government agencies."
+        },
+        {
+          "t": "p",
+          "x": "Experts raise two issues: power and customers. Since 2023, Kazakhstan has consumed more electricity than it generated each year, and the energy self-sufficiency target was pushed back to early 2028. No international customers have been publicly identified, and roughly 95 percent of outbound internet traffic runs through Russia."
+        },
+        {
+          "t": "img",
+          "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+          "cap": "An attempt by Nvidia CEO Jensen Huang to take an impromptu selfie led to event attendees rushing the stage in an excited frenzy. Photo by Oliver Fisk."
+        }
+      ]
+    },
+    "politics/ai-training-optout-standard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually."
+        },
+        {
+          "t": "p",
+          "x": "The shared “policy token” signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website’s robots.txt file. OpenAI, Google, Microsoft, and Anthropic say they will restrict their AI crawlers from accessing a site if they encounter the shared token."
+        },
+        {
+          "t": "p",
+          "x": "Meta communications head Andy Stone also signaled support for the new setting, but doesn’t say whether the company will honor it. Microsoft says it will offer granular controls to opt out of AI training or AI grounding."
+        },
+        {
+          "t": "p",
+          "x": "While Anthropic has already adopted the signal, Google and Microsoft plan to support it next year. OpenAI says it will implement it in the “coming months.”"
+        }
+      ]
+    },
+    "politics/dod-unbiased-ai-procurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Defense Department has issued new guidance for contracting and program personnel to ensure that AI systems the Pentagon buys adhere to what the Trump administration labels “truth-seeking” and “ideological neutrality” procurement principles. The directive was issued by John Tenaglia, principal director for defense pricing, contracting and acquisition policy."
+        },
+        {
+          "t": "p",
+          "x": "It follows an executive order Trump signed last July requiring agencies to ensure the large language models they purchase are “neutral, nonpartisan tools,” and a later Office of Management and Budget memo. Tenaglia said compliance with the order and memo is mandatory, but the new document is intended “as guidance only,” offering “a standardized approach to documenting, soliciting and enforcing the unbiased AI principles.”"
+        },
+        {
+          "t": "p",
+          "x": "The templates include a memo for selecting transparency and documentation requirements, standardized solicitation language on the documentation companies must provide, and formal contract language for the statement of work. DoD components can revise or tailor the language to fit individual requirements."
+        },
+        {
+          "t": "p",
+          "x": "Rep. Jimmy Patronis (R-Fla.) is looking to codify the executive order into law."
+        }
+      ]
     }
   }
 }

@@ -8644,6 +8644,129 @@
           "x": "借助 Draft 模式，用户可在生成最终4K 版本前，先用成本更低的480p 预览测试镜头、完善分镜。该模型还支持10-bit 色彩，在使用参考素材或编辑现有素材时，可保留画质、色彩和精细细节。中国及海外的部分电影制作和后期制作公司已开始测试。[IT Home, in Chinese]"
         }
       ]
+    },
+    "movies/voicemod-disney-soundboards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+          "cap": "©Walt Disney Co./Everett Collection提供"
+        },
+        {
+          "t": "p",
+          "x": "Voicemod是一款AI-powered（AI驱动）的变声平台，用户可以改变自己声音的音色和音质，并使用各种音效。该平台将加入Star Wars和Marvel作品的音效板，让570万月活跃用户在Twitch、Discord等平台上使用这些作品的台词与音效。首批Star Wars音效板来自《The Mandalorian & Grogu》，自周五起上线，其他音效板将陆续推出。"
+        },
+        {
+          "t": "p",
+          "x": "目前看来，用户还不能把自己的声音变成角色的声音，这些工具更像是“声音梗”。但Disney将IP授权给一家AI-related（AI相关）公司，反映出娱乐公司越来越愿意把自家知识产权与人工智能联系起来。"
+        },
+        {
+          "t": "p",
+          "x": "此前，Disney去年在一项短命的10亿美元投资协议中将角色授权给OpenAI的Sora；Hasbro也曾将旗下多个角色的声音授权给ElevenLabs。Voicemod创始人兼CEO Jaime Bosch表示：“这些音效板在这些互动的基础上更进一步，让用户能够把Marvel和Star Wars的声音带入这些时刻。”"
+        }
+      ]
+    },
+    "movies/libatique-ai-vfx-actors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+          "cap": "图片由Evolution Mallorca提供"
+        },
+        {
+          "t": "p",
+          "x": "曾三度获得奥斯卡提名的摄影指导Matthew Libatique表示，他正与和Google DeepMind共同创办AI工作室Primordial Soup的Darren Aronofsky一起，在下一部影片前“测试”这项技术。“我们很快就要做一次测试，”他说。"
+        },
+        {
+          "t": "p",
+          "x": "他说，AI“不会取代电影。它可能取代的是Marvel”：制作巨片的片厂会通过视觉特效“用AI来压缩部分成本”，不过他不认为Marvel“会使用AI演员”。“你没法让我相信，你能做出一个AI角色，做到Robert Pattinson所做的事。”"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+          "cap": "《钢铁侠》，图片由Marvel提供"
+        },
+        {
+          "t": "p",
+          "x": "他曾在后期制作中使用AI，例如修正眩光，但也承认“它确实抢走了一些工作”。在Dustin Yellin的AI短片《Goodbye Lamby》中，提示词操作者请他先为一个空间实际布光。他称那些“以Matthew Libatique风格”制作的AI视频“极其冒犯”，并补充说：“我还没见过哪件AI作品真正让我印象深刻。”"
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-relighting": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "19ngvIWpK_U"
+        },
+        {
+          "t": "p",
+          "x": "在这段视频中，Curious Refuge分享了一套在拍摄结束后为影片重新打光的新工作流程——无需重返片场，就能把白天的办公室变成深夜的工作空间。"
+        },
+        {
+          "t": "p",
+          "x": "步骤如下：导出一帧静帧，挑选一张光照参考图，然后在图像编辑工具中（推荐Nano Banana 2.1或GPT Image 2.5）用类似“把图像1的光照和时间改为夜晚。以图像2作为光照与风格参考。”的提示词为静帧重新打光。接着把原始片段和重新打光后的画面一起上传到视频模型，由编辑后的图像提供目标光照，原始素材提供表演与动作。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+          "cap": "重新打光后的首帧"
+        },
+        {
+          "t": "p",
+          "x": "结果令人鼓舞，但也有局限：在办公室测试中，他们看到了曝光波动和明显的斜向条带，输出分辨率也低于4K 源素材——因此在用进影片前，应检查整段片段是否有瑕疵。"
+        }
+      ]
+    },
+    "movies/news1-broadcast-ai-action": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+          "cap": "MBC"
+        },
+        {
+          "t": "p",
+          "x": "人工智能（AI）技术已成为广播电视行业的新动力。过去仅限于生成字幕、语音转文字等用途的AI应用，在生成式AI出现后已扩展到从策划到视频制作、观众数据分析等领域。"
+        },
+        {
+          "t": "p",
+          "x": "SBS AI合作团队负责人李相镇表示：“金部长过去潜入朝鲜的场景，原本预计实拍要花费数亿韩元，借助AI节省了约2亿韩元。”在桥上爆炸的场景中，车辆用CG呈现，冲天的火焰则由生成式AI实现。EBS推出了《AI剧-复活课堂》等作品，KBS大型历史剧《文武》也将呈现用生成式AI打造的历史空间和大规模战斗场面。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+          "cap": "基于AI的“Vertigo PTZ”/图片由KBS提供"
+        },
+        {
+          "t": "p",
+          "x": "KBS基于AI的自动视频取景解决方案“Vertigo”，将《音乐银行》中每位出演者约15分钟的剪辑时间缩短至2~3分钟。MBC未进行任何拍摄，仅用广播档案和生成式AI就制作了地方选举开票直播的倒计时视频。MBC AI战略团队负责人权锡源强调，“引进AI的目标不是减少人力”，而是建立让成员专注于创造性工作的结构。"
+        }
+      ]
+    },
+    "movies/beta-builder-aion-hybrid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
+          "cap": "Mayur More与Ashlesha Thakur"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE(独家):Mayur More和Ashlesha Thakur将主演印度(India)Abundantia Entertainment与视频科技公司InVideo合作的首部AI-driven长片。Beta Builder由InVideo全球创意负责人(Global Creative Lead)Hridaye A. Nagpal执导,主体拍摄今天在Mumbai开机。"
+        },
+        {
+          "t": "p",
+          "x": "Abundantia通过旗下Abundantia AiOn部门制作该片,该部门的定位是“human-first and AI-empowered(以人为先、由AI赋能)”。去年,Abundantia与InVideo合作推出片单,计划在三年内推出五部AI-powered影片,并为此承诺投入₹100 crore($10.5M)。"
+        },
+        {
+          "t": "p",
+          "x": "影片讲述来自Dharavi、自学成才的天才建筑师Jai在虚拟现实世界中获得实现梦想机会的故事。该片定位为混合制作,“将全面的live-action实拍与AI-driven制作结合起来”。"
+        },
+        {
+          "t": "p",
+          "x": "“借助AI-assisted电影制作,讲故事的人可以拥有更大的梦想,支持大胆的创意终于显得可行,”Nagpal说。“Beta Builder是我们对这一未来的押注,让live-action拍摄与AI并肩工作。”InVideo是U.S.-based公司,在印度(India)设有办公室,自我定位为不绑定特定技术(agnostic)的AI电影制作平台,拥有超过50 million 名用户。"
+        }
+      ]
     }
   }
 }

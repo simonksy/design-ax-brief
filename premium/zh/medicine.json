@@ -2787,6 +2787,103 @@
           "x": "“我们的使命是赋权于患者。如果他们想把预约交给AI代理，我们就应当为他们提供所希望的无摩擦就医渠道，”Kharraz说。"
         }
       ]
+    },
+    "medicine/ama-clinical-ai-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+        },
+        {
+          "t": "p",
+          "x": "美国医学会(American Medical Association，AMA)周四在其近期发布的临床AI治理指南基础上，进一步细化了各方应如何对涉及该技术的决策、行为和失误承担责任。该框架由AMA的Center for Digital Health and AI制定，针对其所称现有框架未能解答的责任问题。AMA指出，这可能使医生面临“对其无法合理预防的风险承担责任，而当AI造成伤害时，患者可能难以寻求救济”。"
+        },
+        {
+          "t": "p",
+          "x": "该框架“承认在出现问题时，多方可能需要对AI的使用承担责任”，并将问责与各方预防伤害的能力相对应。医生应“对其能够切实行使的临床判断负责，依据是系统的预期用途、已知局限以及诊疗现场可获得的信息”，并可拒绝未经验证的AI系统而不受处罚。"
+        },
+        {
+          "t": "p",
+          "x": "AMA主席Willie Underwood III, M.D.表示：“随着AI承担更多临床职能，开发者、医疗机构和医生各自都负有重要责任。”这一责任框架细化了AMA本月早些时候公布的更广泛的临床AI治理框架中的一个方面。"
+        }
+      ]
+    },
+    "medicine/mr-ai-missed-referrals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "基层医疗中遗漏的专科转诊带来重大的健康和医疗法律风险，但人们对此仍知之甚少。我们开发了一套AI辅助(AI-supported)安全系统(MR-AI)，用于从诊疗记录中识别遗漏的转诊，并在新加坡七家基层医疗诊所开展准实验研究进行评估。MR-AI每周扫描约25,000份记录，查找有转诊意图却没有相应医嘱的情况，估计使每周遗漏转诊检出量提高到约七倍(水平提升4.7个百分点；95% CI 0.024–0.069；p < 0.001)。"
+        },
+        {
+          "t": "p",
+          "x": "在被标记的428例中，225例经临床医生核实，另有31例由患者报告，共检出256例。MR-AI的特异度为99.9%，敏感度为48.8%。在与七名医生审核员进行的为期一周的盲法比较中，针对83例被标记病例，MR-AI的PPV为61.8%，而人工确认率为51.8%，同时预计可减少约41个员工工时。"
+        },
+        {
+          "t": "p",
+          "x": "AI赋能(AI-enabled)的监测在发现遗漏转诊方面提供了很大帮助，但要实现可持续的改善，还需配套的预防性工作流程调整以及未来的成本效益评估。"
+        }
+      ]
+    },
+    "medicine/amhart-teen-chatbot-eval": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "许多青少年向通用人工智能(AI)聊天机器人寻求心理健康建议，但依据青少年相关临床标准开展的评估十分有限。我们开发了Adolescent Mental Health AI Response Tool(AMHART)，这是一种结合临床医生意见的工具，用于审核七个领域中是否包含基于指南的回应内容，并将其应用于四款主流AI聊天机器人。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+          "cap": "Fig. 1: AMHART开发与评估的图示概要。"
+        },
+        {
+          "t": "p",
+          "x": "候选条目由临床医生根据证据基础、客观性和临床重要性进行审核，最终得到一组具有较强内容效度和评分者间信度的条目。随后，我们配置了由三个大语言模型组成的评估集成，检验其与人工参考标签的一致性，并对青少年角色(按性别、诊断和症状严重程度区分)与ChatGPT-5、ChatGPT-4、Claude 4.5和Gemini 2.5进行的多轮对话进行评分。"
+        },
+        {
+          "t": "p",
+          "x": "AMHART评分显示，焦虑的适用标准覆盖率高于抑郁，中度表现的覆盖率高于重度表现。研究结果表明，AMHART可作为一个可靠且结合临床医生意见的基准，用于评估聊天机器人对青少年倾诉焦虑和抑郁时的回应。"
+        }
+      ]
+    },
+    "medicine/brainomix-glyburide-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brainomix正在推介一项研究，显示借助该公司软件进行的自动非增强CT分析可能有助于识别大面积半球梗死患者。根据在首尔举行的World Stroke Conference上公布的III期Charm试验事后分析，这些患者更可能从Remedy Pharmaceuticals的在研疗法静脉注射格列本脲(Cirara)中获益。"
+        },
+        {
+          "t": "p",
+          "x": "该公司使用Brainomix 360 Stroke软件，在428名试验患者的非增强CT上测量了急性梗死体积。研究人员发现，在梗死核心体积低于125 mL的191名患者亚组中，Cirara与modified Rankin Scale上功能结局的改善显著相关，包括在90天时达到0至3分的可能性更高。"
+        },
+        {
+          "t": "p",
+          "x": "Brainomix表示，研究结果表明，无需CT灌注或MRI等高级影像，也可以为该疗法的试验筛选患者。Cirara尚未获得任何监管机构批准。"
+        }
+      ]
+    },
+    "medicine/jama-wiser-prior-auth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "这是University of Minnesota的Hannah T. Neprash, PhD与Brown University的Michael L. Barnett, MD, MS撰写的Research Letter。预先授权是“要求临床医生在获得报销之前，为特定医疗服务提交理由的流程”。传统Medicare历来除极少数例外，从未要求任何预先授权。"
+        },
+        {
+          "t": "p",
+          "x": "Center for Medicare & Medicaid Innovation推出的Wasteful and Inappropriate Service Reduction（WISeR）模式是一项为期6年的试点，于2026年1月在Arizona、New Jersey、Ohio、Oklahoma、Texas和Washington启动，要求部分选定服务事先授权，并鼓励参与方使用人工智能。此前尚无关于其初期影响的证据。"
+        },
+        {
+          "t": "p",
+          "x": "作者利用Epic Cosmos电子健康记录数据，比较了六个试点州与其他所有州及Washington, D.C.在WISeR-targeted（WISeR目标）服务上的月度使用量，时间跨度为启动前两年和启动后的头六个月。"
+        },
+        {
+          "t": "p",
+          "x": "与非试点州相比，硬膜外类固醇注射减少约15%，其他目标服务减少约20%。降幅在启动之初最大：2026年第一季度硬膜外类固醇注射低约21%，第二季度低约9%；其他服务则从21%变为18%。原定纳入WISeR但从未实施的服务没有出现显著下降。"
+        },
+        {
+          "t": "p",
+          "x": "被放弃的医疗究竟是不必要的还是必需的，目前仍不清楚；作者呼吁追踪效果的持续性、医疗的适当性、患者结局、临床医生负担以及Medicare支出。"
+        }
+      ]
     }
   }
 }

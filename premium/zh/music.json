@@ -8399,6 +8399,134 @@
           "x": "CEO Jack O’Donnell对The Verge表示，inMusic旗下品牌，尤其是Akai，将通过向开发者提前提供设备来拥抱改装社区。这些举措还将包括开源部分软件并提供SDK。"
         }
       ]
+    },
+    "music/spotify-remix-tool-2027": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Spotify-AI-Remix-Tool-1024x546.jpg",
+          "cap": "图片来源：Alexander Shatov"
+        },
+        {
+          "t": "p",
+          "x": "据报道，Spotify正准备在明年初推出期待已久的AI翻唱与混音工具，在美国的定价可能为每月$5。"
+        },
+        {
+          "t": "p",
+          "x": "这一可能的发布时间表出自Financial Times援引匿名消息人士的报道。Universal Music、Believe/TuneCore、Kobalt和Merlin已签署相关授权协议；Sony Music、Warner Music和BMG不在名单上，不过Spotify此前表示，启动并不需要\"a full catalog\"。"
+        },
+        {
+          "t": "p",
+          "x": "报道中的2027年初亮相，可能与配合2月第69届Grammy Awards的正式发布同步。报道称，Premium订阅用户可能每月需再付$4至$5；包括参与艺人在内的其他具体细节仍寥寥无几。"
+        },
+        {
+          "t": "p",
+          "x": "Spotify将在gen AI领域面临激烈竞争：Suno和Warner Music计划推出针对特定艺人的服务，三大唱片公司均已与Klay Vision合作，Udio正准备与non-Sony的大型唱片公司一起重新上线，Universal Music则借助与ElevenLabs的合作筹备了针对特定艺人的服务。"
+        }
+      ]
+    },
+    "music/umg-grainge-ai-volume": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-17T113755.557.png?fit=780%2C585&ssl=1",
+          "cap": "一堆垃圾，旁边有一只山羊"
+        },
+        {
+          "t": "p",
+          "x": "在Universal Music Group的季度财报电话会上，掌门人Sir Lucian Grainge再次就AI音乐发出警告。他援引Deezer的最新数据称，每天有超过90,000首完全由AI生成（AI-generated）的曲目被上传到流媒体平台。"
+        },
+        {
+          "t": "p",
+          "x": "“数量增长的速度快过防护措施，”Grainge警告说。在一些大型流媒体服务的蓝调榜单上，“前10张专辑中多达五张被归于AI生成的艺人，却没有清晰标注或披露……这不是无害的杂物。”UMG将“执行我们的合同保护，并坚持在整个生态系统中采用更清晰的标注”。"
+        },
+        {
+          "t": "p",
+          "x": "“说白了，以不道德方式生成的AI曲目，绝不应与创造真实而持久需求的音乐按同一标准获得报酬。何况，音乐服务又为什么要收录它们？”Grainge说。UMG暗示将敦促DSPs对完全AI（fully-AI）曲目取消变现，甚至可能将其下架。"
+        },
+        {
+          "t": "p",
+          "x": "UMG的Q3营收达€3.39bn ，同比增长12.3%。首席数字官Michael Nash肯定了Spotify、Deezer和Apple Music近来的举措，但警告“这还不够”，并指出存在“大规模的生态系统污染”——此前几次电话会上，他还在淡化AI对UMG业务的影响，如今态度已经转变。"
+        }
+      ]
+    },
+    "music/midiff-drum-restoration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "我们提出MiDiff，这是一种用于鼓音频增强的扩散生成模型，以时间对齐的Musical Instrument Digital Interface（MIDI）钢琴卷帘作为反向过程的条件。它在复数STFT域的SGMSE框架基础上，加入预训练MIDI编码器、多尺度时间对齐，以及三种条件化策略：早期注入、FiLM和交叉注意力。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.38619v1/figures/spectrogram_test_excerpt.png",
+          "cap": "Fig. 6：StemGMD测试片段的STFT频谱图定性比较。左上：干净参考；右上：受损输入；左下：SGMSE基线；右下：MiDiff。"
+        },
+        {
+          "t": "p",
+          "x": "仅通过分类器引导提供同一钢琴卷帘，不会带来可测量的提升：符号先验只有在为评分网络提供条件时才有效。一种在线转录扩散状态的混合反向调度，在没有任何符号输入的情况下，将测试FAD相对纯音频基线降低了47%。"
+        },
+        {
+          "t": "p",
+          "x": "模型在StemGMD数据集上训练，退化流程模拟带回声的房间混响、驻极体电容拾音头的频率响应，以及带噪声的软削波饱和。MiDiff在Fréchet Audio Distance（FAD）上大幅超越SGMSE基线，而真实的MIDI力度动态对有效的符号条件化至关重要。"
+        }
+      ]
+    },
+    "music/zeds-dead-sampling-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-hero-credit-Max-Thompson@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Zeds Dead由Hooks（Zachary Rapp-Rovan）和DC（Dylan Mamid）组成，两人的制作搭档关系已延续近20年，采样范围从Duke Ellington到Scarface和Blue Velvet无所不包。“当你采样一张唱片时，你采样的是那个房间里的魔力，”Rapp-Rovan说。"
+        },
+        {
+          "t": "video",
+          "yt": "i5xCKYMfpEc"
+        },
+        {
+          "t": "p",
+          "x": "谈到AI时代的采样，Rapp-Rovan表示：“我现在更感兴趣的是历史。AI没有历史，它只是听起来相似的东西的平均值。”他补充说，自己“非常喜欢一些AI工具，比如分轨分离和变声”，但直接做出老手水准的作品，“目前看来弊大于利”。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-1-credit-Brittany-Teuber@1050x1400.jpg",
+          "cap": "Image: Brittany Teuber"
+        },
+        {
+          "t": "p",
+          "x": "试用过这些工具的Mamid说：“看到它生成的东西，我会感到毛骨悚然。”他把生成式AI称为“类似超级采样”。他说，他们自己的采样“是为了支持人类文化，而不是贬低它”。"
+        }
+      ]
+    },
+    "music/suno-mcp-chat-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "音乐行业从业者纷纷把各种Model Context Protocol（MCP）服务器接入自己常用的AI聊天机器人。不过，对于最新推出的这一款，一些人可能会更犹豫，因为它来自Suno。"
+        },
+        {
+          "t": "p",
+          "x": "“把Suno加入你的AI工具栈。”Suno进军MCP领域的发布介绍这样写道，该产品目前定位为“early access（抢先体验）”版本。“在你的AI工具中访问Suno MCP，直接在聊天里创作音乐。”"
+        },
+        {
+          "t": "p",
+          "x": "Suno MCP目前可接入Claude、ChatGPT、Gemini、Claude Code和Cursor；如果用户愿意手动调整所需的连接器设置，也可接入其他AI工具。"
+        },
+        {
+          "t": "p",
+          "x": "通过Suno MCP生成的歌曲会像在Suno自家网站和应用上一样消耗积分，音乐会保存到用户的曲库中，也可在网站和应用中访问。Suno的免费用户和付费订阅用户都可使用该MCP。"
+        },
+        {
+          "t": "p",
+          "x": "Suno是首批推出MCP服务器的大型AI音乐（AI-music）工具之一，不过目前是抢先体验形式，并未向所有人开放。鉴于两家公司都面临正在进行的版权诉讼，能在Anthropic的Claude中使用Suno，对音乐版权方来说尤其敏感。"
+        }
+      ]
     }
   }
 }

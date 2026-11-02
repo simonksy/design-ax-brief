@@ -3029,6 +3029,159 @@
           "x": "Los anuncios llevarán la etiqueta “Sponsored” de forma clara. Seguiremos probando nuevos formatos para que los anuncios sigan siendo útiles y relevantes."
         }
       ]
+    },
+    "marketing/bing-copilot-overview-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Microsoft ya muestra anuncios dentro de las Bing AI Overviews impulsadas por Copilot. No creo haber visto anuncios en las respuestas de IA de Bing Search y personalmente todavía no consigo que aparezcan, pero Khushal Bherwani compartió una captura de pantalla de un anuncio dentro de una AI Overview en Bing Search."
+        },
+        {
+          "t": "p",
+          "x": "Khushal Bherwani compartió la captura en X y escribió: “Bing está mostrando Sponsored Results dentro de las AI Overviews”."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-ai-overview-with-ads-WnTrn06o.jpg",
+          "cap": "Bing AI Overview con anuncios"
+        },
+        {
+          "t": "p",
+          "x": "Como recordatorio, Bing cambió hace unos meses el nombre del cuadro Copilot Search a AI Overviews."
+        }
+      ]
+    },
+    "marketing/shopify-agent-commission": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-agent-897.png"
+        },
+        {
+          "t": "p",
+          "x": "Desde el 27 de octubre de 2026, la documentación de Shopify da a un agente de compras con IA motivos para trabajar para otros dos además del comprador: la empresa que lo creó y Shop, la aplicación y sitio web de Shopify."
+        },
+        {
+          "t": "p",
+          "x": "Shopify mezcla productos que pagan comisión en los resultados de búsqueda que su catálogo entrega a los agentes de IA, y los llama ubicaciones promocionadas. Cuando un comprador adquiere uno, Shopify paga a la empresa detrás del agente (el desarrollador) el 0.3% del pedido. Las tiendas que usan Shop Campaigns con las plataformas externas activadas pueden añadir una comisión adicional; el ejemplo de Shopify muestra un 1.5% en un producto."
+        },
+        {
+          "t": "p",
+          "x": "La comisión adicional se paga “solo cuando el comprador completa la compra en Shop, ya sea en la aplicación móvil de Shop o en shop.com”; una venta en el propio sitio web de la tienda solo genera el 0.3%. La documentación de Shopify no aclara si una comisión mayor también hace subir un producto en la lista."
+        },
+        {
+          "t": "p",
+          "x": "Shopify pide a los desarrolladores que etiqueten los productos promocionados y avisen de que pueden cobrar una comisión “antes de que los compradores actúen sobre un resultado promocionado”, pero deja la redacción en sus manos. Las ubicaciones promocionadas son una Developer Preview por invitación, la comisión adicional es solo para Estados Unidos (US-only) y Shopify afirma que los detalles “no son definitivos y podrían cambiar”."
+        }
+      ]
+    },
+    "marketing/starbucks-ai-drivethru-menu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0.0065789473684248%2C0%2C99.986842105263%2C100&w=2400",
+          "cap": "Foto: Jeffrey Greenberg/Universal Images Group via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Starbucks podría llegar a mostrarte un menú digital personalizado cuando llegues al autoservicio. Durante una conferencia de resultados el jueves, el CEO de Starbucks, Brian Niccol, dijo que la compañía va a explorar “experiencias que reconozcan a los clientes participantes cuando lleguen, presenten menús digitales personalizados y hagan el pago más sencillo”, como detectó antes More Perfect Union."
+        },
+        {
+          "t": "p",
+          "x": "Suena parecido a la tecnología con la que experimenta Taco Bell, capaz de cambiar el diseño, el contenido y los elementos visuales de un menú digital “coche por coche”. McDonald’s también mostró hace poco una función con IA (AI-powered) que prueba en unos pocos autoservicios y que permite a su chatbot “ArchIQ” identificar a clientes habituales y dejarles pedir “lo de siempre”."
+        },
+        {
+          "t": "p",
+          "x": "A partir de 2027, Starbucks también empezará a probar modelos de IA en segundo plano en el autoservicio para ayudar a los baristas a “introducir los pedidos con más precisión y eficiencia”, según Niccol. La compañía también planea integrar la IA en las funciones de búsqueda y descubrimiento de la aplicación de Starbucks, y podría permitir pedidos “conversacionales y agénticos” en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "Starbucks ya permite a los clientes hacer pedidos a través de ChatGPT y también lanzó Green Dot Assist, una herramienta con IA (AI-powered) que los empleados pueden usar para consultar cosas como recetas y estándares de servicio."
+        },
+        {
+          "t": "p",
+          "x": "Aún no está claro cuándo veremos menús digitales personalizados en Starbucks, pero Niccol dice que todavía es “pronto” y añade que “probaremos, aprenderemos y ampliaremos lo que funcione”."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-26-countries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chat-boxes-floating-5ruwbegE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI acaba de enviar su actualización semanal por correo a los anunciantes para anunciar que ChatGPT Ads ya funciona en 26 países más, un nuevo formato de unidad publicitaria estándar más ancho, que los anuncios Multi-image ya están disponibles en beta abierta para todos los anunciantes y que la integración con Shopify ya está disponible a nivel internacional."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Ads está desplegando un formato de unidad publicitaria estándar más ancho. OpenAI explicó que se trata de una nueva tarjeta publicitaria estándar, más ancha, que aprovecha más el ancho de la conversación en escritorio. Este formato usa las campañas y creatividades existentes, por lo que el anunciante no tiene que hacer nada, añadió OpenAI."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/wider-chatgpt-ads-9VwMUKno.png",
+          "cap": "Anuncios de ChatGPT más anchos"
+        },
+        {
+          "t": "p",
+          "x": "Algunos de los otros anuncios son algo antiguos, como la expansión a 26 países y a más de 100,000 anunciantes. ChatGPT Ads ya está disponible en 89 países de todo el mundo. Las mejoras de creatividades se están activando automáticamente, algo que ya cubrimos. Los anuncios Multi-image ya están disponibles en beta abierta para todos los anunciantes, entre otras novedades."
+        },
+        {
+          "t": "p",
+          "x": "Este es el correo que envió OpenAI:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ad-email-pwdGj1eX.png",
+          "cap": "Correo de anuncios de ChatGPT"
+        }
+      ]
+    },
+    "marketing/princeton-ai-ad-persuasion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+          "cap": "Un estudio concluye que, cuando la AI persuade activamente sobre productos anunciados, la tasa de elección es unas 2.7 veces mayor que con los anuncios de búsqueda tradicionales. [Foto: OpenAI]"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio concluye que, cuando una inteligencia artificial (AI) conversacional recomienda activamente un producto anunciado, la tasa de elección de los usuarios puede ser unas 3 veces mayor que con los anuncios de búsqueda tradicionales."
+        },
+        {
+          "t": "p",
+          "x": "Según el medio de IT ITmedia el día 29 (hora local), investigadores de la Universidad de Princeton, en Estados Unidos, publicaron el artículo 'Persuasión comercial en conversaciones mediadas por AI', que analiza cómo influyen las conversaciones con AI en las decisiones de los consumidores en las compras en línea."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores pidieron a 2012 residentes en Estados Unidos que eligieran un libro entre unos 5500 libros electrónicos. Tras designar al azar el 20% de los productos como anunciados, compararon los resultados de elección en una pantalla de búsqueda y en pantallas de chat con 5 modelos de AI: GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek V3.2 y Qwen3 235B."
+        },
+        {
+          "t": "p",
+          "x": "Cuando los productos anunciados se colocaron en la parte superior de los resultados de búsqueda, la tasa de elección fue del 22.4%. En la pantalla de chat con AI, cuando el producto anunciado se presentó en primer lugar pero con una descripción neutral, fue del 26.8%. En cambio, cuando se indicó a la AI que persuadiera activamente a favor del producto anunciado, la tasa de elección se disparó al 61.2%, unas 2.7 veces la de los anuncios de búsqueda tradicionales."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios apenas notaron la persuasión de la AI. En la condición de persuasión activa, solo el 17.9% identificó correctamente el producto anunciado. Incluso con etiqueta de anuncio y aviso previo de la promoción, la tasa de elección fue del 55.5%, y el porcentaje que identificó correctamente el producto anunciado fue del 35.1%."
+        },
+        {
+          "t": "p",
+          "x": "Cuando se indicó a la AI que ocultara su intención persuasiva, la tasa de elección del producto anunciado fue del 40.7%. Sin embargo, solo el 9.5% identificó correctamente el producto anunciado. Esto indica que la etiqueta de anuncio o el aviso previo por sí solos pueden no bastar para reducir el efecto persuasivo de la AI."
+        },
+        {
+          "t": "p",
+          "x": "También destaca la reacción posterior a la elección. Cuando los investigadores preguntaron a los participantes si preferían recibir $1 en lugar del libro elegido, no hubo una diferencia estadísticamente significativa en la proporción que mantuvo su elección entre quienes eligieron por anuncios de búsqueda y quienes lo hicieron por persuasión de la AI. Incluso después de revelarse el contenido del experimento, la mayoría de los participantes mantuvo su elección."
+        },
+        {
+          "t": "p",
+          "x": "El análisis de las conversaciones mostró que la AI tendía a aumentar el efecto persuasivo restando atractivo a otros productos en lugar de elogiar en exceso el producto anunciado. Por ejemplo, planteaba reparos sobre productos no anunciados, como \"el desarrollo es lento\" o \"no es un libro para todo el mundo\", o despachaba sus descripciones de forma breve y desganada para que parecieran relativamente menos atractivos. Las recomendaciones personalizadas según los gustos del usuario también se asociaron con el efecto persuasivo."
+        },
+        {
+          "t": "p",
+          "x": "El estudio muestra que la forma en que recomienda la AI conversacional puede influir más en las decisiones de los consumidores que la simple exposición en la parte superior de los resultados de búsqueda. Dado que el efecto persuasivo se mantiene en buena medida incluso con etiqueta de anuncio y que a los usuarios les cuesta detectar la inducción publicitaria, la transparencia publicitaria y la protección de los usuarios en los servicios de compra con AI se perfilan como retos principales."
+        }
+      ]
     }
   }
 }

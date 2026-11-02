@@ -10209,6 +10209,171 @@
           "x": "A dedicated button turns off the microphones and cameras, and a built-in LED turns on when it streams to the cloud. Given Amazon’s past with Ring cameras, some privacy-focused customers may opt for camera-less alternatives. The Echo Studio With Home Camera is $250, which is $30 more than the camera-free version."
         }
       ]
+    },
+    "gadgets/gemini-live-offline-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
+          "cap": "Tushar Mehta / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "An Android Authority teardown has revealed that Gemini Live could get an offline mode. A teardown of the Google app for Android (v17.71.17) turned up two strings: \"Offline mode\" and \"Use Gemini Live without an internet connection.\" The \"ui_account\" string name suggests the option could appear in Gemini's account switcher menu."
+        },
+        {
+          "t": "p",
+          "x": "It's not clear how this will work. Gemini Live relies on speedy, continuous speech recognition, extremely fast conversational responses and voice synthesis, and Android Authority guesses an offline mode could be slower and less accurate than the cloud-based one. It's also unclear whether camera and screen sharing will be available in this local-only mode."
+        },
+        {
+          "t": "p",
+          "x": "Offline Gemini Live likely won't have access to the full-blown Gemini chatbot, which would require far too much RAM and compute for a smartphone. But many modern Android phones run the on-device Gemini Nano model along with the ARCore service, so offline mode could theoretically handle less complex tasks by falling back to Gemini Nano."
+        },
+        {
+          "t": "p",
+          "x": "Google added Guided Vision to Gemini Live early this month and live translation in September. An APK teardown is based on work-in-progress code, and predicted features may not make it to a public release."
+        }
+      ]
+    },
+    "gadgets/logitech-mx-master4-devedition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
+          "cap": "The MX Master 4 Developer Edition has a two-tone finish with yellow accents and programming-inspired details"
+        },
+        {
+          "t": "p",
+          "x": "Logitech has introduced the MX Master 4 Developer Edition at its Creative Day event in Shanghai, held on October 30 and 31. The company describes it as the first special edition in the MX series' more than 20-year history."
+        },
+        {
+          "t": "p",
+          "x": "The special edition has a light gray and silver finish, a dark gray palm rest and bright green accents. Its surface features programming references, syntax prompts and circuit-inspired patterns. The design is intended as a tribute to developers rather than a hardware refresh. Logitech had previously listed the same developer-themed mouse on its US website as the MX Master 4 Special Edition."
+        },
+        {
+          "t": "p",
+          "x": "The Developer Edition retains the standard MX Master 4 features, including its MagSpeed scroll wheel, Haptic Sense Panel and Actions Ring."
+        },
+        {
+          "t": "p",
+          "x": "Logitech supports the AI assistant through a plugin in its Logi Options+ application, allowing users to assign compatible device shortcuts to WorkBuddy functions. These include meeting summaries, real-time translation and document generation. The plugin supports Windows and macOS."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
+          "cap": "Logitech MX Master 4 Developer Edition in use"
+        },
+        {
+          "t": "p",
+          "x": "The Logitech MX Master 4 Developer Edition has an official Chinese price of 999 yuan (approximately $150), while the MX Master 4 Special Edition is listed for $119.99 in the US. JD.com offers the Chinese version for 899 yuan (approximately $135) after China's national subsidy. The purchase also includes 500 Tencent WorkBuddy points. Logitech has not confirmed whether the WorkBuddy promotion will be available in other markets."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
+          "cap": "Bottom view"
+        }
+      ]
+    },
+    "gadgets/arrowspace-s1-ai-screwdriver": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
+          "cap": "Image: Arrowmax"
+        },
+        {
+          "t": "p",
+          "x": "Arrowmax wants to make electric screwdrivers smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need, since choosing the wrong size could leave you with a stripped screw."
+        },
+        {
+          "t": "p",
+          "x": "The Arrowspace S1 is on Kickstarter: around $79 for the screwdriver by itself, or around $129 bundled with the S1 smart bit case. Full retail pricing will be higher, and the S1 isn't expected to ship until April 2027 at the earliest."
+        },
+        {
+          "t": "p",
+          "x": "On the bottom of the S1 is a small camera with an LED light that captures an image of a screw head. Next to it, a \"precision contact probe\" extends and rests on the screw so the camera is always at the ideal focus distance for the AI model."
+        },
+        {
+          "t": "video",
+          "yt": "D36kpU-VaDA"
+        },
+        {
+          "t": "p",
+          "x": "Once the AI processes the photo, the type and size of bit you need is displayed through a connected mobile app, and the screwdriver automatically selects a safe torque setting. The optional S1 Smart Case holds 52 steel bits with an LED next to each one that lights up the one you need."
+        },
+        {
+          "t": "p",
+          "x": "A 600mAh battery is claimed to run for up to 90 minutes, or tighten or loosen over 900 screws. An OLED screen shows remaining charge, torque setting and rotation direction."
+        }
+      ]
+    },
+    "gadgets/gemini-overlay-sparkle-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
+          "cap": "Akshay Gangwar / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Google loves redesigning things, and Gemini is one of the things it loves redesigning the most. We've already seen the company experiment with new animations for Circle to Search and Gemini Live. We also spotted a new Gemini animation that later arrived on the Pixel 11 series. Well, if you were hoping to get that new Gemini design without buying a new Pixel, you're in luck."
+        },
+        {
+          "t": "p",
+          "x": "A new Google app update is now finally bringing the updated Gemini design to all Android devices (spotted via 9to5Google). The redesign brings Google's Neural Expressive design language to the Gemini overlay, complete with the sparkling effects and tiny dots surrounding the \"Ask Gemini\" text box."
+        },
+        {
+          "t": "video",
+          "yt": "_BIvK2IftiY"
+        },
+        {
+          "t": "p",
+          "x": "The initial animation isn't the only bit that's new, however. Once the animation completes, the \"Ask Gemini\" text box now has slightly shaded edges, giving it a more three-dimensional look. These shaded edges are more obvious in dark mode. In light mode, it looks pretty much the same as it always has."
+        },
+        {
+          "t": "p",
+          "x": "It's worth noting that the redesign is part of a Google app update. You can head to the Play Store and update the Google app on your phone to the latest available version to get the new animation. If you still don't see it, try force-stopping the Google app on your phone."
+        }
+      ]
+    },
+    "gadgets/rokid-glasses2-microled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+          "cap": "The Rokid Glasses 2 have a more comfortable design."
+        },
+        {
+          "t": "p",
+          "x": "Rokid has launched a second-gen model of its smart glasses with a microLED display. The new glasses have a more comfortable design, a bigger battery capacity, upgraded audio, and support for AI agents."
+        },
+        {
+          "t": "p",
+          "x": "The Rokid Glasses 2 have a squircle frame attached to flexible temples that open up to 22% wider than those of the previous generation. The glasses retain the IPX4 rating of the previous generation. Upgraded lenses are reported to be 70% less reflective, and the microLED waveguide display (single green display) has a 480 × 380 resolution, 25° field of view, and 1500 nits of brightness."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+          "cap": "The Rokid Glasses 2 are powered by the Snapdragon AR1+."
+        },
+        {
+          "t": "p",
+          "x": "The glasses have dual-processors — the BES2800BP and the Snapdragon AR1+ — while RAM and storage remain 2GB and 32GB. A 12MP camera records in 4K at 30fps, and upgraded speakers support Dolby Audio, alongside four omnidirectional microphones and a bone conduction microphone."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+          "cap": "The Rokid Glasses 2 have support for Dolby Audio."
+        },
+        {
+          "t": "p",
+          "x": "The Rokid Glasses 2 have live translate; can identify and provide information about what you are looking at; and can record and transcribe meetings and ideas. Rokid also says the Glasses 2 support desktop agents such as Hermes, Codex, OpenClaw, Alibaba's Qoder, Tencent's WorkBuddy, and OpenCode."
+        },
+        {
+          "t": "p",
+          "x": "A 263mAh battery is larger than the 210mAh of the previous generation. Black costs CNY 3699 (~$555/€498) and Tortoiseshell CNY 3849 (~$577/€518); they are available to pre-order now and will be released on November 11. Rokid hasn't announced when they will be released outside China."
+        }
+      ]
     }
   }
 }

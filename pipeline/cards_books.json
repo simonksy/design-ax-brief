@@ -1,125 +1,197 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "books",
   "cards": [
     {
-      "id": "books-openai-fairuse-amicus",
+      "id": "kindle-askthisbook-ereader",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판계 “OpenAI\n공정이용 주장 기각해야”",
-      "body": "출판·저작권 네 단체가 US 법원에 OpenAI 공정이용 항변 기각을 촉구했다.",
-      "mini_headline": "출판계, OpenAI 공정이용에 반대",
+      "headline": "Kindle에 AI 기능\nAsk This Book",
+      "body": "Kindle 5.20.2에 AI-powered Ask This Book이 들어왔다.",
+      "mini_headline": "Kindle에 Ask This Book",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
+      "source": "Good e-Reader",
+      "url": "https://goodereader.com/blog/kindle/ask-this-book-feature-now-on-kindle-ereaders",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-            "cap": "© Shutterstock"
+            "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+            "cap": "Kindle 전자책 단말기"
           },
           {
             "t": "p",
-            "x": "출판·저작권 단체 네 곳이 대형 저작권 침해 소송을 맡은 US 법원에 OpenAI의 공정이용(fair-use) 항변을 기각해 달라고 요구했다. OpenAI가 저작물로 AI 모델을 학습시키면 작가의 생계가 위협받고 라이선스 시장이 무너지며, 경쟁 도서가 나올 길까지 열린다는 주장이다."
+            "x": "Amazon이 Kindle 소프트웨어 업데이트 5.20.2로 AI-powered 기능 “Ask This Book”을 Kindle 전자책 단말기에 바로 넣었다."
+          },
+          {
+            "t": "p",
+            "x": "단말기 안에 들어 있는 대화형 독서 도우미다. 바깥 스포일러 걱정 없이 본문을 검색하고 요약을 만들며 등장인물과 줄거리도 구체적으로 물어볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "사용자들은 Amazon이 지금껏 내놓은 펌웨어 설치 파일 중 가장 큰 편이라고 말한다. 크기는 약 643 MB다."
+          },
+          {
+            "t": "p",
+            "x": "책 안에서 메뉴를 열거나 본문의 특정 구절이나 단어를 하이라이트하면 바로 쓸 수 있다. 추천 질문 목록이 뜨고 질문을 직접 입력하거나 후속 질문을 이어 갈 수도 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Publishers urge court to reject\nOpenAI's fair use defence",
-          "body": "Four publishing and copyright organisations urged a US court to reject OpenAI's fair use defence in a copyright case.",
-          "mini_headline": "Publishers oppose OpenAI fair use",
+          "headline": "Kindle e-readers get\nAI Ask This Book",
+          "body": "Kindle Software Update 5.20.2 brings the AI-powered Ask This Book feature directly to Kindle e-readers.",
+          "mini_headline": "Kindle gets Ask This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "Kindle e-reader"
               },
               {
                 "t": "p",
-                "x": "Four publishing and copyright organisations have urged a US court to reject OpenAI’s fair-use defence in a major copyright infringement case, arguing that the company’s use of copyrighted works to train its AI models threatens authors’ livelihoods, undermines licensing markets and enables the creation of competing books."
+                "x": "Amazon’s Kindle Software Update 5.20.2 brings the AI-powered “Ask This Book” feature directly to Kindle e-readers."
+              },
+              {
+                "t": "p",
+                "x": "This feature acts as an interactive, built-in reading companion. It allows you to query the text, generate summaries, or ask specific questions about characters and plot points without risking outside spoilers."
+              },
+              {
+                "t": "p",
+                "x": "Noted by users as one of the largest firmware installation files Amazon has released to date. It is around 643 MB in size."
+              },
+              {
+                "t": "p",
+                "x": "You can access it by opening the in-book menu or by highlighting a specific passage or word within the text. It will provide a list of suggested questions, or you can type your own custom question and ask follow-ups."
               }
             ]
           }
         },
         "ko": {
-          "headline": "출판계 “OpenAI\n공정이용 주장 기각해야”",
-          "body": "출판·저작권 네 단체가 US 법원에 OpenAI 공정이용 항변 기각을 촉구했다.",
-          "mini_headline": "출판계, OpenAI 공정이용에 반대",
+          "headline": "Kindle에 AI 기능\nAsk This Book",
+          "body": "Kindle 5.20.2에 AI-powered Ask This Book이 들어왔다.",
+          "mini_headline": "Kindle에 Ask This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "Kindle 전자책 단말기"
               },
               {
                 "t": "p",
-                "x": "출판·저작권 단체 네 곳이 대형 저작권 침해 소송을 맡은 US 법원에 OpenAI의 공정이용(fair-use) 항변을 기각해 달라고 요구했다. OpenAI가 저작물로 AI 모델을 학습시키면 작가의 생계가 위협받고 라이선스 시장이 무너지며, 경쟁 도서가 나올 길까지 열린다는 주장이다."
+                "x": "Amazon이 Kindle 소프트웨어 업데이트 5.20.2로 AI-powered 기능 “Ask This Book”을 Kindle 전자책 단말기에 바로 넣었다."
+              },
+              {
+                "t": "p",
+                "x": "단말기 안에 들어 있는 대화형 독서 도우미다. 바깥 스포일러 걱정 없이 본문을 검색하고 요약을 만들며 등장인물과 줄거리도 구체적으로 물어볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "사용자들은 Amazon이 지금껏 내놓은 펌웨어 설치 파일 중 가장 큰 편이라고 말한다. 크기는 약 643 MB다."
+              },
+              {
+                "t": "p",
+                "x": "책 안에서 메뉴를 열거나 본문의 특정 구절이나 단어를 하이라이트하면 바로 쓸 수 있다. 추천 질문 목록이 뜨고 질문을 직접 입력하거나 후속 질문을 이어 갈 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版団体、OpenAIの\nフェアユース棄却を要請",
-          "body": "出版・著作権の四団体が、OpenAIのフェアユース抗弁を退けるようUS裁判所に求めた。",
-          "mini_headline": "出版団体、OpenAIのフェアユースに反対",
+          "headline": "Kindle端末にAI\nAsk This Book",
+          "body": "Kindle 5.20.2がAI-poweredのAsk This Bookを搭載した。",
+          "mini_headline": "KindleにAsk This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "Kindle電子書籍リーダー"
               },
               {
                 "t": "p",
-                "x": "出版・著作権の四団体は、大規模な著作権侵害訴訟でOpenAIのフェアユース(fair-use)の抗弁を退けるようUS裁判所に求めた。同社が著作物をAIモデルの学習に使うことは、作家の生計を脅かし、ライセンス市場を損ない、競合する書籍の生成を可能にすると主張している。"
+                "x": "AmazonのKindleソフトウェアアップデート5.20.2により、AI-poweredの機能「Ask This Book」がKindle電子書籍リーダーに直接搭載された。"
+              },
+              {
+                "t": "p",
+                "x": "この機能は対話型の読書アシスタントとして端末に組み込まれている。外部のネタバレを気にすることなく、本文を検索したり、要約を生成したり、登場人物や筋書きについて具体的に質問したりできる。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーの間では、Amazonがこれまでに公開したファームウェアのインストールファイルの中でも最大級だと指摘されている。サイズは約643 MBだ。"
+              },
+              {
+                "t": "p",
+                "x": "本の中のメニューを開くか、本文中の特定の箇所や単語をハイライトすると利用できる。質問の候補が一覧で示されるほか、自分で質問を入力し、さらに追加で尋ねることもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版组织促法院驳回\nOpenAI合理使用抗辩",
-          "body": "四家出版与版权组织敦促US法院在一起版权案中驳回OpenAI的合理使用抗辩。",
-          "mini_headline": "出版界反对OpenAI合理使用",
+          "headline": "Kindle阅读器迎来AI\nAsk This Book",
+          "body": "Kindle阅读器5.20.2更新加入AI-powered的Ask This Book。",
+          "mini_headline": "Kindle迎来Ask This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "Kindle电子阅读器"
               },
               {
                 "t": "p",
-                "x": "四家出版与版权组织敦促US法院在一起重大版权侵权案中驳回OpenAI的合理使用(fair-use)抗辩，认为该公司使用受版权保护的作品训练其AI模型，威胁作者生计、破坏授权市场，并使与之竞争的图书得以产生。"
+                "x": "Amazon的Kindle软件更新5.20.2将AI-powered的“Ask This Book”功能直接带到了Kindle电子阅读器上。"
+              },
+              {
+                "t": "p",
+                "x": "该功能相当于一个内置的互动式阅读助手。用户可以检索文本、生成摘要，或就人物和情节提出具体问题，而不必担心外部剧透。"
+              },
+              {
+                "t": "p",
+                "x": "有用户指出，这是Amazon迄今发布的最大固件安装文件之一，大小约为643 MB。"
+              },
+              {
+                "t": "p",
+                "x": "打开书内菜单，或在文本中高亮某个段落或词语，即可使用该功能。它会给出一组推荐问题，用户也可以自行输入问题并继续追问。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales piden rechazar la\ndefensa de uso justo de OpenAI",
-          "body": "Cuatro entidades editoriales y de copyright pidieron a un tribunal de US rechazar la defensa de uso justo de OpenAI.",
-          "mini_headline": "Editoriales contra el uso justo de OpenAI",
+          "headline": "Los e-readers Kindle reciben\nla función AI Ask This Book",
+          "body": "La actualización de software 5.20.2 de Kindle lleva la función AI-powered Ask This Book a los e-readers Kindle.",
+          "mini_headline": "Kindle estrena Ask This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "e-reader Kindle"
               },
               {
                 "t": "p",
-                "x": "Cuatro organizaciones editoriales y de derechos de autor instaron a un tribunal de US a rechazar la defensa de uso justo (fair-use) de OpenAI en un importante caso de infracción de copyright, con el argumento de que el uso de obras protegidas por parte de la empresa para entrenar sus modelos de AI amenaza el sustento de los autores, socava los mercados de licencias y permite crear libros que compiten con los suyos."
+                "x": "La actualización de software 5.20.2 de Kindle, de Amazon, lleva la función AI-powered “Ask This Book” directamente a los e-readers Kindle."
+              },
+              {
+                "t": "p",
+                "x": "La función actúa como un asistente de lectura interactivo e integrado. Permite consultar el texto, generar resúmenes o hacer preguntas concretas sobre personajes y tramas sin riesgo de spoilers externos."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios señalan que es uno de los archivos de instalación de firmware más grandes que Amazon ha publicado hasta la fecha. Ocupa unos 643 MB."
+              },
+              {
+                "t": "p",
+                "x": "Se accede abriendo el menú dentro del libro o resaltando un pasaje o una palabra concretos del texto. Ofrece una lista de preguntas sugeridas, o se puede escribir una pregunta propia y hacer preguntas de seguimiento."
               }
             ]
           }
@@ -127,77 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "출판계 “OpenAI\n공정이용 주장 기각해야”",
-          "body": "출판·저작권 네 단체가 US 법원에 OpenAI 공정이용 항변 기각을 촉구했다.",
-          "mini_headline": "출판계, OpenAI 공정이용에 반대",
+          "headline": "Kindle에 AI 기능\nAsk This Book",
+          "body": "Kindle 5.20.2에 AI-powered Ask This Book이 실렸다.",
+          "mini_headline": "Kindle에 Ask This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "Kindle 전자책 단말기"
               },
               {
                 "t": "p",
-                "x": "출판·저작권 단체 네 곳이 대형 저작권 침해 소송에서 US 법원에 OpenAI의 공정이용(fair-use) 항변을 기각하라고 촉구했다. 이들은 OpenAI가 저작물을 AI 모델 학습에 쓰는 행위가 작가의 생계를 위협하고 라이선스 시장을 훼손하며 경쟁 도서가 만들어지는 길을 연다고 주장했다."
+                "x": "Amazon의 Kindle 소프트웨어 업데이트 5.20.2가 AI-powered 기능 “Ask This Book”을 Kindle 전자책 단말기에 직접 들여왔다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 단말기에 내장된 대화형 독서 도우미 역할을 한다. 바깥 스포일러를 걱정하지 않고 본문을 검색하거나 요약을 만들고, 등장인물과 줄거리에 관해 구체적으로 물을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "사용자들 사이에서는 Amazon이 지금까지 내놓은 펌웨어 설치 파일 가운데 가장 큰 축에 속한다는 말이 나온다. 크기는 약 643 MB다."
+              },
+              {
+                "t": "p",
+                "x": "책 안의 메뉴를 열거나 본문의 특정 구절이나 단어를 하이라이트해 이 기능을 쓸 수 있다. 추천 질문 목록이 나오고, 직접 질문을 입력하거나 후속 질문을 이어갈 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版団体、OpenAIの\nフェアユース棄却を要請",
-          "body": "出版・著作権の四団体が、OpenAIのフェアユース抗弁を退けるようUS裁判所に求めた。",
-          "mini_headline": "出版団体、OpenAIのフェアユースに反対",
+          "headline": "Kindle端末にAI\nAsk This Book",
+          "body": "Kindle 5.20.2がAI-poweredのAsk This Bookを搭載した。",
+          "mini_headline": "KindleにAsk This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "Kindle電子書籍リーダー"
               },
               {
                 "t": "p",
-                "x": "出版・著作権の四団体は、大規模な著作権侵害訴訟でOpenAIのフェアユース(fair-use)の抗弁を退けるようUS裁判所に求めた。同社が著作物をAIモデルの学習に使うことは、作家の生計を脅かし、ライセンス市場を損ない、競合する書籍の生成を可能にすると主張している。"
+                "x": "AmazonのKindleソフトウェアアップデート5.20.2により、AI-poweredの機能「Ask This Book」がKindle電子書籍リーダーに直接搭載された。"
+              },
+              {
+                "t": "p",
+                "x": "この機能は対話型の読書アシスタントとして端末に組み込まれている。外部のネタバレを気にすることなく、本文を検索したり、要約を生成したり、登場人物や筋書きについて具体的に質問したりできる。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーの間では、Amazonがこれまでに公開したファームウェアのインストールファイルの中でも最大級だと指摘されている。サイズは約643 MBだ。"
+              },
+              {
+                "t": "p",
+                "x": "本の中のメニューを開くか、本文中の特定の箇所や単語をハイライトすると利用できる。質問の候補が一覧で示されるほか、自分で質問を入力し、さらに追加で尋ねることもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版组织促法院驳回\nOpenAI合理使用抗辩",
-          "body": "四家出版与版权组织敦促US法院在一起版权案中驳回OpenAI的合理使用抗辩。",
-          "mini_headline": "出版界反对OpenAI合理使用",
+          "headline": "Kindle阅读器迎来AI\nAsk This Book",
+          "body": "Kindle阅读器5.20.2更新加入AI-powered的Ask This Book。",
+          "mini_headline": "Kindle迎来Ask This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "Kindle电子阅读器"
               },
               {
                 "t": "p",
-                "x": "四家出版与版权组织敦促US法院在一起重大版权侵权案中驳回OpenAI的合理使用(fair-use)抗辩，认为该公司使用受版权保护的作品训练其AI模型，威胁作者生计、破坏授权市场，并使与之竞争的图书得以产生。"
+                "x": "Amazon的Kindle软件更新5.20.2将AI-powered的“Ask This Book”功能直接带到了Kindle电子阅读器上。"
+              },
+              {
+                "t": "p",
+                "x": "该功能相当于一个内置的互动式阅读助手。用户可以检索文本、生成摘要，或就人物和情节提出具体问题，而不必担心外部剧透。"
+              },
+              {
+                "t": "p",
+                "x": "有用户指出，这是Amazon迄今发布的最大固件安装文件之一，大小约为643 MB。"
+              },
+              {
+                "t": "p",
+                "x": "打开书内菜单，或在文本中高亮某个段落或词语，即可使用该功能。它会给出一组推荐问题，用户也可以自行输入问题并继续追问。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales piden rechazar la\ndefensa de uso justo de OpenAI",
-          "body": "Cuatro entidades editoriales y de copyright pidieron a un tribunal de US rechazar la defensa de uso justo de OpenAI.",
-          "mini_headline": "Editoriales contra el uso justo de OpenAI",
+          "headline": "Los e-readers Kindle reciben\nla función AI Ask This Book",
+          "body": "La actualización de software 5.20.2 de Kindle lleva la función AI-powered Ask This Book a los e-readers Kindle.",
+          "mini_headline": "Kindle estrena Ask This Book",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+                "cap": "e-reader Kindle"
               },
               {
                 "t": "p",
-                "x": "Cuatro organizaciones editoriales y de derechos de autor instaron a un tribunal de US a rechazar la defensa de uso justo (fair-use) de OpenAI en un importante caso de infracción de copyright, con el argumento de que el uso de obras protegidas por parte de la empresa para entrenar sus modelos de AI amenaza el sustento de los autores, socava los mercados de licencias y permite crear libros que compiten con los suyos."
+                "x": "La actualización de software 5.20.2 de Kindle, de Amazon, lleva la función AI-powered “Ask This Book” directamente a los e-readers Kindle."
+              },
+              {
+                "t": "p",
+                "x": "La función actúa como un asistente de lectura interactivo e integrado. Permite consultar el texto, generar resúmenes o hacer preguntas concretas sobre personajes y tramas sin riesgo de spoilers externos."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios señalan que es uno de los archivos de instalación de firmware más grandes que Amazon ha publicado hasta la fecha. Ocupa unos 643 MB."
+              },
+              {
+                "t": "p",
+                "x": "Se accede abriendo el menú dentro del libro o resaltando un pasaje o una palabra concretos del texto. Ofrece una lista de preguntas sugeridas, o se puede escribir una pregunta propia y hacer preguntas de seguimiento."
               }
             ]
           }
@@ -205,15 +325,15 @@
       }
     },
     {
-      "id": "books-aoi-illustrator-survey",
+      "id": "anthropic-taa-textbook-letter",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "생성형 AI에 일감 잃는\n일러스트레이터 늘어",
-      "body": "일러스트레이터협회 조사에서 생성형 AI 탓에 일감·수입을 잃은 작가가 늘었다.",
-      "mini_headline": "일러스트레이터, AI에 일감 잃어",
+      "headline": "Anthropic 합의금\n교과서 저자들 반발",
+      "body": "교과서 저자들이 $1.5B Anthropic 합의 절차가 버겁다고 법원에 호소했다.",
+      "mini_headline": "Anthropic 합의에 저자 반발",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/rise-in-number-of-illustrators-losing-work-to-genai-survey-finds",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/10/in-letter-to-the-court-textbook-authors-complain-of-unfair-process-splits-in-anthropic-settlement/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -221,107 +341,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-            "cap": "일러스트레이터(Illustrator) © Shutterstock"
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
           },
           {
             "t": "p",
-            "x": "일러스트레이터협회(Association of Illustrators, AOI)의 새 조사를 보면 생성형 AI(GenAI) 때문에 일감과 수입을 잃는 일러스트레이터가 늘었다. 이 기술이 “일러스트레이터가 받는 일의 양뿐 아니라 의뢰가 구성되고 평가되고 수행되는 방식까지 바꾸고 있다”는 지적이다."
+            "x": "분쟁이 늘자 TAA의 Kim Pawlak 사무총장은 $1.5B 규모 합의금 청구 절차에서 자원이 넉넉한 출판사와 달리 “저자들이 지는 본질적인 부담을 고려하고 인정해 달라”고 법원에 요청했다."
+          },
+          {
+            "t": "p",
+            "x": "Pawlak은 “TAA에 연락한 청구인 대다수는 교과서(교육용) 저자로, 이들의 저작물은 합의가 일반 도서와 학술 저작물에 부여한 50-50 기본 배분의 혜택을 받지 못한다”고 썼다. 출판사가 주장한 배분 비율에 분노한 저자도 있다. 이 비율은 “많은 경우 해당 저작물 합의금의 85%에서 95%에 이른다.”"
+          },
+          {
+            "t": "p",
+            "x": "청구에 이의가 있는 저자들은 출판사와 “만나 협의”하라는 안내를 받았다. 하지만 출판사 연락처나 오래된 계약서 사본이 없는 저자가 많아 “막막한 일”이다. 그 계약서들은 “AI 학습이나 집단 합의에 대해 아무런 언급도 없다.” 저자 대부분은 변호사를 쓸 형편도 안 되는데 청구 포털마저 “기술적 문제투성이”였다."
+          },
+          {
+            "t": "p",
+            "x": "Pawlak은 “공정하지 않으며, 즉흥적으로 절차에 절차를 쌓고 저자들이 넘어야 할 장애물을 늘리면서 점점 더 불공정해지고 있다”고 썼다. 합의가 “집단의 약 25%를 차지하는 교육용 저자들에 대한 공정성을 희생해서는 안 된다”는 말도 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "지난달 TAA는 Authors Guild 등 여러 단체와 함께 출판사들에 절판 도서 청구를 자발적으로 포기하고 저작권 미등록으로 제외된 저자들에게 배상금 일부를 나눠 달라고 촉구했다. 이번 서한은 그 연장선에서 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "More illustrators are losing\nwork to generative AI",
-          "body": "An Association of Illustrators survey finds a growing number of illustrators losing work and income to generative AI.",
-          "mini_headline": "Illustrators lose work to AI",
+          "headline": "Textbook authors protest\nAnthropic settlement process",
+          "body": "Textbook authors asked the court to weigh their burden in the $1.5 billion Anthropic settlement claims process.",
+          "mini_headline": "Authors fault Anthropic deal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "Illustrator © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "An increasing number of illustrators are losing work and income to generative AI (GenAI), a new survey by the Association of Illustrators (AOI) has found, with the technology “changing not only how much work illustrators receive but how commissions are structured, valued and carried out”."
+                "x": "Amid a growing number of disputes, TAA Executive Director Kim Pawlak asked the court to “consider and acknowledge the inherent burden on authors” in the $1.5 billion settlement claims process compared to the better-resourced publishers."
+              },
+              {
+                "t": "p",
+                "x": "“The majority of claimants contacting TAA have been textbook (educational) authors, whose works do not benefit from the 50-50 default split afforded by the settlement to trade and academic works,” Pawlak writes. Some have been outraged by publishers’ claimed allocations, “which in many cases range from 85% to 95% of the settlement proceeds for the work.”"
+              },
+              {
+                "t": "p",
+                "x": "Authors with disputed claims have been told they must “meet and confer” with their publisher, a “daunting prospect” for many who lack publisher contacts or copies of older contracts — contracts that “make no mention of AI training or class settlements.” Most authors also cannot afford an attorney, and the claims portal has been “riddled with technical problems.”"
+              },
+              {
+                "t": "p",
+                "x": "“It is not fair, and it is getting more unfair by piling up procedure after procedure—on the fly—and with increased hurdles for authors to surmount,” Pawlak writes, adding that the settlement “should not come at the cost of fairness to educational authors—roughly 25% of the class.”"
+              },
+              {
+                "t": "p",
+                "x": "The letter follows TAA joining the Authors Guild and other groups last month in calling on publishers to voluntarily relinquish claims on out-of-print books and use part of their payouts to pay authors excluded because their copyrights weren’t registered."
               }
             ]
           }
         },
         "ko": {
-          "headline": "생성형 AI에 일감 잃는\n일러스트레이터 늘어",
-          "body": "일러스트레이터협회 조사에서 생성형 AI 탓에 일감·수입을 잃은 작가가 늘었다.",
-          "mini_headline": "일러스트레이터, AI에 일감 잃어",
+          "headline": "Anthropic 합의금\n교과서 저자들 반발",
+          "body": "교과서 저자들이 $1.5B Anthropic 합의 절차가 버겁다고 법원에 호소했다.",
+          "mini_headline": "Anthropic 합의에 저자 반발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "일러스트레이터(Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "일러스트레이터협회(Association of Illustrators, AOI)의 새 조사를 보면 생성형 AI(GenAI) 때문에 일감과 수입을 잃는 일러스트레이터가 늘었다. 이 기술이 “일러스트레이터가 받는 일의 양뿐 아니라 의뢰가 구성되고 평가되고 수행되는 방식까지 바꾸고 있다”는 지적이다."
+                "x": "분쟁이 늘자 TAA의 Kim Pawlak 사무총장은 $1.5B 규모 합의금 청구 절차에서 자원이 넉넉한 출판사와 달리 “저자들이 지는 본질적인 부담을 고려하고 인정해 달라”고 법원에 요청했다."
+              },
+              {
+                "t": "p",
+                "x": "Pawlak은 “TAA에 연락한 청구인 대다수는 교과서(교육용) 저자로, 이들의 저작물은 합의가 일반 도서와 학술 저작물에 부여한 50-50 기본 배분의 혜택을 받지 못한다”고 썼다. 출판사가 주장한 배분 비율에 분노한 저자도 있다. 이 비율은 “많은 경우 해당 저작물 합의금의 85%에서 95%에 이른다.”"
+              },
+              {
+                "t": "p",
+                "x": "청구에 이의가 있는 저자들은 출판사와 “만나 협의”하라는 안내를 받았다. 하지만 출판사 연락처나 오래된 계약서 사본이 없는 저자가 많아 “막막한 일”이다. 그 계약서들은 “AI 학습이나 집단 합의에 대해 아무런 언급도 없다.” 저자 대부분은 변호사를 쓸 형편도 안 되는데 청구 포털마저 “기술적 문제투성이”였다."
+              },
+              {
+                "t": "p",
+                "x": "Pawlak은 “공정하지 않으며, 즉흥적으로 절차에 절차를 쌓고 저자들이 넘어야 할 장애물을 늘리면서 점점 더 불공정해지고 있다”고 썼다. 합의가 “집단의 약 25%를 차지하는 교육용 저자들에 대한 공정성을 희생해서는 안 된다”는 말도 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "지난달 TAA는 Authors Guild 등 여러 단체와 함께 출판사들에 절판 도서 청구를 자발적으로 포기하고 저작권 미등록으로 제외된 저자들에게 배상금 일부를 나눠 달라고 촉구했다. 이번 서한은 그 연장선에서 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AIで仕事を失う\nイラストレーター増加",
-          "body": "イラストレーター協会の調査で、生成AIにより仕事と収入を失う人が増えていると分かった。",
-          "mini_headline": "イラストレーター、AIで仕事を失う",
+          "headline": "Anthropic和解に\n教科書著者が反発",
+          "body": "教科書著者が$1.5B のAnthropic和解手続きの負担を裁判所に訴えた。",
+          "mini_headline": "Anthropic和解に著者が異議",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "イラストレーター(Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "イラストレーター協会(Association of Illustrators、AOI)の新たな調査によると、生成AI(GenAI)によって仕事と収入を失うイラストレーターが増えている。この技術は「イラストレーターが受ける仕事の量だけでなく、依頼の組み立て方、評価のされ方、遂行のされ方まで変えつつある」という。"
+                "x": "紛争が増えるなか、TAAのKim Pawlak事務局長は、$1.5B の和解金請求手続きにおいて、資金力のある出版社と比べて「著者が負う本質的な負担を考慮し、認めてほしい」と裁判所に求めた。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlakは「TAAに連絡してきた請求者の大半は教科書(教育用)の著者であり、その著作物は、和解が一般書や学術書に認めた50-50の既定配分の恩恵を受けられない」と書いている。出版社が主張する配分に憤る著者もおり、その割合は「多くの場合、その著作物の和解金の85%から95%に及ぶ」という。"
+              },
+              {
+                "t": "p",
+                "x": "請求に異議がある著者は出版社と「面談し協議する」よう求められたが、出版社の連絡先や古い契約書の写しを持たない多くの著者にとって、これは「気の遠くなる見通し」だ。それらの契約書には「AI学習や集団訴訟の和解について何の記載もない」。大半の著者は弁護士を雇う余裕もなく、請求ポータルは「技術的な問題だらけ」だった。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlakは「公平ではないし、その場しのぎで手続きに手続きを重ね、著者が越えるべきハードルを増やすことで、ますます不公平になっている」と書き、和解は「クラスの約25%を占める教育系著者への公平性を犠牲にしてはならない」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "この書簡に先立ち、TAAは先月、Authors Guildなどの団体とともに、絶版書籍に対する請求を出版社が自主的に放棄し、著作権未登録のため対象外となった著者への支払いに受取額の一部を充てるよう求めていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "更多插画师因生成式AI\n失去工作",
-          "body": "插画师协会调查发现，越来越多插画师因生成式AI失去工作和收入。",
-          "mini_headline": "插画师因AI失去工作",
+          "headline": "教科书作者抗议\nAnthropic和解流程",
+          "body": "教科书作者请求法院考量其在$1.5B Anthropic和解索赔流程中的负担。",
+          "mini_headline": "作者质疑Anthropic和解",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "插画师(Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "插画师协会(Association of Illustrators，AOI)的一项新调查发现，越来越多的插画师因生成式AI(GenAI)失去工作和收入，这项技术“不仅改变了插画师接到的工作量，也改变了委托的构成、估价和执行方式”。"
+                "x": "在争议日益增多之际，TAA执行董事Kim Pawlak请求法院在$1.5B 和解索赔流程中“考虑并承认作者所承受的固有负担”，因为相比之下出版商资源更为充足。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlak写道：“联系TAA的索赔人大多是教科书（教育类）作者，他们的作品无法享受和解协议为大众图书和学术作品设定的50-50默认分配。”一些作者对出版商主张的分配比例感到愤怒，这些比例“在许多情况下占该作品和解收益的85%至95%”。"
+              },
+              {
+                "t": "p",
+                "x": "对索赔有争议的作者被告知必须与出版商“会面协商”，对于许多没有出版商联系方式或旧合同副本的作者来说，这是“令人生畏的前景”，而这些合同“根本没有提及AI训练或集体和解”。大多数作者也请不起律师，索赔门户网站更是“技术问题丛生”。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlak写道：“这不公平，而且随着程序不断临时叠加、作者需要跨越的障碍越来越多，情况正变得更加不公平。”Pawlak还补充说，和解“不应以牺牲教育类作者的公平为代价——他们约占集体成员的25%”。"
+              },
+              {
+                "t": "p",
+                "x": "在这封信之前，TAA上个月已与Authors Guild等团体一道，呼吁出版商自愿放弃对绝版书的索赔，并拿出部分赔付款，支付给因版权未登记而被排除在外的作者。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Más ilustradores pierden\ntrabajo por la AI generativa",
-          "body": "Según un sondeo de la Association of Illustrators, más ilustradores pierden trabajo e ingresos por la AI generativa.",
-          "mini_headline": "Ilustradores pierden trabajo por la AI",
+          "headline": "Autores de libros de texto\nobjetan el acuerdo de Anthropic",
+          "body": "Autores de libros de texto piden al tribunal valorar su carga en el acuerdo de $1.5B de Anthropic.",
+          "mini_headline": "Autores critican el acuerdo de Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "Ilustrador (Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "Cada vez más ilustradores pierden trabajo e ingresos por la AI generativa (GenAI), según una nueva encuesta de la Association of Illustrators (AOI), que señala que la tecnología está “cambiando no solo cuánto trabajo reciben los ilustradores, sino cómo se estructuran, valoran y ejecutan los encargos”."
+                "x": "En medio de un número creciente de disputas, Kim Pawlak, al frente de la dirección ejecutiva de TAA, pidió al tribunal que “considere y reconozca la carga inherente que soportan los autores” en el proceso de reclamaciones del acuerdo de $1.5B, frente a editoriales con más recursos."
+              },
+              {
+                "t": "p",
+                "x": "“La mayoría de los reclamantes que contactan con TAA son autores de libros de texto (educativos), cuyas obras no se benefician del reparto por defecto 50-50 que el acuerdo concede a las obras comerciales y académicas”, escribe Pawlak. Algunos se han indignado por las asignaciones reclamadas por las editoriales, “que en muchos casos van del 85% al 95% de lo que el acuerdo paga por la obra”."
+              },
+              {
+                "t": "p",
+                "x": "A los autores con reclamaciones en disputa se les ha dicho que deben “reunirse y consultar” con su editorial, una “perspectiva abrumadora” para muchos que no tienen contactos en la editorial ni copias de contratos antiguos, contratos que “no mencionan el entrenamiento de AI ni los acuerdos colectivos”. La mayoría de los autores tampoco puede pagar un abogado, y el portal de reclamaciones ha estado “plagado de problemas técnicos”."
+              },
+              {
+                "t": "p",
+                "x": "“No es justo, y se vuelve cada vez más injusto al acumular procedimiento tras procedimiento —sobre la marcha— y con más obstáculos que los autores deben superar”, escribe Pawlak, y añade que el acuerdo “no debe lograrse a costa de la equidad hacia los autores educativos, aproximadamente el 25% de la clase”."
+              },
+              {
+                "t": "p",
+                "x": "La carta llega después de que el mes pasado TAA se uniera al Authors Guild y a otros grupos para pedir a las editoriales que renuncien voluntariamente a sus reclamaciones sobre libros descatalogados y destinen parte de sus pagos a los autores excluidos por no tener registrados sus derechos de autor."
               }
             ]
           }
@@ -329,77 +539,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "생성형 AI에 일감 잃는\n일러스트레이터 늘어",
-          "body": "일러스트레이터협회 조사 결과 생성형 AI로 일감·수입을 잃는 작가가 늘었다.",
-          "mini_headline": "일러스트레이터, AI에 일감 잃어",
+          "headline": "Anthropic 합의금\n교과서 저자들 반발",
+          "body": "교과서 저자들이 $1.5B Anthropic 합의 절차 부담을 법원에 호소했다.",
+          "mini_headline": "Anthropic 합의에 저자 반발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "일러스트레이터(Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "일러스트레이터협회(Association of Illustrators, AOI)의 새 조사에 따르면 생성형 AI(GenAI)로 일감과 수입을 잃는 일러스트레이터가 늘고 있다. 이 기술이 “일러스트레이터가 받는 일의 양뿐 아니라 의뢰가 구성되고 평가되고 수행되는 방식까지 바꾸고 있다”는 것이다."
+                "x": "분쟁이 늘어나는 가운데 TAA의 Kim Pawlak 사무총장은 $1.5B 규모 합의금 청구 절차에서 자원이 더 넉넉한 출판사와 비교해 “저자들이 지는 본질적인 부담을 고려하고 인정해 달라”고 법원에 요청했다."
+              },
+              {
+                "t": "p",
+                "x": "Pawlak은 “TAA에 연락한 청구인 대다수는 교과서(교육용) 저자로, 이들의 저작물은 합의가 일반 도서와 학술 저작물에 부여한 50-50 기본 배분의 혜택을 받지 못한다”고 썼다. 일부 저자는 출판사가 주장한 배분 비율에 분노했는데, 그 비율은 “많은 경우 해당 저작물 합의금의 85%에서 95%에 이른다.”"
+              },
+              {
+                "t": "p",
+                "x": "청구에 이의가 있는 저자들은 출판사와 “만나 협의”해야 한다는 안내를 받았다. 출판사 연락처나 오래된 계약서 사본이 없는 저자가 많아 이는 “막막한 일”이다. 그 계약서들은 “AI 학습이나 집단 합의에 대해 아무런 언급도 없다.” 대부분의 저자는 변호사를 선임할 여력도 없고, 청구 포털은 “기술적 문제투성이”였다."
+              },
+              {
+                "t": "p",
+                "x": "Pawlak은 “공정하지 않으며, 즉흥적으로 절차에 절차를 쌓고 저자들이 넘어야 할 장애물을 늘리면서 점점 더 불공정해지고 있다”고 썼다. 이어 합의가 “집단의 약 25%를 차지하는 교육용 저자들에 대한 공정성을 희생해서는 안 된다”고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이번 서한은 지난달 TAA가 Authors Guild 등 여러 단체와 함께 출판사들에 절판 도서에 대한 청구를 자발적으로 포기하고, 저작권 미등록으로 제외된 저자들에게 배상금 일부를 나눠 달라고 촉구한 데 이어 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AIで仕事を失う\nイラストレーター増加",
-          "body": "イラストレーター協会の調査で、生成AIにより仕事と収入を失う人が増えていると分かった。",
-          "mini_headline": "イラストレーター、AIで仕事を失う",
+          "headline": "Anthropic和解に\n教科書著者が反発",
+          "body": "教科書著者が$1.5B のAnthropic和解手続きの負担を裁判所に訴えた。",
+          "mini_headline": "Anthropic和解に著者が異議",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "イラストレーター(Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "イラストレーター協会(Association of Illustrators、AOI)の新たな調査によると、生成AI(GenAI)によって仕事と収入を失うイラストレーターが増えている。この技術は「イラストレーターが受ける仕事の量だけでなく、依頼の組み立て方、評価のされ方、遂行のされ方まで変えつつある」という。"
+                "x": "紛争が増えるなか、TAAのKim Pawlak事務局長は、$1.5B の和解金請求手続きにおいて、資金力のある出版社と比べて「著者が負う本質的な負担を考慮し、認めてほしい」と裁判所に求めた。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlakは「TAAに連絡してきた請求者の大半は教科書(教育用)の著者であり、その著作物は、和解が一般書や学術書に認めた50-50の既定配分の恩恵を受けられない」と書いている。出版社が主張する配分に憤る著者もおり、その割合は「多くの場合、その著作物の和解金の85%から95%に及ぶ」という。"
+              },
+              {
+                "t": "p",
+                "x": "請求に異議がある著者は出版社と「面談し協議する」よう求められたが、出版社の連絡先や古い契約書の写しを持たない多くの著者にとって、これは「気の遠くなる見通し」だ。それらの契約書には「AI学習や集団訴訟の和解について何の記載もない」。大半の著者は弁護士を雇う余裕もなく、請求ポータルは「技術的な問題だらけ」だった。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlakは「公平ではないし、その場しのぎで手続きに手続きを重ね、著者が越えるべきハードルを増やすことで、ますます不公平になっている」と書き、和解は「クラスの約25%を占める教育系著者への公平性を犠牲にしてはならない」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "この書簡に先立ち、TAAは先月、Authors Guildなどの団体とともに、絶版書籍に対する請求を出版社が自主的に放棄し、著作権未登録のため対象外となった著者への支払いに受取額の一部を充てるよう求めていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "更多插画师因生成式AI\n失去工作",
-          "body": "插画师协会调查发现，越来越多插画师因生成式AI失去工作和收入。",
-          "mini_headline": "插画师因AI失去工作",
+          "headline": "教科书作者抗议\nAnthropic和解流程",
+          "body": "教科书作者请求法院考量其在$1.5B Anthropic和解索赔流程中的负担。",
+          "mini_headline": "作者质疑Anthropic和解",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "插画师(Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "插画师协会(Association of Illustrators，AOI)的一项新调查发现，越来越多的插画师因生成式AI(GenAI)失去工作和收入，这项技术“不仅改变了插画师接到的工作量，也改变了委托的构成、估价和执行方式”。"
+                "x": "在争议日益增多之际，TAA执行董事Kim Pawlak请求法院在$1.5B 和解索赔流程中“考虑并承认作者所承受的固有负担”，因为相比之下出版商资源更为充足。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlak写道：“联系TAA的索赔人大多是教科书（教育类）作者，他们的作品无法享受和解协议为大众图书和学术作品设定的50-50默认分配。”一些作者对出版商主张的分配比例感到愤怒，这些比例“在许多情况下占该作品和解收益的85%至95%”。"
+              },
+              {
+                "t": "p",
+                "x": "对索赔有争议的作者被告知必须与出版商“会面协商”，对于许多没有出版商联系方式或旧合同副本的作者来说，这是“令人生畏的前景”，而这些合同“根本没有提及AI训练或集体和解”。大多数作者也请不起律师，索赔门户网站更是“技术问题丛生”。"
+              },
+              {
+                "t": "p",
+                "x": "Pawlak写道：“这不公平，而且随着程序不断临时叠加、作者需要跨越的障碍越来越多，情况正变得更加不公平。”Pawlak还补充说，和解“不应以牺牲教育类作者的公平为代价——他们约占集体成员的25%”。"
+              },
+              {
+                "t": "p",
+                "x": "在这封信之前，TAA上个月已与Authors Guild等团体一道，呼吁出版商自愿放弃对绝版书的索赔，并拿出部分赔付款，支付给因版权未登记而被排除在外的作者。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Más ilustradores pierden\ntrabajo por la AI generativa",
-          "body": "Según un sondeo de la Association of Illustrators, más ilustradores pierden trabajo e ingresos por la AI generativa.",
-          "mini_headline": "Ilustradores pierden trabajo por la AI",
+          "headline": "Autores de libros de texto\nobjetan el acuerdo de Anthropic",
+          "body": "Autores de libros de texto piden al tribunal valorar su carga en el acuerdo de $1.5B de Anthropic.",
+          "mini_headline": "Autores critican el acuerdo de Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-                "cap": "Ilustrador (Illustrator) © Shutterstock"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
               },
               {
                 "t": "p",
-                "x": "Cada vez más ilustradores pierden trabajo e ingresos por la AI generativa (GenAI), según una nueva encuesta de la Association of Illustrators (AOI), que señala que la tecnología está “cambiando no solo cuánto trabajo reciben los ilustradores, sino cómo se estructuran, valoran y ejecutan los encargos”."
+                "x": "En medio de un número creciente de disputas, Kim Pawlak, al frente de la dirección ejecutiva de TAA, pidió al tribunal que “considere y reconozca la carga inherente que soportan los autores” en el proceso de reclamaciones del acuerdo de $1.5B, frente a editoriales con más recursos."
+              },
+              {
+                "t": "p",
+                "x": "“La mayoría de los reclamantes que contactan con TAA son autores de libros de texto (educativos), cuyas obras no se benefician del reparto por defecto 50-50 que el acuerdo concede a las obras comerciales y académicas”, escribe Pawlak. Algunos se han indignado por las asignaciones reclamadas por las editoriales, “que en muchos casos van del 85% al 95% de lo que el acuerdo paga por la obra”."
+              },
+              {
+                "t": "p",
+                "x": "A los autores con reclamaciones en disputa se les ha dicho que deben “reunirse y consultar” con su editorial, una “perspectiva abrumadora” para muchos que no tienen contactos en la editorial ni copias de contratos antiguos, contratos que “no mencionan el entrenamiento de AI ni los acuerdos colectivos”. La mayoría de los autores tampoco puede pagar un abogado, y el portal de reclamaciones ha estado “plagado de problemas técnicos”."
+              },
+              {
+                "t": "p",
+                "x": "“No es justo, y se vuelve cada vez más injusto al acumular procedimiento tras procedimiento —sobre la marcha— y con más obstáculos que los autores deben superar”, escribe Pawlak, y añade que el acuerdo “no debe lograrse a costa de la equidad hacia los autores educativos, aproximadamente el 25% de la clase”."
+              },
+              {
+                "t": "p",
+                "x": "La carta llega después de que el mes pasado TAA se uniera al Authors Guild y a otros grupos para pedir a las editoriales que renuncien voluntariamente a sus reclamaciones sobre libros descatalogados y destinen parte de sus pagos a los autores excluidos por no tener registrados sus derechos de autor."
               }
             ]
           }
@@ -407,853 +677,927 @@
       }
     },
     {
-      "id": "books-stanford-anthropic-optout",
+      "id": "gemini-notebook-textbooks",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Stanford 교수들,\nAnthropic 제소",
-      "body": "Stanford 교수들이 $1.5B 합의를 마다하고 Anthropic을 제소했다.",
-      "mini_headline": "Stanford 교수들, Anthropic 제소",
+      "headline": "교재 수백권, Gemini\nNotebook에 추가",
+      "body": "Gemini Notebook에 OpenStax 교재를 넣어 학습 가이드를 만든다.",
+      "mini_headline": "Gemini Notebook에 교재 추가",
       "tool": "Books",
-      "source": "The Stanford Daily",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
       "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-            "cap": "도서관 서가에 쌓인 책들."
-          },
-          {
-            "t": "p",
-            "x": "Anthropic은 앞서 Stanford 교수 Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao, Myra Strober의 글을 불법으로 입수해 Claude를 학습시켰다. Bartz v. Anthropic 사건에서 William Alsup 판사는 Anthropic이 책을 불법 복제해 영구 중앙 도서관을 만드는 일은 더 이상 안 된다고 판결했다. 다만 책을 합법적으로 확보해 Claude를 학습시키는 것은 공정이용(fair use)으로 봤다."
-          },
-          {
-            "t": "p",
-            "x": "$1.5B 합의금은 등록 저작물 약 500,000편의 작가와 출판사에게 돌아갔다. Wolff와 다른 작가 27명은 이 합의로는 모자란다고 본다. 영문학 명예교수인 Wolff는 “그들은 대가를 치르지 않고 내 작품을 쓰고 있다”고 말했다. 그의 출판물 10편이 허락 없이 AI 학습에 쓰였다."
-          },
-          {
-            "t": "p",
-            "x": "Wolff는 영문학 교수 Chang-rae Lee와 함께 Bartz 합의에서 빠졌다. 두 사람은 2026년 5월 집단소송이 아닌 별도 소송 Cruz v. Anthropic을 내고 침해 저작물마다 최대 $150,000의 법정 손해배상 전액을 배심 재판으로 청구했다. Bartz 합의가 제시한 저작물당 약 $3,000보다 많다. 이들은 Anthropic이 LibGen, PiLiMi 같은 “섀도 라이브러리”에서 자기 책을 내려받았다고 주장한다. 승소하면 자신들의 작품으로 Claude 모델을 학습시키지 못하게 하는 영구 금지 명령을 얻는다."
-          },
-          {
-            "t": "p",
-            "x": "집단소송 원고인 Stanford Law 학자 Paul Goldstein은 “거래 비용”을 지적했다. 그는 “플랫폼이 모든 — 아니, 사실상 어느 — 저작물에 대해서든 저작권자에게서 라이선스를 받는 것은 현실적으로 불가능하다”고 말했다. Bartz와 Cruz 말고도 작가와 시각 예술가, 언론사가 AI 기업을 상대로 낸 침해 소송은 70건이 넘는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Stanford professors sue\nAnthropic over pirated books",
-          "body": "Stanford professors whose pirated books trained Claude opted out of the $1.5 billion settlement and sued Anthropic.",
-          "mini_headline": "Stanford professors sue Anthropic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "Books stacked on a library shelf."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic previously trained Claude on illegally obtained texts from Stanford professors Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao and Myra Strober. In Bartz v. Anthropic, Judge William Alsup ruled that Anthropic could no longer pirate books to create a permanent central library, while calling the legal acquisition of books to train Claude fair use."
-              },
-              {
-                "t": "p",
-                "x": "The $1.5 billion settlement went to authors and publishers of nearly 500,000 registered works. Wolff and 27 other authors say the settlement isn’t enough. “They’re using my work without paying for it,” said Wolff, professor emeritus of English. 10 of his publications had been used for AI training without permission."
-              },
-              {
-                "t": "p",
-                "x": "Wolff, along with English professor Chang-rae Lee, opted out of the Bartz settlement. In May 2026, they filed the separate non-class lawsuit Cruz v. Anthropic, seeking a jury trial for full statutory damages of up to $150,000 per infringed work, surpassing the approximate $3,000 per work offered in the Bartz settlement. They allege Anthropic downloaded their books from “shadow libraries” like LibGen and PiLiMi; if successful, they would gain a permanent injunction against Claude model training using their works."
-              },
-              {
-                "t": "p",
-                "x": "Stanford Law scholar Paul Goldstein, a plaintiff in the class action, pointed to “transaction costs”: “it’s simply impracticable for the platform to obtain licenses from the copyright owner of every — or, indeed, any — single work.” Outside of Bartz and Cruz, authors, visual artists and news outlets have filed over 70 infringement lawsuits against AI companies."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Stanford 교수들,\nAnthropic 제소",
-          "body": "Stanford 교수들이 $1.5B 합의를 마다하고 Anthropic을 제소했다.",
-          "mini_headline": "Stanford 교수들, Anthropic 제소",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "도서관 서가에 쌓인 책들."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 앞서 Stanford 교수 Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao, Myra Strober의 글을 불법으로 입수해 Claude를 학습시켰다. Bartz v. Anthropic 사건에서 William Alsup 판사는 Anthropic이 책을 불법 복제해 영구 중앙 도서관을 만드는 일은 더 이상 안 된다고 판결했다. 다만 책을 합법적으로 확보해 Claude를 학습시키는 것은 공정이용(fair use)으로 봤다."
-              },
-              {
-                "t": "p",
-                "x": "$1.5B 합의금은 등록 저작물 약 500,000편의 작가와 출판사에게 돌아갔다. Wolff와 다른 작가 27명은 이 합의로는 모자란다고 본다. 영문학 명예교수인 Wolff는 “그들은 대가를 치르지 않고 내 작품을 쓰고 있다”고 말했다. 그의 출판물 10편이 허락 없이 AI 학습에 쓰였다."
-              },
-              {
-                "t": "p",
-                "x": "Wolff는 영문학 교수 Chang-rae Lee와 함께 Bartz 합의에서 빠졌다. 두 사람은 2026년 5월 집단소송이 아닌 별도 소송 Cruz v. Anthropic을 내고 침해 저작물마다 최대 $150,000의 법정 손해배상 전액을 배심 재판으로 청구했다. Bartz 합의가 제시한 저작물당 약 $3,000보다 많다. 이들은 Anthropic이 LibGen, PiLiMi 같은 “섀도 라이브러리”에서 자기 책을 내려받았다고 주장한다. 승소하면 자신들의 작품으로 Claude 모델을 학습시키지 못하게 하는 영구 금지 명령을 얻는다."
-              },
-              {
-                "t": "p",
-                "x": "집단소송 원고인 Stanford Law 학자 Paul Goldstein은 “거래 비용”을 지적했다. 그는 “플랫폼이 모든 — 아니, 사실상 어느 — 저작물에 대해서든 저작권자에게서 라이선스를 받는 것은 현실적으로 불가능하다”고 말했다. Bartz와 Cruz 말고도 작가와 시각 예술가, 언론사가 AI 기업을 상대로 낸 침해 소송은 70건이 넘는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Stanford教授らが\nAnthropicを提訴",
-          "body": "Stanford教授らが$1.5B の和解を離脱し、Anthropicを提訴した。",
-          "mini_headline": "Stanford教授ら、Anthropicを提訴",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "図書館の棚に積まれた本。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicは以前、Stanfordの教授であるTobias Wolff、Abraham Verghese、Chang-Rae Lee、Daniel Mason、Hayagreeva Rao、Myra Stroberの著作を違法に入手し、Claudeの学習に用いていた。Bartz v. Anthropic訴訟でWilliam Alsup判事は、Anthropicが書籍を海賊版で入手して恒久的な中央ライブラリーを作ることはもはや認められないと判断する一方、Claudeの学習のために書籍を合法的に取得することはフェアユース(fair use)だとした。"
-              },
-              {
-                "t": "p",
-                "x": "$1.5B の和解金は、登録作品約500,000件の著者と出版社に支払われた。Wolffとほか27人の著者は、この和解では不十分だと訴える。英文学の名誉教授であるWolffは「彼らは代価を払わずに私の作品を使っている」と語った。彼の出版物のうち10点が許可なくAIの学習に使われていた。"
-              },
-              {
-                "t": "p",
-                "x": "Wolffは英文学教授のChang-rae LeeとともにBartz和解から離脱した。両氏は2026年5月、集団訴訟ではない別の訴訟Cruz v. Anthropicを起こし、侵害作品ごとに最大$150,000の法定損害賠償全額を求めて陪審裁判を請求した。これはBartz和解で提示された作品あたり約$3,000を上回る。両氏はAnthropicがLibGenやPiLiMiといった「シャドーライブラリー」から自分たちの本をダウンロードしたと主張しており、勝訴すれば、自らの作品を使ったClaudeモデルの学習を恒久的に差し止める命令を得ることになる。"
-              },
-              {
-                "t": "p",
-                "x": "集団訴訟の原告であるStanford Lawの研究者Paul Goldsteinは「取引コスト」を指摘し、「プラットフォームがあらゆる — いや、実のところどの — 作品についても、その著作権者からライセンスを得るのはまったく現実的ではない」と述べた。BartzとCruz以外にも、著者、ビジュアルアーティスト、報道機関がAI企業を相手取り70件を超える侵害訴訟を起こしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Stanford教授因盗版书\n起诉Anthropic",
-          "body": "Stanford教授退出$1.5B 和解，起诉以盗版训练Claude的Anthropic。",
-          "mini_headline": "Stanford教授起诉Anthropic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "图书馆书架上堆放的书籍。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic此前曾用非法获取的Stanford教授Tobias Wolff、Abraham Verghese、Chang-Rae Lee、Daniel Mason、Hayagreeva Rao和Myra Strober的作品训练Claude。在Bartz v. Anthropic案中，William Alsup法官裁定Anthropic不得再通过盗版图书建立永久性中央图书馆，同时认定为训练Claude而合法获取图书属于合理使用(fair use)。"
-              },
-              {
-                "t": "p",
-                "x": "$1.5B 和解金发放给了近500,000部登记作品的作者和出版商。Wolff和另外27位作者认为这一和解并不足够。英语系荣休教授Wolff说：“他们在使用我的作品却不付钱。”他有10部出版物未经许可被用于AI训练。"
-              },
-              {
-                "t": "p",
-                "x": "Wolff与英语系教授Chang-rae Lee一同退出了Bartz和解。2026年5月，他们另行提起非集体诉讼Cruz v. Anthropic，要求由陪审团审理，就每部被侵权作品索赔最高$150,000的全额法定赔偿，高于Bartz和解中每部作品约$3,000的金额。他们指控Anthropic从LibGen和PiLiMi等“影子图书馆”下载了他们的书；若胜诉，他们将获得永久禁令，禁止使用其作品训练Claude模型。"
-              },
-              {
-                "t": "p",
-                "x": "集体诉讼原告、Stanford Law学者Paul Goldstein指出了“交易成本”问题：“平台要从每一部——或者说任何一部——作品的版权所有者那里取得许可，根本不切实际。”除Bartz和Cruz案外，作者、视觉艺术家和新闻机构已对AI公司提起了70多起侵权诉讼。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Profesores de Stanford demandan\na Anthropic por libros pirata",
-          "body": "Docentes de Stanford cuyos libros pirateados entrenaron a Claude dejan el acuerdo de $1.5B y demandan a Anthropic.",
-          "mini_headline": "Profesores de Stanford demandan a Anthropic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "Libros apilados en un estante de biblioteca."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic entrenó anteriormente a Claude con textos obtenidos ilegalmente de los profesores de Stanford Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao y Myra Strober. En Bartz v. Anthropic, el juez William Alsup dictaminó que Anthropic ya no podía piratear libros para crear una biblioteca central permanente, aunque calificó de uso legítimo (fair use) la adquisición legal de libros para entrenar a Claude."
-              },
-              {
-                "t": "p",
-                "x": "El acuerdo de $1.5B se repartió entre autores y editoriales de casi 500,000 obras registradas. Wolff y otros 27 autores afirman que el acuerdo no es suficiente. “Están usando mi obra sin pagar por ella”, dijo Wolff, profesor emérito de Inglés. 10 de sus publicaciones se habían usado para entrenar AI sin permiso."
-              },
-              {
-                "t": "p",
-                "x": "Wolff, junto con el profesor de Inglés Chang-rae Lee, se retiró del acuerdo Bartz. En mayo de 2026 presentaron la demanda independiente, no colectiva, Cruz v. Anthropic, en la que piden un juicio con jurado por la totalidad de los daños legales, de hasta $150,000 por obra infringida, por encima de los aproximadamente $3,000 por obra ofrecidos en el acuerdo Bartz. Alegan que Anthropic descargó sus libros de “bibliotecas en la sombra” como LibGen y PiLiMi; si ganan, obtendrían una orden judicial permanente que impediría entrenar modelos Claude con sus obras."
-              },
-              {
-                "t": "p",
-                "x": "Paul Goldstein, académico de Stanford Law y demandante en la acción colectiva, señaló los “costos de transacción”: “simplemente es inviable que la plataforma obtenga licencias del titular de los derechos de cada obra — o, de hecho, de una sola”. Además de Bartz y Cruz, autores, artistas visuales y medios de comunicación han presentado más de 70 demandas por infracción contra empresas de AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Stanford 교수들,\nAnthropic 제소",
-          "body": "Stanford 교수들이 $1.5B 합의 대신 Anthropic을 제소했다.",
-          "mini_headline": "Stanford 교수들, Anthropic 제소",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "도서관 서가에 쌓인 책들."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 앞서 Stanford 교수 Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao, Myra Strober의 글을 불법으로 입수해 Claude를 학습시켰다. Bartz v. Anthropic 사건에서 William Alsup 판사는 Anthropic이 더는 책을 불법 복제해 영구적인 중앙 도서관을 만들 수 없다고 판결하면서도, Claude 학습을 위해 책을 합법적으로 취득하는 것은 공정이용(fair use)이라고 보았다."
-              },
-              {
-                "t": "p",
-                "x": "$1.5B 규모의 합의금은 등록 저작물 약 500,000편의 작가와 출판사에게 돌아갔다. Wolff와 다른 작가 27명은 이 합의로는 충분하지 않다고 말한다. 영문학 명예교수인 Wolff는 “그들은 대가를 치르지 않고 내 작품을 쓰고 있다”고 말했다. 그의 출판물 10편이 허락 없이 AI 학습에 사용됐다."
-              },
-              {
-                "t": "p",
-                "x": "Wolff는 영문학 교수 Chang-rae Lee와 함께 Bartz 합의에서 빠졌다. 이들은 2026년 5월 별도의 비집단 소송인 Cruz v. Anthropic을 제기해, 침해 저작물마다 최대 $150,000의 법정 손해배상 전액을 배심 재판으로 청구했다. 이는 Bartz 합의에서 제시된 저작물당 약 $3,000을 웃도는 금액이다. 이들은 Anthropic이 LibGen, PiLiMi 같은 “섀도 라이브러리”에서 자신들의 책을 내려받았다고 주장하며, 승소하면 자신들의 작품을 활용한 Claude 모델 학습을 영구히 금지하는 명령을 얻게 된다."
-              },
-              {
-                "t": "p",
-                "x": "집단소송 원고인 Stanford Law 학자 Paul Goldstein은 “거래 비용”을 지적했다. 그는 “플랫폼이 모든 — 아니, 사실상 어느 — 저작물에 대해서든 저작권자에게서 라이선스를 받는 것은 현실적으로 불가능하다”고 말했다. Bartz와 Cruz 외에도 작가, 시각 예술가, 언론사가 AI 기업을 상대로 70건이 넘는 침해 소송을 제기했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Stanford教授らが\nAnthropicを提訴",
-          "body": "Stanford教授らが$1.5B の和解を離脱し、Anthropicを提訴した。",
-          "mini_headline": "Stanford教授ら、Anthropicを提訴",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "図書館の棚に積まれた本。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicは以前、Stanfordの教授であるTobias Wolff、Abraham Verghese、Chang-Rae Lee、Daniel Mason、Hayagreeva Rao、Myra Stroberの著作を違法に入手し、Claudeの学習に用いていた。Bartz v. Anthropic訴訟でWilliam Alsup判事は、Anthropicが書籍を海賊版で入手して恒久的な中央ライブラリーを作ることはもはや認められないと判断する一方、Claudeの学習のために書籍を合法的に取得することはフェアユース(fair use)だとした。"
-              },
-              {
-                "t": "p",
-                "x": "$1.5B の和解金は、登録作品約500,000件の著者と出版社に支払われた。Wolffとほか27人の著者は、この和解では不十分だと訴える。英文学の名誉教授であるWolffは「彼らは代価を払わずに私の作品を使っている」と語った。彼の出版物のうち10点が許可なくAIの学習に使われていた。"
-              },
-              {
-                "t": "p",
-                "x": "Wolffは英文学教授のChang-rae LeeとともにBartz和解から離脱した。両氏は2026年5月、集団訴訟ではない別の訴訟Cruz v. Anthropicを起こし、侵害作品ごとに最大$150,000の法定損害賠償全額を求めて陪審裁判を請求した。これはBartz和解で提示された作品あたり約$3,000を上回る。両氏はAnthropicがLibGenやPiLiMiといった「シャドーライブラリー」から自分たちの本をダウンロードしたと主張しており、勝訴すれば、自らの作品を使ったClaudeモデルの学習を恒久的に差し止める命令を得ることになる。"
-              },
-              {
-                "t": "p",
-                "x": "集団訴訟の原告であるStanford Lawの研究者Paul Goldsteinは「取引コスト」を指摘し、「プラットフォームがあらゆる — いや、実のところどの — 作品についても、その著作権者からライセンスを得るのはまったく現実的ではない」と述べた。BartzとCruz以外にも、著者、ビジュアルアーティスト、報道機関がAI企業を相手取り70件を超える侵害訴訟を起こしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Stanford教授因盗版书\n起诉Anthropic",
-          "body": "Stanford教授退出$1.5B 和解，起诉以盗版训练Claude的Anthropic。",
-          "mini_headline": "Stanford教授起诉Anthropic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "图书馆书架上堆放的书籍。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic此前曾用非法获取的Stanford教授Tobias Wolff、Abraham Verghese、Chang-Rae Lee、Daniel Mason、Hayagreeva Rao和Myra Strober的作品训练Claude。在Bartz v. Anthropic案中，William Alsup法官裁定Anthropic不得再通过盗版图书建立永久性中央图书馆，同时认定为训练Claude而合法获取图书属于合理使用(fair use)。"
-              },
-              {
-                "t": "p",
-                "x": "$1.5B 和解金发放给了近500,000部登记作品的作者和出版商。Wolff和另外27位作者认为这一和解并不足够。英语系荣休教授Wolff说：“他们在使用我的作品却不付钱。”他有10部出版物未经许可被用于AI训练。"
-              },
-              {
-                "t": "p",
-                "x": "Wolff与英语系教授Chang-rae Lee一同退出了Bartz和解。2026年5月，他们另行提起非集体诉讼Cruz v. Anthropic，要求由陪审团审理，就每部被侵权作品索赔最高$150,000的全额法定赔偿，高于Bartz和解中每部作品约$3,000的金额。他们指控Anthropic从LibGen和PiLiMi等“影子图书馆”下载了他们的书；若胜诉，他们将获得永久禁令，禁止使用其作品训练Claude模型。"
-              },
-              {
-                "t": "p",
-                "x": "集体诉讼原告、Stanford Law学者Paul Goldstein指出了“交易成本”问题：“平台要从每一部——或者说任何一部——作品的版权所有者那里取得许可，根本不切实际。”除Bartz和Cruz案外，作者、视觉艺术家和新闻机构已对AI公司提起了70多起侵权诉讼。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Profesores de Stanford demandan\na Anthropic por libros pirata",
-          "body": "Docentes de Stanford cuyos libros pirateados entrenaron a Claude dejan el acuerdo de $1.5B y demandan a Anthropic.",
-          "mini_headline": "Profesores de Stanford demandan a Anthropic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-                "cap": "Libros apilados en un estante de biblioteca."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic entrenó anteriormente a Claude con textos obtenidos ilegalmente de los profesores de Stanford Tobias Wolff, Abraham Verghese, Chang-Rae Lee, Daniel Mason, Hayagreeva Rao y Myra Strober. En Bartz v. Anthropic, el juez William Alsup dictaminó que Anthropic ya no podía piratear libros para crear una biblioteca central permanente, aunque calificó de uso legítimo (fair use) la adquisición legal de libros para entrenar a Claude."
-              },
-              {
-                "t": "p",
-                "x": "El acuerdo de $1.5B se repartió entre autores y editoriales de casi 500,000 obras registradas. Wolff y otros 27 autores afirman que el acuerdo no es suficiente. “Están usando mi obra sin pagar por ella”, dijo Wolff, profesor emérito de Inglés. 10 de sus publicaciones se habían usado para entrenar AI sin permiso."
-              },
-              {
-                "t": "p",
-                "x": "Wolff, junto con el profesor de Inglés Chang-rae Lee, se retiró del acuerdo Bartz. En mayo de 2026 presentaron la demanda independiente, no colectiva, Cruz v. Anthropic, en la que piden un juicio con jurado por la totalidad de los daños legales, de hasta $150,000 por obra infringida, por encima de los aproximadamente $3,000 por obra ofrecidos en el acuerdo Bartz. Alegan que Anthropic descargó sus libros de “bibliotecas en la sombra” como LibGen y PiLiMi; si ganan, obtendrían una orden judicial permanente que impediría entrenar modelos Claude con sus obras."
-              },
-              {
-                "t": "p",
-                "x": "Paul Goldstein, académico de Stanford Law y demandante en la acción colectiva, señaló los “costos de transacción”: “simplemente es inviable que la plataforma obtenga licencias del titular de los derechos de cada obra — o, de hecho, de una sola”. Además de Bartz y Cruz, autores, artistas visuales y medios de comunicación han presentado más de 70 demandas por infracción contra empresas de AI."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-ifrro-ai-study",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "IFRRO, AI와 저작권\n새 연구 보고서 발표",
-      "body": "IFRRO 보고서는 AI·저작권 법·시장 분석에 약 2,000명 설문을 더했다.",
-      "mini_headline": "IFRRO, AI 저작권 연구 발표",
-      "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/ifrro-releases-new-study-on-ai-copyright-issues/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-          },
-          {
-            "t": "p",
-            "x": "지식재산권법 교수 Eleonora Rosati와 함께 만든 보고서 「The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works」는 법·정책 지형을 살피고, IFRRO가 2026년 약 2,000명에게 받은 글로벌 설문 결과도 실었다."
-          },
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-          },
-          {
-            "t": "p",
-            "x": "응답자의 90% 이상이 “생성형 AI가 권리자의 수입에 직접적이고 부정적인 영향을 미쳤다”는 데 동의했다. 75% 이상은 AI가 “창작 노동자를 대체할 것”이라고 봤다. 96%는 현행 저작권 체계가 자신들을 제대로 보호하지 못한다고 답했고 50% 이상은 “AI 전용 라이선스(AI-specific licenses)”가 “자신들의 경제적 상황을 크게 개선할 것”이라고 내다봤다."
-          },
-          {
-            "t": "p",
-            "x": "보고서는 “동의, 투명성, 보상 없이 이뤄지는 보호 콘텐츠의 대규모(large-scale) 무단 사용”이 “법적으로도 경제적으로도 지속 가능하지 않다”고 결론지었다. 그러면서 세 가지 “근본적” 조건으로 작가와 권리자의 동의 및 통제, 실효성 있는 저작권 원칙, 학습과 결과물 생성 전반의 강력한 투명성을 꼽았다. 11월 23일 IFRRO 웨비나에서 Rosati가 주요 결과를 발표한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "IFRRO releases new study\non AI and copyright",
-          "body": "IFRRO's AI and copyright report pairs legal and market analysis with a global survey of nearly 2,000 respondents.",
-          "mini_headline": "IFRRO study on AI copyright",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "The report, The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works, developed in collaboration with intellectual property law professor Eleonora Rosati, offers a review of the legal and policy landscape along with the results of IFRRO’s 2026 global survey of nearly 2,000 respondents."
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Survey respondents reported: more than 90% agreeing that “generative AI has directly and negatively impacted” rightsholders’ earnings; more than 75% believing that AI will “displace creative workers”; 96% believing the current copyright framework does not adequately protect them; and more than 50% believing that “AI-specific licenses” would “greatly improve their economic situation.”"
-              },
-              {
-                "t": "p",
-                "x": "The study concludes that “the large-scale unauthorized uses of protected content without consent, transparency, or remuneration” are neither “legally nor economically sustainable,” and identifies three “fundamental” conditions: consent and control for authors and rightsholders, effective copyright principles, and robust transparency across training and output generation. IFRRO will host a webinar on November 23, at which Rosati will present the key findings."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "IFRRO, AI와 저작권\n새 연구 보고서 발표",
-          "body": "IFRRO 보고서는 AI·저작권 법·시장 분석에 약 2,000명 설문을 더했다.",
-          "mini_headline": "IFRRO, AI 저작권 연구 발표",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "지식재산권법 교수 Eleonora Rosati와 함께 만든 보고서 「The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works」는 법·정책 지형을 살피고, IFRRO가 2026년 약 2,000명에게 받은 글로벌 설문 결과도 실었다."
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "응답자의 90% 이상이 “생성형 AI가 권리자의 수입에 직접적이고 부정적인 영향을 미쳤다”는 데 동의했다. 75% 이상은 AI가 “창작 노동자를 대체할 것”이라고 봤다. 96%는 현행 저작권 체계가 자신들을 제대로 보호하지 못한다고 답했고 50% 이상은 “AI 전용 라이선스(AI-specific licenses)”가 “자신들의 경제적 상황을 크게 개선할 것”이라고 내다봤다."
-              },
-              {
-                "t": "p",
-                "x": "보고서는 “동의, 투명성, 보상 없이 이뤄지는 보호 콘텐츠의 대규모(large-scale) 무단 사용”이 “법적으로도 경제적으로도 지속 가능하지 않다”고 결론지었다. 그러면서 세 가지 “근본적” 조건으로 작가와 권리자의 동의 및 통제, 실효성 있는 저작권 원칙, 학습과 결과물 생성 전반의 강력한 투명성을 꼽았다. 11월 23일 IFRRO 웨비나에서 Rosati가 주요 결과를 발표한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "IFRRO、AIと著作権の\n新たな研究を発表",
-          "body": "IFRROのAI・著作権報告書は、法と市場の分析に約2,000人の世界調査を組み合わせた。",
-          "mini_headline": "IFRRO、AIと著作権の研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "知的財産法の教授Eleonora Rosatiと共同で作成された報告書『The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works』は、法と政策の状況を概観するとともに、約2,000人の回答者を対象としたIFRROの2026年グローバル調査の結果を示している。"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "調査では、90%超が「生成AIが直接的かつ否定的な影響を与えた」と権利者の収入について回答し、75%超がAIは「創作者を置き換える」と考え、96%が現行の著作権制度は自分たちを十分に守っていないとし、50%超が「AI専用ライセンス(AI-specific licenses)」は「経済状況を大きく改善する」と考えている。"
-              },
-              {
-                "t": "p",
-                "x": "報告書は「同意、透明性、対価のないまま保護コンテンツを大規模(large-scale)に無断利用すること」は「法的にも経済的にも持続可能ではない」と結論づけ、三つの「根本的な」条件として、著者と権利者による同意と管理、実効性のある著作権原則、学習から出力生成までの強固な透明性を挙げた。IFRROは11月23日にウェビナーを開き、Rosatiが主な調査結果を発表する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "IFRRO发布AI与\n版权新研究",
-          "body": "IFRRO的AI与版权报告结合法律与市场分析，以及对近2,000名受访者的全球调查。",
-          "mini_headline": "IFRRO发布AI版权研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "该报告题为《The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works》，与知识产权法教授Eleonora Rosati合作完成，梳理了法律与政策格局，并公布了IFRRO 2026年对近2,000名受访者开展的全球调查结果。"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "受访者中，超过90%认为“生成式AI已直接且负面地影响了”权利人的收入；超过75%认为AI将“取代创意工作者”；96%认为现行版权框架未能充分保护他们；超过50%认为“AI专用许可(AI-specific licenses)”将“大大改善其经济状况”。"
-              },
-              {
-                "t": "p",
-                "x": "研究得出结论：“在未经同意、缺乏透明度且无报酬的情况下大规模(large-scale)擅自使用受保护内容”在“法律和经济上都不可持续”，并提出三项“根本”条件：作者和权利人的同意与控制、有效的版权原则，以及贯穿训练和输出生成全过程的高度透明。IFRRO将于11月23日举办网络研讨会，届时Rosati将介绍主要发现。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IFRRO publica un nuevo estudio\nsobre AI y derechos de autor",
-          "body": "El informe de IFRRO sobre AI y copyright une análisis legal y de mercado con un sondeo global a casi 2,000 personas.",
-          "mini_headline": "IFRRO estudia la AI y el copyright",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "El informe, The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works, elaborado en colaboración con la profesora de derecho de propiedad intelectual Eleonora Rosati, ofrece una revisión del panorama legal y político junto con los resultados de la encuesta global de IFRRO de 2026 a casi 2,000 encuestados."
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Los encuestados señalaron lo siguiente: más del 90% está de acuerdo en que “la AI generativa ha afectado directa y negativamente” a los ingresos de los titulares de derechos; más del 75% cree que la AI “desplazará a los trabajadores creativos”; el 96% considera que el marco actual de derechos de autor no los protege adecuadamente; y más del 50% cree que las “licencias específicas para AI” (AI-specific licenses) “mejorarían mucho su situación económica”."
-              },
-              {
-                "t": "p",
-                "x": "El estudio concluye que “los usos no autorizados a gran escala (large-scale) de contenido protegido sin consentimiento, transparencia ni remuneración” no son “sostenibles ni legal ni económicamente”, e identifica tres condiciones “fundamentales”: consentimiento y control para autores y titulares de derechos, principios de derechos de autor eficaces y una transparencia sólida en el entrenamiento y la generación de resultados. IFRRO celebrará un seminario web el 23 de noviembre, en el que Rosati presentará las conclusiones principales."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "IFRRO, AI와 저작권\n새 연구 보고서 발표",
-          "body": "IFRRO 보고서는 AI·저작권 법·시장 분석에 약 2,000명 설문을 더했다.",
-          "mini_headline": "IFRRO, AI 저작권 연구 발표",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "지식재산권법 교수 Eleonora Rosati와 협력해 만든 보고서 「The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works」는 법·정책 지형을 검토하고, 응답자 약 2,000명을 대상으로 한 IFRRO의 2026년 글로벌 설문 결과를 함께 담았다."
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "설문 응답자 중 90% 이상은 “생성형 AI가 권리자의 수입에 직접적이고 부정적인 영향을 미쳤다”는 데 동의했고, 75% 이상은 AI가 “창작 노동자를 대체할 것”이라고 보았다. 96%는 현행 저작권 체계가 자신들을 충분히 보호하지 못한다고 답했으며, 50% 이상은 “AI 전용 라이선스(AI-specific licenses)”가 “자신들의 경제적 상황을 크게 개선할 것”이라고 믿었다."
-              },
-              {
-                "t": "p",
-                "x": "보고서는 “동의, 투명성, 보상 없이 이뤄지는 보호 콘텐츠의 대규모(large-scale) 무단 사용”이 “법적으로도 경제적으로도 지속 가능하지 않다”고 결론 내리고, 세 가지 “근본적” 조건으로 작가와 권리자의 동의 및 통제, 실효성 있는 저작권 원칙, 학습과 결과물 생성 전반의 강력한 투명성을 꼽았다. IFRRO는 11월 23일 웨비나를 열고, 이 자리에서 Rosati가 주요 결과를 발표한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "IFRRO、AIと著作権の\n新たな研究を発表",
-          "body": "IFRROのAI・著作権報告書は、法と市場の分析に約2,000人の世界調査を組み合わせた。",
-          "mini_headline": "IFRRO、AIと著作権の研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "知的財産法の教授Eleonora Rosatiと共同で作成された報告書『The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works』は、法と政策の状況を概観するとともに、約2,000人の回答者を対象としたIFRROの2026年グローバル調査の結果を示している。"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "調査では、90%超が「生成AIが直接的かつ否定的な影響を与えた」と権利者の収入について回答し、75%超がAIは「創作者を置き換える」と考え、96%が現行の著作権制度は自分たちを十分に守っていないとし、50%超が「AI専用ライセンス(AI-specific licenses)」は「経済状況を大きく改善する」と考えている。"
-              },
-              {
-                "t": "p",
-                "x": "報告書は「同意、透明性、対価のないまま保護コンテンツを大規模(large-scale)に無断利用すること」は「法的にも経済的にも持続可能ではない」と結論づけ、三つの「根本的な」条件として、著者と権利者による同意と管理、実効性のある著作権原則、学習から出力生成までの強固な透明性を挙げた。IFRROは11月23日にウェビナーを開き、Rosatiが主な調査結果を発表する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "IFRRO发布AI与\n版权新研究",
-          "body": "IFRRO的AI与版权报告结合法律与市场分析，以及对近2,000名受访者的全球调查。",
-          "mini_headline": "IFRRO发布AI版权研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "该报告题为《The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works》，与知识产权法教授Eleonora Rosati合作完成，梳理了法律与政策格局，并公布了IFRRO 2026年对近2,000名受访者开展的全球调查结果。"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "受访者中，超过90%认为“生成式AI已直接且负面地影响了”权利人的收入；超过75%认为AI将“取代创意工作者”；96%认为现行版权框架未能充分保护他们；超过50%认为“AI专用许可(AI-specific licenses)”将“大大改善其经济状况”。"
-              },
-              {
-                "t": "p",
-                "x": "研究得出结论：“在未经同意、缺乏透明度且无报酬的情况下大规模(large-scale)擅自使用受保护内容”在“法律和经济上都不可持续”，并提出三项“根本”条件：作者和权利人的同意与控制、有效的版权原则，以及贯穿训练和输出生成全过程的高度透明。IFRRO将于11月23日举办网络研讨会，届时Rosati将介绍主要发现。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IFRRO publica un nuevo estudio\nsobre AI y derechos de autor",
-          "body": "El informe de IFRRO sobre AI y copyright une análisis legal y de mercado con un sondeo global a casi 2,000 personas.",
-          "mini_headline": "IFRRO estudia la AI y el copyright",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.43.51-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "El informe, The Legal, Policy, and Market Impact of Artificial Intelligence on Text and Image-Based Works, elaborado en colaboración con la profesora de derecho de propiedad intelectual Eleonora Rosati, ofrece una revisión del panorama legal y político junto con los resultados de la encuesta global de IFRRO de 2026 a casi 2,000 encuestados."
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-28-at-4.25.50-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Los encuestados señalaron lo siguiente: más del 90% está de acuerdo en que “la AI generativa ha afectado directa y negativamente” a los ingresos de los titulares de derechos; más del 75% cree que la AI “desplazará a los trabajadores creativos”; el 96% considera que el marco actual de derechos de autor no los protege adecuadamente; y más del 50% cree que las “licencias específicas para AI” (AI-specific licenses) “mejorarían mucho su situación económica”."
-              },
-              {
-                "t": "p",
-                "x": "El estudio concluye que “los usos no autorizados a gran escala (large-scale) de contenido protegido sin consentimiento, transparencia ni remuneración” no son “sostenibles ni legal ni económicamente”, e identifica tres condiciones “fundamentales”: consentimiento y control para autores y titulares de derechos, principios de derechos de autor eficaces y una transparencia sólida en el entrenamiento y la generación de resultados. IFRRO celebrará un seminario web el 23 de noviembre, en el que Rosati presentará las conclusiones principales."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-toonflow-brainventures",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "웹툰 현지화 플러그인,\n어도비 익스체인지 등록",
-      "body": "브레인벤쳐스가 말풍선 인식부터 식자까지 자동화한 포토샵 플러그인을 내놨다.",
-      "mini_headline": "웹툰 현지화 플러그인 등록",
-      "tool": "Books",
-      "source": "beSUCCESS",
-      "url": "https://besuccess.com/?p=187516",
-      "accent": "#eb367f",
       "motif": "swatch",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-            "cap": "브레인벤쳐스, 어도비 익스체인지에 웹툰 현지화 플러그인 ‘ToonFlow’ 공식 등록"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
           },
           {
             "t": "p",
-            "x": "AI 기반 웹툰 현지화 전문기업 브레인벤쳐스(대표 김원회)가 웹툰 번역과 식자 작업을 자동화하는 포토샵 플러그인 ‘ToonFlow(툰플로우)’를 어도비 공식 마켓플레이스인 ‘Adobe Exchange’에 등록했다. 이번 등록을 통해 말풍선 감지부터 텍스트 인식, 번역, 식자까지 웹툰 현지화의 주요 공정을 단일 파이프라인으로 처리하는 포토샵 플러그인이 글로벌 마켓플레이스에 본격 유통된다."
+            "x": "지난달 Google은 cross-Google 이니셔티브 Expert Intelligence를 선보였다. Google AI 제품에서 믿을 만한 출처를 쓰도록 돕는 프로젝트다. Google Play Books에서 이미 산 전자책 일부를 넣을 수 있었는데, 오늘부터는 학생들이 수업 자료도 손쉽게 추가하도록 범위를 넓힌다."
           },
           {
             "t": "p",
-            "x": "ToonFlow는 웹툰 현지화 작업자가 기존 어도비 포토샵 작업 환경에서 벗어나지 않고 번역 및 식자 업무를 수행할 수 있도록 개발된 인공지능(AI) 플러그인이다. 말풍선 및 텍스트 영역 감지, 세로쓰기를 포함한 원문 텍스트 광학문자인식(OCR), 용어집을 반영한 문맥 기반 기계번역, 폰트 자동 매칭 식자 기능을 일괄 제공한다. 특히 다단계 공정을 순차 실행하는 ‘오토파일럿(Autopilot)’ 기능을 적용해 탭 이동 없이 전 과정을 한 번에 처리하며, 작품별 맞춤 설정을 저장하는 ‘프리셋’ 기능과 전후 결과를 대조할 수 있는 ‘원문/번역 비교 패널’을 탑재해 검수 편의성을 높였다."
+            "x": "학생들은 이제 OpenStax, Open Textbook Library, S Chand Publishing 등 U.S.(미국)와 인도 제공사의 교재 수백 권을 Gemini Notebook에서 무료로 쓸 수 있다. 교재를 추가하면 답변은 모두 그 교재에 근거하고 본문 인용과 원문 바로가기 링크가 따라붙는다. Gemini Notebook은 교재 내용을 맞춤형 학습 가이드나 연습 퀴즈, 플래시카드로 바꿔 주기도 한다."
           },
           {
             "t": "p",
-            "x": "이번 플러그인은 ‘2026년 고양형 민간투자연계 기술창업지원사업(고양형 TIPS)’의 지원을 받아 개발됐다. 지난 3월 고양시에 지사를 설립한 데 이어 5월 고양형 TIPS에 선정되며 연구개발에 착수했다. 현재 한국어·일본어·영어 등 3개 언어를 지원하며, Adobe Exchange와 ToonFlow 공식 웹사이트를 통해 배포된다. 신규 계정 가입자에게는 1화 무료 체험 혜택이 제공된다. 회사는 기존 수작업 중심의 식자 프로세스가 자동화되면서 작업 소요 시간을 대폭 줄일 수 있을 것으로 내다봤다."
+            "x": "교재를 둘러보고 추가하려면 노트북에서 “Add sources”(소스 추가)를 누른 뒤 “Textbooks”(교재)를 골라 목록을 확인하면 된다."
           },
           {
-            "t": "p",
-            "x": "김원회 브레인벤쳐스 대표는 “그간 축적해 온 웹툰 현지화 기술을 작업자들에게 가장 친숙한 포토샵 환경에 구현했다”며 “기술 고도화를 지속해 글로벌 웹툰 제작사와 플랫폼 유통사들이 현장에서 신뢰하는 핵심 현지화 솔루션으로 자리매김하겠다”고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "한편 브레인벤쳐스는 중소벤처기업부가 2017년 설립하고 창업진흥원과 경기창조경제혁신센터가 공동 운영하는 국내 최대 창업지원 클러스터인 ‘판교 창업존’ 입주기업이다."
+            "t": "video",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "웹툰 현지화 플러그인,\n어도비 익스체인지 등록",
-          "body": "브레인벤쳐스가 말풍선 인식부터 식자까지 자동화한 포토샵 플러그인을 내놨다.",
-          "mini_headline": "웹툰 현지화 플러그인 등록",
+        "en": {
+          "headline": "Gemini Notebook adds\nhundreds of textbooks",
+          "body": "Students can now add OpenStax and S Chand textbooks to Gemini Notebook and generate custom study guides and quizzes.",
+          "mini_headline": "Gemini Notebook adds textbooks",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "브레인벤쳐스, 어도비 익스체인지에 웹툰 현지화 플러그인 ‘ToonFlow’ 공식 등록"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "AI 기반 웹툰 현지화 전문기업 브레인벤쳐스(대표 김원회)가 웹툰 번역과 식자 작업을 자동화하는 포토샵 플러그인 ‘ToonFlow(툰플로우)’를 어도비 공식 마켓플레이스인 ‘Adobe Exchange’에 등록했다. 이번 등록을 통해 말풍선 감지부터 텍스트 인식, 번역, 식자까지 웹툰 현지화의 주요 공정을 단일 파이프라인으로 처리하는 포토샵 플러그인이 글로벌 마켓플레이스에 본격 유통된다."
+                "x": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses."
               },
               {
                 "t": "p",
-                "x": "ToonFlow는 웹툰 현지화 작업자가 기존 어도비 포토샵 작업 환경에서 벗어나지 않고 번역 및 식자 업무를 수행할 수 있도록 개발된 인공지능(AI) 플러그인이다. 말풍선 및 텍스트 영역 감지, 세로쓰기를 포함한 원문 텍스트 광학문자인식(OCR), 용어집을 반영한 문맥 기반 기계번역, 폰트 자동 매칭 식자 기능을 일괄 제공한다. 특히 다단계 공정을 순차 실행하는 ‘오토파일럿(Autopilot)’ 기능을 적용해 탭 이동 없이 전 과정을 한 번에 처리하며, 작품별 맞춤 설정을 저장하는 ‘프리셋’ 기능과 전후 결과를 대조할 수 있는 ‘원문/번역 비교 패널’을 탑재해 검수 편의성을 높였다."
+                "x": "Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more."
               },
               {
                 "t": "p",
-                "x": "이번 플러그인은 ‘2026년 고양형 민간투자연계 기술창업지원사업(고양형 TIPS)’의 지원을 받아 개발됐다. 지난 3월 고양시에 지사를 설립한 데 이어 5월 고양형 TIPS에 선정되며 연구개발에 착수했다. 현재 한국어·일본어·영어 등 3개 언어를 지원하며, Adobe Exchange와 ToonFlow 공식 웹사이트를 통해 배포된다. 신규 계정 가입자에게는 1화 무료 체험 혜택이 제공된다. 회사는 기존 수작업 중심의 식자 프로세스가 자동화되면서 작업 소요 시간을 대폭 줄일 수 있을 것으로 내다봤다."
+                "x": "To explore and add these textbooks, select “Add sources” within your notebook and select “Textbooks” to see the available catalog."
               },
               {
-                "t": "p",
-                "x": "김원회 브레인벤쳐스 대표는 “그간 축적해 온 웹툰 현지화 기술을 작업자들에게 가장 친숙한 포토샵 환경에 구현했다”며 “기술 고도화를 지속해 글로벌 웹툰 제작사와 플랫폼 유통사들이 현장에서 신뢰하는 핵심 현지화 솔루션으로 자리매김하겠다”고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "한편 브레인벤쳐스는 중소벤처기업부가 2017년 설립하고 창업진흥원과 경기창조경제혁신센터가 공동 운영하는 국내 최대 창업지원 클러스터인 ‘판교 창업존’ 입주기업이다."
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
               }
             ]
           }
         },
-        "en": {
-          "headline": "Webtoon localization plug-in\nlands on Adobe Exchange",
-          "body": "Brainventures released a Photoshop plug-in that automates webtoon work from speech-bubble detection to typesetting.",
-          "mini_headline": "Webtoon localization plug-in listed",
+        "ko": {
+          "headline": "교재 수백권, Gemini\nNotebook에 추가",
+          "body": "Gemini Notebook에 OpenStax 교재를 넣어 학습 가이드를 만든다.",
+          "mini_headline": "Gemini Notebook에 교재 추가",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "Brainventures officially lists webtoon localization plug-in ‘ToonFlow’ on Adobe Exchange"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "Brainventures (CEO Kim Won-hoe), a company specializing in AI-based webtoon localization, has listed ‘ToonFlow’, a Photoshop plug-in that automates webtoon translation and typesetting, on ‘Adobe Exchange’, Adobe’s official marketplace. With the listing, a Photoshop plug-in that handles the main steps of webtoon localization — from speech-bubble detection to text recognition, translation and typesetting — in a single pipeline is now being distributed in earnest on a global marketplace."
+                "x": "지난달 Google은 cross-Google 이니셔티브 Expert Intelligence를 선보였다. Google AI 제품에서 믿을 만한 출처를 쓰도록 돕는 프로젝트다. Google Play Books에서 이미 산 전자책 일부를 넣을 수 있었는데, 오늘부터는 학생들이 수업 자료도 손쉽게 추가하도록 범위를 넓힌다."
               },
               {
                 "t": "p",
-                "x": "ToonFlow is an artificial intelligence (AI) plug-in developed so that webtoon localization workers can carry out translation and typesetting without leaving their existing Adobe Photoshop environment. It provides speech-bubble and text-area detection, optical character recognition (OCR) of source text including vertical writing, context-based machine translation that reflects glossaries, and typesetting with automatic font matching, all in one package. Its ‘Autopilot’ feature runs the multistep process in sequence, handling the entire workflow at once without switching tabs, and it adds a ‘Preset’ feature that saves settings for each title and a ‘source/translation comparison panel’ for checking before-and-after results, making review easier."
+                "x": "학생들은 이제 OpenStax, Open Textbook Library, S Chand Publishing 등 U.S.(미국)와 인도 제공사의 교재 수백 권을 Gemini Notebook에서 무료로 쓸 수 있다. 교재를 추가하면 답변은 모두 그 교재에 근거하고 본문 인용과 원문 바로가기 링크가 따라붙는다. Gemini Notebook은 교재 내용을 맞춤형 학습 가이드나 연습 퀴즈, 플래시카드로 바꿔 주기도 한다."
               },
               {
                 "t": "p",
-                "x": "The plug-in was developed with support from the ‘2026 Goyang-type Private Investment-Linked Tech Startup Support Program (Goyang-type TIPS)’. The company set up a branch office in Goyang in March and, after being selected for Goyang-type TIPS in May, began research and development. It currently supports 3 languages — Korean, Japanese and English — and is distributed through Adobe Exchange and the official ToonFlow website. New account holders get a free trial of 1 episode. The company expects that automating the largely manual typesetting process will sharply cut the time the work takes."
+                "x": "교재를 둘러보고 추가하려면 노트북에서 “Add sources”(소스 추가)를 누른 뒤 “Textbooks”(교재)를 골라 목록을 확인하면 된다."
               },
               {
-                "t": "p",
-                "x": "“We have brought the webtoon localization technology we have built up into the Photoshop environment that workers know best,” said Kim Won-hoe, CEO of Brainventures. “We will keep advancing the technology to establish ourselves as the core localization solution that global webtoon studios and platform distributors trust in the field.”"
-              },
-              {
-                "t": "p",
-                "x": "Brainventures is a resident company of the ‘Pangyo Startup Zone’, the country’s largest startup support cluster, established in 2017 by the Ministry of SMEs and Startups and jointly operated by the Korea Institute of Startup and Entrepreneurship Development and the Gyeonggi Center for Creative Economy and Innovation."
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーン現地化ツール、\nアドビ・エクスチェンジに登録",
-          "body": "ブレインベンチャーズが吹き出し認識から写植まで自動化するプラグインを公開した。",
-          "mini_headline": "ウェブトゥーン現地化プラグイン登録",
+          "headline": "教科書数百冊、Gemini\nNotebookに追加",
+          "body": "OpenStaxの教科書をGemini Notebookに加え、クイズを作れる。",
+          "mini_headline": "Gemini Notebookに教科書を追加",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "ブレインベンチャーズ、アドビ・エクスチェンジにウェブトゥーン現地化プラグイン「ToonFlow」を正式登録"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "AIを活用したウェブトゥーン現地化の専門企業ブレインベンチャーズ(代表キム・ウォンフェ)が、ウェブトゥーンの翻訳と写植作業を自動化するPhotoshopプラグイン「ToonFlow(トゥーンフロー)」を、アドビの公式マーケットプレイス「Adobe Exchange」に登録した。今回の登録により、吹き出し検出からテキスト認識、翻訳、写植まで、ウェブトゥーン現地化の主要工程を単一のパイプラインで処理するPhotoshopプラグインが、グローバルマーケットプレイスで本格的に流通する。"
+                "x": "先月、Google AI製品を通じて信頼できる情報源を活用できるようにするcross-Googleの取り組み、Expert Intelligenceを発表した。Google Play Booksで購入した対象の電子書籍はすでに追加できるが、今日からこの体験を広げ、学生が授業の教材を簡単に追加できるようにする。"
               },
               {
                 "t": "p",
-                "x": "ToonFlowは、ウェブトゥーン現地化の作業者が既存のAdobe Photoshopの作業環境を離れずに翻訳や写植の業務を行えるよう開発された人工知能(AI)プラグインだ。吹き出しとテキスト領域の検出、縦書きを含む原文テキストの光学文字認識(OCR)、用語集を反映した文脈ベースの機械翻訳、フォント自動マッチングによる写植機能を一括で提供する。特に、多段階の工程を順に実行する「オートパイロット(Autopilot)」機能により、タブを移動せずに全工程を一度に処理でき、作品ごとの設定を保存する「プリセット」機能と、前後の結果を照合できる「原文/翻訳比較パネル」を搭載して検収の利便性を高めた。"
+                "x": "学生は、OpenStax、Open Textbook Library、S Chand PublishingなどU.S.（米国）とインドの提供元による数百冊の教科書に、Gemini Notebook上で無料でアクセスできるようになった。教科書を追加すると、すべての回答がその教科書に直接基づき、本文中の引用と元の情報源への直接リンクが付く。Gemini Notebookでは、教科書の内容を個別の学習ガイドや練習クイズ、フラッシュカードなどに変換することもできる。"
               },
               {
                 "t": "p",
-                "x": "このプラグインは「2026年高陽型民間投資連携技術創業支援事業(高陽型TIPS)」の支援を受けて開発された。同社は3月に高陽市に支社を設立し、5月に高陽型TIPSに選ばれて研究開発に着手した。現在、韓国語・日本語・英語の3言語に対応し、Adobe ExchangeとToonFlowの公式ウェブサイトを通じて配布される。新規アカウント登録者には1話分の無料体験が提供される。同社は、従来の手作業中心の写植プロセスが自動化されることで、作業時間を大幅に短縮できると見込んでいる。"
+                "x": "これらの教科書を探して追加するには、ノートブック内で「Add sources」（ソースを追加）を選び、「Textbooks」（教科書）を選択すると利用可能なカタログが表示される。"
               },
               {
-                "t": "p",
-                "x": "ブレインベンチャーズのキム・ウォンフェ代表は「これまで蓄積してきたウェブトゥーン現地化技術を、作業者にとって最もなじみのあるPhotoshop環境に実装した」とし、「技術の高度化を続け、グローバルなウェブトゥーン制作会社やプラットフォーム流通事業者が現場で信頼する中核的な現地化ソリューションとしての地位を確立したい」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "なお、ブレインベンチャーズは、中小ベンチャー企業部が2017年に設立し、創業振興院と京畿創造経済革新センターが共同運営する国内最大の創業支援クラスター「板橋創業ゾーン」の入居企業である。"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "网络漫画本地化插件\n上架Adobe插件市场",
-          "body": "Brainventures推出从对话框识别到嵌字全程自动化的Photoshop插件。",
-          "mini_headline": "网络漫画本地化插件上架",
+          "headline": "数百本教科书登陆Gemini\nNotebook",
+          "body": "学生可将OpenStax教材加入Gemini Notebook并生成测验。",
+          "mini_headline": "Gemini Notebook新增教科书",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "Brainventures在Adobe Exchange正式上架网络漫画本地化插件“ToonFlow”"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "基于AI的网络漫画本地化专业企业Brainventures(代表Kim Won-hoe)将自动完成网络漫画翻译与嵌字工作的Photoshop插件“ToonFlow”上架至Adobe官方插件市场“Adobe Exchange”。借此，一款以单一流程处理从对话框检测到文本识别、翻译、嵌字等网络漫画本地化主要工序的Photoshop插件，正式在全球市场发行。"
+                "x": "上个月，我们推出了Expert Intelligence，这是一项cross-Google计划，帮助你通过Google AI产品使用自己信任的信息来源。此前你已可以添加在Google Play Books购买的符合条件的电子书，今天我们扩展这一体验，让学生能够轻松添加课程资料。"
               },
               {
                 "t": "p",
-                "x": "ToonFlow是一款人工智能(AI)插件，旨在让网络漫画本地化从业者无需离开现有的Adobe Photoshop工作环境即可完成翻译和嵌字工作。它一站式提供对话框及文本区域检测、包括竖排文字在内的原文光学字符识别(OCR)、结合术语表的语境化机器翻译，以及自动匹配字体的嵌字功能。尤其是采用按顺序执行多阶段工序的“自动驾驶(Autopilot)”功能，无需切换标签页即可一次完成全部流程，并配备保存各作品专属设置的“预设”功能和可对照前后结果的“原文/译文对比面板”，提升了审校便利性。"
+                "x": "学生现在可以直接在Gemini Notebook中免费使用来自U.S.（美国）和印度提供方的数百本教科书，包括OpenStax、Open Textbook Library和S Chand Publishing。添加教科书后，每个回答都直接以该教科书为依据，并附有行内引用和指向原始来源的直接链接。Gemini Notebook还能将教科书内容转化为定制的学习指南、练习测验、抽认卡等。"
               },
               {
                 "t": "p",
-                "x": "该插件在“2026年高阳型民间投资联动技术创业支援项目(高阳型TIPS)”的支持下开发。公司于3月在高阳市设立分公司，5月入选高阳型TIPS并着手研发。目前支持韩语、日语、英语3种语言，通过Adobe Exchange和ToonFlow官方网站发布。新注册账户可免费试用1话。公司预计，随着以往以手工为主的嵌字流程实现自动化，作业耗时将大幅缩短。"
+                "x": "要浏览并添加这些教科书，请在笔记本中选择“Add sources”（添加来源），再选择“Textbooks”（教科书），即可查看可用目录。"
               },
               {
-                "t": "p",
-                "x": "Brainventures代表Kim Won-hoe表示：“我们把多年积累的网络漫画本地化技术，实现在了从业者最熟悉的Photoshop环境中。”他还说：“我们将持续提升技术，力争成为全球网络漫画制作公司和平台发行商在一线信赖的核心本地化解决方案。”"
-              },
-              {
-                "t": "p",
-                "x": "此外，Brainventures是“板桥创业区”的入驻企业。该区由中小风险企业部于2017年设立，由创业振兴院与京畿创造经济革新中心共同运营，是国内最大的创业支援集群。"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un plugin de localización de\nwebtoons llega a Adobe Exchange",
-          "body": "Brainventures lanzó un plugin de Photoshop que automatiza desde la detección de bocadillos hasta la rotulación.",
-          "mini_headline": "Plugin de localización de webtoons en Adobe Exchange",
+          "headline": "Gemini Notebook suma\ncientos de libros de texto",
+          "body": "Los estudiantes ya pueden añadir libros de OpenStax y S Chand a Gemini Notebook y crear guías y cuestionarios.",
+          "mini_headline": "Gemini Notebook suma libros de texto",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "Brainventures registra oficialmente en Adobe Exchange ‘ToonFlow’, su plugin de localización de webtoons"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "Brainventures (director ejecutivo: Kim Won-hoe), empresa especializada en la localización de webtoons basada en AI, ha registrado ‘ToonFlow’, un plugin de Photoshop que automatiza la traducción y la rotulación de webtoons, en ‘Adobe Exchange’, el mercado oficial de Adobe. Con este registro, un plugin de Photoshop que procesa en un único flujo los principales pasos de la localización de webtoons —desde la detección de bocadillos hasta el reconocimiento de texto, la traducción y la rotulación— empieza a distribuirse de lleno en un mercado global."
+                "x": "El mes pasado presentamos Expert Intelligence, una iniciativa cross-Google que te ayuda a trabajar con tus fuentes de confianza a través de los productos de Google AI. Aunque ya puedes añadir libros electrónicos elegibles comprados en Google Play Books, hoy ampliamos esa experiencia para que los estudiantes puedan añadir con facilidad los materiales de sus cursos."
               },
               {
                 "t": "p",
-                "x": "ToonFlow es un plugin de inteligencia artificial (AI) desarrollado para que los profesionales de la localización de webtoons puedan traducir y rotular sin salir de su entorno de trabajo habitual en Adobe Photoshop. Ofrece de forma integrada la detección de bocadillos y áreas de texto, el reconocimiento óptico de caracteres (OCR) del texto original, incluida la escritura vertical, la traducción automática contextual que tiene en cuenta glosarios y la rotulación con ajuste automático de fuentes. En particular, su función ‘Autopilot’ ejecuta en secuencia el proceso de varias etapas y permite completarlo todo de una vez sin cambiar de pestaña; además, incorpora una función de ‘ajustes preestablecidos’ que guarda la configuración de cada obra y un ‘panel de comparación original/traducción’ para cotejar los resultados antes y después, lo que facilita la revisión."
+                "x": "Los estudiantes ya pueden acceder sin coste, directamente en Gemini Notebook, a cientos de libros de texto de proveedores de U.S. (Estados Unidos) e India, entre ellos OpenStax, Open Textbook Library y S Chand Publishing. Una vez añadido un libro de texto, cada respuesta se basa directamente en él, con citas en línea y enlaces directos a la fuente original. Gemini Notebook también permite transformar el contenido del libro en guías de estudio personalizadas, cuestionarios de práctica, tarjetas de memoria y más."
               },
               {
                 "t": "p",
-                "x": "El plugin se desarrolló con el apoyo del ‘Programa de apoyo a startups tecnológicas vinculado a la inversión privada de Goyang 2026 (TIPS de Goyang)’. La empresa abrió una sucursal en la ciudad de Goyang en marzo y, tras ser seleccionada para el TIPS de Goyang en mayo, inició la investigación y el desarrollo. Actualmente admite 3 idiomas —coreano, japonés e inglés— y se distribuye a través de Adobe Exchange y del sitio web oficial de ToonFlow. Quienes abran una cuenta nueva reciben una prueba gratuita de 1 episodio. La empresa prevé que la automatización del proceso de rotulación, hasta ahora mayoritariamente manual, reducirá de forma notable el tiempo de trabajo."
+                "x": "Para explorar y añadir estos libros de texto, selecciona “Add sources” (Añadir fuentes) en tu cuaderno y luego “Textbooks” (Libros de texto) para ver el catálogo disponible."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "교재 수백권, Gemini\nNotebook에 추가",
+          "body": "Gemini Notebook에 OpenStax 교재를 넣어 학습 가이드를 만든다.",
+          "mini_headline": "Gemini Notebook에 교재 추가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
               },
               {
                 "t": "p",
-                "x": "“Hemos llevado la tecnología de localización de webtoons que hemos acumulado al entorno de Photoshop, el más familiar para los profesionales”, explicó Kim Won-hoe, director ejecutivo de Brainventures. “Seguiremos perfeccionando la tecnología para consolidarnos como la solución de localización de referencia en la que confían sobre el terreno los estudios de webtoons y los distribuidores de plataformas de todo el mundo”."
+                "x": "지난달 Google은 Google AI 제품을 통해 신뢰할 수 있는 출처를 활용하도록 돕는 cross-Google 이니셔티브인 Expert Intelligence를 선보였다. 이미 Google Play Books에서 구매한 일부 전자책을 추가할 수 있으며, 오늘부터는 학생들이 수업 자료를 손쉽게 추가할 수 있도록 이 경험을 넓힌다."
               },
               {
                 "t": "p",
-                "x": "Brainventures está instalada en la ‘Pangyo Startup Zone’, el mayor clúster de apoyo a startups del país, creado en 2017 por el Ministerio de Pymes y Startups y gestionado conjuntamente por el Instituto Coreano de Emprendimiento y el Centro de Economía Creativa e Innovación de Gyeonggi."
+                "x": "이제 학생들은 OpenStax, Open Textbook Library, S Chand Publishing 등 U.S.(미국)와 인도 제공사의 교재 수백 권을 Gemini Notebook 안에서 무료로 이용할 수 있다. 교재를 추가하면 모든 답변이 해당 교재에 직접 근거하며, 본문 인용과 원문으로 바로 가는 링크가 함께 붙는다. Gemini Notebook은 교재 내용을 맞춤형 학습 가이드, 연습 퀴즈, 플래시카드 등으로 바꿔 주기도 한다."
+              },
+              {
+                "t": "p",
+                "x": "교재를 둘러보고 추가하려면 노트북에서 “Add sources”(소스 추가)를 고른 뒤 “Textbooks”(교재)를 선택해 이용 가능한 목록을 보면 된다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "教科書数百冊、Gemini\nNotebookに追加",
+          "body": "OpenStaxの教科書をGemini Notebookに加え、クイズを作れる。",
+          "mini_headline": "Gemini Notebookに教科書を追加",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "先月、Google AI製品を通じて信頼できる情報源を活用できるようにするcross-Googleの取り組み、Expert Intelligenceを発表した。Google Play Booksで購入した対象の電子書籍はすでに追加できるが、今日からこの体験を広げ、学生が授業の教材を簡単に追加できるようにする。"
+              },
+              {
+                "t": "p",
+                "x": "学生は、OpenStax、Open Textbook Library、S Chand PublishingなどU.S.（米国）とインドの提供元による数百冊の教科書に、Gemini Notebook上で無料でアクセスできるようになった。教科書を追加すると、すべての回答がその教科書に直接基づき、本文中の引用と元の情報源への直接リンクが付く。Gemini Notebookでは、教科書の内容を個別の学習ガイドや練習クイズ、フラッシュカードなどに変換することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "これらの教科書を探して追加するには、ノートブック内で「Add sources」（ソースを追加）を選び、「Textbooks」（教科書）を選択すると利用可能なカタログが表示される。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "数百本教科书登陆Gemini\nNotebook",
+          "body": "学生可将OpenStax教材加入Gemini Notebook并生成测验。",
+          "mini_headline": "Gemini Notebook新增教科书",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "上个月，我们推出了Expert Intelligence，这是一项cross-Google计划，帮助你通过Google AI产品使用自己信任的信息来源。此前你已可以添加在Google Play Books购买的符合条件的电子书，今天我们扩展这一体验，让学生能够轻松添加课程资料。"
+              },
+              {
+                "t": "p",
+                "x": "学生现在可以直接在Gemini Notebook中免费使用来自U.S.（美国）和印度提供方的数百本教科书，包括OpenStax、Open Textbook Library和S Chand Publishing。添加教科书后，每个回答都直接以该教科书为依据，并附有行内引用和指向原始来源的直接链接。Gemini Notebook还能将教科书内容转化为定制的学习指南、练习测验、抽认卡等。"
+              },
+              {
+                "t": "p",
+                "x": "要浏览并添加这些教科书，请在笔记本中选择“Add sources”（添加来源），再选择“Textbooks”（教科书），即可查看可用目录。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini Notebook suma\ncientos de libros de texto",
+          "body": "Los estudiantes ya pueden añadir libros de OpenStax y S Chand a Gemini Notebook y crear guías y cuestionarios.",
+          "mini_headline": "Gemini Notebook suma libros de texto",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "El mes pasado presentamos Expert Intelligence, una iniciativa cross-Google que te ayuda a trabajar con tus fuentes de confianza a través de los productos de Google AI. Aunque ya puedes añadir libros electrónicos elegibles comprados en Google Play Books, hoy ampliamos esa experiencia para que los estudiantes puedan añadir con facilidad los materiales de sus cursos."
+              },
+              {
+                "t": "p",
+                "x": "Los estudiantes ya pueden acceder sin coste, directamente en Gemini Notebook, a cientos de libros de texto de proveedores de U.S. (Estados Unidos) e India, entre ellos OpenStax, Open Textbook Library y S Chand Publishing. Una vez añadido un libro de texto, cada respuesta se basa directamente en él, con citas en línea y enlaces directos a la fuente original. Gemini Notebook también permite transformar el contenido del libro en guías de estudio personalizadas, cuestionarios de práctica, tarjetas de memoria y más."
+              },
+              {
+                "t": "p",
+                "x": "Para explorar y añadir estos libros de texto, selecciona “Add sources” (Añadir fuentes) en tu cuaderno y luego “Textbooks” (Libros de texto) para ver el catálogo disponible."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "china-ai-shrimp-recall",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 그린 머리 둘 새우\n중국서 도서 리콜",
+      "body": "중국농업출판사가 AI-drawn 머리 둘 새우 삽화가 실린 해양 시리즈를 리콜한다.",
+      "mini_headline": "AI 새우 오류로 리콜",
+      "tool": "Books",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202610/1373304.shtml",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+            "cap": "“머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물"
+          },
+          {
+            "t": "p",
+            "x": "남중국해 해양 생물을 다룬 대중 과학 도서 시리즈에 “머리 둘 달린 새우” 오류 이미지가 실렸다는 소셜미디어 게시물이 화제가 됐다. 화요일 언론 보도에 따르면 중국농업출판사(China Agricultural Publishing House) 직원은 출판사도 문제를 파악했으며 온라인 플랫폼 판매처에 판매 중단과 이미 유통된 책의 회수를 알리는 중이라고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "중국 소셜미디어 플랫폼 Sina Weibo에서 일부 독자는 자기가 산 책 서문에 삽화 대부분을 AI 도구로 만들었다고 적혀 있다고 짚었다."
+          },
+          {
+            "t": "p",
+            "x": "한 독자가 찾아낸 “머리 둘 달린 새우” 오류 이미지는 Penaeus monodon 또는 Giant tiger prawn이라는 제목으로 시리즈 표지와 본문 면에 모두 실려 있었다."
+          },
+          {
+            "t": "p",
+            "x": "삽화를 두고 “AI를 쓰면 안 된다는 게 아니라, 적어도 기본 규칙은 지켜야 하지 않느냐”고 되묻는 독자도 있었다."
+          },
+          {
+            "t": "p",
+            "x": "10월 27일 언론 보도에 따르면 중국농업출판사 직원은 출판사가 상황을 알고 있다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "출판사 독자 서비스 핫라인 담당자도 온라인 소매 플랫폼에 해당 도서 판매 중단과 회수를 통보하는 중이라고 전했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI two-headed shrimp\nprompts book recall in China",
+          "body": "China Agricultural Publishing House is recalling a sea-life series after readers found an AI-drawn two-headed shrimp.",
+          "mini_headline": "AI shrimp error sparks recall",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "A social media post pointing out an erroneous image of a \"two-headed shrimp\""
+              },
+              {
+                "t": "p",
+                "x": "A social media post pointing out an erroneous image of a \"two-headed shrimp\" in a popular science book series on South China Sea marine life has drawn public attention. A staff member at the China Agricultural Publishing House was quoted as saying in media reports on Tuesday that the publisher was aware of the issue and was notifying sellers across online platforms to remove the books from sale and recall copies already distributed."
+              },
+              {
+                "t": "p",
+                "x": "Some readers on China's social media platform Sina Weibo pointed out that the books they purchased contain a preface explicitly stating that the vast majority of the illustrations were generated using AI tools."
+              },
+              {
+                "t": "p",
+                "x": "A reader noticed an erroneous image of a \"two-headed shrimp\" in the series, appearing both on the cover and an inside page, titled Penaeus monodon or Giant tiger prawn."
+              },
+              {
+                "t": "p",
+                "x": "Some readers questioned the illustrations, saying that \"it's not that AI can't be utilized, but surely some basic rules should be followed, right?\""
+              },
+              {
+                "t": "p",
+                "x": "On October 27, a staff member at China Agricultural Publishing House was quoted as saying in the media reports that the publisher was aware of the situation."
+              },
+              {
+                "t": "p",
+                "x": "A representative from the publisher's reader service hotline said the publisher was notifying online retail platforms to remove the books in question from sale and arrange for their recall."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 그린 머리 둘 새우\n중국서 도서 리콜",
+          "body": "중국농업출판사가 AI-drawn 머리 둘 새우 삽화가 실린 해양 시리즈를 리콜한다.",
+          "mini_headline": "AI 새우 오류로 리콜",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "“머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물"
+              },
+              {
+                "t": "p",
+                "x": "남중국해 해양 생물을 다룬 대중 과학 도서 시리즈에 “머리 둘 달린 새우” 오류 이미지가 실렸다는 소셜미디어 게시물이 화제가 됐다. 화요일 언론 보도에 따르면 중국농업출판사(China Agricultural Publishing House) 직원은 출판사도 문제를 파악했으며 온라인 플랫폼 판매처에 판매 중단과 이미 유통된 책의 회수를 알리는 중이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "중국 소셜미디어 플랫폼 Sina Weibo에서 일부 독자는 자기가 산 책 서문에 삽화 대부분을 AI 도구로 만들었다고 적혀 있다고 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "한 독자가 찾아낸 “머리 둘 달린 새우” 오류 이미지는 Penaeus monodon 또는 Giant tiger prawn이라는 제목으로 시리즈 표지와 본문 면에 모두 실려 있었다."
+              },
+              {
+                "t": "p",
+                "x": "삽화를 두고 “AI를 쓰면 안 된다는 게 아니라, 적어도 기본 규칙은 지켜야 하지 않느냐”고 되묻는 독자도 있었다."
+              },
+              {
+                "t": "p",
+                "x": "10월 27일 언론 보도에 따르면 중국농업출판사 직원은 출판사가 상황을 알고 있다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "출판사 독자 서비스 핫라인 담당자도 온라인 소매 플랫폼에 해당 도서 판매 중단과 회수를 통보하는 중이라고 전했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI描画の双頭エビで\n中国の出版社が回収",
+          "body": "中国農業出版社が、AI-drawnの双頭エビが見つかった海洋生物シリーズを回収している。",
+          "mini_headline": "AIのエビの誤りで回収",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "「双頭のエビ」の誤った画像を指摘するSNS投稿"
+              },
+              {
+                "t": "p",
+                "x": "南シナ海の海洋生物を扱った人気科学書シリーズに「双頭のエビ」の誤った画像があると指摘するSNS投稿が、世間の注目を集めた。火曜日のメディア報道によると、中国農業出版社(China Agricultural Publishing House)の職員は、出版社がこの問題を把握しており、オンラインプラットフォーム上の販売業者に販売停止と流通済みの本の回収を通知していると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "中国のSNS「Sina Weibo」では、購入した本の序文に、イラストの大半がAIツールで生成されたと明記されていると指摘する読者もいた。"
+              },
+              {
+                "t": "p",
+                "x": "ある読者は、シリーズの表紙と本文ページの両方に掲載された、Penaeus monodon、すなわちGiant tiger prawnと題された「双頭のエビ」の誤った画像に気づいた。"
+              },
+              {
+                "t": "p",
+                "x": "イラストに疑問を呈し「AIを使ってはいけないというわけではないが、最低限の基本的なルールは守るべきではないか」と述べる読者もいた。"
+              },
+              {
+                "t": "p",
+                "x": "10月27日、メディア報道によると、中国農業出版社の職員は出版社が状況を把握していると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "出版社の読者サービスホットラインの担当者は、出版社がオンライン小売プラットフォームに対し、問題の本の販売停止と回収の手配を通知していると述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI画出双头虾\n中国出版社召回图书",
+          "body": "读者发现AI-drawn的双头虾后，中国农业出版社召回一套海洋生物丛书。",
+          "mini_headline": "AI虾图出错引发召回",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "一则指出“双头虾”错误图片的社交媒体帖子"
+              },
+              {
+                "t": "p",
+                "x": "一则社交媒体帖子指出，一套介绍南海海洋生物的科普丛书中出现了一张“双头虾”的错误图片，引发公众关注。据媒体周二报道，中国农业出版社一名工作人员表示，出版社已知悉此事，正在通知各网络平台的销售商下架这些图书，并召回已发行的图书。"
+              },
+              {
+                "t": "p",
+                "x": "一些读者在中国社交媒体平台Sina Weibo上指出，他们购买的图书序言中明确写明，绝大多数插图是用AI工具生成的。"
+              },
+              {
+                "t": "p",
+                "x": "一位读者注意到，该丛书的封面和内页都出现了一张标题为Penaeus monodon（Giant tiger prawn）的“双头虾”错误图片。"
+              },
+              {
+                "t": "p",
+                "x": "一些读者对插图提出质疑，称“不是不能用AI，但总该遵守一些基本规则吧？”"
+              },
+              {
+                "t": "p",
+                "x": "据媒体报道，10月27日，中国农业出版社一名工作人员表示，出版社已知悉此情况。"
+              },
+              {
+                "t": "p",
+                "x": "该出版社读者服务热线的一名代表表示，出版社正在通知网络零售平台将涉事图书下架并安排召回。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Camarón de dos cabezas por AI:\nretiran libros en China",
+          "body": "China Agricultural Publishing House retira una serie de vida marina por un camarón AI-drawn de dos cabezas.",
+          "mini_headline": "Un error de AI provoca una retirada",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "Una publicación en redes sociales que señala la imagen errónea de un \"camarón de dos cabezas\""
+              },
+              {
+                "t": "p",
+                "x": "Una publicación en redes sociales que señalaba la imagen errónea de un \"camarón de dos cabezas\" en una popular serie de libros de divulgación científica sobre la vida marina del mar de la China Meridional ha llamado la atención del público. Según informaciones de medios del martes, un empleado de China Agricultural Publishing House afirmó que la editorial conocía el problema y estaba notificando a los vendedores de las plataformas en línea para retirar los libros de la venta y recuperar los ejemplares ya distribuidos."
+              },
+              {
+                "t": "p",
+                "x": "Algunos lectores en la red social china Sina Weibo señalaron que los libros que compraron incluyen un prefacio que indica de forma explícita que la gran mayoría de las ilustraciones se generaron con herramientas de AI."
+              },
+              {
+                "t": "p",
+                "x": "Un lector detectó en la serie la imagen errónea de un \"camarón de dos cabezas\", que aparece tanto en la portada como en una página interior, titulada Penaeus monodon o Giant tiger prawn."
+              },
+              {
+                "t": "p",
+                "x": "Algunos lectores cuestionaron las ilustraciones: \"no es que no se pueda usar AI, pero sin duda habría que seguir algunas reglas básicas, ¿no?\""
+              },
+              {
+                "t": "p",
+                "x": "El 27 de octubre, según los medios, un empleado de China Agricultural Publishing House indicó que la editorial estaba al tanto de la situación."
+              },
+              {
+                "t": "p",
+                "x": "Un representante de la línea de atención al lector de la editorial dijo que estaban notificando a las plataformas de venta en línea para retirar de la venta los libros afectados y organizar su recuperación."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI가 그린 머리 둘 새우\n중국서 도서 리콜",
+          "body": "중국농업출판사가 AI-drawn 머리 둘 새우가 실린 해양 시리즈를 리콜한다.",
+          "mini_headline": "AI 새우 오류로 리콜",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "“머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물"
+              },
+              {
+                "t": "p",
+                "x": "남중국해 해양 생물을 다룬 대중 과학 도서 시리즈에 실린 “머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물이 대중의 관심을 끌었다. 화요일 언론 보도에 따르면 중국농업출판사(China Agricultural Publishing House) 직원은 출판사가 문제를 알고 있으며, 온라인 플랫폼 판매처에 판매 중단과 이미 유통된 책의 회수를 알리고 있다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "중국 소셜미디어 플랫폼 Sina Weibo의 일부 독자들은 자신이 산 책의 서문에 삽화 대부분이 AI 도구로 생성됐다고 명시돼 있다고 지적했다."
+              },
+              {
+                "t": "p",
+                "x": "한 독자는 시리즈의 표지와 본문 면에 모두 실린, Penaeus monodon 또는 Giant tiger prawn이라는 제목의 “머리 둘 달린 새우” 오류 이미지를 발견했다."
+              },
+              {
+                "t": "p",
+                "x": "일부 독자는 삽화에 의문을 제기하며 “AI를 쓰면 안 된다는 게 아니라, 적어도 기본 규칙은 지켜야 하지 않느냐”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "10월 27일 언론 보도에 따르면 중국농업출판사 직원은 출판사가 상황을 알고 있다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "출판사 독자 서비스 핫라인 담당자는 출판사가 온라인 소매 플랫폼에 해당 도서의 판매 중단과 회수를 통보하고 있다고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI描画の双頭エビで\n中国の出版社が回収",
+          "body": "中国農業出版社が、AI-drawnの双頭エビが見つかった海洋生物シリーズを回収している。",
+          "mini_headline": "AIのエビの誤りで回収",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "「双頭のエビ」の誤った画像を指摘するSNS投稿"
+              },
+              {
+                "t": "p",
+                "x": "南シナ海の海洋生物を扱った人気科学書シリーズに「双頭のエビ」の誤った画像があると指摘するSNS投稿が、世間の注目を集めた。火曜日のメディア報道によると、中国農業出版社(China Agricultural Publishing House)の職員は、出版社がこの問題を把握しており、オンラインプラットフォーム上の販売業者に販売停止と流通済みの本の回収を通知していると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "中国のSNS「Sina Weibo」では、購入した本の序文に、イラストの大半がAIツールで生成されたと明記されていると指摘する読者もいた。"
+              },
+              {
+                "t": "p",
+                "x": "ある読者は、シリーズの表紙と本文ページの両方に掲載された、Penaeus monodon、すなわちGiant tiger prawnと題された「双頭のエビ」の誤った画像に気づいた。"
+              },
+              {
+                "t": "p",
+                "x": "イラストに疑問を呈し「AIを使ってはいけないというわけではないが、最低限の基本的なルールは守るべきではないか」と述べる読者もいた。"
+              },
+              {
+                "t": "p",
+                "x": "10月27日、メディア報道によると、中国農業出版社の職員は出版社が状況を把握していると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "出版社の読者サービスホットラインの担当者は、出版社がオンライン小売プラットフォームに対し、問題の本の販売停止と回収の手配を通知していると述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI画出双头虾\n中国出版社召回图书",
+          "body": "读者发现AI-drawn的双头虾后，中国农业出版社召回一套海洋生物丛书。",
+          "mini_headline": "AI虾图出错引发召回",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "一则指出“双头虾”错误图片的社交媒体帖子"
+              },
+              {
+                "t": "p",
+                "x": "一则社交媒体帖子指出，一套介绍南海海洋生物的科普丛书中出现了一张“双头虾”的错误图片，引发公众关注。据媒体周二报道，中国农业出版社一名工作人员表示，出版社已知悉此事，正在通知各网络平台的销售商下架这些图书，并召回已发行的图书。"
+              },
+              {
+                "t": "p",
+                "x": "一些读者在中国社交媒体平台Sina Weibo上指出，他们购买的图书序言中明确写明，绝大多数插图是用AI工具生成的。"
+              },
+              {
+                "t": "p",
+                "x": "一位读者注意到，该丛书的封面和内页都出现了一张标题为Penaeus monodon（Giant tiger prawn）的“双头虾”错误图片。"
+              },
+              {
+                "t": "p",
+                "x": "一些读者对插图提出质疑，称“不是不能用AI，但总该遵守一些基本规则吧？”"
+              },
+              {
+                "t": "p",
+                "x": "据媒体报道，10月27日，中国农业出版社一名工作人员表示，出版社已知悉此情况。"
+              },
+              {
+                "t": "p",
+                "x": "该出版社读者服务热线的一名代表表示，出版社正在通知网络零售平台将涉事图书下架并安排召回。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Camarón de dos cabezas por AI:\nretiran libros en China",
+          "body": "China Agricultural Publishing House retira una serie de vida marina por un camarón AI-drawn de dos cabezas.",
+          "mini_headline": "Un error de AI provoca una retirada",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+                "cap": "Una publicación en redes sociales que señala la imagen errónea de un \"camarón de dos cabezas\""
+              },
+              {
+                "t": "p",
+                "x": "Una publicación en redes sociales que señalaba la imagen errónea de un \"camarón de dos cabezas\" en una popular serie de libros de divulgación científica sobre la vida marina del mar de la China Meridional ha llamado la atención del público. Según informaciones de medios del martes, un empleado de China Agricultural Publishing House afirmó que la editorial conocía el problema y estaba notificando a los vendedores de las plataformas en línea para retirar los libros de la venta y recuperar los ejemplares ya distribuidos."
+              },
+              {
+                "t": "p",
+                "x": "Algunos lectores en la red social china Sina Weibo señalaron que los libros que compraron incluyen un prefacio que indica de forma explícita que la gran mayoría de las ilustraciones se generaron con herramientas de AI."
+              },
+              {
+                "t": "p",
+                "x": "Un lector detectó en la serie la imagen errónea de un \"camarón de dos cabezas\", que aparece tanto en la portada como en una página interior, titulada Penaeus monodon o Giant tiger prawn."
+              },
+              {
+                "t": "p",
+                "x": "Algunos lectores cuestionaron las ilustraciones: \"no es que no se pueda usar AI, pero sin duda habría que seguir algunas reglas básicas, ¿no?\""
+              },
+              {
+                "t": "p",
+                "x": "El 27 de octubre, según los medios, un empleado de China Agricultural Publishing House indicó que la editorial estaba al tanto de la situación."
+              },
+              {
+                "t": "p",
+                "x": "Un representante de la línea de atención al lector de la editorial dijo que estaban notificando a las plataformas de venta en línea para retirar de la venta los libros afectados y organizar su recuperación."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "kpa-corpus-settlement",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "출협, 말뭉치 합의금\nAI 학습 대가 기준 아냐",
+      "body": "출협은 말뭉치 사건 합의금이 AI 학습 데이터 대가 기준이 될 수 없다고 밝혔다.",
+      "mini_headline": "출협, 말뭉치 합의금 반박",
+      "tool": "Books",
+      "source": "독서신문",
+      "url": "https://www.readersnews.com/news/articleView.html?idxno=200813",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+          },
+          {
+            "t": "p",
+            "x": "사단법인 대한출판문화협회(이하 출협)가 최근 대법원 상고심이 진행 중인 국립국어원 말뭉치 사건과 관련해 과거 분쟁 해결 차원의 합의 금액이 향후 AI 학습용 데이터 거래의 시세가 돼서는 안 된다는 입장을 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "국립국어원 문어 말뭉치 사건은 국립국어원이 발주하고 웅진북센이 수행한 ‘문어 말뭉치 원문 자료 수집’ 사업에서 출판저작물 1만 5,933종, 약 6억 2,272만 어절이 저작권자의 이용허락 없이 사용된 사건이다. 2023년 1월 출협과 웅진북센의 합의 이후 합의에 참여하지 않은 저자들이 손해배상 소송을 제기해 제1심에서 승소했다. 항소심에서는 합의 기준 등을 근거로 손해액이 감액됐으며 현재 상고심이 진행 중이다."
+          },
+          {
+            "t": "p",
+            "x": "출협은 30일 보도자료를 통해 “이러한 합의금액을 AI 학습용 데이터의 이용 대가를 정하는 일반적인 기준으로 삼아서는 안 된다”며 “이러한 금액이 공공사업이나 민간 AI 기업의 데이터 확보 과정에서 ‘표준 대가’처럼 받아들여질 경우 새로운 시장이 출발부터 왜곡될 수 있다”고 경고했다."
+          },
+          {
+            "t": "p",
+            "x": "출협은 그 이유로 합의가 국가 언어자원 구축이라는 공익적 취지와 분쟁 해결의 필요성을 고려한 것이라는 점, 과거 침해의 해결과 장래 이용 조건을 함께 정했다는 점, ‘최혜대우’ 조항을 두어 추가 정산의 가능성을 열어뒀다는 점, 이용허락의 대가는 이용 목적과 기간, 데이터 범위, 이용 기업의 수 등에 따라 달라진다는 점을 들었다."
+          },
+          {
+            "t": "p",
+            "x": "출협은 “새로운 시장이 건강하게 형성되기 위해서는 사전 이용허락과 정당한 대가에 대한 원칙이 필요하다”며 “출판계와 AI 산업이 함께 발전할 수 있는 거래질서를 세워 나가겠다”고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "출협, 말뭉치 합의금\nAI 학습 대가 기준 아냐",
+          "body": "출협은 말뭉치 사건 합의금이 AI 학습 데이터 대가 기준이 될 수 없다고 밝혔다.",
+          "mini_headline": "출협, 말뭉치 합의금 반박",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+              },
+              {
+                "t": "p",
+                "x": "사단법인 대한출판문화협회(이하 출협)가 최근 대법원 상고심이 진행 중인 국립국어원 말뭉치 사건과 관련해 과거 분쟁 해결 차원의 합의 금액이 향후 AI 학습용 데이터 거래의 시세가 돼서는 안 된다는 입장을 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "국립국어원 문어 말뭉치 사건은 국립국어원이 발주하고 웅진북센이 수행한 ‘문어 말뭉치 원문 자료 수집’ 사업에서 출판저작물 1만 5,933종, 약 6억 2,272만 어절이 저작권자의 이용허락 없이 사용된 사건이다. 2023년 1월 출협과 웅진북센의 합의 이후 합의에 참여하지 않은 저자들이 손해배상 소송을 제기해 제1심에서 승소했다. 항소심에서는 합의 기준 등을 근거로 손해액이 감액됐으며 현재 상고심이 진행 중이다."
+              },
+              {
+                "t": "p",
+                "x": "출협은 30일 보도자료를 통해 “이러한 합의금액을 AI 학습용 데이터의 이용 대가를 정하는 일반적인 기준으로 삼아서는 안 된다”며 “이러한 금액이 공공사업이나 민간 AI 기업의 데이터 확보 과정에서 ‘표준 대가’처럼 받아들여질 경우 새로운 시장이 출발부터 왜곡될 수 있다”고 경고했다."
+              },
+              {
+                "t": "p",
+                "x": "출협은 그 이유로 합의가 국가 언어자원 구축이라는 공익적 취지와 분쟁 해결의 필요성을 고려한 것이라는 점, 과거 침해의 해결과 장래 이용 조건을 함께 정했다는 점, ‘최혜대우’ 조항을 두어 추가 정산의 가능성을 열어뒀다는 점, 이용허락의 대가는 이용 목적과 기간, 데이터 범위, 이용 기업의 수 등에 따라 달라진다는 점을 들었다."
+              },
+              {
+                "t": "p",
+                "x": "출협은 “새로운 시장이 건강하게 형성되기 위해서는 사전 이용허락과 정당한 대가에 대한 원칙이 필요하다”며 “출판계와 AI 산업이 함께 발전할 수 있는 거래질서를 세워 나가겠다”고 밝혔다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Publishers: corpus settlement\nnot a benchmark for AI data",
+          "body": "The Korean Publishers Association said the corpus case settlement cannot set the price for AI training data.",
+          "mini_headline": "Publishers reject corpus benchmark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The Korean Publishers Association (hereafter the Association) said that a settlement amount reached in the past to resolve a dispute should not become the going rate for future AI training data deals, in connection with the National Institute of Korean Language corpus case now under final appeal at the Supreme Court."
+              },
+              {
+                "t": "p",
+                "x": "In the National Institute of Korean Language written corpus case, 1만 5,933 published works, or about 6억 2,272만 eojeol (word units), were used without copyright holders’ permission in the ‘written corpus source text collection’ project commissioned by the National Institute of Korean Language and carried out by Woongjin Booxen. After the Association and Woongjin Booxen settled in January 2023, authors who did not join the settlement sued for damages and won at the 1st-instance trial. On appeal, the damages were reduced based on the settlement terms and other grounds, and the case is now under final appeal."
+              },
+              {
+                "t": "p",
+                "x": "In a press release on the 30th, the Association warned that “such a settlement amount should not be used as a general benchmark for setting the price of using AI training data,” adding that “if such amounts come to be accepted as a ‘standard price’ in public projects or in private AI companies’ data acquisition, the new market could be distorted from the start.”"
+              },
+              {
+                "t": "p",
+                "x": "As reasons, the Association noted that the settlement weighed the public-interest purpose of building national language resources and the need to resolve the dispute; that it settled past infringement and set terms for future use together; that it includes a ‘most-favored-nation’ clause leaving room for additional payments; and that the price of a license varies with the purpose and period of use, the scope of data and the number of companies using it."
+              },
+              {
+                "t": "p",
+                "x": "“For a new market to form in a healthy way, principles of prior permission and fair compensation are needed,” the Association said, adding, “We will work to build a trading order in which publishing and the AI industry can grow together.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "出版協、コーパス和解金\nAI学習対価の基準でない",
+          "body": "出版協は、コーパス事件の和解金はAI学習データの対価基準になり得ないと表明した。",
+          "mini_headline": "出版協、コーパス和解金に反論",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+              },
+              {
+                "t": "p",
+                "x": "社団法人大韓出版文化協会(以下、出版協)は、大法院で上告審が進む国立国語院コーパス事件に関連し、過去に紛争解決のために結ばれた和解金額が、今後のAI学習用データ取引の相場になってはならないとの立場を示した。"
+              },
+              {
+                "t": "p",
+                "x": "国立国語院の文語コーパス事件は、国立国語院が発注し熊津ブクセンが実施した「文語コーパス原文資料収集」事業で、出版著作物1만 5,933種、約6억 2,272만語節が著作権者の利用許諾なく使用された事件だ。2023年1月に出版協と熊津ブクセンが和解した後、和解に参加しなかった著者らが損害賠償訴訟を起こし、第1審で勝訴した。控訴審では和解の基準などを根拠に損害額が減額され、現在は上告審が進行中だ。"
+              },
+              {
+                "t": "p",
+                "x": "出版協は30日の報道資料で「こうした和解金額を、AI学習用データの利用対価を定める一般的な基準にしてはならない」とし、「こうした金額が公共事業や民間AI企業のデータ確保の過程で『標準対価』のように受け止められれば、新しい市場が出発点から歪められかねない」と警告した。"
+              },
+              {
+                "t": "p",
+                "x": "出版協はその理由として、和解が国家の言語資源構築という公益的な趣旨と紛争解決の必要性を考慮したものである点、過去の侵害の解決と将来の利用条件を併せて定めた点、「最恵待遇」条項を設けて追加精算の可能性を残した点、利用許諾の対価は利用目的や期間、データの範囲、利用企業の数などによって変わる点を挙げた。"
+              },
+              {
+                "t": "p",
+                "x": "出版協は「新しい市場が健全に形成されるには、事前の利用許諾と正当な対価に関する原則が必要だ」とし、「出版界とAI産業がともに発展できる取引秩序を築いていく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "韩国出版协会：语料库和解金\n非AI训练定价标准",
+          "body": "韩国出版协会表示，语料库案和解金不能作为AI训练数据的定价标准。",
+          "mini_headline": "韩国出版协会反驳语料库和解金",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+              },
+              {
+                "t": "p",
+                "x": "社团法人大韩出版文化协会（以下简称“出版协会”）就目前正在大法院进行上告审的国立国语院语料库案表示，过去为解决纠纷而达成的和解金额不应成为今后AI训练数据交易的行情价。"
+              },
+              {
+                "t": "p",
+                "x": "国立国语院书面语语料库案是指，在由国立国语院发包、Woongjin Booxen执行的“书面语语料库原文资料收集”项目中，1만 5,933种出版作品、约6억 2,272만个语节在未获著作权人许可的情况下被使用。2023年1月出版协会与Woongjin Booxen达成和解后，未参与和解的作者提起损害赔偿诉讼，并在第1审中胜诉。控诉审以和解标准等为依据下调了赔偿额，目前案件正处于上告审阶段。"
+              },
+              {
+                "t": "p",
+                "x": "出版协会30日通过新闻稿警告称：“不应将此类和解金额作为确定AI训练数据使用对价的一般标准。”并表示：“如果这类金额在公共项目或民间AI企业获取数据的过程中被当作‘标准对价’，新市场可能从一开始就遭到扭曲。”"
+              },
+              {
+                "t": "p",
+                "x": "出版协会列举的理由包括：该和解考虑了构建国家语言资源的公益宗旨和解决纠纷的必要性；它同时确定了对过去侵权的解决办法和未来的使用条件；其中设有“最惠待遇”条款，为追加结算留有余地；而使用许可的对价会因使用目的和期限、数据范围、使用企业数量等而有所不同。"
+              },
+              {
+                "t": "p",
+                "x": "出版协会表示：“新市场要健康形成，需要确立事先许可和合理对价的原则。”并称：“将努力建立出版界与AI产业能够共同发展的交易秩序。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Editores coreanos: el acuerdo\nno fija precio para datos de AI",
+          "body": "La Asociación Coreana de Editores dijo que el acuerdo del corpus no puede fijar el precio del entrenamiento de AI.",
+          "mini_headline": "Editores coreanos rechazan la referencia",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La Asociación Coreana de Editores (en adelante, la Asociación) afirmó que el monto de un acuerdo alcanzado en el pasado para resolver una disputa no debe convertirse en el precio de mercado de futuras transacciones de datos para entrenar AI, en relación con el caso del corpus del Instituto Nacional de la Lengua Coreana, que se encuentra en casación ante el Tribunal Supremo."
+              },
+              {
+                "t": "p",
+                "x": "En el caso del corpus escrito del Instituto Nacional de la Lengua Coreana, 1만 5,933 obras publicadas, unos 6억 2,272만 eojeol (unidades de palabra), se usaron sin permiso de los titulares de derechos en el proyecto de ‘recopilación de textos originales para el corpus escrito’, encargado por el Instituto y ejecutado por Woongjin Booxen. Tras el acuerdo de enero de 2023 entre la Asociación y Woongjin Booxen, autores que no participaron en él demandaron por daños y ganaron en 1.ª instancia. En apelación, la indemnización se redujo con base, entre otros, en los criterios del acuerdo, y ahora el caso está en casación."
+              },
+              {
+                "t": "p",
+                "x": "En un comunicado del día 30, la Asociación advirtió que “no se debe tomar este monto de acuerdo como criterio general para fijar el precio de uso de datos de entrenamiento de AI” y que “si estas cifras llegan a aceptarse como un ‘precio estándar’ en proyectos públicos o en la obtención de datos de empresas privadas de AI, el nuevo mercado podría distorsionarse desde su inicio”."
+              },
+              {
+                "t": "p",
+                "x": "Como razones, la Asociación señaló que el acuerdo tuvo en cuenta el fin de interés público de construir recursos lingüísticos nacionales y la necesidad de resolver la disputa; que resolvió las infracciones pasadas y fijó a la vez las condiciones de uso futuro; que incluye una cláusula de ‘nación más favorecida’ que deja abierta la posibilidad de liquidaciones adicionales; y que el precio de una licencia varía según el fin y el plazo de uso, el alcance de los datos y el número de empresas usuarias."
+              },
+              {
+                "t": "p",
+                "x": "“Para que el nuevo mercado se forme de manera sana, se necesitan principios de autorización previa y de compensación justa”, señaló la Asociación, y añadió: “Trabajaremos para establecer un orden de transacciones en el que la industria editorial y la de AI puedan crecer juntas”."
               }
             ]
           }
@@ -1261,141 +1605,137 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Webtoon localization plug-in\nlands on Adobe Exchange",
-          "body": "Brainventures released a Photoshop plug-in that automates webtoon work from speech-bubble detection to typesetting.",
-          "mini_headline": "Webtoon localization plug-in listed",
+          "headline": "Publishers: corpus settlement\nnot a benchmark for AI data",
+          "body": "The Korean Publishers Association said the corpus case settlement cannot set the price for AI training data.",
+          "mini_headline": "Publishers reject corpus benchmark",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "Brainventures officially lists webtoon localization plug-in ‘ToonFlow’ on Adobe Exchange"
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
               },
               {
                 "t": "p",
-                "x": "Brainventures (CEO Kim Won-hoe), a company specializing in AI-based webtoon localization, has listed ‘ToonFlow’, a Photoshop plug-in that automates webtoon translation and typesetting, on ‘Adobe Exchange’, Adobe’s official marketplace. With the listing, a Photoshop plug-in that handles the main steps of webtoon localization — from speech-bubble detection to text recognition, translation and typesetting — in a single pipeline is now being distributed in earnest on a global marketplace."
+                "x": "The Korean Publishers Association (hereafter the Association) said that a settlement amount reached in the past to resolve a dispute should not become the going rate for future AI training data deals, in connection with the National Institute of Korean Language corpus case now under final appeal at the Supreme Court."
               },
               {
                 "t": "p",
-                "x": "ToonFlow is an artificial intelligence (AI) plug-in developed so that webtoon localization workers can carry out translation and typesetting without leaving their existing Adobe Photoshop environment. It provides speech-bubble and text-area detection, optical character recognition (OCR) of source text including vertical writing, context-based machine translation that reflects glossaries, and typesetting with automatic font matching, all in one package. Its ‘Autopilot’ feature runs the multistep process in sequence, handling the entire workflow at once without switching tabs, and it adds a ‘Preset’ feature that saves settings for each title and a ‘source/translation comparison panel’ for checking before-and-after results, making review easier."
+                "x": "In the National Institute of Korean Language written corpus case, 1만 5,933 published works, or about 6억 2,272만 eojeol (word units), were used without copyright holders’ permission in the ‘written corpus source text collection’ project commissioned by the National Institute of Korean Language and carried out by Woongjin Booxen. After the Association and Woongjin Booxen settled in January 2023, authors who did not join the settlement sued for damages and won at the 1st-instance trial. On appeal, the damages were reduced based on the settlement terms and other grounds, and the case is now under final appeal."
               },
               {
                 "t": "p",
-                "x": "The plug-in was developed with support from the ‘2026 Goyang-type Private Investment-Linked Tech Startup Support Program (Goyang-type TIPS)’. The company set up a branch office in Goyang in March and, after being selected for Goyang-type TIPS in May, began research and development. It currently supports 3 languages — Korean, Japanese and English — and is distributed through Adobe Exchange and the official ToonFlow website. New account holders get a free trial of 1 episode. The company expects that automating the largely manual typesetting process will sharply cut the time the work takes."
+                "x": "In a press release on the 30th, the Association warned that “such a settlement amount should not be used as a general benchmark for setting the price of using AI training data,” adding that “if such amounts come to be accepted as a ‘standard price’ in public projects or in private AI companies’ data acquisition, the new market could be distorted from the start.”"
               },
               {
                 "t": "p",
-                "x": "“We have brought the webtoon localization technology we have built up into the Photoshop environment that workers know best,” said Kim Won-hoe, CEO of Brainventures. “We will keep advancing the technology to establish ourselves as the core localization solution that global webtoon studios and platform distributors trust in the field.”"
+                "x": "As reasons, the Association noted that the settlement weighed the public-interest purpose of building national language resources and the need to resolve the dispute; that it settled past infringement and set terms for future use together; that it includes a ‘most-favored-nation’ clause leaving room for additional payments; and that the price of a license varies with the purpose and period of use, the scope of data and the number of companies using it."
               },
               {
                 "t": "p",
-                "x": "Brainventures is a resident company of the ‘Pangyo Startup Zone’, the country’s largest startup support cluster, established in 2017 by the Ministry of SMEs and Startups and jointly operated by the Korea Institute of Startup and Entrepreneurship Development and the Gyeonggi Center for Creative Economy and Innovation."
+                "x": "“For a new market to form in a healthy way, principles of prior permission and fair compensation are needed,” the Association said, adding, “We will work to build a trading order in which publishing and the AI industry can grow together.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーン現地化ツール、\nアドビ・エクスチェンジに登録",
-          "body": "ブレインベンチャーズが吹き出し認識から写植まで自動化するプラグインを公開した。",
-          "mini_headline": "ウェブトゥーン現地化プラグイン登録",
+          "headline": "出版協、コーパス和解金\nAI学習対価の基準でない",
+          "body": "出版協は、コーパス事件の和解金はAI学習データの対価基準になり得ないと表明した。",
+          "mini_headline": "出版協、コーパス和解金に反論",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "ブレインベンチャーズ、アドビ・エクスチェンジにウェブトゥーン現地化プラグイン「ToonFlow」を正式登録"
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
               },
               {
                 "t": "p",
-                "x": "AIを活用したウェブトゥーン現地化の専門企業ブレインベンチャーズ(代表キム・ウォンフェ)が、ウェブトゥーンの翻訳と写植作業を自動化するPhotoshopプラグイン「ToonFlow(トゥーンフロー)」を、アドビの公式マーケットプレイス「Adobe Exchange」に登録した。今回の登録により、吹き出し検出からテキスト認識、翻訳、写植まで、ウェブトゥーン現地化の主要工程を単一のパイプラインで処理するPhotoshopプラグインが、グローバルマーケットプレイスで本格的に流通する。"
+                "x": "社団法人大韓出版文化協会(以下、出版協)は、大法院で上告審が進む国立国語院コーパス事件に関連し、過去に紛争解決のために結ばれた和解金額が、今後のAI学習用データ取引の相場になってはならないとの立場を示した。"
               },
               {
                 "t": "p",
-                "x": "ToonFlowは、ウェブトゥーン現地化の作業者が既存のAdobe Photoshopの作業環境を離れずに翻訳や写植の業務を行えるよう開発された人工知能(AI)プラグインだ。吹き出しとテキスト領域の検出、縦書きを含む原文テキストの光学文字認識(OCR)、用語集を反映した文脈ベースの機械翻訳、フォント自動マッチングによる写植機能を一括で提供する。特に、多段階の工程を順に実行する「オートパイロット(Autopilot)」機能により、タブを移動せずに全工程を一度に処理でき、作品ごとの設定を保存する「プリセット」機能と、前後の結果を照合できる「原文/翻訳比較パネル」を搭載して検収の利便性を高めた。"
+                "x": "国立国語院の文語コーパス事件は、国立国語院が発注し熊津ブクセンが実施した「文語コーパス原文資料収集」事業で、出版著作物1만 5,933種、約6억 2,272만語節が著作権者の利用許諾なく使用された事件だ。2023年1月に出版協と熊津ブクセンが和解した後、和解に参加しなかった著者らが損害賠償訴訟を起こし、第1審で勝訴した。控訴審では和解の基準などを根拠に損害額が減額され、現在は上告審が進行中だ。"
               },
               {
                 "t": "p",
-                "x": "このプラグインは「2026年高陽型民間投資連携技術創業支援事業(高陽型TIPS)」の支援を受けて開発された。同社は3月に高陽市に支社を設立し、5月に高陽型TIPSに選ばれて研究開発に着手した。現在、韓国語・日本語・英語の3言語に対応し、Adobe ExchangeとToonFlowの公式ウェブサイトを通じて配布される。新規アカウント登録者には1話分の無料体験が提供される。同社は、従来の手作業中心の写植プロセスが自動化されることで、作業時間を大幅に短縮できると見込んでいる。"
+                "x": "出版協は30日の報道資料で「こうした和解金額を、AI学習用データの利用対価を定める一般的な基準にしてはならない」とし、「こうした金額が公共事業や民間AI企業のデータ確保の過程で『標準対価』のように受け止められれば、新しい市場が出発点から歪められかねない」と警告した。"
               },
               {
                 "t": "p",
-                "x": "ブレインベンチャーズのキム・ウォンフェ代表は「これまで蓄積してきたウェブトゥーン現地化技術を、作業者にとって最もなじみのあるPhotoshop環境に実装した」とし、「技術の高度化を続け、グローバルなウェブトゥーン制作会社やプラットフォーム流通事業者が現場で信頼する中核的な現地化ソリューションとしての地位を確立したい」と説明した。"
+                "x": "出版協はその理由として、和解が国家の言語資源構築という公益的な趣旨と紛争解決の必要性を考慮したものである点、過去の侵害の解決と将来の利用条件を併せて定めた点、「最恵待遇」条項を設けて追加精算の可能性を残した点、利用許諾の対価は利用目的や期間、データの範囲、利用企業の数などによって変わる点を挙げた。"
               },
               {
                 "t": "p",
-                "x": "なお、ブレインベンチャーズは、中小ベンチャー企業部が2017年に設立し、創業振興院と京畿創造経済革新センターが共同運営する国内最大の創業支援クラスター「板橋創業ゾーン」の入居企業である。"
+                "x": "出版協は「新しい市場が健全に形成されるには、事前の利用許諾と正当な対価に関する原則が必要だ」とし、「出版界とAI産業がともに発展できる取引秩序を築いていく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "网络漫画本地化插件\n上架Adobe插件市场",
-          "body": "Brainventures推出从对话框识别到嵌字全程自动化的Photoshop插件。",
-          "mini_headline": "网络漫画本地化插件上架",
+          "headline": "韩国出版协会：语料库和解金\n非AI训练定价标准",
+          "body": "韩国出版协会表示，语料库案和解金不能作为AI训练数据的定价标准。",
+          "mini_headline": "韩国出版协会反驳语料库和解金",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "Brainventures在Adobe Exchange正式上架网络漫画本地化插件“ToonFlow”"
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
               },
               {
                 "t": "p",
-                "x": "基于AI的网络漫画本地化专业企业Brainventures(代表Kim Won-hoe)将自动完成网络漫画翻译与嵌字工作的Photoshop插件“ToonFlow”上架至Adobe官方插件市场“Adobe Exchange”。借此，一款以单一流程处理从对话框检测到文本识别、翻译、嵌字等网络漫画本地化主要工序的Photoshop插件，正式在全球市场发行。"
+                "x": "社团法人大韩出版文化协会（以下简称“出版协会”）就目前正在大法院进行上告审的国立国语院语料库案表示，过去为解决纠纷而达成的和解金额不应成为今后AI训练数据交易的行情价。"
               },
               {
                 "t": "p",
-                "x": "ToonFlow是一款人工智能(AI)插件，旨在让网络漫画本地化从业者无需离开现有的Adobe Photoshop工作环境即可完成翻译和嵌字工作。它一站式提供对话框及文本区域检测、包括竖排文字在内的原文光学字符识别(OCR)、结合术语表的语境化机器翻译，以及自动匹配字体的嵌字功能。尤其是采用按顺序执行多阶段工序的“自动驾驶(Autopilot)”功能，无需切换标签页即可一次完成全部流程，并配备保存各作品专属设置的“预设”功能和可对照前后结果的“原文/译文对比面板”，提升了审校便利性。"
+                "x": "国立国语院书面语语料库案是指，在由国立国语院发包、Woongjin Booxen执行的“书面语语料库原文资料收集”项目中，1만 5,933种出版作品、约6억 2,272만个语节在未获著作权人许可的情况下被使用。2023年1月出版协会与Woongjin Booxen达成和解后，未参与和解的作者提起损害赔偿诉讼，并在第1审中胜诉。控诉审以和解标准等为依据下调了赔偿额，目前案件正处于上告审阶段。"
               },
               {
                 "t": "p",
-                "x": "该插件在“2026年高阳型民间投资联动技术创业支援项目(高阳型TIPS)”的支持下开发。公司于3月在高阳市设立分公司，5月入选高阳型TIPS并着手研发。目前支持韩语、日语、英语3种语言，通过Adobe Exchange和ToonFlow官方网站发布。新注册账户可免费试用1话。公司预计，随着以往以手工为主的嵌字流程实现自动化，作业耗时将大幅缩短。"
+                "x": "出版协会30日通过新闻稿警告称：“不应将此类和解金额作为确定AI训练数据使用对价的一般标准。”并表示：“如果这类金额在公共项目或民间AI企业获取数据的过程中被当作‘标准对价’，新市场可能从一开始就遭到扭曲。”"
               },
               {
                 "t": "p",
-                "x": "Brainventures代表Kim Won-hoe表示：“我们把多年积累的网络漫画本地化技术，实现在了从业者最熟悉的Photoshop环境中。”他还说：“我们将持续提升技术，力争成为全球网络漫画制作公司和平台发行商在一线信赖的核心本地化解决方案。”"
+                "x": "出版协会列举的理由包括：该和解考虑了构建国家语言资源的公益宗旨和解决纠纷的必要性；它同时确定了对过去侵权的解决办法和未来的使用条件；其中设有“最惠待遇”条款，为追加结算留有余地；而使用许可的对价会因使用目的和期限、数据范围、使用企业数量等而有所不同。"
               },
               {
                 "t": "p",
-                "x": "此外，Brainventures是“板桥创业区”的入驻企业。该区由中小风险企业部于2017年设立，由创业振兴院与京畿创造经济革新中心共同运营，是国内最大的创业支援集群。"
+                "x": "出版协会表示：“新市场要健康形成，需要确立事先许可和合理对价的原则。”并称：“将努力建立出版界与AI产业能够共同发展的交易秩序。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un plugin de localización de\nwebtoons llega a Adobe Exchange",
-          "body": "Brainventures lanzó un plugin de Photoshop que automatiza desde la detección de bocadillos hasta la rotulación.",
-          "mini_headline": "Plugin de localización de webtoons en Adobe Exchange",
+          "headline": "Editores coreanos: el acuerdo\nno fija precio para datos de AI",
+          "body": "La Asociación Coreana de Editores dijo que el acuerdo del corpus no puede fijar el precio del entrenamiento de AI.",
+          "mini_headline": "Editores coreanos rechazan la referencia",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://besuccess.com/wp-content/uploads/2026/10/브레인벤처스.png",
-                "cap": "Brainventures registra oficialmente en Adobe Exchange ‘ToonFlow’, su plugin de localización de webtoons"
+                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
               },
               {
                 "t": "p",
-                "x": "Brainventures (director ejecutivo: Kim Won-hoe), empresa especializada en la localización de webtoons basada en AI, ha registrado ‘ToonFlow’, un plugin de Photoshop que automatiza la traducción y la rotulación de webtoons, en ‘Adobe Exchange’, el mercado oficial de Adobe. Con este registro, un plugin de Photoshop que procesa en un único flujo los principales pasos de la localización de webtoons —desde la detección de bocadillos hasta el reconocimiento de texto, la traducción y la rotulación— empieza a distribuirse de lleno en un mercado global."
+                "x": "La Asociación Coreana de Editores (en adelante, la Asociación) afirmó que el monto de un acuerdo alcanzado en el pasado para resolver una disputa no debe convertirse en el precio de mercado de futuras transacciones de datos para entrenar AI, en relación con el caso del corpus del Instituto Nacional de la Lengua Coreana, que se encuentra en casación ante el Tribunal Supremo."
               },
               {
                 "t": "p",
-                "x": "ToonFlow es un plugin de inteligencia artificial (AI) desarrollado para que los profesionales de la localización de webtoons puedan traducir y rotular sin salir de su entorno de trabajo habitual en Adobe Photoshop. Ofrece de forma integrada la detección de bocadillos y áreas de texto, el reconocimiento óptico de caracteres (OCR) del texto original, incluida la escritura vertical, la traducción automática contextual que tiene en cuenta glosarios y la rotulación con ajuste automático de fuentes. En particular, su función ‘Autopilot’ ejecuta en secuencia el proceso de varias etapas y permite completarlo todo de una vez sin cambiar de pestaña; además, incorpora una función de ‘ajustes preestablecidos’ que guarda la configuración de cada obra y un ‘panel de comparación original/traducción’ para cotejar los resultados antes y después, lo que facilita la revisión."
+                "x": "En el caso del corpus escrito del Instituto Nacional de la Lengua Coreana, 1만 5,933 obras publicadas, unos 6억 2,272만 eojeol (unidades de palabra), se usaron sin permiso de los titulares de derechos en el proyecto de ‘recopilación de textos originales para el corpus escrito’, encargado por el Instituto y ejecutado por Woongjin Booxen. Tras el acuerdo de enero de 2023 entre la Asociación y Woongjin Booxen, autores que no participaron en él demandaron por daños y ganaron en 1.ª instancia. En apelación, la indemnización se redujo con base, entre otros, en los criterios del acuerdo, y ahora el caso está en casación."
               },
               {
                 "t": "p",
-                "x": "El plugin se desarrolló con el apoyo del ‘Programa de apoyo a startups tecnológicas vinculado a la inversión privada de Goyang 2026 (TIPS de Goyang)’. La empresa abrió una sucursal en la ciudad de Goyang en marzo y, tras ser seleccionada para el TIPS de Goyang en mayo, inició la investigación y el desarrollo. Actualmente admite 3 idiomas —coreano, japonés e inglés— y se distribuye a través de Adobe Exchange y del sitio web oficial de ToonFlow. Quienes abran una cuenta nueva reciben una prueba gratuita de 1 episodio. La empresa prevé que la automatización del proceso de rotulación, hasta ahora mayoritariamente manual, reducirá de forma notable el tiempo de trabajo."
+                "x": "En un comunicado del día 30, la Asociación advirtió que “no se debe tomar este monto de acuerdo como criterio general para fijar el precio de uso de datos de entrenamiento de AI” y que “si estas cifras llegan a aceptarse como un ‘precio estándar’ en proyectos públicos o en la obtención de datos de empresas privadas de AI, el nuevo mercado podría distorsionarse desde su inicio”."
               },
               {
                 "t": "p",
-                "x": "“Hemos llevado la tecnología de localización de webtoons que hemos acumulado al entorno de Photoshop, el más familiar para los profesionales”, explicó Kim Won-hoe, director ejecutivo de Brainventures. “Seguiremos perfeccionando la tecnología para consolidarnos como la solución de localización de referencia en la que confían sobre el terreno los estudios de webtoons y los distribuidores de plataformas de todo el mundo”."
+                "x": "Como razones, la Asociación señaló que el acuerdo tuvo en cuenta el fin de interés público de construir recursos lingüísticos nacionales y la necesidad de resolver la disputa; que resolvió las infracciones pasadas y fijó a la vez las condiciones de uso futuro; que incluye una cláusula de ‘nación más favorecida’ que deja abierta la posibilidad de liquidaciones adicionales; y que el precio de una licencia varía según el fin y el plazo de uso, el alcance de los datos y el número de empresas usuarias."
               },
               {
                 "t": "p",
-                "x": "Brainventures está instalada en la ‘Pangyo Startup Zone’, el mayor clúster de apoyo a startups del país, creado en 2017 por el Ministerio de Pymes y Startups y gestionado conjuntamente por el Instituto Coreano de Emprendimiento y el Centro de Economía Creativa e Innovación de Gyeonggi."
+                "x": "“Para que el nuevo mercado se forme de manera sana, se necesitan principios de autorización previa y de compensación justa”, señaló la Asociación, y añadió: “Trabajaremos para establecer un orden de transacciones en el que la industria editorial y la de AI puedan crecer juntas”."
               }
             ]
           }

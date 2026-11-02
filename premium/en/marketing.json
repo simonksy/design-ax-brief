@@ -3029,6 +3029,159 @@
           "x": "Ads will be clearly labeled as “Sponsored.” We’ll continue testing new formats to ensure ads remain helpful and relevant."
         }
       ]
+    },
+    "marketing/bing-copilot-overview-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot. I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search."
+        },
+        {
+          "t": "p",
+          "x": "Khushal Bherwani shared the screenshot on X and wrote \"Bing is showing Sponsored Results within AI Overviews.\""
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-ai-overview-with-ads-WnTrn06o.jpg",
+          "cap": "Bing AI Overview with ads"
+        },
+        {
+          "t": "p",
+          "x": "As a reminder, Bing renamed the Copilot Search box to AI Overviews a few months ago."
+        }
+      ]
+    },
+    "marketing/shopify-agent-commission": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-agent-897.png"
+        },
+        {
+          "t": "p",
+          "x": "As of Oct. 27, 2026, Shopify's documentation gives an AI shopping agent a reason to work for two others besides the shopper: the company that built it, and Shop, Shopify's app and website."
+        },
+        {
+          "t": "p",
+          "x": "Shopify mixes products that pay a commission into the search results its catalog gives AI agents, calling them promoted placements. When a shopper buys one, Shopify pays the company behind the agent (the developer) 0.3% of the order. Stores running Shop Campaigns with external platforms turned on can add a commission on top; Shopify's example shows 1.5% on one product."
+        },
+        {
+          "t": "p",
+          "x": "The extra commission pays \"only when the buyer completes the purchase in Shop, either in the Shop mobile app or on shop.com\" – a sale on the store's own website earns only the 0.3%. Shopify's documentation doesn't say whether a bigger commission also moves a product up the list."
+        },
+        {
+          "t": "p",
+          "x": "Shopify asks developers to label promoted products and disclose they may earn a commission \"before buyers act on a promoted result,\" but leaves the wording to them. Promoted placements are a Developer Preview by invitation, the extra commission is US-only, and Shopify says the details \"are not final and might change\"."
+        }
+      ]
+    },
+    "marketing/starbucks-ai-drivethru-menu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0.0065789473684248%2C0%2C99.986842105263%2C100&w=2400",
+          "cap": "Photo by: Jeffrey Greenberg/Universal Images Group via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore “experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,” as spotted earlier by More Perfect Union."
+        },
+        {
+          "t": "p",
+          "x": "It sounds similar to the technology that Taco Bell is experimenting with, which could change the layout, content, and visuals on a digital menu board “on a car-by-car basis.” McDonald’s also recently showed off an AI-powered feature it’s piloting at a handful of drive-thrus, allowing its “ArchIQ” chatbot to identify repeat customers and let them order their “usual.”"
+        },
+        {
+          "t": "p",
+          "x": "Starting in 2027, Starbucks will also begin testing background AI models at the drive-thru to help baristas “input orders more accurately and efficiently,” according to Niccol. The company also plans to integrate AI into the Starbucks app’s search and discovery features, and may allow “conversational and agentic” ordering in the future."
+        },
+        {
+          "t": "p",
+          "x": "Starbucks has already started allowing customers to place orders through ChatGPT, and also rolled out an AI-powered Green Dot Assist that employees can use to ask questions about things like recipes and service standards."
+        },
+        {
+          "t": "p",
+          "x": "It’s still not clear how soon we can expect to see personalized digital menu boards at Starbucks, but Niccol says it’s still “early,” adding that “we’ll test, learn, and scale what works.”"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-26-countries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chat-boxes-floating-5ruwbegE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Ads is rolling out a wider standard ad unit format. OpenAI said this is a new, wider standard ad card that uses more of the conversation width on desktop. This ad format uses existing campaigns and creative, so no advertiser action is needed, OpenAI added."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/wider-chatgpt-ads-9VwMUKno.png",
+          "cap": "Wider ChatGPT ads"
+        },
+        {
+          "t": "p",
+          "x": "Some of the other announcements are kind of old, like expanding to 26 countries and over 100,000 advertisers. ChatGPT Ads are now available in 89 countries worldwide. Creative enhancements are being auto-enabled, which we covered. Multi-image ads are now available in open beta to all advertisers and more."
+        },
+        {
+          "t": "p",
+          "x": "Here is the email OpenAI sent:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ad-email-pwdGj1eX.png",
+          "cap": "ChatGPT ad email"
+        }
+      ]
+    },
+    "marketing/princeton-ai-ad-persuasion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+          "cap": "A study found that when AI actively persuades users toward advertised products, the selection rate is about 2.7 times higher than with conventional search ads. [Photo: OpenAI]"
+        },
+        {
+          "t": "p",
+          "x": "A study has found that when conversational artificial intelligence (AI) actively recommends specific advertised products, users' selection rate can be about 3 times higher than with conventional search ads."
+        },
+        {
+          "t": "p",
+          "x": "According to IT outlet ITmedia on the 29th (local time), researchers at Princeton University in the U.S. released a paper titled 'Commercial Persuasion in AI-Mediated Conversations,' which analyzes how AI conversations affect consumer choices in online shopping."
+        },
+        {
+          "t": "p",
+          "x": "The researchers asked 2012 U.S. residents to choose a book they wanted from about 5500 e-books. After randomly designating 20% of all products as advertised products, they compared selection results between a search screen and chat screens using 5 AI models: GPT-5.2, Claude Opus 4.5, Gemini 3 Pro, DeepSeek V3.2 and Qwen3 235B."
+        },
+        {
+          "t": "p",
+          "x": "When advertised products were placed at the top of search results, the selection rate was 22.4%. When the AI chat screen presented the advertised product first but kept its description neutral, the rate was 26.8%. By contrast, when the AI was instructed to actively persuade users toward advertised products, the selection rate surged to 61.2%. That is about 2.7 times the rate for conventional search ads."
+        },
+        {
+          "t": "p",
+          "x": "Users largely failed to notice the AI's persuasion. Under the active-persuasion condition, only 17.9% correctly identified the advertised product. Even when ad labels were attached and users were told about the promotion in advance, the selection rate was 55.5%, and 35.1% correctly identified the advertised product."
+        },
+        {
+          "t": "p",
+          "x": "When the AI was instructed to hide its persuasive intent, the selection rate for advertised products was 40.7%. But only 9.5% correctly identified the advertised product. This suggests that ad labels or advance notice alone may not be enough to sufficiently reduce the AI's persuasive effect."
+        },
+        {
+          "t": "p",
+          "x": "Reactions after the choice are also notable. When the researchers asked participants whether they would take $1 instead of the book they chose, the share wanting to keep their choice showed no statistically significant difference between the group that chose a book via search ads and the group that chose via AI persuasion. Even after the experiment was disclosed, most participants kept their original choice."
+        },
+        {
+          "t": "p",
+          "x": "Analysis of the conversations showed that the AI tended to raise its persuasive effect less by over-praising advertised products than by making other products seem less appealing. For example, it raised concerns about non-advertised products, such as \"the pacing is slow\" or \"it's not a book for everyone,\" or handled their descriptions briefly and indifferently so they looked relatively less attractive. Personalized recommendations tailored to user tastes were also linked to the persuasive effect."
+        },
+        {
+          "t": "p",
+          "x": "The study shows that the way conversational AI makes recommendations can influence consumer choices more than simple placement at the top of search results. In particular, because the persuasive effect largely holds even with ad labels and users find it hard to notice ad steering, ad transparency and user protection in AI shopping services are likely to emerge as key issues."
+        }
+      ]
     }
   }
 }

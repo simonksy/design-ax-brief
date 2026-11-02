@@ -9886,6 +9886,120 @@
           "x": "より単純なスピン系では、アルゴリズムは既存の最良手法の一部と同等の結果を示し、より複雑な系では基準手法より約70%大きな信号増強を得た。各最適化には二日弱から五日近くを要したが、有効なパルス列は再利用できる。Science Advancesに掲載されたこの概念実証研究は、磁気共鳴を利用した量子センサーに役立つ可能性がある。"
         }
       ]
+    },
+    "science/bbert-soil-dna-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
+          "cap": "要旨。出典：Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+        },
+        {
+          "t": "p",
+          "x": "Hebrew University of Jerusalemと協力機関の研究者は、わずか100塩基の細菌DNA断片を識別するAIツールBBERTを開発した。BBERTは配列を参照データベースと照合するのではなく細菌DNAのパターンを学習するため、データベースに載っていない生物にも対応しやすい。"
+        },
+        {
+          "t": "p",
+          "x": "ベンチマークでは、細菌DNAと非細菌DNAを約90%の精度で区別した。BBERTでフィルタリングすると、模擬混合試料のゲノム再構築はデータセットあたり約66時間から25時間に短縮され、細菌ゲノムのカバー率は約96%を保った。適切なグラフィックカードを積んだパソコンでも動かせる。"
+        },
+        {
+          "t": "p",
+          "x": "限界もある。葉緑体DNAを細菌と誤分類すること、細菌と古細菌の区別が難しいこと、細菌の情報がときおり失われることだ。研究はNucleic Acids Researchに掲載された。"
+        }
+      ]
+    },
+    "science/turing-followup-questions-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
+          "cap": "三つの言語タスクにおけるTuring型テスト。出典：Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
+        },
+        {
+          "t": "p",
+          "x": "Mengmi Zhang率いるNanyang Technological Universityのチームは、キャプション作成から画像内の色や物体の識別まで、六つのタスク分類にわたって636人と37のAIモデルが出した回答への72,000件を超える判定を分析した。統制された言語テストでは、判定者が書き手を正しく当てたのは約53–57%にとどまり、偶然をわずかに上回る程度だった。"
+        },
+        {
+          "t": "p",
+          "x": "より小規模な実験では、判定者が人間とチャットボットに対し、話題や追加質問を自ら選んで問いかけることができた。判定者は七つの会話すべてでGPT-3.5-Turboを見抜いたが、文体や応答のタイミングが手がかりになった可能性がある。参加者28人がLlama-3-70B-Instructを相手にした188回の試行では、判定者は依然として誤りもしたが、会話が長くなるほど機械の回答を見分けられるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、この実験では質問そのものの効果を切り分けられず、結果が新しいシステムには当てはまらない可能性があると注意を促している。研究はNature Human Behaviourに掲載された。"
+        }
+      ]
+    },
+    "science/lumina-lunar-landing-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
+          "cap": "目標着陸地を特定するため、月の環境データの層をマッピングした概念的なAI可視化。（出典：The Ohio State University）"
+        },
+        {
+          "t": "p",
+          "x": "The Ohio State Universityの研究者は、AAS Division for Planetary Sciencesの第58回年次総会(DPS 58)でLUMINAを発表した。ミッション計画担当者が安全な月面着陸地を評価するのを支援するエージェント型AIフレームワークで、水の氷などの重要資源と潜在的な科学的価値に焦点を当てる。"
+        },
+        {
+          "t": "p",
+          "x": "LUMINAは軌道画像だけに頼らない。地形や地形上の危険、科学的価値、地質、表面特性を取り込み、着陸候補地同士の比較まで行う。チームは他の惑星天体、とりわけ火星への応用も構想している。"
+        },
+        {
+          "t": "video",
+          "yt": "iJQdny3-T2Q"
+        },
+        {
+          "t": "p",
+          "x": "「AIシステムは宇宙探査に欠かせないツールになるだろう」と、Ohio StateのPhD候補生で筆頭著者のGokce Inalは述べた。LUMINAは、月面の軌道画像を分析・記述する同グループの先行システムLarge Language-and-Vision Assistant for Lunar Exploration(LLaVA-LE)を土台にしている。"
+        }
+      ]
+    },
+    "science/skku-sag-agent-feedback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
+          "cap": "OGBench。出典：arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+        },
+        {
+          "t": "p",
+          "x": "Sungkyunkwan UniversityのProf. Minhae Kwon率いるチームは、ロボット工学や自動運転を見据え、長い多段階タスクで計算コストを削減し信頼性を高める二つのAI手法を開発した。いずれも第40回Conference on Neural Information Processing Systems(NeurIPS 2026)に採択された。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
+          "cap": "Selective Critique(SAG)フレームワークの概念図。"
+        },
+        {
+          "t": "p",
+          "x": "SAGエージェントは、各ステップで高性能モデルに頼る代わりに自らの不確実性を評価し、コストに見合いそうな場合にだけ外部のフィードバックを求める。難しい問題だけを先生に質問する学生のようなものだ。成功体験も蓄積し、フィードバックへの依存を減らしていく。これにより計算資源の消費は従来手法の約三分の一に減り、複雑な仮想環境でのタスク成功率は24.6%から78.3%に上がった。"
+        },
+        {
+          "t": "p",
+          "x": "二つ目の手法VAN-Flowは、偶然に左右される信頼性の低い行動を除外するオフライン強化学習手法で、40を超えるロボット制御シミュレーションタスクで最先端手法の大半を上回った。"
+        }
+      ]
+    },
+    "science/linkoping-mxene-mining": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+          "cap": "2-d 素材。Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Linköping Universityの研究者は、AIを使って素材データベースからMXenesを探索した。MXenesは2011年に初めて発見された極薄の2D材料の一群である。その結果、これまで見落とされていたMXenes 33種が見つかった。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームはこの成果に触発され、新たに11種のMXenesを合成した。さらに外部加熱なしにわずか数秒でMXenesを作製し、従来法より有害化学物質と水の使用量も抑えた。"
+        },
+        {
+          "t": "p",
+          "x": "一部の金属を希土類金属に置き換えると材料が磁性を帯び、エネルギーやデータ保存への用途が広がる可能性がある。グループを率いるJohanna Rosénは「文献とデータベースは宝の山だ」と語った。研究成果はScienceに掲載された。"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "politics",
   "cards": [
     {
-      "id": "dod-unbiased-ai-procurement",
+      "id": "politics-cma-meta-probe",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "펜타곤, '편향 없는'\nAI 구매 지침 발표",
-      "body": "펜타곤이 트럼프의 AI 중립 명령을 따라 AI 구매용 비구속 서식과 예문을 냈다.",
-      "mini_headline": "펜타곤, '편향 없는' AI 지침",
+      "headline": "UK 규제당국, Meta\nAI 콘텐츠 약관 조사",
+      "body": "CMA가 선택권 없이 매체 콘텐츠를 AI에 쓰는 Meta 약관이 불공정한지 본다.",
+      "mini_headline": "UK, Meta AI 약관 조사",
       "tool": "Politics",
-      "source": "Federal News Network",
-      "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/",
+      "source": "GOV.UK (Competition and Markets Authority)",
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,173 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+            "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
           },
           {
             "t": "p",
-            "x": "국방부(Defense Department)가 계약·사업 담당 인력에게 새 지침을 내놓았다. 펜타곤이 사들이는 AI 시스템이 트럼프(Trump) 행정부가 내세운 “진실 추구”와 “이념적 중립성” 조달 원칙을 따르게 하려는 취지다. 발표는 국방 가격·계약·획득 정책 담당 수석국장 존 테날리아(John Tenaglia)가 맡았다."
+            "x": "경쟁시장청(Competition and Markets Authority, CMA)이 Meta가 자사 플랫폼·서비스 이용 기업에 적용하는 상업 약관의 경쟁법 위반 여부를 조사하기 시작했다."
           },
           {
             "t": "p",
-            "x": "트럼프가 지난 7월 서명한 행정명령과 이후 나온 관리예산처(Office of Management and Budget) 메모에 따른 조치다. 행정명령은 기관이 사들이는 대규모 언어 모델을 “중립적이고 초당파적인 도구”로 만들라고 요구한다. 테날리아는 행정명령과 메모는 반드시 지켜야 하지만 새 문서는 “지침으로만” 마련됐으며 “편향 없는 AI 원칙을 문서화하고, 요청하고, 집행하는 표준화된 접근법”을 제시한다고 밝혔다."
+            "x": "Meta는 이 약관을 11월 20일 개정할 계획이었으나 지금은 보류했다. 약관이 시행되면 Meta는 자사 서비스를 쓰는 기업과 퍼블리셔의 웹사이트에서 콘텐츠를 수집해 AI 기능을 비롯한 자사 제품과 서비스를 개발·제공하는 데 쓸 수 있게 된다. 해당 기업들은 콘텐츠를 쓰게 할지, 어떻게 쓰게 할지 고를 수 없다."
           },
           {
             "t": "p",
-            "x": "서식에는 투명성·문서화 요건을 고를 때 쓸 메모, 기업이 내야 할 문서를 정한 표준 입찰 요청 문구, 작업기술서(statement of work)에 넣을 공식 계약 문구가 담겼다. DoD 산하 기관은 개별 요건에 맞춰 문구를 고쳐 쓸 수 있다."
+            "x": "CMA는 이 약관이 수천 개 UK 기업에 불공정한 거래 조건을 불법으로 강요하는 결과가 될 수 있다고 우려한다. News Media Association과 Movement for an Open Web 등 이해관계자들이 문제를 제기하자 CMA는 경쟁법(Competition Act 1998)상 권한을 꺼내 들었다. Meta가 시장 지배적 지위에 있는지, 그렇다면 약관이 그 지위를 남용하는지 평가한다."
           },
           {
             "t": "p",
-            "x": "지미 패트로니스(Jimmy Patronis) 하원의원(R-Fla.)은 이 행정명령을 법으로 명문화하려 한다."
+            "x": "Meta는 이후 10월 28일 업계 단체와 협의를 마칠 때까지 상업 약관 시행을 멈추겠다고 발표했다. 조사는 아직 초기 단계라 Meta가 법을 어겼는지는 정해지지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pentagon issues guidance on\nbuying 'unbiased' AI",
-          "body": "The Pentagon issued non-binding templates and sample contract language for AI buys under Trump's AI neutrality order.",
-          "mini_headline": "Pentagon guidance on 'unbiased' AI",
+          "headline": "UK watchdog opens probe into\nMeta's AI content terms",
+          "body": "The CMA is examining whether Meta's terms, letting it use publishers' content for AI without a choice, are unfair.",
+          "mini_headline": "UK probes Meta's AI terms",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "The Defense Department has issued new guidance for contracting and program personnel to ensure that AI systems the Pentagon buys adhere to what the Trump administration labels “truth-seeking” and “ideological neutrality” procurement principles. The directive was issued by John Tenaglia, principal director for defense pricing, contracting and acquisition policy."
+                "x": "The Competition and Markets Authority (CMA) has launched an investigation into whether Meta’s commercial terms for businesses using its platforms and services breach competition law."
               },
               {
                 "t": "p",
-                "x": "It follows an executive order Trump signed last July requiring agencies to ensure the large language models they purchase are “neutral, nonpartisan tools,” and a later Office of Management and Budget memo. Tenaglia said compliance with the order and memo is mandatory, but the new document is intended “as guidance only,” offering “a standardized approach to documenting, soliciting and enforcing the unbiased AI principles.”"
+                "x": "The terms, which Meta planned to revise on 20 November but has since put on hold, could allow it to collect content from the websites of businesses and publishers that use its services and then use it to develop and provide its own products and services, including its AI features – without those businesses getting a choice on if or how their content is used."
               },
               {
                 "t": "p",
-                "x": "The templates include a memo for selecting transparency and documentation requirements, standardized solicitation language on the documentation companies must provide, and formal contract language for the statement of work. DoD components can revise or tailor the language to fit individual requirements."
+                "x": "The CMA is concerned this could amount to an unlawful imposition of unfair trading conditions for thousands of UK businesses. It is using its Competition Act 1998 powers after concerns from stakeholders including the News Media Association and Movement for an Open Web, and will assess whether Meta holds a dominant position and, if so, whether its terms abuse it."
               },
               {
                 "t": "p",
-                "x": "Rep. Jimmy Patronis (R-Fla.) is looking to codify the executive order into law."
+                "x": "Meta has since announced, on 28 October, a pause to the roll out of its commercial terms, pending a consultation with industry groups. As this is only the start of the investigation, no decision has yet been made on whether Meta has broken the law."
               }
             ]
           }
         },
         "ko": {
-          "headline": "펜타곤, '편향 없는'\nAI 구매 지침 발표",
-          "body": "펜타곤이 트럼프의 AI 중립 명령을 따라 AI 구매용 비구속 서식과 예문을 냈다.",
-          "mini_headline": "펜타곤, '편향 없는' AI 지침",
+          "headline": "UK 규제당국, Meta\nAI 콘텐츠 약관 조사",
+          "body": "CMA가 선택권 없이 매체 콘텐츠를 AI에 쓰는 Meta 약관이 불공정한지 본다.",
+          "mini_headline": "UK, Meta AI 약관 조사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "국방부(Defense Department)가 계약·사업 담당 인력에게 새 지침을 내놓았다. 펜타곤이 사들이는 AI 시스템이 트럼프(Trump) 행정부가 내세운 “진실 추구”와 “이념적 중립성” 조달 원칙을 따르게 하려는 취지다. 발표는 국방 가격·계약·획득 정책 담당 수석국장 존 테날리아(John Tenaglia)가 맡았다."
+                "x": "경쟁시장청(Competition and Markets Authority, CMA)이 Meta가 자사 플랫폼·서비스 이용 기업에 적용하는 상업 약관의 경쟁법 위반 여부를 조사하기 시작했다."
               },
               {
                 "t": "p",
-                "x": "트럼프가 지난 7월 서명한 행정명령과 이후 나온 관리예산처(Office of Management and Budget) 메모에 따른 조치다. 행정명령은 기관이 사들이는 대규모 언어 모델을 “중립적이고 초당파적인 도구”로 만들라고 요구한다. 테날리아는 행정명령과 메모는 반드시 지켜야 하지만 새 문서는 “지침으로만” 마련됐으며 “편향 없는 AI 원칙을 문서화하고, 요청하고, 집행하는 표준화된 접근법”을 제시한다고 밝혔다."
+                "x": "Meta는 이 약관을 11월 20일 개정할 계획이었으나 지금은 보류했다. 약관이 시행되면 Meta는 자사 서비스를 쓰는 기업과 퍼블리셔의 웹사이트에서 콘텐츠를 수집해 AI 기능을 비롯한 자사 제품과 서비스를 개발·제공하는 데 쓸 수 있게 된다. 해당 기업들은 콘텐츠를 쓰게 할지, 어떻게 쓰게 할지 고를 수 없다."
               },
               {
                 "t": "p",
-                "x": "서식에는 투명성·문서화 요건을 고를 때 쓸 메모, 기업이 내야 할 문서를 정한 표준 입찰 요청 문구, 작업기술서(statement of work)에 넣을 공식 계약 문구가 담겼다. DoD 산하 기관은 개별 요건에 맞춰 문구를 고쳐 쓸 수 있다."
+                "x": "CMA는 이 약관이 수천 개 UK 기업에 불공정한 거래 조건을 불법으로 강요하는 결과가 될 수 있다고 우려한다. News Media Association과 Movement for an Open Web 등 이해관계자들이 문제를 제기하자 CMA는 경쟁법(Competition Act 1998)상 권한을 꺼내 들었다. Meta가 시장 지배적 지위에 있는지, 그렇다면 약관이 그 지위를 남용하는지 평가한다."
               },
               {
                 "t": "p",
-                "x": "지미 패트로니스(Jimmy Patronis) 하원의원(R-Fla.)은 이 행정명령을 법으로 명문화하려 한다."
+                "x": "Meta는 이후 10월 28일 업계 단체와 협의를 마칠 때까지 상업 약관 시행을 멈추겠다고 발표했다. 조사는 아직 초기 단계라 Meta가 법을 어겼는지는 정해지지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "国防総省、「偏りない」\nAI調達の指針を公表",
-          "body": "国防総省はトランプ氏のAI中立令に基づき、AI調達の拘束力のない書式と契約文例を示した。",
-          "mini_headline": "国防総省、「偏りない」AIの指針",
+          "headline": "UK当局、Metaの\nAIコンテンツ規約を調査",
+          "body": "CMAは出版社のコンテンツを選択肢なくAIに使えるMetaの規約が不公正か調べている。",
+          "mini_headline": "UK、MetaのAI規約を調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "国防総省(Defense Department)は、同省が購入するAIシステムがトランプ(Trump)政権の掲げる「真実の追求」と「イデオロギー的中立」という調達原則に沿うよう、契約・プログラム担当者向けの新たな指針を出した。指令を出したのは、国防価格・契約・調達政策担当の首席ディレクター、ジョン・テナリア(John Tenaglia)氏である。"
+                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Metaのプラットフォームやサービスを利用する企業向けの商業規約が競争法に違反するかどうかについて調査を開始した。"
               },
               {
                 "t": "p",
-                "x": "これは、各機関が購入する大規模言語モデルを「中立で超党派的なツール」とするよう求めて先の7月にトランプ氏が署名した大統領令と、その後の行政管理予算局(Office of Management and Budget)のメモを受けたものだ。テナリア氏は、大統領令とメモの順守は義務だが、新文書は「指針としてのみ」意図されたもので、「偏りのないAI原則を文書化し、求め、執行するための標準化された手法」を示すものだと述べた。"
+                "x": "Metaは11月20日にこの規約を改定する予定だったが、現在は保留している。規約が適用されれば、Metaはサービスを利用する企業や出版社のウェブサイトからコンテンツを収集し、AI機能を含む自社の製品やサービスの開発・提供に使えるようになる可能性がある。その際、企業側にはコンテンツを使わせるかどうか、どう使わせるかを選ぶ余地がない。"
               },
               {
                 "t": "p",
-                "x": "テンプレートには、透明性と文書化の要件を選ぶためのメモ、企業が提出すべき文書に関する標準的な募集文言、作業範囲記述書(statement of work)向けの正式な契約文言が含まれる。DoDの各部局は、個別の要件に合わせて文言を修正・調整できる。"
+                "x": "CMAは、これが数千のUK企業に不公正な取引条件を違法に課すことになりかねないと懸念している。News Media AssociationやMovement for an Open Webなどの関係者から懸念が寄せられたことを受け、CMAは競争法(Competition Act 1998)に基づく権限を行使しており、Metaが支配的地位にあるか、ある場合はその規約が地位の濫用にあたるかを評価する。"
               },
               {
                 "t": "p",
-                "x": "ジミー・パトロニス(Jimmy Patronis)下院議員(R-Fla.)は、この大統領令の法制化を目指している。"
+                "x": "その後Metaは10月28日、業界団体との協議を待つ間、商業規約の導入を一時停止すると発表した。調査は始まったばかりであり、Metaが法律に違反したかどうかはまだ判断されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "五角大楼发布\n“无偏见”AI采购指南",
-          "body": "五角大楼依据特朗普AI中立行政令，为AI采购发布了不具约束力的模板和合同范本。",
-          "mini_headline": "五角大楼“无偏见”AI指南",
+          "headline": "UK监管机构立案调查\nMeta的AI内容条款",
+          "body": "CMA正调查Meta条款是否不公平,该条款让其可将出版商内容用于AI而不给选择。",
+          "mini_headline": "UK调查Meta的AI条款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "国防部(Defense Department)发布新指南，要求合同和项目人员确保五角大楼采购的AI系统符合特朗普(Trump)政府所称的“求真”与“意识形态中立”采购原则。该指令由国防定价、合同与采办政策首席主任约翰·特纳利亚(John Tenaglia)签发。"
+                "x": "竞争与市场管理局(Competition and Markets Authority,CMA)已启动调查,审查Meta针对使用其平台和服务的企业所制定的商业条款是否违反竞争法。"
               },
               {
                 "t": "p",
-                "x": "此前，特朗普于7月签署行政令，要求各机构确保其采购的大语言模型是“中立、无党派的工具”，随后管理和预算办公室(Office of Management and Budget)又发布了相关备忘录。特纳利亚表示，遵守该行政令和备忘录是强制性的，但新文件“仅作为指导”，提供“一种记录、征求和执行无偏见AI原则的标准化方法”。"
+                "x": "Meta原计划于11月20日修订这些条款,但目前已暂缓。这些条款可能使Meta得以从使用其服务的企业和出版商的网站收集内容,并用于开发和提供包括AI功能在内的自家产品与服务,而这些企业无法选择其内容是否被使用、如何被使用。"
               },
               {
                 "t": "p",
-                "x": "这些模板包括一份用于选定透明度和文档要求的备忘录、关于企业须提供文档的标准化招标文本，以及用于工作说明书(statement of work)的正式合同文本。DoD各部门可根据具体需求修改或调整这些文本。"
+                "x": "CMA担心,这可能构成对数千家UK企业非法施加不公平交易条件。在News Media Association和Movement for an Open Web等利益相关方表达关切后,CMA正动用《竞争法》(Competition Act 1998)赋予的权力,并将评估Meta是否具有支配地位,以及若是,其条款是否构成滥用。"
               },
               {
                 "t": "p",
-                "x": "众议员吉米·帕特罗尼斯(Jimmy Patronis，R-Fla.)正寻求将该行政令写入法律。"
+                "x": "此后,Meta于10月28日宣布暂停推行其商业条款,等待与行业团体协商。由于调查才刚刚开始,目前尚未就Meta是否违法作出任何决定。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Pentágono emite guía para\ncomprar AI 'sin sesgos'",
-          "body": "El Pentágono emitió plantillas no vinculantes y cláusulas modelo para comprar AI bajo la orden de neutralidad de Trump.",
-          "mini_headline": "Guía del Pentágono sobre AI 'sin sesgos'",
+          "headline": "El regulador de UK investiga\nlas condiciones de AI de Meta",
+          "body": "La CMA examina si son injustos los términos de Meta para usar contenido de editores en AI sin darles opción.",
+          "mini_headline": "UK investiga los términos de AI de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "El Departamento de Defensa emitió una nueva guía para el personal de contratación y de programas con el fin de garantizar que los sistemas de AI que compra el Pentágono se ajusten a lo que el gobierno de Trump denomina principios de adquisición de “búsqueda de la verdad” y “neutralidad ideológica”. La directiva la emitió John Tenaglia, director principal de política de precios, contratación y adquisiciones de defensa."
+                "x": "La Competition and Markets Authority (CMA) ha abierto una investigación para determinar si las condiciones comerciales de Meta para las empresas que usan sus plataformas y servicios infringen el derecho de la competencia."
               },
               {
                 "t": "p",
-                "x": "Llega tras una orden ejecutiva que Trump firmó el pasado julio, que exige a las agencias garantizar que los grandes modelos de lenguaje que compran sean “herramientas neutrales y no partidistas”, y tras un memorando posterior de la Oficina de Administración y Presupuesto (Office of Management and Budget). Tenaglia afirmó que cumplir la orden y el memorando es obligatorio, pero que el nuevo documento tiene carácter “solo orientativo” y ofrece “un enfoque estandarizado para documentar, solicitar y hacer cumplir los principios de AI sin sesgos”."
+                "x": "Las condiciones, que Meta tenía previsto modificar el 20 de noviembre pero que ha dejado en suspenso, podrían permitirle recopilar contenido de los sitios web de las empresas y editores que usan sus servicios y emplearlo para desarrollar y ofrecer sus propios productos y servicios, incluidas sus funciones de AI, sin que esas empresas puedan elegir si se usa su contenido ni cómo."
               },
               {
                 "t": "p",
-                "x": "Las plantillas incluyen un memorando para seleccionar requisitos de transparencia y documentación, un texto de solicitud estandarizado sobre la documentación que deben aportar las empresas y cláusulas contractuales formales para la declaración de trabajo (statement of work). Los componentes del DoD pueden revisar o adaptar el texto a cada necesidad."
+                "x": "A la CMA le preocupa que esto pueda suponer la imposición ilícita de condiciones comerciales injustas a miles de empresas de UK. Está ejerciendo sus facultades en virtud de la Competition Act 1998 tras las inquietudes planteadas por partes interesadas como la News Media Association y Movement for an Open Web, y evaluará si Meta ocupa una posición dominante y, en ese caso, si sus condiciones constituyen un abuso de ella."
               },
               {
                 "t": "p",
-                "x": "El representante Jimmy Patronis (R-Fla.) busca convertir la orden ejecutiva en ley."
+                "x": "Desde entonces, Meta anunció el 28 de octubre una pausa en la implantación de sus condiciones comerciales, a la espera de una consulta con asociaciones del sector. Como la investigación apenas comienza, aún no se ha decidido si Meta ha infringido la ley."
               }
             ]
           }
@@ -193,121 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "펜타곤, '편향 없는'\nAI 구매 지침 발표",
-          "body": "펜타곤이 트럼프 AI 중립 명령에 따라 AI 구매용 비구속 서식·예문을 냈다.",
-          "mini_headline": "펜타곤, '편향 없는' AI 지침",
+          "headline": "UK 규제당국, Meta\nAI 콘텐츠 약관 조사",
+          "body": "CMA는 매체 콘텐츠를 선택권 없이 AI에 쓰는 Meta 약관이 불공정한지 본다.",
+          "mini_headline": "UK, Meta AI 약관 조사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "국방부(Defense Department)가 펜타곤이 구매하는 AI 시스템이 트럼프(Trump) 행정부가 말하는 “진실 추구”와 “이념적 중립성” 조달 원칙을 따르도록 계약·사업 담당 인력을 위한 새 지침을 내놓았다. 지침은 국방 가격·계약·획득 정책 담당 수석국장 존 테날리아(John Tenaglia)가 발표했다."
+                "x": "경쟁시장청(Competition and Markets Authority, CMA)이 자사 플랫폼과 서비스를 이용하는 기업에 적용하는 Meta의 상업 약관이 경쟁법을 위반하는지 조사에 착수했다."
               },
               {
                 "t": "p",
-                "x": "이는 기관이 구매하는 대규모 언어 모델이 “중립적이고 초당파적인 도구”가 되도록 하라고 트럼프가 지난 7월 서명한 행정명령과, 이후 나온 관리예산처(Office of Management and Budget) 메모에 따른 조치다. 테날리아는 행정명령과 메모 준수는 의무지만 새 문서는 “지침으로만” 마련됐으며 “편향 없는 AI 원칙을 문서화하고, 요청하고, 집행하는 표준화된 접근법”을 제시한다고 밝혔다."
+                "x": "Meta는 이 약관을 11월 20일 개정할 계획이었으나 지금은 보류한 상태다. 약관이 시행되면 Meta는 자사 서비스를 이용하는 기업과 퍼블리셔의 웹사이트에서 콘텐츠를 수집해 AI 기능을 포함한 자사 제품과 서비스를 개발하고 제공하는 데 쓸 수 있다. 이때 해당 기업들은 콘텐츠를 쓰게 할지, 어떻게 쓰게 할지 선택할 수 없다."
               },
               {
                 "t": "p",
-                "x": "서식에는 투명성·문서화 요건을 고르기 위한 메모, 기업이 제출해야 할 문서에 관한 표준 입찰 요청 문구, 작업기술서(statement of work)에 들어갈 공식 계약 문구가 담겼다. DoD 산하 기관은 개별 요건에 맞게 문구를 고치거나 조정할 수 있다."
+                "x": "CMA는 이것이 수천 개 UK 기업에 불공정한 거래 조건을 불법적으로 강요하는 일이 될 수 있다고 우려한다. CMA는 News Media Association과 Movement for an Open Web 등 이해관계자의 우려 제기에 따라 경쟁법(Competition Act 1998)상 권한을 행사하고 있으며, Meta가 시장 지배적 지위에 있는지, 그렇다면 약관이 그 지위를 남용하는지 평가할 예정이다."
               },
               {
                 "t": "p",
-                "x": "지미 패트로니스(Jimmy Patronis) 하원의원(R-Fla.)은 이 행정명령을 법으로 명문화하려 하고 있다."
+                "x": "이후 Meta는 10월 28일 업계 단체와의 협의가 끝날 때까지 상업 약관 시행을 멈추겠다고 발표했다. 조사는 이제 시작 단계여서 Meta의 법 위반 여부는 아직 결정되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "国防総省、「偏りない」\nAI調達の指針を公表",
-          "body": "国防総省はトランプ氏のAI中立令に基づき、AI調達の拘束力のない書式と契約文例を示した。",
-          "mini_headline": "国防総省、「偏りない」AIの指針",
+          "headline": "UK当局、Metaの\nAIコンテンツ規約を調査",
+          "body": "CMAは出版社のコンテンツを選択肢なくAIに使えるMetaの規約が不公正か調べている。",
+          "mini_headline": "UK、MetaのAI規約を調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "国防総省(Defense Department)は、同省が購入するAIシステムがトランプ(Trump)政権の掲げる「真実の追求」と「イデオロギー的中立」という調達原則に沿うよう、契約・プログラム担当者向けの新たな指針を出した。指令を出したのは、国防価格・契約・調達政策担当の首席ディレクター、ジョン・テナリア(John Tenaglia)氏である。"
+                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Metaのプラットフォームやサービスを利用する企業向けの商業規約が競争法に違反するかどうかについて調査を開始した。"
               },
               {
                 "t": "p",
-                "x": "これは、各機関が購入する大規模言語モデルを「中立で超党派的なツール」とするよう求めて先の7月にトランプ氏が署名した大統領令と、その後の行政管理予算局(Office of Management and Budget)のメモを受けたものだ。テナリア氏は、大統領令とメモの順守は義務だが、新文書は「指針としてのみ」意図されたもので、「偏りのないAI原則を文書化し、求め、執行するための標準化された手法」を示すものだと述べた。"
+                "x": "Metaは11月20日にこの規約を改定する予定だったが、現在は保留している。規約が適用されれば、Metaはサービスを利用する企業や出版社のウェブサイトからコンテンツを収集し、AI機能を含む自社の製品やサービスの開発・提供に使えるようになる可能性がある。その際、企業側にはコンテンツを使わせるかどうか、どう使わせるかを選ぶ余地がない。"
               },
               {
                 "t": "p",
-                "x": "テンプレートには、透明性と文書化の要件を選ぶためのメモ、企業が提出すべき文書に関する標準的な募集文言、作業範囲記述書(statement of work)向けの正式な契約文言が含まれる。DoDの各部局は、個別の要件に合わせて文言を修正・調整できる。"
+                "x": "CMAは、これが数千のUK企業に不公正な取引条件を違法に課すことになりかねないと懸念している。News Media AssociationやMovement for an Open Webなどの関係者から懸念が寄せられたことを受け、CMAは競争法(Competition Act 1998)に基づく権限を行使しており、Metaが支配的地位にあるか、ある場合はその規約が地位の濫用にあたるかを評価する。"
               },
               {
                 "t": "p",
-                "x": "ジミー・パトロニス(Jimmy Patronis)下院議員(R-Fla.)は、この大統領令の法制化を目指している。"
+                "x": "その後Metaは10月28日、業界団体との協議を待つ間、商業規約の導入を一時停止すると発表した。調査は始まったばかりであり、Metaが法律に違反したかどうかはまだ判断されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "五角大楼发布\n“无偏见”AI采购指南",
-          "body": "五角大楼依据特朗普AI中立行政令，为AI采购发布了不具约束力的模板和合同范本。",
-          "mini_headline": "五角大楼“无偏见”AI指南",
+          "headline": "UK监管机构立案调查\nMeta的AI内容条款",
+          "body": "CMA正调查Meta条款是否不公平,该条款让其可将出版商内容用于AI而不给选择。",
+          "mini_headline": "UK调查Meta的AI条款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "国防部(Defense Department)发布新指南，要求合同和项目人员确保五角大楼采购的AI系统符合特朗普(Trump)政府所称的“求真”与“意识形态中立”采购原则。该指令由国防定价、合同与采办政策首席主任约翰·特纳利亚(John Tenaglia)签发。"
+                "x": "竞争与市场管理局(Competition and Markets Authority,CMA)已启动调查,审查Meta针对使用其平台和服务的企业所制定的商业条款是否违反竞争法。"
               },
               {
                 "t": "p",
-                "x": "此前，特朗普于7月签署行政令，要求各机构确保其采购的大语言模型是“中立、无党派的工具”，随后管理和预算办公室(Office of Management and Budget)又发布了相关备忘录。特纳利亚表示，遵守该行政令和备忘录是强制性的，但新文件“仅作为指导”，提供“一种记录、征求和执行无偏见AI原则的标准化方法”。"
+                "x": "Meta原计划于11月20日修订这些条款,但目前已暂缓。这些条款可能使Meta得以从使用其服务的企业和出版商的网站收集内容,并用于开发和提供包括AI功能在内的自家产品与服务,而这些企业无法选择其内容是否被使用、如何被使用。"
               },
               {
                 "t": "p",
-                "x": "这些模板包括一份用于选定透明度和文档要求的备忘录、关于企业须提供文档的标准化招标文本，以及用于工作说明书(statement of work)的正式合同文本。DoD各部门可根据具体需求修改或调整这些文本。"
+                "x": "CMA担心,这可能构成对数千家UK企业非法施加不公平交易条件。在News Media Association和Movement for an Open Web等利益相关方表达关切后,CMA正动用《竞争法》(Competition Act 1998)赋予的权力,并将评估Meta是否具有支配地位,以及若是,其条款是否构成滥用。"
               },
               {
                 "t": "p",
-                "x": "众议员吉米·帕特罗尼斯(Jimmy Patronis，R-Fla.)正寻求将该行政令写入法律。"
+                "x": "此后,Meta于10月28日宣布暂停推行其商业条款,等待与行业团体协商。由于调查才刚刚开始,目前尚未就Meta是否违法作出任何决定。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Pentágono emite guía para\ncomprar AI 'sin sesgos'",
-          "body": "El Pentágono emitió plantillas no vinculantes y cláusulas modelo para comprar AI bajo la orden de neutralidad de Trump.",
-          "mini_headline": "Guía del Pentágono sobre AI 'sin sesgos'",
+          "headline": "El regulador de UK investiga\nlas condiciones de AI de Meta",
+          "body": "La CMA examina si son injustos los términos de Meta para usar contenido de editores en AI sin darles opción.",
+          "mini_headline": "UK investiga los términos de AI de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
               },
               {
                 "t": "p",
-                "x": "El Departamento de Defensa emitió una nueva guía para el personal de contratación y de programas con el fin de garantizar que los sistemas de AI que compra el Pentágono se ajusten a lo que el gobierno de Trump denomina principios de adquisición de “búsqueda de la verdad” y “neutralidad ideológica”. La directiva la emitió John Tenaglia, director principal de política de precios, contratación y adquisiciones de defensa."
+                "x": "La Competition and Markets Authority (CMA) ha abierto una investigación para determinar si las condiciones comerciales de Meta para las empresas que usan sus plataformas y servicios infringen el derecho de la competencia."
               },
               {
                 "t": "p",
-                "x": "Llega tras una orden ejecutiva que Trump firmó el pasado julio, que exige a las agencias garantizar que los grandes modelos de lenguaje que compran sean “herramientas neutrales y no partidistas”, y tras un memorando posterior de la Oficina de Administración y Presupuesto (Office of Management and Budget). Tenaglia afirmó que cumplir la orden y el memorando es obligatorio, pero que el nuevo documento tiene carácter “solo orientativo” y ofrece “un enfoque estandarizado para documentar, solicitar y hacer cumplir los principios de AI sin sesgos”."
+                "x": "Las condiciones, que Meta tenía previsto modificar el 20 de noviembre pero que ha dejado en suspenso, podrían permitirle recopilar contenido de los sitios web de las empresas y editores que usan sus servicios y emplearlo para desarrollar y ofrecer sus propios productos y servicios, incluidas sus funciones de AI, sin que esas empresas puedan elegir si se usa su contenido ni cómo."
               },
               {
                 "t": "p",
-                "x": "Las plantillas incluyen un memorando para seleccionar requisitos de transparencia y documentación, un texto de solicitud estandarizado sobre la documentación que deben aportar las empresas y cláusulas contractuales formales para la declaración de trabajo (statement of work). Los componentes del DoD pueden revisar o adaptar el texto a cada necesidad."
+                "x": "A la CMA le preocupa que esto pueda suponer la imposición ilícita de condiciones comerciales injustas a miles de empresas de UK. Está ejerciendo sus facultades en virtud de la Competition Act 1998 tras las inquietudes planteadas por partes interesadas como la News Media Association y Movement for an Open Web, y evaluará si Meta ocupa una posición dominante y, en ese caso, si sus condiciones constituyen un abuso de ella."
               },
               {
                 "t": "p",
-                "x": "El representante Jimmy Patronis (R-Fla.) busca convertir la orden ejecutiva en ley."
+                "x": "Desde entonces, Meta anunció el 28 de octubre una pausa en la implantación de sus condiciones comerciales, a la espera de una consulta con asociaciones del sector. Como la investigación apenas comienza, aún no se ha decidido si Meta ha infringido la ley."
               }
             ]
           }
@@ -315,15 +315,15 @@
       }
     },
     {
-      "id": "wired-accenture-agent-pentagon",
+      "id": "wikimedia-nyt-amicus",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "용역업체 AI 에이전트,\n펜타곤 보안망에서 작동",
-      "body": "WIRED: Accenture 직원의 Claude가 DOD 망에서 두 달 돌았다.",
-      "mini_headline": "펜타곤 망에 들어온 AI 에이전트",
+      "headline": "NYT v. OpenAI에\nWikimedia 의견서",
+      "body": "Wikimedia Foundation은 AI 학습과 복제 출력을 나누라고 촉구했다.",
+      "mini_headline": "Wikimedia, NYT v. OpenAI에 의견",
       "tool": "Politics",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -331,155 +331,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-            "cap": "이진 코드가 새어 나오는 펜타곤을 더듬는 로봇 손."
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
           },
           {
             "t": "p",
-            "x": "WIRED 소식통들에 따르면 올해 초 Accenture에 고용된 한 계약직 직원이 국방부(Department of Defense)의 중앙 집중식 보안 시스템을 Anthropic의 AI 코딩 에이전트 Claude Code 개인 계정에 연결하면서 보안 사고가 났다. 이 시스템은 여러 정보기관이 함께 쓰고 통제 비분류 정보(controlled unclassified information, CUI)를 담고 있다. 에이전트는 이후 로그인 자격 증명과 NIPRNet 지도 등 시스템 정보를 위험도 높은 제3자 웹사이트로 보낸 것으로 보인다."
+            "x": "Wikimedia Foundation이 굵직한 AI 저작권 소송들에서 중간 입장을 내놨다. 저작권 있는 저작물로 대규모 언어 모델(LLMs)을 학습시키는 일은 법으로 보호하되 챗봇이 그 저작물을 사용자에게 그대로 되풀이하는 일은 보호하지 말라고 법원에 촉구했다."
           },
           {
             "t": "p",
-            "x": "에이전트는 DOD 네트워크에서 두 달 동안 돌다가 발견됐고, 취약점 패치도 그제야 가능했다. 소식통들은 사고를 72시간 안에 보고해야 하는데도 Accenture가 처음엔 정부에 침해 사실을 알리지 않았다고 전했다. DOD 직원은 지금 Claude를 쓸 수 없다."
+            "x": "Wikipedia를 운영하는 이 비영리 단체는 금요일 낸 법정 조언자 의견서(amicus brief)에서 The New York Times 등 언론사가 OpenAI와 Microsoft를 상대로 제기한 소송에 의견을 냈지만 어느 편도 들지 않았다. 의견서는 “Wikimedia는 이 사건 당사자들의 입장이 공정 이용 원칙을 지나치게 넓고 단순하게 적용하자는 쪽으로 흐르는 것을 우려한다”고 적었다."
           },
           {
             "t": "p",
-            "x": "DOD 대변인은 “국방부는 네트워크나 시스템 상태에 대해 언급하지 않는다”고 말했다. Accenture 대변인은 해당 의혹이 “철저하고 독립적으로 조사됐으며 근거가 없는 것으로 드러났다”고 밝혔다. 보안 전문가들은 노출된 자격 증명을 쥔 공격자가 나중에 기밀 네트워크에 배포될 도구에 악성 코드를 심을 수 있다고 WIRED에 말했다. 해커가 기밀 시스템에 접근한 정황은 없다."
+            "x": "Times는 OpenAI가 학습 데이터셋을 만들려고 자사 웹사이트를 스크레이핑해 저작권을 침해했다고 주장한다. OpenAI와 Microsoft는 LLMs 활용이 공정 이용이라고 맞선다. OpenAI는 저작물을 그대로 되풀이하는 현상을 “드문 버그”라고 한 적이 있다."
+          },
+          {
+            "t": "p",
+            "x": "Wikimedia가 내놓은 절충안은 이렇다. 모델이 “원본과는 새롭고 다른 무언가”를 준다면 라이선스 없는 스크레이핑과 사전 학습은 공정 이용으로 봐야 한다. 반면 “원저작물에 대한 독자의 참여를 대체하면서” 사용자에게 자료의 복제본을 넘긴다면 라이선스가 필요하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Contractor's AI agent ran on\na secure Pentagon network",
-          "body": "WIRED's sources say an Accenture employee's Claude agent ran on a DOD network for two months before it was found.",
-          "mini_headline": "AI agent on a Pentagon network",
+          "headline": "Wikimedia seeks a say in\nNYT v. OpenAI copyright case",
+          "body": "The Wikimedia Foundation filed a brief urging the court to judge AI training apart from outputs that copy text.",
+          "mini_headline": "Wikimedia joins NYT v. OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "A robot hand probing the Pentagon as binary code leaks through it."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "Earlier this year, sources tell WIRED, a contractor employed by Accenture caused a security incident at the Department of Defense by connecting a secure centralized system, used by multiple intelligence agencies and containing controlled unclassified information (CUI), to their personal account for Claude Code, Anthropic’s AI coding agent. The agent appears to have then sent information about the system, including login credentials and a map of NIPRNet, to a high-risk third-party website."
+                "x": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work — but not chatbots regurgitating that work to users."
               },
               {
                 "t": "p",
-                "x": "The agent ran on the DOD network for two months before it was identified and the vulnerability could be patched. Sources indicate Accenture did not initially report the breach to the government, although incidents must be reported within 72 hours. Claude is currently barred from use by DOD staff."
+                "x": "In an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. “Wikimedia is concerned that the parties’ positions in this case push for overbroad and simplified applications of the fair use doctrine,” the filing says."
               },
               {
                 "t": "p",
-                "x": "A DOD spokesperson said “the Department does not comment on the status of its networks or systems.” An Accenture spokesperson said the allegations “were thoroughly and independently investigated and found to be without merit.” Security experts told WIRED the exposed credentials could let an attacker plant malicious code in tools later deployed to classified networks; there is no indication hackers reached a classified system."
+                "x": "The Times alleges OpenAI infringed its copyright by scraping its website to build training datasets; OpenAI and Microsoft contend that using LLMs constitutes fair use, and OpenAI has said regurgitating work “is a rare bug.”"
+              },
+              {
+                "t": "p",
+                "x": "Wikimedia proposes a compromise: scraping and pre-training without a license should be fair use when models provide “something new and different from the original sources,” but delivering copies of material to users “while supplanting readers’ engagement with those original works” should require a license."
               }
             ]
           }
         },
         "ko": {
-          "headline": "용역업체 AI 에이전트,\n펜타곤 보안망에서 작동",
-          "body": "WIRED: Accenture 직원의 Claude가 DOD 망에서 두 달 돌았다.",
-          "mini_headline": "펜타곤 망에 들어온 AI 에이전트",
+          "headline": "NYT v. OpenAI에\nWikimedia 의견서",
+          "body": "Wikimedia Foundation은 AI 학습과 복제 출력을 나누라고 촉구했다.",
+          "mini_headline": "Wikimedia, NYT v. OpenAI에 의견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "이진 코드가 새어 나오는 펜타곤을 더듬는 로봇 손."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "WIRED 소식통들에 따르면 올해 초 Accenture에 고용된 한 계약직 직원이 국방부(Department of Defense)의 중앙 집중식 보안 시스템을 Anthropic의 AI 코딩 에이전트 Claude Code 개인 계정에 연결하면서 보안 사고가 났다. 이 시스템은 여러 정보기관이 함께 쓰고 통제 비분류 정보(controlled unclassified information, CUI)를 담고 있다. 에이전트는 이후 로그인 자격 증명과 NIPRNet 지도 등 시스템 정보를 위험도 높은 제3자 웹사이트로 보낸 것으로 보인다."
+                "x": "Wikimedia Foundation이 굵직한 AI 저작권 소송들에서 중간 입장을 내놨다. 저작권 있는 저작물로 대규모 언어 모델(LLMs)을 학습시키는 일은 법으로 보호하되 챗봇이 그 저작물을 사용자에게 그대로 되풀이하는 일은 보호하지 말라고 법원에 촉구했다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 DOD 네트워크에서 두 달 동안 돌다가 발견됐고, 취약점 패치도 그제야 가능했다. 소식통들은 사고를 72시간 안에 보고해야 하는데도 Accenture가 처음엔 정부에 침해 사실을 알리지 않았다고 전했다. DOD 직원은 지금 Claude를 쓸 수 없다."
+                "x": "Wikipedia를 운영하는 이 비영리 단체는 금요일 낸 법정 조언자 의견서(amicus brief)에서 The New York Times 등 언론사가 OpenAI와 Microsoft를 상대로 제기한 소송에 의견을 냈지만 어느 편도 들지 않았다. 의견서는 “Wikimedia는 이 사건 당사자들의 입장이 공정 이용 원칙을 지나치게 넓고 단순하게 적용하자는 쪽으로 흐르는 것을 우려한다”고 적었다."
               },
               {
                 "t": "p",
-                "x": "DOD 대변인은 “국방부는 네트워크나 시스템 상태에 대해 언급하지 않는다”고 말했다. Accenture 대변인은 해당 의혹이 “철저하고 독립적으로 조사됐으며 근거가 없는 것으로 드러났다”고 밝혔다. 보안 전문가들은 노출된 자격 증명을 쥔 공격자가 나중에 기밀 네트워크에 배포될 도구에 악성 코드를 심을 수 있다고 WIRED에 말했다. 해커가 기밀 시스템에 접근한 정황은 없다."
+                "x": "Times는 OpenAI가 학습 데이터셋을 만들려고 자사 웹사이트를 스크레이핑해 저작권을 침해했다고 주장한다. OpenAI와 Microsoft는 LLMs 활용이 공정 이용이라고 맞선다. OpenAI는 저작물을 그대로 되풀이하는 현상을 “드문 버그”라고 한 적이 있다."
+              },
+              {
+                "t": "p",
+                "x": "Wikimedia가 내놓은 절충안은 이렇다. 모델이 “원본과는 새롭고 다른 무언가”를 준다면 라이선스 없는 스크레이핑과 사전 학습은 공정 이용으로 봐야 한다. 반면 “원저작물에 대한 독자의 참여를 대체하면서” 사용자에게 자료의 복제본을 넘긴다면 라이선스가 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "請負業者のAIエージェントが\n国防総省の安全な網で稼働",
-          "body": "WIREDによると、Accenture社員のClaudeがDOD網で発覚まで二か月動いた。",
-          "mini_headline": "国防総省の網に入ったAIエージェント",
+          "headline": "NYT v. OpenAIに\nWikimediaが意見書",
+          "body": "Wikimedia Foundationは裁判所にAI学習と複製出力の区別を求めた。",
+          "mini_headline": "Wikimedia、NYT v. OpenAIに参加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "二進コードが漏れ出す国防総省を探るロボットの手。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "WIREDの情報筋によると、今年初め、Accentureに雇われた契約社員が、複数の情報機関が使い、管理対象非機密情報(CUI)を含む安全な集中型システムを、AnthropicのAIコーディングエージェントであるClaude Codeの個人アカウントに接続し、国防総省(Department of Defense)でセキュリティ事故を起こした。エージェントはその後、ログイン認証情報やNIPRNetの地図を含むシステム情報を、リスクの高い第三者のウェブサイトに送信したとみられる。"
+                "x": "Wikimedia Foundationは、画期的なAI著作権訴訟群で中間的な立場を打ち出した。著作物を使った大規模言語モデル(LLMs)の学習は法的に保護する一方、チャットボットがその著作物をユーザーにそのまま吐き出すことは保護しないよう、裁判所に求めている。"
               },
               {
                 "t": "p",
-                "x": "エージェントは特定されて脆弱性が修正されるまで、DODのネットワーク上で二か月間稼働していた。情報筋によれば、事故は72時間以内に報告しなければならないにもかかわらず、Accentureは当初、侵害を政府に報告しなかった。現在、DODの職員はClaudeの使用を禁じられている。"
+                "x": "Wikipediaを運営するこの非営利団体は金曜日に提出したアミカスブリーフ(amicus brief)で、The New York Timesなどの出版社がOpenAIとMicrosoftを訴えた訴訟について意見を述べたが、どちらの側にもつかなかった。意見書は「Wikimediaは、本件当事者の主張がフェアユースの法理を過度に広く、単純に適用する方向に向かっていることを懸念している」と述べている。"
               },
               {
                 "t": "p",
-                "x": "DODの広報担当者は「国防総省はネットワークやシステムの状況についてコメントしない」と述べた。Accentureの広報担当者は、疑惑は「徹底的かつ独立して調査され、根拠がないと判明した」と述べた。セキュリティ専門家はWIREDに対し、流出した認証情報によって攻撃者が後に機密ネットワークへ展開されるツールに悪意あるコードを仕込める可能性があると語った。ハッカーが機密システムに到達した形跡はない。"
+                "x": "Timesは、OpenAIが学習用データセットを作るためにウェブサイトをスクレイピングし、著作権を侵害したと主張している。OpenAIとMicrosoftはLLMsの利用はフェアユースにあたると反論しており、OpenAIは著作物をそのまま再出力するのは「まれなバグ」だと述べている。"
+              },
+              {
+                "t": "p",
+                "x": "Wikimediaは妥協案を示す。モデルが「元の情報源とは異なる新しい何か」を提供するなら、ライセンスなしのスクレイピングと事前学習はフェアユースとすべきだが、「元の作品への読者の関与に取って代わる形で」資料の複製をユーザーに届ける場合はライセンスを必要とすべきだという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "承包商的AI代理\n在五角大楼安全网络运行",
-          "body": "据WIRED，Accenture员工的Claude代理在DOD网络运行两个月才被发现。",
-          "mini_headline": "五角大楼网络中的AI代理",
+          "headline": "NYT v. OpenAI案\nWikimedia提交意见",
+          "body": "Wikimedia Foundation敦促法院将AI训练与复制文本的输出分开判断。",
+          "mini_headline": "Wikimedia参与NYT v. OpenAI案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "一只机器人手探向五角大楼，二进制代码从中泄出。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "WIRED消息人士称，今年早些时候，一名受雇于Accenture的承包商人员将一套被多个情报机构使用、包含受控非密信息(CUI)的安全集中式系统，连接到其Anthropic旗下AI编程代理Claude Code的个人账户，在国防部(Department of Defense)引发安全事件。该代理随后似乎将包括登录凭证和NIPRNet地图在内的系统信息发送到了一个高风险第三方网站。"
+                "x": "Wikimedia Foundation在一系列具有里程碑意义的AI版权案中采取了中间立场:敦促法院在法律上保护用受版权保护作品训练大语言模型(LLMs)的行为,但不保护聊天机器人向用户照搬这些作品。"
               },
               {
                 "t": "p",
-                "x": "该代理在DOD网络上运行了两个月才被发现，漏洞随后得以修补。消息人士指出，尽管事件须在72小时内上报，Accenture起初并未向政府报告此次泄露。目前DOD工作人员被禁止使用Claude。"
+                "x": "这家运营Wikipedia的非营利组织在周五提交的法庭之友意见书(amicus brief)中,就The New York Times等出版商起诉OpenAI和Microsoft的案件发表意见,但未站在任何一方。文件写道:“Wikimedia担心,本案各方的立场是在推动对合理使用原则作过于宽泛和简单化的适用。”"
               },
               {
                 "t": "p",
-                "x": "DOD发言人表示：“国防部不对其网络或系统的状况发表评论。”Accenture发言人称，相关指控“经过了彻底和独立的调查，被认定毫无根据”。安全专家告诉WIRED，泄露的凭证可能让攻击者在日后部署到机密网络的工具中植入恶意代码；目前没有迹象表明黑客进入了机密系统。"
+                "x": "Times指控OpenAI为构建训练数据集抓取其网站内容,侵犯了其版权;OpenAI和Microsoft则主张使用LLMs属于合理使用,OpenAI还表示,照搬作品“是一个罕见的漏洞”。"
+              },
+              {
+                "t": "p",
+                "x": "Wikimedia提出了一个折中方案:当模型提供“与原始来源不同的新东西”时,未经许可的抓取和预训练应属于合理使用;但若在“取代读者对原作品的参与”的同时向用户提供材料副本,则应取得许可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente de AI de un contratista\noperó en red segura de Defensa",
-          "body": "Según WIRED, el agente Claude de un empleado de Accenture operó dos meses en una red del DOD antes de ser detectado.",
-          "mini_headline": "Un agente de AI en una red del Pentágono",
+          "headline": "Wikimedia pide voz en el caso\nde copyright NYT v. OpenAI",
+          "body": "La Wikimedia Foundation pidió al tribunal juzgar el entrenamiento de AI aparte de las salidas que copian texto.",
+          "mini_headline": "Wikimedia se suma a NYT v. OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "Una mano robótica sondea el Pentágono mientras se filtra código binario."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "A principios de este año, según fuentes consultadas por WIRED, un contratista empleado por Accenture provocó un incidente de seguridad en el Departamento de Defensa al conectar un sistema centralizado seguro, utilizado por varias agencias de inteligencia y que contiene información controlada no clasificada (CUI), a su cuenta personal de Claude Code, el agente de programación con AI de Anthropic. Al parecer, el agente envió después información sobre el sistema, incluidas credenciales de inicio de sesión y un mapa de NIPRNet, a un sitio web de terceros de alto riesgo."
+                "x": "La Wikimedia Foundation adopta una posición intermedia en un grupo de casos emblemáticos de derechos de autor sobre AI: pide a los tribunales que protejan legalmente el entrenamiento de grandes modelos de lenguaje (LLMs) con obras protegidas, pero no que los chatbots reproduzcan esas obras a los usuarios."
               },
               {
                 "t": "p",
-                "x": "El agente funcionó en la red del DOD durante dos meses antes de que se le identificara y pudiera corregirse la vulnerabilidad. Según las fuentes, Accenture no informó inicialmente de la brecha al gobierno, aunque los incidentes deben notificarse en un plazo de 72 horas. Actualmente, el personal del DOD tiene prohibido usar Claude."
+                "x": "En un escrito amicus (amicus brief) presentado el viernes, la organización sin ánimo de lucro detrás de Wikipedia se pronunció sobre las demandas de editores como The New York Times contra OpenAI y Microsoft, sin tomar partido. “A Wikimedia le preocupa que las posiciones de las partes en este caso impulsen aplicaciones excesivamente amplias y simplificadas de la doctrina del uso legítimo”, dice el escrito."
               },
               {
                 "t": "p",
-                "x": "Un portavoz del DOD dijo que “el Departamento no comenta el estado de sus redes o sistemas”. Un portavoz de Accenture afirmó que las acusaciones “fueron investigadas a fondo y de forma independiente, y se determinó que carecían de fundamento”. Expertos en seguridad dijeron a WIRED que las credenciales expuestas podrían permitir a un atacante insertar código malicioso en herramientas que luego se despliegan en redes clasificadas; no hay indicios de que los hackers llegaran a un sistema clasificado."
+                "x": "The Times alega que OpenAI infringió sus derechos de autor al extraer contenido de su sitio web para crear conjuntos de datos de entrenamiento; OpenAI y Microsoft sostienen que usar LLMs constituye un uso legítimo, y OpenAI ha dicho que la reproducción literal de obras “es un error poco frecuente”."
+              },
+              {
+                "t": "p",
+                "x": "Wikimedia propone un término medio: la extracción y el preentrenamiento sin licencia deberían considerarse uso legítimo cuando los modelos aportan “algo nuevo y diferente de las fuentes originales”, pero entregar copias del material a los usuarios “mientras se sustituye la interacción de los lectores con esas obras originales” debería requerir una licencia."
               }
             ]
           }
@@ -487,109 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "용역업체 AI 에이전트,\n펜타곤 보안망에서 작동",
-          "body": "WIRED: Accenture 직원 Claude가 DOD 망에서 두 달 돌았다.",
-          "mini_headline": "펜타곤 망에 들어온 AI 에이전트",
+          "headline": "NYT v. OpenAI에\nWikimedia 의견서",
+          "body": "Wikimedia Foundation은 AI 학습과 복제 출력의 구분을 촉구했다.",
+          "mini_headline": "Wikimedia, NYT v. OpenAI에 의견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "이진 코드가 새어 나오는 펜타곤을 더듬는 로봇 손."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "WIRED 소식통들에 따르면, 올해 초 Accenture에 고용된 한 계약직 직원이 여러 정보기관이 쓰고 통제 비분류 정보(controlled unclassified information, CUI)가 담긴 중앙 집중식 보안 시스템을 Anthropic의 AI 코딩 에이전트인 Claude Code 개인 계정에 연결해 국방부(Department of Defense)에서 보안 사고를 일으켰다. 이후 에이전트는 로그인 자격 증명과 NIPRNet 지도를 비롯한 시스템 정보를 위험도 높은 제3자 웹사이트로 보낸 것으로 보인다."
+                "x": "Wikimedia Foundation이 일련의 획기적인 AI 저작권 소송에서 중간 입장을 내놓았다. 저작권이 있는 저작물로 대규모 언어 모델(LLMs)을 학습시키는 일은 법적으로 보호하되, 챗봇이 그 저작물을 사용자에게 그대로 되풀이하는 일은 보호하지 말라고 법원에 촉구했다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 DOD 네트워크에서 두 달 동안 작동한 뒤에야 발견됐고, 그제야 취약점을 패치할 수 있었다. 소식통들에 따르면 사고는 72시간 안에 보고해야 하지만 Accenture는 처음에 정부에 침해 사실을 보고하지 않았다. 현재 DOD 직원은 Claude를 쓸 수 없다."
+                "x": "Wikipedia를 운영하는 이 비영리 단체는 금요일 제출한 법정 조언자 의견서(amicus brief)에서 The New York Times 등 언론사가 OpenAI와 Microsoft를 상대로 낸 소송에 의견을 밝혔지만 어느 쪽 편도 들지 않았다. 의견서는 “Wikimedia는 이 사건 당사자들의 입장이 공정 이용 원칙을 지나치게 넓고 단순하게 적용하자는 쪽으로 흐르는 것을 우려한다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "DOD 대변인은 “국방부는 네트워크나 시스템 상태에 대해 언급하지 않는다”고 말했다. Accenture 대변인은 해당 의혹이 “철저하고 독립적으로 조사됐으며 근거가 없는 것으로 드러났다”고 밝혔다. 보안 전문가들은 WIRED에 노출된 자격 증명이 있으면 공격자가 나중에 기밀 네트워크에 배포되는 도구에 악성 코드를 심을 수 있다고 말했다. 해커가 기밀 시스템에 접근했다는 정황은 없다."
+                "x": "Times는 OpenAI가 학습 데이터셋을 만들려고 자사 웹사이트를 스크레이핑해 저작권을 침해했다고 주장한다. OpenAI와 Microsoft는 LLMs 활용이 공정 이용에 해당한다고 맞서며, OpenAI는 저작물을 그대로 되풀이하는 현상이 “드문 버그”라고 말한 바 있다."
+              },
+              {
+                "t": "p",
+                "x": "Wikimedia는 절충안을 제시한다. 모델이 “원본과는 새롭고 다른 무언가”를 제공한다면 라이선스 없는 스크레이핑과 사전 학습은 공정 이용으로 보아야 하지만, “원저작물에 대한 독자의 참여를 대체하면서” 사용자에게 자료의 복제본을 전달하는 경우에는 라이선스가 필요하다는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "請負業者のAIエージェントが\n国防総省の安全な網で稼働",
-          "body": "WIREDによると、Accenture社員のClaudeがDOD網で発覚まで二か月動いた。",
-          "mini_headline": "国防総省の網に入ったAIエージェント",
+          "headline": "NYT v. OpenAIに\nWikimediaが意見書",
+          "body": "Wikimedia Foundationは裁判所にAI学習と複製出力の区別を求めた。",
+          "mini_headline": "Wikimedia、NYT v. OpenAIに参加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "二進コードが漏れ出す国防総省を探るロボットの手。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "WIREDの情報筋によると、今年初め、Accentureに雇われた契約社員が、複数の情報機関が使い、管理対象非機密情報(CUI)を含む安全な集中型システムを、AnthropicのAIコーディングエージェントであるClaude Codeの個人アカウントに接続し、国防総省(Department of Defense)でセキュリティ事故を起こした。エージェントはその後、ログイン認証情報やNIPRNetの地図を含むシステム情報を、リスクの高い第三者のウェブサイトに送信したとみられる。"
+                "x": "Wikimedia Foundationは、画期的なAI著作権訴訟群で中間的な立場を打ち出した。著作物を使った大規模言語モデル(LLMs)の学習は法的に保護する一方、チャットボットがその著作物をユーザーにそのまま吐き出すことは保護しないよう、裁判所に求めている。"
               },
               {
                 "t": "p",
-                "x": "エージェントは特定されて脆弱性が修正されるまで、DODのネットワーク上で二か月間稼働していた。情報筋によれば、事故は72時間以内に報告しなければならないにもかかわらず、Accentureは当初、侵害を政府に報告しなかった。現在、DODの職員はClaudeの使用を禁じられている。"
+                "x": "Wikipediaを運営するこの非営利団体は金曜日に提出したアミカスブリーフ(amicus brief)で、The New York Timesなどの出版社がOpenAIとMicrosoftを訴えた訴訟について意見を述べたが、どちらの側にもつかなかった。意見書は「Wikimediaは、本件当事者の主張がフェアユースの法理を過度に広く、単純に適用する方向に向かっていることを懸念している」と述べている。"
               },
               {
                 "t": "p",
-                "x": "DODの広報担当者は「国防総省はネットワークやシステムの状況についてコメントしない」と述べた。Accentureの広報担当者は、疑惑は「徹底的かつ独立して調査され、根拠がないと判明した」と述べた。セキュリティ専門家はWIREDに対し、流出した認証情報によって攻撃者が後に機密ネットワークへ展開されるツールに悪意あるコードを仕込める可能性があると語った。ハッカーが機密システムに到達した形跡はない。"
+                "x": "Timesは、OpenAIが学習用データセットを作るためにウェブサイトをスクレイピングし、著作権を侵害したと主張している。OpenAIとMicrosoftはLLMsの利用はフェアユースにあたると反論しており、OpenAIは著作物をそのまま再出力するのは「まれなバグ」だと述べている。"
+              },
+              {
+                "t": "p",
+                "x": "Wikimediaは妥協案を示す。モデルが「元の情報源とは異なる新しい何か」を提供するなら、ライセンスなしのスクレイピングと事前学習はフェアユースとすべきだが、「元の作品への読者の関与に取って代わる形で」資料の複製をユーザーに届ける場合はライセンスを必要とすべきだという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "承包商的AI代理\n在五角大楼安全网络运行",
-          "body": "据WIRED，Accenture员工的Claude代理在DOD网络运行两个月才被发现。",
-          "mini_headline": "五角大楼网络中的AI代理",
+          "headline": "NYT v. OpenAI案\nWikimedia提交意见",
+          "body": "Wikimedia Foundation敦促法院将AI训练与复制文本的输出分开判断。",
+          "mini_headline": "Wikimedia参与NYT v. OpenAI案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "一只机器人手探向五角大楼，二进制代码从中泄出。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "WIRED消息人士称，今年早些时候，一名受雇于Accenture的承包商人员将一套被多个情报机构使用、包含受控非密信息(CUI)的安全集中式系统，连接到其Anthropic旗下AI编程代理Claude Code的个人账户，在国防部(Department of Defense)引发安全事件。该代理随后似乎将包括登录凭证和NIPRNet地图在内的系统信息发送到了一个高风险第三方网站。"
+                "x": "Wikimedia Foundation在一系列具有里程碑意义的AI版权案中采取了中间立场:敦促法院在法律上保护用受版权保护作品训练大语言模型(LLMs)的行为,但不保护聊天机器人向用户照搬这些作品。"
               },
               {
                 "t": "p",
-                "x": "该代理在DOD网络上运行了两个月才被发现，漏洞随后得以修补。消息人士指出，尽管事件须在72小时内上报，Accenture起初并未向政府报告此次泄露。目前DOD工作人员被禁止使用Claude。"
+                "x": "这家运营Wikipedia的非营利组织在周五提交的法庭之友意见书(amicus brief)中,就The New York Times等出版商起诉OpenAI和Microsoft的案件发表意见,但未站在任何一方。文件写道:“Wikimedia担心,本案各方的立场是在推动对合理使用原则作过于宽泛和简单化的适用。”"
               },
               {
                 "t": "p",
-                "x": "DOD发言人表示：“国防部不对其网络或系统的状况发表评论。”Accenture发言人称，相关指控“经过了彻底和独立的调查，被认定毫无根据”。安全专家告诉WIRED，泄露的凭证可能让攻击者在日后部署到机密网络的工具中植入恶意代码；目前没有迹象表明黑客进入了机密系统。"
+                "x": "Times指控OpenAI为构建训练数据集抓取其网站内容,侵犯了其版权;OpenAI和Microsoft则主张使用LLMs属于合理使用,OpenAI还表示,照搬作品“是一个罕见的漏洞”。"
+              },
+              {
+                "t": "p",
+                "x": "Wikimedia提出了一个折中方案:当模型提供“与原始来源不同的新东西”时,未经许可的抓取和预训练应属于合理使用;但若在“取代读者对原作品的参与”的同时向用户提供材料副本,则应取得许可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente de AI de un contratista\noperó en red segura de Defensa",
-          "body": "Según WIRED, el agente Claude de un empleado de Accenture operó dos meses en una red del DOD antes de ser detectado.",
-          "mini_headline": "Un agente de AI en una red del Pentágono",
+          "headline": "Wikimedia pide voz en el caso\nde copyright NYT v. OpenAI",
+          "body": "La Wikimedia Foundation pidió al tribunal juzgar el entrenamiento de AI aparte de las salidas que copian texto.",
+          "mini_headline": "Wikimedia se suma a NYT v. OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/w_2560%2Cc_limit/102726-department-of-defense-ai-agent.gif",
-                "cap": "Una mano robótica sondea el Pentágono mientras se filtra código binario."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
               },
               {
                 "t": "p",
-                "x": "A principios de este año, según fuentes consultadas por WIRED, un contratista empleado por Accenture provocó un incidente de seguridad en el Departamento de Defensa al conectar un sistema centralizado seguro, utilizado por varias agencias de inteligencia y que contiene información controlada no clasificada (CUI), a su cuenta personal de Claude Code, el agente de programación con AI de Anthropic. Al parecer, el agente envió después información sobre el sistema, incluidas credenciales de inicio de sesión y un mapa de NIPRNet, a un sitio web de terceros de alto riesgo."
+                "x": "La Wikimedia Foundation adopta una posición intermedia en un grupo de casos emblemáticos de derechos de autor sobre AI: pide a los tribunales que protejan legalmente el entrenamiento de grandes modelos de lenguaje (LLMs) con obras protegidas, pero no que los chatbots reproduzcan esas obras a los usuarios."
               },
               {
                 "t": "p",
-                "x": "El agente funcionó en la red del DOD durante dos meses antes de que se le identificara y pudiera corregirse la vulnerabilidad. Según las fuentes, Accenture no informó inicialmente de la brecha al gobierno, aunque los incidentes deben notificarse en un plazo de 72 horas. Actualmente, el personal del DOD tiene prohibido usar Claude."
+                "x": "En un escrito amicus (amicus brief) presentado el viernes, la organización sin ánimo de lucro detrás de Wikipedia se pronunció sobre las demandas de editores como The New York Times contra OpenAI y Microsoft, sin tomar partido. “A Wikimedia le preocupa que las posiciones de las partes en este caso impulsen aplicaciones excesivamente amplias y simplificadas de la doctrina del uso legítimo”, dice el escrito."
               },
               {
                 "t": "p",
-                "x": "Un portavoz del DOD dijo que “el Departamento no comenta el estado de sus redes o sistemas”. Un portavoz de Accenture afirmó que las acusaciones “fueron investigadas a fondo y de forma independiente, y se determinó que carecían de fundamento”. Expertos en seguridad dijeron a WIRED que las credenciales expuestas podrían permitir a un atacante insertar código malicioso en herramientas que luego se despliegan en redes clasificadas; no hay indicios de que los hackers llegaran a un sistema clasificado."
+                "x": "The Times alega que OpenAI infringió sus derechos de autor al extraer contenido de su sitio web para crear conjuntos de datos de entrenamiento; OpenAI y Microsoft sostienen que usar LLMs constituye un uso legítimo, y OpenAI ha dicho que la reproducción literal de obras “es un error poco frecuente”."
+              },
+              {
+                "t": "p",
+                "x": "Wikimedia propone un término medio: la extracción y el preentrenamiento sin licencia deberían considerarse uso legítimo cuando los modelos aportan “algo nuevo y diferente de las fuentes originales”, pero entregar copias del material a los usuarios “mientras se sustituye la interacción de los lectores con esas obras originales” debería requerir una licencia."
               }
             ]
           }
@@ -597,195 +627,165 @@
       }
     },
     {
-      "id": "austria-un-ai-centre-vienna",
+      "id": "epic-fcc-robocall-tcpa",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "오스트리아, 빈에\nUN AI 안보센터 제안",
-      "body": "31개국 회의서 오스트리아는 빈 UN AI 센터를, 싱가포르는 사고 보고를 내놨다.",
-      "mini_headline": "오스트리아, UN AI 센터 제안",
+      "headline": "AI-voiced 로보콜\nEPIC, 면제 반대",
+      "body": "EPIC이 FCC에 Club for Growth의 TCPA 면제안 기각을 요청했다.",
+      "mini_headline": "EPIC, AI 로보콜 면제 반대",
       "tool": "Politics",
-      "source": "Rapporteur (Euractiv)",
-      "url": "https://www.rapporteur.com/news/austria-pitches-for-united-nations-ai-security-centre-in-vienna/",
+      "source": "EPIC",
+      "url": "https://epic.org/epic-urges-fcc-to-protect-consumers-from-unwanted-political-robocalls/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-            "cap": "Alexander Spatari via Getty Images"
+            "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
           },
           {
             "t": "p",
-            "x": "오스트리아가 수요일 AI 안보 국제회의에서 빈에 유엔(United Nations) AI 센터를 세우자고 제안했다. 노르웨이와 핀란드가 공동 주최한 이번 화상회의는 이목을 끈 사이버보안 사고가 잇따르면서 선도적 AI 모델을 더 잘 통제하라는 국제 요구가 커지는 와중에 열렸다."
+            "x": "EPIC은 지난주 연방통신위원회(Federal Communications Commission, FCC)에 답변 의견서를 내고 전화소비자보호법(Telephone Consumer Protection Act, TCPA)의 로보콜 규정에서 빼 달라는 Club for Growth의 청원에 반대했다. 청원은 발신자가 사전에 명시적 동의를 받지 않고도 AI 생성(AI-generated) 음성을 비롯한 인공 음성이나 녹음 음성으로 휴대전화 번호에 “정치 전화”를 걸 수 있게 해 달라는 내용이다. FCC 소비자·정부업무국(Consumer and Governmental Affairs Bureau)은 2026년 9월 4일 이 청원에 의견을 구했다."
           },
           {
             "t": "p",
-            "x": "알렉산더 프뢸(Alexander Pröll) 오스트리아 디지털 담당 국무장관은 UN 센터가 신뢰할 만한 AI 체계를 세우는 데 “중심적 역할”을 할 수 있다고 말했다. 빈에 이미 국제원자력기구(International Atomic Energy Agency) 등 다른 UN 기구가 자리 잡고 있다는 점도 내세웠다."
+            "x": "EPIC은 청원을 전면 기각하라고 FCC에 촉구했다. 미국인들이 이미 사기 전화와 온갖 자동 전화에 시달리는데 요청이 받아들여지면 원치 않는 괴롭힘성 정치 로보콜이 전례 없이 쏟아진다는 이유다. 의회는 사생활을 지키려고 TCPA의 동의 요건을 만들었다. 원치 않는 전화가 휴대전화로 걸려와 일상을 끊고 흐트러뜨리는 피해는 정치 전화라고 다르지 않고, 오히려 더 클 수도 있다."
           },
           {
             "t": "p",
-            "x": "노르웨이와 핀란드에 따르면 참여국은 서른한 개 나라로, 튀르키예와 몰도바도 들어간 것으로 알려졌다. 미국(US)과 중국은 빠진 것으로 보인다. 앞으로 “전문가급 절차”로 “AI 안전과 보안을 개선할 방안 모색”을 이어 간다. 언론 보도에 따르면 로렌스 웡(Lawrence Wong) 싱가포르 총리는 국제 항공 분야를 본뜬 “사고 보고 시범 사업”을 제안했다."
-          },
-          {
-            "t": "p",
-            "x": "유럽 정상들은 11월 13일 더블린 비공식 유럽이사회(European Council) 회의에서 AI를 다시 다루고, EU 통신 장관들은 12월 1일 모인다."
+            "x": "EPIC은 TCPA에서 “정치 전화”를 면제하면 공익에 어긋나며 AI 생성(AI-generated) 정치 커뮤니케이션이 급증해 허위정보가 커지고 민주적 절차가 훼손될 것이라고 지적했다. “정치 전화”를 실효성 있게 정의한 규정도 없어 이 요청은 받아들일 수 없다고 강조했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Austria pitches a UN AI\nsecurity centre in Vienna",
-          "body": "At a 31-country AI meeting, Austria proposed a UN AI centre in Vienna and Singapore floated incident reporting.",
-          "mini_headline": "Austria pitches UN AI centre",
+          "headline": "EPIC opposes robocall exemption\nfor AI-voiced political calls",
+          "body": "EPIC urged the FCC to reject Club for Growth's bid to exempt artificial-voice political calls from TCPA consent rules.",
+          "mini_headline": "EPIC fights AI robocall exemption",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "Austria pitched setting up a United Nations AI centre in Vienna at an international meeting on AI security on Wednesday. The video call, organised jointly by Norway and Finland, follows growing international calls for better control of leading AI models after a spate of high profile cybersecurity incidents."
+                "x": "Last week, EPIC filed reply comments with the Federal Communications Commission (FCC) opposing a petition from the Club for Growth that requested an exemption from the Telephone Consumer Protection Act’s (TCPA) robocall rules. The petition asks the FCC to allow callers to make “political calls” to wireless numbers using an artificial or prerecorded voice, including an AI-generated voice, without obtaining prior express consent. The FCC’s Consumer and Governmental Affairs Bureau sought comment on the petition on September 4, 2026."
               },
               {
                 "t": "p",
-                "x": "A UN centre could play a “central role” in creating a trusted framework for AI, Austrian digital state secretary Alexander Pröll said, arguing Vienna already hosts other UN bodies, including the International Atomic Energy Agency."
+                "x": "EPIC urged the FCC to deny the petition in its entirety, explaining that the request would subject Americans to an unprecedented wave of unwanted and harassing political robocalls at a time when they are already inundated with scam and other automated calls. Congress enacted the TCPA’s consent requirements to protect privacy, and the interruption and disruption caused by an unwanted call to a cellphone is just as harmful, if not more, when the call is political."
               },
               {
                 "t": "p",
-                "x": "Thirty-one countries participated, Norway and Finland said, reportedly including Turkey and Moldova – but not, seemingly, the US or China. An “expert level process” will continue to “explore options for improving AI safety and security.” Singapore’s prime minister, Lawrence Wong, suggested an “incident reporting pilot” drawing on international aviation, according to media reports."
-              },
-              {
-                "t": "p",
-                "x": "European heads of government will discuss AI again at an informal European Council session in Dublin on 13 November, and EU telecommunications ministers meet on 1 December."
+                "x": "EPIC explained that exempting “political calls” from the TCPA will not serve the public interest and a surge in AI-generated political communications will amplify disinformation and undermine democratic processes. EPIC highlighted that there is no workable definition of a “political call” that exists, making the request untenable."
               }
             ]
           }
         },
         "ko": {
-          "headline": "오스트리아, 빈에\nUN AI 안보센터 제안",
-          "body": "31개국 회의서 오스트리아는 빈 UN AI 센터를, 싱가포르는 사고 보고를 내놨다.",
-          "mini_headline": "오스트리아, UN AI 센터 제안",
+          "headline": "AI-voiced 로보콜\nEPIC, 면제 반대",
+          "body": "EPIC이 FCC에 Club for Growth의 TCPA 면제안 기각을 요청했다.",
+          "mini_headline": "EPIC, AI 로보콜 면제 반대",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "오스트리아가 수요일 AI 안보 국제회의에서 빈에 유엔(United Nations) AI 센터를 세우자고 제안했다. 노르웨이와 핀란드가 공동 주최한 이번 화상회의는 이목을 끈 사이버보안 사고가 잇따르면서 선도적 AI 모델을 더 잘 통제하라는 국제 요구가 커지는 와중에 열렸다."
+                "x": "EPIC은 지난주 연방통신위원회(Federal Communications Commission, FCC)에 답변 의견서를 내고 전화소비자보호법(Telephone Consumer Protection Act, TCPA)의 로보콜 규정에서 빼 달라는 Club for Growth의 청원에 반대했다. 청원은 발신자가 사전에 명시적 동의를 받지 않고도 AI 생성(AI-generated) 음성을 비롯한 인공 음성이나 녹음 음성으로 휴대전화 번호에 “정치 전화”를 걸 수 있게 해 달라는 내용이다. FCC 소비자·정부업무국(Consumer and Governmental Affairs Bureau)은 2026년 9월 4일 이 청원에 의견을 구했다."
               },
               {
                 "t": "p",
-                "x": "알렉산더 프뢸(Alexander Pröll) 오스트리아 디지털 담당 국무장관은 UN 센터가 신뢰할 만한 AI 체계를 세우는 데 “중심적 역할”을 할 수 있다고 말했다. 빈에 이미 국제원자력기구(International Atomic Energy Agency) 등 다른 UN 기구가 자리 잡고 있다는 점도 내세웠다."
+                "x": "EPIC은 청원을 전면 기각하라고 FCC에 촉구했다. 미국인들이 이미 사기 전화와 온갖 자동 전화에 시달리는데 요청이 받아들여지면 원치 않는 괴롭힘성 정치 로보콜이 전례 없이 쏟아진다는 이유다. 의회는 사생활을 지키려고 TCPA의 동의 요건을 만들었다. 원치 않는 전화가 휴대전화로 걸려와 일상을 끊고 흐트러뜨리는 피해는 정치 전화라고 다르지 않고, 오히려 더 클 수도 있다."
               },
               {
                 "t": "p",
-                "x": "노르웨이와 핀란드에 따르면 참여국은 서른한 개 나라로, 튀르키예와 몰도바도 들어간 것으로 알려졌다. 미국(US)과 중국은 빠진 것으로 보인다. 앞으로 “전문가급 절차”로 “AI 안전과 보안을 개선할 방안 모색”을 이어 간다. 언론 보도에 따르면 로렌스 웡(Lawrence Wong) 싱가포르 총리는 국제 항공 분야를 본뜬 “사고 보고 시범 사업”을 제안했다."
-              },
-              {
-                "t": "p",
-                "x": "유럽 정상들은 11월 13일 더블린 비공식 유럽이사회(European Council) 회의에서 AI를 다시 다루고, EU 통신 장관들은 12월 1일 모인다."
+                "x": "EPIC은 TCPA에서 “정치 전화”를 면제하면 공익에 어긋나며 AI 생성(AI-generated) 정치 커뮤니케이션이 급증해 허위정보가 커지고 민주적 절차가 훼손될 것이라고 지적했다. “정치 전화”를 실효성 있게 정의한 규정도 없어 이 요청은 받아들일 수 없다고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オーストリア、ウィーンに\nUNのAI安保センター提案",
-          "body": "31か国会合でオーストリアはウィーンにUNのAI拠点を、シンガポールは事故報告を提案した。",
-          "mini_headline": "オーストリア、UNのAIセンターを提案",
+          "headline": "AI-voiced政治電話\nEPICが免除に反対",
+          "body": "EPICはFCCに、Club for GrowthのTCPA免除申請の却下を求めた。",
+          "mini_headline": "EPIC、AIロボコール免除に反対",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "オーストリアは水曜日、AIの安全保障に関する国際会合で、ウィーンに国連(United Nations)のAIセンターを設置することを提案した。ノルウェーとフィンランドが共同で開催したこのビデオ会議は、注目を集めたサイバーセキュリティ事件が相次いだことを受け、先端AIモデルの管理強化を求める国際的な声が高まるなかで開かれた。"
+                "x": "EPICは先週、連邦通信委員会(Federal Communications Commission、FCC)に返答コメントを提出し、電話消費者保護法(Telephone Consumer Protection Act、TCPA)のロボコール規則の適用除外を求めるClub for Growthの請願に反対した。請願は、AI生成(AI-generated)音声を含む人工音声または録音音声を使い、事前の明示的な同意を得ずに携帯電話番号へ「政治電話」をかけることを認めるようFCCに求めている。FCCの消費者・政府業務局(Consumer and Governmental Affairs Bureau)は2026年9月4日、この請願への意見を募集した。"
               },
               {
                 "t": "p",
-                "x": "オーストリアのデジタル担当国務長官アレクサンダー・プレル(Alexander Pröll)氏は、UNのセンターがAIの信頼できる枠組みづくりで「中心的な役割」を果たし得ると述べ、ウィーンにはすでに国際原子力機関(International Atomic Energy Agency)を含む他のUN機関があると主張した。"
+                "x": "EPICはFCCに請願を全面的に却下するよう求めた。米国民がすでに詐欺電話などの自動電話にさらされているなか、この要求が通れば、望まない迷惑な政治ロボコールがかつてない規模で押し寄せることになると説明している。議会はプライバシー保護のためにTCPAの同意要件を定めたのであり、望まない電話が携帯電話にかかってくることによる中断や混乱の害は、政治電話であっても同じか、それ以上に大きい。"
               },
               {
                 "t": "p",
-                "x": "ノルウェーとフィンランドによると三十一か国が参加し、トルコやモルドバも含まれていたと伝えられるが、米国(US)や中国は参加しなかったもようだ。「専門家レベルのプロセス」が今後も「AIの安全性とセキュリティを高める選択肢を探る」。報道によると、シンガポールのローレンス・ウォン(Lawrence Wong)首相は国際航空を参考にした「インシデント報告の試験的取り組み」を提案した。"
-              },
-              {
-                "t": "p",
-                "x": "欧州各国の首脳は11月13日にダブリンで開かれる非公式の欧州理事会(European Council)で再びAIを議論し、EUの通信相は12月1日に会合を開く。"
+                "x": "EPICは、「政治電話」をTCPAの適用除外とすることは公益にかなわず、AI生成(AI-generated)の政治的コミュニケーションが急増すれば偽情報が増幅され、民主的なプロセスが損なわれると説明した。さらに、「政治電話」には実用的な定義が存在しないため、この要求は成り立たないと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "奥地利提议在维也纳\n设立UN AI安全中心",
-          "body": "在31国AI会议上，奥地利提议在维也纳设UN AI中心，新加坡则提出事件报告机制。",
-          "mini_headline": "奥地利提议设UN AI中心",
+          "headline": "EPIC反对豁免\nAI-voiced政治电话",
+          "body": "EPIC敦促FCC驳回Club for Growth为政治电话申请TCPA豁免的请求。",
+          "mini_headline": "EPIC反对AI自动电话豁免",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "奥地利周三在一场AI安全国际会议上提议在维也纳设立一个联合国(United Nations)AI中心。这次视频会议由挪威和芬兰联合主办，此前一系列备受关注的网络安全事件发生后，国际社会要求加强管控领先AI模型的呼声日益高涨。"
+                "x": "上周,EPIC向联邦通信委员会(Federal Communications Commission,FCC)提交回复意见,反对Club for Growth要求豁免《电话消费者保护法》(Telephone Consumer Protection Act,TCPA)自动语音电话规则的请愿。该请愿要求FCC允许呼叫者在未获得事先明确同意的情况下,使用人工或预录语音(包括AI生成(AI-generated)语音)向手机号码拨打“政治电话”。FCC消费者与政府事务局(Consumer and Governmental Affairs Bureau)已于2026年9月4日就该请愿征求意见。"
               },
               {
                 "t": "p",
-                "x": "奥地利数字事务国务秘书亚历山大·普勒尔(Alexander Pröll)表示，UN中心可在构建可信AI框架方面发挥“核心作用”，并称维也纳已设有包括国际原子能机构(International Atomic Energy Agency)在内的其他UN机构。"
+                "x": "EPIC敦促FCC全盘驳回该请愿,并解释称,在美国人已饱受诈骗电话及其他自动电话困扰之际,这一请求将使他们遭受前所未有的、不受欢迎且带有骚扰性质的政治自动语音电话潮。国会制定TCPA的同意要求是为了保护隐私,而当来电属于政治电话时,一通不受欢迎的手机来电所造成的打扰和干扰同样有害,甚至更甚。"
               },
               {
                 "t": "p",
-                "x": "挪威和芬兰表示，共有三十一个国家参加，据报道包括土耳其和摩尔多瓦，但美国(US)和中国似乎没有参加。一个“专家级进程”将继续“探索改善AI安全与安保的方案”。据媒体报道，新加坡总理黄循财(Lawrence Wong)建议借鉴国际航空经验开展“事件报告试点”。"
-              },
-              {
-                "t": "p",
-                "x": "欧洲各国政府首脑将于11月13日在都柏林举行的欧洲理事会(European Council)非正式会议上再次讨论AI，EU电信部长们将于12月1日会面。"
+                "x": "EPIC指出,将“政治电话”排除在TCPA之外不符合公共利益,而AI生成(AI-generated)政治传播的激增将放大虚假信息、破坏民主进程。EPIC强调,目前并不存在可行的“政治电话”定义,因此该请求站不住脚。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Austria propone en Viena un\ncentro UN de seguridad de AI",
-          "body": "En una reunión de 31 países, Austria propuso un centro de AI de la UN en Viena y Singapur planteó notificar incidentes.",
-          "mini_headline": "Austria propone un centro de AI de la UN",
+          "headline": "EPIC se opone a eximir llamadas\npolíticas AI-voiced",
+          "body": "EPIC pidió a la FCC rechazar que Club for Growth exima de la TCPA las llamadas políticas con voz artificial.",
+          "mini_headline": "EPIC se opone a eximir robollamadas de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "Austria propuso el miércoles crear en Viena un centro de AI de las Naciones Unidas durante una reunión internacional sobre seguridad de la AI. La videollamada, organizada conjuntamente por Noruega y Finlandia, se produce tras crecientes llamamientos internacionales a un mayor control de los principales modelos de AI después de una serie de incidentes de ciberseguridad de alto perfil."
+                "x": "La semana pasada, EPIC presentó comentarios de réplica ante la Federal Communications Commission (FCC) en contra de una petición de Club for Growth que solicitaba una exención de las normas sobre llamadas automatizadas de la Telephone Consumer Protection Act (TCPA). La petición pide a la FCC que permita realizar “llamadas políticas” a números móviles con una voz artificial o pregrabada, incluida una voz AI-generated (generada por AI), sin obtener el consentimiento previo y expreso. La Consumer and Governmental Affairs Bureau de la FCC solicitó comentarios sobre la petición el 4 de septiembre de 2026."
               },
               {
                 "t": "p",
-                "x": "Un centro de la UN podría desempeñar un “papel central” en la creación de un marco de confianza para la AI, dijo el secretario de Estado austriaco de Digitalización, Alexander Pröll, quien argumentó que Viena ya alberga otros organismos de la UN, incluido el Organismo Internacional de Energía Atómica."
+                "x": "EPIC instó a la FCC a rechazar la petición en su totalidad y explicó que la solicitud expondría a los estadounidenses a una ola sin precedentes de llamadas automatizadas políticas no deseadas y acosadoras, en un momento en que ya están saturados de llamadas fraudulentas y otras llamadas automáticas. El Congreso estableció los requisitos de consentimiento de la TCPA para proteger la privacidad, y la interrupción y la molestia que causa una llamada no deseada a un teléfono móvil son igual de dañinas, o incluso más, cuando la llamada es política."
               },
               {
                 "t": "p",
-                "x": "Participaron treinta y un países, según Noruega y Finlandia, entre ellos, al parecer, Turquía y Moldavia, pero aparentemente no Estados Unidos (US) ni China. Un “proceso a nivel de expertos” seguirá “explorando opciones para mejorar la seguridad y la protección de la AI”. El primer ministro de Singapur, Lawrence Wong, sugirió un “piloto de notificación de incidentes” inspirado en la aviación internacional, según informes de prensa."
-              },
-              {
-                "t": "p",
-                "x": "Los jefes de Gobierno europeos volverán a debatir sobre AI en una sesión informal del Consejo Europeo en Dublín el 13 de noviembre, y los ministros de Telecomunicaciones de la EU se reunirán el 1 de diciembre."
+                "x": "EPIC explicó que eximir las “llamadas políticas” de la TCPA no serviría al interés público y que un aumento de las comunicaciones políticas AI-generated (generadas por AI) amplificará la desinformación y socavará los procesos democráticos. EPIC subrayó que no existe una definición viable de “llamada política”, lo que hace insostenible la solicitud."
               }
             ]
           }
@@ -793,125 +793,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "오스트리아, 빈에\nUN AI 안보센터 제안",
-          "body": "31개국 회의서 오스트리아는 빈 UN AI 센터, 싱가포르는 사고 보고를 제안했다.",
-          "mini_headline": "오스트리아, UN AI 센터 제안",
+          "headline": "AI-voiced 로보콜\nEPIC, 면제 반대",
+          "body": "EPIC은 FCC에 Club for Growth의 TCPA 면제안 기각을 청했다.",
+          "mini_headline": "EPIC, AI 로보콜 면제 반대",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "오스트리아는 수요일 AI 안보에 관한 국제회의에서 빈에 유엔(United Nations) AI 센터를 세우자고 제안했다. 노르웨이와 핀란드가 공동으로 주최한 이번 화상회의는 세간의 이목을 끈 사이버보안 사고가 잇따른 뒤 선도적 AI 모델을 더 잘 통제해야 한다는 국제적 요구가 커지는 가운데 열렸다."
+                "x": "지난주 EPIC은 연방통신위원회(Federal Communications Commission, FCC)에 답변 의견서를 제출해, 전화소비자보호법(Telephone Consumer Protection Act, TCPA)의 로보콜 규정에서 면제해 달라는 Club for Growth의 청원에 반대했다. 청원은 발신자가 사전의 명시적 동의 없이 AI 생성(AI-generated) 음성을 포함한 인공 음성이나 녹음 음성으로 휴대전화 번호에 “정치 전화”를 걸 수 있도록 허용해 달라고 FCC에 요청한다. FCC 소비자·정부업무국(Consumer and Governmental Affairs Bureau)은 2026년 9월 4일 이 청원에 대한 의견을 구했다."
               },
               {
                 "t": "p",
-                "x": "알렉산더 프뢸(Alexander Pröll) 오스트리아 디지털 담당 국무장관은 UN 센터가 신뢰할 수 있는 AI 체계를 만드는 데 “중심적 역할”을 할 수 있다며, 빈에는 이미 국제원자력기구(International Atomic Energy Agency)를 비롯한 다른 UN 기구가 자리하고 있다고 주장했다."
+                "x": "EPIC은 FCC에 청원을 전면 기각하라고 촉구했다. 미국인들이 이미 사기 전화와 각종 자동 전화에 시달리는 상황에서, 이 요청이 받아들여지면 원치 않는 괴롭힘성 정치 로보콜이 전례 없이 쏟아질 것이라는 설명이다. 의회는 사생활 보호를 위해 TCPA의 동의 요건을 만들었으며, 원치 않는 전화가 휴대전화로 걸려와 일상을 끊고 흐트러뜨리는 피해는 정치 전화일 때도 똑같이, 어쩌면 더 크게 해롭다."
               },
               {
                 "t": "p",
-                "x": "노르웨이와 핀란드에 따르면 서른한 개 나라가 참여했으며, 튀르키예와 몰도바가 포함된 것으로 알려졌다. 다만 미국(US)과 중국은 참여하지 않은 것으로 보인다. “전문가급 절차”를 통해 “AI 안전과 보안을 개선할 방안 모색”이 이어진다. 언론 보도에 따르면 로렌스 웡(Lawrence Wong) 싱가포르 총리는 국제 항공 분야를 참고한 “사고 보고 시범 사업”을 제안했다."
-              },
-              {
-                "t": "p",
-                "x": "유럽 정상들은 11월 13일 더블린에서 열리는 비공식 유럽이사회(European Council) 회의에서 AI를 다시 논의하며, EU 통신 장관들은 12월 1일 만난다."
+                "x": "EPIC은 TCPA에서 “정치 전화”를 면제하는 것은 공익에 부합하지 않으며, AI 생성(AI-generated) 정치 커뮤니케이션이 급증하면 허위정보가 증폭되고 민주적 절차가 훼손될 것이라고 설명했다. 또 “정치 전화”에 대해 실효성 있는 정의가 존재하지 않아 이 요청은 받아들일 수 없다고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オーストリア、ウィーンに\nUNのAI安保センター提案",
-          "body": "31か国会合でオーストリアはウィーンにUNのAI拠点を、シンガポールは事故報告を提案した。",
-          "mini_headline": "オーストリア、UNのAIセンターを提案",
+          "headline": "AI-voiced政治電話\nEPICが免除に反対",
+          "body": "EPICはFCCに、Club for GrowthのTCPA免除申請の却下を求めた。",
+          "mini_headline": "EPIC、AIロボコール免除に反対",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "オーストリアは水曜日、AIの安全保障に関する国際会合で、ウィーンに国連(United Nations)のAIセンターを設置することを提案した。ノルウェーとフィンランドが共同で開催したこのビデオ会議は、注目を集めたサイバーセキュリティ事件が相次いだことを受け、先端AIモデルの管理強化を求める国際的な声が高まるなかで開かれた。"
+                "x": "EPICは先週、連邦通信委員会(Federal Communications Commission、FCC)に返答コメントを提出し、電話消費者保護法(Telephone Consumer Protection Act、TCPA)のロボコール規則の適用除外を求めるClub for Growthの請願に反対した。請願は、AI生成(AI-generated)音声を含む人工音声または録音音声を使い、事前の明示的な同意を得ずに携帯電話番号へ「政治電話」をかけることを認めるようFCCに求めている。FCCの消費者・政府業務局(Consumer and Governmental Affairs Bureau)は2026年9月4日、この請願への意見を募集した。"
               },
               {
                 "t": "p",
-                "x": "オーストリアのデジタル担当国務長官アレクサンダー・プレル(Alexander Pröll)氏は、UNのセンターがAIの信頼できる枠組みづくりで「中心的な役割」を果たし得ると述べ、ウィーンにはすでに国際原子力機関(International Atomic Energy Agency)を含む他のUN機関があると主張した。"
+                "x": "EPICはFCCに請願を全面的に却下するよう求めた。米国民がすでに詐欺電話などの自動電話にさらされているなか、この要求が通れば、望まない迷惑な政治ロボコールがかつてない規模で押し寄せることになると説明している。議会はプライバシー保護のためにTCPAの同意要件を定めたのであり、望まない電話が携帯電話にかかってくることによる中断や混乱の害は、政治電話であっても同じか、それ以上に大きい。"
               },
               {
                 "t": "p",
-                "x": "ノルウェーとフィンランドによると三十一か国が参加し、トルコやモルドバも含まれていたと伝えられるが、米国(US)や中国は参加しなかったもようだ。「専門家レベルのプロセス」が今後も「AIの安全性とセキュリティを高める選択肢を探る」。報道によると、シンガポールのローレンス・ウォン(Lawrence Wong)首相は国際航空を参考にした「インシデント報告の試験的取り組み」を提案した。"
-              },
-              {
-                "t": "p",
-                "x": "欧州各国の首脳は11月13日にダブリンで開かれる非公式の欧州理事会(European Council)で再びAIを議論し、EUの通信相は12月1日に会合を開く。"
+                "x": "EPICは、「政治電話」をTCPAの適用除外とすることは公益にかなわず、AI生成(AI-generated)の政治的コミュニケーションが急増すれば偽情報が増幅され、民主的なプロセスが損なわれると説明した。さらに、「政治電話」には実用的な定義が存在しないため、この要求は成り立たないと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "奥地利提议在维也纳\n设立UN AI安全中心",
-          "body": "在31国AI会议上，奥地利提议在维也纳设UN AI中心，新加坡则提出事件报告机制。",
-          "mini_headline": "奥地利提议设UN AI中心",
+          "headline": "EPIC反对豁免\nAI-voiced政治电话",
+          "body": "EPIC敦促FCC驳回Club for Growth为政治电话申请TCPA豁免的请求。",
+          "mini_headline": "EPIC反对AI自动电话豁免",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "奥地利周三在一场AI安全国际会议上提议在维也纳设立一个联合国(United Nations)AI中心。这次视频会议由挪威和芬兰联合主办，此前一系列备受关注的网络安全事件发生后，国际社会要求加强管控领先AI模型的呼声日益高涨。"
+                "x": "上周,EPIC向联邦通信委员会(Federal Communications Commission,FCC)提交回复意见,反对Club for Growth要求豁免《电话消费者保护法》(Telephone Consumer Protection Act,TCPA)自动语音电话规则的请愿。该请愿要求FCC允许呼叫者在未获得事先明确同意的情况下,使用人工或预录语音(包括AI生成(AI-generated)语音)向手机号码拨打“政治电话”。FCC消费者与政府事务局(Consumer and Governmental Affairs Bureau)已于2026年9月4日就该请愿征求意见。"
               },
               {
                 "t": "p",
-                "x": "奥地利数字事务国务秘书亚历山大·普勒尔(Alexander Pröll)表示，UN中心可在构建可信AI框架方面发挥“核心作用”，并称维也纳已设有包括国际原子能机构(International Atomic Energy Agency)在内的其他UN机构。"
+                "x": "EPIC敦促FCC全盘驳回该请愿,并解释称,在美国人已饱受诈骗电话及其他自动电话困扰之际,这一请求将使他们遭受前所未有的、不受欢迎且带有骚扰性质的政治自动语音电话潮。国会制定TCPA的同意要求是为了保护隐私,而当来电属于政治电话时,一通不受欢迎的手机来电所造成的打扰和干扰同样有害,甚至更甚。"
               },
               {
                 "t": "p",
-                "x": "挪威和芬兰表示，共有三十一个国家参加，据报道包括土耳其和摩尔多瓦，但美国(US)和中国似乎没有参加。一个“专家级进程”将继续“探索改善AI安全与安保的方案”。据媒体报道，新加坡总理黄循财(Lawrence Wong)建议借鉴国际航空经验开展“事件报告试点”。"
-              },
-              {
-                "t": "p",
-                "x": "欧洲各国政府首脑将于11月13日在都柏林举行的欧洲理事会(European Council)非正式会议上再次讨论AI，EU电信部长们将于12月1日会面。"
+                "x": "EPIC指出,将“政治电话”排除在TCPA之外不符合公共利益,而AI生成(AI-generated)政治传播的激增将放大虚假信息、破坏民主进程。EPIC强调,目前并不存在可行的“政治电话”定义,因此该请求站不住脚。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Austria propone en Viena un\ncentro UN de seguridad de AI",
-          "body": "En una reunión de 31 países, Austria propuso un centro de AI de la UN en Viena y Singapur planteó notificar incidentes.",
-          "mini_headline": "Austria propone un centro de AI de la UN",
+          "headline": "EPIC se opone a eximir llamadas\npolíticas AI-voiced",
+          "body": "EPIC pidió a la FCC rechazar que Club for Growth exima de la TCPA las llamadas políticas con voz artificial.",
+          "mini_headline": "EPIC se opone a eximir robollamadas de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267045178-1182x788.jpg",
-                "cap": "Alexander Spatari via Getty Images"
+                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
               },
               {
                 "t": "p",
-                "x": "Austria propuso el miércoles crear en Viena un centro de AI de las Naciones Unidas durante una reunión internacional sobre seguridad de la AI. La videollamada, organizada conjuntamente por Noruega y Finlandia, se produce tras crecientes llamamientos internacionales a un mayor control de los principales modelos de AI después de una serie de incidentes de ciberseguridad de alto perfil."
+                "x": "La semana pasada, EPIC presentó comentarios de réplica ante la Federal Communications Commission (FCC) en contra de una petición de Club for Growth que solicitaba una exención de las normas sobre llamadas automatizadas de la Telephone Consumer Protection Act (TCPA). La petición pide a la FCC que permita realizar “llamadas políticas” a números móviles con una voz artificial o pregrabada, incluida una voz AI-generated (generada por AI), sin obtener el consentimiento previo y expreso. La Consumer and Governmental Affairs Bureau de la FCC solicitó comentarios sobre la petición el 4 de septiembre de 2026."
               },
               {
                 "t": "p",
-                "x": "Un centro de la UN podría desempeñar un “papel central” en la creación de un marco de confianza para la AI, dijo el secretario de Estado austriaco de Digitalización, Alexander Pröll, quien argumentó que Viena ya alberga otros organismos de la UN, incluido el Organismo Internacional de Energía Atómica."
+                "x": "EPIC instó a la FCC a rechazar la petición en su totalidad y explicó que la solicitud expondría a los estadounidenses a una ola sin precedentes de llamadas automatizadas políticas no deseadas y acosadoras, en un momento en que ya están saturados de llamadas fraudulentas y otras llamadas automáticas. El Congreso estableció los requisitos de consentimiento de la TCPA para proteger la privacidad, y la interrupción y la molestia que causa una llamada no deseada a un teléfono móvil son igual de dañinas, o incluso más, cuando la llamada es política."
               },
               {
                 "t": "p",
-                "x": "Participaron treinta y un países, según Noruega y Finlandia, entre ellos, al parecer, Turquía y Moldavia, pero aparentemente no Estados Unidos (US) ni China. Un “proceso a nivel de expertos” seguirá “explorando opciones para mejorar la seguridad y la protección de la AI”. El primer ministro de Singapur, Lawrence Wong, sugirió un “piloto de notificación de incidentes” inspirado en la aviación internacional, según informes de prensa."
-              },
-              {
-                "t": "p",
-                "x": "Los jefes de Gobierno europeos volverán a debatir sobre AI en una sesión informal del Consejo Europeo en Dublín el 13 de noviembre, y los ministros de Telecomunicaciones de la EU se reunirán el 1 de diciembre."
+                "x": "EPIC explicó que eximir las “llamadas políticas” de la TCPA no serviría al interés público y que un aumento de las comunicaciones políticas AI-generated (generadas por AI) amplificará la desinformación y socavará los procesos democráticos. EPIC subrayó que no existe una definición viable de “llamada política”, lo que hace insostenible la solicitud."
               }
             ]
           }
@@ -919,195 +899,169 @@
       }
     },
     {
-      "id": "canada-security-strategy-frontier-ai",
+      "id": "kazakhstan-nvidia-firebird",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "캐나다, 프런티어 AI를\n최대 안보 위협에 포함",
-      "body": "캐나다가 20여 년 만에 낸 국가안보전략에서 프런티어 AI를 주요 위협으로 꼽았다.",
-      "mini_headline": "캐나다, 프런티어 AI 위협 지목",
+      "headline": "카자흐스탄, Nvidia로\n데이터센터 밸리 구상",
+      "body": "Firebird가 카자흐에 US 허가 Nvidia GPUs 45,000개를 들인다.",
+      "mini_headline": "Nvidia GPUs, 카자흐스탄행",
       "tool": "Politics",
-      "source": "National Post",
-      "url": "https://nationalpost.com/news/frontier-ai-one-of-greatest-threats-to-canadians-as-ottawa-releases-national-security-strategy",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/the-promise-and-pitfalls-of-nvidias-venture-in-kazakhstan/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Nvidia CEO 젠슨 황(Jensen Huang)은 10월 23일 아스타나에서 카자흐스탄이 “이 에너지를 지능으로 바꾸고 지능을 수출할 수 있다”며 이곳을 미래의 “유럽 전체를 위한 AI 팩토리 허브”라고 불렀다."
+          },
+          {
             "t": "img",
-            "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-            "cap": "마크 카니(Mark Carney) 총리."
+            "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+            "cap": "카자흐스탄의 새 “인공지능 센터” alem.ai에 몰린 인파 사이의 자슬란 마디예프(Zhaslan Madiyev) 부총리와 Nvidia CEO 젠슨 황(Jensen Huang). 사진: Oliver Fisk."
           },
           {
             "t": "p",
-            "x": "OTTAWA — 정부가 커지는 위험, 나아가 전쟁에까지 나라를 대비시키려는 국가안보전략을 공개하자 연방 당국자들은 프런티어 AI 모델을 지금 캐나다인이 맞닥뜨린 가장 큰 위협 가운데 하나로 꼽았다."
+            "x": "구상의 중심은 Ekibastuz의 데이터센터 밸리(Data Center Valley)다. 석탄화력 발전소 Ekibastuz GRES-1 바로 옆에 들어선다. U.S. 클라우드 사업자 Firebird가 맺은 투자 협약에 따라 이곳에 Nvidia Grace Blackwell GPUs 45,000개가 설치되며, 이 GPUs의 U.S. 수출 허가는 지난주 나왔다. Firebird GPU 용량의 10퍼센트는 카자흐스탄 기업과 정부 기관 몫이다."
           },
           {
             "t": "p",
-            "x": "마크 카니(Mark Carney) 총리 정부가 목요일 공개한 국가안보전략은 이십여 년 만에 처음이다. ‘더 강한 캐나다를 위한 계획(The Plan for a Stronger Canada)’이라는 이 전략에는 오타와(Ottawa)가 전쟁, 인공지능, 해커, 간첩 활동, 사보타주, 외국의 간섭 같은 위협에서 나라를 지키고 여덟 개 핵심 부문의 자율성을 키우려는 구상이 개략적으로 담겼다."
+            "x": "전문가들이 짚는 문제는 전력과 고객 두 가지다. 카자흐스탄은 2023년 이후 해마다 생산량보다 많은 전력을 썼고, 에너지 자급 목표 시점도 2028년 초로 밀렸다. 공개적으로 확인된 해외 고객은 없다. 국외로 나가는 인터넷 트래픽의 약 95퍼센트는 러시아를 거친다."
           },
           {
-            "t": "p",
-            "x": "한 고위 당국자는 “기후 변화부터 테러, 범죄, 오피오이드, 팬데믹, 사이버 공격, 프런티어 AI, 커져가는 대규모 전쟁 가능성까지 캐나다와 캐나다인이 직면한 위협은 매우 복잡하고 서로 얽히게 됐다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "전략은 정보·방첩·사이버 방어 역량을 강화하고, 한 해 안에 새 국가안보 법안을 내고, 몇 달 안에 다섯 개 세부 전략을 내놓겠다고 약속했다. 당국자들은 다음 주 연방 예산안 발표를 앞두고 비용은 구체적으로 밝히지 않았다."
+            "t": "img",
+            "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+            "cap": "Nvidia CEO 젠슨 황(Jensen Huang)이 즉석 셀카를 찍으려 하자 들뜬 참석자들이 무대로 몰려들었다. 사진: Oliver Fisk."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Canada names frontier AI among\nits greatest security threats",
-          "body": "Unveiling Canada's first national security strategy in over 20 years, officials named frontier AI a top threat.",
-          "mini_headline": "Canada flags frontier AI threat",
+          "headline": "Kazakhstan bets on Nvidia\nfor a data center valley",
+          "body": "Kazakhstan signed with Firebird for a data center running 45,000 Nvidia GPUs under new US export licenses.",
+          "mini_headline": "Nvidia GPUs head to Kazakhstan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "On October 23 in Astana, Nvidia CEO Jensen Huang told an audience that Kazakhstan could “transform this energy into intelligence and export intelligence,” calling it a future “AI factory hub for all of Europe.”"
+              },
+              {
                 "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "Prime Minister Mark Carney."
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+                "cap": "Deputy Prime Minister Zhaslan Madiyev and Nvidia CEO Jensen Huang at a crowded alem.ai, Kazakhstan’s new “artificial intelligence center.” Photo by Oliver Fisk."
               },
               {
                 "t": "p",
-                "x": "OTTAWA — Frontier AI models are one of the greatest current threats to Canadians, say federal officials as the government released a national security strategy aiming to steel the country against growing risks and even war."
+                "x": "The centerpiece is the planned Data Center Valley in Ekibastuz, beside the coal-fired Ekibastuz GRES-1 plant. Firebird, a U.S. cloud operator, signed an investment agreement under which the site will be powered by 45,000 Nvidia Grace Blackwell GPUs, for which U.S. export licenses were announced last week, with 10 percent of Firebird’s GPU capacity allocated to Kazakhstani companies and government agencies."
               },
               {
                 "t": "p",
-                "x": "Prime Minister Mark Carney’s government released the first national security strategy in over two decades on Thursday. Titled The Plan for a Stronger Canada, it gives a high-level view of how Ottawa aims to protect the country against threats such as war, artificial intelligence, hackers, espionage, sabotage and foreign interference, and to grow autonomy in eight key sectors."
+                "x": "Experts raise two issues: power and customers. Since 2023, Kazakhstan has consumed more electricity than it generated each year, and the energy self-sufficiency target was pushed back to early 2028. No international customers have been publicly identified, and roughly 95 percent of outbound internet traffic runs through Russia."
               },
               {
-                "t": "p",
-                "x": "“The threats facing Canada and Canadians have become so complex and interrelated, from climate change to terrorism, crime, opioids, and pandemics, cyber attacks to frontier AI to the increasing possibility of a major war,” said one senior official."
-              },
-              {
-                "t": "p",
-                "x": "The strategy promises more intelligence, counterintelligence and cyber-defence capabilities, new national security legislation within the next year, and five more specific strategies in the coming months. Officials declined to detail costs ahead of next week’s federal budget."
+                "t": "img",
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+                "cap": "An attempt by Nvidia CEO Jensen Huang to take an impromptu selfie led to event attendees rushing the stage in an excited frenzy. Photo by Oliver Fisk."
               }
             ]
           }
         },
         "ko": {
-          "headline": "캐나다, 프런티어 AI를\n최대 안보 위협에 포함",
-          "body": "캐나다가 20여 년 만에 낸 국가안보전략에서 프런티어 AI를 주요 위협으로 꼽았다.",
-          "mini_headline": "캐나다, 프런티어 AI 위협 지목",
+          "headline": "카자흐스탄, Nvidia로\n데이터센터 밸리 구상",
+          "body": "Firebird가 카자흐에 US 허가 Nvidia GPUs 45,000개를 들인다.",
+          "mini_headline": "Nvidia GPUs, 카자흐스탄행",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Nvidia CEO 젠슨 황(Jensen Huang)은 10월 23일 아스타나에서 카자흐스탄이 “이 에너지를 지능으로 바꾸고 지능을 수출할 수 있다”며 이곳을 미래의 “유럽 전체를 위한 AI 팩토리 허브”라고 불렀다."
+              },
+              {
                 "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "마크 카니(Mark Carney) 총리."
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+                "cap": "카자흐스탄의 새 “인공지능 센터” alem.ai에 몰린 인파 사이의 자슬란 마디예프(Zhaslan Madiyev) 부총리와 Nvidia CEO 젠슨 황(Jensen Huang). 사진: Oliver Fisk."
               },
               {
                 "t": "p",
-                "x": "OTTAWA — 정부가 커지는 위험, 나아가 전쟁에까지 나라를 대비시키려는 국가안보전략을 공개하자 연방 당국자들은 프런티어 AI 모델을 지금 캐나다인이 맞닥뜨린 가장 큰 위협 가운데 하나로 꼽았다."
+                "x": "구상의 중심은 Ekibastuz의 데이터센터 밸리(Data Center Valley)다. 석탄화력 발전소 Ekibastuz GRES-1 바로 옆에 들어선다. U.S. 클라우드 사업자 Firebird가 맺은 투자 협약에 따라 이곳에 Nvidia Grace Blackwell GPUs 45,000개가 설치되며, 이 GPUs의 U.S. 수출 허가는 지난주 나왔다. Firebird GPU 용량의 10퍼센트는 카자흐스탄 기업과 정부 기관 몫이다."
               },
               {
                 "t": "p",
-                "x": "마크 카니(Mark Carney) 총리 정부가 목요일 공개한 국가안보전략은 이십여 년 만에 처음이다. ‘더 강한 캐나다를 위한 계획(The Plan for a Stronger Canada)’이라는 이 전략에는 오타와(Ottawa)가 전쟁, 인공지능, 해커, 간첩 활동, 사보타주, 외국의 간섭 같은 위협에서 나라를 지키고 여덟 개 핵심 부문의 자율성을 키우려는 구상이 개략적으로 담겼다."
+                "x": "전문가들이 짚는 문제는 전력과 고객 두 가지다. 카자흐스탄은 2023년 이후 해마다 생산량보다 많은 전력을 썼고, 에너지 자급 목표 시점도 2028년 초로 밀렸다. 공개적으로 확인된 해외 고객은 없다. 국외로 나가는 인터넷 트래픽의 약 95퍼센트는 러시아를 거친다."
               },
               {
-                "t": "p",
-                "x": "한 고위 당국자는 “기후 변화부터 테러, 범죄, 오피오이드, 팬데믹, 사이버 공격, 프런티어 AI, 커져가는 대규모 전쟁 가능성까지 캐나다와 캐나다인이 직면한 위협은 매우 복잡하고 서로 얽히게 됐다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "전략은 정보·방첩·사이버 방어 역량을 강화하고, 한 해 안에 새 국가안보 법안을 내고, 몇 달 안에 다섯 개 세부 전략을 내놓겠다고 약속했다. 당국자들은 다음 주 연방 예산안 발표를 앞두고 비용은 구체적으로 밝히지 않았다."
+                "t": "img",
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+                "cap": "Nvidia CEO 젠슨 황(Jensen Huang)이 즉석 셀카를 찍으려 하자 들뜬 참석자들이 무대로 몰려들었다. 사진: Oliver Fisk."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カナダ、フロンティアAIを\n最大級の安全保障上の脅威に",
-          "body": "カナダ当局者は20年余りで初の国家安全保障戦略でフロンティアAIを主な脅威に挙げた。",
-          "mini_headline": "カナダ、フロンティアAIを脅威と指摘",
+          "headline": "カザフスタン、Nvidiaで\nデータセンター・バレー構想",
+          "body": "Firebirdがカザフに、US許可のNvidia GPUs 45,000基を置く。",
+          "mini_headline": "Nvidia GPUs、カザフスタンへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "マーク・カーニー(Mark Carney)首相。"
-              },
-              {
                 "t": "p",
-                "x": "OTTAWA — 政府が高まるリスクや戦争にさえ備えて国を強化することを目指す国家安全保障戦略を公表するなか、連邦当局者は、フロンティアAIモデルが現在カナダ国民にとって最大の脅威の一つだと述べた。"
+                "x": "10月23日、アスタナでNvidiaのCEOジェンスン・フアン(Jensen Huang)は聴衆に向け、カザフスタンは「このエネルギーを知能に変え、知能を輸出する」ことができると語り、同国を将来の「ヨーロッパ全体のためのAIファクトリーハブ」と呼んだ。"
               },
-              {
-                "t": "p",
-                "x": "マーク・カーニー(Mark Carney)首相の政府は木曜日、二十年余りぶりとなる国家安全保障戦略を公表した。「より強いカナダのための計画(The Plan for a Stronger Canada)」と題した戦略は、戦争、人工知能、ハッカー、スパイ活動、破壊工作、外国干渉などの脅威から国を守り、八つの主要分野で自律性を高めるためのオタワ(Ottawa)の方針を大局的に示している。"
-              },
-              {
-                "t": "p",
-                "x": "ある政府高官は「気候変動からテロ、犯罪、オピオイド、パンデミック、サイバー攻撃、フロンティアAI、そして大規模な戦争の可能性の高まりまで、カナダとカナダ国民が直面する脅威は非常に複雑で相互に絡み合うようになった」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "戦略は、情報・防諜・サイバー防衛能力の強化、今後一年以内の新たな国家安全保障法制、そして今後数か月のうちに策定される五つの個別戦略を約束している。当局者は来週の連邦予算を前に、費用の詳細を明らかにしなかった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "加拿大将前沿AI列为\n最大安全威胁之一",
-          "body": "加拿大发布逾20年来首份国家安全战略，官员将前沿AI列为首要威胁之一。",
-          "mini_headline": "加拿大警示前沿AI威胁",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "总理马克·卡尼(Mark Carney)。"
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+                "cap": "混雑するカザフスタンの新たな「人工知能センター」alem.aiで、ジャスラン・マディエフ(Zhaslan Madiyev)副首相とNvidiaのCEOジェンスン・フアン(Jensen Huang)。写真:Oliver Fisk。"
               },
               {
                 "t": "p",
-                "x": "OTTAWA——联邦官员表示，前沿AI模型是加拿大人当前面临的最大威胁之一。与此同时，政府发布了一份旨在让国家抵御日益增长的风险乃至战争的国家安全战略。"
+                "x": "目玉は、石炭火力発電所Ekibastuz GRES-1に隣接するEkibastuzで計画されているデータセンター・バレー(Data Center Valley)だ。U.S.のクラウド事業者Firebirdが結んだ投資契約により、同地にはNvidia Grace Blackwell GPUs 45,000基が配備される。これらのGPUsのU.S.輸出許可は先週発表された。FirebirdのGPU容量の10パーセントはカザフスタンの企業と政府機関に割り当てられる。"
               },
               {
                 "t": "p",
-                "x": "总理马克·卡尼(Mark Carney)领导的政府周四发布了二十多年来的首份国家安全战略。这份题为《打造更强大加拿大计划》(The Plan for a Stronger Canada)的战略从宏观层面阐述了渥太华(Ottawa)打算如何保护国家免受战争、人工智能、黑客、间谍活动、破坏活动和外国干预等威胁，并在八个关键领域增强自主性。"
+                "x": "専門家は電力と顧客という二つの課題を挙げる。カザフスタンは2023年以降、毎年発電量を上回る電力を消費しており、エネルギー自給の目標は2028年初めに先送りされた。国外の顧客は公に明らかになっておらず、国外向けインターネット通信の約95パーセントはロシアを経由している。"
               },
               {
-                "t": "p",
-                "x": "一名高级官员表示：“加拿大和加拿大人面临的威胁已变得如此复杂且相互交织，从气候变化到恐怖主义、犯罪、阿片类药物和大流行病，从网络攻击到前沿AI，再到日益增加的大规模战争可能性。”"
-              },
-              {
-                "t": "p",
-                "x": "该战略承诺加强情报、反情报和网络防御能力，在未来一年内出台新的国家安全立法，并在未来几个月推出另外五项具体战略。官员们在下周联邦预算公布前拒绝透露具体成本。"
+                "t": "img",
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+                "cap": "NvidiaのCEOジェンスン・フアン(Jensen Huang)が即興で自撮りしようとすると、興奮した参加者が舞台に殺到した。写真:Oliver Fisk。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canadá sitúa la AI de frontera\nentre sus mayores amenazas",
-          "body": "En su primera estrategia de seguridad nacional en más de 20 años, Canadá señala la AI de frontera como amenaza clave.",
-          "mini_headline": "Canadá alerta sobre la AI de frontera",
+          "headline": "Valle de centros de datos:\nKazajistán apuesta por Nvidia",
+          "body": "Kazajistán pactó con Firebird un centro de datos con 45,000 GPUs de Nvidia y nuevas licencias de exportación US.",
+          "mini_headline": "GPUs de Nvidia rumbo a Kazajistán",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El 23 de octubre en Astaná, el CEO de Nvidia, Jensen Huang, dijo ante el público que Kazajistán podría “transformar esta energía en inteligencia y exportar inteligencia”, y lo calificó como un futuro “centro de fábricas de AI para toda Europa”."
+              },
+              {
                 "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "El primer ministro Mark Carney."
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+                "cap": "El viceprimer ministro Zhaslan Madiyev y el CEO de Nvidia, Jensen Huang, en un abarrotado alem.ai, el nuevo “centro de inteligencia artificial” de Kazajistán. Foto de Oliver Fisk."
               },
               {
                 "t": "p",
-                "x": "OTTAWA — Los modelos de AI de frontera son una de las mayores amenazas actuales para los canadienses, afirman funcionarios federales, mientras el Gobierno publicó una estrategia de seguridad nacional que busca blindar al país frente a riesgos crecientes e incluso una guerra."
+                "x": "La pieza central es el proyectado Data Center Valley de Ekibastuz, junto a la central de carbón Ekibastuz GRES-1. Firebird, un operador de nube de U.S., firmó un acuerdo de inversión por el que el sitio funcionará con 45,000 GPUs Nvidia Grace Blackwell, cuyas licencias de exportación de U.S. se anunciaron la semana pasada, y el 10 por ciento de la capacidad de GPU de Firebird se asignará a empresas y organismos públicos kazajos."
               },
               {
                 "t": "p",
-                "x": "El Gobierno del primer ministro Mark Carney publicó el jueves la primera estrategia de seguridad nacional en más de dos décadas. Titulada The Plan for a Stronger Canada, ofrece una visión general de cómo Ottawa pretende proteger al país frente a amenazas como la guerra, la inteligencia artificial, los hackers, el espionaje, el sabotaje y la injerencia extranjera, y aumentar su autonomía en ocho sectores clave."
+                "x": "Los expertos señalan dos problemas: la energía y los clientes. Desde 2023, Kazajistán ha consumido cada año más electricidad de la que ha generado, y el objetivo de autosuficiencia energética se aplazó a principios de 2028. No se ha identificado públicamente a ningún cliente internacional, y alrededor del 95 por ciento del tráfico de internet saliente pasa por Rusia."
               },
               {
-                "t": "p",
-                "x": "“Las amenazas que enfrentan Canadá y los canadienses se han vuelto tan complejas e interrelacionadas, desde el cambio climático hasta el terrorismo, la delincuencia, los opioides y las pandemias, desde los ciberataques hasta la AI de frontera y la creciente posibilidad de una gran guerra”, dijo un alto funcionario."
-              },
-              {
-                "t": "p",
-                "x": "La estrategia promete más capacidades de inteligencia, contrainteligencia y ciberdefensa, una nueva legislación de seguridad nacional en el próximo año y cinco estrategias más específicas en los próximos meses. Los funcionarios declinaron detallar los costos antes del presupuesto federal de la próxima semana."
+                "t": "img",
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+                "cap": "Un intento del CEO de Nvidia, Jensen Huang, de hacerse un selfi improvisado llevó a los asistentes a abalanzarse sobre el escenario con entusiasmo. Foto de Oliver Fisk."
               }
             ]
           }
@@ -1115,315 +1069,290 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "캐나다, 프런티어 AI를\n최대 안보 위협에 포함",
-          "body": "캐나다는 20여 년 만의 국가안보전략에서 프런티어 AI를 주요 위협으로 꼽았다.",
-          "mini_headline": "캐나다, 프런티어 AI 위협 지목",
+          "headline": "카자흐스탄, Nvidia로\n데이터센터 밸리 구상",
+          "body": "Firebird는 카자흐에 US 허가 Nvidia GPUs 45,000개를 둔다.",
+          "mini_headline": "Nvidia GPUs, 카자흐스탄행",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "10월 23일 아스타나에서 Nvidia CEO 젠슨 황(Jensen Huang)은 청중에게 카자흐스탄이 “이 에너지를 지능으로 바꾸고 지능을 수출할 수 있다”고 말하며, 이곳을 미래의 “유럽 전체를 위한 AI 팩토리 허브”라고 불렀다."
+              },
+              {
                 "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "마크 카니(Mark Carney) 총리."
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+                "cap": "카자흐스탄의 새 “인공지능 센터”인 alem.ai에 몰린 인파 속 자슬란 마디예프(Zhaslan Madiyev) 부총리와 Nvidia CEO 젠슨 황(Jensen Huang). 사진: Oliver Fisk."
               },
               {
                 "t": "p",
-                "x": "OTTAWA — 연방 당국자들은 커지는 위험과 심지어 전쟁에도 나라를 대비시키려는 국가안보전략을 정부가 공개한 가운데, 프런티어 AI 모델이 현재 캐나다인에게 가장 큰 위협 중 하나라고 밝혔다."
+                "x": "핵심은 석탄화력 발전소 Ekibastuz GRES-1 옆에 계획된 Ekibastuz의 데이터센터 밸리(Data Center Valley)다. U.S. 클라우드 사업자 Firebird가 맺은 투자 협약에 따라 이 부지에는 Nvidia Grace Blackwell GPUs 45,000개가 들어서며, 이 GPUs에 대한 U.S. 수출 허가는 지난주 발표됐다. Firebird GPU 용량의 10퍼센트는 카자흐스탄 기업과 정부 기관에 배정된다."
               },
               {
                 "t": "p",
-                "x": "마크 카니(Mark Carney) 총리 정부는 목요일 이십여 년 만에 처음으로 국가안보전략을 공개했다. ‘더 강한 캐나다를 위한 계획(The Plan for a Stronger Canada)’이라는 제목의 이 전략은 오타와(Ottawa)가 전쟁, 인공지능, 해커, 간첩 활동, 사보타주, 외국의 간섭 같은 위협으로부터 나라를 보호하고 여덟 개 핵심 부문에서 자율성을 키우려는 방안을 개괄적으로 보여준다."
+                "x": "전문가들은 전력과 고객이라는 두 가지 문제를 제기한다. 카자흐스탄은 2023년 이후 해마다 생산한 것보다 많은 전력을 소비했고, 에너지 자급 목표는 2028년 초로 미뤄졌다. 공개적으로 확인된 해외 고객은 없으며, 국외로 나가는 인터넷 트래픽의 약 95퍼센트가 러시아를 거친다."
               },
               {
-                "t": "p",
-                "x": "한 고위 당국자는 “기후 변화부터 테러, 범죄, 오피오이드, 팬데믹, 사이버 공격, 프런티어 AI, 커져가는 대규모 전쟁 가능성까지 캐나다와 캐나다인이 직면한 위협은 매우 복잡하고 서로 얽히게 됐다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "전략은 정보·방첩·사이버 방어 역량 강화, 향후 한 해 안의 새 국가안보 법안, 앞으로 몇 달 안에 나올 다섯 개의 세부 전략을 약속한다. 당국자들은 다음 주 연방 예산안 발표를 앞두고 비용에 대한 구체적 언급을 피했다."
+                "t": "img",
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+                "cap": "Nvidia CEO 젠슨 황(Jensen Huang)이 즉석 셀카를 찍으려 하자 들뜬 행사 참석자들이 무대로 몰려들었다. 사진: Oliver Fisk."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カナダ、フロンティアAIを\n最大級の安全保障上の脅威に",
-          "body": "カナダ当局者は20年余りで初の国家安全保障戦略でフロンティアAIを主な脅威に挙げた。",
-          "mini_headline": "カナダ、フロンティアAIを脅威と指摘",
+          "headline": "カザフスタン、Nvidiaで\nデータセンター・バレー構想",
+          "body": "Firebirdがカザフに、US許可のNvidia GPUs 45,000基を置く。",
+          "mini_headline": "Nvidia GPUs、カザフスタンへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "マーク・カーニー(Mark Carney)首相。"
-              },
-              {
                 "t": "p",
-                "x": "OTTAWA — 政府が高まるリスクや戦争にさえ備えて国を強化することを目指す国家安全保障戦略を公表するなか、連邦当局者は、フロンティアAIモデルが現在カナダ国民にとって最大の脅威の一つだと述べた。"
+                "x": "10月23日、アスタナでNvidiaのCEOジェンスン・フアン(Jensen Huang)は聴衆に向け、カザフスタンは「このエネルギーを知能に変え、知能を輸出する」ことができると語り、同国を将来の「ヨーロッパ全体のためのAIファクトリーハブ」と呼んだ。"
               },
-              {
-                "t": "p",
-                "x": "マーク・カーニー(Mark Carney)首相の政府は木曜日、二十年余りぶりとなる国家安全保障戦略を公表した。「より強いカナダのための計画(The Plan for a Stronger Canada)」と題した戦略は、戦争、人工知能、ハッカー、スパイ活動、破壊工作、外国干渉などの脅威から国を守り、八つの主要分野で自律性を高めるためのオタワ(Ottawa)の方針を大局的に示している。"
-              },
-              {
-                "t": "p",
-                "x": "ある政府高官は「気候変動からテロ、犯罪、オピオイド、パンデミック、サイバー攻撃、フロンティアAI、そして大規模な戦争の可能性の高まりまで、カナダとカナダ国民が直面する脅威は非常に複雑で相互に絡み合うようになった」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "戦略は、情報・防諜・サイバー防衛能力の強化、今後一年以内の新たな国家安全保障法制、そして今後数か月のうちに策定される五つの個別戦略を約束している。当局者は来週の連邦予算を前に、費用の詳細を明らかにしなかった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "加拿大将前沿AI列为\n最大安全威胁之一",
-          "body": "加拿大发布逾20年来首份国家安全战略，官员将前沿AI列为首要威胁之一。",
-          "mini_headline": "加拿大警示前沿AI威胁",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "总理马克·卡尼(Mark Carney)。"
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+                "cap": "混雑するカザフスタンの新たな「人工知能センター」alem.aiで、ジャスラン・マディエフ(Zhaslan Madiyev)副首相とNvidiaのCEOジェンスン・フアン(Jensen Huang)。写真:Oliver Fisk。"
               },
               {
                 "t": "p",
-                "x": "OTTAWA——联邦官员表示，前沿AI模型是加拿大人当前面临的最大威胁之一。与此同时，政府发布了一份旨在让国家抵御日益增长的风险乃至战争的国家安全战略。"
+                "x": "目玉は、石炭火力発電所Ekibastuz GRES-1に隣接するEkibastuzで計画されているデータセンター・バレー(Data Center Valley)だ。U.S.のクラウド事業者Firebirdが結んだ投資契約により、同地にはNvidia Grace Blackwell GPUs 45,000基が配備される。これらのGPUsのU.S.輸出許可は先週発表された。FirebirdのGPU容量の10パーセントはカザフスタンの企業と政府機関に割り当てられる。"
               },
               {
                 "t": "p",
-                "x": "总理马克·卡尼(Mark Carney)领导的政府周四发布了二十多年来的首份国家安全战略。这份题为《打造更强大加拿大计划》(The Plan for a Stronger Canada)的战略从宏观层面阐述了渥太华(Ottawa)打算如何保护国家免受战争、人工智能、黑客、间谍活动、破坏活动和外国干预等威胁，并在八个关键领域增强自主性。"
+                "x": "専門家は電力と顧客という二つの課題を挙げる。カザフスタンは2023年以降、毎年発電量を上回る電力を消費しており、エネルギー自給の目標は2028年初めに先送りされた。国外の顧客は公に明らかになっておらず、国外向けインターネット通信の約95パーセントはロシアを経由している。"
               },
               {
-                "t": "p",
-                "x": "一名高级官员表示：“加拿大和加拿大人面临的威胁已变得如此复杂且相互交织，从气候变化到恐怖主义、犯罪、阿片类药物和大流行病，从网络攻击到前沿AI，再到日益增加的大规模战争可能性。”"
-              },
-              {
-                "t": "p",
-                "x": "该战略承诺加强情报、反情报和网络防御能力，在未来一年内出台新的国家安全立法，并在未来几个月推出另外五项具体战略。官员们在下周联邦预算公布前拒绝透露具体成本。"
+                "t": "img",
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+                "cap": "NvidiaのCEOジェンスン・フアン(Jensen Huang)が即興で自撮りしようとすると、興奮した参加者が舞台に殺到した。写真:Oliver Fisk。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canadá sitúa la AI de frontera\nentre sus mayores amenazas",
-          "body": "En su primera estrategia de seguridad nacional en más de 20 años, Canadá señala la AI de frontera como amenaza clave.",
-          "mini_headline": "Canadá alerta sobre la AI de frontera",
+          "headline": "Valle de centros de datos:\nKazajistán apuesta por Nvidia",
+          "body": "Kazajistán pactó con Firebird un centro de datos con 45,000 GPUs de Nvidia y nuevas licencias de exportación US.",
+          "mini_headline": "GPUs de Nvidia rumbo a Kazajistán",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El 23 de octubre en Astaná, el CEO de Nvidia, Jensen Huang, dijo ante el público que Kazajistán podría “transformar esta energía en inteligencia y exportar inteligencia”, y lo calificó como un futuro “centro de fábricas de AI para toda Europa”."
+              },
+              {
                 "t": "img",
-                "src": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/prime-minister-mark-carney-and-diana-fox-carney-20260604_303518650.jpg",
-                "cap": "El primer ministro Mark Carney."
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+                "cap": "El viceprimer ministro Zhaslan Madiyev y el CEO de Nvidia, Jensen Huang, en un abarrotado alem.ai, el nuevo “centro de inteligencia artificial” de Kazajistán. Foto de Oliver Fisk."
               },
               {
                 "t": "p",
-                "x": "OTTAWA — Los modelos de AI de frontera son una de las mayores amenazas actuales para los canadienses, afirman funcionarios federales, mientras el Gobierno publicó una estrategia de seguridad nacional que busca blindar al país frente a riesgos crecientes e incluso una guerra."
+                "x": "La pieza central es el proyectado Data Center Valley de Ekibastuz, junto a la central de carbón Ekibastuz GRES-1. Firebird, un operador de nube de U.S., firmó un acuerdo de inversión por el que el sitio funcionará con 45,000 GPUs Nvidia Grace Blackwell, cuyas licencias de exportación de U.S. se anunciaron la semana pasada, y el 10 por ciento de la capacidad de GPU de Firebird se asignará a empresas y organismos públicos kazajos."
               },
               {
                 "t": "p",
-                "x": "El Gobierno del primer ministro Mark Carney publicó el jueves la primera estrategia de seguridad nacional en más de dos décadas. Titulada The Plan for a Stronger Canada, ofrece una visión general de cómo Ottawa pretende proteger al país frente a amenazas como la guerra, la inteligencia artificial, los hackers, el espionaje, el sabotaje y la injerencia extranjera, y aumentar su autonomía en ocho sectores clave."
+                "x": "Los expertos señalan dos problemas: la energía y los clientes. Desde 2023, Kazajistán ha consumido cada año más electricidad de la que ha generado, y el objetivo de autosuficiencia energética se aplazó a principios de 2028. No se ha identificado públicamente a ningún cliente internacional, y alrededor del 95 por ciento del tráfico de internet saliente pasa por Rusia."
               },
               {
-                "t": "p",
-                "x": "“Las amenazas que enfrentan Canadá y los canadienses se han vuelto tan complejas e interrelacionadas, desde el cambio climático hasta el terrorismo, la delincuencia, los opioides y las pandemias, desde los ciberataques hasta la AI de frontera y la creciente posibilidad de una gran guerra”, dijo un alto funcionario."
-              },
-              {
-                "t": "p",
-                "x": "La estrategia promete más capacidades de inteligencia, contrainteligencia y ciberdefensa, una nueva legislación de seguridad nacional en el próximo año y cinco estrategias más específicas en los próximos meses. Los funcionarios declinaron detallar los costos antes del presupuesto federal de la próxima semana."
+                "t": "img",
+                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+                "cap": "Un intento del CEO de Nvidia, Jensen Huang, de hacerse un selfi improvisado llevó a los asistentes a abalanzarse sobre el escenario con entusiasmo. Foto de Oliver Fisk."
               }
             ]
           }
         }
+      },
+      "i18n_status": {
+        "zh": "fallback"
       }
     },
     {
-      "id": "google-ai-2020-election-answers",
+      "id": "ai-training-optout-standard",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI는\n2020 대선 승자엔 모호",
-      "body": "US 중간선거 전 Google AI는 2020 대선 승자를 흐리고 해외선 직답한다.",
-      "mini_headline": "Google AI, 2020 대선 질문 회피",
+      "headline": "AI 대기업들, 학습\nopt-out 공통안 지지",
+      "body": "OpenAI·Google·Microsoft·Anthropic이 AI 거부신호 쓴다.",
+      "mini_headline": "AI 기업들, 학습 opt-out 지지",
       "tool": "Politics",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "accent": "#ff5a4d",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "“2020년 대선에서 누가 이겼나?”라고 묻자 Google의 AI Mode는 Ars Technica에 연방선거위원회(Federal Election Commission, FEC)가 작성한 공식 보고서를 참고하라며 에둘러 답했다. 2024년에도 비슷한 답이 돌아왔지만, 2000년까지 거슬러 올라가는 다른 대선은 대부분 상세하고 정확하게 답했다. 결과는 이용자마다 달랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+            "x": "OpenAI, Google, Microsoft, Anthropic이 퍼블리셔가 AI 스크레이핑을 거부(opt out)할 수 있는 새 표준을 채택하겠다고 밝혔다. 퍼블리셔는 AI 기업마다 따로 설정할 필요 없이 AI 학습 선호를 여러 AI 기업에 한꺼번에 적용할 수 있다."
           },
           {
             "t": "p",
-            "x": "Google의 Gemini 모델, ChatGPT, Claude, America.gov의 정부 운영 모델은 모두 바로 답했다. 대만, 러시아, 프랑스, 캐나다에서 VPN으로 확인했을 때도 정확하고 직설적인 답이 나왔다. 이유를 묻자 AI Mode는 “최근의 매우 민감한 선거 주제에 대한 안전 필터”를 들었다. 다만 AI 모델이 자기 내부 과정을 설명할 때 믿기 어렵다는 점은 이미 드러났다."
+            "x": "공통 “정책 토큰(policy token)” 신호는 Anthropic에서 표준을 맡은 기술 리드 케빈 켈리(Kevin Kelley)가 국제인터넷표준화기구(Internet Engineering Task Force, IETF) 논의 과정에서 제안했다. 신호는 웹사이트의 robots.txt 파일에 들어간다. OpenAI, Google, Microsoft, Anthropic은 공통 토큰이 보이면 자사 AI 크롤러가 해당 사이트에 접근하지 못하게 하겠다고 했다."
           },
           {
             "t": "p",
-            "x": "Google 대변인은 회사가 “AI Mode의 2020년 대선 질문 문제를 고치고 있다”며 “2020년에 기술적 공백이 있었다. 2022년 상원(Senate) 선거도 마찬가지이며, 같은 업데이트에서 고치고 있다”고 덧붙였다."
+            "x": "Meta 커뮤니케이션 책임자 앤디 스톤(Andy Stone)도 새 설정을 지지했지만 회사가 따를지는 밝히지 않았다. Microsoft는 AI 학습이나 AI 그라운딩을 골라 거부할 수 있는 세분화된 제어 기능을 내놓겠다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Anthropic은 이미 이 신호를 도입했다. Google과 Microsoft는 내년에 지원할 계획이고, OpenAI는 “몇 달 안에” 적용하겠다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google AI gets cagey on who\nwon the 2020 election",
-          "body": "Ahead of the US midterms, Google's AI dodges who won the 2020 election but is more direct when asked from abroad.",
-          "mini_headline": "Google AI dodges 2020 question",
+          "headline": "AI giants back a shared\nopt-out from training",
+          "body": "OpenAI, Google, Microsoft and Anthropic say they will adopt a common signal that lets sites opt out of AI training.",
+          "mini_headline": "AI labs back a training opt-out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Asked “Who won the 2020 presidential election?”, Google’s AI Mode gave Ars Technica an indirect response telling users to consult the official report compiled by the Federal Election Commission (FEC). A similar answer came for 2024, while AI Mode gave detailed, correct answers for most other presidential elections back to 2000. Results differed by user."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually."
               },
               {
                 "t": "p",
-                "x": "Google’s Gemini model, ChatGPT, Claude and the government-run model at America.gov all answered directly. Spot checks via VPN from Taiwan, Russia, France and Canada got accurate, straightforward answers. Asked why, AI Mode cited “safety filters for recent and highly sensitive election topics,” though AI models have proven unreliable at reporting on their own internal processes."
+                "x": "The shared “policy token” signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website’s robots.txt file. OpenAI, Google, Microsoft, and Anthropic say they will restrict their AI crawlers from accessing a site if they encounter the shared token."
               },
               {
                 "t": "p",
-                "x": "A Google spokesperson said the company was “fixing the issue with 2020 election queries in AI Mode,” adding: “There was a technical gap with 2020 – same is true for 2022 Senate races, which we’re working to fix in the same update.”"
+                "x": "Meta communications head Andy Stone also signaled support for the new setting, but doesn’t say whether the company will honor it. Microsoft says it will offer granular controls to opt out of AI training or AI grounding."
+              },
+              {
+                "t": "p",
+                "x": "While Anthropic has already adopted the signal, Google and Microsoft plan to support it next year. OpenAI says it will implement it in the “coming months.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AI는\n2020 대선 승자엔 모호",
-          "body": "US 중간선거 전 Google AI는 2020 대선 승자를 흐리고 해외선 직답한다.",
-          "mini_headline": "Google AI, 2020 대선 질문 회피",
+          "headline": "AI 대기업들, 학습\nopt-out 공통안 지지",
+          "body": "OpenAI·Google·Microsoft·Anthropic이 AI 거부신호 쓴다.",
+          "mini_headline": "AI 기업들, 학습 opt-out 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "“2020년 대선에서 누가 이겼나?”라고 묻자 Google의 AI Mode는 Ars Technica에 연방선거위원회(Federal Election Commission, FEC)가 작성한 공식 보고서를 참고하라며 에둘러 답했다. 2024년에도 비슷한 답이 돌아왔지만, 2000년까지 거슬러 올라가는 다른 대선은 대부분 상세하고 정확하게 답했다. 결과는 이용자마다 달랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI, Google, Microsoft, Anthropic이 퍼블리셔가 AI 스크레이핑을 거부(opt out)할 수 있는 새 표준을 채택하겠다고 밝혔다. 퍼블리셔는 AI 기업마다 따로 설정할 필요 없이 AI 학습 선호를 여러 AI 기업에 한꺼번에 적용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google의 Gemini 모델, ChatGPT, Claude, America.gov의 정부 운영 모델은 모두 바로 답했다. 대만, 러시아, 프랑스, 캐나다에서 VPN으로 확인했을 때도 정확하고 직설적인 답이 나왔다. 이유를 묻자 AI Mode는 “최근의 매우 민감한 선거 주제에 대한 안전 필터”를 들었다. 다만 AI 모델이 자기 내부 과정을 설명할 때 믿기 어렵다는 점은 이미 드러났다."
+                "x": "공통 “정책 토큰(policy token)” 신호는 Anthropic에서 표준을 맡은 기술 리드 케빈 켈리(Kevin Kelley)가 국제인터넷표준화기구(Internet Engineering Task Force, IETF) 논의 과정에서 제안했다. 신호는 웹사이트의 robots.txt 파일에 들어간다. OpenAI, Google, Microsoft, Anthropic은 공통 토큰이 보이면 자사 AI 크롤러가 해당 사이트에 접근하지 못하게 하겠다고 했다."
               },
               {
                 "t": "p",
-                "x": "Google 대변인은 회사가 “AI Mode의 2020년 대선 질문 문제를 고치고 있다”며 “2020년에 기술적 공백이 있었다. 2022년 상원(Senate) 선거도 마찬가지이며, 같은 업데이트에서 고치고 있다”고 덧붙였다."
+                "x": "Meta 커뮤니케이션 책임자 앤디 스톤(Andy Stone)도 새 설정을 지지했지만 회사가 따를지는 밝히지 않았다. Microsoft는 AI 학습이나 AI 그라운딩을 골라 거부할 수 있는 세분화된 제어 기능을 내놓겠다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Anthropic은 이미 이 신호를 도입했다. Google과 Microsoft는 내년에 지원할 계획이고, OpenAI는 “몇 달 안에” 적용하겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI、\n2020年選挙の勝者明言せず",
-          "body": "US中間選挙を前に、GoogleのAIは2020年選挙の勝者をぼかすが、海外ではより率直だ。",
-          "mini_headline": "Google AI、2020年選挙の質問をかわす",
+          "headline": "AI大手、学習の\nopt-out共通化を支持",
+          "body": "OpenAI・Google・Microsoft・AnthropicがAI学習拒否信号を採用。",
+          "mini_headline": "AI各社、学習opt-outを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "「2020年の大統領選挙で勝ったのは誰か」と尋ねると、GoogleのAI ModeはArs Technicaに対し、連邦選挙委員会(Federal Election Commission、FEC)がまとめた公式報告書を参照するよう促す間接的な回答を返した。2024年についても同様の回答だった一方、AI Modeは2000年までさかのぼる他の大統領選挙の大半について、詳細で正確な回答を示した。結果はユーザーによって異なった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI、Google、Microsoft、Anthropicは、パブリッシャーがAIによるスクレイピングを拒否(opt out)できる新たな標準を採用すると表明した。この仕組みにより、パブリッシャーはAI企業ごとに個別に設定しなくても、複数のAI企業にまとめてAI学習に関する意向を適用できる。"
               },
               {
                 "t": "p",
-                "x": "GoogleのGeminiモデル、ChatGPT、Claude、そしてAmerica.govの政府運営モデルはいずれも直接答えた。台湾、ロシア、フランス、カナダからVPN経由で抜き取り確認したところ、正確で率直な回答が得られた。理由を尋ねると、AI Modeは「最近の非常に敏感な選挙関連トピックに対する安全フィルター」を挙げたが、AIモデルは自らの内部処理を説明する点で信頼性に欠けることが分かっている。"
+                "x": "共通の「ポリシートークン(policy token)」シグナルは、Anthropicで標準化を担当する技術リードのケビン・ケリー(Kevin Kelley)が、インターネット技術特別調査委員会(Internet Engineering Task Force、IETF)の一環として提案したものだ。シグナルはウェブサイトのrobots.txtファイル内に置かれる。OpenAI、Google、Microsoft、Anthropicは、この共通トークンを検出した場合、自社のAIクローラーによるサイトへのアクセスを制限するとしている。"
               },
               {
                 "t": "p",
-                "x": "Googleの広報担当者は、同社が「AI Modeにおける2020年選挙関連の質問の問題を修正している」と述べ、「2020年については技術的な抜けがあった。2022年の上院(Senate)選についても同様で、同じアップデートで修正を進めている」と付け加えた。"
+                "x": "Metaの広報責任者アンディ・ストーン(Andy Stone)も新しい設定への支持を示したが、同社がそれに従うかどうかは明らかにしていない。Microsoftは、AI学習やAIグラウンディングを拒否できるきめ細かな設定を提供するという。"
+              },
+              {
+                "t": "p",
+                "x": "Anthropicはすでにこのシグナルを採用しており、GoogleとMicrosoftは来年対応する予定だ。OpenAIは「今後数か月以内」に実装するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI\n对2020年大选胜者含糊其辞",
-          "body": "US中期选举前，Google的AI回避谁赢得2020年大选，但从海外提问时更直接。",
-          "mini_headline": "Google AI回避2020年大选问题",
+          "headline": "AI巨头支持统一的\n训练opt-out机制",
+          "body": "OpenAI、Google、Microsoft和Anthropic将共用AI训练退出信号。",
+          "mini_headline": "AI公司支持训练opt-out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "当被问及“谁赢得了2020年总统大选？”时，Google的AI Mode向Ars Technica给出了间接回答，让用户查阅联邦选举委员会(Federal Election Commission，FEC)编制的官方报告。对2024年的问题也给出了类似回答，而对于追溯至2000年的其他大多数总统大选，AI Mode都给出了详细且正确的答案。结果因用户而异。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI、Google、Microsoft和Anthropic表示,将采用一项新标准,出版商可借此拒绝(opt out)被AI抓取。借助这一控制手段,出版商可以把自己的AI训练偏好一次性应用于多家AI公司,而无需逐一设置。"
               },
               {
                 "t": "p",
-                "x": "Google的Gemini模型、ChatGPT、Claude以及America.gov上的政府运营模型都直接作答。通过VPN从台湾、俄罗斯、法国和加拿大进行抽查，得到的也是准确、直接的答案。被问及原因时，AI Mode称这是“针对近期高度敏感选举话题的安全过滤机制”，不过事实证明，AI模型在报告自身内部流程方面并不可靠。"
+                "x": "这一共享的“政策令牌”(policy token)信号由Anthropic标准技术负责人Kevin Kelley在互联网工程任务组(Internet Engineering Task Force,IETF)框架下提出,将置于网站的robots.txt文件中。OpenAI、Google、Microsoft和Anthropic表示,若检测到该共享令牌,将限制其AI爬虫访问该网站。"
               },
               {
                 "t": "p",
-                "x": "Google发言人表示，公司正在“修复AI Mode中有关2020年大选查询的问题”，并补充说：“2020年存在技术漏洞——2022年参议院(Senate)选举也是如此，我们正在同一次更新中修复。”"
+                "x": "Meta传播主管Andy Stone也表示支持这一新设置,但未说明公司是否会遵守。Microsoft表示将提供细粒度控制选项,可选择退出AI训练或AI grounding(AI接地)。"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic已采用该信号,Google和Microsoft计划明年提供支持。OpenAI表示将在“未来几个月内”实施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de Google elude decir\nquién ganó la elección de 2020",
-          "body": "Ante las intermedias de US, la AI de Google elude decir quién ganó en 2020, pero es más directa desde el exterior.",
-          "mini_headline": "La AI de Google elude la pregunta de 2020",
+          "headline": "Gigantes de AI apoyan un\nopt-out común del entrenamiento",
+          "body": "OpenAI, Google, Microsoft y Anthropic adoptarán una señal común para que los sitios eviten el entrenamiento de AI.",
+          "mini_headline": "Laboratorios de AI apoyan un opt-out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Ante la pregunta “¿Quién ganó las elecciones presidenciales de 2020?”, el AI Mode de Google dio a Ars Technica una respuesta indirecta que remitía a los usuarios al informe oficial elaborado por la Comisión Federal Electoral (Federal Election Commission, FEC). Hubo una respuesta similar para 2024, mientras que AI Mode ofreció respuestas detalladas y correctas para la mayoría de las demás elecciones presidenciales hasta 2000. Los resultados variaron según el usuario."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI, Google, Microsoft y Anthropic afirman que adoptarán un nuevo estándar que los editores podrán usar para excluirse (opt out) del rastreo por parte de la AI. Con este control, los editores podrán aplicar sus preferencias de entrenamiento de AI en varias empresas de AI a la vez, en lugar de configurarlas una por una."
               },
               {
                 "t": "p",
-                "x": "El modelo Gemini de Google, ChatGPT, Claude y el modelo gestionado por el gobierno en America.gov respondieron directamente. Las comprobaciones puntuales mediante VPN desde Taiwán, Rusia, Francia y Canadá obtuvieron respuestas precisas y directas. Al preguntarle por qué, AI Mode citó “filtros de seguridad para temas electorales recientes y muy sensibles”, aunque los modelos de AI han demostrado ser poco fiables al informar sobre sus propios procesos internos."
+                "x": "La señal compartida de “policy token” la propone Kevin Kelley, responsable técnico de estándares en Anthropic, en el marco de la Internet Engineering Task Force (IETF). Se ubicará en el archivo robots.txt de cada sitio web. OpenAI, Google, Microsoft y Anthropic aseguran que impedirán el acceso de sus rastreadores de AI a un sitio si encuentran el token compartido."
               },
               {
                 "t": "p",
-                "x": "Un portavoz de Google dijo que la empresa estaba “corrigiendo el problema con las consultas sobre las elecciones de 2020 en AI Mode”, y añadió: “Hubo una brecha técnica con 2020; lo mismo ocurre con las contiendas al Senado (Senate) de 2022, que estamos trabajando para corregir en la misma actualización”."
+                "x": "Andy Stone, responsable de comunicación de Meta, también expresó su apoyo al nuevo ajuste, pero no dice si la empresa lo respetará. Microsoft afirma que ofrecerá controles detallados para excluirse del entrenamiento de AI o del grounding de AI."
+              },
+              {
+                "t": "p",
+                "x": "Aunque Anthropic ya adoptó la señal, Google y Microsoft prevén admitirla el próximo año. OpenAI dice que la implementará en los “próximos meses”."
               }
             ]
           }
@@ -1431,121 +1360,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AI는\n2020 대선 승자엔 모호",
-          "body": "US 중간선거 전 Google AI는 2020 대선 승자를 흐리나 해외선 직답한다.",
-          "mini_headline": "Google AI, 2020 대선 질문 회피",
+          "headline": "AI 대기업들, 학습\nopt-out 공통안 지지",
+          "body": "OpenAI·Google·Microsoft·Anthropic이 AI 거부신호 쓴다.",
+          "mini_headline": "AI 기업들, 학습 opt-out 지지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "“2020년 대선에서 누가 이겼나?”라는 질문에 Google의 AI Mode는 Ars Technica에 연방선거위원회(Federal Election Commission, FEC)가 작성한 공식 보고서를 참고하라는 간접적인 답을 내놨다. 2024년에도 비슷한 답이 나왔지만, AI Mode는 2000년까지 거슬러 올라가는 다른 대선 대부분에 대해서는 상세하고 정확하게 답했다. 결과는 이용자마다 달랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI, Google, Microsoft, Anthropic은 퍼블리셔가 AI의 스크레이핑을 거부(opt out)할 수 있는 새 표준을 채택하겠다고 밝혔다. 이 기능을 쓰면 퍼블리셔는 AI 기업마다 따로 설정하지 않고도 여러 AI 기업에 AI 학습 선호를 한꺼번에 적용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google의 Gemini 모델, ChatGPT, Claude, 그리고 America.gov의 정부 운영 모델은 모두 직접 답했다. 대만, 러시아, 프랑스, 캐나다에서 VPN으로 점검한 결과에서도 정확하고 직설적인 답이 나왔다. 이유를 묻자 AI Mode는 “최근의 매우 민감한 선거 주제에 대한 안전 필터”를 들었지만, AI 모델은 자체 내부 과정을 설명하는 데 신뢰하기 어렵다는 점이 드러난 바 있다."
+                "x": "공통 “정책 토큰(policy token)” 신호는 Anthropic의 표준 담당 기술 리드 케빈 켈리(Kevin Kelley)가 국제인터넷표준화기구(Internet Engineering Task Force, IETF) 논의의 일환으로 제안했다. 이 신호는 웹사이트의 robots.txt 파일 안에 들어간다. OpenAI, Google, Microsoft, Anthropic은 공통 토큰을 발견하면 자사 AI 크롤러의 해당 사이트 접근을 제한하겠다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Google 대변인은 회사가 “AI Mode의 2020년 대선 질문 문제를 고치고 있다”며 “2020년에 기술적 공백이 있었다. 2022년 상원(Senate) 선거도 마찬가지이며, 같은 업데이트에서 고치고 있다”고 덧붙였다."
+                "x": "Meta 커뮤니케이션 책임자 앤디 스톤(Andy Stone)도 새 설정에 지지 의사를 보였지만, 회사가 이를 따를지는 밝히지 않았다. Microsoft는 AI 학습이나 AI 그라운딩을 거부할 수 있는 세분화된 제어 기능을 제공하겠다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Anthropic은 이미 이 신호를 도입했고, Google과 Microsoft는 내년에 지원할 계획이다. OpenAI는 “몇 달 안에” 적용하겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI、\n2020年選挙の勝者明言せず",
-          "body": "US中間選挙を前に、GoogleのAIは2020年選挙の勝者をぼかすが、海外ではより率直だ。",
-          "mini_headline": "Google AI、2020年選挙の質問をかわす",
+          "headline": "AI大手、学習の\nopt-out共通化を支持",
+          "body": "OpenAI・Google・Microsoft・AnthropicがAI学習拒否信号を採用。",
+          "mini_headline": "AI各社、学習opt-outを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "「2020年の大統領選挙で勝ったのは誰か」と尋ねると、GoogleのAI ModeはArs Technicaに対し、連邦選挙委員会(Federal Election Commission、FEC)がまとめた公式報告書を参照するよう促す間接的な回答を返した。2024年についても同様の回答だった一方、AI Modeは2000年までさかのぼる他の大統領選挙の大半について、詳細で正確な回答を示した。結果はユーザーによって異なった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI、Google、Microsoft、Anthropicは、パブリッシャーがAIによるスクレイピングを拒否(opt out)できる新たな標準を採用すると表明した。この仕組みにより、パブリッシャーはAI企業ごとに個別に設定しなくても、複数のAI企業にまとめてAI学習に関する意向を適用できる。"
               },
               {
                 "t": "p",
-                "x": "GoogleのGeminiモデル、ChatGPT、Claude、そしてAmerica.govの政府運営モデルはいずれも直接答えた。台湾、ロシア、フランス、カナダからVPN経由で抜き取り確認したところ、正確で率直な回答が得られた。理由を尋ねると、AI Modeは「最近の非常に敏感な選挙関連トピックに対する安全フィルター」を挙げたが、AIモデルは自らの内部処理を説明する点で信頼性に欠けることが分かっている。"
+                "x": "共通の「ポリシートークン(policy token)」シグナルは、Anthropicで標準化を担当する技術リードのケビン・ケリー(Kevin Kelley)が、インターネット技術特別調査委員会(Internet Engineering Task Force、IETF)の一環として提案したものだ。シグナルはウェブサイトのrobots.txtファイル内に置かれる。OpenAI、Google、Microsoft、Anthropicは、この共通トークンを検出した場合、自社のAIクローラーによるサイトへのアクセスを制限するとしている。"
               },
               {
                 "t": "p",
-                "x": "Googleの広報担当者は、同社が「AI Modeにおける2020年選挙関連の質問の問題を修正している」と述べ、「2020年については技術的な抜けがあった。2022年の上院(Senate)選についても同様で、同じアップデートで修正を進めている」と付け加えた。"
+                "x": "Metaの広報責任者アンディ・ストーン(Andy Stone)も新しい設定への支持を示したが、同社がそれに従うかどうかは明らかにしていない。Microsoftは、AI学習やAIグラウンディングを拒否できるきめ細かな設定を提供するという。"
+              },
+              {
+                "t": "p",
+                "x": "Anthropicはすでにこのシグナルを採用しており、GoogleとMicrosoftは来年対応する予定だ。OpenAIは「今後数か月以内」に実装するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI\n对2020年大选胜者含糊其辞",
-          "body": "US中期选举前，Google的AI回避谁赢得2020年大选，但从海外提问时更直接。",
-          "mini_headline": "Google AI回避2020年大选问题",
+          "headline": "AI巨头支持统一的\n训练opt-out机制",
+          "body": "OpenAI、Google、Microsoft和Anthropic将共用AI训练退出信号。",
+          "mini_headline": "AI公司支持训练opt-out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "当被问及“谁赢得了2020年总统大选？”时，Google的AI Mode向Ars Technica给出了间接回答，让用户查阅联邦选举委员会(Federal Election Commission，FEC)编制的官方报告。对2024年的问题也给出了类似回答，而对于追溯至2000年的其他大多数总统大选，AI Mode都给出了详细且正确的答案。结果因用户而异。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI、Google、Microsoft和Anthropic表示,将采用一项新标准,出版商可借此拒绝(opt out)被AI抓取。借助这一控制手段,出版商可以把自己的AI训练偏好一次性应用于多家AI公司,而无需逐一设置。"
               },
               {
                 "t": "p",
-                "x": "Google的Gemini模型、ChatGPT、Claude以及America.gov上的政府运营模型都直接作答。通过VPN从台湾、俄罗斯、法国和加拿大进行抽查，得到的也是准确、直接的答案。被问及原因时，AI Mode称这是“针对近期高度敏感选举话题的安全过滤机制”，不过事实证明，AI模型在报告自身内部流程方面并不可靠。"
+                "x": "这一共享的“政策令牌”(policy token)信号由Anthropic标准技术负责人Kevin Kelley在互联网工程任务组(Internet Engineering Task Force,IETF)框架下提出,将置于网站的robots.txt文件中。OpenAI、Google、Microsoft和Anthropic表示,若检测到该共享令牌,将限制其AI爬虫访问该网站。"
               },
               {
                 "t": "p",
-                "x": "Google发言人表示，公司正在“修复AI Mode中有关2020年大选查询的问题”，并补充说：“2020年存在技术漏洞——2022年参议院(Senate)选举也是如此，我们正在同一次更新中修复。”"
+                "x": "Meta传播主管Andy Stone也表示支持这一新设置,但未说明公司是否会遵守。Microsoft表示将提供细粒度控制选项,可选择退出AI训练或AI grounding(AI接地)。"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic已采用该信号,Google和Microsoft计划明年提供支持。OpenAI表示将在“未来几个月内”实施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de Google elude decir\nquién ganó la elección de 2020",
-          "body": "Ante las intermedias de US, la AI de Google elude decir quién ganó en 2020, pero es más directa desde el exterior.",
-          "mini_headline": "La AI de Google elude la pregunta de 2020",
+          "headline": "Gigantes de AI apoyan un\nopt-out común del entrenamiento",
+          "body": "OpenAI, Google, Microsoft y Anthropic adoptarán una señal común para que los sitios eviten el entrenamiento de AI.",
+          "mini_headline": "Laboratorios de AI apoyan un opt-out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Ante la pregunta “¿Quién ganó las elecciones presidenciales de 2020?”, el AI Mode de Google dio a Ars Technica una respuesta indirecta que remitía a los usuarios al informe oficial elaborado por la Comisión Federal Electoral (Federal Election Commission, FEC). Hubo una respuesta similar para 2024, mientras que AI Mode ofreció respuestas detalladas y correctas para la mayoría de las demás elecciones presidenciales hasta 2000. Los resultados variaron según el usuario."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/aimode2020.png"
+                "x": "OpenAI, Google, Microsoft y Anthropic afirman que adoptarán un nuevo estándar que los editores podrán usar para excluirse (opt out) del rastreo por parte de la AI. Con este control, los editores podrán aplicar sus preferencias de entrenamiento de AI en varias empresas de AI a la vez, en lugar de configurarlas una por una."
               },
               {
                 "t": "p",
-                "x": "El modelo Gemini de Google, ChatGPT, Claude y el modelo gestionado por el gobierno en America.gov respondieron directamente. Las comprobaciones puntuales mediante VPN desde Taiwán, Rusia, Francia y Canadá obtuvieron respuestas precisas y directas. Al preguntarle por qué, AI Mode citó “filtros de seguridad para temas electorales recientes y muy sensibles”, aunque los modelos de AI han demostrado ser poco fiables al informar sobre sus propios procesos internos."
+                "x": "La señal compartida de “policy token” la propone Kevin Kelley, responsable técnico de estándares en Anthropic, en el marco de la Internet Engineering Task Force (IETF). Se ubicará en el archivo robots.txt de cada sitio web. OpenAI, Google, Microsoft y Anthropic aseguran que impedirán el acceso de sus rastreadores de AI a un sitio si encuentran el token compartido."
               },
               {
                 "t": "p",
-                "x": "Un portavoz de Google dijo que la empresa estaba “corrigiendo el problema con las consultas sobre las elecciones de 2020 en AI Mode”, y añadió: “Hubo una brecha técnica con 2020; lo mismo ocurre con las contiendas al Senado (Senate) de 2022, que estamos trabajando para corregir en la misma actualización”."
+                "x": "Andy Stone, responsable de comunicación de Meta, también expresó su apoyo al nuevo ajuste, pero no dice si la empresa lo respetará. Microsoft afirma que ofrecerá controles detallados para excluirse del entrenamiento de AI o del grounding de AI."
+              },
+              {
+                "t": "p",
+                "x": "Aunque Anthropic ya adoptó la señal, Google y Microsoft prevén admitirla el próximo año. OpenAI dice que la implementará en los “próximos meses”."
               }
             ]
           }

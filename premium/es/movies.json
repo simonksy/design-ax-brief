@@ -9039,6 +9039,129 @@
           "x": "El modo Draft permite probar tomas y ajustar guiones gráficos con vistas previas de 480p de menor costo antes de generar la versión final en 4K. El modelo también admite color de 10-bit y está diseñado para conservar la calidad de imagen, los colores y los detalles finos al trabajar con material de referencia o editar metraje existente. Algunas productoras y empresas de posproducción de China y del extranjero ya han comenzado a probarlo. [IT Home, in Chinese]"
         }
       ]
+    },
+    "movies/voicemod-disney-soundboards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+          "cap": "©Walt Disney Co./Cortesía de Everett Collection"
+        },
+        {
+          "t": "p",
+          "x": "Voicemod, la plataforma de modificación de voz impulsada por IA (AI-powered) que permite a los usuarios cambiar el tono y el sonido de su voz y usar efectos de sonido, añadirá paneles de sonido de proyectos de Star Wars y Marvel, lo que permitirá a sus 5,7 millones de usuarios activos mensuales usar frases y efectos de sonido de esas producciones en plataformas como Twitch y Discord. Los primeros paneles de Star Wars, de “The Mandalorian & Grogu”, están disponibles desde el viernes; otros llegarán después."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora no parece que los usuarios puedan hacer que su propia voz suene como los personajes; las herramientas se parecen más a “memes sonoros”. Pero la decisión de Disney de licenciar su IP a una empresa relacionada con la IA (AI-related) refleja la creciente disposición de las compañías de entretenimiento a asociar su propiedad intelectual con la inteligencia artificial."
+        },
+        {
+          "t": "p",
+          "x": "Llega después de que Disney licenciara el año pasado personajes para Sora, de OpenAI, como parte de su efímero acuerdo de inversión de 1.000 millones de dólares, y después de que Hasbro licenciara las voces de varios de sus personajes a ElevenLabs. “Estos paneles de sonido amplían esas interacciones al dar a los usuarios una forma de llevar sonidos de Marvel y Star Wars a esos momentos”, dijo Jaime Bosch, fundador y CEO de Voicemod."
+        }
+      ]
+    },
+    "movies/libatique-ai-vfx-actors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+          "cap": "Cortesía de Evolution Mallorca"
+        },
+        {
+          "t": "p",
+          "x": "El director de fotografía Matthew Libatique, tres veces nominado al Oscar, dice que él y Darren Aronofsky, que lanzó el estudio de IA Primordial Soup con Google DeepMind, están “probando” la tecnología antes de su próxima película. “Vamos a hacer una prueba pronto”, afirma."
+        },
+        {
+          "t": "p",
+          "x": "La IA “no reemplazará al cine. Lo que podría reemplazar es Marvel”, dice: los estudios que hacen películas gigantes “usarán la IA para contener parte de sus costos” mediante los efectos visuales, aunque no cree que Marvel “vaya a usar nunca actores de IA”. “No me puedes decir que vas a crear un personaje de IA capaz de hacer lo que hace Robert Pattinson”."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+          "cap": "“Iron Man”, cortesía de Marvel"
+        },
+        {
+          "t": "p",
+          "x": "Ha usado la IA en posproducción, por ejemplo para corregir destellos, pero reconoce que “sin duda quitó algo de trabajo”. En el corto de IA de Dustin Yellin “Goodbye Lamby”, el encargado de los prompts le pidió primero iluminar físicamente un espacio. Califica de “absolutamente ofensivos” los videos de IA hechos “al estilo de Matthew Libatique” y añade: “No he visto nada creado por IA que me haya impresionado de verdad”."
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-relighting": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "19ngvIWpK_U"
+        },
+        {
+          "t": "p",
+          "x": "En este video, Curious Refuge comparte un nuevo flujo de trabajo para reiluminar tus películas después del rodaje: convertir una oficina de día en un espacio de trabajo de madrugada sin volver al set."
+        },
+        {
+          "t": "p",
+          "x": "Los pasos: exportar un fotograma fijo, elegir una referencia de iluminación y reiluminar la imagen en un editor (se recomiendan Nano Banana 2.1 o GPT Image 2.5) con un prompt como “Cambia la iluminación y la hora del día de la imagen 1 a la noche. Usa la imagen 2 como referencia de iluminación y estilo”. Después, subir el clip original junto con el fotograma reiluminado a un modelo de video, de modo que la imagen editada aporte el objetivo de iluminación y el metraje aporte la interpretación y el movimiento."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+          "cap": "Primer fotograma con la nueva iluminación"
+        },
+        {
+          "t": "p",
+          "x": "Los resultados fueron prometedores, con límites: en la prueba de la oficina vieron variaciones de exposición y bandas diagonales visibles, y la salida tenía menor resolución que la fuente en 4K, así que conviene revisar todo el clip en busca de artefactos antes de usarlo en tu película."
+        }
+      ]
+    },
+    "movies/news1-broadcast-ai-action": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+          "cap": "MBC"
+        },
+        {
+          "t": "p",
+          "x": "La tecnología de inteligencia artificial (IA) se ha convertido en un nuevo motor para la industria de la televisión. Su uso, antes limitado a generar subtítulos o convertir voz en texto, se ha ampliado desde la llegada de la IA generativa a todo el proceso, desde la planificación hasta la producción de video y el análisis de datos de audiencia."
+        },
+        {
+          "t": "p",
+          "x": "Lee Sang-jin, jefe del equipo de alianzas de IA de SBS, explicó: “Se esperaba que la escena de la infiltración pasada de Kim Bu-jang en Corea del Norte costara cientos de millones de wones en rodaje real, pero gracias a la IA pudimos ahorrar unos 200 millones de wones”. En la escena de la explosión sobre un puente, los vehículos se hicieron con CG y las llamas con IA generativa. EBS presentó títulos como ‘AI Drama - Clase de resurrección’, y el drama histórico de KBS ‘Munmu’ también mostrará espacios históricos y grandes batallas creados con IA generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+          "cap": "‘Vertigo PTZ’, basado en IA / Foto: cortesía de KBS"
+        },
+        {
+          "t": "p",
+          "x": "‘Vertigo’, la solución de encuadre automático de video basada en IA de KBS, redujo en ‘Music Bank’ el tiempo de edición de unos 15 minutos por intérprete a 2-3 minutos. MBC creó el video de cuenta regresiva de su transmisión de resultados de las elecciones locales sin rodar nada, solo con su archivo de emisiones e IA generativa. Kwon Seok-won, jefe del equipo de estrategia de IA de MBC, subrayó que “el objetivo de adoptar la IA no es reducir personal”, sino crear una estructura en la que el equipo pueda centrarse en el trabajo creativo."
+        }
+      ]
+    },
+    "movies/beta-builder-aion-hybrid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
+          "cap": "Mayur More y Ashlesha Thakur"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: Mayur More y Ashlesha Thakur protagonizarán el primer largometraje AI-driven surgido del acuerdo entre la compañía de India Abundantia Entertainment y la tecnológica de video InVideo. Beta Builder será dirigida por Hridaye A. Nagpal, Global Creative Lead de InVideo, y el rodaje principal comienza hoy en Mumbai."
+        },
+        {
+          "t": "p",
+          "x": "Abundantia produce a través de su división Abundantia AiOn, presentada como “human-first and AI-empowered” (primero lo humano, potenciado por AI). El año pasado se asoció con InVideo en una cartera de cinco películas AI-powered que se estrenarán a lo largo de tres años, respaldada por un compromiso de ₹100 crore ($10.5M)."
+        },
+        {
+          "t": "p",
+          "x": "La película cuenta la historia de Jai, un arquitecto genial y autodidacta de Dharavi que tiene la oportunidad de hacer realidad sus sueños en el mundo de la realidad virtual. Se presenta como una producción híbrida que combina “un rodaje live-action en toda regla con producción AI-driven”."
+        },
+        {
+          "t": "p",
+          "x": "“Con el cine AI-assisted, los narradores pueden soñar mucho más en grande, y respaldar una idea audaz por fin parece posible”, dijo Nagpal. “Beta Builder es nuestra apuesta por ese futuro, con un rodaje live-action y la AI trabajando codo con codo”. InVideo, empresa U.S.-based con oficinas en India, se presenta como una plataforma agnóstica de cine con AI que supera los 50 millones de usuarios."
+        }
+      ]
     }
   }
 }

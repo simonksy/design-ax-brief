@@ -9250,6 +9250,134 @@
           "x": "CEO Jack O’Donnell told The Verge that inMusic brands, especially Akai, would be looking to embrace the modding community by seeding early devices to developers. These efforts will also include open-sourcing some software and providing an SDK."
         }
       ]
+    },
+    "music/spotify-remix-tool-2027": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Spotify-AI-Remix-Tool-1024x546.jpg",
+          "cap": "Photo Credit: Alexander Shatov"
+        },
+        {
+          "t": "p",
+          "x": "Spotify is reportedly preparing to roll out its long-awaited AI cover and remix tool – possibly at a $5-per-month price point in the States – early next year."
+        },
+        {
+          "t": "p",
+          "x": "That potential launch timetable surfaced in a Financial Times report, which cited anonymous sources. Universal Music, Believe/TuneCore, Kobalt, and Merlin have inked related licensing deals; Sony Music, Warner Music and BMG are absent from the list, though Spotify previously said it wouldn't require \"a full catalog\" to get the ball rolling."
+        },
+        {
+          "t": "p",
+          "x": "The reported early 2027 debut could coincide with a formal reveal timed to align with the 69th Grammy Awards in February. The offering might set Premium subscribers back another $4 to $5 per month, according to the report; other concrete details, including participating artists, are few and far between."
+        },
+        {
+          "t": "p",
+          "x": "Spotify will face significant gen AI competition: Suno and Warner Music plan artist-specific offerings, all three majors have partnered with Klay Vision, Udio is preparing to relaunch with the non-Sony majors, and Universal Music has teed up artist-specific offerings under an ElevenLabs tie-up."
+        }
+      ]
+    },
+    "music/umg-grainge-ai-volume": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-17T113755.557.png?fit=780%2C585&ssl=1",
+          "cap": "Pile of trash with a goat next to it"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group's quarterly earnings call saw boss Sir Lucian Grainge sounding the latest alarm around AI music. He cited Deezer's latest figures showing more than 90,000 fully AI-generated tracks are being uploaded to streaming services every day."
+        },
+        {
+          "t": "p",
+          "x": "\"The volume is growing faster than the safeguards,\" warned Grainge. On blues charts on some big streaming services, \"as many as five of the top 10 albums are attributed to AI-generated acts without clear labelling or disclosure… this is not harmless clutter.\" UMG will \"enforce our contractual protections and insist on clearer labelling across the ecosystem.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Put plainly, unethically generated AI tracks should never be compensated on the same basis as music that creates real and lasting demand. And why would a music service even want to host them?\" Grainge said, as UMG hinted at pressing DSPs to de-monetise and perhaps remove fully-AI tracks."
+        },
+        {
+          "t": "p",
+          "x": "UMG's Q3 revenues rose 12.3% year-on-year to €3.39bn. Chief digital officer Michael Nash praised recent measures by Spotify, Deezer and Apple Music but warned \"this is not sufficient\", citing \"ecosystem pollution at a massive scale\" — a shift from earlier calls where he had talked down AI's impact on UMG's business."
+        }
+      ]
+    },
+    "music/midiff-drum-restoration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "We introduce MiDiff, a diffusion-based generative model for drum audio enhancement that conditions the reverse process on temporally aligned Musical Instrument Digital Interface (MIDI) piano rolls. It extends the SGMSE framework in the complex STFT domain with a pretrained MIDI encoder, multi-scale temporal alignment, and three conditioning strategies: early injection, FiLM, and cross-attention."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.38619v1/figures/spectrogram_test_excerpt.png",
+          "cap": "Fig. 6: Qualitative STFT spectrogram comparison on a StemGMD test excerpt. Top-left: clean reference; top-right: degraded input; bottom-left: SGMSE baseline; bottom-right: MiDiff."
+        },
+        {
+          "t": "p",
+          "x": "Providing the same piano roll only through classifier guidance yields no measurable gain: the symbolic prior is effective when it conditions the score network. A hybrid reverse schedule that transcribes the diffusion state online cuts test FAD by 47% relative to the audio-only baseline without any symbolic input."
+        },
+        {
+          "t": "p",
+          "x": "The model is trained on the StemGMD dataset with a degradation pipeline simulating room reverberation with echo, electret capsule frequency response, and soft-clipping saturation with noise. MiDiff substantially outperforms the SGMSE baseline in Fréchet Audio Distance (FAD), and authentic MIDI velocity dynamics are critical for effective symbolic conditioning."
+        }
+      ]
+    },
+    "music/zeds-dead-sampling-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-hero-credit-Max-Thompson@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Zeds Dead – Hooks (Zachary Rapp-Rovan) and DC (Dylan Mamid) – have run their production partnership for nearly 20 years, sampling everything from Duke Ellington to Scarface and Blue Velvet. \"When you sample a record, you sample the magic of that room,\" says Rapp-Rovan."
+        },
+        {
+          "t": "video",
+          "yt": "i5xCKYMfpEc"
+        },
+        {
+          "t": "p",
+          "x": "Asked about sampling in the AI age, Rapp-Rovan says: \"Where I'm at now, the interest is more in the history. AI has no history. It's an average of things that sound similar.\" He adds he's \"totally into some of the AI tools like stem separation and voice changing,\" but making stuff out of the box at the level of a veteran \"does seem more bad than good at the moment.\""
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-1-credit-Brittany-Teuber@1050x1400.jpg",
+          "cap": "Image: Brittany Teuber"
+        },
+        {
+          "t": "p",
+          "x": "Mamid, who has tried the tools, says \"it creeps me out when I see what it comes back with,\" and calls generative AI \"like hyper-sampling.\" Their own sampling, he says, is \"in support of human culture. Not denigrating it.\""
+        }
+      ]
+    },
+    "music/suno-mcp-chat-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Music-industry professionals have been rushing to connect various Model Context Protocol (MCP) servers to their AI chatbots of choice. However, there may be more reluctance in some quarters to add the latest launch: it’s from Suno."
+        },
+        {
+          "t": "p",
+          "x": "“Add Suno to your AI stack,” explains the launch blurb for Suno’s move into the MCP world, which is billed as an ‘early access’ product for now. “Access the Suno MCP from your AI tool and create music right from the chat.”"
+        },
+        {
+          "t": "p",
+          "x": "The Suno MCP can currently be connected to Claude, ChatGPT, Gemini, Claude Code and Cursor, as well as other AI tools if people are comfortable fiddling with the required connector settings manually."
+        },
+        {
+          "t": "p",
+          "x": "Songs that people generate using the Suno MCP use up credits as they would on Suno’s own site and app, with the music saved to their library so it can be accessed from those places too. The MCP is available to free users of Suno as well as paying subscribers."
+        },
+        {
+          "t": "p",
+          "x": "Suno is one of the first big AI-music tools to launch an MCP server, albeit in early-access form rather than being available to all. The prospect of accessing Suno from Anthropic’s Claude is a particularly spicy one for music rightsholders, given the ongoing copyright lawsuits against both companies."
+        }
+      ]
     }
   }
 }

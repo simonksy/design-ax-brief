@@ -2787,6 +2787,103 @@
           "x": "“Our mission is to give power to the patient. If they want to delegate the booking to an AI agent, then we should give them the frictionless access to care that they want,” Kharraz said."
         }
       ]
+    },
+    "medicine/ama-clinical-ai-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+        },
+        {
+          "t": "p",
+          "x": "Building on its recent guidance for clinical AI governance, the American Medical Association on Thursday gave a deeper breakdown of how different parties should be responsible for decisions, actions and failures involving the technology. The framework from AMA's Center for Digital Health and AI addresses liability issues it said existing frameworks leave unanswered, which could leave physicians facing \"liability for risks they cannot reasonably prevent, while patients may struggle to seek remedies when AI causes harm.\""
+        },
+        {
+          "t": "p",
+          "x": "The framework \"recognizes that multiple parties may bear liability for the use of AI when something goes wrong,\" aligning accountability with a party's ability to prevent harm. Physicians should \"be responsible for the clinical judgment they can meaningfully exercise, based on the system's intended use, known limitations and the information available at the point of care,\" and may decline an unproven AI system without penalty."
+        },
+        {
+          "t": "p",
+          "x": "\"As AI assumes more clinical functions, developers, healthcare organizations and physicians each have important responsibilities,\" said AMA President Willie Underwood III, M.D. The liability framework details one aspect of a broader clinical AI governance framework AMA unveiled earlier this month."
+        }
+      ]
+    },
+    "medicine/mr-ai-missed-referrals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Missed specialist referrals in primary care pose substantial health and medico-legal risks, yet remain poorly understood. We developed an AI-supported safety system (MR-AI) to identify missed referrals from consultation notes, evaluated in a quasi-experimental study across seven primary care clinics in Singapore. MR-AI scanned ~25,000 notes weekly for referral intent without a corresponding order, achieving an estimated sevenfold increase in weekly missed referral detection (4.7 percentage point level increase; 95% CI 0.024–0.069; p < 0.001)."
+        },
+        {
+          "t": "p",
+          "x": "Of 428 cases flagged, 225 were clinician-verified, alongside 31 patient-reported cases, yielding 256 total detections. MR-AI demonstrated 99.9% specificity and 48.8% sensitivity. In a blinded one-week comparison against seven physician reviewers, MR-AI achieved a PPV of 61.8% versus a human confirmation rate of 51.8% across 83 flagged cases, while requiring approximately 41 fewer projected staff-hours."
+        },
+        {
+          "t": "p",
+          "x": "AI-enabled surveillance substantially assisted in missed referral detection, though sustainable improvement will require complementary preventive workflow changes and future cost-effectiveness assessment."
+        }
+      ]
+    },
+    "medicine/amhart-teen-chatbot-eval": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Many adolescents seek mental health advice from general-purpose artificial intelligence (AI) chatbots, despite limited evaluations against youth-relevant clinical standards. Here we developed the Adolescent Mental Health AI Response Tool (AMHART), a clinician-informed instrument for auditing the presence of guideline-informed response content across seven domains, and applied it to four major AI chatbots."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+          "cap": "Fig. 1: Graphic summary of AMHART development and evaluation."
+        },
+        {
+          "t": "p",
+          "x": "Candidate items were reviewed by clinicians for their evidence base, objectivity and clinical importance, yielding a subset with strong content validity and inter-rater reliability. We then configured a three-model large language model evaluator ensemble, assessed its agreement with human reference labels and scored multiturn conversations in which adolescent personas (varying by sex, diagnosis and symptom severity) engaged with ChatGPT-5, ChatGPT-4, Claude 4.5 and Gemini 2.5."
+        },
+        {
+          "t": "p",
+          "x": "AMHART scores indicated greater coverage of applicable criteria for anxiety than depression and for moderate than severe presentations. The findings suggest AMHART offers a reliable, clinician-informed benchmark for evaluating chatbot responses to adolescent anxiety and depression disclosures."
+        }
+      ]
+    },
+    "medicine/brainomix-glyburide-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brainomix is highlighting a study showing how automated noncontrast CT analysis with the company's software may help identify patients with large hemispheric infarction. These patients are more likely to benefit from intravenous glyburide (Cirara), an investigational therapy from Remedy Pharmaceuticals, according to a post-hoc analysis of the phase III Charm trial presented at the World Stroke Conference in Seoul."
+        },
+        {
+          "t": "p",
+          "x": "Using its Brainomix 360 Stroke software, the company measured acute infarct volume on noncontrast CT in 428 trial patients. In a subgroup of 191 patients with infarct core volumes below 125 mL, Cirara showed significantly association with improved functional outcomes on the modified Rankin Scale, including a greater likelihood of achieving a score of 0 to 3 at 90 days, the researchers found."
+        },
+        {
+          "t": "p",
+          "x": "The findings suggest that patients could be selected for trials of the therapy without advanced imaging such as CT perfusion or MRI, Brainomix said. Cirara has not been approved by any regulatory authority."
+        }
+      ]
+    },
+    "medicine/jama-wiser-prior-auth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Research Letter by Hannah T. Neprash, PhD (University of Minnesota) and Michael L. Barnett, MD, MS (Brown University). Prior authorization is \"a process that requires clinicians to submit justification for specific medical services before reimbursement is offered.\" Historically, traditional Medicare has not required any prior authorization, with rare exceptions."
+        },
+        {
+          "t": "p",
+          "x": "The Center for Medicare & Medicaid Innovation's Wasteful and Inappropriate Service Reduction (WISeR) model, a 6-year pilot that began in January 2026 in Arizona, New Jersey, Ohio, Oklahoma, Texas and Washington, requires prior authorization for selected services and encourages participants to use artificial intelligence. There was no evidence to date on its initial impact."
+        },
+        {
+          "t": "p",
+          "x": "Using Epic Cosmos electronic health record data, the authors compared monthly use of WISeR-targeted services in the six pilot states with all other states and Washington, D.C., over the two years before launch and the first six months after."
+        },
+        {
+          "t": "p",
+          "x": "Relative to nonpilot states, epidural steroid injections fell about 15% and other targeted services about 20%. The drop was largest at launch: epidural steroid injections were about 21% lower in the first quarter of 2026 and about 9% lower in the second; other services went from 21% to 18%. Services slated for WISeR but never implemented showed no significant decline."
+        },
+        {
+          "t": "p",
+          "x": "Whether the forgone care was unnecessary or needed remains unknown; the authors call for tracking persistence, appropriateness of care, patient outcomes, clinician burden and Medicare spending."
+        }
+      ]
     }
   }
 }

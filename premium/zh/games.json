@@ -9045,6 +9045,135 @@
           "x": "上周的Next Fest演示数量是上一届的两倍，AI作品随之泛滥。对此，Wilkinson表示，在策展开始前的头几天，演示是随机展示的，许多抱怨文章依据的正是最初那两天。他补充说：“我们完全了解情况，相当多的人正在思考如何解决这个问题。”"
         }
       ]
+    },
+    "games/itchio-page-surge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "随着越来越多开发者使用生成式AI，游戏商店里新作泛滥，手工打造游戏的独立开发者想要脱颖而出比以往任何时候都难。"
+        },
+        {
+          "t": "p",
+          "x": "10月31日深夜，itch.io在Bluesky上透露，每天新建的游戏页面数量自2026年8月以来翻了一番。根据其分享的图表，当时每天新建的页面约为3,000个；截至10月30日，这一数字已超过6,000个。itch.io的其他回复还表明，这些新页面中大多数也是AI项目。"
+        },
+        {
+          "t": "p",
+          "x": "上架作品增多并没有带来更多玩家：itch.io在另一条回复中证实，自2026年8月以来，“下载量和购买量并没有翻倍”。"
+        },
+        {
+          "t": "p",
+          "x": "大量新作涌入，其中许多可能是用生成式AI制作的，它们挤满了独立开发者赖以获得曝光的平台，却没有带来受众增长。Steam同样拥挤不堪，许多Steam Next Fest试玩版被AI-made竞品淹没或抄袭。Itch.io已要求开发者披露AI使用情况。"
+        }
+      ]
+    },
+    "games/ramen-aura-autopilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+        },
+        {
+          "t": "p",
+          "x": "面向Unity和Unreal Engine的多智能体AI助手开发商Ramen推出了Aura Autopilot，这是一款开源的游戏试玩测试智能体，玩得越多就越能自我提升；同时发布的还有一份涵盖基准测试结果和高层架构的白皮书。"
+        },
+        {
+          "t": "p",
+          "x": "“Aura Autopilot能实时玩任何游戏，边玩边学，玩得越多就越强，”Ramen的CEO兼联合创始人Andy Tsen说。“这为游戏QA开辟了新天地，我们将其开源，让开发者和研究人员能把它推向更远。”"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+        },
+        {
+          "t": "p",
+          "x": "在早期测试中，它实时游玩了射击游戏、动作RPGs、手机游戏、生存制作游戏、回合制JRPGs和即时战略游戏。它能朝长期目标进行规划，同时保持可操控，开发者可以把它指向想要测试的具体系统。与Aura搭配时，由Aura端到端构建一项玩法功能，再由Autopilot进行试玩测试。"
+        },
+        {
+          "t": "p",
+          "x": "白皮书显示，它的运行速度比Aura的Verification Agent快3x，成本更低，并可借助Claude Code、Codex或BYOK在Unreal Engine、Unity和Godot中运行。该项目已在GitHub上线。"
+        }
+      ]
+    },
+    "games/krafton-llm-gateway": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Krafton AI转型负责人Lim Kyung-young在27日举行的“Games on AWS 2026”上表示：“我们用自研的LLM网关整合了使用路径，并改进了成本管理体系。”他还说：“因此，9月API成本较上月下降约37%。”"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Krafton于去年10月宣布“AI优先”战略，为员工提供12种以上的企业级AI工具并补贴个人订阅费用。结果与今年1月相比，7~8月的令牌使用量增长了27倍，相关费用增长了20倍以上。Lim解释说：“我们看不到哪个部门用的AI令牌最多、花的钱最多。”他还说：“成本也根本无法预测。”"
+        },
+        {
+          "t": "p",
+          "x": "LLM网关将使用多个AI模型的路径整合为一，按个人、部门和模型管理用量与成本，目前在公司内部提供98种以上的AI模型。公司为每名员工分配每月1000美元的AI使用额度，并视需要调整各工具的额度或要求额外审批。Lim强调：“我们并没有限制AI的使用本身。”“实际上，10月的AI使用量也没有减少。”"
+        },
+        {
+          "t": "p",
+          "x": "Krafton计划进一步完善按部门划分的成本管理体系，并研究能自动选择适合业务的AI模型的技术；2027年将把“AI智能体”的权限与审批体系等作为重点课题。"
+        }
+      ]
+    },
+    "games/arrowhead-ai-parody": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Arrowhead首席创意官Johan Pilestedt完全能想象这家Helldivers工作室开发一款讽刺或恶搞当今生成式AI技术的电子游戏。它不会是Helldivers项目，而且需要相对轻松明快。"
+        },
+        {
+          "t": "p",
+          "x": "“从80年代起，AI就一直值得拿来恶搞。我完全能想象这样一款游戏：你被困在一个由几乎等同于神的AI霸主统治的世界里，”Pilestedt说。“不过在Helldivers 2里，Automatons已经满足了我们对机器人敌人的需求，所以如果要做这个方向，那会是一款新作，而且我们会希望用古怪、有趣的方式来呈现，而不是阴郁沉重的方式。”"
+        },
+        {
+          "t": "p",
+          "x": "Helldivers 2中的Automatons并不是对生成式AI的评论；它们大致是在戏仿一个住满Terminators的苏联。"
+        },
+        {
+          "t": "p",
+          "x": "Arrowhead似乎愿意在一定限度内使用这项技术。CEO Shams Jorjani对The Game Business表示，AI争论最终会走向“光谱的两个极端”，并发问：“也许现实就在中间某处？”他还强调，“我们必须确保自己没有窃取别人的知识产权和权利”。"
+        }
+      ]
+    },
+    "games/games-atelico-ondevice-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+        },
+        {
+          "t": "p",
+          "x": "致力于打造AI-native游戏及其底层技术的游戏工作室Studio Atelico开放了Atelico AI Engine的抢先体验。开发者可以完全在玩家设备上、在游戏进程内与渲染器并行运行语言模型、图像生成、语义搜索、语音系统以及AI-powered角色行为。该引擎已为工作室的首款生物对战游戏Bobium Brawlers提供支持:玩家用平实的语言描述一个角色,手机上就会生成肖像和可玩的卡组。"
+        },
+        {
+          "t": "video",
+          "yt": "xLwBBlMYokg"
+        },
+        {
+          "t": "p",
+          "x": "该引擎与Unity、Unreal Engine和Godot原生集成,可在Windows、macOS、iOS和Linux上以GPU或CPU运行。其专有的Compute Graphics Scheduler(CGS)让AI推理与渲染并行而不掉帧。由于处理在玩家系统上进行,工作室无需支付推理费用;CEO Piero Molino表示,面向百万用户的云端方案每天可能花费$1 million。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
+          "cap": "Studio Atelico拥有一种由AI学习的卡通美术风格。来源:Studio Atelico"
+        },
+        {
+          "t": "p",
+          "x": "它在Apple Silicon上约1秒即可生成图像,在最新桌面GPUs上则<0.25s,还包含为拥有人设、记忆和动机的NPCs设计的Character Behavior System,以及多层安全管线。Molino说:“我们相信,游戏中AI的未来并不在于取代开发者。”"
+        }
+      ]
     }
   }
 }

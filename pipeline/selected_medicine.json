@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "medicine",
   "user_selection": null,
   "picks": [
@@ -9,14 +9,14 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "Changes in Service Use Following the Introduction of AI-Enabled Prior Authorization in Medicare",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855989",
-      "source": "JAMA",
-      "published_iso": "2026-10-26T16:30:20Z",
-      "og_image": null,
-      "excerpt": "Using Epic Cosmos data, this study assesses changes in Medicare beneficiaries' use of medical services after AI-enabled prior authorization requirements began under CMS Innovation Center's WISeR model. (Date: Crossref created; DOI 10.1001/jama.2026.21230)",
-      "lang": "en",
-      "rationale": "A primary JAMA study measuring what AI-enabled prior authorization under CMS's WISeR model did to Medicare patients' use of services. It is regulator- and patient-facing evidence on insurance-review automation, and nothing in the 30-day history covers WISeR or AI prior auth."
+      "title": "삼성전자, 갤럭시 워치 수면 무호흡 기능 고도화…FDA이어 식약처 허가 획득",
+      "url": "https://medigatenews.com/news/1453068542",
+      "source": "메디게이트뉴스",
+      "published_iso": "2026-10-28T15:14:00+09:00",
+      "og_image": "https://medigatenews.com/file/news/537386",
+      "excerpt": "삼성전자가 갤럭시 워치의 AI 기반 수면 무호흡 기능을 고도화해 식약처 허가를 받았다. 징후 유무만 보던 기존 기능과 달리 시간당 호흡 장애 횟수로 경미·중등도·중증을 구분한다.",
+      "lang": "ko",
+      "rationale": "A regulatory approval that reaches patients directly. MFDS cleared the upgraded Galaxy Watch sleep-apnea feature, which now grades severity (mild, moderate, severe) by breathing events per hour instead of only flagging signs. Medicine owns this story today, and it appears in neither the medicine 30-day history nor gadgets' published URLs."
     },
     {
       "rank": 2,
@@ -24,89 +24,166 @@
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "An agentic AI system enhances clinical detection of immune-related adverse events in a multi-phase validation study",
-      "url": "https://www.nature.com/articles/s43018-026-01264-6",
-      "source": "Nature Cancer",
-      "published_iso": "2026-10-29T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-      "excerpt": "Gallifant et al. develop and validate, across multiple phases, an AI agent that helps clinicians detect and assess immune-related adverse events in patients on cancer immunotherapy.",
+      "title": "Who's responsible when clinical AI goes wrong? AMA weighs in",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-10-30T15:30:00-04:00",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX.",
+      "excerpt": "The American Medical Association released a new framework laying out how developers, health systems and physicians should share liability when clinical AI causes harm, building on its recent governance guidance.",
       "lang": "en",
-      "rationale": "A multi-phase clinical validation of an AI agent that helps clinicians catch immune-related adverse events in patients on cancer immunotherapy. The nearest published card, the 10-11 VOICE-AE study, scored CTCAE from ambient audio. This is a different system and a different study."
+      "rationale": "A new official AMA document that sets out how developers, health systems and physicians share liability when clinical AI causes harm. It is a separate release from the 10-16 agentic-AI governance framework, and it bears directly on clinician accountability."
     },
     {
       "rank": 3,
       "tool": "Medicine",
       "category": "medicine",
-      "accent": "#7928ca",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "title": "NYU Langone brings OpenEvidence's clinical AI into the EHR systemwide",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
-      "source": "Fierce Healthcare",
-      "published_iso": "2026-10-29T10:00:00-04:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg?VersionId=Hjq5ca_eQBjsQdg1xGlmBtx0Nw_TycOf",
-      "excerpt": "NYU Langone Health is integrating OpenEvidence's clinical AI search into its electronic health record across the system, the latest marquee New York partnership for the evidence platform.",
+      "title": "Accuracy and impact of an AI safety system for missed specialist referrals in primary care",
+      "url": "https://www.nature.com/articles/s41746-026-03444-1",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-30T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Researchers built MR-AI, which flags missed specialist referrals in consultation notes, and evaluated it in a quasi-experimental study across seven primary care clinics.",
       "lang": "en",
-      "rationale": "A health-system deployment: NYU Langone is building OpenEvidence's clinical evidence search into its EHR systemwide, so it changes the clinician workflow at a major academic system. The 10-16 OpenEvidence card reported a JAMA usage study, not this rollout."
+      "rationale": "A patient-safety study run in practice: MR-AI flags specialist referrals missed in consultation notes, and it was evaluated across seven primary-care clinics. No referral-safety story is in the 30-day history."
     },
     {
       "rank": 4,
       "tool": "Medicine",
       "category": "medicine",
-      "accent": "#2ec5c5",
+      "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Popular AI models get medication doses wrong, some dangerously: Doximity",
-      "url": "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-10-29T16:22:19Z",
-      "og_image": null,
-      "excerpt": "Research released by Doximity shows its dose verification tool outperformed general-use AI models, which it says are rife with medication-dosing errors, some dangerously.",
+      "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
+      "url": "https://www.nature.com/articles/s44220-026-00753-y",
+      "source": "Nature Mental Health",
+      "published_iso": "2026-10-28T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+      "excerpt": "Clinicians built AMHART to grade how AI chatbots respond to teens disclosing anxiety or depression. Testing four widely used chatbots exposed gaps in how they respond.",
       "lang": "en",
-      "rationale": "Patient safety: Doximity's new research finds that general-purpose AI models make medication-dosing errors, some of them dangerous. The finding comes from the vendor's own testing, so the copy must attribute it to Doximity. The 10-26 Doximity card was about adding UpToDate to Ask, which is a different event."
+      "rationale": "Clinicians built and validated AMHART, a tool that grades how chatbots respond to teens who disclose anxiety or depression. They then used it to expose gaps in four widely used chatbots. The 10-12 JAMA card on a cancer-risk chatbot for young people with cancer predisposition is a different intervention and a different study."
     },
     {
       "rank": 5,
       "tool": "Medicine",
       "category": "medicine",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "title": "Brainomix highlights AI study on stroke drug responders",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-28T18:36:58Z",
+      "og_image": "https://img.auntminnie.com/files/base/smg/all/image/2020/08/am.2019_12_18_00_08_6648_CT_brain_stroke_400.png",
+      "excerpt": "A study using Brainomix's automated noncontrast CT analysis helped identify large hemispheric infarction patients who could benefit from intravenous glyburide.",
+      "lang": "en",
+      "rationale": "A treatment-selection result: automated noncontrast-CT analysis picked out large hemispheric infarction patients likely to benefit from IV glyburide. The AI is central to the finding, and no Brainomix or stroke-treatment-selection story is in the 30-day history. The source is a vendor-highlighted study, so the copy must attribute it."
+    }
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#00897b",
+      "motif": "sphere",
+      "title": "삼성전자, 갤럭시 워치 수면 무호흡 기능 고도화…FDA이어 식약처 허가 획득",
+      "url": "https://medigatenews.com/news/1453068542",
+      "source": "메디게이트뉴스",
+      "published_iso": "2026-10-28T15:14:00+09:00",
+      "og_image": "https://medigatenews.com/file/news/537386",
+      "excerpt": "삼성전자가 갤럭시 워치의 AI 기반 수면 무호흡 기능을 고도화해 식약처 허가를 받았다. 징후 유무만 보던 기존 기능과 달리 시간당 호흡 장애 횟수로 경미·중등도·중증을 구분한다.",
+      "lang": "ko",
+      "rationale": "A regulatory approval that reaches patients directly. MFDS cleared the upgraded Galaxy Watch sleep-apnea feature, which now grades severity (mild, moderate, severe) by breathing events per hour instead of only flagging signs. Medicine owns this story today, and it appears in neither the medicine 30-day history nor gadgets' published URLs."
+    },
+    {
+      "rank": 2,
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "title": "Who's responsible when clinical AI goes wrong? AMA weighs in",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-10-30T15:30:00-04:00",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX.",
+      "excerpt": "The American Medical Association released a new framework laying out how developers, health systems and physicians should share liability when clinical AI causes harm, building on its recent governance guidance.",
+      "lang": "en",
+      "rationale": "A new official AMA document that sets out how developers, health systems and physicians share liability when clinical AI causes harm. It is a separate release from the 10-16 agentic-AI governance framework, and it bears directly on clinician accountability."
+    },
+    {
+      "rank": 3,
+      "tool": "Medicine",
+      "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "HOPPR releases whole-body MSK x-ray report drafting model",
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-29T18:05:29Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-      "excerpt": "HOPPR is launching a beta of its FS MSK Whole-Body Narrative Model, a vision-language foundation model that generates draft findings text for musculoskeletal radiographs using up to three views per study.",
+      "title": "Accuracy and impact of an AI safety system for missed specialist referrals in primary care",
+      "url": "https://www.nature.com/articles/s41746-026-03444-1",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-30T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Researchers built MR-AI, which flags missed specialist referrals in consultation notes, and evaluated it in a quasi-experimental study across seven primary care clinics.",
       "lang": "en",
-      "rationale": "A new product release with real AI content: HOPPR's vision-language foundation model drafts findings text for whole-body MSK radiographs, so it changes how radiologists produce reports. The recent fracture cards (10-28 ChatGPT-5 wrist study, 10-29 radiographer ED study) evaluated detection, not report drafting, and no HOPPR story is in the 30-day history."
+      "rationale": "A patient-safety study run in practice: MR-AI flags specialist referrals missed in consultation notes, and it was evaluated across seven primary-care clinics. No referral-safety story is in the 30-day history."
+    },
+    {
+      "rank": 4,
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
+      "url": "https://www.nature.com/articles/s44220-026-00753-y",
+      "source": "Nature Mental Health",
+      "published_iso": "2026-10-28T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+      "excerpt": "Clinicians built AMHART to grade how AI chatbots respond to teens disclosing anxiety or depression. Testing four widely used chatbots exposed gaps in how they respond.",
+      "lang": "en",
+      "rationale": "Clinicians built and validated AMHART, a tool that grades how chatbots respond to teens who disclose anxiety or depression. They then used it to expose gaps in four widely used chatbots. The 10-12 JAMA card on a cancer-risk chatbot for young people with cancer predisposition is a different intervention and a different study."
+    },
+    {
+      "rank": 5,
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "title": "Brainomix highlights AI study on stroke drug responders",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-28T18:36:58Z",
+      "og_image": "https://img.auntminnie.com/files/base/smg/all/image/2020/08/am.2019_12_18_00_08_6648_CT_brain_stroke_400.png",
+      "excerpt": "A study using Brainomix's automated noncontrast CT analysis helped identify large hemispheric infarction patients who could benefit from intravenous glyburide.",
+      "lang": "en",
+      "rationale": "A treatment-selection result: automated noncontrast-CT analysis picked out large hemispheric infarction patients likely to benefit from IV glyburide. The AI is central to the finding, and no Brainomix or stroke-treatment-selection story is in the 30-day history. The source is a vendor-highlighted study, so the copy must attribute it."
     }
   ],
   "dedup": {
     "checks": {
-      "https://jamanetwork.com/journals/jama/fullarticle/2855989": {
+      "https://medigatenews.com/news/1453068542": {
         "verdict": "new",
-        "nearest": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
+        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014060",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s43018-026-01264-6": {
+      "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts": {
+        "verdict": "follow-up",
+        "nearest": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+        "new_action": "AMA released a new, separate framework on liability allocation (developers / health systems / physicians) for clinical AI harm, distinct from its 10-16 agentic-AI governance framework."
+      },
+      "https://www.nature.com/articles/s41746-026-03444-1": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03373-z",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide": {
+      "https://www.nature.com/articles/s44220-026-00753-y": {
         "verdict": "new",
-        "nearest": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
+        "nearest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794",
         "new_action": ""
       },
-      "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/": {
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders": {
         "verdict": "new",
-        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
-        "new_action": ""
-      },
-      "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model": {
-        "verdict": "new",
-        "nearest": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
+        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
         "new_action": ""
       }
     },
-    "note": "SWAP 2026-10-30: I removed rank 5, 'FDA clears Deep Reasoning AI's neurovascular CTA software' (AuntMinnie), because the enrichment fetch found no substantive AI content; 'AI' appears only in the company name. I replaced it with the first runner-up, the HOPPR MSK report-drafting beta (AuntMinnie). AuntMinnie still has only one card. No candidate was a same-story repeat of history_digest. NOT PICKED (topic too close to recent cards): npj fracture-detection umbrella meta-analysis, because fracture AI ran 10-28 (ChatGPT-5 wrist fractures) and 10-29 (radiographer ED study) and it is the same running theme. npj ambient-scribe adoption and NEJM AI documentation-efficiency (10-23), because AI scribes ran 10-27 (MedPage); both are distinct studies but would be a third scribe card in a week. AuntMinnie SIIM-CAIMI Apollo LLM is the third SIIM-CAIMI conference card after 10-28 and 10-29 and is related running coverage. NOT PICKED ON RANK: Counsel Health GLP-1 program (AI secondary to a LillyDirect commercial tie-up); NEJM AI SMO medulloblastoma case study (10-16, stale); 건보공단 혁신챌린지 award (award news, excluded). DROPPED ON SWAP: Deep Reasoning AI NeuroDR (AI incidental). CROSS-SECTION: no pick subject (WISeR/prior auth, OpenEvidence, Doximity, irAE agent, HOPPR) appears in the medicine 30-day history. The swap curator had only Read access and could not grep the full published_urls.json for HOPPR, so the orchestrator should exact-grep it before roll. Diversity: 5 distinct outlets (JAMA, Nature Cancer, Fierce Healthcare, Healthcare Dive, AuntMinnie). No pathogen or biosecurity content."
+    "note": "DROPPED AS DUPLICATES / FOLLOW-UPS: Radiology Business 'Radiology societies weigh in on FDA's push to regulate generative AI'. These are comments in the same FDA genAI-device comment period as the 10-23 Healthcare Dive card (developers-not-doctors accountability), so they are reactions with no new decision. STAT 'FDA, CMS scramble... state sandboxes'. This is behind-the-scenes reporting with no new decision or release, on the running state-sandbox story (10-07 Utah pilots, 10-15 lobbyists). Story_dedup had already removed the breast-MRI recurrence clearance (same as the 10-19 SimBioSys card). NOT PICKED: Deep Reasoning NeuroDR FDA clearance, already rejected on 10-30 because the enrichment fetch found AI only in the company name. Counsel Health/LillyDirect, where AI is secondary to the commercial tie-up (same call as 10-30). SIIM-CAIMI Apollo, which would be a third SIIM-CAIMI conference card after 10-28 and 10-29. Coronary plaque CCTA overview (10-19, evergreen, stale). Nature Medicine EVLF-FM (a distinct model, but a second medical VLM card soon after the 10-13 open VLM; lower rank). 숨빗AI conference talk (a talk, not a release, and close to the 10-30 HOPPR report drafting). 용인세브란스 CXR-LVEF AI (a good runner-up, held back for outlet spread). Google Singapore health hub (a partnership announcement, close to business noise). CROSS-SECTION: the gadgets section of published_urls.json has no Samsung sleep-apnea/MFDS URL, and medicine owns that story today. The other picks are nature.com, fiercehealthcare and auntminnie items that appear in no medicine history. The curator had Read-only access and did not exact-grep science/marketing for the nature.com URLs, so the orchestrator should grep before roll. Diversity: 4 outlets (메디게이트뉴스, Fierce Healthcare, nature.com x2 [npj Digital Medicine, Nature Mental Health], AuntMinnie). No pathogen or biosecurity content."
   }
 }

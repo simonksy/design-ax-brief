@@ -1,313 +1,363 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "medicine",
   "cards": [
     {
-      "id": "jama-wiser-prior-auth",
-      "source_lang": "en",
+      "id": "galaxywatch-apnea-mfds",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 사전승인 도입 뒤\nMedicare 이용 감소",
-      "body": "JAMA 분석에서 WISeR 주 경막외 주사 약 15%, 기타는 약 20% 줄었다.",
-      "mini_headline": "Medicare 속 AI 사전승인",
+      "headline": "갤럭시 워치 수면 무호흡\n중증도 판별 식약처 허가",
+      "body": "삼성 갤럭시 워치가 시간당 호흡 장애 횟수로 수면 무호흡 중증도를 구분하게 됐다.",
+      "mini_headline": "워치 무호흡\n식약처 허가",
       "tool": "Medicine",
-      "source": "JAMA",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855989",
+      "source": "메디게이트뉴스",
+      "url": "https://medigatenews.com/news/1453068542",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "University of Minnesota의 Hannah T. Neprash, PhD와 Brown University의 Michael L. Barnett, MD, MS가 쓴 Research Letter다. 사전승인은 \"임상의가 보상을 받기 전에 특정 의료 서비스의 정당성을 제출하도록 요구하는 절차\"다. 전통적 Medicare는 드문 예외를 빼고는 사전승인을 요구하지 않았다."
+            "t": "img",
+            "src": "https://medigatenews.com/file/news/537386",
+            "cap": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 수면 건강을 더욱 체계적으로 관리할 수 있도록 지원한다. 사진=삼성전자"
           },
           {
             "t": "p",
-            "x": "Center for Medicare & Medicaid Innovation의 Wasteful and Inappropriate Service Reduction(WISeR) 모델은 2026년 1월 Arizona, New Jersey, Ohio, Oklahoma, Texas, Washington에서 시작된 6년짜리 시범 사업이다. 선정된 서비스에 사전승인을 요구하고 참여자에게는 인공지능을 쓰도록 권한다. 초기 효과를 보여 주는 근거는 아직 없었다."
+            "x": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 식품의약품안전처(MFDS) 허가를 획득했다고 28일 밝혔다. 이번에 허가받은 신규 기능은 AI 알고리즘을 기반으로 수면 중 시간당 호흡 장애 횟수를 정밀 분석한다. 기존 기능은 수면 무호흡 징후의 유무만 감지했지만, 고도화된 기능은 사용자의 호흡 장애 수준을 경미, 가끔, 자주 등 3단계로 세분화해 분석한다."
           },
           {
             "t": "p",
-            "x": "연구진은 Epic Cosmos 전자건강기록 데이터로 WISeR-targeted(WISeR 대상) 서비스의 월별 이용량을 살폈다. 여섯 개 시범 주와 나머지 모든 주 및 Washington, D.C.를 나눠 시행 전 두 해와 시행 후 첫 여섯 달을 견줬다."
+            "x": "수면 무호흡증은 수면 중 호흡이 반복적으로 멈추거나 감소하는 질환으로, 고혈압, 부정맥, 뇌졸중 등 다양한 합병증을 유발할 수 있다. 미국 국립수면재단에 따르면 미국 남성의 약 25%, 여성의 10%가 수면 무호흡증을 겪고 있으나, 상당수는 이를 인지하지 못한다."
           },
           {
             "t": "p",
-            "x": "비시범 주와 비교하면 경막외 스테로이드 주사는 약 15%, 기타 대상 서비스는 약 20% 줄었다. 감소 폭은 시행 직후가 가장 컸다. 경막외 스테로이드 주사는 2026년 첫 분기에 약 21%, 두 번째 분기에 약 9% 낮았다. 기타 서비스는 21%에서 18%로 움직였다. WISeR 대상으로 예정됐다가 실제로 시행되지 않은 서비스는 유의하게 줄지 않았다."
+            "x": "사용자는 삼성 헬스 모니터 앱을 통해 해당 기능을 이용할 수 있으며, 최소 5시간 이상의 수면을 10일 이내에 두 차례 측정하면 수면 무호흡 징후를 발견할 수 있다. 이 기능은 수면 무호흡증 진단 이력이 없는 만 18세 이상을 대상으로 하며, 전문적인 의료 진단 및 상담을 대체하지 않는다."
           },
           {
             "t": "p",
-            "x": "줄어든 진료가 불필요했는지, 꼭 필요했는지는 아직 모른다. 연구진은 효과가 이어지는지와 진료의 적절성, 환자 결과, 임상의 부담, Medicare 지출을 계속 추적해야 한다고 제언한다."
+            "x": "새로운 기능은 국내에서 11월부터 갤럭시 워치 울트라2, 워치9, 갤럭시 링에서 먼저 제공되고, 이후 웨어(Wear) OS 7.0 이상을 탑재한 갤럭시 워치7, 워치8 등 기존 모델로 순차 확대된다. 삼성전자 MX사업부 헬스개발그룹 최종민 상무는 \"수면 무호흡은 일상 속에서 알아채기 어려운 징후\"라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "삼성전자의 수면 무호흡 기능은 2023년 9월 식약처의 소프트웨어 의료기기(SaMD) 허가, 2024년 2월 미국 FDA '드 노보(De Novo)' 승인, 2025년 브라질 ANVISA 승인을 받았으며, 현재 전 세계 84개국에서 제공되고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Medicare use falls after\nAI prior authorization",
-          "body": "In WISeR pilot states, epidural steroid injections fell about 15% and other targeted services about 20%, JAMA finds.",
-          "mini_headline": "AI prior auth in Medicare",
+        "ko": {
+          "headline": "갤럭시 워치 수면 무호흡\n중증도 판별 식약처 허가",
+          "body": "삼성 갤럭시 워치가 시간당 호흡 장애 횟수로 수면 무호흡 중증도를 구분하게 됐다.",
+          "mini_headline": "워치 무호흡\n식약처 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Research Letter by Hannah T. Neprash, PhD (University of Minnesota) and Michael L. Barnett, MD, MS (Brown University). Prior authorization is \"a process that requires clinicians to submit justification for specific medical services before reimbursement is offered.\" Historically, traditional Medicare has not required any prior authorization, with rare exceptions."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 수면 건강을 더욱 체계적으로 관리할 수 있도록 지원한다. 사진=삼성전자"
               },
               {
                 "t": "p",
-                "x": "The Center for Medicare & Medicaid Innovation's Wasteful and Inappropriate Service Reduction (WISeR) model, a 6-year pilot that began in January 2026 in Arizona, New Jersey, Ohio, Oklahoma, Texas and Washington, requires prior authorization for selected services and encourages participants to use artificial intelligence. There was no evidence to date on its initial impact."
+                "x": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 식품의약품안전처(MFDS) 허가를 획득했다고 28일 밝혔다. 이번에 허가받은 신규 기능은 AI 알고리즘을 기반으로 수면 중 시간당 호흡 장애 횟수를 정밀 분석한다. 기존 기능은 수면 무호흡 징후의 유무만 감지했지만, 고도화된 기능은 사용자의 호흡 장애 수준을 경미, 가끔, 자주 등 3단계로 세분화해 분석한다."
               },
               {
                 "t": "p",
-                "x": "Using Epic Cosmos electronic health record data, the authors compared monthly use of WISeR-targeted services in the six pilot states with all other states and Washington, D.C., over the two years before launch and the first six months after."
+                "x": "수면 무호흡증은 수면 중 호흡이 반복적으로 멈추거나 감소하는 질환으로, 고혈압, 부정맥, 뇌졸중 등 다양한 합병증을 유발할 수 있다. 미국 국립수면재단에 따르면 미국 남성의 약 25%, 여성의 10%가 수면 무호흡증을 겪고 있으나, 상당수는 이를 인지하지 못한다."
               },
               {
                 "t": "p",
-                "x": "Relative to nonpilot states, epidural steroid injections fell about 15% and other targeted services about 20%. The drop was largest at launch: epidural steroid injections were about 21% lower in the first quarter of 2026 and about 9% lower in the second; other services went from 21% to 18%. Services slated for WISeR but never implemented showed no significant decline."
+                "x": "사용자는 삼성 헬스 모니터 앱을 통해 해당 기능을 이용할 수 있으며, 최소 5시간 이상의 수면을 10일 이내에 두 차례 측정하면 수면 무호흡 징후를 발견할 수 있다. 이 기능은 수면 무호흡증 진단 이력이 없는 만 18세 이상을 대상으로 하며, 전문적인 의료 진단 및 상담을 대체하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Whether the forgone care was unnecessary or needed remains unknown; the authors call for tracking persistence, appropriateness of care, patient outcomes, clinician burden and Medicare spending."
+                "x": "새로운 기능은 국내에서 11월부터 갤럭시 워치 울트라2, 워치9, 갤럭시 링에서 먼저 제공되고, 이후 웨어(Wear) OS 7.0 이상을 탑재한 갤럭시 워치7, 워치8 등 기존 모델로 순차 확대된다. 삼성전자 MX사업부 헬스개발그룹 최종민 상무는 \"수면 무호흡은 일상 속에서 알아채기 어려운 징후\"라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "삼성전자의 수면 무호흡 기능은 2023년 9월 식약처의 소프트웨어 의료기기(SaMD) 허가, 2024년 2월 미국 FDA '드 노보(De Novo)' 승인, 2025년 브라질 ANVISA 승인을 받았으며, 현재 전 세계 84개국에서 제공되고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI 사전승인 도입 뒤\nMedicare 이용 감소",
-          "body": "JAMA 분석에서 WISeR 주 경막외 주사 약 15%, 기타는 약 20% 줄었다.",
-          "mini_headline": "Medicare 속 AI 사전승인",
+        "en": {
+          "headline": "Galaxy Watch gets MFDS nod\nto grade sleep apnea severity",
+          "body": "Samsung's Galaxy Watch can now grade sleep apnea severity by counting breathing disruptions per hour.",
+          "mini_headline": "Watch apnea\nMFDS approval",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Minnesota의 Hannah T. Neprash, PhD와 Brown University의 Michael L. Barnett, MD, MS가 쓴 Research Letter다. 사전승인은 \"임상의가 보상을 받기 전에 특정 의료 서비스의 정당성을 제출하도록 요구하는 절차\"다. 전통적 Medicare는 드문 예외를 빼고는 사전승인을 요구하지 않았다."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronics has upgraded the Sleep Apnea feature on the Galaxy Watch to help users manage their sleep health more systematically. Photo=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "Center for Medicare & Medicaid Innovation의 Wasteful and Inappropriate Service Reduction(WISeR) 모델은 2026년 1월 Arizona, New Jersey, Ohio, Oklahoma, Texas, Washington에서 시작된 6년짜리 시범 사업이다. 선정된 서비스에 사전승인을 요구하고 참여자에게는 인공지능을 쓰도록 권한다. 초기 효과를 보여 주는 근거는 아직 없었다."
+                "x": "Samsung Electronics said on the 28th that it has upgraded the Sleep Apnea feature on the Galaxy Watch and obtained approval from the Ministry of Food and Drug Safety (MFDS). The newly approved feature uses an AI algorithm to analyze in detail the number of breathing disruptions per hour during sleep. Whereas the previous feature only detected whether signs of sleep apnea were present, the upgraded feature breaks the user's level of breathing disruption into 3 tiers: mild, occasional and frequent."
               },
               {
                 "t": "p",
-                "x": "연구진은 Epic Cosmos 전자건강기록 데이터로 WISeR-targeted(WISeR 대상) 서비스의 월별 이용량을 살폈다. 여섯 개 시범 주와 나머지 모든 주 및 Washington, D.C.를 나눠 시행 전 두 해와 시행 후 첫 여섯 달을 견줬다."
+                "x": "Sleep apnea is a condition in which breathing repeatedly stops or decreases during sleep, and it can lead to various complications such as high blood pressure, arrhythmia and stroke. According to the U.S. National Sleep Foundation, about 25% of men and 10% of women in the U.S. have sleep apnea, but many of them are unaware of it."
               },
               {
                 "t": "p",
-                "x": "비시범 주와 비교하면 경막외 스테로이드 주사는 약 15%, 기타 대상 서비스는 약 20% 줄었다. 감소 폭은 시행 직후가 가장 컸다. 경막외 스테로이드 주사는 2026년 첫 분기에 약 21%, 두 번째 분기에 약 9% 낮았다. 기타 서비스는 21%에서 18%로 움직였다. WISeR 대상으로 예정됐다가 실제로 시행되지 않은 서비스는 유의하게 줄지 않았다."
+                "x": "Users can access the feature through the Samsung Health Monitor app, and signs of sleep apnea can be detected by measuring at least 5 hours of sleep twice within 10 days. The feature is intended for people aged 18 or older with no prior sleep apnea diagnosis and does not replace professional medical diagnosis or consultation."
               },
               {
                 "t": "p",
-                "x": "줄어든 진료가 불필요했는지, 꼭 필요했는지는 아직 모른다. 연구진은 효과가 이어지는지와 진료의 적절성, 환자 결과, 임상의 부담, Medicare 지출을 계속 추적해야 한다고 제언한다."
+                "x": "In Korea, the new feature will first be offered from November on the Galaxy Watch Ultra2, Watch9 and Galaxy Ring, then gradually extended to existing models such as the Galaxy Watch7 and Watch8 running Wear OS 7.0 or later. Choi Jong-min, vice president of the Health Development Group in Samsung Electronics' MX Business, said, \"Sleep apnea is a sign that is hard to notice in daily life.\""
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics' sleep apnea feature received software as a medical device (SaMD) approval from the MFDS in September 2023, U.S. FDA 'De Novo' authorization in February 2024 and approval from Brazil's ANVISA in 2025, and it is now available in 84 countries worldwide."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI事前承認の導入で\nMedicare利用が減少",
-          "body": "JAMAによると、WISeR試行州で硬膜外注射は約15%、他の対象は約20%減った。",
-          "mini_headline": "MedicareのAI事前承認",
+          "headline": "Galaxy Watch\n無呼吸重症度判定が承認",
+          "body": "Galaxy Watchが時間当たりの呼吸障害回数で睡眠時無呼吸の重症度を見分ける。",
+          "mini_headline": "Watch無呼吸\n食薬処が承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of MinnesotaのHannah T. Neprash, PhDとBrown UniversityのMichael L. Barnett, MD, MSによるResearch Letterである。事前承認とは「償還が行われる前に、特定の医療サービスについて臨床医に正当性の提出を求める手続き」だ。従来型のMedicareは、まれな例外を除き事前承認を一切求めてこなかった。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronicsは、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、睡眠の健康をより体系的に管理できるよう支援する。写真=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "Center for Medicare & Medicaid InnovationのWasteful and Inappropriate Service Reduction（WISeR）モデルは、2026年1月にArizona、New Jersey、Ohio、Oklahoma、Texas、Washingtonで始まった6年間の試行事業で、選定したサービスに事前承認を求め、参加者に人工知能の活用を促している。初期の影響を示す根拠はこれまでなかった。"
+                "x": "Samsung Electronicsは28日、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、食品医薬品安全処(MFDS)の承認を取得したと明らかにした。今回承認された新機能は、AIアルゴリズムに基づき睡眠中の時間当たりの呼吸障害回数を精密に分析する。従来の機能は睡眠時無呼吸の兆候の有無のみを検知していたが、高度化した機能はユーザーの呼吸障害のレベルを軽度、時々、頻繁の3段階に細分化して分析する。"
               },
               {
                 "t": "p",
-                "x": "著者らはEpic Cosmosの電子カルテデータを用い、WISeR-targeted（WISeRの対象）サービスの月間利用量を、六つの試行州と、それ以外のすべての州およびWashington, D.C.とで比較した。期間は開始前の二年間と開始後の最初の六カ月である。"
+                "x": "睡眠時無呼吸症は睡眠中に呼吸が繰り返し止まったり弱まったりする疾患で、高血圧、不整脈、脳卒中などさまざまな合併症を引き起こしうる。米国立睡眠財団によると、米国の男性の約25%、女性の10%が睡眠時無呼吸症を抱えているが、その多くは自覚していない。"
               },
               {
                 "t": "p",
-                "x": "非試行州と比べ、硬膜外ステロイド注射は約15%、他の対象サービスは約20%減った。減少は開始直後が最も大きかった。硬膜外ステロイド注射は2026年の最初の四半期に約21%、次の四半期に約9%低く、他のサービスは21%から18%に推移した。WISeRの対象に予定されながら実施されなかったサービスには有意な減少は見られなかった。"
+                "x": "ユーザーはSamsung Health Monitorアプリでこの機能を利用でき、5時間以上の睡眠を10日以内に二回測定すると睡眠時無呼吸の兆候を発見できる。この機能は睡眠時無呼吸症の診断歴がない満18歳以上を対象とし、専門的な医療診断や相談に代わるものではない。"
               },
               {
                 "t": "p",
-                "x": "見送られた医療が不要だったのか必要だったのかは、まだわからない。著者らは、効果の持続性、医療の適切性、患者アウトカム、臨床医の負担、Medicareの支出を追跡するよう求めている。"
+                "x": "新機能は韓国国内で11月からGalaxy Watch Ultra2、Watch9、Galaxy Ringで先行提供され、その後Wear OS 7.0以上を搭載したGalaxy Watch7、Watch8など既存モデルへ順次拡大される。Samsung Electronics MX事業部ヘルス開発グループのチェ・ジョンミン常務は「睡眠時無呼吸は日常の中で気づきにくい兆候だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronicsの睡眠時無呼吸機能は、2023年9月に食薬処のソフトウェア医療機器(SaMD)承認、2024年2月に米国FDAの「De Novo」承認、2025年にブラジルANVISAの承認を受け、現在世界84カ国で提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI预先授权上路后\nMedicare使用量下降",
-          "body": "JAMA发现，WISeR试点州硬膜外类固醇注射减少约15%，其他目标服务减少约20%。",
-          "mini_headline": "Medicare的AI预先授权",
+          "headline": "Galaxy Watch\n呼吸暂停分级获食药处批准",
+          "body": "Samsung Galaxy Watch可按每小时呼吸障碍次数区分睡眠呼吸暂停严重程度。",
+          "mini_headline": "手表呼吸暂停\n食药处批准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "这是University of Minnesota的Hannah T. Neprash, PhD与Brown University的Michael L. Barnett, MD, MS撰写的Research Letter。预先授权是“要求临床医生在获得报销之前，为特定医疗服务提交理由的流程”。传统Medicare历来除极少数例外，从未要求任何预先授权。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronics升级了基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，帮助用户更系统地管理睡眠健康。图片=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "Center for Medicare & Medicaid Innovation推出的Wasteful and Inappropriate Service Reduction（WISeR）模式是一项为期6年的试点，于2026年1月在Arizona、New Jersey、Ohio、Oklahoma、Texas和Washington启动，要求部分选定服务事先授权，并鼓励参与方使用人工智能。此前尚无关于其初期影响的证据。"
+                "x": "Samsung Electronics于28日表示，已升级基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，并获得食品药品安全处(MFDS)批准。此次获批的新功能基于AI算法，精确分析睡眠中每小时的呼吸障碍次数。原有功能只能检测是否存在睡眠呼吸暂停征兆，而升级后的功能可将用户的呼吸障碍程度细分为轻微、偶尔、频繁3个等级进行分析。"
               },
               {
                 "t": "p",
-                "x": "作者利用Epic Cosmos电子健康记录数据，比较了六个试点州与其他所有州及Washington, D.C.在WISeR-targeted（WISeR目标）服务上的月度使用量，时间跨度为启动前两年和启动后的头六个月。"
+                "x": "睡眠呼吸暂停症是睡眠中呼吸反复停止或减弱的疾病，可引发高血压、心律失常、中风等多种并发症。据美国国家睡眠基金会数据，美国约25%的男性和10%的女性患有睡眠呼吸暂停症，但相当一部分人并未察觉。"
               },
               {
                 "t": "p",
-                "x": "与非试点州相比，硬膜外类固醇注射减少约15%，其他目标服务减少约20%。降幅在启动之初最大：2026年第一季度硬膜外类固醇注射低约21%，第二季度低约9%；其他服务则从21%变为18%。原定纳入WISeR但从未实施的服务没有出现显著下降。"
+                "x": "用户可通过Samsung Health Monitor应用使用该功能，在10日内两次测量至少5小时的睡眠，即可发现睡眠呼吸暂停征兆。该功能面向无睡眠呼吸暂停诊断史的18周岁以上人群，不能替代专业医疗诊断和咨询。"
               },
               {
                 "t": "p",
-                "x": "被放弃的医疗究竟是不必要的还是必需的，目前仍不清楚；作者呼吁追踪效果的持续性、医疗的适当性、患者结局、临床医生负担以及Medicare支出。"
+                "x": "新功能将于11月起在韩国率先登陆Galaxy Watch Ultra2、Watch9和Galaxy Ring，随后逐步扩展至搭载Wear OS 7.0及以上版本的Galaxy Watch7、Watch8等现有机型。Samsung Electronics MX事业部健康开发组常务崔钟敏表示：“睡眠呼吸暂停是日常生活中难以察觉的征兆。”"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics的睡眠呼吸暂停功能已于2023年9月获得食药处软件医疗器械(SaMD)许可，2024年2月获得美国FDA“De Novo”批准，2025年获得巴西ANVISA批准，目前在全球84个国家提供。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cae el uso de Medicare tras la\nautorización previa con AI",
-          "body": "En los estados de WISeR, las inyecciones epidurales bajaron cerca de un 15% y otros servicios un 20%, según JAMA.",
-          "mini_headline": "Autorización previa con AI en Medicare",
+          "headline": "Galaxy Watch obtiene aval MFDS\npara medir gravedad de apnea",
+          "body": "El Galaxy Watch de Samsung ya distingue la gravedad de la apnea del sueño según los trastornos respiratorios por hora.",
+          "mini_headline": "Apnea en Watch\naval del MFDS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Research Letter de Hannah T. Neprash, PhD (University of Minnesota) y Michael L. Barnett, MD, MS (Brown University). La autorización previa es \"un proceso que exige a los clínicos presentar una justificación de determinados servicios médicos antes de que se ofrezca el reembolso\". Históricamente, Medicare tradicional no ha exigido ninguna autorización previa, salvo raras excepciones."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronics ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch para ayudar a gestionar la salud del sueño de forma más sistemática. Foto=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "El modelo Wasteful and Inappropriate Service Reduction (WISeR) del Center for Medicare & Medicaid Innovation, un piloto de 6 años que comenzó en enero de 2026 en Arizona, New Jersey, Ohio, Oklahoma, Texas y Washington, exige autorización previa para servicios seleccionados y anima a los participantes a usar inteligencia artificial. Hasta ahora no había evidencia sobre su impacto inicial."
+                "x": "Samsung Electronics anunció el día 28 que ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch y que obtuvo la aprobación del Ministerio de Seguridad de Alimentos y Medicamentos (MFDS). La nueva función aprobada analiza con precisión, mediante un algoritmo de AI, el número de trastornos respiratorios por hora durante el sueño. Mientras que la función anterior solo detectaba la presencia o ausencia de signos de apnea del sueño, la versión mejorada clasifica el nivel de trastorno respiratorio del usuario en 3 niveles: leve, ocasional y frecuente."
               },
               {
                 "t": "p",
-                "x": "Con datos de historias clínicas electrónicas de Epic Cosmos, los autores compararon el uso mensual de los servicios WISeR-targeted (objetivo de WISeR) en los seis estados piloto con el resto de los estados y Washington, D.C., durante los dos años previos al lanzamiento y los primeros seis meses posteriores."
+                "x": "La apnea del sueño es una enfermedad en la que la respiración se detiene o disminuye repetidamente durante el sueño, y puede causar diversas complicaciones, como hipertensión, arritmia e ictus. Según la Fundación Nacional del Sueño de Estados Unidos, alrededor del 25% de los hombres y el 10% de las mujeres de Estados Unidos padecen apnea del sueño, pero muchos no lo saben."
               },
               {
                 "t": "p",
-                "x": "Frente a los estados no piloto, las inyecciones epidurales de esteroides cayeron cerca de un 15% y otros servicios objetivo cerca de un 20%. La caída fue mayor al inicio: las inyecciones epidurales de esteroides fueron cerca de un 21% menores en el primer trimestre de 2026 y cerca de un 9% en el segundo; otros servicios pasaron del 21% al 18%. Los servicios previstos para WISeR que nunca se implementaron no mostraron un descenso significativo."
+                "x": "Los usuarios pueden acceder a la función a través de la app Samsung Health Monitor y detectar signos de apnea del sueño si miden al menos 5 horas de sueño dos veces en un plazo de 10 días. La función está dirigida a personas de 18 años o más sin diagnóstico previo de apnea del sueño y no sustituye el diagnóstico ni la consulta médica profesional."
               },
               {
                 "t": "p",
-                "x": "Se desconoce si la atención no prestada era innecesaria o necesaria; los autores piden seguir la persistencia del efecto, la idoneidad de la atención, los resultados de los pacientes, la carga de los clínicos y el gasto de Medicare."
+                "x": "En Corea, la nueva función se ofrecerá primero a partir de noviembre en el Galaxy Watch Ultra2, el Watch9 y el Galaxy Ring, y después se ampliará de forma progresiva a modelos existentes como el Galaxy Watch7 y el Watch8 con Wear OS 7.0 o superior. Choi Jong-min, vicepresidente del Grupo de Desarrollo de Salud de la división MX de Samsung Electronics, afirmó: \"La apnea del sueño es una señal difícil de notar en la vida diaria\"."
+              },
+              {
+                "t": "p",
+                "x": "La función de apnea del sueño de Samsung Electronics obtuvo la autorización como software de dispositivo médico (SaMD) del MFDS en septiembre de 2023, la aprobación 'De Novo' de la FDA de Estados Unidos en febrero de 2024 y la aprobación de ANVISA de Brasil en 2025, y actualmente está disponible en 84 países."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI 사전승인 후\nMedicare 이용 감소",
-          "body": "JAMA는 WISeR 주 경막외 주사 약 15%, 기타 약 20% 감소를 확인했다.",
-          "mini_headline": "Medicare의 AI 사전승인",
+        "en": {
+          "headline": "Galaxy Watch gets MFDS nod\nto grade sleep apnea severity",
+          "body": "Samsung's Galaxy Watch can now grade sleep apnea severity by counting breathing disruptions per hour.",
+          "mini_headline": "Watch apnea\nMFDS approval",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Minnesota의 Hannah T. Neprash, PhD와 Brown University의 Michael L. Barnett, MD, MS가 쓴 Research Letter다. 사전승인은 \"임상의가 보상을 받기 전에 특정 의료 서비스의 정당성을 제출하도록 요구하는 절차\"다. 전통적 Medicare는 드문 예외를 빼면 사전승인을 요구하지 않았다."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronics has upgraded the Sleep Apnea feature on the Galaxy Watch to help users manage their sleep health more systematically. Photo=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "Center for Medicare & Medicaid Innovation의 Wasteful and Inappropriate Service Reduction(WISeR) 모델은 2026년 1월 Arizona, New Jersey, Ohio, Oklahoma, Texas, Washington에서 시작된 6년 시범 사업으로, 선정된 서비스에 사전승인을 요구하고 참여자에게 인공지능 활용을 권한다. 초기 효과에 대한 근거는 지금까지 없었다."
+                "x": "Samsung Electronics said on the 28th that it has upgraded the Sleep Apnea feature on the Galaxy Watch and obtained approval from the Ministry of Food and Drug Safety (MFDS). The newly approved feature uses an AI algorithm to analyze in detail the number of breathing disruptions per hour during sleep. Whereas the previous feature only detected whether signs of sleep apnea were present, the upgraded feature breaks the user's level of breathing disruption into 3 tiers: mild, occasional and frequent."
               },
               {
                 "t": "p",
-                "x": "연구진은 Epic Cosmos 전자건강기록 데이터로 WISeR-targeted(WISeR 대상) 서비스의 월별 이용량을 여섯 개 시범 주와 나머지 모든 주 및 Washington, D.C.로 나눠 비교했다. 기간은 시행 전 두 해와 시행 후 첫 여섯 달이다."
+                "x": "Sleep apnea is a condition in which breathing repeatedly stops or decreases during sleep, and it can lead to various complications such as high blood pressure, arrhythmia and stroke. According to the U.S. National Sleep Foundation, about 25% of men and 10% of women in the U.S. have sleep apnea, but many of them are unaware of it."
               },
               {
                 "t": "p",
-                "x": "비시범 주와 비교해 경막외 스테로이드 주사는 약 15%, 기타 대상 서비스는 약 20% 줄었다. 감소 폭은 시행 직후가 가장 컸다. 경막외 스테로이드 주사는 2026년 첫 분기에 약 21%, 두 번째 분기에 약 9% 낮았고, 기타 서비스는 21%에서 18%로 바뀌었다. WISeR 대상으로 예정됐지만 실제로 시행되지 않은 서비스에서는 유의한 감소가 없었다."
+                "x": "Users can access the feature through the Samsung Health Monitor app, and signs of sleep apnea can be detected by measuring at least 5 hours of sleep twice within 10 days. The feature is intended for people aged 18 or older with no prior sleep apnea diagnosis and does not replace professional medical diagnosis or consultation."
               },
               {
                 "t": "p",
-                "x": "줄어든 진료가 불필요했는지 필요했는지는 아직 알 수 없다. 연구진은 효과의 지속성, 진료의 적절성, 환자 결과, 임상의 부담, Medicare 지출을 추적해야 한다고 제언한다."
+                "x": "In Korea, the new feature will first be offered from November on the Galaxy Watch Ultra2, Watch9 and Galaxy Ring, then gradually extended to existing models such as the Galaxy Watch7 and Watch8 running Wear OS 7.0 or later. Choi Jong-min, vice president of the Health Development Group in Samsung Electronics' MX Business, said, \"Sleep apnea is a sign that is hard to notice in daily life.\""
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics' sleep apnea feature received software as a medical device (SaMD) approval from the MFDS in September 2023, U.S. FDA 'De Novo' authorization in February 2024 and approval from Brazil's ANVISA in 2025, and it is now available in 84 countries worldwide."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI事前承認の導入で\nMedicare利用が減少",
-          "body": "JAMAによると、WISeR試行州で硬膜外注射は約15%、他の対象は約20%減った。",
-          "mini_headline": "MedicareのAI事前承認",
+          "headline": "Galaxy Watch\n無呼吸重症度判定が承認",
+          "body": "Galaxy Watchが時間当たりの呼吸障害回数で睡眠時無呼吸の重症度を見分ける。",
+          "mini_headline": "Watch無呼吸\n食薬処が承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of MinnesotaのHannah T. Neprash, PhDとBrown UniversityのMichael L. Barnett, MD, MSによるResearch Letterである。事前承認とは「償還が行われる前に、特定の医療サービスについて臨床医に正当性の提出を求める手続き」だ。従来型のMedicareは、まれな例外を除き事前承認を一切求めてこなかった。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronicsは、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、睡眠の健康をより体系的に管理できるよう支援する。写真=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "Center for Medicare & Medicaid InnovationのWasteful and Inappropriate Service Reduction（WISeR）モデルは、2026年1月にArizona、New Jersey、Ohio、Oklahoma、Texas、Washingtonで始まった6年間の試行事業で、選定したサービスに事前承認を求め、参加者に人工知能の活用を促している。初期の影響を示す根拠はこれまでなかった。"
+                "x": "Samsung Electronicsは28日、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、食品医薬品安全処(MFDS)の承認を取得したと明らかにした。今回承認された新機能は、AIアルゴリズムに基づき睡眠中の時間当たりの呼吸障害回数を精密に分析する。従来の機能は睡眠時無呼吸の兆候の有無のみを検知していたが、高度化した機能はユーザーの呼吸障害のレベルを軽度、時々、頻繁の3段階に細分化して分析する。"
               },
               {
                 "t": "p",
-                "x": "著者らはEpic Cosmosの電子カルテデータを用い、WISeR-targeted（WISeRの対象）サービスの月間利用量を、六つの試行州と、それ以外のすべての州およびWashington, D.C.とで比較した。期間は開始前の二年間と開始後の最初の六カ月である。"
+                "x": "睡眠時無呼吸症は睡眠中に呼吸が繰り返し止まったり弱まったりする疾患で、高血圧、不整脈、脳卒中などさまざまな合併症を引き起こしうる。米国立睡眠財団によると、米国の男性の約25%、女性の10%が睡眠時無呼吸症を抱えているが、その多くは自覚していない。"
               },
               {
                 "t": "p",
-                "x": "非試行州と比べ、硬膜外ステロイド注射は約15%、他の対象サービスは約20%減った。減少は開始直後が最も大きかった。硬膜外ステロイド注射は2026年の最初の四半期に約21%、次の四半期に約9%低く、他のサービスは21%から18%に推移した。WISeRの対象に予定されながら実施されなかったサービスには有意な減少は見られなかった。"
+                "x": "ユーザーはSamsung Health Monitorアプリでこの機能を利用でき、5時間以上の睡眠を10日以内に二回測定すると睡眠時無呼吸の兆候を発見できる。この機能は睡眠時無呼吸症の診断歴がない満18歳以上を対象とし、専門的な医療診断や相談に代わるものではない。"
               },
               {
                 "t": "p",
-                "x": "見送られた医療が不要だったのか必要だったのかは、まだわからない。著者らは、効果の持続性、医療の適切性、患者アウトカム、臨床医の負担、Medicareの支出を追跡するよう求めている。"
+                "x": "新機能は韓国国内で11月からGalaxy Watch Ultra2、Watch9、Galaxy Ringで先行提供され、その後Wear OS 7.0以上を搭載したGalaxy Watch7、Watch8など既存モデルへ順次拡大される。Samsung Electronics MX事業部ヘルス開発グループのチェ・ジョンミン常務は「睡眠時無呼吸は日常の中で気づきにくい兆候だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronicsの睡眠時無呼吸機能は、2023年9月に食薬処のソフトウェア医療機器(SaMD)承認、2024年2月に米国FDAの「De Novo」承認、2025年にブラジルANVISAの承認を受け、現在世界84カ国で提供されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI预先授权上路后\nMedicare使用量下降",
-          "body": "JAMA发现，WISeR试点州硬膜外类固醇注射减少约15%，其他目标服务减少约20%。",
-          "mini_headline": "Medicare的AI预先授权",
+          "headline": "Galaxy Watch\n呼吸暂停分级获食药处批准",
+          "body": "Samsung Galaxy Watch可按每小时呼吸障碍次数区分睡眠呼吸暂停严重程度。",
+          "mini_headline": "手表呼吸暂停\n食药处批准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "这是University of Minnesota的Hannah T. Neprash, PhD与Brown University的Michael L. Barnett, MD, MS撰写的Research Letter。预先授权是“要求临床医生在获得报销之前，为特定医疗服务提交理由的流程”。传统Medicare历来除极少数例外，从未要求任何预先授权。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronics升级了基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，帮助用户更系统地管理睡眠健康。图片=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "Center for Medicare & Medicaid Innovation推出的Wasteful and Inappropriate Service Reduction（WISeR）模式是一项为期6年的试点，于2026年1月在Arizona、New Jersey、Ohio、Oklahoma、Texas和Washington启动，要求部分选定服务事先授权，并鼓励参与方使用人工智能。此前尚无关于其初期影响的证据。"
+                "x": "Samsung Electronics于28日表示，已升级基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，并获得食品药品安全处(MFDS)批准。此次获批的新功能基于AI算法，精确分析睡眠中每小时的呼吸障碍次数。原有功能只能检测是否存在睡眠呼吸暂停征兆，而升级后的功能可将用户的呼吸障碍程度细分为轻微、偶尔、频繁3个等级进行分析。"
               },
               {
                 "t": "p",
-                "x": "作者利用Epic Cosmos电子健康记录数据，比较了六个试点州与其他所有州及Washington, D.C.在WISeR-targeted（WISeR目标）服务上的月度使用量，时间跨度为启动前两年和启动后的头六个月。"
+                "x": "睡眠呼吸暂停症是睡眠中呼吸反复停止或减弱的疾病，可引发高血压、心律失常、中风等多种并发症。据美国国家睡眠基金会数据，美国约25%的男性和10%的女性患有睡眠呼吸暂停症，但相当一部分人并未察觉。"
               },
               {
                 "t": "p",
-                "x": "与非试点州相比，硬膜外类固醇注射减少约15%，其他目标服务减少约20%。降幅在启动之初最大：2026年第一季度硬膜外类固醇注射低约21%，第二季度低约9%；其他服务则从21%变为18%。原定纳入WISeR但从未实施的服务没有出现显著下降。"
+                "x": "用户可通过Samsung Health Monitor应用使用该功能，在10日内两次测量至少5小时的睡眠，即可发现睡眠呼吸暂停征兆。该功能面向无睡眠呼吸暂停诊断史的18周岁以上人群，不能替代专业医疗诊断和咨询。"
               },
               {
                 "t": "p",
-                "x": "被放弃的医疗究竟是不必要的还是必需的，目前仍不清楚；作者呼吁追踪效果的持续性、医疗的适当性、患者结局、临床医生负担以及Medicare支出。"
+                "x": "新功能将于11月起在韩国率先登陆Galaxy Watch Ultra2、Watch9和Galaxy Ring，随后逐步扩展至搭载Wear OS 7.0及以上版本的Galaxy Watch7、Watch8等现有机型。Samsung Electronics MX事业部健康开发组常务崔钟敏表示：“睡眠呼吸暂停是日常生活中难以察觉的征兆。”"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics的睡眠呼吸暂停功能已于2023年9月获得食药处软件医疗器械(SaMD)许可，2024年2月获得美国FDA“De Novo”批准，2025年获得巴西ANVISA批准，目前在全球84个国家提供。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cae el uso de Medicare tras la\nautorización previa con AI",
-          "body": "En los estados de WISeR, las inyecciones epidurales bajaron cerca de un 15% y otros servicios un 20%, según JAMA.",
-          "mini_headline": "Autorización previa con AI en Medicare",
+          "headline": "Galaxy Watch obtiene aval MFDS\npara medir gravedad de apnea",
+          "body": "El Galaxy Watch de Samsung ya distingue la gravedad de la apnea del sueño según los trastornos respiratorios por hora.",
+          "mini_headline": "Apnea en Watch\naval del MFDS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Research Letter de Hannah T. Neprash, PhD (University of Minnesota) y Michael L. Barnett, MD, MS (Brown University). La autorización previa es \"un proceso que exige a los clínicos presentar una justificación de determinados servicios médicos antes de que se ofrezca el reembolso\". Históricamente, Medicare tradicional no ha exigido ninguna autorización previa, salvo raras excepciones."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537386",
+                "cap": "Samsung Electronics ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch para ayudar a gestionar la salud del sueño de forma más sistemática. Foto=Samsung Electronics"
               },
               {
                 "t": "p",
-                "x": "El modelo Wasteful and Inappropriate Service Reduction (WISeR) del Center for Medicare & Medicaid Innovation, un piloto de 6 años que comenzó en enero de 2026 en Arizona, New Jersey, Ohio, Oklahoma, Texas y Washington, exige autorización previa para servicios seleccionados y anima a los participantes a usar inteligencia artificial. Hasta ahora no había evidencia sobre su impacto inicial."
+                "x": "Samsung Electronics anunció el día 28 que ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch y que obtuvo la aprobación del Ministerio de Seguridad de Alimentos y Medicamentos (MFDS). La nueva función aprobada analiza con precisión, mediante un algoritmo de AI, el número de trastornos respiratorios por hora durante el sueño. Mientras que la función anterior solo detectaba la presencia o ausencia de signos de apnea del sueño, la versión mejorada clasifica el nivel de trastorno respiratorio del usuario en 3 niveles: leve, ocasional y frecuente."
               },
               {
                 "t": "p",
-                "x": "Con datos de historias clínicas electrónicas de Epic Cosmos, los autores compararon el uso mensual de los servicios WISeR-targeted (objetivo de WISeR) en los seis estados piloto con el resto de los estados y Washington, D.C., durante los dos años previos al lanzamiento y los primeros seis meses posteriores."
+                "x": "La apnea del sueño es una enfermedad en la que la respiración se detiene o disminuye repetidamente durante el sueño, y puede causar diversas complicaciones, como hipertensión, arritmia e ictus. Según la Fundación Nacional del Sueño de Estados Unidos, alrededor del 25% de los hombres y el 10% de las mujeres de Estados Unidos padecen apnea del sueño, pero muchos no lo saben."
               },
               {
                 "t": "p",
-                "x": "Frente a los estados no piloto, las inyecciones epidurales de esteroides cayeron cerca de un 15% y otros servicios objetivo cerca de un 20%. La caída fue mayor al inicio: las inyecciones epidurales de esteroides fueron cerca de un 21% menores en el primer trimestre de 2026 y cerca de un 9% en el segundo; otros servicios pasaron del 21% al 18%. Los servicios previstos para WISeR que nunca se implementaron no mostraron un descenso significativo."
+                "x": "Los usuarios pueden acceder a la función a través de la app Samsung Health Monitor y detectar signos de apnea del sueño si miden al menos 5 horas de sueño dos veces en un plazo de 10 días. La función está dirigida a personas de 18 años o más sin diagnóstico previo de apnea del sueño y no sustituye el diagnóstico ni la consulta médica profesional."
               },
               {
                 "t": "p",
-                "x": "Se desconoce si la atención no prestada era innecesaria o necesaria; los autores piden seguir la persistencia del efecto, la idoneidad de la atención, los resultados de los pacientes, la carga de los clínicos y el gasto de Medicare."
+                "x": "En Corea, la nueva función se ofrecerá primero a partir de noviembre en el Galaxy Watch Ultra2, el Watch9 y el Galaxy Ring, y después se ampliará de forma progresiva a modelos existentes como el Galaxy Watch7 y el Watch8 con Wear OS 7.0 o superior. Choi Jong-min, vicepresidente del Grupo de Desarrollo de Salud de la división MX de Samsung Electronics, afirmó: \"La apnea del sueño es una señal difícil de notar en la vida diaria\"."
+              },
+              {
+                "t": "p",
+                "x": "La función de apnea del sueño de Samsung Electronics obtuvo la autorización como software de dispositivo médico (SaMD) del MFDS en septiembre de 2023, la aprobación 'De Novo' de la FDA de Estados Unidos en febrero de 2024 y la aprobación de ANVISA de Brasil en 2025, y actualmente está disponible en 84 países."
               }
             ]
           }
@@ -315,201 +365,165 @@
       }
     },
     {
-      "id": "nature-cancer-irae-agent",
+      "id": "ama-clinical-ai-liability",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "면역항암제 부작용\nAI 에이전트가 잡는다",
-      "body": "연구진이 면역항암제 이상반응 탐지를 돕는 AI 에이전트를 단계별로 검증했다.",
-      "mini_headline": "irAEs 찾아내는 AI 에이전트",
+      "headline": "임상 AI 피해 책임\nAMA가 분담 기준 제시",
+      "body": "임상 AI 피해 책임을 개발사·의료기관·의사가 어떻게 나눌지 AMA가 정리했다.",
+      "mini_headline": "AMA 임상\nAI 책임론",
       "tool": "Medicine",
-      "source": "Nature Cancer",
-      "url": "https://www.nature.com/articles/s43018-026-01264-6",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "면역 관련 이상반응(irAEs)은 면역관문억제제를 투여받는 환자의 최대 40%에서 나타난다. 그런데 이를 찾으려면 손이 많이 들고 결과도 들쭉날쭉한 수작업 차트 검토에 기대야 한다. 저자들은 에이전트형 대규모 언어모델 시스템을 만들어 평가했다. 임상 기록에서 여섯 가지 irAE 유형의 유무와 시간적 관계, 중증도 등급, 인과 귀속, 확실성을 뽑아내는 시스템이다."
-          },
-          {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-            "cap": "Fig. 1: LLM-based 에이전트형 irAE 탐지 시스템을 여러 차원에서 검증하는 프레임워크."
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
           },
           {
             "t": "p",
-            "x": "후향적 평가에서 시스템은 현재 이벤트 탐지 매크로 평균 F1 0.92, 다중 클래스 중증도 등급 분류 0.66을 기록했다. 자기일관성 기법을 더하자 F1이 0.14 올랐다. 가장 성능이 좋은 구성은 기록 한 건에 약 US$0.02가 들었다. 3개월 동안 전향적 무표시 배치를 했을 때 이진 F1은 0.72–0.79였다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-            "cap": "Fig. 2: irAE 탐지와 등급 분류, 인과 귀속, 확실성 평가를 맡는 다단계 에이전트형 아키텍처."
+            "x": "미국의사협회(American Medical Association, AMA)는 목요일, 최근 내놓은 임상 AI 거버넌스 지침을 바탕으로 이 기술을 둘러싼 결정·행위·실패의 책임을 당사자별로 어떻게 나눌지 더 자세히 정리해 내놨다. AMA 산하 Center for Digital Health and AI가 만든 이 프레임워크는 기존 체계가 답하지 못한 책임 문제를 겨냥한다. AMA는 이 공백 탓에 의사는 \"합리적으로 막을 수 없는 위험에 대해 책임을 지는 반면, 환자는 AI가 피해를 일으켰을 때 구제를 받기 어려울 수 있다\"고 설명했다."
           },
           {
             "t": "p",
-            "x": "임상시험 인력이 참여한 무작위 교차 연구에서는 에이전트의 도움을 받자 주석 작업 시간이 2.71분 줄었다(P < 0.001). 완전 일치 정확도도 높아졌고(오즈비 1.45; 95% 신뢰구간 1.01–2.08; P = 0.045) 주석자 간 일치도는 Krippendorff's α 0.22–0.51에서 0.82–0.85로 올랐다."
+            "x": "이 프레임워크는 \"문제가 생겼을 때 AI 사용에 대해 여러 당사자가 책임을 질 수 있음을 인정\"하고, 책임의 크기를 당사자마다 피해를 막을 수 있는 능력에 맞췄다. 의사는 \"시스템의 사용 목적, 알려진 한계, 진료 현장에서 얻을 수 있는 정보를 바탕으로 의미 있게 행사할 수 있는 임상적 판단에 책임을 져야\" 한다. 검증되지 않은 AI 시스템은 불이익 없이 거부할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "AMA 회장 Willie Underwood III, M.D.는 \"AI가 더 많은 임상 기능을 맡게 되면서 개발사, 의료기관, 의사 모두 각자 중요한 책임을 진다\"고 말했다. 이번 책임 프레임워크는 AMA가 이달 초 공개한 더 넓은 임상 AI 거버넌스 프레임워크 가운데 한 측면을 구체화했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An AI agent helps catch\nimmunotherapy side effects",
-          "body": "A multi-phase study validates an AI agent that helps clinicians detect immune-related adverse events of immunotherapy.",
-          "mini_headline": "AI agent flags irAEs",
+          "headline": "AMA maps who is liable\nwhen clinical AI causes harm",
+          "body": "The AMA set out how developers, health systems and physicians should share liability when clinical AI causes harm.",
+          "mini_headline": "AMA on clinical\nAI liability",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Immune-related adverse events (irAEs) affect up to 40% of patients receiving immune checkpoint inhibitors, yet identification requires laborious, inconsistent manual chart review. The authors developed and evaluated an agentic large language model system to extract the presence, temporality, severity grade, attribution and certainty of six irAE types from clinical notes."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: Multi-dimensional validation framework for an agentic LLM-based irAE detection system."
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "Retrospectively, the system achieved a macro-averaged F1 of 0.92 for current-event detection and 0.66 for multi-class severity grading; self-consistency improved F1 by 0.14. The best-performing configuration cost approximately US$0.02 per note. In prospective silent deployment over 3 months, the binary F1 was 0.72–0.79."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: Multi-stage agentic architecture for irAE detection, grading, attribution and certainty assessment."
+                "x": "Building on its recent guidance for clinical AI governance, the American Medical Association on Thursday gave a deeper breakdown of how different parties should be responsible for decisions, actions and failures involving the technology. The framework from AMA's Center for Digital Health and AI addresses liability issues it said existing frameworks leave unanswered, which could leave physicians facing \"liability for risks they cannot reasonably prevent, while patients may struggle to seek remedies when AI causes harm.\""
               },
               {
                 "t": "p",
-                "x": "In a randomized crossover study of clinical trial staff, agentic assistance reduced annotation time by 2.71 min (P < 0.001), increased complete-match accuracy (odds ratio 1.45; 95% confidence interval 1.01–2.08; P = 0.045) and improved interannotator agreement (Krippendorff's α from 0.22–0.51 to 0.82–0.85)."
+                "x": "The framework \"recognizes that multiple parties may bear liability for the use of AI when something goes wrong,\" aligning accountability with a party's ability to prevent harm. Physicians should \"be responsible for the clinical judgment they can meaningfully exercise, based on the system's intended use, known limitations and the information available at the point of care,\" and may decline an unproven AI system without penalty."
+              },
+              {
+                "t": "p",
+                "x": "\"As AI assumes more clinical functions, developers, healthcare organizations and physicians each have important responsibilities,\" said AMA President Willie Underwood III, M.D. The liability framework details one aspect of a broader clinical AI governance framework AMA unveiled earlier this month."
               }
             ]
           }
         },
         "ko": {
-          "headline": "면역항암제 부작용\nAI 에이전트가 잡는다",
-          "body": "연구진이 면역항암제 이상반응 탐지를 돕는 AI 에이전트를 단계별로 검증했다.",
-          "mini_headline": "irAEs 찾아내는 AI 에이전트",
+          "headline": "임상 AI 피해 책임\nAMA가 분담 기준 제시",
+          "body": "임상 AI 피해 책임을 개발사·의료기관·의사가 어떻게 나눌지 AMA가 정리했다.",
+          "mini_headline": "AMA 임상\nAI 책임론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "면역 관련 이상반응(irAEs)은 면역관문억제제를 투여받는 환자의 최대 40%에서 나타난다. 그런데 이를 찾으려면 손이 많이 들고 결과도 들쭉날쭉한 수작업 차트 검토에 기대야 한다. 저자들은 에이전트형 대규모 언어모델 시스템을 만들어 평가했다. 임상 기록에서 여섯 가지 irAE 유형의 유무와 시간적 관계, 중증도 등급, 인과 귀속, 확실성을 뽑아내는 시스템이다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: LLM-based 에이전트형 irAE 탐지 시스템을 여러 차원에서 검증하는 프레임워크."
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "후향적 평가에서 시스템은 현재 이벤트 탐지 매크로 평균 F1 0.92, 다중 클래스 중증도 등급 분류 0.66을 기록했다. 자기일관성 기법을 더하자 F1이 0.14 올랐다. 가장 성능이 좋은 구성은 기록 한 건에 약 US$0.02가 들었다. 3개월 동안 전향적 무표시 배치를 했을 때 이진 F1은 0.72–0.79였다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: irAE 탐지와 등급 분류, 인과 귀속, 확실성 평가를 맡는 다단계 에이전트형 아키텍처."
+                "x": "미국의사협회(American Medical Association, AMA)는 목요일, 최근 내놓은 임상 AI 거버넌스 지침을 바탕으로 이 기술을 둘러싼 결정·행위·실패의 책임을 당사자별로 어떻게 나눌지 더 자세히 정리해 내놨다. AMA 산하 Center for Digital Health and AI가 만든 이 프레임워크는 기존 체계가 답하지 못한 책임 문제를 겨냥한다. AMA는 이 공백 탓에 의사는 \"합리적으로 막을 수 없는 위험에 대해 책임을 지는 반면, 환자는 AI가 피해를 일으켰을 때 구제를 받기 어려울 수 있다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "임상시험 인력이 참여한 무작위 교차 연구에서는 에이전트의 도움을 받자 주석 작업 시간이 2.71분 줄었다(P < 0.001). 완전 일치 정확도도 높아졌고(오즈비 1.45; 95% 신뢰구간 1.01–2.08; P = 0.045) 주석자 간 일치도는 Krippendorff's α 0.22–0.51에서 0.82–0.85로 올랐다."
+                "x": "이 프레임워크는 \"문제가 생겼을 때 AI 사용에 대해 여러 당사자가 책임을 질 수 있음을 인정\"하고, 책임의 크기를 당사자마다 피해를 막을 수 있는 능력에 맞췄다. 의사는 \"시스템의 사용 목적, 알려진 한계, 진료 현장에서 얻을 수 있는 정보를 바탕으로 의미 있게 행사할 수 있는 임상적 판단에 책임을 져야\" 한다. 검증되지 않은 AI 시스템은 불이익 없이 거부할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AMA 회장 Willie Underwood III, M.D.는 \"AI가 더 많은 임상 기능을 맡게 되면서 개발사, 의료기관, 의사 모두 각자 중요한 책임을 진다\"고 말했다. 이번 책임 프레임워크는 AMA가 이달 초 공개한 더 넓은 임상 AI 거버넌스 프레임워크 가운데 한 측면을 구체화했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが\n免疫療法の副作用発見を支援",
-          "body": "多段階研究が、臨床医の免疫関連有害事象の検出を助けるAIエージェントを検証した。",
-          "mini_headline": "irAEsを捉えるAIエージェント",
+          "headline": "臨床AIの害は誰の責任か\nAMAが分担の枠組み",
+          "body": "AMAは臨床AIが害を及ぼした際の開発者・医療機関・医師の責任分担を示した。",
+          "mini_headline": "臨床AIの\n責任でAMA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "免疫関連有害事象（irAEs）は免疫チェックポイント阻害薬を投与された患者の最大40%に起こるが、その特定には手間がかかり一貫性にも欠ける手作業のカルテレビューが必要だ。著者らは、臨床記録から六種類のirAEについて有無、時間的関係、重症度グレード、帰属、確実性を抽出するエージェント型大規模言語モデルシステムを開発し、評価した。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: LLM-basedのエージェント型irAE検出システムに対する多次元検証フレームワーク。"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "後ろ向き評価では、現在のイベント検出でマクロ平均F1が0.92、多クラスの重症度グレード分類で0.66を達成し、自己一貫性によってF1は0.14向上した。最も性能の高い構成のコストはノートあたり約US$0.02だった。3か月間の前向きサイレント運用では、二値F1は0.72–0.79だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: irAEの検出、グレード分類、帰属、確実性評価のための多段階エージェント型アーキテクチャ。"
+                "x": "米国医師会(American Medical Association、AMA)は木曜日、臨床AIのガバナンスに関する最近の指針を踏まえ、この技術が関わる判断、行為、失敗について各当事者がどう責任を負うべきかをより詳しく示した。AMAのCenter for Digital Health and AIがまとめたこの枠組みは、既存の枠組みが答えていないとする責任の問題を扱う。このままでは医師が「合理的に防げないリスクの責任を負う一方、AIが害を及ぼした際に患者が救済を求めにくくなる」おそれがあるという。"
               },
               {
                 "t": "p",
-                "x": "臨床試験スタッフを対象としたランダム化クロスオーバー試験で、エージェントによる支援はアノテーション時間を2.71分短縮し（P < 0.001）、完全一致の正確度を高め（オッズ比1.45、95%信頼区間1.01–2.08、P = 0.045）、アノテーター間の一致度を改善した（Krippendorff's αは0.22–0.51から0.82–0.85へ）。"
+                "x": "この枠組みは「問題が起きたとき、AIの利用について複数の当事者が責任を負いうることを認める」もので、説明責任を各当事者が害を防ぐ能力に合わせる。医師は「システムの想定用途、既知の限界、診療の場で得られる情報に基づき、実質的に行使できる臨床判断について責任を負う」べきだとし、実証されていないAIシステムは不利益なく拒否できるとした。"
+              },
+              {
+                "t": "p",
+                "x": "AMA会長のWillie Underwood III, M.D.は「AIがより多くの臨床機能を担うにつれ、開発者、医療機関、医師のそれぞれが重要な責任を持つ」と述べた。今回の責任の枠組みは、AMAが今月初めに公表したより広範な臨床AIガバナンスの枠組みの一側面を詳しく示したものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体助力发现\n免疫治疗副作用",
-          "body": "一项多阶段研究验证了一款AI智能体，可帮助临床医生发现免疫治疗的免疫相关不良事件。",
-          "mini_headline": "AI智能体识别irAEs",
+          "headline": "临床AI致害谁担责\nAMA提出责任分担框架",
+          "body": "AMA提出了临床AI造成伤害时开发者、医疗系统和医生应如何分担责任。",
+          "mini_headline": "AMA谈临床\nAI责任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "免疫相关不良事件（irAEs）影响多达40%接受免疫检查点抑制剂治疗的患者，但识别这些事件需要费时费力且标准不一的人工病历审查。作者开发并评估了一套智能体式大语言模型系统，用于从临床记录中提取六类irAE的存在与否、时间关系、严重程度分级、归因和确定性。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: LLM-based智能体式irAE检测系统的多维验证框架。"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "在回顾性评估中，该系统在当前事件检测上的宏平均F1为0.92，在多类别严重程度分级上为0.66；自洽性使F1提高0.14。表现最佳的配置每份记录成本约US$0.02。在为期3个月的前瞻性静默部署中，二分类F1为0.72–0.79。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: 用于irAE检测、分级、归因和确定性评估的多阶段智能体架构。"
+                "x": "美国医学会(American Medical Association，AMA)周四在其近期发布的临床AI治理指南基础上，进一步细化了各方应如何对涉及该技术的决策、行为和失误承担责任。该框架由AMA的Center for Digital Health and AI制定，针对其所称现有框架未能解答的责任问题。AMA指出，这可能使医生面临“对其无法合理预防的风险承担责任，而当AI造成伤害时，患者可能难以寻求救济”。"
               },
               {
                 "t": "p",
-                "x": "在一项针对临床试验人员的随机交叉研究中，智能体辅助使标注时间缩短2.71分钟（P < 0.001），提高了完全匹配准确率（比值比1.45；95%置信区间1.01–2.08；P = 0.045），并改善了标注者间一致性（Krippendorff's α从0.22–0.51升至0.82–0.85）。"
+                "x": "该框架“承认在出现问题时，多方可能需要对AI的使用承担责任”，并将问责与各方预防伤害的能力相对应。医生应“对其能够切实行使的临床判断负责，依据是系统的预期用途、已知局限以及诊疗现场可获得的信息”，并可拒绝未经验证的AI系统而不受处罚。"
+              },
+              {
+                "t": "p",
+                "x": "AMA主席Willie Underwood III, M.D.表示：“随着AI承担更多临床职能，开发者、医疗机构和医生各自都负有重要责任。”这一责任框架细化了AMA本月早些时候公布的更广泛的临床AI治理框架中的一个方面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un agente de AI ayuda a captar\nefectos de la inmunoterapia",
-          "body": "Un estudio en varias fases valida un agente de AI que ayuda a los clínicos a detectar efectos adversos inmunitarios.",
-          "mini_headline": "Un agente de AI detecta irAEs",
+          "headline": "La AMA define quién responde\nsi la AI clínica causa daño",
+          "body": "La AMA fijó cómo repartir la responsabilidad entre desarrolladores, sistemas de salud y médicos si la AI clínica daña.",
+          "mini_headline": "La AMA y la\nresponsabilidad de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los eventos adversos inmunorrelacionados (irAEs) afectan hasta al 40% de los pacientes que reciben inhibidores de puntos de control inmunitario, pero identificarlos exige una revisión manual de historias clínicas laboriosa e inconsistente. Los autores desarrollaron y evaluaron un sistema agéntico basado en modelos de lenguaje de gran tamaño para extraer de las notas clínicas la presencia, la temporalidad, el grado de gravedad, la atribución y la certeza de seis tipos de irAE."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: Marco de validación multidimensional para un sistema agéntico de detección de irAE LLM-based."
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "De forma retrospectiva, el sistema alcanzó un F1 macropromediado de 0.92 en la detección de eventos actuales y de 0.66 en la gradación de gravedad multiclase; la autoconsistencia mejoró el F1 en 0.14. La configuración con mejor rendimiento costó aproximadamente US$0.02 por nota. En un despliegue prospectivo silencioso durante 3 meses, el F1 binario fue de 0.72–0.79."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: Arquitectura agéntica multietapa para la detección, gradación, atribución y evaluación de certeza de irAE."
+                "x": "Sobre la base de su reciente guía para la gobernanza de la AI clínica, la American Medical Association detalló el jueves con mayor profundidad cómo deben responder las distintas partes por las decisiones, acciones y fallos relacionados con esta tecnología. El marco del Center for Digital Health and AI de la AMA aborda cuestiones de responsabilidad que, según afirmó, los marcos existentes dejan sin resolver, lo que podría exponer a los médicos a una \"responsabilidad por riesgos que no pueden prevenir razonablemente, mientras que los pacientes pueden tener dificultades para obtener reparación cuando la AI causa daño\"."
               },
               {
                 "t": "p",
-                "x": "En un estudio cruzado aleatorizado con personal de ensayos clínicos, la asistencia agéntica redujo el tiempo de anotación en 2.71 min (P < 0.001), aumentó la exactitud de coincidencia completa (odds ratio 1.45; intervalo de confianza del 95% 1.01–2.08; P = 0.045) y mejoró la concordancia entre anotadores (Krippendorff's α de 0.22–0.51 a 0.82–0.85)."
+                "x": "El marco \"reconoce que varias partes pueden ser responsables del uso de la AI cuando algo sale mal\" y vincula la rendición de cuentas con la capacidad de cada parte para prevenir el daño. Los médicos deben \"ser responsables del juicio clínico que pueden ejercer de manera significativa, según el uso previsto del sistema, sus limitaciones conocidas y la información disponible en el punto de atención\", y pueden rechazar un sistema de AI no probado sin sufrir sanciones."
+              },
+              {
+                "t": "p",
+                "x": "\"A medida que la AI asume más funciones clínicas, los desarrolladores, las organizaciones sanitarias y los médicos tienen cada uno responsabilidades importantes\", dijo el presidente de la AMA, Willie Underwood III, M.D. El marco de responsabilidad detalla un aspecto de un marco más amplio de gobernanza de la AI clínica que la AMA presentó a principios de este mes."
               }
             ]
           }
@@ -517,129 +531,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트가 돕는\n면역항암제 부작용 포착",
-          "body": "다단계 연구가 의료진의 면역항암제 이상반응 탐지를 돕는 AI 에이전트를 검증했다.",
-          "mini_headline": "irAEs 잡는 AI 에이전트",
+          "headline": "임상 AI 피해 책임\nAMA가 분담 기준 제시",
+          "body": "AMA가 임상 AI 피해 시 개발사·의료기관·의사의 책임 분담 방식을 제시했다.",
+          "mini_headline": "AMA 임상\nAI 책임론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "면역 관련 이상반응(irAEs)은 면역관문억제제를 투여받는 환자의 최대 40%에서 나타나지만, 이를 찾아내려면 손이 많이 가고 일관성도 떨어지는 수작업 차트 검토가 필요하다. 저자들은 임상 기록에서 여섯 가지 irAE 유형의 유무, 시간적 관계, 중증도 등급, 인과 귀속, 확실성을 추출하는 에이전트형 대규모 언어모델 시스템을 개발해 평가했다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: LLM-based 에이전트형 irAE 탐지 시스템의 다차원 검증 프레임워크."
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "후향적 평가에서 이 시스템은 현재 이벤트 탐지에서 매크로 평균 F1 0.92, 다중 클래스 중증도 등급 분류에서 0.66을 기록했고, 자기일관성 기법은 F1을 0.14 끌어올렸다. 성능이 가장 좋은 구성의 비용은 기록 한 건당 약 US$0.02였다. 3개월간의 전향적 무표시 배치에서 이진 F1은 0.72–0.79였다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: irAE 탐지, 등급 분류, 인과 귀속, 확실성 평가를 위한 다단계 에이전트형 아키텍처."
+                "x": "미국의사협회(American Medical Association, AMA)는 목요일, 최근 내놓은 임상 AI 거버넌스 지침을 바탕으로 이 기술과 관련된 결정, 행위, 실패에 대해 각 당사자가 어떻게 책임을 나눠야 하는지 더 자세히 정리해 내놨다. AMA 산하 Center for Digital Health and AI가 만든 이 프레임워크는 기존 체계가 답하지 못한 책임 문제를 다룬다. AMA는 이 공백 탓에 의사는 \"합리적으로 막을 수 없는 위험에 대해 책임을 지는 반면, 환자는 AI가 피해를 일으켰을 때 구제를 받기 어려울 수 있다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "임상시험 인력을 대상으로 한 무작위 교차 연구에서 에이전트 보조는 주석 작업 시간을 2.71분 줄였고(P < 0.001), 완전 일치 정확도를 높였으며(오즈비 1.45; 95% 신뢰구간 1.01–2.08; P = 0.045), 주석자 간 일치도를 개선했다(Krippendorff's α 0.22–0.51에서 0.82–0.85로)."
+                "x": "이 프레임워크는 \"문제가 생겼을 때 AI 사용에 대해 여러 당사자가 책임을 질 수 있음을 인정\"하며, 책임을 각 당사자의 피해 예방 능력에 맞춘다. 의사는 \"시스템의 사용 목적, 알려진 한계, 진료 현장에서 얻을 수 있는 정보를 바탕으로 의미 있게 행사할 수 있는 임상적 판단에 책임을 져야\" 하며, 검증되지 않은 AI 시스템은 불이익 없이 거부할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AMA 회장 Willie Underwood III, M.D.는 \"AI가 더 많은 임상 기능을 맡게 되면서 개발사, 의료기관, 의사 모두 각자 중요한 책임을 진다\"고 말했다. 이번 책임 프레임워크는 AMA가 이달 초 공개한 더 넓은 임상 AI 거버넌스 프레임워크의 한 측면을 구체화한 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが\n免疫療法の副作用発見を支援",
-          "body": "多段階研究が、臨床医の免疫関連有害事象の検出を助けるAIエージェントを検証した。",
-          "mini_headline": "irAEsを捉えるAIエージェント",
+          "headline": "臨床AIの害は誰の責任か\nAMAが分担の枠組み",
+          "body": "AMAは臨床AIが害を及ぼした際の開発者・医療機関・医師の責任分担を示した。",
+          "mini_headline": "臨床AIの\n責任でAMA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "免疫関連有害事象（irAEs）は免疫チェックポイント阻害薬を投与された患者の最大40%に起こるが、その特定には手間がかかり一貫性にも欠ける手作業のカルテレビューが必要だ。著者らは、臨床記録から六種類のirAEについて有無、時間的関係、重症度グレード、帰属、確実性を抽出するエージェント型大規模言語モデルシステムを開発し、評価した。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: LLM-basedのエージェント型irAE検出システムに対する多次元検証フレームワーク。"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "後ろ向き評価では、現在のイベント検出でマクロ平均F1が0.92、多クラスの重症度グレード分類で0.66を達成し、自己一貫性によってF1は0.14向上した。最も性能の高い構成のコストはノートあたり約US$0.02だった。3か月間の前向きサイレント運用では、二値F1は0.72–0.79だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: irAEの検出、グレード分類、帰属、確実性評価のための多段階エージェント型アーキテクチャ。"
+                "x": "米国医師会(American Medical Association、AMA)は木曜日、臨床AIのガバナンスに関する最近の指針を踏まえ、この技術が関わる判断、行為、失敗について各当事者がどう責任を負うべきかをより詳しく示した。AMAのCenter for Digital Health and AIがまとめたこの枠組みは、既存の枠組みが答えていないとする責任の問題を扱う。このままでは医師が「合理的に防げないリスクの責任を負う一方、AIが害を及ぼした際に患者が救済を求めにくくなる」おそれがあるという。"
               },
               {
                 "t": "p",
-                "x": "臨床試験スタッフを対象としたランダム化クロスオーバー試験で、エージェントによる支援はアノテーション時間を2.71分短縮し（P < 0.001）、完全一致の正確度を高め（オッズ比1.45、95%信頼区間1.01–2.08、P = 0.045）、アノテーター間の一致度を改善した（Krippendorff's αは0.22–0.51から0.82–0.85へ）。"
+                "x": "この枠組みは「問題が起きたとき、AIの利用について複数の当事者が責任を負いうることを認める」もので、説明責任を各当事者が害を防ぐ能力に合わせる。医師は「システムの想定用途、既知の限界、診療の場で得られる情報に基づき、実質的に行使できる臨床判断について責任を負う」べきだとし、実証されていないAIシステムは不利益なく拒否できるとした。"
+              },
+              {
+                "t": "p",
+                "x": "AMA会長のWillie Underwood III, M.D.は「AIがより多くの臨床機能を担うにつれ、開発者、医療機関、医師のそれぞれが重要な責任を持つ」と述べた。今回の責任の枠組みは、AMAが今月初めに公表したより広範な臨床AIガバナンスの枠組みの一側面を詳しく示したものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体助力发现\n免疫治疗副作用",
-          "body": "一项多阶段研究验证了一款AI智能体，可帮助临床医生发现免疫治疗的免疫相关不良事件。",
-          "mini_headline": "AI智能体识别irAEs",
+          "headline": "临床AI致害谁担责\nAMA提出责任分担框架",
+          "body": "AMA提出了临床AI造成伤害时开发者、医疗系统和医生应如何分担责任。",
+          "mini_headline": "AMA谈临床\nAI责任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "免疫相关不良事件（irAEs）影响多达40%接受免疫检查点抑制剂治疗的患者，但识别这些事件需要费时费力且标准不一的人工病历审查。作者开发并评估了一套智能体式大语言模型系统，用于从临床记录中提取六类irAE的存在与否、时间关系、严重程度分级、归因和确定性。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: LLM-based智能体式irAE检测系统的多维验证框架。"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "在回顾性评估中，该系统在当前事件检测上的宏平均F1为0.92，在多类别严重程度分级上为0.66；自洽性使F1提高0.14。表现最佳的配置每份记录成本约US$0.02。在为期3个月的前瞻性静默部署中，二分类F1为0.72–0.79。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: 用于irAE检测、分级、归因和确定性评估的多阶段智能体架构。"
+                "x": "美国医学会(American Medical Association，AMA)周四在其近期发布的临床AI治理指南基础上，进一步细化了各方应如何对涉及该技术的决策、行为和失误承担责任。该框架由AMA的Center for Digital Health and AI制定，针对其所称现有框架未能解答的责任问题。AMA指出，这可能使医生面临“对其无法合理预防的风险承担责任，而当AI造成伤害时，患者可能难以寻求救济”。"
               },
               {
                 "t": "p",
-                "x": "在一项针对临床试验人员的随机交叉研究中，智能体辅助使标注时间缩短2.71分钟（P < 0.001），提高了完全匹配准确率（比值比1.45；95%置信区间1.01–2.08；P = 0.045），并改善了标注者间一致性（Krippendorff's α从0.22–0.51升至0.82–0.85）。"
+                "x": "该框架“承认在出现问题时，多方可能需要对AI的使用承担责任”，并将问责与各方预防伤害的能力相对应。医生应“对其能够切实行使的临床判断负责，依据是系统的预期用途、已知局限以及诊疗现场可获得的信息”，并可拒绝未经验证的AI系统而不受处罚。"
+              },
+              {
+                "t": "p",
+                "x": "AMA主席Willie Underwood III, M.D.表示：“随着AI承担更多临床职能，开发者、医疗机构和医生各自都负有重要责任。”这一责任框架细化了AMA本月早些时候公布的更广泛的临床AI治理框架中的一个方面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un agente de AI ayuda a captar\nefectos de la inmunoterapia",
-          "body": "Un estudio en varias fases valida un agente de AI que ayuda a los clínicos a detectar efectos adversos inmunitarios.",
-          "mini_headline": "Un agente de AI detecta irAEs",
+          "headline": "La AMA define quién responde\nsi la AI clínica causa daño",
+          "body": "La AMA fijó cómo repartir la responsabilidad entre desarrolladores, sistemas de salud y médicos si la AI clínica daña.",
+          "mini_headline": "La AMA y la\nresponsabilidad de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los eventos adversos inmunorrelacionados (irAEs) afectan hasta al 40% de los pacientes que reciben inhibidores de puntos de control inmunitario, pero identificarlos exige una revisión manual de historias clínicas laboriosa e inconsistente. Los autores desarrollaron y evaluaron un sistema agéntico basado en modelos de lenguaje de gran tamaño para extraer de las notas clínicas la presencia, la temporalidad, el grado de gravedad, la atribución y la certeza de seis tipos de irAE."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig1_HTML.png",
-                "cap": "Fig. 1: Marco de validación multidimensional para un sistema agéntico de detección de irAE LLM-based."
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
               },
               {
                 "t": "p",
-                "x": "De forma retrospectiva, el sistema alcanzó un F1 macropromediado de 0.92 en la detección de eventos actuales y de 0.66 en la gradación de gravedad multiclase; la autoconsistencia mejoró el F1 en 0.14. La configuración con mejor rendimiento costó aproximadamente US$0.02 por nota. En un despliegue prospectivo silencioso durante 3 meses, el F1 binario fue de 0.72–0.79."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-026-01264-6/MediaObjects/43018_2026_1264_Fig2_HTML.png",
-                "cap": "Fig. 2: Arquitectura agéntica multietapa para la detección, gradación, atribución y evaluación de certeza de irAE."
+                "x": "Sobre la base de su reciente guía para la gobernanza de la AI clínica, la American Medical Association detalló el jueves con mayor profundidad cómo deben responder las distintas partes por las decisiones, acciones y fallos relacionados con esta tecnología. El marco del Center for Digital Health and AI de la AMA aborda cuestiones de responsabilidad que, según afirmó, los marcos existentes dejan sin resolver, lo que podría exponer a los médicos a una \"responsabilidad por riesgos que no pueden prevenir razonablemente, mientras que los pacientes pueden tener dificultades para obtener reparación cuando la AI causa daño\"."
               },
               {
                 "t": "p",
-                "x": "En un estudio cruzado aleatorizado con personal de ensayos clínicos, la asistencia agéntica redujo el tiempo de anotación en 2.71 min (P < 0.001), aumentó la exactitud de coincidencia completa (odds ratio 1.45; intervalo de confianza del 95% 1.01–2.08; P = 0.045) y mejoró la concordancia entre anotadores (Krippendorff's α de 0.22–0.51 a 0.82–0.85)."
+                "x": "El marco \"reconoce que varias partes pueden ser responsables del uso de la AI cuando algo sale mal\" y vincula la rendición de cuentas con la capacidad de cada parte para prevenir el daño. Los médicos deben \"ser responsables del juicio clínico que pueden ejercer de manera significativa, según el uso previsto del sistema, sus limitaciones conocidas y la información disponible en el punto de atención\", y pueden rechazar un sistema de AI no probado sin sufrir sanciones."
+              },
+              {
+                "t": "p",
+                "x": "\"A medida que la AI asume más funciones clínicas, los desarrolladores, las organizaciones sanitarias y los médicos tienen cada uno responsabilidades importantes\", dijo el presidente de la AMA, Willie Underwood III, M.D. El marco de responsabilidad detalla un aspecto de un marco más amplio de gobernanza de la AI clínica que la AMA presentó a principios de este mes."
               }
             ]
           }
@@ -647,755 +637,141 @@
       }
     },
     {
-      "id": "nyu-langone-openevidence-ehr",
+      "id": "mr-ai-missed-referrals",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenEvidence가\nNYU Langone 입성",
-      "body": "NYU Langone Health가 OpenEvidence AI를 기록에 들인다.",
-      "mini_headline": "NYU EHR 속 OpenEvidence",
+      "headline": "놓친 전문의 의뢰\nAI가 일차 진료서 포착",
+      "body": "기록에서 놓친 전문의 의뢰를 찾는 MR-AI를 일차의료 의원 일곱 곳에 썼다.",
+      "mini_headline": "놓친 의뢰\nAI가 포착",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-          },
-          {
-            "t": "p",
-            "x": "OpenEvidence가 NYU Langone Health와 손잡고 New York City에서 입지를 넓힌다. 이 AI 기반(AI-powered) 임상 근거 플랫폼은 NYU Langone의 Epic EHR 워크플로에 바로 들어가 병원과 외래 네트워크, Family Health Centers 전체에 깔린다. NYU Grossman School of Medicine과 NYU Grossman Long Island School of Medicine에서 수련하는 의사들도 쓰게 된다. NYU Langone의 외래 방문은 한 해 1200만 건이 넘고 의사와 교수진은 6,000명을 웃돈다."
-          },
-          {
-            "t": "p",
-            "x": "임상의는 Epic 워크플로 안에서 복잡한 임상 질문을 자연어로 묻는다. 답은 동료 심사를 거친 의학 문헌에 근거하되 환자 본인의 임상 기록에 비춰 나온다. 창업자이자 CEO인 Daniel Nadler는 “NYU Langone의 차트 안에 OpenEvidence를 넣는다는 것은 이 시스템이 해마다 지원하는 천이백만 건의 진료 하나하나마다 세계의 의학 문헌이 그 자리에 함께한다는 뜻”이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 U.S. 의사의 약 삼분의 이가 자사 플랫폼을 쓴다고 밝혔다. 10월에는 검증된 U.S. 임상의 120만 명이 4500만 회 이용했다. NewYork-Presbyterian과 Mount Sinai에는 이미 들어갔고 Memorial Sloan Kettering과는 종양학 분야에서 손을 잡았다. JAMA 연구에 따르면 2024년 1월부터 2026년 6월까지 100만 명 가까운 U.S. 임상의가 2억7100만 건을 질의했다. 이 가운데 51.9%가 임상 의사결정과 관련된 질문이었다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NYU Langone puts OpenEvidence\ninside its health record",
-          "body": "NYU Langone Health is building OpenEvidence's clinical AI search into its electronic health record across the system.",
-          "mini_headline": "OpenEvidence enters NYU's EHR",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidence is expanding its footprint in New York City through a partnership with NYU Langone Health. Its AI-powered clinical evidence platform is embedded directly into NYU Langone's Epic EHR workflows, spanning its hospitals, ambulatory network and the Family Health Centers, and reaching physicians training at the NYU Grossman School of Medicine and the NYU Grossman Long Island School of Medicine. NYU Langone has more than 12 million outpatient visits annually and over 6,000 physicians and faculty."
-              },
-              {
-                "t": "p",
-                "x": "Clinicians will be able to ask complex clinical questions in natural language and receive answers grounded in peer-reviewed medical literature and read against the patient's own clinical record, all without leaving their Epic workflow. \"Putting OpenEvidence inside the chart at NYU Langone means the world's medical literature is now in the room for every one of the twelve million visits this system supports each year,\" said founder and CEO Daniel Nadler."
-              },
-              {
-                "t": "p",
-                "x": "The company says roughly two-thirds of U.S. physicians use its platform; 1.2 million verified U.S. clinicians consulted it 45 million times in October. It already has deployments at NewYork-Presbyterian and Mount Sinai and an oncology partnership with Memorial Sloan Kettering. A JAMA study found nearly 1 million U.S. clinicians submitted 271 million queries from January 2024 to June 2026, 51.9% related to clinical decision-making."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OpenEvidence가\nNYU Langone 입성",
-          "body": "NYU Langone Health가 OpenEvidence AI를 기록에 들인다.",
-          "mini_headline": "NYU EHR 속 OpenEvidence",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidence가 NYU Langone Health와 손잡고 New York City에서 입지를 넓힌다. 이 AI 기반(AI-powered) 임상 근거 플랫폼은 NYU Langone의 Epic EHR 워크플로에 바로 들어가 병원과 외래 네트워크, Family Health Centers 전체에 깔린다. NYU Grossman School of Medicine과 NYU Grossman Long Island School of Medicine에서 수련하는 의사들도 쓰게 된다. NYU Langone의 외래 방문은 한 해 1200만 건이 넘고 의사와 교수진은 6,000명을 웃돈다."
-              },
-              {
-                "t": "p",
-                "x": "임상의는 Epic 워크플로 안에서 복잡한 임상 질문을 자연어로 묻는다. 답은 동료 심사를 거친 의학 문헌에 근거하되 환자 본인의 임상 기록에 비춰 나온다. 창업자이자 CEO인 Daniel Nadler는 “NYU Langone의 차트 안에 OpenEvidence를 넣는다는 것은 이 시스템이 해마다 지원하는 천이백만 건의 진료 하나하나마다 세계의 의학 문헌이 그 자리에 함께한다는 뜻”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 U.S. 의사의 약 삼분의 이가 자사 플랫폼을 쓴다고 밝혔다. 10월에는 검증된 U.S. 임상의 120만 명이 4500만 회 이용했다. NewYork-Presbyterian과 Mount Sinai에는 이미 들어갔고 Memorial Sloan Kettering과는 종양학 분야에서 손을 잡았다. JAMA 연구에 따르면 2024년 1월부터 2026년 6월까지 100만 명 가까운 U.S. 임상의가 2억7100만 건을 질의했다. 이 가운데 51.9%가 임상 의사결정과 관련된 질문이었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NYU Langoneが\nOpenEvidence統合",
-          "body": "NYU Langone HealthがOpenEvidenceのAIをカルテに組み込む。",
-          "mini_headline": "OpenEvidenceがNYUのEHRへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidenceは、NYU Langone Healthとの提携によりNew York Cityでの存在感を広げる。AIを活用した（AI-powered）臨床エビデンスプラットフォームはNYU LangoneのEpic EHRワークフローに直接組み込まれ、病院、外来ネットワーク、Family Health Centersにまたがり、NYU Grossman School of MedicineとNYU Grossman Long Island School of Medicineで研修する医師にも届く。NYU Langoneの外来受診は年間1200万件を超え、医師・教員は6,000人を超える。"
-              },
-              {
-                "t": "p",
-                "x": "臨床医はEpicのワークフローを離れることなく、複雑な臨床上の質問を自然言語で尋ね、査読済みの医学文献に基づき、患者自身の臨床記録と照らし合わせた回答を得られるようになる。創業者でCEOのDaniel Nadler氏は「NYU LangoneのカルテにOpenEvidenceを組み込むことは、このシステムが毎年支える一千二百万件の受診の一つひとつに、世界の医学文献が同席することを意味する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、U.S.の医師の約三分の二が同社のプラットフォームを利用しており、10月には認証済みのU.S.の臨床医120万人が4500万回利用した。すでにNewYork-PresbyterianとMount Sinaiで導入され、Memorial Sloan Ketteringとはがん領域で提携している。JAMAの研究では、2024年1月から2026年6月までに100万人近いU.S.の臨床医が2億7100万件のクエリを送信し、その51.9%が臨床意思決定に関するものだった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NYU Langone病历\n接入OpenEvidence",
-          "body": "NYU Langone Health将OpenEvidence临床AI搜索嵌入电子病历。",
-          "mini_headline": "OpenEvidence进入NYU的EHR",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidence通过与NYU Langone Health合作，扩大其在New York City的布局。其AI驱动（AI-powered）的临床证据平台直接嵌入NYU Langone的Epic EHR工作流程，覆盖旗下医院、门诊网络和Family Health Centers，并惠及在NYU Grossman School of Medicine和NYU Grossman Long Island School of Medicine接受培训的医生。NYU Langone每年门诊量超过1200万人次，医生和教职人员超过6,000名。"
-              },
-              {
-                "t": "p",
-                "x": "临床医生无需离开Epic工作流程，即可用自然语言提出复杂的临床问题，获得以同行评审医学文献为依据、并结合患者本人临床记录解读的答案。创始人兼CEO Daniel Nadler表示：“把OpenEvidence放进NYU Langone的病历，意味着这个系统每年支持的一千二百万次就诊中，每一次都有全世界的医学文献在场。”"
-              },
-              {
-                "t": "p",
-                "x": "该公司称，约三分之二的U.S.医生使用其平台；10月，120万名经过认证的U.S.临床医生使用了4500万次。它已在NewYork-Presbyterian和Mount Sinai部署，并与Memorial Sloan Kettering开展肿瘤学合作。一项JAMA研究发现，2024年1月至2026年6月，近100万名U.S.临床医生提交了2.71亿次查询，其中51.9%与临床决策相关。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NYU Langone lleva OpenEvidence\na su historia clínica",
-          "body": "NYU Langone Health integra la búsqueda clínica con AI de OpenEvidence en el historial electrónico de todo su sistema.",
-          "mini_headline": "OpenEvidence entra en el EHR de NYU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidence amplía su presencia en New York City mediante una alianza con NYU Langone Health. Su plataforma de evidencia clínica impulsada por AI (AI-powered) se integra directamente en los flujos de trabajo del Epic EHR de NYU Langone, abarca sus hospitales, su red ambulatoria y los Family Health Centers, y llega a los médicos en formación de la NYU Grossman School of Medicine y la NYU Grossman Long Island School of Medicine. NYU Langone registra más de 12 millones de visitas ambulatorias al año y más de 6,000 médicos y docentes."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos podrán formular preguntas clínicas complejas en lenguaje natural y recibir respuestas basadas en literatura médica revisada por pares y contrastadas con la historia clínica del propio paciente, sin salir de su flujo de trabajo de Epic. \"Poner OpenEvidence dentro de la historia clínica en NYU Langone significa que la literatura médica del mundo está ahora presente en cada una de los doce millones de visitas que este sistema atiende cada año\", dijo el fundador y CEO Daniel Nadler."
-              },
-              {
-                "t": "p",
-                "x": "La compañía afirma que aproximadamente dos tercios de los médicos de U.S. usan su plataforma; 1.2 millones de clínicos verificados de U.S. la consultaron 45 millones de veces en octubre. Ya está implantada en NewYork-Presbyterian y Mount Sinai y tiene una alianza en oncología con Memorial Sloan Kettering. Un estudio de JAMA halló que casi 1 millón de clínicos de U.S. enviaron 271 millones de consultas entre enero de 2024 y junio de 2026, el 51.9% relacionadas con la toma de decisiones clínicas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "OpenEvidence,\nNYU Langone 탑재",
-          "body": "NYU Langone Health는 OpenEvidence AI를 기록에 넣는다.",
-          "mini_headline": "NYU EHR 속 OpenEvidence",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidence가 NYU Langone Health와의 제휴로 New York City에서 입지를 넓힌다. AI 기반(AI-powered) 임상 근거 플랫폼은 NYU Langone의 Epic EHR 워크플로에 직접 내장돼 병원, 외래 네트워크, Family Health Centers 전반에 걸치며, NYU Grossman School of Medicine과 NYU Grossman Long Island School of Medicine에서 수련하는 의사들에게도 닿는다. NYU Langone의 연간 외래 방문은 1200만 건이 넘고, 의사와 교수진은 6,000명이 넘는다."
-              },
-              {
-                "t": "p",
-                "x": "임상의는 Epic 워크플로를 벗어나지 않고도 복잡한 임상 질문을 자연어로 묻고, 동료 심사를 거친 의학 문헌에 근거하면서 환자 본인의 임상 기록에 비춰 본 답을 받을 수 있게 된다. 창업자이자 CEO인 Daniel Nadler는 “NYU Langone의 차트 안에 OpenEvidence를 넣는다는 것은 이 시스템이 해마다 지원하는 천이백만 건의 진료 하나하나마다 세계의 의학 문헌이 그 자리에 함께한다는 뜻”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 U.S. 의사의 약 삼분의 이가 자사 플랫폼을 쓴다고 밝혔다. 10월에는 검증된 U.S. 임상의 120만 명이 4500만 회 이용했다. NewYork-Presbyterian과 Mount Sinai에 이미 도입됐고, Memorial Sloan Kettering과는 종양학 분야 제휴를 맺었다. JAMA 연구에 따르면 2024년 1월부터 2026년 6월까지 100만 명 가까운 U.S. 임상의가 2억7100만 건의 질의를 제출했고, 그중 51.9%가 임상 의사결정과 관련됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NYU Langoneが\nOpenEvidence統合",
-          "body": "NYU Langone HealthがOpenEvidenceのAIをカルテに組み込む。",
-          "mini_headline": "OpenEvidenceがNYUのEHRへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidenceは、NYU Langone Healthとの提携によりNew York Cityでの存在感を広げる。AIを活用した（AI-powered）臨床エビデンスプラットフォームはNYU LangoneのEpic EHRワークフローに直接組み込まれ、病院、外来ネットワーク、Family Health Centersにまたがり、NYU Grossman School of MedicineとNYU Grossman Long Island School of Medicineで研修する医師にも届く。NYU Langoneの外来受診は年間1200万件を超え、医師・教員は6,000人を超える。"
-              },
-              {
-                "t": "p",
-                "x": "臨床医はEpicのワークフローを離れることなく、複雑な臨床上の質問を自然言語で尋ね、査読済みの医学文献に基づき、患者自身の臨床記録と照らし合わせた回答を得られるようになる。創業者でCEOのDaniel Nadler氏は「NYU LangoneのカルテにOpenEvidenceを組み込むことは、このシステムが毎年支える一千二百万件の受診の一つひとつに、世界の医学文献が同席することを意味する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、U.S.の医師の約三分の二が同社のプラットフォームを利用しており、10月には認証済みのU.S.の臨床医120万人が4500万回利用した。すでにNewYork-PresbyterianとMount Sinaiで導入され、Memorial Sloan Ketteringとはがん領域で提携している。JAMAの研究では、2024年1月から2026年6月までに100万人近いU.S.の臨床医が2億7100万件のクエリを送信し、その51.9%が臨床意思決定に関するものだった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NYU Langone病历\n接入OpenEvidence",
-          "body": "NYU Langone Health将OpenEvidence临床AI搜索嵌入电子病历。",
-          "mini_headline": "OpenEvidence进入NYU的EHR",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidence通过与NYU Langone Health合作，扩大其在New York City的布局。其AI驱动（AI-powered）的临床证据平台直接嵌入NYU Langone的Epic EHR工作流程，覆盖旗下医院、门诊网络和Family Health Centers，并惠及在NYU Grossman School of Medicine和NYU Grossman Long Island School of Medicine接受培训的医生。NYU Langone每年门诊量超过1200万人次，医生和教职人员超过6,000名。"
-              },
-              {
-                "t": "p",
-                "x": "临床医生无需离开Epic工作流程，即可用自然语言提出复杂的临床问题，获得以同行评审医学文献为依据、并结合患者本人临床记录解读的答案。创始人兼CEO Daniel Nadler表示：“把OpenEvidence放进NYU Langone的病历，意味着这个系统每年支持的一千二百万次就诊中，每一次都有全世界的医学文献在场。”"
-              },
-              {
-                "t": "p",
-                "x": "该公司称，约三分之二的U.S.医生使用其平台；10月，120万名经过认证的U.S.临床医生使用了4500万次。它已在NewYork-Presbyterian和Mount Sinai部署，并与Memorial Sloan Kettering开展肿瘤学合作。一项JAMA研究发现，2024年1月至2026年6月，近100万名U.S.临床医生提交了2.71亿次查询，其中51.9%与临床决策相关。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NYU Langone lleva OpenEvidence\na su historia clínica",
-          "body": "NYU Langone Health integra la búsqueda clínica con AI de OpenEvidence en el historial electrónico de todo su sistema.",
-          "mini_headline": "OpenEvidence entra en el EHR de NYU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg"
-              },
-              {
-                "t": "p",
-                "x": "OpenEvidence amplía su presencia en New York City mediante una alianza con NYU Langone Health. Su plataforma de evidencia clínica impulsada por AI (AI-powered) se integra directamente en los flujos de trabajo del Epic EHR de NYU Langone, abarca sus hospitales, su red ambulatoria y los Family Health Centers, y llega a los médicos en formación de la NYU Grossman School of Medicine y la NYU Grossman Long Island School of Medicine. NYU Langone registra más de 12 millones de visitas ambulatorias al año y más de 6,000 médicos y docentes."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos podrán formular preguntas clínicas complejas en lenguaje natural y recibir respuestas basadas en literatura médica revisada por pares y contrastadas con la historia clínica del propio paciente, sin salir de su flujo de trabajo de Epic. \"Poner OpenEvidence dentro de la historia clínica en NYU Langone significa que la literatura médica del mundo está ahora presente en cada una de los doce millones de visitas que este sistema atiende cada año\", dijo el fundador y CEO Daniel Nadler."
-              },
-              {
-                "t": "p",
-                "x": "La compañía afirma que aproximadamente dos tercios de los médicos de U.S. usan su plataforma; 1.2 millones de clínicos verificados de U.S. la consultaron 45 millones de veces en octubre. Ya está implantada en NewYork-Presbyterian y Mount Sinai y tiene una alianza en oncología con Memorial Sloan Kettering. Un estudio de JAMA halló que casi 1 millón de clínicos de U.S. enviaron 271 millones de consultas entre enero de 2024 y junio de 2026, el 51.9% relacionadas con la toma de decisiones clínicas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "doximity-dosing-error-test",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Doximity 자체 시험\n인기 AI도 용량 오류",
-      "body": "Doximity는 범용 AI가 위험한 용량 오류도 낸다며 자사 도구가 낫다고 했다.",
-      "mini_headline": "Doximity가 짚은 AI 용량 오류",
-      "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-          },
-          {
-            "t": "p",
-            "x": "Doximity가 공개한 연구에서 자사 용량 검증 도구가 범용 AI 모델을 앞섰다. Doximity는 범용 모델에 오류가 넘쳐난다고 본다. 시험에는 2026년에 나온 대규모 언어 모델 몇 개와 FDA-approved(FDA 승인) 약물 2,200종 이상을 다루는 임상 용량 질문 8,500개 이상이 쓰였다고 Doximity는 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "새로 승인된 약물은 오류가 날 확률이 다섯 배 높았다. 찾아낸 오류 가운데 13.2%는 경미했고 43%는 중대했으며 3.4%는 치명적일 수 있었다. 가장 흔한 실수는 질문에 관련 정보가 있었는데도 나이와 신장 기능, 약물 상호작용에 맞춰 용량을 조정하지 않은 것이었다."
-          },
-          {
-            "t": "p",
-            "x": "Doximity는 새 검증 도구 DoseCheck가 99.9%의 경우 정확했다며 이를 Doximity Ask 안의 안전망으로 내세운다. Doximity의 최고 AI 연구자 Dr. Louis-Antoine Mullie는 \"우리가 본 실패 양상은 용량에만 국한되지 않는다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Anthropic과 OpenAI가 의료 분야에 뛰어드는 와중에 나온 연구다. 결과는 엇갈린다. Stanford와 Harvard 연구진은 임상 특화 도구가 범용 모델을 앞섰다고 밝혔지만 올여름 다른 연구팀은 정반대 결과를 내놨다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Doximity says popular AI\nmodels get doses wrong",
-          "body": "In its own test, Doximity says general-use AI models made dosing errors, some dangerous, and its own tool did better.",
-          "mini_headline": "Doximity flags AI dosing errors",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Research released by Doximity shows that its dose verification tool outperformed general-use AI models, which it says are rife with errors. Doximity says it tested a handful of large language models released in 2026 with more than 8,500 clinical dosing questions covering more than 2,200 FDA-approved drugs."
-              },
-              {
-                "t": "p",
-                "x": "Freshly approved drugs had five times the odds of an error. Of the errors detected, 13.2% were minor, 43% were significant and 3.4% were potentially lethal. The most common mistake was failing to adjust doses for age, kidney function or drug interactions, even when that information was given in the question."
-              },
-              {
-                "t": "p",
-                "x": "Doximity claimed its new verification tool, DoseCheck, was correct 99.9% of the time; it frames the tool as a safety net within Doximity Ask. \"The failure modes we saw aren't unique to dosing,\" said Dr. Louis-Antoine Mullie, chief AI researcher at Doximity."
-              },
-              {
-                "t": "p",
-                "x": "The research comes as Anthropic and OpenAI enter healthcare. Studies have landed on both sides: Stanford and Harvard researchers found clinically specialized tools outperformed general-purpose models, while another team this summer found the opposite."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Doximity 자체 시험\n인기 AI도 용량 오류",
-          "body": "Doximity는 범용 AI가 위험한 용량 오류도 낸다며 자사 도구가 낫다고 했다.",
-          "mini_headline": "Doximity가 짚은 AI 용량 오류",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Doximity가 공개한 연구에서 자사 용량 검증 도구가 범용 AI 모델을 앞섰다. Doximity는 범용 모델에 오류가 넘쳐난다고 본다. 시험에는 2026년에 나온 대규모 언어 모델 몇 개와 FDA-approved(FDA 승인) 약물 2,200종 이상을 다루는 임상 용량 질문 8,500개 이상이 쓰였다고 Doximity는 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "새로 승인된 약물은 오류가 날 확률이 다섯 배 높았다. 찾아낸 오류 가운데 13.2%는 경미했고 43%는 중대했으며 3.4%는 치명적일 수 있었다. 가장 흔한 실수는 질문에 관련 정보가 있었는데도 나이와 신장 기능, 약물 상호작용에 맞춰 용량을 조정하지 않은 것이었다."
-              },
-              {
-                "t": "p",
-                "x": "Doximity는 새 검증 도구 DoseCheck가 99.9%의 경우 정확했다며 이를 Doximity Ask 안의 안전망으로 내세운다. Doximity의 최고 AI 연구자 Dr. Louis-Antoine Mullie는 \"우리가 본 실패 양상은 용량에만 국한되지 않는다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic과 OpenAI가 의료 분야에 뛰어드는 와중에 나온 연구다. 결과는 엇갈린다. Stanford와 Harvard 연구진은 임상 특화 도구가 범용 모델을 앞섰다고 밝혔지만 올여름 다른 연구팀은 정반대 결과를 내놨다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Doximity自社試験\n人気AIは用量を誤る",
-          "body": "Doximityは自社試験で、汎用AIに危険な用量誤りもあり自社ツールが上回ったとした。",
-          "mini_headline": "DoximityがAIの用量誤りを指摘",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Doximityが公表した研究によると、同社の用量検証ツールは、誤りだらけだと同社が指摘する汎用AIモデルを上回った。Doximityは、2026年に公開された大規模言語モデル数種を、2,200種を超えるFDA-approved（FDA承認）薬を対象とした8,500問を超える臨床用量の質問で試験したという。"
-              },
-              {
-                "t": "p",
-                "x": "承認されたばかりの薬では、誤りが生じるオッズが五倍だった。検出された誤りのうち13.2%は軽微、43%は重大、3.4%は致死的となりうるものだった。最も多い誤りは、質問に情報が示されていても、年齢、腎機能、薬物相互作用に応じて用量を調整しないことだった。"
-              },
-              {
-                "t": "p",
-                "x": "Doximityは新しい検証ツールDoseCheckの正答率が99.9%だったと主張し、Doximity Ask内の安全網と位置づけている。Doximityの最高AI研究責任者Dr. Louis-Antoine Mullieは「我々が見た失敗のパターンは用量に限ったものではない」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この研究は、AnthropicとOpenAIが医療分野に参入するなかで発表された。研究結果は割れている。StanfordとHarvardの研究者は臨床特化型ツールが汎用モデルを上回ったとしたが、この夏には別のチームが逆の結果を示した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Doximity称热门AI\n模型常算错剂量",
-          "body": "Doximity称，自测中通用AI模型出现剂量错误，部分很危险，自家工具表现更好。",
-          "mini_headline": "Doximity指出AI剂量错误",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Doximity发布的研究显示，其剂量核验工具的表现优于通用AI模型，该公司称后者错误频出。Doximity表示，它用8,500多道临床剂量问题测试了2026年发布的几款大语言模型，这些问题涵盖2,200多种FDA-approved（FDA批准）药物。"
-              },
-              {
-                "t": "p",
-                "x": "新近获批药物出错的几率是五倍。在检出的错误中，13.2%属轻微，43%属严重，3.4%可能致命。最常见的错误是即便问题中已给出相关信息，仍未根据年龄、肾功能或药物相互作用调整剂量。"
-              },
-              {
-                "t": "p",
-                "x": "Doximity称其新核验工具DoseCheck的正确率为99.9%，并将其定位为Doximity Ask中的安全网。Doximity首席AI研究员Dr. Louis-Antoine Mullie表示：“我们看到的失败模式并非剂量问题所独有。”"
-              },
-              {
-                "t": "p",
-                "x": "这项研究发布之际，Anthropic和OpenAI正进军医疗领域。现有研究结论不一：Stanford和Harvard的研究人员发现临床专用工具优于通用模型，而今年夏天另一支团队得出了相反结论。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Doximity dice que modelos de AI\npopulares fallan en las dosis",
-          "body": "Doximity afirma que, en su prueba, la AI de uso general erró dosis, a veces con peligro, y su herramienta rindió más.",
-          "mini_headline": "Doximity señala errores de dosis de la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Una investigación publicada por Doximity muestra que su herramienta de verificación de dosis superó a los modelos de AI de uso general, que según la empresa están plagados de errores. Doximity afirma que probó un puñado de grandes modelos de lenguaje lanzados en 2026 con más de 8,500 preguntas clínicas de dosificación sobre más de 2,200 fármacos FDA-approved (aprobados por la FDA)."
-              },
-              {
-                "t": "p",
-                "x": "Los fármacos aprobados recientemente tuvieron cinco veces más probabilidades de error. De los errores detectados, el 13.2% fueron leves, el 43% significativos y el 3.4% potencialmente letales. El fallo más común fue no ajustar la dosis según la edad, la función renal o las interacciones farmacológicas, incluso cuando esa información figuraba en la pregunta."
-              },
-              {
-                "t": "p",
-                "x": "Doximity aseguró que su nueva herramienta de verificación, DoseCheck, acertó el 99.9% de las veces; la presenta como una red de seguridad dentro de Doximity Ask. \"Los modos de fallo que vimos no son exclusivos de la dosificación\", dijo Dr. Louis-Antoine Mullie, investigador jefe de AI en Doximity."
-              },
-              {
-                "t": "p",
-                "x": "La investigación llega cuando Anthropic y OpenAI entran en la atención sanitaria. Los estudios apuntan en ambas direcciones: investigadores de Stanford y Harvard hallaron que las herramientas clínicas especializadas superaban a los modelos de uso general, mientras que otro equipo llegó este verano a la conclusión contraria."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Doximity 자체 시험\n인기 AI 용량 오류",
-          "body": "Doximity는 범용 AI가 위험한 용량 오류도 내며 자사 도구가 낫다고 밝혔다.",
-          "mini_headline": "Doximity, AI 용량 오류 지적",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Doximity가 공개한 연구에 따르면 자사 용량 검증 도구가 범용 AI 모델보다 나은 성능을 보였다. Doximity는 범용 모델에 오류가 넘쳐난다고 본다. Doximity는 2026년에 출시된 대규모 언어 모델 몇 개를 FDA-approved(FDA 승인) 약물 2,200종 이상을 다루는 임상 용량 질문 8,500개 이상으로 시험했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "새로 승인된 약물은 오류가 날 확률이 다섯 배 높았다. 발견된 오류 가운데 13.2%는 경미했고 43%는 중대했으며 3.4%는 치명적일 수 있었다. 가장 흔한 실수는 질문에 관련 정보가 주어졌는데도 나이, 신장 기능, 약물 상호작용에 맞춰 용량을 조정하지 않은 것이었다."
-              },
-              {
-                "t": "p",
-                "x": "Doximity는 새 검증 도구 DoseCheck가 99.9%의 경우 정확했다고 주장하며, 이를 Doximity Ask 안의 안전망으로 내세운다. Doximity의 최고 AI 연구자 Dr. Louis-Antoine Mullie는 \"우리가 본 실패 양상은 용량에만 국한되지 않는다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 연구는 Anthropic과 OpenAI가 의료 분야에 진출하는 가운데 나왔다. 연구 결과는 엇갈린다. Stanford와 Harvard 연구진은 임상 특화 도구가 범용 모델을 앞섰다고 밝혔지만, 올여름 다른 연구팀은 반대 결과를 내놨다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Doximity自社試験\n人気AIは用量を誤る",
-          "body": "Doximityは自社試験で、汎用AIに危険な用量誤りもあり自社ツールが上回ったとした。",
-          "mini_headline": "DoximityがAIの用量誤りを指摘",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Doximityが公表した研究によると、同社の用量検証ツールは、誤りだらけだと同社が指摘する汎用AIモデルを上回った。Doximityは、2026年に公開された大規模言語モデル数種を、2,200種を超えるFDA-approved（FDA承認）薬を対象とした8,500問を超える臨床用量の質問で試験したという。"
-              },
-              {
-                "t": "p",
-                "x": "承認されたばかりの薬では、誤りが生じるオッズが五倍だった。検出された誤りのうち13.2%は軽微、43%は重大、3.4%は致死的となりうるものだった。最も多い誤りは、質問に情報が示されていても、年齢、腎機能、薬物相互作用に応じて用量を調整しないことだった。"
-              },
-              {
-                "t": "p",
-                "x": "Doximityは新しい検証ツールDoseCheckの正答率が99.9%だったと主張し、Doximity Ask内の安全網と位置づけている。Doximityの最高AI研究責任者Dr. Louis-Antoine Mullieは「我々が見た失敗のパターンは用量に限ったものではない」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この研究は、AnthropicとOpenAIが医療分野に参入するなかで発表された。研究結果は割れている。StanfordとHarvardの研究者は臨床特化型ツールが汎用モデルを上回ったとしたが、この夏には別のチームが逆の結果を示した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Doximity称热门AI\n模型常算错剂量",
-          "body": "Doximity称，自测中通用AI模型出现剂量错误，部分很危险，自家工具表现更好。",
-          "mini_headline": "Doximity指出AI剂量错误",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Doximity发布的研究显示，其剂量核验工具的表现优于通用AI模型，该公司称后者错误频出。Doximity表示，它用8,500多道临床剂量问题测试了2026年发布的几款大语言模型，这些问题涵盖2,200多种FDA-approved（FDA批准）药物。"
-              },
-              {
-                "t": "p",
-                "x": "新近获批药物出错的几率是五倍。在检出的错误中，13.2%属轻微，43%属严重，3.4%可能致命。最常见的错误是即便问题中已给出相关信息，仍未根据年龄、肾功能或药物相互作用调整剂量。"
-              },
-              {
-                "t": "p",
-                "x": "Doximity称其新核验工具DoseCheck的正确率为99.9%，并将其定位为Doximity Ask中的安全网。Doximity首席AI研究员Dr. Louis-Antoine Mullie表示：“我们看到的失败模式并非剂量问题所独有。”"
-              },
-              {
-                "t": "p",
-                "x": "这项研究发布之际，Anthropic和OpenAI正进军医疗领域。现有研究结论不一：Stanford和Harvard的研究人员发现临床专用工具优于通用模型，而今年夏天另一支团队得出了相反结论。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Doximity dice que modelos de AI\npopulares fallan en las dosis",
-          "body": "Doximity afirma que, en su prueba, la AI de uso general erró dosis, a veces con peligro, y su herramienta rindió más.",
-          "mini_headline": "Doximity señala errores de dosis de la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ndFjEhHdKVD_l-g8k7nfNSUwd_qipSKWPq1S_TXP6rk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp"
-              },
-              {
-                "t": "p",
-                "x": "Una investigación publicada por Doximity muestra que su herramienta de verificación de dosis superó a los modelos de AI de uso general, que según la empresa están plagados de errores. Doximity afirma que probó un puñado de grandes modelos de lenguaje lanzados en 2026 con más de 8,500 preguntas clínicas de dosificación sobre más de 2,200 fármacos FDA-approved (aprobados por la FDA)."
-              },
-              {
-                "t": "p",
-                "x": "Los fármacos aprobados recientemente tuvieron cinco veces más probabilidades de error. De los errores detectados, el 13.2% fueron leves, el 43% significativos y el 3.4% potencialmente letales. El fallo más común fue no ajustar la dosis según la edad, la función renal o las interacciones farmacológicas, incluso cuando esa información figuraba en la pregunta."
-              },
-              {
-                "t": "p",
-                "x": "Doximity aseguró que su nueva herramienta de verificación, DoseCheck, acertó el 99.9% de las veces; la presenta como una red de seguridad dentro de Doximity Ask. \"Los modos de fallo que vimos no son exclusivos de la dosificación\", dijo Dr. Louis-Antoine Mullie, investigador jefe de AI en Doximity."
-              },
-              {
-                "t": "p",
-                "x": "La investigación llega cuando Anthropic y OpenAI entran en la atención sanitaria. Los estudios apuntan en ambas direcciones: investigadores de Stanford y Harvard hallaron que las herramientas clínicas especializadas superaban a los modelos de uso general, mientras que otro equipo llegó este verano a la conclusión contraria."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "hoppr-msk-xray-drafting",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "HOPPR 모델, 전신\nMSK X선 소견 초안",
-      "body": "HOPPR 베타 모델이 검사당 최대 세 영상으로 근골격계 X선 소견 초안을 쓴다.",
-      "mini_headline": "HOPPR의 MSK X선 소견 초안",
-      "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03444-1",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-            "cap": "대퇴골과 경골, 비골, 슬개골이 드러난 사람 무릎 관절 전후면 X-ray 영상"
+            "t": "p",
+            "x": "일차 진료에서 전문의 의뢰를 놓치면 건강은 물론 의료법상으로도 위험이 크지만, 실태는 아직 제대로 파악되지 않았다. 연구진은 진료 기록에서 놓친 의뢰를 찾아내는 AI 기반(AI-supported) 안전 시스템(MR-AI)을 개발해 싱가포르의 일차 진료 의원 일곱 곳에서 준실험 연구로 평가했다. MR-AI는 매주 약 25,000건의 기록을 훑어 의뢰 의도는 있으나 해당 오더가 없는 사례를 골라냈다. 주간 놓친 의뢰 발견 건수는 약 일곱 배로 늘어난 것으로 추산됐다(수준 4.7퍼센트포인트 증가; 95% CI 0.024–0.069; p < 0.001)."
           },
           {
             "t": "p",
-            "x": "HOPPR가 FS MSK Whole-Body Narrative Model 베타 버전을 내놓는다. 검사 한 건에 영상을 최대 세 장까지 받아 근골격계(MSK) 방사선 사진의 소견 초안을 써 주는 비전-언어 파운데이션 모델이다."
+            "x": "표시된 428건 가운데 225건이 임상의 검증을 통과했고, 여기에 환자가 보고한 31건을 더해 모두 256건을 찾았다. MR-AI의 특이도는 99.9%, 민감도는 48.8%였다. 의사 검토자 일곱 명과 한 주간 맹검 비교를 해 보니 표시된 83건에서 MR-AI의 PPV는 61.8%로 사람의 확인율 51.8%를 웃돌았고, 예상 인력 투입 시간도 약 41시간 적었다."
           },
           {
             "t": "p",
-            "x": "업체에 따르면 이 모델은 척추, 흉곽과 흉벽, 상지, 골반과 하지를 아우르는 외래 MSK 검사 약 674,000건으로 학습했다. 정상 해부 구조보다는 이상 소견을 적는 데 무게를 둔다. HOPPR는 골절, 퇴행성 관절·척추 변화, 정렬, 금속 고정물 등 26개 MSK 소견 범주로 모델을 평가했다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "회사 설명으로는 영상의학 판독 보고와 워크플로 애플리케이션을 만드는 개발자용 소프트웨어 구성요소다. 기관마다 다른 데이터와 워크플로에 맞춰 HOPPR의 Forward Deployed Services 팀이 맞춤화하고 통합한다. 회사는 이 모델이 미국 식품의약국(U.S. Food and Drug Administration, FDA)의 승인을 받지 않았으며 진단용도 아니라고 밝혔다."
+            "x": "AI 기반(AI-enabled) 감시는 놓친 의뢰를 찾는 데 크게 도움이 됐다. 다만 개선을 이어가려면 이를 보완할 예방 업무 흐름 변화와 향후 비용 효과성 평가가 뒤따라야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "HOPPR model drafts findings\nfor whole-body MSK x-rays",
-          "body": "HOPPR's beta vision-language model drafts findings for musculoskeletal radiographs from up to three views per study.",
-          "mini_headline": "HOPPR drafts MSK x-ray findings",
+          "headline": "AI flags missed specialist\nreferrals in primary care",
+          "body": "Researchers tested MR-AI, which spots missed specialist referrals in notes, across seven primary care clinics.",
+          "mini_headline": "AI catches\nmissed referrals",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "X-ray image of human knee joint showing femur, tibia, fibula, and patella in anteroposterior view"
+                "t": "p",
+                "x": "Missed specialist referrals in primary care pose substantial health and medico-legal risks, yet remain poorly understood. We developed an AI-supported safety system (MR-AI) to identify missed referrals from consultation notes, evaluated in a quasi-experimental study across seven primary care clinics in Singapore. MR-AI scanned ~25,000 notes weekly for referral intent without a corresponding order, achieving an estimated sevenfold increase in weekly missed referral detection (4.7 percentage point level increase; 95% CI 0.024–0.069; p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "HOPPR is launching a beta version of its FS MSK Whole-Body Narrative Model, a vision-language foundation model that generates draft findings text for musculoskeletal (MSK) radiographs using up to three views per study."
+                "x": "Of 428 cases flagged, 225 were clinician-verified, alongside 31 patient-reported cases, yielding 256 total detections. MR-AI demonstrated 99.9% specificity and 48.8% sensitivity. In a blinded one-week comparison against seven physician reviewers, MR-AI achieved a PPV of 61.8% versus a human confirmation rate of 51.8% across 83 flagged cases, while requiring approximately 41 fewer projected staff-hours."
               },
               {
                 "t": "p",
-                "x": "The model was trained on about 674,000 outpatient MSK studies covering the spine, thorax and chest wall, upper extremity, and pelvis and lower extremity, according to the vendor. It focuses on describing abnormalities rather than normal anatomy. HOPPR said it evaluated the model against 26 MSK finding categories, including fracture, degenerative joint and spine changes, alignment, and hardware."
-              },
-              {
-                "t": "p",
-                "x": "The model is designed as a software component for developers building radiology reporting and workflow applications, and HOPPR’s Forward Deployed Services team will customize and integrate it for each organization’s data and workflows, the company said. It is not cleared by the U.S. Food and Drug Administration (FDA) and is not intended for diagnostic use, the firm said."
+                "x": "AI-enabled surveillance substantially assisted in missed referral detection, though sustainable improvement will require complementary preventive workflow changes and future cost-effectiveness assessment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "HOPPR 모델, 전신\nMSK X선 소견 초안",
-          "body": "HOPPR 베타 모델이 검사당 최대 세 영상으로 근골격계 X선 소견 초안을 쓴다.",
-          "mini_headline": "HOPPR의 MSK X선 소견 초안",
+          "headline": "놓친 전문의 의뢰\nAI가 일차 진료서 포착",
+          "body": "기록에서 놓친 전문의 의뢰를 찾는 MR-AI를 일차의료 의원 일곱 곳에 썼다.",
+          "mini_headline": "놓친 의뢰\nAI가 포착",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "대퇴골과 경골, 비골, 슬개골이 드러난 사람 무릎 관절 전후면 X-ray 영상"
+                "t": "p",
+                "x": "일차 진료에서 전문의 의뢰를 놓치면 건강은 물론 의료법상으로도 위험이 크지만, 실태는 아직 제대로 파악되지 않았다. 연구진은 진료 기록에서 놓친 의뢰를 찾아내는 AI 기반(AI-supported) 안전 시스템(MR-AI)을 개발해 싱가포르의 일차 진료 의원 일곱 곳에서 준실험 연구로 평가했다. MR-AI는 매주 약 25,000건의 기록을 훑어 의뢰 의도는 있으나 해당 오더가 없는 사례를 골라냈다. 주간 놓친 의뢰 발견 건수는 약 일곱 배로 늘어난 것으로 추산됐다(수준 4.7퍼센트포인트 증가; 95% CI 0.024–0.069; p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "HOPPR가 FS MSK Whole-Body Narrative Model 베타 버전을 내놓는다. 검사 한 건에 영상을 최대 세 장까지 받아 근골격계(MSK) 방사선 사진의 소견 초안을 써 주는 비전-언어 파운데이션 모델이다."
+                "x": "표시된 428건 가운데 225건이 임상의 검증을 통과했고, 여기에 환자가 보고한 31건을 더해 모두 256건을 찾았다. MR-AI의 특이도는 99.9%, 민감도는 48.8%였다. 의사 검토자 일곱 명과 한 주간 맹검 비교를 해 보니 표시된 83건에서 MR-AI의 PPV는 61.8%로 사람의 확인율 51.8%를 웃돌았고, 예상 인력 투입 시간도 약 41시간 적었다."
               },
               {
                 "t": "p",
-                "x": "업체에 따르면 이 모델은 척추, 흉곽과 흉벽, 상지, 골반과 하지를 아우르는 외래 MSK 검사 약 674,000건으로 학습했다. 정상 해부 구조보다는 이상 소견을 적는 데 무게를 둔다. HOPPR는 골절, 퇴행성 관절·척추 변화, 정렬, 금속 고정물 등 26개 MSK 소견 범주로 모델을 평가했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "회사 설명으로는 영상의학 판독 보고와 워크플로 애플리케이션을 만드는 개발자용 소프트웨어 구성요소다. 기관마다 다른 데이터와 워크플로에 맞춰 HOPPR의 Forward Deployed Services 팀이 맞춤화하고 통합한다. 회사는 이 모델이 미국 식품의약국(U.S. Food and Drug Administration, FDA)의 승인을 받지 않았으며 진단용도 아니라고 밝혔다."
+                "x": "AI 기반(AI-enabled) 감시는 놓친 의뢰를 찾는 데 크게 도움이 됐다. 다만 개선을 이어가려면 이를 보완할 예방 업무 흐름 변화와 향후 비용 효과성 평가가 뒤따라야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HOPPRのモデル、全身\nMSKのX線所見を下書き",
-          "body": "HOPPRのベータ視覚言語モデルは、検査ごとに最大三方向画像から筋骨格X線の所見案を作る。",
-          "mini_headline": "HOPPR、MSK X線の所見を下書き",
+          "headline": "見落とされた専門医紹介\nAIがプライマリケアで検出",
+          "body": "研究チームは記録から専門医紹介の漏れを見つけるMR-AIを七つの診療所で検証した。",
+          "mini_headline": "紹介漏れを\nAIが発見",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "大腿骨、脛骨、腓骨、膝蓋骨が写る人の膝関節の前後方向X-ray画像"
+                "t": "p",
+                "x": "プライマリケアにおける専門医紹介の見落としは、健康面と医療法上の大きなリスクをもたらすが、その実態はよくわかっていない。我々は診療記録から紹介漏れを特定するAI支援型(AI-supported)安全システム(MR-AI)を開発し、シンガポールの七つのプライマリケア診療所で準実験研究として評価した。MR-AIは毎週約25,000件の記録を走査し、紹介の意図があるのに対応するオーダーがない例を探した。その結果、週当たりの紹介漏れ検出数は推定で七倍に増えた(水準4.7パーセントポイント増加、95% CI 0.024–0.069、p < 0.001)。"
               },
               {
                 "t": "p",
-                "x": "HOPPRは、FS MSK Whole-Body Narrative Modelのベータ版を公開する。検査ごとに最大三方向の画像を用いて、筋骨格（MSK）X線写真の所見の下書きテキストを生成する視覚言語基盤モデルである。"
+                "x": "フラグが立った428件のうち225件が臨床医により確認され、患者報告の31件と合わせて計256件が検出された。MR-AIの特異度は99.9%、感度は48.8%だった。医師レビュアー七人との一週間の盲検比較では、フラグが立った83件でMR-AIのPPVは61.8%と、人による確認率51.8%を上回り、見込まれるスタッフ作業時間は約41時間少なかった。"
               },
               {
                 "t": "p",
-                "x": "ベンダーによると、このモデルは脊椎、胸郭と胸壁、上肢、骨盤と下肢を含む外来MSK検査約674,000件で学習した。正常な解剖ではなく異常の記述に重点を置く。HOPPRは、骨折、変性性の関節・脊椎変化、アライメント、インプラントなど26のMSK所見カテゴリーでモデルを評価したとしている。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、このモデルは放射線レポートやワークフローのアプリケーションを開発する開発者向けのソフトウェアコンポーネントとして設計されており、HOPPRのForward Deployed Servicesチームが各組織のデータとワークフローに合わせてカスタマイズし、統合する。同社は、U.S. Food and Drug Administration（FDA）の承認は受けておらず、診断用途を意図したものではないとしている。"
+                "x": "AI活用型(AI-enabled)の監視は紹介漏れの検出に大きく役立ったが、持続的な改善には補完的な予防的ワークフローの変更と、今後の費用対効果の評価が必要となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HOPPR模型起草\n全身MSK X光片所见",
-          "body": "HOPPR的测试版视觉语言模型可基于每项检查最多三个视图，起草肌肉骨骼X光片所见。",
-          "mini_headline": "HOPPR起草MSK X光所见",
+          "headline": "AI发现基层医疗中\n被遗漏的专科转诊",
+          "body": "研究人员在七家基层诊所测试了MR-AI，它能从病历中找出遗漏的专科转诊。",
+          "mini_headline": "AI找出\n遗漏转诊",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "人体膝关节正位X-ray影像，可见股骨、胫骨、腓骨和髌骨"
+                "t": "p",
+                "x": "基层医疗中遗漏的专科转诊带来重大的健康和医疗法律风险，但人们对此仍知之甚少。我们开发了一套AI辅助(AI-supported)安全系统(MR-AI)，用于从诊疗记录中识别遗漏的转诊，并在新加坡七家基层医疗诊所开展准实验研究进行评估。MR-AI每周扫描约25,000份记录，查找有转诊意图却没有相应医嘱的情况，估计使每周遗漏转诊检出量提高到约七倍(水平提升4.7个百分点；95% CI 0.024–0.069；p < 0.001)。"
               },
               {
                 "t": "p",
-                "x": "HOPPR推出其FS MSK Whole-Body Narrative Model测试版。这是一款视觉语言基础模型，可利用每项检查最多三个视图，为肌肉骨骼（MSK）X光片生成所见草稿文本。"
+                "x": "在被标记的428例中，225例经临床医生核实，另有31例由患者报告，共检出256例。MR-AI的特异度为99.9%，敏感度为48.8%。在与七名医生审核员进行的为期一周的盲法比较中，针对83例被标记病例，MR-AI的PPV为61.8%，而人工确认率为51.8%，同时预计可减少约41个员工工时。"
               },
               {
                 "t": "p",
-                "x": "据该厂商介绍，模型基于约674,000例门诊MSK检查训练，涵盖脊柱、胸廓与胸壁、上肢以及骨盆与下肢。它侧重描述异常而非正常解剖结构。HOPPR表示，已针对26类MSK所见对模型进行评估，包括骨折、退行性关节和脊柱改变、对线以及内植物。"
-              },
-              {
-                "t": "p",
-                "x": "该公司表示，该模型被设计为面向开发放射学报告和工作流程应用的开发者的软件组件，HOPPR的Forward Deployed Services团队将根据各机构的数据和工作流程进行定制和集成。该公司称，该模型未获U.S. Food and Drug Administration（FDA）批准，不用于诊断。"
+                "x": "AI赋能(AI-enabled)的监测在发现遗漏转诊方面提供了很大帮助，但要实现可持续的改善，还需配套的预防性工作流程调整以及未来的成本效益评估。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HOPPR redacta hallazgos de\nrayos X MSK de cuerpo entero",
-          "body": "El modelo beta de HOPPR redacta hallazgos de radiografías musculoesqueléticas con hasta tres vistas por estudio.",
-          "mini_headline": "HOPPR redacta hallazgos de rayos X MSK",
+          "headline": "La AI detecta derivaciones\nomitidas en atención primaria",
+          "body": "Investigadores probaron MR-AI, que detecta derivaciones omitidas en las notas, en siete clínicas de atención primaria.",
+          "mini_headline": "La AI halla\nderivaciones omitidas",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "Imagen de X-ray de la articulación de la rodilla humana que muestra fémur, tibia, peroné y rótula en proyección anteroposterior"
+                "t": "p",
+                "x": "Las derivaciones al especialista omitidas en atención primaria suponen riesgos sanitarios y médico-legales considerables, pero siguen siendo poco conocidas. Desarrollamos un sistema de seguridad con apoyo de AI (AI-supported), MR-AI, para identificar derivaciones omitidas a partir de las notas de consulta, y lo evaluamos en un estudio cuasiexperimental en siete clínicas de atención primaria de Singapur. MR-AI analizó ~25,000 notas por semana en busca de intención de derivación sin una orden correspondiente, y logró un aumento estimado de siete veces en la detección semanal de derivaciones omitidas (aumento de nivel de 4.7 puntos porcentuales; 95% CI 0.024–0.069; p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "HOPPR lanza una versión beta de su FS MSK Whole-Body Narrative Model, un modelo fundacional de visión y lenguaje que genera borradores de texto de hallazgos para radiografías musculoesqueléticas (MSK) con hasta tres vistas por estudio."
+                "x": "De 428 casos señalados, 225 fueron verificados por clínicos, junto con 31 casos notificados por pacientes, lo que dio 256 detecciones en total. MR-AI mostró una especificidad del 99.9% y una sensibilidad del 48.8%. En una comparación ciega de una semana frente a siete médicos revisores, MR-AI alcanzó un PPV del 61.8% frente a una tasa de confirmación humana del 51.8% en 83 casos señalados, y requirió aproximadamente 41 horas de personal proyectadas menos."
               },
               {
                 "t": "p",
-                "x": "Según el proveedor, el modelo se entrenó con unos 674,000 estudios MSK ambulatorios de columna, tórax y pared torácica, extremidad superior, y pelvis y extremidad inferior. Se centra en describir anomalías y no la anatomía normal. HOPPR dijo que evaluó el modelo en 26 categorías de hallazgos MSK, entre ellas fracturas, cambios degenerativos articulares y de columna, alineación y material implantado."
-              },
-              {
-                "t": "p",
-                "x": "El modelo está diseñado como un componente de software para desarrolladores que crean aplicaciones de informes radiológicos y de flujo de trabajo, y el equipo Forward Deployed Services de HOPPR lo personalizará e integrará según los datos y flujos de trabajo de cada organización, dijo la empresa. No cuenta con la autorización de la U.S. Food and Drug Administration (FDA) y no está destinado a uso diagnóstico, señaló la firma."
+                "x": "La vigilancia habilitada por AI (AI-enabled) ayudó de forma sustancial a detectar derivaciones omitidas, aunque una mejora sostenible requerirá cambios preventivos complementarios en el flujo de trabajo y una futura evaluación de costo-efectividad."
               }
             ]
           }
@@ -1403,109 +779,603 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "HOPPR 모델, 전신\nMSK X선 소견 초안",
-          "body": "HOPPR 베타 모델은 검사당 최대 세 영상으로 근골격계 X선 소견 초안을 쓴다.",
-          "mini_headline": "HOPPR, MSK X선 소견 초안",
+          "headline": "놓친 전문의 의뢰\nAI가 일차 진료서 포착",
+          "body": "기록 속 놓친 전문의 의뢰를 찾는 MR-AI를 일차의료 의원 일곱 곳에 적용했다.",
+          "mini_headline": "놓친 의뢰\nAI가 포착",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "대퇴골, 경골, 비골, 슬개골이 보이는 사람 무릎 관절의 전후면 X-ray 영상"
+                "t": "p",
+                "x": "일차 진료에서 놓친 전문의 의뢰는 건강과 의료법 측면에서 상당한 위험을 낳지만, 아직 제대로 파악되지 않았다. 연구진은 진료 기록에서 놓친 의뢰를 찾아내는 AI 기반(AI-supported) 안전 시스템(MR-AI)을 개발해, 싱가포르의 일차 진료 의원 일곱 곳에서 준실험 연구로 평가했다. MR-AI는 매주 약 25,000건의 기록을 훑어 의뢰 의도는 있으나 해당 오더가 없는 사례를 찾았고, 주간 놓친 의뢰 발견 건수를 약 일곱 배로 늘린 것으로 추산됐다(수준 4.7퍼센트포인트 증가; 95% CI 0.024–0.069; p < 0.001)."
               },
               {
                 "t": "p",
-                "x": "HOPPR가 FS MSK Whole-Body Narrative Model의 베타 버전을 출시한다. 검사당 최대 세 장의 영상으로 근골격계(MSK) 방사선 사진의 소견 초안 텍스트를 생성하는 비전-언어 파운데이션 모델이다."
+                "x": "표시된 428건 중 225건이 임상의 검증을 거쳤고, 환자가 보고한 31건을 더해 총 256건이 발견됐다. MR-AI의 특이도는 99.9%, 민감도는 48.8%였다. 의사 검토자 일곱 명과 한 주 동안 맹검 비교한 결과, 표시된 83건에서 MR-AI의 PPV는 61.8%로 사람의 확인율 51.8%보다 높았고, 예상 인력 투입 시간은 약 41시간 적었다."
               },
               {
                 "t": "p",
-                "x": "업체에 따르면 이 모델은 척추, 흉곽과 흉벽, 상지, 골반과 하지를 아우르는 외래 MSK 검사 약 674,000건으로 학습했다. 정상 해부 구조보다 이상 소견을 기술하는 데 초점을 맞춘다. HOPPR는 골절, 퇴행성 관절·척추 변화, 정렬, 금속 고정물 등 26개 MSK 소견 범주를 기준으로 모델을 평가했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "회사에 따르면 이 모델은 영상의학 판독 보고와 워크플로 애플리케이션을 만드는 개발자용 소프트웨어 구성요소로 설계됐으며, HOPPR의 Forward Deployed Services 팀이 기관별 데이터와 워크플로에 맞춰 맞춤화하고 통합한다. 회사는 이 모델이 미국 식품의약국(U.S. Food and Drug Administration, FDA)의 승인을 받지 않았고 진단용이 아니라고 밝혔다."
+                "x": "AI 기반(AI-enabled) 감시는 놓친 의뢰를 찾는 데 큰 도움이 됐지만, 지속적인 개선을 위해서는 보완적인 예방 업무 흐름 변화와 향후 비용 효과성 평가가 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HOPPRのモデル、全身\nMSKのX線所見を下書き",
-          "body": "HOPPRのベータ視覚言語モデルは、検査ごとに最大三方向画像から筋骨格X線の所見案を作る。",
-          "mini_headline": "HOPPR、MSK X線の所見を下書き",
+          "headline": "見落とされた専門医紹介\nAIがプライマリケアで検出",
+          "body": "研究チームは記録から専門医紹介の漏れを見つけるMR-AIを七つの診療所で検証した。",
+          "mini_headline": "紹介漏れを\nAIが発見",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "大腿骨、脛骨、腓骨、膝蓋骨が写る人の膝関節の前後方向X-ray画像"
+                "t": "p",
+                "x": "プライマリケアにおける専門医紹介の見落としは、健康面と医療法上の大きなリスクをもたらすが、その実態はよくわかっていない。我々は診療記録から紹介漏れを特定するAI支援型(AI-supported)安全システム(MR-AI)を開発し、シンガポールの七つのプライマリケア診療所で準実験研究として評価した。MR-AIは毎週約25,000件の記録を走査し、紹介の意図があるのに対応するオーダーがない例を探した。その結果、週当たりの紹介漏れ検出数は推定で七倍に増えた(水準4.7パーセントポイント増加、95% CI 0.024–0.069、p < 0.001)。"
               },
               {
                 "t": "p",
-                "x": "HOPPRは、FS MSK Whole-Body Narrative Modelのベータ版を公開する。検査ごとに最大三方向の画像を用いて、筋骨格（MSK）X線写真の所見の下書きテキストを生成する視覚言語基盤モデルである。"
+                "x": "フラグが立った428件のうち225件が臨床医により確認され、患者報告の31件と合わせて計256件が検出された。MR-AIの特異度は99.9%、感度は48.8%だった。医師レビュアー七人との一週間の盲検比較では、フラグが立った83件でMR-AIのPPVは61.8%と、人による確認率51.8%を上回り、見込まれるスタッフ作業時間は約41時間少なかった。"
               },
               {
                 "t": "p",
-                "x": "ベンダーによると、このモデルは脊椎、胸郭と胸壁、上肢、骨盤と下肢を含む外来MSK検査約674,000件で学習した。正常な解剖ではなく異常の記述に重点を置く。HOPPRは、骨折、変性性の関節・脊椎変化、アライメント、インプラントなど26のMSK所見カテゴリーでモデルを評価したとしている。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、このモデルは放射線レポートやワークフローのアプリケーションを開発する開発者向けのソフトウェアコンポーネントとして設計されており、HOPPRのForward Deployed Servicesチームが各組織のデータとワークフローに合わせてカスタマイズし、統合する。同社は、U.S. Food and Drug Administration（FDA）の承認は受けておらず、診断用途を意図したものではないとしている。"
+                "x": "AI活用型(AI-enabled)の監視は紹介漏れの検出に大きく役立ったが、持続的な改善には補完的な予防的ワークフローの変更と、今後の費用対効果の評価が必要となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HOPPR模型起草\n全身MSK X光片所见",
-          "body": "HOPPR的测试版视觉语言模型可基于每项检查最多三个视图，起草肌肉骨骼X光片所见。",
-          "mini_headline": "HOPPR起草MSK X光所见",
+          "headline": "AI发现基层医疗中\n被遗漏的专科转诊",
+          "body": "研究人员在七家基层诊所测试了MR-AI，它能从病历中找出遗漏的专科转诊。",
+          "mini_headline": "AI找出\n遗漏转诊",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "人体膝关节正位X-ray影像，可见股骨、胫骨、腓骨和髌骨"
+                "t": "p",
+                "x": "基层医疗中遗漏的专科转诊带来重大的健康和医疗法律风险，但人们对此仍知之甚少。我们开发了一套AI辅助(AI-supported)安全系统(MR-AI)，用于从诊疗记录中识别遗漏的转诊，并在新加坡七家基层医疗诊所开展准实验研究进行评估。MR-AI每周扫描约25,000份记录，查找有转诊意图却没有相应医嘱的情况，估计使每周遗漏转诊检出量提高到约七倍(水平提升4.7个百分点；95% CI 0.024–0.069；p < 0.001)。"
               },
               {
                 "t": "p",
-                "x": "HOPPR推出其FS MSK Whole-Body Narrative Model测试版。这是一款视觉语言基础模型，可利用每项检查最多三个视图，为肌肉骨骼（MSK）X光片生成所见草稿文本。"
+                "x": "在被标记的428例中，225例经临床医生核实，另有31例由患者报告，共检出256例。MR-AI的特异度为99.9%，敏感度为48.8%。在与七名医生审核员进行的为期一周的盲法比较中，针对83例被标记病例，MR-AI的PPV为61.8%，而人工确认率为51.8%，同时预计可减少约41个员工工时。"
               },
               {
                 "t": "p",
-                "x": "据该厂商介绍，模型基于约674,000例门诊MSK检查训练，涵盖脊柱、胸廓与胸壁、上肢以及骨盆与下肢。它侧重描述异常而非正常解剖结构。HOPPR表示，已针对26类MSK所见对模型进行评估，包括骨折、退行性关节和脊柱改变、对线以及内植物。"
-              },
-              {
-                "t": "p",
-                "x": "该公司表示，该模型被设计为面向开发放射学报告和工作流程应用的开发者的软件组件，HOPPR的Forward Deployed Services团队将根据各机构的数据和工作流程进行定制和集成。该公司称，该模型未获U.S. Food and Drug Administration（FDA）批准，不用于诊断。"
+                "x": "AI赋能(AI-enabled)的监测在发现遗漏转诊方面提供了很大帮助，但要实现可持续的改善，还需配套的预防性工作流程调整以及未来的成本效益评估。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HOPPR redacta hallazgos de\nrayos X MSK de cuerpo entero",
-          "body": "El modelo beta de HOPPR redacta hallazgos de radiografías musculoesqueléticas con hasta tres vistas por estudio.",
-          "mini_headline": "HOPPR redacta hallazgos de rayos X MSK",
+          "headline": "La AI detecta derivaciones\nomitidas en atención primaria",
+          "body": "Investigadores probaron MR-AI, que detecta derivaciones omitidas en las notas, en siete clínicas de atención primaria.",
+          "mini_headline": "La AI halla\nderivaciones omitidas",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Las derivaciones al especialista omitidas en atención primaria suponen riesgos sanitarios y médico-legales considerables, pero siguen siendo poco conocidas. Desarrollamos un sistema de seguridad con apoyo de AI (AI-supported), MR-AI, para identificar derivaciones omitidas a partir de las notas de consulta, y lo evaluamos en un estudio cuasiexperimental en siete clínicas de atención primaria de Singapur. MR-AI analizó ~25,000 notas por semana en busca de intención de derivación sin una orden correspondiente, y logró un aumento estimado de siete veces en la detección semanal de derivaciones omitidas (aumento de nivel de 4.7 puntos porcentuales; 95% CI 0.024–0.069; p < 0.001)."
+              },
+              {
+                "t": "p",
+                "x": "De 428 casos señalados, 225 fueron verificados por clínicos, junto con 31 casos notificados por pacientes, lo que dio 256 detecciones en total. MR-AI mostró una especificidad del 99.9% y una sensibilidad del 48.8%. En una comparación ciega de una semana frente a siete médicos revisores, MR-AI alcanzó un PPV del 61.8% frente a una tasa de confirmación humana del 51.8% en 83 casos señalados, y requirió aproximadamente 41 horas de personal proyectadas menos."
+              },
+              {
+                "t": "p",
+                "x": "La vigilancia habilitada por AI (AI-enabled) ayudó de forma sustancial a detectar derivaciones omitidas, aunque una mejora sostenible requerirá cambios preventivos complementarios en el flujo de trabajo y una futura evaluación de costo-efectividad."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "amhart-teen-chatbot-eval",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "불안·우울 청소년에게\n챗봇은 어떻게 답할까",
+      "body": "AMHART로 챗봇 넷의 청소년 불안·우울 응답을 따져보니 우울 대응이 약했다.",
+      "mini_headline": "챗봇과\n청소년 정신건강",
+      "tool": "Medicine",
+      "source": "Nature Mental Health",
+      "url": "https://www.nature.com/articles/s44220-026-00753-y",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "범용 인공지능(AI) 챗봇에 정신건강 조언을 구하는 청소년은 많지만, 청소년에 맞춘 임상 기준으로 그 답을 평가한 연구는 드물다. 연구진은 임상의 의견을 반영해 Adolescent Mental Health AI Response Tool(AMHART)을 만들었다. 응답에 지침에 근거한 내용이 들어 있는지 일곱 개 영역에서 점검하는 도구로, 주요 AI 챗봇 네 개에 적용했다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+            "cap": "Fig. 1: AMHART 개발과 평가 개요."
+          },
+          {
+            "t": "p",
+            "x": "후보 항목은 임상의가 근거 기반·객관성·임상적 중요성을 따져 검토했고, 내용 타당도와 평가자 간 신뢰도가 높은 일부 항목만 추렸다. 이어 대규모 언어 모델 세 개로 평가 앙상블을 꾸려 사람이 붙인 기준 라벨과 얼마나 일치하는지 확인한 뒤 성별·진단·증상 심각도가 다른 청소년 페르소나가 ChatGPT-5, ChatGPT-4, Claude 4.5, Gemini 2.5와 여러 차례 나눈 대화를 채점했다."
+          },
+          {
+            "t": "p",
+            "x": "AMHART 점수로 보면 기준 충족 범위는 우울증보다 불안에서, 중증보다 중등도 사례에서 더 넓었다. 이번 결과로 AMHART가 청소년의 불안·우울 고백에 챗봇이 어떻게 답하는지 평가할 때 믿을 만하고 임상의 의견까지 반영한 기준이 될 수 있음이 드러났다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "How chatbots answer teens\nwith anxiety or depression",
+          "body": "Researchers built AMHART to grade four chatbots' replies to teens with anxiety or depression; depression fared worse.",
+          "mini_headline": "Chatbots and\nteen mental health",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Many adolescents seek mental health advice from general-purpose artificial intelligence (AI) chatbots, despite limited evaluations against youth-relevant clinical standards. Here we developed the Adolescent Mental Health AI Response Tool (AMHART), a clinician-informed instrument for auditing the presence of guideline-informed response content across seven domains, and applied it to four major AI chatbots."
+              },
+              {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/x-ray-knee-400.14HOEtpQRf.jpg?auto=format%2Ccompress&q=70&w=400",
-                "cap": "Imagen de X-ray de la articulación de la rodilla humana que muestra fémur, tibia, peroné y rótula en proyección anteroposterior"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: Graphic summary of AMHART development and evaluation."
               },
               {
                 "t": "p",
-                "x": "HOPPR lanza una versión beta de su FS MSK Whole-Body Narrative Model, un modelo fundacional de visión y lenguaje que genera borradores de texto de hallazgos para radiografías musculoesqueléticas (MSK) con hasta tres vistas por estudio."
+                "x": "Candidate items were reviewed by clinicians for their evidence base, objectivity and clinical importance, yielding a subset with strong content validity and inter-rater reliability. We then configured a three-model large language model evaluator ensemble, assessed its agreement with human reference labels and scored multiturn conversations in which adolescent personas (varying by sex, diagnosis and symptom severity) engaged with ChatGPT-5, ChatGPT-4, Claude 4.5 and Gemini 2.5."
               },
               {
                 "t": "p",
-                "x": "Según el proveedor, el modelo se entrenó con unos 674,000 estudios MSK ambulatorios de columna, tórax y pared torácica, extremidad superior, y pelvis y extremidad inferior. Se centra en describir anomalías y no la anatomía normal. HOPPR dijo que evaluó el modelo en 26 categorías de hallazgos MSK, entre ellas fracturas, cambios degenerativos articulares y de columna, alineación y material implantado."
+                "x": "AMHART scores indicated greater coverage of applicable criteria for anxiety than depression and for moderate than severe presentations. The findings suggest AMHART offers a reliable, clinician-informed benchmark for evaluating chatbot responses to adolescent anxiety and depression disclosures."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "불안·우울 청소년에게\n챗봇은 어떻게 답할까",
+          "body": "AMHART로 챗봇 넷의 청소년 불안·우울 응답을 따져보니 우울 대응이 약했다.",
+          "mini_headline": "챗봇과\n청소년 정신건강",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "범용 인공지능(AI) 챗봇에 정신건강 조언을 구하는 청소년은 많지만, 청소년에 맞춘 임상 기준으로 그 답을 평가한 연구는 드물다. 연구진은 임상의 의견을 반영해 Adolescent Mental Health AI Response Tool(AMHART)을 만들었다. 응답에 지침에 근거한 내용이 들어 있는지 일곱 개 영역에서 점검하는 도구로, 주요 AI 챗봇 네 개에 적용했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: AMHART 개발과 평가 개요."
               },
               {
                 "t": "p",
-                "x": "El modelo está diseñado como un componente de software para desarrolladores que crean aplicaciones de informes radiológicos y de flujo de trabajo, y el equipo Forward Deployed Services de HOPPR lo personalizará e integrará según los datos y flujos de trabajo de cada organización, dijo la empresa. No cuenta con la autorización de la U.S. Food and Drug Administration (FDA) y no está destinado a uso diagnóstico, señaló la firma."
+                "x": "후보 항목은 임상의가 근거 기반·객관성·임상적 중요성을 따져 검토했고, 내용 타당도와 평가자 간 신뢰도가 높은 일부 항목만 추렸다. 이어 대규모 언어 모델 세 개로 평가 앙상블을 꾸려 사람이 붙인 기준 라벨과 얼마나 일치하는지 확인한 뒤 성별·진단·증상 심각도가 다른 청소년 페르소나가 ChatGPT-5, ChatGPT-4, Claude 4.5, Gemini 2.5와 여러 차례 나눈 대화를 채점했다."
+              },
+              {
+                "t": "p",
+                "x": "AMHART 점수로 보면 기준 충족 범위는 우울증보다 불안에서, 중증보다 중등도 사례에서 더 넓었다. 이번 결과로 AMHART가 청소년의 불안·우울 고백에 챗봇이 어떻게 답하는지 평가할 때 믿을 만하고 임상의 의견까지 반영한 기준이 될 수 있음이 드러났다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "不安・うつの若者に\nチャットボットはどう答える",
+          "body": "AMHARTで四つのチャットボットの若者への応答を評価し、うつは不安より低評価だった。",
+          "mini_headline": "チャットボットと\n若者のメンタルヘルス",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "多くの若者が汎用の人工知能(AI)チャットボットにメンタルヘルスの助言を求めているが、若者に即した臨床基準による評価は限られている。本研究では、臨床医の知見を取り入れ、七つの領域でガイドラインに基づく応答内容の有無を監査するツール、Adolescent Mental Health AI Response Tool(AMHART)を開発し、主要なAIチャットボット四つに適用した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: AMHARTの開発と評価の概要。"
+              },
+              {
+                "t": "p",
+                "x": "候補項目は臨床医がエビデンスの裏付け、客観性、臨床的重要性の観点から審査し、高い内容妥当性と評価者間信頼性を備えた項目群を得た。次に、三つのモデルからなる大規模言語モデル評価アンサンブルを構成して人手による参照ラベルとの一致度を確認し、性別、診断、症状の重さが異なる若者のペルソナがChatGPT-5、ChatGPT-4、Claude 4.5、Gemini 2.5とやり取りした複数ターンの会話を採点した。"
+              },
+              {
+                "t": "p",
+                "x": "AMHARTのスコアでは、該当基準の網羅度はうつより不安で、重度より中等度の症状で高かった。この結果は、AMHARTが若者の不安やうつの打ち明けに対するチャットボットの応答を評価するうえで、信頼でき臨床医の知見を反映したベンチマークとなることを示唆する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "面对焦虑抑郁青少年\n聊天机器人如何回应",
+          "body": "研究者用AMHART评估四款聊天机器人对焦虑或抑郁青少年的回复，抑郁表现更差。",
+          "mini_headline": "聊天机器人与\n青少年心理健康",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "许多青少年向通用人工智能(AI)聊天机器人寻求心理健康建议，但依据青少年相关临床标准开展的评估十分有限。我们开发了Adolescent Mental Health AI Response Tool(AMHART)，这是一种结合临床医生意见的工具，用于审核七个领域中是否包含基于指南的回应内容，并将其应用于四款主流AI聊天机器人。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: AMHART开发与评估的图示概要。"
+              },
+              {
+                "t": "p",
+                "x": "候选条目由临床医生根据证据基础、客观性和临床重要性进行审核，最终得到一组具有较强内容效度和评分者间信度的条目。随后，我们配置了由三个大语言模型组成的评估集成，检验其与人工参考标签的一致性，并对青少年角色(按性别、诊断和症状严重程度区分)与ChatGPT-5、ChatGPT-4、Claude 4.5和Gemini 2.5进行的多轮对话进行评分。"
+              },
+              {
+                "t": "p",
+                "x": "AMHART评分显示，焦虑的适用标准覆盖率高于抑郁，中度表现的覆盖率高于重度表现。研究结果表明，AMHART可作为一个可靠且结合临床医生意见的基准，用于评估聊天机器人对青少年倾诉焦虑和抑郁时的回应。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Chatbots ante adolescentes\ncon ansiedad o depresión",
+          "body": "AMHART evaluó las respuestas de cuatro chatbots a adolescentes con ansiedad o depresión, y la depresión salió peor.",
+          "mini_headline": "Chatbots y salud\nmental adolescente",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Muchos adolescentes buscan consejo de salud mental en chatbots de inteligencia artificial (AI) de uso general, pese a que las evaluaciones frente a estándares clínicos pertinentes para jóvenes son limitadas. Aquí desarrollamos la Adolescent Mental Health AI Response Tool (AMHART), un instrumento elaborado con aportes de clínicos para auditar la presencia de contenido de respuesta basado en guías en siete dominios, y lo aplicamos a cuatro de los principales chatbots de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: Resumen gráfico del desarrollo y la evaluación de AMHART."
+              },
+              {
+                "t": "p",
+                "x": "Los ítems candidatos fueron revisados por clínicos según su base de evidencia, objetividad e importancia clínica, lo que dio un subconjunto con sólida validez de contenido y fiabilidad entre evaluadores. Después configuramos un conjunto evaluador de tres modelos de lenguaje de gran tamaño, evaluamos su concordancia con etiquetas de referencia humanas y puntuamos conversaciones de varios turnos en las que perfiles de adolescentes (que variaban por sexo, diagnóstico y gravedad de los síntomas) interactuaban con ChatGPT-5, ChatGPT-4, Claude 4.5 y Gemini 2.5."
+              },
+              {
+                "t": "p",
+                "x": "Las puntuaciones de AMHART indicaron una mayor cobertura de los criterios aplicables en ansiedad que en depresión, y en cuadros moderados que en graves. Los resultados sugieren que AMHART ofrece una referencia fiable y basada en el criterio clínico para evaluar las respuestas de los chatbots cuando los adolescentes revelan ansiedad o depresión."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "불안·우울 청소년에게\n챗봇은 어떻게 답할까",
+          "body": "AMHART로 네 챗봇의 청소년 불안·우울 응답을 평가하니 우울 대응이 미흡했다.",
+          "mini_headline": "챗봇과\n청소년 정신건강",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "많은 청소년이 범용 인공지능(AI) 챗봇에서 정신건강 조언을 구하지만, 청소년에 맞는 임상 기준으로 이를 평가한 연구는 많지 않다. 연구진은 임상의의 의견을 반영해 일곱 개 영역에서 지침에 근거한 응답 내용이 있는지 점검하는 도구인 Adolescent Mental Health AI Response Tool(AMHART)을 개발하고, 이를 주요 AI 챗봇 네 개에 적용했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: AMHART 개발 및 평가 개요."
+              },
+              {
+                "t": "p",
+                "x": "후보 항목은 임상의가 근거 기반, 객관성, 임상적 중요성을 기준으로 검토했으며, 그 결과 내용 타당도와 평가자 간 신뢰도가 높은 일부 항목을 추렸다. 이어 세 개 모델로 이뤄진 대규모 언어 모델 평가 앙상블을 구성해 사람이 붙인 기준 라벨과의 일치도를 확인하고, 성별·진단·증상 심각도가 다른 청소년 페르소나가 ChatGPT-5, ChatGPT-4, Claude 4.5, Gemini 2.5와 나눈 여러 차례의 대화를 채점했다."
+              },
+              {
+                "t": "p",
+                "x": "AMHART 점수를 보면 해당 기준의 충족 범위는 우울증보다 불안에서, 중증보다 중등도 사례에서 더 넓었다. 연구 결과는 AMHART가 청소년의 불안·우울 고백에 대한 챗봇 응답을 평가하는 데 믿을 만하고 임상의 의견을 반영한 기준이 될 수 있음을 보여준다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "不安・うつの若者に\nチャットボットはどう答える",
+          "body": "AMHARTで四つのチャットボットの若者への応答を評価し、うつは不安より低評価だった。",
+          "mini_headline": "チャットボットと\n若者のメンタルヘルス",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "多くの若者が汎用の人工知能(AI)チャットボットにメンタルヘルスの助言を求めているが、若者に即した臨床基準による評価は限られている。本研究では、臨床医の知見を取り入れ、七つの領域でガイドラインに基づく応答内容の有無を監査するツール、Adolescent Mental Health AI Response Tool(AMHART)を開発し、主要なAIチャットボット四つに適用した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: AMHARTの開発と評価の概要。"
+              },
+              {
+                "t": "p",
+                "x": "候補項目は臨床医がエビデンスの裏付け、客観性、臨床的重要性の観点から審査し、高い内容妥当性と評価者間信頼性を備えた項目群を得た。次に、三つのモデルからなる大規模言語モデル評価アンサンブルを構成して人手による参照ラベルとの一致度を確認し、性別、診断、症状の重さが異なる若者のペルソナがChatGPT-5、ChatGPT-4、Claude 4.5、Gemini 2.5とやり取りした複数ターンの会話を採点した。"
+              },
+              {
+                "t": "p",
+                "x": "AMHARTのスコアでは、該当基準の網羅度はうつより不安で、重度より中等度の症状で高かった。この結果は、AMHARTが若者の不安やうつの打ち明けに対するチャットボットの応答を評価するうえで、信頼でき臨床医の知見を反映したベンチマークとなることを示唆する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "面对焦虑抑郁青少年\n聊天机器人如何回应",
+          "body": "研究者用AMHART评估四款聊天机器人对焦虑或抑郁青少年的回复，抑郁表现更差。",
+          "mini_headline": "聊天机器人与\n青少年心理健康",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "许多青少年向通用人工智能(AI)聊天机器人寻求心理健康建议，但依据青少年相关临床标准开展的评估十分有限。我们开发了Adolescent Mental Health AI Response Tool(AMHART)，这是一种结合临床医生意见的工具，用于审核七个领域中是否包含基于指南的回应内容，并将其应用于四款主流AI聊天机器人。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: AMHART开发与评估的图示概要。"
+              },
+              {
+                "t": "p",
+                "x": "候选条目由临床医生根据证据基础、客观性和临床重要性进行审核，最终得到一组具有较强内容效度和评分者间信度的条目。随后，我们配置了由三个大语言模型组成的评估集成，检验其与人工参考标签的一致性，并对青少年角色(按性别、诊断和症状严重程度区分)与ChatGPT-5、ChatGPT-4、Claude 4.5和Gemini 2.5进行的多轮对话进行评分。"
+              },
+              {
+                "t": "p",
+                "x": "AMHART评分显示，焦虑的适用标准覆盖率高于抑郁，中度表现的覆盖率高于重度表现。研究结果表明，AMHART可作为一个可靠且结合临床医生意见的基准，用于评估聊天机器人对青少年倾诉焦虑和抑郁时的回应。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Chatbots ante adolescentes\ncon ansiedad o depresión",
+          "body": "AMHART evaluó las respuestas de cuatro chatbots a adolescentes con ansiedad o depresión, y la depresión salió peor.",
+          "mini_headline": "Chatbots y salud\nmental adolescente",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Muchos adolescentes buscan consejo de salud mental en chatbots de inteligencia artificial (AI) de uso general, pese a que las evaluaciones frente a estándares clínicos pertinentes para jóvenes son limitadas. Aquí desarrollamos la Adolescent Mental Health AI Response Tool (AMHART), un instrumento elaborado con aportes de clínicos para auditar la presencia de contenido de respuesta basado en guías en siete dominios, y lo aplicamos a cuatro de los principales chatbots de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+                "cap": "Fig. 1: Resumen gráfico del desarrollo y la evaluación de AMHART."
+              },
+              {
+                "t": "p",
+                "x": "Los ítems candidatos fueron revisados por clínicos según su base de evidencia, objetividad e importancia clínica, lo que dio un subconjunto con sólida validez de contenido y fiabilidad entre evaluadores. Después configuramos un conjunto evaluador de tres modelos de lenguaje de gran tamaño, evaluamos su concordancia con etiquetas de referencia humanas y puntuamos conversaciones de varios turnos en las que perfiles de adolescentes (que variaban por sexo, diagnóstico y gravedad de los síntomas) interactuaban con ChatGPT-5, ChatGPT-4, Claude 4.5 y Gemini 2.5."
+              },
+              {
+                "t": "p",
+                "x": "Las puntuaciones de AMHART indicaron una mayor cobertura de los criterios aplicables en ansiedad que en depresión, y en cuadros moderados que en graves. Los resultados sugieren que AMHART ofrece una referencia fiable y basada en el criterio clínico para evaluar las respuestas de los chatbots cuando los adolescentes revelan ansiedad o depresión."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "brainomix-glyburide-ct",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Brainomix AI가\n뇌졸중 투약 환자 선별",
+      "body": "Brainomix CT 분석으로 IV 글리부라이드가 듣는 뇌졸중 환자를 가려냈다.",
+      "mini_headline": "Brainomix AI와\n뇌졸중 약물 선택",
+      "tool": "Medicine",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Brainomix는 자사 소프트웨어로 비조영 CT를 자동 분석하면 대형 반구 경색 환자를 가려내는 데 도움이 될 수 있다는 연구를 소개했다. 서울에서 열린 World Stroke Conference에서 발표된 III상 Charm 임상시험 사후 분석을 보면 이들 환자는 Remedy Pharmaceuticals의 연구용 치료제인 정맥 주사 글리부라이드(Cirara)로 효과를 볼 가능성이 더 높았다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 Brainomix 360 Stroke 소프트웨어로 임상시험 환자 428명의 비조영 CT에서 급성 경색 부피를 측정했다. 연구진에 따르면 경색 핵심 부피가 125 mL 미만인 환자 191명의 하위군을 따로 보면 Cirara는 modified Rankin Scale 기준 기능적 결과 개선과 유의하게 연관됐고, 90일째 0~3점에 이를 가능성도 더 높았다."
+          },
+          {
+            "t": "p",
+            "x": "Brainomix는 이번 결과를 근거로 CT 관류 영상이나 MRI 같은 고급 영상이 없어도 이 치료제의 임상시험 대상 환자를 고를 수 있다고 밝혔다. Cirara는 아직 어떤 규제 당국의 승인도 받지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Brainomix AI spots stroke\npatients for glyburide",
+          "body": "Brainomix highlights a study where its automated CT analysis flagged stroke patients likely to gain from IV glyburide.",
+          "mini_headline": "Brainomix AI and\nstroke drug choice",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomix is highlighting a study showing how automated noncontrast CT analysis with the company's software may help identify patients with large hemispheric infarction. These patients are more likely to benefit from intravenous glyburide (Cirara), an investigational therapy from Remedy Pharmaceuticals, according to a post-hoc analysis of the phase III Charm trial presented at the World Stroke Conference in Seoul."
+              },
+              {
+                "t": "p",
+                "x": "Using its Brainomix 360 Stroke software, the company measured acute infarct volume on noncontrast CT in 428 trial patients. In a subgroup of 191 patients with infarct core volumes below 125 mL, Cirara showed significantly association with improved functional outcomes on the modified Rankin Scale, including a greater likelihood of achieving a score of 0 to 3 at 90 days, the researchers found."
+              },
+              {
+                "t": "p",
+                "x": "The findings suggest that patients could be selected for trials of the therapy without advanced imaging such as CT perfusion or MRI, Brainomix said. Cirara has not been approved by any regulatory authority."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Brainomix AI가\n뇌졸중 투약 환자 선별",
+          "body": "Brainomix CT 분석으로 IV 글리부라이드가 듣는 뇌졸중 환자를 가려냈다.",
+          "mini_headline": "Brainomix AI와\n뇌졸중 약물 선택",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomix는 자사 소프트웨어로 비조영 CT를 자동 분석하면 대형 반구 경색 환자를 가려내는 데 도움이 될 수 있다는 연구를 소개했다. 서울에서 열린 World Stroke Conference에서 발표된 III상 Charm 임상시험 사후 분석을 보면 이들 환자는 Remedy Pharmaceuticals의 연구용 치료제인 정맥 주사 글리부라이드(Cirara)로 효과를 볼 가능성이 더 높았다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 Brainomix 360 Stroke 소프트웨어로 임상시험 환자 428명의 비조영 CT에서 급성 경색 부피를 측정했다. 연구진에 따르면 경색 핵심 부피가 125 mL 미만인 환자 191명의 하위군을 따로 보면 Cirara는 modified Rankin Scale 기준 기능적 결과 개선과 유의하게 연관됐고, 90일째 0~3점에 이를 가능성도 더 높았다."
+              },
+              {
+                "t": "p",
+                "x": "Brainomix는 이번 결과를 근거로 CT 관류 영상이나 MRI 같은 고급 영상이 없어도 이 치료제의 임상시험 대상 환자를 고를 수 있다고 밝혔다. Cirara는 아직 어떤 규제 당국의 승인도 받지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Brainomix AIが\n脳卒中の投薬対象を選別",
+          "body": "Brainomixの自動CT解析が、IVグリブリドの恩恵を受けうる脳卒中患者を特定した。",
+          "mini_headline": "Brainomix AIと\n脳卒中の薬剤選択",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomixは、同社ソフトウェアによる非造影CTの自動解析が大きな半球梗塞の患者の特定に役立つ可能性を示す研究を紹介している。ソウルで開かれたWorld Stroke Conferenceで発表された第III相Charm試験の事後解析によると、これらの患者はRemedy Pharmaceuticalsの治験薬である静注グリブリド(Cirara)の恩恵を受ける可能性が高い。"
+              },
+              {
+                "t": "p",
+                "x": "同社はBrainomix 360 Strokeソフトウェアを使い、試験患者428人の非造影CTで急性梗塞体積を測定した。研究者らによると、梗塞コア体積が125 mL未満の191人のサブグループでは、Ciraraはmodified Rankin Scaleによる機能的転帰の改善と有意な関連を示し、90日時点で0〜3のスコアを達成する可能性も高かった。"
+              },
+              {
+                "t": "p",
+                "x": "Brainomixによると、この結果はCT灌流やMRIなどの高度な画像検査なしでも、この治療薬の試験に患者を選べる可能性を示唆している。Ciraraはどの規制当局からも承認されていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Brainomix AI\n识别适用格列本脲的卒中患者",
+          "body": "Brainomix介绍一项研究，其自动CT分析找出了可能受益于IV格列本脲的卒中患者。",
+          "mini_headline": "Brainomix AI与\n卒中用药选择",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomix正在推介一项研究，显示借助该公司软件进行的自动非增强CT分析可能有助于识别大面积半球梗死患者。根据在首尔举行的World Stroke Conference上公布的III期Charm试验事后分析，这些患者更可能从Remedy Pharmaceuticals的在研疗法静脉注射格列本脲(Cirara)中获益。"
+              },
+              {
+                "t": "p",
+                "x": "该公司使用Brainomix 360 Stroke软件，在428名试验患者的非增强CT上测量了急性梗死体积。研究人员发现，在梗死核心体积低于125 mL的191名患者亚组中，Cirara与modified Rankin Scale上功能结局的改善显著相关，包括在90天时达到0至3分的可能性更高。"
+              },
+              {
+                "t": "p",
+                "x": "Brainomix表示，研究结果表明，无需CT灌注或MRI等高级影像，也可以为该疗法的试验筛选患者。Cirara尚未获得任何监管机构批准。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI de Brainomix detecta\ncandidatos a gliburida en ictus",
+          "body": "Brainomix destaca un estudio donde su análisis automático de CT halló pacientes con ictus aptos para gliburida IV.",
+          "mini_headline": "Brainomix AI y la\nelección de fármaco en ictus",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomix destaca un estudio que muestra cómo el análisis automatizado de CT sin contraste con el software de la empresa puede ayudar a identificar a pacientes con infarto hemisférico extenso. Estos pacientes tienen más probabilidades de beneficiarse de la gliburida intravenosa (Cirara), una terapia en investigación de Remedy Pharmaceuticals, según un análisis post hoc del ensayo de fase III Charm presentado en la World Stroke Conference de Seúl."
+              },
+              {
+                "t": "p",
+                "x": "Con su software Brainomix 360 Stroke, la empresa midió el volumen del infarto agudo en la CT sin contraste de 428 pacientes del ensayo. En un subgrupo de 191 pacientes con volúmenes del núcleo del infarto inferiores a 125 mL, Cirara mostró una asociación significativa con la mejora de los resultados funcionales en la modified Rankin Scale, incluida una mayor probabilidad de alcanzar una puntuación de 0 a 3 a los 90 días, según hallaron los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados sugieren que los pacientes podrían seleccionarse para ensayos de la terapia sin imágenes avanzadas como la perfusión por CT o la MRI, según Brainomix. Cirara no ha sido aprobada por ninguna autoridad reguladora."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Brainomix AI가\n뇌졸중 투약 환자 선별",
+          "body": "Brainomix CT 분석이 IV 글리부라이드 수혜 뇌졸중 환자를 가려냈다.",
+          "mini_headline": "Brainomix AI와\n뇌졸중 약물 선택",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomix가 자사 소프트웨어를 이용한 자동 비조영 CT 분석이 대형 반구 경색 환자를 가려내는 데 도움이 될 수 있음을 보여준 연구를 소개했다. 서울에서 열린 World Stroke Conference에서 발표된 III상 Charm 임상시험 사후 분석에 따르면, 이들 환자는 Remedy Pharmaceuticals의 연구용 치료제인 정맥 주사 글리부라이드(Cirara)로 효과를 볼 가능성이 더 높다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 Brainomix 360 Stroke 소프트웨어로 임상시험 환자 428명의 비조영 CT에서 급성 경색 부피를 측정했다. 연구진에 따르면 경색 핵심 부피가 125 mL 미만인 환자 191명의 하위군에서 Cirara는 modified Rankin Scale 기준 기능적 결과 개선과 유의한 연관을 보였고, 90일째 0~3점에 도달할 가능성도 더 높았다."
+              },
+              {
+                "t": "p",
+                "x": "Brainomix는 이번 결과가 CT 관류 영상이나 MRI 같은 고급 영상 없이도 이 치료제의 임상시험 대상 환자를 고를 수 있음을 시사한다고 밝혔다. Cirara는 아직 어떤 규제 당국의 승인도 받지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Brainomix AIが\n脳卒中の投薬対象を選別",
+          "body": "Brainomixの自動CT解析が、IVグリブリドの恩恵を受けうる脳卒中患者を特定した。",
+          "mini_headline": "Brainomix AIと\n脳卒中の薬剤選択",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomixは、同社ソフトウェアによる非造影CTの自動解析が大きな半球梗塞の患者の特定に役立つ可能性を示す研究を紹介している。ソウルで開かれたWorld Stroke Conferenceで発表された第III相Charm試験の事後解析によると、これらの患者はRemedy Pharmaceuticalsの治験薬である静注グリブリド(Cirara)の恩恵を受ける可能性が高い。"
+              },
+              {
+                "t": "p",
+                "x": "同社はBrainomix 360 Strokeソフトウェアを使い、試験患者428人の非造影CTで急性梗塞体積を測定した。研究者らによると、梗塞コア体積が125 mL未満の191人のサブグループでは、Ciraraはmodified Rankin Scaleによる機能的転帰の改善と有意な関連を示し、90日時点で0〜3のスコアを達成する可能性も高かった。"
+              },
+              {
+                "t": "p",
+                "x": "Brainomixによると、この結果はCT灌流やMRIなどの高度な画像検査なしでも、この治療薬の試験に患者を選べる可能性を示唆している。Ciraraはどの規制当局からも承認されていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Brainomix AI\n识别适用格列本脲的卒中患者",
+          "body": "Brainomix介绍一项研究，其自动CT分析找出了可能受益于IV格列本脲的卒中患者。",
+          "mini_headline": "Brainomix AI与\n卒中用药选择",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomix正在推介一项研究，显示借助该公司软件进行的自动非增强CT分析可能有助于识别大面积半球梗死患者。根据在首尔举行的World Stroke Conference上公布的III期Charm试验事后分析，这些患者更可能从Remedy Pharmaceuticals的在研疗法静脉注射格列本脲(Cirara)中获益。"
+              },
+              {
+                "t": "p",
+                "x": "该公司使用Brainomix 360 Stroke软件，在428名试验患者的非增强CT上测量了急性梗死体积。研究人员发现，在梗死核心体积低于125 mL的191名患者亚组中，Cirara与modified Rankin Scale上功能结局的改善显著相关，包括在90天时达到0至3分的可能性更高。"
+              },
+              {
+                "t": "p",
+                "x": "Brainomix表示，研究结果表明，无需CT灌注或MRI等高级影像，也可以为该疗法的试验筛选患者。Cirara尚未获得任何监管机构批准。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI de Brainomix detecta\ncandidatos a gliburida en ictus",
+          "body": "Brainomix destaca un estudio donde su análisis automático de CT halló pacientes con ictus aptos para gliburida IV.",
+          "mini_headline": "Brainomix AI y la\nelección de fármaco en ictus",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Brainomix destaca un estudio que muestra cómo el análisis automatizado de CT sin contraste con el software de la empresa puede ayudar a identificar a pacientes con infarto hemisférico extenso. Estos pacientes tienen más probabilidades de beneficiarse de la gliburida intravenosa (Cirara), una terapia en investigación de Remedy Pharmaceuticals, según un análisis post hoc del ensayo de fase III Charm presentado en la World Stroke Conference de Seúl."
+              },
+              {
+                "t": "p",
+                "x": "Con su software Brainomix 360 Stroke, la empresa midió el volumen del infarto agudo en la CT sin contraste de 428 pacientes del ensayo. En un subgrupo de 191 pacientes con volúmenes del núcleo del infarto inferiores a 125 mL, Cirara mostró una asociación significativa con la mejora de los resultados funcionales en la modified Rankin Scale, incluida una mayor probabilidad de alcanzar una puntuación de 0 a 3 a los 90 días, según hallaron los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados sugieren que los pacientes podrían seleccionarse para ensayos de la terapia sin imágenes avanzadas como la perfusión por CT o la MRI, según Brainomix. Cirara no ha sido aprobada por ninguna autoridad reguladora."
               }
             ]
           }

@@ -8328,6 +8328,132 @@
           "x": "En Penguin Random House, los empleados dicen que se les ha animado a usar ChatGPT Enterprise pese a que la división alemana de PRH ha demandado a OpenAI. Varios autores superventas de las Big Five afirman que su relación con las editoriales se ha resentido por el uso de IA. “Lo mínimo que pedimos es que se informe”, dice un autor."
         }
       ]
+    },
+    "books/anthropic-taa-textbook-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "En medio de un número creciente de disputas, Kim Pawlak, al frente de la dirección ejecutiva de TAA, pidió al tribunal que “considere y reconozca la carga inherente que soportan los autores” en el proceso de reclamaciones del acuerdo de $1.5B, frente a editoriales con más recursos."
+        },
+        {
+          "t": "p",
+          "x": "“La mayoría de los reclamantes que contactan con TAA son autores de libros de texto (educativos), cuyas obras no se benefician del reparto por defecto 50-50 que el acuerdo concede a las obras comerciales y académicas”, escribe Pawlak. Algunos se han indignado por las asignaciones reclamadas por las editoriales, “que en muchos casos van del 85% al 95% de lo que el acuerdo paga por la obra”."
+        },
+        {
+          "t": "p",
+          "x": "A los autores con reclamaciones en disputa se les ha dicho que deben “reunirse y consultar” con su editorial, una “perspectiva abrumadora” para muchos que no tienen contactos en la editorial ni copias de contratos antiguos, contratos que “no mencionan el entrenamiento de AI ni los acuerdos colectivos”. La mayoría de los autores tampoco puede pagar un abogado, y el portal de reclamaciones ha estado “plagado de problemas técnicos”."
+        },
+        {
+          "t": "p",
+          "x": "“No es justo, y se vuelve cada vez más injusto al acumular procedimiento tras procedimiento —sobre la marcha— y con más obstáculos que los autores deben superar”, escribe Pawlak, y añade que el acuerdo “no debe lograrse a costa de la equidad hacia los autores educativos, aproximadamente el 25% de la clase”."
+        },
+        {
+          "t": "p",
+          "x": "La carta llega después de que el mes pasado TAA se uniera al Authors Guild y a otros grupos para pedir a las editoriales que renuncien voluntariamente a sus reclamaciones sobre libros descatalogados y destinen parte de sus pagos a los autores excluidos por no tener registrados sus derechos de autor."
+        }
+      ]
+    },
+    "books/gemini-notebook-textbooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "El mes pasado presentamos Expert Intelligence, una iniciativa cross-Google que te ayuda a trabajar con tus fuentes de confianza a través de los productos de Google AI. Aunque ya puedes añadir libros electrónicos elegibles comprados en Google Play Books, hoy ampliamos esa experiencia para que los estudiantes puedan añadir con facilidad los materiales de sus cursos."
+        },
+        {
+          "t": "p",
+          "x": "Los estudiantes ya pueden acceder sin coste, directamente en Gemini Notebook, a cientos de libros de texto de proveedores de U.S. (Estados Unidos) e India, entre ellos OpenStax, Open Textbook Library y S Chand Publishing. Una vez añadido un libro de texto, cada respuesta se basa directamente en él, con citas en línea y enlaces directos a la fuente original. Gemini Notebook también permite transformar el contenido del libro en guías de estudio personalizadas, cuestionarios de práctica, tarjetas de memoria y más."
+        },
+        {
+          "t": "p",
+          "x": "Para explorar y añadir estos libros de texto, selecciona “Add sources” (Añadir fuentes) en tu cuaderno y luego “Textbooks” (Libros de texto) para ver el catálogo disponible."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
+        }
+      ]
+    },
+    "books/china-ai-shrimp-recall": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+          "cap": "Una publicación en redes sociales que señala la imagen errónea de un \"camarón de dos cabezas\""
+        },
+        {
+          "t": "p",
+          "x": "Una publicación en redes sociales que señalaba la imagen errónea de un \"camarón de dos cabezas\" en una popular serie de libros de divulgación científica sobre la vida marina del mar de la China Meridional ha llamado la atención del público. Según informaciones de medios del martes, un empleado de China Agricultural Publishing House afirmó que la editorial conocía el problema y estaba notificando a los vendedores de las plataformas en línea para retirar los libros de la venta y recuperar los ejemplares ya distribuidos."
+        },
+        {
+          "t": "p",
+          "x": "Algunos lectores en la red social china Sina Weibo señalaron que los libros que compraron incluyen un prefacio que indica de forma explícita que la gran mayoría de las ilustraciones se generaron con herramientas de AI."
+        },
+        {
+          "t": "p",
+          "x": "Un lector detectó en la serie la imagen errónea de un \"camarón de dos cabezas\", que aparece tanto en la portada como en una página interior, titulada Penaeus monodon o Giant tiger prawn."
+        },
+        {
+          "t": "p",
+          "x": "Algunos lectores cuestionaron las ilustraciones: \"no es que no se pueda usar AI, pero sin duda habría que seguir algunas reglas básicas, ¿no?\""
+        },
+        {
+          "t": "p",
+          "x": "El 27 de octubre, según los medios, un empleado de China Agricultural Publishing House indicó que la editorial estaba al tanto de la situación."
+        },
+        {
+          "t": "p",
+          "x": "Un representante de la línea de atención al lector de la editorial dijo que estaban notificando a las plataformas de venta en línea para retirar de la venta los libros afectados y organizar su recuperación."
+        }
+      ]
+    },
+    "books/kpa-corpus-settlement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La Asociación Coreana de Editores (en adelante, la Asociación) afirmó que el monto de un acuerdo alcanzado en el pasado para resolver una disputa no debe convertirse en el precio de mercado de futuras transacciones de datos para entrenar AI, en relación con el caso del corpus del Instituto Nacional de la Lengua Coreana, que se encuentra en casación ante el Tribunal Supremo."
+        },
+        {
+          "t": "p",
+          "x": "En el caso del corpus escrito del Instituto Nacional de la Lengua Coreana, 1만 5,933 obras publicadas, unos 6억 2,272만 eojeol (unidades de palabra), se usaron sin permiso de los titulares de derechos en el proyecto de ‘recopilación de textos originales para el corpus escrito’, encargado por el Instituto y ejecutado por Woongjin Booxen. Tras el acuerdo de enero de 2023 entre la Asociación y Woongjin Booxen, autores que no participaron en él demandaron por daños y ganaron en 1.ª instancia. En apelación, la indemnización se redujo con base, entre otros, en los criterios del acuerdo, y ahora el caso está en casación."
+        },
+        {
+          "t": "p",
+          "x": "En un comunicado del día 30, la Asociación advirtió que “no se debe tomar este monto de acuerdo como criterio general para fijar el precio de uso de datos de entrenamiento de AI” y que “si estas cifras llegan a aceptarse como un ‘precio estándar’ en proyectos públicos o en la obtención de datos de empresas privadas de AI, el nuevo mercado podría distorsionarse desde su inicio”."
+        },
+        {
+          "t": "p",
+          "x": "Como razones, la Asociación señaló que el acuerdo tuvo en cuenta el fin de interés público de construir recursos lingüísticos nacionales y la necesidad de resolver la disputa; que resolvió las infracciones pasadas y fijó a la vez las condiciones de uso futuro; que incluye una cláusula de ‘nación más favorecida’ que deja abierta la posibilidad de liquidaciones adicionales; y que el precio de una licencia varía según el fin y el plazo de uso, el alcance de los datos y el número de empresas usuarias."
+        },
+        {
+          "t": "p",
+          "x": "“Para que el nuevo mercado se forme de manera sana, se necesitan principios de autorización previa y de compensación justa”, señaló la Asociación, y añadió: “Trabajaremos para establecer un orden de transacciones en el que la industria editorial y la de AI puedan crecer juntas”."
+        }
+      ]
+    },
+    "books/books-openai-fairuse-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Cuatro organizaciones editoriales y de derechos de autor instaron a un tribunal de US a rechazar la defensa de uso justo (fair-use) de OpenAI en un importante caso de infracción de copyright, con el argumento de que el uso de obras protegidas por parte de la empresa para entrenar sus modelos de AI amenaza el sustento de los autores, socava los mercados de licencias y permite crear libros que compiten con los suyos."
+        }
+      ]
     }
   }
 }

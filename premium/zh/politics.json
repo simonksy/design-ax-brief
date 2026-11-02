@@ -4324,6 +4324,124 @@
           "x": "霍楚尔表示：“任何公司都不应向孩子兜售鼓励自残或假装是他们朋友乃至更亲密关系的聊天机器人。”法案提案人之一、州众议员亚历克斯·博雷斯(Alex Bores)表示，该州“顶着业界的强烈反对”通过了这项法律。第二项法案S.9508/A.5175A要求联网婴儿监视器配备安全功能和警告标签。"
         }
       ]
+    },
+    "politics/wikimedia-nyt-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Wikimedia Foundation在一系列具有里程碑意义的AI版权案中采取了中间立场:敦促法院在法律上保护用受版权保护作品训练大语言模型(LLMs)的行为,但不保护聊天机器人向用户照搬这些作品。"
+        },
+        {
+          "t": "p",
+          "x": "这家运营Wikipedia的非营利组织在周五提交的法庭之友意见书(amicus brief)中,就The New York Times等出版商起诉OpenAI和Microsoft的案件发表意见,但未站在任何一方。文件写道:“Wikimedia担心,本案各方的立场是在推动对合理使用原则作过于宽泛和简单化的适用。”"
+        },
+        {
+          "t": "p",
+          "x": "Times指控OpenAI为构建训练数据集抓取其网站内容,侵犯了其版权;OpenAI和Microsoft则主张使用LLMs属于合理使用,OpenAI还表示,照搬作品“是一个罕见的漏洞”。"
+        },
+        {
+          "t": "p",
+          "x": "Wikimedia提出了一个折中方案:当模型提供“与原始来源不同的新东西”时,未经许可的抓取和预训练应属于合理使用;但若在“取代读者对原作品的参与”的同时向用户提供材料副本,则应取得许可。"
+        }
+      ]
+    },
+    "politics/epic-fcc-robocall-tcpa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
+        },
+        {
+          "t": "p",
+          "x": "上周,EPIC向联邦通信委员会(Federal Communications Commission,FCC)提交回复意见,反对Club for Growth要求豁免《电话消费者保护法》(Telephone Consumer Protection Act,TCPA)自动语音电话规则的请愿。该请愿要求FCC允许呼叫者在未获得事先明确同意的情况下,使用人工或预录语音(包括AI生成(AI-generated)语音)向手机号码拨打“政治电话”。FCC消费者与政府事务局(Consumer and Governmental Affairs Bureau)已于2026年9月4日就该请愿征求意见。"
+        },
+        {
+          "t": "p",
+          "x": "EPIC敦促FCC全盘驳回该请愿,并解释称,在美国人已饱受诈骗电话及其他自动电话困扰之际,这一请求将使他们遭受前所未有的、不受欢迎且带有骚扰性质的政治自动语音电话潮。国会制定TCPA的同意要求是为了保护隐私,而当来电属于政治电话时,一通不受欢迎的手机来电所造成的打扰和干扰同样有害,甚至更甚。"
+        },
+        {
+          "t": "p",
+          "x": "EPIC指出,将“政治电话”排除在TCPA之外不符合公共利益,而AI生成(AI-generated)政治传播的激增将放大虚假信息、破坏民主进程。EPIC强调,目前并不存在可行的“政治电话”定义,因此该请求站不住脚。"
+        }
+      ]
+    },
+    "politics/kazakhstan-nvidia-firebird": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On October 23 in Astana, Nvidia CEO Jensen Huang told an audience that Kazakhstan could “transform this energy into intelligence and export intelligence,” calling it a future “AI factory hub for all of Europe.”"
+        },
+        {
+          "t": "img",
+          "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
+          "cap": "Deputy Prime Minister Zhaslan Madiyev and Nvidia CEO Jensen Huang at a crowded alem.ai, Kazakhstan’s new “artificial intelligence center.” Photo by Oliver Fisk."
+        },
+        {
+          "t": "p",
+          "x": "The centerpiece is the planned Data Center Valley in Ekibastuz, beside the coal-fired Ekibastuz GRES-1 plant. Firebird, a U.S. cloud operator, signed an investment agreement under which the site will be powered by 45,000 Nvidia Grace Blackwell GPUs, for which U.S. export licenses were announced last week, with 10 percent of Firebird’s GPU capacity allocated to Kazakhstani companies and government agencies."
+        },
+        {
+          "t": "p",
+          "x": "Experts raise two issues: power and customers. Since 2023, Kazakhstan has consumed more electricity than it generated each year, and the energy self-sufficiency target was pushed back to early 2028. No international customers have been publicly identified, and roughly 95 percent of outbound internet traffic runs through Russia."
+        },
+        {
+          "t": "img",
+          "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
+          "cap": "An attempt by Nvidia CEO Jensen Huang to take an impromptu selfie led to event attendees rushing the stage in an excited frenzy. Photo by Oliver Fisk."
+        }
+      ]
+    },
+    "politics/ai-training-optout-standard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI、Google、Microsoft和Anthropic表示,将采用一项新标准,出版商可借此拒绝(opt out)被AI抓取。借助这一控制手段,出版商可以把自己的AI训练偏好一次性应用于多家AI公司,而无需逐一设置。"
+        },
+        {
+          "t": "p",
+          "x": "这一共享的“政策令牌”(policy token)信号由Anthropic标准技术负责人Kevin Kelley在互联网工程任务组(Internet Engineering Task Force,IETF)框架下提出,将置于网站的robots.txt文件中。OpenAI、Google、Microsoft和Anthropic表示,若检测到该共享令牌,将限制其AI爬虫访问该网站。"
+        },
+        {
+          "t": "p",
+          "x": "Meta传播主管Andy Stone也表示支持这一新设置,但未说明公司是否会遵守。Microsoft表示将提供细粒度控制选项,可选择退出AI训练或AI grounding(AI接地)。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic已采用该信号,Google和Microsoft计划明年提供支持。OpenAI表示将在“未来几个月内”实施。"
+        }
+      ]
+    },
+    "politics/dod-unbiased-ai-procurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/GettyImages-2242425327-e1761237083693.jpg"
+        },
+        {
+          "t": "p",
+          "x": "国防部(Defense Department)发布新指南，要求合同和项目人员确保五角大楼采购的AI系统符合特朗普(Trump)政府所称的“求真”与“意识形态中立”采购原则。该指令由国防定价、合同与采办政策首席主任约翰·特纳利亚(John Tenaglia)签发。"
+        },
+        {
+          "t": "p",
+          "x": "此前，特朗普于7月签署行政令，要求各机构确保其采购的大语言模型是“中立、无党派的工具”，随后管理和预算办公室(Office of Management and Budget)又发布了相关备忘录。特纳利亚表示，遵守该行政令和备忘录是强制性的，但新文件“仅作为指导”，提供“一种记录、征求和执行无偏见AI原则的标准化方法”。"
+        },
+        {
+          "t": "p",
+          "x": "这些模板包括一份用于选定透明度和文档要求的备忘录、关于企业须提供文档的标准化招标文本，以及用于工作说明书(statement of work)的正式合同文本。DoD各部门可根据具体需求修改或调整这些文本。"
+        },
+        {
+          "t": "p",
+          "x": "众议员吉米·帕特罗尼斯(Jimmy Patronis，R-Fla.)正寻求将该行政令写入法律。"
+        }
+      ]
     }
   }
 }

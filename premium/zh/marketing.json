@@ -3029,6 +3029,159 @@
           "x": "广告将清楚标注为“Sponsored”。我们将继续测试新的形式，确保广告始终有用且相关。"
         }
       ]
+    },
+    "marketing/bing-copilot-overview-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Microsoft现在开始在由Copilot驱动的Bing AI Overviews中展示广告。我印象中没在Bing Search的AI回答里见过广告，自己也仍无法触发，但Khushal Bherwani分享了一张Bing Search的AI Overview中出现广告的截图。"
+        },
+        {
+          "t": "p",
+          "x": "Khushal Bherwani在X上分享了截图，并写道：“Bing正在AI Overviews中显示Sponsored Results。”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-ai-overview-with-ads-WnTrn06o.jpg",
+          "cap": "带广告的Bing AI Overview"
+        },
+        {
+          "t": "p",
+          "x": "需要提醒的是，Bing几个月前已将Copilot Search框更名为AI Overviews。"
+        }
+      ]
+    },
+    "marketing/shopify-agent-commission": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-agent-897.png"
+        },
+        {
+          "t": "p",
+          "x": "截至2026年10月27日，Shopify的文档让AI购物代理除了购物者之外，还有理由为另外两方服务：开发它的公司，以及Shopify的应用和网站Shop。"
+        },
+        {
+          "t": "p",
+          "x": "Shopify会把支付佣金的商品混入其商品目录提供给AI代理的搜索结果中，称之为推广展示位。购物者购买这类商品时，Shopify向代理背后的公司（开发者）支付订单金额的0.3%。开启外部平台选项并运行Shop Campaigns的商家可以在此基础上追加佣金；Shopify给出的示例中，某件商品为1.5%。"
+        },
+        {
+          "t": "p",
+          "x": "额外佣金“仅在买家于Shop完成购买时支付，即在Shop移动应用或shop.com上”——在商家自有网站上成交只能获得0.3%。Shopify的文档没有说明更高的佣金是否也会让商品排名上升。"
+        },
+        {
+          "t": "p",
+          "x": "Shopify要求开发者为推广商品加上标签，并“在买家根据推广结果采取行动之前”披露其可能获得佣金，但具体措辞交由开发者决定。推广展示位目前是需受邀参加的Developer Preview，额外佣金仅限美国（US-only），Shopify表示相关细节“尚未最终确定，可能会变动”。"
+        }
+      ]
+    },
+    "marketing/starbucks-ai-drivethru-menu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0.0065789473684248%2C0%2C99.986842105263%2C100&w=2400",
+          "cap": "图片来源：Jeffrey Greenberg/Universal Images Group via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "将来你把车开到Starbucks得来速时，可能会看到一份个性化数字菜单。在周四的财报电话会上，Starbucks CEO Brian Niccol表示，公司将探索“在参与顾客到店时识别他们、呈现个性化数字菜单并让付款更省事的体验”。此事最早由More Perfect Union发现。"
+        },
+        {
+          "t": "p",
+          "x": "这听起来与Taco Bell正在试验的技术相似，后者可以“按每辆车”改变数字菜单板的布局、内容和视觉效果。McDonald’s最近也展示了一项正在少数得来速门店试点的AI-powered功能，让其聊天机器人“ArchIQ”识别回头客，并让他们点“老样子”。"
+        },
+        {
+          "t": "p",
+          "x": "据Niccol介绍，从2027年起，Starbucks还将在得来速测试后台AI模型，帮助咖啡师“更准确、更高效地录入订单”。公司还计划把AI整合进Starbucks应用的搜索和发现功能，未来可能支持“对话式和代理式”点单。"
+        },
+        {
+          "t": "p",
+          "x": "Starbucks已开始允许顾客通过ChatGPT下单，还推出了AI-powered的Green Dot Assist，员工可以用它询问配方、服务标准等问题。"
+        },
+        {
+          "t": "p",
+          "x": "目前还不清楚Starbucks多快会推出个性化数字菜单板，但Niccol称现在仍处于“早期”，并补充说“我们会测试、学习，并推广行之有效的做法”。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-26-countries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chat-boxes-floating-5ruwbegE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI刚向广告主发送了每周邮件更新，宣布ChatGPT Ads已在另外26个国家上线，推出更宽的新标准广告单元格式，Multi-image广告现已向所有广告主开放公测，Shopify集成现已在国际范围内可用。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Ads正在推出更宽的标准广告单元格式。OpenAI表示，这是一种新的、更宽的标准广告卡片，在桌面端占用更多对话区域宽度。OpenAI补充说，该广告格式沿用现有广告系列和创意素材，因此广告主无需任何操作。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/wider-chatgpt-ads-9VwMUKno.png",
+          "cap": "更宽的ChatGPT广告"
+        },
+        {
+          "t": "p",
+          "x": "其他一些公告算是旧闻，比如扩展到26个国家和超过100,000家广告主。ChatGPT Ads目前已在全球89个国家提供。创意增强功能正在自动启用，我们此前已报道过。Multi-image广告现已向所有广告主开放公测，此外还有其他内容。"
+        },
+        {
+          "t": "p",
+          "x": "以下是OpenAI发送的邮件："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ad-email-pwdGj1eX.png",
+          "cap": "ChatGPT广告邮件"
+        }
+      ]
+    },
+    "marketing/princeton-ai-ad-persuasion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg",
+          "cap": "研究发现，当AI积极劝说用户选择广告商品时，选择率比传统搜索广告高出约2.7倍。[图片：OpenAI]"
+        },
+        {
+          "t": "p",
+          "x": "研究发现，对话式人工智能（AI）积极推荐特定广告商品时，用户的选择率可能比传统搜索广告高出约3倍。"
+        },
+        {
+          "t": "p",
+          "x": "据IT媒体ITmedia 29日（当地时间）报道，美国普林斯顿大学研究团队发表了论文《AI中介对话中的商业劝说》，分析了在线购物中AI对话对消费者选择的影响。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队让2012名美国居民从约5500本电子书中挑选想要的书。他们随机将全部商品的20%指定为广告商品，然后比较了搜索界面与使用GPT-5.2、Claude Opus 4.5、Gemini 3 Pro、DeepSeek V3.2、Qwen3 235B 等5个AI模型的聊天界面中的选择结果。"
+        },
+        {
+          "t": "p",
+          "x": "将广告商品置于搜索结果顶部时，选择率为22.4%。在AI聊天界面中首先展示广告商品、但保持中立描述时，选择率为26.8%。而当指示AI积极劝说用户选择广告商品时，选择率猛增至61.2%，约为传统搜索广告的2.7倍。"
+        },
+        {
+          "t": "p",
+          "x": "用户几乎没有察觉AI的劝说。在积极劝说的条件下，能准确识别广告商品的比例仅为17.9%。即便加上广告标识并事先告知推广事实，选择率仍为55.5%，准确识别广告商品的比例为35.1%。"
+        },
+        {
+          "t": "p",
+          "x": "当指示AI隐藏劝说意图时，广告商品的选择率为40.7%，但准确识别广告商品的比例仅为9.5%。这意味着仅靠广告标识或事先告知，可能难以充分削弱AI的劝说效果。"
+        },
+        {
+          "t": "p",
+          "x": "选择之后的反应同样值得关注。研究团队询问参与者是否愿意领取1美元来代替所选的书时，通过搜索广告选书的群体与经AI劝说选书的群体之间，愿意保留选择的比例并无统计学上的显著差异。即使在公开实验内容之后，多数参与者仍坚持原来的选择。"
+        },
+        {
+          "t": "p",
+          "x": "对话内容分析显示，AI与其过度夸赞广告商品，更倾向于通过降低其他商品的吸引力来提升劝说效果。例如，对非广告商品提出“节奏较慢”“并非适合所有人的书”等顾虑，或将介绍处理得简短而敷衍，使其相对显得缺乏吸引力。针对用户喜好的个性化推荐也与劝说效果相关。"
+        },
+        {
+          "t": "p",
+          "x": "这项研究表明，对话式AI的推荐方式可能比单纯在搜索结果顶部展示对消费者选择产生更大影响。尤其是，即便有广告标识，劝说效果仍在很大程度上得以保持，用户也难以察觉广告引导，因此AI购物服务的广告透明度与用户保护预计将成为重要课题。"
+        }
+      ]
     }
   }
 }

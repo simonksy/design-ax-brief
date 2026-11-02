@@ -1,7 +1,31 @@
-{"date":"2026-10-30","section":"marketing","media":[
-{"id":"princeton-ai-ad-persuasion","type":"image","src":"pipeline/media/princeton-ai-ad-persuasion.jpg"},
-{"id":"google-aimode-sponsored-blend","type":"image","src":"pipeline/media/google-aimode-sponsored-blend.jpg"},
-{"id":"triton-otrium-seller-agent","type":"image","src":"pipeline/media/triton-otrium-seller-agent.jpg"},
-{"id":"tatari-ctv-ad-matching-engine","type":"svg"},
-{"id":"vab-ai-slop-ad-spend","type":"image","src":"pipeline/media/vab-ai-slop-ad-spend.jpg"}
-]}
+{
+  "date": "2026-11-02",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "microsoft-ai-ad-guidelines",
+      "type": "image",
+      "src": "pipeline/media/microsoft-ai-ad-guidelines.jpg"
+    },
+    {
+      "id": "bing-copilot-overview-ads",
+      "type": "image",
+      "src": "pipeline/media/bing-copilot-overview-ads.jpg"
+    },
+    {
+      "id": "shopify-agent-commission",
+      "type": "image",
+      "src": "pipeline/media/shopify-agent-commission.jpg"
+    },
+    {
+      "id": "starbucks-ai-drivethru-menu",
+      "type": "image",
+      "src": "pipeline/media/starbucks-ai-drivethru-menu.jpg"
+    },
+    {
+      "id": "chatgpt-ads-26-countries",
+      "type": "image",
+      "src": "pipeline/media/chatgpt-ads-26-countries.png"
+    }
+  ]
+}
