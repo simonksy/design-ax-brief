@@ -10220,6 +10220,133 @@
           "x": "Replica is available now as an open-source project under the MIT license. You can start prototyping locally or set up Replica Hub to share prototypes with your team."
         }
       ]
+    },
+    "design/nngroup-ux-agentic-factories": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what's built, and evaluate it before and after launch."
+        },
+        {
+          "t": "p",
+          "x": "In August 2026, Anthropic published its vision of an AI-native software development lifecycle (SDLC), following publications by Google (May 2026) and OpenAI (November 2025). All three sideline UX, reducing it to behind-the-scenes context that guides AI generation."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+          "cap": "The 6 stages of the traditional SDLC"
+        },
+        {
+          "t": "p",
+          "x": "UX does not own a stage or approval gate in Anthropic's playbook. The playbook makes no mention of user research, and its Test stage compares the build with the product owner's mockup, which does not guarantee good usability or accessibility. Monitoring technical metrics after launch is not the same as usability metrics."
+        },
+        {
+          "t": "p",
+          "x": "UX has 3 roles as AI accelerates software production: deciding what's worth building, evaluating what gets built, and adding context to AI generation. The playbook covers only the third. NN/g suggests focusing intent.md on user needs, defining when work needs UX review, adding user signals to monitoring, claiming ownership of UX context, and making research and the design system machine-readable."
+        }
+      ]
+    },
+    "design/allplan-max-2027-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Nemetschek Group and its brand Allplan announced the launch of Allplan Max 2027, a new AI offering designed for engineering workflows and part of the Nemetschek Intelligence Platform. It brings AI into the tools engineers already use to help firms reduce repetitive work, access project information more quickly and automate routine processes."
+        },
+        {
+          "t": "p",
+          "x": "Its capabilities include Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer and AI Steel Take Off. Allplan says the system is designed to support engineering judgment rather than replace it."
+        },
+        {
+          "t": "p",
+          "x": "Allplan Max is being introduced across the portfolio: Allplan for BIM, detailing and workflow customization; SCIA and FRILO for structural analysis; SDS2 for fabrication-oriented workflows. Users reported up to 36 percent faster completion for selected tasks, self-reported estimates that may vary. Allplan Max 2027 is scheduled to launch on October 28, 2026."
+        }
+      ]
+    },
+    "design/uxcollective-ai-cost-controls": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A practical guide to choosing usage units, designing spending limits, and explaining AI costs before, during, and after the work."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Every AI response has a price. A quick edit and a long-running agent can look almost identical in the interface, yet both start with the same button. For designers, that comes down to two decisions: the unit users see themselves spending, and the moment they understand the cost."
+        },
+        {
+          "t": "p",
+          "x": "Tokens are the system's currency, not the user's. Units range from tokens and dollars to credits, tasks and outcomes, and usage allowances; the important distinction is who carries the uncertainty. Usage limits should show each window and its reset; task pricing should explain what counts; credits need a sense of value."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Before the work, explain what drives the cost and offer a cheaper mode or ceiling. During it, show real progress and ask before continuing if the estimate no longer holds. After it, attach a receipt. Cost should be visible when it matters, without becoming something users have to think about constantly."
+        }
+      ]
+    },
+    "design/borisfx-continuum-2027-ml": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_cnXGCOCCJY"
+        },
+        {
+          "t": "p",
+          "x": "Boris FX has released Continuum 2027.0, the latest version of its set of effects plugins for compositing and editing software. The release adds a new 2D titling system, a new 3D noise generator, and five new warp and distortion effects, and updates Continuum's masking tools and particle effects system."
+        },
+        {
+          "t": "p",
+          "x": "The AI masking tools added in Continuum 2026.0 have also been updated. BCC+ Face ML now follows the full shape of the face, including the ears, resulting in “more complete coverage and fewer manual fixes”. BCC+ Matte Refine ML now preserves fine detail like hair better, and BCC+ Witness Protection ML now uses precise masks rather than generic ovals."
+        },
+        {
+          "t": "p",
+          "x": "Continuum 2027.0 is compatible with After Effects, DaVinci Resolve and Nuke, on Windows 10+ or macOS 12.0+. Perpetual licences cost from $365 to $2,195; subscriptions from $32/month to $112/month, or $215/year to $765/year."
+        }
+      ]
+    },
+    "design/figma-fluent-edit-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "We’ve increasingly seen that specialized post-training can compete with frontier models. A lot of everyday design work is smaller, more iterative, and often non-verifiable: adjust the spacing, change a color, rework a layout after feedback. So the Figma agent started with a focused task: help designers make edits to the work already on their canvas."
+        },
+        {
+          "t": "p",
+          "x": "Frontier models couldn’t understand Figma syntax, so we invested in supervised fine-tuning (SFT). We represented designs in Figma’s native file format, so the model learned to produce changes we could apply back to the canvas. Larger teacher models attempted edits, checked by deterministic validators and visual model judges. One of our earlier Llama 3.3 70B models, trained on more than 250,000 examples, was competitive on editing tasks with top models at the time."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+          "cap": "Our earliest SFT pipeline"
+        },
+        {
+          "t": "p",
+          "x": "We’ve since moved to more capable base models, including newer Qwen models, and are investing in Reinforcement Learning (RL). We evaluate dimensions like alignment, contrast and request fulfillment separately, combining structural checks with visual judges calibrated by expert designers."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+          "cap": "Comparing the latest unreleased Figma edits model, post-trained on Qwen 3.8 27B with other third-party models on design editing tasks"
+        },
+        {
+          "t": "p",
+          "x": "The agent runs this model alongside leading third-party models. Typical tasks are about 20% faster; the new agent beats or matches the previous production agent 62% of the time, user ratings are 33% higher, and users undo its work 60% less often."
+        }
+      ]
     }
   }
 }

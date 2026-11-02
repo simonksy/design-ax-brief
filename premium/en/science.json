@@ -9701,6 +9701,120 @@
           "x": "In a simpler spin system the algorithm matched some of the best existing approaches; in a more complex one it gave about 70% greater signal enhancement than the reference method. Each optimization took from just under two days to almost five days, but a working sequence can be reused. The proof-of-concept study, published in Science Advances, could help magnetic-resonance-based quantum sensors."
         }
       ]
+    },
+    "science/bbert-soil-dna-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
+          "cap": "Abstract. Credit: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Hebrew University of Jerusalem and partner institutions developed BBERT, an AI tool that identifies bacterial DNA fragments as short as 100 bases. Rather than matching sequences against reference databases, BBERT learns patterns in bacterial DNA, which helps with organisms missing from those databases."
+        },
+        {
+          "t": "p",
+          "x": "In benchmarks it distinguished bacterial from nonbacterial DNA with about 90% accuracy. Filtering with BBERT sped up genome reconstruction in simulated mixtures from about 66 hours to 25 hours per dataset while keeping about 96% of bacterial genome coverage, and it can run on a personal computer with a suitable graphics card."
+        },
+        {
+          "t": "p",
+          "x": "Limitations include misclassifying chloroplast DNA as bacterial, difficulty separating bacteria from archaea and occasional loss of bacterial information. The study was published in Nucleic Acids Research."
+        }
+      ]
+    },
+    "science/turing-followup-questions-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
+          "cap": "Turing-like tests for three language tasks. Credit: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
+        },
+        {
+          "t": "p",
+          "x": "A Nanyang Technological University team led by Mengmi Zhang analyzed more than 72,000 judgments of responses from 636 people and 37 AI models across six task categories, from writing captions to identifying colors and objects in images. In controlled language tests, judges named the author correctly only about 53–57% of the time, barely above chance."
+        },
+        {
+          "t": "p",
+          "x": "In a smaller experiment judges could question a person and a chatbot, choosing their own topics and follow-up questions. They spotted GPT-3.5-Turbo in all seven conversations, though style and timing may have given it away. In 188 trials with 28 participants using Llama-3-70B-Instruct, judges still erred but became better at identifying machine responses as conversations grew longer."
+        },
+        {
+          "t": "p",
+          "x": "The authors caution the experiments cannot isolate the effect of questioning alone, and results may not apply to newer systems. The study appears in Nature Human Behaviour."
+        }
+      ]
+    },
+    "science/lumina-lunar-landing-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
+          "cap": "A conceptual AI visualization mapping lunar environmental data layers to identify target landing sites. (Credit: The Ohio State University)"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from The Ohio State University presented LUMINA at the 58th Annual Meeting of the AAS Division for Planetary Sciences (DPS 58). It is an agentic AI framework designed to help mission planners evaluate safe lunar landing sites, focusing on key resources like water ice along with potential scientific value."
+        },
+        {
+          "t": "p",
+          "x": "LUMINA doesn't just rely on orbital images: it incorporates topography and terrain hazards, scientific value, geology, surface properties, and even compares candidate landing sites to each other. The team envisions applying it to other planetary bodies, specifically Mars."
+        },
+        {
+          "t": "video",
+          "yt": "iJQdny3-T2Q"
+        },
+        {
+          "t": "p",
+          "x": "\"AI systems are going to become critical tools for space exploration,\" said lead author Gokce Inal, a PhD candidate at Ohio State. LUMINA builds on the group's earlier Large Language-and-Vision Assistant for Lunar Exploration (LLaVA-LE), which analyzes and describes orbital images of the lunar surface."
+        }
+      ]
+    },
+    "science/skku-sag-agent-feedback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
+          "cap": "OGBench. Credit: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+        },
+        {
+          "t": "p",
+          "x": "A Sungkyunkwan University team led by Prof. Minhae Kwon developed two AI methods to cut computing costs and improve reliability on long, multi-step tasks, with an eye to robotics and autonomous driving. Both were accepted to the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
+          "cap": "Conceptual diagram of the Selective Critique (SAG) framework."
+        },
+        {
+          "t": "p",
+          "x": "Rather than consulting a high-performance model at every step, the SAG agent assesses its own uncertainty and seeks external feedback only when it is likely to be worth the cost, like a student asking a teacher only about hard problems. It also accumulates successful experiences, reducing its reliance on feedback. This reduced computational resource consumption to about one-third of conventional approaches and raised task success in complex virtual environments from 24.6% to 78.3%."
+        },
+        {
+          "t": "p",
+          "x": "The second method, VAN-Flow, is an offline reinforcement learning approach that filters out unreliable behaviors dependent on chance; it outperformed most state-of-the-art methods across more than 40 robotic-control simulation tasks."
+        }
+      ]
+    },
+    "science/linkoping-mxene-mining": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+          "cap": "2-d material. Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Linköping University used AI to search materials databases for MXenes, a family of ultrathin 2D materials first discovered in 2011. The search turned up 33 MXenes that had previously been overlooked."
+        },
+        {
+          "t": "p",
+          "x": "Inspired by these findings, the team synthesized 11 new MXenes. They also made MXenes in seconds without external heating, using fewer hazardous chemicals and less water than earlier methods."
+        },
+        {
+          "t": "p",
+          "x": "Replacing some of the metals with rare-earth metals made the materials magnetic, which could broaden their use in energy and data storage. \"The literature and databases are treasure troves,\" said Johanna Rosén, who leads the group. The study was published in Science."
+        }
+      ]
     }
   }
 }

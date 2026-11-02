@@ -9961,6 +9961,133 @@
           "x": "Replica现已作为MIT许可证下的开源项目推出。你可以在本地开始制作原型，也可以搭建Replica Hub与团队共享原型。"
         }
       ]
+    },
+    "design/nngroup-ux-agentic-factories": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI-native的软件开发生命周期把UX缩减为AI的上下文。UX必须发现用户需求、塑造要构建的产品，并在发布前后进行评估。"
+        },
+        {
+          "t": "p",
+          "x": "2026年8月，Anthropic发布了其AI-native软件开发生命周期（SDLC）愿景，此前Google（2026年5月）和OpenAI（2025年11月）已先后发布。三者都把UX边缘化，将其缩减为指导AI生成的幕后上下文。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+          "cap": "传统SDLC的6个阶段"
+        },
+        {
+          "t": "p",
+          "x": "在Anthropic的手册中，UX不掌管任何阶段或审批关口。手册完全没有提及用户研究，其Test阶段只是将构建结果与产品负责人的模型图比较，这无法保证良好的可用性或无障碍性。发布后监测技术指标并不等同于可用性指标。"
+        },
+        {
+          "t": "p",
+          "x": "随着AI加速软件生产，UX承担3种角色：决定什么值得构建、评估构建出的成果，以及为AI生成补充上下文。手册只涵盖了第三种。NN/g建议：让intent.md聚焦用户需求，界定哪些工作需要UX评审，在监测中加入用户信号，确立对UX上下文的所有权，并让研究成果和设计系统可被机器读取。"
+        }
+      ]
+    },
+    "design/allplan-max-2027-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nemetschek Group及旗下品牌Allplan宣布推出Allplan Max 2027，这是一款专为工程工作流设计的全新AI产品，隶属Nemetschek Intelligence Platform。它把AI带入工程师已在使用的工具中，帮助企业减少重复性工作、更快获取项目信息并自动化日常流程。"
+        },
+        {
+          "t": "p",
+          "x": "其功能包括Feature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer和AI Steel Take Off。Allplan表示，该系统旨在辅助而非取代工程判断。"
+        },
+        {
+          "t": "p",
+          "x": "Allplan Max正在整个产品组合中推出：Allplan用于BIM、深化设计和工作流定制；SCIA和FRILO用于结构分析；SDS2用于面向加工制造的工作流。用户报告称，部分任务的完成速度最多提升百分之36，但这是自行报告的估计值，可能有所差异。Allplan Max 2027定于2026年10月28日推出。"
+        }
+      ]
+    },
+    "design/uxcollective-ai-cost-controls": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一份实用指南，讲解如何选择用量单位、设计支出上限，以及在工作前、中、后解释AI成本。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "每一次AI回应都有价格。快速修改和长时间运行的代理在界面上可能几乎一模一样，而且都从同一个按钮启动。对设计师来说，这归结为两个决定：用户看到自己在消耗的单位，以及用户理解成本的时机。"
+        },
+        {
+          "t": "p",
+          "x": "词元是系统的货币，而不是用户的货币。单位从词元和美元，到积分、任务和成果，再到用量额度，不一而足；关键区别在于由谁承担不确定性。用量上限应显示每个周期及其重置时间；按任务计价应说明哪些会被计入；积分则需要让人感知其价值。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "工作开始前，要说明成本由什么决定，并提供更便宜的模式或上限。进行中，要显示真实进度，如果估算不再成立，应在继续前先征询用户。完成后，附上一张收据。成本应在关键时刻可见，但不应成为用户需要时刻惦记的事。"
+        }
+      ]
+    },
+    "design/borisfx-continuum-2027-ml": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_cnXGCOCCJY"
+        },
+        {
+          "t": "p",
+          "x": "Boris FX发布了Continuum 2027.0，这是其面向合成与剪辑软件的特效插件套装的最新版本。此次更新新增了2D 字幕系统、3D 噪波生成器以及五款新的扭曲与变形特效，并更新了Continuum的遮罩工具和粒子特效系统。"
+        },
+        {
+          "t": "p",
+          "x": "Continuum 2026.0中加入的AI遮罩工具也得到更新。BCC+ Face ML现在可追踪包括耳朵在内的完整脸型，带来“更完整的覆盖和更少的手动修正”。BCC+ Matte Refine ML现在能更好地保留发丝等细节，BCC+ Witness Protection ML则改用精确遮罩，而非通用的椭圆形。"
+        },
+        {
+          "t": "p",
+          "x": "Continuum 2027.0兼容After Effects、DaVinci Resolve和Nuke，支持Windows 10+ 或macOS 12.0+ 系统。永久许可证售价$365至$2,195；订阅为$32/month至$112/month，或$215/year至$765/year。"
+        }
+      ]
+    },
+    "design/figma-fluent-edit-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "我们越来越多地看到，专门的后训练可以与前沿模型一较高下。许多日常设计工作规模更小、迭代更多，而且往往难以验证：调整间距、更换颜色、根据反馈重做布局。因此，Figma 智能体从一个聚焦的任务起步：帮助设计师编辑画布上已有的作品。"
+        },
+        {
+          "t": "p",
+          "x": "前沿模型无法理解 Figma 的语法，因此我们投入了监督微调（SFT）。我们用 Figma 的原生文件格式来表示设计，让模型学会生成可以直接应用回画布的修改。更大的教师模型尝试编辑，再由确定性验证器和视觉模型评审进行检查。我们早期的一个 Llama 3.3 70B 模型用超过 250,000 个示例训练，在编辑任务上可与当时的顶尖模型相媲美。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
+          "cap": "我们最早的 SFT 流程"
+        },
+        {
+          "t": "p",
+          "x": "此后我们转向了能力更强的基础模型，包括较新的 Qwen 模型，并在强化学习（RL）上加大投入。我们分别评估对齐、对比度和需求完成度等维度，将结构检查与经专业设计师校准的视觉评审结合起来。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
+          "cap": "最新未发布的 Figma 编辑模型（基于 Qwen 3.8 27B 后训练）与其他第三方模型在设计编辑任务上的对比"
+        },
+        {
+          "t": "p",
+          "x": "该智能体将这一模型与领先的第三方模型并用。典型任务提速约 20%；新智能体有 62% 的情况优于或持平此前的生产版智能体，用户评分高出 33%，用户撤销其操作的频率降低 60%。"
+        }
+      ]
     }
   }
 }

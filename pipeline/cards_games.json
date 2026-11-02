@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "games",
   "cards": [
     {
-      "id": "games-atelico-ondevice-engine",
+      "id": "claude-noremake-rule",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Atelico AI 엔진\n게임 속에서 직접 실행",
-      "body": "Atelico 엔진은 언어 모델·이미지 생성·음성을 플레이어 기기에서 돌린다.",
-      "mini_headline": "Atelico 온디바이스 AI 엔진",
+      "headline": "Claude에 게임\n리메이크 금지령",
+      "body": "Anthropic이 Claude AI에 게임 리메이크를 막는 규칙을 넣었다.",
+      "mini_headline": "Claude, 게임 리메이크 중단",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/studio-atelico-launches-ai-engine-built-to-run-on-device-inside-games/",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,203 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
           },
           {
             "t": "p",
-            "x": "AI-native 게임과 그 기반 기술을 만드는 스튜디오 Studio Atelico가 Atelico AI Engine을 얼리 액세스로 공개했다. 개발자는 언어 모델, 이미지 생성, 시맨틱 검색, 음성 시스템, AI-powered 캐릭터 행동을 모두 플레이어 기기의 게임 프로세스 안에서 렌더러와 함께 돌릴 수 있다. 스튜디오 데뷔작인 크리처 배틀 게임 Bobium Brawlers도 이미 이 엔진으로 돌아간다. 플레이어가 평범한 말로 캐릭터를 설명하면 휴대폰이 초상화와 플레이 가능한 덱을 만들어 낸다."
-          },
-          {
-            "t": "video",
-            "yt": "xLwBBlMYokg"
+            "x": "업데이트: Anthropic은 Opus 5.5 업데이트로 Claude Code가 “다른 사람의 특정 게임을 재현하는 것”을 피하도록 “유도”했다고 확인했다."
           },
           {
             "t": "p",
-            "x": "Unity, Unreal Engine, Godot와 네이티브로 붙고, Windows, macOS, iOS, Linux에서 GPU나 CPU로 돈다. 자체 개발한 Compute Graphics Scheduler(CGS)가 AI 추론과 렌더링을 프레임 드롭 없이 함께 굴린다. 연산을 플레이어 시스템이 맡으니 스튜디오가 낼 추론 비용은 없다. CEO Piero Molino는 사용자 백만 명 규모를 클라우드로 감당하면 하루 $1 million이 들 수도 있다고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-            "cap": "Studio Atelico에는 AI가 학습한 카툰 아트 스타일이 있다. 출처: Studio Atelico"
+            "x": "X 사용자 Chasm은 10월 27일께 배포된 Claude Code “규칙” 업데이트를 찾아냈다. “tengu_heron_brook” 항목에 담긴 규칙 문구는 “독창적인 게임, 특정 장르의 게임, 사용자 자신의 디자인과 에셋으로 만든 게임은 만든다. 이름을 바꾸거나 오리지널이라고 부르더라도 기존 특정 게임의 재현작은 만들지 않는다.”이다. Chasm은 이 규칙을 끌 방법이 없다고 했다."
           },
           {
             "t": "p",
-            "x": "이미지는 Apple Silicon에서 약 1초, 최신 데스크톱 GPUs에서는 <0.25s면 나온다. 페르소나와 기억, 동기를 갖춘 NPCs용 Character Behavior System과 여러 겹의 안전 파이프라인도 들어 있다. Molino는 “게임 속 AI의 미래는 개발자를 대체하는 데 있지 않다고 믿는다”고 말했다."
+            "x": "“Claude로 IP를 침해하는 것은 이용 정책 위반이므로, 다른 사람의 특정 게임을 재현하지 않도록 Opus 5.5의 Claude Code 프롬프트에 두 문장을 추가했다”고 Anthropic의 Addy Osmani가 썼다. “독창적인 게임, 장르 게임, 자신의 디자인과 에셋으로 만든 게임은 계속 작동하도록 할 생각이다.”"
+          },
+          {
+            "t": "p",
+            "x": "인디 개발자 사이에선 AI로 순식간에 베낀 리메이크가 나올 수 있다는 우려가 퍼졌다. 누군가 데모를 AI 도구에 넣어 ReVamp를 제멋대로 다시 낼까 봐 공개 플레이테스트를 취소한 스튜디오도 여럿이다. Digital Sun Games도 그중 하나다."
+          },
+          {
+            "t": "p",
+            "x": "이 규칙에 막히는 건 가장 손쉬운 모방자 정도일지 모른다. 안전 제한은 말재주로 우회할 수 있다. 사용자가 게임 아이디어나 에셋의 주인인지 소프트웨어가 어떻게 가려낼지도 불분명하다. 복제자는 이런 제한 없는 오픈 웨이트 모델로 옮겨 가면 그만이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Atelico opens an AI engine\nthat runs inside the game",
-          "body": "Atelico's engine runs language models, image generation and speech on the player's device, inside the game.",
-          "mini_headline": "Atelico's on-device AI engine",
+          "headline": "Claude is told to stop\nremaking video games",
+          "body": "Claude users report that Anthropic has updated its AI tool with a rule barring it from remaking video games.",
+          "mini_headline": "Claude stops remaking games",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Studio Atelico, a game studio building AI-native games and the tech behind them, opened early access to the Atelico AI Engine, which lets developers run language models, image generation, semantic search, speech systems and AI-powered character behaviors entirely on player's devices, inside the game process and alongside the renderer. It already powers the studio's debut creature-battler Bobium Brawlers, where players describe a character in plain language and get a portrait and playable deck generated on their phone."
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "Update: Anthropic has confirmed it's released an update to Opus 5.5 to \"steer\" Claude Code away from \"recreating someone else's specific game.\""
               },
               {
                 "t": "p",
-                "x": "The engine integrates natively with Unity, Unreal Engine and Godot and runs across Windows, macOS, iOS and Linux, on GPU or CPU. Its proprietary Compute Graphics Scheduler (CGS) lets AI inference run alongside rendering without frame drops. Because processing happens on the player's system, studios pay no inference cost; CEO Piero Molino said a cloud solution for a million users could cost $1 million a day."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio Atelico has a cartoon art style that the AI has learned. Source: Studio Atelico"
+                "x": "X user Chasm said they spotted an update to Claude Code's \"rules\" pushed sometime on October 27. The rule, listed under \"tengu_heron_brook,\" reads \"Do build original games, games in a genre, and games from the user’s own designs and assets. Do not build a recreation of a specific existing game, even if it is renamed or called original.\" Chasm reports that there is no way to disable the rule."
               },
               {
                 "t": "p",
-                "x": "It can generate images in ~1 second on Apple Silicon and in <0.25s on the latest desktop GPUs, and includes a Character Behavior System for NPCs with personas, memories and motivations, plus a multi-layer safety pipeline. “We believe the future of AI in games isn’t about replacing developers,” said Molino."
+                "x": "\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy,\" Anthropic's Addy Osmani wrote. \"Original games, genre games, and games built from your own designs and assets are meant to keep working.\""
+              },
+              {
+                "t": "p",
+                "x": "Fear of fast-follow AI remakes has spread among independent developers; Digital Sun Games is one of several studios to cancel an upcoming public playtest for fear someone might ingest the demo into an AI tool and release their own version of ReVamp."
+              },
+              {
+                "t": "p",
+                "x": "The rule may only deter the most low-effort copycats: safety limits can be sidestepped with rhetorical tricks, it's unclear how the software would know whether a user owns a game idea or assets, and cloners can turn to open-weight models with no such restrictions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Atelico AI 엔진\n게임 속에서 직접 실행",
-          "body": "Atelico 엔진은 언어 모델·이미지 생성·음성을 플레이어 기기에서 돌린다.",
-          "mini_headline": "Atelico 온디바이스 AI 엔진",
+          "headline": "Claude에 게임\n리메이크 금지령",
+          "body": "Anthropic이 Claude AI에 게임 리메이크를 막는 규칙을 넣었다.",
+          "mini_headline": "Claude, 게임 리메이크 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "AI-native 게임과 그 기반 기술을 만드는 스튜디오 Studio Atelico가 Atelico AI Engine을 얼리 액세스로 공개했다. 개발자는 언어 모델, 이미지 생성, 시맨틱 검색, 음성 시스템, AI-powered 캐릭터 행동을 모두 플레이어 기기의 게임 프로세스 안에서 렌더러와 함께 돌릴 수 있다. 스튜디오 데뷔작인 크리처 배틀 게임 Bobium Brawlers도 이미 이 엔진으로 돌아간다. 플레이어가 평범한 말로 캐릭터를 설명하면 휴대폰이 초상화와 플레이 가능한 덱을 만들어 낸다."
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "업데이트: Anthropic은 Opus 5.5 업데이트로 Claude Code가 “다른 사람의 특정 게임을 재현하는 것”을 피하도록 “유도”했다고 확인했다."
               },
               {
                 "t": "p",
-                "x": "Unity, Unreal Engine, Godot와 네이티브로 붙고, Windows, macOS, iOS, Linux에서 GPU나 CPU로 돈다. 자체 개발한 Compute Graphics Scheduler(CGS)가 AI 추론과 렌더링을 프레임 드롭 없이 함께 굴린다. 연산을 플레이어 시스템이 맡으니 스튜디오가 낼 추론 비용은 없다. CEO Piero Molino는 사용자 백만 명 규모를 클라우드로 감당하면 하루 $1 million이 들 수도 있다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio Atelico에는 AI가 학습한 카툰 아트 스타일이 있다. 출처: Studio Atelico"
+                "x": "X 사용자 Chasm은 10월 27일께 배포된 Claude Code “규칙” 업데이트를 찾아냈다. “tengu_heron_brook” 항목에 담긴 규칙 문구는 “독창적인 게임, 특정 장르의 게임, 사용자 자신의 디자인과 에셋으로 만든 게임은 만든다. 이름을 바꾸거나 오리지널이라고 부르더라도 기존 특정 게임의 재현작은 만들지 않는다.”이다. Chasm은 이 규칙을 끌 방법이 없다고 했다."
               },
               {
                 "t": "p",
-                "x": "이미지는 Apple Silicon에서 약 1초, 최신 데스크톱 GPUs에서는 <0.25s면 나온다. 페르소나와 기억, 동기를 갖춘 NPCs용 Character Behavior System과 여러 겹의 안전 파이프라인도 들어 있다. Molino는 “게임 속 AI의 미래는 개발자를 대체하는 데 있지 않다고 믿는다”고 말했다."
+                "x": "“Claude로 IP를 침해하는 것은 이용 정책 위반이므로, 다른 사람의 특정 게임을 재현하지 않도록 Opus 5.5의 Claude Code 프롬프트에 두 문장을 추가했다”고 Anthropic의 Addy Osmani가 썼다. “독창적인 게임, 장르 게임, 자신의 디자인과 에셋으로 만든 게임은 계속 작동하도록 할 생각이다.”"
+              },
+              {
+                "t": "p",
+                "x": "인디 개발자 사이에선 AI로 순식간에 베낀 리메이크가 나올 수 있다는 우려가 퍼졌다. 누군가 데모를 AI 도구에 넣어 ReVamp를 제멋대로 다시 낼까 봐 공개 플레이테스트를 취소한 스튜디오도 여럿이다. Digital Sun Games도 그중 하나다."
+              },
+              {
+                "t": "p",
+                "x": "이 규칙에 막히는 건 가장 손쉬운 모방자 정도일지 모른다. 안전 제한은 말재주로 우회할 수 있다. 사용자가 게임 아이디어나 에셋의 주인인지 소프트웨어가 어떻게 가려낼지도 불분명하다. 복제자는 이런 제한 없는 오픈 웨이트 모델로 옮겨 가면 그만이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Atelicoが公開\nゲーム内で動くAIエンジン",
-          "body": "Atelicoのエンジンは言語モデルや画像生成、音声をプレイヤー端末のゲーム内で動かす。",
-          "mini_headline": "AtelicoのオンデバイスAIエンジン",
+          "headline": "Claude、ゲームの\nリメイクを禁止",
+          "body": "Claude利用者によると、AnthropicがAIにゲームリメイク禁止のルールを加えた。",
+          "mini_headline": "Claude、ゲームのリメイクを停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "AI-nativeなゲームとその基盤技術を手がけるゲームスタジオStudio Atelicoは、Atelico AI Engineのアーリーアクセスを開始した。開発者は言語モデル、画像生成、セマンティック検索、音声システム、AI-poweredのキャラクター挙動を、すべてプレイヤーの端末上で、ゲームプロセス内でレンダラーと並行して実行できる。このエンジンはすでに同スタジオのデビュー作であるクリーチャーバトルゲームBobium Brawlersを支えており、プレイヤーが平易な言葉でキャラクターを描写すると、スマートフォン上で肖像画とプレイ可能なデッキが生成される。"
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "更新：Anthropicは、Claude Codeが「他人の特定のゲームを再現すること」から離れるよう「誘導する」ためのOpus 5.5向けアップデートを公開したと認めた。"
               },
               {
                 "t": "p",
-                "x": "エンジンはUnity、Unreal Engine、Godotとネイティブに統合され、Windows、macOS、iOS、LinuxのGPUまたはCPUで動作する。独自のCompute Graphics Scheduler(CGS)により、AI推論をフレーム落ちなしにレンダリングと並行して実行できる。処理はプレイヤーのシステム上で行われるため、スタジオは推論コストを負担しない。CEOのPiero Molinoは、百万人のユーザー向けのクラウドソリューションなら一日で$1 millionかかりうると述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio AtelicoにはAIが学習したカートゥーン調のアートスタイルがある。出典:Studio Atelico"
+                "x": "XユーザーのChasmは、10月27日ごろに配信されたClaude Codeの「ルール」の更新を見つけたと述べた。「tengu_heron_brook」の項目にあるこのルールには「オリジナルのゲーム、特定ジャンルのゲーム、ユーザー自身のデザインやアセットによるゲームは作る。名前を変えたりオリジナルと称したりしても、既存の特定ゲームの再現は作らない」と書かれている。Chasmによると、このルールを無効にする方法はない。"
               },
               {
                 "t": "p",
-                "x": "Apple Siliconでは約1秒、最新のデスクトップGPUsでは<0.25sで画像を生成でき、ペルソナや記憶、動機を持つNPCs向けのCharacter Behavior Systemと多層の安全パイプラインも備える。「ゲームにおけるAIの未来は開発者を置き換えることではないと考えている」とMolinoは語った。"
+                "x": "「Claudeを使ったIPの侵害は利用ポリシーに反するため、他人の特定のゲームを再現しないよう、Opus 5.5のClaude Codeのプロンプトに二つの文を追加した」とAnthropicのAddy Osmaniは書いた。「オリジナルのゲーム、ジャンルゲーム、自分のデザインやアセットで作るゲームは引き続き機能するようにしている」"
+              },
+              {
+                "t": "p",
+                "x": "AIによる素早い模倣リメイクへの不安がインディー開発者の間に広がっている。Digital Sun Gamesは、誰かがデモをAIツールに取り込んでReVampの独自版を出すことを恐れ、予定していた公開プレイテストを中止した複数のスタジオの一つだ。"
+              },
+              {
+                "t": "p",
+                "x": "このルールが抑止できるのは、最も手軽な模倣者だけかもしれない。安全上の制限は言葉の工夫でかわせるうえ、ユーザーがゲームのアイデアやアセットを所有しているかをソフトウェアがどう判断するのかは不明で、模倣者はこうした制限のないオープンウェイトモデルに乗り換えられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Atelico推出\n在游戏内运行的AI引擎",
-          "body": "Atelico的引擎在玩家设备上、游戏内部运行语言模型、图像生成和语音。",
-          "mini_headline": "Atelico端侧AI引擎",
+          "headline": "Claude被叫停\n重制电子游戏",
+          "body": "Claude用户称，Anthropic已为这款AI工具加入禁止重制电子游戏的规则。",
+          "mini_headline": "Claude停止重制游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "致力于打造AI-native游戏及其底层技术的游戏工作室Studio Atelico开放了Atelico AI Engine的抢先体验。开发者可以完全在玩家设备上、在游戏进程内与渲染器并行运行语言模型、图像生成、语义搜索、语音系统以及AI-powered角色行为。该引擎已为工作室的首款生物对战游戏Bobium Brawlers提供支持:玩家用平实的语言描述一个角色,手机上就会生成肖像和可玩的卡组。"
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "更新：Anthropic已确认发布了一项Opus 5.5更新，以“引导”Claude Code不去“重制他人的特定游戏”。"
               },
               {
                 "t": "p",
-                "x": "该引擎与Unity、Unreal Engine和Godot原生集成,可在Windows、macOS、iOS和Linux上以GPU或CPU运行。其专有的Compute Graphics Scheduler(CGS)让AI推理与渲染并行而不掉帧。由于处理在玩家系统上进行,工作室无需支付推理费用;CEO Piero Molino表示,面向百万用户的云端方案每天可能花费$1 million。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio Atelico拥有一种由AI学习的卡通美术风格。来源:Studio Atelico"
+                "x": "X用户Chasm表示，他们发现Claude Code的“规则”在10月27日某个时候推送了更新。这条规则列在“tengu_heron_brook”之下，内容为：“可以制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏。不得制作对某款现有特定游戏的重制，即使改了名或号称原创。”Chasm称，这条规则无法关闭。"
               },
               {
                 "t": "p",
-                "x": "它在Apple Silicon上约1秒即可生成图像,在最新桌面GPUs上则<0.25s,还包含为拥有人设、记忆和动机的NPCs设计的Character Behavior System,以及多层安全管线。Molino说:“我们相信,游戏中AI的未来并不在于取代开发者。”"
+                "x": "“我们在Opus 5.5上的Claude Code提示词中加了两句话，引导它不去重制他人的特定游戏，因为用Claude侵犯IP违反我们的使用政策，”Anthropic的Addy Osmani写道。“原创游戏、类型游戏以及基于你自己的设计和素材制作的游戏，应当可以继续正常使用。”"
+              },
+              {
+                "t": "p",
+                "x": "对AI快速跟风重制的担忧已在独立开发者中蔓延；Digital Sun Games是取消即将举行的公开试玩的多家工作室之一，原因是担心有人把试玩版喂给AI工具，推出自己的ReVamp版本。"
+              },
+              {
+                "t": "p",
+                "x": "这条规则或许只能吓退最省事的抄袭者：安全限制可以靠话术绕过，软件如何判断用户是否拥有某个游戏创意或素材也不清楚，而抄袭者还可以转向没有此类限制的开放权重模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Atelico abre un motor de AI\nque funciona dentro del juego",
-          "body": "El motor de Atelico ejecuta modelos de lenguaje, imágenes y voz en el dispositivo del jugador, dentro del juego.",
-          "mini_headline": "El motor AI on-device de Atelico",
+          "headline": "Claude recibe la orden de no\nrehacer videojuegos",
+          "body": "Usuarios de Claude dicen que Anthropic añadió a su herramienta de AI una regla que le impide rehacer videojuegos.",
+          "mini_headline": "Claude deja de rehacer juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Studio Atelico, un estudio que crea juegos AI-native y la tecnología que los sostiene, abrió el acceso anticipado a Atelico AI Engine, que permite a los desarrolladores ejecutar modelos de lenguaje, generación de imágenes, búsqueda semántica, sistemas de voz y comportamientos de personajes AI-powered por completo en los dispositivos de los jugadores, dentro del proceso del juego y junto al renderizador. Ya impulsa el debut del estudio, el juego de combate de criaturas Bobium Brawlers, en el que los jugadores describen un personaje en lenguaje sencillo y obtienen un retrato y un mazo jugable generados en su teléfono."
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "Actualización: Anthropic confirmó que publicó una actualización de Opus 5.5 para “alejar” a Claude Code de “recrear el juego específico de otra persona”."
               },
               {
                 "t": "p",
-                "x": "El motor se integra de forma nativa con Unity, Unreal Engine y Godot y funciona en Windows, macOS, iOS y Linux, con GPU o CPU. Su Compute Graphics Scheduler (CGS) propio permite que la inferencia de AI se ejecute junto al renderizado sin caídas de fotogramas. Como el procesamiento ocurre en el sistema del jugador, los estudios no pagan costes de inferencia; el CEO Piero Molino dijo que una solución en la nube para un millón de usuarios podría costar $1 million al día."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio Atelico tiene un estilo artístico de dibujos animados que la AI ha aprendido. Fuente: Studio Atelico"
+                "x": "El usuario de X Chasm dijo que detectó una actualización de las “reglas” de Claude Code publicada en algún momento del 27 de octubre. La regla, que figura como “tengu_heron_brook”, dice: “Crea juegos originales, juegos de un género y juegos a partir de los diseños y recursos propios del usuario. No crees una recreación de un juego existente específico, aunque se le cambie el nombre o se le llame original”. Chasm informa de que no hay forma de desactivar la regla."
               },
               {
                 "t": "p",
-                "x": "Puede generar imágenes en ~1 segundo en Apple Silicon y en <0.25s en las GPUs de escritorio más recientes, e incluye un Character Behavior System para NPCs con personalidades, recuerdos y motivaciones, además de un sistema de seguridad de varias capas. “Creemos que el futuro de la AI en los juegos no consiste en reemplazar a los desarrolladores”, dijo Molino."
+                "x": "“Añadimos dos frases al prompt de Claude Code en Opus 5.5 para alejarlo de recrear el juego específico de otra persona, porque usar Claude para infringir la IP va contra nuestra política de uso”, escribió Addy Osmani, de Anthropic. “Los juegos originales, los juegos de género y los juegos creados con tus propios diseños y recursos deberían seguir funcionando”."
+              },
+              {
+                "t": "p",
+                "x": "El temor a remakes rápidos hechos con AI se ha extendido entre los desarrolladores independientes; Digital Sun Games es uno de varios estudios que cancelaron una prueba de juego pública prevista por miedo a que alguien introdujera la demo en una herramienta de AI y lanzara su propia versión de ReVamp."
+              },
+              {
+                "t": "p",
+                "x": "La regla quizá solo disuada a los imitadores menos esforzados: los límites de seguridad pueden sortearse con trucos retóricos, no está claro cómo sabría el software si un usuario es dueño de una idea de juego o de sus recursos, y los clonadores pueden recurrir a modelos de pesos abiertos sin esas restricciones."
               }
             ]
           }
@@ -223,141 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Atelico AI 엔진\n게임 속에서 직접 실행",
-          "body": "Atelico 엔진은 언어 모델·이미지 생성·음성을 플레이어 기기에서 돌린다.",
-          "mini_headline": "Atelico 온디바이스 AI 엔진",
+          "headline": "Claude에 게임\n리메이크 금지령",
+          "body": "Anthropic이 Claude AI에 게임 리메이크 금지령을 넣었다고 한다.",
+          "mini_headline": "Claude, 게임 리메이크 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "AI-native 게임과 그 기반 기술을 만드는 게임 스튜디오 Studio Atelico가 Atelico AI Engine의 얼리 액세스를 열었다. 개발자는 언어 모델, 이미지 생성, 시맨틱 검색, 음성 시스템, AI-powered 캐릭터 행동을 전부 플레이어 기기에서, 게임 프로세스 안에서 렌더러와 나란히 실행할 수 있다. 이 엔진은 이미 스튜디오의 데뷔작인 크리처 배틀 게임 Bobium Brawlers를 구동한다. 플레이어가 평범한 말로 캐릭터를 묘사하면 휴대폰에서 초상화와 플레이 가능한 덱이 생성된다."
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "업데이트: Anthropic은 Claude Code가 “다른 사람의 특정 게임을 재현하는 것”에서 벗어나도록 “유도”하는 Opus 5.5 업데이트를 내놓았다고 확인했다."
               },
               {
                 "t": "p",
-                "x": "엔진은 Unity, Unreal Engine, Godot와 네이티브로 통합되며 Windows, macOS, iOS, Linux에서 GPU 또는 CPU로 동작한다. 자체 개발한 Compute Graphics Scheduler(CGS) 덕분에 AI 추론이 프레임 드롭 없이 렌더링과 함께 돌아간다. 처리가 플레이어 시스템에서 이뤄지므로 스튜디오는 추론 비용을 내지 않는다. CEO Piero Molino는 백만 명 사용자를 위한 클라우드 솔루션이라면 하루 $1 million이 들 수 있다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio Atelico에는 AI가 학습한 카툰 아트 스타일이 있다. 출처: Studio Atelico"
+                "x": "X 사용자 Chasm은 10월 27일께 배포된 Claude Code의 “규칙” 업데이트를 발견했다고 밝혔다. “tengu_heron_brook” 항목에 들어간 이 규칙에는 “독창적인 게임, 특정 장르의 게임, 사용자 자신의 디자인과 에셋으로 만든 게임은 만든다. 이름을 바꾸거나 오리지널이라고 부르더라도 기존 특정 게임의 재현작은 만들지 않는다.”라고 적혀 있다. Chasm에 따르면 이 규칙을 끌 방법은 없다."
               },
               {
                 "t": "p",
-                "x": "Apple Silicon에서는 이미지를 약 1초 만에, 최신 데스크톱 GPUs에서는 <0.25s 만에 생성할 수 있다. 페르소나와 기억, 동기를 지닌 NPCs를 위한 Character Behavior System과 다층 안전 파이프라인도 갖췄다. Molino는 “게임 속 AI의 미래는 개발자를 대체하는 데 있지 않다고 믿는다”고 말했다."
+                "x": "“Claude로 IP를 침해하는 것은 이용 정책 위반이므로, 다른 사람의 특정 게임을 재현하지 않도록 Opus 5.5의 Claude Code 프롬프트에 두 문장을 추가했다”고 Anthropic의 Addy Osmani는 적었다. “독창적인 게임, 장르 게임, 자신의 디자인과 에셋으로 만든 게임은 계속 작동하도록 할 생각이다.”"
+              },
+              {
+                "t": "p",
+                "x": "AI로 재빠르게 베낀 리메이크가 나올 수 있다는 우려가 인디 개발자 사이에 퍼졌다. Digital Sun Games는 누군가 데모를 AI 도구에 넣어 ReVamp의 자체 버전을 낼까 봐 예정된 공개 플레이테스트를 취소한 여러 스튜디오 중 하나다."
+              },
+              {
+                "t": "p",
+                "x": "이 규칙은 가장 손쉬운 모방자만 막을 수 있을지도 모른다. 안전 제한은 말재주로 우회할 수 있고, 사용자가 게임 아이디어나 에셋을 소유했는지 소프트웨어가 어떻게 알지 불분명하며, 복제자는 이런 제한이 없는 오픈 웨이트 모델로 옮겨 갈 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Atelicoが公開\nゲーム内で動くAIエンジン",
-          "body": "Atelicoのエンジンは言語モデルや画像生成、音声をプレイヤー端末のゲーム内で動かす。",
-          "mini_headline": "AtelicoのオンデバイスAIエンジン",
+          "headline": "Claude、ゲームの\nリメイクを禁止",
+          "body": "Claude利用者によると、AnthropicがAIにゲームリメイク禁止のルールを加えた。",
+          "mini_headline": "Claude、ゲームのリメイクを停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "AI-nativeなゲームとその基盤技術を手がけるゲームスタジオStudio Atelicoは、Atelico AI Engineのアーリーアクセスを開始した。開発者は言語モデル、画像生成、セマンティック検索、音声システム、AI-poweredのキャラクター挙動を、すべてプレイヤーの端末上で、ゲームプロセス内でレンダラーと並行して実行できる。このエンジンはすでに同スタジオのデビュー作であるクリーチャーバトルゲームBobium Brawlersを支えており、プレイヤーが平易な言葉でキャラクターを描写すると、スマートフォン上で肖像画とプレイ可能なデッキが生成される。"
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "更新：Anthropicは、Claude Codeが「他人の特定のゲームを再現すること」から離れるよう「誘導する」ためのOpus 5.5向けアップデートを公開したと認めた。"
               },
               {
                 "t": "p",
-                "x": "エンジンはUnity、Unreal Engine、Godotとネイティブに統合され、Windows、macOS、iOS、LinuxのGPUまたはCPUで動作する。独自のCompute Graphics Scheduler(CGS)により、AI推論をフレーム落ちなしにレンダリングと並行して実行できる。処理はプレイヤーのシステム上で行われるため、スタジオは推論コストを負担しない。CEOのPiero Molinoは、百万人のユーザー向けのクラウドソリューションなら一日で$1 millionかかりうると述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio AtelicoにはAIが学習したカートゥーン調のアートスタイルがある。出典:Studio Atelico"
+                "x": "XユーザーのChasmは、10月27日ごろに配信されたClaude Codeの「ルール」の更新を見つけたと述べた。「tengu_heron_brook」の項目にあるこのルールには「オリジナルのゲーム、特定ジャンルのゲーム、ユーザー自身のデザインやアセットによるゲームは作る。名前を変えたりオリジナルと称したりしても、既存の特定ゲームの再現は作らない」と書かれている。Chasmによると、このルールを無効にする方法はない。"
               },
               {
                 "t": "p",
-                "x": "Apple Siliconでは約1秒、最新のデスクトップGPUsでは<0.25sで画像を生成でき、ペルソナや記憶、動機を持つNPCs向けのCharacter Behavior Systemと多層の安全パイプラインも備える。「ゲームにおけるAIの未来は開発者を置き換えることではないと考えている」とMolinoは語った。"
+                "x": "「Claudeを使ったIPの侵害は利用ポリシーに反するため、他人の特定のゲームを再現しないよう、Opus 5.5のClaude Codeのプロンプトに二つの文を追加した」とAnthropicのAddy Osmaniは書いた。「オリジナルのゲーム、ジャンルゲーム、自分のデザインやアセットで作るゲームは引き続き機能するようにしている」"
+              },
+              {
+                "t": "p",
+                "x": "AIによる素早い模倣リメイクへの不安がインディー開発者の間に広がっている。Digital Sun Gamesは、誰かがデモをAIツールに取り込んでReVampの独自版を出すことを恐れ、予定していた公開プレイテストを中止した複数のスタジオの一つだ。"
+              },
+              {
+                "t": "p",
+                "x": "このルールが抑止できるのは、最も手軽な模倣者だけかもしれない。安全上の制限は言葉の工夫でかわせるうえ、ユーザーがゲームのアイデアやアセットを所有しているかをソフトウェアがどう判断するのかは不明で、模倣者はこうした制限のないオープンウェイトモデルに乗り換えられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Atelico推出\n在游戏内运行的AI引擎",
-          "body": "Atelico的引擎在玩家设备上、游戏内部运行语言模型、图像生成和语音。",
-          "mini_headline": "Atelico端侧AI引擎",
+          "headline": "Claude被叫停\n重制电子游戏",
+          "body": "Claude用户称，Anthropic已为这款AI工具加入禁止重制电子游戏的规则。",
+          "mini_headline": "Claude停止重制游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "致力于打造AI-native游戏及其底层技术的游戏工作室Studio Atelico开放了Atelico AI Engine的抢先体验。开发者可以完全在玩家设备上、在游戏进程内与渲染器并行运行语言模型、图像生成、语义搜索、语音系统以及AI-powered角色行为。该引擎已为工作室的首款生物对战游戏Bobium Brawlers提供支持:玩家用平实的语言描述一个角色,手机上就会生成肖像和可玩的卡组。"
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "更新：Anthropic已确认发布了一项Opus 5.5更新，以“引导”Claude Code不去“重制他人的特定游戏”。"
               },
               {
                 "t": "p",
-                "x": "该引擎与Unity、Unreal Engine和Godot原生集成,可在Windows、macOS、iOS和Linux上以GPU或CPU运行。其专有的Compute Graphics Scheduler(CGS)让AI推理与渲染并行而不掉帧。由于处理在玩家系统上进行,工作室无需支付推理费用;CEO Piero Molino表示,面向百万用户的云端方案每天可能花费$1 million。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio Atelico拥有一种由AI学习的卡通美术风格。来源:Studio Atelico"
+                "x": "X用户Chasm表示，他们发现Claude Code的“规则”在10月27日某个时候推送了更新。这条规则列在“tengu_heron_brook”之下，内容为：“可以制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏。不得制作对某款现有特定游戏的重制，即使改了名或号称原创。”Chasm称，这条规则无法关闭。"
               },
               {
                 "t": "p",
-                "x": "它在Apple Silicon上约1秒即可生成图像,在最新桌面GPUs上则<0.25s,还包含为拥有人设、记忆和动机的NPCs设计的Character Behavior System,以及多层安全管线。Molino说:“我们相信,游戏中AI的未来并不在于取代开发者。”"
+                "x": "“我们在Opus 5.5上的Claude Code提示词中加了两句话，引导它不去重制他人的特定游戏，因为用Claude侵犯IP违反我们的使用政策，”Anthropic的Addy Osmani写道。“原创游戏、类型游戏以及基于你自己的设计和素材制作的游戏，应当可以继续正常使用。”"
+              },
+              {
+                "t": "p",
+                "x": "对AI快速跟风重制的担忧已在独立开发者中蔓延；Digital Sun Games是取消即将举行的公开试玩的多家工作室之一，原因是担心有人把试玩版喂给AI工具，推出自己的ReVamp版本。"
+              },
+              {
+                "t": "p",
+                "x": "这条规则或许只能吓退最省事的抄袭者：安全限制可以靠话术绕过，软件如何判断用户是否拥有某个游戏创意或素材也不清楚，而抄袭者还可以转向没有此类限制的开放权重模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Atelico abre un motor de AI\nque funciona dentro del juego",
-          "body": "El motor de Atelico ejecuta modelos de lenguaje, imágenes y voz en el dispositivo del jugador, dentro del juego.",
-          "mini_headline": "El motor AI on-device de Atelico",
+          "headline": "Claude recibe la orden de no\nrehacer videojuegos",
+          "body": "Usuarios de Claude dicen que Anthropic añadió a su herramienta de AI una regla que le impide rehacer videojuegos.",
+          "mini_headline": "Claude deja de rehacer juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Studio Atelico, un estudio que crea juegos AI-native y la tecnología que los sostiene, abrió el acceso anticipado a Atelico AI Engine, que permite a los desarrolladores ejecutar modelos de lenguaje, generación de imágenes, búsqueda semántica, sistemas de voz y comportamientos de personajes AI-powered por completo en los dispositivos de los jugadores, dentro del proceso del juego y junto al renderizador. Ya impulsa el debut del estudio, el juego de combate de criaturas Bobium Brawlers, en el que los jugadores describen un personaje en lenguaje sencillo y obtienen un retrato y un mazo jugable generados en su teléfono."
-              },
-              {
-                "t": "video",
-                "yt": "xLwBBlMYokg"
+                "x": "Actualización: Anthropic confirmó que publicó una actualización de Opus 5.5 para “alejar” a Claude Code de “recrear el juego específico de otra persona”."
               },
               {
                 "t": "p",
-                "x": "El motor se integra de forma nativa con Unity, Unreal Engine y Godot y funciona en Windows, macOS, iOS y Linux, con GPU o CPU. Su Compute Graphics Scheduler (CGS) propio permite que la inferencia de AI se ejecute junto al renderizado sin caídas de fotogramas. Como el procesamiento ocurre en el sistema del jugador, los estudios no pagan costes de inferencia; el CEO Piero Molino dijo que una solución en la nube para un millón de usuarios podría costar $1 million al día."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
-                "cap": "Studio Atelico tiene un estilo artístico de dibujos animados que la AI ha aprendido. Fuente: Studio Atelico"
+                "x": "El usuario de X Chasm dijo que detectó una actualización de las “reglas” de Claude Code publicada en algún momento del 27 de octubre. La regla, que figura como “tengu_heron_brook”, dice: “Crea juegos originales, juegos de un género y juegos a partir de los diseños y recursos propios del usuario. No crees una recreación de un juego existente específico, aunque se le cambie el nombre o se le llame original”. Chasm informa de que no hay forma de desactivar la regla."
               },
               {
                 "t": "p",
-                "x": "Puede generar imágenes en ~1 segundo en Apple Silicon y en <0.25s en las GPUs de escritorio más recientes, e incluye un Character Behavior System para NPCs con personalidades, recuerdos y motivaciones, además de un sistema de seguridad de varias capas. “Creemos que el futuro de la AI en los juegos no consiste en reemplazar a los desarrolladores”, dijo Molino."
+                "x": "“Añadimos dos frases al prompt de Claude Code en Opus 5.5 para alejarlo de recrear el juego específico de otra persona, porque usar Claude para infringir la IP va contra nuestra política de uso”, escribió Addy Osmani, de Anthropic. “Los juegos originales, los juegos de género y los juegos creados con tus propios diseños y recursos deberían seguir funcionando”."
+              },
+              {
+                "t": "p",
+                "x": "El temor a remakes rápidos hechos con AI se ha extendido entre los desarrolladores independientes; Digital Sun Games es uno de varios estudios que cancelaron una prueba de juego pública prevista por miedo a que alguien introdujera la demo en una herramienta de AI y lanzara su propia versión de ReVamp."
+              },
+              {
+                "t": "p",
+                "x": "La regla quizá solo disuada a los imitadores menos esforzados: los límites de seguridad pueden sortearse con trucos retóricos, no está claro cómo sabría el software si un usuario es dueño de una idea de juego o de sus recursos, y los clonadores pueden recurrir a modelos de pesos abiertos sin esas restricciones."
               }
             ]
           }
@@ -365,15 +355,15 @@
       }
     },
     {
-      "id": "games-roblox-q3-ai-creation",
+      "id": "itchio-page-surge",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Roblox 상위 게임\n80% 이상이 AI 활용",
-      "body": "Q2 이후 AI 도구 사용은 세 배, MCP Server 사용은 다섯 배 가까이다.",
-      "mini_headline": "Roblox 상위 게임, AI에 기대다",
+      "headline": "Itch.io 신규 페이지\n두 달 새 두 배로",
+      "body": "AI 슬롭이 몰리며 Itch.io 하루 신규 페이지가 두 달 새 두 배가 됐다.",
+      "mini_headline": "Itch.io 신규 페이지 두 배",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/roblox-says-more-than-80-of-its-top-100-games-used-ai-to-accelerate-creation/",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -381,179 +371,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+            "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
           },
           {
             "t": "p",
-            "x": "Roblox는 실적 보고서에서 플레이 시간 기준 상위 100개 게임 가운데 80% 이상이 2026년 10월 제작 속도를 높이려고 AI를 썼다고 밝혔다. 2026년 두 번째 분기 이후 상위 크리에이터의 AI 도구 사용 시간은 세 배가 됐고, MCP Server 일일 사용량도 다섯 배 가까이 뛰었다. MCP Server는 Model Context Protocol의 Roblox 구현체로, Claude나 Cursor 같은 AI 어시스턴트가 Roblox Studio 안에서 바로 작업하게 해 준다."
+            "x": "생성형 AI를 쓰는 개발자가 늘자 게임 스토어마다 신작이 넘친다. 손수 만든 게임을 내놓는 인디 개발자는 눈에 띄기가 어느 때보다 어려워졌다."
           },
           {
             "t": "p",
-            "x": "창업자이자 CEO인 David Baszucki는 “AI는 게임 산업을 근본적으로 재편하고 있으며, 콘텐츠를 만드는 속도에 계단식 변화를 일으키고 있다”고 말했다. Q3 말에는 거의 전부 AI로 만든 게임이 동시 접속자 기준 Roblox top 10에 진입했다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-            "cap": "RDC 26 현장의 Roblox Anupam Singh와 Dave Baszucki. 출처: GamesBeat/Dean Takahashi"
+            "x": "itch.io는 10월 31일 늦게 Bluesky에서 하루 새로 생기는 게임 페이지가 2026년 8월 이후 두 배로 늘었다고 밝혔다. 함께 올린 그래프를 보면 당시 하루 약 3,000개였던 신규 페이지가 10월 30일엔 6,000개를 넘었다. 다른 답글에서 itch.io는 이 신규 페이지 대부분이 AI 프로젝트라고 했다."
           },
           {
             "t": "p",
-            "x": "자연어로 게임을 만드는 Roblox의 Build는 아직 일부 시장에만 열려 있다. 그런데도 500,000명 넘는 사용자가 써 봤고, 공개된 게임은 70,000개를 넘는다. 2026년 10월 일일 에셋 업로드는 세 배가 됐고, Roblox는 Roblox Studio의 모든 주요 API에 MCP 접근을 열어 가는 중이다. 회사의 판단은 이렇다. 만드는 일은 흔해질 수 있어도 관객과 발견은 그렇지 않다."
+            "x": "등록작은 늘어도 플레이어는 늘지 않는다. itch.io는 또 다른 답글에서 2026년 8월 이후 \"다운로드와 구매 수는 두 배로 늘지 않았다\"고 확인했다."
+          },
+          {
+            "t": "p",
+            "x": "상당수가 생성형 AI로 만들어졌을 신작이 쏟아지는데 이용자는 그대로라, 인디 개발자가 노출을 얻어야 할 플랫폼만 붐빈다. Steam도 포화 상태다. Steam Next Fest 데모 상당수가 AI-made 경쟁작에 묻히거나 도용당했다. Itch.io는 이미 개발자에게 AI 사용 여부를 밝히라고 요구한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Over 80% of top Roblox games\nnow use AI to build faster",
-          "body": "Roblox says time in its AI tools tripled among top creators since Q2, while daily MCP Server use rose nearly fivefold.",
-          "mini_headline": "Roblox top games lean on AI",
+          "headline": "Itch.io new game pages\ndouble in two months",
+          "body": "Itch.io says new game pages created each day have doubled in two months as AI slop floods storefronts.",
+          "mini_headline": "Itch.io new pages double",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Roblox disclosed in its earnings report that more than 80% of its top 100 games (by hours played) used AI to accelerate game creation in October 2026. Since the second quarter of 2026, time spent in AI tools has tripled among top creators, and daily use of its MCP Server — Roblox's implementation of the Model Context Protocol, which lets AI assistants such as Claude and Cursor work directly with Roblox Studio — is up nearly five-fold."
+                "x": "Gaming storefronts are flooded with new games as more developers use generative AI, making it harder than ever for indie devs with hand-crafted games to stand out."
               },
               {
                 "t": "p",
-                "x": "“AI is fundamentally reshaping the gaming industry, driving a step function change in the pace at which content can be created,” said founder and CEO David Baszucki. By the end of Q3, a game created almost entirely with AI broke into the top 10 on Roblox by concurrent players."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "Anupam Singh and Dave Baszucki of Roblox at RDC 26. Source: GamesBeat/Dean Takahashi"
+                "x": "Late on Oct. 31, itch.io took to Bluesky to reveal that the number of game pages being created each day has doubled since Aug. 2026. According to the graph shared, the number of pages created per day was around 3,000 back then; now, that number is over 6,000 as of Oct. 30. Other replies from itch.io indicate that AI projects make up the majority of these new pages too."
               },
               {
                 "t": "p",
-                "x": "Build, Roblox's natural-language game creation environment, is live in only a handful of markets; more than 500,000 users have tried it and published over 70,000 games. Daily asset uploads tripled in October 2026, and Roblox is opening MCP access to every major API in Roblox Studio. The company's view is that building may get commoditized, but audience and discovery can't be."
+                "x": "More listings aren't bringing more players: itch.io confirmed in another reply that \"The number of downloads and purchases has not doubled\" since Aug. 2026."
+              },
+              {
+                "t": "p",
+                "x": "An influx of new releases, many likely created with generative AI, floods the platforms indie developers need visibility on without bringing audience growth. Steam is equally crammed, with many Steam Next Fest demos drowned out or stolen by AI-made competition. Itch.io already asks developers to disclose AI usage."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Roblox 상위 게임\n80% 이상이 AI 활용",
-          "body": "Q2 이후 AI 도구 사용은 세 배, MCP Server 사용은 다섯 배 가까이다.",
-          "mini_headline": "Roblox 상위 게임, AI에 기대다",
+          "headline": "Itch.io 신규 페이지\n두 달 새 두 배로",
+          "body": "AI 슬롭이 몰리며 Itch.io 하루 신규 페이지가 두 달 새 두 배가 됐다.",
+          "mini_headline": "Itch.io 신규 페이지 두 배",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Roblox는 실적 보고서에서 플레이 시간 기준 상위 100개 게임 가운데 80% 이상이 2026년 10월 제작 속도를 높이려고 AI를 썼다고 밝혔다. 2026년 두 번째 분기 이후 상위 크리에이터의 AI 도구 사용 시간은 세 배가 됐고, MCP Server 일일 사용량도 다섯 배 가까이 뛰었다. MCP Server는 Model Context Protocol의 Roblox 구현체로, Claude나 Cursor 같은 AI 어시스턴트가 Roblox Studio 안에서 바로 작업하게 해 준다."
+                "x": "생성형 AI를 쓰는 개발자가 늘자 게임 스토어마다 신작이 넘친다. 손수 만든 게임을 내놓는 인디 개발자는 눈에 띄기가 어느 때보다 어려워졌다."
               },
               {
                 "t": "p",
-                "x": "창업자이자 CEO인 David Baszucki는 “AI는 게임 산업을 근본적으로 재편하고 있으며, 콘텐츠를 만드는 속도에 계단식 변화를 일으키고 있다”고 말했다. Q3 말에는 거의 전부 AI로 만든 게임이 동시 접속자 기준 Roblox top 10에 진입했다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "RDC 26 현장의 Roblox Anupam Singh와 Dave Baszucki. 출처: GamesBeat/Dean Takahashi"
+                "x": "itch.io는 10월 31일 늦게 Bluesky에서 하루 새로 생기는 게임 페이지가 2026년 8월 이후 두 배로 늘었다고 밝혔다. 함께 올린 그래프를 보면 당시 하루 약 3,000개였던 신규 페이지가 10월 30일엔 6,000개를 넘었다. 다른 답글에서 itch.io는 이 신규 페이지 대부분이 AI 프로젝트라고 했다."
               },
               {
                 "t": "p",
-                "x": "자연어로 게임을 만드는 Roblox의 Build는 아직 일부 시장에만 열려 있다. 그런데도 500,000명 넘는 사용자가 써 봤고, 공개된 게임은 70,000개를 넘는다. 2026년 10월 일일 에셋 업로드는 세 배가 됐고, Roblox는 Roblox Studio의 모든 주요 API에 MCP 접근을 열어 가는 중이다. 회사의 판단은 이렇다. 만드는 일은 흔해질 수 있어도 관객과 발견은 그렇지 않다."
+                "x": "등록작은 늘어도 플레이어는 늘지 않는다. itch.io는 또 다른 답글에서 2026년 8월 이후 \"다운로드와 구매 수는 두 배로 늘지 않았다\"고 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "상당수가 생성형 AI로 만들어졌을 신작이 쏟아지는데 이용자는 그대로라, 인디 개발자가 노출을 얻어야 할 플랫폼만 붐빈다. Steam도 포화 상태다. Steam Next Fest 데모 상당수가 AI-made 경쟁작에 묻히거나 도용당했다. Itch.io는 이미 개발자에게 AI 사용 여부를 밝히라고 요구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roblox上位ゲーム\n80%超がAIで高速開発",
-          "body": "RobloxのAIツール利用はQ2以降三倍、MCP Server利用は五倍近くに増えた。",
-          "mini_headline": "Roblox上位作はAI頼み",
+          "headline": "Itch.io新規ページ\n二か月で倍増",
+          "body": "Itch.ioは、AIスロップの氾濫で毎日の新規ゲームページが二か月で倍増したと明かした。",
+          "mini_headline": "Itch.io新規ページが倍増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Robloxは決算報告で、プレイ時間で上位100本のゲームのうち80%超が、2026年10月にゲーム制作の加速にAIを使ったと明らかにした。2026年第二四半期以降、上位クリエイターのAIツール利用時間は三倍に、MCP Serverの日次利用は五倍近くに増えた。MCP Serverは、ClaudeやCursorなどのAIアシスタントがRoblox Studioで直接作業できるようにする、Model Context ProtocolのRobloxによる実装だ。"
+                "x": "生成AIを使う開発者が増え、ゲームストアには新作があふれている。手作りのゲームを出すインディー開発者が目立つことは、かつてなく難しくなった。"
               },
               {
                 "t": "p",
-                "x": "「AIはゲーム業界を根本から作り変えつつあり、コンテンツを作るペースに段階的な変化をもたらしている」と創業者兼CEOのDavid Baszucki氏は述べた。Q3末には、ほぼすべてをAIで制作したゲームが同時接続プレイヤー数でRobloxのtop 10入りを果たした。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "RDC 26でのRobloxのAnupam SinghとDave Baszucki。出典:GamesBeat/Dean Takahashi"
+                "x": "itch.ioは10月31日遅く、Blueskyで、1日に作成されるゲームページの数が2026年8月以降に倍増したと明らかにした。共有されたグラフによると、当時の1日あたりの作成ページ数は約3,000件だったが、10月30日時点では6,000件を超えている。itch.ioのほかの返信によれば、これら新規ページの大半もAIプロジェクトだという。"
               },
               {
                 "t": "p",
-                "x": "Robloxの自然言語ゲーム制作環境Buildは、まだ一部の市場でしか提供されていない。500,000人以上が試し、70,000本を超えるゲームを公開した。2026年10月には日次のアセットアップロードが三倍になり、RobloxはRoblox Studioの主要なAPIすべてにMCPアクセスを開放しつつある。同社は、作ることはコモディティ化しても、オーディエンスと発見はそうならないと見ている。"
+                "x": "掲載数が増えてもプレイヤーは増えていない。itch.ioは別の返信で、2026年8月以降「ダウンロード数と購入数は倍増していない」と認めた。"
+              },
+              {
+                "t": "p",
+                "x": "多くが生成AIで作られたとみられる新作の流入は、インディー開発者が露出を必要とするプラットフォームを埋め尽くす一方、利用者の増加にはつながっていない。Steamも同様に飽和しており、多くのSteam Next FestのデモがAI-madeの競合作品に埋もれたり盗用されたりしている。Itch.ioはすでに開発者にAI使用の開示を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roblox头部游戏\n超80%用AI加速开发",
-          "body": "自Q2以来,Roblox AI工具使用时长增至三倍,MCP Server日用量增近五倍。",
-          "mini_headline": "Roblox头部游戏倚重AI",
+          "headline": "Itch.io新游戏页面\n两个月翻倍",
+          "body": "Itch.io称，随着AI垃圾内容涌入商店，每日新建游戏页面数在两个月内翻了一番。",
+          "mini_headline": "Itch.io新页面翻倍",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Roblox在财报中披露,按游玩时长计算的前100款游戏中,超过80%在2026年10月使用AI加速游戏创作。自2026年第二季度以来,头部创作者使用AI工具的时间增至三倍,MCP Server的日使用量增长近五倍。MCP Server是Roblox对Model Context Protocol的实现,可让Claude、Cursor等AI助手直接在Roblox Studio中工作。"
+                "x": "随着越来越多开发者使用生成式AI，游戏商店里新作泛滥，手工打造游戏的独立开发者想要脱颖而出比以往任何时候都难。"
               },
               {
                 "t": "p",
-                "x": "创始人兼CEO David Baszucki表示:“AI正在从根本上重塑游戏行业,推动内容创作速度发生阶跃式变化。”到Q3末,一款几乎完全由AI制作的游戏按同时在线玩家数跻身Roblox top 10。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "Roblox的Anupam Singh与Dave Baszucki在RDC 26上。来源:GamesBeat/Dean Takahashi"
+                "x": "10月31日深夜，itch.io在Bluesky上透露，每天新建的游戏页面数量自2026年8月以来翻了一番。根据其分享的图表，当时每天新建的页面约为3,000个；截至10月30日，这一数字已超过6,000个。itch.io的其他回复还表明，这些新页面中大多数也是AI项目。"
               },
               {
                 "t": "p",
-                "x": "Build是Roblox的自然语言游戏创作环境,目前仅在少数市场上线;已有超过500,000名用户试用,并发布了70,000多款游戏。2026年10月,每日资源上传量增至三倍,Roblox正向Roblox Studio中的所有主要API开放MCP访问。该公司认为,开发可能会被商品化,但受众和发现机制不会。"
+                "x": "上架作品增多并没有带来更多玩家：itch.io在另一条回复中证实，自2026年8月以来，“下载量和购买量并没有翻倍”。"
+              },
+              {
+                "t": "p",
+                "x": "大量新作涌入，其中许多可能是用生成式AI制作的，它们挤满了独立开发者赖以获得曝光的平台，却没有带来受众增长。Steam同样拥挤不堪，许多Steam Next Fest试玩版被AI-made竞品淹没或抄袭。Itch.io已要求开发者披露AI使用情况。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Más del 80% de los juegos top\nde Roblox ya usan AI para crear",
-          "body": "Roblox dice que el uso de sus herramientas de AI se triplicó desde el Q2 y el de MCP Server casi se quintuplicó.",
-          "mini_headline": "Los juegos top de Roblox se apoyan en AI",
+          "headline": "Las páginas nuevas de Itch.io\nse duplican en dos meses",
+          "body": "Itch.io afirma que las páginas de juegos creadas al día se duplicaron en dos meses por la avalancha de basura de AI.",
+          "mini_headline": "Itch.io duplica sus páginas nuevas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Roblox reveló en su informe de resultados que más del 80% de sus 100 juegos principales (por horas jugadas) usaron AI para acelerar la creación de juegos en octubre de 2026. Desde el segundo trimestre de 2026, el tiempo dedicado a las herramientas de AI se ha triplicado entre los principales creadores, y el uso diario de su MCP Server —la implementación de Roblox del Model Context Protocol, que permite a asistentes de AI como Claude y Cursor trabajar directamente con Roblox Studio— ha aumentado casi cinco veces."
+                "x": "Las tiendas de videojuegos se llenan de juegos nuevos a medida que más desarrolladores usan AI generativa, lo que hace más difícil que nunca que los desarrolladores independientes con juegos hechos a mano destaquen."
               },
               {
                 "t": "p",
-                "x": "“La AI está transformando de raíz la industria del videojuego e impulsa un cambio escalonado en el ritmo al que se puede crear contenido”, dijo el fundador y CEO David Baszucki. Al cierre del Q3, un juego creado casi por completo con AI entró en el top 10 de Roblox por jugadores simultáneos."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "Anupam Singh y Dave Baszucki, de Roblox, en RDC 26. Fuente: GamesBeat/Dean Takahashi"
+                "x": "A última hora del 31 de octubre, itch.io reveló en Bluesky que el número de páginas de juegos creadas cada día se ha duplicado desde agosto de 2026. Según el gráfico compartido, entonces se creaban unas 3,000 páginas al día; ahora, a 30 de octubre, la cifra supera las 6,000. Otras respuestas de itch.io indican que los proyectos de AI también constituyen la mayoría de estas páginas nuevas."
               },
               {
                 "t": "p",
-                "x": "Build, el entorno de creación de juegos en lenguaje natural de Roblox, solo está disponible en unos pocos mercados; más de 500,000 usuarios lo han probado y han publicado más de 70,000 juegos. Las subidas diarias de recursos se triplicaron en octubre de 2026, y Roblox está abriendo el acceso MCP a todas las API principales de Roblox Studio. La empresa sostiene que construir puede volverse una mercancía, pero la audiencia y el descubrimiento no."
+                "x": "Más fichas no traen más jugadores: itch.io confirmó en otra respuesta que \"el número de descargas y compras no se ha duplicado\" desde agosto de 2026."
+              },
+              {
+                "t": "p",
+                "x": "La llegada masiva de lanzamientos, muchos probablemente creados con AI generativa, satura las plataformas en las que los desarrolladores independientes necesitan visibilidad sin aportar crecimiento de público. Steam está igual de saturada, y muchas demos del Steam Next Fest quedan sepultadas o son plagiadas por competencia AI-made. Itch.io ya pide a los desarrolladores que declaren el uso de AI."
               }
             ]
           }
@@ -561,125 +545,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Roblox 상위 게임\n80% 이상이 AI 활용",
-          "body": "Q2 이후 AI 도구 사용은 세 배, MCP Server 사용은 거의 다섯 배다.",
-          "mini_headline": "Roblox 상위 게임, AI에 기대다",
+          "headline": "Itch.io 신규 페이지\n두 달 새 두 배로",
+          "body": "Itch.io는 AI 슬롭 속 하루 신규 페이지가 두 달 새 두 배라고 밝혔다.",
+          "mini_headline": "Itch.io 신규 페이지 두 배",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Roblox는 실적 보고서에서 플레이 시간 기준 상위 100개 게임 중 80% 이상이 2026년 10월 게임 제작을 앞당기는 데 AI를 썼다고 밝혔다. 2026년 두 번째 분기 이후 상위 크리에이터의 AI 도구 사용 시간은 세 배로 늘었고, MCP Server의 일일 사용량은 다섯 배 가까이 증가했다. MCP Server는 Claude, Cursor 같은 AI 어시스턴트가 Roblox Studio에서 직접 작업하게 해 주는 Model Context Protocol의 Roblox 구현체다."
+                "x": "생성형 AI를 쓰는 개발자가 늘면서 게임 스토어에 신작이 넘쳐나고, 손수 만든 게임을 내놓는 인디 개발자가 눈에 띄기는 그 어느 때보다 어려워졌다."
               },
               {
                 "t": "p",
-                "x": "창업자이자 CEO인 David Baszucki는 “AI는 게임 산업을 근본적으로 재편하고 있으며, 콘텐츠를 만드는 속도에 계단식 변화를 일으키고 있다”고 말했다. Q3 말에는 거의 전부 AI로 만든 게임이 동시 접속자 기준 Roblox top 10 안에 들었다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "RDC 26 현장의 Roblox Anupam Singh와 Dave Baszucki. 출처: GamesBeat/Dean Takahashi"
+                "x": "itch.io는 10월 31일 늦게 Bluesky에서 하루에 만들어지는 게임 페이지 수가 2026년 8월 이후 두 배로 늘었다고 밝혔다. 공유된 그래프에 따르면 당시 하루 생성 페이지는 약 3,000개였으나, 10월 30일 기준으로는 6,000개를 넘는다. itch.io의 다른 답글을 보면 이 신규 페이지의 대부분도 AI 프로젝트다."
               },
               {
                 "t": "p",
-                "x": "Roblox의 자연어 게임 제작 환경 Build는 아직 일부 시장에서만 서비스된다. 500,000명 넘는 사용자가 써 봤고 70,000개가 넘는 게임을 공개했다. 2026년 10월 일일 에셋 업로드는 세 배로 늘었고, Roblox는 Roblox Studio의 모든 주요 API에 MCP 접근을 열고 있다. 회사는 만드는 일은 범용화될 수 있어도 관객과 발견은 그렇지 않다고 본다."
+                "x": "등록작이 늘어도 플레이어는 늘지 않는다. itch.io는 또 다른 답글에서 2026년 8월 이후 \"다운로드와 구매 수는 두 배로 늘지 않았다\"고 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "상당수가 생성형 AI로 만들어졌을 신작이 쏟아지면서, 인디 개발자가 노출을 얻어야 할 플랫폼은 넘쳐나지만 이용자는 늘지 않는다. Steam도 마찬가지로 포화 상태이며, 많은 Steam Next Fest 데모가 AI-made 경쟁작에 묻히거나 도용당했다. Itch.io는 이미 개발자에게 AI 사용 여부를 밝히도록 요구하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roblox上位ゲーム\n80%超がAIで高速開発",
-          "body": "RobloxのAIツール利用はQ2以降三倍、MCP Server利用は五倍近くに増えた。",
-          "mini_headline": "Roblox上位作はAI頼み",
+          "headline": "Itch.io新規ページ\n二か月で倍増",
+          "body": "Itch.ioは、AIスロップの氾濫で毎日の新規ゲームページが二か月で倍増したと明かした。",
+          "mini_headline": "Itch.io新規ページが倍増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Robloxは決算報告で、プレイ時間で上位100本のゲームのうち80%超が、2026年10月にゲーム制作の加速にAIを使ったと明らかにした。2026年第二四半期以降、上位クリエイターのAIツール利用時間は三倍に、MCP Serverの日次利用は五倍近くに増えた。MCP Serverは、ClaudeやCursorなどのAIアシスタントがRoblox Studioで直接作業できるようにする、Model Context ProtocolのRobloxによる実装だ。"
+                "x": "生成AIを使う開発者が増え、ゲームストアには新作があふれている。手作りのゲームを出すインディー開発者が目立つことは、かつてなく難しくなった。"
               },
               {
                 "t": "p",
-                "x": "「AIはゲーム業界を根本から作り変えつつあり、コンテンツを作るペースに段階的な変化をもたらしている」と創業者兼CEOのDavid Baszucki氏は述べた。Q3末には、ほぼすべてをAIで制作したゲームが同時接続プレイヤー数でRobloxのtop 10入りを果たした。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "RDC 26でのRobloxのAnupam SinghとDave Baszucki。出典:GamesBeat/Dean Takahashi"
+                "x": "itch.ioは10月31日遅く、Blueskyで、1日に作成されるゲームページの数が2026年8月以降に倍増したと明らかにした。共有されたグラフによると、当時の1日あたりの作成ページ数は約3,000件だったが、10月30日時点では6,000件を超えている。itch.ioのほかの返信によれば、これら新規ページの大半もAIプロジェクトだという。"
               },
               {
                 "t": "p",
-                "x": "Robloxの自然言語ゲーム制作環境Buildは、まだ一部の市場でしか提供されていない。500,000人以上が試し、70,000本を超えるゲームを公開した。2026年10月には日次のアセットアップロードが三倍になり、RobloxはRoblox Studioの主要なAPIすべてにMCPアクセスを開放しつつある。同社は、作ることはコモディティ化しても、オーディエンスと発見はそうならないと見ている。"
+                "x": "掲載数が増えてもプレイヤーは増えていない。itch.ioは別の返信で、2026年8月以降「ダウンロード数と購入数は倍増していない」と認めた。"
+              },
+              {
+                "t": "p",
+                "x": "多くが生成AIで作られたとみられる新作の流入は、インディー開発者が露出を必要とするプラットフォームを埋め尽くす一方、利用者の増加にはつながっていない。Steamも同様に飽和しており、多くのSteam Next FestのデモがAI-madeの競合作品に埋もれたり盗用されたりしている。Itch.ioはすでに開発者にAI使用の開示を求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roblox头部游戏\n超80%用AI加速开发",
-          "body": "自Q2以来,Roblox AI工具使用时长增至三倍,MCP Server日用量增近五倍。",
-          "mini_headline": "Roblox头部游戏倚重AI",
+          "headline": "Itch.io新游戏页面\n两个月翻倍",
+          "body": "Itch.io称，随着AI垃圾内容涌入商店，每日新建游戏页面数在两个月内翻了一番。",
+          "mini_headline": "Itch.io新页面翻倍",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Roblox在财报中披露,按游玩时长计算的前100款游戏中,超过80%在2026年10月使用AI加速游戏创作。自2026年第二季度以来,头部创作者使用AI工具的时间增至三倍,MCP Server的日使用量增长近五倍。MCP Server是Roblox对Model Context Protocol的实现,可让Claude、Cursor等AI助手直接在Roblox Studio中工作。"
+                "x": "随着越来越多开发者使用生成式AI，游戏商店里新作泛滥，手工打造游戏的独立开发者想要脱颖而出比以往任何时候都难。"
               },
               {
                 "t": "p",
-                "x": "创始人兼CEO David Baszucki表示:“AI正在从根本上重塑游戏行业,推动内容创作速度发生阶跃式变化。”到Q3末,一款几乎完全由AI制作的游戏按同时在线玩家数跻身Roblox top 10。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "Roblox的Anupam Singh与Dave Baszucki在RDC 26上。来源:GamesBeat/Dean Takahashi"
+                "x": "10月31日深夜，itch.io在Bluesky上透露，每天新建的游戏页面数量自2026年8月以来翻了一番。根据其分享的图表，当时每天新建的页面约为3,000个；截至10月30日，这一数字已超过6,000个。itch.io的其他回复还表明，这些新页面中大多数也是AI项目。"
               },
               {
                 "t": "p",
-                "x": "Build是Roblox的自然语言游戏创作环境,目前仅在少数市场上线;已有超过500,000名用户试用,并发布了70,000多款游戏。2026年10月,每日资源上传量增至三倍,Roblox正向Roblox Studio中的所有主要API开放MCP访问。该公司认为,开发可能会被商品化,但受众和发现机制不会。"
+                "x": "上架作品增多并没有带来更多玩家：itch.io在另一条回复中证实，自2026年8月以来，“下载量和购买量并没有翻倍”。"
+              },
+              {
+                "t": "p",
+                "x": "大量新作涌入，其中许多可能是用生成式AI制作的，它们挤满了独立开发者赖以获得曝光的平台，却没有带来受众增长。Steam同样拥挤不堪，许多Steam Next Fest试玩版被AI-made竞品淹没或抄袭。Itch.io已要求开发者披露AI使用情况。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Más del 80% de los juegos top\nde Roblox ya usan AI para crear",
-          "body": "Roblox dice que el uso de sus herramientas de AI se triplicó desde el Q2 y el de MCP Server casi se quintuplicó.",
-          "mini_headline": "Los juegos top de Roblox se apoyan en AI",
+          "headline": "Las páginas nuevas de Itch.io\nse duplican en dos meses",
+          "body": "Itch.io afirma que las páginas de juegos creadas al día se duplicaron en dos meses por la avalancha de basura de AI.",
+          "mini_headline": "Itch.io duplica sus páginas nuevas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dave-3.jpg"
+                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Roblox reveló en su informe de resultados que más del 80% de sus 100 juegos principales (por horas jugadas) usaron AI para acelerar la creación de juegos en octubre de 2026. Desde el segundo trimestre de 2026, el tiempo dedicado a las herramientas de AI se ha triplicado entre los principales creadores, y el uso diario de su MCP Server —la implementación de Roblox del Model Context Protocol, que permite a asistentes de AI como Claude y Cursor trabajar directamente con Roblox Studio— ha aumentado casi cinco veces."
+                "x": "Las tiendas de videojuegos se llenan de juegos nuevos a medida que más desarrolladores usan AI generativa, lo que hace más difícil que nunca que los desarrolladores independientes con juegos hechos a mano destaquen."
               },
               {
                 "t": "p",
-                "x": "“La AI está transformando de raíz la industria del videojuego e impulsa un cambio escalonado en el ritmo al que se puede crear contenido”, dijo el fundador y CEO David Baszucki. Al cierre del Q3, un juego creado casi por completo con AI entró en el top 10 de Roblox por jugadores simultáneos."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/09/anupam-singh-2-1024x768.jpg",
-                "cap": "Anupam Singh y Dave Baszucki, de Roblox, en RDC 26. Fuente: GamesBeat/Dean Takahashi"
+                "x": "A última hora del 31 de octubre, itch.io reveló en Bluesky que el número de páginas de juegos creadas cada día se ha duplicado desde agosto de 2026. Según el gráfico compartido, entonces se creaban unas 3,000 páginas al día; ahora, a 30 de octubre, la cifra supera las 6,000. Otras respuestas de itch.io indican que los proyectos de AI también constituyen la mayoría de estas páginas nuevas."
               },
               {
                 "t": "p",
-                "x": "Build, el entorno de creación de juegos en lenguaje natural de Roblox, solo está disponible en unos pocos mercados; más de 500,000 usuarios lo han probado y han publicado más de 70,000 juegos. Las subidas diarias de recursos se triplicaron en octubre de 2026, y Roblox está abriendo el acceso MCP a todas las API principales de Roblox Studio. La empresa sostiene que construir puede volverse una mercancía, pero la audiencia y el descubrimiento no."
+                "x": "Más fichas no traen más jugadores: itch.io confirmó en otra respuesta que \"el número de descargas y compras no se ha duplicado\" desde agosto de 2026."
+              },
+              {
+                "t": "p",
+                "x": "La llegada masiva de lanzamientos, muchos probablemente creados con AI generativa, satura las plataformas en las que los desarrolladores independientes necesitan visibilidad sin aportar crecimiento de público. Steam está igual de saturada, y muchas demos del Steam Next Fest quedan sepultadas o son plagiadas por competencia AI-made. Itch.io ya pide a los desarrolladores que declaren el uso de AI."
               }
             ]
           }
@@ -687,321 +667,351 @@
       }
     },
     {
-      "id": "games-mimesis-anniversary-update",
-      "source_lang": "ko",
+      "id": "ramen-aura-autopilot",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "미메시스 AI 몬스터\n1주년 업데이트로 고도화",
-      "body": "플레이어를 모방하는 AI 몬스터가 고도화되고 '편집증' 시스템이 추가됐다.",
-      "mini_headline": "미메시스 AI 몬스터 강화",
+      "headline": "Ramen 오픈소스 AI\nAura Autopilot",
+      "body": "Aura Autopilot은 Unreal·Unity·Godot용 AI 테스터다.",
+      "mini_headline": "Ramen, 플레이테스터 오픈소스 공개",
       "tool": "Games",
-      "source": "아이뉴스24",
-      "url": "https://www.inews24.com/view/2019475",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+          },
+          {
             "t": "p",
-            "x": "크래프톤(대표 김창한) 산하 렐루게임즈(대표 김민정)는 '미메시스(MIMESIS)'의 얼리 액세스 출시 1주년을 맞아 올해 두 번째 대규모 업데이트를 진행했다고 27일 밝혔다. 지난 6월 글로벌 누적 판매량 200만장을 돌파한 데 이어, 새로운 콘텐츠와 AI 기반 몬스터 고도화를 통해 글로벌 흥행세를 이어간다는 구상이다."
+            "x": "Unity와 Unreal Engine용 멀티 에이전트 AI 어시스턴트를 만든 Ramen이 오픈소스 게임 플레이테스트 에이전트 Aura Autopilot을 출시했다. 플레이할수록 스스로 나아지는 에이전트로, 벤치마크 결과와 상위 수준 아키텍처를 담은 백서도 함께 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "Ramen의 CEO 겸 공동 창업자 Andy Tsen은 “Aura Autopilot은 어떤 게임이든 실시간으로 플레이하며 배우고, 플레이할수록 더 나아진다”고 말했다. “이는 게임 QA에 새로운 지평을 열며, 개발자와 연구자가 이를 더 발전시킬 수 있도록 오픈소스로 공개한다.”"
           },
           {
             "t": "img",
-            "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-            "cap": "[사진=크래프톤]"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
           },
           {
             "t": "p",
-            "x": "지난해 10월 얼리 액세스로 출시된 미메시스는 AI 기반 NPC 몬스터가 이용자의 모습과 행동, 목소리를 모방하며 동료들 사이에 스며드는 4인 협동 공포 게임이다. 인공지능 기술을 게임의 핵심 구조에 결합한 'AI 네이티브 게임'이다."
+            "x": "초기 테스트에서 이 에이전트는 슈팅 게임, 액션 RPGs, 모바일 게임, 생존 크래프팅 게임, 턴제 JRPGs, 실시간 전략 게임을 실시간으로 플레이했다. 장기 목표를 세워 계획하면서도 사람이 조종할 수 있어, 개발자는 테스트할 시스템을 정확히 짚어 줄 수 있다. Aura와 함께 쓰면 Aura가 게임플레이 기능을 처음부터 끝까지 만들고 Autopilot이 그걸 플레이테스트한다."
           },
           {
             "t": "p",
-            "x": "이번 업데이트는 '선로이탈(OFF THE RAILS)'을 콘셉트로 했다. 가장 큰 변화는 '편집증' 시스템 도입과 AI 기반 몬스터의 행동 방식 강화다. 편집증 시스템은 게임 내 오염도에 따라 이용자마다 서로 다른 상황을 인식하도록 설계됐다. 오염도가 높아지면 특정 이용자에게만 미메시스가 보이거나 이상한 말소리가 들리는 등 예기치 못한 변수가 발생한다. AI 기반 NPC로 구현된 몬스터 '미메시스'는 이용자 습관을 관찰하고 주변 환경에 더욱 세밀하게 반응하도록 기능이 향상됐다."
-          },
-          {
-            "t": "p",
-            "x": "영화 촬영장을 배경으로 한 신규 맵과 새로운 몬스터, 스크랩, 정비소도 선보였다. 미메시스는 앞서 6월 한국 게임 최초로 'CEDEC 어워드 2026' 게임 디자인 부문에서 우수상을 수상했다."
+            "x": "백서에 따르면 Aura의 Verification Agent보다 3x 빠르고 비용도 덜 든다. Claude Code, Codex 또는 BYOK로 Unreal Engine, Unity, Godot에서 돌아가며, 프로젝트는 GitHub에 올라와 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "미메시스 AI 몬스터\n1주년 업데이트로 고도화",
-          "body": "플레이어를 모방하는 AI 몬스터가 고도화되고 '편집증' 시스템이 추가됐다.",
-          "mini_headline": "미메시스 AI 몬스터 강화",
+        "en": {
+          "headline": "Ramen releases open-source\nAI playtester Aura Autopilot",
+          "body": "Aura Autopilot is a self-improving agent that playtests games in real time across Unreal, Unity and Godot.",
+          "mini_headline": "Ramen open-sources a playtester",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "크래프톤(대표 김창한) 산하 렐루게임즈(대표 김민정)는 '미메시스(MIMESIS)'의 얼리 액세스 출시 1주년을 맞아 올해 두 번째 대규모 업데이트를 진행했다고 27일 밝혔다. 지난 6월 글로벌 누적 판매량 200만장을 돌파한 데 이어, 새로운 콘텐츠와 AI 기반 몬스터 고도화를 통해 글로벌 흥행세를 이어간다는 구상이다."
+                "x": "Ramen, developer of the multi-agent AI assistant for Unity and Unreal Engine, has launched Aura Autopilot, an open source game playtesting agent that improves itself the more it plays, alongside a whitepaper covering benchmark results and high-level architecture."
+              },
+              {
+                "t": "p",
+                "x": "“Aura Autopilot plays any game in real time and learns as it goes, getting better the more it plays,” said Andy Tsen, CEO and co-founder at Ramen. “That opens a new frontier for game QA, and we’re open sourcing it so developers and researchers can take it further.”"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[사진=크래프톤]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "지난해 10월 얼리 액세스로 출시된 미메시스는 AI 기반 NPC 몬스터가 이용자의 모습과 행동, 목소리를 모방하며 동료들 사이에 스며드는 4인 협동 공포 게임이다. 인공지능 기술을 게임의 핵심 구조에 결합한 'AI 네이티브 게임'이다."
+                "x": "In early testing it played shooters, action RPGs, mobile games, survival crafting games, turn-based JRPGs and realtime strategy games in real time. It plans toward long-term goals and stays steerable, so developers can point it at the exact system they want tested. Paired with Aura, Aura builds a gameplay feature end to end and Autopilot playtests it."
               },
               {
                 "t": "p",
-                "x": "이번 업데이트는 '선로이탈(OFF THE RAILS)'을 콘셉트로 했다. 가장 큰 변화는 '편집증' 시스템 도입과 AI 기반 몬스터의 행동 방식 강화다. 편집증 시스템은 게임 내 오염도에 따라 이용자마다 서로 다른 상황을 인식하도록 설계됐다. 오염도가 높아지면 특정 이용자에게만 미메시스가 보이거나 이상한 말소리가 들리는 등 예기치 못한 변수가 발생한다. AI 기반 NPC로 구현된 몬스터 '미메시스'는 이용자 습관을 관찰하고 주변 환경에 더욱 세밀하게 반응하도록 기능이 향상됐다."
-              },
-              {
-                "t": "p",
-                "x": "영화 촬영장을 배경으로 한 신규 맵과 새로운 몬스터, 스크랩, 정비소도 선보였다. 미메시스는 앞서 6월 한국 게임 최초로 'CEDEC 어워드 2026' 게임 디자인 부문에서 우수상을 수상했다."
+                "x": "Per the whitepaper, it runs 3x faster than Aura’s Verification Agent at a lower cost, and runs in Unreal Engine, Unity and Godot with Claude Code, Codex or BYOK. The project is live on GitHub."
               }
             ]
           }
         },
-        "en": {
-          "headline": "MIMESIS AI monsters level up\nin 1st anniversary update",
-          "body": "The AI monsters that mimic players have been upgraded, and a 'Paranoia' system has been added.",
-          "mini_headline": "MIMESIS AI monsters get smarter",
+        "ko": {
+          "headline": "Ramen 오픈소스 AI\nAura Autopilot",
+          "body": "Aura Autopilot은 Unreal·Unity·Godot용 AI 테스터다.",
+          "mini_headline": "Ramen, 플레이테스터 오픈소스 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "ReLU Games (CEO Kim Min-jung), a subsidiary of KRAFTON (CEO Kim Chang-han), said on the 27th that it has rolled out its second major update of the year to mark the 1st anniversary of the early access launch of MIMESIS. After passing 2 million (200만장) cumulative global sales in June, the studio plans to keep its global momentum going with new content and upgraded AI-based monsters."
+                "x": "Unity와 Unreal Engine용 멀티 에이전트 AI 어시스턴트를 만든 Ramen이 오픈소스 게임 플레이테스트 에이전트 Aura Autopilot을 출시했다. 플레이할수록 스스로 나아지는 에이전트로, 벤치마크 결과와 상위 수준 아키텍처를 담은 백서도 함께 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "Ramen의 CEO 겸 공동 창업자 Andy Tsen은 “Aura Autopilot은 어떤 게임이든 실시간으로 플레이하며 배우고, 플레이할수록 더 나아진다”고 말했다. “이는 게임 QA에 새로운 지평을 열며, 개발자와 연구자가 이를 더 발전시킬 수 있도록 오픈소스로 공개한다.”"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[Photo=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "Launched in early access last October, MIMESIS is a 4-player co-op horror game in which AI-based NPC monsters mimic players' appearance, behavior and voice as they blend in among teammates. It is an 'AI-native game' that builds artificial intelligence into the game's core structure."
+                "x": "초기 테스트에서 이 에이전트는 슈팅 게임, 액션 RPGs, 모바일 게임, 생존 크래프팅 게임, 턴제 JRPGs, 실시간 전략 게임을 실시간으로 플레이했다. 장기 목표를 세워 계획하면서도 사람이 조종할 수 있어, 개발자는 테스트할 시스템을 정확히 짚어 줄 수 있다. Aura와 함께 쓰면 Aura가 게임플레이 기능을 처음부터 끝까지 만들고 Autopilot이 그걸 플레이테스트한다."
               },
               {
                 "t": "p",
-                "x": "The update is themed 'OFF THE RAILS.' The biggest changes are the introduction of a 'Paranoia' system and stronger behavior for the AI-based monsters. The Paranoia system is designed so that each player perceives a different situation depending on in-game contamination levels. As contamination rises, unexpected variables appear, such as the Mimesis becoming visible only to certain players or strange voices being heard. The monster 'Mimesis,' implemented as an AI-based NPC, has been improved to observe players' habits and respond in finer detail to its surroundings."
-              },
-              {
-                "t": "p",
-                "x": "A new map set on a film set, a new monster, scrap and a repair shop were also introduced. In June, MIMESIS became the first Korean game to win an Excellence Award in the game design category at the 'CEDEC Awards 2026.'"
+                "x": "백서에 따르면 Aura의 Verification Agent보다 3x 빠르고 비용도 덜 든다. Claude Code, Codex 또는 BYOK로 Unreal Engine, Unity, Godot에서 돌아가며, 프로젝트는 GitHub에 올라와 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミメシスのAIモンスター\n1周年アップデートで進化",
-          "body": "プレイヤーを模倣するAIモンスターが強化され、「パラノイア」システムが追加された。",
-          "mini_headline": "MIMESISのAIモンスター強化",
+          "headline": "Ramen、AIテスター公開\nAura Autopilot",
+          "body": "Aura AutopilotはUnreal・Unity・Godotで動く進化型テスターだ。",
+          "mini_headline": "Ramen、プレイテスターをオープンソース化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "KRAFTON(代表 キム・チャンハン)傘下のReLU Games(代表 キム・ミンジョン)は27日、『MIMESIS』のアーリーアクセス開始1周年を記念し、今年二度目となる大型アップデートを実施したと発表した。6月に世界累計販売本数200万本を突破したのに続き、新コンテンツとAIベースのモンスター強化で世界的なヒットを続ける構想だ。"
+                "x": "UnityとUnreal Engine向けのマルチエージェントAIアシスタントを開発するRamenは、プレイするほど自らを改善するオープンソースのゲームプレイテスト用エージェント「Aura Autopilot」を公開した。ベンチマーク結果と大まかなアーキテクチャを解説するホワイトペーパーも併せて公開した。"
+              },
+              {
+                "t": "p",
+                "x": "「Aura Autopilotはどんなゲームもリアルタイムでプレイし、プレイしながら学び、プレイするほど上達する」とRamenのCEO兼共同創業者Andy Tsenは語った。「これはゲームQAに新たな地平を開くものであり、開発者や研究者がさらに発展させられるようオープンソース化する」"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[写真=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "昨年10月にアーリーアクセスで発売されたMIMESISは、AIベースのNPCモンスターがプレイヤーの姿や行動、声を模倣して仲間の中に紛れ込む4人協力ホラーゲームだ。人工知能技術をゲームの中核構造に組み込んだ「AIネイティブゲーム」である。"
+                "x": "初期テストでは、シューター、アクションRPGs、モバイルゲーム、サバイバルクラフトゲーム、ターン制JRPGs、リアルタイムストラテジーゲームをリアルタイムでプレイした。長期的な目標に向けて計画を立てつつ指示にも従うため、開発者はテストしたいシステムを正確に指定できる。Auraと組み合わせると、Auraがゲームプレイ機能を最初から最後まで作り、Autopilotがそれをプレイテストする。"
               },
               {
                 "t": "p",
-                "x": "今回のアップデートは「脱線(OFF THE RAILS)」をコンセプトにした。最大の変化は「パラノイア」システムの導入と、AIベースのモンスターの行動強化だ。パラノイアシステムは、ゲーム内の汚染度に応じてプレイヤーごとに異なる状況を認識するよう設計されている。汚染度が高まると、特定のプレイヤーにだけミメシスが見えたり、奇妙な声が聞こえたりといった予期せぬ変数が生じる。AIベースのNPCとして実装されたモンスター「ミメシス」は、プレイヤーの癖を観察し、周囲の環境により細かく反応するよう機能が向上した。"
-              },
-              {
-                "t": "p",
-                "x": "映画撮影所を舞台にした新マップと新たなモンスター、スクラップ、整備所も登場した。MIMESISはこれに先立つ6月、韓国ゲームとして初めて「CEDEC AWARDS 2026」ゲームデザイン部門で優秀賞を受賞している。"
+                "x": "ホワイトペーパーによると、AuraのVerification Agentより3x 速く低コストで動作し、Claude Code、CodexまたはBYOKを使ってUnreal Engine、Unity、Godotで動く。プロジェクトはGitHubで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《MIMESIS》AI怪物\n1周年更新再升级",
-          "body": "这款游戏中模仿玩家的AI怪物进一步强化,并新增了“偏执”系统。",
-          "mini_headline": "《MIMESIS》AI怪物强化",
+          "headline": "Ramen开源AI测试员\nAura Autopilot",
+          "body": "Aura Autopilot在Unreal、Unity和Godot中实时试玩并自我改进。",
+          "mini_headline": "Ramen开源一款试玩测试工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "KRAFTON(代表Kim Chang-han)旗下的ReLU Games(代表Kim Min-jung)27日宣布,为纪念《MIMESIS》抢先体验上线1周年,进行了今年第二次大型更新。继6月全球累计销量突破200万份之后,公司计划通过新内容和基于AI的怪物升级延续全球热度。"
+                "x": "面向Unity和Unreal Engine的多智能体AI助手开发商Ramen推出了Aura Autopilot，这是一款开源的游戏试玩测试智能体，玩得越多就越能自我提升；同时发布的还有一份涵盖基准测试结果和高层架构的白皮书。"
+              },
+              {
+                "t": "p",
+                "x": "“Aura Autopilot能实时玩任何游戏，边玩边学，玩得越多就越强，”Ramen的CEO兼联合创始人Andy Tsen说。“这为游戏QA开辟了新天地，我们将其开源，让开发者和研究人员能把它推向更远。”"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[图片=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "《MIMESIS》于去年10月以抢先体验形式推出,是一款4人合作恐怖游戏:基于AI的NPC怪物会模仿玩家的外貌、行为和声音,混入同伴之中。它是一款将人工智能技术融入游戏核心结构的“AI原生游戏”。"
+                "x": "在早期测试中，它实时游玩了射击游戏、动作RPGs、手机游戏、生存制作游戏、回合制JRPGs和即时战略游戏。它能朝长期目标进行规划，同时保持可操控，开发者可以把它指向想要测试的具体系统。与Aura搭配时，由Aura端到端构建一项玩法功能，再由Autopilot进行试玩测试。"
               },
               {
                 "t": "p",
-                "x": "此次更新以“脱轨(OFF THE RAILS)”为概念。最大的变化是引入“偏执”系统,并强化基于AI的怪物的行为模式。偏执系统会根据游戏内的污染度,让每名玩家感知到不同的情况。污染度升高后,会出现只有特定玩家能看到Mimesis或听到怪异人声等意外变数。以基于AI的NPC实现的怪物“Mimesis”功能得到提升,能观察玩家习惯,并对周围环境做出更细致的反应。"
-              },
-              {
-                "t": "p",
-                "x": "此次还推出了以电影片场为背景的新地图,以及新怪物、废料和维修站。《MIMESIS》此前在6月成为首款在“CEDEC AWARDS 2026”游戏设计部门获得优秀奖的韩国游戏。"
+                "x": "白皮书显示，它的运行速度比Aura的Verification Agent快3x，成本更低，并可借助Claude Code、Codex或BYOK在Unreal Engine、Unity和Godot中运行。该项目已在GitHub上线。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los monstruos AI de MIMESIS\nmejoran en su 1er aniversario",
-          "body": "Los monstruos de AI que imitan a los jugadores se han perfeccionado y se ha añadido un sistema de 'paranoia'.",
-          "mini_headline": "MIMESIS refuerza sus monstruos AI",
+          "headline": "Ramen lanza Aura Autopilot,\nprobador de AI open-source",
+          "body": "Aura Autopilot es un agente que mejora por sí mismo y prueba juegos en tiempo real en Unreal, Unity y Godot.",
+          "mini_headline": "Ramen libera un probador de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "ReLU Games (CEO Kim Min-jung), filial de KRAFTON (CEO Kim Chang-han), anunció el día 27 que realizó la segunda gran actualización del año con motivo del 1er aniversario del lanzamiento en acceso anticipado de 'MIMESIS (MIMESIS)'. Tras superar en junio los 2 millones de copias vendidas en todo el mundo (200만장), la empresa busca mantener su éxito global con nuevo contenido y monstruos basados en AI más avanzados."
+                "x": "Ramen, desarrolladora del asistente de AI multiagente para Unity y Unreal Engine, ha lanzado Aura Autopilot, un agente de código abierto para probar juegos que mejora cuanto más juega, junto con un informe técnico sobre resultados de benchmarks y la arquitectura general."
+              },
+              {
+                "t": "p",
+                "x": "“Aura Autopilot juega a cualquier juego en tiempo real y aprende sobre la marcha, mejorando cuanto más juega”, dijo Andy Tsen, CEO y cofundador de Ramen. “Eso abre una nueva frontera para el QA de juegos, y lo publicamos como código abierto para que desarrolladores e investigadores puedan llevarlo más lejos”."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[Foto=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "Lanzado en acceso anticipado en octubre del año pasado, MIMESIS es un juego de terror cooperativo para 4 jugadores en el que monstruos NPC basados en AI imitan la apariencia, el comportamiento y la voz de los usuarios para infiltrarse entre sus compañeros. Es un 'juego AI nativo' que integra la inteligencia artificial en la estructura central del juego."
+                "x": "En las primeras pruebas jugó en tiempo real a shooters, RPGs de acción, juegos móviles, juegos de supervivencia y crafteo, JRPGs por turnos y juegos de estrategia en tiempo real. Planifica hacia objetivos a largo plazo y sigue siendo dirigible, de modo que los desarrolladores pueden orientarlo al sistema exacto que quieren probar. Junto con Aura, Aura construye una función de juego de principio a fin y Autopilot la prueba."
               },
               {
                 "t": "p",
-                "x": "La actualización tiene como concepto 'Descarrilamiento (OFF THE RAILS)'. Los mayores cambios son la introducción del sistema de 'paranoia' y el refuerzo del comportamiento de los monstruos basados en AI. El sistema de paranoia está diseñado para que cada jugador perciba situaciones distintas según el nivel de contaminación dentro del juego. Cuando la contaminación aumenta, surgen variables inesperadas: la Mimesis solo es visible para ciertos jugadores o se oyen voces extrañas. El monstruo 'Mimesis', implementado como un NPC basado en AI, ahora observa los hábitos de los jugadores y reacciona con más detalle a su entorno."
-              },
-              {
-                "t": "p",
-                "x": "También se presentaron un nuevo mapa ambientado en un set de rodaje, un nuevo monstruo, chatarra y un taller. En junio, MIMESIS se convirtió en el primer juego coreano en ganar el premio a la excelencia en la categoría de diseño de juegos de los 'CEDEC Awards 2026'."
+                "x": "Según el informe técnico, funciona 3x más rápido que el Verification Agent de Aura con un coste menor, y se ejecuta en Unreal Engine, Unity y Godot con Claude Code, Codex o BYOK. El proyecto ya está disponible en GitHub."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "MIMESIS AI monsters level up\nin 1st anniversary update",
-          "body": "The AI monsters that mimic players have been upgraded, and a 'Paranoia' system has been added.",
-          "mini_headline": "MIMESIS AI monsters get smarter",
+        "ko": {
+          "headline": "Ramen 오픈소스 AI\nAura Autopilot",
+          "body": "Aura Autopilot은 Unreal·Unity·Godot용 AI 테스터다.",
+          "mini_headline": "Ramen, 플레이테스터 오픈소스 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "ReLU Games (CEO Kim Min-jung), a subsidiary of KRAFTON (CEO Kim Chang-han), said on the 27th that it has rolled out its second major update of the year to mark the 1st anniversary of the early access launch of MIMESIS. After passing 2 million (200만장) cumulative global sales in June, the studio plans to keep its global momentum going with new content and upgraded AI-based monsters."
+                "x": "Unity와 Unreal Engine용 멀티 에이전트 AI 어시스턴트를 개발한 Ramen이 플레이할수록 스스로 나아지는 오픈소스 게임 플레이테스트 에이전트 Aura Autopilot을 출시했다. 벤치마크 결과와 상위 수준 아키텍처를 다룬 백서도 함께 내놓았다."
+              },
+              {
+                "t": "p",
+                "x": "“Aura Autopilot은 어떤 게임이든 실시간으로 플레이하며 배우고, 플레이할수록 더 나아진다”고 Ramen의 CEO 겸 공동 창업자 Andy Tsen은 말했다. “이는 게임 QA에 새로운 지평을 열며, 개발자와 연구자가 이를 더 발전시킬 수 있도록 오픈소스로 공개한다.”"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[Photo=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "Launched in early access last October, MIMESIS is a 4-player co-op horror game in which AI-based NPC monsters mimic players' appearance, behavior and voice as they blend in among teammates. It is an 'AI-native game' that builds artificial intelligence into the game's core structure."
+                "x": "초기 테스트에서 이 에이전트는 슈팅 게임, 액션 RPGs, 모바일 게임, 생존 크래프팅 게임, 턴제 JRPGs, 실시간 전략 게임을 실시간으로 플레이했다. 장기 목표를 향해 계획을 세우면서도 조종이 가능해, 개발자가 테스트하려는 시스템을 정확히 지정할 수 있다. Aura와 함께 쓰면 Aura가 게임플레이 기능을 처음부터 끝까지 만들고 Autopilot이 이를 플레이테스트한다."
               },
               {
                 "t": "p",
-                "x": "The update is themed 'OFF THE RAILS.' The biggest changes are the introduction of a 'Paranoia' system and stronger behavior for the AI-based monsters. The Paranoia system is designed so that each player perceives a different situation depending on in-game contamination levels. As contamination rises, unexpected variables appear, such as the Mimesis becoming visible only to certain players or strange voices being heard. The monster 'Mimesis,' implemented as an AI-based NPC, has been improved to observe players' habits and respond in finer detail to its surroundings."
-              },
-              {
-                "t": "p",
-                "x": "A new map set on a film set, a new monster, scrap and a repair shop were also introduced. In June, MIMESIS became the first Korean game to win an Excellence Award in the game design category at the 'CEDEC Awards 2026.'"
+                "x": "백서에 따르면 Aura의 Verification Agent보다 3x 빠르면서 비용은 더 낮고, Claude Code, Codex 또는 BYOK로 Unreal Engine, Unity, Godot에서 작동한다. 프로젝트는 GitHub에 공개돼 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミメシスのAIモンスター\n1周年アップデートで進化",
-          "body": "プレイヤーを模倣するAIモンスターが強化され、「パラノイア」システムが追加された。",
-          "mini_headline": "MIMESISのAIモンスター強化",
+          "headline": "Ramen、AIテスター公開\nAura Autopilot",
+          "body": "Aura AutopilotはUnreal・Unity・Godotで動く進化型テスターだ。",
+          "mini_headline": "Ramen、プレイテスターをオープンソース化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "KRAFTON(代表 キム・チャンハン)傘下のReLU Games(代表 キム・ミンジョン)は27日、『MIMESIS』のアーリーアクセス開始1周年を記念し、今年二度目となる大型アップデートを実施したと発表した。6月に世界累計販売本数200万本を突破したのに続き、新コンテンツとAIベースのモンスター強化で世界的なヒットを続ける構想だ。"
+                "x": "UnityとUnreal Engine向けのマルチエージェントAIアシスタントを開発するRamenは、プレイするほど自らを改善するオープンソースのゲームプレイテスト用エージェント「Aura Autopilot」を公開した。ベンチマーク結果と大まかなアーキテクチャを解説するホワイトペーパーも併せて公開した。"
+              },
+              {
+                "t": "p",
+                "x": "「Aura Autopilotはどんなゲームもリアルタイムでプレイし、プレイしながら学び、プレイするほど上達する」とRamenのCEO兼共同創業者Andy Tsenは語った。「これはゲームQAに新たな地平を開くものであり、開発者や研究者がさらに発展させられるようオープンソース化する」"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[写真=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "昨年10月にアーリーアクセスで発売されたMIMESISは、AIベースのNPCモンスターがプレイヤーの姿や行動、声を模倣して仲間の中に紛れ込む4人協力ホラーゲームだ。人工知能技術をゲームの中核構造に組み込んだ「AIネイティブゲーム」である。"
+                "x": "初期テストでは、シューター、アクションRPGs、モバイルゲーム、サバイバルクラフトゲーム、ターン制JRPGs、リアルタイムストラテジーゲームをリアルタイムでプレイした。長期的な目標に向けて計画を立てつつ指示にも従うため、開発者はテストしたいシステムを正確に指定できる。Auraと組み合わせると、Auraがゲームプレイ機能を最初から最後まで作り、Autopilotがそれをプレイテストする。"
               },
               {
                 "t": "p",
-                "x": "今回のアップデートは「脱線(OFF THE RAILS)」をコンセプトにした。最大の変化は「パラノイア」システムの導入と、AIベースのモンスターの行動強化だ。パラノイアシステムは、ゲーム内の汚染度に応じてプレイヤーごとに異なる状況を認識するよう設計されている。汚染度が高まると、特定のプレイヤーにだけミメシスが見えたり、奇妙な声が聞こえたりといった予期せぬ変数が生じる。AIベースのNPCとして実装されたモンスター「ミメシス」は、プレイヤーの癖を観察し、周囲の環境により細かく反応するよう機能が向上した。"
-              },
-              {
-                "t": "p",
-                "x": "映画撮影所を舞台にした新マップと新たなモンスター、スクラップ、整備所も登場した。MIMESISはこれに先立つ6月、韓国ゲームとして初めて「CEDEC AWARDS 2026」ゲームデザイン部門で優秀賞を受賞している。"
+                "x": "ホワイトペーパーによると、AuraのVerification Agentより3x 速く低コストで動作し、Claude Code、CodexまたはBYOKを使ってUnreal Engine、Unity、Godotで動く。プロジェクトはGitHubで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《MIMESIS》AI怪物\n1周年更新再升级",
-          "body": "这款游戏中模仿玩家的AI怪物进一步强化,并新增了“偏执”系统。",
-          "mini_headline": "《MIMESIS》AI怪物强化",
+          "headline": "Ramen开源AI测试员\nAura Autopilot",
+          "body": "Aura Autopilot在Unreal、Unity和Godot中实时试玩并自我改进。",
+          "mini_headline": "Ramen开源一款试玩测试工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "KRAFTON(代表Kim Chang-han)旗下的ReLU Games(代表Kim Min-jung)27日宣布,为纪念《MIMESIS》抢先体验上线1周年,进行了今年第二次大型更新。继6月全球累计销量突破200万份之后,公司计划通过新内容和基于AI的怪物升级延续全球热度。"
+                "x": "面向Unity和Unreal Engine的多智能体AI助手开发商Ramen推出了Aura Autopilot，这是一款开源的游戏试玩测试智能体，玩得越多就越能自我提升；同时发布的还有一份涵盖基准测试结果和高层架构的白皮书。"
+              },
+              {
+                "t": "p",
+                "x": "“Aura Autopilot能实时玩任何游戏，边玩边学，玩得越多就越强，”Ramen的CEO兼联合创始人Andy Tsen说。“这为游戏QA开辟了新天地，我们将其开源，让开发者和研究人员能把它推向更远。”"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[图片=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "《MIMESIS》于去年10月以抢先体验形式推出,是一款4人合作恐怖游戏:基于AI的NPC怪物会模仿玩家的外貌、行为和声音,混入同伴之中。它是一款将人工智能技术融入游戏核心结构的“AI原生游戏”。"
+                "x": "在早期测试中，它实时游玩了射击游戏、动作RPGs、手机游戏、生存制作游戏、回合制JRPGs和即时战略游戏。它能朝长期目标进行规划，同时保持可操控，开发者可以把它指向想要测试的具体系统。与Aura搭配时，由Aura端到端构建一项玩法功能，再由Autopilot进行试玩测试。"
               },
               {
                 "t": "p",
-                "x": "此次更新以“脱轨(OFF THE RAILS)”为概念。最大的变化是引入“偏执”系统,并强化基于AI的怪物的行为模式。偏执系统会根据游戏内的污染度,让每名玩家感知到不同的情况。污染度升高后,会出现只有特定玩家能看到Mimesis或听到怪异人声等意外变数。以基于AI的NPC实现的怪物“Mimesis”功能得到提升,能观察玩家习惯,并对周围环境做出更细致的反应。"
-              },
-              {
-                "t": "p",
-                "x": "此次还推出了以电影片场为背景的新地图,以及新怪物、废料和维修站。《MIMESIS》此前在6月成为首款在“CEDEC AWARDS 2026”游戏设计部门获得优秀奖的韩国游戏。"
+                "x": "白皮书显示，它的运行速度比Aura的Verification Agent快3x，成本更低，并可借助Claude Code、Codex或BYOK在Unreal Engine、Unity和Godot中运行。该项目已在GitHub上线。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los monstruos AI de MIMESIS\nmejoran en su 1er aniversario",
-          "body": "Los monstruos de AI que imitan a los jugadores se han perfeccionado y se ha añadido un sistema de 'paranoia'.",
-          "mini_headline": "MIMESIS refuerza sus monstruos AI",
+          "headline": "Ramen lanza Aura Autopilot,\nprobador de AI open-source",
+          "body": "Aura Autopilot es un agente que mejora por sí mismo y prueba juegos en tiempo real en Unreal, Unity y Godot.",
+          "mini_headline": "Ramen libera un probador de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+              },
+              {
                 "t": "p",
-                "x": "ReLU Games (CEO Kim Min-jung), filial de KRAFTON (CEO Kim Chang-han), anunció el día 27 que realizó la segunda gran actualización del año con motivo del 1er aniversario del lanzamiento en acceso anticipado de 'MIMESIS (MIMESIS)'. Tras superar en junio los 2 millones de copias vendidas en todo el mundo (200만장), la empresa busca mantener su éxito global con nuevo contenido y monstruos basados en AI más avanzados."
+                "x": "Ramen, desarrolladora del asistente de AI multiagente para Unity y Unreal Engine, ha lanzado Aura Autopilot, un agente de código abierto para probar juegos que mejora cuanto más juega, junto con un informe técnico sobre resultados de benchmarks y la arquitectura general."
+              },
+              {
+                "t": "p",
+                "x": "“Aura Autopilot juega a cualquier juego en tiempo real y aprende sobre la marcha, mejorando cuanto más juega”, dijo Andy Tsen, CEO y cofundador de Ramen. “Eso abre una nueva frontera para el QA de juegos, y lo publicamos como código abierto para que desarrolladores e investigadores puedan llevarlo más lejos”."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ade83b9815c60b.jpg",
-                "cap": "[Foto=KRAFTON]"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
               },
               {
                 "t": "p",
-                "x": "Lanzado en acceso anticipado en octubre del año pasado, MIMESIS es un juego de terror cooperativo para 4 jugadores en el que monstruos NPC basados en AI imitan la apariencia, el comportamiento y la voz de los usuarios para infiltrarse entre sus compañeros. Es un 'juego AI nativo' que integra la inteligencia artificial en la estructura central del juego."
+                "x": "En las primeras pruebas jugó en tiempo real a shooters, RPGs de acción, juegos móviles, juegos de supervivencia y crafteo, JRPGs por turnos y juegos de estrategia en tiempo real. Planifica hacia objetivos a largo plazo y sigue siendo dirigible, de modo que los desarrolladores pueden orientarlo al sistema exacto que quieren probar. Junto con Aura, Aura construye una función de juego de principio a fin y Autopilot la prueba."
               },
               {
                 "t": "p",
-                "x": "La actualización tiene como concepto 'Descarrilamiento (OFF THE RAILS)'. Los mayores cambios son la introducción del sistema de 'paranoia' y el refuerzo del comportamiento de los monstruos basados en AI. El sistema de paranoia está diseñado para que cada jugador perciba situaciones distintas según el nivel de contaminación dentro del juego. Cuando la contaminación aumenta, surgen variables inesperadas: la Mimesis solo es visible para ciertos jugadores o se oyen voces extrañas. El monstruo 'Mimesis', implementado como un NPC basado en AI, ahora observa los hábitos de los jugadores y reacciona con más detalle a su entorno."
-              },
-              {
-                "t": "p",
-                "x": "También se presentaron un nuevo mapa ambientado en un set de rodaje, un nuevo monstruo, chatarra y un taller. En junio, MIMESIS se convirtió en el primer juego coreano en ganar el premio a la excelencia en la categoría de diseño de juegos de los 'CEDEC Awards 2026'."
+                "x": "Según el informe técnico, funciona 3x más rápido que el Verification Agent de Aura con un coste menor, y se ejecuta en Unreal Engine, Unity y Godot con Claude Code, Codex o BYOK. El proyecto ya está disponible en GitHub."
               }
             ]
           }
@@ -1009,271 +1019,311 @@
       }
     },
     {
-      "id": "games-ea-ai-mandate-morale",
-      "source_lang": "en",
+      "id": "krafton-llm-gateway",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "EA 직원들, AI 강요에\n사기 떨어진다고 호소",
-      "body": "EA 개발자들은 Claude 등 AI 강요와 부실 경영에 사기가 꺾였다고 한다.",
-      "mini_headline": "AI 강요에 흔들리는 EA",
+      "headline": "크래프톤 자체 게이트웨이로\nAPI 비용 37% 절감",
+      "body": "크래프톤은 LLM 게이트웨이로 9월 API 비용을 전월보다 약 37% 줄였다.",
+      "mini_headline": "크래프톤 API 비용 37% 절감",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
+      "source": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2019608",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "임경영 크래프톤 AI 트랜스포메이션 총괄은 27일 열린 '게임온(Games on) AWS 2026'에서 \"자체 개발한 LLM 게이트웨이로 사용 경로를 통합하고 비용 관리 체계를 개선했다\"며 \"그 결과 9월 API 비용이 전월 대비 약 37% 감소했다\"고 밝혔다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+            "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
           },
           {
             "t": "p",
-            "x": "EA가 지난주 BioWare를 닫은 가운데, Vertical Slice는 이 퍼블리셔의 직원 사기가 바닥을 쳤다고 보도했다. 익명의 소식통들은 이 매체의 Chris Kerr에게 “사기는 끔찍했다. 계속 들은 말은 ‘더 적게, 더 잘하자’였지만, 실제로는 더 적은 인원으로 같은 양의 일을 하는 느낌이었다”고 털어놓았다."
+            "x": "크래프톤은 지난해 10월 'AI 퍼스트' 전략을 선언하고 임직원에게 12종 이상의 기업용 AI 도구와 개인 구독료를 지원해 왔다. 그 결과 올해 1월 대비 7~8월 토큰 사용량은 27배, 관련 비용은 20배 이상 증가했다. 임 총괄은 \"어떤 조직이 가장 AI 토큰을 많이 쓰고 비용을 많이 쓰는지 보이지 않았다\"며 \"비용을 예측하는 것도 불가능했다\"고 설명했다."
           },
           {
             "t": "p",
-            "x": "한 소식통은 “경영진은 Claude와 [생성형] AI의 가능성에 매우 들떠 있었고, 우리 팀은 그게 몹시 못마땅했다”고 말했다. 다른 소식통은 “내가 들은 모든 관리자의 메시지는 ‘이게 미래다, 동참해야 한다’였다”고 했다. 세 번째 소식통은 “이 도구들이 의무라고 말하지는 않겠지만, [그것들] 없이는 일을 할 수 없거나 매우 어렵게 만들 것”이라고 덧붙였다."
+            "x": "LLM 게이트웨이는 여러 AI 모델을 이용하는 경로를 하나로 통합해 개인과 조직, 모델별 사용량과 비용을 관리하는 시스템으로, 현재 98종 이상의 AI 모델을 사내에 제공한다. 임직원에게는 월 1000달러의 AI 사용 한도를 배정하고 필요에 따라 도구별 한도를 조정하거나 추가 승인을 받도록 했다. 임 총괄은 \"AI 사용 자체를 막은 것은 아니다\"라며 \"실제로 10월에도 AI 이용량은 줄어들지 않았다\"고 강조했다."
           },
           {
             "t": "p",
-            "x": "소식통들은 BioWare의 부실 경영도 지적하며, 사내에 “EA 경영진은 실패할 수 없고, 실패당할 뿐”이라는 분위기가 있다고 전했다. PC Gamer에 따르면 Andrew Wilson의 2025년 연봉은 이 퍼블리셔 스튜디오 중위 연봉의 약 305배였다. 보도는 EA를 “경영진이 마지막 한 푼까지 빼돌리는 동안 서서히 썩어 가는 차갑고 죽은 곳”이라고 부르며 끝난다."
+            "x": "크래프톤은 조직별 비용 관리 체계를 고도화하고 업무에 적합한 AI 모델을 자동으로 선택하는 기술을 연구할 계획이며, 2027년에는 'AI 에이전트'의 권한과 승인 체계 등을 주요 과제로 삼을 방침이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "EA workers say AI mandates\nare sinking morale",
-          "body": "EA developers say management's push to use generative AI tools such as Claude, plus mismanagement, has sunk morale.",
-          "mini_headline": "AI mandates weigh on EA",
+        "ko": {
+          "headline": "크래프톤 자체 게이트웨이로\nAPI 비용 37% 절감",
+          "body": "크래프톤은 LLM 게이트웨이로 9월 API 비용을 전월보다 약 37% 줄였다.",
+          "mini_headline": "크래프톤 API 비용 37% 절감",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "임경영 크래프톤 AI 트랜스포메이션 총괄은 27일 열린 '게임온(Games on) AWS 2026'에서 \"자체 개발한 LLM 게이트웨이로 사용 경로를 통합하고 비용 관리 체계를 개선했다\"며 \"그 결과 9월 API 비용이 전월 대비 약 37% 감소했다\"고 밝혔다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EA shut down BioWare last week, and a report from Vertical Slice now claims employee morale at the publisher is at an all-time low. “Morale has been terrible. The line we kept hearing is 'do less, better' but it just felt like we were doing the same amount with less people,” anonymous sources told the site's Chris Kerr."
+                "x": "크래프톤은 지난해 10월 'AI 퍼스트' 전략을 선언하고 임직원에게 12종 이상의 기업용 AI 도구와 개인 구독료를 지원해 왔다. 그 결과 올해 1월 대비 7~8월 토큰 사용량은 27배, 관련 비용은 20배 이상 증가했다. 임 총괄은 \"어떤 조직이 가장 AI 토큰을 많이 쓰고 비용을 많이 쓰는지 보이지 않았다\"며 \"비용을 예측하는 것도 불가능했다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "One source said “upper management was very excited about Claude and the possibilities of [generative] AI, much to the chagrin of my team.” Another: “The message from every single manager I've heard is 'this is the future, you have to get onboard'.” A third added: “They won't tell you these tools are a mandate, but they'll make it impossible or very difficult for you to do your job without [them].”"
+                "x": "LLM 게이트웨이는 여러 AI 모델을 이용하는 경로를 하나로 통합해 개인과 조직, 모델별 사용량과 비용을 관리하는 시스템으로, 현재 98종 이상의 AI 모델을 사내에 제공한다. 임직원에게는 월 1000달러의 AI 사용 한도를 배정하고 필요에 따라 도구별 한도를 조정하거나 추가 승인을 받도록 했다. 임 총괄은 \"AI 사용 자체를 막은 것은 아니다\"라며 \"실제로 10월에도 AI 이용량은 줄어들지 않았다\"고 강조했다."
               },
               {
                 "t": "p",
-                "x": "Sources also describe mismanagement at BioWare and a sense that “EA executives cannot fail, only be failed.” PC Gamer notes Andrew Wilson's yearly pay was worth roughly 305 median salaries at the publisher's studios in 2025. The report ends calling EA “a cold dead place that's slowly decaying as leadership pilfers every last cent.”"
+                "x": "크래프톤은 조직별 비용 관리 체계를 고도화하고 업무에 적합한 AI 모델을 자동으로 선택하는 기술을 연구할 계획이며, 2027년에는 'AI 에이전트'의 권한과 승인 체계 등을 주요 과제로 삼을 방침이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "EA 직원들, AI 강요에\n사기 떨어진다고 호소",
-          "body": "EA 개발자들은 Claude 등 AI 강요와 부실 경영에 사기가 꺾였다고 한다.",
-          "mini_headline": "AI 강요에 흔들리는 EA",
+        "en": {
+          "headline": "Krafton's in-house gateway cuts\nAPI costs by 37%",
+          "body": "Krafton cut its September API costs by about 37% from the previous month with an LLM gateway.",
+          "mini_headline": "Krafton cuts API costs 37%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Lim Kyung-young, head of AI transformation at Krafton, said at 'Games on AWS 2026' on the 27th that \"we unified usage paths and improved our cost management system with an in-house LLM gateway,\" adding that \"as a result, September API costs fell about 37% from the previous month.\""
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EA가 지난주 BioWare를 닫은 가운데, Vertical Slice는 이 퍼블리셔의 직원 사기가 바닥을 쳤다고 보도했다. 익명의 소식통들은 이 매체의 Chris Kerr에게 “사기는 끔찍했다. 계속 들은 말은 ‘더 적게, 더 잘하자’였지만, 실제로는 더 적은 인원으로 같은 양의 일을 하는 느낌이었다”고 털어놓았다."
+                "x": "Krafton declared an 'AI First' strategy in October last year and has supported employees with more than 12 enterprise AI tools and personal subscription fees. As a result, token usage in July–August rose 27-fold compared with January this year, and related costs rose more than 20-fold. \"We couldn't see which organizations were using the most AI tokens and spending the most,\" Lim explained, adding that \"it was also impossible to forecast costs.\""
               },
               {
                 "t": "p",
-                "x": "한 소식통은 “경영진은 Claude와 [생성형] AI의 가능성에 매우 들떠 있었고, 우리 팀은 그게 몹시 못마땅했다”고 말했다. 다른 소식통은 “내가 들은 모든 관리자의 메시지는 ‘이게 미래다, 동참해야 한다’였다”고 했다. 세 번째 소식통은 “이 도구들이 의무라고 말하지는 않겠지만, [그것들] 없이는 일을 할 수 없거나 매우 어렵게 만들 것”이라고 덧붙였다."
+                "x": "The LLM gateway is a system that unifies the paths for using multiple AI models into one and manages usage and costs by individual, organization and model; it currently provides more than 98 AI models internally. Each employee is assigned a monthly AI usage limit of $1000, with per-tool limits adjusted as needed or additional approval required. \"We did not block AI use itself,\" Lim stressed. \"In fact, AI usage did not decrease in October either.\""
               },
               {
                 "t": "p",
-                "x": "소식통들은 BioWare의 부실 경영도 지적하며, 사내에 “EA 경영진은 실패할 수 없고, 실패당할 뿐”이라는 분위기가 있다고 전했다. PC Gamer에 따르면 Andrew Wilson의 2025년 연봉은 이 퍼블리셔 스튜디오 중위 연봉의 약 305배였다. 보도는 EA를 “경영진이 마지막 한 푼까지 빼돌리는 동안 서서히 썩어 가는 차갑고 죽은 곳”이라고 부르며 끝난다."
+                "x": "Krafton plans to refine its cost management by organization and research technology that automatically selects the AI model best suited to a task, and in 2027 it intends to make permissions and approval systems for 'AI agents' a key priority."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EA社員「AIの強制で\n士気が落ちている」",
-          "body": "EAの開発者は、Claudeなど生成AIの利用圧力と経営の失敗で士気が落ちたと語る。",
-          "mini_headline": "AI強制がEAに重くのしかかる",
+          "headline": "Kraftonゲートウェイで\nAPI費用37%削減",
+          "body": "KraftonはLLMゲートウェイで9月のAPI費用を前月比約37%削減した。",
+          "mini_headline": "Krafton、API費用37%削減",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "KraftonのAIトランスフォーメーション総括、イム・ギョンヨン氏は27日に開かれた「Games on AWS 2026」で「自社開発のLLMゲートウェイで利用経路を統合し、コスト管理体制を改善した」と述べ、「その結果、9月のAPI費用は前月比で約37%減少した」と明らかにした。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EAは先週BioWareを閉鎖し、今度はVertical Sliceの報道が、同パブリッシャーの社員の士気が過去最低にあると伝えている。匿名の関係者は同サイトのChris Kerrに「士気はひどいものだった。繰り返し聞かされたのは『より少なく、より良く』という言葉だったが、実際には少ない人数で同じ量の仕事をしているように感じた」と語った。"
+                "x": "Kraftonは昨年10月に「AIファースト」戦略を打ち出し、従業員に12種以上の企業向けAIツールと個人のサブスクリプション料金を支援してきた。その結果、今年1月と比べて7~8月のトークン使用量は27倍、関連費用は20倍以上に増えた。イム氏は「どの組織が最もAIトークンを使い、最も費用をかけているのかが見えなかった」とし、「費用を予測することもできなかった」と説明した。"
               },
               {
                 "t": "p",
-                "x": "ある関係者は「上層部はClaudeと[生成]AIの可能性に大いに興奮していたが、私のチームはそれをひどく苦々しく思っていた」と話した。別の関係者は「私が聞いたすべてのマネージャーからのメッセージは『これが未来だ、乗らなければならない』だった」と言う。三人目はこう付け加えた。「これらのツールが義務だとは言わないが、[それら]なしでは仕事ができない、あるいは非常に難しくなるようにする」"
+                "x": "LLMゲートウェイは、複数のAIモデルを利用する経路を一つにまとめ、個人・組織・モデルごとの使用量と費用を管理するシステムで、現在98種以上のAIモデルを社内に提供している。従業員には月1000ドルのAI利用上限を割り当て、必要に応じてツールごとの上限を調整したり追加承認を得たりする仕組みにした。イム氏は「AIの利用そのものを止めたわけではない」とし、「実際、10月もAIの利用量は減っていない」と強調した。"
               },
               {
                 "t": "p",
-                "x": "関係者はBioWareでの経営の失敗や、「EAの幹部は失敗しない。失敗させられるだけだ」という空気についても語っている。PC Gamerによると、Andrew Wilsonの2025年の年俸は、同社スタジオの給与中央値のおよそ305人分に相当した。報道はEAを「経営陣が最後の一銭までくすね取るなか、ゆっくりと朽ちていく冷たく死んだ場所」と呼んで締めくくっている。"
+                "x": "Kraftonは組織ごとのコスト管理体制を高度化し、業務に適したAIモデルを自動で選ぶ技術を研究する計画で、2027年には「AIエージェント」の権限や承認体制などを主要課題に据える方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EA员工称AI强制令\n正拖垮团队士气",
-          "body": "EA开发者称,管理层强推Claude等生成式AI工具,加上管理不善,导致士气低落。",
-          "mini_headline": "AI强制令压在EA身上",
+          "headline": "Krafton自研网关\nAPI成本降37%",
+          "body": "Krafton借助LLM网关，使9月API成本较上月减少约37%。",
+          "mini_headline": "Krafton API成本降37%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Krafton AI转型负责人Lim Kyung-young在27日举行的“Games on AWS 2026”上表示：“我们用自研的LLM网关整合了使用路径，并改进了成本管理体系。”他还说：“因此，9月API成本较上月下降约37%。”"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EA上周关闭了BioWare,如今Vertical Slice的一篇报道称,这家发行商的员工士气已跌至历史最低。匿名消息人士对该网站的Chris Kerr说:“士气一直很糟糕。我们反复听到的说法是‘少做,做好’,但感觉我们只是在用更少的人做同样多的事。”"
+                "x": "Krafton于去年10月宣布“AI优先”战略，为员工提供12种以上的企业级AI工具并补贴个人订阅费用。结果与今年1月相比，7~8月的令牌使用量增长了27倍，相关费用增长了20倍以上。Lim解释说：“我们看不到哪个部门用的AI令牌最多、花的钱最多。”他还说：“成本也根本无法预测。”"
               },
               {
                 "t": "p",
-                "x": "一位消息人士说:“高层对Claude和[生成式]AI的可能性非常兴奋,这让我的团队非常懊恼。”另一位说:“我听到的每一位经理传达的信息都是‘这就是未来,你必须跟上’。”第三位补充道:“他们不会告诉你这些工具是强制的,但他们会让你在没有[它们]的情况下无法或很难完成工作。”"
+                "x": "LLM网关将使用多个AI模型的路径整合为一，按个人、部门和模型管理用量与成本，目前在公司内部提供98种以上的AI模型。公司为每名员工分配每月1000美元的AI使用额度，并视需要调整各工具的额度或要求额外审批。Lim强调：“我们并没有限制AI的使用本身。”“实际上，10月的AI使用量也没有减少。”"
               },
               {
                 "t": "p",
-                "x": "消息人士还描述了BioWare的管理不善,以及一种“EA高管不会失败,只会被人辜负”的氛围。PC Gamer指出,2025年Andrew Wilson的年薪约相当于该发行商旗下工作室305份薪资中位数。报道最后称EA是“一个冰冷、死气沉沉的地方,在领导层搜刮每一分钱的同时慢慢腐朽”。"
+                "x": "Krafton计划进一步完善按部门划分的成本管理体系，并研究能自动选择适合业务的AI模型的技术；2027年将把“AI智能体”的权限与审批体系等作为重点课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trabajadores de EA: la AI\nimpuesta hunde la moral",
-          "body": "Desarrolladores de EA dicen que la presión para usar AI generativa como Claude y la mala gestión han hundido la moral.",
-          "mini_headline": "Los mandatos de AI pesan sobre EA",
+          "headline": "Krafton recorta un 37% su gasto\nen API con una pasarela propia",
+          "body": "Krafton redujo cerca de un 37% su gasto en API de septiembre respecto al mes anterior gracias a una pasarela LLM.",
+          "mini_headline": "Krafton recorta un 37% su gasto en API",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Lim Kyung-young, responsable de transformación de AI de Krafton, afirmó en 'Games on AWS 2026', celebrado el día 27, que “unificamos las vías de uso y mejoramos el sistema de gestión de costes con una pasarela LLM de desarrollo propio” y que “como resultado, el gasto en API de septiembre bajó cerca de un 37% respecto al mes anterior”."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EA cerró BioWare la semana pasada, y ahora un informe de Vertical Slice sostiene que la moral de los empleados de la editora está en su punto más bajo. “La moral ha sido terrible. La frase que oíamos una y otra vez era ‘hacer menos, mejor’, pero sentíamos que hacíamos lo mismo con menos gente”, dijeron fuentes anónimas a Chris Kerr, del sitio."
+                "x": "Krafton anunció en octubre del año pasado una estrategia 'AI First' y ha financiado a sus empleados más de 12 herramientas de AI empresariales y suscripciones personales. Como resultado, frente a enero de este año, el uso de tokens en julio y agosto se multiplicó por 27 y los costes asociados, por más de 20. “No veíamos qué organización usaba más tokens de AI ni cuál gastaba más”, explicó Lim, y añadió que “tampoco era posible prever los costes”."
               },
               {
                 "t": "p",
-                "x": "Una fuente dijo que “la alta dirección estaba muy entusiasmada con Claude y las posibilidades de la AI [generativa], para gran disgusto de mi equipo”. Otra: “El mensaje de cada uno de los responsables que he escuchado es ‘esto es el futuro, tienes que subirte’”. Una tercera añadió: “No te dirán que estas herramientas son obligatorias, pero harán que te resulte imposible o muy difícil hacer tu trabajo sin [ellas]”."
+                "x": "La pasarela LLM es un sistema que unifica en una sola las vías de acceso a varios modelos de AI y gestiona el uso y los costes por persona, organización y modelo; actualmente ofrece internamente más de 98 modelos de AI. A cada empleado se le asigna un límite mensual de uso de AI de 1000 dólares y, según las necesidades, se ajustan los límites por herramienta o se exige una aprobación adicional. “No hemos bloqueado el uso de la AI en sí”, subrayó Lim. “De hecho, el uso de AI tampoco disminuyó en octubre”."
               },
               {
                 "t": "p",
-                "x": "Las fuentes también describen mala gestión en BioWare y la sensación de que “los ejecutivos de EA no pueden fallar, solo ser defraudados”. PC Gamer señala que el sueldo anual de Andrew Wilson equivalía en 2025 a unos 305 salarios medianos de los estudios de la editora. El informe termina llamando a EA “un lugar frío y muerto que se pudre lentamente mientras la dirección se lleva hasta el último céntimo”."
+                "x": "Krafton planea perfeccionar la gestión de costes por organización e investigar tecnología que elija automáticamente el modelo de AI adecuado para cada tarea, y en 2027 se propone convertir los permisos y los sistemas de aprobación de los 'agentes de AI' en una prioridad."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "EA 직원들, AI 강요에\n사기 떨어진다고 호소",
-          "body": "EA 개발자들은 Claude 등 AI 강요와 부실 경영에 사기가 꺾였다고 한다.",
-          "mini_headline": "AI 강요에 흔들리는 EA",
+        "en": {
+          "headline": "Krafton's in-house gateway cuts\nAPI costs by 37%",
+          "body": "Krafton cut its September API costs by about 37% from the previous month with an LLM gateway.",
+          "mini_headline": "Krafton cuts API costs 37%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Lim Kyung-young, head of AI transformation at Krafton, said at 'Games on AWS 2026' on the 27th that \"we unified usage paths and improved our cost management system with an in-house LLM gateway,\" adding that \"as a result, September API costs fell about 37% from the previous month.\""
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EA는 지난주 BioWare를 폐쇄했고, 이제 Vertical Slice의 보도는 이 퍼블리셔의 직원 사기가 사상 최저라고 주장한다. 익명의 소식통들은 이 매체의 Chris Kerr에게 “사기는 끔찍했다. 계속 들은 말은 ‘더 적게, 더 잘하자’였지만, 실제로는 더 적은 인원으로 같은 양의 일을 하는 느낌이었다”고 말했다."
+                "x": "Krafton declared an 'AI First' strategy in October last year and has supported employees with more than 12 enterprise AI tools and personal subscription fees. As a result, token usage in July–August rose 27-fold compared with January this year, and related costs rose more than 20-fold. \"We couldn't see which organizations were using the most AI tokens and spending the most,\" Lim explained, adding that \"it was also impossible to forecast costs.\""
               },
               {
                 "t": "p",
-                "x": "한 소식통은 “경영진은 Claude와 [생성형] AI의 가능성에 매우 들떠 있었고, 우리 팀은 그게 몹시 못마땅했다”고 말했다. 또 다른 소식통은 “내가 들은 모든 관리자의 메시지는 ‘이게 미래다, 동참해야 한다’였다”고 했다. 세 번째 소식통은 “이 도구들이 의무라고 말하지는 않겠지만, [그것들] 없이는 일을 할 수 없거나 매우 어렵게 만들 것”이라고 덧붙였다."
+                "x": "The LLM gateway is a system that unifies the paths for using multiple AI models into one and manages usage and costs by individual, organization and model; it currently provides more than 98 AI models internally. Each employee is assigned a monthly AI usage limit of $1000, with per-tool limits adjusted as needed or additional approval required. \"We did not block AI use itself,\" Lim stressed. \"In fact, AI usage did not decrease in October either.\""
               },
               {
                 "t": "p",
-                "x": "소식통들은 BioWare의 부실 경영과 함께 “EA 경영진은 실패할 수 없고, 실패당할 뿐”이라는 분위기도 전했다. PC Gamer는 Andrew Wilson의 2025년 연봉이 이 퍼블리셔 스튜디오 중위 연봉의 약 305배에 달했다고 짚었다. 보도는 EA를 “경영진이 마지막 한 푼까지 빼돌리는 동안 서서히 썩어 가는 차갑고 죽은 곳”이라고 부르며 끝맺는다."
+                "x": "Krafton plans to refine its cost management by organization and research technology that automatically selects the AI model best suited to a task, and in 2027 it intends to make permissions and approval systems for 'AI agents' a key priority."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EA社員「AIの強制で\n士気が落ちている」",
-          "body": "EAの開発者は、Claudeなど生成AIの利用圧力と経営の失敗で士気が落ちたと語る。",
-          "mini_headline": "AI強制がEAに重くのしかかる",
+          "headline": "Kraftonゲートウェイで\nAPI費用37%削減",
+          "body": "KraftonはLLMゲートウェイで9月のAPI費用を前月比約37%削減した。",
+          "mini_headline": "Krafton、API費用37%削減",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "KraftonのAIトランスフォーメーション総括、イム・ギョンヨン氏は27日に開かれた「Games on AWS 2026」で「自社開発のLLMゲートウェイで利用経路を統合し、コスト管理体制を改善した」と述べ、「その結果、9月のAPI費用は前月比で約37%減少した」と明らかにした。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EAは先週BioWareを閉鎖し、今度はVertical Sliceの報道が、同パブリッシャーの社員の士気が過去最低にあると伝えている。匿名の関係者は同サイトのChris Kerrに「士気はひどいものだった。繰り返し聞かされたのは『より少なく、より良く』という言葉だったが、実際には少ない人数で同じ量の仕事をしているように感じた」と語った。"
+                "x": "Kraftonは昨年10月に「AIファースト」戦略を打ち出し、従業員に12種以上の企業向けAIツールと個人のサブスクリプション料金を支援してきた。その結果、今年1月と比べて7~8月のトークン使用量は27倍、関連費用は20倍以上に増えた。イム氏は「どの組織が最もAIトークンを使い、最も費用をかけているのかが見えなかった」とし、「費用を予測することもできなかった」と説明した。"
               },
               {
                 "t": "p",
-                "x": "ある関係者は「上層部はClaudeと[生成]AIの可能性に大いに興奮していたが、私のチームはそれをひどく苦々しく思っていた」と話した。別の関係者は「私が聞いたすべてのマネージャーからのメッセージは『これが未来だ、乗らなければならない』だった」と言う。三人目はこう付け加えた。「これらのツールが義務だとは言わないが、[それら]なしでは仕事ができない、あるいは非常に難しくなるようにする」"
+                "x": "LLMゲートウェイは、複数のAIモデルを利用する経路を一つにまとめ、個人・組織・モデルごとの使用量と費用を管理するシステムで、現在98種以上のAIモデルを社内に提供している。従業員には月1000ドルのAI利用上限を割り当て、必要に応じてツールごとの上限を調整したり追加承認を得たりする仕組みにした。イム氏は「AIの利用そのものを止めたわけではない」とし、「実際、10月もAIの利用量は減っていない」と強調した。"
               },
               {
                 "t": "p",
-                "x": "関係者はBioWareでの経営の失敗や、「EAの幹部は失敗しない。失敗させられるだけだ」という空気についても語っている。PC Gamerによると、Andrew Wilsonの2025年の年俸は、同社スタジオの給与中央値のおよそ305人分に相当した。報道はEAを「経営陣が最後の一銭までくすね取るなか、ゆっくりと朽ちていく冷たく死んだ場所」と呼んで締めくくっている。"
+                "x": "Kraftonは組織ごとのコスト管理体制を高度化し、業務に適したAIモデルを自動で選ぶ技術を研究する計画で、2027年には「AIエージェント」の権限や承認体制などを主要課題に据える方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EA员工称AI强制令\n正拖垮团队士气",
-          "body": "EA开发者称,管理层强推Claude等生成式AI工具,加上管理不善,导致士气低落。",
-          "mini_headline": "AI强制令压在EA身上",
+          "headline": "Krafton自研网关\nAPI成本降37%",
+          "body": "Krafton借助LLM网关，使9月API成本较上月减少约37%。",
+          "mini_headline": "Krafton API成本降37%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Krafton AI转型负责人Lim Kyung-young在27日举行的“Games on AWS 2026”上表示：“我们用自研的LLM网关整合了使用路径，并改进了成本管理体系。”他还说：“因此，9月API成本较上月下降约37%。”"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EA上周关闭了BioWare,如今Vertical Slice的一篇报道称,这家发行商的员工士气已跌至历史最低。匿名消息人士对该网站的Chris Kerr说:“士气一直很糟糕。我们反复听到的说法是‘少做,做好’,但感觉我们只是在用更少的人做同样多的事。”"
+                "x": "Krafton于去年10月宣布“AI优先”战略，为员工提供12种以上的企业级AI工具并补贴个人订阅费用。结果与今年1月相比，7~8月的令牌使用量增长了27倍，相关费用增长了20倍以上。Lim解释说：“我们看不到哪个部门用的AI令牌最多、花的钱最多。”他还说：“成本也根本无法预测。”"
               },
               {
                 "t": "p",
-                "x": "一位消息人士说:“高层对Claude和[生成式]AI的可能性非常兴奋,这让我的团队非常懊恼。”另一位说:“我听到的每一位经理传达的信息都是‘这就是未来,你必须跟上’。”第三位补充道:“他们不会告诉你这些工具是强制的,但他们会让你在没有[它们]的情况下无法或很难完成工作。”"
+                "x": "LLM网关将使用多个AI模型的路径整合为一，按个人、部门和模型管理用量与成本，目前在公司内部提供98种以上的AI模型。公司为每名员工分配每月1000美元的AI使用额度，并视需要调整各工具的额度或要求额外审批。Lim强调：“我们并没有限制AI的使用本身。”“实际上，10月的AI使用量也没有减少。”"
               },
               {
                 "t": "p",
-                "x": "消息人士还描述了BioWare的管理不善,以及一种“EA高管不会失败,只会被人辜负”的氛围。PC Gamer指出,2025年Andrew Wilson的年薪约相当于该发行商旗下工作室305份薪资中位数。报道最后称EA是“一个冰冷、死气沉沉的地方,在领导层搜刮每一分钱的同时慢慢腐朽”。"
+                "x": "Krafton计划进一步完善按部门划分的成本管理体系，并研究能自动选择适合业务的AI模型的技术；2027年将把“AI智能体”的权限与审批体系等作为重点课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trabajadores de EA: la AI\nimpuesta hunde la moral",
-          "body": "Desarrolladores de EA dicen que la presión para usar AI generativa como Claude y la mala gestión han hundido la moral.",
-          "mini_headline": "Los mandatos de AI pesan sobre EA",
+          "headline": "Krafton recorta un 37% su gasto\nen API con una pasarela propia",
+          "body": "Krafton redujo cerca de un 37% su gasto en API de septiembre respecto al mes anterior gracias a una pasarela LLM.",
+          "mini_headline": "Krafton recorta un 37% su gasto en API",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Lim Kyung-young, responsable de transformación de AI de Krafton, afirmó en 'Games on AWS 2026', celebrado el día 27, que “unificamos las vías de uso y mejoramos el sistema de gestión de costes con una pasarela LLM de desarrollo propio” y que “como resultado, el gasto en API de septiembre bajó cerca de un 37% respecto al mes anterior”."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-2560-80.jpg"
+                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
               },
               {
                 "t": "p",
-                "x": "EA cerró BioWare la semana pasada, y ahora un informe de Vertical Slice sostiene que la moral de los empleados de la editora está en su punto más bajo. “La moral ha sido terrible. La frase que oíamos una y otra vez era ‘hacer menos, mejor’, pero sentíamos que hacíamos lo mismo con menos gente”, dijeron fuentes anónimas a Chris Kerr, del sitio."
+                "x": "Krafton anunció en octubre del año pasado una estrategia 'AI First' y ha financiado a sus empleados más de 12 herramientas de AI empresariales y suscripciones personales. Como resultado, frente a enero de este año, el uso de tokens en julio y agosto se multiplicó por 27 y los costes asociados, por más de 20. “No veíamos qué organización usaba más tokens de AI ni cuál gastaba más”, explicó Lim, y añadió que “tampoco era posible prever los costes”."
               },
               {
                 "t": "p",
-                "x": "Una fuente dijo que “la alta dirección estaba muy entusiasmada con Claude y las posibilidades de la AI [generativa], para gran disgusto de mi equipo”. Otra: “El mensaje de cada uno de los responsables que he escuchado es ‘esto es el futuro, tienes que subirte’”. Una tercera añadió: “No te dirán que estas herramientas son obligatorias, pero harán que te resulte imposible o muy difícil hacer tu trabajo sin [ellas]”."
+                "x": "La pasarela LLM es un sistema que unifica en una sola las vías de acceso a varios modelos de AI y gestiona el uso y los costes por persona, organización y modelo; actualmente ofrece internamente más de 98 modelos de AI. A cada empleado se le asigna un límite mensual de uso de AI de 1000 dólares y, según las necesidades, se ajustan los límites por herramienta o se exige una aprobación adicional. “No hemos bloqueado el uso de la AI en sí”, subrayó Lim. “De hecho, el uso de AI tampoco disminuyó en octubre”."
               },
               {
                 "t": "p",
-                "x": "Las fuentes también describen mala gestión en BioWare y la sensación de que “los ejecutivos de EA no pueden fallar, solo ser defraudados”. PC Gamer señala que el sueldo anual de Andrew Wilson equivalía en 2025 a unos 305 salarios medianos de los estudios de la editora. El informe termina llamando a EA “un lugar frío y muerto que se pudre lentamente mientras la dirección se lleva hasta el último céntimo”."
+                "x": "Krafton planea perfeccionar la gestión de costes por organización e investigar tecnología que elija automáticamente el modelo de AI adecuado para cada tarea, y en 2027 se propone convertir los permisos y los sistemas de aprobación de los 'agentes de AI' en una prioridad."
               }
             ]
           }
@@ -1281,15 +1331,15 @@
       }
     },
     {
-      "id": "games-virtue-sledgehammer-ai",
+      "id": "arrowhead-ai-parody",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI에 대형 망치를\n휘두르는 서사 게임",
-      "body": "Deconstructeam 신작은 한 여성이 로봇과 서버를 부수는 AI 게임이다.",
-      "mini_headline": "AI에 맞서는 게임",
+      "headline": "Helldivers 2의\n수장, AI 패러디 구상",
+      "body": "Arrowhead Johan Pilestedt는 AI 풍자 게임도 유쾌하길 바랐다.",
+      "mini_headline": "Helldivers 수장, AI 패러디 구상",
       "tool": "Games",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/virtue-and-a-sledgehammer-review-impressions/",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1297,173 +1347,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+            "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
           },
           {
             "t": "p",
-            "x": "Valencia-based(발렌시아 기반) 스튜디오 Deconstructeam이 공동 개발사(co-developer) Selkie Harbour와 만든 신작 Virtue and a Sledgehammer에서는 Pratelle의 자매 Nina가 죽어 가는 어머니의 뇌를 디지털화해 인공 몸에 옮긴다. 기술은 퍼져 나가 마을을 집어삼키고, Pratelle은 서버와 로봇을 하나도 남김없이 부수겠다며 대형 망치를 들고 돌아온다."
+            "x": "Arrowhead의 최고 크리에이티브 책임자 Johan Pilestedt는 Helldivers 스튜디오가 요즘 생성형 AI 기술을 풍자하거나 패러디하는 비디오 게임을 만드는 일도 충분히 상상할 수 있다고 했다. 다만 Helldivers 프로젝트는 아니고, 분위기도 비교적 밝아야 한다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Aftermath의 Harper Jay MacIntyre는 대놓고 말하자면 이건 AI에 관한 게임이라고 쓴다. 일상에 파고드는 기술, ChatGPT나 Claude 같은 “혁신”이 우리 일터와 집을 어떻게 감염시켰는지를 다룬 게임이라는 설명이다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+            "x": "“AI는 80년대부터 패러디할 가치가 있었고, 사실상 신과 같은 AI 지배자가 있는 세계에 갇히는 게임은 충분히 그려진다”고 Pilestedt는 말했다. “하지만 Helldivers 2에서는 이미 Automatons가 로봇 적 역할을 맡고 있으니, 그 방향으로 간다면 새 타이틀이 될 것이고, 암울한 방식보다는 기발하고 재미있는 방식으로 풀고 싶다.”"
           },
           {
             "t": "p",
-            "x": "마을 한쪽, 기계 인간들은 제 몸이 묻힌 자리 위에 서버 랙을 세우고 스스로를 보존할 백업 데이터를 그 안에 넣어 두었다. 크레딧에는 “AI에 오염된 이 새로운 시대에 작은 창작자로 사는 일은 낙담스러울 수 있다”는 메시지가 실렸다. MacIntyre가 엔딩을 볼 무렵 부순 로봇은 546대였다. “어쩌면 모두를 구하는 유일한 길은 대형 망치를 들고 가장 가까운 데이터 센터로 행진하는 것일지도 모른다.”"
+            "x": "Helldivers 2의 Automatons는 생성형 AI를 겨냥한 논평이 아니다. 굳이 따지면 Terminators로 채운 소련의 패러디에 가깝다."
+          },
+          {
+            "t": "p",
+            "x": "Arrowhead는 정해진 한도 안에서라면 이 기술을 쓸 생각도 있어 보인다. CEO Shams Jorjani는 The Game Business에 AI 논쟁이 결국 “스펙트럼의 양 극단”으로 치닫는다며 “어쩌면 현실은 그 중간 어딘가에 있는 것 아닐까?”라고 되물었다. “사람들의 지식재산과 권리를 훔치지 않도록 해야 한다”는 당부도 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A narrative game takes\na sledgehammer to AI",
-          "body": "Deconstructeam's new game is about AI, its reviewer says: a woman smashes the robots and servers holding minds.",
-          "mini_headline": "A game against AI",
+          "headline": "Helldivers 2 boss mulls a\ngenerative AI parody game",
+          "body": "Arrowhead's Johan Pilestedt says a game satirising generative AI would need to be quirky, not doom-laden.",
+          "mini_headline": "Helldivers boss mulls AI parody",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "In Virtue and a Sledgehammer, the latest game from Valencia-based Deconstructeam and co-developer Selkie Harbour, Pratelle's sister Nina digitizes their dying mother's brain into an artificial shell. The technology spreads and consumes their town, and Pratelle comes back with a sledgehammer, ready to smash every server and robot into bits."
+                "x": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. It wouldn't be a Helldivers project, and it would need to be relatively upbeat."
               },
               {
                 "t": "p",
-                "x": "Aftermath's Harper Jay MacIntyre writes that, more pointedly, this is a game about AI — about the intrusion of technology into everyday lives and the way “innovations” like ChatGPT or Claude have infected our workplaces and our households."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "\"AI has been worth parodying since the ‘80s, and I can absolutely see a game where you’re stuck in a world with an AI overlord that’s basically a deity,\" Pilestedt said. \"But the Automatons already cover our robot enemy needs in Helldivers 2, so if we went there, it would be a new title, and we’d want to frame it in a quirky, fun way rather than a doom-laden one.\""
               },
               {
                 "t": "p",
-                "x": "In part of the town, the machine people have built server racks above where their bodies are interred, holding the backup data that preserves them. The credits carry a message: “It can get disheartening to be a smaller creator in this new era poisoned by AI.” By the end, MacIntyre had bashed 546 robots into bits. “Maybe the only way to save everyone is to pick up a sledgehammer and march towards the nearest data center.”"
+                "x": "Helldivers 2's Automatons aren't a commentary on generative AI; they're broadly a spoof of Soviet Russia, if it had been populated by Terminators."
+              },
+              {
+                "t": "p",
+                "x": "Arrowhead appear open to using the technology within limits. CEO Shams Jorjani told The Game Business that AI debates end up \"on both ends of the spectrum\" and asked, \"Maybe could it be that reality is somewhere in the middle?\" He also stressed that \"we need to make sure that we're not stealing people's intellectual property and rights\"."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI에 대형 망치를\n휘두르는 서사 게임",
-          "body": "Deconstructeam 신작은 한 여성이 로봇과 서버를 부수는 AI 게임이다.",
-          "mini_headline": "AI에 맞서는 게임",
+          "headline": "Helldivers 2의\n수장, AI 패러디 구상",
+          "body": "Arrowhead Johan Pilestedt는 AI 풍자 게임도 유쾌하길 바랐다.",
+          "mini_headline": "Helldivers 수장, AI 패러디 구상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Valencia-based(발렌시아 기반) 스튜디오 Deconstructeam이 공동 개발사(co-developer) Selkie Harbour와 만든 신작 Virtue and a Sledgehammer에서는 Pratelle의 자매 Nina가 죽어 가는 어머니의 뇌를 디지털화해 인공 몸에 옮긴다. 기술은 퍼져 나가 마을을 집어삼키고, Pratelle은 서버와 로봇을 하나도 남김없이 부수겠다며 대형 망치를 들고 돌아온다."
+                "x": "Arrowhead의 최고 크리에이티브 책임자 Johan Pilestedt는 Helldivers 스튜디오가 요즘 생성형 AI 기술을 풍자하거나 패러디하는 비디오 게임을 만드는 일도 충분히 상상할 수 있다고 했다. 다만 Helldivers 프로젝트는 아니고, 분위기도 비교적 밝아야 한다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Aftermath의 Harper Jay MacIntyre는 대놓고 말하자면 이건 AI에 관한 게임이라고 쓴다. 일상에 파고드는 기술, ChatGPT나 Claude 같은 “혁신”이 우리 일터와 집을 어떻게 감염시켰는지를 다룬 게임이라는 설명이다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "“AI는 80년대부터 패러디할 가치가 있었고, 사실상 신과 같은 AI 지배자가 있는 세계에 갇히는 게임은 충분히 그려진다”고 Pilestedt는 말했다. “하지만 Helldivers 2에서는 이미 Automatons가 로봇 적 역할을 맡고 있으니, 그 방향으로 간다면 새 타이틀이 될 것이고, 암울한 방식보다는 기발하고 재미있는 방식으로 풀고 싶다.”"
               },
               {
                 "t": "p",
-                "x": "마을 한쪽, 기계 인간들은 제 몸이 묻힌 자리 위에 서버 랙을 세우고 스스로를 보존할 백업 데이터를 그 안에 넣어 두었다. 크레딧에는 “AI에 오염된 이 새로운 시대에 작은 창작자로 사는 일은 낙담스러울 수 있다”는 메시지가 실렸다. MacIntyre가 엔딩을 볼 무렵 부순 로봇은 546대였다. “어쩌면 모두를 구하는 유일한 길은 대형 망치를 들고 가장 가까운 데이터 센터로 행진하는 것일지도 모른다.”"
+                "x": "Helldivers 2의 Automatons는 생성형 AI를 겨냥한 논평이 아니다. 굳이 따지면 Terminators로 채운 소련의 패러디에 가깝다."
+              },
+              {
+                "t": "p",
+                "x": "Arrowhead는 정해진 한도 안에서라면 이 기술을 쓸 생각도 있어 보인다. CEO Shams Jorjani는 The Game Business에 AI 논쟁이 결국 “스펙트럼의 양 극단”으로 치닫는다며 “어쩌면 현실은 그 중간 어딘가에 있는 것 아닐까?”라고 되물었다. “사람들의 지식재산과 권리를 훔치지 않도록 해야 한다”는 당부도 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIに大槌を振るう\nナラティブゲーム",
-          "body": "Deconstructeamの新作は、心を宿すロボットとサーバーを壊すAIの物語だ。",
-          "mini_headline": "AIに抗うゲーム",
+          "headline": "Helldivers 2幹部\n生成AIパロディを構想",
+          "body": "ArrowheadのJohan Pilestedtは生成AI風刺ゲームに軽妙さを求めた。",
+          "mini_headline": "Helldivers幹部、AIパロディを構想",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "バレンシアを拠点とする(Valencia-based)Deconstructeamと共同開発(co-developer)のSelkie Harbourによる最新作『Virtue and a Sledgehammer』では、Pratelleの姉妹Ninaが、死にゆく母の脳をデジタル化して人工の器に移す。その技術は広がって町を飲み込み、Pratelleはあらゆるサーバーとロボットを粉々にする覚悟で大槌を手に戻ってくる。"
+                "x": "Arrowheadのチーフクリエイティブオフィサー、Johan Pilestedtは、Helldiversのスタジオが今日の生成AI技術を風刺・パロディするビデオゲームを開発することを十分に想像できるという。ただしHelldiversのプロジェクトにはならず、比較的明るいものである必要があるとしている。"
               },
               {
                 "t": "p",
-                "x": "AftermathのHarper Jay MacIntyreは、より端的に言えばこれはAIについてのゲームだと書く。日常生活への技術の侵入、そしてChatGPTやClaudeのような「イノベーション」が私たちの職場や家庭を蝕んできたことについてのゲームだという。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "「AIは80年代からパロディの対象になってきた。事実上の神であるAIの支配者がいる世界に閉じ込められるゲームは十分に考えられる」とPilestedtは語った。「だがHelldivers 2ではAutomatonsがすでにロボットの敵役を担っている。その方向に進むなら新タイトルになるだろうし、悲観的なものではなく、風変わりで楽しい形で描きたい」"
               },
               {
                 "t": "p",
-                "x": "町の一角では、機械の人々が自分たちの体が埋葬された場所の上にサーバーラックを築き、自らを保存するバックアップデータを収めている。クレジットには「AIに毒されたこの新しい時代に、小さなクリエイターでいることは気が滅入ることもある」というメッセージがある。最後までにMacIntyreは546体のロボットを粉々にした。「もしかすると、皆を救う唯一の方法は、大槌を手に最寄りのデータセンターへ行進することなのかもしれない」"
+                "x": "Helldivers 2のAutomatonsは生成AIへの論評ではない。おおむね、Terminatorsが住むソビエト・ロシアのパロディだ。"
+              },
+              {
+                "t": "p",
+                "x": "Arrowheadは一定の範囲内でこの技術を使うことには前向きなようだ。CEOのShams JorjaniはThe Game Businessに対し、AIをめぐる議論は「スペクトラムの両極端」に行き着くと述べ、「もしかすると現実はその中間のどこかにあるのではないか」と問いかけた。また「人々の知的財産や権利を盗んでいないことを確実にする必要がある」とも強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一款叙事游戏\n抡起大锤砸向AI",
-          "body": "评论称Deconstructeam的新作关乎AI:一名女子砸毁承载心智的机器人和服务器。",
-          "mini_headline": "一款对抗AI的游戏",
+          "headline": "Helldivers 2老板\n构思生成式AI恶搞游戏",
+          "body": "Arrowhead的Johan Pilestedt称，讽刺生成式AI的游戏应诙谐而非沉重。",
+          "mini_headline": "Helldivers老板构思AI恶搞游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "在总部位于瓦伦西亚(Valencia-based)的Deconstructeam与联合开发商(co-developer)Selkie Harbour推出的新作《Virtue and a Sledgehammer》中,Pratelle的姐妹Nina将垂死母亲的大脑数字化,装进一副人造躯壳。这项技术不断扩散,吞噬了她们的小镇,Pratelle带着一把大锤归来,准备把每一台服务器和机器人砸得粉碎。"
+                "x": "Arrowhead首席创意官Johan Pilestedt完全能想象这家Helldivers工作室开发一款讽刺或恶搞当今生成式AI技术的电子游戏。它不会是Helldivers项目，而且需要相对轻松明快。"
               },
               {
                 "t": "p",
-                "x": "Aftermath的Harper Jay MacIntyre写道,更直白地说,这是一款关于AI的游戏——关于技术侵入日常生活,以及ChatGPT或Claude这类“创新”如何侵染我们的工作场所和家庭。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "“从80年代起，AI就一直值得拿来恶搞。我完全能想象这样一款游戏：你被困在一个由几乎等同于神的AI霸主统治的世界里，”Pilestedt说。“不过在Helldivers 2里，Automatons已经满足了我们对机器人敌人的需求，所以如果要做这个方向，那会是一款新作，而且我们会希望用古怪、有趣的方式来呈现，而不是阴郁沉重的方式。”"
               },
               {
                 "t": "p",
-                "x": "在小镇的一角,机械人在埋葬自己身体的地方上方搭起服务器机架,存放着保存他们的备份数据。片尾字幕写着一句话:“在这个被AI毒害的新时代,做一个小创作者可能会令人沮丧。”到最后,MacIntyre砸碎了546个机器人。“也许拯救所有人的唯一办法,就是拿起大锤,向最近的数据中心进发。”"
+                "x": "Helldivers 2中的Automatons并不是对生成式AI的评论；它们大致是在戏仿一个住满Terminators的苏联。"
+              },
+              {
+                "t": "p",
+                "x": "Arrowhead似乎愿意在一定限度内使用这项技术。CEO Shams Jorjani对The Game Business表示，AI争论最终会走向“光谱的两个极端”，并发问：“也许现实就在中间某处？”他还强调，“我们必须确保自己没有窃取别人的知识产权和权利”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un juego narrativo\nque le da un mazazo a la AI",
-          "body": "El nuevo juego de Deconstructeam trata de la AI: una mujer destroza robots y servidores que guardan mentes.",
-          "mini_headline": "Un juego contra la AI",
+          "headline": "El jefe de Helldivers 2 sopesa\nuna parodia de la AI generativa",
+          "body": "Johan Pilestedt, de Arrowhead, dice que un juego que satirice la AI generativa tendría que ser peculiar, no sombrío.",
+          "mini_headline": "El jefe de Helldivers sopesa una parodia de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "En Virtue and a Sledgehammer, el nuevo juego de Deconstructeam, estudio con sede en Valencia (Valencia-based), y de la codesarrolladora (co-developer) Selkie Harbour, Nina, la hermana de Pratelle, digitaliza el cerebro de su madre moribunda en un cuerpo artificial. La tecnología se extiende y consume su pueblo, y Pratelle regresa con un mazo, dispuesta a hacer añicos cada servidor y cada robot."
+                "x": "El director creativo de Arrowhead, Johan Pilestedt, se imagina perfectamente al estudio de Helldivers desarrollando un videojuego que satirice o parodie la tecnología de AI generativa actual. No sería un proyecto de Helldivers y tendría que ser relativamente optimista."
               },
               {
                 "t": "p",
-                "x": "Harper Jay MacIntyre, de Aftermath, escribe que, de forma más directa, este es un juego sobre la AI: sobre la intrusión de la tecnología en la vida cotidiana y la manera en que “innovaciones” como ChatGPT o Claude han infectado nuestros lugares de trabajo y nuestros hogares."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "“La AI ha merecido una parodia desde los años 80, y puedo imaginar perfectamente un juego en el que estás atrapado en un mundo con un señor supremo de AI que es básicamente una deidad”, dijo Pilestedt. “Pero los Automatons ya cubren nuestras necesidades de enemigos robóticos en Helldivers 2, así que si fuéramos por ahí, sería un título nuevo, y querríamos plantearlo de forma peculiar y divertida en lugar de sombría”."
               },
               {
                 "t": "p",
-                "x": "En una parte del pueblo, las personas máquina han construido racks de servidores sobre el lugar donde están enterrados sus cuerpos, con los datos de respaldo que las preservan. Los créditos incluyen un mensaje: “Puede ser desalentador ser un creador pequeño en esta nueva era envenenada por la AI”. Al final, MacIntyre había hecho añicos 546 robots. “Quizá la única forma de salvar a todos sea coger un mazo y marchar hacia el centro de datos más cercano”."
+                "x": "Los Automatons de Helldivers 2 no son un comentario sobre la AI generativa; son, a grandes rasgos, una parodia de la Rusia soviética como si la hubieran poblado Terminators."
+              },
+              {
+                "t": "p",
+                "x": "Arrowhead parece abierta a usar la tecnología dentro de ciertos límites. Su CEO, Shams Jorjani, dijo a The Game Business que los debates sobre la AI acaban “en los dos extremos del espectro” y preguntó: “¿Quizá la realidad esté en algún punto intermedio?”. También subrayó que “tenemos que asegurarnos de que no estamos robando la propiedad intelectual y los derechos de las personas”."
               }
             ]
           }
@@ -1471,121 +1521,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI에 대형 망치를\n휘두르는 서사 게임",
-          "body": "Deconstructeam 신작은 한 여성이 로봇과 서버를 부수는 AI 게임이다.",
-          "mini_headline": "AI에 맞서는 게임",
+          "headline": "Helldivers 2의\n수장, AI 패러디 구상",
+          "body": "Arrowhead Johan Pilestedt는 AI 풍자극에 유쾌함을 주문했다.",
+          "mini_headline": "Helldivers 수장, AI 패러디 구상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Valencia-based(발렌시아 기반) 스튜디오 Deconstructeam과 공동 개발사(co-developer) Selkie Harbour의 신작 Virtue and a Sledgehammer에서, Pratelle의 자매 Nina는 죽어 가는 어머니의 뇌를 디지털화해 인공 몸체에 옮긴다. 이 기술은 퍼져 나가 마을을 집어삼키고, Pratelle은 모든 서버와 로봇을 산산조각 낼 각오로 대형 망치를 들고 돌아온다."
+                "x": "Arrowhead의 최고 크리에이티브 책임자 Johan Pilestedt는 Helldivers 스튜디오가 오늘날의 생성형 AI 기술을 풍자하거나 패러디하는 비디오 게임을 개발하는 모습을 충분히 상상할 수 있다고 한다. 다만 Helldivers 프로젝트는 아닐 것이고, 비교적 밝은 분위기여야 한다."
               },
               {
                 "t": "p",
-                "x": "Aftermath의 Harper Jay MacIntyre는 더 직설적으로 말해 이것이 AI에 관한 게임이라고 쓴다. 일상에 파고드는 기술, 그리고 ChatGPT나 Claude 같은 “혁신”이 우리의 일터와 가정을 감염시킨 방식에 관한 게임이라는 것이다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "“AI는 80년대부터 패러디할 가치가 있었고, 사실상 신과 같은 AI 지배자가 있는 세계에 갇히는 게임은 충분히 그려진다”고 Pilestedt는 말했다. “하지만 Helldivers 2에서는 이미 Automatons가 로봇 적 역할을 맡고 있으니, 그 방향으로 간다면 새 타이틀이 될 것이고, 암울한 방식보다는 기발하고 재미있는 방식으로 풀고 싶다.”"
               },
               {
                 "t": "p",
-                "x": "마을 한쪽에서 기계 인간들은 자신들의 몸이 묻힌 자리 위에 서버 랙을 세우고, 자신들을 보존하는 백업 데이터를 그 안에 담아 두었다. 크레딧에는 “AI에 오염된 이 새로운 시대에 작은 창작자로 사는 일은 낙담스러울 수 있다”는 메시지가 실렸다. 엔딩에 이르렀을 때 MacIntyre는 로봇 546대를 부순 상태였다. “어쩌면 모두를 구하는 유일한 길은 대형 망치를 들고 가장 가까운 데이터 센터로 행진하는 것일지도 모른다.”"
+                "x": "Helldivers 2의 Automatons는 생성형 AI에 대한 논평이 아니다. 대체로 Terminators로 채워진 소련을 패러디한 존재다."
+              },
+              {
+                "t": "p",
+                "x": "Arrowhead는 한도 안에서 이 기술을 쓰는 데 열려 있는 듯하다. CEO Shams Jorjani는 The Game Business에 AI 논쟁이 결국 “스펙트럼의 양 극단”으로 치닫는다며 “어쩌면 현실은 그 중간 어딘가에 있는 것 아닐까?”라고 물었다. 그는 또 “사람들의 지식재산과 권리를 훔치지 않도록 해야 한다”고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIに大槌を振るう\nナラティブゲーム",
-          "body": "Deconstructeamの新作は、心を宿すロボットとサーバーを壊すAIの物語だ。",
-          "mini_headline": "AIに抗うゲーム",
+          "headline": "Helldivers 2幹部\n生成AIパロディを構想",
+          "body": "ArrowheadのJohan Pilestedtは生成AI風刺ゲームに軽妙さを求めた。",
+          "mini_headline": "Helldivers幹部、AIパロディを構想",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "バレンシアを拠点とする(Valencia-based)Deconstructeamと共同開発(co-developer)のSelkie Harbourによる最新作『Virtue and a Sledgehammer』では、Pratelleの姉妹Ninaが、死にゆく母の脳をデジタル化して人工の器に移す。その技術は広がって町を飲み込み、Pratelleはあらゆるサーバーとロボットを粉々にする覚悟で大槌を手に戻ってくる。"
+                "x": "Arrowheadのチーフクリエイティブオフィサー、Johan Pilestedtは、Helldiversのスタジオが今日の生成AI技術を風刺・パロディするビデオゲームを開発することを十分に想像できるという。ただしHelldiversのプロジェクトにはならず、比較的明るいものである必要があるとしている。"
               },
               {
                 "t": "p",
-                "x": "AftermathのHarper Jay MacIntyreは、より端的に言えばこれはAIについてのゲームだと書く。日常生活への技術の侵入、そしてChatGPTやClaudeのような「イノベーション」が私たちの職場や家庭を蝕んできたことについてのゲームだという。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "「AIは80年代からパロディの対象になってきた。事実上の神であるAIの支配者がいる世界に閉じ込められるゲームは十分に考えられる」とPilestedtは語った。「だがHelldivers 2ではAutomatonsがすでにロボットの敵役を担っている。その方向に進むなら新タイトルになるだろうし、悲観的なものではなく、風変わりで楽しい形で描きたい」"
               },
               {
                 "t": "p",
-                "x": "町の一角では、機械の人々が自分たちの体が埋葬された場所の上にサーバーラックを築き、自らを保存するバックアップデータを収めている。クレジットには「AIに毒されたこの新しい時代に、小さなクリエイターでいることは気が滅入ることもある」というメッセージがある。最後までにMacIntyreは546体のロボットを粉々にした。「もしかすると、皆を救う唯一の方法は、大槌を手に最寄りのデータセンターへ行進することなのかもしれない」"
+                "x": "Helldivers 2のAutomatonsは生成AIへの論評ではない。おおむね、Terminatorsが住むソビエト・ロシアのパロディだ。"
+              },
+              {
+                "t": "p",
+                "x": "Arrowheadは一定の範囲内でこの技術を使うことには前向きなようだ。CEOのShams JorjaniはThe Game Businessに対し、AIをめぐる議論は「スペクトラムの両極端」に行き着くと述べ、「もしかすると現実はその中間のどこかにあるのではないか」と問いかけた。また「人々の知的財産や権利を盗んでいないことを確実にする必要がある」とも強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一款叙事游戏\n抡起大锤砸向AI",
-          "body": "评论称Deconstructeam的新作关乎AI:一名女子砸毁承载心智的机器人和服务器。",
-          "mini_headline": "一款对抗AI的游戏",
+          "headline": "Helldivers 2老板\n构思生成式AI恶搞游戏",
+          "body": "Arrowhead的Johan Pilestedt称，讽刺生成式AI的游戏应诙谐而非沉重。",
+          "mini_headline": "Helldivers老板构思AI恶搞游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "在总部位于瓦伦西亚(Valencia-based)的Deconstructeam与联合开发商(co-developer)Selkie Harbour推出的新作《Virtue and a Sledgehammer》中,Pratelle的姐妹Nina将垂死母亲的大脑数字化,装进一副人造躯壳。这项技术不断扩散,吞噬了她们的小镇,Pratelle带着一把大锤归来,准备把每一台服务器和机器人砸得粉碎。"
+                "x": "Arrowhead首席创意官Johan Pilestedt完全能想象这家Helldivers工作室开发一款讽刺或恶搞当今生成式AI技术的电子游戏。它不会是Helldivers项目，而且需要相对轻松明快。"
               },
               {
                 "t": "p",
-                "x": "Aftermath的Harper Jay MacIntyre写道,更直白地说,这是一款关于AI的游戏——关于技术侵入日常生活,以及ChatGPT或Claude这类“创新”如何侵染我们的工作场所和家庭。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "“从80年代起，AI就一直值得拿来恶搞。我完全能想象这样一款游戏：你被困在一个由几乎等同于神的AI霸主统治的世界里，”Pilestedt说。“不过在Helldivers 2里，Automatons已经满足了我们对机器人敌人的需求，所以如果要做这个方向，那会是一款新作，而且我们会希望用古怪、有趣的方式来呈现，而不是阴郁沉重的方式。”"
               },
               {
                 "t": "p",
-                "x": "在小镇的一角,机械人在埋葬自己身体的地方上方搭起服务器机架,存放着保存他们的备份数据。片尾字幕写着一句话:“在这个被AI毒害的新时代,做一个小创作者可能会令人沮丧。”到最后,MacIntyre砸碎了546个机器人。“也许拯救所有人的唯一办法,就是拿起大锤,向最近的数据中心进发。”"
+                "x": "Helldivers 2中的Automatons并不是对生成式AI的评论；它们大致是在戏仿一个住满Terminators的苏联。"
+              },
+              {
+                "t": "p",
+                "x": "Arrowhead似乎愿意在一定限度内使用这项技术。CEO Shams Jorjani对The Game Business表示，AI争论最终会走向“光谱的两个极端”，并发问：“也许现实就在中间某处？”他还强调，“我们必须确保自己没有窃取别人的知识产权和权利”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un juego narrativo\nque le da un mazazo a la AI",
-          "body": "El nuevo juego de Deconstructeam trata de la AI: una mujer destroza robots y servidores que guardan mentes.",
-          "mini_headline": "Un juego contra la AI",
+          "headline": "El jefe de Helldivers 2 sopesa\nuna parodia de la AI generativa",
+          "body": "Johan Pilestedt, de Arrowhead, dice que un juego que satirice la AI generativa tendría que ser peculiar, no sombrío.",
+          "mini_headline": "El jefe de Helldivers sopesa una parodia de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/20261027115626_1.jpg"
+                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "En Virtue and a Sledgehammer, el nuevo juego de Deconstructeam, estudio con sede en Valencia (Valencia-based), y de la codesarrolladora (co-developer) Selkie Harbour, Nina, la hermana de Pratelle, digitaliza el cerebro de su madre moribunda en un cuerpo artificial. La tecnología se extiende y consume su pueblo, y Pratelle regresa con un mazo, dispuesta a hacer añicos cada servidor y cada robot."
+                "x": "El director creativo de Arrowhead, Johan Pilestedt, se imagina perfectamente al estudio de Helldivers desarrollando un videojuego que satirice o parodie la tecnología de AI generativa actual. No sería un proyecto de Helldivers y tendría que ser relativamente optimista."
               },
               {
                 "t": "p",
-                "x": "Harper Jay MacIntyre, de Aftermath, escribe que, de forma más directa, este es un juego sobre la AI: sobre la intrusión de la tecnología en la vida cotidiana y la manera en que “innovaciones” como ChatGPT o Claude han infectado nuestros lugares de trabajo y nuestros hogares."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/20261027123820_1.jpg"
+                "x": "“La AI ha merecido una parodia desde los años 80, y puedo imaginar perfectamente un juego en el que estás atrapado en un mundo con un señor supremo de AI que es básicamente una deidad”, dijo Pilestedt. “Pero los Automatons ya cubren nuestras necesidades de enemigos robóticos en Helldivers 2, así que si fuéramos por ahí, sería un título nuevo, y querríamos plantearlo de forma peculiar y divertida en lugar de sombría”."
               },
               {
                 "t": "p",
-                "x": "En una parte del pueblo, las personas máquina han construido racks de servidores sobre el lugar donde están enterrados sus cuerpos, con los datos de respaldo que las preservan. Los créditos incluyen un mensaje: “Puede ser desalentador ser un creador pequeño en esta nueva era envenenada por la AI”. Al final, MacIntyre había hecho añicos 546 robots. “Quizá la única forma de salvar a todos sea coger un mazo y marchar hacia el centro de datos más cercano”."
+                "x": "Los Automatons de Helldivers 2 no son un comentario sobre la AI generativa; son, a grandes rasgos, una parodia de la Rusia soviética como si la hubieran poblado Terminators."
+              },
+              {
+                "t": "p",
+                "x": "Arrowhead parece abierta a usar la tecnología dentro de ciertos límites. Su CEO, Shams Jorjani, dijo a The Game Business que los debates sobre la AI acaban “en los dos extremos del espectro” y preguntó: “¿Quizá la realidad esté en algún punto intermedio?”. También subrayó que “tenemos que asegurarnos de que no estamos robando la propiedad intelectual y los derechos de las personas”."
               }
             ]
           }

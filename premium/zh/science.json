@@ -9012,6 +9012,120 @@
           "x": "在较简单的自旋体系中，该算法与部分现有最佳方法持平；在更复杂的体系中，它的信号增强比参考方法高出约70%。每次优化耗时从不到两天到将近五天不等，但有效的序列可以重复使用。这项发表于Science Advances的概念验证研究，或有助于基于磁共振的量子传感器。"
         }
       ]
+    },
+    "science/bbert-soil-dna-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
+          "cap": "摘要。来源：Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+        },
+        {
+          "t": "p",
+          "x": "Hebrew University of Jerusalem及合作机构的研究人员开发了AI工具BBERT，可识别短至100个碱基的细菌DNA片段。BBERT不把序列与参考数据库比对，而是学习细菌DNA的模式，因此有助于识别数据库中缺失的生物。"
+        },
+        {
+          "t": "p",
+          "x": "在基准测试中，它区分细菌与非细菌DNA的准确率约为90%。用BBERT过滤后，模拟混合样本的基因组重建时间从每个数据集约66小时缩短至25小时，同时保留约96%的细菌基因组覆盖度；它还能在配备合适显卡的个人电脑上运行。"
+        },
+        {
+          "t": "p",
+          "x": "其局限包括会把叶绿体DNA误判为细菌、难以区分细菌与古菌，以及偶尔丢失细菌信息。该研究发表于Nucleic Acids Research。"
+        }
+      ]
+    },
+    "science/turing-followup-questions-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
+          "cap": "三项语言任务的Turing式测试。来源：Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
+        },
+        {
+          "t": "p",
+          "x": "由Mengmi Zhang领导的Nanyang Technological University团队分析了72,000多次判断，对象是636名人类和37个AI模型在六类任务中的回答，任务从撰写图片说明到识别图像中的颜色和物体。在受控语言测试中，判断者正确认出作者的比例仅约53–57%，只略高于随机水平。"
+        },
+        {
+          "t": "p",
+          "x": "在一项规模较小的实验中，判断者可以向一个人和一个聊天机器人提问，自行选择话题和追问。他们在全部七次对话中都识别出了GPT-3.5-Turbo，不过文风和回复时机可能暴露了它。在28名参与者使用Llama-3-70B-Instruct进行的188次试验中，判断者仍会出错，但随着对话变长，识别机器回答的能力有所提高。"
+        },
+        {
+          "t": "p",
+          "x": "作者提醒，这些实验无法单独分离提问本身的作用，结果也未必适用于更新的系统。该研究发表于Nature Human Behaviour。"
+        }
+      ]
+    },
+    "science/lumina-lunar-landing-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
+          "cap": "概念性AI可视化：映射月球环境数据图层以确定目标着陆点。（来源：The Ohio State University）"
+        },
+        {
+          "t": "p",
+          "x": "The Ohio State University的研究人员在AAS Division for Planetary Sciences第58届年会（DPS 58）上发布了LUMINA。这是一个智能体式AI框架，旨在帮助任务规划人员评估安全的月球着陆点，重点关注水冰等关键资源及潜在科学价值。"
+        },
+        {
+          "t": "p",
+          "x": "LUMINA不只依赖轨道图像：它还纳入地形与地形危险、科学价值、地质、表面特性，甚至会对候选着陆点进行相互比较。团队设想将其应用于其他行星天体，特别是火星。"
+        },
+        {
+          "t": "video",
+          "yt": "iJQdny3-T2Q"
+        },
+        {
+          "t": "p",
+          "x": "“AI系统将成为太空探索的关键工具，”第一作者、Ohio State的PhD候选人Gokce Inal说。LUMINA建立在该团队早先的Large Language-and-Vision Assistant for Lunar Exploration（LLaVA-LE）基础上，后者可分析并描述月球表面的轨道图像。"
+        }
+      ]
+    },
+    "science/skku-sag-agent-feedback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
+          "cap": "OGBench。来源：arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+        },
+        {
+          "t": "p",
+          "x": "Sungkyunkwan University的Prof. Minhae Kwon带领团队开发了两种AI方法，用于在漫长的多步骤任务中降低计算成本、提高可靠性，着眼于机器人和自动驾驶。两项成果均被第40届Conference on Neural Information Processing Systems（NeurIPS 2026）接收。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
+          "cap": "Selective Critique（SAG）框架概念图。"
+        },
+        {
+          "t": "p",
+          "x": "SAG智能体并不在每一步都咨询高性能模型，而是评估自身的不确定性，只在可能值得付出成本时才寻求外部反馈，就像学生只拿难题去问老师。它还会积累成功经验，减少对反馈的依赖。由此，计算资源消耗降至传统方法的约三分之一，复杂虚拟环境中的任务成功率从24.6%提高到78.3%。"
+        },
+        {
+          "t": "p",
+          "x": "第二种方法VAN-Flow是一种离线强化学习方法，可过滤掉依赖偶然性的不可靠行为；它在40多项机器人控制仿真任务中优于大多数最先进方法。"
+        }
+      ]
+    },
+    "science/linkoping-mxene-mining": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/2dmaterial.jpg",
+          "cap": "2-d 材料。Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Linköping University的研究人员利用AI在材料数据库中搜寻MXenes。MXenes是一类超薄2D材料，于2011年首次被发现。此次搜索找出了33种此前被忽视的MXenes。"
+        },
+        {
+          "t": "p",
+          "x": "受这些发现启发，团队合成了11种新的MXenes。他们还在无需外部加热的条件下数秒内制得MXenes，所用有害化学品和水都少于以往方法。"
+        },
+        {
+          "t": "p",
+          "x": "用稀土金属替换部分金属后，材料具有了磁性，有望拓宽其在能源和数据存储领域的用途。领导该团队的Johanna Rosén表示：“文献和数据库是宝库。”该研究发表于Science。"
+        }
+      ]
     }
   }
 }

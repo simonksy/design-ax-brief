@@ -9465,6 +9465,171 @@
           "x": "专用按钮可关闭麦克风和摄像头，向云端传输画面时内置LED会亮起。考虑到Amazon在Ring摄像头上的过往，一些注重隐私的用户可能会选择不带摄像头的替代产品。Echo Studio With Home Camera售价$250，比无摄像头版本贵$30。"
         }
       ]
+    },
+    "gadgets/gemini-live-offline-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
+          "cap": "Tushar Mehta / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Android Authority的一次拆解显示，Gemini Live可能会获得离线模式。对Android版Google应用（v17.71.17）的拆解发现了两条字符串：\"Offline mode\"和\"Use Gemini Live without an internet connection.\"。字符串名称\"ui_account\"表明，该选项可能出现在Gemini的账户切换菜单中。"
+        },
+        {
+          "t": "p",
+          "x": "目前尚不清楚其工作方式。Gemini Live依赖快速、连续的语音识别、极快的对话响应以及语音合成，Android Authority推测离线模式可能比云端模式更慢、准确度更低。同样不清楚的是，这一纯本地模式是否支持摄像头和屏幕共享。"
+        },
+        {
+          "t": "p",
+          "x": "离线版Gemini Live可能无法使用完整的Gemini聊天机器人，因为后者所需的RAM和算力对智能手机来说过于庞大。不过，许多新款Android手机都在运行端侧Gemini Nano模型以及ARCore服务，因此离线模式理论上可以借助Gemini Nano处理不太复杂的任务。"
+        },
+        {
+          "t": "p",
+          "x": "Google本月初为Gemini Live加入了Guided Vision，并于9月加入了实时翻译。APK拆解基于仍在开发中的代码，预测的功能未必会出现在公开版本中。"
+        }
+      ]
+    },
+    "gadgets/logitech-mx-master4-devedition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
+          "cap": "MX Master 4 Developer Edition采用双色外观，配有黄色点缀和受编程启发的细节"
+        },
+        {
+          "t": "p",
+          "x": "Logitech在10月30日至31日于上海举行的Creative Day活动上推出了MX Master 4 Developer Edition。该公司称，这是MX系列20多年历史上的首款特别版。"
+        },
+        {
+          "t": "p",
+          "x": "该特别版采用浅灰与银色外观，搭配深灰色掌托和亮绿色点缀。表面饰有编程相关元素、语法提示和受电路启发的图案。这一设计旨在向开发者致敬，而非硬件升级。Logitech此前曾在其US官网上以MX Master 4 Special Edition的名称列出了同一款开发者主题鼠标。"
+        },
+        {
+          "t": "p",
+          "x": "Developer Edition保留了标准版MX Master 4的功能，包括MagSpeed滚轮、Haptic Sense Panel和Actions Ring。"
+        },
+        {
+          "t": "p",
+          "x": "Logitech通过Logi Options+应用中的插件支持这款AI助手，用户可将兼容设备的快捷键分配给WorkBuddy功能，包括会议摘要、实时翻译和文档生成。该插件支持Windows和macOS。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
+          "cap": "使用中的Logitech MX Master 4 Developer Edition"
+        },
+        {
+          "t": "p",
+          "x": "Logitech MX Master 4 Developer Edition的中国官方售价为999元（约$150），而MX Master 4 Special Edition在US的标价为$119.99。JD.com在叠加中国国家补贴后以899元（约$135）的价格销售中国版。购买还附赠500个Tencent WorkBuddy积分。Logitech尚未确认WorkBuddy促销活动是否会在其他市场推出。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
+          "cap": "底部视图"
+        }
+      ]
+    },
+    "gadgets/arrowspace-s1-ai-screwdriver": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
+          "cap": "图片：Arrowmax"
+        },
+        {
+          "t": "p",
+          "x": "Arrowmax希望让摄像头与AI协同工作，使电动螺丝刀变得更智能，省去反复试错寻找所需批头准确类型和尺寸的过程，因为选错尺寸可能导致螺丝滑丝。"
+        },
+        {
+          "t": "p",
+          "x": "Arrowspace S1正在Kickstarter上众筹：螺丝刀单品约$79，搭配S1智能批头盒的套装约$129。正式零售价会更高，S1预计最早要到2027年4月才会发货。"
+        },
+        {
+          "t": "p",
+          "x": "S1底部有一个带LED灯的小型摄像头，用于拍摄螺丝头图像。旁边的\"精密接触探针\"（\"precision contact probe\"）会伸出并抵在螺丝上，使摄像头始终处于AI模型的理想对焦距离。"
+        },
+        {
+          "t": "video",
+          "yt": "D36kpU-VaDA"
+        },
+        {
+          "t": "p",
+          "x": "AI处理照片后，所需批头的类型和尺寸会显示在连接的手机应用中，螺丝刀也会自动选择安全的扭矩设置。选配的S1 Smart Case可容纳52支钢制批头，每支旁边都有一个LED，会点亮所需的那一支。"
+        },
+        {
+          "t": "p",
+          "x": "据称其600mAh电池最长可工作90分钟，或拧紧、拧松900多颗螺丝。OLED屏幕会显示剩余电量、扭矩设置和旋转方向。"
+        }
+      ]
+    },
+    "gadgets/gemini-overlay-sparkle-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
+          "cap": "Akshay Gangwar / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Google热衷于重新设计，而Gemini是它最热衷重新设计的产品之一。我们已经看到该公司为Circle to Search和Gemini Live试验新动画。我们还发现了一款新的Gemini动画，它后来登陆了Pixel 11系列。如果你希望不买新Pixel也能用上这套新的Gemini设计，那么你很幸运。"
+        },
+        {
+          "t": "p",
+          "x": "一次新的Google应用更新终于将更新后的Gemini设计带到所有Android设备上（经由9to5Google发现）。这次重新设计将Google的Neural Expressive设计语言引入Gemini悬浮窗，并在\"Ask Gemini\"文本框周围加入了闪烁效果和细小圆点。"
+        },
+        {
+          "t": "video",
+          "yt": "_BIvK2IftiY"
+        },
+        {
+          "t": "p",
+          "x": "不过，新变化并不只有开场动画。动画结束后，\"Ask Gemini\"文本框的边缘现在带有轻微阴影，看起来更有立体感。这种阴影在深色模式下更明显。在浅色模式下，它看起来和以前几乎一样。"
+        },
+        {
+          "t": "p",
+          "x": "值得注意的是，这次重新设计是Google应用更新的一部分。你可以前往Play Store，将手机上的Google应用更新到最新版本，以获得新动画。如果仍未看到，可以尝试强制停止手机上的Google应用。"
+        }
+      ]
+    },
+    "gadgets/rokid-glasses2-microled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+          "cap": "Rokid Glasses 2的设计更加舒适。"
+        },
+        {
+          "t": "p",
+          "x": "Rokid推出了第二代搭载microLED显示屏的智能眼镜。新款眼镜设计更舒适，电池容量更大，音频得到升级，并支持AI智能体。"
+        },
+        {
+          "t": "p",
+          "x": "Rokid Glasses 2采用方圆形（squircle）镜框，搭配柔性镜腿，镜腿张开幅度比上一代最多宽22%。眼镜保留了上一代的IPX4防护等级。据称升级后的镜片反光减少70%，microLED光波导显示屏（单绿色显示）分辨率为480 × 380，视场角25°，亮度1500 nits。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+          "cap": "Rokid Glasses 2由Snapdragon AR1+驱动。"
+        },
+        {
+          "t": "p",
+          "x": "眼镜采用BES2800BP与Snapdragon AR1+双处理器，RAM和存储仍为2GB 和32GB 。12MP 摄像头可录制4K 30fps 视频，升级后的扬声器支持Dolby Audio，另配有四个全向麦克风和一个骨传导麦克风。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+          "cap": "Rokid Glasses 2支持Dolby Audio。"
+        },
+        {
+          "t": "p",
+          "x": "Rokid Glasses 2支持实时翻译，能识别你所看到的事物并提供相关信息，还能录制并转写会议和想法。Rokid还表示，Glasses 2支持Hermes、Codex、OpenClaw、Alibaba的Qoder、Tencent的WorkBuddy以及OpenCode等桌面智能体。"
+        },
+        {
+          "t": "p",
+          "x": "263mAh 电池比上一代的210mAh 更大。Black 款售价CNY 3699（~$555/€498），Tortoiseshell 款售价CNY 3849（~$577/€518）；现已开放预订，将于11月11日发售。Rokid尚未公布在中国以外地区的发售时间。"
+        }
+      ]
     }
   }
 }

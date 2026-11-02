@@ -8562,6 +8562,132 @@
           "x": "At Penguin Random House, workers say they’ve been encouraged to use ChatGPT Enterprise even though PRH’s German division is suing OpenAI. Several bestselling Big Five authors say their relationships with publishers have suffered due to AI use. “The bare minimum we're asking for is disclosure,” one author says."
         }
       ]
+    },
+    "books/anthropic-taa-textbook-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Amid a growing number of disputes, TAA Executive Director Kim Pawlak asked the court to “consider and acknowledge the inherent burden on authors” in the $1.5 billion settlement claims process compared to the better-resourced publishers."
+        },
+        {
+          "t": "p",
+          "x": "“The majority of claimants contacting TAA have been textbook (educational) authors, whose works do not benefit from the 50-50 default split afforded by the settlement to trade and academic works,” Pawlak writes. Some have been outraged by publishers’ claimed allocations, “which in many cases range from 85% to 95% of the settlement proceeds for the work.”"
+        },
+        {
+          "t": "p",
+          "x": "Authors with disputed claims have been told they must “meet and confer” with their publisher, a “daunting prospect” for many who lack publisher contacts or copies of older contracts — contracts that “make no mention of AI training or class settlements.” Most authors also cannot afford an attorney, and the claims portal has been “riddled with technical problems.”"
+        },
+        {
+          "t": "p",
+          "x": "“It is not fair, and it is getting more unfair by piling up procedure after procedure—on the fly—and with increased hurdles for authors to surmount,” Pawlak writes, adding that the settlement “should not come at the cost of fairness to educational authors—roughly 25% of the class.”"
+        },
+        {
+          "t": "p",
+          "x": "The letter follows TAA joining the Authors Guild and other groups last month in calling on publishers to voluntarily relinquish claims on out-of-print books and use part of their payouts to pay authors excluded because their copyrights weren’t registered."
+        }
+      ]
+    },
+    "books/gemini-notebook-textbooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses."
+        },
+        {
+          "t": "p",
+          "x": "Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more."
+        },
+        {
+          "t": "p",
+          "x": "To explore and add these textbooks, select “Add sources” within your notebook and select “Textbooks” to see the available catalog."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
+        }
+      ]
+    },
+    "books/china-ai-shrimp-recall": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
+          "cap": "A social media post pointing out an erroneous image of a \"two-headed shrimp\""
+        },
+        {
+          "t": "p",
+          "x": "A social media post pointing out an erroneous image of a \"two-headed shrimp\" in a popular science book series on South China Sea marine life has drawn public attention. A staff member at the China Agricultural Publishing House was quoted as saying in media reports on Tuesday that the publisher was aware of the issue and was notifying sellers across online platforms to remove the books from sale and recall copies already distributed."
+        },
+        {
+          "t": "p",
+          "x": "Some readers on China's social media platform Sina Weibo pointed out that the books they purchased contain a preface explicitly stating that the vast majority of the illustrations were generated using AI tools."
+        },
+        {
+          "t": "p",
+          "x": "A reader noticed an erroneous image of a \"two-headed shrimp\" in the series, appearing both on the cover and an inside page, titled Penaeus monodon or Giant tiger prawn."
+        },
+        {
+          "t": "p",
+          "x": "Some readers questioned the illustrations, saying that \"it's not that AI can't be utilized, but surely some basic rules should be followed, right?\""
+        },
+        {
+          "t": "p",
+          "x": "On October 27, a staff member at China Agricultural Publishing House was quoted as saying in the media reports that the publisher was aware of the situation."
+        },
+        {
+          "t": "p",
+          "x": "A representative from the publisher's reader service hotline said the publisher was notifying online retail platforms to remove the books in question from sale and arrange for their recall."
+        }
+      ]
+    },
+    "books/kpa-corpus-settlement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Korean Publishers Association (hereafter the Association) said that a settlement amount reached in the past to resolve a dispute should not become the going rate for future AI training data deals, in connection with the National Institute of Korean Language corpus case now under final appeal at the Supreme Court."
+        },
+        {
+          "t": "p",
+          "x": "In the National Institute of Korean Language written corpus case, 1만 5,933 published works, or about 6억 2,272만 eojeol (word units), were used without copyright holders’ permission in the ‘written corpus source text collection’ project commissioned by the National Institute of Korean Language and carried out by Woongjin Booxen. After the Association and Woongjin Booxen settled in January 2023, authors who did not join the settlement sued for damages and won at the 1st-instance trial. On appeal, the damages were reduced based on the settlement terms and other grounds, and the case is now under final appeal."
+        },
+        {
+          "t": "p",
+          "x": "In a press release on the 30th, the Association warned that “such a settlement amount should not be used as a general benchmark for setting the price of using AI training data,” adding that “if such amounts come to be accepted as a ‘standard price’ in public projects or in private AI companies’ data acquisition, the new market could be distorted from the start.”"
+        },
+        {
+          "t": "p",
+          "x": "As reasons, the Association noted that the settlement weighed the public-interest purpose of building national language resources and the need to resolve the dispute; that it settled past infringement and set terms for future use together; that it includes a ‘most-favored-nation’ clause leaving room for additional payments; and that the price of a license varies with the purpose and period of use, the scope of data and the number of companies using it."
+        },
+        {
+          "t": "p",
+          "x": "“For a new market to form in a healthy way, principles of prior permission and fair compensation are needed,” the Association said, adding, “We will work to build a trading order in which publishing and the AI industry can grow together.”"
+        }
+      ]
+    },
+    "books/books-openai-fairuse-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Four publishing and copyright organisations have urged a US court to reject OpenAI’s fair-use defence in a major copyright infringement case, arguing that the company’s use of copyrighted works to train its AI models threatens authors’ livelihoods, undermines licensing markets and enables the creation of competing books."
+        }
+      ]
     }
   }
 }

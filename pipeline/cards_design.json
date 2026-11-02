@@ -1,251 +1,227 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "design",
   "cards": [
     {
-      "id": "figma-fluent-edit-model",
+      "id": "adobe-editagent-toolpicker",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma가 직접 학습한\n빠른 디자인 편집 모델",
-      "body": "Figma가 자체 포맷으로 모델을 미세조정해 간격·색·레이아웃 편집 속도를 높였다.",
-      "mini_headline": "Figma 자체 편집 모델",
-      "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "accent": "#0070f3",
-      "motif": "frame",
+      "headline": "EditAgent,\n편집마다 도구를 고른다",
+      "body": "Adobe·UC San Diego의 EditAgent는 단계별로 도구를 바꿔 쓴다.",
+      "mini_headline": "도구를 골라 쓰는 Adobe EditAgent",
+      "tool": "KeyShot",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-          },
-          {
             "t": "p",
-            "x": "특화된 사후 학습이 프런티어 모델과 겨룰 수 있다는 사실이 갈수록 자주 확인된다. 일상 디자인 작업은 대개 더 작고 반복적이며 정답을 검증하기도 어렵다. 간격을 맞추고 색을 바꾸고, 피드백에 따라 레이아웃을 다시 짜는 식이다. Figma 에이전트가 범위가 분명한 과제, 곧 디자이너가 캔버스에 이미 올려 둔 작업을 편집하는 일에서 출발한 이유다."
-          },
-          {
-            "t": "p",
-            "x": "프런티어 모델은 Figma 문법을 이해하지 못했고, 그래서 지도 미세조정(SFT)에 투자했다. 디자인을 Figma 고유 파일 포맷으로 표현하고, 캔버스에 다시 적용할 수 있는 변경을 모델이 만들도록 학습시켰다. 편집은 더 큰 교사 모델이 시도했고, 결과는 결정론적 검증기와 시각 모델 심사자가 확인했다. 예시 250,000개 이상으로 학습한 초기 Llama 3.3 70B 모델 하나가 편집 과제에서 당시 최상위 모델과 대등한 성능을 냈다."
+            "x": "Adobe 연구진이 범용 편집기와 전용 도구를 묶은 이미지 편집 AI 에이전트를 만들었다. Adobe Research와 UC San Diego 연구진이 그리는 EditAgent는 Photoshop을 다루는 전문가처럼 일한다. 작업마다 알맞은 도구를 고르고 결과를 원본과 구체적인 수치로 비교한다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-            "cap": "초기 SFT 파이프라인"
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+            "cap": "EditAgent는 같은 편집기를 되풀이해 돌리지 않는다. 서로 다른 방법으로 후보를 병렬로 만들고 손대지 않은 언어 모델이 이를 한꺼번에 비교한다. | Image: Adobe"
           },
           {
             "t": "p",
-            "x": "이후 최신 Qwen 모델 등 더 뛰어난 기반 모델로 옮겼고, 강화학습(RL)에도 투자한다. 정렬·대비·요청 충족 같은 항목을 따로 평가하는데, 구조 검사와 전문 디자이너가 보정한 시각 심사자를 함께 쓴다."
+            "x": "전문가 다섯 명이 이미지 편집 600건을 블라인드로 평가했다. 범용 편집기 Flux-2-Klein-9B 모델은 42.7퍼센트에서 쓸 만한 결과를 내지 못했고, 전용 도구가 이런 실패의 약 삼분의 이를 해결했다. 한쪽을 고른 비교의 78.5퍼센트에서 전문가들은 원본에서 바로 병렬 생성한 변형을 택했다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-            "cap": "Qwen 3.8 27B 기반으로 사후 학습한 미공개 최신 Figma 편집 모델과 다른 서드파티 모델의 디자인 편집 과제 비교"
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+            "cap": "EditAgent는 요청을 연속된 단계로 쪼개고 단계마다 후보를 여러 개 만든다. | Image: Adobe"
           },
           {
             "t": "p",
-            "x": "에이전트는 이 모델을 주요 서드파티 모델과 나란히 돌린다. 일반 작업은 약 20% 빨라졌다. 새 에이전트의 결과는 62%의 경우 이전 프로덕션 에이전트와 같거나 나았다. 사용자 평점은 33% 올랐고, 작업을 되돌리는 빈도는 60% 줄었다."
+            "x": "판정 모델은 변형마다 검증 기록을 받는다. 편집 부위 클로즈업과 변화 맵, 측정한 밝기·색상 통계가 들어 있다. 이 기록을 주자 시험한 언어 모델 일곱 개가 하나같이 미세조정 모델 전부를 앞섰다. Qwen3.8-27B 모델은 81.3퍼센트에서 쓸 만한 쪽을 골랐고 EditScore-72B 모델은 74.8퍼센트였다."
+          },
+          {
+            "t": "p",
+            "x": "뒤 편집이 앞 편집을 되돌리지 않았는지도 EditAgent가 살핀다. 연산은 단일 편집기의 약 열 배가 든다. 대신 검증을 거친 예시 약 26,000개 덕분에 미세조정 편집기의 성능이 세 벤치마크에서 모두 올랐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Figma trains its own model\nfor fast design edits",
-          "body": "Figma fine-tuned a model on its native file format so its agent can make quick spacing, color and layout edits.",
-          "mini_headline": "Figma's own editing model",
+          "headline": "Adobe's EditAgent picks\nthe right tool for each edit",
+          "body": "EditAgent, from Adobe Research and UC San Diego, picks a specialized tool for each image-editing step.",
+          "mini_headline": "Adobe EditAgent picks its tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "We’ve increasingly seen that specialized post-training can compete with frontier models. A lot of everyday design work is smaller, more iterative, and often non-verifiable: adjust the spacing, change a color, rework a layout after feedback. So the Figma agent started with a focused task: help designers make edits to the work already on their canvas."
-              },
-              {
-                "t": "p",
-                "x": "Frontier models couldn’t understand Figma syntax, so we invested in supervised fine-tuning (SFT). We represented designs in Figma’s native file format, so the model learned to produce changes we could apply back to the canvas. Larger teacher models attempted edits, checked by deterministic validators and visual model judges. One of our earlier Llama 3.3 70B models, trained on more than 250,000 examples, was competitive on editing tasks with top models at the time."
+                "x": "Adobe researchers built an AI agent for image editing that pairs a general-purpose editor with specialized tools. Researchers at Adobe Research and UC San Diego want EditAgent to work more like a pro in Photoshop: it picks the right tool for each task and compares the result against the original using hard numbers."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "Our earliest SFT pipeline"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "Instead of retrying the same editor over and over, EditAgent generates candidates with different methods in parallel and has an unmodified language model compare them all at once. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "We’ve since moved to more capable base models, including newer Qwen models, and are investing in Reinforcement Learning (RL). We evaluate dimensions like alignment, contrast and request fulfillment separately, combining structural checks with visual judges calibrated by expert designers."
+                "x": "In a test of 600 image edits, blind-rated by five professionals, the general-purpose editor Flux-2-Klein-9B failed to produce a usable result 42.7 percent of the time. Specialized tools solved roughly two-thirds of those failures. Professionals preferred parallel variants generated from the original in 78.5 percent of the comparisons where they picked a side."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "Comparing the latest unreleased Figma edits model, post-trained on Qwen 3.8 27B with other third-party models on design editing tasks"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgent breaks a request into dependent steps and generates multiple candidates per step. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "The agent runs this model alongside leading third-party models. Typical tasks are about 20% faster; the new agent beats or matches the previous production agent 62% of the time, user ratings are 33% higher, and users undo its work 60% less often."
+                "x": "For each variant, the judge model gets a verification record with a close-up of the edited area, a change map and measured brightness and color statistics. With it, all seven language models tested beat every fine-tuned model: Qwen3.8-27B made a usable pick 81.3 percent of the time, compared to 74.8 percent for EditScore-72B."
+              },
+              {
+                "t": "p",
+                "x": "EditAgent also checks whether later edits undid earlier ones. It needs about ten times as much compute as a single editor, but its roughly 26,000 verified examples made fine-tuned editors better across all three benchmarks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Figma가 직접 학습한\n빠른 디자인 편집 모델",
-          "body": "Figma가 자체 포맷으로 모델을 미세조정해 간격·색·레이아웃 편집 속도를 높였다.",
-          "mini_headline": "Figma 자체 편집 모델",
+          "headline": "EditAgent,\n편집마다 도구를 고른다",
+          "body": "Adobe·UC San Diego의 EditAgent는 단계별로 도구를 바꿔 쓴다.",
+          "mini_headline": "도구를 골라 쓰는 Adobe EditAgent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "특화된 사후 학습이 프런티어 모델과 겨룰 수 있다는 사실이 갈수록 자주 확인된다. 일상 디자인 작업은 대개 더 작고 반복적이며 정답을 검증하기도 어렵다. 간격을 맞추고 색을 바꾸고, 피드백에 따라 레이아웃을 다시 짜는 식이다. Figma 에이전트가 범위가 분명한 과제, 곧 디자이너가 캔버스에 이미 올려 둔 작업을 편집하는 일에서 출발한 이유다."
-              },
-              {
-                "t": "p",
-                "x": "프런티어 모델은 Figma 문법을 이해하지 못했고, 그래서 지도 미세조정(SFT)에 투자했다. 디자인을 Figma 고유 파일 포맷으로 표현하고, 캔버스에 다시 적용할 수 있는 변경을 모델이 만들도록 학습시켰다. 편집은 더 큰 교사 모델이 시도했고, 결과는 결정론적 검증기와 시각 모델 심사자가 확인했다. 예시 250,000개 이상으로 학습한 초기 Llama 3.3 70B 모델 하나가 편집 과제에서 당시 최상위 모델과 대등한 성능을 냈다."
+                "x": "Adobe 연구진이 범용 편집기와 전용 도구를 묶은 이미지 편집 AI 에이전트를 만들었다. Adobe Research와 UC San Diego 연구진이 그리는 EditAgent는 Photoshop을 다루는 전문가처럼 일한다. 작업마다 알맞은 도구를 고르고 결과를 원본과 구체적인 수치로 비교한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "초기 SFT 파이프라인"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "EditAgent는 같은 편집기를 되풀이해 돌리지 않는다. 서로 다른 방법으로 후보를 병렬로 만들고 손대지 않은 언어 모델이 이를 한꺼번에 비교한다. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "이후 최신 Qwen 모델 등 더 뛰어난 기반 모델로 옮겼고, 강화학습(RL)에도 투자한다. 정렬·대비·요청 충족 같은 항목을 따로 평가하는데, 구조 검사와 전문 디자이너가 보정한 시각 심사자를 함께 쓴다."
+                "x": "전문가 다섯 명이 이미지 편집 600건을 블라인드로 평가했다. 범용 편집기 Flux-2-Klein-9B 모델은 42.7퍼센트에서 쓸 만한 결과를 내지 못했고, 전용 도구가 이런 실패의 약 삼분의 이를 해결했다. 한쪽을 고른 비교의 78.5퍼센트에서 전문가들은 원본에서 바로 병렬 생성한 변형을 택했다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "Qwen 3.8 27B 기반으로 사후 학습한 미공개 최신 Figma 편집 모델과 다른 서드파티 모델의 디자인 편집 과제 비교"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgent는 요청을 연속된 단계로 쪼개고 단계마다 후보를 여러 개 만든다. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "에이전트는 이 모델을 주요 서드파티 모델과 나란히 돌린다. 일반 작업은 약 20% 빨라졌다. 새 에이전트의 결과는 62%의 경우 이전 프로덕션 에이전트와 같거나 나았다. 사용자 평점은 33% 올랐고, 작업을 되돌리는 빈도는 60% 줄었다."
+                "x": "판정 모델은 변형마다 검증 기록을 받는다. 편집 부위 클로즈업과 변화 맵, 측정한 밝기·색상 통계가 들어 있다. 이 기록을 주자 시험한 언어 모델 일곱 개가 하나같이 미세조정 모델 전부를 앞섰다. Qwen3.8-27B 모델은 81.3퍼센트에서 쓸 만한 쪽을 골랐고 EditScore-72B 모델은 74.8퍼센트였다."
+              },
+              {
+                "t": "p",
+                "x": "뒤 편집이 앞 편집을 되돌리지 않았는지도 EditAgent가 살핀다. 연산은 단일 편집기의 약 열 배가 든다. 대신 검증을 거친 예시 약 26,000개 덕분에 미세조정 편집기의 성능이 세 벤치마크에서 모두 올랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaが独自モデルを訓練\nデザイン編集を高速化",
-          "body": "Figmaは独自のファイル形式でモデルを微調整し、間隔や色、レイアウトの編集を速めた。",
-          "mini_headline": "Figma独自の編集モデル",
+          "headline": "EditAgentは\n編集ごとに最適ツールを選ぶ",
+          "body": "Adobe・UC San DiegoのEditAgentは工程ごとに専用ツールを選ぶ。",
+          "mini_headline": "Adobe EditAgentのツール選択",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "特化型のポストトレーニングがフロンティアモデルに対抗できることは、ますます明らかになってきた。日々のデザイン作業の多くは小さく反復的で、正解を検証しにくい。間隔を調整する、色を変える、フィードバックを受けてレイアウトを組み直す、といった作業だ。そこでFigmaのエージェントは、デザイナーがすでにキャンバス上にある作品を編集するのを助けるという、焦点を絞ったタスクから始まった。"
-              },
-              {
-                "t": "p",
-                "x": "フロンティアモデルはFigmaの構文を理解できなかったため、教師ありファインチューニング（SFT）に投資した。デザインをFigma独自のファイル形式で表現し、モデルがキャンバスにそのまま適用できる変更を生成するよう学習させた。より大きな教師モデルが編集を試み、決定論的な検証器と視覚モデルの審査員がそれを確認した。250,000件を超える例で学習した初期のLlama 3.3 70B モデルの一つは、編集タスクで当時のトップモデルに匹敵した。"
+                "x": "Adobeの研究者が、汎用エディターと専用ツールを組み合わせた画像編集用のAIエージェントを開発した。Adobe ResearchとUC San Diegoの研究者は、EditAgentをPhotoshopを使いこなすプロのように動かすことを目指している。タスクごとに適切なツールを選び、結果を原画像と具体的な数値で比較するのだ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "初期のSFTパイプライン"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "同じエディターで何度もやり直す代わりに、EditAgentは異なる手法で候補を並列に生成し、手を加えていない言語モデルにそれらを一度に比較させる。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "その後、新しいQwenモデルを含むより高性能なベースモデルに移行し、強化学習（RL）にも投資している。整列、コントラスト、要求の達成度といった観点を個別に評価し、構造的なチェックと、熟練デザイナーが調整した視覚的な審査員を組み合わせている。"
+                "x": "五人のプロがブラインド評価した600件の画像編集テストで、汎用エディターのFlux-2-Klein-9B は42.7パーセントのケースで使える結果を出せなかった。専用ツールはその失敗の約三分の二を解決した。プロがどちらかを選んだ比較のうち78.5パーセントで、原画像から並列に生成したバリエーションが好まれた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "Qwen 3.8 27B をベースにポストトレーニングした未公開の最新Figma編集モデルと、他のサードパーティモデルのデザイン編集タスクでの比較"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgentは依頼を依存関係のあるステップに分解し、ステップごとに複数の候補を生成する。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "エージェントはこのモデルを主要なサードパーティモデルと併用する。一般的なタスクは約20%速くなり、新しいエージェントは62%のケースで従来の本番エージェントを上回るか同等だった。ユーザー評価は33%高く、ユーザーが作業を取り消す頻度は60%減った。"
+                "x": "判定モデルはバリエーションごとに検証記録を受け取る。編集部分のクローズアップ、変化マップ、測定した明るさと色の統計が含まれる。これにより、テストした七つの言語モデルすべてが、あらゆるファインチューニング済みモデルを上回った。Qwen3.8-27B は81.3パーセントのケースで使える候補を選び、EditScore-72B は74.8パーセントだった。"
+              },
+              {
+                "t": "p",
+                "x": "EditAgentは、後の編集が先の編集を打ち消していないかも確認する。単一のエディターの約十倍の計算量を要するが、検証済みの約26,000件の事例によって、ファインチューニングしたエディターは三つのベンチマークすべてで性能が向上した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma训练自有模型\n加速设计编辑",
-          "body": "Figma用原生文件格式微调模型，让智能体快速完成间距、颜色和布局编辑。",
-          "mini_headline": "Figma自研编辑模型",
+          "headline": "EditAgent：\n为每次编辑挑选合适工具",
+          "body": "Adobe与UC San Diego的EditAgent为每个编辑步骤挑选专用工具。",
+          "mini_headline": "Adobe EditAgent自选工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "我们越来越多地看到，专门的后训练可以与前沿模型一较高下。许多日常设计工作规模更小、迭代更多，而且往往难以验证：调整间距、更换颜色、根据反馈重做布局。因此，Figma 智能体从一个聚焦的任务起步：帮助设计师编辑画布上已有的作品。"
-              },
-              {
-                "t": "p",
-                "x": "前沿模型无法理解 Figma 的语法，因此我们投入了监督微调（SFT）。我们用 Figma 的原生文件格式来表示设计，让模型学会生成可以直接应用回画布的修改。更大的教师模型尝试编辑，再由确定性验证器和视觉模型评审进行检查。我们早期的一个 Llama 3.3 70B 模型用超过 250,000 个示例训练，在编辑任务上可与当时的顶尖模型相媲美。"
+                "x": "Adobe研究人员打造了一款图像编辑AI代理，将通用编辑器与专用工具结合起来。Adobe Research和UC San Diego的研究人员希望EditAgent像Photoshop中的专业人士那样工作：为每项任务挑选合适的工具，并用确切的数字将结果与原图比较。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "我们最早的 SFT 流程"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "EditAgent不再反复重试同一个编辑器，而是用不同方法并行生成候选结果，再让一个未经修改的语言模型一次性比较全部候选。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "此后我们转向了能力更强的基础模型，包括较新的 Qwen 模型，并在强化学习（RL）上加大投入。我们分别评估对齐、对比度和需求完成度等维度，将结构检查与经专业设计师校准的视觉评审结合起来。"
+                "x": "在一项由五位专业人士盲评的600次图像编辑测试中，通用编辑器Flux-2-Klein-9B 有百分之42.7的情况未能产出可用结果。专用工具解决了其中约三分之二的失败。在专业人士选边的对比中，有百分之78.5更青睐从原图并行生成的变体。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "最新未发布的 Figma 编辑模型（基于 Qwen 3.8 27B 后训练）与其他第三方模型在设计编辑任务上的对比"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgent将请求拆分为相互依赖的步骤，并为每一步生成多个候选。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "该智能体将这一模型与领先的第三方模型并用。典型任务提速约 20%；新智能体有 62% 的情况优于或持平此前的生产版智能体，用户评分高出 33%，用户撤销其操作的频率降低 60%。"
+                "x": "对每个变体，评判模型都会拿到一份验证记录，其中包括编辑区域特写、变化图以及实测的亮度与色彩统计。借助这份记录，受测的七个语言模型全都胜过所有微调模型：Qwen3.8-27B 有百分之81.3的情况做出可用选择，EditScore-72B 则为百分之74.8。"
+              },
+              {
+                "t": "p",
+                "x": "EditAgent还会检查后续编辑是否抵消了先前的编辑。它所需的算力约为单个编辑器的十倍，但其约26,000个经过验证的示例让微调后的编辑器在全部三项基准测试中都有提升。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Figma entrena su propio modelo\npara editar diseños rápido",
-          "body": "Figma afinó un modelo con su formato de archivo nativo para que su agente edite rápido espaciado, color y maquetación.",
-          "mini_headline": "El modelo de edición propio de Figma",
+          "headline": "EditAgent de Adobe elige\nla herramienta para cada edición",
+          "body": "EditAgent, de Adobe Research y UC San Diego, elige una herramienta especializada para cada paso de edición de imagen.",
+          "mini_headline": "EditAgent de Adobe elige sus herramientas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "Cada vez vemos con más claridad que el posentrenamiento especializado puede competir con los modelos de frontera. Gran parte del trabajo de diseño cotidiano es más pequeño, más iterativo y a menudo no verificable: ajustar el espaciado, cambiar un color, rehacer una maquetación tras recibir comentarios. Por eso el agente de Figma empezó con una tarea acotada: ayudar a los diseñadores a editar el trabajo que ya tienen en su lienzo."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos de frontera no entendían la sintaxis de Figma, así que invertimos en ajuste fino supervisado (SFT). Representamos los diseños en el formato de archivo nativo de Figma, de modo que el modelo aprendió a producir cambios que podíamos aplicar de vuelta al lienzo. Modelos maestros más grandes intentaban las ediciones, verificadas por validadores deterministas y jueces basados en modelos visuales. Uno de nuestros primeros modelos Llama 3.3 70B, entrenado con más de 250.000 ejemplos, competía en tareas de edición con los mejores modelos de su momento."
+                "x": "Investigadores de Adobe crearon un agente de AI para edición de imágenes que combina un editor de uso general con herramientas especializadas. Los investigadores de Adobe Research y UC San Diego quieren que EditAgent trabaje más como un profesional en Photoshop: elige la herramienta adecuada para cada tarea y compara el resultado con el original mediante cifras concretas."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "Nuestro primer pipeline de SFT"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "En lugar de reintentar una y otra vez con el mismo editor, EditAgent genera candidatos con distintos métodos en paralelo y hace que un modelo de lenguaje sin modificar los compare todos a la vez. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "Desde entonces pasamos a modelos base más capaces, incluidos modelos Qwen más recientes, y estamos invirtiendo en aprendizaje por refuerzo (RL). Evaluamos por separado dimensiones como la alineación, el contraste y el cumplimiento de la solicitud, combinando comprobaciones estructurales con jueces visuales calibrados por diseñadores expertos."
+                "x": "En una prueba de 600 ediciones de imagen, evaluadas a ciegas por cinco profesionales, el editor de uso general Flux-2-Klein-9B no logró un resultado utilizable el 42.7 por ciento de las veces. Las herramientas especializadas resolvieron aproximadamente dos tercios de esos fallos. Los profesionales prefirieron las variantes paralelas generadas a partir del original en el 78.5 por ciento de las comparaciones en las que eligieron un lado."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "Comparación del último modelo de edición de Figma, aún no lanzado y posentrenado sobre Qwen 3.8 27B, con otros modelos de terceros en tareas de edición de diseño"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgent divide una solicitud en pasos dependientes y genera varios candidatos por paso. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "El agente ejecuta este modelo junto a modelos líderes de terceros. Las tareas habituales son un 20% más rápidas; el nuevo agente supera o iguala al agente de producción anterior el 62% de las veces, las valoraciones de los usuarios son un 33% más altas y los usuarios deshacen su trabajo un 60% menos."
+                "x": "Para cada variante, el modelo juez recibe un registro de verificación con un primer plano del área editada, un mapa de cambios y estadísticas medidas de brillo y color. Con él, los siete modelos de lenguaje probados superaron a todos los modelos ajustados: Qwen3.8-27B hizo una elección utilizable el 81.3 por ciento de las veces, frente al 74.8 por ciento de EditScore-72B."
+              },
+              {
+                "t": "p",
+                "x": "EditAgent también comprueba si las ediciones posteriores deshicieron las anteriores. Necesita unas diez veces más cómputo que un solo editor, pero sus aproximadamente 26,000 ejemplos verificados mejoraron a los editores ajustados en los tres benchmarks."
               }
             ]
           }
@@ -253,161 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Figma가 직접 학습한\n빠른 디자인 편집 모델",
-          "body": "Figma는 자체 포맷으로 모델을 미세조정해 간격·색·레이아웃 편집을 빠르게 했다.",
-          "mini_headline": "Figma 자체 편집 모델",
+          "headline": "EditAgent는\n편집마다 맞는 도구 고른다",
+          "body": "Adobe·UC San Diego의 EditAgent는 단계마다 도구를 고른다.",
+          "mini_headline": "Adobe EditAgent의 도구 선택",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "특화된 사후 학습이 프런티어 모델과 겨룰 수 있다는 점을 갈수록 자주 확인하고 있다. 일상적인 디자인 작업의 상당수는 더 작고 반복적이며, 정답을 검증하기 어려운 경우가 많다. 간격을 조정하고, 색을 바꾸고, 피드백을 받아 레이아웃을 다시 짜는 일이다. 그래서 Figma 에이전트는 디자이너가 이미 캔버스에 올려 둔 작업을 편집하도록 돕는, 범위가 분명한 과제에서 출발했다."
-              },
-              {
-                "t": "p",
-                "x": "프런티어 모델은 Figma 문법을 이해하지 못했다. 그래서 지도 미세조정(SFT)에 투자했다. 디자인을 Figma 고유 파일 포맷으로 표현해, 모델이 캔버스에 다시 적용할 수 있는 변경을 만들도록 학습시켰다. 더 큰 교사 모델이 편집을 시도하고, 결정론적 검증기와 시각 모델 심사자가 결과를 확인했다. 250,000개가 넘는 예시로 학습한 초기 Llama 3.3 70B 모델 하나는 편집 과제에서 당시 최상위 모델들과 대등한 성능을 냈다."
+                "x": "Adobe 연구진이 범용 편집기와 전용 도구를 결합한 이미지 편집용 AI 에이전트를 만들었다. Adobe Research와 UC San Diego 연구진은 EditAgent가 Photoshop을 다루는 전문가처럼 작동하기를 바란다. 작업마다 알맞은 도구를 고르고, 결과를 원본과 구체적인 수치로 비교한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "초기 SFT 파이프라인"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "EditAgent는 같은 편집기를 거듭 다시 돌리는 대신 서로 다른 방법으로 후보를 병렬 생성하고, 수정하지 않은 언어 모델이 이를 한꺼번에 비교하게 한다. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "이후 최신 Qwen 모델을 비롯해 더 뛰어난 기반 모델로 옮겼고, 강화학습(RL)에도 투자하고 있다. 정렬, 대비, 요청 충족 같은 항목을 따로 평가하며, 구조 검사와 전문 디자이너가 보정한 시각 심사자를 함께 쓴다."
+                "x": "전문가 다섯 명이 블라인드 평가한 이미지 편집 600건 테스트에서 범용 편집기 Flux-2-Klein-9B 모델은 42.7퍼센트의 경우 쓸 만한 결과를 내지 못했다. 전용 도구는 이런 실패의 약 삼분의 이를 해결했다. 전문가들은 한쪽을 고른 비교의 78.5퍼센트에서 원본으로부터 병렬 생성한 변형을 선호했다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "Qwen 3.8 27B 기반으로 사후 학습한 미공개 최신 Figma 편집 모델과 다른 서드파티 모델의 디자인 편집 과제 비교"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgent는 요청을 서로 이어지는 단계로 나누고 단계마다 여러 후보를 생성한다. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "에이전트는 이 모델을 주요 서드파티 모델과 함께 돌린다. 일반적인 작업은 약 20% 빨라졌고, 새 에이전트는 62%의 경우 이전 프로덕션 에이전트보다 낫거나 같은 결과를 냈다. 사용자 평점은 33% 높아졌고, 사용자가 작업을 되돌리는 빈도는 60% 줄었다."
+                "x": "판정 모델은 변형마다 검증 기록을 받는다. 여기에는 편집 부위 클로즈업, 변화 맵, 측정한 밝기·색상 통계가 담긴다. 이 기록을 쓰자 테스트한 언어 모델 일곱 개가 모두 미세조정 모델 전부를 앞섰다. Qwen3.8-27B 모델은 81.3퍼센트의 경우 쓸 만한 선택을 했고, EditScore-72B 모델은 74.8퍼센트였다."
+              },
+              {
+                "t": "p",
+                "x": "EditAgent는 뒤의 편집이 앞의 편집을 되돌리지 않았는지도 확인한다. 단일 편집기보다 연산이 약 열 배 들지만, 검증을 거친 약 26,000개 예시 덕분에 미세조정 편집기의 성능이 세 벤치마크 모두에서 나아졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figmaが独自モデルを訓練\nデザイン編集を高速化",
-          "body": "Figmaは独自のファイル形式でモデルを微調整し、間隔や色、レイアウトの編集を速めた。",
-          "mini_headline": "Figma独自の編集モデル",
+          "headline": "EditAgentは\n編集ごとに最適ツールを選ぶ",
+          "body": "Adobe・UC San DiegoのEditAgentは工程ごとに専用ツールを選ぶ。",
+          "mini_headline": "Adobe EditAgentのツール選択",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "特化型のポストトレーニングがフロンティアモデルに対抗できることは、ますます明らかになってきた。日々のデザイン作業の多くは小さく反復的で、正解を検証しにくい。間隔を調整する、色を変える、フィードバックを受けてレイアウトを組み直す、といった作業だ。そこでFigmaのエージェントは、デザイナーがすでにキャンバス上にある作品を編集するのを助けるという、焦点を絞ったタスクから始まった。"
-              },
-              {
-                "t": "p",
-                "x": "フロンティアモデルはFigmaの構文を理解できなかったため、教師ありファインチューニング（SFT）に投資した。デザインをFigma独自のファイル形式で表現し、モデルがキャンバスにそのまま適用できる変更を生成するよう学習させた。より大きな教師モデルが編集を試み、決定論的な検証器と視覚モデルの審査員がそれを確認した。250,000件を超える例で学習した初期のLlama 3.3 70B モデルの一つは、編集タスクで当時のトップモデルに匹敵した。"
+                "x": "Adobeの研究者が、汎用エディターと専用ツールを組み合わせた画像編集用のAIエージェントを開発した。Adobe ResearchとUC San Diegoの研究者は、EditAgentをPhotoshopを使いこなすプロのように動かすことを目指している。タスクごとに適切なツールを選び、結果を原画像と具体的な数値で比較するのだ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "初期のSFTパイプライン"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "同じエディターで何度もやり直す代わりに、EditAgentは異なる手法で候補を並列に生成し、手を加えていない言語モデルにそれらを一度に比較させる。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "その後、新しいQwenモデルを含むより高性能なベースモデルに移行し、強化学習（RL）にも投資している。整列、コントラスト、要求の達成度といった観点を個別に評価し、構造的なチェックと、熟練デザイナーが調整した視覚的な審査員を組み合わせている。"
+                "x": "五人のプロがブラインド評価した600件の画像編集テストで、汎用エディターのFlux-2-Klein-9B は42.7パーセントのケースで使える結果を出せなかった。専用ツールはその失敗の約三分の二を解決した。プロがどちらかを選んだ比較のうち78.5パーセントで、原画像から並列に生成したバリエーションが好まれた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "Qwen 3.8 27B をベースにポストトレーニングした未公開の最新Figma編集モデルと、他のサードパーティモデルのデザイン編集タスクでの比較"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgentは依頼を依存関係のあるステップに分解し、ステップごとに複数の候補を生成する。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "エージェントはこのモデルを主要なサードパーティモデルと併用する。一般的なタスクは約20%速くなり、新しいエージェントは62%のケースで従来の本番エージェントを上回るか同等だった。ユーザー評価は33%高く、ユーザーが作業を取り消す頻度は60%減った。"
+                "x": "判定モデルはバリエーションごとに検証記録を受け取る。編集部分のクローズアップ、変化マップ、測定した明るさと色の統計が含まれる。これにより、テストした七つの言語モデルすべてが、あらゆるファインチューニング済みモデルを上回った。Qwen3.8-27B は81.3パーセントのケースで使える候補を選び、EditScore-72B は74.8パーセントだった。"
+              },
+              {
+                "t": "p",
+                "x": "EditAgentは、後の編集が先の編集を打ち消していないかも確認する。単一のエディターの約十倍の計算量を要するが、検証済みの約26,000件の事例によって、ファインチューニングしたエディターは三つのベンチマークすべてで性能が向上した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma训练自有模型\n加速设计编辑",
-          "body": "Figma用原生文件格式微调模型，让智能体快速完成间距、颜色和布局编辑。",
-          "mini_headline": "Figma自研编辑模型",
+          "headline": "EditAgent：\n为每次编辑挑选合适工具",
+          "body": "Adobe与UC San Diego的EditAgent为每个编辑步骤挑选专用工具。",
+          "mini_headline": "Adobe EditAgent自选工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "我们越来越多地看到，专门的后训练可以与前沿模型一较高下。许多日常设计工作规模更小、迭代更多，而且往往难以验证：调整间距、更换颜色、根据反馈重做布局。因此，Figma 智能体从一个聚焦的任务起步：帮助设计师编辑画布上已有的作品。"
-              },
-              {
-                "t": "p",
-                "x": "前沿模型无法理解 Figma 的语法，因此我们投入了监督微调（SFT）。我们用 Figma 的原生文件格式来表示设计，让模型学会生成可以直接应用回画布的修改。更大的教师模型尝试编辑，再由确定性验证器和视觉模型评审进行检查。我们早期的一个 Llama 3.3 70B 模型用超过 250,000 个示例训练，在编辑任务上可与当时的顶尖模型相媲美。"
+                "x": "Adobe研究人员打造了一款图像编辑AI代理，将通用编辑器与专用工具结合起来。Adobe Research和UC San Diego的研究人员希望EditAgent像Photoshop中的专业人士那样工作：为每项任务挑选合适的工具，并用确切的数字将结果与原图比较。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "我们最早的 SFT 流程"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "EditAgent不再反复重试同一个编辑器，而是用不同方法并行生成候选结果，再让一个未经修改的语言模型一次性比较全部候选。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "此后我们转向了能力更强的基础模型，包括较新的 Qwen 模型，并在强化学习（RL）上加大投入。我们分别评估对齐、对比度和需求完成度等维度，将结构检查与经专业设计师校准的视觉评审结合起来。"
+                "x": "在一项由五位专业人士盲评的600次图像编辑测试中，通用编辑器Flux-2-Klein-9B 有百分之42.7的情况未能产出可用结果。专用工具解决了其中约三分之二的失败。在专业人士选边的对比中，有百分之78.5更青睐从原图并行生成的变体。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "最新未发布的 Figma 编辑模型（基于 Qwen 3.8 27B 后训练）与其他第三方模型在设计编辑任务上的对比"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgent将请求拆分为相互依赖的步骤，并为每一步生成多个候选。 | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "该智能体将这一模型与领先的第三方模型并用。典型任务提速约 20%；新智能体有 62% 的情况优于或持平此前的生产版智能体，用户评分高出 33%，用户撤销其操作的频率降低 60%。"
+                "x": "对每个变体，评判模型都会拿到一份验证记录，其中包括编辑区域特写、变化图以及实测的亮度与色彩统计。借助这份记录，受测的七个语言模型全都胜过所有微调模型：Qwen3.8-27B 有百分之81.3的情况做出可用选择，EditScore-72B 则为百分之74.8。"
+              },
+              {
+                "t": "p",
+                "x": "EditAgent还会检查后续编辑是否抵消了先前的编辑。它所需的算力约为单个编辑器的十倍，但其约26,000个经过验证的示例让微调后的编辑器在全部三项基准测试中都有提升。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Figma entrena su propio modelo\npara editar diseños rápido",
-          "body": "Figma afinó un modelo con su formato de archivo nativo para que su agente edite rápido espaciado, color y maquetación.",
-          "mini_headline": "El modelo de edición propio de Figma",
+          "headline": "EditAgent de Adobe elige\nla herramienta para cada edición",
+          "body": "EditAgent, de Adobe Research y UC San Diego, elige una herramienta especializada para cada paso de edición de imagen.",
+          "mini_headline": "EditAgent de Adobe elige sus herramientas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1632&h=918&q=75&fit=max&auto=format"
-              },
-              {
                 "t": "p",
-                "x": "Cada vez vemos con más claridad que el posentrenamiento especializado puede competir con los modelos de frontera. Gran parte del trabajo de diseño cotidiano es más pequeño, más iterativo y a menudo no verificable: ajustar el espaciado, cambiar un color, rehacer una maquetación tras recibir comentarios. Por eso el agente de Figma empezó con una tarea acotada: ayudar a los diseñadores a editar el trabajo que ya tienen en su lienzo."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos de frontera no entendían la sintaxis de Figma, así que invertimos en ajuste fino supervisado (SFT). Representamos los diseños en el formato de archivo nativo de Figma, de modo que el modelo aprendió a producir cambios que podíamos aplicar de vuelta al lienzo. Modelos maestros más grandes intentaban las ediciones, verificadas por validadores deterministas y jueces basados en modelos visuales. Uno de nuestros primeros modelos Llama 3.3 70B, entrenado con más de 250.000 ejemplos, competía en tareas de edición con los mejores modelos de su momento."
+                "x": "Investigadores de Adobe crearon un agente de AI para edición de imágenes que combina un editor de uso general con herramientas especializadas. Los investigadores de Adobe Research y UC San Diego quieren que EditAgent trabaje más como un profesional en Photoshop: elige la herramienta adecuada para cada tarea y compara el resultado con el original mediante cifras concretas."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/03f58348f89b623200a88adce014b10e2fd7a5f9-3262x1396.png?rect=0,1,3262,1395&w=1632&h=698&q=75&fit=max&auto=format",
-                "cap": "Nuestro primer pipeline de SFT"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+                "cap": "En lugar de reintentar una y otra vez con el mismo editor, EditAgent genera candidatos con distintos métodos en paralelo y hace que un modelo de lenguaje sin modificar los compare todos a la vez. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "Desde entonces pasamos a modelos base más capaces, incluidos modelos Qwen más recientes, y estamos invirtiendo en aprendizaje por refuerzo (RL). Evaluamos por separado dimensiones como la alineación, el contraste y el cumplimiento de la solicitud, combinando comprobaciones estructurales con jueces visuales calibrados por diseñadores expertos."
+                "x": "En una prueba de 600 ediciones de imagen, evaluadas a ciegas por cinco profesionales, el editor de uso general Flux-2-Klein-9B no logró un resultado utilizable el 42.7 por ciento de las veces. Las herramientas especializadas resolvieron aproximadamente dos tercios de esos fallos. Los profesionales prefirieron las variantes paralelas generadas a partir del original en el 78.5 por ciento de las comparaciones en las que eligieron un lado."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5c668a7a644ab6622a1069c539888aeda7049248-1701x1701.png?w=804&h=804&q=75&fit=max&auto=format",
-                "cap": "Comparación del último modelo de edición de Figma, aún no lanzado y posentrenado sobre Qwen 3.8 27B, con otros modelos de terceros en tareas de edición de diseño"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+                "cap": "EditAgent divide una solicitud en pasos dependientes y genera varios candidatos por paso. | Image: Adobe"
               },
               {
                 "t": "p",
-                "x": "El agente ejecuta este modelo junto a modelos líderes de terceros. Las tareas habituales son un 20% más rápidas; el nuevo agente supera o iguala al agente de producción anterior el 62% de las veces, las valoraciones de los usuarios son un 33% más altas y los usuarios deshacen su trabajo un 60% menos."
+                "x": "Para cada variante, el modelo juez recibe un registro de verificación con un primer plano del área editada, un mapa de cambios y estadísticas medidas de brillo y color. Con él, los siete modelos de lenguaje probados superaron a todos los modelos ajustados: Qwen3.8-27B hizo una elección utilizable el 81.3 por ciento de las veces, frente al 74.8 por ciento de EditScore-72B."
+              },
+              {
+                "t": "p",
+                "x": "EditAgent también comprueba si las ediciones posteriores deshicieron las anteriores. Necesita unas diez veces más cómputo que un solo editor, pero sus aproximadamente 26,000 ejemplos verificados mejoraron a los editores ajustados en los tres benchmarks."
               }
             ]
           }
@@ -415,285 +375,195 @@
       }
     },
     {
-      "id": "canva-brush-vlm",
+      "id": "nngroup-ux-agentic-factories",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Canva AI에 디자인\n편집 모델 Brush 탑재",
-      "body": "Brush를 단 Canva AI의 Pro 편집이 최대 69% 빠르고 46% 싸졌다.",
-      "mini_headline": "디자인 편집하는 Canva Brush",
+      "headline": "에이전트 개발 공장 속\nUX의 자리",
+      "body": "NN/g는 UX가 AI 맥락 제공을 넘어 니즈 발굴·설계·평가를 맡으라고 한다.",
+      "mini_headline": "에이전트 소프트웨어 공장과 UX",
       "tool": "AI Workflow",
-      "source": "Canva Newsroom",
-      "url": "https://www.canva.com/newsroom/news/canva-brush/",
+      "source": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+            "t": "p",
+            "x": "AI-native 소프트웨어 개발 생명주기에서 UX는 AI에 넣을 맥락 정도로 쪼그라든다. 하지만 UX가 할 일은 사용자 니즈를 찾고 무엇을 만들지 정하며 출시 전후로 이를 평가하는 것이다."
           },
           {
             "t": "p",
-            "x": "Canva Research가 만든 디자인용 새 시각-언어 모델 Canva Brush를 오늘 공개한다. Brush는 디자인을 보고 구성을 파악한 뒤, 문구 한 줄이든 덱 전체 슬라이드든 요청한 대로 고친다. 첫 이미지 생성 모델 Canva Craft를 내놓은 지 일주일 만이다. 두 모델 모두 160명 규모의 AI 연구소 Canva Research가 개발했다."
-          },
-          {
-            "t": "p",
-            "x": "출시 시점 기준으로 일반 디자인 편집은 Canva의 이전 디자인 에이전트보다 최대 69% 빠르고, 편집 작업당 비용은 46% 낮다."
+            "x": "Anthropic은 2026년 8월 AI-native 소프트웨어 개발 생명주기(SDLC) 비전을 내놓았다. Google(2026년 5월)과 OpenAI(2025년 11월)에 이은 발표다. 세 회사 모두 UX를 변두리로 밀어내고 AI 생성을 뒤에서 이끄는 맥락으로만 다룬다."
           },
           {
             "t": "img",
-            "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+            "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+            "cap": "전통 SDLC의 6단계"
           },
           {
             "t": "p",
-            "x": "Brush 내부에서는 에이전트 루프가 돈다. 코드를 짜고 실행해 디자인 요소를 조정하고, 페이지에서 벌어지는 일을 보고 다음 단계를 정한다. 결과물은 모두 자유롭게 편집할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+            "x": "Anthropic 플레이북에서 UX가 맡는 단계나 승인 관문은 하나도 없다. 사용자 리서치는 아예 언급되지 않는다. Test 단계는 빌드를 제품 책임자의 목업과 대조할 뿐이라 사용성이나 접근성이 좋은지는 보장하지 못한다. 출시 후 기술 지표를 지켜보는 일과 사용성 지표는 별개다."
           },
           {
             "t": "p",
-            "x": "Brush는 선도적인 오픈 웨이트 모델을 바탕으로 실제 디자인·편집 작업에 맞춰 사후 학습하고 대규모 강화학습을 더했다. 보상 시스템은 시각 품질과 레이아웃, 작업을 끝냈는지를 본다."
-          },
-          {
-            "t": "img",
-            "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-          },
-          {
-            "t": "p",
-            "x": "Brush는 오늘부터 Canva Pro 요금제 사용자에게 Canva AI가 지원하는 디자인 편집을 맡고, 곧 대상을 넓힌다. Brand Kit 지원과 첨부 파일 참조 기능도 준비하고 있다."
+            "x": "AI가 소프트웨어 생산 속도를 끌어올리는 지금 UX의 역할은 3가지다. 무엇이 만들 가치가 있는지 가리고, 만든 결과를 평가하고, AI 생성에 맥락을 보태는 일이다. 플레이북이 다루는 건 이 중 세 번째뿐이다. NN/g의 제안은 이렇다. intent.md는 사용자 니즈에 맞추고, 어느 작업에 UX 검토가 필요한지 정하고, 모니터링에 사용자 신호를 넣는다. UX 맥락의 주인 자리를 지키고 리서치와 디자인 시스템은 기계가 읽을 수 있게 만든다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Canva Brush brings a design\nediting model to Canva AI",
-          "body": "Canva Brush, trained on real design edits, now powers Pro edits in Canva AI up to 69% faster and 46% cheaper.",
-          "mini_headline": "Canva Brush edits designs",
+          "headline": "Where UX fits in\nagentic software factories",
+          "body": "NN/g argues UX must find user needs, shape what gets built and evaluate it, not shrink into AI context.",
+          "mini_headline": "UX in agentic software factories",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what's built, and evaluate it before and after launch."
               },
               {
                 "t": "p",
-                "x": "Today, we’re unveiling Canva Brush, a new vision-language model for design, built by Canva Research. Brush sees your design, understands how it’s put together, and makes the changes you ask for, from a single line of copy to every slide in a deck. It arrives a week after our first image-generation model, Canva Craft; both were developed by Canva Research, our 160-person AI lab."
-              },
-              {
-                "t": "p",
-                "x": "As of today’s launch, it’s up to 69% faster for general design editing tasks and 46% lower cost per edit task compared to Canva's previous design agent."
+                "x": "In August 2026, Anthropic published its vision of an AI-native software development lifecycle (SDLC), following publications by Google (May 2026) and OpenAI (November 2025). All three sideline UX, reducing it to behind-the-scenes context that guides AI generation."
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "The 6 stages of the traditional SDLC"
               },
               {
                 "t": "p",
-                "x": "Behind the scenes, Brush uses an agentic loop that writes and runs code to adjust design elements, then inspects what’s happening on the page to guide its next step. Everything it creates is fully editable."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "UX does not own a stage or approval gate in Anthropic's playbook. The playbook makes no mention of user research, and its Test stage compares the build with the product owner's mockup, which does not guarantee good usability or accessibility. Monitoring technical metrics after launch is not the same as usability metrics."
               },
               {
                 "t": "p",
-                "x": "Brush started from a leading open-weights model, post-trained on real design and editing tasks and combined with large-scale reinforcement learning, with a reward system judging visual quality, layout and task completion."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "Starting today, Brush is powering supported design edits in Canva AI for people on Canva Pro plans, with wider availability coming soon. Brand Kit support and attachment references are in the works."
+                "x": "UX has 3 roles as AI accelerates software production: deciding what's worth building, evaluating what gets built, and adding context to AI generation. The playbook covers only the third. NN/g suggests focusing intent.md on user needs, defining when work needs UX review, adding user signals to monitoring, claiming ownership of UX context, and making research and the design system machine-readable."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Canva AI에 디자인\n편집 모델 Brush 탑재",
-          "body": "Brush를 단 Canva AI의 Pro 편집이 최대 69% 빠르고 46% 싸졌다.",
-          "mini_headline": "디자인 편집하는 Canva Brush",
+          "headline": "에이전트 개발 공장 속\nUX의 자리",
+          "body": "NN/g는 UX가 AI 맥락 제공을 넘어 니즈 발굴·설계·평가를 맡으라고 한다.",
+          "mini_headline": "에이전트 소프트웨어 공장과 UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "AI-native 소프트웨어 개발 생명주기에서 UX는 AI에 넣을 맥락 정도로 쪼그라든다. 하지만 UX가 할 일은 사용자 니즈를 찾고 무엇을 만들지 정하며 출시 전후로 이를 평가하는 것이다."
               },
               {
                 "t": "p",
-                "x": "Canva Research가 만든 디자인용 새 시각-언어 모델 Canva Brush를 오늘 공개한다. Brush는 디자인을 보고 구성을 파악한 뒤, 문구 한 줄이든 덱 전체 슬라이드든 요청한 대로 고친다. 첫 이미지 생성 모델 Canva Craft를 내놓은 지 일주일 만이다. 두 모델 모두 160명 규모의 AI 연구소 Canva Research가 개발했다."
-              },
-              {
-                "t": "p",
-                "x": "출시 시점 기준으로 일반 디자인 편집은 Canva의 이전 디자인 에이전트보다 최대 69% 빠르고, 편집 작업당 비용은 46% 낮다."
+                "x": "Anthropic은 2026년 8월 AI-native 소프트웨어 개발 생명주기(SDLC) 비전을 내놓았다. Google(2026년 5월)과 OpenAI(2025년 11월)에 이은 발표다. 세 회사 모두 UX를 변두리로 밀어내고 AI 생성을 뒤에서 이끄는 맥락으로만 다룬다."
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "전통 SDLC의 6단계"
               },
               {
                 "t": "p",
-                "x": "Brush 내부에서는 에이전트 루프가 돈다. 코드를 짜고 실행해 디자인 요소를 조정하고, 페이지에서 벌어지는 일을 보고 다음 단계를 정한다. 결과물은 모두 자유롭게 편집할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "Anthropic 플레이북에서 UX가 맡는 단계나 승인 관문은 하나도 없다. 사용자 리서치는 아예 언급되지 않는다. Test 단계는 빌드를 제품 책임자의 목업과 대조할 뿐이라 사용성이나 접근성이 좋은지는 보장하지 못한다. 출시 후 기술 지표를 지켜보는 일과 사용성 지표는 별개다."
               },
               {
                 "t": "p",
-                "x": "Brush는 선도적인 오픈 웨이트 모델을 바탕으로 실제 디자인·편집 작업에 맞춰 사후 학습하고 대규모 강화학습을 더했다. 보상 시스템은 시각 품질과 레이아웃, 작업을 끝냈는지를 본다."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "Brush는 오늘부터 Canva Pro 요금제 사용자에게 Canva AI가 지원하는 디자인 편집을 맡고, 곧 대상을 넓힌다. Brand Kit 지원과 첨부 파일 참조 기능도 준비하고 있다."
+                "x": "AI가 소프트웨어 생산 속도를 끌어올리는 지금 UX의 역할은 3가지다. 무엇이 만들 가치가 있는지 가리고, 만든 결과를 평가하고, AI 생성에 맥락을 보태는 일이다. 플레이북이 다루는 건 이 중 세 번째뿐이다. NN/g의 제안은 이렇다. intent.md는 사용자 니즈에 맞추고, 어느 작업에 UX 검토가 필요한지 정하고, 모니터링에 사용자 신호를 넣는다. UX 맥락의 주인 자리를 지키고 리서치와 디자인 시스템은 기계가 읽을 수 있게 만든다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Canva AIにデザイン\n編集モデルBrushが登場",
-          "body": "Canva BrushでCanva AIのPro編集が最大69%速く、46%安くなった。",
-          "mini_headline": "デザインを編集するCanva Brush",
+          "headline": "エージェント型開発工場で\nUXの居場所はどこか",
+          "body": "NN/gによれば、UXはAIの文脈に縮小されず、ニーズ発見・設計・評価を担うべきだ。",
+          "mini_headline": "エージェント型開発工場とUX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "AI-nativeなソフトウェア開発ライフサイクルは、UXをAI向けのコンテキストに縮小してしまう。UXはユーザーのニーズを見いだし、何をつくるかを形づくり、リリースの前後にそれを評価しなければならない。"
               },
               {
                 "t": "p",
-                "x": "本日、Canva Researchが開発したデザイン向けの新しい視覚言語モデル、Canva Brushを発表する。Brushはデザインを見て、その構成を理解し、コピー1行からデッキの全スライドまで、求められた変更を加える。初の画像生成モデルCanva Craftの1週間後の登場で、どちらも160人規模のAIラボであるCanva Researchが開発した。"
-              },
-              {
-                "t": "p",
-                "x": "本日のリリース時点で、Canvaの従来のデザインエージェントと比べ、一般的なデザイン編集タスクは最大69%速く、編集タスクあたりのコストは46%低い。"
+                "x": "Anthropicは2026年8月、AI-nativeなソフトウェア開発ライフサイクル（SDLC）のビジョンを公開した。Google（2026年5月）とOpenAI（2025年11月）に続くものだ。三社ともUXを脇に追いやり、AI生成を導く舞台裏のコンテキストへと縮小している。"
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "従来のSDLCの6段階"
               },
               {
                 "t": "p",
-                "x": "裏側では、Brushはコードを書いて実行しデザイン要素を調整するエージェント型ループを使い、ページ上で起きていることを確認して次の手順を決める。生成したものはすべて完全に編集できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "AnthropicのプレイブックではUXはどの段階も承認ゲートも担っていない。プレイブックはユーザーリサーチに一切触れず、Test段階ではビルドをプロダクトオーナーのモックアップと比較するが、それでは良好なユーザビリティやアクセシビリティは保証されない。リリース後に技術指標を監視することは、ユーザビリティ指標と同じではない。"
               },
               {
                 "t": "p",
-                "x": "Brushは有力なオープンウェイトモデルを出発点に、実際のデザインと編集のタスクでポストトレーニングし、大規模な強化学習を組み合わせた。報酬システムが視覚的な品質、レイアウト、タスクの完了度を判定する。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "本日から、BrushはCanva Proプランの利用者向けにCanva AIで対応するデザイン編集を担い、近く提供範囲を広げる。Brand Kitへの対応と添付ファイルの参照機能も開発中だ。"
+                "x": "AIがソフトウェア生産を加速させるなか、UXには3つの役割がある。何をつくる価値があるかを決めること、つくられたものを評価すること、そしてAI生成にコンテキストを加えることだ。プレイブックが扱うのは三つ目だけである。NN/gは、intent.mdをユーザーニーズに集中させること、作業にUXレビューが必要になる条件を定めること、モニタリングにユーザーシグナルを加えること、UXコンテキストの所有権を確立すること、そしてリサーチとデザインシステムを機械可読にすることを提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Canva AI迎来\n设计编辑模型Brush",
-          "body": "Canva Brush让Canva AI的Pro编辑最多提速69%，成本降低46%。",
-          "mini_headline": "会编辑设计的Canva Brush",
+          "headline": "智能体软件工厂里\nUX该站在哪里",
+          "body": "NN/g认为UX不应被压缩为AI上下文，而要发现用户需求、塑造产品并加以评估。",
+          "mini_headline": "智能体软件工厂中的UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "AI-native的软件开发生命周期把UX缩减为AI的上下文。UX必须发现用户需求、塑造要构建的产品，并在发布前后进行评估。"
               },
               {
                 "t": "p",
-                "x": "今天，我们发布 Canva Brush，这是由 Canva Research 打造的全新设计视觉语言模型。Brush 能看懂你的设计，理解其构成方式，并按你的要求进行修改，从一行文案到演示文稿中的每一张幻灯片都可以。它在我们首个图像生成模型 Canva Craft 推出一周后亮相；两者均由我们拥有 160 人的 AI 实验室 Canva Research 开发。"
-              },
-              {
-                "t": "p",
-                "x": "截至今天发布时，与 Canva 此前的设计智能体相比，它在一般设计编辑任务上最多快 69%，每项编辑任务的成本低 46%。"
+                "x": "2026年8月，Anthropic发布了其AI-native软件开发生命周期（SDLC）愿景，此前Google（2026年5月）和OpenAI（2025年11月）已先后发布。三者都把UX边缘化，将其缩减为指导AI生成的幕后上下文。"
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "传统SDLC的6个阶段"
               },
               {
                 "t": "p",
-                "x": "在幕后，Brush 采用智能体循环，编写并运行代码来调整设计元素，再检查页面上的变化以决定下一步。它生成的一切都可以完全编辑。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "在Anthropic的手册中，UX不掌管任何阶段或审批关口。手册完全没有提及用户研究，其Test阶段只是将构建结果与产品负责人的模型图比较，这无法保证良好的可用性或无障碍性。发布后监测技术指标并不等同于可用性指标。"
               },
               {
                 "t": "p",
-                "x": "Brush 以一款领先的开放权重模型为起点，在真实的设计与编辑任务上进行后训练，并结合大规模强化学习，由奖励系统评判视觉质量、布局和任务完成度。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "从今天起，Brush 为 Canva Pro 方案用户提供 Canva AI 中受支持的设计编辑，更大范围的开放即将到来。Brand Kit 支持和附件参考功能正在开发中。"
+                "x": "随着AI加速软件生产，UX承担3种角色：决定什么值得构建、评估构建出的成果，以及为AI生成补充上下文。手册只涵盖了第三种。NN/g建议：让intent.md聚焦用户需求，界定哪些工作需要UX评审，在监测中加入用户信号，确立对UX上下文的所有权，并让研究成果和设计系统可被机器读取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canva Brush suma a Canva AI\nun modelo de edición de diseño",
-          "body": "Canva Brush, entrenado con ediciones reales, acelera hasta un 69% y abarata hasta un 46% la edición Pro en Canva AI.",
-          "mini_headline": "Canva Brush edita diseños",
+          "headline": "El lugar de UX en las fábricas\nde software agénticas",
+          "body": "NN/g sostiene que UX debe detectar necesidades, definir qué se construye y evaluarlo, no reducirse a contexto de AI.",
+          "mini_headline": "UX en las fábricas de software agénticas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "Los ciclos de vida de desarrollo de software AI-native reducen UX a contexto para la AI. UX debe descubrir las necesidades de los usuarios, dar forma a lo que se construye y evaluarlo antes y después del lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Hoy presentamos Canva Brush, un nuevo modelo de visión y lenguaje para diseño creado por Canva Research. Brush ve tu diseño, entiende cómo está construido y aplica los cambios que pides, desde una sola línea de texto hasta todas las diapositivas de una presentación. Llega una semana después de nuestro primer modelo de generación de imágenes, Canva Craft; ambos los desarrolló Canva Research, nuestro laboratorio de IA de 160 personas."
-              },
-              {
-                "t": "p",
-                "x": "Desde el lanzamiento de hoy, es hasta un 69% más rápido en tareas generales de edición de diseño y cuesta un 46% menos por tarea de edición que el anterior agente de diseño de Canva."
+                "x": "En agosto de 2026, Anthropic publicó su visión de un ciclo de vida de desarrollo de software (SDLC) AI-native, tras las publicaciones de Google (mayo de 2026) y OpenAI (noviembre de 2025). Las tres relegan UX y la reducen a un contexto entre bastidores que guía la generación de AI."
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "Las 6 etapas del SDLC tradicional"
               },
               {
                 "t": "p",
-                "x": "Internamente, Brush usa un bucle agéntico que escribe y ejecuta código para ajustar los elementos del diseño y luego revisa lo que ocurre en la página para decidir el siguiente paso. Todo lo que crea es totalmente editable."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "UX no tiene a su cargo ninguna etapa ni puerta de aprobación en el playbook de Anthropic. El playbook no menciona la investigación con usuarios, y su etapa Test compara lo construido con el mockup del product owner, lo que no garantiza buena usabilidad ni accesibilidad. Monitorizar métricas técnicas tras el lanzamiento no equivale a medir métricas de usabilidad."
               },
               {
                 "t": "p",
-                "x": "Brush partió de un modelo de pesos abiertos líder, posentrenado con tareas reales de diseño y edición y combinado con aprendizaje por refuerzo a gran escala, con un sistema de recompensas que evalúa la calidad visual, la maquetación y la finalización de la tarea."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "Desde hoy, Brush impulsa las ediciones de diseño compatibles en Canva AI para los usuarios de los planes Canva Pro, y pronto llegará a más usuarios. El soporte para Brand Kit y las referencias a archivos adjuntos están en desarrollo."
+                "x": "UX tiene 3 funciones a medida que la AI acelera la producción de software: decidir qué vale la pena construir, evaluar lo que se construye y aportar contexto a la generación de AI. El playbook solo cubre la tercera. NN/g propone centrar intent.md en las necesidades de los usuarios, definir cuándo un trabajo requiere revisión de UX, añadir señales de usuarios a la monitorización, reivindicar la propiedad del contexto de UX y hacer que la investigación y el sistema de diseño sean legibles por máquinas."
               }
             ]
           }
@@ -701,185 +571,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Canva AI에 디자인\n편집 모델 Brush 탑재",
-          "body": "Canva AI의 Pro 편집이 Brush로 최대 69% 빠르고 46% 싸졌다.",
-          "mini_headline": "디자인 편집하는 Canva Brush",
+          "headline": "에이전트형 개발 공장에서\nUX가 설 자리",
+          "body": "NN/g는 UX가 AI 맥락을 넘어 니즈 발굴·설계·평가를 맡아야 한다고 본다.",
+          "mini_headline": "에이전트형 소프트웨어 공장 속 UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "AI-native 소프트웨어 개발 생명주기는 UX를 AI용 맥락으로 축소한다. UX는 사용자 니즈를 발굴하고, 무엇을 만들지 형성하며, 출시 전후에 이를 평가해야 한다."
               },
               {
                 "t": "p",
-                "x": "오늘 Canva Research가 만든 디자인용 새 시각-언어 모델 Canva Brush를 공개한다. Brush는 디자인을 보고 어떻게 구성됐는지 이해한 뒤, 문구 한 줄부터 덱의 모든 슬라이드까지 요청한 변경을 적용한다. 첫 이미지 생성 모델 Canva Craft를 내놓은 지 일주일 만이며, 두 모델 모두 160명 규모의 AI 연구소 Canva Research가 개발했다."
-              },
-              {
-                "t": "p",
-                "x": "오늘 출시 기준으로 Canva의 이전 디자인 에이전트보다 일반 디자인 편집 작업이 최대 69% 빠르고, 편집 작업당 비용은 46% 낮다."
+                "x": "Anthropic은 2026년 8월 AI-native 소프트웨어 개발 생명주기(SDLC)에 대한 비전을 발표했다. Google(2026년 5월)과 OpenAI(2025년 11월)에 이은 발표다. 세 회사 모두 UX를 주변으로 밀어내고, AI 생성을 이끄는 막후 맥락으로 축소한다."
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "전통적 SDLC의 6단계"
               },
               {
                 "t": "p",
-                "x": "Brush는 내부적으로 코드를 작성하고 실행해 디자인 요소를 조정하는 에이전트 루프를 쓰고, 페이지에서 일어나는 일을 살펴 다음 단계를 정한다. 만든 결과물은 모두 자유롭게 편집할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "Anthropic의 플레이북에서 UX는 어떤 단계나 승인 관문도 맡지 않는다. 플레이북은 사용자 리서치를 전혀 언급하지 않으며, Test 단계는 빌드를 제품 책임자의 목업과 비교할 뿐이어서 좋은 사용성이나 접근성을 보장하지 못한다. 출시 후 기술 지표를 모니터링하는 일은 사용성 지표와 같지 않다."
               },
               {
                 "t": "p",
-                "x": "Brush는 선도적인 오픈 웨이트 모델에서 출발해 실제 디자인·편집 작업으로 사후 학습했고, 대규모 강화학습을 결합했다. 보상 시스템은 시각적 품질, 레이아웃, 작업 완수 여부를 평가한다."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "오늘부터 Brush는 Canva Pro 요금제 사용자를 대상으로 Canva AI에서 지원되는 디자인 편집을 맡으며, 곧 더 넓게 제공될 예정이다. Brand Kit 지원과 첨부 파일 참조 기능도 준비 중이다."
+                "x": "AI가 소프트웨어 생산을 가속하는 가운데 UX에는 3가지 역할이 있다. 무엇을 만들 가치가 있는지 결정하고, 만들어진 것을 평가하며, AI 생성에 맥락을 더하는 일이다. 플레이북은 이 중 세 번째만 다룬다. NN/g는 intent.md를 사용자 니즈에 집중시키고, 작업에 UX 검토가 필요한 시점을 정의하며, 모니터링에 사용자 신호를 추가하고, UX 맥락의 소유권을 확보하고, 리서치와 디자인 시스템을 기계가 읽을 수 있게 만들 것을 제안한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Canva AIにデザイン\n編集モデルBrushが登場",
-          "body": "Canva BrushでCanva AIのPro編集が最大69%速く、46%安くなった。",
-          "mini_headline": "デザインを編集するCanva Brush",
+          "headline": "エージェント型開発工場で\nUXの居場所はどこか",
+          "body": "NN/gによれば、UXはAIの文脈に縮小されず、ニーズ発見・設計・評価を担うべきだ。",
+          "mini_headline": "エージェント型開発工場とUX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "AI-nativeなソフトウェア開発ライフサイクルは、UXをAI向けのコンテキストに縮小してしまう。UXはユーザーのニーズを見いだし、何をつくるかを形づくり、リリースの前後にそれを評価しなければならない。"
               },
               {
                 "t": "p",
-                "x": "本日、Canva Researchが開発したデザイン向けの新しい視覚言語モデル、Canva Brushを発表する。Brushはデザインを見て、その構成を理解し、コピー1行からデッキの全スライドまで、求められた変更を加える。初の画像生成モデルCanva Craftの1週間後の登場で、どちらも160人規模のAIラボであるCanva Researchが開発した。"
-              },
-              {
-                "t": "p",
-                "x": "本日のリリース時点で、Canvaの従来のデザインエージェントと比べ、一般的なデザイン編集タスクは最大69%速く、編集タスクあたりのコストは46%低い。"
+                "x": "Anthropicは2026年8月、AI-nativeなソフトウェア開発ライフサイクル（SDLC）のビジョンを公開した。Google（2026年5月）とOpenAI（2025年11月）に続くものだ。三社ともUXを脇に追いやり、AI生成を導く舞台裏のコンテキストへと縮小している。"
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "従来のSDLCの6段階"
               },
               {
                 "t": "p",
-                "x": "裏側では、Brushはコードを書いて実行しデザイン要素を調整するエージェント型ループを使い、ページ上で起きていることを確認して次の手順を決める。生成したものはすべて完全に編集できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "AnthropicのプレイブックではUXはどの段階も承認ゲートも担っていない。プレイブックはユーザーリサーチに一切触れず、Test段階ではビルドをプロダクトオーナーのモックアップと比較するが、それでは良好なユーザビリティやアクセシビリティは保証されない。リリース後に技術指標を監視することは、ユーザビリティ指標と同じではない。"
               },
               {
                 "t": "p",
-                "x": "Brushは有力なオープンウェイトモデルを出発点に、実際のデザインと編集のタスクでポストトレーニングし、大規模な強化学習を組み合わせた。報酬システムが視覚的な品質、レイアウト、タスクの完了度を判定する。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "本日から、BrushはCanva Proプランの利用者向けにCanva AIで対応するデザイン編集を担い、近く提供範囲を広げる。Brand Kitへの対応と添付ファイルの参照機能も開発中だ。"
+                "x": "AIがソフトウェア生産を加速させるなか、UXには3つの役割がある。何をつくる価値があるかを決めること、つくられたものを評価すること、そしてAI生成にコンテキストを加えることだ。プレイブックが扱うのは三つ目だけである。NN/gは、intent.mdをユーザーニーズに集中させること、作業にUXレビューが必要になる条件を定めること、モニタリングにユーザーシグナルを加えること、UXコンテキストの所有権を確立すること、そしてリサーチとデザインシステムを機械可読にすることを提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Canva AI迎来\n设计编辑模型Brush",
-          "body": "Canva Brush让Canva AI的Pro编辑最多提速69%，成本降低46%。",
-          "mini_headline": "会编辑设计的Canva Brush",
+          "headline": "智能体软件工厂里\nUX该站在哪里",
+          "body": "NN/g认为UX不应被压缩为AI上下文，而要发现用户需求、塑造产品并加以评估。",
+          "mini_headline": "智能体软件工厂中的UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "AI-native的软件开发生命周期把UX缩减为AI的上下文。UX必须发现用户需求、塑造要构建的产品，并在发布前后进行评估。"
               },
               {
                 "t": "p",
-                "x": "今天，我们发布 Canva Brush，这是由 Canva Research 打造的全新设计视觉语言模型。Brush 能看懂你的设计，理解其构成方式，并按你的要求进行修改，从一行文案到演示文稿中的每一张幻灯片都可以。它在我们首个图像生成模型 Canva Craft 推出一周后亮相；两者均由我们拥有 160 人的 AI 实验室 Canva Research 开发。"
-              },
-              {
-                "t": "p",
-                "x": "截至今天发布时，与 Canva 此前的设计智能体相比，它在一般设计编辑任务上最多快 69%，每项编辑任务的成本低 46%。"
+                "x": "2026年8月，Anthropic发布了其AI-native软件开发生命周期（SDLC）愿景，此前Google（2026年5月）和OpenAI（2025年11月）已先后发布。三者都把UX边缘化，将其缩减为指导AI生成的幕后上下文。"
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "传统SDLC的6个阶段"
               },
               {
                 "t": "p",
-                "x": "在幕后，Brush 采用智能体循环，编写并运行代码来调整设计元素，再检查页面上的变化以决定下一步。它生成的一切都可以完全编辑。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "在Anthropic的手册中，UX不掌管任何阶段或审批关口。手册完全没有提及用户研究，其Test阶段只是将构建结果与产品负责人的模型图比较，这无法保证良好的可用性或无障碍性。发布后监测技术指标并不等同于可用性指标。"
               },
               {
                 "t": "p",
-                "x": "Brush 以一款领先的开放权重模型为起点，在真实的设计与编辑任务上进行后训练，并结合大规模强化学习，由奖励系统评判视觉质量、布局和任务完成度。"
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "从今天起，Brush 为 Canva Pro 方案用户提供 Canva AI 中受支持的设计编辑，更大范围的开放即将到来。Brand Kit 支持和附件参考功能正在开发中。"
+                "x": "随着AI加速软件生产，UX承担3种角色：决定什么值得构建、评估构建出的成果，以及为AI生成补充上下文。手册只涵盖了第三种。NN/g建议：让intent.md聚焦用户需求，界定哪些工作需要UX评审，在监测中加入用户信号，确立对UX上下文的所有权，并让研究成果和设计系统可被机器读取。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canva Brush suma a Canva AI\nun modelo de edición de diseño",
-          "body": "Canva Brush, entrenado con ediciones reales, acelera hasta un 69% y abarata hasta un 46% la edición Pro en Canva AI.",
-          "mini_headline": "Canva Brush edita diseños",
+          "headline": "El lugar de UX en las fábricas\nde software agénticas",
+          "body": "NN/g sostiene que UX debe detectar necesidades, definir qué se construye y evaluarlo, no reducirse a contexto de AI.",
+          "mini_headline": "UX en las fábricas de software agénticas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/86c4c854-be95-4a73-a47b-c7d15c3beae2/Canva_Brush_Newsroom_Banner.png"
+                "t": "p",
+                "x": "Los ciclos de vida de desarrollo de software AI-native reducen UX a contexto para la AI. UX debe descubrir las necesidades de los usuarios, dar forma a lo que se construye y evaluarlo antes y después del lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Hoy presentamos Canva Brush, un nuevo modelo de visión y lenguaje para diseño creado por Canva Research. Brush ve tu diseño, entiende cómo está construido y aplica los cambios que pides, desde una sola línea de texto hasta todas las diapositivas de una presentación. Llega una semana después de nuestro primer modelo de generación de imágenes, Canva Craft; ambos los desarrolló Canva Research, nuestro laboratorio de IA de 160 personas."
-              },
-              {
-                "t": "p",
-                "x": "Desde el lanzamiento de hoy, es hasta un 69% más rápido en tareas generales de edición de diseño y cuesta un 46% menos por tarea de edición que el anterior agente de diseño de Canva."
+                "x": "En agosto de 2026, Anthropic publicó su visión de un ciclo de vida de desarrollo de software (SDLC) AI-native, tras las publicaciones de Google (mayo de 2026) y OpenAI (noviembre de 2025). Las tres relegan UX y la reducen a un contexto entre bastidores que guía la generación de AI."
               },
               {
                 "t": "img",
-                "src": "https://content-management-files.canva.com/3740a9cf-d4a7-4520-b8fa-2a7b2391ed58/CopyofCanva_Brush_Example_Export_05.png"
+                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
+                "cap": "Las 6 etapas del SDLC tradicional"
               },
               {
                 "t": "p",
-                "x": "Internamente, Brush usa un bucle agéntico que escribe y ejecuta código para ajustar los elementos del diseño y luego revisa lo que ocurre en la página para decidir el siguiente paso. Todo lo que crea es totalmente editable."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/acbe19c0-c60f-4243-afda-a8466fac6431/Canva_Brush_Stat_card.png"
+                "x": "UX no tiene a su cargo ninguna etapa ni puerta de aprobación en el playbook de Anthropic. El playbook no menciona la investigación con usuarios, y su etapa Test compara lo construido con el mockup del product owner, lo que no garantiza buena usabilidad ni accesibilidad. Monitorizar métricas técnicas tras el lanzamiento no equivale a medir métricas de usabilidad."
               },
               {
                 "t": "p",
-                "x": "Brush partió de un modelo de pesos abiertos líder, posentrenado con tareas reales de diseño y edición y combinado con aprendizaje por refuerzo a gran escala, con un sistema de recompensas que evalúa la calidad visual, la maquetación y la finalización de la tarea."
-              },
-              {
-                "t": "img",
-                "src": "https://content-management-files.canva.com/2b938cd8-6b24-4ceb-b55e-a94afc493b7b/CanvaBrush_Product_UI_Still.png"
-              },
-              {
-                "t": "p",
-                "x": "Desde hoy, Brush impulsa las ediciones de diseño compatibles en Canva AI para los usuarios de los planes Canva Pro, y pronto llegará a más usuarios. El soporte para Brand Kit y las referencias a archivos adjuntos están en desarrollo."
+                "x": "UX tiene 3 funciones a medida que la AI acelera la producción de software: decidir qué vale la pena construir, evaluar lo que se construye y aportar contexto a la generación de AI. El playbook solo cubre la tercera. NN/g propone centrar intent.md en las necesidades de los usuarios, definir cuándo un trabajo requiere revisión de UX, añadir señales de usuarios a la monitorización, reivindicar la propiedad del contexto de UX y hacer que la investigación y el sistema de diseño sean legibles por máquinas."
               }
             ]
           }
@@ -887,15 +697,15 @@
       }
     },
     {
-      "id": "snaptrude-bim-agent",
+      "id": "allplan-max-2027-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Snaptrude 에이전트\n구상부터 시공 도면까지",
-      "body": "구상·BIM 모델링에서 MEP·시공 문서까지 Snaptrude 에이전트가 맡는다.",
-      "mini_headline": "Snaptrude의 BIM 에이전트",
+      "headline": "Allplan Max\n2027, BIM에 AI를",
+      "body": "Allplan Max 2027이 도면·수식·BIM·구조해석·시각화에 AI를 넣었다.",
+      "mini_headline": "AI 품은 Allplan Max 2027",
       "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -903,221 +713,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+            "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
           },
           {
             "t": "p",
-            "x": "Snaptrude가 자사 BIM 플랫폼에 AI 에이전트 Snaptrude Agent를 내놨다. 초기 콘셉트 검토에서 구조, 기계·전기·배관(MEP), 도면까지 담은 시공 수준 LoD 400 모델에 이르기까지 팀 작업을 돕는다. 사용자가 프롬프트나 문제를 던지면 에이전트가 계획을 내놓고, 사용자는 검토해 승인하거나 추가로 지시한다."
+            "x": "Nemetschek Group과 산하 브랜드 Allplan이 엔지니어링 워크플로용 AI 신제품 Allplan Max 2027 출시를 알렸다. Nemetschek Intelligence Platform에 속한 제품이다. 엔지니어가 쓰던 도구 안으로 AI를 들여와 반복 작업은 줄이고, 프로젝트 정보는 더 빨리 찾고, 일상 업무는 자동으로 돌리게 한다."
           },
           {
             "t": "p",
-            "x": "대지 분석 결과로 매스 대안을 몇 개에서 수백 개까지 만든다. 회사 설명으로는 매스 모델을 몇 분 만에 상세한 LoD 400 BIM 모델로 바꿀 수 있다. 라이브러리에 없는 부재는 사용자가 제조사 사양서를 넣어 주면 된다."
+            "x": "탑재 기능은 Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer, AI Steel Take Off다. Allplan은 이 시스템이 엔지니어링 판단을 대신하지 않고 거들도록 설계했다고 설명했다."
           },
           {
             "t": "p",
-            "x": "구조·MEP 파라메트릭 모델링도 지원하고, 회사 기준에 맞춘 시공 도면 세트도 만든다. 모델은 기존 패밀리를 그대로 둔 채 Revit으로 옮길 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-          },
-          {
-            "t": "p",
-            "x": "빈 대지에서 프로젝트를 시작해도 되고, Revit, Rhino, SketchUp에서 가져온 기존 모델을 써도 된다. 신규 설계와 진행 중인 프로젝트 모두에 에이전트를 쓸 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+            "x": "Allplan Max는 포트폴리오 전체에 들어간다. BIM·디테일링·워크플로 맞춤화는 Allplan, 구조 해석은 SCIA와 FRILO, 제작 중심 워크플로는 SDS2가 맡는다. 사용자들은 일부 작업을 최대 36퍼센트 빨리 끝냈다고 했다. 다만 자가 보고 추정치라 차이가 날 수 있다. Allplan Max 2027 출시일은 2026년 10월 28일이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Snaptrude's AI agent spans\nconcept to construction docs",
-          "body": "Snaptrude's new agent covers architecture from concept and BIM modelling through MEP and construction documents.",
-          "mini_headline": "Snaptrude's BIM agent",
+          "headline": "Allplan Max 2027 brings\nAI into BIM engineering",
+          "body": "Nemetschek's Allplan Max 2027 adds AI tools for drafting, formulas, BIM and structural analysis, and visuals.",
+          "mini_headline": "Allplan Max 2027 adds AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "Snaptrude has introduced Snaptrude Agent, an AI agent for its BIM platform designed to support teams from early concept studies to construction-ready LoD 400 models incorporating structure, mechanical, electrical and plumbing (MEP), and drawings. Users give the Agent a prompt or problem, review its proposed plan, then approve it or provide further direction."
+                "x": "The Nemetschek Group and its brand Allplan announced the launch of Allplan Max 2027, a new AI offering designed for engineering workflows and part of the Nemetschek Intelligence Platform. It brings AI into the tools engineers already use to help firms reduce repetitive work, access project information more quickly and automate routine processes."
               },
               {
                 "t": "p",
-                "x": "It can generate multiple massing options from a site analysis, ranging from a handful of alternatives to hundreds. The company says the Agent can convert massing models into detailed LoD 400 BIM models in minutes; for components not in existing libraries, users can supply vendor specification sheets."
+                "x": "Its capabilities include Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer and AI Steel Take Off. Allplan says the system is designed to support engineering judgment rather than replace it."
               },
               {
                 "t": "p",
-                "x": "The Agent also supports structural and MEP parametric modelling and can generate construction drawing sets to a firm’s standards. Models can be transferred to Revit with existing families retained."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Projects can start from an empty site or use existing models imported from Revit, Rhino or SketchUp, so teams can apply the Agent to both new design work and projects already in progress."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Max is being introduced across the portfolio: Allplan for BIM, detailing and workflow customization; SCIA and FRILO for structural analysis; SDS2 for fabrication-oriented workflows. Users reported up to 36 percent faster completion for selected tasks, self-reported estimates that may vary. Allplan Max 2027 is scheduled to launch on October 28, 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Snaptrude 에이전트\n구상부터 시공 도면까지",
-          "body": "구상·BIM 모델링에서 MEP·시공 문서까지 Snaptrude 에이전트가 맡는다.",
-          "mini_headline": "Snaptrude의 BIM 에이전트",
+          "headline": "Allplan Max\n2027, BIM에 AI를",
+          "body": "Allplan Max 2027이 도면·수식·BIM·구조해석·시각화에 AI를 넣었다.",
+          "mini_headline": "AI 품은 Allplan Max 2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "Snaptrude가 자사 BIM 플랫폼에 AI 에이전트 Snaptrude Agent를 내놨다. 초기 콘셉트 검토에서 구조, 기계·전기·배관(MEP), 도면까지 담은 시공 수준 LoD 400 모델에 이르기까지 팀 작업을 돕는다. 사용자가 프롬프트나 문제를 던지면 에이전트가 계획을 내놓고, 사용자는 검토해 승인하거나 추가로 지시한다."
+                "x": "Nemetschek Group과 산하 브랜드 Allplan이 엔지니어링 워크플로용 AI 신제품 Allplan Max 2027 출시를 알렸다. Nemetschek Intelligence Platform에 속한 제품이다. 엔지니어가 쓰던 도구 안으로 AI를 들여와 반복 작업은 줄이고, 프로젝트 정보는 더 빨리 찾고, 일상 업무는 자동으로 돌리게 한다."
               },
               {
                 "t": "p",
-                "x": "대지 분석 결과로 매스 대안을 몇 개에서 수백 개까지 만든다. 회사 설명으로는 매스 모델을 몇 분 만에 상세한 LoD 400 BIM 모델로 바꿀 수 있다. 라이브러리에 없는 부재는 사용자가 제조사 사양서를 넣어 주면 된다."
+                "x": "탑재 기능은 Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer, AI Steel Take Off다. Allplan은 이 시스템이 엔지니어링 판단을 대신하지 않고 거들도록 설계했다고 설명했다."
               },
               {
                 "t": "p",
-                "x": "구조·MEP 파라메트릭 모델링도 지원하고, 회사 기준에 맞춘 시공 도면 세트도 만든다. 모델은 기존 패밀리를 그대로 둔 채 Revit으로 옮길 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "빈 대지에서 프로젝트를 시작해도 되고, Revit, Rhino, SketchUp에서 가져온 기존 모델을 써도 된다. 신규 설계와 진행 중인 프로젝트 모두에 에이전트를 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Max는 포트폴리오 전체에 들어간다. BIM·디테일링·워크플로 맞춤화는 Allplan, 구조 해석은 SCIA와 FRILO, 제작 중심 워크플로는 SDS2가 맡는다. 사용자들은 일부 작업을 최대 36퍼센트 빨리 끝냈다고 했다. 다만 자가 보고 추정치라 차이가 날 수 있다. Allplan Max 2027 출시일은 2026년 10월 28일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SnaptrudeのAIが\n構想から施工図書まで",
-          "body": "Snaptrudeの新エージェントは構想とBIMモデリングからMEP、施工図書までを担う。",
-          "mini_headline": "SnaptrudeのBIMエージェント",
+          "headline": "Allplan Max\n2027、BIMにAIを",
+          "body": "Allplan Max 2027は製図・数式・BIM・構造解析・可視化にAI機能を加える。",
+          "mini_headline": "Allplan Max 2027がAIを搭載",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "SnaptrudeはBIMプラットフォーム向けのAIエージェント「Snaptrude Agent」を発表した。初期の構想検討から、構造、機械・電気・配管（MEP）、図面を含む施工レベルのLoD 400モデルまでチームを支援する設計だ。ユーザーがプロンプトや課題を与えると、エージェントが計画を提案し、ユーザーはそれを確認して承認するか、追加の指示を出す。"
+                "x": "Nemetschek Groupと同グループのブランドAllplanは、エンジニアリングのワークフロー向けに設計された新たなAI製品Allplan Max 2027の提供開始を発表した。Nemetschek Intelligence Platformの一部である。エンジニアが既に使っているツールにAIを組み込み、企業が反復作業を減らし、プロジェクト情報にすばやくアクセスし、定型的なプロセスを自動化できるよう支援する。"
               },
               {
                 "t": "p",
-                "x": "敷地分析から複数のボリューム案を生成でき、その数は数案から数百案に及ぶ。同社によれば、エージェントはボリュームモデルを数分で詳細なLoD 400 BIMモデルに変換できる。既存ライブラリにない部材は、ユーザーがメーカーの仕様書を提供すればよい。"
+                "x": "機能にはFeature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer、AI Steel Take Offが含まれる。Allplanによれば、このシステムはエンジニアリング上の判断を置き換えるのではなく支えるよう設計されている。"
               },
               {
                 "t": "p",
-                "x": "エージェントは構造とMEPのパラメトリックモデリングにも対応し、事務所の基準に沿った施工図一式を生成できる。モデルは既存のファミリーを保持したままRevitに移行できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "プロジェクトは空の敷地から始めることも、Revit、Rhino、SketchUpから読み込んだ既存モデルを使うこともできるため、新規の設計作業にも進行中のプロジェクトにもエージェントを適用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Maxはポートフォリオ全体に導入される。BIM、ディテーリング、ワークフローのカスタマイズにはAllplan、構造解析にはSCIAとFRILO、製作向けワークフローにはSDS2が対応する。ユーザーからは一部の作業で最大36パーセント速く完了したとの報告があるが、これは自己申告による推定値で、ばらつきがありうる。Allplan Max 2027は2026年10月28日に提供開始の予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Snaptrude智能体\n从概念直通施工文档",
-          "body": "Snaptrude新智能体覆盖从概念、BIM建模到MEP和施工文档的建筑设计全流程。",
-          "mini_headline": "Snaptrude的BIM智能体",
+          "headline": "Allplan Max\n2027将AI引入BIM",
+          "body": "Allplan Max 2027为制图、公式、BIM、结构分析和可视化加入AI工具。",
+          "mini_headline": "Allplan Max 2027加入AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "Snaptrude 推出了 Snaptrude Agent，这是面向其 BIM 平台的 AI 智能体，旨在支持团队从早期概念研究一直推进到包含结构、机械电气管道（MEP）和图纸的可施工 LoD 400 模型。用户向智能体提出提示或问题，审阅其提出的方案，然后批准或给出进一步指示。"
+                "x": "Nemetschek Group及旗下品牌Allplan宣布推出Allplan Max 2027，这是一款专为工程工作流设计的全新AI产品，隶属Nemetschek Intelligence Platform。它把AI带入工程师已在使用的工具中，帮助企业减少重复性工作、更快获取项目信息并自动化日常流程。"
               },
               {
                 "t": "p",
-                "x": "它可以根据场地分析生成多种体块方案，数量从几个到数百个不等。公司表示，智能体能在几分钟内把体块模型转换为详细的 LoD 400 BIM 模型；对于现有库中没有的构件，用户可以提供厂商规格表。"
+                "x": "其功能包括Feature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer和AI Steel Take Off。Allplan表示，该系统旨在辅助而非取代工程判断。"
               },
               {
                 "t": "p",
-                "x": "智能体还支持结构和 MEP 参数化建模，并能按照事务所的标准生成施工图纸集。模型可以在保留现有族的情况下导入 Revit。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "项目既可以从空白场地开始，也可以使用从 Revit、Rhino 或 SketchUp 导入的现有模型，因此团队既能将智能体用于新的设计工作，也能用于已在进行中的项目。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Max正在整个产品组合中推出：Allplan用于BIM、深化设计和工作流定制；SCIA和FRILO用于结构分析；SDS2用于面向加工制造的工作流。用户报告称，部分任务的完成速度最多提升百分之36，但这是自行报告的估计值，可能有所差异。Allplan Max 2027定于2026年10月28日推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de IA de Snaptrude va\ndel concepto a planos de obra",
-          "body": "El nuevo agente de Snaptrude cubre la arquitectura desde el concepto y el modelado BIM hasta MEP y documentos de obra.",
-          "mini_headline": "El agente BIM de Snaptrude",
+          "headline": "Allplan Max 2027 lleva la AI\na la ingeniería BIM",
+          "body": "Allplan Max 2027, de Nemetschek, añade herramientas de AI para dibujo, fórmulas, BIM, análisis estructural y visuales.",
+          "mini_headline": "Allplan Max 2027 incorpora AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "Snaptrude ha presentado Snaptrude Agent, un agente de IA para su plataforma BIM pensado para acompañar a los equipos desde los primeros estudios de concepto hasta modelos LoD 400 listos para obra que incorporan estructura, instalaciones mecánicas, eléctricas y de fontanería (MEP) y planos. Los usuarios plantean al agente una instrucción o un problema, revisan el plan que propone y luego lo aprueban o le dan nuevas indicaciones."
+                "x": "Nemetschek Group y su marca Allplan anunciaron el lanzamiento de Allplan Max 2027, una nueva oferta de AI diseñada para flujos de trabajo de ingeniería y que forma parte de Nemetschek Intelligence Platform. Lleva la AI a las herramientas que los ingenieros ya utilizan para ayudar a las empresas a reducir el trabajo repetitivo, acceder más rápido a la información de los proyectos y automatizar procesos rutinarios."
               },
               {
                 "t": "p",
-                "x": "Puede generar múltiples opciones volumétricas a partir de un análisis del emplazamiento, desde unas pocas alternativas hasta cientos. Según la empresa, el agente puede convertir modelos volumétricos en modelos BIM LoD 400 detallados en minutos; para los componentes que no estén en las bibliotecas existentes, los usuarios pueden aportar fichas técnicas de los fabricantes."
+                "x": "Entre sus funciones figuran Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer y AI Steel Take Off. Allplan afirma que el sistema está diseñado para apoyar el criterio de ingeniería, no para reemplazarlo."
               },
               {
                 "t": "p",
-                "x": "El agente también admite el modelado paramétrico estructural y de MEP, y puede generar juegos de planos de obra según los estándares de cada estudio. Los modelos pueden transferirse a Revit conservando las familias existentes."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los proyectos pueden empezar en un solar vacío o usar modelos existentes importados de Revit, Rhino o SketchUp, de modo que los equipos pueden aplicar el agente tanto a diseños nuevos como a proyectos ya en curso."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Max se está introduciendo en todo el portafolio: Allplan para BIM, detallado y personalización de flujos de trabajo; SCIA y FRILO para análisis estructural; SDS2 para flujos orientados a la fabricación. Los usuarios informaron de una finalización hasta un 36 por ciento más rápida en tareas seleccionadas, estimaciones autodeclaradas que pueden variar. El lanzamiento de Allplan Max 2027 está previsto para el 28 de octubre de 2026."
               }
             ]
           }
@@ -1125,153 +863,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Snaptrude 에이전트\n구상부터 시공 도면까지",
-          "body": "Snaptrude 에이전트는 구상·BIM 모델링부터 MEP·시공 문서까지 맡는다.",
-          "mini_headline": "Snaptrude의 BIM 에이전트",
+          "headline": "Allplan Max\n2027, BIM에 AI를",
+          "body": "Allplan Max 2027은 도면·수식·BIM·구조해석·시각화에 AI를 더한다.",
+          "mini_headline": "Allplan Max 2027, AI 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "Snaptrude가 자사 BIM 플랫폼용 AI 에이전트 Snaptrude Agent를 선보였다. 초기 콘셉트 검토부터 구조, 기계·전기·배관(MEP), 도면을 담은 시공 수준의 LoD 400 모델까지 팀을 지원하도록 설계됐다. 사용자가 프롬프트나 문제를 주면 에이전트가 계획을 제안하고, 사용자는 이를 검토해 승인하거나 추가 지시를 내린다."
+                "x": "Nemetschek Group과 산하 브랜드 Allplan이 엔지니어링 워크플로를 위한 새로운 AI 제품 Allplan Max 2027 출시를 발표했다. Nemetschek Intelligence Platform의 일부다. 엔지니어가 이미 쓰는 도구에 AI를 들여와, 기업이 반복 작업을 줄이고 프로젝트 정보에 더 빨리 접근하며 일상적인 프로세스를 자동화하도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "대지 분석을 바탕으로 매스 대안을 몇 개에서 수백 개까지 만들 수 있다. 회사는 에이전트가 매스 모델을 몇 분 만에 상세한 LoD 400 BIM 모델로 바꿀 수 있다고 설명한다. 기존 라이브러리에 없는 부재는 사용자가 제조사 사양서를 넣어 주면 된다."
+                "x": "기능으로는 Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer, AI Steel Take Off가 있다. Allplan은 이 시스템이 엔지니어링 판단을 대체하지 않고 뒷받침하도록 설계됐다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 구조와 MEP 파라메트릭 모델링도 지원하며, 회사 기준에 맞춘 시공 도면 세트를 만들 수 있다. 모델은 기존 패밀리를 유지한 채 Revit으로 옮길 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "프로젝트는 빈 대지에서 시작하거나 Revit, Rhino, SketchUp에서 가져온 기존 모델을 쓸 수 있어, 새 설계 작업과 이미 진행 중인 프로젝트 모두에 에이전트를 적용할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Max는 포트폴리오 전반에 도입된다. BIM·디테일링·워크플로 맞춤화에는 Allplan, 구조 해석에는 SCIA와 FRILO, 제작 중심 워크플로에는 SDS2가 쓰인다. 사용자들은 일부 작업에서 완료 속도가 최대 36퍼센트 빨라졌다고 보고했는데, 이는 자가 보고 추정치로 달라질 수 있다. Allplan Max 2027은 2026년 10월 28일 출시될 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SnaptrudeのAIが\n構想から施工図書まで",
-          "body": "Snaptrudeの新エージェントは構想とBIMモデリングからMEP、施工図書までを担う。",
-          "mini_headline": "SnaptrudeのBIMエージェント",
+          "headline": "Allplan Max\n2027、BIMにAIを",
+          "body": "Allplan Max 2027は製図・数式・BIM・構造解析・可視化にAI機能を加える。",
+          "mini_headline": "Allplan Max 2027がAIを搭載",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "SnaptrudeはBIMプラットフォーム向けのAIエージェント「Snaptrude Agent」を発表した。初期の構想検討から、構造、機械・電気・配管（MEP）、図面を含む施工レベルのLoD 400モデルまでチームを支援する設計だ。ユーザーがプロンプトや課題を与えると、エージェントが計画を提案し、ユーザーはそれを確認して承認するか、追加の指示を出す。"
+                "x": "Nemetschek Groupと同グループのブランドAllplanは、エンジニアリングのワークフロー向けに設計された新たなAI製品Allplan Max 2027の提供開始を発表した。Nemetschek Intelligence Platformの一部である。エンジニアが既に使っているツールにAIを組み込み、企業が反復作業を減らし、プロジェクト情報にすばやくアクセスし、定型的なプロセスを自動化できるよう支援する。"
               },
               {
                 "t": "p",
-                "x": "敷地分析から複数のボリューム案を生成でき、その数は数案から数百案に及ぶ。同社によれば、エージェントはボリュームモデルを数分で詳細なLoD 400 BIMモデルに変換できる。既存ライブラリにない部材は、ユーザーがメーカーの仕様書を提供すればよい。"
+                "x": "機能にはFeature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer、AI Steel Take Offが含まれる。Allplanによれば、このシステムはエンジニアリング上の判断を置き換えるのではなく支えるよう設計されている。"
               },
               {
                 "t": "p",
-                "x": "エージェントは構造とMEPのパラメトリックモデリングにも対応し、事務所の基準に沿った施工図一式を生成できる。モデルは既存のファミリーを保持したままRevitに移行できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "プロジェクトは空の敷地から始めることも、Revit、Rhino、SketchUpから読み込んだ既存モデルを使うこともできるため、新規の設計作業にも進行中のプロジェクトにもエージェントを適用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Maxはポートフォリオ全体に導入される。BIM、ディテーリング、ワークフローのカスタマイズにはAllplan、構造解析にはSCIAとFRILO、製作向けワークフローにはSDS2が対応する。ユーザーからは一部の作業で最大36パーセント速く完了したとの報告があるが、これは自己申告による推定値で、ばらつきがありうる。Allplan Max 2027は2026年10月28日に提供開始の予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Snaptrude智能体\n从概念直通施工文档",
-          "body": "Snaptrude新智能体覆盖从概念、BIM建模到MEP和施工文档的建筑设计全流程。",
-          "mini_headline": "Snaptrude的BIM智能体",
+          "headline": "Allplan Max\n2027将AI引入BIM",
+          "body": "Allplan Max 2027为制图、公式、BIM、结构分析和可视化加入AI工具。",
+          "mini_headline": "Allplan Max 2027加入AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "Snaptrude 推出了 Snaptrude Agent，这是面向其 BIM 平台的 AI 智能体，旨在支持团队从早期概念研究一直推进到包含结构、机械电气管道（MEP）和图纸的可施工 LoD 400 模型。用户向智能体提出提示或问题，审阅其提出的方案，然后批准或给出进一步指示。"
+                "x": "Nemetschek Group及旗下品牌Allplan宣布推出Allplan Max 2027，这是一款专为工程工作流设计的全新AI产品，隶属Nemetschek Intelligence Platform。它把AI带入工程师已在使用的工具中，帮助企业减少重复性工作、更快获取项目信息并自动化日常流程。"
               },
               {
                 "t": "p",
-                "x": "它可以根据场地分析生成多种体块方案，数量从几个到数百个不等。公司表示，智能体能在几分钟内把体块模型转换为详细的 LoD 400 BIM 模型；对于现有库中没有的构件，用户可以提供厂商规格表。"
+                "x": "其功能包括Feature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer和AI Steel Take Off。Allplan表示，该系统旨在辅助而非取代工程判断。"
               },
               {
                 "t": "p",
-                "x": "智能体还支持结构和 MEP 参数化建模，并能按照事务所的标准生成施工图纸集。模型可以在保留现有族的情况下导入 Revit。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "项目既可以从空白场地开始，也可以使用从 Revit、Rhino 或 SketchUp 导入的现有模型，因此团队既能将智能体用于新的设计工作，也能用于已在进行中的项目。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Max正在整个产品组合中推出：Allplan用于BIM、深化设计和工作流定制；SCIA和FRILO用于结构分析；SDS2用于面向加工制造的工作流。用户报告称，部分任务的完成速度最多提升百分之36，但这是自行报告的估计值，可能有所差异。Allplan Max 2027定于2026年10月28日推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de IA de Snaptrude va\ndel concepto a planos de obra",
-          "body": "El nuevo agente de Snaptrude cubre la arquitectura desde el concepto y el modelado BIM hasta MEP y documentos de obra.",
-          "mini_headline": "El agente BIM de Snaptrude",
+          "headline": "Allplan Max 2027 lleva la AI\na la ingeniería BIM",
+          "body": "Allplan Max 2027, de Nemetschek, añade herramientas de AI para dibujo, fórmulas, BIM, análisis estructural y visuales.",
+          "mini_headline": "Allplan Max 2027 incorpora AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-1.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
               },
               {
                 "t": "p",
-                "x": "Snaptrude ha presentado Snaptrude Agent, un agente de IA para su plataforma BIM pensado para acompañar a los equipos desde los primeros estudios de concepto hasta modelos LoD 400 listos para obra que incorporan estructura, instalaciones mecánicas, eléctricas y de fontanería (MEP) y planos. Los usuarios plantean al agente una instrucción o un problema, revisan el plan que propone y luego lo aprueban o le dan nuevas indicaciones."
+                "x": "Nemetschek Group y su marca Allplan anunciaron el lanzamiento de Allplan Max 2027, una nueva oferta de AI diseñada para flujos de trabajo de ingeniería y que forma parte de Nemetschek Intelligence Platform. Lleva la AI a las herramientas que los ingenieros ya utilizan para ayudar a las empresas a reducir el trabajo repetitivo, acceder más rápido a la información de los proyectos y automatizar procesos rutinarios."
               },
               {
                 "t": "p",
-                "x": "Puede generar múltiples opciones volumétricas a partir de un análisis del emplazamiento, desde unas pocas alternativas hasta cientos. Según la empresa, el agente puede convertir modelos volumétricos en modelos BIM LoD 400 detallados en minutos; para los componentes que no estén en las bibliotecas existentes, los usuarios pueden aportar fichas técnicas de los fabricantes."
+                "x": "Entre sus funciones figuran Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer y AI Steel Take Off. Allplan afirma que el sistema está diseñado para apoyar el criterio de ingeniería, no para reemplazarlo."
               },
               {
                 "t": "p",
-                "x": "El agente también admite el modelado paramétrico estructural y de MEP, y puede generar juegos de planos de obra según los estándares de cada estudio. Los modelos pueden transferirse a Revit conservando las familias existentes."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los proyectos pueden empezar en un solar vacío o usar modelos existentes importados de Revit, Rhino o SketchUp, de modo que los equipos pueden aplicar el agente tanto a diseños nuevos como a proyectos ya en curso."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Snaptrude-3.jpg"
+                "x": "Allplan Max se está introduciendo en todo el portafolio: Allplan para BIM, detallado y personalización de flujos de trabajo; SCIA y FRILO para análisis estructural; SDS2 para flujos orientados a la fabricación. Los usuarios informaron de una finalización hasta un 36 por ciento más rápida en tareas seleccionadas, estimaciones autodeclaradas que pueden variar. El lanzamiento de Allplan Max 2027 está previsto para el 28 de octubre de 2026."
               }
             ]
           }
@@ -1279,631 +969,213 @@
       }
     },
     {
-      "id": "fusion-oct26-auto-timeline",
+      "id": "uxcollective-ai-cost-controls",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Fusion, 외부 형상을\n편집 가능한 피처로",
-      "body": "Fusion의 Auto Timeline이 불러온 형상을 파라메트릭 피처로 되살린다.",
-      "mini_headline": "Fusion의 Auto Timeline",
-      "tool": "Text-to-CAD",
-      "source": "Autodesk Fusion Blog",
-      "url": "https://www.autodesk.com/products/fusion-360/blog/top-5-features-october-2026-fusion-update/",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-          },
-          {
-            "t": "p",
-            "x": "Autodesk Fusion 2026년 10월 업데이트로 가져온 모델용 AI-assisted Auto Timeline, 코드 없이 쓰는 System Modeler, 선삭 기능 개선, 새 eCAD 드릴·동박 뷰, 내장 작업 관리가 들어왔다."
-          },
-          {
-            "t": "video",
-            "yt": "Pq616aIBf3I"
-          },
-          {
-            "t": "p",
-            "x": "비네이티브 모델을 Fusion에 가져와 고치다 보면 일부를 처음부터 다시 만들게 되곤 한다. Auto Timeline은 AI-assisted 피처 재구성으로 그 형상을 편집 가능한 파라메트릭 Fusion 디자인으로 바꾼다. 지금은 돌출, 회전, 모따기, 필렛, 구멍, 기본 스윕을 재구성하고, 피처 유형은 더 늘릴 예정이다. 모델 전체를 다시 쓰는 기능이 아니라 빠르게 고치기 위한 기능이다."
-          },
-          {
-            "t": "p",
-            "x": "System Modeler는 반복되는 설계·제조 작업을 코드 없이 자동화하는 노드 기반 스크립팅 환경이다. 선삭에는 바 풀 위치, 홈 황삭 커스프 정리, 공구 한계가 생겼고 eCAD 도면에는 드릴 뷰, 드릴 표, 동박 뷰가 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "작업 관리는 Fusion 안에서 디자인과 연결되고, Kanban이나 목록 보드로 본다. Autodesk Assistant에 자연어로 말하면 작업을 만들거나 기존 작업을 업데이트하고, 필요한 것을 찾을 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Autodesk Fusion turns imported\ngeometry into features",
-          "body": "Fusion's October update adds Auto Timeline, which rebuilds imported geometry as editable parametric features.",
-          "mini_headline": "Fusion's Auto Timeline",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "The October 2026 Autodesk Fusion update adds AI-assisted Auto Timeline for imported models, a no-code System Modeler, turning improvements, new eCAD drill and copper views, and built-in task management."
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "If you bring a non-native model into Fusion and need to change it, you have probably ended up rebuilding parts of it from scratch. Auto Timeline uses AI-assisted feature reconstruction to convert that geometry into an editable parametric Fusion design. It reconstructs extrudes, revolves, chamfers, fillets, holes and basic sweeps today, with more feature types on the way. It is built for quick model adjustments, not full rebuilds."
-              },
-              {
-                "t": "p",
-                "x": "System Modeler is a node-based scripting environment that automates repetitive design and manufacturing tasks without writing code. Turning gains bar pull position, groove roughing cusp clearing and tool limits; eCAD drawings add drill views, drill tables and copper views."
-              },
-              {
-                "t": "p",
-                "x": "Task management is built into Fusion, linked to designs, with Kanban or list boards. With Autodesk Assistant you can create tasks, update existing work or find what you need in natural language."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Fusion, 외부 형상을\n편집 가능한 피처로",
-          "body": "Fusion의 Auto Timeline이 불러온 형상을 파라메트릭 피처로 되살린다.",
-          "mini_headline": "Fusion의 Auto Timeline",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "Autodesk Fusion 2026년 10월 업데이트로 가져온 모델용 AI-assisted Auto Timeline, 코드 없이 쓰는 System Modeler, 선삭 기능 개선, 새 eCAD 드릴·동박 뷰, 내장 작업 관리가 들어왔다."
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "비네이티브 모델을 Fusion에 가져와 고치다 보면 일부를 처음부터 다시 만들게 되곤 한다. Auto Timeline은 AI-assisted 피처 재구성으로 그 형상을 편집 가능한 파라메트릭 Fusion 디자인으로 바꾼다. 지금은 돌출, 회전, 모따기, 필렛, 구멍, 기본 스윕을 재구성하고, 피처 유형은 더 늘릴 예정이다. 모델 전체를 다시 쓰는 기능이 아니라 빠르게 고치기 위한 기능이다."
-              },
-              {
-                "t": "p",
-                "x": "System Modeler는 반복되는 설계·제조 작업을 코드 없이 자동화하는 노드 기반 스크립팅 환경이다. 선삭에는 바 풀 위치, 홈 황삭 커스프 정리, 공구 한계가 생겼고 eCAD 도면에는 드릴 뷰, 드릴 표, 동박 뷰가 붙었다."
-              },
-              {
-                "t": "p",
-                "x": "작업 관리는 Fusion 안에서 디자인과 연결되고, Kanban이나 목록 보드로 본다. Autodesk Assistant에 자연어로 말하면 작업을 만들거나 기존 작업을 업데이트하고, 필요한 것을 찾을 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fusionがインポート\n形状をフィーチャー化",
-          "body": "FusionのAuto Timelineは取り込んだ形状を編集可能なフィーチャーに変える。",
-          "mini_headline": "FusionのAuto Timeline",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "Autodesk Fusionの2026年10月アップデートでは、インポートしたモデル向けのAI-assisted Auto Timeline、ノーコードのSystem Modeler、旋削機能の改善、eCADの新しいドリルビューと銅箔ビュー、組み込みのタスク管理が加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "ネイティブ以外のモデルをFusionに取り込んで変更する必要があるとき、一部をゼロから作り直すことになった経験があるだろう。Auto TimelineはAI-assistedのフィーチャー再構築により、その形状を編集可能なパラメトリックFusionデザインに変換する。現在は押し出し、回転、面取り、フィレット、穴、基本的なスイープを再構築でき、対応するフィーチャーの種類は今後増える。完全な作り直しではなく、素早いモデル調整のための機能だ。"
-              },
-              {
-                "t": "p",
-                "x": "System Modelerは、コードを書かずに繰り返しの設計・製造作業を自動化するノードベースのスクリプト環境だ。旋削にはバープル位置、溝荒加工のカスプ除去、工具制限が加わり、eCAD図面にはドリルビュー、ドリル表、銅箔ビューが追加された。"
-              },
-              {
-                "t": "p",
-                "x": "タスク管理はFusionに組み込まれてデザインと連携し、Kanbanまたはリスト形式のボードで使える。Autodesk Assistantを使えば、自然言語でタスクを作成し、既存の作業を更新し、必要なものを見つけられる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fusion将导入几何\n转为可编辑特征",
-          "body": "Fusion十月更新加入Auto Timeline，可将导入几何重建为可编辑的参数化特征。",
-          "mini_headline": "Fusion的Auto Timeline",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "Autodesk Fusion 2026年10月更新为导入模型加入了 AI-assisted Auto Timeline，还带来无代码的 System Modeler、车削改进、新的 eCAD 钻孔与铜箔视图，以及内置任务管理。"
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "如果你把非原生模型导入 Fusion 并需要修改，很可能不得不从头重建其中一部分。Auto Timeline 借助 AI-assisted 特征重建，把这些几何体转换为可编辑的参数化 Fusion 设计。目前它能重建拉伸、旋转、倒角、圆角、孔和基本扫掠，更多特征类型即将推出。它面向快速的模型调整，而非完整重建。"
-              },
-              {
-                "t": "p",
-                "x": "System Modeler 是基于节点的脚本环境，无需编写代码即可自动化重复的设计和制造任务。车削新增棒料拉出位置、槽粗加工残留清理和刀具限制；eCAD 图纸新增钻孔视图、钻孔表和铜箔视图。"
-              },
-              {
-                "t": "p",
-                "x": "任务管理内置于 Fusion，与设计关联，支持 Kanban 或列表看板。借助 Autodesk Assistant，你可以用自然语言创建任务、更新现有工作或查找所需内容。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Autodesk Fusion vuelve editable\nla geometría importada",
-          "body": "Fusion suma en octubre Auto Timeline, que reconstruye la geometría importada como operaciones paramétricas editables.",
-          "mini_headline": "Auto Timeline de Fusion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "La actualización de octubre de 2026 de Autodesk Fusion añade Auto Timeline, asistido por IA (AI-assisted), para modelos importados, un System Modeler sin código, mejoras de torneado, nuevas vistas de taladros y de cobre en eCAD y gestión de tareas integrada."
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "Si importas a Fusion un modelo no nativo y necesitas cambiarlo, probablemente hayas acabado reconstruyendo partes desde cero. Auto Timeline usa reconstrucción de operaciones asistida por IA para convertir esa geometría en un diseño paramétrico editable de Fusion. Hoy reconstruye extrusiones, revoluciones, chaflanes, empalmes, agujeros y barridos básicos, y llegarán más tipos de operaciones. Está pensado para ajustes rápidos del modelo, no para reconstrucciones completas."
-              },
-              {
-                "t": "p",
-                "x": "System Modeler es un entorno de scripting basado en nodos que automatiza tareas repetitivas de diseño y fabricación sin escribir código. El torneado suma la posición de tirada de barra, la limpieza de crestas en el desbaste de ranuras y límites de herramienta; los planos de eCAD añaden vistas de taladros, tablas de taladros y vistas de cobre."
-              },
-              {
-                "t": "p",
-                "x": "La gestión de tareas está integrada en Fusion, vinculada a los diseños, con tableros Kanban o de lista. Con Autodesk Assistant puedes crear tareas, actualizar el trabajo existente o encontrar lo que necesitas en lenguaje natural."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Fusion, 외부 형상을\n편집 가능한 피처로",
-          "body": "Fusion의 Auto Timeline은 불러온 형상을 파라메트릭 피처로 바꾼다.",
-          "mini_headline": "Fusion의 Auto Timeline",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "Autodesk Fusion 2026년 10월 업데이트에는 가져온 모델을 위한 AI-assisted Auto Timeline, 코드 없이 쓰는 System Modeler, 선삭 기능 개선, 새 eCAD 드릴·동박 뷰, 내장 작업 관리 기능이 추가됐다."
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "비네이티브 모델을 Fusion으로 가져와 수정해야 할 때, 일부를 처음부터 다시 만든 경험이 있을 것이다. Auto Timeline은 AI-assisted 피처 재구성으로 그 형상을 편집 가능한 파라메트릭 Fusion 디자인으로 바꾼다. 현재 돌출, 회전, 모따기, 필렛, 구멍, 기본 스윕을 재구성하며 더 많은 피처 유형이 추가될 예정이다. 전체 재작성이 아니라 빠른 모델 수정을 위한 기능이다."
-              },
-              {
-                "t": "p",
-                "x": "System Modeler는 코드를 쓰지 않고 반복적인 설계·제조 작업을 자동화하는 노드 기반 스크립팅 환경이다. 선삭에는 바 풀 위치, 홈 황삭 커스프 정리, 공구 한계가 추가됐고, eCAD 도면에는 드릴 뷰, 드릴 표, 동박 뷰가 더해졌다."
-              },
-              {
-                "t": "p",
-                "x": "작업 관리는 Fusion에 내장돼 디자인과 연결되며, Kanban 또는 목록 보드를 쓴다. Autodesk Assistant를 쓰면 자연어로 작업을 만들고, 기존 작업을 업데이트하거나 필요한 것을 찾을 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fusionがインポート\n形状をフィーチャー化",
-          "body": "FusionのAuto Timelineは取り込んだ形状を編集可能なフィーチャーに変える。",
-          "mini_headline": "FusionのAuto Timeline",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "Autodesk Fusionの2026年10月アップデートでは、インポートしたモデル向けのAI-assisted Auto Timeline、ノーコードのSystem Modeler、旋削機能の改善、eCADの新しいドリルビューと銅箔ビュー、組み込みのタスク管理が加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "ネイティブ以外のモデルをFusionに取り込んで変更する必要があるとき、一部をゼロから作り直すことになった経験があるだろう。Auto TimelineはAI-assistedのフィーチャー再構築により、その形状を編集可能なパラメトリックFusionデザインに変換する。現在は押し出し、回転、面取り、フィレット、穴、基本的なスイープを再構築でき、対応するフィーチャーの種類は今後増える。完全な作り直しではなく、素早いモデル調整のための機能だ。"
-              },
-              {
-                "t": "p",
-                "x": "System Modelerは、コードを書かずに繰り返しの設計・製造作業を自動化するノードベースのスクリプト環境だ。旋削にはバープル位置、溝荒加工のカスプ除去、工具制限が加わり、eCAD図面にはドリルビュー、ドリル表、銅箔ビューが追加された。"
-              },
-              {
-                "t": "p",
-                "x": "タスク管理はFusionに組み込まれてデザインと連携し、Kanbanまたはリスト形式のボードで使える。Autodesk Assistantを使えば、自然言語でタスクを作成し、既存の作業を更新し、必要なものを見つけられる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fusion将导入几何\n转为可编辑特征",
-          "body": "Fusion十月更新加入Auto Timeline，可将导入几何重建为可编辑的参数化特征。",
-          "mini_headline": "Fusion的Auto Timeline",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "Autodesk Fusion 2026年10月更新为导入模型加入了 AI-assisted Auto Timeline，还带来无代码的 System Modeler、车削改进、新的 eCAD 钻孔与铜箔视图，以及内置任务管理。"
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "如果你把非原生模型导入 Fusion 并需要修改，很可能不得不从头重建其中一部分。Auto Timeline 借助 AI-assisted 特征重建，把这些几何体转换为可编辑的参数化 Fusion 设计。目前它能重建拉伸、旋转、倒角、圆角、孔和基本扫掠，更多特征类型即将推出。它面向快速的模型调整，而非完整重建。"
-              },
-              {
-                "t": "p",
-                "x": "System Modeler 是基于节点的脚本环境，无需编写代码即可自动化重复的设计和制造任务。车削新增棒料拉出位置、槽粗加工残留清理和刀具限制；eCAD 图纸新增钻孔视图、钻孔表和铜箔视图。"
-              },
-              {
-                "t": "p",
-                "x": "任务管理内置于 Fusion，与设计关联，支持 Kanban 或列表看板。借助 Autodesk Assistant，你可以用自然语言创建任务、更新现有工作或查找所需内容。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Autodesk Fusion vuelve editable\nla geometría importada",
-          "body": "Fusion suma en octubre Auto Timeline, que reconstruye la geometría importada como operaciones paramétricas editables.",
-          "mini_headline": "Auto Timeline de Fusion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2026/10/image-11.png"
-              },
-              {
-                "t": "p",
-                "x": "La actualización de octubre de 2026 de Autodesk Fusion añade Auto Timeline, asistido por IA (AI-assisted), para modelos importados, un System Modeler sin código, mejoras de torneado, nuevas vistas de taladros y de cobre en eCAD y gestión de tareas integrada."
-              },
-              {
-                "t": "video",
-                "yt": "Pq616aIBf3I"
-              },
-              {
-                "t": "p",
-                "x": "Si importas a Fusion un modelo no nativo y necesitas cambiarlo, probablemente hayas acabado reconstruyendo partes desde cero. Auto Timeline usa reconstrucción de operaciones asistida por IA para convertir esa geometría en un diseño paramétrico editable de Fusion. Hoy reconstruye extrusiones, revoluciones, chaflanes, empalmes, agujeros y barridos básicos, y llegarán más tipos de operaciones. Está pensado para ajustes rápidos del modelo, no para reconstrucciones completas."
-              },
-              {
-                "t": "p",
-                "x": "System Modeler es un entorno de scripting basado en nodos que automatiza tareas repetitivas de diseño y fabricación sin escribir código. El torneado suma la posición de tirada de barra, la limpieza de crestas en el desbaste de ranuras y límites de herramienta; los planos de eCAD añaden vistas de taladros, tablas de taladros y vistas de cobre."
-              },
-              {
-                "t": "p",
-                "x": "La gestión de tareas está integrada en Fusion, vinculada a los diseños, con tableros Kanban o de lista. Con Autodesk Assistant puedes crear tareas, actualizar el trabajo existente o encontrar lo que necesitas en lenguaje natural."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "uxc-deep-research-ux",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 딥리서치 에이전트의\nUX 질문 여섯 가지",
-      "body": "긴 AI 리서치 작업의 UX 질문 여섯 가지를 Google 등 사례로 짚었다.",
-      "mini_headline": "딥리서치 UX 설계",
+      "headline": "AI 비용 통제\n투명하게 설계하기",
+      "body": "겉보기엔 비슷한 빠른 수정과 긴 에이전트 실행의 단위·한도·안내를 짚은 가이드다.",
+      "mini_headline": "AI 비용을 투명하게",
       "tool": "Figma",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
-      "accent": "#eb367f",
+      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-            "cap": "복잡한 AI 리서치를 위한 디자인"
-          },
-          {
             "t": "p",
-            "x": "답이 나오기까지 몇 초가 아니라 몇 분이 걸린다면? 복잡한 작업을 AI와 함께 하는 사용자는 여러 질문을 품는다. 글은 그 질문에 답하는 인터페이스를 살펴본다. 내 뜻을 제대로 이해했나? 지금 뭔가 진행되고 있나? 결과를 이해할 수 있나? 믿어도 되나? 다음엔 무엇을 하나? 바꿀 수 있나?"
-          },
-          {
-            "t": "p",
-            "x": "몇 분씩 걸리는 작업에서 첫 단추를 잘못 끼우면 대가가 크다. 요청이 모호하면 되묻는 질문이, 명확하지만 범위가 넓으면 계획이 잘 통한다. Gemini Deep Research는 리서치 단계와 예상 소요 시간을 보여 주고, 사용자는 계획을 고치거나 바로 리서치를 시작할 수 있다."
+            "x": "사용 단위 고르기, 지출 한도 설계, 작업 전·중·후 AI 비용 설명법을 담은 실용 가이드다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-            "cap": "Google 리서치의 사고 과정"
+            "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
           },
           {
             "t": "p",
-            "x": "Elicit과 Gemini는 추론 단계를 보여 준다. 진행 상황이 보이면 기다리기가 한결 쉬워서다. Consensus는 근거의 강도를 매긴다. Consensus Meter는 연구 몇 건이 각각 '예', '아니요', '엇갈림'으로 답하는지 보여 준다."
+            "x": "AI 응답에는 하나하나 값이 매겨진다. 빠른 수정도, 오래 도는 에이전트도 인터페이스에서는 거의 똑같아 보이고 같은 버튼으로 시작한다. 그래서 디자이너가 정할 건 두 가지다. 사용자가 무엇을 쓰고 있다고 여기게 할 단위, 그리고 비용을 언제 알게 할지다."
+          },
+          {
+            "t": "p",
+            "x": "토큰은 시스템의 화폐지 사용자의 화폐가 아니다. 단위는 토큰·달러부터 크레딧, 작업·결과, 사용 허용량까지 여러 가지인데 결정적 차이는 불확실성을 누가 지느냐에 있다. 사용 한도라면 기간과 초기화 시점을, 작업 단위 가격이라면 무엇이 집계되는지를 보여 줘야 한다. 크레딧은 그 가치를 가늠할 수 있어야 한다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-            "cap": "Consensus의 답변"
+            "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
           },
           {
             "t": "p",
-            "x": "Perplexity와 Microsoft Copilot은 주장마다 출처의 정확한 구절을 잇고, 응답마다 다음 행동을 제안한다. Copilot은 제안을 세 개까지만 낸다. Layla AI에서는 AI가 짠 여행 일정 일부를 사용자가 직접 바꿀 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "AI 작업이 30초를 넘긴다면 시작하기 전에 범위를 맞추고, 작업하는 동안에는 진행 상황을 보여 줘야 한다."
+            "x": "작업 전에는 비용을 좌우하는 요인을 알리고 더 싼 모드나 상한을 내민다. 작업 중에는 실제 진행 상황을 보여 주다가 추정치가 빗나가면 계속할지 먼저 묻는다. 끝나면 영수증을 붙인다. 비용은 필요할 때 보이면 그만이다. 사용자가 내내 신경 쓰게 만들어서는 안 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Six UX questions for AI\ndeep-research agents",
-          "body": "The essay draws six UX questions for long-running AI research tasks from Google, Perplexity and Microsoft.",
-          "mini_headline": "Designing deep research UX",
+          "headline": "Designing transparent\nAI cost controls",
+          "body": "A quick edit and a long agent run can look almost alike, so the guide covers usage units, spend limits and cost notes.",
+          "mini_headline": "Transparent AI cost controls",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "Designing for complex AI research"
-              },
-              {
                 "t": "p",
-                "x": "What happens when generating an answer takes minutes rather than seconds? This article looks at interfaces that answer the questions users have when working with AI on complex tasks: Is this what you meant? Is anything happening? Can I make sense of it? Can I trust this? What do I do next? Can I change it?"
-              },
-              {
-                "t": "p",
-                "x": "When an answer takes minutes, a wrong start is expensive. Clarifying questions work when a request is vague; a plan works when it is clear but broad. Gemini Deep Research lays out its research steps and an estimated time, and the user can edit the plan or start the research."
+                "x": "A practical guide to choosing usage units, designing spending limits, and explaining AI costs before, during, and after the work."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Google research chain of thought"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "Elicit and Gemini show reasoning steps, since visible progress makes waiting easier. Consensus rates the strength of evidence, and its Consensus Meter shows how many studies say yes, no or are mixed."
+                "x": "Every AI response has a price. A quick edit and a long-running agent can look almost identical in the interface, yet both start with the same button. For designers, that comes down to two decisions: the unit users see themselves spending, and the moment they understand the cost."
+              },
+              {
+                "t": "p",
+                "x": "Tokens are the system's currency, not the user's. Units range from tokens and dollars to credits, tasks and outcomes, and usage allowances; the important distinction is who carries the uncertainty. Usage limits should show each window and its reset; task pricing should explain what counts; credits need a sense of value."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Consensus answer"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "Perplexity and Microsoft Copilot link claims to the exact passage in a source and suggest the next move after every response; Copilot limits suggestions to three. Layla AI lets users swap parts of a generated trip directly."
-              },
-              {
-                "t": "p",
-                "x": "If your AI task takes more than 30 seconds, agree on the scope before it starts and show progress while it works."
+                "x": "Before the work, explain what drives the cost and offer a cheaper mode or ceiling. During it, show real progress and ask before continuing if the estimate no longer holds. After it, attach a receipt. Cost should be visible when it matters, without becoming something users have to think about constantly."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 딥리서치 에이전트의\nUX 질문 여섯 가지",
-          "body": "긴 AI 리서치 작업의 UX 질문 여섯 가지를 Google 등 사례로 짚었다.",
-          "mini_headline": "딥리서치 UX 설계",
+          "headline": "AI 비용 통제\n투명하게 설계하기",
+          "body": "겉보기엔 비슷한 빠른 수정과 긴 에이전트 실행의 단위·한도·안내를 짚은 가이드다.",
+          "mini_headline": "AI 비용을 투명하게",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "복잡한 AI 리서치를 위한 디자인"
-              },
-              {
                 "t": "p",
-                "x": "답이 나오기까지 몇 초가 아니라 몇 분이 걸린다면? 복잡한 작업을 AI와 함께 하는 사용자는 여러 질문을 품는다. 글은 그 질문에 답하는 인터페이스를 살펴본다. 내 뜻을 제대로 이해했나? 지금 뭔가 진행되고 있나? 결과를 이해할 수 있나? 믿어도 되나? 다음엔 무엇을 하나? 바꿀 수 있나?"
-              },
-              {
-                "t": "p",
-                "x": "몇 분씩 걸리는 작업에서 첫 단추를 잘못 끼우면 대가가 크다. 요청이 모호하면 되묻는 질문이, 명확하지만 범위가 넓으면 계획이 잘 통한다. Gemini Deep Research는 리서치 단계와 예상 소요 시간을 보여 주고, 사용자는 계획을 고치거나 바로 리서치를 시작할 수 있다."
+                "x": "사용 단위 고르기, 지출 한도 설계, 작업 전·중·후 AI 비용 설명법을 담은 실용 가이드다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Google 리서치의 사고 과정"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "Elicit과 Gemini는 추론 단계를 보여 준다. 진행 상황이 보이면 기다리기가 한결 쉬워서다. Consensus는 근거의 강도를 매긴다. Consensus Meter는 연구 몇 건이 각각 '예', '아니요', '엇갈림'으로 답하는지 보여 준다."
+                "x": "AI 응답에는 하나하나 값이 매겨진다. 빠른 수정도, 오래 도는 에이전트도 인터페이스에서는 거의 똑같아 보이고 같은 버튼으로 시작한다. 그래서 디자이너가 정할 건 두 가지다. 사용자가 무엇을 쓰고 있다고 여기게 할 단위, 그리고 비용을 언제 알게 할지다."
+              },
+              {
+                "t": "p",
+                "x": "토큰은 시스템의 화폐지 사용자의 화폐가 아니다. 단위는 토큰·달러부터 크레딧, 작업·결과, 사용 허용량까지 여러 가지인데 결정적 차이는 불확실성을 누가 지느냐에 있다. 사용 한도라면 기간과 초기화 시점을, 작업 단위 가격이라면 무엇이 집계되는지를 보여 줘야 한다. 크레딧은 그 가치를 가늠할 수 있어야 한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Consensus의 답변"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "Perplexity와 Microsoft Copilot은 주장마다 출처의 정확한 구절을 잇고, 응답마다 다음 행동을 제안한다. Copilot은 제안을 세 개까지만 낸다. Layla AI에서는 AI가 짠 여행 일정 일부를 사용자가 직접 바꿀 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI 작업이 30초를 넘긴다면 시작하기 전에 범위를 맞추고, 작업하는 동안에는 진행 상황을 보여 줘야 한다."
+                "x": "작업 전에는 비용을 좌우하는 요인을 알리고 더 싼 모드나 상한을 내민다. 작업 중에는 실제 진행 상황을 보여 주다가 추정치가 빗나가면 계속할지 먼저 묻는다. 끝나면 영수증을 붙인다. 비용은 필요할 때 보이면 그만이다. 사용자가 내내 신경 쓰게 만들어서는 안 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIディープリサーチの\nUXをめぐる6つの問い",
-          "body": "GoogleやMicrosoftなどの例から、長時間AI調査のUXの問いを6つ挙げる。",
-          "mini_headline": "ディープリサーチのUX設計",
+          "headline": "透明なAIコスト管理の\n設計法",
+          "body": "短い編集と長いエージェント実行は見分けにくく、ガイドは利用単位や上限、費用表示を扱う。",
+          "mini_headline": "透明なAIコスト管理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "複雑なAIリサーチのためのデザイン"
-              },
-              {
                 "t": "p",
-                "x": "回答の生成に数秒ではなく数分かかるとしたら、どうなるか。本稿では、複雑なタスクでAIと協働するユーザーが抱く疑問に答えるインターフェースを取り上げる。意図は伝わっているか。何か進んでいるのか。内容を理解できるか。信頼できるか。次に何をすればよいか。変更できるか。"
-              },
-              {
-                "t": "p",
-                "x": "回答に数分かかる場合、出だしを誤るとコストが大きい。依頼が曖昧なときは確認の質問が、明確だが範囲が広いときは計画が有効だ。Gemini Deep Researchは調査の手順と所要時間の見込みを示し、ユーザーは計画を編集するか、調査を開始できる。"
+                "x": "利用単位の選び方、支出上限の設計、そして作業の前・中・後にAIのコストをどう説明するかを示す実践ガイドである。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Googleリサーチの思考過程"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "ElicitとGeminiは推論のステップを表示する。進捗が見えると待つのが楽になるからだ。Consensusは根拠の強さを評価し、そのConsensus Meterは、どれだけの研究がイエス、ノー、あるいは賛否混在と答えているかを示す。"
+                "x": "AIの応答にはすべて価格がある。短い編集も長時間動くエージェントも、インターフェース上ではほとんど同じに見え、どちらも同じボタンから始まる。デザイナーにとって、これは二つの判断に行き着く。ユーザーが自分は何を消費していると捉えるかという単位と、ユーザーがコストを理解するタイミングだ。"
+              },
+              {
+                "t": "p",
+                "x": "トークンはシステムの通貨であって、ユーザーの通貨ではない。単位にはトークンやドル、クレジット、タスクや成果、利用枠まで幅があり、重要なのは不確実性を誰が負うかという違いだ。利用上限は各期間とそのリセットを示すべきであり、タスク課金は何がカウントされるかを説明すべきであり、クレジットには価値の感覚が必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Consensusの回答"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "PerplexityとMicrosoft Copilotは主張を出典の該当箇所に結びつけ、応答のたびに次の一手を提案する。Copilotは提案を三つに絞る。Layla AIでは、生成された旅程の一部をユーザーが直接差し替えられる。"
-              },
-              {
-                "t": "p",
-                "x": "AIタスクに30秒以上かかるなら、開始前に範囲を合意し、作業中は進捗を見せるべきだ。"
+                "x": "作業の前には、何がコストを左右するかを説明し、より安価なモードや上限を提示する。作業中は実際の進捗を示し、見積もりが成り立たなくなったら続行前に確認する。作業後には明細を添える。コストは重要な場面で見えるべきだが、ユーザーが常に気にしなければならないものになってはならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI深度研究智能体\n的六个UX设计问题",
-          "body": "从Google、Perplexity和Microsoft提炼长时AI研究的六个UX问题。",
-          "mini_headline": "深度研究的UX设计",
+          "headline": "如何设计透明的\nAI成本控制",
+          "body": "快速修改与长时间代理任务看起来几乎一样，指南因此涵盖用量单位、支出上限和成本说明。",
+          "mini_headline": "透明的AI成本控制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "为复杂的 AI 研究而设计"
-              },
-              {
                 "t": "p",
-                "x": "如果生成一个答案需要几分钟而不是几秒，会发生什么？本文考察了一些界面，它们回应用户在借助 AI 处理复杂任务时提出的问题：这是你想要的吗？有在进行吗？我能看懂吗？我能信任它吗？下一步该做什么？我能修改吗？"
-              },
-              {
-                "t": "p",
-                "x": "当答案需要几分钟才能生成时，开局出错代价高昂。请求含糊时，澄清式提问有效；请求明确但范围宽泛时，计划更有效。Gemini Deep Research 会列出研究步骤和预计用时，用户可以编辑计划或直接开始研究。"
+                "x": "一份实用指南，讲解如何选择用量单位、设计支出上限，以及在工作前、中、后解释AI成本。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Google 研究的思维链"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "Elicit 和 Gemini 会展示推理步骤，因为可见的进度让等待更容易。Consensus 会评估证据强度，其 Consensus Meter 显示有多少研究给出肯定、否定或结论不一。"
+                "x": "每一次AI回应都有价格。快速修改和长时间运行的代理在界面上可能几乎一模一样，而且都从同一个按钮启动。对设计师来说，这归结为两个决定：用户看到自己在消耗的单位，以及用户理解成本的时机。"
+              },
+              {
+                "t": "p",
+                "x": "词元是系统的货币，而不是用户的货币。单位从词元和美元，到积分、任务和成果，再到用量额度，不一而足；关键区别在于由谁承担不确定性。用量上限应显示每个周期及其重置时间；按任务计价应说明哪些会被计入；积分则需要让人感知其价值。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Consensus 的回答"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "Perplexity 和 Microsoft Copilot 将论断链接到来源中的确切段落，并在每次回复后建议下一步；Copilot 将建议限制为三条。Layla AI 让用户直接替换生成行程中的部分内容。"
-              },
-              {
-                "t": "p",
-                "x": "如果你的 AI 任务耗时超过 30 秒，就在开始前约定范围，并在运行时展示进度。"
+                "x": "工作开始前，要说明成本由什么决定，并提供更便宜的模式或上限。进行中，要显示真实进度，如果估算不再成立，应在继续前先征询用户。完成后，附上一张收据。成本应在关键时刻可见，但不应成为用户需要时刻惦记的事。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Seis preguntas de UX para\nagentes de investigación de IA",
-          "body": "El ensayo extrae de Google, Perplexity y Microsoft seis preguntas de UX para tareas largas de investigación con IA.",
-          "mini_headline": "Diseñar la UX de la investigación profunda",
+          "headline": "Diseñar controles de costo\nde AI transparentes",
+          "body": "Una edición rápida y una tarea larga de agente parecen casi iguales; la guía trata unidades, límites y notas de costo.",
+          "mini_headline": "Controles transparentes de costo de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "Diseñar para la investigación compleja con IA"
-              },
-              {
                 "t": "p",
-                "x": "¿Qué ocurre cuando generar una respuesta lleva minutos en lugar de segundos? Este artículo analiza interfaces que responden a las preguntas que se hacen los usuarios al trabajar con IA en tareas complejas: ¿Es esto lo que querías decir? ¿Está pasando algo? ¿Puedo entenderlo? ¿Puedo confiar en esto? ¿Qué hago ahora? ¿Puedo cambiarlo?"
-              },
-              {
-                "t": "p",
-                "x": "Cuando una respuesta tarda minutos, un mal comienzo sale caro. Las preguntas aclaratorias funcionan cuando una solicitud es vaga; un plan funciona cuando es clara pero amplia. Gemini Deep Research expone sus pasos de investigación y un tiempo estimado, y el usuario puede editar el plan o iniciar la investigación."
+                "x": "Una guía práctica para elegir unidades de uso, diseñar límites de gasto y explicar los costos de la AI antes, durante y después del trabajo."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Cadena de razonamiento de la investigación de Google"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "Elicit y Gemini muestran los pasos de razonamiento, ya que ver el progreso hace más llevadera la espera. Consensus califica la solidez de la evidencia, y su Consensus Meter muestra cuántos estudios dicen sí, no o tienen resultados mixtos."
+                "x": "Cada respuesta de AI tiene un precio. Una edición rápida y un agente de larga ejecución pueden verse casi idénticos en la interfaz, y ambos empiezan con el mismo botón. Para los diseñadores, todo se reduce a dos decisiones: la unidad en la que los usuarios ven lo que gastan y el momento en que entienden el costo."
+              },
+              {
+                "t": "p",
+                "x": "Los tokens son la moneda del sistema, no la del usuario. Las unidades van desde tokens y dólares hasta créditos, tareas y resultados, y cuotas de uso; la distinción importante es quién asume la incertidumbre. Los límites de uso deben mostrar cada periodo y su reinicio; el precio por tarea debe explicar qué cuenta; los créditos necesitan transmitir una noción de valor."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Respuesta de Consensus"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "Perplexity y Microsoft Copilot vinculan las afirmaciones con el pasaje exacto de una fuente y sugieren el siguiente paso después de cada respuesta; Copilot limita las sugerencias a tres. Layla AI permite a los usuarios cambiar directamente partes de un viaje generado."
-              },
-              {
-                "t": "p",
-                "x": "Si tu tarea de IA tarda más de 30 segundos, acuerda el alcance antes de empezar y muestra el progreso mientras trabaja."
+                "x": "Antes del trabajo, explica qué determina el costo y ofrece un modo más barato o un tope. Durante el trabajo, muestra el progreso real y pregunta antes de continuar si la estimación ya no se cumple. Después, adjunta un recibo. El costo debe ser visible cuando importa, sin convertirse en algo en lo que los usuarios tengan que pensar constantemente."
               }
             ]
           }
@@ -1911,181 +1183,409 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 딥리서치 에이전트의\nUX 질문 여섯 가지",
-          "body": "Google 등의 사례로 긴 AI 리서치 작업의 UX 질문 여섯 가지를 정리했다.",
-          "mini_headline": "딥리서치 UX 설계",
+          "headline": "투명한 AI 비용 통제\n어떻게 설계하나",
+          "body": "가이드는 비슷해 보이는 빠른 수정과 긴 에이전트 실행의 단위·한도·안내를 다룬다.",
+          "mini_headline": "투명한 AI 비용 통제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "복잡한 AI 리서치를 위한 디자인"
-              },
-              {
                 "t": "p",
-                "x": "답을 만드는 데 몇 초가 아니라 몇 분이 걸리면 어떻게 될까? 이 글은 복잡한 작업에서 AI와 함께 일하는 사용자가 품는 질문에 답하는 인터페이스를 살펴본다. 내 뜻을 제대로 이해했나? 지금 뭔가 진행되고 있나? 결과를 이해할 수 있나? 믿어도 되나? 다음엔 무엇을 하나? 바꿀 수 있나?"
-              },
-              {
-                "t": "p",
-                "x": "답이 나오는 데 몇 분이 걸린다면 잘못된 출발은 비용이 크다. 요청이 모호할 때는 되묻는 질문이, 요청이 명확하지만 범위가 넓을 때는 계획이 효과적이다. Gemini Deep Research는 리서치 단계와 예상 소요 시간을 보여 주고, 사용자는 계획을 수정하거나 리서치를 시작할 수 있다."
+                "x": "사용 단위를 고르고, 지출 한도를 설계하고, 작업 전·중·후에 AI 비용을 설명하는 방법을 담은 실용 가이드다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Google 리서치의 사고 과정"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "Elicit과 Gemini는 추론 단계를 보여 준다. 진행 상황이 보이면 기다리기가 쉬워지기 때문이다. Consensus는 근거의 강도를 평가하며, Consensus Meter는 얼마나 많은 연구가 '예', '아니요', '엇갈림'으로 답하는지 보여 준다."
+                "x": "모든 AI 응답에는 가격이 있다. 빠른 수정과 오래 실행되는 에이전트는 인터페이스에서 거의 똑같아 보이고, 둘 다 같은 버튼으로 시작한다. 디자이너에게 이는 두 가지 결정으로 귀결된다. 사용자가 무엇을 쓰고 있다고 보게 되는 단위, 그리고 사용자가 비용을 이해하는 시점이다."
+              },
+              {
+                "t": "p",
+                "x": "토큰은 사용자의 통화가 아니라 시스템의 통화다. 단위는 토큰과 달러부터 크레딧, 작업과 결과, 사용 허용량까지 다양하며, 중요한 차이는 불확실성을 누가 떠안느냐다. 사용 한도는 각 기간과 초기화 시점을 보여 줘야 하고, 작업 단위 가격은 무엇이 집계되는지 설명해야 하며, 크레딧은 가치를 가늠할 수 있어야 한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Consensus의 답변"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "Perplexity와 Microsoft Copilot은 주장을 출처의 정확한 구절에 연결하고, 응답마다 다음 행동을 제안한다. Copilot은 제안을 세 개로 제한한다. Layla AI에서는 생성된 여행 일정의 일부를 사용자가 직접 바꿀 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI 작업이 30초 넘게 걸린다면 시작 전에 범위를 합의하고, 작업 중에는 진행 상황을 보여 줘야 한다."
+                "x": "작업 전에는 무엇이 비용을 좌우하는지 설명하고 더 저렴한 모드나 상한을 제시한다. 작업 중에는 실제 진행 상황을 보여 주고, 추정치가 더는 맞지 않으면 계속하기 전에 묻는다. 작업 후에는 영수증을 붙인다. 비용은 필요할 때 보여야 하지만, 사용자가 늘 신경 써야 하는 대상이 되어서는 안 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIディープリサーチの\nUXをめぐる6つの問い",
-          "body": "GoogleやMicrosoftなどの例から、長時間AI調査のUXの問いを6つ挙げる。",
-          "mini_headline": "ディープリサーチのUX設計",
+          "headline": "透明なAIコスト管理の\n設計法",
+          "body": "短い編集と長いエージェント実行は見分けにくく、ガイドは利用単位や上限、費用表示を扱う。",
+          "mini_headline": "透明なAIコスト管理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "複雑なAIリサーチのためのデザイン"
-              },
-              {
                 "t": "p",
-                "x": "回答の生成に数秒ではなく数分かかるとしたら、どうなるか。本稿では、複雑なタスクでAIと協働するユーザーが抱く疑問に答えるインターフェースを取り上げる。意図は伝わっているか。何か進んでいるのか。内容を理解できるか。信頼できるか。次に何をすればよいか。変更できるか。"
-              },
-              {
-                "t": "p",
-                "x": "回答に数分かかる場合、出だしを誤るとコストが大きい。依頼が曖昧なときは確認の質問が、明確だが範囲が広いときは計画が有効だ。Gemini Deep Researchは調査の手順と所要時間の見込みを示し、ユーザーは計画を編集するか、調査を開始できる。"
+                "x": "利用単位の選び方、支出上限の設計、そして作業の前・中・後にAIのコストをどう説明するかを示す実践ガイドである。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Googleリサーチの思考過程"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "ElicitとGeminiは推論のステップを表示する。進捗が見えると待つのが楽になるからだ。Consensusは根拠の強さを評価し、そのConsensus Meterは、どれだけの研究がイエス、ノー、あるいは賛否混在と答えているかを示す。"
+                "x": "AIの応答にはすべて価格がある。短い編集も長時間動くエージェントも、インターフェース上ではほとんど同じに見え、どちらも同じボタンから始まる。デザイナーにとって、これは二つの判断に行き着く。ユーザーが自分は何を消費していると捉えるかという単位と、ユーザーがコストを理解するタイミングだ。"
+              },
+              {
+                "t": "p",
+                "x": "トークンはシステムの通貨であって、ユーザーの通貨ではない。単位にはトークンやドル、クレジット、タスクや成果、利用枠まで幅があり、重要なのは不確実性を誰が負うかという違いだ。利用上限は各期間とそのリセットを示すべきであり、タスク課金は何がカウントされるかを説明すべきであり、クレジットには価値の感覚が必要だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Consensusの回答"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "PerplexityとMicrosoft Copilotは主張を出典の該当箇所に結びつけ、応答のたびに次の一手を提案する。Copilotは提案を三つに絞る。Layla AIでは、生成された旅程の一部をユーザーが直接差し替えられる。"
-              },
-              {
-                "t": "p",
-                "x": "AIタスクに30秒以上かかるなら、開始前に範囲を合意し、作業中は進捗を見せるべきだ。"
+                "x": "作業の前には、何がコストを左右するかを説明し、より安価なモードや上限を提示する。作業中は実際の進捗を示し、見積もりが成り立たなくなったら続行前に確認する。作業後には明細を添える。コストは重要な場面で見えるべきだが、ユーザーが常に気にしなければならないものになってはならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI深度研究智能体\n的六个UX设计问题",
-          "body": "从Google、Perplexity和Microsoft提炼长时AI研究的六个UX问题。",
-          "mini_headline": "深度研究的UX设计",
+          "headline": "如何设计透明的\nAI成本控制",
+          "body": "快速修改与长时间代理任务看起来几乎一样，指南因此涵盖用量单位、支出上限和成本说明。",
+          "mini_headline": "透明的AI成本控制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "为复杂的 AI 研究而设计"
-              },
-              {
                 "t": "p",
-                "x": "如果生成一个答案需要几分钟而不是几秒，会发生什么？本文考察了一些界面，它们回应用户在借助 AI 处理复杂任务时提出的问题：这是你想要的吗？有在进行吗？我能看懂吗？我能信任它吗？下一步该做什么？我能修改吗？"
-              },
-              {
-                "t": "p",
-                "x": "当答案需要几分钟才能生成时，开局出错代价高昂。请求含糊时，澄清式提问有效；请求明确但范围宽泛时，计划更有效。Gemini Deep Research 会列出研究步骤和预计用时，用户可以编辑计划或直接开始研究。"
+                "x": "一份实用指南，讲解如何选择用量单位、设计支出上限，以及在工作前、中、后解释AI成本。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Google 研究的思维链"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "Elicit 和 Gemini 会展示推理步骤，因为可见的进度让等待更容易。Consensus 会评估证据强度，其 Consensus Meter 显示有多少研究给出肯定、否定或结论不一。"
+                "x": "每一次AI回应都有价格。快速修改和长时间运行的代理在界面上可能几乎一模一样，而且都从同一个按钮启动。对设计师来说，这归结为两个决定：用户看到自己在消耗的单位，以及用户理解成本的时机。"
+              },
+              {
+                "t": "p",
+                "x": "词元是系统的货币，而不是用户的货币。单位从词元和美元，到积分、任务和成果，再到用量额度，不一而足；关键区别在于由谁承担不确定性。用量上限应显示每个周期及其重置时间；按任务计价应说明哪些会被计入；积分则需要让人感知其价值。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Consensus 的回答"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "Perplexity 和 Microsoft Copilot 将论断链接到来源中的确切段落，并在每次回复后建议下一步；Copilot 将建议限制为三条。Layla AI 让用户直接替换生成行程中的部分内容。"
-              },
-              {
-                "t": "p",
-                "x": "如果你的 AI 任务耗时超过 30 秒，就在开始前约定范围，并在运行时展示进度。"
+                "x": "工作开始前，要说明成本由什么决定，并提供更便宜的模式或上限。进行中，要显示真实进度，如果估算不再成立，应在继续前先征询用户。完成后，附上一张收据。成本应在关键时刻可见，但不应成为用户需要时刻惦记的事。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Seis preguntas de UX para\nagentes de investigación de IA",
-          "body": "El ensayo extrae de Google, Perplexity y Microsoft seis preguntas de UX para tareas largas de investigación con IA.",
-          "mini_headline": "Diseñar la UX de la investigación profunda",
+          "headline": "Diseñar controles de costo\nde AI transparentes",
+          "body": "Una edición rápida y una tarea larga de agente parecen casi iguales; la guía trata unidades, límites y notas de costo.",
+          "mini_headline": "Controles transparentes de costo de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Tqg1rP0B6d3ahTwuShJERg.png",
-                "cap": "Diseñar para la investigación compleja con IA"
-              },
-              {
                 "t": "p",
-                "x": "¿Qué ocurre cuando generar una respuesta lleva minutos en lugar de segundos? Este artículo analiza interfaces que responden a las preguntas que se hacen los usuarios al trabajar con IA en tareas complejas: ¿Es esto lo que querías decir? ¿Está pasando algo? ¿Puedo entenderlo? ¿Puedo confiar en esto? ¿Qué hago ahora? ¿Puedo cambiarlo?"
-              },
-              {
-                "t": "p",
-                "x": "Cuando una respuesta tarda minutos, un mal comienzo sale caro. Las preguntas aclaratorias funcionan cuando una solicitud es vaga; un plan funciona cuando es clara pero amplia. Gemini Deep Research expone sus pasos de investigación y un tiempo estimado, y el usuario puede editar el plan o iniciar la investigación."
+                "x": "Una guía práctica para elegir unidades de uso, diseñar límites de gasto y explicar los costos de la AI antes, durante y después del trabajo."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*Ye9YoZgCmo2pnPsPQLyK4g.png",
-                "cap": "Cadena de razonamiento de la investigación de Google"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
               },
               {
                 "t": "p",
-                "x": "Elicit y Gemini muestran los pasos de razonamiento, ya que ver el progreso hace más llevadera la espera. Consensus califica la solidez de la evidencia, y su Consensus Meter muestra cuántos estudios dicen sí, no o tienen resultados mixtos."
+                "x": "Cada respuesta de AI tiene un precio. Una edición rápida y un agente de larga ejecución pueden verse casi idénticos en la interfaz, y ambos empiezan con el mismo botón. Para los diseñadores, todo se reduce a dos decisiones: la unidad en la que los usuarios ven lo que gastan y el momento en que entienden el costo."
+              },
+              {
+                "t": "p",
+                "x": "Los tokens son la moneda del sistema, no la del usuario. Las unidades van desde tokens y dólares hasta créditos, tareas y resultados, y cuotas de uso; la distinción importante es quién asume la incertidumbre. Los límites de uso deben mostrar cada periodo y su reinicio; el precio por tarea debe explicar qué cuenta; los créditos necesitan transmitir una noción de valor."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1400/1*K02SoCo8zN19cR6TTRJyHA.png",
-                "cap": "Respuesta de Consensus"
+                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
               },
               {
                 "t": "p",
-                "x": "Perplexity y Microsoft Copilot vinculan las afirmaciones con el pasaje exacto de una fuente y sugieren el siguiente paso después de cada respuesta; Copilot limita las sugerencias a tres. Layla AI permite a los usuarios cambiar directamente partes de un viaje generado."
+                "x": "Antes del trabajo, explica qué determina el costo y ofrece un modo más barato o un tope. Durante el trabajo, muestra el progreso real y pregunta antes de continuar si la estimación ya no se cumple. Después, adjunta un recibo. El costo debe ser visible cuando importa, sin convertirse en algo en lo que los usuarios tengan que pensar constantemente."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "borisfx-continuum-2027-ml",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Continuum 2027\nBoris FX AI 강화",
+      "body": "Face ML은 얼굴 전체를, Matte Refine ML은 머리카락까지 잡는다.",
+      "mini_headline": "Continuum 2027의 AI 마스킹",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/10/borisfx-releases-continuum-2027/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "_cnXGCOCCJY"
+          },
+          {
+            "t": "p",
+            "x": "Boris FX가 합성·편집 소프트웨어용 이펙트 플러그인 모음의 새 버전 Continuum 2027.0을 내놨다. 2D 타이틀 시스템과 3D 노이즈 생성기, 워프·왜곡 이펙트 다섯 종이 새로 들어갔고 Continuum의 마스킹 도구와 파티클 이펙트 시스템도 손봤다."
+          },
+          {
+            "t": "p",
+            "x": "Continuum 2026.0에 들어갔던 AI 마스킹 도구도 개선됐다. BCC+ Face ML은 이제 귀까지 얼굴 전체 윤곽을 따라가므로 “더 완전한 커버리지와 더 적은 수작업 수정”이 가능하다. BCC+ Matte Refine ML은 머리카락 같은 미세한 디테일을 더 잘 살리고, BCC+ Witness Protection ML은 흔한 타원 대신 정밀한 마스크를 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "Continuum 2027.0은 Windows 10+ 또는 macOS 12.0+ 환경에서 After Effects, DaVinci Resolve, Nuke와 함께 쓸 수 있다. 영구 라이선스는 $365에서 $2,195, 구독은 $32/month에서 $112/month, 또는 $215/year에서 $765/year다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Boris FX Continuum 2027\nsharpens its AI masking",
+          "body": "Continuum 2027 updates its ML masks, with Face ML following the full face and Matte Refine ML keeping hair detail.",
+          "mini_headline": "Continuum 2027 AI masking",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
               },
               {
                 "t": "p",
-                "x": "Si tu tarea de IA tarda más de 30 segundos, acuerda el alcance antes de empezar y muestra el progreso mientras trabaja."
+                "x": "Boris FX has released Continuum 2027.0, the latest version of its set of effects plugins for compositing and editing software. The release adds a new 2D titling system, a new 3D noise generator, and five new warp and distortion effects, and updates Continuum's masking tools and particle effects system."
+              },
+              {
+                "t": "p",
+                "x": "The AI masking tools added in Continuum 2026.0 have also been updated. BCC+ Face ML now follows the full shape of the face, including the ears, resulting in “more complete coverage and fewer manual fixes”. BCC+ Matte Refine ML now preserves fine detail like hair better, and BCC+ Witness Protection ML now uses precise masks rather than generic ovals."
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0 is compatible with After Effects, DaVinci Resolve and Nuke, on Windows 10+ or macOS 12.0+. Perpetual licences cost from $365 to $2,195; subscriptions from $32/month to $112/month, or $215/year to $765/year."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Boris FX Continuum 2027\nafina su enmascarado con AI",
+          "body": "Continuum 2027 renueva sus máscaras ML: Face ML sigue todo el rostro y Matte Refine ML conserva el detalle del cabello.",
+          "mini_headline": "Enmascarado con AI en Continuum 2027",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FX ha lanzado Continuum 2027.0, la versión más reciente de su conjunto de plugins de efectos para software de composición y edición. La versión añade un nuevo sistema de titulación 2D, un nuevo generador de ruido 3D y cinco nuevos efectos de deformación y distorsión, y actualiza las herramientas de enmascarado y el sistema de efectos de partículas de Continuum."
+              },
+              {
+                "t": "p",
+                "x": "También se han actualizado las herramientas de enmascarado con AI añadidas en Continuum 2026.0. BCC+ Face ML ahora sigue la forma completa del rostro, incluidas las orejas, lo que se traduce en “una cobertura más completa y menos correcciones manuales”. BCC+ Matte Refine ML ahora conserva mejor los detalles finos como el cabello, y BCC+ Witness Protection ML ahora usa máscaras precisas en lugar de óvalos genéricos."
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0 es compatible con After Effects, DaVinci Resolve y Nuke, en Windows 10+ o macOS 12.0+. Las licencias perpetuas cuestan de $365 a $2,195; las suscripciones, de $32/month a $112/month, o de $215/year a $765/year."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Continuum 2027\nBoris FX AI 강화",
+          "body": "Face ML은 얼굴 전체를, Matte Refine ML은 머리카락까지 잡는다.",
+          "mini_headline": "Continuum 2027의 AI 마스킹",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FX가 합성·편집 소프트웨어용 이펙트 플러그인 모음의 새 버전 Continuum 2027.0을 내놨다. 2D 타이틀 시스템과 3D 노이즈 생성기, 워프·왜곡 이펙트 다섯 종이 새로 들어갔고 Continuum의 마스킹 도구와 파티클 이펙트 시스템도 손봤다."
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2026.0에 들어갔던 AI 마스킹 도구도 개선됐다. BCC+ Face ML은 이제 귀까지 얼굴 전체 윤곽을 따라가므로 “더 완전한 커버리지와 더 적은 수작업 수정”이 가능하다. BCC+ Matte Refine ML은 머리카락 같은 미세한 디테일을 더 잘 살리고, BCC+ Witness Protection ML은 흔한 타원 대신 정밀한 마스크를 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0은 Windows 10+ 또는 macOS 12.0+ 환경에서 After Effects, DaVinci Resolve, Nuke와 함께 쓸 수 있다. 영구 라이선스는 $365에서 $2,195, 구독은 $32/month에서 $112/month, 또는 $215/year에서 $765/year다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Continuum 2027\nBoris FXがAI強化",
+          "body": "Face MLは顔全体を、Matte Refine MLは髪の細部まで捉える。",
+          "mini_headline": "Continuum 2027のAIマスキング",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FXは、コンポジットや編集ソフト向けエフェクトプラグイン集の最新版Continuum 2027.0をリリースした。新たな2D タイトルシステム、新たな3D ノイズジェネレーター、五つの新しいワープ／ディストーションエフェクトを追加し、Continuumのマスキングツールとパーティクルエフェクトシステムを更新した。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2026.0で追加されたAIマスキングツールも更新された。BCC+ Face MLは耳を含む顔全体の形状を追従するようになり、「より完全なカバレッジと手作業による修正の削減」を実現した。BCC+ Matte Refine MLは髪のような細かなディテールをよりよく保持し、BCC+ Witness Protection MLは汎用的な楕円ではなく精密なマスクを使うようになった。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0はWindows 10+ またはmacOS 12.0+ 上のAfter Effects、DaVinci Resolve、Nukeに対応する。永続ライセンスは$365から$2,195、サブスクリプションは$32/monthから$112/month、または$215/yearから$765/yearだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Continuum 2027\nBoris FX强化AI遮罩",
+          "body": "Face ML可追踪整张脸，Matte Refine ML能保留发丝细节。",
+          "mini_headline": "Continuum 2027的AI遮罩",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FX发布了Continuum 2027.0，这是其面向合成与剪辑软件的特效插件套装的最新版本。此次更新新增了2D 字幕系统、3D 噪波生成器以及五款新的扭曲与变形特效，并更新了Continuum的遮罩工具和粒子特效系统。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2026.0中加入的AI遮罩工具也得到更新。BCC+ Face ML现在可追踪包括耳朵在内的完整脸型，带来“更完整的覆盖和更少的手动修正”。BCC+ Matte Refine ML现在能更好地保留发丝等细节，BCC+ Witness Protection ML则改用精确遮罩，而非通用的椭圆形。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0兼容After Effects、DaVinci Resolve和Nuke，支持Windows 10+ 或macOS 12.0+ 系统。永久许可证售价$365至$2,195；订阅为$32/month至$112/month，或$215/year至$765/year。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Boris FX Continuum 2027\nafina su enmascarado con AI",
+          "body": "Continuum 2027 renueva sus máscaras ML: Face ML sigue todo el rostro y Matte Refine ML conserva el detalle del cabello.",
+          "mini_headline": "Enmascarado con AI en Continuum 2027",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FX ha lanzado Continuum 2027.0, la versión más reciente de su conjunto de plugins de efectos para software de composición y edición. La versión añade un nuevo sistema de titulación 2D, un nuevo generador de ruido 3D y cinco nuevos efectos de deformación y distorsión, y actualiza las herramientas de enmascarado y el sistema de efectos de partículas de Continuum."
+              },
+              {
+                "t": "p",
+                "x": "También se han actualizado las herramientas de enmascarado con AI añadidas en Continuum 2026.0. BCC+ Face ML ahora sigue la forma completa del rostro, incluidas las orejas, lo que se traduce en “una cobertura más completa y menos correcciones manuales”. BCC+ Matte Refine ML ahora conserva mejor los detalles finos como el cabello, y BCC+ Witness Protection ML ahora usa máscaras precisas en lugar de óvalos genéricos."
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0 es compatible con After Effects, DaVinci Resolve y Nuke, en Windows 10+ o macOS 12.0+. Las licencias perpetuas cuestan de $365 a $2,195; las suscripciones, de $32/month a $112/month, o de $215/year a $765/year."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Continuum 2027\nBoris FX AI 강화",
+          "body": "Face ML은 얼굴 전체를, Matte Refine ML은 머리카락까지 잡는다.",
+          "mini_headline": "Continuum 2027 AI 마스킹",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FX가 합성·편집 소프트웨어용 이펙트 플러그인 모음의 최신 버전 Continuum 2027.0을 출시했다. 이번 릴리스는 새 2D 타이틀 시스템, 새 3D 노이즈 생성기, 다섯 가지 새 워프·왜곡 이펙트를 추가하고, Continuum의 마스킹 도구와 파티클 이펙트 시스템을 업데이트했다."
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2026.0에서 추가된 AI 마스킹 도구도 업데이트됐다. BCC+ Face ML은 이제 귀를 포함한 얼굴 전체 형태를 따라가며, 그 결과 “더 완전한 커버리지와 더 적은 수작업 수정”이 가능해졌다. BCC+ Matte Refine ML은 머리카락 같은 미세한 디테일을 더 잘 보존하고, BCC+ Witness Protection ML은 이제 일반적인 타원 대신 정밀한 마스크를 사용한다."
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0은 Windows 10+ 또는 macOS 12.0+ 환경에서 After Effects, DaVinci Resolve, Nuke와 호환된다. 영구 라이선스는 $365에서 $2,195, 구독은 $32/month에서 $112/month, 또는 $215/year에서 $765/year다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Continuum 2027\nBoris FXがAI強化",
+          "body": "Face MLは顔全体を、Matte Refine MLは髪の細部まで捉える。",
+          "mini_headline": "Continuum 2027のAIマスキング",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FXは、コンポジットや編集ソフト向けエフェクトプラグイン集の最新版Continuum 2027.0をリリースした。新たな2D タイトルシステム、新たな3D ノイズジェネレーター、五つの新しいワープ／ディストーションエフェクトを追加し、Continuumのマスキングツールとパーティクルエフェクトシステムを更新した。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2026.0で追加されたAIマスキングツールも更新された。BCC+ Face MLは耳を含む顔全体の形状を追従するようになり、「より完全なカバレッジと手作業による修正の削減」を実現した。BCC+ Matte Refine MLは髪のような細かなディテールをよりよく保持し、BCC+ Witness Protection MLは汎用的な楕円ではなく精密なマスクを使うようになった。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0はWindows 10+ またはmacOS 12.0+ 上のAfter Effects、DaVinci Resolve、Nukeに対応する。永続ライセンスは$365から$2,195、サブスクリプションは$32/monthから$112/month、または$215/yearから$765/yearだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Continuum 2027\nBoris FX强化AI遮罩",
+          "body": "Face ML可追踪整张脸，Matte Refine ML能保留发丝细节。",
+          "mini_headline": "Continuum 2027的AI遮罩",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_cnXGCOCCJY"
+              },
+              {
+                "t": "p",
+                "x": "Boris FX发布了Continuum 2027.0，这是其面向合成与剪辑软件的特效插件套装的最新版本。此次更新新增了2D 字幕系统、3D 噪波生成器以及五款新的扭曲与变形特效，并更新了Continuum的遮罩工具和粒子特效系统。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2026.0中加入的AI遮罩工具也得到更新。BCC+ Face ML现在可追踪包括耳朵在内的完整脸型，带来“更完整的覆盖和更少的手动修正”。BCC+ Matte Refine ML现在能更好地保留发丝等细节，BCC+ Witness Protection ML则改用精确遮罩，而非通用的椭圆形。"
+              },
+              {
+                "t": "p",
+                "x": "Continuum 2027.0兼容After Effects、DaVinci Resolve和Nuke，支持Windows 10+ 或macOS 12.0+ 系统。永久许可证售价$365至$2,195；订阅为$32/month至$112/month，或$215/year至$765/year。"
               }
             ]
           }

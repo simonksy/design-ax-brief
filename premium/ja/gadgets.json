@@ -9804,6 +9804,171 @@
           "x": "専用ボタンでマイクとカメラをオフにでき、クラウドへストリーミングする際は内蔵LEDが点灯する。AmazonのRingカメラをめぐる過去を考えると、プライバシーを重視する一部の顧客はカメラのない製品を選ぶかもしれない。Echo Studio With Home Cameraは$250で、カメラなしモデルより$30高い。"
         }
       ]
+    },
+    "gadgets/gemini-live-offline-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
+          "cap": "Tushar Mehta / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Android Authorityの解析により、Gemini Liveにオフラインモードが加わる可能性が明らかになった。Android版Googleアプリ(v17.71.17)を解析したところ、\"Offline mode\"と\"Use Gemini Live without an internet connection.\"という二つの文字列が見つかった。\"ui_account\"という文字列名から、この選択肢はGeminiのアカウント切り替えメニューに表示される可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "どのように機能するのかは明らかではない。Gemini Liveは高速で途切れない音声認識、極めて速い会話応答、音声合成に依存しており、Android Authorityはオフラインモードがクラウド版より遅く、精度も劣る可能性があると推測している。このローカル専用モードでカメラや画面共有が使えるかどうかも不明だ。"
+        },
+        {
+          "t": "p",
+          "x": "オフライン版Gemini Liveは、本格的なGeminiチャットボットにはアクセスできない可能性が高い。スマートフォンには大きすぎるRAMと計算量が必要になるためだ。ただし最近のAndroidスマートフォンの多くはARCoreサービスとともにオンデバイスのGemini Nanoモデルを動かしているため、理論上はGemini Nanoに切り替えることで、それほど複雑でないタスクを処理できる可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは今月初めにGemini LiveへGuided Visionを、9月にはライブ翻訳を追加した。APK解析は開発途中のコードに基づくものであり、予測された機能が一般公開版に搭載されない場合もある。"
+        }
+      ]
+    },
+    "gadgets/logitech-mx-master4-devedition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
+          "cap": "MX Master 4 Developer Editionは、黄色のアクセントとプログラミングに着想を得たディテールを備えたツートン仕上げだ"
+        },
+        {
+          "t": "p",
+          "x": "Logitechは、10月30日と31日に上海で開催したCreative Dayイベントで、MX Master 4 Developer Editionを発表した。同社はこれを、20年以上にわたるMXシリーズの歴史で初の特別版と位置づけている。"
+        },
+        {
+          "t": "p",
+          "x": "この特別版は、ライトグレーとシルバーの仕上げ、ダークグレーのパームレスト、鮮やかなグリーンのアクセントを備える。表面にはプログラミングにちなんだ記述や構文プロンプト、回路をモチーフにしたパターンが施されている。ハードウェアの刷新ではなく、開発者へのオマージュとしてのデザインだ。Logitechは以前、同じ開発者テーマのマウスをUSのウェブサイトでMX Master 4 Special Editionとして掲載していた。"
+        },
+        {
+          "t": "p",
+          "x": "Developer Editionは、MagSpeedスクロールホイール、Haptic Sense Panel、Actions Ringなど、標準のMX Master 4の機能をそのまま受け継いでいる。"
+        },
+        {
+          "t": "p",
+          "x": "LogitechはLogi Options+アプリのプラグインを通じてこのAIアシスタントに対応し、ユーザーは対応デバイスのショートカットをWorkBuddyの機能に割り当てられる。会議の要約、リアルタイム翻訳、文書作成などが含まれる。プラグインはWindowsとmacOSに対応する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
+          "cap": "使用中のLogitech MX Master 4 Developer Edition"
+        },
+        {
+          "t": "p",
+          "x": "Logitech MX Master 4 Developer Editionの中国での公式価格は999元(約$150)で、MX Master 4 Special EditionはUSで$119.99で販売されている。JD.comでは中国の国家補助金適用後、中国版を899元(約$135)で販売している。購入時にはTencent WorkBuddyのポイント500も付与される。LogitechはWorkBuddyのプロモーションが他の市場でも実施されるかどうかを明らかにしていない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
+          "cap": "底面"
+        }
+      ]
+    },
+    "gadgets/arrowspace-s1-ai-screwdriver": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
+          "cap": "画像: Arrowmax"
+        },
+        {
+          "t": "p",
+          "x": "Arrowmaxは、カメラとAIを連携させて電動ドライバーを賢くしようとしている。必要なビットの正確な種類とサイズを探す試行錯誤をなくすのが狙いだ。サイズを間違えると、ネジ山をなめてしまう恐れがあるからだ。"
+        },
+        {
+          "t": "p",
+          "x": "Arrowspace S1はKickstarterで販売中で、ドライバー単体は約$79、S1スマートビットケースとのセットは約$129だ。正式な小売価格はこれより高くなる見込みで、S1の出荷は早くても2027年4月の予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "S1の底面には、ネジ頭を撮影するLEDライト付きの小型カメラがある。その隣では「精密接触プローブ」(\"precision contact probe\")が伸びてネジに当たり、カメラが常にAIモデルにとって理想的な焦点距離を保てるようにする。"
+        },
+        {
+          "t": "video",
+          "yt": "D36kpU-VaDA"
+        },
+        {
+          "t": "p",
+          "x": "AIが写真を処理すると、必要なビットの種類とサイズが連携したモバイルアプリに表示され、ドライバーは安全なトルク設定を自動で選ぶ。オプションのS1 Smart Caseには52本のスチールビットが収まり、各ビットの横にあるLEDが必要なビットを光で示す。"
+        },
+        {
+          "t": "p",
+          "x": "600mAhバッテリーは最大90分間動作し、900本以上のネジを締めたり緩めたりできるという。OLED画面には残量、トルク設定、回転方向が表示される。"
+        }
+      ]
+    },
+    "gadgets/gemini-overlay-sparkle-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
+          "cap": "Akshay Gangwar / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Googleは何かと再設計を好むが、中でもGeminiは特に頻繁に手を加えている対象の一つだ。同社はすでにCircle to SearchやGemini Liveで新しいアニメーションを試している。新しいGeminiアニメーションも見つかっており、それは後にPixel 11シリーズに搭載された。新しいPixelを買わずにこの新しいGeminiデザインを手に入れたいと思っていたなら、朗報だ。"
+        },
+        {
+          "t": "p",
+          "x": "新しいGoogleアプリのアップデートにより、更新されたGeminiデザインがついにすべてのAndroid端末に届き始めた(9to5Google経由で判明)。今回の再設計ではGoogleのNeural Expressiveデザイン言語がGeminiオーバーレイに取り入れられ、\"Ask Gemini\"テキストボックスの周囲にきらめく効果と小さなドットが加わった。"
+        },
+        {
+          "t": "video",
+          "yt": "_BIvK2IftiY"
+        },
+        {
+          "t": "p",
+          "x": "ただし、新しくなったのは最初のアニメーションだけではない。アニメーションが終わると、\"Ask Gemini\"テキストボックスの縁にわずかな陰影が付き、より立体的に見えるようになった。この陰影はダークモードの方が目立つ。ライトモードでは、従来とほとんど変わらない見た目だ。"
+        },
+        {
+          "t": "p",
+          "x": "この再設計はGoogleアプリのアップデートの一部である点に注意したい。Play Storeでスマートフォン上のGoogleアプリを最新版に更新すれば、新しいアニメーションを利用できる。それでも表示されない場合は、Googleアプリを強制停止してみるとよい。"
+        }
+      ]
+    },
+    "gadgets/rokid-glasses2-microled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-featured-b.jpg",
+          "cap": "Rokid Glasses 2はより快適なデザインになった。"
+        },
+        {
+          "t": "p",
+          "x": "Rokidは、microLEDディスプレイを搭載したスマートグラスの第2世代モデルを発売した。新モデルはより快適なデザイン、大容量化したバッテリー、強化されたオーディオ、そしてAIエージェントへの対応を備える。"
+        },
+        {
+          "t": "p",
+          "x": "Rokid Glasses 2はスクワークル(squircle)形状のフレームに柔軟なテンプルを組み合わせ、テンプルは前世代より最大22%広く開く。前世代のIPX4等級は引き継いだ。改良されたレンズは反射が70%少ないとされ、microLED導波路ディスプレイ(単色グリーン表示)は480 × 380の解像度、25°の視野角、1500 nitsの輝度を持つ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-processor.jpg",
+          "cap": "Rokid Glasses 2はSnapdragon AR1+を搭載する。"
+        },
+        {
+          "t": "p",
+          "x": "BES2800BPとSnapdragon AR1+のデュアルプロセッサーを搭載し、RAMとストレージはそれぞれ2GB 、32GB のまま据え置かれた。12MP カメラは4K 30fps で録画でき、改良されたスピーカーはDolby Audioに対応する。さらに全指向性マイク四つと骨伝導マイク一つを備える。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rokid-Glasses-2-Dolby-Audio.jpg",
+          "cap": "Rokid Glasses 2はDolby Audioに対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Rokid Glasses 2はライブ翻訳に対応し、見ている対象を認識して情報を提示できるほか、会議やアイデアを録音して文字起こしもできる。RokidによるとGlasses 2は、Hermes、Codex、OpenClaw、AlibabaのQoder、TencentのWorkBuddy、OpenCodeといったデスクトップエージェントにも対応する。"
+        },
+        {
+          "t": "p",
+          "x": "バッテリーは263mAh で、前世代の210mAh から大きくなった。Black はCNY 3699(~$555/€498)、Tortoiseshell はCNY 3849(~$577/€518)で、現在予約受付中、11月11日に発売される。Rokidは中国以外での発売時期を発表していない。"
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,7 @@
-{
- "date": "2026-10-30",
- "section": "science",
- "media": [
-  {
-   "id": "linkoping-mxene-mining",
-   "type": "image",
-   "src": "pipeline/media/linkoping-mxene-mining.jpg"
-  },
-  {
-   "id": "nyu-wildfire-digital-twin",
-   "type": "image",
-   "src": "pipeline/media/nyu-wildfire-digital-twin.jpg"
-  },
-  {
-   "id": "radboud-fluent-hallucination",
-   "type": "image",
-   "src": "pipeline/media/radboud-fluent-hallucination.jpg"
-  },
-  {
-   "id": "google-sleep-continual-learning",
-   "type": "image",
-   "src": "pipeline/media/google-sleep-continual-learning.jpg"
-  },
-  {
-   "id": "yonsei-mamba-qec-decoder",
-   "type": "image",
-   "src": "pipeline/media/yonsei-mamba-qec-decoder.png"
-  }
- ]
-}
+{"date":"2026-11-02","section":"science","media":[
+{"id":"mutexagpt-enzyme-agents","type":"image","src":"pipeline/media/mutexagpt-enzyme-agents.jpg"},
+{"id":"bbert-soil-dna-model","type":"image","src":"pipeline/media/bbert-soil-dna-model.jpg"},
+{"id":"turing-followup-questions-study","type":"image","src":"pipeline/media/turing-followup-questions-study.jpg"},
+{"id":"lumina-lunar-landing-ai","type":"video","src":"pipeline/media/lumina-lunar-landing-ai.mp4","poster":"pipeline/media/lumina-lunar-landing-ai.jpg"},
+{"id":"skku-sag-agent-feedback","type":"image","src":"pipeline/media/skku-sag-agent-feedback.jpg"}
+]}

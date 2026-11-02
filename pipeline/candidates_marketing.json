@@ -1,196 +1,127 @@
 {
   "section": "marketing",
-  "now_iso": "2026-10-29T22:00:32Z",
+  "now_iso": "2026-11-01T23:50:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Google AI Mode Testing Blending All Products With Sponsored Products",
-      "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
-      "source": "Search Engine Roundtable",
+      "title": "Microsoft lets advertisers set up to 40 guidelines for AI-written ads",
+      "url": "https://ppc.land/microsoft-lets-advertisers-set-up-to-40-guidelines-for-ai-written-ads/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-29T07:31:00-04:00",
-      "excerpt": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are sponsored or not.",
-      "og_image": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp"
+      "published_iso": "2026-11-01T22:05:28.000Z",
+      "excerpt": "Conversions API leaves its per-account pilot with 10 named partners, and Performance Max adds search term reports. Landing page data follows from mid-November.",
+      "og_image": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg",
+      "off_list": true
     },
     {
-      "title": "Google Says Ads In AI Mode Earning Less Than Traditional Search Ads",
-      "url": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
-      "source": "Search Engine Roundtable",
+      "title": "Advertisers in 10 more countries can't opt out of Google's AI Mode ads",
+      "url": "https://ppc.land/advertisers-in-10-more-countries-cant-opt-out-of-googles-ai-mode-ads/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-29T10:15:00-04:00",
-      "excerpt": "Google announced earnings yesterday, and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a \"lower monetization\" than ads in traditional search.",
-      "og_image": "https://images.seroundtable.com/google-bleeding-money-vhe4eG2U.jpg"
+      "published_iso": "2026-11-01T22:14:10.000Z",
+      "excerpt": "Search, Shopping and Performance Max campaigns in India, Kenya and 8 more markets now enter AI Mode. Brazil and Mexico, due in Q4, test the English-only list.",
+      "og_image": "https://ppc.land/content/images/2026/11/google-ai-mode-ads-10-countries-no-opt-out-rotary-dial-turnstile.jpg",
+      "off_list": true
     },
     {
-      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth",
-      "url": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
+      "title": "US Alexa for Shopping users spend 50% more per order, Amazon says",
+      "url": "https://ppc.land/us-alexa-for-shopping-users-spend-50-more-per-order-amazon-says/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-31T08:31:18.000Z",
+      "excerpt": "Over 400 million customers used the assistant in 12 months, where US advertisers pay for prompts. Jassy says outside AI agents barely dent ads. For how long?",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/amazon-alexa-for-shopping-50-percent-order-spend-concierge-velvet-rope-carts.jpg",
+      "off_list": true
+    },
+    {
+      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent",
+      "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
       "source": "Search Engine Journal",
       "category": "marketing",
-      "published_iso": "2026-10-28T23:12:24+00:00",
-      "excerpt": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-search-growth-ai-mode-1600x840-1.jpg"
+      "published_iso": "2026-10-30T15:30:24+00:00",
+      "excerpt": "Shopify pays the company behind an AI agent 0.3% of promoted-product orders, and stores can add more. Here is what that commission changes.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-agent-897.png",
+      "off_list": false
     },
     {
-      "title": "Google is seeing “lower monetization” in AI Mode ads.",
-      "url": "https://www.theverge.com/tech/1022301/google-is-seeing-lower-monetization-in-ai-mode-ads",
+      "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-30T14:17:57+00:00",
+      "excerpt": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-ads-creative-enhancements.jpg",
+      "off_list": false
+    },
+    {
+      "title": "Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways",
+      "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-30T12:02:22+00:00",
+      "excerpt": "Google’s Tal Akabas says changing tCPA, tROAS, or budgets on steady-state campaigns won’t trigger Learning - read why to skip seasonality adjustments.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ads-bfcm-987.png",
+      "off_list": false
+    },
+    {
+      "title": "OpenAI's ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
+      "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-10-30T11:17:00-04:00",
+      "excerpt": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and Shopify integration is now available internationally.",
+      "og_image": "https://images.seroundtable.com/wider-chatgpt-ads-9VwMUKno.png",
+      "off_list": false
+    },
+    {
+      "title": "Microsoft Bing Showing Ads Within Copilot AI Overviews",
+      "url": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-10-30T07:41:00-04:00",
+      "excerpt": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot.  I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search.",
+      "og_image": "https://images.seroundtable.com/bing-ai-overview-with-ads-WnTrn06o.jpg",
+      "off_list": false
+    },
+    {
+      "title": "Amazon’s Ads nears $20 billion in Q3 as it bets on agentic AI to fuel further growth",
+      "url": "https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-10-30T04:01:00+00:00",
+      "excerpt": "mazon Ads Agent will spearhead the company’s media offering, but its growing control over media buying sparks transparency concerns.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/05/open-ai-pitch-digiday.jpg",
+      "off_list": false
+    },
+    {
+      "title": "DoorDash said it's only received 'several hundred' orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch",
+      "category": "marketing",
+      "published_iso": "2026-10-30T13:54:25+00:00",
+      "excerpt": "DoorDash said that it is open to working with third-party agent makers.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+      "off_list": false
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
       "source": "The Verge",
       "category": "marketing",
-      "published_iso": "2026-10-29T15:58:11+00:00",
-      "excerpt": "However, the company has seen “promising results” with its ad experiments, chief business officer Philipp Schindler said on yesterday’s earnings call. It’s also turning on AI Mode ads for more people and in more scenarios: ahead of that call, Google announced that it’s bringing ads in AI Mode to new countries and...",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
+      "published_iso": "2026-10-30T17:38:04+00:00",
+      "excerpt": "Starbucks wants to bring AI to its app, too.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
+      "off_list": false
     },
     {
-      "title": "Sociable: Meta says its expanded processing capacity is driving ad results",
-      "url": "https://www.marketingdive.com/news/sociable-meta-says-its-expanded-processing-capacity-is-driving-ad-results/873191/",
-      "source": "Marketing Dive",
+      "title": "줄라이하우스, 배우 디지털 초상 AI 광고 플랫폼 ‘클링크(CLYNK)’ 오픈",
+      "url": "https://sports.khan.co.kr/article/202611020717003",
+      "source": "스포츠경향",
       "category": "marketing",
-      "published_iso": "2026-10-29T15:22:00Z",
-      "excerpt": "New insights from the company point to how its artificial intelligence enhancements are powering clicks and conversions.",
-      "og_image": "https://imgproxy.divecdn.com/MfIOTDAv-J0dXBQpKZ-dYPTu48natx1BFWY-QF8sGGA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2FkX3JhbmtpbmcyLnBuZw==.webp"
-    },
-    {
-      "title": "Google’s AI overhaul of search hits snags as ad revenue growth cools",
-      "url": "https://www.marketingdive.com/news/googles-ai-overhaul-of-search-hits-snags-as-ad-revenue-growth-cools/873150/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "published_iso": "2026-10-29T14:28:00Z",
-      "excerpt": "The rate of ad revenue growth decelerated in Q3 for Google’s core business despite a jump in query volume driven by AI features.",
-      "og_image": "https://imgproxy.divecdn.com/dLRdUulL1iEvNR4mkfzoqdf69qwsi7EgY7J1R6PNB0A/g:nowe:0:75/c:1024:578/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY2NjcxNDgyLmpwZw==.webp"
-    },
-    {
-      "title": "Amazon calls its ad platform an agent, but the agent is still closed beta",
-      "url": "https://ppc.land/amazon-calls-its-ad-platform-an-agent-but-the-agent-is-still-closed-beta/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-29T20:04:06.000Z",
-      "excerpt": "DSP controls now reach only some US advertisers, and the agencies paid to buy Amazon media cannot map the rebrand. Is the confusion steering spend to AI?",
-      "og_image": "https://ppc.land/content/images/2026/10/amazon-ads-agent-closed-beta-dsp-controls-empty-elevator-operator.jpg"
-    },
-    {
-      "title": "Triton Digital's seller agent books Otrium audio campaign in minutes",
-      "url": "https://ppc.land/triton-digitals-seller-agent-books-otrium-audio-campaign-in-minutes/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-28T20:50:19.000Z",
-      "excerpt": "Otrium's AI buyer booked Talpa Media audio with no manual step between brief and ad server, Triton says. Price and budget are missing. What did humans still do?",
-      "og_image": "https://ppc.land/content/images/2026/10/triton-digital-seller-agent-otrium-talpa-audio-agentic-booking-rotary-telephones.jpg"
-    },
-    {
-      "title": "VAB puts US ad dollars spent on AI slop at up to $978.7 million",
-      "url": "https://ppc.land/vab-puts-us-ad-dollars-spent-on-ai-slop-at-up-to-978-7-million/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-28T19:22:44.000Z",
-      "excerpt": "Bad bots took 40% of 2025 web traffic and US consumers lost $2.1B to social media scams. Which of the deck's 12 figures hold up once checked against sources?",
-      "og_image": "https://ppc.land/content/images/2026/10/vab-ai-slop-ad-spend-978m-self-typing-typewriter-banknotes.jpg"
-    },
-    {
-      "title": "Tatari Gives CTV Ad Matching The Max Treatment",
-      "url": "https://www.adexchanger.com/tv/tatari-gives-ctv-ad-matching-the-max-treatment/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-29T13:00:26+00:00",
-      "excerpt": "Tatari's new optimization engine sits at the ad server level and uses machine learning to determine which TV ads to serve to which audiences.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2021/03/TVtargeting.jpg"
-    },
-    {
-      "title": "This Startup Makes Sure That AI Tools Aren’t Out Of Reach For SMBs",
-      "url": "https://www.adexchanger.com/ai/this-startup-makes-sure-that-ai-tools-arent-out-of-reach-for-smbs/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-27T12:54:52+00:00",
-      "excerpt": "AI growth platform Pie aims to give smaller businesses affordable access to AI tools that are often reserved for larger, wealthier businesses.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2851506425-scaled.jpg"
-    },
-    {
-      "title": "Most consumers aren’t using AI for product discovery, yet",
-      "url": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
-      "source": "Retail Dive",
-      "category": "marketing",
-      "published_iso": "2026-10-29T16:32:00Z",
-      "excerpt": "Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds.",
-      "og_image": "https://imgproxy.divecdn.com/sAF8uQpYE1-HjnSDy-ROFwcPqD-zo9WYk-3ccZaypzY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTk1MDQ1MjA3LmpwZw==.webp"
-    },
-    {
-      "title": "Fanatics revamps outfit curation tool with OpenAI",
-      "url": "https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
-      "source": "Retail Dive",
-      "category": "marketing",
-      "published_iso": "2026-10-29T16:58:00Z",
-      "excerpt": "A new version of the retailer’s Shop the Look tool generated 10% higher engagement in a pilot.",
-      "og_image": "https://imgproxy.divecdn.com/IgIspAiskgH6b5GgBwLQCmjzq3ipWQdpzCEc5oew4_s/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYW5hdGljcy53ZWJw.webp"
-    },
-    {
-      "title": "Consumers Aren’t Ready to Let AI Do Their Holiday Shopping Yet",
-      "url": "https://www.adweek.com/commerce/consumers-arent-ready-to-let-ai-do-their-holiday-shopping-yet/",
-      "source": "Adweek",
-      "category": "marketing",
-      "published_iso": "2026-10-28T15:19:02-04:00",
-      "excerpt": "Few consumers trust agents to purchase on their behalf, surveys suggest",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Robot-Shopping.jpg?w=600&h=315&crop=1"
-    },
-    {
-      "title": "Inside indie agencies' DSP gripes and the rise of agentic media buying",
-      "url": "https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-10-27T04:01:00+00:00",
-      "excerpt": "Independent agencies are pushing back on costly DSP fees as AI agents threaten to reshape how media is bought and who controls ad dollars.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/IMG_2091.jpeg"
-    },
-    {
-      "title": "Anthropic’s ad bill is soaring, according to IPO filing",
-      "url": "https://digiday.com/marketing/anthropics-ad-bill-is-soaring-according-to-ipo-filing/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-10-27T04:01:00+00:00",
-      "excerpt": "Anthropic’s S-1 document, which it filed to the SEC ahead of its IPO shows an ad-free AI company with a fast-growing ad bill.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/05/spending-dollars1-digiday.jpg"
-    },
-    {
-      "title": "Introducing the TikTok Brand Safety Center at APAC Responsible Media Forum 2026 - Newsroom | TikTok",
-      "url": "https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU",
-      "source": "TikTok Newsroom",
-      "category": "marketing",
-      "published_iso": "2026-10-28T04:25:00Z",
-      "excerpt": "TikTok is the world's leading destination for short-form mobile videos. Our mission is to capture and present the world's creativity, knowledge, and moments that matter in everyday life. TikTok empowers everyone to be a creator directly from their smartphones, and is committed to building a community by encouraging...",
-      "og_image": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/f9a106a2376198eca3e061e37196f863.jpg~tplv-0twjg7x6w4-default:0:0:q75.image"
-    },
-    {
-      "title": "인플루언서 찾고 섭외비 협상까지…피처링이 그리는 'AI 마케팅'",
-      "url": "https://zdnet.co.kr/view/?no=20261028122654",
-      "source": "ZDNet Korea",
-      "category": "marketing",
-      "published_iso": "2026-10-28T14:23:54+09:00",
-      "excerpt": "인플루언서 마케팅 기업 피처링이 크리에이터 탐색부터 섭외비 협상, 계약서 작성과 콘텐츠 검수까지 인공지능(AI)으로 연결하는 전략을 제시했다. 기업별로 쌓인 캠페인 데이터와 업무 경험을 AI에 접목해 반복 업무를 줄이고 실제 구매 성과로 이어가겠다는 구상이다.장지훈 피처링 대표와 최화섭 최...",
-      "og_image": "https://image.zdnet.co.kr/2026/10/28/0538774a3165538713af8dda12295e33.jpg"
-    },
-    {
-      "title": "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원",
-      "url": "https://zdnet.co.kr/view/?no=20261027154918",
-      "source": "ZDNet Korea",
-      "category": "marketing",
-      "published_iso": "2026-10-27T15:53:22+09:00",
-      "excerpt": "라인플러스가 인공지능(AI)을 활용해 국내 K뷰티 브랜드의 해외 판매용 상품 이미지와 설명 문구 제작을 지원한다. 아마존 입점 과정에서 필요한 콘텐츠 제작과 현지화 작업을 자동화해 국내 기업의 글로벌 진출 부담을 줄이겠다는 구상이다.라인플러스는 27일 서울 강남구 그랜드 인터컨티넨탈 서울 ...",
-      "og_image": "https://image.zdnet.co.kr/2026/10/27/ddde8f769469e3a6bd6be02880949dd4.jpg"
-    },
-    {
-      "title": "AI가 광고 상품 권하면 선택률 3배…이용자 82% 눈치 못 챘다",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710979",
-      "source": "Digital Today",
-      "category": "marketing",
-      "published_iso": "2026-10-29T14:05:55+09:00",
-      "excerpt": "[디지털투데이 AI리포터] 대화형 인공지능(AI)이 특정 광고 상품을 적극적으로 추천하면 이용자의 선택률이 기존 검색 광고보다 약 3배 높아질 수 있다는 연구 결과가 나왔다. 29일(현지시간) IT매체 아이티미디어에 따르면 미국 프린스턴대 연구진은 온라인 쇼핑에서 AI 대화가 소비자 선택에 미치는 영향을 분석한 논문 'AI 매개 대화에서의 상업적 설득'을 공개했다. 연구진은 미국 거주자 2012명을 대상으로 약 5500권의 전자책 중 원하는 책을 고르게 했다. 전체 상품의 20%를 무작위로 광고 상품으로 지정한 뒤, 검색 화면과 G",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/710979_658517_143.jpg"
-    },
-    {
-      "title": "프롬프트팩토리, 크라우드웍스와 '광고 성공률 예측 AI 에이전트' 개발",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=05169286645617840&mediaCodeNo=257",
-      "source": "Edaily",
-      "category": "marketing",
-      "published_iso": "2026-10-29T16:00:23+09:00",
-      "excerpt": "AI 기업 프롬프트팩토리는 AI 데이터 기업 크라우드웍스와 함께 광고 성과를 예측하는 AI 에이전트를 개발했다고 29일 밝혔다. 이번 에이전트는 광고 제작 전 기획안과 소재의 성과 가능성을 데이터에 기반해 분석하는 도구다. 광고 데이터를 검색·활용할 수 있도록 정리...",
-      "og_image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102901426.jpg"
+      "published_iso": "2026-11-02T07:17:00+09:00",
+      "excerpt": "AI IP·플랫폼 기업 줄라이하우스(대표 정의석)가 배우의 디지털 초상을 활용한 AI 광고 제작 플랫폼 ‘클링크(CLYNK)’를 오픈했다. 클링크는 광고주와 배우 등 IP 권리자, AI 크리에이터를 하나로 연결...",
+      "og_image": "https://images.khan.co.kr/article/2026/11/02/news-p.v1.20261102.c9eb9f353a824b6eb56ccfa618efd9ae_P1.png",
+      "off_list": true
     }
   ]
 }

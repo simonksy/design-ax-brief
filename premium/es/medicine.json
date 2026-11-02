@@ -2787,6 +2787,103 @@
           "x": "“Nuestra misión es dar poder al paciente. Si quiere delegar la reserva en un agente de AI, debemos darle el acceso sin fricciones a la atención que desea”, dijo Kharraz."
         }
       ]
+    },
+    "medicine/ama-clinical-ai-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+        },
+        {
+          "t": "p",
+          "x": "Sobre la base de su reciente guía para la gobernanza de la AI clínica, la American Medical Association detalló el jueves con mayor profundidad cómo deben responder las distintas partes por las decisiones, acciones y fallos relacionados con esta tecnología. El marco del Center for Digital Health and AI de la AMA aborda cuestiones de responsabilidad que, según afirmó, los marcos existentes dejan sin resolver, lo que podría exponer a los médicos a una \"responsabilidad por riesgos que no pueden prevenir razonablemente, mientras que los pacientes pueden tener dificultades para obtener reparación cuando la AI causa daño\"."
+        },
+        {
+          "t": "p",
+          "x": "El marco \"reconoce que varias partes pueden ser responsables del uso de la AI cuando algo sale mal\" y vincula la rendición de cuentas con la capacidad de cada parte para prevenir el daño. Los médicos deben \"ser responsables del juicio clínico que pueden ejercer de manera significativa, según el uso previsto del sistema, sus limitaciones conocidas y la información disponible en el punto de atención\", y pueden rechazar un sistema de AI no probado sin sufrir sanciones."
+        },
+        {
+          "t": "p",
+          "x": "\"A medida que la AI asume más funciones clínicas, los desarrolladores, las organizaciones sanitarias y los médicos tienen cada uno responsabilidades importantes\", dijo el presidente de la AMA, Willie Underwood III, M.D. El marco de responsabilidad detalla un aspecto de un marco más amplio de gobernanza de la AI clínica que la AMA presentó a principios de este mes."
+        }
+      ]
+    },
+    "medicine/mr-ai-missed-referrals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las derivaciones al especialista omitidas en atención primaria suponen riesgos sanitarios y médico-legales considerables, pero siguen siendo poco conocidas. Desarrollamos un sistema de seguridad con apoyo de AI (AI-supported), MR-AI, para identificar derivaciones omitidas a partir de las notas de consulta, y lo evaluamos en un estudio cuasiexperimental en siete clínicas de atención primaria de Singapur. MR-AI analizó ~25,000 notas por semana en busca de intención de derivación sin una orden correspondiente, y logró un aumento estimado de siete veces en la detección semanal de derivaciones omitidas (aumento de nivel de 4.7 puntos porcentuales; 95% CI 0.024–0.069; p < 0.001)."
+        },
+        {
+          "t": "p",
+          "x": "De 428 casos señalados, 225 fueron verificados por clínicos, junto con 31 casos notificados por pacientes, lo que dio 256 detecciones en total. MR-AI mostró una especificidad del 99.9% y una sensibilidad del 48.8%. En una comparación ciega de una semana frente a siete médicos revisores, MR-AI alcanzó un PPV del 61.8% frente a una tasa de confirmación humana del 51.8% en 83 casos señalados, y requirió aproximadamente 41 horas de personal proyectadas menos."
+        },
+        {
+          "t": "p",
+          "x": "La vigilancia habilitada por AI (AI-enabled) ayudó de forma sustancial a detectar derivaciones omitidas, aunque una mejora sostenible requerirá cambios preventivos complementarios en el flujo de trabajo y una futura evaluación de costo-efectividad."
+        }
+      ]
+    },
+    "medicine/amhart-teen-chatbot-eval": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Muchos adolescentes buscan consejo de salud mental en chatbots de inteligencia artificial (AI) de uso general, pese a que las evaluaciones frente a estándares clínicos pertinentes para jóvenes son limitadas. Aquí desarrollamos la Adolescent Mental Health AI Response Tool (AMHART), un instrumento elaborado con aportes de clínicos para auditar la presencia de contenido de respuesta basado en guías en siete dominios, y lo aplicamos a cuatro de los principales chatbots de AI."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
+          "cap": "Fig. 1: Resumen gráfico del desarrollo y la evaluación de AMHART."
+        },
+        {
+          "t": "p",
+          "x": "Los ítems candidatos fueron revisados por clínicos según su base de evidencia, objetividad e importancia clínica, lo que dio un subconjunto con sólida validez de contenido y fiabilidad entre evaluadores. Después configuramos un conjunto evaluador de tres modelos de lenguaje de gran tamaño, evaluamos su concordancia con etiquetas de referencia humanas y puntuamos conversaciones de varios turnos en las que perfiles de adolescentes (que variaban por sexo, diagnóstico y gravedad de los síntomas) interactuaban con ChatGPT-5, ChatGPT-4, Claude 4.5 y Gemini 2.5."
+        },
+        {
+          "t": "p",
+          "x": "Las puntuaciones de AMHART indicaron una mayor cobertura de los criterios aplicables en ansiedad que en depresión, y en cuadros moderados que en graves. Los resultados sugieren que AMHART ofrece una referencia fiable y basada en el criterio clínico para evaluar las respuestas de los chatbots cuando los adolescentes revelan ansiedad o depresión."
+        }
+      ]
+    },
+    "medicine/brainomix-glyburide-ct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brainomix destaca un estudio que muestra cómo el análisis automatizado de CT sin contraste con el software de la empresa puede ayudar a identificar a pacientes con infarto hemisférico extenso. Estos pacientes tienen más probabilidades de beneficiarse de la gliburida intravenosa (Cirara), una terapia en investigación de Remedy Pharmaceuticals, según un análisis post hoc del ensayo de fase III Charm presentado en la World Stroke Conference de Seúl."
+        },
+        {
+          "t": "p",
+          "x": "Con su software Brainomix 360 Stroke, la empresa midió el volumen del infarto agudo en la CT sin contraste de 428 pacientes del ensayo. En un subgrupo de 191 pacientes con volúmenes del núcleo del infarto inferiores a 125 mL, Cirara mostró una asociación significativa con la mejora de los resultados funcionales en la modified Rankin Scale, incluida una mayor probabilidad de alcanzar una puntuación de 0 a 3 a los 90 días, según hallaron los investigadores."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados sugieren que los pacientes podrían seleccionarse para ensayos de la terapia sin imágenes avanzadas como la perfusión por CT o la MRI, según Brainomix. Cirara no ha sido aprobada por ninguna autoridad reguladora."
+        }
+      ]
+    },
+    "medicine/jama-wiser-prior-auth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Research Letter de Hannah T. Neprash, PhD (University of Minnesota) y Michael L. Barnett, MD, MS (Brown University). La autorización previa es \"un proceso que exige a los clínicos presentar una justificación de determinados servicios médicos antes de que se ofrezca el reembolso\". Históricamente, Medicare tradicional no ha exigido ninguna autorización previa, salvo raras excepciones."
+        },
+        {
+          "t": "p",
+          "x": "El modelo Wasteful and Inappropriate Service Reduction (WISeR) del Center for Medicare & Medicaid Innovation, un piloto de 6 años que comenzó en enero de 2026 en Arizona, New Jersey, Ohio, Oklahoma, Texas y Washington, exige autorización previa para servicios seleccionados y anima a los participantes a usar inteligencia artificial. Hasta ahora no había evidencia sobre su impacto inicial."
+        },
+        {
+          "t": "p",
+          "x": "Con datos de historias clínicas electrónicas de Epic Cosmos, los autores compararon el uso mensual de los servicios WISeR-targeted (objetivo de WISeR) en los seis estados piloto con el resto de los estados y Washington, D.C., durante los dos años previos al lanzamiento y los primeros seis meses posteriores."
+        },
+        {
+          "t": "p",
+          "x": "Frente a los estados no piloto, las inyecciones epidurales de esteroides cayeron cerca de un 15% y otros servicios objetivo cerca de un 20%. La caída fue mayor al inicio: las inyecciones epidurales de esteroides fueron cerca de un 21% menores en el primer trimestre de 2026 y cerca de un 9% en el segundo; otros servicios pasaron del 21% al 18%. Los servicios previstos para WISeR que nunca se implementaron no mostraron un descenso significativo."
+        },
+        {
+          "t": "p",
+          "x": "Se desconoce si la atención no prestada era innecesaria o necesaria; los autores piden seguir la persistencia del efecto, la idoneidad de la atención, los resultados de los pacientes, la carga de los clínicos y el gasto de Medicare."
+        }
+      ]
     }
   }
 }

@@ -9454,6 +9454,129 @@
           "x": "A Draft mode allows users to test shots and refine storyboards with lower-cost 480p previews before generating a final 4K version. The model also supports 10-bit color and is designed to preserve image quality, colors and fine details when working with reference materials or editing existing footage. Some film-production and post-production companies in China and overseas have begun testing it. [IT Home, in Chinese]"
         }
       ]
+    },
+    "movies/voicemod-disney-soundboards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+          "cap": "©Walt Disney Co./Courtesy Everett Collection"
+        },
+        {
+          "t": "p",
+          "x": "Voicemod, the AI-powered voice-modifying platform that lets users change the tone and sound of their voice and make use of sound effects, will add soundboards from Star Wars and Marvel projects, allowing its 5.7 million monthly active users to use quotes and sound effects from those projects on platforms such as Twitch and Discord. The first Star Wars soundboards, from “The Mandalorian & Grogu,” are available as of Friday; others will follow."
+        },
+        {
+          "t": "p",
+          "x": "It does not yet appear that users can make their own voices sound like the characters, with the tools more like “sound memes.” But Disney’s decision to license IP to an AI-related company reflects the increasing willingness of entertainment companies to associate their intellectual property with artificial intelligence."
+        },
+        {
+          "t": "p",
+          "x": "It follows Disney’s move last year to license characters for OpenAI’s Sora as part of its short-lived $1 billion investment deal, and comes after Hasbro licensed several of its characters’ voices to ElevenLabs. “These soundboards build on those interactions by giving users a way to bring sounds from Marvel and Star Wars into those moments,” said Voicemod founder and CEO Jaime Bosch."
+        }
+      ]
+    },
+    "movies/libatique-ai-vfx-actors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+          "cap": "Courtesy of Evolution Mallorca"
+        },
+        {
+          "t": "p",
+          "x": "Three-time Oscar-nominee cinematographer Matthew Libatique says he and Darren Aronofsky, who launched AI studio Primordial Soup with Google DeepMind, are “testing” the technology ahead of their next film. “We’re doing a test soon,” he says."
+        },
+        {
+          "t": "p",
+          "x": "AI “won’t replace cinema. What it could replace is Marvel,” he says: studios making giant films will “employ AI to curb some of their costs” through visual effects, though he doesn’t think Marvel “will ever use AI actors.” “You can’t tell me you’re going to make an AI character that can do what Robert Pattinson does.”"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+          "cap": "“Iron Man,” courtesy of Marvel"
+        },
+        {
+          "t": "p",
+          "x": "He has used AI in post-production, for example to correct glare, but acknowledges “it definitely took some work away.” On Dustin Yellin’s AI short “Goodbye Lamby,” the prompter asked him to physically light a space first. He calls AI videos made “in the style of Matthew Libatique” “absolutely offensive,” adding: “I haven’t seen anything created by AI that’s really impressed me.”"
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-relighting": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "19ngvIWpK_U"
+        },
+        {
+          "t": "p",
+          "x": "In this video, Curious Refuge shares a new workflow for relighting your films after the shoot — turning a daytime office into a late-night workspace without returning to set."
+        },
+        {
+          "t": "p",
+          "x": "The steps: export a still frame, pick a lighting reference, and relight the still in an image editor (Nano Banana 2.1 or GPT Image 2.5 are recommended) with a prompt like “Change the lighting and time of day in image 1 to nighttime. Use image 2 as the lighting and style reference.” Then upload the original clip plus the relit frame to a video model so the edited image supplies the lighting target while the footage supplies the performance and motion."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+          "cap": "First Frame with New Lighting"
+        },
+        {
+          "t": "p",
+          "x": "The results were promising, with limits: in the office test they saw exposure variation and visible diagonal banding, and the output was lower-resolution than the 4K source — so review the whole clip for artifacts before using it in your film."
+        }
+      ]
+    },
+    "movies/news1-broadcast-ai-action": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+          "cap": "MBC"
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence (AI) has emerged as a new driving force in broadcasting. AI use, once limited to generating subtitles and converting speech to text, has expanded since the arrival of generative AI to cover everything from planning to video production and viewer data analysis."
+        },
+        {
+          "t": "p",
+          "x": "Lee Sang-jin, head of the AI Partnership Team at SBS, said: “Kim Bu-jang’s past infiltration scene in North Korea was expected to cost hundreds of millions of won to shoot live, but using AI we were able to save about ₩200 million.” In an explosion scene on a bridge, the vehicles were made with CG and the rising flames with generative AI. EBS has released works such as ‘AI Drama - Resurrection Class,’ and KBS’s historical epic ‘Munmu’ will also show historical settings and large-scale battle scenes made with generative AI."
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+          "cap": "AI-based ‘Vertigo PTZ’ / Photo courtesy of KBS"
+        },
+        {
+          "t": "p",
+          "x": "KBS’s AI-based automatic video framing solution ‘Vertigo’ cut editing time on ‘Music Bank’ from about 15 minutes per performer to 2–3 minutes. MBC made the countdown video for its local election results broadcast with only its broadcast archive and generative AI, without any filming. Kwon Seok-won, head of MBC’s AI Strategy Team, stressed that “the goal of adopting AI is not to cut staff” but to build a structure in which members can focus on creative work."
+        }
+      ]
+    },
+    "movies/beta-builder-aion-hybrid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
+          "cap": "Mayur More and Ashlesha Thakur"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: Mayur More and Ashlesha Thakur will star in the first AI-driven feature film from the pact between India's Abundantia Entertainment and video tech firm InVideo. Beta Builder has InVideo's Global Creative Lead, Hridaye A. Nagpal, attached to direct, with principal photography beginning today in Mumbai."
+        },
+        {
+          "t": "p",
+          "x": "Abundantia is producing through its Abundantia AiOn division, framed as “human-first and AI-empowered.” Last year it partnered with InVideo on a slate of five AI-powered films launched over three years with a ₹100 crore ($10.5M) commitment behind it."
+        },
+        {
+          "t": "p",
+          "x": "The film tells the story of Jai, a self-taught, genius architect from Dharavi who gets a chance to realize his dreams in the world of virtual reality. It is positioned as a hybrid production, “pairing full-blown, live-action filming with AI-driven production.”"
+        },
+        {
+          "t": "p",
+          "x": "“With AI-assisted filmmaking, storytellers can dream much bigger, and backing a bold idea finally feels possible,” said Nagpal. “Beta Builder is our bet on that future, with a live-action shoot and AI working side by side.” InVideo, which is U.S.-based with offices in India, positions itself as an agnostic AI filmmaking platform with more than 50 million users."
+        }
+      ]
     }
   }
 }

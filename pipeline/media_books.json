@@ -1,7 +1,31 @@
-{"date":"2026-10-30","section":"books","media":[
-{"id":"books-openai-fairuse-amicus","type":"image","src":"pipeline/media/books-openai-fairuse-amicus.jpg"},
-{"id":"books-aoi-illustrator-survey","type":"image","src":"pipeline/media/books-aoi-illustrator-survey.jpg"},
-{"id":"books-stanford-anthropic-optout","type":"image","src":"pipeline/media/books-stanford-anthropic-optout.png"},
-{"id":"books-ifrro-ai-study","type":"image","src":"pipeline/media/books-ifrro-ai-study.png"},
-{"id":"books-toonflow-brainventures","type":"svg"}
-]}
+{
+  "date": "2026-11-02",
+  "section": "books",
+  "media": [
+    {
+      "id": "kindle-askthisbook-ereader",
+      "type": "image",
+      "src": "pipeline/media/kindle-askthisbook-ereader.jpg"
+    },
+    {
+      "id": "anthropic-taa-textbook-letter",
+      "type": "image",
+      "src": "pipeline/media/anthropic-taa-textbook-letter.png"
+    },
+    {
+      "id": "gemini-notebook-textbooks",
+      "type": "video",
+      "src": "pipeline/media/gemini-notebook-textbooks.mp4",
+      "poster": "pipeline/media/gemini-notebook-textbooks.jpg"
+    },
+    {
+      "id": "china-ai-shrimp-recall",
+      "type": "image",
+      "src": "pipeline/media/china-ai-shrimp-recall.jpg"
+    },
+    {
+      "id": "kpa-corpus-settlement",
+      "type": "svg"
+    }
+  ]
+}

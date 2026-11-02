@@ -9052,6 +9052,129 @@
           "x": "Draft モードでは、最終的な4K 版を生成する前に、低コストの480p プレビューでショットを試し、絵コンテを練ることができる。10-bit カラーにも対応し、参照素材を使う場合や既存映像を編集する場合でも画質や色、細部を保つよう設計されている。中国内外の映画制作会社やポストプロダクション会社の一部がすでにテストを始めている。[IT Home, in Chinese]"
         }
       ]
+    },
+    "movies/voicemod-disney-soundboards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+          "cap": "©Walt Disney Co./Everett Collection提供"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーが声のトーンや音を変え、効果音を使えるAI-powered（AI搭載）の音声変換プラットフォームVoicemodが、Star WarsとMarvel作品のサウンドボードを追加する。月間アクティブユーザー570万人が、TwitchやDiscordなどのプラットフォームで各作品のセリフや効果音を使えるようになる。最初のStar Warsサウンドボードは『The Mandalorian & Grogu』のもので、金曜日から利用でき、ほかも順次続く。"
+        },
+        {
+          "t": "p",
+          "x": "現時点では、ユーザーが自分の声をキャラクターのように変えられるわけではなさそうで、ツールは「サウンドミーム」に近い。それでも、DisneyがAI-related（AI関連）企業にIPをライセンスしたことは、エンターテインメント企業が自社の知的財産を人工知能と結びつけることにますます前向きになっている現状を映している。"
+        },
+        {
+          "t": "p",
+          "x": "これは、Disneyが昨年、短命に終わった10億ドルの投資契約の一環としてOpenAIのSoraにキャラクターをライセンスした動きに続くもので、HasbroがElevenLabsに複数のキャラクターの声をライセンスした後のことでもある。Voicemodの創業者兼CEOのJaime Boschは「これらのサウンドボードは、MarvelとStar Warsのサウンドをそうした瞬間に持ち込む手段をユーザーに与え、そのやり取りをさらに広げるものだ」と述べた。"
+        }
+      ]
+    },
+    "movies/libatique-ai-vfx-actors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+          "cap": "Evolution Mallorca提供"
+        },
+        {
+          "t": "p",
+          "x": "アカデミー賞に3度ノミネートされた撮影監督Matthew Libatiqueは、Google DeepMindとAIスタジオPrimordial Soupを立ち上げたDarren Aronofskyとともに、次回作に向けてこの技術を「テスト」していると語る。「近くテストをする」という。"
+        },
+        {
+          "t": "p",
+          "x": "AIは「映画に取って代わることはない。代わりうるのはMarvelだ」と彼は言う。超大作を作るスタジオは視覚効果で「AIを使ってコストの一部を抑える」だろうが、Marvelが「AI俳優を使うことはない」とも考えている。「Robert Pattinsonがやることをこなせるキャラクターを AIで作れるなんて、とても信じられない」"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+          "cap": "『アイアンマン』、Marvel提供"
+        },
+        {
+          "t": "p",
+          "x": "彼はポストプロダクションで、たとえばグレアの補正にAIを使ったことがあるが、「確かに仕事の一部を奪った」と認める。Dustin YellinのAI短編『Goodbye Lamby』では、プロンプターが彼にまず実際に空間をライティングするよう求めた。「Matthew Libatique風に」作られたAI動画は「まったく不快だ」とし、「AIが作ったもので本当に感心したものはまだ見たことがない」と付け加えた。"
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-relighting": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "19ngvIWpK_U"
+        },
+        {
+          "t": "p",
+          "x": "この動画でCurious Refugeは、撮影後に映像の照明を変える新しいワークフローを紹介している。セットに戻らずに、昼間のオフィスを深夜の作業場に変えるというものだ。"
+        },
+        {
+          "t": "p",
+          "x": "手順はこうだ。静止フレームを書き出し、照明のリファレンスを選び、画像編集ツール（Nano Banana 2.1またはGPT Image 2.5を推奨）で「画像1の照明と時間帯を夜に変更せよ。画像2を照明とスタイルのリファレンスとして使え」といったプロンプトを使い、静止画の照明を変える。次に元のクリップと照明を変えたフレームを動画モデルにアップロードすると、編集した画像が目標の照明を、元の映像が演技と動きを担う。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+          "cap": "新しい照明を施した最初のフレーム"
+        },
+        {
+          "t": "p",
+          "x": "結果は有望だったが限界もあった。オフィスでのテストでは露出のばらつきや目立つ斜めのバンディングが見られ、出力は4K の元素材より低解像度だった。映画に使う前に、クリップ全体でアーティファクトを確認すべきだ。"
+        }
+      ]
+    },
+    "movies/news1-broadcast-ai-action": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+          "cap": "MBC"
+        },
+        {
+          "t": "p",
+          "x": "人工知能（AI）技術が放送業界の新たな原動力として浮上した。かつて字幕生成や音声の文字変換などにとどまっていたAIの活用は、生成AIの登場以降、企画から映像制作、視聴者データ分析にまで広がった。"
+        },
+        {
+          "t": "p",
+          "x": "SBSのイ・サンジンAIパートナーシップチーム長は「キム部長の過去の北朝鮮潜入シーンは実写撮影に数億ウォンかかると見込まれていたが、AIを活用して約2億ウォンを削減できた」と語った。橋の上の爆破シーンでは車両をCGで、立ち上る炎を生成AIで表現した。EBSは『AIドラマ-復活授業』などを披露し、KBSの大河時代劇『文武』も生成AIで作った歴史的空間と大規模な戦闘シーンを見せる。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+          "cap": "AIベースの『バーティゴPTZ』/写真=KBS提供"
+        },
+        {
+          "t": "p",
+          "x": "KBSのAIベースの自動映像フレーミングソリューション『バーティゴ』は、『ミュージックバンク』で出演者1人あたり約15分かかっていた編集時間を2〜3分に短縮した。MBCは地方選挙の開票放送のカウントダウン映像を、撮影なしで放送アーカイブと生成AIだけで制作した。MBCのクォン・ソグォンAI戦略チーム長は「AI導入の目標は人員を減らすことではなく」、構成員が創造的な業務に集中できる構造をつくることだと強調した。"
+        }
+      ]
+    },
+    "movies/beta-builder-aion-hybrid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
+          "cap": "Mayur MoreとAshlesha Thakur"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE(独占): Mayur MoreとAshlesha Thakurが、インド(India)のAbundantia Entertainmentと映像テック企業InVideoの提携による初のAI-driven長編映画に主演する。Beta BuilderはInVideoのGlobal Creative LeadであるHridaye A. Nagpalが監督を務め、主要撮影は本日Mumbaiで始まる。"
+        },
+        {
+          "t": "p",
+          "x": "Abundantiaは「human-first and AI-empowered(人間が第一、AIが力を与える)」を掲げる部門Abundantia AiOnを通じて製作する。同社は昨年InVideoと組み、三年間で五本のAI-powered映画を送り出すラインアップを立ち上げ、₹100 crore($10.5M)の拠出を約束している。"
+        },
+        {
+          "t": "p",
+          "x": "物語の主人公は、Dharavi出身で独学の天才建築家Jai。彼は仮想現実の世界で夢を実現する機会を得る。本作は「本格的なlive-action撮影とAI-driven制作を組み合わせた」ハイブリッド作品と位置づけられている。"
+        },
+        {
+          "t": "p",
+          "x": "「AI-assisted映画制作によって、語り手ははるかに大きな夢を描けるようになり、大胆なアイデアを後押しすることがようやく可能だと感じられる」とNagpalは語った。「Beta Builderは、live-action撮影とAIが肩を並べて働く未来への私たちの賭けだ」。U.S.-basedでインド(India)にオフィスを構えるInVideoは、50 million 人を超えるユーザーを持つ、特定の技術に縛られない(agnostic)AI映画制作プラットフォームを標榜している。"
+        }
+      ]
     }
   }
 }

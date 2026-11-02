@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "section": "movies",
   "cards": [
     {
-      "id": "beta-builder-aion-hybrid",
+      "id": "guilds-openai-fairuse-brief",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Beta Builder\nAI 혼합 영화 주연 확정",
-      "body": "AI 혼합 영화 주연은 Mayur More·Ashlesha Thakur가 맡는다.",
-      "mini_headline": "Beta Builder 주연 확정",
+      "headline": "할리우드 노조\nAI 학습 공정이용 반대",
+      "body": "SAG-AFTRA·WGA·AFM이 OpenAI 소송서 AI 공정이용에 반대했다.",
+      "mini_headline": "노조, AI 공정이용에 반대",
       "tool": "Movies",
       "source": "Deadline",
-      "url": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
+      "url": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,179 +19,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-            "cap": "Mayur More와 Ashlesha Thakur"
+            "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
           },
           {
             "t": "p",
-            "x": "EXCLUSIVE(단독): Mayur More와 Ashlesha Thakur가 인도(India) Abundantia Entertainment와 영상 기술 기업 InVideo가 손잡고 만드는 첫 AI-driven 장편영화에 출연한다. Beta Builder 연출은 InVideo의 Global Creative Lead인 Hridaye A. Nagpal이 맡았고, 주요 촬영은 오늘 Mumbai에서 시작한다."
+            "x": "SAG-AFTRA와 American Federation of Music, Writers Guild of America 동부·서부 지부가 AI 모델 학습에 공정이용 예외를 인정하지 말라고 연방 판사에게 요청했다. 노조들은 여러 언론사·작가가 OpenAI를 상대로 낸 저작권 침해 소송에 목요일 공동 법정 의견서(amicus brief)를 내고 조 달러 규모의 이 기업이 “자사 기술을 개발하려고 중산층과 노동자 계층의 작업물을 가져다 쓰고 있다”고 주장했다."
           },
           {
             "t": "p",
-            "x": "Abundantia는 “human-first and AI-empowered(인간이 먼저, AI로 힘을 얻는)”를 내건 Abundantia AiOn 부문에서 제작한다. 지난해 InVideo와 함께 세 해 동안 AI-powered 영화 다섯 편을 내놓는 라인업을 꾸렸고 ₹100 crore($10.5M)를 약정했다."
+            "x": "의견서는 “무단 학습의 피해는 뉴스 원고(News Plaintiffs) 같은 기업뿐 아니라 그 작업 뒤에 있는 수많은 전문가에게도 돌아간다”고 썼다. 34쪽짜리 이 문서는 공정이용을 일괄 인정하면 창작자에게서 기업으로 “잠재적으로 막대한 가치 이전”이 일어날 수 있다고 짚으며 “이번 AI 학습 분쟁은 ‘평범한 저작권 사건에 지나지 않으며’ 그렇게 다뤄져야 한다”고 주장한다."
           },
           {
             "t": "p",
-            "x": "Dharavi 출신의 독학 천재 건축가 Jai가 가상현실 세계에서 꿈을 이룰 기회를 얻는 이야기다. 제작진은 “본격적인 live-action 촬영과 AI-driven 제작을 결합한” 하이브리드 방식을 내세운다."
-          },
-          {
-            "t": "p",
-            "x": "“AI-assisted 영화 제작 덕분에 이야기꾼은 훨씬 큰 꿈을 꿀 수 있고, 대담한 아이디어를 밀어주는 일도 마침내 가능하다고 느낀다”고 Nagpal은 말했다. “Beta Builder는 live-action 촬영과 AI가 나란히 일하는 그 미래에 거는 우리의 승부다.” U.S.-based 기업으로 인도(India)에 사무소를 둔 InVideo는 사용자 50 million 명 이상을 확보한 중립적(agnostic) AI 영화 제작 플랫폼이라고 스스로 소개한다."
+            "x": "공정이용 여부는 사안마다 따로 판단해야 한다는 게 노조들의 입장이다. 작가 노조와 배우 노조는 상업용 생성형 AI 시스템 학습에 쓰려고 대상 저작물을 제3자에게 라이선스할 때 통보받고 교섭할 권리를 따냈다. 의견서는 “이 사건에서 학습이 일괄적으로 공정이용이라고 판결하면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 지적했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Two leads cast in AI hybrid\nfeature Beta Builder",
-          "body": "Mayur More and Ashlesha Thakur will lead Beta Builder, a feature pairing live-action filming with AI-driven production.",
-          "mini_headline": "Beta Builder\ncasts its leads",
+          "headline": "Hollywood guilds oppose\nfair use for AI training",
+          "body": "SAG-AFTRA, the WGA and the AFM asked a federal judge to reject fair use for AI training in the OpenAI case.",
+          "mini_headline": "Guilds fight AI fair use",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur More and Ashlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Mayur More and Ashlesha Thakur will star in the first AI-driven feature film from the pact between India's Abundantia Entertainment and video tech firm InVideo. Beta Builder has InVideo's Global Creative Lead, Hridaye A. Nagpal, attached to direct, with principal photography beginning today in Mumbai."
+                "x": "SAG-AFTRA, the American Federation of Music and the Writers Guild of America East and West are calling on a federal judge to reject a fair use exemption for training AI models. The unions jointly filed an amicus brief Thursday in the ongoing copyright infringement battle between OpenAI and a slew of news outlets and writers, arguing the trillion-dollar company is “appropriating the work of middle- and working-class people to develop their technology.”"
               },
               {
                 "t": "p",
-                "x": "Abundantia is producing through its Abundantia AiOn division, framed as “human-first and AI-empowered.” Last year it partnered with InVideo on a slate of five AI-powered films launched over three years with a ₹100 crore ($10.5M) commitment behind it."
+                "x": "“The harms of unlicensed training fall not just on companies like the News Plaintiffs, but on the countless professionals behind the work,” the brief reads. The 34-page document lays out how a categorical fair use exemption would allow for a “potentially enormous transfer of value” from creators to corporations, and argues that “this AI training dispute is ‘no more than an ordinary copyright case’ and should be treated as such.”"
               },
               {
                 "t": "p",
-                "x": "The film tells the story of Jai, a self-taught, genius architect from Dharavi who gets a chance to realize his dreams in the world of virtual reality. It is positioned as a hybrid production, “pairing full-blown, live-action filming with AI-driven production.”"
-              },
-              {
-                "t": "p",
-                "x": "“With AI-assisted filmmaking, storytellers can dream much bigger, and backing a bold idea finally feels possible,” said Nagpal. “Beta Builder is our bet on that future, with a live-action shoot and AI working side by side.” InVideo, which is U.S.-based with offices in India, positions itself as an agnostic AI filmmaking platform with more than 50 million users."
+                "x": "The unions make the case that fair use must remain a case-by-case judgement call. The writers and actors guilds won a notice-and-bargaining right for third party licenses of covered work to train commercial generative AI systems; “a ruling here that training is categorically fair use would render moot the terms the unions and the industry agreed to at the bargaining table,” the brief says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Beta Builder\nAI 혼합 영화 주연 확정",
-          "body": "AI 혼합 영화 주연은 Mayur More·Ashlesha Thakur가 맡는다.",
-          "mini_headline": "Beta Builder 주연 확정",
+          "headline": "할리우드 노조\nAI 학습 공정이용 반대",
+          "body": "SAG-AFTRA·WGA·AFM이 OpenAI 소송서 AI 공정이용에 반대했다.",
+          "mini_headline": "노조, AI 공정이용에 반대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur More와 Ashlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE(단독): Mayur More와 Ashlesha Thakur가 인도(India) Abundantia Entertainment와 영상 기술 기업 InVideo가 손잡고 만드는 첫 AI-driven 장편영화에 출연한다. Beta Builder 연출은 InVideo의 Global Creative Lead인 Hridaye A. Nagpal이 맡았고, 주요 촬영은 오늘 Mumbai에서 시작한다."
+                "x": "SAG-AFTRA와 American Federation of Music, Writers Guild of America 동부·서부 지부가 AI 모델 학습에 공정이용 예외를 인정하지 말라고 연방 판사에게 요청했다. 노조들은 여러 언론사·작가가 OpenAI를 상대로 낸 저작권 침해 소송에 목요일 공동 법정 의견서(amicus brief)를 내고 조 달러 규모의 이 기업이 “자사 기술을 개발하려고 중산층과 노동자 계층의 작업물을 가져다 쓰고 있다”고 주장했다."
               },
               {
                 "t": "p",
-                "x": "Abundantia는 “human-first and AI-empowered(인간이 먼저, AI로 힘을 얻는)”를 내건 Abundantia AiOn 부문에서 제작한다. 지난해 InVideo와 함께 세 해 동안 AI-powered 영화 다섯 편을 내놓는 라인업을 꾸렸고 ₹100 crore($10.5M)를 약정했다."
+                "x": "의견서는 “무단 학습의 피해는 뉴스 원고(News Plaintiffs) 같은 기업뿐 아니라 그 작업 뒤에 있는 수많은 전문가에게도 돌아간다”고 썼다. 34쪽짜리 이 문서는 공정이용을 일괄 인정하면 창작자에게서 기업으로 “잠재적으로 막대한 가치 이전”이 일어날 수 있다고 짚으며 “이번 AI 학습 분쟁은 ‘평범한 저작권 사건에 지나지 않으며’ 그렇게 다뤄져야 한다”고 주장한다."
               },
               {
                 "t": "p",
-                "x": "Dharavi 출신의 독학 천재 건축가 Jai가 가상현실 세계에서 꿈을 이룰 기회를 얻는 이야기다. 제작진은 “본격적인 live-action 촬영과 AI-driven 제작을 결합한” 하이브리드 방식을 내세운다."
-              },
-              {
-                "t": "p",
-                "x": "“AI-assisted 영화 제작 덕분에 이야기꾼은 훨씬 큰 꿈을 꿀 수 있고, 대담한 아이디어를 밀어주는 일도 마침내 가능하다고 느낀다”고 Nagpal은 말했다. “Beta Builder는 live-action 촬영과 AI가 나란히 일하는 그 미래에 거는 우리의 승부다.” U.S.-based 기업으로 인도(India)에 사무소를 둔 InVideo는 사용자 50 million 명 이상을 확보한 중립적(agnostic) AI 영화 제작 플랫폼이라고 스스로 소개한다."
+                "x": "공정이용 여부는 사안마다 따로 판단해야 한다는 게 노조들의 입장이다. 작가 노조와 배우 노조는 상업용 생성형 AI 시스템 학습에 쓰려고 대상 저작물을 제3자에게 라이선스할 때 통보받고 교섭할 권리를 따냈다. 의견서는 “이 사건에서 학습이 일괄적으로 공정이용이라고 판결하면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 지적했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Beta Builder\nAIハイブリッド作の主演決定",
-          "body": "Mayur MoreとAshlesha ThakurがAIハイブリッド映画に主演する。",
-          "mini_headline": "Beta Builderの主演決定",
+          "headline": "ハリウッドの組合\nAI学習のフェアユースに反対",
+          "body": "SAG-AFTRA・WGA・AFMがOpenAI訴訟でAI学習の公正利用否定を判事に求めた。",
+          "mini_headline": "組合がAIフェアユースに反対",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur MoreとAshlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE(独占): Mayur MoreとAshlesha Thakurが、インド(India)のAbundantia Entertainmentと映像テック企業InVideoの提携による初のAI-driven長編映画に主演する。Beta BuilderはInVideoのGlobal Creative LeadであるHridaye A. Nagpalが監督を務め、主要撮影は本日Mumbaiで始まる。"
+                "x": "SAG-AFTRA、American Federation of Music、Writers Guild of America東部・西部は、AIモデルの学習にフェアユースの例外を認めないよう連邦判事に求めている。各組合は木曜日、OpenAIと多数の報道機関や作家の間で続く著作権侵害訴訟でアミカスブリーフを共同提出し、兆ドル規模の同社が「自らの技術開発のために中流層や労働者層の作品を流用している」と主張した。"
               },
               {
                 "t": "p",
-                "x": "Abundantiaは「human-first and AI-empowered(人間が第一、AIが力を与える)」を掲げる部門Abundantia AiOnを通じて製作する。同社は昨年InVideoと組み、三年間で五本のAI-powered映画を送り出すラインアップを立ち上げ、₹100 crore($10.5M)の拠出を約束している。"
+                "x": "「無許諾の学習による損害は、News Plaintiffsのような企業だけでなく、作品を支える無数の専門家にも及ぶ」と意見書は述べる。34ページの文書は、フェアユースを一律に認めれば創作者から企業へ「潜在的に莫大な価値の移転」が起こりうると説明し、「このAI学習をめぐる争いは『通常の著作権訴訟にすぎず』、そのように扱われるべきだ」と論じている。"
               },
               {
                 "t": "p",
-                "x": "物語の主人公は、Dharavi出身で独学の天才建築家Jai。彼は仮想現実の世界で夢を実現する機会を得る。本作は「本格的なlive-action撮影とAI-driven制作を組み合わせた」ハイブリッド作品と位置づけられている。"
-              },
-              {
-                "t": "p",
-                "x": "「AI-assisted映画制作によって、語り手ははるかに大きな夢を描けるようになり、大胆なアイデアを後押しすることがようやく可能だと感じられる」とNagpalは語った。「Beta Builderは、live-action撮影とAIが肩を並べて働く未来への私たちの賭けだ」。U.S.-basedでインド(India)にオフィスを構えるInVideoは、50 million 人を超えるユーザーを持つ、特定の技術に縛られない(agnostic)AI映画制作プラットフォームを標榜している。"
+                "x": "組合側は、フェアユースは事案ごとに判断されるべきだと訴える。脚本家と俳優の組合は、商用の生成AIシステムの学習に対象作品を第三者へライセンスする際の通知・交渉権を勝ち取っている。意見書は「ここで学習を一律にフェアユースとする判決が出れば、組合と業界が交渉の場で合意した条件が無意味になる」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Beta Builder\nAI混合影片敲定两主演",
-          "body": "Mayur More与Ashlesha Thakur将主演这部AI混合影片。",
-          "mini_headline": "Beta Builder敲定主演",
+          "headline": "好莱坞工会\n反对AI训练合理使用",
+          "body": "SAG-AFTRA、WGA与AFM请求联邦法官在OpenAI案中驳回AI训练的合理使用主张。",
+          "mini_headline": "工会反对AI合理使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur More与Ashlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE(独家):Mayur More和Ashlesha Thakur将主演印度(India)Abundantia Entertainment与视频科技公司InVideo合作的首部AI-driven长片。Beta Builder由InVideo全球创意负责人(Global Creative Lead)Hridaye A. Nagpal执导,主体拍摄今天在Mumbai开机。"
+                "x": "SAG-AFTRA、American Federation of Music以及Writers Guild of America东部与西部分会呼吁联邦法官驳回针对AI模型训练的合理使用豁免。各工会周四在OpenAI与众多新闻机构及作家之间持续进行的版权侵权诉讼中联合提交了法庭之友意见书，称这家万亿美元级公司正在“挪用中产阶级和工薪阶层的作品来开发自己的技术”。"
               },
               {
                 "t": "p",
-                "x": "Abundantia通过旗下Abundantia AiOn部门制作该片,该部门的定位是“human-first and AI-empowered(以人为先、由AI赋能)”。去年,Abundantia与InVideo合作推出片单,计划在三年内推出五部AI-powered影片,并为此承诺投入₹100 crore($10.5M)。"
+                "x": "意见书写道：“未经许可的训练所造成的伤害，不仅落在News Plaintiffs这样的公司身上，也落在作品背后无数的专业人士身上。”这份34页的文件阐述了一刀切的合理使用豁免可能造成价值从创作者向企业的“潜在巨大转移”，并主张“这场AI训练纠纷‘不过是一起普通的版权案件’，也应当如此对待”。"
               },
               {
                 "t": "p",
-                "x": "影片讲述来自Dharavi、自学成才的天才建筑师Jai在虚拟现实世界中获得实现梦想机会的故事。该片定位为混合制作,“将全面的live-action实拍与AI-driven制作结合起来”。"
-              },
-              {
-                "t": "p",
-                "x": "“借助AI-assisted电影制作,讲故事的人可以拥有更大的梦想,支持大胆的创意终于显得可行,”Nagpal说。“Beta Builder是我们对这一未来的押注,让live-action拍摄与AI并肩工作。”InVideo是U.S.-based公司,在印度(India)设有办公室,自我定位为不绑定特定技术(agnostic)的AI电影制作平台,拥有超过50 million 名用户。"
+                "x": "工会认为，合理使用必须继续逐案判断。编剧和演员工会已就向第三方授权受保护作品用于训练商业生成式AI系统争取到通知与谈判的权利；意见书称：“若在此裁定训练一律属于合理使用，工会与业界在谈判桌上达成的条款将形同虚设。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Beta Builder, híbrido con AI\nelige a sus dos protagonistas",
-          "body": "Mayur More y Ashlesha Thakur protagonizarán Beta Builder, que combina rodaje en imagen real con producción AI-driven.",
-          "mini_headline": "Beta Builder elige protagonistas",
+          "headline": "Los gremios de Hollywood\nrechazan el uso legítimo en IA",
+          "body": "SAG-AFTRA, el WGA y la AFM pidieron a un juez federal rechazar el uso legítimo para entrenar IA en el caso OpenAI.",
+          "mini_headline": "Gremios contra el uso legítimo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur More y Ashlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Mayur More y Ashlesha Thakur protagonizarán el primer largometraje AI-driven surgido del acuerdo entre la compañía de India Abundantia Entertainment y la tecnológica de video InVideo. Beta Builder será dirigida por Hridaye A. Nagpal, Global Creative Lead de InVideo, y el rodaje principal comienza hoy en Mumbai."
+                "x": "SAG-AFTRA, la American Federation of Music y el Writers Guild of America East y West piden a un juez federal que rechace una exención de uso legítimo para el entrenamiento de modelos de IA. Los sindicatos presentaron el jueves un escrito amicus conjunto en la demanda por infracción de derechos de autor que enfrenta a OpenAI con numerosos medios y escritores, y sostienen que la compañía de un billón de dólares está “apropiándose del trabajo de personas de clase media y trabajadora para desarrollar su tecnología”."
               },
               {
                 "t": "p",
-                "x": "Abundantia produce a través de su división Abundantia AiOn, presentada como “human-first and AI-empowered” (primero lo humano, potenciado por AI). El año pasado se asoció con InVideo en una cartera de cinco películas AI-powered que se estrenarán a lo largo de tres años, respaldada por un compromiso de ₹100 crore ($10.5M)."
+                "x": "“Los daños del entrenamiento sin licencia no recaen solo en empresas como los News Plaintiffs, sino en los innumerables profesionales que hay detrás del trabajo”, dice el escrito. El documento de 34 páginas expone cómo una exención categórica de uso legítimo permitiría una “transferencia de valor potencialmente enorme” de los creadores a las corporaciones, y sostiene que “esta disputa sobre el entrenamiento de IA ‘no es más que un caso ordinario de derechos de autor’ y debe tratarse como tal”."
               },
               {
                 "t": "p",
-                "x": "La película cuenta la historia de Jai, un arquitecto genial y autodidacta de Dharavi que tiene la oportunidad de hacer realidad sus sueños en el mundo de la realidad virtual. Se presenta como una producción híbrida que combina “un rodaje live-action en toda regla con producción AI-driven”."
-              },
-              {
-                "t": "p",
-                "x": "“Con el cine AI-assisted, los narradores pueden soñar mucho más en grande, y respaldar una idea audaz por fin parece posible”, dijo Nagpal. “Beta Builder es nuestra apuesta por ese futuro, con un rodaje live-action y la AI trabajando codo con codo”. InVideo, empresa U.S.-based con oficinas en India, se presenta como una plataforma agnóstica de cine con AI que supera los 50 millones de usuarios."
+                "x": "Los sindicatos defienden que el uso legítimo debe seguir evaluándose caso por caso. Los gremios de guionistas y actores obtuvieron un derecho de notificación y negociación sobre las licencias a terceros de obras cubiertas para entrenar sistemas comerciales de IA generativa; “un fallo que declare que el entrenamiento es categóricamente uso legítimo dejaría sin efecto los términos que los sindicatos y la industria acordaron en la mesa de negociación”, señala el escrito."
               }
             ]
           }
@@ -199,125 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Beta Builder\nAI 혼합 영화 주연 확정",
-          "body": "Mayur More·Ashlesha Thakur가 AI 혼합 영화 주연을 맡는다.",
-          "mini_headline": "Beta Builder 주연 확정",
+          "headline": "할리우드 노조들\nAI 학습 공정이용 반대",
+          "body": "SAG-AFTRA·WGA·AFM이 OpenAI 소송서 AI 공정이용 기각을 청했다.",
+          "mini_headline": "노조, AI 공정이용에 반대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur More와 Ashlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE(단독): Mayur More와 Ashlesha Thakur가 인도(India) Abundantia Entertainment와 영상 기술 기업 InVideo의 제휴로 나오는 첫 AI-driven 장편영화에 출연한다. Beta Builder는 InVideo의 Global Creative Lead인 Hridaye A. Nagpal이 연출을 맡고, 주요 촬영은 오늘 Mumbai에서 시작한다."
+                "x": "SAG-AFTRA와 American Federation of Music, Writers Guild of America 동부·서부 지부가 AI 모델 학습에 공정이용 예외를 인정하지 말라고 연방 판사에게 요청했다. 노조들은 OpenAI와 여러 언론사·작가들이 벌이고 있는 저작권 침해 소송에 목요일 공동으로 법정 의견서(amicus brief)를 내고, 조 달러 규모의 이 기업이 “자사 기술을 개발하려고 중산층과 노동자 계층의 작업물을 가져다 쓰고 있다”고 주장했다."
               },
               {
                 "t": "p",
-                "x": "Abundantia는 “human-first and AI-empowered(인간이 먼저, AI로 힘을 얻는)”를 내건 Abundantia AiOn 부문을 통해 제작한다. 지난해에는 InVideo와 손잡고 세 해에 걸쳐 AI-powered 영화 다섯 편을 선보이는 라인업을 꾸렸고, 여기에 ₹100 crore($10.5M)를 약정했다."
+                "x": "의견서는 “무단 학습의 피해는 뉴스 원고(News Plaintiffs) 같은 기업뿐 아니라 그 작업 뒤에 있는 수많은 전문가에게도 돌아간다”고 밝혔다. 34쪽 분량의 이 문서는 공정이용을 일괄적으로 인정하면 창작자에게서 기업으로 “잠재적으로 막대한 가치 이전”이 일어날 수 있다고 설명하고, “이번 AI 학습 분쟁은 ‘평범한 저작권 사건에 지나지 않으며’ 그렇게 다뤄져야 한다”고 주장한다."
               },
               {
                 "t": "p",
-                "x": "영화는 Dharavi 출신의 독학 천재 건축가 Jai가 가상현실 세계에서 꿈을 이룰 기회를 얻는 이야기다. 작품은 “본격적인 live-action 촬영과 AI-driven 제작을 결합한” 하이브리드 제작을 내세운다."
-              },
-              {
-                "t": "p",
-                "x": "“AI-assisted 영화 제작 덕분에 이야기꾼은 훨씬 큰 꿈을 꿀 수 있고, 대담한 아이디어를 밀어주는 일도 마침내 가능하다고 느낀다”고 Nagpal은 말했다. “Beta Builder는 live-action 촬영과 AI가 나란히 일하는 그 미래에 거는 우리의 승부다.” U.S.-based 기업으로 인도(India)에 사무소를 둔 InVideo는 사용자 50 million 명 이상을 둔 중립적(agnostic) AI 영화 제작 플랫폼을 표방한다."
+                "x": "노조들은 공정이용 여부를 사안별로 판단해야 한다고 강조한다. 작가 노조와 배우 노조는 상업용 생성형 AI 시스템 학습을 위해 대상 저작물을 제3자에게 라이선스할 때 통보받고 교섭할 권리를 따냈다. 의견서는 “이 사건에서 학습이 일괄적으로 공정이용이라고 판결하면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Beta Builder\nAIハイブリッド作の主演決定",
-          "body": "Mayur MoreとAshlesha ThakurがAIハイブリッド映画に主演する。",
-          "mini_headline": "Beta Builderの主演決定",
+          "headline": "ハリウッドの組合\nAI学習のフェアユースに反対",
+          "body": "SAG-AFTRA・WGA・AFMがOpenAI訴訟でAI学習の公正利用否定を判事に求めた。",
+          "mini_headline": "組合がAIフェアユースに反対",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur MoreとAshlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE(独占): Mayur MoreとAshlesha Thakurが、インド(India)のAbundantia Entertainmentと映像テック企業InVideoの提携による初のAI-driven長編映画に主演する。Beta BuilderはInVideoのGlobal Creative LeadであるHridaye A. Nagpalが監督を務め、主要撮影は本日Mumbaiで始まる。"
+                "x": "SAG-AFTRA、American Federation of Music、Writers Guild of America東部・西部は、AIモデルの学習にフェアユースの例外を認めないよう連邦判事に求めている。各組合は木曜日、OpenAIと多数の報道機関や作家の間で続く著作権侵害訴訟でアミカスブリーフを共同提出し、兆ドル規模の同社が「自らの技術開発のために中流層や労働者層の作品を流用している」と主張した。"
               },
               {
                 "t": "p",
-                "x": "Abundantiaは「human-first and AI-empowered(人間が第一、AIが力を与える)」を掲げる部門Abundantia AiOnを通じて製作する。同社は昨年InVideoと組み、三年間で五本のAI-powered映画を送り出すラインアップを立ち上げ、₹100 crore($10.5M)の拠出を約束している。"
+                "x": "「無許諾の学習による損害は、News Plaintiffsのような企業だけでなく、作品を支える無数の専門家にも及ぶ」と意見書は述べる。34ページの文書は、フェアユースを一律に認めれば創作者から企業へ「潜在的に莫大な価値の移転」が起こりうると説明し、「このAI学習をめぐる争いは『通常の著作権訴訟にすぎず』、そのように扱われるべきだ」と論じている。"
               },
               {
                 "t": "p",
-                "x": "物語の主人公は、Dharavi出身で独学の天才建築家Jai。彼は仮想現実の世界で夢を実現する機会を得る。本作は「本格的なlive-action撮影とAI-driven制作を組み合わせた」ハイブリッド作品と位置づけられている。"
-              },
-              {
-                "t": "p",
-                "x": "「AI-assisted映画制作によって、語り手ははるかに大きな夢を描けるようになり、大胆なアイデアを後押しすることがようやく可能だと感じられる」とNagpalは語った。「Beta Builderは、live-action撮影とAIが肩を並べて働く未来への私たちの賭けだ」。U.S.-basedでインド(India)にオフィスを構えるInVideoは、50 million 人を超えるユーザーを持つ、特定の技術に縛られない(agnostic)AI映画制作プラットフォームを標榜している。"
+                "x": "組合側は、フェアユースは事案ごとに判断されるべきだと訴える。脚本家と俳優の組合は、商用の生成AIシステムの学習に対象作品を第三者へライセンスする際の通知・交渉権を勝ち取っている。意見書は「ここで学習を一律にフェアユースとする判決が出れば、組合と業界が交渉の場で合意した条件が無意味になる」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Beta Builder\nAI混合影片敲定两主演",
-          "body": "Mayur More与Ashlesha Thakur将主演这部AI混合影片。",
-          "mini_headline": "Beta Builder敲定主演",
+          "headline": "好莱坞工会\n反对AI训练合理使用",
+          "body": "SAG-AFTRA、WGA与AFM请求联邦法官在OpenAI案中驳回AI训练的合理使用主张。",
+          "mini_headline": "工会反对AI合理使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur More与Ashlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE(独家):Mayur More和Ashlesha Thakur将主演印度(India)Abundantia Entertainment与视频科技公司InVideo合作的首部AI-driven长片。Beta Builder由InVideo全球创意负责人(Global Creative Lead)Hridaye A. Nagpal执导,主体拍摄今天在Mumbai开机。"
+                "x": "SAG-AFTRA、American Federation of Music以及Writers Guild of America东部与西部分会呼吁联邦法官驳回针对AI模型训练的合理使用豁免。各工会周四在OpenAI与众多新闻机构及作家之间持续进行的版权侵权诉讼中联合提交了法庭之友意见书，称这家万亿美元级公司正在“挪用中产阶级和工薪阶层的作品来开发自己的技术”。"
               },
               {
                 "t": "p",
-                "x": "Abundantia通过旗下Abundantia AiOn部门制作该片,该部门的定位是“human-first and AI-empowered(以人为先、由AI赋能)”。去年,Abundantia与InVideo合作推出片单,计划在三年内推出五部AI-powered影片,并为此承诺投入₹100 crore($10.5M)。"
+                "x": "意见书写道：“未经许可的训练所造成的伤害，不仅落在News Plaintiffs这样的公司身上，也落在作品背后无数的专业人士身上。”这份34页的文件阐述了一刀切的合理使用豁免可能造成价值从创作者向企业的“潜在巨大转移”，并主张“这场AI训练纠纷‘不过是一起普通的版权案件’，也应当如此对待”。"
               },
               {
                 "t": "p",
-                "x": "影片讲述来自Dharavi、自学成才的天才建筑师Jai在虚拟现实世界中获得实现梦想机会的故事。该片定位为混合制作,“将全面的live-action实拍与AI-driven制作结合起来”。"
-              },
-              {
-                "t": "p",
-                "x": "“借助AI-assisted电影制作,讲故事的人可以拥有更大的梦想,支持大胆的创意终于显得可行,”Nagpal说。“Beta Builder是我们对这一未来的押注,让live-action拍摄与AI并肩工作。”InVideo是U.S.-based公司,在印度(India)设有办公室,自我定位为不绑定特定技术(agnostic)的AI电影制作平台,拥有超过50 million 名用户。"
+                "x": "工会认为，合理使用必须继续逐案判断。编剧和演员工会已就向第三方授权受保护作品用于训练商业生成式AI系统争取到通知与谈判的权利；意见书称：“若在此裁定训练一律属于合理使用，工会与业界在谈判桌上达成的条款将形同虚设。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Beta Builder, híbrido con AI\nelige a sus dos protagonistas",
-          "body": "Mayur More y Ashlesha Thakur protagonizarán Beta Builder, que combina rodaje en imagen real con producción AI-driven.",
-          "mini_headline": "Beta Builder elige protagonistas",
+          "headline": "Los gremios de Hollywood\nrechazan el uso legítimo en IA",
+          "body": "SAG-AFTRA, el WGA y la AFM pidieron a un juez federal rechazar el uso legítimo para entrenar IA en el caso OpenAI.",
+          "mini_headline": "Gremios contra el uso legítimo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
-                "cap": "Mayur More y Ashlesha Thakur"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Mayur More y Ashlesha Thakur protagonizarán el primer largometraje AI-driven surgido del acuerdo entre la compañía de India Abundantia Entertainment y la tecnológica de video InVideo. Beta Builder será dirigida por Hridaye A. Nagpal, Global Creative Lead de InVideo, y el rodaje principal comienza hoy en Mumbai."
+                "x": "SAG-AFTRA, la American Federation of Music y el Writers Guild of America East y West piden a un juez federal que rechace una exención de uso legítimo para el entrenamiento de modelos de IA. Los sindicatos presentaron el jueves un escrito amicus conjunto en la demanda por infracción de derechos de autor que enfrenta a OpenAI con numerosos medios y escritores, y sostienen que la compañía de un billón de dólares está “apropiándose del trabajo de personas de clase media y trabajadora para desarrollar su tecnología”."
               },
               {
                 "t": "p",
-                "x": "Abundantia produce a través de su división Abundantia AiOn, presentada como “human-first and AI-empowered” (primero lo humano, potenciado por AI). El año pasado se asoció con InVideo en una cartera de cinco películas AI-powered que se estrenarán a lo largo de tres años, respaldada por un compromiso de ₹100 crore ($10.5M)."
+                "x": "“Los daños del entrenamiento sin licencia no recaen solo en empresas como los News Plaintiffs, sino en los innumerables profesionales que hay detrás del trabajo”, dice el escrito. El documento de 34 páginas expone cómo una exención categórica de uso legítimo permitiría una “transferencia de valor potencialmente enorme” de los creadores a las corporaciones, y sostiene que “esta disputa sobre el entrenamiento de IA ‘no es más que un caso ordinario de derechos de autor’ y debe tratarse como tal”."
               },
               {
                 "t": "p",
-                "x": "La película cuenta la historia de Jai, un arquitecto genial y autodidacta de Dharavi que tiene la oportunidad de hacer realidad sus sueños en el mundo de la realidad virtual. Se presenta como una producción híbrida que combina “un rodaje live-action en toda regla con producción AI-driven”."
-              },
-              {
-                "t": "p",
-                "x": "“Con el cine AI-assisted, los narradores pueden soñar mucho más en grande, y respaldar una idea audaz por fin parece posible”, dijo Nagpal. “Beta Builder es nuestra apuesta por ese futuro, con un rodaje live-action y la AI trabajando codo con codo”. InVideo, empresa U.S.-based con oficinas en India, se presenta como una plataforma agnóstica de cine con AI que supera los 50 millones de usuarios."
+                "x": "Los sindicatos defienden que el uso legítimo debe seguir evaluándose caso por caso. Los gremios de guionistas y actores obtuvieron un derecho de notificación y negociación sobre las licencias a terceros de obras cubiertas para entrenar sistemas comerciales de IA generativa; “un fallo que declare que el entrenamiento es categóricamente uso legítimo dejaría sin efecto los términos que los sindicatos y la industria acordaron en la mesa de negociación”, señala el escrito."
               }
             ]
           }
@@ -325,15 +275,15 @@
       }
     },
     {
-      "id": "apple-creator-studio-motionvfx",
+      "id": "voicemod-disney-soundboards",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Final Cut Pro에\nMotionVFX·AI까지",
-      "body": "Final Cut Pro에 MotionVFX가 들어가고 AI 어시스턴트도 붙는다.",
-      "mini_headline": "Final Cut Pro에 MotionVFX·AI",
+      "headline": "Voicemod에 디즈니\n스타워즈·마블 사운드보드",
+      "body": "Voicemod가 Disney와 손잡고 스타워즈·마블 대사와 효과음을 들여온다.",
+      "mini_headline": "Voicemod에 디즈니 사운드",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/apple-creator-studio-motionvfx-final-cut-pro-update",
+      "source": "Variety",
+      "url": "https://variety.com/2026/digital/news/ai-voicemod-disney-star-wars-marvel-soundboards-1236934834/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -341,221 +291,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+            "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+            "cap": "©Walt Disney Co./Everett Collection 제공"
           },
           {
             "t": "p",
-            "x": "Apple Creator Studio의 November 업데이트는 기존 구독자라면 무료다. Final Cut Pro 안에 MotionVFX가 들어가고, Logic Pro, Keynote, Pages, Numbers에는 베타 AI 어시스턴트가 생긴다."
+            "x": "Voicemod는 목소리의 톤과 소리를 바꾸고 효과음을 넣을 수 있는 AI 기반(AI-powered) 음성 변조 플랫폼이다. 여기에 Star Wars와 Marvel 작품의 사운드보드가 들어오면서 월간 활성 사용자 570만 명이 Twitch, Discord 같은 플랫폼에서 해당 작품의 대사와 효과음을 쓸 수 있게 된다. 첫 Star Wars 사운드보드는 “The Mandalorian & Grogu”로 금요일부터 이용할 수 있고 다른 사운드보드도 뒤따른다."
           },
           {
             "t": "p",
-            "x": "Mac용 Final Cut Pro에 이제 MotionVFX가 내장된다. Apple이 March에 이 회사를 인수하면서 생긴 변화다. 수천 개의 이펙트, 플러그인(plug-ins), 트랜지션, 템플릿, 타이틀, 그래픽과 로토스코핑·트래킹·컬러 그레이딩 도구가 함께 들어온다. 텍스트 설명만으로 AI 이미지를 만드는 기능도 생겼고, 타임라인 위 이미지는 무엇이든 Pixelmator Pro에서 열었다가 자동으로 다시 저장할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+            "x": "아직 자기 목소리를 캐릭터처럼 바꾸는 기능은 아닌 듯하고, 도구는 “사운드 밈”에 가깝다. 그래도 Disney가 AI 관련(AI-related) 기업에 IP 라이선스를 내줬다는 건 엔터테인먼트 기업들이 자사 지식재산을 인공지능과 엮는 데 갈수록 적극적이라는 방증이다."
           },
           {
             "t": "p",
-            "x": "Pixelmator Pro에는 Generate Fill이 추가됐다. 고른 영역을 텍스트 설명대로 고치면서 조명, 원근, 질감까지 맞춰 준다. Mac용 Logic Pro에는 Apple-built 모델과 OpenAI로 돌아가는 베타 어시스턴트가 생겨 프로덕션 워크플로 탐색을 돕는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Keynote, Pages, Numbers에도 Apple 모델과 OpenAI 기반 베타 어시스턴트가 들어간다. 외부 AI 에이전트가 콘텐츠를 읽고 편집하고 자동화 작업까지 실행하게 해 주는 Model Context Protocol(MCP)도 지원한다. 업데이트는 November에 App Store로 나온다. 신규 US 구독자 요금은 월 $12.99 또는 연 $129다."
+            "x": "이번 계약은 Disney가 지난해 단명으로 끝난 10억 달러 투자 계약의 일환으로 OpenAI의 Sora에 캐릭터 라이선스를 내준 데 이은 것이다. Hasbro가 자사 캐릭터 여럿의 목소리를 ElevenLabs에 라이선스한 뒤이기도 하다. Voicemod 창업자 겸 CEO Jaime Bosch는 “이 사운드보드는 사용자가 Marvel과 Star Wars의 소리를 그런 순간에 가져올 수 있게 해 그 상호작용을 한층 넓힌다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Final Cut Pro gets MotionVFX\nand AI image generation",
-          "body": "Apple Creator Studio's free November update builds MotionVFX into Final Cut Pro and adds AI assistants.",
-          "mini_headline": "Final Cut Pro adds\nMotionVFX and AI",
+          "headline": "Voicemod adds Star Wars and\nMarvel soundboards via Disney",
+          "body": "Voicemod signed a Disney deal to add Star Wars and Marvel soundboards of quotes and sound effects for its users.",
+          "mini_headline": "Voicemod gets Disney sounds",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studio's November update, free to existing subscribers, puts MotionVFX inside Final Cut Pro. Logic Pro, Keynote, Pages, and Numbers gain beta AI assistants."
+                "x": "Voicemod, the AI-powered voice-modifying platform that lets users change the tone and sound of their voice and make use of sound effects, will add soundboards from Star Wars and Marvel projects, allowing its 5.7 million monthly active users to use quotes and sound effects from those projects on platforms such as Twitch and Discord. The first Star Wars soundboards, from “The Mandalorian & Grogu,” are available as of Friday; others will follow."
               },
               {
                 "t": "p",
-                "x": "Final Cut Pro for Mac now includes built-in MotionVFX, following Apple's purchase of the company back in March, adding thousands of effects, plug-ins, transitions, templates, titles, graphics, and tools for rotoscoping, tracking, and color grading. Final Cut Pro also adds AI image generation from text descriptions, and any timeline image can be opened in Pixelmator Pro and saved back automatically."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "It does not yet appear that users can make their own voices sound like the characters, with the tools more like “sound memes.” But Disney’s decision to license IP to an AI-related company reflects the increasing willingness of entertainment companies to associate their intellectual property with artificial intelligence."
               },
               {
                 "t": "p",
-                "x": "Pixelmator Pro adds Generate Fill, which edits a user-selected area from a text description, matching lighting, perspective, and texture. Logic Pro for Mac adds an assistant in beta, powered by Apple-built models and OpenAI, for navigating production workflows."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote, Pages, and Numbers get an assistant in beta, built on Apple models and OpenAI, plus Model Context Protocol (MCP) support that lets external AI agents read content, perform edits, and run automated actions. The update arrives on the App Store in November; new US subscribers pay $12.99 per month or $129 per year."
+                "x": "It follows Disney’s move last year to license characters for OpenAI’s Sora as part of its short-lived $1 billion investment deal, and comes after Hasbro licensed several of its characters’ voices to ElevenLabs. “These soundboards build on those interactions by giving users a way to bring sounds from Marvel and Star Wars into those moments,” said Voicemod founder and CEO Jaime Bosch."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Final Cut Pro에\nMotionVFX·AI까지",
-          "body": "Final Cut Pro에 MotionVFX가 들어가고 AI 어시스턴트도 붙는다.",
-          "mini_headline": "Final Cut Pro에 MotionVFX·AI",
+          "headline": "Voicemod에 디즈니\n스타워즈·마블 사운드보드",
+          "body": "Voicemod가 Disney와 손잡고 스타워즈·마블 대사와 효과음을 들여온다.",
+          "mini_headline": "Voicemod에 디즈니 사운드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Everett Collection 제공"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studio의 November 업데이트는 기존 구독자라면 무료다. Final Cut Pro 안에 MotionVFX가 들어가고, Logic Pro, Keynote, Pages, Numbers에는 베타 AI 어시스턴트가 생긴다."
+                "x": "Voicemod는 목소리의 톤과 소리를 바꾸고 효과음을 넣을 수 있는 AI 기반(AI-powered) 음성 변조 플랫폼이다. 여기에 Star Wars와 Marvel 작품의 사운드보드가 들어오면서 월간 활성 사용자 570만 명이 Twitch, Discord 같은 플랫폼에서 해당 작품의 대사와 효과음을 쓸 수 있게 된다. 첫 Star Wars 사운드보드는 “The Mandalorian & Grogu”로 금요일부터 이용할 수 있고 다른 사운드보드도 뒤따른다."
               },
               {
                 "t": "p",
-                "x": "Mac용 Final Cut Pro에 이제 MotionVFX가 내장된다. Apple이 March에 이 회사를 인수하면서 생긴 변화다. 수천 개의 이펙트, 플러그인(plug-ins), 트랜지션, 템플릿, 타이틀, 그래픽과 로토스코핑·트래킹·컬러 그레이딩 도구가 함께 들어온다. 텍스트 설명만으로 AI 이미지를 만드는 기능도 생겼고, 타임라인 위 이미지는 무엇이든 Pixelmator Pro에서 열었다가 자동으로 다시 저장할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "아직 자기 목소리를 캐릭터처럼 바꾸는 기능은 아닌 듯하고, 도구는 “사운드 밈”에 가깝다. 그래도 Disney가 AI 관련(AI-related) 기업에 IP 라이선스를 내줬다는 건 엔터테인먼트 기업들이 자사 지식재산을 인공지능과 엮는 데 갈수록 적극적이라는 방증이다."
               },
               {
                 "t": "p",
-                "x": "Pixelmator Pro에는 Generate Fill이 추가됐다. 고른 영역을 텍스트 설명대로 고치면서 조명, 원근, 질감까지 맞춰 준다. Mac용 Logic Pro에는 Apple-built 모델과 OpenAI로 돌아가는 베타 어시스턴트가 생겨 프로덕션 워크플로 탐색을 돕는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote, Pages, Numbers에도 Apple 모델과 OpenAI 기반 베타 어시스턴트가 들어간다. 외부 AI 에이전트가 콘텐츠를 읽고 편집하고 자동화 작업까지 실행하게 해 주는 Model Context Protocol(MCP)도 지원한다. 업데이트는 November에 App Store로 나온다. 신규 US 구독자 요금은 월 $12.99 또는 연 $129다."
+                "x": "이번 계약은 Disney가 지난해 단명으로 끝난 10억 달러 투자 계약의 일환으로 OpenAI의 Sora에 캐릭터 라이선스를 내준 데 이은 것이다. Hasbro가 자사 캐릭터 여럿의 목소리를 ElevenLabs에 라이선스한 뒤이기도 하다. Voicemod 창업자 겸 CEO Jaime Bosch는 “이 사운드보드는 사용자가 Marvel과 Star Wars의 소리를 그런 순간에 가져올 수 있게 해 그 상호작용을 한층 넓힌다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Final Cut Proに\nMotionVFXとAI生成",
-          "body": "無料更新でFinal Cut ProにMotionVFXが入り、AIアシスタントも加わる。",
-          "mini_headline": "Final Cut ProにMotionVFXとAI",
+          "headline": "スター・ウォーズとマーベル\nVoicemodに効果音追加",
+          "body": "VoicemodがDisneyと契約しスター・ウォーズとマーベルの台詞や効果音を追加する。",
+          "mini_headline": "VoicemodにDisneyの音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Everett Collection提供"
               },
               {
                 "t": "p",
-                "x": "Apple Creator StudioのNovemberアップデートは既存の購読者に無料で提供され、Final Cut Pro内にMotionVFXを組み込む。Logic Pro、Keynote、Pages、Numbersにはベータ版のAIアシスタントが加わる。"
+                "x": "ユーザーが声のトーンや音を変え、効果音を使えるAI-powered（AI搭載）の音声変換プラットフォームVoicemodが、Star WarsとMarvel作品のサウンドボードを追加する。月間アクティブユーザー570万人が、TwitchやDiscordなどのプラットフォームで各作品のセリフや効果音を使えるようになる。最初のStar Warsサウンドボードは『The Mandalorian & Grogu』のもので、金曜日から利用でき、ほかも順次続く。"
               },
               {
                 "t": "p",
-                "x": "Mac版Final Cut Proには、AppleがMarchに同社を買収したのを受けてMotionVFXが標準搭載され、数千種類のエフェクト、プラグイン(plug-ins)、トランジション、テンプレート、タイトル、グラフィックに加え、ロトスコープ、トラッキング、カラーグレーディング用のツールが追加される。Final Cut Proはテキストの説明からのAI画像生成にも対応し、タイムライン上のどの画像もPixelmator Proで開いて自動で保存し戻せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "現時点では、ユーザーが自分の声をキャラクターのように変えられるわけではなさそうで、ツールは「サウンドミーム」に近い。それでも、DisneyがAI-related（AI関連）企業にIPをライセンスしたことは、エンターテインメント企業が自社の知的財産を人工知能と結びつけることにますます前向きになっている現状を映している。"
               },
               {
                 "t": "p",
-                "x": "Pixelmator ProにはGenerate Fillが加わる。ユーザーが選んだ範囲をテキストの説明に沿って編集し、照明、遠近、質感も合わせる機能だ。Mac版Logic Proには、Apple-builtのモデルとOpenAIを用いたベータ版アシスタントが加わり、制作ワークフローの操作を助ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote、Pages、NumbersにはAppleのモデルとOpenAIを基盤とするベータ版アシスタントが入り、外部のAIエージェントがコンテンツの読み取り、編集、自動化された操作の実行を行えるModel Context Protocol(MCP)にも対応する。アップデートはNovemberにApp Storeで配信され、新規のUS購読者は月額$12.99または年額$129を支払う。"
+                "x": "これは、Disneyが昨年、短命に終わった10億ドルの投資契約の一環としてOpenAIのSoraにキャラクターをライセンスした動きに続くもので、HasbroがElevenLabsに複数のキャラクターの声をライセンスした後のことでもある。Voicemodの創業者兼CEOのJaime Boschは「これらのサウンドボードは、MarvelとStar Warsのサウンドをそうした瞬間に持ち込む手段をユーザーに与え、そのやり取りをさらに広げるものだ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Final Cut Pro\n加入MotionVFX和AI",
-          "body": "免费更新为Final Cut Pro加入MotionVFX,并新增AI助手。",
-          "mini_headline": "Final Cut Pro加入MotionVFX与AI",
+          "headline": "Voicemod携手迪士尼\n上线星战与漫威音效板",
+          "body": "Voicemod与Disney签约，为用户新增星球大战和漫威台词及音效声音板。",
+          "mini_headline": "Voicemod获迪士尼音效",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Everett Collection提供"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studio的November更新对现有订阅用户免费,将MotionVFX整合进Final Cut Pro。Logic Pro、Keynote、Pages和Numbers则新增测试版AI助手。"
+                "x": "Voicemod是一款AI-powered（AI驱动）的变声平台，用户可以改变自己声音的音色和音质，并使用各种音效。该平台将加入Star Wars和Marvel作品的音效板，让570万月活跃用户在Twitch、Discord等平台上使用这些作品的台词与音效。首批Star Wars音效板来自《The Mandalorian & Grogu》，自周五起上线，其他音效板将陆续推出。"
               },
               {
                 "t": "p",
-                "x": "继Apple于March收购MotionVFX之后,Mac版Final Cut Pro现已内置MotionVFX,新增数千种特效、插件(plug-ins)、转场、模板、标题、图形,以及用于转描、跟踪和调色的工具。Final Cut Pro还新增根据文字描述生成AI图像的功能,时间线上的任何图像都可以在Pixelmator Pro中打开并自动存回。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "目前看来，用户还不能把自己的声音变成角色的声音，这些工具更像是“声音梗”。但Disney将IP授权给一家AI-related（AI相关）公司，反映出娱乐公司越来越愿意把自家知识产权与人工智能联系起来。"
               },
               {
                 "t": "p",
-                "x": "Pixelmator Pro新增Generate Fill,可根据文字描述编辑用户选定的区域,并匹配光线、透视和纹理。Mac版Logic Pro新增测试版助手,由Apple-built模型和OpenAI驱动,帮助用户在制作流程中导航。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote、Pages和Numbers将获得基于Apple模型和OpenAI的测试版助手,并支持Model Context Protocol(MCP),让外部AI智能体能够读取内容、执行编辑并运行自动化操作。此次更新将于November登陆App Store;新US订阅用户的价格为每月$12.99或每年$129。"
+                "x": "此前，Disney去年在一项短命的10亿美元投资协议中将角色授权给OpenAI的Sora；Hasbro也曾将旗下多个角色的声音授权给ElevenLabs。Voicemod创始人兼CEO Jaime Bosch表示：“这些音效板在这些互动的基础上更进一步，让用户能够把Marvel和Star Wars的声音带入这些时刻。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Final Cut Pro suma MotionVFX\ny generación de imágenes con AI",
-          "body": "La actualización gratuita de noviembre de Apple Creator Studio lleva MotionVFX a Final Cut Pro y suma asistentes de AI.",
-          "mini_headline": "Final Cut Pro suma MotionVFX y AI",
+          "headline": "Voicemod añade sonidos de\nStar Wars y Marvel con Disney",
+          "body": "Voicemod firmó un acuerdo con Disney para ofrecer a sus usuarios paneles de frases y efectos de Star Wars y Marvel.",
+          "mini_headline": "Voicemod suma sonidos de Disney",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Cortesía de Everett Collection"
               },
               {
                 "t": "p",
-                "x": "La actualización de noviembre de Apple Creator Studio, gratuita para los suscriptores actuales, incorpora MotionVFX en Final Cut Pro. Logic Pro, Keynote, Pages y Numbers reciben asistentes de AI en beta."
+                "x": "Voicemod, la plataforma de modificación de voz impulsada por IA (AI-powered) que permite a los usuarios cambiar el tono y el sonido de su voz y usar efectos de sonido, añadirá paneles de sonido de proyectos de Star Wars y Marvel, lo que permitirá a sus 5,7 millones de usuarios activos mensuales usar frases y efectos de sonido de esas producciones en plataformas como Twitch y Discord. Los primeros paneles de Star Wars, de “The Mandalorian & Grogu”, están disponibles desde el viernes; otros llegarán después."
               },
               {
                 "t": "p",
-                "x": "Final Cut Pro para Mac incluye ahora MotionVFX integrado, tras la compra de la empresa por parte de Apple en marzo, lo que añade miles de efectos, plug-ins, transiciones, plantillas, títulos, gráficos y herramientas de rotoscopia, seguimiento y corrección de color. Final Cut Pro también incorpora generación de imágenes con AI a partir de descripciones de texto, y cualquier imagen de la línea de tiempo puede abrirse en Pixelmator Pro y guardarse de vuelta automáticamente."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "Por ahora no parece que los usuarios puedan hacer que su propia voz suene como los personajes; las herramientas se parecen más a “memes sonoros”. Pero la decisión de Disney de licenciar su IP a una empresa relacionada con la IA (AI-related) refleja la creciente disposición de las compañías de entretenimiento a asociar su propiedad intelectual con la inteligencia artificial."
               },
               {
                 "t": "p",
-                "x": "Pixelmator Pro añade Generate Fill, que edita un área seleccionada por el usuario a partir de una descripción de texto, igualando iluminación, perspectiva y textura. Logic Pro para Mac suma un asistente en beta, impulsado por modelos Apple-built y OpenAI, para moverse por los flujos de trabajo de producción."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote, Pages y Numbers reciben un asistente en beta, basado en modelos de Apple y OpenAI, además de compatibilidad con Model Context Protocol (MCP), que permite a agentes de AI externos leer contenido, hacer ediciones y ejecutar acciones automatizadas. La actualización llega a la App Store en noviembre; los nuevos suscriptores en US pagan $12.99 al mes o $129 al año."
+                "x": "Llega después de que Disney licenciara el año pasado personajes para Sora, de OpenAI, como parte de su efímero acuerdo de inversión de 1.000 millones de dólares, y después de que Hasbro licenciara las voces de varios de sus personajes a ElevenLabs. “Estos paneles de sonido amplían esas interacciones al dar a los usuarios una forma de llevar sonidos de Marvel y Star Wars a esos momentos”, dijo Jaime Bosch, fundador y CEO de Voicemod."
               }
             ]
           }
@@ -563,153 +447,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Final Cut Pro에\nMotionVFX·AI까지",
-          "body": "Final Cut Pro에 MotionVFX가 들어가고 AI 어시스턴트도 붙는다.",
-          "mini_headline": "Final Cut Pro에 MotionVFX·AI",
+          "headline": "Voicemod에 디즈니\n스타워즈·마블 사운드보드",
+          "body": "Voicemod가 Disney와 계약해 스타워즈·마블 대사·효과음을 추가한다.",
+          "mini_headline": "Voicemod에 디즈니 사운드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Everett Collection 제공"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studio의 November 업데이트는 기존 구독자에게 무료로 제공되며, Final Cut Pro 안에 MotionVFX를 넣는다. Logic Pro, Keynote, Pages, Numbers에는 베타 AI 어시스턴트가 생긴다."
+                "x": "사용자가 목소리의 톤과 소리를 바꾸고 효과음을 쓸 수 있는 AI 기반(AI-powered) 음성 변조 플랫폼 Voicemod가 Star Wars와 Marvel 작품의 사운드보드를 추가한다. 월간 활성 사용자 570만 명이 Twitch, Discord 같은 플랫폼에서 해당 작품의 대사와 효과음을 쓸 수 있게 된다. 첫 Star Wars 사운드보드는 “The Mandalorian & Grogu”의 것으로 금요일부터 이용할 수 있고, 다른 사운드보드도 뒤따를 예정이다."
               },
               {
                 "t": "p",
-                "x": "Mac용 Final Cut Pro에는 이제 MotionVFX가 내장된다. Apple이 March에 이 회사를 인수한 데 따른 변화로, 수천 개의 이펙트, 플러그인(plug-ins), 트랜지션, 템플릿, 타이틀, 그래픽과 로토스코핑·트래킹·컬러 그레이딩 도구가 더해진다. Final Cut Pro는 텍스트 설명으로 AI 이미지를 생성하는 기능도 갖췄고, 타임라인의 어떤 이미지든 Pixelmator Pro에서 열고 자동으로 다시 저장할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "아직은 사용자가 자기 목소리를 캐릭터처럼 바꿀 수 있는 것은 아닌 듯하며, 도구는 “사운드 밈”에 가깝다. 그러나 Disney가 AI 관련(AI-related) 기업에 IP 라이선스를 내준 결정은 엔터테인먼트 기업들이 자사 지식재산을 인공지능과 연결하는 데 점점 더 적극적이라는 점을 보여준다."
               },
               {
                 "t": "p",
-                "x": "Pixelmator Pro에는 Generate Fill이 추가됐다. 사용자가 고른 영역을 텍스트 설명대로 편집하면서 조명, 원근, 질감까지 맞추는 기능이다. Mac용 Logic Pro에는 Apple-built 모델과 OpenAI로 구동되는 베타 어시스턴트가 생겨 프로덕션 워크플로 탐색을 돕는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote, Pages, Numbers에는 Apple 모델과 OpenAI 기반의 베타 어시스턴트가 들어가고, 외부 AI 에이전트가 콘텐츠를 읽고 편집하며 자동화 작업을 실행하게 하는 Model Context Protocol(MCP) 지원도 더해진다. 업데이트는 November에 App Store로 나오며, 신규 US 구독자는 월 $12.99 또는 연 $129를 낸다."
+                "x": "이번 계약은 Disney가 지난해 단명한 10억 달러 투자 계약의 일환으로 OpenAI의 Sora에 캐릭터 라이선스를 내준 데 이은 것이며, Hasbro가 자사 캐릭터 여럿의 목소리를 ElevenLabs에 라이선스한 뒤에 나왔다. Voicemod 창업자 겸 CEO Jaime Bosch는 “이 사운드보드는 사용자가 Marvel과 Star Wars의 소리를 그런 순간에 가져올 수 있게 해 그 상호작용을 한층 넓힌다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Final Cut Proに\nMotionVFXとAI生成",
-          "body": "無料更新でFinal Cut ProにMotionVFXが入り、AIアシスタントも加わる。",
-          "mini_headline": "Final Cut ProにMotionVFXとAI",
+          "headline": "スター・ウォーズとマーベル\nVoicemodに効果音追加",
+          "body": "VoicemodがDisneyと契約しスター・ウォーズとマーベルの台詞や効果音を追加する。",
+          "mini_headline": "VoicemodにDisneyの音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Everett Collection提供"
               },
               {
                 "t": "p",
-                "x": "Apple Creator StudioのNovemberアップデートは既存の購読者に無料で提供され、Final Cut Pro内にMotionVFXを組み込む。Logic Pro、Keynote、Pages、Numbersにはベータ版のAIアシスタントが加わる。"
+                "x": "ユーザーが声のトーンや音を変え、効果音を使えるAI-powered（AI搭載）の音声変換プラットフォームVoicemodが、Star WarsとMarvel作品のサウンドボードを追加する。月間アクティブユーザー570万人が、TwitchやDiscordなどのプラットフォームで各作品のセリフや効果音を使えるようになる。最初のStar Warsサウンドボードは『The Mandalorian & Grogu』のもので、金曜日から利用でき、ほかも順次続く。"
               },
               {
                 "t": "p",
-                "x": "Mac版Final Cut Proには、AppleがMarchに同社を買収したのを受けてMotionVFXが標準搭載され、数千種類のエフェクト、プラグイン(plug-ins)、トランジション、テンプレート、タイトル、グラフィックに加え、ロトスコープ、トラッキング、カラーグレーディング用のツールが追加される。Final Cut Proはテキストの説明からのAI画像生成にも対応し、タイムライン上のどの画像もPixelmator Proで開いて自動で保存し戻せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "現時点では、ユーザーが自分の声をキャラクターのように変えられるわけではなさそうで、ツールは「サウンドミーム」に近い。それでも、DisneyがAI-related（AI関連）企業にIPをライセンスしたことは、エンターテインメント企業が自社の知的財産を人工知能と結びつけることにますます前向きになっている現状を映している。"
               },
               {
                 "t": "p",
-                "x": "Pixelmator ProにはGenerate Fillが加わる。ユーザーが選んだ範囲をテキストの説明に沿って編集し、照明、遠近、質感も合わせる機能だ。Mac版Logic Proには、Apple-builtのモデルとOpenAIを用いたベータ版アシスタントが加わり、制作ワークフローの操作を助ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote、Pages、NumbersにはAppleのモデルとOpenAIを基盤とするベータ版アシスタントが入り、外部のAIエージェントがコンテンツの読み取り、編集、自動化された操作の実行を行えるModel Context Protocol(MCP)にも対応する。アップデートはNovemberにApp Storeで配信され、新規のUS購読者は月額$12.99または年額$129を支払う。"
+                "x": "これは、Disneyが昨年、短命に終わった10億ドルの投資契約の一環としてOpenAIのSoraにキャラクターをライセンスした動きに続くもので、HasbroがElevenLabsに複数のキャラクターの声をライセンスした後のことでもある。Voicemodの創業者兼CEOのJaime Boschは「これらのサウンドボードは、MarvelとStar Warsのサウンドをそうした瞬間に持ち込む手段をユーザーに与え、そのやり取りをさらに広げるものだ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Final Cut Pro\n加入MotionVFX和AI",
-          "body": "免费更新为Final Cut Pro加入MotionVFX,并新增AI助手。",
-          "mini_headline": "Final Cut Pro加入MotionVFX与AI",
+          "headline": "Voicemod携手迪士尼\n上线星战与漫威音效板",
+          "body": "Voicemod与Disney签约，为用户新增星球大战和漫威台词及音效声音板。",
+          "mini_headline": "Voicemod获迪士尼音效",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Everett Collection提供"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studio的November更新对现有订阅用户免费,将MotionVFX整合进Final Cut Pro。Logic Pro、Keynote、Pages和Numbers则新增测试版AI助手。"
+                "x": "Voicemod是一款AI-powered（AI驱动）的变声平台，用户可以改变自己声音的音色和音质，并使用各种音效。该平台将加入Star Wars和Marvel作品的音效板，让570万月活跃用户在Twitch、Discord等平台上使用这些作品的台词与音效。首批Star Wars音效板来自《The Mandalorian & Grogu》，自周五起上线，其他音效板将陆续推出。"
               },
               {
                 "t": "p",
-                "x": "继Apple于March收购MotionVFX之后,Mac版Final Cut Pro现已内置MotionVFX,新增数千种特效、插件(plug-ins)、转场、模板、标题、图形,以及用于转描、跟踪和调色的工具。Final Cut Pro还新增根据文字描述生成AI图像的功能,时间线上的任何图像都可以在Pixelmator Pro中打开并自动存回。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "目前看来，用户还不能把自己的声音变成角色的声音，这些工具更像是“声音梗”。但Disney将IP授权给一家AI-related（AI相关）公司，反映出娱乐公司越来越愿意把自家知识产权与人工智能联系起来。"
               },
               {
                 "t": "p",
-                "x": "Pixelmator Pro新增Generate Fill,可根据文字描述编辑用户选定的区域,并匹配光线、透视和纹理。Mac版Logic Pro新增测试版助手,由Apple-built模型和OpenAI驱动,帮助用户在制作流程中导航。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote、Pages和Numbers将获得基于Apple模型和OpenAI的测试版助手,并支持Model Context Protocol(MCP),让外部AI智能体能够读取内容、执行编辑并运行自动化操作。此次更新将于November登陆App Store;新US订阅用户的价格为每月$12.99或每年$129。"
+                "x": "此前，Disney去年在一项短命的10亿美元投资协议中将角色授权给OpenAI的Sora；Hasbro也曾将旗下多个角色的声音授权给ElevenLabs。Voicemod创始人兼CEO Jaime Bosch表示：“这些音效板在这些互动的基础上更进一步，让用户能够把Marvel和Star Wars的声音带入这些时刻。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Final Cut Pro suma MotionVFX\ny generación de imágenes con AI",
-          "body": "La actualización gratuita de noviembre de Apple Creator Studio lleva MotionVFX a Final Cut Pro y suma asistentes de AI.",
-          "mini_headline": "Final Cut Pro suma MotionVFX y AI",
+          "headline": "Voicemod añade sonidos de\nStar Wars y Marvel con Disney",
+          "body": "Voicemod firmó un acuerdo con Disney para ofrecer a sus usuarios paneles de frases y efectos de Star Wars y Marvel.",
+          "mini_headline": "Voicemod suma sonidos de Disney",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+                "cap": "©Walt Disney Co./Cortesía de Everett Collection"
               },
               {
                 "t": "p",
-                "x": "La actualización de noviembre de Apple Creator Studio, gratuita para los suscriptores actuales, incorpora MotionVFX en Final Cut Pro. Logic Pro, Keynote, Pages y Numbers reciben asistentes de AI en beta."
+                "x": "Voicemod, la plataforma de modificación de voz impulsada por IA (AI-powered) que permite a los usuarios cambiar el tono y el sonido de su voz y usar efectos de sonido, añadirá paneles de sonido de proyectos de Star Wars y Marvel, lo que permitirá a sus 5,7 millones de usuarios activos mensuales usar frases y efectos de sonido de esas producciones en plataformas como Twitch y Discord. Los primeros paneles de Star Wars, de “The Mandalorian & Grogu”, están disponibles desde el viernes; otros llegarán después."
               },
               {
                 "t": "p",
-                "x": "Final Cut Pro para Mac incluye ahora MotionVFX integrado, tras la compra de la empresa por parte de Apple en marzo, lo que añade miles de efectos, plug-ins, transiciones, plantillas, títulos, gráficos y herramientas de rotoscopia, seguimiento y corrección de color. Final Cut Pro también incorpora generación de imágenes con AI a partir de descripciones de texto, y cualquier imagen de la línea de tiempo puede abrirse en Pixelmator Pro y guardarse de vuelta automáticamente."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg"
+                "x": "Por ahora no parece que los usuarios puedan hacer que su propia voz suene como los personajes; las herramientas se parecen más a “memes sonoros”. Pero la decisión de Disney de licenciar su IP a una empresa relacionada con la IA (AI-related) refleja la creciente disposición de las compañías de entretenimiento a asociar su propiedad intelectual con la inteligencia artificial."
               },
               {
                 "t": "p",
-                "x": "Pixelmator Pro añade Generate Fill, que edita un área seleccionada por el usuario a partir de una descripción de texto, igualando iluminación, perspectiva y textura. Logic Pro para Mac suma un asistente en beta, impulsado por modelos Apple-built y OpenAI, para moverse por los flujos de trabajo de producción."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg?width=1920&height=1080&name=Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Keynote, Pages y Numbers reciben un asistente en beta, basado en modelos de Apple y OpenAI, además de compatibilidad con Model Context Protocol (MCP), que permite a agentes de AI externos leer contenido, hacer ediciones y ejecutar acciones automatizadas. La actualización llega a la App Store en noviembre; los nuevos suscriptores en US pagan $12.99 al mes o $129 al año."
+                "x": "Llega después de que Disney licenciara el año pasado personajes para Sora, de OpenAI, como parte de su efímero acuerdo de inversión de 1.000 millones de dólares, y después de que Hasbro licenciara las voces de varios de sus personajes a ElevenLabs. “Estos paneles de sonido amplían esas interacciones al dar a los usuarios una forma de llevar sonidos de Marvel y Star Wars a esos momentos”, dijo Jaime Bosch, fundador y CEO de Voicemod."
               }
             ]
           }
@@ -717,15 +557,15 @@
       }
     },
     {
-      "id": "agbo-tiffcom-shakespeare",
+      "id": "libatique-ai-vfx-actors",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AGBO “AI는 비평만\n할 뿐 쓰지는 못해”",
-      "body": "AGBO는 TIFFCOM에서 AI가 예술가를 도울 뿐 인간엔 못 미친다고 했다.",
-      "mini_headline": "AGBO “AI는 비평만, 창작은 못해”",
+      "headline": "리바티크 “AI는 VFX\n대체해도 배우는 못 해”",
+      "body": "리바티크는 아로노프스키 차기작에서 AI를 시험하지만 마블 AI 배우엔 회의적이다.",
+      "mini_headline": "리바티크가 본 AI와 VFX",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-critique-shakespeare-cant-write-russo-brothers-agbo-tokyo-1236933960/",
+      "url": "https://variety.com/2026/film/global/iron-man-matthew-libatique-ai-could-replace-marvel-vfx-1236934879/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -733,173 +573,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+            "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+            "cap": "Evolution Mallorca 제공"
           },
           {
             "t": "p",
-            "x": "AGBO 최고 경영진 Chris Brearton과 Dominic Hughes는 도쿄국제영화제(Tokyo International Film Festival) 콘텐츠 마켓 TIFFCOM 기조연설에서 AI를 인간 창작자 대신이 아니라 조력자로 쓰는 방법을 이야기했다. “인간은 이야기를 들려주기에 고유한 위치에 있다”고 Brearton은 말했다. “우리가 기술을 받아들이는 방식은 철저히 예술가를 위한 것이고, 예술가를 최우선에 두는 것이다.”"
+            "x": "오스카 후보에 세 차례 오른 촬영감독 Matthew Libatique는 Darren Aronofsky의 차기작을 앞두고 이 기술을 “시험”하는 중이다. Aronofsky는 Google DeepMind와 함께 AI 스튜디오 Primordial Soup을 세웠다. 그는 “곧 테스트를 한다”고 했다."
           },
           {
             "t": "p",
-            "x": "Brearton은 사랑받는 연기를 특별하게 만드는 건 AI가 따라오지 못하는 “인간적 요소”라고 했다. “AI는 특히 중기적으로는 공정 효율에서 더 큰 영향을 미칠 것이다.”"
+            "x": "그는 AI가 “영화를 대체하지는 못할 것이다. 대체할 수 있는 건 Marvel이다”라고 말한다. 대작을 만드는 스튜디오들이 시각효과에서 “AI로 비용 일부를 줄일 것”이라는 얘기다. 그렇다고 Marvel이 “AI 배우를 쓸 일은 없을 것”이라고 그는 내다본다. “Robert Pattinson이 하는 걸 해낼 AI 캐릭터를 만들겠다는 말은 믿을 수 없다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+            "cap": "“아이언맨”, Marvel 제공"
           },
           {
             "t": "p",
-            "x": "Hughes는 AI가 “과거에 이미 해온 것을 되풀이하는 일”은 잘하지만 무에서 무언가를 만들어내는 데는 서툴다고 짚었다. AI는 “비평에 능하다”. 다락방에서 나온 희곡이 Shakespeare 작품일 가능성은 가려주지만, 직접 써보라고 하면 “12살(12-year-old)이 쓴 것 같은 느낌을 받을 것”이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "저작권 문제를 두고 Brearton은 “우리는 모든 도구 하나하나, 그리고 각 도구의 사용 하나하나를 모두 추적한다”고 말했다. 기조연설 사회는 Variety의 Asia Editor인 Naman Ramachandran이 맡았다."
+            "x": "후반 작업에서 눈부심 보정 같은 데 AI를 써 봤지만 “분명히 일감 일부를 가져갔다”고 그는 인정한다. Dustin Yellin의 AI 단편 “Goodbye Lamby” 때는 프롬프터가 먼저 실제 공간에 조명을 쳐 달라고 그에게 부탁했다. “Matthew Libatique 스타일로” 만든 AI 영상은 “정말 불쾌하다”며 그는 이렇게 덧붙였다. “AI로 만든 것 중에 정말 감탄한 건 아직 하나도 못 봤다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI can critique Shakespeare\nbut can't write it, says AGBO",
-          "body": "At TIFFCOM, AGBO's tech heads said AI should support artists and can't match the human side of storytelling.",
-          "mini_headline": "AGBO: AI can critique\nbut can't write",
+          "headline": "Libatique: AI could replace\nVFX, but not actors",
+          "body": "Cinematographer Libatique is testing AI tools for Aronofsky's next project but doubts Marvel will ever use AI actors.",
+          "mini_headline": "Libatique on AI and VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "Courtesy of Evolution Mallorca"
               },
               {
                 "t": "p",
-                "x": "Top AGBO execs Chris Brearton and Dominic Hughes delivered a keynote at TIFFCOM, the content market of the Tokyo International Film Festival, about how AI can be used to assist rather than replace human creators. “Humans are uniquely positioned to tell stories,” Brearton said. “The way we embrace technology is all about artists and putting artists first.”"
+                "x": "Three-time Oscar-nominee cinematographer Matthew Libatique says he and Darren Aronofsky, who launched AI studio Primordial Soup with Google DeepMind, are “testing” the technology ahead of their next film. “We’re doing a test soon,” he says."
               },
               {
                 "t": "p",
-                "x": "What makes a favorite performance special, Brearton said, “is the human element” that AI cannot equal. “AI is really going to be more impactful, particularly in the midterm, in process efficiencies.”"
+                "x": "AI “won’t replace cinema. What it could replace is Marvel,” he says: studios making giant films will “employ AI to curb some of their costs” through visual effects, though he doesn’t think Marvel “will ever use AI actors.” “You can’t tell me you’re going to make an AI character that can do what Robert Pattinson does.”"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "“Iron Man,” courtesy of Marvel"
               },
               {
                 "t": "p",
-                "x": "AI, Hughes noted, is good at “regurgitating what has been done in the past,” but not at creating something from scratch. It “is good at critiquing”: it can tell you whether a play found in an attic might have been written by Shakespeare, but ask it to write its own and “you'd have the sense that it was written by a 12-year-old.”"
-              },
-              {
-                "t": "p",
-                "x": "On copyright, Brearton said, “We track every single tool and every single usage of every single tool.” The keynote was moderated by Variety's Asia Editor Naman Ramachandran."
+                "x": "He has used AI in post-production, for example to correct glare, but acknowledges “it definitely took some work away.” On Dustin Yellin’s AI short “Goodbye Lamby,” the prompter asked him to physically light a space first. He calls AI videos made “in the style of Matthew Libatique” “absolutely offensive,” adding: “I haven’t seen anything created by AI that’s really impressed me.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AGBO “AI는 비평만\n할 뿐 쓰지는 못해”",
-          "body": "AGBO는 TIFFCOM에서 AI가 예술가를 도울 뿐 인간엔 못 미친다고 했다.",
-          "mini_headline": "AGBO “AI는 비평만, 창작은 못해”",
+          "headline": "리바티크 “AI는 VFX\n대체해도 배우는 못 해”",
+          "body": "리바티크는 아로노프스키 차기작에서 AI를 시험하지만 마블 AI 배우엔 회의적이다.",
+          "mini_headline": "리바티크가 본 AI와 VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "Evolution Mallorca 제공"
               },
               {
                 "t": "p",
-                "x": "AGBO 최고 경영진 Chris Brearton과 Dominic Hughes는 도쿄국제영화제(Tokyo International Film Festival) 콘텐츠 마켓 TIFFCOM 기조연설에서 AI를 인간 창작자 대신이 아니라 조력자로 쓰는 방법을 이야기했다. “인간은 이야기를 들려주기에 고유한 위치에 있다”고 Brearton은 말했다. “우리가 기술을 받아들이는 방식은 철저히 예술가를 위한 것이고, 예술가를 최우선에 두는 것이다.”"
+                "x": "오스카 후보에 세 차례 오른 촬영감독 Matthew Libatique는 Darren Aronofsky의 차기작을 앞두고 이 기술을 “시험”하는 중이다. Aronofsky는 Google DeepMind와 함께 AI 스튜디오 Primordial Soup을 세웠다. 그는 “곧 테스트를 한다”고 했다."
               },
               {
                 "t": "p",
-                "x": "Brearton은 사랑받는 연기를 특별하게 만드는 건 AI가 따라오지 못하는 “인간적 요소”라고 했다. “AI는 특히 중기적으로는 공정 효율에서 더 큰 영향을 미칠 것이다.”"
+                "x": "그는 AI가 “영화를 대체하지는 못할 것이다. 대체할 수 있는 건 Marvel이다”라고 말한다. 대작을 만드는 스튜디오들이 시각효과에서 “AI로 비용 일부를 줄일 것”이라는 얘기다. 그렇다고 Marvel이 “AI 배우를 쓸 일은 없을 것”이라고 그는 내다본다. “Robert Pattinson이 하는 걸 해낼 AI 캐릭터를 만들겠다는 말은 믿을 수 없다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "“아이언맨”, Marvel 제공"
               },
               {
                 "t": "p",
-                "x": "Hughes는 AI가 “과거에 이미 해온 것을 되풀이하는 일”은 잘하지만 무에서 무언가를 만들어내는 데는 서툴다고 짚었다. AI는 “비평에 능하다”. 다락방에서 나온 희곡이 Shakespeare 작품일 가능성은 가려주지만, 직접 써보라고 하면 “12살(12-year-old)이 쓴 것 같은 느낌을 받을 것”이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "저작권 문제를 두고 Brearton은 “우리는 모든 도구 하나하나, 그리고 각 도구의 사용 하나하나를 모두 추적한다”고 말했다. 기조연설 사회는 Variety의 Asia Editor인 Naman Ramachandran이 맡았다."
+                "x": "후반 작업에서 눈부심 보정 같은 데 AI를 써 봤지만 “분명히 일감 일부를 가져갔다”고 그는 인정한다. Dustin Yellin의 AI 단편 “Goodbye Lamby” 때는 프롬프터가 먼저 실제 공간에 조명을 쳐 달라고 그에게 부탁했다. “Matthew Libatique 스타일로” 만든 AI 영상은 “정말 불쾌하다”며 그는 이렇게 덧붙였다. “AI로 만든 것 중에 정말 감탄한 건 아직 하나도 못 봤다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AGBO「AIは批評止まり」\nShakespeareは無理",
-          "body": "TIFFCOMでAGBO幹部は、AIは芸術家を支える存在で人間には及ばないと語った。",
-          "mini_headline": "AGBO「AIは批評できても書けない」",
+          "headline": "AIはVFXを代替しても\n俳優は無理とリバティーク",
+          "body": "リバティークはアロノフスキー次回作でAIを試すが、マーベルのAI俳優起用には懐疑的だ。",
+          "mini_headline": "リバティークが語るAIとVFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "Evolution Mallorca提供"
               },
               {
                 "t": "p",
-                "x": "AGBOの経営トップChris BreartonとDominic Hughesは、東京国際映画祭(Tokyo International Film Festival)のコンテンツマーケットTIFFCOMで基調講演を行い、AIを人間のクリエイターの代わりではなく支援に使う方法について語った。「人間は物語を語るうえで特別な立場にある」とBreartonは述べた。「私たちのテクノロジーの取り入れ方は、すべてアーティストのため、アーティストを第一に考えることにある」"
+                "x": "アカデミー賞に3度ノミネートされた撮影監督Matthew Libatiqueは、Google DeepMindとAIスタジオPrimordial Soupを立ち上げたDarren Aronofskyとともに、次回作に向けてこの技術を「テスト」していると語る。「近くテストをする」という。"
               },
               {
                 "t": "p",
-                "x": "Breartonによれば、好きな演技を特別なものにするのは、AIには及ばない「人間的な要素」だという。「AIが本当に大きな影響を与えるのは、特に中期的には、工程の効率化の面だろう」"
+                "x": "AIは「映画に取って代わることはない。代わりうるのはMarvelだ」と彼は言う。超大作を作るスタジオは視覚効果で「AIを使ってコストの一部を抑える」だろうが、Marvelが「AI俳優を使うことはない」とも考えている。「Robert Pattinsonがやることをこなせるキャラクターを AIで作れるなんて、とても信じられない」"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "『アイアンマン』、Marvel提供"
               },
               {
                 "t": "p",
-                "x": "Hughesは、AIは「過去に行われてきたことを焼き直す」のは得意だが、何もないところから何かを生み出すのは得意ではないと指摘した。AIは「批評が得意」で、屋根裏で見つかった戯曲がShakespeareの作である可能性を判断することはできるが、自分で書かせると「12歳(12-year-old)が書いたような印象を受けるだろう」という。"
-              },
-              {
-                "t": "p",
-                "x": "著作権について、Breartonは「私たちはあらゆるツール、そしてあらゆるツールのあらゆる使用を漏れなく追跡している」と語った。基調講演の司会はVarietyのAsia EditorであるNaman Ramachandranが務めた。"
+                "x": "彼はポストプロダクションで、たとえばグレアの補正にAIを使ったことがあるが、「確かに仕事の一部を奪った」と認める。Dustin YellinのAI短編『Goodbye Lamby』では、プロンプターが彼にまず実際に空間をライティングするよう求めた。「Matthew Libatique風に」作られたAI動画は「まったく不快だ」とし、「AIが作ったもので本当に感心したものはまだ見たことがない」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AGBO：AI会点评\n写不出Shakespeare",
-          "body": "AGBO高管在TIFFCOM表示,AI应辅助艺术家,无法企及人类的叙事特质。",
-          "mini_headline": "AGBO：AI能点评但写不出",
+          "headline": "利巴蒂克：AI能取代VFX\n但取代不了演员",
+          "body": "摄影指导利巴蒂克正为阿罗诺夫斯基新片测试AI工具，但不认为漫威会用AI演员。",
+          "mini_headline": "利巴蒂克谈AI与VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "图片由Evolution Mallorca提供"
               },
               {
                 "t": "p",
-                "x": "AGBO高管Chris Brearton和Dominic Hughes在东京国际电影节(Tokyo International Film Festival)的内容市场TIFFCOM发表主题演讲,谈到AI如何用来辅助而非取代人类创作者。“人类在讲故事方面具有独特的优势,”Brearton说。“我们拥抱技术的方式,完全围绕艺术家,把艺术家放在首位。”"
+                "x": "曾三度获得奥斯卡提名的摄影指导Matthew Libatique表示，他正与和Google DeepMind共同创办AI工作室Primordial Soup的Darren Aronofsky一起，在下一部影片前“测试”这项技术。“我们很快就要做一次测试，”他说。"
               },
               {
                 "t": "p",
-                "x": "Brearton说,让心仪的表演变得特别的,是AI无法企及的“人的因素”。“AI真正会产生更大影响的地方,特别是在中期,是流程效率。”"
+                "x": "他说，AI“不会取代电影。它可能取代的是Marvel”：制作巨片的片厂会通过视觉特效“用AI来压缩部分成本”，不过他不认为Marvel“会使用AI演员”。“你没法让我相信，你能做出一个AI角色，做到Robert Pattinson所做的事。”"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "《钢铁侠》，图片由Marvel提供"
               },
               {
                 "t": "p",
-                "x": "Hughes指出,AI擅长“重复过去已经做过的东西”,却不擅长凭空创造。它“擅长评判”:可以告诉你在阁楼里发现的剧本是否可能出自Shakespeare之手,但如果让它自己写,“你会觉得那是12岁(12-year-old)孩子写的。”"
-              },
-              {
-                "t": "p",
-                "x": "谈到版权,Brearton说:“我们追踪每个工具,以及每个工具的每次使用。”主题演讲由Variety亚洲编辑(Asia Editor)Naman Ramachandran主持。"
+                "x": "他曾在后期制作中使用AI，例如修正眩光，但也承认“它确实抢走了一些工作”。在Dustin Yellin的AI短片《Goodbye Lamby》中，提示词操作者请他先为一个空间实际布光。他称那些“以Matthew Libatique风格”制作的AI视频“极其冒犯”，并补充说：“我还没见过哪件AI作品真正让我印象深刻。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI puede juzgar a Shakespeare\npero no escribirlo, dice AGBO",
-          "body": "En TIFFCOM, los jefes técnicos de AGBO dijeron que la AI debe apoyar a los artistas y no iguala lo humano al narrar.",
-          "mini_headline": "AGBO: la AI juzga, pero no escribe",
+          "headline": "Libatique: la IA puede sustituir\nlos VFX, pero no a los actores",
+          "body": "Libatique prueba IA para el próximo proyecto de Aronofsky, pero duda que Marvel llegue a usar actores de IA.",
+          "mini_headline": "Libatique sobre la IA y los VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "Cortesía de Evolution Mallorca"
               },
               {
                 "t": "p",
-                "x": "Los altos ejecutivos de AGBO Chris Brearton y Dominic Hughes ofrecieron una conferencia principal en TIFFCOM, el mercado de contenidos del Tokyo International Film Festival, sobre cómo la AI puede usarse para asistir, y no reemplazar, a los creadores humanos. “Los humanos están en una posición única para contar historias”, dijo Brearton. “Nuestra manera de adoptar la tecnología gira por completo en torno a los artistas y a ponerlos en primer lugar”."
+                "x": "El director de fotografía Matthew Libatique, tres veces nominado al Oscar, dice que él y Darren Aronofsky, que lanzó el estudio de IA Primordial Soup con Google DeepMind, están “probando” la tecnología antes de su próxima película. “Vamos a hacer una prueba pronto”, afirma."
               },
               {
                 "t": "p",
-                "x": "Lo que hace especial una interpretación favorita, dijo Brearton, “es el elemento humano”, que la AI no puede igualar. “La AI va a tener realmente más impacto, sobre todo a medio plazo, en la eficiencia de los procesos”."
+                "x": "La IA “no reemplazará al cine. Lo que podría reemplazar es Marvel”, dice: los estudios que hacen películas gigantes “usarán la IA para contener parte de sus costos” mediante los efectos visuales, aunque no cree que Marvel “vaya a usar nunca actores de IA”. “No me puedes decir que vas a crear un personaje de IA capaz de hacer lo que hace Robert Pattinson”."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "“Iron Man”, cortesía de Marvel"
               },
               {
                 "t": "p",
-                "x": "La AI, señaló Hughes, es buena “regurgitando lo que se ha hecho en el pasado”, pero no creando algo de la nada. “Es buena criticando”: puede decirte si una obra de teatro hallada en un desván pudo haberla escrito Shakespeare, pero si le pides que escriba la suya “tendrías la sensación de que la escribió un niño de 12 años (12-year-old)”."
-              },
-              {
-                "t": "p",
-                "x": "Sobre los derechos de autor, Brearton dijo: “Rastreamos cada herramienta y cada uso de cada herramienta”. La conferencia fue moderada por Naman Ramachandran, Asia Editor de Variety."
+                "x": "Ha usado la IA en posproducción, por ejemplo para corregir destellos, pero reconoce que “sin duda quitó algo de trabajo”. En el corto de IA de Dustin Yellin “Goodbye Lamby”, el encargado de los prompts le pidió primero iluminar físicamente un espacio. Califica de “absolutamente ofensivos” los videos de IA hechos “al estilo de Matthew Libatique” y añade: “No he visto nada creado por IA que me haya impresionado de verdad”."
               }
             ]
           }
@@ -907,121 +759,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AGBO “AI는 비평만\n할 뿐 쓰지는 못해”",
-          "body": "AGBO는 TIFFCOM에서 AI가 예술가를 돕되 인간에 못 미친다고 했다.",
-          "mini_headline": "AGBO “AI는 비평만, 창작은 못해”",
+          "headline": "리바티크 “AI는 VFX\n대체해도 배우는 못 해”",
+          "body": "리바티크는 아로노프스키 차기작에 AI를 시험하나 마블의 AI 배우엔 회의적이다.",
+          "mini_headline": "리바티크가 본 AI와 VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "Evolution Mallorca 제공"
               },
               {
                 "t": "p",
-                "x": "AGBO 최고 경영진 Chris Brearton과 Dominic Hughes는 도쿄국제영화제(Tokyo International Film Festival)의 콘텐츠 마켓 TIFFCOM에서 기조연설을 하며, AI가 인간 창작자를 대체하기보다 돕는 데 쓰일 수 있는 방식을 이야기했다. “인간은 이야기를 들려주기에 고유한 위치에 있다”고 Brearton은 말했다. “우리가 기술을 받아들이는 방식은 철저히 예술가를 위한 것이고, 예술가를 최우선에 두는 것이다.”"
+                "x": "오스카 후보에 세 차례 오른 촬영감독 Matthew Libatique는 Google DeepMind와 함께 AI 스튜디오 Primordial Soup을 세운 Darren Aronofsky와 차기작을 앞두고 이 기술을 “시험”하고 있다고 말한다. 그는 “곧 테스트를 한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Brearton은 사랑받는 연기를 특별하게 만드는 것이 AI가 따라올 수 없는 “인간적 요소”라고 말했다. “AI는 특히 중기적으로는 공정 효율에서 더 큰 영향을 미칠 것이다.”"
+                "x": "그는 AI가 “영화를 대체하지는 못할 것이다. 대체할 수 있는 건 Marvel이다”라고 말한다. 대작을 만드는 스튜디오들이 시각효과를 통해 “AI로 비용 일부를 줄일 것”이라는 뜻이다. 다만 그는 Marvel이 “AI 배우를 쓸 일은 없을 것”이라고 본다. “Robert Pattinson이 하는 걸 해낼 AI 캐릭터를 만들겠다는 말은 믿을 수 없다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "“아이언맨”, Marvel 제공"
               },
               {
                 "t": "p",
-                "x": "Hughes는 AI가 “과거에 이미 해온 것을 되풀이하는 일”에는 능하지만 무에서 무언가를 만들어내는 데는 서툴다고 짚었다. AI는 “비평에 능하다”. 다락방에서 발견된 희곡이 Shakespeare가 쓴 것일 수 있는지는 알려줄 수 있지만, 직접 써보라고 하면 “12살(12-year-old)이 쓴 것 같은 느낌을 받을 것”이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "저작권과 관련해 Brearton은 “우리는 모든 도구 하나하나, 그리고 각 도구의 사용 하나하나를 모두 추적한다”고 말했다. 기조연설의 사회는 Variety의 Asia Editor인 Naman Ramachandran이 맡았다."
+                "x": "그는 후반 작업에서 눈부심을 보정하는 등 AI를 써 본 적이 있지만 “분명히 일감 일부를 가져갔다”고 인정한다. Dustin Yellin의 AI 단편 “Goodbye Lamby”에서는 프롬프터가 그에게 먼저 실제 공간에 조명을 쳐 달라고 요청했다. 그는 “Matthew Libatique 스타일로” 만든 AI 영상을 “정말 불쾌하다”고 하며 이렇게 덧붙였다. “AI로 만든 것 중에 정말 감탄한 건 아직 하나도 못 봤다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AGBO「AIは批評止まり」\nShakespeareは無理",
-          "body": "TIFFCOMでAGBO幹部は、AIは芸術家を支える存在で人間には及ばないと語った。",
-          "mini_headline": "AGBO「AIは批評できても書けない」",
+          "headline": "AIはVFXを代替しても\n俳優は無理とリバティーク",
+          "body": "リバティークはアロノフスキー次回作でAIを試すが、マーベルのAI俳優起用には懐疑的だ。",
+          "mini_headline": "リバティークが語るAIとVFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "Evolution Mallorca提供"
               },
               {
                 "t": "p",
-                "x": "AGBOの経営トップChris BreartonとDominic Hughesは、東京国際映画祭(Tokyo International Film Festival)のコンテンツマーケットTIFFCOMで基調講演を行い、AIを人間のクリエイターの代わりではなく支援に使う方法について語った。「人間は物語を語るうえで特別な立場にある」とBreartonは述べた。「私たちのテクノロジーの取り入れ方は、すべてアーティストのため、アーティストを第一に考えることにある」"
+                "x": "アカデミー賞に3度ノミネートされた撮影監督Matthew Libatiqueは、Google DeepMindとAIスタジオPrimordial Soupを立ち上げたDarren Aronofskyとともに、次回作に向けてこの技術を「テスト」していると語る。「近くテストをする」という。"
               },
               {
                 "t": "p",
-                "x": "Breartonによれば、好きな演技を特別なものにするのは、AIには及ばない「人間的な要素」だという。「AIが本当に大きな影響を与えるのは、特に中期的には、工程の効率化の面だろう」"
+                "x": "AIは「映画に取って代わることはない。代わりうるのはMarvelだ」と彼は言う。超大作を作るスタジオは視覚効果で「AIを使ってコストの一部を抑える」だろうが、Marvelが「AI俳優を使うことはない」とも考えている。「Robert Pattinsonがやることをこなせるキャラクターを AIで作れるなんて、とても信じられない」"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "『アイアンマン』、Marvel提供"
               },
               {
                 "t": "p",
-                "x": "Hughesは、AIは「過去に行われてきたことを焼き直す」のは得意だが、何もないところから何かを生み出すのは得意ではないと指摘した。AIは「批評が得意」で、屋根裏で見つかった戯曲がShakespeareの作である可能性を判断することはできるが、自分で書かせると「12歳(12-year-old)が書いたような印象を受けるだろう」という。"
-              },
-              {
-                "t": "p",
-                "x": "著作権について、Breartonは「私たちはあらゆるツール、そしてあらゆるツールのあらゆる使用を漏れなく追跡している」と語った。基調講演の司会はVarietyのAsia EditorであるNaman Ramachandranが務めた。"
+                "x": "彼はポストプロダクションで、たとえばグレアの補正にAIを使ったことがあるが、「確かに仕事の一部を奪った」と認める。Dustin YellinのAI短編『Goodbye Lamby』では、プロンプターが彼にまず実際に空間をライティングするよう求めた。「Matthew Libatique風に」作られたAI動画は「まったく不快だ」とし、「AIが作ったもので本当に感心したものはまだ見たことがない」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AGBO：AI会点评\n写不出Shakespeare",
-          "body": "AGBO高管在TIFFCOM表示,AI应辅助艺术家,无法企及人类的叙事特质。",
-          "mini_headline": "AGBO：AI能点评但写不出",
+          "headline": "利巴蒂克：AI能取代VFX\n但取代不了演员",
+          "body": "摄影指导利巴蒂克正为阿罗诺夫斯基新片测试AI工具，但不认为漫威会用AI演员。",
+          "mini_headline": "利巴蒂克谈AI与VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "图片由Evolution Mallorca提供"
               },
               {
                 "t": "p",
-                "x": "AGBO高管Chris Brearton和Dominic Hughes在东京国际电影节(Tokyo International Film Festival)的内容市场TIFFCOM发表主题演讲,谈到AI如何用来辅助而非取代人类创作者。“人类在讲故事方面具有独特的优势,”Brearton说。“我们拥抱技术的方式,完全围绕艺术家,把艺术家放在首位。”"
+                "x": "曾三度获得奥斯卡提名的摄影指导Matthew Libatique表示，他正与和Google DeepMind共同创办AI工作室Primordial Soup的Darren Aronofsky一起，在下一部影片前“测试”这项技术。“我们很快就要做一次测试，”他说。"
               },
               {
                 "t": "p",
-                "x": "Brearton说,让心仪的表演变得特别的,是AI无法企及的“人的因素”。“AI真正会产生更大影响的地方,特别是在中期,是流程效率。”"
+                "x": "他说，AI“不会取代电影。它可能取代的是Marvel”：制作巨片的片厂会通过视觉特效“用AI来压缩部分成本”，不过他不认为Marvel“会使用AI演员”。“你没法让我相信，你能做出一个AI角色，做到Robert Pattinson所做的事。”"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "《钢铁侠》，图片由Marvel提供"
               },
               {
                 "t": "p",
-                "x": "Hughes指出,AI擅长“重复过去已经做过的东西”,却不擅长凭空创造。它“擅长评判”:可以告诉你在阁楼里发现的剧本是否可能出自Shakespeare之手,但如果让它自己写,“你会觉得那是12岁(12-year-old)孩子写的。”"
-              },
-              {
-                "t": "p",
-                "x": "谈到版权,Brearton说:“我们追踪每个工具,以及每个工具的每次使用。”主题演讲由Variety亚洲编辑(Asia Editor)Naman Ramachandran主持。"
+                "x": "他曾在后期制作中使用AI，例如修正眩光，但也承认“它确实抢走了一些工作”。在Dustin Yellin的AI短片《Goodbye Lamby》中，提示词操作者请他先为一个空间实际布光。他称那些“以Matthew Libatique风格”制作的AI视频“极其冒犯”，并补充说：“我还没见过哪件AI作品真正让我印象深刻。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI puede juzgar a Shakespeare\npero no escribirlo, dice AGBO",
-          "body": "En TIFFCOM, los jefes técnicos de AGBO dijeron que la AI debe apoyar a los artistas y no iguala lo humano al narrar.",
-          "mini_headline": "AGBO: la AI juzga, pero no escribe",
+          "headline": "Libatique: la IA puede sustituir\nlos VFX, pero no a los actores",
+          "body": "Libatique prueba IA para el próximo proyecto de Aronofsky, pero duda que Marvel llegue a usar actores de IA.",
+          "mini_headline": "Libatique sobre la IA y los VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/AGBO-tech-heads.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+                "cap": "Cortesía de Evolution Mallorca"
               },
               {
                 "t": "p",
-                "x": "Los altos ejecutivos de AGBO Chris Brearton y Dominic Hughes ofrecieron una conferencia principal en TIFFCOM, el mercado de contenidos del Tokyo International Film Festival, sobre cómo la AI puede usarse para asistir, y no reemplazar, a los creadores humanos. “Los humanos están en una posición única para contar historias”, dijo Brearton. “Nuestra manera de adoptar la tecnología gira por completo en torno a los artistas y a ponerlos en primer lugar”."
+                "x": "El director de fotografía Matthew Libatique, tres veces nominado al Oscar, dice que él y Darren Aronofsky, que lanzó el estudio de IA Primordial Soup con Google DeepMind, están “probando” la tecnología antes de su próxima película. “Vamos a hacer una prueba pronto”, afirma."
               },
               {
                 "t": "p",
-                "x": "Lo que hace especial una interpretación favorita, dijo Brearton, “es el elemento humano”, que la AI no puede igualar. “La AI va a tener realmente más impacto, sobre todo a medio plazo, en la eficiencia de los procesos”."
+                "x": "La IA “no reemplazará al cine. Lo que podría reemplazar es Marvel”, dice: los estudios que hacen películas gigantes “usarán la IA para contener parte de sus costos” mediante los efectos visuales, aunque no cree que Marvel “vaya a usar nunca actores de IA”. “No me puedes decir que vas a crear un personaje de IA capaz de hacer lo que hace Robert Pattinson”."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+                "cap": "“Iron Man”, cortesía de Marvel"
               },
               {
                 "t": "p",
-                "x": "La AI, señaló Hughes, es buena “regurgitando lo que se ha hecho en el pasado”, pero no creando algo de la nada. “Es buena criticando”: puede decirte si una obra de teatro hallada en un desván pudo haberla escrito Shakespeare, pero si le pides que escriba la suya “tendrías la sensación de que la escribió un niño de 12 años (12-year-old)”."
-              },
-              {
-                "t": "p",
-                "x": "Sobre los derechos de autor, Brearton dijo: “Rastreamos cada herramienta y cada uso de cada herramienta”. La conferencia fue moderada por Naman Ramachandran, Asia Editor de Variety."
+                "x": "Ha usado la IA en posproducción, por ejemplo para corregir destellos, pero reconoce que “sin duda quitó algo de trabajo”. En el corto de IA de Dustin Yellin “Goodbye Lamby”, el encargado de los prompts le pidió primero iluminar físicamente un espacio. Califica de “absolutamente ofensivos” los videos de IA hechos “al estilo de Matthew Libatique” y añade: “No he visto nada creado por IA que me haya impresionado de verdad”."
               }
             ]
           }
@@ -1029,271 +889,321 @@
       }
     },
     {
-      "id": "curious-refuge-horror-2026",
+      "id": "curiousrefuge-ai-relighting",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Curious Refuge\nAI 공포영화 수상작 발표",
-      "body": "Curious Refuge가 네 번째 AI-made 공포영화 대회 수상작을 가렸다.",
-      "mini_headline": "AI 공포영화 수상작 발표",
+      "headline": "촬영 후 조명을 바꾸는\n새 AI 워크플로",
+      "body": "Curious Refuge가 AI로 촬영 후 조명을 다시 입히는 법을 소개했다.",
+      "mini_headline": "후반 작업 AI 리라이팅",
       "tool": "Movies",
       "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=Q6xJOpTylco",
+      "url": "https://www.youtube.com/watch?v=19ngvIWpK_U",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "video",
-            "yt": "Q6xJOpTylco"
+            "yt": "19ngvIWpK_U"
           },
           {
             "t": "p",
-            "x": "제4회 연례 AI Horror Film competition이 막 끝났는데, 우리는 말 그대로 SHOOK 상태다."
+            "x": "Curious Refuge가 이 영상에서 촬영을 마친 뒤 영화 조명을 다시 입히는 새 워크플로를 공유한다. 세트에 돌아가지 않고도 낮의 사무실을 늦은 밤 작업 공간으로 바꾸는 식이다."
           },
           {
             "t": "p",
-            "x": "이야기가 무서운 건 물론이고(심사위원 모두 이제 불을 켜고 잔다), 작품 완성도도 놀라울 정도다."
+            "x": "절차는 이렇다. 스틸 프레임을 뽑고 조명 레퍼런스를 고른 다음 이미지 편집기(Nano Banana 2.1 또는 GPT Image 2.5 권장)에 “이미지 1의 조명과 시간대를 밤으로 바꿔라. 이미지 2를 조명과 스타일 레퍼런스로 사용하라” 같은 프롬프트를 넣어 스틸 조명을 바꾼다. 그다음 원본 클립과 새 조명을 입힌 프레임을 영상 모델에 함께 올린다. 편집한 이미지는 목표 조명을, 원본 영상은 연기와 움직임을 맡는다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+            "cap": "새 조명을 입힌 첫 프레임"
           },
           {
             "t": "p",
-            "x": "수상작은 프리미어가 끝난 뒤 여기서 확인할 수 있다: https://curiousrefuge.com/2026-ai-horror-film-competition"
+            "x": "결과는 기대할 만했지만 한계도 있었다. 사무실 테스트에서는 노출이 들쭉날쭉하고 사선 밴딩이 눈에 띄었으며 출력 해상도도 4K 원본보다 낮았다. 영화에 쓰려면 먼저 클립 전체에서 아티팩트를 확인해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Curious Refuge names its AI\nhorror film winners",
-          "body": "Curious Refuge closed its fourth annual AI Horror Film Competition by announcing the winning AI-made horror films.",
-          "mini_headline": "AI horror film\nwinners named",
+          "headline": "A new AI workflow for\nrelighting film footage",
+          "body": "Curious Refuge walks through an AI relighting workflow that uses generative tools to re-light film shots in post.",
+          "mini_headline": "AI relighting in post",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "Q6xJOpTylco"
+                "yt": "19ngvIWpK_U"
               },
               {
                 "t": "p",
-                "x": "We just wrapped our 4th annual AI Horror Film competition, and we are SHOOK."
+                "x": "In this video, Curious Refuge shares a new workflow for relighting your films after the shoot — turning a daytime office into a late-night workspace without returning to set."
               },
               {
                 "t": "p",
-                "x": "Not only are we terrified by the stories (all our judges are now sleeping with the lights on), but the quality of these films is mind-blowing."
+                "x": "The steps: export a still frame, pick a lighting reference, and relight the still in an image editor (Nano Banana 2.1 or GPT Image 2.5 are recommended) with a prompt like “Change the lighting and time of day in image 1 to nighttime. Use image 2 as the lighting and style reference.” Then upload the original clip plus the relit frame to a video model so the edited image supplies the lighting target while the footage supplies the performance and motion."
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "First Frame with New Lighting"
               },
               {
                 "t": "p",
-                "x": "Once the premiere has finished, check out the winners here: https://curiousrefuge.com/2026-ai-horror-film-competition"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Curious Refuge anuncia los\nganadores de cine de terror AI",
-          "body": "Curious Refuge cerró su cuarta AI Horror Film Competition anual anunciando las cintas de terror AI-made ganadoras.",
-          "mini_headline": "Ganadores del cine de terror AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "Q6xJOpTylco"
-              },
-              {
-                "t": "p",
-                "x": "Acabamos de cerrar nuestra 4.ª (4th) competencia anual AI Horror Film y estamos impactados (SHOOK)."
-              },
-              {
-                "t": "p",
-                "x": "No solo nos aterran las historias (todos nuestros jueces duermen ahora con la luz encendida), sino que la calidad de estas películas es asombrosa."
-              },
-              {
-                "t": "p",
-                "x": "Cuando termine el estreno, consulta aquí a los ganadores: https://curiousrefuge.com/2026-ai-horror-film-competition"
+                "x": "The results were promising, with limits: in the office test they saw exposure variation and visible diagonal banding, and the output was lower-resolution than the 4K source — so review the whole clip for artifacts before using it in your film."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Curious Refuge\nAI 공포영화 수상작 발표",
-          "body": "Curious Refuge가 네 번째 AI-made 공포영화 대회 수상작을 가렸다.",
-          "mini_headline": "AI 공포영화 수상작 발표",
+          "headline": "촬영 후 조명을 바꾸는\n새 AI 워크플로",
+          "body": "Curious Refuge가 AI로 촬영 후 조명을 다시 입히는 법을 소개했다.",
+          "mini_headline": "후반 작업 AI 리라이팅",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "Q6xJOpTylco"
+                "yt": "19ngvIWpK_U"
               },
               {
                 "t": "p",
-                "x": "제4회 연례 AI Horror Film competition이 막 끝났는데, 우리는 말 그대로 SHOOK 상태다."
+                "x": "Curious Refuge가 이 영상에서 촬영을 마친 뒤 영화 조명을 다시 입히는 새 워크플로를 공유한다. 세트에 돌아가지 않고도 낮의 사무실을 늦은 밤 작업 공간으로 바꾸는 식이다."
               },
               {
                 "t": "p",
-                "x": "이야기가 무서운 건 물론이고(심사위원 모두 이제 불을 켜고 잔다), 작품 완성도도 놀라울 정도다."
+                "x": "절차는 이렇다. 스틸 프레임을 뽑고 조명 레퍼런스를 고른 다음 이미지 편집기(Nano Banana 2.1 또는 GPT Image 2.5 권장)에 “이미지 1의 조명과 시간대를 밤으로 바꿔라. 이미지 2를 조명과 스타일 레퍼런스로 사용하라” 같은 프롬프트를 넣어 스틸 조명을 바꾼다. 그다음 원본 클립과 새 조명을 입힌 프레임을 영상 모델에 함께 올린다. 편집한 이미지는 목표 조명을, 원본 영상은 연기와 움직임을 맡는다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "새 조명을 입힌 첫 프레임"
               },
               {
                 "t": "p",
-                "x": "수상작은 프리미어가 끝난 뒤 여기서 확인할 수 있다: https://curiousrefuge.com/2026-ai-horror-film-competition"
+                "x": "결과는 기대할 만했지만 한계도 있었다. 사무실 테스트에서는 노출이 들쭉날쭉하고 사선 밴딩이 눈에 띄었으며 출력 해상도도 4K 원본보다 낮았다. 영화에 쓰려면 먼저 클립 전체에서 아티팩트를 확인해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Curious Refuge\nAIホラー映画の受賞作発表",
-          "body": "Curious Refugeが第四回AIホラー映画コンペのAI-made受賞作を発表した。",
-          "mini_headline": "AIホラー映画の受賞作発表",
+          "headline": "撮影後に照明を変える\n新しいAIワークフロー",
+          "body": "Curious Refugeが、生成AIで撮影後に映像の照明を変える手法を紹介した。",
+          "mini_headline": "ポスプロでAIリライティング",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "Q6xJOpTylco"
+                "yt": "19ngvIWpK_U"
               },
               {
                 "t": "p",
-                "x": "第4回AI Horror Film competitionを終えたばかりだが、私たちはまさにSHOOKだ。"
+                "x": "この動画でCurious Refugeは、撮影後に映像の照明を変える新しいワークフローを紹介している。セットに戻らずに、昼間のオフィスを深夜の作業場に変えるというものだ。"
               },
               {
                 "t": "p",
-                "x": "物語の怖さに震え上がっただけでなく(審査員は全員、今や明かりをつけたまま眠っている)、作品の質も驚くほど高い。"
+                "x": "手順はこうだ。静止フレームを書き出し、照明のリファレンスを選び、画像編集ツール（Nano Banana 2.1またはGPT Image 2.5を推奨）で「画像1の照明と時間帯を夜に変更せよ。画像2を照明とスタイルのリファレンスとして使え」といったプロンプトを使い、静止画の照明を変える。次に元のクリップと照明を変えたフレームを動画モデルにアップロードすると、編集した画像が目標の照明を、元の映像が演技と動きを担う。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "新しい照明を施した最初のフレーム"
               },
               {
                 "t": "p",
-                "x": "プレミア上映が終わったら、受賞作をここで確認してほしい: https://curiousrefuge.com/2026-ai-horror-film-competition"
+                "x": "結果は有望だったが限界もあった。オフィスでのテストでは露出のばらつきや目立つ斜めのバンディングが見られ、出力は4K の元素材より低解像度だった。映画に使う前に、クリップ全体でアーティファクトを確認すべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Curious Refuge\n公布AI恐怖片获奖作品",
-          "body": "Curious Refuge第四届年度AI恐怖片大赛落幕，并公布了AI-made获奖作品。",
-          "mini_headline": "公布AI恐怖片获奖作品",
+          "headline": "一套新的AI工作流\n为影片后期重新打光",
+          "body": "Curious Refuge介绍了一套在后期中借助生成式工具为影片重新打光的AI流程。",
+          "mini_headline": "后期AI重新打光",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "Q6xJOpTylco"
+                "yt": "19ngvIWpK_U"
               },
               {
                 "t": "p",
-                "x": "我们刚刚办完第4届年度AI Horror Film competition，整个人都SHOOK了。"
+                "x": "在这段视频中，Curious Refuge分享了一套在拍摄结束后为影片重新打光的新工作流程——无需重返片场，就能把白天的办公室变成深夜的工作空间。"
               },
               {
                 "t": "p",
-                "x": "我们不仅被这些故事吓坏了（所有评委现在都开着灯睡觉），这些影片的质量更是令人惊叹。"
+                "x": "步骤如下：导出一帧静帧，挑选一张光照参考图，然后在图像编辑工具中（推荐Nano Banana 2.1或GPT Image 2.5）用类似“把图像1的光照和时间改为夜晚。以图像2作为光照与风格参考。”的提示词为静帧重新打光。接着把原始片段和重新打光后的画面一起上传到视频模型，由编辑后的图像提供目标光照，原始素材提供表演与动作。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "重新打光后的首帧"
               },
               {
                 "t": "p",
-                "x": "首映结束后，请在此查看获奖作品：https://curiousrefuge.com/2026-ai-horror-film-competition"
+                "x": "结果令人鼓舞，但也有局限：在办公室测试中，他们看到了曝光波动和明显的斜向条带，输出分辨率也低于4K 源素材——因此在用进影片前，应检查整段片段是否有瑕疵。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un nuevo flujo de IA para\nreiluminar metraje de cine",
+          "body": "Curious Refuge explica un flujo con IA que usa herramientas generativas para reiluminar tomas en posproducción.",
+          "mini_headline": "Reiluminación con IA en posproducción",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "19ngvIWpK_U"
+              },
+              {
+                "t": "p",
+                "x": "En este video, Curious Refuge comparte un nuevo flujo de trabajo para reiluminar tus películas después del rodaje: convertir una oficina de día en un espacio de trabajo de madrugada sin volver al set."
+              },
+              {
+                "t": "p",
+                "x": "Los pasos: exportar un fotograma fijo, elegir una referencia de iluminación y reiluminar la imagen en un editor (se recomiendan Nano Banana 2.1 o GPT Image 2.5) con un prompt como “Cambia la iluminación y la hora del día de la imagen 1 a la noche. Usa la imagen 2 como referencia de iluminación y estilo”. Después, subir el clip original junto con el fotograma reiluminado a un modelo de video, de modo que la imagen editada aporte el objetivo de iluminación y el metraje aporte la interpretación y el movimiento."
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "Primer fotograma con la nueva iluminación"
+              },
+              {
+                "t": "p",
+                "x": "Los resultados fueron prometedores, con límites: en la prueba de la oficina vieron variaciones de exposición y bandas diagonales visibles, y la salida tenía menor resolución que la fuente en 4K, así que conviene revisar todo el clip en busca de artefactos antes de usarlo en tu película."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Curious Refuge anuncia los\nganadores de cine de terror AI",
-          "body": "Curious Refuge cerró su cuarta AI Horror Film Competition anual anunciando las cintas de terror AI-made ganadoras.",
-          "mini_headline": "Ganadores del cine de terror AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "Q6xJOpTylco"
-              },
-              {
-                "t": "p",
-                "x": "Acabamos de cerrar nuestra 4.ª (4th) competencia anual AI Horror Film y estamos impactados (SHOOK)."
-              },
-              {
-                "t": "p",
-                "x": "No solo nos aterran las historias (todos nuestros jueces duermen ahora con la luz encendida), sino que la calidad de estas películas es asombrosa."
-              },
-              {
-                "t": "p",
-                "x": "Cuando termine el estreno, consulta aquí a los ganadores: https://curiousrefuge.com/2026-ai-horror-film-competition"
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Curious Refuge\nAI 공포영화 수상작 발표",
-          "body": "Curious Refuge가 네 번째 대회 AI-made 공포영화 수상작을 가렸다.",
-          "mini_headline": "AI 공포영화 수상작 발표",
+          "headline": "촬영 후 조명을 바꾸는\n새 AI 워크플로",
+          "body": "Curious Refuge가 후반 작업에서 AI로 조명을 바꾸는 법을 소개했다.",
+          "mini_headline": "후반 작업 AI 리라이팅",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "Q6xJOpTylco"
+                "yt": "19ngvIWpK_U"
               },
               {
                 "t": "p",
-                "x": "제4회 연례 AI Horror Film competition을 막 마쳤는데, 우리는 그야말로 SHOOK 상태다."
+                "x": "이 영상에서 Curious Refuge는 촬영이 끝난 뒤 영화의 조명을 다시 입히는 새 워크플로를 공유한다. 세트로 돌아가지 않고도 낮 시간의 사무실을 늦은 밤의 작업 공간으로 바꾸는 식이다."
               },
               {
                 "t": "p",
-                "x": "이야기에 겁에 질렸을 뿐 아니라(심사위원 모두가 이제 불을 켜고 잔다), 작품의 완성도도 놀라울 정도다."
+                "x": "절차는 이렇다. 스틸 프레임을 추출하고 조명 레퍼런스를 고른 뒤, 이미지 편집기(Nano Banana 2.1 또는 GPT Image 2.5 권장)에서 “이미지 1의 조명과 시간대를 밤으로 바꿔라. 이미지 2를 조명과 스타일 레퍼런스로 사용하라” 같은 프롬프트로 스틸의 조명을 바꾼다. 이어 원본 클립과 조명을 바꾼 프레임을 영상 모델에 함께 올리면, 편집한 이미지가 목표 조명을, 원본 영상이 연기와 움직임을 맡는다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "새 조명을 입힌 첫 프레임"
               },
               {
                 "t": "p",
-                "x": "프리미어가 끝나면 수상작을 여기서 확인하라: https://curiousrefuge.com/2026-ai-horror-film-competition"
+                "x": "결과는 기대할 만했지만 한계도 있었다. 사무실 테스트에서는 노출이 들쭉날쭉하고 사선 밴딩이 눈에 띄었으며, 출력 해상도도 4K 원본보다 낮았다. 따라서 영화에 쓰기 전에 클립 전체에서 아티팩트를 확인해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Curious Refuge\nAIホラー映画の受賞作発表",
-          "body": "Curious Refugeが第四回AIホラー映画コンペのAI-made受賞作を発表した。",
-          "mini_headline": "AIホラー映画の受賞作発表",
+          "headline": "撮影後に照明を変える\n新しいAIワークフロー",
+          "body": "Curious Refugeが、生成AIで撮影後に映像の照明を変える手法を紹介した。",
+          "mini_headline": "ポスプロでAIリライティング",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "Q6xJOpTylco"
+                "yt": "19ngvIWpK_U"
               },
               {
                 "t": "p",
-                "x": "第4回AI Horror Film competitionを終えたばかりだが、私たちはまさにSHOOKだ。"
+                "x": "この動画でCurious Refugeは、撮影後に映像の照明を変える新しいワークフローを紹介している。セットに戻らずに、昼間のオフィスを深夜の作業場に変えるというものだ。"
               },
               {
                 "t": "p",
-                "x": "物語の怖さに震え上がっただけでなく(審査員は全員、今や明かりをつけたまま眠っている)、作品の質も驚くほど高い。"
+                "x": "手順はこうだ。静止フレームを書き出し、照明のリファレンスを選び、画像編集ツール（Nano Banana 2.1またはGPT Image 2.5を推奨）で「画像1の照明と時間帯を夜に変更せよ。画像2を照明とスタイルのリファレンスとして使え」といったプロンプトを使い、静止画の照明を変える。次に元のクリップと照明を変えたフレームを動画モデルにアップロードすると、編集した画像が目標の照明を、元の映像が演技と動きを担う。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "新しい照明を施した最初のフレーム"
               },
               {
                 "t": "p",
-                "x": "プレミア上映が終わったら、受賞作をここで確認してほしい: https://curiousrefuge.com/2026-ai-horror-film-competition"
+                "x": "結果は有望だったが限界もあった。オフィスでのテストでは露出のばらつきや目立つ斜めのバンディングが見られ、出力は4K の元素材より低解像度だった。映画に使う前に、クリップ全体でアーティファクトを確認すべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Curious Refuge\n公布AI恐怖片获奖作品",
-          "body": "Curious Refuge第四届年度AI恐怖片大赛落幕，并公布了AI-made获奖作品。",
-          "mini_headline": "公布AI恐怖片获奖作品",
+          "headline": "一套新的AI工作流\n为影片后期重新打光",
+          "body": "Curious Refuge介绍了一套在后期中借助生成式工具为影片重新打光的AI流程。",
+          "mini_headline": "后期AI重新打光",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "Q6xJOpTylco"
+                "yt": "19ngvIWpK_U"
               },
               {
                 "t": "p",
-                "x": "我们刚刚办完第4届年度AI Horror Film competition，整个人都SHOOK了。"
+                "x": "在这段视频中，Curious Refuge分享了一套在拍摄结束后为影片重新打光的新工作流程——无需重返片场，就能把白天的办公室变成深夜的工作空间。"
               },
               {
                 "t": "p",
-                "x": "我们不仅被这些故事吓坏了（所有评委现在都开着灯睡觉），这些影片的质量更是令人惊叹。"
+                "x": "步骤如下：导出一帧静帧，挑选一张光照参考图，然后在图像编辑工具中（推荐Nano Banana 2.1或GPT Image 2.5）用类似“把图像1的光照和时间改为夜晚。以图像2作为光照与风格参考。”的提示词为静帧重新打光。接着把原始片段和重新打光后的画面一起上传到视频模型，由编辑后的图像提供目标光照，原始素材提供表演与动作。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "重新打光后的首帧"
               },
               {
                 "t": "p",
-                "x": "首映结束后，请在此查看获奖作品：https://curiousrefuge.com/2026-ai-horror-film-competition"
+                "x": "结果令人鼓舞，但也有局限：在办公室测试中，他们看到了曝光波动和明显的斜向条带，输出分辨率也低于4K 源素材——因此在用进影片前，应检查整段片段是否有瑕疵。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un nuevo flujo de IA para\nreiluminar metraje de cine",
+          "body": "Curious Refuge explica un flujo con IA que usa herramientas generativas para reiluminar tomas en posproducción.",
+          "mini_headline": "Reiluminación con IA en posproducción",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "19ngvIWpK_U"
+              },
+              {
+                "t": "p",
+                "x": "En este video, Curious Refuge comparte un nuevo flujo de trabajo para reiluminar tus películas después del rodaje: convertir una oficina de día en un espacio de trabajo de madrugada sin volver al set."
+              },
+              {
+                "t": "p",
+                "x": "Los pasos: exportar un fotograma fijo, elegir una referencia de iluminación y reiluminar la imagen en un editor (se recomiendan Nano Banana 2.1 o GPT Image 2.5) con un prompt como “Cambia la iluminación y la hora del día de la imagen 1 a la noche. Usa la imagen 2 como referencia de iluminación y estilo”. Después, subir el clip original junto con el fotograma reiluminado a un modelo de video, de modo que la imagen editada aporte el objetivo de iluminación y el metraje aporte la interpretación y el movimiento."
+              },
+              {
+                "t": "img",
+                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+                "cap": "Primer fotograma con la nueva iluminación"
+              },
+              {
+                "t": "p",
+                "x": "Los resultados fueron prometedores, con límites: en la prueba de la oficina vieron variaciones de exposición y bandas diagonales visibles, y la salida tenía menor resolución que la fuente en 4K, así que conviene revisar todo el clip en busca de artefactos antes de usarlo en tu película."
               }
             ]
           }
@@ -1301,243 +1211,201 @@
       }
     },
     {
-      "id": "karts-neverland-ai-anime",
+      "id": "news1-broadcast-ai-action",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "한예종 AI 애니메이션\n일본 AI 영화제 결선행",
-      "body": "한예종 AT랩의 '티켓 투 네버랜드'가 730여편 중 결선 21편에 올랐다.",
-      "mini_headline": "한예종 AI 애니\n일본 영화제 결선",
+      "headline": "3분 액션신에 2억 절감\nAI가 바꾼 방송 제작",
+      "body": "생성형 AI가 액션신·CG 제작에 쓰이며 3분 액션신에서 2억 원을 절감했다.",
+      "mini_headline": "AI로 2억 절감",
       "tool": "Movies",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/life-culture/general-cultural/6335398",
+      "source": "News1",
+      "url": "https://www.news1.kr/entertain/broadcast-tv/6337749",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-            "cap": "한예종 AT랩 제작 애니메이션 '티켓 투 네버랜드'의 한 장면 (한국예술종합학교 제공)"
+            "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+            "cap": "MBC"
           },
           {
             "t": "p",
-            "x": "한국예술종합학교 융합예술센터 아트앤테크놀로지랩(AT랩)이 제작한 3D 애니메이션 '티켓 투 네버랜드'가 일본 국제 AI 영화제 경쟁 부문 최종 후보에 올랐다. 생성형 인공지능(AI)을 창작 도구로 활용한 작품이다."
+            "x": "인공지능(AI) 기술이 방송가의 새로운 동력으로 떠올랐다. 과거 자막 생성, 음성의 문자 변환 등에 그쳤던 AI 활용은 생성형 AI 등장 이후 기획부터 영상 제작, 시청자 데이터 분석 등으로 확대됐다."
           },
           {
             "t": "p",
-            "x": "제2회 'AI 필름 페스티벌 재팬 2026'은 10월 31일부터 11월 2일까지 일본 도쿄에서 열린다. 세계 60여 개국에서 730여 편이 출품돼 공식 선정작 68편, 경쟁 파이널리스트 21편이 뽑혔다. '티켓 투 네버랜드'는 AI 애니메이션 부문 파이널리스트로 선정됐다. 최종 수상작은 11월 1일 시상식에서 발표한다."
+            "x": "이상진 SBS AI파트너십팀장은 \"김부장의 과거 북한 침투 장면은 실사 촬영에 수억 원이 들 것으로 예상됐는데, AI를 활용해 약 2억 원을 절감할 수 있었다\"고 전했다. 다리 위 폭파 장면에서는 차량을 CG로, 치솟는 불길을 생성형 AI로 구현했다. EBS는 'AI드라마-부활수업' 등을 선보였고, KBS 대하사극 '문무'도 생성형 AI로 만든 역사적 공간과 대규모 전투신을 선보인다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+            "cap": "AI 기반 '버티고 PTZ'/사진=KBS 제공"
           },
           {
             "t": "p",
-            "x": "작품은 가장 비참한 사연을 들려준 한 명에게 영원한 안식처 '네버랜드'행 표를 주는 리얼리티 쇼를 그린 블랙코미디다. 동화 속 인물들이 각자 자신의 비극을 설명하며 경쟁한다."
-          },
-          {
-            "t": "p",
-            "x": "허민·손민호 한예종 영상원 영화과 학생과 김한인 연극원 극작과 학생이 공동 제작했다. 세 사람은 산학협력 프로젝트 'AI 필름/애니메이션 메이킹' 수업에서 작품을 완성했다. 이 작품은 지난 3월 'WAIFF 서울 2026'에서 AI 각본상을 받았다. 7월에는 제30회 부천국제판타스틱영화제에 공식 초청됐다."
-          },
-          {
-            "t": "p",
-            "x": "이승무 AT랩 소장은 기획 단계부터 생성형 AI를 활용한 '100% AI 네이티브 작품'이라고 설명했다. AI 영화 전문 국제 무대에서 작품을 선보이게 된 데 의미를 뒀다."
-          },
-          {
-            "t": "p",
-            "x": "AT랩은 가상현실과 버추얼 프로덕션 등 기술을 결합한 융합예술 창작을 연구하고 있다. 문화체육관광부와 한국콘텐츠진흥원이 지원하는 글로벌 문화기술 전문인력 양성 사업에도 참여한다."
+            "x": "KBS의 AI 기반 자동 영상 프레이밍 솔루션 '버티고'는 '뮤직뱅크'에서 출연자 한 명당 약 15분이 걸리던 편집 시간을 2~3분으로 줄였다. MBC는 지방선거 개표방송 카운트다운 영상을 촬영 없이 방송 아카이브와 생성형 AI만으로 만들었다. 권석원 MBC AI전략팀장은 \"AI 도입의 목표는 인력을 줄이는 것이 아니라\" 구성원이 창의적인 업무에 집중하는 구조를 만드는 것이라고 강조했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "한예종 AI 애니메이션\n일본 AI 영화제 결선행",
-          "body": "한예종 AT랩의 '티켓 투 네버랜드'가 730여편 중 결선 21편에 올랐다.",
-          "mini_headline": "한예종 AI 애니\n일본 영화제 결선",
+          "headline": "3분 액션신에 2억 절감\nAI가 바꾼 방송 제작",
+          "body": "생성형 AI가 액션신·CG 제작에 쓰이며 3분 액션신에서 2억 원을 절감했다.",
+          "mini_headline": "AI로 2억 절감",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "한예종 AT랩 제작 애니메이션 '티켓 투 네버랜드'의 한 장면 (한국예술종합학교 제공)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "한국예술종합학교 융합예술센터 아트앤테크놀로지랩(AT랩)이 제작한 3D 애니메이션 '티켓 투 네버랜드'가 일본 국제 AI 영화제 경쟁 부문 최종 후보에 올랐다. 생성형 인공지능(AI)을 창작 도구로 활용한 작품이다."
+                "x": "인공지능(AI) 기술이 방송가의 새로운 동력으로 떠올랐다. 과거 자막 생성, 음성의 문자 변환 등에 그쳤던 AI 활용은 생성형 AI 등장 이후 기획부터 영상 제작, 시청자 데이터 분석 등으로 확대됐다."
               },
               {
                 "t": "p",
-                "x": "제2회 'AI 필름 페스티벌 재팬 2026'은 10월 31일부터 11월 2일까지 일본 도쿄에서 열린다. 세계 60여 개국에서 730여 편이 출품돼 공식 선정작 68편, 경쟁 파이널리스트 21편이 뽑혔다. '티켓 투 네버랜드'는 AI 애니메이션 부문 파이널리스트로 선정됐다. 최종 수상작은 11월 1일 시상식에서 발표한다."
+                "x": "이상진 SBS AI파트너십팀장은 \"김부장의 과거 북한 침투 장면은 실사 촬영에 수억 원이 들 것으로 예상됐는데, AI를 활용해 약 2억 원을 절감할 수 있었다\"고 전했다. 다리 위 폭파 장면에서는 차량을 CG로, 치솟는 불길을 생성형 AI로 구현했다. EBS는 'AI드라마-부활수업' 등을 선보였고, KBS 대하사극 '문무'도 생성형 AI로 만든 역사적 공간과 대규모 전투신을 선보인다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "AI 기반 '버티고 PTZ'/사진=KBS 제공"
               },
               {
                 "t": "p",
-                "x": "작품은 가장 비참한 사연을 들려준 한 명에게 영원한 안식처 '네버랜드'행 표를 주는 리얼리티 쇼를 그린 블랙코미디다. 동화 속 인물들이 각자 자신의 비극을 설명하며 경쟁한다."
-              },
-              {
-                "t": "p",
-                "x": "허민·손민호 한예종 영상원 영화과 학생과 김한인 연극원 극작과 학생이 공동 제작했다. 세 사람은 산학협력 프로젝트 'AI 필름/애니메이션 메이킹' 수업에서 작품을 완성했다. 이 작품은 지난 3월 'WAIFF 서울 2026'에서 AI 각본상을 받았다. 7월에는 제30회 부천국제판타스틱영화제에 공식 초청됐다."
-              },
-              {
-                "t": "p",
-                "x": "이승무 AT랩 소장은 기획 단계부터 생성형 AI를 활용한 '100% AI 네이티브 작품'이라고 설명했다. AI 영화 전문 국제 무대에서 작품을 선보이게 된 데 의미를 뒀다."
-              },
-              {
-                "t": "p",
-                "x": "AT랩은 가상현실과 버추얼 프로덕션 등 기술을 결합한 융합예술 창작을 연구하고 있다. 문화체육관광부와 한국콘텐츠진흥원이 지원하는 글로벌 문화기술 전문인력 양성 사업에도 참여한다."
+                "x": "KBS의 AI 기반 자동 영상 프레이밍 솔루션 '버티고'는 '뮤직뱅크'에서 출연자 한 명당 약 15분이 걸리던 편집 시간을 2~3분으로 줄였다. MBC는 지방선거 개표방송 카운트다운 영상을 촬영 없이 방송 아카이브와 생성형 AI만으로 만들었다. 권석원 MBC AI전략팀장은 \"AI 도입의 목표는 인력을 줄이는 것이 아니라\" 구성원이 창의적인 업무에 집중하는 구조를 만드는 것이라고 강조했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "K-Arts AI animation heads to\nJapan AI film festival finals",
-          "body": "K-Arts AT Lab's 'Ticket to Neverland' made the final 21 out of more than 730 entries.",
-          "mini_headline": "K-Arts AI animation in Japan finals",
+          "headline": "AI saves ₩200 million on\na 3-minute TV action scene",
+          "body": "Generative AI now handles action scenes and CG, saving ₩200 million on a 3-minute action scene.",
+          "mini_headline": "AI saves ₩200 million",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "A scene from 'Ticket to Neverland', an animation produced by K-Arts AT Lab (provided by Korea National University of Arts)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "'Ticket to Neverland', a 3D animation produced by the Art & Technology Lab (AT Lab) at the Korea National University of Arts' Convergence Arts Center, has been named a final nominee in the competition section of an international AI film festival in Japan. The work uses generative artificial intelligence (AI) as a creative tool."
+                "x": "Artificial intelligence (AI) has emerged as a new driving force in broadcasting. AI use, once limited to generating subtitles and converting speech to text, has expanded since the arrival of generative AI to cover everything from planning to video production and viewer data analysis."
               },
               {
                 "t": "p",
-                "x": "The 2nd 'AI Film Festival Japan 2026' runs in Tokyo, Japan, from October 31 to November 2. More than 730 works were submitted from over 60 countries, from which 68 official selections and 21 competition finalists were chosen. 'Ticket to Neverland' was selected as a finalist in the AI animation category. The final winners will be announced at the awards ceremony on November 1."
+                "x": "Lee Sang-jin, head of the AI Partnership Team at SBS, said: “Kim Bu-jang’s past infiltration scene in North Korea was expected to cost hundreds of millions of won to shoot live, but using AI we were able to save about ₩200 million.” In an explosion scene on a bridge, the vehicles were made with CG and the rising flames with generative AI. EBS has released works such as ‘AI Drama - Resurrection Class,’ and KBS’s historical epic ‘Munmu’ will also show historical settings and large-scale battle scenes made with generative AI."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "AI-based ‘Vertigo PTZ’ / Photo courtesy of KBS"
               },
               {
                 "t": "p",
-                "x": "The work is a black comedy about a reality show that gives a ticket to 'Neverland', an eternal place of rest, to whoever tells the most miserable story. Fairy-tale characters compete by each explaining their own tragedy."
-              },
-              {
-                "t": "p",
-                "x": "It was co-produced by Heo Min and Son Min-ho, students in the Department of Filmmaking at the K-Arts School of Film, and Kim Han-in, a student in the Department of Playwriting at the School of Drama. The three completed the work in 'AI Film/Animation Making', a class run as an industry-academia cooperation project. In March, the work won the AI screenplay award at 'WAIFF Seoul 2026'. In July, it was officially invited to the 30th Bucheon International Fantastic Film Festival."
-              },
-              {
-                "t": "p",
-                "x": "Lee Seung-mu, head of AT Lab, described it as a '100% AI-native work' that used generative AI from the planning stage. He said it was meaningful to present the work on an international stage dedicated to AI film."
-              },
-              {
-                "t": "p",
-                "x": "AT Lab researches convergence art creation that combines technologies such as virtual reality and virtual production. It also takes part in a global culture-technology talent training program supported by the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency."
+                "x": "KBS’s AI-based automatic video framing solution ‘Vertigo’ cut editing time on ‘Music Bank’ from about 15 minutes per performer to 2–3 minutes. MBC made the countdown video for its local election results broadcast with only its broadcast archive and generative AI, without any filming. Kwon Seok-won, head of MBC’s AI Strategy Team, stressed that “the goal of adopting AI is not to cut staff” but to build a structure in which members can focus on creative work."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国芸術総合学校のAIアニメ\n日本のAI映画祭で決選へ",
-          "body": "ATラボの『チケット・トゥ・ネバーランド』が730本余りから決選21本に残った。",
-          "mini_headline": "韓芸綜AIアニメ、日本の映画祭決選へ",
+          "headline": "3分のアクションで2億削減\nAIが変える放送制作",
+          "body": "生成AIがアクションやCG制作に使われ、3分のアクションシーンで2億ウォンを削減した。",
+          "mini_headline": "AIで2億削減",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "韓国芸術総合学校ATラボ制作のアニメ『チケット・トゥ・ネバーランド』の場面(韓国芸術総合学校提供)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "韓国芸術総合学校融合芸術センターのアート&テクノロジーラボ(ATラボ)が制作した3Dアニメーション『チケット・トゥ・ネバーランド』が、日本の国際AI映画祭のコンペティション部門で最終候補に選ばれた。生成人工知能(AI)を創作ツールとして活用した作品だ。"
+                "x": "人工知能（AI）技術が放送業界の新たな原動力として浮上した。かつて字幕生成や音声の文字変換などにとどまっていたAIの活用は、生成AIの登場以降、企画から映像制作、視聴者データ分析にまで広がった。"
               },
               {
                 "t": "p",
-                "x": "第2回「AIフィルムフェスティバル・ジャパン2026」は10月31日から11月2日まで日本・東京で開かれる。世界60余りの国から730本余りが出品され、公式選出作68本、コンペティションのファイナリスト21本が選ばれた。『チケット・トゥ・ネバーランド』はAIアニメーション部門のファイナリストに選出された。最終受賞作は11月1日の授賞式で発表される。"
+                "x": "SBSのイ・サンジンAIパートナーシップチーム長は「キム部長の過去の北朝鮮潜入シーンは実写撮影に数億ウォンかかると見込まれていたが、AIを活用して約2億ウォンを削減できた」と語った。橋の上の爆破シーンでは車両をCGで、立ち上る炎を生成AIで表現した。EBSは『AIドラマ-復活授業』などを披露し、KBSの大河時代劇『文武』も生成AIで作った歴史的空間と大規模な戦闘シーンを見せる。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "AIベースの『バーティゴPTZ』/写真=KBS提供"
               },
               {
                 "t": "p",
-                "x": "作品は、最も悲惨な身の上話を語った者に永遠の安息の地「ネバーランド」行きの切符を与えるリアリティーショーを描いたブラックコメディーだ。童話の登場人物たちがそれぞれ自らの悲劇を語りながら競い合う。"
-              },
-              {
-                "t": "p",
-                "x": "韓国芸術総合学校映像院映画科の学生ホ・ミン、ソン・ミンホと、演劇院劇作科の学生キム・ハンインが共同制作した。三人は産学協力プロジェクトの授業「AIフィルム/アニメーションメイキング」で作品を完成させた。この作品は3月に「WAIFF ソウル 2026」でAI脚本賞を受賞し、7月には第30回富川国際ファンタスティック映画祭に公式招待された。"
-              },
-              {
-                "t": "p",
-                "x": "イ・スンムATラボ所長は、企画段階から生成AIを活用した「100% AIネイティブ作品」だと説明した。AI映画専門の国際舞台で作品を披露することに意義があるとした。"
-              },
-              {
-                "t": "p",
-                "x": "ATラボは仮想現実やバーチャルプロダクションなどの技術を組み合わせた融合芸術の創作を研究している。文化体育観光部と韓国コンテンツ振興院が支援するグローバル文化技術専門人材育成事業にも参加している。"
+                "x": "KBSのAIベースの自動映像フレーミングソリューション『バーティゴ』は、『ミュージックバンク』で出演者1人あたり約15分かかっていた編集時間を2〜3分に短縮した。MBCは地方選挙の開票放送のカウントダウン映像を、撮影なしで放送アーカイブと生成AIだけで制作した。MBCのクォン・ソグォンAI戦略チーム長は「AI導入の目標は人員を減らすことではなく」、構成員が創造的な業務に集中できる構造をつくることだと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国艺术综合学校AI动画\n入围日本AI电影节决赛",
-          "body": "AT实验室《Ticket to Neverland》从730余部作品中跻身21部决赛片。",
-          "mini_headline": "韩国艺综AI动画入围日本决赛",
+          "headline": "3分钟动作戏省下2亿\nAI改变广播电视制作",
+          "body": "生成式AI已用于动作戏与CG制作，一段3分钟动作戏节省了2亿韩元。",
+          "mini_headline": "AI省下2亿",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "韩国艺术综合学校AT实验室制作的动画《Ticket to Neverland》剧照(韩国艺术综合学校提供)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "由韩国艺术综合学校融合艺术中心艺术与技术实验室(AT实验室)制作的3D动画《Ticket to Neverland》入围日本国际AI电影节竞赛单元最终候选。该片以生成式人工智能(AI)作为创作工具。"
+                "x": "人工智能（AI）技术已成为广播电视行业的新动力。过去仅限于生成字幕、语音转文字等用途的AI应用，在生成式AI出现后已扩展到从策划到视频制作、观众数据分析等领域。"
               },
               {
                 "t": "p",
-                "x": "第2届“AI电影节日本2026”将于10月31日至11月2日在日本东京举行。来自全球60多个国家的730余部作品参赛,其中68部入选官方作品,21部入围竞赛决赛。《Ticket to Neverland》入选AI动画单元决赛名单。最终获奖作品将在11月1日的颁奖典礼上公布。"
+                "x": "SBS AI合作团队负责人李相镇表示：“金部长过去潜入朝鲜的场景，原本预计实拍要花费数亿韩元，借助AI节省了约2亿韩元。”在桥上爆炸的场景中，车辆用CG呈现，冲天的火焰则由生成式AI实现。EBS推出了《AI剧-复活课堂》等作品，KBS大型历史剧《文武》也将呈现用生成式AI打造的历史空间和大规模战斗场面。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "基于AI的“Vertigo PTZ”/图片由KBS提供"
               },
               {
                 "t": "p",
-                "x": "该片为黑色喜剧,描绘了这样的真人秀:谁讲出最悲惨的故事,谁就能获得前往永恒安息之地“梦幻岛”的车票。童话人物们各自讲述自己的悲剧,彼此竞争。"
-              },
-              {
-                "t": "p",
-                "x": "该片由韩国艺术综合学校影像院电影系学生Heo Min、Son Min-ho与戏剧院剧作系学生Kim Han-in共同制作。三人在产学合作项目课程“AI电影/动画制作”中完成了这部作品。该片于3月在“WAIFF Seoul 2026”上获得AI剧本奖,7月获邀参加第30届富川国际奇幻电影节。"
-              },
-              {
-                "t": "p",
-                "x": "AT实验室负责人Lee Seung-mu表示,这是从策划阶段就运用生成式AI的“100% AI原生作品”,并称能在AI电影专业国际舞台上展示作品意义重大。"
-              },
-              {
-                "t": "p",
-                "x": "AT实验室致力于研究结合虚拟现实与虚拟制作等技术的融合艺术创作,还参与了由文化体育观光部和韩国文化产业振兴院支持的全球文化技术专业人才培养项目。"
+                "x": "KBS基于AI的自动视频取景解决方案“Vertigo”，将《音乐银行》中每位出演者约15分钟的剪辑时间缩短至2~3分钟。MBC未进行任何拍摄，仅用广播档案和生成式AI就制作了地方选举开票直播的倒计时视频。MBC AI战略团队负责人权锡源强调，“引进AI的目标不是减少人力”，而是建立让成员专注于创造性工作的结构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Animación AI de K-Arts llega a\nla final de cine AI en Japón",
-          "body": "'Ticket to Neverland', del AT Lab de K-Arts, quedó entre los 21 finalistas de más de 730 obras.",
-          "mini_headline": "Animación AI de K-Arts, finalista en Japón",
+          "headline": "La IA ahorra 200 millones en\n3 minutos de acción televisiva",
+          "body": "La IA generativa ya se usa en escenas de acción y CG, y ahorró 200 millones de wones en una escena de 3 minutos.",
+          "mini_headline": "La IA ahorra 200 millones",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "Escena de 'Ticket to Neverland', animación producida por el AT Lab de K-Arts (cortesía de la Universidad Nacional de Artes de Corea)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "'Ticket to Neverland', animación 3D producida por el Art & Technology Lab (AT Lab) del Centro de Artes de Convergencia de la Universidad Nacional de Artes de Corea (K-Arts), quedó entre los candidatos finales de la sección competitiva de un festival internacional de cine AI en Japón. Es una obra que usa la inteligencia artificial (AI) generativa como herramienta creativa."
+                "x": "La tecnología de inteligencia artificial (IA) se ha convertido en un nuevo motor para la industria de la televisión. Su uso, antes limitado a generar subtítulos o convertir voz en texto, se ha ampliado desde la llegada de la IA generativa a todo el proceso, desde la planificación hasta la producción de video y el análisis de datos de audiencia."
               },
               {
                 "t": "p",
-                "x": "La 2.ª edición de 'AI Film Festival Japan 2026' se celebra en Tokio, Japón, del 31 de octubre al 2 de noviembre. Se presentaron más de 730 obras de más de 60 países, de las que se eligieron 68 selecciones oficiales y 21 finalistas a competición. 'Ticket to Neverland' fue seleccionada como finalista en la categoría de animación AI. Los ganadores se anunciarán en la ceremonia de premios del 1 de noviembre."
+                "x": "Lee Sang-jin, jefe del equipo de alianzas de IA de SBS, explicó: “Se esperaba que la escena de la infiltración pasada de Kim Bu-jang en Corea del Norte costara cientos de millones de wones en rodaje real, pero gracias a la IA pudimos ahorrar unos 200 millones de wones”. En la escena de la explosión sobre un puente, los vehículos se hicieron con CG y las llamas con IA generativa. EBS presentó títulos como ‘AI Drama - Clase de resurrección’, y el drama histórico de KBS ‘Munmu’ también mostrará espacios históricos y grandes batallas creados con IA generativa."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "‘Vertigo PTZ’, basado en IA / Foto: cortesía de KBS"
               },
               {
                 "t": "p",
-                "x": "La obra es una comedia negra sobre un reality show que entrega a quien cuente la historia más desdichada un billete a 'Neverland', un refugio eterno. Los personajes de cuentos de hadas compiten relatando sus propias tragedias."
-              },
-              {
-                "t": "p",
-                "x": "La coprodujeron Heo Min y Son Min-ho, estudiantes del Departamento de Cine de la Escuela de Cine de K-Arts, y Kim Han-in, estudiante del Departamento de Dramaturgia de la Escuela de Teatro. Los tres completaron la obra en la clase 'AI Film/Animation Making', un proyecto de cooperación entre universidad e industria. En marzo, la obra ganó el premio al guion AI en 'WAIFF Seoul 2026', y en julio fue invitada oficialmente al 30.º Festival Internacional de Cine Fantástico de Bucheon."
-              },
-              {
-                "t": "p",
-                "x": "Lee Seung-mu, director del AT Lab, explicó que es una 'obra 100% AI nativa' que usó AI generativa desde la fase de planificación, y destacó el valor de presentarla en un escenario internacional dedicado al cine AI."
-              },
-              {
-                "t": "p",
-                "x": "El AT Lab investiga la creación de arte de convergencia que combina tecnologías como la realidad virtual y la producción virtual. También participa en un programa de formación de talento global en tecnología cultural apoyado por el Ministerio de Cultura, Deportes y Turismo y la Agencia de Contenidos Creativos de Corea."
+                "x": "‘Vertigo’, la solución de encuadre automático de video basada en IA de KBS, redujo en ‘Music Bank’ el tiempo de edición de unos 15 minutos por intérprete a 2-3 minutos. MBC creó el video de cuenta regresiva de su transmisión de resultados de las elecciones locales sin rodar nada, solo con su archivo de emisiones e IA generativa. Kwon Seok-won, jefe del equipo de estrategia de IA de MBC, subrayó que “el objetivo de adoptar la IA no es reducir personal”, sino crear una estructura en la que el equipo pueda centrarse en el trabajo creativo."
               }
             ]
           }
@@ -1545,157 +1413,129 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "K-Arts AI animation heads to\nJapan AI film festival finals",
-          "body": "K-Arts AT Lab's 'Ticket to Neverland' made the final 21 out of more than 730 entries.",
-          "mini_headline": "K-Arts AI animation in Japan finals",
+          "headline": "AI saves ₩200 million on\na 3-minute TV action scene",
+          "body": "Generative AI now handles action scenes and CG, saving ₩200 million on a 3-minute action scene.",
+          "mini_headline": "AI saves ₩200 million",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "A scene from 'Ticket to Neverland', an animation produced by K-Arts AT Lab (provided by Korea National University of Arts)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "'Ticket to Neverland', a 3D animation produced by the Art & Technology Lab (AT Lab) at the Korea National University of Arts' Convergence Arts Center, has been named a final nominee in the competition section of an international AI film festival in Japan. The work uses generative artificial intelligence (AI) as a creative tool."
+                "x": "Artificial intelligence (AI) has emerged as a new driving force in broadcasting. AI use, once limited to generating subtitles and converting speech to text, has expanded since the arrival of generative AI to cover everything from planning to video production and viewer data analysis."
               },
               {
                 "t": "p",
-                "x": "The 2nd 'AI Film Festival Japan 2026' runs in Tokyo, Japan, from October 31 to November 2. More than 730 works were submitted from over 60 countries, from which 68 official selections and 21 competition finalists were chosen. 'Ticket to Neverland' was selected as a finalist in the AI animation category. The final winners will be announced at the awards ceremony on November 1."
+                "x": "Lee Sang-jin, head of the AI Partnership Team at SBS, said: “Kim Bu-jang’s past infiltration scene in North Korea was expected to cost hundreds of millions of won to shoot live, but using AI we were able to save about ₩200 million.” In an explosion scene on a bridge, the vehicles were made with CG and the rising flames with generative AI. EBS has released works such as ‘AI Drama - Resurrection Class,’ and KBS’s historical epic ‘Munmu’ will also show historical settings and large-scale battle scenes made with generative AI."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "AI-based ‘Vertigo PTZ’ / Photo courtesy of KBS"
               },
               {
                 "t": "p",
-                "x": "The work is a black comedy about a reality show that gives a ticket to 'Neverland', an eternal place of rest, to whoever tells the most miserable story. Fairy-tale characters compete by each explaining their own tragedy."
-              },
-              {
-                "t": "p",
-                "x": "It was co-produced by Heo Min and Son Min-ho, students in the Department of Filmmaking at the K-Arts School of Film, and Kim Han-in, a student in the Department of Playwriting at the School of Drama. The three completed the work in 'AI Film/Animation Making', a class run as an industry-academia cooperation project. In March, the work won the AI screenplay award at 'WAIFF Seoul 2026'. In July, it was officially invited to the 30th Bucheon International Fantastic Film Festival."
-              },
-              {
-                "t": "p",
-                "x": "Lee Seung-mu, head of AT Lab, described it as a '100% AI-native work' that used generative AI from the planning stage. He said it was meaningful to present the work on an international stage dedicated to AI film."
-              },
-              {
-                "t": "p",
-                "x": "AT Lab researches convergence art creation that combines technologies such as virtual reality and virtual production. It also takes part in a global culture-technology talent training program supported by the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency."
+                "x": "KBS’s AI-based automatic video framing solution ‘Vertigo’ cut editing time on ‘Music Bank’ from about 15 minutes per performer to 2–3 minutes. MBC made the countdown video for its local election results broadcast with only its broadcast archive and generative AI, without any filming. Kwon Seok-won, head of MBC’s AI Strategy Team, stressed that “the goal of adopting AI is not to cut staff” but to build a structure in which members can focus on creative work."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国芸術総合学校のAIアニメ\n日本のAI映画祭で決選へ",
-          "body": "ATラボの『チケット・トゥ・ネバーランド』が730本余りから決選21本に残った。",
-          "mini_headline": "韓芸綜AIアニメ、日本の映画祭決選へ",
+          "headline": "3分のアクションで2億削減\nAIが変える放送制作",
+          "body": "生成AIがアクションやCG制作に使われ、3分のアクションシーンで2億ウォンを削減した。",
+          "mini_headline": "AIで2億削減",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "韓国芸術総合学校ATラボ制作のアニメ『チケット・トゥ・ネバーランド』の場面(韓国芸術総合学校提供)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "韓国芸術総合学校融合芸術センターのアート&テクノロジーラボ(ATラボ)が制作した3Dアニメーション『チケット・トゥ・ネバーランド』が、日本の国際AI映画祭のコンペティション部門で最終候補に選ばれた。生成人工知能(AI)を創作ツールとして活用した作品だ。"
+                "x": "人工知能（AI）技術が放送業界の新たな原動力として浮上した。かつて字幕生成や音声の文字変換などにとどまっていたAIの活用は、生成AIの登場以降、企画から映像制作、視聴者データ分析にまで広がった。"
               },
               {
                 "t": "p",
-                "x": "第2回「AIフィルムフェスティバル・ジャパン2026」は10月31日から11月2日まで日本・東京で開かれる。世界60余りの国から730本余りが出品され、公式選出作68本、コンペティションのファイナリスト21本が選ばれた。『チケット・トゥ・ネバーランド』はAIアニメーション部門のファイナリストに選出された。最終受賞作は11月1日の授賞式で発表される。"
+                "x": "SBSのイ・サンジンAIパートナーシップチーム長は「キム部長の過去の北朝鮮潜入シーンは実写撮影に数億ウォンかかると見込まれていたが、AIを活用して約2億ウォンを削減できた」と語った。橋の上の爆破シーンでは車両をCGで、立ち上る炎を生成AIで表現した。EBSは『AIドラマ-復活授業』などを披露し、KBSの大河時代劇『文武』も生成AIで作った歴史的空間と大規模な戦闘シーンを見せる。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "AIベースの『バーティゴPTZ』/写真=KBS提供"
               },
               {
                 "t": "p",
-                "x": "作品は、最も悲惨な身の上話を語った者に永遠の安息の地「ネバーランド」行きの切符を与えるリアリティーショーを描いたブラックコメディーだ。童話の登場人物たちがそれぞれ自らの悲劇を語りながら競い合う。"
-              },
-              {
-                "t": "p",
-                "x": "韓国芸術総合学校映像院映画科の学生ホ・ミン、ソン・ミンホと、演劇院劇作科の学生キム・ハンインが共同制作した。三人は産学協力プロジェクトの授業「AIフィルム/アニメーションメイキング」で作品を完成させた。この作品は3月に「WAIFF ソウル 2026」でAI脚本賞を受賞し、7月には第30回富川国際ファンタスティック映画祭に公式招待された。"
-              },
-              {
-                "t": "p",
-                "x": "イ・スンムATラボ所長は、企画段階から生成AIを活用した「100% AIネイティブ作品」だと説明した。AI映画専門の国際舞台で作品を披露することに意義があるとした。"
-              },
-              {
-                "t": "p",
-                "x": "ATラボは仮想現実やバーチャルプロダクションなどの技術を組み合わせた融合芸術の創作を研究している。文化体育観光部と韓国コンテンツ振興院が支援するグローバル文化技術専門人材育成事業にも参加している。"
+                "x": "KBSのAIベースの自動映像フレーミングソリューション『バーティゴ』は、『ミュージックバンク』で出演者1人あたり約15分かかっていた編集時間を2〜3分に短縮した。MBCは地方選挙の開票放送のカウントダウン映像を、撮影なしで放送アーカイブと生成AIだけで制作した。MBCのクォン・ソグォンAI戦略チーム長は「AI導入の目標は人員を減らすことではなく」、構成員が創造的な業務に集中できる構造をつくることだと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国艺术综合学校AI动画\n入围日本AI电影节决赛",
-          "body": "AT实验室《Ticket to Neverland》从730余部作品中跻身21部决赛片。",
-          "mini_headline": "韩国艺综AI动画入围日本决赛",
+          "headline": "3分钟动作戏省下2亿\nAI改变广播电视制作",
+          "body": "生成式AI已用于动作戏与CG制作，一段3分钟动作戏节省了2亿韩元。",
+          "mini_headline": "AI省下2亿",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "韩国艺术综合学校AT实验室制作的动画《Ticket to Neverland》剧照(韩国艺术综合学校提供)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "由韩国艺术综合学校融合艺术中心艺术与技术实验室(AT实验室)制作的3D动画《Ticket to Neverland》入围日本国际AI电影节竞赛单元最终候选。该片以生成式人工智能(AI)作为创作工具。"
+                "x": "人工智能（AI）技术已成为广播电视行业的新动力。过去仅限于生成字幕、语音转文字等用途的AI应用，在生成式AI出现后已扩展到从策划到视频制作、观众数据分析等领域。"
               },
               {
                 "t": "p",
-                "x": "第2届“AI电影节日本2026”将于10月31日至11月2日在日本东京举行。来自全球60多个国家的730余部作品参赛,其中68部入选官方作品,21部入围竞赛决赛。《Ticket to Neverland》入选AI动画单元决赛名单。最终获奖作品将在11月1日的颁奖典礼上公布。"
+                "x": "SBS AI合作团队负责人李相镇表示：“金部长过去潜入朝鲜的场景，原本预计实拍要花费数亿韩元，借助AI节省了约2亿韩元。”在桥上爆炸的场景中，车辆用CG呈现，冲天的火焰则由生成式AI实现。EBS推出了《AI剧-复活课堂》等作品，KBS大型历史剧《文武》也将呈现用生成式AI打造的历史空间和大规模战斗场面。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "基于AI的“Vertigo PTZ”/图片由KBS提供"
               },
               {
                 "t": "p",
-                "x": "该片为黑色喜剧,描绘了这样的真人秀:谁讲出最悲惨的故事,谁就能获得前往永恒安息之地“梦幻岛”的车票。童话人物们各自讲述自己的悲剧,彼此竞争。"
-              },
-              {
-                "t": "p",
-                "x": "该片由韩国艺术综合学校影像院电影系学生Heo Min、Son Min-ho与戏剧院剧作系学生Kim Han-in共同制作。三人在产学合作项目课程“AI电影/动画制作”中完成了这部作品。该片于3月在“WAIFF Seoul 2026”上获得AI剧本奖,7月获邀参加第30届富川国际奇幻电影节。"
-              },
-              {
-                "t": "p",
-                "x": "AT实验室负责人Lee Seung-mu表示,这是从策划阶段就运用生成式AI的“100% AI原生作品”,并称能在AI电影专业国际舞台上展示作品意义重大。"
-              },
-              {
-                "t": "p",
-                "x": "AT实验室致力于研究结合虚拟现实与虚拟制作等技术的融合艺术创作,还参与了由文化体育观光部和韩国文化产业振兴院支持的全球文化技术专业人才培养项目。"
+                "x": "KBS基于AI的自动视频取景解决方案“Vertigo”，将《音乐银行》中每位出演者约15分钟的剪辑时间缩短至2~3分钟。MBC未进行任何拍摄，仅用广播档案和生成式AI就制作了地方选举开票直播的倒计时视频。MBC AI战略团队负责人权锡源强调，“引进AI的目标不是减少人力”，而是建立让成员专注于创造性工作的结构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Animación AI de K-Arts llega a\nla final de cine AI en Japón",
-          "body": "'Ticket to Neverland', del AT Lab de K-Arts, quedó entre los 21 finalistas de más de 730 obras.",
-          "mini_headline": "Animación AI de K-Arts, finalista en Japón",
+          "headline": "La IA ahorra 200 millones en\n3 minutos de acción televisiva",
+          "body": "La IA generativa ya se usa en escenas de acción y CG, y ahorró 200 millones de wones en una escena de 3 minutos.",
+          "mini_headline": "La IA ahorra 200 millones",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/28/8184714/high.jpg",
-                "cap": "Escena de 'Ticket to Neverland', animación producida por el AT Lab de K-Arts (cortesía de la Universidad Nacional de Artes de Corea)"
+                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+                "cap": "MBC"
               },
               {
                 "t": "p",
-                "x": "'Ticket to Neverland', animación 3D producida por el Art & Technology Lab (AT Lab) del Centro de Artes de Convergencia de la Universidad Nacional de Artes de Corea (K-Arts), quedó entre los candidatos finales de la sección competitiva de un festival internacional de cine AI en Japón. Es una obra que usa la inteligencia artificial (AI) generativa como herramienta creativa."
+                "x": "La tecnología de inteligencia artificial (IA) se ha convertido en un nuevo motor para la industria de la televisión. Su uso, antes limitado a generar subtítulos o convertir voz en texto, se ha ampliado desde la llegada de la IA generativa a todo el proceso, desde la planificación hasta la producción de video y el análisis de datos de audiencia."
               },
               {
                 "t": "p",
-                "x": "La 2.ª edición de 'AI Film Festival Japan 2026' se celebra en Tokio, Japón, del 31 de octubre al 2 de noviembre. Se presentaron más de 730 obras de más de 60 países, de las que se eligieron 68 selecciones oficiales y 21 finalistas a competición. 'Ticket to Neverland' fue seleccionada como finalista en la categoría de animación AI. Los ganadores se anunciarán en la ceremonia de premios del 1 de noviembre."
+                "x": "Lee Sang-jin, jefe del equipo de alianzas de IA de SBS, explicó: “Se esperaba que la escena de la infiltración pasada de Kim Bu-jang en Corea del Norte costara cientos de millones de wones en rodaje real, pero gracias a la IA pudimos ahorrar unos 200 millones de wones”. En la escena de la explosión sobre un puente, los vehículos se hicieron con CG y las llamas con IA generativa. EBS presentó títulos como ‘AI Drama - Clase de resurrección’, y el drama histórico de KBS ‘Munmu’ también mostrará espacios históricos y grandes batallas creados con IA generativa."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+                "cap": "‘Vertigo PTZ’, basado en IA / Foto: cortesía de KBS"
               },
               {
                 "t": "p",
-                "x": "La obra es una comedia negra sobre un reality show que entrega a quien cuente la historia más desdichada un billete a 'Neverland', un refugio eterno. Los personajes de cuentos de hadas compiten relatando sus propias tragedias."
-              },
-              {
-                "t": "p",
-                "x": "La coprodujeron Heo Min y Son Min-ho, estudiantes del Departamento de Cine de la Escuela de Cine de K-Arts, y Kim Han-in, estudiante del Departamento de Dramaturgia de la Escuela de Teatro. Los tres completaron la obra en la clase 'AI Film/Animation Making', un proyecto de cooperación entre universidad e industria. En marzo, la obra ganó el premio al guion AI en 'WAIFF Seoul 2026', y en julio fue invitada oficialmente al 30.º Festival Internacional de Cine Fantástico de Bucheon."
-              },
-              {
-                "t": "p",
-                "x": "Lee Seung-mu, director del AT Lab, explicó que es una 'obra 100% AI nativa' que usó AI generativa desde la fase de planificación, y destacó el valor de presentarla en un escenario internacional dedicado al cine AI."
-              },
-              {
-                "t": "p",
-                "x": "El AT Lab investiga la creación de arte de convergencia que combina tecnologías como la realidad virtual y la producción virtual. También participa en un programa de formación de talento global en tecnología cultural apoyado por el Ministerio de Cultura, Deportes y Turismo y la Agencia de Contenidos Creativos de Corea."
+                "x": "‘Vertigo’, la solución de encuadre automático de video basada en IA de KBS, redujo en ‘Music Bank’ el tiempo de edición de unos 15 minutos por intérprete a 2-3 minutos. MBC creó el video de cuenta regresiva de su transmisión de resultados de las elecciones locales sin rodar nada, solo con su archivo de emisiones e IA generativa. Kwon Seok-won, jefe del equipo de estrategia de IA de MBC, subrayó que “el objetivo de adoptar la IA no es reducir personal”, sino crear una estructura en la que el equipo pueda centrarse en el trabajo creativo."
               }
             ]
           }

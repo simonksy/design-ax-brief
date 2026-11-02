@@ -14313,6 +14313,129 @@
           "x": "Draft 모드에서는 최종 4K 버전을 뽑기 전에 비용이 덜 드는 480p 미리보기로 샷을 시험하고 스토리보드를 다듬는다. 10-bit 색상도 지원하며, 레퍼런스 자료를 쓰거나 기존 영상을 편집할 때도 화질과 색, 세밀한 디테일이 유지되도록 설계됐다. 중국과 해외의 영화 제작사·후반 작업사 일부는 이미 테스트에 들어갔다. [IT Home, in Chinese]"
         }
       ]
+    },
+    "movies/voicemod-disney-soundboards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
+          "cap": "©Walt Disney Co./Everett Collection 제공"
+        },
+        {
+          "t": "p",
+          "x": "Voicemod는 목소리의 톤과 소리를 바꾸고 효과음을 넣을 수 있는 AI 기반(AI-powered) 음성 변조 플랫폼이다. 여기에 Star Wars와 Marvel 작품의 사운드보드가 들어오면서 월간 활성 사용자 570만 명이 Twitch, Discord 같은 플랫폼에서 해당 작품의 대사와 효과음을 쓸 수 있게 된다. 첫 Star Wars 사운드보드는 “The Mandalorian & Grogu”로 금요일부터 이용할 수 있고 다른 사운드보드도 뒤따른다."
+        },
+        {
+          "t": "p",
+          "x": "아직 자기 목소리를 캐릭터처럼 바꾸는 기능은 아닌 듯하고, 도구는 “사운드 밈”에 가깝다. 그래도 Disney가 AI 관련(AI-related) 기업에 IP 라이선스를 내줬다는 건 엔터테인먼트 기업들이 자사 지식재산을 인공지능과 엮는 데 갈수록 적극적이라는 방증이다."
+        },
+        {
+          "t": "p",
+          "x": "이번 계약은 Disney가 지난해 단명으로 끝난 10억 달러 투자 계약의 일환으로 OpenAI의 Sora에 캐릭터 라이선스를 내준 데 이은 것이다. Hasbro가 자사 캐릭터 여럿의 목소리를 ElevenLabs에 라이선스한 뒤이기도 하다. Voicemod 창업자 겸 CEO Jaime Bosch는 “이 사운드보드는 사용자가 Marvel과 Star Wars의 소리를 그런 순간에 가져올 수 있게 해 그 상호작용을 한층 넓힌다”고 말했다."
+        }
+      ]
+    },
+    "movies/libatique-ai-vfx-actors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
+          "cap": "Evolution Mallorca 제공"
+        },
+        {
+          "t": "p",
+          "x": "오스카 후보에 세 차례 오른 촬영감독 Matthew Libatique는 Darren Aronofsky의 차기작을 앞두고 이 기술을 “시험”하는 중이다. Aronofsky는 Google DeepMind와 함께 AI 스튜디오 Primordial Soup을 세웠다. 그는 “곧 테스트를 한다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 AI가 “영화를 대체하지는 못할 것이다. 대체할 수 있는 건 Marvel이다”라고 말한다. 대작을 만드는 스튜디오들이 시각효과에서 “AI로 비용 일부를 줄일 것”이라는 얘기다. 그렇다고 Marvel이 “AI 배우를 쓸 일은 없을 것”이라고 그는 내다본다. “Robert Pattinson이 하는 걸 해낼 AI 캐릭터를 만들겠다는 말은 믿을 수 없다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
+          "cap": "“아이언맨”, Marvel 제공"
+        },
+        {
+          "t": "p",
+          "x": "후반 작업에서 눈부심 보정 같은 데 AI를 써 봤지만 “분명히 일감 일부를 가져갔다”고 그는 인정한다. Dustin Yellin의 AI 단편 “Goodbye Lamby” 때는 프롬프터가 먼저 실제 공간에 조명을 쳐 달라고 그에게 부탁했다. “Matthew Libatique 스타일로” 만든 AI 영상은 “정말 불쾌하다”며 그는 이렇게 덧붙였다. “AI로 만든 것 중에 정말 감탄한 건 아직 하나도 못 봤다.”"
+        }
+      ]
+    },
+    "movies/curiousrefuge-ai-relighting": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "19ngvIWpK_U"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge가 이 영상에서 촬영을 마친 뒤 영화 조명을 다시 입히는 새 워크플로를 공유한다. 세트에 돌아가지 않고도 낮의 사무실을 늦은 밤 작업 공간으로 바꾸는 식이다."
+        },
+        {
+          "t": "p",
+          "x": "절차는 이렇다. 스틸 프레임을 뽑고 조명 레퍼런스를 고른 다음 이미지 편집기(Nano Banana 2.1 또는 GPT Image 2.5 권장)에 “이미지 1의 조명과 시간대를 밤으로 바꿔라. 이미지 2를 조명과 스타일 레퍼런스로 사용하라” 같은 프롬프트를 넣어 스틸 조명을 바꾼다. 그다음 원본 클립과 새 조명을 입힌 프레임을 영상 모델에 함께 올린다. 편집한 이미지는 목표 조명을, 원본 영상은 연기와 움직임을 맡는다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
+          "cap": "새 조명을 입힌 첫 프레임"
+        },
+        {
+          "t": "p",
+          "x": "결과는 기대할 만했지만 한계도 있었다. 사무실 테스트에서는 노출이 들쭉날쭉하고 사선 밴딩이 눈에 띄었으며 출력 해상도도 4K 원본보다 낮았다. 영화에 쓰려면 먼저 클립 전체에서 아티팩트를 확인해야 한다."
+        }
+      ]
+    },
+    "movies/news1-broadcast-ai-action": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
+          "cap": "MBC"
+        },
+        {
+          "t": "p",
+          "x": "인공지능(AI) 기술이 방송가의 새로운 동력으로 떠올랐다. 과거 자막 생성, 음성의 문자 변환 등에 그쳤던 AI 활용은 생성형 AI 등장 이후 기획부터 영상 제작, 시청자 데이터 분석 등으로 확대됐다."
+        },
+        {
+          "t": "p",
+          "x": "이상진 SBS AI파트너십팀장은 \"김부장의 과거 북한 침투 장면은 실사 촬영에 수억 원이 들 것으로 예상됐는데, AI를 활용해 약 2억 원을 절감할 수 있었다\"고 전했다. 다리 위 폭파 장면에서는 차량을 CG로, 치솟는 불길을 생성형 AI로 구현했다. EBS는 'AI드라마-부활수업' 등을 선보였고, KBS 대하사극 '문무'도 생성형 AI로 만든 역사적 공간과 대규모 전투신을 선보인다."
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
+          "cap": "AI 기반 '버티고 PTZ'/사진=KBS 제공"
+        },
+        {
+          "t": "p",
+          "x": "KBS의 AI 기반 자동 영상 프레이밍 솔루션 '버티고'는 '뮤직뱅크'에서 출연자 한 명당 약 15분이 걸리던 편집 시간을 2~3분으로 줄였다. MBC는 지방선거 개표방송 카운트다운 영상을 촬영 없이 방송 아카이브와 생성형 AI만으로 만들었다. 권석원 MBC AI전략팀장은 \"AI 도입의 목표는 인력을 줄이는 것이 아니라\" 구성원이 창의적인 업무에 집중하는 구조를 만드는 것이라고 강조했다."
+        }
+      ]
+    },
+    "movies/beta-builder-aion-hybrid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
+          "cap": "Mayur More와 Ashlesha Thakur"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE(단독): Mayur More와 Ashlesha Thakur가 인도(India) Abundantia Entertainment와 영상 기술 기업 InVideo가 손잡고 만드는 첫 AI-driven 장편영화에 출연한다. Beta Builder 연출은 InVideo의 Global Creative Lead인 Hridaye A. Nagpal이 맡았고, 주요 촬영은 오늘 Mumbai에서 시작한다."
+        },
+        {
+          "t": "p",
+          "x": "Abundantia는 “human-first and AI-empowered(인간이 먼저, AI로 힘을 얻는)”를 내건 Abundantia AiOn 부문에서 제작한다. 지난해 InVideo와 함께 세 해 동안 AI-powered 영화 다섯 편을 내놓는 라인업을 꾸렸고 ₹100 crore($10.5M)를 약정했다."
+        },
+        {
+          "t": "p",
+          "x": "Dharavi 출신의 독학 천재 건축가 Jai가 가상현실 세계에서 꿈을 이룰 기회를 얻는 이야기다. 제작진은 “본격적인 live-action 촬영과 AI-driven 제작을 결합한” 하이브리드 방식을 내세운다."
+        },
+        {
+          "t": "p",
+          "x": "“AI-assisted 영화 제작 덕분에 이야기꾼은 훨씬 큰 꿈을 꿀 수 있고, 대담한 아이디어를 밀어주는 일도 마침내 가능하다고 느낀다”고 Nagpal은 말했다. “Beta Builder는 live-action 촬영과 AI가 나란히 일하는 그 미래에 거는 우리의 승부다.” U.S.-based 기업으로 인도(India)에 사무소를 둔 InVideo는 사용자 50 million 명 이상을 확보한 중립적(agnostic) AI 영화 제작 플랫폼이라고 스스로 소개한다."
+        }
+      ]
     }
   }
 }

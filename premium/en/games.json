@@ -9571,6 +9571,135 @@
           "x": "On the AI flood during last week's Next Fest, which had twice the number of demos as the previous event, Wilkinson said demos are shown at random for the first couple of days before curation begins, and that many complaint articles were based on those first two days. He added: \"We are fully aware of the situation, and a significant number of people are thinking about how to solve this problem.\""
         }
       ]
+    },
+    "games/itchio-page-surge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "Gaming storefronts are flooded with new games as more developers use generative AI, making it harder than ever for indie devs with hand-crafted games to stand out."
+        },
+        {
+          "t": "p",
+          "x": "Late on Oct. 31, itch.io took to Bluesky to reveal that the number of game pages being created each day has doubled since Aug. 2026. According to the graph shared, the number of pages created per day was around 3,000 back then; now, that number is over 6,000 as of Oct. 30. Other replies from itch.io indicate that AI projects make up the majority of these new pages too."
+        },
+        {
+          "t": "p",
+          "x": "More listings aren't bringing more players: itch.io confirmed in another reply that \"The number of downloads and purchases has not doubled\" since Aug. 2026."
+        },
+        {
+          "t": "p",
+          "x": "An influx of new releases, many likely created with generative AI, floods the platforms indie developers need visibility on without bringing audience growth. Steam is equally crammed, with many Steam Next Fest demos drowned out or stolen by AI-made competition. Itch.io already asks developers to disclose AI usage."
+        }
+      ]
+    },
+    "games/ramen-aura-autopilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ramen, developer of the multi-agent AI assistant for Unity and Unreal Engine, has launched Aura Autopilot, an open source game playtesting agent that improves itself the more it plays, alongside a whitepaper covering benchmark results and high-level architecture."
+        },
+        {
+          "t": "p",
+          "x": "“Aura Autopilot plays any game in real time and learns as it goes, getting better the more it plays,” said Andy Tsen, CEO and co-founder at Ramen. “That opens a new frontier for game QA, and we’re open sourcing it so developers and researchers can take it further.”"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+        },
+        {
+          "t": "p",
+          "x": "In early testing it played shooters, action RPGs, mobile games, survival crafting games, turn-based JRPGs and realtime strategy games in real time. It plans toward long-term goals and stays steerable, so developers can point it at the exact system they want tested. Paired with Aura, Aura builds a gameplay feature end to end and Autopilot playtests it."
+        },
+        {
+          "t": "p",
+          "x": "Per the whitepaper, it runs 3x faster than Aura’s Verification Agent at a lower cost, and runs in Unreal Engine, Unity and Godot with Claude Code, Codex or BYOK. The project is live on GitHub."
+        }
+      ]
+    },
+    "games/krafton-llm-gateway": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lim Kyung-young, head of AI transformation at Krafton, said at 'Games on AWS 2026' on the 27th that \"we unified usage paths and improved our cost management system with an in-house LLM gateway,\" adding that \"as a result, September API costs fell about 37% from the previous month.\""
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Krafton declared an 'AI First' strategy in October last year and has supported employees with more than 12 enterprise AI tools and personal subscription fees. As a result, token usage in July–August rose 27-fold compared with January this year, and related costs rose more than 20-fold. \"We couldn't see which organizations were using the most AI tokens and spending the most,\" Lim explained, adding that \"it was also impossible to forecast costs.\""
+        },
+        {
+          "t": "p",
+          "x": "The LLM gateway is a system that unifies the paths for using multiple AI models into one and manages usage and costs by individual, organization and model; it currently provides more than 98 AI models internally. Each employee is assigned a monthly AI usage limit of $1000, with per-tool limits adjusted as needed or additional approval required. \"We did not block AI use itself,\" Lim stressed. \"In fact, AI usage did not decrease in October either.\""
+        },
+        {
+          "t": "p",
+          "x": "Krafton plans to refine its cost management by organization and research technology that automatically selects the AI model best suited to a task, and in 2027 it intends to make permissions and approval systems for 'AI agents' a key priority."
+        }
+      ]
+    },
+    "games/arrowhead-ai-parody": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. It wouldn't be a Helldivers project, and it would need to be relatively upbeat."
+        },
+        {
+          "t": "p",
+          "x": "\"AI has been worth parodying since the ‘80s, and I can absolutely see a game where you’re stuck in a world with an AI overlord that’s basically a deity,\" Pilestedt said. \"But the Automatons already cover our robot enemy needs in Helldivers 2, so if we went there, it would be a new title, and we’d want to frame it in a quirky, fun way rather than a doom-laden one.\""
+        },
+        {
+          "t": "p",
+          "x": "Helldivers 2's Automatons aren't a commentary on generative AI; they're broadly a spoof of Soviet Russia, if it had been populated by Terminators."
+        },
+        {
+          "t": "p",
+          "x": "Arrowhead appear open to using the technology within limits. CEO Shams Jorjani told The Game Business that AI debates end up \"on both ends of the spectrum\" and asked, \"Maybe could it be that reality is somewhere in the middle?\" He also stressed that \"we need to make sure that we're not stealing people's intellectual property and rights\"."
+        }
+      ]
+    },
+    "games/games-atelico-ondevice-engine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_SandsArena.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Studio Atelico, a game studio building AI-native games and the tech behind them, opened early access to the Atelico AI Engine, which lets developers run language models, image generation, semantic search, speech systems and AI-powered character behaviors entirely on player's devices, inside the game process and alongside the renderer. It already powers the studio's debut creature-battler Bobium Brawlers, where players describe a character in plain language and get a portrait and playable deck generated on their phone."
+        },
+        {
+          "t": "video",
+          "yt": "xLwBBlMYokg"
+        },
+        {
+          "t": "p",
+          "x": "The engine integrates natively with Unity, Unreal Engine and Godot and runs across Windows, macOS, iOS and Linux, on GPU or CPU. Its proprietary Compute Graphics Scheduler (CGS) lets AI inference run alongside rendering without frame drops. Because processing happens on the player's system, studios pay no inference cost; CEO Piero Molino said a cloud solution for a million users could cost $1 million a day."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/KeyArt_Aquatus-1024x723.jpg",
+          "cap": "Studio Atelico has a cartoon art style that the AI has learned. Source: Studio Atelico"
+        },
+        {
+          "t": "p",
+          "x": "It can generate images in ~1 second on Apple Silicon and in <0.25s on the latest desktop GPUs, and includes a Character Behavior System for NPCs with personas, memories and motivations, plus a multi-layer safety pipeline. “We believe the future of AI in games isn’t about replacing developers,” said Molino."
+        }
+      ]
     }
   }
 }

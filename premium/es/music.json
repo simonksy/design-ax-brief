@@ -8637,6 +8637,134 @@
           "x": "El CEO Jack O’Donnell dijo a The Verge que las marcas de inMusic, sobre todo Akai, buscarán sumarse a la comunidad de modding enviando dispositivos anticipados a desarrolladores. Estos esfuerzos también incluirán abrir el código de parte del software y ofrecer un SDK."
         }
       ]
+    },
+    "music/spotify-remix-tool-2027": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Spotify-AI-Remix-Tool-1024x546.jpg",
+          "cap": "Foto: Alexander Shatov"
+        },
+        {
+          "t": "p",
+          "x": "Spotify se estaría preparando para lanzar a principios del próximo año su esperada herramienta AI de covers y remixes, posiblemente a un precio de $5 al mes en Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "Ese posible calendario de lanzamiento apareció en un informe del Financial Times que citó fuentes anónimas. Universal Music, Believe/TuneCore, Kobalt y Merlin han firmado acuerdos de licencia relacionados; Sony Music, Warner Music y BMG no figuran en la lista, aunque Spotify había dicho que no necesitaría \"a full catalog\" para empezar."
+        },
+        {
+          "t": "p",
+          "x": "El debut previsto para inicios de 2027 podría coincidir con una presentación formal alineada con la 69.ª edición de los Grammy Awards en febrero. Según el informe, los suscriptores Premium podrían pagar entre $4 y $5 más al mes; otros detalles concretos, como los artistas participantes, son escasos."
+        },
+        {
+          "t": "p",
+          "x": "Spotify enfrentará una fuerte competencia en gen AI: Suno y Warner Music planean ofertas específicas por artista, las tres grandes discográficas se han asociado con Klay Vision, Udio prepara su relanzamiento con las grandes non-Sony y Universal Music ha preparado ofertas específicas por artista mediante una alianza con ElevenLabs."
+        }
+      ]
+    },
+    "music/umg-grainge-ai-volume": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-17T113755.557.png?fit=780%2C585&ssl=1",
+          "cap": "Montón de basura con una cabra al lado"
+        },
+        {
+          "t": "p",
+          "x": "En la llamada trimestral de resultados de Universal Music Group, su jefe, Sir Lucian Grainge, lanzó la última alarma sobre la música AI. Citó las cifras más recientes de Deezer, según las cuales cada día se suben a los servicios de streaming más de 90,000 temas totalmente generados por AI (AI-generated)."
+        },
+        {
+          "t": "p",
+          "x": "\"El volumen crece más rápido que las salvaguardas\", advirtió Grainge. En las listas de blues de algunos grandes servicios de streaming, \"hasta cinco de los 10 álbumes principales se atribuyen a artistas generados por AI sin etiquetado ni divulgación claros… esto no es un desorden inofensivo\". UMG \"hará valer nuestras protecciones contractuales e insistirá en un etiquetado más claro en todo el ecosistema\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Dicho claramente, los temas de AI generados de forma poco ética nunca deberían remunerarse con la misma base que la música que crea una demanda real y duradera. ¿Y por qué querría un servicio de música siquiera alojarlos?\", dijo Grainge, mientras UMG insinuaba que presionará a las DSPs para desmonetizar y quizá retirar los temas totalmente de AI (fully-AI)."
+        },
+        {
+          "t": "p",
+          "x": "Los ingresos de UMG en el Q3 crecieron un 12.3% interanual, hasta €3.39bn. El director digital, Michael Nash, elogió las medidas recientes de Spotify, Deezer y Apple Music, pero advirtió que \"esto no es suficiente\" y habló de una \"contaminación del ecosistema a escala masiva\", un cambio respecto a llamadas anteriores en las que había restado importancia al impacto de la AI en el negocio de UMG."
+        }
+      ]
+    },
+    "music/midiff-drum-restoration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Presentamos MiDiff, un modelo generativo basado en difusión para mejorar el audio de batería que condiciona el proceso inverso con piano rolls de Musical Instrument Digital Interface (MIDI) alineados temporalmente. Amplía el marco SGMSE en el dominio STFT complejo con un codificador MIDI preentrenado, alineación temporal multiescala y tres estrategias de condicionamiento: inyección temprana, FiLM y atención cruzada."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.38619v1/figures/spectrogram_test_excerpt.png",
+          "cap": "Fig. 6: comparación cualitativa de espectrogramas STFT en un fragmento de prueba de StemGMD. Arriba a la izquierda: referencia limpia; arriba a la derecha: entrada degradada; abajo a la izquierda: línea base SGMSE; abajo a la derecha: MiDiff."
+        },
+        {
+          "t": "p",
+          "x": "Aportar el mismo piano roll solo mediante guía por clasificador no produce ninguna mejora medible: el prior simbólico es eficaz cuando condiciona la red de puntuación. Un calendario inverso híbrido que transcribe en línea el estado de difusión reduce el FAD de prueba en un 47% respecto a la línea base solo de audio, sin ninguna entrada simbólica."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se entrena con el conjunto de datos StemGMD y un pipeline de degradación que simula reverberación de sala con eco, la respuesta en frecuencia de una cápsula electret y saturación por soft-clipping con ruido. MiDiff supera ampliamente a la línea base SGMSE en Fréchet Audio Distance (FAD), y la dinámica auténtica de velocity MIDI resulta clave para un condicionamiento simbólico eficaz."
+        }
+      ]
+    },
+    "music/zeds-dead-sampling-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-hero-credit-Max-Thompson@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Zeds Dead, formado por Hooks (Zachary Rapp-Rovan) y DC (Dylan Mamid), mantiene su sociedad de producción desde hace casi 20 años, sampleando de todo, desde Duke Ellington hasta Scarface y Blue Velvet. \"Cuando sampleas un disco, sampleas la magia de esa sala\", dice Rapp-Rovan."
+        },
+        {
+          "t": "video",
+          "yt": "i5xCKYMfpEc"
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle por el sampleo en la era de la AI, Rapp-Rovan dice: \"En el punto en que estoy ahora, el interés está más en la historia. La AI no tiene historia. Es un promedio de cosas que suenan parecido\". Añade que le gustan \"muchísimo algunas herramientas de AI como la separación de stems y el cambio de voz\", pero que crear cosas de cero al nivel de un veterano \"parece más malo que bueno por ahora\"."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-1-credit-Brittany-Teuber@1050x1400.jpg",
+          "cap": "Image: Brittany Teuber"
+        },
+        {
+          "t": "p",
+          "x": "Mamid, que ha probado las herramientas, dice que \"me da escalofríos ver lo que devuelve\" y describe la AI generativa como \"una especie de hiper-sampleo\". Su propio sampleo, afirma, está \"al servicio de la cultura humana. No la denigra\"."
+        }
+      ]
+    },
+    "music/suno-mcp-chat-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Los profesionales de la industria musical se han apresurado a conectar varios servidores Model Context Protocol (MCP) a sus chatbots de AI preferidos. Sin embargo, en algunos sectores puede haber más reticencia a añadir el más reciente: es de Suno."
+        },
+        {
+          "t": "p",
+          "x": "“Añade Suno a tu stack de AI”, explica el texto de lanzamiento del paso de Suno al mundo MCP, presentado por ahora como un producto de ‘early access’ (acceso anticipado). “Accede al Suno MCP desde tu herramienta de AI y crea música directamente desde el chat”."
+        },
+        {
+          "t": "p",
+          "x": "El Suno MCP puede conectarse actualmente a Claude, ChatGPT, Gemini, Claude Code y Cursor, así como a otras herramientas de AI si los usuarios se sienten cómodos ajustando a mano la configuración del conector necesaria."
+        },
+        {
+          "t": "p",
+          "x": "Las canciones que se generan con el Suno MCP consumen créditos igual que en el sitio y la app de Suno, y la música se guarda en la biblioteca del usuario para que también pueda abrirse desde allí. El MCP está disponible tanto para usuarios gratuitos de Suno como para suscriptores de pago."
+        },
+        {
+          "t": "p",
+          "x": "Suno es una de las primeras grandes herramientas de música con AI (AI-music) en lanzar un servidor MCP, aunque en acceso anticipado y no para todos. La posibilidad de usar Suno desde Claude, de Anthropic, resulta especialmente delicada para los titulares de derechos musicales, dados los pleitos por copyright en curso contra ambas empresas."
+        }
+      ]
     }
   }
 }
