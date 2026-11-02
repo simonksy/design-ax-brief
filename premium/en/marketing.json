@@ -3182,6 +3182,125 @@
           "x": "The study shows that the way conversational AI makes recommendations can influence consumer choices more than simple placement at the top of search results. In particular, because the persuasive effect largely holds even with ad labels and users find it hard to notice ad steering, ad transparency and user protection in AI shopping services are likely to emerge as key issues."
         }
       ]
+    },
+    "marketing/amazon-alexa-shopping-400m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "During its fiscal third-quarter earnings call, Amazon said more than 400 million customers have now used Alexa for Shopping in the last 12 months, up from 350 million at the end of July. Customers who use Alexa for Shopping are spending 50% more than those who don't, CEO Andy Jassy said."
+        },
+        {
+          "t": "p",
+          "x": "Amazon reported third-quarter net sales of $201.9 billion, up 12%. Amazon released the AI shopping assistant as Rufus in February 2024 and rebranded it Alexa for Shopping in May, and it announced more than 100 new capabilities ahead of the holidays, including gift lists, registries and Subscribe and Save management."
+        },
+        {
+          "t": "p",
+          "x": "Amazon has blocked platforms like ChatGPT and Meta's Muse shopping agent from scraping its site. \"Though we anticipate working with horizontal agents, we believe Alexa for Shopping is going to be the primary shopping agent customers use to shop Amazon,\" Jassy said."
+        }
+      ]
+    },
+    "marketing/google-ads-strategist-ai-personas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-cloaked-O1oGKOSV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads Strategists, who are part of the Google Extended Workforce, are using AI-generated profile photos and names when reaching out to advertisers. Joe Youngblood posted on X: \"Google is using AI-generated people for Google Ads contacts.\""
+        },
+        {
+          "t": "p",
+          "x": "After he declined a call from an xWF contractor, an email came in an hour later from a \"Kassy Garcia\" claiming to be a Google Ads Strategist. He found nothing on LinkedIn, and Google's AI checking tool showed the profile photo was AI-generated."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
+          "cap": "Email"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-headshot-lF5qcSfV.jpg",
+          "cap": "Ai Headshot"
+        },
+        {
+          "t": "p",
+          "x": "Google's documentation says its representatives always have an email address ending with @xwf.google.com. Search Engine Roundtable asked Google about the practice but did not hear back."
+        }
+      ]
+    },
+    "marketing/svedka-superbowl-consumer-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/xjzikIA1P0-a1-NNHIzCTrqpdnyHJ5txBlFoqEmNKl0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp",
+          "cap": "Reality TV host Andy Cohen interviews Svedka's mascot to help launch its Super Bowl ad contest."
+        },
+        {
+          "t": "p",
+          "x": "Svedka is handing over the reins for its next Super Bowl ad to consumers, challenging them to make a 15-second commercial featuring its ready-to-drink Vodka Water. Consumers can submit ads until Dec. 1, with the winner receiving a $500,000 prize."
+        },
+        {
+          "t": "p",
+          "x": "The contest comes after the brand faced controversy for using artificial intelligence to bring its fembot mascot to life in its first Super Bowl ad. \"We heard plenty of people say they could do a better job. And we welcomed the debate,\" said Sara Saunders, group president and CMO at Sazerac. A digital tool kit lets entries be \"AI-led, hilariously low-budget, unexpectedly cinematic or creatively ambitious.\""
+        },
+        {
+          "t": "video",
+          "yt": "pdZLcOF71Is"
+        },
+        {
+          "t": "p",
+          "x": "Andy Cohen, who notes the previous ad was called \"bold, bizarre and a dystopian nightmare,\" will help evaluate submissions. The Super Bowl LX spot was produced by AI innovation lab Silverside."
+        }
+      ]
+    },
+    "marketing/clarity-ai-agent-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Clarity on October 29, 2026 published an analysis of more than 5.2 million website sessions involving AI agents, recorded across 230,511 Clarity projects between August 13 and September 9, 2026. Checkout was recorded in 25.21% of them, against 14.65% of human-only sessions on the same sites."
+        },
+        {
+          "t": "p",
+          "x": "Outbound clicks lead the human list at 26.99% but reach only 14.28% of agentic sessions; form submissions are close at 19.85% and 18.56%. Book appointment (8.42%) and Check availability (2.41%) made the agentic top ten but not the human one."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft says an agentic session may include a human handoff it cannot separate, so the findings are \"not necessarily actions completed autonomously by an agent.\" By PPC Land's calculation, the percentages imply a base of about 1.22 million sessions, not 5.2 million. Microsoft also made its Agent Activity Dashboard generally available."
+        }
+      ]
+    },
+    "marketing/microsoft-ai-ad-guidelines": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising on October 28, 2026 began letting advertisers give its AI up to 40 written guidelines on what generated ad copy should and should not say, in an open pilot announced alongside general availability of its Conversions API and new search term reporting for Performance Max campaigns."
+        },
+        {
+          "t": "p",
+          "x": "A new AI-powered campaign creation flow lets first-time advertisers share \"materials such as marketing plans, brand guidelines, and product images\" alongside their site; the system turns them into \"an editable snapshot of your business\" that shapes how the AI builds a first Performance Max campaign."
+        },
+        {
+          "t": "p",
+          "x": "Messaging guidelines are in open pilot for Performance Max and for Search campaigns with AI Max enabled. Microsoft recommends using them for \"broader rules around claims, themes, concepts, tone, or language to avoid\" – its example is a high-end retailer adding \"Never imply that products are low cost\" – and they can also supply \"preferred wording, themes, or tone of voice.\" The cap of 40 matches Google's text guidelines."
+        },
+        {
+          "t": "p",
+          "x": "Performance Max also gains age and gender targeting, search term and auction insights reporting, and pilots for audience exclusions; search term landing page reporting starts rolling out mid-November. The Conversions API is now generally available, with partners including Adobe Real-Time CDP, Segment by Twilio, Tealium and Zeotap."
+        }
+      ]
     }
   }
 }

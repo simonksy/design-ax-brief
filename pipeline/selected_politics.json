@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "politics",
   "items": [
     {
@@ -8,99 +8,99 @@
       "subtopic": "policy_regulation",
       "accent": "#3b6bff",
       "motif": "cube",
-      "title": "CMA opens investigation into Meta's commercial terms",
-      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "source": "GOV.UK (Competition and Markets Authority)",
-      "published_iso": "2026-10-30T12:05:53+00:00",
-      "og_image": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg",
-      "excerpt": "The UK CMA opened a Competition Act investigation into whether Meta's business terms, which would let it collect publishers' website content to develop its own products including AI features without a choice for those businesses, amount to unfair trading conditions.",
-      "rationale": "Primary regulator release: a formal Competition Act investigation, the first official decision in the Meta AI-terms thread after publishers complained and Meta delayed the terms."
-    },
-    {
-      "tool": "Politics",
-      "category": "politics",
-      "subtopic": "policy_regulation",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "title": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "source": "The Verge",
-      "published_iso": "2026-10-30T09:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-      "excerpt": "The Wikimedia Foundation asked to file an amicus brief in New York Times v. OpenAI, arguing the court should treat AI training separately from chatbot outputs that reproduce copyrighted text, and warning that both sides' positions could harm open knowledge projects.",
-      "rationale": "New court filing in the main US AI copyright case, from a neutral third party; it sets out the training-vs-output distinction that matters to anyone building on open data."
+      "published_iso": "2026-11-02T17:51:19+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+      "excerpt": "The New York Times and other publishers, including the New York Daily News and Chicago Tribune, filed lawsuits against Brave Software alleging unlawful scraping of their content to train and power AI and letting users bypass paywalls.",
+      "rationale": "New court filing: publishers have opened a copyright-and-scraping front against an AI browser, not a model lab. The claims are the plaintiffs' allegations and should be attributed to them."
     },
     {
       "tool": "Politics",
       "category": "politics",
       "subtopic": "elections_public_opinion",
-      "accent": "#7928ca",
+      "accent": "#0070f3",
       "motif": "cube",
-      "title": "EPIC Urges FCC to Protect Consumers from Unwanted \"Political\" Robocalls",
-      "url": "https://epic.org/epic-urges-fcc-to-protect-consumers-from-unwanted-political-robocalls/",
-      "source": "EPIC",
-      "published_iso": "2026-10-30T00:00:00-04:00",
-      "og_image": null,
-      "excerpt": "EPIC filed reply comments asking the FCC to deny a Club for Growth petition that would exempt political calls using artificial or prerecorded voices, including AI-generated voices, from TCPA consent rules. (Body date only: October 30, 2026.)",
-      "rationale": "Elections axis, primary filing in a live FCC docket on whether AI-voice political calls need consent; attribute both positions to the named parties (EPIC, Club for Growth)."
+      "title": "Inside the Secretive World of Campaign Ads Funded by AI Super PACs",
+      "url": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+      "source": "Bellingcat",
+      "published_iso": "2026-11-02T16:11:28+00:00",
+      "og_image": "https://www.bellingcat.com/app/uploads/2026/11/2026-11-01T204021Z_1780929764_RC28FOAZ9KS3_RTRMADP_3_USA-ELECTION-OHIO-scaled.jpg",
+      "excerpt": "Bellingcat analysed more than 300 online video ad campaigns in the US midterms and traced ads backing candidates of both parties to the same AI-industry super PAC network, Leading the Future, which opposes AI rules that 'constrain' innovation and is funded by OpenAI president Greg Brockman and a16z.",
+      "rationale": "Elections axis on Election Day: an original open-source analysis of 300+ ad campaigns tracing ads for candidates of both parties to one AI-industry PAC network. Non-partisan by construction."
     },
     {
       "tool": "Politics",
       "category": "politics",
       "subtopic": "geopolitics",
-      "accent": "#2ec5c5",
+      "accent": "#7928ca",
       "motif": "cube",
-      "title": "The Promise and Pitfalls of Nvidia's Venture in Kazakhstan",
-      "url": "https://thediplomat.com/2026/10/the-promise-and-pitfalls-of-nvidias-venture-in-kazakhstan/",
-      "source": "The Diplomat",
-      "published_iso": "2026-10-30T03:15:00+00:00",
-      "og_image": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-      "excerpt": "Kazakhstan signed an investment agreement with Firebird for a Data Center Valley powered by 45,000 Nvidia Grace Blackwell GPUs under newly announced US export licenses, with 10% of capacity reserved for domestic users; analysts flag power shortfalls.",
-      "rationale": "Geopolitics axis: a signed sovereign data-center agreement running on newly licensed US chip exports; lead with the agreement and licenses, attribute the risks to analysts."
+      "title": "Berlin unveils blueprint to catch up on AI",
+      "url": "https://www.politico.eu/article/berlin-unveil-blueprint-catch-up-ai-artificial-intelligence/",
+      "source": "POLITICO Europe",
+      "published_iso": "2026-11-02T12:42:06+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+      "excerpt": "A report from Germany's government AI task force, presented to the National Security Council, says Germany should become a 'sovereign AI nation' by 2030, securing access to leading models while building European alternatives with France and Canada.",
+      "rationale": "Official government task-force report sets a 2030 sovereign-AI goal for Germany. This is a national strategy document, separate from the earlier Nvidia investment deal."
+    },
+    {
+      "tool": "Politics",
+      "category": "politics",
+      "subtopic": "geopolitics",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "title": "India floats AI plan under which 'The model travels to the data, rather than the data travelling to the model'",
+      "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+      "source": "The Register",
+      "published_iso": "2026-11-02T04:39:50Z",
+      "og_image": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "India's government proposed an AI architecture in which models are deployed to sit next to government and sectoral data rather than data being exported to Big Tech, aiming for more local AI without open access to national datasets.",
+      "rationale": "Government proposal for a data-sovereignty architecture that directly changes how AI vendors would deploy against Indian public and sectoral data."
     },
     {
       "tool": "Politics",
       "category": "politics",
       "subtopic": "policy_regulation",
-      "accent": "#eb367f",
+      "accent": "#ff5a4d",
       "motif": "cube",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "published_iso": "2026-10-30T20:26:10+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "OpenAI, Google, Microsoft and Anthropic are implementing a new common setting that lets site owners opt out of having their content used for AI training, a shared standard arriving amid copyright litigation and transparency rules.",
-      "rationale": "A shared training opt-out from the four largest labs, announced against the backdrop of copyright suits and transparency rules; it changes how site owners can control training use right away."
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "source": "WIRED",
+      "published_iso": "2026-11-02T10:00:00Z",
+      "og_image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+      "excerpt": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but carry hidden features for creating violent and sexually abusive AI-generated images and video, raising app-store and deepfake-law enforcement questions.",
+      "rationale": "New investigation into roughly 400 disguised abuse-deepfake apps. It tests whether app-store rules and deepfake laws are actually enforced. Present the findings as WIRED's."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2": {
-        "verdict": "follow-up",
-        "nearest": "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/",
-        "new_action": "CMA formally opened a Competition Act investigation (official regulator decision, 2026-10-30). Earlier cards covered only the publishers' complaint (10-22) and Meta delaying its terms (10-24, theverge.com/tech/1017450)."
-      },
-      "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright": {
+      "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+        "nearest": "https://www.euronews.com/2026/10/27/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
         "new_action": ""
       },
-      "https://epic.org/epic-urges-fcc-to-protect-consumers-from-unwanted-political-robocalls/": {
+      "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/": {
         "verdict": "new",
-        "nearest": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content",
+        "nearest": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
         "new_action": ""
       },
-      "https://thediplomat.com/2026/10/the-promise-and-pitfalls-of-nvidias-venture-in-kazakhstan/": {
+      "https://www.politico.eu/article/berlin-unveil-blueprint-catch-up-ai-artificial-intelligence/": {
         "verdict": "new",
         "nearest": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out": {
+      "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
         "new_action": ""
       }
     },
-    "note": "Dropped as a duplicate/follow-up without a clearly new event: xAI NAACP ruling (Engadget). It is a likely-repeat of the 10-22 Ars data-center pollution ruling, and the candidate does not establish that the denial of dismissal is a separate decision from the one already published. Dropped as commentary/analysis (low priority per _note): WIRED NY moratorium, SemiAnalysis datacenter backlash, Verge Prop 45 (contested critic claims), Politico EU Ireland, ChinaTalk China slop, Guardian Australia copyright experts (expert opinion, no new decision), Axios OpenAI lame-duck plans (lobbying scoop). Dropped as weaker/no decision: Yonhap privacy deliberation forum (discussion only), Yonhap On-AI expansion (internal government tooling), etnews AIDC sub-decree (pre-notice 'direction' report, re-check once the legislative notice is out), Nextgov Democrats' letter to OpenAI (partisan letter, no binding action), NPR fake local-news sites (fresh, but its partisan framing is delicate, so EPIC/FCC fills the elections axis), CNA/Reuters Australian data centre delay (company setback), Tech Policy Press EU data-center labour (AI incidental), GOV.UK planning AI (AI secondary to planning reform). Fresh and unused backups: Ars DOJ ghost-students AI fraud, NPR local-news sites, CNA Australia data centre. Outlets in the final 5: GOV.UK 1, The Verge 2, EPIC 1, The Diplomat 1 (4 outlets). Axes: policy 3, elections 1, geopolitics 1. Cross-section: the last published brief is 2026-10-30 07:00 KST, and every pick postdates or equals it, so none can be in published_urls.json from an earlier run. published_urls.json was too large to grep with Read-only tools. Same-day clash risk: the Verge opt-out-standard story could also be picked by design/marketing today. If it is, swap in Ars DOJ ghost students (verdict new, nearest ''). EPIC has no og_image, so ax-media must source one."
+    "note": "No candidate was a true repeat; all 7 history_match tags are 'related' only. Brave suit vs the 10-27 Claude paywall story: different event and parties. Bellingcat vs the 10-14 WIRED Nevada shell companies story: same PAC network but a new finding (ad content and targeting across both parties, not money flows). Berlin report vs the 10-23 German Nvidia deal: different act (task-force strategy vs an investment). WIRED deepfake apps vs the 10-18 Apple nudify rules: different event. Rest of World Chinese-model realignment vs the 10-08 Axios open-weight story: related, trend reporting only, not picked. Dropped again as low-priority (same reasons as 11-02): Verge Prop 45 (contested critic claims, AI secondary), Axios OpenAI post-election plans (lobbying scoop), GOV.UK planning AI (AI secondary to planning reform). Dropped as analysis/opinion: Tech Policy Press 'How AI companies want to be governed' and 'No universal election integrity playbook'. Dropped as corporate PR or weaker: Verge OpenAI Grid Protectors (company program), Diplomat China data-center tax (analysis), Tech Policy Press EU-Canada (AI is one item in a broader digital alliance), 404 Media AI sticker (light item). Fresh, unused backups, in order: Semafor election war rooms (Anthropic war room is new; off-list), NPR chatbots misleading voters (off-list), Rest of World Chinese-model realignment. Outlets: The Verge, Bellingcat, POLITICO Europe, The Register, WIRED (5 outlets, 1 each). Axes: policy 2, elections 1, geopolitics 2. Cross-section: the last brief published 2026-11-02 07:00 KST (2026-11-01T22:00Z), and every pick postdates it, so none can be in published_urls.json from an earlier run. The file was too large to grep with Read-only tools. Same-day clash risk: the NYT v. Brave suit could also be picked by books or gadgets today. If it is, swap in Semafor war rooms (verdict new, nearest https://www.techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms)."
   }
 }

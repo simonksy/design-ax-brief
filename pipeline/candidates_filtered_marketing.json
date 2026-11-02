@@ -1,151 +1,34 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-01T23:50:00Z",
+  "now_iso": "2026-11-02T22:04:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Microsoft lets advertisers set up to 40 guidelines for AI-written ads",
-      "url": "https://ppc.land/microsoft-lets-advertisers-set-up-to-40-guidelines-for-ai-written-ads/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-11-01T22:05:28.000Z",
-      "excerpt": "Conversions API leaves its per-account pilot with 10 named partners, and Performance Max adds search term reports. Landing page data follows from mid-November.",
-      "og_image": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg",
-      "off_list": true
-    },
-    {
-      "title": "Advertisers in 10 more countries can't opt out of Google's AI Mode ads",
-      "url": "https://ppc.land/advertisers-in-10-more-countries-cant-opt-out-of-googles-ai-mode-ads/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-11-01T22:14:10.000Z",
-      "excerpt": "Search, Shopping and Performance Max campaigns in India, Kenya and 8 more markets now enter AI Mode. Brazil and Mexico, due in Q4, test the English-only list.",
-      "og_image": "https://ppc.land/content/images/2026/11/google-ai-mode-ads-10-countries-no-opt-out-rotary-dial-turnstile.jpg",
-      "off_list": true,
-      "history_match": {
-        "score": 0.329,
-        "date": "2026-10-29",
-        "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-        "title": "Ads in AI Mode expand to new markets.",
-        "band": "related"
-      }
-    },
-    {
-      "title": "US Alexa for Shopping users spend 50% more per order, Amazon says",
-      "url": "https://ppc.land/us-alexa-for-shopping-users-spend-50-more-per-order-amazon-says/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-31T08:31:18.000Z",
-      "excerpt": "Over 400 million customers used the assistant in 12 months, where US advertisers pay for prompts. Jassy says outside AI agents barely dent ads. For how long?",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/amazon-alexa-for-shopping-50-percent-order-spend-concierge-velvet-rope-carts.jpg",
-      "off_list": true,
-      "history_match": {
-        "score": 0.155,
-        "date": "2026-10-22",
-        "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
-        "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent",
-      "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.",
+      "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
       "source": "Search Engine Journal",
       "category": "marketing",
-      "published_iso": "2026-10-30T15:30:24+00:00",
-      "excerpt": "Shopify pays the company behind an AI agent 0.3% of promoted-product orders, and stores can add more. Here is what that commission changes.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-agent-897.png",
-      "off_list": false,
+      "published_iso": "2026-11-02T14:41:23+00:00",
+      "excerpt": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic ($0.89 vs $2.45), and most saw no sales from them.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg",
       "history_match": {
-        "score": 0.247,
-        "date": "2026-10-15",
-        "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
-        "title": "Your Store Is 'Agent-Ready' By Default, We Tested 122 Shopify Stores To See What That Actually Means",
-        "band": "related"
-      }
-    },
-    {
-      "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default",
-      "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-10-30T14:17:57+00:00",
-      "excerpt": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-ads-creative-enhancements.jpg",
-      "off_list": false,
-      "history_match": {
-        "score": 0.223,
-        "date": "2026-10-22",
-        "url": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
-        "title": "Google turns on PMax image extraction by default from December 4",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways",
-      "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-10-30T12:02:22+00:00",
-      "excerpt": "Google’s Tal Akabas says changing tCPA, tROAS, or budgets on steady-state campaigns won’t trigger Learning - read why to skip seasonality adjustments.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ads-bfcm-987.png",
-      "off_list": false,
-      "history_match": {
-        "score": 0.297,
+        "score": 0.185,
         "date": "2026-10-18",
-        "url": "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/",
-        "title": "Google Ads PM says target or budget changes cause no learning period",
+        "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+        "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem",
         "band": "related"
       }
     },
     {
-      "title": "OpenAI's ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
-      "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
-      "source": "Search Engine Roundtable",
+      "title": "3 AI Models Shopped Shopify's Catalog – Each Picked A Different Winner",
+      "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+      "source": "Search Engine Journal",
       "category": "marketing",
-      "published_iso": "2026-10-30T11:17:00-04:00",
-      "excerpt": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and Shopify integration is now available internationally.",
-      "og_image": "https://images.seroundtable.com/wider-chatgpt-ads-9VwMUKno.png",
-      "off_list": false,
+      "published_iso": "2026-11-02T13:00:14+00:00",
+      "excerpt": "Three Claude models picked from the same 20 Shopify products 1,980 times and never agreed on the top product; the test breaks down what decided the AI shopping agents' picks.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png",
       "history_match": {
-        "score": 0.239,
-        "date": "2026-10-17",
-        "url": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
-        "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Microsoft Bing Showing Ads Within Copilot AI Overviews",
-      "url": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-30T07:41:00-04:00",
-      "excerpt": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot.  I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search.",
-      "og_image": "https://images.seroundtable.com/bing-ai-overview-with-ads-WnTrn06o.jpg",
-      "off_list": false
-    },
-    {
-      "title": "Amazon’s Ads nears $20 billion in Q3 as it bets on agentic AI to fuel further growth",
-      "url": "https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-10-30T04:01:00+00:00",
-      "excerpt": "mazon Ads Agent will spearhead the company’s media offering, but its growing control over media buying sparks transparency concerns.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/05/open-ai-pitch-digiday.jpg",
-      "off_list": false
-    },
-    {
-      "title": "DoorDash said it's only received 'several hundred' orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch",
-      "category": "marketing",
-      "published_iso": "2026-10-30T13:54:25+00:00",
-      "excerpt": "DoorDash said that it is open to working with third-party agent makers.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-      "off_list": false,
-      "history_match": {
-        "score": 0.163,
+        "score": 0.255,
         "date": "2026-10-14",
         "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
         "title": "Shopify opens its catalog up to more AI agents",
@@ -153,36 +36,132 @@
       }
     },
     {
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "source": "The Verge",
+      "title": "Google Using AI-Generated Fake Google Ads Strategist Names & Profile Photos",
+      "url": "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-10-30T17:38:04+00:00",
-      "excerpt": "Starbucks wants to bring AI to its app, too.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
-      "off_list": false,
+      "published_iso": "2026-11-02T07:31:00-05:00",
+      "excerpt": "Google Ads Strategists in Google's Extended Workforce are contacting advertisers under AI-generated names and profile photos, an advertiser found when the sender's identity couldn't be traced.",
+      "og_image": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
       "history_match": {
-        "score": 0.151,
-        "date": "2026-10-10",
-        "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
-        "title": "OpenAI Wants ChatGPT Ads to Become a Permanent Line Item in Agency Media Plans",
+        "score": 0.183,
+        "date": "2026-10-24",
+        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
         "band": "related"
       }
     },
     {
-      "title": "줄라이하우스, 배우 디지털 초상 AI 광고 플랫폼 ‘클링크(CLYNK)’ 오픈",
-      "url": "https://sports.khan.co.kr/article/202611020717003",
-      "source": "스포츠경향",
+      "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+      "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
+      "source": "Digiday",
       "category": "marketing",
-      "published_iso": "2026-11-02T07:17:00+09:00",
-      "excerpt": "AI IP·플랫폼 기업 줄라이하우스(대표 정의석)가 배우의 디지털 초상을 활용한 AI 광고 제작 플랫폼 ‘클링크(CLYNK)’를 오픈했다. 클링크는 광고주와 배우 등 IP 권리자, AI 크리에이터를 하나로 연결...",
-      "og_image": "https://images.khan.co.kr/article/2026/11/02/news-p.v1.20261102.c9eb9f353a824b6eb56ccfa618efd9ae_P1.png",
-      "off_list": true
+      "published_iso": "2026-11-02T05:01:00+00:00",
+      "excerpt": "On its Q3 call Amazon said shoppers using its conversational AI shopping assistant spend 50% more per order; the assistant carries sponsored prompts while Amazon blocks outside agents like ChatGPT and Meta's Muse.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg",
+      "history_match": {
+        "score": 0.192,
+        "date": "2026-10-22",
+        "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+        "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google search loses its free pass with buyers",
+      "url": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-11-02T05:01:00+00:00",
+      "excerpt": "AI Overviews and AI Mode are cutting click-through, search ad revenue growth slowed to 12% in Q3, and media buyers are now questioning whether Google search budgets should move elsewhere.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/google-zero-traffic.jpg"
+    },
+    {
+      "title": "AI Labels Don't Tell Consumers Whether An Ad's Claims Are Real",
+      "url": "https://www.adexchanger.com/data-driven-thinking/ai-labels-dont-tell-consumers-whether-an-ads-claims-are-real/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-11-02T05:25:16+00:00",
+      "excerpt": "A generic 'made with AI' label tells consumers AI was used to build an ad but leaves them guessing where reality ends and fiction begins; the column argues disclosure must address the claims themselves.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/Sourin-Chakrabarti-Meta.jpg",
+      "history_match": {
+        "score": 0.161,
+        "date": "2026-10-25",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "band": "related"
+      }
+    },
+    {
+      "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
+      "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
+      "source": "Marketing Dive",
+      "category": "marketing",
+      "published_iso": "2026-11-02T10:49:00-05:00",
+      "excerpt": "After its AI-produced Super Bowl LX spot drew controversy, Svedka is handing its next big-game ad to consumers via a $500,000 contest, with a toolkit allowing 'AI-led' entries.",
+      "og_image": "https://imgproxy.divecdn.com/c4XwQNn3Hspeu3YaT3NJKAKNl2FMp2H68XwgEdydJdw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp"
+    },
+    {
+      "title": "네이버 디지털옥외광고, AI로 중소상공인 진입장벽 낮춰…10명 중 8명이 대행사 없이 집행",
+      "url": "https://www.etnews.com/20261102000357",
+      "source": "전자신문",
+      "category": "marketing",
+      "published_iso": "2026-11-02T14:54:26+09:00",
+      "excerpt": "네이버 디지털옥외광고 리포트에 따르면 AI 기반 직접 집행 덕에 광고주 78.5%가 대행사 없이 식당 주문기기·엘리베이터·편의점 화면에 지역 광고를 집행하고 있다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/02/news-p.v1.20261102.23a65dd7cf9346fa8b97febc8c7b963b_P1.png"
+    },
+    {
+      "title": "Google tells advertisers AI search queries now run 3x longer",
+      "url": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-11-01T05:37:46.000Z",
+      "excerpt": "One in six searches is now multimodal and AI search queries run three times longer, Google's Shivani Mohan told advertisers; PPC Land notes Google's May data limited that to US AI Mode and asks which figures lack a baseline.",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg",
+      "history_match": {
+        "score": 0.168,
+        "date": "2026-10-16",
+        "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
+        "title": "Google Ads Search Terms and Ad Combinations Report (AI Max)",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Marketers still spend 10 hours a week on manual optimization, DV finds",
+      "url": "https://ppc.land/marketers-still-spend-10-hours-a-week-on-manual-optimization-dv-finds/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-11-01T07:39:01.000Z",
+      "excerpt": "DoubleVerify's survey of 2,020 marketers in 25 countries finds third-party AI bidding use rose to 50% from 42%, yet manual campaign optimization fell by only 14 minutes a week.",
+      "og_image": "https://ppc.land/content/images/2026/11/doubleverify-ai-bidding-manual-optimization-hours-idle-machine-arm-dial.jpg",
+      "history_match": {
+        "score": 0.231,
+        "date": "2026-10-20",
+        "url": "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/",
+        "title": "ChatGPT drops to 74.5% of marketers as Claude climbs to 72.3%, Basis finds",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Checkout appears in 25% of AI agent sessions vs 15% for humans, Clarity finds",
+      "url": "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-11-01T22:47:28.000Z",
+      "excerpt": "Microsoft Clarity data across 230,511 sites shows AI agent sessions reach checkout more often than human ones, raising the question of whether merchants can tell who pressed buy.",
+      "og_image": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg",
+      "history_match": {
+        "score": 0.238,
+        "date": "2026-10-11",
+        "url": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+        "title": "Meta's Muse accounts for 72% of AI agent requests, HUMAN finds",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 12,
+    "kept": 11,
     "against_days": 5
   },
   "story_dedup": {
@@ -766,6 +745,31 @@
       "date": "2026-10-30",
       "title": "Google AI Mode Testing Blending All Products With Sponsored Products",
       "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Microsoft lets advertisers set up to 40 guidelines for AI-written ads",
+      "url": "https://ppc.land/microsoft-lets-advertisers-set-up-to-40-guidelines-for-ai-written-ads/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent",
+      "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Microsoft Bing Showing Ads Within Copilot AI Overviews",
+      "url": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "OpenAI's ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
+      "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Starbucks wants to use AI to show you a 'personalized digital menu' at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
     }
   ]
 }

@@ -9174,6 +9174,154 @@
           "x": "它在Apple Silicon上约1秒即可生成图像,在最新桌面GPUs上则<0.25s,还包含为拥有人设、记忆和动机的NPCs设计的Character Behavior System,以及多层安全管线。Molino说:“我们相信,游戏中AI的未来并不在于取代开发者。”"
         }
       ]
+    },
+    "games/steam-october-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+          "cap": "图片来源：Steam"
+        },
+        {
+          "t": "p",
+          "x": "一位名叫 ploz 的 Redditor 深入挖掘统计数据后发现，2026年10月在 Steam 上发布的所有新游戏中，有49.9%披露其使用了 AI-generated 内容，而一年前这一比例为26.4%。2024年1月 Steam 刚加入 AI 披露选项时，这一比例仅为1.7%。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+          "cap": "r/Steam - 10月在 Steam 上发布的游戏中，近半数披露了 AI-generated 内容（49.9%，2024年1月为1.7%）"
+        },
+        {
+          "t": "p",
+          "x": "ploz 还发现，2026年迄今发布的所有游戏中，有40.1%使用了 AI-generated 内容标签。实际数字可能更高：部分开发者（devs）并未披露 AI 使用情况，而且披露只涵盖玩家看到或听到的内容，不包括编程中使用的任何部分。"
+        },
+        {
+          "t": "p",
+          "x": "使用该标签的“大多是小游戏”：“评测少于10条的游戏中有47%披露了 AI，而评测达1,000+条的游戏中这一比例为百分之十四。”"
+        },
+        {
+          "t": "p",
+          "x": "Steam 并未提供从商店中完全过滤掉含 AI-generated 内容游戏的方式。在最近一届 Steam Next Fest 期间出现关于“AI slop”的投诉后，Valve 表示已“知悉”，但解决方案并没有明确的时间表。"
+        }
+      ]
+    },
+    "games/vrchat-ai-label-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "VRChat因一项不为AI-generated内容加标签的争议决定，目前正遭遇用户的大规模反弹。"
+        },
+        {
+          "t": "p",
+          "x": "本月早些时候的一项调查询问了逾21,000名用户，这一社交VR平台是否应为AI-generated内容加标签。据日本媒体Automaton报道，约95%的受访者希望加上这样的标签。"
+        },
+        {
+          "t": "p",
+          "x": "“我们不会添加‘AI-generated’标签或AI过滤器，”VRChat表示，理由是一些创作者会把生成式或辅助完成的作品冒充为手工创作，而且这可能引发“侦探式”追查行为和对创作者的骚扰。作为替代，它将禁止用于宣传世界的“AI-generated不实缩略图”，并为世界加入点赞、点踩和应用内反馈功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "工作室仍在讨论一个可选的“Human-authored”标记。与此同时，用户涌向Steam对该应用“刷差评”：VRChat目前获得约4,000名用户的“Mostly Negative”评价，过去30天好评率为33%，使其总体评价从“Mostly Positive”降为“Mixed”。"
+        }
+      ]
+    },
+    "games/kocca-ai-gamelab-day": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[iNews24记者 Kwak Min-gu] 韩国文化内容振兴院（简称“内容振兴院”）2日表示，将于12日在京畿道板桥全球游戏枢纽中心举办分享人工智能（AI）游戏开发案例的“AI游戏实验室日2026”活动。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+          "cap": "全球游戏枢纽中心AI游戏实验室日海报。[图片=韩国文化内容振兴院]"
+        },
+        {
+          "t": "p",
+          "x": "此次活动旨在审视AI技术普及给游戏开发环境带来的变化，并分享韩国国内开发者的实际制作经验和技术应用方法。"
+        },
+        {
+          "t": "p",
+          "x": "首场主题演讲由Anchor Node代表Won Jae-ho担任。他将以“每逢剧变时期，都是小型开发团队改变了格局”为题，结合26年的开发经验，阐述AI技术发展将为小型游戏开发团队带来的变化与机遇。"
+        },
+        {
+          "t": "p",
+          "x": "Moontan Soft代表Noh Ja-myung将围绕在大型游戏制作现场积累的经验和目前正在开发的项目，分享开发过程中的思考与实务案例。Unity工程师Park Jong-tae将介绍结合游戏引擎与AI工具的制作方法，特别是将讲解利用CLI（命令行界面，即通过输入命令来运行和管理程序）的实际开发案例。"
+        },
+        {
+          "t": "p",
+          "x": "最后一场由曾参与《风之国》和《天堂》开发的XLGAMES创始人宋在京登场。他将分享近期的游戏开发经验，并以回答事先征集问题和现场提问的“有问必答（AMA）”形式与参与者交流。"
+        },
+        {
+          "t": "p",
+          "x": "内容振兴院游戏基础建设组组长Joo Sung-ho表示：“AI正在为从游戏策划到制作的整个开发现场带来变化。”他还说：“希望此次活动能成为开发者分享实际应用案例、提升基于AI的制作能力的契机。”"
+        }
+      ]
+    },
+    "games/arc-raiders-tts-rerecord": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+          "cap": "Arc Raiders"
+        },
+        {
+          "t": "p",
+          "x": "Embark此后重新录制了台词，为游戏加入更多真人声音。执行制作人Aleksander Grøndal在Arc Raiders的YouTube频道上表示：“我认为其中确实有一些非常中肯的批评。试图辩解没有意义。”"
+        },
+        {
+          "t": "video",
+          "yt": "_xwbP8KV530"
+        },
+        {
+          "t": "p",
+          "x": "Arc Raiders的发售被一场争议所笼罩：游戏使用AI模仿配音演员的声音并补充对白。演员们签署了允许这样做的合同，但玩家认为部分AI语音毫无生气、平淡乏味且古怪。"
+        },
+        {
+          "t": "p",
+          "x": "Embark表示，使用AI是为了更快推出更新。音频总监Bence Pajor说：“我们用他们的声音制作了大量训练数据，这样也能用他们的声音做原型。”至于标记（ping）系统，“把每一种可能的版本都录下来就变得太不现实了。”"
+        },
+        {
+          "t": "p",
+          "x": "首席创意官Stefan Strandberg说：“我们并不是做取代演员这门生意的。”"
+        }
+      ]
+    },
+    "games/claude-noremake-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "更新：Anthropic已确认发布了一项Opus 5.5更新，以“引导”Claude Code不去“重制他人的特定游戏”。"
+        },
+        {
+          "t": "p",
+          "x": "X用户Chasm表示，他们发现Claude Code的“规则”在10月27日某个时候推送了更新。这条规则列在“tengu_heron_brook”之下，内容为：“可以制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏。不得制作对某款现有特定游戏的重制，即使改了名或号称原创。”Chasm称，这条规则无法关闭。"
+        },
+        {
+          "t": "p",
+          "x": "“我们在Opus 5.5上的Claude Code提示词中加了两句话，引导它不去重制他人的特定游戏，因为用Claude侵犯IP违反我们的使用政策，”Anthropic的Addy Osmani写道。“原创游戏、类型游戏以及基于你自己的设计和素材制作的游戏，应当可以继续正常使用。”"
+        },
+        {
+          "t": "p",
+          "x": "对AI快速跟风重制的担忧已在独立开发者中蔓延；Digital Sun Games是取消即将举行的公开试玩的多家工作室之一，原因是担心有人把试玩版喂给AI工具，推出自己的ReVamp版本。"
+        },
+        {
+          "t": "p",
+          "x": "这条规则或许只能吓退最省事的抄袭者：安全限制可以靠话术绕过，软件如何判断用户是否拥有某个游戏创意或素材也不清楚，而抄袭者还可以转向没有此类限制的开放权重模型。"
+        }
+      ]
     }
   }
 }

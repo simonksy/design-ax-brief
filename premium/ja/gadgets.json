@@ -9969,6 +9969,141 @@
           "x": "バッテリーは263mAh で、前世代の210mAh から大きくなった。Black はCNY 3699(~$555/€498)、Tortoiseshell はCNY 3849(~$577/€518)で、現在予約受付中、11月11日に発売される。Rokidは中国以外での発売時期を発表していない。"
         }
       ]
+    },
+    "gadgets/chatgpt-google-health-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT HealthはすでにUSのiOSとAndroidの両方で広く提供されているが、iPhoneユーザーがすでにApple Healthと連携できるのに対し、AndroidユーザーはまだGoogle Healthと連携できない。この状況は間もなく変わるかもしれない。"
+        },
+        {
+          "t": "p",
+          "x": "Android AuthorityはAndroid版ChatGPTアプリ(v1.2026.300)を解析し、複数のAndroid Health Connect権限への対応を追加するコードを発見した。最も重要なのは、アプリがGoogle Healthから過去の健康データを読み取れるようになる可能性がある点で、「READ_HEALTH_DATA_IN_BACKGROUND」権限は、ユーザーが明示的にアプリを開かなくても健康データにアクセスできる可能性を示唆している。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ほかの権限には、体重、基礎代謝率、体脂肪、除脂肪体重、骨量のほか、月経、性行為、排卵といった生殖に関する健康データが含まれる。Health Connectの権限説明画面と権限使用インターフェース用に二つの新しいアクティビティが追加されており、作業はかなり進んでいるとみられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは、ユーザーがAIに健康情報の分析や洞察、助言を任せることを望んでいる。これらの権限はまだ有効になっておらず、AndroidユーザーへのGoogle Health対応もまだ始まっていない。"
+        }
+      ]
+    },
+    "gadgets/gemini-kids-daily-time-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "親はすでにFamily Linkを使って子どものGeminiへのアクセスを許可またはブロックできるが、その方法は全面許可か全面禁止かの二択だ。Googleは、親がGeminiの一日の利用上限を設定できる機能を開発しているとみられる。"
+        },
+        {
+          "t": "p",
+          "x": "Android AuthorityはGoogleアプリのバージョン17.72.13.sa.arm64ビルドで、子どもの端末側の視点で書かれた新しい文字列を見つけた。一つは「Your parent set a daily time limit for Gemini」、もう一つは「Your daily Gemini time limit changed」だ。"
+        },
+        {
+          "t": "p",
+          "x": "子どもが割り当てられた時間を使い切ると、アプリは一日の上限と次にGeminiを使える時刻を知らせ、ロック画面にはClose appボタンが表示されるとみられる。親が制限を解除すると、「Your daily Gemini time limit was turned off」というメッセージが表示される。"
+        },
+        {
+          "t": "p",
+          "x": "文字列からは、タイマーがGeminiアプリだけに適用されるのか、オーバーレイやGoogle MessagesなどGemini全般に及ぶのかは分からず、親側の画面も不明なままだ。それでも、子どものAI利用を親がより細かく管理できるようになるはずだ。"
+        }
+      ]
+    },
+    "gadgets/chatgpt-classic-app-retired": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "数か月前、OpenAIはChatGPT、Work、Codexを一つのインターフェースにまとめた新しいChatGPTデスクトップアプリをリリースし、従来のアプリはChatGPT Classicに改称された。この動きは物議を醸した。ネイティブのmacOSアプリがElectron-basedの版に置き換えられ、新しいインターフェースは非常に分かりにくかったからだ。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Classicはほとんど手を加えられないまま残り、新しいモデルが新アプリ専用の機能と結びつくにつれて信頼性が低下した。そして今、ユーザーに表示されるメッセージで、アプリが2027年1月30日に正式に終了することが告げられている。「このアプリは2027年1月30日に終了します。新しいChatGPTアプリで最新機能をご利用ください。チャット履歴はすべて引き継がれるため、中断したところから再開できます」"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはまた、今後数週間のうちに少数のグループを対象に、ChatとWorkを統合した環境のテストを始めるとユーザーに伝えている。Greg Brockman社長がこのインターフェースを「ちょっとした混乱状態」と評してから数か月後のことだ。ユーザーはファイルやプラグインを取り込み、ChatGPTにウェブサイトの構築やプレゼンテーションの作成、ウェブ上での操作を依頼できるようになる。Codexは引き続き別扱いとなるが、ChatGPTとCodexには個別の上限に代わって共通の利用枠が設けられる。"
+        }
+      ]
+    },
+    "gadgets/parakeet-local-dictation-laptop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "2026年にもなって、音声の文字起こしにサブスクリプションが必要であってはならない。そこで、Raspberry Piから十年前のコンピューターまで、ほぼあらゆる機器で動く音声認識モデルParakeetをインストールし、Docker-basedのモデルとGUI付きのMacアプリの両方を試した。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "MacParakeetでParakeetをローカル実行している様子"
+        },
+        {
+          "t": "p",
+          "x": "試したのはParakeet TDT 0.6B v3で、Nvidiaが開発した600 million パラメータのモデルだ。専用のグラフィックカードは必要ない。量子化モデルの容量は約700MB で、RAM消費は約2GB だ。Dockerサーバーは導入が簡単だが、日常的に使うにはやや不便だ。"
+        },
+        {
+          "t": "p",
+          "x": "MacParakeetは同じモデルを、オンボーディングとファンクションキーによる音声入力を備えたMac用デスクトップアプリにまとめている。この記事はすべてMacParakeetで音声入力したが、Parakeetはなまりがあっても正確で、パフォーマンスへの影響もごくわずかだった。ドラッグしたオーディオファイルやYouTube、Instagramのリンクの文字起こし、話者識別付きの会議録音、Markdownでの書き出しもできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+          "cap": "MacParakeetでの音声入力"
+        },
+        {
+          "t": "p",
+          "x": "これらはすべて端末上で動作するため、音声の録音も文字起こしも完全にプライベートに保たれる。Parakeetは、私が使った中でおそらく最高のオンデバイス音声認識モデルだ。"
+        }
+      ]
+    },
+    "gadgets/meta-max-humanoid-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
+          "cap": "Kevin Frayer/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The Informationによると、Metaはロボティクス事業強化の一環として、家庭で人を手助けする人型ロボットの試作機を開発した。報道によれば、社内コードネームMaxと呼ばれるこのロボットは、中国のロボット企業Fourierの協力を得て約三か月で作られた。"
+        },
+        {
+          "t": "p",
+          "x": "The Informationの情報筋によると、ロボットの重さは約106 lbs、身長は約1.5メートル(約五フィート)だ。外側には表情を映すディスプレイ、内蔵スピーカー、小さな物をつかめるよう設計された手を備えているという。内部では、ロボットを動かすチップとしてNVIDIAのJetson Thorを採用したと報じられている。"
+        },
+        {
+          "t": "p",
+          "x": "The Informationの報道によれば、Maxの一般向け製品の発売日は決まっていないが、Metaは9月から、コードネームMax 2という二台目の試作機の開発をすでに進めている。同社は胴体と手のデザインを改良し、階段をうまく扱えるようプロジェクターと追加センサーを搭載しているという。"
+        },
+        {
+          "t": "p",
+          "x": "Metaの人型ロボットへの参入は早くも昨年に始まった。Bloombergは当時、同社が最終的に家事をこなせるロボットハードウェアの開発を目指す新チームを設けたと報じた。その後Metaは今年初め、ロボット専用の人工知能開発で知られるスタートアップを買収した。"
+        }
+      ]
     }
   }
 }

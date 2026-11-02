@@ -3182,6 +3182,125 @@
           "x": "这项研究表明，对话式AI的推荐方式可能比单纯在搜索结果顶部展示对消费者选择产生更大影响。尤其是，即便有广告标识，劝说效果仍在很大程度上得以保持，用户也难以察觉广告引导，因此AI购物服务的广告透明度与用户保护预计将成为重要课题。"
         }
       ]
+    },
+    "marketing/amazon-alexa-shopping-400m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon在第三财季财报电话会上表示，过去12个月中使用过Alexa for Shopping的客户已超过400M 人，高于7月底的350M 人。CEO Andy Jassy表示，使用Alexa for Shopping的客户比不使用的客户多花50%。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon公布第三季度净销售额为$201.9B ，增长12%。Amazon于2024年2月以Rufus之名推出这款AI购物助手，并于5月更名为Alexa for Shopping；在假日季前，它还宣布了100多项新功能，包括礼物清单、礼品登记和Subscribe and Save管理。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon已阻止ChatGPT和Meta的Muse购物代理等平台抓取其网站。Jassy表示：“虽然我们预计会与横向代理合作，但我们认为Alexa for Shopping将成为客户在Amazon购物时使用的主要购物代理。”"
+        }
+      ]
+    },
+    "marketing/google-ads-strategist-ai-personas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-cloaked-O1oGKOSV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "隶属Google Extended Workforce的Google Ads Strategists在联系广告主时，使用AI-generated的头像和姓名。Joe Youngblood在X上发帖称：“Google正在用AI-generated的人来担任Google Ads联系人。”"
+        },
+        {
+          "t": "p",
+          "x": "他拒接一名xWF合同工的电话后，一小时后收到一封自称Google Ads Strategist的“Kassy Garcia”发来的邮件。他在LinkedIn上查无此人，而Google的AI检测工具显示，这张头像是AI-generated的。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
+          "cap": "邮件"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-headshot-lF5qcSfV.jpg",
+          "cap": "AI头像"
+        },
+        {
+          "t": "p",
+          "x": "Google的文档称，其代表的邮箱地址一律以@xwf.google.com结尾。Search Engine Roundtable就此做法向Google询问，但未获回复。"
+        }
+      ]
+    },
+    "marketing/svedka-superbowl-consumer-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/xjzikIA1P0-a1-NNHIzCTrqpdnyHJ5txBlFoqEmNKl0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp",
+          "cap": "TV真人秀主持人Andy Cohen采访Svedka的吉祥物，为其Super Bowl广告大赛造势。"
+        },
+        {
+          "t": "p",
+          "x": "Svedka将下一支Super Bowl广告的主导权交给消费者，邀请他们为其即饮产品Vodka Water制作一支15秒(15-second)广告。投稿截至12月1日，获胜者将获得$500,000奖金。"
+        },
+        {
+          "t": "p",
+          "x": "此前，该品牌在首支Super Bowl广告中用人工智能让其女机器人吉祥物“活”了起来，因而引发争议，这次大赛正是在此之后推出的。Sazerac集团总裁兼CMO Sara Saunders说：“我们听到很多人说自己能做得更好。我们也欢迎这场争论。”一套数字工具包让参赛作品可以是“AI-led、低成本到好笑、出人意料地有电影感，或在创意上雄心勃勃”。"
+        },
+        {
+          "t": "video",
+          "yt": "pdZLcOF71Is"
+        },
+        {
+          "t": "p",
+          "x": "Andy Cohen指出，上一支广告曾被评为“大胆、怪异，是一场反乌托邦噩梦”，他将协助评审投稿。那支Super Bowl LX广告由AI创新实验室Silverside制作。"
+        }
+      ]
+    },
+    "marketing/clarity-ai-agent-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Clarity于2026年10月29日发布了一项分析，涵盖2026年8月13日至9月9日期间在230,511个Clarity项目中记录的超过5.2M 次涉及AI代理的网站会话。其中25.21%记录到结账，而同一批网站上仅有人类的会话为14.65%。"
+        },
+        {
+          "t": "p",
+          "x": "在人类会话中，外链点击以26.99%居首，但在代理会话中仅占14.28%；表单提交则相近，分别为19.85%和18.56%。Book appointment(8.42%)和Check availability(2.41%)进入了代理会话前十，却未进入人类会话前十。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft表示，代理会话可能包含其无法区分的人工接手，因此这些结果“不一定是代理自主完成的操作”。按PPC Land的计算，这些百分比对应的基数约为1.22M 次会话，而非5.2M 次。Microsoft还正式推出了Agent Activity Dashboard。"
+        }
+      ]
+    },
+    "marketing/microsoft-ai-ad-guidelines": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising于2026年10月28日起允许广告主以书面形式向其AI提供最多40条准则，说明生成的广告文案应该说什么、不应该说什么。这项公开试点与Conversions API全面上线、Performance Max广告系列新增搜索词报告一同宣布。"
+        },
+        {
+          "t": "p",
+          "x": "新的AI-powered广告系列创建流程允许首次投放的广告主在提供网站的同时分享“营销计划、品牌指南和产品图片等材料”；系统会把它们转化为“可编辑的业务快照”，据此影响AI搭建首个Performance Max广告系列的方式。"
+        },
+        {
+          "t": "p",
+          "x": "信息准则目前在Performance Max以及启用AI Max的Search广告系列中公开试点。Microsoft建议将其用于“关于声明、主题、概念、语气或需避免用语的更广泛规则”，例如一家高端零售商加入“绝不暗示产品价格低廉”；准则也可以提供“偏好的措辞、主题或语气”。40条的上限与Google的文本准则一致。"
+        },
+        {
+          "t": "p",
+          "x": "Performance Max还新增年龄和性别定向、搜索词与竞价洞察报告，以及受众排除试点；搜索词着陆页报告将于11月中旬(mid-November)开始推出。Conversions API现已全面上线，合作伙伴包括Adobe Real-Time CDP、Segment by Twilio、Tealium和Zeotap。"
+        }
+      ]
     }
   }
 }

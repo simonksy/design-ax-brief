@@ -10347,6 +10347,153 @@
           "x": "The agent runs this model alongside leading third-party models. Typical tasks are about 20% faster; the new agent beats or matches the previous production agent 62% of the time, user ratings are 33% higher, and users undo its work 60% less often."
         }
       ]
+    },
+    "design/runway-dev-coding-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
+        },
+        {
+          "t": "p",
+          "x": "Today, we're launching Runway Dev plugins for Claude Code, Codex and Cursor. One install connects your coding agent to your Runway Dev account through the Runway Dev MCP and adds Runway's skills for building with the API. Describe the feature you want, like a product video for every item in your store, and your agent builds it end-to-end without leaving the editor."
+        },
+        {
+          "t": "p",
+          "x": "Setting up: your agent starts by reading your Runway Dev account, including the projects available, the models each project can use with their prices and limits and the credit balance. Building: your agent creates a Model Router to pick the right model for each request, or a Character for real-time avatars, directly from the editor. For common use cases, it builds on Recipes or on Workflows your team has published as API endpoints. Debugging: when a task fails, your agent looks up the error details and sees why a Model Router picked a given model."
+        },
+        {
+          "t": "p",
+          "x": "Sign in with your Runway Dev account the first time your agent uses it. No API key is stored in the plugin. Runway Dev is built for anyone who ships by directing a coding agent, from indie developers and technical founders to product engineers and product managers."
+        }
+      ]
+    },
+    "design/character-creator-52-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2 gives Reallusion’s character creation software a new AI model generation toolset, making it possible to generate characters, clothing and hair from reference images."
+        },
+        {
+          "t": "video",
+          "yt": "cm9GlStqHQk"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2 introduces two major toolsets: the AI 3D model generator and CC Wrap. The model generator generates 3D character, clothing, hairstyles and accessories from reference images, using third-party generative AI models: Tripo P2.0 for low-poly topology, and Tripo H3.1 and Hunyuan V3.1 for high-poly detail. A supporting concept design module uses generative AI to generate single-view reference images tailored to use for 3D mesh generation."
+        },
+        {
+          "t": "p",
+          "x": "CC Wrap converts custom 3D characters – humanoid characters sculpted manually in other DCC applications, or generated via AI – to Reallusion’s CC3+ and CC5 HD formats, also auto-rigging the character after the wrapping process is completed. Other features: AI Mesh Generator generates 3D models from 1-4 reference images; AI Polygon Reduction remeshes models to uniform quad meshes, using Tripo AI; support for importing 3D models in GLB format."
+        },
+        {
+          "t": "p",
+          "x": "The AI Mesh Generation toolset is also available in its sibling tool, iClone 8.76."
+        }
+      ]
+    },
+    "design/cisco-pubhub-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
+        },
+        {
+          "t": "p",
+          "x": "For a long time, our UI/UX workflow followed a familiar pattern: designers created screens in Figma, then developers translated those designs into code. On the latest revamp of PubHub (a DevNet internal publication tool), we needed to move quickly, so we tried asking AI to build the interface directly from our user stories and backend APIs. The AI-generated version worked end to end, but the app didn’t follow our visual language."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+          "cap": "Landing page, before and after"
+        },
+        {
+          "t": "p",
+          "x": "Converting the HTML pages into Figma via a Figma MCP connection ran into three problems: detail was lost in translation, updates took longer than expected, and the source of truth became unclear. Instead, we used an AI coding tool to inspect the existing prototype and adjust its HTML directly. The HTML prototype became the single source of truth."
+        },
+        {
+          "t": "p",
+          "x": "Partway through the project, designer ran out of tokens and moved from Cursor to Claude to Codex. The work survived because the HTML artifact, not any one tool, held the state of the design. Designer could turn out new iterations every day; under the old Figma-first process, a single page took days."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+          "cap": "AI-Powered Interface Workflow"
+        },
+        {
+          "t": "p",
+          "x": "Designers share the updated HTML artifact with its design system, persona flows and a changelog; developers give them to a coding agent, which applies the design changes to the real project."
+        }
+      ]
+    },
+    "design/christy-cad-claude-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+        },
+        {
+          "t": "p",
+          "x": "Carrying one CAD program from a 613 kHz HP-85 to a Mac M4 that drafts from speech taught me about accuracy, speed, and writing code the next reader can pick up cold. — John M. Christy, author of CADD/85, CADD 200/300 and C3."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+          "cap": "An HP-85 computer. (Image: Wolfgang Stief/Wikimedia.)"
+        },
+        {
+          "t": "p",
+          "x": "The rewrite began around October 2025. Early on I began handing pieces of the Pascal to Claude to analyze and comment on, and that is how the Apple code began. I stopped being the programmer who writes the code and became the producer and director who decides what gets built, and the quality-control tester who decides whether it ships. The program, now called C3, was feature-complete by February 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+          "cap": "The C3 interface with a circuit schematic developed by John Hardy. (Image: John M. Christy.)"
+        },
+        {
+          "t": "p",
+          "x": "With Claude as my programming partner, an idea, its implementation, and its testing sometimes take minutes instead of months. Nearly two thousand tests run before any new code is committed. C3 now understands more than two hundred spoken commands, and in September it became an assistant: a language model driving the program through its own command catalogue, one undo step per request, and driven by dictation."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+          "cap": "A bolt circle flange drawn entirely by the C3 assistant. (Image: John M. Christy.)"
+        }
+      ]
+    },
+    "design/adobe-editagent-toolpicker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe researchers built an AI agent for image editing that pairs a general-purpose editor with specialized tools. Researchers at Adobe Research and UC San Diego want EditAgent to work more like a pro in Photoshop: it picks the right tool for each task and compares the result against the original using hard numbers."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+          "cap": "Instead of retrying the same editor over and over, EditAgent generates candidates with different methods in parallel and has an unmodified language model compare them all at once. | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "In a test of 600 image edits, blind-rated by five professionals, the general-purpose editor Flux-2-Klein-9B failed to produce a usable result 42.7 percent of the time. Specialized tools solved roughly two-thirds of those failures. Professionals preferred parallel variants generated from the original in 78.5 percent of the comparisons where they picked a side."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+          "cap": "EditAgent breaks a request into dependent steps and generates multiple candidates per step. | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "For each variant, the judge model gets a verification record with a close-up of the edited area, a change map and measured brightness and color statistics. With it, all seven language models tested beat every fine-tuned model: Qwen3.8-27B made a usable pick 81.3 percent of the time, compared to 74.8 percent for EditScore-72B."
+        },
+        {
+          "t": "p",
+          "x": "EditAgent also checks whether later edits undid earlier ones. It needs about ten times as much compute as a single editor, but its roughly 26,000 verified examples made fine-tuned editors better across all three benchmarks."
+        }
+      ]
     }
   }
 }

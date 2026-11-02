@@ -1,227 +1,529 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "design",
   "cards": [
     {
-      "id": "adobe-editagent-toolpicker",
+      "id": "figma-weave-tldr",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EditAgent,\n편집마다 도구를 고른다",
-      "body": "Adobe·UC San Diego의 EditAgent는 단계별로 도구를 바꿔 쓴다.",
-      "mini_headline": "도구를 골라 쓰는 Adobe EditAgent",
+      "headline": "Figma Weave로\nAI 워크플로 재사용",
+      "body": "제작팀은 Figma Weave 캔버스에 노드형 AI 워크플로를 짜 두고 다시 쓴다.",
+      "mini_headline": "Figma Weave 한눈에 보기",
+      "tool": "Figma",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "Figma Weave는 제작 수요가 꾸준한 크리에이티브 팀을 겨냥한 플랫폼이다. Weave는 이미지나 영상을 만들고 편집하는 과정을 팀원과 함께 손보고 다시 쓰는 시퀀스로 바꾼다. 작업은 캔버스 위에 서로 이어진 노드로 짜인다. 노드는 이미지와 프롬프트를 넣고 콘텐츠를 생성하고 편집하는 단위 블록이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+            "cap": "Figma Weave 캔버스에서는 이어진 노드가 창작 과정의 단계를 하나하나 보여 준다."
+          },
+          {
+            "t": "p",
+            "x": "브랜치라는 별도 경로를 쓰면 원본은 그대로 두고 같은 출발점에서 다른 프롬프트나 편집을 시험해 볼 수 있다. 같은 프롬프트를 여러 AI 모델에 돌려 결과를 나란히 비교해도 된다."
+          },
+          {
+            "t": "p",
+            "x": "편집 도구도 노드 형태라 다른 단계에 이어 붙일 수 있다. 색 보정, 컴포지터, 레벨, 트림, 크롭, 페인터가 있다. Weave 툴은 워크플로를 하나로 묶어 두기 때문에 팀원은 노드를 들여다보거나 프롬프트를 처음부터 쓰지 않고도 바로 실행한다. 다음 사용자는 사진을 올리고 Generate만 누르면 된다."
+          },
+          {
+            "t": "p",
+            "x": "Figma 노드를 쓰면 Figma Design의 프레임을 복사해 Weave에 붙여 넣을 수 있다. 붙여 넣은 프레임은 원본과 계속 연결된다. Figma Design에서 원본 프레임을 고치면 Weave의 연결된 Figma 노드에도 그대로 반영된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Figma Weave makes AI\nworkflows repeatable",
+          "body": "Figma Weave lets creative teams build node-based AI generation workflows on the canvas and reuse them.",
+          "mini_headline": "Figma Weave, explained",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weave is a platform for creative teams with ongoing production needs. Weave turns the process of creating and editing imagery or video into a sequence you and your teammates can tweak and reuse. The work comes together in nodes—building blocks for adding images and prompts, generating content, and making edits—connected on the canvas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "The Figma Weave canvas uses connected nodes to show each step of your creative process."
+              },
+              {
+                "t": "p",
+                "x": "Separate paths, called branches, let you try different prompts or edits from the same starting point while keeping the original available. You can also run the same prompt through different AI models and compare the results side by side."
+              },
+              {
+                "t": "p",
+                "x": "Editing tools appear as nodes you can connect to other steps: color correction, compositor, levels, trim, crop and painter. A Weave tool packages a workflow so teammates can run it without navigating the nodes or writing prompts from scratch—the next user would just upload a photo and click Generate."
+              },
+              {
+                "t": "p",
+                "x": "With the Figma node, you can copy a frame from Figma Design and paste it into Weave, where it stays connected to the original. If you change the original frame in Figma Design, that change is reflected in its connected Figma node in Weave."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Figma Weave로\nAI 워크플로 재사용",
+          "body": "제작팀은 Figma Weave 캔버스에 노드형 AI 워크플로를 짜 두고 다시 쓴다.",
+          "mini_headline": "Figma Weave 한눈에 보기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weave는 제작 수요가 꾸준한 크리에이티브 팀을 겨냥한 플랫폼이다. Weave는 이미지나 영상을 만들고 편집하는 과정을 팀원과 함께 손보고 다시 쓰는 시퀀스로 바꾼다. 작업은 캔버스 위에 서로 이어진 노드로 짜인다. 노드는 이미지와 프롬프트를 넣고 콘텐츠를 생성하고 편집하는 단위 블록이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "Figma Weave 캔버스에서는 이어진 노드가 창작 과정의 단계를 하나하나 보여 준다."
+              },
+              {
+                "t": "p",
+                "x": "브랜치라는 별도 경로를 쓰면 원본은 그대로 두고 같은 출발점에서 다른 프롬프트나 편집을 시험해 볼 수 있다. 같은 프롬프트를 여러 AI 모델에 돌려 결과를 나란히 비교해도 된다."
+              },
+              {
+                "t": "p",
+                "x": "편집 도구도 노드 형태라 다른 단계에 이어 붙일 수 있다. 색 보정, 컴포지터, 레벨, 트림, 크롭, 페인터가 있다. Weave 툴은 워크플로를 하나로 묶어 두기 때문에 팀원은 노드를 들여다보거나 프롬프트를 처음부터 쓰지 않고도 바로 실행한다. 다음 사용자는 사진을 올리고 Generate만 누르면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Figma 노드를 쓰면 Figma Design의 프레임을 복사해 Weave에 붙여 넣을 수 있다. 붙여 넣은 프레임은 원본과 계속 연결된다. Figma Design에서 원본 프레임을 고치면 Weave의 연결된 Figma 노드에도 그대로 반영된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Figma Weaveで\nAIワークフローを再現可能に",
+          "body": "Figma Weaveでは制作チームがノード型AIワークフローを組み、再利用できる。",
+          "mini_headline": "Figma Weaveとは",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weaveは、継続的な制作ニーズを抱えるクリエイティブチーム向けのプラットフォームだ。Weaveは画像や動画の生成・編集プロセスを、チームで調整し再利用できる一連の手順に変える。作業はキャンバス上でつながったノードの形でまとまる。ノードとは、画像やプロンプトの追加、コンテンツの生成、編集を担う構成要素である。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "Figma Weaveのキャンバスでは、つながったノードが制作プロセスの各ステップを示す。"
+              },
+              {
+                "t": "p",
+                "x": "ブランチと呼ばれる別の経路を使えば、元の状態を残したまま、同じ起点から異なるプロンプトや編集を試せる。同じプロンプトを複数のAIモデルで実行し、結果を並べて比較することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "編集ツールは、ほかのステップにつなげられるノードとして用意されている。色補正、コンポジター、レベル、トリム、クロップ、ペインターだ。Weaveツールはワークフローをひとまとめにし、チームメンバーがノードをたどったりプロンプトを一から書いたりせずに実行できるようにする。次の利用者は写真をアップロードしてGenerateをクリックするだけでよい。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaノードを使えば、Figma DesignのフレームをコピーしてWeaveに貼り付けられ、貼り付けたフレームは元のフレームとつながったままになる。Figma Designで元のフレームを変更すると、その変更はWeave内の対応するFigmaノードにも反映される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Figma Weave让\nAI工作流可重复使用",
+          "body": "Figma Weave让创意团队在画布上搭建基于节点的AI生成工作流并重复使用。",
+          "mini_headline": "Figma Weave详解",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weave是面向有持续制作需求的创意团队的平台。Weave把创建和编辑图像或视频的过程，变成你和队友可以调整、重复使用的流程序列。工作由画布上相互连接的节点组成，节点是用于添加图像和提示词、生成内容以及进行编辑的基本模块。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "Figma Weave画布用相互连接的节点展示创作过程的每一步。"
+              },
+              {
+                "t": "p",
+                "x": "被称为分支的独立路径，可以让你从同一起点尝试不同的提示词或编辑，同时保留原始版本。你还可以把同一提示词交给不同的AI模型运行，并排比较结果。"
+              },
+              {
+                "t": "p",
+                "x": "编辑工具以节点形式出现，可与其他步骤连接：色彩校正、合成器、色阶、修剪、裁切和绘画工具。Weave工具会把一套工作流打包，让队友无需逐个查看节点或从头编写提示词就能运行；下一位用户只需上传一张照片，点击Generate即可。"
+              },
+              {
+                "t": "p",
+                "x": "借助Figma节点，你可以从Figma Design复制一个画框并粘贴到Weave中，它会与原始画框保持连接。如果在Figma Design中修改原始画框，这一改动会同步反映到Weave中与之相连的Figma节点上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Figma Weave hace repetibles\nlos flujos de trabajo con IA",
+          "body": "Figma Weave permite a los equipos creativos crear flujos de generación con IA basados en nodos y reutilizarlos.",
+          "mini_headline": "Figma Weave, en detalle",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weave es una plataforma para equipos creativos con necesidades de producción continuas. Weave convierte el proceso de crear y editar imágenes o video en una secuencia que usted y su equipo pueden ajustar y reutilizar. El trabajo se organiza en nodos conectados en el lienzo: bloques para añadir imágenes y prompts, generar contenido y hacer ediciones."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "El lienzo de Figma Weave usa nodos conectados para mostrar cada paso del proceso creativo."
+              },
+              {
+                "t": "p",
+                "x": "Unas rutas separadas, llamadas ramas, permiten probar distintos prompts o ediciones desde el mismo punto de partida sin perder el original. También se puede ejecutar el mismo prompt en distintos modelos de IA y comparar los resultados lado a lado."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas de edición aparecen como nodos que se conectan a otros pasos: corrección de color, compositor, niveles, recorte de duración, recorte de encuadre y pintor. Una herramienta de Weave empaqueta un flujo de trabajo para que los compañeros lo ejecuten sin recorrer los nodos ni escribir prompts desde cero: el siguiente usuario solo tiene que subir una foto y hacer clic en Generate."
+              },
+              {
+                "t": "p",
+                "x": "Con el nodo de Figma se puede copiar un marco de Figma Design y pegarlo en Weave, donde sigue conectado al original. Si se modifica el marco original en Figma Design, el cambio se refleja en el nodo de Figma conectado en Weave."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Figma Weave로\nAI 워크플로 재사용",
+          "body": "Figma Weave로 제작팀은 노드형 AI 워크플로를 캔버스에 짜서 재사용한다.",
+          "mini_headline": "Figma Weave 한눈에 보기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weave는 꾸준한 제작 수요가 있는 크리에이티브 팀을 위한 플랫폼이다. Weave는 이미지나 영상을 만들고 편집하는 과정을 팀원과 함께 손보고 재사용할 수 있는 시퀀스로 바꾼다. 작업은 캔버스 위에서 서로 연결된 노드로 구성된다. 노드는 이미지와 프롬프트를 넣고, 콘텐츠를 생성하고, 편집을 하는 단위 블록이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "Figma Weave 캔버스는 연결된 노드로 창작 과정의 각 단계를 보여 준다."
+              },
+              {
+                "t": "p",
+                "x": "브랜치라 부르는 별도 경로를 쓰면 원본을 그대로 둔 채 같은 출발점에서 다른 프롬프트나 편집을 시험할 수 있다. 같은 프롬프트를 여러 AI 모델에 돌려 결과를 나란히 비교할 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "편집 도구는 다른 단계와 연결할 수 있는 노드로 제공된다. 색 보정, 컴포지터, 레벨, 트림, 크롭, 페인터가 있다. Weave 툴은 워크플로를 하나로 묶어, 팀원이 노드를 살피거나 프롬프트를 처음부터 쓰지 않고도 실행하게 한다. 다음 사용자는 사진을 올리고 Generate만 누르면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Figma 노드를 쓰면 Figma Design의 프레임을 복사해 Weave에 붙여 넣을 수 있고, 붙여 넣은 프레임은 원본과 연결된 상태로 남는다. Figma Design에서 원본 프레임을 바꾸면 Weave의 연결된 Figma 노드에도 그 변경이 반영된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Figma Weaveで\nAIワークフローを再現可能に",
+          "body": "Figma Weaveでは制作チームがノード型AIワークフローを組み、再利用できる。",
+          "mini_headline": "Figma Weaveとは",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weaveは、継続的な制作ニーズを抱えるクリエイティブチーム向けのプラットフォームだ。Weaveは画像や動画の生成・編集プロセスを、チームで調整し再利用できる一連の手順に変える。作業はキャンバス上でつながったノードの形でまとまる。ノードとは、画像やプロンプトの追加、コンテンツの生成、編集を担う構成要素である。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "Figma Weaveのキャンバスでは、つながったノードが制作プロセスの各ステップを示す。"
+              },
+              {
+                "t": "p",
+                "x": "ブランチと呼ばれる別の経路を使えば、元の状態を残したまま、同じ起点から異なるプロンプトや編集を試せる。同じプロンプトを複数のAIモデルで実行し、結果を並べて比較することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "編集ツールは、ほかのステップにつなげられるノードとして用意されている。色補正、コンポジター、レベル、トリム、クロップ、ペインターだ。Weaveツールはワークフローをひとまとめにし、チームメンバーがノードをたどったりプロンプトを一から書いたりせずに実行できるようにする。次の利用者は写真をアップロードしてGenerateをクリックするだけでよい。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaノードを使えば、Figma DesignのフレームをコピーしてWeaveに貼り付けられ、貼り付けたフレームは元のフレームとつながったままになる。Figma Designで元のフレームを変更すると、その変更はWeave内の対応するFigmaノードにも反映される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Figma Weave让\nAI工作流可重复使用",
+          "body": "Figma Weave让创意团队在画布上搭建基于节点的AI生成工作流并重复使用。",
+          "mini_headline": "Figma Weave详解",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weave是面向有持续制作需求的创意团队的平台。Weave把创建和编辑图像或视频的过程，变成你和队友可以调整、重复使用的流程序列。工作由画布上相互连接的节点组成，节点是用于添加图像和提示词、生成内容以及进行编辑的基本模块。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "Figma Weave画布用相互连接的节点展示创作过程的每一步。"
+              },
+              {
+                "t": "p",
+                "x": "被称为分支的独立路径，可以让你从同一起点尝试不同的提示词或编辑，同时保留原始版本。你还可以把同一提示词交给不同的AI模型运行，并排比较结果。"
+              },
+              {
+                "t": "p",
+                "x": "编辑工具以节点形式出现，可与其他步骤连接：色彩校正、合成器、色阶、修剪、裁切和绘画工具。Weave工具会把一套工作流打包，让队友无需逐个查看节点或从头编写提示词就能运行；下一位用户只需上传一张照片，点击Generate即可。"
+              },
+              {
+                "t": "p",
+                "x": "借助Figma节点，你可以从Figma Design复制一个画框并粘贴到Weave中，它会与原始画框保持连接。如果在Figma Design中修改原始画框，这一改动会同步反映到Weave中与之相连的Figma节点上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Figma Weave hace repetibles\nlos flujos de trabajo con IA",
+          "body": "Figma Weave permite a los equipos creativos crear flujos de generación con IA basados en nodos y reutilizarlos.",
+          "mini_headline": "Figma Weave, en detalle",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Figma Weave es una plataforma para equipos creativos con necesidades de producción continuas. Weave convierte el proceso de crear y editar imágenes o video en una secuencia que usted y su equipo pueden ajustar y reutilizar. El trabajo se organiza en nodos conectados en el lienzo: bloques para añadir imágenes y prompts, generar contenido y hacer ediciones."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+                "cap": "El lienzo de Figma Weave usa nodos conectados para mostrar cada paso del proceso creativo."
+              },
+              {
+                "t": "p",
+                "x": "Unas rutas separadas, llamadas ramas, permiten probar distintos prompts o ediciones desde el mismo punto de partida sin perder el original. También se puede ejecutar el mismo prompt en distintos modelos de IA y comparar los resultados lado a lado."
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas de edición aparecen como nodos que se conectan a otros pasos: corrección de color, compositor, niveles, recorte de duración, recorte de encuadre y pintor. Una herramienta de Weave empaqueta un flujo de trabajo para que los compañeros lo ejecuten sin recorrer los nodos ni escribir prompts desde cero: el siguiente usuario solo tiene que subir una foto y hacer clic en Generate."
+              },
+              {
+                "t": "p",
+                "x": "Con el nodo de Figma se puede copiar un marco de Figma Design y pegarlo en Weave, donde sigue conectado al original. Si se modifica el marco original en Figma Design, el cambio se refleja en el nodo de Figma conectado en Weave."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "runway-dev-coding-plugins",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Runway Dev가\n코딩 에이전트에 연결",
+      "body": "Runway Dev 플러그인을 깔면 코딩 에이전트가 생성형 미디어 기능을 만든다.",
+      "mini_headline": "코딩 에이전트용 Runway Dev",
       "tool": "KeyShot",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "source": "Runway",
+      "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Adobe 연구진이 범용 편집기와 전용 도구를 묶은 이미지 편집 AI 에이전트를 만들었다. Adobe Research와 UC San Diego 연구진이 그리는 EditAgent는 Photoshop을 다루는 전문가처럼 일한다. 작업마다 알맞은 도구를 고르고 결과를 원본과 구체적인 수치로 비교한다."
-          },
-          {
             "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-            "cap": "EditAgent는 같은 편집기를 되풀이해 돌리지 않는다. 서로 다른 방법으로 후보를 병렬로 만들고 손대지 않은 언어 모델이 이를 한꺼번에 비교한다. | Image: Adobe"
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
           },
           {
             "t": "p",
-            "x": "전문가 다섯 명이 이미지 편집 600건을 블라인드로 평가했다. 범용 편집기 Flux-2-Klein-9B 모델은 42.7퍼센트에서 쓸 만한 결과를 내지 못했고, 전용 도구가 이런 실패의 약 삼분의 이를 해결했다. 한쪽을 고른 비교의 78.5퍼센트에서 전문가들은 원본에서 바로 병렬 생성한 변형을 택했다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-            "cap": "EditAgent는 요청을 연속된 단계로 쪼개고 단계마다 후보를 여러 개 만든다. | Image: Adobe"
+            "x": "Claude Code, Codex, Cursor용 Runway Dev 플러그인이 오늘 나왔다. 한 번만 설치하면 코딩 에이전트가 Runway Dev MCP로 Runway Dev 계정에 붙고, API 개발에 필요한 Runway의 스킬도 함께 들어온다. 매장의 모든 상품에 제품 영상을 붙이는 기능처럼 원하는 걸 설명하면 에이전트가 에디터를 떠나지 않고 처음부터 끝까지 만들어 낸다."
           },
           {
             "t": "p",
-            "x": "판정 모델은 변형마다 검증 기록을 받는다. 편집 부위 클로즈업과 변화 맵, 측정한 밝기·색상 통계가 들어 있다. 이 기록을 주자 시험한 언어 모델 일곱 개가 하나같이 미세조정 모델 전부를 앞섰다. Qwen3.8-27B 모델은 81.3퍼센트에서 쓸 만한 쪽을 골랐고 EditScore-72B 모델은 74.8퍼센트였다."
+            "x": "설정: 에이전트는 먼저 Runway Dev 계정부터 읽는다. 쓸 수 있는 프로젝트, 프로젝트마다 허용된 모델과 그 가격·한도, 크레딧 잔액까지 본다. 개발: 에디터 안에서 바로 요청마다 맞는 모델을 고르는 Model Router나 실시간 아바타용 Character를 만든다. 흔한 용도라면 Recipes나 팀이 API 엔드포인트로 게시해 둔 Workflows를 토대로 삼는다. 디버깅: 작업이 실패하면 오류 세부 정보를 찾아보고 Model Router가 왜 그 모델을 골랐는지 확인한다."
           },
           {
             "t": "p",
-            "x": "뒤 편집이 앞 편집을 되돌리지 않았는지도 EditAgent가 살핀다. 연산은 단일 편집기의 약 열 배가 든다. 대신 검증을 거친 예시 약 26,000개 덕분에 미세조정 편집기의 성능이 세 벤치마크에서 모두 올랐다."
+            "x": "로그인은 에이전트가 처음 쓸 때 Runway Dev 계정으로 하면 된다. API 키는 플러그인에 저장되지 않는다. Runway Dev는 인디 개발자와 기술 창업자부터 프로덕트 엔지니어, 프로덕트 매니저까지, 코딩 에이전트를 지휘해 제품을 내놓는 사람이라면 누구나 쓰라고 만든 도구다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Adobe's EditAgent picks\nthe right tool for each edit",
-          "body": "EditAgent, from Adobe Research and UC San Diego, picks a specialized tool for each image-editing step.",
-          "mini_headline": "Adobe EditAgent picks its tools",
+          "headline": "Runway Dev plugs into\nClaude Code and Cursor",
+          "body": "Runway Dev plugins let Claude Code, Codex and Cursor call Runway's API to build generative media features.",
+          "mini_headline": "Runway Dev for coding agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe researchers built an AI agent for image editing that pairs a general-purpose editor with specialized tools. Researchers at Adobe Research and UC San Diego want EditAgent to work more like a pro in Photoshop: it picks the right tool for each task and compares the result against the original using hard numbers."
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "Instead of retrying the same editor over and over, EditAgent generates candidates with different methods in parallel and has an unmodified language model compare them all at once. | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "In a test of 600 image edits, blind-rated by five professionals, the general-purpose editor Flux-2-Klein-9B failed to produce a usable result 42.7 percent of the time. Specialized tools solved roughly two-thirds of those failures. Professionals preferred parallel variants generated from the original in 78.5 percent of the comparisons where they picked a side."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgent breaks a request into dependent steps and generates multiple candidates per step. | Image: Adobe"
+                "x": "Today, we're launching Runway Dev plugins for Claude Code, Codex and Cursor. One install connects your coding agent to your Runway Dev account through the Runway Dev MCP and adds Runway's skills for building with the API. Describe the feature you want, like a product video for every item in your store, and your agent builds it end-to-end without leaving the editor."
               },
               {
                 "t": "p",
-                "x": "For each variant, the judge model gets a verification record with a close-up of the edited area, a change map and measured brightness and color statistics. With it, all seven language models tested beat every fine-tuned model: Qwen3.8-27B made a usable pick 81.3 percent of the time, compared to 74.8 percent for EditScore-72B."
+                "x": "Setting up: your agent starts by reading your Runway Dev account, including the projects available, the models each project can use with their prices and limits and the credit balance. Building: your agent creates a Model Router to pick the right model for each request, or a Character for real-time avatars, directly from the editor. For common use cases, it builds on Recipes or on Workflows your team has published as API endpoints. Debugging: when a task fails, your agent looks up the error details and sees why a Model Router picked a given model."
               },
               {
                 "t": "p",
-                "x": "EditAgent also checks whether later edits undid earlier ones. It needs about ten times as much compute as a single editor, but its roughly 26,000 verified examples made fine-tuned editors better across all three benchmarks."
+                "x": "Sign in with your Runway Dev account the first time your agent uses it. No API key is stored in the plugin. Runway Dev is built for anyone who ships by directing a coding agent, from indie developers and technical founders to product engineers and product managers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EditAgent,\n편집마다 도구를 고른다",
-          "body": "Adobe·UC San Diego의 EditAgent는 단계별로 도구를 바꿔 쓴다.",
-          "mini_headline": "도구를 골라 쓰는 Adobe EditAgent",
+          "headline": "Runway Dev가\n코딩 에이전트에 연결",
+          "body": "Runway Dev 플러그인을 깔면 코딩 에이전트가 생성형 미디어 기능을 만든다.",
+          "mini_headline": "코딩 에이전트용 Runway Dev",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe 연구진이 범용 편집기와 전용 도구를 묶은 이미지 편집 AI 에이전트를 만들었다. Adobe Research와 UC San Diego 연구진이 그리는 EditAgent는 Photoshop을 다루는 전문가처럼 일한다. 작업마다 알맞은 도구를 고르고 결과를 원본과 구체적인 수치로 비교한다."
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "EditAgent는 같은 편집기를 되풀이해 돌리지 않는다. 서로 다른 방법으로 후보를 병렬로 만들고 손대지 않은 언어 모델이 이를 한꺼번에 비교한다. | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "전문가 다섯 명이 이미지 편집 600건을 블라인드로 평가했다. 범용 편집기 Flux-2-Klein-9B 모델은 42.7퍼센트에서 쓸 만한 결과를 내지 못했고, 전용 도구가 이런 실패의 약 삼분의 이를 해결했다. 한쪽을 고른 비교의 78.5퍼센트에서 전문가들은 원본에서 바로 병렬 생성한 변형을 택했다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgent는 요청을 연속된 단계로 쪼개고 단계마다 후보를 여러 개 만든다. | Image: Adobe"
+                "x": "Claude Code, Codex, Cursor용 Runway Dev 플러그인이 오늘 나왔다. 한 번만 설치하면 코딩 에이전트가 Runway Dev MCP로 Runway Dev 계정에 붙고, API 개발에 필요한 Runway의 스킬도 함께 들어온다. 매장의 모든 상품에 제품 영상을 붙이는 기능처럼 원하는 걸 설명하면 에이전트가 에디터를 떠나지 않고 처음부터 끝까지 만들어 낸다."
               },
               {
                 "t": "p",
-                "x": "판정 모델은 변형마다 검증 기록을 받는다. 편집 부위 클로즈업과 변화 맵, 측정한 밝기·색상 통계가 들어 있다. 이 기록을 주자 시험한 언어 모델 일곱 개가 하나같이 미세조정 모델 전부를 앞섰다. Qwen3.8-27B 모델은 81.3퍼센트에서 쓸 만한 쪽을 골랐고 EditScore-72B 모델은 74.8퍼센트였다."
+                "x": "설정: 에이전트는 먼저 Runway Dev 계정부터 읽는다. 쓸 수 있는 프로젝트, 프로젝트마다 허용된 모델과 그 가격·한도, 크레딧 잔액까지 본다. 개발: 에디터 안에서 바로 요청마다 맞는 모델을 고르는 Model Router나 실시간 아바타용 Character를 만든다. 흔한 용도라면 Recipes나 팀이 API 엔드포인트로 게시해 둔 Workflows를 토대로 삼는다. 디버깅: 작업이 실패하면 오류 세부 정보를 찾아보고 Model Router가 왜 그 모델을 골랐는지 확인한다."
               },
               {
                 "t": "p",
-                "x": "뒤 편집이 앞 편집을 되돌리지 않았는지도 EditAgent가 살핀다. 연산은 단일 편집기의 약 열 배가 든다. 대신 검증을 거친 예시 약 26,000개 덕분에 미세조정 편집기의 성능이 세 벤치마크에서 모두 올랐다."
+                "x": "로그인은 에이전트가 처음 쓸 때 Runway Dev 계정으로 하면 된다. API 키는 플러그인에 저장되지 않는다. Runway Dev는 인디 개발자와 기술 창업자부터 프로덕트 엔지니어, 프로덕트 매니저까지, 코딩 에이전트를 지휘해 제품을 내놓는 사람이라면 누구나 쓰라고 만든 도구다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EditAgentは\n編集ごとに最適ツールを選ぶ",
-          "body": "Adobe・UC San DiegoのEditAgentは工程ごとに専用ツールを選ぶ。",
-          "mini_headline": "Adobe EditAgentのツール選択",
+          "headline": "Runway Devが\nコーディングAIに接続",
+          "body": "Runway Devプラグインで、コーディングエージェントが生成メディア機能を作れる。",
+          "mini_headline": "コーディングエージェント向けRunway Dev",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobeの研究者が、汎用エディターと専用ツールを組み合わせた画像編集用のAIエージェントを開発した。Adobe ResearchとUC San Diegoの研究者は、EditAgentをPhotoshopを使いこなすプロのように動かすことを目指している。タスクごとに適切なツールを選び、結果を原画像と具体的な数値で比較するのだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "同じエディターで何度もやり直す代わりに、EditAgentは異なる手法で候補を並列に生成し、手を加えていない言語モデルにそれらを一度に比較させる。 | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "五人のプロがブラインド評価した600件の画像編集テストで、汎用エディターのFlux-2-Klein-9B は42.7パーセントのケースで使える結果を出せなかった。専用ツールはその失敗の約三分の二を解決した。プロがどちらかを選んだ比較のうち78.5パーセントで、原画像から並列に生成したバリエーションが好まれた。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgentは依頼を依存関係のあるステップに分解し、ステップごとに複数の候補を生成する。 | Image: Adobe"
+                "x": "本日、Claude Code、Codex、Cursor向けのRunway Devプラグインを公開する。一度インストールするだけで、Runway Dev MCPを通じてコーディングエージェントがRunway Devアカウントにつながり、APIを使った開発のためのRunwayのスキルが加わる。ストアの全商品に製品動画を用意するといった欲しい機能を説明すれば、エージェントはエディタを離れることなく端から端まで作り上げる。"
               },
               {
                 "t": "p",
-                "x": "判定モデルはバリエーションごとに検証記録を受け取る。編集部分のクローズアップ、変化マップ、測定した明るさと色の統計が含まれる。これにより、テストした七つの言語モデルすべてが、あらゆるファインチューニング済みモデルを上回った。Qwen3.8-27B は81.3パーセントのケースで使える候補を選び、EditScore-72B は74.8パーセントだった。"
+                "x": "セットアップ：エージェントはまずRunway Devアカウントを読み込む。利用できるプロジェクト、各プロジェクトで使えるモデルとその価格・上限、クレジット残高が対象だ。構築：エージェントはエディタから直接、リクエストごとに適切なモデルを選ぶModel Routerや、リアルタイムアバター用のCharacterを作成する。よくある用途では、Recipesや、チームがAPIエンドポイントとして公開したWorkflowsを土台にする。デバッグ：タスクが失敗すると、エージェントはエラーの詳細を調べ、Model Routerがなぜそのモデルを選んだのかを確認する。"
               },
               {
                 "t": "p",
-                "x": "EditAgentは、後の編集が先の編集を打ち消していないかも確認する。単一のエディターの約十倍の計算量を要するが、検証済みの約26,000件の事例によって、ファインチューニングしたエディターは三つのベンチマークすべてで性能が向上した。"
+                "x": "エージェントが初めて使うときに、Runway Devアカウントでサインインする。プラグインにAPIキーは保存されない。Runway Devは、インディー開発者や技術系の創業者からプロダクトエンジニア、プロダクトマネージャーまで、コーディングエージェントに指示して製品を出すすべての人に向けて作られている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EditAgent：\n为每次编辑挑选合适工具",
-          "body": "Adobe与UC San Diego的EditAgent为每个编辑步骤挑选专用工具。",
-          "mini_headline": "Adobe EditAgent自选工具",
+          "headline": "Runway Dev接入\nClaude Code等工具",
+          "body": "Runway Dev插件让编程智能体调用API构建生成式媒体功能。",
+          "mini_headline": "面向编程智能体的Runway Dev",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe研究人员打造了一款图像编辑AI代理，将通用编辑器与专用工具结合起来。Adobe Research和UC San Diego的研究人员希望EditAgent像Photoshop中的专业人士那样工作：为每项任务挑选合适的工具，并用确切的数字将结果与原图比较。"
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "EditAgent不再反复重试同一个编辑器，而是用不同方法并行生成候选结果，再让一个未经修改的语言模型一次性比较全部候选。 | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "在一项由五位专业人士盲评的600次图像编辑测试中，通用编辑器Flux-2-Klein-9B 有百分之42.7的情况未能产出可用结果。专用工具解决了其中约三分之二的失败。在专业人士选边的对比中，有百分之78.5更青睐从原图并行生成的变体。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgent将请求拆分为相互依赖的步骤，并为每一步生成多个候选。 | Image: Adobe"
+                "x": "今天，我们推出面向Claude Code、Codex和Cursor的Runway Dev插件。只需安装一次，编程智能体就能通过Runway Dev MCP连接到你的Runway Dev账户，并获得使用API进行开发的Runway技能。描述你想要的功能，比如为店里每件商品生成一段产品视频，智能体就会在不离开编辑器的情况下端到端完成构建。"
               },
               {
                 "t": "p",
-                "x": "对每个变体，评判模型都会拿到一份验证记录，其中包括编辑区域特写、变化图以及实测的亮度与色彩统计。借助这份记录，受测的七个语言模型全都胜过所有微调模型：Qwen3.8-27B 有百分之81.3的情况做出可用选择，EditScore-72B 则为百分之74.8。"
+                "x": "设置：智能体首先读取你的Runway Dev账户信息，包括可用项目、每个项目可用的模型及其价格和限额，以及积分余额。构建：智能体直接在编辑器中创建Model Router，为每个请求挑选合适的模型；或创建用于实时虚拟形象的Character。对于常见用例，它会基于Recipes或团队以API端点形式发布的Workflows进行构建。调试：任务失败时，智能体会查看错误详情，并了解Model Router为何选择了某个模型。"
               },
               {
                 "t": "p",
-                "x": "EditAgent还会检查后续编辑是否抵消了先前的编辑。它所需的算力约为单个编辑器的十倍，但其约26,000个经过验证的示例让微调后的编辑器在全部三项基准测试中都有提升。"
+                "x": "智能体首次使用时，用你的Runway Dev账户登录即可。插件中不存储任何API密钥。Runway Dev面向所有通过指挥编程智能体来交付产品的人，从独立开发者、技术型创始人到产品工程师和产品经理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "EditAgent de Adobe elige\nla herramienta para cada edición",
-          "body": "EditAgent, de Adobe Research y UC San Diego, elige una herramienta especializada para cada paso de edición de imagen.",
-          "mini_headline": "EditAgent de Adobe elige sus herramientas",
+          "headline": "Runway Dev se conecta a\nClaude Code y Cursor",
+          "body": "Los plugins de Runway Dev permiten a Claude Code, Codex y Cursor usar la API de Runway y crear medios generativos.",
+          "mini_headline": "Runway Dev para agentes de programación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores de Adobe crearon un agente de AI para edición de imágenes que combina un editor de uso general con herramientas especializadas. Los investigadores de Adobe Research y UC San Diego quieren que EditAgent trabaje más como un profesional en Photoshop: elige la herramienta adecuada para cada tarea y compara el resultado con el original mediante cifras concretas."
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "En lugar de reintentar una y otra vez con el mismo editor, EditAgent genera candidatos con distintos métodos en paralelo y hace que un modelo de lenguaje sin modificar los compare todos a la vez. | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "En una prueba de 600 ediciones de imagen, evaluadas a ciegas por cinco profesionales, el editor de uso general Flux-2-Klein-9B no logró un resultado utilizable el 42.7 por ciento de las veces. Las herramientas especializadas resolvieron aproximadamente dos tercios de esos fallos. Los profesionales prefirieron las variantes paralelas generadas a partir del original en el 78.5 por ciento de las comparaciones en las que eligieron un lado."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgent divide una solicitud en pasos dependientes y genera varios candidatos por paso. | Image: Adobe"
+                "x": "Hoy lanzamos los plugins de Runway Dev para Claude Code, Codex y Cursor. Con una sola instalación, su agente de programación se conecta a su cuenta de Runway Dev a través del Runway Dev MCP y suma las habilidades de Runway para desarrollar con la API. Describa la función que quiere, como un video de producto para cada artículo de su tienda, y el agente la construye de principio a fin sin salir del editor."
               },
               {
                 "t": "p",
-                "x": "Para cada variante, el modelo juez recibe un registro de verificación con un primer plano del área editada, un mapa de cambios y estadísticas medidas de brillo y color. Con él, los siete modelos de lenguaje probados superaron a todos los modelos ajustados: Qwen3.8-27B hizo una elección utilizable el 81.3 por ciento de las veces, frente al 74.8 por ciento de EditScore-72B."
+                "x": "Configuración: el agente empieza por leer su cuenta de Runway Dev, con los proyectos disponibles, los modelos que puede usar cada proyecto con sus precios y límites, y el saldo de créditos. Desarrollo: el agente crea desde el editor un Model Router que elige el modelo adecuado para cada solicitud, o un Character para avatares en tiempo real. Para los casos de uso habituales, se apoya en Recipes o en Workflows que su equipo haya publicado como endpoints de la API. Depuración: cuando una tarea falla, el agente consulta los detalles del error y ve por qué un Model Router eligió un modelo concreto."
               },
               {
                 "t": "p",
-                "x": "EditAgent también comprueba si las ediciones posteriores deshicieron las anteriores. Necesita unas diez veces más cómputo que un solo editor, pero sus aproximadamente 26,000 ejemplos verificados mejoraron a los editores ajustados en los tres benchmarks."
+                "x": "Inicie sesión con su cuenta de Runway Dev la primera vez que el agente la use. El plugin no almacena ninguna clave de API. Runway Dev está pensado para cualquiera que publique productos dirigiendo a un agente de programación, desde desarrolladores independientes y fundadores técnicos hasta ingenieros y gerentes de producto."
               }
             ]
           }
@@ -229,145 +531,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EditAgent는\n편집마다 맞는 도구 고른다",
-          "body": "Adobe·UC San Diego의 EditAgent는 단계마다 도구를 고른다.",
-          "mini_headline": "Adobe EditAgent의 도구 선택",
+          "headline": "Runway Dev가\n코딩 에이전트에 연결",
+          "body": "Runway Dev 플러그인으로 코딩 에이전트가 생성형 미디어 기능을 만든다.",
+          "mini_headline": "코딩 에이전트용 Runway Dev",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe 연구진이 범용 편집기와 전용 도구를 결합한 이미지 편집용 AI 에이전트를 만들었다. Adobe Research와 UC San Diego 연구진은 EditAgent가 Photoshop을 다루는 전문가처럼 작동하기를 바란다. 작업마다 알맞은 도구를 고르고, 결과를 원본과 구체적인 수치로 비교한다."
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "EditAgent는 같은 편집기를 거듭 다시 돌리는 대신 서로 다른 방법으로 후보를 병렬 생성하고, 수정하지 않은 언어 모델이 이를 한꺼번에 비교하게 한다. | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "전문가 다섯 명이 블라인드 평가한 이미지 편집 600건 테스트에서 범용 편집기 Flux-2-Klein-9B 모델은 42.7퍼센트의 경우 쓸 만한 결과를 내지 못했다. 전용 도구는 이런 실패의 약 삼분의 이를 해결했다. 전문가들은 한쪽을 고른 비교의 78.5퍼센트에서 원본으로부터 병렬 생성한 변형을 선호했다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgent는 요청을 서로 이어지는 단계로 나누고 단계마다 여러 후보를 생성한다. | Image: Adobe"
+                "x": "오늘 Claude Code, Codex, Cursor용 Runway Dev 플러그인을 내놓는다. 한 번 설치하면 Runway Dev MCP를 통해 코딩 에이전트가 Runway Dev 계정에 연결되고, API로 개발하는 데 필요한 Runway의 스킬이 더해진다. 매장의 모든 상품마다 제품 영상을 만드는 기능처럼 원하는 기능을 설명하면, 에이전트가 에디터를 벗어나지 않고 처음부터 끝까지 만들어 낸다."
               },
               {
                 "t": "p",
-                "x": "판정 모델은 변형마다 검증 기록을 받는다. 여기에는 편집 부위 클로즈업, 변화 맵, 측정한 밝기·색상 통계가 담긴다. 이 기록을 쓰자 테스트한 언어 모델 일곱 개가 모두 미세조정 모델 전부를 앞섰다. Qwen3.8-27B 모델은 81.3퍼센트의 경우 쓸 만한 선택을 했고, EditScore-72B 모델은 74.8퍼센트였다."
+                "x": "설정: 에이전트는 먼저 Runway Dev 계정을 읽는다. 사용할 수 있는 프로젝트, 프로젝트별로 쓸 수 있는 모델과 그 가격·한도, 크레딧 잔액이 여기에 포함된다. 개발: 에이전트는 에디터에서 바로 요청마다 알맞은 모델을 고르는 Model Router나 실시간 아바타용 Character를 만든다. 흔한 용도라면 Recipes나 팀이 API 엔드포인트로 게시한 Workflows를 바탕으로 만든다. 디버깅: 작업이 실패하면 에이전트가 오류 세부 정보를 찾아보고, Model Router가 특정 모델을 고른 이유를 확인한다."
               },
               {
                 "t": "p",
-                "x": "EditAgent는 뒤의 편집이 앞의 편집을 되돌리지 않았는지도 확인한다. 단일 편집기보다 연산이 약 열 배 들지만, 검증을 거친 약 26,000개 예시 덕분에 미세조정 편집기의 성능이 세 벤치마크 모두에서 나아졌다."
+                "x": "에이전트가 처음 사용할 때 Runway Dev 계정으로 로그인하면 된다. 플러그인에는 API 키가 저장되지 않는다. Runway Dev는 인디 개발자와 기술 창업자부터 프로덕트 엔지니어, 프로덕트 매니저까지 코딩 에이전트를 지휘해 제품을 내놓는 모든 사람을 위해 만들어졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EditAgentは\n編集ごとに最適ツールを選ぶ",
-          "body": "Adobe・UC San DiegoのEditAgentは工程ごとに専用ツールを選ぶ。",
-          "mini_headline": "Adobe EditAgentのツール選択",
+          "headline": "Runway Devが\nコーディングAIに接続",
+          "body": "Runway Devプラグインで、コーディングエージェントが生成メディア機能を作れる。",
+          "mini_headline": "コーディングエージェント向けRunway Dev",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobeの研究者が、汎用エディターと専用ツールを組み合わせた画像編集用のAIエージェントを開発した。Adobe ResearchとUC San Diegoの研究者は、EditAgentをPhotoshopを使いこなすプロのように動かすことを目指している。タスクごとに適切なツールを選び、結果を原画像と具体的な数値で比較するのだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "同じエディターで何度もやり直す代わりに、EditAgentは異なる手法で候補を並列に生成し、手を加えていない言語モデルにそれらを一度に比較させる。 | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "五人のプロがブラインド評価した600件の画像編集テストで、汎用エディターのFlux-2-Klein-9B は42.7パーセントのケースで使える結果を出せなかった。専用ツールはその失敗の約三分の二を解決した。プロがどちらかを選んだ比較のうち78.5パーセントで、原画像から並列に生成したバリエーションが好まれた。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgentは依頼を依存関係のあるステップに分解し、ステップごとに複数の候補を生成する。 | Image: Adobe"
+                "x": "本日、Claude Code、Codex、Cursor向けのRunway Devプラグインを公開する。一度インストールするだけで、Runway Dev MCPを通じてコーディングエージェントがRunway Devアカウントにつながり、APIを使った開発のためのRunwayのスキルが加わる。ストアの全商品に製品動画を用意するといった欲しい機能を説明すれば、エージェントはエディタを離れることなく端から端まで作り上げる。"
               },
               {
                 "t": "p",
-                "x": "判定モデルはバリエーションごとに検証記録を受け取る。編集部分のクローズアップ、変化マップ、測定した明るさと色の統計が含まれる。これにより、テストした七つの言語モデルすべてが、あらゆるファインチューニング済みモデルを上回った。Qwen3.8-27B は81.3パーセントのケースで使える候補を選び、EditScore-72B は74.8パーセントだった。"
+                "x": "セットアップ：エージェントはまずRunway Devアカウントを読み込む。利用できるプロジェクト、各プロジェクトで使えるモデルとその価格・上限、クレジット残高が対象だ。構築：エージェントはエディタから直接、リクエストごとに適切なモデルを選ぶModel Routerや、リアルタイムアバター用のCharacterを作成する。よくある用途では、Recipesや、チームがAPIエンドポイントとして公開したWorkflowsを土台にする。デバッグ：タスクが失敗すると、エージェントはエラーの詳細を調べ、Model Routerがなぜそのモデルを選んだのかを確認する。"
               },
               {
                 "t": "p",
-                "x": "EditAgentは、後の編集が先の編集を打ち消していないかも確認する。単一のエディターの約十倍の計算量を要するが、検証済みの約26,000件の事例によって、ファインチューニングしたエディターは三つのベンチマークすべてで性能が向上した。"
+                "x": "エージェントが初めて使うときに、Runway Devアカウントでサインインする。プラグインにAPIキーは保存されない。Runway Devは、インディー開発者や技術系の創業者からプロダクトエンジニア、プロダクトマネージャーまで、コーディングエージェントに指示して製品を出すすべての人に向けて作られている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EditAgent：\n为每次编辑挑选合适工具",
-          "body": "Adobe与UC San Diego的EditAgent为每个编辑步骤挑选专用工具。",
-          "mini_headline": "Adobe EditAgent自选工具",
+          "headline": "Runway Dev接入\nClaude Code等工具",
+          "body": "Runway Dev插件让编程智能体调用API构建生成式媒体功能。",
+          "mini_headline": "面向编程智能体的Runway Dev",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe研究人员打造了一款图像编辑AI代理，将通用编辑器与专用工具结合起来。Adobe Research和UC San Diego的研究人员希望EditAgent像Photoshop中的专业人士那样工作：为每项任务挑选合适的工具，并用确切的数字将结果与原图比较。"
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "EditAgent不再反复重试同一个编辑器，而是用不同方法并行生成候选结果，再让一个未经修改的语言模型一次性比较全部候选。 | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "在一项由五位专业人士盲评的600次图像编辑测试中，通用编辑器Flux-2-Klein-9B 有百分之42.7的情况未能产出可用结果。专用工具解决了其中约三分之二的失败。在专业人士选边的对比中，有百分之78.5更青睐从原图并行生成的变体。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgent将请求拆分为相互依赖的步骤，并为每一步生成多个候选。 | Image: Adobe"
+                "x": "今天，我们推出面向Claude Code、Codex和Cursor的Runway Dev插件。只需安装一次，编程智能体就能通过Runway Dev MCP连接到你的Runway Dev账户，并获得使用API进行开发的Runway技能。描述你想要的功能，比如为店里每件商品生成一段产品视频，智能体就会在不离开编辑器的情况下端到端完成构建。"
               },
               {
                 "t": "p",
-                "x": "对每个变体，评判模型都会拿到一份验证记录，其中包括编辑区域特写、变化图以及实测的亮度与色彩统计。借助这份记录，受测的七个语言模型全都胜过所有微调模型：Qwen3.8-27B 有百分之81.3的情况做出可用选择，EditScore-72B 则为百分之74.8。"
+                "x": "设置：智能体首先读取你的Runway Dev账户信息，包括可用项目、每个项目可用的模型及其价格和限额，以及积分余额。构建：智能体直接在编辑器中创建Model Router，为每个请求挑选合适的模型；或创建用于实时虚拟形象的Character。对于常见用例，它会基于Recipes或团队以API端点形式发布的Workflows进行构建。调试：任务失败时，智能体会查看错误详情，并了解Model Router为何选择了某个模型。"
               },
               {
                 "t": "p",
-                "x": "EditAgent还会检查后续编辑是否抵消了先前的编辑。它所需的算力约为单个编辑器的十倍，但其约26,000个经过验证的示例让微调后的编辑器在全部三项基准测试中都有提升。"
+                "x": "智能体首次使用时，用你的Runway Dev账户登录即可。插件中不存储任何API密钥。Runway Dev面向所有通过指挥编程智能体来交付产品的人，从独立开发者、技术型创始人到产品工程师和产品经理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "EditAgent de Adobe elige\nla herramienta para cada edición",
-          "body": "EditAgent, de Adobe Research y UC San Diego, elige una herramienta especializada para cada paso de edición de imagen.",
-          "mini_headline": "EditAgent de Adobe elige sus herramientas",
+          "headline": "Runway Dev se conecta a\nClaude Code y Cursor",
+          "body": "Los plugins de Runway Dev permiten a Claude Code, Codex y Cursor usar la API de Runway y crear medios generativos.",
+          "mini_headline": "Runway Dev para agentes de programación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores de Adobe crearon un agente de AI para edición de imágenes que combina un editor de uso general con herramientas especializadas. Los investigadores de Adobe Research y UC San Diego quieren que EditAgent trabaje más como un profesional en Photoshop: elige la herramienta adecuada para cada tarea y compara el resultado con el original mediante cifras concretas."
-              },
-              {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
-                "cap": "En lugar de reintentar una y otra vez con el mismo editor, EditAgent genera candidatos con distintos métodos en paralelo y hace que un modelo de lenguaje sin modificar los compare todos a la vez. | Image: Adobe"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
               },
               {
                 "t": "p",
-                "x": "En una prueba de 600 ediciones de imagen, evaluadas a ciegas por cinco profesionales, el editor de uso general Flux-2-Klein-9B no logró un resultado utilizable el 42.7 por ciento de las veces. Las herramientas especializadas resolvieron aproximadamente dos tercios de esos fallos. Los profesionales prefirieron las variantes paralelas generadas a partir del original en el 78.5 por ciento de las comparaciones en las que eligieron un lado."
-              },
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
-                "cap": "EditAgent divide una solicitud en pasos dependientes y genera varios candidatos por paso. | Image: Adobe"
+                "x": "Hoy lanzamos los plugins de Runway Dev para Claude Code, Codex y Cursor. Con una sola instalación, su agente de programación se conecta a su cuenta de Runway Dev a través del Runway Dev MCP y suma las habilidades de Runway para desarrollar con la API. Describa la función que quiere, como un video de producto para cada artículo de su tienda, y el agente la construye de principio a fin sin salir del editor."
               },
               {
                 "t": "p",
-                "x": "Para cada variante, el modelo juez recibe un registro de verificación con un primer plano del área editada, un mapa de cambios y estadísticas medidas de brillo y color. Con él, los siete modelos de lenguaje probados superaron a todos los modelos ajustados: Qwen3.8-27B hizo una elección utilizable el 81.3 por ciento de las veces, frente al 74.8 por ciento de EditScore-72B."
+                "x": "Configuración: el agente empieza por leer su cuenta de Runway Dev, con los proyectos disponibles, los modelos que puede usar cada proyecto con sus precios y límites, y el saldo de créditos. Desarrollo: el agente crea desde el editor un Model Router que elige el modelo adecuado para cada solicitud, o un Character para avatares en tiempo real. Para los casos de uso habituales, se apoya en Recipes o en Workflows que su equipo haya publicado como endpoints de la API. Depuración: cuando una tarea falla, el agente consulta los detalles del error y ve por qué un Model Router eligió un modelo concreto."
               },
               {
                 "t": "p",
-                "x": "EditAgent también comprueba si las ediciones posteriores deshicieron las anteriores. Necesita unas diez veces más cómputo que un solo editor, pero sus aproximadamente 26,000 ejemplos verificados mejoraron a los editores ajustados en los tres benchmarks."
+                "x": "Inicie sesión con su cuenta de Runway Dev la primera vez que el agente la use. El plugin no almacena ninguna clave de API. Runway Dev está pensado para cualquiera que publique productos dirigiendo a un agente de programación, desde desarrolladores independientes y fundadores técnicos hasta ingenieros y gerentes de producto."
               }
             ]
           }
@@ -375,195 +637,601 @@
       }
     },
     {
-      "id": "nngroup-ux-agentic-factories",
+      "id": "character-creator-52-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "에이전트 개발 공장 속\nUX의 자리",
-      "body": "NN/g는 UX가 AI 맥락 제공을 넘어 니즈 발굴·설계·평가를 맡으라고 한다.",
-      "mini_headline": "에이전트 소프트웨어 공장과 UX",
-      "tool": "AI Workflow",
-      "source": "Nielsen Norman Group",
-      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
-      "accent": "#ff5a4d",
+      "headline": "CC 5.2, 이미지로\n3D 캐릭터 만든다",
+      "body": "Character Creator 5.2는 참조 이미지에서 캐릭터·옷·헤어를 뽑는다.",
+      "mini_headline": "Character Creator 5.2의 AI",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Reallusion의 캐릭터 제작 소프트웨어 Character Creator 5.2에 새 AI 모델 생성 도구 세트가 들어갔다. 참조 이미지에서 캐릭터와 의상, 헤어를 생성한다."
+          },
+          {
+            "t": "video",
+            "yt": "cm9GlStqHQk"
+          },
+          {
+            "t": "p",
+            "x": "Character Creator 5.2의 주요 도구 세트는 두 가지, AI 3D 모델 생성기와 CC Wrap이다. 모델 생성기는 서드파티 생성형 AI 모델로 참조 이미지에서 3D 캐릭터, 의상, 헤어스타일, 액세서리를 만든다. 로우폴리 토폴로지는 Tripo P2.0이, 하이폴리 디테일은 Tripo H3.1과 Hunyuan V3.1이 맡는다. 보조 콘셉트 디자인 모듈은 3D 메시 생성에 맞춘 단일 시점 참조 이미지를 생성형 AI로 그려 준다."
+          },
+          {
+            "t": "p",
+            "x": "CC Wrap은 다른 DCC 애플리케이션에서 손으로 조각했거나 AI로 만든 휴머노이드 캐릭터 등 커스텀 3D 캐릭터를 Reallusion의 CC3+와 CC5 HD 포맷으로 바꾸고, 래핑이 끝나면 자동 리깅까지 해 준다. 기능은 더 있다. AI Mesh Generator는 참조 이미지 1-4장으로 3D 모델을 만들고, AI Polygon Reduction은 Tripo AI로 모델을 균일한 쿼드 메시로 리메시한다. GLB 포맷 3D 모델도 가져올 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "AI Mesh Generation 도구 세트는 자매 툴 iClone 8.76에도 들어 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Character Creator 5.2\nbuilds 3D from images",
+          "body": "Character Creator 5.2 generates characters, clothing and hair from reference images using Tripo and Hunyuan models.",
+          "mini_headline": "Character Creator 5.2 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2 gives Reallusion’s character creation software a new AI model generation toolset, making it possible to generate characters, clothing and hair from reference images."
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2 introduces two major toolsets: the AI 3D model generator and CC Wrap. The model generator generates 3D character, clothing, hairstyles and accessories from reference images, using third-party generative AI models: Tripo P2.0 for low-poly topology, and Tripo H3.1 and Hunyuan V3.1 for high-poly detail. A supporting concept design module uses generative AI to generate single-view reference images tailored to use for 3D mesh generation."
+              },
+              {
+                "t": "p",
+                "x": "CC Wrap converts custom 3D characters – humanoid characters sculpted manually in other DCC applications, or generated via AI – to Reallusion’s CC3+ and CC5 HD formats, also auto-rigging the character after the wrapping process is completed. Other features: AI Mesh Generator generates 3D models from 1-4 reference images; AI Polygon Reduction remeshes models to uniform quad meshes, using Tripo AI; support for importing 3D models in GLB format."
+              },
+              {
+                "t": "p",
+                "x": "The AI Mesh Generation toolset is also available in its sibling tool, iClone 8.76."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "CC 5.2, 이미지로\n3D 캐릭터 만든다",
+          "body": "Character Creator 5.2는 참조 이미지에서 캐릭터·옷·헤어를 뽑는다.",
+          "mini_headline": "Character Creator 5.2의 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Reallusion의 캐릭터 제작 소프트웨어 Character Creator 5.2에 새 AI 모델 생성 도구 세트가 들어갔다. 참조 이미지에서 캐릭터와 의상, 헤어를 생성한다."
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2의 주요 도구 세트는 두 가지, AI 3D 모델 생성기와 CC Wrap이다. 모델 생성기는 서드파티 생성형 AI 모델로 참조 이미지에서 3D 캐릭터, 의상, 헤어스타일, 액세서리를 만든다. 로우폴리 토폴로지는 Tripo P2.0이, 하이폴리 디테일은 Tripo H3.1과 Hunyuan V3.1이 맡는다. 보조 콘셉트 디자인 모듈은 3D 메시 생성에 맞춘 단일 시점 참조 이미지를 생성형 AI로 그려 준다."
+              },
+              {
+                "t": "p",
+                "x": "CC Wrap은 다른 DCC 애플리케이션에서 손으로 조각했거나 AI로 만든 휴머노이드 캐릭터 등 커스텀 3D 캐릭터를 Reallusion의 CC3+와 CC5 HD 포맷으로 바꾸고, 래핑이 끝나면 자동 리깅까지 해 준다. 기능은 더 있다. AI Mesh Generator는 참조 이미지 1-4장으로 3D 모델을 만들고, AI Polygon Reduction은 Tripo AI로 모델을 균일한 쿼드 메시로 리메시한다. GLB 포맷 3D 모델도 가져올 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI Mesh Generation 도구 세트는 자매 툴 iClone 8.76에도 들어 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CC 5.2、画像から\n3Dキャラクターを生成",
+          "body": "Character Creator 5.2は参照画像からキャラクターや衣服、髪を生成する。",
+          "mini_headline": "Character Creator 5.2のAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2は、Reallusionのキャラクター制作ソフトに新しいAIモデル生成ツールセットを加え、参照画像からキャラクター、衣服、髪を生成できるようにした。"
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2では、AI 3DモデルジェネレーターとCC Wrapという二つの主要ツールセットが導入された。モデルジェネレーターはサードパーティの生成AIモデルを使い、参照画像から3Dキャラクター、衣服、ヘアスタイル、アクセサリーを生成する。ローポリのトポロジーにはTripo P2.0を、ハイポリのディテールにはTripo H3.1とHunyuan V3.1を用いる。補助的なコンセプトデザインモジュールは、生成AIで3Dメッシュ生成向けに調整した単一視点の参照画像を作る。"
+              },
+              {
+                "t": "p",
+                "x": "CC Wrapは、ほかのDCCアプリケーションで手作業でスカルプトした、あるいはAIで生成したヒューマノイドキャラクターなどのカスタム3Dキャラクターを、ReallusionのCC3+およびCC5 HD形式に変換し、ラッピング完了後にキャラクターを自動でリギングする。その他の機能として、AI Mesh Generatorは1-4枚の参照画像から3Dモデルを生成し、AI Polygon ReductionはTripo AIを使ってモデルを均一なクアッドメッシュにリメッシュする。GLB形式の3Dモデルのインポートにも対応した。"
+              },
+              {
+                "t": "p",
+                "x": "AI Mesh Generationツールセットは、姉妹ツールのiClone 8.76でも利用できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CC 5.2：从图像\n生成3D角色",
+          "body": "Character Creator 5.2可从参考图像生成角色、服装和头发。",
+          "mini_headline": "Character Creator 5.2的AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2为Reallusion的角色制作软件加入了一套全新的AI模型生成工具，可以从参考图像生成角色、服装和头发。"
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2推出两大工具集：AI 3D模型生成器和CC Wrap。模型生成器借助第三方生成式AI模型，从参考图像生成3D角色、服装、发型和配饰：低多边形拓扑使用Tripo P2.0，高多边形细节使用Tripo H3.1和Hunyuan V3.1。配套的概念设计模块利用生成式AI，生成专为3D网格生成而定制的单视角参考图像。"
+              },
+              {
+                "t": "p",
+                "x": "CC Wrap可将自定义3D角色——在其他DCC应用中手工雕刻、或通过AI生成的人形角色——转换为Reallusion的CC3+和CC5 HD格式，并在包裹完成后自动为角色绑定骨骼。其他功能包括：AI Mesh Generator可根据1-4张参考图像生成3D模型；AI Polygon Reduction借助Tripo AI将模型重新网格化为均匀的四边形网格；支持导入GLB格式的3D模型。"
+              },
+              {
+                "t": "p",
+                "x": "AI Mesh Generation工具集也可在其姊妹工具iClone 8.76中使用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Character Creator 5.2\ngenera 3D a partir de imágenes",
+          "body": "Character Creator 5.2 genera personajes, ropa y cabello desde imágenes de referencia con modelos de Tripo y Hunyuan.",
+          "mini_headline": "La IA de Character Creator 5.2",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2 incorpora al software de creación de personajes de Reallusion un nuevo conjunto de herramientas de generación de modelos con IA, que permite generar personajes, ropa y cabello a partir de imágenes de referencia."
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2 introduce dos conjuntos de herramientas principales: el generador de modelos 3D con IA y CC Wrap. El generador crea personajes 3D, ropa, peinados y accesorios a partir de imágenes de referencia con modelos de IA generativa de terceros: Tripo P2.0 para la topología low-poly, y Tripo H3.1 y Hunyuan V3.1 para el detalle high-poly. Un módulo complementario de diseño conceptual usa IA generativa para crear imágenes de referencia de una sola vista adaptadas a la generación de mallas 3D."
+              },
+              {
+                "t": "p",
+                "x": "CC Wrap convierte personajes 3D personalizados (personajes humanoides esculpidos a mano en otras aplicaciones DCC o generados con IA) a los formatos CC3+ y CC5 HD de Reallusion, y además aplica un rigging automático al personaje cuando termina el proceso de envoltura. Otras funciones: AI Mesh Generator genera modelos 3D a partir de 1-4 imágenes de referencia; AI Polygon Reduction rehace la malla de los modelos en mallas quad uniformes con Tripo AI; y se admite la importación de modelos 3D en formato GLB."
+              },
+              {
+                "t": "p",
+                "x": "El conjunto de herramientas AI Mesh Generation también está disponible en su herramienta hermana, iClone 8.76."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "CC 5.2, 이미지로\n3D 캐릭터 만든다",
+          "body": "Character Creator 5.2는 참조 이미지로 캐릭터·옷·헤어를 만든다.",
+          "mini_headline": "Character Creator 5.2의 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2는 Reallusion의 캐릭터 제작 소프트웨어에 새로운 AI 모델 생성 도구 세트를 더해, 참조 이미지에서 캐릭터와 의상, 헤어를 생성할 수 있게 했다."
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2는 두 가지 주요 도구 세트를 선보인다. AI 3D 모델 생성기와 CC Wrap이다. 모델 생성기는 서드파티 생성형 AI 모델을 활용해 참조 이미지에서 3D 캐릭터, 의상, 헤어스타일, 액세서리를 생성한다. 로우폴리 토폴로지에는 Tripo P2.0을, 하이폴리 디테일에는 Tripo H3.1과 Hunyuan V3.1을 쓴다. 보조 콘셉트 디자인 모듈은 생성형 AI로 3D 메시 생성에 맞춘 단일 시점 참조 이미지를 만든다."
+              },
+              {
+                "t": "p",
+                "x": "CC Wrap은 다른 DCC 애플리케이션에서 직접 조각했거나 AI로 생성한 휴머노이드 캐릭터 같은 커스텀 3D 캐릭터를 Reallusion의 CC3+와 CC5 HD 포맷으로 변환하고, 래핑이 끝나면 캐릭터를 자동으로 리깅한다. 그 밖의 기능도 있다. AI Mesh Generator는 참조 이미지 1-4장으로 3D 모델을 만들고, AI Polygon Reduction은 Tripo AI를 이용해 모델을 균일한 쿼드 메시로 리메시한다. GLB 포맷 3D 모델 가져오기도 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "AI Mesh Generation 도구 세트는 자매 툴인 iClone 8.76에서도 쓸 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CC 5.2、画像から\n3Dキャラクターを生成",
+          "body": "Character Creator 5.2は参照画像からキャラクターや衣服、髪を生成する。",
+          "mini_headline": "Character Creator 5.2のAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2は、Reallusionのキャラクター制作ソフトに新しいAIモデル生成ツールセットを加え、参照画像からキャラクター、衣服、髪を生成できるようにした。"
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2では、AI 3DモデルジェネレーターとCC Wrapという二つの主要ツールセットが導入された。モデルジェネレーターはサードパーティの生成AIモデルを使い、参照画像から3Dキャラクター、衣服、ヘアスタイル、アクセサリーを生成する。ローポリのトポロジーにはTripo P2.0を、ハイポリのディテールにはTripo H3.1とHunyuan V3.1を用いる。補助的なコンセプトデザインモジュールは、生成AIで3Dメッシュ生成向けに調整した単一視点の参照画像を作る。"
+              },
+              {
+                "t": "p",
+                "x": "CC Wrapは、ほかのDCCアプリケーションで手作業でスカルプトした、あるいはAIで生成したヒューマノイドキャラクターなどのカスタム3Dキャラクターを、ReallusionのCC3+およびCC5 HD形式に変換し、ラッピング完了後にキャラクターを自動でリギングする。その他の機能として、AI Mesh Generatorは1-4枚の参照画像から3Dモデルを生成し、AI Polygon ReductionはTripo AIを使ってモデルを均一なクアッドメッシュにリメッシュする。GLB形式の3Dモデルのインポートにも対応した。"
+              },
+              {
+                "t": "p",
+                "x": "AI Mesh Generationツールセットは、姉妹ツールのiClone 8.76でも利用できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CC 5.2：从图像\n生成3D角色",
+          "body": "Character Creator 5.2可从参考图像生成角色、服装和头发。",
+          "mini_headline": "Character Creator 5.2的AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2为Reallusion的角色制作软件加入了一套全新的AI模型生成工具，可以从参考图像生成角色、服装和头发。"
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2推出两大工具集：AI 3D模型生成器和CC Wrap。模型生成器借助第三方生成式AI模型，从参考图像生成3D角色、服装、发型和配饰：低多边形拓扑使用Tripo P2.0，高多边形细节使用Tripo H3.1和Hunyuan V3.1。配套的概念设计模块利用生成式AI，生成专为3D网格生成而定制的单视角参考图像。"
+              },
+              {
+                "t": "p",
+                "x": "CC Wrap可将自定义3D角色——在其他DCC应用中手工雕刻、或通过AI生成的人形角色——转换为Reallusion的CC3+和CC5 HD格式，并在包裹完成后自动为角色绑定骨骼。其他功能包括：AI Mesh Generator可根据1-4张参考图像生成3D模型；AI Polygon Reduction借助Tripo AI将模型重新网格化为均匀的四边形网格；支持导入GLB格式的3D模型。"
+              },
+              {
+                "t": "p",
+                "x": "AI Mesh Generation工具集也可在其姊妹工具iClone 8.76中使用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Character Creator 5.2\ngenera 3D a partir de imágenes",
+          "body": "Character Creator 5.2 genera personajes, ropa y cabello desde imágenes de referencia con modelos de Tripo y Hunyuan.",
+          "mini_headline": "La IA de Character Creator 5.2",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2 incorpora al software de creación de personajes de Reallusion un nuevo conjunto de herramientas de generación de modelos con IA, que permite generar personajes, ropa y cabello a partir de imágenes de referencia."
+              },
+              {
+                "t": "video",
+                "yt": "cm9GlStqHQk"
+              },
+              {
+                "t": "p",
+                "x": "Character Creator 5.2 introduce dos conjuntos de herramientas principales: el generador de modelos 3D con IA y CC Wrap. El generador crea personajes 3D, ropa, peinados y accesorios a partir de imágenes de referencia con modelos de IA generativa de terceros: Tripo P2.0 para la topología low-poly, y Tripo H3.1 y Hunyuan V3.1 para el detalle high-poly. Un módulo complementario de diseño conceptual usa IA generativa para crear imágenes de referencia de una sola vista adaptadas a la generación de mallas 3D."
+              },
+              {
+                "t": "p",
+                "x": "CC Wrap convierte personajes 3D personalizados (personajes humanoides esculpidos a mano en otras aplicaciones DCC o generados con IA) a los formatos CC3+ y CC5 HD de Reallusion, y además aplica un rigging automático al personaje cuando termina el proceso de envoltura. Otras funciones: AI Mesh Generator genera modelos 3D a partir de 1-4 imágenes de referencia; AI Polygon Reduction rehace la malla de los modelos en mallas quad uniformes con Tripo AI; y se admite la importación de modelos 3D en formato GLB."
+              },
+              {
+                "t": "p",
+                "x": "El conjunto de herramientas AI Mesh Generation también está disponible en su herramienta hermana, iClone 8.76."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "cisco-pubhub-handoff",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Cisco, 핸드오프 파일\nHTML 프로토타입으로",
+      "body": "Cisco PubHub 팀은 AI로 만든 HTML 프로토타입을 핸드오프에 쓴다.",
+      "mini_headline": "Cisco의 AI 핸드오프",
+      "tool": "Figma",
+      "source": "Cisco Blogs",
+      "url": "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow",
+      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "AI-native 소프트웨어 개발 생명주기에서 UX는 AI에 넣을 맥락 정도로 쪼그라든다. 하지만 UX가 할 일은 사용자 니즈를 찾고 무엇을 만들지 정하며 출시 전후로 이를 평가하는 것이다."
+            "t": "img",
+            "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
           },
           {
             "t": "p",
-            "x": "Anthropic은 2026년 8월 AI-native 소프트웨어 개발 생명주기(SDLC) 비전을 내놓았다. Google(2026년 5월)과 OpenAI(2025년 11월)에 이은 발표다. 세 회사 모두 UX를 변두리로 밀어내고 AI 생성을 뒤에서 이끄는 맥락으로만 다룬다."
+            "x": "우리 UI/UX 워크플로는 오랫동안 익숙한 방식을 따랐다. 디자이너가 Figma로 화면을 그리면 개발자가 그 디자인을 코드로 옮기는 식이다. 최근 PubHub(DevNet 내부 출판 도구)를 개편하면서는 속도가 급해, 사용자 스토리와 백엔드 APIs를 주고 AI에게 인터페이스를 바로 만들게 했다. AI가 만든(AI-generated) 버전은 처음부터 끝까지 돌아갔다. 다만 앱이 우리 시각 언어를 따르지 않았다."
           },
           {
             "t": "img",
-            "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-            "cap": "전통 SDLC의 6단계"
+            "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+            "cap": "랜딩 페이지, 개편 전과 후"
           },
           {
             "t": "p",
-            "x": "Anthropic 플레이북에서 UX가 맡는 단계나 승인 관문은 하나도 없다. 사용자 리서치는 아예 언급되지 않는다. Test 단계는 빌드를 제품 책임자의 목업과 대조할 뿐이라 사용성이나 접근성이 좋은지는 보장하지 못한다. 출시 후 기술 지표를 지켜보는 일과 사용성 지표는 별개다."
+            "x": "Figma MCP 연결로 HTML 페이지를 Figma에 옮기자 문제가 세 가지 생겼다. 변환하면서 디테일이 빠졌고, 업데이트는 예상보다 오래 걸렸고, 무엇이 기준인지도 흐려졌다. 그래서 AI 코딩 도구로 기존 프로토타입을 살피고 HTML을 직접 고치는 쪽으로 바꿨다. 이제 기준은 HTML 프로토타입 하나다."
           },
           {
             "t": "p",
-            "x": "AI가 소프트웨어 생산 속도를 끌어올리는 지금 UX의 역할은 3가지다. 무엇이 만들 가치가 있는지 가리고, 만든 결과를 평가하고, AI 생성에 맥락을 보태는 일이다. 플레이북이 다루는 건 이 중 세 번째뿐이다. NN/g의 제안은 이렇다. intent.md는 사용자 니즈에 맞추고, 어느 작업에 UX 검토가 필요한지 정하고, 모니터링에 사용자 신호를 넣는다. UX 맥락의 주인 자리를 지키고 리서치와 디자인 시스템은 기계가 읽을 수 있게 만든다."
+            "x": "프로젝트 도중 디자이너는 토큰이 바닥나 Cursor에서 Claude로, 다시 Codex로 갈아탔다. 그래도 작업이 끊기지 않은 건 디자인 상태가 특정 도구가 아니라 HTML 산출물에 담겨 있었기 때문이다. 디자이너는 매일 새 버전을 내놓을 수 있었다. 예전 Figma 우선 방식에서는 한 페이지에 며칠씩 걸렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+            "cap": "AI 기반 인터페이스 워크플로"
+          },
+          {
+            "t": "p",
+            "x": "디자이너는 HTML 산출물을 업데이트해 디자인 시스템, 페르소나 흐름, 변경 기록과 함께 공유한다. 개발자가 이를 코딩 에이전트에 넘기면 에이전트가 디자인 변경을 실제 프로젝트에 반영한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Where UX fits in\nagentic software factories",
-          "body": "NN/g argues UX must find user needs, shape what gets built and evaluate it, not shrink into AI context.",
-          "mini_headline": "UX in agentic software factories",
+          "headline": "Cisco swaps handoff files\nfor an HTML prototype",
+          "body": "Cisco's PubHub team rebuilt design handoff with AI, making an HTML prototype the source of truth, not Figma files.",
+          "mini_headline": "Cisco's AI handoff",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what's built, and evaluate it before and after launch."
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "In August 2026, Anthropic published its vision of an AI-native software development lifecycle (SDLC), following publications by Google (May 2026) and OpenAI (November 2025). All three sideline UX, reducing it to behind-the-scenes context that guides AI generation."
+                "x": "For a long time, our UI/UX workflow followed a familiar pattern: designers created screens in Figma, then developers translated those designs into code. On the latest revamp of PubHub (a DevNet internal publication tool), we needed to move quickly, so we tried asking AI to build the interface directly from our user stories and backend APIs. The AI-generated version worked end to end, but the app didn’t follow our visual language."
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "The 6 stages of the traditional SDLC"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "Landing page, before and after"
               },
               {
                 "t": "p",
-                "x": "UX does not own a stage or approval gate in Anthropic's playbook. The playbook makes no mention of user research, and its Test stage compares the build with the product owner's mockup, which does not guarantee good usability or accessibility. Monitoring technical metrics after launch is not the same as usability metrics."
+                "x": "Converting the HTML pages into Figma via a Figma MCP connection ran into three problems: detail was lost in translation, updates took longer than expected, and the source of truth became unclear. Instead, we used an AI coding tool to inspect the existing prototype and adjust its HTML directly. The HTML prototype became the single source of truth."
               },
               {
                 "t": "p",
-                "x": "UX has 3 roles as AI accelerates software production: deciding what's worth building, evaluating what gets built, and adding context to AI generation. The playbook covers only the third. NN/g suggests focusing intent.md on user needs, defining when work needs UX review, adding user signals to monitoring, claiming ownership of UX context, and making research and the design system machine-readable."
+                "x": "Partway through the project, designer ran out of tokens and moved from Cursor to Claude to Codex. The work survived because the HTML artifact, not any one tool, held the state of the design. Designer could turn out new iterations every day; under the old Figma-first process, a single page took days."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "AI-Powered Interface Workflow"
+              },
+              {
+                "t": "p",
+                "x": "Designers share the updated HTML artifact with its design system, persona flows and a changelog; developers give them to a coding agent, which applies the design changes to the real project."
               }
             ]
           }
         },
         "ko": {
-          "headline": "에이전트 개발 공장 속\nUX의 자리",
-          "body": "NN/g는 UX가 AI 맥락 제공을 넘어 니즈 발굴·설계·평가를 맡으라고 한다.",
-          "mini_headline": "에이전트 소프트웨어 공장과 UX",
+          "headline": "Cisco, 핸드오프 파일\nHTML 프로토타입으로",
+          "body": "Cisco PubHub 팀은 AI로 만든 HTML 프로토타입을 핸드오프에 쓴다.",
+          "mini_headline": "Cisco의 AI 핸드오프",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-native 소프트웨어 개발 생명주기에서 UX는 AI에 넣을 맥락 정도로 쪼그라든다. 하지만 UX가 할 일은 사용자 니즈를 찾고 무엇을 만들지 정하며 출시 전후로 이를 평가하는 것이다."
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "Anthropic은 2026년 8월 AI-native 소프트웨어 개발 생명주기(SDLC) 비전을 내놓았다. Google(2026년 5월)과 OpenAI(2025년 11월)에 이은 발표다. 세 회사 모두 UX를 변두리로 밀어내고 AI 생성을 뒤에서 이끄는 맥락으로만 다룬다."
+                "x": "우리 UI/UX 워크플로는 오랫동안 익숙한 방식을 따랐다. 디자이너가 Figma로 화면을 그리면 개발자가 그 디자인을 코드로 옮기는 식이다. 최근 PubHub(DevNet 내부 출판 도구)를 개편하면서는 속도가 급해, 사용자 스토리와 백엔드 APIs를 주고 AI에게 인터페이스를 바로 만들게 했다. AI가 만든(AI-generated) 버전은 처음부터 끝까지 돌아갔다. 다만 앱이 우리 시각 언어를 따르지 않았다."
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "전통 SDLC의 6단계"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "랜딩 페이지, 개편 전과 후"
               },
               {
                 "t": "p",
-                "x": "Anthropic 플레이북에서 UX가 맡는 단계나 승인 관문은 하나도 없다. 사용자 리서치는 아예 언급되지 않는다. Test 단계는 빌드를 제품 책임자의 목업과 대조할 뿐이라 사용성이나 접근성이 좋은지는 보장하지 못한다. 출시 후 기술 지표를 지켜보는 일과 사용성 지표는 별개다."
+                "x": "Figma MCP 연결로 HTML 페이지를 Figma에 옮기자 문제가 세 가지 생겼다. 변환하면서 디테일이 빠졌고, 업데이트는 예상보다 오래 걸렸고, 무엇이 기준인지도 흐려졌다. 그래서 AI 코딩 도구로 기존 프로토타입을 살피고 HTML을 직접 고치는 쪽으로 바꿨다. 이제 기준은 HTML 프로토타입 하나다."
               },
               {
                 "t": "p",
-                "x": "AI가 소프트웨어 생산 속도를 끌어올리는 지금 UX의 역할은 3가지다. 무엇이 만들 가치가 있는지 가리고, 만든 결과를 평가하고, AI 생성에 맥락을 보태는 일이다. 플레이북이 다루는 건 이 중 세 번째뿐이다. NN/g의 제안은 이렇다. intent.md는 사용자 니즈에 맞추고, 어느 작업에 UX 검토가 필요한지 정하고, 모니터링에 사용자 신호를 넣는다. UX 맥락의 주인 자리를 지키고 리서치와 디자인 시스템은 기계가 읽을 수 있게 만든다."
+                "x": "프로젝트 도중 디자이너는 토큰이 바닥나 Cursor에서 Claude로, 다시 Codex로 갈아탔다. 그래도 작업이 끊기지 않은 건 디자인 상태가 특정 도구가 아니라 HTML 산출물에 담겨 있었기 때문이다. 디자이너는 매일 새 버전을 내놓을 수 있었다. 예전 Figma 우선 방식에서는 한 페이지에 며칠씩 걸렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "AI 기반 인터페이스 워크플로"
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 HTML 산출물을 업데이트해 디자인 시스템, 페르소나 흐름, 변경 기록과 함께 공유한다. 개발자가 이를 코딩 에이전트에 넘기면 에이전트가 디자인 변경을 실제 프로젝트에 반영한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "エージェント型開発工場で\nUXの居場所はどこか",
-          "body": "NN/gによれば、UXはAIの文脈に縮小されず、ニーズ発見・設計・評価を担うべきだ。",
-          "mini_headline": "エージェント型開発工場とUX",
+          "headline": "Cisco、引き継ぎ資料を\nHTMLプロトタイプに",
+          "body": "CiscoのPubHubチームはAIでFigmaでなくHTMLプロトタイプを基準にした。",
+          "mini_headline": "CiscoのAIハンドオフ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-nativeなソフトウェア開発ライフサイクルは、UXをAI向けのコンテキストに縮小してしまう。UXはユーザーのニーズを見いだし、何をつくるかを形づくり、リリースの前後にそれを評価しなければならない。"
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "Anthropicは2026年8月、AI-nativeなソフトウェア開発ライフサイクル（SDLC）のビジョンを公開した。Google（2026年5月）とOpenAI（2025年11月）に続くものだ。三社ともUXを脇に追いやり、AI生成を導く舞台裏のコンテキストへと縮小している。"
+                "x": "長いあいだ、私たちのUI/UXワークフローはおなじみの型に従っていた。デザイナーがFigmaで画面を作り、開発者がそのデザインをコードに置き換える。DevNetの社内出版ツールであるPubHubを今回刷新するにあたってはスピードが求められたため、ユーザーストーリーとバックエンドのAPIsから、AIに直接インターフェースを作らせてみた。AIが生成した(AI-generated)バージョンは端から端まで動作したが、アプリは私たちのビジュアル言語に沿っていなかった。"
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "従来のSDLCの6段階"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "ランディングページの改修前と改修後"
               },
               {
                 "t": "p",
-                "x": "AnthropicのプレイブックではUXはどの段階も承認ゲートも担っていない。プレイブックはユーザーリサーチに一切触れず、Test段階ではビルドをプロダクトオーナーのモックアップと比較するが、それでは良好なユーザビリティやアクセシビリティは保証されない。リリース後に技術指標を監視することは、ユーザビリティ指標と同じではない。"
+                "x": "Figma MCP接続でHTMLページをFigmaに変換しようとすると、三つの問題に突き当たった。変換の過程で細部が失われ、更新に想定以上の時間がかかり、何が正なのかが曖昧になった。そこでAIコーディングツールで既存のプロトタイプを読み取り、HTMLを直接調整することにした。HTMLプロトタイプが唯一の正となった。"
               },
               {
                 "t": "p",
-                "x": "AIがソフトウェア生産を加速させるなか、UXには3つの役割がある。何をつくる価値があるかを決めること、つくられたものを評価すること、そしてAI生成にコンテキストを加えることだ。プレイブックが扱うのは三つ目だけである。NN/gは、intent.mdをユーザーニーズに集中させること、作業にUXレビューが必要になる条件を定めること、モニタリングにユーザーシグナルを加えること、UXコンテキストの所有権を確立すること、そしてリサーチとデザインシステムを機械可読にすることを提案している。"
+                "x": "プロジェクトの途中でデザイナーはトークンを使い切り、CursorからClaude、さらにCodexへと乗り換えた。それでも作業が途切れなかったのは、特定のツールではなくHTMLの成果物がデザインの状態を保持していたからだ。デザイナーは毎日新しい版を出せた。従来のFigma先行のプロセスでは、ページ一つに数日かかっていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "AIを活用したインターフェースワークフロー"
+              },
+              {
+                "t": "p",
+                "x": "デザイナーは更新したHTML成果物を、デザインシステム、ペルソナフロー、変更履歴とともに共有する。開発者がそれをコーディングエージェントに渡すと、エージェントがデザインの変更を実際のプロジェクトに反映する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "智能体软件工厂里\nUX该站在哪里",
-          "body": "NN/g认为UX不应被压缩为AI上下文，而要发现用户需求、塑造产品并加以评估。",
-          "mini_headline": "智能体软件工厂中的UX",
+          "headline": "Cisco用HTML原型\n取代交付文件",
+          "body": "Cisco的PubHub团队借助AI重构设计交付，以HTML原型而非Figma文件为准。",
+          "mini_headline": "Cisco的AI交付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-native的软件开发生命周期把UX缩减为AI的上下文。UX必须发现用户需求、塑造要构建的产品，并在发布前后进行评估。"
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "2026年8月，Anthropic发布了其AI-native软件开发生命周期（SDLC）愿景，此前Google（2026年5月）和OpenAI（2025年11月）已先后发布。三者都把UX边缘化，将其缩减为指导AI生成的幕后上下文。"
+                "x": "长期以来，我们的UI/UX工作流遵循一个熟悉的模式：设计师在Figma中制作界面，开发者再把设计转成代码。在最近一次改版PubHub（DevNet的内部发布工具）时，我们需要快速推进，于是尝试让AI直接根据用户故事和后端APIs构建界面。AI生成（AI-generated）的版本可以端到端运行，但应用并没有遵循我们的视觉语言。"
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "传统SDLC的6个阶段"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "落地页改版前后"
               },
               {
                 "t": "p",
-                "x": "在Anthropic的手册中，UX不掌管任何阶段或审批关口。手册完全没有提及用户研究，其Test阶段只是将构建结果与产品负责人的模型图比较，这无法保证良好的可用性或无障碍性。发布后监测技术指标并不等同于可用性指标。"
+                "x": "通过Figma MCP连接把HTML页面转换到Figma时，我们遇到了三个问题：转换中丢失细节，更新耗时超出预期，真实来源变得模糊。于是我们改用AI编程工具检查现有原型，直接调整其HTML。HTML原型成为唯一的真实来源。"
               },
               {
                 "t": "p",
-                "x": "随着AI加速软件生产，UX承担3种角色：决定什么值得构建、评估构建出的成果，以及为AI生成补充上下文。手册只涵盖了第三种。NN/g建议：让intent.md聚焦用户需求，界定哪些工作需要UX评审，在监测中加入用户信号，确立对UX上下文的所有权，并让研究成果和设计系统可被机器读取。"
+                "x": "项目进行到一半，设计师的token用完了，先后从Cursor换到Claude，再换到Codex。工作之所以没有中断，是因为保存设计状态的是HTML产物，而不是某一个工具。设计师每天都能产出新的迭代；在过去以Figma为先的流程下，一个页面要花好几天。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "AI驱动的界面工作流"
+              },
+              {
+                "t": "p",
+                "x": "设计师将更新后的HTML产物连同其设计系统、用户画像流程和变更日志一起共享；开发者把这些交给编程智能体，由它将设计改动应用到实际项目中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El lugar de UX en las fábricas\nde software agénticas",
-          "body": "NN/g sostiene que UX debe detectar necesidades, definir qué se construye y evaluarlo, no reducirse a contexto de AI.",
-          "mini_headline": "UX en las fábricas de software agénticas",
+          "headline": "Cisco cambia los archivos de\nentrega por un prototipo HTML",
+          "body": "El equipo PubHub de Cisco rehízo el traspaso de diseño con IA: la referencia es un prototipo HTML, no Figma.",
+          "mini_headline": "El traspaso con IA de Cisco",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los ciclos de vida de desarrollo de software AI-native reducen UX a contexto para la AI. UX debe descubrir las necesidades de los usuarios, dar forma a lo que se construye y evaluarlo antes y después del lanzamiento."
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "En agosto de 2026, Anthropic publicó su visión de un ciclo de vida de desarrollo de software (SDLC) AI-native, tras las publicaciones de Google (mayo de 2026) y OpenAI (noviembre de 2025). Las tres relegan UX y la reducen a un contexto entre bastidores que guía la generación de AI."
+                "x": "Durante mucho tiempo, nuestro flujo de trabajo de UI/UX siguió un patrón conocido: los diseñadores creaban pantallas en Figma y luego los desarrolladores traducían esos diseños a código. En la última renovación de PubHub (una herramienta interna de publicación de DevNet) necesitábamos avanzar rápido, así que probamos a pedirle a la IA que construyera la interfaz directamente a partir de nuestras historias de usuario y de las APIs del backend. La versión generada con IA (AI-generated) funcionaba de principio a fin, pero la aplicación no seguía nuestro lenguaje visual."
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "Las 6 etapas del SDLC tradicional"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "Página de inicio, antes y después"
               },
               {
                 "t": "p",
-                "x": "UX no tiene a su cargo ninguna etapa ni puerta de aprobación en el playbook de Anthropic. El playbook no menciona la investigación con usuarios, y su etapa Test compara lo construido con el mockup del product owner, lo que no garantiza buena usabilidad ni accesibilidad. Monitorizar métricas técnicas tras el lanzamiento no equivale a medir métricas de usabilidad."
+                "x": "Convertir las páginas HTML a Figma mediante una conexión Figma MCP planteó tres problemas: se perdían detalles en la conversión, las actualizaciones tardaban más de lo previsto y dejó de estar claro cuál era la fuente de verdad. En su lugar, usamos una herramienta de programación con IA para inspeccionar el prototipo existente y ajustar su HTML directamente. El prototipo HTML se convirtió en la única fuente de verdad."
               },
               {
                 "t": "p",
-                "x": "UX tiene 3 funciones a medida que la AI acelera la producción de software: decidir qué vale la pena construir, evaluar lo que se construye y aportar contexto a la generación de AI. El playbook solo cubre la tercera. NN/g propone centrar intent.md en las necesidades de los usuarios, definir cuándo un trabajo requiere revisión de UX, añadir señales de usuarios a la monitorización, reivindicar la propiedad del contexto de UX y hacer que la investigación y el sistema de diseño sean legibles por máquinas."
+                "x": "A mitad del proyecto, el diseñador se quedó sin tokens y pasó de Cursor a Claude y luego a Codex. El trabajo sobrevivió porque el estado del diseño residía en el artefacto HTML y no en una herramienta concreta. El diseñador podía producir nuevas iteraciones cada día; con el antiguo proceso centrado en Figma, una sola página llevaba días."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "Flujo de trabajo de interfaz impulsado por IA"
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores comparten el artefacto HTML actualizado junto con su sistema de diseño, los flujos de personas y un registro de cambios; los desarrolladores se los pasan a un agente de programación, que aplica los cambios de diseño al proyecto real."
               }
             ]
           }
@@ -571,125 +1239,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "에이전트형 개발 공장에서\nUX가 설 자리",
-          "body": "NN/g는 UX가 AI 맥락을 넘어 니즈 발굴·설계·평가를 맡아야 한다고 본다.",
-          "mini_headline": "에이전트형 소프트웨어 공장 속 UX",
+          "headline": "Cisco, 핸드오프 파일\nHTML 프로토타입으로",
+          "body": "Cisco PubHub 팀은 AI로 HTML 프로토타입을 핸드오프 기준으로 삼았다.",
+          "mini_headline": "Cisco의 AI 핸드오프",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-native 소프트웨어 개발 생명주기는 UX를 AI용 맥락으로 축소한다. UX는 사용자 니즈를 발굴하고, 무엇을 만들지 형성하며, 출시 전후에 이를 평가해야 한다."
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "Anthropic은 2026년 8월 AI-native 소프트웨어 개발 생명주기(SDLC)에 대한 비전을 발표했다. Google(2026년 5월)과 OpenAI(2025년 11월)에 이은 발표다. 세 회사 모두 UX를 주변으로 밀어내고, AI 생성을 이끄는 막후 맥락으로 축소한다."
+                "x": "오랫동안 우리의 UI/UX 워크플로는 익숙한 방식을 따랐다. 디자이너가 Figma로 화면을 만들면 개발자가 그 디자인을 코드로 옮겼다. 최근 PubHub(DevNet 내부 출판 도구)를 개편할 때는 속도가 필요했기에, 사용자 스토리와 백엔드 APIs를 바탕으로 AI에게 인터페이스를 바로 만들게 해 봤다. AI가 만든(AI-generated) 버전은 처음부터 끝까지 작동했지만, 앱은 우리의 시각 언어를 따르지 않았다."
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "전통적 SDLC의 6단계"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "랜딩 페이지, 개편 전과 후"
               },
               {
                 "t": "p",
-                "x": "Anthropic의 플레이북에서 UX는 어떤 단계나 승인 관문도 맡지 않는다. 플레이북은 사용자 리서치를 전혀 언급하지 않으며, Test 단계는 빌드를 제품 책임자의 목업과 비교할 뿐이어서 좋은 사용성이나 접근성을 보장하지 못한다. 출시 후 기술 지표를 모니터링하는 일은 사용성 지표와 같지 않다."
+                "x": "Figma MCP 연결로 HTML 페이지를 Figma로 옮기자 세 가지 문제가 생겼다. 변환 과정에서 디테일이 사라졌고, 업데이트에 예상보다 오래 걸렸으며, 무엇이 기준인지 불분명해졌다. 그래서 대신 AI 코딩 도구로 기존 프로토타입을 살펴보고 HTML을 직접 고쳤다. HTML 프로토타입이 유일한 기준이 됐다."
               },
               {
                 "t": "p",
-                "x": "AI가 소프트웨어 생산을 가속하는 가운데 UX에는 3가지 역할이 있다. 무엇을 만들 가치가 있는지 결정하고, 만들어진 것을 평가하며, AI 생성에 맥락을 더하는 일이다. 플레이북은 이 중 세 번째만 다룬다. NN/g는 intent.md를 사용자 니즈에 집중시키고, 작업에 UX 검토가 필요한 시점을 정의하며, 모니터링에 사용자 신호를 추가하고, UX 맥락의 소유권을 확보하고, 리서치와 디자인 시스템을 기계가 읽을 수 있게 만들 것을 제안한다."
+                "x": "프로젝트 중간에 디자이너는 토큰이 바닥나 Cursor에서 Claude로, 다시 Codex로 옮겨 갔다. 그래도 작업이 이어질 수 있었던 건 특정 도구가 아니라 HTML 산출물이 디자인 상태를 담고 있었기 때문이다. 디자이너는 매일 새 버전을 내놓을 수 있었다. 예전의 Figma 우선 방식에서는 한 페이지에 며칠이 걸렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "AI 기반 인터페이스 워크플로"
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 업데이트한 HTML 산출물을 디자인 시스템, 페르소나 흐름, 변경 기록과 함께 공유한다. 개발자가 이를 코딩 에이전트에 넘기면, 에이전트가 디자인 변경 사항을 실제 프로젝트에 적용한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "エージェント型開発工場で\nUXの居場所はどこか",
-          "body": "NN/gによれば、UXはAIの文脈に縮小されず、ニーズ発見・設計・評価を担うべきだ。",
-          "mini_headline": "エージェント型開発工場とUX",
+          "headline": "Cisco、引き継ぎ資料を\nHTMLプロトタイプに",
+          "body": "CiscoのPubHubチームはAIでFigmaでなくHTMLプロトタイプを基準にした。",
+          "mini_headline": "CiscoのAIハンドオフ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-nativeなソフトウェア開発ライフサイクルは、UXをAI向けのコンテキストに縮小してしまう。UXはユーザーのニーズを見いだし、何をつくるかを形づくり、リリースの前後にそれを評価しなければならない。"
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "Anthropicは2026年8月、AI-nativeなソフトウェア開発ライフサイクル（SDLC）のビジョンを公開した。Google（2026年5月）とOpenAI（2025年11月）に続くものだ。三社ともUXを脇に追いやり、AI生成を導く舞台裏のコンテキストへと縮小している。"
+                "x": "長いあいだ、私たちのUI/UXワークフローはおなじみの型に従っていた。デザイナーがFigmaで画面を作り、開発者がそのデザインをコードに置き換える。DevNetの社内出版ツールであるPubHubを今回刷新するにあたってはスピードが求められたため、ユーザーストーリーとバックエンドのAPIsから、AIに直接インターフェースを作らせてみた。AIが生成した(AI-generated)バージョンは端から端まで動作したが、アプリは私たちのビジュアル言語に沿っていなかった。"
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "従来のSDLCの6段階"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "ランディングページの改修前と改修後"
               },
               {
                 "t": "p",
-                "x": "AnthropicのプレイブックではUXはどの段階も承認ゲートも担っていない。プレイブックはユーザーリサーチに一切触れず、Test段階ではビルドをプロダクトオーナーのモックアップと比較するが、それでは良好なユーザビリティやアクセシビリティは保証されない。リリース後に技術指標を監視することは、ユーザビリティ指標と同じではない。"
+                "x": "Figma MCP接続でHTMLページをFigmaに変換しようとすると、三つの問題に突き当たった。変換の過程で細部が失われ、更新に想定以上の時間がかかり、何が正なのかが曖昧になった。そこでAIコーディングツールで既存のプロトタイプを読み取り、HTMLを直接調整することにした。HTMLプロトタイプが唯一の正となった。"
               },
               {
                 "t": "p",
-                "x": "AIがソフトウェア生産を加速させるなか、UXには3つの役割がある。何をつくる価値があるかを決めること、つくられたものを評価すること、そしてAI生成にコンテキストを加えることだ。プレイブックが扱うのは三つ目だけである。NN/gは、intent.mdをユーザーニーズに集中させること、作業にUXレビューが必要になる条件を定めること、モニタリングにユーザーシグナルを加えること、UXコンテキストの所有権を確立すること、そしてリサーチとデザインシステムを機械可読にすることを提案している。"
+                "x": "プロジェクトの途中でデザイナーはトークンを使い切り、CursorからClaude、さらにCodexへと乗り換えた。それでも作業が途切れなかったのは、特定のツールではなくHTMLの成果物がデザインの状態を保持していたからだ。デザイナーは毎日新しい版を出せた。従来のFigma先行のプロセスでは、ページ一つに数日かかっていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "AIを活用したインターフェースワークフロー"
+              },
+              {
+                "t": "p",
+                "x": "デザイナーは更新したHTML成果物を、デザインシステム、ペルソナフロー、変更履歴とともに共有する。開発者がそれをコーディングエージェントに渡すと、エージェントがデザインの変更を実際のプロジェクトに反映する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "智能体软件工厂里\nUX该站在哪里",
-          "body": "NN/g认为UX不应被压缩为AI上下文，而要发现用户需求、塑造产品并加以评估。",
-          "mini_headline": "智能体软件工厂中的UX",
+          "headline": "Cisco用HTML原型\n取代交付文件",
+          "body": "Cisco的PubHub团队借助AI重构设计交付，以HTML原型而非Figma文件为准。",
+          "mini_headline": "Cisco的AI交付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI-native的软件开发生命周期把UX缩减为AI的上下文。UX必须发现用户需求、塑造要构建的产品，并在发布前后进行评估。"
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "2026年8月，Anthropic发布了其AI-native软件开发生命周期（SDLC）愿景，此前Google（2026年5月）和OpenAI（2025年11月）已先后发布。三者都把UX边缘化，将其缩减为指导AI生成的幕后上下文。"
+                "x": "长期以来，我们的UI/UX工作流遵循一个熟悉的模式：设计师在Figma中制作界面，开发者再把设计转成代码。在最近一次改版PubHub（DevNet的内部发布工具）时，我们需要快速推进，于是尝试让AI直接根据用户故事和后端APIs构建界面。AI生成（AI-generated）的版本可以端到端运行，但应用并没有遵循我们的视觉语言。"
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "传统SDLC的6个阶段"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "落地页改版前后"
               },
               {
                 "t": "p",
-                "x": "在Anthropic的手册中，UX不掌管任何阶段或审批关口。手册完全没有提及用户研究，其Test阶段只是将构建结果与产品负责人的模型图比较，这无法保证良好的可用性或无障碍性。发布后监测技术指标并不等同于可用性指标。"
+                "x": "通过Figma MCP连接把HTML页面转换到Figma时，我们遇到了三个问题：转换中丢失细节，更新耗时超出预期，真实来源变得模糊。于是我们改用AI编程工具检查现有原型，直接调整其HTML。HTML原型成为唯一的真实来源。"
               },
               {
                 "t": "p",
-                "x": "随着AI加速软件生产，UX承担3种角色：决定什么值得构建、评估构建出的成果，以及为AI生成补充上下文。手册只涵盖了第三种。NN/g建议：让intent.md聚焦用户需求，界定哪些工作需要UX评审，在监测中加入用户信号，确立对UX上下文的所有权，并让研究成果和设计系统可被机器读取。"
+                "x": "项目进行到一半，设计师的token用完了，先后从Cursor换到Claude，再换到Codex。工作之所以没有中断，是因为保存设计状态的是HTML产物，而不是某一个工具。设计师每天都能产出新的迭代；在过去以Figma为先的流程下，一个页面要花好几天。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "AI驱动的界面工作流"
+              },
+              {
+                "t": "p",
+                "x": "设计师将更新后的HTML产物连同其设计系统、用户画像流程和变更日志一起共享；开发者把这些交给编程智能体，由它将设计改动应用到实际项目中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El lugar de UX en las fábricas\nde software agénticas",
-          "body": "NN/g sostiene que UX debe detectar necesidades, definir qué se construye y evaluarlo, no reducirse a contexto de AI.",
-          "mini_headline": "UX en las fábricas de software agénticas",
+          "headline": "Cisco cambia los archivos de\nentrega por un prototipo HTML",
+          "body": "El equipo PubHub de Cisco rehízo el traspaso de diseño con IA: la referencia es un prototipo HTML, no Figma.",
+          "mini_headline": "El traspaso con IA de Cisco",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los ciclos de vida de desarrollo de software AI-native reducen UX a contexto para la AI. UX debe descubrir las necesidades de los usuarios, dar forma a lo que se construye y evaluarlo antes y después del lanzamiento."
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
               },
               {
                 "t": "p",
-                "x": "En agosto de 2026, Anthropic publicó su visión de un ciclo de vida de desarrollo de software (SDLC) AI-native, tras las publicaciones de Google (mayo de 2026) y OpenAI (noviembre de 2025). Las tres relegan UX y la reducen a un contexto entre bastidores que guía la generación de AI."
+                "x": "Durante mucho tiempo, nuestro flujo de trabajo de UI/UX siguió un patrón conocido: los diseñadores creaban pantallas en Figma y luego los desarrolladores traducían esos diseños a código. En la última renovación de PubHub (una herramienta interna de publicación de DevNet) necesitábamos avanzar rápido, así que probamos a pedirle a la IA que construyera la interfaz directamente a partir de nuestras historias de usuario y de las APIs del backend. La versión generada con IA (AI-generated) funcionaba de principio a fin, pero la aplicación no seguía nuestro lenguaje visual."
               },
               {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/10/26/the-traditional-software-development-lifecycle-sdlc.png",
-                "cap": "Las 6 etapas del SDLC tradicional"
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+                "cap": "Página de inicio, antes y después"
               },
               {
                 "t": "p",
-                "x": "UX no tiene a su cargo ninguna etapa ni puerta de aprobación en el playbook de Anthropic. El playbook no menciona la investigación con usuarios, y su etapa Test compara lo construido con el mockup del product owner, lo que no garantiza buena usabilidad ni accesibilidad. Monitorizar métricas técnicas tras el lanzamiento no equivale a medir métricas de usabilidad."
+                "x": "Convertir las páginas HTML a Figma mediante una conexión Figma MCP planteó tres problemas: se perdían detalles en la conversión, las actualizaciones tardaban más de lo previsto y dejó de estar claro cuál era la fuente de verdad. En su lugar, usamos una herramienta de programación con IA para inspeccionar el prototipo existente y ajustar su HTML directamente. El prototipo HTML se convirtió en la única fuente de verdad."
               },
               {
                 "t": "p",
-                "x": "UX tiene 3 funciones a medida que la AI acelera la producción de software: decidir qué vale la pena construir, evaluar lo que se construye y aportar contexto a la generación de AI. El playbook solo cubre la tercera. NN/g propone centrar intent.md en las necesidades de los usuarios, definir cuándo un trabajo requiere revisión de UX, añadir señales de usuarios a la monitorización, reivindicar la propiedad del contexto de UX y hacer que la investigación y el sistema de diseño sean legibles por máquinas."
+                "x": "A mitad del proyecto, el diseñador se quedó sin tokens y pasó de Cursor a Claude y luego a Codex. El trabajo sobrevivió porque el estado del diseño residía en el artefacto HTML y no en una herramienta concreta. El diseñador podía producir nuevas iteraciones cada día; con el antiguo proceso centrado en Figma, una sola página llevaba días."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+                "cap": "Flujo de trabajo de interfaz impulsado por IA"
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores comparten el artefacto HTML actualizado junto con su sistema de diseño, los flujos de personas y un registro de cambios; los desarrolladores se los pasan a un agente de programación, que aplica los cambios de diseño al proyecto real."
               }
             ]
           }
@@ -697,15 +1401,15 @@
       }
     },
     {
-      "id": "allplan-max-2027-ai",
+      "id": "christy-cad-claude-rebuild",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Allplan Max\n2027, BIM에 AI를",
-      "body": "Allplan Max 2027이 도면·수식·BIM·구조해석·시각화에 AI를 넣었다.",
-      "mini_headline": "AI 품은 Allplan Max 2027",
+      "headline": "45년 CAD 프로그램,\nClaude로 다시 짓다",
+      "body": "Christy는 45년 된 CAD 프로그램을 Claude와 Mac용으로 다시 썼다.",
+      "mini_headline": "Claude와 함께한 45년의 CAD",
       "tool": "Text-to-CAD",
       "source": "Engineering.com",
-      "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+      "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -713,469 +1417,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
+            "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
           },
           {
             "t": "p",
-            "x": "Nemetschek Group과 산하 브랜드 Allplan이 엔지니어링 워크플로용 AI 신제품 Allplan Max 2027 출시를 알렸다. Nemetschek Intelligence Platform에 속한 제품이다. 엔지니어가 쓰던 도구 안으로 AI를 들여와 반복 작업은 줄이고, 프로젝트 정보는 더 빨리 찾고, 일상 업무는 자동으로 돌리게 한다."
-          },
-          {
-            "t": "p",
-            "x": "탑재 기능은 Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer, AI Steel Take Off다. Allplan은 이 시스템이 엔지니어링 판단을 대신하지 않고 거들도록 설계했다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "Allplan Max는 포트폴리오 전체에 들어간다. BIM·디테일링·워크플로 맞춤화는 Allplan, 구조 해석은 SCIA와 FRILO, 제작 중심 워크플로는 SDS2가 맡는다. 사용자들은 일부 작업을 최대 36퍼센트 빨리 끝냈다고 했다. 다만 자가 보고 추정치라 차이가 날 수 있다. Allplan Max 2027 출시일은 2026년 10월 28일이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Allplan Max 2027 brings\nAI into BIM engineering",
-          "body": "Nemetschek's Allplan Max 2027 adds AI tools for drafting, formulas, BIM and structural analysis, and visuals.",
-          "mini_headline": "Allplan Max 2027 adds AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Nemetschek Group and its brand Allplan announced the launch of Allplan Max 2027, a new AI offering designed for engineering workflows and part of the Nemetschek Intelligence Platform. It brings AI into the tools engineers already use to help firms reduce repetitive work, access project information more quickly and automate routine processes."
-              },
-              {
-                "t": "p",
-                "x": "Its capabilities include Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer and AI Steel Take Off. Allplan says the system is designed to support engineering judgment rather than replace it."
-              },
-              {
-                "t": "p",
-                "x": "Allplan Max is being introduced across the portfolio: Allplan for BIM, detailing and workflow customization; SCIA and FRILO for structural analysis; SDS2 for fabrication-oriented workflows. Users reported up to 36 percent faster completion for selected tasks, self-reported estimates that may vary. Allplan Max 2027 is scheduled to launch on October 28, 2026."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Allplan Max\n2027, BIM에 AI를",
-          "body": "Allplan Max 2027이 도면·수식·BIM·구조해석·시각화에 AI를 넣었다.",
-          "mini_headline": "AI 품은 Allplan Max 2027",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Group과 산하 브랜드 Allplan이 엔지니어링 워크플로용 AI 신제품 Allplan Max 2027 출시를 알렸다. Nemetschek Intelligence Platform에 속한 제품이다. 엔지니어가 쓰던 도구 안으로 AI를 들여와 반복 작업은 줄이고, 프로젝트 정보는 더 빨리 찾고, 일상 업무는 자동으로 돌리게 한다."
-              },
-              {
-                "t": "p",
-                "x": "탑재 기능은 Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer, AI Steel Take Off다. Allplan은 이 시스템이 엔지니어링 판단을 대신하지 않고 거들도록 설계했다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "Allplan Max는 포트폴리오 전체에 들어간다. BIM·디테일링·워크플로 맞춤화는 Allplan, 구조 해석은 SCIA와 FRILO, 제작 중심 워크플로는 SDS2가 맡는다. 사용자들은 일부 작업을 최대 36퍼센트 빨리 끝냈다고 했다. 다만 자가 보고 추정치라 차이가 날 수 있다. Allplan Max 2027 출시일은 2026년 10월 28일이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Allplan Max\n2027、BIMにAIを",
-          "body": "Allplan Max 2027は製図・数式・BIM・構造解析・可視化にAI機能を加える。",
-          "mini_headline": "Allplan Max 2027がAIを搭載",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Groupと同グループのブランドAllplanは、エンジニアリングのワークフロー向けに設計された新たなAI製品Allplan Max 2027の提供開始を発表した。Nemetschek Intelligence Platformの一部である。エンジニアが既に使っているツールにAIを組み込み、企業が反復作業を減らし、プロジェクト情報にすばやくアクセスし、定型的なプロセスを自動化できるよう支援する。"
-              },
-              {
-                "t": "p",
-                "x": "機能にはFeature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer、AI Steel Take Offが含まれる。Allplanによれば、このシステムはエンジニアリング上の判断を置き換えるのではなく支えるよう設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "Allplan Maxはポートフォリオ全体に導入される。BIM、ディテーリング、ワークフローのカスタマイズにはAllplan、構造解析にはSCIAとFRILO、製作向けワークフローにはSDS2が対応する。ユーザーからは一部の作業で最大36パーセント速く完了したとの報告があるが、これは自己申告による推定値で、ばらつきがありうる。Allplan Max 2027は2026年10月28日に提供開始の予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Allplan Max\n2027将AI引入BIM",
-          "body": "Allplan Max 2027为制图、公式、BIM、结构分析和可视化加入AI工具。",
-          "mini_headline": "Allplan Max 2027加入AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Group及旗下品牌Allplan宣布推出Allplan Max 2027，这是一款专为工程工作流设计的全新AI产品，隶属Nemetschek Intelligence Platform。它把AI带入工程师已在使用的工具中，帮助企业减少重复性工作、更快获取项目信息并自动化日常流程。"
-              },
-              {
-                "t": "p",
-                "x": "其功能包括Feature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer和AI Steel Take Off。Allplan表示，该系统旨在辅助而非取代工程判断。"
-              },
-              {
-                "t": "p",
-                "x": "Allplan Max正在整个产品组合中推出：Allplan用于BIM、深化设计和工作流定制；SCIA和FRILO用于结构分析；SDS2用于面向加工制造的工作流。用户报告称，部分任务的完成速度最多提升百分之36，但这是自行报告的估计值，可能有所差异。Allplan Max 2027定于2026年10月28日推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Allplan Max 2027 lleva la AI\na la ingeniería BIM",
-          "body": "Allplan Max 2027, de Nemetschek, añade herramientas de AI para dibujo, fórmulas, BIM, análisis estructural y visuales.",
-          "mini_headline": "Allplan Max 2027 incorpora AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Group y su marca Allplan anunciaron el lanzamiento de Allplan Max 2027, una nueva oferta de AI diseñada para flujos de trabajo de ingeniería y que forma parte de Nemetschek Intelligence Platform. Lleva la AI a las herramientas que los ingenieros ya utilizan para ayudar a las empresas a reducir el trabajo repetitivo, acceder más rápido a la información de los proyectos y automatizar procesos rutinarios."
-              },
-              {
-                "t": "p",
-                "x": "Entre sus funciones figuran Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer y AI Steel Take Off. Allplan afirma que el sistema está diseñado para apoyar el criterio de ingeniería, no para reemplazarlo."
-              },
-              {
-                "t": "p",
-                "x": "Allplan Max se está introduciendo en todo el portafolio: Allplan para BIM, detallado y personalización de flujos de trabajo; SCIA y FRILO para análisis estructural; SDS2 para flujos orientados a la fabricación. Los usuarios informaron de una finalización hasta un 36 por ciento más rápida en tareas seleccionadas, estimaciones autodeclaradas que pueden variar. El lanzamiento de Allplan Max 2027 está previsto para el 28 de octubre de 2026."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Allplan Max\n2027, BIM에 AI를",
-          "body": "Allplan Max 2027은 도면·수식·BIM·구조해석·시각화에 AI를 더한다.",
-          "mini_headline": "Allplan Max 2027, AI 탑재",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Group과 산하 브랜드 Allplan이 엔지니어링 워크플로를 위한 새로운 AI 제품 Allplan Max 2027 출시를 발표했다. Nemetschek Intelligence Platform의 일부다. 엔지니어가 이미 쓰는 도구에 AI를 들여와, 기업이 반복 작업을 줄이고 프로젝트 정보에 더 빨리 접근하며 일상적인 프로세스를 자동화하도록 돕는다."
-              },
-              {
-                "t": "p",
-                "x": "기능으로는 Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer, AI Steel Take Off가 있다. Allplan은 이 시스템이 엔지니어링 판단을 대체하지 않고 뒷받침하도록 설계됐다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Allplan Max는 포트폴리오 전반에 도입된다. BIM·디테일링·워크플로 맞춤화에는 Allplan, 구조 해석에는 SCIA와 FRILO, 제작 중심 워크플로에는 SDS2가 쓰인다. 사용자들은 일부 작업에서 완료 속도가 최대 36퍼센트 빨라졌다고 보고했는데, 이는 자가 보고 추정치로 달라질 수 있다. Allplan Max 2027은 2026년 10월 28일 출시될 예정이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Allplan Max\n2027、BIMにAIを",
-          "body": "Allplan Max 2027は製図・数式・BIM・構造解析・可視化にAI機能を加える。",
-          "mini_headline": "Allplan Max 2027がAIを搭載",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Groupと同グループのブランドAllplanは、エンジニアリングのワークフロー向けに設計された新たなAI製品Allplan Max 2027の提供開始を発表した。Nemetschek Intelligence Platformの一部である。エンジニアが既に使っているツールにAIを組み込み、企業が反復作業を減らし、プロジェクト情報にすばやくアクセスし、定型的なプロセスを自動化できるよう支援する。"
-              },
-              {
-                "t": "p",
-                "x": "機能にはFeature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer、AI Steel Take Offが含まれる。Allplanによれば、このシステムはエンジニアリング上の判断を置き換えるのではなく支えるよう設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "Allplan Maxはポートフォリオ全体に導入される。BIM、ディテーリング、ワークフローのカスタマイズにはAllplan、構造解析にはSCIAとFRILO、製作向けワークフローにはSDS2が対応する。ユーザーからは一部の作業で最大36パーセント速く完了したとの報告があるが、これは自己申告による推定値で、ばらつきがありうる。Allplan Max 2027は2026年10月28日に提供開始の予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Allplan Max\n2027将AI引入BIM",
-          "body": "Allplan Max 2027为制图、公式、BIM、结构分析和可视化加入AI工具。",
-          "mini_headline": "Allplan Max 2027加入AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Group及旗下品牌Allplan宣布推出Allplan Max 2027，这是一款专为工程工作流设计的全新AI产品，隶属Nemetschek Intelligence Platform。它把AI带入工程师已在使用的工具中，帮助企业减少重复性工作、更快获取项目信息并自动化日常流程。"
-              },
-              {
-                "t": "p",
-                "x": "其功能包括Feature Builder、Workflow Builder、AI Formula Writer、AI BIM Analyst、AI Structural Analyst、AI Drafter、AI Coach、AI Visualizer和AI Steel Take Off。Allplan表示，该系统旨在辅助而非取代工程判断。"
-              },
-              {
-                "t": "p",
-                "x": "Allplan Max正在整个产品组合中推出：Allplan用于BIM、深化设计和工作流定制；SCIA和FRILO用于结构分析；SDS2用于面向加工制造的工作流。用户报告称，部分任务的完成速度最多提升百分之36，但这是自行报告的估计值，可能有所差异。Allplan Max 2027定于2026年10月28日推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Allplan Max 2027 lleva la AI\na la ingeniería BIM",
-          "body": "Allplan Max 2027, de Nemetschek, añade herramientas de AI para dibujo, fórmulas, BIM, análisis estructural y visuales.",
-          "mini_headline": "Allplan Max 2027 incorpora AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nemetschek Group y su marca Allplan anunciaron el lanzamiento de Allplan Max 2027, una nueva oferta de AI diseñada para flujos de trabajo de ingeniería y que forma parte de Nemetschek Intelligence Platform. Lleva la AI a las herramientas que los ingenieros ya utilizan para ayudar a las empresas a reducir el trabajo repetitivo, acceder más rápido a la información de los proyectos y automatizar procesos rutinarios."
-              },
-              {
-                "t": "p",
-                "x": "Entre sus funciones figuran Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Coach, AI Visualizer y AI Steel Take Off. Allplan afirma que el sistema está diseñado para apoyar el criterio de ingeniería, no para reemplazarlo."
-              },
-              {
-                "t": "p",
-                "x": "Allplan Max se está introduciendo en todo el portafolio: Allplan para BIM, detallado y personalización de flujos de trabajo; SCIA y FRILO para análisis estructural; SDS2 para flujos orientados a la fabricación. Los usuarios informaron de una finalización hasta un 36 por ciento más rápida en tareas seleccionadas, estimaciones autodeclaradas que pueden variar. El lanzamiento de Allplan Max 2027 está previsto para el 28 de octubre de 2026."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "uxcollective-ai-cost-controls",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 비용 통제\n투명하게 설계하기",
-      "body": "겉보기엔 비슷한 빠른 수정과 긴 에이전트 실행의 단위·한도·안내를 짚은 가이드다.",
-      "mini_headline": "AI 비용을 투명하게",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "사용 단위 고르기, 지출 한도 설계, 작업 전·중·후 AI 비용 설명법을 담은 실용 가이드다."
+            "x": "613 kHz HP-85부터 음성으로 도면을 그리는 Mac M4까지 CAD 프로그램 하나를 이어 오며 정확성과 속도를 배웠고, 다음 사람이 아무 준비 없이 읽어도 이어받을 수 있는 코드를 쓰는 법도 배웠다. — John M. Christy, CADD/85, CADD 200/300, C3 개발자."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+            "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+            "cap": "HP-85 컴퓨터. (이미지: Wolfgang Stief/Wikimedia.)"
           },
           {
             "t": "p",
-            "x": "AI 응답에는 하나하나 값이 매겨진다. 빠른 수정도, 오래 도는 에이전트도 인터페이스에서는 거의 똑같아 보이고 같은 버튼으로 시작한다. 그래서 디자이너가 정할 건 두 가지다. 사용자가 무엇을 쓰고 있다고 여기게 할 단위, 그리고 비용을 언제 알게 할지다."
-          },
-          {
-            "t": "p",
-            "x": "토큰은 시스템의 화폐지 사용자의 화폐가 아니다. 단위는 토큰·달러부터 크레딧, 작업·결과, 사용 허용량까지 여러 가지인데 결정적 차이는 불확실성을 누가 지느냐에 있다. 사용 한도라면 기간과 초기화 시점을, 작업 단위 가격이라면 무엇이 집계되는지를 보여 줘야 한다. 크레딧은 그 가치를 가늠할 수 있어야 한다."
+            "x": "재작성은 2025년 10월쯤 시작됐다. 처음에는 Pascal 코드 일부를 Claude에게 넘겨 분석과 의견을 받았고, 거기서 Apple용 코드가 출발했다. 나는 코드를 직접 짜는 프로그래머 자리에서 물러나 무엇을 만들지 정하는 프로듀서 겸 디렉터, 그리고 출시 여부를 가리는 품질 관리 테스터가 됐다. 지금 C3라고 부르는 이 프로그램은 2026년 2월까지 기능을 다 갖췄다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+            "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+            "cap": "John Hardy가 개발한 회로도를 띄운 C3 인터페이스. (이미지: John M. Christy.)"
           },
           {
             "t": "p",
-            "x": "작업 전에는 비용을 좌우하는 요인을 알리고 더 싼 모드나 상한을 내민다. 작업 중에는 실제 진행 상황을 보여 주다가 추정치가 빗나가면 계속할지 먼저 묻는다. 끝나면 영수증을 붙인다. 비용은 필요할 때 보이면 그만이다. 사용자가 내내 신경 쓰게 만들어서는 안 된다."
+            "x": "Claude를 프로그래밍 파트너로 두자 아이디어부터 구현, 테스트까지 몇 달이 아니라 몇 분 만에 끝나는 일도 생겼다. 새 코드를 커밋하기 전에는 이천 개 가까운 테스트가 돈다. C3는 이제 음성 명령을 이백 개 넘게 알아듣고, 9월에는 어시스턴트 역할까지 맡았다. 언어 모델이 프로그램의 명령 카탈로그로 프로그램을 직접 움직이고, 요청 하나를 실행 취소 한 단계로 묶으며, 받아쓰기로 조작한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+            "cap": "C3 어시스턴트가 전부 그린 볼트 원형 플랜지. (이미지: John M. Christy.)"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Designing transparent\nAI cost controls",
-          "body": "A quick edit and a long agent run can look almost alike, so the guide covers usage units, spend limits and cost notes.",
-          "mini_headline": "Transparent AI cost controls",
+          "headline": "A 45-year CAD program\nrebuilt with Claude",
+          "body": "John M. Christy rewrote his 45-year-old CAD program for Mac with Claude as co-developer, adding drafting from speech.",
+          "mini_headline": "45 years of CAD, with Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "A practical guide to choosing usage units, designing spending limits, and explaining AI costs before, during, and after the work."
+                "x": "Carrying one CAD program from a 613 kHz HP-85 to a Mac M4 that drafts from speech taught me about accuracy, speed, and writing code the next reader can pick up cold. — John M. Christy, author of CADD/85, CADD 200/300 and C3."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "An HP-85 computer. (Image: Wolfgang Stief/Wikimedia.)"
               },
               {
                 "t": "p",
-                "x": "Every AI response has a price. A quick edit and a long-running agent can look almost identical in the interface, yet both start with the same button. For designers, that comes down to two decisions: the unit users see themselves spending, and the moment they understand the cost."
-              },
-              {
-                "t": "p",
-                "x": "Tokens are the system's currency, not the user's. Units range from tokens and dollars to credits, tasks and outcomes, and usage allowances; the important distinction is who carries the uncertainty. Usage limits should show each window and its reset; task pricing should explain what counts; credits need a sense of value."
+                "x": "The rewrite began around October 2025. Early on I began handing pieces of the Pascal to Claude to analyze and comment on, and that is how the Apple code began. I stopped being the programmer who writes the code and became the producer and director who decides what gets built, and the quality-control tester who decides whether it ships. The program, now called C3, was feature-complete by February 2026."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "The C3 interface with a circuit schematic developed by John Hardy. (Image: John M. Christy.)"
               },
               {
                 "t": "p",
-                "x": "Before the work, explain what drives the cost and offer a cheaper mode or ceiling. During it, show real progress and ask before continuing if the estimate no longer holds. After it, attach a receipt. Cost should be visible when it matters, without becoming something users have to think about constantly."
+                "x": "With Claude as my programming partner, an idea, its implementation, and its testing sometimes take minutes instead of months. Nearly two thousand tests run before any new code is committed. C3 now understands more than two hundred spoken commands, and in September it became an assistant: a language model driving the program through its own command catalogue, one undo step per request, and driven by dictation."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "A bolt circle flange drawn entirely by the C3 assistant. (Image: John M. Christy.)"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 비용 통제\n투명하게 설계하기",
-          "body": "겉보기엔 비슷한 빠른 수정과 긴 에이전트 실행의 단위·한도·안내를 짚은 가이드다.",
-          "mini_headline": "AI 비용을 투명하게",
+          "headline": "45년 CAD 프로그램,\nClaude로 다시 짓다",
+          "body": "Christy는 45년 된 CAD 프로그램을 Claude와 Mac용으로 다시 썼다.",
+          "mini_headline": "Claude와 함께한 45년의 CAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "사용 단위 고르기, 지출 한도 설계, 작업 전·중·후 AI 비용 설명법을 담은 실용 가이드다."
+                "x": "613 kHz HP-85부터 음성으로 도면을 그리는 Mac M4까지 CAD 프로그램 하나를 이어 오며 정확성과 속도를 배웠고, 다음 사람이 아무 준비 없이 읽어도 이어받을 수 있는 코드를 쓰는 법도 배웠다. — John M. Christy, CADD/85, CADD 200/300, C3 개발자."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "HP-85 컴퓨터. (이미지: Wolfgang Stief/Wikimedia.)"
               },
               {
                 "t": "p",
-                "x": "AI 응답에는 하나하나 값이 매겨진다. 빠른 수정도, 오래 도는 에이전트도 인터페이스에서는 거의 똑같아 보이고 같은 버튼으로 시작한다. 그래서 디자이너가 정할 건 두 가지다. 사용자가 무엇을 쓰고 있다고 여기게 할 단위, 그리고 비용을 언제 알게 할지다."
-              },
-              {
-                "t": "p",
-                "x": "토큰은 시스템의 화폐지 사용자의 화폐가 아니다. 단위는 토큰·달러부터 크레딧, 작업·결과, 사용 허용량까지 여러 가지인데 결정적 차이는 불확실성을 누가 지느냐에 있다. 사용 한도라면 기간과 초기화 시점을, 작업 단위 가격이라면 무엇이 집계되는지를 보여 줘야 한다. 크레딧은 그 가치를 가늠할 수 있어야 한다."
+                "x": "재작성은 2025년 10월쯤 시작됐다. 처음에는 Pascal 코드 일부를 Claude에게 넘겨 분석과 의견을 받았고, 거기서 Apple용 코드가 출발했다. 나는 코드를 직접 짜는 프로그래머 자리에서 물러나 무엇을 만들지 정하는 프로듀서 겸 디렉터, 그리고 출시 여부를 가리는 품질 관리 테스터가 됐다. 지금 C3라고 부르는 이 프로그램은 2026년 2월까지 기능을 다 갖췄다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "John Hardy가 개발한 회로도를 띄운 C3 인터페이스. (이미지: John M. Christy.)"
               },
               {
                 "t": "p",
-                "x": "작업 전에는 비용을 좌우하는 요인을 알리고 더 싼 모드나 상한을 내민다. 작업 중에는 실제 진행 상황을 보여 주다가 추정치가 빗나가면 계속할지 먼저 묻는다. 끝나면 영수증을 붙인다. 비용은 필요할 때 보이면 그만이다. 사용자가 내내 신경 쓰게 만들어서는 안 된다."
+                "x": "Claude를 프로그래밍 파트너로 두자 아이디어부터 구현, 테스트까지 몇 달이 아니라 몇 분 만에 끝나는 일도 생겼다. 새 코드를 커밋하기 전에는 이천 개 가까운 테스트가 돈다. C3는 이제 음성 명령을 이백 개 넘게 알아듣고, 9월에는 어시스턴트 역할까지 맡았다. 언어 모델이 프로그램의 명령 카탈로그로 프로그램을 직접 움직이고, 요청 하나를 실행 취소 한 단계로 묶으며, 받아쓰기로 조작한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "C3 어시스턴트가 전부 그린 볼트 원형 플랜지. (이미지: John M. Christy.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "透明なAIコスト管理の\n設計法",
-          "body": "短い編集と長いエージェント実行は見分けにくく、ガイドは利用単位や上限、費用表示を扱う。",
-          "mini_headline": "透明なAIコスト管理",
+          "headline": "45年続くCADを\nClaudeで作り直す",
+          "body": "John M. Christyは45年来のCADをClaudeと共にMac向けに書き直した。",
+          "mini_headline": "Claudeと歩む45年のCAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "利用単位の選び方、支出上限の設計、そして作業の前・中・後にAIのコストをどう説明するかを示す実践ガイドである。"
+                "x": "一つのCADプログラムを、613 kHzのHP-85から音声で製図するMac M4まで受け継いできたことで、正確さと速さ、そして次に読む人が予備知識なしで引き継げるコードの書き方を学んだ。——John M. Christy(CADD/85、CADD 200/300、C3の作者)"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "HP-85コンピューター。(画像:Wolfgang Stief/Wikimedia)"
               },
               {
                 "t": "p",
-                "x": "AIの応答にはすべて価格がある。短い編集も長時間動くエージェントも、インターフェース上ではほとんど同じに見え、どちらも同じボタンから始まる。デザイナーにとって、これは二つの判断に行き着く。ユーザーが自分は何を消費していると捉えるかという単位と、ユーザーがコストを理解するタイミングだ。"
-              },
-              {
-                "t": "p",
-                "x": "トークンはシステムの通貨であって、ユーザーの通貨ではない。単位にはトークンやドル、クレジット、タスクや成果、利用枠まで幅があり、重要なのは不確実性を誰が負うかという違いだ。利用上限は各期間とそのリセットを示すべきであり、タスク課金は何がカウントされるかを説明すべきであり、クレジットには価値の感覚が必要だ。"
+                "x": "書き直しは2025年10月ごろに始まった。早い段階から、Pascalのコードの一部をClaudeに渡して分析とコメントを任せるようになり、それがAppleのコードの始まりとなった。私はコードを書くプログラマーであることをやめ、何を作るかを決めるプロデューサー兼ディレクター、そして出荷の可否を判断する品質管理テスターになった。現在C3と呼ばれるこのプログラムは、2026年2月までに機能が出そろった。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "John Hardyが開発した回路図を表示したC3のインターフェース。(画像:John M. Christy)"
               },
               {
                 "t": "p",
-                "x": "作業の前には、何がコストを左右するかを説明し、より安価なモードや上限を提示する。作業中は実際の進捗を示し、見積もりが成り立たなくなったら続行前に確認する。作業後には明細を添える。コストは重要な場面で見えるべきだが、ユーザーが常に気にしなければならないものになってはならない。"
+                "x": "Claudeをプログラミングのパートナーにすると、アイデアと実装、テストが数か月ではなく数分で済むこともある。新しいコードをコミットする前には二千近いテストが走る。C3は今や二百を超える音声コマンドを理解し、9月にはアシスタントになった。言語モデルがプログラム独自のコマンドカタログを通じてプログラムを操作し、リクエスト一つにつき取り消しは一段階、操作は口述で行う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "C3のアシスタントがすべて描いたボルト円フランジ。(画像:John M. Christy)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "如何设计透明的\nAI成本控制",
-          "body": "快速修改与长时间代理任务看起来几乎一样，指南因此涵盖用量单位、支出上限和成本说明。",
-          "mini_headline": "透明的AI成本控制",
+          "headline": "45年的CAD程序\n用Claude重建",
+          "body": "John M. Christy借助Claude，为Mac重写了45年历史的CAD程序。",
+          "mini_headline": "45年CAD，携手Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "一份实用指南，讲解如何选择用量单位、设计支出上限，以及在工作前、中、后解释AI成本。"
+                "x": "把同一个CAD程序从613 kHz的HP-85一路带到能听语音绘图的Mac M4，让我懂得了准确、速度，以及如何写出下一位读者拿来就能上手的代码。——John M. Christy，CADD/85、CADD 200/300和C3的作者。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "一台HP-85电脑。（图片：Wolfgang Stief/Wikimedia）"
               },
               {
                 "t": "p",
-                "x": "每一次AI回应都有价格。快速修改和长时间运行的代理在界面上可能几乎一模一样，而且都从同一个按钮启动。对设计师来说，这归结为两个决定：用户看到自己在消耗的单位，以及用户理解成本的时机。"
-              },
-              {
-                "t": "p",
-                "x": "词元是系统的货币，而不是用户的货币。单位从词元和美元，到积分、任务和成果，再到用量额度，不一而足；关键区别在于由谁承担不确定性。用量上限应显示每个周期及其重置时间；按任务计价应说明哪些会被计入；积分则需要让人感知其价值。"
+                "x": "重写大约从2025年10月开始。一开始，我就把Pascal代码的片段交给Claude分析和注释，Apple版代码就是这样起步的。我不再是写代码的程序员，而是成了决定做什么的制作人和导演，以及决定能否发布的质量控制测试员。这个如今名为C3的程序，到2026年2月已功能完备。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "C3界面，显示John Hardy设计的电路原理图。（图片：John M. Christy）"
               },
               {
                 "t": "p",
-                "x": "工作开始前，要说明成本由什么决定，并提供更便宜的模式或上限。进行中，要显示真实进度，如果估算不再成立，应在继续前先征询用户。完成后，附上一张收据。成本应在关键时刻可见，但不应成为用户需要时刻惦记的事。"
+                "x": "有Claude做编程搭档，一个想法从实现到测试，有时只需几分钟而非几个月。每次提交新代码前，要运行近两千项测试。C3如今能听懂两百多条语音命令，并在9月成为一个助手：由语言模型通过程序自身的命令目录来驱动程序，每个请求对应一步撤销，并通过口述来操作。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "完全由C3助手绘制的螺栓圆法兰。（图片：John M. Christy）"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diseñar controles de costo\nde AI transparentes",
-          "body": "Una edición rápida y una tarea larga de agente parecen casi iguales; la guía trata unidades, límites y notas de costo.",
-          "mini_headline": "Controles transparentes de costo de AI",
+          "headline": "Un programa CAD de 45 años,\nreconstruido con Claude",
+          "body": "John M. Christy reescribió para Mac su programa CAD de 45 años con Claude como codesarrollador y añadió dibujo por voz.",
+          "mini_headline": "45 años de CAD, con Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "Una guía práctica para elegir unidades de uso, diseñar límites de gasto y explicar los costos de la AI antes, durante y después del trabajo."
+                "x": "Llevar un mismo programa CAD desde un HP-85 de 613 kHz hasta un Mac M4 que dibuja a partir de la voz me enseñó sobre precisión, velocidad y cómo escribir código que el siguiente lector pueda retomar sin contexto previo. — John M. Christy, autor de CADD/85, CADD 200/300 y C3."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "Una computadora HP-85. (Imagen: Wolfgang Stief/Wikimedia.)"
               },
               {
                 "t": "p",
-                "x": "Cada respuesta de AI tiene un precio. Una edición rápida y un agente de larga ejecución pueden verse casi idénticos en la interfaz, y ambos empiezan con el mismo botón. Para los diseñadores, todo se reduce a dos decisiones: la unidad en la que los usuarios ven lo que gastan y el momento en que entienden el costo."
-              },
-              {
-                "t": "p",
-                "x": "Los tokens son la moneda del sistema, no la del usuario. Las unidades van desde tokens y dólares hasta créditos, tareas y resultados, y cuotas de uso; la distinción importante es quién asume la incertidumbre. Los límites de uso deben mostrar cada periodo y su reinicio; el precio por tarea debe explicar qué cuenta; los créditos necesitan transmitir una noción de valor."
+                "x": "La reescritura empezó hacia octubre de 2025. Desde el principio empecé a pasarle a Claude fragmentos del código en Pascal para que los analizara y comentara, y así nació el código para Apple. Dejé de ser el programador que escribe el código y pasé a ser el productor y director que decide qué se construye, y el probador de control de calidad que decide si se publica. El programa, que ahora se llama C3, tenía todas sus funciones completas en febrero de 2026."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "La interfaz de C3 con un esquema de circuito desarrollado por John Hardy. (Imagen: John M. Christy.)"
               },
               {
                 "t": "p",
-                "x": "Antes del trabajo, explica qué determina el costo y ofrece un modo más barato o un tope. Durante el trabajo, muestra el progreso real y pregunta antes de continuar si la estimación ya no se cumple. Después, adjunta un recibo. El costo debe ser visible cuando importa, sin convertirse en algo en lo que los usuarios tengan que pensar constantemente."
+                "x": "Con Claude como compañero de programación, una idea, su implementación y sus pruebas a veces llevan minutos en lugar de meses. Antes de confirmar cualquier código nuevo se ejecutan casi dos mil pruebas. C3 entiende ahora más de doscientos comandos de voz, y en septiembre se convirtió en un asistente: un modelo de lenguaje que maneja el programa a través de su propio catálogo de comandos, con un paso de deshacer por solicitud, y que se controla por dictado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "Una brida con círculo de pernos dibujada íntegramente por el asistente de C3. (Imagen: John M. Christy.)"
               }
             ]
           }
@@ -1183,409 +1657,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "투명한 AI 비용 통제\n어떻게 설계하나",
-          "body": "가이드는 비슷해 보이는 빠른 수정과 긴 에이전트 실행의 단위·한도·안내를 다룬다.",
-          "mini_headline": "투명한 AI 비용 통제",
+          "headline": "45년 CAD 프로그램,\nClaude로 다시 짓다",
+          "body": "Christy는 45년 된 CAD 프로그램을 Claude와 Mac용으로 새로 썼다.",
+          "mini_headline": "Claude와 함께한 45년의 CAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "사용 단위를 고르고, 지출 한도를 설계하고, 작업 전·중·후에 AI 비용을 설명하는 방법을 담은 실용 가이드다."
+                "x": "613 kHz HP-85에서 음성으로 도면을 그리는 Mac M4까지 하나의 CAD 프로그램을 이어 오면서 정확성과 속도, 그리고 다음 사람이 아무 준비 없이 읽어도 이어받을 수 있는 코드를 쓰는 법을 배웠다. — John M. Christy, CADD/85, CADD 200/300, C3 개발자."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "HP-85 컴퓨터. (이미지: Wolfgang Stief/Wikimedia.)"
               },
               {
                 "t": "p",
-                "x": "모든 AI 응답에는 가격이 있다. 빠른 수정과 오래 실행되는 에이전트는 인터페이스에서 거의 똑같아 보이고, 둘 다 같은 버튼으로 시작한다. 디자이너에게 이는 두 가지 결정으로 귀결된다. 사용자가 무엇을 쓰고 있다고 보게 되는 단위, 그리고 사용자가 비용을 이해하는 시점이다."
-              },
-              {
-                "t": "p",
-                "x": "토큰은 사용자의 통화가 아니라 시스템의 통화다. 단위는 토큰과 달러부터 크레딧, 작업과 결과, 사용 허용량까지 다양하며, 중요한 차이는 불확실성을 누가 떠안느냐다. 사용 한도는 각 기간과 초기화 시점을 보여 줘야 하고, 작업 단위 가격은 무엇이 집계되는지 설명해야 하며, 크레딧은 가치를 가늠할 수 있어야 한다."
+                "x": "재작성은 2025년 10월쯤 시작됐다. 초기에 나는 Pascal 코드 일부를 Claude에게 넘겨 분석하고 의견을 달게 했고, 그렇게 Apple용 코드가 시작됐다. 나는 코드를 직접 쓰는 프로그래머에서 벗어나 무엇을 만들지 정하는 프로듀서이자 디렉터, 그리고 출시 여부를 판단하는 품질 관리 테스터가 됐다. 지금은 C3라는 이름의 이 프로그램은 2026년 2월까지 기능을 모두 갖췄다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "John Hardy가 개발한 회로도를 띄운 C3 인터페이스. (이미지: John M. Christy.)"
               },
               {
                 "t": "p",
-                "x": "작업 전에는 무엇이 비용을 좌우하는지 설명하고 더 저렴한 모드나 상한을 제시한다. 작업 중에는 실제 진행 상황을 보여 주고, 추정치가 더는 맞지 않으면 계속하기 전에 묻는다. 작업 후에는 영수증을 붙인다. 비용은 필요할 때 보여야 하지만, 사용자가 늘 신경 써야 하는 대상이 되어서는 안 된다."
+                "x": "Claude를 프로그래밍 파트너로 두니 아이디어와 구현, 테스트가 몇 달이 아니라 몇 분 만에 끝나기도 한다. 새 코드를 커밋하기 전에는 이천 개 가까운 테스트가 돈다. C3는 이제 이백 개가 넘는 음성 명령을 알아듣고, 9월에는 어시스턴트가 됐다. 언어 모델이 프로그램 자체의 명령 카탈로그를 통해 프로그램을 움직이고, 요청 하나당 실행 취소 한 단계로 처리하며, 받아쓰기로 조작한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "C3 어시스턴트가 전부 그린 볼트 원형 플랜지. (이미지: John M. Christy.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "透明なAIコスト管理の\n設計法",
-          "body": "短い編集と長いエージェント実行は見分けにくく、ガイドは利用単位や上限、費用表示を扱う。",
-          "mini_headline": "透明なAIコスト管理",
+          "headline": "45年続くCADを\nClaudeで作り直す",
+          "body": "John M. Christyは45年来のCADをClaudeと共にMac向けに書き直した。",
+          "mini_headline": "Claudeと歩む45年のCAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "利用単位の選び方、支出上限の設計、そして作業の前・中・後にAIのコストをどう説明するかを示す実践ガイドである。"
+                "x": "一つのCADプログラムを、613 kHzのHP-85から音声で製図するMac M4まで受け継いできたことで、正確さと速さ、そして次に読む人が予備知識なしで引き継げるコードの書き方を学んだ。——John M. Christy(CADD/85、CADD 200/300、C3の作者)"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "HP-85コンピューター。(画像:Wolfgang Stief/Wikimedia)"
               },
               {
                 "t": "p",
-                "x": "AIの応答にはすべて価格がある。短い編集も長時間動くエージェントも、インターフェース上ではほとんど同じに見え、どちらも同じボタンから始まる。デザイナーにとって、これは二つの判断に行き着く。ユーザーが自分は何を消費していると捉えるかという単位と、ユーザーがコストを理解するタイミングだ。"
-              },
-              {
-                "t": "p",
-                "x": "トークンはシステムの通貨であって、ユーザーの通貨ではない。単位にはトークンやドル、クレジット、タスクや成果、利用枠まで幅があり、重要なのは不確実性を誰が負うかという違いだ。利用上限は各期間とそのリセットを示すべきであり、タスク課金は何がカウントされるかを説明すべきであり、クレジットには価値の感覚が必要だ。"
+                "x": "書き直しは2025年10月ごろに始まった。早い段階から、Pascalのコードの一部をClaudeに渡して分析とコメントを任せるようになり、それがAppleのコードの始まりとなった。私はコードを書くプログラマーであることをやめ、何を作るかを決めるプロデューサー兼ディレクター、そして出荷の可否を判断する品質管理テスターになった。現在C3と呼ばれるこのプログラムは、2026年2月までに機能が出そろった。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "John Hardyが開発した回路図を表示したC3のインターフェース。(画像:John M. Christy)"
               },
               {
                 "t": "p",
-                "x": "作業の前には、何がコストを左右するかを説明し、より安価なモードや上限を提示する。作業中は実際の進捗を示し、見積もりが成り立たなくなったら続行前に確認する。作業後には明細を添える。コストは重要な場面で見えるべきだが、ユーザーが常に気にしなければならないものになってはならない。"
+                "x": "Claudeをプログラミングのパートナーにすると、アイデアと実装、テストが数か月ではなく数分で済むこともある。新しいコードをコミットする前には二千近いテストが走る。C3は今や二百を超える音声コマンドを理解し、9月にはアシスタントになった。言語モデルがプログラム独自のコマンドカタログを通じてプログラムを操作し、リクエスト一つにつき取り消しは一段階、操作は口述で行う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "C3のアシスタントがすべて描いたボルト円フランジ。(画像:John M. Christy)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "如何设计透明的\nAI成本控制",
-          "body": "快速修改与长时间代理任务看起来几乎一样，指南因此涵盖用量单位、支出上限和成本说明。",
-          "mini_headline": "透明的AI成本控制",
+          "headline": "45年的CAD程序\n用Claude重建",
+          "body": "John M. Christy借助Claude，为Mac重写了45年历史的CAD程序。",
+          "mini_headline": "45年CAD，携手Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "一份实用指南，讲解如何选择用量单位、设计支出上限，以及在工作前、中、后解释AI成本。"
+                "x": "把同一个CAD程序从613 kHz的HP-85一路带到能听语音绘图的Mac M4，让我懂得了准确、速度，以及如何写出下一位读者拿来就能上手的代码。——John M. Christy，CADD/85、CADD 200/300和C3的作者。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "一台HP-85电脑。（图片：Wolfgang Stief/Wikimedia）"
               },
               {
                 "t": "p",
-                "x": "每一次AI回应都有价格。快速修改和长时间运行的代理在界面上可能几乎一模一样，而且都从同一个按钮启动。对设计师来说，这归结为两个决定：用户看到自己在消耗的单位，以及用户理解成本的时机。"
-              },
-              {
-                "t": "p",
-                "x": "词元是系统的货币，而不是用户的货币。单位从词元和美元，到积分、任务和成果，再到用量额度，不一而足；关键区别在于由谁承担不确定性。用量上限应显示每个周期及其重置时间；按任务计价应说明哪些会被计入；积分则需要让人感知其价值。"
+                "x": "重写大约从2025年10月开始。一开始，我就把Pascal代码的片段交给Claude分析和注释，Apple版代码就是这样起步的。我不再是写代码的程序员，而是成了决定做什么的制作人和导演，以及决定能否发布的质量控制测试员。这个如今名为C3的程序，到2026年2月已功能完备。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "C3界面，显示John Hardy设计的电路原理图。（图片：John M. Christy）"
               },
               {
                 "t": "p",
-                "x": "工作开始前，要说明成本由什么决定，并提供更便宜的模式或上限。进行中，要显示真实进度，如果估算不再成立，应在继续前先征询用户。完成后，附上一张收据。成本应在关键时刻可见，但不应成为用户需要时刻惦记的事。"
+                "x": "有Claude做编程搭档，一个想法从实现到测试，有时只需几分钟而非几个月。每次提交新代码前，要运行近两千项测试。C3如今能听懂两百多条语音命令，并在9月成为一个助手：由语言模型通过程序自身的命令目录来驱动程序，每个请求对应一步撤销，并通过口述来操作。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "完全由C3助手绘制的螺栓圆法兰。（图片：John M. Christy）"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diseñar controles de costo\nde AI transparentes",
-          "body": "Una edición rápida y una tarea larga de agente parecen casi iguales; la guía trata unidades, límites y notas de costo.",
-          "mini_headline": "Controles transparentes de costo de AI",
+          "headline": "Un programa CAD de 45 años,\nreconstruido con Claude",
+          "body": "John M. Christy reescribió para Mac su programa CAD de 45 años con Claude como codesarrollador y añadió dibujo por voz.",
+          "mini_headline": "45 años de CAD, con Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+              },
+              {
                 "t": "p",
-                "x": "Una guía práctica para elegir unidades de uso, diseñar límites de gasto y explicar los costos de la AI antes, durante y después del trabajo."
+                "x": "Llevar un mismo programa CAD desde un HP-85 de 613 kHz hasta un Mac M4 que dibuja a partir de la voz me enseñó sobre precisión, velocidad y cómo escribir código que el siguiente lector pueda retomar sin contexto previo. — John M. Christy, autor de CADD/85, CADD 200/300 y C3."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+                "cap": "Una computadora HP-85. (Imagen: Wolfgang Stief/Wikimedia.)"
               },
               {
                 "t": "p",
-                "x": "Cada respuesta de AI tiene un precio. Una edición rápida y un agente de larga ejecución pueden verse casi idénticos en la interfaz, y ambos empiezan con el mismo botón. Para los diseñadores, todo se reduce a dos decisiones: la unidad en la que los usuarios ven lo que gastan y el momento en que entienden el costo."
-              },
-              {
-                "t": "p",
-                "x": "Los tokens son la moneda del sistema, no la del usuario. Las unidades van desde tokens y dólares hasta créditos, tareas y resultados, y cuotas de uso; la distinción importante es quién asume la incertidumbre. Los límites de uso deben mostrar cada periodo y su reinicio; el precio por tarea debe explicar qué cuenta; los créditos necesitan transmitir una noción de valor."
+                "x": "La reescritura empezó hacia octubre de 2025. Desde el principio empecé a pasarle a Claude fragmentos del código en Pascal para que los analizara y comentara, y así nació el código para Apple. Dejé de ser el programador que escribe el código y pasé a ser el productor y director que decide qué se construye, y el probador de control de calidad que decide si se publica. El programa, que ahora se llama C3, tenía todas sus funciones completas en febrero de 2026."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*pKQOr0MKrg_Q_miu.jpeg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+                "cap": "La interfaz de C3 con un esquema de circuito desarrollado por John Hardy. (Imagen: John M. Christy.)"
               },
               {
                 "t": "p",
-                "x": "Antes del trabajo, explica qué determina el costo y ofrece un modo más barato o un tope. Durante el trabajo, muestra el progreso real y pregunta antes de continuar si la estimación ya no se cumple. Después, adjunta un recibo. El costo debe ser visible cuando importa, sin convertirse en algo en lo que los usuarios tengan que pensar constantemente."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "borisfx-continuum-2027-ml",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Continuum 2027\nBoris FX AI 강화",
-      "body": "Face ML은 얼굴 전체를, Matte Refine ML은 머리카락까지 잡는다.",
-      "mini_headline": "Continuum 2027의 AI 마스킹",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/10/borisfx-releases-continuum-2027/",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "_cnXGCOCCJY"
-          },
-          {
-            "t": "p",
-            "x": "Boris FX가 합성·편집 소프트웨어용 이펙트 플러그인 모음의 새 버전 Continuum 2027.0을 내놨다. 2D 타이틀 시스템과 3D 노이즈 생성기, 워프·왜곡 이펙트 다섯 종이 새로 들어갔고 Continuum의 마스킹 도구와 파티클 이펙트 시스템도 손봤다."
-          },
-          {
-            "t": "p",
-            "x": "Continuum 2026.0에 들어갔던 AI 마스킹 도구도 개선됐다. BCC+ Face ML은 이제 귀까지 얼굴 전체 윤곽을 따라가므로 “더 완전한 커버리지와 더 적은 수작업 수정”이 가능하다. BCC+ Matte Refine ML은 머리카락 같은 미세한 디테일을 더 잘 살리고, BCC+ Witness Protection ML은 흔한 타원 대신 정밀한 마스크를 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "Continuum 2027.0은 Windows 10+ 또는 macOS 12.0+ 환경에서 After Effects, DaVinci Resolve, Nuke와 함께 쓸 수 있다. 영구 라이선스는 $365에서 $2,195, 구독은 $32/month에서 $112/month, 또는 $215/year에서 $765/year다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Boris FX Continuum 2027\nsharpens its AI masking",
-          "body": "Continuum 2027 updates its ML masks, with Face ML following the full face and Matte Refine ML keeping hair detail.",
-          "mini_headline": "Continuum 2027 AI masking",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
+                "x": "Con Claude como compañero de programación, una idea, su implementación y sus pruebas a veces llevan minutos en lugar de meses. Antes de confirmar cualquier código nuevo se ejecutan casi dos mil pruebas. C3 entiende ahora más de doscientos comandos de voz, y en septiembre se convirtió en un asistente: un modelo de lenguaje que maneja el programa a través de su propio catálogo de comandos, con un paso de deshacer por solicitud, y que se controla por dictado."
               },
               {
-                "t": "p",
-                "x": "Boris FX has released Continuum 2027.0, the latest version of its set of effects plugins for compositing and editing software. The release adds a new 2D titling system, a new 3D noise generator, and five new warp and distortion effects, and updates Continuum's masking tools and particle effects system."
-              },
-              {
-                "t": "p",
-                "x": "The AI masking tools added in Continuum 2026.0 have also been updated. BCC+ Face ML now follows the full shape of the face, including the ears, resulting in “more complete coverage and fewer manual fixes”. BCC+ Matte Refine ML now preserves fine detail like hair better, and BCC+ Witness Protection ML now uses precise masks rather than generic ovals."
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0 is compatible with After Effects, DaVinci Resolve and Nuke, on Windows 10+ or macOS 12.0+. Perpetual licences cost from $365 to $2,195; subscriptions from $32/month to $112/month, or $215/year to $765/year."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Boris FX Continuum 2027\nafina su enmascarado con AI",
-          "body": "Continuum 2027 renueva sus máscaras ML: Face ML sigue todo el rostro y Matte Refine ML conserva el detalle del cabello.",
-          "mini_headline": "Enmascarado con AI en Continuum 2027",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FX ha lanzado Continuum 2027.0, la versión más reciente de su conjunto de plugins de efectos para software de composición y edición. La versión añade un nuevo sistema de titulación 2D, un nuevo generador de ruido 3D y cinco nuevos efectos de deformación y distorsión, y actualiza las herramientas de enmascarado y el sistema de efectos de partículas de Continuum."
-              },
-              {
-                "t": "p",
-                "x": "También se han actualizado las herramientas de enmascarado con AI añadidas en Continuum 2026.0. BCC+ Face ML ahora sigue la forma completa del rostro, incluidas las orejas, lo que se traduce en “una cobertura más completa y menos correcciones manuales”. BCC+ Matte Refine ML ahora conserva mejor los detalles finos como el cabello, y BCC+ Witness Protection ML ahora usa máscaras precisas en lugar de óvalos genéricos."
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0 es compatible con After Effects, DaVinci Resolve y Nuke, en Windows 10+ o macOS 12.0+. Las licencias perpetuas cuestan de $365 a $2,195; las suscripciones, de $32/month a $112/month, o de $215/year a $765/year."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Continuum 2027\nBoris FX AI 강화",
-          "body": "Face ML은 얼굴 전체를, Matte Refine ML은 머리카락까지 잡는다.",
-          "mini_headline": "Continuum 2027의 AI 마스킹",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FX가 합성·편집 소프트웨어용 이펙트 플러그인 모음의 새 버전 Continuum 2027.0을 내놨다. 2D 타이틀 시스템과 3D 노이즈 생성기, 워프·왜곡 이펙트 다섯 종이 새로 들어갔고 Continuum의 마스킹 도구와 파티클 이펙트 시스템도 손봤다."
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2026.0에 들어갔던 AI 마스킹 도구도 개선됐다. BCC+ Face ML은 이제 귀까지 얼굴 전체 윤곽을 따라가므로 “더 완전한 커버리지와 더 적은 수작업 수정”이 가능하다. BCC+ Matte Refine ML은 머리카락 같은 미세한 디테일을 더 잘 살리고, BCC+ Witness Protection ML은 흔한 타원 대신 정밀한 마스크를 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0은 Windows 10+ 또는 macOS 12.0+ 환경에서 After Effects, DaVinci Resolve, Nuke와 함께 쓸 수 있다. 영구 라이선스는 $365에서 $2,195, 구독은 $32/month에서 $112/month, 또는 $215/year에서 $765/year다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Continuum 2027\nBoris FXがAI強化",
-          "body": "Face MLは顔全体を、Matte Refine MLは髪の細部まで捉える。",
-          "mini_headline": "Continuum 2027のAIマスキング",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FXは、コンポジットや編集ソフト向けエフェクトプラグイン集の最新版Continuum 2027.0をリリースした。新たな2D タイトルシステム、新たな3D ノイズジェネレーター、五つの新しいワープ／ディストーションエフェクトを追加し、Continuumのマスキングツールとパーティクルエフェクトシステムを更新した。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2026.0で追加されたAIマスキングツールも更新された。BCC+ Face MLは耳を含む顔全体の形状を追従するようになり、「より完全なカバレッジと手作業による修正の削減」を実現した。BCC+ Matte Refine MLは髪のような細かなディテールをよりよく保持し、BCC+ Witness Protection MLは汎用的な楕円ではなく精密なマスクを使うようになった。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0はWindows 10+ またはmacOS 12.0+ 上のAfter Effects、DaVinci Resolve、Nukeに対応する。永続ライセンスは$365から$2,195、サブスクリプションは$32/monthから$112/month、または$215/yearから$765/yearだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Continuum 2027\nBoris FX强化AI遮罩",
-          "body": "Face ML可追踪整张脸，Matte Refine ML能保留发丝细节。",
-          "mini_headline": "Continuum 2027的AI遮罩",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FX发布了Continuum 2027.0，这是其面向合成与剪辑软件的特效插件套装的最新版本。此次更新新增了2D 字幕系统、3D 噪波生成器以及五款新的扭曲与变形特效，并更新了Continuum的遮罩工具和粒子特效系统。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2026.0中加入的AI遮罩工具也得到更新。BCC+ Face ML现在可追踪包括耳朵在内的完整脸型，带来“更完整的覆盖和更少的手动修正”。BCC+ Matte Refine ML现在能更好地保留发丝等细节，BCC+ Witness Protection ML则改用精确遮罩，而非通用的椭圆形。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0兼容After Effects、DaVinci Resolve和Nuke，支持Windows 10+ 或macOS 12.0+ 系统。永久许可证售价$365至$2,195；订阅为$32/month至$112/month，或$215/year至$765/year。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "Boris FX Continuum 2027\nafina su enmascarado con AI",
-          "body": "Continuum 2027 renueva sus máscaras ML: Face ML sigue todo el rostro y Matte Refine ML conserva el detalle del cabello.",
-          "mini_headline": "Enmascarado con AI en Continuum 2027",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FX ha lanzado Continuum 2027.0, la versión más reciente de su conjunto de plugins de efectos para software de composición y edición. La versión añade un nuevo sistema de titulación 2D, un nuevo generador de ruido 3D y cinco nuevos efectos de deformación y distorsión, y actualiza las herramientas de enmascarado y el sistema de efectos de partículas de Continuum."
-              },
-              {
-                "t": "p",
-                "x": "También se han actualizado las herramientas de enmascarado con AI añadidas en Continuum 2026.0. BCC+ Face ML ahora sigue la forma completa del rostro, incluidas las orejas, lo que se traduce en “una cobertura más completa y menos correcciones manuales”. BCC+ Matte Refine ML ahora conserva mejor los detalles finos como el cabello, y BCC+ Witness Protection ML ahora usa máscaras precisas en lugar de óvalos genéricos."
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0 es compatible con After Effects, DaVinci Resolve y Nuke, en Windows 10+ o macOS 12.0+. Las licencias perpetuas cuestan de $365 a $2,195; las suscripciones, de $32/month a $112/month, o de $215/year a $765/year."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Continuum 2027\nBoris FX AI 강화",
-          "body": "Face ML은 얼굴 전체를, Matte Refine ML은 머리카락까지 잡는다.",
-          "mini_headline": "Continuum 2027 AI 마스킹",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FX가 합성·편집 소프트웨어용 이펙트 플러그인 모음의 최신 버전 Continuum 2027.0을 출시했다. 이번 릴리스는 새 2D 타이틀 시스템, 새 3D 노이즈 생성기, 다섯 가지 새 워프·왜곡 이펙트를 추가하고, Continuum의 마스킹 도구와 파티클 이펙트 시스템을 업데이트했다."
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2026.0에서 추가된 AI 마스킹 도구도 업데이트됐다. BCC+ Face ML은 이제 귀를 포함한 얼굴 전체 형태를 따라가며, 그 결과 “더 완전한 커버리지와 더 적은 수작업 수정”이 가능해졌다. BCC+ Matte Refine ML은 머리카락 같은 미세한 디테일을 더 잘 보존하고, BCC+ Witness Protection ML은 이제 일반적인 타원 대신 정밀한 마스크를 사용한다."
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0은 Windows 10+ 또는 macOS 12.0+ 환경에서 After Effects, DaVinci Resolve, Nuke와 호환된다. 영구 라이선스는 $365에서 $2,195, 구독은 $32/month에서 $112/month, 또는 $215/year에서 $765/year다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Continuum 2027\nBoris FXがAI強化",
-          "body": "Face MLは顔全体を、Matte Refine MLは髪の細部まで捉える。",
-          "mini_headline": "Continuum 2027のAIマスキング",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FXは、コンポジットや編集ソフト向けエフェクトプラグイン集の最新版Continuum 2027.0をリリースした。新たな2D タイトルシステム、新たな3D ノイズジェネレーター、五つの新しいワープ／ディストーションエフェクトを追加し、Continuumのマスキングツールとパーティクルエフェクトシステムを更新した。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2026.0で追加されたAIマスキングツールも更新された。BCC+ Face MLは耳を含む顔全体の形状を追従するようになり、「より完全なカバレッジと手作業による修正の削減」を実現した。BCC+ Matte Refine MLは髪のような細かなディテールをよりよく保持し、BCC+ Witness Protection MLは汎用的な楕円ではなく精密なマスクを使うようになった。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0はWindows 10+ またはmacOS 12.0+ 上のAfter Effects、DaVinci Resolve、Nukeに対応する。永続ライセンスは$365から$2,195、サブスクリプションは$32/monthから$112/month、または$215/yearから$765/yearだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Continuum 2027\nBoris FX强化AI遮罩",
-          "body": "Face ML可追踪整张脸，Matte Refine ML能保留发丝细节。",
-          "mini_headline": "Continuum 2027的AI遮罩",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "_cnXGCOCCJY"
-              },
-              {
-                "t": "p",
-                "x": "Boris FX发布了Continuum 2027.0，这是其面向合成与剪辑软件的特效插件套装的最新版本。此次更新新增了2D 字幕系统、3D 噪波生成器以及五款新的扭曲与变形特效，并更新了Continuum的遮罩工具和粒子特效系统。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2026.0中加入的AI遮罩工具也得到更新。BCC+ Face ML现在可追踪包括耳朵在内的完整脸型，带来“更完整的覆盖和更少的手动修正”。BCC+ Matte Refine ML现在能更好地保留发丝等细节，BCC+ Witness Protection ML则改用精确遮罩，而非通用的椭圆形。"
-              },
-              {
-                "t": "p",
-                "x": "Continuum 2027.0兼容After Effects、DaVinci Resolve和Nuke，支持Windows 10+ 或macOS 12.0+ 系统。永久许可证售价$365至$2,195；订阅为$32/month至$112/month，或$215/year至$765/year。"
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+                "cap": "Una brida con círculo de pernos dibujada íntegramente por el asistente de C3. (Imagen: John M. Christy.)"
               }
             ]
           }

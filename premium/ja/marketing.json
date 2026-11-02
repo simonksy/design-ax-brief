@@ -3182,6 +3182,125 @@
           "x": "今回の研究は、対話型AIの推薦方法が、単に検索結果の上部に表示するよりも消費者の選択に大きな影響を与え得ることを示している。特に広告表示があっても説得効果の多くが維持され、利用者が広告による誘導に気づきにくいことから、AIショッピングサービスにおける広告の透明性と利用者保護が主要な課題として浮上する見通しだ。"
         }
       ]
+    },
+    "marketing/amazon-alexa-shopping-400m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Amazonは第3四半期決算説明会で、過去12カ月間にAlexa for Shoppingを利用した顧客が400M 人を超え、7月末の350M 人から増えたと明らかにした。CEOのAndy Jassyは、Alexa for Shoppingを使う顧客は使わない顧客より50%多く支出していると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Amazonの第3四半期の純売上高は$201.9B で、12%増えた。AmazonはこのAIショッピングアシスタントを2024年2月にRufusとして公開し、5月にAlexa for Shoppingへと改称した。ホリデーシーズンを前に、ギフトリスト、レジストリ、Subscribe and Saveの管理など100を超える新機能を発表している。"
+        },
+        {
+          "t": "p",
+          "x": "AmazonはChatGPTやMetaのMuseショッピングエージェントなどのプラットフォームによる自社サイトのスクレイピングを遮断している。Jassyは「水平型エージェントとの協業も見込んでいるが、顧客がAmazonで買い物をする際に使う主要なショッピングエージェントはAlexa for Shoppingになると考えている」と語った。"
+        }
+      ]
+    },
+    "marketing/google-ads-strategist-ai-personas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-cloaked-O1oGKOSV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Extended Workforceに所属するGoogle Ads Strategistsが、広告主に連絡する際にAI-generatedのプロフィール写真と名前を使っている。Joe YoungbloodはXに「GoogleはGoogle Adsの連絡担当にAI-generatedの人物を使っている」と投稿した。"
+        },
+        {
+          "t": "p",
+          "x": "彼がxWFの契約スタッフからの電話を断ると、一時間後にGoogle Ads Strategistを名乗る「Kassy Garcia」からメールが届いた。LinkedInでは何も見つからず、GoogleのAI判定ツールではプロフィール写真がAI-generatedだと示された。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
+          "cap": "メール"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-headshot-lF5qcSfV.jpg",
+          "cap": "AIによる顔写真"
+        },
+        {
+          "t": "p",
+          "x": "Googleのドキュメントによれば、同社の担当者のメールアドレスは必ず@xwf.google.comで終わる。Search Engine Roundtableはこのやり方についてGoogleに問い合わせたが、回答はなかった。"
+        }
+      ]
+    },
+    "marketing/svedka-superbowl-consumer-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/xjzikIA1P0-a1-NNHIzCTrqpdnyHJ5txBlFoqEmNKl0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp",
+          "cap": "リアリティTV番組の司会者Andy Cohenが、Super Bowl広告コンテストの開始に向けてSvedkaのマスコットにインタビューしている。"
+        },
+        {
+          "t": "p",
+          "x": "Svedkaは次のSuper Bowl広告の主導権を消費者に委ね、すぐに飲めるVodka Waterを登場させる15秒(15-second)のCMづくりを呼びかけている。応募は12月1日までで、優勝者には$500,000の賞金が贈られる。"
+        },
+        {
+          "t": "p",
+          "x": "このコンテストは、同ブランドが初のSuper Bowl広告で人工知能を使ってフェムボットのマスコットを動かし、物議を醸したことを受けたものだ。Sazeracのグループプレジデント兼CMOのSara Saundersは「自分ならもっとうまくできるという声をたくさん聞いた。そして私たちはその議論を歓迎した」と述べた。デジタルツールキットを使えば、応募作は「AI-led、笑えるほど低予算、意外なほど映画的、あるいは創造的に野心的」なものにできる。"
+        },
+        {
+          "t": "video",
+          "yt": "pdZLcOF71Is"
+        },
+        {
+          "t": "p",
+          "x": "前回の広告が「大胆で奇妙、ディストピア的な悪夢」と評されたことに触れるAndy Cohenが、応募作の審査に加わる。そのSuper Bowl LXのCMは、AIイノベーションラボのSilversideが制作した。"
+        }
+      ]
+    },
+    "marketing/clarity-ai-agent-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Clarityは2026年10月29日、2026年8月13日から9月9日にかけて230,511件のClarityプロジェクトで記録された、AIエージェントが関わるウェブサイトセッション5.2M 件超の分析を公表した。そのうち25.21%で決済が記録され、同じサイトの人間のみのセッションでは14.65%だった。"
+        },
+        {
+          "t": "p",
+          "x": "人間のセッションでは外部リンクのクリックが26.99%で首位だが、エージェントのセッションでは14.28%にとどまる。フォーム送信は19.85%と18.56%で拮抗している。Book appointment(8.42%)とCheck availability(2.41%)はエージェント側の上位十項目に入ったが、人間側には入らなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoftは、エージェントのセッションには切り分けられない人間への引き継ぎが含まれうるため、結果は「必ずしもエージェントが自律的に完了した行動ではない」としている。PPC Landの計算では、これらの割合は5.2M 件ではなく約1.22M 件のセッションを母数とすることになる。MicrosoftはAgent Activity Dashboardの一般提供も開始した。"
+        }
+      ]
+    },
+    "marketing/microsoft-ai-ad-guidelines": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertisingは2026年10月28日、生成される広告文が言うべきこと・言うべきでないことについて、広告主がAIに最大40個の指針を文章で与えられるようにした。オープンパイロットとして、Conversions APIの一般提供開始やPerformance Maxキャンペーン向けの新たな検索語句レポートと併せて発表した。"
+        },
+        {
+          "t": "p",
+          "x": "新しいAI-poweredのキャンペーン作成フローでは、初めて広告を出す広告主がサイトと併せて「マーケティング計画、ブランドガイドライン、商品画像などの資料」を共有できる。システムはそれを「編集可能なビジネスのスナップショット」に変換し、AIが最初のPerformance Maxキャンペーンを組み立てる際の土台とする。"
+        },
+        {
+          "t": "p",
+          "x": "メッセージング指針は、Performance MaxとAI Maxを有効にしたSearchキャンペーンでオープンパイロット中だ。Microsoftは「主張、テーマ、コンセプト、トーン、避けるべき言葉に関するより広いルール」に使うよう勧めており、例として高級小売業者が「商品が安価だと決して示唆しない」と加えるケースを挙げる。「好ましい言い回し、テーマ、トーン」を示すこともできる。上限の40はGoogleのテキストガイドラインと同じである。"
+        },
+        {
+          "t": "p",
+          "x": "Performance Maxには年齢・性別ターゲティング、検索語句とオークション分析のレポート、オーディエンス除外のパイロットも加わる。検索語句のランディングページレポートは11月中旬(mid-November)に展開が始まる。Conversions APIは一般提供となり、パートナーにはAdobe Real-Time CDP、Segment by Twilio、Tealium、Zeotapなどが名を連ねる。"
+        }
+      ]
     }
   }
 }

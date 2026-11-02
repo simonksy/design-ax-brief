@@ -1,21 +1,21 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-01T23:50:00Z",
+  "now_iso": "2026-11-02T22:04:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
-      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
-      "source": "Engadget",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "source": "Ars Technica",
       "category": "gadgets",
-      "published_iso": "2026-11-01T17:17:42+00:00",
-      "excerpt": "Meta has reportedly built a household-chore humanoid robot prototype codenamed Max, running on Nvidia Jetson Thor, and is already working on Max 2, per The Information.",
-      "og_image": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
+      "published_iso": "2026-11-02T18:32:21Z",
+      "excerpt": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg",
       "history_match": {
-        "score": 0.18,
-        "date": "2026-10-19",
-        "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
-        "title": "UCLA researchers built a $400 humanoid robot around cheap phone technology",
+        "score": 0.162,
+        "date": "2026-10-17",
+        "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
+        "title": "Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead",
         "band": "related"
       }
     },
@@ -24,11 +24,11 @@
       "url": "https://www.digitaltrends.com/wearables/samsungs-first-ai-glasses-could-arrive-in-december-but-only-in-two-countries/",
       "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-10-31T12:33:51-07:00",
-      "excerpt": "Citing ChosunBiz, Samsung is planning to launch its first AI-powered smart glasses in mid-December, initially only in South Korea and the US.",
+      "published_iso": "2026-10-31T19:33:51Z",
+      "excerpt": "Samsung‘s first AI-powered smart glasses are finally getting closer to store shelves. According to a new report from South Korea’s ChosunBiz, the company is planning to launch its Intelligent Eyewear in mid-December, and if you’re waiting to get your hands on them outside the US or South Korea, you might be disappointed. For those catching […]",
       "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Samsung-AI-Glasses.jpg?resize=1200%2C630&ssl=1",
       "history_match": {
-        "score": 0.196,
+        "score": 0.204,
         "date": "2026-10-14",
         "url": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
         "title": "Samsung Smart Glasses Unveiled, and They're Superlight",
@@ -36,62 +36,137 @@
       }
     },
     {
-      "title": "Logitech releases MX Master 4 Developer Edition with AI support and new design",
-      "url": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html",
-      "source": "Notebookcheck",
+      "title": "The wearable on your wrist can predict blood pressure crisis events days in advance",
+      "url": "https://www.digitaltrends.com/wearables/the-wearable-on-your-wrist-can-predict-blood-pressure-crisis-events-days-in-advance/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-11-01T08:00:00+01:00",
-      "excerpt": "Logitech listed an MX Master 4 Developer Edition mouse in China; a Logi Options+ plugin maps its shortcuts and Actions Ring to the WorkBuddy AI assistant.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png"
+      "published_iso": "2026-11-02T14:09:49Z",
+      "excerpt": "Research courtesy of the American Heart Association claims that these mass-market wearable devices can help predict episodes of dangerously high blood pressure, or hypertensive crisis, up to three days in advance",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Huawei-Watch-D3-Blood-Pressure-6-e1793628370685.jpg?resize=1200%2C630&ssl=1"
     },
     {
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "source": "The Verge",
+      "title": "Google could soon let you put your kids' Gemini chats on a timer",
+      "url": "https://www.androidauthority.com/google-gemini-parental-controls-daily-time-limits-3730765/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-11-01T14:00:00+00:00",
-      "excerpt": "The Verge's first look at HomePod Mini 2: faster, quieter Siri on a new chip, though the headline Siri AI upgrade isn't available yet and arrives in a later update.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0%2C19.336604742637%2C80.59453125%2C63.294399383614&w=1200"
+      "published_iso": "2026-11-02T18:26:11Z",
+      "excerpt": "Google is working on daily Gemini time limits for kids, giving parents more control over how long they use AI.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg",
+      "history_match": {
+        "score": 0.184,
+        "date": "2026-10-25",
+        "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
+        "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
+        "band": "related"
+      }
+    },
+    {
+      "title": "ChatGPT could soon turn your Android health data into something you can actually use",
+      "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-02T06:36:17Z",
+      "excerpt": "ChatGPT on Android is getting ready to read your Google Health data, including historical health data, to offer personalized advice.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
+    },
+    {
+      "title": "Sneak peek: Google app is preparing a big change for its bottom bar",
+      "url": "https://www.androidauthority.com/google-app-you-tab-3730826/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-02T20:56:09Z",
+      "excerpt": "Google is quietly working on a new \"You\" tab for the Google app. This tab could end up replacing the current Activity tab.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Google-logo-on-smartphone-stock-photo-1.jpg"
     },
     {
       "title": "The Wild World of Third-Party AI Apps for Ring Security, and Whether You Need Them",
       "url": "https://www.cnet.com/home/security/ring-ai-app-store-third-parties-analysis-do-you-need-them/",
       "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-10-31T06:00:05-04:00",
-      "excerpt": "CNET examines the growing store of third-party AI apps for Ring cameras, which let HOAs, landlords and others analyze footage in new ways, and whether ordinary owners need them.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Ring-Spotlight-2nd-Gen-Main.jpg"
-    },
-    {
-      "title": "No internet, no problem: Google is working on an offline mode for Gemini Live",
-      "url": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-10-30T12:42:15+00:00",
-      "excerpt": "An Android Authority APK teardown shows Google working on an offline mode for Gemini Live, which would run voice conversations on-device without an internet connection.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
+      "published_iso": "2026-10-31T10:00:05Z",
+      "excerpt": "Ring cameras offer broad capabilities, but third-party AI tools give HOAs, landlords and others even more ways to use them.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Ring-Spotlight-2nd-Gen-Main.jpg",
       "history_match": {
-        "score": 0.156,
-        "date": "2026-10-13",
-        "url": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
-        "title": "Google Translate could soon auto-save transcripts of your Live conversations (Updated: Rolling out)",
+        "score": 0.154,
+        "date": "2026-10-07",
+        "url": "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328",
+        "title": "JBL's New Party Speaker Has an AI Karaoke Feature You May Actually Want to Use",
         "band": "related"
       }
     },
     {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
+      "title": "The best speech recognition you can run at home is absolutely tiny, and it runs on a ten-year-old laptop",
+      "url": "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/",
+      "source": "XDA Developers",
       "category": "gadgets",
-      "published_iso": "2026-10-31T21:41:00+00:00",
-      "excerpt": "On Apple's earnings call, new CEO John Ternus defended Apple's AI pace, saying the company doesn't 'want to ship AI for AI's sake' across its devices.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "published_iso": "2026-11-02T21:00:21Z",
+      "excerpt": "I dictated an entire article on an old laptop, and it cost me nothing but 2GB of RAM",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
+      "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-11-02T19:56:12Z",
+      "excerpt": "iOS 27.2 has a clever new Messages feature called ‘Suggested Actions,’ here’s how you can customize the feature to your liking.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
       "history_match": {
-        "score": 0.255,
-        "date": "2026-10-17",
-        "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
-        "title": "Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead",
+        "score": 0.235,
+        "date": "2026-10-08",
+        "url": "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/",
+        "title": "If Apple's AI suggestions in Messages annoys you, there's a solution",
         "band": "related"
+      }
+    },
+    {
+      "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-11-02T20:07:21Z",
+      "excerpt": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?resize=1200,628"
+    },
+    {
+      "title": "Samsung adds better sleep tracking to Galaxy Watches - here's what to expect",
+      "url": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
+      "source": "ZDNET",
+      "category": "gadgets",
+      "published_iso": "2026-10-30T17:29:50Z",
+      "excerpt": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg",
+      "history_match": {
+        "score": 0.221,
+        "date": "2026-10-10",
+        "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
+        "title": "Pixel Watch 4 update adds Google's AI watch face generator",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Robot vacuum with a mop roller at an attractive price: Ecovacs Deebot T90S Pro Omni review",
+      "url": "https://www.notebookcheck.net/Robot-vacuum-with-a-mop-roller-at-an-attractive-price-Ecovacs-Deebot-T90S-Pro-Omni-review.1438156.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-10-30T11:17:00Z",
+      "excerpt": "Can the Ecovacs Deebot T90S Pro Omni improve on its predecessor’s strong performance? Our review of the new mid-range robot vacuum with a thorough-cleaning mop roller at an attractive price reveals the answer.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Sonstiges/Torras25/Ecovacs-Deebot-T90S-Pro-Omni-Test-Teaser-klein19.jpg"
+    },
+    {
+      "title": "The Philips Hue app now lets AI build smart light automations for you, but early adopters are running into errors and unhelpful limitations",
+      "url": "https://www.techradar.com/home/smart-lights/philips-hue-just-launched-its-ambitious-custom-ai-behaviors-but-early-teething-troubles-show-the-smart-assistant-might-not-be-quite-ready-for-prime-time",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-11-02T11:26:14Z",
+      "excerpt": "The promised Custom AI Behaviors are now available in the Hue app for Hue Bridge Pro owners.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/A9pUpHUdRuqBZNLELt2kfK-2048-80.png",
+      "history_match": {
+        "score": 0.486,
+        "date": "2026-10-22",
+        "url": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/",
+        "title": "Philips Hue Bridge Pro custom AI behaviors launch next week",
+        "band": "likely-repeat"
       }
     },
     {
@@ -100,170 +175,91 @@
       "source": "TechRadar",
       "category": "gadgets",
       "published_iso": "2026-11-01T19:35:00Z",
-      "excerpt": "Google and NASA built a voice-guided AI medical assistant robot for deep-space missions; early tests show an 85% task success rate.",
+      "excerpt": "Google and NASA unveil voice-guided AI medical assistant — Robot will perform tasks 'without ever replacing human decision-making'",
       "og_image": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
     },
     {
-      "title": "Senators send stern letter to Meta over privacy risks from AI camera glasses",
-      "url": "https://www.digitaltrends.com/wearables/meta-smart-glasses-privacy-senators-letter/",
-      "source": "Digital Trends",
+      "title": "Dell XPS Googlebook review: Beautiful hardware for a useless platform",
+      "url": "https://www.engadget.com/2302835/dell-xps-googlebook-review/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-10-30T15:51:41-07:00",
-      "excerpt": "Senators Ron Wyden and Ed Markey sent Mark Zuckerberg a letter accusing Meta's AI camera glasses of being 'tailor-made for invading' people's privacy.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/person-wearing-smartglasses-IMG_4883-scaled.jpeg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
-      "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-10-30T22:37:36+00:00",
-      "excerpt": "Apple confirmed that the iOS 27.3 developer beta arrives next week and brings Apple Intelligence to iPhones in China for the first time.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-burgundy.jpg?quality=82&strip=all&resize=1200,628",
+      "published_iso": "2026-11-02T12:30:00Z",
+      "excerpt": "Googlebook OS still needs a ton of work.",
+      "og_image": "https://www.engadget.com/img/gallery/dell-xps-googlebook-review-beautiful-hardware-for-a-useless-platform/l-intro-1793629252.jpg",
       "history_match": {
-        "score": 0.336,
-        "date": "2026-10-15",
-        "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
-        "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+        "score": 0.24,
+        "date": "2026-10-13",
+        "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
+        "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
         "band": "related"
       }
     },
     {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
+      "title": "Gemini could be poking through your emails - here's how to stop it",
+      "url": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-10-31T16:05:00+00:00",
-      "excerpt": "Rather than buy Meta's Muse Charm, a Verge writer built a $50 DIY AI Tamagotchi from a Waveshare ESP32 board, vibe-coded with Claude.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200"
-    },
-    {
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-10-30T14:23:26+00:00",
-      "excerpt": "Arrowmax's Arrowspace S1 electric screwdriver uses a tip camera and an AI model to identify a screw head and recommend the right bit; it's launching on Kickstarter.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0,10.667430009877,100,78.665139980246"
-    },
-    {
-      "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
-      "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-10-31T15:19:00+00:00",
-      "excerpt": "9to5Mac argues that if open-weight models take hold in the enterprise, Apple Silicon Macs running AI locally could look cheap next to growing cloud token bills.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628",
+      "published_iso": "2026-11-02T17:15:00Z",
+      "excerpt": "Although Google says Gemini doesn't learn directly from your inbox, connecting Gmail to Search raises privacy concerns. Here's what you need to know.",
+      "og_image": "https://www.engadget.com/img/gallery/gemini-could-be-poking-through-your-emails-heres-how-to-stop-it/l-intro-1793097394.jpg",
       "history_match": {
-        "score": 0.19,
-        "date": "2026-10-15",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
-        "title": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’",
+        "score": 0.201,
+        "date": "2026-10-25",
+        "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
+        "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
         "band": "related"
       }
     },
     {
-      "title": "Google is giving Gemini's overlay a literal sparkle on your Android phone",
-      "url": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
-      "source": "Android Authority",
+      "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
+      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
+      "source": "Road to VR",
       "category": "gadgets",
-      "published_iso": "2026-10-30T06:59:52+00:00",
-      "excerpt": "Google is rolling out the redesigned Gemini overlay, with a new sparkling animation based on its Neural Expressive design language, to all Android phones.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-      "history_match": {
-        "score": 0.214,
-        "date": "2026-10-26",
-        "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
-        "title": "Gemini for Android rolls out side panel and settings redesign",
-        "band": "related"
-      }
+      "published_iso": "2026-11-02T10:39:00Z",
+      "excerpt": "VRChat is currently weathering a sizable backlash among users due to a controversial decision to not label AI-generated content. The News VRChat released a survey earlier this month asking users whether the social VR platform should in some way label AI-generated content as a way to fight back against low-quality slop. The survey in question […]",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg"
     },
     {
-      "title": "Alexa can now manage your Amazon billing complaints, subscription changes, and more",
-      "url": "https://www.androidauthority.com/amazon-alexa-for-shopping-update-3729650/",
-      "source": "Android Authority",
+      "title": "Samsung's Android XR 'Intelligent Eyewear' reportedly launches in December",
+      "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-10-29T15:51:50+00:00",
-      "excerpt": "Amazon's Alexa for Shopping assistant now handles over 100 account tasks, including billing complaints, subscription changes and refund tracking.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Alexa-for-Shopping.jpg",
+      "published_iso": "2026-11-02T15:16:52Z",
+      "excerpt": "Samsung Intelligent Eyewear, the first pair of Android XR camera glasses, are set to debut just ahead of Christmas at an unknown price.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&resize=1200,628",
+      "note": "Same story as Digital Trends Samsung AI glasses item; curator keep one.",
       "history_match": {
-        "score": 0.191,
-        "date": "2026-10-09",
-        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Amazon's new Alexa Photo Frame could have what I've been missing - here's why",
-      "url": "https://www.zdnet.com/tech/amazon-alexa-photo-frame/",
-      "source": "ZDNET",
-      "category": "gadgets",
-      "published_iso": "2026-10-28T14:46:45-04:00",
-      "excerpt": "ZDNET looks at Amazon's new Alexa Photo Frame, an Alexa+ smart display built around photos, announced alongside new Echo devices.",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg",
-      "history_match": {
-        "score": 0.212,
-        "date": "2026-10-09",
-        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Samsung adds better sleep tracking to Galaxy Watches - here's what to expect",
-      "url": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
-      "source": "ZDNET",
-      "category": "gadgets",
-      "published_iso": "2026-10-30T13:29:50-04:00",
-      "excerpt": "Samsung is upgrading sleep apnea tracking on the Galaxy Watch Ultra 2, Watch 9 and Ring with a new AI algorithm that produces more detailed sleep reports, launching first in Korea.",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg",
-      "history_match": {
-        "score": 0.212,
-        "date": "2026-10-17",
-        "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
-        "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+        "score": 0.207,
+        "date": "2026-10-29",
+        "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+        "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
         "band": "related"
       }
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 17,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
+    "dropped": [
+      {
+        "url": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/",
+        "title": "Birdbuddy and Birdfy Want Their Budget Smart Bird Feeders to Be Your First",
+        "match": {
+          "score": 0.524,
+          "date": "2026-10-23",
+          "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
+          "title": "Birdbuddy's Nook is a compact smart bird feeder for small spaces and budgets"
+        }
+      }
+    ],
     "review": 10,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-03",
-      "title": "Gemini fully replaces Google Assistant on Android",
-      "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else",
-      "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Insta360 turns its action cameras into free 3D scanners — Spatial Capture tool uses Gaussian Splatting to build 3D models with 4 free renders a month",
-      "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less"
-    },
     {
       "date": "2026-10-05",
       "title": "Apple's cheapest iPad is finally getting Apple Intelligence, leaked code shows",
@@ -903,6 +899,31 @@
       "date": "2026-10-30",
       "title": "Rokid Glasses 2 launch with upgraded design, bigger battery, and Dolby Audio support",
       "url": "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Google is giving Gemini's overlay a literal sparkle on your Android phone",
+      "url": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "No internet, no problem: Google is working on an offline mode for Gemini Live",
+      "url": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
+      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Logitech releases MX Master 4 Developer Edition with AI support and new design",
+      "url": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter"
     }
   ]
 }

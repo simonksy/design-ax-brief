@@ -8767,6 +8767,128 @@
           "x": "“借助AI-assisted电影制作,讲故事的人可以拥有更大的梦想,支持大胆的创意终于显得可行,”Nagpal说。“Beta Builder是我们对这一未来的押注,让live-action拍摄与AI并肩工作。”InVideo是U.S.-based公司,在印度(India)设有办公室,自我定位为不绑定特定技术(agnostic)的AI电影制作平台,拥有超过50 million 名用户。"
         }
       ]
+    },
+    "movies/jikuyukaku-japan-ai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+          "cap": "图片：Tender Pro（视频截图）"
+        },
+        {
+          "t": "p",
+          "x": "日本电影制作团队于2日宣布，计划在2027年推出全片由生成式AI制作的长篇电影《时空游郭迷宫》（時空遊郭ラビリンス）。该片由日本的Oxons、Tender Pro与全日本志愿者联盟（All Japan Volunteer Federation）联合制作。"
+        },
+        {
+          "t": "p",
+          "x": "片中真实演员将以AI复现的形象登场。参与AI演出的演员共3名，分别是Furukawa An、Oshidari Akiko和Hotta Shinzo。Hotta Shinzo表示：“首先难以置信。真的就是Hotta Shinzo本人。太惊人了。”影片由以《摄影机不要停！》摄影指导而闻名的曾根刚执导。"
+        },
+        {
+          "t": "video",
+          "yt": "e8H_ggZXKqY"
+        },
+        {
+          "t": "p",
+          "x": "本片使用OpenAI的ChatGPT创作剧本，主题曲《LABYRINTH》则通过AI音乐生成服务Suno制作。故事讲述剧场“迷宫”的歌手妮娜面前出现一个与她长相、声音完全相同的AI，由此抛出“你的梦想如今属于谁”的问题。具体上映日期与放映方式预计将在日后公布。"
+        }
+      ]
+    },
+    "movies/akuna-google-africa-ai-film": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+          "cap": "Idris Elba与Google在非洲五国推出免费AI电影制作项目"
+        },
+        {
+          "t": "p",
+          "x": "由英国演员Sir Idris Elba担任主席的The Akuna Group旗下项目Akuna Learning，已面向非洲五国有志于电影的新锐创作者开放一项免费人工智能（AI）电影制作项目的申请。"
+        },
+        {
+          "t": "p",
+          "x": "该项目名为“From Script to Screen with AI”，与Google合作开展，由Google.org提供1百万美元资金，课程由Curious Refuge开发。项目面向尼日利亚、加纳、肯尼亚、塞拉利昂和南非的合格申请者，申请将于2026年11月15日截止。"
+        },
+        {
+          "t": "p",
+          "x": "这一为期50周（50-week）的项目将12周（12-week）的线上学院课程与导师指导、提案机会以及入选电影项目的制作资金相结合。参与者还将保留其创作作品的所有权和控制权。入选项目将获得制作资金，拍摄定于2027年7月至10月进行，完成的影片将于2027年10月展映。"
+        },
+        {
+          "t": "p",
+          "x": "申请者无需电影学校学历或此前的AI经验，但须通过已有作品展示其创作能力。"
+        }
+      ]
+    },
+    "movies/iqiyi-shanghai-ai-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+          "cap": "iQiyi新的AI电影工作室将其制作链条从实景拍摄和绿幕拍摄延伸至虚拟制作与AI-integrated（AI融合）电影制作。"
+        },
+        {
+          "t": "p",
+          "x": "在线娱乐服务商iQIYI于10月28日表示，已在上海（Shanghai）Creative Center开设AI电影工作室，并在此启动首个项目——网络电影Cop in Trouble的制作。"
+        },
+        {
+          "t": "p",
+          "x": "该设施面积约110平方米，将实拍与AI后期制作相结合。现场素材会自动同步至iQIYI的AI制作平台NadouPro，创作者可调用近三十个AI模型和数百个面向制作的AI智能体。iQIYI副总裁、智能制作负责人Zhu Liang表示，这种方式让表演始终是“任何电影或剧集的核心”。"
+        },
+        {
+          "t": "img",
+          "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+          "cap": "Cop in Trouble海报。"
+        },
+        {
+          "t": "p",
+          "x": "该片以演员在片场互动的素材作为AI-generated（AI生成）场景和视觉细节的参考。这间工作室延续了公司的Hengdian虚拟影棚，iQIYI称Hengdian影棚带来了超过百分之三十的制作效率提升。"
+        }
+      ]
+    },
+    "movies/studio-unmu-last-call": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+          "cap": "导演Yeon Hun-min与编剧Ko Suk（图片：UNMU）"
+        },
+        {
+          "t": "p",
+          "x": "大田独立影像工作室UNMU于2日宣布，由编剧Ko Suk与导演Yeon Hun-min联合制作的AI短片《LAST CALL》（闭店时间）在美国纽约举行的第30届Urbanworld电影节“Best AI-Generated or Assisted Film（最佳AI生成或辅助电影）”单元获得特别提及奖（Honorable Mention）。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+          "cap": "海报图片（图片：UNMU）"
+        },
+        {
+          "t": "p",
+          "x": "片长11分23秒的SF剧情片《LAST CALL》讲述了在无人机宵禁的夜晚，被困在霓虹灯闪烁的酒吧里的三名顾客与调酒师的故事。Urbanworld电影节今年首次将AI电影纳入正式竞赛单元，美国编剧工会东部分会则因反对设立AI单元而撤回了对电影节的赞助。"
+        },
+        {
+          "t": "p",
+          "x": "制作团队解释说：“剧本与表演指导、剪辑与混音全部经由人手完成。像素由AI生成，但展示什么、停留多久由人决定。”该片于8月在葡萄牙Avanca国际电影节AI竞赛单元进行了全球首映。"
+        }
+      ]
+    },
+    "movies/guilds-openai-fairuse-brief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRA、American Federation of Music以及Writers Guild of America东部与西部分会呼吁联邦法官驳回针对AI模型训练的合理使用豁免。各工会周四在OpenAI与众多新闻机构及作家之间持续进行的版权侵权诉讼中联合提交了法庭之友意见书，称这家万亿美元级公司正在“挪用中产阶级和工薪阶层的作品来开发自己的技术”。"
+        },
+        {
+          "t": "p",
+          "x": "意见书写道：“未经许可的训练所造成的伤害，不仅落在News Plaintiffs这样的公司身上，也落在作品背后无数的专业人士身上。”这份34页的文件阐述了一刀切的合理使用豁免可能造成价值从创作者向企业的“潜在巨大转移”，并主张“这场AI训练纠纷‘不过是一起普通的版权案件’，也应当如此对待”。"
+        },
+        {
+          "t": "p",
+          "x": "工会认为，合理使用必须继续逐案判断。编剧和演员工会已就向第三方授权受保护作品用于训练商业生成式AI系统争取到通知与谈判的权利；意见书称：“若在此裁定训练一律属于合理使用，工会与业界在谈判桌上达成的条款将形同虚设。”"
+        }
+      ]
     }
   }
 }

@@ -3182,6 +3182,125 @@
           "x": "이번 연구는 대화형 AI의 추천 방식이 단순한 검색 결과 상단 노출보다 소비자 선택에 큰 영향을 미칠 수 있음을 보여준다. 특히 광고 표시가 있어도 설득 효과가 상당 부분 유지되고 이용자가 광고 유도를 알아차리기 어렵다는 점에서, AI 쇼핑 서비스의 광고 투명성과 이용자 보호가 주요 과제로 떠오를 전망이다."
         }
       ]
+    },
+    "marketing/amazon-alexa-shopping-400m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon은 회계연도 3분기 실적 발표에서 지난 12개월간 Alexa for Shopping을 쓴 고객이 400M 명을 넘었다고 밝혔다. 7월 말 350M 명에서 더 늘었다. CEO Andy Jassy는 Alexa for Shopping을 쓰는 고객이 그렇지 않은 고객보다 50% 더 지출한다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Amazon의 3분기 순매출은 $201.9B, 증가율은 12%였다. Amazon은 2024년 2월 이 AI 쇼핑 어시스턴트를 Rufus라는 이름으로 내놓았다가 5월에 Alexa for Shopping으로 이름을 바꿨다. 연휴를 앞두고는 선물 목록, 레지스트리, Subscribe and Save 관리 등 100개가 넘는 새 기능도 공개했다."
+        },
+        {
+          "t": "p",
+          "x": "Amazon은 ChatGPT나 Meta의 Muse 쇼핑 에이전트 같은 플랫폼이 자사 사이트를 스크래핑하지 못하게 막았다. Jassy는 \"수평적 에이전트와도 협력할 것으로 예상하지만, 고객이 Amazon에서 쇼핑할 때 쓰는 주된 쇼핑 에이전트는 Alexa for Shopping이 될 것이라고 본다\"고 말했다."
+        }
+      ]
+    },
+    "marketing/google-ads-strategist-ai-personas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-cloaked-O1oGKOSV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Extended Workforce 소속 Google Ads Strategists가 AI-generated 프로필 사진과 이름을 내걸고 광고주에게 연락한다. Joe Youngblood는 X에 \"Google이 Google Ads 연락 담당으로 AI-generated 인물을 쓰고 있다\"고 올렸다."
+        },
+        {
+          "t": "p",
+          "x": "그가 xWF 계약직의 전화를 거절하자 한 시간 뒤 Google Ads Strategist를 자처하는 \"Kassy Garcia\"가 이메일을 보내왔다. LinkedIn에는 아무 흔적이 없었고, Google의 AI 판별 도구로 확인해 보니 프로필 사진은 AI-generated 이미지였다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
+          "cap": "이메일"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-headshot-lF5qcSfV.jpg",
+          "cap": "AI 헤드샷"
+        },
+        {
+          "t": "p",
+          "x": "Google 문서에 따르면 Google 담당자 이메일 주소는 항상 @xwf.google.com으로 끝난다. Search Engine Roundtable이 이 관행을 Google에 문의했지만 답은 오지 않았다."
+        }
+      ]
+    },
+    "marketing/svedka-superbowl-consumer-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/xjzikIA1P0-a1-NNHIzCTrqpdnyHJ5txBlFoqEmNKl0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp",
+          "cap": "리얼리티 TV 진행자 Andy Cohen이 Svedka 마스코트를 인터뷰하며 Super Bowl 광고 공모전 출범을 알린다."
+        },
+        {
+          "t": "p",
+          "x": "Svedka가 다음 Super Bowl 광고를 소비자 손에 맡긴다. 바로 마시는 Vodka Water가 나오는 15초(15-second) 광고를 직접 만들어 보라는 것이다. 응모는 12월 1일까지이고, 우승자에게는 상금 $500,000가 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "브랜드가 첫 Super Bowl 광고에서 펨봇 마스코트를 인공지능으로 만들었다가 논란을 빚은 뒤 내놓은 공모전이다. Sazerac의 그룹 사장 겸 CMO인 Sara Saunders는 \"더 잘 만들 수 있다는 사람이 많았다. 우리는 그 논쟁을 반겼다\"고 말했다. 응모자는 디지털 툴킷으로 작품을 \"AI-led, 웃길 만큼 저예산, 뜻밖에 영화 같거나 창의적으로 야심 찬\" 방식으로 만들 수 있다."
+        },
+        {
+          "t": "video",
+          "yt": "pdZLcOF71Is"
+        },
+        {
+          "t": "p",
+          "x": "응모작 심사는 Andy Cohen이 돕는다. 그는 이전 광고가 \"대담하고 기괴한 디스토피아적 악몽\"이라는 평을 들었다고 짚었다. 그 Super Bowl LX 광고는 AI 혁신 랩 Silverside가 만들었다."
+        }
+      ]
+    },
+    "marketing/clarity-ai-agent-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Clarity는 2026년 10월 29일, AI 에이전트가 관여한 웹사이트 세션 5.2M 건 이상을 분석해 공개했다. 2026년 8월 13일부터 9월 9일까지 Clarity 프로젝트 230,511개에서 기록된 세션이다. 이 중 25.21%에서 결제가 이뤄졌고, 같은 사이트의 사람 전용 세션은 14.65%였다."
+        },
+        {
+          "t": "p",
+          "x": "사람 세션에서는 외부 링크 클릭이 26.99%로 1위였지만 에이전트 세션에서는 14.28%에 그쳤다. 양식 제출은 19.85%와 18.56%로 엇비슷했다. Book appointment(8.42%)와 Check availability(2.41%)는 에이전트 쪽 상위 열 개 항목에 들었고 사람 쪽에는 없었다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft는 에이전트 세션에 떼어낼 수 없는 사람의 개입이 섞일 수 있다며, 이번 결과가 \"반드시 에이전트가 자율적으로 완료한 행동은 아니다\"라고 밝혔다. PPC Land가 계산해 보니 이 비율들의 모수는 5.2M 건이 아니라 약 1.22M 건의 세션이다. Microsoft는 Agent Activity Dashboard도 정식 출시했다."
+        }
+      ]
+    },
+    "marketing/microsoft-ai-ad-guidelines": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising은 2026년 10월 28일부터 광고주가 AI에 지침을 최대 40개까지 글로 줄 수 있게 했다. AI가 만드는 광고 문구에 넣을 말과 피할 말을 광고주가 정하는 방식이다. 오픈 파일럿으로 나온 이 기능은 Conversions API 정식 출시, Performance Max 캠페인용 새 검색어 보고서와 함께 발표됐다."
+        },
+        {
+          "t": "p",
+          "x": "새 AI-powered 캠페인 생성 흐름에서는 처음 광고하는 광고주가 사이트와 함께 “마케팅 계획, 브랜드 가이드라인, 제품 이미지 같은 자료”를 공유할 수 있다. 시스템이 이 자료를 “편집 가능한 비즈니스 스냅숏”으로 바꾸면 AI가 그걸 토대로 첫 Performance Max 캠페인을 만든다."
+        },
+        {
+          "t": "p",
+          "x": "메시징 지침은 Performance Max와 AI Max를 켠 Search 캠페인에서 오픈 파일럿 단계다. Microsoft가 권하는 쓰임은 “주장, 테마, 콘셉트, 어조, 피해야 할 표현에 관한 폭넓은 규칙”이다. 고급 소매업체라면 “제품이 저렴하다고 절대 암시하지 말 것”을 넣는 식이다. “선호하는 문구, 테마, 어조”를 제시할 때도 쓴다. 상한 40개는 Google의 텍스트 지침과 같다."
+        },
+        {
+          "t": "p",
+          "x": "Performance Max에는 연령·성별 타기팅, 검색어 및 경매 인사이트 보고서, 잠재고객 제외 파일럿도 추가된다. 검색어 랜딩 페이지 보고서는 11월 중순(mid-November)부터 배포된다. 정식 출시된 Conversions API의 파트너로는 Adobe Real-Time CDP, Segment by Twilio, Tealium, Zeotap 등이 있다."
+        }
+      ]
     }
   }
 }

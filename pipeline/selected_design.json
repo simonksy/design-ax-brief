@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "design",
   "items": [
     {
-      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
-      "source": "The Decoder",
-      "published_iso": "2026-11-01T14:56:44Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/adobe_logo-2.png",
-      "excerpt": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro: instead of retrying one general-purpose editor, it picks the right specialized tool for each step.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "New Adobe Research system (EditAgent) shows where agentic image editing in Photoshop-class tools is heading: picking a specialized tool for each step instead of re-rolling one generator."
-    },
-    {
-      "title": "The Role of UX in Agentic Software Factories",
-      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
-      "source": "Nielsen Norman Group",
-      "published_iso": "2026-10-30T17:00:00Z",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/The_Role_of_UX_in_Agentic_Software_Factories.png",
-      "excerpt": "AI-native software development lifecycles reduce UX to 'AI context'; NN/g argues UX must discover user needs, shape what's built, and evaluate it before and after launch.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "A credible UX research outlet sets out where designers fit when agents write the software: discovery, shaping and evaluation. Directly changes how teams staff AI-native builds."
-    },
-    {
-      "title": "Allplan Max 2027 launched for engineering workflows",
-      "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
-      "source": "Engineering.com",
-      "published_iso": "2026-10-30T14:48:47Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg",
-      "excerpt": "Nemetschek's Allplan Max 2027 brings AI into BIM engineering tools: Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Visualizer and more, on the Nemetschek Intelligence Platform.",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Concrete product release: a major BIM suite ships a set of AI drafting, analysis and visualization tools. A different product from the Snaptrude Agent card published 10-30."
-    },
-    {
-      "title": "How to design transparent AI cost controls",
-      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104",
-      "source": "UX Collective",
-      "published_iso": "2026-11-01T14:33:14Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg",
-      "excerpt": "A practical guide to choosing usage units, designing spending limits and explaining AI costs before, during and after the work, since a quick edit and a long-running agent look identical in today's interfaces.",
+      "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+      "source": "Figma Blog",
+      "published_iso": "2026-10-31T00:58:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma explains what Figma Weave unlocks for creative teams: node-based, reusable AI generation workflows on the canvas, and how to get the most out of them.",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Actionable pattern guide (usage units, spend limits, cost explanation) for a problem every AI product designer now ships. No earlier card in the section covered AI cost UX."
+      "rationale": "Primary-source guide to Figma Weave's node-based, reusable AI generation pipelines on the canvas. Designers can turn one-off prompting into repeatable workflows starting tomorrow."
     },
     {
-      "title": "Boris FX releases Continuum 2027",
-      "url": "https://www.cgchannel.com/2026/10/borisfx-releases-continuum-2027/",
-      "source": "CG Channel",
-      "published_iso": "2026-10-31T06:00:08Z",
-      "og_image": null,
-      "excerpt": "The effects plugin suite adds a 3D noise generator and 2D titling tool, and updates its AI masking tools: Face ML now follows the full face shape, Matte Refine ML preserves hair detail, Witness Protection ML uses precise masks.",
+      "title": "Runway Dev is in Claude Code, Codex and Cursor",
+      "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
+      "source": "Runway",
+      "published_iso": "2026-11-02T15:00:00Z",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png",
+      "excerpt": "Runway Dev plugins for Claude Code, Codex and Cursor connect a coding agent to Runway's API so it can build generative image/video features straight from the editor.",
       "category": "render",
       "tool": "KeyShot",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New version release with upgraded ML masking (Face ML, Matte Refine ML, Witness Protection ML) that motion and VFX designers can use right away. Second render pick, so it takes a palette accent."
+      "rationale": "New release: official Runway plugins for the three main coding agents, so generative image and video can be wired into prototypes from the editor. A different launch from the 10-10 Claude Motion integration."
+    },
+    {
+      "title": "New CG software you may have missed: 2 November 2026 (Character Creator 5.2 AI 3D model generator)",
+      "url": "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/",
+      "source": "CG Channel",
+      "published_iso": "2026-11-02T16:19:53Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg",
+      "excerpt": "Reallusion's Character Creator 5.2 adds an AI 3D model generator that builds characters, clothing and hair from reference images using Tripo P2.0/H3.1 and Hunyuan V3.1, plus a generative concept-design module and CC Wrap.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "Concrete tool release: Character Creator 5.2 turns reference images into rigged characters, clothing and hair through Tripo and Hunyuan models. This week's roundup with new releases, not a repeat of the 10-25 edition."
+    },
+    {
+      "title": "Design-to-Code: Reimagine Handoff Workflow with AI - Rebuilding PubHub Part 3",
+      "url": "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow",
+      "source": "Cisco Blogs",
+      "published_iso": "2026-11-02T17:23:42Z",
+      "og_image": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png",
+      "excerpt": "Cisco's PubHub team rebuilt its design handoff with AI, using an HTML prototype as the source of truth instead of static design files so other teams can adapt the workflow.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "A first-hand case study from an enterprise design team that replaced static handoff files with an AI-built HTML prototype as the source of truth. Other teams can copy the workflow."
+    },
+    {
+      "title": "What I learned from 45 years of CAD development: Doing more with less",
+      "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/",
+      "source": "Engineering.com",
+      "published_iso": "2026-11-02T16:46:18Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png",
+      "excerpt": "John M. Christy rewrote his 45-year-old CAD program for Mac with Claude as co-developer - now drafting from speech - and reflects on what AI should and shouldn't change in CAD.",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "A veteran CAD developer rebuilt his program with Claude and added speech-driven drafting. A practitioner's account of what AI should and shouldn't change in CAD tools."
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/": {
+      "https://www.figma.com/blog/the-tldr-on-figma-weave/": {
         "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
+        "nearest": "https://www.figma.com/blog/build-by-design/",
         "new_action": ""
       },
-      "https://www.nngroup.com/articles/ux-agentic-software-factories/": {
+      "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents": {
         "verdict": "new",
-        "nearest": "https://www.nngroup.com/articles/context-libraries/",
+        "nearest": "https://runwayml.com/news/company-news/runway-claude-motion",
         "new_action": ""
       },
-      "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/": {
+      "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/": {
         "verdict": "new",
-        "nearest": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+        "nearest": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
         "new_action": ""
       },
-      "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104": {
+      "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow": {
         "verdict": "new",
-        "nearest": "https://dev.to/quinn-yang/designing-a-cost-aware-ai-video-workflow-show-the-price-before-render-5cm9",
+        "nearest": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/10/borisfx-releases-continuum-2027/": {
+      "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/": {
         "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/06/boris-fx-releases-optics-2026/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Pool: 16 items. Every pick was checked against history_digest and the full design block of published_urls.json; none of the five URLs or stories appear there. Cross-section: the last publish across all sections was the 10-30 run (07:00 KST, which is 10-29 22:00Z), and every pick was published after that, so none could have run in another section already. Same-day clashes with other sections' 11-02 picks still need the orchestrator's check (watch movies for Boris FX Continuum). Dropped as a repeat: Figma Weave TL;DR. It is an explainer with no new release, and Weave already ran in this section on 09-17 (try-these-5-weave-tools) and 10-02 (workflow-lab Weave). Dropped as weak or off-scope: Starbucks AI drive-thru menu (weak design angle, closer to marketing); Anthropic watermark loophole (provenance or policy angle, and books already covered Claude watermarking on 08-14 and 08-29); Engadget Claude game-cloning rule (closer to games, so high cross-section risk); Verge AI-scraping opt-out standard (policy, closer to politics or books); Matt Wolfe weekly roundup (aggregate, not one story); Verge AI Tamagotchi (hobby build, related to the Muse coverage). Lower-ranked fresh items left as backfill: MecAgent background CAD-upload incident (a new event, not the 10-08 V2 story, but the source is off-list and Cloudflare-gated), Context is the new interface, The people using AI should set its strategy (UX Collective, which already has one pick), Creative Bloq production-design feature. Diversity: 5 distinct outlets; categories render x2, workflow, cad, figma."
+    "note": "Dropped as duplicates: NVIDIA Cosmos world-models tech blog (likely-repeat of 10-25 'NVIDIA Cosmos Opens New Tools'); Nemetschek Max lineup expansion (same Max launch as 11-02 'Allplan Max 2027', no new release); Engadget 'AI software clones coming for Adobe' (running story from 10-09 Creative Bloq Adobe CC rebuild, analysis with no new event). Within-pool cluster: 80 Level and The Verge both cover Claude refusing to recreate games (one story), and both were skipped, since it is games/dev policy rather than design and could clash across sections. Cross-section skip: VRChat AI-label backlash is also in today's games pool. Lower priority, not picked: UX Collective opinion pieces (context-as-interface, design system markdown), Creative Bloq Glass interview, AEC Mag AMC Bridge Q&A, Verge AI Tamagotchi (gadgets-leaning), Vercel MCP deployment card, Gemini Comic artifacts (unreleased leak). Diversity: 5 distinct outlets; categories figma x2, render x2, cad x1, with second-of-category accents taken from the palette."
   }
 }

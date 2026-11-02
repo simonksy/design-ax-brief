@@ -1,97 +1,101 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "marketing",
-  "selection_mode": "curator (user deferred)",
   "items": [
     {
-      "title": "Microsoft lets advertisers set up to 40 guidelines for AI-written ads",
-      "url": "https://ppc.land/microsoft-lets-advertisers-set-up-to-40-guidelines-for-ai-written-ads/",
-      "source": "PPC Land",
-      "published_iso": "2026-11-01T22:05:28.000Z",
-      "og_image": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg",
-      "excerpt": "Conversions API leaves its per-account pilot with 10 named partners, and Performance Max adds search term reports. Landing page data follows from mid-November.",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "New Microsoft Advertising control: up to 40 brand guidelines that steer AI-generated ad copy — a direct lever on generative creative, plus CAPI going GA and PMax search-term reports."
+      "category": "marketing",
+      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.",
+      "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+      "source": "Search Engine Journal",
+      "published_iso": "2026-11-02T14:41:23+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg",
+      "excerpt": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic ($0.89 vs $2.45), and most saw no sales from them.",
+      "rationale": "Hard revenue-per-visit benchmark ($0.89 vs $2.45) that directly informs whether to move budget into ChatGPT ads."
     },
     {
-      "title": "Microsoft Bing Showing Ads Within Copilot AI Overviews",
-      "url": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
-      "source": "Search Engine Roundtable",
-      "published_iso": "2026-10-30T07:41:00-04:00",
-      "og_image": "https://images.seroundtable.com/bing-ai-overview-with-ads-WnTrn06o.jpg",
-      "excerpt": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot.  I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search.",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A new paid placement: ads spotted inside Bing's Copilot-powered AI Overviews — Microsoft's first sighting of ads in AI answer text, a new inventory surface for search buyers."
+      "category": "marketing",
+      "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+      "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
+      "source": "Digiday",
+      "published_iso": "2026-11-02T05:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg",
+      "excerpt": "On its Q3 call Amazon said shoppers using its conversational AI shopping assistant spend 50% more per order; the assistant carries sponsored prompts while Amazon blocks outside agents like ChatGPT and Meta's Muse.",
+      "rationale": "Scale (400M users, +50% order value) and sponsored prompts make Amazon's assistant a retail-media surface advertisers must plan for."
     },
     {
-      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent",
-      "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
-      "source": "Search Engine Journal",
-      "published_iso": "2026-10-30T15:30:24+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-agent-897.png",
-      "excerpt": "Shopify pays the company behind an AI agent 0.3% of promoted-product orders, and stores can add more. Here is what that commission changes.",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "New Shopify program pays AI-agent makers a 0.3% commission on promoted-product orders (merchants can bid more) — effectively a new paid-placement market inside shopping agents."
-    },
-    {
-      "title": "Starbucks wants to use AI to show you a 'personalized digital menu' at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "source": "The Verge",
-      "published_iso": "2026-10-30T17:38:04+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
-      "excerpt": "Starbucks wants to bring AI to its app, too.",
-      "tool": "Marketing",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "A major retailer moving AI personalization to the point of sale — drive-thru menu boards and app offers tailored per customer, i.e. AI-driven promotion and upsell at checkout. Marketing owns this story (also in design's pool)."
-    },
-    {
-      "title": "OpenAI's ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
-      "url": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+      "category": "marketing",
+      "title": "Google Using AI-Generated Fake Google Ads Strategist Names & Profile Photos",
+      "url": "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html",
       "source": "Search Engine Roundtable",
-      "published_iso": "2026-10-30T11:17:00-04:00",
-      "og_image": "https://images.seroundtable.com/wider-chatgpt-ads-9VwMUKno.png",
-      "excerpt": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and Shopify integration is now available internationally.",
+      "published_iso": "2026-11-02T07:31:00-05:00",
+      "og_image": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
+      "excerpt": "Google Ads Strategists in Google's Extended Workforce are contacting advertisers under AI-generated names and profile photos, an advertiser found when the sender's identity couldn't be traced.",
+      "rationale": "AI personas in Google's own ad-sales outreach; advertisers need to know who is pitching them account changes."
+    },
+    {
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Follow-up with concrete releases: ChatGPT Ads live in 26 more countries, a new wider standard ad unit, multi-image ads in open beta for all advertisers, and international Shopify integration."
+      "category": "marketing",
+      "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
+      "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
+      "source": "Marketing Dive",
+      "published_iso": "2026-11-02T10:49:00-05:00",
+      "og_image": "https://imgproxy.divecdn.com/c4XwQNn3Hspeu3YaT3NJKAKNl2FMp2H68XwgEdydJdw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp",
+      "excerpt": "After its AI-produced Super Bowl LX spot drew controversy, Svedka is handing its next big-game ad to consumers via a $500,000 contest, with a toolkit allowing 'AI-led' entries.",
+      "rationale": "Creative-production case: a brand reworks AI ad making after backlash into a $500K consumer contest that still allows AI-led entries."
+    },
+    {
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "category": "marketing",
+      "title": "Checkout appears in 25% of AI agent sessions vs 15% for humans, Clarity finds",
+      "url": "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/",
+      "source": "PPC Land",
+      "published_iso": "2026-11-01T22:47:28.000Z",
+      "og_image": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg",
+      "excerpt": "Microsoft Clarity data across 230,511 sites shows AI agent sessions reach checkout more often than human ones, raising the question of whether merchants can tell who pressed buy.",
+      "rationale": "230K-site measurement showing agents convert more than humans, with attribution implications for merchants."
     }
   ],
   "dedup": {
     "checks": {
-      "https://ppc.land/microsoft-lets-advertisers-set-up-to-40-guidelines-for-ai-written-ads/": {
+      "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/",
+        "nearest": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
         "new_action": ""
       },
-      "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html": {
+      "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/": {
         "verdict": "new",
-        "nearest": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+        "nearest": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
         "new_action": ""
       },
-      "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/": {
+      "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html": {
         "verdict": "new",
-        "nearest": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
+        "nearest": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru": {
+      "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/": {
         "verdict": "new",
-        "nearest": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.seroundtable.com/chatgpt-ads-update-42427.html": {
-        "verdict": "follow-up",
-        "nearest": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
-        "new_action": "OpenAI's 10-30 advertiser update: ChatGPT Ads launched in 26 more countries, new wider standard ad unit released, multi-image ads opened to all advertisers (open beta), Shopify integration made available internationally"
+      "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/": {
+        "verdict": "new",
+        "nearest": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: SEJ 'ChatGPT Ads Turns On Automatic Ad Changes By Default' (same story as SER 10-21 'OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads'); SEJ 'Google Says Changing tCPA & Budgets Won't Reset Learning' (same Tal Akabas claim as PPC Land 10-18 'Google Ads PM says target or budget changes cause no learning period'; also AI incidental); PPC Land 'Advertisers in 10 more countries can't opt out of Google's AI Mode ads' (same AI Mode market expansion as blog.google 10-29, opt-out detail is extra reporting, no new release). Within-pool cluster: PPC Land 'Alexa for Shopping users spend 50% more' and Digiday 'Amazon Ads nears $20B in Q3' both come from Amazon's Q3 earnings — treated as earnings/business noise, consistent with the 10-30 run dropping earnings-call commentary; neither picked. Dropped on scope: TechCrunch DoorDash 'several hundred' agent orders (earnings-call remark, no ad/sales mechanism); sports.khan 'CLYNK' actor digital-likeness ad platform (off-list press-release launch, vendor-promo per marketing _note). Cross-section: every candidate was published after the 10-30 07:00 KST run (history_digest ends 10-30, no 10-31/11-01 brief), so none can be in published_urls.json by URL; no grep tool here, so orchestrator should still exact-grep the 5 URLs and 'Starbucks' (design pool), 'Copilot AI Overviews', 'Shopify' commission across all sections before roll. Outlets: SER 2, PPC Land 1, SEJ 1, The Verge 1."
+    "note": "Pool of 11, no duplicates of 30-day history found (all history_match tags are 'related' topic overlap with different events/data). Not dropped as dups; passed over on score/diversity: SEJ Shopify 3-model test (second SEJ, experiment close to the 10-15 SEJ 122-store test), Digiday 'Google search loses its free pass' (analysis, second Digiday), AdExchanger AI-label column (opinion; topic near 10-25 Pennsylvania label law), etnews Naver DOOH report, PPC Land 3x-longer queries and DV survey (PPC Land capped at 1 for outlet spread). Cross-section check against published_urls.json was not exact-grepped (no shell access in this agent) — orchestrator should grep these 5 URLs and 'Alexa for Shopping' / 'Svedka' before roll."
   }
 }

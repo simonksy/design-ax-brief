@@ -16309,6 +16309,153 @@
           "x": "에이전트는 이 모델을 주요 서드파티 모델과 나란히 돌린다. 일반 작업은 약 20% 빨라졌다. 새 에이전트의 결과는 62%의 경우 이전 프로덕션 에이전트와 같거나 나았다. 사용자 평점은 33% 올랐고, 작업을 되돌리는 빈도는 60% 줄었다."
         }
       ]
+    },
+    "design/runway-dev-coding-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude Code, Codex, Cursor용 Runway Dev 플러그인이 오늘 나왔다. 한 번만 설치하면 코딩 에이전트가 Runway Dev MCP로 Runway Dev 계정에 붙고, API 개발에 필요한 Runway의 스킬도 함께 들어온다. 매장의 모든 상품에 제품 영상을 붙이는 기능처럼 원하는 걸 설명하면 에이전트가 에디터를 떠나지 않고 처음부터 끝까지 만들어 낸다."
+        },
+        {
+          "t": "p",
+          "x": "설정: 에이전트는 먼저 Runway Dev 계정부터 읽는다. 쓸 수 있는 프로젝트, 프로젝트마다 허용된 모델과 그 가격·한도, 크레딧 잔액까지 본다. 개발: 에디터 안에서 바로 요청마다 맞는 모델을 고르는 Model Router나 실시간 아바타용 Character를 만든다. 흔한 용도라면 Recipes나 팀이 API 엔드포인트로 게시해 둔 Workflows를 토대로 삼는다. 디버깅: 작업이 실패하면 오류 세부 정보를 찾아보고 Model Router가 왜 그 모델을 골랐는지 확인한다."
+        },
+        {
+          "t": "p",
+          "x": "로그인은 에이전트가 처음 쓸 때 Runway Dev 계정으로 하면 된다. API 키는 플러그인에 저장되지 않는다. Runway Dev는 인디 개발자와 기술 창업자부터 프로덕트 엔지니어, 프로덕트 매니저까지, 코딩 에이전트를 지휘해 제품을 내놓는 사람이라면 누구나 쓰라고 만든 도구다."
+        }
+      ]
+    },
+    "design/character-creator-52-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reallusion의 캐릭터 제작 소프트웨어 Character Creator 5.2에 새 AI 모델 생성 도구 세트가 들어갔다. 참조 이미지에서 캐릭터와 의상, 헤어를 생성한다."
+        },
+        {
+          "t": "video",
+          "yt": "cm9GlStqHQk"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2의 주요 도구 세트는 두 가지, AI 3D 모델 생성기와 CC Wrap이다. 모델 생성기는 서드파티 생성형 AI 모델로 참조 이미지에서 3D 캐릭터, 의상, 헤어스타일, 액세서리를 만든다. 로우폴리 토폴로지는 Tripo P2.0이, 하이폴리 디테일은 Tripo H3.1과 Hunyuan V3.1이 맡는다. 보조 콘셉트 디자인 모듈은 3D 메시 생성에 맞춘 단일 시점 참조 이미지를 생성형 AI로 그려 준다."
+        },
+        {
+          "t": "p",
+          "x": "CC Wrap은 다른 DCC 애플리케이션에서 손으로 조각했거나 AI로 만든 휴머노이드 캐릭터 등 커스텀 3D 캐릭터를 Reallusion의 CC3+와 CC5 HD 포맷으로 바꾸고, 래핑이 끝나면 자동 리깅까지 해 준다. 기능은 더 있다. AI Mesh Generator는 참조 이미지 1-4장으로 3D 모델을 만들고, AI Polygon Reduction은 Tripo AI로 모델을 균일한 쿼드 메시로 리메시한다. GLB 포맷 3D 모델도 가져올 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "AI Mesh Generation 도구 세트는 자매 툴 iClone 8.76에도 들어 있다."
+        }
+      ]
+    },
+    "design/cisco-pubhub-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
+        },
+        {
+          "t": "p",
+          "x": "우리 UI/UX 워크플로는 오랫동안 익숙한 방식을 따랐다. 디자이너가 Figma로 화면을 그리면 개발자가 그 디자인을 코드로 옮기는 식이다. 최근 PubHub(DevNet 내부 출판 도구)를 개편하면서는 속도가 급해, 사용자 스토리와 백엔드 APIs를 주고 AI에게 인터페이스를 바로 만들게 했다. AI가 만든(AI-generated) 버전은 처음부터 끝까지 돌아갔다. 다만 앱이 우리 시각 언어를 따르지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+          "cap": "랜딩 페이지, 개편 전과 후"
+        },
+        {
+          "t": "p",
+          "x": "Figma MCP 연결로 HTML 페이지를 Figma에 옮기자 문제가 세 가지 생겼다. 변환하면서 디테일이 빠졌고, 업데이트는 예상보다 오래 걸렸고, 무엇이 기준인지도 흐려졌다. 그래서 AI 코딩 도구로 기존 프로토타입을 살피고 HTML을 직접 고치는 쪽으로 바꿨다. 이제 기준은 HTML 프로토타입 하나다."
+        },
+        {
+          "t": "p",
+          "x": "프로젝트 도중 디자이너는 토큰이 바닥나 Cursor에서 Claude로, 다시 Codex로 갈아탔다. 그래도 작업이 끊기지 않은 건 디자인 상태가 특정 도구가 아니라 HTML 산출물에 담겨 있었기 때문이다. 디자이너는 매일 새 버전을 내놓을 수 있었다. 예전 Figma 우선 방식에서는 한 페이지에 며칠씩 걸렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+          "cap": "AI 기반 인터페이스 워크플로"
+        },
+        {
+          "t": "p",
+          "x": "디자이너는 HTML 산출물을 업데이트해 디자인 시스템, 페르소나 흐름, 변경 기록과 함께 공유한다. 개발자가 이를 코딩 에이전트에 넘기면 에이전트가 디자인 변경을 실제 프로젝트에 반영한다."
+        }
+      ]
+    },
+    "design/christy-cad-claude-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+        },
+        {
+          "t": "p",
+          "x": "613 kHz HP-85부터 음성으로 도면을 그리는 Mac M4까지 CAD 프로그램 하나를 이어 오며 정확성과 속도를 배웠고, 다음 사람이 아무 준비 없이 읽어도 이어받을 수 있는 코드를 쓰는 법도 배웠다. — John M. Christy, CADD/85, CADD 200/300, C3 개발자."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+          "cap": "HP-85 컴퓨터. (이미지: Wolfgang Stief/Wikimedia.)"
+        },
+        {
+          "t": "p",
+          "x": "재작성은 2025년 10월쯤 시작됐다. 처음에는 Pascal 코드 일부를 Claude에게 넘겨 분석과 의견을 받았고, 거기서 Apple용 코드가 출발했다. 나는 코드를 직접 짜는 프로그래머 자리에서 물러나 무엇을 만들지 정하는 프로듀서 겸 디렉터, 그리고 출시 여부를 가리는 품질 관리 테스터가 됐다. 지금 C3라고 부르는 이 프로그램은 2026년 2월까지 기능을 다 갖췄다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+          "cap": "John Hardy가 개발한 회로도를 띄운 C3 인터페이스. (이미지: John M. Christy.)"
+        },
+        {
+          "t": "p",
+          "x": "Claude를 프로그래밍 파트너로 두자 아이디어부터 구현, 테스트까지 몇 달이 아니라 몇 분 만에 끝나는 일도 생겼다. 새 코드를 커밋하기 전에는 이천 개 가까운 테스트가 돈다. C3는 이제 음성 명령을 이백 개 넘게 알아듣고, 9월에는 어시스턴트 역할까지 맡았다. 언어 모델이 프로그램의 명령 카탈로그로 프로그램을 직접 움직이고, 요청 하나를 실행 취소 한 단계로 묶으며, 받아쓰기로 조작한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+          "cap": "C3 어시스턴트가 전부 그린 볼트 원형 플랜지. (이미지: John M. Christy.)"
+        }
+      ]
+    },
+    "design/adobe-editagent-toolpicker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe 연구진이 범용 편집기와 전용 도구를 묶은 이미지 편집 AI 에이전트를 만들었다. Adobe Research와 UC San Diego 연구진이 그리는 EditAgent는 Photoshop을 다루는 전문가처럼 일한다. 작업마다 알맞은 도구를 고르고 결과를 원본과 구체적인 수치로 비교한다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+          "cap": "EditAgent는 같은 편집기를 되풀이해 돌리지 않는다. 서로 다른 방법으로 후보를 병렬로 만들고 손대지 않은 언어 모델이 이를 한꺼번에 비교한다. | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "전문가 다섯 명이 이미지 편집 600건을 블라인드로 평가했다. 범용 편집기 Flux-2-Klein-9B 모델은 42.7퍼센트에서 쓸 만한 결과를 내지 못했고, 전용 도구가 이런 실패의 약 삼분의 이를 해결했다. 한쪽을 고른 비교의 78.5퍼센트에서 전문가들은 원본에서 바로 병렬 생성한 변형을 택했다."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+          "cap": "EditAgent는 요청을 연속된 단계로 쪼개고 단계마다 후보를 여러 개 만든다. | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "판정 모델은 변형마다 검증 기록을 받는다. 편집 부위 클로즈업과 변화 맵, 측정한 밝기·색상 통계가 들어 있다. 이 기록을 주자 시험한 언어 모델 일곱 개가 하나같이 미세조정 모델 전부를 앞섰다. Qwen3.8-27B 모델은 81.3퍼센트에서 쓸 만한 쪽을 골랐고 EditScore-72B 모델은 74.8퍼센트였다."
+        },
+        {
+          "t": "p",
+          "x": "뒤 편집이 앞 편집을 되돌리지 않았는지도 EditAgent가 살핀다. 연산은 단일 편집기의 약 열 배가 든다. 대신 검증을 거친 예시 약 26,000개 덕분에 미세조정 편집기의 성능이 세 벤치마크에서 모두 올랐다."
+        }
+      ]
     }
   }
 }

@@ -1,197 +1,191 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "gadgets",
   "cards": [
     {
-      "id": "meta-max-humanoid-robot",
+      "id": "google-nasa-robot-doctor",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta, 집안일 하는\n휴머노이드 제작 보도",
-      "body": "Meta가 Nvidia Jetson Thor로 Max 제작, Max 2도 개발한다.",
-      "mini_headline": "Meta의 가사 휴머노이드",
+      "headline": "Google·NASA의\n심우주 AI 로봇 의사",
+      "body": "Google·NASA가 판단은 사람에게 맡기는 심우주용 AI 의료 로봇을 만든다.",
+      "mini_headline": "Google·NASA의 우주 로봇 의사",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-            "cap": "Kevin Frayer/Getty Images"
+            "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
           },
           {
             "t": "p",
-            "x": "The Information에 따르면 Meta는 로봇 사업을 넓히면서 가정에서 사람을 돕는 휴머노이드 로봇 시제품을 만들었다. 내부 코드명은 Max로, 중국 로봇 기업 Fourier의 도움을 받아 약 세 달 만에 완성했다고 한다."
+            "x": "Google이 NASA와 함께 향후 심우주 탐사에 나설 우주비행사의 응급 상황 대처와 일상 업무를 도울 로봇 의료 보조 장치를 개발 중이다. Google Cloud, NASA의 Human Research Program, Johnson Space Center 로보틱스팀, Jet Propulsion Laboratory가 참여하며, 바탕은 Google과 NASA가 2025년부터 평가해 온 Crew Medical Officer Digital Assistant다."
           },
           {
             "t": "p",
-            "x": "The Information의 소식통에 따르면 이 로봇은 무게 약 106 lbs, 키 약 1.5미터(약 다섯 피트)다. 겉에는 얼굴 표정을 띄우는 디스플레이와 내장 스피커, 작은 물건을 집도록 설계한 손이 달렸다. 로봇을 구동하는 칩으로는 NVIDIA의 Jetson Thor를 골랐다고 한다."
+            "x": "Google 공공부문 부사장 Jim Kelly는 “향후 화성(Mars)으로 향하는 심우주 임무에 나선 우주비행사는 최대 44분에 이르는 왕복 통신 지연 등 심각한 운영상 어려움에 부딪힐 수 있다”고 말했다. 로봇은 승무원 의료 담당관을 대신하지 않고 실무를 거든다. 진단과 치료 결정은 사람이 감독한다. 신장 결석으로 보이는 심한 허리 통증을 호소하는 우주비행사가 있으면 초음파 장비를 가져와 준비해 두는 식이다."
           },
           {
             "t": "p",
-            "x": "The Information 보도에 따르면 Max의 대중 시장용 버전은 아직 출시일이 없다. 다만 Meta는 9월부터 코드명 Max 2인 두 번째 시제품을 개발해 왔다. 몸통과 손 디자인을 손보고, 계단을 더 잘 오르내리도록 프로젝터와 센서도 추가하는 중이라고 보도는 전했다."
+            "x": "Google은 JPL의 내비게이션 기술을 응용하고, DeepMind의 MuJoCo 물리 시뮬레이터로 움직임과 물체 다루기를 평가했다. 초기 실험실 시험에서 의료 가방을 찾아 옮기는 작업의 성공률은 85%였다. Google은 이번 작업을 개념 증명이라고 설명한다. 우주 투입이 확정된 로봇은 아직 없다."
           },
           {
             "t": "p",
-            "x": "Meta가 휴머노이드 로봇에 뛰어든 건 지난해부터다. 당시 Bloomberg는 Meta가 결국 집안일을 해낼 로봇 하드웨어를 만들 새 팀을 꾸렸다고 보도했다. 이어 Meta는 올해 초 로봇 전용 인공지능을 개발하는 것으로 알려진 스타트업을 인수했다."
+            "x": "Kelly는 “궁극적인 목표는 우주비행사의 직접적인 감독과 지휘 아래 간단한 음성 지시만으로 다양한 작업을 수행할 수 있는 로봇 시스템을 만드는 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta reportedly builds\na humanoid for chores",
-          "body": "Meta has reportedly built a household-chore humanoid prototype called Max on Nvidia Jetson Thor, with Max 2 underway.",
-          "mini_headline": "Meta's chore humanoid",
+          "headline": "Google and NASA build an AI\nrobot doctor for deep space",
+          "body": "Google and NASA are building a voice-guided AI medical robot for deep-space crews that leaves decisions to humans.",
+          "mini_headline": "Google and NASA's\nspace robot doctor",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "As part of its push into robotics, Meta has built a prototype humanoid robot that's meant to help out around people's homes, according to The Information. The report said that the robot, internally codenamed Max, was built with the help of a Chinese robotics company called Fourier in roughly three months."
+                "x": "Google is developing a robotic medical assistant with NASA to help astronauts handle health emergencies and routine duties during future deep-space expeditions. The project brings together Google Cloud, NASA's Human Research Program, Johnson Space Center's robotics team, and the Jet Propulsion Laboratory, building on the Crew Medical Officer Digital Assistant that Google and NASA have been evaluating since 2025."
               },
               {
                 "t": "p",
-                "x": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall, or approximately five feet tall. On the outside, the prototype reportedly has a display that can show facial expressions, a built-in speaker and hands designed to pick up small objects. Internally, Meta went with NVIDIA's Jetson Thor chips to power the robot, according to the report."
+                "x": "“An astronaut on a future deep space mission to Mars could face severe operational challenges, including round-trip communication latencies of up to 44 minutes,” said Jim Kelly, Google's public sector vice president. Rather than replacing the crew's medical officer, the robot would assist with practical tasks, leaving diagnosis and treatment decisions under human supervision — for example, retrieving and preparing ultrasound equipment for an astronaut with intense back pain possibly linked to kidney stones."
               },
               {
                 "t": "p",
-                "x": "The Information's report said there's no launch date set for a mass-market version of Max, but that Meta has already been working on a second prototype, codenamed Max 2, since September. The report added that the tech giant is including updates to the design of the robot's torso and hands, as well as adding a projector and additional sensors to help it handle stairs better."
+                "x": "Google is adapting JPL navigation technology and used DeepMind's MuJoCo physics simulator to assess movement and object handling. In initial laboratory trials, the robot achieved an 85% success rate when locating and moving a medical bag. Google describes the work as a proof of concept, with no confirmed space-ready robot."
               },
               {
                 "t": "p",
-                "x": "Meta's efforts to break into humanoid robots began as early as last year after Bloomberg reported that the company created a new team tasked with building robot hardware with the eventual goal of being able to do household chores. Following that report, Meta acquired a startup that's known for building artificial intelligence specifically for robots, earlier this year."
+                "x": "“The ultimate goal is to build a robotic system that can execute a variety of tasks via simple voice instructions, under the astronauts’ direct supervision and command,” Kelly said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta, 집안일 하는\n휴머노이드 제작 보도",
-          "body": "Meta가 Nvidia Jetson Thor로 Max 제작, Max 2도 개발한다.",
-          "mini_headline": "Meta의 가사 휴머노이드",
+          "headline": "Google·NASA의\n심우주 AI 로봇 의사",
+          "body": "Google·NASA가 판단은 사람에게 맡기는 심우주용 AI 의료 로봇을 만든다.",
+          "mini_headline": "Google·NASA의 우주 로봇 의사",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "The Information에 따르면 Meta는 로봇 사업을 넓히면서 가정에서 사람을 돕는 휴머노이드 로봇 시제품을 만들었다. 내부 코드명은 Max로, 중국 로봇 기업 Fourier의 도움을 받아 약 세 달 만에 완성했다고 한다."
+                "x": "Google이 NASA와 함께 향후 심우주 탐사에 나설 우주비행사의 응급 상황 대처와 일상 업무를 도울 로봇 의료 보조 장치를 개발 중이다. Google Cloud, NASA의 Human Research Program, Johnson Space Center 로보틱스팀, Jet Propulsion Laboratory가 참여하며, 바탕은 Google과 NASA가 2025년부터 평가해 온 Crew Medical Officer Digital Assistant다."
               },
               {
                 "t": "p",
-                "x": "The Information의 소식통에 따르면 이 로봇은 무게 약 106 lbs, 키 약 1.5미터(약 다섯 피트)다. 겉에는 얼굴 표정을 띄우는 디스플레이와 내장 스피커, 작은 물건을 집도록 설계한 손이 달렸다. 로봇을 구동하는 칩으로는 NVIDIA의 Jetson Thor를 골랐다고 한다."
+                "x": "Google 공공부문 부사장 Jim Kelly는 “향후 화성(Mars)으로 향하는 심우주 임무에 나선 우주비행사는 최대 44분에 이르는 왕복 통신 지연 등 심각한 운영상 어려움에 부딪힐 수 있다”고 말했다. 로봇은 승무원 의료 담당관을 대신하지 않고 실무를 거든다. 진단과 치료 결정은 사람이 감독한다. 신장 결석으로 보이는 심한 허리 통증을 호소하는 우주비행사가 있으면 초음파 장비를 가져와 준비해 두는 식이다."
               },
               {
                 "t": "p",
-                "x": "The Information 보도에 따르면 Max의 대중 시장용 버전은 아직 출시일이 없다. 다만 Meta는 9월부터 코드명 Max 2인 두 번째 시제품을 개발해 왔다. 몸통과 손 디자인을 손보고, 계단을 더 잘 오르내리도록 프로젝터와 센서도 추가하는 중이라고 보도는 전했다."
+                "x": "Google은 JPL의 내비게이션 기술을 응용하고, DeepMind의 MuJoCo 물리 시뮬레이터로 움직임과 물체 다루기를 평가했다. 초기 실험실 시험에서 의료 가방을 찾아 옮기는 작업의 성공률은 85%였다. Google은 이번 작업을 개념 증명이라고 설명한다. 우주 투입이 확정된 로봇은 아직 없다."
               },
               {
                 "t": "p",
-                "x": "Meta가 휴머노이드 로봇에 뛰어든 건 지난해부터다. 당시 Bloomberg는 Meta가 결국 집안일을 해낼 로봇 하드웨어를 만들 새 팀을 꾸렸다고 보도했다. 이어 Meta는 올해 초 로봇 전용 인공지능을 개발하는 것으로 알려진 스타트업을 인수했다."
+                "x": "Kelly는 “궁극적인 목표는 우주비행사의 직접적인 감독과 지휘 아래 간단한 음성 지시만으로 다양한 작업을 수행할 수 있는 로봇 시스템을 만드는 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、家事用の\n人型ロボ開発か",
-          "body": "MetaがNvidia Jetson Thor搭載のMaxを試作、Max 2も開発中だ。",
-          "mini_headline": "Metaの家事用ヒューマノイド",
+          "headline": "GoogleとNASA\n深宇宙のAIロボット医師",
+          "body": "GoogleとNASAが、判断を人間に委ねる深宇宙向け音声AI医療ロボットを開発している。",
+          "mini_headline": "GoogleとNASAの宇宙ロボット医師",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "The Informationによると、Metaはロボティクス事業強化の一環として、家庭で人を手助けする人型ロボットの試作機を開発した。報道によれば、社内コードネームMaxと呼ばれるこのロボットは、中国のロボット企業Fourierの協力を得て約三か月で作られた。"
+                "x": "GoogleはNASAと共同で、将来の深宇宙探査において宇宙飛行士が健康上の緊急事態や日常業務に対処できるよう支援するロボット医療アシスタントを開発している。このプロジェクトにはGoogle Cloud、NASAのHuman Research Program、Johnson Space Centerのロボティクスチーム、Jet Propulsion Laboratoryが参加し、GoogleとNASAが2025年から評価してきたCrew Medical Officer Digital Assistantを土台としている。"
               },
               {
                 "t": "p",
-                "x": "The Informationの情報筋によると、ロボットの重さは約106 lbs、身長は約1.5メートル(約五フィート)だ。外側には表情を映すディスプレイ、内蔵スピーカー、小さな物をつかめるよう設計された手を備えているという。内部では、ロボットを動かすチップとしてNVIDIAのJetson Thorを採用したと報じられている。"
+                "x": "Googleの公共部門担当バイスプレジデントであるJim Kellyは「将来、火星(Mars)への深宇宙ミッションに臨む宇宙飛行士は、最大44分に及ぶ往復の通信遅延をはじめ、深刻な運用上の課題に直面しうる」と述べた。ロボットは乗組員の医療担当官に取って代わるのではなく実務を手助けし、診断や治療の判断は人間の監督下に残す。たとえば、腎臓結石に関連する可能性のある激しい腰痛を抱えた宇宙飛行士のために、超音波機器を取り出して準備するといった役割だ。"
               },
               {
                 "t": "p",
-                "x": "The Informationの報道によれば、Maxの一般向け製品の発売日は決まっていないが、Metaは9月から、コードネームMax 2という二台目の試作機の開発をすでに進めている。同社は胴体と手のデザインを改良し、階段をうまく扱えるようプロジェクターと追加センサーを搭載しているという。"
+                "x": "GoogleはJPLのナビゲーション技術を応用し、DeepMindの物理シミュレーターMuJoCoを使って動作と物体の扱いを評価した。初期の実験室試験では、医療バッグを探して移動させる作業で85%の成功率を達成した。Googleはこの取り組みを概念実証と位置づけており、宇宙で使えると確認されたロボットはまだない。"
               },
               {
                 "t": "p",
-                "x": "Metaの人型ロボットへの参入は早くも昨年に始まった。Bloombergは当時、同社が最終的に家事をこなせるロボットハードウェアの開発を目指す新チームを設けたと報じた。その後Metaは今年初め、ロボット専用の人工知能開発で知られるスタートアップを買収した。"
+                "x": "Kellyは「最終的な目標は、宇宙飛行士の直接の監督と指揮のもと、簡単な音声指示でさまざまな作業をこなせるロボットシステムを構築することだ」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta据报打造\n家务人形机器人",
-          "body": "Meta用Nvidia Jetson Thor造出家务机器人Max，Max 2在研发中。",
-          "mini_headline": "Meta的家务人形机器人",
+          "headline": "Google与NASA\n打造深空AI机器人医生",
+          "body": "Google与NASA正为深空乘组打造语音引导的AI医疗机器人，决策仍交由人类。",
+          "mini_headline": "Google与NASA的太空机器人医生",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "据The Information报道，作为进军机器人领域的一部分，Meta打造了一款旨在帮助人们处理家务的人形机器人原型。报道称，这款内部代号为Max的机器人是在中国机器人公司Fourier的协助下，用大约三个月时间造出的。"
+                "x": "Google正与NASA合作开发一款机器人医疗助手，帮助宇航员在未来的深空探索中应对健康紧急情况和日常任务。该项目汇集了Google Cloud、NASA的Human Research Program、Johnson Space Center的机器人团队以及Jet Propulsion Laboratory，以Google与NASA自2025年以来一直在评估的Crew Medical Officer Digital Assistant为基础。"
               },
               {
                 "t": "p",
-                "x": "据The Information的消息人士透露，这款机器人重约106 lbs，身高约1.5米，即大约五英尺。报道称，原型机外部配有可显示面部表情的屏幕、内置扬声器，以及可拾取小物件的双手。内部方面，Meta选用了NVIDIA的Jetson Thor芯片来驱动机器人。"
+                "x": "Google公共部门副总裁Jim Kelly表示：“未来执行火星（Mars）深空任务的宇航员可能面临严峻的操作挑战，包括长达44分钟的往返通信延迟。”这款机器人不会取代乘组中的医疗官，而是协助完成实际任务，诊断和治疗决策仍在人类监督之下。例如，为一名可能因肾结石而背部剧痛的宇航员取来并准备超声设备。"
               },
               {
                 "t": "p",
-                "x": "The Information报道称，Max的大众市场版本尚无发布日期，但Meta自9月以来已在开发代号为Max 2的第二款原型。报道补充说，这家科技巨头正在改进机器人躯干和双手的设计，并加装投影仪和更多传感器，以便更好地应对楼梯。"
+                "x": "Google正在改造JPL的导航技术，并使用DeepMind的MuJoCo物理模拟器评估机器人的移动和物体操作能力。在初步实验室测试中，机器人在寻找并搬运医疗包时取得了85%的成功率。Google称这项工作属于概念验证，目前尚无确认可用于太空的机器人。"
               },
               {
                 "t": "p",
-                "x": "早在去年，Bloomberg报道Meta组建了一支新团队，负责打造最终能够做家务的机器人硬件，Meta进军人形机器人的努力由此开始。在该报道之后，Meta于今年早些时候收购了一家以专门为机器人开发人工智能而闻名的初创公司。"
+                "x": "Kelly说：“最终目标是打造一套机器人系统，能在宇航员的直接监督和指挥下，通过简单的语音指令执行各种任务。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta habría construido\nun humanoide doméstico",
-          "body": "Meta habría construido Max, un prototipo humanoide doméstico basado en Nvidia Jetson Thor, y ya trabaja en Max 2.",
-          "mini_headline": "El humanoide doméstico de Meta",
+          "headline": "Google y NASA crean un robot\nmédico con AI para el espacio",
+          "body": "Google y NASA crean un robot médico con AI guiado por voz para el espacio profundo que deja decidir a las personas.",
+          "mini_headline": "El robot médico espacial de Google y NASA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Como parte de su impulso en la robótica, Meta ha construido un prototipo de robot humanoide pensado para ayudar en los hogares, según The Information. El informe señala que el robot, con el nombre en clave interno Max, se construyó con la ayuda de una empresa china de robótica llamada Fourier en unos tres meses."
+                "x": "Google desarrolla con NASA un asistente médico robótico para ayudar a los astronautas a afrontar emergencias de salud y tareas rutinarias durante futuras expediciones al espacio profundo. El proyecto reúne a Google Cloud, el Human Research Program de NASA, el equipo de robótica del Johnson Space Center y el Jet Propulsion Laboratory, y se basa en el Crew Medical Officer Digital Assistant que Google y NASA evalúan desde 2025."
               },
               {
                 "t": "p",
-                "x": "Según las fuentes de The Information, el robot pesa unas 106 lbs y mide alrededor de 1.5 metros, es decir, aproximadamente cinco pies. Por fuera, el prototipo tendría una pantalla capaz de mostrar expresiones faciales, un altavoz integrado y manos diseñadas para recoger objetos pequeños. Por dentro, Meta optó por los chips Jetson Thor de NVIDIA para hacer funcionar el robot, según el informe."
+                "x": "“Un astronauta en una futura misión al espacio profundo rumbo a Marte (Mars) podría enfrentarse a graves desafíos operativos, incluidas latencias de comunicación de ida y vuelta de hasta 44 minutos”, dijo Jim Kelly, vicepresidente de sector público de Google. En lugar de sustituir al oficial médico de la tripulación, el robot ayudaría con tareas prácticas y dejaría las decisiones de diagnóstico y tratamiento bajo supervisión humana; por ejemplo, buscaría y prepararía el equipo de ultrasonido para un astronauta con un intenso dolor de espalda posiblemente vinculado a cálculos renales."
               },
               {
                 "t": "p",
-                "x": "El informe de The Information indica que no hay fecha de lanzamiento para una versión de Max destinada al gran público, pero que Meta trabaja desde septiembre en un segundo prototipo, con el nombre en clave Max 2. Añade que la gran tecnológica está actualizando el diseño del torso y las manos del robot, además de incorporar un proyector y sensores adicionales para que se desenvuelva mejor en las escaleras."
+                "x": "Google está adaptando tecnología de navegación del JPL y usó el simulador físico MuJoCo de DeepMind para evaluar el movimiento y la manipulación de objetos. En las primeras pruebas de laboratorio, el robot logró una tasa de éxito del 85% al localizar y mover un maletín médico. Google describe el trabajo como una prueba de concepto, sin ningún robot confirmado como apto para el espacio."
               },
               {
                 "t": "p",
-                "x": "Los esfuerzos de Meta por entrar en los robots humanoides comenzaron ya el año pasado, después de que Bloomberg informara de que la compañía había creado un nuevo equipo encargado de desarrollar hardware robótico con el objetivo final de realizar tareas domésticas. Tras ese informe, Meta adquirió a principios de este año una startup conocida por desarrollar inteligencia artificial específica para robots."
+                "x": "“El objetivo final es construir un sistema robótico capaz de ejecutar diversas tareas mediante simples instrucciones de voz, bajo la supervisión y el mando directos de los astronautas”, dijo Kelly."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta, 집안일 하는\n휴머노이드 제작 보도",
-          "body": "Meta가 Nvidia Jetson Thor로 Max 제작, Max 2도 개발한다.",
-          "mini_headline": "Meta의 가사 휴머노이드",
+          "headline": "Google·NASA의\n심우주 AI 로봇 의사",
+          "body": "Google·NASA가 판단은 사람에게 맡기는 심우주용 AI 의료 로봇을 만든다.",
+          "mini_headline": "Google·NASA의 우주 로봇 의사",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "The Information에 따르면 Meta는 로봇 사업 확장의 일환으로 가정에서 사람을 돕는 휴머노이드 로봇 시제품을 만들었다. 보도에 따르면 내부 코드명 Max인 이 로봇은 중국 로봇 기업 Fourier의 도움을 받아 약 세 달 만에 제작됐다."
+                "x": "Google이 NASA와 함께 향후 심우주 탐사에서 우주비행사가 건강상 응급 상황과 일상 업무에 대처하도록 돕는 로봇 의료 보조 장치를 개발하고 있다. 이 프로젝트에는 Google Cloud, NASA의 Human Research Program, Johnson Space Center 로보틱스팀, Jet Propulsion Laboratory가 참여하며, Google과 NASA가 2025년부터 평가해 온 Crew Medical Officer Digital Assistant를 토대로 한다."
               },
               {
                 "t": "p",
-                "x": "The Information의 소식통에 따르면 이 로봇의 무게는 약 106 lbs, 키는 약 1.5미터(약 다섯 피트)다. 외부에는 얼굴 표정을 보여주는 디스플레이와 내장 스피커, 작은 물건을 집도록 설계된 손이 달린 것으로 알려졌다. 보도에 따르면 Meta는 로봇 구동용으로 NVIDIA의 Jetson Thor 칩을 택했다."
+                "x": "Google 공공부문 부사장 Jim Kelly는 “향후 화성(Mars)으로 향하는 심우주 임무에 나선 우주비행사는 최대 44분에 이르는 왕복 통신 지연 등 심각한 운영상 어려움에 부딪힐 수 있다”고 말했다. 이 로봇은 승무원의 의료 담당관을 대신하지 않고 실무를 돕는다. 진단과 치료 결정은 사람의 감독 아래 남겨 두며, 예컨대 신장 결석과 관련된 듯한 심한 허리 통증을 겪는 우주비행사를 위해 초음파 장비를 가져와 준비하는 식이다."
               },
               {
                 "t": "p",
-                "x": "The Information 보도에 따르면 Max의 대중 시장용 버전 출시일은 정해지지 않았지만, Meta는 9월부터 코드명 Max 2인 두 번째 시제품을 개발하고 있다. 보도는 이 빅테크 기업이 로봇의 몸통과 손 디자인을 손보고, 계단을 더 잘 오르내리도록 프로젝터와 센서를 추가하고 있다고 덧붙였다."
+                "x": "Google은 JPL의 내비게이션 기술을 응용하고 있으며, DeepMind의 MuJoCo 물리 시뮬레이터로 움직임과 물체 다루기를 평가했다. 초기 실험실 시험에서 로봇은 의료 가방을 찾아 옮기는 작업에서 85%의 성공률을 기록했다. Google은 이번 작업을 개념 증명으로 설명하며, 우주 투입이 확정된 로봇은 아직 없다."
               },
               {
                 "t": "p",
-                "x": "Meta의 휴머노이드 로봇 진출 시도는 일찍이 지난해 시작됐다. 당시 Bloomberg는 Meta가 궁극적으로 집안일을 할 수 있는 로봇 하드웨어를 만들기 위한 새 팀을 꾸렸다고 보도했다. 이후 Meta는 올해 초 로봇 전용 인공지능 개발로 알려진 스타트업을 인수했다."
+                "x": "Kelly는 “궁극적인 목표는 우주비행사의 직접적인 감독과 지휘 아래 간단한 음성 지시만으로 다양한 작업을 수행할 수 있는 로봇 시스템을 만드는 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、家事用の\n人型ロボ開発か",
-          "body": "MetaがNvidia Jetson Thor搭載のMaxを試作、Max 2も開発中だ。",
-          "mini_headline": "Metaの家事用ヒューマノイド",
+          "headline": "GoogleとNASA\n深宇宙のAIロボット医師",
+          "body": "GoogleとNASAが、判断を人間に委ねる深宇宙向け音声AI医療ロボットを開発している。",
+          "mini_headline": "GoogleとNASAの宇宙ロボット医師",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "The Informationによると、Metaはロボティクス事業強化の一環として、家庭で人を手助けする人型ロボットの試作機を開発した。報道によれば、社内コードネームMaxと呼ばれるこのロボットは、中国のロボット企業Fourierの協力を得て約三か月で作られた。"
+                "x": "GoogleはNASAと共同で、将来の深宇宙探査において宇宙飛行士が健康上の緊急事態や日常業務に対処できるよう支援するロボット医療アシスタントを開発している。このプロジェクトにはGoogle Cloud、NASAのHuman Research Program、Johnson Space Centerのロボティクスチーム、Jet Propulsion Laboratoryが参加し、GoogleとNASAが2025年から評価してきたCrew Medical Officer Digital Assistantを土台としている。"
               },
               {
                 "t": "p",
-                "x": "The Informationの情報筋によると、ロボットの重さは約106 lbs、身長は約1.5メートル(約五フィート)だ。外側には表情を映すディスプレイ、内蔵スピーカー、小さな物をつかめるよう設計された手を備えているという。内部では、ロボットを動かすチップとしてNVIDIAのJetson Thorを採用したと報じられている。"
+                "x": "Googleの公共部門担当バイスプレジデントであるJim Kellyは「将来、火星(Mars)への深宇宙ミッションに臨む宇宙飛行士は、最大44分に及ぶ往復の通信遅延をはじめ、深刻な運用上の課題に直面しうる」と述べた。ロボットは乗組員の医療担当官に取って代わるのではなく実務を手助けし、診断や治療の判断は人間の監督下に残す。たとえば、腎臓結石に関連する可能性のある激しい腰痛を抱えた宇宙飛行士のために、超音波機器を取り出して準備するといった役割だ。"
               },
               {
                 "t": "p",
-                "x": "The Informationの報道によれば、Maxの一般向け製品の発売日は決まっていないが、Metaは9月から、コードネームMax 2という二台目の試作機の開発をすでに進めている。同社は胴体と手のデザインを改良し、階段をうまく扱えるようプロジェクターと追加センサーを搭載しているという。"
+                "x": "GoogleはJPLのナビゲーション技術を応用し、DeepMindの物理シミュレーターMuJoCoを使って動作と物体の扱いを評価した。初期の実験室試験では、医療バッグを探して移動させる作業で85%の成功率を達成した。Googleはこの取り組みを概念実証と位置づけており、宇宙で使えると確認されたロボットはまだない。"
               },
               {
                 "t": "p",
-                "x": "Metaの人型ロボットへの参入は早くも昨年に始まった。Bloombergは当時、同社が最終的に家事をこなせるロボットハードウェアの開発を目指す新チームを設けたと報じた。その後Metaは今年初め、ロボット専用の人工知能開発で知られるスタートアップを買収した。"
+                "x": "Kellyは「最終的な目標は、宇宙飛行士の直接の監督と指揮のもと、簡単な音声指示でさまざまな作業をこなせるロボットシステムを構築することだ」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta据报打造\n家务人形机器人",
-          "body": "Meta用Nvidia Jetson Thor造出家务机器人Max，Max 2在研发中。",
-          "mini_headline": "Meta的家务人形机器人",
+          "headline": "Google与NASA\n打造深空AI机器人医生",
+          "body": "Google与NASA正为深空乘组打造语音引导的AI医疗机器人，决策仍交由人类。",
+          "mini_headline": "Google与NASA的太空机器人医生",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "据The Information报道，作为进军机器人领域的一部分，Meta打造了一款旨在帮助人们处理家务的人形机器人原型。报道称，这款内部代号为Max的机器人是在中国机器人公司Fourier的协助下，用大约三个月时间造出的。"
+                "x": "Google正与NASA合作开发一款机器人医疗助手，帮助宇航员在未来的深空探索中应对健康紧急情况和日常任务。该项目汇集了Google Cloud、NASA的Human Research Program、Johnson Space Center的机器人团队以及Jet Propulsion Laboratory，以Google与NASA自2025年以来一直在评估的Crew Medical Officer Digital Assistant为基础。"
               },
               {
                 "t": "p",
-                "x": "据The Information的消息人士透露，这款机器人重约106 lbs，身高约1.5米，即大约五英尺。报道称，原型机外部配有可显示面部表情的屏幕、内置扬声器，以及可拾取小物件的双手。内部方面，Meta选用了NVIDIA的Jetson Thor芯片来驱动机器人。"
+                "x": "Google公共部门副总裁Jim Kelly表示：“未来执行火星（Mars）深空任务的宇航员可能面临严峻的操作挑战，包括长达44分钟的往返通信延迟。”这款机器人不会取代乘组中的医疗官，而是协助完成实际任务，诊断和治疗决策仍在人类监督之下。例如，为一名可能因肾结石而背部剧痛的宇航员取来并准备超声设备。"
               },
               {
                 "t": "p",
-                "x": "The Information报道称，Max的大众市场版本尚无发布日期，但Meta自9月以来已在开发代号为Max 2的第二款原型。报道补充说，这家科技巨头正在改进机器人躯干和双手的设计，并加装投影仪和更多传感器，以便更好地应对楼梯。"
+                "x": "Google正在改造JPL的导航技术，并使用DeepMind的MuJoCo物理模拟器评估机器人的移动和物体操作能力。在初步实验室测试中，机器人在寻找并搬运医疗包时取得了85%的成功率。Google称这项工作属于概念验证，目前尚无确认可用于太空的机器人。"
               },
               {
                 "t": "p",
-                "x": "早在去年，Bloomberg报道Meta组建了一支新团队，负责打造最终能够做家务的机器人硬件，Meta进军人形机器人的努力由此开始。在该报道之后，Meta于今年早些时候收购了一家以专门为机器人开发人工智能而闻名的初创公司。"
+                "x": "Kelly说：“最终目标是打造一套机器人系统，能在宇航员的直接监督和指挥下，通过简单的语音指令执行各种任务。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta habría construido\nun humanoide doméstico",
-          "body": "Meta habría construido Max, un prototipo humanoide doméstico basado en Nvidia Jetson Thor, y ya trabaja en Max 2.",
-          "mini_headline": "El humanoide doméstico de Meta",
+          "headline": "Google y NASA crean un robot\nmédico con AI para el espacio",
+          "body": "Google y NASA crean un robot médico con AI guiado por voz para el espacio profundo que deja decidir a las personas.",
+          "mini_headline": "El robot médico espacial de Google y NASA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-                "cap": "Kevin Frayer/Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Como parte de su impulso en la robótica, Meta ha construido un prototipo de robot humanoide pensado para ayudar en los hogares, según The Information. El informe señala que el robot, con el nombre en clave interno Max, se construyó con la ayuda de una empresa china de robótica llamada Fourier en unos tres meses."
+                "x": "Google desarrolla con NASA un asistente médico robótico para ayudar a los astronautas a afrontar emergencias de salud y tareas rutinarias durante futuras expediciones al espacio profundo. El proyecto reúne a Google Cloud, el Human Research Program de NASA, el equipo de robótica del Johnson Space Center y el Jet Propulsion Laboratory, y se basa en el Crew Medical Officer Digital Assistant que Google y NASA evalúan desde 2025."
               },
               {
                 "t": "p",
-                "x": "Según las fuentes de The Information, el robot pesa unas 106 lbs y mide alrededor de 1.5 metros, es decir, aproximadamente cinco pies. Por fuera, el prototipo tendría una pantalla capaz de mostrar expresiones faciales, un altavoz integrado y manos diseñadas para recoger objetos pequeños. Por dentro, Meta optó por los chips Jetson Thor de NVIDIA para hacer funcionar el robot, según el informe."
+                "x": "“Un astronauta en una futura misión al espacio profundo rumbo a Marte (Mars) podría enfrentarse a graves desafíos operativos, incluidas latencias de comunicación de ida y vuelta de hasta 44 minutos”, dijo Jim Kelly, vicepresidente de sector público de Google. En lugar de sustituir al oficial médico de la tripulación, el robot ayudaría con tareas prácticas y dejaría las decisiones de diagnóstico y tratamiento bajo supervisión humana; por ejemplo, buscaría y prepararía el equipo de ultrasonido para un astronauta con un intenso dolor de espalda posiblemente vinculado a cálculos renales."
               },
               {
                 "t": "p",
-                "x": "El informe de The Information indica que no hay fecha de lanzamiento para una versión de Max destinada al gran público, pero que Meta trabaja desde septiembre en un segundo prototipo, con el nombre en clave Max 2. Añade que la gran tecnológica está actualizando el diseño del torso y las manos del robot, además de incorporar un proyector y sensores adicionales para que se desenvuelva mejor en las escaleras."
+                "x": "Google está adaptando tecnología de navegación del JPL y usó el simulador físico MuJoCo de DeepMind para evaluar el movimiento y la manipulación de objetos. En las primeras pruebas de laboratorio, el robot logró una tasa de éxito del 85% al localizar y mover un maletín médico. Google describe el trabajo como una prueba de concepto, sin ningún robot confirmado como apto para el espacio."
               },
               {
                 "t": "p",
-                "x": "Los esfuerzos de Meta por entrar en los robots humanoides comenzaron ya el año pasado, después de que Bloomberg informara de que la compañía había creado un nuevo equipo encargado de desarrollar hardware robótico con el objetivo final de realizar tareas domésticas. Tras ese informe, Meta adquirió a principios de este año una startup conocida por desarrollar inteligencia artificial específica para robots."
+                "x": "“El objetivo final es construir un sistema robótico capaz de ejecutar diversas tareas mediante simples instrucciones de voz, bajo la supervisión y el mando directos de los astronautas”, dijo Kelly."
               }
             ]
           }
@@ -325,15 +315,15 @@
       }
     },
     {
-      "id": "gemini-live-offline-mode",
+      "id": "chatgpt-google-health-android",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini Live,\n인터넷 없이 쓸 수도",
-      "body": "APK를 뜯어보니 Google이 Gemini Live 오프라인 모드를 만든다.",
-      "mini_headline": "오프라인 Gemini Live",
+      "headline": "Google Health\n데이터 읽는 ChatGPT",
+      "body": "APK 분석상 ChatGPT가 Google Health 과거 기록을 읽으려 한다.",
+      "mini_headline": "Google Health 노리는 ChatGPT",
       "tool": "Gadgets",
       "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/",
+      "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -341,179 +331,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-            "cap": "Tushar Mehta / Android Authority"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
           },
           {
             "t": "p",
-            "x": "Gemini Live에 오프라인 모드가 생길 수 있다는 Android Authority의 분석이 나왔다. Android용 Google 앱(v17.71.17)을 뜯어보니 \"Offline mode\"와 \"Use Gemini Live without an internet connection.\"이라는 두 문자열이 나왔다. 문자열 이름이 \"ui_account\"인 것으로 보아 이 옵션은 Gemini의 계정 전환 메뉴에 들어갈 듯하다."
+            "x": "ChatGPT Health는 현재 US에서 iOS와 Android 모두 폭넓게 쓸 수 있다. 다만 iPhone 사용자는 이미 Apple Health와 연결할 수 있는 반면, Android 사용자는 아직 Google Health와 연동하지 못한다. 이 상황이 곧 바뀔 수도 있다."
           },
           {
             "t": "p",
-            "x": "어떻게 작동할지는 아직 분명하지 않다. Gemini Live는 빠르고 끊김 없는 음성 인식, 매우 빠른 대화 응답, 음성 합성에 기대는 기능이다. Android Authority는 오프라인 모드가 클라우드 기반 모드보다 느리고 덜 정확할 수 있다고 본다. 로컬 전용 모드에서 카메라와 화면 공유를 쓸 수 있을지도 불분명하다."
+            "x": "Android Authority가 Android용 ChatGPT 앱(v1.2026.300)을 분석하다 Android Health Connect 권한 여러 개를 지원하는 코드를 찾아냈다. 핵심은 Google Health의 과거 건강 데이터를 읽는 기능이다. “READ_HEALTH_DATA_IN_BACKGROUND” 권한을 보면 사용자가 앱을 직접 열지 않아도 건강 데이터에 접근할 수 있을 듯하다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
           },
           {
             "t": "p",
-            "x": "오프라인 Gemini Live로는 완전한 Gemini 챗봇을 쓰기 어려울 가능성이 크다. 스마트폰이 감당하기에는 RAM과 연산량이 너무 많이 들기 때문이다. 하지만 최신 Android 폰 상당수가 ARCore 서비스와 함께 온디바이스 Gemini Nano 모델을 돌린다. 이론상으로는 오프라인 모드가 Gemini Nano로 넘어가 덜 복잡한 작업을 처리할 수 있다."
+            "x": "그 밖의 권한에는 체중, 기초대사량, 체지방, 제지방량, 골량과 월경·성생활·배란 같은 생식 건강 데이터가 들어 있다. Health Connect 권한 설명 화면과 권한 사용 인터페이스용 새 액티비티 두 개도 추가돼, 작업이 꽤 진척된 것으로 짐작된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
           },
           {
             "t": "p",
-            "x": "Google은 이달 초 Gemini Live에 Guided Vision을, 9월에는 실시간 번역을 넣었다. APK 분석은 개발 중인 코드를 들여다본 것이어서, 예상한 기능이 정식 출시 때 빠질 수도 있다."
+            "x": "OpenAI는 사용자가 건강 정보 분석과 인사이트, 조언을 AI에 맡기기를 바란다. 다만 이 권한들은 아직 적용되지 않았고, Android 사용자용 Google Health 지원도 시작 전이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini Live may soon\nwork without internet",
-          "body": "An APK teardown shows Google building an offline mode that would run Gemini Live voice chats fully on-device.",
-          "mini_headline": "Gemini Live goes offline",
+          "headline": "ChatGPT on Android may soon\nread your Google Health data",
+          "body": "An APK teardown shows ChatGPT preparing to read Google Health data, including past records, for personalized advice.",
+          "mini_headline": "ChatGPT eyes\nGoogle Health data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "An Android Authority teardown has revealed that Gemini Live could get an offline mode. A teardown of the Google app for Android (v17.71.17) turned up two strings: \"Offline mode\" and \"Use Gemini Live without an internet connection.\" The \"ui_account\" string name suggests the option could appear in Gemini's account switcher menu."
+                "x": "ChatGPT Health is now widely available in the US on both iOS and Android, but Android users still lack a Google Health integration, while iPhone users can already connect it to Apple Health. That might change soon."
               },
               {
                 "t": "p",
-                "x": "It's not clear how this will work. Gemini Live relies on speedy, continuous speech recognition, extremely fast conversational responses and voice synthesis, and Android Authority guesses an offline mode could be slower and less accurate than the cloud-based one. It's also unclear whether camera and screen sharing will be available in this local-only mode."
+                "x": "While digging into the ChatGPT app on Android (v1.2026.300), Android Authority found code to add support for several Android Health Connect permissions. Most importantly, the app might support reading historical health data from Google Health, and the “READ_HEALTH_DATA_IN_BACKGROUND” permission suggests it may access health data without the user explicitly opening it."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Offline Gemini Live likely won't have access to the full-blown Gemini chatbot, which would require far too much RAM and compute for a smartphone. But many modern Android phones run the on-device Gemini Nano model along with the ARCore service, so offline mode could theoretically handle less complex tasks by falling back to Gemini Nano."
+                "x": "Other permissions include body weight, basal metabolic rate, body fat, lean muscle mass, bone mass, and reproductive health data such as menstruation, sexual activity, and ovulation. Two new activities for Health Connect rationale and permission-usage interfaces suggest work is well underway."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Google added Guided Vision to Gemini Live early this month and live translation in September. An APK teardown is based on work-in-progress code, and predicted features may not make it to a public release."
+                "x": "OpenAI wants users to rely on the AI to analyze their health information and offer insights and advice. These permissions aren’t yet live, and Google Health support isn’t live for Android users either."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini Live,\n인터넷 없이 쓸 수도",
-          "body": "APK를 뜯어보니 Google이 Gemini Live 오프라인 모드를 만든다.",
-          "mini_headline": "오프라인 Gemini Live",
+          "headline": "Google Health\n데이터 읽는 ChatGPT",
+          "body": "APK 분석상 ChatGPT가 Google Health 과거 기록을 읽으려 한다.",
+          "mini_headline": "Google Health 노리는 ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Gemini Live에 오프라인 모드가 생길 수 있다는 Android Authority의 분석이 나왔다. Android용 Google 앱(v17.71.17)을 뜯어보니 \"Offline mode\"와 \"Use Gemini Live without an internet connection.\"이라는 두 문자열이 나왔다. 문자열 이름이 \"ui_account\"인 것으로 보아 이 옵션은 Gemini의 계정 전환 메뉴에 들어갈 듯하다."
+                "x": "ChatGPT Health는 현재 US에서 iOS와 Android 모두 폭넓게 쓸 수 있다. 다만 iPhone 사용자는 이미 Apple Health와 연결할 수 있는 반면, Android 사용자는 아직 Google Health와 연동하지 못한다. 이 상황이 곧 바뀔 수도 있다."
               },
               {
                 "t": "p",
-                "x": "어떻게 작동할지는 아직 분명하지 않다. Gemini Live는 빠르고 끊김 없는 음성 인식, 매우 빠른 대화 응답, 음성 합성에 기대는 기능이다. Android Authority는 오프라인 모드가 클라우드 기반 모드보다 느리고 덜 정확할 수 있다고 본다. 로컬 전용 모드에서 카메라와 화면 공유를 쓸 수 있을지도 불분명하다."
+                "x": "Android Authority가 Android용 ChatGPT 앱(v1.2026.300)을 분석하다 Android Health Connect 권한 여러 개를 지원하는 코드를 찾아냈다. 핵심은 Google Health의 과거 건강 데이터를 읽는 기능이다. “READ_HEALTH_DATA_IN_BACKGROUND” 권한을 보면 사용자가 앱을 직접 열지 않아도 건강 데이터에 접근할 수 있을 듯하다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "오프라인 Gemini Live로는 완전한 Gemini 챗봇을 쓰기 어려울 가능성이 크다. 스마트폰이 감당하기에는 RAM과 연산량이 너무 많이 들기 때문이다. 하지만 최신 Android 폰 상당수가 ARCore 서비스와 함께 온디바이스 Gemini Nano 모델을 돌린다. 이론상으로는 오프라인 모드가 Gemini Nano로 넘어가 덜 복잡한 작업을 처리할 수 있다."
+                "x": "그 밖의 권한에는 체중, 기초대사량, 체지방, 제지방량, 골량과 월경·성생활·배란 같은 생식 건강 데이터가 들어 있다. Health Connect 권한 설명 화면과 권한 사용 인터페이스용 새 액티비티 두 개도 추가돼, 작업이 꽤 진척된 것으로 짐작된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Google은 이달 초 Gemini Live에 Guided Vision을, 9월에는 실시간 번역을 넣었다. APK 분석은 개발 중인 코드를 들여다본 것이어서, 예상한 기능이 정식 출시 때 빠질 수도 있다."
+                "x": "OpenAI는 사용자가 건강 정보 분석과 인사이트, 조언을 AI에 맡기기를 바란다. 다만 이 권한들은 아직 적용되지 않았고, Android 사용자용 Google Health 지원도 시작 전이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini Live、\nまもなくオフライン対応か",
-          "body": "APK解析で、GoogleがGemini Liveのオフラインモードを開発中と判明した。",
-          "mini_headline": "Gemini Liveがオフラインへ",
+          "headline": "ChatGPT、次は\nGoogle Health",
+          "body": "APK解析で、ChatGPTのGoogle Health過去データ読み取り対応が判明した。",
+          "mini_headline": "ChatGPTがGoogle Healthに注目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Android Authorityの解析により、Gemini Liveにオフラインモードが加わる可能性が明らかになった。Android版Googleアプリ(v17.71.17)を解析したところ、\"Offline mode\"と\"Use Gemini Live without an internet connection.\"という二つの文字列が見つかった。\"ui_account\"という文字列名から、この選択肢はGeminiのアカウント切り替えメニューに表示される可能性がある。"
+                "x": "ChatGPT HealthはすでにUSのiOSとAndroidの両方で広く提供されているが、iPhoneユーザーがすでにApple Healthと連携できるのに対し、AndroidユーザーはまだGoogle Healthと連携できない。この状況は間もなく変わるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "どのように機能するのかは明らかではない。Gemini Liveは高速で途切れない音声認識、極めて速い会話応答、音声合成に依存しており、Android Authorityはオフラインモードがクラウド版より遅く、精度も劣る可能性があると推測している。このローカル専用モードでカメラや画面共有が使えるかどうかも不明だ。"
+                "x": "Android AuthorityはAndroid版ChatGPTアプリ(v1.2026.300)を解析し、複数のAndroid Health Connect権限への対応を追加するコードを発見した。最も重要なのは、アプリがGoogle Healthから過去の健康データを読み取れるようになる可能性がある点で、「READ_HEALTH_DATA_IN_BACKGROUND」権限は、ユーザーが明示的にアプリを開かなくても健康データにアクセスできる可能性を示唆している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "オフライン版Gemini Liveは、本格的なGeminiチャットボットにはアクセスできない可能性が高い。スマートフォンには大きすぎるRAMと計算量が必要になるためだ。ただし最近のAndroidスマートフォンの多くはARCoreサービスとともにオンデバイスのGemini Nanoモデルを動かしているため、理論上はGemini Nanoに切り替えることで、それほど複雑でないタスクを処理できる可能性がある。"
+                "x": "ほかの権限には、体重、基礎代謝率、体脂肪、除脂肪体重、骨量のほか、月経、性行為、排卵といった生殖に関する健康データが含まれる。Health Connectの権限説明画面と権限使用インターフェース用に二つの新しいアクティビティが追加されており、作業はかなり進んでいるとみられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleは今月初めにGemini LiveへGuided Visionを、9月にはライブ翻訳を追加した。APK解析は開発途中のコードに基づくものであり、予測された機能が一般公開版に搭載されない場合もある。"
+                "x": "OpenAIは、ユーザーがAIに健康情報の分析や洞察、助言を任せることを望んでいる。これらの権限はまだ有効になっておらず、AndroidユーザーへのGoogle Health対応もまだ始まっていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini Live或将\n无需联网即可使用",
-          "body": "APK拆解显示，Google正为Gemini Live开发完全在设备端运行的离线模式。",
-          "mini_headline": "Gemini Live走向离线",
+          "headline": "ChatGPT瞄准\nGoogle Health",
+          "body": "APK拆解显示，ChatGPT正准备读取含历史记录的Google Health数据。",
+          "mini_headline": "ChatGPT瞄准Google Health数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Android Authority的一次拆解显示，Gemini Live可能会获得离线模式。对Android版Google应用（v17.71.17）的拆解发现了两条字符串：\"Offline mode\"和\"Use Gemini Live without an internet connection.\"。字符串名称\"ui_account\"表明，该选项可能出现在Gemini的账户切换菜单中。"
+                "x": "ChatGPT Health现已在US的iOS和Android平台广泛上线，但iPhone用户已经可以将其连接到Apple Health，Android用户却仍无法使用Google Health集成。这一情况可能很快就会改变。"
               },
               {
                 "t": "p",
-                "x": "目前尚不清楚其工作方式。Gemini Live依赖快速、连续的语音识别、极快的对话响应以及语音合成，Android Authority推测离线模式可能比云端模式更慢、准确度更低。同样不清楚的是，这一纯本地模式是否支持摄像头和屏幕共享。"
+                "x": "Android Authority在深入分析Android版ChatGPT应用（v1.2026.300）时，发现了为多项Android Health Connect权限添加支持的代码。最重要的是，该应用可能支持从Google Health读取历史健康数据，而“READ_HEALTH_DATA_IN_BACKGROUND”权限则表明，它可能在用户未主动打开应用的情况下访问健康数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "离线版Gemini Live可能无法使用完整的Gemini聊天机器人，因为后者所需的RAM和算力对智能手机来说过于庞大。不过，许多新款Android手机都在运行端侧Gemini Nano模型以及ARCore服务，因此离线模式理论上可以借助Gemini Nano处理不太复杂的任务。"
+                "x": "其他权限包括体重、基础代谢率、体脂、瘦肌肉量、骨量，以及月经、性活动和排卵等生殖健康数据。用于Health Connect权限说明和权限使用界面的两个新界面活动表明，相关工作已进展顺利。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Google本月初为Gemini Live加入了Guided Vision，并于9月加入了实时翻译。APK拆解基于仍在开发中的代码，预测的功能未必会出现在公开版本中。"
+                "x": "OpenAI希望用户依靠AI分析自己的健康信息，并提供见解和建议。这些权限尚未上线，面向Android用户的Google Health支持也尚未推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Live pronto podría\nfuncionar sin internet",
-          "body": "Un análisis del APK muestra que Google prepara un modo sin conexión para ejecutar Gemini Live en el dispositivo.",
-          "mini_headline": "Gemini Live, sin conexión",
+          "headline": "ChatGPT en Android pronto podría\nleer tus datos de Google Health",
+          "body": "Un análisis del APK revela que ChatGPT prepara la lectura del historial de Google Health para dar consejos a medida.",
+          "mini_headline": "ChatGPT apunta a Google Health",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Un análisis de Android Authority ha revelado que Gemini Live podría recibir un modo sin conexión. El análisis de la app de Google para Android (v17.71.17) encontró dos cadenas: \"Offline mode\" y \"Use Gemini Live without an internet connection.\" El nombre de la cadena \"ui_account\" sugiere que la opción podría aparecer en el menú de cambio de cuenta de Gemini."
+                "x": "ChatGPT Health ya está ampliamente disponible en Estados Unidos (US) tanto en iOS como en Android, pero los usuarios de Android aún no cuentan con integración con Google Health, mientras que los de iPhone ya pueden conectarlo a Apple Health. Eso podría cambiar pronto."
               },
               {
                 "t": "p",
-                "x": "No está claro cómo funcionará. Gemini Live depende de un reconocimiento de voz rápido y continuo, respuestas conversacionales muy veloces y síntesis de voz, y Android Authority supone que un modo sin conexión podría ser más lento y menos preciso que el basado en la nube. Tampoco está claro si la cámara y el uso compartido de pantalla estarán disponibles en este modo exclusivamente local."
+                "x": "Al analizar a fondo la app de ChatGPT para Android (v1.2026.300), Android Authority encontró código para añadir compatibilidad con varios permisos de Android Health Connect. Lo más importante es que la app podría admitir la lectura de datos de salud históricos desde Google Health, y el permiso “READ_HEALTH_DATA_IN_BACKGROUND” sugiere que podría acceder a datos de salud sin que el usuario la abra de forma explícita."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Es probable que Gemini Live sin conexión no tenga acceso al chatbot Gemini completo, que requeriría demasiada RAM y capacidad de cálculo para un teléfono. Sin embargo, muchos teléfonos Android modernos ejecutan el modelo Gemini Nano en el dispositivo junto con el servicio ARCore, por lo que, en teoría, el modo sin conexión podría resolver tareas menos complejas recurriendo a Gemini Nano."
+                "x": "Otros permisos incluyen peso corporal, tasa metabólica basal, grasa corporal, masa muscular magra, masa ósea y datos de salud reproductiva como menstruación, actividad sexual y ovulación. Dos nuevas actividades para las interfaces de justificación de Health Connect y de uso de permisos sugieren que el trabajo está muy avanzado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Google añadió Guided Vision a Gemini Live a principios de este mes y la traducción en directo en septiembre. Un análisis de APK se basa en código en desarrollo, y las funciones previstas podrían no llegar a una versión pública."
+                "x": "OpenAI quiere que los usuarios confíen en la AI para analizar su información de salud y ofrecer ideas y consejos. Estos permisos aún no están activos, y la compatibilidad con Google Health tampoco está disponible todavía para los usuarios de Android."
               }
             ]
           }
@@ -521,125 +553,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini Live,\n인터넷 없이 쓸 수도",
-          "body": "APK 분석 결과 Google은 Gemini Live 오프라인 모드를 만들고 있다.",
-          "mini_headline": "오프라인 Gemini Live",
+          "headline": "Google Health\n데이터 읽는 ChatGPT",
+          "body": "APK 분석상 ChatGPT가 Google Health 과거 기록을 읽으려 한다.",
+          "mini_headline": "Google Health 노리는 ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Android Authority의 분석에 따르면 Gemini Live에 오프라인 모드가 생길 수 있다. Android용 Google 앱(v17.71.17)을 분석한 결과 \"Offline mode\"와 \"Use Gemini Live without an internet connection.\"이라는 두 문자열이 발견됐다. 문자열 이름 \"ui_account\"로 보아 이 옵션은 Gemini의 계정 전환 메뉴에 들어갈 가능성이 있다."
+                "x": "ChatGPT Health는 현재 US에서 iOS와 Android 모두 폭넓게 쓸 수 있지만, iPhone 사용자가 이미 Apple Health와 연결할 수 있는 것과 달리 Android 사용자는 아직 Google Health 연동을 쓰지 못한다. 이 상황은 곧 바뀔 수 있다."
               },
               {
                 "t": "p",
-                "x": "어떤 방식으로 작동할지는 분명하지 않다. Gemini Live는 빠르고 연속적인 음성 인식과 매우 빠른 대화 응답, 음성 합성에 의존하며, Android Authority는 오프라인 모드가 클라우드 기반 모드보다 느리고 정확도가 떨어질 수 있다고 추정한다. 이 로컬 전용 모드에서 카메라와 화면 공유를 쓸 수 있을지도 불분명하다."
+                "x": "Android Authority는 Android용 ChatGPT 앱(v1.2026.300)을 분석하다가 여러 Android Health Connect 권한 지원을 추가하는 코드를 발견했다. 가장 중요한 점은 앱이 Google Health의 과거 건강 데이터 읽기를 지원할 수 있다는 것이며, “READ_HEALTH_DATA_IN_BACKGROUND” 권한은 사용자가 앱을 직접 열지 않아도 건강 데이터에 접근할 수 있음을 시사한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "오프라인 Gemini Live는 완전한 Gemini 챗봇을 쓰지 못할 가능성이 크다. 스마트폰이 감당하기에는 RAM과 연산량이 지나치게 많이 필요하기 때문이다. 하지만 최신 Android 폰 상당수가 ARCore 서비스와 함께 온디바이스 Gemini Nano 모델을 구동하므로, 오프라인 모드는 이론상 Gemini Nano로 대체해 덜 복잡한 작업을 처리할 수 있다."
+                "x": "그 밖의 권한에는 체중, 기초대사량, 체지방, 제지방량, 골량, 그리고 월경·성생활·배란 같은 생식 건강 데이터가 포함된다. Health Connect 권한 설명 화면과 권한 사용 인터페이스를 위한 새 액티비티 두 개도 추가돼, 작업이 상당히 진척됐음을 짐작할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Google은 이달 초 Gemini Live에 Guided Vision을, 9월에는 실시간 번역을 추가했다. APK 분석은 개발 중인 코드를 바탕으로 하므로, 예측된 기능이 정식 출시에 포함되지 않을 수도 있다."
+                "x": "OpenAI는 사용자가 AI에 건강 정보 분석과 인사이트, 조언을 맡기기를 바란다. 이 권한들은 아직 적용되지 않았으며, Android 사용자용 Google Health 지원도 아직 시작되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini Live、\nまもなくオフライン対応か",
-          "body": "APK解析で、GoogleがGemini Liveのオフラインモードを開発中と判明した。",
-          "mini_headline": "Gemini Liveがオフラインへ",
+          "headline": "ChatGPT、次は\nGoogle Health",
+          "body": "APK解析で、ChatGPTのGoogle Health過去データ読み取り対応が判明した。",
+          "mini_headline": "ChatGPTがGoogle Healthに注目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Android Authorityの解析により、Gemini Liveにオフラインモードが加わる可能性が明らかになった。Android版Googleアプリ(v17.71.17)を解析したところ、\"Offline mode\"と\"Use Gemini Live without an internet connection.\"という二つの文字列が見つかった。\"ui_account\"という文字列名から、この選択肢はGeminiのアカウント切り替えメニューに表示される可能性がある。"
+                "x": "ChatGPT HealthはすでにUSのiOSとAndroidの両方で広く提供されているが、iPhoneユーザーがすでにApple Healthと連携できるのに対し、AndroidユーザーはまだGoogle Healthと連携できない。この状況は間もなく変わるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "どのように機能するのかは明らかではない。Gemini Liveは高速で途切れない音声認識、極めて速い会話応答、音声合成に依存しており、Android Authorityはオフラインモードがクラウド版より遅く、精度も劣る可能性があると推測している。このローカル専用モードでカメラや画面共有が使えるかどうかも不明だ。"
+                "x": "Android AuthorityはAndroid版ChatGPTアプリ(v1.2026.300)を解析し、複数のAndroid Health Connect権限への対応を追加するコードを発見した。最も重要なのは、アプリがGoogle Healthから過去の健康データを読み取れるようになる可能性がある点で、「READ_HEALTH_DATA_IN_BACKGROUND」権限は、ユーザーが明示的にアプリを開かなくても健康データにアクセスできる可能性を示唆している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "オフライン版Gemini Liveは、本格的なGeminiチャットボットにはアクセスできない可能性が高い。スマートフォンには大きすぎるRAMと計算量が必要になるためだ。ただし最近のAndroidスマートフォンの多くはARCoreサービスとともにオンデバイスのGemini Nanoモデルを動かしているため、理論上はGemini Nanoに切り替えることで、それほど複雑でないタスクを処理できる可能性がある。"
+                "x": "ほかの権限には、体重、基礎代謝率、体脂肪、除脂肪体重、骨量のほか、月経、性行為、排卵といった生殖に関する健康データが含まれる。Health Connectの権限説明画面と権限使用インターフェース用に二つの新しいアクティビティが追加されており、作業はかなり進んでいるとみられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleは今月初めにGemini LiveへGuided Visionを、9月にはライブ翻訳を追加した。APK解析は開発途中のコードに基づくものであり、予測された機能が一般公開版に搭載されない場合もある。"
+                "x": "OpenAIは、ユーザーがAIに健康情報の分析や洞察、助言を任せることを望んでいる。これらの権限はまだ有効になっておらず、AndroidユーザーへのGoogle Health対応もまだ始まっていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini Live或将\n无需联网即可使用",
-          "body": "APK拆解显示，Google正为Gemini Live开发完全在设备端运行的离线模式。",
-          "mini_headline": "Gemini Live走向离线",
+          "headline": "ChatGPT瞄准\nGoogle Health",
+          "body": "APK拆解显示，ChatGPT正准备读取含历史记录的Google Health数据。",
+          "mini_headline": "ChatGPT瞄准Google Health数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Android Authority的一次拆解显示，Gemini Live可能会获得离线模式。对Android版Google应用（v17.71.17）的拆解发现了两条字符串：\"Offline mode\"和\"Use Gemini Live without an internet connection.\"。字符串名称\"ui_account\"表明，该选项可能出现在Gemini的账户切换菜单中。"
+                "x": "ChatGPT Health现已在US的iOS和Android平台广泛上线，但iPhone用户已经可以将其连接到Apple Health，Android用户却仍无法使用Google Health集成。这一情况可能很快就会改变。"
               },
               {
                 "t": "p",
-                "x": "目前尚不清楚其工作方式。Gemini Live依赖快速、连续的语音识别、极快的对话响应以及语音合成，Android Authority推测离线模式可能比云端模式更慢、准确度更低。同样不清楚的是，这一纯本地模式是否支持摄像头和屏幕共享。"
+                "x": "Android Authority在深入分析Android版ChatGPT应用（v1.2026.300）时，发现了为多项Android Health Connect权限添加支持的代码。最重要的是，该应用可能支持从Google Health读取历史健康数据，而“READ_HEALTH_DATA_IN_BACKGROUND”权限则表明，它可能在用户未主动打开应用的情况下访问健康数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "离线版Gemini Live可能无法使用完整的Gemini聊天机器人，因为后者所需的RAM和算力对智能手机来说过于庞大。不过，许多新款Android手机都在运行端侧Gemini Nano模型以及ARCore服务，因此离线模式理论上可以借助Gemini Nano处理不太复杂的任务。"
+                "x": "其他权限包括体重、基础代谢率、体脂、瘦肌肉量、骨量，以及月经、性活动和排卵等生殖健康数据。用于Health Connect权限说明和权限使用界面的两个新界面活动表明，相关工作已进展顺利。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Google本月初为Gemini Live加入了Guided Vision，并于9月加入了实时翻译。APK拆解基于仍在开发中的代码，预测的功能未必会出现在公开版本中。"
+                "x": "OpenAI希望用户依靠AI分析自己的健康信息，并提供见解和建议。这些权限尚未上线，面向Android用户的Google Health支持也尚未推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Live pronto podría\nfuncionar sin internet",
-          "body": "Un análisis del APK muestra que Google prepara un modo sin conexión para ejecutar Gemini Live en el dispositivo.",
-          "mini_headline": "Gemini Live, sin conexión",
+          "headline": "ChatGPT en Android pronto podría\nleer tus datos de Google Health",
+          "body": "Un análisis del APK revela que ChatGPT prepara la lectura del historial de Google Health para dar consejos a medida.",
+          "mini_headline": "ChatGPT apunta a Google Health",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-                "cap": "Tushar Mehta / Android Authority"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
               },
               {
                 "t": "p",
-                "x": "Un análisis de Android Authority ha revelado que Gemini Live podría recibir un modo sin conexión. El análisis de la app de Google para Android (v17.71.17) encontró dos cadenas: \"Offline mode\" y \"Use Gemini Live without an internet connection.\" El nombre de la cadena \"ui_account\" sugiere que la opción podría aparecer en el menú de cambio de cuenta de Gemini."
+                "x": "ChatGPT Health ya está ampliamente disponible en Estados Unidos (US) tanto en iOS como en Android, pero los usuarios de Android aún no cuentan con integración con Google Health, mientras que los de iPhone ya pueden conectarlo a Apple Health. Eso podría cambiar pronto."
               },
               {
                 "t": "p",
-                "x": "No está claro cómo funcionará. Gemini Live depende de un reconocimiento de voz rápido y continuo, respuestas conversacionales muy veloces y síntesis de voz, y Android Authority supone que un modo sin conexión podría ser más lento y menos preciso que el basado en la nube. Tampoco está claro si la cámara y el uso compartido de pantalla estarán disponibles en este modo exclusivamente local."
+                "x": "Al analizar a fondo la app de ChatGPT para Android (v1.2026.300), Android Authority encontró código para añadir compatibilidad con varios permisos de Android Health Connect. Lo más importante es que la app podría admitir la lectura de datos de salud históricos desde Google Health, y el permiso “READ_HEALTH_DATA_IN_BACKGROUND” sugiere que podría acceder a datos de salud sin que el usuario la abra de forma explícita."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Es probable que Gemini Live sin conexión no tenga acceso al chatbot Gemini completo, que requeriría demasiada RAM y capacidad de cálculo para un teléfono. Sin embargo, muchos teléfonos Android modernos ejecutan el modelo Gemini Nano en el dispositivo junto con el servicio ARCore, por lo que, en teoría, el modo sin conexión podría resolver tareas menos complejas recurriendo a Gemini Nano."
+                "x": "Otros permisos incluyen peso corporal, tasa metabólica basal, grasa corporal, masa muscular magra, masa ósea y datos de salud reproductiva como menstruación, actividad sexual y ovulación. Dos nuevas actividades para las interfaces de justificación de Health Connect y de uso de permisos sugieren que el trabajo está muy avanzado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
               },
               {
                 "t": "p",
-                "x": "Google añadió Guided Vision a Gemini Live a principios de este mes y la traducción en directo en septiembre. Un análisis de APK se basa en código en desarrollo, y las funciones previstas podrían no llegar a una versión pública."
+                "x": "OpenAI quiere que los usuarios confíen en la AI para analizar su información de salud y ofrecer ideas y consejos. Estos permisos aún no están activos, y la compatibilidad con Google Health tampoco está disponible todavía para los usuarios de Android."
               }
             ]
           }
@@ -647,477 +707,15 @@
       }
     },
     {
-      "id": "logitech-mx-master4-devedition",
+      "id": "gemini-kids-daily-time-limits",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MX Master 4에\nAI 개발자판 등장",
-      "body": "Logitech 개발자판은 단축키로 Tencent WorkBuddy AI를 부른다.",
-      "mini_headline": "AI 만난 MX Master 4",
+      "headline": "Google, 아이용\nGemini에 하루 타이머",
+      "body": "Google이 아이용 Gemini 하루 제한으로 부모의 AI 관리를 도우려 한다.",
+      "mini_headline": "아이용 Gemini 하루 제한",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-            "cap": "MX Master 4 Developer Edition은 노란색 포인트에 프로그래밍에서 따온 디테일을 더한 투톤 마감이다"
-          },
-          {
-            "t": "p",
-            "x": "Logitech이 10월 30일과 31일 상하이 Creative Day 행사에서 MX Master 4 Developer Edition을 공개했다. 20년 넘는 MX 시리즈 역사에서 처음 나온 스페셜 에디션이라는 게 회사 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "밝은 회색과 은색 마감에 짙은 회색 팜레스트, 선명한 초록색 포인트를 입혔다. 표면에는 프로그래밍 관련 문구와 문법 프롬프트, 회로를 본뜬 패턴을 새겼다. 하드웨어를 바꾼 게 아니라 개발자에게 바치는 헌사로 만든 디자인이다. Logitech은 앞서 같은 개발자 테마 마우스를 US 웹사이트에 MX Master 4 Special Edition이라는 이름으로 올렸다."
-          },
-          {
-            "t": "p",
-            "x": "Developer Edition은 MagSpeed 스크롤 휠, Haptic Sense Panel, Actions Ring 등 기본 MX Master 4 기능을 그대로 갖췄다."
-          },
-          {
-            "t": "p",
-            "x": "Logitech은 Logi Options+ 앱 플러그인으로 이 AI 비서를 지원한다. 사용자는 호환 기기의 단축키에 회의 요약, 실시간 번역, 문서 생성 같은 WorkBuddy 기능을 할당할 수 있다. 플러그인은 Windows와 macOS에서 돌아간다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-            "cap": "사용 중인 Logitech MX Master 4 Developer Edition"
-          },
-          {
-            "t": "p",
-            "x": "Logitech MX Master 4 Developer Edition의 중국 공식 가격은 999위안(약 $150)이다. MX Master 4 Special Edition은 US에서 $119.99에 팔린다. JD.com에서는 중국 정부 보조금을 적용해 중국판을 899위안(약 $135)에 판다. 구매하면 Tencent WorkBuddy 포인트 500점도 준다. WorkBuddy 프로모션을 다른 시장에서도 할지는 Logitech이 확인하지 않았다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-            "cap": "바닥면"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Logitech's MX Master 4 gets\nan AI developer edition",
-          "body": "Logitech's MX Master 4 Developer Edition lets users assign its shortcuts to Tencent's WorkBuddy AI assistant.",
-          "mini_headline": "MX Master 4 meets AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "The MX Master 4 Developer Edition has a two-tone finish with yellow accents and programming-inspired details"
-              },
-              {
-                "t": "p",
-                "x": "Logitech has introduced the MX Master 4 Developer Edition at its Creative Day event in Shanghai, held on October 30 and 31. The company describes it as the first special edition in the MX series' more than 20-year history."
-              },
-              {
-                "t": "p",
-                "x": "The special edition has a light gray and silver finish, a dark gray palm rest and bright green accents. Its surface features programming references, syntax prompts and circuit-inspired patterns. The design is intended as a tribute to developers rather than a hardware refresh. Logitech had previously listed the same developer-themed mouse on its US website as the MX Master 4 Special Edition."
-              },
-              {
-                "t": "p",
-                "x": "The Developer Edition retains the standard MX Master 4 features, including its MagSpeed scroll wheel, Haptic Sense Panel and Actions Ring."
-              },
-              {
-                "t": "p",
-                "x": "Logitech supports the AI assistant through a plugin in its Logi Options+ application, allowing users to assign compatible device shortcuts to WorkBuddy functions. These include meeting summaries, real-time translation and document generation. The plugin supports Windows and macOS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "Logitech MX Master 4 Developer Edition in use"
-              },
-              {
-                "t": "p",
-                "x": "The Logitech MX Master 4 Developer Edition has an official Chinese price of 999 yuan (approximately $150), while the MX Master 4 Special Edition is listed for $119.99 in the US. JD.com offers the Chinese version for 899 yuan (approximately $135) after China's national subsidy. The purchase also includes 500 Tencent WorkBuddy points. Logitech has not confirmed whether the WorkBuddy promotion will be available in other markets."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "Bottom view"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MX Master 4에\nAI 개발자판 등장",
-          "body": "Logitech 개발자판은 단축키로 Tencent WorkBuddy AI를 부른다.",
-          "mini_headline": "AI 만난 MX Master 4",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "MX Master 4 Developer Edition은 노란색 포인트에 프로그래밍에서 따온 디테일을 더한 투톤 마감이다"
-              },
-              {
-                "t": "p",
-                "x": "Logitech이 10월 30일과 31일 상하이 Creative Day 행사에서 MX Master 4 Developer Edition을 공개했다. 20년 넘는 MX 시리즈 역사에서 처음 나온 스페셜 에디션이라는 게 회사 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "밝은 회색과 은색 마감에 짙은 회색 팜레스트, 선명한 초록색 포인트를 입혔다. 표면에는 프로그래밍 관련 문구와 문법 프롬프트, 회로를 본뜬 패턴을 새겼다. 하드웨어를 바꾼 게 아니라 개발자에게 바치는 헌사로 만든 디자인이다. Logitech은 앞서 같은 개발자 테마 마우스를 US 웹사이트에 MX Master 4 Special Edition이라는 이름으로 올렸다."
-              },
-              {
-                "t": "p",
-                "x": "Developer Edition은 MagSpeed 스크롤 휠, Haptic Sense Panel, Actions Ring 등 기본 MX Master 4 기능을 그대로 갖췄다."
-              },
-              {
-                "t": "p",
-                "x": "Logitech은 Logi Options+ 앱 플러그인으로 이 AI 비서를 지원한다. 사용자는 호환 기기의 단축키에 회의 요약, 실시간 번역, 문서 생성 같은 WorkBuddy 기능을 할당할 수 있다. 플러그인은 Windows와 macOS에서 돌아간다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "사용 중인 Logitech MX Master 4 Developer Edition"
-              },
-              {
-                "t": "p",
-                "x": "Logitech MX Master 4 Developer Edition의 중국 공식 가격은 999위안(약 $150)이다. MX Master 4 Special Edition은 US에서 $119.99에 팔린다. JD.com에서는 중국 정부 보조금을 적용해 중국판을 899위안(약 $135)에 판다. 구매하면 Tencent WorkBuddy 포인트 500점도 준다. WorkBuddy 프로모션을 다른 시장에서도 할지는 Logitech이 확인하지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "바닥면"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MX Master 4に\nAI開発者版が登場",
-          "body": "Logitech開発者版は、キーにTencent WorkBuddy AIを割り当てられる。",
-          "mini_headline": "MX Master 4がAIと出会う",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "MX Master 4 Developer Editionは、黄色のアクセントとプログラミングに着想を得たディテールを備えたツートン仕上げだ"
-              },
-              {
-                "t": "p",
-                "x": "Logitechは、10月30日と31日に上海で開催したCreative Dayイベントで、MX Master 4 Developer Editionを発表した。同社はこれを、20年以上にわたるMXシリーズの歴史で初の特別版と位置づけている。"
-              },
-              {
-                "t": "p",
-                "x": "この特別版は、ライトグレーとシルバーの仕上げ、ダークグレーのパームレスト、鮮やかなグリーンのアクセントを備える。表面にはプログラミングにちなんだ記述や構文プロンプト、回路をモチーフにしたパターンが施されている。ハードウェアの刷新ではなく、開発者へのオマージュとしてのデザインだ。Logitechは以前、同じ開発者テーマのマウスをUSのウェブサイトでMX Master 4 Special Editionとして掲載していた。"
-              },
-              {
-                "t": "p",
-                "x": "Developer Editionは、MagSpeedスクロールホイール、Haptic Sense Panel、Actions Ringなど、標準のMX Master 4の機能をそのまま受け継いでいる。"
-              },
-              {
-                "t": "p",
-                "x": "LogitechはLogi Options+アプリのプラグインを通じてこのAIアシスタントに対応し、ユーザーは対応デバイスのショートカットをWorkBuddyの機能に割り当てられる。会議の要約、リアルタイム翻訳、文書作成などが含まれる。プラグインはWindowsとmacOSに対応する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "使用中のLogitech MX Master 4 Developer Edition"
-              },
-              {
-                "t": "p",
-                "x": "Logitech MX Master 4 Developer Editionの中国での公式価格は999元(約$150)で、MX Master 4 Special EditionはUSで$119.99で販売されている。JD.comでは中国の国家補助金適用後、中国版を899元(約$135)で販売している。購入時にはTencent WorkBuddyのポイント500も付与される。LogitechはWorkBuddyのプロモーションが他の市場でも実施されるかどうかを明らかにしていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "底面"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MX Master 4\n推出AI开发者版",
-          "body": "Logitech开发者版可将快捷键分配给Tencent的WorkBuddy AI助手。",
-          "mini_headline": "MX Master 4牵手AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "MX Master 4 Developer Edition采用双色外观，配有黄色点缀和受编程启发的细节"
-              },
-              {
-                "t": "p",
-                "x": "Logitech在10月30日至31日于上海举行的Creative Day活动上推出了MX Master 4 Developer Edition。该公司称，这是MX系列20多年历史上的首款特别版。"
-              },
-              {
-                "t": "p",
-                "x": "该特别版采用浅灰与银色外观，搭配深灰色掌托和亮绿色点缀。表面饰有编程相关元素、语法提示和受电路启发的图案。这一设计旨在向开发者致敬，而非硬件升级。Logitech此前曾在其US官网上以MX Master 4 Special Edition的名称列出了同一款开发者主题鼠标。"
-              },
-              {
-                "t": "p",
-                "x": "Developer Edition保留了标准版MX Master 4的功能，包括MagSpeed滚轮、Haptic Sense Panel和Actions Ring。"
-              },
-              {
-                "t": "p",
-                "x": "Logitech通过Logi Options+应用中的插件支持这款AI助手，用户可将兼容设备的快捷键分配给WorkBuddy功能，包括会议摘要、实时翻译和文档生成。该插件支持Windows和macOS。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "使用中的Logitech MX Master 4 Developer Edition"
-              },
-              {
-                "t": "p",
-                "x": "Logitech MX Master 4 Developer Edition的中国官方售价为999元（约$150），而MX Master 4 Special Edition在US的标价为$119.99。JD.com在叠加中国国家补贴后以899元（约$135）的价格销售中国版。购买还附赠500个Tencent WorkBuddy积分。Logitech尚未确认WorkBuddy促销活动是否会在其他市场推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "底部视图"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Logitech presenta el MX Master 4\nDeveloper Edition con AI",
-          "body": "El MX Master 4 Developer Edition de Logitech permite asignar sus atajos al asistente WorkBuddy AI de Tencent.",
-          "mini_headline": "MX Master 4 con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "El MX Master 4 Developer Edition tiene un acabado bicolor con detalles amarillos y elementos inspirados en la programación"
-              },
-              {
-                "t": "p",
-                "x": "Logitech presentó el MX Master 4 Developer Edition en su evento Creative Day en Shanghái, celebrado el 30 y el 31 de octubre. La compañía lo describe como la primera edición especial en los más de 20 años de historia de la serie MX."
-              },
-              {
-                "t": "p",
-                "x": "La edición especial tiene un acabado gris claro y plateado, un reposamanos gris oscuro y detalles en verde brillante. Su superficie incluye referencias a la programación, indicaciones de sintaxis y patrones inspirados en circuitos. El diseño pretende ser un homenaje a los desarrolladores más que una renovación del hardware. Logitech ya había publicado el mismo ratón de temática para desarrolladores en su sitio web de Estados Unidos (US) como MX Master 4 Special Edition."
-              },
-              {
-                "t": "p",
-                "x": "La Developer Edition conserva las funciones del MX Master 4 estándar, como la rueda de desplazamiento MagSpeed, el Haptic Sense Panel y el Actions Ring."
-              },
-              {
-                "t": "p",
-                "x": "Logitech da soporte al asistente de AI mediante un plugin en su aplicación Logi Options+, que permite asignar atajos de los dispositivos compatibles a funciones de WorkBuddy. Entre ellas figuran los resúmenes de reuniones, la traducción en tiempo real y la generación de documentos. El plugin es compatible con Windows y macOS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "El Logitech MX Master 4 Developer Edition en uso"
-              },
-              {
-                "t": "p",
-                "x": "El Logitech MX Master 4 Developer Edition tiene un precio oficial en China de 999 yuanes (unos $150), mientras que el MX Master 4 Special Edition figura a $119.99 en Estados Unidos (US). JD.com ofrece la versión china por 899 yuanes (unos $135) tras aplicar el subsidio nacional de China. La compra incluye además 500 puntos de Tencent WorkBuddy. Logitech no ha confirmado si la promoción de WorkBuddy estará disponible en otros mercados."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "Vista inferior"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "MX Master 4에\nAI 개발자판 등장",
-          "body": "Logitech 개발자판은 단축키로 Tencent WorkBuddy AI를 부른다.",
-          "mini_headline": "AI 만난 MX Master 4",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "MX Master 4 Developer Edition은 노란색 포인트와 프로그래밍에서 영감을 받은 디테일을 더한 투톤 마감이다"
-              },
-              {
-                "t": "p",
-                "x": "Logitech이 10월 30일과 31일 상하이에서 열린 Creative Day 행사에서 MX Master 4 Developer Edition을 공개했다. 회사는 이 제품을 20년이 넘는 MX 시리즈 역사상 첫 스페셜 에디션이라고 설명한다."
-              },
-              {
-                "t": "p",
-                "x": "이 스페셜 에디션은 밝은 회색과 은색 마감, 짙은 회색 팜레스트, 선명한 초록색 포인트를 갖췄다. 표면에는 프로그래밍 관련 문구, 문법 프롬프트, 회로에서 착안한 패턴이 새겨졌다. 하드웨어 개선이 아니라 개발자에게 바치는 헌사로 기획한 디자인이다. Logitech은 앞서 같은 개발자 테마 마우스를 US 웹사이트에 MX Master 4 Special Edition이라는 이름으로 올린 바 있다."
-              },
-              {
-                "t": "p",
-                "x": "Developer Edition은 MagSpeed 스크롤 휠, Haptic Sense Panel, Actions Ring 등 기본 MX Master 4의 기능을 그대로 유지한다."
-              },
-              {
-                "t": "p",
-                "x": "Logitech은 Logi Options+ 앱의 플러그인으로 이 AI 비서를 지원하며, 사용자는 호환 기기의 단축키를 WorkBuddy 기능에 할당할 수 있다. 회의 요약, 실시간 번역, 문서 생성 등이 여기에 포함된다. 플러그인은 Windows와 macOS를 지원한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "사용 중인 Logitech MX Master 4 Developer Edition"
-              },
-              {
-                "t": "p",
-                "x": "Logitech MX Master 4 Developer Edition의 중국 공식 가격은 999위안(약 $150)이고, MX Master 4 Special Edition은 US에서 $119.99에 판매된다. JD.com은 중국 정부 보조금을 적용해 중국판을 899위안(약 $135)에 판매한다. 구매 시 Tencent WorkBuddy 포인트 500점도 제공된다. Logitech은 WorkBuddy 프로모션을 다른 시장에서도 진행할지 확인하지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "바닥면"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MX Master 4に\nAI開発者版が登場",
-          "body": "Logitech開発者版は、キーにTencent WorkBuddy AIを割り当てられる。",
-          "mini_headline": "MX Master 4がAIと出会う",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "MX Master 4 Developer Editionは、黄色のアクセントとプログラミングに着想を得たディテールを備えたツートン仕上げだ"
-              },
-              {
-                "t": "p",
-                "x": "Logitechは、10月30日と31日に上海で開催したCreative Dayイベントで、MX Master 4 Developer Editionを発表した。同社はこれを、20年以上にわたるMXシリーズの歴史で初の特別版と位置づけている。"
-              },
-              {
-                "t": "p",
-                "x": "この特別版は、ライトグレーとシルバーの仕上げ、ダークグレーのパームレスト、鮮やかなグリーンのアクセントを備える。表面にはプログラミングにちなんだ記述や構文プロンプト、回路をモチーフにしたパターンが施されている。ハードウェアの刷新ではなく、開発者へのオマージュとしてのデザインだ。Logitechは以前、同じ開発者テーマのマウスをUSのウェブサイトでMX Master 4 Special Editionとして掲載していた。"
-              },
-              {
-                "t": "p",
-                "x": "Developer Editionは、MagSpeedスクロールホイール、Haptic Sense Panel、Actions Ringなど、標準のMX Master 4の機能をそのまま受け継いでいる。"
-              },
-              {
-                "t": "p",
-                "x": "LogitechはLogi Options+アプリのプラグインを通じてこのAIアシスタントに対応し、ユーザーは対応デバイスのショートカットをWorkBuddyの機能に割り当てられる。会議の要約、リアルタイム翻訳、文書作成などが含まれる。プラグインはWindowsとmacOSに対応する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "使用中のLogitech MX Master 4 Developer Edition"
-              },
-              {
-                "t": "p",
-                "x": "Logitech MX Master 4 Developer Editionの中国での公式価格は999元(約$150)で、MX Master 4 Special EditionはUSで$119.99で販売されている。JD.comでは中国の国家補助金適用後、中国版を899元(約$135)で販売している。購入時にはTencent WorkBuddyのポイント500も付与される。LogitechはWorkBuddyのプロモーションが他の市場でも実施されるかどうかを明らかにしていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "底面"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MX Master 4\n推出AI开发者版",
-          "body": "Logitech开发者版可将快捷键分配给Tencent的WorkBuddy AI助手。",
-          "mini_headline": "MX Master 4牵手AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "MX Master 4 Developer Edition采用双色外观，配有黄色点缀和受编程启发的细节"
-              },
-              {
-                "t": "p",
-                "x": "Logitech在10月30日至31日于上海举行的Creative Day活动上推出了MX Master 4 Developer Edition。该公司称，这是MX系列20多年历史上的首款特别版。"
-              },
-              {
-                "t": "p",
-                "x": "该特别版采用浅灰与银色外观，搭配深灰色掌托和亮绿色点缀。表面饰有编程相关元素、语法提示和受电路启发的图案。这一设计旨在向开发者致敬，而非硬件升级。Logitech此前曾在其US官网上以MX Master 4 Special Edition的名称列出了同一款开发者主题鼠标。"
-              },
-              {
-                "t": "p",
-                "x": "Developer Edition保留了标准版MX Master 4的功能，包括MagSpeed滚轮、Haptic Sense Panel和Actions Ring。"
-              },
-              {
-                "t": "p",
-                "x": "Logitech通过Logi Options+应用中的插件支持这款AI助手，用户可将兼容设备的快捷键分配给WorkBuddy功能，包括会议摘要、实时翻译和文档生成。该插件支持Windows和macOS。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "使用中的Logitech MX Master 4 Developer Edition"
-              },
-              {
-                "t": "p",
-                "x": "Logitech MX Master 4 Developer Edition的中国官方售价为999元（约$150），而MX Master 4 Special Edition在US的标价为$119.99。JD.com在叠加中国国家补贴后以899元（约$135）的价格销售中国版。购买还附赠500个Tencent WorkBuddy积分。Logitech尚未确认WorkBuddy促销活动是否会在其他市场推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "底部视图"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Logitech presenta el MX Master 4\nDeveloper Edition con AI",
-          "body": "El MX Master 4 Developer Edition de Logitech permite asignar sus atajos al asistente WorkBuddy AI de Tencent.",
-          "mini_headline": "MX Master 4 con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-                "cap": "El MX Master 4 Developer Edition tiene un acabado bicolor con detalles amarillos y elementos inspirados en la programación"
-              },
-              {
-                "t": "p",
-                "x": "Logitech presentó el MX Master 4 Developer Edition en su evento Creative Day en Shanghái, celebrado el 30 y el 31 de octubre. La compañía lo describe como la primera edición especial en los más de 20 años de historia de la serie MX."
-              },
-              {
-                "t": "p",
-                "x": "La edición especial tiene un acabado gris claro y plateado, un reposamanos gris oscuro y detalles en verde brillante. Su superficie incluye referencias a la programación, indicaciones de sintaxis y patrones inspirados en circuitos. El diseño pretende ser un homenaje a los desarrolladores más que una renovación del hardware. Logitech ya había publicado el mismo ratón de temática para desarrolladores en su sitio web de Estados Unidos (US) como MX Master 4 Special Edition."
-              },
-              {
-                "t": "p",
-                "x": "La Developer Edition conserva las funciones del MX Master 4 estándar, como la rueda de desplazamiento MagSpeed, el Haptic Sense Panel y el Actions Ring."
-              },
-              {
-                "t": "p",
-                "x": "Logitech da soporte al asistente de AI mediante un plugin en su aplicación Logi Options+, que permite asignar atajos de los dispositivos compatibles a funciones de WorkBuddy. Entre ellas figuran los resúmenes de reuniones, la traducción en tiempo real y la generación de documentos. El plugin es compatible con Windows y macOS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-hands-on.png",
-                "cap": "El Logitech MX Master 4 Developer Edition en uso"
-              },
-              {
-                "t": "p",
-                "x": "El Logitech MX Master 4 Developer Edition tiene un precio oficial en China de 999 yuanes (unos $150), mientras que el MX Master 4 Special Edition figura a $119.99 en Estados Unidos (US). JD.com ofrece la versión china por 899 yuanes (unos $135) tras aplicar el subsidio nacional de China. La compra incluye además 500 puntos de Tencent WorkBuddy. Logitech no ha confirmado si la promoción de WorkBuddy estará disponible en otros mercados."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-bottom-view.png",
-                "cap": "Vista inferior"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "arrowspace-s1-ai-screwdriver",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "필요한 비트를\n알아보는 드라이버",
-      "body": "Arrowmax의 Arrowspace S1은 카메라와 AI로 맞는 비트를 골라준다.",
-      "mini_headline": "AI-eyed 스크루드라이버",
-      "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-gemini-parental-controls-daily-time-limits-3730765/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -1125,227 +723,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-            "cap": "이미지: Arrowmax"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
           },
           {
             "t": "p",
-            "x": "Arrowmax는 카메라와 AI로 전동 드라이버를 더 똑똑하게 만들려 한다. 맞는 비트의 종류와 크기를 찾느라 이것저것 끼워 보는 수고를 없애겠다는 것이다. 크기를 잘못 고르면 나사 머리가 뭉개질 수 있다."
+            "x": "부모는 지금도 Family Link로 자녀의 Gemini 접근을 허용하거나 막을 수 있다. 하지만 켜고 끄는 것 말고는 선택지가 없다. Google은 부모가 Gemini 하루 사용 한도를 정하는 기능을 개발 중인 것으로 보인다."
           },
           {
             "t": "p",
-            "x": "Arrowspace S1은 Kickstarter에서 판매 중이다. 드라이버 단품은 약 $79, S1 스마트 비트 케이스를 더한 묶음은 약 $129다. 정식 소매가는 이보다 높아질 예정이며, S1 출하는 빨라야 2027년 4월이다."
+            "x": "Android Authority는 Google 앱 17.72.13.sa.arm64 빌드에서 자녀 기기 쪽 시점으로 쓰인 새 문자열을 찾았다. 하나는 “Your parent set a daily time limit for Gemini”, 다른 하나는 “Your daily Gemini time limit changed”다."
           },
           {
             "t": "p",
-            "x": "S1 바닥에는 LED 조명이 달린 소형 카메라가 있어 나사 머리를 찍는다. 옆에서 \"정밀 접촉 프로브(precision contact probe)\"가 뻗어 나와 나사 위에 얹히는데, 덕분에 카메라는 AI 모델에 맞는 최적의 초점 거리를 늘 유지한다."
-          },
-          {
-            "t": "video",
-            "yt": "D36kpU-VaDA"
+            "x": "자녀가 주어진 시간을 다 쓰면 앱이 하루 한도와 Gemini를 다시 쓸 수 있는 시점을 알려 주고, 잠금 화면에는 Close app 버튼이 뜰 가능성이 크다. 부모가 제한을 풀면 “Your daily Gemini time limit was turned off”라는 메시지가 나온다."
           },
           {
             "t": "p",
-            "x": "AI가 사진을 처리하면 연결된 모바일 앱에 필요한 비트의 종류와 크기가 뜨고, 드라이버는 안전한 토크 설정을 알아서 고른다. 선택 사항인 S1 Smart Case에는 강철 비트 52개가 들어 있다. 비트마다 옆에 LED가 있어 필요한 비트에 불이 켜진다."
-          },
-          {
-            "t": "p",
-            "x": "600mAh 배터리로 최대 90분 동안 쓸 수 있고, 나사 900개 이상을 조이거나 풀 수 있다고 한다. OLED 화면에는 남은 배터리와 토크 설정, 회전 방향이 나온다."
+            "x": "문자열만으로는 타이머가 Gemini 앱에만 걸리는지, 오버레이나 Google Messages 같은 더 넓은 Gemini 경험까지 포함하는지 알 수 없다. 부모 쪽 화면도 아직 드러나지 않았다. 그래도 부모가 자녀의 AI 사용을 더 세밀하게 관리하는 데는 보탬이 될 듯하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A screwdriver that sees\nwhich bit you need",
-          "body": "Arrowmax's Arrowspace S1 uses a camera in its tip and an AI model to identify a screw head and suggest the right bit.",
-          "mini_headline": "An AI-eyed screwdriver",
+          "headline": "Google may put kids' Gemini\nchats on a daily timer",
+          "body": "Google is working on daily Gemini time limits for kids, giving parents more control over how long children use AI.",
+          "mini_headline": "Daily Gemini\nlimits for kids",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "Image: Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmax wants to make electric screwdrivers smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need, since choosing the wrong size could leave you with a stripped screw."
+                "x": "Parents can already use Family Link to allow or block their children's access to Gemini, but the approach is all or nothing. Google appears to be working on a feature that would let parents set daily usage limits for Gemini."
               },
               {
                 "t": "p",
-                "x": "The Arrowspace S1 is on Kickstarter: around $79 for the screwdriver by itself, or around $129 bundled with the S1 smart bit case. Full retail pricing will be higher, and the S1 isn't expected to ship until April 2027 at the earliest."
+                "x": "Android Authority spotted new strings in the Google app's version 17.72.13.sa.arm64 build, written from the perspective of the child's device. One reads, “Your parent set a daily time limit for Gemini,” and another, “Your daily Gemini time limit changed.”"
               },
               {
                 "t": "p",
-                "x": "On the bottom of the S1 is a small camera with an LED light that captures an image of a screw head. Next to it, a \"precision contact probe\" extends and rests on the screw so the camera is always at the ideal focus distance for the AI model."
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "When a child uses up the allotted time, the app will tell them about the daily limit and when they can use Gemini again, likely with a Close app button on the lockout screen. A message reading “Your daily Gemini time limit was turned off” would appear when a parent removes the restriction."
               },
               {
                 "t": "p",
-                "x": "Once the AI processes the photo, the type and size of bit you need is displayed through a connected mobile app, and the screwdriver automatically selects a safe torque setting. The optional S1 Smart Case holds 52 steel bits with an LED next to each one that lights up the one you need."
-              },
-              {
-                "t": "p",
-                "x": "A 600mAh battery is claimed to run for up to 90 minutes, or tighten or loosen over 900 screws. An OLED screen shows remaining charge, torque setting and rotation direction."
+                "x": "The strings don't say whether the timer covers only the Gemini app or the wider Gemini experience, such as the overlay and Google Messages, and the parents' side remains unclear. Still, it should give parents more granular control over their children's AI usage."
               }
             ]
           }
         },
         "ko": {
-          "headline": "필요한 비트를\n알아보는 드라이버",
-          "body": "Arrowmax의 Arrowspace S1은 카메라와 AI로 맞는 비트를 골라준다.",
-          "mini_headline": "AI-eyed 스크루드라이버",
+          "headline": "Google, 아이용\nGemini에 하루 타이머",
+          "body": "Google이 아이용 Gemini 하루 제한으로 부모의 AI 관리를 도우려 한다.",
+          "mini_headline": "아이용 Gemini 하루 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "이미지: Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmax는 카메라와 AI로 전동 드라이버를 더 똑똑하게 만들려 한다. 맞는 비트의 종류와 크기를 찾느라 이것저것 끼워 보는 수고를 없애겠다는 것이다. 크기를 잘못 고르면 나사 머리가 뭉개질 수 있다."
+                "x": "부모는 지금도 Family Link로 자녀의 Gemini 접근을 허용하거나 막을 수 있다. 하지만 켜고 끄는 것 말고는 선택지가 없다. Google은 부모가 Gemini 하루 사용 한도를 정하는 기능을 개발 중인 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "Arrowspace S1은 Kickstarter에서 판매 중이다. 드라이버 단품은 약 $79, S1 스마트 비트 케이스를 더한 묶음은 약 $129다. 정식 소매가는 이보다 높아질 예정이며, S1 출하는 빨라야 2027년 4월이다."
+                "x": "Android Authority는 Google 앱 17.72.13.sa.arm64 빌드에서 자녀 기기 쪽 시점으로 쓰인 새 문자열을 찾았다. 하나는 “Your parent set a daily time limit for Gemini”, 다른 하나는 “Your daily Gemini time limit changed”다."
               },
               {
                 "t": "p",
-                "x": "S1 바닥에는 LED 조명이 달린 소형 카메라가 있어 나사 머리를 찍는다. 옆에서 \"정밀 접촉 프로브(precision contact probe)\"가 뻗어 나와 나사 위에 얹히는데, 덕분에 카메라는 AI 모델에 맞는 최적의 초점 거리를 늘 유지한다."
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "자녀가 주어진 시간을 다 쓰면 앱이 하루 한도와 Gemini를 다시 쓸 수 있는 시점을 알려 주고, 잠금 화면에는 Close app 버튼이 뜰 가능성이 크다. 부모가 제한을 풀면 “Your daily Gemini time limit was turned off”라는 메시지가 나온다."
               },
               {
                 "t": "p",
-                "x": "AI가 사진을 처리하면 연결된 모바일 앱에 필요한 비트의 종류와 크기가 뜨고, 드라이버는 안전한 토크 설정을 알아서 고른다. 선택 사항인 S1 Smart Case에는 강철 비트 52개가 들어 있다. 비트마다 옆에 LED가 있어 필요한 비트에 불이 켜진다."
-              },
-              {
-                "t": "p",
-                "x": "600mAh 배터리로 최대 90분 동안 쓸 수 있고, 나사 900개 이상을 조이거나 풀 수 있다고 한다. OLED 화면에는 남은 배터리와 토크 설정, 회전 방향이 나온다."
+                "x": "문자열만으로는 타이머가 Gemini 앱에만 걸리는지, 오버레이나 Google Messages 같은 더 넓은 Gemini 경험까지 포함하는지 알 수 없다. 부모 쪽 화면도 아직 드러나지 않았다. 그래도 부모가 자녀의 AI 사용을 더 세밀하게 관리하는 데는 보탬이 될 듯하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "必要なビットを\n見分けるドライバー",
-          "body": "ArrowmaxのArrowspace S1はカメラとAIでネジに合うビットを提案する。",
-          "mini_headline": "AI-eyedのドライバー",
+          "headline": "Google、子どもの\nGeminiに一日タイマー",
+          "body": "Googleは子ども向けGeminiの一日利用時間制限を開発中で、親のAI管理を強化する。",
+          "mini_headline": "子ども向けGeminiに一日制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "画像: Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmaxは、カメラとAIを連携させて電動ドライバーを賢くしようとしている。必要なビットの正確な種類とサイズを探す試行錯誤をなくすのが狙いだ。サイズを間違えると、ネジ山をなめてしまう恐れがあるからだ。"
+                "x": "親はすでにFamily Linkを使って子どものGeminiへのアクセスを許可またはブロックできるが、その方法は全面許可か全面禁止かの二択だ。Googleは、親がGeminiの一日の利用上限を設定できる機能を開発しているとみられる。"
               },
               {
                 "t": "p",
-                "x": "Arrowspace S1はKickstarterで販売中で、ドライバー単体は約$79、S1スマートビットケースとのセットは約$129だ。正式な小売価格はこれより高くなる見込みで、S1の出荷は早くても2027年4月の予定だ。"
+                "x": "Android AuthorityはGoogleアプリのバージョン17.72.13.sa.arm64ビルドで、子どもの端末側の視点で書かれた新しい文字列を見つけた。一つは「Your parent set a daily time limit for Gemini」、もう一つは「Your daily Gemini time limit changed」だ。"
               },
               {
                 "t": "p",
-                "x": "S1の底面には、ネジ頭を撮影するLEDライト付きの小型カメラがある。その隣では「精密接触プローブ」(\"precision contact probe\")が伸びてネジに当たり、カメラが常にAIモデルにとって理想的な焦点距離を保てるようにする。"
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "子どもが割り当てられた時間を使い切ると、アプリは一日の上限と次にGeminiを使える時刻を知らせ、ロック画面にはClose appボタンが表示されるとみられる。親が制限を解除すると、「Your daily Gemini time limit was turned off」というメッセージが表示される。"
               },
               {
                 "t": "p",
-                "x": "AIが写真を処理すると、必要なビットの種類とサイズが連携したモバイルアプリに表示され、ドライバーは安全なトルク設定を自動で選ぶ。オプションのS1 Smart Caseには52本のスチールビットが収まり、各ビットの横にあるLEDが必要なビットを光で示す。"
-              },
-              {
-                "t": "p",
-                "x": "600mAhバッテリーは最大90分間動作し、900本以上のネジを締めたり緩めたりできるという。OLED画面には残量、トルク設定、回転方向が表示される。"
+                "x": "文字列からは、タイマーがGeminiアプリだけに適用されるのか、オーバーレイやGoogle MessagesなどGemini全般に及ぶのかは分からず、親側の画面も不明なままだ。それでも、子どものAI利用を親がより細かく管理できるようになるはずだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "能看出该用哪种\n批头的螺丝刀",
-          "body": "Arrowmax的Arrowspace S1用头部摄像头和AI模型识别螺丝头并推荐合适批头。",
-          "mini_headline": "AI-eyed 螺丝刀",
+          "headline": "Google或为儿童\nGemini设每日时限",
+          "body": "Google正为儿童开发Gemini每日使用时限，让家长更好地掌控孩子使用AI的时长。",
+          "mini_headline": "儿童Gemini每日时限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "图片：Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmax希望让摄像头与AI协同工作，使电动螺丝刀变得更智能，省去反复试错寻找所需批头准确类型和尺寸的过程，因为选错尺寸可能导致螺丝滑丝。"
+                "x": "家长已可通过Family Link允许或禁止孩子使用Gemini，但只能二选一。Google似乎正在开发一项功能，让家长为Gemini设定每日使用上限。"
               },
               {
                 "t": "p",
-                "x": "Arrowspace S1正在Kickstarter上众筹：螺丝刀单品约$79，搭配S1智能批头盒的套装约$129。正式零售价会更高，S1预计最早要到2027年4月才会发货。"
+                "x": "Android Authority在Google应用17.72.13.sa.arm64版本的构建中发现了一些新字符串，均以孩子设备的视角撰写。其中一条是“Your parent set a daily time limit for Gemini”，另一条是“Your daily Gemini time limit changed”。"
               },
               {
                 "t": "p",
-                "x": "S1底部有一个带LED灯的小型摄像头，用于拍摄螺丝头图像。旁边的\"精密接触探针\"（\"precision contact probe\"）会伸出并抵在螺丝上，使摄像头始终处于AI模型的理想对焦距离。"
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "当孩子用完分配的时间后，应用会告知每日上限以及何时能再次使用Gemini，锁定界面上可能会有一个Close app按钮。家长取消限制时，会出现一条“Your daily Gemini time limit was turned off”的消息。"
               },
               {
                 "t": "p",
-                "x": "AI处理照片后，所需批头的类型和尺寸会显示在连接的手机应用中，螺丝刀也会自动选择安全的扭矩设置。选配的S1 Smart Case可容纳52支钢制批头，每支旁边都有一个LED，会点亮所需的那一支。"
-              },
-              {
-                "t": "p",
-                "x": "据称其600mAh电池最长可工作90分钟，或拧紧、拧松900多颗螺丝。OLED屏幕会显示剩余电量、扭矩设置和旋转方向。"
+                "x": "这些字符串并未说明计时器只覆盖Gemini应用，还是涵盖悬浮窗和Google Messages等更广泛的Gemini体验，家长端的情况也仍不明朗。尽管如此，这应能让家长更精细地管理孩子的AI使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un destornillador que ve\nqué punta necesitas",
-          "body": "El Arrowspace S1 de Arrowmax usa una cámara y AI para identificar el tornillo y sugerir la punta adecuada.",
-          "mini_headline": "Un destornillador AI-eyed",
+          "headline": "Google podría poner un límite\ndiario a Gemini para niños",
+          "body": "Google trabaja en límites diarios de Gemini para niños, que darán a los padres más control sobre su uso de la AI.",
+          "mini_headline": "Límites diarios de Gemini para niños",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "Imagen: Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmax quiere hacer más inteligentes los destornilladores eléctricos añadiendo una cámara y AI que trabajan juntas para eliminar la prueba y error al buscar el tipo y tamaño exactos de punta que se necesita, ya que elegir un tamaño equivocado puede dejar la cabeza del tornillo desgastada."
+                "x": "Los padres ya pueden usar Family Link para permitir o bloquear el acceso de sus hijos a Gemini, pero es una opción de todo o nada. Google parece estar trabajando en una función que permitiría a los padres fijar límites diarios de uso para Gemini."
               },
               {
                 "t": "p",
-                "x": "El Arrowspace S1 está en Kickstarter: unos $79 por el destornillador solo, o unos $129 en un paquete con el estuche inteligente de puntas S1. El precio de venta final será más alto, y no se espera que el S1 se envíe antes de abril de 2027."
+                "x": "Android Authority detectó nuevas cadenas en la versión 17.72.13.sa.arm64 de la app de Google, redactadas desde la perspectiva del dispositivo del niño. Una dice “Your parent set a daily time limit for Gemini,” y otra, “Your daily Gemini time limit changed.”"
               },
               {
                 "t": "p",
-                "x": "En la parte inferior del S1 hay una pequeña cámara con luz LED que captura una imagen de la cabeza del tornillo. A su lado, una \"sonda de contacto de precisión\" (\"precision contact probe\") se extiende y se apoya en el tornillo para que la cámara esté siempre a la distancia de enfoque ideal para el modelo de AI."
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "Cuando un niño agote el tiempo asignado, la app le informará del límite diario y de cuándo podrá volver a usar Gemini, probablemente con un botón Close app en la pantalla de bloqueo. Un mensaje que dice “Your daily Gemini time limit was turned off” aparecería cuando un padre elimine la restricción."
               },
               {
                 "t": "p",
-                "x": "Una vez que la AI procesa la foto, el tipo y tamaño de punta necesarios aparecen en una aplicación móvil conectada, y el destornillador selecciona automáticamente un par de apriete seguro. El S1 Smart Case opcional guarda 52 puntas de acero con un LED junto a cada una que ilumina la que se necesita."
-              },
-              {
-                "t": "p",
-                "x": "Se afirma que la batería de 600mAh funciona hasta 90 minutos, o permite apretar o aflojar más de 900 tornillos. Una pantalla OLED muestra la carga restante, el ajuste de par y el sentido de giro."
+                "x": "Las cadenas no indican si el temporizador abarca solo la app de Gemini o la experiencia de Gemini en general, como la superposición y Google Messages, y la parte de los padres sigue sin estar clara. Aun así, debería dar a los padres un control más detallado sobre el uso de la AI por parte de sus hijos."
               }
             ]
           }
@@ -1353,157 +897,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "필요한 비트를\n알아보는 드라이버",
-          "body": "Arrowmax의 Arrowspace S1은 카메라와 AI로 맞는 비트를 추천한다.",
-          "mini_headline": "AI-eyed 스크루드라이버",
+          "headline": "Google, 아이용\nGemini에 하루 타이머",
+          "body": "Google이 아이용 Gemini 하루 제한으로 부모의 AI 관리를 도우려 한다.",
+          "mini_headline": "아이용 Gemini 하루 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "이미지: Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmax는 카메라와 AI를 함께 활용해 전동 드라이버를 더 똑똑하게 만들려 한다. 필요한 비트의 정확한 종류와 크기를 찾느라 이것저것 시도하는 과정을 없애겠다는 것이다. 크기를 잘못 고르면 나사 머리가 뭉개질 수 있기 때문이다."
+                "x": "부모는 이미 Family Link로 자녀의 Gemini 접근을 허용하거나 차단할 수 있지만, 전부 아니면 전무인 방식이다. Google은 부모가 Gemini 하루 사용 한도를 정할 수 있는 기능을 개발하고 있는 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "Arrowspace S1은 Kickstarter에서 판매 중이며, 드라이버 단품은 약 $79, S1 스마트 비트 케이스를 포함한 묶음은 약 $129다. 정식 소매가는 이보다 높을 예정이고, S1은 빨라야 2027년 4월에 출하될 전망이다."
+                "x": "Android Authority는 Google 앱 17.72.13.sa.arm64 빌드에서 자녀 기기 관점으로 쓰인 새 문자열을 발견했다. 하나는 “Your parent set a daily time limit for Gemini”, 다른 하나는 “Your daily Gemini time limit changed”라는 문구다."
               },
               {
                 "t": "p",
-                "x": "S1 바닥에는 나사 머리를 촬영하는, LED 조명이 달린 소형 카메라가 있다. 그 옆의 \"정밀 접촉 프로브(precision contact probe)\"가 뻗어 나와 나사 위에 놓이며, 카메라가 AI 모델에 맞는 최적의 초점 거리를 늘 유지하도록 한다."
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "자녀가 할당된 시간을 다 쓰면 앱은 하루 한도와 Gemini를 다시 쓸 수 있는 시점을 알려 주며, 잠금 화면에는 Close app 버튼이 표시될 가능성이 크다. 부모가 제한을 해제하면 “Your daily Gemini time limit was turned off”라는 메시지가 나타난다."
               },
               {
                 "t": "p",
-                "x": "AI가 사진을 처리하면 필요한 비트의 종류와 크기가 연결된 모바일 앱에 표시되고, 드라이버는 안전한 토크 설정을 자동으로 고른다. 선택 사항인 S1 Smart Case에는 강철 비트 52개가 들어가며, 비트마다 옆에 LED가 있어 필요한 비트에 불이 들어온다."
-              },
-              {
-                "t": "p",
-                "x": "600mAh 배터리는 최대 90분 동안 작동하거나 나사 900개 이상을 조이거나 풀 수 있다고 한다. OLED 화면에는 남은 배터리, 토크 설정, 회전 방향이 표시된다."
+                "x": "문자열만으로는 타이머가 Gemini 앱에만 적용되는지, 오버레이나 Google Messages 같은 더 넓은 Gemini 경험까지 포함하는지 알 수 없고, 부모 쪽 화면도 아직 불분명하다. 그래도 부모가 자녀의 AI 사용을 더 세밀하게 관리하는 데 도움이 될 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "必要なビットを\n見分けるドライバー",
-          "body": "ArrowmaxのArrowspace S1はカメラとAIでネジに合うビットを提案する。",
-          "mini_headline": "AI-eyedのドライバー",
+          "headline": "Google、子どもの\nGeminiに一日タイマー",
+          "body": "Googleは子ども向けGeminiの一日利用時間制限を開発中で、親のAI管理を強化する。",
+          "mini_headline": "子ども向けGeminiに一日制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "画像: Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmaxは、カメラとAIを連携させて電動ドライバーを賢くしようとしている。必要なビットの正確な種類とサイズを探す試行錯誤をなくすのが狙いだ。サイズを間違えると、ネジ山をなめてしまう恐れがあるからだ。"
+                "x": "親はすでにFamily Linkを使って子どものGeminiへのアクセスを許可またはブロックできるが、その方法は全面許可か全面禁止かの二択だ。Googleは、親がGeminiの一日の利用上限を設定できる機能を開発しているとみられる。"
               },
               {
                 "t": "p",
-                "x": "Arrowspace S1はKickstarterで販売中で、ドライバー単体は約$79、S1スマートビットケースとのセットは約$129だ。正式な小売価格はこれより高くなる見込みで、S1の出荷は早くても2027年4月の予定だ。"
+                "x": "Android AuthorityはGoogleアプリのバージョン17.72.13.sa.arm64ビルドで、子どもの端末側の視点で書かれた新しい文字列を見つけた。一つは「Your parent set a daily time limit for Gemini」、もう一つは「Your daily Gemini time limit changed」だ。"
               },
               {
                 "t": "p",
-                "x": "S1の底面には、ネジ頭を撮影するLEDライト付きの小型カメラがある。その隣では「精密接触プローブ」(\"precision contact probe\")が伸びてネジに当たり、カメラが常にAIモデルにとって理想的な焦点距離を保てるようにする。"
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "子どもが割り当てられた時間を使い切ると、アプリは一日の上限と次にGeminiを使える時刻を知らせ、ロック画面にはClose appボタンが表示されるとみられる。親が制限を解除すると、「Your daily Gemini time limit was turned off」というメッセージが表示される。"
               },
               {
                 "t": "p",
-                "x": "AIが写真を処理すると、必要なビットの種類とサイズが連携したモバイルアプリに表示され、ドライバーは安全なトルク設定を自動で選ぶ。オプションのS1 Smart Caseには52本のスチールビットが収まり、各ビットの横にあるLEDが必要なビットを光で示す。"
-              },
-              {
-                "t": "p",
-                "x": "600mAhバッテリーは最大90分間動作し、900本以上のネジを締めたり緩めたりできるという。OLED画面には残量、トルク設定、回転方向が表示される。"
+                "x": "文字列からは、タイマーがGeminiアプリだけに適用されるのか、オーバーレイやGoogle MessagesなどGemini全般に及ぶのかは分からず、親側の画面も不明なままだ。それでも、子どものAI利用を親がより細かく管理できるようになるはずだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "能看出该用哪种\n批头的螺丝刀",
-          "body": "Arrowmax的Arrowspace S1用头部摄像头和AI模型识别螺丝头并推荐合适批头。",
-          "mini_headline": "AI-eyed 螺丝刀",
+          "headline": "Google或为儿童\nGemini设每日时限",
+          "body": "Google正为儿童开发Gemini每日使用时限，让家长更好地掌控孩子使用AI的时长。",
+          "mini_headline": "儿童Gemini每日时限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "图片：Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmax希望让摄像头与AI协同工作，使电动螺丝刀变得更智能，省去反复试错寻找所需批头准确类型和尺寸的过程，因为选错尺寸可能导致螺丝滑丝。"
+                "x": "家长已可通过Family Link允许或禁止孩子使用Gemini，但只能二选一。Google似乎正在开发一项功能，让家长为Gemini设定每日使用上限。"
               },
               {
                 "t": "p",
-                "x": "Arrowspace S1正在Kickstarter上众筹：螺丝刀单品约$79，搭配S1智能批头盒的套装约$129。正式零售价会更高，S1预计最早要到2027年4月才会发货。"
+                "x": "Android Authority在Google应用17.72.13.sa.arm64版本的构建中发现了一些新字符串，均以孩子设备的视角撰写。其中一条是“Your parent set a daily time limit for Gemini”，另一条是“Your daily Gemini time limit changed”。"
               },
               {
                 "t": "p",
-                "x": "S1底部有一个带LED灯的小型摄像头，用于拍摄螺丝头图像。旁边的\"精密接触探针\"（\"precision contact probe\"）会伸出并抵在螺丝上，使摄像头始终处于AI模型的理想对焦距离。"
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "当孩子用完分配的时间后，应用会告知每日上限以及何时能再次使用Gemini，锁定界面上可能会有一个Close app按钮。家长取消限制时，会出现一条“Your daily Gemini time limit was turned off”的消息。"
               },
               {
                 "t": "p",
-                "x": "AI处理照片后，所需批头的类型和尺寸会显示在连接的手机应用中，螺丝刀也会自动选择安全的扭矩设置。选配的S1 Smart Case可容纳52支钢制批头，每支旁边都有一个LED，会点亮所需的那一支。"
-              },
-              {
-                "t": "p",
-                "x": "据称其600mAh电池最长可工作90分钟，或拧紧、拧松900多颗螺丝。OLED屏幕会显示剩余电量、扭矩设置和旋转方向。"
+                "x": "这些字符串并未说明计时器只覆盖Gemini应用，还是涵盖悬浮窗和Google Messages等更广泛的Gemini体验，家长端的情况也仍不明朗。尽管如此，这应能让家长更精细地管理孩子的AI使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un destornillador que ve\nqué punta necesitas",
-          "body": "El Arrowspace S1 de Arrowmax usa una cámara y AI para identificar el tornillo y sugerir la punta adecuada.",
-          "mini_headline": "Un destornillador AI-eyed",
+          "headline": "Google podría poner un límite\ndiario a Gemini para niños",
+          "body": "Google trabaja en límites diarios de Gemini para niños, que darán a los padres más control sobre su uso de la AI.",
+          "mini_headline": "Límites diarios de Gemini para niños",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0.083333333333336%2C0%2C99.833333333333%2C100&w=2400",
-                "cap": "Imagen: Arrowmax"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Arrowmax quiere hacer más inteligentes los destornilladores eléctricos añadiendo una cámara y AI que trabajan juntas para eliminar la prueba y error al buscar el tipo y tamaño exactos de punta que se necesita, ya que elegir un tamaño equivocado puede dejar la cabeza del tornillo desgastada."
+                "x": "Los padres ya pueden usar Family Link para permitir o bloquear el acceso de sus hijos a Gemini, pero es una opción de todo o nada. Google parece estar trabajando en una función que permitiría a los padres fijar límites diarios de uso para Gemini."
               },
               {
                 "t": "p",
-                "x": "El Arrowspace S1 está en Kickstarter: unos $79 por el destornillador solo, o unos $129 en un paquete con el estuche inteligente de puntas S1. El precio de venta final será más alto, y no se espera que el S1 se envíe antes de abril de 2027."
+                "x": "Android Authority detectó nuevas cadenas en la versión 17.72.13.sa.arm64 de la app de Google, redactadas desde la perspectiva del dispositivo del niño. Una dice “Your parent set a daily time limit for Gemini,” y otra, “Your daily Gemini time limit changed.”"
               },
               {
                 "t": "p",
-                "x": "En la parte inferior del S1 hay una pequeña cámara con luz LED que captura una imagen de la cabeza del tornillo. A su lado, una \"sonda de contacto de precisión\" (\"precision contact probe\") se extiende y se apoya en el tornillo para que la cámara esté siempre a la distancia de enfoque ideal para el modelo de AI."
-              },
-              {
-                "t": "video",
-                "yt": "D36kpU-VaDA"
+                "x": "Cuando un niño agote el tiempo asignado, la app le informará del límite diario y de cuándo podrá volver a usar Gemini, probablemente con un botón Close app en la pantalla de bloqueo. Un mensaje que dice “Your daily Gemini time limit was turned off” aparecería cuando un padre elimine la restricción."
               },
               {
                 "t": "p",
-                "x": "Una vez que la AI procesa la foto, el tipo y tamaño de punta necesarios aparecen en una aplicación móvil conectada, y el destornillador selecciona automáticamente un par de apriete seguro. El S1 Smart Case opcional guarda 52 puntas de acero con un LED junto a cada una que ilumina la que se necesita."
-              },
-              {
-                "t": "p",
-                "x": "Se afirma que la batería de 600mAh funciona hasta 90 minutos, o permite apretar o aflojar más de 900 tornillos. Una pantalla OLED muestra la carga restante, el ajuste de par y el sentido de giro."
+                "x": "Las cadenas no indican si el temporizador abarca solo la app de Gemini o la experiencia de Gemini en general, como la superposición y Google Messages, y la parte de los padres sigue sin estar clara. Aun así, debería dar a los padres un control más detallado sobre el uso de la AI por parte de sus hijos."
               }
             ]
           }
@@ -1511,219 +1019,165 @@
       }
     },
     {
-      "id": "gemini-overlay-sparkle-android",
+      "id": "chatgpt-classic-app-retired",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 오버레이\n반짝이는 새 단장",
-      "body": "Neural Expressive 입힌 Gemini 오버레이가 Android에 온다.",
-      "mini_headline": "반짝이는 Gemini 오버레이",
+      "headline": "ChatGPT\nClassic 앱 종료",
+      "body": "OpenAI가 ChatGPT Classic을 곧 접고 Chat·Work를 합친다.",
+      "mini_headline": "ChatGPT Classic 종료",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-            "cap": "Akshay Gangwar / Android Authority"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
           },
           {
             "t": "p",
-            "x": "Google은 디자인 바꾸기를 좋아하고, 그중 Gemini는 가장 자주 손대는 대상이다. 회사는 이미 Circle to Search와 Gemini Live의 새 애니메이션을 실험해 왔다. 새 Gemini 애니메이션도 포착됐는데, 이 애니메이션은 이후 Pixel 11 시리즈에 들어갔다. 새 Pixel 없이도 이 새 Gemini 디자인을 써 보고 싶었다면 반가운 소식이다."
+            "x": "몇 달 전 OpenAI는 ChatGPT, Work, Codex를 한 인터페이스로 묶은 새 ChatGPT 데스크톱 앱을 내놓으면서 기존 앱의 이름을 ChatGPT Classic으로 바꿨다. 논란이 일었다. 네이티브 macOS 앱이 Electron-based 버전으로 바뀌었고, 새 인터페이스는 몹시 혼란스러웠다."
           },
           {
             "t": "p",
-            "x": "새 Google 앱 업데이트로 바뀐 Gemini 디자인이 드디어 모든 Android 기기에 풀리기 시작했다(9to5Google 통해 포착). 이번 리디자인은 Google의 Neural Expressive 디자인 언어를 Gemini 오버레이에 입혔다. \"Ask Gemini\" 텍스트 상자 주변에는 반짝이는 효과와 작은 점들이 더해졌다."
-          },
-          {
-            "t": "video",
-            "yt": "_BIvK2IftiY"
+            "x": "ChatGPT Classic은 거의 손대지 않은 채 남았고, 새 모델이 새 앱 전용 기능과 묶이면서 갈수록 불안정해졌다. 이제 사용자에게 뜨는 메시지가 2027년 1월 30일 공식 종료를 알린다. “이 앱은 2027년 1월 30일에 종료됩니다. 새 ChatGPT 앱에서 최신 기능을 이용하세요. 전체 채팅 기록이 함께 옮겨지므로 하던 작업을 그대로 이어갈 수 있습니다.”"
           },
           {
             "t": "p",
-            "x": "새로워진 건 처음 뜨는 애니메이션만이 아니다. 애니메이션이 끝나면 \"Ask Gemini\" 텍스트 상자 가장자리에 옅은 음영이 생겨 한층 입체적으로 보인다. 음영은 다크 모드에서 더 뚜렷하고, 라이트 모드에서는 예전과 거의 다르지 않다."
-          },
-          {
-            "t": "p",
-            "x": "이번 리디자인은 Google 앱 업데이트에 포함돼 있다. Play Store에서 휴대폰의 Google 앱을 최신 버전으로 올리면 새 애니메이션을 볼 수 있고, 그래도 안 보이면 휴대폰의 Google 앱을 강제 종료해 보면 된다."
+            "x": "OpenAI는 앞으로 몇 주 안에 소규모 그룹을 대상으로 Chat과 Work를 합친 환경을 시험한다는 안내도 보내고 있다. Greg Brockman 사장이 이 인터페이스를 “좀 엉망”이라고 한 지 몇 달 만이다. 사용자는 파일과 플러그인을 불러와 ChatGPT에 웹사이트 제작, 프레젠테이션 작성, 웹 작업 수행을 맡길 수 있다. Codex는 따로 남지만, ChatGPT와 Codex는 각자의 한도 대신 사용량을 함께 쓰게 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini's Android overlay\ngets a sparkling redesign",
-          "body": "Google's redesigned Gemini overlay, with a Neural Expressive sparkle animation, is rolling out to all Android phones.",
-          "mini_headline": "Gemini overlay sparkles",
+          "headline": "ChatGPT Classic retires as\nChat and Work tabs merge",
+          "body": "OpenAI told ChatGPT Classic users the app will soon be retired, with Chat and Work tabs set to combine in the new app.",
+          "mini_headline": "ChatGPT Classic\nis retiring",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "Google loves redesigning things, and Gemini is one of the things it loves redesigning the most. We've already seen the company experiment with new animations for Circle to Search and Gemini Live. We also spotted a new Gemini animation that later arrived on the Pixel 11 series. Well, if you were hoping to get that new Gemini design without buying a new Pixel, you're in luck."
+                "x": "A few months ago, OpenAI released a new ChatGPT desktop app that brought ChatGPT, Work, and Codex under a single interface, and the regular app was renamed ChatGPT Classic. The move proved controversial: the native macOS app was replaced with an Electron-based version, and the new interface was extremely confusing."
               },
               {
                 "t": "p",
-                "x": "A new Google app update is now finally bringing the updated Gemini design to all Android devices (spotted via 9to5Google). The redesign brings Google's Neural Expressive design language to the Gemini overlay, complete with the sparkling effects and tiny dots surrounding the \"Ask Gemini\" text box."
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classic remained largely untouched and became less reliable as new models were tied to features exclusive to the new app. Now a message shown to users says the app will officially be retired on January 30, 2027: “This app will retire on January 30, 2027. Get the latest features in the new ChatGPT app. Your full chat history comes with you, so you can pick up where you left off.”"
               },
               {
                 "t": "p",
-                "x": "The initial animation isn't the only bit that's new, however. Once the animation completes, the \"Ask Gemini\" text box now has slightly shaded edges, giving it a more three-dimensional look. These shaded edges are more obvious in dark mode. In light mode, it looks pretty much the same as it always has."
-              },
-              {
-                "t": "p",
-                "x": "It's worth noting that the redesign is part of a Google app update. You can head to the Play Store and update the Google app on your phone to the latest available version to get the new animation. If you still don't see it, try force-stopping the Google app on your phone."
+                "x": "OpenAI is also telling users it will begin testing a combined Chat and Work experience in the coming weeks with a small group, months after president Greg Brockman called the interface “kind of a mess.” Users will be able to bring in files and plugins and ask ChatGPT to build a website, create a presentation, or do things on the web. Codex will remain separate, but ChatGPT and Codex will get a shared usage allowance replacing their separate limits."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini 오버레이\n반짝이는 새 단장",
-          "body": "Neural Expressive 입힌 Gemini 오버레이가 Android에 온다.",
-          "mini_headline": "반짝이는 Gemini 오버레이",
+          "headline": "ChatGPT\nClassic 앱 종료",
+          "body": "OpenAI가 ChatGPT Classic을 곧 접고 Chat·Work를 합친다.",
+          "mini_headline": "ChatGPT Classic 종료",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "Google은 디자인 바꾸기를 좋아하고, 그중 Gemini는 가장 자주 손대는 대상이다. 회사는 이미 Circle to Search와 Gemini Live의 새 애니메이션을 실험해 왔다. 새 Gemini 애니메이션도 포착됐는데, 이 애니메이션은 이후 Pixel 11 시리즈에 들어갔다. 새 Pixel 없이도 이 새 Gemini 디자인을 써 보고 싶었다면 반가운 소식이다."
+                "x": "몇 달 전 OpenAI는 ChatGPT, Work, Codex를 한 인터페이스로 묶은 새 ChatGPT 데스크톱 앱을 내놓으면서 기존 앱의 이름을 ChatGPT Classic으로 바꿨다. 논란이 일었다. 네이티브 macOS 앱이 Electron-based 버전으로 바뀌었고, 새 인터페이스는 몹시 혼란스러웠다."
               },
               {
                 "t": "p",
-                "x": "새 Google 앱 업데이트로 바뀐 Gemini 디자인이 드디어 모든 Android 기기에 풀리기 시작했다(9to5Google 통해 포착). 이번 리디자인은 Google의 Neural Expressive 디자인 언어를 Gemini 오버레이에 입혔다. \"Ask Gemini\" 텍스트 상자 주변에는 반짝이는 효과와 작은 점들이 더해졌다."
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classic은 거의 손대지 않은 채 남았고, 새 모델이 새 앱 전용 기능과 묶이면서 갈수록 불안정해졌다. 이제 사용자에게 뜨는 메시지가 2027년 1월 30일 공식 종료를 알린다. “이 앱은 2027년 1월 30일에 종료됩니다. 새 ChatGPT 앱에서 최신 기능을 이용하세요. 전체 채팅 기록이 함께 옮겨지므로 하던 작업을 그대로 이어갈 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "새로워진 건 처음 뜨는 애니메이션만이 아니다. 애니메이션이 끝나면 \"Ask Gemini\" 텍스트 상자 가장자리에 옅은 음영이 생겨 한층 입체적으로 보인다. 음영은 다크 모드에서 더 뚜렷하고, 라이트 모드에서는 예전과 거의 다르지 않다."
-              },
-              {
-                "t": "p",
-                "x": "이번 리디자인은 Google 앱 업데이트에 포함돼 있다. Play Store에서 휴대폰의 Google 앱을 최신 버전으로 올리면 새 애니메이션을 볼 수 있고, 그래도 안 보이면 휴대폰의 Google 앱을 강제 종료해 보면 된다."
+                "x": "OpenAI는 앞으로 몇 주 안에 소규모 그룹을 대상으로 Chat과 Work를 합친 환경을 시험한다는 안내도 보내고 있다. Greg Brockman 사장이 이 인터페이스를 “좀 엉망”이라고 한 지 몇 달 만이다. 사용자는 파일과 플러그인을 불러와 ChatGPT에 웹사이트 제작, 프레젠테이션 작성, 웹 작업 수행을 맡길 수 있다. Codex는 따로 남지만, ChatGPT와 Codex는 각자의 한도 대신 사용량을 함께 쓰게 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiオーバーレイが\nきらめく新デザインに",
-          "body": "Neural Expressive調のGeminiオーバーレイが全Androidに配信中だ。",
-          "mini_headline": "Geminiオーバーレイがきらめく",
+          "headline": "ChatGPT\nClassicが終了へ",
+          "body": "OpenAIがChatGPT Classicを近く終了し、ChatとWorkを統合する。",
+          "mini_headline": "ChatGPT Classicが終了へ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "Googleは何かと再設計を好むが、中でもGeminiは特に頻繁に手を加えている対象の一つだ。同社はすでにCircle to SearchやGemini Liveで新しいアニメーションを試している。新しいGeminiアニメーションも見つかっており、それは後にPixel 11シリーズに搭載された。新しいPixelを買わずにこの新しいGeminiデザインを手に入れたいと思っていたなら、朗報だ。"
+                "x": "数か月前、OpenAIはChatGPT、Work、Codexを一つのインターフェースにまとめた新しいChatGPTデスクトップアプリをリリースし、従来のアプリはChatGPT Classicに改称された。この動きは物議を醸した。ネイティブのmacOSアプリがElectron-basedの版に置き換えられ、新しいインターフェースは非常に分かりにくかったからだ。"
               },
               {
                 "t": "p",
-                "x": "新しいGoogleアプリのアップデートにより、更新されたGeminiデザインがついにすべてのAndroid端末に届き始めた(9to5Google経由で判明)。今回の再設計ではGoogleのNeural Expressiveデザイン言語がGeminiオーバーレイに取り入れられ、\"Ask Gemini\"テキストボックスの周囲にきらめく効果と小さなドットが加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classicはほとんど手を加えられないまま残り、新しいモデルが新アプリ専用の機能と結びつくにつれて信頼性が低下した。そして今、ユーザーに表示されるメッセージで、アプリが2027年1月30日に正式に終了することが告げられている。「このアプリは2027年1月30日に終了します。新しいChatGPTアプリで最新機能をご利用ください。チャット履歴はすべて引き継がれるため、中断したところから再開できます」"
               },
               {
                 "t": "p",
-                "x": "ただし、新しくなったのは最初のアニメーションだけではない。アニメーションが終わると、\"Ask Gemini\"テキストボックスの縁にわずかな陰影が付き、より立体的に見えるようになった。この陰影はダークモードの方が目立つ。ライトモードでは、従来とほとんど変わらない見た目だ。"
-              },
-              {
-                "t": "p",
-                "x": "この再設計はGoogleアプリのアップデートの一部である点に注意したい。Play Storeでスマートフォン上のGoogleアプリを最新版に更新すれば、新しいアニメーションを利用できる。それでも表示されない場合は、Googleアプリを強制停止してみるとよい。"
+                "x": "OpenAIはまた、今後数週間のうちに少数のグループを対象に、ChatとWorkを統合した環境のテストを始めるとユーザーに伝えている。Greg Brockman社長がこのインターフェースを「ちょっとした混乱状態」と評してから数か月後のことだ。ユーザーはファイルやプラグインを取り込み、ChatGPTにウェブサイトの構築やプレゼンテーションの作成、ウェブ上での操作を依頼できるようになる。Codexは引き続き別扱いとなるが、ChatGPTとCodexには個別の上限に代わって共通の利用枠が設けられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini悬浮窗\n换上闪耀新设计",
-          "body": "Gemini悬浮窗换上Neural Expressive动画，推向所有Android手机。",
-          "mini_headline": "Gemini悬浮窗闪亮登场",
+          "headline": "ChatGPT\nClassic即将退役",
+          "body": "OpenAI称ChatGPT Classic即将退役，Chat与Work将在新应用中合并。",
+          "mini_headline": "ChatGPT Classic即将退役",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "Google热衷于重新设计，而Gemini是它最热衷重新设计的产品之一。我们已经看到该公司为Circle to Search和Gemini Live试验新动画。我们还发现了一款新的Gemini动画，它后来登陆了Pixel 11系列。如果你希望不买新Pixel也能用上这套新的Gemini设计，那么你很幸运。"
+                "x": "几个月前，OpenAI发布了一款新的ChatGPT桌面应用，将ChatGPT、Work和Codex整合到同一界面中，原有应用则更名为ChatGPT Classic。此举颇具争议：原生macOS应用被Electron-based版本取代，而新界面极其令人困惑。"
               },
               {
                 "t": "p",
-                "x": "一次新的Google应用更新终于将更新后的Gemini设计带到所有Android设备上（经由9to5Google发现）。这次重新设计将Google的Neural Expressive设计语言引入Gemini悬浮窗，并在\"Ask Gemini\"文本框周围加入了闪烁效果和细小圆点。"
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classic基本没有更新，随着新模型与新应用独有的功能绑定，它变得越来越不可靠。如今，向用户显示的一条消息称，该应用将于2027年1月30日正式退役：“此应用将于2027年1月30日退役。在新的ChatGPT应用中获取最新功能。你的完整聊天记录会随之迁移，因此可以从上次中断的地方继续。”"
               },
               {
                 "t": "p",
-                "x": "不过，新变化并不只有开场动画。动画结束后，\"Ask Gemini\"文本框的边缘现在带有轻微阴影，看起来更有立体感。这种阴影在深色模式下更明显。在浅色模式下，它看起来和以前几乎一样。"
-              },
-              {
-                "t": "p",
-                "x": "值得注意的是，这次重新设计是Google应用更新的一部分。你可以前往Play Store，将手机上的Google应用更新到最新版本，以获得新动画。如果仍未看到，可以尝试强制停止手机上的Google应用。"
+                "x": "OpenAI还告诉用户，将在未来几周内面向一小部分用户开始测试合并后的Chat与Work体验，而在几个月前，总裁Greg Brockman曾称该界面“有点乱”。用户将能够导入文件和插件，并让ChatGPT搭建网站、制作演示文稿或在网页上执行操作。Codex将继续独立，但ChatGPT与Codex将获得共享的使用额度，取代各自独立的限额。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La capa de Gemini en Android\nestrena un diseño con destellos",
-          "body": "La nueva capa de Gemini de Google, con destellos Neural Expressive, llega a todos los teléfonos Android.",
-          "mini_headline": "La capa de Gemini brilla",
+          "headline": "ChatGPT Classic se retira\ny se fusionan Chat y Work",
+          "body": "OpenAI avisó que ChatGPT Classic se retirará pronto y que las pestañas Chat y Work se unirán en la nueva app.",
+          "mini_headline": "ChatGPT Classic se retira",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "A Google le encanta rediseñar cosas, y Gemini es una de las que más le gusta rediseñar. Ya hemos visto a la compañía experimentar con nuevas animaciones para Circle to Search y Gemini Live. También detectamos una nueva animación de Gemini que después llegó a la serie Pixel 11. Si esperabas tener ese nuevo diseño de Gemini sin comprar un Pixel nuevo, estás de suerte."
+                "x": "Hace unos meses, OpenAI lanzó una nueva app de escritorio de ChatGPT que reunía ChatGPT, Work y Codex en una sola interfaz, y la app habitual pasó a llamarse ChatGPT Classic. La decisión resultó polémica: la app nativa de macOS fue sustituida por una versión Electron-based, y la nueva interfaz resultaba sumamente confusa."
               },
               {
                 "t": "p",
-                "x": "Una nueva actualización de la app de Google por fin lleva el diseño renovado de Gemini a todos los dispositivos Android (detectado a través de 9to5Google). El rediseño aplica el lenguaje de diseño Neural Expressive de Google a la capa de Gemini, con efectos de destellos y pequeños puntos alrededor del cuadro de texto \"Ask Gemini\"."
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classic se mantuvo prácticamente sin cambios y se volvió menos fiable a medida que los nuevos modelos quedaban ligados a funciones exclusivas de la nueva app. Ahora, un mensaje mostrado a los usuarios indica que la app se retirará oficialmente el 30 de enero de 2027: “Esta app se retirará el 30 de enero de 2027. Obtén las funciones más recientes en la nueva app de ChatGPT. Todo tu historial de chats te acompaña, así que puedes continuar donde lo dejaste.”"
               },
               {
                 "t": "p",
-                "x": "Sin embargo, la animación inicial no es lo único nuevo. Cuando termina, el cuadro de texto \"Ask Gemini\" muestra ahora bordes ligeramente sombreados que le dan un aspecto más tridimensional. Estos bordes sombreados se notan más en el modo oscuro. En el modo claro, se ve prácticamente igual que siempre."
-              },
-              {
-                "t": "p",
-                "x": "Conviene señalar que el rediseño forma parte de una actualización de la app de Google. Puedes ir a Play Store y actualizar la app de Google de tu teléfono a la última versión disponible para obtener la nueva animación. Si aún no la ves, prueba a forzar la detención de la app de Google en tu teléfono."
+                "x": "OpenAI también informa a los usuarios de que en las próximas semanas empezará a probar con un grupo reducido una experiencia que combina Chat y Work, meses después de que su presidente, Greg Brockman, calificara la interfaz de “un poco caótica”. Los usuarios podrán incorporar archivos y plugins y pedir a ChatGPT que cree un sitio web, prepare una presentación o haga cosas en la web. Codex seguirá separado, pero ChatGPT y Codex tendrán una cuota de uso compartida que sustituirá sus límites independientes."
               }
             ]
           }
@@ -1731,141 +1185,517 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini 오버레이\n반짝이는 새 단장",
-          "body": "Neural Expressive 입힌 Gemini 오버레이가 Android에 온다.",
-          "mini_headline": "반짝이는 Gemini 오버레이",
+          "headline": "ChatGPT\nClassic 앱 종료",
+          "body": "OpenAI가 ChatGPT Classic을 곧 접고 Chat·Work를 합친다.",
+          "mini_headline": "ChatGPT Classic 종료",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "Google은 디자인을 바꾸는 걸 좋아하고, 그중에서도 Gemini는 가장 자주 손보는 대상이다. 회사는 이미 Circle to Search와 Gemini Live의 새 애니메이션을 실험해 왔다. 새 Gemini 애니메이션도 포착됐는데, 이는 이후 Pixel 11 시리즈에 탑재됐다. 새 Pixel을 사지 않고도 이 새 Gemini 디자인을 원했다면 반가운 소식이다."
+                "x": "몇 달 전 OpenAI는 ChatGPT, Work, Codex를 하나의 인터페이스로 묶은 새 ChatGPT 데스크톱 앱을 내놓았고, 기존 앱은 ChatGPT Classic으로 이름이 바뀌었다. 이 결정은 논란을 낳았다. 네이티브 macOS 앱이 Electron-based 버전으로 대체됐고, 새 인터페이스는 몹시 혼란스러웠다."
               },
               {
                 "t": "p",
-                "x": "새 Google 앱 업데이트가 마침내 업데이트된 Gemini 디자인을 모든 Android 기기에 제공하기 시작했다(9to5Google 통해 포착). 이번 리디자인은 Google의 Neural Expressive 디자인 언어를 Gemini 오버레이에 적용했으며, \"Ask Gemini\" 텍스트 상자 주변에 반짝이는 효과와 작은 점들이 더해졌다."
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classic은 거의 손대지 않은 채 남았고, 새 모델이 새 앱 전용 기능과 묶이면서 점점 안정성이 떨어졌다. 이제 사용자에게 표시되는 메시지는 이 앱이 2027년 1월 30일 공식 종료된다고 알린다. “이 앱은 2027년 1월 30일에 종료됩니다. 새 ChatGPT 앱에서 최신 기능을 이용하세요. 전체 채팅 기록이 함께 옮겨지므로 하던 작업을 그대로 이어갈 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "다만 새로워진 것은 처음 나오는 애니메이션만이 아니다. 애니메이션이 끝나면 \"Ask Gemini\" 텍스트 상자 가장자리에 옅은 음영이 생겨 더 입체적으로 보인다. 이 음영은 다크 모드에서 더 뚜렷하다. 라이트 모드에서는 예전과 거의 똑같아 보인다."
-              },
-              {
-                "t": "p",
-                "x": "이번 리디자인은 Google 앱 업데이트의 일부라는 점을 알아둘 필요가 있다. Play Store에서 휴대폰의 Google 앱을 최신 버전으로 업데이트하면 새 애니메이션을 볼 수 있다. 그래도 보이지 않으면 휴대폰의 Google 앱을 강제 종료해 보면 된다."
+                "x": "OpenAI는 또 앞으로 몇 주 안에 소규모 그룹을 대상으로 Chat과 Work를 합친 환경을 시험하기 시작한다고 사용자들에게 알리고 있다. Greg Brockman 사장이 이 인터페이스를 “좀 엉망”이라고 표현한 지 몇 달 만이다. 사용자는 파일과 플러그인을 가져와 ChatGPT에 웹사이트 제작, 프레젠테이션 작성, 웹에서의 작업 수행을 요청할 수 있다. Codex는 별도로 유지되지만, ChatGPT와 Codex는 각각의 한도 대신 공유 사용량을 받게 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiオーバーレイが\nきらめく新デザインに",
-          "body": "Neural Expressive調のGeminiオーバーレイが全Androidに配信中だ。",
-          "mini_headline": "Geminiオーバーレイがきらめく",
+          "headline": "ChatGPT\nClassicが終了へ",
+          "body": "OpenAIがChatGPT Classicを近く終了し、ChatとWorkを統合する。",
+          "mini_headline": "ChatGPT Classicが終了へ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "Googleは何かと再設計を好むが、中でもGeminiは特に頻繁に手を加えている対象の一つだ。同社はすでにCircle to SearchやGemini Liveで新しいアニメーションを試している。新しいGeminiアニメーションも見つかっており、それは後にPixel 11シリーズに搭載された。新しいPixelを買わずにこの新しいGeminiデザインを手に入れたいと思っていたなら、朗報だ。"
+                "x": "数か月前、OpenAIはChatGPT、Work、Codexを一つのインターフェースにまとめた新しいChatGPTデスクトップアプリをリリースし、従来のアプリはChatGPT Classicに改称された。この動きは物議を醸した。ネイティブのmacOSアプリがElectron-basedの版に置き換えられ、新しいインターフェースは非常に分かりにくかったからだ。"
               },
               {
                 "t": "p",
-                "x": "新しいGoogleアプリのアップデートにより、更新されたGeminiデザインがついにすべてのAndroid端末に届き始めた(9to5Google経由で判明)。今回の再設計ではGoogleのNeural Expressiveデザイン言語がGeminiオーバーレイに取り入れられ、\"Ask Gemini\"テキストボックスの周囲にきらめく効果と小さなドットが加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classicはほとんど手を加えられないまま残り、新しいモデルが新アプリ専用の機能と結びつくにつれて信頼性が低下した。そして今、ユーザーに表示されるメッセージで、アプリが2027年1月30日に正式に終了することが告げられている。「このアプリは2027年1月30日に終了します。新しいChatGPTアプリで最新機能をご利用ください。チャット履歴はすべて引き継がれるため、中断したところから再開できます」"
               },
               {
                 "t": "p",
-                "x": "ただし、新しくなったのは最初のアニメーションだけではない。アニメーションが終わると、\"Ask Gemini\"テキストボックスの縁にわずかな陰影が付き、より立体的に見えるようになった。この陰影はダークモードの方が目立つ。ライトモードでは、従来とほとんど変わらない見た目だ。"
-              },
-              {
-                "t": "p",
-                "x": "この再設計はGoogleアプリのアップデートの一部である点に注意したい。Play Storeでスマートフォン上のGoogleアプリを最新版に更新すれば、新しいアニメーションを利用できる。それでも表示されない場合は、Googleアプリを強制停止してみるとよい。"
+                "x": "OpenAIはまた、今後数週間のうちに少数のグループを対象に、ChatとWorkを統合した環境のテストを始めるとユーザーに伝えている。Greg Brockman社長がこのインターフェースを「ちょっとした混乱状態」と評してから数か月後のことだ。ユーザーはファイルやプラグインを取り込み、ChatGPTにウェブサイトの構築やプレゼンテーションの作成、ウェブ上での操作を依頼できるようになる。Codexは引き続き別扱いとなるが、ChatGPTとCodexには個別の上限に代わって共通の利用枠が設けられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini悬浮窗\n换上闪耀新设计",
-          "body": "Gemini悬浮窗换上Neural Expressive动画，推向所有Android手机。",
-          "mini_headline": "Gemini悬浮窗闪亮登场",
+          "headline": "ChatGPT\nClassic即将退役",
+          "body": "OpenAI称ChatGPT Classic即将退役，Chat与Work将在新应用中合并。",
+          "mini_headline": "ChatGPT Classic即将退役",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "Google热衷于重新设计，而Gemini是它最热衷重新设计的产品之一。我们已经看到该公司为Circle to Search和Gemini Live试验新动画。我们还发现了一款新的Gemini动画，它后来登陆了Pixel 11系列。如果你希望不买新Pixel也能用上这套新的Gemini设计，那么你很幸运。"
+                "x": "几个月前，OpenAI发布了一款新的ChatGPT桌面应用，将ChatGPT、Work和Codex整合到同一界面中，原有应用则更名为ChatGPT Classic。此举颇具争议：原生macOS应用被Electron-based版本取代，而新界面极其令人困惑。"
               },
               {
                 "t": "p",
-                "x": "一次新的Google应用更新终于将更新后的Gemini设计带到所有Android设备上（经由9to5Google发现）。这次重新设计将Google的Neural Expressive设计语言引入Gemini悬浮窗，并在\"Ask Gemini\"文本框周围加入了闪烁效果和细小圆点。"
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classic基本没有更新，随着新模型与新应用独有的功能绑定，它变得越来越不可靠。如今，向用户显示的一条消息称，该应用将于2027年1月30日正式退役：“此应用将于2027年1月30日退役。在新的ChatGPT应用中获取最新功能。你的完整聊天记录会随之迁移，因此可以从上次中断的地方继续。”"
               },
               {
                 "t": "p",
-                "x": "不过，新变化并不只有开场动画。动画结束后，\"Ask Gemini\"文本框的边缘现在带有轻微阴影，看起来更有立体感。这种阴影在深色模式下更明显。在浅色模式下，它看起来和以前几乎一样。"
-              },
-              {
-                "t": "p",
-                "x": "值得注意的是，这次重新设计是Google应用更新的一部分。你可以前往Play Store，将手机上的Google应用更新到最新版本，以获得新动画。如果仍未看到，可以尝试强制停止手机上的Google应用。"
+                "x": "OpenAI还告诉用户，将在未来几周内面向一小部分用户开始测试合并后的Chat与Work体验，而在几个月前，总裁Greg Brockman曾称该界面“有点乱”。用户将能够导入文件和插件，并让ChatGPT搭建网站、制作演示文稿或在网页上执行操作。Codex将继续独立，但ChatGPT与Codex将获得共享的使用额度，取代各自独立的限额。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La capa de Gemini en Android\nestrena un diseño con destellos",
-          "body": "La nueva capa de Gemini de Google, con destellos Neural Expressive, llega a todos los teléfonos Android.",
-          "mini_headline": "La capa de Gemini brilla",
+          "headline": "ChatGPT Classic se retira\ny se fusionan Chat y Work",
+          "body": "OpenAI avisó que ChatGPT Classic se retirará pronto y que las pestañas Chat y Work se unirán en la nueva app.",
+          "mini_headline": "ChatGPT Classic se retira",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-                "cap": "Akshay Gangwar / Android Authority"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
               },
               {
                 "t": "p",
-                "x": "A Google le encanta rediseñar cosas, y Gemini es una de las que más le gusta rediseñar. Ya hemos visto a la compañía experimentar con nuevas animaciones para Circle to Search y Gemini Live. También detectamos una nueva animación de Gemini que después llegó a la serie Pixel 11. Si esperabas tener ese nuevo diseño de Gemini sin comprar un Pixel nuevo, estás de suerte."
+                "x": "Hace unos meses, OpenAI lanzó una nueva app de escritorio de ChatGPT que reunía ChatGPT, Work y Codex en una sola interfaz, y la app habitual pasó a llamarse ChatGPT Classic. La decisión resultó polémica: la app nativa de macOS fue sustituida por una versión Electron-based, y la nueva interfaz resultaba sumamente confusa."
               },
               {
                 "t": "p",
-                "x": "Una nueva actualización de la app de Google por fin lleva el diseño renovado de Gemini a todos los dispositivos Android (detectado a través de 9to5Google). El rediseño aplica el lenguaje de diseño Neural Expressive de Google a la capa de Gemini, con efectos de destellos y pequeños puntos alrededor del cuadro de texto \"Ask Gemini\"."
-              },
-              {
-                "t": "video",
-                "yt": "_BIvK2IftiY"
+                "x": "ChatGPT Classic se mantuvo prácticamente sin cambios y se volvió menos fiable a medida que los nuevos modelos quedaban ligados a funciones exclusivas de la nueva app. Ahora, un mensaje mostrado a los usuarios indica que la app se retirará oficialmente el 30 de enero de 2027: “Esta app se retirará el 30 de enero de 2027. Obtén las funciones más recientes en la nueva app de ChatGPT. Todo tu historial de chats te acompaña, así que puedes continuar donde lo dejaste.”"
               },
               {
                 "t": "p",
-                "x": "Sin embargo, la animación inicial no es lo único nuevo. Cuando termina, el cuadro de texto \"Ask Gemini\" muestra ahora bordes ligeramente sombreados que le dan un aspecto más tridimensional. Estos bordes sombreados se notan más en el modo oscuro. En el modo claro, se ve prácticamente igual que siempre."
+                "x": "OpenAI también informa a los usuarios de que en las próximas semanas empezará a probar con un grupo reducido una experiencia que combina Chat y Work, meses después de que su presidente, Greg Brockman, calificara la interfaz de “un poco caótica”. Los usuarios podrán incorporar archivos y plugins y pedir a ChatGPT que cree un sitio web, prepare una presentación o haga cosas en la web. Codex seguirá separado, pero ChatGPT y Codex tendrán una cuota de uso compartida que sustituirá sus límites independientes."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "parakeet-local-dictation-laptop",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "십 년 된 노트북서 도는\n초소형 로컬 음성 인식",
+      "body": "필자가 RAM 약 2GB를 쓰는 음성 모델 Parakeet로 기사 전체를 받아썼다.",
+      "mini_headline": "낡은 노트북 속 초소형 음성 AI",
+      "tool": "Gadgets",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+          },
+          {
+            "t": "p",
+            "x": "2026년에 음성 받아쓰기에 구독이 필요할 이유는 없다. 그래서 Raspberry Pi부터 십 년 된 컴퓨터까지 거의 어떤 기기에서도 돌아가는 음성 인식 모델 Parakeet를 설치하고, Docker-based 모델과 GUI를 갖춘 Mac 앱을 모두 시험해 봤다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+            "cap": "MacParakeet로 Parakeet를 로컬에서 실행하는 모습"
+          },
+          {
+            "t": "p",
+            "x": "시험한 버전은 Nvidia가 만든 600 million 파라미터 모델 Parakeet TDT 0.6B v3다. 별도 그래픽카드는 필요 없다. 양자화 모델은 저장 공간을 약 700MB 차지하고 RAM은 약 2GB를 쓴다. Docker 서버는 배포가 쉽지만 매일 쓰기엔 덜 편하다."
+          },
+          {
+            "t": "p",
+            "x": "MacParakeet는 같은 모델을 온보딩과 기능 키 받아쓰기를 갖춘 Mac 데스크톱 앱으로 묶었다. 이 글도 처음부터 끝까지 MacParakeet로 받아썼다. Parakeet는 억양이 섞여도 정확했고 성능 부담도 거의 없었다. 오디오 파일을 끌어다 놓거나 YouTube·Instagram 링크를 넣으면 받아쓰고, 화자 식별로 회의를 녹음하며, Markdown으로 내보내기도 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+            "cap": "MacParakeet 받아쓰기"
+          },
+          {
+            "t": "p",
+            "x": "모든 과정이 기기 안에서 돌아가니 음성 녹음과 받아쓴 텍스트는 완전히 비공개로 남는다. Parakeet는 내가 써 본 온디바이스 음성 인식 모델 중 아마 최고일 것이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Tiny local speech recognition\nruns on a decade-old laptop",
+          "body": "A writer dictated a whole article with Parakeet, a tiny local speech model that uses about 2GB of RAM.",
+          "mini_headline": "Tiny speech AI\non an old laptop",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Conviene señalar que el rediseño forma parte de una actualización de la app de Google. Puedes ir a Play Store y actualizar la app de Google de tu teléfono a la última versión disponible para obtener la nueva animación. Si aún no la ves, prueba a forzar la detención de la app de Google en tu teléfono."
+                "x": "In 2026, transcribing speech to text shouldn't need a subscription. So I installed Parakeet, a speech recognition model that can run on almost anything from a Raspberry Pi to a decade-old computer, testing both the Docker-based model and a Mac app with a GUI."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "MacParakeet running Parakeet locally"
+              },
+              {
+                "t": "p",
+                "x": "The version I tested was Parakeet TDT 0.6B v3, a 600 million parameter model developed by Nvidia that doesn't need a dedicated graphics card. The quantized model takes up around 700MB of space and consumes around 2GB of RAM. The Docker server is easy to deploy, but less convenient for everyday use."
+              },
+              {
+                "t": "p",
+                "x": "MacParakeet packages the same model in a Mac desktop app with onboarding and function-key dictation. I dictated the entirety of this write-up in MacParakeet, and Parakeet has been on point even with an accent, with minimal performance impact. It can also transcribe dropped-in audio files and YouTube or Instagram links, record meetings with speaker identification, and export Markdown."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "MacParakeet dictation"
+              },
+              {
+                "t": "p",
+                "x": "All of this runs on-device, so voice recordings and transcriptions remain fully private — making Parakeet perhaps the best on-device speech recognition model I've used."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "십 년 된 노트북서 도는\n초소형 로컬 음성 인식",
+          "body": "필자가 RAM 약 2GB를 쓰는 음성 모델 Parakeet로 기사 전체를 받아썼다.",
+          "mini_headline": "낡은 노트북 속 초소형 음성 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "2026년에 음성 받아쓰기에 구독이 필요할 이유는 없다. 그래서 Raspberry Pi부터 십 년 된 컴퓨터까지 거의 어떤 기기에서도 돌아가는 음성 인식 모델 Parakeet를 설치하고, Docker-based 모델과 GUI를 갖춘 Mac 앱을 모두 시험해 봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "MacParakeet로 Parakeet를 로컬에서 실행하는 모습"
+              },
+              {
+                "t": "p",
+                "x": "시험한 버전은 Nvidia가 만든 600 million 파라미터 모델 Parakeet TDT 0.6B v3다. 별도 그래픽카드는 필요 없다. 양자화 모델은 저장 공간을 약 700MB 차지하고 RAM은 약 2GB를 쓴다. Docker 서버는 배포가 쉽지만 매일 쓰기엔 덜 편하다."
+              },
+              {
+                "t": "p",
+                "x": "MacParakeet는 같은 모델을 온보딩과 기능 키 받아쓰기를 갖춘 Mac 데스크톱 앱으로 묶었다. 이 글도 처음부터 끝까지 MacParakeet로 받아썼다. Parakeet는 억양이 섞여도 정확했고 성능 부담도 거의 없었다. 오디오 파일을 끌어다 놓거나 YouTube·Instagram 링크를 넣으면 받아쓰고, 화자 식별로 회의를 녹음하며, Markdown으로 내보내기도 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "MacParakeet 받아쓰기"
+              },
+              {
+                "t": "p",
+                "x": "모든 과정이 기기 안에서 돌아가니 음성 녹음과 받아쓴 텍스트는 완전히 비공개로 남는다. Parakeet는 내가 써 본 온디바이스 음성 인식 모델 중 아마 최고일 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "十年前のノートPCで\n動く小型ローカル音声認識",
+          "body": "筆者はRAM約2GB の小型ローカル音声モデルParakeetで、記事全体を音声入力した。",
+          "mini_headline": "古いノートPCで動く小型音声AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "2026年にもなって、音声の文字起こしにサブスクリプションが必要であってはならない。そこで、Raspberry Piから十年前のコンピューターまで、ほぼあらゆる機器で動く音声認識モデルParakeetをインストールし、Docker-basedのモデルとGUI付きのMacアプリの両方を試した。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "MacParakeetでParakeetをローカル実行している様子"
+              },
+              {
+                "t": "p",
+                "x": "試したのはParakeet TDT 0.6B v3で、Nvidiaが開発した600 million パラメータのモデルだ。専用のグラフィックカードは必要ない。量子化モデルの容量は約700MB で、RAM消費は約2GB だ。Dockerサーバーは導入が簡単だが、日常的に使うにはやや不便だ。"
+              },
+              {
+                "t": "p",
+                "x": "MacParakeetは同じモデルを、オンボーディングとファンクションキーによる音声入力を備えたMac用デスクトップアプリにまとめている。この記事はすべてMacParakeetで音声入力したが、Parakeetはなまりがあっても正確で、パフォーマンスへの影響もごくわずかだった。ドラッグしたオーディオファイルやYouTube、Instagramのリンクの文字起こし、話者識別付きの会議録音、Markdownでの書き出しもできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "MacParakeetでの音声入力"
+              },
+              {
+                "t": "p",
+                "x": "これらはすべて端末上で動作するため、音声の録音も文字起こしも完全にプライベートに保たれる。Parakeetは、私が使った中でおそらく最高のオンデバイス音声認識モデルだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "十年老笔记本也能跑\n小型本地语音识别",
+          "body": "一位作者用仅占约2GB RAM的小型本地语音模型Parakeet口述了整篇文章。",
+          "mini_headline": "旧笔记本上的小型语音AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "到了2026年，把语音转成文字不应该还需要订阅。于是我安装了Parakeet，这款语音识别模型几乎可以在任何设备上运行，从Raspberry Pi到用了十年的电脑都行。我同时测试了Docker-based模型和带GUI的Mac应用。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "在本地运行Parakeet的MacParakeet"
+              },
+              {
+                "t": "p",
+                "x": "我测试的版本是Parakeet TDT 0.6B v3，这是Nvidia开发的一款600 million 参数模型，不需要独立显卡。量化后的模型约占700MB 存储空间，运行时约占2GB RAM。Docker服务器部署简单，但日常使用不太方便。"
+              },
+              {
+                "t": "p",
+                "x": "MacParakeet将同一模型打包成一款Mac桌面应用，提供新手引导和功能键听写。这篇文章全部是我用MacParakeet口述完成的，即使带口音，Parakeet也识别得很准，对性能的影响微乎其微。它还能转写拖入的音频文件以及YouTube或Instagram链接，录制会议并识别说话人，还能导出Markdown。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "MacParakeet听写"
+              },
+              {
+                "t": "p",
+                "x": "所有这些都在设备端运行，因此语音录音和转写内容完全保持私密。Parakeet或许是我用过的最好的端侧语音识别模型。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un diminuto modelo de voz local\nva en un portátil de diez años",
+          "body": "Un redactor dictó un artículo entero con Parakeet, un pequeño modelo de voz local que usa unos 2GB de RAM.",
+          "mini_headline": "Pequeña AI de voz en un portátil viejo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "En 2026, transcribir voz a texto no debería requerir una suscripción. Así que instalé Parakeet, un modelo de reconocimiento de voz que puede funcionar en casi cualquier cosa, desde una Raspberry Pi hasta un equipo de hace una década, y probé tanto el modelo Docker-based como una app para Mac con GUI."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "MacParakeet ejecutando Parakeet en local"
+              },
+              {
+                "t": "p",
+                "x": "La versión que probé fue Parakeet TDT 0.6B v3, un modelo de 600 millones de parámetros desarrollado por Nvidia que no necesita una tarjeta gráfica dedicada. El modelo cuantizado ocupa unos 700MB de espacio y consume unos 2GB de RAM. El servidor de Docker es fácil de desplegar, pero menos práctico para el uso diario."
+              },
+              {
+                "t": "p",
+                "x": "MacParakeet empaqueta el mismo modelo en una app de escritorio para Mac con un proceso de bienvenida y dictado mediante teclas de función. Dicté todo este texto en MacParakeet, y Parakeet ha sido preciso incluso con acento, con un impacto mínimo en el rendimiento. También puede transcribir archivos de audio arrastrados y enlaces de YouTube o Instagram, grabar reuniones con identificación de hablantes y exportar en Markdown."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "Dictado en MacParakeet"
+              },
+              {
+                "t": "p",
+                "x": "Todo esto se ejecuta en el dispositivo, así que las grabaciones de voz y las transcripciones son totalmente privadas, lo que convierte a Parakeet quizá en el mejor modelo de reconocimiento de voz en el dispositivo que he usado."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "십 년 된 노트북서 도는\n초소형 로컬 음성 인식",
+          "body": "필자가 RAM 2GB 가량의 음성 모델 Parakeet로 기사 전체를 받아썼다.",
+          "mini_headline": "낡은 노트북 속 초소형 음성 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "2026년에 음성을 텍스트로 받아쓰는 데 구독이 필요해서는 안 된다. 그래서 Raspberry Pi부터 십 년 된 컴퓨터까지 거의 모든 기기에서 돌아가는 음성 인식 모델 Parakeet를 설치해, Docker-based 모델과 GUI를 갖춘 Mac 앱을 모두 시험했다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "MacParakeet로 Parakeet를 로컬에서 실행하는 모습"
+              },
+              {
+                "t": "p",
+                "x": "시험한 버전은 Nvidia가 개발한 600 million 파라미터 모델 Parakeet TDT 0.6B v3로, 별도 그래픽카드가 필요 없다. 양자화 모델은 약 700MB 의 저장 공간을 차지하고 RAM은 약 2GB 를 쓴다. Docker 서버는 배포하기 쉽지만 일상적으로 쓰기에는 덜 편하다."
+              },
+              {
+                "t": "p",
+                "x": "MacParakeet는 같은 모델을 온보딩과 기능 키 받아쓰기를 갖춘 Mac 데스크톱 앱으로 묶었다. 이 글 전체를 MacParakeet로 받아썼는데, Parakeet는 억양이 있어도 정확했고 성능 부담도 거의 없었다. 끌어다 놓은 오디오 파일과 YouTube·Instagram 링크를 받아쓰고, 화자 식별 기능으로 회의를 녹음하며, Markdown으로 내보낼 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "MacParakeet 받아쓰기"
+              },
+              {
+                "t": "p",
+                "x": "이 모든 과정이 기기 안에서 돌아가므로 음성 녹음과 받아쓴 텍스트는 완전히 비공개로 남는다. Parakeet는 내가 써 본 온디바이스 음성 인식 모델 가운데 아마 최고일 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "十年前のノートPCで\n動く小型ローカル音声認識",
+          "body": "筆者はRAM約2GB の小型ローカル音声モデルParakeetで、記事全体を音声入力した。",
+          "mini_headline": "古いノートPCで動く小型音声AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "2026年にもなって、音声の文字起こしにサブスクリプションが必要であってはならない。そこで、Raspberry Piから十年前のコンピューターまで、ほぼあらゆる機器で動く音声認識モデルParakeetをインストールし、Docker-basedのモデルとGUI付きのMacアプリの両方を試した。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "MacParakeetでParakeetをローカル実行している様子"
+              },
+              {
+                "t": "p",
+                "x": "試したのはParakeet TDT 0.6B v3で、Nvidiaが開発した600 million パラメータのモデルだ。専用のグラフィックカードは必要ない。量子化モデルの容量は約700MB で、RAM消費は約2GB だ。Dockerサーバーは導入が簡単だが、日常的に使うにはやや不便だ。"
+              },
+              {
+                "t": "p",
+                "x": "MacParakeetは同じモデルを、オンボーディングとファンクションキーによる音声入力を備えたMac用デスクトップアプリにまとめている。この記事はすべてMacParakeetで音声入力したが、Parakeetはなまりがあっても正確で、パフォーマンスへの影響もごくわずかだった。ドラッグしたオーディオファイルやYouTube、Instagramのリンクの文字起こし、話者識別付きの会議録音、Markdownでの書き出しもできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "MacParakeetでの音声入力"
+              },
+              {
+                "t": "p",
+                "x": "これらはすべて端末上で動作するため、音声の録音も文字起こしも完全にプライベートに保たれる。Parakeetは、私が使った中でおそらく最高のオンデバイス音声認識モデルだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "十年老笔记本也能跑\n小型本地语音识别",
+          "body": "一位作者用仅占约2GB RAM的小型本地语音模型Parakeet口述了整篇文章。",
+          "mini_headline": "旧笔记本上的小型语音AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "到了2026年，把语音转成文字不应该还需要订阅。于是我安装了Parakeet，这款语音识别模型几乎可以在任何设备上运行，从Raspberry Pi到用了十年的电脑都行。我同时测试了Docker-based模型和带GUI的Mac应用。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "在本地运行Parakeet的MacParakeet"
+              },
+              {
+                "t": "p",
+                "x": "我测试的版本是Parakeet TDT 0.6B v3，这是Nvidia开发的一款600 million 参数模型，不需要独立显卡。量化后的模型约占700MB 存储空间，运行时约占2GB RAM。Docker服务器部署简单，但日常使用不太方便。"
+              },
+              {
+                "t": "p",
+                "x": "MacParakeet将同一模型打包成一款Mac桌面应用，提供新手引导和功能键听写。这篇文章全部是我用MacParakeet口述完成的，即使带口音，Parakeet也识别得很准，对性能的影响微乎其微。它还能转写拖入的音频文件以及YouTube或Instagram链接，录制会议并识别说话人，还能导出Markdown。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "MacParakeet听写"
+              },
+              {
+                "t": "p",
+                "x": "所有这些都在设备端运行，因此语音录音和转写内容完全保持私密。Parakeet或许是我用过的最好的端侧语音识别模型。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un diminuto modelo de voz local\nva en un portátil de diez años",
+          "body": "Un redactor dictó un artículo entero con Parakeet, un pequeño modelo de voz local que usa unos 2GB de RAM.",
+          "mini_headline": "Pequeña AI de voz en un portátil viejo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "En 2026, transcribir voz a texto no debería requerir una suscripción. Así que instalé Parakeet, un modelo de reconocimiento de voz que puede funcionar en casi cualquier cosa, desde una Raspberry Pi hasta un equipo de hace una década, y probé tanto el modelo Docker-based como una app para Mac con GUI."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "MacParakeet ejecutando Parakeet en local"
+              },
+              {
+                "t": "p",
+                "x": "La versión que probé fue Parakeet TDT 0.6B v3, un modelo de 600 millones de parámetros desarrollado por Nvidia que no necesita una tarjeta gráfica dedicada. El modelo cuantizado ocupa unos 700MB de espacio y consume unos 2GB de RAM. El servidor de Docker es fácil de desplegar, pero menos práctico para el uso diario."
+              },
+              {
+                "t": "p",
+                "x": "MacParakeet empaqueta el mismo modelo en una app de escritorio para Mac con un proceso de bienvenida y dictado mediante teclas de función. Dicté todo este texto en MacParakeet, y Parakeet ha sido preciso incluso con acento, con un impacto mínimo en el rendimiento. También puede transcribir archivos de audio arrastrados y enlaces de YouTube o Instagram, grabar reuniones con identificación de hablantes y exportar en Markdown."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+                "cap": "Dictado en MacParakeet"
+              },
+              {
+                "t": "p",
+                "x": "Todo esto se ejecuta en el dispositivo, así que las grabaciones de voz y las transcripciones son totalmente privadas, lo que convierte a Parakeet quizá en el mejor modelo de reconocimiento de voz en el dispositivo que he usado."
               }
             ]
           }

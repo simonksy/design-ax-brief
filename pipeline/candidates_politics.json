@@ -1,237 +1,178 @@
 {
   "section": "politics",
-  "now_iso": "2026-11-01T23:50:00Z",
+  "now_iso": "2026-11-02T22:04:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "title": "Inside the Secretive World of Campaign Ads Funded by AI Super PACs",
+      "url": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+      "source": "Bellingcat",
+      "category": "politics",
+      "published_iso": "2026-11-02T16:11:28+00:00",
+      "excerpt": "Bellingcat analysed more than 300 online video ad campaigns in the US midterms and traced ads backing candidates of both parties to the same AI-industry super PAC network, Leading the Future, which opposes AI rules that 'constrain' innovation and is funded by OpenAI president Greg Brockman and a16z.",
+      "og_image": "https://www.bellingcat.com/app/uploads/2026/11/2026-11-01T204021Z_1780929764_RC28FOAZ9KS3_RTRMADP_3_USA-ELECTION-OHIO-scaled.jpg"
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "source": "The Verge",
       "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-10-30T09:00:00+00:00",
-      "excerpt": "The Wikimedia Foundation asked to file an amicus brief in New York Times v. OpenAI, arguing the court should treat AI training separately from chatbot outputs that reproduce copyrighted text, and warning that both sides' positions could harm open knowledge projects.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+      "published_iso": "2026-11-02T17:51:19+00:00",
+      "excerpt": "The New York Times and other publishers, including the New York Daily News and Chicago Tribune, filed lawsuits against Brave Software alleging unlawful scraping of their content to train and power AI and letting users bypass paywalls.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200"
     },
     {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
       "source": "The Verge",
       "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-10-30T20:26:10+00:00",
-      "excerpt": "OpenAI, Google, Microsoft and Anthropic are implementing a new common setting that lets site owners opt out of having their content used for AI training, a shared standard arriving amid copyright litigation and transparency rules.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "CMA opens investigation into Meta's commercial terms",
-      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
-      "source": "GOV.UK (Competition and Markets Authority)",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-10-30T12:05:53+00:00",
-      "excerpt": "The UK CMA opened a Competition Act investigation into whether Meta's business terms, which would let it collect publishers' website content to develop its own products including AI features without a choice for those businesses, amount to unfair trading conditions.",
-      "og_image": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
-    },
-    {
-      "title": "Faster planning decisions as new rules and AI tackle delays",
-      "url": "https://www.gov.uk/government/news/faster-planning-decisions-as-new-rules-and-ai-tackle-delays",
-      "source": "GOV.UK",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-10-30T22:30:01+00:00",
-      "excerpt": "The UK government announced new planning rules putting expert officers in charge of straightforward applications, alongside AI tools intended to cut delays in local planning decisions.",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-    },
-    {
-      "title": "Thousands of \"ghost students\" use AI to steal millions in student loans, DOJ says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-      "source": "Ars Technica",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-10-30T16:53:49+00:00",
-      "excerpt": "The Justice Department says fraud rings used AI to enroll fake 'ghost students' and complete online coursework to collect federal student aid, and its crackdown may make FAFSA applications more demanding.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg"
-    },
-    {
-      "title": "Democrats press OpenAI over safety researcher firings, security incidents",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/10/democrats-press-openai-over-safety-researcher-firings-security-incidents/416954/",
-      "source": "Nextgov/FCW",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-10-30T16:01:00-04:00",
-      "excerpt": "Democratic lawmakers sent OpenAI a letter questioning its safety practices following the dismissal of three safety researchers and reported security incidents. (Off-list: congressional letter not covered by on-list outlets.)",
-      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/30/GettyImages_2296467863/open-graph.jpg"
-    },
-    {
-      "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
-      "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
-      "source": "The Guardian",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-10-30T14:00:18+00:00",
-      "excerpt": "Legal experts say proposed Australian copyright changes allowing AI training on creative works could amount to an acquisition of property under the constitution, exposing the government to compensation claims. (Off-list.)",
-      "og_image": "https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c147a46b5c92aea4c12a3d1ffe2e30fd"
-    },
-    {
-      "title": "\"매번 동의\" vs \"고지 후 거부\"…AI 시대 개인정보 활용 어떻게(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261031040851530",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-11-01T19:23:36+09:00",
-      "excerpt": "행정안전부와 개인정보보호위원회가 국민 200명이 참여한 숙의 토론회를 열어, AI가 개인정보를 활용할 때마다 동의를 받을지 '사전 고지 후 거부권' 방식으로 바꿀지를 논의했다. 이해민 청와대 AI미래기획수석도 참석했다.",
-      "og_image": "https://img3.yna.co.kr/etc/inner/KR/2026/10/31/AKR20261031040851530_02_i_P4.jpg"
-    },
-    {
-      "title": "정부 업무망서 인터넷 검색에 보고서 작성도…'온AI' 기능 확대",
-      "url": "https://www.yna.co.kr/view/AKR20261101007400530",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-11-01T12:00:06+09:00",
-      "excerpt": "행정안전부가 공무원 업무망 AI 서비스 '온AI'에 최신 인터넷 정보 검색 기능을 넣고, 12월부터 한글 보고서 초안 작성을 지원하는 등 정부 내부 AI 활용을 확대한다.",
-      "og_image": "https://img3.yna.co.kr/photo/yna/YH/2026/04/29/PYH2026042913750001300_P4.jpg"
-    },
-    {
-      "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥",
-      "url": "https://www.etnews.com/20261030000273",
-      "source": "전자신문",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-11-01T18:00:00+09:00",
-      "excerpt": "정부가 AI 데이터센터(AIDC) 특별법 하위법령을 이르면 이번 주 입법예고할 예정이며, 기존 데이터센터 일부를 AI용으로 전환해도 AIDC로 인정하는 등 인정 기준을 시행령 초안보다 완화하는 방향으로 조정했다.",
-      "og_image": "https://img.etnews.com/news/article/2026/10/30/news-p.v1.20261030.5780d4bf04e94925bfaec20e3ebfb7a5_P1.jpg"
-    },
-    {
-      "title": "EPIC Urges FCC to Protect Consumers from Unwanted \"Political\" Robocalls",
-      "url": "https://epic.org/epic-urges-fcc-to-protect-consumers-from-unwanted-political-robocalls/",
-      "source": "EPIC",
-      "category": "politics",
-      "axis": "elections_public_opinion",
-      "published_iso": "2026-10-30T00:00:00-04:00",
-      "excerpt": "EPIC filed reply comments asking the FCC to deny a Club for Growth petition that would exempt political calls using artificial or prerecorded voices, including AI-generated voices, from TCPA consent rules. (Body date only: October 30, 2026.)",
-      "og_image": null
-    },
-    {
-      "title": "일본 덮친 AI 해킹...다카이치 정부, 사전 감시 체제로 전환",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711633",
-      "source": "디지털투데이",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-11-01T13:21:47+09:00",
-      "excerpt": "일본에서 AI를 활용한 사이버 공격이 7월 이후 최소 81건 보고되는 등 잇따르자 다카이치 정부가 사후 대응에서 사전 감시 체제로 사이버 정책을 전환하고 있다고 블룸버그를 인용해 전했다.",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/711633_659142_2113.jpg"
-    },
-    {
-      "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
-      "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
-      "source": "Engadget",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-11-01T19:19:22+00:00",
-      "excerpt": "A federal judge denied xAI's motion to dismiss an NAACP Clean Air Act suit over gas turbines powering its AI data center operations in the Memphis area, letting the case proceed. (Off-list: court ruling not on on-list feeds.)",
-      "og_image": "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg"
-    },
-    {
-      "title": "Behind the Curtain: OpenAI's post-election power play",
-      "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-      "source": "Axios",
-      "category": "politics",
-      "axis": "policy_regulation",
-      "published_iso": "2026-11-01T13:43:06+00:00",
-      "excerpt": "Axios reports OpenAI plans a policy push in the lame-duck session starting Nov. 9, including proposals it frames as 'speed limits' and rebranding data centers as 'AI compute campuses'; claims attributed to OpenAI's Chris Lehane.",
-      "og_image": "https://images.axios.com/IlpmPahsZ9P3SBkaAvv8La1leRk=/0x0:1280x720/2025/09/12/1757712236416.gif?w=3840"
-    },
-    {
-      "title": "Websites pretending to be local news are boosting Democratic candidates",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats",
-      "source": "NPR",
-      "category": "politics",
-      "axis": "elections_public_opinion",
-      "published_iso": "2026-10-30T05:00:00-04:00",
-      "excerpt": "NPR found ChatGPT citing a network of 37 sites of unknown origin, identified by security firm VisionHeight, that mimic local news while promoting candidates in competitive House races; the DCCC denied involvement. (Off-list: AI-chatbot election manipulation, no on-list equivalent.)",
-      "og_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2Fe8%2F6b921dc149ae83e3a3e964376a52%2F2026-10-fakewebsitesdems-final.png"
+      "published_iso": "2026-11-02T18:01:30+00:00",
+      "excerpt": "OpenAI announced a 'Grid Protectors Program', claiming on-site power for its AI campuses can lower electricity costs for other ratepayers, as public opposition to data centers becomes an election-season issue.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200"
     },
     {
       "title": "Prop 45 in California could be hiding a loophole for data centers",
       "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
       "source": "The Verge",
       "category": "politics",
-      "axis": "geopolitics",
       "published_iso": "2026-11-01T13:00:00+00:00",
-      "excerpt": "The Verge reports critics say California's Proposition 45, on the Nov. 3 ballot, could carry a loophole benefiting data centers' energy projects; one critic says 'communities get cut out of the conversation.' Contested claims attributed to critics.",
+      "excerpt": "California's Prop 45 on the Nov. 3 ballot could, critics say, open a path for AI data centers and energy projects to bypass local review, cutting communities out of siting decisions.",
       "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "What Democrats Can Learn From New York's Data Center Moratorium",
-      "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
       "source": "WIRED",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-11-01T11:00:00+00:00",
-      "excerpt": "With anti-data-center candidates on the ballot Tuesday, New York's data center moratorium shows the tensions governments face when acting on AI infrastructure.",
-      "og_image": "https://media.wired.com/photos/6ae4fee12ed4c5e1df28fc74/191:100/w_1280,c_limit/103126-Power%20Play-v1jpg.jpg"
+      "published_iso": "2026-11-02T10:00:00Z",
+      "excerpt": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but carry hidden features for creating violent and sexually abusive AI-generated images and video, raising app-store and deepfake-law enforcement questions.",
+      "og_image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg"
     },
     {
-      "title": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout",
-      "url": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
-      "source": "SemiAnalysis",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-11-01T18:40:45+00:00",
-      "excerpt": "SemiAnalysis argues local opposition to AI datacenters now spans both parties; 2027 capacity is largely locked in, but a prolonged Texas permit freeze is the biggest single risk to the 2028 buildout.",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!hOb4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09f1af6b-128e-41d1-b506-04c922785f9e_2752x1536.jpeg"
-    },
-    {
-      "title": "How Ireland plans to beat the data center backlash",
-      "url": "https://www.politico.eu/article/how-ireland-plans-to-beat-the-data-center-backlash/",
+      "title": "Berlin unveils blueprint to catch up on AI",
+      "url": "https://www.politico.eu/article/berlin-unveil-blueprint-catch-up-ai-artificial-intelligence/",
       "source": "POLITICO Europe",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-30T04:00:00+00:00",
-      "excerpt": "Ireland, Europe's tech capital and a 'canary in the coalmine' for the data center dilemma, is setting policy on how to accommodate AI-driven data center demand on a strained grid.",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/29/GettyImages-1087691690-scaled.jpg"
+      "published_iso": "2026-11-02T12:42:06+00:00",
+      "excerpt": "A report from Germany's government AI task force, presented to the National Security Council, says Germany should become a 'sovereign AI nation' by 2030, securing access to leading models while building European alternatives with France and Canada.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg"
     },
     {
-      "title": "The Promise and Pitfalls of Nvidia's Venture in Kazakhstan",
-      "url": "https://thediplomat.com/2026/10/the-promise-and-pitfalls-of-nvidias-venture-in-kazakhstan/",
+      "title": "India floats AI plan under which 'The model travels to the data, rather than the data travelling to the model'",
+      "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-11-02T04:39:50Z",
+      "excerpt": "India's government proposed an AI architecture in which models are deployed to sit next to government and sectoral data rather than data being exported to Big Tech, aiming for more local AI without open access to national datasets.",
+      "og_image": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "title": "China's AI Data Centers Move West, But Their Tax Revenue Stays East",
+      "url": "https://thediplomat.com/2026/11/chinas-ai-data-centers-move-west-but-their-tax-revenue-stays-east/",
       "source": "The Diplomat",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-30T03:15:00+00:00",
-      "excerpt": "Kazakhstan signed an investment agreement with Firebird for a Data Center Valley powered by 45,000 Nvidia Grace Blackwell GPUs under newly announced US export licenses, with 10% of capacity reserved for domestic users; analysts flag power shortfalls.",
-      "og_image": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg"
+      "published_iso": "2026-11-02T15:37:00Z",
+      "excerpt": "Under China's 'East Data, West Computing' push, AI data centers are clustering in western cities like Ulanqab, but tax revenue is booked in eastern headquarters, leaving host regions struggling to turn the compute boom into development.",
+      "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2025/08/thediplomat_2025-07-31-160232.jpg"
     },
     {
-      "title": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
-      "url": "https://www.channelnewsasia.com/business/exclusive-australian-outback-data-centre-pulls-timeline-after-regulator-stalls-6511551",
-      "source": "CNA (Reuters)",
+      "title": "Behind the Curtain: OpenAI's post-election power play",
+      "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+      "source": "Axios",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-11-02T05:04:21+08:00",
-      "excerpt": "Startup Energy North, developer of one of Australia's biggest planned data centres, scrapped its target start date after a regulator said it needed longer than usual to set environmental parameters, a setback to Australia's bid to be a fast-track destination for AI investment (Reuters). (Off-list: datacenter siting regulation.)",
-      "og_image": "https://dam.mediacorp.sg/image/upload/s--gm6Z64BY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-01T213949Z_2_LYNXNPEMA01AK_RTROPTP_3_AI-AUSTRALIA-DATACENTRE.JPG?itok=0Tub2xnH"
+      "published_iso": "2026-11-01T13:43:06Z",
+      "excerpt": "Axios reports OpenAI plans a post-midterm policy and PR push, including rebranding data centers as 'AI compute campuses', as AI companies prepare for a changed Washington; OpenAI's Chris Lehane calls the election an 'electoral portal'.",
+      "og_image": "https://images.axios.com/8cTCchfXNAg9PQYnsZX4EL3Jc2k=/7x0:1294x724/1366x768/2026/11/01/1793494578708.png"
     },
     {
-      "title": "Electrocutions, Intimidation and Wage Theft Haunt Europe's Data Center Workers",
-      "url": "https://techpolicy.press/electrocutions-intimidation-and-wage-theft-haunt-europes-data-center-workers",
+      "title": "Startups recalibrate Chinese AI for the West",
+      "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/",
+      "source": "Rest of World",
+      "category": "politics",
+      "published_iso": "2026-11-02T11:00:00+00:00",
+      "excerpt": "A growing number of startups are editing powerful Chinese open-weight models to strip censorship and security concerns for Western businesses, a workaround in the US-China AI competition.",
+      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_alignment_final.jpg"
+    },
+    {
+      "title": "Europe and Canada Plot a Digital Alliance as US Ties Fray",
+      "url": "https://techpolicy.press/europe-and-canada-plot-a-digital-alliance-as-us-ties-fray",
       "source": "Tech Policy Press",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-30T06:11:11+00:00",
-      "excerpt": "An investigation finds migrant workers building US tech giants' AI data centers across Europe face injuries, squalid housing, unpaid wages and labor exploitation.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/04dfc6065cd6ec49a8366361577ef7d57510a3b8-1200x675.png"
+      "published_iso": "2026-11-02T15:26:34Z",
+      "excerpt": "After the EU-Canada summit agreement signed Oct. 30, Brussels and Ottawa announced expanded cooperation on digital trade, AI and tech infrastructure as tensions with the US deepen.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/3e2af4225b7fe8375a12cdf4e2ffd530d9ce2500-1200x675.png"
     },
     {
-      "title": "Is Half of China's AI Making Slop?",
-      "url": "https://www.chinatalk.media/p/is-half-of-chinas-ai-making-slop",
-      "source": "ChinaTalk",
+      "title": "How AI Companies Want to Be Governed, and What That Means for AI Governance",
+      "url": "https://techpolicy.press/how-ai-companies-want-to-be-governed-and-what-that-means-for-ai-governance",
+      "source": "Tech Policy Press",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-30T10:04:01+00:00",
-      "excerpt": "ChinaTalk examines the claim that 55% of China's AI token usage goes to low-value content, and what Chinese usage data says about US-China AI competition.",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!flLK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb8f2106-e1db-4fd2-bf05-c2e1532b8a14_1920x1080.png"
+      "published_iso": "2026-11-02T18:33:11Z",
+      "excerpt": "An analysis of recent public-governance pronouncements from Anthropic, Google, Meta, Microsoft and OpenAI and what they imply for how AI will be regulated. (Analysis piece.)",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/a9f894ca1ac69af5141abc8b1dc5884d3f2560a1-1200x675.jpg"
+    },
+    {
+      "title": "There is No Universal Election Integrity Playbook for Platforms",
+      "url": "https://techpolicy.press/there-is-no-universal-election-integrity-playbook-for-platforms",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "published_iso": "2026-11-02T13:13:55Z",
+      "excerpt": "Op-ed arguing election integrity in the AI era is a product design problem as well as a content policy one, published on the eve of the US midterms. (Opinion piece.)",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/b3d0e60a216eda4ed6f0f50598f5882c56e29364-1200x675.png"
+    },
+    {
+      "title": "정부는 AIDC 규제 완화 추진하는데…국회선 인허가 강화 움직임",
+      "url": "https://zdnet.co.kr/view/?no=20261102172512",
+      "source": "ZDNet Korea",
+      "category": "politics",
+      "published_iso": "2026-11-02T17:27:58+09:00",
+      "excerpt": "AI 데이터센터(AIDC) 특별법 시행을 앞두고 정부는 AIDC 인정 기준 완화에 나섰지만, 국회에서는 주민 안전과 생활환경 보호를 위한 인허가 규제 강화 법안이 잇따라 발의되고 있다.",
+      "og_image": "https://image.zdnet.co.kr/2026/01/07/460dc5526564ce592914e44eac53678c.jpg"
+    },
+    {
+      "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배\"",
+      "url": "https://zdnet.co.kr/view/?no=20261102104734",
+      "source": "ZDNet Korea",
+      "category": "politics",
+      "published_iso": "2026-11-02T10:47:34+09:00",
+      "excerpt": "이재명 대통령이 2일 국회 2027년도 예산안 시정연설에서 3대 메가프로젝트인 반도체·피지컬AI·AI 데이터센터에 올해의 두 배인 21.3조원을 투입하겠다고 밝혔다.",
+      "og_image": "https://image.zdnet.co.kr/2026/11/02/6ff797a58c420d25db4c625e6e73db32.jpg"
+    },
+    {
+      "title": "Faster planning decisions as new rules and AI tackle delays",
+      "url": "https://www.gov.uk/government/news/faster-planning-decisions-as-new-rules-and-ai-tackle-delays",
+      "source": "GOV.UK",
+      "category": "politics",
+      "published_iso": "2026-10-30T22:30:01+00:00",
+      "excerpt": "UK government release: from Oct. 31 a National Scheme of Delegation lets planning officers decide straightforward applications, alongside government-backed AI tools for councils to cut planning delays.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+    },
+    {
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+      "source": "NPR",
+      "category": "politics",
+      "published_iso": "2026-11-02T20:02:41Z",
+      "excerpt": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters on Election Day. (Off-list: no on-list outlet carried an election-day chatbot piece.)",
+      "og_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F38%2F09ecdec14eff88fe2fc14345fc06%2Fgettyimages-2302583503.jpg"
+    },
+    {
+      "title": "Exclusive: Election 'war rooms' enter the AI age",
+      "url": "https://www.semafor.com/article/11/02/2026/election-war-rooms-enter-the-ai-age",
+      "source": "Semafor",
+      "category": "politics",
+      "published_iso": "2026-11-02T09:45:37Z",
+      "excerpt": "Both OpenAI and Anthropic will run election 'war rooms' for the midterms, a first for both, to keep their platforms giving accurate voting information amid deepfake and AI-search misinformation threats. (Off-list; OpenAI's operations center was first reported Oct. 28 - the Anthropic war room is the new element.)",
+      "og_image": "https://img.semafor.com/3aa0f08a825d145ec3115d9816d7ec544f46fbca-4000x2672.jpg?rect=0,286,4000,2100&w=1200&h=630&q=75&auto=format"
+    },
+    {
+      "title": "Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker",
+      "url": "https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/",
+      "source": "404 Media",
+      "category": "politics",
+      "published_iso": "2026-11-02T16:33:20Z",
+      "excerpt": "A polling place handed midterm voters 'I Voted' stickers bearing AI-generated artwork, a small sign of generative AI seeping into official election materials. (Off-list; light item.)",
+      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/10/PXL_20261026_195245509-1-1.jpg"
     }
   ]
 }

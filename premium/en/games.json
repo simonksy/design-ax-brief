@@ -9700,6 +9700,154 @@
           "x": "It can generate images in ~1 second on Apple Silicon and in <0.25s on the latest desktop GPUs, and includes a Character Behavior System for NPCs with personas, memories and motivations, plus a multi-layer safety pipeline. “We believe the future of AI in games isn’t about replacing developers,” said Molino."
         }
       ]
+    },
+    "games/steam-october-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+          "cap": "Image via Steam"
+        },
+        {
+          "t": "p",
+          "x": "A Redditor named ploz dug deep into the stats to find that 49.9 percent of all new games released on Steam in October 2026 disclosed that they were made with AI-generated content, up from 26.4 percent one year ago. In January 2024, when Steam added AI disclosure options, it was just 1.7 percent."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+          "cap": "r/Steam - Almost half of the games released on Steam in October disclosed AI-generated content (49.9%, up from 1.7% in January 2024)"
+        },
+        {
+          "t": "p",
+          "x": "ploz also found that 40.1 percent of all games released in 2026 so far use the AI-generated content tag. The real number is likely higher: some devs don't disclose AI usage, and the disclosure only counts content you see or hear, not anything used in coding."
+        },
+        {
+          "t": "p",
+          "x": "It is “mostly small games” that use the tag: “47 percent of games with fewer than 10 reviews disclose AI, compared to 14 percent of games with 1,000+ reviews.”"
+        },
+        {
+          "t": "p",
+          "x": "Steam does not offer a way to filter out games with AI-generated content from the store entirely. After complaints about “AI slop” during the most recent Steam Next Fest, Valve said it was “aware” of them, but there's no real timetable for a solution."
+        }
+      ]
+    },
+    "games/vrchat-ai-label-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "VRChat is currently weathering a sizable backlash among users due to a controversial decision to not label AI-generated content."
+        },
+        {
+          "t": "p",
+          "x": "A survey earlier this month polled over 21,000 users on whether the social VR platform should label AI-generated content. Japanese outlet Automaton reports that around 95% of responders wanted such a label."
+        },
+        {
+          "t": "p",
+          "x": "“We’re not adding an ‘AI-generated’ label or AI filters,” VRChat says, arguing some creators would pass off generative or assisted work as hand-authored and that it could create ‘sleuthing’ behavior and harassment of creators. Instead, it will ban “AI-generated inaccurate thumbnails” used to advertise worlds and add likes, dislikes and in-app feedback for worlds."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The studio is still debating an optional ‘Human-authored’ mark. Meanwhile users have taken to Steam to ‘review bomb’ the app: VRChat now has a ‘Mostly Negative’ rating from ~4,000 users, 33% positive over the past 30 days, pushing its lifetime rating from ‘Mostly Positive’ to ‘Mixed’."
+        }
+      ]
+    },
+    "games/kocca-ai-gamelab-day": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[iNews24 reporter Kwak Min-gu] The Korea Creative Content Agency (KOCCA) said on the 2nd that it will hold 'AI Game Lab Day 2026,' an event sharing cases of game development using artificial intelligence (AI), at the Global Game Hub Center in Pangyo, Gyeonggi Province, on the 12th."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+          "cap": "Poster for AI Game Lab Day at the Global Game Hub Center. [Photo=Korea Creative Content Agency]"
+        },
+        {
+          "t": "p",
+          "x": "The event was organized to look at how the game development environment is changing as AI technology spreads, and to share Korean developers' real production experience and ways of using the technology."
+        },
+        {
+          "t": "p",
+          "x": "The first keynote will be given by Won Jae-ho, CEO of Anchor Node. Under the theme 'In every period of upheaval, small development teams changed the game,' Won will draw on 26 years of development experience to explain the changes and opportunities that advances in AI technology will bring to small game development teams."
+        },
+        {
+          "t": "p",
+          "x": "Noh Ja-myung, CEO of Moontan Soft, will share the dilemmas and hands-on cases from the development process, centered on experience gained in large-scale game production and the project currently in development. Park Jong-tae, an engineer at Unity, will introduce production methods that combine game engines with AI tools. In particular, he will cover real development cases using the CLI (command-line interface), which runs and manages programs through typed commands."
+        },
+        {
+          "t": "p",
+          "x": "The final session features Song Jae-kyung, founder of XLGAMES, who took part in developing 'The Kingdom of the Winds' and 'Lineage.' Song will share his recent game development experience and engage with participants in an 'Ask Me Anything (AMA)' format, answering questions submitted in advance and from the floor."
+        },
+        {
+          "t": "p",
+          "x": "Joo Sung-ho, head of KOCCA's Game Infrastructure Team, said, \"AI is bringing change across the entire development field, from game planning to production,\" adding, \"We hope this event will be an opportunity for developers to share real use cases and strengthen their AI-based production capabilities.\""
+        }
+      ]
+    },
+    "games/arc-raiders-tts-rerecord": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+          "cap": "Arc Raiders"
+        },
+        {
+          "t": "p",
+          "x": "Embark has since re-recorded lines to inject more real human voices to the game. “I think there was some really fair criticism in there. There's no point in trying to be defensive,” executive producer Aleksander Grøndal says via Arc Raiders' YouTube channel."
+        },
+        {
+          "t": "video",
+          "yt": "_xwbP8KV530"
+        },
+        {
+          "t": "p",
+          "x": "Arc Raiders' launch was overshadowed by controversy over its use of AI to mimic voice actors and supplement the dialogue. The actors signed contracts allowing it, but players called some AI voicelines lifeless, lacklustre, and odd."
+        },
+        {
+          "t": "p",
+          "x": "Embark says it used AI to get updates out faster. “We made a lot of training data from their voices so we could prototype as well with their voice,” audio director Bence Pajor says. For the ping system, “it becomes too impractical to record every possible version of something.”"
+        },
+        {
+          "t": "p",
+          "x": "“We are not in the industry of replacing actors,” chief creative officer Stefan Strandberg says."
+        }
+      ]
+    },
+    "games/claude-noremake-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Update: Anthropic has confirmed it's released an update to Opus 5.5 to \"steer\" Claude Code away from \"recreating someone else's specific game.\""
+        },
+        {
+          "t": "p",
+          "x": "X user Chasm said they spotted an update to Claude Code's \"rules\" pushed sometime on October 27. The rule, listed under \"tengu_heron_brook,\" reads \"Do build original games, games in a genre, and games from the user’s own designs and assets. Do not build a recreation of a specific existing game, even if it is renamed or called original.\" Chasm reports that there is no way to disable the rule."
+        },
+        {
+          "t": "p",
+          "x": "\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy,\" Anthropic's Addy Osmani wrote. \"Original games, genre games, and games built from your own designs and assets are meant to keep working.\""
+        },
+        {
+          "t": "p",
+          "x": "Fear of fast-follow AI remakes has spread among independent developers; Digital Sun Games is one of several studios to cancel an upcoming public playtest for fear someone might ingest the demo into an AI tool and release their own version of ReVamp."
+        },
+        {
+          "t": "p",
+          "x": "The rule may only deter the most low-effort copycats: safety limits can be sidestepped with rhetorical tricks, it's unclear how the software would know whether a user owns a game idea or assets, and cloners can turn to open-weight models with no such restrictions."
+        }
+      ]
     }
   }
 }

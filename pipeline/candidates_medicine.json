@@ -1,16 +1,133 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-01T23:50:00Z",
+  "now_iso": "2026-11-02T22:04:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "의료 AI 정식등재 내년 1분기 윤곽...임시등재 기업들 전환 분수령",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015327",
-      "source": "의학신문",
+      "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+      "source": "Fierce Healthcare",
       "category": "medicine",
-      "published_iso": "2026-11-02T06:00:00+09:00",
-      "excerpt": "정부가 AI 의료기술의 건강보험 정식등재체계 마련에 착수하면서, 임시등재된 의료 AI 기술들이 내년 1분기 정식 급여 전환 여부를 가르는 분수령을 맞는다.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3015327_416258_4335.jpg"
+      "published_iso": "2026-11-02T09:00:00-05:00",
+      "excerpt": "EHR vendor athenahealth is opening patient health records to outside AI assistants, starting with Anthropic's Claude, so patients can ask questions about their own records.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe"
+    },
+    {
+      "title": "FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+      "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-10-30T08:30:00+00:00",
+      "excerpt": "Federal officials are moving behind the scenes to head off a conflict between state AI 'sandboxes' that let clinical AI be tested in care and federal device and payment rules.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1227710555-1024x576.jpg"
+    },
+    {
+      "title": "7 Potential Problems with Medicare's AI Prior Authorization Experiment",
+      "url": "https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/",
+      "source": "MedCity News",
+      "category": "medicine",
+      "published_iso": "2026-11-02T20:39:45+00:00",
+      "excerpt": "An analysis of CMS's WISeR model, which uses AI to flag potentially unnecessary care and speed prior authorization in traditional Medicare, lays out seven risks for patients and providers.",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192.jpg"
+    },
+    {
+      "title": "AI platform maintains success in two pediatric imaging pipelines",
+      "url": "https://www.auntminnie.com/resources/conference/caimi/2026/article/16274659/ai-platform-maintains-success-in-two-pediatric-imaging-pipelines",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-02T19:40:08Z",
+      "excerpt": "At SIIM-CAIMI 2026, a pediatric hospital reported its in-house AI platform sustained performance in production pipelines for bone-length measurement and fetal MRI.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/screenshot-2026-11-02-123751.n2FhVbTA5g.png?auto=format%2Ccompress&fit=max&q=70&w=400"
+    },
+    {
+      "title": "RapidAI adds AZmed's x-ray AI to enterprise platform",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/15975558/azmed-rapidai-adds-azmeds-xray-ai-to-enterprise-platform",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-10-27T20:32:51Z",
+      "excerpt": "RapidAI is integrating AZmed's FDA-cleared x-ray AI applications, including fracture detection, into its enterprise imaging AI platform used by hospitals.",
+      "og_image": null
+    },
+    {
+      "title": "SIIM-CAIMI: Apollo LLM framework shows promise in patient monitoring",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975432/siimcaimi-apollo-llm-framework-shows-promise-in-patient-monitoring",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-10-26T18:46:44Z",
+      "excerpt": "Faisal Mahmood's team presented updates on Apollo, an LLM framework that summarizes longitudinal patient data for clinical monitoring.",
+      "og_image": null
+    },
+    {
+      "title": "A clinical multimodal vision language foundation model with fine-grain explainability (EVLF-FM)",
+      "url": "https://www.nature.com/articles/s41591-026-04655-5",
+      "source": "Nature Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-29T00:00:00Z",
+      "excerpt": "EVLF-FM, a multimodal vision-language foundation model, integrates clinical imaging and text across specialties and gives fine-grained visual explanations for its diagnostic outputs.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04655-5/MediaObjects/41591_2026_4655_Fig1_HTML.png"
+    },
+    {
+      "title": "Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach",
+      "url": "https://www.nature.com/articles/s41746-026-03449-w",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-31T00:00:00Z",
+      "excerpt": "A machine-learning model predicts which hospitalized cancer patients will stay febrile after starting IV antibiotics, aiming to guide earlier escalation or de-escalation.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png"
+    },
+    {
+      "title": "Large language models show product name convergence in drug recommendations",
+      "url": "https://www.nature.com/articles/s44360-026-00205-y",
+      "source": "Nature Health",
+      "category": "medicine",
+      "published_iso": "2026-10-26T00:00:00Z",
+      "excerpt": "Across 123 disease-drug pairs and 1,440 sociodemographic profiles, five LLMs repeatedly converged on specific branded products when recommending treatment.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png"
+    },
+    {
+      "title": "Wearable devices + AI analysis may predict high blood pressure crisis up to 3 days early",
+      "url": "https://newsroom.heart.org/news/wearable-devices-+-ai-analysis-may-predict-high-blood-pressure-crisis-up-to-3-days-early",
+      "source": "American Heart Association Newsroom",
+      "category": "medicine",
+      "published_iso": "2026-11-02T10:00:00Z",
+      "excerpt": "AHA Scientific Sessions 2026 abstract: AI analysis of a cuff BP monitor plus fitness tracker flagged hypertensive crisis risk up to three days ahead; nocturnal patterns and morning surges were top predictors. (Off-list source: AHA primary release, no on-list coverage yet.)",
+      "og_image": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1"
+    },
+    {
+      "title": "Non-experts with AI guidance and off-site review perform quality mobile rural heart scans",
+      "url": "https://newsroom.heart.org/news/non-experts-with-ai-guidance-and-off-site-review-perform-quality-mobile-rural-heart-scans",
+      "source": "American Heart Association Newsroom",
+      "category": "medicine",
+      "published_iso": "2026-11-02T10:00:00Z",
+      "excerpt": "AHA 2026 abstract: health workers untrained in ultrasound used real-time AI guidance in a mobile unit to capture quality echocardiograms in rural U.S. communities, reviewed remotely by experts. (Off-list source: AHA primary release.)",
+      "og_image": "https://iprsoftwaremedia.com/67/files/20269/eec50b9c834cefd555f05b13149e03ca/6ad983fe3d633211624a8985_Ravi%20-%20Mobile%20Health%20Unit/Ravi%20-%20Mobile%20Health%20Unit_hero.jpg?v=452cc052-eaae-4f6d-93f1-4363f72b0584"
+    },
+    {
+      "title": "Does ChatGPT Measure Up to Doctors When It Comes to Questions About IVF?",
+      "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123668",
+      "source": "MedPage Today",
+      "category": "medicine",
+      "published_iso": "2026-10-30T20:03:00Z",
+      "excerpt": "ASRM 2026: physicians rated ChatGPT's answers on IVF process and risks as clear and generally accurate but less accurate and complete than ASRM patient materials (accuracy 3.98 vs 5.00).",
+      "og_image": "https://assets.medpagetoday.net/media/images/123xxx/123668.jpg"
+    },
+    {
+      "title": "Governments across Europe and Central Asia unanimously adopt new vision for AI in health care",
+      "url": "https://www.who.int/europe/news/item/29-10-2026-governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care",
+      "source": "WHO Europe",
+      "category": "medicine",
+      "published_iso": "2026-10-29T07:01:00Z",
+      "excerpt": "The 53 member states of WHO's European Region adopted a regional framework for safe, equitable AI in health systems.",
+      "og_image": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+    },
+    {
+      "title": "Partnering with Singapore to bring frontier AI to public health",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+      "source": "Google Blog",
+      "category": "medicine",
+      "published_iso": "2026-10-29T03:30:00Z",
+      "excerpt": "Google announced a Singapore health AI research hub and initiatives to support clinicians and public health programs.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo_b8aPOti.width-1300.jpg"
     },
     {
       "title": "무릎 심사에 'AI 판독' 활용한 심평원…이의신청까지 확대하나",
@@ -18,7 +135,7 @@
       "source": "청년의사",
       "category": "medicine",
       "published_iso": "2026-10-31T07:57:28+09:00",
-      "excerpt": "심평원은 9월부터 무릎관절 진료비 심사에 AI 영상 판독 결과를 활용하고 척추·요로결석으로 확대할 계획이지만, AI 판독과 심사자 판단의 일치율·오판독 검증 자료는 아직 없다.",
+      "excerpt": "건강보험심사평가원이 무릎관절 진료비 심사에 AI 영상 판독을 도입했지만 '판단 보조 수단'이라며 선을 그었고, AI 판독과 심사자 판단의 일치율·오판독 검증 자료는 아직 없다.",
       "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3044085_3048017_390_v150.jpg"
     },
     {
@@ -27,116 +144,35 @@
       "source": "청년의사",
       "category": "medicine",
       "published_iso": "2026-10-30T20:45:15+09:00",
-      "excerpt": "일산백병원이 에이아이트릭스의 AITRICS-VC(바이탈케어)를 도입했다. 활력징후 6종, 혈액검사 11종, 의식 상태, 나이 등 19개 항목으로 중환자 상태 악화 위험을 예측한다.",
+      "excerpt": "일산백병원이 EMR의 활력징후·혈액검사 등을 AI로 분석해 상태 악화 위험을 예측하는 에이아이트릭스 'AITRICS-VC'를 도입했다.",
       "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3044164_3048100_4510_v150.jpg"
     },
     {
-      "title": "Who's responsible when clinical AI goes wrong? AMA weighs in",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
-      "source": "Fierce Healthcare",
+      "title": "한미약품, '에피데이' 챗봇에 한국형 LLM 구축",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044232",
+      "source": "청년의사",
       "category": "medicine",
-      "published_iso": "2026-10-30T15:30:00-04:00",
-      "excerpt": "The American Medical Association released a new framework laying out how developers, health systems and physicians should share liability when clinical AI causes harm, building on its recent governance guidance.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+      "published_iso": "2026-11-03T05:52:46+09:00",
+      "excerpt": "한미약품이 퓨리오사AI·엑스페릭스 등과 손잡고 디지털 헬스케어 플랫폼 '에피데이' 환자 챗봇을 자체 한국형 LLM 인프라로 전환한다.",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044232_3048168_126_v150.jpg"
     },
     {
-      "title": "Counsel Health launches AI-native weight management program, inks partnership with Lilly Direct",
-      "url": "https://www.fiercehealthcare.com/digital-health/counsel-health-launches-weight-management-program-collabs-eli-lillys-lillydirect",
-      "source": "Fierce Healthcare",
+      "title": "의료 AI 정식등재 내년 1분기 윤곽...임시등재 기업들 전환 분수령",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015327",
+      "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-10-28T07:00:00-04:00",
-      "excerpt": "AI-native primary care company Counsel Health launched a weight management program pairing GLP-1 obesity medications with on-demand physicians and AI-driven care, with access through LillyDirect.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2162809200.jpg?VersionId=3u5BpxpKrLpX3U5qTM8X9r8H0umdJrje"
+      "published_iso": "2026-11-02T06:00:00+09:00",
+      "excerpt": "정부가 AI 의료기술의 건강보험 정식등재 체계 마련에 착수하면서 내년 1분기 윤곽이 나올 전망이고, 임시등재된 의료 AI 기술들의 급여 전환이 분수령을 맞는다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3015327_416258_4335.jpg"
     },
     {
-      "title": "FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
-      "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/",
-      "source": "STAT",
+      "title": "메디인테크, 아주대병원서 국산 AI 로봇내시경 '인티온 에스' 실습 성료",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015446",
+      "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-10-30T08:30:00+00:00",
-      "excerpt": "Federal officials are moving behind the scenes to head off a conflict as states set up regulatory sandboxes to test AI in clinical care that run into FDA and CMS rules.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1227710555-1024x576.jpg"
-    },
-    {
-      "title": "FDA clears AI tool for assessing breast cancer recurrence risk via MRI",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-ai-tool-assessing-breast-cancer-recurrence-risk-mri",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-19T10:07:01+00:00",
-      "excerpt": "SimBioSys received FDA clearance for TumorSight Risk, AI software that estimates breast cancer recurrence risk from MRI.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2024-02/microsoftteams-image_52.png?h=fc6f0c5e&itok=evLeoXsY"
-    },
-    {
-      "title": "Radiology societies weigh in on FDA's push to regulate generative AI",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-societies-weigh-fdas-push-regulate-generative-ai",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-23T09:43:18+00:00",
-      "excerpt": "RSNA and other radiology societies filed comments on FDA's approach to generative-AI-enabled devices, urging that patient safety stay central and that regulatory flexibility come with enforceable safeguards. (Follow-up to the covered FDA comment-period story.)",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr"
-    },
-    {
-      "title": "Coronary plaque imaging keeps improving thanks to advanced AI, photon-counting CT",
-      "url": "https://cardiovascularbusiness.com/topics/professional-associations/cardiology-associations/scct/coronary-plaque-imaging-keeps-improving-thanks-advanced-ai-photon-counting-ct",
-      "source": "Cardiovascular Business",
-      "category": "medicine",
-      "published_iso": "2026-10-19T18:51:46+00:00",
-      "excerpt": "AI now automates CCTA plaque measurements that used to be slow manual work, and combined with photon-counting CT it is changing how clinicians assess coronary plaque.",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/jonathon_leipsic_explains_technical_developments_in_ccta_plaque_imaging.jpg?h=58a70a7c&itok=4yMUmyfT"
-    },
-    {
-      "title": "FDA clears Deep Reasoning AI's neurovascular CTA software",
-      "url": "https://www.auntminnie.com/clinical-news/ct/news/16050236/fda-clears-deep-reasoning-ais-neurovascular-cta-software",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-28T18:48:41Z",
-      "excerpt": "Deep Reasoning AI received FDA 510(k) clearance for NeuroDR, which runs automatically after a head-and-neck CTA, removes bone, soft tissue and veins, and sends 3D vessel reconstructions to PACS.",
-      "og_image": null
-    },
-    {
-      "title": "Brainomix highlights AI study on stroke drug responders",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-28T18:36:58Z",
-      "excerpt": "A study using Brainomix's automated noncontrast CT analysis helped identify large hemispheric infarction patients who could benefit from intravenous glyburide.",
-      "og_image": "https://img.auntminnie.com/files/base/smg/all/image/2020/08/am.2019_12_18_00_08_6648_CT_brain_stroke_400.png"
-    },
-    {
-      "title": "SIIM-CAIMI: Apollo LLM framework shows promise in patient monitoring",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975432/siimcaimi-apollo-llm-framework-shows-promise-in-patient-monitoring",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-26T18:46:44Z",
-      "excerpt": "Harvard's Apollo multimodal foundation model, trained on 25 billion records from 7.2 million patients, beats 26 established clinical risk scores and predicts disease onset up to five years ahead.",
-      "og_image": null
-    },
-    {
-      "title": "Accuracy and impact of an AI safety system for missed specialist referrals in primary care",
-      "url": "https://www.nature.com/articles/s41746-026-03444-1",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-30T00:00:00Z",
-      "excerpt": "Researchers built MR-AI, which flags missed specialist referrals in consultation notes, and evaluated it in a quasi-experimental study across seven primary care clinics.",
-      "og_image": null
-    },
-    {
-      "title": "A clinical multimodal vision language foundation model with fine-grain explainability",
-      "url": "https://www.nature.com/articles/s41591-026-04655-5",
-      "source": "Nature Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-29T00:00:00Z",
-      "excerpt": "EVLF-FM, a multimodal vision-language foundation model, achieved higher diagnostic accuracy and better explainability across diverse imaging modalities to support clinical decisions.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04655-5/MediaObjects/41591_2026_4655_Fig1_HTML.png"
-    },
-    {
-      "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
-      "url": "https://www.nature.com/articles/s44220-026-00753-y",
-      "source": "Nature Mental Health",
-      "category": "medicine",
-      "published_iso": "2026-10-28T00:00:00Z",
-      "excerpt": "Clinicians built AMHART to grade how AI chatbots respond to teens disclosing anxiety or depression. Testing four widely used chatbots exposed gaps in how they respond.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png"
+      "published_iso": "2026-11-02T22:31:01+09:00",
+      "excerpt": "의료로봇 스타트업 메디인테크가 아주대병원에서 국산 AI 로봇내시경 '인티온 에스' 임상 실습을 진행했다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3015446_416376_3846.png"
     },
     {
       "title": "[미래 헬스케어 트렌드] 숨빗AI 백재민 이사 \"AI가 판독문 초안 작성, 전문의는 검토·수정…판독 시간 42% 줄였다\"",
@@ -144,7 +180,7 @@
       "source": "메디게이트뉴스",
       "category": "medicine",
       "published_iso": "2026-11-01T17:00:00+09:00",
-      "excerpt": "AI가 영상 판독문 초안을 쓰고 전문의가 검토·수정하는 방식으로 판독 시간을 42% 줄인 현장 사례를 숨빗AI가 소개했다(메디게이트 미래 헬스케어 트렌드 컨퍼런스 강연 시리즈).",
+      "excerpt": "숨빗AI는 AI가 영상 판독문 초안을 쓰고 전문의가 검토·수정하는 방식으로 판독 시간을 42% 줄였다고 밝혔다.",
       "og_image": "https://medigatenews.com/file/news/526217"
     },
     {
@@ -153,26 +189,8 @@
       "source": "메디게이트뉴스",
       "category": "medicine",
       "published_iso": "2026-10-29T15:12:00+09:00",
-      "excerpt": "용인세브란스병원 연구팀이 흉부 X-ray로 좌심실 박출률 저하를 예측하는 AI를 개발했다. 루닛 인사이트 CXR 결과를 활용한 하이브리드 모델의 AUROC는 0.85로, 심장초음파가 어려운 소규모 의료기관에서 쓸 수 있다.",
+      "excerpt": "용인세브란스병원 연구팀이 흉부 X선 영상만으로 좌심실 박출률 저하(심장 기능 저하)를 예측하는 AI 모델을 개발·검증했다.",
       "og_image": "https://medigatenews.com/file/news/537580"
-    },
-    {
-      "title": "삼성전자, 갤럭시 워치 수면 무호흡 기능 고도화…FDA이어 식약처 허가 획득",
-      "url": "https://medigatenews.com/news/1453068542",
-      "source": "메디게이트뉴스",
-      "category": "medicine",
-      "published_iso": "2026-10-28T15:14:00+09:00",
-      "excerpt": "삼성전자가 갤럭시 워치의 AI 기반 수면 무호흡 기능을 고도화해 식약처 허가를 받았다. 징후 유무만 보던 기존 기능과 달리 시간당 호흡 장애 횟수로 경미·중등도·중증을 구분한다.",
-      "og_image": "https://medigatenews.com/file/news/537386"
-    },
-    {
-      "title": "Partnering with Singapore to bring frontier AI to public health",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
-      "source": "Google",
-      "category": "medicine",
-      "published_iso": "2026-10-29T00:00:00+08:00",
-      "excerpt": "Google announced a Singapore research hub and initiatives to support clinicians, advance health research and bring frontier AI to the country's public health system.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo_b8aPOti.width-1300.jpg"
     }
   ]
 }

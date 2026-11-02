@@ -9565,6 +9565,119 @@
           "x": "Al sustituir parte de los metales por metales de tierras raras, los materiales se volvieron magnéticos, lo que podría ampliar su uso en energía y almacenamiento de datos. \"La literatura y las bases de datos son auténticos tesoros\", dijo Johanna Rosén, que dirige el grupo. El estudio se publicó en Science."
         }
       ]
+    },
+    "science/snu-rise-humanoid-vla": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+          "cap": "Un robot humanoide real realiza una tarea continua de varias etapas con RISE. Crédito: Seoul National University College of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad Nacional de Seúl dirigidos por el profesor Songhwai Oh desarrollaron RISE (Responsibility-Induced Specialized Experts), un marco de visión-lenguaje-acción para robots humanoides. Aprende de datos de locomoción y de manipulación de objetos recogidos por separado, por lo que no necesita demostraciones de tareas completas de varias etapas que alternen entre caminar y manipular objetos."
+        },
+        {
+          "t": "p",
+          "x": "RISE usa un modelo compartido de visión y lenguaje, varios expertos de acción y un metacontrolador. Los expertos se ponderan según lo bien que predicen las acciones, de modo que se especializan por sí solos, y los cambios en esos pesos indican cuándo pasar a la siguiente etapa de la tarea."
+        },
+        {
+          "t": "p",
+          "x": "En simulación, RISE logró una tasa de éxito media del 87.3%, frente al 73.6% de una línea base de un solo experto GR00T-based (basada en GR00T). En un robot Unitree G1 real con dos manos Dex3-1, promedió un 50.0% en tareas de dos a cinco etapas frente al 30.0% de la línea base, y su ventaja creció con más etapas. El trabajo fue aceptado en IROS 2026; el equipo ve aplicaciones en logística, fabricación, hospitales, cuidados y organización del hogar."
+        }
+      ]
+    },
+    "science/oxford-pvdc-hard-carbon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+          "cap": "Visualización artística de una simulación atomística a alta temperatura de la descomposición del PVDC. Crédito: Litong Wu & Volker Deringer"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Oxford usaron simulaciones atomísticas impulsadas por aprendizaje automático para rastrear cómo el policloruro de vinilideno (PVDC), un precursor clásico del carbono no grafitizable, se convierte en carbono duro al calentarse."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+          "cap": "Cómo se descompone el PVDC: un átomo de cloro abandona la cadena de carbono y forma cloruro de hidrógeno."
+        },
+        {
+          "t": "p",
+          "x": "La pérdida de hidrógeno y cloro crea sitios de carbono reactivos que forman nuevos enlaces carbono–carbono y una red extendida."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+          "cap": "Capturas de la simulación que muestran anillos de carbono de seis miembros uniéndose con el tiempo en una red extendida."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia del grafito, esta red incluye anillos de cinco y siete miembros, que añaden curvatura e impiden la formación de capas ordenadas de grafito. El estudio aparece en Chemical Science (DOI: 10.1039/d6sc05974k) y los autores han publicado abiertamente sus datos de investigación."
+        }
+      ]
+    },
+    "science/chalmers-gnn-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Gotemburgo y de la Universidad Tecnológica Chalmers demostraron un decodificador neuronal modular para la corrección cuántica de errores con código de superficie que se transfiere entre arquitecturas de hardware, perfiles de ruido variables y operaciones lógicas de varios parches. Lo validaron con datos de la generación Nighthawk r1 de IBM Quantum (ibm_berlin) y del procesador Sycamore de Google Quantum AI, que opera por debajo del umbral."
+        },
+        {
+          "t": "p",
+          "x": "El marco supera al emparejamiento perfecto de peso mínimo (MWPM) en experimentos de memoria y decodifica una operación real de cirugía de red ZZ-merge con dos parches, y aun así puede entrenarse en una sola GPU comercial. A diferencia de los densos bloques Transformer recurrentes de AlphaQubit, una red neuronal de grafos local y compartida procesa pequeños clústeres espaciotemporales de 3×3×2, que las capas convolucionales agregan a escala gruesa y una GRU integra en el tiempo, con unos dos a tres millones de parámetros para las distancias d = 3, 5, 7 y 9."
+        },
+        {
+          "t": "p",
+          "x": "El uso en tiempo real exigirá inferencias por debajo del microsegundo, probablemente compilando la arquitectura GNN-RNN en aceleradores FPGA o ASIC. El preprint está en arXiv, con modelos de código abierto y scripts de entrenamiento en GitHub."
+        }
+      ]
+    },
+    "science/sentira-10x-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10x Genomics lanza Sentira Single Cell, un análisis agéntico en la nube impulsado por los modelos Claude de Anthropic, como aplicación para usuarios de Chromium. El CTO Michael Schnall-Levin afirma que el análisis de célula única siempre ha tenido un “problema de la última milla”; con Sentira, “lo que antes podía llevarle a alguien semanas podría llevar horas”."
+        },
+        {
+          "t": "p",
+          "x": "Construido sobre 10x Cloud, permite a los investigadores hacer preguntas en una interfaz de chat mientras los scripts y el código de análisis se escriben en el back end. 10x no entrena su propio LLM, y los datos de los clientes no vuelven a los modelos. Sentira espacial se lanzó unas semanas antes."
+        },
+        {
+          "t": "p",
+          "x": "El precio se basa en créditos: cada sesión agéntica cuesta ~12 créditos y un análisis completo, alrededor de 60; los usuarios reciben 100 créditos promocionales para su primer conjunto de datos de Chromium. Schnall-Levin advierte que las herramientas no son perfectas: “la gente sigue teniendo la obligación y la responsabilidad”."
+        }
+      ]
+    },
+    "science/mutexagpt-enzyme-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
+          "cap": "El diseño de MutexaGPT. Crédito: Nature Computational Science (2026)."
+        },
+        {
+          "t": "p",
+          "x": "El químico de Vanderbilt Zhongyue (John) Yang y sus colegas crearon MutexaGPT, una herramienta de AI que permite a los investigadores describir en lenguaje llano los cambios que desean en una enzima, y que toma como entrada peticiones guiadas por la intuición."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta usa agentes de modelos de lenguaje de gran tamaño para obtener la información que falta, construye modelos de enzimas basados en la física, predice mutaciones y convierte los resultados en propuestas de diseño aplicables. El objetivo es acelerar la ingeniería de enzimas, que todavía depende mucho de un costoso proceso de ensayo y error."
+        },
+        {
+          "t": "p",
+          "x": "Entre los posibles usos figuran enzimas activas en frío para el procesamiento de alimentos, detergentes que funcionan en agua fría y una fabricación farmacéutica más eficiente. \"No estamos usando la AI para hacer las cosas de forma más eficiente sin personas\", dijo Yang. El estudio se publica en Nature Computational Science."
+        }
+      ]
     }
   }
 }

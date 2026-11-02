@@ -1,151 +1,169 @@
 {
   "section": "science",
-  "now_iso": "2026-11-01T23:50:00Z",
+  "now_iso": "2026-11-02T22:04:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
-      "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
-      "source": "Phys.org (Vanderbilt University)",
-      "category": "life_science",
-      "published_iso": "2026-10-31T15:00:01-04:00",
-      "excerpt": "Vanderbilt's MutexaGPT uses LLM agents to turn plain-language, intuition-based enzyme requests into physics-based enzyme models and proposed mutations (Nature Computational Science).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg"
+      "title": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
+      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-11-02T09:40:10-05:00",
+      "excerpt": "University of Osaka researchers built an automated robotic platform that records antisolvent droplet behavior during perovskite film fabrication; machine learning sorted the variables to find an optimal processing window, yielding a 24.4%-efficient cell (ACS Nano).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg"
     },
     {
-      "title": "New AI tool helps scientists identify bacteria hidden in soil",
-      "url": "https://phys.org/news/2026-10-ai-tool-scientists-bacteria-hidden.html",
-      "source": "Phys.org (Hebrew University of Jerusalem)",
-      "category": "life_science",
-      "published_iso": "2026-10-29T22:00:02-04:00",
-      "excerpt": "BBERT, a DNA language model, classifies 100-base soil-DNA fragments as bacterial (~90% accuracy) and finds reading frames (~96%) without reference databases, cutting genome reconstruction from ~66 to 25 hours (Nucleic Acids Research).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg"
+      "title": "Humanoid AI connects walking and object handling without demonstrations of complete task sequences",
+      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-11-02T16:00:26-05:00",
+      "excerpt": "Seoul National University's RISE vision-language-action model learns locomotion and manipulation from separately collected data and chains them into multistep tasks, scoring 87.3% vs 73.6% for a GR00T baseline in simulation and 50% vs 30% on a real Unitree G1 (IROS 2026).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg"
     },
     {
-      "title": "AI used to identify new human cell-surface proteins missing from major databases",
-      "url": "https://phys.org/news/2026-10-human-surfaceome-ai-flags-potential.html",
-      "source": "Phys.org (Hertz Foundation / Deliverome Project)",
-      "category": "research_automation",
-      "published_iso": "2026-10-29T12:00:00-04:00",
-      "excerpt": "A Claude Sonnet 4.6-based literature agent judged whether proteins sit on human cell surfaces with 95.7% accuracy (vs ~90% for UniProt) and flagged 1,108 surface proteins absent from all five major databases (bioRxiv).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-used-to-identify-ne.jpg"
+      "title": "AI slays the dragon as four agents conquer Minecraft without human intervention",
+      "url": "https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-10-20T11:15:14-04:00",
+      "excerpt": "A Google DeepMind preprint reports four Gemini 4 Argon agents, given only the goal of defeating the Ender Dragon, finished Minecraft in one ~27-hour run by coordinating via in-game chat and self-written code, with 605 deaths along the way.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-slays-the-dragon-as.jpg"
     },
     {
-      "title": "AI often passes for human, but asking follow-up questions can trip it up",
-      "url": "https://techxplore.com/news/2026-10-ai-human.html",
-      "source": "Tech Xplore (Nanyang Technological University)",
-      "category": "cognition",
-      "published_iso": "2026-10-29T08:20:04-04:00",
-      "excerpt": "In 72,000+ judgments of output from 636 people and 37 AI models across six language and vision tasks, judges often mistook AI for human, but live follow-up questioning exposed chatbots better as conversations grew longer (Nature Human Behaviour).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg"
+      "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
+      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-10-28T07:00:08-04:00",
+      "excerpt": "Oxford chemists used machine-learning-driven atomistic simulations with quantum-mechanical accuracy to follow PVDC as it is heated, showing how five- and seven-membered carbon rings form and keep the material from ordering into graphite (Chemical Science) — relevant to battery anode hard carbon.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg"
     },
     {
-      "title": "AIs fail to reliably detect AIs in reverse Turing tests",
-      "url": "https://techxplore.com/news/2026-10-ais-reliably-reverse-turing.html",
-      "source": "Tech Xplore (Paris Cite University)",
-      "category": "cognition",
-      "published_iso": "2026-10-27T10:00:01-04:00",
-      "excerpt": "Seven LLMs acting as interrogators in 238 reverse Turing tests identified only 3 of 98 AI respondents while correctly flagging 123 of 140 humans (Computers in Human Behavior Reports).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ais-fail-to-reliably-d.jpg"
+      "title": "Why do people prefer human empathy despite rating AI empathy higher?",
+      "url": "https://phys.org/news/2026-10-people-human-empathy-ai-higher.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-10-31T17:00:01-04:00",
+      "excerpt": "Penn State researchers found participants rated AI-written empathetic replies higher in quality than human ones yet still chose human empathizers when given the choice, with perceived effort driving empathy ratings (Communications Psychology).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/empathy.jpg"
     },
     {
-      "title": "AI framework cuts computing use by two-thirds while more than tripling success in virtual tasks",
-      "url": "https://techxplore.com/news/2026-10-ai-framework-thirds-tripling-success.html",
-      "source": "Tech Xplore (Sungkyunkwan University)",
-      "category": "research_automation",
-      "published_iso": "2026-10-26T12:00:00-04:00",
-      "excerpt": "SKKU's SAG lets an agent gauge its own uncertainty and request feedback only when worth it, cutting compute to about a third and raising virtual-task success from 24.6% to 78.3%; companion VAN-Flow RL filters lucky successes (NeurIPS 2026).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg"
-    },
-    {
-      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-      "source": "ScienceDaily (University of Pennsylvania)",
-      "category": "psychology",
-      "published_iso": "2026-10-21T22:37:01-04:00",
-      "excerpt": "Researchers used AI to analyze nearly 150,000 Reddit posts about unapproved retatrutide, surfacing symptom reports (increased appetite, sleep disturbances, elevated heart rate) that differ from clinical-trial results.",
-      "og_image": null
-    },
-    {
-      "title": "AI detects 'invisible' signs of pancreatic cancer years before diagnosis",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
-      "source": "ScienceDaily (BMJ Group)",
-      "category": "life_science",
-      "published_iso": "2026-10-26T05:25:21-04:00",
-      "excerpt": "The REDMOD AI model spotted subtle pancreatic tissue changes an average of 475 days before diagnosis and was nearly twice as sensitive as experienced radiologists (Gut).",
-      "og_image": null
+      "title": "Automated platform optimizes enzyme production using cell-free protein synthesis and AI-driven design",
+      "url": "https://phys.org/news/2026-11-automated-platform-optimizes-enzyme-production.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-11-02T12:20:10-05:00",
+      "excerpt": "Fraunhofer IZI-BB's ZenBio platform produces enzyme variants by cell-free protein synthesis, measures them under harsh conditions, and lets an AI learn sequence-property links to propose the next design round; a robotic station for 1,500 parallel variants is planned.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-technology-optimiz.jpg"
     },
     {
       "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
       "url": "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows",
       "source": "Live Science",
-      "category": "psychology",
+      "category": "science",
       "published_iso": "2026-10-26T09:00:00Z",
-      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once the help was removed than people who never used AI.",
+      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once that help was removed than people who never used it.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg"
     },
     {
-      "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans'",
+      "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
       "url": "https://www.livescience.com/technology/artificial-intelligence/could-ai-ever-build-itself-scientists-map-the-road-to-the-last-ai-built-by-humans",
       "source": "Live Science",
-      "category": "research_automation",
+      "category": "science",
       "published_iso": "2026-10-30T10:00:00Z",
-      "excerpt": "Researchers examine whether recursive self-improvement, AI systems automating AI research, is viable as a way to tame the soaring cost of developing frontier models.",
+      "excerpt": "Researchers lay out what recursive self-improvement — AI systems automating AI research — would require, and whether it is viable as a way to tame soaring model-development costs.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/hL4HLKumrpcRmmufTAF9LH-2000-80.jpg"
     },
     {
-      "title": "Space outposts beyond the Moon may rely on planetary AI",
-      "url": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
-      "source": "Universe Today (Ohio State University)",
-      "category": "astronomy",
-      "published_iso": "2026-10-31T19:24:37+00:00",
-      "excerpt": "Ohio State's LUMINA builds on lunar vision-language model LLaVA-LE to plan multistep analyses, rank candidate lunar landing sites and explain its evidence (presented at AAS DPS 58).",
-      "og_image": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png"
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence",
+      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-11-02T05:35:00Z",
+      "excerpt": "MIT professors Regina Barzilay and Jim Collins were recognized with the Pritzker Prize for AI and Science Research Excellence for their work on AI-enabled antibiotic discovery, including deep-learning-found compounds such as halicin.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/barzilay-collins-00.jpg"
+    },
+    {
+      "title": "Making machines that can listen",
+      "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-10-28T04:00:00Z",
+      "excerpt": "MIT professor Paris Smaragdis works on machines that hear and understand sounds the way humans do, aiming to improve artificial auditory perception across applications.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Paris-Smaragdis_01-press.jpg"
+    },
+    {
+      "title": "Q&A: How AI came to model the \"messy\" human mind",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-10-23T04:00:00Z",
+      "excerpt": "MIT assistant professor Benjamin Lindquist discusses his research on how randomness and irrationality were built into early AI models designed to mimic human creativity and cognition.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg"
+    },
+    {
+      "title": "Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery",
+      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery",
+      "source": "Quantum Computing Report",
+      "category": "science",
+      "published_iso": "2026-10-29T02:12:19+00:00",
+      "excerpt": "University of Gothenburg and Chalmers researchers built a modular graph-neural-network decoder for surface-code quantum error correction that handles both memory and lattice-surgery operations and outperforms traditional decoders.",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+    },
+    {
+      "title": "FAU Researchers Test Quantum Machine Learning for Lung Cancer Prediction",
+      "url": "https://thequantuminsider.com/2026/11/02/fau-study-quantum-methods-lung-cancer-prediction/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-11-02T15:41:47+00:00",
+      "excerpt": "Florida Atlantic University researchers benchmarked quantum machine learning methods for lung cancer prediction, with a D-Wave annealing approach reaching 91.90% accuracy on real quantum hardware.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_20-40.png"
+    },
+    {
+      "title": "Sentira Brings Claude's AI to 10x Genomics' Chromium Platform",
+      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/",
+      "source": "GEN",
+      "category": "science",
+      "published_iso": "2026-11-02T15:08:21Z",
+      "excerpt": "10x Genomics launched Sentira, an Anthropic Claude-powered AI platform designed to accelerate analysis of single-cell data from its Chromium instruments.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+    },
+    {
+      "title": "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic",
+      "url": "https://www.genengnews.com/topics/omics/100-million-cell-ai-ready-dataset-with-single-cell-and-proteomic-data-created-by-parse-and-nomic/",
+      "source": "GEN",
+      "category": "science",
+      "published_iso": "2026-10-30T19:13:34Z",
+      "excerpt": "Parse Biosciences and Nomic Bio are building Cascade, a 100-million-cell multimodal, time-resolved dataset combining single-cell and proteomic data to train AI models of immune response.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages-2242943155.jpg"
     },
     {
       "title": "To detect deepfake videos, researchers turn to the physics of light",
       "url": "https://physicsworld.com/a/to-detect-deepfake-videos-researchers-turn-to-the-physics-of-light/",
       "source": "Physics World",
-      "category": "physics",
+      "category": "science",
       "published_iso": "2026-10-21T14:00:50+00:00",
-      "excerpt": "An optical deepfake-detection technique claims 97.8% accuracy while using less energy than digital neural networks with similar performance.",
+      "excerpt": "A new optical technique for spotting deepfake videos claims 97.8% accuracy while using less energy than digital neural networks of similar performance.",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg"
     },
     {
-      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-      "source": "MIT News",
-      "category": "life_science",
-      "published_iso": "2026-10-19T18:20:00Z",
-      "excerpt": "MIT's E(3)-Pose, a symmetry-aware AI model, helps capture high-resolution fetal head images to improve early detection of developmental anomalies.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
-    },
-    {
-      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-      "source": "Google Research",
-      "category": "life_science",
-      "published_iso": "2026-10-21T16:23:53+00:00",
-      "excerpt": "In a 385-participant prospective study in Chicago and Nairobi, Google's blind-sweep ultrasound model estimated gestational age on mobile devices with novice operators (MAE 4.18 days vs 4.48 for expert sonographers).",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-    },
-    {
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "source": "Google Research",
-      "category": "life_science",
-      "published_iso": "2026-10-23T18:51:33+00:00",
-      "excerpt": "Google's chest X-ray TB algorithms, certified via Nexus AI, now run in ~40 facilities in six countries, cutting turnaround from weeks to under 45 seconds; open MedSigLIP/MedGemma models run offline.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-    },
-    {
-      "title": "An exclusive conversation with the developer of REA, the viral AI reverse engineering tool",
-      "url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool/",
+      "title": "How to tell if a voice recording is AI-generated",
+      "url": "https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/",
       "source": "Scientific American",
-      "category": "research_automation",
-      "published_iso": "2026-10-30T07:30:00-04:00",
-      "excerpt": "REA, an AI tool that reverse engineers closed software in printers, smart TVs and cars; its pseudonymous creator explains why everyone should get a look inside.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/0d00b657-4e17-4972-a4bf-a57cc0e4ca1b/reverseengineeredcomputer.jpg?m=1793285097.344&w=1200"
+      "category": "science",
+      "published_iso": "2026-11-02T09:15:00-05:00",
+      "excerpt": "Voices can be cloned in seconds; Scientific American explains the acoustic and research-backed tells that help distinguish real speech from AI-generated audio.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/09e21147-be42-4e80-bc96-caee7c15c47b/AI-voice-clone_graphic_leadImage.png?m=1793628091.076&w=1200"
+    },
+    {
+      "title": "Using AI to Avoid Thinking Harms Students",
+      "url": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202611/using-ai-to-avoid-thinking-harms-students",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-11-02T15:08:54-05:00",
+      "excerpt": "Drawing on cognitive-offloading research, the piece argues students facing a hard assignment learn more by asking AI or instructors for hints rather than answers.",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-11/chaya_nuphol.jpg?itok=K6nye9_d"
     }
   ]
 }

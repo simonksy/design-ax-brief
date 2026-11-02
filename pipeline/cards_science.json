@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "science",
   "cards": [
     {
-      "id": "mutexagpt-enzyme-agents",
+      "id": "osaka-perovskite-robot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLM 에이전트가\n직관을 효소 설계로",
-      "body": "Vanderbilt의 MutexaGPT는 일상어 요청을 물리 모델·변이로 바꾼다.",
-      "mini_headline": "LLM 에이전트의 효소 설계",
+      "headline": "로봇·AI가 다듬은\n페로브스카이트 24.4%",
+      "body": "오사카대가 액적 로봇과 머신러닝으로 효율 24.4% 페로브스카이트 전지를 만들었다.",
+      "mini_headline": "로봇이 다듬은 페로브스카이트 전지",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,437 +19,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-            "cap": "MutexaGPT의 설계. 출처: Nature Computational Science (2026)."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+            "cap": "자동 박막 제작 시스템 개략도. 출처: Akinori Saeki, The University of Osaka"
           },
           {
             "t": "p",
-            "x": "Vanderbilt 화학자 Zhongyue (John) Yang과 동료들이 AI 도구 MutexaGPT를 만들었다. 연구자는 원하는 효소 변화를 평소 쓰는 말로 설명하면 되고, 직관에 기댄 요청도 그대로 입력으로 받는다."
+            "x": "오사카대학 연구진이 로봇과 광학 영상, 환경 센서, 머신러닝을 묶어 페로브스카이트 태양전지 박막 제작을 자동화한 플랫폼을 구축했다."
           },
           {
             "t": "p",
-            "x": "대규모 언어 모델 에이전트가 빠진 정보를 끌어내고 물리 기반 효소 모델을 세운 뒤 변이를 예측해, 결과를 바로 실행할 수 있는 설계안으로 정리한다. 효소 공학은 아직도 값비싼 시행착오에 크게 기대는데, 그 속도를 높이려는 시도다."
+            "x": "시스템은 액체 코팅이 색을 바꿔 가며 고체 박막으로 굳는 결정화 과정을 따라간다. 1초도 안 되는 색 변화와 밀리초 단위로 움직이는 반용매 액적까지 잡아낸다. 머신러닝은 이 측정값에서 공정의 핵심 조건을 골라냈다."
           },
-          {
-            "t": "p",
-            "x": "활용처로는 식품 가공용 저온 활성 효소, 찬물에서 작동하는 세제, 더 효율적인 의약품 제조 등이 꼽힌다. Yang은 \"우리는 사람 없이 일을 더 효율적으로 해치우려고 AI를 쓰는 것이 아니다\"라고 말했다. 연구는 Nature Computational Science에 실렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "LLM agents turn intuition\ninto enzyme designs",
-          "body": "Vanderbilt's MutexaGPT turns plain-language enzyme requests into physics-based models and proposed mutations.",
-          "mini_headline": "LLM agents design enzymes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "The design of MutexaGPT. Credit: Nature Computational Science (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt chemist Zhongyue (John) Yang and colleagues built MutexaGPT, an AI tool that lets researchers describe the enzyme changes they want in plain language, taking intuition-driven requests as input."
-              },
-              {
-                "t": "p",
-                "x": "The tool leverages large language model agents to elicit missing information, builds physics-based enzyme models, predicts mutations and converts the results into actionable design proposals. The aim is to speed up enzyme engineering, which still relies heavily on costly trial and error."
-              },
-              {
-                "t": "p",
-                "x": "Possible uses include cold-active enzymes for food processing, detergents that work in cold water and more efficient pharmaceutical manufacturing. \"We are not using AI to get things done more efficiently without people,\" Yang said. The study appears in Nature Computational Science."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "LLM 에이전트가\n직관을 효소 설계로",
-          "body": "Vanderbilt의 MutexaGPT는 일상어 요청을 물리 모델·변이로 바꾼다.",
-          "mini_headline": "LLM 에이전트의 효소 설계",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "MutexaGPT의 설계. 출처: Nature Computational Science (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt 화학자 Zhongyue (John) Yang과 동료들이 AI 도구 MutexaGPT를 만들었다. 연구자는 원하는 효소 변화를 평소 쓰는 말로 설명하면 되고, 직관에 기댄 요청도 그대로 입력으로 받는다."
-              },
-              {
-                "t": "p",
-                "x": "대규모 언어 모델 에이전트가 빠진 정보를 끌어내고 물리 기반 효소 모델을 세운 뒤 변이를 예측해, 결과를 바로 실행할 수 있는 설계안으로 정리한다. 효소 공학은 아직도 값비싼 시행착오에 크게 기대는데, 그 속도를 높이려는 시도다."
-              },
-              {
-                "t": "p",
-                "x": "활용처로는 식품 가공용 저온 활성 효소, 찬물에서 작동하는 세제, 더 효율적인 의약품 제조 등이 꼽힌다. Yang은 \"우리는 사람 없이 일을 더 효율적으로 해치우려고 AI를 쓰는 것이 아니다\"라고 말했다. 연구는 Nature Computational Science에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMエージェントが\n直感を酵素設計に",
-          "body": "VanderbiltのMutexaGPTは、平易な言葉の要求を物理モデルと変異案に変える。",
-          "mini_headline": "LLMエージェントが酵素を設計",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "MutexaGPTの設計。出典：Nature Computational Science (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Vanderbiltの化学者Zhongyue (John) Yangらは、研究者が望む酵素の変化を平易な言葉で記述できるAIツールMutexaGPTを開発した。直感に基づく要求をそのまま入力として受け取る。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは大規模言語モデルのエージェントを使って不足している情報を引き出し、物理ベースの酵素モデルを構築し、変異を予測して、結果を実行可能な設計案に変換する。狙いは、いまも費用のかかる試行錯誤に大きく頼る酵素工学を加速することだ。"
-              },
-              {
-                "t": "p",
-                "x": "用途としては、食品加工向けの低温活性酵素、冷水で機能する洗剤、より効率的な医薬品製造などが考えられる。「人を介さずに物事をより効率的に片付けるためにAIを使っているのではない」とYangは述べた。研究はNature Computational Scienceに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLM智能体把直觉\n变成酶设计",
-          "body": "Vanderbilt的MutexaGPT能把通俗语言的酶需求转化为物理模型和突变方案。",
-          "mini_headline": "LLM智能体设计酶",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "MutexaGPT的设计。来源：Nature Computational Science (2026)。"
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt化学家Zhongyue (John) Yang及其同事开发了AI工具MutexaGPT，让研究人员用通俗语言描述想要的酶改造，并以基于直觉的需求作为输入。"
-              },
-              {
-                "t": "p",
-                "x": "该工具借助大语言模型智能体追问缺失信息，构建基于物理的酶模型，预测突变，并把结果转化为可执行的设计方案。其目标是加快至今仍严重依赖昂贵试错的酶工程。"
-              },
-              {
-                "t": "p",
-                "x": "潜在用途包括食品加工用的低温活性酶、在冷水中起效的洗涤剂，以及更高效的药物生产。Yang表示：“我们使用AI并不是为了在没有人的情况下更高效地把事情做完。”该研究发表于Nature Computational Science。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Agentes LLM convierten la\nintuición en diseños de enzimas",
-          "body": "MutexaGPT, de Vanderbilt, convierte pedidos de enzimas en lenguaje llano en modelos físicos y mutaciones propuestas.",
-          "mini_headline": "Agentes LLM diseñan enzimas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "El diseño de MutexaGPT. Crédito: Nature Computational Science (2026)."
-              },
-              {
-                "t": "p",
-                "x": "El químico de Vanderbilt Zhongyue (John) Yang y sus colegas crearon MutexaGPT, una herramienta de AI que permite a los investigadores describir en lenguaje llano los cambios que desean en una enzima, y que toma como entrada peticiones guiadas por la intuición."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta usa agentes de modelos de lenguaje de gran tamaño para obtener la información que falta, construye modelos de enzimas basados en la física, predice mutaciones y convierte los resultados en propuestas de diseño aplicables. El objetivo es acelerar la ingeniería de enzimas, que todavía depende mucho de un costoso proceso de ensayo y error."
-              },
-              {
-                "t": "p",
-                "x": "Entre los posibles usos figuran enzimas activas en frío para el procesamiento de alimentos, detergentes que funcionan en agua fría y una fabricación farmacéutica más eficiente. \"No estamos usando la AI para hacer las cosas de forma más eficiente sin personas\", dijo Yang. El estudio se publica en Nature Computational Science."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "LLM 에이전트가\n직관을 효소 설계로",
-          "body": "Vanderbilt의 MutexaGPT는 일상어 요청을 물리 모델·변이로 바꾼다.",
-          "mini_headline": "LLM 에이전트의 효소 설계",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "MutexaGPT의 설계. 출처: Nature Computational Science (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt 화학자 Zhongyue (John) Yang과 동료들은 연구자가 원하는 효소 변화를 일상 언어로 설명할 수 있는 AI 도구 MutexaGPT를 만들었다. 이 도구는 직관에 기댄 요청을 입력으로 받는다."
-              },
-              {
-                "t": "p",
-                "x": "이 도구는 대규모 언어 모델 에이전트로 빠진 정보를 끌어내고, 물리 기반 효소 모델을 구축하며, 변이를 예측해 결과를 실행 가능한 설계안으로 바꾼다. 목표는 여전히 값비싼 시행착오에 크게 기대는 효소 공학의 속도를 높이는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "활용처로는 식품 가공용 저온 활성 효소, 찬물에서 작동하는 세제, 더 효율적인 의약품 제조 등이 꼽힌다. Yang은 \"우리는 사람 없이 일을 더 효율적으로 해치우려고 AI를 쓰는 것이 아니다\"라고 말했다. 연구는 Nature Computational Science에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMエージェントが\n直感を酵素設計に",
-          "body": "VanderbiltのMutexaGPTは、平易な言葉の要求を物理モデルと変異案に変える。",
-          "mini_headline": "LLMエージェントが酵素を設計",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "MutexaGPTの設計。出典：Nature Computational Science (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Vanderbiltの化学者Zhongyue (John) Yangらは、研究者が望む酵素の変化を平易な言葉で記述できるAIツールMutexaGPTを開発した。直感に基づく要求をそのまま入力として受け取る。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは大規模言語モデルのエージェントを使って不足している情報を引き出し、物理ベースの酵素モデルを構築し、変異を予測して、結果を実行可能な設計案に変換する。狙いは、いまも費用のかかる試行錯誤に大きく頼る酵素工学を加速することだ。"
-              },
-              {
-                "t": "p",
-                "x": "用途としては、食品加工向けの低温活性酵素、冷水で機能する洗剤、より効率的な医薬品製造などが考えられる。「人を介さずに物事をより効率的に片付けるためにAIを使っているのではない」とYangは述べた。研究はNature Computational Scienceに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLM智能体把直觉\n变成酶设计",
-          "body": "Vanderbilt的MutexaGPT能把通俗语言的酶需求转化为物理模型和突变方案。",
-          "mini_headline": "LLM智能体设计酶",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "MutexaGPT的设计。来源：Nature Computational Science (2026)。"
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt化学家Zhongyue (John) Yang及其同事开发了AI工具MutexaGPT，让研究人员用通俗语言描述想要的酶改造，并以基于直觉的需求作为输入。"
-              },
-              {
-                "t": "p",
-                "x": "该工具借助大语言模型智能体追问缺失信息，构建基于物理的酶模型，预测突变，并把结果转化为可执行的设计方案。其目标是加快至今仍严重依赖昂贵试错的酶工程。"
-              },
-              {
-                "t": "p",
-                "x": "潜在用途包括食品加工用的低温活性酶、在冷水中起效的洗涤剂，以及更高效的药物生产。Yang表示：“我们使用AI并不是为了在没有人的情况下更高效地把事情做完。”该研究发表于Nature Computational Science。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Agentes LLM convierten la\nintuición en diseños de enzimas",
-          "body": "MutexaGPT, de Vanderbilt, convierte pedidos de enzimas en lenguaje llano en modelos físicos y mutaciones propuestas.",
-          "mini_headline": "Agentes LLM diseñan enzimas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-                "cap": "El diseño de MutexaGPT. Crédito: Nature Computational Science (2026)."
-              },
-              {
-                "t": "p",
-                "x": "El químico de Vanderbilt Zhongyue (John) Yang y sus colegas crearon MutexaGPT, una herramienta de AI que permite a los investigadores describir en lenguaje llano los cambios que desean en una enzima, y que toma como entrada peticiones guiadas por la intuición."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta usa agentes de modelos de lenguaje de gran tamaño para obtener la información que falta, construye modelos de enzimas basados en la física, predice mutaciones y convierte los resultados en propuestas de diseño aplicables. El objetivo es acelerar la ingeniería de enzimas, que todavía depende mucho de un costoso proceso de ensayo y error."
-              },
-              {
-                "t": "p",
-                "x": "Entre los posibles usos figuran enzimas activas en frío para el procesamiento de alimentos, detergentes que funcionan en agua fría y una fabricación farmacéutica más eficiente. \"No estamos usando la AI para hacer las cosas de forma más eficiente sin personas\", dijo Yang. El estudio se publica en Nature Computational Science."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "bbert-soil-dna-model",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "DNA 언어 모델이\n흙 속 세균을 찾다",
-      "body": "BBERT는 세균 DNA를 약 90% 가려내 복원 66시간을 25시간으로 줄인다.",
-      "mini_headline": "흙 속 세균 찾는 AI",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-tool-scientists-bacteria-hidden.html",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-            "cap": "초록. 출처: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+            "cap": "다결정 박막 형성 문제의 해법을 그린 모식도. 출처: Akinori Saeki, The University of Osaka"
           },
           {
             "t": "p",
-            "x": "Hebrew University of Jerusalem과 협력 기관 연구진이 최소 100 염기 길이의 짧은 세균 DNA 조각까지 식별하는 AI 도구 BBERT를 개발했다. BBERT는 서열을 참조 데이터베이스와 맞춰 보지 않고 세균 DNA의 패턴 자체를 학습한다. 그래서 데이터베이스에 없는 생물을 다룰 때 특히 쓸모가 있다."
-          },
-          {
-            "t": "p",
-            "x": "벤치마크에서 BBERT는 세균 DNA와 비세균 DNA를 약 90% 정확도로 구별했다. BBERT로 걸러내자 모의 혼합 시료의 유전체 복원 시간이 데이터셋당 약 66시간에서 25시간으로 줄었고, 세균 유전체 커버리지는 약 96%를 유지했다. 그래픽카드만 제대로 갖추면 개인용 컴퓨터에서도 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "한계도 있다. 엽록체 DNA를 세균으로 잘못 분류하거나 세균과 고세균을 잘 구분하지 못하고, 세균 정보를 이따금 놓치기도 한다. 연구는 Nucleic Acids Research에 실렸다."
+            "x": "연구팀은 이를 토대로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 얻었다. 연구는 Ryosuke Kado와 Akinori Saeki가 이끌었고 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A DNA language model finds\nbacteria hidden in soil",
-          "body": "Reference-free BBERT spots bacterial DNA with about 90% accuracy, cutting genome rebuilds from 66 to 25 hours.",
-          "mini_headline": "AI finds soil bacteria",
+          "headline": "Robot and AI tune perovskite\nsolar cells to 24.4%",
+          "body": "Osaka researchers paired a droplet-imaging robot with machine learning to reach a 24.4%-efficient perovskite cell.",
+          "mini_headline": "Robot tunes perovskite cells",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "Abstract. Credit: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "Schematic of an automated film fabrication system. Credit: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Researchers at the Hebrew University of Jerusalem and partner institutions developed BBERT, an AI tool that identifies bacterial DNA fragments as short as 100 bases. Rather than matching sequences against reference databases, BBERT learns patterns in bacterial DNA, which helps with organisms missing from those databases."
+                "x": "Researchers at the University of Osaka have built an automated platform that combines a robot, optical imaging, environmental sensors and machine learning to fabricate perovskite solar-cell films."
               },
               {
                 "t": "p",
-                "x": "In benchmarks it distinguished bacterial from nonbacterial DNA with about 90% accuracy. Filtering with BBERT sped up genome reconstruction in simulated mixtures from about 66 hours to 25 hours per dataset while keeping about 96% of bacterial genome coverage, and it can run on a personal computer with a suitable graphics card."
+                "x": "The system tracks how the liquid coating changes color and crystallizes into a solid film, capturing color changes within a fraction of a second and the motion of antisolvent droplets within milliseconds. Machine learning used these measurements to identify the processing conditions that matter."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "Schematic drawing of solution to multigrain film formation. Credit: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Limitations include misclassifying chloroplast DNA as bacterial, difficulty separating bacteria from archaea and occasional loss of bacterial information. The study was published in Nucleic Acids Research."
+                "x": "Using these insights to refine the coating process, the team produced a lead-based perovskite solar cell with a 24.4% power conversion efficiency. The study, led by Ryosuke Kado and Akinori Saeki, is published in ACS Nano (DOI: 10.1021/acsnano.6c11386)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "DNA 언어 모델이\n흙 속 세균을 찾다",
-          "body": "BBERT는 세균 DNA를 약 90% 가려내 복원 66시간을 25시간으로 줄인다.",
-          "mini_headline": "흙 속 세균 찾는 AI",
+          "headline": "로봇·AI가 다듬은\n페로브스카이트 24.4%",
+          "body": "오사카대가 액적 로봇과 머신러닝으로 효율 24.4% 페로브스카이트 전지를 만들었다.",
+          "mini_headline": "로봇이 다듬은 페로브스카이트 전지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "초록. 출처: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "자동 박막 제작 시스템 개략도. 출처: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Hebrew University of Jerusalem과 협력 기관 연구진이 최소 100 염기 길이의 짧은 세균 DNA 조각까지 식별하는 AI 도구 BBERT를 개발했다. BBERT는 서열을 참조 데이터베이스와 맞춰 보지 않고 세균 DNA의 패턴 자체를 학습한다. 그래서 데이터베이스에 없는 생물을 다룰 때 특히 쓸모가 있다."
+                "x": "오사카대학 연구진이 로봇과 광학 영상, 환경 센서, 머신러닝을 묶어 페로브스카이트 태양전지 박막 제작을 자동화한 플랫폼을 구축했다."
               },
               {
                 "t": "p",
-                "x": "벤치마크에서 BBERT는 세균 DNA와 비세균 DNA를 약 90% 정확도로 구별했다. BBERT로 걸러내자 모의 혼합 시료의 유전체 복원 시간이 데이터셋당 약 66시간에서 25시간으로 줄었고, 세균 유전체 커버리지는 약 96%를 유지했다. 그래픽카드만 제대로 갖추면 개인용 컴퓨터에서도 돌아간다."
+                "x": "시스템은 액체 코팅이 색을 바꿔 가며 고체 박막으로 굳는 결정화 과정을 따라간다. 1초도 안 되는 색 변화와 밀리초 단위로 움직이는 반용매 액적까지 잡아낸다. 머신러닝은 이 측정값에서 공정의 핵심 조건을 골라냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "다결정 박막 형성 문제의 해법을 그린 모식도. 출처: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "한계도 있다. 엽록체 DNA를 세균으로 잘못 분류하거나 세균과 고세균을 잘 구분하지 못하고, 세균 정보를 이따금 놓치기도 한다. 연구는 Nucleic Acids Research에 실렸다."
+                "x": "연구팀은 이를 토대로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 얻었다. 연구는 Ryosuke Kado와 Akinori Saeki가 이끌었고 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DNA言語モデルが\n土中の細菌を発見",
-          "body": "BBERTは細菌DNAを約90%の精度で見分け、再構築を66時間から25時間に短縮する。",
-          "mini_headline": "AIが土壌細菌を発見",
+          "headline": "ロボットとAIで最適化\nペロブスカイト効率24.4%",
+          "body": "大阪大学は液滴撮影ロボットと機械学習で効率24.4%のペロブスカイト電池を実現した。",
+          "mini_headline": "ロボットがペロブスカイト電池を最適化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "要旨。出典：Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "自動成膜システムの概略図。提供：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Hebrew University of Jerusalemと協力機関の研究者は、わずか100塩基の細菌DNA断片を識別するAIツールBBERTを開発した。BBERTは配列を参照データベースと照合するのではなく細菌DNAのパターンを学習するため、データベースに載っていない生物にも対応しやすい。"
+                "x": "大阪大学の研究チームは、ロボット、光学イメージング、環境センサー、機械学習を組み合わせ、ペロブスカイト太陽電池の膜を作製する自動化プラットフォームを構築した。"
               },
               {
                 "t": "p",
-                "x": "ベンチマークでは、細菌DNAと非細菌DNAを約90%の精度で区別した。BBERTでフィルタリングすると、模擬混合試料のゲノム再構築はデータセットあたり約66時間から25時間に短縮され、細菌ゲノムのカバー率は約96%を保った。適切なグラフィックカードを積んだパソコンでも動かせる。"
+                "x": "このシステムは、液体の塗膜が色を変えながら固体膜へと結晶化する様子を追跡し、色の変化を1秒に満たない間に、貧溶媒の液滴の動きをミリ秒単位で捉える。機械学習はこれらの測定値から、重要な製膜条件を特定した。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "多結晶膜の形成に対する解決策の模式図。提供：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "限界もある。葉緑体DNAを細菌と誤分類すること、細菌と古細菌の区別が難しいこと、細菌の情報がときおり失われることだ。研究はNucleic Acids Researchに掲載された。"
+                "x": "研究チームはこの知見を基に塗布工程を改良し、電力変換効率24.4%の鉛系ペロブスカイト太陽電池を作製した。Ryosuke KadoとAkinori Saekiが主導した本研究は、ACS Nano(DOI: 10.1021/acsnano.6c11386)に掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DNA语言模型\n找出藏在土里的细菌",
-          "body": "无需参照的BBERT识别细菌DNA准确率约90%，将基因组重建从66小时缩至25小时。",
-          "mini_headline": "AI找出土壤细菌",
+          "headline": "机器人与AI调优\n钙钛矿电池效率达24.4%",
+          "body": "大阪大学研究人员将液滴成像机器人与机器学习结合，制成效率24.4%的钙钛矿电池。",
+          "mini_headline": "机器人调优钙钛矿电池",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "摘要。来源：Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "自动化薄膜制备系统示意图。来源：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Hebrew University of Jerusalem及合作机构的研究人员开发了AI工具BBERT，可识别短至100个碱基的细菌DNA片段。BBERT不把序列与参考数据库比对，而是学习细菌DNA的模式，因此有助于识别数据库中缺失的生物。"
+                "x": "大阪大学的研究人员搭建了一个自动化平台，结合机器人、光学成像、环境传感器和机器学习来制备钙钛矿太阳能电池薄膜。"
               },
               {
                 "t": "p",
-                "x": "在基准测试中，它区分细菌与非细菌DNA的准确率约为90%。用BBERT过滤后，模拟混合样本的基因组重建时间从每个数据集约66小时缩短至25小时，同时保留约96%的细菌基因组覆盖度；它还能在配备合适显卡的个人电脑上运行。"
+                "x": "该系统追踪液态涂层变色并结晶成固态薄膜的过程，能在不到一秒内捕捉颜色变化，并以毫秒级精度捕捉反溶剂液滴的运动。机器学习利用这些测量数据找出了关键的工艺条件。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "多晶薄膜形成问题解决方案示意图。来源：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "其局限包括会把叶绿体DNA误判为细菌、难以区分细菌与古菌，以及偶尔丢失细菌信息。该研究发表于Nucleic Acids Research。"
+                "x": "团队据此优化涂布工艺，制成功率转换效率达24.4%的铅基钙钛矿太阳能电池。该研究由Ryosuke Kado和Akinori Saeki领导，发表于ACS Nano（DOI: 10.1021/acsnano.6c11386）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo de lenguaje de DNA halla\nbacterias ocultas en el suelo",
-          "body": "BBERT detecta sin referencias DNA bacteriano con cerca del 90% de acierto y reduce la reconstrucción de 66 a 25 horas.",
-          "mini_headline": "Una AI halla bacterias del suelo",
+          "headline": "Robot e IA afinan celdas solares\nde perovskita hasta el 24.4%",
+          "body": "En Osaka, un robot que filma gotas y aprendizaje automático lograron una celda de perovskita con 24.4% de eficiencia.",
+          "mini_headline": "Un robot afina celdas de perovskita",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "Resumen. Crédito: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "Esquema de un sistema automatizado de fabricación de películas. Crédito: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Hebrew University of Jerusalem y de instituciones asociadas desarrollaron BBERT, una herramienta de AI que identifica fragmentos de DNA bacteriano de apenas 100 bases. En lugar de cotejar secuencias con bases de datos de referencia, BBERT aprende patrones del DNA bacteriano, lo que ayuda con organismos ausentes de esas bases de datos."
+                "x": "Investigadores de la Universidad de Osaka construyeron una plataforma automatizada que combina un robot, imagen óptica, sensores ambientales y aprendizaje automático para fabricar películas de celdas solares de perovskita."
               },
               {
                 "t": "p",
-                "x": "En las pruebas comparativas distinguió el DNA bacteriano del no bacteriano con cerca del 90% de precisión. Filtrar con BBERT aceleró la reconstrucción de genomas en mezclas simuladas de unas 66 horas a 25 horas por conjunto de datos, manteniendo cerca del 96% de la cobertura de genomas bacterianos, y la herramienta puede ejecutarse en un equipo personal con una tarjeta gráfica adecuada."
+                "x": "El sistema sigue cómo el recubrimiento líquido cambia de color y cristaliza en una película sólida: capta los cambios de color en una fracción de segundo y el movimiento de las gotas de antisolvente en milisegundos. El aprendizaje automático usó estas mediciones para identificar las condiciones de procesamiento que importan."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "Esquema de la solución a la formación de películas multigrano. Crédito: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Entre sus limitaciones están clasificar erróneamente el DNA de cloroplastos como bacteriano, la dificultad para separar bacterias de arqueas y la pérdida ocasional de información bacteriana. El estudio se publicó en Nucleic Acids Research."
+                "x": "Con estos hallazgos para afinar el recubrimiento, el equipo produjo una celda solar de perovskita a base de plomo con una eficiencia de conversión de energía del 24.4%. El estudio, dirigido por Ryosuke Kado y Akinori Saeki, se publicó en ACS Nano (DOI: 10.1021/acsnano.6c11386)."
               }
             ]
           }
@@ -457,109 +205,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "DNA 언어 모델이\n흙 속 세균을 찾다",
-          "body": "BBERT는 세균 DNA를 약 90% 가려내 복원 66시간을 25시간으로 줄인다.",
-          "mini_headline": "흙 속 세균 찾는 AI",
+          "headline": "로봇·AI가 다듬은\n페로브스카이트 24.4%",
+          "body": "오사카대는 액적 로봇과 머신러닝으로 효율 24.4% 페로브스카이트 전지를 얻었다.",
+          "mini_headline": "로봇이 다듬은 페로브스카이트 전지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "초록. 출처: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "자동 박막 제작 시스템 개략도. 출처: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Hebrew University of Jerusalem과 협력 기관 연구진은 최소 100 염기 길이의 짧은 세균 DNA 조각까지 식별하는 AI 도구 BBERT를 개발했다. BBERT는 서열을 참조 데이터베이스와 대조하는 대신 세균 DNA의 패턴을 학습하므로, 데이터베이스에 없는 생물을 다룰 때 도움이 된다."
+                "x": "오사카대학 연구진이 로봇, 광학 영상, 환경 센서, 머신러닝을 결합해 페로브스카이트 태양전지 박막을 만드는 자동화 플랫폼을 구축했다."
               },
               {
                 "t": "p",
-                "x": "벤치마크에서 BBERT는 세균 DNA와 비세균 DNA를 약 90% 정확도로 구별했다. BBERT로 걸러내자 모의 혼합 시료의 유전체 복원 시간이 데이터셋당 약 66시간에서 25시간으로 줄었고, 세균 유전체 커버리지는 약 96%를 유지했다. 적절한 그래픽카드를 갖춘 개인용 컴퓨터에서도 돌릴 수 있다."
+                "x": "이 시스템은 액체 코팅이 색을 바꾸며 고체 박막으로 결정화하는 과정을 추적한다. 색 변화는 1초도 안 되는 사이에, 반용매 액적의 움직임은 밀리초 단위로 포착한다. 머신러닝은 이 측정값으로 중요한 공정 조건을 찾아냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "다결정 박막 형성 문제의 해법을 그린 모식도. 출처: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "한계도 있다. 엽록체 DNA를 세균으로 잘못 분류하고, 세균과 고세균을 구분하기 어려우며, 이따금 세균 정보를 잃는다. 연구는 Nucleic Acids Research에 실렸다."
+                "x": "연구팀은 이 결과로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 만들었다. Ryosuke Kado와 Akinori Saeki가 이끈 이 연구는 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DNA言語モデルが\n土中の細菌を発見",
-          "body": "BBERTは細菌DNAを約90%の精度で見分け、再構築を66時間から25時間に短縮する。",
-          "mini_headline": "AIが土壌細菌を発見",
+          "headline": "ロボットとAIで最適化\nペロブスカイト効率24.4%",
+          "body": "大阪大学は液滴撮影ロボットと機械学習で効率24.4%のペロブスカイト電池を実現した。",
+          "mini_headline": "ロボットがペロブスカイト電池を最適化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "要旨。出典：Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "自動成膜システムの概略図。提供：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Hebrew University of Jerusalemと協力機関の研究者は、わずか100塩基の細菌DNA断片を識別するAIツールBBERTを開発した。BBERTは配列を参照データベースと照合するのではなく細菌DNAのパターンを学習するため、データベースに載っていない生物にも対応しやすい。"
+                "x": "大阪大学の研究チームは、ロボット、光学イメージング、環境センサー、機械学習を組み合わせ、ペロブスカイト太陽電池の膜を作製する自動化プラットフォームを構築した。"
               },
               {
                 "t": "p",
-                "x": "ベンチマークでは、細菌DNAと非細菌DNAを約90%の精度で区別した。BBERTでフィルタリングすると、模擬混合試料のゲノム再構築はデータセットあたり約66時間から25時間に短縮され、細菌ゲノムのカバー率は約96%を保った。適切なグラフィックカードを積んだパソコンでも動かせる。"
+                "x": "このシステムは、液体の塗膜が色を変えながら固体膜へと結晶化する様子を追跡し、色の変化を1秒に満たない間に、貧溶媒の液滴の動きをミリ秒単位で捉える。機械学習はこれらの測定値から、重要な製膜条件を特定した。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "多結晶膜の形成に対する解決策の模式図。提供：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "限界もある。葉緑体DNAを細菌と誤分類すること、細菌と古細菌の区別が難しいこと、細菌の情報がときおり失われることだ。研究はNucleic Acids Researchに掲載された。"
+                "x": "研究チームはこの知見を基に塗布工程を改良し、電力変換効率24.4%の鉛系ペロブスカイト太陽電池を作製した。Ryosuke KadoとAkinori Saekiが主導した本研究は、ACS Nano(DOI: 10.1021/acsnano.6c11386)に掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DNA语言模型\n找出藏在土里的细菌",
-          "body": "无需参照的BBERT识别细菌DNA准确率约90%，将基因组重建从66小时缩至25小时。",
-          "mini_headline": "AI找出土壤细菌",
+          "headline": "机器人与AI调优\n钙钛矿电池效率达24.4%",
+          "body": "大阪大学研究人员将液滴成像机器人与机器学习结合，制成效率24.4%的钙钛矿电池。",
+          "mini_headline": "机器人调优钙钛矿电池",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "摘要。来源：Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "自动化薄膜制备系统示意图。来源：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Hebrew University of Jerusalem及合作机构的研究人员开发了AI工具BBERT，可识别短至100个碱基的细菌DNA片段。BBERT不把序列与参考数据库比对，而是学习细菌DNA的模式，因此有助于识别数据库中缺失的生物。"
+                "x": "大阪大学的研究人员搭建了一个自动化平台，结合机器人、光学成像、环境传感器和机器学习来制备钙钛矿太阳能电池薄膜。"
               },
               {
                 "t": "p",
-                "x": "在基准测试中，它区分细菌与非细菌DNA的准确率约为90%。用BBERT过滤后，模拟混合样本的基因组重建时间从每个数据集约66小时缩短至25小时，同时保留约96%的细菌基因组覆盖度；它还能在配备合适显卡的个人电脑上运行。"
+                "x": "该系统追踪液态涂层变色并结晶成固态薄膜的过程，能在不到一秒内捕捉颜色变化，并以毫秒级精度捕捉反溶剂液滴的运动。机器学习利用这些测量数据找出了关键的工艺条件。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "多晶薄膜形成问题解决方案示意图。来源：Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "其局限包括会把叶绿体DNA误判为细菌、难以区分细菌与古菌，以及偶尔丢失细菌信息。该研究发表于Nucleic Acids Research。"
+                "x": "团队据此优化涂布工艺，制成功率转换效率达24.4%的铅基钙钛矿太阳能电池。该研究由Ryosuke Kado和Akinori Saeki领导，发表于ACS Nano（DOI: 10.1021/acsnano.6c11386）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo de lenguaje de DNA halla\nbacterias ocultas en el suelo",
-          "body": "BBERT detecta sin referencias DNA bacteriano con cerca del 90% de acierto y reduce la reconstrucción de 66 a 25 horas.",
-          "mini_headline": "Una AI halla bacterias del suelo",
+          "headline": "Robot e IA afinan celdas solares\nde perovskita hasta el 24.4%",
+          "body": "En Osaka, un robot que filma gotas y aprendizaje automático lograron una celda de perovskita con 24.4% de eficiencia.",
+          "mini_headline": "Un robot afina celdas de perovskita",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-                "cap": "Resumen. Crédito: Nucleic Acids Research (2026). DOI: 10.1093/nar/gkag1002"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+                "cap": "Esquema de un sistema automatizado de fabricación de películas. Crédito: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Hebrew University of Jerusalem y de instituciones asociadas desarrollaron BBERT, una herramienta de AI que identifica fragmentos de DNA bacteriano de apenas 100 bases. En lugar de cotejar secuencias con bases de datos de referencia, BBERT aprende patrones del DNA bacteriano, lo que ayuda con organismos ausentes de esas bases de datos."
+                "x": "Investigadores de la Universidad de Osaka construyeron una plataforma automatizada que combina un robot, imagen óptica, sensores ambientales y aprendizaje automático para fabricar películas de celdas solares de perovskita."
               },
               {
                 "t": "p",
-                "x": "En las pruebas comparativas distinguió el DNA bacteriano del no bacteriano con cerca del 90% de precisión. Filtrar con BBERT aceleró la reconstrucción de genomas en mezclas simuladas de unas 66 horas a 25 horas por conjunto de datos, manteniendo cerca del 96% de la cobertura de genomas bacterianos, y la herramienta puede ejecutarse en un equipo personal con una tarjeta gráfica adecuada."
+                "x": "El sistema sigue cómo el recubrimiento líquido cambia de color y cristaliza en una película sólida: capta los cambios de color en una fracción de segundo y el movimiento de las gotas de antisolvente en milisegundos. El aprendizaje automático usó estas mediciones para identificar las condiciones de procesamiento que importan."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+                "cap": "Esquema de la solución a la formación de películas multigrano. Crédito: Akinori Saeki, The University of Osaka"
               },
               {
                 "t": "p",
-                "x": "Entre sus limitaciones están clasificar erróneamente el DNA de cloroplastos como bacteriano, la dificultad para separar bacterias de arqueas y la pérdida ocasional de información bacteriana. El estudio se publicó en Nucleic Acids Research."
+                "x": "Con estos hallazgos para afinar el recubrimiento, el equipo produjo una celda solar de perovskita a base de plomo con una eficiencia de conversión de energía del 24.4%. El estudio, dirigido por Ryosuke Kado y Akinori Saeki, se publicó en ACS Nano (DOI: 10.1021/acsnano.6c11386)."
               }
             ]
           }
@@ -567,297 +335,15 @@
       }
     },
     {
-      "id": "turing-followup-questions-study",
+      "id": "snu-rise-humanoid-vla",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI는 사람 행세를 하지만\n추가 질문엔 들킨다",
-      "body": "72,000+ 판정서 AI는 흔히 사람으로 통했지만 긴 대화의 추가 질문엔 들켰다.",
-      "mini_headline": "추가 질문이 AI를 가려낸다",
+      "headline": "휴머노이드 AI가 전체\n시연 없이 걷기·조작 연결",
+      "body": "SNU의 RISE가 기술을 이어 G1에서 GR00T를 50% 대 30%로 앞섰다.",
+      "mini_headline": "휴머노이드 AI, 기술을 잇다",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-human.html",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-            "cap": "세 가지 언어 과제로 진행한 Turing식 테스트. 출처: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-          },
-          {
-            "t": "p",
-            "x": "Nanyang Technological University의 Mengmi Zhang 연구팀이 72,000건 이상의 판정을 분석했다. 캡션 작성부터 이미지 속 색과 사물 식별까지 여섯 가지 과제 범주에서 사람 636명과 AI 모델 37개가 내놓은 응답을 두고 내린 판정이다. 통제된 언어 테스트에서 판정자가 작성자를 맞힌 비율은 약 53–57%로, 우연 수준을 겨우 넘었다."
-          },
-          {
-            "t": "p",
-            "x": "더 작은 규모의 실험에서는 판정자가 주제와 추가 질문을 직접 정해 사람과 챗봇에게 물었다. GPT-3.5-Turbo는 일곱 번의 대화에서 모두 정체가 드러났는데, 문체와 응답 타이밍이 단서가 됐을 가능성이 있다. 참가자 28명이 Llama-3-70B-Instruct와 맞붙은 188회 시행에서는 판정자가 여전히 틀리기도 했다. 다만 대화가 길어질수록 기계의 응답을 더 잘 가려냈다."
-          },
-          {
-            "t": "p",
-            "x": "이 실험만으로는 질문 자체의 효과를 따로 떼어낼 수 없으며, 최신 시스템에는 결과가 들어맞지 않을 수도 있다고 저자들은 경고한다. 연구는 Nature Human Behaviour에 실렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI often passes for human\nuntil follow-ups trip it up",
-          "body": "In 72,000+ judgments, AI often passed for human, but live follow-up questions exposed chatbots over longer chats.",
-          "mini_headline": "Follow-ups unmask AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "Turing-like tests for three language tasks. Credit: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "A Nanyang Technological University team led by Mengmi Zhang analyzed more than 72,000 judgments of responses from 636 people and 37 AI models across six task categories, from writing captions to identifying colors and objects in images. In controlled language tests, judges named the author correctly only about 53–57% of the time, barely above chance."
-              },
-              {
-                "t": "p",
-                "x": "In a smaller experiment judges could question a person and a chatbot, choosing their own topics and follow-up questions. They spotted GPT-3.5-Turbo in all seven conversations, though style and timing may have given it away. In 188 trials with 28 participants using Llama-3-70B-Instruct, judges still erred but became better at identifying machine responses as conversations grew longer."
-              },
-              {
-                "t": "p",
-                "x": "The authors caution the experiments cannot isolate the effect of questioning alone, and results may not apply to newer systems. The study appears in Nature Human Behaviour."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI는 사람 행세를 하지만\n추가 질문엔 들킨다",
-          "body": "72,000+ 판정서 AI는 흔히 사람으로 통했지만 긴 대화의 추가 질문엔 들켰다.",
-          "mini_headline": "추가 질문이 AI를 가려낸다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "세 가지 언어 과제로 진행한 Turing식 테스트. 출처: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "Nanyang Technological University의 Mengmi Zhang 연구팀이 72,000건 이상의 판정을 분석했다. 캡션 작성부터 이미지 속 색과 사물 식별까지 여섯 가지 과제 범주에서 사람 636명과 AI 모델 37개가 내놓은 응답을 두고 내린 판정이다. 통제된 언어 테스트에서 판정자가 작성자를 맞힌 비율은 약 53–57%로, 우연 수준을 겨우 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "더 작은 규모의 실험에서는 판정자가 주제와 추가 질문을 직접 정해 사람과 챗봇에게 물었다. GPT-3.5-Turbo는 일곱 번의 대화에서 모두 정체가 드러났는데, 문체와 응답 타이밍이 단서가 됐을 가능성이 있다. 참가자 28명이 Llama-3-70B-Instruct와 맞붙은 188회 시행에서는 판정자가 여전히 틀리기도 했다. 다만 대화가 길어질수록 기계의 응답을 더 잘 가려냈다."
-              },
-              {
-                "t": "p",
-                "x": "이 실험만으로는 질문 자체의 효과를 따로 떼어낼 수 없으며, 최신 시스템에는 결과가 들어맞지 않을 수도 있다고 저자들은 경고한다. 연구는 Nature Human Behaviour에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIは人間になりすますが\n追加質問でぼろが出る",
-          "body": "72,000+件の判定でAIはしばしば人間と見なされたが、長い対話での追加質問で見破られた。",
-          "mini_headline": "追加質問がAIを見破る",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "三つの言語タスクにおけるTuring型テスト。出典：Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "Mengmi Zhang率いるNanyang Technological Universityのチームは、キャプション作成から画像内の色や物体の識別まで、六つのタスク分類にわたって636人と37のAIモデルが出した回答への72,000件を超える判定を分析した。統制された言語テストでは、判定者が書き手を正しく当てたのは約53–57%にとどまり、偶然をわずかに上回る程度だった。"
-              },
-              {
-                "t": "p",
-                "x": "より小規模な実験では、判定者が人間とチャットボットに対し、話題や追加質問を自ら選んで問いかけることができた。判定者は七つの会話すべてでGPT-3.5-Turboを見抜いたが、文体や応答のタイミングが手がかりになった可能性がある。参加者28人がLlama-3-70B-Instructを相手にした188回の試行では、判定者は依然として誤りもしたが、会話が長くなるほど機械の回答を見分けられるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、この実験では質問そのものの効果を切り分けられず、結果が新しいシステムには当てはまらない可能性があると注意を促している。研究はNature Human Behaviourに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI常能冒充人类\n却被追问露馅",
-          "body": "在72,000+次判断中，AI常被当作人类，但长对话中的实时追问让聊天机器人露馅。",
-          "mini_headline": "追问揭穿AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "三项语言任务的Turing式测试。来源：Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "由Mengmi Zhang领导的Nanyang Technological University团队分析了72,000多次判断，对象是636名人类和37个AI模型在六类任务中的回答，任务从撰写图片说明到识别图像中的颜色和物体。在受控语言测试中，判断者正确认出作者的比例仅约53–57%，只略高于随机水平。"
-              },
-              {
-                "t": "p",
-                "x": "在一项规模较小的实验中，判断者可以向一个人和一个聊天机器人提问，自行选择话题和追问。他们在全部七次对话中都识别出了GPT-3.5-Turbo，不过文风和回复时机可能暴露了它。在28名参与者使用Llama-3-70B-Instruct进行的188次试验中，判断者仍会出错，但随着对话变长，识别机器回答的能力有所提高。"
-              },
-              {
-                "t": "p",
-                "x": "作者提醒，这些实验无法单独分离提问本身的作用，结果也未必适用于更新的系统。该研究发表于Nature Human Behaviour。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI suele pasar por humana\npero las repreguntas la delatan",
-          "body": "En 72,000+ juicios la AI pasó a menudo por humana, pero las repreguntas en vivo la delataron en charlas largas.",
-          "mini_headline": "Las repreguntas desenmascaran a la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "Pruebas de tipo Turing para tres tareas de lenguaje. Crédito: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "Un equipo de la Nanyang Technological University dirigido por Mengmi Zhang analizó más de 72,000 juicios sobre respuestas de 636 personas y 37 modelos de AI en seis categorías de tareas, desde escribir pies de foto hasta identificar colores y objetos en imágenes. En pruebas de lenguaje controladas, los jueces identificaron correctamente al autor solo en torno al 53–57% de las veces, apenas por encima del azar."
-              },
-              {
-                "t": "p",
-                "x": "En un experimento más pequeño, los jueces podían interrogar a una persona y a un chatbot, eligiendo sus propios temas y repreguntas. Detectaron a GPT-3.5-Turbo en las siete conversaciones, aunque el estilo y los tiempos de respuesta pudieron delatarlo. En 188 ensayos con 28 participantes y Llama-3-70B-Instruct, los jueces siguieron equivocándose, pero mejoraron al identificar respuestas de la máquina a medida que las conversaciones se alargaban."
-              },
-              {
-                "t": "p",
-                "x": "Los autores advierten que los experimentos no pueden aislar el efecto de las preguntas por sí solas y que los resultados podrían no aplicarse a sistemas más nuevos. El estudio se publica en Nature Human Behaviour."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI는 사람 행세를 하지만\n추가 질문엔 들킨다",
-          "body": "72,000+ 판정서 AI는 흔히 사람으로 통했지만 긴 대화의 추가 질문엔 들켰다.",
-          "mini_headline": "추가 질문이 AI를 가려낸다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "세 가지 언어 과제에 대한 Turing식 테스트. 출처: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "Mengmi Zhang이 이끄는 Nanyang Technological University 연구팀은 캡션 작성부터 이미지 속 색과 사물 식별까지 여섯 가지 과제 범주에서 사람 636명과 AI 모델 37개가 내놓은 응답을 두고 내린 72,000건 이상의 판정을 분석했다. 통제된 언어 테스트에서 판정자가 작성자를 맞힌 비율은 약 53–57%로, 우연 수준을 겨우 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "규모가 작은 실험에서는 판정자가 주제와 추가 질문을 직접 골라 사람과 챗봇에게 질문할 수 있었다. 판정자는 일곱 번의 대화 모두에서 GPT-3.5-Turbo를 알아봤지만, 문체와 응답 타이밍이 단서가 됐을 수 있다. 참가자 28명이 Llama-3-70B-Instruct를 상대로 한 188회 시행에서 판정자는 여전히 틀리기도 했지만, 대화가 길어질수록 기계의 응답을 더 잘 가려냈다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이 실험만으로는 질문 자체의 효과를 따로 떼어낼 수 없고, 결과가 최신 시스템에는 들어맞지 않을 수 있다고 경고한다. 연구는 Nature Human Behaviour에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIは人間になりすますが\n追加質問でぼろが出る",
-          "body": "72,000+件の判定でAIはしばしば人間と見なされたが、長い対話での追加質問で見破られた。",
-          "mini_headline": "追加質問がAIを見破る",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "三つの言語タスクにおけるTuring型テスト。出典：Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "Mengmi Zhang率いるNanyang Technological Universityのチームは、キャプション作成から画像内の色や物体の識別まで、六つのタスク分類にわたって636人と37のAIモデルが出した回答への72,000件を超える判定を分析した。統制された言語テストでは、判定者が書き手を正しく当てたのは約53–57%にとどまり、偶然をわずかに上回る程度だった。"
-              },
-              {
-                "t": "p",
-                "x": "より小規模な実験では、判定者が人間とチャットボットに対し、話題や追加質問を自ら選んで問いかけることができた。判定者は七つの会話すべてでGPT-3.5-Turboを見抜いたが、文体や応答のタイミングが手がかりになった可能性がある。参加者28人がLlama-3-70B-Instructを相手にした188回の試行では、判定者は依然として誤りもしたが、会話が長くなるほど機械の回答を見分けられるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、この実験では質問そのものの効果を切り分けられず、結果が新しいシステムには当てはまらない可能性があると注意を促している。研究はNature Human Behaviourに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI常能冒充人类\n却被追问露馅",
-          "body": "在72,000+次判断中，AI常被当作人类，但长对话中的实时追问让聊天机器人露馅。",
-          "mini_headline": "追问揭穿AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "三项语言任务的Turing式测试。来源：Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "由Mengmi Zhang领导的Nanyang Technological University团队分析了72,000多次判断，对象是636名人类和37个AI模型在六类任务中的回答，任务从撰写图片说明到识别图像中的颜色和物体。在受控语言测试中，判断者正确认出作者的比例仅约53–57%，只略高于随机水平。"
-              },
-              {
-                "t": "p",
-                "x": "在一项规模较小的实验中，判断者可以向一个人和一个聊天机器人提问，自行选择话题和追问。他们在全部七次对话中都识别出了GPT-3.5-Turbo，不过文风和回复时机可能暴露了它。在28名参与者使用Llama-3-70B-Instruct进行的188次试验中，判断者仍会出错，但随着对话变长，识别机器回答的能力有所提高。"
-              },
-              {
-                "t": "p",
-                "x": "作者提醒，这些实验无法单独分离提问本身的作用，结果也未必适用于更新的系统。该研究发表于Nature Human Behaviour。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI suele pasar por humana\npero las repreguntas la delatan",
-          "body": "En 72,000+ juicios la AI pasó a menudo por humana, pero las repreguntas en vivo la delataron en charlas largas.",
-          "mini_headline": "Las repreguntas desenmascaran a la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-                "cap": "Pruebas de tipo Turing para tres tareas de lenguaje. Crédito: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02590-6"
-              },
-              {
-                "t": "p",
-                "x": "Un equipo de la Nanyang Technological University dirigido por Mengmi Zhang analizó más de 72,000 juicios sobre respuestas de 636 personas y 37 modelos de AI en seis categorías de tareas, desde escribir pies de foto hasta identificar colores y objetos en imágenes. En pruebas de lenguaje controladas, los jueces identificaron correctamente al autor solo en torno al 53–57% de las veces, apenas por encima del azar."
-              },
-              {
-                "t": "p",
-                "x": "En un experimento más pequeño, los jueces podían interrogar a una persona y a un chatbot, eligiendo sus propios temas y repreguntas. Detectaron a GPT-3.5-Turbo en las siete conversaciones, aunque el estilo y los tiempos de respuesta pudieron delatarlo. En 188 ensayos con 28 participantes y Llama-3-70B-Instruct, los jueces siguieron equivocándose, pero mejoraron al identificar respuestas de la máquina a medida que las conversaciones se alargaban."
-              },
-              {
-                "t": "p",
-                "x": "Los autores advierten que los experimentos no pueden aislar el efecto de las preguntas por sí solas y que los resultados podrían no aplicarse a sistemas más nuevos. El estudio se publica en Nature Human Behaviour."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "lumina-lunar-landing-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "달 착륙지 순위를 매기고\n이유를 설명하는 AI",
-      "body": "Ohio State의 LUMINA는 달 착륙 후보지 순위를 매기고 근거를 밝힌다.",
-      "mini_headline": "AI가 달 착륙지를 고른다",
-      "tool": "Science",
-      "source": "Universe Today",
-      "url": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
+      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -865,179 +351,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-            "cap": "목표 착륙지를 찾으려고 달 환경 데이터 층을 매핑하는 AI 개념 시각화. (출처: The Ohio State University)"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+            "cap": "RISE로 연속 다단계 작업을 수행하는 실제 휴머노이드 로봇. 출처: Seoul National University College of Engineering"
           },
           {
             "t": "p",
-            "x": "The Ohio State University 연구진이 AAS Division for Planetary Sciences 제58회 연례 회의(DPS 58)에서 LUMINA를 발표했다. LUMINA는 임무 기획자가 안전한 달 착륙지를 평가하도록 돕는 에이전트형 AI 프레임워크다. 물 얼음 같은 핵심 자원과 잠재적인 과학 가치를 중점적으로 본다."
+            "x": "서울대학교 Songhwai Oh 교수 연구팀이 휴머노이드 로봇용 시각-언어-행동 프레임워크 RISE(Responsibility-Induced Specialized Experts)를 개발했다. RISE는 보행 데이터와 물체 조작 데이터를 따로 모아 학습한다. 그래서 걷기와 물체 다루기를 오가는 다단계 작업을 처음부터 끝까지 시연할 필요가 없다."
           },
           {
             "t": "p",
-            "x": "LUMINA는 궤도 영상에만 의존하지 않는다. 지형과 지형 위험, 과학적 가치, 지질, 표면 특성을 함께 따지고 착륙 후보지끼리 비교까지 한다. 연구팀은 이 방식을 다른 행성체, 특히 화성에도 적용할 방안을 구상 중이다."
-          },
-          {
-            "t": "video",
-            "yt": "iJQdny3-T2Q"
+            "x": "RISE는 공유 시각-언어 모델과 여러 행동 전문가, 메타 컨트롤러로 이뤄진다. 전문가마다 행동 예측이 얼마나 정확한지에 따라 가중치를 받으며 저절로 전문화된다. 가중치가 바뀌는 흐름을 보면 다음 작업 단계로 넘어갈 시점도 알 수 있다."
           },
           {
             "t": "p",
-            "x": "Ohio State PhD 과정생이자 제1저자인 Gokce Inal은 \"AI 시스템은 우주 탐사의 핵심 도구가 될 것\"이라고 말했다. LUMINA는 연구팀이 앞서 만든 Large Language-and-Vision Assistant for Lunar Exploration(LLaVA-LE)을 바탕으로 한다. LLaVA-LE는 달 표면 궤도 영상을 분석해 설명해 주는 모델이다."
+            "x": "시뮬레이션에서 RISE의 평균 성공률은 87.3%로, GR00T 기반 단일 전문가 베이스라인(GR00T-based)의 73.6%를 넘었다. Dex3-1 손 두 개를 단 실제 Unitree G1 로봇으로 두 단계부터 다섯 단계까지의 작업을 시켰더니 평균 50.0%로 베이스라인의 30.0%를 앞섰다. 단계가 늘수록 격차는 더 벌어졌다. 연구는 IROS 2026에 채택됐고, 연구팀은 물류·제조·병원·돌봄·가정 정리에 쓰일 것으로 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An AI that ranks lunar\nlanding sites and says why",
-          "body": "Ohio State's LUMINA plans multistep analyses, ranks candidate lunar landing sites and explains its evidence.",
-          "mini_headline": "AI picks lunar landing sites",
+          "headline": "Humanoid AI chains walking and\nhandling without full demos",
+          "body": "SNU's RISE model chains separately learned skills, beating a GR00T baseline 50% to 30% on a real Unitree G1 robot.",
+          "mini_headline": "Humanoid AI chains skills",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "A conceptual AI visualization mapping lunar environmental data layers to identify target landing sites. (Credit: The Ohio State University)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "A real humanoid robot performing a continuous, multistep task using RISE. Credit: Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "Researchers from The Ohio State University presented LUMINA at the 58th Annual Meeting of the AAS Division for Planetary Sciences (DPS 58). It is an agentic AI framework designed to help mission planners evaluate safe lunar landing sites, focusing on key resources like water ice along with potential scientific value."
+                "x": "Seoul National University researchers led by Professor Songhwai Oh developed RISE (Responsibility-Induced Specialized Experts), a vision-language-action framework for humanoid robots. It learns from locomotion and object-manipulation data collected separately, so it does not need demonstrations of complete multistep tasks that switch between walking and handling objects."
               },
               {
                 "t": "p",
-                "x": "LUMINA doesn't just rely on orbital images: it incorporates topography and terrain hazards, scientific value, geology, surface properties, and even compares candidate landing sites to each other. The team envisions applying it to other planetary bodies, specifically Mars."
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISE uses a shared vision-language model, several action experts and a meta-controller. Experts are weighted by how well they predict actions, so they specialize on their own, and shifts in the expert weights signal when to move to the next task stage."
               },
               {
                 "t": "p",
-                "x": "\"AI systems are going to become critical tools for space exploration,\" said lead author Gokce Inal, a PhD candidate at Ohio State. LUMINA builds on the group's earlier Large Language-and-Vision Assistant for Lunar Exploration (LLaVA-LE), which analyzes and describes orbital images of the lunar surface."
+                "x": "In simulation RISE averaged an 87.3% success rate, against 73.6% for a GR00T-based single-expert baseline. On a real Unitree G1 robot with two Dex3-1 hands it averaged 50.0% on two- to five-stage tasks versus 30.0% for the baseline, and its advantage grew with more stages. The work was accepted to IROS 2026; the team sees uses in logistics, manufacturing, hospitals, caregiving and home organization."
               }
             ]
           }
         },
         "ko": {
-          "headline": "달 착륙지 순위를 매기고\n이유를 설명하는 AI",
-          "body": "Ohio State의 LUMINA는 달 착륙 후보지 순위를 매기고 근거를 밝힌다.",
-          "mini_headline": "AI가 달 착륙지를 고른다",
+          "headline": "휴머노이드 AI가 전체\n시연 없이 걷기·조작 연결",
+          "body": "SNU의 RISE가 기술을 이어 G1에서 GR00T를 50% 대 30%로 앞섰다.",
+          "mini_headline": "휴머노이드 AI, 기술을 잇다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "목표 착륙지를 찾으려고 달 환경 데이터 층을 매핑하는 AI 개념 시각화. (출처: The Ohio State University)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "RISE로 연속 다단계 작업을 수행하는 실제 휴머노이드 로봇. 출처: Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "The Ohio State University 연구진이 AAS Division for Planetary Sciences 제58회 연례 회의(DPS 58)에서 LUMINA를 발표했다. LUMINA는 임무 기획자가 안전한 달 착륙지를 평가하도록 돕는 에이전트형 AI 프레임워크다. 물 얼음 같은 핵심 자원과 잠재적인 과학 가치를 중점적으로 본다."
+                "x": "서울대학교 Songhwai Oh 교수 연구팀이 휴머노이드 로봇용 시각-언어-행동 프레임워크 RISE(Responsibility-Induced Specialized Experts)를 개발했다. RISE는 보행 데이터와 물체 조작 데이터를 따로 모아 학습한다. 그래서 걷기와 물체 다루기를 오가는 다단계 작업을 처음부터 끝까지 시연할 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "LUMINA는 궤도 영상에만 의존하지 않는다. 지형과 지형 위험, 과학적 가치, 지질, 표면 특성을 함께 따지고 착륙 후보지끼리 비교까지 한다. 연구팀은 이 방식을 다른 행성체, 특히 화성에도 적용할 방안을 구상 중이다."
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISE는 공유 시각-언어 모델과 여러 행동 전문가, 메타 컨트롤러로 이뤄진다. 전문가마다 행동 예측이 얼마나 정확한지에 따라 가중치를 받으며 저절로 전문화된다. 가중치가 바뀌는 흐름을 보면 다음 작업 단계로 넘어갈 시점도 알 수 있다."
               },
               {
                 "t": "p",
-                "x": "Ohio State PhD 과정생이자 제1저자인 Gokce Inal은 \"AI 시스템은 우주 탐사의 핵심 도구가 될 것\"이라고 말했다. LUMINA는 연구팀이 앞서 만든 Large Language-and-Vision Assistant for Lunar Exploration(LLaVA-LE)을 바탕으로 한다. LLaVA-LE는 달 표면 궤도 영상을 분석해 설명해 주는 모델이다."
+                "x": "시뮬레이션에서 RISE의 평균 성공률은 87.3%로, GR00T 기반 단일 전문가 베이스라인(GR00T-based)의 73.6%를 넘었다. Dex3-1 손 두 개를 단 실제 Unitree G1 로봇으로 두 단계부터 다섯 단계까지의 작업을 시켰더니 평균 50.0%로 베이스라인의 30.0%를 앞섰다. 단계가 늘수록 격차는 더 벌어졌다. 연구는 IROS 2026에 채택됐고, 연구팀은 물류·제조·병원·돌봄·가정 정리에 쓰일 것으로 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "月の着陸地を順位付けし\n理由も示すAI",
-          "body": "Ohio StateのLUMINAは多段階分析で月着陸候補地を順位付けし、根拠を示す。",
-          "mini_headline": "AIが月の着陸地を選ぶ",
+          "headline": "ヒューマノイドAIが歩行と\n操作を通しの実演なしで連結",
+          "body": "SNUのRISEは個別に学んだ技能をつなぎ、G1でGR00Tを50%対30%で上回った。",
+          "mini_headline": "ヒューマノイドAIが技能を連結",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "目標着陸地を特定するため、月の環境データの層をマッピングした概念的なAI可視化。（出典：The Ohio State University）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "RISEを用いて連続した多段階タスクをこなす実機のヒューマノイドロボット。提供：Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "The Ohio State Universityの研究者は、AAS Division for Planetary Sciencesの第58回年次総会(DPS 58)でLUMINAを発表した。ミッション計画担当者が安全な月面着陸地を評価するのを支援するエージェント型AIフレームワークで、水の氷などの重要資源と潜在的な科学的価値に焦点を当てる。"
+                "x": "ソウル大学のSonghwai Oh教授らの研究チームは、ヒューマノイドロボット向けの視覚・言語・行動フレームワーク「RISE(Responsibility-Induced Specialized Experts)」を開発した。別々に収集した移動データと物体操作データから学習するため、歩行と物体操作を切り替える多段階タスク全体の実演を必要としない。"
               },
               {
                 "t": "p",
-                "x": "LUMINAは軌道画像だけに頼らない。地形や地形上の危険、科学的価値、地質、表面特性を取り込み、着陸候補地同士の比較まで行う。チームは他の惑星天体、とりわけ火星への応用も構想している。"
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISEは共有の視覚言語モデル、複数の行動エキスパート、メタコントローラーで構成される。各エキスパートは行動予測の精度に応じて重み付けされるため自律的に専門化し、エキスパートの重みの変化が次のタスク段階へ移るタイミングを示す。"
               },
               {
                 "t": "p",
-                "x": "「AIシステムは宇宙探査に欠かせないツールになるだろう」と、Ohio StateのPhD候補生で筆頭著者のGokce Inalは述べた。LUMINAは、月面の軌道画像を分析・記述する同グループの先行システムLarge Language-and-Vision Assistant for Lunar Exploration(LLaVA-LE)を土台にしている。"
+                "x": "シミュレーションではRISEの平均成功率は87.3%で、GR00T-based(GR00Tベース)の単一エキスパート・ベースラインの73.6%を上回った。Dex3-1ハンドを二つ備えた実機のUnitree G1ロボットでは、二〜五段階のタスクで平均50.0%を達成し、ベースラインの30.0%を上回った。段階数が増えるほど優位性は大きくなった。本研究はIROS 2026に採択され、チームは物流、製造、病院、介護、家庭の片付けへの応用を見込む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为月球着陆点排序\n并说明理由的AI",
-          "body": "Ohio State的LUMINA能规划多步分析，为月球候选着陆点排序并解释依据。",
-          "mini_headline": "AI挑选月球着陆点",
+          "headline": "人形机器人AI串联行走\n与操作，无需完整演示",
+          "body": "SNU的RISE串联分开学习的技能，在真实G1机器人上以50%比30%胜过GR00T基线。",
+          "mini_headline": "人形机器人AI串联技能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "概念性AI可视化：映射月球环境数据图层以确定目标着陆点。（来源：The Ohio State University）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "一台真实的人形机器人借助RISE完成连续多步骤任务。来源：Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "The Ohio State University的研究人员在AAS Division for Planetary Sciences第58届年会（DPS 58）上发布了LUMINA。这是一个智能体式AI框架，旨在帮助任务规划人员评估安全的月球着陆点，重点关注水冰等关键资源及潜在科学价值。"
+                "x": "首尔大学Songhwai Oh教授领导的研究团队开发了RISE（Responsibility-Induced Specialized Experts），这是一种面向人形机器人的视觉-语言-动作框架。它从分别采集的行走数据和物体操作数据中学习，因此无需在行走与操作物体之间切换的完整多步骤任务演示。"
               },
               {
                 "t": "p",
-                "x": "LUMINA不只依赖轨道图像：它还纳入地形与地形危险、科学价值、地质、表面特性，甚至会对候选着陆点进行相互比较。团队设想将其应用于其他行星天体，特别是火星。"
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISE采用一个共享的视觉-语言模型、多个动作专家和一个元控制器。各专家按其预测动作的准确程度获得权重，从而自行分化专长；专家权重的变化则提示何时进入下一个任务阶段。"
               },
               {
                 "t": "p",
-                "x": "“AI系统将成为太空探索的关键工具，”第一作者、Ohio State的PhD候选人Gokce Inal说。LUMINA建立在该团队早先的Large Language-and-Vision Assistant for Lunar Exploration（LLaVA-LE）基础上，后者可分析并描述月球表面的轨道图像。"
+                "x": "在仿真中，RISE的平均成功率为87.3%，而GR00T-based（基于GR00T）的单专家基线为73.6%。在配备两只Dex3-1灵巧手的真实Unitree G1机器人上，RISE在二至五阶段任务中的平均成功率为50.0%，基线为30.0%，且阶段越多优势越大。该研究已被IROS 2026接收；团队认为它可用于物流、制造、医院、护理和家居整理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI que ordena sitios de\nalunizaje y explica por qué",
-          "body": "LUMINA, de Ohio State, planifica análisis en varios pasos, ordena posibles sitios de alunizaje y explica su evidencia.",
-          "mini_headline": "Una AI elige sitios de alunizaje",
+          "headline": "IA humanoide encadena marcha y\nmanipulación sin demos completas",
+          "body": "RISE, de la SNU, encadena habilidades aprendidas por separado y supera a GR00T 50% a 30% en un Unitree G1 real.",
+          "mini_headline": "La IA humanoide encadena habilidades",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "Visualización conceptual de AI que cartografía capas de datos ambientales lunares para identificar sitios de alunizaje objetivo. (Crédito: The Ohio State University)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "Un robot humanoide real realiza una tarea continua de varias etapas con RISE. Crédito: Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "Investigadores de The Ohio State University presentaron LUMINA en la 58.ª Reunión Anual de la AAS Division for Planetary Sciences (DPS 58). Se trata de un marco de AI agéntica diseñado para ayudar a los planificadores de misiones a evaluar sitios de alunizaje seguros, con foco en recursos clave como el hielo de agua y en el posible valor científico."
+                "x": "Investigadores de la Universidad Nacional de Seúl dirigidos por el profesor Songhwai Oh desarrollaron RISE (Responsibility-Induced Specialized Experts), un marco de visión-lenguaje-acción para robots humanoides. Aprende de datos de locomoción y de manipulación de objetos recogidos por separado, por lo que no necesita demostraciones de tareas completas de varias etapas que alternen entre caminar y manipular objetos."
               },
               {
                 "t": "p",
-                "x": "LUMINA no se basa solo en imágenes orbitales: incorpora topografía y riesgos del terreno, valor científico, geología y propiedades de la superficie, e incluso compara entre sí los sitios candidatos. El equipo prevé aplicarlo a otros cuerpos planetarios, en concreto a Marte."
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISE usa un modelo compartido de visión y lenguaje, varios expertos de acción y un metacontrolador. Los expertos se ponderan según lo bien que predicen las acciones, de modo que se especializan por sí solos, y los cambios en esos pesos indican cuándo pasar a la siguiente etapa de la tarea."
               },
               {
                 "t": "p",
-                "x": "\"Los sistemas de AI se convertirán en herramientas críticas para la exploración espacial\", dijo el autor principal, Gokce Inal, candidato a PhD en Ohio State. LUMINA se basa en el anterior Large Language-and-Vision Assistant for Lunar Exploration (LLaVA-LE) del grupo, que analiza y describe imágenes orbitales de la superficie lunar."
+                "x": "En simulación, RISE logró una tasa de éxito media del 87.3%, frente al 73.6% de una línea base de un solo experto GR00T-based (basada en GR00T). En un robot Unitree G1 real con dos manos Dex3-1, promedió un 50.0% en tareas de dos a cinco etapas frente al 30.0% de la línea base, y su ventaja creció con más etapas. El trabajo fue aceptado en IROS 2026; el equipo ve aplicaciones en logística, fabricación, hospitales, cuidados y organización del hogar."
               }
             ]
           }
@@ -1045,125 +507,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "달 착륙지 순위를 매기고\n이유를 설명하는 AI",
-          "body": "Ohio State의 LUMINA는 달 착륙 후보지 순위를 매기고 근거를 밝힌다.",
-          "mini_headline": "AI가 달 착륙지를 고른다",
+          "headline": "휴머노이드 AI가 전체\n시연 없이 걷기·조작 연결",
+          "body": "SNU의 RISE는 기술을 이어 G1에서 GR00T를 50% 대 30%로 이겼다.",
+          "mini_headline": "휴머노이드 AI, 기술을 잇다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "목표 착륙지를 찾기 위해 달 환경 데이터 층을 매핑하는 개념적 AI 시각화. (출처: The Ohio State University)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "RISE로 연속 다단계 작업을 수행하는 실제 휴머노이드 로봇. 출처: Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "The Ohio State University 연구진은 AAS Division for Planetary Sciences 제58회 연례 회의(DPS 58)에서 LUMINA를 발표했다. LUMINA는 임무 기획자가 안전한 달 착륙지를 평가하도록 돕는 에이전트형 AI 프레임워크로, 물 얼음 같은 핵심 자원과 잠재적 과학적 가치에 초점을 맞춘다."
+                "x": "서울대학교 Songhwai Oh 교수 연구팀이 휴머노이드 로봇용 시각-언어-행동 프레임워크 RISE(Responsibility-Induced Specialized Experts)를 개발했다. RISE는 따로 수집한 보행 데이터와 물체 조작 데이터로 학습하므로, 걷기와 물체 다루기를 오가는 다단계 작업 전체의 시연이 필요 없다."
               },
               {
                 "t": "p",
-                "x": "LUMINA는 궤도 영상에만 의존하지 않는다. 지형과 지형 위험, 과학적 가치, 지질, 표면 특성을 함께 반영하고, 착륙 후보지끼리 비교까지 한다. 연구팀은 이를 다른 행성체, 특히 화성에도 적용하는 방안을 구상하고 있다."
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISE는 공유 시각-언어 모델, 여러 행동 전문가, 메타 컨트롤러로 이뤄진다. 각 전문가는 행동을 얼마나 잘 예측하는지에 따라 가중치를 받아 스스로 전문화하고, 전문가 가중치의 변화는 다음 작업 단계로 넘어갈 때를 알려준다."
               },
               {
                 "t": "p",
-                "x": "Ohio State PhD 과정생이자 제1저자인 Gokce Inal은 \"AI 시스템은 우주 탐사의 핵심 도구가 될 것\"이라고 말했다. LUMINA는 연구팀이 앞서 만든 Large Language-and-Vision Assistant for Lunar Exploration(LLaVA-LE)을 토대로 한다. LLaVA-LE는 달 표면의 궤도 영상을 분석하고 설명한다."
+                "x": "시뮬레이션에서 RISE의 평균 성공률은 87.3%로, GR00T 기반 단일 전문가 베이스라인(GR00T-based)의 73.6%보다 높았다. Dex3-1 손 두 개를 단 실제 Unitree G1 로봇에서는 두 단계에서 다섯 단계짜리 작업에서 평균 50.0%를 기록해 베이스라인의 30.0%를 앞섰고, 단계가 늘수록 격차가 커졌다. 이 연구는 IROS 2026에 채택됐으며, 연구팀은 물류, 제조, 병원, 돌봄, 가정 정리 분야의 활용을 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "月の着陸地を順位付けし\n理由も示すAI",
-          "body": "Ohio StateのLUMINAは多段階分析で月着陸候補地を順位付けし、根拠を示す。",
-          "mini_headline": "AIが月の着陸地を選ぶ",
+          "headline": "ヒューマノイドAIが歩行と\n操作を通しの実演なしで連結",
+          "body": "SNUのRISEは個別に学んだ技能をつなぎ、G1でGR00Tを50%対30%で上回った。",
+          "mini_headline": "ヒューマノイドAIが技能を連結",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "目標着陸地を特定するため、月の環境データの層をマッピングした概念的なAI可視化。（出典：The Ohio State University）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "RISEを用いて連続した多段階タスクをこなす実機のヒューマノイドロボット。提供：Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "The Ohio State Universityの研究者は、AAS Division for Planetary Sciencesの第58回年次総会(DPS 58)でLUMINAを発表した。ミッション計画担当者が安全な月面着陸地を評価するのを支援するエージェント型AIフレームワークで、水の氷などの重要資源と潜在的な科学的価値に焦点を当てる。"
+                "x": "ソウル大学のSonghwai Oh教授らの研究チームは、ヒューマノイドロボット向けの視覚・言語・行動フレームワーク「RISE(Responsibility-Induced Specialized Experts)」を開発した。別々に収集した移動データと物体操作データから学習するため、歩行と物体操作を切り替える多段階タスク全体の実演を必要としない。"
               },
               {
                 "t": "p",
-                "x": "LUMINAは軌道画像だけに頼らない。地形や地形上の危険、科学的価値、地質、表面特性を取り込み、着陸候補地同士の比較まで行う。チームは他の惑星天体、とりわけ火星への応用も構想している。"
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISEは共有の視覚言語モデル、複数の行動エキスパート、メタコントローラーで構成される。各エキスパートは行動予測の精度に応じて重み付けされるため自律的に専門化し、エキスパートの重みの変化が次のタスク段階へ移るタイミングを示す。"
               },
               {
                 "t": "p",
-                "x": "「AIシステムは宇宙探査に欠かせないツールになるだろう」と、Ohio StateのPhD候補生で筆頭著者のGokce Inalは述べた。LUMINAは、月面の軌道画像を分析・記述する同グループの先行システムLarge Language-and-Vision Assistant for Lunar Exploration(LLaVA-LE)を土台にしている。"
+                "x": "シミュレーションではRISEの平均成功率は87.3%で、GR00T-based(GR00Tベース)の単一エキスパート・ベースラインの73.6%を上回った。Dex3-1ハンドを二つ備えた実機のUnitree G1ロボットでは、二〜五段階のタスクで平均50.0%を達成し、ベースラインの30.0%を上回った。段階数が増えるほど優位性は大きくなった。本研究はIROS 2026に採択され、チームは物流、製造、病院、介護、家庭の片付けへの応用を見込む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为月球着陆点排序\n并说明理由的AI",
-          "body": "Ohio State的LUMINA能规划多步分析，为月球候选着陆点排序并解释依据。",
-          "mini_headline": "AI挑选月球着陆点",
+          "headline": "人形机器人AI串联行走\n与操作，无需完整演示",
+          "body": "SNU的RISE串联分开学习的技能，在真实G1机器人上以50%比30%胜过GR00T基线。",
+          "mini_headline": "人形机器人AI串联技能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "概念性AI可视化：映射月球环境数据图层以确定目标着陆点。（来源：The Ohio State University）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "一台真实的人形机器人借助RISE完成连续多步骤任务。来源：Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "The Ohio State University的研究人员在AAS Division for Planetary Sciences第58届年会（DPS 58）上发布了LUMINA。这是一个智能体式AI框架，旨在帮助任务规划人员评估安全的月球着陆点，重点关注水冰等关键资源及潜在科学价值。"
+                "x": "首尔大学Songhwai Oh教授领导的研究团队开发了RISE（Responsibility-Induced Specialized Experts），这是一种面向人形机器人的视觉-语言-动作框架。它从分别采集的行走数据和物体操作数据中学习，因此无需在行走与操作物体之间切换的完整多步骤任务演示。"
               },
               {
                 "t": "p",
-                "x": "LUMINA不只依赖轨道图像：它还纳入地形与地形危险、科学价值、地质、表面特性，甚至会对候选着陆点进行相互比较。团队设想将其应用于其他行星天体，特别是火星。"
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISE采用一个共享的视觉-语言模型、多个动作专家和一个元控制器。各专家按其预测动作的准确程度获得权重，从而自行分化专长；专家权重的变化则提示何时进入下一个任务阶段。"
               },
               {
                 "t": "p",
-                "x": "“AI系统将成为太空探索的关键工具，”第一作者、Ohio State的PhD候选人Gokce Inal说。LUMINA建立在该团队早先的Large Language-and-Vision Assistant for Lunar Exploration（LLaVA-LE）基础上，后者可分析并描述月球表面的轨道图像。"
+                "x": "在仿真中，RISE的平均成功率为87.3%，而GR00T-based（基于GR00T）的单专家基线为73.6%。在配备两只Dex3-1灵巧手的真实Unitree G1机器人上，RISE在二至五阶段任务中的平均成功率为50.0%，基线为30.0%，且阶段越多优势越大。该研究已被IROS 2026接收；团队认为它可用于物流、制造、医院、护理和家居整理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI que ordena sitios de\nalunizaje y explica por qué",
-          "body": "LUMINA, de Ohio State, planifica análisis en varios pasos, ordena posibles sitios de alunizaje y explica su evidencia.",
-          "mini_headline": "Una AI elige sitios de alunizaje",
+          "headline": "IA humanoide encadena marcha y\nmanipulación sin demos completas",
+          "body": "RISE, de la SNU, encadena habilidades aprendidas por separado y supera a GR00T 50% a 30% en un Unitree G1 real.",
+          "mini_headline": "La IA humanoide encadena habilidades",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-                "cap": "Visualización conceptual de AI que cartografía capas de datos ambientales lunares para identificar sitios de alunizaje objetivo. (Crédito: The Ohio State University)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+                "cap": "Un robot humanoide real realiza una tarea continua de varias etapas con RISE. Crédito: Seoul National University College of Engineering"
               },
               {
                 "t": "p",
-                "x": "Investigadores de The Ohio State University presentaron LUMINA en la 58.ª Reunión Anual de la AAS Division for Planetary Sciences (DPS 58). Se trata de un marco de AI agéntica diseñado para ayudar a los planificadores de misiones a evaluar sitios de alunizaje seguros, con foco en recursos clave como el hielo de agua y en el posible valor científico."
+                "x": "Investigadores de la Universidad Nacional de Seúl dirigidos por el profesor Songhwai Oh desarrollaron RISE (Responsibility-Induced Specialized Experts), un marco de visión-lenguaje-acción para robots humanoides. Aprende de datos de locomoción y de manipulación de objetos recogidos por separado, por lo que no necesita demostraciones de tareas completas de varias etapas que alternen entre caminar y manipular objetos."
               },
               {
                 "t": "p",
-                "x": "LUMINA no se basa solo en imágenes orbitales: incorpora topografía y riesgos del terreno, valor científico, geología y propiedades de la superficie, e incluso compara entre sí los sitios candidatos. El equipo prevé aplicarlo a otros cuerpos planetarios, en concreto a Marte."
-              },
-              {
-                "t": "video",
-                "yt": "iJQdny3-T2Q"
+                "x": "RISE usa un modelo compartido de visión y lenguaje, varios expertos de acción y un metacontrolador. Los expertos se ponderan según lo bien que predicen las acciones, de modo que se especializan por sí solos, y los cambios en esos pesos indican cuándo pasar a la siguiente etapa de la tarea."
               },
               {
                 "t": "p",
-                "x": "\"Los sistemas de AI se convertirán en herramientas críticas para la exploración espacial\", dijo el autor principal, Gokce Inal, candidato a PhD en Ohio State. LUMINA se basa en el anterior Large Language-and-Vision Assistant for Lunar Exploration (LLaVA-LE) del grupo, que analiza y describe imágenes orbitales de la superficie lunar."
+                "x": "En simulación, RISE logró una tasa de éxito media del 87.3%, frente al 73.6% de una línea base de un solo experto GR00T-based (basada en GR00T). En un robot Unitree G1 real con dos manos Dex3-1, promedió un 50.0% en tareas de dos a cinco etapas frente al 30.0% de la línea base, y su ventaja creció con más etapas. El trabajo fue aceptado en IROS 2026; el equipo ve aplicaciones en logística, fabricación, hospitales, cuidados y organización del hogar."
               }
             ]
           }
@@ -1171,15 +617,15 @@
       }
     },
     {
-      "id": "skku-sag-agent-feedback",
+      "id": "oxford-pvdc-hard-carbon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "필요할 때만 피드백 요청\n성공률 세 배로 뛰다",
-      "body": "SKKU SAG는 필요할 때만 물어 과제 성공률을 24.6%서 78.3%로 높였다.",
-      "mini_headline": "똑똑해진 에이전트 피드백",
+      "headline": "머신러닝이 밝힌\n플라스틱의 하드카본 변신",
+      "body": "옥스퍼드 시뮬레이션 결과, 가열한 PVDC의 오각·칠각 고리가 흑연화를 막았다.",
+      "mini_headline": "플라스틱이 하드카본이 되는 과정",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-framework-thirds-tripling-success.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1187,185 +633,215 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-            "cap": "OGBench. 출처: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+            "cap": "PVDC 분해를 고온 원자 단위로 시뮬레이션한 장면의 예술적 시각화. 출처: Litong Wu & Volker Deringer"
           },
           {
             "t": "p",
-            "x": "Sungkyunkwan University의 Prof. Minhae Kwon(교수) 연구팀이 AI 기법 두 가지를 개발했다. 로보틱스와 자율주행을 염두에 두고, 여러 단계로 길게 이어지는 과제에서 컴퓨팅 비용은 줄이고 신뢰성은 높이는 기법이다. 두 기법 모두 제40회 Conference on Neural Information Processing Systems(NeurIPS 2026)에 채택됐다."
+            "x": "옥스퍼드대학교 연구진이 머신러닝 기반 원자 단위 시뮬레이션으로 폴리염화비닐리덴(PVDC)을 가열하면 하드카본으로 바뀌는 과정을 추적했다. 이 물질은 비흑연화 탄소의 대표 전구체다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-            "cap": "Selective Critique(SAG) 프레임워크 개념도."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+            "cap": "PVDC 분해 과정. 염소 원자가 탄소 사슬에서 떨어져 나가 염화수소가 된다."
           },
           {
             "t": "p",
-            "x": "SAG 에이전트는 단계마다 고성능 모델에 묻지 않는다. 스스로 불확실성을 따져 보고, 비용을 들일 만할 때만 외부 피드백을 구한다. 어려운 문제만 선생님에게 묻는 학생과 비슷하다. 성공 경험도 쌓아 가며 피드백 의존도를 줄인다. 덕분에 연산 자원 소모는 기존 방식의 약 삼분의 일로 줄었고, 복잡한 가상 환경에서 과제 성공률은 24.6%에서 78.3%로 올랐다."
+            "x": "수소와 염소가 빠져나가면 반응성 탄소 자리가 생긴다. 이 자리끼리 새 탄소–탄소 결합을 맺으면서 넓은 네트워크가 만들어진다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+            "cap": "육각 탄소 고리가 시간이 지나며 이어져 넓은 네트워크를 이루는 시뮬레이션 스냅숏."
           },
           {
             "t": "p",
-            "x": "두 번째 기법 VAN-Flow는 우연에 기댄 불안정한 행동을 걸러내는 오프라인 강화학습 방법이다. 40개가 넘는 로봇 제어 시뮬레이션 과제에서 대부분의 최신 기법을 앞섰다."
+            "x": "흑연과 달리 이 네트워크에는 오각·칠각 고리가 섞여 있다. 이 고리들이 구조를 휘게 해 흑연층이 질서 있게 쌓이지 못한다. 연구는 Chemical Science(DOI: 10.1039/d6sc05974k)에 실렸고, 저자들은 연구 데이터를 공개했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Asking for feedback only\nwhen worth it triples success",
-          "body": "SKKU's SAG has an agent seek feedback only when it's worth the cost, lifting virtual-task success from 24.6% to 78.3%.",
-          "mini_headline": "Smarter agent feedback",
+          "headline": "Machine learning shows how\nplastic becomes hard carbon",
+          "body": "Oxford simulations show that five- and seven-membered rings formed in heated PVDC stop it from becoming graphite.",
+          "mini_headline": "How plastic becomes hard carbon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench. Credit: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "Artistic visualization of a high-temperature atomistic simulation of PVDC decomposition. Credit: Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "A Sungkyunkwan University team led by Prof. Minhae Kwon developed two AI methods to cut computing costs and improve reliability on long, multi-step tasks, with an eye to robotics and autonomous driving. Both were accepted to the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)."
+                "x": "University of Oxford researchers used machine-learning-driven atomistic simulations to trace how polyvinylidene chloride (PVDC), a classic precursor of non-graphitizing carbon, turns into hard carbon when heated."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Conceptual diagram of the Selective Critique (SAG) framework."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "How PVDC breaks down: a chlorine atom leaves the carbon chain and forms hydrogen chloride."
               },
               {
                 "t": "p",
-                "x": "Rather than consulting a high-performance model at every step, the SAG agent assesses its own uncertainty and seeks external feedback only when it is likely to be worth the cost, like a student asking a teacher only about hard problems. It also accumulates successful experiences, reducing its reliance on feedback. This reduced computational resource consumption to about one-third of conventional approaches and raised task success in complex virtual environments from 24.6% to 78.3%."
+                "x": "Losing hydrogen and chlorine creates reactive carbon sites that form new carbon–carbon bonds and an extended network."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "Simulation snapshots showing six-membered carbon rings joining into an extended network over time."
               },
               {
                 "t": "p",
-                "x": "The second method, VAN-Flow, is an offline reinforcement learning approach that filters out unreliable behaviors dependent on chance; it outperformed most state-of-the-art methods across more than 40 robotic-control simulation tasks."
+                "x": "Unlike graphite, this network includes five- and seven-membered rings, which add curvature and block the formation of ordered graphite layers. The study appears in Chemical Science (DOI: 10.1039/d6sc05974k), and the authors have made their research data openly available."
               }
             ]
           }
         },
         "ko": {
-          "headline": "필요할 때만 피드백 요청\n성공률 세 배로 뛰다",
-          "body": "SKKU SAG는 필요할 때만 물어 과제 성공률을 24.6%서 78.3%로 높였다.",
-          "mini_headline": "똑똑해진 에이전트 피드백",
+          "headline": "머신러닝이 밝힌\n플라스틱의 하드카본 변신",
+          "body": "옥스퍼드 시뮬레이션 결과, 가열한 PVDC의 오각·칠각 고리가 흑연화를 막았다.",
+          "mini_headline": "플라스틱이 하드카본이 되는 과정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench. 출처: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "PVDC 분해를 고온 원자 단위로 시뮬레이션한 장면의 예술적 시각화. 출처: Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Sungkyunkwan University의 Prof. Minhae Kwon(교수) 연구팀이 AI 기법 두 가지를 개발했다. 로보틱스와 자율주행을 염두에 두고, 여러 단계로 길게 이어지는 과제에서 컴퓨팅 비용은 줄이고 신뢰성은 높이는 기법이다. 두 기법 모두 제40회 Conference on Neural Information Processing Systems(NeurIPS 2026)에 채택됐다."
+                "x": "옥스퍼드대학교 연구진이 머신러닝 기반 원자 단위 시뮬레이션으로 폴리염화비닐리덴(PVDC)을 가열하면 하드카본으로 바뀌는 과정을 추적했다. 이 물질은 비흑연화 탄소의 대표 전구체다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Selective Critique(SAG) 프레임워크 개념도."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "PVDC 분해 과정. 염소 원자가 탄소 사슬에서 떨어져 나가 염화수소가 된다."
               },
               {
                 "t": "p",
-                "x": "SAG 에이전트는 단계마다 고성능 모델에 묻지 않는다. 스스로 불확실성을 따져 보고, 비용을 들일 만할 때만 외부 피드백을 구한다. 어려운 문제만 선생님에게 묻는 학생과 비슷하다. 성공 경험도 쌓아 가며 피드백 의존도를 줄인다. 덕분에 연산 자원 소모는 기존 방식의 약 삼분의 일로 줄었고, 복잡한 가상 환경에서 과제 성공률은 24.6%에서 78.3%로 올랐다."
+                "x": "수소와 염소가 빠져나가면 반응성 탄소 자리가 생긴다. 이 자리끼리 새 탄소–탄소 결합을 맺으면서 넓은 네트워크가 만들어진다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "육각 탄소 고리가 시간이 지나며 이어져 넓은 네트워크를 이루는 시뮬레이션 스냅숏."
               },
               {
                 "t": "p",
-                "x": "두 번째 기법 VAN-Flow는 우연에 기댄 불안정한 행동을 걸러내는 오프라인 강화학습 방법이다. 40개가 넘는 로봇 제어 시뮬레이션 과제에서 대부분의 최신 기법을 앞섰다."
+                "x": "흑연과 달리 이 네트워크에는 오각·칠각 고리가 섞여 있다. 이 고리들이 구조를 휘게 해 흑연층이 질서 있게 쌓이지 못한다. 연구는 Chemical Science(DOI: 10.1039/d6sc05974k)에 실렸고, 저자들은 연구 데이터를 공개했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "価値ある時だけ助言を求め\n成功率が三倍に",
-          "body": "SKKUのSAGは必要時のみ助言を求め、仮想課題の成功率を24.6%から78.3%に高めた。",
-          "mini_headline": "賢いエージェントの助言要求",
+          "headline": "機械学習で解明\nプラスチックが硬質炭素に",
+          "body": "オックスフォード大の計算で、加熱PVDCの五員環と七員環が黒鉛化を阻むと分かった。",
+          "mini_headline": "プラスチックが硬質炭素になる仕組み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench。出典：arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "PVDC分解の高温原子シミュレーションを芸術的に可視化した図。提供：Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Sungkyunkwan UniversityのProf. Minhae Kwon率いるチームは、ロボット工学や自動運転を見据え、長い多段階タスクで計算コストを削減し信頼性を高める二つのAI手法を開発した。いずれも第40回Conference on Neural Information Processing Systems(NeurIPS 2026)に採択された。"
+                "x": "オックスフォード大学の研究チームは、機械学習を用いた原子レベルのシミュレーションにより、難黒鉛化炭素の代表的な前駆体であるポリ塩化ビニリデン(PVDC)が加熱によって硬質炭素(ハードカーボン)に変わる過程をたどった。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Selective Critique(SAG)フレームワークの概念図。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "PVDCの分解過程：塩素原子が炭素鎖から離れ、塩化水素を生成する。"
               },
               {
                 "t": "p",
-                "x": "SAGエージェントは、各ステップで高性能モデルに頼る代わりに自らの不確実性を評価し、コストに見合いそうな場合にだけ外部のフィードバックを求める。難しい問題だけを先生に質問する学生のようなものだ。成功体験も蓄積し、フィードバックへの依存を減らしていく。これにより計算資源の消費は従来手法の約三分の一に減り、複雑な仮想環境でのタスク成功率は24.6%から78.3%に上がった。"
+                "x": "水素と塩素が抜けることで反応性の高い炭素サイトが生じ、新たな炭素–炭素結合と広がったネットワークが形成される。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "炭素の六員環が時間とともにつながり、広がったネットワークを形成する様子を示すシミュレーションのスナップショット。"
               },
               {
                 "t": "p",
-                "x": "二つ目の手法VAN-Flowは、偶然に左右される信頼性の低い行動を除外するオフライン強化学習手法で、40を超えるロボット制御シミュレーションタスクで最先端手法の大半を上回った。"
+                "x": "黒鉛と異なり、このネットワークには五員環と七員環が含まれ、これが曲率を生んで秩序だった黒鉛層の形成を妨げる。研究成果はChemical Science(DOI: 10.1039/d6sc05974k)に掲載され、著者らは研究データを公開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "只在值得时求反馈\n成功率升至三倍",
-          "body": "SKKU的SAG让智能体只在值得时寻求反馈，虚拟任务成功率从24.6%升至78.3%。",
-          "mini_headline": "更聪明的智能体反馈",
+          "headline": "机器学习揭示塑料\n如何变成硬碳",
+          "body": "牛津大学模拟显示，加热PVDC时形成的五元环和七元环阻止其转变为石墨。",
+          "mini_headline": "塑料如何变成硬碳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench。来源：arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "PVDC分解高温原子模拟的艺术化呈现。来源：Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Sungkyunkwan University的Prof. Minhae Kwon带领团队开发了两种AI方法，用于在漫长的多步骤任务中降低计算成本、提高可靠性，着眼于机器人和自动驾驶。两项成果均被第40届Conference on Neural Information Processing Systems（NeurIPS 2026）接收。"
+                "x": "牛津大学研究人员利用机器学习驱动的原子尺度模拟，追踪了非石墨化碳的经典前驱体聚偏二氯乙烯（PVDC）在加热时转变为硬碳的过程。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Selective Critique（SAG）框架概念图。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "PVDC的分解方式：氯原子脱离碳链，形成氯化氢。"
               },
               {
                 "t": "p",
-                "x": "SAG智能体并不在每一步都咨询高性能模型，而是评估自身的不确定性，只在可能值得付出成本时才寻求外部反馈，就像学生只拿难题去问老师。它还会积累成功经验，减少对反馈的依赖。由此，计算资源消耗降至传统方法的约三分之一，复杂虚拟环境中的任务成功率从24.6%提高到78.3%。"
+                "x": "氢和氯的脱除产生活性碳位点，这些位点形成新的碳–碳键，并构成延展的网络。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "模拟快照显示六元碳环随时间连接成延展网络。"
               },
               {
                 "t": "p",
-                "x": "第二种方法VAN-Flow是一种离线强化学习方法，可过滤掉依赖偶然性的不可靠行为；它在40多项机器人控制仿真任务中优于大多数最先进方法。"
+                "x": "与石墨不同，这一网络含有五元环和七元环，它们引入曲率，阻碍有序石墨层的形成。该研究发表于Chemical Science（DOI: 10.1039/d6sc05974k），作者已公开研究数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pedir ayuda solo cuando vale\nla pena triplica el éxito",
-          "body": "Con SAG, de SKKU, un agente pide ayuda solo si compensa y el éxito en tareas virtuales pasa del 24.6% al 78.3%.",
-          "mini_headline": "Retroalimentación más inteligente para agentes",
+          "headline": "Aprendizaje automático: el paso\nde plástico a carbono duro",
+          "body": "Simulaciones de Oxford muestran que anillos de cinco y siete miembros impiden que el PVDC calentado se vuelva grafito.",
+          "mini_headline": "Cómo el plástico se vuelve carbono duro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench. Crédito: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "Visualización artística de una simulación atomística a alta temperatura de la descomposición del PVDC. Crédito: Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Un equipo de la Sungkyunkwan University encabezado por Prof. Minhae Kwon desarrolló dos métodos de AI para reducir los costos de cómputo y mejorar la fiabilidad en tareas largas de varios pasos, con la vista puesta en la robótica y la conducción autónoma. Ambos fueron aceptados en la 40.ª Conference on Neural Information Processing Systems (NeurIPS 2026)."
+                "x": "Investigadores de la Universidad de Oxford usaron simulaciones atomísticas impulsadas por aprendizaje automático para rastrear cómo el policloruro de vinilideno (PVDC), un precursor clásico del carbono no grafitizable, se convierte en carbono duro al calentarse."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Diagrama conceptual del marco Selective Critique (SAG)."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "Cómo se descompone el PVDC: un átomo de cloro abandona la cadena de carbono y forma cloruro de hidrógeno."
               },
               {
                 "t": "p",
-                "x": "En lugar de consultar a un modelo de alto rendimiento en cada paso, el agente SAG evalúa su propia incertidumbre y solo busca retroalimentación externa cuando es probable que compense el costo, como un estudiante que solo pregunta al profesor por los problemas difíciles. Además acumula experiencias exitosas, lo que reduce su dependencia de la retroalimentación. Así, el consumo de recursos computacionales bajó a cerca de un tercio del de los enfoques convencionales y el éxito en tareas en entornos virtuales complejos subió del 24.6% al 78.3%."
+                "x": "La pérdida de hidrógeno y cloro crea sitios de carbono reactivos que forman nuevos enlaces carbono–carbono y una red extendida."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "Capturas de la simulación que muestran anillos de carbono de seis miembros uniéndose con el tiempo en una red extendida."
               },
               {
                 "t": "p",
-                "x": "El segundo método, VAN-Flow, es un enfoque de aprendizaje por refuerzo offline que filtra comportamientos poco fiables que dependen del azar; superó a la mayoría de los métodos más avanzados en más de 40 tareas de simulación de control robótico."
+                "x": "A diferencia del grafito, esta red incluye anillos de cinco y siete miembros, que añaden curvatura e impiden la formación de capas ordenadas de grafito. El estudio aparece en Chemical Science (DOI: 10.1039/d6sc05974k) y los autores han publicado abiertamente sus datos de investigación."
               }
             ]
           }
@@ -1373,129 +849,693 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "필요할 때만 피드백 요청\n성공률 세 배로 뛰다",
-          "body": "SKKU SAG는 필요할 때만 물어 과제 성공률을 24.6%서 78.3%로 높였다.",
-          "mini_headline": "똑똑해진 에이전트 피드백",
+          "headline": "머신러닝이 밝힌\n플라스틱의 하드카본 변신",
+          "body": "옥스퍼드 시뮬레이션에서 가열한 PVDC에 생긴 오각·칠각 고리가 흑연화를 막는다.",
+          "mini_headline": "플라스틱이 하드카본이 되는 과정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench. 출처: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "PVDC 분해를 고온 원자 단위로 시뮬레이션한 장면의 예술적 시각화. 출처: Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Prof. Minhae Kwon(교수)이 이끄는 Sungkyunkwan University 연구팀은 로보틱스와 자율주행을 염두에 두고, 길고 여러 단계로 이뤄진 과제에서 컴퓨팅 비용을 줄이고 신뢰성을 높이는 AI 기법 두 가지를 개발했다. 두 기법 모두 제40회 Conference on Neural Information Processing Systems(NeurIPS 2026)에 채택됐다."
+                "x": "옥스퍼드대학교 연구진은 머신러닝 기반 원자 단위 시뮬레이션으로, 비흑연화 탄소의 대표적 전구체인 폴리염화비닐리덴(PVDC)이 가열될 때 하드카본으로 바뀌는 과정을 추적했다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Selective Critique(SAG) 프레임워크 개념도."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "PVDC가 분해되는 방식: 염소 원자가 탄소 사슬에서 떨어져 나가 염화수소를 만든다."
               },
               {
                 "t": "p",
-                "x": "SAG 에이전트는 매 단계마다 고성능 모델에 묻는 대신 스스로 불확실성을 평가해, 비용을 들일 가치가 있을 때만 외부 피드백을 구한다. 어려운 문제만 선생님에게 묻는 학생과 비슷하다. 성공 경험도 쌓아 가며 피드백 의존도를 줄인다. 그 결과 연산 자원 소모는 기존 방식의 약 삼분의 일로 줄었고, 복잡한 가상 환경에서 과제 성공률은 24.6%에서 78.3%로 올랐다."
+                "x": "수소와 염소가 빠져나가면 반응성 탄소 자리가 생기고, 이 자리들이 새로운 탄소–탄소 결합을 이루며 넓은 네트워크를 형성한다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "시간이 지나며 육각 탄소 고리들이 이어져 넓은 네트워크를 이루는 모습을 담은 시뮬레이션 스냅숏."
               },
               {
                 "t": "p",
-                "x": "두 번째 기법인 VAN-Flow는 우연에 기댄 불안정한 행동을 걸러내는 오프라인 강화학습 방법으로, 40개가 넘는 로봇 제어 시뮬레이션 과제에서 대부분의 최신 기법을 앞섰다."
+                "x": "흑연과 달리 이 네트워크에는 오각·칠각 고리가 섞여 있어 곡률을 더하고, 질서 정연한 흑연층의 형성을 막는다. 이 연구는 Chemical Science(DOI: 10.1039/d6sc05974k)에 실렸으며, 저자들은 연구 데이터를 공개했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "価値ある時だけ助言を求め\n成功率が三倍に",
-          "body": "SKKUのSAGは必要時のみ助言を求め、仮想課題の成功率を24.6%から78.3%に高めた。",
-          "mini_headline": "賢いエージェントの助言要求",
+          "headline": "機械学習で解明\nプラスチックが硬質炭素に",
+          "body": "オックスフォード大の計算で、加熱PVDCの五員環と七員環が黒鉛化を阻むと分かった。",
+          "mini_headline": "プラスチックが硬質炭素になる仕組み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench。出典：arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "PVDC分解の高温原子シミュレーションを芸術的に可視化した図。提供：Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Sungkyunkwan UniversityのProf. Minhae Kwon率いるチームは、ロボット工学や自動運転を見据え、長い多段階タスクで計算コストを削減し信頼性を高める二つのAI手法を開発した。いずれも第40回Conference on Neural Information Processing Systems(NeurIPS 2026)に採択された。"
+                "x": "オックスフォード大学の研究チームは、機械学習を用いた原子レベルのシミュレーションにより、難黒鉛化炭素の代表的な前駆体であるポリ塩化ビニリデン(PVDC)が加熱によって硬質炭素(ハードカーボン)に変わる過程をたどった。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Selective Critique(SAG)フレームワークの概念図。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "PVDCの分解過程：塩素原子が炭素鎖から離れ、塩化水素を生成する。"
               },
               {
                 "t": "p",
-                "x": "SAGエージェントは、各ステップで高性能モデルに頼る代わりに自らの不確実性を評価し、コストに見合いそうな場合にだけ外部のフィードバックを求める。難しい問題だけを先生に質問する学生のようなものだ。成功体験も蓄積し、フィードバックへの依存を減らしていく。これにより計算資源の消費は従来手法の約三分の一に減り、複雑な仮想環境でのタスク成功率は24.6%から78.3%に上がった。"
+                "x": "水素と塩素が抜けることで反応性の高い炭素サイトが生じ、新たな炭素–炭素結合と広がったネットワークが形成される。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "炭素の六員環が時間とともにつながり、広がったネットワークを形成する様子を示すシミュレーションのスナップショット。"
               },
               {
                 "t": "p",
-                "x": "二つ目の手法VAN-Flowは、偶然に左右される信頼性の低い行動を除外するオフライン強化学習手法で、40を超えるロボット制御シミュレーションタスクで最先端手法の大半を上回った。"
+                "x": "黒鉛と異なり、このネットワークには五員環と七員環が含まれ、これが曲率を生んで秩序だった黒鉛層の形成を妨げる。研究成果はChemical Science(DOI: 10.1039/d6sc05974k)に掲載され、著者らは研究データを公開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "只在值得时求反馈\n成功率升至三倍",
-          "body": "SKKU的SAG让智能体只在值得时寻求反馈，虚拟任务成功率从24.6%升至78.3%。",
-          "mini_headline": "更聪明的智能体反馈",
+          "headline": "机器学习揭示塑料\n如何变成硬碳",
+          "body": "牛津大学模拟显示，加热PVDC时形成的五元环和七元环阻止其转变为石墨。",
+          "mini_headline": "塑料如何变成硬碳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench。来源：arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "PVDC分解高温原子模拟的艺术化呈现。来源：Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Sungkyunkwan University的Prof. Minhae Kwon带领团队开发了两种AI方法，用于在漫长的多步骤任务中降低计算成本、提高可靠性，着眼于机器人和自动驾驶。两项成果均被第40届Conference on Neural Information Processing Systems（NeurIPS 2026）接收。"
+                "x": "牛津大学研究人员利用机器学习驱动的原子尺度模拟，追踪了非石墨化碳的经典前驱体聚偏二氯乙烯（PVDC）在加热时转变为硬碳的过程。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Selective Critique（SAG）框架概念图。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "PVDC的分解方式：氯原子脱离碳链，形成氯化氢。"
               },
               {
                 "t": "p",
-                "x": "SAG智能体并不在每一步都咨询高性能模型，而是评估自身的不确定性，只在可能值得付出成本时才寻求外部反馈，就像学生只拿难题去问老师。它还会积累成功经验，减少对反馈的依赖。由此，计算资源消耗降至传统方法的约三分之一，复杂虚拟环境中的任务成功率从24.6%提高到78.3%。"
+                "x": "氢和氯的脱除产生活性碳位点，这些位点形成新的碳–碳键，并构成延展的网络。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "模拟快照显示六元碳环随时间连接成延展网络。"
               },
               {
                 "t": "p",
-                "x": "第二种方法VAN-Flow是一种离线强化学习方法，可过滤掉依赖偶然性的不可靠行为；它在40多项机器人控制仿真任务中优于大多数最先进方法。"
+                "x": "与石墨不同，这一网络含有五元环和七元环，它们引入曲率，阻碍有序石墨层的形成。该研究发表于Chemical Science（DOI: 10.1039/d6sc05974k），作者已公开研究数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pedir ayuda solo cuando vale\nla pena triplica el éxito",
-          "body": "Con SAG, de SKKU, un agente pide ayuda solo si compensa y el éxito en tareas virtuales pasa del 24.6% al 78.3%.",
-          "mini_headline": "Retroalimentación más inteligente para agentes",
+          "headline": "Aprendizaje automático: el paso\nde plástico a carbono duro",
+          "body": "Simulaciones de Oxford muestran que anillos de cinco y siete miembros impiden que el PVDC calentado se vuelva grafito.",
+          "mini_headline": "Cómo el plástico se vuelve carbono duro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-                "cap": "OGBench. Crédito: arXiv (2026). DOI: 10.48550/arxiv.2610.07899"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+                "cap": "Visualización artística de una simulación atomística a alta temperatura de la descomposición del PVDC. Crédito: Litong Wu & Volker Deringer"
               },
               {
                 "t": "p",
-                "x": "Un equipo de la Sungkyunkwan University encabezado por Prof. Minhae Kwon desarrolló dos métodos de AI para reducir los costos de cómputo y mejorar la fiabilidad en tareas largas de varios pasos, con la vista puesta en la robótica y la conducción autónoma. Ambos fueron aceptados en la 40.ª Conference on Neural Information Processing Systems (NeurIPS 2026)."
+                "x": "Investigadores de la Universidad de Oxford usaron simulaciones atomísticas impulsadas por aprendizaje automático para rastrear cómo el policloruro de vinilideno (PVDC), un precursor clásico del carbono no grafitizable, se convierte en carbono duro al calentarse."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-next-gen.jpg",
-                "cap": "Diagrama conceptual del marco Selective Critique (SAG)."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+                "cap": "Cómo se descompone el PVDC: un átomo de cloro abandona la cadena de carbono y forma cloruro de hidrógeno."
               },
               {
                 "t": "p",
-                "x": "En lugar de consultar a un modelo de alto rendimiento en cada paso, el agente SAG evalúa su propia incertidumbre y solo busca retroalimentación externa cuando es probable que compense el costo, como un estudiante que solo pregunta al profesor por los problemas difíciles. Además acumula experiencias exitosas, lo que reduce su dependencia de la retroalimentación. Así, el consumo de recursos computacionales bajó a cerca de un tercio del de los enfoques convencionales y el éxito en tareas en entornos virtuales complejos subió del 24.6% al 78.3%."
+                "x": "La pérdida de hidrógeno y cloro crea sitios de carbono reactivos que forman nuevos enlaces carbono–carbono y una red extendida."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+                "cap": "Capturas de la simulación que muestran anillos de carbono de seis miembros uniéndose con el tiempo en una red extendida."
               },
               {
                 "t": "p",
-                "x": "El segundo método, VAN-Flow, es un enfoque de aprendizaje por refuerzo offline que filtra comportamientos poco fiables que dependen del azar; superó a la mayoría de los métodos más avanzados en más de 40 tareas de simulación de control robótico."
+                "x": "A diferencia del grafito, esta red incluye anillos de cinco y siete miembros, que añaden curvatura e impiden la formación de capas ordenadas de grafito. El estudio aparece en Chemical Science (DOI: 10.1039/d6sc05974k) y los autores han publicado abiertamente sus datos de investigación."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "chalmers-gnn-qec-decoder",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "양자 오류 정정용\n모듈형 신경망 디코더",
+      "body": "예테보리·찰머스 팀이 표면 코드 메모리·격자 수술용 GNN 디코더를 만들었다.",
+      "mini_headline": "양자 오류용 신경망 디코더",
+      "tool": "Science",
+      "source": "Quantum Computing Report",
+      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+          },
+          {
+            "t": "p",
+            "x": "예테보리대학교와 찰머스공과대학 연구진이 표면 코드 양자 오류 정정용 모듈형 신경망 디코더를 시연했다. 하드웨어 아키텍처나 노이즈 프로파일이 달라도, 다중 패치 논리 연산에도 그대로 이식할 수 있다. 검증에는 IBM Quantum의 Nighthawk r1 세대(ibm_berlin)와 Google Quantum AI의 임계값 이하 Sycamore 프로세서 데이터를 썼다."
+          },
+          {
+            "t": "p",
+            "x": "메모리 실험에서는 최소 가중치 완전 매칭(MWPM)을 앞섰고, 상용 GPU 한 장으로 학습하면서도 실제 두 패치 ZZ-merge 격자 수술 연산까지 디코딩했다. AlphaQubit이 조밀한 순환 Transformer 블록을 쓰는 것과 달리, 여기서는 공유 국소 그래프 신경망이 작은 3×3×2 시공간 클러스터를 처리한다. 합성곱 층이 이를 성기게 묶고 GRU가 시간 축으로 합친다. 매개변수는 거리 d = 3, 5, 7, 9 모두에서 이백만~삼백만 개 안팎이다."
+          },
+          {
+            "t": "p",
+            "x": "실시간으로 쓰려면 추론이 마이크로초 안에 끝나야 한다. GNN-RNN 아키텍처를 FPGA나 ASIC 가속기에 컴파일하는 쪽이 유력하다. 프리프린트는 arXiv에, 오픈소스 모델과 학습 스크립트는 GitHub에 올라와 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A modular neural decoder for\nquantum error correction",
+          "body": "Gothenburg and Chalmers researchers built a graph neural decoder that handles surface-code memory and lattice surgery.",
+          "mini_headline": "Neural decoder for quantum errors",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "Researchers from the University of Gothenburg and Chalmers University of Technology have demonstrated a modular neural decoder for surface code quantum error correction that transfers across hardware architectures, variable noise profiles and multi-patch logical operations. They validated it on data from IBM Quantum's Nighthawk r1 generation (ibm_berlin) and Google Quantum AI's below-threshold Sycamore processor."
+              },
+              {
+                "t": "p",
+                "x": "The framework outperforms minimum-weight perfect matching (MWPM) on memory experiments and decodes a real two-patch ZZ-merge lattice-surgery operation while remaining trainable on a single commercial GPU. Unlike AlphaQubit's dense recurrent Transformer blocks, a shared local graph neural network processes small 3×3×2 space-time clusters, coarse-grained by convolutional layers and integrated over time by a GRU, keeping roughly two to three million parameters across distances d = 3, 5, 7 and 9."
+              },
+              {
+                "t": "p",
+                "x": "Real-time use will require sub-microsecond inference, likely by compiling the GNN-RNN architecture onto FPGA or ASIC accelerators. The preprint is on arXiv, with open-source models and training scripts on GitHub."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "양자 오류 정정용\n모듈형 신경망 디코더",
+          "body": "예테보리·찰머스 팀이 표면 코드 메모리·격자 수술용 GNN 디코더를 만들었다.",
+          "mini_headline": "양자 오류용 신경망 디코더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "예테보리대학교와 찰머스공과대학 연구진이 표면 코드 양자 오류 정정용 모듈형 신경망 디코더를 시연했다. 하드웨어 아키텍처나 노이즈 프로파일이 달라도, 다중 패치 논리 연산에도 그대로 이식할 수 있다. 검증에는 IBM Quantum의 Nighthawk r1 세대(ibm_berlin)와 Google Quantum AI의 임계값 이하 Sycamore 프로세서 데이터를 썼다."
+              },
+              {
+                "t": "p",
+                "x": "메모리 실험에서는 최소 가중치 완전 매칭(MWPM)을 앞섰고, 상용 GPU 한 장으로 학습하면서도 실제 두 패치 ZZ-merge 격자 수술 연산까지 디코딩했다. AlphaQubit이 조밀한 순환 Transformer 블록을 쓰는 것과 달리, 여기서는 공유 국소 그래프 신경망이 작은 3×3×2 시공간 클러스터를 처리한다. 합성곱 층이 이를 성기게 묶고 GRU가 시간 축으로 합친다. 매개변수는 거리 d = 3, 5, 7, 9 모두에서 이백만~삼백만 개 안팎이다."
+              },
+              {
+                "t": "p",
+                "x": "실시간으로 쓰려면 추론이 마이크로초 안에 끝나야 한다. GNN-RNN 아키텍처를 FPGA나 ASIC 가속기에 컴파일하는 쪽이 유력하다. 프리프린트는 arXiv에, 오픈소스 모델과 학습 스크립트는 GitHub에 올라와 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "量子誤り訂正向けの\nモジュール型ニューラル復号器",
+          "body": "ヨーテボリ大とチャルマースが、表面符号メモリと格子手術を扱うGNN復号器を開発した。",
+          "mini_headline": "量子誤り訂正のニューラル復号器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "ヨーテボリ大学とチャルマース工科大学の研究チームは、ハードウェアアーキテクチャ、変動するノイズ特性、複数パッチの論理演算をまたいで転用できる、表面符号量子誤り訂正向けのモジュール型ニューラル復号器を実証した。IBM QuantumのNighthawk r1世代(ibm_berlin)と、Google Quantum AIのしきい値以下で動作するSycamoreプロセッサーのデータで検証した。"
+              },
+              {
+                "t": "p",
+                "x": "このフレームワークはメモリ実験で最小重み完全マッチング(MWPM)を上回り、二つのパッチによる実際のZZ-merge格子手術操作を復号しつつ、市販のGPU一枚で学習できる。AlphaQubitの密な再帰型Transformerブロックとは異なり、共有された局所グラフニューラルネットワークが3×3×2の小さな時空間クラスターを処理し、畳み込み層で粗視化したうえでGRUが時間方向に統合する。パラメーター数は距離d = 3, 5, 7, 9のいずれでも約二百万〜三百万に収まる。"
+              },
+              {
+                "t": "p",
+                "x": "リアルタイムで使うにはマイクロ秒未満の推論が必要で、GNN-RNNアーキテクチャをFPGAやASICアクセラレーターにコンパイルする方法が有力だ。プレプリントはarXivで公開され、オープンソースのモデルと学習スクリプトはGitHubにある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "面向量子纠错的\n模块化神经解码器",
+          "body": "哥德堡大学与查尔姆斯理工研究人员打造图神经解码器，可处理表面码存储与晶格手术。",
+          "mini_headline": "量子纠错神经解码器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "哥德堡大学和查尔姆斯理工大学的研究人员展示了一种用于表面码量子纠错的模块化神经解码器，可跨硬件架构、不同噪声特征和多块逻辑操作迁移。他们使用IBM Quantum的Nighthawk r1代（ibm_berlin）以及Google Quantum AI低于阈值的Sycamore处理器数据进行了验证。"
+              },
+              {
+                "t": "p",
+                "x": "该框架在存储实验中优于最小权重完美匹配（MWPM），能解码真实的双块ZZ-merge晶格手术操作，同时只需一块商用GPU即可训练。与AlphaQubit稠密的循环Transformer模块不同，它由共享的局部图神经网络处理3×3×2的小型时空簇，经卷积层粗粒化后再由GRU在时间上整合，在距离d = 3, 5, 7和9下参数量都保持在约两三百万。"
+              },
+              {
+                "t": "p",
+                "x": "实时应用需要亚微秒级推理，可能需将GNN-RNN架构编译到FPGA或ASIC加速器上。预印本已发布在arXiv，开源模型和训练脚本见GitHub。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Decodificador neuronal modular\npara corregir errores cuánticos",
+          "body": "Equipos de Gotemburgo y Chalmers crearon un decodificador GNN para memoria y cirugía de red en código de superficie.",
+          "mini_headline": "Decodificador neuronal para errores cuánticos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la Universidad de Gotemburgo y de la Universidad Tecnológica Chalmers demostraron un decodificador neuronal modular para la corrección cuántica de errores con código de superficie que se transfiere entre arquitecturas de hardware, perfiles de ruido variables y operaciones lógicas de varios parches. Lo validaron con datos de la generación Nighthawk r1 de IBM Quantum (ibm_berlin) y del procesador Sycamore de Google Quantum AI, que opera por debajo del umbral."
+              },
+              {
+                "t": "p",
+                "x": "El marco supera al emparejamiento perfecto de peso mínimo (MWPM) en experimentos de memoria y decodifica una operación real de cirugía de red ZZ-merge con dos parches, y aun así puede entrenarse en una sola GPU comercial. A diferencia de los densos bloques Transformer recurrentes de AlphaQubit, una red neuronal de grafos local y compartida procesa pequeños clústeres espaciotemporales de 3×3×2, que las capas convolucionales agregan a escala gruesa y una GRU integra en el tiempo, con unos dos a tres millones de parámetros para las distancias d = 3, 5, 7 y 9."
+              },
+              {
+                "t": "p",
+                "x": "El uso en tiempo real exigirá inferencias por debajo del microsegundo, probablemente compilando la arquitectura GNN-RNN en aceleradores FPGA o ASIC. El preprint está en arXiv, con modelos de código abierto y scripts de entrenamiento en GitHub."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "양자 오류 정정용\n모듈형 신경망 디코더",
+          "body": "예테보리·찰머스 팀이 표면 코드 메모리·격자 수술용 GNN 디코더를 만들었다.",
+          "mini_headline": "양자 오류용 신경망 디코더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "예테보리대학교와 찰머스공과대학 연구진이 하드웨어 아키텍처, 다양한 노이즈 프로파일, 다중 패치 논리 연산 전반에 이식할 수 있는 표면 코드 양자 오류 정정용 모듈형 신경망 디코더를 시연했다. 연구진은 IBM Quantum의 Nighthawk r1 세대(ibm_berlin)와 Google Quantum AI의 임계값 이하 Sycamore 프로세서 데이터로 이를 검증했다."
+              },
+              {
+                "t": "p",
+                "x": "이 프레임워크는 메모리 실험에서 최소 가중치 완전 매칭(MWPM)보다 뛰어난 성능을 보였고, 상용 GPU 한 장으로 학습할 수 있으면서도 실제 두 패치 ZZ-merge 격자 수술 연산을 디코딩했다. AlphaQubit의 조밀한 순환 Transformer 블록과 달리, 공유된 국소 그래프 신경망이 작은 3×3×2 시공간 클러스터를 처리하고, 합성곱 층이 이를 성기게 묶으며 GRU가 시간 축으로 통합한다. 매개변수는 거리 d = 3, 5, 7, 9 전반에서 약 이백만~삼백만 개 수준을 유지한다."
+              },
+              {
+                "t": "p",
+                "x": "실시간으로 쓰려면 마이크로초 미만의 추론이 필요하며, GNN-RNN 아키텍처를 FPGA나 ASIC 가속기에 컴파일하는 방식이 유력하다. 프리프린트는 arXiv에 공개됐고, 오픈소스 모델과 학습 스크립트는 GitHub에 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "量子誤り訂正向けの\nモジュール型ニューラル復号器",
+          "body": "ヨーテボリ大とチャルマースが、表面符号メモリと格子手術を扱うGNN復号器を開発した。",
+          "mini_headline": "量子誤り訂正のニューラル復号器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "ヨーテボリ大学とチャルマース工科大学の研究チームは、ハードウェアアーキテクチャ、変動するノイズ特性、複数パッチの論理演算をまたいで転用できる、表面符号量子誤り訂正向けのモジュール型ニューラル復号器を実証した。IBM QuantumのNighthawk r1世代(ibm_berlin)と、Google Quantum AIのしきい値以下で動作するSycamoreプロセッサーのデータで検証した。"
+              },
+              {
+                "t": "p",
+                "x": "このフレームワークはメモリ実験で最小重み完全マッチング(MWPM)を上回り、二つのパッチによる実際のZZ-merge格子手術操作を復号しつつ、市販のGPU一枚で学習できる。AlphaQubitの密な再帰型Transformerブロックとは異なり、共有された局所グラフニューラルネットワークが3×3×2の小さな時空間クラスターを処理し、畳み込み層で粗視化したうえでGRUが時間方向に統合する。パラメーター数は距離d = 3, 5, 7, 9のいずれでも約二百万〜三百万に収まる。"
+              },
+              {
+                "t": "p",
+                "x": "リアルタイムで使うにはマイクロ秒未満の推論が必要で、GNN-RNNアーキテクチャをFPGAやASICアクセラレーターにコンパイルする方法が有力だ。プレプリントはarXivで公開され、オープンソースのモデルと学習スクリプトはGitHubにある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "面向量子纠错的\n模块化神经解码器",
+          "body": "哥德堡大学与查尔姆斯理工研究人员打造图神经解码器，可处理表面码存储与晶格手术。",
+          "mini_headline": "量子纠错神经解码器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "哥德堡大学和查尔姆斯理工大学的研究人员展示了一种用于表面码量子纠错的模块化神经解码器，可跨硬件架构、不同噪声特征和多块逻辑操作迁移。他们使用IBM Quantum的Nighthawk r1代（ibm_berlin）以及Google Quantum AI低于阈值的Sycamore处理器数据进行了验证。"
+              },
+              {
+                "t": "p",
+                "x": "该框架在存储实验中优于最小权重完美匹配（MWPM），能解码真实的双块ZZ-merge晶格手术操作，同时只需一块商用GPU即可训练。与AlphaQubit稠密的循环Transformer模块不同，它由共享的局部图神经网络处理3×3×2的小型时空簇，经卷积层粗粒化后再由GRU在时间上整合，在距离d = 3, 5, 7和9下参数量都保持在约两三百万。"
+              },
+              {
+                "t": "p",
+                "x": "实时应用需要亚微秒级推理，可能需将GNN-RNN架构编译到FPGA或ASIC加速器上。预印本已发布在arXiv，开源模型和训练脚本见GitHub。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Decodificador neuronal modular\npara corregir errores cuánticos",
+          "body": "Equipos de Gotemburgo y Chalmers crearon un decodificador GNN para memoria y cirugía de red en código de superficie.",
+          "mini_headline": "Decodificador neuronal para errores cuánticos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la Universidad de Gotemburgo y de la Universidad Tecnológica Chalmers demostraron un decodificador neuronal modular para la corrección cuántica de errores con código de superficie que se transfiere entre arquitecturas de hardware, perfiles de ruido variables y operaciones lógicas de varios parches. Lo validaron con datos de la generación Nighthawk r1 de IBM Quantum (ibm_berlin) y del procesador Sycamore de Google Quantum AI, que opera por debajo del umbral."
+              },
+              {
+                "t": "p",
+                "x": "El marco supera al emparejamiento perfecto de peso mínimo (MWPM) en experimentos de memoria y decodifica una operación real de cirugía de red ZZ-merge con dos parches, y aun así puede entrenarse en una sola GPU comercial. A diferencia de los densos bloques Transformer recurrentes de AlphaQubit, una red neuronal de grafos local y compartida procesa pequeños clústeres espaciotemporales de 3×3×2, que las capas convolucionales agregan a escala gruesa y una GRU integra en el tiempo, con unos dos a tres millones de parámetros para las distancias d = 3, 5, 7 y 9."
+              },
+              {
+                "t": "p",
+                "x": "El uso en tiempo real exigirá inferencias por debajo del microsegundo, probablemente compilando la arquitectura GNN-RNN en aceleradores FPGA o ASIC. El preprint está en arXiv, con modelos de código abierto y scripts de entrenamiento en GitHub."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "sentira-10x-claude",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "10x Genomics,\nClaude로 단일세포분석",
+      "body": "10x Genomics가 Claude 기반 단일세포 분석 Sentira를 내놨다.",
+      "mini_headline": "10x Chromium에 Claude 탑재",
+      "tool": "Science",
+      "source": "GEN",
+      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+          },
+          {
+            "t": "p",
+            "x": "10x Genomics가 Anthropic의 Claude 모델로 돌아가는 클라우드형 에이전트 분석 도구 Sentira Single Cell을 Chromium 사용자용 애플리케이션으로 출시한다. Michael Schnall-Levin CTO는 단일세포 분석에는 늘 ‘라스트 마일 문제’가 있었다며, Sentira로는 “예전에 누군가 몇 주 걸렸을 일이 몇 시간이면 될 수 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "도구는 10x Cloud 위에서 돌아간다. 연구자가 채팅 인터페이스로 질문하면 스크립트와 분석 코드는 백엔드에서 짜인다. 10x는 자체 LLM을 학습시키지 않고, 고객 데이터가 모델로 되돌아가는 일도 없다. Sentira 공간 분석 버전은 이보다 몇 주 먼저 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "요금은 크레딧제다. 에이전트 세션 한 번에 약 12크레딧, 전체 분석 한 건에 60크레딧 안팎이 들고, 첫 Chromium 데이터셋에는 프로모션 크레딧 100개를 준다. Schnall-Levin은 도구가 완벽하지 않다며 “여전히 사람이 이를 책임져야 한다”고 경고했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "10x Genomics brings Claude\nto single-cell analysis",
+          "body": "10x Genomics launched Sentira Single Cell, a Claude-powered platform to speed analysis of Chromium single-cell data.",
+          "mini_headline": "Claude comes to 10x Chromium",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomics is launching Sentira Single Cell, a cloud-based agentic analysis powered by Anthropic's Claude models as an application for Chromium users. CTO Michael Schnall-Levin says single-cell analysis has always had a \"last mile problem\"; with Sentira, \"what might have taken someone weeks before could take hours.\""
+              },
+              {
+                "t": "p",
+                "x": "Built on 10x Cloud, it lets researchers ask questions in a chat interface while scripts and analysis code are written on the back end. 10x is not training its own LLM, and customer data does not flow back into the models. Sentira spatial launched a few weeks earlier."
+              },
+              {
+                "t": "p",
+                "x": "Pricing is credit-based: each agentic session costs ~12 credits, and a complete analysis around 60; users get 100 promotional credits for their first Chromium dataset. Schnall-Levin warns the tools are not perfect: \"people are still on the hook and responsible for it.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "10x Genomics,\nClaude로 단일세포분석",
+          "body": "10x Genomics가 Claude 기반 단일세포 분석 Sentira를 내놨다.",
+          "mini_headline": "10x Chromium에 Claude 탑재",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomics가 Anthropic의 Claude 모델로 돌아가는 클라우드형 에이전트 분석 도구 Sentira Single Cell을 Chromium 사용자용 애플리케이션으로 출시한다. Michael Schnall-Levin CTO는 단일세포 분석에는 늘 ‘라스트 마일 문제’가 있었다며, Sentira로는 “예전에 누군가 몇 주 걸렸을 일이 몇 시간이면 될 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "도구는 10x Cloud 위에서 돌아간다. 연구자가 채팅 인터페이스로 질문하면 스크립트와 분석 코드는 백엔드에서 짜인다. 10x는 자체 LLM을 학습시키지 않고, 고객 데이터가 모델로 되돌아가는 일도 없다. Sentira 공간 분석 버전은 이보다 몇 주 먼저 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "요금은 크레딧제다. 에이전트 세션 한 번에 약 12크레딧, 전체 분석 한 건에 60크레딧 안팎이 들고, 첫 Chromium 데이터셋에는 프로모션 크레딧 100개를 준다. Schnall-Levin은 도구가 완벽하지 않다며 “여전히 사람이 이를 책임져야 한다”고 경고했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "10x Genomics、\n単一細胞解析にClaude",
+          "body": "10x GenomicsがClaudeで単一細胞解析を速めるSentiraを発表した。",
+          "mini_headline": "10x ChromiumにClaudeが登場",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomicsは、AnthropicのClaudeモデルを基盤とするクラウド型のエージェント解析「Sentira Single Cell」を、Chromiumユーザー向けアプリケーションとして提供する。CTOのMichael Schnall-Levin氏は、単一細胞解析には常に「ラストマイル問題」があったと述べ、Sentiraによって「以前なら数週間かかっていたことが数時間で済む可能性がある」と語る。"
+              },
+              {
+                "t": "p",
+                "x": "10x Cloud上に構築され、研究者はチャット画面で質問でき、スクリプトや解析コードはバックエンドで書かれる。10xは独自のLLMを訓練しておらず、顧客データがモデルに還流することもない。空間解析向けのSentiraは数週間前に発表されている。"
+              },
+              {
+                "t": "p",
+                "x": "料金はクレジット制で、エージェントセッション一回あたり約12クレジット、完全な解析で60前後かかる。最初のChromiumデータセットには100のプロモーションクレジットが付与される。Schnall-Levin氏はツールが完璧ではないと警告し、「依然として人が責任を負う」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "10x Genomics\n将Claude引入单细胞分析",
+          "body": "10x Genomics推出基于Claude的平台Sentira，加速单细胞数据分析。",
+          "mini_headline": "Claude登陆10x Chromium",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomics正在推出Sentira Single Cell，这是一款基于Anthropic的Claude模型、面向Chromium用户的云端智能体分析应用。首席技术官Michael Schnall-Levin表示，单细胞分析一直存在“最后一公里问题”；有了Sentira，“以前可能要花几周的工作，现在可能只需几小时”。"
+              },
+              {
+                "t": "p",
+                "x": "该应用构建于10x Cloud之上，研究人员可在聊天界面中提问，脚本和分析代码则在后端编写。10x并未训练自有LLM，客户数据也不会回流到模型中。Sentira空间版已于几周前推出。"
+              },
+              {
+                "t": "p",
+                "x": "定价采用积分制：每次智能体会话约需12积分，一次完整分析约60积分；用户的首个Chromium数据集可获得100个促销积分。Schnall-Levin提醒，这些工具并不完美：“人仍然要为此负责。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "10x Genomics lleva Claude\nal análisis de células únicas",
+          "body": "10x Genomics lanzó Sentira Single Cell, una plataforma con Claude que agiliza el análisis unicelular de Chromium.",
+          "mini_headline": "Claude llega a 10x Chromium",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomics lanza Sentira Single Cell, un análisis agéntico en la nube impulsado por los modelos Claude de Anthropic, como aplicación para usuarios de Chromium. El CTO Michael Schnall-Levin afirma que el análisis de célula única siempre ha tenido un “problema de la última milla”; con Sentira, “lo que antes podía llevarle a alguien semanas podría llevar horas”."
+              },
+              {
+                "t": "p",
+                "x": "Construido sobre 10x Cloud, permite a los investigadores hacer preguntas en una interfaz de chat mientras los scripts y el código de análisis se escriben en el back end. 10x no entrena su propio LLM, y los datos de los clientes no vuelven a los modelos. Sentira espacial se lanzó unas semanas antes."
+              },
+              {
+                "t": "p",
+                "x": "El precio se basa en créditos: cada sesión agéntica cuesta ~12 créditos y un análisis completo, alrededor de 60; los usuarios reciben 100 créditos promocionales para su primer conjunto de datos de Chromium. Schnall-Levin advierte que las herramientas no son perfectas: “la gente sigue teniendo la obligación y la responsabilidad”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "10x Genomics,\nClaude로 단일세포분석",
+          "body": "10x Genomics가 Claude 기반 단일세포 분석 Sentira를 내놨다.",
+          "mini_headline": "10x Chromium에 Claude 탑재",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomics가 Chromium 사용자용 애플리케이션으로, Anthropic의 Claude 모델을 기반으로 한 클라우드형 에이전트 분석 도구 Sentira Single Cell을 출시한다. Michael Schnall-Levin CTO는 단일세포 분석에는 늘 ‘라스트 마일 문제’가 있었다며, Sentira로는 “예전에 누군가 몇 주 걸렸을 일이 몇 시간이면 될 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "10x Cloud 위에 구축된 이 도구에서 연구자는 채팅 인터페이스로 질문하고, 스크립트와 분석 코드는 백엔드에서 작성된다. 10x는 자체 LLM을 학습시키지 않으며, 고객 데이터는 모델로 다시 흘러가지 않는다. Sentira 공간 분석 버전은 몇 주 앞서 출시됐다."
+              },
+              {
+                "t": "p",
+                "x": "가격은 크레딧 기반이다. 에이전트 세션 한 번에 약 12크레딧, 전체 분석 한 건에 60크레딧 안팎이 들며, 첫 Chromium 데이터셋에는 프로모션 크레딧 100개가 주어진다. Schnall-Levin은 이 도구가 완벽하지 않다며 “여전히 사람이 이를 책임져야 한다”고 경고했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "10x Genomics、\n単一細胞解析にClaude",
+          "body": "10x GenomicsがClaudeで単一細胞解析を速めるSentiraを発表した。",
+          "mini_headline": "10x ChromiumにClaudeが登場",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomicsは、AnthropicのClaudeモデルを基盤とするクラウド型のエージェント解析「Sentira Single Cell」を、Chromiumユーザー向けアプリケーションとして提供する。CTOのMichael Schnall-Levin氏は、単一細胞解析には常に「ラストマイル問題」があったと述べ、Sentiraによって「以前なら数週間かかっていたことが数時間で済む可能性がある」と語る。"
+              },
+              {
+                "t": "p",
+                "x": "10x Cloud上に構築され、研究者はチャット画面で質問でき、スクリプトや解析コードはバックエンドで書かれる。10xは独自のLLMを訓練しておらず、顧客データがモデルに還流することもない。空間解析向けのSentiraは数週間前に発表されている。"
+              },
+              {
+                "t": "p",
+                "x": "料金はクレジット制で、エージェントセッション一回あたり約12クレジット、完全な解析で60前後かかる。最初のChromiumデータセットには100のプロモーションクレジットが付与される。Schnall-Levin氏はツールが完璧ではないと警告し、「依然として人が責任を負う」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "10x Genomics\n将Claude引入单细胞分析",
+          "body": "10x Genomics推出基于Claude的平台Sentira，加速单细胞数据分析。",
+          "mini_headline": "Claude登陆10x Chromium",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomics正在推出Sentira Single Cell，这是一款基于Anthropic的Claude模型、面向Chromium用户的云端智能体分析应用。首席技术官Michael Schnall-Levin表示，单细胞分析一直存在“最后一公里问题”；有了Sentira，“以前可能要花几周的工作，现在可能只需几小时”。"
+              },
+              {
+                "t": "p",
+                "x": "该应用构建于10x Cloud之上，研究人员可在聊天界面中提问，脚本和分析代码则在后端编写。10x并未训练自有LLM，客户数据也不会回流到模型中。Sentira空间版已于几周前推出。"
+              },
+              {
+                "t": "p",
+                "x": "定价采用积分制：每次智能体会话约需12积分，一次完整分析约60积分；用户的首个Chromium数据集可获得100个促销积分。Schnall-Levin提醒，这些工具并不完美：“人仍然要为此负责。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "10x Genomics lleva Claude\nal análisis de células únicas",
+          "body": "10x Genomics lanzó Sentira Single Cell, una plataforma con Claude que agiliza el análisis unicelular de Chromium.",
+          "mini_headline": "Claude llega a 10x Chromium",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+              },
+              {
+                "t": "p",
+                "x": "10x Genomics lanza Sentira Single Cell, un análisis agéntico en la nube impulsado por los modelos Claude de Anthropic, como aplicación para usuarios de Chromium. El CTO Michael Schnall-Levin afirma que el análisis de célula única siempre ha tenido un “problema de la última milla”; con Sentira, “lo que antes podía llevarle a alguien semanas podría llevar horas”."
+              },
+              {
+                "t": "p",
+                "x": "Construido sobre 10x Cloud, permite a los investigadores hacer preguntas en una interfaz de chat mientras los scripts y el código de análisis se escriben en el back end. 10x no entrena su propio LLM, y los datos de los clientes no vuelven a los modelos. Sentira espacial se lanzó unas semanas antes."
+              },
+              {
+                "t": "p",
+                "x": "El precio se basa en créditos: cada sesión agéntica cuesta ~12 créditos y un análisis completo, alrededor de 60; los usuarios reciben 100 créditos promocionales para su primer conjunto de datos de Chromium. Schnall-Levin advierte que las herramientas no son perfectas: “la gente sigue teniendo la obligación y la responsabilidad”."
               }
             ]
           }

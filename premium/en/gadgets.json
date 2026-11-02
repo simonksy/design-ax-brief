@@ -10374,6 +10374,141 @@
           "x": "A 263mAh battery is larger than the 210mAh of the previous generation. Black costs CNY 3699 (~$555/€498) and Tortoiseshell CNY 3849 (~$577/€518); they are available to pre-order now and will be released on November 11. Rokid hasn't announced when they will be released outside China."
         }
       ]
+    },
+    "gadgets/chatgpt-google-health-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Health is now widely available in the US on both iOS and Android, but Android users still lack a Google Health integration, while iPhone users can already connect it to Apple Health. That might change soon."
+        },
+        {
+          "t": "p",
+          "x": "While digging into the ChatGPT app on Android (v1.2026.300), Android Authority found code to add support for several Android Health Connect permissions. Most importantly, the app might support reading historical health data from Google Health, and the “READ_HEALTH_DATA_IN_BACKGROUND” permission suggests it may access health data without the user explicitly opening it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Other permissions include body weight, basal metabolic rate, body fat, lean muscle mass, bone mass, and reproductive health data such as menstruation, sexual activity, and ovulation. Two new activities for Health Connect rationale and permission-usage interfaces suggest work is well underway."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI wants users to rely on the AI to analyze their health information and offer insights and advice. These permissions aren’t yet live, and Google Health support isn’t live for Android users either."
+        }
+      ]
+    },
+    "gadgets/gemini-kids-daily-time-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Parents can already use Family Link to allow or block their children's access to Gemini, but the approach is all or nothing. Google appears to be working on a feature that would let parents set daily usage limits for Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Android Authority spotted new strings in the Google app's version 17.72.13.sa.arm64 build, written from the perspective of the child's device. One reads, “Your parent set a daily time limit for Gemini,” and another, “Your daily Gemini time limit changed.”"
+        },
+        {
+          "t": "p",
+          "x": "When a child uses up the allotted time, the app will tell them about the daily limit and when they can use Gemini again, likely with a Close app button on the lockout screen. A message reading “Your daily Gemini time limit was turned off” would appear when a parent removes the restriction."
+        },
+        {
+          "t": "p",
+          "x": "The strings don't say whether the timer covers only the Gemini app or the wider Gemini experience, such as the overlay and Google Messages, and the parents' side remains unclear. Still, it should give parents more granular control over their children's AI usage."
+        }
+      ]
+    },
+    "gadgets/chatgpt-classic-app-retired": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "A few months ago, OpenAI released a new ChatGPT desktop app that brought ChatGPT, Work, and Codex under a single interface, and the regular app was renamed ChatGPT Classic. The move proved controversial: the native macOS app was replaced with an Electron-based version, and the new interface was extremely confusing."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Classic remained largely untouched and became less reliable as new models were tied to features exclusive to the new app. Now a message shown to users says the app will officially be retired on January 30, 2027: “This app will retire on January 30, 2027. Get the latest features in the new ChatGPT app. Your full chat history comes with you, so you can pick up where you left off.”"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is also telling users it will begin testing a combined Chat and Work experience in the coming weeks with a small group, months after president Greg Brockman called the interface “kind of a mess.” Users will be able to bring in files and plugins and ask ChatGPT to build a website, create a presentation, or do things on the web. Codex will remain separate, but ChatGPT and Codex will get a shared usage allowance replacing their separate limits."
+        }
+      ]
+    },
+    "gadgets/parakeet-local-dictation-laptop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "In 2026, transcribing speech to text shouldn't need a subscription. So I installed Parakeet, a speech recognition model that can run on almost anything from a Raspberry Pi to a decade-old computer, testing both the Docker-based model and a Mac app with a GUI."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "MacParakeet running Parakeet locally"
+        },
+        {
+          "t": "p",
+          "x": "The version I tested was Parakeet TDT 0.6B v3, a 600 million parameter model developed by Nvidia that doesn't need a dedicated graphics card. The quantized model takes up around 700MB of space and consumes around 2GB of RAM. The Docker server is easy to deploy, but less convenient for everyday use."
+        },
+        {
+          "t": "p",
+          "x": "MacParakeet packages the same model in a Mac desktop app with onboarding and function-key dictation. I dictated the entirety of this write-up in MacParakeet, and Parakeet has been on point even with an accent, with minimal performance impact. It can also transcribe dropped-in audio files and YouTube or Instagram links, record meetings with speaker identification, and export Markdown."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+          "cap": "MacParakeet dictation"
+        },
+        {
+          "t": "p",
+          "x": "All of this runs on-device, so voice recordings and transcriptions remain fully private — making Parakeet perhaps the best on-device speech recognition model I've used."
+        }
+      ]
+    },
+    "gadgets/meta-max-humanoid-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
+          "cap": "Kevin Frayer/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "As part of its push into robotics, Meta has built a prototype humanoid robot that's meant to help out around people's homes, according to The Information. The report said that the robot, internally codenamed Max, was built with the help of a Chinese robotics company called Fourier in roughly three months."
+        },
+        {
+          "t": "p",
+          "x": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall, or approximately five feet tall. On the outside, the prototype reportedly has a display that can show facial expressions, a built-in speaker and hands designed to pick up small objects. Internally, Meta went with NVIDIA's Jetson Thor chips to power the robot, according to the report."
+        },
+        {
+          "t": "p",
+          "x": "The Information's report said there's no launch date set for a mass-market version of Max, but that Meta has already been working on a second prototype, codenamed Max 2, since September. The report added that the tech giant is including updates to the design of the robot's torso and hands, as well as adding a projector and additional sensors to help it handle stairs better."
+        },
+        {
+          "t": "p",
+          "x": "Meta's efforts to break into humanoid robots began as early as last year after Bloomberg reported that the company created a new team tasked with building robot hardware with the eventual goal of being able to do household chores. Following that report, Meta acquired a startup that's known for building artificial intelligence specifically for robots, earlier this year."
+        }
+      ]
     }
   }
 }

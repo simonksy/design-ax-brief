@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "books",
   "items": [
     {
-      "rank": 1,
-      "title": "Ask this book feature now on Kindle ereaders",
-      "url": "https://goodereader.com/blog/kindle/ask-this-book-feature-now-on-kindle-ereaders",
-      "source": "Good e-Reader",
-      "published_iso": "2026-10-30T17:47:36+00:00",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-      "excerpt": "Kindle Software Update 5.20.2 brings the AI-powered \"Ask This Book\" feature directly to Kindle e-readers.",
       "tool": "Books",
+      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A new release: Kindle firmware 5.20.2 puts the AI 'Ask This Book' Q&A on e-reader hardware, which changes the reading experience for a large installed base. The LibreOffice and Kindle Plus stories in the history are different products."
+      "title": "The AI Transparency Trap",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-11-02T10:30:57+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229.jpg",
+      "excerpt": "Scholarly Kitchen argues that neither the absence of AI nor disclosure of AI use guarantees trustworthy research, questioning publishers' reliance on AI-disclosure policies.",
+      "rationale": "Fresh (11-02) on-whitelist piece challenging the AI-disclosure policies publishers are now writing; directly shapes editorial policy."
     },
     {
-      "rank": 2,
-      "title": "In Letter to the Court, Textbook Authors Complain of Unfair Process, Splits in Anthropic Settlement",
-      "url": "https://publishingperspectives.com/2026/10/in-letter-to-the-court-textbook-authors-complain-of-unfair-process-splits-in-anthropic-settlement/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-10-30T09:10:13+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png",
-      "excerpt": "Amid a growing number of disputes, TAA Executive Director Kim Pawlak asked the court to \"consider and acknowledge the inherent burden on authors\" in the $1.5 billion settlement claims process compared to the better-resourced publishers.",
       "tool": "Books",
+      "category": "books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Follow-up on the Anthropic settlement with a new filing: the Textbook & Academic Authors Association sent the court a letter about the author/publisher claims process and payout splits. It bears directly on authors' payouts and is a separate action from the Stanford opt-out suit published 10-30."
+      "title": "AI에 출판계 '혼란'…저작권·이용료 논란에 표준계약서 손질",
+      "url": "https://www.ajunews.com/amp/20261102140302421",
+      "source": "아주경제",
+      "published_iso": "2026-11-02T15:48:34+09:00",
+      "og_image": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+      "excerpt": "생성형 AI 학습용 출판 데이터의 적정 이용료 논쟁이 본격화하면서 출판계가 AI 관련 조항을 담아 표준계약서 손질에 나섰다.",
+      "rationale": "Concrete action: Korean publishing is rewriting its standard author contract with AI clauses — changes what authors sign."
     },
     {
-      "rank": 3,
-      "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
-      "source": "Google Blog",
-      "published_iso": "2026-10-29T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png",
-      "excerpt": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
       "tool": "Books",
+      "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A primary-source product launch: licensed OpenStax and S Chand textbooks can now be loaded into Gemini Notebook to make study guides and quizzes. It is a new publisher-content deal for an AI product and is distinct from the Play Books Expert Intelligence story of 10-17."
+      "title": "Your writing was flagged as AI. What does that actually mean?",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "source": "NPR",
+      "published_iso": "2026-10-31T05:00:00-04:00",
+      "og_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+      "excerpt": "As editors turn to imperfect AI detectors such as Pangram to screen submissions, writers who say they were falsely accused are left wondering what triggered a positive result.",
+      "rationale": "Credible, practical explainer on how submission-screening detectors flag writers and what a positive result means; new angle (false positives) vs the earlier Pangram CEO story."
     },
     {
-      "rank": 4,
-      "title": "'Two-headed shrimp' error in AI-generated illustrations prompts recall of marine life books in China",
-      "url": "https://www.globaltimes.cn/page/202610/1373304.shtml",
-      "source": "Global Times",
-      "published_iso": "2026-10-30T14:25:00+08:00",
-      "og_image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/193b30d9-86d0-4cab-bd73-12813158f73b.jpeg",
-      "excerpt": "China Agricultural Publishing House is recalling a popular-science series on South China Sea marine life after readers spotted an AI-generated 'two-headed shrimp'; the books' preface said most illustrations were made with AI tools.",
       "tool": "Books",
+      "category": "books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A concrete new event: a state publisher recalled a printed nonfiction series because of an AI illustration error. It is a clear warning about AI art QA in publishing, and no earlier recall from this publisher has run."
+      "title": "Korean cartoonists take demands for AI consent, copyright safeguards to UNESCO",
+      "url": "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco",
+      "source": "The Korea Times",
+      "published_iso": "2026-10-30T05:35:03Z",
+      "og_image": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+      "excerpt": "Korean comic creators called at UNESCO for rules requiring artists' consent before their work is used to train AI models, plus copyright safeguards.",
+      "rationale": "New event: Korean comics creators bring an AI-training consent demand to an international body (UNESCO); comics/webtoon spread."
     },
     {
-      "rank": 5,
-      "title": "출협 \"말뭉치 사업 합의금액, AI 학습용 데이터 표준 대가 될 수 없다\"",
-      "url": "https://www.readersnews.com/news/articleView.html?idxno=200813",
-      "source": "독서신문",
-      "published_iso": "2026-10-30T14:19:27+09:00",
-      "og_image": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg",
-      "excerpt": "사단법인 대한출판문화협회(이하 출협)가 최근 대법원 상고심이 진행 중인 국립국어원 말뭉치 사건과 관련해 과거 분쟁 해결 차원의 합의 금액이 향후 AI 학습용 데이터",
       "tool": "Books",
+      "category": "books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A new official statement from the Korean Publishers Association: as the National Institute of Korean Language corpus case reaches the Supreme Court, it says the old settlement amount must not become the price benchmark for AI training data. This is a distinct case from the 10-17 KPC compensation demand and the book-buying stories."
+      "title": "Project Hail Mary Author Says He 'Might Be Among the Last Generation of Fully Human Writers'",
+      "url": "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers",
+      "source": "IGN",
+      "published_iso": "2026-11-02T20:45:09+00:00",
+      "og_image": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_92je.1200.jpg",
+      "excerpt": "Andy Weir says he may be among the last generation of fully human writers, comparing AI to tools like hammers, forklifts and race cars.",
+      "rationale": "Freshest item in the pool; a bestselling novelist's stance on AI as a writing tool — high reader interest, distinct from prior author-commentary cards."
     }
   ],
   "dedup": {
     "checks": {
-      "https://goodereader.com/blog/kindle/ask-this-book-feature-now-on-kindle-ereaders": {
+      "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
+        "nearest": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
         "new_action": ""
       },
-      "https://publishingperspectives.com/2026/10/in-letter-to-the-court-textbook-authors-complain-of-unfair-process-splits-in-anthropic-settlement/": {
-        "verdict": "follow-up",
-        "nearest": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-        "new_action": "The Textbook & Academic Authors Association filed a letter with the court objecting to the author-vs-publisher claims process and payout splits in the $1.5B Anthropic settlement (a new court filing)."
-      },
-      "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/": {
+      "https://www.ajunews.com/amp/20261102140302421": {
         "verdict": "new",
-        "nearest": "https://goodereader.com/blog/e-book-news/google-launched-expert-intelligence-on-google-play-books",
+        "nearest": "https://www.readersnews.com/news/articleView.html?idxno=200813",
         "new_action": ""
       },
-      "https://www.globaltimes.cn/page/202610/1373304.shtml": {
+      "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram": {
         "verdict": "new",
-        "nearest": "https://news.aibase.com/news/31561",
+        "nearest": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
         "new_action": ""
       },
-      "https://www.readersnews.com/news/articleView.html?idxno=200813": {
+      "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco": {
         "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261016078400005",
+        "nearest": "https://www.nocutnews.co.kr/news/6597373",
+        "new_action": ""
+      },
+      "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers": {
+        "verdict": "new",
+        "nearest": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups with no new action: Star-Advertiser/Yomiuri 'Publishers outraged at book sales to Anthropic' (likely-repeat of the Nippan story published 10-14; mounting criticism, no new decision); IT Chosun 'paper books bought for AI training' and Newsis 'AI crisis for publishing' (analysis on the already-covered book-buying and Anthropic piracy stories: Joongang 10-12/10-15/10-22, Sedaily 10-16/10-20, Bizhankook 10-27); PW 'AAP calls on Meta to drop terms' (reaction to the Meta commercial-terms story Jane Friedman ran 10-23); Korea Daily Authors Guild interview (passed over on 10-30; interview, no action); Novelnara (vendor PR, passed over on 10-30). AI-detection cluster (NPR, Jane Friedman, Etoday ④, and Etoday ③ on human-authored certification) are all analysis pieces on Pangram/detection and certification, already covered by Bookseller 10-08, Wired 10-08 and the UK IPO mark 10-09; none taken. Passed over on score: Verge AI-scraping opt-out standard (weak books angle, and it may run in politics/marketing, a cross-section risk); BBC Gruffalo illustrator 'considering' legal action (nothing filed yet; Scheffler's AI comment ran 09-14); Voice Over Herald unions' OpenAI brief (voice-actor angle; publishers' OpenAI amicus ran 10-30); Guardian scam fan mail, Tomorrow's Publisher x2, ICv2, LitHub x2, Scholarly Kitchen guest post, Munhwa, Nocut event notice (opinion or feature). Cross-section: by reading published_urls.json, confirmed the gadgets theverge/tomsguide block and the marketing blog.google entries contain none of the picks; the full file (3793 lines) was not exact-grepped, so the orchestrator should grep the 5 URLs plus 'Ask This Book', 'Gemini Notebook' and 'two-headed shrimp' before roll."
+    "note": "Dropped as duplicates/follow-ups without a new event: hani.co.kr 1284943 (Anthropic Korean-author piracy running story; 250-author count is extra reporting on sedaily 20102152 / bizhankook 10-27); times.kaist.ac.kr idxno=22981 (Kyobo bulk-purchase story, joongang 25469854 10-15); newsis NISX20261030_0003848984 (Anthropic-crisis analysis, same running story); janefriedman AI-detection-scandals (same AI-detection cluster as NPR pick; commentary, kept the NPR reporting); BBC Gruffalo/Scheffler (Scheffler's AI-illustrator stance ran 09-14 via thebookseller comment; 'considering' legal action is not a filing). Not picked on score/diversity: hankookilbo tax-credit demand (second Korean publishing-industry card same day as ajunews), lithub horror essay and The Stage audio-drama opinion (commentary; stage piece related to Fish Audio 10-20), Toonsutra (low-credibility outlet), OtakuKart Murata (low credibility), news1 forum notice and Ake Festival preview (event announcements). Cross-section: all picks except NPR/Korea Times post-date the 11-02 publish; those two were checked by URL against books history only — orchestrator should confirm no other-section clash in published_urls.json."
   }
 }

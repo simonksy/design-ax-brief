@@ -8688,6 +8688,127 @@
           "x": "Four publishing and copyright organisations have urged a US court to reject OpenAI’s fair-use defence in a major copyright infringement case, arguing that the company’s use of copyrighted works to train its AI models threatens authors’ livelihoods, undermines licensing markets and enables the creation of competing books."
         }
       ]
+    },
+    "books/ajunews-ai-standard-contract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+          "cap": "Reuters/Yonhap"
+        },
+        {
+          "t": "p",
+          "x": "As the generative AI industry grows rapidly, debate over fair fees for using publishing data is heating up. The Korean Publishers Association plans to distribute to publishers, within this month, a standard contract with supplemented clauses on the use of data for AI training. The change adds provisions on AI training data to the existing standard contract between authors and publishers, and a legal review is under way. The aim is to prevent disputes by clarifying the scope of use of works and the rights involved in AI training."
+        },
+        {
+          "t": "p",
+          "x": "The association said the settlement amount agreed with Woongjin Booxen in 2023 in connection with the National Institute of Korean Language's corpus project should not be treated as a general price benchmark for AI training data. The controversy stems from the unauthorized use of 1만5933 published works in that project; in the damages suit, the appeals court cut the award below the 1st-instance ruling, citing the settlement amount. The case is pending before the Supreme Court."
+        },
+        {
+          "t": "p",
+          "x": "In Korea, companies such as Naver and SK Telecom are signing contracts with individual publishers. Overseas, Anthropic reached a proposed settlement worth 15억 달러 (about 2조원) in a copyright class action, agreeing to pay at least $3000 per title for about 50만 books, and HarperCollins reportedly signed an AI training license with Microsoft in 2024 at $5000 per title."
+        },
+        {
+          "t": "p",
+          "x": "The association has found that an intermediate distributor obtained about 30만 Korean books and took them to the United States, and it is considering legal action over Anthropic's acquisition of Korean books."
+        }
+      ]
+    },
+    "books/npr-pangram-false-flags": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+          "cap": "Some writers worry that AI detection software could falsely flag their work. karetoria/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Ghostwriter Sally McGraw submitted a writing sample for a book proposal and was told multiple AI detection tools had flagged it as machine-generated. “I was floored because I had not used AI to generate the text,” she said. The client said the results were not the determining factor in hiring someone else."
+        },
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+          "cap": "Sally McGraw, a ghostwriter, said she's changed her writing style. Sally McGraw"
+        },
+        {
+          "t": "p",
+          "x": "As editors struggle with an influx of AI-generated content, some turn to detection tools, which have been known to falsely flag human-written work. Clarkesworld's Neil Clarke says monthly submissions doubled by February 2023 from roughly 1,100 in 2021. In a June study of four detectors on 160 papers, Pangram was the most consistently accurate; its CEO Max Spero said it can make mistakes, especially with little text."
+        },
+        {
+          "t": "p",
+          "x": "Penn's Chris Callison-Burch says detectors look at word choice, punctuation and sentence structure — “delve,” frequent em dashes, lists of threes. The Authors Guild said AI detectors create “an environment reminiscent of witch hunts.” “Submissions should end in rejection, not an accusation,” Clarke said. McGraw now avoids certain words: “I miss my em dash.”"
+        }
+      ]
+    },
+    "books/korea-cartoonists-unesco-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+          "cap": "Kwon Hyuk-joo's webtoon \"Xinker\" / Courtesy of Naver Webtoon"
+        },
+        {
+          "t": "p",
+          "x": "Korean comic creators called for strict rules requiring artists' consent before their work is used to train artificial intelligence (AI) models, delivering their demand during an international conference at UNESCO headquarters in Paris. The association's president, Kwon Hyuk-joo, a webtoon artist and professor at Kongju National University, spoke at the conference “Promoting Human Creativity and the Diversity of Cultural Expressions in the Digital Environment.”"
+        },
+        {
+          "t": "p",
+          "x": "Kwon cited a survey of 164 creators: about 90 percent said they did not know how to stop their work from being used for AI training, while 81.1 percent said they would take part in an opt-in system. He said publishing a webtoon, using it to train an AI model and using its characters in AI services such as chatbots are separate rights, and called for mandatory labeling of AI-generated content and transparency about training data."
+        },
+        {
+          "t": "p",
+          "x": "Jean-Michel Jarre, UNESCO Goodwill Ambassador, said humans must remain the ones who decide the purpose and direction of creative work. UNESCO said the discussions will feed into its digital policy work under the 2005 Convention on the Diversity of Cultural Expressions."
+        }
+      ]
+    },
+    "books/andy-weir-human-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a recent interview, Andy Weir, the author of The Martian and Project Hail Mary, shared his thoughts about the progress of AI, how it might affect careers like his in the future and why it could be compared to a homicide hammer."
+        },
+        {
+          "t": "p",
+          "x": "\"I think it's only a matter of time,\" he told SlashFilm. \"Honestly, I think I'm lucky that I ended up being a writer right when I did, because I might be among the last generation of fully human writers.\" Despite that, overall Weir seems to have a positive attitude towards the technology, seeing it as a tool. He points out that other advancements have already surpassed human abilities, like race cars for speed and forklifts for strength, and the smarts of AI falling into a similar category."
+        },
+        {
+          "t": "p",
+          "x": "\"It's a tool that we can use and we can unplug when we don't want to use it,\" he added. \"In the end, if I give you a hammer, you can build a house or you can murder someone. It's not the tool that's the issue; it's the user.\""
+        },
+        {
+          "t": "p",
+          "x": "Not surprisingly, AI is something Weir will explore in his next novel. In a 2024 interview with The Bridge, he teased the project. \"I'm working on my next book now. AI plays a significant role in it. But I'm doing it my way, not writing a story about robots falling in love or anything.\""
+        }
+      ]
+    },
+    "books/kindle-askthisbook-ereader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+          "cap": "Kindle e-reader"
+        },
+        {
+          "t": "p",
+          "x": "Amazon’s Kindle Software Update 5.20.2 brings the AI-powered “Ask This Book” feature directly to Kindle e-readers."
+        },
+        {
+          "t": "p",
+          "x": "This feature acts as an interactive, built-in reading companion. It allows you to query the text, generate summaries, or ask specific questions about characters and plot points without risking outside spoilers."
+        },
+        {
+          "t": "p",
+          "x": "Noted by users as one of the largest firmware installation files Amazon has released to date. It is around 643 MB in size."
+        },
+        {
+          "t": "p",
+          "x": "You can access it by opening the in-book menu or by highlighting a specific passage or word within the text. It will provide a list of suggested questions, or you can type your own custom question and ask follow-ups."
+        }
+      ]
     }
   }
 }
