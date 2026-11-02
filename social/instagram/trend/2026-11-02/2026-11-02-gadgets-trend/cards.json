@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "Gemini, 앱 밖으로 나오다",
+    "date": "2026.11.02",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Samsung 10.28→10.27, 9to5Google 10.30→10.29 PT, Android Authority 오버레이·오프라인 11.02→10.30). Home 업데이트의 Gemini 수정 6건, 오프라인 모드 문자열(Google app v17.71.17) 확인. 사진 중복 피하려 Home은 stat, 오프라인은 quote로.",
+    "sources": [
+      "Samsung Newsroom — [Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On (2026.10.27)",
+      "9to5Google — Google Home update should make Gemini stop saying 'Sorry, I didn't understand' so much (2026.10.29)",
+      "Android Authority — Google brings Gemini's new sparkling overlay to all Android phones (2026.10.30)",
+      "Android Authority — Google is working on an offline mode for Gemini Live (yes, really) (2026.10.30)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.27~10.30",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "이어폰",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.29",
+          "t": "스피커",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.30",
+          "t": "오버레이",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.30",
+          "t": "오프라인",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "Gemini가 휴대폰 앱을 벗어나 귀·집·화면 위, 끊긴 망에서까지 부르는 비서가 되려 한다",
+      "eyebrow": "흐름 · 기기",
+      "headline": "Gemini,\n앱 밖으로 나오다",
+      "body": "하나씩 보면 작은 업데이트다. 그런데 나흘 사이 이어폰, 스피커, 휴대폰 화면, 오프라인까지 Gemini가 닿는 곳이 넓어졌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.27",
+      "headline": "귀에 건 채\nGemini Live",
+      "body": "Samsung 첫 오픈형 이어폰. \"Hey Google, let's talk Live\" 하면 폰을 안 꺼내도 Gemini Live가 켜진다.",
+      "foot": "2026.10.27",
+      "_src": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
+      "_id": "gadgets-galaxy-buds-on",
+      "video": "pipeline/media/gadgets-galaxy-buds-on.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "집에선 아직\n말귀를 다듬는 중",
+      "body": "Home·Nest 스피커가 아무도 묻지 않았는데 '이해 못 했다'고 말하던 버그, 방 사이 음악 옮기기·타이머 오인식을 고쳤다.",
+      "foot": "2026.10.29",
+      "_src": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
+      "_id": "google-home-gemini-fix-oct",
+      "stat_top": "Gemini for Home 10월 두 번째 업데이트",
+      "stat_arrow": "Gemini 관련 수정",
+      "stat_bottom": "6건",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.30",
+      "headline": "모든 Android에\n반짝이는 Gemini",
+      "body": "Pixel 11에 먼저 나온 Neural Expressive 오버레이가 Google 앱 업데이트로 모든 Android 휴대폰에 풀린다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
+      "_id": "gemini-overlay-sparkle-android",
+      "media": "pipeline/media/gemini-overlay-sparkle-android.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.30",
+      "headline": "인터넷 없이도\nGemini Live",
+      "body": "Google 앱 v17.71.17을 뜯어보니 오프라인 모드 문자열이 나왔다. 기기 안 Gemini Nano를 쓸 거란 추정이다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/",
+      "_id": "gemini-live-offline-mode",
+      "quote": "Use Gemini Live\nwithout an internet\nconnection",
+      "quote_by": "Google 앱 v17.71.17 문자열 · Android Authority"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
