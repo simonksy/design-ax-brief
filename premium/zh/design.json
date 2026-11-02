@@ -10088,6 +10088,153 @@
           "x": "该智能体将这一模型与领先的第三方模型并用。典型任务提速约 20%；新智能体有 62% 的情况优于或持平此前的生产版智能体，用户评分高出 33%，用户撤销其操作的频率降低 60%。"
         }
       ]
+    },
+    "design/runway-dev-coding-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
+        },
+        {
+          "t": "p",
+          "x": "今天，我们推出面向Claude Code、Codex和Cursor的Runway Dev插件。只需安装一次，编程智能体就能通过Runway Dev MCP连接到你的Runway Dev账户，并获得使用API进行开发的Runway技能。描述你想要的功能，比如为店里每件商品生成一段产品视频，智能体就会在不离开编辑器的情况下端到端完成构建。"
+        },
+        {
+          "t": "p",
+          "x": "设置：智能体首先读取你的Runway Dev账户信息，包括可用项目、每个项目可用的模型及其价格和限额，以及积分余额。构建：智能体直接在编辑器中创建Model Router，为每个请求挑选合适的模型；或创建用于实时虚拟形象的Character。对于常见用例，它会基于Recipes或团队以API端点形式发布的Workflows进行构建。调试：任务失败时，智能体会查看错误详情，并了解Model Router为何选择了某个模型。"
+        },
+        {
+          "t": "p",
+          "x": "智能体首次使用时，用你的Runway Dev账户登录即可。插件中不存储任何API密钥。Runway Dev面向所有通过指挥编程智能体来交付产品的人，从独立开发者、技术型创始人到产品工程师和产品经理。"
+        }
+      ]
+    },
+    "design/character-creator-52-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2为Reallusion的角色制作软件加入了一套全新的AI模型生成工具，可以从参考图像生成角色、服装和头发。"
+        },
+        {
+          "t": "video",
+          "yt": "cm9GlStqHQk"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2推出两大工具集：AI 3D模型生成器和CC Wrap。模型生成器借助第三方生成式AI模型，从参考图像生成3D角色、服装、发型和配饰：低多边形拓扑使用Tripo P2.0，高多边形细节使用Tripo H3.1和Hunyuan V3.1。配套的概念设计模块利用生成式AI，生成专为3D网格生成而定制的单视角参考图像。"
+        },
+        {
+          "t": "p",
+          "x": "CC Wrap可将自定义3D角色——在其他DCC应用中手工雕刻、或通过AI生成的人形角色——转换为Reallusion的CC3+和CC5 HD格式，并在包裹完成后自动为角色绑定骨骼。其他功能包括：AI Mesh Generator可根据1-4张参考图像生成3D模型；AI Polygon Reduction借助Tripo AI将模型重新网格化为均匀的四边形网格；支持导入GLB格式的3D模型。"
+        },
+        {
+          "t": "p",
+          "x": "AI Mesh Generation工具集也可在其姊妹工具iClone 8.76中使用。"
+        }
+      ]
+    },
+    "design/cisco-pubhub-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
+        },
+        {
+          "t": "p",
+          "x": "长期以来，我们的UI/UX工作流遵循一个熟悉的模式：设计师在Figma中制作界面，开发者再把设计转成代码。在最近一次改版PubHub（DevNet的内部发布工具）时，我们需要快速推进，于是尝试让AI直接根据用户故事和后端APIs构建界面。AI生成（AI-generated）的版本可以端到端运行，但应用并没有遵循我们的视觉语言。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+          "cap": "落地页改版前后"
+        },
+        {
+          "t": "p",
+          "x": "通过Figma MCP连接把HTML页面转换到Figma时，我们遇到了三个问题：转换中丢失细节，更新耗时超出预期，真实来源变得模糊。于是我们改用AI编程工具检查现有原型，直接调整其HTML。HTML原型成为唯一的真实来源。"
+        },
+        {
+          "t": "p",
+          "x": "项目进行到一半，设计师的token用完了，先后从Cursor换到Claude，再换到Codex。工作之所以没有中断，是因为保存设计状态的是HTML产物，而不是某一个工具。设计师每天都能产出新的迭代；在过去以Figma为先的流程下，一个页面要花好几天。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+          "cap": "AI驱动的界面工作流"
+        },
+        {
+          "t": "p",
+          "x": "设计师将更新后的HTML产物连同其设计系统、用户画像流程和变更日志一起共享；开发者把这些交给编程智能体，由它将设计改动应用到实际项目中。"
+        }
+      ]
+    },
+    "design/christy-cad-claude-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+        },
+        {
+          "t": "p",
+          "x": "把同一个CAD程序从613 kHz的HP-85一路带到能听语音绘图的Mac M4，让我懂得了准确、速度，以及如何写出下一位读者拿来就能上手的代码。——John M. Christy，CADD/85、CADD 200/300和C3的作者。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+          "cap": "一台HP-85电脑。（图片：Wolfgang Stief/Wikimedia）"
+        },
+        {
+          "t": "p",
+          "x": "重写大约从2025年10月开始。一开始，我就把Pascal代码的片段交给Claude分析和注释，Apple版代码就是这样起步的。我不再是写代码的程序员，而是成了决定做什么的制作人和导演，以及决定能否发布的质量控制测试员。这个如今名为C3的程序，到2026年2月已功能完备。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+          "cap": "C3界面，显示John Hardy设计的电路原理图。（图片：John M. Christy）"
+        },
+        {
+          "t": "p",
+          "x": "有Claude做编程搭档，一个想法从实现到测试，有时只需几分钟而非几个月。每次提交新代码前，要运行近两千项测试。C3如今能听懂两百多条语音命令，并在9月成为一个助手：由语言模型通过程序自身的命令目录来驱动程序，每个请求对应一步撤销，并通过口述来操作。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+          "cap": "完全由C3助手绘制的螺栓圆法兰。（图片：John M. Christy）"
+        }
+      ]
+    },
+    "design/adobe-editagent-toolpicker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe研究人员打造了一款图像编辑AI代理，将通用编辑器与专用工具结合起来。Adobe Research和UC San Diego的研究人员希望EditAgent像Photoshop中的专业人士那样工作：为每项任务挑选合适的工具，并用确切的数字将结果与原图比较。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+          "cap": "EditAgent不再反复重试同一个编辑器，而是用不同方法并行生成候选结果，再让一个未经修改的语言模型一次性比较全部候选。 | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "在一项由五位专业人士盲评的600次图像编辑测试中，通用编辑器Flux-2-Klein-9B 有百分之42.7的情况未能产出可用结果。专用工具解决了其中约三分之二的失败。在专业人士选边的对比中，有百分之78.5更青睐从原图并行生成的变体。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+          "cap": "EditAgent将请求拆分为相互依赖的步骤，并为每一步生成多个候选。 | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "对每个变体，评判模型都会拿到一份验证记录，其中包括编辑区域特写、变化图以及实测的亮度与色彩统计。借助这份记录，受测的七个语言模型全都胜过所有微调模型：Qwen3.8-27B 有百分之81.3的情况做出可用选择，EditScore-72B 则为百分之74.8。"
+        },
+        {
+          "t": "p",
+          "x": "EditAgent还会检查后续编辑是否抵消了先前的编辑。它所需的算力约为单个编辑器的十倍，但其约26,000个经过验证的示例让微调后的编辑器在全部三项基准测试中都有提升。"
+        }
+      ]
     }
   }
 }

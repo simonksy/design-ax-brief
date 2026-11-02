@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "books",
   "media": [
     {
-      "id": "kindle-askthisbook-ereader",
+      "id": "scholarlykitchen-ai-transparency-trap",
       "type": "image",
-      "src": "pipeline/media/kindle-askthisbook-ereader.jpg"
+      "src": "pipeline/media/scholarlykitchen-ai-transparency-trap.jpg"
     },
     {
-      "id": "anthropic-taa-textbook-letter",
+      "id": "ajunews-ai-standard-contract",
       "type": "image",
-      "src": "pipeline/media/anthropic-taa-textbook-letter.png"
+      "src": "pipeline/media/ajunews-ai-standard-contract.jpg"
     },
     {
-      "id": "gemini-notebook-textbooks",
-      "type": "video",
-      "src": "pipeline/media/gemini-notebook-textbooks.mp4",
-      "poster": "pipeline/media/gemini-notebook-textbooks.jpg"
-    },
-    {
-      "id": "china-ai-shrimp-recall",
+      "id": "npr-pangram-false-flags",
       "type": "image",
-      "src": "pipeline/media/china-ai-shrimp-recall.jpg"
+      "src": "pipeline/media/npr-pangram-false-flags.jpg"
     },
     {
-      "id": "kpa-corpus-settlement",
-      "type": "svg"
+      "id": "korea-cartoonists-unesco-ai",
+      "type": "image",
+      "src": "pipeline/media/korea-cartoonists-unesco-ai.jpg"
+    },
+    {
+      "id": "andy-weir-human-writers",
+      "type": "image",
+      "src": "pipeline/media/andy-weir-human-writers.jpg"
     }
   ]
 }

@@ -4442,6 +4442,118 @@
           "x": "지미 패트로니스(Jimmy Patronis) 하원의원(R-Fla.)은 이 행정명령을 법으로 명문화하려 한다."
         }
       ]
+    },
+    "politics/bellingcat-ai-superpac-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "유타주 민주당 하원의원 후보 Ben McAdams의 온라인 광고는 그가 “MAGA에 맞서 싸웠다”고 내세웠다. 텍사스의 또 다른 광고는 공화당 후보 Chris Gober를 “MAGA 전사”라고 불렀다. 두 광고의 돈줄은 모두 Leading the Future(LTF)였다. LTF는 AI 혁신을 “제약”하는 규제에 반대하는 Super PAC 네트워크다. FEC 신고 자료를 보면 LTF는 OpenAI 사장 Greg Brockman과 아내 Anna Brockman, Andreessen Horowitz(a16z)와 a16z 창업자들에게서 US$125 million 규모의 돈을 받았다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+          "cap": "출처: Think Big / Google Ad Transparency Center"
+        },
+        {
+          "t": "p",
+          "x": "LTF와 정면으로 맞서는 곳은 Public First Action(PFA)이다. AI 안전 규제를 요구하는 PFA는 Anthropic에서 $40 million 규모의 자금을 받았다. PFA가 돈을 댄 Super PACs도 겨냥한 유권자에 따라 Trump를 지지하는 듯하거나 비판하는 듯한 광고를 내보냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+          "cap": "Leading the Future, Public First PAC, Public First Action의 지출 내역. 그래픽: Bellingcat"
+        },
+        {
+          "t": "p",
+          "x": "Bellingcat은 Google Ad Transparency Center에 올라온 온라인 동영상 광고 캠페인 300건 이상을 분석했다. 후보 40명을 지지하거나 반대하는 광고였다. AI를 언급한 광고는 후보 두 명을 지지·반대하는 것뿐이었고, 데이터센터를 언급한 광고는 한 건도 없었다. PFA 측 관계자는 뜻을 같이하는 PACs가 “유권자에게 가장 시급한 사안에 관한” 광고를 낸다고 했다. LTF와 산하 PACs는 기사가 나갈 때까지 답하지 않았다."
+        }
+      ]
+    },
+    "politics/germany-sovereign-ai-taskforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+          "cap": "독일 정부는 자국 AI 개발에 속도를 내려고 “전략적 앵커 고객” 역할을 맡을 계획이다. | Tobias Schwarz/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "정부 AI 태스크포스가 작성해 국가안전보장회의에 낼 보고서는 독일이 2030년까지 “주권 AI 국가”가 되어 U.S.(미국)와 중국의 선도 AI 거점을 따라잡아야 한다고 본다. 보고서는 “따라서 앞으로 12~18개월이 방향을 정하는 데 결정적일 것”이라고 적었다."
+        },
+        {
+          "t": "p",
+          "x": "독일은 세계 최고 수준 모델에 접근할 길을 확보하면서, 특히 프랑스·캐나다와 협력을 넓혀 유럽의 대안을 키우려 한다. “AI made in Germany”는 “고도로 특화된 모델”을 앞세운 산업용 AI로 두각을 나타내야 한다. 정부는 “전략적 앵커 고객”이 되어 공공 계약과 시범 사업으로 유럽 AI 기업의 시장 진입을 도울 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "청사진에는 18개 조치가 담겼지만 재원 조달 등 핵심 세부 사항은 빠졌다. 정부 목표는 2030년까지 대기업의 80% 이상과 SMEs의 55%가 AI를 쓰고, 연방 기관의 90%가 실제 운영하는 AI 애플리케이션을 하나 이상 갖추며, AI 데이터센터 용량을 2025년 대비 300% 늘리는 것이다."
+        }
+      ]
+    },
+    "politics/india-model-to-data-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "인도 정부는 해외 모델 개발사(model-makers)가 인도의 문제를 풀거나 데이터 소유자의 통제권을 지켜줄 이유가 없다고 보고, AI 모델을 현지 데이터로 학습시키려 한다. 전자정보기술부(MeitY)가 내놓은 안은 “Data Empowerment and Protection Architecture (DEPA) for AI Training”이다. 수석과학자문관 Ajay Kumar Sood는 DEPA를 “데이터가 모델로 가는 것이 아니라 모델이 데이터로 가는 것”이라고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "병원, 은행, 정부 기관 같은 “Training Data Providers”(학습 데이터 제공자)가 익명화·암호화한 데이터를 “Data Exchange Platform”에 올리면, “Training Data Consumers”(학습 데이터 이용자)는 그 안의 “hardware-based Secure Data Environments”에서 모델을 학습시킨다. 차등 프라이버시를 적용하고, 모든 활동은 감사용으로 고칠 수 없게 기록한다."
+        },
+        {
+          "t": "p",
+          "x": "MeitY는 DEPA로 흩어진 보건 데이터를 쓸 길이 열리고, 금융에서 소외된 개인과 MSMEs 400 million 곳에 정식 신용이 닿을 수 있다고 본다. DEPA가 실현되기까지 일이 얼마나 남았는지는 아직 불분명하다."
+        }
+      ]
+    },
+    "politics/wired-hidden-deepfake-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+          "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "WIRED가 조사해 보니 서로 연결된 도메인과 앱 400개 이상으로 이뤄진 네트워크가 드러났다. 겉으로는 반려동물 초상화, 어학 강습, AI 운동 코치 같은 평범한 서비스를 내세우는 경우가 많다. 하지만 특정 조건으로 접속하면 이용자가 올린 사진으로 노골적인 AI 성적 이미지와 동영상을 만드는 웹 인터페이스가 몰래 열린다."
+        },
+        {
+          "t": "p",
+          "x": "연구자들은 Facebook과 Instagram에 올라온 노골적 딥페이크 동영상 광고 수천 건의 링크를 따라가다 이 네트워크를 찾았다. 링크 끝에는 Apple과 Google 스토어의 앱이 있었다. AI Forensics의 Paul Bouchaud는 “조직적이고 상업적으로 운영되는 사업”이라고 말했다. 한때는 매주 약 30개의 앱·웹사이트(apps-websites)가 새로 등록됐다. 구월에는 Google Play에 27개가 올라 있었고 다운로드는 350,000회를 넘었다."
+        },
+        {
+          "t": "p",
+          "x": "앱 운영 주체는 중국 개발자들과 홍콩 법인 KeLing Technology Limited로 보이며, 이 법인은 답하지 않았다. Apple은 앱 19개를 내리고, 개발자들이 심사를 통과한 뒤 콘텐츠를 바꿔치기했다고 밝혔다. Google은 이미 앱 대부분을 내린 뒤였다. Meta는 광고 계정 11,600개를 조치하고 앱 209개의 광고를 막았다고 밝혔다."
+        }
+      ]
+    },
+    "politics/politics-cma-meta-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "경쟁시장청(Competition and Markets Authority, CMA)이 Meta가 자사 플랫폼·서비스 이용 기업에 적용하는 상업 약관의 경쟁법 위반 여부를 조사하기 시작했다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 이 약관을 11월 20일 개정할 계획이었으나 지금은 보류했다. 약관이 시행되면 Meta는 자사 서비스를 쓰는 기업과 퍼블리셔의 웹사이트에서 콘텐츠를 수집해 AI 기능을 비롯한 자사 제품과 서비스를 개발·제공하는 데 쓸 수 있게 된다. 해당 기업들은 콘텐츠를 쓰게 할지, 어떻게 쓰게 할지 고를 수 없다."
+        },
+        {
+          "t": "p",
+          "x": "CMA는 이 약관이 수천 개 UK 기업에 불공정한 거래 조건을 불법으로 강요하는 결과가 될 수 있다고 우려한다. News Media Association과 Movement for an Open Web 등 이해관계자들이 문제를 제기하자 CMA는 경쟁법(Competition Act 1998)상 권한을 꺼내 들었다. Meta가 시장 지배적 지위에 있는지, 그렇다면 약관이 그 지위를 남용하는지 평가한다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 이후 10월 28일 업계 단체와 협의를 마칠 때까지 상업 약관 시행을 멈추겠다고 발표했다. 조사는 아직 초기 단계라 Meta가 법을 어겼는지는 정해지지 않았다."
+        }
+      ]
     }
   }
 }

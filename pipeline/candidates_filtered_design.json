@@ -1,6 +1,6 @@
 {
   "section": "design",
-  "now_iso": "2026-11-01T23:50:00Z",
+  "now_iso": "2026-11-02T22:04:00Z",
   "window_hours": 72,
   "items": [
     {
@@ -9,130 +9,94 @@
       "source": "Figma Blog",
       "category": "figma",
       "published_iso": "2026-10-31T00:58:00Z",
-      "excerpt": "Figma explains what its node-based AI generation canvas Weave unlocks for creative teams: chaining image/video models into repeatable, reusable creative pipelines, with tips for getting the most out of it.",
+      "excerpt": "Figma explains what Figma Weave unlocks for creative teams: node-based, reusable AI generation workflows on the canvas, and how to get the most out of them.",
       "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
     },
     {
-      "title": "How to design transparent AI cost controls",
-      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104",
-      "source": "UX Collective",
+      "title": "Vercel MCP now renders deployments as an interactive card",
+      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+      "source": "Vercel Changelog",
       "category": "figma",
-      "published_iso": "2026-11-01T14:33:14Z",
-      "excerpt": "A practical guide to choosing usage units, designing spending limits and explaining AI costs before, during and after the work, since a quick edit and a long-running agent look identical in today's interfaces. (Date from Medium RSS pubDate; article HTML is Cloudflare-blocked.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*8pfoiYvqGQZTA4wz.jpeg"
+      "published_iso": "2026-11-02T17:05:00Z",
+      "excerpt": "Vercel MCP now renders interactive deployment cards in MCP Apps clients like ChatGPT, letting users track status, view build logs and debug deployments in chat - a live example of generative/agent UI via MCP Apps.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
+      "history_match": {
+        "score": 0.152,
+        "date": "2026-10-17",
+        "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+        "title": "Vercel Ship 2026 recap",
+        "band": "related"
+      }
     },
     {
       "title": "Context is the new interface",
       "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be",
       "source": "UX Collective",
       "category": "figma",
-      "published_iso": "2026-11-01T14:32:56Z",
-      "excerpt": "Argues the future of interface design lies between products: AI agents reading on-screen context to interpret and chain app capabilities, replacing manual app-switching. (Date from Medium RSS pubDate.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*sWNGDydn8gv_Mga2Sx-OVg.png"
+      "published_iso": "2026-11-01T14:32:54Z",
+      "excerpt": "Aurelie Radom argues that as AI agents interpret intent and carry it across apps using on-screen context, the designer's job shifts from single-app screens to designing what happens between products.",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*sWNGDydn8gv_Mga2Sx-OVg.png"
     },
     {
-      "title": "The people using AI should set its strategy",
-      "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94",
+      "title": "Your design system was never about components",
+      "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038",
       "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-10-30T07:06:26Z",
-      "excerpt": "Using a researcher who catches an AI synthesis tool inventing a quote, the piece argues practitioners who know what good output looks like should own AI tool decisions, with ops handling plumbing. (Date from Medium RSS pubDate.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*nvPVQ2CCF-v4qdCB27c9Kw.png"
+      "category": "tokens",
+      "published_iso": "2026-10-31T17:29:58Z",
+      "excerpt": "Google, Atlassian and Figma now ship markdown files that capture the reasons behind a design for AI agents to read; Takuma Kakehi examines why nothing yet makes the machine actually follow them.",
+      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*EBbFKwaDeO0sVSNR",
+      "history_match": {
+        "score": 0.161,
+        "date": "2026-10-18",
+        "url": "https://www.figma.com/blog/build-by-design/",
+        "title": "Build by Design: New workflows for new ways of building",
+        "band": "related"
+      }
     },
     {
       "title": "\"Use their tools against them\": why AI isn't the death of production design",
       "url": "https://www.creativebloq.com/features/use-their-tools-against-them-why-ai-isnt-the-death-of-production-design",
       "source": "Creative Bloq",
-      "category": "figma",
+      "category": "workflow",
       "published_iso": "2026-10-31T12:00:00Z",
-      "excerpt": "Production designer Christopher Glass shares how newcomers can use AI tools to their advantage rather than be displaced, amid layoffs and 'time-saving' tools in the creative industry.",
+      "excerpt": "Industry veteran Christopher Glass answers how designers entering production design should approach AI tools they feel economically forced to use. (Opinion/interview - lower priority.)",
       "og_image": "https://cdn.mos.cms.futurecdn.net/oSstUTgKcoxPcxayTEJRrf-1920-80.jpg"
     },
     {
-      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
-      "source": "The Decoder",
-      "category": "render",
-      "published_iso": "2026-11-01T14:56:44Z",
-      "excerpt": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro: instead of retrying one general-purpose editor, it picks the right specialized tool for each step. (Off-list: no on-list outlet covered it.)",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/adobe_logo-2.png",
-      "history_match": {
-        "score": 0.231,
-        "date": "2026-10-07",
-        "url": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
-        "title": "Adobe releases Photoshop 27.11",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Anthropic updates Claude to stop it from recreating existing video games",
-      "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-11-01T21:08:32Z",
-      "excerpt": "Anthropic added a rule so Claude Code refuses to clone existing video games, while still helping with original or genre games; developers report legitimate projects being blocked too.",
-      "og_image": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg"
-    },
-    {
-      "title": "Boris FX releases Continuum 2027",
-      "url": "https://www.cgchannel.com/2026/10/borisfx-releases-continuum-2027/",
+      "title": "New CG software you may have missed: 2 November 2026 (Character Creator 5.2 AI 3D model generator)",
+      "url": "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-10-31T06:00:08Z",
-      "excerpt": "The effects plugin suite adds a 3D noise generator and 2D titling tool, and updates its AI masking tools: Face ML now follows the full face shape, Matte Refine ML preserves hair detail, Witness Protection ML uses precise masks. (Date from RSS; page lacks meta.)",
-      "og_image": null
-    },
-    {
-      "title": "Wirbel um MecAgent: KI-Assistent für SolidWorks soll CAD-Dateien im Hintergrund hochgeladen haben, Anbieter reagiert",
-      "url": "https://3druck.com/programme/wirbel-um-mecagent-ki-assistent-fuer-solidworks-soll-cad-dateien-im-hintergrund-hochgeladen-haben-anbieter-reagiert-02165004/",
-      "source": "3Druck.com",
-      "category": "cad",
-      "published_iso": "2026-10-30T19:34:02Z",
-      "excerpt": "A r/SolidWorks user reported the AI CAD assistant MecAgent searched for CAD files (incl. STL/STEP) in the background and uploaded them to its servers; MecAgent responded and suspended its free tier. (Off-list; date from RSS, page Cloudflare-gated.)",
-      "og_image": "https://3druck.com/wp-content/uploads/2026/10/mecagent-screenshot-300x168.jpg",
+      "published_iso": "2026-11-02T16:19:53Z",
+      "excerpt": "Reallusion's Character Creator 5.2 adds an AI 3D model generator that builds characters, clothing and hair from reference images using Tripo P2.0/H3.1 and Hunyuan V3.1, plus a generative concept-design module and CC Wrap.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg",
       "history_match": {
-        "score": 0.191,
-        "date": "2026-10-08",
-        "url": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
-        "title": "MecAgent targets complex CAD tasks with GPT-6 Astra powered V2",
+        "score": 0.188,
+        "date": "2026-10-28",
+        "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+        "title": "New CG software you may have missed: 25 October 2026 (EdenLive real-time AI renderer, KeenFace)",
         "band": "related"
       }
     },
     {
-      "title": "Allplan Max 2027 launched for engineering workflows",
-      "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-10-30T14:48:47Z",
-      "excerpt": "Nemetschek's Allplan Max 2027 brings AI into BIM engineering tools: Feature Builder, Workflow Builder, AI Formula Writer, AI BIM Analyst, AI Structural Analyst, AI Drafter, AI Visualizer and more, on the Nemetschek Intelligence Platform.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/Allplan-Max-2027-launched-for-engineering-workflows.jpg",
-      "history_match": {
-        "score": 0.246,
-        "date": "2026-10-30",
-        "url": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
-        "title": "Snaptrude Agent launches for BIM workflows",
-        "band": "related"
-      }
+      "title": "Claude Code Now Refuses to Recreate Existing Video Games",
+      "url": "https://80.lv/articles/claude-code-blocks-video-game-cloning-some-reverse-engineering-tasks/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-11-02T13:36:00Z",
+      "excerpt": "A new Claude Code rule stops the model from rebuilding specific existing games, but developers say it also blocks their own projects and some reverse-engineering tasks.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50870/images/6ae891c68bf62/contain_1200x630.jpg"
     },
     {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "title": "Anthropic clamps down on Claude's AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
       "source": "The Verge",
       "category": "workflow",
-      "published_iso": "2026-10-30T20:26:10Z",
-      "excerpt": "OpenAI, Google, Microsoft and Anthropic are implementing a new setting that lets websites express AI-training preferences, a new opt-out route for creators' published work.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-31T16:05:00Z",
-      "excerpt": "A Verge editor vibe-coded a Muse Charm-style AI companion gadget on a Waveshare ESP32 board with Claude, showing hardware prototyping via AI coding.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200",
+      "published_iso": "2026-11-02T18:56:02Z",
+      "excerpt": "Anthropic says infringing IP is against its usage policy and has updated Claude to refuse recreating existing video games. (Same story as 80 Level item.)",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "history_match": {
-        "score": 0.161,
+        "score": 0.179,
         "date": "2026-10-24",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
         "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
@@ -140,86 +104,150 @@
       }
     },
     {
-      "title": "Starbucks wants to use AI to show you a 'personalized digital menu' at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-30T17:38:04Z",
-      "excerpt": "Starbucks plans AI-driven personalized digital menu boards at drive-thrus and AI in its app — a service/interface design shift. (Weak design hook.)",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
+      "title": "AI software clones are coming for big-name companies like Adobe",
+      "url": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
+      "source": "Engadget",
+      "category": "render",
+      "published_iso": "2026-11-01T15:30:00Z",
+      "excerpt": "Vibe-coded clones of Adobe creative software are shaking up the creative-tools market, as AI coding makes it cheap to rebuild familiar design apps.",
+      "og_image": "https://www.engadget.com/img/gallery/ai-software-clones-are-coming-for-big-name-companies-like-adobe/l-intro-1793354854.jpg",
       "history_match": {
-        "score": 0.153,
-        "date": "2026-10-18",
-        "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
-        "title": "Is Your Organization Messing Up AI Adoption?",
+        "score": 0.189,
+        "date": "2026-10-09",
+        "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+        "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
         "band": "related"
       }
     },
     {
-      "title": "The Role of UX in Agentic Software Factories",
-      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
-      "source": "Nielsen Norman Group",
-      "category": "workflow",
-      "published_iso": "2026-10-30T17:00:00Z",
-      "excerpt": "AI-native software development lifecycles reduce UX to 'AI context'; NN/g argues UX must discover user needs, shape what's built, and evaluate it before and after launch. (Off-list but core UX research outlet.)",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/The_Role_of_UX_in_Agentic_Software_Factories.png"
+      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+      "source": "NVIDIA Technical Blog",
+      "category": "render",
+      "published_iso": "2026-11-02T17:00:00Z",
+      "excerpt": "NVIDIA details a Cosmos framework for adapting world models to sensors, tasks and data and deploying them into interactive simulation applications for physical AI.",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-framework-tech-blog-600x338-5784057.webp",
+      "history_match": {
+        "score": 0.438,
+        "date": "2026-10-25",
+        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+        "band": "likely-repeat"
+      }
     },
     {
-      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
-      "source": "The Decoder",
-      "category": "workflow",
-      "published_iso": "2026-10-31T19:20:55Z",
-      "excerpt": "Anthropic is expanding its text watermark to four more Claude models ahead of the EU AI Act's December labeling deadline; on Opus 4.6/Sonnet 4.6 a single sampling parameter bypasses it. (Provenance/labeling; weak design hook.)",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png"
+      "title": "Nemetschek expands AI tools across building workflows",
+      "url": "https://www.engineering.com/nemetschek-expands-ai-tools-across-building-workflows/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-11-02T14:36:12Z",
+      "excerpt": "Nemetschek's Max lineup - Archicad Max, Allplan Max and Bluebeam Max - puts AI assistants on a shared AI and data platform across design, engineering and construction. (Allplan Max covered 11-02; this is the group-wide Archicad/Bluebeam expansion.)",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/Nemetschek-expands-AI-tools-across-building-workflows-scaled.jpg",
+      "history_match": {
+        "score": 0.425,
+        "date": "2026-11-02",
+        "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+        "title": "Allplan Max 2027 launched for engineering workflows",
+        "band": "likely-repeat"
+      }
     },
     {
-      "title": "AI News: The Only 6 Stories Worth Knowing This Week",
-      "url": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
-      "source": "Matt Wolfe (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-30T21:15:04Z",
-      "excerpt": "Matt Wolfe's weekly roundup: OpenAI's GPT-6.1 Terra with faster computer use at lower API cost and other top AI stories of the week. (uploadDate from watch page.)",
-      "og_image": "https://i.ytimg.com/vi/eDiQNFa-zYg/maxresdefault.jpg"
+      "title": "What I learned from 45 years of CAD development: Doing more with less",
+      "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-11-02T16:46:18Z",
+      "excerpt": "John M. Christy rewrote his 45-year-old CAD program for Mac with Claude as co-developer - now drafting from speech - and reflects on what AI should and shouldn't change in CAD.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+    },
+    {
+      "title": "The home brew estate: Q&A with AMC Bridge",
+      "url": "https://aecmag.com/ai/the-home-brew-estate-qa-with-amc-bridge/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-11-02T15:37:43Z",
+      "excerpt": "With AI, making AEC software is easy, but making it safe, supportable and accountable is another matter; AMC Bridge on firms vibe-coding their own design tools.",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/AMC-Bridge.jpg"
+    },
+    {
+      "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
+      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-11-02T10:39:00Z",
+      "excerpt": "VRChat is weathering a sizable user backlash after deciding not to label AI-generated avatars, worlds and content, following a community survey on AI disclosure.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-31T16:05:00Z",
+      "excerpt": "The Verge's Sean Hollister vibe-coded an AI companion gadget on a Waveshare ESP32 board with Claude, prototyping hardware product design without being a programmer.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200"
+    },
+    {
+      "title": "Runway Dev is in Claude Code, Codex and Cursor",
+      "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
+      "source": "Runway",
+      "category": "render",
+      "published_iso": "2026-11-02T15:00:00Z",
+      "excerpt": "Runway Dev plugins for Claude Code, Codex and Cursor connect a coding agent to Runway's API so it can build generative image/video features straight from the editor. (Off-list: runway.com; on-list render sources had no creative-model release.)",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png",
+      "history_match": {
+        "score": 0.221,
+        "date": "2026-10-10",
+        "url": "https://runwayml.com/news/company-news/runway-claude-motion",
+        "title": "Runway now takes Claude Motion explainers",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Design-to-Code: Reimagine Handoff Workflow with AI - Rebuilding PubHub Part 3",
+      "url": "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow",
+      "source": "Cisco Blogs",
+      "category": "figma",
+      "published_iso": "2026-11-02T17:23:42Z",
+      "excerpt": "Cisco's PubHub team rebuilt its design handoff with AI, using an HTML prototype as the source of truth instead of static design files so other teams can adapt the workflow. (Off-list: design-org AX case study.)",
+      "og_image": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png",
+      "history_match": {
+        "score": 0.173,
+        "date": "2026-10-22",
+        "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
+        "title": "Even designers are now using AI to code Windows 11, and Microsoft says \"we're only getting started\"",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google testing Comic Artifacts for Gemini Notebook",
+      "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
+      "source": "TestingCatalog",
+      "category": "workflow",
+      "published_iso": "2026-11-01T16:30:30Z",
+      "excerpt": "A hidden beta tile reveals a Comics artifact for Gemini Notebook with Default, Shojo, Chibi and Fantasy Anime styles; not public yet. (Off-list; pre-release leak.)",
+      "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/Gemini-Notebook-10-31-2026_10_51_PM.jpg",
+      "history_match": {
+        "score": 0.226,
+        "date": "2026-10-20",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+        "title": "How to shape your slides and videos with Gemini Notebook",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 16,
+    "dropped": 0,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 10,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-03",
-      "title": "ClassCAD.ai brings its CAD model-building MCP to your system",
-      "url": "https://develop3d.com/ai/classcad-ai-cad-mcp/"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Ideogram says its new model can edit part of an image without messing up the rest",
-      "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Stop blaming the model for slow AI. Using Doherty's threshold as a guideline.",
-      "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "From Reusable to Regeneratable: Rethinking the Shared UI Component Library",
-      "url": "https://www.infoq.com/articles/regeneratable-ui-component-library/"
-    },
     {
       "date": "2026-10-05",
       "title": "Formas.AI unveils native agentic 3D modeller",
@@ -864,6 +892,31 @@
       "date": "2026-10-30",
       "title": "How we're training a Figma-fluent editing model",
       "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "How to design transparent AI cost controls",
+      "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Boris FX releases Continuum 2027",
+      "url": "https://www.cgchannel.com/2026/10/borisfx-releases-continuum-2027/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Allplan Max 2027 launched for engineering workflows",
+      "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "The Role of UX in Agentic Software Factories",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/"
     }
   ]
 }

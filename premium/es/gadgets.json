@@ -10418,6 +10418,141 @@
           "x": "La batería de 263mAh es mayor que la de 210mAh de la generación anterior. El modelo Black cuesta CNY 3699 (~$555/€498) y el Tortoiseshell CNY 3849 (~$577/€518); ya se pueden reservar y saldrán a la venta el 11 de noviembre. Rokid no ha anunciado cuándo se lanzarán fuera de China."
         }
       ]
+    },
+    "gadgets/chatgpt-google-health-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Health ya está ampliamente disponible en Estados Unidos (US) tanto en iOS como en Android, pero los usuarios de Android aún no cuentan con integración con Google Health, mientras que los de iPhone ya pueden conectarlo a Apple Health. Eso podría cambiar pronto."
+        },
+        {
+          "t": "p",
+          "x": "Al analizar a fondo la app de ChatGPT para Android (v1.2026.300), Android Authority encontró código para añadir compatibilidad con varios permisos de Android Health Connect. Lo más importante es que la app podría admitir la lectura de datos de salud históricos desde Google Health, y el permiso “READ_HEALTH_DATA_IN_BACKGROUND” sugiere que podría acceder a datos de salud sin que el usuario la abra de forma explícita."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Otros permisos incluyen peso corporal, tasa metabólica basal, grasa corporal, masa muscular magra, masa ósea y datos de salud reproductiva como menstruación, actividad sexual y ovulación. Dos nuevas actividades para las interfaces de justificación de Health Connect y de uso de permisos sugieren que el trabajo está muy avanzado."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI quiere que los usuarios confíen en la AI para analizar su información de salud y ofrecer ideas y consejos. Estos permisos aún no están activos, y la compatibilidad con Google Health tampoco está disponible todavía para los usuarios de Android."
+        }
+      ]
+    },
+    "gadgets/gemini-kids-daily-time-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los padres ya pueden usar Family Link para permitir o bloquear el acceso de sus hijos a Gemini, pero es una opción de todo o nada. Google parece estar trabajando en una función que permitiría a los padres fijar límites diarios de uso para Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Android Authority detectó nuevas cadenas en la versión 17.72.13.sa.arm64 de la app de Google, redactadas desde la perspectiva del dispositivo del niño. Una dice “Your parent set a daily time limit for Gemini,” y otra, “Your daily Gemini time limit changed.”"
+        },
+        {
+          "t": "p",
+          "x": "Cuando un niño agote el tiempo asignado, la app le informará del límite diario y de cuándo podrá volver a usar Gemini, probablemente con un botón Close app en la pantalla de bloqueo. Un mensaje que dice “Your daily Gemini time limit was turned off” aparecería cuando un padre elimine la restricción."
+        },
+        {
+          "t": "p",
+          "x": "Las cadenas no indican si el temporizador abarca solo la app de Gemini o la experiencia de Gemini en general, como la superposición y Google Messages, y la parte de los padres sigue sin estar clara. Aun así, debería dar a los padres un control más detallado sobre el uso de la AI por parte de sus hijos."
+        }
+      ]
+    },
+    "gadgets/chatgpt-classic-app-retired": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Hace unos meses, OpenAI lanzó una nueva app de escritorio de ChatGPT que reunía ChatGPT, Work y Codex en una sola interfaz, y la app habitual pasó a llamarse ChatGPT Classic. La decisión resultó polémica: la app nativa de macOS fue sustituida por una versión Electron-based, y la nueva interfaz resultaba sumamente confusa."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Classic se mantuvo prácticamente sin cambios y se volvió menos fiable a medida que los nuevos modelos quedaban ligados a funciones exclusivas de la nueva app. Ahora, un mensaje mostrado a los usuarios indica que la app se retirará oficialmente el 30 de enero de 2027: “Esta app se retirará el 30 de enero de 2027. Obtén las funciones más recientes en la nueva app de ChatGPT. Todo tu historial de chats te acompaña, así que puedes continuar donde lo dejaste.”"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI también informa a los usuarios de que en las próximas semanas empezará a probar con un grupo reducido una experiencia que combina Chat y Work, meses después de que su presidente, Greg Brockman, calificara la interfaz de “un poco caótica”. Los usuarios podrán incorporar archivos y plugins y pedir a ChatGPT que cree un sitio web, prepare una presentación o haga cosas en la web. Codex seguirá separado, pero ChatGPT y Codex tendrán una cuota de uso compartida que sustituirá sus límites independientes."
+        }
+      ]
+    },
+    "gadgets/parakeet-local-dictation-laptop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "En 2026, transcribir voz a texto no debería requerir una suscripción. Así que instalé Parakeet, un modelo de reconocimiento de voz que puede funcionar en casi cualquier cosa, desde una Raspberry Pi hasta un equipo de hace una década, y probé tanto el modelo Docker-based como una app para Mac con GUI."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "MacParakeet ejecutando Parakeet en local"
+        },
+        {
+          "t": "p",
+          "x": "La versión que probé fue Parakeet TDT 0.6B v3, un modelo de 600 millones de parámetros desarrollado por Nvidia que no necesita una tarjeta gráfica dedicada. El modelo cuantizado ocupa unos 700MB de espacio y consume unos 2GB de RAM. El servidor de Docker es fácil de desplegar, pero menos práctico para el uso diario."
+        },
+        {
+          "t": "p",
+          "x": "MacParakeet empaqueta el mismo modelo en una app de escritorio para Mac con un proceso de bienvenida y dictado mediante teclas de función. Dicté todo este texto en MacParakeet, y Parakeet ha sido preciso incluso con acento, con un impacto mínimo en el rendimiento. También puede transcribir archivos de audio arrastrados y enlaces de YouTube o Instagram, grabar reuniones con identificación de hablantes y exportar en Markdown."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+          "cap": "Dictado en MacParakeet"
+        },
+        {
+          "t": "p",
+          "x": "Todo esto se ejecuta en el dispositivo, así que las grabaciones de voz y las transcripciones son totalmente privadas, lo que convierte a Parakeet quizá en el mejor modelo de reconocimiento de voz en el dispositivo que he usado."
+        }
+      ]
+    },
+    "gadgets/meta-max-humanoid-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
+          "cap": "Kevin Frayer/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Como parte de su impulso en la robótica, Meta ha construido un prototipo de robot humanoide pensado para ayudar en los hogares, según The Information. El informe señala que el robot, con el nombre en clave interno Max, se construyó con la ayuda de una empresa china de robótica llamada Fourier en unos tres meses."
+        },
+        {
+          "t": "p",
+          "x": "Según las fuentes de The Information, el robot pesa unas 106 lbs y mide alrededor de 1.5 metros, es decir, aproximadamente cinco pies. Por fuera, el prototipo tendría una pantalla capaz de mostrar expresiones faciales, un altavoz integrado y manos diseñadas para recoger objetos pequeños. Por dentro, Meta optó por los chips Jetson Thor de NVIDIA para hacer funcionar el robot, según el informe."
+        },
+        {
+          "t": "p",
+          "x": "El informe de The Information indica que no hay fecha de lanzamiento para una versión de Max destinada al gran público, pero que Meta trabaja desde septiembre en un segundo prototipo, con el nombre en clave Max 2. Añade que la gran tecnológica está actualizando el diseño del torso y las manos del robot, además de incorporar un proyector y sensores adicionales para que se desenvuelva mejor en las escaleras."
+        },
+        {
+          "t": "p",
+          "x": "Los esfuerzos de Meta por entrar en los robots humanoides comenzaron ya el año pasado, después de que Bloomberg informara de que la compañía había creado un nuevo equipo encargado de desarrollar hardware robótico con el objetivo final de realizar tareas domésticas. Tras ese informe, Meta adquirió a principios de este año una startup conocida por desarrollar inteligencia artificial específica para robots."
+        }
+      ]
     }
   }
 }

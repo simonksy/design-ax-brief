@@ -2884,6 +2884,142 @@
           "x": "被放弃的医疗究竟是不必要的还是必需的，目前仍不清楚；作者呼吁追踪效果的持续性、医疗的适当性、患者结局、临床医生负担以及Medicare支出。"
         }
       ]
+    },
+    "medicine/aha-wearable-bp-crisis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+          "cap": "可穿戴设备 - 查看进展"
+        },
+        {
+          "t": "p",
+          "x": "根据将在American Heart Association（美国心脏协会）Scientific Sessions 2026上公布的初步研究，利用AI分析便携式袖带血压计和腕戴式健身追踪器的数据模式，或可在高血压危象（>180/120 mm Hg并伴急性靶器官损害）发生前最多三天，识别出2期高血压成年人风险升高的时段。"
+        },
+        {
+          "t": "p",
+          "x": "该研究纳入巴基斯坦信德省（Sindh, Pakistan）一家医院的4,190名40至85岁成年人，随访时间为2025年一月至2026年一月。12个月间，312名参与者共发生418次高血压危象。收到阳性警报的参与者中约32%发生危象，而未收到警报者中有97.4%未发生危象。"
+        },
+        {
+          "t": "p",
+          "x": "睡眠期间血压未下降者，即将发生危象的几率接近五倍；醒后血压升高超过35 mm Hg者，几率接近四倍。医生收到警报并在24小时内调整用药后，危象减少约61%，急诊就诊减少约45%。"
+        },
+        {
+          "t": "p",
+          "x": "第一作者Waleed Razzaq Chaudhry, M.D.表示：“如果我们能在高血压危象发生前几天识别出风险升高，就有机会更早提供治疗。”该摘要未经同行评审，结果为初步结论。"
+        }
+      ]
+    },
+    "medicine/who-europe-ai-framework": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+        },
+        {
+          "t": "p",
+          "x": "WHO欧洲区域53个成员国一致通过了该区域首份《卫生领域人工智能行动路线图》（Roadmap for action on artificial intelligence in health）。该路线图在WHO欧洲区域委员会第76届会议期间获批，为在欧洲和中亚各地将AI融入卫生系统提出了共同愿景。"
+        },
+        {
+          "t": "p",
+          "x": "WHO/Europe负责人（Officer-in-Charge）Dr Corinne Capuano表示：“AI已经在改变我们整个区域的医疗卫生……我们如何确保AI安全、有效且公平？如何保护人们的权利并赢得他们的信任？这些挑战没有哪个国家能够独自解决。”"
+        },
+        {
+          "t": "p",
+          "x": "该路线图覆盖2026–2033年，设有4个优先领域：治理与领导力；伦理、监管和法律框架；数据与数字基础设施；以及能力建设、实施支持与学习。路线图参考了该区域53个成员国中50个对首次全区域AI准备度评估的答复，该评估于2025年发布。"
+        },
+        {
+          "t": "p",
+          "x": "路线图与EU Artificial Intelligence Act、European Health Data Space和General Data Protection Regulation等相衔接，并附有实施指南。成员国还支持设立一个新的WHO AI办公室。"
+        }
+      ]
+    },
+    "medicine/llm-drug-brand-convergence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究人员评估了五款LLMs——GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4和MedGemma——给出的产品名称推荐，使用了涵盖123组疾病–药物配对和1,440种社会人口学特征的177,120个合成临床病例。每个病例都要求模型推荐含有指定活性成分的FDA-approved（FDA批准）产品。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+          "cap": "Fig. 1: 研究设计与分析流程。"
+        },
+        {
+          "t": "p",
+          "x": "最常被推荐的产品平均占首选推荐的97.5%，各模型之间几乎完全一致（Fleiss’ κ = 0.895）。这些推荐与真实世界的处方情况不符：在51种活性成分中，有38种（74.5%）成本更高，估计每年增加US$55.6 million。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+          "cap": "Fig. 2: LLM产品推荐在不同病例和模型间的一致性。"
+        },
+        {
+          "t": "p",
+          "x": "模型偏好原研产品（OR 20.5）以及网络曝光度更高的产品（Google搜索量，OR 1.70；拥有专门的Wikipedia页面，OR 3.00）。要求推荐仿制药或最低价产品的提示词会使推荐转向仿制药。"
+        }
+      ]
+    },
+    "medicine/severance-cxr-lvef-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537580"
+        },
+        {
+          "t": "p",
+          "x": "延世大学龙仁世福兰斯医院心内科教授Jung In-hyun、Bae Sung-ah与延世大学医学院生物医学系统信息学教研室教授Yoon Deok-yong的研究团队29日表示，他们开发出可通过胸部X光（X-ray）影像预测心功能下降可能性的人工智能（AI）模型，并于近期发表了验证其性能的研究成果。"
+        },
+        {
+          "t": "p",
+          "x": "左心室射血分数（LVEF）通常通过心脏超声检查测量，但由于需要检查设备和熟练的专业人员，规模较小的医疗机构难以开展。研究团队开发并比较了两种模型：直接深度学习（DDL），以及利用影像判读AI Lunit INSIGHT CXR分析结果的混合深度学习（HDL）。"
+        },
+        {
+          "t": "p",
+          "x": "模型开发使用了龙仁世福兰斯医院1万152名患者的数据，前瞻性验证纳入了因呼吸困难前往急诊或门诊就诊的505名患者，外部验证使用了首尔大学医院3657名患者的数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537581"
+        },
+        {
+          "t": "p",
+          "x": "HDL模型的AUROC为0.85，高于DDL模型的0.61。在前瞻性验证中，HDL模型为0.85，DDL模型为0.57；HDL模型的外部验证AUROC为0.73。HDL模型的特异度为90~97%，阴性预测值为91~98%。"
+        },
+        {
+          "t": "p",
+          "x": "Jung In-hyun、Bae Sung-ah教授表示：“希望经过进一步临床验证后，它能在急诊室或心脏超声检查可及性较低的医疗机构中，作为筛查疑似心功能下降患者的辅助工具。”研究结果发表于国际学术期刊《科学报告》（Scientific Reports）。"
+        }
+      ]
+    },
+    "medicine/galaxywatch-apnea-mfds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537386",
+          "cap": "Samsung Electronics升级了基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，帮助用户更系统地管理睡眠健康。图片=Samsung Electronics"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics于28日表示，已升级基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，并获得食品药品安全处(MFDS)批准。此次获批的新功能基于AI算法，精确分析睡眠中每小时的呼吸障碍次数。原有功能只能检测是否存在睡眠呼吸暂停征兆，而升级后的功能可将用户的呼吸障碍程度细分为轻微、偶尔、频繁3个等级进行分析。"
+        },
+        {
+          "t": "p",
+          "x": "睡眠呼吸暂停症是睡眠中呼吸反复停止或减弱的疾病，可引发高血压、心律失常、中风等多种并发症。据美国国家睡眠基金会数据，美国约25%的男性和10%的女性患有睡眠呼吸暂停症，但相当一部分人并未察觉。"
+        },
+        {
+          "t": "p",
+          "x": "用户可通过Samsung Health Monitor应用使用该功能，在10日内两次测量至少5小时的睡眠，即可发现睡眠呼吸暂停征兆。该功能面向无睡眠呼吸暂停诊断史的18周岁以上人群，不能替代专业医疗诊断和咨询。"
+        },
+        {
+          "t": "p",
+          "x": "新功能将于11月起在韩国率先登陆Galaxy Watch Ultra2、Watch9和Galaxy Ring，随后逐步扩展至搭载Wear OS 7.0及以上版本的Galaxy Watch7、Watch8等现有机型。Samsung Electronics MX事业部健康开发组常务崔钟敏表示：“睡眠呼吸暂停是日常生活中难以察觉的征兆。”"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics的睡眠呼吸暂停功能已于2023年9月获得食药处软件医疗器械(SaMD)许可，2024年2月获得美国FDA“De Novo”批准，2025年获得巴西ANVISA批准，目前在全球84个国家提供。"
+        }
+      ]
     }
   }
 }

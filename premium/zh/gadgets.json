@@ -9630,6 +9630,141 @@
           "x": "263mAh 电池比上一代的210mAh 更大。Black 款售价CNY 3699（~$555/€498），Tortoiseshell 款售价CNY 3849（~$577/€518）；现已开放预订，将于11月11日发售。Rokid尚未公布在中国以外地区的发售时间。"
         }
       ]
+    },
+    "gadgets/chatgpt-google-health-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Health现已在US的iOS和Android平台广泛上线，但iPhone用户已经可以将其连接到Apple Health，Android用户却仍无法使用Google Health集成。这一情况可能很快就会改变。"
+        },
+        {
+          "t": "p",
+          "x": "Android Authority在深入分析Android版ChatGPT应用（v1.2026.300）时，发现了为多项Android Health Connect权限添加支持的代码。最重要的是，该应用可能支持从Google Health读取历史健康数据，而“READ_HEALTH_DATA_IN_BACKGROUND”权限则表明，它可能在用户未主动打开应用的情况下访问健康数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-permissions-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "其他权限包括体重、基础代谢率、体脂、瘦肌肉量、骨量，以及月经、性活动和排卵等生殖健康数据。用于Health Connect权限说明和权限使用界面的两个新界面活动表明，相关工作已进展顺利。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-android-google-health-activities-watermarked.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI希望用户依靠AI分析自己的健康信息，并提供见解和建议。这些权限尚未上线，面向Android用户的Google Health支持也尚未推出。"
+        }
+      ]
+    },
+    "gadgets/gemini-kids-daily-time-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "家长已可通过Family Link允许或禁止孩子使用Gemini，但只能二选一。Google似乎正在开发一项功能，让家长为Gemini设定每日使用上限。"
+        },
+        {
+          "t": "p",
+          "x": "Android Authority在Google应用17.72.13.sa.arm64版本的构建中发现了一些新字符串，均以孩子设备的视角撰写。其中一条是“Your parent set a daily time limit for Gemini”，另一条是“Your daily Gemini time limit changed”。"
+        },
+        {
+          "t": "p",
+          "x": "当孩子用完分配的时间后，应用会告知每日上限以及何时能再次使用Gemini，锁定界面上可能会有一个Close app按钮。家长取消限制时，会出现一条“Your daily Gemini time limit was turned off”的消息。"
+        },
+        {
+          "t": "p",
+          "x": "这些字符串并未说明计时器只覆盖Gemini应用，还是涵盖悬浮窗和Google Messages等更广泛的Gemini体验，家长端的情况也仍不明朗。尽管如此，这应能让家长更精细地管理孩子的AI使用。"
+        }
+      ]
+    },
+    "gadgets/chatgpt-classic-app-retired": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "几个月前，OpenAI发布了一款新的ChatGPT桌面应用，将ChatGPT、Work和Codex整合到同一界面中，原有应用则更名为ChatGPT Classic。此举颇具争议：原生macOS应用被Electron-based版本取代，而新界面极其令人困惑。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Classic基本没有更新，随着新模型与新应用独有的功能绑定，它变得越来越不可靠。如今，向用户显示的一条消息称，该应用将于2027年1月30日正式退役：“此应用将于2027年1月30日退役。在新的ChatGPT应用中获取最新功能。你的完整聊天记录会随之迁移，因此可以从上次中断的地方继续。”"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI还告诉用户，将在未来几周内面向一小部分用户开始测试合并后的Chat与Work体验，而在几个月前，总裁Greg Brockman曾称该界面“有点乱”。用户将能够导入文件和插件，并让ChatGPT搭建网站、制作演示文稿或在网页上执行操作。Codex将继续独立，但ChatGPT与Codex将获得共享的使用额度，取代各自独立的限额。"
+        }
+      ]
+    },
+    "gadgets/parakeet-local-dictation-laptop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "到了2026年，把语音转成文字不应该还需要订阅。于是我安装了Parakeet，这款语音识别模型几乎可以在任何设备上运行，从Raspberry Pi到用了十年的电脑都行。我同时测试了Docker-based模型和带GUI的Mac应用。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-parakeet-running-locally.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "在本地运行Parakeet的MacParakeet"
+        },
+        {
+          "t": "p",
+          "x": "我测试的版本是Parakeet TDT 0.6B v3，这是Nvidia开发的一款600 million 参数模型，不需要独立显卡。量化后的模型约占700MB 存储空间，运行时约占2GB RAM。Docker服务器部署简单，但日常使用不太方便。"
+        },
+        {
+          "t": "p",
+          "x": "MacParakeet将同一模型打包成一款Mac桌面应用，提供新手引导和功能键听写。这篇文章全部是我用MacParakeet口述完成的，即使带口音，Parakeet也识别得很准，对性能的影响微乎其微。它还能转写拖入的音频文件以及YouTube或Instagram链接，录制会议并识别说话人，还能导出Markdown。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/macparakeet-dictation.png?q=49&fit=contain&w=1904&h=1406&dpr=2",
+          "cap": "MacParakeet听写"
+        },
+        {
+          "t": "p",
+          "x": "所有这些都在设备端运行，因此语音录音和转写内容完全保持私密。Parakeet或许是我用过的最好的端侧语音识别模型。"
+        }
+      ]
+    },
+    "gadgets/meta-max-humanoid-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
+          "cap": "Kevin Frayer/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据The Information报道，作为进军机器人领域的一部分，Meta打造了一款旨在帮助人们处理家务的人形机器人原型。报道称，这款内部代号为Max的机器人是在中国机器人公司Fourier的协助下，用大约三个月时间造出的。"
+        },
+        {
+          "t": "p",
+          "x": "据The Information的消息人士透露，这款机器人重约106 lbs，身高约1.5米，即大约五英尺。报道称，原型机外部配有可显示面部表情的屏幕、内置扬声器，以及可拾取小物件的双手。内部方面，Meta选用了NVIDIA的Jetson Thor芯片来驱动机器人。"
+        },
+        {
+          "t": "p",
+          "x": "The Information报道称，Max的大众市场版本尚无发布日期，但Meta自9月以来已在开发代号为Max 2的第二款原型。报道补充说，这家科技巨头正在改进机器人躯干和双手的设计，并加装投影仪和更多传感器，以便更好地应对楼梯。"
+        },
+        {
+          "t": "p",
+          "x": "早在去年，Bloomberg报道Meta组建了一支新团队，负责打造最终能够做家务的机器人硬件，Meta进军人形机器人的努力由此开始。在该报道之后，Meta于今年早些时候收购了一家以专门为机器人开发人工智能而闻名的初创公司。"
+        }
+      ]
     }
   }
 }

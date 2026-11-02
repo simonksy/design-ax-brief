@@ -10184,6 +10184,153 @@
           "x": "El agente ejecuta este modelo junto a modelos líderes de terceros. Las tareas habituales son un 20% más rápidas; el nuevo agente supera o iguala al agente de producción anterior el 62% de las veces, las valoraciones de los usuarios son un 33% más altas y los usuarios deshacen su trabajo un 60% menos."
         }
       ]
+    },
+    "design/runway-dev-coding-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
+        },
+        {
+          "t": "p",
+          "x": "Hoy lanzamos los plugins de Runway Dev para Claude Code, Codex y Cursor. Con una sola instalación, su agente de programación se conecta a su cuenta de Runway Dev a través del Runway Dev MCP y suma las habilidades de Runway para desarrollar con la API. Describa la función que quiere, como un video de producto para cada artículo de su tienda, y el agente la construye de principio a fin sin salir del editor."
+        },
+        {
+          "t": "p",
+          "x": "Configuración: el agente empieza por leer su cuenta de Runway Dev, con los proyectos disponibles, los modelos que puede usar cada proyecto con sus precios y límites, y el saldo de créditos. Desarrollo: el agente crea desde el editor un Model Router que elige el modelo adecuado para cada solicitud, o un Character para avatares en tiempo real. Para los casos de uso habituales, se apoya en Recipes o en Workflows que su equipo haya publicado como endpoints de la API. Depuración: cuando una tarea falla, el agente consulta los detalles del error y ve por qué un Model Router eligió un modelo concreto."
+        },
+        {
+          "t": "p",
+          "x": "Inicie sesión con su cuenta de Runway Dev la primera vez que el agente la use. El plugin no almacena ninguna clave de API. Runway Dev está pensado para cualquiera que publique productos dirigiendo a un agente de programación, desde desarrolladores independientes y fundadores técnicos hasta ingenieros y gerentes de producto."
+        }
+      ]
+    },
+    "design/character-creator-52-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2 incorpora al software de creación de personajes de Reallusion un nuevo conjunto de herramientas de generación de modelos con IA, que permite generar personajes, ropa y cabello a partir de imágenes de referencia."
+        },
+        {
+          "t": "video",
+          "yt": "cm9GlStqHQk"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2 introduce dos conjuntos de herramientas principales: el generador de modelos 3D con IA y CC Wrap. El generador crea personajes 3D, ropa, peinados y accesorios a partir de imágenes de referencia con modelos de IA generativa de terceros: Tripo P2.0 para la topología low-poly, y Tripo H3.1 y Hunyuan V3.1 para el detalle high-poly. Un módulo complementario de diseño conceptual usa IA generativa para crear imágenes de referencia de una sola vista adaptadas a la generación de mallas 3D."
+        },
+        {
+          "t": "p",
+          "x": "CC Wrap convierte personajes 3D personalizados (personajes humanoides esculpidos a mano en otras aplicaciones DCC o generados con IA) a los formatos CC3+ y CC5 HD de Reallusion, y además aplica un rigging automático al personaje cuando termina el proceso de envoltura. Otras funciones: AI Mesh Generator genera modelos 3D a partir de 1-4 imágenes de referencia; AI Polygon Reduction rehace la malla de los modelos en mallas quad uniformes con Tripo AI; y se admite la importación de modelos 3D en formato GLB."
+        },
+        {
+          "t": "p",
+          "x": "El conjunto de herramientas AI Mesh Generation también está disponible en su herramienta hermana, iClone 8.76."
+        }
+      ]
+    },
+    "design/cisco-pubhub-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
+        },
+        {
+          "t": "p",
+          "x": "Durante mucho tiempo, nuestro flujo de trabajo de UI/UX siguió un patrón conocido: los diseñadores creaban pantallas en Figma y luego los desarrolladores traducían esos diseños a código. En la última renovación de PubHub (una herramienta interna de publicación de DevNet) necesitábamos avanzar rápido, así que probamos a pedirle a la IA que construyera la interfaz directamente a partir de nuestras historias de usuario y de las APIs del backend. La versión generada con IA (AI-generated) funcionaba de principio a fin, pero la aplicación no seguía nuestro lenguaje visual."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+          "cap": "Página de inicio, antes y después"
+        },
+        {
+          "t": "p",
+          "x": "Convertir las páginas HTML a Figma mediante una conexión Figma MCP planteó tres problemas: se perdían detalles en la conversión, las actualizaciones tardaban más de lo previsto y dejó de estar claro cuál era la fuente de verdad. En su lugar, usamos una herramienta de programación con IA para inspeccionar el prototipo existente y ajustar su HTML directamente. El prototipo HTML se convirtió en la única fuente de verdad."
+        },
+        {
+          "t": "p",
+          "x": "A mitad del proyecto, el diseñador se quedó sin tokens y pasó de Cursor a Claude y luego a Codex. El trabajo sobrevivió porque el estado del diseño residía en el artefacto HTML y no en una herramienta concreta. El diseñador podía producir nuevas iteraciones cada día; con el antiguo proceso centrado en Figma, una sola página llevaba días."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+          "cap": "Flujo de trabajo de interfaz impulsado por IA"
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores comparten el artefacto HTML actualizado junto con su sistema de diseño, los flujos de personas y un registro de cambios; los desarrolladores se los pasan a un agente de programación, que aplica los cambios de diseño al proyecto real."
+        }
+      ]
+    },
+    "design/christy-cad-claude-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+        },
+        {
+          "t": "p",
+          "x": "Llevar un mismo programa CAD desde un HP-85 de 613 kHz hasta un Mac M4 que dibuja a partir de la voz me enseñó sobre precisión, velocidad y cómo escribir código que el siguiente lector pueda retomar sin contexto previo. — John M. Christy, autor de CADD/85, CADD 200/300 y C3."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+          "cap": "Una computadora HP-85. (Imagen: Wolfgang Stief/Wikimedia.)"
+        },
+        {
+          "t": "p",
+          "x": "La reescritura empezó hacia octubre de 2025. Desde el principio empecé a pasarle a Claude fragmentos del código en Pascal para que los analizara y comentara, y así nació el código para Apple. Dejé de ser el programador que escribe el código y pasé a ser el productor y director que decide qué se construye, y el probador de control de calidad que decide si se publica. El programa, que ahora se llama C3, tenía todas sus funciones completas en febrero de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+          "cap": "La interfaz de C3 con un esquema de circuito desarrollado por John Hardy. (Imagen: John M. Christy.)"
+        },
+        {
+          "t": "p",
+          "x": "Con Claude como compañero de programación, una idea, su implementación y sus pruebas a veces llevan minutos en lugar de meses. Antes de confirmar cualquier código nuevo se ejecutan casi dos mil pruebas. C3 entiende ahora más de doscientos comandos de voz, y en septiembre se convirtió en un asistente: un modelo de lenguaje que maneja el programa a través de su propio catálogo de comandos, con un paso de deshacer por solicitud, y que se controla por dictado."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+          "cap": "Una brida con círculo de pernos dibujada íntegramente por el asistente de C3. (Imagen: John M. Christy.)"
+        }
+      ]
+    },
+    "design/adobe-editagent-toolpicker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de Adobe crearon un agente de AI para edición de imágenes que combina un editor de uso general con herramientas especializadas. Los investigadores de Adobe Research y UC San Diego quieren que EditAgent trabaje más como un profesional en Photoshop: elige la herramienta adecuada para cada tarea y compara el resultado con el original mediante cifras concretas."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+          "cap": "En lugar de reintentar una y otra vez con el mismo editor, EditAgent genera candidatos con distintos métodos en paralelo y hace que un modelo de lenguaje sin modificar los compare todos a la vez. | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "En una prueba de 600 ediciones de imagen, evaluadas a ciegas por cinco profesionales, el editor de uso general Flux-2-Klein-9B no logró un resultado utilizable el 42.7 por ciento de las veces. Las herramientas especializadas resolvieron aproximadamente dos tercios de esos fallos. Los profesionales prefirieron las variantes paralelas generadas a partir del original en el 78.5 por ciento de las comparaciones en las que eligieron un lado."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+          "cap": "EditAgent divide una solicitud en pasos dependientes y genera varios candidatos por paso. | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Para cada variante, el modelo juez recibe un registro de verificación con un primer plano del área editada, un mapa de cambios y estadísticas medidas de brillo y color. Con él, los siete modelos de lenguaje probados superaron a todos los modelos ajustados: Qwen3.8-27B hizo una elección utilizable el 81.3 por ciento de las veces, frente al 74.8 por ciento de EditScore-72B."
+        },
+        {
+          "t": "p",
+          "x": "EditAgent también comprueba si las ediciones posteriores deshicieron las anteriores. Necesita unas diez veces más cómputo que un solo editor, pero sus aproximadamente 26,000 ejemplos verificados mejoraron a los editores ajustados en los tres benchmarks."
+        }
+      ]
     }
   }
 }

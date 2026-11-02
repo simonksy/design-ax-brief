@@ -1,7 +1,31 @@
-{"date":"2026-11-02","section":"gadgets","media":[
-{"id":"meta-max-humanoid-robot","type":"image","src":"pipeline/media/meta-max-humanoid-robot.jpg"},
-{"id":"gemini-live-offline-mode","type":"image","src":"pipeline/media/gemini-live-offline-mode.jpg"},
-{"id":"logitech-mx-master4-devedition","type":"image","src":"pipeline/media/logitech-mx-master4-devedition.png"},
-{"id":"arrowspace-s1-ai-screwdriver","type":"video","src":"pipeline/media/arrowspace-s1-ai-screwdriver.mp4","poster":"pipeline/media/arrowspace-s1-ai-screwdriver.jpg"},
-{"id":"gemini-overlay-sparkle-android","type":"image","src":"pipeline/media/gemini-overlay-sparkle-android.jpg"}
-]}
+{
+  "date": "2026-11-03",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "google-nasa-robot-doctor",
+      "type": "image",
+      "src": "pipeline/media/google-nasa-robot-doctor.jpg"
+    },
+    {
+      "id": "chatgpt-google-health-android",
+      "type": "image",
+      "src": "pipeline/media/chatgpt-google-health-android.jpg"
+    },
+    {
+      "id": "gemini-kids-daily-time-limits",
+      "type": "image",
+      "src": "pipeline/media/gemini-kids-daily-time-limits.jpg"
+    },
+    {
+      "id": "chatgpt-classic-app-retired",
+      "type": "image",
+      "src": "pipeline/media/chatgpt-classic-app-retired.jpg"
+    },
+    {
+      "id": "parakeet-local-dictation-laptop",
+      "type": "image",
+      "src": "pipeline/media/parakeet-local-dictation-laptop.jpg"
+    }
+  ]
+}

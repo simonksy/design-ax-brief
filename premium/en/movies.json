@@ -9577,6 +9577,128 @@
           "x": "“With AI-assisted filmmaking, storytellers can dream much bigger, and backing a bold idea finally feels possible,” said Nagpal. “Beta Builder is our bet on that future, with a live-action shoot and AI working side by side.” InVideo, which is U.S.-based with offices in India, positions itself as an agnostic AI filmmaking platform with more than 50 million users."
         }
       ]
+    },
+    "movies/jikuyukaku-japan-ai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+          "cap": "Photo: Tender Pro (video capture)"
+        },
+        {
+          "t": "p",
+          "x": "Japanese filmmakers announced on the 2nd that they plan to release ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), a feature film made entirely with generative AI, in 2027. It is co-produced by Japan's Oxons, Tender Pro and the All Japan Volunteer Federation."
+        },
+        {
+          "t": "p",
+          "x": "Real actors appear as AI recreations. The 3 actors cast through AI are An Furukawa, Akiko Oshidari and Shinzo Hotta. Shinzo Hotta said, “First of all, I can't believe it. It really is Shinzo Hotta exactly. It's amazing.” The film is directed by Takeshi Sone, known as the cinematographer of ‘One Cut of the Dead’."
+        },
+        {
+          "t": "video",
+          "yt": "e8H_ggZXKqY"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI's ChatGPT was used to write the script, and the theme song ‘LABYRINTH’ was made with the AI music generation service Suno. The story follows Nina, a singer at the theater ‘Labyrinth’, after an AI with her exact face and voice appears before her, and it poses the question ‘Whose dream is yours now?’ The specific release date and screening format are expected to be announced later."
+        }
+      ]
+    },
+    "movies/akuna-google-africa-ai-film": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+          "cap": "Idris Elba, Google launch free AI filmmaking programme in five African countries"
+        },
+        {
+          "t": "p",
+          "x": "Akuna Learning, an initiative of The Akuna Group chaired by British actor, Sir Idris Elba, has opened applications for a free artificial intelligence, AI, filmmaking programme for aspiring and emerging African creatives in five countries."
+        },
+        {
+          "t": "p",
+          "x": "The programme, tagged From Script to Screen with AI, is being delivered in collaboration with Google, with $1 million funding from Google.org and a curriculum developed by Curious Refuge. It is open to eligible applicants in Nigeria, Ghana, Kenya, Sierra Leone and South Africa, with applications closing on November 15, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The 50-week programme will combine a 12-week online academy with mentorship, pitching opportunities and production funding for selected film projects. Participants will also retain ownership and control of their creative works. Selected projects will receive funding for production, with filming scheduled for July to October 2027, and the completed films will be showcased in October 2027."
+        },
+        {
+          "t": "p",
+          "x": "Applicants do not need a film school qualification or previous AI experience but must demonstrate their creative abilities through existing work."
+        }
+      ]
+    },
+    "movies/iqiyi-shanghai-ai-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+          "cap": "iQiyi's new AI film studio extends its production chain from on-location and green-screen work to virtual production and AI-integrated filmmaking."
+        },
+        {
+          "t": "p",
+          "x": "iQIYI has opened an AI film studio at its Creative Center in Shanghai and begun production on its first project there, the internet feature film Cop in Trouble, the online entertainment provider said on Oct 28."
+        },
+        {
+          "t": "p",
+          "x": "The roughly 110-square-meter facility combines live-action shooting with AI post-production. On-set footage syncs automatically to NadouPro, iQIYI's AI production platform, giving filmmakers access to nearly 30 AI models and hundreds of production-focused AI agents. Zhu Liang, iQIYI vice-president and head of intelligent production, said the approach keeps performance \"the core of any film or series.\""
+        },
+        {
+          "t": "img",
+          "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+          "cap": "Poster of Cop in Trouble."
+        },
+        {
+          "t": "p",
+          "x": "The production uses footage of actors' on-set interactions as reference for AI-generated environments and visual details. The studio follows the company's Hengdian virtual studio, which iQIYI says delivered production efficiency gains of over 30 percent."
+        }
+      ]
+    },
+    "movies/studio-unmu-last-call": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+          "cap": "Director Yeon Hun-min and writer Ko Suk (Photo: UNMU)"
+        },
+        {
+          "t": "p",
+          "x": "UNMU, an independent video studio in Daejeon, said on the 2nd that the AI short film ‘LAST CALL’ (Closing Time), co-created by writer Ko Suk and director Yeon Hun-min, received an Honorable Mention in the ‘Best AI-Generated or Assisted Film’ category at the 30th Urbanworld Film Festival in New York."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+          "cap": "Poster image (Photo: UNMU)"
+        },
+        {
+          "t": "p",
+          "x": "‘LAST CALL’, an SF drama with a running time of 11 minutes 23 seconds, follows three customers and a bartender trapped in a neon-lit bar on a night under a drone curfew. Urbanworld included AI films in its official competition for the first time this year, and the Writers Guild of America East withdrew its sponsorship of the festival in opposition to the new AI category."
+        },
+        {
+          "t": "p",
+          "x": "The filmmakers explained, “The script, the direction of the performances, the editing and the sound mixing all went through human hands. AI made the pixels, but people decided what to show and how long to stay on it.” The film had its world premiere in August in the AI competition of Portugal's Avanca International Film Festival."
+        }
+      ]
+    },
+    "movies/guilds-openai-fairuse-brief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRA, the American Federation of Music and the Writers Guild of America East and West are calling on a federal judge to reject a fair use exemption for training AI models. The unions jointly filed an amicus brief Thursday in the ongoing copyright infringement battle between OpenAI and a slew of news outlets and writers, arguing the trillion-dollar company is “appropriating the work of middle- and working-class people to develop their technology.”"
+        },
+        {
+          "t": "p",
+          "x": "“The harms of unlicensed training fall not just on companies like the News Plaintiffs, but on the countless professionals behind the work,” the brief reads. The 34-page document lays out how a categorical fair use exemption would allow for a “potentially enormous transfer of value” from creators to corporations, and argues that “this AI training dispute is ‘no more than an ordinary copyright case’ and should be treated as such.”"
+        },
+        {
+          "t": "p",
+          "x": "The unions make the case that fair use must remain a case-by-case judgement call. The writers and actors guilds won a notice-and-bargaining right for third party licenses of covered work to train commercial generative AI systems; “a ruling here that training is categorically fair use would render moot the terms the unions and the industry agreed to at the bargaining table,” the brief says."
+        }
+      ]
     }
   }
 }

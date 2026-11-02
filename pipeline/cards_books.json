@@ -1,197 +1,197 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "books",
   "cards": [
     {
-      "id": "kindle-askthisbook-ereader",
+      "id": "scholarlykitchen-ai-transparency-trap",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Kindle에 AI 기능\nAsk This Book",
-      "body": "Kindle 5.20.2에 AI-powered Ask This Book이 들어왔다.",
-      "mini_headline": "Kindle에 Ask This Book",
+      "headline": "AI 공개가\n신뢰를 보장하진 않는다",
+      "body": "Scholarly Kitchen은 AI를 피해도 밝혀도 신뢰 보증은 아니라고 본다.",
+      "mini_headline": "AI 공개는 신뢰가 아니다",
       "tool": "Books",
-      "source": "Good e-Reader",
-      "url": "https://goodereader.com/blog/kindle/ask-this-book-feature-now-on-kindle-ereaders",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-            "cap": "Kindle 전자책 단말기"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+            "cap": "덫으로 놓은 상자. 끈 달린 막대로 골판지 상자를 받쳐 세웠다."
           },
           {
             "t": "p",
-            "x": "Amazon이 Kindle 소프트웨어 업데이트 5.20.2로 AI-powered 기능 “Ask This Book”을 Kindle 전자책 단말기에 바로 넣었다."
+            "x": "학계의 글쓰기와 출판 과정에 AI가 자리 잡았다. 연구자는 AI로 글을 만들고 다듬으며, 출판사는 원고를 심사할 때 AI를 쓴다. AI가 만든 오류를 AI로 찾아내는 경우도 많다. 새는 양동이에 물을 붓는 격이다."
           },
           {
             "t": "p",
-            "x": "단말기 안에 들어 있는 대화형 독서 도우미다. 바깥 스포일러 걱정 없이 본문을 검색하고 요약을 만들며 등장인물과 줄거리도 구체적으로 물어볼 수 있다."
+            "x": "AI를 쓰지 않았다고 연구를 믿을 수 있는 건 아니다. AI 사용을 공개해도 마찬가지다. 공개로 알 수 있는 건 AI를 썼는지, 어떻게 썼는지뿐이고, 기술을 책임 있게 썼는지나 주장이 검증됐는지는 증명하지 못한다. 저자는 학술지의 AI 공개 정책을 다 지키고도 근거 없는 주장과 지어낸 참고문헌을 낼 수 있다. 공개를 연구 진실성과 품질의 증거로 착각하는 일, 이것이 투명성의 함정이다."
           },
           {
             "t": "p",
-            "x": "사용자들은 Amazon이 지금껏 내놓은 펌웨어 설치 파일 중 가장 큰 편이라고 말한다. 크기는 약 643 MB다."
+            "x": "AI를 어디에 쓰느냐에 따라 위험 수준도 다르다. 문법을 고치는 일과 해석을 생성하거나 데이터를 분석하는 일은 같지 않다. 2026년 8월 지침을 개정한 JAMA 네트워크도 “공개 정책만으로는 부정확하거나 심지어 조작된 AI 생성(AI-generated) 콘텐츠에 대한 우려를 해소하기에 충분하지 않을 수 있다”고 인정했다."
           },
           {
             "t": "p",
-            "x": "책 안에서 메뉴를 열거나 본문의 특정 구절이나 단어를 하이라이트하면 바로 쓸 수 있다. 추천 질문 목록이 뜨고 질문을 직접 입력하거나 후속 질문을 이어 갈 수도 있다."
+            "x": "책임과 검증의 틀에 초점을 두고, 인간의 판단으로 기술적 점검을 보완해야 한다. “AI가 있다고 부정행위가 입증되지 않듯, AI가 없다고 진실성이 입증되지도 않는다.” — Roohi Ghosh, Cactus Communications"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kindle e-readers get\nAI Ask This Book",
-          "body": "Kindle Software Update 5.20.2 brings the AI-powered Ask This Book feature directly to Kindle e-readers.",
-          "mini_headline": "Kindle gets Ask This Book",
+          "headline": "AI disclosure is no\nguarantee of trust",
+          "body": "Scholarly Kitchen argues that neither avoiding AI nor disclosing it guarantees trustworthy research.",
+          "mini_headline": "AI disclosure isn't trust",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "Kindle e-reader"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "A box set up as a trap. Cardboard box propped up with a stick attached to a string."
               },
               {
                 "t": "p",
-                "x": "Amazon’s Kindle Software Update 5.20.2 brings the AI-powered “Ask This Book” feature directly to Kindle e-readers."
+                "x": "In academia, AI has found its way into writing and publication, helping researchers generate and refine content while publishers use it to screen manuscripts. In many cases AI is helping identify errors that AI itself has introduced. It's like filling a leaky bucket."
               },
               {
                 "t": "p",
-                "x": "This feature acts as an interactive, built-in reading companion. It allows you to query the text, generate summaries, or ask specific questions about characters and plot points without risking outside spoilers."
+                "x": "The absence of AI doesn't guarantee trustworthy research. And neither does disclosing AI use. AI disclosures only tell us whether AI was used and how; they do not prove that the technology was used responsibly or that the claims were verified. An author may comply fully with a journal's AI disclosure policy and still submit unsupported claims and fabricated references. This is the transparency trap: mistaking disclosure for proof of research integrity and quality."
               },
               {
                 "t": "p",
-                "x": "Noted by users as one of the largest firmware installation files Amazon has released to date. It is around 643 MB in size."
+                "x": "Different uses of AI carry different levels of risk; improving grammar is not the same as generating interpretations or analyzing data. In August 2026 the JAMA network updated its guidelines, acknowledging that “disclosure policies may not be sufficient to address concerns about AI-generated content that is incorrect or even fabricated.”"
               },
               {
                 "t": "p",
-                "x": "You can access it by opening the in-book menu or by highlighting a specific passage or word within the text. It will provide a list of suggested questions, or you can type your own custom question and ask follow-ups."
+                "x": "The focus should be on a framework of accountability and validation, with human judgment complementing technical checks. “The presence of AI does not establish misconduct just as the absence of AI does not establish integrity.” — Roohi Ghosh, Cactus Communications"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Kindle에 AI 기능\nAsk This Book",
-          "body": "Kindle 5.20.2에 AI-powered Ask This Book이 들어왔다.",
-          "mini_headline": "Kindle에 Ask This Book",
+          "headline": "AI 공개가\n신뢰를 보장하진 않는다",
+          "body": "Scholarly Kitchen은 AI를 피해도 밝혀도 신뢰 보증은 아니라고 본다.",
+          "mini_headline": "AI 공개는 신뢰가 아니다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "Kindle 전자책 단말기"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "덫으로 놓은 상자. 끈 달린 막대로 골판지 상자를 받쳐 세웠다."
               },
               {
                 "t": "p",
-                "x": "Amazon이 Kindle 소프트웨어 업데이트 5.20.2로 AI-powered 기능 “Ask This Book”을 Kindle 전자책 단말기에 바로 넣었다."
+                "x": "학계의 글쓰기와 출판 과정에 AI가 자리 잡았다. 연구자는 AI로 글을 만들고 다듬으며, 출판사는 원고를 심사할 때 AI를 쓴다. AI가 만든 오류를 AI로 찾아내는 경우도 많다. 새는 양동이에 물을 붓는 격이다."
               },
               {
                 "t": "p",
-                "x": "단말기 안에 들어 있는 대화형 독서 도우미다. 바깥 스포일러 걱정 없이 본문을 검색하고 요약을 만들며 등장인물과 줄거리도 구체적으로 물어볼 수 있다."
+                "x": "AI를 쓰지 않았다고 연구를 믿을 수 있는 건 아니다. AI 사용을 공개해도 마찬가지다. 공개로 알 수 있는 건 AI를 썼는지, 어떻게 썼는지뿐이고, 기술을 책임 있게 썼는지나 주장이 검증됐는지는 증명하지 못한다. 저자는 학술지의 AI 공개 정책을 다 지키고도 근거 없는 주장과 지어낸 참고문헌을 낼 수 있다. 공개를 연구 진실성과 품질의 증거로 착각하는 일, 이것이 투명성의 함정이다."
               },
               {
                 "t": "p",
-                "x": "사용자들은 Amazon이 지금껏 내놓은 펌웨어 설치 파일 중 가장 큰 편이라고 말한다. 크기는 약 643 MB다."
+                "x": "AI를 어디에 쓰느냐에 따라 위험 수준도 다르다. 문법을 고치는 일과 해석을 생성하거나 데이터를 분석하는 일은 같지 않다. 2026년 8월 지침을 개정한 JAMA 네트워크도 “공개 정책만으로는 부정확하거나 심지어 조작된 AI 생성(AI-generated) 콘텐츠에 대한 우려를 해소하기에 충분하지 않을 수 있다”고 인정했다."
               },
               {
                 "t": "p",
-                "x": "책 안에서 메뉴를 열거나 본문의 특정 구절이나 단어를 하이라이트하면 바로 쓸 수 있다. 추천 질문 목록이 뜨고 질문을 직접 입력하거나 후속 질문을 이어 갈 수도 있다."
+                "x": "책임과 검증의 틀에 초점을 두고, 인간의 판단으로 기술적 점검을 보완해야 한다. “AI가 있다고 부정행위가 입증되지 않듯, AI가 없다고 진실성이 입증되지도 않는다.” — Roohi Ghosh, Cactus Communications"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kindle端末にAI\nAsk This Book",
-          "body": "Kindle 5.20.2がAI-poweredのAsk This Bookを搭載した。",
-          "mini_headline": "KindleにAsk This Book",
+          "headline": "AI開示は\n信頼の保証ではない",
+          "body": "Scholarly KitchenはAIの回避も開示も研究の信頼を保証しないと論じる。",
+          "mini_headline": "AI開示は信頼ではない",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "Kindle電子書籍リーダー"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "罠として仕掛けられた箱。ひもを結んだ棒で支えた段ボール箱。"
               },
               {
                 "t": "p",
-                "x": "AmazonのKindleソフトウェアアップデート5.20.2により、AI-poweredの機能「Ask This Book」がKindle電子書籍リーダーに直接搭載された。"
+                "x": "学術界では、AIが執筆と出版に入り込んでいる。研究者はコンテンツの生成や推敲に使い、出版社は原稿の審査に使う。多くの場合、AIはAI自身が持ち込んだ誤りを見つける役割を担っている。穴の開いたバケツに水を注ぐようなものだ。"
               },
               {
                 "t": "p",
-                "x": "この機能は対話型の読書アシスタントとして端末に組み込まれている。外部のネタバレを気にすることなく、本文を検索したり、要約を生成したり、登場人物や筋書きについて具体的に質問したりできる。"
+                "x": "AIを使っていないからといって、研究が信頼できるとは限らない。AIの使用を開示しても同じだ。AIの開示が示すのはAIを使ったかどうか、どう使ったかだけであり、技術が責任をもって使われたことや、主張が検証されたことを証明するものではない。著者は学術誌のAI開示方針を完全に守りながら、根拠のない主張や捏造した参考文献を投稿することもできる。これが透明性の罠、つまり開示を研究の公正性と質の証明と取り違えることである。"
               },
               {
                 "t": "p",
-                "x": "ユーザーの間では、Amazonがこれまでに公開したファームウェアのインストールファイルの中でも最大級だと指摘されている。サイズは約643 MBだ。"
+                "x": "AIの使い方によってリスクの度合いは異なる。文法の改善は、解釈の生成やデータ分析と同じではない。2026年8月、JAMAネットワークはガイドラインを改訂し、「開示方針だけでは、誤った、あるいは捏造さえされたAI生成（AI-generated）コンテンツへの懸念に対処するには不十分かもしれない」と認めた。"
               },
               {
                 "t": "p",
-                "x": "本の中のメニューを開くか、本文中の特定の箇所や単語をハイライトすると利用できる。質問の候補が一覧で示されるほか、自分で質問を入力し、さらに追加で尋ねることもできる。"
+                "x": "重視すべきは説明責任と検証の枠組みであり、人間の判断が技術的なチェックを補うべきだ。「AIが存在することが不正を立証しないのと同様に、AIが存在しないことが公正性を立証するわけでもない」— Roohi Ghosh、Cactus Communications"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kindle阅读器迎来AI\nAsk This Book",
-          "body": "Kindle阅读器5.20.2更新加入AI-powered的Ask This Book。",
-          "mini_headline": "Kindle迎来Ask This Book",
+          "headline": "AI披露\n并不保证可信",
+          "body": "Scholarly Kitchen认为，回避AI或披露AI都无法保证研究值得信赖。",
+          "mini_headline": "AI披露不等于可信",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "Kindle电子阅读器"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "一个被布置成陷阱的箱子。纸箱用系着绳子的木棍支起。"
               },
               {
                 "t": "p",
-                "x": "Amazon的Kindle软件更新5.20.2将AI-powered的“Ask This Book”功能直接带到了Kindle电子阅读器上。"
+                "x": "在学术界，AI已进入写作与出版环节：研究人员用它生成和润色内容，出版商则用它筛查稿件。在许多情况下，AI正在帮助找出AI自身引入的错误。这就像往漏水的桶里注水。"
               },
               {
                 "t": "p",
-                "x": "该功能相当于一个内置的互动式阅读助手。用户可以检索文本、生成摘要，或就人物和情节提出具体问题，而不必担心外部剧透。"
+                "x": "不使用AI并不能保证研究可信，披露AI的使用也不能。AI披露只告诉我们是否使用了AI以及如何使用，并不能证明这项技术被负责任地使用，也不能证明相关主张经过了核实。作者可能完全遵守期刊的AI披露政策，却仍提交缺乏依据的主张和捏造的参考文献。这就是透明度陷阱：把披露误当作研究诚信与质量的证明。"
               },
               {
                 "t": "p",
-                "x": "有用户指出，这是Amazon迄今发布的最大固件安装文件之一，大小约为643 MB。"
+                "x": "不同的AI用途风险不同；改进语法与生成解读或分析数据并不相同。2026年8月，JAMA网络更新了其指南，承认“披露政策可能不足以解决人们对错误甚至捏造的AI生成（AI-generated）内容的担忧。”"
               },
               {
                 "t": "p",
-                "x": "打开书内菜单，或在文本中高亮某个段落或词语，即可使用该功能。它会给出一组推荐问题，用户也可以自行输入问题并继续追问。"
+                "x": "重点应放在问责与验证框架上，以人的判断补充技术检查。“存在AI并不能证明存在不当行为，正如没有AI并不能证明诚信。”——Roohi Ghosh，Cactus Communications"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los e-readers Kindle reciben\nla función AI Ask This Book",
-          "body": "La actualización de software 5.20.2 de Kindle lleva la función AI-powered Ask This Book a los e-readers Kindle.",
-          "mini_headline": "Kindle estrena Ask This Book",
+          "headline": "Declarar el uso de AI no\ngarantiza la confianza",
+          "body": "Scholarly Kitchen sostiene que ni evitar la AI ni declararla garantiza una investigación fiable.",
+          "mini_headline": "Declarar AI no es confianza",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "e-reader Kindle"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "Una caja preparada como trampa. Caja de cartón apoyada sobre un palo atado a una cuerda."
               },
               {
                 "t": "p",
-                "x": "La actualización de software 5.20.2 de Kindle, de Amazon, lleva la función AI-powered “Ask This Book” directamente a los e-readers Kindle."
+                "x": "En el ámbito académico, la AI ha llegado a la escritura y la publicación: ayuda a los investigadores a generar y pulir contenidos, mientras las editoriales la usan para revisar manuscritos. En muchos casos, la AI ayuda a detectar errores que la propia AI ha introducido. Es como llenar un cubo que gotea."
               },
               {
                 "t": "p",
-                "x": "La función actúa como un asistente de lectura interactivo e integrado. Permite consultar el texto, generar resúmenes o hacer preguntas concretas sobre personajes y tramas sin riesgo de spoilers externos."
+                "x": "La ausencia de AI no garantiza una investigación fiable. Tampoco lo hace declarar su uso. Las declaraciones de AI solo indican si se usó AI y cómo; no demuestran que la tecnología se usara de forma responsable ni que las afirmaciones se verificaran. Un autor puede cumplir por completo la política de declaración de AI de una revista y aun así presentar afirmaciones sin fundamento y referencias inventadas. Esta es la trampa de la transparencia: confundir la declaración con una prueba de la integridad y la calidad de la investigación."
               },
               {
                 "t": "p",
-                "x": "Los usuarios señalan que es uno de los archivos de instalación de firmware más grandes que Amazon ha publicado hasta la fecha. Ocupa unos 643 MB."
+                "x": "Los distintos usos de la AI conllevan distintos niveles de riesgo; mejorar la gramática no es lo mismo que generar interpretaciones o analizar datos. En agosto de 2026, la red JAMA actualizó sus directrices y reconoció que “las políticas de declaración pueden no ser suficientes para abordar la preocupación por el contenido generado por AI (AI-generated) que es incorrecto o incluso inventado”."
               },
               {
                 "t": "p",
-                "x": "Se accede abriendo el menú dentro del libro o resaltando un pasaje o una palabra concretos del texto. Ofrece una lista de preguntas sugeridas, o se puede escribir una pregunta propia y hacer preguntas de seguimiento."
+                "x": "El foco debe estar en un marco de rendición de cuentas y validación, con el juicio humano como complemento de los controles técnicos. “La presencia de AI no demuestra una mala conducta, del mismo modo que la ausencia de AI no demuestra integridad.” — Roohi Ghosh, Cactus Communications"
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Kindle에 AI 기능\nAsk This Book",
-          "body": "Kindle 5.20.2에 AI-powered Ask This Book이 실렸다.",
-          "mini_headline": "Kindle에 Ask This Book",
+          "headline": "AI 공개가\n신뢰를 보장하진 않는다",
+          "body": "Scholarly Kitchen은 AI 회피도 공개도 신뢰 보증은 아니라고 본다.",
+          "mini_headline": "AI 공개는 신뢰가 아니다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "Kindle 전자책 단말기"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "덫으로 설치한 상자. 끈을 묶은 막대로 받쳐 세운 골판지 상자다."
               },
               {
                 "t": "p",
-                "x": "Amazon의 Kindle 소프트웨어 업데이트 5.20.2가 AI-powered 기능 “Ask This Book”을 Kindle 전자책 단말기에 직접 들여왔다."
+                "x": "학계에서 AI는 글쓰기와 출판 과정에 자리 잡았다. 연구자는 AI로 글을 만들고 다듬고, 출판사는 원고 심사에 AI를 쓴다. 많은 경우 AI는 AI 스스로 만든 오류를 찾아내는 데 쓰인다. 새는 양동이에 물을 붓는 격이다."
               },
               {
                 "t": "p",
-                "x": "이 기능은 단말기에 내장된 대화형 독서 도우미 역할을 한다. 바깥 스포일러를 걱정하지 않고 본문을 검색하거나 요약을 만들고, 등장인물과 줄거리에 관해 구체적으로 물을 수 있다."
+                "x": "AI를 쓰지 않았다고 연구를 믿을 수 있는 것은 아니다. AI 사용을 공개했다고 해도 마찬가지다. AI 공개는 AI를 썼는지, 어떻게 썼는지만 알려줄 뿐, 기술을 책임 있게 썼는지나 주장이 검증됐는지는 증명하지 못한다. 저자는 학술지의 AI 공개 정책을 모두 지키면서도 근거 없는 주장과 지어낸 참고문헌을 제출할 수 있다. 이것이 투명성의 함정, 곧 공개를 연구 진실성과 품질의 증거로 착각하는 일이다."
               },
               {
                 "t": "p",
-                "x": "사용자들 사이에서는 Amazon이 지금까지 내놓은 펌웨어 설치 파일 가운데 가장 큰 축에 속한다는 말이 나온다. 크기는 약 643 MB다."
+                "x": "AI 활용 방식마다 위험 수준이 다르다. 문법 교정은 해석을 생성하거나 데이터를 분석하는 일과 같지 않다. 2026년 8월 JAMA 네트워크는 지침을 개정하며 “공개 정책만으로는 부정확하거나 심지어 조작된 AI 생성(AI-generated) 콘텐츠에 대한 우려를 해소하기에 충분하지 않을 수 있다”고 인정했다."
               },
               {
                 "t": "p",
-                "x": "책 안의 메뉴를 열거나 본문의 특정 구절이나 단어를 하이라이트해 이 기능을 쓸 수 있다. 추천 질문 목록이 나오고, 직접 질문을 입력하거나 후속 질문을 이어갈 수도 있다."
+                "x": "초점은 책임과 검증의 틀에 둬야 하며, 인간의 판단이 기술적 점검을 보완해야 한다. “AI가 있다고 부정행위가 입증되지 않듯, AI가 없다고 진실성이 입증되지도 않는다.” — Roohi Ghosh, Cactus Communications"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kindle端末にAI\nAsk This Book",
-          "body": "Kindle 5.20.2がAI-poweredのAsk This Bookを搭載した。",
-          "mini_headline": "KindleにAsk This Book",
+          "headline": "AI開示は\n信頼の保証ではない",
+          "body": "Scholarly KitchenはAIの回避も開示も研究の信頼を保証しないと論じる。",
+          "mini_headline": "AI開示は信頼ではない",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "Kindle電子書籍リーダー"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "罠として仕掛けられた箱。ひもを結んだ棒で支えた段ボール箱。"
               },
               {
                 "t": "p",
-                "x": "AmazonのKindleソフトウェアアップデート5.20.2により、AI-poweredの機能「Ask This Book」がKindle電子書籍リーダーに直接搭載された。"
+                "x": "学術界では、AIが執筆と出版に入り込んでいる。研究者はコンテンツの生成や推敲に使い、出版社は原稿の審査に使う。多くの場合、AIはAI自身が持ち込んだ誤りを見つける役割を担っている。穴の開いたバケツに水を注ぐようなものだ。"
               },
               {
                 "t": "p",
-                "x": "この機能は対話型の読書アシスタントとして端末に組み込まれている。外部のネタバレを気にすることなく、本文を検索したり、要約を生成したり、登場人物や筋書きについて具体的に質問したりできる。"
+                "x": "AIを使っていないからといって、研究が信頼できるとは限らない。AIの使用を開示しても同じだ。AIの開示が示すのはAIを使ったかどうか、どう使ったかだけであり、技術が責任をもって使われたことや、主張が検証されたことを証明するものではない。著者は学術誌のAI開示方針を完全に守りながら、根拠のない主張や捏造した参考文献を投稿することもできる。これが透明性の罠、つまり開示を研究の公正性と質の証明と取り違えることである。"
               },
               {
                 "t": "p",
-                "x": "ユーザーの間では、Amazonがこれまでに公開したファームウェアのインストールファイルの中でも最大級だと指摘されている。サイズは約643 MBだ。"
+                "x": "AIの使い方によってリスクの度合いは異なる。文法の改善は、解釈の生成やデータ分析と同じではない。2026年8月、JAMAネットワークはガイドラインを改訂し、「開示方針だけでは、誤った、あるいは捏造さえされたAI生成（AI-generated）コンテンツへの懸念に対処するには不十分かもしれない」と認めた。"
               },
               {
                 "t": "p",
-                "x": "本の中のメニューを開くか、本文中の特定の箇所や単語をハイライトすると利用できる。質問の候補が一覧で示されるほか、自分で質問を入力し、さらに追加で尋ねることもできる。"
+                "x": "重視すべきは説明責任と検証の枠組みであり、人間の判断が技術的なチェックを補うべきだ。「AIが存在することが不正を立証しないのと同様に、AIが存在しないことが公正性を立証するわけでもない」— Roohi Ghosh、Cactus Communications"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kindle阅读器迎来AI\nAsk This Book",
-          "body": "Kindle阅读器5.20.2更新加入AI-powered的Ask This Book。",
-          "mini_headline": "Kindle迎来Ask This Book",
+          "headline": "AI披露\n并不保证可信",
+          "body": "Scholarly Kitchen认为，回避AI或披露AI都无法保证研究值得信赖。",
+          "mini_headline": "AI披露不等于可信",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "Kindle电子阅读器"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "一个被布置成陷阱的箱子。纸箱用系着绳子的木棍支起。"
               },
               {
                 "t": "p",
-                "x": "Amazon的Kindle软件更新5.20.2将AI-powered的“Ask This Book”功能直接带到了Kindle电子阅读器上。"
+                "x": "在学术界，AI已进入写作与出版环节：研究人员用它生成和润色内容，出版商则用它筛查稿件。在许多情况下，AI正在帮助找出AI自身引入的错误。这就像往漏水的桶里注水。"
               },
               {
                 "t": "p",
-                "x": "该功能相当于一个内置的互动式阅读助手。用户可以检索文本、生成摘要，或就人物和情节提出具体问题，而不必担心外部剧透。"
+                "x": "不使用AI并不能保证研究可信，披露AI的使用也不能。AI披露只告诉我们是否使用了AI以及如何使用，并不能证明这项技术被负责任地使用，也不能证明相关主张经过了核实。作者可能完全遵守期刊的AI披露政策，却仍提交缺乏依据的主张和捏造的参考文献。这就是透明度陷阱：把披露误当作研究诚信与质量的证明。"
               },
               {
                 "t": "p",
-                "x": "有用户指出，这是Amazon迄今发布的最大固件安装文件之一，大小约为643 MB。"
+                "x": "不同的AI用途风险不同；改进语法与生成解读或分析数据并不相同。2026年8月，JAMA网络更新了其指南，承认“披露政策可能不足以解决人们对错误甚至捏造的AI生成（AI-generated）内容的担忧。”"
               },
               {
                 "t": "p",
-                "x": "打开书内菜单，或在文本中高亮某个段落或词语，即可使用该功能。它会给出一组推荐问题，用户也可以自行输入问题并继续追问。"
+                "x": "重点应放在问责与验证框架上，以人的判断补充技术检查。“存在AI并不能证明存在不当行为，正如没有AI并不能证明诚信。”——Roohi Ghosh，Cactus Communications"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los e-readers Kindle reciben\nla función AI Ask This Book",
-          "body": "La actualización de software 5.20.2 de Kindle lleva la función AI-powered Ask This Book a los e-readers Kindle.",
-          "mini_headline": "Kindle estrena Ask This Book",
+          "headline": "Declarar el uso de AI no\ngarantiza la confianza",
+          "body": "Scholarly Kitchen sostiene que ni evitar la AI ni declararla garantiza una investigación fiable.",
+          "mini_headline": "Declarar AI no es confianza",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
-                "cap": "e-reader Kindle"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+                "cap": "Una caja preparada como trampa. Caja de cartón apoyada sobre un palo atado a una cuerda."
               },
               {
                 "t": "p",
-                "x": "La actualización de software 5.20.2 de Kindle, de Amazon, lleva la función AI-powered “Ask This Book” directamente a los e-readers Kindle."
+                "x": "En el ámbito académico, la AI ha llegado a la escritura y la publicación: ayuda a los investigadores a generar y pulir contenidos, mientras las editoriales la usan para revisar manuscritos. En muchos casos, la AI ayuda a detectar errores que la propia AI ha introducido. Es como llenar un cubo que gotea."
               },
               {
                 "t": "p",
-                "x": "La función actúa como un asistente de lectura interactivo e integrado. Permite consultar el texto, generar resúmenes o hacer preguntas concretas sobre personajes y tramas sin riesgo de spoilers externos."
+                "x": "La ausencia de AI no garantiza una investigación fiable. Tampoco lo hace declarar su uso. Las declaraciones de AI solo indican si se usó AI y cómo; no demuestran que la tecnología se usara de forma responsable ni que las afirmaciones se verificaran. Un autor puede cumplir por completo la política de declaración de AI de una revista y aun así presentar afirmaciones sin fundamento y referencias inventadas. Esta es la trampa de la transparencia: confundir la declaración con una prueba de la integridad y la calidad de la investigación."
               },
               {
                 "t": "p",
-                "x": "Los usuarios señalan que es uno de los archivos de instalación de firmware más grandes que Amazon ha publicado hasta la fecha. Ocupa unos 643 MB."
+                "x": "Los distintos usos de la AI conllevan distintos niveles de riesgo; mejorar la gramática no es lo mismo que generar interpretaciones o analizar datos. En agosto de 2026, la red JAMA actualizó sus directrices y reconoció que “las políticas de declaración pueden no ser suficientes para abordar la preocupación por el contenido generado por AI (AI-generated) que es incorrecto o incluso inventado”."
               },
               {
                 "t": "p",
-                "x": "Se accede abriendo el menú dentro del libro o resaltando un pasaje o una palabra concretos del texto. Ofrece una lista de preguntas sugeridas, o se puede escribir una pregunta propia y hacer preguntas de seguimiento."
+                "x": "El foco debe estar en un marco de rendición de cuentas y validación, con el juicio humano como complemento de los controles técnicos. “La presencia de AI no demuestra una mala conducta, del mismo modo que la ausencia de AI no demuestra integridad.” — Roohi Ghosh, Cactus Communications"
               }
             ]
           }
@@ -325,15 +325,15 @@
       }
     },
     {
-      "id": "anthropic-taa-textbook-letter",
-      "source_lang": "en",
+      "id": "ajunews-ai-standard-contract",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Anthropic 합의금\n교과서 저자들 반발",
-      "body": "교과서 저자들이 $1.5B Anthropic 합의 절차가 버겁다고 법원에 호소했다.",
-      "mini_headline": "Anthropic 합의에 저자 반발",
+      "headline": "출판계, AI 조항 담아\n표준계약서 손질",
+      "body": "AI 학습 데이터 이용료 논쟁이 커지자 출판계가 표준계약서 손질에 나섰다.",
+      "mini_headline": "표준계약서에 AI 조항",
       "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/in-letter-to-the-court-textbook-authors-complain-of-unfair-process-splits-in-anthropic-settlement/",
+      "source": "아주경제",
+      "url": "https://www.ajunews.com/amp/20261102140302421",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -341,335 +341,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+            "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+            "cap": "로이터 연합뉴스"
           },
           {
             "t": "p",
-            "x": "분쟁이 늘자 TAA의 Kim Pawlak 사무총장은 $1.5B 규모 합의금 청구 절차에서 자원이 넉넉한 출판사와 달리 “저자들이 지는 본질적인 부담을 고려하고 인정해 달라”고 법원에 요청했다."
+            "x": "생성형 AI 산업이 급성장하면서 출판 데이터의 적정 이용료를 둘러싼 논쟁이 본격화하고 있다. 대한출판문화협회(출협)는 이달 중 AI 학습용 데이터 이용에 관한 조항을 보완한 표준계약서를 출판사들에 배포할 예정이다. 기존 저자·출판사 간 표준계약서에 AI 학습용 데이터 관련 내용을 추가하는 것으로, 현재 법률 검토가 진행 중이다. AI 학습에 따른 저작물 이용 범위와 권리 관계를 명확히 해 분쟁을 예방하려는 취지다."
           },
           {
             "t": "p",
-            "x": "Pawlak은 “TAA에 연락한 청구인 대다수는 교과서(교육용) 저자로, 이들의 저작물은 합의가 일반 도서와 학술 저작물에 부여한 50-50 기본 배분의 혜택을 받지 못한다”고 썼다. 출판사가 주장한 배분 비율에 분노한 저자도 있다. 이 비율은 “많은 경우 해당 저작물 합의금의 85%에서 95%에 이른다.”"
+            "x": "출협은 국립국어원 말뭉치 사업과 관련해 2023년 웅진북센과 체결한 합의 금액을 AI 학습용 데이터의 일반적인 가격 기준으로 삼아서는 안 된다는 입장을 밝혔다. 논란은 이 사업에서 출판저작물 1만5933종이 무단 이용된 사건에서 비롯됐으며, 손해배상 소송 항소심은 합의금액을 근거로 1심보다 배상액을 낮췄다. 사건은 대법원 상고심에 계류 중이다."
           },
           {
             "t": "p",
-            "x": "청구에 이의가 있는 저자들은 출판사와 “만나 협의”하라는 안내를 받았다. 하지만 출판사 연락처나 오래된 계약서 사본이 없는 저자가 많아 “막막한 일”이다. 그 계약서들은 “AI 학습이나 집단 합의에 대해 아무런 언급도 없다.” 저자 대부분은 변호사를 쓸 형편도 안 되는데 청구 포털마저 “기술적 문제투성이”였다."
+            "x": "국내에서는 네이버와 SK텔레콤 등이 개별 출판사와 계약을 맺고 있다. 해외에서는 앤트로픽이 저작권 집단소송에서 15억 달러(약 2조원) 규모 합의안을 마련해 도서 약 50만 종에 종당 최소 3000달러를 지급하기로 했고, 하퍼콜린스는 2024년 마이크로소프트와 종당 5000달러 조건의 AI 학습용 이용계약을 체결한 것으로 알려졌다."
           },
           {
             "t": "p",
-            "x": "Pawlak은 “공정하지 않으며, 즉흥적으로 절차에 절차를 쌓고 저자들이 넘어야 할 장애물을 늘리면서 점점 더 불공정해지고 있다”고 썼다. 합의가 “집단의 약 25%를 차지하는 교육용 저자들에 대한 공정성을 희생해서는 안 된다”는 말도 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "지난달 TAA는 Authors Guild 등 여러 단체와 함께 출판사들에 절판 도서 청구를 자발적으로 포기하고 저작권 미등록으로 제외된 저자들에게 배상금 일부를 나눠 달라고 촉구했다. 이번 서한은 그 연장선에서 나왔다."
+            "x": "출협은 중간 유통업체가 한국 도서 약 30만 권을 확보해 미국으로 반출한 것으로 파악하고, 앤트로픽의 한국 도서 확보 문제에 대한 법적 대응을 검토하고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Textbook authors protest\nAnthropic settlement process",
-          "body": "Textbook authors asked the court to weigh their burden in the $1.5 billion Anthropic settlement claims process.",
-          "mini_headline": "Authors fault Anthropic deal",
+        "ko": {
+          "headline": "출판계, AI 조항 담아\n표준계약서 손질",
+          "body": "AI 학습 데이터 이용료 논쟁이 커지자 출판계가 표준계약서 손질에 나섰다.",
+          "mini_headline": "표준계약서에 AI 조항",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "로이터 연합뉴스"
               },
               {
                 "t": "p",
-                "x": "Amid a growing number of disputes, TAA Executive Director Kim Pawlak asked the court to “consider and acknowledge the inherent burden on authors” in the $1.5 billion settlement claims process compared to the better-resourced publishers."
+                "x": "생성형 AI 산업이 급성장하면서 출판 데이터의 적정 이용료를 둘러싼 논쟁이 본격화하고 있다. 대한출판문화협회(출협)는 이달 중 AI 학습용 데이터 이용에 관한 조항을 보완한 표준계약서를 출판사들에 배포할 예정이다. 기존 저자·출판사 간 표준계약서에 AI 학습용 데이터 관련 내용을 추가하는 것으로, 현재 법률 검토가 진행 중이다. AI 학습에 따른 저작물 이용 범위와 권리 관계를 명확히 해 분쟁을 예방하려는 취지다."
               },
               {
                 "t": "p",
-                "x": "“The majority of claimants contacting TAA have been textbook (educational) authors, whose works do not benefit from the 50-50 default split afforded by the settlement to trade and academic works,” Pawlak writes. Some have been outraged by publishers’ claimed allocations, “which in many cases range from 85% to 95% of the settlement proceeds for the work.”"
+                "x": "출협은 국립국어원 말뭉치 사업과 관련해 2023년 웅진북센과 체결한 합의 금액을 AI 학습용 데이터의 일반적인 가격 기준으로 삼아서는 안 된다는 입장을 밝혔다. 논란은 이 사업에서 출판저작물 1만5933종이 무단 이용된 사건에서 비롯됐으며, 손해배상 소송 항소심은 합의금액을 근거로 1심보다 배상액을 낮췄다. 사건은 대법원 상고심에 계류 중이다."
               },
               {
                 "t": "p",
-                "x": "Authors with disputed claims have been told they must “meet and confer” with their publisher, a “daunting prospect” for many who lack publisher contacts or copies of older contracts — contracts that “make no mention of AI training or class settlements.” Most authors also cannot afford an attorney, and the claims portal has been “riddled with technical problems.”"
+                "x": "국내에서는 네이버와 SK텔레콤 등이 개별 출판사와 계약을 맺고 있다. 해외에서는 앤트로픽이 저작권 집단소송에서 15억 달러(약 2조원) 규모 합의안을 마련해 도서 약 50만 종에 종당 최소 3000달러를 지급하기로 했고, 하퍼콜린스는 2024년 마이크로소프트와 종당 5000달러 조건의 AI 학습용 이용계약을 체결한 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "“It is not fair, and it is getting more unfair by piling up procedure after procedure—on the fly—and with increased hurdles for authors to surmount,” Pawlak writes, adding that the settlement “should not come at the cost of fairness to educational authors—roughly 25% of the class.”"
-              },
-              {
-                "t": "p",
-                "x": "The letter follows TAA joining the Authors Guild and other groups last month in calling on publishers to voluntarily relinquish claims on out-of-print books and use part of their payouts to pay authors excluded because their copyrights weren’t registered."
+                "x": "출협은 중간 유통업체가 한국 도서 약 30만 권을 확보해 미국으로 반출한 것으로 파악하고, 앤트로픽의 한국 도서 확보 문제에 대한 법적 대응을 검토하고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Anthropic 합의금\n교과서 저자들 반발",
-          "body": "교과서 저자들이 $1.5B Anthropic 합의 절차가 버겁다고 법원에 호소했다.",
-          "mini_headline": "Anthropic 합의에 저자 반발",
+        "en": {
+          "headline": "Publishers add AI clauses to\nstandard contracts",
+          "body": "As debate over fees for AI training data grows, the publishing industry is revising its standard contract.",
+          "mini_headline": "AI clauses in standard contracts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "분쟁이 늘자 TAA의 Kim Pawlak 사무총장은 $1.5B 규모 합의금 청구 절차에서 자원이 넉넉한 출판사와 달리 “저자들이 지는 본질적인 부담을 고려하고 인정해 달라”고 법원에 요청했다."
+                "x": "As the generative AI industry grows rapidly, debate over fair fees for using publishing data is heating up. The Korean Publishers Association plans to distribute to publishers, within this month, a standard contract with supplemented clauses on the use of data for AI training. The change adds provisions on AI training data to the existing standard contract between authors and publishers, and a legal review is under way. The aim is to prevent disputes by clarifying the scope of use of works and the rights involved in AI training."
               },
               {
                 "t": "p",
-                "x": "Pawlak은 “TAA에 연락한 청구인 대다수는 교과서(교육용) 저자로, 이들의 저작물은 합의가 일반 도서와 학술 저작물에 부여한 50-50 기본 배분의 혜택을 받지 못한다”고 썼다. 출판사가 주장한 배분 비율에 분노한 저자도 있다. 이 비율은 “많은 경우 해당 저작물 합의금의 85%에서 95%에 이른다.”"
+                "x": "The association said the settlement amount agreed with Woongjin Booxen in 2023 in connection with the National Institute of Korean Language's corpus project should not be treated as a general price benchmark for AI training data. The controversy stems from the unauthorized use of 1만5933 published works in that project; in the damages suit, the appeals court cut the award below the 1st-instance ruling, citing the settlement amount. The case is pending before the Supreme Court."
               },
               {
                 "t": "p",
-                "x": "청구에 이의가 있는 저자들은 출판사와 “만나 협의”하라는 안내를 받았다. 하지만 출판사 연락처나 오래된 계약서 사본이 없는 저자가 많아 “막막한 일”이다. 그 계약서들은 “AI 학습이나 집단 합의에 대해 아무런 언급도 없다.” 저자 대부분은 변호사를 쓸 형편도 안 되는데 청구 포털마저 “기술적 문제투성이”였다."
+                "x": "In Korea, companies such as Naver and SK Telecom are signing contracts with individual publishers. Overseas, Anthropic reached a proposed settlement worth 15억 달러 (about 2조원) in a copyright class action, agreeing to pay at least $3000 per title for about 50만 books, and HarperCollins reportedly signed an AI training license with Microsoft in 2024 at $5000 per title."
               },
               {
                 "t": "p",
-                "x": "Pawlak은 “공정하지 않으며, 즉흥적으로 절차에 절차를 쌓고 저자들이 넘어야 할 장애물을 늘리면서 점점 더 불공정해지고 있다”고 썼다. 합의가 “집단의 약 25%를 차지하는 교육용 저자들에 대한 공정성을 희생해서는 안 된다”는 말도 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "지난달 TAA는 Authors Guild 등 여러 단체와 함께 출판사들에 절판 도서 청구를 자발적으로 포기하고 저작권 미등록으로 제외된 저자들에게 배상금 일부를 나눠 달라고 촉구했다. 이번 서한은 그 연장선에서 나왔다."
+                "x": "The association has found that an intermediate distributor obtained about 30만 Korean books and took them to the United States, and it is considering legal action over Anthropic's acquisition of Korean books."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Anthropic和解に\n教科書著者が反発",
-          "body": "教科書著者が$1.5B のAnthropic和解手続きの負担を裁判所に訴えた。",
-          "mini_headline": "Anthropic和解に著者が異議",
+          "headline": "出版界、AI条項を盛り込み\n標準契約書を改訂",
+          "body": "AI学習データの利用料を巡る論争が広がり、出版界が標準契約書の見直しに乗り出した。",
+          "mini_headline": "標準契約書にAI条項",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "ロイター聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "紛争が増えるなか、TAAのKim Pawlak事務局長は、$1.5B の和解金請求手続きにおいて、資金力のある出版社と比べて「著者が負う本質的な負担を考慮し、認めてほしい」と裁判所に求めた。"
+                "x": "生成AI産業の急成長に伴い、出版データの適正な利用料を巡る論争が本格化している。大韓出版文化協会（出協）は今月中に、AI学習用データの利用に関する条項を補った標準契約書を出版社に配布する予定だ。既存の著者・出版社間の標準契約書にAI学習用データに関する内容を加えるもので、現在、法律面の検討を進めている。AI学習に伴う著作物の利用範囲と権利関係を明確にし、紛争を防ぐ狙いがある。"
               },
               {
                 "t": "p",
-                "x": "Pawlakは「TAAに連絡してきた請求者の大半は教科書(教育用)の著者であり、その著作物は、和解が一般書や学術書に認めた50-50の既定配分の恩恵を受けられない」と書いている。出版社が主張する配分に憤る著者もおり、その割合は「多くの場合、その著作物の和解金の85%から95%に及ぶ」という。"
+                "x": "出協は、国立国語院のコーパス事業に関連して2023年にウンジンブックセンと結んだ合意金額を、AI学習用データの一般的な価格基準とすべきではないとの立場を示した。論争はこの事業で出版著作物1万5933種が無断で利用された事件に端を発し、損害賠償訴訟の控訴審は合意金額を根拠に1審より賠償額を引き下げた。事件は大法院の上告審に係属中だ。"
               },
               {
                 "t": "p",
-                "x": "請求に異議がある著者は出版社と「面談し協議する」よう求められたが、出版社の連絡先や古い契約書の写しを持たない多くの著者にとって、これは「気の遠くなる見通し」だ。それらの契約書には「AI学習や集団訴訟の和解について何の記載もない」。大半の著者は弁護士を雇う余裕もなく、請求ポータルは「技術的な問題だらけ」だった。"
+                "x": "韓国国内ではNaverやSKテレコムなどが個別の出版社と契約を結んでいる。海外では、Anthropicが著作権集団訴訟で15億ドル（約2兆ウォン）規模の和解案をまとめ、書籍約50万点に1点当たり最低3000ドルを支払うことになった。HarperCollinsは2024年にMicrosoftと1点当たり5000ドルの条件でAI学習用の利用契約を結んだとされる。"
               },
               {
                 "t": "p",
-                "x": "Pawlakは「公平ではないし、その場しのぎで手続きに手続きを重ね、著者が越えるべきハードルを増やすことで、ますます不公平になっている」と書き、和解は「クラスの約25%を占める教育系著者への公平性を犠牲にしてはならない」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "この書簡に先立ち、TAAは先月、Authors Guildなどの団体とともに、絶版書籍に対する請求を出版社が自主的に放棄し、著作権未登録のため対象外となった著者への支払いに受取額の一部を充てるよう求めていた。"
+                "x": "出協は、中間流通業者が韓国の書籍約30万冊を確保して米国に持ち出したと把握しており、Anthropicによる韓国書籍の確保問題について法的対応を検討している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教科书作者抗议\nAnthropic和解流程",
-          "body": "教科书作者请求法院考量其在$1.5B Anthropic和解索赔流程中的负担。",
-          "mini_headline": "作者质疑Anthropic和解",
+          "headline": "出版界纳入AI条款\n修订标准合同",
+          "body": "随着AI训练数据使用费之争日益升温，出版界已着手修订标准合同。",
+          "mini_headline": "标准合同加入AI条款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "路透社/韩联社"
               },
               {
                 "t": "p",
-                "x": "在争议日益增多之际，TAA执行董事Kim Pawlak请求法院在$1.5B 和解索赔流程中“考虑并承认作者所承受的固有负担”，因为相比之下出版商资源更为充足。"
+                "x": "随着生成式AI产业快速增长，围绕出版数据合理使用费的争论全面展开。大韩出版文化协会（出协）计划于本月内向各出版社发放补充了AI训练数据使用条款的标准合同。此举是在现有作者与出版社之间的标准合同中增加AI训练数据相关内容，目前正在进行法律审查，旨在明确AI训练涉及的作品使用范围和权利关系，预防纠纷。"
               },
               {
                 "t": "p",
-                "x": "Pawlak写道：“联系TAA的索赔人大多是教科书（教育类）作者，他们的作品无法享受和解协议为大众图书和学术作品设定的50-50默认分配。”一些作者对出版商主张的分配比例感到愤怒，这些比例“在许多情况下占该作品和解收益的85%至95%”。"
+                "x": "出协表示，2023年就国立国语院语料库项目与Woongjin Booxen达成的和解金额，不应被当作AI训练数据的一般价格标准。争议源于该项目中1万5933种出版作品被擅自使用一事；在损害赔偿诉讼中，上诉审法院以和解金额为依据，将赔偿额判得低于1审。此案目前仍在大法院上告审中。"
               },
               {
                 "t": "p",
-                "x": "对索赔有争议的作者被告知必须与出版商“会面协商”，对于许多没有出版商联系方式或旧合同副本的作者来说，这是“令人生畏的前景”，而这些合同“根本没有提及AI训练或集体和解”。大多数作者也请不起律师，索赔门户网站更是“技术问题丛生”。"
+                "x": "在韩国国内，Naver和SK电讯等公司正与个别出版社签订合同。在海外，Anthropic在版权集体诉讼中拟定了规模达15亿美元（约2万亿韩元）的和解方案，将为约50万种图书每种支付至少3000美元；据悉，HarperCollins于2024年与Microsoft签订了每种5000美元的AI训练使用合同。"
               },
               {
                 "t": "p",
-                "x": "Pawlak写道：“这不公平，而且随着程序不断临时叠加、作者需要跨越的障碍越来越多，情况正变得更加不公平。”Pawlak还补充说，和解“不应以牺牲教育类作者的公平为代价——他们约占集体成员的25%”。"
-              },
-              {
-                "t": "p",
-                "x": "在这封信之前，TAA上个月已与Authors Guild等团体一道，呼吁出版商自愿放弃对绝版书的索赔，并拿出部分赔付款，支付给因版权未登记而被排除在外的作者。"
+                "x": "出协掌握到，一家中间分销商获取了约30万册韩国图书并将其运往美国，目前正在研究就Anthropic获取韩国图书一事采取法律措施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de libros de texto\nobjetan el acuerdo de Anthropic",
-          "body": "Autores de libros de texto piden al tribunal valorar su carga en el acuerdo de $1.5B de Anthropic.",
-          "mini_headline": "Autores critican el acuerdo de Anthropic",
+          "headline": "Las editoriales suman cláusulas\nde AI al contrato tipo",
+          "body": "Ante el debate sobre las tarifas por datos de entrenamiento de AI, el sector editorial revisa su contrato tipo.",
+          "mini_headline": "Cláusulas de AI en el contrato tipo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "En medio de un número creciente de disputas, Kim Pawlak, al frente de la dirección ejecutiva de TAA, pidió al tribunal que “considere y reconozca la carga inherente que soportan los autores” en el proceso de reclamaciones del acuerdo de $1.5B, frente a editoriales con más recursos."
+                "x": "Con el rápido crecimiento de la industria de la AI generativa, el debate sobre una tarifa adecuada por el uso de datos editoriales se ha intensificado. La Asociación de Editores de Corea planea distribuir este mes entre las editoriales un contrato tipo que complementa las cláusulas sobre el uso de datos para el entrenamiento de AI. Se trata de añadir contenidos sobre datos de entrenamiento de AI al contrato tipo vigente entre autores y editoriales, y actualmente está en revisión jurídica. El objetivo es prevenir conflictos aclarando el alcance del uso de las obras y la relación de derechos en el entrenamiento de AI."
               },
               {
                 "t": "p",
-                "x": "“La mayoría de los reclamantes que contactan con TAA son autores de libros de texto (educativos), cuyas obras no se benefician del reparto por defecto 50-50 que el acuerdo concede a las obras comerciales y académicas”, escribe Pawlak. Algunos se han indignado por las asignaciones reclamadas por las editoriales, “que en muchos casos van del 85% al 95% de lo que el acuerdo paga por la obra”."
+                "x": "La asociación afirmó que el importe del acuerdo alcanzado en 2023 con Woongjin Booxen, en relación con el proyecto de corpus del Instituto Nacional de la Lengua Coreana, no debe tomarse como referencia general de precio para los datos de entrenamiento de AI. La polémica surgió del uso no autorizado de 1만5933 obras publicadas en ese proyecto; en la demanda por daños, el tribunal de apelación redujo la indemnización respecto a la de 1.ª instancia, basándose en el importe del acuerdo. El caso está pendiente de casación ante el Tribunal Supremo."
               },
               {
                 "t": "p",
-                "x": "A los autores con reclamaciones en disputa se les ha dicho que deben “reunirse y consultar” con su editorial, una “perspectiva abrumadora” para muchos que no tienen contactos en la editorial ni copias de contratos antiguos, contratos que “no mencionan el entrenamiento de AI ni los acuerdos colectivos”. La mayoría de los autores tampoco puede pagar un abogado, y el portal de reclamaciones ha estado “plagado de problemas técnicos”."
+                "x": "En Corea, empresas como Naver y SK Telecom firman contratos con editoriales concretas. En el extranjero, Anthropic preparó un acuerdo de 15억 달러 (unos 2조원) en una demanda colectiva por derechos de autor, por el que pagará al menos 3000 dólares por título por unos 50만 libros, y se sabe que HarperCollins firmó en 2024 con Microsoft un contrato de uso para entrenamiento de AI a 5000 dólares por título."
               },
               {
                 "t": "p",
-                "x": "“No es justo, y se vuelve cada vez más injusto al acumular procedimiento tras procedimiento —sobre la marcha— y con más obstáculos que los autores deben superar”, escribe Pawlak, y añade que el acuerdo “no debe lograrse a costa de la equidad hacia los autores educativos, aproximadamente el 25% de la clase”."
-              },
-              {
-                "t": "p",
-                "x": "La carta llega después de que el mes pasado TAA se uniera al Authors Guild y a otros grupos para pedir a las editoriales que renuncien voluntariamente a sus reclamaciones sobre libros descatalogados y destinen parte de sus pagos a los autores excluidos por no tener registrados sus derechos de autor."
+                "x": "La asociación ha constatado que un distribuidor intermediario obtuvo unos 30만 libros coreanos y los sacó a Estados Unidos, y estudia emprender acciones legales por la obtención de libros coreanos por parte de Anthropic."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Anthropic 합의금\n교과서 저자들 반발",
-          "body": "교과서 저자들이 $1.5B Anthropic 합의 절차 부담을 법원에 호소했다.",
-          "mini_headline": "Anthropic 합의에 저자 반발",
+        "en": {
+          "headline": "Publishers add AI clauses to\nstandard contracts",
+          "body": "As debate over fees for AI training data grows, the publishing industry is revising its standard contract.",
+          "mini_headline": "AI clauses in standard contracts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "분쟁이 늘어나는 가운데 TAA의 Kim Pawlak 사무총장은 $1.5B 규모 합의금 청구 절차에서 자원이 더 넉넉한 출판사와 비교해 “저자들이 지는 본질적인 부담을 고려하고 인정해 달라”고 법원에 요청했다."
+                "x": "As the generative AI industry grows rapidly, debate over fair fees for using publishing data is heating up. The Korean Publishers Association plans to distribute to publishers, within this month, a standard contract with supplemented clauses on the use of data for AI training. The change adds provisions on AI training data to the existing standard contract between authors and publishers, and a legal review is under way. The aim is to prevent disputes by clarifying the scope of use of works and the rights involved in AI training."
               },
               {
                 "t": "p",
-                "x": "Pawlak은 “TAA에 연락한 청구인 대다수는 교과서(교육용) 저자로, 이들의 저작물은 합의가 일반 도서와 학술 저작물에 부여한 50-50 기본 배분의 혜택을 받지 못한다”고 썼다. 일부 저자는 출판사가 주장한 배분 비율에 분노했는데, 그 비율은 “많은 경우 해당 저작물 합의금의 85%에서 95%에 이른다.”"
+                "x": "The association said the settlement amount agreed with Woongjin Booxen in 2023 in connection with the National Institute of Korean Language's corpus project should not be treated as a general price benchmark for AI training data. The controversy stems from the unauthorized use of 1만5933 published works in that project; in the damages suit, the appeals court cut the award below the 1st-instance ruling, citing the settlement amount. The case is pending before the Supreme Court."
               },
               {
                 "t": "p",
-                "x": "청구에 이의가 있는 저자들은 출판사와 “만나 협의”해야 한다는 안내를 받았다. 출판사 연락처나 오래된 계약서 사본이 없는 저자가 많아 이는 “막막한 일”이다. 그 계약서들은 “AI 학습이나 집단 합의에 대해 아무런 언급도 없다.” 대부분의 저자는 변호사를 선임할 여력도 없고, 청구 포털은 “기술적 문제투성이”였다."
+                "x": "In Korea, companies such as Naver and SK Telecom are signing contracts with individual publishers. Overseas, Anthropic reached a proposed settlement worth 15억 달러 (about 2조원) in a copyright class action, agreeing to pay at least $3000 per title for about 50만 books, and HarperCollins reportedly signed an AI training license with Microsoft in 2024 at $5000 per title."
               },
               {
                 "t": "p",
-                "x": "Pawlak은 “공정하지 않으며, 즉흥적으로 절차에 절차를 쌓고 저자들이 넘어야 할 장애물을 늘리면서 점점 더 불공정해지고 있다”고 썼다. 이어 합의가 “집단의 약 25%를 차지하는 교육용 저자들에 대한 공정성을 희생해서는 안 된다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "이번 서한은 지난달 TAA가 Authors Guild 등 여러 단체와 함께 출판사들에 절판 도서에 대한 청구를 자발적으로 포기하고, 저작권 미등록으로 제외된 저자들에게 배상금 일부를 나눠 달라고 촉구한 데 이어 나왔다."
+                "x": "The association has found that an intermediate distributor obtained about 30만 Korean books and took them to the United States, and it is considering legal action over Anthropic's acquisition of Korean books."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Anthropic和解に\n教科書著者が反発",
-          "body": "教科書著者が$1.5B のAnthropic和解手続きの負担を裁判所に訴えた。",
-          "mini_headline": "Anthropic和解に著者が異議",
+          "headline": "出版界、AI条項を盛り込み\n標準契約書を改訂",
+          "body": "AI学習データの利用料を巡る論争が広がり、出版界が標準契約書の見直しに乗り出した。",
+          "mini_headline": "標準契約書にAI条項",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "ロイター聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "紛争が増えるなか、TAAのKim Pawlak事務局長は、$1.5B の和解金請求手続きにおいて、資金力のある出版社と比べて「著者が負う本質的な負担を考慮し、認めてほしい」と裁判所に求めた。"
+                "x": "生成AI産業の急成長に伴い、出版データの適正な利用料を巡る論争が本格化している。大韓出版文化協会（出協）は今月中に、AI学習用データの利用に関する条項を補った標準契約書を出版社に配布する予定だ。既存の著者・出版社間の標準契約書にAI学習用データに関する内容を加えるもので、現在、法律面の検討を進めている。AI学習に伴う著作物の利用範囲と権利関係を明確にし、紛争を防ぐ狙いがある。"
               },
               {
                 "t": "p",
-                "x": "Pawlakは「TAAに連絡してきた請求者の大半は教科書(教育用)の著者であり、その著作物は、和解が一般書や学術書に認めた50-50の既定配分の恩恵を受けられない」と書いている。出版社が主張する配分に憤る著者もおり、その割合は「多くの場合、その著作物の和解金の85%から95%に及ぶ」という。"
+                "x": "出協は、国立国語院のコーパス事業に関連して2023年にウンジンブックセンと結んだ合意金額を、AI学習用データの一般的な価格基準とすべきではないとの立場を示した。論争はこの事業で出版著作物1万5933種が無断で利用された事件に端を発し、損害賠償訴訟の控訴審は合意金額を根拠に1審より賠償額を引き下げた。事件は大法院の上告審に係属中だ。"
               },
               {
                 "t": "p",
-                "x": "請求に異議がある著者は出版社と「面談し協議する」よう求められたが、出版社の連絡先や古い契約書の写しを持たない多くの著者にとって、これは「気の遠くなる見通し」だ。それらの契約書には「AI学習や集団訴訟の和解について何の記載もない」。大半の著者は弁護士を雇う余裕もなく、請求ポータルは「技術的な問題だらけ」だった。"
+                "x": "韓国国内ではNaverやSKテレコムなどが個別の出版社と契約を結んでいる。海外では、Anthropicが著作権集団訴訟で15億ドル（約2兆ウォン）規模の和解案をまとめ、書籍約50万点に1点当たり最低3000ドルを支払うことになった。HarperCollinsは2024年にMicrosoftと1点当たり5000ドルの条件でAI学習用の利用契約を結んだとされる。"
               },
               {
                 "t": "p",
-                "x": "Pawlakは「公平ではないし、その場しのぎで手続きに手続きを重ね、著者が越えるべきハードルを増やすことで、ますます不公平になっている」と書き、和解は「クラスの約25%を占める教育系著者への公平性を犠牲にしてはならない」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "この書簡に先立ち、TAAは先月、Authors Guildなどの団体とともに、絶版書籍に対する請求を出版社が自主的に放棄し、著作権未登録のため対象外となった著者への支払いに受取額の一部を充てるよう求めていた。"
+                "x": "出協は、中間流通業者が韓国の書籍約30万冊を確保して米国に持ち出したと把握しており、Anthropicによる韓国書籍の確保問題について法的対応を検討している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教科书作者抗议\nAnthropic和解流程",
-          "body": "教科书作者请求法院考量其在$1.5B Anthropic和解索赔流程中的负担。",
-          "mini_headline": "作者质疑Anthropic和解",
+          "headline": "出版界纳入AI条款\n修订标准合同",
+          "body": "随着AI训练数据使用费之争日益升温，出版界已着手修订标准合同。",
+          "mini_headline": "标准合同加入AI条款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "路透社/韩联社"
               },
               {
                 "t": "p",
-                "x": "在争议日益增多之际，TAA执行董事Kim Pawlak请求法院在$1.5B 和解索赔流程中“考虑并承认作者所承受的固有负担”，因为相比之下出版商资源更为充足。"
+                "x": "随着生成式AI产业快速增长，围绕出版数据合理使用费的争论全面展开。大韩出版文化协会（出协）计划于本月内向各出版社发放补充了AI训练数据使用条款的标准合同。此举是在现有作者与出版社之间的标准合同中增加AI训练数据相关内容，目前正在进行法律审查，旨在明确AI训练涉及的作品使用范围和权利关系，预防纠纷。"
               },
               {
                 "t": "p",
-                "x": "Pawlak写道：“联系TAA的索赔人大多是教科书（教育类）作者，他们的作品无法享受和解协议为大众图书和学术作品设定的50-50默认分配。”一些作者对出版商主张的分配比例感到愤怒，这些比例“在许多情况下占该作品和解收益的85%至95%”。"
+                "x": "出协表示，2023年就国立国语院语料库项目与Woongjin Booxen达成的和解金额，不应被当作AI训练数据的一般价格标准。争议源于该项目中1万5933种出版作品被擅自使用一事；在损害赔偿诉讼中，上诉审法院以和解金额为依据，将赔偿额判得低于1审。此案目前仍在大法院上告审中。"
               },
               {
                 "t": "p",
-                "x": "对索赔有争议的作者被告知必须与出版商“会面协商”，对于许多没有出版商联系方式或旧合同副本的作者来说，这是“令人生畏的前景”，而这些合同“根本没有提及AI训练或集体和解”。大多数作者也请不起律师，索赔门户网站更是“技术问题丛生”。"
+                "x": "在韩国国内，Naver和SK电讯等公司正与个别出版社签订合同。在海外，Anthropic在版权集体诉讼中拟定了规模达15亿美元（约2万亿韩元）的和解方案，将为约50万种图书每种支付至少3000美元；据悉，HarperCollins于2024年与Microsoft签订了每种5000美元的AI训练使用合同。"
               },
               {
                 "t": "p",
-                "x": "Pawlak写道：“这不公平，而且随着程序不断临时叠加、作者需要跨越的障碍越来越多，情况正变得更加不公平。”Pawlak还补充说，和解“不应以牺牲教育类作者的公平为代价——他们约占集体成员的25%”。"
-              },
-              {
-                "t": "p",
-                "x": "在这封信之前，TAA上个月已与Authors Guild等团体一道，呼吁出版商自愿放弃对绝版书的索赔，并拿出部分赔付款，支付给因版权未登记而被排除在外的作者。"
+                "x": "出协掌握到，一家中间分销商获取了约30万册韩国图书并将其运往美国，目前正在研究就Anthropic获取韩国图书一事采取法律措施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de libros de texto\nobjetan el acuerdo de Anthropic",
-          "body": "Autores de libros de texto piden al tribunal valorar su carga en el acuerdo de $1.5B de Anthropic.",
-          "mini_headline": "Autores critican el acuerdo de Anthropic",
+          "headline": "Las editoriales suman cláusulas\nde AI al contrato tipo",
+          "body": "Ante el debate sobre las tarifas por datos de entrenamiento de AI, el sector editorial revisa su contrato tipo.",
+          "mini_headline": "Cláusulas de AI en el contrato tipo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.50.49-PM.png"
+                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "En medio de un número creciente de disputas, Kim Pawlak, al frente de la dirección ejecutiva de TAA, pidió al tribunal que “considere y reconozca la carga inherente que soportan los autores” en el proceso de reclamaciones del acuerdo de $1.5B, frente a editoriales con más recursos."
+                "x": "Con el rápido crecimiento de la industria de la AI generativa, el debate sobre una tarifa adecuada por el uso de datos editoriales se ha intensificado. La Asociación de Editores de Corea planea distribuir este mes entre las editoriales un contrato tipo que complementa las cláusulas sobre el uso de datos para el entrenamiento de AI. Se trata de añadir contenidos sobre datos de entrenamiento de AI al contrato tipo vigente entre autores y editoriales, y actualmente está en revisión jurídica. El objetivo es prevenir conflictos aclarando el alcance del uso de las obras y la relación de derechos en el entrenamiento de AI."
               },
               {
                 "t": "p",
-                "x": "“La mayoría de los reclamantes que contactan con TAA son autores de libros de texto (educativos), cuyas obras no se benefician del reparto por defecto 50-50 que el acuerdo concede a las obras comerciales y académicas”, escribe Pawlak. Algunos se han indignado por las asignaciones reclamadas por las editoriales, “que en muchos casos van del 85% al 95% de lo que el acuerdo paga por la obra”."
+                "x": "La asociación afirmó que el importe del acuerdo alcanzado en 2023 con Woongjin Booxen, en relación con el proyecto de corpus del Instituto Nacional de la Lengua Coreana, no debe tomarse como referencia general de precio para los datos de entrenamiento de AI. La polémica surgió del uso no autorizado de 1만5933 obras publicadas en ese proyecto; en la demanda por daños, el tribunal de apelación redujo la indemnización respecto a la de 1.ª instancia, basándose en el importe del acuerdo. El caso está pendiente de casación ante el Tribunal Supremo."
               },
               {
                 "t": "p",
-                "x": "A los autores con reclamaciones en disputa se les ha dicho que deben “reunirse y consultar” con su editorial, una “perspectiva abrumadora” para muchos que no tienen contactos en la editorial ni copias de contratos antiguos, contratos que “no mencionan el entrenamiento de AI ni los acuerdos colectivos”. La mayoría de los autores tampoco puede pagar un abogado, y el portal de reclamaciones ha estado “plagado de problemas técnicos”."
+                "x": "En Corea, empresas como Naver y SK Telecom firman contratos con editoriales concretas. En el extranjero, Anthropic preparó un acuerdo de 15억 달러 (unos 2조원) en una demanda colectiva por derechos de autor, por el que pagará al menos 3000 dólares por título por unos 50만 libros, y se sabe que HarperCollins firmó en 2024 con Microsoft un contrato de uso para entrenamiento de AI a 5000 dólares por título."
               },
               {
                 "t": "p",
-                "x": "“No es justo, y se vuelve cada vez más injusto al acumular procedimiento tras procedimiento —sobre la marcha— y con más obstáculos que los autores deben superar”, escribe Pawlak, y añade que el acuerdo “no debe lograrse a costa de la equidad hacia los autores educativos, aproximadamente el 25% de la clase”."
-              },
-              {
-                "t": "p",
-                "x": "La carta llega después de que el mes pasado TAA se uniera al Authors Guild y a otros grupos para pedir a las editoriales que renuncien voluntariamente a sus reclamaciones sobre libros descatalogados y destinen parte de sus pagos a los autores excluidos por no tener registrados sus derechos de autor."
+                "x": "La asociación ha constatado que un distribuidor intermediario obtuvo unos 30만 libros coreanos y los sacó a Estados Unidos, y estudia emprender acciones legales por la obtención de libros coreanos por parte de Anthropic."
               }
             ]
           }
@@ -677,1065 +647,925 @@
       }
     },
     {
-      "id": "gemini-notebook-textbooks",
+      "id": "npr-pangram-false-flags",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "교재 수백권, Gemini\nNotebook에 추가",
-      "body": "Gemini Notebook에 OpenStax 교재를 넣어 학습 가이드를 만든다.",
-      "mini_headline": "Gemini Notebook에 교재 추가",
+      "headline": "AI로 판정된 작가들\n탐지기는 뭘 봤나",
+      "body": "편집자들이 불완전한 AI 탐지기로 원고를 거르자 잘못 걸린 작가들은 영문을 모른다.",
+      "mini_headline": "AI 판정, 그다음은",
       "tool": "Books",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
       "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-          },
-          {
-            "t": "p",
-            "x": "지난달 Google은 cross-Google 이니셔티브 Expert Intelligence를 선보였다. Google AI 제품에서 믿을 만한 출처를 쓰도록 돕는 프로젝트다. Google Play Books에서 이미 산 전자책 일부를 넣을 수 있었는데, 오늘부터는 학생들이 수업 자료도 손쉽게 추가하도록 범위를 넓힌다."
-          },
-          {
-            "t": "p",
-            "x": "학생들은 이제 OpenStax, Open Textbook Library, S Chand Publishing 등 U.S.(미국)와 인도 제공사의 교재 수백 권을 Gemini Notebook에서 무료로 쓸 수 있다. 교재를 추가하면 답변은 모두 그 교재에 근거하고 본문 인용과 원문 바로가기 링크가 따라붙는다. Gemini Notebook은 교재 내용을 맞춤형 학습 가이드나 연습 퀴즈, 플래시카드로 바꿔 주기도 한다."
-          },
-          {
-            "t": "p",
-            "x": "교재를 둘러보고 추가하려면 노트북에서 “Add sources”(소스 추가)를 누른 뒤 “Textbooks”(교재)를 골라 목록을 확인하면 된다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Gemini Notebook adds\nhundreds of textbooks",
-          "body": "Students can now add OpenStax and S Chand textbooks to Gemini Notebook and generate custom study guides and quizzes.",
-          "mini_headline": "Gemini Notebook adds textbooks",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses."
-              },
-              {
-                "t": "p",
-                "x": "Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more."
-              },
-              {
-                "t": "p",
-                "x": "To explore and add these textbooks, select “Add sources” within your notebook and select “Textbooks” to see the available catalog."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "교재 수백권, Gemini\nNotebook에 추가",
-          "body": "Gemini Notebook에 OpenStax 교재를 넣어 학습 가이드를 만든다.",
-          "mini_headline": "Gemini Notebook에 교재 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "지난달 Google은 cross-Google 이니셔티브 Expert Intelligence를 선보였다. Google AI 제품에서 믿을 만한 출처를 쓰도록 돕는 프로젝트다. Google Play Books에서 이미 산 전자책 일부를 넣을 수 있었는데, 오늘부터는 학생들이 수업 자료도 손쉽게 추가하도록 범위를 넓힌다."
-              },
-              {
-                "t": "p",
-                "x": "학생들은 이제 OpenStax, Open Textbook Library, S Chand Publishing 등 U.S.(미국)와 인도 제공사의 교재 수백 권을 Gemini Notebook에서 무료로 쓸 수 있다. 교재를 추가하면 답변은 모두 그 교재에 근거하고 본문 인용과 원문 바로가기 링크가 따라붙는다. Gemini Notebook은 교재 내용을 맞춤형 학습 가이드나 연습 퀴즈, 플래시카드로 바꿔 주기도 한다."
-              },
-              {
-                "t": "p",
-                "x": "교재를 둘러보고 추가하려면 노트북에서 “Add sources”(소스 추가)를 누른 뒤 “Textbooks”(교재)를 골라 목록을 확인하면 된다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "教科書数百冊、Gemini\nNotebookに追加",
-          "body": "OpenStaxの教科書をGemini Notebookに加え、クイズを作れる。",
-          "mini_headline": "Gemini Notebookに教科書を追加",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "先月、Google AI製品を通じて信頼できる情報源を活用できるようにするcross-Googleの取り組み、Expert Intelligenceを発表した。Google Play Booksで購入した対象の電子書籍はすでに追加できるが、今日からこの体験を広げ、学生が授業の教材を簡単に追加できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "学生は、OpenStax、Open Textbook Library、S Chand PublishingなどU.S.（米国）とインドの提供元による数百冊の教科書に、Gemini Notebook上で無料でアクセスできるようになった。教科書を追加すると、すべての回答がその教科書に直接基づき、本文中の引用と元の情報源への直接リンクが付く。Gemini Notebookでは、教科書の内容を個別の学習ガイドや練習クイズ、フラッシュカードなどに変換することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "これらの教科書を探して追加するには、ノートブック内で「Add sources」（ソースを追加）を選び、「Textbooks」（教科書）を選択すると利用可能なカタログが表示される。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "数百本教科书登陆Gemini\nNotebook",
-          "body": "学生可将OpenStax教材加入Gemini Notebook并生成测验。",
-          "mini_headline": "Gemini Notebook新增教科书",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "上个月，我们推出了Expert Intelligence，这是一项cross-Google计划，帮助你通过Google AI产品使用自己信任的信息来源。此前你已可以添加在Google Play Books购买的符合条件的电子书，今天我们扩展这一体验，让学生能够轻松添加课程资料。"
-              },
-              {
-                "t": "p",
-                "x": "学生现在可以直接在Gemini Notebook中免费使用来自U.S.（美国）和印度提供方的数百本教科书，包括OpenStax、Open Textbook Library和S Chand Publishing。添加教科书后，每个回答都直接以该教科书为依据，并附有行内引用和指向原始来源的直接链接。Gemini Notebook还能将教科书内容转化为定制的学习指南、练习测验、抽认卡等。"
-              },
-              {
-                "t": "p",
-                "x": "要浏览并添加这些教科书，请在笔记本中选择“Add sources”（添加来源），再选择“Textbooks”（教科书），即可查看可用目录。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Gemini Notebook suma\ncientos de libros de texto",
-          "body": "Los estudiantes ya pueden añadir libros de OpenStax y S Chand a Gemini Notebook y crear guías y cuestionarios.",
-          "mini_headline": "Gemini Notebook suma libros de texto",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "El mes pasado presentamos Expert Intelligence, una iniciativa cross-Google que te ayuda a trabajar con tus fuentes de confianza a través de los productos de Google AI. Aunque ya puedes añadir libros electrónicos elegibles comprados en Google Play Books, hoy ampliamos esa experiencia para que los estudiantes puedan añadir con facilidad los materiales de sus cursos."
-              },
-              {
-                "t": "p",
-                "x": "Los estudiantes ya pueden acceder sin coste, directamente en Gemini Notebook, a cientos de libros de texto de proveedores de U.S. (Estados Unidos) e India, entre ellos OpenStax, Open Textbook Library y S Chand Publishing. Una vez añadido un libro de texto, cada respuesta se basa directamente en él, con citas en línea y enlaces directos a la fuente original. Gemini Notebook también permite transformar el contenido del libro en guías de estudio personalizadas, cuestionarios de práctica, tarjetas de memoria y más."
-              },
-              {
-                "t": "p",
-                "x": "Para explorar y añadir estos libros de texto, selecciona “Add sources” (Añadir fuentes) en tu cuaderno y luego “Textbooks” (Libros de texto) para ver el catálogo disponible."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "교재 수백권, Gemini\nNotebook에 추가",
-          "body": "Gemini Notebook에 OpenStax 교재를 넣어 학습 가이드를 만든다.",
-          "mini_headline": "Gemini Notebook에 교재 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "지난달 Google은 Google AI 제품을 통해 신뢰할 수 있는 출처를 활용하도록 돕는 cross-Google 이니셔티브인 Expert Intelligence를 선보였다. 이미 Google Play Books에서 구매한 일부 전자책을 추가할 수 있으며, 오늘부터는 학생들이 수업 자료를 손쉽게 추가할 수 있도록 이 경험을 넓힌다."
-              },
-              {
-                "t": "p",
-                "x": "이제 학생들은 OpenStax, Open Textbook Library, S Chand Publishing 등 U.S.(미국)와 인도 제공사의 교재 수백 권을 Gemini Notebook 안에서 무료로 이용할 수 있다. 교재를 추가하면 모든 답변이 해당 교재에 직접 근거하며, 본문 인용과 원문으로 바로 가는 링크가 함께 붙는다. Gemini Notebook은 교재 내용을 맞춤형 학습 가이드, 연습 퀴즈, 플래시카드 등으로 바꿔 주기도 한다."
-              },
-              {
-                "t": "p",
-                "x": "교재를 둘러보고 추가하려면 노트북에서 “Add sources”(소스 추가)를 고른 뒤 “Textbooks”(교재)를 선택해 이용 가능한 목록을 보면 된다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "教科書数百冊、Gemini\nNotebookに追加",
-          "body": "OpenStaxの教科書をGemini Notebookに加え、クイズを作れる。",
-          "mini_headline": "Gemini Notebookに教科書を追加",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "先月、Google AI製品を通じて信頼できる情報源を活用できるようにするcross-Googleの取り組み、Expert Intelligenceを発表した。Google Play Booksで購入した対象の電子書籍はすでに追加できるが、今日からこの体験を広げ、学生が授業の教材を簡単に追加できるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "学生は、OpenStax、Open Textbook Library、S Chand PublishingなどU.S.（米国）とインドの提供元による数百冊の教科書に、Gemini Notebook上で無料でアクセスできるようになった。教科書を追加すると、すべての回答がその教科書に直接基づき、本文中の引用と元の情報源への直接リンクが付く。Gemini Notebookでは、教科書の内容を個別の学習ガイドや練習クイズ、フラッシュカードなどに変換することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "これらの教科書を探して追加するには、ノートブック内で「Add sources」（ソースを追加）を選び、「Textbooks」（教科書）を選択すると利用可能なカタログが表示される。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "数百本教科书登陆Gemini\nNotebook",
-          "body": "学生可将OpenStax教材加入Gemini Notebook并生成测验。",
-          "mini_headline": "Gemini Notebook新增教科书",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "上个月，我们推出了Expert Intelligence，这是一项cross-Google计划，帮助你通过Google AI产品使用自己信任的信息来源。此前你已可以添加在Google Play Books购买的符合条件的电子书，今天我们扩展这一体验，让学生能够轻松添加课程资料。"
-              },
-              {
-                "t": "p",
-                "x": "学生现在可以直接在Gemini Notebook中免费使用来自U.S.（美国）和印度提供方的数百本教科书，包括OpenStax、Open Textbook Library和S Chand Publishing。添加教科书后，每个回答都直接以该教科书为依据，并附有行内引用和指向原始来源的直接链接。Gemini Notebook还能将教科书内容转化为定制的学习指南、练习测验、抽认卡等。"
-              },
-              {
-                "t": "p",
-                "x": "要浏览并添加这些教科书，请在笔记本中选择“Add sources”（添加来源），再选择“Textbooks”（教科书），即可查看可用目录。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Gemini Notebook suma\ncientos de libros de texto",
-          "body": "Los estudiantes ya pueden añadir libros de OpenStax y S Chand a Gemini Notebook y crear guías y cuestionarios.",
-          "mini_headline": "Gemini Notebook suma libros de texto",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-1440x810.png"
-              },
-              {
-                "t": "p",
-                "x": "El mes pasado presentamos Expert Intelligence, una iniciativa cross-Google que te ayuda a trabajar con tus fuentes de confianza a través de los productos de Google AI. Aunque ya puedes añadir libros electrónicos elegibles comprados en Google Play Books, hoy ampliamos esa experiencia para que los estudiantes puedan añadir con facilidad los materiales de sus cursos."
-              },
-              {
-                "t": "p",
-                "x": "Los estudiantes ya pueden acceder sin coste, directamente en Gemini Notebook, a cientos de libros de texto de proveedores de U.S. (Estados Unidos) e India, entre ellos OpenStax, Open Textbook Library y S Chand Publishing. Una vez añadido un libro de texto, cada respuesta se basa directamente en él, con citas en línea y enlaces directos a la fuente original. Gemini Notebook también permite transformar el contenido del libro en guías de estudio personalizadas, cuestionarios de práctica, tarjetas de memoria y más."
-              },
-              {
-                "t": "p",
-                "x": "Para explorar y añadir estos libros de texto, selecciona “Add sources” (Añadir fuentes) en tu cuaderno y luego “Textbooks” (Libros de texto) para ver el catálogo disponible."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Gemini_Notebook_EI_Textbook_Walkthrough.mp4"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "china-ai-shrimp-recall",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 그린 머리 둘 새우\n중국서 도서 리콜",
-      "body": "중국농업출판사가 AI-drawn 머리 둘 새우 삽화가 실린 해양 시리즈를 리콜한다.",
-      "mini_headline": "AI 새우 오류로 리콜",
-      "tool": "Books",
-      "source": "Global Times",
-      "url": "https://www.globaltimes.cn/page/202610/1373304.shtml",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-            "cap": "“머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물"
-          },
-          {
-            "t": "p",
-            "x": "남중국해 해양 생물을 다룬 대중 과학 도서 시리즈에 “머리 둘 달린 새우” 오류 이미지가 실렸다는 소셜미디어 게시물이 화제가 됐다. 화요일 언론 보도에 따르면 중국농업출판사(China Agricultural Publishing House) 직원은 출판사도 문제를 파악했으며 온라인 플랫폼 판매처에 판매 중단과 이미 유통된 책의 회수를 알리는 중이라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "중국 소셜미디어 플랫폼 Sina Weibo에서 일부 독자는 자기가 산 책 서문에 삽화 대부분을 AI 도구로 만들었다고 적혀 있다고 짚었다."
-          },
-          {
-            "t": "p",
-            "x": "한 독자가 찾아낸 “머리 둘 달린 새우” 오류 이미지는 Penaeus monodon 또는 Giant tiger prawn이라는 제목으로 시리즈 표지와 본문 면에 모두 실려 있었다."
-          },
-          {
-            "t": "p",
-            "x": "삽화를 두고 “AI를 쓰면 안 된다는 게 아니라, 적어도 기본 규칙은 지켜야 하지 않느냐”고 되묻는 독자도 있었다."
-          },
-          {
-            "t": "p",
-            "x": "10월 27일 언론 보도에 따르면 중국농업출판사 직원은 출판사가 상황을 알고 있다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "출판사 독자 서비스 핫라인 담당자도 온라인 소매 플랫폼에 해당 도서 판매 중단과 회수를 통보하는 중이라고 전했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI two-headed shrimp\nprompts book recall in China",
-          "body": "China Agricultural Publishing House is recalling a sea-life series after readers found an AI-drawn two-headed shrimp.",
-          "mini_headline": "AI shrimp error sparks recall",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "A social media post pointing out an erroneous image of a \"two-headed shrimp\""
-              },
-              {
-                "t": "p",
-                "x": "A social media post pointing out an erroneous image of a \"two-headed shrimp\" in a popular science book series on South China Sea marine life has drawn public attention. A staff member at the China Agricultural Publishing House was quoted as saying in media reports on Tuesday that the publisher was aware of the issue and was notifying sellers across online platforms to remove the books from sale and recall copies already distributed."
-              },
-              {
-                "t": "p",
-                "x": "Some readers on China's social media platform Sina Weibo pointed out that the books they purchased contain a preface explicitly stating that the vast majority of the illustrations were generated using AI tools."
-              },
-              {
-                "t": "p",
-                "x": "A reader noticed an erroneous image of a \"two-headed shrimp\" in the series, appearing both on the cover and an inside page, titled Penaeus monodon or Giant tiger prawn."
-              },
-              {
-                "t": "p",
-                "x": "Some readers questioned the illustrations, saying that \"it's not that AI can't be utilized, but surely some basic rules should be followed, right?\""
-              },
-              {
-                "t": "p",
-                "x": "On October 27, a staff member at China Agricultural Publishing House was quoted as saying in the media reports that the publisher was aware of the situation."
-              },
-              {
-                "t": "p",
-                "x": "A representative from the publisher's reader service hotline said the publisher was notifying online retail platforms to remove the books in question from sale and arrange for their recall."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI가 그린 머리 둘 새우\n중국서 도서 리콜",
-          "body": "중국농업출판사가 AI-drawn 머리 둘 새우 삽화가 실린 해양 시리즈를 리콜한다.",
-          "mini_headline": "AI 새우 오류로 리콜",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "“머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물"
-              },
-              {
-                "t": "p",
-                "x": "남중국해 해양 생물을 다룬 대중 과학 도서 시리즈에 “머리 둘 달린 새우” 오류 이미지가 실렸다는 소셜미디어 게시물이 화제가 됐다. 화요일 언론 보도에 따르면 중국농업출판사(China Agricultural Publishing House) 직원은 출판사도 문제를 파악했으며 온라인 플랫폼 판매처에 판매 중단과 이미 유통된 책의 회수를 알리는 중이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "중국 소셜미디어 플랫폼 Sina Weibo에서 일부 독자는 자기가 산 책 서문에 삽화 대부분을 AI 도구로 만들었다고 적혀 있다고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "한 독자가 찾아낸 “머리 둘 달린 새우” 오류 이미지는 Penaeus monodon 또는 Giant tiger prawn이라는 제목으로 시리즈 표지와 본문 면에 모두 실려 있었다."
-              },
-              {
-                "t": "p",
-                "x": "삽화를 두고 “AI를 쓰면 안 된다는 게 아니라, 적어도 기본 규칙은 지켜야 하지 않느냐”고 되묻는 독자도 있었다."
-              },
-              {
-                "t": "p",
-                "x": "10월 27일 언론 보도에 따르면 중국농업출판사 직원은 출판사가 상황을 알고 있다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "출판사 독자 서비스 핫라인 담당자도 온라인 소매 플랫폼에 해당 도서 판매 중단과 회수를 통보하는 중이라고 전했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI描画の双頭エビで\n中国の出版社が回収",
-          "body": "中国農業出版社が、AI-drawnの双頭エビが見つかった海洋生物シリーズを回収している。",
-          "mini_headline": "AIのエビの誤りで回収",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "「双頭のエビ」の誤った画像を指摘するSNS投稿"
-              },
-              {
-                "t": "p",
-                "x": "南シナ海の海洋生物を扱った人気科学書シリーズに「双頭のエビ」の誤った画像があると指摘するSNS投稿が、世間の注目を集めた。火曜日のメディア報道によると、中国農業出版社(China Agricultural Publishing House)の職員は、出版社がこの問題を把握しており、オンラインプラットフォーム上の販売業者に販売停止と流通済みの本の回収を通知していると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "中国のSNS「Sina Weibo」では、購入した本の序文に、イラストの大半がAIツールで生成されたと明記されていると指摘する読者もいた。"
-              },
-              {
-                "t": "p",
-                "x": "ある読者は、シリーズの表紙と本文ページの両方に掲載された、Penaeus monodon、すなわちGiant tiger prawnと題された「双頭のエビ」の誤った画像に気づいた。"
-              },
-              {
-                "t": "p",
-                "x": "イラストに疑問を呈し「AIを使ってはいけないというわけではないが、最低限の基本的なルールは守るべきではないか」と述べる読者もいた。"
-              },
-              {
-                "t": "p",
-                "x": "10月27日、メディア報道によると、中国農業出版社の職員は出版社が状況を把握していると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "出版社の読者サービスホットラインの担当者は、出版社がオンライン小売プラットフォームに対し、問題の本の販売停止と回収の手配を通知していると述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI画出双头虾\n中国出版社召回图书",
-          "body": "读者发现AI-drawn的双头虾后，中国农业出版社召回一套海洋生物丛书。",
-          "mini_headline": "AI虾图出错引发召回",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "一则指出“双头虾”错误图片的社交媒体帖子"
-              },
-              {
-                "t": "p",
-                "x": "一则社交媒体帖子指出，一套介绍南海海洋生物的科普丛书中出现了一张“双头虾”的错误图片，引发公众关注。据媒体周二报道，中国农业出版社一名工作人员表示，出版社已知悉此事，正在通知各网络平台的销售商下架这些图书，并召回已发行的图书。"
-              },
-              {
-                "t": "p",
-                "x": "一些读者在中国社交媒体平台Sina Weibo上指出，他们购买的图书序言中明确写明，绝大多数插图是用AI工具生成的。"
-              },
-              {
-                "t": "p",
-                "x": "一位读者注意到，该丛书的封面和内页都出现了一张标题为Penaeus monodon（Giant tiger prawn）的“双头虾”错误图片。"
-              },
-              {
-                "t": "p",
-                "x": "一些读者对插图提出质疑，称“不是不能用AI，但总该遵守一些基本规则吧？”"
-              },
-              {
-                "t": "p",
-                "x": "据媒体报道，10月27日，中国农业出版社一名工作人员表示，出版社已知悉此情况。"
-              },
-              {
-                "t": "p",
-                "x": "该出版社读者服务热线的一名代表表示，出版社正在通知网络零售平台将涉事图书下架并安排召回。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Camarón de dos cabezas por AI:\nretiran libros en China",
-          "body": "China Agricultural Publishing House retira una serie de vida marina por un camarón AI-drawn de dos cabezas.",
-          "mini_headline": "Un error de AI provoca una retirada",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "Una publicación en redes sociales que señala la imagen errónea de un \"camarón de dos cabezas\""
-              },
-              {
-                "t": "p",
-                "x": "Una publicación en redes sociales que señalaba la imagen errónea de un \"camarón de dos cabezas\" en una popular serie de libros de divulgación científica sobre la vida marina del mar de la China Meridional ha llamado la atención del público. Según informaciones de medios del martes, un empleado de China Agricultural Publishing House afirmó que la editorial conocía el problema y estaba notificando a los vendedores de las plataformas en línea para retirar los libros de la venta y recuperar los ejemplares ya distribuidos."
-              },
-              {
-                "t": "p",
-                "x": "Algunos lectores en la red social china Sina Weibo señalaron que los libros que compraron incluyen un prefacio que indica de forma explícita que la gran mayoría de las ilustraciones se generaron con herramientas de AI."
-              },
-              {
-                "t": "p",
-                "x": "Un lector detectó en la serie la imagen errónea de un \"camarón de dos cabezas\", que aparece tanto en la portada como en una página interior, titulada Penaeus monodon o Giant tiger prawn."
-              },
-              {
-                "t": "p",
-                "x": "Algunos lectores cuestionaron las ilustraciones: \"no es que no se pueda usar AI, pero sin duda habría que seguir algunas reglas básicas, ¿no?\""
-              },
-              {
-                "t": "p",
-                "x": "El 27 de octubre, según los medios, un empleado de China Agricultural Publishing House indicó que la editorial estaba al tanto de la situación."
-              },
-              {
-                "t": "p",
-                "x": "Un representante de la línea de atención al lector de la editorial dijo que estaban notificando a las plataformas de venta en línea para retirar de la venta los libros afectados y organizar su recuperación."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI가 그린 머리 둘 새우\n중국서 도서 리콜",
-          "body": "중국농업출판사가 AI-drawn 머리 둘 새우가 실린 해양 시리즈를 리콜한다.",
-          "mini_headline": "AI 새우 오류로 리콜",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "“머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물"
-              },
-              {
-                "t": "p",
-                "x": "남중국해 해양 생물을 다룬 대중 과학 도서 시리즈에 실린 “머리 둘 달린 새우” 오류 이미지를 지적한 소셜미디어 게시물이 대중의 관심을 끌었다. 화요일 언론 보도에 따르면 중국농업출판사(China Agricultural Publishing House) 직원은 출판사가 문제를 알고 있으며, 온라인 플랫폼 판매처에 판매 중단과 이미 유통된 책의 회수를 알리고 있다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "중국 소셜미디어 플랫폼 Sina Weibo의 일부 독자들은 자신이 산 책의 서문에 삽화 대부분이 AI 도구로 생성됐다고 명시돼 있다고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "한 독자는 시리즈의 표지와 본문 면에 모두 실린, Penaeus monodon 또는 Giant tiger prawn이라는 제목의 “머리 둘 달린 새우” 오류 이미지를 발견했다."
-              },
-              {
-                "t": "p",
-                "x": "일부 독자는 삽화에 의문을 제기하며 “AI를 쓰면 안 된다는 게 아니라, 적어도 기본 규칙은 지켜야 하지 않느냐”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "10월 27일 언론 보도에 따르면 중국농업출판사 직원은 출판사가 상황을 알고 있다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "출판사 독자 서비스 핫라인 담당자는 출판사가 온라인 소매 플랫폼에 해당 도서의 판매 중단과 회수를 통보하고 있다고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI描画の双頭エビで\n中国の出版社が回収",
-          "body": "中国農業出版社が、AI-drawnの双頭エビが見つかった海洋生物シリーズを回収している。",
-          "mini_headline": "AIのエビの誤りで回収",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "「双頭のエビ」の誤った画像を指摘するSNS投稿"
-              },
-              {
-                "t": "p",
-                "x": "南シナ海の海洋生物を扱った人気科学書シリーズに「双頭のエビ」の誤った画像があると指摘するSNS投稿が、世間の注目を集めた。火曜日のメディア報道によると、中国農業出版社(China Agricultural Publishing House)の職員は、出版社がこの問題を把握しており、オンラインプラットフォーム上の販売業者に販売停止と流通済みの本の回収を通知していると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "中国のSNS「Sina Weibo」では、購入した本の序文に、イラストの大半がAIツールで生成されたと明記されていると指摘する読者もいた。"
-              },
-              {
-                "t": "p",
-                "x": "ある読者は、シリーズの表紙と本文ページの両方に掲載された、Penaeus monodon、すなわちGiant tiger prawnと題された「双頭のエビ」の誤った画像に気づいた。"
-              },
-              {
-                "t": "p",
-                "x": "イラストに疑問を呈し「AIを使ってはいけないというわけではないが、最低限の基本的なルールは守るべきではないか」と述べる読者もいた。"
-              },
-              {
-                "t": "p",
-                "x": "10月27日、メディア報道によると、中国農業出版社の職員は出版社が状況を把握していると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "出版社の読者サービスホットラインの担当者は、出版社がオンライン小売プラットフォームに対し、問題の本の販売停止と回収の手配を通知していると述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI画出双头虾\n中国出版社召回图书",
-          "body": "读者发现AI-drawn的双头虾后，中国农业出版社召回一套海洋生物丛书。",
-          "mini_headline": "AI虾图出错引发召回",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "一则指出“双头虾”错误图片的社交媒体帖子"
-              },
-              {
-                "t": "p",
-                "x": "一则社交媒体帖子指出，一套介绍南海海洋生物的科普丛书中出现了一张“双头虾”的错误图片，引发公众关注。据媒体周二报道，中国农业出版社一名工作人员表示，出版社已知悉此事，正在通知各网络平台的销售商下架这些图书，并召回已发行的图书。"
-              },
-              {
-                "t": "p",
-                "x": "一些读者在中国社交媒体平台Sina Weibo上指出，他们购买的图书序言中明确写明，绝大多数插图是用AI工具生成的。"
-              },
-              {
-                "t": "p",
-                "x": "一位读者注意到，该丛书的封面和内页都出现了一张标题为Penaeus monodon（Giant tiger prawn）的“双头虾”错误图片。"
-              },
-              {
-                "t": "p",
-                "x": "一些读者对插图提出质疑，称“不是不能用AI，但总该遵守一些基本规则吧？”"
-              },
-              {
-                "t": "p",
-                "x": "据媒体报道，10月27日，中国农业出版社一名工作人员表示，出版社已知悉此情况。"
-              },
-              {
-                "t": "p",
-                "x": "该出版社读者服务热线的一名代表表示，出版社正在通知网络零售平台将涉事图书下架并安排召回。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Camarón de dos cabezas por AI:\nretiran libros en China",
-          "body": "China Agricultural Publishing House retira una serie de vida marina por un camarón AI-drawn de dos cabezas.",
-          "mini_headline": "Un error de AI provoca una retirada",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-30/b0247e8d-eb3c-4309-b333-a0550fd39ffa.jpeg",
-                "cap": "Una publicación en redes sociales que señala la imagen errónea de un \"camarón de dos cabezas\""
-              },
-              {
-                "t": "p",
-                "x": "Una publicación en redes sociales que señalaba la imagen errónea de un \"camarón de dos cabezas\" en una popular serie de libros de divulgación científica sobre la vida marina del mar de la China Meridional ha llamado la atención del público. Según informaciones de medios del martes, un empleado de China Agricultural Publishing House afirmó que la editorial conocía el problema y estaba notificando a los vendedores de las plataformas en línea para retirar los libros de la venta y recuperar los ejemplares ya distribuidos."
-              },
-              {
-                "t": "p",
-                "x": "Algunos lectores en la red social china Sina Weibo señalaron que los libros que compraron incluyen un prefacio que indica de forma explícita que la gran mayoría de las ilustraciones se generaron con herramientas de AI."
-              },
-              {
-                "t": "p",
-                "x": "Un lector detectó en la serie la imagen errónea de un \"camarón de dos cabezas\", que aparece tanto en la portada como en una página interior, titulada Penaeus monodon o Giant tiger prawn."
-              },
-              {
-                "t": "p",
-                "x": "Algunos lectores cuestionaron las ilustraciones: \"no es que no se pueda usar AI, pero sin duda habría que seguir algunas reglas básicas, ¿no?\""
-              },
-              {
-                "t": "p",
-                "x": "El 27 de octubre, según los medios, un empleado de China Agricultural Publishing House indicó que la editorial estaba al tanto de la situación."
-              },
-              {
-                "t": "p",
-                "x": "Un representante de la línea de atención al lector de la editorial dijo que estaban notificando a las plataformas de venta en línea para retirar de la venta los libros afectados y organizar su recuperación."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "kpa-corpus-settlement",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "출협, 말뭉치 합의금\nAI 학습 대가 기준 아냐",
-      "body": "출협은 말뭉치 사건 합의금이 AI 학습 데이터 대가 기준이 될 수 없다고 밝혔다.",
-      "mini_headline": "출협, 말뭉치 합의금 반박",
-      "tool": "Books",
-      "source": "독서신문",
-      "url": "https://www.readersnews.com/news/articleView.html?idxno=200813",
-      "accent": "#eb367f",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+            "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+            "cap": "AI 탐지 소프트웨어가 자기 작품을 잘못 판정할까 걱정하는 작가들도 있다. karetoria/Getty Images"
           },
           {
             "t": "p",
-            "x": "사단법인 대한출판문화협회(이하 출협)가 최근 대법원 상고심이 진행 중인 국립국어원 말뭉치 사건과 관련해 과거 분쟁 해결 차원의 합의 금액이 향후 AI 학습용 데이터 거래의 시세가 돼서는 안 된다는 입장을 밝혔다."
+            "x": "대필 작가 Sally McGraw는 책 기획서에 낼 글 샘플을 제출했다가 여러 AI 탐지 도구가 이를 기계가 생성한 글로 판정했다는 말을 들었다. “텍스트를 생성하는 데 AI를 쓰지 않았기 때문에 큰 충격을 받았다”고 그는 말했다. 의뢰인은 다른 사람을 고용할 때 그 결과가 결정적 요인은 아니었다고 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+            "cap": "대필 작가 Sally McGraw는 글 쓰는 스타일을 바꿨다고 했다. Sally McGraw"
           },
           {
             "t": "p",
-            "x": "국립국어원 문어 말뭉치 사건은 국립국어원이 발주하고 웅진북센이 수행한 ‘문어 말뭉치 원문 자료 수집’ 사업에서 출판저작물 1만 5,933종, 약 6억 2,272만 어절이 저작권자의 이용허락 없이 사용된 사건이다. 2023년 1월 출협과 웅진북센의 합의 이후 합의에 참여하지 않은 저자들이 손해배상 소송을 제기해 제1심에서 승소했다. 항소심에서는 합의 기준 등을 근거로 손해액이 감액됐으며 현재 상고심이 진행 중이다."
+            "x": "AI 생성(AI-generated) 콘텐츠가 쏟아지자 일부 편집자는 탐지 도구에 기댄다. 이런 도구는 사람이 쓴 글도 잘못 판정한다고 알려져 있다. Clarkesworld의 Neil Clarke에 따르면 월간 투고는 2021년 약 1,100건에서 2023년 2월까지 두 배로 늘었다. 6월에 탐지기 네 개로 논문 160편을 시험한 연구에서는 Pangram이 가장 일관되게 정확했다. Pangram의 CEO Max Spero는 텍스트가 적을 때 특히 실수가 나올 수 있다고 했다."
           },
           {
             "t": "p",
-            "x": "출협은 30일 보도자료를 통해 “이러한 합의금액을 AI 학습용 데이터의 이용 대가를 정하는 일반적인 기준으로 삼아서는 안 된다”며 “이러한 금액이 공공사업이나 민간 AI 기업의 데이터 확보 과정에서 ‘표준 대가’처럼 받아들여질 경우 새로운 시장이 출발부터 왜곡될 수 있다”고 경고했다."
-          },
-          {
-            "t": "p",
-            "x": "출협은 그 이유로 합의가 국가 언어자원 구축이라는 공익적 취지와 분쟁 해결의 필요성을 고려한 것이라는 점, 과거 침해의 해결과 장래 이용 조건을 함께 정했다는 점, ‘최혜대우’ 조항을 두어 추가 정산의 가능성을 열어뒀다는 점, 이용허락의 대가는 이용 목적과 기간, 데이터 범위, 이용 기업의 수 등에 따라 달라진다는 점을 들었다."
-          },
-          {
-            "t": "p",
-            "x": "출협은 “새로운 시장이 건강하게 형성되기 위해서는 사전 이용허락과 정당한 대가에 대한 원칙이 필요하다”며 “출판계와 AI 산업이 함께 발전할 수 있는 거래질서를 세워 나가겠다”고 밝혔다."
+            "x": "Penn의 Chris Callison-Burch는 탐지기가 단어 선택과 문장부호, 문장 구조를 본다고 설명한다. “delve” 같은 단어나 잦은 줄표(em dash), 세 가지씩 늘어놓는 방식 같은 것이다. Authors Guild는 AI 탐지기가 “마녀사냥을 떠올리게 하는 환경”을 만든다고 했다. Clarke는 “투고는 고발이 아니라 거절로 끝나야 한다”고 말했다. McGraw는 이제 특정 단어를 피한다. “내 em dash가 그립다.”"
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "출협, 말뭉치 합의금\nAI 학습 대가 기준 아냐",
-          "body": "출협은 말뭉치 사건 합의금이 AI 학습 데이터 대가 기준이 될 수 없다고 밝혔다.",
-          "mini_headline": "출협, 말뭉치 합의금 반박",
+        "en": {
+          "headline": "Flagged as AI, writers ask\nwhat the detector saw",
+          "body": "Editors screen submissions with imperfect AI detectors, leaving falsely flagged writers unsure what triggered them.",
+          "mini_headline": "Flagged as AI, now what",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "Some writers worry that AI detection software could falsely flag their work. karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "사단법인 대한출판문화협회(이하 출협)가 최근 대법원 상고심이 진행 중인 국립국어원 말뭉치 사건과 관련해 과거 분쟁 해결 차원의 합의 금액이 향후 AI 학습용 데이터 거래의 시세가 돼서는 안 된다는 입장을 밝혔다."
+                "x": "Ghostwriter Sally McGraw submitted a writing sample for a book proposal and was told multiple AI detection tools had flagged it as machine-generated. “I was floored because I had not used AI to generate the text,” she said. The client said the results were not the determining factor in hiring someone else."
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "Sally McGraw, a ghostwriter, said she's changed her writing style. Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "국립국어원 문어 말뭉치 사건은 국립국어원이 발주하고 웅진북센이 수행한 ‘문어 말뭉치 원문 자료 수집’ 사업에서 출판저작물 1만 5,933종, 약 6억 2,272만 어절이 저작권자의 이용허락 없이 사용된 사건이다. 2023년 1월 출협과 웅진북센의 합의 이후 합의에 참여하지 않은 저자들이 손해배상 소송을 제기해 제1심에서 승소했다. 항소심에서는 합의 기준 등을 근거로 손해액이 감액됐으며 현재 상고심이 진행 중이다."
+                "x": "As editors struggle with an influx of AI-generated content, some turn to detection tools, which have been known to falsely flag human-written work. Clarkesworld's Neil Clarke says monthly submissions doubled by February 2023 from roughly 1,100 in 2021. In a June study of four detectors on 160 papers, Pangram was the most consistently accurate; its CEO Max Spero said it can make mistakes, especially with little text."
               },
               {
                 "t": "p",
-                "x": "출협은 30일 보도자료를 통해 “이러한 합의금액을 AI 학습용 데이터의 이용 대가를 정하는 일반적인 기준으로 삼아서는 안 된다”며 “이러한 금액이 공공사업이나 민간 AI 기업의 데이터 확보 과정에서 ‘표준 대가’처럼 받아들여질 경우 새로운 시장이 출발부터 왜곡될 수 있다”고 경고했다."
-              },
-              {
-                "t": "p",
-                "x": "출협은 그 이유로 합의가 국가 언어자원 구축이라는 공익적 취지와 분쟁 해결의 필요성을 고려한 것이라는 점, 과거 침해의 해결과 장래 이용 조건을 함께 정했다는 점, ‘최혜대우’ 조항을 두어 추가 정산의 가능성을 열어뒀다는 점, 이용허락의 대가는 이용 목적과 기간, 데이터 범위, 이용 기업의 수 등에 따라 달라진다는 점을 들었다."
-              },
-              {
-                "t": "p",
-                "x": "출협은 “새로운 시장이 건강하게 형성되기 위해서는 사전 이용허락과 정당한 대가에 대한 원칙이 필요하다”며 “출판계와 AI 산업이 함께 발전할 수 있는 거래질서를 세워 나가겠다”고 밝혔다."
+                "x": "Penn's Chris Callison-Burch says detectors look at word choice, punctuation and sentence structure — “delve,” frequent em dashes, lists of threes. The Authors Guild said AI detectors create “an environment reminiscent of witch hunts.” “Submissions should end in rejection, not an accusation,” Clarke said. McGraw now avoids certain words: “I miss my em dash.”"
               }
             ]
           }
         },
-        "en": {
-          "headline": "Publishers: corpus settlement\nnot a benchmark for AI data",
-          "body": "The Korean Publishers Association said the corpus case settlement cannot set the price for AI training data.",
-          "mini_headline": "Publishers reject corpus benchmark",
+        "ko": {
+          "headline": "AI로 판정된 작가들\n탐지기는 뭘 봤나",
+          "body": "편집자들이 불완전한 AI 탐지기로 원고를 거르자 잘못 걸린 작가들은 영문을 모른다.",
+          "mini_headline": "AI 판정, 그다음은",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "AI 탐지 소프트웨어가 자기 작품을 잘못 판정할까 걱정하는 작가들도 있다. karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "The Korean Publishers Association (hereafter the Association) said that a settlement amount reached in the past to resolve a dispute should not become the going rate for future AI training data deals, in connection with the National Institute of Korean Language corpus case now under final appeal at the Supreme Court."
+                "x": "대필 작가 Sally McGraw는 책 기획서에 낼 글 샘플을 제출했다가 여러 AI 탐지 도구가 이를 기계가 생성한 글로 판정했다는 말을 들었다. “텍스트를 생성하는 데 AI를 쓰지 않았기 때문에 큰 충격을 받았다”고 그는 말했다. 의뢰인은 다른 사람을 고용할 때 그 결과가 결정적 요인은 아니었다고 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "대필 작가 Sally McGraw는 글 쓰는 스타일을 바꿨다고 했다. Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "In the National Institute of Korean Language written corpus case, 1만 5,933 published works, or about 6억 2,272만 eojeol (word units), were used without copyright holders’ permission in the ‘written corpus source text collection’ project commissioned by the National Institute of Korean Language and carried out by Woongjin Booxen. After the Association and Woongjin Booxen settled in January 2023, authors who did not join the settlement sued for damages and won at the 1st-instance trial. On appeal, the damages were reduced based on the settlement terms and other grounds, and the case is now under final appeal."
+                "x": "AI 생성(AI-generated) 콘텐츠가 쏟아지자 일부 편집자는 탐지 도구에 기댄다. 이런 도구는 사람이 쓴 글도 잘못 판정한다고 알려져 있다. Clarkesworld의 Neil Clarke에 따르면 월간 투고는 2021년 약 1,100건에서 2023년 2월까지 두 배로 늘었다. 6월에 탐지기 네 개로 논문 160편을 시험한 연구에서는 Pangram이 가장 일관되게 정확했다. Pangram의 CEO Max Spero는 텍스트가 적을 때 특히 실수가 나올 수 있다고 했다."
               },
               {
                 "t": "p",
-                "x": "In a press release on the 30th, the Association warned that “such a settlement amount should not be used as a general benchmark for setting the price of using AI training data,” adding that “if such amounts come to be accepted as a ‘standard price’ in public projects or in private AI companies’ data acquisition, the new market could be distorted from the start.”"
-              },
-              {
-                "t": "p",
-                "x": "As reasons, the Association noted that the settlement weighed the public-interest purpose of building national language resources and the need to resolve the dispute; that it settled past infringement and set terms for future use together; that it includes a ‘most-favored-nation’ clause leaving room for additional payments; and that the price of a license varies with the purpose and period of use, the scope of data and the number of companies using it."
-              },
-              {
-                "t": "p",
-                "x": "“For a new market to form in a healthy way, principles of prior permission and fair compensation are needed,” the Association said, adding, “We will work to build a trading order in which publishing and the AI industry can grow together.”"
+                "x": "Penn의 Chris Callison-Burch는 탐지기가 단어 선택과 문장부호, 문장 구조를 본다고 설명한다. “delve” 같은 단어나 잦은 줄표(em dash), 세 가지씩 늘어놓는 방식 같은 것이다. Authors Guild는 AI 탐지기가 “마녀사냥을 떠올리게 하는 환경”을 만든다고 했다. Clarke는 “투고는 고발이 아니라 거절로 끝나야 한다”고 말했다. McGraw는 이제 특정 단어를 피한다. “내 em dash가 그립다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版協、コーパス和解金\nAI学習対価の基準でない",
-          "body": "出版協は、コーパス事件の和解金はAI学習データの対価基準になり得ないと表明した。",
-          "mini_headline": "出版協、コーパス和解金に反論",
+          "headline": "AI判定された作家たち\n検出器は何を見たか",
+          "body": "編集者が不完全なAI検出器で投稿を選別し、誤判定された作家は原因が分からずにいる。",
+          "mini_headline": "AI判定、その先は",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "AI検出ソフトウェアに作品を誤って判定されるのではと懸念する作家もいる。karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "社団法人大韓出版文化協会(以下、出版協)は、大法院で上告審が進む国立国語院コーパス事件に関連し、過去に紛争解決のために結ばれた和解金額が、今後のAI学習用データ取引の相場になってはならないとの立場を示した。"
+                "x": "ゴーストライターのSally McGrawは書籍企画のために文章サンプルを提出したところ、複数のAI検出ツールが機械生成と判定したと告げられた。「文章の生成にAIは使っていなかったので、愕然とした」と彼女は語る。クライアントは、その結果が別の人を採用した決め手ではなかったと説明した。"
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "ゴーストライターのSally McGrawは、文章のスタイルを変えたと話す。Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "国立国語院の文語コーパス事件は、国立国語院が発注し熊津ブクセンが実施した「文語コーパス原文資料収集」事業で、出版著作物1만 5,933種、約6억 2,272만語節が著作権者の利用許諾なく使用された事件だ。2023年1月に出版協と熊津ブクセンが和解した後、和解に参加しなかった著者らが損害賠償訴訟を起こし、第1審で勝訴した。控訴審では和解の基準などを根拠に損害額が減額され、現在は上告審が進行中だ。"
+                "x": "AI生成（AI-generated）コンテンツの流入に苦しむ編集者の中には検出ツールに頼る者もいるが、こうしたツールは人間が書いた作品を誤判定することが知られている。ClarkesworldのNeil Clarkeによると、月間の投稿数は2021年の約1,100件から2023年2月までに倍増した。四つの検出器で160本の論文を調べた6月の研究では、Pangramが最も一貫して正確だった。同社のCEOであるMax Speroは、特に文章量が少ない場合には誤ることがあると述べた。"
               },
               {
                 "t": "p",
-                "x": "出版協は30日の報道資料で「こうした和解金額を、AI学習用データの利用対価を定める一般的な基準にしてはならない」とし、「こうした金額が公共事業や民間AI企業のデータ確保の過程で『標準対価』のように受け止められれば、新しい市場が出発点から歪められかねない」と警告した。"
-              },
-              {
-                "t": "p",
-                "x": "出版協はその理由として、和解が国家の言語資源構築という公益的な趣旨と紛争解決の必要性を考慮したものである点、過去の侵害の解決と将来の利用条件を併せて定めた点、「最恵待遇」条項を設けて追加精算の可能性を残した点、利用許諾の対価は利用目的や期間、データの範囲、利用企業の数などによって変わる点を挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "出版協は「新しい市場が健全に形成されるには、事前の利用許諾と正当な対価に関する原則が必要だ」とし、「出版界とAI産業がともに発展できる取引秩序を築いていく」と述べた。"
+                "x": "PennのChris Callison-Burchによれば、検出器は語の選択、句読点、文の構造を見る。「delve」という語、頻繁なem dash（エムダッシュ）、三つ組の列挙などだ。Authors Guildは、AI検出器が「魔女狩りを思わせる環境」を生み出していると述べた。「投稿は告発ではなく、不採用で終わるべきだ」とClarkeは言う。McGrawは今、特定の語を避けている。「em dashが恋しい」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国出版协会：语料库和解金\n非AI训练定价标准",
-          "body": "韩国出版协会表示，语料库案和解金不能作为AI训练数据的定价标准。",
-          "mini_headline": "韩国出版协会反驳语料库和解金",
+          "headline": "被判为AI，作家追问\n检测器看到了什么",
+          "body": "编辑用并不完善的AI检测器筛选投稿，被误判的作者却不知原因何在。",
+          "mini_headline": "被判为AI之后",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "一些作家担心AI检测软件会误判他们的作品。karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "社团法人大韩出版文化协会（以下简称“出版协会”）就目前正在大法院进行上告审的国立国语院语料库案表示，过去为解决纠纷而达成的和解金额不应成为今后AI训练数据交易的行情价。"
+                "x": "代笔作家Sally McGraw为一份图书提案提交了写作样稿，却被告知多款AI检测工具将其判定为机器生成。“我惊呆了，因为我并没有用AI生成文字，”她说。客户表示，检测结果并不是其改聘他人的决定性因素。"
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "代笔作家Sally McGraw说，她已改变了自己的写作风格。Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "国立国语院书面语语料库案是指，在由国立国语院发包、Woongjin Booxen执行的“书面语语料库原文资料收集”项目中，1만 5,933种出版作品、约6억 2,272만个语节在未获著作权人许可的情况下被使用。2023年1月出版协会与Woongjin Booxen达成和解后，未参与和解的作者提起损害赔偿诉讼，并在第1审中胜诉。控诉审以和解标准等为依据下调了赔偿额，目前案件正处于上告审阶段。"
+                "x": "面对大量涌入的AI生成（AI-generated）内容，一些编辑转向检测工具，而这类工具已知会误判人类撰写的作品。Clarkesworld的Neil Clarke说，月投稿量从2021年的约1,100篇，到2023年2月已翻了一倍。在6月一项用四款检测器测试160篇论文的研究中，Pangram的准确度最为稳定；其CEO Max Spero表示，它可能出错，尤其是在文本很少时。"
               },
               {
                 "t": "p",
-                "x": "出版协会30日通过新闻稿警告称：“不应将此类和解金额作为确定AI训练数据使用对价的一般标准。”并表示：“如果这类金额在公共项目或民间AI企业获取数据的过程中被当作‘标准对价’，新市场可能从一开始就遭到扭曲。”"
-              },
-              {
-                "t": "p",
-                "x": "出版协会列举的理由包括：该和解考虑了构建国家语言资源的公益宗旨和解决纠纷的必要性；它同时确定了对过去侵权的解决办法和未来的使用条件；其中设有“最惠待遇”条款，为追加结算留有余地；而使用许可的对价会因使用目的和期限、数据范围、使用企业数量等而有所不同。"
-              },
-              {
-                "t": "p",
-                "x": "出版协会表示：“新市场要健康形成，需要确立事先许可和合理对价的原则。”并称：“将努力建立出版界与AI产业能够共同发展的交易秩序。”"
+                "x": "Penn的Chris Callison-Burch说，检测器会看用词、标点和句子结构——比如“delve”、频繁使用的破折号（em dash）、三项并列。Authors Guild表示，AI检测器营造出“一种令人联想到猎巫的环境”。“投稿应以退稿告终，而不是以指控告终，”Clarke说。McGraw如今会避开某些词：“我怀念我的em dash。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editores coreanos: el acuerdo\nno fija precio para datos de AI",
-          "body": "La Asociación Coreana de Editores dijo que el acuerdo del corpus no puede fijar el precio del entrenamiento de AI.",
-          "mini_headline": "Editores coreanos rechazan la referencia",
+          "headline": "Marcados como AI, los autores\npreguntan qué vio el detector",
+          "body": "Los editores filtran envíos con detectores de AI imperfectos y los autores señalados por error ignoran el motivo.",
+          "mini_headline": "Marcados como AI, ¿y ahora?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "Algunos escritores temen que el software de detección de AI marque su trabajo por error. karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Asociación Coreana de Editores (en adelante, la Asociación) afirmó que el monto de un acuerdo alcanzado en el pasado para resolver una disputa no debe convertirse en el precio de mercado de futuras transacciones de datos para entrenar AI, en relación con el caso del corpus del Instituto Nacional de la Lengua Coreana, que se encuentra en casación ante el Tribunal Supremo."
+                "x": "La escritora fantasma Sally McGraw envió una muestra de escritura para una propuesta de libro y le dijeron que varias herramientas de detección de AI la habían marcado como generada por máquina. “Me quedé helada porque no había usado AI para generar el texto”, dijo. El cliente afirmó que los resultados no fueron el factor determinante para contratar a otra persona."
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "Sally McGraw, escritora fantasma, dijo que ha cambiado su estilo de escritura. Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "En el caso del corpus escrito del Instituto Nacional de la Lengua Coreana, 1만 5,933 obras publicadas, unos 6억 2,272만 eojeol (unidades de palabra), se usaron sin permiso de los titulares de derechos en el proyecto de ‘recopilación de textos originales para el corpus escrito’, encargado por el Instituto y ejecutado por Woongjin Booxen. Tras el acuerdo de enero de 2023 entre la Asociación y Woongjin Booxen, autores que no participaron en él demandaron por daños y ganaron en 1.ª instancia. En apelación, la indemnización se redujo con base, entre otros, en los criterios del acuerdo, y ahora el caso está en casación."
+                "x": "Mientras los editores lidian con una avalancha de contenido generado por AI (AI-generated), algunos recurren a herramientas de detección, que se sabe que marcan por error textos escritos por personas. Neil Clarke, de Clarkesworld, dice que los envíos mensuales se duplicaron hacia febrero de 2023, desde unos 1,100 en 2021. En un estudio de junio con cuatro detectores sobre 160 artículos, Pangram fue el más consistentemente preciso; su CEO, Max Spero, dijo que puede equivocarse, sobre todo con poco texto."
               },
               {
                 "t": "p",
-                "x": "En un comunicado del día 30, la Asociación advirtió que “no se debe tomar este monto de acuerdo como criterio general para fijar el precio de uso de datos de entrenamiento de AI” y que “si estas cifras llegan a aceptarse como un ‘precio estándar’ en proyectos públicos o en la obtención de datos de empresas privadas de AI, el nuevo mercado podría distorsionarse desde su inicio”."
-              },
-              {
-                "t": "p",
-                "x": "Como razones, la Asociación señaló que el acuerdo tuvo en cuenta el fin de interés público de construir recursos lingüísticos nacionales y la necesidad de resolver la disputa; que resolvió las infracciones pasadas y fijó a la vez las condiciones de uso futuro; que incluye una cláusula de ‘nación más favorecida’ que deja abierta la posibilidad de liquidaciones adicionales; y que el precio de una licencia varía según el fin y el plazo de uso, el alcance de los datos y el número de empresas usuarias."
-              },
-              {
-                "t": "p",
-                "x": "“Para que el nuevo mercado se forme de manera sana, se necesitan principios de autorización previa y de compensación justa”, señaló la Asociación, y añadió: “Trabajaremos para establecer un orden de transacciones en el que la industria editorial y la de AI puedan crecer juntas”."
+                "x": "Chris Callison-Burch, de Penn, dice que los detectores se fijan en la elección de palabras, la puntuación y la estructura de las frases: “delve”, el uso frecuente de rayas (em dashes), las enumeraciones de tres. El Authors Guild dijo que los detectores de AI crean “un ambiente que recuerda a la caza de brujas”. “Los envíos deberían terminar en un rechazo, no en una acusación”, dijo Clarke. McGraw ahora evita ciertas palabras: “Echo de menos mi raya (em dash)”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Publishers: corpus settlement\nnot a benchmark for AI data",
-          "body": "The Korean Publishers Association said the corpus case settlement cannot set the price for AI training data.",
-          "mini_headline": "Publishers reject corpus benchmark",
+        "ko": {
+          "headline": "AI로 판정된 작가들\n탐지기는 뭘 봤나",
+          "body": "편집자들이 불완전한 AI 탐지기로 원고를 걸러내자 오판된 작가들은 이유를 모른다.",
+          "mini_headline": "AI 판정, 그다음은",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "일부 작가들은 AI 탐지 소프트웨어가 자기 작품을 잘못 판정할까 걱정한다. karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "The Korean Publishers Association (hereafter the Association) said that a settlement amount reached in the past to resolve a dispute should not become the going rate for future AI training data deals, in connection with the National Institute of Korean Language corpus case now under final appeal at the Supreme Court."
+                "x": "대필 작가 Sally McGraw는 책 기획서를 위해 글 샘플을 제출했다가, 여러 AI 탐지 도구가 이를 기계가 생성한 글로 판정했다는 말을 들었다. “텍스트를 생성하는 데 AI를 쓰지 않았기 때문에 큰 충격을 받았다”고 그는 말했다. 의뢰인은 다른 사람을 고용하는 데 그 결과가 결정적 요인은 아니었다고 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "대필 작가 Sally McGraw는 글쓰기 스타일을 바꿨다고 말했다. Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "In the National Institute of Korean Language written corpus case, 1만 5,933 published works, or about 6억 2,272만 eojeol (word units), were used without copyright holders’ permission in the ‘written corpus source text collection’ project commissioned by the National Institute of Korean Language and carried out by Woongjin Booxen. After the Association and Woongjin Booxen settled in January 2023, authors who did not join the settlement sued for damages and won at the 1st-instance trial. On appeal, the damages were reduced based on the settlement terms and other grounds, and the case is now under final appeal."
+                "x": "AI 생성(AI-generated) 콘텐츠가 밀려들어 고심하는 편집자 가운데 일부는 탐지 도구에 기대는데, 이런 도구는 사람이 쓴 글을 잘못 판정하는 것으로 알려져 있다. Clarkesworld의 Neil Clarke는 월간 투고가 2021년 약 1,100건에서 2023년 2월까지 두 배로 늘었다고 말한다. 탐지기 네 개로 논문 160편을 시험한 6월의 한 연구에서 Pangram이 가장 일관되게 정확했다. Pangram의 CEO Max Spero는 특히 텍스트가 적을 때 실수할 수 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "In a press release on the 30th, the Association warned that “such a settlement amount should not be used as a general benchmark for setting the price of using AI training data,” adding that “if such amounts come to be accepted as a ‘standard price’ in public projects or in private AI companies’ data acquisition, the new market could be distorted from the start.”"
-              },
-              {
-                "t": "p",
-                "x": "As reasons, the Association noted that the settlement weighed the public-interest purpose of building national language resources and the need to resolve the dispute; that it settled past infringement and set terms for future use together; that it includes a ‘most-favored-nation’ clause leaving room for additional payments; and that the price of a license varies with the purpose and period of use, the scope of data and the number of companies using it."
-              },
-              {
-                "t": "p",
-                "x": "“For a new market to form in a healthy way, principles of prior permission and fair compensation are needed,” the Association said, adding, “We will work to build a trading order in which publishing and the AI industry can grow together.”"
+                "x": "Penn의 Chris Callison-Burch는 탐지기가 단어 선택, 문장부호, 문장 구조를 본다고 설명한다. “delve” 같은 단어, 잦은 줄표(em dash), 세 가지씩 나열하는 방식 등이다. Authors Guild는 AI 탐지기가 “마녀사냥을 떠올리게 하는 환경”을 만든다고 했다. “투고는 고발이 아니라 거절로 끝나야 한다”고 Clarke는 말했다. McGraw는 이제 특정 단어를 피한다. “내 em dash가 그립다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版協、コーパス和解金\nAI学習対価の基準でない",
-          "body": "出版協は、コーパス事件の和解金はAI学習データの対価基準になり得ないと表明した。",
-          "mini_headline": "出版協、コーパス和解金に反論",
+          "headline": "AI判定された作家たち\n検出器は何を見たか",
+          "body": "編集者が不完全なAI検出器で投稿を選別し、誤判定された作家は原因が分からずにいる。",
+          "mini_headline": "AI判定、その先は",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "AI検出ソフトウェアに作品を誤って判定されるのではと懸念する作家もいる。karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "社団法人大韓出版文化協会(以下、出版協)は、大法院で上告審が進む国立国語院コーパス事件に関連し、過去に紛争解決のために結ばれた和解金額が、今後のAI学習用データ取引の相場になってはならないとの立場を示した。"
+                "x": "ゴーストライターのSally McGrawは書籍企画のために文章サンプルを提出したところ、複数のAI検出ツールが機械生成と判定したと告げられた。「文章の生成にAIは使っていなかったので、愕然とした」と彼女は語る。クライアントは、その結果が別の人を採用した決め手ではなかったと説明した。"
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "ゴーストライターのSally McGrawは、文章のスタイルを変えたと話す。Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "国立国語院の文語コーパス事件は、国立国語院が発注し熊津ブクセンが実施した「文語コーパス原文資料収集」事業で、出版著作物1만 5,933種、約6억 2,272만語節が著作権者の利用許諾なく使用された事件だ。2023年1月に出版協と熊津ブクセンが和解した後、和解に参加しなかった著者らが損害賠償訴訟を起こし、第1審で勝訴した。控訴審では和解の基準などを根拠に損害額が減額され、現在は上告審が進行中だ。"
+                "x": "AI生成（AI-generated）コンテンツの流入に苦しむ編集者の中には検出ツールに頼る者もいるが、こうしたツールは人間が書いた作品を誤判定することが知られている。ClarkesworldのNeil Clarkeによると、月間の投稿数は2021年の約1,100件から2023年2月までに倍増した。四つの検出器で160本の論文を調べた6月の研究では、Pangramが最も一貫して正確だった。同社のCEOであるMax Speroは、特に文章量が少ない場合には誤ることがあると述べた。"
               },
               {
                 "t": "p",
-                "x": "出版協は30日の報道資料で「こうした和解金額を、AI学習用データの利用対価を定める一般的な基準にしてはならない」とし、「こうした金額が公共事業や民間AI企業のデータ確保の過程で『標準対価』のように受け止められれば、新しい市場が出発点から歪められかねない」と警告した。"
-              },
-              {
-                "t": "p",
-                "x": "出版協はその理由として、和解が国家の言語資源構築という公益的な趣旨と紛争解決の必要性を考慮したものである点、過去の侵害の解決と将来の利用条件を併せて定めた点、「最恵待遇」条項を設けて追加精算の可能性を残した点、利用許諾の対価は利用目的や期間、データの範囲、利用企業の数などによって変わる点を挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "出版協は「新しい市場が健全に形成されるには、事前の利用許諾と正当な対価に関する原則が必要だ」とし、「出版界とAI産業がともに発展できる取引秩序を築いていく」と述べた。"
+                "x": "PennのChris Callison-Burchによれば、検出器は語の選択、句読点、文の構造を見る。「delve」という語、頻繁なem dash（エムダッシュ）、三つ組の列挙などだ。Authors Guildは、AI検出器が「魔女狩りを思わせる環境」を生み出していると述べた。「投稿は告発ではなく、不採用で終わるべきだ」とClarkeは言う。McGrawは今、特定の語を避けている。「em dashが恋しい」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国出版协会：语料库和解金\n非AI训练定价标准",
-          "body": "韩国出版协会表示，语料库案和解金不能作为AI训练数据的定价标准。",
-          "mini_headline": "韩国出版协会反驳语料库和解金",
+          "headline": "被判为AI，作家追问\n检测器看到了什么",
+          "body": "编辑用并不完善的AI检测器筛选投稿，被误判的作者却不知原因何在。",
+          "mini_headline": "被判为AI之后",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "一些作家担心AI检测软件会误判他们的作品。karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "社团法人大韩出版文化协会（以下简称“出版协会”）就目前正在大法院进行上告审的国立国语院语料库案表示，过去为解决纠纷而达成的和解金额不应成为今后AI训练数据交易的行情价。"
+                "x": "代笔作家Sally McGraw为一份图书提案提交了写作样稿，却被告知多款AI检测工具将其判定为机器生成。“我惊呆了，因为我并没有用AI生成文字，”她说。客户表示，检测结果并不是其改聘他人的决定性因素。"
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "代笔作家Sally McGraw说，她已改变了自己的写作风格。Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "国立国语院书面语语料库案是指，在由国立国语院发包、Woongjin Booxen执行的“书面语语料库原文资料收集”项目中，1만 5,933种出版作品、约6억 2,272만个语节在未获著作权人许可的情况下被使用。2023年1月出版协会与Woongjin Booxen达成和解后，未参与和解的作者提起损害赔偿诉讼，并在第1审中胜诉。控诉审以和解标准等为依据下调了赔偿额，目前案件正处于上告审阶段。"
+                "x": "面对大量涌入的AI生成（AI-generated）内容，一些编辑转向检测工具，而这类工具已知会误判人类撰写的作品。Clarkesworld的Neil Clarke说，月投稿量从2021年的约1,100篇，到2023年2月已翻了一倍。在6月一项用四款检测器测试160篇论文的研究中，Pangram的准确度最为稳定；其CEO Max Spero表示，它可能出错，尤其是在文本很少时。"
               },
               {
                 "t": "p",
-                "x": "出版协会30日通过新闻稿警告称：“不应将此类和解金额作为确定AI训练数据使用对价的一般标准。”并表示：“如果这类金额在公共项目或民间AI企业获取数据的过程中被当作‘标准对价’，新市场可能从一开始就遭到扭曲。”"
-              },
-              {
-                "t": "p",
-                "x": "出版协会列举的理由包括：该和解考虑了构建国家语言资源的公益宗旨和解决纠纷的必要性；它同时确定了对过去侵权的解决办法和未来的使用条件；其中设有“最惠待遇”条款，为追加结算留有余地；而使用许可的对价会因使用目的和期限、数据范围、使用企业数量等而有所不同。"
-              },
-              {
-                "t": "p",
-                "x": "出版协会表示：“新市场要健康形成，需要确立事先许可和合理对价的原则。”并称：“将努力建立出版界与AI产业能够共同发展的交易秩序。”"
+                "x": "Penn的Chris Callison-Burch说，检测器会看用词、标点和句子结构——比如“delve”、频繁使用的破折号（em dash）、三项并列。Authors Guild表示，AI检测器营造出“一种令人联想到猎巫的环境”。“投稿应以退稿告终，而不是以指控告终，”Clarke说。McGraw如今会避开某些词：“我怀念我的em dash。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editores coreanos: el acuerdo\nno fija precio para datos de AI",
-          "body": "La Asociación Coreana de Editores dijo que el acuerdo del corpus no puede fijar el precio del entrenamiento de AI.",
-          "mini_headline": "Editores coreanos rechazan la referencia",
+          "headline": "Marcados como AI, los autores\npreguntan qué vio el detector",
+          "body": "Los editores filtran envíos con detectores de AI imperfectos y los autores señalados por error ignoran el motivo.",
+          "mini_headline": "Marcados como AI, ¿y ahora?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.readersnews.com/news/photo/202610/200813_91218_1418.jpg"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+                "cap": "Algunos escritores temen que el software de detección de AI marque su trabajo por error. karetoria/Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Asociación Coreana de Editores (en adelante, la Asociación) afirmó que el monto de un acuerdo alcanzado en el pasado para resolver una disputa no debe convertirse en el precio de mercado de futuras transacciones de datos para entrenar AI, en relación con el caso del corpus del Instituto Nacional de la Lengua Coreana, que se encuentra en casación ante el Tribunal Supremo."
+                "x": "La escritora fantasma Sally McGraw envió una muestra de escritura para una propuesta de libro y le dijeron que varias herramientas de detección de AI la habían marcado como generada por máquina. “Me quedé helada porque no había usado AI para generar el texto”, dijo. El cliente afirmó que los resultados no fueron el factor determinante para contratar a otra persona."
+              },
+              {
+                "t": "img",
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+                "cap": "Sally McGraw, escritora fantasma, dijo que ha cambiado su estilo de escritura. Sally McGraw"
               },
               {
                 "t": "p",
-                "x": "En el caso del corpus escrito del Instituto Nacional de la Lengua Coreana, 1만 5,933 obras publicadas, unos 6억 2,272만 eojeol (unidades de palabra), se usaron sin permiso de los titulares de derechos en el proyecto de ‘recopilación de textos originales para el corpus escrito’, encargado por el Instituto y ejecutado por Woongjin Booxen. Tras el acuerdo de enero de 2023 entre la Asociación y Woongjin Booxen, autores que no participaron en él demandaron por daños y ganaron en 1.ª instancia. En apelación, la indemnización se redujo con base, entre otros, en los criterios del acuerdo, y ahora el caso está en casación."
+                "x": "Mientras los editores lidian con una avalancha de contenido generado por AI (AI-generated), algunos recurren a herramientas de detección, que se sabe que marcan por error textos escritos por personas. Neil Clarke, de Clarkesworld, dice que los envíos mensuales se duplicaron hacia febrero de 2023, desde unos 1,100 en 2021. En un estudio de junio con cuatro detectores sobre 160 artículos, Pangram fue el más consistentemente preciso; su CEO, Max Spero, dijo que puede equivocarse, sobre todo con poco texto."
               },
               {
                 "t": "p",
-                "x": "En un comunicado del día 30, la Asociación advirtió que “no se debe tomar este monto de acuerdo como criterio general para fijar el precio de uso de datos de entrenamiento de AI” y que “si estas cifras llegan a aceptarse como un ‘precio estándar’ en proyectos públicos o en la obtención de datos de empresas privadas de AI, el nuevo mercado podría distorsionarse desde su inicio”."
+                "x": "Chris Callison-Burch, de Penn, dice que los detectores se fijan en la elección de palabras, la puntuación y la estructura de las frases: “delve”, el uso frecuente de rayas (em dashes), las enumeraciones de tres. El Authors Guild dijo que los detectores de AI crean “un ambiente que recuerda a la caza de brujas”. “Los envíos deberían terminar en un rechazo, no en una acusación”, dijo Clarke. McGraw ahora evita ciertas palabras: “Echo de menos mi raya (em dash)”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "korea-cartoonists-unesco-ai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "한국 만화가, AI 동의\nUNESCO에 촉구",
+      "body": "한국 만화가들이 UNESCO에서 AI 학습 전에 작가 동의를 받는 규칙을 요구했다.",
+      "mini_headline": "만화가들, AI 문제 UNESCO로",
+      "tool": "Books",
+      "source": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+            "cap": "권혁주(Kwon Hyuk-joo)의 웹툰 “Xinker” / Naver Webtoon 제공"
+          },
+          {
+            "t": "p",
+            "x": "한국 만화 창작자들이 작품을 인공지능(AI) 모델 학습에 쓰려면 먼저 작가 동의를 받도록 하는 엄격한 규칙을 요구했다. 요구는 파리 UNESCO 본부에서 열린 국제회의에서 나왔다. 협회장인 웹툰 작가 겸 국립공주대학교 교수 권혁주(Kwon Hyuk-joo)가 “디지털 환경에서 인간의 창의성과 문화적 표현의 다양성 증진” 회의에서 발언했다."
+          },
+          {
+            "t": "p",
+            "x": "권(Kwon) 회장은 창작자 164명을 대상으로 한 설문 결과를 인용했다. 약 90퍼센트는 자기 작품이 AI 학습에 쓰이는 걸 막을 방법을 모른다고 했고, 81.1퍼센트는 옵트인(opt-in) 제도에 참여하겠다고 답했다. 그는 웹툰 출간과 AI 모델 학습 이용, 캐릭터를 챗봇 같은 AI 서비스에 쓰는 일은 각각 별개의 권리라고 강조했다. AI 생성(AI-generated) 콘텐츠 표시 의무화와 학습 데이터 투명성도 요구했다."
+          },
+          {
+            "t": "p",
+            "x": "UNESCO 친선대사 Jean-Michel Jarre는 창작의 목적과 방향은 앞으로도 인간이 정해야 한다고 말했다. UNESCO는 이번 논의를 문화적 표현의 다양성에 관한 2005년 협약에 따른 디지털 정책 작업에 반영하겠다고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Korean cartoonists take\nAI consent demands to UNESCO",
+          "body": "At UNESCO, Korean comic creators called for rules requiring artists' consent before their work is used to train AI.",
+          "mini_headline": "Cartoonists take AI to UNESCO",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "Kwon Hyuk-joo's webtoon \"Xinker\" / Courtesy of Naver Webtoon"
               },
               {
                 "t": "p",
-                "x": "Como razones, la Asociación señaló que el acuerdo tuvo en cuenta el fin de interés público de construir recursos lingüísticos nacionales y la necesidad de resolver la disputa; que resolvió las infracciones pasadas y fijó a la vez las condiciones de uso futuro; que incluye una cláusula de ‘nación más favorecida’ que deja abierta la posibilidad de liquidaciones adicionales; y que el precio de una licencia varía según el fin y el plazo de uso, el alcance de los datos y el número de empresas usuarias."
+                "x": "Korean comic creators called for strict rules requiring artists' consent before their work is used to train artificial intelligence (AI) models, delivering their demand during an international conference at UNESCO headquarters in Paris. The association's president, Kwon Hyuk-joo, a webtoon artist and professor at Kongju National University, spoke at the conference “Promoting Human Creativity and the Diversity of Cultural Expressions in the Digital Environment.”"
               },
               {
                 "t": "p",
-                "x": "“Para que el nuevo mercado se forme de manera sana, se necesitan principios de autorización previa y de compensación justa”, señaló la Asociación, y añadió: “Trabajaremos para establecer un orden de transacciones en el que la industria editorial y la de AI puedan crecer juntas”."
+                "x": "Kwon cited a survey of 164 creators: about 90 percent said they did not know how to stop their work from being used for AI training, while 81.1 percent said they would take part in an opt-in system. He said publishing a webtoon, using it to train an AI model and using its characters in AI services such as chatbots are separate rights, and called for mandatory labeling of AI-generated content and transparency about training data."
+              },
+              {
+                "t": "p",
+                "x": "Jean-Michel Jarre, UNESCO Goodwill Ambassador, said humans must remain the ones who decide the purpose and direction of creative work. UNESCO said the discussions will feed into its digital policy work under the 2005 Convention on the Diversity of Cultural Expressions."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "한국 만화가, AI 동의\nUNESCO에 촉구",
+          "body": "한국 만화가들이 UNESCO에서 AI 학습 전에 작가 동의를 받는 규칙을 요구했다.",
+          "mini_headline": "만화가들, AI 문제 UNESCO로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "권혁주(Kwon Hyuk-joo)의 웹툰 “Xinker” / Naver Webtoon 제공"
+              },
+              {
+                "t": "p",
+                "x": "한국 만화 창작자들이 작품을 인공지능(AI) 모델 학습에 쓰려면 먼저 작가 동의를 받도록 하는 엄격한 규칙을 요구했다. 요구는 파리 UNESCO 본부에서 열린 국제회의에서 나왔다. 협회장인 웹툰 작가 겸 국립공주대학교 교수 권혁주(Kwon Hyuk-joo)가 “디지털 환경에서 인간의 창의성과 문화적 표현의 다양성 증진” 회의에서 발언했다."
+              },
+              {
+                "t": "p",
+                "x": "권(Kwon) 회장은 창작자 164명을 대상으로 한 설문 결과를 인용했다. 약 90퍼센트는 자기 작품이 AI 학습에 쓰이는 걸 막을 방법을 모른다고 했고, 81.1퍼센트는 옵트인(opt-in) 제도에 참여하겠다고 답했다. 그는 웹툰 출간과 AI 모델 학습 이용, 캐릭터를 챗봇 같은 AI 서비스에 쓰는 일은 각각 별개의 권리라고 강조했다. AI 생성(AI-generated) 콘텐츠 표시 의무화와 학습 데이터 투명성도 요구했다."
+              },
+              {
+                "t": "p",
+                "x": "UNESCO 친선대사 Jean-Michel Jarre는 창작의 목적과 방향은 앞으로도 인간이 정해야 한다고 말했다. UNESCO는 이번 논의를 문화적 표현의 다양성에 관한 2005년 협약에 따른 디지털 정책 작업에 반영하겠다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "韓国の漫画家、\nUNESCOでAI同意要求",
+          "body": "韓国の漫画家らがUNESCOで、AI学習前に作家の同意を求めるルールを要求した。",
+          "mini_headline": "漫画家、AI問題をUNESCOへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "Kwon Hyuk-joo（クォン・ヒョクジュ）のウェブトゥーン「Xinker」／Naver Webtoon提供"
+              },
+              {
+                "t": "p",
+                "x": "韓国の漫画創作者らが、作品を人工知能（AI）モデルの学習に使う前に作家の同意を義務づける厳格なルールを求め、パリのUNESCO本部で開かれた国際会議でその要求を伝えた。協会長でウェブトゥーン作家、国立公州大学教授のKwon Hyuk-joo（クォン・ヒョクジュ）は、会議「デジタル環境における人間の創造性と文化的表現の多様性の促進」で発言した。"
+              },
+              {
+                "t": "p",
+                "x": "Kwonは創作者164人を対象にした調査を引用した。約90パーセントが作品のAI学習への利用を止める方法を知らないと答え、81.1パーセントがオプトイン（opt-in）方式に参加すると答えた。彼は、ウェブトゥーンを公開すること、それをAIモデルの学習に使うこと、そのキャラクターをチャットボットなどのAIサービスに使うことはそれぞれ別の権利だと述べ、AI生成（AI-generated）コンテンツの表示義務化と学習データの透明性を求めた。"
+              },
+              {
+                "t": "p",
+                "x": "UNESCO親善大使のJean-Michel Jarreは、創作の目的と方向を決めるのはあくまで人間でなければならないと述べた。UNESCOは、今回の議論を文化的表現の多様性に関する2005年条約に基づくデジタル政策の取り組みに生かすとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "韩国漫画家赴UNESCO\n要求AI使用须经同意",
+          "body": "韩国漫画创作者在UNESCO呼吁制定规则，要求用作品训练AI前须征得作者同意。",
+          "mini_headline": "漫画家把AI问题带到UNESCO",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "Kwon Hyuk-joo（权赫柱）的网漫《Xinker》/ Naver Webtoon提供"
+              },
+              {
+                "t": "p",
+                "x": "韩国漫画创作者呼吁制定严格规则，要求在将作品用于训练人工智能（AI）模型之前必须征得创作者同意，并在巴黎UNESCO总部举行的一场国际会议上提出了这一诉求。协会会长、网漫作家兼国立公州大学教授Kwon Hyuk-joo（权赫柱）在题为“在数字环境中促进人类创造力与文化表现形式多样性”的会议上发言。"
+              },
+              {
+                "t": "p",
+                "x": "Kwon援引了一项针对164名创作者的调查：约90%表示不知道如何阻止自己的作品被用于AI训练，81.1%表示愿意参与选择加入（opt-in）机制。他表示，发布网漫、用其训练AI模型、将其角色用于聊天机器人等AI服务，是相互独立的权利；他还呼吁强制标注AI生成（AI-generated）内容，并提高训练数据的透明度。"
+              },
+              {
+                "t": "p",
+                "x": "UNESCO亲善大使Jean-Michel Jarre表示，决定创作目的和方向的必须始终是人类。UNESCO表示，相关讨论将纳入其在2005年《文化表现形式多样性公约》框架下的数字政策工作。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dibujantes coreanos exigen ante\nla UNESCO consentimiento en AI",
+          "body": "Creadores de cómic coreanos pidieron en la UNESCO que se exija consentimiento antes de entrenar AI con sus obras.",
+          "mini_headline": "Dibujantes llevan la AI a la UNESCO",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "El webtoon \"Xinker\" de Kwon Hyuk-joo / Cortesía de Naver Webtoon"
+              },
+              {
+                "t": "p",
+                "x": "Creadores de cómic coreanos pidieron normas estrictas que exijan el consentimiento de los artistas antes de usar su obra para entrenar modelos de inteligencia artificial (AI), y presentaron su demanda en una conferencia internacional en la sede de la UNESCO en París. El presidente de la asociación, Kwon Hyuk-joo, autor de webtoons y profesor de la Universidad Nacional de Kongju, intervino en la conferencia “Promover la creatividad humana y la diversidad de las expresiones culturales en el entorno digital”."
+              },
+              {
+                "t": "p",
+                "x": "Kwon citó una encuesta a 164 creadores: cerca del 90 por ciento dijo no saber cómo impedir que su obra se use para entrenar AI, mientras que el 81.1 por ciento afirmó que participaría en un sistema de consentimiento previo (opt-in). Señaló que publicar un webtoon, usarlo para entrenar un modelo de AI y emplear sus personajes en servicios de AI como chatbots son derechos distintos, y pidió el etiquetado obligatorio del contenido generado por AI (AI-generated) y transparencia sobre los datos de entrenamiento."
+              },
+              {
+                "t": "p",
+                "x": "Jean-Michel Jarre, embajador de buena voluntad de la UNESCO, afirmó que los humanos deben seguir siendo quienes decidan el propósito y la dirección del trabajo creativo. La UNESCO indicó que los debates nutrirán su trabajo de política digital en el marco de la Convención de 2005 sobre la Diversidad de las Expresiones Culturales."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "한국 만화가, AI 동의\nUNESCO에 촉구",
+          "body": "한국 만화가들이 UNESCO에서 AI 학습 전 작가 동의 규칙을 요구했다.",
+          "mini_headline": "만화가들, AI 문제 UNESCO로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "권혁주(Kwon Hyuk-joo)의 웹툰 “Xinker” / Naver Webtoon 제공"
+              },
+              {
+                "t": "p",
+                "x": "한국 만화 창작자들이 작품을 인공지능(AI) 모델 학습에 쓰기 전에 작가의 동의를 받도록 하는 엄격한 규칙을 요구했다. 이들은 파리 UNESCO 본부에서 열린 국제회의에서 이 요구를 전달했다. 협회장인 웹툰 작가 겸 국립공주대학교 교수 권혁주(Kwon Hyuk-joo)는 “디지털 환경에서 인간의 창의성과 문화적 표현의 다양성 증진” 회의에서 발언했다."
+              },
+              {
+                "t": "p",
+                "x": "권(Kwon) 회장은 창작자 164명을 대상으로 한 설문을 인용했다. 약 90퍼센트는 자기 작품이 AI 학습에 쓰이는 것을 막는 방법을 모른다고 답했고, 81.1퍼센트는 옵트인(opt-in) 제도에 참여하겠다고 답했다. 그는 웹툰을 출간하는 일, 이를 AI 모델 학습에 쓰는 일, 그 캐릭터를 챗봇 같은 AI 서비스에 쓰는 일은 각각 별개의 권리라고 말하며, AI 생성(AI-generated) 콘텐츠 표시 의무화와 학습 데이터 투명성을 요구했다."
+              },
+              {
+                "t": "p",
+                "x": "UNESCO 친선대사 Jean-Michel Jarre는 창작의 목적과 방향을 정하는 주체는 계속 인간이어야 한다고 말했다. UNESCO는 이번 논의가 문화적 표현의 다양성에 관한 2005년 협약에 따른 디지털 정책 작업에 반영될 것이라고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "韓国の漫画家、\nUNESCOでAI同意要求",
+          "body": "韓国の漫画家らがUNESCOで、AI学習前に作家の同意を求めるルールを要求した。",
+          "mini_headline": "漫画家、AI問題をUNESCOへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "Kwon Hyuk-joo（クォン・ヒョクジュ）のウェブトゥーン「Xinker」／Naver Webtoon提供"
+              },
+              {
+                "t": "p",
+                "x": "韓国の漫画創作者らが、作品を人工知能（AI）モデルの学習に使う前に作家の同意を義務づける厳格なルールを求め、パリのUNESCO本部で開かれた国際会議でその要求を伝えた。協会長でウェブトゥーン作家、国立公州大学教授のKwon Hyuk-joo（クォン・ヒョクジュ）は、会議「デジタル環境における人間の創造性と文化的表現の多様性の促進」で発言した。"
+              },
+              {
+                "t": "p",
+                "x": "Kwonは創作者164人を対象にした調査を引用した。約90パーセントが作品のAI学習への利用を止める方法を知らないと答え、81.1パーセントがオプトイン（opt-in）方式に参加すると答えた。彼は、ウェブトゥーンを公開すること、それをAIモデルの学習に使うこと、そのキャラクターをチャットボットなどのAIサービスに使うことはそれぞれ別の権利だと述べ、AI生成（AI-generated）コンテンツの表示義務化と学習データの透明性を求めた。"
+              },
+              {
+                "t": "p",
+                "x": "UNESCO親善大使のJean-Michel Jarreは、創作の目的と方向を決めるのはあくまで人間でなければならないと述べた。UNESCOは、今回の議論を文化的表現の多様性に関する2005年条約に基づくデジタル政策の取り組みに生かすとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "韩国漫画家赴UNESCO\n要求AI使用须经同意",
+          "body": "韩国漫画创作者在UNESCO呼吁制定规则，要求用作品训练AI前须征得作者同意。",
+          "mini_headline": "漫画家把AI问题带到UNESCO",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "Kwon Hyuk-joo（权赫柱）的网漫《Xinker》/ Naver Webtoon提供"
+              },
+              {
+                "t": "p",
+                "x": "韩国漫画创作者呼吁制定严格规则，要求在将作品用于训练人工智能（AI）模型之前必须征得创作者同意，并在巴黎UNESCO总部举行的一场国际会议上提出了这一诉求。协会会长、网漫作家兼国立公州大学教授Kwon Hyuk-joo（权赫柱）在题为“在数字环境中促进人类创造力与文化表现形式多样性”的会议上发言。"
+              },
+              {
+                "t": "p",
+                "x": "Kwon援引了一项针对164名创作者的调查：约90%表示不知道如何阻止自己的作品被用于AI训练，81.1%表示愿意参与选择加入（opt-in）机制。他表示，发布网漫、用其训练AI模型、将其角色用于聊天机器人等AI服务，是相互独立的权利；他还呼吁强制标注AI生成（AI-generated）内容，并提高训练数据的透明度。"
+              },
+              {
+                "t": "p",
+                "x": "UNESCO亲善大使Jean-Michel Jarre表示，决定创作目的和方向的必须始终是人类。UNESCO表示，相关讨论将纳入其在2005年《文化表现形式多样性公约》框架下的数字政策工作。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dibujantes coreanos exigen ante\nla UNESCO consentimiento en AI",
+          "body": "Creadores de cómic coreanos pidieron en la UNESCO que se exija consentimiento antes de entrenar AI con sus obras.",
+          "mini_headline": "Dibujantes llevan la AI a la UNESCO",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+                "cap": "El webtoon \"Xinker\" de Kwon Hyuk-joo / Cortesía de Naver Webtoon"
+              },
+              {
+                "t": "p",
+                "x": "Creadores de cómic coreanos pidieron normas estrictas que exijan el consentimiento de los artistas antes de usar su obra para entrenar modelos de inteligencia artificial (AI), y presentaron su demanda en una conferencia internacional en la sede de la UNESCO en París. El presidente de la asociación, Kwon Hyuk-joo, autor de webtoons y profesor de la Universidad Nacional de Kongju, intervino en la conferencia “Promover la creatividad humana y la diversidad de las expresiones culturales en el entorno digital”."
+              },
+              {
+                "t": "p",
+                "x": "Kwon citó una encuesta a 164 creadores: cerca del 90 por ciento dijo no saber cómo impedir que su obra se use para entrenar AI, mientras que el 81.1 por ciento afirmó que participaría en un sistema de consentimiento previo (opt-in). Señaló que publicar un webtoon, usarlo para entrenar un modelo de AI y emplear sus personajes en servicios de AI como chatbots son derechos distintos, y pidió el etiquetado obligatorio del contenido generado por AI (AI-generated) y transparencia sobre los datos de entrenamiento."
+              },
+              {
+                "t": "p",
+                "x": "Jean-Michel Jarre, embajador de buena voluntad de la UNESCO, afirmó que los humanos deben seguir siendo quienes decidan el propósito y la dirección del trabajo creativo. La UNESCO indicó que los debates nutrirán su trabajo de política digital en el marco de la Convención de 2005 sobre la Diversidad de las Expresiones Culturales."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "andy-weir-human-writers",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Andy Weir, 어쩌면\n마지막 순수 인간 작가",
+      "body": "Andy Weir는 마지막 순수 인간 작가일지도 모른다며 AI를 망치에 빗댔다.",
+      "mini_headline": "Andy Weir가 본 인간 작가",
+      "tool": "Books",
+      "source": "IGN",
+      "url": "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+          },
+          {
+            "t": "p",
+            "x": "『The Martian』과 『Project Hail Mary』를 쓴 Andy Weir가 최근 인터뷰에서 AI의 발전과 그 기술이 앞으로 자기 같은 직업에 미칠 영향, AI를 살인 망치에 비유할 수 있는 이유를 이야기했다."
+          },
+          {
+            "t": "p",
+            "x": "“시간문제일 뿐이라고 생각한다.” 그는 SlashFilm에 이렇게 말했다. “솔직히 딱 그 시기에 작가가 된 건 운이 좋았다고 생각한다. 내가 완전한 인간 작가의 마지막 세대에 속할지도 모르기 때문이다.” 그래도 Weir는 대체로 이 기술을 도구로 보고 긍정적으로 대하는 편이다. 속도에서는 경주용 자동차가, 힘에서는 지게차가 이미 인간의 능력을 넘어섰듯 AI의 지능도 같은 범주에 든다고 그는 짚는다."
+          },
+          {
+            "t": "p",
+            "x": "“우리가 쓸 수 있고, 쓰고 싶지 않을 때는 플러그를 뽑을 수 있는 도구다.” 그는 이렇게 덧붙였다. “결국 내가 망치를 건네면, 당신은 집을 지을 수도 있고 사람을 죽일 수도 있다. 문제는 도구가 아니라 사용자다.”"
+          },
+          {
+            "t": "p",
+            "x": "AI는 당연히 Weir의 다음 소설 주제이기도 하다. 그는 2024년 The Bridge 인터뷰에서 이 프로젝트를 예고했다. “지금 다음 책을 쓰고 있다. AI가 그 안에서 중요한 역할을 한다. 하지만 로봇이 사랑에 빠지는 이야기 같은 걸 쓰는 게 아니라, 내 방식대로 하고 있다.”"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Andy Weir: perhaps among\nthe last fully human writers",
+          "body": "Novelist Andy Weir says he may be among the last fully human writers, likening AI to hammers and forklifts.",
+          "mini_headline": "Andy Weir on human writers",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "In a recent interview, Andy Weir, the author of The Martian and Project Hail Mary, shared his thoughts about the progress of AI, how it might affect careers like his in the future and why it could be compared to a homicide hammer."
+              },
+              {
+                "t": "p",
+                "x": "\"I think it's only a matter of time,\" he told SlashFilm. \"Honestly, I think I'm lucky that I ended up being a writer right when I did, because I might be among the last generation of fully human writers.\" Despite that, overall Weir seems to have a positive attitude towards the technology, seeing it as a tool. He points out that other advancements have already surpassed human abilities, like race cars for speed and forklifts for strength, and the smarts of AI falling into a similar category."
+              },
+              {
+                "t": "p",
+                "x": "\"It's a tool that we can use and we can unplug when we don't want to use it,\" he added. \"In the end, if I give you a hammer, you can build a house or you can murder someone. It's not the tool that's the issue; it's the user.\""
+              },
+              {
+                "t": "p",
+                "x": "Not surprisingly, AI is something Weir will explore in his next novel. In a 2024 interview with The Bridge, he teased the project. \"I'm working on my next book now. AI plays a significant role in it. But I'm doing it my way, not writing a story about robots falling in love or anything.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Andy Weir, 어쩌면\n마지막 순수 인간 작가",
+          "body": "Andy Weir는 마지막 순수 인간 작가일지도 모른다며 AI를 망치에 빗댔다.",
+          "mini_headline": "Andy Weir가 본 인간 작가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "『The Martian』과 『Project Hail Mary』를 쓴 Andy Weir가 최근 인터뷰에서 AI의 발전과 그 기술이 앞으로 자기 같은 직업에 미칠 영향, AI를 살인 망치에 비유할 수 있는 이유를 이야기했다."
+              },
+              {
+                "t": "p",
+                "x": "“시간문제일 뿐이라고 생각한다.” 그는 SlashFilm에 이렇게 말했다. “솔직히 딱 그 시기에 작가가 된 건 운이 좋았다고 생각한다. 내가 완전한 인간 작가의 마지막 세대에 속할지도 모르기 때문이다.” 그래도 Weir는 대체로 이 기술을 도구로 보고 긍정적으로 대하는 편이다. 속도에서는 경주용 자동차가, 힘에서는 지게차가 이미 인간의 능력을 넘어섰듯 AI의 지능도 같은 범주에 든다고 그는 짚는다."
+              },
+              {
+                "t": "p",
+                "x": "“우리가 쓸 수 있고, 쓰고 싶지 않을 때는 플러그를 뽑을 수 있는 도구다.” 그는 이렇게 덧붙였다. “결국 내가 망치를 건네면, 당신은 집을 지을 수도 있고 사람을 죽일 수도 있다. 문제는 도구가 아니라 사용자다.”"
+              },
+              {
+                "t": "p",
+                "x": "AI는 당연히 Weir의 다음 소설 주제이기도 하다. 그는 2024년 The Bridge 인터뷰에서 이 프로젝트를 예고했다. “지금 다음 책을 쓰고 있다. AI가 그 안에서 중요한 역할을 한다. 하지만 로봇이 사랑에 빠지는 이야기 같은 걸 쓰는 게 아니라, 내 방식대로 하고 있다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Andy Weir「最後の\n純粋な人間作家かも」",
+          "body": "Andy Weirは最後の純粋な人間作家かもしれないと語り、AIをハンマーに例えた。",
+          "mini_headline": "Andy Weirと人間の作家",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "『The Martian』『Project Hail Mary』の著者Andy Weirは最近のインタビューで、AIの進歩について、それが将来自分のような職業にどう影響しうるか、そしてなぜそれが殺人のハンマーになぞらえられるのかについて考えを語った。"
+              },
+              {
+                "t": "p",
+                "x": "「時間の問題だと思う」と彼はSlashFilmに語った。「正直、ちょうどあの時期に作家になれたのは幸運だったと思う。私は完全に人間の作家の最後の世代の一人かもしれないから」。それでもWeirは全体として、この技術を道具とみなし、前向きな姿勢を示しているようだ。速さではレースカー、力ではフォークリフトのように、ほかの技術の進歩はすでに人間の能力を超えており、AIの知能も同様の範疇に入ると指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "「使うことができ、使いたくないときにはプラグを抜ける道具だ」と彼は付け加えた。「結局のところ、私があなたにハンマーを渡せば、あなたは家を建てることも、人を殺すこともできる。問題は道具ではなく、使う人だ」"
+              },
+              {
+                "t": "p",
+                "x": "当然ながら、AIはWeirが次の小説で掘り下げるテーマでもある。2024年のThe Bridgeによるインタビューで、彼はこのプロジェクトを予告していた。「今、次の本を書いている。そこではAIが重要な役割を果たす。でも、ロボットが恋に落ちるような話を書くのではなく、私なりのやり方でやっている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Andy Weir：或许是\n最后的纯人类作家",
+          "body": "小说家Andy Weir称自己或许是最后一代纯人类作家，并把AI比作锤子和叉车。",
+          "mini_headline": "Andy Weir谈人类作家",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "《The Martian》和《Project Hail Mary》的作者Andy Weir在近期一次采访中，谈到了他对AI进展的看法、AI未来可能如何影响像他这样的职业，以及为什么它可以被比作一把杀人的锤子。"
+              },
+              {
+                "t": "p",
+                "x": "“我觉得这只是时间问题，”他对SlashFilm说，“说实话，我觉得自己很幸运，恰好在那个时候成为作家，因为我可能属于最后一代完全由人类创作的作家。”尽管如此，Weir总体上似乎对这项技术持积极态度，将其视为一种工具。他指出，其他技术进步早已超越人类能力，比如赛车之于速度、叉车之于力量，而AI的智能也属于类似范畴。"
+              },
+              {
+                "t": "p",
+                "x": "“它是一种我们可以使用、不想用时也可以拔掉插头的工具，”他补充道，“说到底，如果我给你一把锤子，你可以用它盖房子，也可以用它杀人。问题不在工具，而在使用者。”"
+              },
+              {
+                "t": "p",
+                "x": "不出所料，AI将是Weir下一部小说探讨的主题。在2024年接受The Bridge采访时，他曾预告这个项目：“我现在正在写下一本书。AI在其中扮演重要角色。但我是按自己的方式来写，不是写机器人坠入爱河之类的故事。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Andy Weir: quizá entre los\núltimos autores del todo humanos",
+          "body": "Andy Weir dice que quizá sea de los últimos autores del todo humanos y compara la AI con martillos y montacargas.",
+          "mini_headline": "Andy Weir y los escritores humanos",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En una entrevista reciente, Andy Weir, autor de The Martian y Project Hail Mary, compartió sus ideas sobre el avance de la AI, cómo podría afectar en el futuro a carreras como la suya y por qué podría compararse con un martillo homicida."
+              },
+              {
+                "t": "p",
+                "x": "“Creo que es solo cuestión de tiempo”, dijo a SlashFilm. “Sinceramente, creo que tuve suerte de convertirme en escritor justo cuando lo hice, porque quizá esté entre la última generación de escritores totalmente humanos”. Aun así, en general Weir parece tener una actitud positiva hacia la tecnología, que ve como una herramienta. Señala que otros avances ya han superado las capacidades humanas, como los coches de carreras en velocidad y los montacargas en fuerza, y que la inteligencia de la AI entra en una categoría similar."
+              },
+              {
+                "t": "p",
+                "x": "“Es una herramienta que podemos usar y desenchufar cuando no queramos usarla”, añadió. “Al final, si te doy un martillo, puedes construir una casa o asesinar a alguien. El problema no es la herramienta; es el usuario”."
+              },
+              {
+                "t": "p",
+                "x": "No es de extrañar que la AI sea un tema que Weir explorará en su próxima novela. En una entrevista de 2024 con The Bridge, adelantó el proyecto: “Ahora estoy trabajando en mi próximo libro. La AI tiene un papel importante en él. Pero lo hago a mi manera, no estoy escribiendo una historia sobre robots que se enamoran ni nada parecido”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Andy Weir, 어쩌면\n마지막 순수 인간 작가",
+          "body": "Andy Weir는 마지막 순수 인간 작가일지 모른다며 AI를 망치에 빗댔다.",
+          "mini_headline": "Andy Weir가 본 인간 작가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "『The Martian』과 『Project Hail Mary』의 작가 Andy Weir는 최근 인터뷰에서 AI의 발전, 그것이 앞으로 자신과 같은 직업에 미칠 영향, 그리고 AI를 살인 망치에 비유할 수 있는 이유에 대한 생각을 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“시간문제일 뿐이라고 생각한다.” 그는 SlashFilm에 이렇게 말했다. “솔직히 딱 그 시기에 작가가 된 건 운이 좋았다고 생각한다. 내가 완전한 인간 작가의 마지막 세대에 속할지도 모르기 때문이다.” 그럼에도 Weir는 전반적으로 이 기술을 도구로 보며 긍정적인 태도를 보이는 듯하다. 그는 속도에서는 경주용 자동차, 힘에서는 지게차처럼 다른 기술 발전이 이미 인간의 능력을 넘어섰고, AI의 지능도 비슷한 범주에 속한다고 지적한다."
+              },
+              {
+                "t": "p",
+                "x": "“우리가 쓸 수 있고, 쓰고 싶지 않을 때는 플러그를 뽑을 수 있는 도구다.” 그는 이렇게 덧붙였다. “결국 내가 망치를 건네면, 당신은 집을 지을 수도 있고 사람을 죽일 수도 있다. 문제는 도구가 아니라 사용자다.”"
+              },
+              {
+                "t": "p",
+                "x": "당연하게도 AI는 Weir가 다음 소설에서 탐구할 주제다. 그는 2024년 The Bridge와의 인터뷰에서 이 프로젝트를 예고했다. “지금 다음 책을 쓰고 있다. AI가 그 안에서 중요한 역할을 한다. 하지만 로봇이 사랑에 빠지는 이야기 같은 걸 쓰는 게 아니라, 내 방식대로 하고 있다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Andy Weir「最後の\n純粋な人間作家かも」",
+          "body": "Andy Weirは最後の純粋な人間作家かもしれないと語り、AIをハンマーに例えた。",
+          "mini_headline": "Andy Weirと人間の作家",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "『The Martian』『Project Hail Mary』の著者Andy Weirは最近のインタビューで、AIの進歩について、それが将来自分のような職業にどう影響しうるか、そしてなぜそれが殺人のハンマーになぞらえられるのかについて考えを語った。"
+              },
+              {
+                "t": "p",
+                "x": "「時間の問題だと思う」と彼はSlashFilmに語った。「正直、ちょうどあの時期に作家になれたのは幸運だったと思う。私は完全に人間の作家の最後の世代の一人かもしれないから」。それでもWeirは全体として、この技術を道具とみなし、前向きな姿勢を示しているようだ。速さではレースカー、力ではフォークリフトのように、ほかの技術の進歩はすでに人間の能力を超えており、AIの知能も同様の範疇に入ると指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "「使うことができ、使いたくないときにはプラグを抜ける道具だ」と彼は付け加えた。「結局のところ、私があなたにハンマーを渡せば、あなたは家を建てることも、人を殺すこともできる。問題は道具ではなく、使う人だ」"
+              },
+              {
+                "t": "p",
+                "x": "当然ながら、AIはWeirが次の小説で掘り下げるテーマでもある。2024年のThe Bridgeによるインタビューで、彼はこのプロジェクトを予告していた。「今、次の本を書いている。そこではAIが重要な役割を果たす。でも、ロボットが恋に落ちるような話を書くのではなく、私なりのやり方でやっている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Andy Weir：或许是\n最后的纯人类作家",
+          "body": "小说家Andy Weir称自己或许是最后一代纯人类作家，并把AI比作锤子和叉车。",
+          "mini_headline": "Andy Weir谈人类作家",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "《The Martian》和《Project Hail Mary》的作者Andy Weir在近期一次采访中，谈到了他对AI进展的看法、AI未来可能如何影响像他这样的职业，以及为什么它可以被比作一把杀人的锤子。"
+              },
+              {
+                "t": "p",
+                "x": "“我觉得这只是时间问题，”他对SlashFilm说，“说实话，我觉得自己很幸运，恰好在那个时候成为作家，因为我可能属于最后一代完全由人类创作的作家。”尽管如此，Weir总体上似乎对这项技术持积极态度，将其视为一种工具。他指出，其他技术进步早已超越人类能力，比如赛车之于速度、叉车之于力量，而AI的智能也属于类似范畴。"
+              },
+              {
+                "t": "p",
+                "x": "“它是一种我们可以使用、不想用时也可以拔掉插头的工具，”他补充道，“说到底，如果我给你一把锤子，你可以用它盖房子，也可以用它杀人。问题不在工具，而在使用者。”"
+              },
+              {
+                "t": "p",
+                "x": "不出所料，AI将是Weir下一部小说探讨的主题。在2024年接受The Bridge采访时，他曾预告这个项目：“我现在正在写下一本书。AI在其中扮演重要角色。但我是按自己的方式来写，不是写机器人坠入爱河之类的故事。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Andy Weir: quizá entre los\núltimos autores del todo humanos",
+          "body": "Andy Weir dice que quizá sea de los últimos autores del todo humanos y compara la AI con martillos y montacargas.",
+          "mini_headline": "Andy Weir y los escritores humanos",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En una entrevista reciente, Andy Weir, autor de The Martian y Project Hail Mary, compartió sus ideas sobre el avance de la AI, cómo podría afectar en el futuro a carreras como la suya y por qué podría compararse con un martillo homicida."
+              },
+              {
+                "t": "p",
+                "x": "“Creo que es solo cuestión de tiempo”, dijo a SlashFilm. “Sinceramente, creo que tuve suerte de convertirme en escritor justo cuando lo hice, porque quizá esté entre la última generación de escritores totalmente humanos”. Aun así, en general Weir parece tener una actitud positiva hacia la tecnología, que ve como una herramienta. Señala que otros avances ya han superado las capacidades humanas, como los coches de carreras en velocidad y los montacargas en fuerza, y que la inteligencia de la AI entra en una categoría similar."
+              },
+              {
+                "t": "p",
+                "x": "“Es una herramienta que podemos usar y desenchufar cuando no queramos usarla”, añadió. “Al final, si te doy un martillo, puedes construir una casa o asesinar a alguien. El problema no es la herramienta; es el usuario”."
+              },
+              {
+                "t": "p",
+                "x": "No es de extrañar que la AI sea un tema que Weir explorará en su próxima novela. En una entrevista de 2024 con The Bridge, adelantó el proyecto: “Ahora estoy trabajando en mi próximo libro. La AI tiene un papel importante en él. Pero lo hago a mi manera, no estoy escribiendo una historia sobre robots que se enamoran ni nada parecido”."
               }
             ]
           }

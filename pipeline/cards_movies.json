@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "movies",
   "cards": [
     {
-      "id": "guilds-openai-fairuse-brief",
+      "id": "spaced-wright-ai-remaster",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "할리우드 노조\nAI 학습 공정이용 반대",
-      "body": "SAG-AFTRA·WGA·AFM이 OpenAI 소송서 AI 공정이용에 반대했다.",
-      "mini_headline": "노조, AI 공정이용에 반대",
+      "headline": "Edgar Wright가\nAI판 Spaced 부정",
+      "body": "Wright가 AI-upscaled 4K Blu-ray Spaced와 선을 그었다.",
+      "mini_headline": "Wright, AI판 Spaced 부정",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,149 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+            "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+            "cap": "Spaced"
           },
           {
             "t": "p",
-            "x": "SAG-AFTRA와 American Federation of Music, Writers Guild of America 동부·서부 지부가 AI 모델 학습에 공정이용 예외를 인정하지 말라고 연방 판사에게 요청했다. 노조들은 여러 언론사·작가가 OpenAI를 상대로 낸 저작권 침해 소송에 목요일 공동 법정 의견서(amicus brief)를 내고 조 달러 규모의 이 기업이 “자사 기술을 개발하려고 중산층과 노동자 계층의 작업물을 가져다 쓰고 있다”고 주장했다."
+            "x": "Edgar Wright가 1999-2001년 영국 TV에서 방영한 컬트 코미디 시리즈 ‘Spaced’의 Blu-Ray 재출시를 강하게 비판했다. 무엇보다 이 계획 자체를 전혀 몰랐다. X에는 “몇 년 동안 SPACED의 Blu-Ray를 내자고 밀어붙여 왔는데, 누군가 우리와 상의도 없이 그냥 진행했다니…. 맥이 빠진다. 시리즈 제작에 참여한 누구도 승인하지 않았다”고 적었다."
           },
           {
             "t": "p",
-            "x": "의견서는 “무단 학습의 피해는 뉴스 원고(News Plaintiffs) 같은 기업뿐 아니라 그 작업 뒤에 있는 수많은 전문가에게도 돌아간다”고 썼다. 34쪽짜리 이 문서는 공정이용을 일괄 인정하면 창작자에게서 기업으로 “잠재적으로 막대한 가치 이전”이 일어날 수 있다고 짚으며 “이번 AI 학습 분쟁은 ‘평범한 저작권 사건에 지나지 않으며’ 그렇게 다뤄져야 한다”고 주장한다."
+            "x": "Simon Pegg도 Variety에 성명을 보내 이렇게 거들었다. “전혀 몰랐다. 우리에게는 아무런 발언권이 없었다. Jess, Edgar와 나는 이전의 모든 출시에 깊이 관여했다. 무엇보다 표지 아트부터 거부했을 것이다.”"
           },
           {
             "t": "p",
-            "x": "공정이용 여부는 사안마다 따로 판단해야 한다는 게 노조들의 입장이다. 작가 노조와 배우 노조는 상업용 생성형 AI 시스템 학습에 쓰려고 대상 저작물을 제3자에게 라이선스할 때 통보받고 교섭할 권리를 따냈다. 의견서는 “이 사건에서 학습이 일괄적으로 공정이용이라고 판결하면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 지적했다."
+            "x": "새 출시판은 AI 업스케일을 앞세운다. 제품 설명을 보면 이 컬렉션은 “전통적 도구와 자체 도구를 결합해 비상업적·알고리즘 보정을 여러 단계에 걸쳐 거치고, 여기에 수작업 작업자가 프레임 단위로 추가 보정한 완전히 새로운 4K 마스터로 업그레이드됐다.”"
+          },
+          {
+            "t": "p",
+            "x": "Pegg와 Jessica Hynes가 만든 이 Channel 4 시트콤의 14개 에피소드는 모두 Wright가 연출했다. 새 4K Blu-Ray는 2027년 2월에 나온다. 발매사는 현재 Banijay Entertainment 산하에 있는 All3Media다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hollywood guilds oppose\nfair use for AI training",
-          "body": "SAG-AFTRA, the WGA and the AFM asked a federal judge to reject fair use for AI training in the OpenAI case.",
-          "mini_headline": "Guilds fight AI fair use",
+          "headline": "Edgar Wright disowns\nan AI remaster of Spaced",
+          "body": "Director Edgar Wright says the new AI-upscaled 4K Blu-ray of Spaced was not authorized by anyone who made the show.",
+          "mini_headline": "Wright disowns AI Spaced remaster",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA, the American Federation of Music and the Writers Guild of America East and West are calling on a federal judge to reject a fair use exemption for training AI models. The unions jointly filed an amicus brief Thursday in the ongoing copyright infringement battle between OpenAI and a slew of news outlets and writers, arguing the trillion-dollar company is “appropriating the work of middle- and working-class people to develop their technology.”"
+                "x": "Edgar Wright has slammed an upcoming Blu-Ray re-release of “Spaced,” the cult comedy series that ran on British TV from 1999-2001, largely because he had no idea about it. “I had been pushing to do a Blu-Ray of SPACED for years, so to find out that someone just went ahead without our involvement is…. a bummer. Not authorized by anyone involved in making the show,” he wrote on X."
               },
               {
                 "t": "p",
-                "x": "“The harms of unlicensed training fall not just on companies like the News Plaintiffs, but on the countless professionals behind the work,” the brief reads. The 34-page document lays out how a categorical fair use exemption would allow for a “potentially enormous transfer of value” from creators to corporations, and argues that “this AI training dispute is ‘no more than an ordinary copyright case’ and should be treated as such.”"
+                "x": "In a statement sent to Variety, Simon Pegg added: “I was completely unaware. We had no say in it. Jess, Edgar and I were heavily involved in all previous releases. I would have rejected the cover art for a start.”"
               },
               {
                 "t": "p",
-                "x": "The unions make the case that fair use must remain a case-by-case judgement call. The writers and actors guilds won a notice-and-bargaining right for third party licenses of covered work to train commercial generative AI systems; “a ruling here that training is categorically fair use would render moot the terms the unions and the industry agreed to at the bargaining table,” the brief says."
+                "x": "The new release claims to have been upscaled using AI. Its description says the collection “has been upgraded to a brand new 4K master using a combination of traditional and proprietary tools in a multi-step process of non-commercial and algorithmic corrections that are additionally enhanced frame by frame by a manual operator.”"
+              },
+              {
+                "t": "p",
+                "x": "Wright directed all 14 episodes of the Channel 4 sitcom created by Pegg and Jessica Hynes. The new 4K Blu-Ray release is due out in February 2027 and comes from All3Media, now part of Banijay Entertainment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "할리우드 노조\nAI 학습 공정이용 반대",
-          "body": "SAG-AFTRA·WGA·AFM이 OpenAI 소송서 AI 공정이용에 반대했다.",
-          "mini_headline": "노조, AI 공정이용에 반대",
+          "headline": "Edgar Wright가\nAI판 Spaced 부정",
+          "body": "Wright가 AI-upscaled 4K Blu-ray Spaced와 선을 그었다.",
+          "mini_headline": "Wright, AI판 Spaced 부정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA와 American Federation of Music, Writers Guild of America 동부·서부 지부가 AI 모델 학습에 공정이용 예외를 인정하지 말라고 연방 판사에게 요청했다. 노조들은 여러 언론사·작가가 OpenAI를 상대로 낸 저작권 침해 소송에 목요일 공동 법정 의견서(amicus brief)를 내고 조 달러 규모의 이 기업이 “자사 기술을 개발하려고 중산층과 노동자 계층의 작업물을 가져다 쓰고 있다”고 주장했다."
+                "x": "Edgar Wright가 1999-2001년 영국 TV에서 방영한 컬트 코미디 시리즈 ‘Spaced’의 Blu-Ray 재출시를 강하게 비판했다. 무엇보다 이 계획 자체를 전혀 몰랐다. X에는 “몇 년 동안 SPACED의 Blu-Ray를 내자고 밀어붙여 왔는데, 누군가 우리와 상의도 없이 그냥 진행했다니…. 맥이 빠진다. 시리즈 제작에 참여한 누구도 승인하지 않았다”고 적었다."
               },
               {
                 "t": "p",
-                "x": "의견서는 “무단 학습의 피해는 뉴스 원고(News Plaintiffs) 같은 기업뿐 아니라 그 작업 뒤에 있는 수많은 전문가에게도 돌아간다”고 썼다. 34쪽짜리 이 문서는 공정이용을 일괄 인정하면 창작자에게서 기업으로 “잠재적으로 막대한 가치 이전”이 일어날 수 있다고 짚으며 “이번 AI 학습 분쟁은 ‘평범한 저작권 사건에 지나지 않으며’ 그렇게 다뤄져야 한다”고 주장한다."
+                "x": "Simon Pegg도 Variety에 성명을 보내 이렇게 거들었다. “전혀 몰랐다. 우리에게는 아무런 발언권이 없었다. Jess, Edgar와 나는 이전의 모든 출시에 깊이 관여했다. 무엇보다 표지 아트부터 거부했을 것이다.”"
               },
               {
                 "t": "p",
-                "x": "공정이용 여부는 사안마다 따로 판단해야 한다는 게 노조들의 입장이다. 작가 노조와 배우 노조는 상업용 생성형 AI 시스템 학습에 쓰려고 대상 저작물을 제3자에게 라이선스할 때 통보받고 교섭할 권리를 따냈다. 의견서는 “이 사건에서 학습이 일괄적으로 공정이용이라고 판결하면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 지적했다."
+                "x": "새 출시판은 AI 업스케일을 앞세운다. 제품 설명을 보면 이 컬렉션은 “전통적 도구와 자체 도구를 결합해 비상업적·알고리즘 보정을 여러 단계에 걸쳐 거치고, 여기에 수작업 작업자가 프레임 단위로 추가 보정한 완전히 새로운 4K 마스터로 업그레이드됐다.”"
+              },
+              {
+                "t": "p",
+                "x": "Pegg와 Jessica Hynes가 만든 이 Channel 4 시트콤의 14개 에피소드는 모두 Wright가 연출했다. 새 4K Blu-Ray는 2027년 2월에 나온다. 발매사는 현재 Banijay Entertainment 산하에 있는 All3Media다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ハリウッドの組合\nAI学習のフェアユースに反対",
-          "body": "SAG-AFTRA・WGA・AFMがOpenAI訴訟でAI学習の公正利用否定を判事に求めた。",
-          "mini_headline": "組合がAIフェアユースに反対",
+          "headline": "Edgar Wright、\nAI版Spacedを否認",
+          "body": "WrightはAI-upscaled 4K Blu-ray版Spacedを非公認と断じた。",
+          "mini_headline": "Wright、AI版Spacedを否認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA、American Federation of Music、Writers Guild of America東部・西部は、AIモデルの学習にフェアユースの例外を認めないよう連邦判事に求めている。各組合は木曜日、OpenAIと多数の報道機関や作家の間で続く著作権侵害訴訟でアミカスブリーフを共同提出し、兆ドル規模の同社が「自らの技術開発のために中流層や労働者層の作品を流用している」と主張した。"
+                "x": "Edgar Wrightは、1999-2001年に英国のTVで放送されたカルト的コメディシリーズ『Spaced』のBlu-Ray再発売を強く批判した。その計画を全く知らなかったことが大きな理由だ。彼はXに「何年もSPACEDのBlu-Ray化を働きかけてきたのに、誰かが私たち抜きで勝手に進めたと知るのは…。がっかりだ。番組の制作に関わった誰も承認していない」と書いた。"
               },
               {
                 "t": "p",
-                "x": "「無許諾の学習による損害は、News Plaintiffsのような企業だけでなく、作品を支える無数の専門家にも及ぶ」と意見書は述べる。34ページの文書は、フェアユースを一律に認めれば創作者から企業へ「潜在的に莫大な価値の移転」が起こりうると説明し、「このAI学習をめぐる争いは『通常の著作権訴訟にすぎず』、そのように扱われるべきだ」と論じている。"
+                "x": "Simon PeggはVarietyに寄せた声明で次のように付け加えた。「全く知らなかった。私たちには何の発言権もなかった。Jess、Edgar、そして私は過去のすべてのリリースに深く関わってきた。そもそもカバーアートからして却下していただろう」"
               },
               {
                 "t": "p",
-                "x": "組合側は、フェアユースは事案ごとに判断されるべきだと訴える。脚本家と俳優の組合は、商用の生成AIシステムの学習に対象作品を第三者へライセンスする際の通知・交渉権を勝ち取っている。意見書は「ここで学習を一律にフェアユースとする判決が出れば、組合と業界が交渉の場で合意した条件が無意味になる」としている。"
+                "x": "新しいリリースはAIでアップスケールしたとうたっている。説明文によると、このコレクションは「従来のツールと独自ツールを組み合わせ、非商業的かつアルゴリズムによる補正を多段階で施し、さらに手作業のオペレーターがフレームごとに補強した、まったく新しい4K マスターにアップグレードされた」という。"
+              },
+              {
+                "t": "p",
+                "x": "WrightはPeggとJessica Hynesが生み出したChannel 4のシットコム全14話を監督した。新しい4K Blu-Rayは2027年2月に発売予定で、現在はBanijay Entertainment傘下のAll3Mediaが手がける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "好莱坞工会\n反对AI训练合理使用",
-          "body": "SAG-AFTRA、WGA与AFM请求联邦法官在OpenAI案中驳回AI训练的合理使用主张。",
-          "mini_headline": "工会反对AI合理使用",
+          "headline": "Edgar Wright\n否认AI版Spaced",
+          "body": "Wright称AI-upscaled 4K Blu-ray版Spaced未获主创授权。",
+          "mini_headline": "Wright否认AI版Spaced",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA、American Federation of Music以及Writers Guild of America东部与西部分会呼吁联邦法官驳回针对AI模型训练的合理使用豁免。各工会周四在OpenAI与众多新闻机构及作家之间持续进行的版权侵权诉讼中联合提交了法庭之友意见书，称这家万亿美元级公司正在“挪用中产阶级和工薪阶层的作品来开发自己的技术”。"
+                "x": "Edgar Wright猛烈批评即将推出的《Spaced》Blu-Ray再版。这部邪典喜剧剧集于1999-2001年在英国TV播出，而他批评的主要原因是自己对此毫不知情。他在X上写道：“我多年来一直在推动出SPACED的Blu-Ray，结果发现有人在我们未参与的情况下径自推进……真扫兴。没有任何参与制作该剧的人授权。”"
               },
               {
                 "t": "p",
-                "x": "意见书写道：“未经许可的训练所造成的伤害，不仅落在News Plaintiffs这样的公司身上，也落在作品背后无数的专业人士身上。”这份34页的文件阐述了一刀切的合理使用豁免可能造成价值从创作者向企业的“潜在巨大转移”，并主张“这场AI训练纠纷‘不过是一起普通的版权案件’，也应当如此对待”。"
+                "x": "Simon Pegg在发给Variety的声明中补充说：“我完全不知情。我们对此毫无发言权。Jess、Edgar和我深度参与了此前所有版本的发行。首先，我就会否决那个封面设计。”"
               },
               {
                 "t": "p",
-                "x": "工会认为，合理使用必须继续逐案判断。编剧和演员工会已就向第三方授权受保护作品用于训练商业生成式AI系统争取到通知与谈判的权利；意见书称：“若在此裁定训练一律属于合理使用，工会与业界在谈判桌上达成的条款将形同虚设。”"
+                "x": "新版声称采用AI进行了画质提升。其介绍称，该合集“结合传统工具与专有工具，经过非商业性和算法校正的多步骤流程，并由人工操作员逐帧进一步增强，升级为全新的4K 母版。”"
+              },
+              {
+                "t": "p",
+                "x": "Wright执导了由Pegg和Jessica Hynes创作的这部Channel 4情景喜剧的全部14集。新的4K Blu-Ray将于2027年2月推出，发行方为现隶属于Banijay Entertainment的All3Media。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los gremios de Hollywood\nrechazan el uso legítimo en IA",
-          "body": "SAG-AFTRA, el WGA y la AFM pidieron a un juez federal rechazar el uso legítimo para entrenar IA en el caso OpenAI.",
-          "mini_headline": "Gremios contra el uso legítimo",
+          "headline": "Edgar Wright desautoriza\nel remaster AI de Spaced",
+          "body": "Edgar Wright dice que el nuevo Blu-ray 4K AI-upscaled de Spaced no lo autorizó nadie de quienes hicieron la serie.",
+          "mini_headline": "Wright desautoriza el Spaced con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA, la American Federation of Music y el Writers Guild of America East y West piden a un juez federal que rechace una exención de uso legítimo para el entrenamiento de modelos de IA. Los sindicatos presentaron el jueves un escrito amicus conjunto en la demanda por infracción de derechos de autor que enfrenta a OpenAI con numerosos medios y escritores, y sostienen que la compañía de un billón de dólares está “apropiándose del trabajo de personas de clase media y trabajadora para desarrollar su tecnología”."
+                "x": "Edgar Wright ha criticado con dureza una próxima reedición en Blu-Ray de “Spaced”, la serie de comedia de culto que se emitió en la TV británica en 1999-2001, sobre todo porque no sabía nada de ella. “Llevaba años insistiendo en hacer un Blu-Ray de SPACED, así que enterarme de que alguien simplemente siguió adelante sin contar con nosotros es…. un fastidio. No lo autorizó nadie de quienes participaron en hacer la serie”, escribió en X."
               },
               {
                 "t": "p",
-                "x": "“Los daños del entrenamiento sin licencia no recaen solo en empresas como los News Plaintiffs, sino en los innumerables profesionales que hay detrás del trabajo”, dice el escrito. El documento de 34 páginas expone cómo una exención categórica de uso legítimo permitiría una “transferencia de valor potencialmente enorme” de los creadores a las corporaciones, y sostiene que “esta disputa sobre el entrenamiento de IA ‘no es más que un caso ordinario de derechos de autor’ y debe tratarse como tal”."
+                "x": "En un comunicado enviado a Variety, Simon Pegg añadió: “No sabía absolutamente nada. No tuvimos ni voz ni voto. Jess, Edgar y yo participamos de lleno en todas las ediciones anteriores. Para empezar, habría rechazado la portada”."
               },
               {
                 "t": "p",
-                "x": "Los sindicatos defienden que el uso legítimo debe seguir evaluándose caso por caso. Los gremios de guionistas y actores obtuvieron un derecho de notificación y negociación sobre las licencias a terceros de obras cubiertas para entrenar sistemas comerciales de IA generativa; “un fallo que declare que el entrenamiento es categóricamente uso legítimo dejaría sin efecto los términos que los sindicatos y la industria acordaron en la mesa de negociación”, señala el escrito."
+                "x": "La nueva edición afirma haber sido reescalada mediante AI. Su descripción indica que la colección “se ha actualizado a un máster 4K completamente nuevo mediante una combinación de herramientas tradicionales y propias en un proceso de varios pasos de correcciones no comerciales y algorítmicas, que además un operador manual mejora fotograma a fotograma”."
+              },
+              {
+                "t": "p",
+                "x": "Wright dirigió los 14 episodios de la comedia de Channel 4 creada por Pegg y Jessica Hynes. La nueva edición en 4K Blu-Ray saldrá en febrero de 2027 y procede de All3Media, que ahora forma parte de Banijay Entertainment."
               }
             ]
           }
@@ -169,105 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "할리우드 노조들\nAI 학습 공정이용 반대",
-          "body": "SAG-AFTRA·WGA·AFM이 OpenAI 소송서 AI 공정이용 기각을 청했다.",
-          "mini_headline": "노조, AI 공정이용에 반대",
+          "headline": "Edgar Wright가\nAI판 Spaced 부정",
+          "body": "Wright는 AI-upscaled 4K Blu-ray Spaced를 부정했다.",
+          "mini_headline": "Wright, AI판 Spaced 부정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA와 American Federation of Music, Writers Guild of America 동부·서부 지부가 AI 모델 학습에 공정이용 예외를 인정하지 말라고 연방 판사에게 요청했다. 노조들은 OpenAI와 여러 언론사·작가들이 벌이고 있는 저작권 침해 소송에 목요일 공동으로 법정 의견서(amicus brief)를 내고, 조 달러 규모의 이 기업이 “자사 기술을 개발하려고 중산층과 노동자 계층의 작업물을 가져다 쓰고 있다”고 주장했다."
+                "x": "Edgar Wright는 1999-2001년 영국 TV에서 방영된 컬트 코미디 시리즈 ‘Spaced’의 Blu-Ray 재출시를 강하게 비판했다. 그 계획을 전혀 몰랐다는 점이 가장 큰 이유다. 그는 X에 “몇 년 동안 SPACED의 Blu-Ray를 내자고 밀어붙여 왔는데, 누군가 우리와 상의도 없이 그냥 진행했다니…. 맥이 빠진다. 시리즈 제작에 참여한 누구도 승인하지 않았다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "의견서는 “무단 학습의 피해는 뉴스 원고(News Plaintiffs) 같은 기업뿐 아니라 그 작업 뒤에 있는 수많은 전문가에게도 돌아간다”고 밝혔다. 34쪽 분량의 이 문서는 공정이용을 일괄적으로 인정하면 창작자에게서 기업으로 “잠재적으로 막대한 가치 이전”이 일어날 수 있다고 설명하고, “이번 AI 학습 분쟁은 ‘평범한 저작권 사건에 지나지 않으며’ 그렇게 다뤄져야 한다”고 주장한다."
+                "x": "Simon Pegg는 Variety에 보낸 성명에서 이렇게 덧붙였다. “전혀 몰랐다. 우리에게는 아무런 발언권이 없었다. Jess, Edgar와 나는 이전의 모든 출시에 깊이 관여했다. 무엇보다 표지 아트부터 거부했을 것이다.”"
               },
               {
                 "t": "p",
-                "x": "노조들은 공정이용 여부를 사안별로 판단해야 한다고 강조한다. 작가 노조와 배우 노조는 상업용 생성형 AI 시스템 학습을 위해 대상 저작물을 제3자에게 라이선스할 때 통보받고 교섭할 권리를 따냈다. 의견서는 “이 사건에서 학습이 일괄적으로 공정이용이라고 판결하면 노조와 업계가 교섭 테이블에서 합의한 조건이 무의미해진다”고 밝혔다."
+                "x": "새 출시판은 AI로 업스케일했다고 내세운다. 제품 설명에 따르면 이 컬렉션은 “전통적 도구와 자체 도구를 결합해 비상업적·알고리즘 보정을 여러 단계에 걸쳐 거치고, 여기에 수작업 작업자가 프레임 단위로 추가 보정한 완전히 새로운 4K 마스터로 업그레이드됐다.”"
+              },
+              {
+                "t": "p",
+                "x": "Wright는 Pegg와 Jessica Hynes가 만든 Channel 4 시트콤의 14개 에피소드를 모두 연출했다. 새 4K Blu-Ray는 2027년 2월 출시 예정이며, 현재 Banijay Entertainment 산하인 All3Media가 내놓는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ハリウッドの組合\nAI学習のフェアユースに反対",
-          "body": "SAG-AFTRA・WGA・AFMがOpenAI訴訟でAI学習の公正利用否定を判事に求めた。",
-          "mini_headline": "組合がAIフェアユースに反対",
+          "headline": "Edgar Wright、\nAI版Spacedを否認",
+          "body": "WrightはAI-upscaled 4K Blu-ray版Spacedを非公認と断じた。",
+          "mini_headline": "Wright、AI版Spacedを否認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA、American Federation of Music、Writers Guild of America東部・西部は、AIモデルの学習にフェアユースの例外を認めないよう連邦判事に求めている。各組合は木曜日、OpenAIと多数の報道機関や作家の間で続く著作権侵害訴訟でアミカスブリーフを共同提出し、兆ドル規模の同社が「自らの技術開発のために中流層や労働者層の作品を流用している」と主張した。"
+                "x": "Edgar Wrightは、1999-2001年に英国のTVで放送されたカルト的コメディシリーズ『Spaced』のBlu-Ray再発売を強く批判した。その計画を全く知らなかったことが大きな理由だ。彼はXに「何年もSPACEDのBlu-Ray化を働きかけてきたのに、誰かが私たち抜きで勝手に進めたと知るのは…。がっかりだ。番組の制作に関わった誰も承認していない」と書いた。"
               },
               {
                 "t": "p",
-                "x": "「無許諾の学習による損害は、News Plaintiffsのような企業だけでなく、作品を支える無数の専門家にも及ぶ」と意見書は述べる。34ページの文書は、フェアユースを一律に認めれば創作者から企業へ「潜在的に莫大な価値の移転」が起こりうると説明し、「このAI学習をめぐる争いは『通常の著作権訴訟にすぎず』、そのように扱われるべきだ」と論じている。"
+                "x": "Simon PeggはVarietyに寄せた声明で次のように付け加えた。「全く知らなかった。私たちには何の発言権もなかった。Jess、Edgar、そして私は過去のすべてのリリースに深く関わってきた。そもそもカバーアートからして却下していただろう」"
               },
               {
                 "t": "p",
-                "x": "組合側は、フェアユースは事案ごとに判断されるべきだと訴える。脚本家と俳優の組合は、商用の生成AIシステムの学習に対象作品を第三者へライセンスする際の通知・交渉権を勝ち取っている。意見書は「ここで学習を一律にフェアユースとする判決が出れば、組合と業界が交渉の場で合意した条件が無意味になる」としている。"
+                "x": "新しいリリースはAIでアップスケールしたとうたっている。説明文によると、このコレクションは「従来のツールと独自ツールを組み合わせ、非商業的かつアルゴリズムによる補正を多段階で施し、さらに手作業のオペレーターがフレームごとに補強した、まったく新しい4K マスターにアップグレードされた」という。"
+              },
+              {
+                "t": "p",
+                "x": "WrightはPeggとJessica Hynesが生み出したChannel 4のシットコム全14話を監督した。新しい4K Blu-Rayは2027年2月に発売予定で、現在はBanijay Entertainment傘下のAll3Mediaが手がける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "好莱坞工会\n反对AI训练合理使用",
-          "body": "SAG-AFTRA、WGA与AFM请求联邦法官在OpenAI案中驳回AI训练的合理使用主张。",
-          "mini_headline": "工会反对AI合理使用",
+          "headline": "Edgar Wright\n否认AI版Spaced",
+          "body": "Wright称AI-upscaled 4K Blu-ray版Spaced未获主创授权。",
+          "mini_headline": "Wright否认AI版Spaced",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA、American Federation of Music以及Writers Guild of America东部与西部分会呼吁联邦法官驳回针对AI模型训练的合理使用豁免。各工会周四在OpenAI与众多新闻机构及作家之间持续进行的版权侵权诉讼中联合提交了法庭之友意见书，称这家万亿美元级公司正在“挪用中产阶级和工薪阶层的作品来开发自己的技术”。"
+                "x": "Edgar Wright猛烈批评即将推出的《Spaced》Blu-Ray再版。这部邪典喜剧剧集于1999-2001年在英国TV播出，而他批评的主要原因是自己对此毫不知情。他在X上写道：“我多年来一直在推动出SPACED的Blu-Ray，结果发现有人在我们未参与的情况下径自推进……真扫兴。没有任何参与制作该剧的人授权。”"
               },
               {
                 "t": "p",
-                "x": "意见书写道：“未经许可的训练所造成的伤害，不仅落在News Plaintiffs这样的公司身上，也落在作品背后无数的专业人士身上。”这份34页的文件阐述了一刀切的合理使用豁免可能造成价值从创作者向企业的“潜在巨大转移”，并主张“这场AI训练纠纷‘不过是一起普通的版权案件’，也应当如此对待”。"
+                "x": "Simon Pegg在发给Variety的声明中补充说：“我完全不知情。我们对此毫无发言权。Jess、Edgar和我深度参与了此前所有版本的发行。首先，我就会否决那个封面设计。”"
               },
               {
                 "t": "p",
-                "x": "工会认为，合理使用必须继续逐案判断。编剧和演员工会已就向第三方授权受保护作品用于训练商业生成式AI系统争取到通知与谈判的权利；意见书称：“若在此裁定训练一律属于合理使用，工会与业界在谈判桌上达成的条款将形同虚设。”"
+                "x": "新版声称采用AI进行了画质提升。其介绍称，该合集“结合传统工具与专有工具，经过非商业性和算法校正的多步骤流程，并由人工操作员逐帧进一步增强，升级为全新的4K 母版。”"
+              },
+              {
+                "t": "p",
+                "x": "Wright执导了由Pegg和Jessica Hynes创作的这部Channel 4情景喜剧的全部14集。新的4K Blu-Ray将于2027年2月推出，发行方为现隶属于Banijay Entertainment的All3Media。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los gremios de Hollywood\nrechazan el uso legítimo en IA",
-          "body": "SAG-AFTRA, el WGA y la AFM pidieron a un juez federal rechazar el uso legítimo para entrenar IA en el caso OpenAI.",
-          "mini_headline": "Gremios contra el uso legítimo",
+          "headline": "Edgar Wright desautoriza\nel remaster AI de Spaced",
+          "body": "Edgar Wright dice que el nuevo Blu-ray 4K AI-upscaled de Spaced no lo autorizó nadie de quienes hicieron la serie.",
+          "mini_headline": "Wright desautoriza el Spaced con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+                "cap": "Spaced"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA, la American Federation of Music y el Writers Guild of America East y West piden a un juez federal que rechace una exención de uso legítimo para el entrenamiento de modelos de IA. Los sindicatos presentaron el jueves un escrito amicus conjunto en la demanda por infracción de derechos de autor que enfrenta a OpenAI con numerosos medios y escritores, y sostienen que la compañía de un billón de dólares está “apropiándose del trabajo de personas de clase media y trabajadora para desarrollar su tecnología”."
+                "x": "Edgar Wright ha criticado con dureza una próxima reedición en Blu-Ray de “Spaced”, la serie de comedia de culto que se emitió en la TV británica en 1999-2001, sobre todo porque no sabía nada de ella. “Llevaba años insistiendo en hacer un Blu-Ray de SPACED, así que enterarme de que alguien simplemente siguió adelante sin contar con nosotros es…. un fastidio. No lo autorizó nadie de quienes participaron en hacer la serie”, escribió en X."
               },
               {
                 "t": "p",
-                "x": "“Los daños del entrenamiento sin licencia no recaen solo en empresas como los News Plaintiffs, sino en los innumerables profesionales que hay detrás del trabajo”, dice el escrito. El documento de 34 páginas expone cómo una exención categórica de uso legítimo permitiría una “transferencia de valor potencialmente enorme” de los creadores a las corporaciones, y sostiene que “esta disputa sobre el entrenamiento de IA ‘no es más que un caso ordinario de derechos de autor’ y debe tratarse como tal”."
+                "x": "En un comunicado enviado a Variety, Simon Pegg añadió: “No sabía absolutamente nada. No tuvimos ni voz ni voto. Jess, Edgar y yo participamos de lleno en todas las ediciones anteriores. Para empezar, habría rechazado la portada”."
               },
               {
                 "t": "p",
-                "x": "Los sindicatos defienden que el uso legítimo debe seguir evaluándose caso por caso. Los gremios de guionistas y actores obtuvieron un derecho de notificación y negociación sobre las licencias a terceros de obras cubiertas para entrenar sistemas comerciales de IA generativa; “un fallo que declare que el entrenamiento es categóricamente uso legítimo dejaría sin efecto los términos que los sindicatos y la industria acordaron en la mesa de negociación”, señala el escrito."
+                "x": "La nueva edición afirma haber sido reescalada mediante AI. Su descripción indica que la colección “se ha actualizado a un máster 4K completamente nuevo mediante una combinación de herramientas tradicionales y propias en un proceso de varios pasos de correcciones no comerciales y algorítmicas, que además un operador manual mejora fotograma a fotograma”."
+              },
+              {
+                "t": "p",
+                "x": "Wright dirigió los 14 episodios de la comedia de Channel 4 creada por Pegg y Jessica Hynes. La nueva edición en 4K Blu-Ray saldrá en febrero de 2027 y procede de All3Media, que ahora forma parte de Banijay Entertainment."
               }
             ]
           }
@@ -275,15 +325,15 @@
       }
     },
     {
-      "id": "voicemod-disney-soundboards",
-      "source_lang": "en",
+      "id": "jikuyukaku-japan-ai-feature",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Voicemod에 디즈니\n스타워즈·마블 사운드보드",
-      "body": "Voicemod가 Disney와 손잡고 스타워즈·마블 대사와 효과음을 들여온다.",
-      "mini_headline": "Voicemod에 디즈니 사운드",
+      "headline": "일본, 전편 AI로 만든\n장편영화 2027년 공개",
+      "body": "각본은 챗GPT, 배우 3명은 AI로 재현하고 주제가는 Suno가 만든다.",
+      "mini_headline": "일본 전편 AI 장편영화",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/digital/news/ai-voicemod-disney-star-wars-marvel-soundboards-1236934834/",
+      "source": "인공지능신문",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42538",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -291,265 +341,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-            "cap": "©Walt Disney Co./Everett Collection 제공"
+            "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+            "cap": "사진:텐더프로(영상 갈무리)"
           },
           {
             "t": "p",
-            "x": "Voicemod는 목소리의 톤과 소리를 바꾸고 효과음을 넣을 수 있는 AI 기반(AI-powered) 음성 변조 플랫폼이다. 여기에 Star Wars와 Marvel 작품의 사운드보드가 들어오면서 월간 활성 사용자 570만 명이 Twitch, Discord 같은 플랫폼에서 해당 작품의 대사와 효과음을 쓸 수 있게 된다. 첫 Star Wars 사운드보드는 “The Mandalorian & Grogu”로 금요일부터 이용할 수 있고 다른 사운드보드도 뒤따른다."
+            "x": "일본 영화 제작진은 전편을 생성형 AI로 제작한 장편영화 ‘시공유곽 라비린스(時空遊郭ラビリンス)’를 2027년 공개할 예정이라고 2일 발표했다. 일본의 옥손즈(Oxons), 텐더프로(Tender Pro), 전일본자원봉사연맹(All Japan Volunteer Federation)이 공동 제작한다."
           },
           {
             "t": "p",
-            "x": "아직 자기 목소리를 캐릭터처럼 바꾸는 기능은 아닌 듯하고, 도구는 “사운드 밈”에 가깝다. 그래도 Disney가 AI 관련(AI-related) 기업에 IP 라이선스를 내줬다는 건 엔터테인먼트 기업들이 자사 지식재산을 인공지능과 엮는 데 갈수록 적극적이라는 방증이다."
+            "x": "실제 배우들이 AI로 재현된 모습으로 등장한다. AI 출연 배우는 후루카와 안, 오시다리 아키코, 홋타 신조 등 3명이다. 홋타 신조는 “우선 믿기지 않는다. 정말 홋타 신조 그대로다. 놀랍다”고 말했다. 연출은 ‘카메라를 멈추면 안 돼!’의 촬영감독으로 알려진 소네 다케시가 맡았다."
+          },
+          {
+            "t": "video",
+            "yt": "e8H_ggZXKqY"
           },
           {
             "t": "p",
-            "x": "이번 계약은 Disney가 지난해 단명으로 끝난 10억 달러 투자 계약의 일환으로 OpenAI의 Sora에 캐릭터 라이선스를 내준 데 이은 것이다. Hasbro가 자사 캐릭터 여럿의 목소리를 ElevenLabs에 라이선스한 뒤이기도 하다. Voicemod 창업자 겸 CEO Jaime Bosch는 “이 사운드보드는 사용자가 Marvel과 Star Wars의 소리를 그런 순간에 가져올 수 있게 해 그 상호작용을 한층 넓힌다”고 말했다."
+            "x": "이번 작품에서는 오픈AI의 챗GPT가 각본 제작에 활용됐으며, 주제가 ‘라비린스(LABYRINTH)’는 AI 음악 생성 서비스 수노(Suno)를 통해 제작됐다. 극장 ‘라비린스’의 가수 니나 앞에 자신과 똑같은 얼굴과 목소리를 가진 AI가 나타나면서 벌어지는 이야기로, ‘당신의 꿈은 지금 누구의 것인가’라는 질문을 던진다. 구체적인 개봉일과 상영 방식은 추후 발표될 것으로 보인다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Voicemod adds Star Wars and\nMarvel soundboards via Disney",
-          "body": "Voicemod signed a Disney deal to add Star Wars and Marvel soundboards of quotes and sound effects for its users.",
-          "mini_headline": "Voicemod gets Disney sounds",
+        "ko": {
+          "headline": "일본, 전편 AI로 만든\n장편영화 2027년 공개",
+          "body": "각본은 챗GPT, 배우 3명은 AI로 재현하고 주제가는 Suno가 만든다.",
+          "mini_headline": "일본 전편 AI 장편영화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Courtesy Everett Collection"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "사진:텐더프로(영상 갈무리)"
               },
               {
                 "t": "p",
-                "x": "Voicemod, the AI-powered voice-modifying platform that lets users change the tone and sound of their voice and make use of sound effects, will add soundboards from Star Wars and Marvel projects, allowing its 5.7 million monthly active users to use quotes and sound effects from those projects on platforms such as Twitch and Discord. The first Star Wars soundboards, from “The Mandalorian & Grogu,” are available as of Friday; others will follow."
+                "x": "일본 영화 제작진은 전편을 생성형 AI로 제작한 장편영화 ‘시공유곽 라비린스(時空遊郭ラビリンス)’를 2027년 공개할 예정이라고 2일 발표했다. 일본의 옥손즈(Oxons), 텐더프로(Tender Pro), 전일본자원봉사연맹(All Japan Volunteer Federation)이 공동 제작한다."
               },
               {
                 "t": "p",
-                "x": "It does not yet appear that users can make their own voices sound like the characters, with the tools more like “sound memes.” But Disney’s decision to license IP to an AI-related company reflects the increasing willingness of entertainment companies to associate their intellectual property with artificial intelligence."
+                "x": "실제 배우들이 AI로 재현된 모습으로 등장한다. AI 출연 배우는 후루카와 안, 오시다리 아키코, 홋타 신조 등 3명이다. 홋타 신조는 “우선 믿기지 않는다. 정말 홋타 신조 그대로다. 놀랍다”고 말했다. 연출은 ‘카메라를 멈추면 안 돼!’의 촬영감독으로 알려진 소네 다케시가 맡았다."
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "It follows Disney’s move last year to license characters for OpenAI’s Sora as part of its short-lived $1 billion investment deal, and comes after Hasbro licensed several of its characters’ voices to ElevenLabs. “These soundboards build on those interactions by giving users a way to bring sounds from Marvel and Star Wars into those moments,” said Voicemod founder and CEO Jaime Bosch."
+                "x": "이번 작품에서는 오픈AI의 챗GPT가 각본 제작에 활용됐으며, 주제가 ‘라비린스(LABYRINTH)’는 AI 음악 생성 서비스 수노(Suno)를 통해 제작됐다. 극장 ‘라비린스’의 가수 니나 앞에 자신과 똑같은 얼굴과 목소리를 가진 AI가 나타나면서 벌어지는 이야기로, ‘당신의 꿈은 지금 누구의 것인가’라는 질문을 던진다. 구체적인 개봉일과 상영 방식은 추후 발표될 것으로 보인다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Voicemod에 디즈니\n스타워즈·마블 사운드보드",
-          "body": "Voicemod가 Disney와 손잡고 스타워즈·마블 대사와 효과음을 들여온다.",
-          "mini_headline": "Voicemod에 디즈니 사운드",
+        "en": {
+          "headline": "Japan's fully AI-made feature\nfilm to be released in 2027",
+          "body": "The script comes from ChatGPT, 3 actors are recreated with AI and Suno makes the theme song.",
+          "mini_headline": "Japan's all-AI feature film",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Everett Collection 제공"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "Photo: Tender Pro (video capture)"
               },
               {
                 "t": "p",
-                "x": "Voicemod는 목소리의 톤과 소리를 바꾸고 효과음을 넣을 수 있는 AI 기반(AI-powered) 음성 변조 플랫폼이다. 여기에 Star Wars와 Marvel 작품의 사운드보드가 들어오면서 월간 활성 사용자 570만 명이 Twitch, Discord 같은 플랫폼에서 해당 작품의 대사와 효과음을 쓸 수 있게 된다. 첫 Star Wars 사운드보드는 “The Mandalorian & Grogu”로 금요일부터 이용할 수 있고 다른 사운드보드도 뒤따른다."
+                "x": "Japanese filmmakers announced on the 2nd that they plan to release ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), a feature film made entirely with generative AI, in 2027. It is co-produced by Japan's Oxons, Tender Pro and the All Japan Volunteer Federation."
               },
               {
                 "t": "p",
-                "x": "아직 자기 목소리를 캐릭터처럼 바꾸는 기능은 아닌 듯하고, 도구는 “사운드 밈”에 가깝다. 그래도 Disney가 AI 관련(AI-related) 기업에 IP 라이선스를 내줬다는 건 엔터테인먼트 기업들이 자사 지식재산을 인공지능과 엮는 데 갈수록 적극적이라는 방증이다."
+                "x": "Real actors appear as AI recreations. The 3 actors cast through AI are An Furukawa, Akiko Oshidari and Shinzo Hotta. Shinzo Hotta said, “First of all, I can't believe it. It really is Shinzo Hotta exactly. It's amazing.” The film is directed by Takeshi Sone, known as the cinematographer of ‘One Cut of the Dead’."
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "이번 계약은 Disney가 지난해 단명으로 끝난 10억 달러 투자 계약의 일환으로 OpenAI의 Sora에 캐릭터 라이선스를 내준 데 이은 것이다. Hasbro가 자사 캐릭터 여럿의 목소리를 ElevenLabs에 라이선스한 뒤이기도 하다. Voicemod 창업자 겸 CEO Jaime Bosch는 “이 사운드보드는 사용자가 Marvel과 Star Wars의 소리를 그런 순간에 가져올 수 있게 해 그 상호작용을 한층 넓힌다”고 말했다."
+                "x": "OpenAI's ChatGPT was used to write the script, and the theme song ‘LABYRINTH’ was made with the AI music generation service Suno. The story follows Nina, a singer at the theater ‘Labyrinth’, after an AI with her exact face and voice appears before her, and it poses the question ‘Whose dream is yours now?’ The specific release date and screening format are expected to be announced later."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スター・ウォーズとマーベル\nVoicemodに効果音追加",
-          "body": "VoicemodがDisneyと契約しスター・ウォーズとマーベルの台詞や効果音を追加する。",
-          "mini_headline": "VoicemodにDisneyの音",
+          "headline": "全編AI製の長編映画\n日本で2027年公開",
+          "body": "脚本はChatGPT、俳優3人はAIで再現し、主題歌はSunoが作る。",
+          "mini_headline": "日本の全編AI長編映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Everett Collection提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "写真:テンダープロ(映像キャプチャー)"
               },
               {
                 "t": "p",
-                "x": "ユーザーが声のトーンや音を変え、効果音を使えるAI-powered（AI搭載）の音声変換プラットフォームVoicemodが、Star WarsとMarvel作品のサウンドボードを追加する。月間アクティブユーザー570万人が、TwitchやDiscordなどのプラットフォームで各作品のセリフや効果音を使えるようになる。最初のStar Warsサウンドボードは『The Mandalorian & Grogu』のもので、金曜日から利用でき、ほかも順次続く。"
+                "x": "日本の映画制作陣は2日、全編を生成AIで制作した長編映画『時空遊郭ラビリンス』を2027年に公開する予定だと発表した。日本のオクソンズ(Oxons)、テンダープロ(Tender Pro)、全日本ボランティア連盟(All Japan Volunteer Federation)が共同で制作する。"
               },
               {
                 "t": "p",
-                "x": "現時点では、ユーザーが自分の声をキャラクターのように変えられるわけではなさそうで、ツールは「サウンドミーム」に近い。それでも、DisneyがAI-related（AI関連）企業にIPをライセンスしたことは、エンターテインメント企業が自社の知的財産を人工知能と結びつけることにますます前向きになっている現状を映している。"
+                "x": "実在の俳優がAIで再現された姿で登場する。AIで出演する俳優はフルカワ・アン、オシダリ・アキコ、ホッタ・シンゾウの3人だ。ホッタ・シンゾウは「まず信じられない。本当にホッタ・シンゾウそのものだ。驚いた」と語った。監督は『カメラを止めるな!』の撮影監督として知られる曽根剛が務めた。"
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "これは、Disneyが昨年、短命に終わった10億ドルの投資契約の一環としてOpenAIのSoraにキャラクターをライセンスした動きに続くもので、HasbroがElevenLabsに複数のキャラクターの声をライセンスした後のことでもある。Voicemodの創業者兼CEOのJaime Boschは「これらのサウンドボードは、MarvelとStar Warsのサウンドをそうした瞬間に持ち込む手段をユーザーに与え、そのやり取りをさらに広げるものだ」と述べた。"
+                "x": "今回の作品ではOpenAIのChatGPTが脚本制作に使われ、主題歌『ラビリンス(LABYRINTH)』はAI音楽生成サービスのスノ(Suno)で制作された。劇場『ラビリンス』の歌手ニナの前に、自分と同じ顔と声を持つAIが現れることから始まる物語で、「あなたの夢は今、誰のものか」という問いを投げかける。具体的な公開日と上映方式は追って発表される見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Voicemod携手迪士尼\n上线星战与漫威音效板",
-          "body": "Voicemod与Disney签约，为用户新增星球大战和漫威台词及音效声音板。",
-          "mini_headline": "Voicemod获迪士尼音效",
+          "headline": "日本全片AI制作\n长篇电影2027年上映",
+          "body": "剧本由ChatGPT撰写，3名演员由AI复现，主题曲由Suno创作。",
+          "mini_headline": "日本全片AI长篇电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Everett Collection提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "图片：Tender Pro（视频截图）"
               },
               {
                 "t": "p",
-                "x": "Voicemod是一款AI-powered（AI驱动）的变声平台，用户可以改变自己声音的音色和音质，并使用各种音效。该平台将加入Star Wars和Marvel作品的音效板，让570万月活跃用户在Twitch、Discord等平台上使用这些作品的台词与音效。首批Star Wars音效板来自《The Mandalorian & Grogu》，自周五起上线，其他音效板将陆续推出。"
+                "x": "日本电影制作团队于2日宣布，计划在2027年推出全片由生成式AI制作的长篇电影《时空游郭迷宫》（時空遊郭ラビリンス）。该片由日本的Oxons、Tender Pro与全日本志愿者联盟（All Japan Volunteer Federation）联合制作。"
               },
               {
                 "t": "p",
-                "x": "目前看来，用户还不能把自己的声音变成角色的声音，这些工具更像是“声音梗”。但Disney将IP授权给一家AI-related（AI相关）公司，反映出娱乐公司越来越愿意把自家知识产权与人工智能联系起来。"
+                "x": "片中真实演员将以AI复现的形象登场。参与AI演出的演员共3名，分别是Furukawa An、Oshidari Akiko和Hotta Shinzo。Hotta Shinzo表示：“首先难以置信。真的就是Hotta Shinzo本人。太惊人了。”影片由以《摄影机不要停！》摄影指导而闻名的曾根刚执导。"
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "此前，Disney去年在一项短命的10亿美元投资协议中将角色授权给OpenAI的Sora；Hasbro也曾将旗下多个角色的声音授权给ElevenLabs。Voicemod创始人兼CEO Jaime Bosch表示：“这些音效板在这些互动的基础上更进一步，让用户能够把Marvel和Star Wars的声音带入这些时刻。”"
+                "x": "本片使用OpenAI的ChatGPT创作剧本，主题曲《LABYRINTH》则通过AI音乐生成服务Suno制作。故事讲述剧场“迷宫”的歌手妮娜面前出现一个与她长相、声音完全相同的AI，由此抛出“你的梦想如今属于谁”的问题。具体上映日期与放映方式预计将在日后公布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Voicemod añade sonidos de\nStar Wars y Marvel con Disney",
-          "body": "Voicemod firmó un acuerdo con Disney para ofrecer a sus usuarios paneles de frases y efectos de Star Wars y Marvel.",
-          "mini_headline": "Voicemod suma sonidos de Disney",
+          "headline": "Japón estrenará en 2027 un\nlargometraje hecho todo con AI",
+          "body": "El guion es de ChatGPT, 3 actores se recrean con AI y el tema principal lo compone Suno.",
+          "mini_headline": "Largometraje japonés hecho con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Cortesía de Everett Collection"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "Foto: Tender Pro (captura de video)"
               },
               {
                 "t": "p",
-                "x": "Voicemod, la plataforma de modificación de voz impulsada por IA (AI-powered) que permite a los usuarios cambiar el tono y el sonido de su voz y usar efectos de sonido, añadirá paneles de sonido de proyectos de Star Wars y Marvel, lo que permitirá a sus 5,7 millones de usuarios activos mensuales usar frases y efectos de sonido de esas producciones en plataformas como Twitch y Discord. Los primeros paneles de Star Wars, de “The Mandalorian & Grogu”, están disponibles desde el viernes; otros llegarán después."
+                "x": "Los productores japoneses anunciaron el día 2 que estrenarán en 2027 ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), un largometraje realizado íntegramente con AI generativa. Lo coproducen las japonesas Oxons y Tender Pro junto con la All Japan Volunteer Federation."
               },
               {
                 "t": "p",
-                "x": "Por ahora no parece que los usuarios puedan hacer que su propia voz suene como los personajes; las herramientas se parecen más a “memes sonoros”. Pero la decisión de Disney de licenciar su IP a una empresa relacionada con la IA (AI-related) refleja la creciente disposición de las compañías de entretenimiento a asociar su propiedad intelectual con la inteligencia artificial."
+                "x": "Actores reales aparecen recreados con AI. Los 3 actores que participan mediante AI son An Furukawa, Akiko Oshidari y Shinzo Hotta. Shinzo Hotta declaró: “Para empezar, no me lo creo. Es Shinzo Hotta tal cual. Es asombroso”. La dirección corre a cargo de Takeshi Sone, conocido como director de fotografía de ‘One Cut of the Dead’."
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "Llega después de que Disney licenciara el año pasado personajes para Sora, de OpenAI, como parte de su efímero acuerdo de inversión de 1.000 millones de dólares, y después de que Hasbro licenciara las voces de varios de sus personajes a ElevenLabs. “Estos paneles de sonido amplían esas interacciones al dar a los usuarios una forma de llevar sonidos de Marvel y Star Wars a esos momentos”, dijo Jaime Bosch, fundador y CEO de Voicemod."
+                "x": "Para el guion se utilizó ChatGPT de OpenAI, y el tema principal, ‘LABYRINTH’, se creó con Suno, un servicio de generación musical con AI. La historia arranca cuando ante Nina, cantante del teatro ‘Labyrinth’, aparece una AI con su mismo rostro y su misma voz, y plantea la pregunta ‘¿De quién es ahora tu sueño?’. La fecha concreta de estreno y el formato de exhibición se anunciarán más adelante."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Voicemod에 디즈니\n스타워즈·마블 사운드보드",
-          "body": "Voicemod가 Disney와 계약해 스타워즈·마블 대사·효과음을 추가한다.",
-          "mini_headline": "Voicemod에 디즈니 사운드",
+        "en": {
+          "headline": "Japan's fully AI-made feature\nfilm to be released in 2027",
+          "body": "The script comes from ChatGPT, 3 actors are recreated with AI and Suno makes the theme song.",
+          "mini_headline": "Japan's all-AI feature film",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Everett Collection 제공"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "Photo: Tender Pro (video capture)"
               },
               {
                 "t": "p",
-                "x": "사용자가 목소리의 톤과 소리를 바꾸고 효과음을 쓸 수 있는 AI 기반(AI-powered) 음성 변조 플랫폼 Voicemod가 Star Wars와 Marvel 작품의 사운드보드를 추가한다. 월간 활성 사용자 570만 명이 Twitch, Discord 같은 플랫폼에서 해당 작품의 대사와 효과음을 쓸 수 있게 된다. 첫 Star Wars 사운드보드는 “The Mandalorian & Grogu”의 것으로 금요일부터 이용할 수 있고, 다른 사운드보드도 뒤따를 예정이다."
+                "x": "Japanese filmmakers announced on the 2nd that they plan to release ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), a feature film made entirely with generative AI, in 2027. It is co-produced by Japan's Oxons, Tender Pro and the All Japan Volunteer Federation."
               },
               {
                 "t": "p",
-                "x": "아직은 사용자가 자기 목소리를 캐릭터처럼 바꿀 수 있는 것은 아닌 듯하며, 도구는 “사운드 밈”에 가깝다. 그러나 Disney가 AI 관련(AI-related) 기업에 IP 라이선스를 내준 결정은 엔터테인먼트 기업들이 자사 지식재산을 인공지능과 연결하는 데 점점 더 적극적이라는 점을 보여준다."
+                "x": "Real actors appear as AI recreations. The 3 actors cast through AI are An Furukawa, Akiko Oshidari and Shinzo Hotta. Shinzo Hotta said, “First of all, I can't believe it. It really is Shinzo Hotta exactly. It's amazing.” The film is directed by Takeshi Sone, known as the cinematographer of ‘One Cut of the Dead’."
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "이번 계약은 Disney가 지난해 단명한 10억 달러 투자 계약의 일환으로 OpenAI의 Sora에 캐릭터 라이선스를 내준 데 이은 것이며, Hasbro가 자사 캐릭터 여럿의 목소리를 ElevenLabs에 라이선스한 뒤에 나왔다. Voicemod 창업자 겸 CEO Jaime Bosch는 “이 사운드보드는 사용자가 Marvel과 Star Wars의 소리를 그런 순간에 가져올 수 있게 해 그 상호작용을 한층 넓힌다”고 말했다."
+                "x": "OpenAI's ChatGPT was used to write the script, and the theme song ‘LABYRINTH’ was made with the AI music generation service Suno. The story follows Nina, a singer at the theater ‘Labyrinth’, after an AI with her exact face and voice appears before her, and it poses the question ‘Whose dream is yours now?’ The specific release date and screening format are expected to be announced later."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スター・ウォーズとマーベル\nVoicemodに効果音追加",
-          "body": "VoicemodがDisneyと契約しスター・ウォーズとマーベルの台詞や効果音を追加する。",
-          "mini_headline": "VoicemodにDisneyの音",
+          "headline": "全編AI製の長編映画\n日本で2027年公開",
+          "body": "脚本はChatGPT、俳優3人はAIで再現し、主題歌はSunoが作る。",
+          "mini_headline": "日本の全編AI長編映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Everett Collection提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "写真:テンダープロ(映像キャプチャー)"
               },
               {
                 "t": "p",
-                "x": "ユーザーが声のトーンや音を変え、効果音を使えるAI-powered（AI搭載）の音声変換プラットフォームVoicemodが、Star WarsとMarvel作品のサウンドボードを追加する。月間アクティブユーザー570万人が、TwitchやDiscordなどのプラットフォームで各作品のセリフや効果音を使えるようになる。最初のStar Warsサウンドボードは『The Mandalorian & Grogu』のもので、金曜日から利用でき、ほかも順次続く。"
+                "x": "日本の映画制作陣は2日、全編を生成AIで制作した長編映画『時空遊郭ラビリンス』を2027年に公開する予定だと発表した。日本のオクソンズ(Oxons)、テンダープロ(Tender Pro)、全日本ボランティア連盟(All Japan Volunteer Federation)が共同で制作する。"
               },
               {
                 "t": "p",
-                "x": "現時点では、ユーザーが自分の声をキャラクターのように変えられるわけではなさそうで、ツールは「サウンドミーム」に近い。それでも、DisneyがAI-related（AI関連）企業にIPをライセンスしたことは、エンターテインメント企業が自社の知的財産を人工知能と結びつけることにますます前向きになっている現状を映している。"
+                "x": "実在の俳優がAIで再現された姿で登場する。AIで出演する俳優はフルカワ・アン、オシダリ・アキコ、ホッタ・シンゾウの3人だ。ホッタ・シンゾウは「まず信じられない。本当にホッタ・シンゾウそのものだ。驚いた」と語った。監督は『カメラを止めるな!』の撮影監督として知られる曽根剛が務めた。"
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "これは、Disneyが昨年、短命に終わった10億ドルの投資契約の一環としてOpenAIのSoraにキャラクターをライセンスした動きに続くもので、HasbroがElevenLabsに複数のキャラクターの声をライセンスした後のことでもある。Voicemodの創業者兼CEOのJaime Boschは「これらのサウンドボードは、MarvelとStar Warsのサウンドをそうした瞬間に持ち込む手段をユーザーに与え、そのやり取りをさらに広げるものだ」と述べた。"
+                "x": "今回の作品ではOpenAIのChatGPTが脚本制作に使われ、主題歌『ラビリンス(LABYRINTH)』はAI音楽生成サービスのスノ(Suno)で制作された。劇場『ラビリンス』の歌手ニナの前に、自分と同じ顔と声を持つAIが現れることから始まる物語で、「あなたの夢は今、誰のものか」という問いを投げかける。具体的な公開日と上映方式は追って発表される見通しだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Voicemod携手迪士尼\n上线星战与漫威音效板",
-          "body": "Voicemod与Disney签约，为用户新增星球大战和漫威台词及音效声音板。",
-          "mini_headline": "Voicemod获迪士尼音效",
+          "headline": "日本全片AI制作\n长篇电影2027年上映",
+          "body": "剧本由ChatGPT撰写，3名演员由AI复现，主题曲由Suno创作。",
+          "mini_headline": "日本全片AI长篇电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Everett Collection提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "图片：Tender Pro（视频截图）"
               },
               {
                 "t": "p",
-                "x": "Voicemod是一款AI-powered（AI驱动）的变声平台，用户可以改变自己声音的音色和音质，并使用各种音效。该平台将加入Star Wars和Marvel作品的音效板，让570万月活跃用户在Twitch、Discord等平台上使用这些作品的台词与音效。首批Star Wars音效板来自《The Mandalorian & Grogu》，自周五起上线，其他音效板将陆续推出。"
+                "x": "日本电影制作团队于2日宣布，计划在2027年推出全片由生成式AI制作的长篇电影《时空游郭迷宫》（時空遊郭ラビリンス）。该片由日本的Oxons、Tender Pro与全日本志愿者联盟（All Japan Volunteer Federation）联合制作。"
               },
               {
                 "t": "p",
-                "x": "目前看来，用户还不能把自己的声音变成角色的声音，这些工具更像是“声音梗”。但Disney将IP授权给一家AI-related（AI相关）公司，反映出娱乐公司越来越愿意把自家知识产权与人工智能联系起来。"
+                "x": "片中真实演员将以AI复现的形象登场。参与AI演出的演员共3名，分别是Furukawa An、Oshidari Akiko和Hotta Shinzo。Hotta Shinzo表示：“首先难以置信。真的就是Hotta Shinzo本人。太惊人了。”影片由以《摄影机不要停！》摄影指导而闻名的曾根刚执导。"
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "此前，Disney去年在一项短命的10亿美元投资协议中将角色授权给OpenAI的Sora；Hasbro也曾将旗下多个角色的声音授权给ElevenLabs。Voicemod创始人兼CEO Jaime Bosch表示：“这些音效板在这些互动的基础上更进一步，让用户能够把Marvel和Star Wars的声音带入这些时刻。”"
+                "x": "本片使用OpenAI的ChatGPT创作剧本，主题曲《LABYRINTH》则通过AI音乐生成服务Suno制作。故事讲述剧场“迷宫”的歌手妮娜面前出现一个与她长相、声音完全相同的AI，由此抛出“你的梦想如今属于谁”的问题。具体上映日期与放映方式预计将在日后公布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Voicemod añade sonidos de\nStar Wars y Marvel con Disney",
-          "body": "Voicemod firmó un acuerdo con Disney para ofrecer a sus usuarios paneles de frases y efectos de Star Wars y Marvel.",
-          "mini_headline": "Voicemod suma sonidos de Disney",
+          "headline": "Japón estrenará en 2027 un\nlargometraje hecho todo con AI",
+          "body": "El guion es de ChatGPT, 3 actores se recrean con AI y el tema principal lo compone Suno.",
+          "mini_headline": "Largometraje japonés hecho con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg?w=1000&h=563&crop=1",
-                "cap": "©Walt Disney Co./Cortesía de Everett Collection"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
+                "cap": "Foto: Tender Pro (captura de video)"
               },
               {
                 "t": "p",
-                "x": "Voicemod, la plataforma de modificación de voz impulsada por IA (AI-powered) que permite a los usuarios cambiar el tono y el sonido de su voz y usar efectos de sonido, añadirá paneles de sonido de proyectos de Star Wars y Marvel, lo que permitirá a sus 5,7 millones de usuarios activos mensuales usar frases y efectos de sonido de esas producciones en plataformas como Twitch y Discord. Los primeros paneles de Star Wars, de “The Mandalorian & Grogu”, están disponibles desde el viernes; otros llegarán después."
+                "x": "Los productores japoneses anunciaron el día 2 que estrenarán en 2027 ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), un largometraje realizado íntegramente con AI generativa. Lo coproducen las japonesas Oxons y Tender Pro junto con la All Japan Volunteer Federation."
               },
               {
                 "t": "p",
-                "x": "Por ahora no parece que los usuarios puedan hacer que su propia voz suene como los personajes; las herramientas se parecen más a “memes sonoros”. Pero la decisión de Disney de licenciar su IP a una empresa relacionada con la IA (AI-related) refleja la creciente disposición de las compañías de entretenimiento a asociar su propiedad intelectual con la inteligencia artificial."
+                "x": "Actores reales aparecen recreados con AI. Los 3 actores que participan mediante AI son An Furukawa, Akiko Oshidari y Shinzo Hotta. Shinzo Hotta declaró: “Para empezar, no me lo creo. Es Shinzo Hotta tal cual. Es asombroso”. La dirección corre a cargo de Takeshi Sone, conocido como director de fotografía de ‘One Cut of the Dead’."
+              },
+              {
+                "t": "video",
+                "yt": "e8H_ggZXKqY"
               },
               {
                 "t": "p",
-                "x": "Llega después de que Disney licenciara el año pasado personajes para Sora, de OpenAI, como parte de su efímero acuerdo de inversión de 1.000 millones de dólares, y después de que Hasbro licenciara las voces de varios de sus personajes a ElevenLabs. “Estos paneles de sonido amplían esas interacciones al dar a los usuarios una forma de llevar sonidos de Marvel y Star Wars a esos momentos”, dijo Jaime Bosch, fundador y CEO de Voicemod."
+                "x": "Para el guion se utilizó ChatGPT de OpenAI, y el tema principal, ‘LABYRINTH’, se creó con Suno, un servicio de generación musical con AI. La historia arranca cuando ante Nina, cantante del teatro ‘Labyrinth’, aparece una AI con su mismo rostro y su misma voz, y plantea la pregunta ‘¿De quién es ahora tu sueño?’. La fecha concreta de estreno y el formato de exhibición se anunciarán más adelante."
               }
             ]
           }
@@ -557,15 +647,15 @@
       }
     },
     {
-      "id": "libatique-ai-vfx-actors",
+      "id": "akuna-google-africa-ai-film",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "리바티크 “AI는 VFX\n대체해도 배우는 못 해”",
-      "body": "리바티크는 아로노프스키 차기작에서 AI를 시험하지만 마블 AI 배우엔 회의적이다.",
-      "mini_headline": "리바티크가 본 AI와 VFX",
+      "headline": "Elba·Google,\n무료 AI 영화 과정 연다",
+      "body": "아프리카 다섯 나라 신진은 11월 15일까지 무료 AI 영화교육·제작비에 지원한다.",
+      "mini_headline": "Elba·Google, 아프리카 AI 영화 지원",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/global/iron-man-matthew-libatique-ai-could-replace-marvel-vfx-1236934879/",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/idris-elba-google-launch-free-ai-filmmaking-programme-in-five-african-countries/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -573,185 +663,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-            "cap": "Evolution Mallorca 제공"
+            "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+            "cap": "Idris Elba와 Google, 아프리카 다섯 나라에서 무료 AI 영화 제작 프로그램 시작"
           },
           {
             "t": "p",
-            "x": "오스카 후보에 세 차례 오른 촬영감독 Matthew Libatique는 Darren Aronofsky의 차기작을 앞두고 이 기술을 “시험”하는 중이다. Aronofsky는 Google DeepMind와 함께 AI 스튜디오 Primordial Soup을 세웠다. 그는 “곧 테스트를 한다”고 했다."
+            "x": "영국 배우 Sir Idris Elba가 회장인 The Akuna Group 산하 이니셔티브 Akuna Learning이 아프리카 다섯 나라 예비·신진 창작자를 대상으로 무료 인공지능(AI) 영화 제작 프로그램 신청을 받기 시작했다."
           },
           {
             "t": "p",
-            "x": "그는 AI가 “영화를 대체하지는 못할 것이다. 대체할 수 있는 건 Marvel이다”라고 말한다. 대작을 만드는 스튜디오들이 시각효과에서 “AI로 비용 일부를 줄일 것”이라는 얘기다. 그렇다고 Marvel이 “AI 배우를 쓸 일은 없을 것”이라고 그는 내다본다. “Robert Pattinson이 하는 걸 해낼 AI 캐릭터를 만들겠다는 말은 믿을 수 없다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-            "cap": "“아이언맨”, Marvel 제공"
+            "x": "프로그램 이름은 ‘From Script to Screen with AI’로, Google과 함께 운영한다. 자금 1백만 달러는 Google.org가 대고 커리큘럼은 Curious Refuge가 짰다. 대상은 나이지리아, 가나, 케냐, 시에라리온, 남아프리카공화국에서 자격 요건을 갖춘 지원자이며 신청은 2026년 11월 15일에 마감한다."
           },
           {
             "t": "p",
-            "x": "후반 작업에서 눈부심 보정 같은 데 AI를 써 봤지만 “분명히 일감 일부를 가져갔다”고 그는 인정한다. Dustin Yellin의 AI 단편 “Goodbye Lamby” 때는 프롬프터가 먼저 실제 공간에 조명을 쳐 달라고 그에게 부탁했다. “Matthew Libatique 스타일로” 만든 AI 영상은 “정말 불쾌하다”며 그는 이렇게 덧붙였다. “AI로 만든 것 중에 정말 감탄한 건 아직 하나도 못 봤다.”"
+            "x": "50주(50-week) 과정은 12주(12-week) 온라인 아카데미에 멘토링과 피칭 기회, 선정 프로젝트 제작비 지원을 묶었다. 창작물의 소유권과 통제권은 참가자가 그대로 갖는다. 선정작은 제작비를 받아 2027년 7월부터 10월까지 촬영하고, 완성작은 2027년 10월에 공개된다."
+          },
+          {
+            "t": "p",
+            "x": "영화학교 학위나 AI 경험은 없어도 된다. 다만 기존 작업물로 창작 역량을 증명해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Libatique: AI could replace\nVFX, but not actors",
-          "body": "Cinematographer Libatique is testing AI tools for Aronofsky's next project but doubts Marvel will ever use AI actors.",
-          "mini_headline": "Libatique on AI and VFX",
+          "headline": "Idris Elba and Google open\na free AI film programme",
+          "body": "Emerging creators in five African countries can apply until Nov 15 for free AI film training plus production funding.",
+          "mini_headline": "Elba, Google back African AI film",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "Courtesy of Evolution Mallorca"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris Elba, Google launch free AI filmmaking programme in five African countries"
               },
               {
                 "t": "p",
-                "x": "Three-time Oscar-nominee cinematographer Matthew Libatique says he and Darren Aronofsky, who launched AI studio Primordial Soup with Google DeepMind, are “testing” the technology ahead of their next film. “We’re doing a test soon,” he says."
+                "x": "Akuna Learning, an initiative of The Akuna Group chaired by British actor, Sir Idris Elba, has opened applications for a free artificial intelligence, AI, filmmaking programme for aspiring and emerging African creatives in five countries."
               },
               {
                 "t": "p",
-                "x": "AI “won’t replace cinema. What it could replace is Marvel,” he says: studios making giant films will “employ AI to curb some of their costs” through visual effects, though he doesn’t think Marvel “will ever use AI actors.” “You can’t tell me you’re going to make an AI character that can do what Robert Pattinson does.”"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "“Iron Man,” courtesy of Marvel"
+                "x": "The programme, tagged From Script to Screen with AI, is being delivered in collaboration with Google, with $1 million funding from Google.org and a curriculum developed by Curious Refuge. It is open to eligible applicants in Nigeria, Ghana, Kenya, Sierra Leone and South Africa, with applications closing on November 15, 2026."
               },
               {
                 "t": "p",
-                "x": "He has used AI in post-production, for example to correct glare, but acknowledges “it definitely took some work away.” On Dustin Yellin’s AI short “Goodbye Lamby,” the prompter asked him to physically light a space first. He calls AI videos made “in the style of Matthew Libatique” “absolutely offensive,” adding: “I haven’t seen anything created by AI that’s really impressed me.”"
+                "x": "The 50-week programme will combine a 12-week online academy with mentorship, pitching opportunities and production funding for selected film projects. Participants will also retain ownership and control of their creative works. Selected projects will receive funding for production, with filming scheduled for July to October 2027, and the completed films will be showcased in October 2027."
+              },
+              {
+                "t": "p",
+                "x": "Applicants do not need a film school qualification or previous AI experience but must demonstrate their creative abilities through existing work."
               }
             ]
           }
         },
         "ko": {
-          "headline": "리바티크 “AI는 VFX\n대체해도 배우는 못 해”",
-          "body": "리바티크는 아로노프스키 차기작에서 AI를 시험하지만 마블 AI 배우엔 회의적이다.",
-          "mini_headline": "리바티크가 본 AI와 VFX",
+          "headline": "Elba·Google,\n무료 AI 영화 과정 연다",
+          "body": "아프리카 다섯 나라 신진은 11월 15일까지 무료 AI 영화교육·제작비에 지원한다.",
+          "mini_headline": "Elba·Google, 아프리카 AI 영화 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "Evolution Mallorca 제공"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris Elba와 Google, 아프리카 다섯 나라에서 무료 AI 영화 제작 프로그램 시작"
               },
               {
                 "t": "p",
-                "x": "오스카 후보에 세 차례 오른 촬영감독 Matthew Libatique는 Darren Aronofsky의 차기작을 앞두고 이 기술을 “시험”하는 중이다. Aronofsky는 Google DeepMind와 함께 AI 스튜디오 Primordial Soup을 세웠다. 그는 “곧 테스트를 한다”고 했다."
+                "x": "영국 배우 Sir Idris Elba가 회장인 The Akuna Group 산하 이니셔티브 Akuna Learning이 아프리카 다섯 나라 예비·신진 창작자를 대상으로 무료 인공지능(AI) 영화 제작 프로그램 신청을 받기 시작했다."
               },
               {
                 "t": "p",
-                "x": "그는 AI가 “영화를 대체하지는 못할 것이다. 대체할 수 있는 건 Marvel이다”라고 말한다. 대작을 만드는 스튜디오들이 시각효과에서 “AI로 비용 일부를 줄일 것”이라는 얘기다. 그렇다고 Marvel이 “AI 배우를 쓸 일은 없을 것”이라고 그는 내다본다. “Robert Pattinson이 하는 걸 해낼 AI 캐릭터를 만들겠다는 말은 믿을 수 없다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "“아이언맨”, Marvel 제공"
+                "x": "프로그램 이름은 ‘From Script to Screen with AI’로, Google과 함께 운영한다. 자금 1백만 달러는 Google.org가 대고 커리큘럼은 Curious Refuge가 짰다. 대상은 나이지리아, 가나, 케냐, 시에라리온, 남아프리카공화국에서 자격 요건을 갖춘 지원자이며 신청은 2026년 11월 15일에 마감한다."
               },
               {
                 "t": "p",
-                "x": "후반 작업에서 눈부심 보정 같은 데 AI를 써 봤지만 “분명히 일감 일부를 가져갔다”고 그는 인정한다. Dustin Yellin의 AI 단편 “Goodbye Lamby” 때는 프롬프터가 먼저 실제 공간에 조명을 쳐 달라고 그에게 부탁했다. “Matthew Libatique 스타일로” 만든 AI 영상은 “정말 불쾌하다”며 그는 이렇게 덧붙였다. “AI로 만든 것 중에 정말 감탄한 건 아직 하나도 못 봤다.”"
+                "x": "50주(50-week) 과정은 12주(12-week) 온라인 아카데미에 멘토링과 피칭 기회, 선정 프로젝트 제작비 지원을 묶었다. 창작물의 소유권과 통제권은 참가자가 그대로 갖는다. 선정작은 제작비를 받아 2027년 7월부터 10월까지 촬영하고, 완성작은 2027년 10월에 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "영화학교 학위나 AI 경험은 없어도 된다. 다만 기존 작업물로 창작 역량을 증명해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIはVFXを代替しても\n俳優は無理とリバティーク",
-          "body": "リバティークはアロノフスキー次回作でAIを試すが、マーベルのAI俳優起用には懐疑的だ。",
-          "mini_headline": "リバティークが語るAIとVFX",
+          "headline": "Elba・Google、\n無料AI映画講座を開講",
+          "body": "アフリカ五カ国の新進クリエイターは11月15日まで無料AI映画講座と制作資金に応募できる。",
+          "mini_headline": "Elba・Google、アフリカのAI映画を支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "Evolution Mallorca提供"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris ElbaとGoogle、アフリカ五カ国で無料のAI映画制作プログラムを開始"
               },
               {
                 "t": "p",
-                "x": "アカデミー賞に3度ノミネートされた撮影監督Matthew Libatiqueは、Google DeepMindとAIスタジオPrimordial Soupを立ち上げたDarren Aronofskyとともに、次回作に向けてこの技術を「テスト」していると語る。「近くテストをする」という。"
+                "x": "英国の俳優Sir Idris Elbaが会長を務めるThe Akuna Groupの取り組みであるAkuna Learningは、アフリカ五カ国の映画作家志望者や新進クリエイターを対象とした無料の人工知能(AI)映画制作プログラムの応募受付を始めた。"
               },
               {
                 "t": "p",
-                "x": "AIは「映画に取って代わることはない。代わりうるのはMarvelだ」と彼は言う。超大作を作るスタジオは視覚効果で「AIを使ってコストの一部を抑える」だろうが、Marvelが「AI俳優を使うことはない」とも考えている。「Robert Pattinsonがやることをこなせるキャラクターを AIで作れるなんて、とても信じられない」"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "『アイアンマン』、Marvel提供"
+                "x": "「From Script to Screen with AI」と銘打ったこのプログラムはGoogleと協力して実施され、Google.orgが1百万ドルを拠出し、カリキュラムはCurious Refugeが開発した。対象はナイジェリア、ガーナ、ケニア、シエラレオネ、南アフリカの応募資格を満たす人で、応募は2026年11月15日に締め切られる。"
               },
               {
                 "t": "p",
-                "x": "彼はポストプロダクションで、たとえばグレアの補正にAIを使ったことがあるが、「確かに仕事の一部を奪った」と認める。Dustin YellinのAI短編『Goodbye Lamby』では、プロンプターが彼にまず実際に空間をライティングするよう求めた。「Matthew Libatique風に」作られたAI動画は「まったく不快だ」とし、「AIが作ったもので本当に感心したものはまだ見たことがない」と付け加えた。"
+                "x": "50週間(50-week)のプログラムは、12週間(12-week)のオンラインアカデミーに、メンタリング、ピッチの機会、選ばれた映画プロジェクトへの制作資金を組み合わせる。参加者は自身の作品の所有権と管理権も保持する。選ばれたプロジェクトには制作資金が提供され、撮影は2027年7月から10月に予定されている。完成作は2027年10月に披露される。"
+              },
+              {
+                "t": "p",
+                "x": "応募者に映画学校の資格や過去のAI経験は必要ないが、既存の作品を通じて創作力を示す必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "利巴蒂克：AI能取代VFX\n但取代不了演员",
-          "body": "摄影指导利巴蒂克正为阿罗诺夫斯基新片测试AI工具，但不认为漫威会用AI演员。",
-          "mini_headline": "利巴蒂克谈AI与VFX",
+          "headline": "Elba与Google\n推出免费AI电影课程",
+          "body": "非洲五国新锐创作者可在11月15日前申请免费AI电影培训及制作资金。",
+          "mini_headline": "Elba与Google支持非洲AI电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "图片由Evolution Mallorca提供"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris Elba与Google在非洲五国推出免费AI电影制作项目"
               },
               {
                 "t": "p",
-                "x": "曾三度获得奥斯卡提名的摄影指导Matthew Libatique表示，他正与和Google DeepMind共同创办AI工作室Primordial Soup的Darren Aronofsky一起，在下一部影片前“测试”这项技术。“我们很快就要做一次测试，”他说。"
+                "x": "由英国演员Sir Idris Elba担任主席的The Akuna Group旗下项目Akuna Learning，已面向非洲五国有志于电影的新锐创作者开放一项免费人工智能（AI）电影制作项目的申请。"
               },
               {
                 "t": "p",
-                "x": "他说，AI“不会取代电影。它可能取代的是Marvel”：制作巨片的片厂会通过视觉特效“用AI来压缩部分成本”，不过他不认为Marvel“会使用AI演员”。“你没法让我相信，你能做出一个AI角色，做到Robert Pattinson所做的事。”"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "《钢铁侠》，图片由Marvel提供"
+                "x": "该项目名为“From Script to Screen with AI”，与Google合作开展，由Google.org提供1百万美元资金，课程由Curious Refuge开发。项目面向尼日利亚、加纳、肯尼亚、塞拉利昂和南非的合格申请者，申请将于2026年11月15日截止。"
               },
               {
                 "t": "p",
-                "x": "他曾在后期制作中使用AI，例如修正眩光，但也承认“它确实抢走了一些工作”。在Dustin Yellin的AI短片《Goodbye Lamby》中，提示词操作者请他先为一个空间实际布光。他称那些“以Matthew Libatique风格”制作的AI视频“极其冒犯”，并补充说：“我还没见过哪件AI作品真正让我印象深刻。”"
+                "x": "这一为期50周（50-week）的项目将12周（12-week）的线上学院课程与导师指导、提案机会以及入选电影项目的制作资金相结合。参与者还将保留其创作作品的所有权和控制权。入选项目将获得制作资金，拍摄定于2027年7月至10月进行，完成的影片将于2027年10月展映。"
+              },
+              {
+                "t": "p",
+                "x": "申请者无需电影学校学历或此前的AI经验，但须通过已有作品展示其创作能力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Libatique: la IA puede sustituir\nlos VFX, pero no a los actores",
-          "body": "Libatique prueba IA para el próximo proyecto de Aronofsky, pero duda que Marvel llegue a usar actores de IA.",
-          "mini_headline": "Libatique sobre la IA y los VFX",
+          "headline": "Idris Elba y Google abren\nun curso gratuito de cine con AI",
+          "body": "Creadores de cinco países africanos pueden pedir hasta el 15 de noviembre formación gratuita en cine con AI y fondos.",
+          "mini_headline": "Elba y Google apoyan el cine AI africano",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "Cortesía de Evolution Mallorca"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris Elba y Google lanzan un programa gratuito de cine con AI en cinco países africanos"
               },
               {
                 "t": "p",
-                "x": "El director de fotografía Matthew Libatique, tres veces nominado al Oscar, dice que él y Darren Aronofsky, que lanzó el estudio de IA Primordial Soup con Google DeepMind, están “probando” la tecnología antes de su próxima película. “Vamos a hacer una prueba pronto”, afirma."
+                "x": "Akuna Learning, una iniciativa de The Akuna Group, presidido por el actor británico Sir Idris Elba, ha abierto la convocatoria de un programa gratuito de cine con inteligencia artificial, AI, para creativos africanos aspirantes y emergentes de cinco países."
               },
               {
                 "t": "p",
-                "x": "La IA “no reemplazará al cine. Lo que podría reemplazar es Marvel”, dice: los estudios que hacen películas gigantes “usarán la IA para contener parte de sus costos” mediante los efectos visuales, aunque no cree que Marvel “vaya a usar nunca actores de IA”. “No me puedes decir que vas a crear un personaje de IA capaz de hacer lo que hace Robert Pattinson”."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "“Iron Man”, cortesía de Marvel"
+                "x": "El programa, denominado From Script to Screen with AI, se imparte en colaboración con Google, con 1 millón de dólares de financiación de Google.org y un plan de estudios desarrollado por Curious Refuge. Está abierto a solicitantes que cumplan los requisitos en Nigeria, Ghana, Kenia, Sierra Leona y Sudáfrica, y la convocatoria cierra el 15 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "Ha usado la IA en posproducción, por ejemplo para corregir destellos, pero reconoce que “sin duda quitó algo de trabajo”. En el corto de IA de Dustin Yellin “Goodbye Lamby”, el encargado de los prompts le pidió primero iluminar físicamente un espacio. Califica de “absolutamente ofensivos” los videos de IA hechos “al estilo de Matthew Libatique” y añade: “No he visto nada creado por IA que me haya impresionado de verdad”."
+                "x": "El programa de 50 semanas (50-week) combinará una academia en línea de 12 semanas (12-week) con mentoría, oportunidades de presentar proyectos y financiación para la producción de los proyectos seleccionados. Los participantes conservarán además la propiedad y el control de sus obras. Los proyectos elegidos recibirán fondos para la producción, con el rodaje previsto de julio a octubre de 2027, y las películas terminadas se presentarán en octubre de 2027."
+              },
+              {
+                "t": "p",
+                "x": "Los solicitantes no necesitan un título de escuela de cine ni experiencia previa con AI, pero deben demostrar su capacidad creativa con trabajos ya realizados."
               }
             ]
           }
@@ -759,129 +843,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "리바티크 “AI는 VFX\n대체해도 배우는 못 해”",
-          "body": "리바티크는 아로노프스키 차기작에 AI를 시험하나 마블의 AI 배우엔 회의적이다.",
-          "mini_headline": "리바티크가 본 AI와 VFX",
+          "headline": "Elba·Google,\n무료 AI 영화 과정 개설",
+          "body": "아프리카 다섯 나라 신진은 11월 15일까지 무료 AI 영화교육·제작비를 신청한다.",
+          "mini_headline": "Elba·Google, 아프리카 AI 영화 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "Evolution Mallorca 제공"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris Elba와 Google, 아프리카 다섯 나라에서 무료 AI 영화 제작 프로그램 시작"
               },
               {
                 "t": "p",
-                "x": "오스카 후보에 세 차례 오른 촬영감독 Matthew Libatique는 Google DeepMind와 함께 AI 스튜디오 Primordial Soup을 세운 Darren Aronofsky와 차기작을 앞두고 이 기술을 “시험”하고 있다고 말한다. 그는 “곧 테스트를 한다”고 말했다."
+                "x": "영국 배우 Sir Idris Elba가 회장을 맡은 The Akuna Group의 이니셔티브 Akuna Learning이 아프리카 다섯 나라의 예비·신진 창작자를 위한 무료 인공지능(AI) 영화 제작 프로그램의 신청 접수를 시작했다."
               },
               {
                 "t": "p",
-                "x": "그는 AI가 “영화를 대체하지는 못할 것이다. 대체할 수 있는 건 Marvel이다”라고 말한다. 대작을 만드는 스튜디오들이 시각효과를 통해 “AI로 비용 일부를 줄일 것”이라는 뜻이다. 다만 그는 Marvel이 “AI 배우를 쓸 일은 없을 것”이라고 본다. “Robert Pattinson이 하는 걸 해낼 AI 캐릭터를 만들겠다는 말은 믿을 수 없다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "“아이언맨”, Marvel 제공"
+                "x": "‘From Script to Screen with AI’라는 이름의 이 프로그램은 Google과 협력해 운영한다. Google.org가 1백만 달러를 지원하고, 커리큘럼은 Curious Refuge가 개발했다. 나이지리아, 가나, 케냐, 시에라리온, 남아프리카공화국의 자격을 갖춘 지원자가 대상이며, 신청은 2026년 11월 15일에 마감한다."
               },
               {
                 "t": "p",
-                "x": "그는 후반 작업에서 눈부심을 보정하는 등 AI를 써 본 적이 있지만 “분명히 일감 일부를 가져갔다”고 인정한다. Dustin Yellin의 AI 단편 “Goodbye Lamby”에서는 프롬프터가 그에게 먼저 실제 공간에 조명을 쳐 달라고 요청했다. 그는 “Matthew Libatique 스타일로” 만든 AI 영상을 “정말 불쾌하다”고 하며 이렇게 덧붙였다. “AI로 만든 것 중에 정말 감탄한 건 아직 하나도 못 봤다.”"
+                "x": "50주(50-week) 과정은 12주(12-week) 온라인 아카데미에 멘토링, 피칭 기회, 선정된 영화 프로젝트의 제작비 지원을 결합한다. 참가자는 자기 창작물의 소유권과 통제권도 유지한다. 선정 프로젝트는 제작비를 받아 2027년 7월부터 10월까지 촬영하며, 완성작은 2027년 10월에 공개한다."
+              },
+              {
+                "t": "p",
+                "x": "지원자에게 영화학교 학위나 AI 경험은 필요 없지만, 기존 작업물로 창작 역량을 보여줘야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIはVFXを代替しても\n俳優は無理とリバティーク",
-          "body": "リバティークはアロノフスキー次回作でAIを試すが、マーベルのAI俳優起用には懐疑的だ。",
-          "mini_headline": "リバティークが語るAIとVFX",
+          "headline": "Elba・Google、\n無料AI映画講座を開講",
+          "body": "アフリカ五カ国の新進クリエイターは11月15日まで無料AI映画講座と制作資金に応募できる。",
+          "mini_headline": "Elba・Google、アフリカのAI映画を支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "Evolution Mallorca提供"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris ElbaとGoogle、アフリカ五カ国で無料のAI映画制作プログラムを開始"
               },
               {
                 "t": "p",
-                "x": "アカデミー賞に3度ノミネートされた撮影監督Matthew Libatiqueは、Google DeepMindとAIスタジオPrimordial Soupを立ち上げたDarren Aronofskyとともに、次回作に向けてこの技術を「テスト」していると語る。「近くテストをする」という。"
+                "x": "英国の俳優Sir Idris Elbaが会長を務めるThe Akuna Groupの取り組みであるAkuna Learningは、アフリカ五カ国の映画作家志望者や新進クリエイターを対象とした無料の人工知能(AI)映画制作プログラムの応募受付を始めた。"
               },
               {
                 "t": "p",
-                "x": "AIは「映画に取って代わることはない。代わりうるのはMarvelだ」と彼は言う。超大作を作るスタジオは視覚効果で「AIを使ってコストの一部を抑える」だろうが、Marvelが「AI俳優を使うことはない」とも考えている。「Robert Pattinsonがやることをこなせるキャラクターを AIで作れるなんて、とても信じられない」"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "『アイアンマン』、Marvel提供"
+                "x": "「From Script to Screen with AI」と銘打ったこのプログラムはGoogleと協力して実施され、Google.orgが1百万ドルを拠出し、カリキュラムはCurious Refugeが開発した。対象はナイジェリア、ガーナ、ケニア、シエラレオネ、南アフリカの応募資格を満たす人で、応募は2026年11月15日に締め切られる。"
               },
               {
                 "t": "p",
-                "x": "彼はポストプロダクションで、たとえばグレアの補正にAIを使ったことがあるが、「確かに仕事の一部を奪った」と認める。Dustin YellinのAI短編『Goodbye Lamby』では、プロンプターが彼にまず実際に空間をライティングするよう求めた。「Matthew Libatique風に」作られたAI動画は「まったく不快だ」とし、「AIが作ったもので本当に感心したものはまだ見たことがない」と付け加えた。"
+                "x": "50週間(50-week)のプログラムは、12週間(12-week)のオンラインアカデミーに、メンタリング、ピッチの機会、選ばれた映画プロジェクトへの制作資金を組み合わせる。参加者は自身の作品の所有権と管理権も保持する。選ばれたプロジェクトには制作資金が提供され、撮影は2027年7月から10月に予定されている。完成作は2027年10月に披露される。"
+              },
+              {
+                "t": "p",
+                "x": "応募者に映画学校の資格や過去のAI経験は必要ないが、既存の作品を通じて創作力を示す必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "利巴蒂克：AI能取代VFX\n但取代不了演员",
-          "body": "摄影指导利巴蒂克正为阿罗诺夫斯基新片测试AI工具，但不认为漫威会用AI演员。",
-          "mini_headline": "利巴蒂克谈AI与VFX",
+          "headline": "Elba与Google\n推出免费AI电影课程",
+          "body": "非洲五国新锐创作者可在11月15日前申请免费AI电影培训及制作资金。",
+          "mini_headline": "Elba与Google支持非洲AI电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "图片由Evolution Mallorca提供"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris Elba与Google在非洲五国推出免费AI电影制作项目"
               },
               {
                 "t": "p",
-                "x": "曾三度获得奥斯卡提名的摄影指导Matthew Libatique表示，他正与和Google DeepMind共同创办AI工作室Primordial Soup的Darren Aronofsky一起，在下一部影片前“测试”这项技术。“我们很快就要做一次测试，”他说。"
+                "x": "由英国演员Sir Idris Elba担任主席的The Akuna Group旗下项目Akuna Learning，已面向非洲五国有志于电影的新锐创作者开放一项免费人工智能（AI）电影制作项目的申请。"
               },
               {
                 "t": "p",
-                "x": "他说，AI“不会取代电影。它可能取代的是Marvel”：制作巨片的片厂会通过视觉特效“用AI来压缩部分成本”，不过他不认为Marvel“会使用AI演员”。“你没法让我相信，你能做出一个AI角色，做到Robert Pattinson所做的事。”"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "《钢铁侠》，图片由Marvel提供"
+                "x": "该项目名为“From Script to Screen with AI”，与Google合作开展，由Google.org提供1百万美元资金，课程由Curious Refuge开发。项目面向尼日利亚、加纳、肯尼亚、塞拉利昂和南非的合格申请者，申请将于2026年11月15日截止。"
               },
               {
                 "t": "p",
-                "x": "他曾在后期制作中使用AI，例如修正眩光，但也承认“它确实抢走了一些工作”。在Dustin Yellin的AI短片《Goodbye Lamby》中，提示词操作者请他先为一个空间实际布光。他称那些“以Matthew Libatique风格”制作的AI视频“极其冒犯”，并补充说：“我还没见过哪件AI作品真正让我印象深刻。”"
+                "x": "这一为期50周（50-week）的项目将12周（12-week）的线上学院课程与导师指导、提案机会以及入选电影项目的制作资金相结合。参与者还将保留其创作作品的所有权和控制权。入选项目将获得制作资金，拍摄定于2027年7月至10月进行，完成的影片将于2027年10月展映。"
+              },
+              {
+                "t": "p",
+                "x": "申请者无需电影学校学历或此前的AI经验，但须通过已有作品展示其创作能力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Libatique: la IA puede sustituir\nlos VFX, pero no a los actores",
-          "body": "Libatique prueba IA para el próximo proyecto de Aronofsky, pero duda que Marvel llegue a usar actores de IA.",
-          "mini_headline": "Libatique sobre la IA y los VFX",
+          "headline": "Idris Elba y Google abren\nun curso gratuito de cine con AI",
+          "body": "Creadores de cinco países africanos pueden pedir hasta el 15 de noviembre formación gratuita en cine con AI y fondos.",
+          "mini_headline": "Elba y Google apoyan el cine AI africano",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-79.png?w=1000&h=563&crop=1",
-                "cap": "Cortesía de Evolution Mallorca"
+                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
+                "cap": "Idris Elba y Google lanzan un programa gratuito de cine con AI en cinco países africanos"
               },
               {
                 "t": "p",
-                "x": "El director de fotografía Matthew Libatique, tres veces nominado al Oscar, dice que él y Darren Aronofsky, que lanzó el estudio de IA Primordial Soup con Google DeepMind, están “probando” la tecnología antes de su próxima película. “Vamos a hacer una prueba pronto”, afirma."
+                "x": "Akuna Learning, una iniciativa de The Akuna Group, presidido por el actor británico Sir Idris Elba, ha abierto la convocatoria de un programa gratuito de cine con inteligencia artificial, AI, para creativos africanos aspirantes y emergentes de cinco países."
               },
               {
                 "t": "p",
-                "x": "La IA “no reemplazará al cine. Lo que podría reemplazar es Marvel”, dice: los estudios que hacen películas gigantes “usarán la IA para contener parte de sus costos” mediante los efectos visuales, aunque no cree que Marvel “vaya a usar nunca actores de IA”. “No me puedes decir que vas a crear un personaje de IA capaz de hacer lo que hace Robert Pattinson”."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-80.png?w=1000",
-                "cap": "“Iron Man”, cortesía de Marvel"
+                "x": "El programa, denominado From Script to Screen with AI, se imparte en colaboración con Google, con 1 millón de dólares de financiación de Google.org y un plan de estudios desarrollado por Curious Refuge. Está abierto a solicitantes que cumplan los requisitos en Nigeria, Ghana, Kenia, Sierra Leona y Sudáfrica, y la convocatoria cierra el 15 de noviembre de 2026."
               },
               {
                 "t": "p",
-                "x": "Ha usado la IA en posproducción, por ejemplo para corregir destellos, pero reconoce que “sin duda quitó algo de trabajo”. En el corto de IA de Dustin Yellin “Goodbye Lamby”, el encargado de los prompts le pidió primero iluminar físicamente un espacio. Califica de “absolutamente ofensivos” los videos de IA hechos “al estilo de Matthew Libatique” y añade: “No he visto nada creado por IA que me haya impresionado de verdad”."
+                "x": "El programa de 50 semanas (50-week) combinará una academia en línea de 12 semanas (12-week) con mentoría, oportunidades de presentar proyectos y financiación para la producción de los proyectos seleccionados. Los participantes conservarán además la propiedad y el control de sus obras. Los proyectos elegidos recibirán fondos para la producción, con el rodaje previsto de julio a octubre de 2027, y las películas terminadas se presentarán en octubre de 2027."
+              },
+              {
+                "t": "p",
+                "x": "Los solicitantes no necesitan un título de escuela de cine ni experiencia previa con AI, pero deben demostrar su capacidad creativa con trabajos ya realizados."
               }
             ]
           }
@@ -889,321 +969,331 @@
       }
     },
     {
-      "id": "curiousrefuge-ai-relighting",
+      "id": "iqiyi-shanghai-ai-studio",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "촬영 후 조명을 바꾸는\n새 AI 워크플로",
-      "body": "Curious Refuge가 AI로 촬영 후 조명을 다시 입히는 법을 소개했다.",
-      "mini_headline": "후반 작업 AI 리라이팅",
+      "headline": "iQIYI AI 스튜디오\n열고 첫 장편 착수",
+      "body": "iQIYI가 AI 스튜디오를 열어 첫 작품 Cop in Trouble을 만든다.",
+      "mini_headline": "iQIYI, AI 영화 스튜디오 개관",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=19ngvIWpK_U",
+      "source": "China Daily",
+      "url": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "19ngvIWpK_U"
+            "t": "img",
+            "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+            "cap": "iQiyi의 새 AI 영화 스튜디오는 로케이션·그린스크린 촬영 위주이던 제작 체인을 버추얼 프로덕션과 AI-integrated(AI 통합) 영화 제작까지 넓힌다."
           },
           {
             "t": "p",
-            "x": "Curious Refuge가 이 영상에서 촬영을 마친 뒤 영화 조명을 다시 입히는 새 워크플로를 공유한다. 세트에 돌아가지 않고도 낮의 사무실을 늦은 밤 작업 공간으로 바꾸는 식이다."
+            "x": "온라인 엔터테인먼트 기업 iQIYI는 10월 28일 상하이(Shanghai) Creative Center에 AI 영화 스튜디오를 열고, 첫 프로젝트로 인터넷 장편 영화 Cop in Trouble 제작에 들어갔다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "절차는 이렇다. 스틸 프레임을 뽑고 조명 레퍼런스를 고른 다음 이미지 편집기(Nano Banana 2.1 또는 GPT Image 2.5 권장)에 “이미지 1의 조명과 시간대를 밤으로 바꿔라. 이미지 2를 조명과 스타일 레퍼런스로 사용하라” 같은 프롬프트를 넣어 스틸 조명을 바꾼다. 그다음 원본 클립과 새 조명을 입힌 프레임을 영상 모델에 함께 올린다. 편집한 이미지는 목표 조명을, 원본 영상은 연기와 움직임을 맡는다."
+            "x": "약 110제곱미터 규모의 이 시설에서는 실사 촬영과 AI 후반 작업이 한데 이뤄진다. 현장 촬영본은 iQIYI의 AI 제작 플랫폼 NadouPro로 자동 동기화되고, 제작진은 30개 가까운 AI 모델과 제작 전용 AI 에이전트 수백 개를 쓸 수 있다. iQIYI 부사장 겸 지능형 제작 총괄 Zhu Liang은 이 방식이 연기를 \"모든 영화와 시리즈의 핵심\"으로 지킨다고 말했다."
           },
           {
             "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-            "cap": "새 조명을 입힌 첫 프레임"
+            "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+            "cap": "Cop in Trouble 포스터."
           },
           {
             "t": "p",
-            "x": "결과는 기대할 만했지만 한계도 있었다. 사무실 테스트에서는 노출이 들쭉날쭉하고 사선 밴딩이 눈에 띄었으며 출력 해상도도 4K 원본보다 낮았다. 영화에 쓰려면 먼저 클립 전체에서 아티팩트를 확인해야 한다."
+            "x": "이번 작품에서는 배우들이 현장에서 주고받은 연기가 AI-generated(AI 생성) 배경과 시각 디테일을 만드는 참고 자료가 된다. 새 스튜디오는 회사의 Hengdian 가상 스튜디오 뒤를 잇는다. iQIYI에 따르면 Hengdian 스튜디오는 제작 효율을 30퍼센트 넘게 끌어올렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A new AI workflow for\nrelighting film footage",
-          "body": "Curious Refuge walks through an AI relighting workflow that uses generative tools to re-light film shots in post.",
-          "mini_headline": "AI relighting in post",
+          "headline": "iQIYI opens an AI film studio\nand begins its first feature",
+          "body": "iQIYI opened an AI film studio at its Shanghai Creative Center and began its first project there, Cop in Trouble.",
+          "mini_headline": "iQIYI opens AI film studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "iQiyi's new AI film studio extends its production chain from on-location and green-screen work to virtual production and AI-integrated filmmaking."
               },
               {
                 "t": "p",
-                "x": "In this video, Curious Refuge shares a new workflow for relighting your films after the shoot — turning a daytime office into a late-night workspace without returning to set."
+                "x": "iQIYI has opened an AI film studio at its Creative Center in Shanghai and begun production on its first project there, the internet feature film Cop in Trouble, the online entertainment provider said on Oct 28."
               },
               {
                 "t": "p",
-                "x": "The steps: export a still frame, pick a lighting reference, and relight the still in an image editor (Nano Banana 2.1 or GPT Image 2.5 are recommended) with a prompt like “Change the lighting and time of day in image 1 to nighttime. Use image 2 as the lighting and style reference.” Then upload the original clip plus the relit frame to a video model so the edited image supplies the lighting target while the footage supplies the performance and motion."
+                "x": "The roughly 110-square-meter facility combines live-action shooting with AI post-production. On-set footage syncs automatically to NadouPro, iQIYI's AI production platform, giving filmmakers access to nearly 30 AI models and hundreds of production-focused AI agents. Zhu Liang, iQIYI vice-president and head of intelligent production, said the approach keeps performance \"the core of any film or series.\""
               },
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "First Frame with New Lighting"
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Poster of Cop in Trouble."
               },
               {
                 "t": "p",
-                "x": "The results were promising, with limits: in the office test they saw exposure variation and visible diagonal banding, and the output was lower-resolution than the 4K source — so review the whole clip for artifacts before using it in your film."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "촬영 후 조명을 바꾸는\n새 AI 워크플로",
-          "body": "Curious Refuge가 AI로 촬영 후 조명을 다시 입히는 법을 소개했다.",
-          "mini_headline": "후반 작업 AI 리라이팅",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge가 이 영상에서 촬영을 마친 뒤 영화 조명을 다시 입히는 새 워크플로를 공유한다. 세트에 돌아가지 않고도 낮의 사무실을 늦은 밤 작업 공간으로 바꾸는 식이다."
-              },
-              {
-                "t": "p",
-                "x": "절차는 이렇다. 스틸 프레임을 뽑고 조명 레퍼런스를 고른 다음 이미지 편집기(Nano Banana 2.1 또는 GPT Image 2.5 권장)에 “이미지 1의 조명과 시간대를 밤으로 바꿔라. 이미지 2를 조명과 스타일 레퍼런스로 사용하라” 같은 프롬프트를 넣어 스틸 조명을 바꾼다. 그다음 원본 클립과 새 조명을 입힌 프레임을 영상 모델에 함께 올린다. 편집한 이미지는 목표 조명을, 원본 영상은 연기와 움직임을 맡는다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "새 조명을 입힌 첫 프레임"
-              },
-              {
-                "t": "p",
-                "x": "결과는 기대할 만했지만 한계도 있었다. 사무실 테스트에서는 노출이 들쭉날쭉하고 사선 밴딩이 눈에 띄었으며 출력 해상도도 4K 원본보다 낮았다. 영화에 쓰려면 먼저 클립 전체에서 아티팩트를 확인해야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "撮影後に照明を変える\n新しいAIワークフロー",
-          "body": "Curious Refugeが、生成AIで撮影後に映像の照明を変える手法を紹介した。",
-          "mini_headline": "ポスプロでAIリライティング",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
-              },
-              {
-                "t": "p",
-                "x": "この動画でCurious Refugeは、撮影後に映像の照明を変える新しいワークフローを紹介している。セットに戻らずに、昼間のオフィスを深夜の作業場に変えるというものだ。"
-              },
-              {
-                "t": "p",
-                "x": "手順はこうだ。静止フレームを書き出し、照明のリファレンスを選び、画像編集ツール（Nano Banana 2.1またはGPT Image 2.5を推奨）で「画像1の照明と時間帯を夜に変更せよ。画像2を照明とスタイルのリファレンスとして使え」といったプロンプトを使い、静止画の照明を変える。次に元のクリップと照明を変えたフレームを動画モデルにアップロードすると、編集した画像が目標の照明を、元の映像が演技と動きを担う。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "新しい照明を施した最初のフレーム"
-              },
-              {
-                "t": "p",
-                "x": "結果は有望だったが限界もあった。オフィスでのテストでは露出のばらつきや目立つ斜めのバンディングが見られ、出力は4K の元素材より低解像度だった。映画に使う前に、クリップ全体でアーティファクトを確認すべきだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "一套新的AI工作流\n为影片后期重新打光",
-          "body": "Curious Refuge介绍了一套在后期中借助生成式工具为影片重新打光的AI流程。",
-          "mini_headline": "后期AI重新打光",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
-              },
-              {
-                "t": "p",
-                "x": "在这段视频中，Curious Refuge分享了一套在拍摄结束后为影片重新打光的新工作流程——无需重返片场，就能把白天的办公室变成深夜的工作空间。"
-              },
-              {
-                "t": "p",
-                "x": "步骤如下：导出一帧静帧，挑选一张光照参考图，然后在图像编辑工具中（推荐Nano Banana 2.1或GPT Image 2.5）用类似“把图像1的光照和时间改为夜晚。以图像2作为光照与风格参考。”的提示词为静帧重新打光。接着把原始片段和重新打光后的画面一起上传到视频模型，由编辑后的图像提供目标光照，原始素材提供表演与动作。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "重新打光后的首帧"
-              },
-              {
-                "t": "p",
-                "x": "结果令人鼓舞，但也有局限：在办公室测试中，他们看到了曝光波动和明显的斜向条带，输出分辨率也低于4K 源素材——因此在用进影片前，应检查整段片段是否有瑕疵。"
+                "x": "The production uses footage of actors' on-set interactions as reference for AI-generated environments and visual details. The studio follows the company's Hengdian virtual studio, which iQIYI says delivered production efficiency gains of over 30 percent."
               }
             ]
           }
         },
         "es": {
-          "headline": "Un nuevo flujo de IA para\nreiluminar metraje de cine",
-          "body": "Curious Refuge explica un flujo con IA que usa herramientas generativas para reiluminar tomas en posproducción.",
-          "mini_headline": "Reiluminación con IA en posproducción",
+          "headline": "iQIYI abre un estudio de cine AI\ne inicia su primer largometraje",
+          "body": "iQIYI abrió un estudio de cine AI en su Shanghai Creative Center y comenzó allí su primer proyecto, Cop in Trouble.",
+          "mini_headline": "iQIYI abre un estudio de cine AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "El nuevo estudio de cine AI de iQiyi amplía su cadena de producción desde el rodaje en exteriores y con pantalla verde hasta la producción virtual y el cine integrado con AI (AI-integrated)."
               },
               {
                 "t": "p",
-                "x": "En este video, Curious Refuge comparte un nuevo flujo de trabajo para reiluminar tus películas después del rodaje: convertir una oficina de día en un espacio de trabajo de madrugada sin volver al set."
+                "x": "iQIYI ha abierto un estudio de cine AI en su Creative Center de Shanghai y ha iniciado allí la producción de su primer proyecto, el largometraje para internet Cop in Trouble, según informó el proveedor de entretenimiento en línea el 28 de octubre."
               },
               {
                 "t": "p",
-                "x": "Los pasos: exportar un fotograma fijo, elegir una referencia de iluminación y reiluminar la imagen en un editor (se recomiendan Nano Banana 2.1 o GPT Image 2.5) con un prompt como “Cambia la iluminación y la hora del día de la imagen 1 a la noche. Usa la imagen 2 como referencia de iluminación y estilo”. Después, subir el clip original junto con el fotograma reiluminado a un modelo de video, de modo que la imagen editada aporte el objetivo de iluminación y el metraje aporte la interpretación y el movimiento."
+                "x": "La instalación, de unos 110 metros cuadrados (110-square-meter), combina el rodaje de imagen real con la posproducción mediante AI. Las imágenes grabadas en el set se sincronizan automáticamente con NadouPro, la plataforma de producción AI de iQIYI, lo que da a los cineastas acceso a casi 30 modelos de AI y a cientos de agentes de AI centrados en la producción. Zhu Liang, vicepresidente de iQIYI y responsable de producción inteligente, dijo que el enfoque mantiene la interpretación como “el núcleo de cualquier película o serie”."
               },
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "Primer fotograma con la nueva iluminación"
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Póster de Cop in Trouble."
               },
               {
                 "t": "p",
-                "x": "Los resultados fueron prometedores, con límites: en la prueba de la oficina vieron variaciones de exposición y bandas diagonales visibles, y la salida tenía menor resolución que la fuente en 4K, así que conviene revisar todo el clip en busca de artefactos antes de usarlo en tu película."
+                "x": "La producción usa imágenes de las interacciones de los actores en el set como referencia para entornos y detalles visuales generados con AI (AI-generated). El estudio sigue al estudio virtual de la compañía en Hengdian, que según iQIYI logró aumentos de eficiencia en la producción de más del 30 por ciento."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "iQIYI AI 스튜디오\n열고 첫 장편 착수",
+          "body": "iQIYI가 AI 스튜디오를 열어 첫 작품 Cop in Trouble을 만든다.",
+          "mini_headline": "iQIYI, AI 영화 스튜디오 개관",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "iQiyi의 새 AI 영화 스튜디오는 로케이션·그린스크린 촬영 위주이던 제작 체인을 버추얼 프로덕션과 AI-integrated(AI 통합) 영화 제작까지 넓힌다."
+              },
+              {
+                "t": "p",
+                "x": "온라인 엔터테인먼트 기업 iQIYI는 10월 28일 상하이(Shanghai) Creative Center에 AI 영화 스튜디오를 열고, 첫 프로젝트로 인터넷 장편 영화 Cop in Trouble 제작에 들어갔다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "약 110제곱미터 규모의 이 시설에서는 실사 촬영과 AI 후반 작업이 한데 이뤄진다. 현장 촬영본은 iQIYI의 AI 제작 플랫폼 NadouPro로 자동 동기화되고, 제작진은 30개 가까운 AI 모델과 제작 전용 AI 에이전트 수백 개를 쓸 수 있다. iQIYI 부사장 겸 지능형 제작 총괄 Zhu Liang은 이 방식이 연기를 \"모든 영화와 시리즈의 핵심\"으로 지킨다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Cop in Trouble 포스터."
+              },
+              {
+                "t": "p",
+                "x": "이번 작품에서는 배우들이 현장에서 주고받은 연기가 AI-generated(AI 생성) 배경과 시각 디테일을 만드는 참고 자료가 된다. 새 스튜디오는 회사의 Hengdian 가상 스튜디오 뒤를 잇는다. iQIYI에 따르면 Hengdian 스튜디오는 제작 효율을 30퍼센트 넘게 끌어올렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "iQIYIがAI映画\nスタジオ、初の長編へ",
+          "body": "iQIYIが上海にAI映画スタジオを開き、初作品Cop in Troubleに着手した。",
+          "mini_headline": "iQIYI、AI映画スタジオ開設",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "iQiyiの新しいAI映画スタジオは、制作チェーンをロケ撮影やグリーンバック撮影から、バーチャルプロダクションとAI-integrated(AI統合型)の映画制作へと広げる。"
+              },
+              {
+                "t": "p",
+                "x": "オンラインエンターテインメント企業のiQIYIは10月28日、上海(Shanghai)のCreative CenterにAI映画スタジオを開設し、同所での初プロジェクトとなるインターネット長編映画Cop in Troubleの制作を始めたと発表した。"
+              },
+              {
+                "t": "p",
+                "x": "約110平方メートルの施設は、実写撮影とAIによるポストプロダクションを組み合わせる。現場の映像はiQIYIのAI制作プラットフォームNadouProに自動で同期され、制作者は30近いAIモデルと、制作に特化した数百のAIエージェントを利用できる。iQIYI副社長でインテリジェント制作部門を率いるZhu Liangは、この手法によって演技が「あらゆる映画やシリーズの核」であり続けると述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Cop in Troubleのポスター。"
+              },
+              {
+                "t": "p",
+                "x": "本作では、現場での俳優同士のやり取りを撮った映像を、AI-generated(AI生成)の背景や視覚的ディテールの参考に用いる。このスタジオは同社のHengdianバーチャルスタジオに続くもので、iQIYIによればHengdianのスタジオは制作効率を30パーセント以上高めたという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "iQIYI开设AI电影\n工作室，首部长片开拍",
+          "body": "iQIYI在上海开设AI电影工作室，首部作品Cop in Trouble已开拍。",
+          "mini_headline": "iQIYI开设AI电影工作室",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "iQiyi新的AI电影工作室将其制作链条从实景拍摄和绿幕拍摄延伸至虚拟制作与AI-integrated（AI融合）电影制作。"
+              },
+              {
+                "t": "p",
+                "x": "在线娱乐服务商iQIYI于10月28日表示，已在上海（Shanghai）Creative Center开设AI电影工作室，并在此启动首个项目——网络电影Cop in Trouble的制作。"
+              },
+              {
+                "t": "p",
+                "x": "该设施面积约110平方米，将实拍与AI后期制作相结合。现场素材会自动同步至iQIYI的AI制作平台NadouPro，创作者可调用近三十个AI模型和数百个面向制作的AI智能体。iQIYI副总裁、智能制作负责人Zhu Liang表示，这种方式让表演始终是“任何电影或剧集的核心”。"
+              },
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Cop in Trouble海报。"
+              },
+              {
+                "t": "p",
+                "x": "该片以演员在片场互动的素材作为AI-generated（AI生成）场景和视觉细节的参考。这间工作室延续了公司的Hengdian虚拟影棚，iQIYI称Hengdian影棚带来了超过百分之三十的制作效率提升。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "촬영 후 조명을 바꾸는\n새 AI 워크플로",
-          "body": "Curious Refuge가 후반 작업에서 AI로 조명을 바꾸는 법을 소개했다.",
-          "mini_headline": "후반 작업 AI 리라이팅",
+        "es": {
+          "headline": "iQIYI abre un estudio de cine AI\ne inicia su primer largometraje",
+          "body": "iQIYI abrió un estudio de cine AI en su Shanghai Creative Center y comenzó allí su primer proyecto, Cop in Trouble.",
+          "mini_headline": "iQIYI abre un estudio de cine AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "El nuevo estudio de cine AI de iQiyi amplía su cadena de producción desde el rodaje en exteriores y con pantalla verde hasta la producción virtual y el cine integrado con AI (AI-integrated)."
               },
               {
                 "t": "p",
-                "x": "이 영상에서 Curious Refuge는 촬영이 끝난 뒤 영화의 조명을 다시 입히는 새 워크플로를 공유한다. 세트로 돌아가지 않고도 낮 시간의 사무실을 늦은 밤의 작업 공간으로 바꾸는 식이다."
+                "x": "iQIYI ha abierto un estudio de cine AI en su Creative Center de Shanghai y ha iniciado allí la producción de su primer proyecto, el largometraje para internet Cop in Trouble, según informó el proveedor de entretenimiento en línea el 28 de octubre."
               },
               {
                 "t": "p",
-                "x": "절차는 이렇다. 스틸 프레임을 추출하고 조명 레퍼런스를 고른 뒤, 이미지 편집기(Nano Banana 2.1 또는 GPT Image 2.5 권장)에서 “이미지 1의 조명과 시간대를 밤으로 바꿔라. 이미지 2를 조명과 스타일 레퍼런스로 사용하라” 같은 프롬프트로 스틸의 조명을 바꾼다. 이어 원본 클립과 조명을 바꾼 프레임을 영상 모델에 함께 올리면, 편집한 이미지가 목표 조명을, 원본 영상이 연기와 움직임을 맡는다."
+                "x": "La instalación, de unos 110 metros cuadrados (110-square-meter), combina el rodaje de imagen real con la posproducción mediante AI. Las imágenes grabadas en el set se sincronizan automáticamente con NadouPro, la plataforma de producción AI de iQIYI, lo que da a los cineastas acceso a casi 30 modelos de AI y a cientos de agentes de AI centrados en la producción. Zhu Liang, vicepresidente de iQIYI y responsable de producción inteligente, dijo que el enfoque mantiene la interpretación como “el núcleo de cualquier película o serie”."
               },
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "새 조명을 입힌 첫 프레임"
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Póster de Cop in Trouble."
               },
               {
                 "t": "p",
-                "x": "결과는 기대할 만했지만 한계도 있었다. 사무실 테스트에서는 노출이 들쭉날쭉하고 사선 밴딩이 눈에 띄었으며, 출력 해상도도 4K 원본보다 낮았다. 따라서 영화에 쓰기 전에 클립 전체에서 아티팩트를 확인해야 한다."
+                "x": "La producción usa imágenes de las interacciones de los actores en el set como referencia para entornos y detalles visuales generados con AI (AI-generated). El estudio sigue al estudio virtual de la compañía en Hengdian, que según iQIYI logró aumentos de eficiencia en la producción de más del 30 por ciento."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "iQIYI AI 스튜디오\n열고 첫 장편 제작",
+          "body": "iQIYI가 AI 스튜디오를 열고 첫 작품 Cop in Trouble에 착수했다.",
+          "mini_headline": "iQIYI, AI 영화 스튜디오 개관",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "iQiyi의 새 AI 영화 스튜디오는 제작 체인을 로케이션·그린스크린 촬영에서 버추얼 프로덕션과 AI-integrated(AI 통합) 영화 제작으로 넓힌다."
+              },
+              {
+                "t": "p",
+                "x": "온라인 엔터테인먼트 기업 iQIYI는 10월 28일, 상하이(Shanghai) Creative Center에 AI 영화 스튜디오를 열고 그곳의 첫 프로젝트인 인터넷 장편 영화 Cop in Trouble 제작에 들어갔다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "약 110제곱미터 규모의 이 시설은 실사 촬영과 AI 후반 작업을 결합한다. 현장 촬영본은 iQIYI의 AI 제작 플랫폼 NadouPro에 자동으로 동기화되며, 제작진은 30개 가까운 AI 모델과 제작에 특화된 수백 개의 AI 에이전트를 쓸 수 있다. iQIYI 부사장 겸 지능형 제작 총괄 Zhu Liang은 이 방식이 연기를 \"모든 영화와 시리즈의 핵심\"으로 지킨다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Cop in Trouble 포스터."
+              },
+              {
+                "t": "p",
+                "x": "이번 작품은 배우들이 현장에서 주고받은 연기 장면을 AI-generated(AI 생성) 배경과 시각적 디테일의 참고 자료로 쓴다. 이 스튜디오는 회사의 Hengdian 가상 스튜디오에 이은 것으로, iQIYI는 Hengdian 스튜디오가 30퍼센트 넘는 제작 효율 향상을 거뒀다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "撮影後に照明を変える\n新しいAIワークフロー",
-          "body": "Curious Refugeが、生成AIで撮影後に映像の照明を変える手法を紹介した。",
-          "mini_headline": "ポスプロでAIリライティング",
+          "headline": "iQIYIがAI映画\nスタジオ、初の長編へ",
+          "body": "iQIYIが上海にAI映画スタジオを開き、初作品Cop in Troubleに着手した。",
+          "mini_headline": "iQIYI、AI映画スタジオ開設",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "iQiyiの新しいAI映画スタジオは、制作チェーンをロケ撮影やグリーンバック撮影から、バーチャルプロダクションとAI-integrated(AI統合型)の映画制作へと広げる。"
               },
               {
                 "t": "p",
-                "x": "この動画でCurious Refugeは、撮影後に映像の照明を変える新しいワークフローを紹介している。セットに戻らずに、昼間のオフィスを深夜の作業場に変えるというものだ。"
+                "x": "オンラインエンターテインメント企業のiQIYIは10月28日、上海(Shanghai)のCreative CenterにAI映画スタジオを開設し、同所での初プロジェクトとなるインターネット長編映画Cop in Troubleの制作を始めたと発表した。"
               },
               {
                 "t": "p",
-                "x": "手順はこうだ。静止フレームを書き出し、照明のリファレンスを選び、画像編集ツール（Nano Banana 2.1またはGPT Image 2.5を推奨）で「画像1の照明と時間帯を夜に変更せよ。画像2を照明とスタイルのリファレンスとして使え」といったプロンプトを使い、静止画の照明を変える。次に元のクリップと照明を変えたフレームを動画モデルにアップロードすると、編集した画像が目標の照明を、元の映像が演技と動きを担う。"
+                "x": "約110平方メートルの施設は、実写撮影とAIによるポストプロダクションを組み合わせる。現場の映像はiQIYIのAI制作プラットフォームNadouProに自動で同期され、制作者は30近いAIモデルと、制作に特化した数百のAIエージェントを利用できる。iQIYI副社長でインテリジェント制作部門を率いるZhu Liangは、この手法によって演技が「あらゆる映画やシリーズの核」であり続けると述べた。"
               },
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "新しい照明を施した最初のフレーム"
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Cop in Troubleのポスター。"
               },
               {
                 "t": "p",
-                "x": "結果は有望だったが限界もあった。オフィスでのテストでは露出のばらつきや目立つ斜めのバンディングが見られ、出力は4K の元素材より低解像度だった。映画に使う前に、クリップ全体でアーティファクトを確認すべきだ。"
+                "x": "本作では、現場での俳優同士のやり取りを撮った映像を、AI-generated(AI生成)の背景や視覚的ディテールの参考に用いる。このスタジオは同社のHengdianバーチャルスタジオに続くもので、iQIYIによればHengdianのスタジオは制作効率を30パーセント以上高めたという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一套新的AI工作流\n为影片后期重新打光",
-          "body": "Curious Refuge介绍了一套在后期中借助生成式工具为影片重新打光的AI流程。",
-          "mini_headline": "后期AI重新打光",
+          "headline": "iQIYI开设AI电影\n工作室，首部长片开拍",
+          "body": "iQIYI在上海开设AI电影工作室，首部作品Cop in Trouble已开拍。",
+          "mini_headline": "iQIYI开设AI电影工作室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
+                "t": "img",
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
+                "cap": "iQiyi新的AI电影工作室将其制作链条从实景拍摄和绿幕拍摄延伸至虚拟制作与AI-integrated（AI融合）电影制作。"
               },
               {
                 "t": "p",
-                "x": "在这段视频中，Curious Refuge分享了一套在拍摄结束后为影片重新打光的新工作流程——无需重返片场，就能把白天的办公室变成深夜的工作空间。"
+                "x": "在线娱乐服务商iQIYI于10月28日表示，已在上海（Shanghai）Creative Center开设AI电影工作室，并在此启动首个项目——网络电影Cop in Trouble的制作。"
               },
               {
                 "t": "p",
-                "x": "步骤如下：导出一帧静帧，挑选一张光照参考图，然后在图像编辑工具中（推荐Nano Banana 2.1或GPT Image 2.5）用类似“把图像1的光照和时间改为夜晚。以图像2作为光照与风格参考。”的提示词为静帧重新打光。接着把原始片段和重新打光后的画面一起上传到视频模型，由编辑后的图像提供目标光照，原始素材提供表演与动作。"
+                "x": "该设施面积约110平方米，将实拍与AI后期制作相结合。现场素材会自动同步至iQIYI的AI制作平台NadouPro，创作者可调用近三十个AI模型和数百个面向制作的AI智能体。iQIYI副总裁、智能制作负责人Zhu Liang表示，这种方式让表演始终是“任何电影或剧集的核心”。"
               },
               {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "重新打光后的首帧"
+                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
+                "cap": "Cop in Trouble海报。"
               },
               {
                 "t": "p",
-                "x": "结果令人鼓舞，但也有局限：在办公室测试中，他们看到了曝光波动和明显的斜向条带，输出分辨率也低于4K 源素材——因此在用进影片前，应检查整段片段是否有瑕疵。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un nuevo flujo de IA para\nreiluminar metraje de cine",
-          "body": "Curious Refuge explica un flujo con IA que usa herramientas generativas para reiluminar tomas en posproducción.",
-          "mini_headline": "Reiluminación con IA en posproducción",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "19ngvIWpK_U"
-              },
-              {
-                "t": "p",
-                "x": "En este video, Curious Refuge comparte un nuevo flujo de trabajo para reiluminar tus películas después del rodaje: convertir una oficina de día en un espacio de trabajo de madrugada sin volver al set."
-              },
-              {
-                "t": "p",
-                "x": "Los pasos: exportar un fotograma fijo, elegir una referencia de iluminación y reiluminar la imagen en un editor (se recomiendan Nano Banana 2.1 o GPT Image 2.5) con un prompt como “Cambia la iluminación y la hora del día de la imagen 1 a la noche. Usa la imagen 2 como referencia de iluminación y estilo”. Después, subir el clip original junto con el fotograma reiluminado a un modelo de video, de modo que la imagen editada aporte el objetivo de iluminación y el metraje aporte la interpretación y el movimiento."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/dbeb0032-6830-48e8-9674-a9b975a23806/TEST+00+-+RealFootage+-+02+-+First+Frame+Relight+%28with+Reference%29.png",
-                "cap": "Primer fotograma con la nueva iluminación"
-              },
-              {
-                "t": "p",
-                "x": "Los resultados fueron prometedores, con límites: en la prueba de la oficina vieron variaciones de exposición y bandas diagonales visibles, y la salida tenía menor resolución que la fuente en 4K, así que conviene revisar todo el clip en busca de artefactos antes de usarlo en tu película."
+                "x": "该片以演员在片场互动的素材作为AI-generated（AI生成）场景和视觉细节的参考。这间工作室延续了公司的Hengdian虚拟影棚，iQIYI称Hengdian影棚带来了超过百分之三十的制作效率提升。"
               }
             ]
           }
@@ -1211,15 +1301,15 @@
       }
     },
     {
-      "id": "news1-broadcast-ai-action",
+      "id": "studio-unmu-last-call",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "3분 액션신에 2억 절감\nAI가 바꾼 방송 제작",
-      "body": "생성형 AI가 액션신·CG 제작에 쓰이며 3분 액션신에서 2억 원을 절감했다.",
-      "mini_headline": "AI로 2억 절감",
+      "headline": "대전 2인 팀 AI 영화,\n뉴욕 영화제 특별언급상",
+      "body": "사람이 각본·연출·편집·믹싱을 맡고 생성형 AI가 영상을 구현한 11분 단편이다.",
+      "mini_headline": "대전 AI 영화 뉴욕 특별언급상",
       "tool": "Movies",
-      "source": "News1",
-      "url": "https://www.news1.kr/entertain/broadcast-tv/6337749",
+      "source": "인공지능신문",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42541",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1227,185 +1317,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-            "cap": "MBC"
+            "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+            "cap": "연훈민 감독과 고숙 작가(사진: 운무)"
           },
           {
             "t": "p",
-            "x": "인공지능(AI) 기술이 방송가의 새로운 동력으로 떠올랐다. 과거 자막 생성, 음성의 문자 변환 등에 그쳤던 AI 활용은 생성형 AI 등장 이후 기획부터 영상 제작, 시청자 데이터 분석 등으로 확대됐다."
-          },
-          {
-            "t": "p",
-            "x": "이상진 SBS AI파트너십팀장은 \"김부장의 과거 북한 침투 장면은 실사 촬영에 수억 원이 들 것으로 예상됐는데, AI를 활용해 약 2억 원을 절감할 수 있었다\"고 전했다. 다리 위 폭파 장면에서는 차량을 CG로, 치솟는 불길을 생성형 AI로 구현했다. EBS는 'AI드라마-부활수업' 등을 선보였고, KBS 대하사극 '문무'도 생성형 AI로 만든 역사적 공간과 대규모 전투신을 선보인다."
+            "x": "대전의 독립 영상 스튜디오 운무(UNMU)는 고숙 작가와 연훈민 감독이 공동 제작한 AI 단편영화 ‘라스트 콜(LAST CALL, 폐장 시간)’이 미국 뉴욕에서 열린 제30회 어반월드 영화제의 ‘최우수 AI 생성·보조 영화(Best AI-Generated or Assisted Film)’ 부문에서 특별언급상(Honorable Mention)을 수상했다고 2일 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-            "cap": "AI 기반 '버티고 PTZ'/사진=KBS 제공"
+            "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+            "cap": "포스터 이미지(사진: 운무)"
           },
           {
             "t": "p",
-            "x": "KBS의 AI 기반 자동 영상 프레이밍 솔루션 '버티고'는 '뮤직뱅크'에서 출연자 한 명당 약 15분이 걸리던 편집 시간을 2~3분으로 줄였다. MBC는 지방선거 개표방송 카운트다운 영상을 촬영 없이 방송 아카이브와 생성형 AI만으로 만들었다. 권석원 MBC AI전략팀장은 \"AI 도입의 목표는 인력을 줄이는 것이 아니라\" 구성원이 창의적인 업무에 집중하는 구조를 만드는 것이라고 강조했다."
+            "x": "러닝타임 11분 23초의 SF 드라마인 ‘라스트 콜’은 드론 통행금지가 내려진 밤, 네온사인이 켜진 바에 갇힌 손님 세 명과 바텐더의 이야기를 그린다. 어반월드 영화제는 올해 처음으로 AI 영화를 공식 경쟁 부문에 포함했고, 미국작가조합 동부지부는 AI 부문 신설에 반대하며 영화제 후원을 철회했다."
+          },
+          {
+            "t": "p",
+            "x": "제작진은 “각본과 연기 연출, 편집과 사운드 믹싱은 모두 사람의 손을 거쳤다. 픽셀은 AI가 만들었지만, 무엇을 보여주고 얼마나 오래 머물지는 사람이 정했다”고 설명했다. 작품은 지난 8월 포르투갈 아반카 국제영화제 AI 경쟁 부문에서 세계 최초로 공개됐다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "3분 액션신에 2억 절감\nAI가 바꾼 방송 제작",
-          "body": "생성형 AI가 액션신·CG 제작에 쓰이며 3분 액션신에서 2억 원을 절감했다.",
-          "mini_headline": "AI로 2억 절감",
+          "headline": "대전 2인 팀 AI 영화,\n뉴욕 영화제 특별언급상",
+          "body": "사람이 각본·연출·편집·믹싱을 맡고 생성형 AI가 영상을 구현한 11분 단편이다.",
+          "mini_headline": "대전 AI 영화 뉴욕 특별언급상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "연훈민 감독과 고숙 작가(사진: 운무)"
               },
               {
                 "t": "p",
-                "x": "인공지능(AI) 기술이 방송가의 새로운 동력으로 떠올랐다. 과거 자막 생성, 음성의 문자 변환 등에 그쳤던 AI 활용은 생성형 AI 등장 이후 기획부터 영상 제작, 시청자 데이터 분석 등으로 확대됐다."
-              },
-              {
-                "t": "p",
-                "x": "이상진 SBS AI파트너십팀장은 \"김부장의 과거 북한 침투 장면은 실사 촬영에 수억 원이 들 것으로 예상됐는데, AI를 활용해 약 2억 원을 절감할 수 있었다\"고 전했다. 다리 위 폭파 장면에서는 차량을 CG로, 치솟는 불길을 생성형 AI로 구현했다. EBS는 'AI드라마-부활수업' 등을 선보였고, KBS 대하사극 '문무'도 생성형 AI로 만든 역사적 공간과 대규모 전투신을 선보인다."
+                "x": "대전의 독립 영상 스튜디오 운무(UNMU)는 고숙 작가와 연훈민 감독이 공동 제작한 AI 단편영화 ‘라스트 콜(LAST CALL, 폐장 시간)’이 미국 뉴욕에서 열린 제30회 어반월드 영화제의 ‘최우수 AI 생성·보조 영화(Best AI-Generated or Assisted Film)’ 부문에서 특별언급상(Honorable Mention)을 수상했다고 2일 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "AI 기반 '버티고 PTZ'/사진=KBS 제공"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "포스터 이미지(사진: 운무)"
               },
               {
                 "t": "p",
-                "x": "KBS의 AI 기반 자동 영상 프레이밍 솔루션 '버티고'는 '뮤직뱅크'에서 출연자 한 명당 약 15분이 걸리던 편집 시간을 2~3분으로 줄였다. MBC는 지방선거 개표방송 카운트다운 영상을 촬영 없이 방송 아카이브와 생성형 AI만으로 만들었다. 권석원 MBC AI전략팀장은 \"AI 도입의 목표는 인력을 줄이는 것이 아니라\" 구성원이 창의적인 업무에 집중하는 구조를 만드는 것이라고 강조했다."
+                "x": "러닝타임 11분 23초의 SF 드라마인 ‘라스트 콜’은 드론 통행금지가 내려진 밤, 네온사인이 켜진 바에 갇힌 손님 세 명과 바텐더의 이야기를 그린다. 어반월드 영화제는 올해 처음으로 AI 영화를 공식 경쟁 부문에 포함했고, 미국작가조합 동부지부는 AI 부문 신설에 반대하며 영화제 후원을 철회했다."
+              },
+              {
+                "t": "p",
+                "x": "제작진은 “각본과 연기 연출, 편집과 사운드 믹싱은 모두 사람의 손을 거쳤다. 픽셀은 AI가 만들었지만, 무엇을 보여주고 얼마나 오래 머물지는 사람이 정했다”고 설명했다. 작품은 지난 8월 포르투갈 아반카 국제영화제 AI 경쟁 부문에서 세계 최초로 공개됐다."
               }
             ]
           }
         },
         "en": {
-          "headline": "AI saves ₩200 million on\na 3-minute TV action scene",
-          "body": "Generative AI now handles action scenes and CG, saving ₩200 million on a 3-minute action scene.",
-          "mini_headline": "AI saves ₩200 million",
+          "headline": "2-person Daejeon team's AI film\nwins a New York festival honor",
+          "body": "People wrote, directed, edited and mixed the 11-minute short, while generative AI rendered the visuals.",
+          "mini_headline": "Daejeon AI film wins NY honorable mention",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "Director Yeon Hun-min and writer Ko Suk (Photo: UNMU)"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) has emerged as a new driving force in broadcasting. AI use, once limited to generating subtitles and converting speech to text, has expanded since the arrival of generative AI to cover everything from planning to video production and viewer data analysis."
-              },
-              {
-                "t": "p",
-                "x": "Lee Sang-jin, head of the AI Partnership Team at SBS, said: “Kim Bu-jang’s past infiltration scene in North Korea was expected to cost hundreds of millions of won to shoot live, but using AI we were able to save about ₩200 million.” In an explosion scene on a bridge, the vehicles were made with CG and the rising flames with generative AI. EBS has released works such as ‘AI Drama - Resurrection Class,’ and KBS’s historical epic ‘Munmu’ will also show historical settings and large-scale battle scenes made with generative AI."
+                "x": "UNMU, an independent video studio in Daejeon, said on the 2nd that the AI short film ‘LAST CALL’ (Closing Time), co-created by writer Ko Suk and director Yeon Hun-min, received an Honorable Mention in the ‘Best AI-Generated or Assisted Film’ category at the 30th Urbanworld Film Festival in New York."
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "AI-based ‘Vertigo PTZ’ / Photo courtesy of KBS"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "Poster image (Photo: UNMU)"
               },
               {
                 "t": "p",
-                "x": "KBS’s AI-based automatic video framing solution ‘Vertigo’ cut editing time on ‘Music Bank’ from about 15 minutes per performer to 2–3 minutes. MBC made the countdown video for its local election results broadcast with only its broadcast archive and generative AI, without any filming. Kwon Seok-won, head of MBC’s AI Strategy Team, stressed that “the goal of adopting AI is not to cut staff” but to build a structure in which members can focus on creative work."
+                "x": "‘LAST CALL’, an SF drama with a running time of 11 minutes 23 seconds, follows three customers and a bartender trapped in a neon-lit bar on a night under a drone curfew. Urbanworld included AI films in its official competition for the first time this year, and the Writers Guild of America East withdrew its sponsorship of the festival in opposition to the new AI category."
+              },
+              {
+                "t": "p",
+                "x": "The filmmakers explained, “The script, the direction of the performances, the editing and the sound mixing all went through human hands. AI made the pixels, but people decided what to show and how long to stay on it.” The film had its world premiere in August in the AI competition of Portugal's Avanca International Film Festival."
               }
             ]
           }
         },
         "ja": {
-          "headline": "3分のアクションで2億削減\nAIが変える放送制作",
-          "body": "生成AIがアクションやCG制作に使われ、3分のアクションシーンで2億ウォンを削減した。",
-          "mini_headline": "AIで2億削減",
+          "headline": "大田の2人組AI映画、\nNY映画祭で特別言及賞",
+          "body": "人が脚本・演出・編集・ミキシングを担い、生成AIが映像を作った11分の短編だ。",
+          "mini_headline": "大田のAI映画、NYで特別言及賞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "ヨン・フンミン監督とコ・スク作家(写真:UNMU)"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）技術が放送業界の新たな原動力として浮上した。かつて字幕生成や音声の文字変換などにとどまっていたAIの活用は、生成AIの登場以降、企画から映像制作、視聴者データ分析にまで広がった。"
-              },
-              {
-                "t": "p",
-                "x": "SBSのイ・サンジンAIパートナーシップチーム長は「キム部長の過去の北朝鮮潜入シーンは実写撮影に数億ウォンかかると見込まれていたが、AIを活用して約2億ウォンを削減できた」と語った。橋の上の爆破シーンでは車両をCGで、立ち上る炎を生成AIで表現した。EBSは『AIドラマ-復活授業』などを披露し、KBSの大河時代劇『文武』も生成AIで作った歴史的空間と大規模な戦闘シーンを見せる。"
+                "x": "大田の独立系映像スタジオUNMU(ウンム)は2日、コ・スク作家とヨン・フンミン監督が共同制作したAI短編映画『LAST CALL(閉店時間)』が、米ニューヨークで開かれた第30回アーバンワールド映画祭の「Best AI-Generated or Assisted Film(最優秀AI生成・補助映画)」部門で特別言及賞(Honorable Mention)を受賞したと明らかにした。"
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "AIベースの『バーティゴPTZ』/写真=KBS提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "ポスター画像(写真:UNMU)"
               },
               {
                 "t": "p",
-                "x": "KBSのAIベースの自動映像フレーミングソリューション『バーティゴ』は、『ミュージックバンク』で出演者1人あたり約15分かかっていた編集時間を2〜3分に短縮した。MBCは地方選挙の開票放送のカウントダウン映像を、撮影なしで放送アーカイブと生成AIだけで制作した。MBCのクォン・ソグォンAI戦略チーム長は「AI導入の目標は人員を減らすことではなく」、構成員が創造的な業務に集中できる構造をつくることだと強調した。"
+                "x": "上映時間11分23秒のSFドラマ『LAST CALL』は、ドローンの通行禁止令が出た夜、ネオンが灯るバーに閉じ込められた客三人とバーテンダーの物語を描く。アーバンワールド映画祭は今年初めてAI映画を公式コンペティション部門に加え、全米脚本家組合東部支部はAI部門の新設に反対して映画祭への協賛を取りやめた。"
+              },
+              {
+                "t": "p",
+                "x": "制作陣は「脚本と演技演出、編集とサウンドミキシングはすべて人の手を経た。ピクセルはAIが作ったが、何を見せ、どれだけ長くとどまるかは人が決めた」と説明した。作品は去る8月、ポルトガルのアヴァンカ国際映画祭のAIコンペティション部門で世界初公開された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "3分钟动作戏省下2亿\nAI改变广播电视制作",
-          "body": "生成式AI已用于动作戏与CG制作，一段3分钟动作戏节省了2亿韩元。",
-          "mini_headline": "AI省下2亿",
+          "headline": "大田2人团队AI电影\n获纽约影展特别提及奖",
+          "body": "这部11分钟短片由人负责编剧、导演、剪辑与混音，生成式AI生成画面。",
+          "mini_headline": "大田AI电影获纽约特别提及奖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "导演Yeon Hun-min与编剧Ko Suk（图片：UNMU）"
               },
               {
                 "t": "p",
-                "x": "人工智能（AI）技术已成为广播电视行业的新动力。过去仅限于生成字幕、语音转文字等用途的AI应用，在生成式AI出现后已扩展到从策划到视频制作、观众数据分析等领域。"
-              },
-              {
-                "t": "p",
-                "x": "SBS AI合作团队负责人李相镇表示：“金部长过去潜入朝鲜的场景，原本预计实拍要花费数亿韩元，借助AI节省了约2亿韩元。”在桥上爆炸的场景中，车辆用CG呈现，冲天的火焰则由生成式AI实现。EBS推出了《AI剧-复活课堂》等作品，KBS大型历史剧《文武》也将呈现用生成式AI打造的历史空间和大规模战斗场面。"
+                "x": "大田独立影像工作室UNMU于2日宣布，由编剧Ko Suk与导演Yeon Hun-min联合制作的AI短片《LAST CALL》（闭店时间）在美国纽约举行的第30届Urbanworld电影节“Best AI-Generated or Assisted Film（最佳AI生成或辅助电影）”单元获得特别提及奖（Honorable Mention）。"
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "基于AI的“Vertigo PTZ”/图片由KBS提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "海报图片（图片：UNMU）"
               },
               {
                 "t": "p",
-                "x": "KBS基于AI的自动视频取景解决方案“Vertigo”，将《音乐银行》中每位出演者约15分钟的剪辑时间缩短至2~3分钟。MBC未进行任何拍摄，仅用广播档案和生成式AI就制作了地方选举开票直播的倒计时视频。MBC AI战略团队负责人权锡源强调，“引进AI的目标不是减少人力”，而是建立让成员专注于创造性工作的结构。"
+                "x": "片长11分23秒的SF剧情片《LAST CALL》讲述了在无人机宵禁的夜晚，被困在霓虹灯闪烁的酒吧里的三名顾客与调酒师的故事。Urbanworld电影节今年首次将AI电影纳入正式竞赛单元，美国编剧工会东部分会则因反对设立AI单元而撤回了对电影节的赞助。"
+              },
+              {
+                "t": "p",
+                "x": "制作团队解释说：“剧本与表演指导、剪辑与混音全部经由人手完成。像素由AI生成，但展示什么、停留多久由人决定。”该片于8月在葡萄牙Avanca国际电影节AI竞赛单元进行了全球首映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA ahorra 200 millones en\n3 minutos de acción televisiva",
-          "body": "La IA generativa ya se usa en escenas de acción y CG, y ahorró 200 millones de wones en una escena de 3 minutos.",
-          "mini_headline": "La IA ahorra 200 millones",
+          "headline": "Corto AI de 2 autores de Daejeon\nlogra mención en festival de NY",
+          "body": "Es un corto de 11 minutos con guion, dirección, montaje y mezcla humanos, y AI generativa para las imágenes.",
+          "mini_headline": "Corto AI de Daejeon, mención en NY",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "Yeon Hun-min, director, y Ko Suk, guionista (foto: UNMU)"
               },
               {
                 "t": "p",
-                "x": "La tecnología de inteligencia artificial (IA) se ha convertido en un nuevo motor para la industria de la televisión. Su uso, antes limitado a generar subtítulos o convertir voz en texto, se ha ampliado desde la llegada de la IA generativa a todo el proceso, desde la planificación hasta la producción de video y el análisis de datos de audiencia."
-              },
-              {
-                "t": "p",
-                "x": "Lee Sang-jin, jefe del equipo de alianzas de IA de SBS, explicó: “Se esperaba que la escena de la infiltración pasada de Kim Bu-jang en Corea del Norte costara cientos de millones de wones en rodaje real, pero gracias a la IA pudimos ahorrar unos 200 millones de wones”. En la escena de la explosión sobre un puente, los vehículos se hicieron con CG y las llamas con IA generativa. EBS presentó títulos como ‘AI Drama - Clase de resurrección’, y el drama histórico de KBS ‘Munmu’ también mostrará espacios históricos y grandes batallas creados con IA generativa."
+                "x": "UNMU, un estudio de video independiente de Daejeon, informó el día 2 que el cortometraje AI ‘LAST CALL’ (Hora de cierre), creado en conjunto por Ko Suk y el director Yeon Hun-min, recibió una mención especial (Honorable Mention) en la categoría ‘Best AI-Generated or Assisted Film’ (mejor película generada o asistida por AI) del 30.º Festival de Cine Urbanworld, celebrado en Nueva York."
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "‘Vertigo PTZ’, basado en IA / Foto: cortesía de KBS"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "Imagen del póster (foto: UNMU)"
               },
               {
                 "t": "p",
-                "x": "‘Vertigo’, la solución de encuadre automático de video basada en IA de KBS, redujo en ‘Music Bank’ el tiempo de edición de unos 15 minutos por intérprete a 2-3 minutos. MBC creó el video de cuenta regresiva de su transmisión de resultados de las elecciones locales sin rodar nada, solo con su archivo de emisiones e IA generativa. Kwon Seok-won, jefe del equipo de estrategia de IA de MBC, subrayó que “el objetivo de adoptar la IA no es reducir personal”, sino crear una estructura en la que el equipo pueda centrarse en el trabajo creativo."
+                "x": "‘LAST CALL’, un drama de SF de 11 minutos y 23 segundos, cuenta la historia de tres clientes y un bartender atrapados en un bar iluminado con neones durante una noche de toque de queda para drones. Urbanworld incluyó este año por primera vez películas AI en su competencia oficial, y el Writers Guild of America East retiró su patrocinio al festival en protesta por la nueva categoría de AI."
+              },
+              {
+                "t": "p",
+                "x": "Los realizadores explicaron: “El guion, la dirección de actores, el montaje y la mezcla de sonido pasaron por manos humanas. La AI hizo los píxeles, pero fueron personas quienes decidieron qué mostrar y cuánto tiempo detenerse”. La obra tuvo su estreno mundial en agosto pasado, en la competencia AI del Festival Internacional de Cine de Avanca, en Portugal."
               }
             ]
           }
@@ -1413,129 +1503,129 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "AI saves ₩200 million on\na 3-minute TV action scene",
-          "body": "Generative AI now handles action scenes and CG, saving ₩200 million on a 3-minute action scene.",
-          "mini_headline": "AI saves ₩200 million",
+          "headline": "2-person Daejeon team's AI film\nwins a New York festival honor",
+          "body": "People wrote, directed, edited and mixed the 11-minute short, while generative AI rendered the visuals.",
+          "mini_headline": "Daejeon AI film wins NY honorable mention",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "Director Yeon Hun-min and writer Ko Suk (Photo: UNMU)"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) has emerged as a new driving force in broadcasting. AI use, once limited to generating subtitles and converting speech to text, has expanded since the arrival of generative AI to cover everything from planning to video production and viewer data analysis."
-              },
-              {
-                "t": "p",
-                "x": "Lee Sang-jin, head of the AI Partnership Team at SBS, said: “Kim Bu-jang’s past infiltration scene in North Korea was expected to cost hundreds of millions of won to shoot live, but using AI we were able to save about ₩200 million.” In an explosion scene on a bridge, the vehicles were made with CG and the rising flames with generative AI. EBS has released works such as ‘AI Drama - Resurrection Class,’ and KBS’s historical epic ‘Munmu’ will also show historical settings and large-scale battle scenes made with generative AI."
+                "x": "UNMU, an independent video studio in Daejeon, said on the 2nd that the AI short film ‘LAST CALL’ (Closing Time), co-created by writer Ko Suk and director Yeon Hun-min, received an Honorable Mention in the ‘Best AI-Generated or Assisted Film’ category at the 30th Urbanworld Film Festival in New York."
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "AI-based ‘Vertigo PTZ’ / Photo courtesy of KBS"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "Poster image (Photo: UNMU)"
               },
               {
                 "t": "p",
-                "x": "KBS’s AI-based automatic video framing solution ‘Vertigo’ cut editing time on ‘Music Bank’ from about 15 minutes per performer to 2–3 minutes. MBC made the countdown video for its local election results broadcast with only its broadcast archive and generative AI, without any filming. Kwon Seok-won, head of MBC’s AI Strategy Team, stressed that “the goal of adopting AI is not to cut staff” but to build a structure in which members can focus on creative work."
+                "x": "‘LAST CALL’, an SF drama with a running time of 11 minutes 23 seconds, follows three customers and a bartender trapped in a neon-lit bar on a night under a drone curfew. Urbanworld included AI films in its official competition for the first time this year, and the Writers Guild of America East withdrew its sponsorship of the festival in opposition to the new AI category."
+              },
+              {
+                "t": "p",
+                "x": "The filmmakers explained, “The script, the direction of the performances, the editing and the sound mixing all went through human hands. AI made the pixels, but people decided what to show and how long to stay on it.” The film had its world premiere in August in the AI competition of Portugal's Avanca International Film Festival."
               }
             ]
           }
         },
         "ja": {
-          "headline": "3分のアクションで2億削減\nAIが変える放送制作",
-          "body": "生成AIがアクションやCG制作に使われ、3分のアクションシーンで2億ウォンを削減した。",
-          "mini_headline": "AIで2億削減",
+          "headline": "大田の2人組AI映画、\nNY映画祭で特別言及賞",
+          "body": "人が脚本・演出・編集・ミキシングを担い、生成AIが映像を作った11分の短編だ。",
+          "mini_headline": "大田のAI映画、NYで特別言及賞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "ヨン・フンミン監督とコ・スク作家(写真:UNMU)"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）技術が放送業界の新たな原動力として浮上した。かつて字幕生成や音声の文字変換などにとどまっていたAIの活用は、生成AIの登場以降、企画から映像制作、視聴者データ分析にまで広がった。"
-              },
-              {
-                "t": "p",
-                "x": "SBSのイ・サンジンAIパートナーシップチーム長は「キム部長の過去の北朝鮮潜入シーンは実写撮影に数億ウォンかかると見込まれていたが、AIを活用して約2億ウォンを削減できた」と語った。橋の上の爆破シーンでは車両をCGで、立ち上る炎を生成AIで表現した。EBSは『AIドラマ-復活授業』などを披露し、KBSの大河時代劇『文武』も生成AIで作った歴史的空間と大規模な戦闘シーンを見せる。"
+                "x": "大田の独立系映像スタジオUNMU(ウンム)は2日、コ・スク作家とヨン・フンミン監督が共同制作したAI短編映画『LAST CALL(閉店時間)』が、米ニューヨークで開かれた第30回アーバンワールド映画祭の「Best AI-Generated or Assisted Film(最優秀AI生成・補助映画)」部門で特別言及賞(Honorable Mention)を受賞したと明らかにした。"
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "AIベースの『バーティゴPTZ』/写真=KBS提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "ポスター画像(写真:UNMU)"
               },
               {
                 "t": "p",
-                "x": "KBSのAIベースの自動映像フレーミングソリューション『バーティゴ』は、『ミュージックバンク』で出演者1人あたり約15分かかっていた編集時間を2〜3分に短縮した。MBCは地方選挙の開票放送のカウントダウン映像を、撮影なしで放送アーカイブと生成AIだけで制作した。MBCのクォン・ソグォンAI戦略チーム長は「AI導入の目標は人員を減らすことではなく」、構成員が創造的な業務に集中できる構造をつくることだと強調した。"
+                "x": "上映時間11分23秒のSFドラマ『LAST CALL』は、ドローンの通行禁止令が出た夜、ネオンが灯るバーに閉じ込められた客三人とバーテンダーの物語を描く。アーバンワールド映画祭は今年初めてAI映画を公式コンペティション部門に加え、全米脚本家組合東部支部はAI部門の新設に反対して映画祭への協賛を取りやめた。"
+              },
+              {
+                "t": "p",
+                "x": "制作陣は「脚本と演技演出、編集とサウンドミキシングはすべて人の手を経た。ピクセルはAIが作ったが、何を見せ、どれだけ長くとどまるかは人が決めた」と説明した。作品は去る8月、ポルトガルのアヴァンカ国際映画祭のAIコンペティション部門で世界初公開された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "3分钟动作戏省下2亿\nAI改变广播电视制作",
-          "body": "生成式AI已用于动作戏与CG制作，一段3分钟动作戏节省了2亿韩元。",
-          "mini_headline": "AI省下2亿",
+          "headline": "大田2人团队AI电影\n获纽约影展特别提及奖",
+          "body": "这部11分钟短片由人负责编剧、导演、剪辑与混音，生成式AI生成画面。",
+          "mini_headline": "大田AI电影获纽约特别提及奖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "导演Yeon Hun-min与编剧Ko Suk（图片：UNMU）"
               },
               {
                 "t": "p",
-                "x": "人工智能（AI）技术已成为广播电视行业的新动力。过去仅限于生成字幕、语音转文字等用途的AI应用，在生成式AI出现后已扩展到从策划到视频制作、观众数据分析等领域。"
-              },
-              {
-                "t": "p",
-                "x": "SBS AI合作团队负责人李相镇表示：“金部长过去潜入朝鲜的场景，原本预计实拍要花费数亿韩元，借助AI节省了约2亿韩元。”在桥上爆炸的场景中，车辆用CG呈现，冲天的火焰则由生成式AI实现。EBS推出了《AI剧-复活课堂》等作品，KBS大型历史剧《文武》也将呈现用生成式AI打造的历史空间和大规模战斗场面。"
+                "x": "大田独立影像工作室UNMU于2日宣布，由编剧Ko Suk与导演Yeon Hun-min联合制作的AI短片《LAST CALL》（闭店时间）在美国纽约举行的第30届Urbanworld电影节“Best AI-Generated or Assisted Film（最佳AI生成或辅助电影）”单元获得特别提及奖（Honorable Mention）。"
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "基于AI的“Vertigo PTZ”/图片由KBS提供"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "海报图片（图片：UNMU）"
               },
               {
                 "t": "p",
-                "x": "KBS基于AI的自动视频取景解决方案“Vertigo”，将《音乐银行》中每位出演者约15分钟的剪辑时间缩短至2~3分钟。MBC未进行任何拍摄，仅用广播档案和生成式AI就制作了地方选举开票直播的倒计时视频。MBC AI战略团队负责人权锡源强调，“引进AI的目标不是减少人力”，而是建立让成员专注于创造性工作的结构。"
+                "x": "片长11分23秒的SF剧情片《LAST CALL》讲述了在无人机宵禁的夜晚，被困在霓虹灯闪烁的酒吧里的三名顾客与调酒师的故事。Urbanworld电影节今年首次将AI电影纳入正式竞赛单元，美国编剧工会东部分会则因反对设立AI单元而撤回了对电影节的赞助。"
+              },
+              {
+                "t": "p",
+                "x": "制作团队解释说：“剧本与表演指导、剪辑与混音全部经由人手完成。像素由AI生成，但展示什么、停留多久由人决定。”该片于8月在葡萄牙Avanca国际电影节AI竞赛单元进行了全球首映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA ahorra 200 millones en\n3 minutos de acción televisiva",
-          "body": "La IA generativa ya se usa en escenas de acción y CG, y ahorró 200 millones de wones en una escena de 3 minutos.",
-          "mini_headline": "La IA ahorra 200 millones",
+          "headline": "Corto AI de 2 autores de Daejeon\nlogra mención en festival de NY",
+          "body": "Es un corto de 11 minutos con guion, dirección, montaje y mezcla humanos, y AI generativa para las imágenes.",
+          "mini_headline": "Corto AI de Daejeon, mención en NY",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/10/30/8189082/high.jpg",
-                "cap": "MBC"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
+                "cap": "Yeon Hun-min, director, y Ko Suk, guionista (foto: UNMU)"
               },
               {
                 "t": "p",
-                "x": "La tecnología de inteligencia artificial (IA) se ha convertido en un nuevo motor para la industria de la televisión. Su uso, antes limitado a generar subtítulos o convertir voz en texto, se ha ampliado desde la llegada de la IA generativa a todo el proceso, desde la planificación hasta la producción de video y el análisis de datos de audiencia."
-              },
-              {
-                "t": "p",
-                "x": "Lee Sang-jin, jefe del equipo de alianzas de IA de SBS, explicó: “Se esperaba que la escena de la infiltración pasada de Kim Bu-jang en Corea del Norte costara cientos de millones de wones en rodaje real, pero gracias a la IA pudimos ahorrar unos 200 millones de wones”. En la escena de la explosión sobre un puente, los vehículos se hicieron con CG y las llamas con IA generativa. EBS presentó títulos como ‘AI Drama - Clase de resurrección’, y el drama histórico de KBS ‘Munmu’ también mostrará espacios históricos y grandes batallas creados con IA generativa."
+                "x": "UNMU, un estudio de video independiente de Daejeon, informó el día 2 que el cortometraje AI ‘LAST CALL’ (Hora de cierre), creado en conjunto por Ko Suk y el director Yeon Hun-min, recibió una mención especial (Honorable Mention) en la categoría ‘Best AI-Generated or Assisted Film’ (mejor película generada o asistida por AI) del 30.º Festival de Cine Urbanworld, celebrado en Nueva York."
               },
               {
                 "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/10/30/8189153/high.jpg/dims/optimize",
-                "cap": "‘Vertigo PTZ’, basado en IA / Foto: cortesía de KBS"
+                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
+                "cap": "Imagen del póster (foto: UNMU)"
               },
               {
                 "t": "p",
-                "x": "‘Vertigo’, la solución de encuadre automático de video basada en IA de KBS, redujo en ‘Music Bank’ el tiempo de edición de unos 15 minutos por intérprete a 2-3 minutos. MBC creó el video de cuenta regresiva de su transmisión de resultados de las elecciones locales sin rodar nada, solo con su archivo de emisiones e IA generativa. Kwon Seok-won, jefe del equipo de estrategia de IA de MBC, subrayó que “el objetivo de adoptar la IA no es reducir personal”, sino crear una estructura en la que el equipo pueda centrarse en el trabajo creativo."
+                "x": "‘LAST CALL’, un drama de SF de 11 minutos y 23 segundos, cuenta la historia de tres clientes y un bartender atrapados en un bar iluminado con neones durante una noche de toque de queda para drones. Urbanworld incluyó este año por primera vez películas AI en su competencia oficial, y el Writers Guild of America East retiró su patrocinio al festival en protesta por la nueva categoría de AI."
+              },
+              {
+                "t": "p",
+                "x": "Los realizadores explicaron: “El guion, la dirección de actores, el montaje y la mezcla de sonido pasaron por manos humanas. La AI hizo los píxeles, pero fueron personas quienes decidieron qué mostrar y cuánto tiempo detenerse”. La obra tuvo su estreno mundial en agosto pasado, en la competencia AI del Festival Internacional de Cine de Avanca, en Portugal."
               }
             ]
           }

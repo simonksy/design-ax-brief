@@ -8221,6 +8221,127 @@
           "x": "四家出版与版权组织敦促US法院在一起重大版权侵权案中驳回OpenAI的合理使用(fair-use)抗辩，认为该公司使用受版权保护的作品训练其AI模型，威胁作者生计、破坏授权市场，并使与之竞争的图书得以产生。"
         }
       ]
+    },
+    "books/ajunews-ai-standard-contract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+          "cap": "路透社/韩联社"
+        },
+        {
+          "t": "p",
+          "x": "随着生成式AI产业快速增长，围绕出版数据合理使用费的争论全面展开。大韩出版文化协会（出协）计划于本月内向各出版社发放补充了AI训练数据使用条款的标准合同。此举是在现有作者与出版社之间的标准合同中增加AI训练数据相关内容，目前正在进行法律审查，旨在明确AI训练涉及的作品使用范围和权利关系，预防纠纷。"
+        },
+        {
+          "t": "p",
+          "x": "出协表示，2023年就国立国语院语料库项目与Woongjin Booxen达成的和解金额，不应被当作AI训练数据的一般价格标准。争议源于该项目中1万5933种出版作品被擅自使用一事；在损害赔偿诉讼中，上诉审法院以和解金额为依据，将赔偿额判得低于1审。此案目前仍在大法院上告审中。"
+        },
+        {
+          "t": "p",
+          "x": "在韩国国内，Naver和SK电讯等公司正与个别出版社签订合同。在海外，Anthropic在版权集体诉讼中拟定了规模达15亿美元（约2万亿韩元）的和解方案，将为约50万种图书每种支付至少3000美元；据悉，HarperCollins于2024年与Microsoft签订了每种5000美元的AI训练使用合同。"
+        },
+        {
+          "t": "p",
+          "x": "出协掌握到，一家中间分销商获取了约30万册韩国图书并将其运往美国，目前正在研究就Anthropic获取韩国图书一事采取法律措施。"
+        }
+      ]
+    },
+    "books/npr-pangram-false-flags": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+          "cap": "一些作家担心AI检测软件会误判他们的作品。karetoria/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "代笔作家Sally McGraw为一份图书提案提交了写作样稿，却被告知多款AI检测工具将其判定为机器生成。“我惊呆了，因为我并没有用AI生成文字，”她说。客户表示，检测结果并不是其改聘他人的决定性因素。"
+        },
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+          "cap": "代笔作家Sally McGraw说，她已改变了自己的写作风格。Sally McGraw"
+        },
+        {
+          "t": "p",
+          "x": "面对大量涌入的AI生成（AI-generated）内容，一些编辑转向检测工具，而这类工具已知会误判人类撰写的作品。Clarkesworld的Neil Clarke说，月投稿量从2021年的约1,100篇，到2023年2月已翻了一倍。在6月一项用四款检测器测试160篇论文的研究中，Pangram的准确度最为稳定；其CEO Max Spero表示，它可能出错，尤其是在文本很少时。"
+        },
+        {
+          "t": "p",
+          "x": "Penn的Chris Callison-Burch说，检测器会看用词、标点和句子结构——比如“delve”、频繁使用的破折号（em dash）、三项并列。Authors Guild表示，AI检测器营造出“一种令人联想到猎巫的环境”。“投稿应以退稿告终，而不是以指控告终，”Clarke说。McGraw如今会避开某些词：“我怀念我的em dash。”"
+        }
+      ]
+    },
+    "books/korea-cartoonists-unesco-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+          "cap": "Kwon Hyuk-joo（权赫柱）的网漫《Xinker》/ Naver Webtoon提供"
+        },
+        {
+          "t": "p",
+          "x": "韩国漫画创作者呼吁制定严格规则，要求在将作品用于训练人工智能（AI）模型之前必须征得创作者同意，并在巴黎UNESCO总部举行的一场国际会议上提出了这一诉求。协会会长、网漫作家兼国立公州大学教授Kwon Hyuk-joo（权赫柱）在题为“在数字环境中促进人类创造力与文化表现形式多样性”的会议上发言。"
+        },
+        {
+          "t": "p",
+          "x": "Kwon援引了一项针对164名创作者的调查：约90%表示不知道如何阻止自己的作品被用于AI训练，81.1%表示愿意参与选择加入（opt-in）机制。他表示，发布网漫、用其训练AI模型、将其角色用于聊天机器人等AI服务，是相互独立的权利；他还呼吁强制标注AI生成（AI-generated）内容，并提高训练数据的透明度。"
+        },
+        {
+          "t": "p",
+          "x": "UNESCO亲善大使Jean-Michel Jarre表示，决定创作目的和方向的必须始终是人类。UNESCO表示，相关讨论将纳入其在2005年《文化表现形式多样性公约》框架下的数字政策工作。"
+        }
+      ]
+    },
+    "books/andy-weir-human-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+        },
+        {
+          "t": "p",
+          "x": "《The Martian》和《Project Hail Mary》的作者Andy Weir在近期一次采访中，谈到了他对AI进展的看法、AI未来可能如何影响像他这样的职业，以及为什么它可以被比作一把杀人的锤子。"
+        },
+        {
+          "t": "p",
+          "x": "“我觉得这只是时间问题，”他对SlashFilm说，“说实话，我觉得自己很幸运，恰好在那个时候成为作家，因为我可能属于最后一代完全由人类创作的作家。”尽管如此，Weir总体上似乎对这项技术持积极态度，将其视为一种工具。他指出，其他技术进步早已超越人类能力，比如赛车之于速度、叉车之于力量，而AI的智能也属于类似范畴。"
+        },
+        {
+          "t": "p",
+          "x": "“它是一种我们可以使用、不想用时也可以拔掉插头的工具，”他补充道，“说到底，如果我给你一把锤子，你可以用它盖房子，也可以用它杀人。问题不在工具，而在使用者。”"
+        },
+        {
+          "t": "p",
+          "x": "不出所料，AI将是Weir下一部小说探讨的主题。在2024年接受The Bridge采访时，他曾预告这个项目：“我现在正在写下一本书。AI在其中扮演重要角色。但我是按自己的方式来写，不是写机器人坠入爱河之类的故事。”"
+        }
+      ]
+    },
+    "books/kindle-askthisbook-ereader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+          "cap": "Kindle电子阅读器"
+        },
+        {
+          "t": "p",
+          "x": "Amazon的Kindle软件更新5.20.2将AI-powered的“Ask This Book”功能直接带到了Kindle电子阅读器上。"
+        },
+        {
+          "t": "p",
+          "x": "该功能相当于一个内置的互动式阅读助手。用户可以检索文本、生成摘要，或就人物和情节提出具体问题，而不必担心外部剧透。"
+        },
+        {
+          "t": "p",
+          "x": "有用户指出，这是Amazon迄今发布的最大固件安装文件之一，大小约为643 MB。"
+        },
+        {
+          "t": "p",
+          "x": "打开书内菜单，或在文本中高亮某个段落或词语，即可使用该功能。它会给出一组推荐问题，用户也可以自行输入问题并继续追问。"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-cma-meta-probe",
+      "id": "brave-nyt-scraping-suit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UK 규제당국, Meta\nAI 콘텐츠 약관 조사",
-      "body": "CMA가 선택권 없이 매체 콘텐츠를 AI에 쓰는 Meta 약관이 불공정한지 본다.",
-      "mini_headline": "UK, Meta AI 약관 조사",
+      "headline": "New York Times\nBrave에 AI 소송",
+      "body": "New York Times 등이 AI 수집·페이월 우회로 Brave를 고소했다.",
+      "mini_headline": "NYT, Brave에 AI 소송",
       "tool": "Politics",
-      "source": "GOV.UK (Competition and Markets Authority)",
-      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,173 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+            "cap": "NurPhoto via Getty Images"
           },
           {
             "t": "p",
-            "x": "경쟁시장청(Competition and Markets Authority, CMA)이 Meta가 자사 플랫폼·서비스 이용 기업에 적용하는 상업 약관의 경쟁법 위반 여부를 조사하기 시작했다."
+            "x": "Reuters 보도에 따르면 The New York Times와 여러 언론사가 Brave 웹 브라우저 제작사를 고소했다. AI 학습용 콘텐츠를 불법으로 스크래핑하고 이용자의 페이월 우회를 도왔다는 혐의다."
           },
           {
             "t": "p",
-            "x": "Meta는 이 약관을 11월 20일 개정할 계획이었으나 지금은 보류했다. 약관이 시행되면 Meta는 자사 서비스를 쓰는 기업과 퍼블리셔의 웹사이트에서 콘텐츠를 수집해 AI 기능을 비롯한 자사 제품과 서비스를 개발·제공하는 데 쓸 수 있게 된다. 해당 기업들은 콘텐츠를 쓰게 할지, 어떻게 쓰게 할지 고를 수 없다."
+            "x": "New York Daily News, Chicago Tribune, Orlando Sentinel이 낸 소장에 따르면 Brave Software는 스크래핑한 웹사이트 인덱스로 돈을 벌었다. AI 기업에 “Brave Index의 실시간(real-time) 온라인 콘텐츠”를 유료로 열어준 것도 그 방법 가운데 하나다. Brave는 Anthropic, Perplexity, Mistral, xAI, Cohere 등 “많은” AI 기업에 “도용된 저작권 콘텐츠”를 넘긴 혐의도 받는다. Brave는 “Paywall blocker” 기능으로 “수백 곳의 주요 언론사”를 볼 수 있다고 홍보하기도 한다."
           },
           {
             "t": "p",
-            "x": "CMA는 이 약관이 수천 개 UK 기업에 불공정한 거래 조건을 불법으로 강요하는 결과가 될 수 있다고 우려한다. News Media Association과 Movement for an Open Web 등 이해관계자들이 문제를 제기하자 CMA는 경쟁법(Competition Act 1998)상 권한을 꺼내 들었다. Meta가 시장 지배적 지위에 있는지, 그렇다면 약관이 그 지위를 남용하는지 평가한다."
+            "x": "NYT 대변인 Graham James는 “Brave는 확립된 저작권법을 무시했고, 침해 행위를 멈추라는 The Times의 거듭된 요청도 외면했다”고 말했다. 나머지 언론사를 대리한 변호사 Steven Lieberman은 “Brave는 AI 업계를 위해 불법 복제한 기사를 세탁한 책임을 져야 한다”고 했다."
           },
           {
             "t": "p",
-            "x": "Meta는 이후 10월 28일 업계 단체와 협의를 마칠 때까지 상업 약관 시행을 멈추겠다고 발표했다. 조사는 아직 초기 단계라 Meta가 법을 어겼는지는 정해지지 않았다."
+            "x": "Brave, Anthropic, Mistral, SpaceXSI, Cohere는 논평 요청에 곧바로 답하지 않았다. Perplexity의 최고커뮤니케이션책임자 Jesse Dwyer는 “The New York Times는 변호사에게는 돈을 너무 많이, 기자에게는 너무 적게 주고 있다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK watchdog opens probe into\nMeta's AI content terms",
-          "body": "The CMA is examining whether Meta's terms, letting it use publishers' content for AI without a choice, are unfair.",
-          "mini_headline": "UK probes Meta's AI terms",
+          "headline": "New York Times sues Brave\nover AI scraping",
+          "body": "The New York Times and other publishers allege Brave scraped their content for AI and let users skip paywalls.",
+          "mini_headline": "NYT sues Brave over AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "The Competition and Markets Authority (CMA) has launched an investigation into whether Meta’s commercial terms for businesses using its platforms and services breach competition law."
+                "x": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters."
               },
               {
                 "t": "p",
-                "x": "The terms, which Meta planned to revise on 20 November but has since put on hold, could allow it to collect content from the websites of businesses and publishers that use its services and then use it to develop and provide its own products and services, including its AI features – without those businesses getting a choice on if or how their content is used."
+                "x": "According to a complaint filed by the New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to “real-time online content from the Brave Index.” Brave has allegedly provided “stolen copyrighted content” to “many” AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere. Brave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature."
               },
               {
                 "t": "p",
-                "x": "The CMA is concerned this could amount to an unlawful imposition of unfair trading conditions for thousands of UK businesses. It is using its Competition Act 1998 powers after concerns from stakeholders including the News Media Association and Movement for an Open Web, and will assess whether Meta holds a dominant position and, if so, whether its terms abuse it."
+                "x": "“Brave has flouted established copyright law and ignored repeated requests by The Times to stop its infringing conduct,” NYT spokesperson Graham James said. Attorney Steven Lieberman, who filed on behalf of the other publications, said: “Brave must be held responsible for laundering pirated reporting for the AI industry.”"
               },
               {
                 "t": "p",
-                "x": "Meta has since announced, on 28 October, a pause to the roll out of its commercial terms, pending a consultation with industry groups. As this is only the start of the investigation, no decision has yet been made on whether Meta has broken the law."
+                "x": "Brave, Anthropic, Mistral, SpaceXSI, and Cohere didn’t immediately reply to a request for comment. Perplexity’s chief communications officer Jesse Dwyer said: “The New York Times is overpaying its attorneys and underpaying its journalists.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "UK 규제당국, Meta\nAI 콘텐츠 약관 조사",
-          "body": "CMA가 선택권 없이 매체 콘텐츠를 AI에 쓰는 Meta 약관이 불공정한지 본다.",
-          "mini_headline": "UK, Meta AI 약관 조사",
+          "headline": "New York Times\nBrave에 AI 소송",
+          "body": "New York Times 등이 AI 수집·페이월 우회로 Brave를 고소했다.",
+          "mini_headline": "NYT, Brave에 AI 소송",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "경쟁시장청(Competition and Markets Authority, CMA)이 Meta가 자사 플랫폼·서비스 이용 기업에 적용하는 상업 약관의 경쟁법 위반 여부를 조사하기 시작했다."
+                "x": "Reuters 보도에 따르면 The New York Times와 여러 언론사가 Brave 웹 브라우저 제작사를 고소했다. AI 학습용 콘텐츠를 불법으로 스크래핑하고 이용자의 페이월 우회를 도왔다는 혐의다."
               },
               {
                 "t": "p",
-                "x": "Meta는 이 약관을 11월 20일 개정할 계획이었으나 지금은 보류했다. 약관이 시행되면 Meta는 자사 서비스를 쓰는 기업과 퍼블리셔의 웹사이트에서 콘텐츠를 수집해 AI 기능을 비롯한 자사 제품과 서비스를 개발·제공하는 데 쓸 수 있게 된다. 해당 기업들은 콘텐츠를 쓰게 할지, 어떻게 쓰게 할지 고를 수 없다."
+                "x": "New York Daily News, Chicago Tribune, Orlando Sentinel이 낸 소장에 따르면 Brave Software는 스크래핑한 웹사이트 인덱스로 돈을 벌었다. AI 기업에 “Brave Index의 실시간(real-time) 온라인 콘텐츠”를 유료로 열어준 것도 그 방법 가운데 하나다. Brave는 Anthropic, Perplexity, Mistral, xAI, Cohere 등 “많은” AI 기업에 “도용된 저작권 콘텐츠”를 넘긴 혐의도 받는다. Brave는 “Paywall blocker” 기능으로 “수백 곳의 주요 언론사”를 볼 수 있다고 홍보하기도 한다."
               },
               {
                 "t": "p",
-                "x": "CMA는 이 약관이 수천 개 UK 기업에 불공정한 거래 조건을 불법으로 강요하는 결과가 될 수 있다고 우려한다. News Media Association과 Movement for an Open Web 등 이해관계자들이 문제를 제기하자 CMA는 경쟁법(Competition Act 1998)상 권한을 꺼내 들었다. Meta가 시장 지배적 지위에 있는지, 그렇다면 약관이 그 지위를 남용하는지 평가한다."
+                "x": "NYT 대변인 Graham James는 “Brave는 확립된 저작권법을 무시했고, 침해 행위를 멈추라는 The Times의 거듭된 요청도 외면했다”고 말했다. 나머지 언론사를 대리한 변호사 Steven Lieberman은 “Brave는 AI 업계를 위해 불법 복제한 기사를 세탁한 책임을 져야 한다”고 했다."
               },
               {
                 "t": "p",
-                "x": "Meta는 이후 10월 28일 업계 단체와 협의를 마칠 때까지 상업 약관 시행을 멈추겠다고 발표했다. 조사는 아직 초기 단계라 Meta가 법을 어겼는지는 정해지지 않았다."
+                "x": "Brave, Anthropic, Mistral, SpaceXSI, Cohere는 논평 요청에 곧바로 답하지 않았다. Perplexity의 최고커뮤니케이션책임자 Jesse Dwyer는 “The New York Times는 변호사에게는 돈을 너무 많이, 기자에게는 너무 적게 주고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK当局、Metaの\nAIコンテンツ規約を調査",
-          "body": "CMAは出版社のコンテンツを選択肢なくAIに使えるMetaの規約が不公正か調べている。",
-          "mini_headline": "UK、MetaのAI規約を調査",
+          "headline": "New York Times\nAI収集でBraveを提訴",
+          "body": "New York TimesなどがAI収集とペイウォール回避でBraveを提訴した。",
+          "mini_headline": "NYTがBraveをAIで提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Metaのプラットフォームやサービスを利用する企業向けの商業規約が競争法に違反するかどうかについて調査を開始した。"
+                "x": "Reutersの報道によると、The New York Timesをはじめとする複数の報道機関が、Braveウェブブラウザーを開発する企業を提訴した。AIの学習を目的に違法なスクレイピングを行い、さらにユーザーにペイウォールの回避を許したとしている。"
               },
               {
                 "t": "p",
-                "x": "Metaは11月20日にこの規約を改定する予定だったが、現在は保留している。規約が適用されれば、Metaはサービスを利用する企業や出版社のウェブサイトからコンテンツを収集し、AI機能を含む自社の製品やサービスの開発・提供に使えるようになる可能性がある。その際、企業側にはコンテンツを使わせるかどうか、どう使わせるかを選ぶ余地がない。"
+                "x": "New York Daily News、Chicago Tribune、Orlando Sentinelが提出した訴状によると、Brave Softwareはスクレイピングしたウェブサイトのインデックスを収益化しており、その一環としてAI企業に「Brave Indexのリアルタイム(real-time)のオンラインコンテンツ」への有料アクセスを提供していた。BraveはAnthropic、Perplexity、Mistral、xAI、Cohereを含む「多くの」AI企業に「盗まれた著作権コンテンツ」を提供したとされる。Braveはまた、「Paywall blocker」機能で「数百の大手報道機関」にアクセスできると宣伝している。"
               },
               {
                 "t": "p",
-                "x": "CMAは、これが数千のUK企業に不公正な取引条件を違法に課すことになりかねないと懸念している。News Media AssociationやMovement for an Open Webなどの関係者から懸念が寄せられたことを受け、CMAは競争法(Competition Act 1998)に基づく権限を行使しており、Metaが支配的地位にあるか、ある場合はその規約が地位の濫用にあたるかを評価する。"
+                "x": "「Braveは確立された著作権法を軽んじ、侵害行為をやめるよう求めるThe Timesの度重なる要請を無視してきた」と、NYTの広報担当Graham Jamesは述べた。他の報道機関を代理して訴えを起こした弁護士のSteven Liebermanは「BraveはAI業界のために海賊版の報道をロンダリングした責任を問われなければならない」と語った。"
               },
               {
                 "t": "p",
-                "x": "その後Metaは10月28日、業界団体との協議を待つ間、商業規約の導入を一時停止すると発表した。調査は始まったばかりであり、Metaが法律に違反したかどうかはまだ判断されていない。"
+                "x": "Brave、Anthropic、Mistral、SpaceXSI、Cohereはコメント要請にすぐには応じなかった。Perplexityの最高コミュニケーション責任者Jesse Dwyerは「The New York Timesは弁護士に払いすぎ、記者には払わなさすぎている」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK监管机构立案调查\nMeta的AI内容条款",
-          "body": "CMA正调查Meta条款是否不公平,该条款让其可将出版商内容用于AI而不给选择。",
-          "mini_headline": "UK调查Meta的AI条款",
+          "headline": "New York Times\n就AI抓取起诉Brave",
+          "body": "New York Times等出版商称Brave为AI抓取其内容，并让用户绕过付费墙。",
+          "mini_headline": "NYT就AI起诉Brave",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "竞争与市场管理局(Competition and Markets Authority,CMA)已启动调查,审查Meta针对使用其平台和服务的企业所制定的商业条款是否违反竞争法。"
+                "x": "据Reuters报道，The New York Times和其他多家出版物已对Brave网络浏览器的开发公司提起诉讼，指控其为训练AI非法抓取内容，并让用户绕过付费墙。"
               },
               {
                 "t": "p",
-                "x": "Meta原计划于11月20日修订这些条款,但目前已暂缓。这些条款可能使Meta得以从使用其服务的企业和出版商的网站收集内容,并用于开发和提供包括AI功能在内的自家产品与服务,而这些企业无法选择其内容是否被使用、如何被使用。"
+                "x": "根据New York Daily News、Chicago Tribune和Orlando Sentinel提交的诉状，Brave Software将其抓取的网站索引变现，方式之一是向AI公司提供“Brave Index实时（real-time）在线内容”的付费访问。诉状称，Brave向包括Anthropic、Perplexity、Mistral、xAI和Cohere在内的“众多”AI公司提供了“窃取的受版权保护内容”。Brave还宣传可通过其“Paywall blocker”功能访问“数百家顶级出版商”。"
               },
               {
                 "t": "p",
-                "x": "CMA担心,这可能构成对数千家UK企业非法施加不公平交易条件。在News Media Association和Movement for an Open Web等利益相关方表达关切后,CMA正动用《竞争法》(Competition Act 1998)赋予的权力,并将评估Meta是否具有支配地位,以及若是,其条款是否构成滥用。"
+                "x": "NYT发言人Graham James表示：“Brave无视既有的版权法，并对The Times多次要求其停止侵权行为的请求置若罔闻。”代表其他出版物提起诉讼的律师Steven Lieberman说：“Brave必须为替AI行业清洗盗版报道承担责任。”"
               },
               {
                 "t": "p",
-                "x": "此后,Meta于10月28日宣布暂停推行其商业条款,等待与行业团体协商。由于调查才刚刚开始,目前尚未就Meta是否违法作出任何决定。"
+                "x": "Brave、Anthropic、Mistral、SpaceXSI和Cohere未立即回应置评请求。Perplexity首席传播官Jesse Dwyer表示：“The New York Times给律师付得太多，给记者付得太少。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El regulador de UK investiga\nlas condiciones de AI de Meta",
-          "body": "La CMA examina si son injustos los términos de Meta para usar contenido de editores en AI sin darles opción.",
-          "mini_headline": "UK investiga los términos de AI de Meta",
+          "headline": "The New York Times demanda\na Brave por scraping para AI",
+          "body": "The New York Times y otros editores acusan a Brave de extraer su contenido para AI y de permitir eludir muros de pago.",
+          "mini_headline": "NYT demanda a Brave por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Competition and Markets Authority (CMA) ha abierto una investigación para determinar si las condiciones comerciales de Meta para las empresas que usan sus plataformas y servicios infringen el derecho de la competencia."
+                "x": "The New York Times y un grupo de otras publicaciones han presentado demandas contra la empresa que desarrolla el navegador web Brave por un presunto scraping ilegal para entrenar AI y por permitir a los usuarios eludir sus muros de pago, según informó Reuters."
               },
               {
                 "t": "p",
-                "x": "Las condiciones, que Meta tenía previsto modificar el 20 de noviembre pero que ha dejado en suspenso, podrían permitirle recopilar contenido de los sitios web de las empresas y editores que usan sus servicios y emplearlo para desarrollar y ofrecer sus propios productos y servicios, incluidas sus funciones de AI, sin que esas empresas puedan elegir si se usa su contenido ni cómo."
+                "x": "Según una demanda presentada por el New York Daily News, el Chicago Tribune y el Orlando Sentinel, Brave Software ha monetizado su índice de sitios web extraídos, en parte, ofreciendo a empresas de AI acceso de pago a “contenido en línea en tiempo real (real-time) del Brave Index”. Brave habría proporcionado “contenido protegido por derechos de autor robado” a “muchas” empresas de AI, entre ellas Anthropic, Perplexity, Mistral, xAI y Cohere. Brave también promociona “cientos de editores destacados” como accesibles mediante su función “Paywall blocker”."
               },
               {
                 "t": "p",
-                "x": "A la CMA le preocupa que esto pueda suponer la imposición ilícita de condiciones comerciales injustas a miles de empresas de UK. Está ejerciendo sus facultades en virtud de la Competition Act 1998 tras las inquietudes planteadas por partes interesadas como la News Media Association y Movement for an Open Web, y evaluará si Meta ocupa una posición dominante y, en ese caso, si sus condiciones constituyen un abuso de ella."
+                "x": "“Brave ha desafiado la legislación establecida sobre derechos de autor y ha ignorado las reiteradas peticiones de The Times para que cese su conducta infractora”, dijo el portavoz del NYT Graham James. El abogado Steven Lieberman, que presentó la demanda en nombre de las otras publicaciones, afirmó: “Brave debe rendir cuentas por blanquear periodismo pirateado para la industria de la AI”."
               },
               {
                 "t": "p",
-                "x": "Desde entonces, Meta anunció el 28 de octubre una pausa en la implantación de sus condiciones comerciales, a la espera de una consulta con asociaciones del sector. Como la investigación apenas comienza, aún no se ha decidido si Meta ha infringido la ley."
+                "x": "Brave, Anthropic, Mistral, SpaceXSI y Cohere no respondieron de inmediato a una solicitud de comentarios. El director de comunicaciones de Perplexity, Jesse Dwyer, dijo: “The New York Times está pagando de más a sus abogados y de menos a sus periodistas”."
               }
             ]
           }
@@ -193,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UK 규제당국, Meta\nAI 콘텐츠 약관 조사",
-          "body": "CMA는 매체 콘텐츠를 선택권 없이 AI에 쓰는 Meta 약관이 불공정한지 본다.",
-          "mini_headline": "UK, Meta AI 약관 조사",
+          "headline": "New York Times\nBrave에 AI 소송",
+          "body": "New York Times 등이 Brave를 AI 수집·페이월 우회로 제소했다.",
+          "mini_headline": "NYT, Brave에 AI 소송",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "경쟁시장청(Competition and Markets Authority, CMA)이 자사 플랫폼과 서비스를 이용하는 기업에 적용하는 Meta의 상업 약관이 경쟁법을 위반하는지 조사에 착수했다."
+                "x": "Reuters 보도에 따르면 The New York Times와 다른 여러 언론사가 Brave 웹 브라우저 제작사를 상대로 소송을 제기했다. AI 학습을 위해 불법으로 콘텐츠를 스크래핑하고, 이용자가 페이월을 우회하도록 했다는 혐의다."
               },
               {
                 "t": "p",
-                "x": "Meta는 이 약관을 11월 20일 개정할 계획이었으나 지금은 보류한 상태다. 약관이 시행되면 Meta는 자사 서비스를 이용하는 기업과 퍼블리셔의 웹사이트에서 콘텐츠를 수집해 AI 기능을 포함한 자사 제품과 서비스를 개발하고 제공하는 데 쓸 수 있다. 이때 해당 기업들은 콘텐츠를 쓰게 할지, 어떻게 쓰게 할지 선택할 수 없다."
+                "x": "New York Daily News, Chicago Tribune, Orlando Sentinel이 제기한 소장에 따르면 Brave Software는 스크래핑한 웹사이트 인덱스로 수익을 올렸고, 그 방법 중 하나로 AI 기업에 “Brave Index의 실시간(real-time) 온라인 콘텐츠”에 대한 유료 접근권을 제공했다. Brave는 Anthropic, Perplexity, Mistral, xAI, Cohere 등 “많은” AI 기업에 “도용된 저작권 콘텐츠”를 제공한 혐의를 받는다. Brave는 또 “Paywall blocker” 기능으로 “수백 곳의 주요 언론사”에 접근할 수 있다고 홍보한다."
               },
               {
                 "t": "p",
-                "x": "CMA는 이것이 수천 개 UK 기업에 불공정한 거래 조건을 불법적으로 강요하는 일이 될 수 있다고 우려한다. CMA는 News Media Association과 Movement for an Open Web 등 이해관계자의 우려 제기에 따라 경쟁법(Competition Act 1998)상 권한을 행사하고 있으며, Meta가 시장 지배적 지위에 있는지, 그렇다면 약관이 그 지위를 남용하는지 평가할 예정이다."
+                "x": "NYT 대변인 Graham James는 “Brave는 확립된 저작권법을 무시했고, 침해 행위를 멈추라는 The Times의 거듭된 요청도 외면했다”고 말했다. 다른 언론사들을 대리해 소송을 낸 변호사 Steven Lieberman은 “Brave는 AI 업계를 위해 불법 복제한 기사를 세탁한 책임을 져야 한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "이후 Meta는 10월 28일 업계 단체와의 협의가 끝날 때까지 상업 약관 시행을 멈추겠다고 발표했다. 조사는 이제 시작 단계여서 Meta의 법 위반 여부는 아직 결정되지 않았다."
+                "x": "Brave, Anthropic, Mistral, SpaceXSI, Cohere는 논평 요청에 즉시 답하지 않았다. Perplexity의 최고커뮤니케이션책임자 Jesse Dwyer는 “The New York Times는 변호사에게는 돈을 너무 많이, 기자에게는 너무 적게 주고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK当局、Metaの\nAIコンテンツ規約を調査",
-          "body": "CMAは出版社のコンテンツを選択肢なくAIに使えるMetaの規約が不公正か調べている。",
-          "mini_headline": "UK、MetaのAI規約を調査",
+          "headline": "New York Times\nAI収集でBraveを提訴",
+          "body": "New York TimesなどがAI収集とペイウォール回避でBraveを提訴した。",
+          "mini_headline": "NYTがBraveをAIで提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Metaのプラットフォームやサービスを利用する企業向けの商業規約が競争法に違反するかどうかについて調査を開始した。"
+                "x": "Reutersの報道によると、The New York Timesをはじめとする複数の報道機関が、Braveウェブブラウザーを開発する企業を提訴した。AIの学習を目的に違法なスクレイピングを行い、さらにユーザーにペイウォールの回避を許したとしている。"
               },
               {
                 "t": "p",
-                "x": "Metaは11月20日にこの規約を改定する予定だったが、現在は保留している。規約が適用されれば、Metaはサービスを利用する企業や出版社のウェブサイトからコンテンツを収集し、AI機能を含む自社の製品やサービスの開発・提供に使えるようになる可能性がある。その際、企業側にはコンテンツを使わせるかどうか、どう使わせるかを選ぶ余地がない。"
+                "x": "New York Daily News、Chicago Tribune、Orlando Sentinelが提出した訴状によると、Brave Softwareはスクレイピングしたウェブサイトのインデックスを収益化しており、その一環としてAI企業に「Brave Indexのリアルタイム(real-time)のオンラインコンテンツ」への有料アクセスを提供していた。BraveはAnthropic、Perplexity、Mistral、xAI、Cohereを含む「多くの」AI企業に「盗まれた著作権コンテンツ」を提供したとされる。Braveはまた、「Paywall blocker」機能で「数百の大手報道機関」にアクセスできると宣伝している。"
               },
               {
                 "t": "p",
-                "x": "CMAは、これが数千のUK企業に不公正な取引条件を違法に課すことになりかねないと懸念している。News Media AssociationやMovement for an Open Webなどの関係者から懸念が寄せられたことを受け、CMAは競争法(Competition Act 1998)に基づく権限を行使しており、Metaが支配的地位にあるか、ある場合はその規約が地位の濫用にあたるかを評価する。"
+                "x": "「Braveは確立された著作権法を軽んじ、侵害行為をやめるよう求めるThe Timesの度重なる要請を無視してきた」と、NYTの広報担当Graham Jamesは述べた。他の報道機関を代理して訴えを起こした弁護士のSteven Liebermanは「BraveはAI業界のために海賊版の報道をロンダリングした責任を問われなければならない」と語った。"
               },
               {
                 "t": "p",
-                "x": "その後Metaは10月28日、業界団体との協議を待つ間、商業規約の導入を一時停止すると発表した。調査は始まったばかりであり、Metaが法律に違反したかどうかはまだ判断されていない。"
+                "x": "Brave、Anthropic、Mistral、SpaceXSI、Cohereはコメント要請にすぐには応じなかった。Perplexityの最高コミュニケーション責任者Jesse Dwyerは「The New York Timesは弁護士に払いすぎ、記者には払わなさすぎている」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK监管机构立案调查\nMeta的AI内容条款",
-          "body": "CMA正调查Meta条款是否不公平,该条款让其可将出版商内容用于AI而不给选择。",
-          "mini_headline": "UK调查Meta的AI条款",
+          "headline": "New York Times\n就AI抓取起诉Brave",
+          "body": "New York Times等出版商称Brave为AI抓取其内容，并让用户绕过付费墙。",
+          "mini_headline": "NYT就AI起诉Brave",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "竞争与市场管理局(Competition and Markets Authority,CMA)已启动调查,审查Meta针对使用其平台和服务的企业所制定的商业条款是否违反竞争法。"
+                "x": "据Reuters报道，The New York Times和其他多家出版物已对Brave网络浏览器的开发公司提起诉讼，指控其为训练AI非法抓取内容，并让用户绕过付费墙。"
               },
               {
                 "t": "p",
-                "x": "Meta原计划于11月20日修订这些条款,但目前已暂缓。这些条款可能使Meta得以从使用其服务的企业和出版商的网站收集内容,并用于开发和提供包括AI功能在内的自家产品与服务,而这些企业无法选择其内容是否被使用、如何被使用。"
+                "x": "根据New York Daily News、Chicago Tribune和Orlando Sentinel提交的诉状，Brave Software将其抓取的网站索引变现，方式之一是向AI公司提供“Brave Index实时（real-time）在线内容”的付费访问。诉状称，Brave向包括Anthropic、Perplexity、Mistral、xAI和Cohere在内的“众多”AI公司提供了“窃取的受版权保护内容”。Brave还宣传可通过其“Paywall blocker”功能访问“数百家顶级出版商”。"
               },
               {
                 "t": "p",
-                "x": "CMA担心,这可能构成对数千家UK企业非法施加不公平交易条件。在News Media Association和Movement for an Open Web等利益相关方表达关切后,CMA正动用《竞争法》(Competition Act 1998)赋予的权力,并将评估Meta是否具有支配地位,以及若是,其条款是否构成滥用。"
+                "x": "NYT发言人Graham James表示：“Brave无视既有的版权法，并对The Times多次要求其停止侵权行为的请求置若罔闻。”代表其他出版物提起诉讼的律师Steven Lieberman说：“Brave必须为替AI行业清洗盗版报道承担责任。”"
               },
               {
                 "t": "p",
-                "x": "此后,Meta于10月28日宣布暂停推行其商业条款,等待与行业团体协商。由于调查才刚刚开始,目前尚未就Meta是否违法作出任何决定。"
+                "x": "Brave、Anthropic、Mistral、SpaceXSI和Cohere未立即回应置评请求。Perplexity首席传播官Jesse Dwyer表示：“The New York Times给律师付得太多，给记者付得太少。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El regulador de UK investiga\nlas condiciones de AI de Meta",
-          "body": "La CMA examina si son injustos los términos de Meta para usar contenido de editores en AI sin darles opción.",
-          "mini_headline": "UK investiga los términos de AI de Meta",
+          "headline": "The New York Times demanda\na Brave por scraping para AI",
+          "body": "The New York Times y otros editores acusan a Brave de extraer su contenido para AI y de permitir eludir muros de pago.",
+          "mini_headline": "NYT demanda a Brave por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Competition and Markets Authority (CMA) ha abierto una investigación para determinar si las condiciones comerciales de Meta para las empresas que usan sus plataformas y servicios infringen el derecho de la competencia."
+                "x": "The New York Times y un grupo de otras publicaciones han presentado demandas contra la empresa que desarrolla el navegador web Brave por un presunto scraping ilegal para entrenar AI y por permitir a los usuarios eludir sus muros de pago, según informó Reuters."
               },
               {
                 "t": "p",
-                "x": "Las condiciones, que Meta tenía previsto modificar el 20 de noviembre pero que ha dejado en suspenso, podrían permitirle recopilar contenido de los sitios web de las empresas y editores que usan sus servicios y emplearlo para desarrollar y ofrecer sus propios productos y servicios, incluidas sus funciones de AI, sin que esas empresas puedan elegir si se usa su contenido ni cómo."
+                "x": "Según una demanda presentada por el New York Daily News, el Chicago Tribune y el Orlando Sentinel, Brave Software ha monetizado su índice de sitios web extraídos, en parte, ofreciendo a empresas de AI acceso de pago a “contenido en línea en tiempo real (real-time) del Brave Index”. Brave habría proporcionado “contenido protegido por derechos de autor robado” a “muchas” empresas de AI, entre ellas Anthropic, Perplexity, Mistral, xAI y Cohere. Brave también promociona “cientos de editores destacados” como accesibles mediante su función “Paywall blocker”."
               },
               {
                 "t": "p",
-                "x": "A la CMA le preocupa que esto pueda suponer la imposición ilícita de condiciones comerciales injustas a miles de empresas de UK. Está ejerciendo sus facultades en virtud de la Competition Act 1998 tras las inquietudes planteadas por partes interesadas como la News Media Association y Movement for an Open Web, y evaluará si Meta ocupa una posición dominante y, en ese caso, si sus condiciones constituyen un abuso de ella."
+                "x": "“Brave ha desafiado la legislación establecida sobre derechos de autor y ha ignorado las reiteradas peticiones de The Times para que cese su conducta infractora”, dijo el portavoz del NYT Graham James. El abogado Steven Lieberman, que presentó la demanda en nombre de las otras publicaciones, afirmó: “Brave debe rendir cuentas por blanquear periodismo pirateado para la industria de la AI”."
               },
               {
                 "t": "p",
-                "x": "Desde entonces, Meta anunció el 28 de octubre una pausa en la implantación de sus condiciones comerciales, a la espera de una consulta con asociaciones del sector. Como la investigación apenas comienza, aún no se ha decidido si Meta ha infringido la ley."
+                "x": "Brave, Anthropic, Mistral, SpaceXSI y Cohere no respondieron de inmediato a una solicitud de comentarios. El director de comunicaciones de Perplexity, Jesse Dwyer, dijo: “The New York Times está pagando de más a sus abogados y de menos a sus periodistas”."
               }
             ]
           }
@@ -315,189 +325,201 @@
       }
     },
     {
-      "id": "wikimedia-nyt-amicus",
+      "id": "bellingcat-ai-superpac-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NYT v. OpenAI에\nWikimedia 의견서",
-      "body": "Wikimedia Foundation은 AI 학습과 복제 출력을 나누라고 촉구했다.",
-      "mini_headline": "Wikimedia, NYT v. OpenAI에 의견",
+      "headline": "경쟁 AI 슈퍼 PACs\n양당 광고 모두 지원",
+      "body": "Bellingcat: 양당 광고비는 OpenAI·Anthropic AI PACs다.",
+      "mini_headline": "AI PACs, 양당 모두 지원",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source": "Bellingcat",
+      "url": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "유타주 민주당 하원의원 후보 Ben McAdams의 온라인 광고는 그가 “MAGA에 맞서 싸웠다”고 내세웠다. 텍사스의 또 다른 광고는 공화당 후보 Chris Gober를 “MAGA 전사”라고 불렀다. 두 광고의 돈줄은 모두 Leading the Future(LTF)였다. LTF는 AI 혁신을 “제약”하는 규제에 반대하는 Super PAC 네트워크다. FEC 신고 자료를 보면 LTF는 OpenAI 사장 Greg Brockman과 아내 Anna Brockman, Andreessen Horowitz(a16z)와 a16z 창업자들에게서 US$125 million 규모의 돈을 받았다."
+          },
+          {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+            "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+            "cap": "출처: Think Big / Google Ad Transparency Center"
           },
           {
             "t": "p",
-            "x": "Wikimedia Foundation이 굵직한 AI 저작권 소송들에서 중간 입장을 내놨다. 저작권 있는 저작물로 대규모 언어 모델(LLMs)을 학습시키는 일은 법으로 보호하되 챗봇이 그 저작물을 사용자에게 그대로 되풀이하는 일은 보호하지 말라고 법원에 촉구했다."
+            "x": "LTF와 정면으로 맞서는 곳은 Public First Action(PFA)이다. AI 안전 규제를 요구하는 PFA는 Anthropic에서 $40 million 규모의 자금을 받았다. PFA가 돈을 댄 Super PACs도 겨냥한 유권자에 따라 Trump를 지지하는 듯하거나 비판하는 듯한 광고를 내보냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+            "cap": "Leading the Future, Public First PAC, Public First Action의 지출 내역. 그래픽: Bellingcat"
           },
           {
             "t": "p",
-            "x": "Wikipedia를 운영하는 이 비영리 단체는 금요일 낸 법정 조언자 의견서(amicus brief)에서 The New York Times 등 언론사가 OpenAI와 Microsoft를 상대로 제기한 소송에 의견을 냈지만 어느 편도 들지 않았다. 의견서는 “Wikimedia는 이 사건 당사자들의 입장이 공정 이용 원칙을 지나치게 넓고 단순하게 적용하자는 쪽으로 흐르는 것을 우려한다”고 적었다."
-          },
-          {
-            "t": "p",
-            "x": "Times는 OpenAI가 학습 데이터셋을 만들려고 자사 웹사이트를 스크레이핑해 저작권을 침해했다고 주장한다. OpenAI와 Microsoft는 LLMs 활용이 공정 이용이라고 맞선다. OpenAI는 저작물을 그대로 되풀이하는 현상을 “드문 버그”라고 한 적이 있다."
-          },
-          {
-            "t": "p",
-            "x": "Wikimedia가 내놓은 절충안은 이렇다. 모델이 “원본과는 새롭고 다른 무언가”를 준다면 라이선스 없는 스크레이핑과 사전 학습은 공정 이용으로 봐야 한다. 반면 “원저작물에 대한 독자의 참여를 대체하면서” 사용자에게 자료의 복제본을 넘긴다면 라이선스가 필요하다."
+            "x": "Bellingcat은 Google Ad Transparency Center에 올라온 온라인 동영상 광고 캠페인 300건 이상을 분석했다. 후보 40명을 지지하거나 반대하는 광고였다. AI를 언급한 광고는 후보 두 명을 지지·반대하는 것뿐이었고, 데이터센터를 언급한 광고는 한 건도 없었다. PFA 측 관계자는 뜻을 같이하는 PACs가 “유권자에게 가장 시급한 사안에 관한” 광고를 낸다고 했다. LTF와 산하 PACs는 기사가 나갈 때까지 답하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Wikimedia seeks a say in\nNYT v. OpenAI copyright case",
-          "body": "The Wikimedia Foundation filed a brief urging the court to judge AI training apart from outputs that copy text.",
-          "mini_headline": "Wikimedia joins NYT v. OpenAI",
+          "headline": "Rival AI super PACs fund\nads for both parties",
+          "body": "Bellingcat traced midterm ads for both parties to rival AI super PACs backed by OpenAI's president and Anthropic.",
+          "mini_headline": "Rival AI PACs, both sides",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "An online ad for Ben McAdams, the Democratic candidate for Congress in Utah, said he “fought back against MAGA.” In Texas, another ad called Republican candidate Chris Gober a “MAGA warrior.” Both were ultimately paid for with money from Leading the Future (LTF), a Super PAC network which opposes regulations that “constrain” innovation in AI. FEC filings show it has received US$125 million from OpenAI president Greg Brockman, his wife Anna Brockman, Andreessen Horowitz (a16z) and a16z’s founders."
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "Source: Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work — but not chatbots regurgitating that work to users."
+                "x": "Directly opposing LTF is Public First Action (PFA), which calls for AI safety regulations and has received $40 million from Anthropic. Super PACs funded by PFA also ran ads that appeared supportive or critical of Trump depending on the voters they were targeting."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Disbursements from Leading the Future, Public First PAC and Public First Action. Graphic: Bellingcat"
               },
               {
                 "t": "p",
-                "x": "In an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. “Wikimedia is concerned that the parties’ positions in this case push for overbroad and simplified applications of the fair use doctrine,” the filing says."
-              },
-              {
-                "t": "p",
-                "x": "The Times alleges OpenAI infringed its copyright by scraping its website to build training datasets; OpenAI and Microsoft contend that using LLMs constitutes fair use, and OpenAI has said regurgitating work “is a rare bug.”"
-              },
-              {
-                "t": "p",
-                "x": "Wikimedia proposes a compromise: scraping and pre-training without a license should be fair use when models provide “something new and different from the original sources,” but delivering copies of material to users “while supplanting readers’ engagement with those original works” should require a license."
+                "x": "Bellingcat analysed more than 300 online video ad campaigns from Google’s Ad Transparency Center, supporting or opposing 40 candidates. Only ads supporting or opposing two candidates mentioned AI, and none mentioned data centres. A PFA representative said its aligned PACs run ads “on the issues that matter most immediately to voters.” LTF and its PACs did not respond as of publication."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NYT v. OpenAI에\nWikimedia 의견서",
-          "body": "Wikimedia Foundation은 AI 학습과 복제 출력을 나누라고 촉구했다.",
-          "mini_headline": "Wikimedia, NYT v. OpenAI에 의견",
+          "headline": "경쟁 AI 슈퍼 PACs\n양당 광고 모두 지원",
+          "body": "Bellingcat: 양당 광고비는 OpenAI·Anthropic AI PACs다.",
+          "mini_headline": "AI PACs, 양당 모두 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "유타주 민주당 하원의원 후보 Ben McAdams의 온라인 광고는 그가 “MAGA에 맞서 싸웠다”고 내세웠다. 텍사스의 또 다른 광고는 공화당 후보 Chris Gober를 “MAGA 전사”라고 불렀다. 두 광고의 돈줄은 모두 Leading the Future(LTF)였다. LTF는 AI 혁신을 “제약”하는 규제에 반대하는 Super PAC 네트워크다. FEC 신고 자료를 보면 LTF는 OpenAI 사장 Greg Brockman과 아내 Anna Brockman, Andreessen Horowitz(a16z)와 a16z 창업자들에게서 US$125 million 규모의 돈을 받았다."
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "출처: Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "Wikimedia Foundation이 굵직한 AI 저작권 소송들에서 중간 입장을 내놨다. 저작권 있는 저작물로 대규모 언어 모델(LLMs)을 학습시키는 일은 법으로 보호하되 챗봇이 그 저작물을 사용자에게 그대로 되풀이하는 일은 보호하지 말라고 법원에 촉구했다."
+                "x": "LTF와 정면으로 맞서는 곳은 Public First Action(PFA)이다. AI 안전 규제를 요구하는 PFA는 Anthropic에서 $40 million 규모의 자금을 받았다. PFA가 돈을 댄 Super PACs도 겨냥한 유권자에 따라 Trump를 지지하는 듯하거나 비판하는 듯한 광고를 내보냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Leading the Future, Public First PAC, Public First Action의 지출 내역. 그래픽: Bellingcat"
               },
               {
                 "t": "p",
-                "x": "Wikipedia를 운영하는 이 비영리 단체는 금요일 낸 법정 조언자 의견서(amicus brief)에서 The New York Times 등 언론사가 OpenAI와 Microsoft를 상대로 제기한 소송에 의견을 냈지만 어느 편도 들지 않았다. 의견서는 “Wikimedia는 이 사건 당사자들의 입장이 공정 이용 원칙을 지나치게 넓고 단순하게 적용하자는 쪽으로 흐르는 것을 우려한다”고 적었다."
-              },
-              {
-                "t": "p",
-                "x": "Times는 OpenAI가 학습 데이터셋을 만들려고 자사 웹사이트를 스크레이핑해 저작권을 침해했다고 주장한다. OpenAI와 Microsoft는 LLMs 활용이 공정 이용이라고 맞선다. OpenAI는 저작물을 그대로 되풀이하는 현상을 “드문 버그”라고 한 적이 있다."
-              },
-              {
-                "t": "p",
-                "x": "Wikimedia가 내놓은 절충안은 이렇다. 모델이 “원본과는 새롭고 다른 무언가”를 준다면 라이선스 없는 스크레이핑과 사전 학습은 공정 이용으로 봐야 한다. 반면 “원저작물에 대한 독자의 참여를 대체하면서” 사용자에게 자료의 복제본을 넘긴다면 라이선스가 필요하다."
+                "x": "Bellingcat은 Google Ad Transparency Center에 올라온 온라인 동영상 광고 캠페인 300건 이상을 분석했다. 후보 40명을 지지하거나 반대하는 광고였다. AI를 언급한 광고는 후보 두 명을 지지·반대하는 것뿐이었고, 데이터센터를 언급한 광고는 한 건도 없었다. PFA 측 관계자는 뜻을 같이하는 PACs가 “유권자에게 가장 시급한 사안에 관한” 광고를 낸다고 했다. LTF와 산하 PACs는 기사가 나갈 때까지 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NYT v. OpenAIに\nWikimediaが意見書",
-          "body": "Wikimedia Foundationは裁判所にAI学習と複製出力の区別を求めた。",
-          "mini_headline": "Wikimedia、NYT v. OpenAIに参加",
+          "headline": "対立するAI系PACs\n両党の広告に資金提供",
+          "body": "Bellingcatが両党広告をOpenAI・Anthropic系AI PACsに辿った。",
+          "mini_headline": "対立するAI PACs、両党に広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "ユタ州の民主党下院候補Ben McAdamsのオンライン広告は、彼が「MAGAに反撃した」とうたった。テキサス州では別の広告が共和党候補Chris Goberを「MAGAの戦士」と呼んだ。どちらも最終的には、AIのイノベーションを「制約する」規制に反対するSuper PACネットワーク、Leading the Future(LTF)の資金で賄われていた。FECへの届け出によると、LTFはOpenAI社長のGreg Brockman、妻のAnna Brockman、Andreessen Horowitz(a16z)とa16zの創業者たちからUS$125 million を受け取っている。"
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "出典：Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "Wikimedia Foundationは、画期的なAI著作権訴訟群で中間的な立場を打ち出した。著作物を使った大規模言語モデル(LLMs)の学習は法的に保護する一方、チャットボットがその著作物をユーザーにそのまま吐き出すことは保護しないよう、裁判所に求めている。"
+                "x": "LTFと真っ向から対立するのがPublic First Action(PFA)で、AI安全規制を求め、Anthropicから$40 million を受け取っている。PFAが資金を出したSuper PACsも、狙う有権者に応じてTrumpを支持または批判するように見える広告を流した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Leading the Future、Public First PAC、Public First Actionの支出。グラフィック：Bellingcat"
               },
               {
                 "t": "p",
-                "x": "Wikipediaを運営するこの非営利団体は金曜日に提出したアミカスブリーフ(amicus brief)で、The New York Timesなどの出版社がOpenAIとMicrosoftを訴えた訴訟について意見を述べたが、どちらの側にもつかなかった。意見書は「Wikimediaは、本件当事者の主張がフェアユースの法理を過度に広く、単純に適用する方向に向かっていることを懸念している」と述べている。"
-              },
-              {
-                "t": "p",
-                "x": "Timesは、OpenAIが学習用データセットを作るためにウェブサイトをスクレイピングし、著作権を侵害したと主張している。OpenAIとMicrosoftはLLMsの利用はフェアユースにあたると反論しており、OpenAIは著作物をそのまま再出力するのは「まれなバグ」だと述べている。"
-              },
-              {
-                "t": "p",
-                "x": "Wikimediaは妥協案を示す。モデルが「元の情報源とは異なる新しい何か」を提供するなら、ライセンスなしのスクレイピングと事前学習はフェアユースとすべきだが、「元の作品への読者の関与に取って代わる形で」資料の複製をユーザーに届ける場合はライセンスを必要とすべきだという。"
+                "x": "BellingcatはGoogle Ad Transparency Centerにある300件超のオンライン動画広告キャンペーンを分析した。対象は40人の候補者を支持または批判するものだ。AIに触れていたのは二人の候補者を支持・批判する広告だけで、データセンターに言及したものは一つもなかった。PFAの担当者は、連携するPACsが「有権者にとって最も差し迫った問題について」広告を出していると述べた。LTFとその傘下のPACsは掲載時点で回答していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NYT v. OpenAI案\nWikimedia提交意见",
-          "body": "Wikimedia Foundation敦促法院将AI训练与复制文本的输出分开判断。",
-          "mini_headline": "Wikimedia参与NYT v. OpenAI案",
+          "headline": "对立的AI PACs\n同时资助两党广告",
+          "body": "Bellingcat将两党广告追溯至OpenAI总裁与Anthropic系AI PACs。",
+          "mini_headline": "对立AI PACs资助两党",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "犹他州民主党国会候选人Ben McAdams的一则网络广告称他“反击了MAGA”。在得克萨斯州，另一则广告称共和党候选人Chris Gober为“MAGA战士”。这两则广告最终都由Leading the Future（LTF）出资，这是一个反对“束缚”AI创新之监管的Super PAC网络。FEC文件显示，它已从OpenAI总裁Greg Brockman及其妻子Anna Brockman、Andreessen Horowitz（a16z）以及a16z创始人处获得US$125 million 资金。"
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "来源：Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "Wikimedia Foundation在一系列具有里程碑意义的AI版权案中采取了中间立场:敦促法院在法律上保护用受版权保护作品训练大语言模型(LLMs)的行为,但不保护聊天机器人向用户照搬这些作品。"
+                "x": "与LTF直接对立的是Public First Action（PFA），它呼吁实施AI安全监管，并已从Anthropic获得$40 million 资金。由PFA资助的Super PACs也投放了广告，这些广告根据目标选民的不同，看起来或支持或批评Trump。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Leading the Future、Public First PAC和Public First Action的支出。图表：Bellingcat"
               },
               {
                 "t": "p",
-                "x": "这家运营Wikipedia的非营利组织在周五提交的法庭之友意见书(amicus brief)中,就The New York Times等出版商起诉OpenAI和Microsoft的案件发表意见,但未站在任何一方。文件写道:“Wikimedia担心,本案各方的立场是在推动对合理使用原则作过于宽泛和简单化的适用。”"
-              },
-              {
-                "t": "p",
-                "x": "Times指控OpenAI为构建训练数据集抓取其网站内容,侵犯了其版权;OpenAI和Microsoft则主张使用LLMs属于合理使用,OpenAI还表示,照搬作品“是一个罕见的漏洞”。"
-              },
-              {
-                "t": "p",
-                "x": "Wikimedia提出了一个折中方案:当模型提供“与原始来源不同的新东西”时,未经许可的抓取和预训练应属于合理使用;但若在“取代读者对原作品的参与”的同时向用户提供材料副本,则应取得许可。"
+                "x": "Bellingcat分析了Google Ad Transparency Center中300多个网络视频广告活动，涉及支持或反对40名候选人。只有支持或反对两名候选人的广告提到了AI，没有任何广告提到数据中心。一位PFA代表表示，与其立场一致的PACs投放的广告关注“对选民而言最紧迫的议题”。截至发稿，LTF及其旗下PACs未作回应。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wikimedia pide voz en el caso\nde copyright NYT v. OpenAI",
-          "body": "La Wikimedia Foundation pidió al tribunal juzgar el entrenamiento de AI aparte de las salidas que copian texto.",
-          "mini_headline": "Wikimedia se suma a NYT v. OpenAI",
+          "headline": "Los super PACs rivales de AI\npagan anuncios de ambos partidos",
+          "body": "Bellingcat vinculó anuncios de ambos partidos a super PACs rivales de AI ligados al presidente de OpenAI y a Anthropic.",
+          "mini_headline": "PACs rivales de AI, en ambos bandos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Un anuncio en línea de Ben McAdams, candidato demócrata al Congreso por Utah, decía que él “se enfrentó al MAGA”. En Texas, otro anuncio llamaba al candidato republicano Chris Gober un “guerrero MAGA”. Ambos se pagaron, en última instancia, con dinero de Leading the Future (LTF), una red de Super PAC que se opone a las regulaciones que “limiten” la innovación en AI. Los registros de la FEC muestran que ha recibido US$125 millones de Greg Brockman, presidente de OpenAI, de su esposa Anna Brockman, de Andreessen Horowitz (a16z) y de los fundadores de a16z."
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "Fuente: Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "La Wikimedia Foundation adopta una posición intermedia en un grupo de casos emblemáticos de derechos de autor sobre AI: pide a los tribunales que protejan legalmente el entrenamiento de grandes modelos de lenguaje (LLMs) con obras protegidas, pero no que los chatbots reproduzcan esas obras a los usuarios."
+                "x": "En oposición directa a LTF está Public First Action (PFA), que pide regulaciones de seguridad de la AI y ha recibido $40 millones de Anthropic. Los Super PACs financiados por PFA también emitieron anuncios que parecían apoyar o criticar a Trump según los votantes a los que se dirigían."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Desembolsos de Leading the Future, Public First PAC y Public First Action. Gráfico: Bellingcat"
               },
               {
                 "t": "p",
-                "x": "En un escrito amicus (amicus brief) presentado el viernes, la organización sin ánimo de lucro detrás de Wikipedia se pronunció sobre las demandas de editores como The New York Times contra OpenAI y Microsoft, sin tomar partido. “A Wikimedia le preocupa que las posiciones de las partes en este caso impulsen aplicaciones excesivamente amplias y simplificadas de la doctrina del uso legítimo”, dice el escrito."
-              },
-              {
-                "t": "p",
-                "x": "The Times alega que OpenAI infringió sus derechos de autor al extraer contenido de su sitio web para crear conjuntos de datos de entrenamiento; OpenAI y Microsoft sostienen que usar LLMs constituye un uso legítimo, y OpenAI ha dicho que la reproducción literal de obras “es un error poco frecuente”."
-              },
-              {
-                "t": "p",
-                "x": "Wikimedia propone un término medio: la extracción y el preentrenamiento sin licencia deberían considerarse uso legítimo cuando los modelos aportan “algo nuevo y diferente de las fuentes originales”, pero entregar copias del material a los usuarios “mientras se sustituye la interacción de los lectores con esas obras originales” debería requerir una licencia."
+                "x": "Bellingcat analizó más de 300 campañas de anuncios en video en línea del Ad Transparency Center de Google, que apoyaban o se oponían a 40 candidatos. Solo los anuncios a favor o en contra de dos candidatos mencionaban la AI, y ninguno mencionaba centros de datos. Un representante de PFA dijo que sus PACs afines emiten anuncios “sobre los temas que más importan de inmediato a los votantes”. LTF y sus PACs no habían respondido al cierre de esta edición."
               }
             ]
           }
@@ -505,121 +527,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NYT v. OpenAI에\nWikimedia 의견서",
-          "body": "Wikimedia Foundation은 AI 학습과 복제 출력의 구분을 촉구했다.",
-          "mini_headline": "Wikimedia, NYT v. OpenAI에 의견",
+          "headline": "경쟁 AI 슈퍼 PACs\n양당 광고 모두 지원",
+          "body": "Bellingcat: 양당 광고비는 OpenAI·Anthropic AI PACs다.",
+          "mini_headline": "AI PACs, 양당 모두 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "유타주 민주당 하원의원 후보 Ben McAdams의 온라인 광고는 그가 “MAGA에 맞서 싸웠다”고 했다. 텍사스에서는 또 다른 광고가 공화당 후보 Chris Gober를 “MAGA 전사”라고 불렀다. 두 광고 모두 결국 Leading the Future(LTF)의 돈으로 집행됐다. LTF는 AI 혁신을 “제약”하는 규제에 반대하는 Super PAC 네트워크다. FEC 신고 자료에 따르면 LTF는 OpenAI 사장 Greg Brockman과 그의 아내 Anna Brockman, Andreessen Horowitz(a16z)와 a16z 창업자들로부터 US$125 million 규모의 자금을 받았다."
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "출처: Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "Wikimedia Foundation이 일련의 획기적인 AI 저작권 소송에서 중간 입장을 내놓았다. 저작권이 있는 저작물로 대규모 언어 모델(LLMs)을 학습시키는 일은 법적으로 보호하되, 챗봇이 그 저작물을 사용자에게 그대로 되풀이하는 일은 보호하지 말라고 법원에 촉구했다."
+                "x": "LTF에 정면으로 맞서는 쪽은 Public First Action(PFA)이다. PFA는 AI 안전 규제를 요구하며 Anthropic으로부터 $40 million 규모의 자금을 받았다. PFA가 자금을 댄 Super PACs 역시 겨냥한 유권자에 따라 Trump를 지지하거나 비판하는 것처럼 보이는 광고를 내보냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Leading the Future, Public First PAC, Public First Action의 지출 내역. 그래픽: Bellingcat"
               },
               {
                 "t": "p",
-                "x": "Wikipedia를 운영하는 이 비영리 단체는 금요일 제출한 법정 조언자 의견서(amicus brief)에서 The New York Times 등 언론사가 OpenAI와 Microsoft를 상대로 낸 소송에 의견을 밝혔지만 어느 쪽 편도 들지 않았다. 의견서는 “Wikimedia는 이 사건 당사자들의 입장이 공정 이용 원칙을 지나치게 넓고 단순하게 적용하자는 쪽으로 흐르는 것을 우려한다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Times는 OpenAI가 학습 데이터셋을 만들려고 자사 웹사이트를 스크레이핑해 저작권을 침해했다고 주장한다. OpenAI와 Microsoft는 LLMs 활용이 공정 이용에 해당한다고 맞서며, OpenAI는 저작물을 그대로 되풀이하는 현상이 “드문 버그”라고 말한 바 있다."
-              },
-              {
-                "t": "p",
-                "x": "Wikimedia는 절충안을 제시한다. 모델이 “원본과는 새롭고 다른 무언가”를 제공한다면 라이선스 없는 스크레이핑과 사전 학습은 공정 이용으로 보아야 하지만, “원저작물에 대한 독자의 참여를 대체하면서” 사용자에게 자료의 복제본을 전달하는 경우에는 라이선스가 필요하다는 것이다."
+                "x": "Bellingcat은 Google Ad Transparency Center에 있는 온라인 동영상 광고 캠페인 300건 이상을 분석했다. 후보 40명을 지지하거나 반대하는 광고였다. AI를 언급한 것은 후보 두 명을 지지하거나 반대하는 광고뿐이었고, 데이터센터를 언급한 광고는 하나도 없었다. PFA 측 관계자는 뜻을 같이하는 PACs가 “유권자에게 가장 시급한 사안에 관한” 광고를 낸다고 밝혔다. LTF와 산하 PACs는 기사 게재 시점까지 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NYT v. OpenAIに\nWikimediaが意見書",
-          "body": "Wikimedia Foundationは裁判所にAI学習と複製出力の区別を求めた。",
-          "mini_headline": "Wikimedia、NYT v. OpenAIに参加",
+          "headline": "対立するAI系PACs\n両党の広告に資金提供",
+          "body": "Bellingcatが両党広告をOpenAI・Anthropic系AI PACsに辿った。",
+          "mini_headline": "対立するAI PACs、両党に広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "ユタ州の民主党下院候補Ben McAdamsのオンライン広告は、彼が「MAGAに反撃した」とうたった。テキサス州では別の広告が共和党候補Chris Goberを「MAGAの戦士」と呼んだ。どちらも最終的には、AIのイノベーションを「制約する」規制に反対するSuper PACネットワーク、Leading the Future(LTF)の資金で賄われていた。FECへの届け出によると、LTFはOpenAI社長のGreg Brockman、妻のAnna Brockman、Andreessen Horowitz(a16z)とa16zの創業者たちからUS$125 million を受け取っている。"
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "出典：Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "Wikimedia Foundationは、画期的なAI著作権訴訟群で中間的な立場を打ち出した。著作物を使った大規模言語モデル(LLMs)の学習は法的に保護する一方、チャットボットがその著作物をユーザーにそのまま吐き出すことは保護しないよう、裁判所に求めている。"
+                "x": "LTFと真っ向から対立するのがPublic First Action(PFA)で、AI安全規制を求め、Anthropicから$40 million を受け取っている。PFAが資金を出したSuper PACsも、狙う有権者に応じてTrumpを支持または批判するように見える広告を流した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Leading the Future、Public First PAC、Public First Actionの支出。グラフィック：Bellingcat"
               },
               {
                 "t": "p",
-                "x": "Wikipediaを運営するこの非営利団体は金曜日に提出したアミカスブリーフ(amicus brief)で、The New York Timesなどの出版社がOpenAIとMicrosoftを訴えた訴訟について意見を述べたが、どちらの側にもつかなかった。意見書は「Wikimediaは、本件当事者の主張がフェアユースの法理を過度に広く、単純に適用する方向に向かっていることを懸念している」と述べている。"
-              },
-              {
-                "t": "p",
-                "x": "Timesは、OpenAIが学習用データセットを作るためにウェブサイトをスクレイピングし、著作権を侵害したと主張している。OpenAIとMicrosoftはLLMsの利用はフェアユースにあたると反論しており、OpenAIは著作物をそのまま再出力するのは「まれなバグ」だと述べている。"
-              },
-              {
-                "t": "p",
-                "x": "Wikimediaは妥協案を示す。モデルが「元の情報源とは異なる新しい何か」を提供するなら、ライセンスなしのスクレイピングと事前学習はフェアユースとすべきだが、「元の作品への読者の関与に取って代わる形で」資料の複製をユーザーに届ける場合はライセンスを必要とすべきだという。"
+                "x": "BellingcatはGoogle Ad Transparency Centerにある300件超のオンライン動画広告キャンペーンを分析した。対象は40人の候補者を支持または批判するものだ。AIに触れていたのは二人の候補者を支持・批判する広告だけで、データセンターに言及したものは一つもなかった。PFAの担当者は、連携するPACsが「有権者にとって最も差し迫った問題について」広告を出していると述べた。LTFとその傘下のPACsは掲載時点で回答していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NYT v. OpenAI案\nWikimedia提交意见",
-          "body": "Wikimedia Foundation敦促法院将AI训练与复制文本的输出分开判断。",
-          "mini_headline": "Wikimedia参与NYT v. OpenAI案",
+          "headline": "对立的AI PACs\n同时资助两党广告",
+          "body": "Bellingcat将两党广告追溯至OpenAI总裁与Anthropic系AI PACs。",
+          "mini_headline": "对立AI PACs资助两党",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "犹他州民主党国会候选人Ben McAdams的一则网络广告称他“反击了MAGA”。在得克萨斯州，另一则广告称共和党候选人Chris Gober为“MAGA战士”。这两则广告最终都由Leading the Future（LTF）出资，这是一个反对“束缚”AI创新之监管的Super PAC网络。FEC文件显示，它已从OpenAI总裁Greg Brockman及其妻子Anna Brockman、Andreessen Horowitz（a16z）以及a16z创始人处获得US$125 million 资金。"
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "来源：Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "Wikimedia Foundation在一系列具有里程碑意义的AI版权案中采取了中间立场:敦促法院在法律上保护用受版权保护作品训练大语言模型(LLMs)的行为,但不保护聊天机器人向用户照搬这些作品。"
+                "x": "与LTF直接对立的是Public First Action（PFA），它呼吁实施AI安全监管，并已从Anthropic获得$40 million 资金。由PFA资助的Super PACs也投放了广告，这些广告根据目标选民的不同，看起来或支持或批评Trump。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Leading the Future、Public First PAC和Public First Action的支出。图表：Bellingcat"
               },
               {
                 "t": "p",
-                "x": "这家运营Wikipedia的非营利组织在周五提交的法庭之友意见书(amicus brief)中,就The New York Times等出版商起诉OpenAI和Microsoft的案件发表意见,但未站在任何一方。文件写道:“Wikimedia担心,本案各方的立场是在推动对合理使用原则作过于宽泛和简单化的适用。”"
-              },
-              {
-                "t": "p",
-                "x": "Times指控OpenAI为构建训练数据集抓取其网站内容,侵犯了其版权;OpenAI和Microsoft则主张使用LLMs属于合理使用,OpenAI还表示,照搬作品“是一个罕见的漏洞”。"
-              },
-              {
-                "t": "p",
-                "x": "Wikimedia提出了一个折中方案:当模型提供“与原始来源不同的新东西”时,未经许可的抓取和预训练应属于合理使用;但若在“取代读者对原作品的参与”的同时向用户提供材料副本,则应取得许可。"
+                "x": "Bellingcat分析了Google Ad Transparency Center中300多个网络视频广告活动，涉及支持或反对40名候选人。只有支持或反对两名候选人的广告提到了AI，没有任何广告提到数据中心。一位PFA代表表示，与其立场一致的PACs投放的广告关注“对选民而言最紧迫的议题”。截至发稿，LTF及其旗下PACs未作回应。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wikimedia pide voz en el caso\nde copyright NYT v. OpenAI",
-          "body": "La Wikimedia Foundation pidió al tribunal juzgar el entrenamiento de AI aparte de las salidas que copian texto.",
-          "mini_headline": "Wikimedia se suma a NYT v. OpenAI",
+          "headline": "Los super PACs rivales de AI\npagan anuncios de ambos partidos",
+          "body": "Bellingcat vinculó anuncios de ambos partidos a super PACs rivales de AI ligados al presidente de OpenAI y a Anthropic.",
+          "mini_headline": "PACs rivales de AI, en ambos bandos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Un anuncio en línea de Ben McAdams, candidato demócrata al Congreso por Utah, decía que él “se enfrentó al MAGA”. En Texas, otro anuncio llamaba al candidato republicano Chris Gober un “guerrero MAGA”. Ambos se pagaron, en última instancia, con dinero de Leading the Future (LTF), una red de Super PAC que se opone a las regulaciones que “limiten” la innovación en AI. Los registros de la FEC muestran que ha recibido US$125 millones de Greg Brockman, presidente de OpenAI, de su esposa Anna Brockman, de Andreessen Horowitz (a16z) y de los fundadores de a16z."
+              },
+              {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+                "cap": "Fuente: Think Big / Google Ad Transparency Center"
               },
               {
                 "t": "p",
-                "x": "La Wikimedia Foundation adopta una posición intermedia en un grupo de casos emblemáticos de derechos de autor sobre AI: pide a los tribunales que protejan legalmente el entrenamiento de grandes modelos de lenguaje (LLMs) con obras protegidas, pero no que los chatbots reproduzcan esas obras a los usuarios."
+                "x": "En oposición directa a LTF está Public First Action (PFA), que pide regulaciones de seguridad de la AI y ha recibido $40 millones de Anthropic. Los Super PACs financiados por PFA también emitieron anuncios que parecían apoyar o criticar a Trump según los votantes a los que se dirigían."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+                "cap": "Desembolsos de Leading the Future, Public First PAC y Public First Action. Gráfico: Bellingcat"
               },
               {
                 "t": "p",
-                "x": "En un escrito amicus (amicus brief) presentado el viernes, la organización sin ánimo de lucro detrás de Wikipedia se pronunció sobre las demandas de editores como The New York Times contra OpenAI y Microsoft, sin tomar partido. “A Wikimedia le preocupa que las posiciones de las partes en este caso impulsen aplicaciones excesivamente amplias y simplificadas de la doctrina del uso legítimo”, dice el escrito."
-              },
-              {
-                "t": "p",
-                "x": "The Times alega que OpenAI infringió sus derechos de autor al extraer contenido de su sitio web para crear conjuntos de datos de entrenamiento; OpenAI y Microsoft sostienen que usar LLMs constituye un uso legítimo, y OpenAI ha dicho que la reproducción literal de obras “es un error poco frecuente”."
-              },
-              {
-                "t": "p",
-                "x": "Wikimedia propone un término medio: la extracción y el preentrenamiento sin licencia deberían considerarse uso legítimo cuando los modelos aportan “algo nuevo y diferente de las fuentes originales”, pero entregar copias del material a los usuarios “mientras se sustituye la interacción de los lectores con esas obras originales” debería requerir una licencia."
+                "x": "Bellingcat analizó más de 300 campañas de anuncios en video en línea del Ad Transparency Center de Google, que apoyaban o se oponían a 40 candidatos. Solo los anuncios a favor o en contra de dos candidatos mencionaban la AI, y ninguno mencionaba centros de datos. Un representante de PFA dijo que sus PACs afines emiten anuncios “sobre los temas que más importan de inmediato a los votantes”. LTF y sus PACs no habían respondido al cierre de esta edición."
               }
             ]
           }
@@ -627,441 +657,171 @@
       }
     },
     {
-      "id": "epic-fcc-robocall-tcpa",
+      "id": "germany-sovereign-ai-taskforce",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-voiced 로보콜\nEPIC, 면제 반대",
-      "body": "EPIC이 FCC에 Club for Growth의 TCPA 면제안 기각을 요청했다.",
-      "mini_headline": "EPIC, AI 로보콜 면제 반대",
+      "headline": "Berlin 태스크포스\n2030 주권 AI 로드맵",
+      "body": "독일 태스크포스가 2030년까지 주권 AI와 프랑스·캐나다 협력 대안을 주문했다.",
+      "mini_headline": "독일의 2030 AI 청사진",
       "tool": "Politics",
-      "source": "EPIC",
-      "url": "https://epic.org/epic-urges-fcc-to-protect-consumers-from-unwanted-political-robocalls/",
+      "source": "POLITICO Europe",
+      "url": "https://www.politico.eu/article/berlin-unveil-blueprint-catch-up-ai-artificial-intelligence/",
       "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-          },
-          {
-            "t": "p",
-            "x": "EPIC은 지난주 연방통신위원회(Federal Communications Commission, FCC)에 답변 의견서를 내고 전화소비자보호법(Telephone Consumer Protection Act, TCPA)의 로보콜 규정에서 빼 달라는 Club for Growth의 청원에 반대했다. 청원은 발신자가 사전에 명시적 동의를 받지 않고도 AI 생성(AI-generated) 음성을 비롯한 인공 음성이나 녹음 음성으로 휴대전화 번호에 “정치 전화”를 걸 수 있게 해 달라는 내용이다. FCC 소비자·정부업무국(Consumer and Governmental Affairs Bureau)은 2026년 9월 4일 이 청원에 의견을 구했다."
-          },
-          {
-            "t": "p",
-            "x": "EPIC은 청원을 전면 기각하라고 FCC에 촉구했다. 미국인들이 이미 사기 전화와 온갖 자동 전화에 시달리는데 요청이 받아들여지면 원치 않는 괴롭힘성 정치 로보콜이 전례 없이 쏟아진다는 이유다. 의회는 사생활을 지키려고 TCPA의 동의 요건을 만들었다. 원치 않는 전화가 휴대전화로 걸려와 일상을 끊고 흐트러뜨리는 피해는 정치 전화라고 다르지 않고, 오히려 더 클 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "EPIC은 TCPA에서 “정치 전화”를 면제하면 공익에 어긋나며 AI 생성(AI-generated) 정치 커뮤니케이션이 급증해 허위정보가 커지고 민주적 절차가 훼손될 것이라고 지적했다. “정치 전화”를 실효성 있게 정의한 규정도 없어 이 요청은 받아들일 수 없다고 강조했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "EPIC opposes robocall exemption\nfor AI-voiced political calls",
-          "body": "EPIC urged the FCC to reject Club for Growth's bid to exempt artificial-voice political calls from TCPA consent rules.",
-          "mini_headline": "EPIC fights AI robocall exemption",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Last week, EPIC filed reply comments with the Federal Communications Commission (FCC) opposing a petition from the Club for Growth that requested an exemption from the Telephone Consumer Protection Act’s (TCPA) robocall rules. The petition asks the FCC to allow callers to make “political calls” to wireless numbers using an artificial or prerecorded voice, including an AI-generated voice, without obtaining prior express consent. The FCC’s Consumer and Governmental Affairs Bureau sought comment on the petition on September 4, 2026."
-              },
-              {
-                "t": "p",
-                "x": "EPIC urged the FCC to deny the petition in its entirety, explaining that the request would subject Americans to an unprecedented wave of unwanted and harassing political robocalls at a time when they are already inundated with scam and other automated calls. Congress enacted the TCPA’s consent requirements to protect privacy, and the interruption and disruption caused by an unwanted call to a cellphone is just as harmful, if not more, when the call is political."
-              },
-              {
-                "t": "p",
-                "x": "EPIC explained that exempting “political calls” from the TCPA will not serve the public interest and a surge in AI-generated political communications will amplify disinformation and undermine democratic processes. EPIC highlighted that there is no workable definition of a “political call” that exists, making the request untenable."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-voiced 로보콜\nEPIC, 면제 반대",
-          "body": "EPIC이 FCC에 Club for Growth의 TCPA 면제안 기각을 요청했다.",
-          "mini_headline": "EPIC, AI 로보콜 면제 반대",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "EPIC은 지난주 연방통신위원회(Federal Communications Commission, FCC)에 답변 의견서를 내고 전화소비자보호법(Telephone Consumer Protection Act, TCPA)의 로보콜 규정에서 빼 달라는 Club for Growth의 청원에 반대했다. 청원은 발신자가 사전에 명시적 동의를 받지 않고도 AI 생성(AI-generated) 음성을 비롯한 인공 음성이나 녹음 음성으로 휴대전화 번호에 “정치 전화”를 걸 수 있게 해 달라는 내용이다. FCC 소비자·정부업무국(Consumer and Governmental Affairs Bureau)은 2026년 9월 4일 이 청원에 의견을 구했다."
-              },
-              {
-                "t": "p",
-                "x": "EPIC은 청원을 전면 기각하라고 FCC에 촉구했다. 미국인들이 이미 사기 전화와 온갖 자동 전화에 시달리는데 요청이 받아들여지면 원치 않는 괴롭힘성 정치 로보콜이 전례 없이 쏟아진다는 이유다. 의회는 사생활을 지키려고 TCPA의 동의 요건을 만들었다. 원치 않는 전화가 휴대전화로 걸려와 일상을 끊고 흐트러뜨리는 피해는 정치 전화라고 다르지 않고, 오히려 더 클 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "EPIC은 TCPA에서 “정치 전화”를 면제하면 공익에 어긋나며 AI 생성(AI-generated) 정치 커뮤니케이션이 급증해 허위정보가 커지고 민주적 절차가 훼손될 것이라고 지적했다. “정치 전화”를 실효성 있게 정의한 규정도 없어 이 요청은 받아들일 수 없다고 강조했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-voiced政治電話\nEPICが免除に反対",
-          "body": "EPICはFCCに、Club for GrowthのTCPA免除申請の却下を求めた。",
-          "mini_headline": "EPIC、AIロボコール免除に反対",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "EPICは先週、連邦通信委員会(Federal Communications Commission、FCC)に返答コメントを提出し、電話消費者保護法(Telephone Consumer Protection Act、TCPA)のロボコール規則の適用除外を求めるClub for Growthの請願に反対した。請願は、AI生成(AI-generated)音声を含む人工音声または録音音声を使い、事前の明示的な同意を得ずに携帯電話番号へ「政治電話」をかけることを認めるようFCCに求めている。FCCの消費者・政府業務局(Consumer and Governmental Affairs Bureau)は2026年9月4日、この請願への意見を募集した。"
-              },
-              {
-                "t": "p",
-                "x": "EPICはFCCに請願を全面的に却下するよう求めた。米国民がすでに詐欺電話などの自動電話にさらされているなか、この要求が通れば、望まない迷惑な政治ロボコールがかつてない規模で押し寄せることになると説明している。議会はプライバシー保護のためにTCPAの同意要件を定めたのであり、望まない電話が携帯電話にかかってくることによる中断や混乱の害は、政治電話であっても同じか、それ以上に大きい。"
-              },
-              {
-                "t": "p",
-                "x": "EPICは、「政治電話」をTCPAの適用除外とすることは公益にかなわず、AI生成(AI-generated)の政治的コミュニケーションが急増すれば偽情報が増幅され、民主的なプロセスが損なわれると説明した。さらに、「政治電話」には実用的な定義が存在しないため、この要求は成り立たないと強調した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "EPIC反对豁免\nAI-voiced政治电话",
-          "body": "EPIC敦促FCC驳回Club for Growth为政治电话申请TCPA豁免的请求。",
-          "mini_headline": "EPIC反对AI自动电话豁免",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "上周,EPIC向联邦通信委员会(Federal Communications Commission,FCC)提交回复意见,反对Club for Growth要求豁免《电话消费者保护法》(Telephone Consumer Protection Act,TCPA)自动语音电话规则的请愿。该请愿要求FCC允许呼叫者在未获得事先明确同意的情况下,使用人工或预录语音(包括AI生成(AI-generated)语音)向手机号码拨打“政治电话”。FCC消费者与政府事务局(Consumer and Governmental Affairs Bureau)已于2026年9月4日就该请愿征求意见。"
-              },
-              {
-                "t": "p",
-                "x": "EPIC敦促FCC全盘驳回该请愿,并解释称,在美国人已饱受诈骗电话及其他自动电话困扰之际,这一请求将使他们遭受前所未有的、不受欢迎且带有骚扰性质的政治自动语音电话潮。国会制定TCPA的同意要求是为了保护隐私,而当来电属于政治电话时,一通不受欢迎的手机来电所造成的打扰和干扰同样有害,甚至更甚。"
-              },
-              {
-                "t": "p",
-                "x": "EPIC指出,将“政治电话”排除在TCPA之外不符合公共利益,而AI生成(AI-generated)政治传播的激增将放大虚假信息、破坏民主进程。EPIC强调,目前并不存在可行的“政治电话”定义,因此该请求站不住脚。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "EPIC se opone a eximir llamadas\npolíticas AI-voiced",
-          "body": "EPIC pidió a la FCC rechazar que Club for Growth exima de la TCPA las llamadas políticas con voz artificial.",
-          "mini_headline": "EPIC se opone a eximir robollamadas de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada, EPIC presentó comentarios de réplica ante la Federal Communications Commission (FCC) en contra de una petición de Club for Growth que solicitaba una exención de las normas sobre llamadas automatizadas de la Telephone Consumer Protection Act (TCPA). La petición pide a la FCC que permita realizar “llamadas políticas” a números móviles con una voz artificial o pregrabada, incluida una voz AI-generated (generada por AI), sin obtener el consentimiento previo y expreso. La Consumer and Governmental Affairs Bureau de la FCC solicitó comentarios sobre la petición el 4 de septiembre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "EPIC instó a la FCC a rechazar la petición en su totalidad y explicó que la solicitud expondría a los estadounidenses a una ola sin precedentes de llamadas automatizadas políticas no deseadas y acosadoras, en un momento en que ya están saturados de llamadas fraudulentas y otras llamadas automáticas. El Congreso estableció los requisitos de consentimiento de la TCPA para proteger la privacidad, y la interrupción y la molestia que causa una llamada no deseada a un teléfono móvil son igual de dañinas, o incluso más, cuando la llamada es política."
-              },
-              {
-                "t": "p",
-                "x": "EPIC explicó que eximir las “llamadas políticas” de la TCPA no serviría al interés público y que un aumento de las comunicaciones políticas AI-generated (generadas por AI) amplificará la desinformación y socavará los procesos democráticos. EPIC subrayó que no existe una definición viable de “llamada política”, lo que hace insostenible la solicitud."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-voiced 로보콜\nEPIC, 면제 반대",
-          "body": "EPIC은 FCC에 Club for Growth의 TCPA 면제안 기각을 청했다.",
-          "mini_headline": "EPIC, AI 로보콜 면제 반대",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "지난주 EPIC은 연방통신위원회(Federal Communications Commission, FCC)에 답변 의견서를 제출해, 전화소비자보호법(Telephone Consumer Protection Act, TCPA)의 로보콜 규정에서 면제해 달라는 Club for Growth의 청원에 반대했다. 청원은 발신자가 사전의 명시적 동의 없이 AI 생성(AI-generated) 음성을 포함한 인공 음성이나 녹음 음성으로 휴대전화 번호에 “정치 전화”를 걸 수 있도록 허용해 달라고 FCC에 요청한다. FCC 소비자·정부업무국(Consumer and Governmental Affairs Bureau)은 2026년 9월 4일 이 청원에 대한 의견을 구했다."
-              },
-              {
-                "t": "p",
-                "x": "EPIC은 FCC에 청원을 전면 기각하라고 촉구했다. 미국인들이 이미 사기 전화와 각종 자동 전화에 시달리는 상황에서, 이 요청이 받아들여지면 원치 않는 괴롭힘성 정치 로보콜이 전례 없이 쏟아질 것이라는 설명이다. 의회는 사생활 보호를 위해 TCPA의 동의 요건을 만들었으며, 원치 않는 전화가 휴대전화로 걸려와 일상을 끊고 흐트러뜨리는 피해는 정치 전화일 때도 똑같이, 어쩌면 더 크게 해롭다."
-              },
-              {
-                "t": "p",
-                "x": "EPIC은 TCPA에서 “정치 전화”를 면제하는 것은 공익에 부합하지 않으며, AI 생성(AI-generated) 정치 커뮤니케이션이 급증하면 허위정보가 증폭되고 민주적 절차가 훼손될 것이라고 설명했다. 또 “정치 전화”에 대해 실효성 있는 정의가 존재하지 않아 이 요청은 받아들일 수 없다고 강조했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-voiced政治電話\nEPICが免除に反対",
-          "body": "EPICはFCCに、Club for GrowthのTCPA免除申請の却下を求めた。",
-          "mini_headline": "EPIC、AIロボコール免除に反対",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "EPICは先週、連邦通信委員会(Federal Communications Commission、FCC)に返答コメントを提出し、電話消費者保護法(Telephone Consumer Protection Act、TCPA)のロボコール規則の適用除外を求めるClub for Growthの請願に反対した。請願は、AI生成(AI-generated)音声を含む人工音声または録音音声を使い、事前の明示的な同意を得ずに携帯電話番号へ「政治電話」をかけることを認めるようFCCに求めている。FCCの消費者・政府業務局(Consumer and Governmental Affairs Bureau)は2026年9月4日、この請願への意見を募集した。"
-              },
-              {
-                "t": "p",
-                "x": "EPICはFCCに請願を全面的に却下するよう求めた。米国民がすでに詐欺電話などの自動電話にさらされているなか、この要求が通れば、望まない迷惑な政治ロボコールがかつてない規模で押し寄せることになると説明している。議会はプライバシー保護のためにTCPAの同意要件を定めたのであり、望まない電話が携帯電話にかかってくることによる中断や混乱の害は、政治電話であっても同じか、それ以上に大きい。"
-              },
-              {
-                "t": "p",
-                "x": "EPICは、「政治電話」をTCPAの適用除外とすることは公益にかなわず、AI生成(AI-generated)の政治的コミュニケーションが急増すれば偽情報が増幅され、民主的なプロセスが損なわれると説明した。さらに、「政治電話」には実用的な定義が存在しないため、この要求は成り立たないと強調した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "EPIC反对豁免\nAI-voiced政治电话",
-          "body": "EPIC敦促FCC驳回Club for Growth为政治电话申请TCPA豁免的请求。",
-          "mini_headline": "EPIC反对AI自动电话豁免",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "上周,EPIC向联邦通信委员会(Federal Communications Commission,FCC)提交回复意见,反对Club for Growth要求豁免《电话消费者保护法》(Telephone Consumer Protection Act,TCPA)自动语音电话规则的请愿。该请愿要求FCC允许呼叫者在未获得事先明确同意的情况下,使用人工或预录语音(包括AI生成(AI-generated)语音)向手机号码拨打“政治电话”。FCC消费者与政府事务局(Consumer and Governmental Affairs Bureau)已于2026年9月4日就该请愿征求意见。"
-              },
-              {
-                "t": "p",
-                "x": "EPIC敦促FCC全盘驳回该请愿,并解释称,在美国人已饱受诈骗电话及其他自动电话困扰之际,这一请求将使他们遭受前所未有的、不受欢迎且带有骚扰性质的政治自动语音电话潮。国会制定TCPA的同意要求是为了保护隐私,而当来电属于政治电话时,一通不受欢迎的手机来电所造成的打扰和干扰同样有害,甚至更甚。"
-              },
-              {
-                "t": "p",
-                "x": "EPIC指出,将“政治电话”排除在TCPA之外不符合公共利益,而AI生成(AI-generated)政治传播的激增将放大虚假信息、破坏民主进程。EPIC强调,目前并不存在可行的“政治电话”定义,因此该请求站不住脚。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "EPIC se opone a eximir llamadas\npolíticas AI-voiced",
-          "body": "EPIC pidió a la FCC rechazar que Club for Growth exima de la TCPA las llamadas políticas con voz artificial.",
-          "mini_headline": "EPIC se opone a eximir robollamadas de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://epic.org/wp-content/uploads/bis-images/48011/jay-openiano-_Ud30e6Z2SI-unsplash-scaled-640x360-f50_50.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada, EPIC presentó comentarios de réplica ante la Federal Communications Commission (FCC) en contra de una petición de Club for Growth que solicitaba una exención de las normas sobre llamadas automatizadas de la Telephone Consumer Protection Act (TCPA). La petición pide a la FCC que permita realizar “llamadas políticas” a números móviles con una voz artificial o pregrabada, incluida una voz AI-generated (generada por AI), sin obtener el consentimiento previo y expreso. La Consumer and Governmental Affairs Bureau de la FCC solicitó comentarios sobre la petición el 4 de septiembre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "EPIC instó a la FCC a rechazar la petición en su totalidad y explicó que la solicitud expondría a los estadounidenses a una ola sin precedentes de llamadas automatizadas políticas no deseadas y acosadoras, en un momento en que ya están saturados de llamadas fraudulentas y otras llamadas automáticas. El Congreso estableció los requisitos de consentimiento de la TCPA para proteger la privacidad, y la interrupción y la molestia que causa una llamada no deseada a un teléfono móvil son igual de dañinas, o incluso más, cuando la llamada es política."
-              },
-              {
-                "t": "p",
-                "x": "EPIC explicó que eximir las “llamadas políticas” de la TCPA no serviría al interés público y que un aumento de las comunicaciones políticas AI-generated (generadas por AI) amplificará la desinformación y socavará los procesos democráticos. EPIC subrayó que no existe una definición viable de “llamada política”, lo que hace insostenible la solicitud."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "kazakhstan-nvidia-firebird",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "카자흐스탄, Nvidia로\n데이터센터 밸리 구상",
-      "body": "Firebird가 카자흐에 US 허가 Nvidia GPUs 45,000개를 들인다.",
-      "mini_headline": "Nvidia GPUs, 카자흐스탄행",
-      "tool": "Politics",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/10/the-promise-and-pitfalls-of-nvidias-venture-in-kazakhstan/",
-      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Nvidia CEO 젠슨 황(Jensen Huang)은 10월 23일 아스타나에서 카자흐스탄이 “이 에너지를 지능으로 바꾸고 지능을 수출할 수 있다”며 이곳을 미래의 “유럽 전체를 위한 AI 팩토리 허브”라고 불렀다."
-          },
-          {
             "t": "img",
-            "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-            "cap": "카자흐스탄의 새 “인공지능 센터” alem.ai에 몰린 인파 사이의 자슬란 마디예프(Zhaslan Madiyev) 부총리와 Nvidia CEO 젠슨 황(Jensen Huang). 사진: Oliver Fisk."
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+            "cap": "독일 정부는 자국 AI 개발에 속도를 내려고 “전략적 앵커 고객” 역할을 맡을 계획이다. | Tobias Schwarz/AFP via Getty Images"
           },
           {
             "t": "p",
-            "x": "구상의 중심은 Ekibastuz의 데이터센터 밸리(Data Center Valley)다. 석탄화력 발전소 Ekibastuz GRES-1 바로 옆에 들어선다. U.S. 클라우드 사업자 Firebird가 맺은 투자 협약에 따라 이곳에 Nvidia Grace Blackwell GPUs 45,000개가 설치되며, 이 GPUs의 U.S. 수출 허가는 지난주 나왔다. Firebird GPU 용량의 10퍼센트는 카자흐스탄 기업과 정부 기관 몫이다."
+            "x": "정부 AI 태스크포스가 작성해 국가안전보장회의에 낼 보고서는 독일이 2030년까지 “주권 AI 국가”가 되어 U.S.(미국)와 중국의 선도 AI 거점을 따라잡아야 한다고 본다. 보고서는 “따라서 앞으로 12~18개월이 방향을 정하는 데 결정적일 것”이라고 적었다."
           },
           {
             "t": "p",
-            "x": "전문가들이 짚는 문제는 전력과 고객 두 가지다. 카자흐스탄은 2023년 이후 해마다 생산량보다 많은 전력을 썼고, 에너지 자급 목표 시점도 2028년 초로 밀렸다. 공개적으로 확인된 해외 고객은 없다. 국외로 나가는 인터넷 트래픽의 약 95퍼센트는 러시아를 거친다."
+            "x": "독일은 세계 최고 수준 모델에 접근할 길을 확보하면서, 특히 프랑스·캐나다와 협력을 넓혀 유럽의 대안을 키우려 한다. “AI made in Germany”는 “고도로 특화된 모델”을 앞세운 산업용 AI로 두각을 나타내야 한다. 정부는 “전략적 앵커 고객”이 되어 공공 계약과 시범 사업으로 유럽 AI 기업의 시장 진입을 도울 계획이다."
           },
           {
-            "t": "img",
-            "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-            "cap": "Nvidia CEO 젠슨 황(Jensen Huang)이 즉석 셀카를 찍으려 하자 들뜬 참석자들이 무대로 몰려들었다. 사진: Oliver Fisk."
+            "t": "p",
+            "x": "청사진에는 18개 조치가 담겼지만 재원 조달 등 핵심 세부 사항은 빠졌다. 정부 목표는 2030년까지 대기업의 80% 이상과 SMEs의 55%가 AI를 쓰고, 연방 기관의 90%가 실제 운영하는 AI 애플리케이션을 하나 이상 갖추며, AI 데이터센터 용량을 2025년 대비 300% 늘리는 것이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kazakhstan bets on Nvidia\nfor a data center valley",
-          "body": "Kazakhstan signed with Firebird for a data center running 45,000 Nvidia GPUs under new US export licenses.",
-          "mini_headline": "Nvidia GPUs head to Kazakhstan",
+          "headline": "Berlin task force maps\na sovereign AI path to 2030",
+          "body": "A German government task force urges sovereign AI by 2030, with alternatives built alongside France and Canada.",
+          "mini_headline": "Germany's 2030 AI blueprint",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "On October 23 in Astana, Nvidia CEO Jensen Huang told an audience that Kazakhstan could “transform this energy into intelligence and export intelligence,” calling it a future “AI factory hub for all of Europe.”"
-              },
-              {
                 "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-                "cap": "Deputy Prime Minister Zhaslan Madiyev and Nvidia CEO Jensen Huang at a crowded alem.ai, Kazakhstan’s new “artificial intelligence center.” Photo by Oliver Fisk."
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "To help speed up the development of AI in Germany, the government plans to act as a “strategic anchor customer.” | Tobias Schwarz/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "The centerpiece is the planned Data Center Valley in Ekibastuz, beside the coal-fired Ekibastuz GRES-1 plant. Firebird, a U.S. cloud operator, signed an investment agreement under which the site will be powered by 45,000 Nvidia Grace Blackwell GPUs, for which U.S. export licenses were announced last week, with 10 percent of Firebird’s GPU capacity allocated to Kazakhstani companies and government agencies."
+                "x": "Germany should become a “sovereign AI nation” by 2030 and narrow the gap with leading AI hubs in the U.S. and China, according to a report drafted by the government’s AI task force, due to be presented to the National Security Council. “The next 12 to 18 months will therefore be decisive in setting the course,” it read."
               },
               {
                 "t": "p",
-                "x": "Experts raise two issues: power and customers. Since 2023, Kazakhstan has consumed more electricity than it generated each year, and the energy self-sufficiency target was pushed back to early 2028. No international customers have been publicly identified, and roughly 95 percent of outbound internet traffic runs through Russia."
+                "x": "Germany wants to secure access to the world’s leading models while strengthening European alternatives, particularly through expanded cooperation with France and Canada. “AI made in Germany” should stand out through its focus on industrial AI with “highly specialized models.” The government plans to act as a “strategic anchor customer,” using public contracts and pilot projects to help European AI providers enter the market."
               },
               {
-                "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-                "cap": "An attempt by Nvidia CEO Jensen Huang to take an impromptu selfie led to event attendees rushing the stage in an excited frenzy. Photo by Oliver Fisk."
+                "t": "p",
+                "x": "The blueprint proposes 18 measures but lacks key details, including on financing. By 2030, the government wants at least 80% of large companies and 55% of SMEs to use AI, 90% of federal agencies to have at least one AI application in production, and AI data center capacity up 300% compared with 2025."
               }
             ]
           }
         },
         "ko": {
-          "headline": "카자흐스탄, Nvidia로\n데이터센터 밸리 구상",
-          "body": "Firebird가 카자흐에 US 허가 Nvidia GPUs 45,000개를 들인다.",
-          "mini_headline": "Nvidia GPUs, 카자흐스탄행",
+          "headline": "Berlin 태스크포스\n2030 주권 AI 로드맵",
+          "body": "독일 태스크포스가 2030년까지 주권 AI와 프랑스·캐나다 협력 대안을 주문했다.",
+          "mini_headline": "독일의 2030 AI 청사진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Nvidia CEO 젠슨 황(Jensen Huang)은 10월 23일 아스타나에서 카자흐스탄이 “이 에너지를 지능으로 바꾸고 지능을 수출할 수 있다”며 이곳을 미래의 “유럽 전체를 위한 AI 팩토리 허브”라고 불렀다."
-              },
-              {
                 "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-                "cap": "카자흐스탄의 새 “인공지능 센터” alem.ai에 몰린 인파 사이의 자슬란 마디예프(Zhaslan Madiyev) 부총리와 Nvidia CEO 젠슨 황(Jensen Huang). 사진: Oliver Fisk."
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "독일 정부는 자국 AI 개발에 속도를 내려고 “전략적 앵커 고객” 역할을 맡을 계획이다. | Tobias Schwarz/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "구상의 중심은 Ekibastuz의 데이터센터 밸리(Data Center Valley)다. 석탄화력 발전소 Ekibastuz GRES-1 바로 옆에 들어선다. U.S. 클라우드 사업자 Firebird가 맺은 투자 협약에 따라 이곳에 Nvidia Grace Blackwell GPUs 45,000개가 설치되며, 이 GPUs의 U.S. 수출 허가는 지난주 나왔다. Firebird GPU 용량의 10퍼센트는 카자흐스탄 기업과 정부 기관 몫이다."
+                "x": "정부 AI 태스크포스가 작성해 국가안전보장회의에 낼 보고서는 독일이 2030년까지 “주권 AI 국가”가 되어 U.S.(미국)와 중국의 선도 AI 거점을 따라잡아야 한다고 본다. 보고서는 “따라서 앞으로 12~18개월이 방향을 정하는 데 결정적일 것”이라고 적었다."
               },
               {
                 "t": "p",
-                "x": "전문가들이 짚는 문제는 전력과 고객 두 가지다. 카자흐스탄은 2023년 이후 해마다 생산량보다 많은 전력을 썼고, 에너지 자급 목표 시점도 2028년 초로 밀렸다. 공개적으로 확인된 해외 고객은 없다. 국외로 나가는 인터넷 트래픽의 약 95퍼센트는 러시아를 거친다."
+                "x": "독일은 세계 최고 수준 모델에 접근할 길을 확보하면서, 특히 프랑스·캐나다와 협력을 넓혀 유럽의 대안을 키우려 한다. “AI made in Germany”는 “고도로 특화된 모델”을 앞세운 산업용 AI로 두각을 나타내야 한다. 정부는 “전략적 앵커 고객”이 되어 공공 계약과 시범 사업으로 유럽 AI 기업의 시장 진입을 도울 계획이다."
               },
               {
-                "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-                "cap": "Nvidia CEO 젠슨 황(Jensen Huang)이 즉석 셀카를 찍으려 하자 들뜬 참석자들이 무대로 몰려들었다. 사진: Oliver Fisk."
+                "t": "p",
+                "x": "청사진에는 18개 조치가 담겼지만 재원 조달 등 핵심 세부 사항은 빠졌다. 정부 목표는 2030년까지 대기업의 80% 이상과 SMEs의 55%가 AI를 쓰고, 연방 기관의 90%가 실제 운영하는 AI 애플리케이션을 하나 이상 갖추며, AI 데이터센터 용량을 2025년 대비 300% 늘리는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カザフスタン、Nvidiaで\nデータセンター・バレー構想",
-          "body": "Firebirdがカザフに、US許可のNvidia GPUs 45,000基を置く。",
-          "mini_headline": "Nvidia GPUs、カザフスタンへ",
+          "headline": "Berlinの作業部会\n2030年への主権AI構想",
+          "body": "ドイツ政府の作業部会は2030年までの主権AIを掲げ、フランス・カナダとの代替策を求めた。",
+          "mini_headline": "ドイツの2030年AI青写真",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "10月23日、アスタナでNvidiaのCEOジェンスン・フアン(Jensen Huang)は聴衆に向け、カザフスタンは「このエネルギーを知能に変え、知能を輸出する」ことができると語り、同国を将来の「ヨーロッパ全体のためのAIファクトリーハブ」と呼んだ。"
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "ドイツでのAI開発を加速させるため、政府は「戦略的アンカー顧客」の役割を担う計画だ。 | Tobias Schwarz/AFP via Getty Images"
               },
+              {
+                "t": "p",
+                "x": "政府のAI作業部会がまとめ、国家安全保障会議に提出される予定の報告書によると、ドイツは2030年までに「主権AI国家」となり、U.S.（米国）と中国の主要なAI拠点との差を縮めるべきだという。報告書は「したがって、今後12〜18カ月が針路を定めるうえで決定的になる」と記している。"
+              },
+              {
+                "t": "p",
+                "x": "ドイツは世界トップクラスのモデルへのアクセスを確保しつつ、とりわけフランスやカナダとの協力拡大を通じて欧州の代替手段を強化したい考えだ。「AI made in Germany」は「高度に特化したモデル」を用いた産業向けAIに注力することで際立つべきだとしている。政府は「戦略的アンカー顧客」として、公共調達やパイロット事業を活用し、欧州のAI事業者の市場参入を後押しする計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "この青写真は18の施策を提案しているが、資金調達を含む重要な詳細が欠けている。政府は2030年までに、大企業の少なくとも80%とSMEsの55%がAIを利用し、連邦機関の90%が少なくとも一つのAIアプリケーションを本番運用し、AIデータセンターの容量を2025年比で300%増やすことを目指す。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Berlin工作组\n规划2030年主权AI路径",
+          "body": "德国政府工作组呼吁到2030年实现主权AI，并与法国和加拿大共建替代方案。",
+          "mini_headline": "德国2030年AI蓝图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-                "cap": "混雑するカザフスタンの新たな「人工知能センター」alem.aiで、ジャスラン・マディエフ(Zhaslan Madiyev)副首相とNvidiaのCEOジェンスン・フアン(Jensen Huang)。写真:Oliver Fisk。"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "为加快德国AI发展，政府计划扮演“战略性锚定客户”的角色。 | Tobias Schwarz/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "目玉は、石炭火力発電所Ekibastuz GRES-1に隣接するEkibastuzで計画されているデータセンター・バレー(Data Center Valley)だ。U.S.のクラウド事業者Firebirdが結んだ投資契約により、同地にはNvidia Grace Blackwell GPUs 45,000基が配備される。これらのGPUsのU.S.輸出許可は先週発表された。FirebirdのGPU容量の10パーセントはカザフスタンの企業と政府機関に割り当てられる。"
+                "x": "根据德国政府AI工作组起草、将提交国家安全委员会的一份报告，德国应在2030年前成为“主权AI国家”，并缩小与U.S.（美国）和中国领先AI中心的差距。报告写道：“因此，未来12至18个月对确定方向至关重要。”"
               },
               {
                 "t": "p",
-                "x": "専門家は電力と顧客という二つの課題を挙げる。カザフスタンは2023年以降、毎年発電量を上回る電力を消費しており、エネルギー自給の目標は2028年初めに先送りされた。国外の顧客は公に明らかになっておらず、国外向けインターネット通信の約95パーセントはロシアを経由している。"
+                "x": "德国希望在确保获得全球领先模型的同时，加强欧洲的替代方案，尤其是通过扩大与法国和加拿大的合作。“AI made in Germany”应凭借专注于采用“高度专业化模型”的工业AI而脱颖而出。政府计划充当“战略性锚定客户”，借助公共合同和试点项目帮助欧洲AI供应商进入市场。"
               },
               {
-                "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-                "cap": "NvidiaのCEOジェンスン・フアン(Jensen Huang)が即興で自撮りしようとすると、興奮した参加者が舞台に殺到した。写真:Oliver Fisk。"
+                "t": "p",
+                "x": "这份蓝图提出了18项措施，但缺乏包括融资在内的关键细节。政府希望到2030年，至少80%的大企业和55%的SMEs使用AI，90%的联邦机构至少有一个AI应用投入生产，AI数据中心容量较2025年增长300%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Valle de centros de datos:\nKazajistán apuesta por Nvidia",
-          "body": "Kazajistán pactó con Firebird un centro de datos con 45,000 GPUs de Nvidia y nuevas licencias de exportación US.",
-          "mini_headline": "GPUs de Nvidia rumbo a Kazajistán",
+          "headline": "Grupo en Berlin traza la ruta\nhacia una AI soberana en 2030",
+          "body": "Un grupo de trabajo del Gobierno alemán pide una AI soberana para 2030, con alternativas junto a Francia y Canadá.",
+          "mini_headline": "El plan de AI de Alemania para 2030",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El 23 de octubre en Astaná, el CEO de Nvidia, Jensen Huang, dijo ante el público que Kazajistán podría “transformar esta energía en inteligencia y exportar inteligencia”, y lo calificó como un futuro “centro de fábricas de AI para toda Europa”."
-              },
-              {
                 "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-                "cap": "El viceprimer ministro Zhaslan Madiyev y el CEO de Nvidia, Jensen Huang, en un abarrotado alem.ai, el nuevo “centro de inteligencia artificial” de Kazajistán. Foto de Oliver Fisk."
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "Para acelerar el desarrollo de la AI en Alemania, el Gobierno prevé actuar como “cliente ancla estratégico”. | Tobias Schwarz/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "La pieza central es el proyectado Data Center Valley de Ekibastuz, junto a la central de carbón Ekibastuz GRES-1. Firebird, un operador de nube de U.S., firmó un acuerdo de inversión por el que el sitio funcionará con 45,000 GPUs Nvidia Grace Blackwell, cuyas licencias de exportación de U.S. se anunciaron la semana pasada, y el 10 por ciento de la capacidad de GPU de Firebird se asignará a empresas y organismos públicos kazajos."
+                "x": "Alemania debería convertirse en una “nación de AI soberana” para 2030 y reducir la distancia con los principales polos de AI de U.S. y China, según un informe redactado por el grupo de trabajo de AI del Gobierno, que se presentará al Consejo de Seguridad Nacional. “Por ello, los próximos 12 a 18 meses serán decisivos para fijar el rumbo”, señala el texto."
               },
               {
                 "t": "p",
-                "x": "Los expertos señalan dos problemas: la energía y los clientes. Desde 2023, Kazajistán ha consumido cada año más electricidad de la que ha generado, y el objetivo de autosuficiencia energética se aplazó a principios de 2028. No se ha identificado públicamente a ningún cliente internacional, y alrededor del 95 por ciento del tráfico de internet saliente pasa por Rusia."
+                "x": "Alemania quiere asegurarse el acceso a los modelos líderes del mundo y, al mismo tiempo, reforzar las alternativas europeas, en particular mediante una mayor cooperación con Francia y Canadá. La “AI made in Germany” debería distinguirse por su enfoque en la AI industrial con “modelos altamente especializados”. El Gobierno prevé actuar como “cliente ancla estratégico”, usando contratos públicos y proyectos piloto para ayudar a los proveedores europeos de AI a entrar en el mercado."
               },
               {
-                "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-                "cap": "Un intento del CEO de Nvidia, Jensen Huang, de hacerse un selfi improvisado llevó a los asistentes a abalanzarse sobre el escenario con entusiasmo. Foto de Oliver Fisk."
+                "t": "p",
+                "x": "El plan propone 18 medidas, pero carece de detalles clave, incluida la financiación. Para 2030, el Gobierno quiere que al menos el 80% de las grandes empresas y el 55% de las SMEs usen AI, que el 90% de las agencias federales tengan al menos una aplicación de AI en producción y que la capacidad de los centros de datos de AI aumente un 300% respecto a 2025."
               }
             ]
           }
@@ -1069,116 +829,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "카자흐스탄, Nvidia로\n데이터센터 밸리 구상",
-          "body": "Firebird는 카자흐에 US 허가 Nvidia GPUs 45,000개를 둔다.",
-          "mini_headline": "Nvidia GPUs, 카자흐스탄행",
+          "headline": "Berlin 태스크포스,\n2030 주권 AI 로드맵",
+          "body": "독일 태스크포스는 2030년까지 주권 AI와 프랑스·캐나다와의 대안을 촉구했다.",
+          "mini_headline": "독일의 2030 AI 청사진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "10월 23일 아스타나에서 Nvidia CEO 젠슨 황(Jensen Huang)은 청중에게 카자흐스탄이 “이 에너지를 지능으로 바꾸고 지능을 수출할 수 있다”고 말하며, 이곳을 미래의 “유럽 전체를 위한 AI 팩토리 허브”라고 불렀다."
-              },
-              {
                 "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-                "cap": "카자흐스탄의 새 “인공지능 센터”인 alem.ai에 몰린 인파 속 자슬란 마디예프(Zhaslan Madiyev) 부총리와 Nvidia CEO 젠슨 황(Jensen Huang). 사진: Oliver Fisk."
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "독일 정부는 자국 AI 개발 속도를 높이기 위해 “전략적 앵커 고객” 역할을 맡을 계획이다. | Tobias Schwarz/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "핵심은 석탄화력 발전소 Ekibastuz GRES-1 옆에 계획된 Ekibastuz의 데이터센터 밸리(Data Center Valley)다. U.S. 클라우드 사업자 Firebird가 맺은 투자 협약에 따라 이 부지에는 Nvidia Grace Blackwell GPUs 45,000개가 들어서며, 이 GPUs에 대한 U.S. 수출 허가는 지난주 발표됐다. Firebird GPU 용량의 10퍼센트는 카자흐스탄 기업과 정부 기관에 배정된다."
+                "x": "정부 AI 태스크포스가 작성해 국가안전보장회의에 제출할 예정인 보고서에 따르면, 독일은 2030년까지 “주권 AI 국가”가 되어 U.S.(미국)와 중국의 선도적 AI 거점과의 격차를 좁혀야 한다. 보고서는 “따라서 앞으로 12~18개월이 방향을 정하는 데 결정적일 것”이라고 적었다."
               },
               {
                 "t": "p",
-                "x": "전문가들은 전력과 고객이라는 두 가지 문제를 제기한다. 카자흐스탄은 2023년 이후 해마다 생산한 것보다 많은 전력을 소비했고, 에너지 자급 목표는 2028년 초로 미뤄졌다. 공개적으로 확인된 해외 고객은 없으며, 국외로 나가는 인터넷 트래픽의 약 95퍼센트가 러시아를 거친다."
+                "x": "독일은 세계 최고 수준의 모델에 대한 접근을 확보하는 한편, 특히 프랑스·캐나다와의 협력 확대를 통해 유럽의 대안을 강화하려 한다. “AI made in Germany”는 “고도로 특화된 모델”을 갖춘 산업용 AI에 집중해 두각을 나타내야 한다. 정부는 “전략적 앵커 고객”으로서 공공 계약과 시범 사업을 활용해 유럽 AI 기업의 시장 진입을 도울 계획이다."
               },
               {
-                "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-                "cap": "Nvidia CEO 젠슨 황(Jensen Huang)이 즉석 셀카를 찍으려 하자 들뜬 행사 참석자들이 무대로 몰려들었다. 사진: Oliver Fisk."
+                "t": "p",
+                "x": "이 청사진은 18개 조치를 제안하지만 재원 조달을 비롯한 핵심 세부 사항이 빠져 있다. 정부는 2030년까지 대기업의 80% 이상과 SMEs의 55%가 AI를 쓰고, 연방 기관의 90%가 실제 운영 중인 AI 애플리케이션을 하나 이상 갖추며, AI 데이터센터 용량을 2025년 대비 300% 늘리는 것을 목표로 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カザフスタン、Nvidiaで\nデータセンター・バレー構想",
-          "body": "Firebirdがカザフに、US許可のNvidia GPUs 45,000基を置く。",
-          "mini_headline": "Nvidia GPUs、カザフスタンへ",
+          "headline": "Berlinの作業部会\n2030年への主権AI構想",
+          "body": "ドイツ政府の作業部会は2030年までの主権AIを掲げ、フランス・カナダとの代替策を求めた。",
+          "mini_headline": "ドイツの2030年AI青写真",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "10月23日、アスタナでNvidiaのCEOジェンスン・フアン(Jensen Huang)は聴衆に向け、カザフスタンは「このエネルギーを知能に変え、知能を輸出する」ことができると語り、同国を将来の「ヨーロッパ全体のためのAIファクトリーハブ」と呼んだ。"
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "ドイツでのAI開発を加速させるため、政府は「戦略的アンカー顧客」の役割を担う計画だ。 | Tobias Schwarz/AFP via Getty Images"
               },
+              {
+                "t": "p",
+                "x": "政府のAI作業部会がまとめ、国家安全保障会議に提出される予定の報告書によると、ドイツは2030年までに「主権AI国家」となり、U.S.（米国）と中国の主要なAI拠点との差を縮めるべきだという。報告書は「したがって、今後12〜18カ月が針路を定めるうえで決定的になる」と記している。"
+              },
+              {
+                "t": "p",
+                "x": "ドイツは世界トップクラスのモデルへのアクセスを確保しつつ、とりわけフランスやカナダとの協力拡大を通じて欧州の代替手段を強化したい考えだ。「AI made in Germany」は「高度に特化したモデル」を用いた産業向けAIに注力することで際立つべきだとしている。政府は「戦略的アンカー顧客」として、公共調達やパイロット事業を活用し、欧州のAI事業者の市場参入を後押しする計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "この青写真は18の施策を提案しているが、資金調達を含む重要な詳細が欠けている。政府は2030年までに、大企業の少なくとも80%とSMEsの55%がAIを利用し、連邦機関の90%が少なくとも一つのAIアプリケーションを本番運用し、AIデータセンターの容量を2025年比で300%増やすことを目指す。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Berlin工作组\n规划2030年主权AI路径",
+          "body": "德国政府工作组呼吁到2030年实现主权AI，并与法国和加拿大共建替代方案。",
+          "mini_headline": "德国2030年AI蓝图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-                "cap": "混雑するカザフスタンの新たな「人工知能センター」alem.aiで、ジャスラン・マディエフ(Zhaslan Madiyev)副首相とNvidiaのCEOジェンスン・フアン(Jensen Huang)。写真:Oliver Fisk。"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "为加快德国AI发展，政府计划扮演“战略性锚定客户”的角色。 | Tobias Schwarz/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "目玉は、石炭火力発電所Ekibastuz GRES-1に隣接するEkibastuzで計画されているデータセンター・バレー(Data Center Valley)だ。U.S.のクラウド事業者Firebirdが結んだ投資契約により、同地にはNvidia Grace Blackwell GPUs 45,000基が配備される。これらのGPUsのU.S.輸出許可は先週発表された。FirebirdのGPU容量の10パーセントはカザフスタンの企業と政府機関に割り当てられる。"
+                "x": "根据德国政府AI工作组起草、将提交国家安全委员会的一份报告，德国应在2030年前成为“主权AI国家”，并缩小与U.S.（美国）和中国领先AI中心的差距。报告写道：“因此，未来12至18个月对确定方向至关重要。”"
               },
               {
                 "t": "p",
-                "x": "専門家は電力と顧客という二つの課題を挙げる。カザフスタンは2023年以降、毎年発電量を上回る電力を消費しており、エネルギー自給の目標は2028年初めに先送りされた。国外の顧客は公に明らかになっておらず、国外向けインターネット通信の約95パーセントはロシアを経由している。"
+                "x": "德国希望在确保获得全球领先模型的同时，加强欧洲的替代方案，尤其是通过扩大与法国和加拿大的合作。“AI made in Germany”应凭借专注于采用“高度专业化模型”的工业AI而脱颖而出。政府计划充当“战略性锚定客户”，借助公共合同和试点项目帮助欧洲AI供应商进入市场。"
               },
               {
-                "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-                "cap": "NvidiaのCEOジェンスン・フアン(Jensen Huang)が即興で自撮りしようとすると、興奮した参加者が舞台に殺到した。写真:Oliver Fisk。"
+                "t": "p",
+                "x": "这份蓝图提出了18项措施，但缺乏包括融资在内的关键细节。政府希望到2030年，至少80%的大企业和55%的SMEs使用AI，90%的联邦机构至少有一个AI应用投入生产，AI数据中心容量较2025年增长300%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Valle de centros de datos:\nKazajistán apuesta por Nvidia",
-          "body": "Kazajistán pactó con Firebird un centro de datos con 45,000 GPUs de Nvidia y nuevas licencias de exportación US.",
-          "mini_headline": "GPUs de Nvidia rumbo a Kazajistán",
+          "headline": "Grupo en Berlin traza la ruta\nhacia una AI soberana en 2030",
+          "body": "Un grupo de trabajo del Gobierno alemán pide una AI soberana para 2030, con alternativas junto a Francia y Canadá.",
+          "mini_headline": "El plan de AI de Alemania para 2030",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El 23 de octubre en Astaná, el CEO de Nvidia, Jensen Huang, dijo ante el público que Kazajistán podría “transformar esta energía en inteligencia y exportar inteligencia”, y lo calificó como un futuro “centro de fábricas de AI para toda Europa”."
-              },
-              {
                 "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031559.jpg",
-                "cap": "El viceprimer ministro Zhaslan Madiyev y el CEO de Nvidia, Jensen Huang, en un abarrotado alem.ai, el nuevo “centro de inteligencia artificial” de Kazajistán. Foto de Oliver Fisk."
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+                "cap": "Para acelerar el desarrollo de la AI en Alemania, el Gobierno prevé actuar como “cliente ancla estratégico”. | Tobias Schwarz/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "La pieza central es el proyectado Data Center Valley de Ekibastuz, junto a la central de carbón Ekibastuz GRES-1. Firebird, un operador de nube de U.S., firmó un acuerdo de inversión por el que el sitio funcionará con 45,000 GPUs Nvidia Grace Blackwell, cuyas licencias de exportación de U.S. se anunciaron la semana pasada, y el 10 por ciento de la capacidad de GPU de Firebird se asignará a empresas y organismos públicos kazajos."
+                "x": "Alemania debería convertirse en una “nación de AI soberana” para 2030 y reducir la distancia con los principales polos de AI de U.S. y China, según un informe redactado por el grupo de trabajo de AI del Gobierno, que se presentará al Consejo de Seguridad Nacional. “Por ello, los próximos 12 a 18 meses serán decisivos para fijar el rumbo”, señala el texto."
               },
               {
                 "t": "p",
-                "x": "Los expertos señalan dos problemas: la energía y los clientes. Desde 2023, Kazajistán ha consumido cada año más electricidad de la que ha generado, y el objetivo de autosuficiencia energética se aplazó a principios de 2028. No se ha identificado públicamente a ningún cliente internacional, y alrededor del 95 por ciento del tráfico de internet saliente pasa por Rusia."
+                "x": "Alemania quiere asegurarse el acceso a los modelos líderes del mundo y, al mismo tiempo, reforzar las alternativas europeas, en particular mediante una mayor cooperación con Francia y Canadá. La “AI made in Germany” debería distinguirse por su enfoque en la AI industrial con “modelos altamente especializados”. El Gobierno prevé actuar como “cliente ancla estratégico”, usando contratos públicos y proyectos piloto para ayudar a los proveedores europeos de AI a entrar en el mercado."
               },
               {
-                "t": "img",
-                "src": "https://manage.thediplomat.com/wp-content/uploads/2026/10/thediplomat_2026-10-30-031554.jpg",
-                "cap": "Un intento del CEO de Nvidia, Jensen Huang, de hacerse un selfi improvisado llevó a los asistentes a abalanzarse sobre el escenario con entusiasmo. Foto de Oliver Fisk."
+                "t": "p",
+                "x": "El plan propone 18 medidas, pero carece de detalles clave, incluida la financiación. Para 2030, el Gobierno quiere que al menos el 80% de las grandes empresas y el 55% de las SMEs usen AI, que el 90% de las agencias federales tengan al menos una aplicación de AI en producción y que la capacidad de los centros de datos de AI aumente un 300% respecto a 2025."
               }
             ]
           }
         }
-      },
-      "i18n_status": {
-        "zh": "fallback"
       }
     },
     {
-      "id": "ai-training-optout-standard",
+      "id": "india-model-to-data-plan",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 대기업들, 학습\nopt-out 공통안 지지",
-      "body": "OpenAI·Google·Microsoft·Anthropic이 AI 거부신호 쓴다.",
-      "mini_headline": "AI 기업들, 학습 opt-out 지지",
+      "headline": "인도, 데이터로 찾아가는\nAI 모델 구상 내놨다",
+      "body": "인도 IT 부처가 AI 모델을 암호화된 현지 데이터로 학습시키는 안을 냈다.",
+      "mini_headline": "인도: 모델이 데이터로 간다",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Register",
+      "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1186,173 +955,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "OpenAI, Google, Microsoft, Anthropic이 퍼블리셔가 AI 스크레이핑을 거부(opt out)할 수 있는 새 표준을 채택하겠다고 밝혔다. 퍼블리셔는 AI 기업마다 따로 설정할 필요 없이 AI 학습 선호를 여러 AI 기업에 한꺼번에 적용할 수 있다."
+            "x": "인도 정부는 해외 모델 개발사(model-makers)가 인도의 문제를 풀거나 데이터 소유자의 통제권을 지켜줄 이유가 없다고 보고, AI 모델을 현지 데이터로 학습시키려 한다. 전자정보기술부(MeitY)가 내놓은 안은 “Data Empowerment and Protection Architecture (DEPA) for AI Training”이다. 수석과학자문관 Ajay Kumar Sood는 DEPA를 “데이터가 모델로 가는 것이 아니라 모델이 데이터로 가는 것”이라고 설명했다."
           },
           {
             "t": "p",
-            "x": "공통 “정책 토큰(policy token)” 신호는 Anthropic에서 표준을 맡은 기술 리드 케빈 켈리(Kevin Kelley)가 국제인터넷표준화기구(Internet Engineering Task Force, IETF) 논의 과정에서 제안했다. 신호는 웹사이트의 robots.txt 파일에 들어간다. OpenAI, Google, Microsoft, Anthropic은 공통 토큰이 보이면 자사 AI 크롤러가 해당 사이트에 접근하지 못하게 하겠다고 했다."
+            "x": "병원, 은행, 정부 기관 같은 “Training Data Providers”(학습 데이터 제공자)가 익명화·암호화한 데이터를 “Data Exchange Platform”에 올리면, “Training Data Consumers”(학습 데이터 이용자)는 그 안의 “hardware-based Secure Data Environments”에서 모델을 학습시킨다. 차등 프라이버시를 적용하고, 모든 활동은 감사용으로 고칠 수 없게 기록한다."
           },
           {
             "t": "p",
-            "x": "Meta 커뮤니케이션 책임자 앤디 스톤(Andy Stone)도 새 설정을 지지했지만 회사가 따를지는 밝히지 않았다. Microsoft는 AI 학습이나 AI 그라운딩을 골라 거부할 수 있는 세분화된 제어 기능을 내놓겠다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Anthropic은 이미 이 신호를 도입했다. Google과 Microsoft는 내년에 지원할 계획이고, OpenAI는 “몇 달 안에” 적용하겠다고 밝혔다."
+            "x": "MeitY는 DEPA로 흩어진 보건 데이터를 쓸 길이 열리고, 금융에서 소외된 개인과 MSMEs 400 million 곳에 정식 신용이 닿을 수 있다고 본다. DEPA가 실현되기까지 일이 얼마나 남았는지는 아직 불분명하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI giants back a shared\nopt-out from training",
-          "body": "OpenAI, Google, Microsoft and Anthropic say they will adopt a common signal that lets sites opt out of AI training.",
-          "mini_headline": "AI labs back a training opt-out",
+          "headline": "India proposes AI models\nthat travel to the data",
+          "body": "India's IT ministry proposed a scheme where AI models train on encrypted local data rather than the data travelling to them.",
+          "mini_headline": "India: models go to the data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually."
+                "x": "India’s government wants AI models trained on local data, because it thinks offshore model-makers won’t be motivated to address the nation’s issues or to ensure owners of data stay in control. Its Ministry of Electronics and Information Technology (MeitY) proposes the “Data Empowerment and Protection Architecture (DEPA) for AI Training.” As described by Principal Scientific Adviser Ajay Kumar Sood, DEPA means “the model travels to the data, rather than the data travelling to the model.”"
               },
               {
                 "t": "p",
-                "x": "The shared “policy token” signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website’s robots.txt file. OpenAI, Google, Microsoft, and Anthropic say they will restrict their AI crawlers from accessing a site if they encounter the shared token."
+                "x": "“Training Data Providers” such as hospitals, banks, and government agencies share anonymized and encrypted data with a “Data Exchange Platform,” where “Training Data Consumers” train their models inside “hardware-based Secure Data Environments.” Differential privacy is applied and all activity is immutably logged for audit."
               },
               {
                 "t": "p",
-                "x": "Meta communications head Andy Stone also signaled support for the new setting, but doesn’t say whether the company will honor it. Microsoft says it will offer granular controls to opt out of AI training or AI grounding."
-              },
-              {
-                "t": "p",
-                "x": "While Anthropic has already adopted the signal, Google and Microsoft plan to support it next year. OpenAI says it will implement it in the “coming months.”"
+                "x": "MeitY says DEPA could unlock fragmented health data and potentially extend formal credit to 400 million underserved individuals and MSMEs. It is unclear how much work remains to make DEPA a reality."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 대기업들, 학습\nopt-out 공통안 지지",
-          "body": "OpenAI·Google·Microsoft·Anthropic이 AI 거부신호 쓴다.",
-          "mini_headline": "AI 기업들, 학습 opt-out 지지",
+          "headline": "인도, 데이터로 찾아가는\nAI 모델 구상 내놨다",
+          "body": "인도 IT 부처가 AI 모델을 암호화된 현지 데이터로 학습시키는 안을 냈다.",
+          "mini_headline": "인도: 모델이 데이터로 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI, Google, Microsoft, Anthropic이 퍼블리셔가 AI 스크레이핑을 거부(opt out)할 수 있는 새 표준을 채택하겠다고 밝혔다. 퍼블리셔는 AI 기업마다 따로 설정할 필요 없이 AI 학습 선호를 여러 AI 기업에 한꺼번에 적용할 수 있다."
+                "x": "인도 정부는 해외 모델 개발사(model-makers)가 인도의 문제를 풀거나 데이터 소유자의 통제권을 지켜줄 이유가 없다고 보고, AI 모델을 현지 데이터로 학습시키려 한다. 전자정보기술부(MeitY)가 내놓은 안은 “Data Empowerment and Protection Architecture (DEPA) for AI Training”이다. 수석과학자문관 Ajay Kumar Sood는 DEPA를 “데이터가 모델로 가는 것이 아니라 모델이 데이터로 가는 것”이라고 설명했다."
               },
               {
                 "t": "p",
-                "x": "공통 “정책 토큰(policy token)” 신호는 Anthropic에서 표준을 맡은 기술 리드 케빈 켈리(Kevin Kelley)가 국제인터넷표준화기구(Internet Engineering Task Force, IETF) 논의 과정에서 제안했다. 신호는 웹사이트의 robots.txt 파일에 들어간다. OpenAI, Google, Microsoft, Anthropic은 공통 토큰이 보이면 자사 AI 크롤러가 해당 사이트에 접근하지 못하게 하겠다고 했다."
+                "x": "병원, 은행, 정부 기관 같은 “Training Data Providers”(학습 데이터 제공자)가 익명화·암호화한 데이터를 “Data Exchange Platform”에 올리면, “Training Data Consumers”(학습 데이터 이용자)는 그 안의 “hardware-based Secure Data Environments”에서 모델을 학습시킨다. 차등 프라이버시를 적용하고, 모든 활동은 감사용으로 고칠 수 없게 기록한다."
               },
               {
                 "t": "p",
-                "x": "Meta 커뮤니케이션 책임자 앤디 스톤(Andy Stone)도 새 설정을 지지했지만 회사가 따를지는 밝히지 않았다. Microsoft는 AI 학습이나 AI 그라운딩을 골라 거부할 수 있는 세분화된 제어 기능을 내놓겠다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 이미 이 신호를 도입했다. Google과 Microsoft는 내년에 지원할 계획이고, OpenAI는 “몇 달 안에” 적용하겠다고 밝혔다."
+                "x": "MeitY는 DEPA로 흩어진 보건 데이터를 쓸 길이 열리고, 금융에서 소외된 개인과 MSMEs 400 million 곳에 정식 신용이 닿을 수 있다고 본다. DEPA가 실현되기까지 일이 얼마나 남았는지는 아직 불분명하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI大手、学習の\nopt-out共通化を支持",
-          "body": "OpenAI・Google・Microsoft・AnthropicがAI学習拒否信号を採用。",
-          "mini_headline": "AI各社、学習opt-outを支持",
+          "headline": "インド、データへ向かう\nAIモデルを提案",
+          "body": "インドのIT省は、AIモデルが暗号化された国内データの側で学習する仕組みを提案した。",
+          "mini_headline": "インド：モデルがデータへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI、Google、Microsoft、Anthropicは、パブリッシャーがAIによるスクレイピングを拒否(opt out)できる新たな標準を採用すると表明した。この仕組みにより、パブリッシャーはAI企業ごとに個別に設定しなくても、複数のAI企業にまとめてAI学習に関する意向を適用できる。"
+                "x": "インド政府は、海外のモデル開発企業(model-makers)には自国の課題に取り組む動機も、データ所有者の主導権を守る動機もないと考え、AIモデルを国内データで学習させたい考えだ。電子情報技術省(MeitY)は「Data Empowerment and Protection Architecture (DEPA) for AI Training」を提案している。首席科学顧問Ajay Kumar Soodの説明によれば、DEPAとは「データがモデルのもとへ行くのではなく、モデルがデータのもとへ行く」ことを意味する。"
               },
               {
                 "t": "p",
-                "x": "共通の「ポリシートークン(policy token)」シグナルは、Anthropicで標準化を担当する技術リードのケビン・ケリー(Kevin Kelley)が、インターネット技術特別調査委員会(Internet Engineering Task Force、IETF)の一環として提案したものだ。シグナルはウェブサイトのrobots.txtファイル内に置かれる。OpenAI、Google、Microsoft、Anthropicは、この共通トークンを検出した場合、自社のAIクローラーによるサイトへのアクセスを制限するとしている。"
+                "x": "病院、銀行、政府機関などの「Training Data Providers」(学習データ提供者)は、匿名化・暗号化したデータを「Data Exchange Platform」で共有し、「Training Data Consumers」(学習データ利用者)はそこにある「hardware-based Secure Data Environments」の中でモデルを学習させる。差分プライバシーが適用され、すべての活動は監査のため改変できない形で記録される。"
               },
               {
                 "t": "p",
-                "x": "Metaの広報責任者アンディ・ストーン(Andy Stone)も新しい設定への支持を示したが、同社がそれに従うかどうかは明らかにしていない。Microsoftは、AI学習やAIグラウンディングを拒否できるきめ細かな設定を提供するという。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicはすでにこのシグナルを採用しており、GoogleとMicrosoftは来年対応する予定だ。OpenAIは「今後数か月以内」に実装するとしている。"
+                "x": "MeitYによると、DEPAは分断された医療データを活用可能にし、十分な金融サービスを受けていない400 million の個人やMSMEsに正規の信用供与を広げられる可能性がある。DEPAの実現にどれほどの作業が残っているかは不明だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI巨头支持统一的\n训练opt-out机制",
-          "body": "OpenAI、Google、Microsoft和Anthropic将共用AI训练退出信号。",
-          "mini_headline": "AI公司支持训练opt-out",
+          "headline": "印度提议让AI模型\n走到数据身边",
+          "body": "印度IT部提议让AI模型在加密的本地数据上训练，而非让数据流向模型。",
+          "mini_headline": "印度：模型走向数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI、Google、Microsoft和Anthropic表示,将采用一项新标准,出版商可借此拒绝(opt out)被AI抓取。借助这一控制手段,出版商可以把自己的AI训练偏好一次性应用于多家AI公司,而无需逐一设置。"
+                "x": "印度政府希望用本地数据训练AI模型，因为它认为海外模型开发商（model-makers）不会有动力去解决本国的问题，也不会确保数据所有者保有控制权。其电子和信息技术部（MeitY）提出了“Data Empowerment and Protection Architecture (DEPA) for AI Training”。按照首席科学顾问Ajay Kumar Sood的描述，DEPA意味着“模型走向数据，而不是数据走向模型”。"
               },
               {
                 "t": "p",
-                "x": "这一共享的“政策令牌”(policy token)信号由Anthropic标准技术负责人Kevin Kelley在互联网工程任务组(Internet Engineering Task Force,IETF)框架下提出,将置于网站的robots.txt文件中。OpenAI、Google、Microsoft和Anthropic表示,若检测到该共享令牌,将限制其AI爬虫访问该网站。"
+                "x": "医院、银行和政府机构等“Training Data Providers”（训练数据提供方）将匿名化和加密的数据共享到“Data Exchange Platform”，“Training Data Consumers”（训练数据使用方）则在“hardware-based Secure Data Environments”中训练模型。该机制采用差分隐私，所有活动都会被不可篡改地记录以供审计。"
               },
               {
                 "t": "p",
-                "x": "Meta传播主管Andy Stone也表示支持这一新设置,但未说明公司是否会遵守。Microsoft表示将提供细粒度控制选项,可选择退出AI训练或AI grounding(AI接地)。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic已采用该信号,Google和Microsoft计划明年提供支持。OpenAI表示将在“未来几个月内”实施。"
+                "x": "MeitY表示，DEPA可以盘活分散的健康数据，并有望将正规信贷扩展到400 million 名服务不足的个人和MSMEs。目前尚不清楚要让DEPA成为现实还需完成多少工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gigantes de AI apoyan un\nopt-out común del entrenamiento",
-          "body": "OpenAI, Google, Microsoft y Anthropic adoptarán una señal común para que los sitios eviten el entrenamiento de AI.",
-          "mini_headline": "Laboratorios de AI apoyan un opt-out",
+          "headline": "India propone modelos de AI\nque viajen hacia los datos",
+          "body": "El ministerio de IT de India propuso que modelos de AI se entrenen en datos locales cifrados, sin mover los datos.",
+          "mini_headline": "India: los modelos van a los datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI, Google, Microsoft y Anthropic afirman que adoptarán un nuevo estándar que los editores podrán usar para excluirse (opt out) del rastreo por parte de la AI. Con este control, los editores podrán aplicar sus preferencias de entrenamiento de AI en varias empresas de AI a la vez, en lugar de configurarlas una por una."
+                "x": "El Gobierno de India quiere que los modelos de AI se entrenen con datos locales, porque considera que los desarrolladores de modelos extranjeros (model-makers) no tendrán incentivos para abordar los problemas del país ni para garantizar que los propietarios de los datos mantengan el control. Su Ministerio de Electrónica y Tecnologías de la Información (MeitY) propone la “Data Empowerment and Protection Architecture (DEPA) for AI Training”. Según la describe el asesor científico principal, Ajay Kumar Sood, DEPA significa que “el modelo viaja a los datos, en lugar de que los datos viajen al modelo”."
               },
               {
                 "t": "p",
-                "x": "La señal compartida de “policy token” la propone Kevin Kelley, responsable técnico de estándares en Anthropic, en el marco de la Internet Engineering Task Force (IETF). Se ubicará en el archivo robots.txt de cada sitio web. OpenAI, Google, Microsoft y Anthropic aseguran que impedirán el acceso de sus rastreadores de AI a un sitio si encuentran el token compartido."
+                "x": "Los “Training Data Providers” (proveedores de datos de entrenamiento), como hospitales, bancos y agencias gubernamentales, comparten datos anonimizados y cifrados con una “Data Exchange Platform”, donde los “Training Data Consumers” (consumidores de datos de entrenamiento) entrenan sus modelos dentro de “hardware-based Secure Data Environments”. Se aplica privacidad diferencial y toda la actividad queda registrada de forma inmutable para auditoría."
               },
               {
                 "t": "p",
-                "x": "Andy Stone, responsable de comunicación de Meta, también expresó su apoyo al nuevo ajuste, pero no dice si la empresa lo respetará. Microsoft afirma que ofrecerá controles detallados para excluirse del entrenamiento de AI o del grounding de AI."
-              },
-              {
-                "t": "p",
-                "x": "Aunque Anthropic ya adoptó la señal, Google y Microsoft prevén admitirla el próximo año. OpenAI dice que la implementará en los “próximos meses”."
+                "x": "MeitY afirma que DEPA podría liberar datos de salud fragmentados y, potencialmente, extender el crédito formal a 400 millones de personas desatendidas y MSMEs. No está claro cuánto trabajo queda para hacer realidad DEPA."
               }
             ]
           }
@@ -1360,121 +1105,387 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 대기업들, 학습\nopt-out 공통안 지지",
-          "body": "OpenAI·Google·Microsoft·Anthropic이 AI 거부신호 쓴다.",
-          "mini_headline": "AI 기업들, 학습 opt-out 지지",
+          "headline": "인도, 데이터로 찾아가는\nAI 모델 구상 내놨다",
+          "body": "인도 IT 부처는 AI 모델이 암호화된 현지 데이터에서 학습하는 안을 냈다.",
+          "mini_headline": "인도: 모델이 데이터로 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI, Google, Microsoft, Anthropic은 퍼블리셔가 AI의 스크레이핑을 거부(opt out)할 수 있는 새 표준을 채택하겠다고 밝혔다. 이 기능을 쓰면 퍼블리셔는 AI 기업마다 따로 설정하지 않고도 여러 AI 기업에 AI 학습 선호를 한꺼번에 적용할 수 있다."
+                "x": "인도 정부는 해외 모델 개발사(model-makers)가 자국 문제를 해결하거나 데이터 소유자의 통제권을 보장할 동기가 없을 것으로 보고, AI 모델을 현지 데이터로 학습시키길 원한다. 전자정보기술부(MeitY)는 “Data Empowerment and Protection Architecture (DEPA) for AI Training”을 제안했다. 수석과학자문관 Ajay Kumar Sood의 설명에 따르면 DEPA는 “데이터가 모델로 가는 것이 아니라 모델이 데이터로 가는 것”을 뜻한다."
               },
               {
                 "t": "p",
-                "x": "공통 “정책 토큰(policy token)” 신호는 Anthropic의 표준 담당 기술 리드 케빈 켈리(Kevin Kelley)가 국제인터넷표준화기구(Internet Engineering Task Force, IETF) 논의의 일환으로 제안했다. 이 신호는 웹사이트의 robots.txt 파일 안에 들어간다. OpenAI, Google, Microsoft, Anthropic은 공통 토큰을 발견하면 자사 AI 크롤러의 해당 사이트 접근을 제한하겠다고 밝혔다."
+                "x": "병원, 은행, 정부 기관 같은 “Training Data Providers”(학습 데이터 제공자)는 익명화·암호화한 데이터를 “Data Exchange Platform”에 공유하고, “Training Data Consumers”(학습 데이터 이용자)는 그곳의 “hardware-based Secure Data Environments” 안에서 모델을 학습시킨다. 차등 프라이버시가 적용되며 모든 활동은 감사를 위해 변경할 수 없는 형태로 기록된다."
               },
               {
                 "t": "p",
-                "x": "Meta 커뮤니케이션 책임자 앤디 스톤(Andy Stone)도 새 설정에 지지 의사를 보였지만, 회사가 이를 따를지는 밝히지 않았다. Microsoft는 AI 학습이나 AI 그라운딩을 거부할 수 있는 세분화된 제어 기능을 제공하겠다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 이미 이 신호를 도입했고, Google과 Microsoft는 내년에 지원할 계획이다. OpenAI는 “몇 달 안에” 적용하겠다고 밝혔다."
+                "x": "MeitY는 DEPA가 흩어진 보건 데이터를 활용할 길을 열고, 금융 소외 계층인 개인과 MSMEs 400 million 곳에 정식 신용을 확대할 수 있다고 본다. DEPA를 실현하기까지 얼마나 많은 작업이 남았는지는 불분명하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI大手、学習の\nopt-out共通化を支持",
-          "body": "OpenAI・Google・Microsoft・AnthropicがAI学習拒否信号を採用。",
-          "mini_headline": "AI各社、学習opt-outを支持",
+          "headline": "インド、データへ向かう\nAIモデルを提案",
+          "body": "インドのIT省は、AIモデルが暗号化された国内データの側で学習する仕組みを提案した。",
+          "mini_headline": "インド：モデルがデータへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI、Google、Microsoft、Anthropicは、パブリッシャーがAIによるスクレイピングを拒否(opt out)できる新たな標準を採用すると表明した。この仕組みにより、パブリッシャーはAI企業ごとに個別に設定しなくても、複数のAI企業にまとめてAI学習に関する意向を適用できる。"
+                "x": "インド政府は、海外のモデル開発企業(model-makers)には自国の課題に取り組む動機も、データ所有者の主導権を守る動機もないと考え、AIモデルを国内データで学習させたい考えだ。電子情報技術省(MeitY)は「Data Empowerment and Protection Architecture (DEPA) for AI Training」を提案している。首席科学顧問Ajay Kumar Soodの説明によれば、DEPAとは「データがモデルのもとへ行くのではなく、モデルがデータのもとへ行く」ことを意味する。"
               },
               {
                 "t": "p",
-                "x": "共通の「ポリシートークン(policy token)」シグナルは、Anthropicで標準化を担当する技術リードのケビン・ケリー(Kevin Kelley)が、インターネット技術特別調査委員会(Internet Engineering Task Force、IETF)の一環として提案したものだ。シグナルはウェブサイトのrobots.txtファイル内に置かれる。OpenAI、Google、Microsoft、Anthropicは、この共通トークンを検出した場合、自社のAIクローラーによるサイトへのアクセスを制限するとしている。"
+                "x": "病院、銀行、政府機関などの「Training Data Providers」(学習データ提供者)は、匿名化・暗号化したデータを「Data Exchange Platform」で共有し、「Training Data Consumers」(学習データ利用者)はそこにある「hardware-based Secure Data Environments」の中でモデルを学習させる。差分プライバシーが適用され、すべての活動は監査のため改変できない形で記録される。"
               },
               {
                 "t": "p",
-                "x": "Metaの広報責任者アンディ・ストーン(Andy Stone)も新しい設定への支持を示したが、同社がそれに従うかどうかは明らかにしていない。Microsoftは、AI学習やAIグラウンディングを拒否できるきめ細かな設定を提供するという。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicはすでにこのシグナルを採用しており、GoogleとMicrosoftは来年対応する予定だ。OpenAIは「今後数か月以内」に実装するとしている。"
+                "x": "MeitYによると、DEPAは分断された医療データを活用可能にし、十分な金融サービスを受けていない400 million の個人やMSMEsに正規の信用供与を広げられる可能性がある。DEPAの実現にどれほどの作業が残っているかは不明だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI巨头支持统一的\n训练opt-out机制",
-          "body": "OpenAI、Google、Microsoft和Anthropic将共用AI训练退出信号。",
-          "mini_headline": "AI公司支持训练opt-out",
+          "headline": "印度提议让AI模型\n走到数据身边",
+          "body": "印度IT部提议让AI模型在加密的本地数据上训练，而非让数据流向模型。",
+          "mini_headline": "印度：模型走向数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI、Google、Microsoft和Anthropic表示,将采用一项新标准,出版商可借此拒绝(opt out)被AI抓取。借助这一控制手段,出版商可以把自己的AI训练偏好一次性应用于多家AI公司,而无需逐一设置。"
+                "x": "印度政府希望用本地数据训练AI模型，因为它认为海外模型开发商（model-makers）不会有动力去解决本国的问题，也不会确保数据所有者保有控制权。其电子和信息技术部（MeitY）提出了“Data Empowerment and Protection Architecture (DEPA) for AI Training”。按照首席科学顾问Ajay Kumar Sood的描述，DEPA意味着“模型走向数据，而不是数据走向模型”。"
               },
               {
                 "t": "p",
-                "x": "这一共享的“政策令牌”(policy token)信号由Anthropic标准技术负责人Kevin Kelley在互联网工程任务组(Internet Engineering Task Force,IETF)框架下提出,将置于网站的robots.txt文件中。OpenAI、Google、Microsoft和Anthropic表示,若检测到该共享令牌,将限制其AI爬虫访问该网站。"
+                "x": "医院、银行和政府机构等“Training Data Providers”（训练数据提供方）将匿名化和加密的数据共享到“Data Exchange Platform”，“Training Data Consumers”（训练数据使用方）则在“hardware-based Secure Data Environments”中训练模型。该机制采用差分隐私，所有活动都会被不可篡改地记录以供审计。"
               },
               {
                 "t": "p",
-                "x": "Meta传播主管Andy Stone也表示支持这一新设置,但未说明公司是否会遵守。Microsoft表示将提供细粒度控制选项,可选择退出AI训练或AI grounding(AI接地)。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic已采用该信号,Google和Microsoft计划明年提供支持。OpenAI表示将在“未来几个月内”实施。"
+                "x": "MeitY表示，DEPA可以盘活分散的健康数据，并有望将正规信贷扩展到400 million 名服务不足的个人和MSMEs。目前尚不清楚要让DEPA成为现实还需完成多少工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gigantes de AI apoyan un\nopt-out común del entrenamiento",
-          "body": "OpenAI, Google, Microsoft y Anthropic adoptarán una señal común para que los sitios eviten el entrenamiento de AI.",
-          "mini_headline": "Laboratorios de AI apoyan un opt-out",
+          "headline": "India propone modelos de AI\nque viajen hacia los datos",
+          "body": "El ministerio de IT de India propuso que modelos de AI se entrenen en datos locales cifrados, sin mover los datos.",
+          "mini_headline": "India: los modelos van a los datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "OpenAI, Google, Microsoft y Anthropic afirman que adoptarán un nuevo estándar que los editores podrán usar para excluirse (opt out) del rastreo por parte de la AI. Con este control, los editores podrán aplicar sus preferencias de entrenamiento de AI en varias empresas de AI a la vez, en lugar de configurarlas una por una."
+                "x": "El Gobierno de India quiere que los modelos de AI se entrenen con datos locales, porque considera que los desarrolladores de modelos extranjeros (model-makers) no tendrán incentivos para abordar los problemas del país ni para garantizar que los propietarios de los datos mantengan el control. Su Ministerio de Electrónica y Tecnologías de la Información (MeitY) propone la “Data Empowerment and Protection Architecture (DEPA) for AI Training”. Según la describe el asesor científico principal, Ajay Kumar Sood, DEPA significa que “el modelo viaja a los datos, en lugar de que los datos viajen al modelo”."
               },
               {
                 "t": "p",
-                "x": "La señal compartida de “policy token” la propone Kevin Kelley, responsable técnico de estándares en Anthropic, en el marco de la Internet Engineering Task Force (IETF). Se ubicará en el archivo robots.txt de cada sitio web. OpenAI, Google, Microsoft y Anthropic aseguran que impedirán el acceso de sus rastreadores de AI a un sitio si encuentran el token compartido."
+                "x": "Los “Training Data Providers” (proveedores de datos de entrenamiento), como hospitales, bancos y agencias gubernamentales, comparten datos anonimizados y cifrados con una “Data Exchange Platform”, donde los “Training Data Consumers” (consumidores de datos de entrenamiento) entrenan sus modelos dentro de “hardware-based Secure Data Environments”. Se aplica privacidad diferencial y toda la actividad queda registrada de forma inmutable para auditoría."
               },
               {
                 "t": "p",
-                "x": "Andy Stone, responsable de comunicación de Meta, también expresó su apoyo al nuevo ajuste, pero no dice si la empresa lo respetará. Microsoft afirma que ofrecerá controles detallados para excluirse del entrenamiento de AI o del grounding de AI."
+                "x": "MeitY afirma que DEPA podría liberar datos de salud fragmentados y, potencialmente, extender el crédito formal a 400 millones de personas desatendidas y MSMEs. No está claro cuánto trabajo queda para hacer realidad DEPA."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "wired-hidden-deepfake-apps",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 앱 수백 개에\n악성 딥페이크 기능 숨겨",
+      "body": "WIRED가 AI 도구로 위장한 성착취 딥페이크 앱·사이트 약 400개를 찾아냈다.",
+      "mini_headline": "AI 앱 속에 숨은 딥페이크 도구",
+      "tool": "Politics",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+            "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "WIRED가 조사해 보니 서로 연결된 도메인과 앱 400개 이상으로 이뤄진 네트워크가 드러났다. 겉으로는 반려동물 초상화, 어학 강습, AI 운동 코치 같은 평범한 서비스를 내세우는 경우가 많다. 하지만 특정 조건으로 접속하면 이용자가 올린 사진으로 노골적인 AI 성적 이미지와 동영상을 만드는 웹 인터페이스가 몰래 열린다."
+          },
+          {
+            "t": "p",
+            "x": "연구자들은 Facebook과 Instagram에 올라온 노골적 딥페이크 동영상 광고 수천 건의 링크를 따라가다 이 네트워크를 찾았다. 링크 끝에는 Apple과 Google 스토어의 앱이 있었다. AI Forensics의 Paul Bouchaud는 “조직적이고 상업적으로 운영되는 사업”이라고 말했다. 한때는 매주 약 30개의 앱·웹사이트(apps-websites)가 새로 등록됐다. 구월에는 Google Play에 27개가 올라 있었고 다운로드는 350,000회를 넘었다."
+          },
+          {
+            "t": "p",
+            "x": "앱 운영 주체는 중국 개발자들과 홍콩 법인 KeLing Technology Limited로 보이며, 이 법인은 답하지 않았다. Apple은 앱 19개를 내리고, 개발자들이 심사를 통과한 뒤 콘텐츠를 바꿔치기했다고 밝혔다. Google은 이미 앱 대부분을 내린 뒤였다. Meta는 광고 계정 11,600개를 조치하고 앱 209개의 광고를 막았다고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Hundreds of AI apps hide\nabusive deepfake features",
+          "body": "WIRED found some 400 apps and sites posing as ordinary AI tools while hiding features for sexually abusive deepfakes.",
+          "mini_headline": "Deepfake tools hidden in AI apps",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
               },
               {
                 "t": "p",
-                "x": "Aunque Anthropic ya adoptó la señal, Google y Microsoft prevén admitirla el próximo año. OpenAI dice que la implementará en los “próximos meses”."
+                "x": "A WIRED investigation found a network of more than 400 connected domains and apps that often claim to be everyday services, such as pet portraits, language tuition or AI workout coaches. When accessed under certain conditions, they stealthily load a web interface for generating explicit AI sexual images and videos from photos users upload."
+              },
+              {
+                "t": "p",
+                "x": "Researchers found the network by following links from thousands of explicit deepfake video ads on Facebook and Instagram, which pointed to apps in Apple and Google’s stores. “This is an organized, commercially run operation,” says Paul Bouchaud of AI Forensics. At one point around 30 apps-websites were registered each week; 27 were live on Google Play in September, with more than 350,000 downloads."
+              },
+              {
+                "t": "p",
+                "x": "The apps appear to be run by Chinese developers and a Hong Kong entity, KeLing Technology Limited, which did not respond. Apple removed 19 apps and says developers swapped approved content after review; Google had removed most apps. Meta says it acted against 11,600 ad accounts and blocked 209 apps from advertising."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 앱 수백 개에\n악성 딥페이크 기능 숨겨",
+          "body": "WIRED가 AI 도구로 위장한 성착취 딥페이크 앱·사이트 약 400개를 찾아냈다.",
+          "mini_headline": "AI 앱 속에 숨은 딥페이크 도구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "WIRED가 조사해 보니 서로 연결된 도메인과 앱 400개 이상으로 이뤄진 네트워크가 드러났다. 겉으로는 반려동물 초상화, 어학 강습, AI 운동 코치 같은 평범한 서비스를 내세우는 경우가 많다. 하지만 특정 조건으로 접속하면 이용자가 올린 사진으로 노골적인 AI 성적 이미지와 동영상을 만드는 웹 인터페이스가 몰래 열린다."
+              },
+              {
+                "t": "p",
+                "x": "연구자들은 Facebook과 Instagram에 올라온 노골적 딥페이크 동영상 광고 수천 건의 링크를 따라가다 이 네트워크를 찾았다. 링크 끝에는 Apple과 Google 스토어의 앱이 있었다. AI Forensics의 Paul Bouchaud는 “조직적이고 상업적으로 운영되는 사업”이라고 말했다. 한때는 매주 약 30개의 앱·웹사이트(apps-websites)가 새로 등록됐다. 구월에는 Google Play에 27개가 올라 있었고 다운로드는 350,000회를 넘었다."
+              },
+              {
+                "t": "p",
+                "x": "앱 운영 주체는 중국 개발자들과 홍콩 법인 KeLing Technology Limited로 보이며, 이 법인은 답하지 않았다. Apple은 앱 19개를 내리고, 개발자들이 심사를 통과한 뒤 콘텐츠를 바꿔치기했다고 밝혔다. Google은 이미 앱 대부분을 내린 뒤였다. Meta는 광고 계정 11,600개를 조치하고 앱 209개의 광고를 막았다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "数百のAIアプリが\n悪質ディープフェイクを隠す",
+          "body": "WIREDはAIツールを装い性的ディープフェイク機能を隠す約400のアプリ等を発見した。",
+          "mini_headline": "AIアプリに潜むディープフェイク機能",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "WIREDの調査で、ペットの肖像画、語学レッスン、AIワークアウトコーチといった日常的なサービスを装うことが多い、相互につながった400を超えるドメインとアプリのネットワークが見つかった。特定の条件でアクセスすると、ユーザーがアップロードした写真から露骨なAI性的画像や動画を生成するウェブインターフェースをひそかに読み込む。"
+              },
+              {
+                "t": "p",
+                "x": "研究者らは、FacebookとInstagramに出された数千件の露骨なディープフェイク動画広告のリンクをたどってこのネットワークを発見した。リンク先はAppleとGoogleのストアにあるアプリだった。AI ForensicsのPaul Bouchaudは「これは組織的かつ商業的に運営されている事業だ」と話す。一時は毎週約30のアプリ・ウェブサイト(apps-websites)が登録され、九月には27本がGoogle Playで公開されており、ダウンロード数は350,000を超えていた。"
+              },
+              {
+                "t": "p",
+                "x": "これらのアプリは中国の開発者と香港の法人KeLing Technology Limitedが運営しているとみられ、同社は回答しなかった。Appleは19本のアプリを削除し、開発者が審査後に承認済みのコンテンツを差し替えたと説明している。Googleはすでにほとんどのアプリを削除していた。Metaは11,600の広告アカウントに対処し、209本のアプリの広告出稿をブロックしたという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "数百款AI应用\n暗藏滥用深度伪造功能",
+          "body": "WIRED发现约400个应用和网站伪装成普通AI工具，暗藏性虐待深度伪造功能。",
+          "mini_headline": "AI应用暗藏深度伪造工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "WIRED的一项调查发现了一个由400多个相互关联的域名和应用组成的网络，它们往往自称是日常服务，比如宠物肖像、语言辅导或AI健身教练。在特定条件下访问时，它们会悄悄加载一个网页界面，可根据用户上传的照片生成露骨的AI色情图像和视频。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员顺着Facebook和Instagram上数千条露骨深度伪造视频广告的链接找到了这个网络，这些链接指向Apple和Google应用商店中的应用。AI Forensics的Paul Bouchaud说：“这是一个有组织、商业化运作的行动。”一度每周约有30个应用-网站（apps-websites）注册；九月有27个在Google Play上架，下载量超过350,000次。"
+              },
+              {
+                "t": "p",
+                "x": "这些应用似乎由中国开发者和一家香港实体KeLing Technology Limited运营，后者未予回应。Apple下架了19款应用，并称开发者在审核后替换了已获批准的内容；Google此前已下架了大部分应用。Meta表示已对11,600个广告账户采取行动，并禁止209款应用投放广告。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cientos de apps de AI ocultan\nfunciones de deepfakes abusivos",
+          "body": "WIRED halló unas 400 apps y sitios que simulan ser herramientas de AI comunes y ocultan funciones de deepfakes sexuales.",
+          "mini_headline": "Deepfakes ocultos en apps de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Una investigación de WIRED encontró una red de más de 400 dominios y apps conectados que a menudo dicen ser servicios cotidianos, como retratos de mascotas, clases de idiomas o entrenadores de ejercicio con AI. Cuando se accede a ellos en ciertas condiciones, cargan de forma encubierta una interfaz web para generar imágenes y videos sexuales explícitos con AI a partir de las fotos que suben los usuarios."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores encontraron la red siguiendo los enlaces de miles de anuncios de video con deepfakes explícitos en Facebook e Instagram, que llevaban a apps de las tiendas de Apple y Google. “Se trata de una operación organizada y gestionada comercialmente”, dice Paul Bouchaud, de AI Forensics. En un momento dado se registraban unas 30 apps-websites cada semana; 27 estaban disponibles en Google Play en septiembre, con más de 350,000 descargas."
+              },
+              {
+                "t": "p",
+                "x": "Las apps parecen estar gestionadas por desarrolladores chinos y una entidad de Hong Kong, KeLing Technology Limited, que no respondió. Apple retiró 19 apps y afirma que los desarrolladores cambiaron el contenido aprobado después de la revisión; Google ya había retirado la mayoría de las apps. Meta afirma que actuó contra 11,600 cuentas publicitarias y bloqueó la publicidad de 209 apps."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 앱 수백 개에\n악성 딥페이크 기능 숨겨",
+          "body": "WIRED가 AI 도구로 위장한 성착취 딥페이크 앱·사이트 약 400개를 찾았다.",
+          "mini_headline": "AI 앱 속에 숨은 딥페이크 도구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "WIRED 조사 결과, 서로 연결된 도메인과 앱 400개 이상으로 이뤄진 네트워크가 드러났다. 이들은 반려동물 초상화, 어학 강습, AI 운동 코치 같은 일상적 서비스를 표방하는 경우가 많다. 그러나 특정 조건에서 접속하면 이용자가 올린 사진으로 노골적인 AI 성적 이미지와 동영상을 만드는 웹 인터페이스를 몰래 불러온다."
+              },
+              {
+                "t": "p",
+                "x": "연구자들은 Facebook과 Instagram에 올라온 수천 건의 노골적 딥페이크 동영상 광고 링크를 따라가 이 네트워크를 찾아냈다. 링크는 Apple과 Google 스토어의 앱으로 이어졌다. AI Forensics의 Paul Bouchaud는 “조직적이고 상업적으로 운영되는 사업”이라고 말했다. 한때는 매주 약 30개의 앱·웹사이트(apps-websites)가 등록됐고, 구월에는 27개가 Google Play에 올라 있었으며 다운로드 수는 350,000회를 넘었다."
+              },
+              {
+                "t": "p",
+                "x": "이 앱들은 중국 개발자들과 홍콩 법인 KeLing Technology Limited가 운영하는 것으로 보이며, 이 법인은 답하지 않았다. Apple은 앱 19개를 삭제했으며 개발자들이 심사 후 승인된 콘텐츠를 바꿔치기했다고 밝혔다. Google은 이미 대부분의 앱을 삭제한 상태였다. Meta는 광고 계정 11,600개에 조치를 취하고 앱 209개의 광고를 차단했다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "数百のAIアプリが\n悪質ディープフェイクを隠す",
+          "body": "WIREDはAIツールを装い性的ディープフェイク機能を隠す約400のアプリ等を発見した。",
+          "mini_headline": "AIアプリに潜むディープフェイク機能",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "WIREDの調査で、ペットの肖像画、語学レッスン、AIワークアウトコーチといった日常的なサービスを装うことが多い、相互につながった400を超えるドメインとアプリのネットワークが見つかった。特定の条件でアクセスすると、ユーザーがアップロードした写真から露骨なAI性的画像や動画を生成するウェブインターフェースをひそかに読み込む。"
+              },
+              {
+                "t": "p",
+                "x": "研究者らは、FacebookとInstagramに出された数千件の露骨なディープフェイク動画広告のリンクをたどってこのネットワークを発見した。リンク先はAppleとGoogleのストアにあるアプリだった。AI ForensicsのPaul Bouchaudは「これは組織的かつ商業的に運営されている事業だ」と話す。一時は毎週約30のアプリ・ウェブサイト(apps-websites)が登録され、九月には27本がGoogle Playで公開されており、ダウンロード数は350,000を超えていた。"
+              },
+              {
+                "t": "p",
+                "x": "これらのアプリは中国の開発者と香港の法人KeLing Technology Limitedが運営しているとみられ、同社は回答しなかった。Appleは19本のアプリを削除し、開発者が審査後に承認済みのコンテンツを差し替えたと説明している。Googleはすでにほとんどのアプリを削除していた。Metaは11,600の広告アカウントに対処し、209本のアプリの広告出稿をブロックしたという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "数百款AI应用\n暗藏滥用深度伪造功能",
+          "body": "WIRED发现约400个应用和网站伪装成普通AI工具，暗藏性虐待深度伪造功能。",
+          "mini_headline": "AI应用暗藏深度伪造工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "WIRED的一项调查发现了一个由400多个相互关联的域名和应用组成的网络，它们往往自称是日常服务，比如宠物肖像、语言辅导或AI健身教练。在特定条件下访问时，它们会悄悄加载一个网页界面，可根据用户上传的照片生成露骨的AI色情图像和视频。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员顺着Facebook和Instagram上数千条露骨深度伪造视频广告的链接找到了这个网络，这些链接指向Apple和Google应用商店中的应用。AI Forensics的Paul Bouchaud说：“这是一个有组织、商业化运作的行动。”一度每周约有30个应用-网站（apps-websites）注册；九月有27个在Google Play上架，下载量超过350,000次。"
+              },
+              {
+                "t": "p",
+                "x": "这些应用似乎由中国开发者和一家香港实体KeLing Technology Limited运营，后者未予回应。Apple下架了19款应用，并称开发者在审核后替换了已获批准的内容；Google此前已下架了大部分应用。Meta表示已对11,600个广告账户采取行动，并禁止209款应用投放广告。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cientos de apps de AI ocultan\nfunciones de deepfakes abusivos",
+          "body": "WIRED halló unas 400 apps y sitios que simulan ser herramientas de AI comunes y ocultan funciones de deepfakes sexuales.",
+          "mini_headline": "Deepfakes ocultos en apps de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Una investigación de WIRED encontró una red de más de 400 dominios y apps conectados que a menudo dicen ser servicios cotidianos, como retratos de mascotas, clases de idiomas o entrenadores de ejercicio con AI. Cuando se accede a ellos en ciertas condiciones, cargan de forma encubierta una interfaz web para generar imágenes y videos sexuales explícitos con AI a partir de las fotos que suben los usuarios."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores encontraron la red siguiendo los enlaces de miles de anuncios de video con deepfakes explícitos en Facebook e Instagram, que llevaban a apps de las tiendas de Apple y Google. “Se trata de una operación organizada y gestionada comercialmente”, dice Paul Bouchaud, de AI Forensics. En un momento dado se registraban unas 30 apps-websites cada semana; 27 estaban disponibles en Google Play en septiembre, con más de 350,000 descargas."
+              },
+              {
+                "t": "p",
+                "x": "Las apps parecen estar gestionadas por desarrolladores chinos y una entidad de Hong Kong, KeLing Technology Limited, que no respondió. Apple retiró 19 apps y afirma que los desarrolladores cambiaron el contenido aprobado después de la revisión; Google ya había retirado la mayoría de las apps. Meta afirma que actuó contra 11,600 cuentas publicitarias y bloqueó la publicidad de 209 apps."
               }
             ]
           }

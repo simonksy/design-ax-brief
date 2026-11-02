@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-02",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "microsoft-ai-ad-guidelines",
-      "type": "image",
-      "src": "pipeline/media/microsoft-ai-ad-guidelines.jpg"
-    },
-    {
-      "id": "bing-copilot-overview-ads",
-      "type": "image",
-      "src": "pipeline/media/bing-copilot-overview-ads.jpg"
-    },
-    {
-      "id": "shopify-agent-commission",
-      "type": "image",
-      "src": "pipeline/media/shopify-agent-commission.jpg"
-    },
-    {
-      "id": "starbucks-ai-drivethru-menu",
-      "type": "image",
-      "src": "pipeline/media/starbucks-ai-drivethru-menu.jpg"
-    },
-    {
-      "id": "chatgpt-ads-26-countries",
-      "type": "image",
-      "src": "pipeline/media/chatgpt-ads-26-countries.png"
-    }
-  ]
-}
+{"date":"2026-11-03","section":"marketing","media":[
+{"id":"sej-chatgpt-ad-revenue-per-visit","type":"image","src":"pipeline/media/sej-chatgpt-ad-revenue-per-visit.jpg"},
+{"id":"amazon-alexa-shopping-400m","type":"image","src":"pipeline/media/amazon-alexa-shopping-400m.jpeg"},
+{"id":"google-ads-strategist-ai-personas","type":"image","src":"pipeline/media/google-ads-strategist-ai-personas.jpg"},
+{"id":"svedka-superbowl-consumer-contest","type":"video","src":"pipeline/media/svedka-superbowl-consumer-contest.mp4","poster":"pipeline/media/svedka-superbowl-consumer-contest.jpg"},
+{"id":"clarity-ai-agent-checkout","type":"image","src":"pipeline/media/clarity-ai-agent-checkout.jpg"}
+]}

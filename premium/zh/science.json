@@ -9126,6 +9126,119 @@
           "x": "用稀土金属替换部分金属后，材料具有了磁性，有望拓宽其在能源和数据存储领域的用途。领导该团队的Johanna Rosén表示：“文献和数据库是宝库。”该研究发表于Science。"
         }
       ]
+    },
+    "science/snu-rise-humanoid-vla": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+          "cap": "一台真实的人形机器人借助RISE完成连续多步骤任务。来源：Seoul National University College of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "首尔大学Songhwai Oh教授领导的研究团队开发了RISE（Responsibility-Induced Specialized Experts），这是一种面向人形机器人的视觉-语言-动作框架。它从分别采集的行走数据和物体操作数据中学习，因此无需在行走与操作物体之间切换的完整多步骤任务演示。"
+        },
+        {
+          "t": "p",
+          "x": "RISE采用一个共享的视觉-语言模型、多个动作专家和一个元控制器。各专家按其预测动作的准确程度获得权重，从而自行分化专长；专家权重的变化则提示何时进入下一个任务阶段。"
+        },
+        {
+          "t": "p",
+          "x": "在仿真中，RISE的平均成功率为87.3%，而GR00T-based（基于GR00T）的单专家基线为73.6%。在配备两只Dex3-1灵巧手的真实Unitree G1机器人上，RISE在二至五阶段任务中的平均成功率为50.0%，基线为30.0%，且阶段越多优势越大。该研究已被IROS 2026接收；团队认为它可用于物流、制造、医院、护理和家居整理。"
+        }
+      ]
+    },
+    "science/oxford-pvdc-hard-carbon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+          "cap": "PVDC分解高温原子模拟的艺术化呈现。来源：Litong Wu & Volker Deringer"
+        },
+        {
+          "t": "p",
+          "x": "牛津大学研究人员利用机器学习驱动的原子尺度模拟，追踪了非石墨化碳的经典前驱体聚偏二氯乙烯（PVDC）在加热时转变为硬碳的过程。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+          "cap": "PVDC的分解方式：氯原子脱离碳链，形成氯化氢。"
+        },
+        {
+          "t": "p",
+          "x": "氢和氯的脱除产生活性碳位点，这些位点形成新的碳–碳键，并构成延展的网络。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+          "cap": "模拟快照显示六元碳环随时间连接成延展网络。"
+        },
+        {
+          "t": "p",
+          "x": "与石墨不同，这一网络含有五元环和七元环，它们引入曲率，阻碍有序石墨层的形成。该研究发表于Chemical Science（DOI: 10.1039/d6sc05974k），作者已公开研究数据。"
+        }
+      ]
+    },
+    "science/chalmers-gnn-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+        },
+        {
+          "t": "p",
+          "x": "哥德堡大学和查尔姆斯理工大学的研究人员展示了一种用于表面码量子纠错的模块化神经解码器，可跨硬件架构、不同噪声特征和多块逻辑操作迁移。他们使用IBM Quantum的Nighthawk r1代（ibm_berlin）以及Google Quantum AI低于阈值的Sycamore处理器数据进行了验证。"
+        },
+        {
+          "t": "p",
+          "x": "该框架在存储实验中优于最小权重完美匹配（MWPM），能解码真实的双块ZZ-merge晶格手术操作，同时只需一块商用GPU即可训练。与AlphaQubit稠密的循环Transformer模块不同，它由共享的局部图神经网络处理3×3×2的小型时空簇，经卷积层粗粒化后再由GRU在时间上整合，在距离d = 3, 5, 7和9下参数量都保持在约两三百万。"
+        },
+        {
+          "t": "p",
+          "x": "实时应用需要亚微秒级推理，可能需将GNN-RNN架构编译到FPGA或ASIC加速器上。预印本已发布在arXiv，开源模型和训练脚本见GitHub。"
+        }
+      ]
+    },
+    "science/sentira-10x-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10x Genomics正在推出Sentira Single Cell，这是一款基于Anthropic的Claude模型、面向Chromium用户的云端智能体分析应用。首席技术官Michael Schnall-Levin表示，单细胞分析一直存在“最后一公里问题”；有了Sentira，“以前可能要花几周的工作，现在可能只需几小时”。"
+        },
+        {
+          "t": "p",
+          "x": "该应用构建于10x Cloud之上，研究人员可在聊天界面中提问，脚本和分析代码则在后端编写。10x并未训练自有LLM，客户数据也不会回流到模型中。Sentira空间版已于几周前推出。"
+        },
+        {
+          "t": "p",
+          "x": "定价采用积分制：每次智能体会话约需12积分，一次完整分析约60积分；用户的首个Chromium数据集可获得100个促销积分。Schnall-Levin提醒，这些工具并不完美：“人仍然要为此负责。”"
+        }
+      ]
+    },
+    "science/mutexagpt-enzyme-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
+          "cap": "MutexaGPT的设计。来源：Nature Computational Science (2026)。"
+        },
+        {
+          "t": "p",
+          "x": "Vanderbilt化学家Zhongyue (John) Yang及其同事开发了AI工具MutexaGPT，让研究人员用通俗语言描述想要的酶改造，并以基于直觉的需求作为输入。"
+        },
+        {
+          "t": "p",
+          "x": "该工具借助大语言模型智能体追问缺失信息，构建基于物理的酶模型，预测突变，并把结果转化为可执行的设计方案。其目标是加快至今仍严重依赖昂贵试错的酶工程。"
+        },
+        {
+          "t": "p",
+          "x": "潜在用途包括食品加工用的低温活性酶、在冷水中起效的洗涤剂，以及更高效的药物生产。Yang表示：“我们使用AI并不是为了在没有人的情况下更高效地把事情做完。”该研究发表于Nature Computational Science。"
+        }
+      ]
     }
   }
 }

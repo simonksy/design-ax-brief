@@ -3182,6 +3182,125 @@
           "x": "El estudio muestra que la forma en que recomienda la AI conversacional puede influir más en las decisiones de los consumidores que la simple exposición en la parte superior de los resultados de búsqueda. Dado que el efecto persuasivo se mantiene en buena medida incluso con etiqueta de anuncio y que a los usuarios les cuesta detectar la inducción publicitaria, la transparencia publicitaria y la protección de los usuarios en los servicios de compra con AI se perfilan como retos principales."
         }
       ]
+    },
+    "marketing/amazon-alexa-shopping-400m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Durante su llamada de resultados del tercer trimestre fiscal, Amazon dijo que más de 400 millones de clientes han usado Alexa for Shopping en los últimos 12 meses, frente a 350 millones a finales de julio. Los clientes que usan Alexa for Shopping gastan un 50% más que quienes no lo usan, según el CEO Andy Jassy."
+        },
+        {
+          "t": "p",
+          "x": "Amazon reportó ventas netas de $201.9 mil millones en el tercer trimestre, un 12% más. Amazon lanzó el asistente de compras con AI como Rufus en febrero de 2024 y en mayo lo rebautizó como Alexa for Shopping; antes de las fiestas anunció más de 100 nuevas funciones, como listas de regalos, registros y la gestión de Subscribe and Save."
+        },
+        {
+          "t": "p",
+          "x": "Amazon ha bloqueado que plataformas como ChatGPT y el agente de compras Muse de Meta extraigan datos de su sitio. \"Aunque prevemos trabajar con agentes horizontales, creemos que Alexa for Shopping va a ser el principal agente de compras que los clientes usen para comprar en Amazon\", dijo Jassy."
+        }
+      ]
+    },
+    "marketing/google-ads-strategist-ai-personas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-cloaked-O1oGKOSV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los Google Ads Strategists, que forman parte del Google Extended Workforce, usan fotos de perfil y nombres AI-generated cuando contactan a anunciantes. Joe Youngblood publicó en X: \"Google está usando personas AI-generated para los contactos de Google Ads\"."
+        },
+        {
+          "t": "p",
+          "x": "Después de que rechazara una llamada de un contratista de xWF, una hora más tarde le llegó un correo de una tal \"Kassy Garcia\" que decía ser Google Ads Strategist. No encontró nada en LinkedIn, y la herramienta de verificación de AI de Google mostró que la foto de perfil era AI-generated."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
+          "cap": "Correo electrónico"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/ai-headshot-lF5qcSfV.jpg",
+          "cap": "Retrato generado con AI"
+        },
+        {
+          "t": "p",
+          "x": "La documentación de Google indica que sus representantes siempre tienen una dirección de correo que termina en @xwf.google.com. Search Engine Roundtable preguntó a Google por esta práctica, pero no obtuvo respuesta."
+        }
+      ]
+    },
+    "marketing/svedka-superbowl-consumer-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/xjzikIA1P0-a1-NNHIzCTrqpdnyHJ5txBlFoqEmNKl0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp",
+          "cap": "El presentador de reality TV Andy Cohen entrevista a la mascota de Svedka para lanzar su concurso de anuncios del Super Bowl."
+        },
+        {
+          "t": "p",
+          "x": "Svedka cede a los consumidores el control de su próximo anuncio del Super Bowl y los reta a crear un comercial de 15 segundos (15-second) con su Vodka Water lista para beber. Los consumidores pueden enviar anuncios hasta el 1 de diciembre, y el ganador recibirá un premio de $500,000."
+        },
+        {
+          "t": "p",
+          "x": "El concurso llega después de que la marca generara polémica por usar inteligencia artificial para dar vida a su mascota fembot en su primer anuncio del Super Bowl. \"Oímos a mucha gente decir que podría hacerlo mejor. Y dimos la bienvenida al debate\", dijo Sara Saunders, presidenta de grupo y CMO de Sazerac. Un kit de herramientas digital permite que las propuestas sean \"AI-led, hilarantemente de bajo presupuesto, inesperadamente cinematográficas o creativamente ambiciosas\"."
+        },
+        {
+          "t": "video",
+          "yt": "pdZLcOF71Is"
+        },
+        {
+          "t": "p",
+          "x": "Andy Cohen, que recuerda que el anuncio anterior fue calificado de \"audaz, extraño y una pesadilla distópica\", ayudará a evaluar las propuestas. El spot del Super Bowl LX lo produjo el laboratorio de innovación en AI Silverside."
+        }
+      ]
+    },
+    "marketing/clarity-ai-agent-checkout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Clarity publicó el 29 de octubre de 2026 un análisis de más de 5.2 millones de sesiones web con agentes de AI, registradas en 230,511 proyectos de Clarity entre el 13 de agosto y el 9 de septiembre de 2026. El pago se registró en el 25.21% de ellas, frente al 14.65% de las sesiones solo humanas en los mismos sitios."
+        },
+        {
+          "t": "p",
+          "x": "Los clics salientes encabezan la lista humana con un 26.99%, pero solo alcanzan el 14.28% de las sesiones agénticas; los envíos de formularios están cerca, con 19.85% y 18.56%. Book appointment (8.42%) y Check availability (2.41%) entraron en el top diez agéntico, pero no en el humano."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft afirma que una sesión agéntica puede incluir un traspaso a una persona que no puede separar, por lo que los resultados \"no son necesariamente acciones completadas de forma autónoma por un agente\". Según el cálculo de PPC Land, los porcentajes implican una base de unos 1.22 millones de sesiones, no 5.2 millones. Microsoft también puso su Agent Activity Dashboard a disposición general."
+        }
+      ]
+    },
+    "marketing/microsoft-ai-ad-guidelines": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/microsoft-advertising-ai-messaging-guidelines-40-cards-typewriter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising empezó el 28 de octubre de 2026 a permitir que los anunciantes den a su AI hasta 40 pautas escritas sobre lo que el texto publicitario generado debe y no debe decir, en un piloto abierto anunciado junto con la disponibilidad general de su Conversions API y nuevos informes de términos de búsqueda para las campañas Performance Max."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo flujo AI-powered de creación de campañas permite a los anunciantes primerizos compartir \"materiales como planes de marketing, guías de marca e imágenes de producto\" junto con su sitio; el sistema los convierte en \"una instantánea editable de tu negocio\" que determina cómo la AI construye una primera campaña Performance Max."
+        },
+        {
+          "t": "p",
+          "x": "Las pautas de mensajes están en piloto abierto para Performance Max y para campañas de Search con AI Max activado. Microsoft recomienda usarlas para \"reglas más amplias sobre afirmaciones, temas, conceptos, tono o lenguaje que evitar\" – su ejemplo es un minorista de gama alta que añade \"Nunca insinúes que los productos son de bajo costo\" – y también pueden aportar \"redacción, temas o tono de voz preferidos\". El límite de 40 coincide con las pautas de texto de Google (Google's text guidelines)."
+        },
+        {
+          "t": "p",
+          "x": "Performance Max también incorpora segmentación por edad y género, informes de términos de búsqueda y de subastas (auction insights), y pilotos de exclusiones de audiencia; los informes de páginas de destino por término de búsqueda empiezan a desplegarse a mid-November (mediados de noviembre). La Conversions API ya está disponible de forma general, con socios como Adobe Real-Time CDP, Segment by Twilio, Tealium y Zeotap."
+        }
+      ]
     }
   }
 }

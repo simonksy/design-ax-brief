@@ -4442,6 +4442,118 @@
           "x": "ジミー・パトロニス(Jimmy Patronis)下院議員(R-Fla.)は、この大統領令の法制化を目指している。"
         }
       ]
+    },
+    "politics/bellingcat-ai-superpac-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ユタ州の民主党下院候補Ben McAdamsのオンライン広告は、彼が「MAGAに反撃した」とうたった。テキサス州では別の広告が共和党候補Chris Goberを「MAGAの戦士」と呼んだ。どちらも最終的には、AIのイノベーションを「制約する」規制に反対するSuper PACネットワーク、Leading the Future(LTF)の資金で賄われていた。FECへの届け出によると、LTFはOpenAI社長のGreg Brockman、妻のAnna Brockman、Andreessen Horowitz(a16z)とa16zの創業者たちからUS$125 million を受け取っている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+          "cap": "出典：Think Big / Google Ad Transparency Center"
+        },
+        {
+          "t": "p",
+          "x": "LTFと真っ向から対立するのがPublic First Action(PFA)で、AI安全規制を求め、Anthropicから$40 million を受け取っている。PFAが資金を出したSuper PACsも、狙う有権者に応じてTrumpを支持または批判するように見える広告を流した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+          "cap": "Leading the Future、Public First PAC、Public First Actionの支出。グラフィック：Bellingcat"
+        },
+        {
+          "t": "p",
+          "x": "BellingcatはGoogle Ad Transparency Centerにある300件超のオンライン動画広告キャンペーンを分析した。対象は40人の候補者を支持または批判するものだ。AIに触れていたのは二人の候補者を支持・批判する広告だけで、データセンターに言及したものは一つもなかった。PFAの担当者は、連携するPACsが「有権者にとって最も差し迫った問題について」広告を出していると述べた。LTFとその傘下のPACsは掲載時点で回答していない。"
+        }
+      ]
+    },
+    "politics/germany-sovereign-ai-taskforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+          "cap": "ドイツでのAI開発を加速させるため、政府は「戦略的アンカー顧客」の役割を担う計画だ。 | Tobias Schwarz/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "政府のAI作業部会がまとめ、国家安全保障会議に提出される予定の報告書によると、ドイツは2030年までに「主権AI国家」となり、U.S.（米国）と中国の主要なAI拠点との差を縮めるべきだという。報告書は「したがって、今後12〜18カ月が針路を定めるうえで決定的になる」と記している。"
+        },
+        {
+          "t": "p",
+          "x": "ドイツは世界トップクラスのモデルへのアクセスを確保しつつ、とりわけフランスやカナダとの協力拡大を通じて欧州の代替手段を強化したい考えだ。「AI made in Germany」は「高度に特化したモデル」を用いた産業向けAIに注力することで際立つべきだとしている。政府は「戦略的アンカー顧客」として、公共調達やパイロット事業を活用し、欧州のAI事業者の市場参入を後押しする計画だ。"
+        },
+        {
+          "t": "p",
+          "x": "この青写真は18の施策を提案しているが、資金調達を含む重要な詳細が欠けている。政府は2030年までに、大企業の少なくとも80%とSMEsの55%がAIを利用し、連邦機関の90%が少なくとも一つのAIアプリケーションを本番運用し、AIデータセンターの容量を2025年比で300%増やすことを目指す。"
+        }
+      ]
+    },
+    "politics/india-model-to-data-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "インド政府は、海外のモデル開発企業(model-makers)には自国の課題に取り組む動機も、データ所有者の主導権を守る動機もないと考え、AIモデルを国内データで学習させたい考えだ。電子情報技術省(MeitY)は「Data Empowerment and Protection Architecture (DEPA) for AI Training」を提案している。首席科学顧問Ajay Kumar Soodの説明によれば、DEPAとは「データがモデルのもとへ行くのではなく、モデルがデータのもとへ行く」ことを意味する。"
+        },
+        {
+          "t": "p",
+          "x": "病院、銀行、政府機関などの「Training Data Providers」(学習データ提供者)は、匿名化・暗号化したデータを「Data Exchange Platform」で共有し、「Training Data Consumers」(学習データ利用者)はそこにある「hardware-based Secure Data Environments」の中でモデルを学習させる。差分プライバシーが適用され、すべての活動は監査のため改変できない形で記録される。"
+        },
+        {
+          "t": "p",
+          "x": "MeitYによると、DEPAは分断された医療データを活用可能にし、十分な金融サービスを受けていない400 million の個人やMSMEsに正規の信用供与を広げられる可能性がある。DEPAの実現にどれほどの作業が残っているかは不明だ。"
+        }
+      ]
+    },
+    "politics/wired-hidden-deepfake-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+          "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "WIREDの調査で、ペットの肖像画、語学レッスン、AIワークアウトコーチといった日常的なサービスを装うことが多い、相互につながった400を超えるドメインとアプリのネットワークが見つかった。特定の条件でアクセスすると、ユーザーがアップロードした写真から露骨なAI性的画像や動画を生成するウェブインターフェースをひそかに読み込む。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らは、FacebookとInstagramに出された数千件の露骨なディープフェイク動画広告のリンクをたどってこのネットワークを発見した。リンク先はAppleとGoogleのストアにあるアプリだった。AI ForensicsのPaul Bouchaudは「これは組織的かつ商業的に運営されている事業だ」と話す。一時は毎週約30のアプリ・ウェブサイト(apps-websites)が登録され、九月には27本がGoogle Playで公開されており、ダウンロード数は350,000を超えていた。"
+        },
+        {
+          "t": "p",
+          "x": "これらのアプリは中国の開発者と香港の法人KeLing Technology Limitedが運営しているとみられ、同社は回答しなかった。Appleは19本のアプリを削除し、開発者が審査後に承認済みのコンテンツを差し替えたと説明している。Googleはすでにほとんどのアプリを削除していた。Metaは11,600の広告アカウントに対処し、209本のアプリの広告出稿をブロックしたという。"
+        }
+      ]
+    },
+    "politics/politics-cma-meta-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Metaのプラットフォームやサービスを利用する企業向けの商業規約が競争法に違反するかどうかについて調査を開始した。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは11月20日にこの規約を改定する予定だったが、現在は保留している。規約が適用されれば、Metaはサービスを利用する企業や出版社のウェブサイトからコンテンツを収集し、AI機能を含む自社の製品やサービスの開発・提供に使えるようになる可能性がある。その際、企業側にはコンテンツを使わせるかどうか、どう使わせるかを選ぶ余地がない。"
+        },
+        {
+          "t": "p",
+          "x": "CMAは、これが数千のUK企業に不公正な取引条件を違法に課すことになりかねないと懸念している。News Media AssociationやMovement for an Open Webなどの関係者から懸念が寄せられたことを受け、CMAは競争法(Competition Act 1998)に基づく権限を行使しており、Metaが支配的地位にあるか、ある場合はその規約が地位の濫用にあたるかを評価する。"
+        },
+        {
+          "t": "p",
+          "x": "その後Metaは10月28日、業界団体との協議を待つ間、商業規約の導入を一時停止すると発表した。調査は始まったばかりであり、Metaが法律に違反したかどうかはまだ判断されていない。"
+        }
+      ]
     }
   }
 }

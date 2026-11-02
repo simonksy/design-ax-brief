@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "medicine",
   "cards": [
     {
-      "id": "galaxywatch-apnea-mfds",
-      "source_lang": "ko",
+      "id": "athenahealth-claude-records",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "갤럭시 워치 수면 무호흡\n중증도 판별 식약처 허가",
-      "body": "삼성 갤럭시 워치가 시간당 호흡 장애 횟수로 수면 무호흡 중증도를 구분하게 됐다.",
-      "mini_headline": "워치 무호흡\n식약처 허가",
+      "headline": "athenahealth,\n환자 기록을 Claude에",
+      "body": "athenahealth가 환자 건강 기록을 Claude에 연결해 묻게 했다.",
+      "mini_headline": "Claude 속 athenahealth 기록",
       "tool": "Medicine",
-      "source": "메디게이트뉴스",
-      "url": "https://medigatenews.com/news/1453068542",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,345 +19,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://medigatenews.com/file/news/537386",
-            "cap": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 수면 건강을 더욱 체계적으로 관리할 수 있도록 지원한다. 사진=삼성전자"
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+            "cap": "AI 통합 요소와 의료 아이콘이 표시된 헬스케어 기술 인터페이스"
           },
           {
             "t": "p",
-            "x": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 식품의약품안전처(MFDS) 허가를 획득했다고 28일 밝혔다. 이번에 허가받은 신규 기능은 AI 알고리즘을 기반으로 수면 중 시간당 호흡 장애 횟수를 정밀 분석한다. 기존 기능은 수면 무호흡 징후의 유무만 감지했지만, 고도화된 기능은 사용자의 호흡 장애 수준을 경미, 가끔, 자주 등 3단계로 세분화해 분석한다."
+            "x": "전자건강기록 기업 athenahealth가 Anthropic의 Claude를 시작으로 외부 AI 어시스턴트에 환자 건강 기록을 연다. 새 연결 방식은 환자의 임상 데이터를 근거로 맞춤형 답변을 내도록 설계됐다."
           },
           {
             "t": "p",
-            "x": "수면 무호흡증은 수면 중 호흡이 반복적으로 멈추거나 감소하는 질환으로, 고혈압, 부정맥, 뇌졸중 등 다양한 합병증을 유발할 수 있다. 미국 국립수면재단에 따르면 미국 남성의 약 25%, 여성의 10%가 수면 무호흡증을 겪고 있으나, 상당수는 이를 인지하지 못한다."
+            "x": "새 서버 솔루션 athenaPatient MCP는 Model Context Protocol로 Claude를 athenaOne 플랫폼에 직접 잇는다. 환자는 athenahealth 환자 포털 계정 정보로 인증하고, Claude가 볼 수 있는 정보를 스스로 정한다. 계정 정보는 Claude와 공유되지 않고, 환자는 언제든 접근 권한을 거둘 수 있다."
           },
           {
             "t": "p",
-            "x": "사용자는 삼성 헬스 모니터 앱을 통해 해당 기능을 이용할 수 있으며, 최소 5시간 이상의 수면을 10일 이내에 두 차례 측정하면 수면 무호흡 징후를 발견할 수 있다. 이 기능은 수면 무호흡증 진단 이력이 없는 만 18세 이상을 대상으로 하며, 전문적인 의료 진단 및 상담을 대체하지 않는다."
+            "x": "미국(U.S.)의 Claude Pro·Max 사용자는 Claude 설정에서 athenaPatient MCP 커넥터를 추가하면 된다. 환자가 허락하면 Claude는 검사 결과, 복용 약물, 활력징후, 건강 상태, 진단 보고서, 예방접종, 진료 이력, 알레르기, 시술, 치료 계획을 참고한다."
           },
           {
             "t": "p",
-            "x": "새로운 기능은 국내에서 11월부터 갤럭시 워치 울트라2, 워치9, 갤럭시 링에서 먼저 제공되고, 이후 웨어(Wear) OS 7.0 이상을 탑재한 갤럭시 워치7, 워치8 등 기존 모델로 순차 확대된다. 삼성전자 MX사업부 헬스개발그룹 최종민 상무는 \"수면 무호흡은 일상 속에서 알아채기 어려운 징후\"라고 말했다."
+            "x": "athenahealth의 최고제품운영책임자 Paul Brient는 환자 정보를 모델 학습에 쓰지 않는 AI 어시스턴트에만 athenaPatient MCP 접근을 열어 줄 방침이다. 그는 “Claude는 우리가 athenaPatient MCP에서 처음 활성화한 연결이지만, 유일한 연결로 둘 생각은 없다”고 했다."
           },
           {
             "t": "p",
-            "x": "삼성전자의 수면 무호흡 기능은 2023년 9월 식약처의 소프트웨어 의료기기(SaMD) 허가, 2024년 2월 미국 FDA '드 노보(De Novo)' 승인, 2025년 브라질 ANVISA 승인을 받았으며, 현재 전 세계 84개국에서 제공되고 있다."
+            "x": "Pew Research Center의 팔월 조사에서는 미국(U.S.) 성인 셋 중 한 명 이상(34%)이 건강 문제로 AI 어시스턴트를 써 본 적이 있었다. Brient는 임상의에게 일을 더 얹으려는 게 아니라며 “환자가 어떤 AI 어시스턴트를 쓸지 정하는 것은 우리의 일이 아니다”라고 말했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "갤럭시 워치 수면 무호흡\n중증도 판별 식약처 허가",
-          "body": "삼성 갤럭시 워치가 시간당 호흡 장애 횟수로 수면 무호흡 중증도를 구분하게 됐다.",
-          "mini_headline": "워치 무호흡\n식약처 허가",
+        "en": {
+          "headline": "athenahealth opens patient\nrecords to Claude",
+          "body": "athenahealth is letting patients bring their own health records into Claude to ask questions about them.",
+          "mini_headline": "athenahealth records in Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 수면 건강을 더욱 체계적으로 관리할 수 있도록 지원한다. 사진=삼성전자"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "healthcare technology interface with AI integration and medical icons"
               },
               {
                 "t": "p",
-                "x": "삼성전자가 갤럭시 워치를 활용한 수면 무호흡(Sleep Apnea) 기능을 고도화해 식품의약품안전처(MFDS) 허가를 획득했다고 28일 밝혔다. 이번에 허가받은 신규 기능은 AI 알고리즘을 기반으로 수면 중 시간당 호흡 장애 횟수를 정밀 분석한다. 기존 기능은 수면 무호흡 징후의 유무만 감지했지만, 고도화된 기능은 사용자의 호흡 장애 수준을 경미, 가끔, 자주 등 3단계로 세분화해 분석한다."
+                "x": "Electronic health record company athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new connection designed to give patients personalized answers based on their clinical data."
               },
               {
                 "t": "p",
-                "x": "수면 무호흡증은 수면 중 호흡이 반복적으로 멈추거나 감소하는 질환으로, 고혈압, 부정맥, 뇌졸중 등 다양한 합병증을 유발할 수 있다. 미국 국립수면재단에 따르면 미국 남성의 약 25%, 여성의 10%가 수면 무호흡증을 겪고 있으나, 상당수는 이를 인지하지 못한다."
+                "x": "The new server solution, athenaPatient MCP, uses the Model Context Protocol to connect Claude directly with the athenaOne platform. Patients authenticate using their athenahealth patient portal credentials and decide what information Claude can access. Credentials are not shared with Claude, and patients can revoke access at any time."
               },
               {
                 "t": "p",
-                "x": "사용자는 삼성 헬스 모니터 앱을 통해 해당 기능을 이용할 수 있으며, 최소 5시간 이상의 수면을 10일 이내에 두 차례 측정하면 수면 무호흡 징후를 발견할 수 있다. 이 기능은 수면 무호흡증 진단 이력이 없는 만 18세 이상을 대상으로 하며, 전문적인 의료 진단 및 상담을 대체하지 않는다."
+                "x": "Claude Pro and Max users in the U.S. can add the athenaPatient MCP connector within their Claude settings. With a patient’s permission, Claude can reference lab results, medications, vitals, health conditions, diagnostic reports, immunizations, visit history, allergies, procedures and care plans."
               },
               {
                 "t": "p",
-                "x": "새로운 기능은 국내에서 11월부터 갤럭시 워치 울트라2, 워치9, 갤럭시 링에서 먼저 제공되고, 이후 웨어(Wear) OS 7.0 이상을 탑재한 갤럭시 워치7, 워치8 등 기존 모델로 순차 확대된다. 삼성전자 MX사업부 헬스개발그룹 최종민 상무는 \"수면 무호흡은 일상 속에서 알아채기 어려운 징후\"라고 말했다."
+                "x": "The company will limit athenaPatient MCP access to AI assistants that do not use patient information to train their models, said Paul Brient, athenahealth's chief product and operations officer. \"Claude is the first connection we’ve enabled for athenaPatient MCP, but it's not intended to be the only one,\" he said."
               },
               {
                 "t": "p",
-                "x": "삼성전자의 수면 무호흡 기능은 2023년 9월 식약처의 소프트웨어 의료기기(SaMD) 허가, 2024년 2월 미국 FDA '드 노보(De Novo)' 승인, 2025년 브라질 ANVISA 승인을 받았으며, 현재 전 세계 84개국에서 제공되고 있다."
+                "x": "More than a third of U.S. adults (34%) have used AI assistants for health-related purposes, according to an August Pew Research Center survey. Brient said the goal was not to create additional work for clinicians: \"It's not our job to decide which AI assistant patients should use.\""
               }
             ]
           }
         },
-        "en": {
-          "headline": "Galaxy Watch gets MFDS nod\nto grade sleep apnea severity",
-          "body": "Samsung's Galaxy Watch can now grade sleep apnea severity by counting breathing disruptions per hour.",
-          "mini_headline": "Watch apnea\nMFDS approval",
+        "ko": {
+          "headline": "athenahealth,\n환자 기록을 Claude에",
+          "body": "athenahealth가 환자 건강 기록을 Claude에 연결해 묻게 했다.",
+          "mini_headline": "Claude 속 athenahealth 기록",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronics has upgraded the Sleep Apnea feature on the Galaxy Watch to help users manage their sleep health more systematically. Photo=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "AI 통합 요소와 의료 아이콘이 표시된 헬스케어 기술 인터페이스"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics said on the 28th that it has upgraded the Sleep Apnea feature on the Galaxy Watch and obtained approval from the Ministry of Food and Drug Safety (MFDS). The newly approved feature uses an AI algorithm to analyze in detail the number of breathing disruptions per hour during sleep. Whereas the previous feature only detected whether signs of sleep apnea were present, the upgraded feature breaks the user's level of breathing disruption into 3 tiers: mild, occasional and frequent."
+                "x": "전자건강기록 기업 athenahealth가 Anthropic의 Claude를 시작으로 외부 AI 어시스턴트에 환자 건강 기록을 연다. 새 연결 방식은 환자의 임상 데이터를 근거로 맞춤형 답변을 내도록 설계됐다."
               },
               {
                 "t": "p",
-                "x": "Sleep apnea is a condition in which breathing repeatedly stops or decreases during sleep, and it can lead to various complications such as high blood pressure, arrhythmia and stroke. According to the U.S. National Sleep Foundation, about 25% of men and 10% of women in the U.S. have sleep apnea, but many of them are unaware of it."
+                "x": "새 서버 솔루션 athenaPatient MCP는 Model Context Protocol로 Claude를 athenaOne 플랫폼에 직접 잇는다. 환자는 athenahealth 환자 포털 계정 정보로 인증하고, Claude가 볼 수 있는 정보를 스스로 정한다. 계정 정보는 Claude와 공유되지 않고, 환자는 언제든 접근 권한을 거둘 수 있다."
               },
               {
                 "t": "p",
-                "x": "Users can access the feature through the Samsung Health Monitor app, and signs of sleep apnea can be detected by measuring at least 5 hours of sleep twice within 10 days. The feature is intended for people aged 18 or older with no prior sleep apnea diagnosis and does not replace professional medical diagnosis or consultation."
+                "x": "미국(U.S.)의 Claude Pro·Max 사용자는 Claude 설정에서 athenaPatient MCP 커넥터를 추가하면 된다. 환자가 허락하면 Claude는 검사 결과, 복용 약물, 활력징후, 건강 상태, 진단 보고서, 예방접종, 진료 이력, 알레르기, 시술, 치료 계획을 참고한다."
               },
               {
                 "t": "p",
-                "x": "In Korea, the new feature will first be offered from November on the Galaxy Watch Ultra2, Watch9 and Galaxy Ring, then gradually extended to existing models such as the Galaxy Watch7 and Watch8 running Wear OS 7.0 or later. Choi Jong-min, vice president of the Health Development Group in Samsung Electronics' MX Business, said, \"Sleep apnea is a sign that is hard to notice in daily life.\""
+                "x": "athenahealth의 최고제품운영책임자 Paul Brient는 환자 정보를 모델 학습에 쓰지 않는 AI 어시스턴트에만 athenaPatient MCP 접근을 열어 줄 방침이다. 그는 “Claude는 우리가 athenaPatient MCP에서 처음 활성화한 연결이지만, 유일한 연결로 둘 생각은 없다”고 했다."
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics' sleep apnea feature received software as a medical device (SaMD) approval from the MFDS in September 2023, U.S. FDA 'De Novo' authorization in February 2024 and approval from Brazil's ANVISA in 2025, and it is now available in 84 countries worldwide."
+                "x": "Pew Research Center의 팔월 조사에서는 미국(U.S.) 성인 셋 중 한 명 이상(34%)이 건강 문제로 AI 어시스턴트를 써 본 적이 있었다. Brient는 임상의에게 일을 더 얹으려는 게 아니라며 “환자가 어떤 AI 어시스턴트를 쓸지 정하는 것은 우리의 일이 아니다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Galaxy Watch\n無呼吸重症度判定が承認",
-          "body": "Galaxy Watchが時間当たりの呼吸障害回数で睡眠時無呼吸の重症度を見分ける。",
-          "mini_headline": "Watch無呼吸\n食薬処が承認",
+          "headline": "athenahealth、\n患者記録をClaudeに開放",
+          "body": "athenahealthは患者が健康記録をClaudeに持ち込み質問できるようにした。",
+          "mini_headline": "athenahealthの記録をClaudeで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronicsは、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、睡眠の健康をより体系的に管理できるよう支援する。写真=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "AI統合と医療アイコンを備えたヘルスケア技術のインターフェース"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronicsは28日、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、食品医薬品安全処(MFDS)の承認を取得したと明らかにした。今回承認された新機能は、AIアルゴリズムに基づき睡眠中の時間当たりの呼吸障害回数を精密に分析する。従来の機能は睡眠時無呼吸の兆候の有無のみを検知していたが、高度化した機能はユーザーの呼吸障害のレベルを軽度、時々、頻繁の3段階に細分化して分析する。"
+                "x": "電子カルテ企業のathenahealthは、患者の臨床データに基づく個別の回答を提供するよう設計した新たな接続を通じ、AnthropicのClaudeを皮切りに、外部のAIアシスタントへ患者の健康記録を開放する。"
               },
               {
                 "t": "p",
-                "x": "睡眠時無呼吸症は睡眠中に呼吸が繰り返し止まったり弱まったりする疾患で、高血圧、不整脈、脳卒中などさまざまな合併症を引き起こしうる。米国立睡眠財団によると、米国の男性の約25%、女性の10%が睡眠時無呼吸症を抱えているが、その多くは自覚していない。"
+                "x": "新たなサーバーソリューション「athenaPatient MCP」は、Model Context Protocolを使ってClaudeをathenaOneプラットフォームに直接接続する。患者はathenahealthの患者ポータルの認証情報で認証し、Claudeがアクセスできる情報を自ら決める。認証情報はClaudeと共有されず、患者はいつでもアクセスを取り消せる。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはSamsung Health Monitorアプリでこの機能を利用でき、5時間以上の睡眠を10日以内に二回測定すると睡眠時無呼吸の兆候を発見できる。この機能は睡眠時無呼吸症の診断歴がない満18歳以上を対象とし、専門的な医療診断や相談に代わるものではない。"
+                "x": "米国（U.S.）のClaude ProおよびMaxのユーザーは、Claudeの設定からathenaPatient MCPコネクタを追加できる。患者の許可があれば、Claudeは検査結果、服薬、バイタルサイン、健康状態、診断報告書、予防接種、受診歴、アレルギー、処置、ケアプランを参照できる。"
               },
               {
                 "t": "p",
-                "x": "新機能は韓国国内で11月からGalaxy Watch Ultra2、Watch9、Galaxy Ringで先行提供され、その後Wear OS 7.0以上を搭載したGalaxy Watch7、Watch8など既存モデルへ順次拡大される。Samsung Electronics MX事業部ヘルス開発グループのチェ・ジョンミン常務は「睡眠時無呼吸は日常の中で気づきにくい兆候だ」と述べた。"
+                "x": "athenahealthの最高製品・業務責任者であるPaul Brient氏によると、同社はathenaPatient MCPへのアクセスを、患者情報をモデルの学習に使わないAIアシスタントに限る。「ClaudeはathenaPatient MCPで最初に有効にした接続だが、唯一のものにするつもりはない」と同氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronicsの睡眠時無呼吸機能は、2023年9月に食薬処のソフトウェア医療機器(SaMD)承認、2024年2月に米国FDAの「De Novo」承認、2025年にブラジルANVISAの承認を受け、現在世界84カ国で提供されている。"
+                "x": "Pew Research Centerの八月の調査によると、米国（U.S.）の成人の三分の一超（34%）が健康関連の目的でAIアシスタントを利用したことがある。Brient氏は臨床医の仕事を増やすことが目的ではないとし、「患者がどのAIアシスタントを使うべきかを決めるのは我々の仕事ではない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Galaxy Watch\n呼吸暂停分级获食药处批准",
-          "body": "Samsung Galaxy Watch可按每小时呼吸障碍次数区分睡眠呼吸暂停严重程度。",
-          "mini_headline": "手表呼吸暂停\n食药处批准",
+          "headline": "athenahealth向\nClaude开放患者病历",
+          "body": "athenahealth让患者把自己的健康记录带入Claude并就此提问。",
+          "mini_headline": "athenahealth病历接入Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronics升级了基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，帮助用户更系统地管理睡眠健康。图片=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "融合AI与医疗图标的医疗科技界面"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics于28日表示，已升级基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，并获得食品药品安全处(MFDS)批准。此次获批的新功能基于AI算法，精确分析睡眠中每小时的呼吸障碍次数。原有功能只能检测是否存在睡眠呼吸暂停征兆，而升级后的功能可将用户的呼吸障碍程度细分为轻微、偶尔、频繁3个等级进行分析。"
+                "x": "电子健康记录公司athenahealth正通过一项新连接，向外部AI助手开放患者健康记录，首先从Anthropic的Claude开始；这项连接旨在根据患者的临床数据为其提供个性化解答。"
               },
               {
                 "t": "p",
-                "x": "睡眠呼吸暂停症是睡眠中呼吸反复停止或减弱的疾病，可引发高血压、心律失常、中风等多种并发症。据美国国家睡眠基金会数据，美国约25%的男性和10%的女性患有睡眠呼吸暂停症，但相当一部分人并未察觉。"
+                "x": "这一新的服务器解决方案名为athenaPatient MCP，利用Model Context Protocol将Claude与athenaOne平台直接相连。患者使用athenahealth患者门户的登录凭证进行身份验证，并自行决定Claude可以访问哪些信息。凭证不会与Claude共享，患者可随时撤销访问权限。"
               },
               {
                 "t": "p",
-                "x": "用户可通过Samsung Health Monitor应用使用该功能，在10日内两次测量至少5小时的睡眠，即可发现睡眠呼吸暂停征兆。该功能面向无睡眠呼吸暂停诊断史的18周岁以上人群，不能替代专业医疗诊断和咨询。"
+                "x": "美国（U.S.）的Claude Pro和Max用户可在Claude设置中添加athenaPatient MCP连接器。经患者许可，Claude可参考化验结果、用药、生命体征、健康状况、诊断报告、免疫接种、就诊记录、过敏、手术操作及护理计划。"
               },
               {
                 "t": "p",
-                "x": "新功能将于11月起在韩国率先登陆Galaxy Watch Ultra2、Watch9和Galaxy Ring，随后逐步扩展至搭载Wear OS 7.0及以上版本的Galaxy Watch7、Watch8等现有机型。Samsung Electronics MX事业部健康开发组常务崔钟敏表示：“睡眠呼吸暂停是日常生活中难以察觉的征兆。”"
+                "x": "athenahealth首席产品与运营官Paul Brient表示，公司只会向不使用患者信息训练模型的AI助手开放athenaPatient MCP访问。他说：“Claude是我们为athenaPatient MCP启用的第一个连接，但并不打算让它成为唯一的连接。”"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics的睡眠呼吸暂停功能已于2023年9月获得食药处软件医疗器械(SaMD)许可，2024年2月获得美国FDA“De Novo”批准，2025年获得巴西ANVISA批准，目前在全球84个国家提供。"
+                "x": "根据Pew Research Center八月的一项调查，超过三分之一（34%）的美国（U.S.）成年人曾将AI助手用于健康相关用途。Brient表示，目标并非给临床医生增加额外工作：“决定患者应该使用哪款AI助手，不是我们的职责。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Galaxy Watch obtiene aval MFDS\npara medir gravedad de apnea",
-          "body": "El Galaxy Watch de Samsung ya distingue la gravedad de la apnea del sueño según los trastornos respiratorios por hora.",
-          "mini_headline": "Apnea en Watch\naval del MFDS",
+          "headline": "athenahealth abre historiales\nde pacientes a Claude",
+          "body": "athenahealth permite a los pacientes llevar sus historiales de salud a Claude para hacerle preguntas sobre ellos.",
+          "mini_headline": "Los historiales de athenahealth en Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronics ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch para ayudar a gestionar la salud del sueño de forma más sistemática. Foto=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "interfaz de tecnología sanitaria con integración de AI e iconos médicos"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics anunció el día 28 que ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch y que obtuvo la aprobación del Ministerio de Seguridad de Alimentos y Medicamentos (MFDS). La nueva función aprobada analiza con precisión, mediante un algoritmo de AI, el número de trastornos respiratorios por hora durante el sueño. Mientras que la función anterior solo detectaba la presencia o ausencia de signos de apnea del sueño, la versión mejorada clasifica el nivel de trastorno respiratorio del usuario en 3 niveles: leve, ocasional y frecuente."
+                "x": "La empresa de historias clínicas electrónicas athenahealth abre los historiales de salud de los pacientes a asistentes de AI externos, empezando por Claude de Anthropic, mediante una nueva conexión diseñada para ofrecer a los pacientes respuestas personalizadas basadas en sus datos clínicos."
               },
               {
                 "t": "p",
-                "x": "La apnea del sueño es una enfermedad en la que la respiración se detiene o disminuye repetidamente durante el sueño, y puede causar diversas complicaciones, como hipertensión, arritmia e ictus. Según la Fundación Nacional del Sueño de Estados Unidos, alrededor del 25% de los hombres y el 10% de las mujeres de Estados Unidos padecen apnea del sueño, pero muchos no lo saben."
+                "x": "La nueva solución de servidor, athenaPatient MCP, utiliza el Model Context Protocol para conectar Claude directamente con la plataforma athenaOne. Los pacientes se autentican con sus credenciales del portal del paciente de athenahealth y deciden a qué información puede acceder Claude. Las credenciales no se comparten con Claude y los pacientes pueden revocar el acceso en cualquier momento."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden acceder a la función a través de la app Samsung Health Monitor y detectar signos de apnea del sueño si miden al menos 5 horas de sueño dos veces en un plazo de 10 días. La función está dirigida a personas de 18 años o más sin diagnóstico previo de apnea del sueño y no sustituye el diagnóstico ni la consulta médica profesional."
+                "x": "Los usuarios de Claude Pro y Max en Estados Unidos (U.S.) pueden añadir el conector athenaPatient MCP en la configuración de Claude. Con el permiso del paciente, Claude puede consultar resultados de laboratorio, medicamentos, constantes vitales, afecciones de salud, informes diagnósticos, vacunas, historial de visitas, alergias, procedimientos y planes de atención."
               },
               {
                 "t": "p",
-                "x": "En Corea, la nueva función se ofrecerá primero a partir de noviembre en el Galaxy Watch Ultra2, el Watch9 y el Galaxy Ring, y después se ampliará de forma progresiva a modelos existentes como el Galaxy Watch7 y el Watch8 con Wear OS 7.0 o superior. Choi Jong-min, vicepresidente del Grupo de Desarrollo de Salud de la división MX de Samsung Electronics, afirmó: \"La apnea del sueño es una señal difícil de notar en la vida diaria\"."
+                "x": "La empresa limitará el acceso a athenaPatient MCP a los asistentes de AI que no utilicen la información de los pacientes para entrenar sus modelos, dijo Paul Brient, director de producto y operaciones de athenahealth. «Claude es la primera conexión que hemos habilitado para athenaPatient MCP, pero no pretende ser la única», afirmó."
               },
               {
                 "t": "p",
-                "x": "La función de apnea del sueño de Samsung Electronics obtuvo la autorización como software de dispositivo médico (SaMD) del MFDS en septiembre de 2023, la aprobación 'De Novo' de la FDA de Estados Unidos en febrero de 2024 y la aprobación de ANVISA de Brasil en 2025, y actualmente está disponible en 84 países."
+                "x": "Más de un tercio (34%) de los adultos de Estados Unidos (U.S.) ha usado asistentes de AI con fines relacionados con la salud, según una encuesta de agosto del Pew Research Center. Brient dijo que el objetivo no era crear trabajo adicional para los clínicos: «No nos corresponde decidir qué asistente de AI deben usar los pacientes»."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Galaxy Watch gets MFDS nod\nto grade sleep apnea severity",
-          "body": "Samsung's Galaxy Watch can now grade sleep apnea severity by counting breathing disruptions per hour.",
-          "mini_headline": "Watch apnea\nMFDS approval",
+        "ko": {
+          "headline": "athenahealth,\n환자 기록을 Claude에",
+          "body": "athenahealth가 환자 건강 기록을 Claude로 가져와 묻게 했다.",
+          "mini_headline": "Claude 속 athenahealth 기록",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronics has upgraded the Sleep Apnea feature on the Galaxy Watch to help users manage their sleep health more systematically. Photo=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "AI 통합 요소와 의료 아이콘이 표시된 헬스케어 기술 인터페이스"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics said on the 28th that it has upgraded the Sleep Apnea feature on the Galaxy Watch and obtained approval from the Ministry of Food and Drug Safety (MFDS). The newly approved feature uses an AI algorithm to analyze in detail the number of breathing disruptions per hour during sleep. Whereas the previous feature only detected whether signs of sleep apnea were present, the upgraded feature breaks the user's level of breathing disruption into 3 tiers: mild, occasional and frequent."
+                "x": "전자건강기록 기업 athenahealth가 환자의 임상 데이터에 기반한 맞춤형 답변을 제공하도록 설계한 새 연결 방식을 통해, Anthropic의 Claude를 시작으로 외부 AI 어시스턴트에 환자 건강 기록을 개방한다."
               },
               {
                 "t": "p",
-                "x": "Sleep apnea is a condition in which breathing repeatedly stops or decreases during sleep, and it can lead to various complications such as high blood pressure, arrhythmia and stroke. According to the U.S. National Sleep Foundation, about 25% of men and 10% of women in the U.S. have sleep apnea, but many of them are unaware of it."
+                "x": "새 서버 솔루션 athenaPatient MCP는 Model Context Protocol을 이용해 Claude를 athenaOne 플랫폼에 직접 연결한다. 환자는 athenahealth 환자 포털 계정 정보로 인증하고, Claude가 접근할 수 있는 정보를 스스로 정한다. 계정 정보는 Claude와 공유되지 않으며, 환자는 언제든 접근 권한을 철회할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Users can access the feature through the Samsung Health Monitor app, and signs of sleep apnea can be detected by measuring at least 5 hours of sleep twice within 10 days. The feature is intended for people aged 18 or older with no prior sleep apnea diagnosis and does not replace professional medical diagnosis or consultation."
+                "x": "미국(U.S.)의 Claude Pro·Max 사용자는 Claude 설정에서 athenaPatient MCP 커넥터를 추가할 수 있다. 환자가 허락하면 Claude는 검사 결과, 복용 약물, 활력징후, 건강 상태, 진단 보고서, 예방접종, 진료 이력, 알레르기, 시술, 치료 계획을 참고할 수 있다."
               },
               {
                 "t": "p",
-                "x": "In Korea, the new feature will first be offered from November on the Galaxy Watch Ultra2, Watch9 and Galaxy Ring, then gradually extended to existing models such as the Galaxy Watch7 and Watch8 running Wear OS 7.0 or later. Choi Jong-min, vice president of the Health Development Group in Samsung Electronics' MX Business, said, \"Sleep apnea is a sign that is hard to notice in daily life.\""
+                "x": "athenahealth의 최고제품운영책임자 Paul Brient는 환자 정보를 모델 학습에 쓰지 않는 AI 어시스턴트에만 athenaPatient MCP 접근을 허용할 방침이라고 밝혔다. 그는 “Claude는 우리가 athenaPatient MCP에서 처음 활성화한 연결이지만, 유일한 연결로 둘 생각은 없다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics' sleep apnea feature received software as a medical device (SaMD) approval from the MFDS in September 2023, U.S. FDA 'De Novo' authorization in February 2024 and approval from Brazil's ANVISA in 2025, and it is now available in 84 countries worldwide."
+                "x": "Pew Research Center의 팔월 조사에 따르면 미국(U.S.) 성인 셋 중 한 명 이상(34%)이 건강 관련 목적으로 AI 어시스턴트를 써 본 적이 있다. Brient는 임상의에게 일을 더 얹으려는 것이 목표가 아니라며 “환자가 어떤 AI 어시스턴트를 쓸지 정하는 것은 우리의 일이 아니다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Galaxy Watch\n無呼吸重症度判定が承認",
-          "body": "Galaxy Watchが時間当たりの呼吸障害回数で睡眠時無呼吸の重症度を見分ける。",
-          "mini_headline": "Watch無呼吸\n食薬処が承認",
+          "headline": "athenahealth、\n患者記録をClaudeに開放",
+          "body": "athenahealthは患者が健康記録をClaudeに持ち込み質問できるようにした。",
+          "mini_headline": "athenahealthの記録をClaudeで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronicsは、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、睡眠の健康をより体系的に管理できるよう支援する。写真=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "AI統合と医療アイコンを備えたヘルスケア技術のインターフェース"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronicsは28日、Galaxy Watchを活用した睡眠時無呼吸(Sleep Apnea)機能を高度化し、食品医薬品安全処(MFDS)の承認を取得したと明らかにした。今回承認された新機能は、AIアルゴリズムに基づき睡眠中の時間当たりの呼吸障害回数を精密に分析する。従来の機能は睡眠時無呼吸の兆候の有無のみを検知していたが、高度化した機能はユーザーの呼吸障害のレベルを軽度、時々、頻繁の3段階に細分化して分析する。"
+                "x": "電子カルテ企業のathenahealthは、患者の臨床データに基づく個別の回答を提供するよう設計した新たな接続を通じ、AnthropicのClaudeを皮切りに、外部のAIアシスタントへ患者の健康記録を開放する。"
               },
               {
                 "t": "p",
-                "x": "睡眠時無呼吸症は睡眠中に呼吸が繰り返し止まったり弱まったりする疾患で、高血圧、不整脈、脳卒中などさまざまな合併症を引き起こしうる。米国立睡眠財団によると、米国の男性の約25%、女性の10%が睡眠時無呼吸症を抱えているが、その多くは自覚していない。"
+                "x": "新たなサーバーソリューション「athenaPatient MCP」は、Model Context Protocolを使ってClaudeをathenaOneプラットフォームに直接接続する。患者はathenahealthの患者ポータルの認証情報で認証し、Claudeがアクセスできる情報を自ら決める。認証情報はClaudeと共有されず、患者はいつでもアクセスを取り消せる。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはSamsung Health Monitorアプリでこの機能を利用でき、5時間以上の睡眠を10日以内に二回測定すると睡眠時無呼吸の兆候を発見できる。この機能は睡眠時無呼吸症の診断歴がない満18歳以上を対象とし、専門的な医療診断や相談に代わるものではない。"
+                "x": "米国（U.S.）のClaude ProおよびMaxのユーザーは、Claudeの設定からathenaPatient MCPコネクタを追加できる。患者の許可があれば、Claudeは検査結果、服薬、バイタルサイン、健康状態、診断報告書、予防接種、受診歴、アレルギー、処置、ケアプランを参照できる。"
               },
               {
                 "t": "p",
-                "x": "新機能は韓国国内で11月からGalaxy Watch Ultra2、Watch9、Galaxy Ringで先行提供され、その後Wear OS 7.0以上を搭載したGalaxy Watch7、Watch8など既存モデルへ順次拡大される。Samsung Electronics MX事業部ヘルス開発グループのチェ・ジョンミン常務は「睡眠時無呼吸は日常の中で気づきにくい兆候だ」と述べた。"
+                "x": "athenahealthの最高製品・業務責任者であるPaul Brient氏によると、同社はathenaPatient MCPへのアクセスを、患者情報をモデルの学習に使わないAIアシスタントに限る。「ClaudeはathenaPatient MCPで最初に有効にした接続だが、唯一のものにするつもりはない」と同氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronicsの睡眠時無呼吸機能は、2023年9月に食薬処のソフトウェア医療機器(SaMD)承認、2024年2月に米国FDAの「De Novo」承認、2025年にブラジルANVISAの承認を受け、現在世界84カ国で提供されている。"
+                "x": "Pew Research Centerの八月の調査によると、米国（U.S.）の成人の三分の一超（34%）が健康関連の目的でAIアシスタントを利用したことがある。Brient氏は臨床医の仕事を増やすことが目的ではないとし、「患者がどのAIアシスタントを使うべきかを決めるのは我々の仕事ではない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Galaxy Watch\n呼吸暂停分级获食药处批准",
-          "body": "Samsung Galaxy Watch可按每小时呼吸障碍次数区分睡眠呼吸暂停严重程度。",
-          "mini_headline": "手表呼吸暂停\n食药处批准",
+          "headline": "athenahealth向\nClaude开放患者病历",
+          "body": "athenahealth让患者把自己的健康记录带入Claude并就此提问。",
+          "mini_headline": "athenahealth病历接入Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronics升级了基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，帮助用户更系统地管理睡眠健康。图片=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "融合AI与医疗图标的医疗科技界面"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics于28日表示，已升级基于Galaxy Watch的睡眠呼吸暂停(Sleep Apnea)功能，并获得食品药品安全处(MFDS)批准。此次获批的新功能基于AI算法，精确分析睡眠中每小时的呼吸障碍次数。原有功能只能检测是否存在睡眠呼吸暂停征兆，而升级后的功能可将用户的呼吸障碍程度细分为轻微、偶尔、频繁3个等级进行分析。"
+                "x": "电子健康记录公司athenahealth正通过一项新连接，向外部AI助手开放患者健康记录，首先从Anthropic的Claude开始；这项连接旨在根据患者的临床数据为其提供个性化解答。"
               },
               {
                 "t": "p",
-                "x": "睡眠呼吸暂停症是睡眠中呼吸反复停止或减弱的疾病，可引发高血压、心律失常、中风等多种并发症。据美国国家睡眠基金会数据，美国约25%的男性和10%的女性患有睡眠呼吸暂停症，但相当一部分人并未察觉。"
+                "x": "这一新的服务器解决方案名为athenaPatient MCP，利用Model Context Protocol将Claude与athenaOne平台直接相连。患者使用athenahealth患者门户的登录凭证进行身份验证，并自行决定Claude可以访问哪些信息。凭证不会与Claude共享，患者可随时撤销访问权限。"
               },
               {
                 "t": "p",
-                "x": "用户可通过Samsung Health Monitor应用使用该功能，在10日内两次测量至少5小时的睡眠，即可发现睡眠呼吸暂停征兆。该功能面向无睡眠呼吸暂停诊断史的18周岁以上人群，不能替代专业医疗诊断和咨询。"
+                "x": "美国（U.S.）的Claude Pro和Max用户可在Claude设置中添加athenaPatient MCP连接器。经患者许可，Claude可参考化验结果、用药、生命体征、健康状况、诊断报告、免疫接种、就诊记录、过敏、手术操作及护理计划。"
               },
               {
                 "t": "p",
-                "x": "新功能将于11月起在韩国率先登陆Galaxy Watch Ultra2、Watch9和Galaxy Ring，随后逐步扩展至搭载Wear OS 7.0及以上版本的Galaxy Watch7、Watch8等现有机型。Samsung Electronics MX事业部健康开发组常务崔钟敏表示：“睡眠呼吸暂停是日常生活中难以察觉的征兆。”"
+                "x": "athenahealth首席产品与运营官Paul Brient表示，公司只会向不使用患者信息训练模型的AI助手开放athenaPatient MCP访问。他说：“Claude是我们为athenaPatient MCP启用的第一个连接，但并不打算让它成为唯一的连接。”"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics的睡眠呼吸暂停功能已于2023年9月获得食药处软件医疗器械(SaMD)许可，2024年2月获得美国FDA“De Novo”批准，2025年获得巴西ANVISA批准，目前在全球84个国家提供。"
+                "x": "根据Pew Research Center八月的一项调查，超过三分之一（34%）的美国（U.S.）成年人曾将AI助手用于健康相关用途。Brient表示，目标并非给临床医生增加额外工作：“决定患者应该使用哪款AI助手，不是我们的职责。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Galaxy Watch obtiene aval MFDS\npara medir gravedad de apnea",
-          "body": "El Galaxy Watch de Samsung ya distingue la gravedad de la apnea del sueño según los trastornos respiratorios por hora.",
-          "mini_headline": "Apnea en Watch\naval del MFDS",
+          "headline": "athenahealth abre historiales\nde pacientes a Claude",
+          "body": "athenahealth permite a los pacientes llevar sus historiales de salud a Claude para hacerle preguntas sobre ellos.",
+          "mini_headline": "Los historiales de athenahealth en Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537386",
-                "cap": "Samsung Electronics ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch para ayudar a gestionar la salud del sueño de forma más sistemática. Foto=Samsung Electronics"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+                "cap": "interfaz de tecnología sanitaria con integración de AI e iconos médicos"
               },
               {
                 "t": "p",
-                "x": "Samsung Electronics anunció el día 28 que ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch y que obtuvo la aprobación del Ministerio de Seguridad de Alimentos y Medicamentos (MFDS). La nueva función aprobada analiza con precisión, mediante un algoritmo de AI, el número de trastornos respiratorios por hora durante el sueño. Mientras que la función anterior solo detectaba la presencia o ausencia de signos de apnea del sueño, la versión mejorada clasifica el nivel de trastorno respiratorio del usuario en 3 niveles: leve, ocasional y frecuente."
+                "x": "La empresa de historias clínicas electrónicas athenahealth abre los historiales de salud de los pacientes a asistentes de AI externos, empezando por Claude de Anthropic, mediante una nueva conexión diseñada para ofrecer a los pacientes respuestas personalizadas basadas en sus datos clínicos."
               },
               {
                 "t": "p",
-                "x": "La apnea del sueño es una enfermedad en la que la respiración se detiene o disminuye repetidamente durante el sueño, y puede causar diversas complicaciones, como hipertensión, arritmia e ictus. Según la Fundación Nacional del Sueño de Estados Unidos, alrededor del 25% de los hombres y el 10% de las mujeres de Estados Unidos padecen apnea del sueño, pero muchos no lo saben."
+                "x": "La nueva solución de servidor, athenaPatient MCP, utiliza el Model Context Protocol para conectar Claude directamente con la plataforma athenaOne. Los pacientes se autentican con sus credenciales del portal del paciente de athenahealth y deciden a qué información puede acceder Claude. Las credenciales no se comparten con Claude y los pacientes pueden revocar el acceso en cualquier momento."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden acceder a la función a través de la app Samsung Health Monitor y detectar signos de apnea del sueño si miden al menos 5 horas de sueño dos veces en un plazo de 10 días. La función está dirigida a personas de 18 años o más sin diagnóstico previo de apnea del sueño y no sustituye el diagnóstico ni la consulta médica profesional."
+                "x": "Los usuarios de Claude Pro y Max en Estados Unidos (U.S.) pueden añadir el conector athenaPatient MCP en la configuración de Claude. Con el permiso del paciente, Claude puede consultar resultados de laboratorio, medicamentos, constantes vitales, afecciones de salud, informes diagnósticos, vacunas, historial de visitas, alergias, procedimientos y planes de atención."
               },
               {
                 "t": "p",
-                "x": "En Corea, la nueva función se ofrecerá primero a partir de noviembre en el Galaxy Watch Ultra2, el Watch9 y el Galaxy Ring, y después se ampliará de forma progresiva a modelos existentes como el Galaxy Watch7 y el Watch8 con Wear OS 7.0 o superior. Choi Jong-min, vicepresidente del Grupo de Desarrollo de Salud de la división MX de Samsung Electronics, afirmó: \"La apnea del sueño es una señal difícil de notar en la vida diaria\"."
+                "x": "La empresa limitará el acceso a athenaPatient MCP a los asistentes de AI que no utilicen la información de los pacientes para entrenar sus modelos, dijo Paul Brient, director de producto y operaciones de athenahealth. «Claude es la primera conexión que hemos habilitado para athenaPatient MCP, pero no pretende ser la única», afirmó."
               },
               {
                 "t": "p",
-                "x": "La función de apnea del sueño de Samsung Electronics obtuvo la autorización como software de dispositivo médico (SaMD) del MFDS en septiembre de 2023, la aprobación 'De Novo' de la FDA de Estados Unidos en febrero de 2024 y la aprobación de ANVISA de Brasil en 2025, y actualmente está disponible en 84 países."
+                "x": "Más de un tercio (34%) de los adultos de Estados Unidos (U.S.) ha usado asistentes de AI con fines relacionados con la salud, según una encuesta de agosto del Pew Research Center. Brient dijo que el objetivo no era crear trabajo adicional para los clínicos: «No nos corresponde decidir qué asistente de AI deben usar los pacientes»."
               }
             ]
           }
@@ -365,15 +365,15 @@
       }
     },
     {
-      "id": "ama-clinical-ai-liability",
+      "id": "aha-wearable-bp-crisis",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "임상 AI 피해 책임\nAMA가 분담 기준 제시",
-      "body": "임상 AI 피해 책임을 개발사·의료기관·의사가 어떻게 나눌지 AMA가 정리했다.",
-      "mini_headline": "AMA 임상\nAI 책임론",
+      "headline": "웨어러블·AI로\nBP 위기 3일 전 감지",
+      "body": "AHA 초록에 따르면 AI가 혈압계·트래커로 혈압 위기를 최대 사흘 전 내다본다.",
+      "mini_headline": "AI로 BP 위기 예견",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
+      "source": "American Heart Association Newsroom",
+      "url": "https://newsroom.heart.org/news/wearable-devices-+-ai-analysis-may-predict-high-blood-pressure-crisis-up-to-3-days-early",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -381,149 +381,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+            "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+            "cap": "웨어러블 기기 - 진행 상황 확인"
           },
           {
             "t": "p",
-            "x": "미국의사협회(American Medical Association, AMA)는 목요일, 최근 내놓은 임상 AI 거버넌스 지침을 바탕으로 이 기술을 둘러싼 결정·행위·실패의 책임을 당사자별로 어떻게 나눌지 더 자세히 정리해 내놨다. AMA 산하 Center for Digital Health and AI가 만든 이 프레임워크는 기존 체계가 답하지 못한 책임 문제를 겨냥한다. AMA는 이 공백 탓에 의사는 \"합리적으로 막을 수 없는 위험에 대해 책임을 지는 반면, 환자는 AI가 피해를 일으켰을 때 구제를 받기 어려울 수 있다\"고 설명했다."
+            "x": "휴대용 커프형 혈압계와 손목에 차는 피트니스 트래커의 패턴을 AI로 분석하면 2기 고혈압 성인이 고혈압 위기(급성 표적 장기 손상을 동반한 >180/120 mm Hg)에 빠질 위험이 커지는 시점을 최대 사흘 앞서 짚어 내는 데 도움이 될 수 있다. American Heart Association(미국심장협회) Scientific Sessions 2026에서 발표될 예비 연구 결과다."
           },
           {
             "t": "p",
-            "x": "이 프레임워크는 \"문제가 생겼을 때 AI 사용에 대해 여러 당사자가 책임을 질 수 있음을 인정\"하고, 책임의 크기를 당사자마다 피해를 막을 수 있는 능력에 맞췄다. 의사는 \"시스템의 사용 목적, 알려진 한계, 진료 현장에서 얻을 수 있는 정보를 바탕으로 의미 있게 행사할 수 있는 임상적 판단에 책임을 져야\" 한다. 검증되지 않은 AI 시스템은 불이익 없이 거부할 수 있다."
+            "x": "참가자는 파키스탄 신드주(Sindh, Pakistan)의 한 병원을 찾은 40~85세 성인 4,190명으로, 2025년 일월부터 2026년 일월까지 추적 관찰했다. 12개월 동안 참가자 312명이 고혈압 위기를 418회 겪었다. 양성 경보를 받은 참가자 중 약 32%가 위기를 겪었고, 경보를 받지 않은 참가자는 97.4%가 위기 없이 지냈다."
           },
           {
             "t": "p",
-            "x": "AMA 회장 Willie Underwood III, M.D.는 \"AI가 더 많은 임상 기능을 맡게 되면서 개발사, 의료기관, 의사 모두 각자 중요한 책임을 진다\"고 말했다. 이번 책임 프레임워크는 AMA가 이달 초 공개한 더 넓은 임상 AI 거버넌스 프레임워크 가운데 한 측면을 구체화했다."
+            "x": "수면 중 혈압이 떨어지지 않으면 곧 위기가 닥칠 오즈가 다섯 배 가까이 높았다. 기상 후 35 mm Hg 넘게 오를 때는 네 배 가까이였다. 의사가 경보를 받고 24시간 안에 약물을 조정하자 위기는 약 61%, 응급실 방문은 약 45% 줄었다."
+          },
+          {
+            "t": "p",
+            "x": "주저자 Waleed Razzaq Chaudhry, M.D.는 “고혈압 위기 위험이 커진 것을 발생 며칠 전에 알아챌 수 있다면 더 일찍 치료할 기회가 생긴다”고 말했다. 이 초록은 동료 심사를 거치지 않았고, 결과도 아직 예비 단계다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AMA maps who is liable\nwhen clinical AI causes harm",
-          "body": "The AMA set out how developers, health systems and physicians should share liability when clinical AI causes harm.",
-          "mini_headline": "AMA on clinical\nAI liability",
+          "headline": "Wearables plus AI may flag\nBP crises 3 days early",
+          "body": "An AHA abstract says AI reading cuff and fitness-tracker data may predict hypertensive crisis up to three days ahead.",
+          "mini_headline": "AI may foresee BP crises",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "Wearable device - checking progress"
               },
               {
                 "t": "p",
-                "x": "Building on its recent guidance for clinical AI governance, the American Medical Association on Thursday gave a deeper breakdown of how different parties should be responsible for decisions, actions and failures involving the technology. The framework from AMA's Center for Digital Health and AI addresses liability issues it said existing frameworks leave unanswered, which could leave physicians facing \"liability for risks they cannot reasonably prevent, while patients may struggle to seek remedies when AI causes harm.\""
+                "x": "Using AI to analyze patterns from a portable cuff-based blood pressure monitor and a wrist-worn fitness tracker may help identify when adults with stage 2 high blood pressure are at increased risk of a hypertensive crisis (>180/120 mm Hg with acute end-organ damage) up to three days before it occurs, according to preliminary research to be presented at the American Heart Association’s Scientific Sessions 2026."
               },
               {
                 "t": "p",
-                "x": "The framework \"recognizes that multiple parties may bear liability for the use of AI when something goes wrong,\" aligning accountability with a party's ability to prevent harm. Physicians should \"be responsible for the clinical judgment they can meaningfully exercise, based on the system's intended use, known limitations and the information available at the point of care,\" and may decline an unproven AI system without penalty."
+                "x": "The study included 4,190 adults ages 40 to 85 at one hospital in Sindh, Pakistan, followed from January 2025 to January 2026. Over the 12 months, 312 participants experienced 418 hypertensive crises. Among participants with a positive alert, about 32% experienced a crisis, while 97.4% of those without an alert remained crisis-free."
               },
               {
                 "t": "p",
-                "x": "\"As AI assumes more clinical functions, developers, healthcare organizations and physicians each have important responsibilities,\" said AMA President Willie Underwood III, M.D. The liability framework details one aspect of a broader clinical AI governance framework AMA unveiled earlier this month."
+                "x": "Blood pressure that did not decrease during sleep meant nearly five times the odds of an upcoming crisis; a rise of more than 35 mm Hg after waking meant nearly four times the odds. When physicians received an alert and adjusted medications within 24 hours, crises were about 61% lower and emergency department visits about 45% lower."
+              },
+              {
+                "t": "p",
+                "x": "“If we are able to recognize an increased risk of a hypertensive crisis days before it occurs, we have an opportunity to provide earlier care,” said lead author Waleed Razzaq Chaudhry, M.D. The abstract is not peer-reviewed and findings are preliminary."
               }
             ]
           }
         },
         "ko": {
-          "headline": "임상 AI 피해 책임\nAMA가 분담 기준 제시",
-          "body": "임상 AI 피해 책임을 개발사·의료기관·의사가 어떻게 나눌지 AMA가 정리했다.",
-          "mini_headline": "AMA 임상\nAI 책임론",
+          "headline": "웨어러블·AI로\nBP 위기 3일 전 감지",
+          "body": "AHA 초록에 따르면 AI가 혈압계·트래커로 혈압 위기를 최대 사흘 전 내다본다.",
+          "mini_headline": "AI로 BP 위기 예견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "웨어러블 기기 - 진행 상황 확인"
               },
               {
                 "t": "p",
-                "x": "미국의사협회(American Medical Association, AMA)는 목요일, 최근 내놓은 임상 AI 거버넌스 지침을 바탕으로 이 기술을 둘러싼 결정·행위·실패의 책임을 당사자별로 어떻게 나눌지 더 자세히 정리해 내놨다. AMA 산하 Center for Digital Health and AI가 만든 이 프레임워크는 기존 체계가 답하지 못한 책임 문제를 겨냥한다. AMA는 이 공백 탓에 의사는 \"합리적으로 막을 수 없는 위험에 대해 책임을 지는 반면, 환자는 AI가 피해를 일으켰을 때 구제를 받기 어려울 수 있다\"고 설명했다."
+                "x": "휴대용 커프형 혈압계와 손목에 차는 피트니스 트래커의 패턴을 AI로 분석하면 2기 고혈압 성인이 고혈압 위기(급성 표적 장기 손상을 동반한 >180/120 mm Hg)에 빠질 위험이 커지는 시점을 최대 사흘 앞서 짚어 내는 데 도움이 될 수 있다. American Heart Association(미국심장협회) Scientific Sessions 2026에서 발표될 예비 연구 결과다."
               },
               {
                 "t": "p",
-                "x": "이 프레임워크는 \"문제가 생겼을 때 AI 사용에 대해 여러 당사자가 책임을 질 수 있음을 인정\"하고, 책임의 크기를 당사자마다 피해를 막을 수 있는 능력에 맞췄다. 의사는 \"시스템의 사용 목적, 알려진 한계, 진료 현장에서 얻을 수 있는 정보를 바탕으로 의미 있게 행사할 수 있는 임상적 판단에 책임을 져야\" 한다. 검증되지 않은 AI 시스템은 불이익 없이 거부할 수 있다."
+                "x": "참가자는 파키스탄 신드주(Sindh, Pakistan)의 한 병원을 찾은 40~85세 성인 4,190명으로, 2025년 일월부터 2026년 일월까지 추적 관찰했다. 12개월 동안 참가자 312명이 고혈압 위기를 418회 겪었다. 양성 경보를 받은 참가자 중 약 32%가 위기를 겪었고, 경보를 받지 않은 참가자는 97.4%가 위기 없이 지냈다."
               },
               {
                 "t": "p",
-                "x": "AMA 회장 Willie Underwood III, M.D.는 \"AI가 더 많은 임상 기능을 맡게 되면서 개발사, 의료기관, 의사 모두 각자 중요한 책임을 진다\"고 말했다. 이번 책임 프레임워크는 AMA가 이달 초 공개한 더 넓은 임상 AI 거버넌스 프레임워크 가운데 한 측면을 구체화했다."
+                "x": "수면 중 혈압이 떨어지지 않으면 곧 위기가 닥칠 오즈가 다섯 배 가까이 높았다. 기상 후 35 mm Hg 넘게 오를 때는 네 배 가까이였다. 의사가 경보를 받고 24시간 안에 약물을 조정하자 위기는 약 61%, 응급실 방문은 약 45% 줄었다."
+              },
+              {
+                "t": "p",
+                "x": "주저자 Waleed Razzaq Chaudhry, M.D.는 “고혈압 위기 위험이 커진 것을 발생 며칠 전에 알아챌 수 있다면 더 일찍 치료할 기회가 생긴다”고 말했다. 이 초록은 동료 심사를 거치지 않았고, 결과도 아직 예비 단계다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床AIの害は誰の責任か\nAMAが分担の枠組み",
-          "body": "AMAは臨床AIが害を及ぼした際の開発者・医療機関・医師の責任分担を示した。",
-          "mini_headline": "臨床AIの\n責任でAMA",
+          "headline": "ウェアラブルとAIで\nBP危機を3日前に察知",
+          "body": "AHA抄録は、AIが血圧計と活動量計のデータから高血圧危機を最大三日前に予測しうるとした。",
+          "mini_headline": "AIがBP危機を予見か",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "ウェアラブルデバイス - 進捗の確認"
               },
               {
                 "t": "p",
-                "x": "米国医師会(American Medical Association、AMA)は木曜日、臨床AIのガバナンスに関する最近の指針を踏まえ、この技術が関わる判断、行為、失敗について各当事者がどう責任を負うべきかをより詳しく示した。AMAのCenter for Digital Health and AIがまとめたこの枠組みは、既存の枠組みが答えていないとする責任の問題を扱う。このままでは医師が「合理的に防げないリスクの責任を負う一方、AIが害を及ぼした際に患者が救済を求めにくくなる」おそれがあるという。"
+                "x": "携帯型のカフ式血圧計と手首に装着するフィットネストラッカーから得たパターンをAIで解析すれば、ステージ2の高血圧の成人が高血圧クリーゼ（急性の標的臓器障害を伴う>180/120 mm Hg）を起こすリスクが高まる時期を、発生の最大三日前に特定できる可能性がある。American Heart Association（米国心臓協会）のScientific Sessions 2026で発表予定の予備的研究が示した。"
               },
               {
                 "t": "p",
-                "x": "この枠組みは「問題が起きたとき、AIの利用について複数の当事者が責任を負いうることを認める」もので、説明責任を各当事者が害を防ぐ能力に合わせる。医師は「システムの想定用途、既知の限界、診療の場で得られる情報に基づき、実質的に行使できる臨床判断について責任を負う」べきだとし、実証されていないAIシステムは不利益なく拒否できるとした。"
+                "x": "研究はパキスタン・シンド州（Sindh, Pakistan）のある病院で40～85歳の成人4,190人を対象に、2025年一月から2026年一月まで追跡した。12カ月の間に参加者312人が計418回の高血圧クリーゼを経験した。陽性アラートを受けた参加者の約32%がクリーゼを起こした一方、アラートのなかった参加者の97.4%はクリーゼを起こさなかった。"
               },
               {
                 "t": "p",
-                "x": "AMA会長のWillie Underwood III, M.D.は「AIがより多くの臨床機能を担うにつれ、開発者、医療機関、医師のそれぞれが重要な責任を持つ」と述べた。今回の責任の枠組みは、AMAが今月初めに公表したより広範な臨床AIガバナンスの枠組みの一側面を詳しく示したものだ。"
+                "x": "睡眠中に血圧が下がらない場合、クリーゼが迫るオッズは五倍近くに、起床後に35 mm Hgを超えて上昇した場合は四倍近くになった。医師がアラートを受けて24時間以内に投薬を調整すると、クリーゼは約61%、救急外来受診は約45%減少した。"
+              },
+              {
+                "t": "p",
+                "x": "「高血圧クリーゼのリスク上昇を発生の数日前に把握できれば、より早い段階でケアを提供する機会が生まれる」と筆頭著者のWaleed Razzaq Chaudhry, M.D.は述べた。この抄録は査読を経ておらず、結果は予備的なものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "临床AI致害谁担责\nAMA提出责任分担框架",
-          "body": "AMA提出了临床AI造成伤害时开发者、医疗系统和医生应如何分担责任。",
-          "mini_headline": "AMA谈临床\nAI责任",
+          "headline": "可穿戴设备加AI\n或提前3天预警BP危象",
+          "body": "AHA一项摘要称，AI分析袖带血压计与健身追踪器数据，可提前最多三天预测高血压危象。",
+          "mini_headline": "AI或可预见BP危象",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "可穿戴设备 - 查看进展"
               },
               {
                 "t": "p",
-                "x": "美国医学会(American Medical Association，AMA)周四在其近期发布的临床AI治理指南基础上，进一步细化了各方应如何对涉及该技术的决策、行为和失误承担责任。该框架由AMA的Center for Digital Health and AI制定，针对其所称现有框架未能解答的责任问题。AMA指出，这可能使医生面临“对其无法合理预防的风险承担责任，而当AI造成伤害时，患者可能难以寻求救济”。"
+                "x": "根据将在American Heart Association（美国心脏协会）Scientific Sessions 2026上公布的初步研究，利用AI分析便携式袖带血压计和腕戴式健身追踪器的数据模式，或可在高血压危象（>180/120 mm Hg并伴急性靶器官损害）发生前最多三天，识别出2期高血压成年人风险升高的时段。"
               },
               {
                 "t": "p",
-                "x": "该框架“承认在出现问题时，多方可能需要对AI的使用承担责任”，并将问责与各方预防伤害的能力相对应。医生应“对其能够切实行使的临床判断负责，依据是系统的预期用途、已知局限以及诊疗现场可获得的信息”，并可拒绝未经验证的AI系统而不受处罚。"
+                "x": "该研究纳入巴基斯坦信德省（Sindh, Pakistan）一家医院的4,190名40至85岁成年人，随访时间为2025年一月至2026年一月。12个月间，312名参与者共发生418次高血压危象。收到阳性警报的参与者中约32%发生危象，而未收到警报者中有97.4%未发生危象。"
               },
               {
                 "t": "p",
-                "x": "AMA主席Willie Underwood III, M.D.表示：“随着AI承担更多临床职能，开发者、医疗机构和医生各自都负有重要责任。”这一责任框架细化了AMA本月早些时候公布的更广泛的临床AI治理框架中的一个方面。"
+                "x": "睡眠期间血压未下降者，即将发生危象的几率接近五倍；醒后血压升高超过35 mm Hg者，几率接近四倍。医生收到警报并在24小时内调整用药后，危象减少约61%，急诊就诊减少约45%。"
+              },
+              {
+                "t": "p",
+                "x": "第一作者Waleed Razzaq Chaudhry, M.D.表示：“如果我们能在高血压危象发生前几天识别出风险升高，就有机会更早提供治疗。”该摘要未经同行评审，结果为初步结论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AMA define quién responde\nsi la AI clínica causa daño",
-          "body": "La AMA fijó cómo repartir la responsabilidad entre desarrolladores, sistemas de salud y médicos si la AI clínica daña.",
-          "mini_headline": "La AMA y la\nresponsabilidad de la AI",
+          "headline": "Wearables y AI podrían prever\ncrisis de BP 3 días antes",
+          "body": "Un resumen de la AHA dice que una AI con datos de wearables podría prever crisis hipertensivas hasta tres días antes.",
+          "mini_headline": "La AI podría prever crisis de BP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "Dispositivo wearable - comprobación del progreso"
               },
               {
                 "t": "p",
-                "x": "Sobre la base de su reciente guía para la gobernanza de la AI clínica, la American Medical Association detalló el jueves con mayor profundidad cómo deben responder las distintas partes por las decisiones, acciones y fallos relacionados con esta tecnología. El marco del Center for Digital Health and AI de la AMA aborda cuestiones de responsabilidad que, según afirmó, los marcos existentes dejan sin resolver, lo que podría exponer a los médicos a una \"responsabilidad por riesgos que no pueden prevenir razonablemente, mientras que los pacientes pueden tener dificultades para obtener reparación cuando la AI causa daño\"."
+                "x": "Usar AI para analizar patrones de un monitor portátil de presión arterial con brazalete y de una pulsera de actividad podría ayudar a identificar cuándo los adultos con hipertensión en estadio 2 tienen mayor riesgo de sufrir una crisis hipertensiva (>180/120 mm Hg con daño agudo de órganos diana) hasta tres días antes de que ocurra, según una investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
               },
               {
                 "t": "p",
-                "x": "El marco \"reconoce que varias partes pueden ser responsables del uso de la AI cuando algo sale mal\" y vincula la rendición de cuentas con la capacidad de cada parte para prevenir el daño. Los médicos deben \"ser responsables del juicio clínico que pueden ejercer de manera significativa, según el uso previsto del sistema, sus limitaciones conocidas y la información disponible en el punto de atención\", y pueden rechazar un sistema de AI no probado sin sufrir sanciones."
+                "x": "El estudio incluyó a 4,190 adultos de 40 a 85 años de un hospital de Sindh, Pakistán, seguidos de enero de 2025 a enero de 2026. En los 12 meses, 312 participantes sufrieron 418 crisis hipertensivas. Entre los participantes con una alerta positiva, alrededor del 32% sufrió una crisis, mientras que el 97.4% de quienes no recibieron alerta no tuvo ninguna."
               },
               {
                 "t": "p",
-                "x": "\"A medida que la AI asume más funciones clínicas, los desarrolladores, las organizaciones sanitarias y los médicos tienen cada uno responsabilidades importantes\", dijo el presidente de la AMA, Willie Underwood III, M.D. El marco de responsabilidad detalla un aspecto de un marco más amplio de gobernanza de la AI clínica que la AMA presentó a principios de este mes."
+                "x": "Una presión arterial que no bajaba durante el sueño suponía casi cinco veces más probabilidades de una crisis inminente; un aumento de más de 35 mm Hg al despertar, casi cuatro veces. Cuando los médicos recibieron una alerta y ajustaron la medicación en 24 horas, las crisis fueron alrededor de un 61% menores y las visitas a urgencias, alrededor de un 45% menores."
+              },
+              {
+                "t": "p",
+                "x": "«Si logramos reconocer un mayor riesgo de crisis hipertensiva días antes de que ocurra, tenemos la oportunidad de ofrecer una atención más temprana», dijo el autor principal, Waleed Razzaq Chaudhry, M.D. El resumen no ha sido revisado por pares y los resultados son preliminares."
               }
             ]
           }
@@ -531,105 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "임상 AI 피해 책임\nAMA가 분담 기준 제시",
-          "body": "AMA가 임상 AI 피해 시 개발사·의료기관·의사의 책임 분담 방식을 제시했다.",
-          "mini_headline": "AMA 임상\nAI 책임론",
+          "headline": "웨어러블·AI로\nBP 위기 3일 전 감지",
+          "body": "AHA 초록은 AI가 혈압계·트래커로 혈압 위기를 최대 사흘 전 예측한다고 했다.",
+          "mini_headline": "AI로 BP 위기 예견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "웨어러블 기기 - 진행 상황 확인"
               },
               {
                 "t": "p",
-                "x": "미국의사협회(American Medical Association, AMA)는 목요일, 최근 내놓은 임상 AI 거버넌스 지침을 바탕으로 이 기술과 관련된 결정, 행위, 실패에 대해 각 당사자가 어떻게 책임을 나눠야 하는지 더 자세히 정리해 내놨다. AMA 산하 Center for Digital Health and AI가 만든 이 프레임워크는 기존 체계가 답하지 못한 책임 문제를 다룬다. AMA는 이 공백 탓에 의사는 \"합리적으로 막을 수 없는 위험에 대해 책임을 지는 반면, 환자는 AI가 피해를 일으켰을 때 구제를 받기 어려울 수 있다\"고 설명했다."
+                "x": "휴대용 커프형 혈압계와 손목에 차는 피트니스 트래커의 패턴을 AI로 분석하면, 2기 고혈압 성인이 고혈압 위기(급성 표적 장기 손상을 동반한 >180/120 mm Hg)에 처할 위험이 커지는 시점을 발생 최대 사흘 전에 파악하는 데 도움이 될 수 있다. American Heart Association(미국심장협회) Scientific Sessions 2026에서 발표될 예비 연구 결과다."
               },
               {
                 "t": "p",
-                "x": "이 프레임워크는 \"문제가 생겼을 때 AI 사용에 대해 여러 당사자가 책임을 질 수 있음을 인정\"하며, 책임을 각 당사자의 피해 예방 능력에 맞춘다. 의사는 \"시스템의 사용 목적, 알려진 한계, 진료 현장에서 얻을 수 있는 정보를 바탕으로 의미 있게 행사할 수 있는 임상적 판단에 책임을 져야\" 하며, 검증되지 않은 AI 시스템은 불이익 없이 거부할 수 있다."
+                "x": "연구에는 파키스탄 신드주(Sindh, Pakistan)의 한 병원에서 40~85세 성인 4,190명이 참여했고, 2025년 일월부터 2026년 일월까지 추적 관찰했다. 12개월 동안 참가자 312명이 고혈압 위기를 418회 겪었다. 양성 경보를 받은 참가자 중 약 32%가 위기를 겪었고, 경보를 받지 않은 참가자의 97.4%는 위기 없이 지냈다."
               },
               {
                 "t": "p",
-                "x": "AMA 회장 Willie Underwood III, M.D.는 \"AI가 더 많은 임상 기능을 맡게 되면서 개발사, 의료기관, 의사 모두 각자 중요한 책임을 진다\"고 말했다. 이번 책임 프레임워크는 AMA가 이달 초 공개한 더 넓은 임상 AI 거버넌스 프레임워크의 한 측면을 구체화한 것이다."
+                "x": "수면 중 혈압이 떨어지지 않으면 곧 위기가 닥칠 오즈가 다섯 배 가까이 높았고, 기상 후 35 mm Hg 넘게 오르면 네 배 가까이 높았다. 의사가 경보를 받고 24시간 안에 약물을 조정하자 위기는 약 61%, 응급실 방문은 약 45% 줄었다."
+              },
+              {
+                "t": "p",
+                "x": "주저자 Waleed Razzaq Chaudhry, M.D.는 “고혈압 위기 위험이 커진 것을 발생 며칠 전에 알아챌 수 있다면 더 일찍 치료할 기회가 생긴다”고 말했다. 이 초록은 동료 심사를 거치지 않았으며 결과는 예비적이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床AIの害は誰の責任か\nAMAが分担の枠組み",
-          "body": "AMAは臨床AIが害を及ぼした際の開発者・医療機関・医師の責任分担を示した。",
-          "mini_headline": "臨床AIの\n責任でAMA",
+          "headline": "ウェアラブルとAIで\nBP危機を3日前に察知",
+          "body": "AHA抄録は、AIが血圧計と活動量計のデータから高血圧危機を最大三日前に予測しうるとした。",
+          "mini_headline": "AIがBP危機を予見か",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "ウェアラブルデバイス - 進捗の確認"
               },
               {
                 "t": "p",
-                "x": "米国医師会(American Medical Association、AMA)は木曜日、臨床AIのガバナンスに関する最近の指針を踏まえ、この技術が関わる判断、行為、失敗について各当事者がどう責任を負うべきかをより詳しく示した。AMAのCenter for Digital Health and AIがまとめたこの枠組みは、既存の枠組みが答えていないとする責任の問題を扱う。このままでは医師が「合理的に防げないリスクの責任を負う一方、AIが害を及ぼした際に患者が救済を求めにくくなる」おそれがあるという。"
+                "x": "携帯型のカフ式血圧計と手首に装着するフィットネストラッカーから得たパターンをAIで解析すれば、ステージ2の高血圧の成人が高血圧クリーゼ（急性の標的臓器障害を伴う>180/120 mm Hg）を起こすリスクが高まる時期を、発生の最大三日前に特定できる可能性がある。American Heart Association（米国心臓協会）のScientific Sessions 2026で発表予定の予備的研究が示した。"
               },
               {
                 "t": "p",
-                "x": "この枠組みは「問題が起きたとき、AIの利用について複数の当事者が責任を負いうることを認める」もので、説明責任を各当事者が害を防ぐ能力に合わせる。医師は「システムの想定用途、既知の限界、診療の場で得られる情報に基づき、実質的に行使できる臨床判断について責任を負う」べきだとし、実証されていないAIシステムは不利益なく拒否できるとした。"
+                "x": "研究はパキスタン・シンド州（Sindh, Pakistan）のある病院で40～85歳の成人4,190人を対象に、2025年一月から2026年一月まで追跡した。12カ月の間に参加者312人が計418回の高血圧クリーゼを経験した。陽性アラートを受けた参加者の約32%がクリーゼを起こした一方、アラートのなかった参加者の97.4%はクリーゼを起こさなかった。"
               },
               {
                 "t": "p",
-                "x": "AMA会長のWillie Underwood III, M.D.は「AIがより多くの臨床機能を担うにつれ、開発者、医療機関、医師のそれぞれが重要な責任を持つ」と述べた。今回の責任の枠組みは、AMAが今月初めに公表したより広範な臨床AIガバナンスの枠組みの一側面を詳しく示したものだ。"
+                "x": "睡眠中に血圧が下がらない場合、クリーゼが迫るオッズは五倍近くに、起床後に35 mm Hgを超えて上昇した場合は四倍近くになった。医師がアラートを受けて24時間以内に投薬を調整すると、クリーゼは約61%、救急外来受診は約45%減少した。"
+              },
+              {
+                "t": "p",
+                "x": "「高血圧クリーゼのリスク上昇を発生の数日前に把握できれば、より早い段階でケアを提供する機会が生まれる」と筆頭著者のWaleed Razzaq Chaudhry, M.D.は述べた。この抄録は査読を経ておらず、結果は予備的なものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "临床AI致害谁担责\nAMA提出责任分担框架",
-          "body": "AMA提出了临床AI造成伤害时开发者、医疗系统和医生应如何分担责任。",
-          "mini_headline": "AMA谈临床\nAI责任",
+          "headline": "可穿戴设备加AI\n或提前3天预警BP危象",
+          "body": "AHA一项摘要称，AI分析袖带血压计与健身追踪器数据，可提前最多三天预测高血压危象。",
+          "mini_headline": "AI或可预见BP危象",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "可穿戴设备 - 查看进展"
               },
               {
                 "t": "p",
-                "x": "美国医学会(American Medical Association，AMA)周四在其近期发布的临床AI治理指南基础上，进一步细化了各方应如何对涉及该技术的决策、行为和失误承担责任。该框架由AMA的Center for Digital Health and AI制定，针对其所称现有框架未能解答的责任问题。AMA指出，这可能使医生面临“对其无法合理预防的风险承担责任，而当AI造成伤害时，患者可能难以寻求救济”。"
+                "x": "根据将在American Heart Association（美国心脏协会）Scientific Sessions 2026上公布的初步研究，利用AI分析便携式袖带血压计和腕戴式健身追踪器的数据模式，或可在高血压危象（>180/120 mm Hg并伴急性靶器官损害）发生前最多三天，识别出2期高血压成年人风险升高的时段。"
               },
               {
                 "t": "p",
-                "x": "该框架“承认在出现问题时，多方可能需要对AI的使用承担责任”，并将问责与各方预防伤害的能力相对应。医生应“对其能够切实行使的临床判断负责，依据是系统的预期用途、已知局限以及诊疗现场可获得的信息”，并可拒绝未经验证的AI系统而不受处罚。"
+                "x": "该研究纳入巴基斯坦信德省（Sindh, Pakistan）一家医院的4,190名40至85岁成年人，随访时间为2025年一月至2026年一月。12个月间，312名参与者共发生418次高血压危象。收到阳性警报的参与者中约32%发生危象，而未收到警报者中有97.4%未发生危象。"
               },
               {
                 "t": "p",
-                "x": "AMA主席Willie Underwood III, M.D.表示：“随着AI承担更多临床职能，开发者、医疗机构和医生各自都负有重要责任。”这一责任框架细化了AMA本月早些时候公布的更广泛的临床AI治理框架中的一个方面。"
+                "x": "睡眠期间血压未下降者，即将发生危象的几率接近五倍；醒后血压升高超过35 mm Hg者，几率接近四倍。医生收到警报并在24小时内调整用药后，危象减少约61%，急诊就诊减少约45%。"
+              },
+              {
+                "t": "p",
+                "x": "第一作者Waleed Razzaq Chaudhry, M.D.表示：“如果我们能在高血压危象发生前几天识别出风险升高，就有机会更早提供治疗。”该摘要未经同行评审，结果为初步结论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AMA define quién responde\nsi la AI clínica causa daño",
-          "body": "La AMA fijó cómo repartir la responsabilidad entre desarrolladores, sistemas de salud y médicos si la AI clínica daña.",
-          "mini_headline": "La AMA y la\nresponsabilidad de la AI",
+          "headline": "Wearables y AI podrían prever\ncrisis de BP 3 días antes",
+          "body": "Un resumen de la AHA dice que una AI con datos de wearables podría prever crisis hipertensivas hasta tres días antes.",
+          "mini_headline": "La AI podría prever crisis de BP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2264304921.jpg?VersionId=K4ISi6JOokvMNqgrS3kmmM2IKS44EWX."
+                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+                "cap": "Dispositivo wearable - comprobación del progreso"
               },
               {
                 "t": "p",
-                "x": "Sobre la base de su reciente guía para la gobernanza de la AI clínica, la American Medical Association detalló el jueves con mayor profundidad cómo deben responder las distintas partes por las decisiones, acciones y fallos relacionados con esta tecnología. El marco del Center for Digital Health and AI de la AMA aborda cuestiones de responsabilidad que, según afirmó, los marcos existentes dejan sin resolver, lo que podría exponer a los médicos a una \"responsabilidad por riesgos que no pueden prevenir razonablemente, mientras que los pacientes pueden tener dificultades para obtener reparación cuando la AI causa daño\"."
+                "x": "Usar AI para analizar patrones de un monitor portátil de presión arterial con brazalete y de una pulsera de actividad podría ayudar a identificar cuándo los adultos con hipertensión en estadio 2 tienen mayor riesgo de sufrir una crisis hipertensiva (>180/120 mm Hg con daño agudo de órganos diana) hasta tres días antes de que ocurra, según una investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
               },
               {
                 "t": "p",
-                "x": "El marco \"reconoce que varias partes pueden ser responsables del uso de la AI cuando algo sale mal\" y vincula la rendición de cuentas con la capacidad de cada parte para prevenir el daño. Los médicos deben \"ser responsables del juicio clínico que pueden ejercer de manera significativa, según el uso previsto del sistema, sus limitaciones conocidas y la información disponible en el punto de atención\", y pueden rechazar un sistema de AI no probado sin sufrir sanciones."
+                "x": "El estudio incluyó a 4,190 adultos de 40 a 85 años de un hospital de Sindh, Pakistán, seguidos de enero de 2025 a enero de 2026. En los 12 meses, 312 participantes sufrieron 418 crisis hipertensivas. Entre los participantes con una alerta positiva, alrededor del 32% sufrió una crisis, mientras que el 97.4% de quienes no recibieron alerta no tuvo ninguna."
               },
               {
                 "t": "p",
-                "x": "\"A medida que la AI asume más funciones clínicas, los desarrolladores, las organizaciones sanitarias y los médicos tienen cada uno responsabilidades importantes\", dijo el presidente de la AMA, Willie Underwood III, M.D. El marco de responsabilidad detalla un aspecto de un marco más amplio de gobernanza de la AI clínica que la AMA presentó a principios de este mes."
+                "x": "Una presión arterial que no bajaba durante el sueño suponía casi cinco veces más probabilidades de una crisis inminente; un aumento de más de 35 mm Hg al despertar, casi cuatro veces. Cuando los médicos recibieron una alerta y ajustaron la medicación en 24 horas, las crisis fueron alrededor de un 61% menores y las visitas a urgencias, alrededor de un 45% menores."
+              },
+              {
+                "t": "p",
+                "x": "«Si logramos reconocer un mayor riesgo de crisis hipertensiva días antes de que ocurra, tenemos la oportunidad de ofrecer una atención más temprana», dijo el autor principal, Waleed Razzaq Chaudhry, M.D. El resumen no ha sido revisado por pares y los resultados son preliminares."
               }
             ]
           }
@@ -637,141 +687,189 @@
       }
     },
     {
-      "id": "mr-ai-missed-referrals",
+      "id": "who-europe-ai-framework",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "놓친 전문의 의뢰\nAI가 일차 진료서 포착",
-      "body": "기록에서 놓친 전문의 의뢰를 찾는 MR-AI를 일차의료 의원 일곱 곳에 썼다.",
-      "mini_headline": "놓친 의뢰\nAI가 포착",
+      "headline": "WHO 유럽 53개국,\n보건 AI 로드맵 지지",
+      "body": "WHO 유럽 53개국이 안전하고 공평한 보건 AI 로드맵을 만장일치로 채택했다.",
+      "mini_headline": "WHO 유럽, AI 비전 채택",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03444-1",
+      "source": "WHO Europe",
+      "url": "https://www.who.int/europe/news/item/29-10-2026-governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "일차 진료에서 전문의 의뢰를 놓치면 건강은 물론 의료법상으로도 위험이 크지만, 실태는 아직 제대로 파악되지 않았다. 연구진은 진료 기록에서 놓친 의뢰를 찾아내는 AI 기반(AI-supported) 안전 시스템(MR-AI)을 개발해 싱가포르의 일차 진료 의원 일곱 곳에서 준실험 연구로 평가했다. MR-AI는 매주 약 25,000건의 기록을 훑어 의뢰 의도는 있으나 해당 오더가 없는 사례를 골라냈다. 주간 놓친 의뢰 발견 건수는 약 일곱 배로 늘어난 것으로 추산됐다(수준 4.7퍼센트포인트 증가; 95% CI 0.024–0.069; p < 0.001)."
+            "t": "img",
+            "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
           },
           {
             "t": "p",
-            "x": "표시된 428건 가운데 225건이 임상의 검증을 통과했고, 여기에 환자가 보고한 31건을 더해 모두 256건을 찾았다. MR-AI의 특이도는 99.9%, 민감도는 48.8%였다. 의사 검토자 일곱 명과 한 주간 맹검 비교를 해 보니 표시된 83건에서 MR-AI의 PPV는 61.8%로 사람의 확인율 51.8%를 웃돌았고, 예상 인력 투입 시간도 약 41시간 적었다."
+            "x": "WHO 유럽 지역 53개 회원국이 지역 최초의 “보건 분야 인공지능 행동 로드맵(Roadmap for action on artificial intelligence in health)”을 만장일치로 채택했다. 제76차 WHO 유럽 지역위원회에서 승인된 로드맵은 유럽과 중앙아시아 전역의 보건 시스템에 AI를 들여올 공동 비전을 담았다."
           },
           {
             "t": "p",
-            "x": "AI 기반(AI-enabled) 감시는 놓친 의뢰를 찾는 데 크게 도움이 됐다. 다만 개선을 이어가려면 이를 보완할 예방 업무 흐름 변화와 향후 비용 효과성 평가가 뒤따라야 한다."
+            "x": "WHO/Europe 직무대행(Officer-in-Charge) Dr Corinne Capuano는 “AI는 이미 우리 지역 전반에서 보건의료를 바꾸고 있다… AI가 안전하고 효과적이며 공평하도록 어떻게 보장할 것인가? 사람들의 권리를 어떻게 지키고 신뢰를 얻을 것인가? 어느 나라도 혼자서는 풀 수 없는 과제다”라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "2026–2033년을 내다보는 로드맵에는 4개 우선 분야가 들어 있다. 거버넌스와 리더십, 윤리·규제·법적 체계, 데이터와 디지털 인프라, 역량 강화·이행 지원·학습이다. 밑바탕은 2025년 발표된 첫 지역 단위 AI 준비도 평가로, 지역 53개 회원국 중 50개국이 응답했다."
+          },
+          {
+            "t": "p",
+            "x": "로드맵은 EU Artificial Intelligence Act, European Health Data Space, General Data Protection Regulation 등과 궤를 같이하고, 이행 가이드도 함께 내놨다. 회원국들은 AI를 다룰 WHO 사무소를 새로 세우는 방안도 지지했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI flags missed specialist\nreferrals in primary care",
-          "body": "Researchers tested MR-AI, which spots missed specialist referrals in notes, across seven primary care clinics.",
-          "mini_headline": "AI catches\nmissed referrals",
+          "headline": "WHO Europe's 53 states back\na roadmap for health AI",
+          "body": "All 53 states of WHO's European Region unanimously adopted a roadmap for safe, equitable AI in health systems.",
+          "mini_headline": "WHO Europe adopts AI vision",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Missed specialist referrals in primary care pose substantial health and medico-legal risks, yet remain poorly understood. We developed an AI-supported safety system (MR-AI) to identify missed referrals from consultation notes, evaluated in a quasi-experimental study across seven primary care clinics in Singapore. MR-AI scanned ~25,000 notes weekly for referral intent without a corresponding order, achieving an estimated sevenfold increase in weekly missed referral detection (4.7 percentage point level increase; 95% CI 0.024–0.069; p < 0.001)."
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "Of 428 cases flagged, 225 were clinician-verified, alongside 31 patient-reported cases, yielding 256 total detections. MR-AI demonstrated 99.9% specificity and 48.8% sensitivity. In a blinded one-week comparison against seven physician reviewers, MR-AI achieved a PPV of 61.8% versus a human confirmation rate of 51.8% across 83 flagged cases, while requiring approximately 41 fewer projected staff-hours."
+                "x": "The 53 Member States of the WHO European Region have unanimously adopted the Region’s first “Roadmap for action on artificial intelligence in health”, approved during the 76th session of the WHO Regional Committee for Europe. It sets out a shared vision for integrating AI into health systems across Europe and Central Asia."
               },
               {
                 "t": "p",
-                "x": "AI-enabled surveillance substantially assisted in missed referral detection, though sustainable improvement will require complementary preventive workflow changes and future cost-effectiveness assessment."
+                "x": "Dr Corinne Capuano, Officer-in-Charge for WHO/Europe, said: “AI is already changing health care across our region… How do we ensure AI is safe, effective and equitable? How do we protect people’s rights and earn their trust? These are challenges no country can solve alone.”"
+              },
+              {
+                "t": "p",
+                "x": "Covering 2026–2033, the roadmap has 4 priority areas: governance and leadership; ethical, regulatory and legal frameworks; data and digital infrastructure; and capacity-building, implementation support and learning. It drew on responses from 50 of the Region’s 53 Member States to the first region-wide AI readiness assessment, published in 2025."
+              },
+              {
+                "t": "p",
+                "x": "It aligns with the EU Artificial Intelligence Act, the European Health Data Space and the General Data Protection Regulation, among others, and comes with an implementation guide. Member States also supported establishing a new WHO office on AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "놓친 전문의 의뢰\nAI가 일차 진료서 포착",
-          "body": "기록에서 놓친 전문의 의뢰를 찾는 MR-AI를 일차의료 의원 일곱 곳에 썼다.",
-          "mini_headline": "놓친 의뢰\nAI가 포착",
+          "headline": "WHO 유럽 53개국,\n보건 AI 로드맵 지지",
+          "body": "WHO 유럽 53개국이 안전하고 공평한 보건 AI 로드맵을 만장일치로 채택했다.",
+          "mini_headline": "WHO 유럽, AI 비전 채택",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "일차 진료에서 전문의 의뢰를 놓치면 건강은 물론 의료법상으로도 위험이 크지만, 실태는 아직 제대로 파악되지 않았다. 연구진은 진료 기록에서 놓친 의뢰를 찾아내는 AI 기반(AI-supported) 안전 시스템(MR-AI)을 개발해 싱가포르의 일차 진료 의원 일곱 곳에서 준실험 연구로 평가했다. MR-AI는 매주 약 25,000건의 기록을 훑어 의뢰 의도는 있으나 해당 오더가 없는 사례를 골라냈다. 주간 놓친 의뢰 발견 건수는 약 일곱 배로 늘어난 것으로 추산됐다(수준 4.7퍼센트포인트 증가; 95% CI 0.024–0.069; p < 0.001)."
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "표시된 428건 가운데 225건이 임상의 검증을 통과했고, 여기에 환자가 보고한 31건을 더해 모두 256건을 찾았다. MR-AI의 특이도는 99.9%, 민감도는 48.8%였다. 의사 검토자 일곱 명과 한 주간 맹검 비교를 해 보니 표시된 83건에서 MR-AI의 PPV는 61.8%로 사람의 확인율 51.8%를 웃돌았고, 예상 인력 투입 시간도 약 41시간 적었다."
+                "x": "WHO 유럽 지역 53개 회원국이 지역 최초의 “보건 분야 인공지능 행동 로드맵(Roadmap for action on artificial intelligence in health)”을 만장일치로 채택했다. 제76차 WHO 유럽 지역위원회에서 승인된 로드맵은 유럽과 중앙아시아 전역의 보건 시스템에 AI를 들여올 공동 비전을 담았다."
               },
               {
                 "t": "p",
-                "x": "AI 기반(AI-enabled) 감시는 놓친 의뢰를 찾는 데 크게 도움이 됐다. 다만 개선을 이어가려면 이를 보완할 예방 업무 흐름 변화와 향후 비용 효과성 평가가 뒤따라야 한다."
+                "x": "WHO/Europe 직무대행(Officer-in-Charge) Dr Corinne Capuano는 “AI는 이미 우리 지역 전반에서 보건의료를 바꾸고 있다… AI가 안전하고 효과적이며 공평하도록 어떻게 보장할 것인가? 사람들의 권리를 어떻게 지키고 신뢰를 얻을 것인가? 어느 나라도 혼자서는 풀 수 없는 과제다”라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "2026–2033년을 내다보는 로드맵에는 4개 우선 분야가 들어 있다. 거버넌스와 리더십, 윤리·규제·법적 체계, 데이터와 디지털 인프라, 역량 강화·이행 지원·학습이다. 밑바탕은 2025년 발표된 첫 지역 단위 AI 준비도 평가로, 지역 53개 회원국 중 50개국이 응답했다."
+              },
+              {
+                "t": "p",
+                "x": "로드맵은 EU Artificial Intelligence Act, European Health Data Space, General Data Protection Regulation 등과 궤를 같이하고, 이행 가이드도 함께 내놨다. 회원국들은 AI를 다룰 WHO 사무소를 새로 세우는 방안도 지지했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "見落とされた専門医紹介\nAIがプライマリケアで検出",
-          "body": "研究チームは記録から専門医紹介の漏れを見つけるMR-AIを七つの診療所で検証した。",
-          "mini_headline": "紹介漏れを\nAIが発見",
+          "headline": "WHO欧州の53カ国が\n保健AIのロードマップ支持",
+          "body": "WHO欧州地域の53カ国が、安全で公平な保健AIのロードマップを全会一致で採択した。",
+          "mini_headline": "WHO欧州がAIビジョン採択",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "プライマリケアにおける専門医紹介の見落としは、健康面と医療法上の大きなリスクをもたらすが、その実態はよくわかっていない。我々は診療記録から紹介漏れを特定するAI支援型(AI-supported)安全システム(MR-AI)を開発し、シンガポールの七つのプライマリケア診療所で準実験研究として評価した。MR-AIは毎週約25,000件の記録を走査し、紹介の意図があるのに対応するオーダーがない例を探した。その結果、週当たりの紹介漏れ検出数は推定で七倍に増えた(水準4.7パーセントポイント増加、95% CI 0.024–0.069、p < 0.001)。"
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "フラグが立った428件のうち225件が臨床医により確認され、患者報告の31件と合わせて計256件が検出された。MR-AIの特異度は99.9%、感度は48.8%だった。医師レビュアー七人との一週間の盲検比較では、フラグが立った83件でMR-AIのPPVは61.8%と、人による確認率51.8%を上回り、見込まれるスタッフ作業時間は約41時間少なかった。"
+                "x": "WHO欧州地域の53加盟国は、同地域初となる「保健分野における人工知能に関する行動ロードマップ（Roadmap for action on artificial intelligence in health）」を全会一致で採択した。第76回WHO欧州地域委員会で承認されたもので、欧州と中央アジア全域の保健システムにAIを統合するための共通ビジョンを示す。"
               },
               {
                 "t": "p",
-                "x": "AI活用型(AI-enabled)の監視は紹介漏れの検出に大きく役立ったが、持続的な改善には補完的な予防的ワークフローの変更と、今後の費用対効果の評価が必要となる。"
+                "x": "WHO/Europeの事務局長代行（Officer-in-Charge）、Dr Corinne Capuano氏は「AIはすでに当地域全体で医療を変えつつある……AIの安全性、有効性、公平性をどう確保するか。人々の権利をどう守り、信頼をどう得るか。これらはどの国も単独では解決できない課題だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "2026–2033年を対象とするロードマップには4つの優先分野がある。ガバナンスとリーダーシップ、倫理・規制・法的枠組み、データとデジタル基盤、そして能力構築・実施支援・学習だ。2025年に公表された初の地域全体のAI準備状況評価に、地域の53加盟国のうち50カ国が寄せた回答を踏まえている。"
+              },
+              {
+                "t": "p",
+                "x": "ロードマップはEU Artificial Intelligence Act、European Health Data Space、General Data Protection Regulationなどと整合し、実施ガイドも付属する。加盟国はAIに関する新たなWHO事務所の設置も支持した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI发现基层医疗中\n被遗漏的专科转诊",
-          "body": "研究人员在七家基层诊所测试了MR-AI，它能从病历中找出遗漏的专科转诊。",
-          "mini_headline": "AI找出\n遗漏转诊",
+          "headline": "WHO欧洲区53个成员国\n支持卫生AI路线图",
+          "body": "WHO欧洲区域全部53个成员国一致通过了在卫生系统中安全、公平使用AI的路线图。",
+          "mini_headline": "WHO欧洲通过AI愿景",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "基层医疗中遗漏的专科转诊带来重大的健康和医疗法律风险，但人们对此仍知之甚少。我们开发了一套AI辅助(AI-supported)安全系统(MR-AI)，用于从诊疗记录中识别遗漏的转诊，并在新加坡七家基层医疗诊所开展准实验研究进行评估。MR-AI每周扫描约25,000份记录，查找有转诊意图却没有相应医嘱的情况，估计使每周遗漏转诊检出量提高到约七倍(水平提升4.7个百分点；95% CI 0.024–0.069；p < 0.001)。"
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "在被标记的428例中，225例经临床医生核实，另有31例由患者报告，共检出256例。MR-AI的特异度为99.9%，敏感度为48.8%。在与七名医生审核员进行的为期一周的盲法比较中，针对83例被标记病例，MR-AI的PPV为61.8%，而人工确认率为51.8%，同时预计可减少约41个员工工时。"
+                "x": "WHO欧洲区域53个成员国一致通过了该区域首份《卫生领域人工智能行动路线图》（Roadmap for action on artificial intelligence in health）。该路线图在WHO欧洲区域委员会第76届会议期间获批，为在欧洲和中亚各地将AI融入卫生系统提出了共同愿景。"
               },
               {
                 "t": "p",
-                "x": "AI赋能(AI-enabled)的监测在发现遗漏转诊方面提供了很大帮助，但要实现可持续的改善，还需配套的预防性工作流程调整以及未来的成本效益评估。"
+                "x": "WHO/Europe负责人（Officer-in-Charge）Dr Corinne Capuano表示：“AI已经在改变我们整个区域的医疗卫生……我们如何确保AI安全、有效且公平？如何保护人们的权利并赢得他们的信任？这些挑战没有哪个国家能够独自解决。”"
+              },
+              {
+                "t": "p",
+                "x": "该路线图覆盖2026–2033年，设有4个优先领域：治理与领导力；伦理、监管和法律框架；数据与数字基础设施；以及能力建设、实施支持与学习。路线图参考了该区域53个成员国中50个对首次全区域AI准备度评估的答复，该评估于2025年发布。"
+              },
+              {
+                "t": "p",
+                "x": "路线图与EU Artificial Intelligence Act、European Health Data Space和General Data Protection Regulation等相衔接，并附有实施指南。成员国还支持设立一个新的WHO AI办公室。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI detecta derivaciones\nomitidas en atención primaria",
-          "body": "Investigadores probaron MR-AI, que detecta derivaciones omitidas en las notas, en siete clínicas de atención primaria.",
-          "mini_headline": "La AI halla\nderivaciones omitidas",
+          "headline": "Los 53 Estados de WHO Europa\navalan un plan de AI en salud",
+          "body": "Los 53 Estados de la WHO en Europa adoptaron por unanimidad una hoja de ruta para una AI segura y equitativa en salud.",
+          "mini_headline": "WHO Europa adopta una visión de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las derivaciones al especialista omitidas en atención primaria suponen riesgos sanitarios y médico-legales considerables, pero siguen siendo poco conocidas. Desarrollamos un sistema de seguridad con apoyo de AI (AI-supported), MR-AI, para identificar derivaciones omitidas a partir de las notas de consulta, y lo evaluamos en un estudio cuasiexperimental en siete clínicas de atención primaria de Singapur. MR-AI analizó ~25,000 notas por semana en busca de intención de derivación sin una orden correspondiente, y logró un aumento estimado de siete veces en la detección semanal de derivaciones omitidas (aumento de nivel de 4.7 puntos porcentuales; 95% CI 0.024–0.069; p < 0.001)."
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "De 428 casos señalados, 225 fueron verificados por clínicos, junto con 31 casos notificados por pacientes, lo que dio 256 detecciones en total. MR-AI mostró una especificidad del 99.9% y una sensibilidad del 48.8%. En una comparación ciega de una semana frente a siete médicos revisores, MR-AI alcanzó un PPV del 61.8% frente a una tasa de confirmación humana del 51.8% en 83 casos señalados, y requirió aproximadamente 41 horas de personal proyectadas menos."
+                "x": "Los 53 Estados Miembros de la Región Europea de la WHO adoptaron por unanimidad la primera «Hoja de ruta para la acción sobre la inteligencia artificial en la salud» (Roadmap for action on artificial intelligence in health) de la Región, aprobada durante la 76.ª sesión del Comité Regional de la WHO para Europa. Establece una visión compartida para integrar la AI en los sistemas de salud de Europa y Asia Central."
               },
               {
                 "t": "p",
-                "x": "La vigilancia habilitada por AI (AI-enabled) ayudó de forma sustancial a detectar derivaciones omitidas, aunque una mejora sostenible requerirá cambios preventivos complementarios en el flujo de trabajo y una futura evaluación de costo-efectividad."
+                "x": "Dr Corinne Capuano, responsable en funciones (Officer-in-Charge) de WHO/Europe, afirmó: «La AI ya está cambiando la atención sanitaria en toda nuestra región… ¿Cómo garantizamos que la AI sea segura, eficaz y equitativa? ¿Cómo protegemos los derechos de las personas y nos ganamos su confianza? Son retos que ningún país puede resolver solo»."
+              },
+              {
+                "t": "p",
+                "x": "La hoja de ruta, que abarca 2026–2033, tiene 4 áreas prioritarias: gobernanza y liderazgo; marcos éticos, regulatorios y legales; datos e infraestructura digital; y desarrollo de capacidades, apoyo a la implementación y aprendizaje. Se basó en las respuestas de 50 de los 53 Estados Miembros de la Región a la primera evaluación regional de preparación en AI, publicada en 2025."
+              },
+              {
+                "t": "p",
+                "x": "Está alineada, entre otros, con la EU Artificial Intelligence Act, el European Health Data Space y el General Data Protection Regulation, e incluye una guía de implementación. Los Estados Miembros también apoyaron la creación de una nueva oficina de la WHO sobre AI."
               }
             ]
           }
@@ -779,89 +877,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "놓친 전문의 의뢰\nAI가 일차 진료서 포착",
-          "body": "기록 속 놓친 전문의 의뢰를 찾는 MR-AI를 일차의료 의원 일곱 곳에 적용했다.",
-          "mini_headline": "놓친 의뢰\nAI가 포착",
+          "headline": "WHO 유럽 53개국,\n보건 AI 로드맵 지지",
+          "body": "WHO 유럽 53개국이 안전하고 공평한 보건 AI 로드맵을 만장일치로 채택했다.",
+          "mini_headline": "WHO 유럽, AI 비전 채택",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "일차 진료에서 놓친 전문의 의뢰는 건강과 의료법 측면에서 상당한 위험을 낳지만, 아직 제대로 파악되지 않았다. 연구진은 진료 기록에서 놓친 의뢰를 찾아내는 AI 기반(AI-supported) 안전 시스템(MR-AI)을 개발해, 싱가포르의 일차 진료 의원 일곱 곳에서 준실험 연구로 평가했다. MR-AI는 매주 약 25,000건의 기록을 훑어 의뢰 의도는 있으나 해당 오더가 없는 사례를 찾았고, 주간 놓친 의뢰 발견 건수를 약 일곱 배로 늘린 것으로 추산됐다(수준 4.7퍼센트포인트 증가; 95% CI 0.024–0.069; p < 0.001)."
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "표시된 428건 중 225건이 임상의 검증을 거쳤고, 환자가 보고한 31건을 더해 총 256건이 발견됐다. MR-AI의 특이도는 99.9%, 민감도는 48.8%였다. 의사 검토자 일곱 명과 한 주 동안 맹검 비교한 결과, 표시된 83건에서 MR-AI의 PPV는 61.8%로 사람의 확인율 51.8%보다 높았고, 예상 인력 투입 시간은 약 41시간 적었다."
+                "x": "WHO 유럽 지역 53개 회원국이 지역 최초의 “보건 분야 인공지능 행동 로드맵(Roadmap for action on artificial intelligence in health)”을 만장일치로 채택했다. 로드맵은 제76차 WHO 유럽 지역위원회에서 승인됐으며, 유럽과 중앙아시아 전역의 보건 시스템에 AI를 통합하기 위한 공동 비전을 제시한다."
               },
               {
                 "t": "p",
-                "x": "AI 기반(AI-enabled) 감시는 놓친 의뢰를 찾는 데 큰 도움이 됐지만, 지속적인 개선을 위해서는 보완적인 예방 업무 흐름 변화와 향후 비용 효과성 평가가 필요하다."
+                "x": "WHO/Europe 직무대행(Officer-in-Charge) Dr Corinne Capuano는 “AI는 이미 우리 지역 전반에서 보건의료를 바꾸고 있다… AI가 안전하고 효과적이며 공평하도록 어떻게 보장할 것인가? 사람들의 권리를 어떻게 지키고 신뢰를 얻을 것인가? 어느 나라도 혼자서는 풀 수 없는 과제다”라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "2026–2033년을 대상으로 하는 로드맵은 4개 우선 분야를 담았다. 거버넌스와 리더십, 윤리·규제·법적 체계, 데이터와 디지털 인프라, 그리고 역량 강화·이행 지원·학습이다. 로드맵은 2025년 발표된 첫 지역 단위 AI 준비도 평가에 지역 53개 회원국 중 50개국이 낸 응답을 토대로 했다."
+              },
+              {
+                "t": "p",
+                "x": "로드맵은 EU Artificial Intelligence Act, European Health Data Space, General Data Protection Regulation 등과 궤를 같이하며 이행 가이드도 함께 제공한다. 회원국들은 AI를 다루는 WHO 사무소를 새로 설립하는 방안도 지지했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "見落とされた専門医紹介\nAIがプライマリケアで検出",
-          "body": "研究チームは記録から専門医紹介の漏れを見つけるMR-AIを七つの診療所で検証した。",
-          "mini_headline": "紹介漏れを\nAIが発見",
+          "headline": "WHO欧州の53カ国が\n保健AIのロードマップ支持",
+          "body": "WHO欧州地域の53カ国が、安全で公平な保健AIのロードマップを全会一致で採択した。",
+          "mini_headline": "WHO欧州がAIビジョン採択",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "プライマリケアにおける専門医紹介の見落としは、健康面と医療法上の大きなリスクをもたらすが、その実態はよくわかっていない。我々は診療記録から紹介漏れを特定するAI支援型(AI-supported)安全システム(MR-AI)を開発し、シンガポールの七つのプライマリケア診療所で準実験研究として評価した。MR-AIは毎週約25,000件の記録を走査し、紹介の意図があるのに対応するオーダーがない例を探した。その結果、週当たりの紹介漏れ検出数は推定で七倍に増えた(水準4.7パーセントポイント増加、95% CI 0.024–0.069、p < 0.001)。"
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "フラグが立った428件のうち225件が臨床医により確認され、患者報告の31件と合わせて計256件が検出された。MR-AIの特異度は99.9%、感度は48.8%だった。医師レビュアー七人との一週間の盲検比較では、フラグが立った83件でMR-AIのPPVは61.8%と、人による確認率51.8%を上回り、見込まれるスタッフ作業時間は約41時間少なかった。"
+                "x": "WHO欧州地域の53加盟国は、同地域初となる「保健分野における人工知能に関する行動ロードマップ（Roadmap for action on artificial intelligence in health）」を全会一致で採択した。第76回WHO欧州地域委員会で承認されたもので、欧州と中央アジア全域の保健システムにAIを統合するための共通ビジョンを示す。"
               },
               {
                 "t": "p",
-                "x": "AI活用型(AI-enabled)の監視は紹介漏れの検出に大きく役立ったが、持続的な改善には補完的な予防的ワークフローの変更と、今後の費用対効果の評価が必要となる。"
+                "x": "WHO/Europeの事務局長代行（Officer-in-Charge）、Dr Corinne Capuano氏は「AIはすでに当地域全体で医療を変えつつある……AIの安全性、有効性、公平性をどう確保するか。人々の権利をどう守り、信頼をどう得るか。これらはどの国も単独では解決できない課題だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "2026–2033年を対象とするロードマップには4つの優先分野がある。ガバナンスとリーダーシップ、倫理・規制・法的枠組み、データとデジタル基盤、そして能力構築・実施支援・学習だ。2025年に公表された初の地域全体のAI準備状況評価に、地域の53加盟国のうち50カ国が寄せた回答を踏まえている。"
+              },
+              {
+                "t": "p",
+                "x": "ロードマップはEU Artificial Intelligence Act、European Health Data Space、General Data Protection Regulationなどと整合し、実施ガイドも付属する。加盟国はAIに関する新たなWHO事務所の設置も支持した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI发现基层医疗中\n被遗漏的专科转诊",
-          "body": "研究人员在七家基层诊所测试了MR-AI，它能从病历中找出遗漏的专科转诊。",
-          "mini_headline": "AI找出\n遗漏转诊",
+          "headline": "WHO欧洲区53个成员国\n支持卫生AI路线图",
+          "body": "WHO欧洲区域全部53个成员国一致通过了在卫生系统中安全、公平使用AI的路线图。",
+          "mini_headline": "WHO欧洲通过AI愿景",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "基层医疗中遗漏的专科转诊带来重大的健康和医疗法律风险，但人们对此仍知之甚少。我们开发了一套AI辅助(AI-supported)安全系统(MR-AI)，用于从诊疗记录中识别遗漏的转诊，并在新加坡七家基层医疗诊所开展准实验研究进行评估。MR-AI每周扫描约25,000份记录，查找有转诊意图却没有相应医嘱的情况，估计使每周遗漏转诊检出量提高到约七倍(水平提升4.7个百分点；95% CI 0.024–0.069；p < 0.001)。"
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "在被标记的428例中，225例经临床医生核实，另有31例由患者报告，共检出256例。MR-AI的特异度为99.9%，敏感度为48.8%。在与七名医生审核员进行的为期一周的盲法比较中，针对83例被标记病例，MR-AI的PPV为61.8%，而人工确认率为51.8%，同时预计可减少约41个员工工时。"
+                "x": "WHO欧洲区域53个成员国一致通过了该区域首份《卫生领域人工智能行动路线图》（Roadmap for action on artificial intelligence in health）。该路线图在WHO欧洲区域委员会第76届会议期间获批，为在欧洲和中亚各地将AI融入卫生系统提出了共同愿景。"
               },
               {
                 "t": "p",
-                "x": "AI赋能(AI-enabled)的监测在发现遗漏转诊方面提供了很大帮助，但要实现可持续的改善，还需配套的预防性工作流程调整以及未来的成本效益评估。"
+                "x": "WHO/Europe负责人（Officer-in-Charge）Dr Corinne Capuano表示：“AI已经在改变我们整个区域的医疗卫生……我们如何确保AI安全、有效且公平？如何保护人们的权利并赢得他们的信任？这些挑战没有哪个国家能够独自解决。”"
+              },
+              {
+                "t": "p",
+                "x": "该路线图覆盖2026–2033年，设有4个优先领域：治理与领导力；伦理、监管和法律框架；数据与数字基础设施；以及能力建设、实施支持与学习。路线图参考了该区域53个成员国中50个对首次全区域AI准备度评估的答复，该评估于2025年发布。"
+              },
+              {
+                "t": "p",
+                "x": "路线图与EU Artificial Intelligence Act、European Health Data Space和General Data Protection Regulation等相衔接，并附有实施指南。成员国还支持设立一个新的WHO AI办公室。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI detecta derivaciones\nomitidas en atención primaria",
-          "body": "Investigadores probaron MR-AI, que detecta derivaciones omitidas en las notas, en siete clínicas de atención primaria.",
-          "mini_headline": "La AI halla\nderivaciones omitidas",
+          "headline": "Los 53 Estados de WHO Europa\navalan un plan de AI en salud",
+          "body": "Los 53 Estados de la WHO en Europa adoptaron por unanimidad una hoja de ruta para una AI segura y equitativa en salud.",
+          "mini_headline": "WHO Europa adopta una visión de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las derivaciones al especialista omitidas en atención primaria suponen riesgos sanitarios y médico-legales considerables, pero siguen siendo poco conocidas. Desarrollamos un sistema de seguridad con apoyo de AI (AI-supported), MR-AI, para identificar derivaciones omitidas a partir de las notas de consulta, y lo evaluamos en un estudio cuasiexperimental en siete clínicas de atención primaria de Singapur. MR-AI analizó ~25,000 notas por semana en busca de intención de derivación sin una orden correspondiente, y logró un aumento estimado de siete veces en la detección semanal de derivaciones omitidas (aumento de nivel de 4.7 puntos porcentuales; 95% CI 0.024–0.069; p < 0.001)."
+                "t": "img",
+                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
               },
               {
                 "t": "p",
-                "x": "De 428 casos señalados, 225 fueron verificados por clínicos, junto con 31 casos notificados por pacientes, lo que dio 256 detecciones en total. MR-AI mostró una especificidad del 99.9% y una sensibilidad del 48.8%. En una comparación ciega de una semana frente a siete médicos revisores, MR-AI alcanzó un PPV del 61.8% frente a una tasa de confirmación humana del 51.8% en 83 casos señalados, y requirió aproximadamente 41 horas de personal proyectadas menos."
+                "x": "Los 53 Estados Miembros de la Región Europea de la WHO adoptaron por unanimidad la primera «Hoja de ruta para la acción sobre la inteligencia artificial en la salud» (Roadmap for action on artificial intelligence in health) de la Región, aprobada durante la 76.ª sesión del Comité Regional de la WHO para Europa. Establece una visión compartida para integrar la AI en los sistemas de salud de Europa y Asia Central."
               },
               {
                 "t": "p",
-                "x": "La vigilancia habilitada por AI (AI-enabled) ayudó de forma sustancial a detectar derivaciones omitidas, aunque una mejora sostenible requerirá cambios preventivos complementarios en el flujo de trabajo y una futura evaluación de costo-efectividad."
+                "x": "Dr Corinne Capuano, responsable en funciones (Officer-in-Charge) de WHO/Europe, afirmó: «La AI ya está cambiando la atención sanitaria en toda nuestra región… ¿Cómo garantizamos que la AI sea segura, eficaz y equitativa? ¿Cómo protegemos los derechos de las personas y nos ganamos su confianza? Son retos que ningún país puede resolver solo»."
+              },
+              {
+                "t": "p",
+                "x": "La hoja de ruta, que abarca 2026–2033, tiene 4 áreas prioritarias: gobernanza y liderazgo; marcos éticos, regulatorios y legales; datos e infraestructura digital; y desarrollo de capacidades, apoyo a la implementación y aprendizaje. Se basó en las respuestas de 50 de los 53 Estados Miembros de la Región a la primera evaluación regional de preparación en AI, publicada en 2025."
+              },
+              {
+                "t": "p",
+                "x": "Está alineada, entre otros, con la EU Artificial Intelligence Act, el European Health Data Space y el General Data Protection Regulation, e incluye una guía de implementación. Los Estados Miembros también apoyaron la creación de una nueva oficina de la WHO sobre AI."
               }
             ]
           }
@@ -869,171 +999,201 @@
       }
     },
     {
-      "id": "amhart-teen-chatbot-eval",
+      "id": "llm-drug-brand-convergence",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "불안·우울 청소년에게\n챗봇은 어떻게 답할까",
-      "body": "AMHART로 챗봇 넷의 청소년 불안·우울 응답을 따져보니 우울 대응이 약했다.",
-      "mini_headline": "챗봇과\n청소년 정신건강",
+      "headline": "LLMs 다섯 개,\n같은 브랜드 약에 수렴",
+      "body": "LLMs 다섯이 질환-약물 123쌍, 프로필 1,440개에서 같은 상표를 골랐다.",
+      "mini_headline": "LLMs, 브랜드 약에 수렴",
       "tool": "Medicine",
-      "source": "Nature Mental Health",
-      "url": "https://www.nature.com/articles/s44220-026-00753-y",
+      "source": "Nature Health",
+      "url": "https://www.nature.com/articles/s44360-026-00205-y",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "범용 인공지능(AI) 챗봇에 정신건강 조언을 구하는 청소년은 많지만, 청소년에 맞춘 임상 기준으로 그 답을 평가한 연구는 드물다. 연구진은 임상의 의견을 반영해 Adolescent Mental Health AI Response Tool(AMHART)을 만들었다. 응답에 지침에 근거한 내용이 들어 있는지 일곱 개 영역에서 점검하는 도구로, 주요 AI 챗봇 네 개에 적용했다."
+            "x": "연구진은 다섯 개 LLMs(GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4, MedGemma)가 제품명을 어떻게 추천하는지 평가했다. 123개 질환–약물 쌍과 1,440개 사회인구학적 프로필에 걸친 합성 임상 사례 177,120건이 쓰였다. 사례마다 지정된 활성 성분을 함유한 FDA-approved(FDA 승인) 제품을 추천하라고 모델에 요청했다."
           },
           {
             "t": "img",
-            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-            "cap": "Fig. 1: AMHART 개발과 평가 개요."
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+            "cap": "Fig. 1: 연구 설계와 분석 워크플로."
           },
           {
             "t": "p",
-            "x": "후보 항목은 임상의가 근거 기반·객관성·임상적 중요성을 따져 검토했고, 내용 타당도와 평가자 간 신뢰도가 높은 일부 항목만 추렸다. 이어 대규모 언어 모델 세 개로 평가 앙상블을 꾸려 사람이 붙인 기준 라벨과 얼마나 일치하는지 확인한 뒤 성별·진단·증상 심각도가 다른 청소년 페르소나가 ChatGPT-5, ChatGPT-4, Claude 4.5, Gemini 2.5와 여러 차례 나눈 대화를 채점했다."
+            "x": "가장 자주 추천된 제품이 첫 선택 추천의 평균 97.5%를 차지했고, 모델 간 일치도도 거의 완벽했다(Fleiss’ κ = 0.895). 추천은 실제 처방 현황과 어긋났다. 활성 성분 51개 중 38개(74.5%)에서 비용이 더 들었고, 연간 증가액은 US$55.6 million으로 추산됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+            "cap": "Fig. 2: 사례와 모델에 따른 LLM 제품 추천의 일관성."
           },
           {
             "t": "p",
-            "x": "AMHART 점수로 보면 기준 충족 범위는 우울증보다 불안에서, 중증보다 중등도 사례에서 더 넓었다. 이번 결과로 AMHART가 청소년의 불안·우울 고백에 챗봇이 어떻게 답하는지 평가할 때 믿을 만하고 임상의 의견까지 반영한 기준이 될 수 있음이 드러났다."
+            "x": "모델은 오리지널 제품(OR 20.5)과 온라인 노출이 많은 제품(Google 검색 횟수 OR 1.70, 전용 Wikipedia 페이지 OR 3.00)을 선호했다. 제네릭이나 최저가 제품을 달라는 프롬프트를 넣으면 추천이 제네릭 쪽으로 옮겨 갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "How chatbots answer teens\nwith anxiety or depression",
-          "body": "Researchers built AMHART to grade four chatbots' replies to teens with anxiety or depression; depression fared worse.",
-          "mini_headline": "Chatbots and\nteen mental health",
+          "headline": "Five LLMs converge on the\nsame branded drugs",
+          "body": "Across 123 disease-drug pairs and 1,440 patient profiles, five LLMs kept recommending the same branded products.",
+          "mini_headline": "LLMs converge on drug brands",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Many adolescents seek mental health advice from general-purpose artificial intelligence (AI) chatbots, despite limited evaluations against youth-relevant clinical standards. Here we developed the Adolescent Mental Health AI Response Tool (AMHART), a clinician-informed instrument for auditing the presence of guideline-informed response content across seven domains, and applied it to four major AI chatbots."
+                "x": "Researchers evaluated product name recommendations from five LLMs — GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 and MedGemma — using 177,120 synthetic clinical vignettes spanning 123 disease–drug pairs and 1,440 sociodemographic profiles. Each vignette asked the model to recommend FDA-approved products containing a specified active ingredient."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: Graphic summary of AMHART development and evaluation."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: Study design and analytical workflow."
               },
               {
                 "t": "p",
-                "x": "Candidate items were reviewed by clinicians for their evidence base, objectivity and clinical importance, yielding a subset with strong content validity and inter-rater reliability. We then configured a three-model large language model evaluator ensemble, assessed its agreement with human reference labels and scored multiturn conversations in which adolescent personas (varying by sex, diagnosis and symptom severity) engaged with ChatGPT-5, ChatGPT-4, Claude 4.5 and Gemini 2.5."
+                "x": "The most frequently recommended product accounted for a mean of 97.5% of first-choice recommendations, and the models showed almost perfect agreement (Fleiss’ κ = 0.895). Recommendations diverged from real-world prescribing; of 51 active ingredients, 38 (74.5%) showed higher costs, an estimated annual increase of US$55.6 million."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: Consistency of LLM product recommendations across vignettes and models."
               },
               {
                 "t": "p",
-                "x": "AMHART scores indicated greater coverage of applicable criteria for anxiety than depression and for moderate than severe presentations. The findings suggest AMHART offers a reliable, clinician-informed benchmark for evaluating chatbot responses to adolescent anxiety and depression disclosures."
+                "x": "Models favoured originator products (OR 20.5) and those with greater online visibility (Google search counts, OR 1.70; a dedicated Wikipedia page, OR 3.00). Prompts asking for generic or lowest-cost products shifted recommendations towards generics."
               }
             ]
           }
         },
         "ko": {
-          "headline": "불안·우울 청소년에게\n챗봇은 어떻게 답할까",
-          "body": "AMHART로 챗봇 넷의 청소년 불안·우울 응답을 따져보니 우울 대응이 약했다.",
-          "mini_headline": "챗봇과\n청소년 정신건강",
+          "headline": "LLMs 다섯 개,\n같은 브랜드 약에 수렴",
+          "body": "LLMs 다섯이 질환-약물 123쌍, 프로필 1,440개에서 같은 상표를 골랐다.",
+          "mini_headline": "LLMs, 브랜드 약에 수렴",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "범용 인공지능(AI) 챗봇에 정신건강 조언을 구하는 청소년은 많지만, 청소년에 맞춘 임상 기준으로 그 답을 평가한 연구는 드물다. 연구진은 임상의 의견을 반영해 Adolescent Mental Health AI Response Tool(AMHART)을 만들었다. 응답에 지침에 근거한 내용이 들어 있는지 일곱 개 영역에서 점검하는 도구로, 주요 AI 챗봇 네 개에 적용했다."
+                "x": "연구진은 다섯 개 LLMs(GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4, MedGemma)가 제품명을 어떻게 추천하는지 평가했다. 123개 질환–약물 쌍과 1,440개 사회인구학적 프로필에 걸친 합성 임상 사례 177,120건이 쓰였다. 사례마다 지정된 활성 성분을 함유한 FDA-approved(FDA 승인) 제품을 추천하라고 모델에 요청했다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: AMHART 개발과 평가 개요."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 설계와 분석 워크플로."
               },
               {
                 "t": "p",
-                "x": "후보 항목은 임상의가 근거 기반·객관성·임상적 중요성을 따져 검토했고, 내용 타당도와 평가자 간 신뢰도가 높은 일부 항목만 추렸다. 이어 대규모 언어 모델 세 개로 평가 앙상블을 꾸려 사람이 붙인 기준 라벨과 얼마나 일치하는지 확인한 뒤 성별·진단·증상 심각도가 다른 청소년 페르소나가 ChatGPT-5, ChatGPT-4, Claude 4.5, Gemini 2.5와 여러 차례 나눈 대화를 채점했다."
+                "x": "가장 자주 추천된 제품이 첫 선택 추천의 평균 97.5%를 차지했고, 모델 간 일치도도 거의 완벽했다(Fleiss’ κ = 0.895). 추천은 실제 처방 현황과 어긋났다. 활성 성분 51개 중 38개(74.5%)에서 비용이 더 들었고, 연간 증가액은 US$55.6 million으로 추산됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: 사례와 모델에 따른 LLM 제품 추천의 일관성."
               },
               {
                 "t": "p",
-                "x": "AMHART 점수로 보면 기준 충족 범위는 우울증보다 불안에서, 중증보다 중등도 사례에서 더 넓었다. 이번 결과로 AMHART가 청소년의 불안·우울 고백에 챗봇이 어떻게 답하는지 평가할 때 믿을 만하고 임상의 의견까지 반영한 기준이 될 수 있음이 드러났다."
+                "x": "모델은 오리지널 제품(OR 20.5)과 온라인 노출이 많은 제품(Google 검색 횟수 OR 1.70, 전용 Wikipedia 페이지 OR 3.00)을 선호했다. 제네릭이나 최저가 제품을 달라는 프롬프트를 넣으면 추천이 제네릭 쪽으로 옮겨 갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "不安・うつの若者に\nチャットボットはどう答える",
-          "body": "AMHARTで四つのチャットボットの若者への応答を評価し、うつは不安より低評価だった。",
-          "mini_headline": "チャットボットと\n若者のメンタルヘルス",
+          "headline": "LLMs五つが\n同じブランド薬に収束",
+          "body": "123の疾患・薬剤ペアと1,440の患者像で五つのLLMsは同じブランド品を推奨し続けた。",
+          "mini_headline": "LLMsがブランド薬に収束",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "多くの若者が汎用の人工知能(AI)チャットボットにメンタルヘルスの助言を求めているが、若者に即した臨床基準による評価は限られている。本研究では、臨床医の知見を取り入れ、七つの領域でガイドラインに基づく応答内容の有無を監査するツール、Adolescent Mental Health AI Response Tool(AMHART)を開発し、主要なAIチャットボット四つに適用した。"
+                "x": "研究チームは、五つのLLMs（GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4、MedGemma）による製品名の推奨を、123の疾患–薬剤ペアと1,440の社会人口学的プロファイルにわたる177,120件の合成臨床ビネットで評価した。各ビネットでは、指定した有効成分を含むFDA-approved（FDA承認）製品の推奨をモデルに求めた。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: AMHARTの開発と評価の概要。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究デザインと解析ワークフロー。"
               },
               {
                 "t": "p",
-                "x": "候補項目は臨床医がエビデンスの裏付け、客観性、臨床的重要性の観点から審査し、高い内容妥当性と評価者間信頼性を備えた項目群を得た。次に、三つのモデルからなる大規模言語モデル評価アンサンブルを構成して人手による参照ラベルとの一致度を確認し、性別、診断、症状の重さが異なる若者のペルソナがChatGPT-5、ChatGPT-4、Claude 4.5、Gemini 2.5とやり取りした複数ターンの会話を採点した。"
+                "x": "最も多く推奨された製品が第一選択の推奨の平均97.5%を占め、モデル間の一致はほぼ完全だった（Fleiss’ κ = 0.895）。推奨は実際の処方と乖離しており、有効成分51種のうち38種（74.5%）でコストが高く、年間の増加額はUS$55.6 million と推計された。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: ビネットとモデルを通じたLLM製品推奨の一貫性。"
               },
               {
                 "t": "p",
-                "x": "AMHARTのスコアでは、該当基準の網羅度はうつより不安で、重度より中等度の症状で高かった。この結果は、AMHARTが若者の不安やうつの打ち明けに対するチャットボットの応答を評価するうえで、信頼でき臨床医の知見を反映したベンチマークとなることを示唆する。"
+                "x": "モデルは先発品（OR 20.5）や、オンラインでの露出が大きい製品（Google検索数でOR 1.70、専用のWikipediaページでOR 3.00）を好んだ。ジェネリックや最安製品を求めるプロンプトでは、推奨がジェネリックへと移った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面对焦虑抑郁青少年\n聊天机器人如何回应",
-          "body": "研究者用AMHART评估四款聊天机器人对焦虑或抑郁青少年的回复，抑郁表现更差。",
-          "mini_headline": "聊天机器人与\n青少年心理健康",
+          "headline": "五款LLMs推荐\n趋同于同一批品牌药",
+          "body": "在123组疾病-药物配对和1,440份患者档案中，五款LLMs反复推荐相同的品牌药品。",
+          "mini_headline": "LLMs趋同于品牌药",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "许多青少年向通用人工智能(AI)聊天机器人寻求心理健康建议，但依据青少年相关临床标准开展的评估十分有限。我们开发了Adolescent Mental Health AI Response Tool(AMHART)，这是一种结合临床医生意见的工具，用于审核七个领域中是否包含基于指南的回应内容，并将其应用于四款主流AI聊天机器人。"
+                "x": "研究人员评估了五款LLMs——GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4和MedGemma——给出的产品名称推荐，使用了涵盖123组疾病–药物配对和1,440种社会人口学特征的177,120个合成临床病例。每个病例都要求模型推荐含有指定活性成分的FDA-approved（FDA批准）产品。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: AMHART开发与评估的图示概要。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究设计与分析流程。"
               },
               {
                 "t": "p",
-                "x": "候选条目由临床医生根据证据基础、客观性和临床重要性进行审核，最终得到一组具有较强内容效度和评分者间信度的条目。随后，我们配置了由三个大语言模型组成的评估集成，检验其与人工参考标签的一致性，并对青少年角色(按性别、诊断和症状严重程度区分)与ChatGPT-5、ChatGPT-4、Claude 4.5和Gemini 2.5进行的多轮对话进行评分。"
+                "x": "最常被推荐的产品平均占首选推荐的97.5%，各模型之间几乎完全一致（Fleiss’ κ = 0.895）。这些推荐与真实世界的处方情况不符：在51种活性成分中，有38种（74.5%）成本更高，估计每年增加US$55.6 million。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: LLM产品推荐在不同病例和模型间的一致性。"
               },
               {
                 "t": "p",
-                "x": "AMHART评分显示，焦虑的适用标准覆盖率高于抑郁，中度表现的覆盖率高于重度表现。研究结果表明，AMHART可作为一个可靠且结合临床医生意见的基准，用于评估聊天机器人对青少年倾诉焦虑和抑郁时的回应。"
+                "x": "模型偏好原研产品（OR 20.5）以及网络曝光度更高的产品（Google搜索量，OR 1.70；拥有专门的Wikipedia页面，OR 3.00）。要求推荐仿制药或最低价产品的提示词会使推荐转向仿制药。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Chatbots ante adolescentes\ncon ansiedad o depresión",
-          "body": "AMHART evaluó las respuestas de cuatro chatbots a adolescentes con ansiedad o depresión, y la depresión salió peor.",
-          "mini_headline": "Chatbots y salud\nmental adolescente",
+          "headline": "Cinco LLMs coinciden en los\nmismos fármacos de marca",
+          "body": "En 123 pares enfermedad-fármaco y 1,440 perfiles de pacientes, cinco LLMs insistieron en los mismos productos de marca.",
+          "mini_headline": "Los LLMs coinciden en marcas de fármacos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Muchos adolescentes buscan consejo de salud mental en chatbots de inteligencia artificial (AI) de uso general, pese a que las evaluaciones frente a estándares clínicos pertinentes para jóvenes son limitadas. Aquí desarrollamos la Adolescent Mental Health AI Response Tool (AMHART), un instrumento elaborado con aportes de clínicos para auditar la presencia de contenido de respuesta basado en guías en siete dominios, y lo aplicamos a cuatro de los principales chatbots de AI."
+                "x": "Los investigadores evaluaron las recomendaciones de nombres de producto de cinco LLMs —GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 y MedGemma— mediante 177,120 viñetas clínicas sintéticas que abarcaban 123 pares enfermedad–fármaco y 1,440 perfiles sociodemográficos. Cada viñeta pedía al modelo recomendar productos FDA-approved (aprobados por la FDA) que contuvieran un principio activo determinado."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: Resumen gráfico del desarrollo y la evaluación de AMHART."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: Diseño del estudio y flujo de trabajo analítico."
               },
               {
                 "t": "p",
-                "x": "Los ítems candidatos fueron revisados por clínicos según su base de evidencia, objetividad e importancia clínica, lo que dio un subconjunto con sólida validez de contenido y fiabilidad entre evaluadores. Después configuramos un conjunto evaluador de tres modelos de lenguaje de gran tamaño, evaluamos su concordancia con etiquetas de referencia humanas y puntuamos conversaciones de varios turnos en las que perfiles de adolescentes (que variaban por sexo, diagnóstico y gravedad de los síntomas) interactuaban con ChatGPT-5, ChatGPT-4, Claude 4.5 y Gemini 2.5."
+                "x": "El producto recomendado con más frecuencia representó una media del 97.5% de las recomendaciones de primera elección, y los modelos mostraron un acuerdo casi perfecto (Fleiss’ κ = 0.895). Las recomendaciones se apartaron de la prescripción real: de 51 principios activos, 38 (74.5%) mostraron costes más altos, con un aumento anual estimado de US$55.6 millones."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: Consistencia de las recomendaciones de productos de los LLM entre viñetas y modelos."
               },
               {
                 "t": "p",
-                "x": "Las puntuaciones de AMHART indicaron una mayor cobertura de los criterios aplicables en ansiedad que en depresión, y en cuadros moderados que en graves. Los resultados sugieren que AMHART ofrece una referencia fiable y basada en el criterio clínico para evaluar las respuestas de los chatbots cuando los adolescentes revelan ansiedad o depresión."
+                "x": "Los modelos favorecieron los productos originales (OR 20.5) y los de mayor visibilidad en línea (recuentos de búsqueda en Google, OR 1.70; una página propia en Wikipedia, OR 3.00). Las instrucciones que pedían productos genéricos o de menor coste desplazaron las recomendaciones hacia los genéricos."
               }
             ]
           }
@@ -1041,109 +1201,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "불안·우울 청소년에게\n챗봇은 어떻게 답할까",
-          "body": "AMHART로 네 챗봇의 청소년 불안·우울 응답을 평가하니 우울 대응이 미흡했다.",
-          "mini_headline": "챗봇과\n청소년 정신건강",
+          "headline": "LLMs 다섯 개,\n같은 브랜드 약에 수렴",
+          "body": "LLMs 다섯은 질환-약물 123쌍, 프로필 1,440개에서 같은 상표를 골랐다.",
+          "mini_headline": "LLMs, 브랜드 약에 수렴",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "많은 청소년이 범용 인공지능(AI) 챗봇에서 정신건강 조언을 구하지만, 청소년에 맞는 임상 기준으로 이를 평가한 연구는 많지 않다. 연구진은 임상의의 의견을 반영해 일곱 개 영역에서 지침에 근거한 응답 내용이 있는지 점검하는 도구인 Adolescent Mental Health AI Response Tool(AMHART)을 개발하고, 이를 주요 AI 챗봇 네 개에 적용했다."
+                "x": "연구진은 다섯 개 LLMs(GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4, MedGemma)의 제품명 추천을 평가했다. 평가에는 123개 질환–약물 쌍과 1,440개 사회인구학적 프로필에 걸친 합성 임상 사례 177,120건을 썼다. 각 사례는 지정된 활성 성분을 함유한 FDA-approved(FDA 승인) 제품을 추천하도록 모델에 요청했다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: AMHART 개발 및 평가 개요."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 설계와 분석 워크플로."
               },
               {
                 "t": "p",
-                "x": "후보 항목은 임상의가 근거 기반, 객관성, 임상적 중요성을 기준으로 검토했으며, 그 결과 내용 타당도와 평가자 간 신뢰도가 높은 일부 항목을 추렸다. 이어 세 개 모델로 이뤄진 대규모 언어 모델 평가 앙상블을 구성해 사람이 붙인 기준 라벨과의 일치도를 확인하고, 성별·진단·증상 심각도가 다른 청소년 페르소나가 ChatGPT-5, ChatGPT-4, Claude 4.5, Gemini 2.5와 나눈 여러 차례의 대화를 채점했다."
+                "x": "가장 자주 추천된 제품이 첫 선택 추천의 평균 97.5%를 차지했고, 모델 간 일치도는 거의 완벽했다(Fleiss’ κ = 0.895). 추천은 실제 처방 현황과 달랐다. 활성 성분 51개 중 38개(74.5%)에서 비용이 더 높았고, 연간 증가액은 US$55.6 million으로 추산됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: 사례와 모델 전반에 걸친 LLM 제품 추천의 일관성."
               },
               {
                 "t": "p",
-                "x": "AMHART 점수를 보면 해당 기준의 충족 범위는 우울증보다 불안에서, 중증보다 중등도 사례에서 더 넓었다. 연구 결과는 AMHART가 청소년의 불안·우울 고백에 대한 챗봇 응답을 평가하는 데 믿을 만하고 임상의 의견을 반영한 기준이 될 수 있음을 보여준다."
+                "x": "모델은 오리지널 제품(OR 20.5)과 온라인 노출도가 높은 제품(Google 검색 횟수 OR 1.70, 전용 Wikipedia 페이지 OR 3.00)을 선호했다. 제네릭이나 최저가 제품을 요청하는 프롬프트는 추천을 제네릭 쪽으로 옮겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "不安・うつの若者に\nチャットボットはどう答える",
-          "body": "AMHARTで四つのチャットボットの若者への応答を評価し、うつは不安より低評価だった。",
-          "mini_headline": "チャットボットと\n若者のメンタルヘルス",
+          "headline": "LLMs五つが\n同じブランド薬に収束",
+          "body": "123の疾患・薬剤ペアと1,440の患者像で五つのLLMsは同じブランド品を推奨し続けた。",
+          "mini_headline": "LLMsがブランド薬に収束",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "多くの若者が汎用の人工知能(AI)チャットボットにメンタルヘルスの助言を求めているが、若者に即した臨床基準による評価は限られている。本研究では、臨床医の知見を取り入れ、七つの領域でガイドラインに基づく応答内容の有無を監査するツール、Adolescent Mental Health AI Response Tool(AMHART)を開発し、主要なAIチャットボット四つに適用した。"
+                "x": "研究チームは、五つのLLMs（GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4、MedGemma）による製品名の推奨を、123の疾患–薬剤ペアと1,440の社会人口学的プロファイルにわたる177,120件の合成臨床ビネットで評価した。各ビネットでは、指定した有効成分を含むFDA-approved（FDA承認）製品の推奨をモデルに求めた。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: AMHARTの開発と評価の概要。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究デザインと解析ワークフロー。"
               },
               {
                 "t": "p",
-                "x": "候補項目は臨床医がエビデンスの裏付け、客観性、臨床的重要性の観点から審査し、高い内容妥当性と評価者間信頼性を備えた項目群を得た。次に、三つのモデルからなる大規模言語モデル評価アンサンブルを構成して人手による参照ラベルとの一致度を確認し、性別、診断、症状の重さが異なる若者のペルソナがChatGPT-5、ChatGPT-4、Claude 4.5、Gemini 2.5とやり取りした複数ターンの会話を採点した。"
+                "x": "最も多く推奨された製品が第一選択の推奨の平均97.5%を占め、モデル間の一致はほぼ完全だった（Fleiss’ κ = 0.895）。推奨は実際の処方と乖離しており、有効成分51種のうち38種（74.5%）でコストが高く、年間の増加額はUS$55.6 million と推計された。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: ビネットとモデルを通じたLLM製品推奨の一貫性。"
               },
               {
                 "t": "p",
-                "x": "AMHARTのスコアでは、該当基準の網羅度はうつより不安で、重度より中等度の症状で高かった。この結果は、AMHARTが若者の不安やうつの打ち明けに対するチャットボットの応答を評価するうえで、信頼でき臨床医の知見を反映したベンチマークとなることを示唆する。"
+                "x": "モデルは先発品（OR 20.5）や、オンラインでの露出が大きい製品（Google検索数でOR 1.70、専用のWikipediaページでOR 3.00）を好んだ。ジェネリックや最安製品を求めるプロンプトでは、推奨がジェネリックへと移った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面对焦虑抑郁青少年\n聊天机器人如何回应",
-          "body": "研究者用AMHART评估四款聊天机器人对焦虑或抑郁青少年的回复，抑郁表现更差。",
-          "mini_headline": "聊天机器人与\n青少年心理健康",
+          "headline": "五款LLMs推荐\n趋同于同一批品牌药",
+          "body": "在123组疾病-药物配对和1,440份患者档案中，五款LLMs反复推荐相同的品牌药品。",
+          "mini_headline": "LLMs趋同于品牌药",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "许多青少年向通用人工智能(AI)聊天机器人寻求心理健康建议，但依据青少年相关临床标准开展的评估十分有限。我们开发了Adolescent Mental Health AI Response Tool(AMHART)，这是一种结合临床医生意见的工具，用于审核七个领域中是否包含基于指南的回应内容，并将其应用于四款主流AI聊天机器人。"
+                "x": "研究人员评估了五款LLMs——GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4和MedGemma——给出的产品名称推荐，使用了涵盖123组疾病–药物配对和1,440种社会人口学特征的177,120个合成临床病例。每个病例都要求模型推荐含有指定活性成分的FDA-approved（FDA批准）产品。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: AMHART开发与评估的图示概要。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究设计与分析流程。"
               },
               {
                 "t": "p",
-                "x": "候选条目由临床医生根据证据基础、客观性和临床重要性进行审核，最终得到一组具有较强内容效度和评分者间信度的条目。随后，我们配置了由三个大语言模型组成的评估集成，检验其与人工参考标签的一致性，并对青少年角色(按性别、诊断和症状严重程度区分)与ChatGPT-5、ChatGPT-4、Claude 4.5和Gemini 2.5进行的多轮对话进行评分。"
+                "x": "最常被推荐的产品平均占首选推荐的97.5%，各模型之间几乎完全一致（Fleiss’ κ = 0.895）。这些推荐与真实世界的处方情况不符：在51种活性成分中，有38种（74.5%）成本更高，估计每年增加US$55.6 million。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: LLM产品推荐在不同病例和模型间的一致性。"
               },
               {
                 "t": "p",
-                "x": "AMHART评分显示，焦虑的适用标准覆盖率高于抑郁，中度表现的覆盖率高于重度表现。研究结果表明，AMHART可作为一个可靠且结合临床医生意见的基准，用于评估聊天机器人对青少年倾诉焦虑和抑郁时的回应。"
+                "x": "模型偏好原研产品（OR 20.5）以及网络曝光度更高的产品（Google搜索量，OR 1.70；拥有专门的Wikipedia页面，OR 3.00）。要求推荐仿制药或最低价产品的提示词会使推荐转向仿制药。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Chatbots ante adolescentes\ncon ansiedad o depresión",
-          "body": "AMHART evaluó las respuestas de cuatro chatbots a adolescentes con ansiedad o depresión, y la depresión salió peor.",
-          "mini_headline": "Chatbots y salud\nmental adolescente",
+          "headline": "Cinco LLMs coinciden en los\nmismos fármacos de marca",
+          "body": "En 123 pares enfermedad-fármaco y 1,440 perfiles de pacientes, cinco LLMs insistieron en los mismos productos de marca.",
+          "mini_headline": "Los LLMs coinciden en marcas de fármacos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Muchos adolescentes buscan consejo de salud mental en chatbots de inteligencia artificial (AI) de uso general, pese a que las evaluaciones frente a estándares clínicos pertinentes para jóvenes son limitadas. Aquí desarrollamos la Adolescent Mental Health AI Response Tool (AMHART), un instrumento elaborado con aportes de clínicos para auditar la presencia de contenido de respuesta basado en guías en siete dominios, y lo aplicamos a cuatro de los principales chatbots de AI."
+                "x": "Los investigadores evaluaron las recomendaciones de nombres de producto de cinco LLMs —GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 y MedGemma— mediante 177,120 viñetas clínicas sintéticas que abarcaban 123 pares enfermedad–fármaco y 1,440 perfiles sociodemográficos. Cada viñeta pedía al modelo recomendar productos FDA-approved (aprobados por la FDA) que contuvieran un principio activo determinado."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44220-026-00753-y/MediaObjects/44220_2026_753_Fig1_HTML.png",
-                "cap": "Fig. 1: Resumen gráfico del desarrollo y la evaluación de AMHART."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+                "cap": "Fig. 1: Diseño del estudio y flujo de trabajo analítico."
               },
               {
                 "t": "p",
-                "x": "Los ítems candidatos fueron revisados por clínicos según su base de evidencia, objetividad e importancia clínica, lo que dio un subconjunto con sólida validez de contenido y fiabilidad entre evaluadores. Después configuramos un conjunto evaluador de tres modelos de lenguaje de gran tamaño, evaluamos su concordancia con etiquetas de referencia humanas y puntuamos conversaciones de varios turnos en las que perfiles de adolescentes (que variaban por sexo, diagnóstico y gravedad de los síntomas) interactuaban con ChatGPT-5, ChatGPT-4, Claude 4.5 y Gemini 2.5."
+                "x": "El producto recomendado con más frecuencia representó una media del 97.5% de las recomendaciones de primera elección, y los modelos mostraron un acuerdo casi perfecto (Fleiss’ κ = 0.895). Las recomendaciones se apartaron de la prescripción real: de 51 principios activos, 38 (74.5%) mostraron costes más altos, con un aumento anual estimado de US$55.6 millones."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+                "cap": "Fig. 2: Consistencia de las recomendaciones de productos de los LLM entre viñetas y modelos."
               },
               {
                 "t": "p",
-                "x": "Las puntuaciones de AMHART indicaron una mayor cobertura de los criterios aplicables en ansiedad que en depresión, y en cuadros moderados que en graves. Los resultados sugieren que AMHART ofrece una referencia fiable y basada en el criterio clínico para evaluar las respuestas de los chatbots cuando los adolescentes revelan ansiedad o depresión."
+                "x": "Los modelos favorecieron los productos originales (OR 20.5) y los de mayor visibilidad en línea (recuentos de búsqueda en Google, OR 1.70; una página propia en Wikipedia, OR 3.00). Las instrucciones que pedían productos genéricos o de menor coste desplazaron las recomendaciones hacia los genéricos."
               }
             ]
           }
@@ -1151,231 +1331,391 @@
       }
     },
     {
-      "id": "brainomix-glyburide-ct",
-      "source_lang": "en",
+      "id": "severance-cxr-lvef-ai",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Brainomix AI가\n뇌졸중 투약 환자 선별",
-      "body": "Brainomix CT 분석으로 IV 글리부라이드가 듣는 뇌졸중 환자를 가려냈다.",
-      "mini_headline": "Brainomix AI와\n뇌졸중 약물 선택",
+      "headline": "흉부 엑스레이로\n심장 기능 저하 예측",
+      "body": "용인세브란스병원이 흉부 X선만으로 심장 기능 저하를 예측하는 AI를 개발했다.",
+      "mini_headline": "X선으로 심기능 저하 예측",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders",
+      "source": "메디게이트뉴스",
+      "url": "https://medigatenews.com/news/1981314083",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Brainomix는 자사 소프트웨어로 비조영 CT를 자동 분석하면 대형 반구 경색 환자를 가려내는 데 도움이 될 수 있다는 연구를 소개했다. 서울에서 열린 World Stroke Conference에서 발표된 III상 Charm 임상시험 사후 분석을 보면 이들 환자는 Remedy Pharmaceuticals의 연구용 치료제인 정맥 주사 글리부라이드(Cirara)로 효과를 볼 가능성이 더 높았다."
+            "t": "img",
+            "src": "https://medigatenews.com/file/news/537580"
           },
           {
             "t": "p",
-            "x": "회사는 Brainomix 360 Stroke 소프트웨어로 임상시험 환자 428명의 비조영 CT에서 급성 경색 부피를 측정했다. 연구진에 따르면 경색 핵심 부피가 125 mL 미만인 환자 191명의 하위군을 따로 보면 Cirara는 modified Rankin Scale 기준 기능적 결과 개선과 유의하게 연관됐고, 90일째 0~3점에 이를 가능성도 더 높았다."
+            "x": "연세대학교 용인세브란스병원 심장내과 정인현·배성아 교수와 연세의대 의생명시스템정보학교실 윤덕용 교수 연구팀이 흉부 엑스레이(X-ray) 영상으로 심장 기능 저하 가능성을 예측하는 인공지능(AI) 모델을 개발하고 성능을 검증한 연구 결과를 최근 발표했다고 29일 밝혔다."
           },
           {
             "t": "p",
-            "x": "Brainomix는 이번 결과를 근거로 CT 관류 영상이나 MRI 같은 고급 영상이 없어도 이 치료제의 임상시험 대상 환자를 고를 수 있다고 밝혔다. Cirara는 아직 어떤 규제 당국의 승인도 받지 않았다."
+            "x": "좌심실 박출률(LVEF)은 일반적으로 심장초음파 검사로 측정하지만, 검사 장비와 숙련된 전문 인력이 필요해 규모가 작은 의료기관에서는 시행하기 어려웠다. 연구팀은 직접 딥러닝(DDL)과, 영상 판독 AI 루닛 인사이트 CXR의 분석 결과를 활용하는 하이브리드 딥러닝(HDL) 두 모델을 개발해 비교했다."
+          },
+          {
+            "t": "p",
+            "x": "모델 개발에는 용인세브란스병원 환자 1만152명의 자료를, 전향적 검증에는 호흡곤란으로 응급실 또는 외래를 방문한 환자 505명을, 외부 검증에는 서울대학교병원 환자 3657명의 자료를 사용했다."
+          },
+          {
+            "t": "img",
+            "src": "https://medigatenews.com/file/news/537581"
+          },
+          {
+            "t": "p",
+            "x": "AUROC는 HDL 모델이 0.85로 DDL 모델의 0.61보다 높았다. 전향적 검증에서는 HDL 모델이 0.85, DDL 모델이 0.57이었고, HDL 모델의 외부 검증 AUROC는 0.73이었다. HDL 모델은 특이도 90~97%, 음성예측도 91~98%를 보였다."
+          },
+          {
+            "t": "p",
+            "x": "정인현·배성아 교수는 \"추가 임상 검증을 거쳐 응급실이나 심장초음파 검사 접근성이 낮은 의료기관에서 심장 기능 저하 의심 환자를 선별하는 보조 도구로 활용될 수 있을 것으로 기대한다\"고 말했다. 결과는 국제학술지 사이언티픽 리포트(Scientific Reports)에 게재됐다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Brainomix AI spots stroke\npatients for glyburide",
-          "body": "Brainomix highlights a study where its automated CT analysis flagged stroke patients likely to gain from IV glyburide.",
-          "mini_headline": "Brainomix AI and\nstroke drug choice",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Brainomix is highlighting a study showing how automated noncontrast CT analysis with the company's software may help identify patients with large hemispheric infarction. These patients are more likely to benefit from intravenous glyburide (Cirara), an investigational therapy from Remedy Pharmaceuticals, according to a post-hoc analysis of the phase III Charm trial presented at the World Stroke Conference in Seoul."
-              },
-              {
-                "t": "p",
-                "x": "Using its Brainomix 360 Stroke software, the company measured acute infarct volume on noncontrast CT in 428 trial patients. In a subgroup of 191 patients with infarct core volumes below 125 mL, Cirara showed significantly association with improved functional outcomes on the modified Rankin Scale, including a greater likelihood of achieving a score of 0 to 3 at 90 days, the researchers found."
-              },
-              {
-                "t": "p",
-                "x": "The findings suggest that patients could be selected for trials of the therapy without advanced imaging such as CT perfusion or MRI, Brainomix said. Cirara has not been approved by any regulatory authority."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Brainomix AI가\n뇌졸중 투약 환자 선별",
-          "body": "Brainomix CT 분석으로 IV 글리부라이드가 듣는 뇌졸중 환자를 가려냈다.",
-          "mini_headline": "Brainomix AI와\n뇌졸중 약물 선택",
+          "headline": "흉부 엑스레이로\n심장 기능 저하 예측",
+          "body": "용인세브란스병원이 흉부 X선만으로 심장 기능 저하를 예측하는 AI를 개발했다.",
+          "mini_headline": "X선으로 심기능 저하 예측",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Brainomix는 자사 소프트웨어로 비조영 CT를 자동 분석하면 대형 반구 경색 환자를 가려내는 데 도움이 될 수 있다는 연구를 소개했다. 서울에서 열린 World Stroke Conference에서 발표된 III상 Charm 임상시험 사후 분석을 보면 이들 환자는 Remedy Pharmaceuticals의 연구용 치료제인 정맥 주사 글리부라이드(Cirara)로 효과를 볼 가능성이 더 높았다."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
               },
               {
                 "t": "p",
-                "x": "회사는 Brainomix 360 Stroke 소프트웨어로 임상시험 환자 428명의 비조영 CT에서 급성 경색 부피를 측정했다. 연구진에 따르면 경색 핵심 부피가 125 mL 미만인 환자 191명의 하위군을 따로 보면 Cirara는 modified Rankin Scale 기준 기능적 결과 개선과 유의하게 연관됐고, 90일째 0~3점에 이를 가능성도 더 높았다."
+                "x": "연세대학교 용인세브란스병원 심장내과 정인현·배성아 교수와 연세의대 의생명시스템정보학교실 윤덕용 교수 연구팀이 흉부 엑스레이(X-ray) 영상으로 심장 기능 저하 가능성을 예측하는 인공지능(AI) 모델을 개발하고 성능을 검증한 연구 결과를 최근 발표했다고 29일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Brainomix는 이번 결과를 근거로 CT 관류 영상이나 MRI 같은 고급 영상이 없어도 이 치료제의 임상시험 대상 환자를 고를 수 있다고 밝혔다. Cirara는 아직 어떤 규제 당국의 승인도 받지 않았다."
+                "x": "좌심실 박출률(LVEF)은 일반적으로 심장초음파 검사로 측정하지만, 검사 장비와 숙련된 전문 인력이 필요해 규모가 작은 의료기관에서는 시행하기 어려웠다. 연구팀은 직접 딥러닝(DDL)과, 영상 판독 AI 루닛 인사이트 CXR의 분석 결과를 활용하는 하이브리드 딥러닝(HDL) 두 모델을 개발해 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "모델 개발에는 용인세브란스병원 환자 1만152명의 자료를, 전향적 검증에는 호흡곤란으로 응급실 또는 외래를 방문한 환자 505명을, 외부 검증에는 서울대학교병원 환자 3657명의 자료를 사용했다."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "AUROC는 HDL 모델이 0.85로 DDL 모델의 0.61보다 높았다. 전향적 검증에서는 HDL 모델이 0.85, DDL 모델이 0.57이었고, HDL 모델의 외부 검증 AUROC는 0.73이었다. HDL 모델은 특이도 90~97%, 음성예측도 91~98%를 보였다."
+              },
+              {
+                "t": "p",
+                "x": "정인현·배성아 교수는 \"추가 임상 검증을 거쳐 응급실이나 심장초음파 검사 접근성이 낮은 의료기관에서 심장 기능 저하 의심 환자를 선별하는 보조 도구로 활용될 수 있을 것으로 기대한다\"고 말했다. 결과는 국제학술지 사이언티픽 리포트(Scientific Reports)에 게재됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Brainomix AIが\n脳卒中の投薬対象を選別",
-          "body": "Brainomixの自動CT解析が、IVグリブリドの恩恵を受けうる脳卒中患者を特定した。",
-          "mini_headline": "Brainomix AIと\n脳卒中の薬剤選択",
+          "headline": "胸部X線で\n心機能低下を予測",
+          "body": "龍仁セブランス病院が、胸部X線だけで心機能の低下を予測するAIを開発した。",
+          "mini_headline": "X線で心機能低下を予測",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Brainomixは、同社ソフトウェアによる非造影CTの自動解析が大きな半球梗塞の患者の特定に役立つ可能性を示す研究を紹介している。ソウルで開かれたWorld Stroke Conferenceで発表された第III相Charm試験の事後解析によると、これらの患者はRemedy Pharmaceuticalsの治験薬である静注グリブリド(Cirara)の恩恵を受ける可能性が高い。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
               },
               {
                 "t": "p",
-                "x": "同社はBrainomix 360 Strokeソフトウェアを使い、試験患者428人の非造影CTで急性梗塞体積を測定した。研究者らによると、梗塞コア体積が125 mL未満の191人のサブグループでは、Ciraraはmodified Rankin Scaleによる機能的転帰の改善と有意な関連を示し、90日時点で0〜3のスコアを達成する可能性も高かった。"
+                "x": "延世大学龍仁セブランス病院循環器内科のチョン・インヒョン教授、ペ・ソンア教授と、延世大学医学部医生命システム情報学教室のユン・ドギョン教授の研究チームは、胸部エックス線（X-ray）画像から心機能低下の可能性を予測する人工知能（AI）モデルを開発し、その性能を検証した研究結果を最近発表したと29日に明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Brainomixによると、この結果はCT灌流やMRIなどの高度な画像検査なしでも、この治療薬の試験に患者を選べる可能性を示唆している。Ciraraはどの規制当局からも承認されていない。"
+                "x": "左室駆出率（LVEF）は通常、心エコー検査で測定するが、検査機器と熟練した専門人材が必要なため、小規模な医療機関では実施が難しかった。研究チームは、直接ディープラーニング（DDL）と、画像読影AI「Lunit INSIGHT CXR」の解析結果を活用するハイブリッド・ディープラーニング（HDL）の二つのモデルを開発し、比較した。"
+              },
+              {
+                "t": "p",
+                "x": "モデル開発には龍仁セブランス病院の患者1万152人のデータを、前向き検証には呼吸困難で救急外来または外来を受診した患者505人を、外部検証にはソウル大学病院の患者3657人のデータを用いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "AUROCはHDLモデルが0.85で、DDLモデルの0.61を上回った。前向き検証ではHDLモデルが0.85、DDLモデルが0.57で、HDLモデルの外部検証AUROCは0.73だった。HDLモデルは特異度90~97%、陰性的中率91~98%を示した。"
+              },
+              {
+                "t": "p",
+                "x": "チョン・インヒョン教授とペ・ソンア教授は「追加の臨床検証を経て、救急外来や心エコー検査へのアクセスが限られる医療機関で、心機能低下が疑われる患者を選別する補助ツールとして活用できると期待している」と述べた。結果は国際学術誌Scientific Reports（サイエンティフィック・リポーツ）に掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Brainomix AI\n识别适用格列本脲的卒中患者",
-          "body": "Brainomix介绍一项研究，其自动CT分析找出了可能受益于IV格列本脲的卒中患者。",
-          "mini_headline": "Brainomix AI与\n卒中用药选择",
+          "headline": "胸部X光片\n可预测心功能下降",
+          "body": "龙仁世福兰斯医院开发出仅凭胸部X光即可预测心功能下降的AI模型。",
+          "mini_headline": "X光预测心功能下降",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Brainomix正在推介一项研究，显示借助该公司软件进行的自动非增强CT分析可能有助于识别大面积半球梗死患者。根据在首尔举行的World Stroke Conference上公布的III期Charm试验事后分析，这些患者更可能从Remedy Pharmaceuticals的在研疗法静脉注射格列本脲(Cirara)中获益。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
               },
               {
                 "t": "p",
-                "x": "该公司使用Brainomix 360 Stroke软件，在428名试验患者的非增强CT上测量了急性梗死体积。研究人员发现，在梗死核心体积低于125 mL的191名患者亚组中，Cirara与modified Rankin Scale上功能结局的改善显著相关，包括在90天时达到0至3分的可能性更高。"
+                "x": "延世大学龙仁世福兰斯医院心内科教授Jung In-hyun、Bae Sung-ah与延世大学医学院生物医学系统信息学教研室教授Yoon Deok-yong的研究团队29日表示，他们开发出可通过胸部X光（X-ray）影像预测心功能下降可能性的人工智能（AI）模型，并于近期发表了验证其性能的研究成果。"
               },
               {
                 "t": "p",
-                "x": "Brainomix表示，研究结果表明，无需CT灌注或MRI等高级影像，也可以为该疗法的试验筛选患者。Cirara尚未获得任何监管机构批准。"
+                "x": "左心室射血分数（LVEF）通常通过心脏超声检查测量，但由于需要检查设备和熟练的专业人员，规模较小的医疗机构难以开展。研究团队开发并比较了两种模型：直接深度学习（DDL），以及利用影像判读AI Lunit INSIGHT CXR分析结果的混合深度学习（HDL）。"
+              },
+              {
+                "t": "p",
+                "x": "模型开发使用了龙仁世福兰斯医院1万152名患者的数据，前瞻性验证纳入了因呼吸困难前往急诊或门诊就诊的505名患者，外部验证使用了首尔大学医院3657名患者的数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "HDL模型的AUROC为0.85，高于DDL模型的0.61。在前瞻性验证中，HDL模型为0.85，DDL模型为0.57；HDL模型的外部验证AUROC为0.73。HDL模型的特异度为90~97%，阴性预测值为91~98%。"
+              },
+              {
+                "t": "p",
+                "x": "Jung In-hyun、Bae Sung-ah教授表示：“希望经过进一步临床验证后，它能在急诊室或心脏超声检查可及性较低的医疗机构中，作为筛查疑似心功能下降患者的辅助工具。”研究结果发表于国际学术期刊《科学报告》（Scientific Reports）。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Chest X-ray AI predicts\nreduced heart function",
+          "body": "Yongin Severance Hospital has developed an AI that predicts reduced heart function from chest X-rays alone.",
+          "mini_headline": "X-ray predicts reduced heart function",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
+              },
+              {
+                "t": "p",
+                "x": "A research team led by professors Jung In-hyun and Bae Sung-ah of the cardiology department at Yonsei University Yongin Severance Hospital and professor Yoon Duk-yong of the Department of Biomedical Systems Informatics at Yonsei University College of Medicine said on the 29th that it had recently published a study developing and validating an artificial intelligence (AI) model that predicts the likelihood of reduced heart function from chest X-ray images."
+              },
+              {
+                "t": "p",
+                "x": "Left ventricular ejection fraction (LVEF) is usually measured by echocardiography, but because it requires equipment and skilled specialists, it has been hard to perform at smaller medical institutions. The team developed and compared two models: direct deep learning (DDL) and hybrid deep learning (HDL), which uses analysis results from the imaging AI Lunit INSIGHT CXR."
+              },
+              {
+                "t": "p",
+                "x": "Data from 1만152 patients at Yongin Severance Hospital were used for model development, 505 patients who visited the emergency room or outpatient clinic with shortness of breath for prospective validation, and data from 3657 patients at Seoul National University Hospital for external validation."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "The HDL model's AUROC was 0.85, higher than the DDL model's 0.61. In prospective validation, the HDL model scored 0.85 and the DDL model 0.57, and the HDL model's external validation AUROC was 0.73. The HDL model showed specificity of 90~97% and negative predictive value of 91~98%."
+              },
+              {
+                "t": "p",
+                "x": "Professors Jung In-hyun and Bae Sung-ah said, \"After further clinical validation, we expect it could be used as an assistive tool to screen patients suspected of reduced heart function in emergency rooms or at medical institutions with limited access to echocardiography.\" The results were published in the international journal Scientific Reports."
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de Brainomix detecta\ncandidatos a gliburida en ictus",
-          "body": "Brainomix destaca un estudio donde su análisis automático de CT halló pacientes con ictus aptos para gliburida IV.",
-          "mini_headline": "Brainomix AI y la\nelección de fármaco en ictus",
+          "headline": "Radiografía de tórax para\npredecir la disfunción cardíaca",
+          "body": "El Hospital Severance de Yongin desarrolló una AI que predice la disfunción cardíaca solo con rayos X de tórax.",
+          "mini_headline": "Rayos X predicen disfunción cardíaca",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Brainomix destaca un estudio que muestra cómo el análisis automatizado de CT sin contraste con el software de la empresa puede ayudar a identificar a pacientes con infarto hemisférico extenso. Estos pacientes tienen más probabilidades de beneficiarse de la gliburida intravenosa (Cirara), una terapia en investigación de Remedy Pharmaceuticals, según un análisis post hoc del ensayo de fase III Charm presentado en la World Stroke Conference de Seúl."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
               },
               {
                 "t": "p",
-                "x": "Con su software Brainomix 360 Stroke, la empresa midió el volumen del infarto agudo en la CT sin contraste de 428 pacientes del ensayo. En un subgrupo de 191 pacientes con volúmenes del núcleo del infarto inferiores a 125 mL, Cirara mostró una asociación significativa con la mejora de los resultados funcionales en la modified Rankin Scale, incluida una mayor probabilidad de alcanzar una puntuación de 0 a 3 a los 90 días, según hallaron los investigadores."
+                "x": "Un equipo de investigación dirigido por los profesores Jung In-hyun y Bae Sung-ah, del departamento de cardiología del Hospital Severance de Yongin de la Universidad Yonsei, y el profesor Yoon Duk-yong, del Departamento de Informática de Sistemas Biomédicos de la Facultad de Medicina de Yonsei, informó el día 29 que publicó recientemente un estudio en el que desarrolló y validó un modelo de inteligencia artificial (AI) que predice la probabilidad de disfunción cardíaca a partir de imágenes de radiografía de tórax (X-ray)."
               },
               {
                 "t": "p",
-                "x": "Los resultados sugieren que los pacientes podrían seleccionarse para ensayos de la terapia sin imágenes avanzadas como la perfusión por CT o la MRI, según Brainomix. Cirara no ha sido aprobada por ninguna autoridad reguladora."
+                "x": "La fracción de eyección del ventrículo izquierdo (LVEF) suele medirse mediante ecocardiografía, pero al requerir equipos y personal especializado capacitado, resultaba difícil de realizar en centros médicos pequeños. El equipo desarrolló y comparó dos modelos: el aprendizaje profundo directo (DDL) y el aprendizaje profundo híbrido (HDL), que utiliza los resultados de análisis de la AI de lectura de imágenes Lunit INSIGHT CXR."
+              },
+              {
+                "t": "p",
+                "x": "Para el desarrollo del modelo se usaron datos de 1만152 pacientes del Hospital Severance de Yongin; para la validación prospectiva, 505 pacientes que acudieron a urgencias o a consulta externa por disnea; y para la validación externa, datos de 3657 pacientes del Hospital de la Universidad Nacional de Seúl."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "El AUROC del modelo HDL fue de 0.85, superior al 0.61 del modelo DDL. En la validación prospectiva, el modelo HDL obtuvo 0.85 y el modelo DDL 0.57, y el AUROC de validación externa del modelo HDL fue de 0.73. El modelo HDL mostró una especificidad del 90~97% y un valor predictivo negativo del 91~98%."
+              },
+              {
+                "t": "p",
+                "x": "Los profesores Jung In-hyun y Bae Sung-ah afirmaron: \"Tras una validación clínica adicional, esperamos que pueda utilizarse como herramienta de apoyo para identificar a pacientes con sospecha de disfunción cardíaca en urgencias o en centros médicos con acceso limitado a la ecocardiografía\". Los resultados se publicaron en la revista internacional Scientific Reports."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Brainomix AI가\n뇌졸중 투약 환자 선별",
-          "body": "Brainomix CT 분석이 IV 글리부라이드 수혜 뇌졸중 환자를 가려냈다.",
-          "mini_headline": "Brainomix AI와\n뇌졸중 약물 선택",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Brainomix가 자사 소프트웨어를 이용한 자동 비조영 CT 분석이 대형 반구 경색 환자를 가려내는 데 도움이 될 수 있음을 보여준 연구를 소개했다. 서울에서 열린 World Stroke Conference에서 발표된 III상 Charm 임상시험 사후 분석에 따르면, 이들 환자는 Remedy Pharmaceuticals의 연구용 치료제인 정맥 주사 글리부라이드(Cirara)로 효과를 볼 가능성이 더 높다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 Brainomix 360 Stroke 소프트웨어로 임상시험 환자 428명의 비조영 CT에서 급성 경색 부피를 측정했다. 연구진에 따르면 경색 핵심 부피가 125 mL 미만인 환자 191명의 하위군에서 Cirara는 modified Rankin Scale 기준 기능적 결과 개선과 유의한 연관을 보였고, 90일째 0~3점에 도달할 가능성도 더 높았다."
-              },
-              {
-                "t": "p",
-                "x": "Brainomix는 이번 결과가 CT 관류 영상이나 MRI 같은 고급 영상 없이도 이 치료제의 임상시험 대상 환자를 고를 수 있음을 시사한다고 밝혔다. Cirara는 아직 어떤 규제 당국의 승인도 받지 않았다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Brainomix AIが\n脳卒中の投薬対象を選別",
-          "body": "Brainomixの自動CT解析が、IVグリブリドの恩恵を受けうる脳卒中患者を特定した。",
-          "mini_headline": "Brainomix AIと\n脳卒中の薬剤選択",
+          "headline": "胸部X線で\n心機能低下を予測",
+          "body": "龍仁セブランス病院が、胸部X線だけで心機能の低下を予測するAIを開発した。",
+          "mini_headline": "X線で心機能低下を予測",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Brainomixは、同社ソフトウェアによる非造影CTの自動解析が大きな半球梗塞の患者の特定に役立つ可能性を示す研究を紹介している。ソウルで開かれたWorld Stroke Conferenceで発表された第III相Charm試験の事後解析によると、これらの患者はRemedy Pharmaceuticalsの治験薬である静注グリブリド(Cirara)の恩恵を受ける可能性が高い。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
               },
               {
                 "t": "p",
-                "x": "同社はBrainomix 360 Strokeソフトウェアを使い、試験患者428人の非造影CTで急性梗塞体積を測定した。研究者らによると、梗塞コア体積が125 mL未満の191人のサブグループでは、Ciraraはmodified Rankin Scaleによる機能的転帰の改善と有意な関連を示し、90日時点で0〜3のスコアを達成する可能性も高かった。"
+                "x": "延世大学龍仁セブランス病院循環器内科のチョン・インヒョン教授、ペ・ソンア教授と、延世大学医学部医生命システム情報学教室のユン・ドギョン教授の研究チームは、胸部エックス線（X-ray）画像から心機能低下の可能性を予測する人工知能（AI）モデルを開発し、その性能を検証した研究結果を最近発表したと29日に明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Brainomixによると、この結果はCT灌流やMRIなどの高度な画像検査なしでも、この治療薬の試験に患者を選べる可能性を示唆している。Ciraraはどの規制当局からも承認されていない。"
+                "x": "左室駆出率（LVEF）は通常、心エコー検査で測定するが、検査機器と熟練した専門人材が必要なため、小規模な医療機関では実施が難しかった。研究チームは、直接ディープラーニング（DDL）と、画像読影AI「Lunit INSIGHT CXR」の解析結果を活用するハイブリッド・ディープラーニング（HDL）の二つのモデルを開発し、比較した。"
+              },
+              {
+                "t": "p",
+                "x": "モデル開発には龍仁セブランス病院の患者1万152人のデータを、前向き検証には呼吸困難で救急外来または外来を受診した患者505人を、外部検証にはソウル大学病院の患者3657人のデータを用いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "AUROCはHDLモデルが0.85で、DDLモデルの0.61を上回った。前向き検証ではHDLモデルが0.85、DDLモデルが0.57で、HDLモデルの外部検証AUROCは0.73だった。HDLモデルは特異度90~97%、陰性的中率91~98%を示した。"
+              },
+              {
+                "t": "p",
+                "x": "チョン・インヒョン教授とペ・ソンア教授は「追加の臨床検証を経て、救急外来や心エコー検査へのアクセスが限られる医療機関で、心機能低下が疑われる患者を選別する補助ツールとして活用できると期待している」と述べた。結果は国際学術誌Scientific Reports（サイエンティフィック・リポーツ）に掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Brainomix AI\n识别适用格列本脲的卒中患者",
-          "body": "Brainomix介绍一项研究，其自动CT分析找出了可能受益于IV格列本脲的卒中患者。",
-          "mini_headline": "Brainomix AI与\n卒中用药选择",
+          "headline": "胸部X光片\n可预测心功能下降",
+          "body": "龙仁世福兰斯医院开发出仅凭胸部X光即可预测心功能下降的AI模型。",
+          "mini_headline": "X光预测心功能下降",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Brainomix正在推介一项研究，显示借助该公司软件进行的自动非增强CT分析可能有助于识别大面积半球梗死患者。根据在首尔举行的World Stroke Conference上公布的III期Charm试验事后分析，这些患者更可能从Remedy Pharmaceuticals的在研疗法静脉注射格列本脲(Cirara)中获益。"
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
               },
               {
                 "t": "p",
-                "x": "该公司使用Brainomix 360 Stroke软件，在428名试验患者的非增强CT上测量了急性梗死体积。研究人员发现，在梗死核心体积低于125 mL的191名患者亚组中，Cirara与modified Rankin Scale上功能结局的改善显著相关，包括在90天时达到0至3分的可能性更高。"
+                "x": "延世大学龙仁世福兰斯医院心内科教授Jung In-hyun、Bae Sung-ah与延世大学医学院生物医学系统信息学教研室教授Yoon Deok-yong的研究团队29日表示，他们开发出可通过胸部X光（X-ray）影像预测心功能下降可能性的人工智能（AI）模型，并于近期发表了验证其性能的研究成果。"
               },
               {
                 "t": "p",
-                "x": "Brainomix表示，研究结果表明，无需CT灌注或MRI等高级影像，也可以为该疗法的试验筛选患者。Cirara尚未获得任何监管机构批准。"
+                "x": "左心室射血分数（LVEF）通常通过心脏超声检查测量，但由于需要检查设备和熟练的专业人员，规模较小的医疗机构难以开展。研究团队开发并比较了两种模型：直接深度学习（DDL），以及利用影像判读AI Lunit INSIGHT CXR分析结果的混合深度学习（HDL）。"
+              },
+              {
+                "t": "p",
+                "x": "模型开发使用了龙仁世福兰斯医院1万152名患者的数据，前瞻性验证纳入了因呼吸困难前往急诊或门诊就诊的505名患者，外部验证使用了首尔大学医院3657名患者的数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "HDL模型的AUROC为0.85，高于DDL模型的0.61。在前瞻性验证中，HDL模型为0.85，DDL模型为0.57；HDL模型的外部验证AUROC为0.73。HDL模型的特异度为90~97%，阴性预测值为91~98%。"
+              },
+              {
+                "t": "p",
+                "x": "Jung In-hyun、Bae Sung-ah教授表示：“希望经过进一步临床验证后，它能在急诊室或心脏超声检查可及性较低的医疗机构中，作为筛查疑似心功能下降患者的辅助工具。”研究结果发表于国际学术期刊《科学报告》（Scientific Reports）。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Chest X-ray AI predicts\nreduced heart function",
+          "body": "Yongin Severance Hospital has developed an AI that predicts reduced heart function from chest X-rays alone.",
+          "mini_headline": "X-ray predicts reduced heart function",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
+              },
+              {
+                "t": "p",
+                "x": "A research team led by professors Jung In-hyun and Bae Sung-ah of the cardiology department at Yonsei University Yongin Severance Hospital and professor Yoon Duk-yong of the Department of Biomedical Systems Informatics at Yonsei University College of Medicine said on the 29th that it had recently published a study developing and validating an artificial intelligence (AI) model that predicts the likelihood of reduced heart function from chest X-ray images."
+              },
+              {
+                "t": "p",
+                "x": "Left ventricular ejection fraction (LVEF) is usually measured by echocardiography, but because it requires equipment and skilled specialists, it has been hard to perform at smaller medical institutions. The team developed and compared two models: direct deep learning (DDL) and hybrid deep learning (HDL), which uses analysis results from the imaging AI Lunit INSIGHT CXR."
+              },
+              {
+                "t": "p",
+                "x": "Data from 1만152 patients at Yongin Severance Hospital were used for model development, 505 patients who visited the emergency room or outpatient clinic with shortness of breath for prospective validation, and data from 3657 patients at Seoul National University Hospital for external validation."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "The HDL model's AUROC was 0.85, higher than the DDL model's 0.61. In prospective validation, the HDL model scored 0.85 and the DDL model 0.57, and the HDL model's external validation AUROC was 0.73. The HDL model showed specificity of 90~97% and negative predictive value of 91~98%."
+              },
+              {
+                "t": "p",
+                "x": "Professors Jung In-hyun and Bae Sung-ah said, \"After further clinical validation, we expect it could be used as an assistive tool to screen patients suspected of reduced heart function in emergency rooms or at medical institutions with limited access to echocardiography.\" The results were published in the international journal Scientific Reports."
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de Brainomix detecta\ncandidatos a gliburida en ictus",
-          "body": "Brainomix destaca un estudio donde su análisis automático de CT halló pacientes con ictus aptos para gliburida IV.",
-          "mini_headline": "Brainomix AI y la\nelección de fármaco en ictus",
+          "headline": "Radiografía de tórax para\npredecir la disfunción cardíaca",
+          "body": "El Hospital Severance de Yongin desarrolló una AI que predice la disfunción cardíaca solo con rayos X de tórax.",
+          "mini_headline": "Rayos X predicen disfunción cardíaca",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Brainomix destaca un estudio que muestra cómo el análisis automatizado de CT sin contraste con el software de la empresa puede ayudar a identificar a pacientes con infarto hemisférico extenso. Estos pacientes tienen más probabilidades de beneficiarse de la gliburida intravenosa (Cirara), una terapia en investigación de Remedy Pharmaceuticals, según un análisis post hoc del ensayo de fase III Charm presentado en la World Stroke Conference de Seúl."
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537580"
               },
               {
                 "t": "p",
-                "x": "Con su software Brainomix 360 Stroke, la empresa midió el volumen del infarto agudo en la CT sin contraste de 428 pacientes del ensayo. En un subgrupo de 191 pacientes con volúmenes del núcleo del infarto inferiores a 125 mL, Cirara mostró una asociación significativa con la mejora de los resultados funcionales en la modified Rankin Scale, incluida una mayor probabilidad de alcanzar una puntuación de 0 a 3 a los 90 días, según hallaron los investigadores."
+                "x": "Un equipo de investigación dirigido por los profesores Jung In-hyun y Bae Sung-ah, del departamento de cardiología del Hospital Severance de Yongin de la Universidad Yonsei, y el profesor Yoon Duk-yong, del Departamento de Informática de Sistemas Biomédicos de la Facultad de Medicina de Yonsei, informó el día 29 que publicó recientemente un estudio en el que desarrolló y validó un modelo de inteligencia artificial (AI) que predice la probabilidad de disfunción cardíaca a partir de imágenes de radiografía de tórax (X-ray)."
               },
               {
                 "t": "p",
-                "x": "Los resultados sugieren que los pacientes podrían seleccionarse para ensayos de la terapia sin imágenes avanzadas como la perfusión por CT o la MRI, según Brainomix. Cirara no ha sido aprobada por ninguna autoridad reguladora."
+                "x": "La fracción de eyección del ventrículo izquierdo (LVEF) suele medirse mediante ecocardiografía, pero al requerir equipos y personal especializado capacitado, resultaba difícil de realizar en centros médicos pequeños. El equipo desarrolló y comparó dos modelos: el aprendizaje profundo directo (DDL) y el aprendizaje profundo híbrido (HDL), que utiliza los resultados de análisis de la AI de lectura de imágenes Lunit INSIGHT CXR."
+              },
+              {
+                "t": "p",
+                "x": "Para el desarrollo del modelo se usaron datos de 1만152 pacientes del Hospital Severance de Yongin; para la validación prospectiva, 505 pacientes que acudieron a urgencias o a consulta externa por disnea; y para la validación externa, datos de 3657 pacientes del Hospital de la Universidad Nacional de Seúl."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/537581"
+              },
+              {
+                "t": "p",
+                "x": "El AUROC del modelo HDL fue de 0.85, superior al 0.61 del modelo DDL. En la validación prospectiva, el modelo HDL obtuvo 0.85 y el modelo DDL 0.57, y el AUROC de validación externa del modelo HDL fue de 0.73. El modelo HDL mostró una especificidad del 90~97% y un valor predictivo negativo del 91~98%."
+              },
+              {
+                "t": "p",
+                "x": "Los profesores Jung In-hyun y Bae Sung-ah afirmaron: \"Tras una validación clínica adicional, esperamos que pueda utilizarse como herramienta de apoyo para identificar a pacientes con sospecha de disfunción cardíaca en urgencias o en centros médicos con acceso limitado a la ecocardiografía\". Los resultados se publicaron en la revista internacional Scientific Reports."
               }
             ]
           }

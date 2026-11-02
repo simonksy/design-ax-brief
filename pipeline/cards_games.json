@@ -1,215 +1,167 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "games",
   "cards": [
     {
-      "id": "claude-noremake-rule",
+      "id": "unity-antigravity-plugin",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude에 게임\n리메이크 금지령",
-      "body": "Anthropic이 Claude AI에 게임 리메이크를 막는 규칙을 넣었다.",
-      "mini_headline": "Claude, 게임 리메이크 중단",
+      "headline": "Unity 공식 플러그인\nAntigravity 입점",
+      "body": "Unity Editor를 Antigravity 에이전트 워크플로에 한 번에 잇는다.",
+      "mini_headline": "Unity 플러그인, Antigravity 합류",
       "tool": "Games",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "source": "Unity (YouTube)",
+      "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+            "t": "video",
+            "yt": "gobNINSU3JE"
           },
           {
             "t": "p",
-            "x": "업데이트: Anthropic은 Opus 5.5 업데이트로 Claude Code가 “다른 사람의 특정 게임을 재현하는 것”을 피하도록 “유도”했다고 확인했다."
+            "x": "Unity 플러그인이 Antigravity의 Plugin marketplace에 정식 출시됐다."
           },
           {
             "t": "p",
-            "x": "X 사용자 Chasm은 10월 27일께 배포된 Claude Code “규칙” 업데이트를 찾아냈다. “tengu_heron_brook” 항목에 담긴 규칙 문구는 “독창적인 게임, 특정 장르의 게임, 사용자 자신의 디자인과 에셋으로 만든 게임은 만든다. 이름을 바꾸거나 오리지널이라고 부르더라도 기존 특정 게임의 재현작은 만들지 않는다.”이다. Chasm은 이 규칙을 끌 방법이 없다고 했다."
+            "x": "Google Antigravity와 손잡고 실시간 3D 개발을 강력한 에이전트 워크플로에 곧바로 끌어들이는 과정을 매끄럽게 다듬었다. 여러 단계로 쪼개진 설정을 거칠 필요 없이 이제 개발자는 클릭 한 번으로 Unity를 Antigravity에 연결한다."
           },
           {
             "t": "p",
-            "x": "“Claude로 IP를 침해하는 것은 이용 정책 위반이므로, 다른 사람의 특정 게임을 재현하지 않도록 Opus 5.5의 Claude Code 프롬프트에 두 문장을 추가했다”고 Anthropic의 Addy Osmani가 썼다. “독창적인 게임, 장르 게임, 자신의 디자인과 에셋으로 만든 게임은 계속 작동하도록 할 생각이다.”"
-          },
-          {
-            "t": "p",
-            "x": "인디 개발자 사이에선 AI로 순식간에 베낀 리메이크가 나올 수 있다는 우려가 퍼졌다. 누군가 데모를 AI 도구에 넣어 ReVamp를 제멋대로 다시 낼까 봐 공개 플레이테스트를 취소한 스튜디오도 여럿이다. Digital Sun Games도 그중 하나다."
-          },
-          {
-            "t": "p",
-            "x": "이 규칙에 막히는 건 가장 손쉬운 모방자 정도일지 모른다. 안전 제한은 말재주로 우회할 수 있다. 사용자가 게임 아이디어나 에셋의 주인인지 소프트웨어가 어떻게 가려낼지도 불분명하다. 복제자는 이런 제한 없는 오픈 웨이트 모델로 옮겨 가면 그만이다."
+            "x": "이미 손에 익은 도구를 잇는 일이 얼마나 중요한지 잘 안다는 설명이다. 이번 플러그인은 에이전트 워크플로를 빌드 파이프라인에 바로 들여온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claude is told to stop\nremaking video games",
-          "body": "Claude users report that Anthropic has updated its AI tool with a rule barring it from remaking video games.",
-          "mini_headline": "Claude stops remaking games",
+          "headline": "Unity's official plugin\nlands in Google Antigravity",
+          "body": "Unity's official plugin connects the Unity Editor to Antigravity's agentic workflows with a single click.",
+          "mini_headline": "Unity plugin joins Antigravity",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "Update: Anthropic has confirmed it's released an update to Opus 5.5 to \"steer\" Claude Code away from \"recreating someone else's specific game.\""
+                "x": "The Unity plugin is officially live in the Plugin marketplace in Antigravity."
               },
               {
                 "t": "p",
-                "x": "X user Chasm said they spotted an update to Claude Code's \"rules\" pushed sometime on October 27. The rule, listed under \"tengu_heron_brook,\" reads \"Do build original games, games in a genre, and games from the user’s own designs and assets. Do not build a recreation of a specific existing game, even if it is renamed or called original.\" Chasm reports that there is no way to disable the rule."
+                "x": "Through our partnership with Google Antigravity, we're making it seamless to bring real-time 3D development directly into powerful agentic workflows. Instead of navigating fragmented multi-step setups, developers can now connect Unity to Antigravity with a single click."
               },
               {
                 "t": "p",
-                "x": "\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy,\" Anthropic's Addy Osmani wrote. \"Original games, genre games, and games built from your own designs and assets are meant to keep working.\""
-              },
-              {
-                "t": "p",
-                "x": "Fear of fast-follow AI remakes has spread among independent developers; Digital Sun Games is one of several studios to cancel an upcoming public playtest for fear someone might ingest the demo into an AI tool and release their own version of ReVamp."
-              },
-              {
-                "t": "p",
-                "x": "The rule may only deter the most low-effort copycats: safety limits can be sidestepped with rhetorical tricks, it's unclear how the software would know whether a user owns a game idea or assets, and cloners can turn to open-weight models with no such restrictions."
+                "x": "We know how important it is to connect the tools you already rely on, and this brings agentic workflows straight into your build pipeline."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude에 게임\n리메이크 금지령",
-          "body": "Anthropic이 Claude AI에 게임 리메이크를 막는 규칙을 넣었다.",
-          "mini_headline": "Claude, 게임 리메이크 중단",
+          "headline": "Unity 공식 플러그인\nAntigravity 입점",
+          "body": "Unity Editor를 Antigravity 에이전트 워크플로에 한 번에 잇는다.",
+          "mini_headline": "Unity 플러그인, Antigravity 합류",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "업데이트: Anthropic은 Opus 5.5 업데이트로 Claude Code가 “다른 사람의 특정 게임을 재현하는 것”을 피하도록 “유도”했다고 확인했다."
+                "x": "Unity 플러그인이 Antigravity의 Plugin marketplace에 정식 출시됐다."
               },
               {
                 "t": "p",
-                "x": "X 사용자 Chasm은 10월 27일께 배포된 Claude Code “규칙” 업데이트를 찾아냈다. “tengu_heron_brook” 항목에 담긴 규칙 문구는 “독창적인 게임, 특정 장르의 게임, 사용자 자신의 디자인과 에셋으로 만든 게임은 만든다. 이름을 바꾸거나 오리지널이라고 부르더라도 기존 특정 게임의 재현작은 만들지 않는다.”이다. Chasm은 이 규칙을 끌 방법이 없다고 했다."
+                "x": "Google Antigravity와 손잡고 실시간 3D 개발을 강력한 에이전트 워크플로에 곧바로 끌어들이는 과정을 매끄럽게 다듬었다. 여러 단계로 쪼개진 설정을 거칠 필요 없이 이제 개발자는 클릭 한 번으로 Unity를 Antigravity에 연결한다."
               },
               {
                 "t": "p",
-                "x": "“Claude로 IP를 침해하는 것은 이용 정책 위반이므로, 다른 사람의 특정 게임을 재현하지 않도록 Opus 5.5의 Claude Code 프롬프트에 두 문장을 추가했다”고 Anthropic의 Addy Osmani가 썼다. “독창적인 게임, 장르 게임, 자신의 디자인과 에셋으로 만든 게임은 계속 작동하도록 할 생각이다.”"
-              },
-              {
-                "t": "p",
-                "x": "인디 개발자 사이에선 AI로 순식간에 베낀 리메이크가 나올 수 있다는 우려가 퍼졌다. 누군가 데모를 AI 도구에 넣어 ReVamp를 제멋대로 다시 낼까 봐 공개 플레이테스트를 취소한 스튜디오도 여럿이다. Digital Sun Games도 그중 하나다."
-              },
-              {
-                "t": "p",
-                "x": "이 규칙에 막히는 건 가장 손쉬운 모방자 정도일지 모른다. 안전 제한은 말재주로 우회할 수 있다. 사용자가 게임 아이디어나 에셋의 주인인지 소프트웨어가 어떻게 가려낼지도 불분명하다. 복제자는 이런 제한 없는 오픈 웨이트 모델로 옮겨 가면 그만이다."
+                "x": "이미 손에 익은 도구를 잇는 일이 얼마나 중요한지 잘 안다는 설명이다. 이번 플러그인은 에이전트 워크플로를 빌드 파이프라인에 바로 들여온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude、ゲームの\nリメイクを禁止",
-          "body": "Claude利用者によると、AnthropicがAIにゲームリメイク禁止のルールを加えた。",
-          "mini_headline": "Claude、ゲームのリメイクを停止",
+          "headline": "Unityの公式プラグイン\nAntigravityに登場",
+          "body": "Unity EditorをワンクリックでAntigravityのエージェント型開発につなぐ。",
+          "mini_headline": "UnityプラグインがAntigravityに",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "更新：Anthropicは、Claude Codeが「他人の特定のゲームを再現すること」から離れるよう「誘導する」ためのOpus 5.5向けアップデートを公開したと認めた。"
+                "x": "Unityプラグインが、AntigravityのPlugin marketplaceで正式に公開された。"
               },
               {
                 "t": "p",
-                "x": "XユーザーのChasmは、10月27日ごろに配信されたClaude Codeの「ルール」の更新を見つけたと述べた。「tengu_heron_brook」の項目にあるこのルールには「オリジナルのゲーム、特定ジャンルのゲーム、ユーザー自身のデザインやアセットによるゲームは作る。名前を変えたりオリジナルと称したりしても、既存の特定ゲームの再現は作らない」と書かれている。Chasmによると、このルールを無効にする方法はない。"
+                "x": "Google Antigravityとの提携により、リアルタイム3D開発を強力なエージェント型ワークフローへ直接持ち込める環境をシームレスに整えている。断片化した複数ステップの設定を経る代わりに、開発者はワンクリックでUnityをAntigravityに接続できるようになった。"
               },
               {
                 "t": "p",
-                "x": "「Claudeを使ったIPの侵害は利用ポリシーに反するため、他人の特定のゲームを再現しないよう、Opus 5.5のClaude Codeのプロンプトに二つの文を追加した」とAnthropicのAddy Osmaniは書いた。「オリジナルのゲーム、ジャンルゲーム、自分のデザインやアセットで作るゲームは引き続き機能するようにしている」"
-              },
-              {
-                "t": "p",
-                "x": "AIによる素早い模倣リメイクへの不安がインディー開発者の間に広がっている。Digital Sun Gamesは、誰かがデモをAIツールに取り込んでReVampの独自版を出すことを恐れ、予定していた公開プレイテストを中止した複数のスタジオの一つだ。"
-              },
-              {
-                "t": "p",
-                "x": "このルールが抑止できるのは、最も手軽な模倣者だけかもしれない。安全上の制限は言葉の工夫でかわせるうえ、ユーザーがゲームのアイデアやアセットを所有しているかをソフトウェアがどう判断するのかは不明で、模倣者はこうした制限のないオープンウェイトモデルに乗り換えられる。"
+                "x": "すでに頼っているツールをつなぐことがいかに重要かは承知しており、これによってエージェント型ワークフローがビルドパイプラインに直接組み込まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude被叫停\n重制电子游戏",
-          "body": "Claude用户称，Anthropic已为这款AI工具加入禁止重制电子游戏的规则。",
-          "mini_headline": "Claude停止重制游戏",
+          "headline": "Unity官方插件\n登陆Antigravity",
+          "body": "Unity官方插件一键将Unity Editor接入Antigravity的智能体工作流。",
+          "mini_headline": "Unity插件加入Antigravity",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "更新：Anthropic已确认发布了一项Opus 5.5更新，以“引导”Claude Code不去“重制他人的特定游戏”。"
+                "x": "Unity插件已在Antigravity的Plugin marketplace正式上线。"
               },
               {
                 "t": "p",
-                "x": "X用户Chasm表示，他们发现Claude Code的“规则”在10月27日某个时候推送了更新。这条规则列在“tengu_heron_brook”之下，内容为：“可以制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏。不得制作对某款现有特定游戏的重制，即使改了名或号称原创。”Chasm称，这条规则无法关闭。"
+                "x": "通过与Google Antigravity的合作，我们让实时3D开发能够无缝融入强大的智能体工作流。开发者无需再经历零散的多步骤设置，现在只需一键即可将Unity连接到Antigravity。"
               },
               {
                 "t": "p",
-                "x": "“我们在Opus 5.5上的Claude Code提示词中加了两句话，引导它不去重制他人的特定游戏，因为用Claude侵犯IP违反我们的使用政策，”Anthropic的Addy Osmani写道。“原创游戏、类型游戏以及基于你自己的设计和素材制作的游戏，应当可以继续正常使用。”"
-              },
-              {
-                "t": "p",
-                "x": "对AI快速跟风重制的担忧已在独立开发者中蔓延；Digital Sun Games是取消即将举行的公开试玩的多家工作室之一，原因是担心有人把试玩版喂给AI工具，推出自己的ReVamp版本。"
-              },
-              {
-                "t": "p",
-                "x": "这条规则或许只能吓退最省事的抄袭者：安全限制可以靠话术绕过，软件如何判断用户是否拥有某个游戏创意或素材也不清楚，而抄袭者还可以转向没有此类限制的开放权重模型。"
+                "x": "我们深知连接你早已依赖的工具有多重要，这让智能体工作流直接进入你的构建管线。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude recibe la orden de no\nrehacer videojuegos",
-          "body": "Usuarios de Claude dicen que Anthropic añadió a su herramienta de AI una regla que le impide rehacer videojuegos.",
-          "mini_headline": "Claude deja de rehacer juegos",
+          "headline": "El plugin oficial de Unity\nllega a Google Antigravity",
+          "body": "El plugin oficial de Unity conecta el Unity Editor con los flujos agénticos de Antigravity con un solo clic.",
+          "mini_headline": "El plugin de Unity llega a Antigravity",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "Actualización: Anthropic confirmó que publicó una actualización de Opus 5.5 para “alejar” a Claude Code de “recrear el juego específico de otra persona”."
+                "x": "El plugin de Unity ya está disponible oficialmente en el Plugin marketplace de Antigravity."
               },
               {
                 "t": "p",
-                "x": "El usuario de X Chasm dijo que detectó una actualización de las “reglas” de Claude Code publicada en algún momento del 27 de octubre. La regla, que figura como “tengu_heron_brook”, dice: “Crea juegos originales, juegos de un género y juegos a partir de los diseños y recursos propios del usuario. No crees una recreación de un juego existente específico, aunque se le cambie el nombre o se le llame original”. Chasm informa de que no hay forma de desactivar la regla."
+                "x": "Gracias a nuestra alianza con Google Antigravity, facilitamos llevar el desarrollo 3D en tiempo real directamente a potentes flujos de trabajo agénticos. En lugar de recorrer configuraciones fragmentadas de varios pasos, los desarrolladores ahora pueden conectar Unity a Antigravity con un solo clic."
               },
               {
                 "t": "p",
-                "x": "“Añadimos dos frases al prompt de Claude Code en Opus 5.5 para alejarlo de recrear el juego específico de otra persona, porque usar Claude para infringir la IP va contra nuestra política de uso”, escribió Addy Osmani, de Anthropic. “Los juegos originales, los juegos de género y los juegos creados con tus propios diseños y recursos deberían seguir funcionando”."
-              },
-              {
-                "t": "p",
-                "x": "El temor a remakes rápidos hechos con AI se ha extendido entre los desarrolladores independientes; Digital Sun Games es uno de varios estudios que cancelaron una prueba de juego pública prevista por miedo a que alguien introdujera la demo en una herramienta de AI y lanzara su propia versión de ReVamp."
-              },
-              {
-                "t": "p",
-                "x": "La regla quizá solo disuada a los imitadores menos esforzados: los límites de seguridad pueden sortearse con trucos retóricos, no está claro cómo sabría el software si un usuario es dueño de una idea de juego o de sus recursos, y los clonadores pueden recurrir a modelos de pesos abiertos sin esas restricciones."
+                "x": "Sabemos lo importante que es conectar las herramientas en las que ya confías, y esto lleva los flujos de trabajo agénticos directamente a tu pipeline de compilación."
               }
             ]
           }
@@ -217,137 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude에 게임\n리메이크 금지령",
-          "body": "Anthropic이 Claude AI에 게임 리메이크 금지령을 넣었다고 한다.",
-          "mini_headline": "Claude, 게임 리메이크 중단",
+          "headline": "Unity 공식 플러그인\nAntigravity 입점",
+          "body": "Unity Editor를 Antigravity 에이전트 워크플로에 한 번에 잇는다.",
+          "mini_headline": "Unity 플러그인, Antigravity 합류",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "업데이트: Anthropic은 Claude Code가 “다른 사람의 특정 게임을 재현하는 것”에서 벗어나도록 “유도”하는 Opus 5.5 업데이트를 내놓았다고 확인했다."
+                "x": "Unity 플러그인이 Antigravity의 Plugin marketplace에 정식 출시됐다."
               },
               {
                 "t": "p",
-                "x": "X 사용자 Chasm은 10월 27일께 배포된 Claude Code의 “규칙” 업데이트를 발견했다고 밝혔다. “tengu_heron_brook” 항목에 들어간 이 규칙에는 “독창적인 게임, 특정 장르의 게임, 사용자 자신의 디자인과 에셋으로 만든 게임은 만든다. 이름을 바꾸거나 오리지널이라고 부르더라도 기존 특정 게임의 재현작은 만들지 않는다.”라고 적혀 있다. Chasm에 따르면 이 규칙을 끌 방법은 없다."
+                "x": "Google Antigravity와의 파트너십을 통해 실시간 3D 개발을 강력한 에이전트 워크플로에 곧바로 끌어들이는 과정을 매끄럽게 만들고 있다. 여러 단계로 쪼개진 설정을 거칠 필요 없이, 이제 개발자는 클릭 한 번으로 Unity를 Antigravity에 연결할 수 있다."
               },
               {
                 "t": "p",
-                "x": "“Claude로 IP를 침해하는 것은 이용 정책 위반이므로, 다른 사람의 특정 게임을 재현하지 않도록 Opus 5.5의 Claude Code 프롬프트에 두 문장을 추가했다”고 Anthropic의 Addy Osmani는 적었다. “독창적인 게임, 장르 게임, 자신의 디자인과 에셋으로 만든 게임은 계속 작동하도록 할 생각이다.”"
-              },
-              {
-                "t": "p",
-                "x": "AI로 재빠르게 베낀 리메이크가 나올 수 있다는 우려가 인디 개발자 사이에 퍼졌다. Digital Sun Games는 누군가 데모를 AI 도구에 넣어 ReVamp의 자체 버전을 낼까 봐 예정된 공개 플레이테스트를 취소한 여러 스튜디오 중 하나다."
-              },
-              {
-                "t": "p",
-                "x": "이 규칙은 가장 손쉬운 모방자만 막을 수 있을지도 모른다. 안전 제한은 말재주로 우회할 수 있고, 사용자가 게임 아이디어나 에셋을 소유했는지 소프트웨어가 어떻게 알지 불분명하며, 복제자는 이런 제한이 없는 오픈 웨이트 모델로 옮겨 갈 수 있다."
+                "x": "이미 의지하고 있는 도구를 연결하는 일이 얼마나 중요한지 잘 알고 있으며, 이번 플러그인은 에이전트 워크플로를 빌드 파이프라인에 바로 들여온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude、ゲームの\nリメイクを禁止",
-          "body": "Claude利用者によると、AnthropicがAIにゲームリメイク禁止のルールを加えた。",
-          "mini_headline": "Claude、ゲームのリメイクを停止",
+          "headline": "Unityの公式プラグイン\nAntigravityに登場",
+          "body": "Unity EditorをワンクリックでAntigravityのエージェント型開発につなぐ。",
+          "mini_headline": "UnityプラグインがAntigravityに",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "更新：Anthropicは、Claude Codeが「他人の特定のゲームを再現すること」から離れるよう「誘導する」ためのOpus 5.5向けアップデートを公開したと認めた。"
+                "x": "Unityプラグインが、AntigravityのPlugin marketplaceで正式に公開された。"
               },
               {
                 "t": "p",
-                "x": "XユーザーのChasmは、10月27日ごろに配信されたClaude Codeの「ルール」の更新を見つけたと述べた。「tengu_heron_brook」の項目にあるこのルールには「オリジナルのゲーム、特定ジャンルのゲーム、ユーザー自身のデザインやアセットによるゲームは作る。名前を変えたりオリジナルと称したりしても、既存の特定ゲームの再現は作らない」と書かれている。Chasmによると、このルールを無効にする方法はない。"
+                "x": "Google Antigravityとの提携により、リアルタイム3D開発を強力なエージェント型ワークフローへ直接持ち込める環境をシームレスに整えている。断片化した複数ステップの設定を経る代わりに、開発者はワンクリックでUnityをAntigravityに接続できるようになった。"
               },
               {
                 "t": "p",
-                "x": "「Claudeを使ったIPの侵害は利用ポリシーに反するため、他人の特定のゲームを再現しないよう、Opus 5.5のClaude Codeのプロンプトに二つの文を追加した」とAnthropicのAddy Osmaniは書いた。「オリジナルのゲーム、ジャンルゲーム、自分のデザインやアセットで作るゲームは引き続き機能するようにしている」"
-              },
-              {
-                "t": "p",
-                "x": "AIによる素早い模倣リメイクへの不安がインディー開発者の間に広がっている。Digital Sun Gamesは、誰かがデモをAIツールに取り込んでReVampの独自版を出すことを恐れ、予定していた公開プレイテストを中止した複数のスタジオの一つだ。"
-              },
-              {
-                "t": "p",
-                "x": "このルールが抑止できるのは、最も手軽な模倣者だけかもしれない。安全上の制限は言葉の工夫でかわせるうえ、ユーザーがゲームのアイデアやアセットを所有しているかをソフトウェアがどう判断するのかは不明で、模倣者はこうした制限のないオープンウェイトモデルに乗り換えられる。"
+                "x": "すでに頼っているツールをつなぐことがいかに重要かは承知しており、これによってエージェント型ワークフローがビルドパイプラインに直接組み込まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude被叫停\n重制电子游戏",
-          "body": "Claude用户称，Anthropic已为这款AI工具加入禁止重制电子游戏的规则。",
-          "mini_headline": "Claude停止重制游戏",
+          "headline": "Unity官方插件\n登陆Antigravity",
+          "body": "Unity官方插件一键将Unity Editor接入Antigravity的智能体工作流。",
+          "mini_headline": "Unity插件加入Antigravity",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "更新：Anthropic已确认发布了一项Opus 5.5更新，以“引导”Claude Code不去“重制他人的特定游戏”。"
+                "x": "Unity插件已在Antigravity的Plugin marketplace正式上线。"
               },
               {
                 "t": "p",
-                "x": "X用户Chasm表示，他们发现Claude Code的“规则”在10月27日某个时候推送了更新。这条规则列在“tengu_heron_brook”之下，内容为：“可以制作原创游戏、某一类型的游戏，以及基于用户自有设计和素材的游戏。不得制作对某款现有特定游戏的重制，即使改了名或号称原创。”Chasm称，这条规则无法关闭。"
+                "x": "通过与Google Antigravity的合作，我们让实时3D开发能够无缝融入强大的智能体工作流。开发者无需再经历零散的多步骤设置，现在只需一键即可将Unity连接到Antigravity。"
               },
               {
                 "t": "p",
-                "x": "“我们在Opus 5.5上的Claude Code提示词中加了两句话，引导它不去重制他人的特定游戏，因为用Claude侵犯IP违反我们的使用政策，”Anthropic的Addy Osmani写道。“原创游戏、类型游戏以及基于你自己的设计和素材制作的游戏，应当可以继续正常使用。”"
-              },
-              {
-                "t": "p",
-                "x": "对AI快速跟风重制的担忧已在独立开发者中蔓延；Digital Sun Games是取消即将举行的公开试玩的多家工作室之一，原因是担心有人把试玩版喂给AI工具，推出自己的ReVamp版本。"
-              },
-              {
-                "t": "p",
-                "x": "这条规则或许只能吓退最省事的抄袭者：安全限制可以靠话术绕过，软件如何判断用户是否拥有某个游戏创意或素材也不清楚，而抄袭者还可以转向没有此类限制的开放权重模型。"
+                "x": "我们深知连接你早已依赖的工具有多重要，这让智能体工作流直接进入你的构建管线。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude recibe la orden de no\nrehacer videojuegos",
-          "body": "Usuarios de Claude dicen que Anthropic añadió a su herramienta de AI una regla que le impide rehacer videojuegos.",
-          "mini_headline": "Claude deja de rehacer juegos",
+          "headline": "El plugin oficial de Unity\nllega a Google Antigravity",
+          "body": "El plugin oficial de Unity conecta el Unity Editor con los flujos agénticos de Antigravity con un solo clic.",
+          "mini_headline": "El plugin de Unity llega a Antigravity",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+                "t": "video",
+                "yt": "gobNINSU3JE"
               },
               {
                 "t": "p",
-                "x": "Actualización: Anthropic confirmó que publicó una actualización de Opus 5.5 para “alejar” a Claude Code de “recrear el juego específico de otra persona”."
+                "x": "El plugin de Unity ya está disponible oficialmente en el Plugin marketplace de Antigravity."
               },
               {
                 "t": "p",
-                "x": "El usuario de X Chasm dijo que detectó una actualización de las “reglas” de Claude Code publicada en algún momento del 27 de octubre. La regla, que figura como “tengu_heron_brook”, dice: “Crea juegos originales, juegos de un género y juegos a partir de los diseños y recursos propios del usuario. No crees una recreación de un juego existente específico, aunque se le cambie el nombre o se le llame original”. Chasm informa de que no hay forma de desactivar la regla."
+                "x": "Gracias a nuestra alianza con Google Antigravity, facilitamos llevar el desarrollo 3D en tiempo real directamente a potentes flujos de trabajo agénticos. En lugar de recorrer configuraciones fragmentadas de varios pasos, los desarrolladores ahora pueden conectar Unity a Antigravity con un solo clic."
               },
               {
                 "t": "p",
-                "x": "“Añadimos dos frases al prompt de Claude Code en Opus 5.5 para alejarlo de recrear el juego específico de otra persona, porque usar Claude para infringir la IP va contra nuestra política de uso”, escribió Addy Osmani, de Anthropic. “Los juegos originales, los juegos de género y los juegos creados con tus propios diseños y recursos deberían seguir funcionando”."
-              },
-              {
-                "t": "p",
-                "x": "El temor a remakes rápidos hechos con AI se ha extendido entre los desarrolladores independientes; Digital Sun Games es uno de varios estudios que cancelaron una prueba de juego pública prevista por miedo a que alguien introdujera la demo en una herramienta de AI y lanzara su propia versión de ReVamp."
-              },
-              {
-                "t": "p",
-                "x": "La regla quizá solo disuada a los imitadores menos esforzados: los límites de seguridad pueden sortearse con trucos retóricos, no está claro cómo sabría el software si un usuario es dueño de una idea de juego o de sus recursos, y los clonadores pueden recurrir a modelos de pesos abiertos sin esas restricciones."
+                "x": "Sabemos lo importante que es conectar las herramientas en las que ya confías, y esto lleva los flujos de trabajo agénticos directamente a tu pipeline de compilación."
               }
             ]
           }
@@ -355,15 +275,15 @@
       }
     },
     {
-      "id": "itchio-page-surge",
+      "id": "steam-october-ai-disclosure",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Itch.io 신규 페이지\n두 달 새 두 배로",
-      "body": "AI 슬롭이 몰리며 Itch.io 하루 신규 페이지가 두 달 새 두 배가 됐다.",
-      "mini_headline": "Itch.io 신규 페이지 두 배",
+      "headline": "시월 Steam 신작 절반\nAI 콘텐츠 사용 밝혀",
+      "body": "Steam 신작 AI-generated 공개율이 26.4%에서 49.9%로 올랐다.",
+      "mini_headline": "Steam 신작 절반 AI 공개",
       "tool": "Games",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+      "source": "Destructoid",
+      "url": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -371,173 +291,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+            "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+            "cap": "이미지 출처: Steam"
           },
           {
             "t": "p",
-            "x": "생성형 AI를 쓰는 개발자가 늘자 게임 스토어마다 신작이 넘친다. 손수 만든 게임을 내놓는 인디 개발자는 눈에 띄기가 어느 때보다 어려워졌다."
+            "x": "ploz라는 Redditor가 통계를 깊이 파고들어 보니 2026년 10월 Steam에 나온 신작의 49.9퍼센트가 AI-generated 콘텐츠를 썼다고 밝혔다. 한 해 전 26.4퍼센트에서 크게 늘었다. Steam이 AI 공개 옵션을 추가한 2024년 1월에는 1.7퍼센트에 불과했다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+            "cap": "r/Steam - 10월 Steam 출시작의 절반 가까이가 AI-generated 콘텐츠 사용을 밝혔다(49.9%, 2024년 1월 1.7%에서 증가)"
           },
           {
             "t": "p",
-            "x": "itch.io는 10월 31일 늦게 Bluesky에서 하루 새로 생기는 게임 페이지가 2026년 8월 이후 두 배로 늘었다고 밝혔다. 함께 올린 그래프를 보면 당시 하루 약 3,000개였던 신규 페이지가 10월 30일엔 6,000개를 넘었다. 다른 답글에서 itch.io는 이 신규 페이지 대부분이 AI 프로젝트라고 했다."
+            "x": "ploz는 또 2026년 들어 지금까지 출시된 게임 전체의 40.1퍼센트가 AI-generated 콘텐츠 태그를 달았다고 밝혔다. 실제 수치는 이보다 높을 공산이 크다. AI 사용을 공개하지 않는 개발자도 있고, 공개 대상이 눈이나 귀로 접하는 콘텐츠에 한정돼 코딩에 쓴 AI는 빠지기 때문이다."
           },
           {
             "t": "p",
-            "x": "등록작은 늘어도 플레이어는 늘지 않는다. itch.io는 또 다른 답글에서 2026년 8월 이후 \"다운로드와 구매 수는 두 배로 늘지 않았다\"고 확인했다."
+            "x": "이 태그를 다는 쪽은 “대부분 소규모 게임”이다. “리뷰가 10개 미만인 게임의 47퍼센트가 AI 사용을 공개한 반면, 리뷰가 1,000개 이상인 게임은 14퍼센트에 그친다.”"
           },
           {
             "t": "p",
-            "x": "상당수가 생성형 AI로 만들어졌을 신작이 쏟아지는데 이용자는 그대로라, 인디 개발자가 노출을 얻어야 할 플랫폼만 붐빈다. Steam도 포화 상태다. Steam Next Fest 데모 상당수가 AI-made 경쟁작에 묻히거나 도용당했다. Itch.io는 이미 개발자에게 AI 사용 여부를 밝히라고 요구한다."
+            "x": "Steam에는 AI-generated 콘텐츠가 담긴 게임을 스토어에서 완전히 걸러내는 기능이 없다. 가장 최근 Steam Next Fest 기간 “AI slop” 불만이 쏟아지자 Valve는 “인지하고 있다”고 답했지만 해결책을 내놓을 구체적인 일정은 아직 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Itch.io new game pages\ndouble in two months",
-          "body": "Itch.io says new game pages created each day have doubled in two months as AI slop floods storefronts.",
-          "mini_headline": "Itch.io new pages double",
+          "headline": "Half of October's Steam games\ndisclose AI content",
+          "body": "Of games released on Steam in October, 49.9% disclosed AI-generated content, up from 26.4% a year earlier.",
+          "mini_headline": "Half of Steam games disclose AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "Image via Steam"
               },
               {
                 "t": "p",
-                "x": "Gaming storefronts are flooded with new games as more developers use generative AI, making it harder than ever for indie devs with hand-crafted games to stand out."
+                "x": "A Redditor named ploz dug deep into the stats to find that 49.9 percent of all new games released on Steam in October 2026 disclosed that they were made with AI-generated content, up from 26.4 percent one year ago. In January 2024, when Steam added AI disclosure options, it was just 1.7 percent."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - Almost half of the games released on Steam in October disclosed AI-generated content (49.9%, up from 1.7% in January 2024)"
               },
               {
                 "t": "p",
-                "x": "Late on Oct. 31, itch.io took to Bluesky to reveal that the number of game pages being created each day has doubled since Aug. 2026. According to the graph shared, the number of pages created per day was around 3,000 back then; now, that number is over 6,000 as of Oct. 30. Other replies from itch.io indicate that AI projects make up the majority of these new pages too."
+                "x": "ploz also found that 40.1 percent of all games released in 2026 so far use the AI-generated content tag. The real number is likely higher: some devs don't disclose AI usage, and the disclosure only counts content you see or hear, not anything used in coding."
               },
               {
                 "t": "p",
-                "x": "More listings aren't bringing more players: itch.io confirmed in another reply that \"The number of downloads and purchases has not doubled\" since Aug. 2026."
+                "x": "It is “mostly small games” that use the tag: “47 percent of games with fewer than 10 reviews disclose AI, compared to 14 percent of games with 1,000+ reviews.”"
               },
               {
                 "t": "p",
-                "x": "An influx of new releases, many likely created with generative AI, floods the platforms indie developers need visibility on without bringing audience growth. Steam is equally crammed, with many Steam Next Fest demos drowned out or stolen by AI-made competition. Itch.io already asks developers to disclose AI usage."
+                "x": "Steam does not offer a way to filter out games with AI-generated content from the store entirely. After complaints about “AI slop” during the most recent Steam Next Fest, Valve said it was “aware” of them, but there's no real timetable for a solution."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Itch.io 신규 페이지\n두 달 새 두 배로",
-          "body": "AI 슬롭이 몰리며 Itch.io 하루 신규 페이지가 두 달 새 두 배가 됐다.",
-          "mini_headline": "Itch.io 신규 페이지 두 배",
+          "headline": "시월 Steam 신작 절반\nAI 콘텐츠 사용 밝혀",
+          "body": "Steam 신작 AI-generated 공개율이 26.4%에서 49.9%로 올랐다.",
+          "mini_headline": "Steam 신작 절반 AI 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "이미지 출처: Steam"
               },
               {
                 "t": "p",
-                "x": "생성형 AI를 쓰는 개발자가 늘자 게임 스토어마다 신작이 넘친다. 손수 만든 게임을 내놓는 인디 개발자는 눈에 띄기가 어느 때보다 어려워졌다."
+                "x": "ploz라는 Redditor가 통계를 깊이 파고들어 보니 2026년 10월 Steam에 나온 신작의 49.9퍼센트가 AI-generated 콘텐츠를 썼다고 밝혔다. 한 해 전 26.4퍼센트에서 크게 늘었다. Steam이 AI 공개 옵션을 추가한 2024년 1월에는 1.7퍼센트에 불과했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - 10월 Steam 출시작의 절반 가까이가 AI-generated 콘텐츠 사용을 밝혔다(49.9%, 2024년 1월 1.7%에서 증가)"
               },
               {
                 "t": "p",
-                "x": "itch.io는 10월 31일 늦게 Bluesky에서 하루 새로 생기는 게임 페이지가 2026년 8월 이후 두 배로 늘었다고 밝혔다. 함께 올린 그래프를 보면 당시 하루 약 3,000개였던 신규 페이지가 10월 30일엔 6,000개를 넘었다. 다른 답글에서 itch.io는 이 신규 페이지 대부분이 AI 프로젝트라고 했다."
+                "x": "ploz는 또 2026년 들어 지금까지 출시된 게임 전체의 40.1퍼센트가 AI-generated 콘텐츠 태그를 달았다고 밝혔다. 실제 수치는 이보다 높을 공산이 크다. AI 사용을 공개하지 않는 개발자도 있고, 공개 대상이 눈이나 귀로 접하는 콘텐츠에 한정돼 코딩에 쓴 AI는 빠지기 때문이다."
               },
               {
                 "t": "p",
-                "x": "등록작은 늘어도 플레이어는 늘지 않는다. itch.io는 또 다른 답글에서 2026년 8월 이후 \"다운로드와 구매 수는 두 배로 늘지 않았다\"고 확인했다."
+                "x": "이 태그를 다는 쪽은 “대부분 소규모 게임”이다. “리뷰가 10개 미만인 게임의 47퍼센트가 AI 사용을 공개한 반면, 리뷰가 1,000개 이상인 게임은 14퍼센트에 그친다.”"
               },
               {
                 "t": "p",
-                "x": "상당수가 생성형 AI로 만들어졌을 신작이 쏟아지는데 이용자는 그대로라, 인디 개발자가 노출을 얻어야 할 플랫폼만 붐빈다. Steam도 포화 상태다. Steam Next Fest 데모 상당수가 AI-made 경쟁작에 묻히거나 도용당했다. Itch.io는 이미 개발자에게 AI 사용 여부를 밝히라고 요구한다."
+                "x": "Steam에는 AI-generated 콘텐츠가 담긴 게임을 스토어에서 완전히 걸러내는 기능이 없다. 가장 최근 Steam Next Fest 기간 “AI slop” 불만이 쏟아지자 Valve는 “인지하고 있다”고 답했지만 해결책을 내놓을 구체적인 일정은 아직 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Itch.io新規ページ\n二か月で倍増",
-          "body": "Itch.ioは、AIスロップの氾濫で毎日の新規ゲームページが二か月で倍増したと明かした。",
-          "mini_headline": "Itch.io新規ページが倍増",
+          "headline": "十月のSteam新作の半数\nAIコンテンツを開示",
+          "body": "十月のSteam新作の49.9%がAI-generatedを開示、前年は26.4%だった。",
+          "mini_headline": "Steam新作の半数がAIを開示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "画像：Steam"
               },
               {
                 "t": "p",
-                "x": "生成AIを使う開発者が増え、ゲームストアには新作があふれている。手作りのゲームを出すインディー開発者が目立つことは、かつてなく難しくなった。"
+                "x": "Redditorのplozが統計を詳しく調べたところ、2026年10月にSteamで発売された新作全体の49.9パーセントが、AI-generatedコンテンツを使って制作したと開示していた。一年前の26.4パーセントから増えた。SteamがAI開示の選択肢を追加した2024年1月には、わずか1.7パーセントだった。"
               },
-              {
-                "t": "p",
-                "x": "itch.ioは10月31日遅く、Blueskyで、1日に作成されるゲームページの数が2026年8月以降に倍増したと明らかにした。共有されたグラフによると、当時の1日あたりの作成ページ数は約3,000件だったが、10月30日時点では6,000件を超えている。itch.ioのほかの返信によれば、これら新規ページの大半もAIプロジェクトだという。"
-              },
-              {
-                "t": "p",
-                "x": "掲載数が増えてもプレイヤーは増えていない。itch.ioは別の返信で、2026年8月以降「ダウンロード数と購入数は倍増していない」と認めた。"
-              },
-              {
-                "t": "p",
-                "x": "多くが生成AIで作られたとみられる新作の流入は、インディー開発者が露出を必要とするプラットフォームを埋め尽くす一方、利用者の増加にはつながっていない。Steamも同様に飽和しており、多くのSteam Next FestのデモがAI-madeの競合作品に埋もれたり盗用されたりしている。Itch.ioはすでに開発者にAI使用の開示を求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Itch.io新游戏页面\n两个月翻倍",
-          "body": "Itch.io称，随着AI垃圾内容涌入商店，每日新建游戏页面数在两个月内翻了一番。",
-          "mini_headline": "Itch.io新页面翻倍",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - 10月にSteamで発売されたゲームのほぼ半数がAI-generatedコンテンツを開示(49.9%、2024年1月の1.7%から増加)"
               },
               {
                 "t": "p",
-                "x": "随着越来越多开发者使用生成式AI，游戏商店里新作泛滥，手工打造游戏的独立开发者想要脱颖而出比以往任何时候都难。"
+                "x": "plozはまた、2026年にこれまで発売されたゲーム全体の40.1パーセントがAI-generatedコンテンツのタグを付けていることも突き止めた。実際の数字はさらに高いとみられる。AIの使用を開示しない開発者もいるうえ、開示の対象は目や耳で触れるコンテンツに限られ、コーディングに使われたものは含まれないからだ。"
               },
               {
                 "t": "p",
-                "x": "10月31日深夜，itch.io在Bluesky上透露，每天新建的游戏页面数量自2026年8月以来翻了一番。根据其分享的图表，当时每天新建的页面约为3,000个；截至10月30日，这一数字已超过6,000个。itch.io的其他回复还表明，这些新页面中大多数也是AI项目。"
+                "x": "このタグを付けているのは「主に小規模なゲーム」だという。「レビューが10件未満のゲームでは47パーセントがAIを開示しているのに対し、レビューが1,000件以上のゲームでは14パーセントだ」"
               },
               {
                 "t": "p",
-                "x": "上架作品增多并没有带来更多玩家：itch.io在另一条回复中证实，自2026年8月以来，“下载量和购买量并没有翻倍”。"
-              },
-              {
-                "t": "p",
-                "x": "大量新作涌入，其中许多可能是用生成式AI制作的，它们挤满了独立开发者赖以获得曝光的平台，却没有带来受众增长。Steam同样拥挤不堪，许多Steam Next Fest试玩版被AI-made竞品淹没或抄袭。Itch.io已要求开发者披露AI使用情况。"
+                "x": "Steamには、AI-generatedコンテンツを含むゲームをストアから完全に除外する手段がない。直近のSteam Next Festで「AI slop」への苦情が相次いだ後、Valveはそれを「認識している」と述べたが、解決に向けた具体的なスケジュールはない。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las páginas nuevas de Itch.io\nse duplican en dos meses",
-          "body": "Itch.io afirma que las páginas de juegos creadas al día se duplicaron en dos meses por la avalancha de basura de AI.",
-          "mini_headline": "Itch.io duplica sus páginas nuevas",
+          "headline": "La mitad de los juegos de Steam\nde octubre declara uso de AI",
+          "body": "En octubre, el 49.9% de los juegos lanzados en Steam declaró contenido AI-generated, frente al 26.4% un año antes.",
+          "mini_headline": "La mitad de Steam declara AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "Imagen vía Steam"
               },
               {
                 "t": "p",
-                "x": "Las tiendas de videojuegos se llenan de juegos nuevos a medida que más desarrolladores usan AI generativa, lo que hace más difícil que nunca que los desarrolladores independientes con juegos hechos a mano destaquen."
+                "x": "Un Redditor llamado ploz analizó a fondo las estadísticas y descubrió que el 49.9 por ciento de todos los juegos nuevos lanzados en Steam en octubre de 2026 declaró haberse hecho con contenido AI-generated, frente al 26.4 por ciento de hace un año. En enero de 2024, cuando Steam añadió las opciones de declaración de AI, era apenas el 1.7 por ciento."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - Casi la mitad de los juegos lanzados en Steam en octubre declaró contenido AI-generated (49.9%, frente al 1.7% de enero de 2024)"
               },
               {
                 "t": "p",
-                "x": "A última hora del 31 de octubre, itch.io reveló en Bluesky que el número de páginas de juegos creadas cada día se ha duplicado desde agosto de 2026. Según el gráfico compartido, entonces se creaban unas 3,000 páginas al día; ahora, a 30 de octubre, la cifra supera las 6,000. Otras respuestas de itch.io indican que los proyectos de AI también constituyen la mayoría de estas páginas nuevas."
+                "x": "ploz también descubrió que el 40.1 por ciento de todos los juegos lanzados en lo que va de 2026 usa la etiqueta de contenido AI-generated. La cifra real probablemente sea mayor: algunos desarrolladores no declaran el uso de AI, y la declaración solo cuenta el contenido que se ve o se oye, no lo que se usa en la programación."
               },
               {
                 "t": "p",
-                "x": "Más fichas no traen más jugadores: itch.io confirmó en otra respuesta que \"el número de descargas y compras no se ha duplicado\" desde agosto de 2026."
+                "x": "Son “sobre todo juegos pequeños” los que usan la etiqueta: “el 47 por ciento de los juegos con menos de 10 reseñas declara AI, frente al 14 por ciento de los juegos con 1,000+ reseñas.”"
               },
               {
                 "t": "p",
-                "x": "La llegada masiva de lanzamientos, muchos probablemente creados con AI generativa, satura las plataformas en las que los desarrolladores independientes necesitan visibilidad sin aportar crecimiento de público. Steam está igual de saturada, y muchas demos del Steam Next Fest quedan sepultadas o son plagiadas por competencia AI-made. Itch.io ya pide a los desarrolladores que declaren el uso de AI."
+                "x": "Steam no ofrece una forma de excluir por completo de la tienda los juegos con contenido AI-generated. Tras las quejas por el “AI slop” durante el Steam Next Fest más reciente, Valve dijo estar “al tanto”, pero no hay un calendario real para una solución."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "10月Steam新游戏\n半数披露AI内容",
+          "body": "10月Steam新游戏中49.9%披露AI生成内容，一年前为26.4%。",
+          "mini_headline": "Steam半数游戏披露AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "图片来源：Steam"
+              },
+              {
+                "t": "p",
+                "x": "一位名叫 ploz 的 Redditor 深入挖掘统计数据后发现，2026年10月在 Steam 上发布的所有新游戏中，有49.9%披露其使用了 AI-generated 内容，而一年前这一比例为26.4%。2024年1月 Steam 刚加入 AI 披露选项时，这一比例仅为1.7%。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - 10月在 Steam 上发布的游戏中，近半数披露了 AI-generated 内容（49.9%，2024年1月为1.7%）"
+              },
+              {
+                "t": "p",
+                "x": "ploz 还发现，2026年迄今发布的所有游戏中，有40.1%使用了 AI-generated 内容标签。实际数字可能更高：部分开发者（devs）并未披露 AI 使用情况，而且披露只涵盖玩家看到或听到的内容，不包括编程中使用的任何部分。"
+              },
+              {
+                "t": "p",
+                "x": "使用该标签的“大多是小游戏”：“评测少于10条的游戏中有47%披露了 AI，而评测达1,000+条的游戏中这一比例为百分之十四。”"
+              },
+              {
+                "t": "p",
+                "x": "Steam 并未提供从商店中完全过滤掉含 AI-generated 内容游戏的方式。在最近一届 Steam Next Fest 期间出现关于“AI slop”的投诉后，Valve 表示已“知悉”，但解决方案并没有明确的时间表。"
               }
             ]
           }
@@ -545,121 +501,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Itch.io 신규 페이지\n두 달 새 두 배로",
-          "body": "Itch.io는 AI 슬롭 속 하루 신규 페이지가 두 달 새 두 배라고 밝혔다.",
-          "mini_headline": "Itch.io 신규 페이지 두 배",
+          "headline": "시월 Steam 신작 절반\nAI 콘텐츠 사용 밝혀",
+          "body": "Steam 신작의 AI-generated 공개율이 26.4%서 49.9%로 올랐다.",
+          "mini_headline": "Steam 신작 절반 AI 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "이미지 출처: Steam"
               },
               {
                 "t": "p",
-                "x": "생성형 AI를 쓰는 개발자가 늘면서 게임 스토어에 신작이 넘쳐나고, 손수 만든 게임을 내놓는 인디 개발자가 눈에 띄기는 그 어느 때보다 어려워졌다."
+                "x": "ploz라는 Redditor가 통계를 깊이 파고든 결과, 2026년 10월 Steam에 출시된 신작 전체의 49.9퍼센트가 AI-generated 콘텐츠로 만들었다고 공개했다. 한 해 전 26.4퍼센트에서 늘어난 수치다. Steam이 AI 공개 옵션을 추가한 2024년 1월에는 1.7퍼센트에 불과했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - 10월 Steam 출시작의 절반 가까이가 AI-generated 콘텐츠를 공개했다(49.9%, 2024년 1월 1.7%에서 증가)"
               },
               {
                 "t": "p",
-                "x": "itch.io는 10월 31일 늦게 Bluesky에서 하루에 만들어지는 게임 페이지 수가 2026년 8월 이후 두 배로 늘었다고 밝혔다. 공유된 그래프에 따르면 당시 하루 생성 페이지는 약 3,000개였으나, 10월 30일 기준으로는 6,000개를 넘는다. itch.io의 다른 답글을 보면 이 신규 페이지의 대부분도 AI 프로젝트다."
+                "x": "ploz는 또 2026년 들어 지금까지 출시된 게임 전체의 40.1퍼센트가 AI-generated 콘텐츠 태그를 달았다고 밝혔다. 실제 수치는 이보다 높을 가능성이 크다. 일부 개발자는 AI 사용을 공개하지 않고, 공개 대상도 눈이나 귀로 접하는 콘텐츠뿐이며 코딩에 쓰인 것은 포함되지 않기 때문이다."
               },
               {
                 "t": "p",
-                "x": "등록작이 늘어도 플레이어는 늘지 않는다. itch.io는 또 다른 답글에서 2026년 8월 이후 \"다운로드와 구매 수는 두 배로 늘지 않았다\"고 확인했다."
+                "x": "이 태그를 다는 것은 “대부분 소규모 게임”이다. “리뷰가 10개 미만인 게임의 47퍼센트가 AI 사용을 공개한 반면, 리뷰가 1,000개 이상인 게임은 14퍼센트에 그친다.”"
               },
               {
                 "t": "p",
-                "x": "상당수가 생성형 AI로 만들어졌을 신작이 쏟아지면서, 인디 개발자가 노출을 얻어야 할 플랫폼은 넘쳐나지만 이용자는 늘지 않는다. Steam도 마찬가지로 포화 상태이며, 많은 Steam Next Fest 데모가 AI-made 경쟁작에 묻히거나 도용당했다. Itch.io는 이미 개발자에게 AI 사용 여부를 밝히도록 요구하고 있다."
+                "x": "Steam은 AI-generated 콘텐츠가 담긴 게임을 스토어에서 완전히 걸러내는 기능을 제공하지 않는다. 가장 최근 Steam Next Fest 기간 “AI slop”에 대한 불만이 쏟아지자 Valve는 이를 “인지하고 있다”고 했지만, 해결책을 내놓을 구체적인 일정은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Itch.io新規ページ\n二か月で倍増",
-          "body": "Itch.ioは、AIスロップの氾濫で毎日の新規ゲームページが二か月で倍増したと明かした。",
-          "mini_headline": "Itch.io新規ページが倍増",
+          "headline": "十月のSteam新作の半数\nAIコンテンツを開示",
+          "body": "十月のSteam新作の49.9%がAI-generatedを開示、前年は26.4%だった。",
+          "mini_headline": "Steam新作の半数がAIを開示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "画像：Steam"
               },
               {
                 "t": "p",
-                "x": "生成AIを使う開発者が増え、ゲームストアには新作があふれている。手作りのゲームを出すインディー開発者が目立つことは、かつてなく難しくなった。"
+                "x": "Redditorのplozが統計を詳しく調べたところ、2026年10月にSteamで発売された新作全体の49.9パーセントが、AI-generatedコンテンツを使って制作したと開示していた。一年前の26.4パーセントから増えた。SteamがAI開示の選択肢を追加した2024年1月には、わずか1.7パーセントだった。"
               },
-              {
-                "t": "p",
-                "x": "itch.ioは10月31日遅く、Blueskyで、1日に作成されるゲームページの数が2026年8月以降に倍増したと明らかにした。共有されたグラフによると、当時の1日あたりの作成ページ数は約3,000件だったが、10月30日時点では6,000件を超えている。itch.ioのほかの返信によれば、これら新規ページの大半もAIプロジェクトだという。"
-              },
-              {
-                "t": "p",
-                "x": "掲載数が増えてもプレイヤーは増えていない。itch.ioは別の返信で、2026年8月以降「ダウンロード数と購入数は倍増していない」と認めた。"
-              },
-              {
-                "t": "p",
-                "x": "多くが生成AIで作られたとみられる新作の流入は、インディー開発者が露出を必要とするプラットフォームを埋め尽くす一方、利用者の増加にはつながっていない。Steamも同様に飽和しており、多くのSteam Next FestのデモがAI-madeの競合作品に埋もれたり盗用されたりしている。Itch.ioはすでに開発者にAI使用の開示を求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Itch.io新游戏页面\n两个月翻倍",
-          "body": "Itch.io称，随着AI垃圾内容涌入商店，每日新建游戏页面数在两个月内翻了一番。",
-          "mini_headline": "Itch.io新页面翻倍",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - 10月にSteamで発売されたゲームのほぼ半数がAI-generatedコンテンツを開示(49.9%、2024年1月の1.7%から増加)"
               },
               {
                 "t": "p",
-                "x": "随着越来越多开发者使用生成式AI，游戏商店里新作泛滥，手工打造游戏的独立开发者想要脱颖而出比以往任何时候都难。"
+                "x": "plozはまた、2026年にこれまで発売されたゲーム全体の40.1パーセントがAI-generatedコンテンツのタグを付けていることも突き止めた。実際の数字はさらに高いとみられる。AIの使用を開示しない開発者もいるうえ、開示の対象は目や耳で触れるコンテンツに限られ、コーディングに使われたものは含まれないからだ。"
               },
               {
                 "t": "p",
-                "x": "10月31日深夜，itch.io在Bluesky上透露，每天新建的游戏页面数量自2026年8月以来翻了一番。根据其分享的图表，当时每天新建的页面约为3,000个；截至10月30日，这一数字已超过6,000个。itch.io的其他回复还表明，这些新页面中大多数也是AI项目。"
+                "x": "このタグを付けているのは「主に小規模なゲーム」だという。「レビューが10件未満のゲームでは47パーセントがAIを開示しているのに対し、レビューが1,000件以上のゲームでは14パーセントだ」"
               },
               {
                 "t": "p",
-                "x": "上架作品增多并没有带来更多玩家：itch.io在另一条回复中证实，自2026年8月以来，“下载量和购买量并没有翻倍”。"
-              },
-              {
-                "t": "p",
-                "x": "大量新作涌入，其中许多可能是用生成式AI制作的，它们挤满了独立开发者赖以获得曝光的平台，却没有带来受众增长。Steam同样拥挤不堪，许多Steam Next Fest试玩版被AI-made竞品淹没或抄袭。Itch.io已要求开发者披露AI使用情况。"
+                "x": "Steamには、AI-generatedコンテンツを含むゲームをストアから完全に除外する手段がない。直近のSteam Next Festで「AI slop」への苦情が相次いだ後、Valveはそれを「認識している」と述べたが、解決に向けた具体的なスケジュールはない。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las páginas nuevas de Itch.io\nse duplican en dos meses",
-          "body": "Itch.io afirma que las páginas de juegos creadas al día se duplicaron en dos meses por la avalancha de basura de AI.",
-          "mini_headline": "Itch.io duplica sus páginas nuevas",
+          "headline": "La mitad de los juegos de Steam\nde octubre declara uso de AI",
+          "body": "En octubre, el 49.9% de los juegos lanzados en Steam declaró contenido AI-generated, frente al 26.4% un año antes.",
+          "mini_headline": "La mitad de Steam declara AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?fit=crop&w=1600&h=900"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "Imagen vía Steam"
               },
               {
                 "t": "p",
-                "x": "Las tiendas de videojuegos se llenan de juegos nuevos a medida que más desarrolladores usan AI generativa, lo que hace más difícil que nunca que los desarrolladores independientes con juegos hechos a mano destaquen."
+                "x": "Un Redditor llamado ploz analizó a fondo las estadísticas y descubrió que el 49.9 por ciento de todos los juegos nuevos lanzados en Steam en octubre de 2026 declaró haberse hecho con contenido AI-generated, frente al 26.4 por ciento de hace un año. En enero de 2024, cuando Steam añadió las opciones de declaración de AI, era apenas el 1.7 por ciento."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - Casi la mitad de los juegos lanzados en Steam en octubre declaró contenido AI-generated (49.9%, frente al 1.7% de enero de 2024)"
               },
               {
                 "t": "p",
-                "x": "A última hora del 31 de octubre, itch.io reveló en Bluesky que el número de páginas de juegos creadas cada día se ha duplicado desde agosto de 2026. Según el gráfico compartido, entonces se creaban unas 3,000 páginas al día; ahora, a 30 de octubre, la cifra supera las 6,000. Otras respuestas de itch.io indican que los proyectos de AI también constituyen la mayoría de estas páginas nuevas."
+                "x": "ploz también descubrió que el 40.1 por ciento de todos los juegos lanzados en lo que va de 2026 usa la etiqueta de contenido AI-generated. La cifra real probablemente sea mayor: algunos desarrolladores no declaran el uso de AI, y la declaración solo cuenta el contenido que se ve o se oye, no lo que se usa en la programación."
               },
               {
                 "t": "p",
-                "x": "Más fichas no traen más jugadores: itch.io confirmó en otra respuesta que \"el número de descargas y compras no se ha duplicado\" desde agosto de 2026."
+                "x": "Son “sobre todo juegos pequeños” los que usan la etiqueta: “el 47 por ciento de los juegos con menos de 10 reseñas declara AI, frente al 14 por ciento de los juegos con 1,000+ reseñas.”"
               },
               {
                 "t": "p",
-                "x": "La llegada masiva de lanzamientos, muchos probablemente creados con AI generativa, satura las plataformas en las que los desarrolladores independientes necesitan visibilidad sin aportar crecimiento de público. Steam está igual de saturada, y muchas demos del Steam Next Fest quedan sepultadas o son plagiadas por competencia AI-made. Itch.io ya pide a los desarrolladores que declaren el uso de AI."
+                "x": "Steam no ofrece una forma de excluir por completo de la tienda los juegos con contenido AI-generated. Tras las quejas por el “AI slop” durante el Steam Next Fest más reciente, Valve dijo estar “al tanto”, pero no hay un calendario real para una solución."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "10月Steam新游戏\n半数披露AI内容",
+          "body": "10月Steam新游戏中49.9%披露AI生成内容，一年前为26.4%。",
+          "mini_headline": "Steam半数游戏披露AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+                "cap": "图片来源：Steam"
+              },
+              {
+                "t": "p",
+                "x": "一位名叫 ploz 的 Redditor 深入挖掘统计数据后发现，2026年10月在 Steam 上发布的所有新游戏中，有49.9%披露其使用了 AI-generated 内容，而一年前这一比例为26.4%。2024年1月 Steam 刚加入 AI 披露选项时，这一比例仅为1.7%。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
+                "cap": "r/Steam - 10月在 Steam 上发布的游戏中，近半数披露了 AI-generated 内容（49.9%，2024年1月为1.7%）"
+              },
+              {
+                "t": "p",
+                "x": "ploz 还发现，2026年迄今发布的所有游戏中，有40.1%使用了 AI-generated 内容标签。实际数字可能更高：部分开发者（devs）并未披露 AI 使用情况，而且披露只涵盖玩家看到或听到的内容，不包括编程中使用的任何部分。"
+              },
+              {
+                "t": "p",
+                "x": "使用该标签的“大多是小游戏”：“评测少于10条的游戏中有47%披露了 AI，而评测达1,000+条的游戏中这一比例为百分之十四。”"
+              },
+              {
+                "t": "p",
+                "x": "Steam 并未提供从商店中完全过滤掉含 AI-generated 内容游戏的方式。在最近一届 Steam Next Fest 期间出现关于“AI slop”的投诉后，Valve 表示已“知悉”，但解决方案并没有明确的时间表。"
               }
             ]
           }
@@ -667,15 +647,769 @@
       }
     },
     {
-      "id": "ramen-aura-autopilot",
+      "id": "vrchat-ai-label-backlash",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ramen 오픈소스 AI\nAura Autopilot",
-      "body": "Aura Autopilot은 Unreal·Unity·Godot용 AI 테스터다.",
-      "mini_headline": "Ramen, 플레이테스터 오픈소스 공개",
+      "headline": "AI 표기 뺀 VRChat\n사용자 반발 거세다",
+      "body": "VRChat이 설문 뒤 AI-generated 표기를 접어 사용자 반발을 샀다.",
+      "mini_headline": "VRChat, AI 표기 안 한다",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "VRChat이 AI-generated 콘텐츠에 라벨을 달지 않기로 해 논란이 일면서 사용자들의 거센 반발을 사고 있다."
+          },
+          {
+            "t": "p",
+            "x": "이 소셜 VR 플랫폼은 이달 초 21,000명이 넘는 사용자에게 AI-generated 콘텐츠에 라벨을 붙여야 하는지 설문으로 물었다. 일본 매체 Automaton에 따르면 응답자 약 95%가 라벨을 원했다."
+          },
+          {
+            "t": "p",
+            "x": "“‘AI-generated’ 라벨이나 AI 필터는 추가하지 않는다.” VRChat은 일부 크리에이터가 생성형 또는 보조 작업물을 직접 만든 것처럼 내세울 수 있고 ‘탐정질’과 크리에이터 괴롭힘으로 번질 수 있다고 주장했다. 대신 월드 홍보용 “AI-generated 부정확한 썸네일”을 금지하고 월드에 좋아요·싫어요와 인앱 피드백 기능을 넣는다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "스튜디오는 선택형 ‘Human-authored’ 마크를 아직 검토하고 있다. 그사이 사용자들은 Steam으로 몰려가 ‘리뷰 폭탄’을 던졌다. VRChat은 현재 약 4,000명의 사용자에게서 ‘Mostly Negative’ 평가를 받았고 최근 30일 긍정 비율은 33%다. 그 여파로 전체 평가도 ‘Mostly Positive’에서 ‘Mixed’로 내려앉았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "VRChat faces backlash over\nskipping an AI content label",
+          "body": "After surveying users, VRChat decided not to label AI-generated content, drawing a sizable user backlash.",
+          "mini_headline": "VRChat skips an AI label",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChat is currently weathering a sizable backlash among users due to a controversial decision to not label AI-generated content."
+              },
+              {
+                "t": "p",
+                "x": "A survey earlier this month polled over 21,000 users on whether the social VR platform should label AI-generated content. Japanese outlet Automaton reports that around 95% of responders wanted such a label."
+              },
+              {
+                "t": "p",
+                "x": "“We’re not adding an ‘AI-generated’ label or AI filters,” VRChat says, arguing some creators would pass off generative or assisted work as hand-authored and that it could create ‘sleuthing’ behavior and harassment of creators. Instead, it will ban “AI-generated inaccurate thumbnails” used to advertise worlds and add likes, dislikes and in-app feedback for worlds."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "The studio is still debating an optional ‘Human-authored’ mark. Meanwhile users have taken to Steam to ‘review bomb’ the app: VRChat now has a ‘Mostly Negative’ rating from ~4,000 users, 33% positive over the past 30 days, pushing its lifetime rating from ‘Mostly Positive’ to ‘Mixed’."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 표기 뺀 VRChat\n사용자 반발 거세다",
+          "body": "VRChat이 설문 뒤 AI-generated 표기를 접어 사용자 반발을 샀다.",
+          "mini_headline": "VRChat, AI 표기 안 한다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChat이 AI-generated 콘텐츠에 라벨을 달지 않기로 해 논란이 일면서 사용자들의 거센 반발을 사고 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 소셜 VR 플랫폼은 이달 초 21,000명이 넘는 사용자에게 AI-generated 콘텐츠에 라벨을 붙여야 하는지 설문으로 물었다. 일본 매체 Automaton에 따르면 응답자 약 95%가 라벨을 원했다."
+              },
+              {
+                "t": "p",
+                "x": "“‘AI-generated’ 라벨이나 AI 필터는 추가하지 않는다.” VRChat은 일부 크리에이터가 생성형 또는 보조 작업물을 직접 만든 것처럼 내세울 수 있고 ‘탐정질’과 크리에이터 괴롭힘으로 번질 수 있다고 주장했다. 대신 월드 홍보용 “AI-generated 부정확한 썸네일”을 금지하고 월드에 좋아요·싫어요와 인앱 피드백 기능을 넣는다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "스튜디오는 선택형 ‘Human-authored’ 마크를 아직 검토하고 있다. 그사이 사용자들은 Steam으로 몰려가 ‘리뷰 폭탄’을 던졌다. VRChat은 현재 약 4,000명의 사용자에게서 ‘Mostly Negative’ 평가를 받았고 최근 30일 긍정 비율은 33%다. 그 여파로 전체 평가도 ‘Mostly Positive’에서 ‘Mixed’로 내려앉았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VRChat、AI表示見送り\nユーザーが反発",
+          "body": "VRChatは調査後、AI-generatedコンテンツの表示を見送り、大きな反発を招いた。",
+          "mini_headline": "VRChat、AIラベルを見送り",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChatは現在、AI-generatedコンテンツにラベルを付けないという物議を醸す決定をめぐり、ユーザーから大きな反発を受けている。"
+              },
+              {
+                "t": "p",
+                "x": "今月初めの調査では、21,000人を超えるユーザーに対し、このソーシャルVRプラットフォームがAI-generatedコンテンツにラベルを付けるべきかを尋ねた。日本のメディアAutomatonによると、回答者の約95%がそうしたラベルを望んでいた。"
+              },
+              {
+                "t": "p",
+                "x": "「『AI-generated』ラベルやAIフィルターは追加しない」とVRChatは述べ、一部のクリエイターが生成ツールや補助を使った作品を手作業によるものと偽る恐れがあるほか、「詮索」行為やクリエイターへの嫌がらせを招きかねないと主張した。代わりに、ワールドの宣伝に使われる「AI-generatedの不正確なサムネイル」を禁止し、ワールドに高評価・低評価とアプリ内フィードバックを追加する。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "スタジオは任意の「Human-authored」マークについてまだ議論している。一方、ユーザーはSteamでアプリに「レビュー爆撃」を仕掛けている。VRChatは現在、約4,000人のユーザーから「Mostly Negative」の評価を受け、過去30日間の好評率は33%で、全期間の評価も「Mostly Positive」から「Mixed」に下がった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VRChat不设AI标签\n引发用户强烈反弹",
+          "body": "VRChat在调查用户后决定不为AI-generated内容加标签，引发大量用户反弹。",
+          "mini_headline": "VRChat不设AI标签",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChat因一项不为AI-generated内容加标签的争议决定，目前正遭遇用户的大规模反弹。"
+              },
+              {
+                "t": "p",
+                "x": "本月早些时候的一项调查询问了逾21,000名用户，这一社交VR平台是否应为AI-generated内容加标签。据日本媒体Automaton报道，约95%的受访者希望加上这样的标签。"
+              },
+              {
+                "t": "p",
+                "x": "“我们不会添加‘AI-generated’标签或AI过滤器，”VRChat表示，理由是一些创作者会把生成式或辅助完成的作品冒充为手工创作，而且这可能引发“侦探式”追查行为和对创作者的骚扰。作为替代，它将禁止用于宣传世界的“AI-generated不实缩略图”，并为世界加入点赞、点踩和应用内反馈功能。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "工作室仍在讨论一个可选的“Human-authored”标记。与此同时，用户涌向Steam对该应用“刷差评”：VRChat目前获得约4,000名用户的“Mostly Negative”评价，过去30天好评率为33%，使其总体评价从“Mostly Positive”降为“Mixed”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Críticas a VRChat por omitir\nla etiqueta de contenido AI",
+          "body": "Tras una encuesta, VRChat decidió no etiquetar el contenido AI-generated y desató un fuerte rechazo de usuarios.",
+          "mini_headline": "VRChat no etiquetará la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChat afronta actualmente un rechazo considerable entre sus usuarios por la polémica decisión de no etiquetar el contenido AI-generated."
+              },
+              {
+                "t": "p",
+                "x": "Una encuesta realizada a principios de este mes preguntó a más de 21,000 usuarios si la plataforma social de VR debía etiquetar el contenido AI-generated. El medio japonés Automaton informa que alrededor del 95% de los participantes quería esa etiqueta."
+              },
+              {
+                "t": "p",
+                "x": "“No vamos a añadir una etiqueta ‘AI-generated’ ni filtros de AI”, afirma VRChat, que argumenta que algunos creadores harían pasar trabajos generativos o asistidos como hechos a mano y que podría fomentar conductas de ‘investigación’ y el acoso a creadores. En su lugar, prohibirá las “miniaturas AI-generated inexactas” usadas para promocionar mundos y añadirá me gusta, no me gusta y comentarios dentro de la app para los mundos."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "El estudio todavía debate una marca opcional ‘Human-authored’. Mientras tanto, los usuarios han acudido a Steam para hacer ‘review bomb’ a la app: VRChat tiene ahora una valoración ‘Mostly Negative’ de ~4,000 usuarios, con un 33% de reseñas positivas en los últimos 30 días, lo que ha llevado su valoración histórica de ‘Mostly Positive’ a ‘Mixed’."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 표기 뺀 VRChat\n사용자 반발 거세다",
+          "body": "VRChat이 설문 뒤 AI-generated 표기를 접어 사용자 반발을 샀다.",
+          "mini_headline": "VRChat, AI 표기 안 한다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChat은 AI-generated 콘텐츠에 라벨을 달지 않기로 한 논란의 결정으로 현재 사용자들의 거센 반발을 겪고 있다."
+              },
+              {
+                "t": "p",
+                "x": "이달 초 진행된 설문은 21,000명이 넘는 사용자에게 이 소셜 VR 플랫폼이 AI-generated 콘텐츠에 라벨을 붙여야 하는지 물었다. 일본 매체 Automaton에 따르면 응답자의 약 95%가 그런 라벨을 원했다."
+              },
+              {
+                "t": "p",
+                "x": "“‘AI-generated’ 라벨이나 AI 필터는 추가하지 않는다.” VRChat은 일부 크리에이터가 생성형 또는 보조 작업물을 직접 만든 것처럼 내세울 수 있고, ‘탐정질’과 크리에이터 괴롭힘을 부를 수 있다고 주장했다. 대신 월드 홍보에 쓰이는 “AI-generated 부정확한 썸네일”을 금지하고, 월드에 좋아요·싫어요와 인앱 피드백 기능을 더한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "스튜디오는 선택형 ‘Human-authored’ 마크를 여전히 검토 중이다. 그사이 사용자들은 Steam으로 몰려가 앱에 ‘리뷰 폭탄’을 던졌다. VRChat은 현재 약 4,000명의 사용자로부터 ‘Mostly Negative’ 평가를 받고 있으며 최근 30일 긍정 비율은 33%다. 이 때문에 전체 평가도 ‘Mostly Positive’에서 ‘Mixed’로 떨어졌다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VRChat、AI表示見送り\nユーザーが反発",
+          "body": "VRChatは調査後、AI-generatedコンテンツの表示を見送り、大きな反発を招いた。",
+          "mini_headline": "VRChat、AIラベルを見送り",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChatは現在、AI-generatedコンテンツにラベルを付けないという物議を醸す決定をめぐり、ユーザーから大きな反発を受けている。"
+              },
+              {
+                "t": "p",
+                "x": "今月初めの調査では、21,000人を超えるユーザーに対し、このソーシャルVRプラットフォームがAI-generatedコンテンツにラベルを付けるべきかを尋ねた。日本のメディアAutomatonによると、回答者の約95%がそうしたラベルを望んでいた。"
+              },
+              {
+                "t": "p",
+                "x": "「『AI-generated』ラベルやAIフィルターは追加しない」とVRChatは述べ、一部のクリエイターが生成ツールや補助を使った作品を手作業によるものと偽る恐れがあるほか、「詮索」行為やクリエイターへの嫌がらせを招きかねないと主張した。代わりに、ワールドの宣伝に使われる「AI-generatedの不正確なサムネイル」を禁止し、ワールドに高評価・低評価とアプリ内フィードバックを追加する。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "スタジオは任意の「Human-authored」マークについてまだ議論している。一方、ユーザーはSteamでアプリに「レビュー爆撃」を仕掛けている。VRChatは現在、約4,000人のユーザーから「Mostly Negative」の評価を受け、過去30日間の好評率は33%で、全期間の評価も「Mostly Positive」から「Mixed」に下がった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VRChat不设AI标签\n引发用户强烈反弹",
+          "body": "VRChat在调查用户后决定不为AI-generated内容加标签，引发大量用户反弹。",
+          "mini_headline": "VRChat不设AI标签",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChat因一项不为AI-generated内容加标签的争议决定，目前正遭遇用户的大规模反弹。"
+              },
+              {
+                "t": "p",
+                "x": "本月早些时候的一项调查询问了逾21,000名用户，这一社交VR平台是否应为AI-generated内容加标签。据日本媒体Automaton报道，约95%的受访者希望加上这样的标签。"
+              },
+              {
+                "t": "p",
+                "x": "“我们不会添加‘AI-generated’标签或AI过滤器，”VRChat表示，理由是一些创作者会把生成式或辅助完成的作品冒充为手工创作，而且这可能引发“侦探式”追查行为和对创作者的骚扰。作为替代，它将禁止用于宣传世界的“AI-generated不实缩略图”，并为世界加入点赞、点踩和应用内反馈功能。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "工作室仍在讨论一个可选的“Human-authored”标记。与此同时，用户涌向Steam对该应用“刷差评”：VRChat目前获得约4,000名用户的“Mostly Negative”评价，过去30天好评率为33%，使其总体评价从“Mostly Positive”降为“Mixed”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Críticas a VRChat por omitir\nla etiqueta de contenido AI",
+          "body": "Tras una encuesta, VRChat decidió no etiquetar el contenido AI-generated y desató un fuerte rechazo de usuarios.",
+          "mini_headline": "VRChat no etiquetará la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "VRChat afronta actualmente un rechazo considerable entre sus usuarios por la polémica decisión de no etiquetar el contenido AI-generated."
+              },
+              {
+                "t": "p",
+                "x": "Una encuesta realizada a principios de este mes preguntó a más de 21,000 usuarios si la plataforma social de VR debía etiquetar el contenido AI-generated. El medio japonés Automaton informa que alrededor del 95% de los participantes quería esa etiqueta."
+              },
+              {
+                "t": "p",
+                "x": "“No vamos a añadir una etiqueta ‘AI-generated’ ni filtros de AI”, afirma VRChat, que argumenta que algunos creadores harían pasar trabajos generativos o asistidos como hechos a mano y que podría fomentar conductas de ‘investigación’ y el acoso a creadores. En su lugar, prohibirá las “miniaturas AI-generated inexactas” usadas para promocionar mundos y añadirá me gusta, no me gusta y comentarios dentro de la app para los mundos."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "El estudio todavía debate una marca opcional ‘Human-authored’. Mientras tanto, los usuarios han acudido a Steam para hacer ‘review bomb’ a la app: VRChat tiene ahora una valoración ‘Mostly Negative’ de ~4,000 usuarios, con un 33% de reseñas positivas en los últimos 30 días, lo que ha llevado su valoración histórica de ‘Mostly Positive’ a ‘Mixed’."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "kocca-ai-gamelab-day",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "콘진원 AI 게임랩 데이\n12일 판교서 개최",
+      "body": "송재경 등이 AI 게임 제작 사례를 강연하고 중소 게임사 기술 상담도 연다.",
+      "mini_headline": "AI 게임랩 데이 개최",
+      "tool": "Games",
+      "source": "inews24",
+      "url": "https://www.inews24.com/view/2021651",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "[아이뉴스24 곽민구 기자] 한국콘텐츠진흥원(콘진원)은 오는 12일 경기 판교 글로벌게임허브센터에서 인공지능(AI)을 활용한 게임 개발 사례를 공유하는 'AI 게임랩 데이 2026'을 개최한다고 2일 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+            "cap": "글로벌게임허브센터 AI 게임랩 데이 포스터. [사진=한국콘텐츠진흥원]"
+          },
+          {
+            "t": "p",
+            "x": "이번 행사는 AI 기술 확산에 따른 게임 개발 환경의 변화를 살펴보고, 국내 개발자들의 실제 제작 경험과 기술 활용 방법을 공유하기 위해 마련됐다."
+          },
+          {
+            "t": "p",
+            "x": "첫 번째 기조강연은 원재호 앵커노드 대표가 맡는다. 원 대표는 '격변기마다 작은 개발팀이 판을 바꿨다'를 주제로 26년간의 개발 경험을 바탕으로 AI 기술 발전이 소규모 게임 개발팀에 가져올 변화와 기회를 설명할 예정이다."
+          },
+          {
+            "t": "p",
+            "x": "노자명 문탠소프트 대표는 대규모 게임 제작 현장에서 쌓은 경험과 현재 개발 중인 프로젝트를 중심으로 개발 과정에서의 고민과 실무 사례를 공유한다. 박종태 유니티 엔지니어는 게임 엔진과 AI 도구를 결합한 제작 방법을 소개한다. 특히 명령어를 입력해 프로그램을 실행하고 관리하는 CLI(명령줄 인터페이스)를 활용한 실제 개발 사례를 다룰 예정이다."
+          },
+          {
+            "t": "p",
+            "x": "마지막 세션에는 '바람의 나라'와 '리니지' 개발에 참여한 송재경 엑스엘게임즈 창업자가 나선다. 송 창업자는 최근 게임 개발 경험을 공유하고, 사전 접수된 질문과 현장 질문에 직접 답하는 '무엇이든 물어보세요(AMA)' 방식으로 참가자들과 소통할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "주성호 콘진원 게임기반조성팀장은 \"AI는 게임 기획부터 제작까지 개발 현장 전반에 변화를 가져오고 있다\"며 \"이번 행사가 개발자들이 실제 활용 사례를 공유하고 AI 기반 제작 역량을 높이는 계기가 되길 바란다\"고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "콘진원 AI 게임랩 데이\n12일 판교서 개최",
+          "body": "송재경 등이 AI 게임 제작 사례를 강연하고 중소 게임사 기술 상담도 연다.",
+          "mini_headline": "AI 게임랩 데이 개최",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[아이뉴스24 곽민구 기자] 한국콘텐츠진흥원(콘진원)은 오는 12일 경기 판교 글로벌게임허브센터에서 인공지능(AI)을 활용한 게임 개발 사례를 공유하는 'AI 게임랩 데이 2026'을 개최한다고 2일 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "글로벌게임허브센터 AI 게임랩 데이 포스터. [사진=한국콘텐츠진흥원]"
+              },
+              {
+                "t": "p",
+                "x": "이번 행사는 AI 기술 확산에 따른 게임 개발 환경의 변화를 살펴보고, 국내 개발자들의 실제 제작 경험과 기술 활용 방법을 공유하기 위해 마련됐다."
+              },
+              {
+                "t": "p",
+                "x": "첫 번째 기조강연은 원재호 앵커노드 대표가 맡는다. 원 대표는 '격변기마다 작은 개발팀이 판을 바꿨다'를 주제로 26년간의 개발 경험을 바탕으로 AI 기술 발전이 소규모 게임 개발팀에 가져올 변화와 기회를 설명할 예정이다."
+              },
+              {
+                "t": "p",
+                "x": "노자명 문탠소프트 대표는 대규모 게임 제작 현장에서 쌓은 경험과 현재 개발 중인 프로젝트를 중심으로 개발 과정에서의 고민과 실무 사례를 공유한다. 박종태 유니티 엔지니어는 게임 엔진과 AI 도구를 결합한 제작 방법을 소개한다. 특히 명령어를 입력해 프로그램을 실행하고 관리하는 CLI(명령줄 인터페이스)를 활용한 실제 개발 사례를 다룰 예정이다."
+              },
+              {
+                "t": "p",
+                "x": "마지막 세션에는 '바람의 나라'와 '리니지' 개발에 참여한 송재경 엑스엘게임즈 창업자가 나선다. 송 창업자는 최근 게임 개발 경험을 공유하고, 사전 접수된 질문과 현장 질문에 직접 답하는 '무엇이든 물어보세요(AMA)' 방식으로 참가자들과 소통할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "주성호 콘진원 게임기반조성팀장은 \"AI는 게임 기획부터 제작까지 개발 현장 전반에 변화를 가져오고 있다\"며 \"이번 행사가 개발자들이 실제 활용 사례를 공유하고 AI 기반 제작 역량을 높이는 계기가 되길 바란다\"고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "KOCCA's AI Game Lab Day\nset for Pangyo on the 12th",
+          "body": "Song Jae-kyung and others will speak on AI game production, with tech consultations for small and midsize studios.",
+          "mini_headline": "AI Game Lab Day to be held",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24 reporter Kwak Min-gu] The Korea Creative Content Agency (KOCCA) said on the 2nd that it will hold 'AI Game Lab Day 2026,' an event sharing cases of game development using artificial intelligence (AI), at the Global Game Hub Center in Pangyo, Gyeonggi Province, on the 12th."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "Poster for AI Game Lab Day at the Global Game Hub Center. [Photo=Korea Creative Content Agency]"
+              },
+              {
+                "t": "p",
+                "x": "The event was organized to look at how the game development environment is changing as AI technology spreads, and to share Korean developers' real production experience and ways of using the technology."
+              },
+              {
+                "t": "p",
+                "x": "The first keynote will be given by Won Jae-ho, CEO of Anchor Node. Under the theme 'In every period of upheaval, small development teams changed the game,' Won will draw on 26 years of development experience to explain the changes and opportunities that advances in AI technology will bring to small game development teams."
+              },
+              {
+                "t": "p",
+                "x": "Noh Ja-myung, CEO of Moontan Soft, will share the dilemmas and hands-on cases from the development process, centered on experience gained in large-scale game production and the project currently in development. Park Jong-tae, an engineer at Unity, will introduce production methods that combine game engines with AI tools. In particular, he will cover real development cases using the CLI (command-line interface), which runs and manages programs through typed commands."
+              },
+              {
+                "t": "p",
+                "x": "The final session features Song Jae-kyung, founder of XLGAMES, who took part in developing 'The Kingdom of the Winds' and 'Lineage.' Song will share his recent game development experience and engage with participants in an 'Ask Me Anything (AMA)' format, answering questions submitted in advance and from the floor."
+              },
+              {
+                "t": "p",
+                "x": "Joo Sung-ho, head of KOCCA's Game Infrastructure Team, said, \"AI is bringing change across the entire development field, from game planning to production,\" adding, \"We hope this event will be an opportunity for developers to share real use cases and strengthen their AI-based production capabilities.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIゲームラボデー\n12日に板橋で開催",
+          "body": "ソン・ジェギョンらがAIゲーム制作事例を講演し、中小ゲーム会社の技術相談も行う。",
+          "mini_headline": "AIゲームラボデー開催",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[アイニュース24 クァク・ミング記者] 韓国コンテンツ振興院(コンジン院)は、来る12日に京畿道板橋のグローバルゲームハブセンターで、人工知能(AI)を活用したゲーム開発事例を共有する「AIゲームラボデー 2026」を開催すると2日に明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "グローバルゲームハブセンターのAIゲームラボデーのポスター。[写真=韓国コンテンツ振興院]"
+              },
+              {
+                "t": "p",
+                "x": "今回の行事は、AI技術の普及に伴うゲーム開発環境の変化を探り、国内開発者の実際の制作経験や技術の活用方法を共有するために企画された。"
+              },
+              {
+                "t": "p",
+                "x": "最初の基調講演は、アンカーノードのウォン・ジェホ代表が務める。ウォン代表は「激動期のたびに小さな開発チームが局面を変えた」をテーマに、26年間の開発経験をもとに、AI技術の発展が小規模ゲーム開発チームにもたらす変化と機会を説明する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ムンテンソフトのノ・ジャミョン代表は、大規模ゲーム制作の現場で積んだ経験と現在開発中のプロジェクトを中心に、開発過程での悩みや実務事例を共有する。Unityのパク・ジョンテエンジニアは、ゲームエンジンとAIツールを組み合わせた制作方法を紹介する。特に、コマンドを入力してプログラムを実行・管理するCLI(コマンドラインインターフェース)を活用した実際の開発事例を取り上げる予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "最後のセッションには、『風の王国』と『リネージュ』の開発に携わったXLGAMES創業者のソン・ジェギョン氏が登壇する。ソン氏は最近のゲーム開発経験を共有し、事前に受け付けた質問や会場からの質問に直接答える「何でも聞いてください(AMA)」形式で参加者と交流する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "チュ・ソンホ コンジン院ゲーム基盤造成チーム長は「AIはゲームの企画から制作まで、開発現場全般に変化をもたらしている」とし、「今回の行事が、開発者が実際の活用事例を共有し、AIベースの制作力を高めるきっかけになることを願う」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI游戏实验室日\n12日在板桥举办",
+          "body": "宋在京等人将分享AI游戏制作案例，并为中小游戏公司提供技术咨询。",
+          "mini_headline": "AI游戏实验室日举办",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24记者 Kwak Min-gu] 韩国文化内容振兴院（简称“内容振兴院”）2日表示，将于12日在京畿道板桥全球游戏枢纽中心举办分享人工智能（AI）游戏开发案例的“AI游戏实验室日2026”活动。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "全球游戏枢纽中心AI游戏实验室日海报。[图片=韩国文化内容振兴院]"
+              },
+              {
+                "t": "p",
+                "x": "此次活动旨在审视AI技术普及给游戏开发环境带来的变化，并分享韩国国内开发者的实际制作经验和技术应用方法。"
+              },
+              {
+                "t": "p",
+                "x": "首场主题演讲由Anchor Node代表Won Jae-ho担任。他将以“每逢剧变时期，都是小型开发团队改变了格局”为题，结合26年的开发经验，阐述AI技术发展将为小型游戏开发团队带来的变化与机遇。"
+              },
+              {
+                "t": "p",
+                "x": "Moontan Soft代表Noh Ja-myung将围绕在大型游戏制作现场积累的经验和目前正在开发的项目，分享开发过程中的思考与实务案例。Unity工程师Park Jong-tae将介绍结合游戏引擎与AI工具的制作方法，特别是将讲解利用CLI（命令行界面，即通过输入命令来运行和管理程序）的实际开发案例。"
+              },
+              {
+                "t": "p",
+                "x": "最后一场由曾参与《风之国》和《天堂》开发的XLGAMES创始人宋在京登场。他将分享近期的游戏开发经验，并以回答事先征集问题和现场提问的“有问必答（AMA）”形式与参与者交流。"
+              },
+              {
+                "t": "p",
+                "x": "内容振兴院游戏基础建设组组长Joo Sung-ho表示：“AI正在为从游戏策划到制作的整个开发现场带来变化。”他还说：“希望此次活动能成为开发者分享实际应用案例、提升基于AI的制作能力的契机。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AI Game Lab Day de KOCCA\nse celebra el 12 en Pangyo",
+          "body": "Song Jae-kyung y otros expondrán casos de juegos con AI, con asesoría técnica para pymes del sector.",
+          "mini_headline": "Llega el AI Game Lab Day",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24, Kwak Min-gu] La Agencia de Contenidos Creativos de Corea (KOCCA) anunció el día 2 que celebrará el día 12 el 'AI Game Lab Day 2026', un evento para compartir casos de desarrollo de juegos con inteligencia artificial (AI), en el Global Game Hub Center de Pangyo, en la provincia de Gyeonggi."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "Cartel del AI Game Lab Day del Global Game Hub Center. [Foto=Agencia de Contenidos Creativos de Corea]"
+              },
+              {
+                "t": "p",
+                "x": "El evento se organizó para analizar los cambios que la expansión de la tecnología de AI trae al entorno de desarrollo de juegos y para compartir la experiencia real de producción de los desarrolladores locales y sus formas de aprovechar la tecnología."
+              },
+              {
+                "t": "p",
+                "x": "La primera conferencia magistral estará a cargo de Won Jae-ho, director ejecutivo de Anchor Node. Bajo el lema 'En cada época de agitación, los equipos pequeños cambiaron las reglas del juego', Won explicará, a partir de sus 26 años de experiencia en desarrollo, los cambios y oportunidades que el avance de la AI traerá a los pequeños equipos de desarrollo de juegos."
+              },
+              {
+                "t": "p",
+                "x": "Noh Ja-myung, director ejecutivo de Moontan Soft, compartirá las dificultades y casos prácticos del proceso de desarrollo, centrándose en la experiencia acumulada en la producción de juegos a gran escala y en el proyecto que desarrolla actualmente. Park Jong-tae, ingeniero de Unity, presentará métodos de producción que combinan motores de juego y herramientas de AI. En particular, abordará casos reales de desarrollo con CLI (interfaz de línea de comandos), que permite ejecutar y gestionar programas introduciendo comandos."
+              },
+              {
+                "t": "p",
+                "x": "En la última sesión intervendrá Song Jae-kyung, fundador de XLGAMES, que participó en el desarrollo de 'The Kingdom of the Winds' y 'Lineage'. Song compartirá su experiencia reciente en desarrollo de juegos y conversará con los asistentes en formato 'Pregúntame lo que quieras (AMA)', respondiendo a preguntas enviadas con antelación y planteadas en el lugar."
+              },
+              {
+                "t": "p",
+                "x": "Joo Sung-ho, jefe del Equipo de Infraestructura de Juegos de KOCCA, dijo: \"La AI está transformando todo el ámbito del desarrollo, desde la planificación hasta la producción de juegos\", y añadió: \"Esperamos que este evento sea una oportunidad para que los desarrolladores compartan casos reales de uso y refuercen sus capacidades de producción basadas en AI\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "KOCCA's AI Game Lab Day\nset for Pangyo on the 12th",
+          "body": "Song Jae-kyung and others will speak on AI game production, with tech consultations for small and midsize studios.",
+          "mini_headline": "AI Game Lab Day to be held",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24 reporter Kwak Min-gu] The Korea Creative Content Agency (KOCCA) said on the 2nd that it will hold 'AI Game Lab Day 2026,' an event sharing cases of game development using artificial intelligence (AI), at the Global Game Hub Center in Pangyo, Gyeonggi Province, on the 12th."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "Poster for AI Game Lab Day at the Global Game Hub Center. [Photo=Korea Creative Content Agency]"
+              },
+              {
+                "t": "p",
+                "x": "The event was organized to look at how the game development environment is changing as AI technology spreads, and to share Korean developers' real production experience and ways of using the technology."
+              },
+              {
+                "t": "p",
+                "x": "The first keynote will be given by Won Jae-ho, CEO of Anchor Node. Under the theme 'In every period of upheaval, small development teams changed the game,' Won will draw on 26 years of development experience to explain the changes and opportunities that advances in AI technology will bring to small game development teams."
+              },
+              {
+                "t": "p",
+                "x": "Noh Ja-myung, CEO of Moontan Soft, will share the dilemmas and hands-on cases from the development process, centered on experience gained in large-scale game production and the project currently in development. Park Jong-tae, an engineer at Unity, will introduce production methods that combine game engines with AI tools. In particular, he will cover real development cases using the CLI (command-line interface), which runs and manages programs through typed commands."
+              },
+              {
+                "t": "p",
+                "x": "The final session features Song Jae-kyung, founder of XLGAMES, who took part in developing 'The Kingdom of the Winds' and 'Lineage.' Song will share his recent game development experience and engage with participants in an 'Ask Me Anything (AMA)' format, answering questions submitted in advance and from the floor."
+              },
+              {
+                "t": "p",
+                "x": "Joo Sung-ho, head of KOCCA's Game Infrastructure Team, said, \"AI is bringing change across the entire development field, from game planning to production,\" adding, \"We hope this event will be an opportunity for developers to share real use cases and strengthen their AI-based production capabilities.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIゲームラボデー\n12日に板橋で開催",
+          "body": "ソン・ジェギョンらがAIゲーム制作事例を講演し、中小ゲーム会社の技術相談も行う。",
+          "mini_headline": "AIゲームラボデー開催",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[アイニュース24 クァク・ミング記者] 韓国コンテンツ振興院(コンジン院)は、来る12日に京畿道板橋のグローバルゲームハブセンターで、人工知能(AI)を活用したゲーム開発事例を共有する「AIゲームラボデー 2026」を開催すると2日に明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "グローバルゲームハブセンターのAIゲームラボデーのポスター。[写真=韓国コンテンツ振興院]"
+              },
+              {
+                "t": "p",
+                "x": "今回の行事は、AI技術の普及に伴うゲーム開発環境の変化を探り、国内開発者の実際の制作経験や技術の活用方法を共有するために企画された。"
+              },
+              {
+                "t": "p",
+                "x": "最初の基調講演は、アンカーノードのウォン・ジェホ代表が務める。ウォン代表は「激動期のたびに小さな開発チームが局面を変えた」をテーマに、26年間の開発経験をもとに、AI技術の発展が小規模ゲーム開発チームにもたらす変化と機会を説明する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ムンテンソフトのノ・ジャミョン代表は、大規模ゲーム制作の現場で積んだ経験と現在開発中のプロジェクトを中心に、開発過程での悩みや実務事例を共有する。Unityのパク・ジョンテエンジニアは、ゲームエンジンとAIツールを組み合わせた制作方法を紹介する。特に、コマンドを入力してプログラムを実行・管理するCLI(コマンドラインインターフェース)を活用した実際の開発事例を取り上げる予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "最後のセッションには、『風の王国』と『リネージュ』の開発に携わったXLGAMES創業者のソン・ジェギョン氏が登壇する。ソン氏は最近のゲーム開発経験を共有し、事前に受け付けた質問や会場からの質問に直接答える「何でも聞いてください(AMA)」形式で参加者と交流する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "チュ・ソンホ コンジン院ゲーム基盤造成チーム長は「AIはゲームの企画から制作まで、開発現場全般に変化をもたらしている」とし、「今回の行事が、開発者が実際の活用事例を共有し、AIベースの制作力を高めるきっかけになることを願う」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI游戏实验室日\n12日在板桥举办",
+          "body": "宋在京等人将分享AI游戏制作案例，并为中小游戏公司提供技术咨询。",
+          "mini_headline": "AI游戏实验室日举办",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24记者 Kwak Min-gu] 韩国文化内容振兴院（简称“内容振兴院”）2日表示，将于12日在京畿道板桥全球游戏枢纽中心举办分享人工智能（AI）游戏开发案例的“AI游戏实验室日2026”活动。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "全球游戏枢纽中心AI游戏实验室日海报。[图片=韩国文化内容振兴院]"
+              },
+              {
+                "t": "p",
+                "x": "此次活动旨在审视AI技术普及给游戏开发环境带来的变化，并分享韩国国内开发者的实际制作经验和技术应用方法。"
+              },
+              {
+                "t": "p",
+                "x": "首场主题演讲由Anchor Node代表Won Jae-ho担任。他将以“每逢剧变时期，都是小型开发团队改变了格局”为题，结合26年的开发经验，阐述AI技术发展将为小型游戏开发团队带来的变化与机遇。"
+              },
+              {
+                "t": "p",
+                "x": "Moontan Soft代表Noh Ja-myung将围绕在大型游戏制作现场积累的经验和目前正在开发的项目，分享开发过程中的思考与实务案例。Unity工程师Park Jong-tae将介绍结合游戏引擎与AI工具的制作方法，特别是将讲解利用CLI（命令行界面，即通过输入命令来运行和管理程序）的实际开发案例。"
+              },
+              {
+                "t": "p",
+                "x": "最后一场由曾参与《风之国》和《天堂》开发的XLGAMES创始人宋在京登场。他将分享近期的游戏开发经验，并以回答事先征集问题和现场提问的“有问必答（AMA）”形式与参与者交流。"
+              },
+              {
+                "t": "p",
+                "x": "内容振兴院游戏基础建设组组长Joo Sung-ho表示：“AI正在为从游戏策划到制作的整个开发现场带来变化。”他还说：“希望此次活动能成为开发者分享实际应用案例、提升基于AI的制作能力的契机。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AI Game Lab Day de KOCCA\nse celebra el 12 en Pangyo",
+          "body": "Song Jae-kyung y otros expondrán casos de juegos con AI, con asesoría técnica para pymes del sector.",
+          "mini_headline": "Llega el AI Game Lab Day",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[iNews24, Kwak Min-gu] La Agencia de Contenidos Creativos de Corea (KOCCA) anunció el día 2 que celebrará el día 12 el 'AI Game Lab Day 2026', un evento para compartir casos de desarrollo de juegos con inteligencia artificial (AI), en el Global Game Hub Center de Pangyo, en la provincia de Gyeonggi."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+                "cap": "Cartel del AI Game Lab Day del Global Game Hub Center. [Foto=Agencia de Contenidos Creativos de Corea]"
+              },
+              {
+                "t": "p",
+                "x": "El evento se organizó para analizar los cambios que la expansión de la tecnología de AI trae al entorno de desarrollo de juegos y para compartir la experiencia real de producción de los desarrolladores locales y sus formas de aprovechar la tecnología."
+              },
+              {
+                "t": "p",
+                "x": "La primera conferencia magistral estará a cargo de Won Jae-ho, director ejecutivo de Anchor Node. Bajo el lema 'En cada época de agitación, los equipos pequeños cambiaron las reglas del juego', Won explicará, a partir de sus 26 años de experiencia en desarrollo, los cambios y oportunidades que el avance de la AI traerá a los pequeños equipos de desarrollo de juegos."
+              },
+              {
+                "t": "p",
+                "x": "Noh Ja-myung, director ejecutivo de Moontan Soft, compartirá las dificultades y casos prácticos del proceso de desarrollo, centrándose en la experiencia acumulada en la producción de juegos a gran escala y en el proyecto que desarrolla actualmente. Park Jong-tae, ingeniero de Unity, presentará métodos de producción que combinan motores de juego y herramientas de AI. En particular, abordará casos reales de desarrollo con CLI (interfaz de línea de comandos), que permite ejecutar y gestionar programas introduciendo comandos."
+              },
+              {
+                "t": "p",
+                "x": "En la última sesión intervendrá Song Jae-kyung, fundador de XLGAMES, que participó en el desarrollo de 'The Kingdom of the Winds' y 'Lineage'. Song compartirá su experiencia reciente en desarrollo de juegos y conversará con los asistentes en formato 'Pregúntame lo que quieras (AMA)', respondiendo a preguntas enviadas con antelación y planteadas en el lugar."
+              },
+              {
+                "t": "p",
+                "x": "Joo Sung-ho, jefe del Equipo de Infraestructura de Juegos de KOCCA, dijo: \"La AI está transformando todo el ámbito del desarrollo, desde la planificación hasta la producción de juegos\", y añadió: \"Esperamos que este evento sea una oportunidad para que los desarrolladores compartan casos reales de uso y refuercen sus capacidades de producción basadas en AI\"."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "arc-raiders-tts-rerecord",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Arc Raiders 측\nAI 음성 비판 수긍",
+      "body": "Embark는 AI-generated 음성 비판을 받아들이고 대사를 다시 녹음했다.",
+      "mini_headline": "Arc Raiders, AI 음성 해명",
+      "tool": "Games",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -683,197 +1417,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+            "cap": "Arc Raiders"
           },
           {
             "t": "p",
-            "x": "Unity와 Unreal Engine용 멀티 에이전트 AI 어시스턴트를 만든 Ramen이 오픈소스 게임 플레이테스트 에이전트 Aura Autopilot을 출시했다. 플레이할수록 스스로 나아지는 에이전트로, 벤치마크 결과와 상위 수준 아키텍처를 담은 백서도 함께 나왔다."
+            "x": "Embark는 이후 대사를 다시 녹음해 게임에 실제 사람 목소리를 더 넣었다. 총괄 프로듀서 Aleksander Grøndal은 Arc Raiders YouTube 채널에서 “정말 정당한 비판도 있었다고 생각한다. 방어적으로 나설 이유가 없다”고 말했다."
+          },
+          {
+            "t": "video",
+            "yt": "_xwbP8KV530"
           },
           {
             "t": "p",
-            "x": "Ramen의 CEO 겸 공동 창업자 Andy Tsen은 “Aura Autopilot은 어떤 게임이든 실시간으로 플레이하며 배우고, 플레이할수록 더 나아진다”고 말했다. “이는 게임 QA에 새로운 지평을 열며, 개발자와 연구자가 이를 더 발전시킬 수 있도록 오픈소스로 공개한다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+            "x": "Arc Raiders 출시는 성우 목소리를 흉내 내고 대사를 채우는 데 AI를 썼다는 논란에 묻혔다. 성우들은 이를 허용하는 계약에 서명했지만 플레이어들은 일부 AI 대사가 생기 없고 밋밋하며 어색하다고 꼬집었다."
           },
           {
             "t": "p",
-            "x": "초기 테스트에서 이 에이전트는 슈팅 게임, 액션 RPGs, 모바일 게임, 생존 크래프팅 게임, 턴제 JRPGs, 실시간 전략 게임을 실시간으로 플레이했다. 장기 목표를 세워 계획하면서도 사람이 조종할 수 있어, 개발자는 테스트할 시스템을 정확히 짚어 줄 수 있다. Aura와 함께 쓰면 Aura가 게임플레이 기능을 처음부터 끝까지 만들고 Autopilot이 그걸 플레이테스트한다."
+            "x": "Embark는 업데이트를 더 빨리 내놓으려고 AI를 썼다고 설명한다. 오디오 디렉터 Bence Pajor는 “그들의 목소리로 학습 데이터를 많이 만들어 그 목소리로 프로토타입도 만들 수 있게 했다”고 말했다. 핑 시스템을 두고는 “가능한 모든 버전을 다 녹음하는 것은 너무 비현실적”이라고 했다."
           },
           {
             "t": "p",
-            "x": "백서에 따르면 Aura의 Verification Agent보다 3x 빠르고 비용도 덜 든다. Claude Code, Codex 또는 BYOK로 Unreal Engine, Unity, Godot에서 돌아가며, 프로젝트는 GitHub에 올라와 있다."
+            "x": "최고 크리에이티브 책임자 Stefan Strandberg는 “우리는 배우를 대체하는 사업을 하는 게 아니다”라고 잘라 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ramen releases open-source\nAI playtester Aura Autopilot",
-          "body": "Aura Autopilot is a self-improving agent that playtests games in real time across Unreal, Unity and Godot.",
-          "mini_headline": "Ramen open-sources a playtester",
+          "headline": "Arc Raiders devs call the\nAI voice backlash fair",
+          "body": "Embark calls criticism of its AI-generated voices fair and has since re-recorded lines to add more real human voices.",
+          "mini_headline": "Arc Raiders on AI voices",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "Ramen, developer of the multi-agent AI assistant for Unity and Unreal Engine, has launched Aura Autopilot, an open source game playtesting agent that improves itself the more it plays, alongside a whitepaper covering benchmark results and high-level architecture."
+                "x": "Embark has since re-recorded lines to inject more real human voices to the game. “I think there was some really fair criticism in there. There's no point in trying to be defensive,” executive producer Aleksander Grøndal says via Arc Raiders' YouTube channel."
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "“Aura Autopilot plays any game in real time and learns as it goes, getting better the more it plays,” said Andy Tsen, CEO and co-founder at Ramen. “That opens a new frontier for game QA, and we’re open sourcing it so developers and researchers can take it further.”"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "Arc Raiders' launch was overshadowed by controversy over its use of AI to mimic voice actors and supplement the dialogue. The actors signed contracts allowing it, but players called some AI voicelines lifeless, lacklustre, and odd."
               },
               {
                 "t": "p",
-                "x": "In early testing it played shooters, action RPGs, mobile games, survival crafting games, turn-based JRPGs and realtime strategy games in real time. It plans toward long-term goals and stays steerable, so developers can point it at the exact system they want tested. Paired with Aura, Aura builds a gameplay feature end to end and Autopilot playtests it."
+                "x": "Embark says it used AI to get updates out faster. “We made a lot of training data from their voices so we could prototype as well with their voice,” audio director Bence Pajor says. For the ping system, “it becomes too impractical to record every possible version of something.”"
               },
               {
                 "t": "p",
-                "x": "Per the whitepaper, it runs 3x faster than Aura’s Verification Agent at a lower cost, and runs in Unreal Engine, Unity and Godot with Claude Code, Codex or BYOK. The project is live on GitHub."
+                "x": "“We are not in the industry of replacing actors,” chief creative officer Stefan Strandberg says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ramen 오픈소스 AI\nAura Autopilot",
-          "body": "Aura Autopilot은 Unreal·Unity·Godot용 AI 테스터다.",
-          "mini_headline": "Ramen, 플레이테스터 오픈소스 공개",
+          "headline": "Arc Raiders 측\nAI 음성 비판 수긍",
+          "body": "Embark는 AI-generated 음성 비판을 받아들이고 대사를 다시 녹음했다.",
+          "mini_headline": "Arc Raiders, AI 음성 해명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "Unity와 Unreal Engine용 멀티 에이전트 AI 어시스턴트를 만든 Ramen이 오픈소스 게임 플레이테스트 에이전트 Aura Autopilot을 출시했다. 플레이할수록 스스로 나아지는 에이전트로, 벤치마크 결과와 상위 수준 아키텍처를 담은 백서도 함께 나왔다."
+                "x": "Embark는 이후 대사를 다시 녹음해 게임에 실제 사람 목소리를 더 넣었다. 총괄 프로듀서 Aleksander Grøndal은 Arc Raiders YouTube 채널에서 “정말 정당한 비판도 있었다고 생각한다. 방어적으로 나설 이유가 없다”고 말했다."
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "Ramen의 CEO 겸 공동 창업자 Andy Tsen은 “Aura Autopilot은 어떤 게임이든 실시간으로 플레이하며 배우고, 플레이할수록 더 나아진다”고 말했다. “이는 게임 QA에 새로운 지평을 열며, 개발자와 연구자가 이를 더 발전시킬 수 있도록 오픈소스로 공개한다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "Arc Raiders 출시는 성우 목소리를 흉내 내고 대사를 채우는 데 AI를 썼다는 논란에 묻혔다. 성우들은 이를 허용하는 계약에 서명했지만 플레이어들은 일부 AI 대사가 생기 없고 밋밋하며 어색하다고 꼬집었다."
               },
               {
                 "t": "p",
-                "x": "초기 테스트에서 이 에이전트는 슈팅 게임, 액션 RPGs, 모바일 게임, 생존 크래프팅 게임, 턴제 JRPGs, 실시간 전략 게임을 실시간으로 플레이했다. 장기 목표를 세워 계획하면서도 사람이 조종할 수 있어, 개발자는 테스트할 시스템을 정확히 짚어 줄 수 있다. Aura와 함께 쓰면 Aura가 게임플레이 기능을 처음부터 끝까지 만들고 Autopilot이 그걸 플레이테스트한다."
+                "x": "Embark는 업데이트를 더 빨리 내놓으려고 AI를 썼다고 설명한다. 오디오 디렉터 Bence Pajor는 “그들의 목소리로 학습 데이터를 많이 만들어 그 목소리로 프로토타입도 만들 수 있게 했다”고 말했다. 핑 시스템을 두고는 “가능한 모든 버전을 다 녹음하는 것은 너무 비현실적”이라고 했다."
               },
               {
                 "t": "p",
-                "x": "백서에 따르면 Aura의 Verification Agent보다 3x 빠르고 비용도 덜 든다. Claude Code, Codex 또는 BYOK로 Unreal Engine, Unity, Godot에서 돌아가며, 프로젝트는 GitHub에 올라와 있다."
+                "x": "최고 크리에이티브 책임자 Stefan Strandberg는 “우리는 배우를 대체하는 사업을 하는 게 아니다”라고 잘라 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ramen、AIテスター公開\nAura Autopilot",
-          "body": "Aura AutopilotはUnreal・Unity・Godotで動く進化型テスターだ。",
-          "mini_headline": "Ramen、プレイテスターをオープンソース化",
+          "headline": "Arc Raiders開発陣\nAI音声批判は妥当",
+          "body": "EmbarkはAI-generated音声への批判を妥当と認め、生の声を足すため再収録した。",
+          "mini_headline": "Arc Raiders、AI音声に言及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "UnityとUnreal Engine向けのマルチエージェントAIアシスタントを開発するRamenは、プレイするほど自らを改善するオープンソースのゲームプレイテスト用エージェント「Aura Autopilot」を公開した。ベンチマーク結果と大まかなアーキテクチャを解説するホワイトペーパーも併せて公開した。"
+                "x": "Embarkはその後、台詞を再収録し、ゲームに本物の人間の声をより多く取り入れた。「本当に妥当な批判もあったと思う。防御的になっても意味がない」と、エグゼクティブプロデューサーのAleksander GrøndalはArc RaidersのYouTubeチャンネルで語った。"
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "「Aura Autopilotはどんなゲームもリアルタイムでプレイし、プレイしながら学び、プレイするほど上達する」とRamenのCEO兼共同創業者Andy Tsenは語った。「これはゲームQAに新たな地平を開くものであり、開発者や研究者がさらに発展させられるようオープンソース化する」"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "Arc Raidersのローンチは、声優の声をまねてセリフを補うためにAIを使ったことをめぐる論争に影を落とされた。声優たちはそれを認める契約に署名していたが、プレイヤーは一部のAIボイスを生気がなく、物足りず、奇妙だと評した。"
               },
               {
                 "t": "p",
-                "x": "初期テストでは、シューター、アクションRPGs、モバイルゲーム、サバイバルクラフトゲーム、ターン制JRPGs、リアルタイムストラテジーゲームをリアルタイムでプレイした。長期的な目標に向けて計画を立てつつ指示にも従うため、開発者はテストしたいシステムを正確に指定できる。Auraと組み合わせると、Auraがゲームプレイ機能を最初から最後まで作り、Autopilotがそれをプレイテストする。"
+                "x": "Embarkはアップデートをより早く出すためにAIを使ったと説明する。「彼らの声から大量の学習データを作り、その声でプロトタイプも作れるようにした」とオーディオディレクターのBence Pajorは言う。ピンシステムについては「考えられるすべてのバージョンを録音するのは現実的ではなくなる」という。"
               },
               {
                 "t": "p",
-                "x": "ホワイトペーパーによると、AuraのVerification Agentより3x 速く低コストで動作し、Claude Code、CodexまたはBYOKを使ってUnreal Engine、Unity、Godotで動く。プロジェクトはGitHubで公開されている。"
+                "x": "「私たちは俳優を置き換える業界にいるわけではない」と、チーフクリエイティブオフィサーのStefan Strandbergは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ramen开源AI测试员\nAura Autopilot",
-          "body": "Aura Autopilot在Unreal、Unity和Godot中实时试玩并自我改进。",
-          "mini_headline": "Ramen开源一款试玩测试工具",
+          "headline": "Arc Raiders开发者\n称AI配音批评中肯",
+          "body": "Embark承认对其AI-generated配音的批评中肯，并已重录台词以加入更多真人声音。",
+          "mini_headline": "Arc Raiders回应AI配音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "面向Unity和Unreal Engine的多智能体AI助手开发商Ramen推出了Aura Autopilot，这是一款开源的游戏试玩测试智能体，玩得越多就越能自我提升；同时发布的还有一份涵盖基准测试结果和高层架构的白皮书。"
+                "x": "Embark此后重新录制了台词，为游戏加入更多真人声音。执行制作人Aleksander Grøndal在Arc Raiders的YouTube频道上表示：“我认为其中确实有一些非常中肯的批评。试图辩解没有意义。”"
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "“Aura Autopilot能实时玩任何游戏，边玩边学，玩得越多就越强，”Ramen的CEO兼联合创始人Andy Tsen说。“这为游戏QA开辟了新天地，我们将其开源，让开发者和研究人员能把它推向更远。”"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "Arc Raiders的发售被一场争议所笼罩：游戏使用AI模仿配音演员的声音并补充对白。演员们签署了允许这样做的合同，但玩家认为部分AI语音毫无生气、平淡乏味且古怪。"
               },
               {
                 "t": "p",
-                "x": "在早期测试中，它实时游玩了射击游戏、动作RPGs、手机游戏、生存制作游戏、回合制JRPGs和即时战略游戏。它能朝长期目标进行规划，同时保持可操控，开发者可以把它指向想要测试的具体系统。与Aura搭配时，由Aura端到端构建一项玩法功能，再由Autopilot进行试玩测试。"
+                "x": "Embark表示，使用AI是为了更快推出更新。音频总监Bence Pajor说：“我们用他们的声音制作了大量训练数据，这样也能用他们的声音做原型。”至于标记（ping）系统，“把每一种可能的版本都录下来就变得太不现实了。”"
               },
               {
                 "t": "p",
-                "x": "白皮书显示，它的运行速度比Aura的Verification Agent快3x，成本更低，并可借助Claude Code、Codex或BYOK在Unreal Engine、Unity和Godot中运行。该项目已在GitHub上线。"
+                "x": "首席创意官Stefan Strandberg说：“我们并不是做取代演员这门生意的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ramen lanza Aura Autopilot,\nprobador de AI open-source",
-          "body": "Aura Autopilot es un agente que mejora por sí mismo y prueba juegos en tiempo real en Unreal, Unity y Godot.",
-          "mini_headline": "Ramen libera un probador de juegos",
+          "headline": "Los creadores de Arc Raiders\nven justo el rechazo a voces AI",
+          "body": "Embark considera justas las críticas a sus voces AI-generated y regrabó líneas para sumar más voces humanas reales.",
+          "mini_headline": "Arc Raiders y sus voces AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "Ramen, desarrolladora del asistente de AI multiagente para Unity y Unreal Engine, ha lanzado Aura Autopilot, un agente de código abierto para probar juegos que mejora cuanto más juega, junto con un informe técnico sobre resultados de benchmarks y la arquitectura general."
+                "x": "Desde entonces, Embark ha regrabado líneas para incorporar más voces humanas reales al juego. “Creo que hubo críticas realmente justas. No tiene sentido ponerse a la defensiva”, afirma el productor ejecutivo Aleksander Grøndal en el canal de YouTube de Arc Raiders."
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "“Aura Autopilot juega a cualquier juego en tiempo real y aprende sobre la marcha, mejorando cuanto más juega”, dijo Andy Tsen, CEO y cofundador de Ramen. “Eso abre una nueva frontera para el QA de juegos, y lo publicamos como código abierto para que desarrolladores e investigadores puedan llevarlo más lejos”."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "El lanzamiento de Arc Raiders quedó opacado por la polémica sobre el uso de AI para imitar a los actores de voz y complementar los diálogos. Los actores firmaron contratos que lo permitían, pero los jugadores calificaron algunas líneas de voz AI de inertes, deslucidas y extrañas."
               },
               {
                 "t": "p",
-                "x": "En las primeras pruebas jugó en tiempo real a shooters, RPGs de acción, juegos móviles, juegos de supervivencia y crafteo, JRPGs por turnos y juegos de estrategia en tiempo real. Planifica hacia objetivos a largo plazo y sigue siendo dirigible, de modo que los desarrolladores pueden orientarlo al sistema exacto que quieren probar. Junto con Aura, Aura construye una función de juego de principio a fin y Autopilot la prueba."
+                "x": "Embark dice que usó AI para publicar actualizaciones más rápido. “Creamos muchos datos de entrenamiento a partir de sus voces para poder también hacer prototipos con su voz”, explica el director de audio Bence Pajor. Para el sistema de pings, “resulta demasiado poco práctico grabar todas las versiones posibles de algo”."
               },
               {
                 "t": "p",
-                "x": "Según el informe técnico, funciona 3x más rápido que el Verification Agent de Aura con un coste menor, y se ejecuta en Unreal Engine, Unity y Godot con Claude Code, Codex o BYOK. El proyecto ya está disponible en GitHub."
+                "x": "“No nos dedicamos a reemplazar actores”, afirma el director creativo Stefan Strandberg."
               }
             ]
           }
@@ -881,761 +1621,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ramen 오픈소스 AI\nAura Autopilot",
-          "body": "Aura Autopilot은 Unreal·Unity·Godot용 AI 테스터다.",
-          "mini_headline": "Ramen, 플레이테스터 오픈소스 공개",
+          "headline": "Arc Raiders 측\nAI 음성 비판 수긍",
+          "body": "Embark는 AI-generated 음성 비판을 수긍하고 대사를 재녹음했다.",
+          "mini_headline": "Arc Raiders, AI 음성 해명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "Unity와 Unreal Engine용 멀티 에이전트 AI 어시스턴트를 개발한 Ramen이 플레이할수록 스스로 나아지는 오픈소스 게임 플레이테스트 에이전트 Aura Autopilot을 출시했다. 벤치마크 결과와 상위 수준 아키텍처를 다룬 백서도 함께 내놓았다."
+                "x": "Embark는 이후 대사를 다시 녹음해 게임에 실제 사람 목소리를 더 넣었다. 총괄 프로듀서 Aleksander Grøndal은 Arc Raiders YouTube 채널에서 “정말 정당한 비판도 있었다고 생각한다. 방어적으로 나설 이유가 없다”고 말했다."
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "“Aura Autopilot은 어떤 게임이든 실시간으로 플레이하며 배우고, 플레이할수록 더 나아진다”고 Ramen의 CEO 겸 공동 창업자 Andy Tsen은 말했다. “이는 게임 QA에 새로운 지평을 열며, 개발자와 연구자가 이를 더 발전시킬 수 있도록 오픈소스로 공개한다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "Arc Raiders 출시는 성우 목소리를 흉내 내고 대사를 보충하는 데 AI를 썼다는 논란에 가려졌다. 성우들은 이를 허용하는 계약에 서명했지만, 플레이어들은 일부 AI 대사가 생기 없고 밋밋하며 어색하다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "초기 테스트에서 이 에이전트는 슈팅 게임, 액션 RPGs, 모바일 게임, 생존 크래프팅 게임, 턴제 JRPGs, 실시간 전략 게임을 실시간으로 플레이했다. 장기 목표를 향해 계획을 세우면서도 조종이 가능해, 개발자가 테스트하려는 시스템을 정확히 지정할 수 있다. Aura와 함께 쓰면 Aura가 게임플레이 기능을 처음부터 끝까지 만들고 Autopilot이 이를 플레이테스트한다."
+                "x": "Embark는 업데이트를 더 빨리 내놓으려고 AI를 썼다고 설명한다. 오디오 디렉터 Bence Pajor는 “그들의 목소리로 학습 데이터를 많이 만들어 그 목소리로 프로토타입도 만들 수 있게 했다”고 말했다. 핑 시스템에 대해서는 “가능한 모든 버전을 다 녹음하는 것은 너무 비현실적”이라고 했다."
               },
               {
                 "t": "p",
-                "x": "백서에 따르면 Aura의 Verification Agent보다 3x 빠르면서 비용은 더 낮고, Claude Code, Codex 또는 BYOK로 Unreal Engine, Unity, Godot에서 작동한다. 프로젝트는 GitHub에 공개돼 있다."
+                "x": "최고 크리에이티브 책임자 Stefan Strandberg는 “우리는 배우를 대체하는 사업을 하는 게 아니다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ramen、AIテスター公開\nAura Autopilot",
-          "body": "Aura AutopilotはUnreal・Unity・Godotで動く進化型テスターだ。",
-          "mini_headline": "Ramen、プレイテスターをオープンソース化",
+          "headline": "Arc Raiders開発陣\nAI音声批判は妥当",
+          "body": "EmbarkはAI-generated音声への批判を妥当と認め、生の声を足すため再収録した。",
+          "mini_headline": "Arc Raiders、AI音声に言及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "UnityとUnreal Engine向けのマルチエージェントAIアシスタントを開発するRamenは、プレイするほど自らを改善するオープンソースのゲームプレイテスト用エージェント「Aura Autopilot」を公開した。ベンチマーク結果と大まかなアーキテクチャを解説するホワイトペーパーも併せて公開した。"
+                "x": "Embarkはその後、台詞を再収録し、ゲームに本物の人間の声をより多く取り入れた。「本当に妥当な批判もあったと思う。防御的になっても意味がない」と、エグゼクティブプロデューサーのAleksander GrøndalはArc RaidersのYouTubeチャンネルで語った。"
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "「Aura Autopilotはどんなゲームもリアルタイムでプレイし、プレイしながら学び、プレイするほど上達する」とRamenのCEO兼共同創業者Andy Tsenは語った。「これはゲームQAに新たな地平を開くものであり、開発者や研究者がさらに発展させられるようオープンソース化する」"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "Arc Raidersのローンチは、声優の声をまねてセリフを補うためにAIを使ったことをめぐる論争に影を落とされた。声優たちはそれを認める契約に署名していたが、プレイヤーは一部のAIボイスを生気がなく、物足りず、奇妙だと評した。"
               },
               {
                 "t": "p",
-                "x": "初期テストでは、シューター、アクションRPGs、モバイルゲーム、サバイバルクラフトゲーム、ターン制JRPGs、リアルタイムストラテジーゲームをリアルタイムでプレイした。長期的な目標に向けて計画を立てつつ指示にも従うため、開発者はテストしたいシステムを正確に指定できる。Auraと組み合わせると、Auraがゲームプレイ機能を最初から最後まで作り、Autopilotがそれをプレイテストする。"
+                "x": "Embarkはアップデートをより早く出すためにAIを使ったと説明する。「彼らの声から大量の学習データを作り、その声でプロトタイプも作れるようにした」とオーディオディレクターのBence Pajorは言う。ピンシステムについては「考えられるすべてのバージョンを録音するのは現実的ではなくなる」という。"
               },
               {
                 "t": "p",
-                "x": "ホワイトペーパーによると、AuraのVerification Agentより3x 速く低コストで動作し、Claude Code、CodexまたはBYOKを使ってUnreal Engine、Unity、Godotで動く。プロジェクトはGitHubで公開されている。"
+                "x": "「私たちは俳優を置き換える業界にいるわけではない」と、チーフクリエイティブオフィサーのStefan Strandbergは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ramen开源AI测试员\nAura Autopilot",
-          "body": "Aura Autopilot在Unreal、Unity和Godot中实时试玩并自我改进。",
-          "mini_headline": "Ramen开源一款试玩测试工具",
+          "headline": "Arc Raiders开发者\n称AI配音批评中肯",
+          "body": "Embark承认对其AI-generated配音的批评中肯，并已重录台词以加入更多真人声音。",
+          "mini_headline": "Arc Raiders回应AI配音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "面向Unity和Unreal Engine的多智能体AI助手开发商Ramen推出了Aura Autopilot，这是一款开源的游戏试玩测试智能体，玩得越多就越能自我提升；同时发布的还有一份涵盖基准测试结果和高层架构的白皮书。"
+                "x": "Embark此后重新录制了台词，为游戏加入更多真人声音。执行制作人Aleksander Grøndal在Arc Raiders的YouTube频道上表示：“我认为其中确实有一些非常中肯的批评。试图辩解没有意义。”"
+              },
+              {
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "“Aura Autopilot能实时玩任何游戏，边玩边学，玩得越多就越强，”Ramen的CEO兼联合创始人Andy Tsen说。“这为游戏QA开辟了新天地，我们将其开源，让开发者和研究人员能把它推向更远。”"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
+                "x": "Arc Raiders的发售被一场争议所笼罩：游戏使用AI模仿配音演员的声音并补充对白。演员们签署了允许这样做的合同，但玩家认为部分AI语音毫无生气、平淡乏味且古怪。"
               },
               {
                 "t": "p",
-                "x": "在早期测试中，它实时游玩了射击游戏、动作RPGs、手机游戏、生存制作游戏、回合制JRPGs和即时战略游戏。它能朝长期目标进行规划，同时保持可操控，开发者可以把它指向想要测试的具体系统。与Aura搭配时，由Aura端到端构建一项玩法功能，再由Autopilot进行试玩测试。"
+                "x": "Embark表示，使用AI是为了更快推出更新。音频总监Bence Pajor说：“我们用他们的声音制作了大量训练数据，这样也能用他们的声音做原型。”至于标记（ping）系统，“把每一种可能的版本都录下来就变得太不现实了。”"
               },
               {
                 "t": "p",
-                "x": "白皮书显示，它的运行速度比Aura的Verification Agent快3x，成本更低，并可借助Claude Code、Codex或BYOK在Unreal Engine、Unity和Godot中运行。该项目已在GitHub上线。"
+                "x": "首席创意官Stefan Strandberg说：“我们并不是做取代演员这门生意的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ramen lanza Aura Autopilot,\nprobador de AI open-source",
-          "body": "Aura Autopilot es un agente que mejora por sí mismo y prueba juegos en tiempo real en Unreal, Unity y Godot.",
-          "mini_headline": "Ramen libera un probador de juegos",
+          "headline": "Los creadores de Arc Raiders\nven justo el rechazo a voces AI",
+          "body": "Embark considera justas las críticas a sus voces AI-generated y regrabó líneas para sumar más voces humanas reales.",
+          "mini_headline": "Arc Raiders y sus voces AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Aura.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
+                "cap": "Arc Raiders"
               },
               {
                 "t": "p",
-                "x": "Ramen, desarrolladora del asistente de AI multiagente para Unity y Unreal Engine, ha lanzado Aura Autopilot, un agente de código abierto para probar juegos que mejora cuanto más juega, junto con un informe técnico sobre resultados de benchmarks y la arquitectura general."
+                "x": "Desde entonces, Embark ha regrabado líneas para incorporar más voces humanas reales al juego. “Creo que hubo críticas realmente justas. No tiene sentido ponerse a la defensiva”, afirma el productor ejecutivo Aleksander Grøndal en el canal de YouTube de Arc Raiders."
               },
               {
-                "t": "p",
-                "x": "“Aura Autopilot juega a cualquier juego en tiempo real y aprende sobre la marcha, mejorando cuanto más juega”, dijo Andy Tsen, CEO y cofundador de Ramen. “Eso abre una nueva frontera para el QA de juegos, y lo publicamos como código abierto para que desarrolladores e investigadores puedan llevarlo más lejos”."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
-              },
-              {
-                "t": "p",
-                "x": "En las primeras pruebas jugó en tiempo real a shooters, RPGs de acción, juegos móviles, juegos de supervivencia y crafteo, JRPGs por turnos y juegos de estrategia en tiempo real. Planifica hacia objetivos a largo plazo y sigue siendo dirigible, de modo que los desarrolladores pueden orientarlo al sistema exacto que quieren probar. Junto con Aura, Aura construye una función de juego de principio a fin y Autopilot la prueba."
-              },
-              {
-                "t": "p",
-                "x": "Según el informe técnico, funciona 3x más rápido que el Verification Agent de Aura con un coste menor, y se ejecuta en Unreal Engine, Unity y Godot con Claude Code, Codex o BYOK. El proyecto ya está disponible en GitHub."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "krafton-llm-gateway",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "크래프톤 자체 게이트웨이로\nAPI 비용 37% 절감",
-      "body": "크래프톤은 LLM 게이트웨이로 9월 API 비용을 전월보다 약 37% 줄였다.",
-      "mini_headline": "크래프톤 API 비용 37% 절감",
-      "tool": "Games",
-      "source": "아이뉴스24",
-      "url": "https://www.inews24.com/view/2019608",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "임경영 크래프톤 AI 트랜스포메이션 총괄은 27일 열린 '게임온(Games on) AWS 2026'에서 \"자체 개발한 LLM 게이트웨이로 사용 경로를 통합하고 비용 관리 체계를 개선했다\"며 \"그 결과 9월 API 비용이 전월 대비 약 37% 감소했다\"고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-          },
-          {
-            "t": "p",
-            "x": "크래프톤은 지난해 10월 'AI 퍼스트' 전략을 선언하고 임직원에게 12종 이상의 기업용 AI 도구와 개인 구독료를 지원해 왔다. 그 결과 올해 1월 대비 7~8월 토큰 사용량은 27배, 관련 비용은 20배 이상 증가했다. 임 총괄은 \"어떤 조직이 가장 AI 토큰을 많이 쓰고 비용을 많이 쓰는지 보이지 않았다\"며 \"비용을 예측하는 것도 불가능했다\"고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "LLM 게이트웨이는 여러 AI 모델을 이용하는 경로를 하나로 통합해 개인과 조직, 모델별 사용량과 비용을 관리하는 시스템으로, 현재 98종 이상의 AI 모델을 사내에 제공한다. 임직원에게는 월 1000달러의 AI 사용 한도를 배정하고 필요에 따라 도구별 한도를 조정하거나 추가 승인을 받도록 했다. 임 총괄은 \"AI 사용 자체를 막은 것은 아니다\"라며 \"실제로 10월에도 AI 이용량은 줄어들지 않았다\"고 강조했다."
-          },
-          {
-            "t": "p",
-            "x": "크래프톤은 조직별 비용 관리 체계를 고도화하고 업무에 적합한 AI 모델을 자동으로 선택하는 기술을 연구할 계획이며, 2027년에는 'AI 에이전트'의 권한과 승인 체계 등을 주요 과제로 삼을 방침이다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "크래프톤 자체 게이트웨이로\nAPI 비용 37% 절감",
-          "body": "크래프톤은 LLM 게이트웨이로 9월 API 비용을 전월보다 약 37% 줄였다.",
-          "mini_headline": "크래프톤 API 비용 37% 절감",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "임경영 크래프톤 AI 트랜스포메이션 총괄은 27일 열린 '게임온(Games on) AWS 2026'에서 \"자체 개발한 LLM 게이트웨이로 사용 경로를 통합하고 비용 관리 체계를 개선했다\"며 \"그 결과 9월 API 비용이 전월 대비 약 37% 감소했다\"고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "크래프톤은 지난해 10월 'AI 퍼스트' 전략을 선언하고 임직원에게 12종 이상의 기업용 AI 도구와 개인 구독료를 지원해 왔다. 그 결과 올해 1월 대비 7~8월 토큰 사용량은 27배, 관련 비용은 20배 이상 증가했다. 임 총괄은 \"어떤 조직이 가장 AI 토큰을 많이 쓰고 비용을 많이 쓰는지 보이지 않았다\"며 \"비용을 예측하는 것도 불가능했다\"고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "LLM 게이트웨이는 여러 AI 모델을 이용하는 경로를 하나로 통합해 개인과 조직, 모델별 사용량과 비용을 관리하는 시스템으로, 현재 98종 이상의 AI 모델을 사내에 제공한다. 임직원에게는 월 1000달러의 AI 사용 한도를 배정하고 필요에 따라 도구별 한도를 조정하거나 추가 승인을 받도록 했다. 임 총괄은 \"AI 사용 자체를 막은 것은 아니다\"라며 \"실제로 10월에도 AI 이용량은 줄어들지 않았다\"고 강조했다."
-              },
-              {
-                "t": "p",
-                "x": "크래프톤은 조직별 비용 관리 체계를 고도화하고 업무에 적합한 AI 모델을 자동으로 선택하는 기술을 연구할 계획이며, 2027년에는 'AI 에이전트'의 권한과 승인 체계 등을 주요 과제로 삼을 방침이다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Krafton's in-house gateway cuts\nAPI costs by 37%",
-          "body": "Krafton cut its September API costs by about 37% from the previous month with an LLM gateway.",
-          "mini_headline": "Krafton cuts API costs 37%",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lim Kyung-young, head of AI transformation at Krafton, said at 'Games on AWS 2026' on the 27th that \"we unified usage paths and improved our cost management system with an in-house LLM gateway,\" adding that \"as a result, September API costs fell about 37% from the previous month.\""
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Krafton declared an 'AI First' strategy in October last year and has supported employees with more than 12 enterprise AI tools and personal subscription fees. As a result, token usage in July–August rose 27-fold compared with January this year, and related costs rose more than 20-fold. \"We couldn't see which organizations were using the most AI tokens and spending the most,\" Lim explained, adding that \"it was also impossible to forecast costs.\""
-              },
-              {
-                "t": "p",
-                "x": "The LLM gateway is a system that unifies the paths for using multiple AI models into one and manages usage and costs by individual, organization and model; it currently provides more than 98 AI models internally. Each employee is assigned a monthly AI usage limit of $1000, with per-tool limits adjusted as needed or additional approval required. \"We did not block AI use itself,\" Lim stressed. \"In fact, AI usage did not decrease in October either.\""
-              },
-              {
-                "t": "p",
-                "x": "Krafton plans to refine its cost management by organization and research technology that automatically selects the AI model best suited to a task, and in 2027 it intends to make permissions and approval systems for 'AI agents' a key priority."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Kraftonゲートウェイで\nAPI費用37%削減",
-          "body": "KraftonはLLMゲートウェイで9月のAPI費用を前月比約37%削減した。",
-          "mini_headline": "Krafton、API費用37%削減",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KraftonのAIトランスフォーメーション総括、イム・ギョンヨン氏は27日に開かれた「Games on AWS 2026」で「自社開発のLLMゲートウェイで利用経路を統合し、コスト管理体制を改善した」と述べ、「その結果、9月のAPI費用は前月比で約37%減少した」と明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kraftonは昨年10月に「AIファースト」戦略を打ち出し、従業員に12種以上の企業向けAIツールと個人のサブスクリプション料金を支援してきた。その結果、今年1月と比べて7~8月のトークン使用量は27倍、関連費用は20倍以上に増えた。イム氏は「どの組織が最もAIトークンを使い、最も費用をかけているのかが見えなかった」とし、「費用を予測することもできなかった」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "LLMゲートウェイは、複数のAIモデルを利用する経路を一つにまとめ、個人・組織・モデルごとの使用量と費用を管理するシステムで、現在98種以上のAIモデルを社内に提供している。従業員には月1000ドルのAI利用上限を割り当て、必要に応じてツールごとの上限を調整したり追加承認を得たりする仕組みにした。イム氏は「AIの利用そのものを止めたわけではない」とし、「実際、10月もAIの利用量は減っていない」と強調した。"
-              },
-              {
-                "t": "p",
-                "x": "Kraftonは組織ごとのコスト管理体制を高度化し、業務に適したAIモデルを自動で選ぶ技術を研究する計画で、2027年には「AIエージェント」の権限や承認体制などを主要課題に据える方針だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Krafton自研网关\nAPI成本降37%",
-          "body": "Krafton借助LLM网关，使9月API成本较上月减少约37%。",
-          "mini_headline": "Krafton API成本降37%",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Krafton AI转型负责人Lim Kyung-young在27日举行的“Games on AWS 2026”上表示：“我们用自研的LLM网关整合了使用路径，并改进了成本管理体系。”他还说：“因此，9月API成本较上月下降约37%。”"
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Krafton于去年10月宣布“AI优先”战略，为员工提供12种以上的企业级AI工具并补贴个人订阅费用。结果与今年1月相比，7~8月的令牌使用量增长了27倍，相关费用增长了20倍以上。Lim解释说：“我们看不到哪个部门用的AI令牌最多、花的钱最多。”他还说：“成本也根本无法预测。”"
-              },
-              {
-                "t": "p",
-                "x": "LLM网关将使用多个AI模型的路径整合为一，按个人、部门和模型管理用量与成本，目前在公司内部提供98种以上的AI模型。公司为每名员工分配每月1000美元的AI使用额度，并视需要调整各工具的额度或要求额外审批。Lim强调：“我们并没有限制AI的使用本身。”“实际上，10月的AI使用量也没有减少。”"
-              },
-              {
-                "t": "p",
-                "x": "Krafton计划进一步完善按部门划分的成本管理体系，并研究能自动选择适合业务的AI模型的技术；2027年将把“AI智能体”的权限与审批体系等作为重点课题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Krafton recorta un 37% su gasto\nen API con una pasarela propia",
-          "body": "Krafton redujo cerca de un 37% su gasto en API de septiembre respecto al mes anterior gracias a una pasarela LLM.",
-          "mini_headline": "Krafton recorta un 37% su gasto en API",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lim Kyung-young, responsable de transformación de AI de Krafton, afirmó en 'Games on AWS 2026', celebrado el día 27, que “unificamos las vías de uso y mejoramos el sistema de gestión de costes con una pasarela LLM de desarrollo propio” y que “como resultado, el gasto en API de septiembre bajó cerca de un 37% respecto al mes anterior”."
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Krafton anunció en octubre del año pasado una estrategia 'AI First' y ha financiado a sus empleados más de 12 herramientas de AI empresariales y suscripciones personales. Como resultado, frente a enero de este año, el uso de tokens en julio y agosto se multiplicó por 27 y los costes asociados, por más de 20. “No veíamos qué organización usaba más tokens de AI ni cuál gastaba más”, explicó Lim, y añadió que “tampoco era posible prever los costes”."
-              },
-              {
-                "t": "p",
-                "x": "La pasarela LLM es un sistema que unifica en una sola las vías de acceso a varios modelos de AI y gestiona el uso y los costes por persona, organización y modelo; actualmente ofrece internamente más de 98 modelos de AI. A cada empleado se le asigna un límite mensual de uso de AI de 1000 dólares y, según las necesidades, se ajustan los límites por herramienta o se exige una aprobación adicional. “No hemos bloqueado el uso de la AI en sí”, subrayó Lim. “De hecho, el uso de AI tampoco disminuyó en octubre”."
-              },
-              {
-                "t": "p",
-                "x": "Krafton planea perfeccionar la gestión de costes por organización e investigar tecnología que elija automáticamente el modelo de AI adecuado para cada tarea, y en 2027 se propone convertir los permisos y los sistemas de aprobación de los 'agentes de AI' en una prioridad."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Krafton's in-house gateway cuts\nAPI costs by 37%",
-          "body": "Krafton cut its September API costs by about 37% from the previous month with an LLM gateway.",
-          "mini_headline": "Krafton cuts API costs 37%",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lim Kyung-young, head of AI transformation at Krafton, said at 'Games on AWS 2026' on the 27th that \"we unified usage paths and improved our cost management system with an in-house LLM gateway,\" adding that \"as a result, September API costs fell about 37% from the previous month.\""
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Krafton declared an 'AI First' strategy in October last year and has supported employees with more than 12 enterprise AI tools and personal subscription fees. As a result, token usage in July–August rose 27-fold compared with January this year, and related costs rose more than 20-fold. \"We couldn't see which organizations were using the most AI tokens and spending the most,\" Lim explained, adding that \"it was also impossible to forecast costs.\""
-              },
-              {
-                "t": "p",
-                "x": "The LLM gateway is a system that unifies the paths for using multiple AI models into one and manages usage and costs by individual, organization and model; it currently provides more than 98 AI models internally. Each employee is assigned a monthly AI usage limit of $1000, with per-tool limits adjusted as needed or additional approval required. \"We did not block AI use itself,\" Lim stressed. \"In fact, AI usage did not decrease in October either.\""
-              },
-              {
-                "t": "p",
-                "x": "Krafton plans to refine its cost management by organization and research technology that automatically selects the AI model best suited to a task, and in 2027 it intends to make permissions and approval systems for 'AI agents' a key priority."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Kraftonゲートウェイで\nAPI費用37%削減",
-          "body": "KraftonはLLMゲートウェイで9月のAPI費用を前月比約37%削減した。",
-          "mini_headline": "Krafton、API費用37%削減",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "KraftonのAIトランスフォーメーション総括、イム・ギョンヨン氏は27日に開かれた「Games on AWS 2026」で「自社開発のLLMゲートウェイで利用経路を統合し、コスト管理体制を改善した」と述べ、「その結果、9月のAPI費用は前月比で約37%減少した」と明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Kraftonは昨年10月に「AIファースト」戦略を打ち出し、従業員に12種以上の企業向けAIツールと個人のサブスクリプション料金を支援してきた。その結果、今年1月と比べて7~8月のトークン使用量は27倍、関連費用は20倍以上に増えた。イム氏は「どの組織が最もAIトークンを使い、最も費用をかけているのかが見えなかった」とし、「費用を予測することもできなかった」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "LLMゲートウェイは、複数のAIモデルを利用する経路を一つにまとめ、個人・組織・モデルごとの使用量と費用を管理するシステムで、現在98種以上のAIモデルを社内に提供している。従業員には月1000ドルのAI利用上限を割り当て、必要に応じてツールごとの上限を調整したり追加承認を得たりする仕組みにした。イム氏は「AIの利用そのものを止めたわけではない」とし、「実際、10月もAIの利用量は減っていない」と強調した。"
-              },
-              {
-                "t": "p",
-                "x": "Kraftonは組織ごとのコスト管理体制を高度化し、業務に適したAIモデルを自動で選ぶ技術を研究する計画で、2027年には「AIエージェント」の権限や承認体制などを主要課題に据える方針だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Krafton自研网关\nAPI成本降37%",
-          "body": "Krafton借助LLM网关，使9月API成本较上月减少约37%。",
-          "mini_headline": "Krafton API成本降37%",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Krafton AI转型负责人Lim Kyung-young在27日举行的“Games on AWS 2026”上表示：“我们用自研的LLM网关整合了使用路径，并改进了成本管理体系。”他还说：“因此，9月API成本较上月下降约37%。”"
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Krafton于去年10月宣布“AI优先”战略，为员工提供12种以上的企业级AI工具并补贴个人订阅费用。结果与今年1月相比，7~8月的令牌使用量增长了27倍，相关费用增长了20倍以上。Lim解释说：“我们看不到哪个部门用的AI令牌最多、花的钱最多。”他还说：“成本也根本无法预测。”"
-              },
-              {
-                "t": "p",
-                "x": "LLM网关将使用多个AI模型的路径整合为一，按个人、部门和模型管理用量与成本，目前在公司内部提供98种以上的AI模型。公司为每名员工分配每月1000美元的AI使用额度，并视需要调整各工具的额度或要求额外审批。Lim强调：“我们并没有限制AI的使用本身。”“实际上，10月的AI使用量也没有减少。”"
-              },
-              {
-                "t": "p",
-                "x": "Krafton计划进一步完善按部门划分的成本管理体系，并研究能自动选择适合业务的AI模型的技术；2027年将把“AI智能体”的权限与审批体系等作为重点课题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Krafton recorta un 37% su gasto\nen API con una pasarela propia",
-          "body": "Krafton redujo cerca de un 37% su gasto en API de septiembre respecto al mes anterior gracias a una pasarela LLM.",
-          "mini_headline": "Krafton recorta un 37% su gasto en API",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lim Kyung-young, responsable de transformación de AI de Krafton, afirmó en 'Games on AWS 2026', celebrado el día 27, que “unificamos las vías de uso y mejoramos el sistema de gestión de costes con una pasarela LLM de desarrollo propio” y que “como resultado, el gasto en API de septiembre bajó cerca de un 37% respecto al mes anterior”."
-              },
-              {
-                "t": "img",
-                "src": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Krafton anunció en octubre del año pasado una estrategia 'AI First' y ha financiado a sus empleados más de 12 herramientas de AI empresariales y suscripciones personales. Como resultado, frente a enero de este año, el uso de tokens en julio y agosto se multiplicó por 27 y los costes asociados, por más de 20. “No veíamos qué organización usaba más tokens de AI ni cuál gastaba más”, explicó Lim, y añadió que “tampoco era posible prever los costes”."
-              },
-              {
-                "t": "p",
-                "x": "La pasarela LLM es un sistema que unifica en una sola las vías de acceso a varios modelos de AI y gestiona el uso y los costes por persona, organización y modelo; actualmente ofrece internamente más de 98 modelos de AI. A cada empleado se le asigna un límite mensual de uso de AI de 1000 dólares y, según las necesidades, se ajustan los límites por herramienta o se exige una aprobación adicional. “No hemos bloqueado el uso de la AI en sí”, subrayó Lim. “De hecho, el uso de AI tampoco disminuyó en octubre”."
-              },
-              {
-                "t": "p",
-                "x": "Krafton planea perfeccionar la gestión de costes por organización e investigar tecnología que elija automáticamente el modelo de AI adecuado para cada tarea, y en 2027 se propone convertir los permisos y los sistemas de aprobación de los 'agentes de AI' en una prioridad."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "arrowhead-ai-parody",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Helldivers 2의\n수장, AI 패러디 구상",
-      "body": "Arrowhead Johan Pilestedt는 AI 풍자 게임도 유쾌하길 바랐다.",
-      "mini_headline": "Helldivers 수장, AI 패러디 구상",
-      "tool": "Games",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-          },
-          {
-            "t": "p",
-            "x": "Arrowhead의 최고 크리에이티브 책임자 Johan Pilestedt는 Helldivers 스튜디오가 요즘 생성형 AI 기술을 풍자하거나 패러디하는 비디오 게임을 만드는 일도 충분히 상상할 수 있다고 했다. 다만 Helldivers 프로젝트는 아니고, 분위기도 비교적 밝아야 한다고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "“AI는 80년대부터 패러디할 가치가 있었고, 사실상 신과 같은 AI 지배자가 있는 세계에 갇히는 게임은 충분히 그려진다”고 Pilestedt는 말했다. “하지만 Helldivers 2에서는 이미 Automatons가 로봇 적 역할을 맡고 있으니, 그 방향으로 간다면 새 타이틀이 될 것이고, 암울한 방식보다는 기발하고 재미있는 방식으로 풀고 싶다.”"
-          },
-          {
-            "t": "p",
-            "x": "Helldivers 2의 Automatons는 생성형 AI를 겨냥한 논평이 아니다. 굳이 따지면 Terminators로 채운 소련의 패러디에 가깝다."
-          },
-          {
-            "t": "p",
-            "x": "Arrowhead는 정해진 한도 안에서라면 이 기술을 쓸 생각도 있어 보인다. CEO Shams Jorjani는 The Game Business에 AI 논쟁이 결국 “스펙트럼의 양 극단”으로 치닫는다며 “어쩌면 현실은 그 중간 어딘가에 있는 것 아닐까?”라고 되물었다. “사람들의 지식재산과 권리를 훔치지 않도록 해야 한다”는 당부도 했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Helldivers 2 boss mulls a\ngenerative AI parody game",
-          "body": "Arrowhead's Johan Pilestedt says a game satirising generative AI would need to be quirky, not doom-laden.",
-          "mini_headline": "Helldivers boss mulls AI parody",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. It wouldn't be a Helldivers project, and it would need to be relatively upbeat."
-              },
-              {
-                "t": "p",
-                "x": "\"AI has been worth parodying since the ‘80s, and I can absolutely see a game where you’re stuck in a world with an AI overlord that’s basically a deity,\" Pilestedt said. \"But the Automatons already cover our robot enemy needs in Helldivers 2, so if we went there, it would be a new title, and we’d want to frame it in a quirky, fun way rather than a doom-laden one.\""
-              },
-              {
-                "t": "p",
-                "x": "Helldivers 2's Automatons aren't a commentary on generative AI; they're broadly a spoof of Soviet Russia, if it had been populated by Terminators."
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead appear open to using the technology within limits. CEO Shams Jorjani told The Game Business that AI debates end up \"on both ends of the spectrum\" and asked, \"Maybe could it be that reality is somewhere in the middle?\" He also stressed that \"we need to make sure that we're not stealing people's intellectual property and rights\"."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Helldivers 2의\n수장, AI 패러디 구상",
-          "body": "Arrowhead Johan Pilestedt는 AI 풍자 게임도 유쾌하길 바랐다.",
-          "mini_headline": "Helldivers 수장, AI 패러디 구상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead의 최고 크리에이티브 책임자 Johan Pilestedt는 Helldivers 스튜디오가 요즘 생성형 AI 기술을 풍자하거나 패러디하는 비디오 게임을 만드는 일도 충분히 상상할 수 있다고 했다. 다만 Helldivers 프로젝트는 아니고, 분위기도 비교적 밝아야 한다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "“AI는 80년대부터 패러디할 가치가 있었고, 사실상 신과 같은 AI 지배자가 있는 세계에 갇히는 게임은 충분히 그려진다”고 Pilestedt는 말했다. “하지만 Helldivers 2에서는 이미 Automatons가 로봇 적 역할을 맡고 있으니, 그 방향으로 간다면 새 타이틀이 될 것이고, 암울한 방식보다는 기발하고 재미있는 방식으로 풀고 싶다.”"
-              },
-              {
-                "t": "p",
-                "x": "Helldivers 2의 Automatons는 생성형 AI를 겨냥한 논평이 아니다. 굳이 따지면 Terminators로 채운 소련의 패러디에 가깝다."
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead는 정해진 한도 안에서라면 이 기술을 쓸 생각도 있어 보인다. CEO Shams Jorjani는 The Game Business에 AI 논쟁이 결국 “스펙트럼의 양 극단”으로 치닫는다며 “어쩌면 현실은 그 중간 어딘가에 있는 것 아닐까?”라고 되물었다. “사람들의 지식재산과 권리를 훔치지 않도록 해야 한다”는 당부도 했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Helldivers 2幹部\n生成AIパロディを構想",
-          "body": "ArrowheadのJohan Pilestedtは生成AI風刺ゲームに軽妙さを求めた。",
-          "mini_headline": "Helldivers幹部、AIパロディを構想",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "Arrowheadのチーフクリエイティブオフィサー、Johan Pilestedtは、Helldiversのスタジオが今日の生成AI技術を風刺・パロディするビデオゲームを開発することを十分に想像できるという。ただしHelldiversのプロジェクトにはならず、比較的明るいものである必要があるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "「AIは80年代からパロディの対象になってきた。事実上の神であるAIの支配者がいる世界に閉じ込められるゲームは十分に考えられる」とPilestedtは語った。「だがHelldivers 2ではAutomatonsがすでにロボットの敵役を担っている。その方向に進むなら新タイトルになるだろうし、悲観的なものではなく、風変わりで楽しい形で描きたい」"
-              },
-              {
-                "t": "p",
-                "x": "Helldivers 2のAutomatonsは生成AIへの論評ではない。おおむね、Terminatorsが住むソビエト・ロシアのパロディだ。"
-              },
-              {
-                "t": "p",
-                "x": "Arrowheadは一定の範囲内でこの技術を使うことには前向きなようだ。CEOのShams JorjaniはThe Game Businessに対し、AIをめぐる議論は「スペクトラムの両極端」に行き着くと述べ、「もしかすると現実はその中間のどこかにあるのではないか」と問いかけた。また「人々の知的財産や権利を盗んでいないことを確実にする必要がある」とも強調した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Helldivers 2老板\n构思生成式AI恶搞游戏",
-          "body": "Arrowhead的Johan Pilestedt称，讽刺生成式AI的游戏应诙谐而非沉重。",
-          "mini_headline": "Helldivers老板构思AI恶搞游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead首席创意官Johan Pilestedt完全能想象这家Helldivers工作室开发一款讽刺或恶搞当今生成式AI技术的电子游戏。它不会是Helldivers项目，而且需要相对轻松明快。"
-              },
-              {
-                "t": "p",
-                "x": "“从80年代起，AI就一直值得拿来恶搞。我完全能想象这样一款游戏：你被困在一个由几乎等同于神的AI霸主统治的世界里，”Pilestedt说。“不过在Helldivers 2里，Automatons已经满足了我们对机器人敌人的需求，所以如果要做这个方向，那会是一款新作，而且我们会希望用古怪、有趣的方式来呈现，而不是阴郁沉重的方式。”"
-              },
-              {
-                "t": "p",
-                "x": "Helldivers 2中的Automatons并不是对生成式AI的评论；它们大致是在戏仿一个住满Terminators的苏联。"
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead似乎愿意在一定限度内使用这项技术。CEO Shams Jorjani对The Game Business表示，AI争论最终会走向“光谱的两个极端”，并发问：“也许现实就在中间某处？”他还强调，“我们必须确保自己没有窃取别人的知识产权和权利”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El jefe de Helldivers 2 sopesa\nuna parodia de la AI generativa",
-          "body": "Johan Pilestedt, de Arrowhead, dice que un juego que satirice la AI generativa tendría que ser peculiar, no sombrío.",
-          "mini_headline": "El jefe de Helldivers sopesa una parodia de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "El director creativo de Arrowhead, Johan Pilestedt, se imagina perfectamente al estudio de Helldivers desarrollando un videojuego que satirice o parodie la tecnología de AI generativa actual. No sería un proyecto de Helldivers y tendría que ser relativamente optimista."
-              },
-              {
-                "t": "p",
-                "x": "“La AI ha merecido una parodia desde los años 80, y puedo imaginar perfectamente un juego en el que estás atrapado en un mundo con un señor supremo de AI que es básicamente una deidad”, dijo Pilestedt. “Pero los Automatons ya cubren nuestras necesidades de enemigos robóticos en Helldivers 2, así que si fuéramos por ahí, sería un título nuevo, y querríamos plantearlo de forma peculiar y divertida en lugar de sombría”."
-              },
-              {
-                "t": "p",
-                "x": "Los Automatons de Helldivers 2 no son un comentario sobre la AI generativa; son, a grandes rasgos, una parodia de la Rusia soviética como si la hubieran poblado Terminators."
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead parece abierta a usar la tecnología dentro de ciertos límites. Su CEO, Shams Jorjani, dijo a The Game Business que los debates sobre la AI acaban “en los dos extremos del espectro” y preguntó: “¿Quizá la realidad esté en algún punto intermedio?”. También subrayó que “tenemos que asegurarnos de que no estamos robando la propiedad intelectual y los derechos de las personas”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Helldivers 2의\n수장, AI 패러디 구상",
-          "body": "Arrowhead Johan Pilestedt는 AI 풍자극에 유쾌함을 주문했다.",
-          "mini_headline": "Helldivers 수장, AI 패러디 구상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead의 최고 크리에이티브 책임자 Johan Pilestedt는 Helldivers 스튜디오가 오늘날의 생성형 AI 기술을 풍자하거나 패러디하는 비디오 게임을 개발하는 모습을 충분히 상상할 수 있다고 한다. 다만 Helldivers 프로젝트는 아닐 것이고, 비교적 밝은 분위기여야 한다."
-              },
-              {
-                "t": "p",
-                "x": "“AI는 80년대부터 패러디할 가치가 있었고, 사실상 신과 같은 AI 지배자가 있는 세계에 갇히는 게임은 충분히 그려진다”고 Pilestedt는 말했다. “하지만 Helldivers 2에서는 이미 Automatons가 로봇 적 역할을 맡고 있으니, 그 방향으로 간다면 새 타이틀이 될 것이고, 암울한 방식보다는 기발하고 재미있는 방식으로 풀고 싶다.”"
-              },
-              {
-                "t": "p",
-                "x": "Helldivers 2의 Automatons는 생성형 AI에 대한 논평이 아니다. 대체로 Terminators로 채워진 소련을 패러디한 존재다."
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead는 한도 안에서 이 기술을 쓰는 데 열려 있는 듯하다. CEO Shams Jorjani는 The Game Business에 AI 논쟁이 결국 “스펙트럼의 양 극단”으로 치닫는다며 “어쩌면 현실은 그 중간 어딘가에 있는 것 아닐까?”라고 물었다. 그는 또 “사람들의 지식재산과 권리를 훔치지 않도록 해야 한다”고 강조했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Helldivers 2幹部\n生成AIパロディを構想",
-          "body": "ArrowheadのJohan Pilestedtは生成AI風刺ゲームに軽妙さを求めた。",
-          "mini_headline": "Helldivers幹部、AIパロディを構想",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "Arrowheadのチーフクリエイティブオフィサー、Johan Pilestedtは、Helldiversのスタジオが今日の生成AI技術を風刺・パロディするビデオゲームを開発することを十分に想像できるという。ただしHelldiversのプロジェクトにはならず、比較的明るいものである必要があるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "「AIは80年代からパロディの対象になってきた。事実上の神であるAIの支配者がいる世界に閉じ込められるゲームは十分に考えられる」とPilestedtは語った。「だがHelldivers 2ではAutomatonsがすでにロボットの敵役を担っている。その方向に進むなら新タイトルになるだろうし、悲観的なものではなく、風変わりで楽しい形で描きたい」"
-              },
-              {
-                "t": "p",
-                "x": "Helldivers 2のAutomatonsは生成AIへの論評ではない。おおむね、Terminatorsが住むソビエト・ロシアのパロディだ。"
-              },
-              {
-                "t": "p",
-                "x": "Arrowheadは一定の範囲内でこの技術を使うことには前向きなようだ。CEOのShams JorjaniはThe Game Businessに対し、AIをめぐる議論は「スペクトラムの両極端」に行き着くと述べ、「もしかすると現実はその中間のどこかにあるのではないか」と問いかけた。また「人々の知的財産や権利を盗んでいないことを確実にする必要がある」とも強調した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Helldivers 2老板\n构思生成式AI恶搞游戏",
-          "body": "Arrowhead的Johan Pilestedt称，讽刺生成式AI的游戏应诙谐而非沉重。",
-          "mini_headline": "Helldivers老板构思AI恶搞游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead首席创意官Johan Pilestedt完全能想象这家Helldivers工作室开发一款讽刺或恶搞当今生成式AI技术的电子游戏。它不会是Helldivers项目，而且需要相对轻松明快。"
-              },
-              {
-                "t": "p",
-                "x": "“从80年代起，AI就一直值得拿来恶搞。我完全能想象这样一款游戏：你被困在一个由几乎等同于神的AI霸主统治的世界里，”Pilestedt说。“不过在Helldivers 2里，Automatons已经满足了我们对机器人敌人的需求，所以如果要做这个方向，那会是一款新作，而且我们会希望用古怪、有趣的方式来呈现，而不是阴郁沉重的方式。”"
-              },
-              {
-                "t": "p",
-                "x": "Helldivers 2中的Automatons并不是对生成式AI的评论；它们大致是在戏仿一个住满Terminators的苏联。"
-              },
-              {
-                "t": "p",
-                "x": "Arrowhead似乎愿意在一定限度内使用这项技术。CEO Shams Jorjani对The Game Business表示，AI争论最终会走向“光谱的两个极端”，并发问：“也许现实就在中间某处？”他还强调，“我们必须确保自己没有窃取别人的知识产权和权利”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El jefe de Helldivers 2 sopesa\nuna parodia de la AI generativa",
-          "body": "Johan Pilestedt, de Arrowhead, dice que un juego que satirice la AI generativa tendría que ser peculiar, no sombrío.",
-          "mini_headline": "El jefe de Helldivers sopesa una parodia de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "El director creativo de Arrowhead, Johan Pilestedt, se imagina perfectamente al estudio de Helldivers desarrollando un videojuego que satirice o parodie la tecnología de AI generativa actual. No sería un proyecto de Helldivers y tendría que ser relativamente optimista."
+                "t": "video",
+                "yt": "_xwbP8KV530"
               },
               {
                 "t": "p",
-                "x": "“La AI ha merecido una parodia desde los años 80, y puedo imaginar perfectamente un juego en el que estás atrapado en un mundo con un señor supremo de AI que es básicamente una deidad”, dijo Pilestedt. “Pero los Automatons ya cubren nuestras necesidades de enemigos robóticos en Helldivers 2, así que si fuéramos por ahí, sería un título nuevo, y querríamos plantearlo de forma peculiar y divertida en lugar de sombría”."
+                "x": "El lanzamiento de Arc Raiders quedó opacado por la polémica sobre el uso de AI para imitar a los actores de voz y complementar los diálogos. Los actores firmaron contratos que lo permitían, pero los jugadores calificaron algunas líneas de voz AI de inertes, deslucidas y extrañas."
               },
               {
                 "t": "p",
-                "x": "Los Automatons de Helldivers 2 no son un comentario sobre la AI generativa; son, a grandes rasgos, una parodia de la Rusia soviética como si la hubieran poblado Terminators."
+                "x": "Embark dice que usó AI para publicar actualizaciones más rápido. “Creamos muchos datos de entrenamiento a partir de sus voces para poder también hacer prototipos con su voz”, explica el director de audio Bence Pajor. Para el sistema de pings, “resulta demasiado poco práctico grabar todas las versiones posibles de algo”."
               },
               {
                 "t": "p",
-                "x": "Arrowhead parece abierta a usar la tecnología dentro de ciertos límites. Su CEO, Shams Jorjani, dijo a The Game Business que los debates sobre la AI acaban “en los dos extremos del espectro” y preguntó: “¿Quizá la realidad esté en algún punto intermedio?”. También subrayó que “tenemos que asegurarnos de que no estamos robando la propiedad intelectual y los derechos de las personas”."
+                "x": "“No nos dedicamos a reemplazar actores”, afirma el director creativo Stefan Strandberg."
               }
             ]
           }

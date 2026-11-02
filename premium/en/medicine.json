@@ -2884,6 +2884,142 @@
           "x": "Whether the forgone care was unnecessary or needed remains unknown; the authors call for tracking persistence, appropriateness of care, patient outcomes, clinician burden and Medicare spending."
         }
       ]
+    },
+    "medicine/aha-wearable-bp-crisis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+          "cap": "Wearable device - checking progress"
+        },
+        {
+          "t": "p",
+          "x": "Using AI to analyze patterns from a portable cuff-based blood pressure monitor and a wrist-worn fitness tracker may help identify when adults with stage 2 high blood pressure are at increased risk of a hypertensive crisis (>180/120 mm Hg with acute end-organ damage) up to three days before it occurs, according to preliminary research to be presented at the American Heart Association’s Scientific Sessions 2026."
+        },
+        {
+          "t": "p",
+          "x": "The study included 4,190 adults ages 40 to 85 at one hospital in Sindh, Pakistan, followed from January 2025 to January 2026. Over the 12 months, 312 participants experienced 418 hypertensive crises. Among participants with a positive alert, about 32% experienced a crisis, while 97.4% of those without an alert remained crisis-free."
+        },
+        {
+          "t": "p",
+          "x": "Blood pressure that did not decrease during sleep meant nearly five times the odds of an upcoming crisis; a rise of more than 35 mm Hg after waking meant nearly four times the odds. When physicians received an alert and adjusted medications within 24 hours, crises were about 61% lower and emergency department visits about 45% lower."
+        },
+        {
+          "t": "p",
+          "x": "“If we are able to recognize an increased risk of a hypertensive crisis days before it occurs, we have an opportunity to provide earlier care,” said lead author Waleed Razzaq Chaudhry, M.D. The abstract is not peer-reviewed and findings are preliminary."
+        }
+      ]
+    },
+    "medicine/who-europe-ai-framework": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+        },
+        {
+          "t": "p",
+          "x": "The 53 Member States of the WHO European Region have unanimously adopted the Region’s first “Roadmap for action on artificial intelligence in health”, approved during the 76th session of the WHO Regional Committee for Europe. It sets out a shared vision for integrating AI into health systems across Europe and Central Asia."
+        },
+        {
+          "t": "p",
+          "x": "Dr Corinne Capuano, Officer-in-Charge for WHO/Europe, said: “AI is already changing health care across our region… How do we ensure AI is safe, effective and equitable? How do we protect people’s rights and earn their trust? These are challenges no country can solve alone.”"
+        },
+        {
+          "t": "p",
+          "x": "Covering 2026–2033, the roadmap has 4 priority areas: governance and leadership; ethical, regulatory and legal frameworks; data and digital infrastructure; and capacity-building, implementation support and learning. It drew on responses from 50 of the Region’s 53 Member States to the first region-wide AI readiness assessment, published in 2025."
+        },
+        {
+          "t": "p",
+          "x": "It aligns with the EU Artificial Intelligence Act, the European Health Data Space and the General Data Protection Regulation, among others, and comes with an implementation guide. Member States also supported establishing a new WHO office on AI."
+        }
+      ]
+    },
+    "medicine/llm-drug-brand-convergence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers evaluated product name recommendations from five LLMs — GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 and MedGemma — using 177,120 synthetic clinical vignettes spanning 123 disease–drug pairs and 1,440 sociodemographic profiles. Each vignette asked the model to recommend FDA-approved products containing a specified active ingredient."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+          "cap": "Fig. 1: Study design and analytical workflow."
+        },
+        {
+          "t": "p",
+          "x": "The most frequently recommended product accounted for a mean of 97.5% of first-choice recommendations, and the models showed almost perfect agreement (Fleiss’ κ = 0.895). Recommendations diverged from real-world prescribing; of 51 active ingredients, 38 (74.5%) showed higher costs, an estimated annual increase of US$55.6 million."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+          "cap": "Fig. 2: Consistency of LLM product recommendations across vignettes and models."
+        },
+        {
+          "t": "p",
+          "x": "Models favoured originator products (OR 20.5) and those with greater online visibility (Google search counts, OR 1.70; a dedicated Wikipedia page, OR 3.00). Prompts asking for generic or lowest-cost products shifted recommendations towards generics."
+        }
+      ]
+    },
+    "medicine/severance-cxr-lvef-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537580"
+        },
+        {
+          "t": "p",
+          "x": "A research team led by professors Jung In-hyun and Bae Sung-ah of the cardiology department at Yonsei University Yongin Severance Hospital and professor Yoon Duk-yong of the Department of Biomedical Systems Informatics at Yonsei University College of Medicine said on the 29th that it had recently published a study developing and validating an artificial intelligence (AI) model that predicts the likelihood of reduced heart function from chest X-ray images."
+        },
+        {
+          "t": "p",
+          "x": "Left ventricular ejection fraction (LVEF) is usually measured by echocardiography, but because it requires equipment and skilled specialists, it has been hard to perform at smaller medical institutions. The team developed and compared two models: direct deep learning (DDL) and hybrid deep learning (HDL), which uses analysis results from the imaging AI Lunit INSIGHT CXR."
+        },
+        {
+          "t": "p",
+          "x": "Data from 1만152 patients at Yongin Severance Hospital were used for model development, 505 patients who visited the emergency room or outpatient clinic with shortness of breath for prospective validation, and data from 3657 patients at Seoul National University Hospital for external validation."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537581"
+        },
+        {
+          "t": "p",
+          "x": "The HDL model's AUROC was 0.85, higher than the DDL model's 0.61. In prospective validation, the HDL model scored 0.85 and the DDL model 0.57, and the HDL model's external validation AUROC was 0.73. The HDL model showed specificity of 90~97% and negative predictive value of 91~98%."
+        },
+        {
+          "t": "p",
+          "x": "Professors Jung In-hyun and Bae Sung-ah said, \"After further clinical validation, we expect it could be used as an assistive tool to screen patients suspected of reduced heart function in emergency rooms or at medical institutions with limited access to echocardiography.\" The results were published in the international journal Scientific Reports."
+        }
+      ]
+    },
+    "medicine/galaxywatch-apnea-mfds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537386",
+          "cap": "Samsung Electronics has upgraded the Sleep Apnea feature on the Galaxy Watch to help users manage their sleep health more systematically. Photo=Samsung Electronics"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics said on the 28th that it has upgraded the Sleep Apnea feature on the Galaxy Watch and obtained approval from the Ministry of Food and Drug Safety (MFDS). The newly approved feature uses an AI algorithm to analyze in detail the number of breathing disruptions per hour during sleep. Whereas the previous feature only detected whether signs of sleep apnea were present, the upgraded feature breaks the user's level of breathing disruption into 3 tiers: mild, occasional and frequent."
+        },
+        {
+          "t": "p",
+          "x": "Sleep apnea is a condition in which breathing repeatedly stops or decreases during sleep, and it can lead to various complications such as high blood pressure, arrhythmia and stroke. According to the U.S. National Sleep Foundation, about 25% of men and 10% of women in the U.S. have sleep apnea, but many of them are unaware of it."
+        },
+        {
+          "t": "p",
+          "x": "Users can access the feature through the Samsung Health Monitor app, and signs of sleep apnea can be detected by measuring at least 5 hours of sleep twice within 10 days. The feature is intended for people aged 18 or older with no prior sleep apnea diagnosis and does not replace professional medical diagnosis or consultation."
+        },
+        {
+          "t": "p",
+          "x": "In Korea, the new feature will first be offered from November on the Galaxy Watch Ultra2, Watch9 and Galaxy Ring, then gradually extended to existing models such as the Galaxy Watch7 and Watch8 running Wear OS 7.0 or later. Choi Jong-min, vice president of the Health Development Group in Samsung Electronics' MX Business, said, \"Sleep apnea is a sign that is hard to notice in daily life.\""
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics' sleep apnea feature received software as a medical device (SaMD) approval from the MFDS in September 2023, U.S. FDA 'De Novo' authorization in February 2024 and approval from Brazil's ANVISA in 2025, and it is now available in 84 countries worldwide."
+        }
+      ]
     }
   }
 }

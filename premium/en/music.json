@@ -9378,6 +9378,160 @@
           "x": "Suno is one of the first big AI-music tools to launch an MCP server, albeit in early-access form rather than being available to all. The prospect of accessing Suno from Anthropic’s Claude is a particularly spicy one for music rightsholders, given the ongoing copyright lawsuits against both companies."
         }
       ]
+    },
+    "music/naibi-hreum-distributor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aipostkorea.com/news/photo/202611/13167_23844_267.png",
+          "cap": "(Photo: Naibi)"
+        },
+        {
+          "t": "p",
+          "x": "Naibi Inc. (CEO Kim Dong-hyun) said on the 30th that it has officially launched the high-end music distributor 'HREUM (Heureum)' and opened its website (hreum.kr)."
+        },
+        {
+          "t": "p",
+          "x": "HREUM's defining feature is the distribution of AI co-created music. Through HREUM, creators can also release 'AI co-created music', made together with AI tools such as SUNO, on platforms in Korea and abroad."
+        },
+        {
+          "t": "p",
+          "x": "Rooted in the belief that \"music has always moved forward with new tools,\" the idea is to support creators who move forward with AI. However, every song reaches the platforms only after a review (Curated) in which HREUM listens to and judges it directly, and the song must be cleared for commercial use under the AI tool's terms of service."
+        },
+        {
+          "t": "p",
+          "x": "HREUM is a music distributor built by a team that has worked for 10 years in everything from music production to music & tech. It distributes music by artists, labels and creators who use AI to Korean platforms such as Melon, Genie Music, FLO and Bugs, and to global platforms such as Spotify and Apple Music. The company name 'Heureum' (flow) reflects the belief that \"music is completed not at the moment it is made, but at the moment it reaches someone.\""
+        },
+        {
+          "t": "p",
+          "x": "The distribution terms also stand out. HREUM has set its distribution fee for Korean music platforms at 0%. For overseas platforms, since each artist's activity plans differ, it signs contracts on artist-specific terms (Tailored). Partners who have signed can receive release guidance materials and check the progress of their releases on the HREUM partner portal."
+        },
+        {
+          "t": "p",
+          "x": "Kim Dong-hyun, CEO of Naibi, said, \"Music is alive when it flows to the public. Even good music is not complete if it fails to reach listeners,\" adding, \"Drawing on our experience of making music ourselves, we will build, together with creators, a path for their music to flow to more people.\""
+        }
+      ]
+    },
+    "music/alphabet-lyria-shareholder-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2023/10/shutterstock_552493561.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An Alphabet shareholder has sued Sundar Pichai, Larry Page, Sergey Brin and 10 other directors and executives, claiming they adopted “an unlawful business strategy” of building Google's AI on copyrighted works and people's voices – including recordings, compositions and lyrics allegedly used to train the Lyria music models."
+        },
+        {
+          "t": "p",
+          "x": "Shareholder Phil Rosen filed the 79-page derivative complaint on October 30 in federal court in Chicago; any damages would be paid to Alphabet itself. It alleges all 13 defendants knew of the alleged violations and does not specify a damages figure."
+        },
+        {
+          "t": "p",
+          "x": "“Google ingested, copied, processed, and commercially exploited these works without permission or compensation. These copies were used to build Lyria, Lyria 2, Lyria 3, Mulan, and MusicLM,” the complaint states. It says MusicLM was trained on five million audio clips totaling 280,000 hours of music."
+        },
+        {
+          "t": "p",
+          "x": "It also asks for governance changes, including copyright and BIPA oversight, and says Alphabet bought back 1.147 billion shares between April 2023 and November 2025 at a total cost of USD $169.6 billion while failing to disclose the alleged infringement."
+        }
+      ]
+    },
+    "music/kidrock-eminem-ai-choir": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://consequence.net/wp-content/uploads/2026/10/Eminem-Kid-Rock.jpeg",
+          "cap": "Kid Rock and Eminem, Kevin Mazur/WireImage"
+        },
+        {
+          "t": "p",
+          "x": "Kid Rock's song “Heal My Faith,” featuring Eminem, also contained a previously unknown collaborator. Artificial intelligence. As Kid Rock revealed on Real Time with Bill Maher, he used AI to create the choir on the chorus of “Heal My Faith.”"
+        },
+        {
+          "t": "p",
+          "x": "While he used real singers for the chorus of “7 Sins,” another song from his latest album Halfway 2 Jesus, the use of AI in “Heal My Faith” came down to saving time. “I'm an impatient guy,” Kid Rock said. “It's not about the money of getting a choir. But everything I look at in life now is time.” He described prompting AI to create a facsimile of a Southern gospel choir."
+        },
+        {
+          "t": "p",
+          "x": "“A lot of people in a choir, and we put them all out of work. Isn't that what really happened?” Maher said. Kid Rock countered: “Did we put drummers out of work when the drum machine was invented?”"
+        },
+        {
+          "t": "p",
+          "x": "“I know AI is something different,” Kid Rock said. “I always tell people, you know, it's a tool right now. I see the dangers of it. I one thousand percent believe it needs to be regulated at the highest levels.”"
+        },
+        {
+          "t": "video",
+          "yt": "kxYTLagfy-4"
+        }
+      ]
+    },
+    "music/jasrac-ai-song-detection": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Japanese Society for Rights of Authors, Composers and Publishers (JASRAC) has begun preparing measures to protect human-made music in response to the spread of generative artificial intelligence (AI)."
+        },
+        {
+          "t": "p",
+          "x": "On the 30th of last month, the Asahi Shimbun reported that JASRAC is excluding songs generated with AI from its copyright management while also pushing to introduce a system that identifies AI-generated songs."
+        },
+        {
+          "t": "img",
+          "src": "http://www.kdfnews.com/news/photo/202611/190260_243178_4348.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In guidelines released in June, JASRAC stated that music generated autonomously by AI, with a person giving only simple instructions, is not covered by its copyright management."
+        },
+        {
+          "t": "p",
+          "x": "However, music registration basically relies on self-reporting by composers and others, so it is hard to tell when a song made by AI is reported as created by a human."
+        },
+        {
+          "t": "p",
+          "x": "In response, JASRAC began a pilot test in October of an 'AI music detection system' that analyzes audio to judge how likely a song is to be AI-generated."
+        },
+        {
+          "t": "img",
+          "src": "http://www.kdfnews.com/news/photo/202611/190260_243179_4418.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It is verifying detection accuracy and other aspects with the cooperation of composers, and plans to offer the system for free from December through 'KENDRIX', its support service for creators."
+        },
+        {
+          "t": "p",
+          "x": "It is also considering using the system in the future as a way to check works suspected of being AI-generated when music is registered with JASRAC."
+        },
+        {
+          "t": "p",
+          "x": "Alongside this, it is studying with experts the right to refuse having existing music used for AI training, and the legal basis for requiring AI companies to pay copyright holders."
+        }
+      ]
+    },
+    "music/elevenlabs-sfx-v3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eleven-public-cdn.elevenlabs.io/payloadcms/4i9xsghce45-SFX-v3_-Thumbnail--1-.webp"
+        },
+        {
+          "t": "p",
+          "x": "Big scenes rarely come down to one sound. A football clip might need a crowd cheering, a ball dropping, and the same crowd booing seconds later. Until now, getting all of that from one prompt took trial and error."
+        },
+        {
+          "t": "p",
+          "x": "SFX v3, the newest ElevenLabs sound effects model, is built for that. It handles prompts that describe multiple sounds more reliably, generates music and vocals more convincingly, and produces cleaner, more natural audio than SFX v2 in benchmark testing. It's available now in ElevenCreative and through ElevenAPI."
+        },
+        {
+          "t": "p",
+          "x": "SFX v3 is better at following several instructions within a single prompt, so more of the sounds you describe make it into the generated audio. It also improves generation for prompts that include music and vocals — opening up effects that pair a musical phrase or vocal performance with environmental and everyday sounds."
+        },
+        {
+          "t": "p",
+          "x": "It is less likely to produce unwanted artifacts on sounds such as gongs, chimes, and whistles, better preserving the character of the sound you asked for. Effects can be generated in the Sound Effects tab, Flows, Studio, the Music Editor and the mobile app; developers can access SFX v3 through ElevenAPI."
+        }
+      ]
     }
   }
 }

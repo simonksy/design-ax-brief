@@ -9815,6 +9815,119 @@
           "x": "Replacing some of the metals with rare-earth metals made the materials magnetic, which could broaden their use in energy and data storage. \"The literature and databases are treasure troves,\" said Johanna Rosén, who leads the group. The study was published in Science."
         }
       ]
+    },
+    "science/snu-rise-humanoid-vla": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+          "cap": "A real humanoid robot performing a continuous, multistep task using RISE. Credit: Seoul National University College of Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Seoul National University researchers led by Professor Songhwai Oh developed RISE (Responsibility-Induced Specialized Experts), a vision-language-action framework for humanoid robots. It learns from locomotion and object-manipulation data collected separately, so it does not need demonstrations of complete multistep tasks that switch between walking and handling objects."
+        },
+        {
+          "t": "p",
+          "x": "RISE uses a shared vision-language model, several action experts and a meta-controller. Experts are weighted by how well they predict actions, so they specialize on their own, and shifts in the expert weights signal when to move to the next task stage."
+        },
+        {
+          "t": "p",
+          "x": "In simulation RISE averaged an 87.3% success rate, against 73.6% for a GR00T-based single-expert baseline. On a real Unitree G1 robot with two Dex3-1 hands it averaged 50.0% on two- to five-stage tasks versus 30.0% for the baseline, and its advantage grew with more stages. The work was accepted to IROS 2026; the team sees uses in logistics, manufacturing, hospitals, caregiving and home organization."
+        }
+      ]
+    },
+    "science/oxford-pvdc-hard-carbon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+          "cap": "Artistic visualization of a high-temperature atomistic simulation of PVDC decomposition. Credit: Litong Wu & Volker Deringer"
+        },
+        {
+          "t": "p",
+          "x": "University of Oxford researchers used machine-learning-driven atomistic simulations to trace how polyvinylidene chloride (PVDC), a classic precursor of non-graphitizing carbon, turns into hard carbon when heated."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
+          "cap": "How PVDC breaks down: a chlorine atom leaves the carbon chain and forms hydrogen chloride."
+        },
+        {
+          "t": "p",
+          "x": "Losing hydrogen and chlorine creates reactive carbon sites that form new carbon–carbon bonds and an extended network."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
+          "cap": "Simulation snapshots showing six-membered carbon rings joining into an extended network over time."
+        },
+        {
+          "t": "p",
+          "x": "Unlike graphite, this network includes five- and seven-membered rings, which add curvature and block the formation of ordered graphite layers. The study appears in Chemical Science (DOI: 10.1039/d6sc05974k), and the authors have made their research data openly available."
+        }
+      ]
+    },
+    "science/chalmers-gnn-qec-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from the University of Gothenburg and Chalmers University of Technology have demonstrated a modular neural decoder for surface code quantum error correction that transfers across hardware architectures, variable noise profiles and multi-patch logical operations. They validated it on data from IBM Quantum's Nighthawk r1 generation (ibm_berlin) and Google Quantum AI's below-threshold Sycamore processor."
+        },
+        {
+          "t": "p",
+          "x": "The framework outperforms minimum-weight perfect matching (MWPM) on memory experiments and decodes a real two-patch ZZ-merge lattice-surgery operation while remaining trainable on a single commercial GPU. Unlike AlphaQubit's dense recurrent Transformer blocks, a shared local graph neural network processes small 3×3×2 space-time clusters, coarse-grained by convolutional layers and integrated over time by a GRU, keeping roughly two to three million parameters across distances d = 3, 5, 7 and 9."
+        },
+        {
+          "t": "p",
+          "x": "Real-time use will require sub-microsecond inference, likely by compiling the GNN-RNN architecture onto FPGA or ASIC accelerators. The preprint is on arXiv, with open-source models and training scripts on GitHub."
+        }
+      ]
+    },
+    "science/sentira-10x-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10x Genomics is launching Sentira Single Cell, a cloud-based agentic analysis powered by Anthropic's Claude models as an application for Chromium users. CTO Michael Schnall-Levin says single-cell analysis has always had a \"last mile problem\"; with Sentira, \"what might have taken someone weeks before could take hours.\""
+        },
+        {
+          "t": "p",
+          "x": "Built on 10x Cloud, it lets researchers ask questions in a chat interface while scripts and analysis code are written on the back end. 10x is not training its own LLM, and customer data does not flow back into the models. Sentira spatial launched a few weeks earlier."
+        },
+        {
+          "t": "p",
+          "x": "Pricing is credit-based: each agentic session costs ~12 credits, and a complete analysis around 60; users get 100 promotional credits for their first Chromium dataset. Schnall-Levin warns the tools are not perfect: \"people are still on the hook and responsible for it.\""
+        }
+      ]
+    },
+    "science/mutexagpt-enzyme-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
+          "cap": "The design of MutexaGPT. Credit: Nature Computational Science (2026)."
+        },
+        {
+          "t": "p",
+          "x": "Vanderbilt chemist Zhongyue (John) Yang and colleagues built MutexaGPT, an AI tool that lets researchers describe the enzyme changes they want in plain language, taking intuition-driven requests as input."
+        },
+        {
+          "t": "p",
+          "x": "The tool leverages large language model agents to elicit missing information, builds physics-based enzyme models, predicts mutations and converts the results into actionable design proposals. The aim is to speed up enzyme engineering, which still relies heavily on costly trial and error."
+        },
+        {
+          "t": "p",
+          "x": "Possible uses include cold-active enzymes for food processing, detergents that work in cold water and more efficient pharmaceutical manufacturing. \"We are not using AI to get things done more efficiently without people,\" Yang said. The study appears in Nature Computational Science."
+        }
+      ]
     }
   }
 }

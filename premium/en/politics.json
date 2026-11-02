@@ -4442,6 +4442,118 @@
           "x": "Rep. Jimmy Patronis (R-Fla.) is looking to codify the executive order into law."
         }
       ]
+    },
+    "politics/bellingcat-ai-superpac-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An online ad for Ben McAdams, the Democratic candidate for Congress in Utah, said he “fought back against MAGA.” In Texas, another ad called Republican candidate Chris Gober a “MAGA warrior.” Both were ultimately paid for with money from Leading the Future (LTF), a Super PAC network which opposes regulations that “constrain” innovation in AI. FEC filings show it has received US$125 million from OpenAI president Greg Brockman, his wife Anna Brockman, Andreessen Horowitz (a16z) and a16z’s founders."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+          "cap": "Source: Think Big / Google Ad Transparency Center"
+        },
+        {
+          "t": "p",
+          "x": "Directly opposing LTF is Public First Action (PFA), which calls for AI safety regulations and has received $40 million from Anthropic. Super PACs funded by PFA also ran ads that appeared supportive or critical of Trump depending on the voters they were targeting."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+          "cap": "Disbursements from Leading the Future, Public First PAC and Public First Action. Graphic: Bellingcat"
+        },
+        {
+          "t": "p",
+          "x": "Bellingcat analysed more than 300 online video ad campaigns from Google’s Ad Transparency Center, supporting or opposing 40 candidates. Only ads supporting or opposing two candidates mentioned AI, and none mentioned data centres. A PFA representative said its aligned PACs run ads “on the issues that matter most immediately to voters.” LTF and its PACs did not respond as of publication."
+        }
+      ]
+    },
+    "politics/germany-sovereign-ai-taskforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+          "cap": "To help speed up the development of AI in Germany, the government plans to act as a “strategic anchor customer.” | Tobias Schwarz/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Germany should become a “sovereign AI nation” by 2030 and narrow the gap with leading AI hubs in the U.S. and China, according to a report drafted by the government’s AI task force, due to be presented to the National Security Council. “The next 12 to 18 months will therefore be decisive in setting the course,” it read."
+        },
+        {
+          "t": "p",
+          "x": "Germany wants to secure access to the world’s leading models while strengthening European alternatives, particularly through expanded cooperation with France and Canada. “AI made in Germany” should stand out through its focus on industrial AI with “highly specialized models.” The government plans to act as a “strategic anchor customer,” using public contracts and pilot projects to help European AI providers enter the market."
+        },
+        {
+          "t": "p",
+          "x": "The blueprint proposes 18 measures but lacks key details, including on financing. By 2030, the government wants at least 80% of large companies and 55% of SMEs to use AI, 90% of federal agencies to have at least one AI application in production, and AI data center capacity up 300% compared with 2025."
+        }
+      ]
+    },
+    "politics/india-model-to-data-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "India’s government wants AI models trained on local data, because it thinks offshore model-makers won’t be motivated to address the nation’s issues or to ensure owners of data stay in control. Its Ministry of Electronics and Information Technology (MeitY) proposes the “Data Empowerment and Protection Architecture (DEPA) for AI Training.” As described by Principal Scientific Adviser Ajay Kumar Sood, DEPA means “the model travels to the data, rather than the data travelling to the model.”"
+        },
+        {
+          "t": "p",
+          "x": "“Training Data Providers” such as hospitals, banks, and government agencies share anonymized and encrypted data with a “Data Exchange Platform,” where “Training Data Consumers” train their models inside “hardware-based Secure Data Environments.” Differential privacy is applied and all activity is immutably logged for audit."
+        },
+        {
+          "t": "p",
+          "x": "MeitY says DEPA could unlock fragmented health data and potentially extend formal credit to 400 million underserved individuals and MSMEs. It is unclear how much work remains to make DEPA a reality."
+        }
+      ]
+    },
+    "politics/wired-hidden-deepfake-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+          "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "A WIRED investigation found a network of more than 400 connected domains and apps that often claim to be everyday services, such as pet portraits, language tuition or AI workout coaches. When accessed under certain conditions, they stealthily load a web interface for generating explicit AI sexual images and videos from photos users upload."
+        },
+        {
+          "t": "p",
+          "x": "Researchers found the network by following links from thousands of explicit deepfake video ads on Facebook and Instagram, which pointed to apps in Apple and Google’s stores. “This is an organized, commercially run operation,” says Paul Bouchaud of AI Forensics. At one point around 30 apps-websites were registered each week; 27 were live on Google Play in September, with more than 350,000 downloads."
+        },
+        {
+          "t": "p",
+          "x": "The apps appear to be run by Chinese developers and a Hong Kong entity, KeLing Technology Limited, which did not respond. Apple removed 19 apps and says developers swapped approved content after review; Google had removed most apps. Meta says it acted against 11,600 ad accounts and blocked 209 apps from advertising."
+        }
+      ]
+    },
+    "politics/politics-cma-meta-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Competition and Markets Authority (CMA) has launched an investigation into whether Meta’s commercial terms for businesses using its platforms and services breach competition law."
+        },
+        {
+          "t": "p",
+          "x": "The terms, which Meta planned to revise on 20 November but has since put on hold, could allow it to collect content from the websites of businesses and publishers that use its services and then use it to develop and provide its own products and services, including its AI features – without those businesses getting a choice on if or how their content is used."
+        },
+        {
+          "t": "p",
+          "x": "The CMA is concerned this could amount to an unlawful imposition of unfair trading conditions for thousands of UK businesses. It is using its Competition Act 1998 powers after concerns from stakeholders including the News Media Association and Movement for an Open Web, and will assess whether Meta holds a dominant position and, if so, whether its terms abuse it."
+        },
+        {
+          "t": "p",
+          "x": "Meta has since announced, on 28 October, a pause to the roll out of its commercial terms, pending a consultation with industry groups. As this is only the start of the investigation, no decision has yet been made on whether Meta has broken the law."
+        }
+      ]
     }
   }
 }

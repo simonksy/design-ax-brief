@@ -1,101 +1,96 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "gadgets",
   "items": [
     {
-      "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
-      "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
-      "source": "Engadget",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New report: Meta has a working household-chore humanoid prototype, codenamed Max, that runs on Nvidia Jetson Thor, and a Max 2 is already in development. It is Meta's first known move into home robot hardware.",
-      "published_iso": "2026-11-01T17:17:42+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-      "excerpt": "Meta has reportedly built a household-chore humanoid robot prototype codenamed Max, running on Nvidia Jetson Thor, and is already working on Max 2, per The Information."
+      "title": "Google and NASA build AI medical robot for Mars missions",
+      "url": "https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions",
+      "source": "TechRadar",
+      "published_iso": "2026-11-01T19:35:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg",
+      "excerpt": "Google and NASA unveil voice-guided AI medical assistant — Robot will perform tasks 'without ever replacing human decision-making'",
+      "rationale": "Fresh joint Google-NASA unveiling of a voice-guided AI medical robot; novel hardware with a clear human-in-the-loop design stance."
     },
     {
-      "title": "No internet, no problem: Google is working on an offline mode for Gemini Live",
-      "url": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/",
-      "source": "Android Authority",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New teardown finding: Gemini Live voice conversations could run fully on-device with no connection, which would push Google's assistant toward offline, local AI on phones.",
-      "published_iso": "2026-10-30T12:42:15+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg",
-      "excerpt": "An Android Authority APK teardown shows Google working on an offline mode for Gemini Live, which would run voice conversations on-device without an internet connection."
+      "title": "ChatGPT could soon turn your Android health data into something you can actually use",
+      "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
+      "source": "Android Authority",
+      "published_iso": "2026-11-02T06:36:17Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg",
+      "excerpt": "ChatGPT on Android is getting ready to read your Google Health data, including historical health data, to offer personalized advice.",
+      "rationale": "APK teardown shows ChatGPT reading Google Health data on Android; wearable data flowing into an assistant is new and has big privacy stakes."
     },
     {
-      "title": "Logitech releases MX Master 4 Developer Edition with AI support and new design",
-      "url": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "New hardware: a Developer Edition of the MX Master 4 whose Logi Options+ plugin maps the shortcuts and Actions Ring to an AI assistant. AI is built into the input device creators use every day.",
-      "published_iso": "2026-11-01T08:00:00+01:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/logitech-mx-master-4-developer-edition.png",
-      "excerpt": "Logitech listed an MX Master 4 Developer Edition mouse in China; a Logi Options+ plugin maps its shortcuts and Actions Ring to the WorkBuddy AI assistant."
-    },
-    {
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "source": "The Verge",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New product: Arrowmax's Arrowspace S1 puts a camera in the tip and uses AI to identify a screw head and recommend the right bit. It is a concrete example of vision AI built into a hand tool.",
-      "published_iso": "2026-10-30T14:23:26+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&strip=all&crop=0,10.667430009877,100,78.665139980246",
-      "excerpt": "Arrowmax's Arrowspace S1 electric screwdriver uses a tip camera and an AI model to identify a screw head and recommend the right bit; it's launching on Kickstarter."
+      "title": "Google could soon let you put your kids' Gemini chats on a timer",
+      "url": "https://www.androidauthority.com/google-gemini-parental-controls-daily-time-limits-3730765/",
+      "source": "Android Authority",
+      "published_iso": "2026-11-02T18:26:11Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg",
+      "excerpt": "Google is working on daily Gemini time limits for kids, giving parents more control over how long they use AI.",
+      "rationale": "New parental control for AI use (daily Gemini time limits for kids); a distinct feature, not related to the Notebooks story it was loosely matched to."
     },
     {
-      "title": "Google is giving Gemini's overlay a literal sparkle on your Android phone",
-      "url": "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/",
-      "source": "Android Authority",
-      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New rollout: the redesigned Gemini overlay, with a sparkling animation from the Neural Expressive design language, is reaching all Android phones. It shows how Google is visually styling AI in the system UI.",
-      "published_iso": "2026-10-30T06:59:52+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-      "excerpt": "Google is rolling out the redesigned Gemini overlay, with a new sparkling animation based on its Neural Expressive design language, to all Android phones."
+      "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+      "source": "9to5Mac",
+      "published_iso": "2026-11-02T20:07:21Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?resize=1200,628",
+      "excerpt": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired.",
+      "rationale": "Concrete product change for ChatGPT mobile users: Classic app sunset and Chat/Work tabs merging into one app."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "title": "The best speech recognition you can run at home is absolutely tiny, and it runs on a ten-year-old laptop",
+      "url": "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/",
+      "source": "XDA Developers",
+      "published_iso": "2026-11-02T21:00:21Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "I dictated an entire article on an old laptop, and it cost me nothing but 2GB of RAM",
+      "rationale": "Hands-on with a tiny local speech-recognition model (Parakeet) that runs on old hardware; readers can try it right away, and it adds outlet diversity."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/": {
-        "verdict": "new",
-        "nearest": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
-        "new_action": ""
-      },
-      "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/": {
-        "verdict": "new",
-        "nearest": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
-        "new_action": ""
-      },
-      "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html": {
+      "https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter": {
+      "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
         "new_action": ""
       },
-      "https://www.androidauthority.com/gemini-overlay-sparkling-animation-rollout-3729835/": {
+      "https://www.androidauthority.com/google-gemini-parental-controls-daily-time-limits-3730765/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+        "nearest": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
+        "new_action": ""
+      },
+      "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/": {
+        "verdict": "new",
+        "nearest": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+        "new_action": ""
+      },
+      "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/": {
+        "verdict": "new",
+        "nearest": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
         "new_action": ""
       }
     },
-    "note": "Cross-section exclusions (orchestrator instruction): Samsung Galaxy Watch sleep-apnea (ZDNET) is reserved for medicine, and Google/NASA AI medical robot (TechRadar) is skipped. Dropped as duplicates or follow-ups with no new action: (1) Samsung AI glasses December launch (Digital Trends) restates the glasses unveiled 10-14 (CNET) and adds only an unconfirmed ChosunBiz launch-timing report. (2) iOS 27.3 beta with Apple Intelligence in China (9to5Mac) is the same story as the 10-15 MacRumors card. The only new detail is the beta timing, and the beta has not shipped. (3) Alexa Photo Frame (ZDNET) comes from the same 10-28 Amazon Echo launch that the 10-29 Ars card covered. Other drops: Apple CEO earnings-call comments (business noise, similar to the 10-17 Tom's Guide Siri strategy card); Apple @ Work token bill (opinion); HomePod Mini 2 first look (Siri AI is not available yet, so AI is incidental, as the 10-30 curator also judged); Ring third-party AI apps (analysis piece, lower novelty); Senators' letter to Meta over glasses privacy (politics axis, so it is better placed in politics if anywhere); Alexa for Shopping (commerce and marketing edge, dropped 10-30 too); DIY AI Tamagotchi (Verge first-person build, lower novelty, would have been a second Verge card). The 5-day window flagged no Korean-copy repeats. I could not grep all of published_urls.json, so the orchestrator should exact-check these 5 URLs and the names 'Meta Max humanoid', 'Gemini Live offline', 'MX Master 4 Developer Edition', 'Arrowspace S1' and 'Gemini overlay' across the other sections. Diversity: 4 outlets (Engadget, Android Authority x2, Notebookcheck, The Verge), each card with a distinct accent."
+    "note": "Dropped as duplicates/follow-ups without a new release: Philips Hue custom AI behaviors (TechRadar; likely-repeat of 2026-10-22 Android Authority 'launch next week'), Samsung Intelligent Eyewear December launch report (Digital Trends + 9to5Google cluster; extra reporting on the 2026-10-14 CNET Samsung glasses reveal, and a report rather than an official announcement), iOS 27.2 Messages Suggested Actions (9to5Mac; same feature as the 2026-10-08 9to5Mac Messages AI suggestions card). Skipped on judgement: Apple $1,000 home robot (rumor in the same Apple home-robot thread as the 2026-10-20 HomeView robotic-arm report), Dell XPS Googlebook review (Googlebook OS already reviewed 2026-10-13), Google app You tab / Ecovacs review / Galaxy Watch sleep apnea (AI incidental), VRChat AI label (better fit for games), wearable BP crisis study (medicine-adjacent, and the AI angle is unclear). Cross-section check: the TechRadar NASA URL is not in published_urls science; the other picks were published after the 11-02 run, so they could not have run in any section yet."
   }
 }

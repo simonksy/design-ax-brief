@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "music",
   "items": [
     {
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
-      "url": "https://elevenlabs.io/blog/sound-effects-v3",
-      "source": "ElevenLabs",
-      "published_iso": "2026-10-29T12:00:00+00:00",
-      "og_image": null,
-      "excerpt": "ElevenLabs' SFX v3 brings more reliable multi-sound prompts, cleaner audio and more convincing music and vocals, opening up effects that pair a musical phrase or vocal performance with everyday sounds.",
-      "rationale": "New model release from the primary source. Sound designers and producers can use the multi-sound prompts and better music and vocal generation now, in the app and through the API."
+      "title": "Meet Chat: Our In-house Studio Assistant",
+      "url": "https://suno.com/blog/studio-chat-assistant",
+      "source": "Suno",
+      "published_iso": "2026-10-29T16:00:00+00:00",
+      "og_image": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+      "excerpt": "Suno details Chat, the AI assistant built into Suno Studio that can generate stems and plugins, rename tracks, move multiple faders, insert plugin chains across a session and suggest creative directions.",
+      "rationale": "New feature, from the primary source. Producers working in Suno Studio can hand session chores to Chat (stems, fader moves, plugin chains across tracks) starting now."
     },
     {
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Spotify Reportedly Set to Debut AI Cover & Remix Tool in Early '27",
-      "url": "https://www.digitalmusicnews.com/2026/10/30/spotify-ai-cover-remix-tool-launch/",
-      "source": "Digital Music News",
-      "published_iso": "2026-10-30T10:30:58+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Spotify-AI-Remix-Tool.jpg",
-      "excerpt": "Spotify is reportedly preparing to launch its long-awaited AI cover and remix tool in early 2027, charging subscribers up to $5 a month extra.",
-      "rationale": "First reported launch window (early 2027) and price ($4-5 a month add-on) for Spotify's fan remix tool. That tells artists when fan-made versions of their tracks will start to appear and what fans will pay."
+      "title": "나이비, 하이엔드 음악 유통사 HREUM(흐름) 출범…AI 공동창작 음악도 듣고 판단해 유통",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13167",
+      "source": "AI포스트",
+      "published_iso": "2026-11-02T19:26:38+09:00",
+      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13167_23844_267.png",
+      "excerpt": "Naibi launched HREUM, a curated distributor that accepts 'AI co-created' music made with tools like Suno, judging each track by listening before distribution.",
+      "rationale": "A new distributor launch with an explicit policy: AI co-created tracks (e.g. made with Suno) are accepted and judged by ear rather than blanket-banned. Creators who use AI tools get a concrete distribution route while other channels tighten AI filters."
     },
     {
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "UMG talks AI music: 'The volume is growing faster than the safeguards'",
-      "url": "https://musically.com/2026/10/30/umg-talks-ai-music-the-volume-is-growing-faster-than-the-safeguards/",
-      "source": "Music Ally",
-      "published_iso": "2026-10-30T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-17T113755.557.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "On UMG's Q3 earnings call Lucian Grainge sounded the alarm on AI music, citing Deezer figures of more than 90,000 fully AI-generated tracks uploaded to streaming services every day.",
-      "rationale": "New statement from the largest major label, with a hard figure (more than 90,000 AI tracks uploaded a day). It signals where label policy on AI uploads is heading."
+      "title": "Alphabet shareholder sues Sundar Pichai and 12 others over training Google's AI, including Lyria, on copyrighted works",
+      "url": "https://www.musicbusinessworldwide.com/alphabet-shareholder-sues-sundar-pichai-and-12-others-over-training-googles-ai-including-lyria-on-copyrighted-works/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-11-02T18:32:50+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2023/10/shutterstock_552493561.jpg",
+      "excerpt": "Shareholder Phil Rosen filed a 79-page derivative suit on Oct 30 in Chicago federal court alleging Alphabet's leadership knowingly trained AI models, including the Lyria music models, on copyrighted recordings, compositions, lyrics and voices.",
+      "rationale": "A new filing (Oct 30) of a new kind: a derivative suit that holds Google's leadership personally responsible for training Lyria on copyrighted music. It opens a legal front that the label suits against Suno have not touched."
     },
     {
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "MiDiff: MIDI-Conditioned Diffusion Models for Drum Audio Enhancement",
-      "url": "https://arxiv.org/abs/2610.38619",
-      "source": "arXiv",
-      "published_iso": "2026-10-28T10:40:26+00:00",
-      "og_image": null,
-      "excerpt": "MiDiff is a diffusion-based generative model that restores severely degraded drum recordings by conditioning the reverse process on temporally aligned MIDI piano rolls.",
-      "rationale": "New research with a clear studio use: it restores badly degraded drum takes by using a MIDI performance to guide the repair."
+      "title": "Kid Rock Reveals He Used AI on New Song with Eminem",
+      "url": "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/",
+      "source": "Consequence",
+      "published_iso": "2026-11-01T15:21:25-05:00",
+      "og_image": "https://consequence.net/wp-content/uploads/2026/10/Eminem-Kid-Rock.jpeg",
+      "excerpt": "Kid Rock says he used AI to create part of 'Heal My Faith', his Eminem collaboration on the Christian album Halfway 2 Jesus - reportedly the gospel choir - calling AI 'another tool'.",
+      "rationale": "A major-artist release that openly uses AI for one element, reportedly the gospel choir. It is a concrete case of AI generating a session-player part on a mainstream record."
     },
     {
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Zeds Dead on two decades of sampling: “The interest is in the history; AI has no history”",
-      "url": "https://musictech.com/features/interviews/zeds-dead-interview-sampling-ai/",
-      "source": "MusicTech",
-      "published_iso": "2026-10-30T09:00:08+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/10/Zeds-Dead-hero-credit-Max-Thompson@2000x1500-1068x801.jpg",
-      "excerpt": "Zeds Dead discuss two decades of sampling-based production and why they see AI-generated material as lacking the history that makes sampling meaningful.",
-      "rationale": "A new interview where working producers explain where they draw the line between sampling and AI-generated material."
+      "title": "일본음악저작권협회, 인간이 창작한 음악 보호 위해 AI 생성곡 탐지 나서",
+      "url": "https://www.kdfnews.com/news/articleView.html?idxno=190260",
+      "source": "한국면세뉴스",
+      "published_iso": "2026-11-03T00:10:00+09:00",
+      "og_image": "http://www.kdfnews.com/news/thumbnail/202611/190260_243178_4348_v150.jpg",
+      "excerpt": "JASRAC is excluding AI-generated songs from copyright management and pursuing a detection system to identify AI-made tracks, since registrations rely on composers' self-declaration (per Asahi Shimbun, Oct 30).",
+      "rationale": "A new policy from Japan's largest collecting society: AI-generated songs are excluded from rights management and checked by a detection system, rather than relying on composers to declare AI use. Songwriters registering works in Japan are directly affected."
     }
   ],
   "dedup": {
     "checks": {
-      "https://elevenlabs.io/blog/sound-effects-v3": {
+      "https://suno.com/blog/studio-chat-assistant": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=WtPiZ0ym13k",
+        "nearest": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
         "new_action": ""
       },
-      "https://www.digitalmusicnews.com/2026/10/30/spotify-ai-cover-remix-tool-launch/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.hypebot.com/believe-tunecore-artists-can-opt-into-spotifys-ai-remix-tool/",
-        "new_action": "New report of a launch target (early 2027) and pricing (a paid add-on of up to $5 a month). Neither was known when the 10-21 opt-in card or the 10-26 co-CEO card ran."
-      },
-      "https://musically.com/2026/10/30/umg-talks-ai-music-the-volume-is-growing-faster-than-the-safeguards/": {
+      "https://www.aipostkorea.com/news/articleView.html?idxno=13167": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+        "nearest": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.38619": {
+      "https://www.musicbusinessworldwide.com/alphabet-shareholder-sues-sundar-pichai-and-12-others-over-training-googles-ai-including-lyria-on-copyrighted-works/": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.31510",
+        "nearest": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
         "new_action": ""
       },
-      "https://musictech.com/features/interviews/zeds-dead-interview-sampling-ai/": {
+      "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/": {
         "verdict": "new",
-        "nearest": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
+        "nearest": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-expectations-ai-debunk-1235644671/",
+        "new_action": ""
+      },
+      "https://www.kdfnews.com/news/articleView.html?idxno=190260": {
+        "verdict": "new",
+        "nearest": "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700388.amp.html",
         "new_action": ""
       }
     },
-    "note": "Cluster c4 (Spotify AI remix tool, 3 outlets): kept only DMN. Dropped CMU and Music Ally as the same story; Music Ally was also already at its outlet slot via the UMG card. Dropped as repeats: Suno MLC subpoena schedule (DMN 10-30), a procedural court-calendar update in the running Suno v. MLC story already covered 10-25, with no new ruling; Yonhap K-pop AI wave (AKR20261031048000005), a trend roundup whose AI song at No. 2 is the same Suno track covered 10-05 (isplus) and 10-18 (musically), and whose A2O fan-app angle is analysis rather than a new event. Not picked on score: DMN 'What Is Attribution?' (evergreen explainer, close to the 10-10 arXiv attribution card), ICNX 2026 (general content production, mostly video and dubbing, loosely about music), SkillBox Zenith Studio (event-listing tool, loosely about music), arXiv generative-audio tutorial (evergreen monograph), arXiv concert video editing. Five distinct outlets, at most one per outlet. Cross-section: published_urls.json (3.8k lines) could not be grepped with the tools available here, so it was not checked exhaustively. The orchestrator should exact-grep 'elevenlabs.io/blog/sound-effects-v3' / 'SFX v3' and 'Spotify' remix across the gadgets, movies and games sections before roll. ElevenLabs SFX v3 and MiDiff have og_image null; ax-media needs an in-article or page image."
+    "note": "Dropped as repeats of running stories with no new ruling: UMG/Sony/DistroKid 'working on a resolution' (MBW 11-02), a procedural update in the DistroKid data dispute already covered 10-17 (Billboard); Suno MLC subpoena schedule (DMN 10-30), the Suno v. MLC story covered 10-25 and passed over again on 11-02; Yonhap K-pop AI wave (AKR20261031048000005), a trend roundup whose AI song is the Suno track covered 10-05 and 10-18, already rejected 11-02. Skipped for cross-section risk: Music Artists Coalition/Human Consent Foundation amicus brief in NYT v. OpenAI (DMN). Politics published theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright on 11-02, part of the same amicus wave in the same case, and books or politics is the closer home. Not picked on score: GEMA interview (commentary), DMN 'What Is Attribution?' (evergreen interview, close to the 10-10 arXiv attribution card), SkillBox Zenith (event-listing tool, loosely about music), CJ ENM Hudson AI dubbing (video and dubbing, closer to movies), arXiv tutorial (evergreen), AMBIT and concert-editing papers, Dawesome Myth 1.81 (minor effects update), Leon Lai de-aged MV (could clash with movies), Seoul Music Forum, Jason Lounge, Showbiz411 iTunes No. 1 (a third 'AI song tops a chart' card this month), China KTV. URL checks: none of the original 5 URLs appear in the music or politics blocks of published_urls.json (lines 2900-3380 read). The other sections were not fully scanned because the file is about 224k tokens and Grep is unavailable. Before roll the orchestrator should exact-grep 'kid-rock', 'Lyria' / 'alphabet-shareholder', 'studio-chat-assistant', 'idxno=190260' (full URL), and 'aipostkorea.com/news/articleView.html?idxno=13167' (full URL) / 'HREUM' / '나이비' across all sections. SWAP (orchestrator ledger check): removed 'Tamber 2.0 Review' (musictech.com/reviews/software-instruments/tamber-2/). It covers the same Tamber 2.0 release already published in music on 2026-08-21 (bedroomproducersblog.com/2026/08/20/tamber-2/) and 2026-08-30 (musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/), and it is a review with no new version. Replaced with the next-best fresh candidate not previously dropped as a duplicate and not about the NYT v. OpenAI amicus fight: Naibi HREUM distributor launch (AI포스트, aipostkorea idxno=13167), a new launch with no match in the 30-day history_digest. Its nearest relative is the 10-22 Moises/SoundCloud distribution card, a different company and event. Five outlets, one card each."
   }
 }

@@ -1,151 +1,124 @@
 {
  "section": "games",
- "now_iso": "2026-11-01T23:50:00Z",
+ "now_iso": "2026-11-02T22:04:00Z",
  "window_hours": 336,
  "items": [
   {
-   "title": "Anthropic tells Claude to stop remaking video games",
-   "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-   "source": "Game Developer",
-   "category": "games",
-   "published_iso": "2026-10-30T18:52:20Z",
-   "excerpt": "Claude users are reporting that Anthropic's AI tool has been updated with a rule that bars it from remaking games.",
-   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
-  },
-  {
-   "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
-   "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+   "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
+   "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
    "source": "PC Gamer",
    "category": "games",
-   "published_iso": "2026-10-31T15:23:04Z",
-   "excerpt": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/Vmhmhycwkn6YrhJ8EMDcK3-1920-80.png"
+   "published_iso": "2026-11-02T17:55:20Z",
+   "excerpt": "Embark executive producer Aleksander Grøndal says criticism of Arc Raiders' AI text-to-speech voices was 'really fair' but recording every line was 'too impractical'; the studio has since re-recorded lines to add more real human voices.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1920-80.jpg"
   },
   {
-   "title": "Claude Can No Longer Produce A 'Recreation' Of Existing Games",
-   "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
-   "source": "Kotaku",
+   "title": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
+   "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
+   "source": "PC Gamer",
    "category": "games",
-   "published_iso": "2026-10-30T20:30:14+00:00",
-   "excerpt": "Anthropic's new Claude guardrail is stopping users from recreating a game 'even if it is renamed or called original'",
-   "og_image": "https://kotaku.com/app/uploads/2026/02/anthropic.jpg"
+   "published_iso": "2026-10-24T14:30:20Z",
+   "excerpt": "Paolo Pedercini (Molleindustria) removed several AI-generated text-to-speech voice lines from his ecosocialist satire Future? No Thanks! after backlash over undisclosed genAI use (TTS voices and Suno music loops).",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/J2SZTYU49FSR6FCXmQ3dv9-1920-80.jpg"
   },
   {
-   "title": "Claude Company Anthropic Updates Claude Opus in Attempt to Stop Those Controversial Game Clones",
-   "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
-   "source": "IGN",
+   "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
+   "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
+   "source": "PC Gamer",
    "category": "games",
-   "published_iso": "2026-10-31T21:46:36Z",
-   "excerpt": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
-   "og_image": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png?width=1280&format=jpg&auto=webp&quality=80"
+   "published_iso": "2026-10-27T00:18:15Z",
+   "excerpt": "Valve's list of the 50 most-played demos from an 8,000-demo Steam Next Fest shows only four declaring generative AI use, suggesting players are largely passing over overt genAI games.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/go39hWDEGCotfQFaMgkWDo-1200-80.png"
   },
   {
-   "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked",
-   "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/",
+   "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
+   "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
+   "source": "Road to VR",
+   "category": "games",
+   "published_iso": "2026-11-02T10:39:00+00:00",
+   "excerpt": "VRChat is facing a sizable user backlash after deciding not to label AI-generated content, following a survey earlier this month asking users whether the social VR platform should.",
+   "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg"
+  },
+  {
+   "title": "Nearly 50 percent of all of last month's Steam releases admit to containing AI slop",
+   "url": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
+   "source": "Destructoid",
+   "category": "games",
+   "published_iso": "2026-11-02T17:43:18+00:00",
+   "excerpt": "An analysis of Steam release data posted to r/Steam finds 49.9% of games released in October 2026 disclosed AI-generated content, up from 26.4% a year earlier and 1.7% when the disclosure field launched in January 2024.",
+   "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg"
+  },
+  {
+   "title": "NVIDIA DLSS 5 In Mario Kart World Shows A Glimpse Of The Future, As Nintendo Switch 2 Emulated Game Looks Almost Like An Animated Movie",
+   "url": "https://wccftech.com/nvidia-dlss-5-mario-kart-world-future-nintendo-switch-2-emulated/",
    "source": "Wccftech",
    "category": "games",
-   "published_iso": "2026-10-31T20:08:37+00:00",
-   "excerpt": "Anthropic's Claude Code introduces restrictions to prevent recreating existing games, impacting developers using AI for original projects and mods.",
-   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-35.jpg"
+   "published_iso": "2026-11-02T10:40:03+00:00",
+   "excerpt": "An emulated Mario Kart World running on PC with NVIDIA DLSS 5 neural rendering looks close to an animated film, previewing how neural rendering can restyle a game's art direction.",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Mario-Kart-World-NVIDIA-DLSS-5-1920x1078.jpg"
   },
   {
-   "title": "Anthropic may be cracking down on use of Claude to remake popular games",
-   "url": "https://gamesbeat.com/anthropic-may-be-cracking-down-on-use-of-claude-to-remake-popular-games/",
-   "source": "GamesBeat",
+   "title": "Phantom Blade Zero Has Been Out For Less Than 1 Day, Yet First Mods Adding NVIDIA DLSS 5 Support and Gameplay Tweaks Have Already Dropped",
+   "url": "https://wccftech.com/phantom-blade-zero-out-less-1-day-first-mods-nvidia-dlss-5-gameplay-tweaks/",
+   "source": "Wccftech",
    "category": "games",
-   "published_iso": "2026-11-01T20:50:00+00:00",
-   "excerpt": "Anthropic is reportedly taking action to stop the use of its Claude AI tools to remake popular or upcoming games, according to a story in Game Developer.",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/anthropic.webp"
+   "published_iso": "2026-10-29T10:35:59+00:00",
+   "excerpt": "Within a day of Phantom Blade Zero's PC launch, modders injected NVIDIA DLSS 5 neural rendering support alongside difficulty-tuning tweaks.",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Phantom-Blade-Zero-NVIDIA-DLSS-5-1920x1080.jpg"
   },
   {
-   "title": "AI 딸각으로 게임 복제? 클로드는 막는다",
-   "url": "https://www.inven.co.kr/webzine/news/?news=322822",
-   "source": "인벤",
+   "title": "크래프톤, K팝 AI 챗 키프 국내 서비스 시작",
+   "url": "https://www.inven.co.kr/webzine/news/?news=322872",
+   "source": "Inven",
    "category": "games",
-   "published_iso": "2026-11-01T21:32:21+09:00",
-   "excerpt": "앤트로픽은 현지시각 10월 30일 애디 오스마니를 통해 클로드 코드에 기존 게임을 그대로 재현하는 요청을 거절하는 지침을 추가했다고 밝혔다. 이는 지식재산권 침해를 방지하기 위한 조치로 클로드 Opus 5.5 프롬프트에 관련 문장이 삽입됐다. 최근 AI를 이용한 게임 복제 사례가 증가함에 따라 밸브 등 업계 내 우려가 커지는 가운데 나온 결정이다. 다만 클로드가 실제 소유 여부를 확인하기 어렵고 리버스 엔지니어링 제한 논란도 있어 앤트로픽은 향후 지침의 균형을 계속 개선해 나갈 예정이다.",
-   "og_image": "https://static.inven.co.kr/column/2026/11/01/news/i1212175075.jpg"
+   "published_iso": "2026-11-02T14:17:51+09:00",
+   "excerpt": "크래프톤이 K팝 AI 캐릭터 챗 '키프(Kiff)'를 국내 출시했다. 피프티피프티가 첫 아티스트로 공식 캐릭터 '웨니'를 함께 만들었고, 대화를 기억해 반응하며 하루 대화를 그림일기로 남긴다.",
+   "og_image": "https://static.inven.co.kr/column/2026/11/02/news/i1165349777.jpg"
   },
   {
-   "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
-   "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
-   "source": "Polygon",
+   "title": "AI 캐릭터로 피규어·OST까지, '디어비' 구글 플레이 정식 출시",
+   "url": "https://www.inven.co.kr/webzine/news/?news=322897",
+   "source": "Inven",
    "category": "games",
-   "published_iso": "2026-11-01T15:36:02Z",
-   "excerpt": "The number of new game pages being created daily has doubled in the past two months",
-   "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?w=1600&h=900&fit=crop"
+   "published_iso": "2026-11-02T17:55:08+09:00",
+   "excerpt": "디어비가 AI 컴패니언·AI UGC 플랫폼 '디어비(Dearbe)'를 구글 플레이에 정식 출시했다. 이용자가 AI 캐릭터와 대화하고 직접 캐릭터와 스토리를 만들어 공유하며, 피규어·OST로까지 확장한다.",
+   "og_image": "https://static.inven.co.kr/column/2026/11/02/news/i1731517427.jpg"
   },
   {
-   "title": "It's not just Steam: New game pages created per day on Itch.io have doubled in the last two months, with AI slop the likely culprit",
-   "url": "https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit/",
-   "source": "PC Gamer",
+   "title": "콘진원, 'AI 게임랩 데이 2026' 개최&hellip;게임 개발 AI 활용 사례 공유",
+   "url": "https://www.inews24.com/view/2021651",
+   "source": "inews24",
    "category": "games",
-   "published_iso": "2026-11-01T16:25:23Z",
-   "excerpt": "The number of downloads and purchases has *not* doubled.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/uhCgoU847LsYr8VPuoSiRb-1920-80.jpg"
+   "published_iso": "2026-11-02T15:39:03+09:00",
+   "excerpt": "콘진원이 11월 12일 판교에서 'AI 게임랩 데이 2026'을 열어 송재경 등 개발자의 AI 활용 게임 제작·엔진 사례 강연과 중소 게임사 대상 일대일 기술 상담을 진행한다.",
+   "og_image": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg"
   },
   {
-   "title": "Ramen launches Aura Autopilot, an Open-Source Autonomous Game Tester for Unreal Engine, Unity and Godot",
-   "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
-   "source": "GamesBeat",
+   "title": "게임제작 AI 전환 성과 공유, 게임 데이즈 2026 11월 개최",
+   "url": "https://www.gamemeca.com/view.php?gid=1782812",
+   "source": "GameMeca",
    "category": "games",
-   "published_iso": "2026-10-30T12:15:00+00:00",
-   "excerpt": "Ramen, maker of the multi-agent Aura assistant for Unity and Unreal, open-sourced Aura Autopilot, a self-improving playtesting agent that plays games in real time across Unreal, Unity and Godot and works with Claude Code, Codex or BYOK. Aura also adds Figma/Blender UI integration, text-to-character-motion and a reworked level blockout agent.",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png"
-  },
-  {
-   "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
-   "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
-   "source": "NVIDIA Technical Blog",
-   "category": "games",
-   "published_iso": "2026-10-27T17:00:00+00:00",
-   "excerpt": "NVIDIA RTX Spark is a new Windows PC platform for AI development, creation, and gaming in slim laptops and compact desktops. Powered by an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU…",
-   "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2.webp"
-  },
-  {
-   "title": "크래프톤 \"AI 활용 방식 개선…API 비용 37% 줄여\"",
-   "url": "https://www.inews24.com/view/2019608",
-   "source": "아이뉴스24",
-   "category": "games",
-   "published_iso": "2026-10-27T18:09:08+09:00",
-   "excerpt": "자체 'LLM 게이트웨이' 구축…AI 모델 98종 이상 제공·사용량 통합 관리\r\n전사 AI 활용 확대 속 비용 효율화…2027년 AI 에이전트 관리 체계 고도화 \"AI 활용을 확대하면서 자체 개발한 LLM(대규모 언어모델) 게이트웨이로 사용 경로를 통합하고 비용 관리 체계를 개선했습니다. 그 결과 9월 API(응용프로그램 인터페이스) 비용이 전월 대비 약 37% 감소했습니다.“ 임경영 크래프톤 AI 트랜스포메이션 총괄은 27일 열린 '게임온(Games on) AWS 2026'",
-   "og_image": "https://image.inews24.com/v1/39a26dd351c349.jpg"
-  },
-  {
-   "title": "콘진원, 대학생 대상 'AI 게임 개발 경진대회' 개최",
-   "url": "https://www.inews24.com/view/2020385",
-   "source": "아이뉴스24",
-   "category": "games",
-   "published_iso": "2026-10-29T13:31:52+09:00",
-   "excerpt": "11월 5~6일 판교서 무박 2일 진행…AI 활용해 게임 제작 한국콘텐츠진흥원(이하 콘진원)은 다음 달 5일부터 6일까지 경기 판교에서 대학생 70명이 인공지능(AI)을 활용해 게임을 개발하는 '게임인재원 AI 해커톤' 본선을 개최한다고 29일 밝혔다. 게임인재원 AI 해커톤은 문화체육관광부가 지원하고 콘진원이 운영하는 게임인재원이 주관하는 행사로, 게임인재원 1·2캠퍼스와 나인트리 바이 파르나스 서울 판교에서 진행된다.",
-   "og_image": "https://image.inews24.com/v1/d958619db2df50.jpg"
+   "published_iso": "2026-11-02T18:28:02+09:00",
+   "excerpt": "콘진원 주최 '게임 데이즈 2026'이 11월 9~10일 열려 게임 제작의 AI 전환 성과를 공유한다.",
+   "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/812/gm499615_thumb___2026.webp"
   },
   {
    "title": "'AI 흔적 글이 스팀 상위권에 자주 오른다' 연구 결과 발표",
    "url": "https://www.gamemeca.com/view.php?gid=1782690",
-   "source": "게임메카",
+   "source": "GameMeca",
    "category": "games",
    "published_iso": "2026-10-30T14:31:17+09:00",
-   "excerpt": "독립 연구 스튜디오 크리트필드(CritField)는 인공지능(AI)이 스팀(Steam) 게임 리뷰의 첫인상을 변화시키고 있다는 연구 결과를 발표했다. 크리트필드는 2019년부터 2026년 8월까지 346개 게임의 영어 리뷰 65만 1,642개를 분석한 결과, 챗봇의 흔적이 있는 ...",
+   "excerpt": "연구 스튜디오 크리트필드가 346개 게임의 스팀 영어 리뷰 65만여 건을 분석한 결과, 최근 1년간 스팀 게임 3개 중 1개에서 챗봇 흔적이 있는 리뷰가 '가장 유용한 리뷰' 상위 10위에 올랐다. 다만 전체 리뷰의 약 1%라 평점 영향은 미미했다.",
    "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/690/gm849868_thumb__AI__.webp"
   },
   {
-   "title": "Gaming storefronts are facing a Slop Grenade problem | Opinion",
-   "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
-   "source": "GamesIndustry.biz",
+   "title": "Introducing the official Unity plugin for Antigravity",
+   "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
+   "source": "Unity (YouTube)",
    "category": "games",
-   "published_iso": "2026-10-30T12:00:00+00:00",
-   "excerpt": "Players and creators alike dislike AI-created games, but digital storefronts are ill-equipped for the avalanche of slop that threatens to tank discoverability",
-   "og_image": "https://assetsio.gnwcdn.com/steam_ROoZJs3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "title": "The AI PS5 Homebrew Gold Rush Is Why GTA 6 Can't Be Pirated",
-   "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
-   "source": "Kotaku",
-   "category": "games",
-   "published_iso": "2026-10-26T21:30:32+00:00",
-   "excerpt": "One hacker is being accused of ruining everyone's chances of pirating GTA 6 after reporting a massive hypervisor exploit to Sony",
-   "og_image": "https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg"
+   "published_iso": "2026-10-29T11:50:14-07:00",
+   "excerpt": "Unity's official plugin is now live in Google Antigravity's plugin marketplace, connecting the Unity Editor to Antigravity's agentic workflows in one click so developers can request Unity work in plain language.",
+   "og_image": "https://i.ytimg.com/vi/gobNINSU3JE/maxresdefault.jpg"
   },
   {
    "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
@@ -153,35 +126,44 @@
    "source": "Kotaku",
    "category": "games",
    "published_iso": "2026-10-26T16:30:08+00:00",
-   "excerpt": "Rules for thee, but not for me",
+   "excerpt": "Kotaku examines how publishers that embraced AI tools are reacting as Claude-driven decompilations, vibe-coded browser ports and PC recomps flood out, with Microsoft and Epic now framing AI copying as theft.",
    "og_image": "https://kotaku.com/app/uploads/2026/10/Master-Chief-Fortnite-trailer-Epic-Games-Xbox-1200x675.jpg"
   },
   {
-   "title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
-   "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
-   "source": "Rock Paper Shotgun",
+   "title": "As EA kills Mass Effect 5, BioWare co-founder slams \"weird belief\" you can \"recreate great games with random people and AI\" – \"It doesn't work\"",
+   "url": "https://www.gamesradar.com/games/as-ea-kills-mass-effect-5-bioware-co-founder-slams-weird-belief-you-can-recreate-great-games-with-random-people-and-ai-it-doesnt-work/",
+   "source": "GamesRadar+",
    "category": "games",
-   "published_iso": "2026-10-30T12:58:41+00:00",
-   "excerpt": "\"We’d want to frame it in a quirky, fun way rather than a doom-laden one\": Arrowhead's Johan Pilestedt mulls the potential for a game satire of generative AI.",
-   "og_image": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+   "published_iso": "2026-10-29T11:33:54Z",
+   "excerpt": "BioWare co-founder Greg Zeschuk criticizes the executive belief that great games can be recreated 'with random people and AI' as EA shutters BioWare.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/Tj2f4GGhF5bAFS8H4XXQ9-1920-80.jpg"
   },
   {
-   "title": "\"I want room to make a wrong turn\": Following Samson dev's bankruptcy, its founder is considering how AI might factor into new studio plans",
-   "url": "https://www.rockpapershotgun.com/i-want-room-to-make-a-wrong-turn-following-samson-devs-bankruptcy-its-founder-is-considering-how-ai-might-factor-into-new-studio-plans",
-   "source": "Rock Paper Shotgun",
+   "title": "Valve veteran says Steam is \"overwhelmed with slop and AI crap\" in Next Fest event, fears PC becoming more like mobile: \"This is the thing that I'm worried about more than anything\"",
+   "url": "https://www.gamesradar.com/games/valve-veteran-says-steam-is-overwhelmed-with-slop-and-ai-crap-in-next-fest-event-fears-pc-becoming-more-like-mobile-this-is-the-thing-that-im-worried-about-more-than-anything/",
+   "source": "GamesRadar+",
    "category": "games",
-   "published_iso": "2026-10-21T12:30:00+00:00",
-   "excerpt": "Liquid Swords founder Christofer Sundberg has discussed how he might approach setting up a new studio following the Samson studio's bankruptcy.",
-   "og_image": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+   "published_iso": "2026-10-26T15:08:00Z",
+   "excerpt": "A Valve veteran says Steam Next Fest is overwhelmed with AI-made slop and worries PC discovery is drifting toward mobile-store dynamics.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/bu9uXWDTCADvMFjdW5Psi3-1920-80.png"
   },
   {
-   "title": "Viral Haystack Game Dev Finds Creative Way To Mock AI Clones",
-   "url": "https://80.lv/articles/dev-of-viral-needle-in-a-haystack-game-finds-creative-way-to-mock-ai-clones",
-   "source": "80 Level",
+   "title": "Gaming storefronts are facing a Slop Grenade problem | Opinion",
+   "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
+   "source": "GamesIndustry.biz",
    "category": "games",
-   "published_iso": "2026-10-29T09:36:00+00:00",
-   "excerpt": "Will this be cloned as well?",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50825/images/6ae313949b683/contain_1200x630.jpg"
+   "published_iso": "2026-10-30T12:00:00+00:00",
+   "excerpt": "GamesIndustry.biz opinion piece arguing that gaming storefronts face a 'slop grenade' problem as generative AI floods them with low-effort games.",
+   "og_image": "https://assetsio.gnwcdn.com/steam_ROoZJs3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\"",
+   "url": "https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+   "source": "Rock Paper Shotgun",
+   "category": "games",
+   "published_iso": "2026-10-23T10:51:01.592654+00:00",
+   "excerpt": "A Star Trek Online executive criticizes publishers that close experienced teams like BioWare in favour of start-ups and AI 'magic beans'.",
+   "og_image": "https://assetsio.gnwcdn.com/mass-effect-miranda-loyalty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
   }
  ]
 }

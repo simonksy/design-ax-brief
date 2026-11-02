@@ -4442,6 +4442,118 @@
           "x": "El representante Jimmy Patronis (R-Fla.) busca convertir la orden ejecutiva en ley."
         }
       ]
+    },
+    "politics/bellingcat-ai-superpac-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un anuncio en línea de Ben McAdams, candidato demócrata al Congreso por Utah, decía que él “se enfrentó al MAGA”. En Texas, otro anuncio llamaba al candidato republicano Chris Gober un “guerrero MAGA”. Ambos se pagaron, en última instancia, con dinero de Leading the Future (LTF), una red de Super PAC que se opone a las regulaciones que “limiten” la innovación en AI. Los registros de la FEC muestran que ha recibido US$125 millones de Greg Brockman, presidente de OpenAI, de su esposa Anna Brockman, de Andreessen Horowitz (a16z) y de los fundadores de a16z."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+          "cap": "Fuente: Think Big / Google Ad Transparency Center"
+        },
+        {
+          "t": "p",
+          "x": "En oposición directa a LTF está Public First Action (PFA), que pide regulaciones de seguridad de la AI y ha recibido $40 millones de Anthropic. Los Super PACs financiados por PFA también emitieron anuncios que parecían apoyar o criticar a Trump según los votantes a los que se dirigían."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+          "cap": "Desembolsos de Leading the Future, Public First PAC y Public First Action. Gráfico: Bellingcat"
+        },
+        {
+          "t": "p",
+          "x": "Bellingcat analizó más de 300 campañas de anuncios en video en línea del Ad Transparency Center de Google, que apoyaban o se oponían a 40 candidatos. Solo los anuncios a favor o en contra de dos candidatos mencionaban la AI, y ninguno mencionaba centros de datos. Un representante de PFA dijo que sus PACs afines emiten anuncios “sobre los temas que más importan de inmediato a los votantes”. LTF y sus PACs no habían respondido al cierre de esta edición."
+        }
+      ]
+    },
+    "politics/germany-sovereign-ai-taskforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+          "cap": "Para acelerar el desarrollo de la AI en Alemania, el Gobierno prevé actuar como “cliente ancla estratégico”. | Tobias Schwarz/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Alemania debería convertirse en una “nación de AI soberana” para 2030 y reducir la distancia con los principales polos de AI de U.S. y China, según un informe redactado por el grupo de trabajo de AI del Gobierno, que se presentará al Consejo de Seguridad Nacional. “Por ello, los próximos 12 a 18 meses serán decisivos para fijar el rumbo”, señala el texto."
+        },
+        {
+          "t": "p",
+          "x": "Alemania quiere asegurarse el acceso a los modelos líderes del mundo y, al mismo tiempo, reforzar las alternativas europeas, en particular mediante una mayor cooperación con Francia y Canadá. La “AI made in Germany” debería distinguirse por su enfoque en la AI industrial con “modelos altamente especializados”. El Gobierno prevé actuar como “cliente ancla estratégico”, usando contratos públicos y proyectos piloto para ayudar a los proveedores europeos de AI a entrar en el mercado."
+        },
+        {
+          "t": "p",
+          "x": "El plan propone 18 medidas, pero carece de detalles clave, incluida la financiación. Para 2030, el Gobierno quiere que al menos el 80% de las grandes empresas y el 55% de las SMEs usen AI, que el 90% de las agencias federales tengan al menos una aplicación de AI en producción y que la capacidad de los centros de datos de AI aumente un 300% respecto a 2025."
+        }
+      ]
+    },
+    "politics/india-model-to-data-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno de India quiere que los modelos de AI se entrenen con datos locales, porque considera que los desarrolladores de modelos extranjeros (model-makers) no tendrán incentivos para abordar los problemas del país ni para garantizar que los propietarios de los datos mantengan el control. Su Ministerio de Electrónica y Tecnologías de la Información (MeitY) propone la “Data Empowerment and Protection Architecture (DEPA) for AI Training”. Según la describe el asesor científico principal, Ajay Kumar Sood, DEPA significa que “el modelo viaja a los datos, en lugar de que los datos viajen al modelo”."
+        },
+        {
+          "t": "p",
+          "x": "Los “Training Data Providers” (proveedores de datos de entrenamiento), como hospitales, bancos y agencias gubernamentales, comparten datos anonimizados y cifrados con una “Data Exchange Platform”, donde los “Training Data Consumers” (consumidores de datos de entrenamiento) entrenan sus modelos dentro de “hardware-based Secure Data Environments”. Se aplica privacidad diferencial y toda la actividad queda registrada de forma inmutable para auditoría."
+        },
+        {
+          "t": "p",
+          "x": "MeitY afirma que DEPA podría liberar datos de salud fragmentados y, potencialmente, extender el crédito formal a 400 millones de personas desatendidas y MSMEs. No está claro cuánto trabajo queda para hacer realidad DEPA."
+        }
+      ]
+    },
+    "politics/wired-hidden-deepfake-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+          "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Una investigación de WIRED encontró una red de más de 400 dominios y apps conectados que a menudo dicen ser servicios cotidianos, como retratos de mascotas, clases de idiomas o entrenadores de ejercicio con AI. Cuando se accede a ellos en ciertas condiciones, cargan de forma encubierta una interfaz web para generar imágenes y videos sexuales explícitos con AI a partir de las fotos que suben los usuarios."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores encontraron la red siguiendo los enlaces de miles de anuncios de video con deepfakes explícitos en Facebook e Instagram, que llevaban a apps de las tiendas de Apple y Google. “Se trata de una operación organizada y gestionada comercialmente”, dice Paul Bouchaud, de AI Forensics. En un momento dado se registraban unas 30 apps-websites cada semana; 27 estaban disponibles en Google Play en septiembre, con más de 350,000 descargas."
+        },
+        {
+          "t": "p",
+          "x": "Las apps parecen estar gestionadas por desarrolladores chinos y una entidad de Hong Kong, KeLing Technology Limited, que no respondió. Apple retiró 19 apps y afirma que los desarrolladores cambiaron el contenido aprobado después de la revisión; Google ya había retirado la mayoría de las apps. Meta afirma que actuó contra 11,600 cuentas publicitarias y bloqueó la publicidad de 209 apps."
+        }
+      ]
+    },
+    "politics/politics-cma-meta-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La Competition and Markets Authority (CMA) ha abierto una investigación para determinar si las condiciones comerciales de Meta para las empresas que usan sus plataformas y servicios infringen el derecho de la competencia."
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones, que Meta tenía previsto modificar el 20 de noviembre pero que ha dejado en suspenso, podrían permitirle recopilar contenido de los sitios web de las empresas y editores que usan sus servicios y emplearlo para desarrollar y ofrecer sus propios productos y servicios, incluidas sus funciones de AI, sin que esas empresas puedan elegir si se usa su contenido ni cómo."
+        },
+        {
+          "t": "p",
+          "x": "A la CMA le preocupa que esto pueda suponer la imposición ilícita de condiciones comerciales injustas a miles de empresas de UK. Está ejerciendo sus facultades en virtud de la Competition Act 1998 tras las inquietudes planteadas por partes interesadas como la News Media Association y Movement for an Open Web, y evaluará si Meta ocupa una posición dominante y, en ese caso, si sus condiciones constituyen un abuso de ella."
+        },
+        {
+          "t": "p",
+          "x": "Desde entonces, Meta anunció el 28 de octubre una pausa en la implantación de sus condiciones comerciales, a la espera de una consulta con asociaciones del sector. Como la investigación apenas comienza, aún no se ha decidido si Meta ha infringido la ley."
+        }
+      ]
     }
   }
 }

@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "games",
   "items": [
     {
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Anthropic tells Claude to stop remaking video games",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "source": "Game Developer",
-      "published_iso": "2026-10-30T18:52:20Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta970312a7256ca55/6ae4e702d996de0029eee354/claudeiconfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Claude users are reporting that Anthropic's AI tool has been updated with a rule that bars it from remaking games.",
-      "rationale": "A model maker now refuses to recreate existing games even when they are renamed. That changes what devs and modders can build with Claude, and it is Anthropic's first direct response to the clone flood on Steam."
+      "title": "Introducing the official Unity plugin for Antigravity",
+      "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
+      "source": "Unity (YouTube)",
+      "published_iso": "2026-10-29T11:50:14-07:00",
+      "og_image": "https://i.ytimg.com/vi/gobNINSU3JE/maxresdefault.jpg",
+      "excerpt": "Unity's official plugin is now live in Google Antigravity's plugin marketplace, connecting the Unity Editor to Antigravity's agentic workflows in one click so developers can request Unity work in plain language.",
+      "rationale": "Unity's own release: a one-click plugin that lets Antigravity's agents work inside the Unity Editor from plain-language requests. Developers can install it today, which makes it the most usable item in the pool."
     },
     {
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
-      "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
-      "source": "Polygon",
-      "published_iso": "2026-11-01T15:36:02Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/itch-io-new-games.png?w=1600&h=900&fit=crop",
-      "excerpt": "The number of new game pages being created daily has doubled in the past two months",
-      "rationale": "Itch.io's own data shows new game pages per day doubled in two months while downloads did not. These are the first hard platform numbers on AI slop beyond Steam, and they matter for anyone trying to get an indie release discovered."
-    },
-    {
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "title": "Ramen launches Aura Autopilot, an Open-Source Autonomous Game Tester for Unreal Engine, Unity and Godot",
-      "url": "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/",
-      "source": "GamesBeat",
-      "published_iso": "2026-10-30T12:15:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/autopilot-1024x609.png",
-      "excerpt": "Ramen, maker of the multi-agent Aura assistant for Unity and Unreal, open-sourced Aura Autopilot, a self-improving playtesting agent that plays games in real time across Unreal, Unity and Godot and works with Claude Code, Codex or BYOK. Aura also adds Figma/Blender UI integration, text-to-character-motion and a reworked level blockout agent.",
-      "rationale": "An open-source playtesting agent that devs can drop into Unreal, Unity or Godot today, with Claude Code, Codex or their own key: the most directly usable tool release in the pool."
+      "title": "Nearly 50 percent of all of last month's Steam releases admit to containing AI slop",
+      "url": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
+      "source": "Destructoid",
+      "published_iso": "2026-11-02T17:43:18+00:00",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
+      "excerpt": "An analysis of Steam release data posted to r/Steam finds 49.9% of games released in October 2026 disclosed AI-generated content, up from 26.4% a year earlier and 1.7% when the disclosure field launched in January 2024.",
+      "rationale": "New Steam-wide numbers: 49.9% of October releases disclosed AI content, up from 26.4% a year ago. Yesterday's itch.io story covered a different store, and these figures on disclosure and discoverability matter to every studio releasing on Steam."
     },
     {
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "크래프톤 \"AI 활용 방식 개선…API 비용 37% 줄여\"",
-      "url": "https://www.inews24.com/view/2019608",
-      "source": "아이뉴스24",
-      "published_iso": "2026-10-27T18:09:08+09:00",
-      "og_image": "https://image.inews24.com/v1/39a26dd351c349.jpg",
-      "excerpt": "자체 'LLM 게이트웨이' 구축…AI 모델 98종 이상 제공·사용량 통합 관리. 전사 AI 활용 확대 속 비용 효율화…2027년 AI 에이전트 관리 체계 고도화. 크래프톤은 자체 개발한 LLM 게이트웨이로 사용 경로를 통합해 9월 API 비용을 전월 대비 약 37% 줄였다고 Games on AWS 2026에서 밝혔다.",
-      "rationale": "A large publisher explains how it routes 98+ models through one in-house LLM gateway and cut API spend 37% in a month. It is a concrete operating pattern that other studios scaling AI can copy."
+      "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
+      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
+      "source": "Road to VR",
+      "published_iso": "2026-11-02T10:39:00+00:00",
+      "excerpt": "VRChat is facing a sizable user backlash after deciding not to label AI-generated content, following a survey earlier this month asking users whether the social VR platform should.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg",
+      "rationale": "A platform policy decision. VRChat chose not to add an AI-generated content label after polling its users, which affects how UGC creators on the platform are shown and found."
     },
     {
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
-      "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-10-30T12:58:41+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Helldivers-2-automatons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "\"We'd want to frame it in a quirky, fun way rather than a doom-laden one\": Arrowhead's Johan Pilestedt mulls the potential for a game satire of generative AI.",
-      "rationale": "The head of a major studio says he would make a game satirising generative AI. It adds a cultural angle to a lineup that is otherwise about tools and platforms: AI as subject matter, not only as a production tool."
+      "title": "콘진원, 'AI 게임랩 데이 2026' 개최…게임 개발 AI 활용 사례 공유",
+      "url": "https://www.inews24.com/view/2021651",
+      "source": "inews24",
+      "published_iso": "2026-11-02T15:39:03+09:00",
+      "og_image": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
+      "excerpt": "콘진원이 11월 12일 판교에서 'AI 게임랩 데이 2026'을 열어 송재경 등 개발자의 AI 활용 게임 제작·엔진 사례 강연과 중소 게임사 대상 일대일 기술 상담을 진행한다.",
+      "rationale": "A newly announced government-backed event on Nov 12 in Pangyo, with talks on AI in game production (including one by Song Jae-kyung) and one-on-one tech consulting for small studios. Korean developers can sign up now."
+    },
+    {
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
+      "source": "PC Gamer",
+      "published_iso": "2026-11-02T17:55:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1920-80.jpg",
+      "excerpt": "Embark executive producer Aleksander Grøndal says criticism of Arc Raiders' AI text-to-speech voices was 'really fair' but recording every line was 'too impractical'; the studio has since re-recorded lines to add more real human voices.",
+      "rationale": "A major studio admits the AI text-to-speech backlash was fair and says it re-recorded lines with human actors. This is a concrete case of the cost of AI voice work versus the player backlash, and it is a different event from the 10-23 ChatGPT support-reply story."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games": {
+      "https://www.youtube.com/watch?v=gobNINSU3JE": {
+        "verdict": "new",
+        "nearest": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+        "new_action": ""
+      },
+      "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/": {
+        "verdict": "new",
+        "nearest": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+        "new_action": ""
+      },
+      "https://roadtovr.com/vrchat-user-backlash-ai-content-label/": {
         "verdict": "follow-up",
-        "nearest": "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/",
-        "new_action": "New Claude rule reported 10-30: it now refuses to recreate any specific existing game, even if renamed or called original. This is a separate, later guardrail from the 10-26 update that made browser ports and recomps harder (Kotaku calls it nerfing Claude 'again')."
+        "nearest": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
+        "new_action": "VRChat officially decided NOT to add an AI-generated content label after its user survey (new platform policy decision, after the 10-14 community boycott call)."
       },
-      "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/": {
+      "https://www.inews24.com/view/2021651": {
         "verdict": "new",
-        "nearest": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+        "nearest": "",
         "new_action": ""
       },
-      "https://gamesbeat.com/ramen-launches-aura-autopilot-an-open-source-autonomous-game-tester/": {
+      "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/": {
         "verdict": "new",
-        "nearest": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
-        "new_action": ""
-      },
-      "https://www.inews24.com/view/2019608": {
-        "verdict": "new",
-        "nearest": "https://www.thisisgame.com/articles/431458?newsId=400004&categoryId=0",
-        "new_action": ""
-      },
-      "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden": {
-        "verdict": "new",
-        "nearest": "https://aftermath.site/virtue-and-a-sledgehammer-review-impressions/",
+        "nearest": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
         "new_action": ""
       }
     },
-    "note": "Claude anti-clone guardrail story: kept only Game Developer (the original report). Dropped the same story from PC Gamer, Kotaku, IGN (cluster c0), Wccftech (developer-reaction angle on the same guardrail) and GamesBeat (re-report of Game Developer). Itch.io page-count story (cluster c6): kept Polygon and dropped PC Gamer. Other drops: NVIDIA RTX Spark neural rendering (history_match 'related' to blogs.nvidia 10-16 in games, and gadgets has also run RTX Spark). 80 Level haystack dev mocking AI clones (same running AI-clone thread already covered by the Claude pick, Digital Sun 10-24 and the anime demo 10-17). GamesIndustry.biz 'Slop Grenade' (opinion on the same storefront-slop story as the Itch.io pick). Kotaku 'Microsoft and Epic agree AI is theft' (opinion; related to Epic 10-15). Kotaku PS5 homebrew (running story, Kotaku 10-08). RPS Samson/Sundberg (10-21, stale). 콘진원 AI hackathon (event notice, low novelty). Cross-section: the last daily publish was 10-30 at 07:00 KST, so picks 1-3 and 5 (published 10-30 12:00Z or later) cannot be in any section yet. Krafton inews24/2019608 (10-27) does not appear in the games history; full-URL check: 2019597 and 2019475 are different articles. published_urls.json is too large to scan in full without grep, so the orchestrator should exact-grep 'inews24.com/view/2019608' and 'LLM 게이트웨이' across all sections before roll. Outlets: Game Developer, Polygon, GamesBeat, 아이뉴스24, Rock Paper Shotgun (5 distinct)."
+    "note": "Dropped as duplicates: PC Gamer 'indie dev scrubs AI voice lines' (same story as RPS 10-24 'Future? No Thanks! dev removes AI-generated voices'); GamesRadar 'Valve veteran says Steam overwhelmed with slop' and PC Gamer 'top-50 Next Fest demos / 4 AI disclosures' (same running Next Fest slop story as IGN 10-20 / Kotaku 10-29, commentary/analysis with no new decision); GamesIndustry.biz 'Slop Grenade' opinion (commentary on storefront slop already covered by Polygon itch.io 11-02 and Kotaku Valve 10-29). Skipped on merit: Wccftech DLSS 5 Mario Kart and Phantom Blade Zero mods (mod showcases repeating the DLSS 5 mod beat: DOOM 10-09, RTX Remix 10-25); Kotaku MS/Epic 'AI is theft' (analysis of the decompilation story already covered 10-10/10-14/10-25/11-02); GamesRadar BioWare co-founder and RPS Star Trek Online exec (commentary on studio closures, mostly business). Cross-section: the pick URLs and key names (VRChat, Antigravity) were checked by reading the design and gadgets parts of published_urls.json and found no match. The full file (3843 lines) was not read end to end."
   }
 }

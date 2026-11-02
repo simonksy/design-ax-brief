@@ -4442,6 +4442,118 @@
           "x": "众议员吉米·帕特罗尼斯(Jimmy Patronis，R-Fla.)正寻求将该行政令写入法律。"
         }
       ]
+    },
+    "politics/bellingcat-ai-superpac-ads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "犹他州民主党国会候选人Ben McAdams的一则网络广告称他“反击了MAGA”。在得克萨斯州，另一则广告称共和党候选人Chris Gober为“MAGA战士”。这两则广告最终都由Leading the Future（LTF）出资，这是一个反对“束缚”AI创新之监管的Super PAC网络。FEC文件显示，它已从OpenAI总裁Greg Brockman及其妻子Anna Brockman、Andreessen Horowitz（a16z）以及a16z创始人处获得US$125 million 资金。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
+          "cap": "来源：Think Big / Google Ad Transparency Center"
+        },
+        {
+          "t": "p",
+          "x": "与LTF直接对立的是Public First Action（PFA），它呼吁实施AI安全监管，并已从Anthropic获得$40 million 资金。由PFA资助的Super PACs也投放了广告，这些广告根据目标选民的不同，看起来或支持或批评Trump。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
+          "cap": "Leading the Future、Public First PAC和Public First Action的支出。图表：Bellingcat"
+        },
+        {
+          "t": "p",
+          "x": "Bellingcat分析了Google Ad Transparency Center中300多个网络视频广告活动，涉及支持或反对40名候选人。只有支持或反对两名候选人的广告提到了AI，没有任何广告提到数据中心。一位PFA代表表示，与其立场一致的PACs投放的广告关注“对选民而言最紧迫的议题”。截至发稿，LTF及其旗下PACs未作回应。"
+        }
+      ]
+    },
+    "politics/germany-sovereign-ai-taskforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
+          "cap": "为加快德国AI发展，政府计划扮演“战略性锚定客户”的角色。 | Tobias Schwarz/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "根据德国政府AI工作组起草、将提交国家安全委员会的一份报告，德国应在2030年前成为“主权AI国家”，并缩小与U.S.（美国）和中国领先AI中心的差距。报告写道：“因此，未来12至18个月对确定方向至关重要。”"
+        },
+        {
+          "t": "p",
+          "x": "德国希望在确保获得全球领先模型的同时，加强欧洲的替代方案，尤其是通过扩大与法国和加拿大的合作。“AI made in Germany”应凭借专注于采用“高度专业化模型”的工业AI而脱颖而出。政府计划充当“战略性锚定客户”，借助公共合同和试点项目帮助欧洲AI供应商进入市场。"
+        },
+        {
+          "t": "p",
+          "x": "这份蓝图提出了18项措施，但缺乏包括融资在内的关键细节。政府希望到2030年，至少80%的大企业和55%的SMEs使用AI，90%的联邦机构至少有一个AI应用投入生产，AI数据中心容量较2025年增长300%。"
+        }
+      ]
+    },
+    "politics/india-model-to-data-plan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "印度政府希望用本地数据训练AI模型，因为它认为海外模型开发商（model-makers）不会有动力去解决本国的问题，也不会确保数据所有者保有控制权。其电子和信息技术部（MeitY）提出了“Data Empowerment and Protection Architecture (DEPA) for AI Training”。按照首席科学顾问Ajay Kumar Sood的描述，DEPA意味着“模型走向数据，而不是数据走向模型”。"
+        },
+        {
+          "t": "p",
+          "x": "医院、银行和政府机构等“Training Data Providers”（训练数据提供方）将匿名化和加密的数据共享到“Data Exchange Platform”，“Training Data Consumers”（训练数据使用方）则在“hardware-based Secure Data Environments”中训练模型。该机制采用差分隐私，所有活动都会被不可篡改地记录以供审计。"
+        },
+        {
+          "t": "p",
+          "x": "MeitY表示，DEPA可以盘活分散的健康数据，并有望将正规信贷扩展到400 million 名服务不足的个人和MSMEs。目前尚不清楚要让DEPA成为现实还需完成多少工作。"
+        }
+      ]
+    },
+    "politics/wired-hidden-deepfake-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+          "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "WIRED的一项调查发现了一个由400多个相互关联的域名和应用组成的网络，它们往往自称是日常服务，比如宠物肖像、语言辅导或AI健身教练。在特定条件下访问时，它们会悄悄加载一个网页界面，可根据用户上传的照片生成露骨的AI色情图像和视频。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员顺着Facebook和Instagram上数千条露骨深度伪造视频广告的链接找到了这个网络，这些链接指向Apple和Google应用商店中的应用。AI Forensics的Paul Bouchaud说：“这是一个有组织、商业化运作的行动。”一度每周约有30个应用-网站（apps-websites）注册；九月有27个在Google Play上架，下载量超过350,000次。"
+        },
+        {
+          "t": "p",
+          "x": "这些应用似乎由中国开发者和一家香港实体KeLing Technology Limited运营，后者未予回应。Apple下架了19款应用，并称开发者在审核后替换了已获批准的内容；Google此前已下架了大部分应用。Meta表示已对11,600个广告账户采取行动，并禁止209款应用投放广告。"
+        }
+      ]
+    },
+    "politics/politics-cma-meta-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ae48361713f8880fe5461ec/s960_Meta_PN_image.jpg"
+        },
+        {
+          "t": "p",
+          "x": "竞争与市场管理局(Competition and Markets Authority,CMA)已启动调查,审查Meta针对使用其平台和服务的企业所制定的商业条款是否违反竞争法。"
+        },
+        {
+          "t": "p",
+          "x": "Meta原计划于11月20日修订这些条款,但目前已暂缓。这些条款可能使Meta得以从使用其服务的企业和出版商的网站收集内容,并用于开发和提供包括AI功能在内的自家产品与服务,而这些企业无法选择其内容是否被使用、如何被使用。"
+        },
+        {
+          "t": "p",
+          "x": "CMA担心,这可能构成对数千家UK企业非法施加不公平交易条件。在News Media Association和Movement for an Open Web等利益相关方表达关切后,CMA正动用《竞争法》(Competition Act 1998)赋予的权力,并将评估Meta是否具有支配地位,以及若是,其条款是否构成滥用。"
+        },
+        {
+          "t": "p",
+          "x": "此后,Meta于10月28日宣布暂停推行其商业条款,等待与行业团体协商。由于调查才刚刚开始,目前尚未就Meta是否违法作出任何决定。"
+        }
+      ]
     }
   }
 }

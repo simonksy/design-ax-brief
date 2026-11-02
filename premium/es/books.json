@@ -8454,6 +8454,127 @@
           "x": "Cuatro organizaciones editoriales y de derechos de autor instaron a un tribunal de US a rechazar la defensa de uso justo (fair-use) de OpenAI en un importante caso de infracción de copyright, con el argumento de que el uso de obras protegidas por parte de la empresa para entrenar sus modelos de AI amenaza el sustento de los autores, socava los mercados de licencias y permite crear libros que compiten con los suyos."
         }
       ]
+    },
+    "books/ajunews-ai-standard-contract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
+          "cap": "Reuters/Yonhap"
+        },
+        {
+          "t": "p",
+          "x": "Con el rápido crecimiento de la industria de la AI generativa, el debate sobre una tarifa adecuada por el uso de datos editoriales se ha intensificado. La Asociación de Editores de Corea planea distribuir este mes entre las editoriales un contrato tipo que complementa las cláusulas sobre el uso de datos para el entrenamiento de AI. Se trata de añadir contenidos sobre datos de entrenamiento de AI al contrato tipo vigente entre autores y editoriales, y actualmente está en revisión jurídica. El objetivo es prevenir conflictos aclarando el alcance del uso de las obras y la relación de derechos en el entrenamiento de AI."
+        },
+        {
+          "t": "p",
+          "x": "La asociación afirmó que el importe del acuerdo alcanzado en 2023 con Woongjin Booxen, en relación con el proyecto de corpus del Instituto Nacional de la Lengua Coreana, no debe tomarse como referencia general de precio para los datos de entrenamiento de AI. La polémica surgió del uso no autorizado de 1만5933 obras publicadas en ese proyecto; en la demanda por daños, el tribunal de apelación redujo la indemnización respecto a la de 1.ª instancia, basándose en el importe del acuerdo. El caso está pendiente de casación ante el Tribunal Supremo."
+        },
+        {
+          "t": "p",
+          "x": "En Corea, empresas como Naver y SK Telecom firman contratos con editoriales concretas. En el extranjero, Anthropic preparó un acuerdo de 15억 달러 (unos 2조원) en una demanda colectiva por derechos de autor, por el que pagará al menos 3000 dólares por título por unos 50만 libros, y se sabe que HarperCollins firmó en 2024 con Microsoft un contrato de uso para entrenamiento de AI a 5000 dólares por título."
+        },
+        {
+          "t": "p",
+          "x": "La asociación ha constatado que un distribuidor intermediario obtuvo unos 30만 libros coreanos y los sacó a Estados Unidos, y estudia emprender acciones legales por la obtención de libros coreanos por parte de Anthropic."
+        }
+      ]
+    },
+    "books/npr-pangram-false-flags": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
+          "cap": "Algunos escritores temen que el software de detección de AI marque su trabajo por error. karetoria/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La escritora fantasma Sally McGraw envió una muestra de escritura para una propuesta de libro y le dijeron que varias herramientas de detección de AI la habían marcado como generada por máquina. “Me quedé helada porque no había usado AI para generar el texto”, dijo. El cliente afirmó que los resultados no fueron el factor determinante para contratar a otra persona."
+        },
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
+          "cap": "Sally McGraw, escritora fantasma, dijo que ha cambiado su estilo de escritura. Sally McGraw"
+        },
+        {
+          "t": "p",
+          "x": "Mientras los editores lidian con una avalancha de contenido generado por AI (AI-generated), algunos recurren a herramientas de detección, que se sabe que marcan por error textos escritos por personas. Neil Clarke, de Clarkesworld, dice que los envíos mensuales se duplicaron hacia febrero de 2023, desde unos 1,100 en 2021. En un estudio de junio con cuatro detectores sobre 160 artículos, Pangram fue el más consistentemente preciso; su CEO, Max Spero, dijo que puede equivocarse, sobre todo con poco texto."
+        },
+        {
+          "t": "p",
+          "x": "Chris Callison-Burch, de Penn, dice que los detectores se fijan en la elección de palabras, la puntuación y la estructura de las frases: “delve”, el uso frecuente de rayas (em dashes), las enumeraciones de tres. El Authors Guild dijo que los detectores de AI crean “un ambiente que recuerda a la caza de brujas”. “Los envíos deberían terminar en un rechazo, no en una acusación”, dijo Clarke. McGraw ahora evita ciertas palabras: “Echo de menos mi raya (em dash)”."
+        }
+      ]
+    },
+    "books/korea-cartoonists-unesco-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
+          "cap": "El webtoon \"Xinker\" de Kwon Hyuk-joo / Cortesía de Naver Webtoon"
+        },
+        {
+          "t": "p",
+          "x": "Creadores de cómic coreanos pidieron normas estrictas que exijan el consentimiento de los artistas antes de usar su obra para entrenar modelos de inteligencia artificial (AI), y presentaron su demanda en una conferencia internacional en la sede de la UNESCO en París. El presidente de la asociación, Kwon Hyuk-joo, autor de webtoons y profesor de la Universidad Nacional de Kongju, intervino en la conferencia “Promover la creatividad humana y la diversidad de las expresiones culturales en el entorno digital”."
+        },
+        {
+          "t": "p",
+          "x": "Kwon citó una encuesta a 164 creadores: cerca del 90 por ciento dijo no saber cómo impedir que su obra se use para entrenar AI, mientras que el 81.1 por ciento afirmó que participaría en un sistema de consentimiento previo (opt-in). Señaló que publicar un webtoon, usarlo para entrenar un modelo de AI y emplear sus personajes en servicios de AI como chatbots son derechos distintos, y pidió el etiquetado obligatorio del contenido generado por AI (AI-generated) y transparencia sobre los datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Jean-Michel Jarre, embajador de buena voluntad de la UNESCO, afirmó que los humanos deben seguir siendo quienes decidan el propósito y la dirección del trabajo creativo. La UNESCO indicó que los debates nutrirán su trabajo de política digital en el marco de la Convención de 2005 sobre la Diversidad de las Expresiones Culturales."
+        }
+      ]
+    },
+    "books/andy-weir-human-writers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista reciente, Andy Weir, autor de The Martian y Project Hail Mary, compartió sus ideas sobre el avance de la AI, cómo podría afectar en el futuro a carreras como la suya y por qué podría compararse con un martillo homicida."
+        },
+        {
+          "t": "p",
+          "x": "“Creo que es solo cuestión de tiempo”, dijo a SlashFilm. “Sinceramente, creo que tuve suerte de convertirme en escritor justo cuando lo hice, porque quizá esté entre la última generación de escritores totalmente humanos”. Aun así, en general Weir parece tener una actitud positiva hacia la tecnología, que ve como una herramienta. Señala que otros avances ya han superado las capacidades humanas, como los coches de carreras en velocidad y los montacargas en fuerza, y que la inteligencia de la AI entra en una categoría similar."
+        },
+        {
+          "t": "p",
+          "x": "“Es una herramienta que podemos usar y desenchufar cuando no queramos usarla”, añadió. “Al final, si te doy un martillo, puedes construir una casa o asesinar a alguien. El problema no es la herramienta; es el usuario”."
+        },
+        {
+          "t": "p",
+          "x": "No es de extrañar que la AI sea un tema que Weir explorará en su próxima novela. En una entrevista de 2024 con The Bridge, adelantó el proyecto: “Ahora estoy trabajando en mi próximo libro. La AI tiene un papel importante en él. Pero lo hago a mi manera, no estoy escribiendo una historia sobre robots que se enamoran ni nada parecido”."
+        }
+      ]
+    },
+    "books/kindle-askthisbook-ereader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/10/02031123/61vYB8rfkYL_AC_SL1500_.jpg",
+          "cap": "e-reader Kindle"
+        },
+        {
+          "t": "p",
+          "x": "La actualización de software 5.20.2 de Kindle, de Amazon, lleva la función AI-powered “Ask This Book” directamente a los e-readers Kindle."
+        },
+        {
+          "t": "p",
+          "x": "La función actúa como un asistente de lectura interactivo e integrado. Permite consultar el texto, generar resúmenes o hacer preguntas concretas sobre personajes y tramas sin riesgo de spoilers externos."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios señalan que es uno de los archivos de instalación de firmware más grandes que Amazon ha publicado hasta la fecha. Ocupa unos 643 MB."
+        },
+        {
+          "t": "p",
+          "x": "Se accede abriendo el menú dentro del libro o resaltando un pasaje o una palabra concretos del texto. Ofrece una lista de preguntas sugeridas, o se puede escribir una pregunta propia y hacer preguntas de seguimiento."
+        }
+      ]
     }
   }
 }

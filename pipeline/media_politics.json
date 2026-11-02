@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-02",
-  "section": "politics",
-  "media": [
-    {
-      "id": "politics-cma-meta-probe",
-      "type": "image",
-      "src": "pipeline/media/politics-cma-meta-probe.jpg"
-    },
-    {
-      "id": "wikimedia-nyt-amicus",
-      "type": "image",
-      "src": "pipeline/media/wikimedia-nyt-amicus.jpg"
-    },
-    {
-      "id": "epic-fcc-robocall-tcpa",
-      "type": "image",
-      "src": "pipeline/media/epic-fcc-robocall-tcpa.jpg"
-    },
-    {
-      "id": "kazakhstan-nvidia-firebird",
-      "type": "image",
-      "src": "pipeline/media/kazakhstan-nvidia-firebird.jpg"
-    },
-    {
-      "id": "ai-training-optout-standard",
-      "type": "image",
-      "src": "pipeline/media/ai-training-optout-standard.jpg"
-    }
-  ]
+ "date": "2026-11-03",
+ "section": "politics",
+ "media": [
+  {
+   "id": "brave-nyt-scraping-suit",
+   "type": "image",
+   "src": "pipeline/media/brave-nyt-scraping-suit.jpg"
+  },
+  {
+   "id": "bellingcat-ai-superpac-ads",
+   "type": "image",
+   "src": "pipeline/media/bellingcat-ai-superpac-ads.jpg"
+  },
+  {
+   "id": "germany-sovereign-ai-taskforce",
+   "type": "image",
+   "src": "pipeline/media/germany-sovereign-ai-taskforce.jpg"
+  },
+  {
+   "id": "india-model-to-data-plan",
+   "type": "image",
+   "src": "pipeline/media/india-model-to-data-plan.jpg"
+  },
+  {
+   "id": "wired-hidden-deepfake-apps",
+   "type": "image",
+   "src": "pipeline/media/wired-hidden-deepfake-apps.jpg"
+  }
+ ]
 }

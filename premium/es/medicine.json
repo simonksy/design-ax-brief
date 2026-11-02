@@ -2884,6 +2884,142 @@
           "x": "Se desconoce si la atención no prestada era innecesaria o necesaria; los autores piden seguir la persistencia del efecto, la idoneidad de la atención, los resultados de los pacientes, la carga de los clínicos y el gasto de Medicare."
         }
       ]
+    },
+    "medicine/aha-wearable-bp-crisis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
+          "cap": "Dispositivo wearable - comprobación del progreso"
+        },
+        {
+          "t": "p",
+          "x": "Usar AI para analizar patrones de un monitor portátil de presión arterial con brazalete y de una pulsera de actividad podría ayudar a identificar cuándo los adultos con hipertensión en estadio 2 tienen mayor riesgo de sufrir una crisis hipertensiva (>180/120 mm Hg con daño agudo de órganos diana) hasta tres días antes de que ocurra, según una investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
+        },
+        {
+          "t": "p",
+          "x": "El estudio incluyó a 4,190 adultos de 40 a 85 años de un hospital de Sindh, Pakistán, seguidos de enero de 2025 a enero de 2026. En los 12 meses, 312 participantes sufrieron 418 crisis hipertensivas. Entre los participantes con una alerta positiva, alrededor del 32% sufrió una crisis, mientras que el 97.4% de quienes no recibieron alerta no tuvo ninguna."
+        },
+        {
+          "t": "p",
+          "x": "Una presión arterial que no bajaba durante el sueño suponía casi cinco veces más probabilidades de una crisis inminente; un aumento de más de 35 mm Hg al despertar, casi cuatro veces. Cuando los médicos recibieron una alerta y ajustaron la medicación en 24 horas, las crisis fueron alrededor de un 61% menores y las visitas a urgencias, alrededor de un 45% menores."
+        },
+        {
+          "t": "p",
+          "x": "«Si logramos reconocer un mayor riesgo de crisis hipertensiva días antes de que ocurra, tenemos la oportunidad de ofrecer una atención más temprana», dijo el autor principal, Waleed Razzaq Chaudhry, M.D. El resumen no ha sido revisado por pares y los resultados son preliminares."
+        }
+      ]
+    },
+    "medicine/who-europe-ai-framework": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+        },
+        {
+          "t": "p",
+          "x": "Los 53 Estados Miembros de la Región Europea de la WHO adoptaron por unanimidad la primera «Hoja de ruta para la acción sobre la inteligencia artificial en la salud» (Roadmap for action on artificial intelligence in health) de la Región, aprobada durante la 76.ª sesión del Comité Regional de la WHO para Europa. Establece una visión compartida para integrar la AI en los sistemas de salud de Europa y Asia Central."
+        },
+        {
+          "t": "p",
+          "x": "Dr Corinne Capuano, responsable en funciones (Officer-in-Charge) de WHO/Europe, afirmó: «La AI ya está cambiando la atención sanitaria en toda nuestra región… ¿Cómo garantizamos que la AI sea segura, eficaz y equitativa? ¿Cómo protegemos los derechos de las personas y nos ganamos su confianza? Son retos que ningún país puede resolver solo»."
+        },
+        {
+          "t": "p",
+          "x": "La hoja de ruta, que abarca 2026–2033, tiene 4 áreas prioritarias: gobernanza y liderazgo; marcos éticos, regulatorios y legales; datos e infraestructura digital; y desarrollo de capacidades, apoyo a la implementación y aprendizaje. Se basó en las respuestas de 50 de los 53 Estados Miembros de la Región a la primera evaluación regional de preparación en AI, publicada en 2025."
+        },
+        {
+          "t": "p",
+          "x": "Está alineada, entre otros, con la EU Artificial Intelligence Act, el European Health Data Space y el General Data Protection Regulation, e incluye una guía de implementación. Los Estados Miembros también apoyaron la creación de una nueva oficina de la WHO sobre AI."
+        }
+      ]
+    },
+    "medicine/llm-drug-brand-convergence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los investigadores evaluaron las recomendaciones de nombres de producto de cinco LLMs —GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 y MedGemma— mediante 177,120 viñetas clínicas sintéticas que abarcaban 123 pares enfermedad–fármaco y 1,440 perfiles sociodemográficos. Cada viñeta pedía al modelo recomendar productos FDA-approved (aprobados por la FDA) que contuvieran un principio activo determinado."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
+          "cap": "Fig. 1: Diseño del estudio y flujo de trabajo analítico."
+        },
+        {
+          "t": "p",
+          "x": "El producto recomendado con más frecuencia representó una media del 97.5% de las recomendaciones de primera elección, y los modelos mostraron un acuerdo casi perfecto (Fleiss’ κ = 0.895). Las recomendaciones se apartaron de la prescripción real: de 51 principios activos, 38 (74.5%) mostraron costes más altos, con un aumento anual estimado de US$55.6 millones."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
+          "cap": "Fig. 2: Consistencia de las recomendaciones de productos de los LLM entre viñetas y modelos."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos favorecieron los productos originales (OR 20.5) y los de mayor visibilidad en línea (recuentos de búsqueda en Google, OR 1.70; una página propia en Wikipedia, OR 3.00). Las instrucciones que pedían productos genéricos o de menor coste desplazaron las recomendaciones hacia los genéricos."
+        }
+      ]
+    },
+    "medicine/severance-cxr-lvef-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537580"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de investigación dirigido por los profesores Jung In-hyun y Bae Sung-ah, del departamento de cardiología del Hospital Severance de Yongin de la Universidad Yonsei, y el profesor Yoon Duk-yong, del Departamento de Informática de Sistemas Biomédicos de la Facultad de Medicina de Yonsei, informó el día 29 que publicó recientemente un estudio en el que desarrolló y validó un modelo de inteligencia artificial (AI) que predice la probabilidad de disfunción cardíaca a partir de imágenes de radiografía de tórax (X-ray)."
+        },
+        {
+          "t": "p",
+          "x": "La fracción de eyección del ventrículo izquierdo (LVEF) suele medirse mediante ecocardiografía, pero al requerir equipos y personal especializado capacitado, resultaba difícil de realizar en centros médicos pequeños. El equipo desarrolló y comparó dos modelos: el aprendizaje profundo directo (DDL) y el aprendizaje profundo híbrido (HDL), que utiliza los resultados de análisis de la AI de lectura de imágenes Lunit INSIGHT CXR."
+        },
+        {
+          "t": "p",
+          "x": "Para el desarrollo del modelo se usaron datos de 1만152 pacientes del Hospital Severance de Yongin; para la validación prospectiva, 505 pacientes que acudieron a urgencias o a consulta externa por disnea; y para la validación externa, datos de 3657 pacientes del Hospital de la Universidad Nacional de Seúl."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537581"
+        },
+        {
+          "t": "p",
+          "x": "El AUROC del modelo HDL fue de 0.85, superior al 0.61 del modelo DDL. En la validación prospectiva, el modelo HDL obtuvo 0.85 y el modelo DDL 0.57, y el AUROC de validación externa del modelo HDL fue de 0.73. El modelo HDL mostró una especificidad del 90~97% y un valor predictivo negativo del 91~98%."
+        },
+        {
+          "t": "p",
+          "x": "Los profesores Jung In-hyun y Bae Sung-ah afirmaron: \"Tras una validación clínica adicional, esperamos que pueda utilizarse como herramienta de apoyo para identificar a pacientes con sospecha de disfunción cardíaca en urgencias o en centros médicos con acceso limitado a la ecocardiografía\". Los resultados se publicaron en la revista internacional Scientific Reports."
+        }
+      ]
+    },
+    "medicine/galaxywatch-apnea-mfds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/537386",
+          "cap": "Samsung Electronics ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch para ayudar a gestionar la salud del sueño de forma más sistemática. Foto=Samsung Electronics"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics anunció el día 28 que ha mejorado la función de apnea del sueño (Sleep Apnea) del Galaxy Watch y que obtuvo la aprobación del Ministerio de Seguridad de Alimentos y Medicamentos (MFDS). La nueva función aprobada analiza con precisión, mediante un algoritmo de AI, el número de trastornos respiratorios por hora durante el sueño. Mientras que la función anterior solo detectaba la presencia o ausencia de signos de apnea del sueño, la versión mejorada clasifica el nivel de trastorno respiratorio del usuario en 3 niveles: leve, ocasional y frecuente."
+        },
+        {
+          "t": "p",
+          "x": "La apnea del sueño es una enfermedad en la que la respiración se detiene o disminuye repetidamente durante el sueño, y puede causar diversas complicaciones, como hipertensión, arritmia e ictus. Según la Fundación Nacional del Sueño de Estados Unidos, alrededor del 25% de los hombres y el 10% de las mujeres de Estados Unidos padecen apnea del sueño, pero muchos no lo saben."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden acceder a la función a través de la app Samsung Health Monitor y detectar signos de apnea del sueño si miden al menos 5 horas de sueño dos veces en un plazo de 10 días. La función está dirigida a personas de 18 años o más sin diagnóstico previo de apnea del sueño y no sustituye el diagnóstico ni la consulta médica profesional."
+        },
+        {
+          "t": "p",
+          "x": "En Corea, la nueva función se ofrecerá primero a partir de noviembre en el Galaxy Watch Ultra2, el Watch9 y el Galaxy Ring, y después se ampliará de forma progresiva a modelos existentes como el Galaxy Watch7 y el Watch8 con Wear OS 7.0 o superior. Choi Jong-min, vicepresidente del Grupo de Desarrollo de Salud de la división MX de Samsung Electronics, afirmó: \"La apnea del sueño es una señal difícil de notar en la vida diaria\"."
+        },
+        {
+          "t": "p",
+          "x": "La función de apnea del sueño de Samsung Electronics obtuvo la autorización como software de dispositivo médico (SaMD) del MFDS en septiembre de 2023, la aprobación 'De Novo' de la FDA de Estados Unidos en febrero de 2024 y la aprobación de ANVISA de Brasil en 2025, y actualmente está disponible en 84 países."
+        }
+      ]
     }
   }
 }

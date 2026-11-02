@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "section": "science",
   "items": [
     {
       "tool": "Science",
+      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
-      "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
-      "source": "Phys.org",
-      "subgroup": "life_science",
-      "published_iso": "2026-10-31T15:00:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
-      "excerpt": "Vanderbilt's MutexaGPT uses LLM agents to turn plain-language, intuition-based enzyme requests into physics-based enzyme models and proposed mutations (Nature Computational Science).",
-      "rationale": "Freshest item in the pool, peer-reviewed (Nature Computational Science): LLM agents turn plain-language intuition into physics-based enzyme design, a new research workflow."
-    },
-    {
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "New AI tool helps scientists identify bacteria hidden in soil",
-      "url": "https://phys.org/news/2026-10-ai-tool-scientists-bacteria-hidden.html",
-      "source": "Phys.org",
-      "subgroup": "life_science",
-      "published_iso": "2026-10-29T22:00:02-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-helps-scie-3.jpg",
-      "excerpt": "BBERT, a DNA language model, classifies 100-base soil-DNA fragments as bacterial (~90% accuracy) and finds reading frames (~96%) without reference databases, cutting genome reconstruction from ~66 to 25 hours (Nucleic Acids Research).",
-      "rationale": "Reference-free DNA language model with hard numbers (90%/96%, 66h to 25h) in Nucleic Acids Research; microbial ecology, no soil-metagenomics story in history."
-    },
-    {
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "title": "AI often passes for human, but asking follow-up questions can trip it up",
-      "url": "https://techxplore.com/news/2026-10-ai-human.html",
+      "title": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
+      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
       "source": "Tech Xplore",
-      "subgroup": "cognition",
-      "published_iso": "2026-10-29T08:20:04-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-often-fools-human-j.jpg",
-      "excerpt": "In 72,000+ judgments of output from 636 people and 37 AI models across six language and vision tasks, judges often mistook AI for human, but live follow-up questioning exposed chatbots better as conversations grew longer (Nature Human Behaviour).",
-      "rationale": "Large-scale Nature Human Behaviour study (72,000+ judgments, 37 models) with a usable finding: follow-up questioning unmasks AI. A distinct study from the 10-21 Turing-test dispute piece."
+      "published_iso": "2026-11-02T09:40:10-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+      "excerpt": "University of Osaka researchers built an automated robotic platform that records antisolvent droplet behavior during perovskite film fabrication; machine learning sorted the variables to find an optimal processing window, yielding a 24.4%-efficient cell (ACS Nano).",
+      "rationale": "Fresh (11-02) self-driving-lab materials result with a concrete number (24.4% cell), peer-reviewed in ACS Nano."
     },
     {
       "tool": "Science",
+      "category": "science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Space outposts beyond the Moon may rely on planetary AI",
-      "url": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
-      "source": "Universe Today",
-      "subgroup": "astronomy",
-      "published_iso": "2026-10-31T19:24:37+00:00",
-      "og_image": "https://www.universetoday.com/article_images/500_landing_regions_cutaway_20261031_191707.png",
-      "excerpt": "Ohio State's LUMINA builds on lunar vision-language model LLaVA-LE to plan multistep analyses, rank candidate lunar landing sites and explain its evidence (presented at AAS DPS 58).",
-      "rationale": "New planetary-science AI system (LUMINA, AAS DPS 58) that ranks lunar landing sites and explains its evidence; fills the astronomy slot and adds a third outlet."
+      "title": "Humanoid AI connects walking and object handling without demonstrations of complete task sequences",
+      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-11-02T16:00:26-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
+      "excerpt": "Seoul National University's RISE vision-language-action model learns locomotion and manipulation from separately collected data and chains them into multistep tasks, scoring 87.3% vs 73.6% for a GR00T baseline in simulation and 50% vs 30% on a real Unitree G1 (IROS 2026).",
+      "rationale": "New robotics-learning method (IROS 2026) with sim and real-robot benchmarks against GR00T; distinct from the Gemini 4 Argon robotics card."
     },
     {
       "tool": "Science",
+      "category": "science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "AI framework cuts computing use by two-thirds while more than tripling success in virtual tasks",
-      "url": "https://techxplore.com/news/2026-10-ai-framework-thirds-tripling-success.html",
-      "source": "Tech Xplore",
-      "subgroup": "research_automation",
-      "published_iso": "2026-10-26T12:00:00-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-cuts-comp.jpg",
-      "excerpt": "SKKU's SAG lets an agent gauge its own uncertainty and request feedback only when worth it, cutting compute to about a third and raising virtual-task success from 24.6% to 78.3%; companion VAN-Flow RL filters lucky successes (NeurIPS 2026).",
-      "rationale": "NeurIPS 2026 method with concrete gains (compute cut to about a third, success 24.6% to 78.3%) from uncertainty-aware feedback requests; new agent-learning result, no prior coverage."
+      "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
+      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
+      "source": "Phys.org",
+      "published_iso": "2026-10-28T07:00:08-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
+      "excerpt": "Oxford chemists used machine-learning-driven atomistic simulations with quantum-mechanical accuracy to follow PVDC as it is heated, showing how five- and seven-membered carbon rings form and keep the material from ordering into graphite (Chemical Science) — relevant to battery anode hard carbon.",
+      "rationale": "ML interatomic potentials explaining a real materials mechanism (hard-carbon anodes); pure chemistry, peer-reviewed."
+    },
+    {
+      "tool": "Science",
+      "category": "science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery",
+      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery",
+      "source": "Quantum Computing Report",
+      "published_iso": "2026-10-29T02:12:19+00:00",
+      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png",
+      "excerpt": "University of Gothenburg and Chalmers researchers built a modular graph-neural-network decoder for surface-code quantum error correction that handles both memory and lattice-surgery operations and outperforms traditional decoders.",
+      "rationale": "Separate research group and architecture (GNN, lattice surgery) from the published Yonsei Mamba decoder; adds the quantum axis."
+    },
+    {
+      "tool": "Science",
+      "category": "science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "title": "Sentira Brings Claude's AI to 10x Genomics' Chromium Platform",
+      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/",
+      "source": "GEN",
+      "published_iso": "2026-11-02T15:08:21Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg",
+      "excerpt": "10x Genomics launched Sentira, an Anthropic Claude-powered AI platform designed to accelerate analysis of single-cell data from its Chromium instruments.",
+      "rationale": "Product launch that changes how single-cell biologists analyze data tomorrow; research-tool, not patient-facing."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html": {
+      "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
+        "nearest": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-tool-scientists-bacteria-hidden.html": {
+      "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html",
+        "nearest": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-ai-human.html": {
+      "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-dispute-ai-turing.html",
+        "nearest": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html",
         "new_action": ""
       },
-      "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai": {
+      "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery": {
         "verdict": "new",
-        "nearest": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+        "nearest": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-ai-framework-thirds-tripling-success.html": {
+      "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Live Science '10 minutes of AI assistance erodes motivation' (same study as EurekAlert 1147258, published 10-10); Physics World optical deepfake detection (same 97.8% optical study as ScienceDaily 10-02, already dropped on 10-30; nearest in digest techxplore 10-13 light-offloading); MIT 'symmetry-aware AI for prenatal diagnosis' (already published in medicine on 10-21, cross-section). Within-pool: 'AIs fail to reliably detect AIs in reverse Turing tests' dropped as the same Turing-test theme as the NTU pick (and related to 10-21). Medicine-boundary skips (clinical/patient-facing, belong to medicine): Google TB screening, Google maternal ultrasound, ScienceDaily REDMOD pancreatic cancer, ScienceDaily retatrutide Reddit side effects. Skipped on scoring/diversity: surfaceome Claude-agent study (Phys.org already at cap of 2; bioRxiv preprint, BBERT preferred as peer-reviewed), Live Science recursive self-improvement (survey/feature, low novelty), Scientific American REA interview (software reverse engineering, not AI-for-science; interview). Cross-section: medicine candidate pool and history digest checked, so none of the picks appears there. The full published_urls.json was not exhaustively grepped (no grep tool available), so non-medicine sections were spot-checked only."
+    "note": "Dropped as duplicates: Live Science '10 minutes AI assistance erodes motivation' (same study as 10-10 EurekAlert card 1147258); Physics World optical deepfake detector (likely the same light-based low-energy network as 10-13 Tech Xplore 'Offloading part of the computational burden onto light'). Skipped on fit/quality: FAU quantum ML lung-cancer prediction (clinic-facing, medicine), Parse/Nomic dataset (business), Live Science 'could AI build itself' and SciAm voice-clone explainer and Psychology Today blog (commentary/evergreen), MIT profiles/Q&A, DeepMind Minecraft agents (Oct 20, games-adjacent), Pritzker prize (award; AI-antibiotic work leans medicine), ZenBio enzyme platform and empathy study (outlet/topic diversity; enzyme card ran 11-02). Cross-section check: published_urls.json is too large to scan fully with Read-only tools (3,843 lines); orchestrator should exact-grep the 5 picked URLs and 'Sentira' across all sections before roll."
   }
 }

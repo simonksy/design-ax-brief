@@ -10474,6 +10474,153 @@
           "x": "エージェントはこのモデルを主要なサードパーティモデルと併用する。一般的なタスクは約20%速くなり、新しいエージェントは62%のケースで従来の本番エージェントを上回るか同等だった。ユーザー評価は33%高く、ユーザーが作業を取り消す頻度は60%減った。"
         }
       ]
+    },
+    "design/runway-dev-coding-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png"
+        },
+        {
+          "t": "p",
+          "x": "本日、Claude Code、Codex、Cursor向けのRunway Devプラグインを公開する。一度インストールするだけで、Runway Dev MCPを通じてコーディングエージェントがRunway Devアカウントにつながり、APIを使った開発のためのRunwayのスキルが加わる。ストアの全商品に製品動画を用意するといった欲しい機能を説明すれば、エージェントはエディタを離れることなく端から端まで作り上げる。"
+        },
+        {
+          "t": "p",
+          "x": "セットアップ：エージェントはまずRunway Devアカウントを読み込む。利用できるプロジェクト、各プロジェクトで使えるモデルとその価格・上限、クレジット残高が対象だ。構築：エージェントはエディタから直接、リクエストごとに適切なモデルを選ぶModel Routerや、リアルタイムアバター用のCharacterを作成する。よくある用途では、Recipesや、チームがAPIエンドポイントとして公開したWorkflowsを土台にする。デバッグ：タスクが失敗すると、エージェントはエラーの詳細を調べ、Model Routerがなぜそのモデルを選んだのかを確認する。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントが初めて使うときに、Runway Devアカウントでサインインする。プラグインにAPIキーは保存されない。Runway Devは、インディー開発者や技術系の創業者からプロダクトエンジニア、プロダクトマネージャーまで、コーディングエージェントに指示して製品を出すすべての人に向けて作られている。"
+        }
+      ]
+    },
+    "design/character-creator-52-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2は、Reallusionのキャラクター制作ソフトに新しいAIモデル生成ツールセットを加え、参照画像からキャラクター、衣服、髪を生成できるようにした。"
+        },
+        {
+          "t": "video",
+          "yt": "cm9GlStqHQk"
+        },
+        {
+          "t": "p",
+          "x": "Character Creator 5.2では、AI 3DモデルジェネレーターとCC Wrapという二つの主要ツールセットが導入された。モデルジェネレーターはサードパーティの生成AIモデルを使い、参照画像から3Dキャラクター、衣服、ヘアスタイル、アクセサリーを生成する。ローポリのトポロジーにはTripo P2.0を、ハイポリのディテールにはTripo H3.1とHunyuan V3.1を用いる。補助的なコンセプトデザインモジュールは、生成AIで3Dメッシュ生成向けに調整した単一視点の参照画像を作る。"
+        },
+        {
+          "t": "p",
+          "x": "CC Wrapは、ほかのDCCアプリケーションで手作業でスカルプトした、あるいはAIで生成したヒューマノイドキャラクターなどのカスタム3Dキャラクターを、ReallusionのCC3+およびCC5 HD形式に変換し、ラッピング完了後にキャラクターを自動でリギングする。その他の機能として、AI Mesh Generatorは1-4枚の参照画像から3Dモデルを生成し、AI Polygon ReductionはTripo AIを使ってモデルを均一なクアッドメッシュにリメッシュする。GLB形式の3Dモデルのインポートにも対応した。"
+        },
+        {
+          "t": "p",
+          "x": "AI Mesh Generationツールセットは、姉妹ツールのiClone 8.76でも利用できる。"
+        }
+      ]
+    },
+    "design/cisco-pubhub-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png"
+        },
+        {
+          "t": "p",
+          "x": "長いあいだ、私たちのUI/UXワークフローはおなじみの型に従っていた。デザイナーがFigmaで画面を作り、開発者がそのデザインをコードに置き換える。DevNetの社内出版ツールであるPubHubを今回刷新するにあたってはスピードが求められたため、ユーザーストーリーとバックエンドのAPIsから、AIに直接インターフェースを作らせてみた。AIが生成した(AI-generated)バージョンは端から端まで動作したが、アプリは私たちのビジュアル言語に沿っていなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-landing-page-before-after.png",
+          "cap": "ランディングページの改修前と改修後"
+        },
+        {
+          "t": "p",
+          "x": "Figma MCP接続でHTMLページをFigmaに変換しようとすると、三つの問題に突き当たった。変換の過程で細部が失われ、更新に想定以上の時間がかかり、何が正なのかが曖昧になった。そこでAIコーディングツールで既存のプロトタイプを読み取り、HTMLを直接調整することにした。HTMLプロトタイプが唯一の正となった。"
+        },
+        {
+          "t": "p",
+          "x": "プロジェクトの途中でデザイナーはトークンを使い切り、CursorからClaude、さらにCodexへと乗り換えた。それでも作業が途切れなかったのは、特定のツールではなくHTMLの成果物がデザインの状態を保持していたからだ。デザイナーは毎日新しい版を出せた。従来のFigma先行のプロセスでは、ページ一つに数日かかっていた。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-ai-powered-interface-workflow.png",
+          "cap": "AIを活用したインターフェースワークフロー"
+        },
+        {
+          "t": "p",
+          "x": "デザイナーは更新したHTML成果物を、デザインシステム、ペルソナフロー、変更履歴とともに共有する。開発者がそれをコーディングエージェントに渡すと、エージェントがデザインの変更を実際のプロジェクトに反映する。"
+        }
+      ]
+    },
+    "design/christy-cad-claude-rebuild": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
+        },
+        {
+          "t": "p",
+          "x": "一つのCADプログラムを、613 kHzのHP-85から音声で製図するMac M4まで受け継いできたことで、正確さと速さ、そして次に読む人が予備知識なしで引き継げるコードの書き方を学んだ。——John M. Christy(CADD/85、CADD 200/300、C3の作者)"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/img_Running_HP_85_with_BASIC_listing_2012.jpg",
+          "cap": "HP-85コンピューター。(画像:Wolfgang Stief/Wikimedia)"
+        },
+        {
+          "t": "p",
+          "x": "書き直しは2025年10月ごろに始まった。早い段階から、Pascalのコードの一部をClaudeに渡して分析とコメントを任せるようになり、それがAppleのコードの始まりとなった。私はコードを書くプログラマーであることをやめ、何を作るかを決めるプロデューサー兼ディレクター、そして出荷の可否を判断する品質管理テスターになった。現在C3と呼ばれるこのプログラムは、2026年2月までに機能が出そろった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/12-C3-2026-Hardy-MPC-1-schematic.jpg",
+          "cap": "John Hardyが開発した回路図を表示したC3のインターフェース。(画像:John M. Christy)"
+        },
+        {
+          "t": "p",
+          "x": "Claudeをプログラミングのパートナーにすると、アイデアと実装、テストが数か月ではなく数分で済むこともある。新しいコードをコミットする前には二千近いテストが走る。C3は今や二百を超える音声コマンドを理解し、9月にはアシスタントになった。言語モデルがプログラム独自のコマンドカタログを通じてプログラムを操作し、リクエスト一つにつき取り消しは一段階、操作は口述で行う。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/11/14-C3-2026-assistant-bolt-circle-flange-with-panel-scaled.jpg",
+          "cap": "C3のアシスタントがすべて描いたボルト円フランジ。(画像:John M. Christy)"
+        }
+      ]
+    },
+    "design/adobe-editagent-toolpicker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobeの研究者が、汎用エディターと専用ツールを組み合わせた画像編集用のAIエージェントを開発した。Adobe ResearchとUC San Diegoの研究者は、EditAgentをPhotoshopを使いこなすプロのように動かすことを目指している。タスクごとに適切なツールを選び、結果を原画像と具体的な数値で比較するのだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-01-overview.jpg",
+          "cap": "同じエディターで何度もやり直す代わりに、EditAgentは異なる手法で候補を並列に生成し、手を加えていない言語モデルにそれらを一度に比較させる。 | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "五人のプロがブラインド評価した600件の画像編集テストで、汎用エディターのFlux-2-Klein-9B は42.7パーセントのケースで使える結果を出せなかった。専用ツールはその失敗の約三分の二を解決した。プロがどちらかを選んだ比較のうち78.5パーセントで、原画像から並列に生成したバリエーションが好まれた。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/editagent-03-architecture.jpg",
+          "cap": "EditAgentは依頼を依存関係のあるステップに分解し、ステップごとに複数の候補を生成する。 | Image: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "判定モデルはバリエーションごとに検証記録を受け取る。編集部分のクローズアップ、変化マップ、測定した明るさと色の統計が含まれる。これにより、テストした七つの言語モデルすべてが、あらゆるファインチューニング済みモデルを上回った。Qwen3.8-27B は81.3パーセントのケースで使える候補を選び、EditScore-72B は74.8パーセントだった。"
+        },
+        {
+          "t": "p",
+          "x": "EditAgentは、後の編集が先の編集を打ち消していないかも確認する。単一のエディターの約十倍の計算量を要するが、検証済みの約26,000件の事例によって、ファインチューニングしたエディターは三つのベンチマークすべてで性能が向上した。"
+        }
+      ]
     }
   }
 }
