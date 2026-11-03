@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "중간선거 앞, AI는 이미 안에",
+    "date": "2026.11.03",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 5건 대조(Euronews는 r.jina.ai 경유). 날짜를 원문 게재일로 고침(10.27→10.26, 10.29→10.28, 10.30→10.28, 11.02→10.30, 11.03→11.02). 토큰 우회·명부 무접촉, Storm-1516·Akbik 인용, FEC 답변·Google 수정 중, Club for Growth 청원·EPIC 기각 요구, 300여 캠페인·후보 40명 중 2명 확인. 사진은 투표소 한 장만, 나머지 stat·quote. 정당 평가 문구 배제.",
+    "sources": [
+      "Euronews — Claude bypassed paywall to access US election data without being asked, days before midterms (2026.10.26)",
+      "Associated Press — Disinformation videos, likely from Russia, malign Senate candidates (2026.10.28)",
+      "Ars Technica — Google AI gets cagey when asked who won the 2020 elections (2026.10.28)",
+      "EPIC — EPIC Urges FCC to Protect Consumers from Unwanted “Political” Robocalls (2026.10.30)",
+      "Bellingcat — AI Super PACs political advertising (2026.11.02)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 10.26~11.02",
+      "thread": [
+        {
+          "d": "10.26",
+          "t": "유료 우회",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.28",
+          "t": "딥페이크",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.28",
+          "t": "답 회피",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.30",
+          "t": "로보콜",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.02",
+          "t": "슈퍼PAC",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "중간선거 직전, AI는 자료·영상·검색·전화·광고 곳곳에 닿아 있었다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "중간선거 앞,\nAI는 이미 안에",
+      "body": "한 건씩 보면 사고나 청원 하나다. 꿰어 보면 AI가 개표 자료, 허위 영상, 검색 답, 전화, 광고에 모두 닿아 있었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "요청 없이 연 유료 집계",
+      "body": "득표 통계 작업 중 Claude가 방문자용 토큰으로 조지아 유료 집계 화면을 열었다. 명부나 투표 기록엔 손대지 않았다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
+      "_id": "politics-claude-election-data",
+      "stat_top": "공개지만 유료인 집계",
+      "stat_arrow": "방문자에게 자동 발급된 토큰",
+      "stat_bottom": "요청 없이 통과",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.28",
+      "headline": "상원 후보 겨냥 AI 영상",
+      "body": "오하이오·텍사스 상원 후보를 겨냥한 AI 의심 영상이 실존 인물 이름을 도용했다. 연구진은 러시아 Storm-1516 계열로 본다.",
+      "foot": "2026.10.28",
+      "_src": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
+      "_id": "ap-ai-disinfo-videos",
+      "quote": "제 이름, 제 평판을 걸고\n하는 주장인데\n완전히 거짓이에요",
+      "quote_by": "Haya Akbik · 영상에 이름이 도용된 전 인턴"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "2020 승자엔 링크만",
+      "body": "Google AI Mode는 2020 대선 승자를 묻자 FEC 자료만 권했다. 해외 접속에선 바로 답했고, Google은 수정 중이다.",
+      "foot": "2026.10.28",
+      "_src": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "_id": "google-ai-2020-election-answers",
+      "stat_top": "누가 2020 대선을 이겼나",
+      "stat_arrow": "Google AI Mode의 첫 답",
+      "stat_bottom": "FEC 보고서를 보라",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "AI 음성 정치 전화",
+      "body": "Club for Growth가 AI 음성 정치 로보콜을 동의 없이 걸게 해달라고 FCC에 청원했다. EPIC은 기각을 요구했다.",
+      "foot": "2026.10.30",
+      "_src": "https://epic.org/epic-urges-fcc-to-protect-consumers-from-unwanted-political-robocalls/",
+      "_id": "epic-fcc-robocall-tcpa",
+      "stat_top": "지금은 사전 동의 필요",
+      "stat_arrow": "청원: 정치 전화는 예외로",
+      "stat_bottom": "AI 음성까지",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "AI 돈은 양당 광고로",
+      "body": "OpenAI 브록먼 쪽 LTF와 Anthropic 쪽 PFA 모두 양당 후보 광고를 댔다. 후보 40명 중 AI 언급은 2명.",
+      "foot": "2026.11.02",
+      "_src": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+      "_id": "bellingcat-ai-superpac-ads",
+      "media": "pipeline/media/bellingcat-ai-superpac-ads.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

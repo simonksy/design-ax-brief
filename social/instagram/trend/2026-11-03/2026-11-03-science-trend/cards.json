@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "AI, 소재 연구의 단계마다",
+    "date": "2026.11.03",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 4건(phys.org 차단, 파이프라인 full 요약으로 대조): 5,000여 편·2017년까지·CrCoFeMnNi, 로봇 팔 두 대·능동 학습·파이로클로어, MXenes 33종·11종, PVDC 오각·칠각 고리 확인. 촉매 사진은 *10-27 story에서 써서 stat로, 사진은 코팅 실험실 한 장만 둠. 날짜는 카드 게재일. 원문 게재일은 10.26·10.26·10.29·10.28(sources에 적음) — 카드 eyebrow는 브리프대로 카드 날짜.",
+    "sources": [
+      "Phys.org — Ahead of their time: Restricted to pre-2018 research, AI flags hydrogen catalyst reported in later experiments (2026.10.26)",
+      "Phys.org — AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings (2026.10.26)",
+      "Phys.org — Hidden and forgotten 2D materials are discovered with AI (2026.10.29)",
+      "Phys.org — Machine learning simulations reveal how plastic transforms into hard carbon (2026.10.28)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 10.27~11.03",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "문헌",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.27",
+          "t": "실험",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.30",
+          "t": "DB 발굴",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.03",
+          "t": "원리",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 소재 연구의 한 단계가 아니라 단계마다 들어서고 있다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI, 소재 연구의\n단계마다 들어서다",
+      "body": "한 건씩 보면 각기 다른 실험실 소식이다. 이어 보면 문헌 읽기, 실험 고르기, 데이터 캐기, 원리 풀이를 AI가 맡았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "옛 논문만 읽고\n훗날 촉매 짚다",
+      "body": "LLM이 논문 5,000여 편을 훑었다. 2017년까지의 지식만 주자 나중에 실험으로 확인된 수소 촉매 합금을 골랐다.",
+      "foot": "2026.10.27",
+      "_src": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html",
+      "_id": "science-hydrogen-catalyst",
+      "stat_top": "2017년까지의 논문만",
+      "stat_arrow": "LLM이 고른 수소 촉매",
+      "stat_bottom": "CrCoFeMnNi",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.27",
+      "headline": "로봇 실험실이\n다음 시료를 고른다",
+      "body": "Nottingham에선 로봇 팔 두 대가 시료를 섞어 굽고, AI 능동 학습이 다음에 시험할 조성을 골라 내열 코팅 후보를 만든다.",
+      "foot": "2026.10.27",
+      "_src": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
+      "_id": "science-coatings-lab",
+      "media": "pipeline/media/science-coatings-lab.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "DB 속 잊힌\n2D 소재를 캐다",
+      "body": "Linköping 연구진이 AI로 소재 데이터베이스를 뒤져 아무도 눈여겨보지 않던 MXenes 33종을 찾고, 11종을 새로 합성했다.",
+      "foot": "2026.10.30",
+      "_src": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
+      "_id": "linkoping-mxene-mining",
+      "stat_top": "놓쳐 온 MXenes 33종",
+      "stat_arrow": "그중에서 새로 합성",
+      "stat_bottom": "11종",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "머신러닝이 푼\n하드카본의 원리",
+      "body": "옥스퍼드는 머신러닝 원자 시뮬레이션으로 가열한 PVDC를 추적했다. 섞여 든 오각·칠각 고리가 흑연화를 막았다.",
+      "foot": "2026.11.03",
+      "_src": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
+      "_id": "oxford-pvdc-hard-carbon",
+      "stat_top": "가열한 PVDC",
+      "stat_arrow": "오각·칠각 고리가 구조를 휨",
+      "stat_bottom": "흑연 대신 하드카본",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

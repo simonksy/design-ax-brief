@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "흥행은 놓쳐도 제작 라인은 깐다",
+    "date": "2026.11.03",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 curl 대조(TechNode 2건·Cartoon Brew·China Daily). 게재일 10.23·10.26·10.27·11.02로 시간순 재배열(아카이브 날짜 10.27·10.29·10.29·11.03 아님). 수치 480p·4K·10-bit, RMB1.21M($181,000)·$1.5M+·10월 23일 개봉, 자체 모델 3개(DreamScript·Anycook·DreamShot), 약 110㎡·NadouPro·모델 30개 가까이·Cop in Trouble 확인. 사진은 iQIYI 한 장, 산싱두이는 영상, 나머지 둘은 stat.",
+    "sources": [
+      "TechNode — ByteDance launches Seedance 2.5 4K video model for film production (2026.10.23)",
+      "Cartoon Brew — China's First AI Feature Flops At The Chinese Box Office (2026.10.26)",
+      "TechNode — ByteDance launches AI studio for short-drama production (2026.10.27)",
+      "China Daily — iQIYI opens AI film studio in Shanghai, starts first production (2026.11.02)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.23~11.02",
+      "thread": [
+        {
+          "d": "10.23",
+          "t": "4K 모델",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.26",
+          "t": "흥행 참패",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.27",
+          "t": "숏드라마",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.02",
+          "t": "AI 스튜디오",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "중국 AI 영화는 한 편의 흥행이 아니라 제작 라인을 깔며 나아간다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "흥행은 놓쳐도\n제작 라인은 깐다",
+      "body": "장편 한 편만 보면 참패다. 그런데 같은 열흘 남짓 ByteDance와 iQIYI는 4K 모델과 스튜디오로 제작 공정을 깔았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.23",
+      "headline": "영화판 겨냥한\n4K 생성 모델",
+      "body": "ByteDance Volcano Engine의 Seedance 2.5 4K. 480p 초안으로 샷을 다듬은 뒤 최종본만 4K로 뽑는다.",
+      "foot": "2026.10.23",
+      "_src": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
+      "_id": "seedance25-4k",
+      "stat_top": "초안 480p",
+      "stat_arrow": "샷·스토리보드를 다듬은 뒤",
+      "stat_bottom": "최종 4K · 10-bit",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "첫 AI 장편,\n극장에선 참패",
+      "body": "10월 23일 개봉한 Sanxingdui: Future Past는 월요일까지 $181,000에 그쳤다. 제작비는 $1.5M 이상.",
+      "foot": "2026.10.26",
+      "_src": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html",
+      "_id": "movies-sanxingdui-flop",
+      "video": "pipeline/media/movies-sanxingdui-flop.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "숏드라마 공정을\n한 흐름으로",
+      "body": "ByteDance Jimeng AI가 각본·캐릭터·콘티·영상·후반 작업을 한 흐름으로 묶은 숏드라마 스튜디오를 열었다.",
+      "foot": "2026.10.27",
+      "_src": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+      "_id": "jimengstudio",
+      "stat_top": "각본 DreamScript",
+      "stat_arrow": "이미지 Anycook · 콘티 DreamShot",
+      "stat_bottom": "자체 모델 3개",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.02",
+      "headline": "iQIYI, 촬영장에\nAI 후반을 붙이다",
+      "body": "상하이 약 110㎡ 스튜디오 촬영분이 NadouPro로 넘어가 AI 모델 30개 가까이와 만난다. 첫 작품 Cop in Trouble.",
+      "foot": "2026.11.02",
+      "_src": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
+      "_id": "iqiyi-shanghai-ai-studio",
+      "media": "pipeline/media/iqiyi-shanghai-ai-studio.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
