@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "issue": "NYT, AI 스크래핑으로 Brave를 고소하다",
+    "date": "2026.11.02",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "The Verge(Jay Peters, 2026.11.02 17:51 UTC, Reuters 인용) 원문 대조. 법원(맨해튼 연방법원)·청구 내용(저작권 침해·DMCA)은 The Next Web(2026.11.02 17:14 UTC) 교차 확인 — Verge에는 법원 언급 없음. 소송은 두 건: NYT 단독, NY Daily News·Chicago Tribune·Orlando Sentinel 공동. 혐의는 모두 원고 주장으로 돌렸다. Brave는 논평 요청에 즉시 답하지 않음(Verge). 정정: 초안 제목 'New York Times Brave에…'는 잘린 자리표시 — 방향(NYT·신문사가 원고, Brave Software가 피고)은 맞음. 초안은 신문 3곳이 낸 소송을 NYT 소송과 섞었고 날짜를 브리프 날짜(11.03)로 썼다 → 기사 날짜 11.02. Lieberman 인용은 초안이 끝 문장만 옮겼는데 '뒷문' 대목을 살렸다. 미디어: 표지는 기사 리드 사진(NurPhoto via Getty, NYT 사옥 — 이미지 안에 구운 크레디트 없음, pipeline/media 원본 그대로), 3장은 Brave 공식 Search API og 이미지(brave.com/search/api). 나머지는 quote·stat.",
+    "sources": [
+      "The Verge — The New York Times sues Brave web browser for AI scraping and bypassing paywalls (2026.11.02)",
+      "The Next Web — New York Times and three other US papers sue Brave over AI scraping (2026.11.02)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 정책 · 2026.11.02",
+      "headline": "NYT, Brave를\nAI 스크래핑으로 고소",
+      "body": "The New York Times와 미국 신문 세 곳이 Brave Software를 고소했다. AI용 기사 수집과 페이월 우회를 문제 삼았다.",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/brave-nyt-scraping-suit.jpg",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "소송 2건",
+      "stat_arrow": "NYT · 신문 3곳",
+      "stat_bottom": "맨해튼 연방법원",
+      "stat_strike": false,
+      "eyebrow": "무슨 일인가",
+      "headline": "소송은 두 갈래",
+      "body": "NYT가 한 건, Daily News·Chicago Tribune·Orlando Sentinel이 한 건. 둘 다 저작권 침해를 주장한다.",
+      "foot": "2026.11.02",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "media": "src/brave-search-api.jpg",
+      "eyebrow": "무엇이 문제인가",
+      "headline": "AI 기업에 판\n‘Brave Index’",
+      "body": "세 신문의 소장은 Brave가 긁어모은 색인을 AI 기업에 유료로 열어줬다고 주장한다. Anthropic·Perplexity·xAI 등이 거론됐다.",
+      "foot": "2026.11.02",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "Brave는 AI 기업들에 권리도 없는 저널리즘으로 통하는 뒷문을 팔고 있습니다. 장물은 중고로 사도 합법이 되지 않습니다.",
+      "quote_by": "Steven Lieberman · 신문 3곳 측 변호사",
+      "eyebrow": "원고는 뭐라 하나",
+      "headline": "“뒷문을 팔았다”",
+      "body": "NYT도 Brave가 저작권법을 무시하고 침해를 멈추라는 요청을 거듭 외면했다고 주장한다.",
+      "foot": "2026.11.02",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "검색 색인",
+      "stat_arrow": "AI에 팔아도 되나",
+      "stat_bottom": "법원이 가린다",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "검색 색인과 AI,\n이제 법원으로",
+      "body": "Brave는 논평 요청에 바로 답하지 않았다. 검색 색인을 AI 재료로 파는 일이 어디까지 되는지, 이제 법원이 따진다.",
+      "foot": "2026.11.02",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
