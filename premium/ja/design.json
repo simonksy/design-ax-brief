@@ -10621,6 +10621,153 @@
           "x": "EditAgentは、後の編集が先の編集を打ち消していないかも確認する。単一のエディターの約十倍の計算量を要するが、検証済みの約26,000件の事例によって、ファインチューニングしたエディターは三つのベンチマークすべてで性能が向上した。"
         }
       ]
+    },
+    "design/figma-aem-eds-block-kit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AEM Edge Delivery Services(EDS)でサイトを構築している場合、デザイナーからFigmaのリンクが届くと、そのフレームをブロックとして手作業で作り直すことになる。decorate()のJS、スコープ付きCSS、Universal Editorモデルだ。aem-eds-kitはこれをコマンド一つにまとめる: eds block from-design \"<Figma frame link>\" --name hero."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
+          "cap": "デザインと、そこからedsが生成したEDSブロック"
+        },
+        {
+          "t": "p",
+          "x": "edsはFigmaのREST API、またはエージェントのFigma MCPサーバーを通じてフレーム(レイアウト、Auto Layout、テキストスタイル、Variables、バリアント、フレーム幅)を読み込み、キャッシュする。さらにEDSのルール、17種類のUniversal Editorフィールドタイプ、プロジェクトのデザイントークンを含むプロンプトを組み立て、すでに使っているAIコーディングエージェント(Claude Code、Cursor、Codex)がブロックを書く。eds自体はモデルを同梱しない。"
+        },
+        {
+          "t": "p",
+          "x": "続いて結果を検証する。ファイルが存在するか、decorate()がexportされているか、CSSがブロックにスコープされているか、Universal Editorモデルが有効かを確かめる。出力はhero.js、hero.css、_hero.jsonのUniversal Editorモデル、プレビューページで、作成者が埋めるまではプレースホルダーの文言と画像スロットが入る。"
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
+          "cap": "ブラウザでのブロックプレビュー"
+        },
+        {
+          "t": "p",
+          "x": "eds block preview、check、testはフレーム幅ごとにブロックを表示し、アクセシビリティを確認し、ビジュアルリグレッションテストを実行する。edsはFigmaのレート制限内に収まるよう、ブロックごとにFigmaを一度だけ呼び出し、その後はキャッシュを使う。このCLIはFramerやGoogle Stitchのページも扱え、ローカルモデル(Ollama、oMLX)でも動く。ライセンスはMIT(MIT-licensed)で、AdobeやFigmaとは無関係だ。"
+        }
+      ]
+    },
+    "design/vercel-mcp-deploy-card": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel MCPは、ChatGPTをはじめMCP Appsに対応したチャットクライアント内で、デプロイをインタラクティブなカードとして表示できるようになった。"
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
+        },
+        {
+          "t": "p",
+          "x": "カードにはデプロイのライブ状況、ビルドログ、ソースとコミットの詳細が表示され、デプロイURLの準備ができるとVisitボタンが現れる。ログをチャットに送ってモデルと一緒にデバッグしたり、全画面表示を開いてカードの下でログを読んだりできる。複数のプロジェクトにリンクされたリポジトリでは、プロジェクト一覧から切り替えられる。"
+        },
+        {
+          "t": "p",
+          "x": "このカードはVercel MCP初のMCP Appで、MCP Apps拡張の上に構築されている。アプリ非対応のクライアントには、デプロイ状態、プレビューURL、コミットがテキストで届く。open_deploymentsツールはプロジェクト、リポジトリ、コミットでデプロイを検索でき、環境で絞り込める。ChatGPTはConnectorsの設定からVercel MCPに接続する。"
+        }
+      ]
+    },
+    "design/eleken-code-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
+        },
+        {
+          "t": "p",
+          "x": "モックアップは承認された。だが開発が始まると、疑問が次々に出てきた。ElekenはさまざまなSaaSプロジェクトで同じ問題を目にしている。Figmaは必ずしもきれいにコードへ移せるわけではなく、インタラクションは実装すると挙動が変わり、結局は開発者が実装中にデザイン上の判断を下すことになる。そのため、コードベースのプロトタイピングが同社のプロセスの一部になった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
+          "cap": "Claudeで生成した品質管理ダッシュボードのプロトタイプ「Quality Task Center」"
+        },
+        {
+          "t": "p",
+          "x": "コードベースのプロトタイピングとは、実際のコードで、多くの場合は実際の製品と同じコンポーネントを使って、動作する製品を作ることだ。「Figmaは製品がどう動くべきかを示す。コードで作ったプロトタイプは、それが実際にどう動くかを試させてくれる」。広く引用されるIBMの数字では、欠陥修正の相対コストは設計段階で1倍、実装段階で6.5倍、テスト段階で15倍とされる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
+          "cap": "ソフトウェア欠陥修正の相対コスト"
+        },
+        {
+          "t": "p",
+          "x": "Elekenのデザイナーは、クライアントのリポジトリでClaude Codeなどのツールを使って作業する。製品をローカルで動かし、別ブランチでフローを作り、ブラウザ上で改良を重ね、ライブプレビューを共有する。承認された作業はPull Requestとしてクライアントのエンジニアに渡り、Elekenが本番環境にデプロイすることはない。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
+          "cap": "Elekenのデザイナーが作成したGitHub上のClaude Codeスキル"
+        },
+        {
+          "t": "p",
+          "x": "AIによってこのワークフローは大幅に速くなったが、自動化されるわけではない。Claude Codeなどのツールはコードベースを誤解したり、存在しない機能をでっち上げたり、エラーを持ち込んだりすることがあるため、AIの出力はやはりデザイナーが確認する必要がある。"
+        },
+        {
+          "t": "video",
+          "yt": "lGDHajtmcIE"
+        },
+        {
+          "t": "p",
+          "x": "プロトタイプを既存のコードベース内で動かす必要があるなら、CursorやClaude Codeが向いている。忠実度は、チームがすでに持っているツールではなく、検証したい問いに合わせて選ぶべきだ。"
+        }
+      ]
+    },
+    "design/creativebloq-ai-poster-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
+          "cap": "AIはなぜこの書体に執着するのか?(画像クレジット: Future)"
+        },
+        {
+          "t": "p",
+          "x": "AIが生成したアート(AI-generated)はオンラインに限らず、あらゆる場所にある。明らかにAIで作ったポスターが、カフェやレストラン、さらには地元の村の集会所にまで現れている。そして、毎回それを見破らせるものがひとつある。あの書体だ。荒々しい筆致、わずかに右上がりの傾き。声高でけたたましく、どこにでもあり、今ではComic Sansになぞらえられている。"
+        },
+        {
+          "t": "p",
+          "x": "デザイナーを雇う余裕のない小規模事業者は、AIが最初に出してきたものの一つで済ませることに満足するかもしれない。だがComic Sansは目的を持って手作りされた書体だった。Carrick SignsのMandy Roscoeによれば、それは「公式の告知を飾るためではなく、漫画の中のくだけた手書きの話し言葉をまねるため」に作られたという。"
+        },
+        {
+          "t": "p",
+          "x": "理由を尋ねると、ChatGPTは、画像生成ツールは数え切れないほどのポスターや広告、YouTubeのサムネイルから、太い筆致風のレタリングを人目を引くデザインと結びつけており、必ずしも実在のフォントを選んでいるわけではないと答えた。手作り感があり反骨的に見えるはずだったタイポグラフィが、今では紛れもなく人工的に見えるのだ。"
+        }
+      ]
+    },
+    "design/figma-weave-tldr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma Weaveは、継続的な制作ニーズを抱えるクリエイティブチーム向けのプラットフォームだ。Weaveは画像や動画の生成・編集プロセスを、チームで調整し再利用できる一連の手順に変える。作業はキャンバス上でつながったノードの形でまとまる。ノードとは、画像やプロンプトの追加、コンテンツの生成、編集を担う構成要素である。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+          "cap": "Figma Weaveのキャンバスでは、つながったノードが制作プロセスの各ステップを示す。"
+        },
+        {
+          "t": "p",
+          "x": "ブランチと呼ばれる別の経路を使えば、元の状態を残したまま、同じ起点から異なるプロンプトや編集を試せる。同じプロンプトを複数のAIモデルで実行し、結果を並べて比較することもできる。"
+        },
+        {
+          "t": "p",
+          "x": "編集ツールは、ほかのステップにつなげられるノードとして用意されている。色補正、コンポジター、レベル、トリム、クロップ、ペインターだ。Weaveツールはワークフローをひとまとめにし、チームメンバーがノードをたどったりプロンプトを一から書いたりせずに実行できるようにする。次の利用者は写真をアップロードしてGenerateをクリックするだけでよい。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaノードを使えば、Figma DesignのフレームをコピーしてWeaveに貼り付けられ、貼り付けたフレームは元のフレームとつながったままになる。Figma Designで元のフレームを変更すると、その変更はWeave内の対応するFigmaノードにも反映される。"
+        }
+      ]
     }
   }
 }

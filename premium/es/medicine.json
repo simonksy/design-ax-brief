@@ -3020,6 +3020,130 @@
           "x": "La función de apnea del sueño de Samsung Electronics obtuvo la autorización como software de dispositivo médico (SaMD) del MFDS en septiembre de 2023, la aprobación 'De Novo' de la FDA de Estados Unidos en febrero de 2024 y la aprobación de ANVISA de Brasil en 2025, y actualmente está disponible en 84 países."
         }
       ]
+    },
+    "medicine/medicine-hti5-ai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+          "cap": "Foto: ilustración, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "HHS está revirtiendo varios requisitos de certificación de IT sanitaria, entre ellos ciertas normas de transparencia de AI. La norma final HTI-5 de la ONC elimina 14 de los 60 criterios de certificación vigentes y revisa otros siete; la mayoría de los cambios entra en vigor el 28 de diciembre de 2026, y la ONC prevé un ahorro en costos regulatorios superior a $1.5 mil millones."
+        },
+        {
+          "t": "p",
+          "x": "La norma suprime la obligación de que los desarrolladores indiquen las fuentes de las recomendaciones de AI en las intervenciones de apoyo a la decisión basadas en evidencia y predictivas, junto con los requisitos de gestión de riesgos de dichas intervenciones."
+        },
+        {
+          "t": "p",
+          "x": "“La certificación ya no garantiza el acceso a información sobre el uso previsto, los datos de entrenamiento, el rendimiento o las limitaciones de una herramienta predictiva”, afirmó la abogada Mel Soliz. Recomienda que los líderes sanitarios incorporen sus propios requisitos de divulgación, validación y pruebas de sesgo en los contratos de compra de AI, en lugar de depender de la certificación federal."
+        },
+        {
+          "t": "p",
+          "x": "La norma también elimina los criterios de certificación voluntaria para las etiquetas de seguridad que protegen la información sanitaria sensible, algo que Soliz considera uno de los cambios más decepcionantes para los proveedores."
+        }
+      ]
+    },
+    "medicine/medicine-epic-inbox-drafts-jama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este estudio de cohorte retrospectivo examinó In Basket Augmented Response Technology de Epic, que genera respuestas AI-drafted a los mensajes del portal del paciente, en Columbia University Irving Medical Center. Analizó 983 154 primeras respuestas de 1542 clínicos a 272 091 pacientes entre el 1 de marzo de 2023 y el 15 de mayo de 2025; el despliegue a escala institucional llegó en diciembre de 2024."
+        },
+        {
+          "t": "p",
+          "x": "La adopción de la herramienta se asoció a un aumento del 8.6% en el tiempo total de respuesta a los mensajes, mientras que usarla en un mensaje concreto se asoció a una reducción del 29.5% en ese tiempo."
+        },
+        {
+          "t": "p",
+          "x": "El uso de la herramienta no se asoció a una reducción global de la carga de mensajes fuera de horario. Se vinculó con menos respuestas fuera de horario a consultas sobre resultados de pruebas recibidas en horario laboral, pero con más respuestas fuera de horario a mensajes recibidos fuera de horario."
+        },
+        {
+          "t": "p",
+          "x": "Los autores concluyen que la herramienta puede reducir la barrera para responder a ciertos mensajes, aunque no reduce la carga de manera uniforme."
+        }
+      ]
+    },
+    "medicine/medicine-mantis-pediatric-tumors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MANTIS (perfiles de metilación y redes neuronales artificiales para predicciones de supervivencia individualizadas y dependientes del tiempo) es una herramienta de AI de precisión para predecir la evolución del meduloblastoma y el ependimoma, construida con datos de matrices de metilación del DNA de todo el genoma de 2,786 pacientes."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+          "cap": "Fig. 1: Visión general de la arquitectura de la red neuronal y su entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Genera probabilidades de supervivencia individualizadas a lo largo de un periodo de 10 años y alcanza índices de concordancia de hasta 0.80 ± 0.07, superando significativamente los indicadores clínicos actuales. Se validó en tres cohortes independientes de ensayos clínicos con 898 pacientes con meduloblastoma."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+          "cap": "Fig. 5: La mayoría de los pacientes con MB de riesgo medio podrían beneficiarse de dosis de CSI más bajas."
+        },
+        {
+          "t": "p",
+          "x": "Ampliado para estimar efectos individualizados del tratamiento, MANTIS identifica a ~60% de los pacientes con meduloblastoma de riesgo medio sin una desventaja significativa de supervivencia (P = 0.683) al tratarlos con dosis menos intensas de irradiación craneoespinal, lo que se asocia con mejores resultados neurocognitivos."
+        }
+      ]
+    },
+    "medicine/medicine-stanford-preterm-twins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Stanford Medicine crearon un modelo AI-enabled de los cambios del sistema inmunitario durante el embarazo y generaron “gemelos digitales” del sistema inmunitario de cada embarazada para hacer pruebas virtuales de fármacos. El estudio se publicó en línea el 21 de octubre en Science Advances."
+        },
+        {
+          "t": "p",
+          "x": "El sistema, llamado SIMCO (modelado inmunitario simulado de resultados clínicos), se entrenó con las respuestas de un cuarto de mil millones de células y datos longitudinales de 63 embarazos, y luego se usó para evaluar nueve pautas farmacológicas cuya seguridad en el embarazo ya se conocía."
+        },
+        {
+          "t": "p",
+          "x": "La combinación ganadora fue aspirina y lansoprazol. “En el sistema de gemelos digitales, estos dos fármacos combinados tuvieron un gran efecto en el retraso del parto, 15 veces mayor que la aspirina sola”, dijo el autor sénior, Brice Gaudilliere. También se observó que el ácido fólico retrasa la progresión inmunológica hacia el parto."
+        },
+        {
+          "t": "p",
+          "x": "La combinación retrasó el parto en un modelo animal, y los investigadores obtuvieron la aprobación de la FDA para probarla en un ensayo clínico en humanos."
+        }
+      ]
+    },
+    "medicine/athenahealth-claude-records": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "interfaz de tecnología sanitaria con integración de AI e iconos médicos"
+        },
+        {
+          "t": "p",
+          "x": "La empresa de historias clínicas electrónicas athenahealth abre los historiales de salud de los pacientes a asistentes de AI externos, empezando por Claude de Anthropic, mediante una nueva conexión diseñada para ofrecer a los pacientes respuestas personalizadas basadas en sus datos clínicos."
+        },
+        {
+          "t": "p",
+          "x": "La nueva solución de servidor, athenaPatient MCP, utiliza el Model Context Protocol para conectar Claude directamente con la plataforma athenaOne. Los pacientes se autentican con sus credenciales del portal del paciente de athenahealth y deciden a qué información puede acceder Claude. Las credenciales no se comparten con Claude y los pacientes pueden revocar el acceso en cualquier momento."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios de Claude Pro y Max en Estados Unidos (U.S.) pueden añadir el conector athenaPatient MCP en la configuración de Claude. Con el permiso del paciente, Claude puede consultar resultados de laboratorio, medicamentos, constantes vitales, afecciones de salud, informes diagnósticos, vacunas, historial de visitas, alergias, procedimientos y planes de atención."
+        },
+        {
+          "t": "p",
+          "x": "La empresa limitará el acceso a athenaPatient MCP a los asistentes de AI que no utilicen la información de los pacientes para entrenar sus modelos, dijo Paul Brient, director de producto y operaciones de athenahealth. «Claude es la primera conexión que hemos habilitado para athenaPatient MCP, pero no pretende ser la única», afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Más de un tercio (34%) de los adultos de Estados Unidos (U.S.) ha usado asistentes de AI con fines relacionados con la salud, según una encuesta de agosto del Pew Research Center. Brient dijo que el objetivo no era crear trabajo adicional para los clínicos: «No nos corresponde decidir qué asistente de AI deben usar los pacientes»."
+        }
+      ]
     }
   }
 }

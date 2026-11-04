@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "politics",
   "cards": [
     {
-      "id": "brave-nyt-scraping-suit",
+      "id": "politics-cjeu-szpunar-ai-news",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "New York Times\nBrave에 AI 소송",
-      "body": "New York Times 등이 AI 수집·페이월 우회로 Brave를 고소했다.",
-      "mini_headline": "NYT, Brave에 AI 소송",
+      "headline": "EU 법원 법무관\nAI 기사 재사용에 제동",
+      "body": "Szpunar 법무관은 Gemini 같은 챗봇도 EU 언론사권에 묶인다고 봤다.",
+      "mini_headline": "EU 법무관, AI 기사 재사용 제한",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "Euractiv (Rapporteur)",
+      "url": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,179 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-            "cap": "NurPhoto via Getty Images"
+            "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+            "cap": "Samuel Boivin/NurPhoto via Getty Images"
           },
           {
             "t": "p",
-            "x": "Reuters 보도에 따르면 The New York Times와 여러 언론사가 Brave 웹 브라우저 제작사를 고소했다. AI 학습용 콘텐츠를 불법으로 스크래핑하고 이용자의 페이월 우회를 도왔다는 혐의다."
+            "x": "EU 최고법원의 핵심 법률 자문관은 AI 기업이 모델 학습에는 저작권 데이터를 자유롭게 쓸 수 있지만 AI 답변에 언론 출판물을 쓰는 데는 제약이 따른다고 봤다. AI 연구소의 데이터 사용 범위가 유럽연합 사법재판소(CJEU)에서 다뤄진 것은 이번이 처음이다."
           },
           {
             "t": "p",
-            "x": "New York Daily News, Chicago Tribune, Orlando Sentinel이 낸 소장에 따르면 Brave Software는 스크래핑한 웹사이트 인덱스로 돈을 벌었다. AI 기업에 “Brave Index의 실시간(real-time) 온라인 콘텐츠”를 유료로 열어준 것도 그 방법 가운데 하나다. Brave는 Anthropic, Perplexity, Mistral, xAI, Cohere 등 “많은” AI 기업에 “도용된 저작권 콘텐츠”를 넘긴 혐의도 받는다. Brave는 “Paywall blocker” 기능으로 “수백 곳의 주요 언론사”를 볼 수 있다고 홍보하기도 한다."
+            "x": "Maciej Szpunar 법무관은 화요일 낸 구속력 없는 의견에서 EU 법의 텍스트·데이터 마이닝 예외에 따라 저작물 이용은 “원칙적으로 자유롭게 허용된다”고 밝혔다. CJEU가 법무관 의견에 법적으로 묶이지는 않지만 대개 그 권고를 따른다."
           },
           {
             "t": "p",
-            "x": "NYT 대변인 Graham James는 “Brave는 확립된 저작권법을 무시했고, 침해 행위를 멈추라는 The Times의 거듭된 요청도 외면했다”고 말했다. 나머지 언론사를 대리한 변호사 Steven Lieberman은 “Brave는 AI 업계를 위해 불법 복제한 기사를 세탁한 책임을 져야 한다”고 했다."
+            "x": "Szpunar는 이번 의견의 바탕이 된 사건의 질문은 각하하라고 법원에 권고했다. 헝가리의 한 언론사가 Google의 Gemini 챗봇이 자사 기사 하나를 재현할 수 있다고 주장한 사건인데, 그는 Google이 이 언론사 기사로 AI를 학습시켰다는 증거가 없다고 지적했다."
           },
           {
             "t": "p",
-            "x": "Brave, Anthropic, Mistral, SpaceXSI, Cohere는 논평 요청에 곧바로 답하지 않았다. Perplexity의 최고커뮤니케이션책임자 Jesse Dwyer는 “The New York Times는 변호사에게는 돈을 너무 많이, 기자에게는 너무 적게 주고 있다”고 말했다."
+            "x": "다만 챗봇이 답변을 만들려고 온라인 기사에 접근할 때는 여전히 언론사 권리를 침해할 수 있다고 했다. 페이월 우회처럼 기사에 불법으로 접근했는지, 챗봇이 “사실만 전달”하는지 아니면 기사의 “표현 형식”을 “알아볼 수 있는 방식”으로 재사용하는지에 따라 판단이 달라진다는 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "법무관은 침해가 사업 모델에 내재해 있거나 불법 웹 스크래핑 같은 침해를 막을 실효성 있는 조치가 없었다면 챗봇 운영사가 책임을 진다고 봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "New York Times sues Brave\nover AI scraping",
-          "body": "The New York Times and other publishers allege Brave scraped their content for AI and let users skip paywalls.",
-          "mini_headline": "NYT sues Brave over AI",
+          "headline": "EU court advisor flags limits\non AI reusing news articles",
+          "body": "Advocate General Szpunar said chatbots like Gemini face limits under EU press-publisher rights.",
+          "mini_headline": "EU advisor limits AI news reuse",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters."
+                "x": "AI companies may freely use copyrighted data for training models, per a key legal advisor to the EU’s top court, but restrictions apply to using press publications in AI answers. It’s the first time a discussion about how far AI labs are allowed to go in their data use has made it to the Court of Justice of the European Union (CJEU)."
               },
               {
                 "t": "p",
-                "x": "According to a complaint filed by the New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to “real-time online content from the Brave Index.” Brave has allegedly provided “stolen copyrighted content” to “many” AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere. Brave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature."
+                "x": "Issuing a non-binding opinion on Tuesday, the court’s advocate general Maciej Szpunar suggested that the use of copyrighted works “is, as a rule, freely permitted” under a text-and-data-mining exception in EU law. While the CJEU is not legally bound by advocate general opinions, the court usually follows the advice."
               },
               {
                 "t": "p",
-                "x": "“Brave has flouted established copyright law and ignored repeated requests by The Times to stop its infringing conduct,” NYT spokesperson Graham James said. Attorney Steven Lieberman, who filed on behalf of the other publications, said: “Brave must be held responsible for laundering pirated reporting for the AI industry.”"
+                "x": "Szpunar advised the court to declare inadmissible questions pertaining to the underlying case, in which a Hungarian press publisher had claimed that Google’s Gemini chatbot could reproduce one of its articles, arguing there was no evidence that Google had used the publisher’s articles to train its AI."
               },
               {
                 "t": "p",
-                "x": "Brave, Anthropic, Mistral, SpaceXSI, and Cohere didn’t immediately reply to a request for comment. Perplexity’s chief communications officer Jesse Dwyer said: “The New York Times is overpaying its attorneys and underpaying its journalists.”"
+                "x": "But he said chatbots might still infringe the press publisher’s right when accessing articles online to generate an answer — depending on whether the article was accessed unlawfully, for example by circumventing paywalls, and whether the chatbot “merely reports facts” or reuses the article’s “form of expression” in a “recognisable manner”."
+              },
+              {
+                "t": "p",
+                "x": "The company running a chatbot is liable if violations are inherent to its business model or it has failed to take effective measures to prevent infringements such as unlawful web scraping, the advocate general argued."
               }
             ]
           }
         },
         "ko": {
-          "headline": "New York Times\nBrave에 AI 소송",
-          "body": "New York Times 등이 AI 수집·페이월 우회로 Brave를 고소했다.",
-          "mini_headline": "NYT, Brave에 AI 소송",
+          "headline": "EU 법원 법무관\nAI 기사 재사용에 제동",
+          "body": "Szpunar 법무관은 Gemini 같은 챗봇도 EU 언론사권에 묶인다고 봤다.",
+          "mini_headline": "EU 법무관, AI 기사 재사용 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Reuters 보도에 따르면 The New York Times와 여러 언론사가 Brave 웹 브라우저 제작사를 고소했다. AI 학습용 콘텐츠를 불법으로 스크래핑하고 이용자의 페이월 우회를 도왔다는 혐의다."
+                "x": "EU 최고법원의 핵심 법률 자문관은 AI 기업이 모델 학습에는 저작권 데이터를 자유롭게 쓸 수 있지만 AI 답변에 언론 출판물을 쓰는 데는 제약이 따른다고 봤다. AI 연구소의 데이터 사용 범위가 유럽연합 사법재판소(CJEU)에서 다뤄진 것은 이번이 처음이다."
               },
               {
                 "t": "p",
-                "x": "New York Daily News, Chicago Tribune, Orlando Sentinel이 낸 소장에 따르면 Brave Software는 스크래핑한 웹사이트 인덱스로 돈을 벌었다. AI 기업에 “Brave Index의 실시간(real-time) 온라인 콘텐츠”를 유료로 열어준 것도 그 방법 가운데 하나다. Brave는 Anthropic, Perplexity, Mistral, xAI, Cohere 등 “많은” AI 기업에 “도용된 저작권 콘텐츠”를 넘긴 혐의도 받는다. Brave는 “Paywall blocker” 기능으로 “수백 곳의 주요 언론사”를 볼 수 있다고 홍보하기도 한다."
+                "x": "Maciej Szpunar 법무관은 화요일 낸 구속력 없는 의견에서 EU 법의 텍스트·데이터 마이닝 예외에 따라 저작물 이용은 “원칙적으로 자유롭게 허용된다”고 밝혔다. CJEU가 법무관 의견에 법적으로 묶이지는 않지만 대개 그 권고를 따른다."
               },
               {
                 "t": "p",
-                "x": "NYT 대변인 Graham James는 “Brave는 확립된 저작권법을 무시했고, 침해 행위를 멈추라는 The Times의 거듭된 요청도 외면했다”고 말했다. 나머지 언론사를 대리한 변호사 Steven Lieberman은 “Brave는 AI 업계를 위해 불법 복제한 기사를 세탁한 책임을 져야 한다”고 했다."
+                "x": "Szpunar는 이번 의견의 바탕이 된 사건의 질문은 각하하라고 법원에 권고했다. 헝가리의 한 언론사가 Google의 Gemini 챗봇이 자사 기사 하나를 재현할 수 있다고 주장한 사건인데, 그는 Google이 이 언론사 기사로 AI를 학습시켰다는 증거가 없다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "Brave, Anthropic, Mistral, SpaceXSI, Cohere는 논평 요청에 곧바로 답하지 않았다. Perplexity의 최고커뮤니케이션책임자 Jesse Dwyer는 “The New York Times는 변호사에게는 돈을 너무 많이, 기자에게는 너무 적게 주고 있다”고 말했다."
+                "x": "다만 챗봇이 답변을 만들려고 온라인 기사에 접근할 때는 여전히 언론사 권리를 침해할 수 있다고 했다. 페이월 우회처럼 기사에 불법으로 접근했는지, 챗봇이 “사실만 전달”하는지 아니면 기사의 “표현 형식”을 “알아볼 수 있는 방식”으로 재사용하는지에 따라 판단이 달라진다는 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "법무관은 침해가 사업 모델에 내재해 있거나 불법 웹 스크래핑 같은 침해를 막을 실효성 있는 조치가 없었다면 챗봇 운영사가 책임을 진다고 봤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "New York Times\nAI収集でBraveを提訴",
-          "body": "New York TimesなどがAI収集とペイウォール回避でBraveを提訴した。",
-          "mini_headline": "NYTがBraveをAIで提訴",
+          "headline": "EU司法裁の法務官\nAIの記事再利用に限界",
+          "body": "Szpunar法務官はGemini等のチャットボットにEU報道出版者権の制約が及ぶとした。",
+          "mini_headline": "EU法務官、AIのニュース再利用を制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Reutersの報道によると、The New York Timesをはじめとする複数の報道機関が、Braveウェブブラウザーを開発する企業を提訴した。AIの学習を目的に違法なスクレイピングを行い、さらにユーザーにペイウォールの回避を許したとしている。"
+                "x": "EU最高裁判所の主要な法律顧問によれば、AI企業はモデルの学習に著作権のあるデータを自由に使えるが、AIの回答に報道出版物を使うことには制限がかかる。AIラボがデータ利用でどこまで許されるかをめぐる議論が欧州連合司法裁判所（CJEU）に持ち込まれたのは、これが初めてである。"
               },
               {
                 "t": "p",
-                "x": "New York Daily News、Chicago Tribune、Orlando Sentinelが提出した訴状によると、Brave Softwareはスクレイピングしたウェブサイトのインデックスを収益化しており、その一環としてAI企業に「Brave Indexのリアルタイム(real-time)のオンラインコンテンツ」への有料アクセスを提供していた。BraveはAnthropic、Perplexity、Mistral、xAI、Cohereを含む「多くの」AI企業に「盗まれた著作権コンテンツ」を提供したとされる。Braveはまた、「Paywall blocker」機能で「数百の大手報道機関」にアクセスできると宣伝している。"
+                "x": "同裁判所のMaciej Szpunar法務官は火曜日に拘束力のない意見を示し、EU法のテキスト・データマイニング例外の下で、著作物の利用は「原則として自由に許される」との考えを示した。CJEUは法務官の意見に法的に拘束されないが、通常はその助言に従う。"
               },
               {
                 "t": "p",
-                "x": "「Braveは確立された著作権法を軽んじ、侵害行為をやめるよう求めるThe Timesの度重なる要請を無視してきた」と、NYTの広報担当Graham Jamesは述べた。他の報道機関を代理して訴えを起こした弁護士のSteven Liebermanは「BraveはAI業界のために海賊版の報道をロンダリングした責任を問われなければならない」と語った。"
+                "x": "Szpunarは、基となった事件に関する質問を不受理とするよう裁判所に勧告した。この事件では、ハンガリーの報道出版社が、GoogleのGeminiチャットボットが自社の記事の一つを再現できると主張していたが、Szpunarは、Googleが同社の記事でAIを学習させた証拠はないと指摘した。"
               },
               {
                 "t": "p",
-                "x": "Brave、Anthropic、Mistral、SpaceXSI、Cohereはコメント要請にすぐには応じなかった。Perplexityの最高コミュニケーション責任者Jesse Dwyerは「The New York Timesは弁護士に払いすぎ、記者には払わなさすぎている」と述べた。"
+                "x": "ただし、チャットボットが回答を生成するためにオンラインで記事にアクセスする際には、報道出版者の権利を侵害しうるとも述べた。それは、ペイウォールの回避など違法に記事へアクセスしたかどうか、またチャットボットが「事実を報じているだけ」か、記事の「表現形式」を「認識できる形で」再利用しているかによるという。"
+              },
+              {
+                "t": "p",
+                "x": "法務官は、侵害がビジネスモデルに内在している場合や、違法なウェブスクレイピングなどの侵害を防ぐ効果的な措置を講じていない場合、チャットボットを運営する企業が責任を負うと論じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "New York Times\n就AI抓取起诉Brave",
-          "body": "New York Times等出版商称Brave为AI抓取其内容，并让用户绕过付费墙。",
-          "mini_headline": "NYT就AI起诉Brave",
+          "headline": "EU法院总法务官\n称AI复用新闻受限",
+          "body": "Szpunar总法务官称，Gemini等聊天机器人受EU新闻出版者权利限制。",
+          "mini_headline": "EU总法务官：AI复用新闻受限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "据Reuters报道，The New York Times和其他多家出版物已对Brave网络浏览器的开发公司提起诉讼，指控其为训练AI非法抓取内容，并让用户绕过付费墙。"
+                "x": "据EU最高法院的一位重要法律顾问称，AI公司可以自由使用受版权保护的数据训练模型，但在AI回答中使用新闻出版物则受到限制。这是关于AI实验室在数据使用上能走多远的讨论首次进入欧盟法院（CJEU）。"
               },
               {
                 "t": "p",
-                "x": "根据New York Daily News、Chicago Tribune和Orlando Sentinel提交的诉状，Brave Software将其抓取的网站索引变现，方式之一是向AI公司提供“Brave Index实时（real-time）在线内容”的付费访问。诉状称，Brave向包括Anthropic、Perplexity、Mistral、xAI和Cohere在内的“众多”AI公司提供了“窃取的受版权保护内容”。Brave还宣传可通过其“Paywall blocker”功能访问“数百家顶级出版商”。"
+                "x": "该法院总法务官Maciej Szpunar周二发表不具约束力的意见，认为根据EU法律中的文本与数据挖掘例外，使用受版权保护的作品“原则上是自由允许的”。虽然CJEU在法律上不受总法务官意见约束，但法院通常会采纳其建议。"
               },
               {
                 "t": "p",
-                "x": "NYT发言人Graham James表示：“Brave无视既有的版权法，并对The Times多次要求其停止侵权行为的请求置若罔闻。”代表其他出版物提起诉讼的律师Steven Lieberman说：“Brave必须为替AI行业清洗盗版报道承担责任。”"
+                "x": "Szpunar建议法院驳回与基础案件相关的问题。在该案中，一家匈牙利新闻出版商声称Google的Gemini聊天机器人能够复现其一篇文章；Szpunar认为，没有证据表明Google使用了该出版商的文章来训练其AI。"
               },
               {
                 "t": "p",
-                "x": "Brave、Anthropic、Mistral、SpaceXSI和Cohere未立即回应置评请求。Perplexity首席传播官Jesse Dwyer表示：“The New York Times给律师付得太多，给记者付得太少。”"
+                "x": "但他表示，聊天机器人在线访问文章以生成回答时，仍可能侵犯新闻出版商的权利——这取决于文章是否被非法访问，例如绕过付费墙，以及聊天机器人是“仅报道事实”，还是以“可识别的方式”复用文章的“表达形式”。"
+              },
+              {
+                "t": "p",
+                "x": "总法务官认为，如果侵权行为是其商业模式所固有的，或公司未能采取有效措施防止非法网络抓取等侵权行为，运营聊天机器人的公司须承担责任。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The New York Times demanda\na Brave por scraping para AI",
-          "body": "The New York Times y otros editores acusan a Brave de extraer su contenido para AI y de permitir eludir muros de pago.",
-          "mini_headline": "NYT demanda a Brave por AI",
+          "headline": "Asesor del tribunal de la EU\nlimita el uso de noticias en AI",
+          "body": "Según el abogado general Szpunar, chatbots como Gemini tienen límites por derechos de editores de prensa de la EU.",
+          "mini_headline": "Asesor de la EU limita el reúso de noticias por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "The New York Times y un grupo de otras publicaciones han presentado demandas contra la empresa que desarrolla el navegador web Brave por un presunto scraping ilegal para entrenar AI y por permitir a los usuarios eludir sus muros de pago, según informó Reuters."
+                "x": "Las empresas de AI pueden usar libremente datos protegidos por derechos de autor para entrenar modelos, según un asesor jurídico clave del máximo tribunal de la EU, pero el uso de publicaciones de prensa en las respuestas de AI tiene restricciones. Es la primera vez que un debate sobre hasta dónde pueden llegar los laboratorios de AI en el uso de datos llega al Tribunal de Justicia de la Unión Europea (CJEU)."
               },
               {
                 "t": "p",
-                "x": "Según una demanda presentada por el New York Daily News, el Chicago Tribune y el Orlando Sentinel, Brave Software ha monetizado su índice de sitios web extraídos, en parte, ofreciendo a empresas de AI acceso de pago a “contenido en línea en tiempo real (real-time) del Brave Index”. Brave habría proporcionado “contenido protegido por derechos de autor robado” a “muchas” empresas de AI, entre ellas Anthropic, Perplexity, Mistral, xAI y Cohere. Brave también promociona “cientos de editores destacados” como accesibles mediante su función “Paywall blocker”."
+                "x": "En una opinión no vinculante emitida el martes, el abogado general del tribunal, Maciej Szpunar, sugirió que el uso de obras protegidas “está, por regla general, libremente permitido” en virtud de una excepción de minería de textos y datos de la legislación de la EU. Aunque el CJEU no está legalmente obligado por las opiniones de los abogados generales, el tribunal suele seguir su consejo."
               },
               {
                 "t": "p",
-                "x": "“Brave ha desafiado la legislación establecida sobre derechos de autor y ha ignorado las reiteradas peticiones de The Times para que cese su conducta infractora”, dijo el portavoz del NYT Graham James. El abogado Steven Lieberman, que presentó la demanda en nombre de las otras publicaciones, afirmó: “Brave debe rendir cuentas por blanquear periodismo pirateado para la industria de la AI”."
+                "x": "Szpunar aconsejó al tribunal declarar inadmisibles las cuestiones relativas al caso de fondo, en el que un editor de prensa húngaro sostenía que el chatbot Gemini de Google podía reproducir uno de sus artículos, y argumentó que no había pruebas de que Google hubiera usado los artículos del editor para entrenar su AI."
               },
               {
                 "t": "p",
-                "x": "Brave, Anthropic, Mistral, SpaceXSI y Cohere no respondieron de inmediato a una solicitud de comentarios. El director de comunicaciones de Perplexity, Jesse Dwyer, dijo: “The New York Times está pagando de más a sus abogados y de menos a sus periodistas”."
+                "x": "Pero dijo que los chatbots aún podrían vulnerar el derecho del editor de prensa al acceder a artículos en línea para generar una respuesta, según si el artículo se obtuvo de forma ilícita, por ejemplo eludiendo muros de pago, y si el chatbot “se limita a informar de hechos” o reutiliza la “forma de expresión” del artículo “de manera reconocible”."
+              },
+              {
+                "t": "p",
+                "x": "La empresa que opera un chatbot es responsable si las infracciones son inherentes a su modelo de negocio o si no ha adoptado medidas eficaces para evitar infracciones como el web scraping ilícito, argumentó el abogado general."
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "New York Times\nBrave에 AI 소송",
-          "body": "New York Times 등이 Brave를 AI 수집·페이월 우회로 제소했다.",
-          "mini_headline": "NYT, Brave에 AI 소송",
+          "headline": "EU 법원 법무관\nAI 기사 재사용에 제동",
+          "body": "Szpunar 법무관은 Gemini 등 챗봇이 EU 언론사권에 제약받는다고 봤다.",
+          "mini_headline": "EU 법무관, AI 기사 재사용 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Reuters 보도에 따르면 The New York Times와 다른 여러 언론사가 Brave 웹 브라우저 제작사를 상대로 소송을 제기했다. AI 학습을 위해 불법으로 콘텐츠를 스크래핑하고, 이용자가 페이월을 우회하도록 했다는 혐의다."
+                "x": "EU 최고법원의 핵심 법률 자문관에 따르면 AI 기업은 모델 학습에 저작권 데이터를 자유롭게 쓸 수 있지만, AI 답변에 언론 출판물을 쓰는 데는 제약이 따른다. AI 연구소가 데이터를 어디까지 쓸 수 있는지에 관한 논의가 유럽연합 사법재판소(CJEU)에 오른 것은 이번이 처음이다."
               },
               {
                 "t": "p",
-                "x": "New York Daily News, Chicago Tribune, Orlando Sentinel이 제기한 소장에 따르면 Brave Software는 스크래핑한 웹사이트 인덱스로 수익을 올렸고, 그 방법 중 하나로 AI 기업에 “Brave Index의 실시간(real-time) 온라인 콘텐츠”에 대한 유료 접근권을 제공했다. Brave는 Anthropic, Perplexity, Mistral, xAI, Cohere 등 “많은” AI 기업에 “도용된 저작권 콘텐츠”를 제공한 혐의를 받는다. Brave는 또 “Paywall blocker” 기능으로 “수백 곳의 주요 언론사”에 접근할 수 있다고 홍보한다."
+                "x": "법원의 Maciej Szpunar 법무관은 화요일 구속력 없는 의견을 내고, EU 법의 텍스트·데이터 마이닝 예외에 따라 저작물 이용은 “원칙적으로 자유롭게 허용된다”고 밝혔다. CJEU는 법무관 의견에 법적으로 구속되지 않지만, 대개 그 권고를 따른다."
               },
               {
                 "t": "p",
-                "x": "NYT 대변인 Graham James는 “Brave는 확립된 저작권법을 무시했고, 침해 행위를 멈추라는 The Times의 거듭된 요청도 외면했다”고 말했다. 다른 언론사들을 대리해 소송을 낸 변호사 Steven Lieberman은 “Brave는 AI 업계를 위해 불법 복제한 기사를 세탁한 책임을 져야 한다”고 말했다."
+                "x": "Szpunar는 바탕이 된 사건에 관한 질문을 각하하라고 법원에 권고했다. 이 사건에서 헝가리의 한 언론사는 Google의 Gemini 챗봇이 자사 기사 하나를 재현할 수 있다고 주장했는데, 그는 Google이 해당 언론사 기사로 AI를 학습시켰다는 증거가 없다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "Brave, Anthropic, Mistral, SpaceXSI, Cohere는 논평 요청에 즉시 답하지 않았다. Perplexity의 최고커뮤니케이션책임자 Jesse Dwyer는 “The New York Times는 변호사에게는 돈을 너무 많이, 기자에게는 너무 적게 주고 있다”고 말했다."
+                "x": "다만 그는 챗봇이 답변을 생성하려고 온라인 기사에 접근할 때 여전히 언론사의 권리를 침해할 수 있다고 했다. 페이월 우회처럼 기사에 불법으로 접근했는지, 챗봇이 “사실만 전달”하는지 아니면 기사의 “표현 형식”을 “알아볼 수 있는 방식”으로 재사용하는지에 따라 달라진다는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "법무관은 침해가 사업 모델에 내재해 있거나, 불법 웹 스크래핑 같은 침해를 막을 효과적인 조치를 취하지 않았다면 챗봇 운영 기업이 책임을 진다고 주장했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "New York Times\nAI収集でBraveを提訴",
-          "body": "New York TimesなどがAI収集とペイウォール回避でBraveを提訴した。",
-          "mini_headline": "NYTがBraveをAIで提訴",
+          "headline": "EU司法裁の法務官\nAIの記事再利用に限界",
+          "body": "Szpunar法務官はGemini等のチャットボットにEU報道出版者権の制約が及ぶとした。",
+          "mini_headline": "EU法務官、AIのニュース再利用を制限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Reutersの報道によると、The New York Timesをはじめとする複数の報道機関が、Braveウェブブラウザーを開発する企業を提訴した。AIの学習を目的に違法なスクレイピングを行い、さらにユーザーにペイウォールの回避を許したとしている。"
+                "x": "EU最高裁判所の主要な法律顧問によれば、AI企業はモデルの学習に著作権のあるデータを自由に使えるが、AIの回答に報道出版物を使うことには制限がかかる。AIラボがデータ利用でどこまで許されるかをめぐる議論が欧州連合司法裁判所（CJEU）に持ち込まれたのは、これが初めてである。"
               },
               {
                 "t": "p",
-                "x": "New York Daily News、Chicago Tribune、Orlando Sentinelが提出した訴状によると、Brave Softwareはスクレイピングしたウェブサイトのインデックスを収益化しており、その一環としてAI企業に「Brave Indexのリアルタイム(real-time)のオンラインコンテンツ」への有料アクセスを提供していた。BraveはAnthropic、Perplexity、Mistral、xAI、Cohereを含む「多くの」AI企業に「盗まれた著作権コンテンツ」を提供したとされる。Braveはまた、「Paywall blocker」機能で「数百の大手報道機関」にアクセスできると宣伝している。"
+                "x": "同裁判所のMaciej Szpunar法務官は火曜日に拘束力のない意見を示し、EU法のテキスト・データマイニング例外の下で、著作物の利用は「原則として自由に許される」との考えを示した。CJEUは法務官の意見に法的に拘束されないが、通常はその助言に従う。"
               },
               {
                 "t": "p",
-                "x": "「Braveは確立された著作権法を軽んじ、侵害行為をやめるよう求めるThe Timesの度重なる要請を無視してきた」と、NYTの広報担当Graham Jamesは述べた。他の報道機関を代理して訴えを起こした弁護士のSteven Liebermanは「BraveはAI業界のために海賊版の報道をロンダリングした責任を問われなければならない」と語った。"
+                "x": "Szpunarは、基となった事件に関する質問を不受理とするよう裁判所に勧告した。この事件では、ハンガリーの報道出版社が、GoogleのGeminiチャットボットが自社の記事の一つを再現できると主張していたが、Szpunarは、Googleが同社の記事でAIを学習させた証拠はないと指摘した。"
               },
               {
                 "t": "p",
-                "x": "Brave、Anthropic、Mistral、SpaceXSI、Cohereはコメント要請にすぐには応じなかった。Perplexityの最高コミュニケーション責任者Jesse Dwyerは「The New York Timesは弁護士に払いすぎ、記者には払わなさすぎている」と述べた。"
+                "x": "ただし、チャットボットが回答を生成するためにオンラインで記事にアクセスする際には、報道出版者の権利を侵害しうるとも述べた。それは、ペイウォールの回避など違法に記事へアクセスしたかどうか、またチャットボットが「事実を報じているだけ」か、記事の「表現形式」を「認識できる形で」再利用しているかによるという。"
+              },
+              {
+                "t": "p",
+                "x": "法務官は、侵害がビジネスモデルに内在している場合や、違法なウェブスクレイピングなどの侵害を防ぐ効果的な措置を講じていない場合、チャットボットを運営する企業が責任を負うと論じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "New York Times\n就AI抓取起诉Brave",
-          "body": "New York Times等出版商称Brave为AI抓取其内容，并让用户绕过付费墙。",
-          "mini_headline": "NYT就AI起诉Brave",
+          "headline": "EU法院总法务官\n称AI复用新闻受限",
+          "body": "Szpunar总法务官称，Gemini等聊天机器人受EU新闻出版者权利限制。",
+          "mini_headline": "EU总法务官：AI复用新闻受限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "据Reuters报道，The New York Times和其他多家出版物已对Brave网络浏览器的开发公司提起诉讼，指控其为训练AI非法抓取内容，并让用户绕过付费墙。"
+                "x": "据EU最高法院的一位重要法律顾问称，AI公司可以自由使用受版权保护的数据训练模型，但在AI回答中使用新闻出版物则受到限制。这是关于AI实验室在数据使用上能走多远的讨论首次进入欧盟法院（CJEU）。"
               },
               {
                 "t": "p",
-                "x": "根据New York Daily News、Chicago Tribune和Orlando Sentinel提交的诉状，Brave Software将其抓取的网站索引变现，方式之一是向AI公司提供“Brave Index实时（real-time）在线内容”的付费访问。诉状称，Brave向包括Anthropic、Perplexity、Mistral、xAI和Cohere在内的“众多”AI公司提供了“窃取的受版权保护内容”。Brave还宣传可通过其“Paywall blocker”功能访问“数百家顶级出版商”。"
+                "x": "该法院总法务官Maciej Szpunar周二发表不具约束力的意见，认为根据EU法律中的文本与数据挖掘例外，使用受版权保护的作品“原则上是自由允许的”。虽然CJEU在法律上不受总法务官意见约束，但法院通常会采纳其建议。"
               },
               {
                 "t": "p",
-                "x": "NYT发言人Graham James表示：“Brave无视既有的版权法，并对The Times多次要求其停止侵权行为的请求置若罔闻。”代表其他出版物提起诉讼的律师Steven Lieberman说：“Brave必须为替AI行业清洗盗版报道承担责任。”"
+                "x": "Szpunar建议法院驳回与基础案件相关的问题。在该案中，一家匈牙利新闻出版商声称Google的Gemini聊天机器人能够复现其一篇文章；Szpunar认为，没有证据表明Google使用了该出版商的文章来训练其AI。"
               },
               {
                 "t": "p",
-                "x": "Brave、Anthropic、Mistral、SpaceXSI和Cohere未立即回应置评请求。Perplexity首席传播官Jesse Dwyer表示：“The New York Times给律师付得太多，给记者付得太少。”"
+                "x": "但他表示，聊天机器人在线访问文章以生成回答时，仍可能侵犯新闻出版商的权利——这取决于文章是否被非法访问，例如绕过付费墙，以及聊天机器人是“仅报道事实”，还是以“可识别的方式”复用文章的“表达形式”。"
+              },
+              {
+                "t": "p",
+                "x": "总法务官认为，如果侵权行为是其商业模式所固有的，或公司未能采取有效措施防止非法网络抓取等侵权行为，运营聊天机器人的公司须承担责任。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The New York Times demanda\na Brave por scraping para AI",
-          "body": "The New York Times y otros editores acusan a Brave de extraer su contenido para AI y de permitir eludir muros de pago.",
-          "mini_headline": "NYT demanda a Brave por AI",
+          "headline": "Asesor del tribunal de la EU\nlimita el uso de noticias en AI",
+          "body": "Según el abogado general Szpunar, chatbots como Gemini tienen límites por derechos de editores de prensa de la EU.",
+          "mini_headline": "Asesor de la EU limita el reúso de noticias por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "NurPhoto via Getty Images"
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+                "cap": "Samuel Boivin/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "The New York Times y un grupo de otras publicaciones han presentado demandas contra la empresa que desarrolla el navegador web Brave por un presunto scraping ilegal para entrenar AI y por permitir a los usuarios eludir sus muros de pago, según informó Reuters."
+                "x": "Las empresas de AI pueden usar libremente datos protegidos por derechos de autor para entrenar modelos, según un asesor jurídico clave del máximo tribunal de la EU, pero el uso de publicaciones de prensa en las respuestas de AI tiene restricciones. Es la primera vez que un debate sobre hasta dónde pueden llegar los laboratorios de AI en el uso de datos llega al Tribunal de Justicia de la Unión Europea (CJEU)."
               },
               {
                 "t": "p",
-                "x": "Según una demanda presentada por el New York Daily News, el Chicago Tribune y el Orlando Sentinel, Brave Software ha monetizado su índice de sitios web extraídos, en parte, ofreciendo a empresas de AI acceso de pago a “contenido en línea en tiempo real (real-time) del Brave Index”. Brave habría proporcionado “contenido protegido por derechos de autor robado” a “muchas” empresas de AI, entre ellas Anthropic, Perplexity, Mistral, xAI y Cohere. Brave también promociona “cientos de editores destacados” como accesibles mediante su función “Paywall blocker”."
+                "x": "En una opinión no vinculante emitida el martes, el abogado general del tribunal, Maciej Szpunar, sugirió que el uso de obras protegidas “está, por regla general, libremente permitido” en virtud de una excepción de minería de textos y datos de la legislación de la EU. Aunque el CJEU no está legalmente obligado por las opiniones de los abogados generales, el tribunal suele seguir su consejo."
               },
               {
                 "t": "p",
-                "x": "“Brave ha desafiado la legislación establecida sobre derechos de autor y ha ignorado las reiteradas peticiones de The Times para que cese su conducta infractora”, dijo el portavoz del NYT Graham James. El abogado Steven Lieberman, que presentó la demanda en nombre de las otras publicaciones, afirmó: “Brave debe rendir cuentas por blanquear periodismo pirateado para la industria de la AI”."
+                "x": "Szpunar aconsejó al tribunal declarar inadmisibles las cuestiones relativas al caso de fondo, en el que un editor de prensa húngaro sostenía que el chatbot Gemini de Google podía reproducir uno de sus artículos, y argumentó que no había pruebas de que Google hubiera usado los artículos del editor para entrenar su AI."
               },
               {
                 "t": "p",
-                "x": "Brave, Anthropic, Mistral, SpaceXSI y Cohere no respondieron de inmediato a una solicitud de comentarios. El director de comunicaciones de Perplexity, Jesse Dwyer, dijo: “The New York Times está pagando de más a sus abogados y de menos a sus periodistas”."
+                "x": "Pero dijo que los chatbots aún podrían vulnerar el derecho del editor de prensa al acceder a artículos en línea para generar una respuesta, según si el artículo se obtuvo de forma ilícita, por ejemplo eludiendo muros de pago, y si el chatbot “se limita a informar de hechos” o reutiliza la “forma de expresión” del artículo “de manera reconocible”."
+              },
+              {
+                "t": "p",
+                "x": "La empresa que opera un chatbot es responsable si las infracciones son inherentes a su modelo de negocio o si no ha adoptado medidas eficaces para evitar infracciones como el web scraping ilícito, argumentó el abogado general."
               }
             ]
           }
@@ -325,331 +365,441 @@
       }
     },
     {
-      "id": "bellingcat-ai-superpac-ads",
-      "source_lang": "en",
+      "id": "politics-china-ai-lifecycle-rules",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "경쟁 AI 슈퍼 PACs\n양당 광고 모두 지원",
-      "body": "Bellingcat: 양당 광고비는 OpenAI·Anthropic AI PACs다.",
-      "mini_headline": "AI PACs, 양당 모두 지원",
+      "headline": "중국, AI 전 과정\n규제 지침 마련 착수",
+      "body": "중국 당국이 위험 공시와 규제 샌드박스를 담은 AI 규제 지침을 마련한다.",
+      "mini_headline": "중국, AI 전 과정 규제",
       "tool": "Politics",
-      "source": "Bellingcat",
-      "url": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261103148800009",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "유타주 민주당 하원의원 후보 Ben McAdams의 온라인 광고는 그가 “MAGA에 맞서 싸웠다”고 내세웠다. 텍사스의 또 다른 광고는 공화당 후보 Chris Gober를 “MAGA 전사”라고 불렀다. 두 광고의 돈줄은 모두 Leading the Future(LTF)였다. LTF는 AI 혁신을 “제약”하는 규제에 반대하는 Super PAC 네트워크다. FEC 신고 자료를 보면 LTF는 OpenAI 사장 Greg Brockman과 아내 Anna Brockman, Andreessen Horowitz(a16z)와 a16z 창업자들에게서 US$125 million 규모의 돈을 받았다."
-          },
-          {
             "t": "img",
-            "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-            "cap": "출처: Think Big / Google Ad Transparency Center"
+            "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+            "cap": "딥시크. [로이터=연합뉴스 자료사진]"
           },
           {
             "t": "p",
-            "x": "LTF와 정면으로 맞서는 곳은 Public First Action(PFA)이다. AI 안전 규제를 요구하는 PFA는 Anthropic에서 $40 million 규모의 자금을 받았다. PFA가 돈을 댄 Super PACs도 겨냥한 유권자에 따라 Trump를 지지하는 듯하거나 비판하는 듯한 광고를 내보냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-            "cap": "Leading the Future, Public First PAC, Public First Action의 지출 내역. 그래픽: Bellingcat"
+            "x": "중국 당국이 인공지능(AI)의 개발부터 활용까지 전 과정을 아우르는 광범위한 규제 가이드라인을 마련하기로 했다. 전 세계적으로 대두되고 있는 AI의 통제력 상실 등을 둘러싼 보안·안전 문제에 대한 대응 차원으로 풀이된다."
           },
           {
             "t": "p",
-            "x": "Bellingcat은 Google Ad Transparency Center에 올라온 온라인 동영상 광고 캠페인 300건 이상을 분석했다. 후보 40명을 지지하거나 반대하는 광고였다. AI를 언급한 광고는 후보 두 명을 지지·반대하는 것뿐이었고, 데이터센터를 언급한 광고는 한 건도 없었다. PFA 측 관계자는 뜻을 같이하는 PACs가 “유권자에게 가장 시급한 사안에 관한” 광고를 낸다고 했다. LTF와 산하 PACs는 기사가 나갈 때까지 답하지 않았다."
+            "x": "3일 블룸버그통신에 따르면 중국 국가발전개혁위원회(NDRC)는 이날 AI 모델의 개발과 활용 등을 관리·감독하기 위한 입법을 가속화하고 있다고 밝혔다. 왕뤄멍 국가발전개혁위원회 혁신·첨단기술발전사(司) 부사장은 이날 브리핑에서 이번에 도입될 규제가 데이터부터 컴퓨팅 자원에 이르는 광범위한 영역에 적용될 것이라고 말했다. 그는 중국 당국이 규제 이행 상황을 정기적으로 평가하고 시대에 뒤떨어진 조항은 개정될 것이라고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "구체적인 대상과 관련해서는 미국의 오픈AI와 앤트로픽 등에 도전하고 있는 딥시크, 문샷AI, 알리바바그룹 등 중국의 AI 기업들이 포함될 전망이다."
+          },
+          {
+            "t": "p",
+            "x": "왕 부사장은 시행착오를 보다 폭넓게 허용하기 위해 분야별로 규제 샌드박스도 도입할 것이라고 밝혔다. 그러면서 그는 AI 개발업체와 운영업체들이 위험 관리를 강화하는 동시에 안전 위험과 사고, 취약점을 공개해야 한다고 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "중국 정부는 AI가 고용과 일자리 대체에 미치는 영향도 모니터링할 계획이다. 왕 부사장은 AI의 영향을 받게 될 노동자들에게 당국이 사회 안전망을 제공할 것이라고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "이러한 움직임은 AI가 통제 불능 상태에 빠지거나 사이버 공격에 악용될 가능성을 인식하고 균형을 찾으려는 중국 정부의 노력을 반영한다고 블룸버그는 분석했다. 중국 정부가 AI가 가져올 대규모 사회적 혼란 또한 경계하고 있는 것으로도 풀이된다."
+          },
+          {
+            "t": "p",
+            "x": "최근 미국 실리콘밸리의 기술기업 수장과 전문가들이 AI가 인류의 존립을 위협할 수 있다고 경고한 데 이어 AI가 통제를 벗어나거나 사이버 공격에 악용되는 사례가 잇따르면서 전 세계적으로 우려가 커지고 있다. 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 지난 9월 워싱턴 정상회담에서 AI의 위험과 이점에 대해 양국이 의견을 교환하고 관련 사고 때도 소통하기 위한 대화 채널을 구축하기로 합의한 바 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Rival AI super PACs fund\nads for both parties",
-          "body": "Bellingcat traced midterm ads for both parties to rival AI super PACs backed by OpenAI's president and Anthropic.",
-          "mini_headline": "Rival AI PACs, both sides",
+        "ko": {
+          "headline": "중국, AI 전 과정\n규제 지침 마련 착수",
+          "body": "중국 당국이 위험 공시와 규제 샌드박스를 담은 AI 규제 지침을 마련한다.",
+          "mini_headline": "중국, AI 전 과정 규제",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "An online ad for Ben McAdams, the Democratic candidate for Congress in Utah, said he “fought back against MAGA.” In Texas, another ad called Republican candidate Chris Gober a “MAGA warrior.” Both were ultimately paid for with money from Leading the Future (LTF), a Super PAC network which opposes regulations that “constrain” innovation in AI. FEC filings show it has received US$125 million from OpenAI president Greg Brockman, his wife Anna Brockman, Andreessen Horowitz (a16z) and a16z’s founders."
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "Source: Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "딥시크. [로이터=연합뉴스 자료사진]"
               },
               {
                 "t": "p",
-                "x": "Directly opposing LTF is Public First Action (PFA), which calls for AI safety regulations and has received $40 million from Anthropic. Super PACs funded by PFA also ran ads that appeared supportive or critical of Trump depending on the voters they were targeting."
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Disbursements from Leading the Future, Public First PAC and Public First Action. Graphic: Bellingcat"
+                "x": "중국 당국이 인공지능(AI)의 개발부터 활용까지 전 과정을 아우르는 광범위한 규제 가이드라인을 마련하기로 했다. 전 세계적으로 대두되고 있는 AI의 통제력 상실 등을 둘러싼 보안·안전 문제에 대한 대응 차원으로 풀이된다."
               },
               {
                 "t": "p",
-                "x": "Bellingcat analysed more than 300 online video ad campaigns from Google’s Ad Transparency Center, supporting or opposing 40 candidates. Only ads supporting or opposing two candidates mentioned AI, and none mentioned data centres. A PFA representative said its aligned PACs run ads “on the issues that matter most immediately to voters.” LTF and its PACs did not respond as of publication."
+                "x": "3일 블룸버그통신에 따르면 중국 국가발전개혁위원회(NDRC)는 이날 AI 모델의 개발과 활용 등을 관리·감독하기 위한 입법을 가속화하고 있다고 밝혔다. 왕뤄멍 국가발전개혁위원회 혁신·첨단기술발전사(司) 부사장은 이날 브리핑에서 이번에 도입될 규제가 데이터부터 컴퓨팅 자원에 이르는 광범위한 영역에 적용될 것이라고 말했다. 그는 중국 당국이 규제 이행 상황을 정기적으로 평가하고 시대에 뒤떨어진 조항은 개정될 것이라고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "구체적인 대상과 관련해서는 미국의 오픈AI와 앤트로픽 등에 도전하고 있는 딥시크, 문샷AI, 알리바바그룹 등 중국의 AI 기업들이 포함될 전망이다."
+              },
+              {
+                "t": "p",
+                "x": "왕 부사장은 시행착오를 보다 폭넓게 허용하기 위해 분야별로 규제 샌드박스도 도입할 것이라고 밝혔다. 그러면서 그는 AI 개발업체와 운영업체들이 위험 관리를 강화하는 동시에 안전 위험과 사고, 취약점을 공개해야 한다고 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "중국 정부는 AI가 고용과 일자리 대체에 미치는 영향도 모니터링할 계획이다. 왕 부사장은 AI의 영향을 받게 될 노동자들에게 당국이 사회 안전망을 제공할 것이라고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "이러한 움직임은 AI가 통제 불능 상태에 빠지거나 사이버 공격에 악용될 가능성을 인식하고 균형을 찾으려는 중국 정부의 노력을 반영한다고 블룸버그는 분석했다. 중국 정부가 AI가 가져올 대규모 사회적 혼란 또한 경계하고 있는 것으로도 풀이된다."
+              },
+              {
+                "t": "p",
+                "x": "최근 미국 실리콘밸리의 기술기업 수장과 전문가들이 AI가 인류의 존립을 위협할 수 있다고 경고한 데 이어 AI가 통제를 벗어나거나 사이버 공격에 악용되는 사례가 잇따르면서 전 세계적으로 우려가 커지고 있다. 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 지난 9월 워싱턴 정상회담에서 AI의 위험과 이점에 대해 양국이 의견을 교환하고 관련 사고 때도 소통하기 위한 대화 채널을 구축하기로 합의한 바 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "경쟁 AI 슈퍼 PACs\n양당 광고 모두 지원",
-          "body": "Bellingcat: 양당 광고비는 OpenAI·Anthropic AI PACs다.",
-          "mini_headline": "AI PACs, 양당 모두 지원",
+        "en": {
+          "headline": "China starts drafting rules\nfor the full AI lifecycle",
+          "body": "Chinese authorities are drafting AI rules that include risk disclosure and regulatory sandboxes.",
+          "mini_headline": "China moves to regulate the full AI lifecycle",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "유타주 민주당 하원의원 후보 Ben McAdams의 온라인 광고는 그가 “MAGA에 맞서 싸웠다”고 내세웠다. 텍사스의 또 다른 광고는 공화당 후보 Chris Gober를 “MAGA 전사”라고 불렀다. 두 광고의 돈줄은 모두 Leading the Future(LTF)였다. LTF는 AI 혁신을 “제약”하는 규제에 반대하는 Super PAC 네트워크다. FEC 신고 자료를 보면 LTF는 OpenAI 사장 Greg Brockman과 아내 Anna Brockman, Andreessen Horowitz(a16z)와 a16z 창업자들에게서 US$125 million 규모의 돈을 받았다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "출처: Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek. [Reuters=Yonhap News file photo]"
               },
               {
                 "t": "p",
-                "x": "LTF와 정면으로 맞서는 곳은 Public First Action(PFA)이다. AI 안전 규제를 요구하는 PFA는 Anthropic에서 $40 million 규모의 자금을 받았다. PFA가 돈을 댄 Super PACs도 겨냥한 유권자에 따라 Trump를 지지하는 듯하거나 비판하는 듯한 광고를 내보냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Leading the Future, Public First PAC, Public First Action의 지출 내역. 그래픽: Bellingcat"
+                "x": "Chinese authorities have decided to draw up broad regulatory guidelines covering the entire lifecycle of artificial intelligence (AI), from development to use. The move is seen as a response to security and safety concerns, such as loss of control over AI, that are emerging around the world."
               },
               {
                 "t": "p",
-                "x": "Bellingcat은 Google Ad Transparency Center에 올라온 온라인 동영상 광고 캠페인 300건 이상을 분석했다. 후보 40명을 지지하거나 반대하는 광고였다. AI를 언급한 광고는 후보 두 명을 지지·반대하는 것뿐이었고, 데이터센터를 언급한 광고는 한 건도 없었다. PFA 측 관계자는 뜻을 같이하는 PACs가 “유권자에게 가장 시급한 사안에 관한” 광고를 낸다고 했다. LTF와 산하 PACs는 기사가 나갈 때까지 답하지 않았다."
+                "x": "According to Bloomberg on the 3rd, China's National Development and Reform Commission (NDRC) said that day it is accelerating legislation to manage and oversee the development and use of AI models. Wang Luomeng, deputy director-general of the NDRC's Department of Innovation and High-Tech Development, told a briefing that day that the new rules will apply to a wide range of areas, from data to computing resources. He added that Chinese authorities will regularly assess how the rules are being implemented and that outdated provisions will be revised."
+              },
+              {
+                "t": "p",
+                "x": "The rules are expected to cover Chinese AI companies such as DeepSeek, Moonshot AI and Alibaba Group, which are challenging U.S. firms such as OpenAI and Anthropic."
+              },
+              {
+                "t": "p",
+                "x": "Wang said regulatory sandboxes will also be introduced by sector to allow wider room for trial and error. He stressed that AI developers and operators must strengthen risk management while disclosing safety risks, incidents and vulnerabilities."
+              },
+              {
+                "t": "p",
+                "x": "The Chinese government also plans to monitor AI's impact on employment and job displacement. Wang said authorities will provide a social safety net for workers affected by AI."
+              },
+              {
+                "t": "p",
+                "x": "Bloomberg said the moves reflect the Chinese government's effort to strike a balance, recognizing the possibility that AI could spiral out of control or be exploited in cyberattacks. They also suggest the government is wary of the large-scale social disruption AI could bring."
+              },
+              {
+                "t": "p",
+                "x": "Global concern has been growing as tech leaders and experts in Silicon Valley in the U.S. have recently warned that AI could threaten humanity's existence, and as cases of AI escaping control or being exploited in cyberattacks have followed. U.S. President Donald Trump and Chinese President Xi Jinping agreed at their summit in Washington in September to set up a dialogue channel for the two countries to exchange views on the risks and benefits of AI and to communicate in the event of related incidents."
               }
             ]
           }
         },
         "ja": {
-          "headline": "対立するAI系PACs\n両党の広告に資金提供",
-          "body": "Bellingcatが両党広告をOpenAI・Anthropic系AI PACsに辿った。",
-          "mini_headline": "対立するAI PACs、両党に広告",
+          "headline": "中国、AIの全過程\n規制指針の策定へ",
+          "body": "中国当局が、リスク開示と規制サンドボックスを盛り込んだAI規制指針を策定する。",
+          "mini_headline": "中国、AIの全過程を規制",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "ユタ州の民主党下院候補Ben McAdamsのオンライン広告は、彼が「MAGAに反撃した」とうたった。テキサス州では別の広告が共和党候補Chris Goberを「MAGAの戦士」と呼んだ。どちらも最終的には、AIのイノベーションを「制約する」規制に反対するSuper PACネットワーク、Leading the Future(LTF)の資金で賄われていた。FECへの届け出によると、LTFはOpenAI社長のGreg Brockman、妻のAnna Brockman、Andreessen Horowitz(a16z)とa16zの創業者たちからUS$125 million を受け取っている。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "出典：Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek。［ロイター＝聯合ニュース資料写真］"
               },
               {
                 "t": "p",
-                "x": "LTFと真っ向から対立するのがPublic First Action(PFA)で、AI安全規制を求め、Anthropicから$40 million を受け取っている。PFAが資金を出したSuper PACsも、狙う有権者に応じてTrumpを支持または批判するように見える広告を流した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Leading the Future、Public First PAC、Public First Actionの支出。グラフィック：Bellingcat"
+                "x": "中国当局は、人工知能（AI）の開発から活用までの全過程を網羅する広範な規制ガイドラインを策定することにした。世界的に浮上しているAIの制御喪失などをめぐる安全保障・安全上の問題への対応とみられる。"
               },
               {
                 "t": "p",
-                "x": "BellingcatはGoogle Ad Transparency Centerにある300件超のオンライン動画広告キャンペーンを分析した。対象は40人の候補者を支持または批判するものだ。AIに触れていたのは二人の候補者を支持・批判する広告だけで、データセンターに言及したものは一つもなかった。PFAの担当者は、連携するPACsが「有権者にとって最も差し迫った問題について」広告を出していると述べた。LTFとその傘下のPACsは掲載時点で回答していない。"
+                "x": "ブルームバーグ通信によると、中国国家発展改革委員会（NDRC）は3日、AIモデルの開発や活用などを管理・監督するための立法を加速していると明らかにした。国家発展改革委員会イノベーション・ハイテク発展司のワン・ルオモン副司長はこの日の会見で、今回導入される規制がデータから計算資源に至る広範な領域に適用されると述べた。また、中国当局が規制の履行状況を定期的に評価し、時代遅れの条項は改正されると付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "具体的な対象には、米国のOpenAIやAnthropicなどに挑むDeepSeek、Moonshot AI、Alibaba Groupなど中国のAI企業が含まれる見通しだ。"
+              },
+              {
+                "t": "p",
+                "x": "ワン副司長は、試行錯誤をより幅広く認めるため、分野別に規制サンドボックスも導入すると明らかにした。そのうえで、AI開発企業と運営企業がリスク管理を強化すると同時に、安全上のリスクや事故、脆弱性を公開しなければならないと強調した。"
+              },
+              {
+                "t": "p",
+                "x": "中国政府は、AIが雇用と仕事の代替に与える影響も監視する計画だ。ワン副司長は、AIの影響を受ける労働者に当局が社会的セーフティーネットを提供すると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "ブルームバーグは、こうした動きはAIが制御不能に陥ったりサイバー攻撃に悪用されたりする可能性を認識し、バランスを取ろうとする中国政府の努力を反映していると分析した。中国政府がAIのもたらす大規模な社会的混乱も警戒しているとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "最近、米シリコンバレーのテック企業トップや専門家がAIが人類の存続を脅かしうると警告したのに続き、AIが制御を外れたりサイバー攻撃に悪用されたりする事例が相次ぎ、世界的に懸念が高まっている。ドナルド・トランプ米大統領と習近平中国国家主席は、9月のワシントンでの首脳会談で、AIのリスクと利点について両国が意見を交換し、関連する事故の際にも意思疎通を図るための対話チャネルを構築することで合意している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "对立的AI PACs\n同时资助两党广告",
-          "body": "Bellingcat将两党广告追溯至OpenAI总裁与Anthropic系AI PACs。",
-          "mini_headline": "对立AI PACs资助两党",
+          "headline": "中国着手制定AI\n全流程监管指南",
+          "body": "中国当局将着手制定涵盖风险披露与监管沙盒等内容的AI监管指南。",
+          "mini_headline": "中国推进AI全流程监管",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "犹他州民主党国会候选人Ben McAdams的一则网络广告称他“反击了MAGA”。在得克萨斯州，另一则广告称共和党候选人Chris Gober为“MAGA战士”。这两则广告最终都由Leading the Future（LTF）出资，这是一个反对“束缚”AI创新之监管的Super PAC网络。FEC文件显示，它已从OpenAI总裁Greg Brockman及其妻子Anna Brockman、Andreessen Horowitz（a16z）以及a16z创始人处获得US$125 million 资金。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "来源：Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek。[路透社=韩联社资料照片]"
               },
               {
                 "t": "p",
-                "x": "与LTF直接对立的是Public First Action（PFA），它呼吁实施AI安全监管，并已从Anthropic获得$40 million 资金。由PFA资助的Super PACs也投放了广告，这些广告根据目标选民的不同，看起来或支持或批评Trump。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Leading the Future、Public First PAC和Public First Action的支出。图表：Bellingcat"
+                "x": "中国当局决定制定涵盖人工智能（AI）从开发到应用全流程的广泛监管指南。此举被解读为应对全球日益凸显的AI失控等安全问题。"
               },
               {
                 "t": "p",
-                "x": "Bellingcat分析了Google Ad Transparency Center中300多个网络视频广告活动，涉及支持或反对40名候选人。只有支持或反对两名候选人的广告提到了AI，没有任何广告提到数据中心。一位PFA代表表示，与其立场一致的PACs投放的广告关注“对选民而言最紧迫的议题”。截至发稿，LTF及其旗下PACs未作回应。"
+                "x": "据彭博社3日报道，中国国家发展和改革委员会（NDRC）当天表示，正在加快推进管理和监督AI模型开发与应用的立法。国家发展改革委创新和高技术发展司副司长Wang Luomeng当天在发布会上表示，此次将出台的规定将适用于从数据到算力资源的广泛领域。他补充说，中国当局将定期评估规定的执行情况，过时的条款将得到修订。"
+              },
+              {
+                "t": "p",
+                "x": "具体对象预计将包括正在挑战美国OpenAI和Anthropic等公司的DeepSeek、Moonshot AI、Alibaba Group等中国AI企业。"
+              },
+              {
+                "t": "p",
+                "x": "这位副司长表示，为了更广泛地允许试错，还将按领域引入监管沙盒。他同时强调，AI开发企业和运营企业在加强风险管理的同时，必须公开安全风险、事故和漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "中国政府还计划监测AI对就业和岗位替代的影响。这位副司长说，当局将为受AI影响的劳动者提供社会安全网。"
+              },
+              {
+                "t": "p",
+                "x": "彭博社分析称，这些举措反映出中国政府意识到AI可能失控或被用于网络攻击，并努力寻求平衡。这也被解读为中国政府同样警惕AI可能带来的大规模社会混乱。"
+              },
+              {
+                "t": "p",
+                "x": "近来，美国硅谷科技企业负责人和专家警告AI可能威胁人类生存，此后AI失控或被用于网络攻击的案例接连出现，全球担忧日益加剧。美国总统唐纳德·特朗普与中国国家主席习近平在9月的华盛顿峰会上同意建立对话渠道，就AI的风险与益处交换意见，并在发生相关事故时进行沟通。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los super PACs rivales de AI\npagan anuncios de ambos partidos",
-          "body": "Bellingcat vinculó anuncios de ambos partidos a super PACs rivales de AI ligados al presidente de OpenAI y a Anthropic.",
-          "mini_headline": "PACs rivales de AI, en ambos bandos",
+          "headline": "China empieza a fijar reglas\npara todo el ciclo de la AI",
+          "body": "Las autoridades chinas preparan pautas para la AI con divulgación de riesgos y entornos de prueba regulatorios.",
+          "mini_headline": "China regula todo el ciclo de la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Un anuncio en línea de Ben McAdams, candidato demócrata al Congreso por Utah, decía que él “se enfrentó al MAGA”. En Texas, otro anuncio llamaba al candidato republicano Chris Gober un “guerrero MAGA”. Ambos se pagaron, en última instancia, con dinero de Leading the Future (LTF), una red de Super PAC que se opone a las regulaciones que “limiten” la innovación en AI. Los registros de la FEC muestran que ha recibido US$125 millones de Greg Brockman, presidente de OpenAI, de su esposa Anna Brockman, de Andreessen Horowitz (a16z) y de los fundadores de a16z."
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "Fuente: Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek. [Reuters=Yonhap, foto de archivo]"
               },
               {
                 "t": "p",
-                "x": "En oposición directa a LTF está Public First Action (PFA), que pide regulaciones de seguridad de la AI y ha recibido $40 millones de Anthropic. Los Super PACs financiados por PFA también emitieron anuncios que parecían apoyar o criticar a Trump según los votantes a los que se dirigían."
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Desembolsos de Leading the Future, Public First PAC y Public First Action. Gráfico: Bellingcat"
+                "x": "Las autoridades chinas han decidido elaborar amplias directrices regulatorias que abarcan todo el proceso de la inteligencia artificial (AI), desde su desarrollo hasta su uso. Se interpreta como una respuesta a los problemas de seguridad, como la pérdida de control de la AI, que están surgiendo en todo el mundo."
               },
               {
                 "t": "p",
-                "x": "Bellingcat analizó más de 300 campañas de anuncios en video en línea del Ad Transparency Center de Google, que apoyaban o se oponían a 40 candidatos. Solo los anuncios a favor o en contra de dos candidatos mencionaban la AI, y ninguno mencionaba centros de datos. Un representante de PFA dijo que sus PACs afines emiten anuncios “sobre los temas que más importan de inmediato a los votantes”. LTF y sus PACs no habían respondido al cierre de esta edición."
+                "x": "Según Bloomberg, el día 3 la Comisión Nacional de Desarrollo y Reforma (NDRC) de China afirmó que está acelerando la legislación para gestionar y supervisar el desarrollo y el uso de modelos de AI. Wang Luomeng, subdirector del Departamento de Innovación y Desarrollo de Alta Tecnología de la NDRC, dijo ese día en una rueda de prensa que las normas que se introducirán se aplicarán a una amplia gama de ámbitos, desde los datos hasta los recursos de computación. Añadió que las autoridades chinas evaluarán periódicamente la aplicación de las normas y que las disposiciones obsoletas se revisarán."
+              },
+              {
+                "t": "p",
+                "x": "Se prevé que entre los afectados figuren empresas chinas de AI como DeepSeek, Moonshot AI y Alibaba Group, que desafían a las estadounidenses OpenAI y Anthropic, entre otras."
+              },
+              {
+                "t": "p",
+                "x": "Wang señaló que también se introducirán entornos de prueba regulatorios por sectores para permitir un margen más amplio de ensayo y error. Subrayó que los desarrolladores y operadores de AI deben reforzar la gestión de riesgos y, al mismo tiempo, divulgar los riesgos de seguridad, los incidentes y las vulnerabilidades."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno chino también prevé vigilar el impacto de la AI en el empleo y la sustitución de puestos de trabajo. Wang explicó que las autoridades ofrecerán una red de protección social a los trabajadores afectados por la AI."
+              },
+              {
+                "t": "p",
+                "x": "Según el análisis de Bloomberg, estas medidas reflejan el esfuerzo del Gobierno chino por encontrar un equilibrio, consciente de la posibilidad de que la AI quede fuera de control o se utilice en ciberataques. También se interpreta que el Gobierno chino teme la disrupción social a gran escala que podría traer la AI."
+              },
+              {
+                "t": "p",
+                "x": "La preocupación crece en todo el mundo después de que líderes tecnológicos y expertos de Silicon Valley, en Estados Unidos, advirtieran recientemente de que la AI podría amenazar la existencia de la humanidad, y de que se sucedieran casos de AI fuera de control o utilizada en ciberataques. El presidente de Estados Unidos, Donald Trump, y el presidente chino, Xi Jinping, acordaron en su cumbre de Washington en septiembre crear un canal de diálogo para intercambiar opiniones sobre los riesgos y beneficios de la AI y comunicarse en caso de incidentes relacionados."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "경쟁 AI 슈퍼 PACs\n양당 광고 모두 지원",
-          "body": "Bellingcat: 양당 광고비는 OpenAI·Anthropic AI PACs다.",
-          "mini_headline": "AI PACs, 양당 모두 지원",
+        "en": {
+          "headline": "China starts drafting rules\nfor the full AI lifecycle",
+          "body": "Chinese authorities are drafting AI rules that include risk disclosure and regulatory sandboxes.",
+          "mini_headline": "China moves to regulate the full AI lifecycle",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "유타주 민주당 하원의원 후보 Ben McAdams의 온라인 광고는 그가 “MAGA에 맞서 싸웠다”고 했다. 텍사스에서는 또 다른 광고가 공화당 후보 Chris Gober를 “MAGA 전사”라고 불렀다. 두 광고 모두 결국 Leading the Future(LTF)의 돈으로 집행됐다. LTF는 AI 혁신을 “제약”하는 규제에 반대하는 Super PAC 네트워크다. FEC 신고 자료에 따르면 LTF는 OpenAI 사장 Greg Brockman과 그의 아내 Anna Brockman, Andreessen Horowitz(a16z)와 a16z 창업자들로부터 US$125 million 규모의 자금을 받았다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "출처: Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek. [Reuters=Yonhap News file photo]"
               },
               {
                 "t": "p",
-                "x": "LTF에 정면으로 맞서는 쪽은 Public First Action(PFA)이다. PFA는 AI 안전 규제를 요구하며 Anthropic으로부터 $40 million 규모의 자금을 받았다. PFA가 자금을 댄 Super PACs 역시 겨냥한 유권자에 따라 Trump를 지지하거나 비판하는 것처럼 보이는 광고를 내보냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Leading the Future, Public First PAC, Public First Action의 지출 내역. 그래픽: Bellingcat"
+                "x": "Chinese authorities have decided to draw up broad regulatory guidelines covering the entire lifecycle of artificial intelligence (AI), from development to use. The move is seen as a response to security and safety concerns, such as loss of control over AI, that are emerging around the world."
               },
               {
                 "t": "p",
-                "x": "Bellingcat은 Google Ad Transparency Center에 있는 온라인 동영상 광고 캠페인 300건 이상을 분석했다. 후보 40명을 지지하거나 반대하는 광고였다. AI를 언급한 것은 후보 두 명을 지지하거나 반대하는 광고뿐이었고, 데이터센터를 언급한 광고는 하나도 없었다. PFA 측 관계자는 뜻을 같이하는 PACs가 “유권자에게 가장 시급한 사안에 관한” 광고를 낸다고 밝혔다. LTF와 산하 PACs는 기사 게재 시점까지 답하지 않았다."
+                "x": "According to Bloomberg on the 3rd, China's National Development and Reform Commission (NDRC) said that day it is accelerating legislation to manage and oversee the development and use of AI models. Wang Luomeng, deputy director-general of the NDRC's Department of Innovation and High-Tech Development, told a briefing that day that the new rules will apply to a wide range of areas, from data to computing resources. He added that Chinese authorities will regularly assess how the rules are being implemented and that outdated provisions will be revised."
+              },
+              {
+                "t": "p",
+                "x": "The rules are expected to cover Chinese AI companies such as DeepSeek, Moonshot AI and Alibaba Group, which are challenging U.S. firms such as OpenAI and Anthropic."
+              },
+              {
+                "t": "p",
+                "x": "Wang said regulatory sandboxes will also be introduced by sector to allow wider room for trial and error. He stressed that AI developers and operators must strengthen risk management while disclosing safety risks, incidents and vulnerabilities."
+              },
+              {
+                "t": "p",
+                "x": "The Chinese government also plans to monitor AI's impact on employment and job displacement. Wang said authorities will provide a social safety net for workers affected by AI."
+              },
+              {
+                "t": "p",
+                "x": "Bloomberg said the moves reflect the Chinese government's effort to strike a balance, recognizing the possibility that AI could spiral out of control or be exploited in cyberattacks. They also suggest the government is wary of the large-scale social disruption AI could bring."
+              },
+              {
+                "t": "p",
+                "x": "Global concern has been growing as tech leaders and experts in Silicon Valley in the U.S. have recently warned that AI could threaten humanity's existence, and as cases of AI escaping control or being exploited in cyberattacks have followed. U.S. President Donald Trump and Chinese President Xi Jinping agreed at their summit in Washington in September to set up a dialogue channel for the two countries to exchange views on the risks and benefits of AI and to communicate in the event of related incidents."
               }
             ]
           }
         },
         "ja": {
-          "headline": "対立するAI系PACs\n両党の広告に資金提供",
-          "body": "Bellingcatが両党広告をOpenAI・Anthropic系AI PACsに辿った。",
-          "mini_headline": "対立するAI PACs、両党に広告",
+          "headline": "中国、AIの全過程\n規制指針の策定へ",
+          "body": "中国当局が、リスク開示と規制サンドボックスを盛り込んだAI規制指針を策定する。",
+          "mini_headline": "中国、AIの全過程を規制",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "ユタ州の民主党下院候補Ben McAdamsのオンライン広告は、彼が「MAGAに反撃した」とうたった。テキサス州では別の広告が共和党候補Chris Goberを「MAGAの戦士」と呼んだ。どちらも最終的には、AIのイノベーションを「制約する」規制に反対するSuper PACネットワーク、Leading the Future(LTF)の資金で賄われていた。FECへの届け出によると、LTFはOpenAI社長のGreg Brockman、妻のAnna Brockman、Andreessen Horowitz(a16z)とa16zの創業者たちからUS$125 million を受け取っている。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "出典：Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek。［ロイター＝聯合ニュース資料写真］"
               },
               {
                 "t": "p",
-                "x": "LTFと真っ向から対立するのがPublic First Action(PFA)で、AI安全規制を求め、Anthropicから$40 million を受け取っている。PFAが資金を出したSuper PACsも、狙う有権者に応じてTrumpを支持または批判するように見える広告を流した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Leading the Future、Public First PAC、Public First Actionの支出。グラフィック：Bellingcat"
+                "x": "中国当局は、人工知能（AI）の開発から活用までの全過程を網羅する広範な規制ガイドラインを策定することにした。世界的に浮上しているAIの制御喪失などをめぐる安全保障・安全上の問題への対応とみられる。"
               },
               {
                 "t": "p",
-                "x": "BellingcatはGoogle Ad Transparency Centerにある300件超のオンライン動画広告キャンペーンを分析した。対象は40人の候補者を支持または批判するものだ。AIに触れていたのは二人の候補者を支持・批判する広告だけで、データセンターに言及したものは一つもなかった。PFAの担当者は、連携するPACsが「有権者にとって最も差し迫った問題について」広告を出していると述べた。LTFとその傘下のPACsは掲載時点で回答していない。"
+                "x": "ブルームバーグ通信によると、中国国家発展改革委員会（NDRC）は3日、AIモデルの開発や活用などを管理・監督するための立法を加速していると明らかにした。国家発展改革委員会イノベーション・ハイテク発展司のワン・ルオモン副司長はこの日の会見で、今回導入される規制がデータから計算資源に至る広範な領域に適用されると述べた。また、中国当局が規制の履行状況を定期的に評価し、時代遅れの条項は改正されると付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "具体的な対象には、米国のOpenAIやAnthropicなどに挑むDeepSeek、Moonshot AI、Alibaba Groupなど中国のAI企業が含まれる見通しだ。"
+              },
+              {
+                "t": "p",
+                "x": "ワン副司長は、試行錯誤をより幅広く認めるため、分野別に規制サンドボックスも導入すると明らかにした。そのうえで、AI開発企業と運営企業がリスク管理を強化すると同時に、安全上のリスクや事故、脆弱性を公開しなければならないと強調した。"
+              },
+              {
+                "t": "p",
+                "x": "中国政府は、AIが雇用と仕事の代替に与える影響も監視する計画だ。ワン副司長は、AIの影響を受ける労働者に当局が社会的セーフティーネットを提供すると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "ブルームバーグは、こうした動きはAIが制御不能に陥ったりサイバー攻撃に悪用されたりする可能性を認識し、バランスを取ろうとする中国政府の努力を反映していると分析した。中国政府がAIのもたらす大規模な社会的混乱も警戒しているとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "最近、米シリコンバレーのテック企業トップや専門家がAIが人類の存続を脅かしうると警告したのに続き、AIが制御を外れたりサイバー攻撃に悪用されたりする事例が相次ぎ、世界的に懸念が高まっている。ドナルド・トランプ米大統領と習近平中国国家主席は、9月のワシントンでの首脳会談で、AIのリスクと利点について両国が意見を交換し、関連する事故の際にも意思疎通を図るための対話チャネルを構築することで合意している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "对立的AI PACs\n同时资助两党广告",
-          "body": "Bellingcat将两党广告追溯至OpenAI总裁与Anthropic系AI PACs。",
-          "mini_headline": "对立AI PACs资助两党",
+          "headline": "中国着手制定AI\n全流程监管指南",
+          "body": "中国当局将着手制定涵盖风险披露与监管沙盒等内容的AI监管指南。",
+          "mini_headline": "中国推进AI全流程监管",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "犹他州民主党国会候选人Ben McAdams的一则网络广告称他“反击了MAGA”。在得克萨斯州，另一则广告称共和党候选人Chris Gober为“MAGA战士”。这两则广告最终都由Leading the Future（LTF）出资，这是一个反对“束缚”AI创新之监管的Super PAC网络。FEC文件显示，它已从OpenAI总裁Greg Brockman及其妻子Anna Brockman、Andreessen Horowitz（a16z）以及a16z创始人处获得US$125 million 资金。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "来源：Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek。[路透社=韩联社资料照片]"
               },
               {
                 "t": "p",
-                "x": "与LTF直接对立的是Public First Action（PFA），它呼吁实施AI安全监管，并已从Anthropic获得$40 million 资金。由PFA资助的Super PACs也投放了广告，这些广告根据目标选民的不同，看起来或支持或批评Trump。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Leading the Future、Public First PAC和Public First Action的支出。图表：Bellingcat"
+                "x": "中国当局决定制定涵盖人工智能（AI）从开发到应用全流程的广泛监管指南。此举被解读为应对全球日益凸显的AI失控等安全问题。"
               },
               {
                 "t": "p",
-                "x": "Bellingcat分析了Google Ad Transparency Center中300多个网络视频广告活动，涉及支持或反对40名候选人。只有支持或反对两名候选人的广告提到了AI，没有任何广告提到数据中心。一位PFA代表表示，与其立场一致的PACs投放的广告关注“对选民而言最紧迫的议题”。截至发稿，LTF及其旗下PACs未作回应。"
+                "x": "据彭博社3日报道，中国国家发展和改革委员会（NDRC）当天表示，正在加快推进管理和监督AI模型开发与应用的立法。国家发展改革委创新和高技术发展司副司长Wang Luomeng当天在发布会上表示，此次将出台的规定将适用于从数据到算力资源的广泛领域。他补充说，中国当局将定期评估规定的执行情况，过时的条款将得到修订。"
+              },
+              {
+                "t": "p",
+                "x": "具体对象预计将包括正在挑战美国OpenAI和Anthropic等公司的DeepSeek、Moonshot AI、Alibaba Group等中国AI企业。"
+              },
+              {
+                "t": "p",
+                "x": "这位副司长表示，为了更广泛地允许试错，还将按领域引入监管沙盒。他同时强调，AI开发企业和运营企业在加强风险管理的同时，必须公开安全风险、事故和漏洞。"
+              },
+              {
+                "t": "p",
+                "x": "中国政府还计划监测AI对就业和岗位替代的影响。这位副司长说，当局将为受AI影响的劳动者提供社会安全网。"
+              },
+              {
+                "t": "p",
+                "x": "彭博社分析称，这些举措反映出中国政府意识到AI可能失控或被用于网络攻击，并努力寻求平衡。这也被解读为中国政府同样警惕AI可能带来的大规模社会混乱。"
+              },
+              {
+                "t": "p",
+                "x": "近来，美国硅谷科技企业负责人和专家警告AI可能威胁人类生存，此后AI失控或被用于网络攻击的案例接连出现，全球担忧日益加剧。美国总统唐纳德·特朗普与中国国家主席习近平在9月的华盛顿峰会上同意建立对话渠道，就AI的风险与益处交换意见，并在发生相关事故时进行沟通。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los super PACs rivales de AI\npagan anuncios de ambos partidos",
-          "body": "Bellingcat vinculó anuncios de ambos partidos a super PACs rivales de AI ligados al presidente de OpenAI y a Anthropic.",
-          "mini_headline": "PACs rivales de AI, en ambos bandos",
+          "headline": "China empieza a fijar reglas\npara todo el ciclo de la AI",
+          "body": "Las autoridades chinas preparan pautas para la AI con divulgación de riesgos y entornos de prueba regulatorios.",
+          "mini_headline": "China regula todo el ciclo de la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Un anuncio en línea de Ben McAdams, candidato demócrata al Congreso por Utah, decía que él “se enfrentó al MAGA”. En Texas, otro anuncio llamaba al candidato republicano Chris Gober un “guerrero MAGA”. Ambos se pagaron, en última instancia, con dinero de Leading the Future (LTF), una red de Super PAC que se opone a las regulaciones que “limiten” la innovación en AI. Los registros de la FEC muestran que ha recibido US$125 millones de Greg Brockman, presidente de OpenAI, de su esposa Anna Brockman, de Andreessen Horowitz (a16z) y de los fundadores de a16z."
-              },
-              {
                 "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/superpac_image2.gif",
-                "cap": "Fuente: Think Big / Google Ad Transparency Center"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+                "cap": "DeepSeek. [Reuters=Yonhap, foto de archivo]"
               },
               {
                 "t": "p",
-                "x": "En oposición directa a LTF está Public First Action (PFA), que pide regulaciones de seguridad de la AI y ha recibido $40 millones de Anthropic. Los Super PACs financiados por PFA también emitieron anuncios que parecían apoyar o criticar a Trump según los votantes a los que se dirigían."
-              },
-              {
-                "t": "img",
-                "src": "https://www.bellingcat.com/app/uploads/2026/11/image-1200x646.png",
-                "cap": "Desembolsos de Leading the Future, Public First PAC y Public First Action. Gráfico: Bellingcat"
+                "x": "Las autoridades chinas han decidido elaborar amplias directrices regulatorias que abarcan todo el proceso de la inteligencia artificial (AI), desde su desarrollo hasta su uso. Se interpreta como una respuesta a los problemas de seguridad, como la pérdida de control de la AI, que están surgiendo en todo el mundo."
               },
               {
                 "t": "p",
-                "x": "Bellingcat analizó más de 300 campañas de anuncios en video en línea del Ad Transparency Center de Google, que apoyaban o se oponían a 40 candidatos. Solo los anuncios a favor o en contra de dos candidatos mencionaban la AI, y ninguno mencionaba centros de datos. Un representante de PFA dijo que sus PACs afines emiten anuncios “sobre los temas que más importan de inmediato a los votantes”. LTF y sus PACs no habían respondido al cierre de esta edición."
+                "x": "Según Bloomberg, el día 3 la Comisión Nacional de Desarrollo y Reforma (NDRC) de China afirmó que está acelerando la legislación para gestionar y supervisar el desarrollo y el uso de modelos de AI. Wang Luomeng, subdirector del Departamento de Innovación y Desarrollo de Alta Tecnología de la NDRC, dijo ese día en una rueda de prensa que las normas que se introducirán se aplicarán a una amplia gama de ámbitos, desde los datos hasta los recursos de computación. Añadió que las autoridades chinas evaluarán periódicamente la aplicación de las normas y que las disposiciones obsoletas se revisarán."
+              },
+              {
+                "t": "p",
+                "x": "Se prevé que entre los afectados figuren empresas chinas de AI como DeepSeek, Moonshot AI y Alibaba Group, que desafían a las estadounidenses OpenAI y Anthropic, entre otras."
+              },
+              {
+                "t": "p",
+                "x": "Wang señaló que también se introducirán entornos de prueba regulatorios por sectores para permitir un margen más amplio de ensayo y error. Subrayó que los desarrolladores y operadores de AI deben reforzar la gestión de riesgos y, al mismo tiempo, divulgar los riesgos de seguridad, los incidentes y las vulnerabilidades."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno chino también prevé vigilar el impacto de la AI en el empleo y la sustitución de puestos de trabajo. Wang explicó que las autoridades ofrecerán una red de protección social a los trabajadores afectados por la AI."
+              },
+              {
+                "t": "p",
+                "x": "Según el análisis de Bloomberg, estas medidas reflejan el esfuerzo del Gobierno chino por encontrar un equilibrio, consciente de la posibilidad de que la AI quede fuera de control o se utilice en ciberataques. También se interpreta que el Gobierno chino teme la disrupción social a gran escala que podría traer la AI."
+              },
+              {
+                "t": "p",
+                "x": "La preocupación crece en todo el mundo después de que líderes tecnológicos y expertos de Silicon Valley, en Estados Unidos, advirtieran recientemente de que la AI podría amenazar la existencia de la humanidad, y de que se sucedieran casos de AI fuera de control o utilizada en ciberataques. El presidente de Estados Unidos, Donald Trump, y el presidente chino, Xi Jinping, acordaron en su cumbre de Washington en septiembre crear un canal de diálogo para intercambiar opiniones sobre los riesgos y beneficios de la AI y comunicarse en caso de incidentes relacionados."
               }
             ]
           }
@@ -657,15 +807,15 @@
       }
     },
     {
-      "id": "germany-sovereign-ai-taskforce",
+      "id": "politics-ncsc-ai-ransomware-2028",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Berlin 태스크포스\n2030 주권 AI 로드맵",
-      "body": "독일 태스크포스가 2030년까지 주권 AI와 프랑스·캐나다 협력 대안을 주문했다.",
-      "mini_headline": "독일의 2030 AI 청사진",
+      "headline": "UK NCSC, 2028년\nAI-powered 공격",
+      "body": "NCSC는 두 해 안에 기반시설을 노린 AI-enabled 공격이 유력하다고 봤다.",
+      "mini_headline": "NCSC, 2028년까지 AI 랜섬웨어 예상",
       "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/berlin-unveil-blueprint-catch-up-ai-artificial-intelligence/",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -673,155 +823,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-            "cap": "독일 정부는 자국 AI 개발에 속도를 내려고 “전략적 앵커 고객” 역할을 맡을 계획이다. | Tobias Schwarz/AFP via Getty Images"
+            "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "정부 AI 태스크포스가 작성해 국가안전보장회의에 낼 보고서는 독일이 2030년까지 “주권 AI 국가”가 되어 U.S.(미국)와 중국의 선도 AI 거점을 따라잡아야 한다고 본다. 보고서는 “따라서 앞으로 12~18개월이 방향을 정하는 데 결정적일 것”이라고 적었다."
+            "x": "영국(UK) 국가사이버보안센터(NCSC)는 지금부터 2028년 사이 영국 핵심 국가 기반시설을 노리는 랜섬웨어 공격에 AI-powered 악성코드가 쓰일 가능성이 “매우 높다”고 밝혔다. 연례 검토 보고서와, 앞으로 두 해 동안 AI가 사이버 위협을 어떻게 바꿀지 따져본 별도 평가에 함께 담긴 경고다."
           },
           {
             "t": "p",
-            "x": "독일은 세계 최고 수준 모델에 접근할 길을 확보하면서, 특히 프랑스·캐나다와 협력을 넓혀 유럽의 대안을 키우려 한다. “AI made in Germany”는 “고도로 특화된 모델”을 앞세운 산업용 AI로 두각을 나타내야 한다. 정부는 “전략적 앵커 고객”이 되어 공공 계약과 시범 사업으로 유럽 AI 기업의 시장 진입을 도울 계획이다."
+            "x": "공격자들은 벌써 중국산 AI 레드티밍 플랫폼 ARTEX 같은 오픈소스 AI 보안 도구를 다른 용도로 돌려 쓴다. NCSC는 2028년 비관 시나리오에서 “전 세계 사이버 공격의 빈도와 정교함이 크게 늘어날 것”으로 내다봤다. 자율 공격자가 스스로 복제하며 마음대로 사이버 공격을 벌이는 상황도 “현실적 가능성”으로 꼽았다."
           },
           {
             "t": "p",
-            "x": "청사진에는 18개 조치가 담겼지만 재원 조달 등 핵심 세부 사항은 빠졌다. 정부 목표는 2030년까지 대기업의 80% 이상과 SMEs의 55%가 AI를 쓰고, 연방 기관의 90%가 실제 운영하는 AI 애플리케이션을 하나 이상 갖추며, AI 데이터센터 용량을 2025년 대비 300% 늘리는 것이다."
+            "x": "방어 쪽에서는 Project DROMOS가 정부 코드에서 잠재적 보안 문제 수백 건을 찾아냈다. 보고서는 £60 million을 들이는 에이전트형 사이버 방어 시스템 Cyber Shield 계획을 재확인했다. 새 NERV Centre에 £70 million, National Agentic Security Unit에 £40 million을 배정하는 계획도 내놨다."
+          },
+          {
+            "t": "p",
+            "x": "NCSC CEO Dr Richard Horne은 “시급히 투자하라”고 기관들에 촉구했다. 그는 “수십 년 동안 우리는 다 함께 기술을 값싸게 처리하고도 무사히 넘어왔다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Berlin task force maps\na sovereign AI path to 2030",
-          "body": "A German government task force urges sovereign AI by 2030, with alternatives built alongside France and Canada.",
-          "mini_headline": "Germany's 2030 AI blueprint",
+          "headline": "UK's NCSC expects AI-powered\nransomware attacks by 2028",
+          "body": "The NCSC's annual review says AI-enabled attacks on critical infrastructure are likely within two years.",
+          "mini_headline": "NCSC expects AI ransomware by 2028",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "To help speed up the development of AI in Germany, the government plans to act as a “strategic anchor customer.” | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Germany should become a “sovereign AI nation” by 2030 and narrow the gap with leading AI hubs in the U.S. and China, according to a report drafted by the government’s AI task force, due to be presented to the National Security Council. “The next 12 to 18 months will therefore be decisive in setting the course,” it read."
+                "x": "The UK's National Cyber Security Centre (NCSC) says AI-powered malware is \"highly likely\" to be a part of a future ransomware attack on Britain's critical national infrastructure between now and 2028. The warning accompanies its annual review and a separate assessment exploring how AI could change cyber threats over the next two years."
               },
               {
                 "t": "p",
-                "x": "Germany wants to secure access to the world’s leading models while strengthening European alternatives, particularly through expanded cooperation with France and Canada. “AI made in Germany” should stand out through its focus on industrial AI with “highly specialized models.” The government plans to act as a “strategic anchor customer,” using public contracts and pilot projects to help European AI providers enter the market."
+                "x": "Attackers are already repurposing open source AI security tools, such as ARTEX, a Chinese-made AI red-teaming platform. In its pessimistic scenario for 2028, the NCSC envisages \"a significant increase in the frequency and sophistication of cyberattacks worldwide,\" and says it \"is a realistic possibility\" an autonomous attacker could self-replicate and conduct cyberattacks at will."
               },
               {
                 "t": "p",
-                "x": "The blueprint proposes 18 measures but lacks key details, including on financing. By 2030, the government wants at least 80% of large companies and 55% of SMEs to use AI, 90% of federal agencies to have at least one AI application in production, and AI data center capacity up 300% compared with 2025."
+                "x": "On defence, Project DROMOS uncovered hundreds of potential security issues in government code, and the review reaffirms plans for Cyber Shield, an agentic cyber defense system funded with £60 million, alongside £70 million for a new NERV Centre and £40 million for a National Agentic Security Unit."
+              },
+              {
+                "t": "p",
+                "x": "NCSC CEO Dr Richard Horne called for organizations to \"invest with urgency\": \"For decades, we have collectively got away with doing tech on the cheap.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Berlin 태스크포스\n2030 주권 AI 로드맵",
-          "body": "독일 태스크포스가 2030년까지 주권 AI와 프랑스·캐나다 협력 대안을 주문했다.",
-          "mini_headline": "독일의 2030 AI 청사진",
+          "headline": "UK NCSC, 2028년\nAI-powered 공격",
+          "body": "NCSC는 두 해 안에 기반시설을 노린 AI-enabled 공격이 유력하다고 봤다.",
+          "mini_headline": "NCSC, 2028년까지 AI 랜섬웨어 예상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "독일 정부는 자국 AI 개발에 속도를 내려고 “전략적 앵커 고객” 역할을 맡을 계획이다. | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "정부 AI 태스크포스가 작성해 국가안전보장회의에 낼 보고서는 독일이 2030년까지 “주권 AI 국가”가 되어 U.S.(미국)와 중국의 선도 AI 거점을 따라잡아야 한다고 본다. 보고서는 “따라서 앞으로 12~18개월이 방향을 정하는 데 결정적일 것”이라고 적었다."
+                "x": "영국(UK) 국가사이버보안센터(NCSC)는 지금부터 2028년 사이 영국 핵심 국가 기반시설을 노리는 랜섬웨어 공격에 AI-powered 악성코드가 쓰일 가능성이 “매우 높다”고 밝혔다. 연례 검토 보고서와, 앞으로 두 해 동안 AI가 사이버 위협을 어떻게 바꿀지 따져본 별도 평가에 함께 담긴 경고다."
               },
               {
                 "t": "p",
-                "x": "독일은 세계 최고 수준 모델에 접근할 길을 확보하면서, 특히 프랑스·캐나다와 협력을 넓혀 유럽의 대안을 키우려 한다. “AI made in Germany”는 “고도로 특화된 모델”을 앞세운 산업용 AI로 두각을 나타내야 한다. 정부는 “전략적 앵커 고객”이 되어 공공 계약과 시범 사업으로 유럽 AI 기업의 시장 진입을 도울 계획이다."
+                "x": "공격자들은 벌써 중국산 AI 레드티밍 플랫폼 ARTEX 같은 오픈소스 AI 보안 도구를 다른 용도로 돌려 쓴다. NCSC는 2028년 비관 시나리오에서 “전 세계 사이버 공격의 빈도와 정교함이 크게 늘어날 것”으로 내다봤다. 자율 공격자가 스스로 복제하며 마음대로 사이버 공격을 벌이는 상황도 “현실적 가능성”으로 꼽았다."
               },
               {
                 "t": "p",
-                "x": "청사진에는 18개 조치가 담겼지만 재원 조달 등 핵심 세부 사항은 빠졌다. 정부 목표는 2030년까지 대기업의 80% 이상과 SMEs의 55%가 AI를 쓰고, 연방 기관의 90%가 실제 운영하는 AI 애플리케이션을 하나 이상 갖추며, AI 데이터센터 용량을 2025년 대비 300% 늘리는 것이다."
+                "x": "방어 쪽에서는 Project DROMOS가 정부 코드에서 잠재적 보안 문제 수백 건을 찾아냈다. 보고서는 £60 million을 들이는 에이전트형 사이버 방어 시스템 Cyber Shield 계획을 재확인했다. 새 NERV Centre에 £70 million, National Agentic Security Unit에 £40 million을 배정하는 계획도 내놨다."
+              },
+              {
+                "t": "p",
+                "x": "NCSC CEO Dr Richard Horne은 “시급히 투자하라”고 기관들에 촉구했다. 그는 “수십 년 동안 우리는 다 함께 기술을 값싸게 처리하고도 무사히 넘어왔다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Berlinの作業部会\n2030年への主権AI構想",
-          "body": "ドイツ政府の作業部会は2030年までの主権AIを掲げ、フランス・カナダとの代替策を求めた。",
-          "mini_headline": "ドイツの2030年AI青写真",
+          "headline": "UK NCSC、2028年\nAI-powered攻撃予測",
+          "body": "NCSCは二年以内に重要インフラへのAI-enabled攻撃が起きる公算が大きいとした。",
+          "mini_headline": "NCSC、2028年までのAIランサムウェアを予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "ドイツでのAI開発を加速させるため、政府は「戦略的アンカー顧客」の役割を担う計画だ。 | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "政府のAI作業部会がまとめ、国家安全保障会議に提出される予定の報告書によると、ドイツは2030年までに「主権AI国家」となり、U.S.（米国）と中国の主要なAI拠点との差を縮めるべきだという。報告書は「したがって、今後12〜18カ月が針路を定めるうえで決定的になる」と記している。"
+                "x": "英国（UK）の国家サイバーセキュリティセンター（NCSC）は、今から2028年までの間に英国の重要国家インフラを狙うランサムウェア攻撃で、AI-powered型のマルウェアが使われる可能性は「非常に高い」としている。この警告は年次報告書と、今後二年間でAIがサイバー脅威をどう変えうるかを検討した別の評価とともに示された。"
               },
               {
                 "t": "p",
-                "x": "ドイツは世界トップクラスのモデルへのアクセスを確保しつつ、とりわけフランスやカナダとの協力拡大を通じて欧州の代替手段を強化したい考えだ。「AI made in Germany」は「高度に特化したモデル」を用いた産業向けAIに注力することで際立つべきだとしている。政府は「戦略的アンカー顧客」として、公共調達やパイロット事業を活用し、欧州のAI事業者の市場参入を後押しする計画だ。"
+                "x": "攻撃者はすでに、中国製のAIレッドチーミング基盤ARTEXなど、オープンソースのAIセキュリティツールを転用している。2028年の悲観シナリオで、NCSCは「世界的なサイバー攻撃の頻度と巧妙さの大幅な増加」を想定し、自律型の攻撃者が自己複製して思いのままにサイバー攻撃を行うことは「現実的な可能性がある」と述べている。"
               },
               {
                 "t": "p",
-                "x": "この青写真は18の施策を提案しているが、資金調達を含む重要な詳細が欠けている。政府は2030年までに、大企業の少なくとも80%とSMEsの55%がAIを利用し、連邦機関の90%が少なくとも一つのAIアプリケーションを本番運用し、AIデータセンターの容量を2025年比で300%増やすことを目指す。"
+                "x": "防御面では、Project DROMOSが政府のコードから数百件の潜在的なセキュリティ問題を発見した。報告書は、£60 millionを投じるエージェント型サイバー防御システムCyber Shieldの計画を改めて確認し、新設のNERV Centreに£70 million、National Agentic Security Unitに£40 millionを充てる計画も示した。"
+              },
+              {
+                "t": "p",
+                "x": "NCSCのCEOであるDr Richard Horneは組織に対し「緊急に投資する」よう求め、「何十年もの間、我々は皆、テクノロジーを安く済ませてもやり過ごしてきた」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Berlin工作组\n规划2030年主权AI路径",
-          "body": "德国政府工作组呼吁到2030年实现主权AI，并与法国和加拿大共建替代方案。",
-          "mini_headline": "德国2030年AI蓝图",
+          "headline": "UK NCSC：2028年前\n料现AI-powered攻击",
+          "body": "NCSC年度评估称，两年内针对关键基础设施的AI-enabled攻击很可能发生。",
+          "mini_headline": "NCSC预计2028年前出现AI勒索软件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "为加快德国AI发展，政府计划扮演“战略性锚定客户”的角色。 | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "根据德国政府AI工作组起草、将提交国家安全委员会的一份报告，德国应在2030年前成为“主权AI国家”，并缩小与U.S.（美国）和中国领先AI中心的差距。报告写道：“因此，未来12至18个月对确定方向至关重要。”"
+                "x": "英国（UK）国家网络安全中心（NCSC）表示，从现在到2028年，AI-powered恶意软件“极有可能”成为未来针对英国关键国家基础设施的勒索软件攻击的一部分。这一警告与其年度评估以及另一份探讨AI在未来两年将如何改变网络威胁的评估一同发布。"
               },
               {
                 "t": "p",
-                "x": "德国希望在确保获得全球领先模型的同时，加强欧洲的替代方案，尤其是通过扩大与法国和加拿大的合作。“AI made in Germany”应凭借专注于采用“高度专业化模型”的工业AI而脱颖而出。政府计划充当“战略性锚定客户”，借助公共合同和试点项目帮助欧洲AI供应商进入市场。"
+                "x": "攻击者已在改造利用开源AI安全工具，例如中国开发的AI红队平台ARTEX。在2028年的悲观情景中，NCSC设想“全球网络攻击的频率和复杂程度将显著上升”，并称自主攻击者能够自我复制并随意发动网络攻击“是一种现实的可能性”。"
               },
               {
                 "t": "p",
-                "x": "这份蓝图提出了18项措施，但缺乏包括融资在内的关键细节。政府希望到2030年，至少80%的大企业和55%的SMEs使用AI，90%的联邦机构至少有一个AI应用投入生产，AI数据中心容量较2025年增长300%。"
+                "x": "防御方面，Project DROMOS在政府代码中发现了数百个潜在安全问题。评估重申了投入£60 million打造智能体网络防御系统Cyber Shield的计划，另有£70 million用于新的NERV Centre，£40 million用于National Agentic Security Unit。"
+              },
+              {
+                "t": "p",
+                "x": "NCSC首席执行官（CEO）Dr Richard Horne呼吁各机构“紧急投资”：“几十年来，我们大家一直在以廉价方式做技术，却侥幸没有出事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Grupo en Berlin traza la ruta\nhacia una AI soberana en 2030",
-          "body": "Un grupo de trabajo del Gobierno alemán pide una AI soberana para 2030, con alternativas junto a Francia y Canadá.",
-          "mini_headline": "El plan de AI de Alemania para 2030",
+          "headline": "El NCSC del UK prevé ransomware\nAI-powered para 2028",
+          "body": "La revisión anual del NCSC ve probables ataques AI-enabled contra infraestructuras críticas en un plazo de dos años.",
+          "mini_headline": "El NCSC prevé ransomware con AI para 2028",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "Para acelerar el desarrollo de la AI en Alemania, el Gobierno prevé actuar como “cliente ancla estratégico”. | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Alemania debería convertirse en una “nación de AI soberana” para 2030 y reducir la distancia con los principales polos de AI de U.S. y China, según un informe redactado por el grupo de trabajo de AI del Gobierno, que se presentará al Consejo de Seguridad Nacional. “Por ello, los próximos 12 a 18 meses serán decisivos para fijar el rumbo”, señala el texto."
+                "x": "El Centro Nacional de Ciberseguridad (NCSC) del UK afirma que es “muy probable” que el malware AI-powered forme parte de un futuro ataque de ransomware contra la infraestructura nacional crítica de Gran Bretaña entre hoy y 2028. La advertencia acompaña a su revisión anual y a una evaluación aparte que analiza cómo la AI podría cambiar las ciberamenazas en los próximos dos años."
               },
               {
                 "t": "p",
-                "x": "Alemania quiere asegurarse el acceso a los modelos líderes del mundo y, al mismo tiempo, reforzar las alternativas europeas, en particular mediante una mayor cooperación con Francia y Canadá. La “AI made in Germany” debería distinguirse por su enfoque en la AI industrial con “modelos altamente especializados”. El Gobierno prevé actuar como “cliente ancla estratégico”, usando contratos públicos y proyectos piloto para ayudar a los proveedores europeos de AI a entrar en el mercado."
+                "x": "Los atacantes ya están reutilizando herramientas de seguridad de AI de código abierto, como ARTEX, una plataforma china de red teaming con AI. En su escenario pesimista para 2028, el NCSC prevé “un aumento significativo de la frecuencia y la sofisticación de los ciberataques en todo el mundo” y afirma que “es una posibilidad realista” que un atacante autónomo pueda autorreplicarse y lanzar ciberataques a voluntad."
               },
               {
                 "t": "p",
-                "x": "El plan propone 18 medidas, pero carece de detalles clave, incluida la financiación. Para 2030, el Gobierno quiere que al menos el 80% de las grandes empresas y el 55% de las SMEs usen AI, que el 90% de las agencias federales tengan al menos una aplicación de AI en producción y que la capacidad de los centros de datos de AI aumente un 300% respecto a 2025."
+                "x": "En defensa, Project DROMOS descubrió cientos de posibles problemas de seguridad en el código del Gobierno, y la revisión reafirma los planes para Cyber Shield, un sistema de ciberdefensa agéntico financiado con £60 million, junto con £70 million para un nuevo NERV Centre y £40 million para una National Agentic Security Unit."
+              },
+              {
+                "t": "p",
+                "x": "El CEO del NCSC, el Dr Richard Horne, pidió a las organizaciones “invertir con urgencia”: “Durante décadas, colectivamente nos hemos salido con la nuestra haciendo tecnología a bajo coste”."
               }
             ]
           }
@@ -829,109 +997,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Berlin 태스크포스,\n2030 주권 AI 로드맵",
-          "body": "독일 태스크포스는 2030년까지 주권 AI와 프랑스·캐나다와의 대안을 촉구했다.",
-          "mini_headline": "독일의 2030 AI 청사진",
+          "headline": "UK NCSC, 2028년\nAI-powered 공격",
+          "body": "NCSC는 두 해 안에 기반시설 대상 AI-enabled 공격이 유력하다고 봤다.",
+          "mini_headline": "NCSC, 2028년까지 AI 랜섬웨어 예상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "독일 정부는 자국 AI 개발 속도를 높이기 위해 “전략적 앵커 고객” 역할을 맡을 계획이다. | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "정부 AI 태스크포스가 작성해 국가안전보장회의에 제출할 예정인 보고서에 따르면, 독일은 2030년까지 “주권 AI 국가”가 되어 U.S.(미국)와 중국의 선도적 AI 거점과의 격차를 좁혀야 한다. 보고서는 “따라서 앞으로 12~18개월이 방향을 정하는 데 결정적일 것”이라고 적었다."
+                "x": "영국(UK) 국가사이버보안센터(NCSC)는 지금부터 2028년 사이 영국 핵심 국가 기반시설을 노리는 랜섬웨어 공격에 AI-powered 악성코드가 쓰일 가능성이 “매우 높다”고 밝혔다. 이 경고는 연례 검토 보고서, 그리고 앞으로 두 해 동안 AI가 사이버 위협을 어떻게 바꿀지 살핀 별도 평가와 함께 나왔다."
               },
               {
                 "t": "p",
-                "x": "독일은 세계 최고 수준의 모델에 대한 접근을 확보하는 한편, 특히 프랑스·캐나다와의 협력 확대를 통해 유럽의 대안을 강화하려 한다. “AI made in Germany”는 “고도로 특화된 모델”을 갖춘 산업용 AI에 집중해 두각을 나타내야 한다. 정부는 “전략적 앵커 고객”으로서 공공 계약과 시범 사업을 활용해 유럽 AI 기업의 시장 진입을 도울 계획이다."
+                "x": "공격자들은 이미 중국산 AI 레드티밍 플랫폼 ARTEX 같은 오픈소스 AI 보안 도구를 용도를 바꿔 쓰고 있다. NCSC는 2028년 비관적 시나리오에서 “전 세계 사이버 공격의 빈도와 정교함이 크게 늘어날 것”으로 내다봤고, 자율 공격자가 스스로 복제하며 마음대로 사이버 공격을 벌이는 것은 “현실적 가능성”이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "이 청사진은 18개 조치를 제안하지만 재원 조달을 비롯한 핵심 세부 사항이 빠져 있다. 정부는 2030년까지 대기업의 80% 이상과 SMEs의 55%가 AI를 쓰고, 연방 기관의 90%가 실제 운영 중인 AI 애플리케이션을 하나 이상 갖추며, AI 데이터센터 용량을 2025년 대비 300% 늘리는 것을 목표로 한다."
+                "x": "방어 측면에서는 Project DROMOS가 정부 코드에서 잠재적 보안 문제 수백 건을 찾아냈다. 보고서는 £60 million이 투입되는 에이전트형 사이버 방어 시스템 Cyber Shield 계획을 재확인했고, 새 NERV Centre에 £70 million, National Agentic Security Unit에 £40 million을 배정하는 계획도 함께 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "NCSC CEO Dr Richard Horne은 기관들에 “시급히 투자하라”고 촉구하며 “수십 년 동안 우리는 다 함께 기술을 값싸게 처리하고도 무사히 넘어왔다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Berlinの作業部会\n2030年への主権AI構想",
-          "body": "ドイツ政府の作業部会は2030年までの主権AIを掲げ、フランス・カナダとの代替策を求めた。",
-          "mini_headline": "ドイツの2030年AI青写真",
+          "headline": "UK NCSC、2028年\nAI-powered攻撃予測",
+          "body": "NCSCは二年以内に重要インフラへのAI-enabled攻撃が起きる公算が大きいとした。",
+          "mini_headline": "NCSC、2028年までのAIランサムウェアを予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "ドイツでのAI開発を加速させるため、政府は「戦略的アンカー顧客」の役割を担う計画だ。 | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "政府のAI作業部会がまとめ、国家安全保障会議に提出される予定の報告書によると、ドイツは2030年までに「主権AI国家」となり、U.S.（米国）と中国の主要なAI拠点との差を縮めるべきだという。報告書は「したがって、今後12〜18カ月が針路を定めるうえで決定的になる」と記している。"
+                "x": "英国（UK）の国家サイバーセキュリティセンター（NCSC）は、今から2028年までの間に英国の重要国家インフラを狙うランサムウェア攻撃で、AI-powered型のマルウェアが使われる可能性は「非常に高い」としている。この警告は年次報告書と、今後二年間でAIがサイバー脅威をどう変えうるかを検討した別の評価とともに示された。"
               },
               {
                 "t": "p",
-                "x": "ドイツは世界トップクラスのモデルへのアクセスを確保しつつ、とりわけフランスやカナダとの協力拡大を通じて欧州の代替手段を強化したい考えだ。「AI made in Germany」は「高度に特化したモデル」を用いた産業向けAIに注力することで際立つべきだとしている。政府は「戦略的アンカー顧客」として、公共調達やパイロット事業を活用し、欧州のAI事業者の市場参入を後押しする計画だ。"
+                "x": "攻撃者はすでに、中国製のAIレッドチーミング基盤ARTEXなど、オープンソースのAIセキュリティツールを転用している。2028年の悲観シナリオで、NCSCは「世界的なサイバー攻撃の頻度と巧妙さの大幅な増加」を想定し、自律型の攻撃者が自己複製して思いのままにサイバー攻撃を行うことは「現実的な可能性がある」と述べている。"
               },
               {
                 "t": "p",
-                "x": "この青写真は18の施策を提案しているが、資金調達を含む重要な詳細が欠けている。政府は2030年までに、大企業の少なくとも80%とSMEsの55%がAIを利用し、連邦機関の90%が少なくとも一つのAIアプリケーションを本番運用し、AIデータセンターの容量を2025年比で300%増やすことを目指す。"
+                "x": "防御面では、Project DROMOSが政府のコードから数百件の潜在的なセキュリティ問題を発見した。報告書は、£60 millionを投じるエージェント型サイバー防御システムCyber Shieldの計画を改めて確認し、新設のNERV Centreに£70 million、National Agentic Security Unitに£40 millionを充てる計画も示した。"
+              },
+              {
+                "t": "p",
+                "x": "NCSCのCEOであるDr Richard Horneは組織に対し「緊急に投資する」よう求め、「何十年もの間、我々は皆、テクノロジーを安く済ませてもやり過ごしてきた」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Berlin工作组\n规划2030年主权AI路径",
-          "body": "德国政府工作组呼吁到2030年实现主权AI，并与法国和加拿大共建替代方案。",
-          "mini_headline": "德国2030年AI蓝图",
+          "headline": "UK NCSC：2028年前\n料现AI-powered攻击",
+          "body": "NCSC年度评估称，两年内针对关键基础设施的AI-enabled攻击很可能发生。",
+          "mini_headline": "NCSC预计2028年前出现AI勒索软件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "为加快德国AI发展，政府计划扮演“战略性锚定客户”的角色。 | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "根据德国政府AI工作组起草、将提交国家安全委员会的一份报告，德国应在2030年前成为“主权AI国家”，并缩小与U.S.（美国）和中国领先AI中心的差距。报告写道：“因此，未来12至18个月对确定方向至关重要。”"
+                "x": "英国（UK）国家网络安全中心（NCSC）表示，从现在到2028年，AI-powered恶意软件“极有可能”成为未来针对英国关键国家基础设施的勒索软件攻击的一部分。这一警告与其年度评估以及另一份探讨AI在未来两年将如何改变网络威胁的评估一同发布。"
               },
               {
                 "t": "p",
-                "x": "德国希望在确保获得全球领先模型的同时，加强欧洲的替代方案，尤其是通过扩大与法国和加拿大的合作。“AI made in Germany”应凭借专注于采用“高度专业化模型”的工业AI而脱颖而出。政府计划充当“战略性锚定客户”，借助公共合同和试点项目帮助欧洲AI供应商进入市场。"
+                "x": "攻击者已在改造利用开源AI安全工具，例如中国开发的AI红队平台ARTEX。在2028年的悲观情景中，NCSC设想“全球网络攻击的频率和复杂程度将显著上升”，并称自主攻击者能够自我复制并随意发动网络攻击“是一种现实的可能性”。"
               },
               {
                 "t": "p",
-                "x": "这份蓝图提出了18项措施，但缺乏包括融资在内的关键细节。政府希望到2030年，至少80%的大企业和55%的SMEs使用AI，90%的联邦机构至少有一个AI应用投入生产，AI数据中心容量较2025年增长300%。"
+                "x": "防御方面，Project DROMOS在政府代码中发现了数百个潜在安全问题。评估重申了投入£60 million打造智能体网络防御系统Cyber Shield的计划，另有£70 million用于新的NERV Centre，£40 million用于National Agentic Security Unit。"
+              },
+              {
+                "t": "p",
+                "x": "NCSC首席执行官（CEO）Dr Richard Horne呼吁各机构“紧急投资”：“几十年来，我们大家一直在以廉价方式做技术，却侥幸没有出事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Grupo en Berlin traza la ruta\nhacia una AI soberana en 2030",
-          "body": "Un grupo de trabajo del Gobierno alemán pide una AI soberana para 2030, con alternativas junto a Francia y Canadá.",
-          "mini_headline": "El plan de AI de Alemania para 2030",
+          "headline": "El NCSC del UK prevé ransomware\nAI-powered para 2028",
+          "body": "La revisión anual del NCSC ve probables ataques AI-enabled contra infraestructuras críticas en un plazo de dos años.",
+          "mini_headline": "El NCSC prevé ransomware con AI para 2028",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=704,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-                "cap": "Para acelerar el desarrollo de la AI en Alemania, el Gobierno prevé actuar como “cliente ancla estratégico”. | Tobias Schwarz/AFP via Getty Images"
+                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Alemania debería convertirse en una “nación de AI soberana” para 2030 y reducir la distancia con los principales polos de AI de U.S. y China, según un informe redactado por el grupo de trabajo de AI del Gobierno, que se presentará al Consejo de Seguridad Nacional. “Por ello, los próximos 12 a 18 meses serán decisivos para fijar el rumbo”, señala el texto."
+                "x": "El Centro Nacional de Ciberseguridad (NCSC) del UK afirma que es “muy probable” que el malware AI-powered forme parte de un futuro ataque de ransomware contra la infraestructura nacional crítica de Gran Bretaña entre hoy y 2028. La advertencia acompaña a su revisión anual y a una evaluación aparte que analiza cómo la AI podría cambiar las ciberamenazas en los próximos dos años."
               },
               {
                 "t": "p",
-                "x": "Alemania quiere asegurarse el acceso a los modelos líderes del mundo y, al mismo tiempo, reforzar las alternativas europeas, en particular mediante una mayor cooperación con Francia y Canadá. La “AI made in Germany” debería distinguirse por su enfoque en la AI industrial con “modelos altamente especializados”. El Gobierno prevé actuar como “cliente ancla estratégico”, usando contratos públicos y proyectos piloto para ayudar a los proveedores europeos de AI a entrar en el mercado."
+                "x": "Los atacantes ya están reutilizando herramientas de seguridad de AI de código abierto, como ARTEX, una plataforma china de red teaming con AI. En su escenario pesimista para 2028, el NCSC prevé “un aumento significativo de la frecuencia y la sofisticación de los ciberataques en todo el mundo” y afirma que “es una posibilidad realista” que un atacante autónomo pueda autorreplicarse y lanzar ciberataques a voluntad."
               },
               {
                 "t": "p",
-                "x": "El plan propone 18 medidas, pero carece de detalles clave, incluida la financiación. Para 2030, el Gobierno quiere que al menos el 80% de las grandes empresas y el 55% de las SMEs usen AI, que el 90% de las agencias federales tengan al menos una aplicación de AI en producción y que la capacidad de los centros de datos de AI aumente un 300% respecto a 2025."
+                "x": "En defensa, Project DROMOS descubrió cientos de posibles problemas de seguridad en el código del Gobierno, y la revisión reafirma los planes para Cyber Shield, un sistema de ciberdefensa agéntico financiado con £60 million, junto con £70 million para un nuevo NERV Centre y £40 million para una National Agentic Security Unit."
+              },
+              {
+                "t": "p",
+                "x": "El CEO del NCSC, el Dr Richard Horne, pidió a las organizaciones “invertir con urgencia”: “Durante décadas, colectivamente nos hemos salido con la nuestra haciendo tecnología a bajo coste”."
               }
             ]
           }
@@ -939,15 +1119,457 @@
       }
     },
     {
-      "id": "india-model-to-data-plan",
+      "id": "politics-upstage-solar-gov-platform",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "업스테이지 솔라 프로 4\n범정부 AI 기반 탑재",
+      "body": "중앙부처와 지자체가 별도 GPU 없이 행정망에서 국산 LLM을 쓸 수 있게 됐다.",
+      "mini_headline": "솔라 프로 4, 범정부 AI 탑재",
+      "tool": "Politics",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261103000312",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+            "cap": "업스테이지 거대언어모델(LLM) '솔라 프로 4'이 범정부 인공지능(AI) 공통기반에 탑재됐다. 업스테이지"
+          },
+          {
+            "t": "p",
+            "x": "업스테이지는 거대언어모델(LLM) '솔라 프로 4'를 범정부 인공지능(AI) 공통기반에 탑재하고 정식 서비스를 시작했다고 3일 밝혔다. 행정망에서 별도 그래픽처리장치(GPU) 인프라 구축 없이 국산 AI 모델을 활용할 수 있게 됐다."
+          },
+          {
+            "t": "p",
+            "x": "범정부 AI 공통기반은 행정안전부와 과학기술정보통신부가 중앙부처와 지방자치단체에 AI 모델과 데이터, 개발 환경 등을 제공하는 행정망 전용 AI 인프라다. 솔라 프로 4는 공통기반의 AI 플랫폼인 삼성SDS '패브릭스'를 통해 제공된다."
+          },
+          {
+            "t": "p",
+            "x": "솔라 프로 4는 국가정보원 보안성 심사를 통과한 행정망 인프라에서 운영돼 내부 행정 데이터의 외부 유출을 방지할 수 있다. 모델 운영에 필요한 GPU 자원은 공통기반에서 통합 관리한다. 각 기관은 별도 GPU 서버 구축이나 임차 없이 채팅 화면이나 응용프로그램인터페이스(API)에서 활용할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "법령·보도자료·행정자료 등과 연계해 답변 근거도 제시한다. 공무원들은 솔라 프로 4를 조례·규정 개정안의 상위법 저촉 여부를 살피는 법령 검토, 근거 법령과 처리 절차를 찾아 쓰는 민원 답변 초안 작성에 활용할 수 있다. 회의 메모와 참고자료로 만드는 보고서 초안 작성, 정책자료의 핵심과 쟁점을 정리하는 장문 문서 요약 등에도 활용할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "공공부문은 보안 규제와 GPU 인프라 부족으로 AI 활용에 제약이 있었다. 업스테이지는 솔라 프로 4를 통해 보안과 인프라 요건을 모두 갖춘 행정망 안에서 국산 AI 모델을 업무에 활용할 수 있다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "김성훈 업스테이지 대표는 “공공 업무에 필요한 AI는 보안을 지키고 근거를 갖춰 답하는 믿고 맡길 수 있는 AI”라며 “신뢰할 수 있는 국산 AI가 공공업무 혁신을 이끌 수 있다는 것을 행정 현장에서 증명하겠다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "업스테이지는 앞서 지난달 경량언어모델(SLM) '솔라 미니 4'를 공개했다. 350억 매개변수(파라미터) 중 30억 매개변수만 활성화하는 구조로, 글로벌 AI 성능 평가에서 동급 소형 모델 중 최고 수준을 기록했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "업스테이지 솔라 프로 4\n범정부 AI 기반 탑재",
+          "body": "중앙부처와 지자체가 별도 GPU 없이 행정망에서 국산 LLM을 쓸 수 있게 됐다.",
+          "mini_headline": "솔라 프로 4, 범정부 AI 탑재",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "업스테이지 거대언어모델(LLM) '솔라 프로 4'이 범정부 인공지능(AI) 공통기반에 탑재됐다. 업스테이지"
+              },
+              {
+                "t": "p",
+                "x": "업스테이지는 거대언어모델(LLM) '솔라 프로 4'를 범정부 인공지능(AI) 공통기반에 탑재하고 정식 서비스를 시작했다고 3일 밝혔다. 행정망에서 별도 그래픽처리장치(GPU) 인프라 구축 없이 국산 AI 모델을 활용할 수 있게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "범정부 AI 공통기반은 행정안전부와 과학기술정보통신부가 중앙부처와 지방자치단체에 AI 모델과 데이터, 개발 환경 등을 제공하는 행정망 전용 AI 인프라다. 솔라 프로 4는 공통기반의 AI 플랫폼인 삼성SDS '패브릭스'를 통해 제공된다."
+              },
+              {
+                "t": "p",
+                "x": "솔라 프로 4는 국가정보원 보안성 심사를 통과한 행정망 인프라에서 운영돼 내부 행정 데이터의 외부 유출을 방지할 수 있다. 모델 운영에 필요한 GPU 자원은 공통기반에서 통합 관리한다. 각 기관은 별도 GPU 서버 구축이나 임차 없이 채팅 화면이나 응용프로그램인터페이스(API)에서 활용할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "법령·보도자료·행정자료 등과 연계해 답변 근거도 제시한다. 공무원들은 솔라 프로 4를 조례·규정 개정안의 상위법 저촉 여부를 살피는 법령 검토, 근거 법령과 처리 절차를 찾아 쓰는 민원 답변 초안 작성에 활용할 수 있다. 회의 메모와 참고자료로 만드는 보고서 초안 작성, 정책자료의 핵심과 쟁점을 정리하는 장문 문서 요약 등에도 활용할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "공공부문은 보안 규제와 GPU 인프라 부족으로 AI 활용에 제약이 있었다. 업스테이지는 솔라 프로 4를 통해 보안과 인프라 요건을 모두 갖춘 행정망 안에서 국산 AI 모델을 업무에 활용할 수 있다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "김성훈 업스테이지 대표는 “공공 업무에 필요한 AI는 보안을 지키고 근거를 갖춰 답하는 믿고 맡길 수 있는 AI”라며 “신뢰할 수 있는 국산 AI가 공공업무 혁신을 이끌 수 있다는 것을 행정 현장에서 증명하겠다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "업스테이지는 앞서 지난달 경량언어모델(SLM) '솔라 미니 4'를 공개했다. 350억 매개변수(파라미터) 중 30억 매개변수만 활성화하는 구조로, 글로벌 AI 성능 평가에서 동급 소형 모델 중 최고 수준을 기록했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Upstage Solar Pro 4 joins\ngovernment-wide AI platform",
+          "body": "Central ministries and local governments can now use a Korean LLM on the government network without a separate GPU.",
+          "mini_headline": "Solar Pro 4 joins government-wide AI platform",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "Upstage's large language model (LLM) 'Solar Pro 4' has been added to the government-wide artificial intelligence (AI) common platform. Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstage said on the 3rd that it has added its large language model (LLM) 'Solar Pro 4' to the government-wide artificial intelligence (AI) common platform and launched the official service. Korean AI models can now be used on the government network without building separate graphics processing unit (GPU) infrastructure."
+              },
+              {
+                "t": "p",
+                "x": "The government-wide AI common platform is AI infrastructure dedicated to the government network, through which the Ministry of the Interior and Safety and the Ministry of Science and ICT provide AI models, data and development environments to central ministries and local governments. Solar Pro 4 is offered through Samsung SDS's 'FabriX', the common platform's AI platform."
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4 runs on government network infrastructure that has passed the National Intelligence Service's security review, which prevents internal administrative data from leaking outside. The GPU resources needed to run the model are managed centrally by the common platform. Each agency can use it through a chat screen or an application programming interface (API) without building or leasing its own GPU servers."
+              },
+              {
+                "t": "p",
+                "x": "It also provides the grounds for its answers by linking to laws, press releases and administrative materials. Public officials can use Solar Pro 4 for legal reviews that check whether draft amendments to ordinances and regulations conflict with higher laws, and for drafting replies to civil complaints by finding the relevant laws and procedures. It can also be used to draft reports from meeting notes and reference materials, and to summarize long documents by organizing the key points and issues of policy materials."
+              },
+              {
+                "t": "p",
+                "x": "The public sector has faced limits on using AI because of security regulations and a shortage of GPU infrastructure. Upstage explained that, with Solar Pro 4, Korean AI models can be used for work within a government network that meets both security and infrastructure requirements."
+              },
+              {
+                "t": "p",
+                "x": "Upstage CEO Kim Sung-hoon said, “The AI needed for public work is AI you can trust, one that keeps data secure and answers with evidence,” adding, “We will prove in the field of public administration that trustworthy Korean AI can lead innovation in public work.”"
+              },
+              {
+                "t": "p",
+                "x": "Last month, Upstage unveiled its small language model (SLM) 'Solar Mini 4'. Its structure activates only 30억 of its 350억 parameters, and it recorded top-level performance among small models of its class in global AI benchmarks."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Solar Pro 4、\n汎政府AI基盤に搭載",
+          "body": "中央省庁と自治体が、別途GPUなしで行政網で国産LLMを使えるようになった。",
+          "mini_headline": "Solar Pro 4、汎政府AI基盤に搭載",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "Upstageの大規模言語モデル（LLM）「Solar Pro 4」が汎政府人工知能（AI）共通基盤に搭載された。Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstageは3日、大規模言語モデル（LLM）「Solar Pro 4」を汎政府人工知能（AI）共通基盤に搭載し、正式サービスを開始したと明らかにした。行政網で別途、画像処理装置（GPU）インフラを構築することなく、国産AIモデルを活用できるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "汎政府AI共通基盤は、行政安全部と科学技術情報通信部が中央省庁や地方自治体にAIモデルやデータ、開発環境などを提供する行政網専用のAIインフラだ。Solar Pro 4は、共通基盤のAIプラットフォームであるSamsung SDSの「FabriX」を通じて提供される。"
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4は国家情報院のセキュリティ審査を通過した行政網インフラで運用され、内部の行政データの外部流出を防ぐことができる。モデル運用に必要なGPU資源は共通基盤で一括管理する。各機関は別途GPUサーバーを構築したり借りたりすることなく、チャット画面やアプリケーション・プログラミング・インターフェース（API）で活用できる。"
+              },
+              {
+                "t": "p",
+                "x": "法令・報道資料・行政資料などと連携し、回答の根拠も示す。公務員はSolar Pro 4を、条例・規定の改正案が上位法に抵触するかを確認する法令審査や、根拠法令と処理手続きを調べて書く民願回答の草案作成に活用できる。会議メモや参考資料をもとにした報告書の草案作成、政策資料の要点と争点を整理する長文文書の要約などにも活用できる。"
+              },
+              {
+                "t": "p",
+                "x": "公共部門は、セキュリティ規制とGPUインフラの不足によりAI活用に制約があった。Upstageは、Solar Pro 4によって、セキュリティとインフラの要件をともに満たした行政網の中で国産AIモデルを業務に活用できると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Upstageのキム・ソンフン代表は「公共業務に必要なAIは、セキュリティを守り、根拠を備えて答える、安心して任せられるAIだ」とし、「信頼できる国産AIが公共業務の革新を導けることを行政の現場で証明する」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Upstageはこれに先立ち、先月、軽量言語モデル（SLM）「Solar Mini 4」を公開した。350億のパラメータのうち30億だけを活性化する構造で、グローバルなAI性能評価で同クラスの小型モデルの中で最高水準を記録した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Solar Pro 4上线\n全政府AI公共平台",
+          "body": "中央部委和地方政府无需另配GPU，即可在政务网中使用国产LLM。",
+          "mini_headline": "Solar Pro 4接入全政府AI平台",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "Upstage大语言模型（LLM）“Solar Pro 4”已接入全政府人工智能（AI）公共平台。Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstage于3日表示，已将大语言模型（LLM）“Solar Pro 4”接入全政府人工智能（AI）公共平台，并正式上线服务。政务网无需另建图形处理器（GPU）基础设施，即可使用国产AI模型。"
+              },
+              {
+                "t": "p",
+                "x": "全政府AI公共平台是行政安全部和科学技术信息通信部向中央部委和地方政府提供AI模型、数据和开发环境等的政务网专用AI基础设施。Solar Pro 4通过该公共平台的AI平台——Samsung SDS的“FabriX”提供。"
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4运行在通过国家情报院安全审查的政务网基础设施上，可防止内部行政数据外泄。模型运行所需的GPU资源由公共平台统一管理。各机关无需另行搭建或租用GPU服务器，即可通过聊天界面或应用程序接口（API）使用。"
+              },
+              {
+                "t": "p",
+                "x": "它还与法令、新闻稿和行政资料等关联，给出回答依据。公务员可将Solar Pro 4用于审查条例、规定修订案是否抵触上位法的法令审查，以及查找依据法令和办理程序、撰写民众诉求答复初稿。它还可用于根据会议记录和参考资料撰写报告初稿，以及梳理政策资料要点和争议点的长文档摘要等。"
+              },
+              {
+                "t": "p",
+                "x": "公共部门此前因安全监管和GPU基础设施不足，在使用AI方面受到限制。Upstage表示，借助Solar Pro 4，可以在同时满足安全和基础设施要求的政务网内，将国产AI模型用于工作。"
+              },
+              {
+                "t": "p",
+                "x": "Upstage代表金成勋表示：“公共业务所需的AI，是能守住安全、有据可依地作答、值得信赖托付的AI。”他还表示：“我们将在行政一线证明，值得信赖的国产AI能够引领公共业务创新。”"
+              },
+              {
+                "t": "p",
+                "x": "Upstage此前于上月发布了轻量语言模型（SLM）“Solar Mini 4”。该模型在350亿参数中仅激活30亿参数，在全球AI性能评测中取得了同级小型模型中的最高水平。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Solar Pro 4 de Upstage llega\na la plataforma de AI estatal",
+          "body": "Ministerios centrales y gobiernos locales ya pueden usar un LLM coreano en la red administrativa sin una GPU propia.",
+          "mini_headline": "Solar Pro 4 llega a la plataforma de AI estatal",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "El modelo de lenguaje grande (LLM) 'Solar Pro 4' de Upstage se ha incorporado a la plataforma común de inteligencia artificial (AI) de todo el Gobierno. Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstage anunció el día 3 que ha incorporado su modelo de lenguaje grande (LLM) 'Solar Pro 4' a la plataforma común de inteligencia artificial (AI) de todo el Gobierno y que ha iniciado el servicio oficial. Ahora es posible usar modelos de AI nacionales en la red administrativa sin construir una infraestructura propia de unidades de procesamiento gráfico (GPU)."
+              },
+              {
+                "t": "p",
+                "x": "La plataforma común de AI de todo el Gobierno es una infraestructura de AI exclusiva de la red administrativa con la que el Ministerio del Interior y Seguridad y el Ministerio de Ciencia y TIC ofrecen modelos de AI, datos y entornos de desarrollo, entre otros, a los ministerios centrales y a los gobiernos locales. Solar Pro 4 se ofrece a través de 'FabriX', de Samsung SDS, la plataforma de AI de la plataforma común."
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4 funciona en una infraestructura de la red administrativa que ha superado la revisión de seguridad del Servicio Nacional de Inteligencia, lo que permite evitar la fuga de datos administrativos internos. Los recursos de GPU necesarios para operar el modelo se gestionan de forma centralizada en la plataforma común. Cada organismo puede usarlo desde una pantalla de chat o una interfaz de programación de aplicaciones (API) sin construir ni alquilar sus propios servidores de GPU."
+              },
+              {
+                "t": "p",
+                "x": "También ofrece fundamentos para sus respuestas al vincularse con leyes, comunicados de prensa y documentos administrativos. Los funcionarios pueden usar Solar Pro 4 para revisar si los proyectos de reforma de ordenanzas y reglamentos contradicen leyes de rango superior, y para redactar borradores de respuestas a quejas ciudadanas buscando la normativa y los procedimientos aplicables. También puede usarse para redactar borradores de informes a partir de notas de reuniones y materiales de referencia, y para resumir documentos extensos ordenando los puntos clave y las cuestiones en debate de los materiales de políticas."
+              },
+              {
+                "t": "p",
+                "x": "El sector público tenía limitaciones para usar la AI por las normas de seguridad y la falta de infraestructura de GPU. Upstage explicó que, con Solar Pro 4, es posible usar modelos de AI nacionales en el trabajo dentro de una red administrativa que cumple tanto los requisitos de seguridad como los de infraestructura."
+              },
+              {
+                "t": "p",
+                "x": "Kim Sung-hoon, director ejecutivo de Upstage, dijo: “La AI que necesita el trabajo público es una AI en la que se puede confiar, que protege la seguridad y responde con fundamentos”, y añadió: “Demostraremos en la práctica administrativa que una AI nacional fiable puede impulsar la innovación del trabajo público”."
+              },
+              {
+                "t": "p",
+                "x": "Upstage presentó el mes pasado su modelo de lenguaje ligero (SLM) 'Solar Mini 4'. Su estructura activa solo 30억 de sus 350억 parámetros, y obtuvo el nivel más alto entre los modelos pequeños de su categoría en evaluaciones globales de rendimiento de AI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Upstage Solar Pro 4 joins\ngovernment-wide AI platform",
+          "body": "Central ministries and local governments can now use a Korean LLM on the government network without a separate GPU.",
+          "mini_headline": "Solar Pro 4 joins government-wide AI platform",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "Upstage's large language model (LLM) 'Solar Pro 4' has been added to the government-wide artificial intelligence (AI) common platform. Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstage said on the 3rd that it has added its large language model (LLM) 'Solar Pro 4' to the government-wide artificial intelligence (AI) common platform and launched the official service. Korean AI models can now be used on the government network without building separate graphics processing unit (GPU) infrastructure."
+              },
+              {
+                "t": "p",
+                "x": "The government-wide AI common platform is AI infrastructure dedicated to the government network, through which the Ministry of the Interior and Safety and the Ministry of Science and ICT provide AI models, data and development environments to central ministries and local governments. Solar Pro 4 is offered through Samsung SDS's 'FabriX', the common platform's AI platform."
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4 runs on government network infrastructure that has passed the National Intelligence Service's security review, which prevents internal administrative data from leaking outside. The GPU resources needed to run the model are managed centrally by the common platform. Each agency can use it through a chat screen or an application programming interface (API) without building or leasing its own GPU servers."
+              },
+              {
+                "t": "p",
+                "x": "It also provides the grounds for its answers by linking to laws, press releases and administrative materials. Public officials can use Solar Pro 4 for legal reviews that check whether draft amendments to ordinances and regulations conflict with higher laws, and for drafting replies to civil complaints by finding the relevant laws and procedures. It can also be used to draft reports from meeting notes and reference materials, and to summarize long documents by organizing the key points and issues of policy materials."
+              },
+              {
+                "t": "p",
+                "x": "The public sector has faced limits on using AI because of security regulations and a shortage of GPU infrastructure. Upstage explained that, with Solar Pro 4, Korean AI models can be used for work within a government network that meets both security and infrastructure requirements."
+              },
+              {
+                "t": "p",
+                "x": "Upstage CEO Kim Sung-hoon said, “The AI needed for public work is AI you can trust, one that keeps data secure and answers with evidence,” adding, “We will prove in the field of public administration that trustworthy Korean AI can lead innovation in public work.”"
+              },
+              {
+                "t": "p",
+                "x": "Last month, Upstage unveiled its small language model (SLM) 'Solar Mini 4'. Its structure activates only 30억 of its 350억 parameters, and it recorded top-level performance among small models of its class in global AI benchmarks."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Solar Pro 4、\n汎政府AI基盤に搭載",
+          "body": "中央省庁と自治体が、別途GPUなしで行政網で国産LLMを使えるようになった。",
+          "mini_headline": "Solar Pro 4、汎政府AI基盤に搭載",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "Upstageの大規模言語モデル（LLM）「Solar Pro 4」が汎政府人工知能（AI）共通基盤に搭載された。Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstageは3日、大規模言語モデル（LLM）「Solar Pro 4」を汎政府人工知能（AI）共通基盤に搭載し、正式サービスを開始したと明らかにした。行政網で別途、画像処理装置（GPU）インフラを構築することなく、国産AIモデルを活用できるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "汎政府AI共通基盤は、行政安全部と科学技術情報通信部が中央省庁や地方自治体にAIモデルやデータ、開発環境などを提供する行政網専用のAIインフラだ。Solar Pro 4は、共通基盤のAIプラットフォームであるSamsung SDSの「FabriX」を通じて提供される。"
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4は国家情報院のセキュリティ審査を通過した行政網インフラで運用され、内部の行政データの外部流出を防ぐことができる。モデル運用に必要なGPU資源は共通基盤で一括管理する。各機関は別途GPUサーバーを構築したり借りたりすることなく、チャット画面やアプリケーション・プログラミング・インターフェース（API）で活用できる。"
+              },
+              {
+                "t": "p",
+                "x": "法令・報道資料・行政資料などと連携し、回答の根拠も示す。公務員はSolar Pro 4を、条例・規定の改正案が上位法に抵触するかを確認する法令審査や、根拠法令と処理手続きを調べて書く民願回答の草案作成に活用できる。会議メモや参考資料をもとにした報告書の草案作成、政策資料の要点と争点を整理する長文文書の要約などにも活用できる。"
+              },
+              {
+                "t": "p",
+                "x": "公共部門は、セキュリティ規制とGPUインフラの不足によりAI活用に制約があった。Upstageは、Solar Pro 4によって、セキュリティとインフラの要件をともに満たした行政網の中で国産AIモデルを業務に活用できると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Upstageのキム・ソンフン代表は「公共業務に必要なAIは、セキュリティを守り、根拠を備えて答える、安心して任せられるAIだ」とし、「信頼できる国産AIが公共業務の革新を導けることを行政の現場で証明する」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Upstageはこれに先立ち、先月、軽量言語モデル（SLM）「Solar Mini 4」を公開した。350億のパラメータのうち30億だけを活性化する構造で、グローバルなAI性能評価で同クラスの小型モデルの中で最高水準を記録した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Solar Pro 4上线\n全政府AI公共平台",
+          "body": "中央部委和地方政府无需另配GPU，即可在政务网中使用国产LLM。",
+          "mini_headline": "Solar Pro 4接入全政府AI平台",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "Upstage大语言模型（LLM）“Solar Pro 4”已接入全政府人工智能（AI）公共平台。Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstage于3日表示，已将大语言模型（LLM）“Solar Pro 4”接入全政府人工智能（AI）公共平台，并正式上线服务。政务网无需另建图形处理器（GPU）基础设施，即可使用国产AI模型。"
+              },
+              {
+                "t": "p",
+                "x": "全政府AI公共平台是行政安全部和科学技术信息通信部向中央部委和地方政府提供AI模型、数据和开发环境等的政务网专用AI基础设施。Solar Pro 4通过该公共平台的AI平台——Samsung SDS的“FabriX”提供。"
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4运行在通过国家情报院安全审查的政务网基础设施上，可防止内部行政数据外泄。模型运行所需的GPU资源由公共平台统一管理。各机关无需另行搭建或租用GPU服务器，即可通过聊天界面或应用程序接口（API）使用。"
+              },
+              {
+                "t": "p",
+                "x": "它还与法令、新闻稿和行政资料等关联，给出回答依据。公务员可将Solar Pro 4用于审查条例、规定修订案是否抵触上位法的法令审查，以及查找依据法令和办理程序、撰写民众诉求答复初稿。它还可用于根据会议记录和参考资料撰写报告初稿，以及梳理政策资料要点和争议点的长文档摘要等。"
+              },
+              {
+                "t": "p",
+                "x": "公共部门此前因安全监管和GPU基础设施不足，在使用AI方面受到限制。Upstage表示，借助Solar Pro 4，可以在同时满足安全和基础设施要求的政务网内，将国产AI模型用于工作。"
+              },
+              {
+                "t": "p",
+                "x": "Upstage代表金成勋表示：“公共业务所需的AI，是能守住安全、有据可依地作答、值得信赖托付的AI。”他还表示：“我们将在行政一线证明，值得信赖的国产AI能够引领公共业务创新。”"
+              },
+              {
+                "t": "p",
+                "x": "Upstage此前于上月发布了轻量语言模型（SLM）“Solar Mini 4”。该模型在350亿参数中仅激活30亿参数，在全球AI性能评测中取得了同级小型模型中的最高水平。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Solar Pro 4 de Upstage llega\na la plataforma de AI estatal",
+          "body": "Ministerios centrales y gobiernos locales ya pueden usar un LLM coreano en la red administrativa sin una GPU propia.",
+          "mini_headline": "Solar Pro 4 llega a la plataforma de AI estatal",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+                "cap": "El modelo de lenguaje grande (LLM) 'Solar Pro 4' de Upstage se ha incorporado a la plataforma común de inteligencia artificial (AI) de todo el Gobierno. Upstage"
+              },
+              {
+                "t": "p",
+                "x": "Upstage anunció el día 3 que ha incorporado su modelo de lenguaje grande (LLM) 'Solar Pro 4' a la plataforma común de inteligencia artificial (AI) de todo el Gobierno y que ha iniciado el servicio oficial. Ahora es posible usar modelos de AI nacionales en la red administrativa sin construir una infraestructura propia de unidades de procesamiento gráfico (GPU)."
+              },
+              {
+                "t": "p",
+                "x": "La plataforma común de AI de todo el Gobierno es una infraestructura de AI exclusiva de la red administrativa con la que el Ministerio del Interior y Seguridad y el Ministerio de Ciencia y TIC ofrecen modelos de AI, datos y entornos de desarrollo, entre otros, a los ministerios centrales y a los gobiernos locales. Solar Pro 4 se ofrece a través de 'FabriX', de Samsung SDS, la plataforma de AI de la plataforma común."
+              },
+              {
+                "t": "p",
+                "x": "Solar Pro 4 funciona en una infraestructura de la red administrativa que ha superado la revisión de seguridad del Servicio Nacional de Inteligencia, lo que permite evitar la fuga de datos administrativos internos. Los recursos de GPU necesarios para operar el modelo se gestionan de forma centralizada en la plataforma común. Cada organismo puede usarlo desde una pantalla de chat o una interfaz de programación de aplicaciones (API) sin construir ni alquilar sus propios servidores de GPU."
+              },
+              {
+                "t": "p",
+                "x": "También ofrece fundamentos para sus respuestas al vincularse con leyes, comunicados de prensa y documentos administrativos. Los funcionarios pueden usar Solar Pro 4 para revisar si los proyectos de reforma de ordenanzas y reglamentos contradicen leyes de rango superior, y para redactar borradores de respuestas a quejas ciudadanas buscando la normativa y los procedimientos aplicables. También puede usarse para redactar borradores de informes a partir de notas de reuniones y materiales de referencia, y para resumir documentos extensos ordenando los puntos clave y las cuestiones en debate de los materiales de políticas."
+              },
+              {
+                "t": "p",
+                "x": "El sector público tenía limitaciones para usar la AI por las normas de seguridad y la falta de infraestructura de GPU. Upstage explicó que, con Solar Pro 4, es posible usar modelos de AI nacionales en el trabajo dentro de una red administrativa que cumple tanto los requisitos de seguridad como los de infraestructura."
+              },
+              {
+                "t": "p",
+                "x": "Kim Sung-hoon, director ejecutivo de Upstage, dijo: “La AI que necesita el trabajo público es una AI en la que se puede confiar, que protege la seguridad y responde con fundamentos”, y añadió: “Demostraremos en la práctica administrativa que una AI nacional fiable puede impulsar la innovación del trabajo público”."
+              },
+              {
+                "t": "p",
+                "x": "Upstage presentó el mes pasado su modelo de lenguaje ligero (SLM) 'Solar Mini 4'. Su estructura activa solo 30억 de sus 350억 parámetros, y obtuvo el nivel más alto entre los modelos pequeños de su categoría en evaluaciones globales de rendimiento de AI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "politics-eu-2027-workplan-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "인도, 데이터로 찾아가는\nAI 모델 구상 내놨다",
-      "body": "인도 IT 부처가 AI 모델을 암호화된 현지 데이터로 학습시키는 안을 냈다.",
-      "mini_headline": "인도: 모델이 데이터로 간다",
+      "headline": "EU 집행위 초안\n2027년 AI 확산 추진",
+      "body": "EU 집행위가 2027년 업무계획 초안에 여러 부문의 AI 확산을 담았다.",
+      "mini_headline": "EU 계획, AI 확산 추진",
       "tool": "Politics",
-      "source": "The Register",
-      "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+      "source": "Euractiv (Rapporteur)",
+      "url": "https://www.rapporteur.com/news/exclusive-eu-executive-wants-to-boost-ai-use-in-2027-work-plan/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -955,149 +1577,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+            "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+            "cap": "gorodenkoff / Getty Images"
           },
           {
             "t": "p",
-            "x": "인도 정부는 해외 모델 개발사(model-makers)가 인도의 문제를 풀거나 데이터 소유자의 통제권을 지켜줄 이유가 없다고 보고, AI 모델을 현지 데이터로 학습시키려 한다. 전자정보기술부(MeitY)가 내놓은 안은 “Data Empowerment and Protection Architecture (DEPA) for AI Training”이다. 수석과학자문관 Ajay Kumar Sood는 DEPA를 “데이터가 모델로 가는 것이 아니라 모델이 데이터로 가는 것”이라고 설명했다."
+            "x": "Rapporteur가 입수한 2027년 집행위원회 업무계획을 보면 유럽연합 집행위원회는 내년 여러 부문에서 인공지능 활용을 끌어올릴 방안을 검토 중이다. 수요일 발표 예정인 이 유출 문건에서 집행위는 여러 부문에 걸쳐 AI의 잠재력을 “활용”하겠다고 했다."
           },
           {
             "t": "p",
-            "x": "병원, 은행, 정부 기관 같은 “Training Data Providers”(학습 데이터 제공자)가 익명화·암호화한 데이터를 “Data Exchange Platform”에 올리면, “Training Data Consumers”(학습 데이터 이용자)는 그 안의 “hardware-based Secure Data Environments”에서 모델을 학습시킨다. 차등 프라이버시를 적용하고, 모든 활동은 감사용으로 고칠 수 없게 기록한다."
+            "x": "집행위는 보건, 운송, 농식품, 첨단 제조, 방위·우주 등 다섯 개 부문에서 산업 AI를 이끌 이른바 행동 청사진을 제안한다. 집행위 AI 특사 Jim Hagemann Snabe가 곧 내놓을 보고서를 가리키는 대목으로 보인다. AI 스택에서 유럽의 입지를 “강화”하려고 칩, 데이터, 컴퓨팅, 혁신적 자금 조달 수단의 우선순위도 새로 넣었다."
           },
           {
             "t": "p",
-            "x": "MeitY는 DEPA로 흩어진 보건 데이터를 쓸 길이 열리고, 금융에서 소외된 개인과 MSMEs 400 million 곳에 정식 신용이 닿을 수 있다고 본다. DEPA가 실현되기까지 일이 얼마나 남았는지는 아직 불분명하다."
+            "x": "“디지털 전환 패키지, 간소화 및 저작권”은 디지털 디케이드 목표를 다시 들여다본다. AI 인프라, 시민의 AI 역량 강화, 기업의 AI 시스템 도입 현황 점검이 중심이 될 수 있다. 집행위는 문화·창작 부문에서도 AI의 잠재력을 “활용”하겠다고 했고, “AI가 노동시장에 미치는 영향으로 생긴 과제 앞에서 청년을 지원할 필요”도 짚었다."
+          },
+          {
+            "t": "p",
+            "x": "다만 2027년 집행위의 입법 초점은 좁다. 디지털공정법(Digital Fairness Act, DFA)과 유럽제품법(European Product Act) 등 여러 법안이 2026년 말 제안될 예정이어서다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "India proposes AI models\nthat travel to the data",
-          "body": "India's IT ministry proposed a scheme where AI models train on encrypted local data rather than the data travelling to them.",
-          "mini_headline": "India: models go to the data",
+          "headline": "EU Commission draft plan\npushes AI uptake in 2027",
+          "body": "The Commission's draft 2027 work programme, seen by Rapporteur, plans to push AI uptake across sectors.",
+          "mini_headline": "EU plan pushes AI uptake",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "India’s government wants AI models trained on local data, because it thinks offshore model-makers won’t be motivated to address the nation’s issues or to ensure owners of data stay in control. Its Ministry of Electronics and Information Technology (MeitY) proposes the “Data Empowerment and Protection Architecture (DEPA) for AI Training.” As described by Principal Scientific Adviser Ajay Kumar Sood, DEPA means “the model travels to the data, rather than the data travelling to the model.”"
+                "x": "The European Commission is looking at uplifting artificial intelligence use across sectors next year, according to the 2027 Commission work programme obtained by Rapporteur. According to the leaked programme, set to be presented on Wednesday, the Commission wants to “tap” AI potential across sectors."
               },
               {
                 "t": "p",
-                "x": "“Training Data Providers” such as hospitals, banks, and government agencies share anonymized and encrypted data with a “Data Exchange Platform,” where “Training Data Consumers” train their models inside “hardware-based Secure Data Environments.” Differential privacy is applied and all activity is immutably logged for audit."
+                "x": "It is set to propose a so-called blueprint for action to drive industrial AI across five sectors, including health, transport, agri-food, advanced manufacturing and defence and space — most likely referring to the upcoming report by the Commission’s special AI envoy Jim Hagemann Snabe. It also wants to “strengthen” Europe’s position in the AI stack: adding priorities on chips, data, compute and innovative funding instruments."
               },
               {
                 "t": "p",
-                "x": "MeitY says DEPA could unlock fragmented health data and potentially extend formal credit to 400 million underserved individuals and MSMEs. It is unclear how much work remains to make DEPA a reality."
+                "x": "A “digital transformation package, simplification and copyright” will review the digital decade targets, which may focus on AI infrastructure, equipping citizens with AI skills and monitoring business adoption of AI systems. The Commission also wants to “harness” AI’s potential for cultural and creative sectors, and mentions the “need to support young people in the face of the challenges raised by the impact of AI on the labour market”."
+              },
+              {
+                "t": "p",
+                "x": "However, the Commission’s legislative focus is narrow for 2027, with several proposals, such as the Digital Fairness Act (DFA) and the European Product Act, set to be proposed at the end of 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "인도, 데이터로 찾아가는\nAI 모델 구상 내놨다",
-          "body": "인도 IT 부처가 AI 모델을 암호화된 현지 데이터로 학습시키는 안을 냈다.",
-          "mini_headline": "인도: 모델이 데이터로 간다",
+          "headline": "EU 집행위 초안\n2027년 AI 확산 추진",
+          "body": "EU 집행위가 2027년 업무계획 초안에 여러 부문의 AI 확산을 담았다.",
+          "mini_headline": "EU 계획, AI 확산 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "인도 정부는 해외 모델 개발사(model-makers)가 인도의 문제를 풀거나 데이터 소유자의 통제권을 지켜줄 이유가 없다고 보고, AI 모델을 현지 데이터로 학습시키려 한다. 전자정보기술부(MeitY)가 내놓은 안은 “Data Empowerment and Protection Architecture (DEPA) for AI Training”이다. 수석과학자문관 Ajay Kumar Sood는 DEPA를 “데이터가 모델로 가는 것이 아니라 모델이 데이터로 가는 것”이라고 설명했다."
+                "x": "Rapporteur가 입수한 2027년 집행위원회 업무계획을 보면 유럽연합 집행위원회는 내년 여러 부문에서 인공지능 활용을 끌어올릴 방안을 검토 중이다. 수요일 발표 예정인 이 유출 문건에서 집행위는 여러 부문에 걸쳐 AI의 잠재력을 “활용”하겠다고 했다."
               },
               {
                 "t": "p",
-                "x": "병원, 은행, 정부 기관 같은 “Training Data Providers”(학습 데이터 제공자)가 익명화·암호화한 데이터를 “Data Exchange Platform”에 올리면, “Training Data Consumers”(학습 데이터 이용자)는 그 안의 “hardware-based Secure Data Environments”에서 모델을 학습시킨다. 차등 프라이버시를 적용하고, 모든 활동은 감사용으로 고칠 수 없게 기록한다."
+                "x": "집행위는 보건, 운송, 농식품, 첨단 제조, 방위·우주 등 다섯 개 부문에서 산업 AI를 이끌 이른바 행동 청사진을 제안한다. 집행위 AI 특사 Jim Hagemann Snabe가 곧 내놓을 보고서를 가리키는 대목으로 보인다. AI 스택에서 유럽의 입지를 “강화”하려고 칩, 데이터, 컴퓨팅, 혁신적 자금 조달 수단의 우선순위도 새로 넣었다."
               },
               {
                 "t": "p",
-                "x": "MeitY는 DEPA로 흩어진 보건 데이터를 쓸 길이 열리고, 금융에서 소외된 개인과 MSMEs 400 million 곳에 정식 신용이 닿을 수 있다고 본다. DEPA가 실현되기까지 일이 얼마나 남았는지는 아직 불분명하다."
+                "x": "“디지털 전환 패키지, 간소화 및 저작권”은 디지털 디케이드 목표를 다시 들여다본다. AI 인프라, 시민의 AI 역량 강화, 기업의 AI 시스템 도입 현황 점검이 중심이 될 수 있다. 집행위는 문화·창작 부문에서도 AI의 잠재력을 “활용”하겠다고 했고, “AI가 노동시장에 미치는 영향으로 생긴 과제 앞에서 청년을 지원할 필요”도 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "다만 2027년 집행위의 입법 초점은 좁다. 디지털공정법(Digital Fairness Act, DFA)과 유럽제품법(European Product Act) 등 여러 법안이 2026년 말 제안될 예정이어서다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インド、データへ向かう\nAIモデルを提案",
-          "body": "インドのIT省は、AIモデルが暗号化された国内データの側で学習する仕組みを提案した。",
-          "mini_headline": "インド：モデルがデータへ",
+          "headline": "EU欧州委が計画案\n2027年にAI普及推進",
+          "body": "Rapporteurが入手した欧州委の2027年作業計画案は各分野でのAI普及を掲げる。",
+          "mini_headline": "EU計画、AI普及を推進",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "インド政府は、海外のモデル開発企業(model-makers)には自国の課題に取り組む動機も、データ所有者の主導権を守る動機もないと考え、AIモデルを国内データで学習させたい考えだ。電子情報技術省(MeitY)は「Data Empowerment and Protection Architecture (DEPA) for AI Training」を提案している。首席科学顧問Ajay Kumar Soodの説明によれば、DEPAとは「データがモデルのもとへ行くのではなく、モデルがデータのもとへ行く」ことを意味する。"
+                "x": "Rapporteurが入手した2027年の欧州委員会作業計画によると、欧州委員会は来年、各分野で人工知能の利用を引き上げることを検討している。水曜日に公表される予定のこの流出した計画で、欧州委はさまざまな分野でAIの潜在力を「活用」したい考えだ。"
               },
               {
                 "t": "p",
-                "x": "病院、銀行、政府機関などの「Training Data Providers」(学習データ提供者)は、匿名化・暗号化したデータを「Data Exchange Platform」で共有し、「Training Data Consumers」(学習データ利用者)はそこにある「hardware-based Secure Data Environments」の中でモデルを学習させる。差分プライバシーが適用され、すべての活動は監査のため改変できない形で記録される。"
+                "x": "欧州委は、保健、運輸、農業食品、先端製造、防衛・宇宙を含む五つの分野で産業AIを推進するための、いわゆる行動の青写真を提案する予定だ。これは欧州委のAI特使Jim Hagemann Snabeが近く公表する報告書を指しているとみられる。また、AIスタックにおける欧州の立場を「強化」したい考えで、半導体、データ、計算資源、革新的な資金調達手段に関する優先事項を加えている。"
               },
               {
                 "t": "p",
-                "x": "MeitYによると、DEPAは分断された医療データを活用可能にし、十分な金融サービスを受けていない400 million の個人やMSMEsに正規の信用供与を広げられる可能性がある。DEPAの実現にどれほどの作業が残っているかは不明だ。"
+                "x": "「デジタル変革パッケージ、簡素化、著作権」はデジタル・ディケードの目標を見直すもので、AIインフラ、市民へのAIスキル付与、企業によるAIシステム導入の監視に焦点を当てる可能性がある。欧州委は文化・クリエイティブ分野でもAIの潜在力を「活用」したいとし、「AIが労働市場に及ぼす影響によって生じる課題に直面する若者を支援する必要性」にも言及している。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、2027年の欧州委の立法の焦点は狭い。Digital Fairness Act（DFA）やEuropean Product Actなど、いくつかの提案は2026年末に提出される予定だからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "印度提议让AI模型\n走到数据身边",
-          "body": "印度IT部提议让AI模型在加密的本地数据上训练，而非让数据流向模型。",
-          "mini_headline": "印度：模型走向数据",
+          "headline": "EU委员会草案：\n2027年推动AI普及",
+          "body": "据Rapporteur获得的草案，欧盟委员会2027年工作计划将推动各行业AI普及。",
+          "mini_headline": "EU计划推动AI普及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "印度政府希望用本地数据训练AI模型，因为它认为海外模型开发商（model-makers）不会有动力去解决本国的问题，也不会确保数据所有者保有控制权。其电子和信息技术部（MeitY）提出了“Data Empowerment and Protection Architecture (DEPA) for AI Training”。按照首席科学顾问Ajay Kumar Sood的描述，DEPA意味着“模型走向数据，而不是数据走向模型”。"
+                "x": "据Rapporteur获得的2027年委员会工作计划，欧盟委员会正考虑明年在各行业提升人工智能的使用。根据这份预计于周三公布的泄露计划，委员会希望在各行业“挖掘”AI潜力。"
               },
               {
                 "t": "p",
-                "x": "医院、银行和政府机构等“Training Data Providers”（训练数据提供方）将匿名化和加密的数据共享到“Data Exchange Platform”，“Training Data Consumers”（训练数据使用方）则在“hardware-based Secure Data Environments”中训练模型。该机制采用差分隐私，所有活动都会被不可篡改地记录以供审计。"
+                "x": "委员会将提出一份所谓的行动蓝图，在卫生、交通、农业食品、先进制造以及国防和航天等五个领域推动工业AI——这很可能指的是委员会AI特使Jim Hagemann Snabe即将发布的报告。委员会还希望“加强”欧洲在AI技术栈中的地位：增加芯片、数据、算力和创新融资工具方面的优先事项。"
               },
               {
                 "t": "p",
-                "x": "MeitY表示，DEPA可以盘活分散的健康数据，并有望将正规信贷扩展到400 million 名服务不足的个人和MSMEs。目前尚不清楚要让DEPA成为现实还需完成多少工作。"
+                "x": "一项“数字化转型一揽子计划、简化与版权”将审视“数字十年”目标，重点可能放在AI基础设施、提升公民AI技能以及监测企业采用AI系统的情况。委员会还希望在文化和创意领域“利用”AI的潜力，并提到“需要支持年轻人应对AI对劳动力市场的影响所带来的挑战”。"
+              },
+              {
+                "t": "p",
+                "x": "不过，委员会2027年的立法重点较窄，《数字公平法》（Digital Fairness Act, DFA）和《欧洲产品法》（European Product Act）等多项提案定于2026年底提出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "India propone modelos de AI\nque viajen hacia los datos",
-          "body": "El ministerio de IT de India propuso que modelos de AI se entrenen en datos locales cifrados, sin mover los datos.",
-          "mini_headline": "India: los modelos van a los datos",
+          "headline": "El borrador de la EU impulsa\nla adopción de la AI en 2027",
+          "body": "El borrador del programa de trabajo 2027 de la Comisión, según Rapporteur, impulsa la AI en varios sectores.",
+          "mini_headline": "El plan de la EU impulsa la adopción de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "El Gobierno de India quiere que los modelos de AI se entrenen con datos locales, porque considera que los desarrolladores de modelos extranjeros (model-makers) no tendrán incentivos para abordar los problemas del país ni para garantizar que los propietarios de los datos mantengan el control. Su Ministerio de Electrónica y Tecnologías de la Información (MeitY) propone la “Data Empowerment and Protection Architecture (DEPA) for AI Training”. Según la describe el asesor científico principal, Ajay Kumar Sood, DEPA significa que “el modelo viaja a los datos, en lugar de que los datos viajen al modelo”."
+                "x": "La Comisión Europea estudia impulsar el uso de la inteligencia artificial en todos los sectores el próximo año, según el programa de trabajo de la Comisión para 2027 obtenido por Rapporteur. Según el programa filtrado, que se presentará el miércoles, la Comisión quiere “aprovechar” el potencial de la AI en todos los sectores."
               },
               {
                 "t": "p",
-                "x": "Los “Training Data Providers” (proveedores de datos de entrenamiento), como hospitales, bancos y agencias gubernamentales, comparten datos anonimizados y cifrados con una “Data Exchange Platform”, donde los “Training Data Consumers” (consumidores de datos de entrenamiento) entrenan sus modelos dentro de “hardware-based Secure Data Environments”. Se aplica privacidad diferencial y toda la actividad queda registrada de forma inmutable para auditoría."
+                "x": "Está previsto que proponga un llamado plan de acción para impulsar la AI industrial en cinco sectores, entre ellos salud, transporte, agroalimentación, fabricación avanzada y defensa y espacio, lo que muy probablemente remite al próximo informe del enviado especial de la Comisión para la AI, Jim Hagemann Snabe. También quiere “reforzar” la posición de Europa en la pila tecnológica de AI, añadiendo prioridades sobre chips, datos, computación e instrumentos de financiación innovadores."
               },
               {
                 "t": "p",
-                "x": "MeitY afirma que DEPA podría liberar datos de salud fragmentados y, potencialmente, extender el crédito formal a 400 millones de personas desatendidas y MSMEs. No está claro cuánto trabajo queda para hacer realidad DEPA."
+                "x": "Un “paquete de transformación digital, simplificación y derechos de autor” revisará los objetivos de la década digital, que podrían centrarse en la infraestructura de AI, en dotar a la ciudadanía de competencias en AI y en el seguimiento de la adopción de sistemas de AI por parte de las empresas. La Comisión también quiere “aprovechar” el potencial de la AI para los sectores cultural y creativo, y menciona la “necesidad de apoyar a los jóvenes ante los retos que plantea el impacto de la AI en el mercado laboral”."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, el foco legislativo de la Comisión para 2027 es reducido, ya que varias propuestas, como la Digital Fairness Act (DFA) y la European Product Act, se presentarán a finales de 2026."
               }
             ]
           }
@@ -1105,387 +1757,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "인도, 데이터로 찾아가는\nAI 모델 구상 내놨다",
-          "body": "인도 IT 부처는 AI 모델이 암호화된 현지 데이터에서 학습하는 안을 냈다.",
-          "mini_headline": "인도: 모델이 데이터로 간다",
+          "headline": "EU 집행위 초안\n2027년 AI 확산 추진",
+          "body": "EU 집행위의 2027년 업무계획 초안은 여러 부문의 AI 확산을 추진한다.",
+          "mini_headline": "EU 계획, AI 확산 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "인도 정부는 해외 모델 개발사(model-makers)가 자국 문제를 해결하거나 데이터 소유자의 통제권을 보장할 동기가 없을 것으로 보고, AI 모델을 현지 데이터로 학습시키길 원한다. 전자정보기술부(MeitY)는 “Data Empowerment and Protection Architecture (DEPA) for AI Training”을 제안했다. 수석과학자문관 Ajay Kumar Sood의 설명에 따르면 DEPA는 “데이터가 모델로 가는 것이 아니라 모델이 데이터로 가는 것”을 뜻한다."
+                "x": "Rapporteur가 입수한 2027년 집행위원회 업무계획에 따르면 유럽연합 집행위원회는 내년 여러 부문에서 인공지능 활용을 끌어올리는 방안을 검토하고 있다. 수요일 발표될 예정인 이 유출 문건에서 집행위는 여러 부문에 걸쳐 AI의 잠재력을 “활용”하겠다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "병원, 은행, 정부 기관 같은 “Training Data Providers”(학습 데이터 제공자)는 익명화·암호화한 데이터를 “Data Exchange Platform”에 공유하고, “Training Data Consumers”(학습 데이터 이용자)는 그곳의 “hardware-based Secure Data Environments” 안에서 모델을 학습시킨다. 차등 프라이버시가 적용되며 모든 활동은 감사를 위해 변경할 수 없는 형태로 기록된다."
+                "x": "집행위는 보건, 운송, 농식품, 첨단 제조, 방위·우주 등 다섯 개 부문에서 산업 AI를 이끌 이른바 행동 청사진을 제안할 예정이다. 이는 집행위 AI 특사 Jim Hagemann Snabe가 곧 내놓을 보고서를 가리키는 것으로 보인다. 집행위는 또 AI 스택에서 유럽의 입지를 “강화”하고자 칩, 데이터, 컴퓨팅, 혁신적 자금 조달 수단에 관한 우선순위를 추가했다."
               },
               {
                 "t": "p",
-                "x": "MeitY는 DEPA가 흩어진 보건 데이터를 활용할 길을 열고, 금융 소외 계층인 개인과 MSMEs 400 million 곳에 정식 신용을 확대할 수 있다고 본다. DEPA를 실현하기까지 얼마나 많은 작업이 남았는지는 불분명하다."
+                "x": "“디지털 전환 패키지, 간소화 및 저작권”은 디지털 디케이드 목표를 재검토한다. AI 인프라, 시민의 AI 역량 강화, 기업의 AI 시스템 도입 현황 점검에 초점이 맞춰질 수 있다. 집행위는 문화·창작 부문에서도 AI의 잠재력을 “활용”하겠다고 했으며, “AI가 노동시장에 미치는 영향으로 생긴 과제 앞에서 청년을 지원할 필요”도 언급했다."
+              },
+              {
+                "t": "p",
+                "x": "다만 2027년 집행위의 입법 초점은 좁다. 디지털공정법(Digital Fairness Act, DFA)과 유럽제품법(European Product Act) 등 여러 법안이 2026년 말 제안될 예정이기 때문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "インド、データへ向かう\nAIモデルを提案",
-          "body": "インドのIT省は、AIモデルが暗号化された国内データの側で学習する仕組みを提案した。",
-          "mini_headline": "インド：モデルがデータへ",
+          "headline": "EU欧州委が計画案\n2027年にAI普及推進",
+          "body": "Rapporteurが入手した欧州委の2027年作業計画案は各分野でのAI普及を掲げる。",
+          "mini_headline": "EU計画、AI普及を推進",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "インド政府は、海外のモデル開発企業(model-makers)には自国の課題に取り組む動機も、データ所有者の主導権を守る動機もないと考え、AIモデルを国内データで学習させたい考えだ。電子情報技術省(MeitY)は「Data Empowerment and Protection Architecture (DEPA) for AI Training」を提案している。首席科学顧問Ajay Kumar Soodの説明によれば、DEPAとは「データがモデルのもとへ行くのではなく、モデルがデータのもとへ行く」ことを意味する。"
+                "x": "Rapporteurが入手した2027年の欧州委員会作業計画によると、欧州委員会は来年、各分野で人工知能の利用を引き上げることを検討している。水曜日に公表される予定のこの流出した計画で、欧州委はさまざまな分野でAIの潜在力を「活用」したい考えだ。"
               },
               {
                 "t": "p",
-                "x": "病院、銀行、政府機関などの「Training Data Providers」(学習データ提供者)は、匿名化・暗号化したデータを「Data Exchange Platform」で共有し、「Training Data Consumers」(学習データ利用者)はそこにある「hardware-based Secure Data Environments」の中でモデルを学習させる。差分プライバシーが適用され、すべての活動は監査のため改変できない形で記録される。"
+                "x": "欧州委は、保健、運輸、農業食品、先端製造、防衛・宇宙を含む五つの分野で産業AIを推進するための、いわゆる行動の青写真を提案する予定だ。これは欧州委のAI特使Jim Hagemann Snabeが近く公表する報告書を指しているとみられる。また、AIスタックにおける欧州の立場を「強化」したい考えで、半導体、データ、計算資源、革新的な資金調達手段に関する優先事項を加えている。"
               },
               {
                 "t": "p",
-                "x": "MeitYによると、DEPAは分断された医療データを活用可能にし、十分な金融サービスを受けていない400 million の個人やMSMEsに正規の信用供与を広げられる可能性がある。DEPAの実現にどれほどの作業が残っているかは不明だ。"
+                "x": "「デジタル変革パッケージ、簡素化、著作権」はデジタル・ディケードの目標を見直すもので、AIインフラ、市民へのAIスキル付与、企業によるAIシステム導入の監視に焦点を当てる可能性がある。欧州委は文化・クリエイティブ分野でもAIの潜在力を「活用」したいとし、「AIが労働市場に及ぼす影響によって生じる課題に直面する若者を支援する必要性」にも言及している。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、2027年の欧州委の立法の焦点は狭い。Digital Fairness Act（DFA）やEuropean Product Actなど、いくつかの提案は2026年末に提出される予定だからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "印度提议让AI模型\n走到数据身边",
-          "body": "印度IT部提议让AI模型在加密的本地数据上训练，而非让数据流向模型。",
-          "mini_headline": "印度：模型走向数据",
+          "headline": "EU委员会草案：\n2027年推动AI普及",
+          "body": "据Rapporteur获得的草案，欧盟委员会2027年工作计划将推动各行业AI普及。",
+          "mini_headline": "EU计划推动AI普及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "印度政府希望用本地数据训练AI模型，因为它认为海外模型开发商（model-makers）不会有动力去解决本国的问题，也不会确保数据所有者保有控制权。其电子和信息技术部（MeitY）提出了“Data Empowerment and Protection Architecture (DEPA) for AI Training”。按照首席科学顾问Ajay Kumar Sood的描述，DEPA意味着“模型走向数据，而不是数据走向模型”。"
+                "x": "据Rapporteur获得的2027年委员会工作计划，欧盟委员会正考虑明年在各行业提升人工智能的使用。根据这份预计于周三公布的泄露计划，委员会希望在各行业“挖掘”AI潜力。"
               },
               {
                 "t": "p",
-                "x": "医院、银行和政府机构等“Training Data Providers”（训练数据提供方）将匿名化和加密的数据共享到“Data Exchange Platform”，“Training Data Consumers”（训练数据使用方）则在“hardware-based Secure Data Environments”中训练模型。该机制采用差分隐私，所有活动都会被不可篡改地记录以供审计。"
+                "x": "委员会将提出一份所谓的行动蓝图，在卫生、交通、农业食品、先进制造以及国防和航天等五个领域推动工业AI——这很可能指的是委员会AI特使Jim Hagemann Snabe即将发布的报告。委员会还希望“加强”欧洲在AI技术栈中的地位：增加芯片、数据、算力和创新融资工具方面的优先事项。"
               },
               {
                 "t": "p",
-                "x": "MeitY表示，DEPA可以盘活分散的健康数据，并有望将正规信贷扩展到400 million 名服务不足的个人和MSMEs。目前尚不清楚要让DEPA成为现实还需完成多少工作。"
+                "x": "一项“数字化转型一揽子计划、简化与版权”将审视“数字十年”目标，重点可能放在AI基础设施、提升公民AI技能以及监测企业采用AI系统的情况。委员会还希望在文化和创意领域“利用”AI的潜力，并提到“需要支持年轻人应对AI对劳动力市场的影响所带来的挑战”。"
+              },
+              {
+                "t": "p",
+                "x": "不过，委员会2027年的立法重点较窄，《数字公平法》（Digital Fairness Act, DFA）和《欧洲产品法》（European Product Act）等多项提案定于2026年底提出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "India propone modelos de AI\nque viajen hacia los datos",
-          "body": "El ministerio de IT de India propuso que modelos de AI se entrenen en datos locales cifrados, sin mover los datos.",
-          "mini_headline": "India: los modelos van a los datos",
+          "headline": "El borrador de la EU impulsa\nla adopción de la AI en 2027",
+          "body": "El borrador del programa de trabajo 2027 de la Comisión, según Rapporteur, impulsa la AI en varios sectores.",
+          "mini_headline": "El plan de la EU impulsa la adopción de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+                "cap": "gorodenkoff / Getty Images"
               },
               {
                 "t": "p",
-                "x": "El Gobierno de India quiere que los modelos de AI se entrenen con datos locales, porque considera que los desarrolladores de modelos extranjeros (model-makers) no tendrán incentivos para abordar los problemas del país ni para garantizar que los propietarios de los datos mantengan el control. Su Ministerio de Electrónica y Tecnologías de la Información (MeitY) propone la “Data Empowerment and Protection Architecture (DEPA) for AI Training”. Según la describe el asesor científico principal, Ajay Kumar Sood, DEPA significa que “el modelo viaja a los datos, en lugar de que los datos viajen al modelo”."
+                "x": "La Comisión Europea estudia impulsar el uso de la inteligencia artificial en todos los sectores el próximo año, según el programa de trabajo de la Comisión para 2027 obtenido por Rapporteur. Según el programa filtrado, que se presentará el miércoles, la Comisión quiere “aprovechar” el potencial de la AI en todos los sectores."
               },
               {
                 "t": "p",
-                "x": "Los “Training Data Providers” (proveedores de datos de entrenamiento), como hospitales, bancos y agencias gubernamentales, comparten datos anonimizados y cifrados con una “Data Exchange Platform”, donde los “Training Data Consumers” (consumidores de datos de entrenamiento) entrenan sus modelos dentro de “hardware-based Secure Data Environments”. Se aplica privacidad diferencial y toda la actividad queda registrada de forma inmutable para auditoría."
+                "x": "Está previsto que proponga un llamado plan de acción para impulsar la AI industrial en cinco sectores, entre ellos salud, transporte, agroalimentación, fabricación avanzada y defensa y espacio, lo que muy probablemente remite al próximo informe del enviado especial de la Comisión para la AI, Jim Hagemann Snabe. También quiere “reforzar” la posición de Europa en la pila tecnológica de AI, añadiendo prioridades sobre chips, datos, computación e instrumentos de financiación innovadores."
               },
               {
                 "t": "p",
-                "x": "MeitY afirma que DEPA podría liberar datos de salud fragmentados y, potencialmente, extender el crédito formal a 400 millones de personas desatendidas y MSMEs. No está claro cuánto trabajo queda para hacer realidad DEPA."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "wired-hidden-deepfake-apps",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 앱 수백 개에\n악성 딥페이크 기능 숨겨",
-      "body": "WIRED가 AI 도구로 위장한 성착취 딥페이크 앱·사이트 약 400개를 찾아냈다.",
-      "mini_headline": "AI 앱 속에 숨은 딥페이크 도구",
-      "tool": "Politics",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "accent": "#ff5a4d",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-            "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-          },
-          {
-            "t": "p",
-            "x": "WIRED가 조사해 보니 서로 연결된 도메인과 앱 400개 이상으로 이뤄진 네트워크가 드러났다. 겉으로는 반려동물 초상화, 어학 강습, AI 운동 코치 같은 평범한 서비스를 내세우는 경우가 많다. 하지만 특정 조건으로 접속하면 이용자가 올린 사진으로 노골적인 AI 성적 이미지와 동영상을 만드는 웹 인터페이스가 몰래 열린다."
-          },
-          {
-            "t": "p",
-            "x": "연구자들은 Facebook과 Instagram에 올라온 노골적 딥페이크 동영상 광고 수천 건의 링크를 따라가다 이 네트워크를 찾았다. 링크 끝에는 Apple과 Google 스토어의 앱이 있었다. AI Forensics의 Paul Bouchaud는 “조직적이고 상업적으로 운영되는 사업”이라고 말했다. 한때는 매주 약 30개의 앱·웹사이트(apps-websites)가 새로 등록됐다. 구월에는 Google Play에 27개가 올라 있었고 다운로드는 350,000회를 넘었다."
-          },
-          {
-            "t": "p",
-            "x": "앱 운영 주체는 중국 개발자들과 홍콩 법인 KeLing Technology Limited로 보이며, 이 법인은 답하지 않았다. Apple은 앱 19개를 내리고, 개발자들이 심사를 통과한 뒤 콘텐츠를 바꿔치기했다고 밝혔다. Google은 이미 앱 대부분을 내린 뒤였다. Meta는 광고 계정 11,600개를 조치하고 앱 209개의 광고를 막았다고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Hundreds of AI apps hide\nabusive deepfake features",
-          "body": "WIRED found some 400 apps and sites posing as ordinary AI tools while hiding features for sexually abusive deepfakes.",
-          "mini_headline": "Deepfake tools hidden in AI apps",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+                "x": "Un “paquete de transformación digital, simplificación y derechos de autor” revisará los objetivos de la década digital, que podrían centrarse en la infraestructura de AI, en dotar a la ciudadanía de competencias en AI y en el seguimiento de la adopción de sistemas de AI por parte de las empresas. La Comisión también quiere “aprovechar” el potencial de la AI para los sectores cultural y creativo, y menciona la “necesidad de apoyar a los jóvenes ante los retos que plantea el impacto de la AI en el mercado laboral”."
               },
               {
                 "t": "p",
-                "x": "A WIRED investigation found a network of more than 400 connected domains and apps that often claim to be everyday services, such as pet portraits, language tuition or AI workout coaches. When accessed under certain conditions, they stealthily load a web interface for generating explicit AI sexual images and videos from photos users upload."
-              },
-              {
-                "t": "p",
-                "x": "Researchers found the network by following links from thousands of explicit deepfake video ads on Facebook and Instagram, which pointed to apps in Apple and Google’s stores. “This is an organized, commercially run operation,” says Paul Bouchaud of AI Forensics. At one point around 30 apps-websites were registered each week; 27 were live on Google Play in September, with more than 350,000 downloads."
-              },
-              {
-                "t": "p",
-                "x": "The apps appear to be run by Chinese developers and a Hong Kong entity, KeLing Technology Limited, which did not respond. Apple removed 19 apps and says developers swapped approved content after review; Google had removed most apps. Meta says it acted against 11,600 ad accounts and blocked 209 apps from advertising."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 앱 수백 개에\n악성 딥페이크 기능 숨겨",
-          "body": "WIRED가 AI 도구로 위장한 성착취 딥페이크 앱·사이트 약 400개를 찾아냈다.",
-          "mini_headline": "AI 앱 속에 숨은 딥페이크 도구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "WIRED가 조사해 보니 서로 연결된 도메인과 앱 400개 이상으로 이뤄진 네트워크가 드러났다. 겉으로는 반려동물 초상화, 어학 강습, AI 운동 코치 같은 평범한 서비스를 내세우는 경우가 많다. 하지만 특정 조건으로 접속하면 이용자가 올린 사진으로 노골적인 AI 성적 이미지와 동영상을 만드는 웹 인터페이스가 몰래 열린다."
-              },
-              {
-                "t": "p",
-                "x": "연구자들은 Facebook과 Instagram에 올라온 노골적 딥페이크 동영상 광고 수천 건의 링크를 따라가다 이 네트워크를 찾았다. 링크 끝에는 Apple과 Google 스토어의 앱이 있었다. AI Forensics의 Paul Bouchaud는 “조직적이고 상업적으로 운영되는 사업”이라고 말했다. 한때는 매주 약 30개의 앱·웹사이트(apps-websites)가 새로 등록됐다. 구월에는 Google Play에 27개가 올라 있었고 다운로드는 350,000회를 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "앱 운영 주체는 중국 개발자들과 홍콩 법인 KeLing Technology Limited로 보이며, 이 법인은 답하지 않았다. Apple은 앱 19개를 내리고, 개발자들이 심사를 통과한 뒤 콘텐츠를 바꿔치기했다고 밝혔다. Google은 이미 앱 대부분을 내린 뒤였다. Meta는 광고 계정 11,600개를 조치하고 앱 209개의 광고를 막았다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "数百のAIアプリが\n悪質ディープフェイクを隠す",
-          "body": "WIREDはAIツールを装い性的ディープフェイク機能を隠す約400のアプリ等を発見した。",
-          "mini_headline": "AIアプリに潜むディープフェイク機能",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "WIREDの調査で、ペットの肖像画、語学レッスン、AIワークアウトコーチといった日常的なサービスを装うことが多い、相互につながった400を超えるドメインとアプリのネットワークが見つかった。特定の条件でアクセスすると、ユーザーがアップロードした写真から露骨なAI性的画像や動画を生成するウェブインターフェースをひそかに読み込む。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、FacebookとInstagramに出された数千件の露骨なディープフェイク動画広告のリンクをたどってこのネットワークを発見した。リンク先はAppleとGoogleのストアにあるアプリだった。AI ForensicsのPaul Bouchaudは「これは組織的かつ商業的に運営されている事業だ」と話す。一時は毎週約30のアプリ・ウェブサイト(apps-websites)が登録され、九月には27本がGoogle Playで公開されており、ダウンロード数は350,000を超えていた。"
-              },
-              {
-                "t": "p",
-                "x": "これらのアプリは中国の開発者と香港の法人KeLing Technology Limitedが運営しているとみられ、同社は回答しなかった。Appleは19本のアプリを削除し、開発者が審査後に承認済みのコンテンツを差し替えたと説明している。Googleはすでにほとんどのアプリを削除していた。Metaは11,600の広告アカウントに対処し、209本のアプリの広告出稿をブロックしたという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "数百款AI应用\n暗藏滥用深度伪造功能",
-          "body": "WIRED发现约400个应用和网站伪装成普通AI工具，暗藏性虐待深度伪造功能。",
-          "mini_headline": "AI应用暗藏深度伪造工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "WIRED的一项调查发现了一个由400多个相互关联的域名和应用组成的网络，它们往往自称是日常服务，比如宠物肖像、语言辅导或AI健身教练。在特定条件下访问时，它们会悄悄加载一个网页界面，可根据用户上传的照片生成露骨的AI色情图像和视频。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员顺着Facebook和Instagram上数千条露骨深度伪造视频广告的链接找到了这个网络，这些链接指向Apple和Google应用商店中的应用。AI Forensics的Paul Bouchaud说：“这是一个有组织、商业化运作的行动。”一度每周约有30个应用-网站（apps-websites）注册；九月有27个在Google Play上架，下载量超过350,000次。"
-              },
-              {
-                "t": "p",
-                "x": "这些应用似乎由中国开发者和一家香港实体KeLing Technology Limited运营，后者未予回应。Apple下架了19款应用，并称开发者在审核后替换了已获批准的内容；Google此前已下架了大部分应用。Meta表示已对11,600个广告账户采取行动，并禁止209款应用投放广告。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cientos de apps de AI ocultan\nfunciones de deepfakes abusivos",
-          "body": "WIRED halló unas 400 apps y sitios que simulan ser herramientas de AI comunes y ocultan funciones de deepfakes sexuales.",
-          "mini_headline": "Deepfakes ocultos en apps de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Una investigación de WIRED encontró una red de más de 400 dominios y apps conectados que a menudo dicen ser servicios cotidianos, como retratos de mascotas, clases de idiomas o entrenadores de ejercicio con AI. Cuando se accede a ellos en ciertas condiciones, cargan de forma encubierta una interfaz web para generar imágenes y videos sexuales explícitos con AI a partir de las fotos que suben los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores encontraron la red siguiendo los enlaces de miles de anuncios de video con deepfakes explícitos en Facebook e Instagram, que llevaban a apps de las tiendas de Apple y Google. “Se trata de una operación organizada y gestionada comercialmente”, dice Paul Bouchaud, de AI Forensics. En un momento dado se registraban unas 30 apps-websites cada semana; 27 estaban disponibles en Google Play en septiembre, con más de 350,000 descargas."
-              },
-              {
-                "t": "p",
-                "x": "Las apps parecen estar gestionadas por desarrolladores chinos y una entidad de Hong Kong, KeLing Technology Limited, que no respondió. Apple retiró 19 apps y afirma que los desarrolladores cambiaron el contenido aprobado después de la revisión; Google ya había retirado la mayoría de las apps. Meta afirma que actuó contra 11,600 cuentas publicitarias y bloqueó la publicidad de 209 apps."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 앱 수백 개에\n악성 딥페이크 기능 숨겨",
-          "body": "WIRED가 AI 도구로 위장한 성착취 딥페이크 앱·사이트 약 400개를 찾았다.",
-          "mini_headline": "AI 앱 속에 숨은 딥페이크 도구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "WIRED 조사 결과, 서로 연결된 도메인과 앱 400개 이상으로 이뤄진 네트워크가 드러났다. 이들은 반려동물 초상화, 어학 강습, AI 운동 코치 같은 일상적 서비스를 표방하는 경우가 많다. 그러나 특정 조건에서 접속하면 이용자가 올린 사진으로 노골적인 AI 성적 이미지와 동영상을 만드는 웹 인터페이스를 몰래 불러온다."
-              },
-              {
-                "t": "p",
-                "x": "연구자들은 Facebook과 Instagram에 올라온 수천 건의 노골적 딥페이크 동영상 광고 링크를 따라가 이 네트워크를 찾아냈다. 링크는 Apple과 Google 스토어의 앱으로 이어졌다. AI Forensics의 Paul Bouchaud는 “조직적이고 상업적으로 운영되는 사업”이라고 말했다. 한때는 매주 약 30개의 앱·웹사이트(apps-websites)가 등록됐고, 구월에는 27개가 Google Play에 올라 있었으며 다운로드 수는 350,000회를 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "이 앱들은 중국 개발자들과 홍콩 법인 KeLing Technology Limited가 운영하는 것으로 보이며, 이 법인은 답하지 않았다. Apple은 앱 19개를 삭제했으며 개발자들이 심사 후 승인된 콘텐츠를 바꿔치기했다고 밝혔다. Google은 이미 대부분의 앱을 삭제한 상태였다. Meta는 광고 계정 11,600개에 조치를 취하고 앱 209개의 광고를 차단했다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "数百のAIアプリが\n悪質ディープフェイクを隠す",
-          "body": "WIREDはAIツールを装い性的ディープフェイク機能を隠す約400のアプリ等を発見した。",
-          "mini_headline": "AIアプリに潜むディープフェイク機能",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "WIREDの調査で、ペットの肖像画、語学レッスン、AIワークアウトコーチといった日常的なサービスを装うことが多い、相互につながった400を超えるドメインとアプリのネットワークが見つかった。特定の条件でアクセスすると、ユーザーがアップロードした写真から露骨なAI性的画像や動画を生成するウェブインターフェースをひそかに読み込む。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、FacebookとInstagramに出された数千件の露骨なディープフェイク動画広告のリンクをたどってこのネットワークを発見した。リンク先はAppleとGoogleのストアにあるアプリだった。AI ForensicsのPaul Bouchaudは「これは組織的かつ商業的に運営されている事業だ」と話す。一時は毎週約30のアプリ・ウェブサイト(apps-websites)が登録され、九月には27本がGoogle Playで公開されており、ダウンロード数は350,000を超えていた。"
-              },
-              {
-                "t": "p",
-                "x": "これらのアプリは中国の開発者と香港の法人KeLing Technology Limitedが運営しているとみられ、同社は回答しなかった。Appleは19本のアプリを削除し、開発者が審査後に承認済みのコンテンツを差し替えたと説明している。Googleはすでにほとんどのアプリを削除していた。Metaは11,600の広告アカウントに対処し、209本のアプリの広告出稿をブロックしたという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "数百款AI应用\n暗藏滥用深度伪造功能",
-          "body": "WIRED发现约400个应用和网站伪装成普通AI工具，暗藏性虐待深度伪造功能。",
-          "mini_headline": "AI应用暗藏深度伪造工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "WIRED的一项调查发现了一个由400多个相互关联的域名和应用组成的网络，它们往往自称是日常服务，比如宠物肖像、语言辅导或AI健身教练。在特定条件下访问时，它们会悄悄加载一个网页界面，可根据用户上传的照片生成露骨的AI色情图像和视频。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员顺着Facebook和Instagram上数千条露骨深度伪造视频广告的链接找到了这个网络，这些链接指向Apple和Google应用商店中的应用。AI Forensics的Paul Bouchaud说：“这是一个有组织、商业化运作的行动。”一度每周约有30个应用-网站（apps-websites）注册；九月有27个在Google Play上架，下载量超过350,000次。"
-              },
-              {
-                "t": "p",
-                "x": "这些应用似乎由中国开发者和一家香港实体KeLing Technology Limited运营，后者未予回应。Apple下架了19款应用，并称开发者在审核后替换了已获批准的内容；Google此前已下架了大部分应用。Meta表示已对11,600个广告账户采取行动，并禁止209款应用投放广告。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cientos de apps de AI ocultan\nfunciones de deepfakes abusivos",
-          "body": "WIRED halló unas 400 apps y sitios que simulan ser herramientas de AI comunes y ocultan funciones de deepfakes sexuales.",
-          "mini_headline": "Deepfakes ocultos en apps de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/w_960,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Una investigación de WIRED encontró una red de más de 400 dominios y apps conectados que a menudo dicen ser servicios cotidianos, como retratos de mascotas, clases de idiomas o entrenadores de ejercicio con AI. Cuando se accede a ellos en ciertas condiciones, cargan de forma encubierta una interfaz web para generar imágenes y videos sexuales explícitos con AI a partir de las fotos que suben los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores encontraron la red siguiendo los enlaces de miles de anuncios de video con deepfakes explícitos en Facebook e Instagram, que llevaban a apps de las tiendas de Apple y Google. “Se trata de una operación organizada y gestionada comercialmente”, dice Paul Bouchaud, de AI Forensics. En un momento dado se registraban unas 30 apps-websites cada semana; 27 estaban disponibles en Google Play en septiembre, con más de 350,000 descargas."
-              },
-              {
-                "t": "p",
-                "x": "Las apps parecen estar gestionadas por desarrolladores chinos y una entidad de Hong Kong, KeLing Technology Limited, que no respondió. Apple retiró 19 apps y afirma que los desarrolladores cambiaron el contenido aprobado después de la revisión; Google ya había retirado la mayoría de las apps. Meta afirma que actuó contra 11,600 cuentas publicitarias y bloqueó la publicidad de 209 apps."
+                "x": "Sin embargo, el foco legislativo de la Comisión para 2027 es reducido, ya que varias propuestas, como la Digital Fairness Act (DFA) y la European Product Act, se presentarán a finales de 2026."
               }
             ]
           }

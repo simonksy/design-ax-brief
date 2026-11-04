@@ -1,101 +1,96 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "books",
   "items": [
     {
+      "title": "Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried It With 2,000 Takedown Notices in a Single Day",
+      "url": "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
+      "source": "404 Media",
+      "published_iso": "2026-11-03T08:49:58.000Z",
+      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+      "excerpt": "ao3.life scraped Archive of Our Own fanfiction and repackaged it as AI-narrated audiobooks for sale without authors' permission; fanfic writers filed some 2,000 takedown notices in a day and the site went down.",
       "tool": "Books",
-      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "title": "The AI Transparency Trap",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-11-02T10:30:57+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229.jpg",
-      "excerpt": "Scholarly Kitchen argues that neither the absence of AI nor disclosure of AI use guarantees trustworthy research, questioning publishers' reliance on AI-disclosure policies.",
-      "rationale": "Fresh (11-02) on-whitelist piece challenging the AI-disclosure policies publishers are now writing; directly shapes editorial policy."
+      "rationale": "Fresh concrete event: a vibe-coded site selling AI-narrated audiobooks of scraped fanfic was taken down by mass DMCA notices, a usable playbook for writers."
     },
     {
+      "title": "Toonsutra Bets on AI to Turn Comics Into Cinema With Its Cinematic Mode",
+      "url": "https://www.altbollywood.com/post/toonsutra-ai-cinematic-mode-comics-india",
+      "source": "AltBollywood",
+      "published_iso": "2026-10-30T09:10:06Z",
+      "og_image": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg",
+      "excerpt": "Indian webcomics platform Toonsutra's Cinematic Mode uses Google's Veo 3, Gemini and Lyria to animate, voice and score comics.",
       "tool": "Books",
-      "category": "books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "title": "AI에 출판계 '혼란'…저작권·이용료 논란에 표준계약서 손질",
-      "url": "https://www.ajunews.com/amp/20261102140302421",
-      "source": "아주경제",
-      "published_iso": "2026-11-02T15:48:34+09:00",
-      "og_image": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-      "excerpt": "생성형 AI 학습용 출판 데이터의 적정 이용료 논쟁이 본격화하면서 출판계가 AI 관련 조항을 담아 표준계약서 손질에 나섰다.",
-      "rationale": "Concrete action: Korean publishing is rewriting its standard author contract with AI clauses — changes what authors sign."
+      "rationale": "Replacement pick: a shipped product feature (Toonsutra Cinematic Mode) that animates, voices and scores comics with Veo 3, Gemini and Lyria; a concrete AI-comics format with no prior card on this platform."
     },
     {
+      "title": "University Presses Back AI Service Meridian",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-11-03T00:00:00-05:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG",
+      "excerpt": "Cambridge, Johns Hopkins and Princeton university presses are founding publishers of Meridian, an AI gateway run by licensing start-up Cashmere that gives students and researchers licensed AI access to peer-reviewed books and journals.",
       "tool": "Books",
-      "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "title": "Your writing was flagged as AI. What does that actually mean?",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
-      "source": "NPR",
-      "published_iso": "2026-10-31T05:00:00-04:00",
-      "og_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-      "excerpt": "As editors turn to imperfect AI detectors such as Pangram to screen submissions, writers who say they were falsely accused are left wondering what triggered a positive result.",
-      "rationale": "Credible, practical explainer on how submission-screening detectors flag writers and what a positive result means; new angle (false positives) vs the earlier Pangram CEO story."
+      "rationale": "New product launch: Meridian, a licensed AI gateway to scholarly books backed by three major university presses, a concrete licensing model."
     },
     {
+      "title": "Guest Post - What Accessibility at Scale Actually Requires of Academic Publishers",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-11-03T10:30:57+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164.jpg",
+      "excerpt": "Academic publishers sitting on decades of archives can use AI to audit non-compliant content and generate alt-text, structural tags and metadata to make backlists accessible at scale.",
       "tool": "Books",
-      "category": "books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "title": "Korean cartoonists take demands for AI consent, copyright safeguards to UNESCO",
-      "url": "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco",
-      "source": "The Korea Times",
-      "published_iso": "2026-10-30T05:35:03Z",
-      "og_image": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-      "excerpt": "Korean comic creators called at UNESCO for rules requiring artists' consent before their work is used to train AI models, plus copyright safeguards.",
-      "rationale": "New event: Korean comics creators bring an AI-training consent demand to an international body (UNESCO); comics/webtoon spread."
+      "rationale": "Actionable practice piece: using AI to audit backlists and generate alt-text, tags and metadata for accessibility compliance; no prior card on this angle."
     },
     {
+      "title": "\"딸깍도서 넘쳐날수록 출판산업 보호해야\"… 출판계, 세제 혜택 촉구",
+      "url": "https://www.hankookilbo.com/news/article/A2026110215410003860",
+      "source": "한국일보",
+      "published_iso": "2026-11-02T17:15:00+09:00",
+      "og_image": "https://newsimg.hankookilbo.com/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+      "excerpt": "AI로 손쉽게 찍어내는 '딸깍출판'이 늘고 AI 기업의 출판물 학습이 확대되자 출판단체가 편집·디자인·인세 비용까지 포함한 출판콘텐츠 세액공제를 요구했다.",
       "tool": "Books",
-      "category": "books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "title": "Project Hail Mary Author Says He 'Might Be Among the Last Generation of Fully Human Writers'",
-      "url": "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers",
-      "source": "IGN",
-      "published_iso": "2026-11-02T20:45:09+00:00",
-      "og_image": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_92je.1200.jpg",
-      "excerpt": "Andy Weir says he may be among the last generation of fully human writers, comparing AI to tools like hammers, forklifts and race cars.",
-      "rationale": "Freshest item in the pool; a bestselling novelist's stance on AI as a writing tool — high reader interest, distinct from prior author-commentary cards."
+      "rationale": "Korean publishing bodies' formal call for a publishing-content tax credit in response to AI-made books; a new policy demand, adds Korean outlet diversity."
     }
   ],
   "dedup": {
     "checks": {
-      "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/": {
+      "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/": {
         "verdict": "new",
-        "nearest": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
+        "nearest": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
         "new_action": ""
       },
-      "https://www.ajunews.com/amp/20261102140302421": {
+      "https://www.altbollywood.com/post/toonsutra-ai-cinematic-mode-comics-india": {
         "verdict": "new",
-        "nearest": "https://www.readersnews.com/news/articleView.html?idxno=200813",
+        "nearest": "https://www.news1.kr/it-science/internet-platform/6320039",
         "new_action": ""
       },
-      "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram": {
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html": {
+        "verdict": "follow-up",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
+        "new_action": "Launch of Cashmere's Meridian AI gateway with Cambridge, Johns Hopkins and Princeton UPs as founding publishers (new product; the 2026-08-04 card covered only Princeton's licensing partnership)."
+      },
+      "https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
+        "nearest": "https://www.boersenblatt.net/news/barrierefreies-lesen-und-ki-gestuetzte-hoerbuchproduktion-444501",
         "new_action": ""
       },
-      "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco": {
+      "https://www.hankookilbo.com/news/article/A2026110215410003860": {
         "verdict": "new",
-        "nearest": "https://www.nocutnews.co.kr/news/6597373",
-        "new_action": ""
-      },
-      "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers": {
-        "verdict": "new",
-        "nearest": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+        "nearest": "https://www.yna.co.kr/view/AKR20261016078400005",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/follow-ups without a new event: hani.co.kr 1284943 (Anthropic Korean-author piracy running story; 250-author count is extra reporting on sedaily 20102152 / bizhankook 10-27); times.kaist.ac.kr idxno=22981 (Kyobo bulk-purchase story, joongang 25469854 10-15); newsis NISX20261030_0003848984 (Anthropic-crisis analysis, same running story); janefriedman AI-detection-scandals (same AI-detection cluster as NPR pick; commentary, kept the NPR reporting); BBC Gruffalo/Scheffler (Scheffler's AI-illustrator stance ran 09-14 via thebookseller comment; 'considering' legal action is not a filing). Not picked on score/diversity: hankookilbo tax-credit demand (second Korean publishing-industry card same day as ajunews), lithub horror essay and The Stage audio-drama opinion (commentary; stage piece related to Fish Audio 10-20), Toonsutra (low-credibility outlet), OtakuKart Murata (low credibility), news1 forum notice and Ake Festival preview (event announcements). Cross-section: all picks except NPR/Korea Times post-date the 11-02 publish; those two were checked by URL against books history only — orchestrator should confirm no other-section clash in published_urls.json."
+    "note": "REPLACEMENT (2026-11-04): removed the AOL/Telegraph Goncourt pick (https://www.aol.com/articles/author-admitted-using-ai-wins-175635000.html) because the source URL 404s and the win/AI-use claim could not be verified; no other Goncourt candidate exists in the pool. Replaced with Toonsutra Cinematic Mode (AltBollywood), reusing the removed accent #0070f3 / motif swatch. Nearest published story is Kakao Piccoma's webtoon-to-AI-anime card (news1 2026-10-18) — a different company and product, so verdict new. Good e-Reader piracy reserve not used: it overlaps the running pirate-library/shadow-library coverage (PayAuthors 10-20, TorrentFreak Z-Library 10-25). Books slice of published_urls.json shows no altbollywood/Toonsutra entry; other sections not exhaustively checked — orchestrator should exact-grep the Toonsutra URL and 'Toonsutra' across all sections before roll. Original dedup drops: BBC 'Gruffalo illustrator considering legal action' (same running story as the 2026-09-14 Bookseller comment by Axel Scheffler, thebookseller.com/comment/ai-illustrators-threat-government-act-axel-scheffler; 'considering' is not a filing); Publishing Perspectives amicus-brief roundup (commentary on the OpenAI case, nearest Bookseller 10-30 publishers' brief; also avoided per the movies cross-section note); Hani 250 Korean authors in the Anthropic settlement (extra reporting, nearest sedaily 20102152); Newsis and KAIST Times Anthropic/book-training pieces (analysis of the same running story). Skipped on scoring: Jane Friedman detection essay, Scholarly Kitchen 'Freed from Thinking' (opinion), Stanford Daily column, Lit Hub essay, The Stage opinion, etoday series, Murata reaction, event previews (Ake, Kim Yu-jeong forum), local WBCB story, KlooBR award, unreleased Gemini Comics leak."
   }
 }

@@ -3020,6 +3020,130 @@
           "x": "삼성전자의 수면 무호흡 기능은 2023년 9월 식약처의 소프트웨어 의료기기(SaMD) 허가, 2024년 2월 미국 FDA '드 노보(De Novo)' 승인, 2025년 브라질 ANVISA 승인을 받았으며, 현재 전 세계 84개국에서 제공되고 있다."
         }
       ]
+    },
+    "medicine/medicine-hti5-ai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+          "cap": "사진: 일러스트, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "HHS가 AI 투명성 규정 일부를 포함해 보건 IT 인증 요건 여러 개를 되돌린다. ONC의 HTI-5 최종 규칙은 현행 인증 기준 60개 가운데 14개를 삭제하고 일곱 개를 추가로 고친다. 변경 대부분은 December 28, 2026에 발효되며 ONC는 규제 비용이 $1.5 billion 이상 줄 것으로 본다."
+        },
+        {
+          "t": "p",
+          "x": "개발사가 근거 기반·예측형 의사결정 지원 중재에서 AI 추천의 출처를 밝히도록 한 요건과 중재 위험 관리 요건이 이 규칙으로 사라진다."
+        },
+        {
+          "t": "p",
+          "x": "“인증이 더 이상 예측 도구의 사용 목적, 학습 데이터, 성능, 한계에 관한 정보 접근을 보장하지 않는다”고 변호사 Mel Soliz는 말했다. 그는 의료 리더들에게 연방 인증에 기대지 말고 공개·검증·편향 시험 요건을 AI 조달 계약에 직접 넣으라고 권한다."
+        },
+        {
+          "t": "p",
+          "x": "민감한 건강 정보 보호에 쓰이는 보안 태그의 자발적 인증 기준도 함께 없어진다. Soliz는 의료 제공자에게 가장 실망스러운 변화 가운데 하나로 이를 꼽았다."
+        }
+      ]
+    },
+    "medicine/medicine-epic-inbox-drafts-jama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Columbia University Irving Medical Center에서 진행한 이 후향적 코호트 연구는 환자 포털 메시지에 AI-drafted 답장을 만들어 주는 Epic의 In Basket Augmented Response Technology를 들여다봤다. 연구진은 March 1, 2023부터 May 15, 2025까지 임상의 1542명이 환자 272 091명에게 보낸 첫 응답 983 154건을 분석했다. 기관 전체 도입은 December 2024였다."
+        },
+        {
+          "t": "p",
+          "x": "응답 도구 도입은 전체 메시지 회신 시간이 8.6% 느는 것과 연관됐지만, 도구를 쓴 개별 메시지에서는 회신 시간이 29.5% 짧아지는 연관성이 나타났다."
+        },
+        {
+          "t": "p",
+          "x": "도구 사용과 근무 외 메시지 부담의 전반적 감소 사이에는 연관이 없었다. 근무 시간에 들어온 검사 결과 문의는 근무 외 응답이 줄었지만 근무 외 시간에 들어온 메시지는 오히려 근무 외 응답이 늘었다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 이 도구가 특정 메시지에 답하는 문턱을 낮출 수는 있어도 부담을 고르게 덜어 주지는 못한다고 결론 내렸다."
+        }
+      ]
+    },
+    "medicine/medicine-mantis-pediatric-tumors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MANTIS(시간 의존적 개인별 생존 예측을 위한 메틸화 프로파일링 및 인공신경망)는 수모세포종과 뇌실막세포종의 예후를 예측하는 정밀 AI 도구다. 환자 2,786명의 전장 유전체 DNA 메틸화 어레이 데이터로 만들었다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+          "cap": "Fig. 1: 신경망 구조와 학습 개요."
+        },
+        {
+          "t": "p",
+          "x": "이 도구는 10년에 걸친 개인별 생존 확률을 내놓는다. 일치도 지수는 최고 0.80 ± 0.07로 현재 임상 지표를 크게 웃돈다. 수모세포종 환자 898명으로 구성된 독립 임상시험 코호트 세 곳에서 검증을 마쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+          "cap": "Fig. 5: 표준 위험군 MB 환자 다수는 더 낮은 CSI 선량으로 이득을 볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "개인별 치료 효과 추정으로 범위를 넓힌 MANTIS는 두개척수 방사선량을 낮춰 치료해도 유의한 생존 불이익이 없는(P = 0.683) 표준 위험군 수모세포종 환자를 ~60% 가려낸다. 낮은 선량은 더 나은 신경인지 결과와 연관된다."
+        }
+      ]
+    },
+    "medicine/medicine-stanford-preterm-twins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Stanford Medicine 연구진이 임신 중 면역계 변화를 담은 AI-enabled 모델을 만들었다. 임신부 한 사람 한 사람의 면역계를 본뜬 “디지털 트윈”으로 가상 약물 시험을 할 수 있다. 연구는 Oct. 21 Science Advances 온라인판에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "SIMCO(임상 결과의 시뮬레이션 면역 모델링)라는 이 시스템은 세포 이억오천만 개의 반응과 임신 63건의 종단 데이터로 학습했고 임신 중 안전하다고 이미 알려진 약물 요법 아홉 가지를 평가하는 데 쓰였다."
+        },
+        {
+          "t": "p",
+          "x": "가장 효과가 큰 조합은 아스피린과 란소프라졸이었다. 책임저자 Brice Gaudilliere는 “디지털 트윈 시스템에서 두 약물을 함께 쓰자 분만 지연 효과가 컸고, 아스피린 단독보다 15배 높았다”고 말했다. 엽산 역시 분만으로 향하는 면역학적 진행을 늦췄다."
+        },
+        {
+          "t": "p",
+          "x": "이 조합은 동물 모델에서도 분만을 늦췄다. 연구진은 사람 대상 임상시험에 필요한 FDA 승인을 받았다."
+        }
+      ]
+    },
+    "medicine/athenahealth-claude-records": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "AI 통합 요소와 의료 아이콘이 표시된 헬스케어 기술 인터페이스"
+        },
+        {
+          "t": "p",
+          "x": "전자건강기록 기업 athenahealth가 Anthropic의 Claude를 시작으로 외부 AI 어시스턴트에 환자 건강 기록을 연다. 새 연결 방식은 환자의 임상 데이터를 근거로 맞춤형 답변을 내도록 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "새 서버 솔루션 athenaPatient MCP는 Model Context Protocol로 Claude를 athenaOne 플랫폼에 직접 잇는다. 환자는 athenahealth 환자 포털 계정 정보로 인증하고, Claude가 볼 수 있는 정보를 스스로 정한다. 계정 정보는 Claude와 공유되지 않고, 환자는 언제든 접근 권한을 거둘 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "미국(U.S.)의 Claude Pro·Max 사용자는 Claude 설정에서 athenaPatient MCP 커넥터를 추가하면 된다. 환자가 허락하면 Claude는 검사 결과, 복용 약물, 활력징후, 건강 상태, 진단 보고서, 예방접종, 진료 이력, 알레르기, 시술, 치료 계획을 참고한다."
+        },
+        {
+          "t": "p",
+          "x": "athenahealth의 최고제품운영책임자 Paul Brient는 환자 정보를 모델 학습에 쓰지 않는 AI 어시스턴트에만 athenaPatient MCP 접근을 열어 줄 방침이다. 그는 “Claude는 우리가 athenaPatient MCP에서 처음 활성화한 연결이지만, 유일한 연결로 둘 생각은 없다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Pew Research Center의 팔월 조사에서는 미국(U.S.) 성인 셋 중 한 명 이상(34%)이 건강 문제로 AI 어시스턴트를 써 본 적이 있었다. Brient는 임상의에게 일을 더 얹으려는 게 아니라며 “환자가 어떤 AI 어시스턴트를 쓸지 정하는 것은 우리의 일이 아니다”라고 말했다."
+        }
+      ]
     }
   }
 }

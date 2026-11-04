@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-03",
-  "section": "books",
-  "media": [
-    {
-      "id": "scholarlykitchen-ai-transparency-trap",
-      "type": "image",
-      "src": "pipeline/media/scholarlykitchen-ai-transparency-trap.jpg"
-    },
-    {
-      "id": "ajunews-ai-standard-contract",
-      "type": "image",
-      "src": "pipeline/media/ajunews-ai-standard-contract.jpg"
-    },
-    {
-      "id": "npr-pangram-false-flags",
-      "type": "image",
-      "src": "pipeline/media/npr-pangram-false-flags.jpg"
-    },
-    {
-      "id": "korea-cartoonists-unesco-ai",
-      "type": "image",
-      "src": "pipeline/media/korea-cartoonists-unesco-ai.jpg"
-    },
-    {
-      "id": "andy-weir-human-writers",
-      "type": "image",
-      "src": "pipeline/media/andy-weir-human-writers.jpg"
-    }
-  ]
-}
+{"date":"2026-11-04","section":"books","media":[
+{"id":"books-ao3-clone-takedown","type":"image","src":"pipeline/media/books-ao3-clone-takedown.jpg"},
+{"id":"toonsutra-cinematic-mode","type":"image","src":"pipeline/media/toonsutra-cinematic-mode.jpg"},
+{"id":"meridian-cashmere-presses","type":"svg"},
+{"id":"scholarly-alttext-backlist","type":"image","src":"pipeline/media/scholarly-alttext-backlist.jpg"},
+{"id":"ddalkkak-publishing-taxcredit","type":"image","src":"pipeline/media/ddalkkak-publishing-taxcredit.jpg"}
+]}

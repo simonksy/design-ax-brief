@@ -16456,6 +16456,153 @@
           "x": "뒤 편집이 앞 편집을 되돌리지 않았는지도 EditAgent가 살핀다. 연산은 단일 편집기의 약 열 배가 든다. 대신 검증을 거친 예시 약 26,000개 덕분에 미세조정 편집기의 성능이 세 벤치마크에서 모두 올랐다."
         }
       ]
+    },
+    "design/figma-aem-eds-block-kit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AEM Edge Delivery Services(EDS)로 사이트를 만들면 디자이너가 보낸 Figma 링크 속 프레임을 블록으로 손수 다시 짜야 한다. decorate() JS, 범위가 지정된 CSS, Universal Editor 모델까지다. aem-eds-kit은 이 일을 명령 하나로 줄인다: eds block from-design \"<Figma frame link>\" --name hero."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
+          "cap": "디자인과 eds가 그 디자인으로 만든 EDS 블록"
+        },
+        {
+          "t": "p",
+          "x": "eds는 Figma의 REST API나 에이전트의 Figma MCP 서버로 프레임(레이아웃, Auto Layout, 텍스트 스타일, Variables, 베리언트, 프레임 너비)을 읽어 캐시한다. 이어 EDS 규칙, 17가지 Universal Editor 필드 유형, 프로젝트 디자인 토큰을 담은 프롬프트를 만들면 이미 쓰던 AI 코딩 에이전트(Claude Code, Cursor, Codex)가 블록을 작성한다. 모델은 eds가 따로 제공하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "그다음은 결과 검사다. 파일이 있는지, decorate()가 export되는지, CSS 범위가 블록 안으로 한정되는지, Universal Editor 모델이 유효한지 본다. 결과물은 hero.js, hero.css, _hero.json Universal Editor 모델, 미리보기 페이지다. 작성자가 채우기 전까지는 임시 문구와 이미지 슬롯이 자리를 지킨다."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
+          "cap": "브라우저에서 본 블록 미리보기"
+        },
+        {
+          "t": "p",
+          "x": "eds block preview, check, test는 블록을 프레임 너비별로 보여 주고 접근성을 점검하며 시각 회귀 테스트를 돌린다. eds는 Figma 호출 한도에 걸리지 않게 블록당 Figma를 한 번만 부르고 이후엔 캐시를 쓴다. 이 CLI는 Framer와 Google Stitch 페이지도 받으며 로컬 모델(Ollama, oMLX)에서도 돈다. MIT 라이선스(MIT-licensed)로 공개됐고 Adobe, Figma와는 관련이 없다."
+        }
+      ]
+    },
+    "design/vercel-mcp-deploy-card": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel MCP가 이제 ChatGPT 등 MCP Apps를 지원하는 채팅 클라이언트 안에서 배포 현황을 인터랙티브 카드로 보여 준다."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
+        },
+        {
+          "t": "p",
+          "x": "카드에는 실시간 배포 상태와 빌드 로그, 소스·커밋 정보가 뜨고 배포 URL이 준비되면 Visit 버튼이 생긴다. 로그를 채팅으로 넘겨 모델과 함께 디버깅해도 되고 전체 화면 보기로 카드 아래 로그를 읽어도 된다. 저장소 하나가 여러 프로젝트에 연결돼 있으면 프로젝트 목록에서 골라 전환한다."
+        },
+        {
+          "t": "p",
+          "x": "이 카드는 Vercel MCP가 MCP Apps 확장 위에 만든 첫 MCP App이다. 앱을 지원하지 않는 클라이언트에는 배포 상태, 미리보기 URL, 커밋이 텍스트로 간다. open_deployments 도구로는 프로젝트, 저장소, 커밋 기준으로 배포를 찾고 환경별로 걸러 볼 수도 있다. ChatGPT에서는 Connectors 설정에서 Vercel MCP를 연결한다."
+        }
+      ]
+    },
+    "design/eleken-code-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
+        },
+        {
+          "t": "p",
+          "x": "목업은 승인됐다. 개발이 시작되자 질문이 쏟아졌다. Eleken은 여러 SaaS 프로젝트에서 같은 문제를 겪는다. Figma가 늘 깔끔하게 코드로 옮겨지지는 않고, 인터랙션은 실제로 구현하면 다르게 움직인다. 결국 디자인 결정은 구현하던 개발자 몫이 된다. 그래서 코드 기반 프로토타이핑이 Eleken의 프로세스에 자리 잡았다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
+          "cap": "Claude로 생성한 품질 관리 대시보드 프로토타입 Quality Task Center"
+        },
+        {
+          "t": "p",
+          "x": "코드 기반 프로토타이핑은 실제 코드로, 대개 실제 제품과 같은 컴포넌트를 써서 작동하는 제품 버전을 만드는 일이다. “Figma는 제품이 어떻게 작동해야 하는지 보여 준다. 코드로 만든 프로토타입은 그것이 어떻게 작동하는지 시험하게 해 준다.” 널리 인용되는 IBM 수치를 보면 결함 수정의 상대 비용은 설계 단계 1배, 구현 단계 6.5배, 테스트 단계 15배다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
+          "cap": "소프트웨어 결함 수정의 상대 비용"
+        },
+        {
+          "t": "p",
+          "x": "Eleken 디자이너들은 고객사 저장소에서 Claude Code 같은 도구로 일한다. 제품을 로컬에서 돌리고 별도 브랜치에서 플로를 만들며, 브라우저에서 고쳐 가며 라이브 미리보기를 공유한다. 승인된 작업은 Pull Request로 고객사 엔지니어에게 넘어가고, 프로덕션 배포는 Eleken이 하지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
+          "cap": "Eleken 디자이너가 만든 GitHub의 Claude Code 스킬"
+        },
+        {
+          "t": "p",
+          "x": "AI 덕분에 이 워크플로는 훨씬 빨라졌지만 저절로 굴러가지는 않는다. Claude Code 같은 도구는 코드베이스를 잘못 읽거나 없는 기능을 지어내고 오류를 끼워 넣기도 한다. 디자이너가 여전히 AI의 결과물을 검토해야 하는 이유다."
+        },
+        {
+          "t": "video",
+          "yt": "lGDHajtmcIE"
+        },
+        {
+          "t": "p",
+          "x": "프로토타입이 기존 코드베이스 안에 있어야 한다면 Cursor와 Claude Code가 맞다. 충실도는 팀이 이미 가진 도구가 아니라 검증하려는 질문을 보고 골라야 한다."
+        }
+      ]
+    },
+    "design/creativebloq-ai-poster-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
+          "cap": "AI는 왜 이 서체에 집착할까? (이미지 출처: Future)"
+        },
+        {
+          "t": "p",
+          "x": "AI로 생성한(AI-generated) 아트는 이제 온라인 밖에도 널렸다. 누가 봐도 AI로 만든 포스터가 카페와 식당, 심지어 동네 마을회관에까지 붙는다. 매번 정체를 들키게 하는 건 서체다. 거친 붓 터치에 살짝 위로 기운 기울기. 시끄럽고 요란한 데다 어디에나 있어서 이제 사람들은 이 서체를 Comic Sans에 견준다."
+        },
+        {
+          "t": "p",
+          "x": "디자이너를 쓸 여력이 없는 소상공인이라면 AI가 처음 내놓은 결과물 하나로 만족할 수도 있다. 하지만 Comic Sans는 목적을 갖고 손으로 만든 서체였다. Carrick Signs의 Mandy Roscoe에 따르면 이 서체는 “공식 안내문을 꾸미려는 것이 아니라 만화 속 격식 없는 손글씨 말투를 흉내 내려고” 만들어졌다."
+        },
+        {
+          "t": "p",
+          "x": "이유를 묻자 ChatGPT는 이미지 생성기가 수많은 포스터, 광고, YouTube 썸네일에서 굵은 붓글씨풍 레터링을 눈길 끄는 디자인과 엮었을 뿐, 반드시 실제 서체를 고르는 것은 아니라고 답했다. 손으로 쓴 듯 반항적으로 보이려던 타이포그래피가 이제는 누가 봐도 인공적으로 보인다."
+        }
+      ]
+    },
+    "design/figma-weave-tldr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma Weave는 제작 수요가 꾸준한 크리에이티브 팀을 겨냥한 플랫폼이다. Weave는 이미지나 영상을 만들고 편집하는 과정을 팀원과 함께 손보고 다시 쓰는 시퀀스로 바꾼다. 작업은 캔버스 위에 서로 이어진 노드로 짜인다. 노드는 이미지와 프롬프트를 넣고 콘텐츠를 생성하고 편집하는 단위 블록이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+          "cap": "Figma Weave 캔버스에서는 이어진 노드가 창작 과정의 단계를 하나하나 보여 준다."
+        },
+        {
+          "t": "p",
+          "x": "브랜치라는 별도 경로를 쓰면 원본은 그대로 두고 같은 출발점에서 다른 프롬프트나 편집을 시험해 볼 수 있다. 같은 프롬프트를 여러 AI 모델에 돌려 결과를 나란히 비교해도 된다."
+        },
+        {
+          "t": "p",
+          "x": "편집 도구도 노드 형태라 다른 단계에 이어 붙일 수 있다. 색 보정, 컴포지터, 레벨, 트림, 크롭, 페인터가 있다. Weave 툴은 워크플로를 하나로 묶어 두기 때문에 팀원은 노드를 들여다보거나 프롬프트를 처음부터 쓰지 않고도 바로 실행한다. 다음 사용자는 사진을 올리고 Generate만 누르면 된다."
+        },
+        {
+          "t": "p",
+          "x": "Figma 노드를 쓰면 Figma Design의 프레임을 복사해 Weave에 붙여 넣을 수 있다. 붙여 넣은 프레임은 원본과 계속 연결된다. Figma Design에서 원본 프레임을 고치면 Weave의 연결된 Figma 노드에도 그대로 반영된다."
+        }
+      ]
     }
   }
 }

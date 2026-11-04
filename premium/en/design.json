@@ -10494,6 +10494,153 @@
           "x": "EditAgent also checks whether later edits undid earlier ones. It needs about ten times as much compute as a single editor, but its roughly 26,000 verified examples made fine-tuned editors better across all three benchmarks."
         }
       ]
+    },
+    "design/figma-aem-eds-block-kit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you build sites on AEM Edge Delivery Services (EDS), a designer sends a Figma link and you rebuild the frame by hand as a block: decorate() JS, scoped CSS and a Universal Editor model. aem-eds-kit turns that into one command: eds block from-design \"<Figma frame link>\" --name hero."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
+          "cap": "A design next to the EDS block eds generated from it"
+        },
+        {
+          "t": "p",
+          "x": "eds reads the frame (layout, Auto Layout, text styles, Variables, variants and frame widths) over Figma's REST API or through your agent's Figma MCP server, and caches it. It builds a prompt with EDS rules, the 17 Universal Editor field types and your project's design tokens, and the AI coding agent you already use (Claude Code, Cursor or Codex) writes the block: eds doesn't ship a model of its own."
+        },
+        {
+          "t": "p",
+          "x": "It then checks the result: the files exist, decorate() is exported, the CSS is scoped to the block, and the Universal Editor model is valid. The output is hero.js, hero.css, a _hero.json Universal Editor model and a preview page, with placeholder copy and image slots until authors fill them in."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
+          "cap": "The block preview in the browser"
+        },
+        {
+          "t": "p",
+          "x": "eds block preview, check and test show the block at the frame widths, check accessibility and run visual regression. eds keeps one Figma call per block, then a cache, to stay inside Figma's rate limits. The CLI also takes Framer and Google Stitch pages and runs on a local model (Ollama, oMLX). It is MIT-licensed and not affiliated with Adobe or Figma."
+        }
+      ]
+    },
+    "design/vercel-mcp-deploy-card": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, or open the fullscreen view to read them beneath the card. For repositories linked to multiple projects, a project list lets you switch between them."
+        },
+        {
+          "t": "p",
+          "x": "The card is Vercel MCP's first MCP App, built on the MCP Apps extension. Clients without app support receive the deployment state, preview URL, and commit as text instead. The open_deployments tool looks up deployments by project, repository, or commit, with environment filtering. ChatGPT connects to Vercel MCP through its Connectors setup."
+        }
+      ]
+    },
+    "design/eleken-code-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
+        },
+        {
+          "t": "p",
+          "x": "The mockup was approved. Then development started, and the questions began. Across SaaS projects, Eleken sees the same problems: Figma doesn't always translate cleanly into code, interactions behave differently once they're real, and developers end up making design decisions during implementation. That's why code-based prototyping has become part of its process."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
+          "cap": "Quality Task Center, a Claude-generated quality management dashboard prototype"
+        },
+        {
+          "t": "p",
+          "x": "Code-based prototyping means building a working version of the product in real code, often with the same components as the actual product. \"Figma shows how a product should work. A coded prototype lets you test how it works.\" Widely cited IBM figures put the relative cost of fixing a defect at 1× during design, 6.5× during implementation, and 15× during testing."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
+          "cap": "Relative Costs to Fix Software Defects"
+        },
+        {
+          "t": "p",
+          "x": "Eleken's designers work with tools like Claude Code in the client's repository, run the product locally, build the flow in a separate branch, iterate in the browser and share live previews. Approved work reaches the client's engineers as a Pull Request; Eleken doesn't deploy to production."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
+          "cap": "Claude Code skill on GitHub created by Eleken designer"
+        },
+        {
+          "t": "p",
+          "x": "AI makes this workflow much faster, but it doesn't make it automatic: Claude Code and similar tools can misunderstand the codebase, invent functionality or introduce errors, so the designer still needs to review what the AI produces."
+        },
+        {
+          "t": "video",
+          "yt": "lGDHajtmcIE"
+        },
+        {
+          "t": "p",
+          "x": "Cursor and Claude Code fit when the prototype must live in an existing codebase. Pick fidelity by the question you're testing, not by the tool your team already owns."
+        }
+      ]
+    },
+    "design/creativebloq-ai-poster-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
+          "cap": "Why is AI obsessed with this font? (Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "AI-generated art is everywhere, and not just online: blatantly AI posters are popping up in cafes, restaurants and even local village halls. And there's one thing that gives it away every time: that font. Aggressive brush strokes. A slight upward slant. It's loud, it's shouty, and it's everywhere, and people are now comparing it to Comic Sans."
+        },
+        {
+          "t": "p",
+          "x": "Small businesses without the resources to hire a designer may be happy to make do with one of the first things AI spits out. But Comic Sans was handmade for a purpose: Carrick Signs' Mandy Roscoe says it was made to “mimic informal, handwritten speech in cartoons, not to decorate official notices.”"
+        },
+        {
+          "t": "p",
+          "x": "Asked why, ChatGPT said image generators associate bold, brushstroke-style lettering with attention-grabbing design from countless posters, ads and YouTube thumbnails, and aren't necessarily selecting an actual font: typography meant to look handmade and rebellious now looks unmistakably artificial."
+        }
+      ]
+    },
+    "design/figma-weave-tldr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma Weave is a platform for creative teams with ongoing production needs. Weave turns the process of creating and editing imagery or video into a sequence you and your teammates can tweak and reuse. The work comes together in nodes—building blocks for adding images and prompts, generating content, and making edits—connected on the canvas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+          "cap": "The Figma Weave canvas uses connected nodes to show each step of your creative process."
+        },
+        {
+          "t": "p",
+          "x": "Separate paths, called branches, let you try different prompts or edits from the same starting point while keeping the original available. You can also run the same prompt through different AI models and compare the results side by side."
+        },
+        {
+          "t": "p",
+          "x": "Editing tools appear as nodes you can connect to other steps: color correction, compositor, levels, trim, crop and painter. A Weave tool packages a workflow so teammates can run it without navigating the nodes or writing prompts from scratch—the next user would just upload a photo and click Generate."
+        },
+        {
+          "t": "p",
+          "x": "With the Figma node, you can copy a frame from Figma Design and paste it into Weave, where it stays connected to the original. If you change the original frame in Figma Design, that change is reflected in its connected Figma node in Weave."
+        }
+      ]
     }
   }
 }

@@ -3301,6 +3301,134 @@
           "x": "Performance Max also gains age and gender targeting, search term and auction insights reporting, and pilots for audience exclusions; search term landing page reporting starts rolling out mid-November. The Conversions API is now generally available, with partners including Adobe Real-Time CDP, Segment by Twilio, Tealium and Zeotap."
         }
       ]
+    },
+    "marketing/digiday-google-ai-search-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/03/google-pitch-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On Oct. 28, Google's parent company Alphabet reported that its search queries were growing at their fastest annual rate in five years, with total Q3 revenues nearing $127.6 billion, up 25% year-on-year."
+        },
+        {
+          "t": "p",
+          "x": "However, a deeper analysis reveals a more troubling trend: more people are searching, but Google's AI-driven search experiences aren't yet generating ad revenue at the same rate as conventional search. Revenue from \"Search & other\" increased 12% to $63.35 billion, with chief business officer Philipp Schindler acknowledging that AI Mode's comparatively limited monetization had contributed to the slowdown."
+        },
+        {
+          "t": "p",
+          "x": "Alphabet shares fell approximately 12.6% on Oct. 29, erasing close to $500 billion in market value. Sundar Pichai told analysts that AI Mode queries are, on average, three times longer than traditional searches, while approximately one in five involves voice, images or documents."
+        },
+        {
+          "t": "p",
+          "x": "Executives hinted that Google is expanding advertising within AI Mode internationally and introducing multi-turn advertisements in the U.S. Meanwhile, Google Network revenues rose a modest 1.4%, while traffic acquisition costs hit $16.4 billion."
+        }
+      ]
+    },
+    "marketing/sej-shopify-claude-shopping-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png"
+        },
+        {
+          "t": "p",
+          "x": "Three Claude models picked from the same 20 Shopify products 1,980 times and never agreed on the top product. Each search was run once through Shop MCP, the connection Shopify opened to AI agents on Oct. 13, and the models were Claude Haiku 4.5, Sonnet 5 and Opus 5."
+        },
+        {
+          "t": "p",
+          "x": "On the six product searches, the three models' most-picked product matched in none. Each model was consistent with itself: Sonnet's most-picked product took 94% of its picks on average, Opus's 89%, and Haiku's 67%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-grid-471.png"
+        },
+        {
+          "t": "p",
+          "x": "Haiku and Sonnet picked the product with the most reviews, including a water bottle listed at 5.0 stars from 447,221 reviews, about 68 times the count nobl's product page shows. In 222 of its 300 picks, Opus 5 called its choice \"safe\" or \"safest\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-safe-6.png"
+        },
+        {
+          "t": "p",
+          "x": "Moving the catalog's top product from first to last made the models almost stop picking it on some searches, and in 480 reasons, not one mentioned where a product sat in the list. When the request added \"under $25, for oily skin\", the models picked a sunscreen under $25 in 298 of 300 picks."
+        }
+      ]
+    },
+    "marketing/ppcland-google-ai-query-length": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google's Ads Decoded podcast on October 28 published a 25-minute episode in which Shivani Mohan, Search Vice President of Data Science and User Experience Research at Google, said that query length \"has increased 3x\" and that \"one in every six searches is multimodal.\""
+        },
+        {
+          "t": "p",
+          "x": "Host Ginny Marvin, Google's Ads Product Liaison, said ads in AI Mode and AI Overviews are \"matched to both the query and the content of the AI response,\" and pointed retailers to six optional product data fields, Merchant Center's new conversational attributes."
+        },
+        {
+          "t": "p",
+          "x": "Neither figure came with a market, a time period or a baseline. Google's May 19 report put the average AI Mode query at three times the length of a traditional search query and said more than one in six AI Mode searches in the United States were multimodal. Neither speaker said AI Mode or the United States when giving the numbers."
+        },
+        {
+          "t": "p",
+          "x": "Mohan said queries are \"moving up the funnel,\" and Marvin told advertisers to recalibrate search \"outside of last click action.\" The episode offered no performance data for ads in either AI surface: no click-through rates, no conversion rates and no cost comparison with ads on the standard results page."
+        }
+      ]
+    },
+    "marketing/retaildive-ai-recs-returns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/iKMVyWYQ4z3_JFG5DayuO4DrSYsGLclSkA_ngMWVPfw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ5MzM2NzkyX0RPaHZuY0UuanBn.webp"
+        },
+        {
+          "t": "p",
+          "x": "Nearly a quarter of U.S. consumers have bought a product based on an AI recommendation. Of those, nearly half (46%) have returned an item in the past year, according to a Blue Yonder survey. The most common reasons were that it was different than described (36%) or an incorrect size or fit (23%)."
+        },
+        {
+          "t": "p",
+          "x": "While incorrect size or fit is the most common factor leading to U.S. returns in general (42%), the most frequently cited problem with AI-recommended products is that the item doesn't live up to its description."
+        },
+        {
+          "t": "p",
+          "x": "\"That's not really an AI problem. It's a data problem,\" Blue Yonder CEO Duncan Angove said. \"An AI assistant is only as good as the product information it can find, and most product data was written for a search bar, not for a machine suggesting products for someone.\""
+        },
+        {
+          "t": "p",
+          "x": "Of the 2,000 U.S. shoppers surveyed, 43% of Gen Z bought a product based on an AI recommendation, compared to 36% of millennials, 19% of Gen X and 9% of baby boomers. Over half (51%) said they have chosen one retailer over another purely because of a better returns policy."
+        }
+      ]
+    },
+    "marketing/sej-chatgpt-ad-revenue-per-visit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In U.S. traffic, a visit from a ChatGPT ad brought in $0.89 in revenue, against $2.45 for a visit from a paid Google search ad, according to a working paper by Maximilian Kaiser and Christian Schulze. Its paid-ad figures come from 102 advertiser sites with full sales tracking."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT ad visits converted at 0.37 percent versus 1.17 percent with paid search. Among the 87 advertisers who purchased both, 84 had lower earnings per ChatGPT ad visit; 73 had zero sales from their ChatGPT ads, while the remaining 14 generated all 570 ChatGPT ad purchases."
+        },
+        {
+          "t": "p",
+          "x": "At paid search's rate of return, the authors value a ChatGPT ad click at about $0.26 (a resampled range of $0.05 to $0.57). The largest publicly known account paid $1.72 per click, more than six times the parity price."
+        },
+        {
+          "t": "p",
+          "x": "Organic ChatGPT referrals fell an estimated 6%–8% after ads arrived. The paper's data ends Aug. 22; OpenAI has since expanded ChatGPT Ads to 89 countries and says more than 100,000 advertisers have run campaigns."
+        }
+      ]
     }
   }
 }

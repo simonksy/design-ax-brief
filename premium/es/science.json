@@ -9678,6 +9678,143 @@
           "x": "Entre los posibles usos figuran enzimas activas en frío para el procesamiento de alimentos, detergentes que funcionan en agua fría y una fabricación farmacéutica más eficiente. \"No estamos usando la AI para hacer las cosas de forma más eficiente sin personas\", dijo Yang. El estudio se publica en Nature Computational Science."
         }
       ]
+    },
+    "science/westlake-pinal-protein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+          "cap": "Pinal traduce diversas instrucciones funcionales en proteínas candidatas de alta calidad. Credit: Nature (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Científicos dirigidos por un equipo de la Westlake University, en China, desarrollaron un modelo de AI a gran escala llamado Pinal que genera proteínas candidatas solo a partir de instrucciones en lenguaje natural, según un artículo publicado en Nature. Un usuario podría escribir algo como “diseña una proteína fluorescente que emita luz verde bajo iluminación”."
+        },
+        {
+          "t": "p",
+          "x": "El primer módulo de Pinal, T2struct, construye un plano estructural 1D a partir de la descripción; un segundo módulo, SaProt-T, lee ese plano y la instrucción original para generar una secuencia de aminoácidos acorde. Crea varios planos, diseña la mejor secuencia para cada uno y puntúa cada par para elegir el diseño final."
+        },
+        {
+          "t": "p",
+          "x": "El equipo partió de 135 millones de secuencias de proteínas y construyó una biblioteca de 1.7 mil millones de pares proteína-texto, a la que añadió estructuras 3D predichas de una base de datos de AlphaFold. Se le pidió diseñar una proteína fluorescente, una enzima que degrada plásticos, una alcohol deshidrogenasa y una H-protein metabólica."
+        },
+        {
+          "t": "p",
+          "x": "Para la proteína luminosa, 50,000 secuencias se filtraron hasta 29 para las pruebas, y solo una llegó a emitir fluorescencia. Para la H-protein, cinco de los 20 candidatos funcionaron, y el mejor elevó el rendimiento de un proceso clave de captura de carbono a 1.7 veces el obtenido con la proteína natural de E. coli. Hace falta más trabajo antes de que Pinal se convierta en una herramienta habitual de laboratorio."
+        }
+      ]
+    },
+    "science/uw-accent-bias-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+          "cap": "Credit: ShotPot from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo liderado por la UW (UW-led) descubrió que los modelos de AI más avanzados presentaban sesgos contra hablantes con ciertos acentos. Gemini 2.5 Pro, Gemini 2.5 Flash, GPT-Audio 1.5 de OpenAI y el modelo de código abierto Qwen 3 Omni calificaron respuestas de entrevistas de trabajo, presentaciones y respuestas de dominio del inglés leídas con acentos estadounidense, británico, chino, indio y nigeriano."
+        },
+        {
+          "t": "p",
+          "x": "En general, los modelos situaron los acentos chino y nigeriano en lo más bajo, el indio en el medio y el estadounidense y el británico en lo más alto. Incluso cuando el contenido era exactamente el mismo y los modelos podían transcribir el habla con precisión, puntuaron más alto tanto la expresión como el contenido de los hablantes estadounidenses y británicos. Voces de AI de ElevenLabs leyeron los guiones, y los resultados se validaron con 52 hablantes humanos."
+        },
+        {
+          "t": "p",
+          "x": "“Aunque afirmaban repetidamente que los hablantes chinos y nigerianos ‘mascullaban’ o eran ‘difíciles de entender’, los modelos en realidad transcribían muy bien el habla con acento”, dijo la coautora principal Orevaoghene Ahia. El trabajo se presentó el 25 de octubre en EMNLP, en Budapest."
+        },
+        {
+          "t": "p",
+          "x": "La autora sénior Yulia Tsvetkov instó a los desarrolladores a publicar evaluaciones desglosadas por subpoblaciones y dialectos, no solo el rendimiento promedio."
+        }
+      ]
+    },
+    "science/ai2-statebench-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 presenta StateBench, un benchmark de seguimiento de estado en contexto largo: mide qué tan bien los modelos de lenguaje siguen la información sobre entidades en documentos largos a medida que cambia. Tiene cuatro niveles de dificultad: r-trivial (asignación inmutable), aperiodic (reasignación por valor), soluble (actualizaciones autorreferenciales) y general finite (asignación por referencia)."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos abiertos preentrenados, entre ellos Olmo 3 y Olmo Hybrid, rindieron bien en los problemas r-trivial, perdieron precisión en los aperiodic a medida que crecían las entradas y se quedaron en el nivel del azar en los problemas general finite."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos frontier Gemini 3.8 Flash, Claude Opus 5.5 y GPT-6 Sol y Luna rindieron bien en los niveles más fáciles, pero su precisión cayó con fuerza a medida que crecían las entradas, hasta el 13% o menos en los problemas general finite más largos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de 275-million-parameter (parámetros) entrenados directamente con StateBench mostraron otro panorama: Gated DeltaNet y los modelos híbridos generalizaron casi a la perfección en los problemas r-trivial, aperiodic y soluble hasta decenas de miles de asignaciones. Los Transformers se degradaron en secuencias más largas y nunca aprendieron los problemas general finite."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+        }
+      ]
+    },
+    "science/chalmers-defect-temperature-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+          "cap": "Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los cálculos estándar de defectos en materiales suelen basarse en cero Kelvin, menos 273 grados Celsius. Investigadores de la Chalmers University of Technology han demostrado ahora un marco mucho más eficaz para calcular las propiedades de los defectos teniendo en cuenta los efectos de la temperatura, publicado en npj Computational Materials."
+        },
+        {
+          "t": "p",
+          "x": "“Modelamos los defectos de los materiales estudiando un átomo ausente en la estructura cristalina y observando cómo la temperatura afecta al comportamiento de este defecto puntual”, explica el doctorando Tobias Hainer. Los defectos pueden introducir niveles de energía dentro de la banda prohibida de un semiconductor, y su posición determina si son perjudiciales o útiles."
+        },
+        {
+          "t": "p",
+          "x": "“Encontramos cambios bastante significativos en varios materiales, tanto cuantitativos como cualitativos. Estos cambios pasarían inadvertidos en un modelo basado en cero Kelvin”, afirma la profesora Julia Wiktor. Los resultados coinciden con las observaciones experimentales."
+        },
+        {
+          "t": "p",
+          "x": "“Hace diez años, probablemente no habríamos podido hacer esto a tal escala”, dice Wiktor, que atribuye a los avances del aprendizaje automático que estos cálculos extensos sean viables."
+        }
+      ]
+    },
+    "science/osaka-perovskite-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+          "cap": "Esquema de un sistema automatizado de fabricación de películas. Crédito: Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Osaka construyeron una plataforma automatizada que combina un robot, imagen óptica, sensores ambientales y aprendizaje automático para fabricar películas de celdas solares de perovskita."
+        },
+        {
+          "t": "p",
+          "x": "El sistema sigue cómo el recubrimiento líquido cambia de color y cristaliza en una película sólida: capta los cambios de color en una fracción de segundo y el movimiento de las gotas de antisolvente en milisegundos. El aprendizaje automático usó estas mediciones para identificar las condiciones de procesamiento que importan."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+          "cap": "Esquema de la solución a la formación de películas multigrano. Crédito: Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "Con estos hallazgos para afinar el recubrimiento, el equipo produjo una celda solar de perovskita a base de plomo con una eficiencia de conversión de energía del 24.4%. El estudio, dirigido por Ryosuke Kado y Akinori Saeki, se publicó en ACS Nano (DOI: 10.1021/acsnano.6c11386)."
+        }
+      ]
     }
   }
 }

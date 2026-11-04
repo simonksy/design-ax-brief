@@ -1,363 +1,273 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "medicine",
   "cards": [
     {
-      "id": "athenahealth-claude-records",
+      "id": "medicine-vscan-air-lung-as",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "athenahealth,\n환자 기록을 Claude에",
-      "body": "athenahealth가 환자 건강 기록을 Claude에 연결해 묻게 했다.",
-      "mini_headline": "Claude 속 athenahealth 기록",
+      "headline": "GE HealthCare\nVscan Air에 AI",
+      "body": "FDA-cleared Lung Guidance로 비전문가 성공률이 95.2%였다.",
+      "mini_headline": "Vscan Air, 폐·대동맥 AI 탑재",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-            "cap": "AI 통합 요소와 의료 아이콘이 표시된 헬스케어 기술 인터페이스"
+            "t": "p",
+            "x": "GE HealthCare(GEHC)가 휴대용 초음파 시스템 Vscan Air에 AI-based 기능 두 가지를 넣는다. 임상의가 폐 초음파 영상을 얻도록 돕는 Lung Guidance와 중등도~중증 대동맥판 협착증을 평가하는 AutoAS다."
           },
           {
             "t": "p",
-            "x": "전자건강기록 기업 athenahealth가 Anthropic의 Claude를 시작으로 외부 AI 어시스턴트에 환자 건강 기록을 연다. 새 연결 방식은 환자의 임상 데이터를 근거로 맞춤형 답변을 내도록 설계됐다."
+            "x": "업체 설명으로는 Lung Guidance가 표준 여덟 구역 폐 프로토콜 전반에서 해부학적 기준점을 실시간으로 바로잡아 주고 영상 품질이 기준에 맞으면 클립을 자동 캡처하며 B-line 검출과 점수 산정도 돕는다. GEHC에 따르면 검증 시험에서 진단 품질의 검사를 얻은 확률은 비전문가 사용자가 95.2%, 전문가 사용자가 96.8%였다."
           },
           {
             "t": "p",
-            "x": "새 서버 솔루션 athenaPatient MCP는 Model Context Protocol로 Claude를 athenaOne 플랫폼에 직접 잇는다. 환자는 athenahealth 환자 포털 계정 정보로 인증하고, Claude가 볼 수 있는 정보를 스스로 정한다. 계정 정보는 Claude와 공유되지 않고, 환자는 언제든 접근 권한을 거둘 수 있다."
+            "x": "AutoAS는 Vscan Air SL로 얻은 표준 2D 심초음파 영상을 최소 두 개 분석해 중등도~중증 대동맥판 협착증이 의심되는지 신뢰도 점수와 함께 알려준다."
           },
           {
             "t": "p",
-            "x": "미국(U.S.)의 Claude Pro·Max 사용자는 Claude 설정에서 athenaPatient MCP 커넥터를 추가하면 된다. 환자가 허락하면 Claude는 검사 결과, 복용 약물, 활력징후, 건강 상태, 진단 보고서, 예방접종, 진료 이력, 알레르기, 시술, 치료 계획을 참고한다."
-          },
-          {
-            "t": "p",
-            "x": "athenahealth의 최고제품운영책임자 Paul Brient는 환자 정보를 모델 학습에 쓰지 않는 AI 어시스턴트에만 athenaPatient MCP 접근을 열어 줄 방침이다. 그는 “Claude는 우리가 athenaPatient MCP에서 처음 활성화한 연결이지만, 유일한 연결로 둘 생각은 없다”고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Pew Research Center의 팔월 조사에서는 미국(U.S.) 성인 셋 중 한 명 이상(34%)이 건강 문제로 AI 어시스턴트를 써 본 적이 있었다. Brient는 임상의에게 일을 더 얹으려는 게 아니라며 “환자가 어떤 AI 어시스턴트를 쓸지 정하는 것은 우리의 일이 아니다”라고 말했다."
+            "x": "두 도구 모두 U.S. 식품의약국(FDA)의 510(k) 허가와 CE Mark를 받았다. GEHC는 유효한 Innovation Package 구독이나 라이선스가 있는 기존 Vscan Air 고객이 11월 말까지 업데이트를 받을 것으로 내다봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "athenahealth opens patient\nrecords to Claude",
-          "body": "athenahealth is letting patients bring their own health records into Claude to ask questions about them.",
-          "mini_headline": "athenahealth records in Claude",
+          "headline": "GE HealthCare adds lung and\naortic stenosis AI to Vscan Air",
+          "body": "Vscan Air's FDA-cleared Lung Guidance let non-experts capture diagnostic-quality lung exams 95.2% of the time.",
+          "mini_headline": "Vscan Air gains lung, aortic AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "healthcare technology interface with AI integration and medical icons"
+                "t": "p",
+                "x": "GE HealthCare (GEHC) is introducing two AI-based capabilities for its Vscan Air handheld ultrasound system: Lung Guidance, which helps clinicians acquire lung ultrasound images, and AutoAS, which assesses for moderate-to-severe aortic stenosis."
               },
               {
                 "t": "p",
-                "x": "Electronic health record company athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new connection designed to give patients personalized answers based on their clinical data."
+                "x": "Lung Guidance provides real-time guidance to correct anatomical landmarks across the standard eight-zone lung protocol, automatically captures clips when image-quality criteria are met, and supports B-line detection and scoring, according to the vendor. In validation testing, nonexpert users acquired diagnostic-quality exams 95.2% of the time, compared with 96.8% for expert users, GEHC said."
               },
               {
                 "t": "p",
-                "x": "The new server solution, athenaPatient MCP, uses the Model Context Protocol to connect Claude directly with the athenaOne platform. Patients authenticate using their athenahealth patient portal credentials and decide what information Claude can access. Credentials are not shared with Claude, and patients can revoke access at any time."
+                "x": "AutoAS analyzes at least two standard 2D echocardiographic views acquired with Vscan Air SL and indicates whether findings suggest moderate-to-severe aortic stenosis, along with a confidence score."
               },
               {
                 "t": "p",
-                "x": "Claude Pro and Max users in the U.S. can add the athenaPatient MCP connector within their Claude settings. With a patient’s permission, Claude can reference lab results, medications, vitals, health conditions, diagnostic reports, immunizations, visit history, allergies, procedures and care plans."
-              },
-              {
-                "t": "p",
-                "x": "The company will limit athenaPatient MCP access to AI assistants that do not use patient information to train their models, said Paul Brient, athenahealth's chief product and operations officer. \"Claude is the first connection we’ve enabled for athenaPatient MCP, but it's not intended to be the only one,\" he said."
-              },
-              {
-                "t": "p",
-                "x": "More than a third of U.S. adults (34%) have used AI assistants for health-related purposes, according to an August Pew Research Center survey. Brient said the goal was not to create additional work for clinicians: \"It's not our job to decide which AI assistant patients should use.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "athenahealth,\n환자 기록을 Claude에",
-          "body": "athenahealth가 환자 건강 기록을 Claude에 연결해 묻게 했다.",
-          "mini_headline": "Claude 속 athenahealth 기록",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "AI 통합 요소와 의료 아이콘이 표시된 헬스케어 기술 인터페이스"
-              },
-              {
-                "t": "p",
-                "x": "전자건강기록 기업 athenahealth가 Anthropic의 Claude를 시작으로 외부 AI 어시스턴트에 환자 건강 기록을 연다. 새 연결 방식은 환자의 임상 데이터를 근거로 맞춤형 답변을 내도록 설계됐다."
-              },
-              {
-                "t": "p",
-                "x": "새 서버 솔루션 athenaPatient MCP는 Model Context Protocol로 Claude를 athenaOne 플랫폼에 직접 잇는다. 환자는 athenahealth 환자 포털 계정 정보로 인증하고, Claude가 볼 수 있는 정보를 스스로 정한다. 계정 정보는 Claude와 공유되지 않고, 환자는 언제든 접근 권한을 거둘 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "미국(U.S.)의 Claude Pro·Max 사용자는 Claude 설정에서 athenaPatient MCP 커넥터를 추가하면 된다. 환자가 허락하면 Claude는 검사 결과, 복용 약물, 활력징후, 건강 상태, 진단 보고서, 예방접종, 진료 이력, 알레르기, 시술, 치료 계획을 참고한다."
-              },
-              {
-                "t": "p",
-                "x": "athenahealth의 최고제품운영책임자 Paul Brient는 환자 정보를 모델 학습에 쓰지 않는 AI 어시스턴트에만 athenaPatient MCP 접근을 열어 줄 방침이다. 그는 “Claude는 우리가 athenaPatient MCP에서 처음 활성화한 연결이지만, 유일한 연결로 둘 생각은 없다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Pew Research Center의 팔월 조사에서는 미국(U.S.) 성인 셋 중 한 명 이상(34%)이 건강 문제로 AI 어시스턴트를 써 본 적이 있었다. Brient는 임상의에게 일을 더 얹으려는 게 아니라며 “환자가 어떤 AI 어시스턴트를 쓸지 정하는 것은 우리의 일이 아니다”라고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "athenahealth、\n患者記録をClaudeに開放",
-          "body": "athenahealthは患者が健康記録をClaudeに持ち込み質問できるようにした。",
-          "mini_headline": "athenahealthの記録をClaudeで",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "AI統合と医療アイコンを備えたヘルスケア技術のインターフェース"
-              },
-              {
-                "t": "p",
-                "x": "電子カルテ企業のathenahealthは、患者の臨床データに基づく個別の回答を提供するよう設計した新たな接続を通じ、AnthropicのClaudeを皮切りに、外部のAIアシスタントへ患者の健康記録を開放する。"
-              },
-              {
-                "t": "p",
-                "x": "新たなサーバーソリューション「athenaPatient MCP」は、Model Context Protocolを使ってClaudeをathenaOneプラットフォームに直接接続する。患者はathenahealthの患者ポータルの認証情報で認証し、Claudeがアクセスできる情報を自ら決める。認証情報はClaudeと共有されず、患者はいつでもアクセスを取り消せる。"
-              },
-              {
-                "t": "p",
-                "x": "米国（U.S.）のClaude ProおよびMaxのユーザーは、Claudeの設定からathenaPatient MCPコネクタを追加できる。患者の許可があれば、Claudeは検査結果、服薬、バイタルサイン、健康状態、診断報告書、予防接種、受診歴、アレルギー、処置、ケアプランを参照できる。"
-              },
-              {
-                "t": "p",
-                "x": "athenahealthの最高製品・業務責任者であるPaul Brient氏によると、同社はathenaPatient MCPへのアクセスを、患者情報をモデルの学習に使わないAIアシスタントに限る。「ClaudeはathenaPatient MCPで最初に有効にした接続だが、唯一のものにするつもりはない」と同氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Pew Research Centerの八月の調査によると、米国（U.S.）の成人の三分の一超（34%）が健康関連の目的でAIアシスタントを利用したことがある。Brient氏は臨床医の仕事を増やすことが目的ではないとし、「患者がどのAIアシスタントを使うべきかを決めるのは我々の仕事ではない」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "athenahealth向\nClaude开放患者病历",
-          "body": "athenahealth让患者把自己的健康记录带入Claude并就此提问。",
-          "mini_headline": "athenahealth病历接入Claude",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "融合AI与医疗图标的医疗科技界面"
-              },
-              {
-                "t": "p",
-                "x": "电子健康记录公司athenahealth正通过一项新连接，向外部AI助手开放患者健康记录，首先从Anthropic的Claude开始；这项连接旨在根据患者的临床数据为其提供个性化解答。"
-              },
-              {
-                "t": "p",
-                "x": "这一新的服务器解决方案名为athenaPatient MCP，利用Model Context Protocol将Claude与athenaOne平台直接相连。患者使用athenahealth患者门户的登录凭证进行身份验证，并自行决定Claude可以访问哪些信息。凭证不会与Claude共享，患者可随时撤销访问权限。"
-              },
-              {
-                "t": "p",
-                "x": "美国（U.S.）的Claude Pro和Max用户可在Claude设置中添加athenaPatient MCP连接器。经患者许可，Claude可参考化验结果、用药、生命体征、健康状况、诊断报告、免疫接种、就诊记录、过敏、手术操作及护理计划。"
-              },
-              {
-                "t": "p",
-                "x": "athenahealth首席产品与运营官Paul Brient表示，公司只会向不使用患者信息训练模型的AI助手开放athenaPatient MCP访问。他说：“Claude是我们为athenaPatient MCP启用的第一个连接，但并不打算让它成为唯一的连接。”"
-              },
-              {
-                "t": "p",
-                "x": "根据Pew Research Center八月的一项调查，超过三分之一（34%）的美国（U.S.）成年人曾将AI助手用于健康相关用途。Brient表示，目标并非给临床医生增加额外工作：“决定患者应该使用哪款AI助手，不是我们的职责。”"
+                "x": "Both tools have received U.S. Food and Drug Administration (FDA) 510(k) clearance and carry the CE Mark. Existing Vscan Air customers with a valid Innovation Package subscription or license are expected to receive the updates by the end of November, GEHC said."
               }
             ]
           }
         },
         "es": {
-          "headline": "athenahealth abre historiales\nde pacientes a Claude",
-          "body": "athenahealth permite a los pacientes llevar sus historiales de salud a Claude para hacerle preguntas sobre ellos.",
-          "mini_headline": "Los historiales de athenahealth en Claude",
+          "headline": "GE HealthCare suma AI pulmonar\ny aórtica a Vscan Air",
+          "body": "Con Lung Guidance (FDA-cleared), no expertos lograron exámenes pulmonares de calidad diagnóstica el 95.2% de las veces.",
+          "mini_headline": "Vscan Air suma AI pulmonar y aórtica",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "interfaz de tecnología sanitaria con integración de AI e iconos médicos"
+                "t": "p",
+                "x": "GE HealthCare (GEHC) incorpora dos funciones AI-based a su sistema de ecografía portátil Vscan Air: Lung Guidance, que ayuda a los clínicos a obtener imágenes de ecografía pulmonar, y AutoAS, que evalúa la estenosis aórtica de moderada a grave."
               },
               {
                 "t": "p",
-                "x": "La empresa de historias clínicas electrónicas athenahealth abre los historiales de salud de los pacientes a asistentes de AI externos, empezando por Claude de Anthropic, mediante una nueva conexión diseñada para ofrecer a los pacientes respuestas personalizadas basadas en sus datos clínicos."
+                "x": "Según el fabricante, Lung Guidance ofrece orientación en tiempo real para corregir los puntos de referencia anatómicos en el protocolo pulmonar estándar de ocho zonas, captura clips automáticamente cuando se cumplen los criterios de calidad de imagen y permite la detección y puntuación de B-line. En las pruebas de validación, los usuarios no expertos obtuvieron exámenes de calidad diagnóstica el 95.2% de las veces, frente al 96.8% de los usuarios expertos, según GEHC."
               },
               {
                 "t": "p",
-                "x": "La nueva solución de servidor, athenaPatient MCP, utiliza el Model Context Protocol para conectar Claude directamente con la plataforma athenaOne. Los pacientes se autentican con sus credenciales del portal del paciente de athenahealth y deciden a qué información puede acceder Claude. Las credenciales no se comparten con Claude y los pacientes pueden revocar el acceso en cualquier momento."
+                "x": "AutoAS analiza al menos dos vistas ecocardiográficas 2D estándar adquiridas con Vscan Air SL e indica si los hallazgos sugieren una estenosis aórtica de moderada a grave, junto con una puntuación de confianza."
               },
               {
                 "t": "p",
-                "x": "Los usuarios de Claude Pro y Max en Estados Unidos (U.S.) pueden añadir el conector athenaPatient MCP en la configuración de Claude. Con el permiso del paciente, Claude puede consultar resultados de laboratorio, medicamentos, constantes vitales, afecciones de salud, informes diagnósticos, vacunas, historial de visitas, alergias, procedimientos y planes de atención."
+                "x": "Ambas herramientas han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) y llevan el CE Mark. Según GEHC, los clientes actuales de Vscan Air con una suscripción o licencia vigente de Innovation Package recibirán previsiblemente las actualizaciones antes de finales de noviembre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "GE HealthCare\nVscan Air에 AI",
+          "body": "FDA-cleared Lung Guidance로 비전문가 성공률이 95.2%였다.",
+          "mini_headline": "Vscan Air, 폐·대동맥 AI 탑재",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "GE HealthCare(GEHC)가 휴대용 초음파 시스템 Vscan Air에 AI-based 기능 두 가지를 넣는다. 임상의가 폐 초음파 영상을 얻도록 돕는 Lung Guidance와 중등도~중증 대동맥판 협착증을 평가하는 AutoAS다."
               },
               {
                 "t": "p",
-                "x": "La empresa limitará el acceso a athenaPatient MCP a los asistentes de AI que no utilicen la información de los pacientes para entrenar sus modelos, dijo Paul Brient, director de producto y operaciones de athenahealth. «Claude es la primera conexión que hemos habilitado para athenaPatient MCP, pero no pretende ser la única», afirmó."
+                "x": "업체 설명으로는 Lung Guidance가 표준 여덟 구역 폐 프로토콜 전반에서 해부학적 기준점을 실시간으로 바로잡아 주고 영상 품질이 기준에 맞으면 클립을 자동 캡처하며 B-line 검출과 점수 산정도 돕는다. GEHC에 따르면 검증 시험에서 진단 품질의 검사를 얻은 확률은 비전문가 사용자가 95.2%, 전문가 사용자가 96.8%였다."
               },
               {
                 "t": "p",
-                "x": "Más de un tercio (34%) de los adultos de Estados Unidos (U.S.) ha usado asistentes de AI con fines relacionados con la salud, según una encuesta de agosto del Pew Research Center. Brient dijo que el objetivo no era crear trabajo adicional para los clínicos: «No nos corresponde decidir qué asistente de AI deben usar los pacientes»."
+                "x": "AutoAS는 Vscan Air SL로 얻은 표준 2D 심초음파 영상을 최소 두 개 분석해 중등도~중증 대동맥판 협착증이 의심되는지 신뢰도 점수와 함께 알려준다."
+              },
+              {
+                "t": "p",
+                "x": "두 도구 모두 U.S. 식품의약국(FDA)의 510(k) 허가와 CE Mark를 받았다. GEHC는 유효한 Innovation Package 구독이나 라이선스가 있는 기존 Vscan Air 고객이 11월 말까지 업데이트를 받을 것으로 내다봤다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "GE HealthCare\nVscan Airに肺AI",
+          "body": "FDA-clearedのLung Guidanceで非専門家の成功率は95.2%だ。",
+          "mini_headline": "Vscan Airに肺・大動脈AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "GE HealthCare(GEHC)は、携帯型超音波システムVscan AirにAI-basedの機能を二つ導入する。臨床医による肺超音波画像の取得を支援するLung Guidanceと、中等度から重度の大動脈弁狭窄症を評価するAutoASである。"
+              },
+              {
+                "t": "p",
+                "x": "同社によると、Lung Guidanceは標準的な八ゾーンの肺プロトコル全体で解剖学的ランドマークを正すようリアルタイムで誘導し、画質基準を満たすと自動でクリップを取り込み、B-lineの検出とスコアリングにも対応する。GEHCによれば、検証試験で非専門家ユーザーが診断品質の検査を取得できた割合は95.2%で、専門家ユーザーは96.8%だった。"
+              },
+              {
+                "t": "p",
+                "x": "AutoASは、Vscan Air SLで取得した標準的な2D心エコー断面を少なくとも二つ解析し、所見が中等度から重度の大動脈弁狭窄症を示唆するかどうかを信頼度スコアとともに示す。"
+              },
+              {
+                "t": "p",
+                "x": "両ツールともU.S.食品医薬品局(FDA)の510(k)クリアランスを取得し、CE Markも備える。GEHCによると、有効なInnovation Packageのサブスクリプションまたはライセンスを持つ既存のVscan Air顧客は、11月末までにアップデートを受け取る見込みだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "GE HealthCare\nVscan Air新增AI",
+          "body": "FDA-cleared的Lung Guidance让非专业人员成功率达95.2%。",
+          "mini_headline": "Vscan Air新增肺部与主动脉AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "GE HealthCare(GEHC)正为其Vscan Air手持超声系统引入两项AI-based功能：帮助临床医生采集肺部超声图像的Lung Guidance，以及评估中重度主动脉瓣狭窄的AutoAS。"
+              },
+              {
+                "t": "p",
+                "x": "据该厂商介绍，Lung Guidance可在标准八区肺部检查方案中实时引导校正解剖标志，在满足图像质量标准时自动采集片段，并支持B-line检测与评分。GEHC表示，在验证测试中，非专业用户获得诊断质量检查的比例为95.2%，专业用户为96.8%。"
+              },
+              {
+                "t": "p",
+                "x": "AutoAS会分析使用Vscan Air SL采集的至少两个标准2D超声心动图切面，并提示检查结果是否提示中重度主动脉瓣狭窄，同时给出置信度评分。"
+              },
+              {
+                "t": "p",
+                "x": "两款工具均已获得U.S.食品药品监督管理局(FDA)的510(k)许可，并带有CE Mark。GEHC表示，持有有效Innovation Package订阅或许可的现有Vscan Air客户预计将在11月底前收到更新。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "athenahealth,\n환자 기록을 Claude에",
-          "body": "athenahealth가 환자 건강 기록을 Claude로 가져와 묻게 했다.",
-          "mini_headline": "Claude 속 athenahealth 기록",
+        "es": {
+          "headline": "GE HealthCare suma AI pulmonar\ny aórtica a Vscan Air",
+          "body": "Con Lung Guidance (FDA-cleared), no expertos lograron exámenes pulmonares de calidad diagnóstica el 95.2% de las veces.",
+          "mini_headline": "Vscan Air suma AI pulmonar y aórtica",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "AI 통합 요소와 의료 아이콘이 표시된 헬스케어 기술 인터페이스"
+                "t": "p",
+                "x": "GE HealthCare (GEHC) incorpora dos funciones AI-based a su sistema de ecografía portátil Vscan Air: Lung Guidance, que ayuda a los clínicos a obtener imágenes de ecografía pulmonar, y AutoAS, que evalúa la estenosis aórtica de moderada a grave."
               },
               {
                 "t": "p",
-                "x": "전자건강기록 기업 athenahealth가 환자의 임상 데이터에 기반한 맞춤형 답변을 제공하도록 설계한 새 연결 방식을 통해, Anthropic의 Claude를 시작으로 외부 AI 어시스턴트에 환자 건강 기록을 개방한다."
+                "x": "Según el fabricante, Lung Guidance ofrece orientación en tiempo real para corregir los puntos de referencia anatómicos en el protocolo pulmonar estándar de ocho zonas, captura clips automáticamente cuando se cumplen los criterios de calidad de imagen y permite la detección y puntuación de B-line. En las pruebas de validación, los usuarios no expertos obtuvieron exámenes de calidad diagnóstica el 95.2% de las veces, frente al 96.8% de los usuarios expertos, según GEHC."
               },
               {
                 "t": "p",
-                "x": "새 서버 솔루션 athenaPatient MCP는 Model Context Protocol을 이용해 Claude를 athenaOne 플랫폼에 직접 연결한다. 환자는 athenahealth 환자 포털 계정 정보로 인증하고, Claude가 접근할 수 있는 정보를 스스로 정한다. 계정 정보는 Claude와 공유되지 않으며, 환자는 언제든 접근 권한을 철회할 수 있다."
+                "x": "AutoAS analiza al menos dos vistas ecocardiográficas 2D estándar adquiridas con Vscan Air SL e indica si los hallazgos sugieren una estenosis aórtica de moderada a grave, junto con una puntuación de confianza."
               },
               {
                 "t": "p",
-                "x": "미국(U.S.)의 Claude Pro·Max 사용자는 Claude 설정에서 athenaPatient MCP 커넥터를 추가할 수 있다. 환자가 허락하면 Claude는 검사 결과, 복용 약물, 활력징후, 건강 상태, 진단 보고서, 예방접종, 진료 이력, 알레르기, 시술, 치료 계획을 참고할 수 있다."
+                "x": "Ambas herramientas han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) y llevan el CE Mark. Según GEHC, los clientes actuales de Vscan Air con una suscripción o licencia vigente de Innovation Package recibirán previsiblemente las actualizaciones antes de finales de noviembre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "GE HealthCare\nVscan Air에 AI",
+          "body": "FDA-cleared Lung Guidance로 비전문가도 95.2% 성공했다.",
+          "mini_headline": "Vscan Air, 폐·대동맥 AI 탑재",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "GE HealthCare(GEHC)가 휴대용 초음파 시스템 Vscan Air에 AI-based 기능 두 가지를 도입한다. 임상의의 폐 초음파 영상 획득을 돕는 Lung Guidance와 중등도~중증 대동맥판 협착증을 평가하는 AutoAS다."
               },
               {
                 "t": "p",
-                "x": "athenahealth의 최고제품운영책임자 Paul Brient는 환자 정보를 모델 학습에 쓰지 않는 AI 어시스턴트에만 athenaPatient MCP 접근을 허용할 방침이라고 밝혔다. 그는 “Claude는 우리가 athenaPatient MCP에서 처음 활성화한 연결이지만, 유일한 연결로 둘 생각은 없다”고 말했다."
+                "x": "업체에 따르면 Lung Guidance는 표준 여덟 구역 폐 프로토콜 전반에서 해부학적 기준점을 바로잡도록 실시간으로 안내하고, 영상 품질 기준을 충족하면 클립을 자동으로 캡처하며, B-line 검출과 점수 산정을 지원한다. GEHC는 검증 시험에서 비전문가 사용자가 95.2%의 확률로 진단 품질의 검사를 얻었고, 전문가 사용자는 96.8%였다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Pew Research Center의 팔월 조사에 따르면 미국(U.S.) 성인 셋 중 한 명 이상(34%)이 건강 관련 목적으로 AI 어시스턴트를 써 본 적이 있다. Brient는 임상의에게 일을 더 얹으려는 것이 목표가 아니라며 “환자가 어떤 AI 어시스턴트를 쓸지 정하는 것은 우리의 일이 아니다”라고 말했다."
+                "x": "AutoAS는 Vscan Air SL로 획득한 표준 2D 심초음파 영상을 최소 두 개 분석해, 소견이 중등도~중증 대동맥판 협착증을 시사하는지를 신뢰도 점수와 함께 알려준다."
+              },
+              {
+                "t": "p",
+                "x": "두 도구 모두 U.S. 식품의약국(FDA)의 510(k) 허가를 받았고 CE Mark도 획득했다. GEHC는 유효한 Innovation Package 구독 또는 라이선스를 보유한 기존 Vscan Air 고객이 11월 말까지 업데이트를 받을 것으로 예상된다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "athenahealth、\n患者記録をClaudeに開放",
-          "body": "athenahealthは患者が健康記録をClaudeに持ち込み質問できるようにした。",
-          "mini_headline": "athenahealthの記録をClaudeで",
+          "headline": "GE HealthCare\nVscan Airに肺AI",
+          "body": "FDA-clearedのLung Guidanceで非専門家の成功率は95.2%だ。",
+          "mini_headline": "Vscan Airに肺・大動脈AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "AI統合と医療アイコンを備えたヘルスケア技術のインターフェース"
+                "t": "p",
+                "x": "GE HealthCare(GEHC)は、携帯型超音波システムVscan AirにAI-basedの機能を二つ導入する。臨床医による肺超音波画像の取得を支援するLung Guidanceと、中等度から重度の大動脈弁狭窄症を評価するAutoASである。"
               },
               {
                 "t": "p",
-                "x": "電子カルテ企業のathenahealthは、患者の臨床データに基づく個別の回答を提供するよう設計した新たな接続を通じ、AnthropicのClaudeを皮切りに、外部のAIアシスタントへ患者の健康記録を開放する。"
+                "x": "同社によると、Lung Guidanceは標準的な八ゾーンの肺プロトコル全体で解剖学的ランドマークを正すようリアルタイムで誘導し、画質基準を満たすと自動でクリップを取り込み、B-lineの検出とスコアリングにも対応する。GEHCによれば、検証試験で非専門家ユーザーが診断品質の検査を取得できた割合は95.2%で、専門家ユーザーは96.8%だった。"
               },
               {
                 "t": "p",
-                "x": "新たなサーバーソリューション「athenaPatient MCP」は、Model Context Protocolを使ってClaudeをathenaOneプラットフォームに直接接続する。患者はathenahealthの患者ポータルの認証情報で認証し、Claudeがアクセスできる情報を自ら決める。認証情報はClaudeと共有されず、患者はいつでもアクセスを取り消せる。"
+                "x": "AutoASは、Vscan Air SLで取得した標準的な2D心エコー断面を少なくとも二つ解析し、所見が中等度から重度の大動脈弁狭窄症を示唆するかどうかを信頼度スコアとともに示す。"
               },
               {
                 "t": "p",
-                "x": "米国（U.S.）のClaude ProおよびMaxのユーザーは、Claudeの設定からathenaPatient MCPコネクタを追加できる。患者の許可があれば、Claudeは検査結果、服薬、バイタルサイン、健康状態、診断報告書、予防接種、受診歴、アレルギー、処置、ケアプランを参照できる。"
-              },
-              {
-                "t": "p",
-                "x": "athenahealthの最高製品・業務責任者であるPaul Brient氏によると、同社はathenaPatient MCPへのアクセスを、患者情報をモデルの学習に使わないAIアシスタントに限る。「ClaudeはathenaPatient MCPで最初に有効にした接続だが、唯一のものにするつもりはない」と同氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Pew Research Centerの八月の調査によると、米国（U.S.）の成人の三分の一超（34%）が健康関連の目的でAIアシスタントを利用したことがある。Brient氏は臨床医の仕事を増やすことが目的ではないとし、「患者がどのAIアシスタントを使うべきかを決めるのは我々の仕事ではない」と語った。"
+                "x": "両ツールともU.S.食品医薬品局(FDA)の510(k)クリアランスを取得し、CE Markも備える。GEHCによると、有効なInnovation Packageのサブスクリプションまたはライセンスを持つ既存のVscan Air顧客は、11月末までにアップデートを受け取る見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "athenahealth向\nClaude开放患者病历",
-          "body": "athenahealth让患者把自己的健康记录带入Claude并就此提问。",
-          "mini_headline": "athenahealth病历接入Claude",
+          "headline": "GE HealthCare\nVscan Air新增AI",
+          "body": "FDA-cleared的Lung Guidance让非专业人员成功率达95.2%。",
+          "mini_headline": "Vscan Air新增肺部与主动脉AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "融合AI与医疗图标的医疗科技界面"
+                "t": "p",
+                "x": "GE HealthCare(GEHC)正为其Vscan Air手持超声系统引入两项AI-based功能：帮助临床医生采集肺部超声图像的Lung Guidance，以及评估中重度主动脉瓣狭窄的AutoAS。"
               },
               {
                 "t": "p",
-                "x": "电子健康记录公司athenahealth正通过一项新连接，向外部AI助手开放患者健康记录，首先从Anthropic的Claude开始；这项连接旨在根据患者的临床数据为其提供个性化解答。"
+                "x": "据该厂商介绍，Lung Guidance可在标准八区肺部检查方案中实时引导校正解剖标志，在满足图像质量标准时自动采集片段，并支持B-line检测与评分。GEHC表示，在验证测试中，非专业用户获得诊断质量检查的比例为95.2%，专业用户为96.8%。"
               },
               {
                 "t": "p",
-                "x": "这一新的服务器解决方案名为athenaPatient MCP，利用Model Context Protocol将Claude与athenaOne平台直接相连。患者使用athenahealth患者门户的登录凭证进行身份验证，并自行决定Claude可以访问哪些信息。凭证不会与Claude共享，患者可随时撤销访问权限。"
+                "x": "AutoAS会分析使用Vscan Air SL采集的至少两个标准2D超声心动图切面，并提示检查结果是否提示中重度主动脉瓣狭窄，同时给出置信度评分。"
               },
               {
                 "t": "p",
-                "x": "美国（U.S.）的Claude Pro和Max用户可在Claude设置中添加athenaPatient MCP连接器。经患者许可，Claude可参考化验结果、用药、生命体征、健康状况、诊断报告、免疫接种、就诊记录、过敏、手术操作及护理计划。"
-              },
-              {
-                "t": "p",
-                "x": "athenahealth首席产品与运营官Paul Brient表示，公司只会向不使用患者信息训练模型的AI助手开放athenaPatient MCP访问。他说：“Claude是我们为athenaPatient MCP启用的第一个连接，但并不打算让它成为唯一的连接。”"
-              },
-              {
-                "t": "p",
-                "x": "根据Pew Research Center八月的一项调查，超过三分之一（34%）的美国（U.S.）成年人曾将AI助手用于健康相关用途。Brient表示，目标并非给临床医生增加额外工作：“决定患者应该使用哪款AI助手，不是我们的职责。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "athenahealth abre historiales\nde pacientes a Claude",
-          "body": "athenahealth permite a los pacientes llevar sus historiales de salud a Claude para hacerle preguntas sobre ellos.",
-          "mini_headline": "Los historiales de athenahealth en Claude",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "interfaz de tecnología sanitaria con integración de AI e iconos médicos"
-              },
-              {
-                "t": "p",
-                "x": "La empresa de historias clínicas electrónicas athenahealth abre los historiales de salud de los pacientes a asistentes de AI externos, empezando por Claude de Anthropic, mediante una nueva conexión diseñada para ofrecer a los pacientes respuestas personalizadas basadas en sus datos clínicos."
-              },
-              {
-                "t": "p",
-                "x": "La nueva solución de servidor, athenaPatient MCP, utiliza el Model Context Protocol para conectar Claude directamente con la plataforma athenaOne. Los pacientes se autentican con sus credenciales del portal del paciente de athenahealth y deciden a qué información puede acceder Claude. Las credenciales no se comparten con Claude y los pacientes pueden revocar el acceso en cualquier momento."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios de Claude Pro y Max en Estados Unidos (U.S.) pueden añadir el conector athenaPatient MCP en la configuración de Claude. Con el permiso del paciente, Claude puede consultar resultados de laboratorio, medicamentos, constantes vitales, afecciones de salud, informes diagnósticos, vacunas, historial de visitas, alergias, procedimientos y planes de atención."
-              },
-              {
-                "t": "p",
-                "x": "La empresa limitará el acceso a athenaPatient MCP a los asistentes de AI que no utilicen la información de los pacientes para entrenar sus modelos, dijo Paul Brient, director de producto y operaciones de athenahealth. «Claude es la primera conexión que hemos habilitado para athenaPatient MCP, pero no pretende ser la única», afirmó."
-              },
-              {
-                "t": "p",
-                "x": "Más de un tercio (34%) de los adultos de Estados Unidos (U.S.) ha usado asistentes de AI con fines relacionados con la salud, según una encuesta de agosto del Pew Research Center. Brient dijo que el objetivo no era crear trabajo adicional para los clínicos: «No nos corresponde decidir qué asistente de AI deben usar los pacientes»."
+                "x": "两款工具均已获得U.S.食品药品监督管理局(FDA)的510(k)许可，并带有CE Mark。GEHC表示，持有有效Innovation Package订阅或许可的现有Vscan Air客户预计将在11月底前收到更新。"
               }
             ]
           }
@@ -365,15 +275,15 @@
       }
     },
     {
-      "id": "aha-wearable-bp-crisis",
+      "id": "medicine-hti5-ai-oversight",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "웨어러블·AI로\nBP 위기 3일 전 감지",
-      "body": "AHA 초록에 따르면 AI가 혈압계·트래커로 혈압 위기를 최대 사흘 전 내다본다.",
-      "mini_headline": "AI로 BP 위기 예견",
+      "headline": "HHS 규칙, AI 검증\n의료기관 몫으로",
+      "body": "HTI-5가 AI 투명성 규정을 없애자 변호사는 계약에 검증·편향 시험을 권한다.",
+      "mini_headline": "HTI-5, AI 검증을 병원 몫으로",
       "tool": "Medicine",
-      "source": "American Heart Association Newsroom",
-      "url": "https://newsroom.heart.org/news/wearable-devices-+-ai-analysis-may-predict-high-blood-pressure-crisis-up-to-3-days-early",
+      "source": "MedCity News",
+      "url": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -381,179 +291,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-            "cap": "웨어러블 기기 - 진행 상황 확인"
+            "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+            "cap": "사진: 일러스트, Getty Images"
           },
           {
             "t": "p",
-            "x": "휴대용 커프형 혈압계와 손목에 차는 피트니스 트래커의 패턴을 AI로 분석하면 2기 고혈압 성인이 고혈압 위기(급성 표적 장기 손상을 동반한 >180/120 mm Hg)에 빠질 위험이 커지는 시점을 최대 사흘 앞서 짚어 내는 데 도움이 될 수 있다. American Heart Association(미국심장협회) Scientific Sessions 2026에서 발표될 예비 연구 결과다."
+            "x": "HHS가 AI 투명성 규정 일부를 포함해 보건 IT 인증 요건 여러 개를 되돌린다. ONC의 HTI-5 최종 규칙은 현행 인증 기준 60개 가운데 14개를 삭제하고 일곱 개를 추가로 고친다. 변경 대부분은 December 28, 2026에 발효되며 ONC는 규제 비용이 $1.5 billion 이상 줄 것으로 본다."
           },
           {
             "t": "p",
-            "x": "참가자는 파키스탄 신드주(Sindh, Pakistan)의 한 병원을 찾은 40~85세 성인 4,190명으로, 2025년 일월부터 2026년 일월까지 추적 관찰했다. 12개월 동안 참가자 312명이 고혈압 위기를 418회 겪었다. 양성 경보를 받은 참가자 중 약 32%가 위기를 겪었고, 경보를 받지 않은 참가자는 97.4%가 위기 없이 지냈다."
+            "x": "개발사가 근거 기반·예측형 의사결정 지원 중재에서 AI 추천의 출처를 밝히도록 한 요건과 중재 위험 관리 요건이 이 규칙으로 사라진다."
           },
           {
             "t": "p",
-            "x": "수면 중 혈압이 떨어지지 않으면 곧 위기가 닥칠 오즈가 다섯 배 가까이 높았다. 기상 후 35 mm Hg 넘게 오를 때는 네 배 가까이였다. 의사가 경보를 받고 24시간 안에 약물을 조정하자 위기는 약 61%, 응급실 방문은 약 45% 줄었다."
+            "x": "“인증이 더 이상 예측 도구의 사용 목적, 학습 데이터, 성능, 한계에 관한 정보 접근을 보장하지 않는다”고 변호사 Mel Soliz는 말했다. 그는 의료 리더들에게 연방 인증에 기대지 말고 공개·검증·편향 시험 요건을 AI 조달 계약에 직접 넣으라고 권한다."
           },
           {
             "t": "p",
-            "x": "주저자 Waleed Razzaq Chaudhry, M.D.는 “고혈압 위기 위험이 커진 것을 발생 며칠 전에 알아챌 수 있다면 더 일찍 치료할 기회가 생긴다”고 말했다. 이 초록은 동료 심사를 거치지 않았고, 결과도 아직 예비 단계다."
+            "x": "민감한 건강 정보 보호에 쓰이는 보안 태그의 자발적 인증 기준도 함께 없어진다. Soliz는 의료 제공자에게 가장 실망스러운 변화 가운데 하나로 이를 꼽았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Wearables plus AI may flag\nBP crises 3 days early",
-          "body": "An AHA abstract says AI reading cuff and fitness-tracker data may predict hypertensive crisis up to three days ahead.",
-          "mini_headline": "AI may foresee BP crises",
+          "headline": "HHS rule shifts AI tool vetting\nonto health systems",
+          "body": "HTI-5 drops AI transparency rules, so an attorney urges hospitals to put validation and bias testing in contracts.",
+          "mini_headline": "HTI-5 moves AI vetting to hospitals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "Wearable device - checking progress"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "Photo: illustration, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Using AI to analyze patterns from a portable cuff-based blood pressure monitor and a wrist-worn fitness tracker may help identify when adults with stage 2 high blood pressure are at increased risk of a hypertensive crisis (>180/120 mm Hg with acute end-organ damage) up to three days before it occurs, according to preliminary research to be presented at the American Heart Association’s Scientific Sessions 2026."
+                "x": "HHS is rolling back several health IT certification requirements, including certain AI transparency regulations. The HTI-5 final rule from ONC removes 14 of the 60 certification criteria in effect and revises seven more; most changes take effect on December 28, 2026, and ONC expects more than $1.5 billion in regulatory cost savings."
               },
               {
                 "t": "p",
-                "x": "The study included 4,190 adults ages 40 to 85 at one hospital in Sindh, Pakistan, followed from January 2025 to January 2026. Over the 12 months, 312 participants experienced 418 hypertensive crises. Among participants with a positive alert, about 32% experienced a crisis, while 97.4% of those without an alert remained crisis-free."
+                "x": "The rule removes requirements for developers to provide source attributions for AI recommendations in evidence-based and predictive decision support interventions, along with intervention risk management requirements."
               },
               {
                 "t": "p",
-                "x": "Blood pressure that did not decrease during sleep meant nearly five times the odds of an upcoming crisis; a rise of more than 35 mm Hg after waking meant nearly four times the odds. When physicians received an alert and adjusted medications within 24 hours, crises were about 61% lower and emergency department visits about 45% lower."
+                "x": "“Certification no longer guarantees access to information about a predictive tool’s intended use, training data, performance, or limitations,” said attorney Mel Soliz. She recommends that health leaders build their own disclosure, validation, and bias-testing requirements into AI procurement contracts rather than relying on federal certification."
               },
               {
                 "t": "p",
-                "x": "“If we are able to recognize an increased risk of a hypertensive crisis days before it occurs, we have an opportunity to provide earlier care,” said lead author Waleed Razzaq Chaudhry, M.D. The abstract is not peer-reviewed and findings are preliminary."
+                "x": "The rule also eliminates the voluntary certification criteria for security tags used to shield sensitive health information, which Soliz calls one of the most disappointing changes for providers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "웨어러블·AI로\nBP 위기 3일 전 감지",
-          "body": "AHA 초록에 따르면 AI가 혈압계·트래커로 혈압 위기를 최대 사흘 전 내다본다.",
-          "mini_headline": "AI로 BP 위기 예견",
+          "headline": "HHS 규칙, AI 검증\n의료기관 몫으로",
+          "body": "HTI-5가 AI 투명성 규정을 없애자 변호사는 계약에 검증·편향 시험을 권한다.",
+          "mini_headline": "HTI-5, AI 검증을 병원 몫으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "웨어러블 기기 - 진행 상황 확인"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "사진: 일러스트, Getty Images"
               },
               {
                 "t": "p",
-                "x": "휴대용 커프형 혈압계와 손목에 차는 피트니스 트래커의 패턴을 AI로 분석하면 2기 고혈압 성인이 고혈압 위기(급성 표적 장기 손상을 동반한 >180/120 mm Hg)에 빠질 위험이 커지는 시점을 최대 사흘 앞서 짚어 내는 데 도움이 될 수 있다. American Heart Association(미국심장협회) Scientific Sessions 2026에서 발표될 예비 연구 결과다."
+                "x": "HHS가 AI 투명성 규정 일부를 포함해 보건 IT 인증 요건 여러 개를 되돌린다. ONC의 HTI-5 최종 규칙은 현행 인증 기준 60개 가운데 14개를 삭제하고 일곱 개를 추가로 고친다. 변경 대부분은 December 28, 2026에 발효되며 ONC는 규제 비용이 $1.5 billion 이상 줄 것으로 본다."
               },
               {
                 "t": "p",
-                "x": "참가자는 파키스탄 신드주(Sindh, Pakistan)의 한 병원을 찾은 40~85세 성인 4,190명으로, 2025년 일월부터 2026년 일월까지 추적 관찰했다. 12개월 동안 참가자 312명이 고혈압 위기를 418회 겪었다. 양성 경보를 받은 참가자 중 약 32%가 위기를 겪었고, 경보를 받지 않은 참가자는 97.4%가 위기 없이 지냈다."
+                "x": "개발사가 근거 기반·예측형 의사결정 지원 중재에서 AI 추천의 출처를 밝히도록 한 요건과 중재 위험 관리 요건이 이 규칙으로 사라진다."
               },
               {
                 "t": "p",
-                "x": "수면 중 혈압이 떨어지지 않으면 곧 위기가 닥칠 오즈가 다섯 배 가까이 높았다. 기상 후 35 mm Hg 넘게 오를 때는 네 배 가까이였다. 의사가 경보를 받고 24시간 안에 약물을 조정하자 위기는 약 61%, 응급실 방문은 약 45% 줄었다."
+                "x": "“인증이 더 이상 예측 도구의 사용 목적, 학습 데이터, 성능, 한계에 관한 정보 접근을 보장하지 않는다”고 변호사 Mel Soliz는 말했다. 그는 의료 리더들에게 연방 인증에 기대지 말고 공개·검증·편향 시험 요건을 AI 조달 계약에 직접 넣으라고 권한다."
               },
               {
                 "t": "p",
-                "x": "주저자 Waleed Razzaq Chaudhry, M.D.는 “고혈압 위기 위험이 커진 것을 발생 며칠 전에 알아챌 수 있다면 더 일찍 치료할 기회가 생긴다”고 말했다. 이 초록은 동료 심사를 거치지 않았고, 결과도 아직 예비 단계다."
+                "x": "민감한 건강 정보 보호에 쓰이는 보안 태그의 자발적 인증 기준도 함께 없어진다. Soliz는 의료 제공자에게 가장 실망스러운 변화 가운데 하나로 이를 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェアラブルとAIで\nBP危機を3日前に察知",
-          "body": "AHA抄録は、AIが血圧計と活動量計のデータから高血圧危機を最大三日前に予測しうるとした。",
-          "mini_headline": "AIがBP危機を予見か",
+          "headline": "HHS新規則、AI審査を\n医療機関に移す",
+          "body": "HTI-5でAI透明性規則が消え、弁護士は契約に検証とバイアス試験を入れるよう促す。",
+          "mini_headline": "HTI-5でAI審査は病院の役割に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "ウェアラブルデバイス - 進捗の確認"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "写真：イラスト、Getty Images"
               },
               {
                 "t": "p",
-                "x": "携帯型のカフ式血圧計と手首に装着するフィットネストラッカーから得たパターンをAIで解析すれば、ステージ2の高血圧の成人が高血圧クリーゼ（急性の標的臓器障害を伴う>180/120 mm Hg）を起こすリスクが高まる時期を、発生の最大三日前に特定できる可能性がある。American Heart Association（米国心臓協会）のScientific Sessions 2026で発表予定の予備的研究が示した。"
+                "x": "HHSは、一部のAI透明性規制を含む複数のヘルスIT認証要件を撤回しつつある。ONCのHTI-5最終規則は、現行の認証基準60項目のうち14項目を削除し、さらに七項目を改定する。変更の大半はDecember 28, 2026に施行され、ONCは$1.5 billion 超の規制コスト削減を見込む。"
               },
               {
                 "t": "p",
-                "x": "研究はパキスタン・シンド州（Sindh, Pakistan）のある病院で40～85歳の成人4,190人を対象に、2025年一月から2026年一月まで追跡した。12カ月の間に参加者312人が計418回の高血圧クリーゼを経験した。陽性アラートを受けた参加者の約32%がクリーゼを起こした一方、アラートのなかった参加者の97.4%はクリーゼを起こさなかった。"
+                "x": "同規則は、エビデンスに基づく意思決定支援介入と予測的意思決定支援介入において、開発者にAI推奨の出典表示を求める要件と、介入のリスク管理要件を削除する。"
               },
               {
                 "t": "p",
-                "x": "睡眠中に血圧が下がらない場合、クリーゼが迫るオッズは五倍近くに、起床後に35 mm Hgを超えて上昇した場合は四倍近くになった。医師がアラートを受けて24時間以内に投薬を調整すると、クリーゼは約61%、救急外来受診は約45%減少した。"
+                "x": "「認証はもはや、予測ツールの想定用途、学習データ、性能、限界に関する情報へのアクセスを保証しない」と弁護士のMel Soliz氏は述べた。同氏は、医療リーダーが連邦認証に頼るのではなく、開示、検証、バイアス試験の要件を自らAI調達契約に盛り込むよう勧めている。"
               },
               {
                 "t": "p",
-                "x": "「高血圧クリーゼのリスク上昇を発生の数日前に把握できれば、より早い段階でケアを提供する機会が生まれる」と筆頭著者のWaleed Razzaq Chaudhry, M.D.は述べた。この抄録は査読を経ておらず、結果は予備的なものだ。"
+                "x": "同規則はまた、機微な健康情報を保護するためのセキュリティタグに関する任意の認証基準も廃止する。Soliz氏はこれを、医療提供者にとって最も残念な変更の一つと呼ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "可穿戴设备加AI\n或提前3天预警BP危象",
-          "body": "AHA一项摘要称，AI分析袖带血压计与健身追踪器数据，可提前最多三天预测高血压危象。",
-          "mini_headline": "AI或可预见BP危象",
+          "headline": "HHS新规把AI工具审查\n转给医疗系统",
+          "body": "HTI-5取消AI透明度规定，律师建议医院把验证和偏倚测试写进合同。",
+          "mini_headline": "HTI-5把AI审查交给医院",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "可穿戴设备 - 查看进展"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "图片：插图，Getty Images"
               },
               {
                 "t": "p",
-                "x": "根据将在American Heart Association（美国心脏协会）Scientific Sessions 2026上公布的初步研究，利用AI分析便携式袖带血压计和腕戴式健身追踪器的数据模式，或可在高血压危象（>180/120 mm Hg并伴急性靶器官损害）发生前最多三天，识别出2期高血压成年人风险升高的时段。"
+                "x": "HHS正在撤销多项健康IT认证要求，其中包括部分AI透明度规定。ONC发布的HTI-5最终规则删除了现行60项认证标准中的14项，并另修订七项；大部分变更将于December 28, 2026生效，ONC预计可节省超过$1.5 billion 的监管成本。"
               },
               {
                 "t": "p",
-                "x": "该研究纳入巴基斯坦信德省（Sindh, Pakistan）一家医院的4,190名40至85岁成年人，随访时间为2025年一月至2026年一月。12个月间，312名参与者共发生418次高血压危象。收到阳性警报的参与者中约32%发生危象，而未收到警报者中有97.4%未发生危象。"
+                "x": "该规则取消了开发者在循证与预测性决策支持干预中为AI建议提供来源说明的要求，以及干预风险管理要求。"
               },
               {
                 "t": "p",
-                "x": "睡眠期间血压未下降者，即将发生危象的几率接近五倍；醒后血压升高超过35 mm Hg者，几率接近四倍。医生收到警报并在24小时内调整用药后，危象减少约61%，急诊就诊减少约45%。"
+                "x": "“认证不再保证能够获取预测工具的预期用途、训练数据、性能或局限性等信息，”律师Mel Soliz表示。她建议医疗机构领导者不要依赖联邦认证，而应将自己的披露、验证和偏倚测试要求写入AI采购合同。"
               },
               {
                 "t": "p",
-                "x": "第一作者Waleed Razzaq Chaudhry, M.D.表示：“如果我们能在高血压危象发生前几天识别出风险升高，就有机会更早提供治疗。”该摘要未经同行评审，结果为初步结论。"
+                "x": "该规则还取消了用于保护敏感健康信息的安全标签的自愿认证标准，Soliz称这是对医疗服务提供者而言最令人失望的变化之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wearables y AI podrían prever\ncrisis de BP 3 días antes",
-          "body": "Un resumen de la AHA dice que una AI con datos de wearables podría prever crisis hipertensivas hasta tres días antes.",
-          "mini_headline": "La AI podría prever crisis de BP",
+          "headline": "HHS traslada la revisión de AI\na los sistemas de salud",
+          "body": "HTI-5 elimina reglas de transparencia de AI y una abogada pide fijar en contratos validación y pruebas de sesgo.",
+          "mini_headline": "HTI-5 traslada la revisión de AI a los hospitales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "Dispositivo wearable - comprobación del progreso"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "Foto: ilustración, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Usar AI para analizar patrones de un monitor portátil de presión arterial con brazalete y de una pulsera de actividad podría ayudar a identificar cuándo los adultos con hipertensión en estadio 2 tienen mayor riesgo de sufrir una crisis hipertensiva (>180/120 mm Hg con daño agudo de órganos diana) hasta tres días antes de que ocurra, según una investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
+                "x": "HHS está revirtiendo varios requisitos de certificación de IT sanitaria, entre ellos ciertas normas de transparencia de AI. La norma final HTI-5 de la ONC elimina 14 de los 60 criterios de certificación vigentes y revisa otros siete; la mayoría de los cambios entra en vigor el 28 de diciembre de 2026, y la ONC prevé un ahorro en costos regulatorios superior a $1.5 mil millones."
               },
               {
                 "t": "p",
-                "x": "El estudio incluyó a 4,190 adultos de 40 a 85 años de un hospital de Sindh, Pakistán, seguidos de enero de 2025 a enero de 2026. En los 12 meses, 312 participantes sufrieron 418 crisis hipertensivas. Entre los participantes con una alerta positiva, alrededor del 32% sufrió una crisis, mientras que el 97.4% de quienes no recibieron alerta no tuvo ninguna."
+                "x": "La norma suprime la obligación de que los desarrolladores indiquen las fuentes de las recomendaciones de AI en las intervenciones de apoyo a la decisión basadas en evidencia y predictivas, junto con los requisitos de gestión de riesgos de dichas intervenciones."
               },
               {
                 "t": "p",
-                "x": "Una presión arterial que no bajaba durante el sueño suponía casi cinco veces más probabilidades de una crisis inminente; un aumento de más de 35 mm Hg al despertar, casi cuatro veces. Cuando los médicos recibieron una alerta y ajustaron la medicación en 24 horas, las crisis fueron alrededor de un 61% menores y las visitas a urgencias, alrededor de un 45% menores."
+                "x": "“La certificación ya no garantiza el acceso a información sobre el uso previsto, los datos de entrenamiento, el rendimiento o las limitaciones de una herramienta predictiva”, afirmó la abogada Mel Soliz. Recomienda que los líderes sanitarios incorporen sus propios requisitos de divulgación, validación y pruebas de sesgo en los contratos de compra de AI, en lugar de depender de la certificación federal."
               },
               {
                 "t": "p",
-                "x": "«Si logramos reconocer un mayor riesgo de crisis hipertensiva días antes de que ocurra, tenemos la oportunidad de ofrecer una atención más temprana», dijo el autor principal, Waleed Razzaq Chaudhry, M.D. El resumen no ha sido revisado por pares y los resultados son preliminares."
+                "x": "La norma también elimina los criterios de certificación voluntaria para las etiquetas de seguridad que protegen la información sanitaria sensible, algo que Soliz considera uno de los cambios más decepcionantes para los proveedores."
               }
             ]
           }
@@ -561,125 +471,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "웨어러블·AI로\nBP 위기 3일 전 감지",
-          "body": "AHA 초록은 AI가 혈압계·트래커로 혈압 위기를 최대 사흘 전 예측한다고 했다.",
-          "mini_headline": "AI로 BP 위기 예견",
+          "headline": "HHS 규칙, AI 검증\n의료기관 몫으로",
+          "body": "HTI-5가 AI 투명성 규정을 없애, 변호사는 계약에 검증·편향 시험을 권한다.",
+          "mini_headline": "HTI-5, AI 검증을 병원 몫으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "웨어러블 기기 - 진행 상황 확인"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "사진: 일러스트, Getty Images"
               },
               {
                 "t": "p",
-                "x": "휴대용 커프형 혈압계와 손목에 차는 피트니스 트래커의 패턴을 AI로 분석하면, 2기 고혈압 성인이 고혈압 위기(급성 표적 장기 손상을 동반한 >180/120 mm Hg)에 처할 위험이 커지는 시점을 발생 최대 사흘 전에 파악하는 데 도움이 될 수 있다. American Heart Association(미국심장협회) Scientific Sessions 2026에서 발표될 예비 연구 결과다."
+                "x": "HHS가 일부 AI 투명성 규정을 포함한 여러 보건 IT 인증 요건을 되돌리고 있다. ONC의 HTI-5 최종 규칙은 현행 인증 기준 60개 중 14개를 삭제하고 일곱 개를 추가로 개정한다. 대부분의 변경은 December 28, 2026에 발효되며, ONC는 $1.5 billion 이상의 규제 비용 절감을 기대한다."
               },
               {
                 "t": "p",
-                "x": "연구에는 파키스탄 신드주(Sindh, Pakistan)의 한 병원에서 40~85세 성인 4,190명이 참여했고, 2025년 일월부터 2026년 일월까지 추적 관찰했다. 12개월 동안 참가자 312명이 고혈압 위기를 418회 겪었다. 양성 경보를 받은 참가자 중 약 32%가 위기를 겪었고, 경보를 받지 않은 참가자의 97.4%는 위기 없이 지냈다."
+                "x": "이 규칙은 근거 기반·예측형 의사결정 지원 중재에서 개발사가 AI 추천의 출처를 밝히도록 한 요건과, 중재 위험 관리 요건을 없앤다."
               },
               {
                 "t": "p",
-                "x": "수면 중 혈압이 떨어지지 않으면 곧 위기가 닥칠 오즈가 다섯 배 가까이 높았고, 기상 후 35 mm Hg 넘게 오르면 네 배 가까이 높았다. 의사가 경보를 받고 24시간 안에 약물을 조정하자 위기는 약 61%, 응급실 방문은 약 45% 줄었다."
+                "x": "“인증이 더 이상 예측 도구의 사용 목적, 학습 데이터, 성능, 한계에 관한 정보 접근을 보장하지 않는다”고 변호사 Mel Soliz는 말했다. 그는 의료 리더들이 연방 인증에 기대기보다 공개, 검증, 편향 시험 요건을 AI 조달 계약에 직접 담으라고 권한다."
               },
               {
                 "t": "p",
-                "x": "주저자 Waleed Razzaq Chaudhry, M.D.는 “고혈압 위기 위험이 커진 것을 발생 며칠 전에 알아챌 수 있다면 더 일찍 치료할 기회가 생긴다”고 말했다. 이 초록은 동료 심사를 거치지 않았으며 결과는 예비적이다."
+                "x": "이 규칙은 민감한 건강 정보를 보호하는 데 쓰이는 보안 태그의 자발적 인증 기준도 없앤다. Soliz는 이를 의료 제공자에게 가장 실망스러운 변화 중 하나로 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェアラブルとAIで\nBP危機を3日前に察知",
-          "body": "AHA抄録は、AIが血圧計と活動量計のデータから高血圧危機を最大三日前に予測しうるとした。",
-          "mini_headline": "AIがBP危機を予見か",
+          "headline": "HHS新規則、AI審査を\n医療機関に移す",
+          "body": "HTI-5でAI透明性規則が消え、弁護士は契約に検証とバイアス試験を入れるよう促す。",
+          "mini_headline": "HTI-5でAI審査は病院の役割に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "ウェアラブルデバイス - 進捗の確認"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "写真：イラスト、Getty Images"
               },
               {
                 "t": "p",
-                "x": "携帯型のカフ式血圧計と手首に装着するフィットネストラッカーから得たパターンをAIで解析すれば、ステージ2の高血圧の成人が高血圧クリーゼ（急性の標的臓器障害を伴う>180/120 mm Hg）を起こすリスクが高まる時期を、発生の最大三日前に特定できる可能性がある。American Heart Association（米国心臓協会）のScientific Sessions 2026で発表予定の予備的研究が示した。"
+                "x": "HHSは、一部のAI透明性規制を含む複数のヘルスIT認証要件を撤回しつつある。ONCのHTI-5最終規則は、現行の認証基準60項目のうち14項目を削除し、さらに七項目を改定する。変更の大半はDecember 28, 2026に施行され、ONCは$1.5 billion 超の規制コスト削減を見込む。"
               },
               {
                 "t": "p",
-                "x": "研究はパキスタン・シンド州（Sindh, Pakistan）のある病院で40～85歳の成人4,190人を対象に、2025年一月から2026年一月まで追跡した。12カ月の間に参加者312人が計418回の高血圧クリーゼを経験した。陽性アラートを受けた参加者の約32%がクリーゼを起こした一方、アラートのなかった参加者の97.4%はクリーゼを起こさなかった。"
+                "x": "同規則は、エビデンスに基づく意思決定支援介入と予測的意思決定支援介入において、開発者にAI推奨の出典表示を求める要件と、介入のリスク管理要件を削除する。"
               },
               {
                 "t": "p",
-                "x": "睡眠中に血圧が下がらない場合、クリーゼが迫るオッズは五倍近くに、起床後に35 mm Hgを超えて上昇した場合は四倍近くになった。医師がアラートを受けて24時間以内に投薬を調整すると、クリーゼは約61%、救急外来受診は約45%減少した。"
+                "x": "「認証はもはや、予測ツールの想定用途、学習データ、性能、限界に関する情報へのアクセスを保証しない」と弁護士のMel Soliz氏は述べた。同氏は、医療リーダーが連邦認証に頼るのではなく、開示、検証、バイアス試験の要件を自らAI調達契約に盛り込むよう勧めている。"
               },
               {
                 "t": "p",
-                "x": "「高血圧クリーゼのリスク上昇を発生の数日前に把握できれば、より早い段階でケアを提供する機会が生まれる」と筆頭著者のWaleed Razzaq Chaudhry, M.D.は述べた。この抄録は査読を経ておらず、結果は予備的なものだ。"
+                "x": "同規則はまた、機微な健康情報を保護するためのセキュリティタグに関する任意の認証基準も廃止する。Soliz氏はこれを、医療提供者にとって最も残念な変更の一つと呼ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "可穿戴设备加AI\n或提前3天预警BP危象",
-          "body": "AHA一项摘要称，AI分析袖带血压计与健身追踪器数据，可提前最多三天预测高血压危象。",
-          "mini_headline": "AI或可预见BP危象",
+          "headline": "HHS新规把AI工具审查\n转给医疗系统",
+          "body": "HTI-5取消AI透明度规定，律师建议医院把验证和偏倚测试写进合同。",
+          "mini_headline": "HTI-5把AI审查交给医院",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "可穿戴设备 - 查看进展"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "图片：插图，Getty Images"
               },
               {
                 "t": "p",
-                "x": "根据将在American Heart Association（美国心脏协会）Scientific Sessions 2026上公布的初步研究，利用AI分析便携式袖带血压计和腕戴式健身追踪器的数据模式，或可在高血压危象（>180/120 mm Hg并伴急性靶器官损害）发生前最多三天，识别出2期高血压成年人风险升高的时段。"
+                "x": "HHS正在撤销多项健康IT认证要求，其中包括部分AI透明度规定。ONC发布的HTI-5最终规则删除了现行60项认证标准中的14项，并另修订七项；大部分变更将于December 28, 2026生效，ONC预计可节省超过$1.5 billion 的监管成本。"
               },
               {
                 "t": "p",
-                "x": "该研究纳入巴基斯坦信德省（Sindh, Pakistan）一家医院的4,190名40至85岁成年人，随访时间为2025年一月至2026年一月。12个月间，312名参与者共发生418次高血压危象。收到阳性警报的参与者中约32%发生危象，而未收到警报者中有97.4%未发生危象。"
+                "x": "该规则取消了开发者在循证与预测性决策支持干预中为AI建议提供来源说明的要求，以及干预风险管理要求。"
               },
               {
                 "t": "p",
-                "x": "睡眠期间血压未下降者，即将发生危象的几率接近五倍；醒后血压升高超过35 mm Hg者，几率接近四倍。医生收到警报并在24小时内调整用药后，危象减少约61%，急诊就诊减少约45%。"
+                "x": "“认证不再保证能够获取预测工具的预期用途、训练数据、性能或局限性等信息，”律师Mel Soliz表示。她建议医疗机构领导者不要依赖联邦认证，而应将自己的披露、验证和偏倚测试要求写入AI采购合同。"
               },
               {
                 "t": "p",
-                "x": "第一作者Waleed Razzaq Chaudhry, M.D.表示：“如果我们能在高血压危象发生前几天识别出风险升高，就有机会更早提供治疗。”该摘要未经同行评审，结果为初步结论。"
+                "x": "该规则还取消了用于保护敏感健康信息的安全标签的自愿认证标准，Soliz称这是对医疗服务提供者而言最令人失望的变化之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wearables y AI podrían prever\ncrisis de BP 3 días antes",
-          "body": "Un resumen de la AHA dice que una AI con datos de wearables podría prever crisis hipertensivas hasta tres días antes.",
-          "mini_headline": "La AI podría prever crisis de BP",
+          "headline": "HHS traslada la revisión de AI\na los sistemas de salud",
+          "body": "HTI-5 elimina reglas de transparencia de AI y una abogada pide fijar en contratos validación y pruebas de sesgo.",
+          "mini_headline": "HTI-5 traslada la revisión de AI a los hospitales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/67/files/20186/5b55fa372cfac24fd52ea168_Wearable%20device%20-%20checking%20progress/Wearable%20device%20-%20checking%20progress_hero.jpg?v=3bd87ac1-cac2-4c66-95b1-a9bc97b2b2d1",
-                "cap": "Dispositivo wearable - comprobación del progreso"
+                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+                "cap": "Foto: ilustración, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Usar AI para analizar patrones de un monitor portátil de presión arterial con brazalete y de una pulsera de actividad podría ayudar a identificar cuándo los adultos con hipertensión en estadio 2 tienen mayor riesgo de sufrir una crisis hipertensiva (>180/120 mm Hg con daño agudo de órganos diana) hasta tres días antes de que ocurra, según una investigación preliminar que se presentará en las Scientific Sessions 2026 de la American Heart Association."
+                "x": "HHS está revirtiendo varios requisitos de certificación de IT sanitaria, entre ellos ciertas normas de transparencia de AI. La norma final HTI-5 de la ONC elimina 14 de los 60 criterios de certificación vigentes y revisa otros siete; la mayoría de los cambios entra en vigor el 28 de diciembre de 2026, y la ONC prevé un ahorro en costos regulatorios superior a $1.5 mil millones."
               },
               {
                 "t": "p",
-                "x": "El estudio incluyó a 4,190 adultos de 40 a 85 años de un hospital de Sindh, Pakistán, seguidos de enero de 2025 a enero de 2026. En los 12 meses, 312 participantes sufrieron 418 crisis hipertensivas. Entre los participantes con una alerta positiva, alrededor del 32% sufrió una crisis, mientras que el 97.4% de quienes no recibieron alerta no tuvo ninguna."
+                "x": "La norma suprime la obligación de que los desarrolladores indiquen las fuentes de las recomendaciones de AI en las intervenciones de apoyo a la decisión basadas en evidencia y predictivas, junto con los requisitos de gestión de riesgos de dichas intervenciones."
               },
               {
                 "t": "p",
-                "x": "Una presión arterial que no bajaba durante el sueño suponía casi cinco veces más probabilidades de una crisis inminente; un aumento de más de 35 mm Hg al despertar, casi cuatro veces. Cuando los médicos recibieron una alerta y ajustaron la medicación en 24 horas, las crisis fueron alrededor de un 61% menores y las visitas a urgencias, alrededor de un 45% menores."
+                "x": "“La certificación ya no garantiza el acceso a información sobre el uso previsto, los datos de entrenamiento, el rendimiento o las limitaciones de una herramienta predictiva”, afirmó la abogada Mel Soliz. Recomienda que los líderes sanitarios incorporen sus propios requisitos de divulgación, validación y pruebas de sesgo en los contratos de compra de AI, en lugar de depender de la certificación federal."
               },
               {
                 "t": "p",
-                "x": "«Si logramos reconocer un mayor riesgo de crisis hipertensiva días antes de que ocurra, tenemos la oportunidad de ofrecer una atención más temprana», dijo el autor principal, Waleed Razzaq Chaudhry, M.D. El resumen no ha sido revisado por pares y los resultados son preliminares."
+                "x": "La norma también elimina los criterios de certificación voluntaria para las etiquetas de seguridad que protegen la información sanitaria sensible, algo que Soliz considera uno de los cambios más decepcionantes para los proveedores."
               }
             ]
           }
@@ -687,189 +597,165 @@
       }
     },
     {
-      "id": "who-europe-ai-framework",
+      "id": "medicine-epic-inbox-drafts-jama",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "WHO 유럽 53개국,\n보건 AI 로드맵 지지",
-      "body": "WHO 유럽 53개국이 안전하고 공평한 보건 AI 로드맵을 만장일치로 채택했다.",
-      "mini_headline": "WHO 유럽, AI 비전 채택",
+      "headline": "Epic AI 초안에도\n근무 외 메시지 그대로",
+      "body": "Columbia의 AI 초안은 회신을 29.5% 줄였지만 전체로는 8.6% 늘었다.",
+      "mini_headline": "AI 초안, 근무 외 부담은 그대로",
       "tool": "Medicine",
-      "source": "WHO Europe",
-      "url": "https://www.who.int/europe/news/item/29-10-2026-governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care",
+      "source": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41364",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+            "t": "p",
+            "x": "Columbia University Irving Medical Center에서 진행한 이 후향적 코호트 연구는 환자 포털 메시지에 AI-drafted 답장을 만들어 주는 Epic의 In Basket Augmented Response Technology를 들여다봤다. 연구진은 March 1, 2023부터 May 15, 2025까지 임상의 1542명이 환자 272 091명에게 보낸 첫 응답 983 154건을 분석했다. 기관 전체 도입은 December 2024였다."
           },
           {
             "t": "p",
-            "x": "WHO 유럽 지역 53개 회원국이 지역 최초의 “보건 분야 인공지능 행동 로드맵(Roadmap for action on artificial intelligence in health)”을 만장일치로 채택했다. 제76차 WHO 유럽 지역위원회에서 승인된 로드맵은 유럽과 중앙아시아 전역의 보건 시스템에 AI를 들여올 공동 비전을 담았다."
+            "x": "응답 도구 도입은 전체 메시지 회신 시간이 8.6% 느는 것과 연관됐지만, 도구를 쓴 개별 메시지에서는 회신 시간이 29.5% 짧아지는 연관성이 나타났다."
           },
           {
             "t": "p",
-            "x": "WHO/Europe 직무대행(Officer-in-Charge) Dr Corinne Capuano는 “AI는 이미 우리 지역 전반에서 보건의료를 바꾸고 있다… AI가 안전하고 효과적이며 공평하도록 어떻게 보장할 것인가? 사람들의 권리를 어떻게 지키고 신뢰를 얻을 것인가? 어느 나라도 혼자서는 풀 수 없는 과제다”라고 말했다."
+            "x": "도구 사용과 근무 외 메시지 부담의 전반적 감소 사이에는 연관이 없었다. 근무 시간에 들어온 검사 결과 문의는 근무 외 응답이 줄었지만 근무 외 시간에 들어온 메시지는 오히려 근무 외 응답이 늘었다."
           },
           {
             "t": "p",
-            "x": "2026–2033년을 내다보는 로드맵에는 4개 우선 분야가 들어 있다. 거버넌스와 리더십, 윤리·규제·법적 체계, 데이터와 디지털 인프라, 역량 강화·이행 지원·학습이다. 밑바탕은 2025년 발표된 첫 지역 단위 AI 준비도 평가로, 지역 53개 회원국 중 50개국이 응답했다."
-          },
-          {
-            "t": "p",
-            "x": "로드맵은 EU Artificial Intelligence Act, European Health Data Space, General Data Protection Regulation 등과 궤를 같이하고, 이행 가이드도 함께 내놨다. 회원국들은 AI를 다룰 WHO 사무소를 새로 세우는 방안도 지지했다."
+            "x": "저자들은 이 도구가 특정 메시지에 답하는 문턱을 낮출 수는 있어도 부담을 고르게 덜어 주지는 못한다고 결론 내렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "WHO Europe's 53 states back\na roadmap for health AI",
-          "body": "All 53 states of WHO's European Region unanimously adopted a roadmap for safe, equitable AI in health systems.",
-          "mini_headline": "WHO Europe adopts AI vision",
+          "headline": "Epic AI drafts leave clinicians'\nafter-hours inbox unchanged",
+          "body": "At Columbia, AI drafts cut reply time 29.5%, yet overall adoption tracked an 8.6% rise in turnaround time.",
+          "mini_headline": "AI inbox drafts, no after-hours relief",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "This retrospective cohort study examined Epic's In Basket Augmented Response Technology, which generates AI-drafted replies to patient portal messages, at Columbia University Irving Medical Center. It analyzed 983 154 first responses from 1542 clinicians to 272 091 patients between March 1, 2023, and May 15, 2025; enterprise-level deployment came in December 2024."
               },
               {
                 "t": "p",
-                "x": "The 53 Member States of the WHO European Region have unanimously adopted the Region’s first “Roadmap for action on artificial intelligence in health”, approved during the 76th session of the WHO Regional Committee for Europe. It sets out a shared vision for integrating AI into health systems across Europe and Central Asia."
+                "x": "Response tool adoption was associated with an 8.6% increase in overall message turnaround time, while using the tool on a given message was associated with a 29.5% reduction in turnaround time."
               },
               {
                 "t": "p",
-                "x": "Dr Corinne Capuano, Officer-in-Charge for WHO/Europe, said: “AI is already changing health care across our region… How do we ensure AI is safe, effective and equitable? How do we protect people’s rights and earn their trust? These are challenges no country can solve alone.”"
+                "x": "Tool use was not associated with an overall reduction of after-hours messaging burden. It was linked to fewer after-hours responses for test results–related queries received during working hours, but more after-hours responses for messages received after hours."
               },
               {
                 "t": "p",
-                "x": "Covering 2026–2033, the roadmap has 4 priority areas: governance and leadership; ethical, regulatory and legal frameworks; data and digital infrastructure; and capacity-building, implementation support and learning. It drew on responses from 50 of the Region’s 53 Member States to the first region-wide AI readiness assessment, published in 2025."
-              },
-              {
-                "t": "p",
-                "x": "It aligns with the EU Artificial Intelligence Act, the European Health Data Space and the General Data Protection Regulation, among others, and comes with an implementation guide. Member States also supported establishing a new WHO office on AI."
+                "x": "The authors conclude the tool may reduce the barrier to responding to certain messages while not uniformly reducing burden."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WHO 유럽 53개국,\n보건 AI 로드맵 지지",
-          "body": "WHO 유럽 53개국이 안전하고 공평한 보건 AI 로드맵을 만장일치로 채택했다.",
-          "mini_headline": "WHO 유럽, AI 비전 채택",
+          "headline": "Epic AI 초안에도\n근무 외 메시지 그대로",
+          "body": "Columbia의 AI 초안은 회신을 29.5% 줄였지만 전체로는 8.6% 늘었다.",
+          "mini_headline": "AI 초안, 근무 외 부담은 그대로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "Columbia University Irving Medical Center에서 진행한 이 후향적 코호트 연구는 환자 포털 메시지에 AI-drafted 답장을 만들어 주는 Epic의 In Basket Augmented Response Technology를 들여다봤다. 연구진은 March 1, 2023부터 May 15, 2025까지 임상의 1542명이 환자 272 091명에게 보낸 첫 응답 983 154건을 분석했다. 기관 전체 도입은 December 2024였다."
               },
               {
                 "t": "p",
-                "x": "WHO 유럽 지역 53개 회원국이 지역 최초의 “보건 분야 인공지능 행동 로드맵(Roadmap for action on artificial intelligence in health)”을 만장일치로 채택했다. 제76차 WHO 유럽 지역위원회에서 승인된 로드맵은 유럽과 중앙아시아 전역의 보건 시스템에 AI를 들여올 공동 비전을 담았다."
+                "x": "응답 도구 도입은 전체 메시지 회신 시간이 8.6% 느는 것과 연관됐지만, 도구를 쓴 개별 메시지에서는 회신 시간이 29.5% 짧아지는 연관성이 나타났다."
               },
               {
                 "t": "p",
-                "x": "WHO/Europe 직무대행(Officer-in-Charge) Dr Corinne Capuano는 “AI는 이미 우리 지역 전반에서 보건의료를 바꾸고 있다… AI가 안전하고 효과적이며 공평하도록 어떻게 보장할 것인가? 사람들의 권리를 어떻게 지키고 신뢰를 얻을 것인가? 어느 나라도 혼자서는 풀 수 없는 과제다”라고 말했다."
+                "x": "도구 사용과 근무 외 메시지 부담의 전반적 감소 사이에는 연관이 없었다. 근무 시간에 들어온 검사 결과 문의는 근무 외 응답이 줄었지만 근무 외 시간에 들어온 메시지는 오히려 근무 외 응답이 늘었다."
               },
               {
                 "t": "p",
-                "x": "2026–2033년을 내다보는 로드맵에는 4개 우선 분야가 들어 있다. 거버넌스와 리더십, 윤리·규제·법적 체계, 데이터와 디지털 인프라, 역량 강화·이행 지원·학습이다. 밑바탕은 2025년 발표된 첫 지역 단위 AI 준비도 평가로, 지역 53개 회원국 중 50개국이 응답했다."
-              },
-              {
-                "t": "p",
-                "x": "로드맵은 EU Artificial Intelligence Act, European Health Data Space, General Data Protection Regulation 등과 궤를 같이하고, 이행 가이드도 함께 내놨다. 회원국들은 AI를 다룰 WHO 사무소를 새로 세우는 방안도 지지했다."
+                "x": "저자들은 이 도구가 특정 메시지에 답하는 문턱을 낮출 수는 있어도 부담을 고르게 덜어 주지는 못한다고 결론 내렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WHO欧州の53カ国が\n保健AIのロードマップ支持",
-          "body": "WHO欧州地域の53カ国が、安全で公平な保健AIのロードマップを全会一致で採択した。",
-          "mini_headline": "WHO欧州がAIビジョン採択",
+          "headline": "Epic AI下書きでも\n医師の時間外受信箱は不変",
+          "body": "ColumbiaでAI下書きは返信時間を29.5%縮めたが、導入全体では8.6%延びた。",
+          "mini_headline": "AI下書き、時間外の負担は減らず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "この後ろ向きコホート研究は、Columbia University Irving Medical Centerで、患者ポータルのメッセージにAI-draftedの返信を生成するEpicのIn Basket Augmented Response Technologyを調べた。March 1, 2023からMay 15, 2025までに、臨床医1542人が患者272 091人に送った最初の返信983 154件を分析した。組織全体での導入はDecember 2024だった。"
               },
               {
                 "t": "p",
-                "x": "WHO欧州地域の53加盟国は、同地域初となる「保健分野における人工知能に関する行動ロードマップ（Roadmap for action on artificial intelligence in health）」を全会一致で採択した。第76回WHO欧州地域委員会で承認されたもので、欧州と中央アジア全域の保健システムにAIを統合するための共通ビジョンを示す。"
+                "x": "返信ツールの導入はメッセージ全体の返信時間の8.6%増加と関連していた一方、個々のメッセージでのツール使用は返信時間の29.5%短縮と関連していた。"
               },
               {
                 "t": "p",
-                "x": "WHO/Europeの事務局長代行（Officer-in-Charge）、Dr Corinne Capuano氏は「AIはすでに当地域全体で医療を変えつつある……AIの安全性、有効性、公平性をどう確保するか。人々の権利をどう守り、信頼をどう得るか。これらはどの国も単独では解決できない課題だ」と述べた。"
+                "x": "ツールの使用は、時間外メッセージ業務の負担の全体的な減少とは関連しなかった。勤務時間内に届いた検査結果関連の問い合わせでは時間外の返信が減ったが、時間外に届いたメッセージでは時間外の返信が増えた。"
               },
               {
                 "t": "p",
-                "x": "2026–2033年を対象とするロードマップには4つの優先分野がある。ガバナンスとリーダーシップ、倫理・規制・法的枠組み、データとデジタル基盤、そして能力構築・実施支援・学習だ。2025年に公表された初の地域全体のAI準備状況評価に、地域の53加盟国のうち50カ国が寄せた回答を踏まえている。"
-              },
-              {
-                "t": "p",
-                "x": "ロードマップはEU Artificial Intelligence Act、European Health Data Space、General Data Protection Regulationなどと整合し、実施ガイドも付属する。加盟国はAIに関する新たなWHO事務所の設置も支持した。"
+                "x": "著者らは、このツールが特定のメッセージに返信するハードルを下げる可能性はあるものの、負担を一様に減らすわけではないと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WHO欧洲区53个成员国\n支持卫生AI路线图",
-          "body": "WHO欧洲区域全部53个成员国一致通过了在卫生系统中安全、公平使用AI的路线图。",
-          "mini_headline": "WHO欧洲通过AI愿景",
+          "headline": "Epic AI草拟回复\n医生下班后收件箱未变",
+          "body": "在Columbia，AI草稿使回复时间缩短29.5%，但整体采用后周转时间增加8.6%。",
+          "mini_headline": "AI收件箱草稿未减下班后负担",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "这项回顾性队列研究在Columbia University Irving Medical Center考察了Epic的In Basket Augmented Response Technology，该工具可为患者门户消息生成AI-drafted回复。研究分析了March 1, 2023至May 15, 2025期间1542名临床医生对272 091名患者的983 154条首次回复；全机构部署于December 2024完成。"
               },
               {
                 "t": "p",
-                "x": "WHO欧洲区域53个成员国一致通过了该区域首份《卫生领域人工智能行动路线图》（Roadmap for action on artificial intelligence in health）。该路线图在WHO欧洲区域委员会第76届会议期间获批，为在欧洲和中亚各地将AI融入卫生系统提出了共同愿景。"
+                "x": "采用该回复工具与整体消息周转时间增加8.6%相关，而在单条消息上使用该工具则与周转时间缩短29.5%相关。"
               },
               {
                 "t": "p",
-                "x": "WHO/Europe负责人（Officer-in-Charge）Dr Corinne Capuano表示：“AI已经在改变我们整个区域的医疗卫生……我们如何确保AI安全、有效且公平？如何保护人们的权利并赢得他们的信任？这些挑战没有哪个国家能够独自解决。”"
+                "x": "工具使用与下班后消息负担的整体减少无关。对于工作时间内收到的检查结果相关询问，下班后回复有所减少；但对于下班后收到的消息，下班后回复反而增加。"
               },
               {
                 "t": "p",
-                "x": "该路线图覆盖2026–2033年，设有4个优先领域：治理与领导力；伦理、监管和法律框架；数据与数字基础设施；以及能力建设、实施支持与学习。路线图参考了该区域53个成员国中50个对首次全区域AI准备度评估的答复，该评估于2025年发布。"
-              },
-              {
-                "t": "p",
-                "x": "路线图与EU Artificial Intelligence Act、European Health Data Space和General Data Protection Regulation等相衔接，并附有实施指南。成员国还支持设立一个新的WHO AI办公室。"
+                "x": "作者总结称，该工具可能降低回复某些消息的门槛，但并未均衡地减轻负担。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los 53 Estados de WHO Europa\navalan un plan de AI en salud",
-          "body": "Los 53 Estados de la WHO en Europa adoptaron por unanimidad una hoja de ruta para una AI segura y equitativa en salud.",
-          "mini_headline": "WHO Europa adopta una visión de AI",
+          "headline": "Los borradores de Epic AI\nno alivian la bandeja nocturna",
+          "body": "En Columbia, borradores de AI acortaron las respuestas un 29.5%, pero la adopción se asoció a un 8.6% más de demora.",
+          "mini_headline": "Borradores de AI, sin alivio fuera de horario",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "Este estudio de cohorte retrospectivo examinó In Basket Augmented Response Technology de Epic, que genera respuestas AI-drafted a los mensajes del portal del paciente, en Columbia University Irving Medical Center. Analizó 983 154 primeras respuestas de 1542 clínicos a 272 091 pacientes entre el 1 de marzo de 2023 y el 15 de mayo de 2025; el despliegue a escala institucional llegó en diciembre de 2024."
               },
               {
                 "t": "p",
-                "x": "Los 53 Estados Miembros de la Región Europea de la WHO adoptaron por unanimidad la primera «Hoja de ruta para la acción sobre la inteligencia artificial en la salud» (Roadmap for action on artificial intelligence in health) de la Región, aprobada durante la 76.ª sesión del Comité Regional de la WHO para Europa. Establece una visión compartida para integrar la AI en los sistemas de salud de Europa y Asia Central."
+                "x": "La adopción de la herramienta se asoció a un aumento del 8.6% en el tiempo total de respuesta a los mensajes, mientras que usarla en un mensaje concreto se asoció a una reducción del 29.5% en ese tiempo."
               },
               {
                 "t": "p",
-                "x": "Dr Corinne Capuano, responsable en funciones (Officer-in-Charge) de WHO/Europe, afirmó: «La AI ya está cambiando la atención sanitaria en toda nuestra región… ¿Cómo garantizamos que la AI sea segura, eficaz y equitativa? ¿Cómo protegemos los derechos de las personas y nos ganamos su confianza? Son retos que ningún país puede resolver solo»."
+                "x": "El uso de la herramienta no se asoció a una reducción global de la carga de mensajes fuera de horario. Se vinculó con menos respuestas fuera de horario a consultas sobre resultados de pruebas recibidas en horario laboral, pero con más respuestas fuera de horario a mensajes recibidos fuera de horario."
               },
               {
                 "t": "p",
-                "x": "La hoja de ruta, que abarca 2026–2033, tiene 4 áreas prioritarias: gobernanza y liderazgo; marcos éticos, regulatorios y legales; datos e infraestructura digital; y desarrollo de capacidades, apoyo a la implementación y aprendizaje. Se basó en las respuestas de 50 de los 53 Estados Miembros de la Región a la primera evaluación regional de preparación en AI, publicada en 2025."
-              },
-              {
-                "t": "p",
-                "x": "Está alineada, entre otros, con la EU Artificial Intelligence Act, el European Health Data Space y el General Data Protection Regulation, e incluye una guía de implementación. Los Estados Miembros también apoyaron la creación de una nueva oficina de la WHO sobre AI."
+                "x": "Los autores concluyen que la herramienta puede reducir la barrera para responder a ciertos mensajes, aunque no reduce la carga de manera uniforme."
               }
             ]
           }
@@ -877,121 +763,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "WHO 유럽 53개국,\n보건 AI 로드맵 지지",
-          "body": "WHO 유럽 53개국이 안전하고 공평한 보건 AI 로드맵을 만장일치로 채택했다.",
-          "mini_headline": "WHO 유럽, AI 비전 채택",
+          "headline": "Epic AI 초안에도\n근무 외 메시지 그대로",
+          "body": "Columbia의 AI 초안은 회신을 29.5% 줄였지만 전체는 8.6% 늘었다.",
+          "mini_headline": "AI 초안, 근무 외 부담은 그대로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "이 후향적 코호트 연구는 Columbia University Irving Medical Center에서 환자 포털 메시지에 AI-drafted 답장을 생성하는 Epic의 In Basket Augmented Response Technology를 살폈다. 연구진은 March 1, 2023부터 May 15, 2025까지 임상의 1542명이 환자 272 091명에게 보낸 첫 응답 983 154건을 분석했다. 기관 전체 도입은 December 2024에 이뤄졌다."
               },
               {
                 "t": "p",
-                "x": "WHO 유럽 지역 53개 회원국이 지역 최초의 “보건 분야 인공지능 행동 로드맵(Roadmap for action on artificial intelligence in health)”을 만장일치로 채택했다. 로드맵은 제76차 WHO 유럽 지역위원회에서 승인됐으며, 유럽과 중앙아시아 전역의 보건 시스템에 AI를 통합하기 위한 공동 비전을 제시한다."
+                "x": "응답 도구 도입은 전체 메시지 회신 시간 8.6% 증가와 연관됐지만, 개별 메시지에 도구를 쓴 경우는 회신 시간 29.5% 감소와 연관됐다."
               },
               {
                 "t": "p",
-                "x": "WHO/Europe 직무대행(Officer-in-Charge) Dr Corinne Capuano는 “AI는 이미 우리 지역 전반에서 보건의료를 바꾸고 있다… AI가 안전하고 효과적이며 공평하도록 어떻게 보장할 것인가? 사람들의 권리를 어떻게 지키고 신뢰를 얻을 것인가? 어느 나라도 혼자서는 풀 수 없는 과제다”라고 말했다."
+                "x": "도구 사용은 근무 외 메시지 부담의 전반적 감소와 연관되지 않았다. 근무 시간에 받은 검사 결과 관련 문의에서는 근무 외 응답이 줄었지만, 근무 외 시간에 받은 메시지에서는 근무 외 응답이 늘었다."
               },
               {
                 "t": "p",
-                "x": "2026–2033년을 대상으로 하는 로드맵은 4개 우선 분야를 담았다. 거버넌스와 리더십, 윤리·규제·법적 체계, 데이터와 디지털 인프라, 그리고 역량 강화·이행 지원·학습이다. 로드맵은 2025년 발표된 첫 지역 단위 AI 준비도 평가에 지역 53개 회원국 중 50개국이 낸 응답을 토대로 했다."
-              },
-              {
-                "t": "p",
-                "x": "로드맵은 EU Artificial Intelligence Act, European Health Data Space, General Data Protection Regulation 등과 궤를 같이하며 이행 가이드도 함께 제공한다. 회원국들은 AI를 다루는 WHO 사무소를 새로 설립하는 방안도 지지했다."
+                "x": "저자들은 이 도구가 특정 메시지에 답하는 문턱을 낮출 수는 있지만 부담을 고르게 줄이지는 않는다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WHO欧州の53カ国が\n保健AIのロードマップ支持",
-          "body": "WHO欧州地域の53カ国が、安全で公平な保健AIのロードマップを全会一致で採択した。",
-          "mini_headline": "WHO欧州がAIビジョン採択",
+          "headline": "Epic AI下書きでも\n医師の時間外受信箱は不変",
+          "body": "ColumbiaでAI下書きは返信時間を29.5%縮めたが、導入全体では8.6%延びた。",
+          "mini_headline": "AI下書き、時間外の負担は減らず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "この後ろ向きコホート研究は、Columbia University Irving Medical Centerで、患者ポータルのメッセージにAI-draftedの返信を生成するEpicのIn Basket Augmented Response Technologyを調べた。March 1, 2023からMay 15, 2025までに、臨床医1542人が患者272 091人に送った最初の返信983 154件を分析した。組織全体での導入はDecember 2024だった。"
               },
               {
                 "t": "p",
-                "x": "WHO欧州地域の53加盟国は、同地域初となる「保健分野における人工知能に関する行動ロードマップ（Roadmap for action on artificial intelligence in health）」を全会一致で採択した。第76回WHO欧州地域委員会で承認されたもので、欧州と中央アジア全域の保健システムにAIを統合するための共通ビジョンを示す。"
+                "x": "返信ツールの導入はメッセージ全体の返信時間の8.6%増加と関連していた一方、個々のメッセージでのツール使用は返信時間の29.5%短縮と関連していた。"
               },
               {
                 "t": "p",
-                "x": "WHO/Europeの事務局長代行（Officer-in-Charge）、Dr Corinne Capuano氏は「AIはすでに当地域全体で医療を変えつつある……AIの安全性、有効性、公平性をどう確保するか。人々の権利をどう守り、信頼をどう得るか。これらはどの国も単独では解決できない課題だ」と述べた。"
+                "x": "ツールの使用は、時間外メッセージ業務の負担の全体的な減少とは関連しなかった。勤務時間内に届いた検査結果関連の問い合わせでは時間外の返信が減ったが、時間外に届いたメッセージでは時間外の返信が増えた。"
               },
               {
                 "t": "p",
-                "x": "2026–2033年を対象とするロードマップには4つの優先分野がある。ガバナンスとリーダーシップ、倫理・規制・法的枠組み、データとデジタル基盤、そして能力構築・実施支援・学習だ。2025年に公表された初の地域全体のAI準備状況評価に、地域の53加盟国のうち50カ国が寄せた回答を踏まえている。"
-              },
-              {
-                "t": "p",
-                "x": "ロードマップはEU Artificial Intelligence Act、European Health Data Space、General Data Protection Regulationなどと整合し、実施ガイドも付属する。加盟国はAIに関する新たなWHO事務所の設置も支持した。"
+                "x": "著者らは、このツールが特定のメッセージに返信するハードルを下げる可能性はあるものの、負担を一様に減らすわけではないと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WHO欧洲区53个成员国\n支持卫生AI路线图",
-          "body": "WHO欧洲区域全部53个成员国一致通过了在卫生系统中安全、公平使用AI的路线图。",
-          "mini_headline": "WHO欧洲通过AI愿景",
+          "headline": "Epic AI草拟回复\n医生下班后收件箱未变",
+          "body": "在Columbia，AI草稿使回复时间缩短29.5%，但整体采用后周转时间增加8.6%。",
+          "mini_headline": "AI收件箱草稿未减下班后负担",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "这项回顾性队列研究在Columbia University Irving Medical Center考察了Epic的In Basket Augmented Response Technology，该工具可为患者门户消息生成AI-drafted回复。研究分析了March 1, 2023至May 15, 2025期间1542名临床医生对272 091名患者的983 154条首次回复；全机构部署于December 2024完成。"
               },
               {
                 "t": "p",
-                "x": "WHO欧洲区域53个成员国一致通过了该区域首份《卫生领域人工智能行动路线图》（Roadmap for action on artificial intelligence in health）。该路线图在WHO欧洲区域委员会第76届会议期间获批，为在欧洲和中亚各地将AI融入卫生系统提出了共同愿景。"
+                "x": "采用该回复工具与整体消息周转时间增加8.6%相关，而在单条消息上使用该工具则与周转时间缩短29.5%相关。"
               },
               {
                 "t": "p",
-                "x": "WHO/Europe负责人（Officer-in-Charge）Dr Corinne Capuano表示：“AI已经在改变我们整个区域的医疗卫生……我们如何确保AI安全、有效且公平？如何保护人们的权利并赢得他们的信任？这些挑战没有哪个国家能够独自解决。”"
+                "x": "工具使用与下班后消息负担的整体减少无关。对于工作时间内收到的检查结果相关询问，下班后回复有所减少；但对于下班后收到的消息，下班后回复反而增加。"
               },
               {
                 "t": "p",
-                "x": "该路线图覆盖2026–2033年，设有4个优先领域：治理与领导力；伦理、监管和法律框架；数据与数字基础设施；以及能力建设、实施支持与学习。路线图参考了该区域53个成员国中50个对首次全区域AI准备度评估的答复，该评估于2025年发布。"
-              },
-              {
-                "t": "p",
-                "x": "路线图与EU Artificial Intelligence Act、European Health Data Space和General Data Protection Regulation等相衔接，并附有实施指南。成员国还支持设立一个新的WHO AI办公室。"
+                "x": "作者总结称，该工具可能降低回复某些消息的门槛，但并未均衡地减轻负担。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los 53 Estados de WHO Europa\navalan un plan de AI en salud",
-          "body": "Los 53 Estados de la WHO en Europa adoptaron por unanimidad una hoja de ruta para una AI segura y equitativa en salud.",
-          "mini_headline": "WHO Europa adopta una visión de AI",
+          "headline": "Los borradores de Epic AI\nno alivian la bandeja nocturna",
+          "body": "En Columbia, borradores de AI acortaron las respuestas un 29.5%, pero la adopción se asoció a un 8.6% más de demora.",
+          "mini_headline": "Borradores de AI, sin alivio fuera de horario",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.who.int/media/images/librariesprovider2/default-album/news-images/governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care.tmb-1200v.jpg?sfvrsn=f88f6d8d_4"
+                "t": "p",
+                "x": "Este estudio de cohorte retrospectivo examinó In Basket Augmented Response Technology de Epic, que genera respuestas AI-drafted a los mensajes del portal del paciente, en Columbia University Irving Medical Center. Analizó 983 154 primeras respuestas de 1542 clínicos a 272 091 pacientes entre el 1 de marzo de 2023 y el 15 de mayo de 2025; el despliegue a escala institucional llegó en diciembre de 2024."
               },
               {
                 "t": "p",
-                "x": "Los 53 Estados Miembros de la Región Europea de la WHO adoptaron por unanimidad la primera «Hoja de ruta para la acción sobre la inteligencia artificial en la salud» (Roadmap for action on artificial intelligence in health) de la Región, aprobada durante la 76.ª sesión del Comité Regional de la WHO para Europa. Establece una visión compartida para integrar la AI en los sistemas de salud de Europa y Asia Central."
+                "x": "La adopción de la herramienta se asoció a un aumento del 8.6% en el tiempo total de respuesta a los mensajes, mientras que usarla en un mensaje concreto se asoció a una reducción del 29.5% en ese tiempo."
               },
               {
                 "t": "p",
-                "x": "Dr Corinne Capuano, responsable en funciones (Officer-in-Charge) de WHO/Europe, afirmó: «La AI ya está cambiando la atención sanitaria en toda nuestra región… ¿Cómo garantizamos que la AI sea segura, eficaz y equitativa? ¿Cómo protegemos los derechos de las personas y nos ganamos su confianza? Son retos que ningún país puede resolver solo»."
+                "x": "El uso de la herramienta no se asoció a una reducción global de la carga de mensajes fuera de horario. Se vinculó con menos respuestas fuera de horario a consultas sobre resultados de pruebas recibidas en horario laboral, pero con más respuestas fuera de horario a mensajes recibidos fuera de horario."
               },
               {
                 "t": "p",
-                "x": "La hoja de ruta, que abarca 2026–2033, tiene 4 áreas prioritarias: gobernanza y liderazgo; marcos éticos, regulatorios y legales; datos e infraestructura digital; y desarrollo de capacidades, apoyo a la implementación y aprendizaje. Se basó en las respuestas de 50 de los 53 Estados Miembros de la Región a la primera evaluación regional de preparación en AI, publicada en 2025."
-              },
-              {
-                "t": "p",
-                "x": "Está alineada, entre otros, con la EU Artificial Intelligence Act, el European Health Data Space y el General Data Protection Regulation, e incluye una guía de implementación. Los Estados Miembros también apoyaron la creación de una nueva oficina de la WHO sobre AI."
+                "x": "Los autores concluyen que la herramienta puede reducir la barrera para responder a ciertos mensajes, aunque no reduce la carga de manera uniforme."
               }
             ]
           }
@@ -999,15 +869,15 @@
       }
     },
     {
-      "id": "llm-drug-brand-convergence",
+      "id": "medicine-mantis-pediatric-tumors",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLMs 다섯 개,\n같은 브랜드 약에 수렴",
-      "body": "LLMs 다섯이 질환-약물 123쌍, 프로필 1,440개에서 같은 상표를 골랐다.",
-      "mini_headline": "LLMs, 브랜드 약에 수렴",
+      "headline": "MANTIS, 소아 뇌종양\n환자 생존을 예측한다",
+      "body": "MANTIS가 DNA 메틸화와 신경망으로 수모세포종·뇌실막세포종 생존을 내다본다.",
+      "mini_headline": "AI로 소아 종양 생존 예측",
       "tool": "Medicine",
-      "source": "Nature Health",
-      "url": "https://www.nature.com/articles/s44360-026-00205-y",
+      "source": "Nature Genetics",
+      "url": "https://www.nature.com/articles/s41588-026-02815-4",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1015,185 +885,185 @@
         "blocks": [
           {
             "t": "p",
-            "x": "연구진은 다섯 개 LLMs(GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4, MedGemma)가 제품명을 어떻게 추천하는지 평가했다. 123개 질환–약물 쌍과 1,440개 사회인구학적 프로필에 걸친 합성 임상 사례 177,120건이 쓰였다. 사례마다 지정된 활성 성분을 함유한 FDA-approved(FDA 승인) 제품을 추천하라고 모델에 요청했다."
+            "x": "MANTIS(시간 의존적 개인별 생존 예측을 위한 메틸화 프로파일링 및 인공신경망)는 수모세포종과 뇌실막세포종의 예후를 예측하는 정밀 AI 도구다. 환자 2,786명의 전장 유전체 DNA 메틸화 어레이 데이터로 만들었다."
           },
           {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-            "cap": "Fig. 1: 연구 설계와 분석 워크플로."
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+            "cap": "Fig. 1: 신경망 구조와 학습 개요."
           },
           {
             "t": "p",
-            "x": "가장 자주 추천된 제품이 첫 선택 추천의 평균 97.5%를 차지했고, 모델 간 일치도도 거의 완벽했다(Fleiss’ κ = 0.895). 추천은 실제 처방 현황과 어긋났다. 활성 성분 51개 중 38개(74.5%)에서 비용이 더 들었고, 연간 증가액은 US$55.6 million으로 추산됐다."
+            "x": "이 도구는 10년에 걸친 개인별 생존 확률을 내놓는다. 일치도 지수는 최고 0.80 ± 0.07로 현재 임상 지표를 크게 웃돈다. 수모세포종 환자 898명으로 구성된 독립 임상시험 코호트 세 곳에서 검증을 마쳤다."
           },
           {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-            "cap": "Fig. 2: 사례와 모델에 따른 LLM 제품 추천의 일관성."
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+            "cap": "Fig. 5: 표준 위험군 MB 환자 다수는 더 낮은 CSI 선량으로 이득을 볼 수 있다."
           },
           {
             "t": "p",
-            "x": "모델은 오리지널 제품(OR 20.5)과 온라인 노출이 많은 제품(Google 검색 횟수 OR 1.70, 전용 Wikipedia 페이지 OR 3.00)을 선호했다. 제네릭이나 최저가 제품을 달라는 프롬프트를 넣으면 추천이 제네릭 쪽으로 옮겨 갔다."
+            "x": "개인별 치료 효과 추정으로 범위를 넓힌 MANTIS는 두개척수 방사선량을 낮춰 치료해도 유의한 생존 불이익이 없는(P = 0.683) 표준 위험군 수모세포종 환자를 ~60% 가려낸다. 낮은 선량은 더 나은 신경인지 결과와 연관된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Five LLMs converge on the\nsame branded drugs",
-          "body": "Across 123 disease-drug pairs and 1,440 patient profiles, five LLMs kept recommending the same branded products.",
-          "mini_headline": "LLMs converge on drug brands",
+          "headline": "MANTIS predicts survival in\nchildhood brain tumors",
+          "body": "MANTIS pairs DNA methylation with neural networks to forecast survival over time for medulloblastoma and ependymoma.",
+          "mini_headline": "AI survival forecasts for child tumors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Researchers evaluated product name recommendations from five LLMs — GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 and MedGemma — using 177,120 synthetic clinical vignettes spanning 123 disease–drug pairs and 1,440 sociodemographic profiles. Each vignette asked the model to recommend FDA-approved products containing a specified active ingredient."
+                "x": "MANTIS (methylation profiling and artificial neural networks for time-dependent individualized survival predictions) is a precision AI tool for medulloblastoma and ependymoma outcome prediction, built on genome-wide DNA methylation array data from 2,786 patients."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: Study design and analytical workflow."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: Overview of the neural network architecture and training."
               },
               {
                 "t": "p",
-                "x": "The most frequently recommended product accounted for a mean of 97.5% of first-choice recommendations, and the models showed almost perfect agreement (Fleiss’ κ = 0.895). Recommendations diverged from real-world prescribing; of 51 active ingredients, 38 (74.5%) showed higher costs, an estimated annual increase of US$55.6 million."
+                "x": "It generates individualized survival probabilities over a 10-year period and achieves concordance indices as high as 0.80 ± 0.07, significantly exceeding current clinical indicators. It was validated in three independent clinical trial cohorts of 898 medulloblastoma patients."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: Consistency of LLM product recommendations across vignettes and models."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: A majority of patients with average-risk MB may benefit from lower CSI doses."
               },
               {
                 "t": "p",
-                "x": "Models favoured originator products (OR 20.5) and those with greater online visibility (Google search counts, OR 1.70; a dedicated Wikipedia page, OR 3.00). Prompts asking for generic or lowest-cost products shifted recommendations towards generics."
+                "x": "Extended to estimate individualized treatment effects, MANTIS identifies ~60% of patients with average-risk medulloblastoma without a significant survival disadvantage (P = 0.683) when treated with less intensive craniospinal irradiation doses, which is associated with improved neurocognitive outcomes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLMs 다섯 개,\n같은 브랜드 약에 수렴",
-          "body": "LLMs 다섯이 질환-약물 123쌍, 프로필 1,440개에서 같은 상표를 골랐다.",
-          "mini_headline": "LLMs, 브랜드 약에 수렴",
+          "headline": "MANTIS, 소아 뇌종양\n환자 생존을 예측한다",
+          "body": "MANTIS가 DNA 메틸화와 신경망으로 수모세포종·뇌실막세포종 생존을 내다본다.",
+          "mini_headline": "AI로 소아 종양 생존 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 다섯 개 LLMs(GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4, MedGemma)가 제품명을 어떻게 추천하는지 평가했다. 123개 질환–약물 쌍과 1,440개 사회인구학적 프로필에 걸친 합성 임상 사례 177,120건이 쓰였다. 사례마다 지정된 활성 성분을 함유한 FDA-approved(FDA 승인) 제품을 추천하라고 모델에 요청했다."
+                "x": "MANTIS(시간 의존적 개인별 생존 예측을 위한 메틸화 프로파일링 및 인공신경망)는 수모세포종과 뇌실막세포종의 예후를 예측하는 정밀 AI 도구다. 환자 2,786명의 전장 유전체 DNA 메틸화 어레이 데이터로 만들었다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: 연구 설계와 분석 워크플로."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: 신경망 구조와 학습 개요."
               },
               {
                 "t": "p",
-                "x": "가장 자주 추천된 제품이 첫 선택 추천의 평균 97.5%를 차지했고, 모델 간 일치도도 거의 완벽했다(Fleiss’ κ = 0.895). 추천은 실제 처방 현황과 어긋났다. 활성 성분 51개 중 38개(74.5%)에서 비용이 더 들었고, 연간 증가액은 US$55.6 million으로 추산됐다."
+                "x": "이 도구는 10년에 걸친 개인별 생존 확률을 내놓는다. 일치도 지수는 최고 0.80 ± 0.07로 현재 임상 지표를 크게 웃돈다. 수모세포종 환자 898명으로 구성된 독립 임상시험 코호트 세 곳에서 검증을 마쳤다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: 사례와 모델에 따른 LLM 제품 추천의 일관성."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: 표준 위험군 MB 환자 다수는 더 낮은 CSI 선량으로 이득을 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "모델은 오리지널 제품(OR 20.5)과 온라인 노출이 많은 제품(Google 검색 횟수 OR 1.70, 전용 Wikipedia 페이지 OR 3.00)을 선호했다. 제네릭이나 최저가 제품을 달라는 프롬프트를 넣으면 추천이 제네릭 쪽으로 옮겨 갔다."
+                "x": "개인별 치료 효과 추정으로 범위를 넓힌 MANTIS는 두개척수 방사선량을 낮춰 치료해도 유의한 생존 불이익이 없는(P = 0.683) 표준 위험군 수모세포종 환자를 ~60% 가려낸다. 낮은 선량은 더 나은 신경인지 결과와 연관된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMs五つが\n同じブランド薬に収束",
-          "body": "123の疾患・薬剤ペアと1,440の患者像で五つのLLMsは同じブランド品を推奨し続けた。",
-          "mini_headline": "LLMsがブランド薬に収束",
+          "headline": "MANTIS、小児脳腫瘍の\n生存を予測",
+          "body": "MANTISはDNAメチル化とニューラルネットで髄芽腫と上衣腫の生存を経時的に予測する。",
+          "mini_headline": "AIで小児腫瘍の生存を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究チームは、五つのLLMs（GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4、MedGemma）による製品名の推奨を、123の疾患–薬剤ペアと1,440の社会人口学的プロファイルにわたる177,120件の合成臨床ビネットで評価した。各ビネットでは、指定した有効成分を含むFDA-approved（FDA承認）製品の推奨をモデルに求めた。"
+                "x": "MANTIS(時間依存的な個別生存予測のためのメチル化プロファイリングと人工ニューラルネットワーク)は、髄芽腫と上衣腫の転帰予測のための精密AIツールで、患者2,786人のゲノムワイドDNAメチル化アレイデータを基に構築された。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究デザインと解析ワークフロー。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: ニューラルネットワークの構造と学習の概要。"
               },
               {
                 "t": "p",
-                "x": "最も多く推奨された製品が第一選択の推奨の平均97.5%を占め、モデル間の一致はほぼ完全だった（Fleiss’ κ = 0.895）。推奨は実際の処方と乖離しており、有効成分51種のうち38種（74.5%）でコストが高く、年間の増加額はUS$55.6 million と推計された。"
+                "x": "10年間にわたる個別の生存確率を算出し、一致指数は最高0.80 ± 0.07に達して現行の臨床指標を大きく上回る。髄芽腫患者898人からなる三つの独立した臨床試験コホートで検証された。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: ビネットとモデルを通じたLLM製品推奨の一貫性。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: 標準リスクMB患者の多くは、より低いCSI線量の恩恵を受けうる。"
               },
               {
                 "t": "p",
-                "x": "モデルは先発品（OR 20.5）や、オンラインでの露出が大きい製品（Google検索数でOR 1.70、専用のWikipediaページでOR 3.00）を好んだ。ジェネリックや最安製品を求めるプロンプトでは、推奨がジェネリックへと移った。"
+                "x": "個別の治療効果の推定に拡張すると、MANTISは、強度を下げた頭蓋脊髄照射線量で治療しても有意な生存上の不利益がない(P = 0.683)標準リスク髄芽腫患者を~60%特定する。低線量は神経認知機能の転帰改善と関連している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "五款LLMs推荐\n趋同于同一批品牌药",
-          "body": "在123组疾病-药物配对和1,440份患者档案中，五款LLMs反复推荐相同的品牌药品。",
-          "mini_headline": "LLMs趋同于品牌药",
+          "headline": "MANTIS预测\n儿童脑肿瘤生存",
+          "body": "MANTIS结合DNA甲基化与神经网络，随时间预测髓母细胞瘤和室管膜瘤的生存。",
+          "mini_headline": "AI预测儿童肿瘤生存",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员评估了五款LLMs——GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4和MedGemma——给出的产品名称推荐，使用了涵盖123组疾病–药物配对和1,440种社会人口学特征的177,120个合成临床病例。每个病例都要求模型推荐含有指定活性成分的FDA-approved（FDA批准）产品。"
+                "x": "MANTIS（用于时间依赖性个体化生存预测的甲基化谱分析与人工神经网络）是一款用于预测髓母细胞瘤和室管膜瘤预后的精准AI工具，基于2,786名患者的全基因组DNA甲基化芯片数据构建。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究设计与分析流程。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: 神经网络架构与训练概览。"
               },
               {
                 "t": "p",
-                "x": "最常被推荐的产品平均占首选推荐的97.5%，各模型之间几乎完全一致（Fleiss’ κ = 0.895）。这些推荐与真实世界的处方情况不符：在51种活性成分中，有38种（74.5%）成本更高，估计每年增加US$55.6 million。"
+                "x": "它可生成10年期内的个体化生存概率，一致性指数最高达0.80 ± 0.07，显著优于现有临床指标。该工具已在三个独立临床试验队列共898名髓母细胞瘤患者中得到验证。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: LLM产品推荐在不同病例和模型间的一致性。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: 多数平均风险MB患者可能从更低的CSI剂量中获益。"
               },
               {
                 "t": "p",
-                "x": "模型偏好原研产品（OR 20.5）以及网络曝光度更高的产品（Google搜索量，OR 1.70；拥有专门的Wikipedia页面，OR 3.00）。要求推荐仿制药或最低价产品的提示词会使推荐转向仿制药。"
+                "x": "扩展用于估计个体化治疗效果后，MANTIS识别出~60%的平均风险髓母细胞瘤患者在接受强度较低的颅脊髓照射剂量治疗时无显著生存劣势（P = 0.683），而较低剂量与神经认知结局改善相关。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cinco LLMs coinciden en los\nmismos fármacos de marca",
-          "body": "En 123 pares enfermedad-fármaco y 1,440 perfiles de pacientes, cinco LLMs insistieron en los mismos productos de marca.",
-          "mini_headline": "Los LLMs coinciden en marcas de fármacos",
+          "headline": "MANTIS predice la supervivencia\nen tumores cerebrales de niños",
+          "body": "MANTIS une metilación del DNA y redes neuronales para prever la supervivencia en meduloblastoma y ependimoma.",
+          "mini_headline": "Pronósticos de supervivencia con AI en tumores infantiles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores evaluaron las recomendaciones de nombres de producto de cinco LLMs —GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 y MedGemma— mediante 177,120 viñetas clínicas sintéticas que abarcaban 123 pares enfermedad–fármaco y 1,440 perfiles sociodemográficos. Cada viñeta pedía al modelo recomendar productos FDA-approved (aprobados por la FDA) que contuvieran un principio activo determinado."
+                "x": "MANTIS (perfiles de metilación y redes neuronales artificiales para predicciones de supervivencia individualizadas y dependientes del tiempo) es una herramienta de AI de precisión para predecir la evolución del meduloblastoma y el ependimoma, construida con datos de matrices de metilación del DNA de todo el genoma de 2,786 pacientes."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: Diseño del estudio y flujo de trabajo analítico."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de la arquitectura de la red neuronal y su entrenamiento."
               },
               {
                 "t": "p",
-                "x": "El producto recomendado con más frecuencia representó una media del 97.5% de las recomendaciones de primera elección, y los modelos mostraron un acuerdo casi perfecto (Fleiss’ κ = 0.895). Las recomendaciones se apartaron de la prescripción real: de 51 principios activos, 38 (74.5%) mostraron costes más altos, con un aumento anual estimado de US$55.6 millones."
+                "x": "Genera probabilidades de supervivencia individualizadas a lo largo de un periodo de 10 años y alcanza índices de concordancia de hasta 0.80 ± 0.07, superando significativamente los indicadores clínicos actuales. Se validó en tres cohortes independientes de ensayos clínicos con 898 pacientes con meduloblastoma."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: Consistencia de las recomendaciones de productos de los LLM entre viñetas y modelos."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: La mayoría de los pacientes con MB de riesgo medio podrían beneficiarse de dosis de CSI más bajas."
               },
               {
                 "t": "p",
-                "x": "Los modelos favorecieron los productos originales (OR 20.5) y los de mayor visibilidad en línea (recuentos de búsqueda en Google, OR 1.70; una página propia en Wikipedia, OR 3.00). Las instrucciones que pedían productos genéricos o de menor coste desplazaron las recomendaciones hacia los genéricos."
+                "x": "Ampliado para estimar efectos individualizados del tratamiento, MANTIS identifica a ~60% de los pacientes con meduloblastoma de riesgo medio sin una desventaja significativa de supervivencia (P = 0.683) al tratarlos con dosis menos intensas de irradiación craneoespinal, lo que se asocia con mejores resultados neurocognitivos."
               }
             ]
           }
@@ -1201,129 +1071,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLMs 다섯 개,\n같은 브랜드 약에 수렴",
-          "body": "LLMs 다섯은 질환-약물 123쌍, 프로필 1,440개에서 같은 상표를 골랐다.",
-          "mini_headline": "LLMs, 브랜드 약에 수렴",
+          "headline": "MANTIS, 소아 뇌종양\n환자 생존을 예측한다",
+          "body": "MANTIS는 DNA 메틸화와 신경망으로 수모세포종·뇌실막세포종 생존을 예측한다.",
+          "mini_headline": "AI로 소아 종양 생존 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 다섯 개 LLMs(GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4, MedGemma)의 제품명 추천을 평가했다. 평가에는 123개 질환–약물 쌍과 1,440개 사회인구학적 프로필에 걸친 합성 임상 사례 177,120건을 썼다. 각 사례는 지정된 활성 성분을 함유한 FDA-approved(FDA 승인) 제품을 추천하도록 모델에 요청했다."
+                "x": "MANTIS(시간 의존적 개인별 생존 예측을 위한 메틸화 프로파일링 및 인공신경망)는 수모세포종과 뇌실막세포종의 예후 예측을 위한 정밀 AI 도구로, 환자 2,786명의 전장 유전체 DNA 메틸화 어레이 데이터를 바탕으로 만들어졌다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: 연구 설계와 분석 워크플로."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: 신경망 구조와 학습 개요."
               },
               {
                 "t": "p",
-                "x": "가장 자주 추천된 제품이 첫 선택 추천의 평균 97.5%를 차지했고, 모델 간 일치도는 거의 완벽했다(Fleiss’ κ = 0.895). 추천은 실제 처방 현황과 달랐다. 활성 성분 51개 중 38개(74.5%)에서 비용이 더 높았고, 연간 증가액은 US$55.6 million으로 추산됐다."
+                "x": "이 도구는 10년에 걸친 개인별 생존 확률을 산출하며, 일치도 지수가 최고 0.80 ± 0.07에 이르러 현재 임상 지표를 크게 웃돈다. 수모세포종 환자 898명으로 이뤄진 독립 임상시험 코호트 세 곳에서 검증됐다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: 사례와 모델 전반에 걸친 LLM 제품 추천의 일관성."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: 표준 위험군 MB 환자 다수는 더 낮은 CSI 선량으로 이득을 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "모델은 오리지널 제품(OR 20.5)과 온라인 노출도가 높은 제품(Google 검색 횟수 OR 1.70, 전용 Wikipedia 페이지 OR 3.00)을 선호했다. 제네릭이나 최저가 제품을 요청하는 프롬프트는 추천을 제네릭 쪽으로 옮겼다."
+                "x": "개인별 치료 효과 추정으로 확장한 MANTIS는 강도를 낮춘 두개척수 방사선량으로 치료해도 유의한 생존 불이익이 없는(P = 0.683) 표준 위험군 수모세포종 환자를 ~60% 가려낸다. 낮은 선량은 신경인지 결과 개선과 연관된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMs五つが\n同じブランド薬に収束",
-          "body": "123の疾患・薬剤ペアと1,440の患者像で五つのLLMsは同じブランド品を推奨し続けた。",
-          "mini_headline": "LLMsがブランド薬に収束",
+          "headline": "MANTIS、小児脳腫瘍の\n生存を予測",
+          "body": "MANTISはDNAメチル化とニューラルネットで髄芽腫と上衣腫の生存を経時的に予測する。",
+          "mini_headline": "AIで小児腫瘍の生存を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究チームは、五つのLLMs（GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4、MedGemma）による製品名の推奨を、123の疾患–薬剤ペアと1,440の社会人口学的プロファイルにわたる177,120件の合成臨床ビネットで評価した。各ビネットでは、指定した有効成分を含むFDA-approved（FDA承認）製品の推奨をモデルに求めた。"
+                "x": "MANTIS(時間依存的な個別生存予測のためのメチル化プロファイリングと人工ニューラルネットワーク)は、髄芽腫と上衣腫の転帰予測のための精密AIツールで、患者2,786人のゲノムワイドDNAメチル化アレイデータを基に構築された。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究デザインと解析ワークフロー。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: ニューラルネットワークの構造と学習の概要。"
               },
               {
                 "t": "p",
-                "x": "最も多く推奨された製品が第一選択の推奨の平均97.5%を占め、モデル間の一致はほぼ完全だった（Fleiss’ κ = 0.895）。推奨は実際の処方と乖離しており、有効成分51種のうち38種（74.5%）でコストが高く、年間の増加額はUS$55.6 million と推計された。"
+                "x": "10年間にわたる個別の生存確率を算出し、一致指数は最高0.80 ± 0.07に達して現行の臨床指標を大きく上回る。髄芽腫患者898人からなる三つの独立した臨床試験コホートで検証された。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: ビネットとモデルを通じたLLM製品推奨の一貫性。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: 標準リスクMB患者の多くは、より低いCSI線量の恩恵を受けうる。"
               },
               {
                 "t": "p",
-                "x": "モデルは先発品（OR 20.5）や、オンラインでの露出が大きい製品（Google検索数でOR 1.70、専用のWikipediaページでOR 3.00）を好んだ。ジェネリックや最安製品を求めるプロンプトでは、推奨がジェネリックへと移った。"
+                "x": "個別の治療効果の推定に拡張すると、MANTISは、強度を下げた頭蓋脊髄照射線量で治療しても有意な生存上の不利益がない(P = 0.683)標準リスク髄芽腫患者を~60%特定する。低線量は神経認知機能の転帰改善と関連している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "五款LLMs推荐\n趋同于同一批品牌药",
-          "body": "在123组疾病-药物配对和1,440份患者档案中，五款LLMs反复推荐相同的品牌药品。",
-          "mini_headline": "LLMs趋同于品牌药",
+          "headline": "MANTIS预测\n儿童脑肿瘤生存",
+          "body": "MANTIS结合DNA甲基化与神经网络，随时间预测髓母细胞瘤和室管膜瘤的生存。",
+          "mini_headline": "AI预测儿童肿瘤生存",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员评估了五款LLMs——GPT-5.4、Claude Sonnet 4.6、Gemini 3.1 Flash、Llama 4和MedGemma——给出的产品名称推荐，使用了涵盖123组疾病–药物配对和1,440种社会人口学特征的177,120个合成临床病例。每个病例都要求模型推荐含有指定活性成分的FDA-approved（FDA批准）产品。"
+                "x": "MANTIS（用于时间依赖性个体化生存预测的甲基化谱分析与人工神经网络）是一款用于预测髓母细胞瘤和室管膜瘤预后的精准AI工具，基于2,786名患者的全基因组DNA甲基化芯片数据构建。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究设计与分析流程。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: 神经网络架构与训练概览。"
               },
               {
                 "t": "p",
-                "x": "最常被推荐的产品平均占首选推荐的97.5%，各模型之间几乎完全一致（Fleiss’ κ = 0.895）。这些推荐与真实世界的处方情况不符：在51种活性成分中，有38种（74.5%）成本更高，估计每年增加US$55.6 million。"
+                "x": "它可生成10年期内的个体化生存概率，一致性指数最高达0.80 ± 0.07，显著优于现有临床指标。该工具已在三个独立临床试验队列共898名髓母细胞瘤患者中得到验证。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: LLM产品推荐在不同病例和模型间的一致性。"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: 多数平均风险MB患者可能从更低的CSI剂量中获益。"
               },
               {
                 "t": "p",
-                "x": "模型偏好原研产品（OR 20.5）以及网络曝光度更高的产品（Google搜索量，OR 1.70；拥有专门的Wikipedia页面，OR 3.00）。要求推荐仿制药或最低价产品的提示词会使推荐转向仿制药。"
+                "x": "扩展用于估计个体化治疗效果后，MANTIS识别出~60%的平均风险髓母细胞瘤患者在接受强度较低的颅脊髓照射剂量治疗时无显著生存劣势（P = 0.683），而较低剂量与神经认知结局改善相关。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cinco LLMs coinciden en los\nmismos fármacos de marca",
-          "body": "En 123 pares enfermedad-fármaco y 1,440 perfiles de pacientes, cinco LLMs insistieron en los mismos productos de marca.",
-          "mini_headline": "Los LLMs coinciden en marcas de fármacos",
+          "headline": "MANTIS predice la supervivencia\nen tumores cerebrales de niños",
+          "body": "MANTIS une metilación del DNA y redes neuronales para prever la supervivencia en meduloblastoma y ependimoma.",
+          "mini_headline": "Pronósticos de supervivencia con AI en tumores infantiles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores evaluaron las recomendaciones de nombres de producto de cinco LLMs —GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Flash, Llama 4 y MedGemma— mediante 177,120 viñetas clínicas sintéticas que abarcaban 123 pares enfermedad–fármaco y 1,440 perfiles sociodemográficos. Cada viñeta pedía al modelo recomendar productos FDA-approved (aprobados por la FDA) que contuvieran un principio activo determinado."
+                "x": "MANTIS (perfiles de metilación y redes neuronales artificiales para predicciones de supervivencia individualizadas y dependientes del tiempo) es una herramienta de AI de precisión para predecir la evolución del meduloblastoma y el ependimoma, construida con datos de matrices de metilación del DNA de todo el genoma de 2,786 pacientes."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig1_HTML.png",
-                "cap": "Fig. 1: Diseño del estudio y flujo de trabajo analítico."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de la arquitectura de la red neuronal y su entrenamiento."
               },
               {
                 "t": "p",
-                "x": "El producto recomendado con más frecuencia representó una media del 97.5% de las recomendaciones de primera elección, y los modelos mostraron un acuerdo casi perfecto (Fleiss’ κ = 0.895). Las recomendaciones se apartaron de la prescripción real: de 51 principios activos, 38 (74.5%) mostraron costes más altos, con un aumento anual estimado de US$55.6 millones."
+                "x": "Genera probabilidades de supervivencia individualizadas a lo largo de un periodo de 10 años y alcanza índices de concordancia de hasta 0.80 ± 0.07, superando significativamente los indicadores clínicos actuales. Se validó en tres cohortes independientes de ensayos clínicos con 898 pacientes con meduloblastoma."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00205-y/MediaObjects/44360_2026_205_Fig2_HTML.png",
-                "cap": "Fig. 2: Consistencia de las recomendaciones de productos de los LLM entre viñetas y modelos."
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+                "cap": "Fig. 5: La mayoría de los pacientes con MB de riesgo medio podrían beneficiarse de dosis de CSI más bajas."
               },
               {
                 "t": "p",
-                "x": "Los modelos favorecieron los productos originales (OR 20.5) y los de mayor visibilidad en línea (recuentos de búsqueda en Google, OR 1.70; una página propia en Wikipedia, OR 3.00). Las instrucciones que pedían productos genéricos o de menor coste desplazaron las recomendaciones hacia los genéricos."
+                "x": "Ampliado para estimar efectos individualizados del tratamiento, MANTIS identifica a ~60% de los pacientes con meduloblastoma de riesgo medio sin una desventaja significativa de supervivencia (P = 0.683) al tratarlos con dosis menos intensas de irradiación craneoespinal, lo que se asocia con mejores resultados neurocognitivos."
               }
             ]
           }
@@ -1331,15 +1201,15 @@
       }
     },
     {
-      "id": "severance-cxr-lvef-ai",
-      "source_lang": "ko",
+      "id": "medicine-stanford-preterm-twins",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "흉부 엑스레이로\n심장 기능 저하 예측",
-      "body": "용인세브란스병원이 흉부 X선만으로 심장 기능 저하를 예측하는 AI를 개발했다.",
-      "mini_headline": "X선으로 심기능 저하 예측",
+      "headline": "면역 디지털 트윈,\n조산 막을 약 찾는다",
+      "body": "Stanford가 AI 임신 면역 디지털 트윈으로 조산을 막을 기존 약을 찾았다.",
+      "mini_headline": "디지털 트윈이 짚은 조산 약물",
       "tool": "Medicine",
-      "source": "메디게이트뉴스",
-      "url": "https://medigatenews.com/news/1981314083",
+      "source": "Stanford Medicine",
+      "url": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1347,375 +1217,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://medigatenews.com/file/news/537580"
+            "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
           },
           {
             "t": "p",
-            "x": "연세대학교 용인세브란스병원 심장내과 정인현·배성아 교수와 연세의대 의생명시스템정보학교실 윤덕용 교수 연구팀이 흉부 엑스레이(X-ray) 영상으로 심장 기능 저하 가능성을 예측하는 인공지능(AI) 모델을 개발하고 성능을 검증한 연구 결과를 최근 발표했다고 29일 밝혔다."
+            "x": "Stanford Medicine 연구진이 임신 중 면역계 변화를 담은 AI-enabled 모델을 만들었다. 임신부 한 사람 한 사람의 면역계를 본뜬 “디지털 트윈”으로 가상 약물 시험을 할 수 있다. 연구는 Oct. 21 Science Advances 온라인판에 실렸다."
           },
           {
             "t": "p",
-            "x": "좌심실 박출률(LVEF)은 일반적으로 심장초음파 검사로 측정하지만, 검사 장비와 숙련된 전문 인력이 필요해 규모가 작은 의료기관에서는 시행하기 어려웠다. 연구팀은 직접 딥러닝(DDL)과, 영상 판독 AI 루닛 인사이트 CXR의 분석 결과를 활용하는 하이브리드 딥러닝(HDL) 두 모델을 개발해 비교했다."
+            "x": "SIMCO(임상 결과의 시뮬레이션 면역 모델링)라는 이 시스템은 세포 이억오천만 개의 반응과 임신 63건의 종단 데이터로 학습했고 임신 중 안전하다고 이미 알려진 약물 요법 아홉 가지를 평가하는 데 쓰였다."
           },
           {
             "t": "p",
-            "x": "모델 개발에는 용인세브란스병원 환자 1만152명의 자료를, 전향적 검증에는 호흡곤란으로 응급실 또는 외래를 방문한 환자 505명을, 외부 검증에는 서울대학교병원 환자 3657명의 자료를 사용했다."
-          },
-          {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/537581"
+            "x": "가장 효과가 큰 조합은 아스피린과 란소프라졸이었다. 책임저자 Brice Gaudilliere는 “디지털 트윈 시스템에서 두 약물을 함께 쓰자 분만 지연 효과가 컸고, 아스피린 단독보다 15배 높았다”고 말했다. 엽산 역시 분만으로 향하는 면역학적 진행을 늦췄다."
           },
           {
             "t": "p",
-            "x": "AUROC는 HDL 모델이 0.85로 DDL 모델의 0.61보다 높았다. 전향적 검증에서는 HDL 모델이 0.85, DDL 모델이 0.57이었고, HDL 모델의 외부 검증 AUROC는 0.73이었다. HDL 모델은 특이도 90~97%, 음성예측도 91~98%를 보였다."
-          },
-          {
-            "t": "p",
-            "x": "정인현·배성아 교수는 \"추가 임상 검증을 거쳐 응급실이나 심장초음파 검사 접근성이 낮은 의료기관에서 심장 기능 저하 의심 환자를 선별하는 보조 도구로 활용될 수 있을 것으로 기대한다\"고 말했다. 결과는 국제학술지 사이언티픽 리포트(Scientific Reports)에 게재됐다."
+            "x": "이 조합은 동물 모델에서도 분만을 늦췄다. 연구진은 사람 대상 임상시험에 필요한 FDA 승인을 받았다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "흉부 엑스레이로\n심장 기능 저하 예측",
-          "body": "용인세브란스병원이 흉부 X선만으로 심장 기능 저하를 예측하는 AI를 개발했다.",
-          "mini_headline": "X선으로 심기능 저하 예측",
+        "en": {
+          "headline": "Immune digital twins point to\ndrugs against preterm labor",
+          "body": "Stanford built AI digital twins of pregnancy immune changes to find existing drugs that might prevent preterm labor.",
+          "mini_headline": "Digital twins flag preterm labor drugs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "연세대학교 용인세브란스병원 심장내과 정인현·배성아 교수와 연세의대 의생명시스템정보학교실 윤덕용 교수 연구팀이 흉부 엑스레이(X-ray) 영상으로 심장 기능 저하 가능성을 예측하는 인공지능(AI) 모델을 개발하고 성능을 검증한 연구 결과를 최근 발표했다고 29일 밝혔다."
+                "x": "Stanford Medicine researchers built an AI-enabled model of immune system changes in pregnancy, creating “digital twins” of individual pregnant women’s immune systems for virtual drug testing. The study published online Oct. 21 in Science Advances."
               },
               {
                 "t": "p",
-                "x": "좌심실 박출률(LVEF)은 일반적으로 심장초음파 검사로 측정하지만, 검사 장비와 숙련된 전문 인력이 필요해 규모가 작은 의료기관에서는 시행하기 어려웠다. 연구팀은 직접 딥러닝(DDL)과, 영상 판독 AI 루닛 인사이트 CXR의 분석 결과를 활용하는 하이브리드 딥러닝(HDL) 두 모델을 개발해 비교했다."
+                "x": "The system, called SIMCO (simulated immune modeling of clinical outcomes), was trained on responses from a quarter of a billion cells and longitudinal data from 63 pregnancies, then used to evaluate nine drug regimens already known to be safe for pregnancy."
               },
               {
                 "t": "p",
-                "x": "모델 개발에는 용인세브란스병원 환자 1만152명의 자료를, 전향적 검증에는 호흡곤란으로 응급실 또는 외래를 방문한 환자 505명을, 외부 검증에는 서울대학교병원 환자 3657명의 자료를 사용했다."
+                "x": "The winning combination was aspirin and lansoprazole. “In the digital twin system, these two drugs in combination had a large effect on the delay of labor, 15 times higher than aspirin alone,” said senior author Brice Gaudilliere. Folic acid was also found to delay immunological progression toward labor."
               },
+              {
+                "t": "p",
+                "x": "The combination delayed labor in an animal model, and the researchers obtained FDA approval to test it in a human clinical trial."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "면역 디지털 트윈,\n조산 막을 약 찾는다",
+          "body": "Stanford가 AI 임신 면역 디지털 트윈으로 조산을 막을 기존 약을 찾았다.",
+          "mini_headline": "디지털 트윈이 짚은 조산 약물",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "AUROC는 HDL 모델이 0.85로 DDL 모델의 0.61보다 높았다. 전향적 검증에서는 HDL 모델이 0.85, DDL 모델이 0.57이었고, HDL 모델의 외부 검증 AUROC는 0.73이었다. HDL 모델은 특이도 90~97%, 음성예측도 91~98%를 보였다."
+                "x": "Stanford Medicine 연구진이 임신 중 면역계 변화를 담은 AI-enabled 모델을 만들었다. 임신부 한 사람 한 사람의 면역계를 본뜬 “디지털 트윈”으로 가상 약물 시험을 할 수 있다. 연구는 Oct. 21 Science Advances 온라인판에 실렸다."
               },
               {
                 "t": "p",
-                "x": "정인현·배성아 교수는 \"추가 임상 검증을 거쳐 응급실이나 심장초음파 검사 접근성이 낮은 의료기관에서 심장 기능 저하 의심 환자를 선별하는 보조 도구로 활용될 수 있을 것으로 기대한다\"고 말했다. 결과는 국제학술지 사이언티픽 리포트(Scientific Reports)에 게재됐다."
+                "x": "SIMCO(임상 결과의 시뮬레이션 면역 모델링)라는 이 시스템은 세포 이억오천만 개의 반응과 임신 63건의 종단 데이터로 학습했고 임신 중 안전하다고 이미 알려진 약물 요법 아홉 가지를 평가하는 데 쓰였다."
+              },
+              {
+                "t": "p",
+                "x": "가장 효과가 큰 조합은 아스피린과 란소프라졸이었다. 책임저자 Brice Gaudilliere는 “디지털 트윈 시스템에서 두 약물을 함께 쓰자 분만 지연 효과가 컸고, 아스피린 단독보다 15배 높았다”고 말했다. 엽산 역시 분만으로 향하는 면역학적 진행을 늦췄다."
+              },
+              {
+                "t": "p",
+                "x": "이 조합은 동물 모델에서도 분만을 늦췄다. 연구진은 사람 대상 임상시험에 필요한 FDA 승인을 받았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "胸部X線で\n心機能低下を予測",
-          "body": "龍仁セブランス病院が、胸部X線だけで心機能の低下を予測するAIを開発した。",
-          "mini_headline": "X線で心機能低下を予測",
+          "headline": "免疫デジタルツインが\n早産を防ぐ薬を示す",
+          "body": "StanfordはAIで妊娠時の免疫変化をデジタルツイン化し、早産を防ぎうる既存薬を探す。",
+          "mini_headline": "デジタルツインが早産の薬を示す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "延世大学龍仁セブランス病院循環器内科のチョン・インヒョン教授、ペ・ソンア教授と、延世大学医学部医生命システム情報学教室のユン・ドギョン教授の研究チームは、胸部エックス線（X-ray）画像から心機能低下の可能性を予測する人工知能（AI）モデルを開発し、その性能を検証した研究結果を最近発表したと29日に明らかにした。"
+                "x": "Stanford Medicineの研究チームは、妊娠中の免疫系の変化をとらえるAI-enabledモデルを構築し、個々の妊婦の免疫系の「デジタルツイン」を作って仮想的な薬剤試験を可能にした。研究はOct. 21、Science Advancesにオンライン掲載された。"
               },
               {
                 "t": "p",
-                "x": "左室駆出率（LVEF）は通常、心エコー検査で測定するが、検査機器と熟練した専門人材が必要なため、小規模な医療機関では実施が難しかった。研究チームは、直接ディープラーニング（DDL）と、画像読影AI「Lunit INSIGHT CXR」の解析結果を活用するハイブリッド・ディープラーニング（HDL）の二つのモデルを開発し、比較した。"
+                "x": "SIMCO(臨床転帰の模擬免疫モデリング)と呼ばれるこのシステムは、二億五千万個の細胞の反応と63件の妊娠の縦断データで学習した後、妊娠中の安全性がすでに知られている九つの薬剤レジメンの評価に使われた。"
               },
               {
                 "t": "p",
-                "x": "モデル開発には龍仁セブランス病院の患者1万152人のデータを、前向き検証には呼吸困難で救急外来または外来を受診した患者505人を、外部検証にはソウル大学病院の患者3657人のデータを用いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
+                "x": "最も効果が高かった組み合わせはアスピリンとランソプラゾールだった。責任著者のBrice Gaudilliere氏は「デジタルツインシステムでは、この二つの薬の併用が分娩の遅延に大きな効果を示し、アスピリン単独の15倍だった」と述べた。葉酸にも、分娩に向けた免疫学的な進行を遅らせる作用が見つかった。"
               },
               {
                 "t": "p",
-                "x": "AUROCはHDLモデルが0.85で、DDLモデルの0.61を上回った。前向き検証ではHDLモデルが0.85、DDLモデルが0.57で、HDLモデルの外部検証AUROCは0.73だった。HDLモデルは特異度90~97%、陰性的中率91~98%を示した。"
-              },
-              {
-                "t": "p",
-                "x": "チョン・インヒョン教授とペ・ソンア教授は「追加の臨床検証を経て、救急外来や心エコー検査へのアクセスが限られる医療機関で、心機能低下が疑われる患者を選別する補助ツールとして活用できると期待している」と述べた。結果は国際学術誌Scientific Reports（サイエンティフィック・リポーツ）に掲載された。"
+                "x": "この組み合わせは動物モデルで分娩を遅らせ、研究者らはヒトでの臨床試験に向けてFDAの承認を得た。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "胸部X光片\n可预测心功能下降",
-          "body": "龙仁世福兰斯医院开发出仅凭胸部X光即可预测心功能下降的AI模型。",
-          "mini_headline": "X光预测心功能下降",
+          "headline": "免疫数字孪生\n指向防早产药物",
+          "body": "Stanford用AI构建孕期免疫变化的数字孪生，寻找可能预防早产的现有药物。",
+          "mini_headline": "数字孪生锁定早产候选药",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "延世大学龙仁世福兰斯医院心内科教授Jung In-hyun、Bae Sung-ah与延世大学医学院生物医学系统信息学教研室教授Yoon Deok-yong的研究团队29日表示，他们开发出可通过胸部X光（X-ray）影像预测心功能下降可能性的人工智能（AI）模型，并于近期发表了验证其性能的研究成果。"
+                "x": "Stanford Medicine研究人员构建了一个AI-enabled的孕期免疫系统变化模型，为每位孕妇的免疫系统创建“数字孪生”，用于虚拟药物测试。该研究于Oct. 21在线发表于Science Advances。"
               },
               {
                 "t": "p",
-                "x": "左心室射血分数（LVEF）通常通过心脏超声检查测量，但由于需要检查设备和熟练的专业人员，规模较小的医疗机构难以开展。研究团队开发并比较了两种模型：直接深度学习（DDL），以及利用影像判读AI Lunit INSIGHT CXR分析结果的混合深度学习（HDL）。"
+                "x": "这一名为SIMCO（临床结局模拟免疫建模）的系统，基于两亿五千万个细胞的反应以及63例妊娠的纵向数据训练，随后用于评估九种已知对孕期安全的药物方案。"
               },
               {
                 "t": "p",
-                "x": "模型开发使用了龙仁世福兰斯医院1万152名患者的数据，前瞻性验证纳入了因呼吸困难前往急诊或门诊就诊的505名患者，外部验证使用了首尔大学医院3657名患者的数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
+                "x": "效果最好的组合是阿司匹林和兰索拉唑。“在数字孪生系统中，这两种药物联用对延迟分娩效果显著，是单用阿司匹林的15倍，”资深作者Brice Gaudilliere说。研究还发现，叶酸也能延缓走向分娩的免疫进程。"
               },
               {
                 "t": "p",
-                "x": "HDL模型的AUROC为0.85，高于DDL模型的0.61。在前瞻性验证中，HDL模型为0.85，DDL模型为0.57；HDL模型的外部验证AUROC为0.73。HDL模型的特异度为90~97%，阴性预测值为91~98%。"
-              },
-              {
-                "t": "p",
-                "x": "Jung In-hyun、Bae Sung-ah教授表示：“希望经过进一步临床验证后，它能在急诊室或心脏超声检查可及性较低的医疗机构中，作为筛查疑似心功能下降患者的辅助工具。”研究结果发表于国际学术期刊《科学报告》（Scientific Reports）。"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Chest X-ray AI predicts\nreduced heart function",
-          "body": "Yongin Severance Hospital has developed an AI that predicts reduced heart function from chest X-rays alone.",
-          "mini_headline": "X-ray predicts reduced heart function",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
-              },
-              {
-                "t": "p",
-                "x": "A research team led by professors Jung In-hyun and Bae Sung-ah of the cardiology department at Yonsei University Yongin Severance Hospital and professor Yoon Duk-yong of the Department of Biomedical Systems Informatics at Yonsei University College of Medicine said on the 29th that it had recently published a study developing and validating an artificial intelligence (AI) model that predicts the likelihood of reduced heart function from chest X-ray images."
-              },
-              {
-                "t": "p",
-                "x": "Left ventricular ejection fraction (LVEF) is usually measured by echocardiography, but because it requires equipment and skilled specialists, it has been hard to perform at smaller medical institutions. The team developed and compared two models: direct deep learning (DDL) and hybrid deep learning (HDL), which uses analysis results from the imaging AI Lunit INSIGHT CXR."
-              },
-              {
-                "t": "p",
-                "x": "Data from 1만152 patients at Yongin Severance Hospital were used for model development, 505 patients who visited the emergency room or outpatient clinic with shortness of breath for prospective validation, and data from 3657 patients at Seoul National University Hospital for external validation."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
-              },
-              {
-                "t": "p",
-                "x": "The HDL model's AUROC was 0.85, higher than the DDL model's 0.61. In prospective validation, the HDL model scored 0.85 and the DDL model 0.57, and the HDL model's external validation AUROC was 0.73. The HDL model showed specificity of 90~97% and negative predictive value of 91~98%."
-              },
-              {
-                "t": "p",
-                "x": "Professors Jung In-hyun and Bae Sung-ah said, \"After further clinical validation, we expect it could be used as an assistive tool to screen patients suspected of reduced heart function in emergency rooms or at medical institutions with limited access to echocardiography.\" The results were published in the international journal Scientific Reports."
+                "x": "该组合在动物模型中延迟了分娩，研究人员已获得FDA批准，将在人体临床试验中进行测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radiografía de tórax para\npredecir la disfunción cardíaca",
-          "body": "El Hospital Severance de Yongin desarrolló una AI que predice la disfunción cardíaca solo con rayos X de tórax.",
-          "mini_headline": "Rayos X predicen disfunción cardíaca",
+          "headline": "Gemelos digitales señalan\nfármacos ante el parto prematuro",
+          "body": "Stanford creó gemelos digitales inmunes del embarazo con AI para buscar fármacos existentes contra el parto prematuro.",
+          "mini_headline": "Gemelos digitales señalan fármacos contra el parto prematuro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "Un equipo de investigación dirigido por los profesores Jung In-hyun y Bae Sung-ah, del departamento de cardiología del Hospital Severance de Yongin de la Universidad Yonsei, y el profesor Yoon Duk-yong, del Departamento de Informática de Sistemas Biomédicos de la Facultad de Medicina de Yonsei, informó el día 29 que publicó recientemente un estudio en el que desarrolló y validó un modelo de inteligencia artificial (AI) que predice la probabilidad de disfunción cardíaca a partir de imágenes de radiografía de tórax (X-ray)."
+                "x": "Investigadores de Stanford Medicine crearon un modelo AI-enabled de los cambios del sistema inmunitario durante el embarazo y generaron “gemelos digitales” del sistema inmunitario de cada embarazada para hacer pruebas virtuales de fármacos. El estudio se publicó en línea el 21 de octubre en Science Advances."
               },
               {
                 "t": "p",
-                "x": "La fracción de eyección del ventrículo izquierdo (LVEF) suele medirse mediante ecocardiografía, pero al requerir equipos y personal especializado capacitado, resultaba difícil de realizar en centros médicos pequeños. El equipo desarrolló y comparó dos modelos: el aprendizaje profundo directo (DDL) y el aprendizaje profundo híbrido (HDL), que utiliza los resultados de análisis de la AI de lectura de imágenes Lunit INSIGHT CXR."
+                "x": "El sistema, llamado SIMCO (modelado inmunitario simulado de resultados clínicos), se entrenó con las respuestas de un cuarto de mil millones de células y datos longitudinales de 63 embarazos, y luego se usó para evaluar nueve pautas farmacológicas cuya seguridad en el embarazo ya se conocía."
               },
               {
                 "t": "p",
-                "x": "Para el desarrollo del modelo se usaron datos de 1만152 pacientes del Hospital Severance de Yongin; para la validación prospectiva, 505 pacientes que acudieron a urgencias o a consulta externa por disnea; y para la validación externa, datos de 3657 pacientes del Hospital de la Universidad Nacional de Seúl."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
+                "x": "La combinación ganadora fue aspirina y lansoprazol. “En el sistema de gemelos digitales, estos dos fármacos combinados tuvieron un gran efecto en el retraso del parto, 15 veces mayor que la aspirina sola”, dijo el autor sénior, Brice Gaudilliere. También se observó que el ácido fólico retrasa la progresión inmunológica hacia el parto."
               },
               {
                 "t": "p",
-                "x": "El AUROC del modelo HDL fue de 0.85, superior al 0.61 del modelo DDL. En la validación prospectiva, el modelo HDL obtuvo 0.85 y el modelo DDL 0.57, y el AUROC de validación externa del modelo HDL fue de 0.73. El modelo HDL mostró una especificidad del 90~97% y un valor predictivo negativo del 91~98%."
-              },
-              {
-                "t": "p",
-                "x": "Los profesores Jung In-hyun y Bae Sung-ah afirmaron: \"Tras una validación clínica adicional, esperamos que pueda utilizarse como herramienta de apoyo para identificar a pacientes con sospecha de disfunción cardíaca en urgencias o en centros médicos con acceso limitado a la ecocardiografía\". Los resultados se publicaron en la revista internacional Scientific Reports."
+                "x": "La combinación retrasó el parto en un modelo animal, y los investigadores obtuvieron la aprobación de la FDA para probarla en un ensayo clínico en humanos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "胸部X線で\n心機能低下を予測",
-          "body": "龍仁セブランス病院が、胸部X線だけで心機能の低下を予測するAIを開発した。",
-          "mini_headline": "X線で心機能低下を予測",
+        "ko": {
+          "headline": "면역 디지털 트윈,\n조산 막을 약 찾는다",
+          "body": "Stanford가 AI 임신 면역 디지털 트윈으로 조산 막을 기존 약을 찾는다.",
+          "mini_headline": "디지털 트윈이 짚은 조산 약물",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "延世大学龍仁セブランス病院循環器内科のチョン・インヒョン教授、ペ・ソンア教授と、延世大学医学部医生命システム情報学教室のユン・ドギョン教授の研究チームは、胸部エックス線（X-ray）画像から心機能低下の可能性を予測する人工知能（AI）モデルを開発し、その性能を検証した研究結果を最近発表したと29日に明らかにした。"
+                "x": "Stanford Medicine 연구진은 임신 중 면역계 변화를 담은 AI-enabled 모델을 만들어, 임신부 개개인의 면역계를 본뜬 “디지털 트윈”으로 가상 약물 시험을 할 수 있게 했다. 연구는 Oct. 21 Science Advances에 온라인으로 실렸다."
               },
               {
                 "t": "p",
-                "x": "左室駆出率（LVEF）は通常、心エコー検査で測定するが、検査機器と熟練した専門人材が必要なため、小規模な医療機関では実施が難しかった。研究チームは、直接ディープラーニング（DDL）と、画像読影AI「Lunit INSIGHT CXR」の解析結果を活用するハイブリッド・ディープラーニング（HDL）の二つのモデルを開発し、比較した。"
+                "x": "SIMCO(임상 결과의 시뮬레이션 면역 모델링)라는 이 시스템은 이억오천만 개 세포의 반응과 임신 63건의 종단 데이터로 학습한 뒤, 임신 중 안전하다고 이미 알려진 아홉 가지 약물 요법을 평가하는 데 쓰였다."
               },
               {
                 "t": "p",
-                "x": "モデル開発には龍仁セブランス病院の患者1万152人のデータを、前向き検証には呼吸困難で救急外来または外来を受診した患者505人を、外部検証にはソウル大学病院の患者3657人のデータを用いた。"
+                "x": "가장 효과적인 조합은 아스피린과 란소프라졸이었다. 책임저자 Brice Gaudilliere는 “디지털 트윈 시스템에서 두 약물을 함께 쓰자 분만 지연 효과가 컸고, 아스피린 단독보다 15배 높았다”고 말했다. 엽산도 분만을 향한 면역학적 진행을 늦추는 것으로 나타났다."
               },
+              {
+                "t": "p",
+                "x": "이 조합은 동물 모델에서 분만을 늦췄고, 연구진은 사람 대상 임상시험을 위한 FDA 승인을 받았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "免疫デジタルツインが\n早産を防ぐ薬を示す",
+          "body": "StanfordはAIで妊娠時の免疫変化をデジタルツイン化し、早産を防ぎうる既存薬を探す。",
+          "mini_headline": "デジタルツインが早産の薬を示す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "AUROCはHDLモデルが0.85で、DDLモデルの0.61を上回った。前向き検証ではHDLモデルが0.85、DDLモデルが0.57で、HDLモデルの外部検証AUROCは0.73だった。HDLモデルは特異度90~97%、陰性的中率91~98%を示した。"
+                "x": "Stanford Medicineの研究チームは、妊娠中の免疫系の変化をとらえるAI-enabledモデルを構築し、個々の妊婦の免疫系の「デジタルツイン」を作って仮想的な薬剤試験を可能にした。研究はOct. 21、Science Advancesにオンライン掲載された。"
               },
               {
                 "t": "p",
-                "x": "チョン・インヒョン教授とペ・ソンア教授は「追加の臨床検証を経て、救急外来や心エコー検査へのアクセスが限られる医療機関で、心機能低下が疑われる患者を選別する補助ツールとして活用できると期待している」と述べた。結果は国際学術誌Scientific Reports（サイエンティフィック・リポーツ）に掲載された。"
+                "x": "SIMCO(臨床転帰の模擬免疫モデリング)と呼ばれるこのシステムは、二億五千万個の細胞の反応と63件の妊娠の縦断データで学習した後、妊娠中の安全性がすでに知られている九つの薬剤レジメンの評価に使われた。"
+              },
+              {
+                "t": "p",
+                "x": "最も効果が高かった組み合わせはアスピリンとランソプラゾールだった。責任著者のBrice Gaudilliere氏は「デジタルツインシステムでは、この二つの薬の併用が分娩の遅延に大きな効果を示し、アスピリン単独の15倍だった」と述べた。葉酸にも、分娩に向けた免疫学的な進行を遅らせる作用が見つかった。"
+              },
+              {
+                "t": "p",
+                "x": "この組み合わせは動物モデルで分娩を遅らせ、研究者らはヒトでの臨床試験に向けてFDAの承認を得た。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "胸部X光片\n可预测心功能下降",
-          "body": "龙仁世福兰斯医院开发出仅凭胸部X光即可预测心功能下降的AI模型。",
-          "mini_headline": "X光预测心功能下降",
+          "headline": "免疫数字孪生\n指向防早产药物",
+          "body": "Stanford用AI构建孕期免疫变化的数字孪生，寻找可能预防早产的现有药物。",
+          "mini_headline": "数字孪生锁定早产候选药",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "延世大学龙仁世福兰斯医院心内科教授Jung In-hyun、Bae Sung-ah与延世大学医学院生物医学系统信息学教研室教授Yoon Deok-yong的研究团队29日表示，他们开发出可通过胸部X光（X-ray）影像预测心功能下降可能性的人工智能（AI）模型，并于近期发表了验证其性能的研究成果。"
+                "x": "Stanford Medicine研究人员构建了一个AI-enabled的孕期免疫系统变化模型，为每位孕妇的免疫系统创建“数字孪生”，用于虚拟药物测试。该研究于Oct. 21在线发表于Science Advances。"
               },
               {
                 "t": "p",
-                "x": "左心室射血分数（LVEF）通常通过心脏超声检查测量，但由于需要检查设备和熟练的专业人员，规模较小的医疗机构难以开展。研究团队开发并比较了两种模型：直接深度学习（DDL），以及利用影像判读AI Lunit INSIGHT CXR分析结果的混合深度学习（HDL）。"
+                "x": "这一名为SIMCO（临床结局模拟免疫建模）的系统，基于两亿五千万个细胞的反应以及63例妊娠的纵向数据训练，随后用于评估九种已知对孕期安全的药物方案。"
               },
               {
                 "t": "p",
-                "x": "模型开发使用了龙仁世福兰斯医院1万152名患者的数据，前瞻性验证纳入了因呼吸困难前往急诊或门诊就诊的505名患者，外部验证使用了首尔大学医院3657名患者的数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
+                "x": "效果最好的组合是阿司匹林和兰索拉唑。“在数字孪生系统中，这两种药物联用对延迟分娩效果显著，是单用阿司匹林的15倍，”资深作者Brice Gaudilliere说。研究还发现，叶酸也能延缓走向分娩的免疫进程。"
               },
               {
                 "t": "p",
-                "x": "HDL模型的AUROC为0.85，高于DDL模型的0.61。在前瞻性验证中，HDL模型为0.85，DDL模型为0.57；HDL模型的外部验证AUROC为0.73。HDL模型的特异度为90~97%，阴性预测值为91~98%。"
-              },
-              {
-                "t": "p",
-                "x": "Jung In-hyun、Bae Sung-ah教授表示：“希望经过进一步临床验证后，它能在急诊室或心脏超声检查可及性较低的医疗机构中，作为筛查疑似心功能下降患者的辅助工具。”研究结果发表于国际学术期刊《科学报告》（Scientific Reports）。"
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Chest X-ray AI predicts\nreduced heart function",
-          "body": "Yongin Severance Hospital has developed an AI that predicts reduced heart function from chest X-rays alone.",
-          "mini_headline": "X-ray predicts reduced heart function",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
-              },
-              {
-                "t": "p",
-                "x": "A research team led by professors Jung In-hyun and Bae Sung-ah of the cardiology department at Yonsei University Yongin Severance Hospital and professor Yoon Duk-yong of the Department of Biomedical Systems Informatics at Yonsei University College of Medicine said on the 29th that it had recently published a study developing and validating an artificial intelligence (AI) model that predicts the likelihood of reduced heart function from chest X-ray images."
-              },
-              {
-                "t": "p",
-                "x": "Left ventricular ejection fraction (LVEF) is usually measured by echocardiography, but because it requires equipment and skilled specialists, it has been hard to perform at smaller medical institutions. The team developed and compared two models: direct deep learning (DDL) and hybrid deep learning (HDL), which uses analysis results from the imaging AI Lunit INSIGHT CXR."
-              },
-              {
-                "t": "p",
-                "x": "Data from 1만152 patients at Yongin Severance Hospital were used for model development, 505 patients who visited the emergency room or outpatient clinic with shortness of breath for prospective validation, and data from 3657 patients at Seoul National University Hospital for external validation."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
-              },
-              {
-                "t": "p",
-                "x": "The HDL model's AUROC was 0.85, higher than the DDL model's 0.61. In prospective validation, the HDL model scored 0.85 and the DDL model 0.57, and the HDL model's external validation AUROC was 0.73. The HDL model showed specificity of 90~97% and negative predictive value of 91~98%."
-              },
-              {
-                "t": "p",
-                "x": "Professors Jung In-hyun and Bae Sung-ah said, \"After further clinical validation, we expect it could be used as an assistive tool to screen patients suspected of reduced heart function in emergency rooms or at medical institutions with limited access to echocardiography.\" The results were published in the international journal Scientific Reports."
+                "x": "该组合在动物模型中延迟了分娩，研究人员已获得FDA批准，将在人体临床试验中进行测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radiografía de tórax para\npredecir la disfunción cardíaca",
-          "body": "El Hospital Severance de Yongin desarrolló una AI que predice la disfunción cardíaca solo con rayos X de tórax.",
-          "mini_headline": "Rayos X predicen disfunción cardíaca",
+          "headline": "Gemelos digitales señalan\nfármacos ante el parto prematuro",
+          "body": "Stanford creó gemelos digitales inmunes del embarazo con AI para buscar fármacos existentes contra el parto prematuro.",
+          "mini_headline": "Gemelos digitales señalan fármacos contra el parto prematuro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/537580"
+                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
               },
               {
                 "t": "p",
-                "x": "Un equipo de investigación dirigido por los profesores Jung In-hyun y Bae Sung-ah, del departamento de cardiología del Hospital Severance de Yongin de la Universidad Yonsei, y el profesor Yoon Duk-yong, del Departamento de Informática de Sistemas Biomédicos de la Facultad de Medicina de Yonsei, informó el día 29 que publicó recientemente un estudio en el que desarrolló y validó un modelo de inteligencia artificial (AI) que predice la probabilidad de disfunción cardíaca a partir de imágenes de radiografía de tórax (X-ray)."
+                "x": "Investigadores de Stanford Medicine crearon un modelo AI-enabled de los cambios del sistema inmunitario durante el embarazo y generaron “gemelos digitales” del sistema inmunitario de cada embarazada para hacer pruebas virtuales de fármacos. El estudio se publicó en línea el 21 de octubre en Science Advances."
               },
               {
                 "t": "p",
-                "x": "La fracción de eyección del ventrículo izquierdo (LVEF) suele medirse mediante ecocardiografía, pero al requerir equipos y personal especializado capacitado, resultaba difícil de realizar en centros médicos pequeños. El equipo desarrolló y comparó dos modelos: el aprendizaje profundo directo (DDL) y el aprendizaje profundo híbrido (HDL), que utiliza los resultados de análisis de la AI de lectura de imágenes Lunit INSIGHT CXR."
+                "x": "El sistema, llamado SIMCO (modelado inmunitario simulado de resultados clínicos), se entrenó con las respuestas de un cuarto de mil millones de células y datos longitudinales de 63 embarazos, y luego se usó para evaluar nueve pautas farmacológicas cuya seguridad en el embarazo ya se conocía."
               },
               {
                 "t": "p",
-                "x": "Para el desarrollo del modelo se usaron datos de 1만152 pacientes del Hospital Severance de Yongin; para la validación prospectiva, 505 pacientes que acudieron a urgencias o a consulta externa por disnea; y para la validación externa, datos de 3657 pacientes del Hospital de la Universidad Nacional de Seúl."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/537581"
+                "x": "La combinación ganadora fue aspirina y lansoprazol. “En el sistema de gemelos digitales, estos dos fármacos combinados tuvieron un gran efecto en el retraso del parto, 15 veces mayor que la aspirina sola”, dijo el autor sénior, Brice Gaudilliere. También se observó que el ácido fólico retrasa la progresión inmunológica hacia el parto."
               },
               {
                 "t": "p",
-                "x": "El AUROC del modelo HDL fue de 0.85, superior al 0.61 del modelo DDL. En la validación prospectiva, el modelo HDL obtuvo 0.85 y el modelo DDL 0.57, y el AUROC de validación externa del modelo HDL fue de 0.73. El modelo HDL mostró una especificidad del 90~97% y un valor predictivo negativo del 91~98%."
-              },
-              {
-                "t": "p",
-                "x": "Los profesores Jung In-hyun y Bae Sung-ah afirmaron: \"Tras una validación clínica adicional, esperamos que pueda utilizarse como herramienta de apoyo para identificar a pacientes con sospecha de disfunción cardíaca en urgencias o en centros médicos con acceso limitado a la ecocardiografía\". Los resultados se publicaron en la revista internacional Scientific Reports."
+                "x": "La combinación retrasó el parto en un modelo animal, y los investigadores obtuvieron la aprobación de la FDA para probarla en un ensayo clínico en humanos."
               }
             ]
           }

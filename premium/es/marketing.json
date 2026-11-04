@@ -3301,6 +3301,134 @@
           "x": "Performance Max también incorpora segmentación por edad y género, informes de términos de búsqueda y de subastas (auction insights), y pilotos de exclusiones de audiencia; los informes de páginas de destino por término de búsqueda empiezan a desplegarse a mid-November (mediados de noviembre). La Conversions API ya está disponible de forma general, con socios como Adobe Real-Time CDP, Segment by Twilio, Tealium y Zeotap."
         }
       ]
+    },
+    "marketing/digiday-google-ai-search-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/03/google-pitch-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 28 de octubre, Alphabet, la matriz de Google, informó que sus consultas de búsqueda crecían al ritmo anual más rápido en cinco años, con ingresos totales del Q3 cercanos a $127.6B, un 25% más que el año anterior."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, un análisis más profundo revela una tendencia más preocupante: más gente busca, pero las experiencias de búsqueda AI-driven de Google aún no generan ingresos publicitarios al mismo ritmo que la búsqueda convencional. Los ingresos de \"Search & other\" subieron un 12%, hasta $63.35B, y el director de negocios, Philipp Schindler, reconoció que la monetización comparativamente limitada de AI Mode había contribuido a la desaceleración."
+        },
+        {
+          "t": "p",
+          "x": "Las acciones de Alphabet cayeron aproximadamente un 12.6% el 29 de octubre y borraron cerca de $500B en valor de mercado. Sundar Pichai dijo a los analistas que las consultas de AI Mode son, en promedio, tres veces más largas que las búsquedas tradicionales, y que aproximadamente una de cada cinco incluye voz, imágenes o documentos."
+        },
+        {
+          "t": "p",
+          "x": "Los directivos insinuaron que Google está ampliando la publicidad dentro de AI Mode a nivel internacional e introduciendo anuncios de varios turnos en U.S. Mientras tanto, los ingresos de Google Network subieron un modesto 1.4%, y los costos de adquisición de tráfico alcanzaron $16.4B."
+        }
+      ]
+    },
+    "marketing/sej-shopify-claude-shopping-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png"
+        },
+        {
+          "t": "p",
+          "x": "Tres modelos de Claude eligieron 1,980 veces entre los mismos 20 productos de Shopify y nunca coincidieron en el producto principal. Cada búsqueda se ejecutó una vez a través de Shop MCP, la conexión que Shopify abrió a los agentes de AI el 13 de octubre, y los modelos fueron Claude Haiku 4.5, Sonnet 5 y Opus 5."
+        },
+        {
+          "t": "p",
+          "x": "En las seis búsquedas de productos, el producto más elegido por los tres modelos no coincidió en ninguna. Cada modelo fue coherente consigo mismo: el producto más elegido por Sonnet se llevó en promedio el 94% de sus elecciones; el de Opus, el 89%, y el de Haiku, el 67%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-grid-471.png"
+        },
+        {
+          "t": "p",
+          "x": "Haiku y Sonnet eligieron el producto con más reseñas, entre ellos una botella de agua listada con 5.0 estrellas a partir de 447,221 reseñas, unas 68 veces la cifra que muestra la página de producto de nobl. En 222 de sus 300 elecciones, Opus 5 calificó su opción de \"safe\" (segura) o \"safest\" (la más segura)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-safe-6.png"
+        },
+        {
+          "t": "p",
+          "x": "Mover el producto principal del catálogo del primer al último lugar hizo que los modelos casi dejaran de elegirlo en algunas búsquedas, y en 480 justificaciones ninguna mencionó la posición del producto en la lista. Cuando la solicitud añadió \"menos de $25, para piel grasa\", los modelos eligieron un protector solar de menos de $25 en 298 de 300 elecciones."
+        }
+      ]
+    },
+    "marketing/ppcland-google-ai-query-length": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El pódcast Ads Decoded de Google publicó el 28 de octubre un episodio de 25-minute en el que Shivani Mohan, vicepresidenta de Ciencia de Datos e Investigación de Experiencia de Usuario de Búsqueda en Google, dijo que la longitud de las consultas \"ha aumentado 3x\" y que \"una de cada seis búsquedas es multimodal\"."
+        },
+        {
+          "t": "p",
+          "x": "La presentadora, Ginny Marvin, enlace de producto de anuncios de Google, dijo que los anuncios en AI Mode y AI Overviews se \"emparejan tanto con la consulta como con el contenido de la respuesta de la AI\", y remitió a los minoristas a seis campos opcionales de datos de producto, los nuevos atributos conversacionales de Merchant Center."
+        },
+        {
+          "t": "p",
+          "x": "Ninguna de las dos cifras vino acompañada de un mercado, un periodo o una referencia. El informe de Google del 19 de mayo situaba la consulta media en AI Mode en tres veces la longitud de una búsqueda tradicional y decía que más de una de cada seis búsquedas en AI Mode en Estados Unidos (United States) eran multimodales. Ninguna de las dos mencionó AI Mode ni Estados Unidos al dar las cifras."
+        },
+        {
+          "t": "p",
+          "x": "Mohan dijo que las consultas están \"subiendo en el embudo\", y Marvin pidió a los anunciantes recalibrar la búsqueda \"fuera de la acción de último clic\". El episodio no ofreció datos de rendimiento de los anuncios en ninguna de las dos superficies de AI: ni tasas de clics, ni tasas de conversión, ni una comparación de costos con los anuncios de la página de resultados estándar."
+        }
+      ]
+    },
+    "marketing/retaildive-ai-recs-returns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/iKMVyWYQ4z3_JFG5DayuO4DrSYsGLclSkA_ngMWVPfw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ5MzM2NzkyX0RPaHZuY0UuanBn.webp"
+        },
+        {
+          "t": "p",
+          "x": "Casi una cuarta parte de los consumidores de U.S. ha comprado un producto a partir de una recomendación de AI. De ellos, casi la mitad (46%) ha devuelto un artículo en el último año, según una encuesta de Blue Yonder. Los motivos más comunes fueron que era distinto a lo descrito (36%) o que la talla o el ajuste no eran correctos (23%)."
+        },
+        {
+          "t": "p",
+          "x": "Aunque la talla o el ajuste incorrectos son el factor más común de las devoluciones en U.S. en general (42%), el problema citado con más frecuencia en los productos AI-recommended es que el artículo no está a la altura de su descripción."
+        },
+        {
+          "t": "p",
+          "x": "\"En realidad no es un problema de AI. Es un problema de datos\", dijo Duncan Angove, CEO de Blue Yonder. \"Un asistente de AI es tan bueno como la información de producto que puede encontrar, y la mayoría de los datos de producto se escribieron para una barra de búsqueda, no para una máquina que sugiere productos a alguien\"."
+        },
+        {
+          "t": "p",
+          "x": "De los 2,000 compradores de U.S. encuestados, el 43% de la Gen Z compró un producto a partir de una recomendación de AI, frente al 36% de los millennials, el 19% de la Gen X y el 9% de los baby boomers. Más de la mitad (51%) dijo haber elegido un minorista en lugar de otro solo por una mejor política de devoluciones."
+        }
+      ]
+    },
+    "marketing/sej-chatgpt-ad-revenue-per-visit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En el tráfico de U.S., una visita procedente de un anuncio de ChatGPT generó $0.89 de ingresos, frente a $2.45 de una visita desde un anuncio de búsqueda pagada de Google, según un documento de trabajo de Maximilian Kaiser y Christian Schulze. Sus cifras de anuncios pagados proceden de 102 sitios de anunciantes con seguimiento completo de ventas."
+        },
+        {
+          "t": "p",
+          "x": "Las visitas desde anuncios de ChatGPT convirtieron al 0.37 por ciento, frente al 1.17 por ciento de la búsqueda pagada. De los 87 anunciantes que compraron ambos, 84 obtuvieron menos ingresos por visita de anuncio de ChatGPT; 73 tuvieron cero ventas con sus anuncios de ChatGPT, mientras que los 14 restantes generaron las 570 compras atribuidas a anuncios de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Con la tasa de retorno de la búsqueda pagada, los autores valoran un clic en un anuncio de ChatGPT en unos $0.26 (un rango remuestreado de $0.05 a $0.57). La mayor cuenta conocida públicamente pagó $1.72 por clic, más de seis veces el precio de paridad."
+        },
+        {
+          "t": "p",
+          "x": "Las referencias orgánicas de ChatGPT cayeron un estimado de 6%–8% tras la llegada de los anuncios. Los datos del estudio terminan el 22 de agosto; desde entonces, OpenAI ha ampliado ChatGPT Ads a 89 países y afirma que más de 100,000 anunciantes han lanzado campañas."
+        }
+      ]
     }
   }
 }

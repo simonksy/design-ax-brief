@@ -1,101 +1,168 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "science",
   "items": [
     {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
       "tool": "Science",
-      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
-      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-11-02T09:40:10-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-      "excerpt": "University of Osaka researchers built an automated robotic platform that records antisolvent droplet behavior during perovskite film fabrication; machine learning sorted the variables to find an optimal processing window, yielding a 24.4%-efficient cell (ACS Nano).",
-      "rationale": "Fresh (11-02) self-driving-lab materials result with a concrete number (24.4% cell), peer-reviewed in ACS Nano."
+      "subtopic": "research_automation",
+      "rationale": "Primary-source release: DeepMind's Cheminformatics Skills let an agent go from literature mining to matched-pair analysis and macrocycle proposals with synthesis routes in about an hour. A new tool that changes how lab work is done.",
+      "published_iso": "2026-11-03T15:00:00Z",
+      "og_image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw",
+      "excerpt": "DeepMind's Cheminformatics Skills for Google Antigravity let an agent retrieve thousands of literature compounds, curate 568 into an interactive viewer, run matched-molecular-pair analysis and propose rigidified macrocycles with synthesis routes in about an hour. The post stresses designs still need experimental validation."
     },
     {
+      "title": "Tell this AI what you want a protein to do—and it designs one",
+      "url": "https://phys.org/news/2026-11-ai-protein.html",
+      "source": "Phys.org",
       "tool": "Science",
-      "category": "science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Humanoid AI connects walking and object handling without demonstrations of complete task sequences",
-      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
+      "subtopic": "life_science",
+      "rationale": "Nature paper: Westlake's Pinal turns plain-language function descriptions into protein sequences, with wet-lab hit rates reported (best H-protein 1.7x natural). A different model and lab from the 10-24 Nvidia/UW story.",
+      "published_iso": "2026-11-03T12:40:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+      "excerpt": "Westlake University's Pinal model (Nature) turns plain-language descriptions into protein sequences via structural blueprints; 1 of 29 fluorescent candidates glowed and 5 of 20 H-protein candidates worked, the best boosting carbon-fixation output 1.7x over the natural E. coli protein."
+    },
+    {
+      "title": "Leading AI models are biased against certain accents when scoring interviews, presentations and tests",
+      "url": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-11-02T16:00:26-05:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-      "excerpt": "Seoul National University's RISE vision-language-action model learns locomotion and manipulation from separately collected data and chains them into multistep tasks, scoring 87.3% vs 73.6% for a GR00T baseline in simulation and 50% vs 30% on a real Unitree G1 (IROS 2026).",
-      "rationale": "New robotics-learning method (IROS 2026) with sim and real-robot benchmarks against GR00T; distinct from the Gemini 4 Argon robotics card."
-    },
-    {
       "tool": "Science",
-      "category": "science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
-      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-28T07:00:08-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-      "excerpt": "Oxford chemists used machine-learning-driven atomistic simulations with quantum-mechanical accuracy to follow PVDC as it is heated, showing how five- and seven-membered carbon rings form and keep the material from ordering into graphite (Chemical Science) — relevant to battery anode hard carbon.",
-      "rationale": "ML interatomic potentials explaining a real materials mechanism (hard-carbon anodes); pure chemistry, peer-reviewed."
-    },
-    {
-      "tool": "Science",
-      "category": "science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery",
-      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery",
-      "source": "Quantum Computing Report",
-      "published_iso": "2026-10-29T02:12:19+00:00",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png",
-      "excerpt": "University of Gothenburg and Chalmers researchers built a modular graph-neural-network decoder for surface-code quantum error correction that handles both memory and lattice-surgery operations and outperforms traditional decoders.",
-      "rationale": "Separate research group and architecture (GNN, lattice surgery) from the published Yonsei Mamba decoder; adds the quantum axis."
+      "subtopic": "cognition",
+      "rationale": "EMNLP 2026 study with a clean controlled design: the same AI-voiced answers in five accents, and four audio LMs rank Chinese and Nigerian accents lowest. A new, concrete bias finding about audio models.",
+      "published_iso": "2026-11-03T17:20:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+      "excerpt": "University of Washington researchers (EMNLP 2026) tested four audio language models on identical AI-voiced answers in American, British, Chinese, Indian and Nigerian accents; models ranked Chinese and Nigerian accents lowest even when content and transcription were identical."
     },
     {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://allenai.org/blog/statebench",
+      "source": "Ai2",
       "tool": "Science",
-      "category": "science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Sentira Brings Claude's AI to 10x Genomics' Chromium Platform",
-      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/",
-      "source": "GEN",
-      "published_iso": "2026-11-02T15:08:21Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg",
-      "excerpt": "10x Genomics launched Sentira, an Anthropic Claude-powered AI platform designed to accelerate analysis of single-cell data from its Chromium instruments.",
-      "rationale": "Product launch that changes how single-cell biologists analyze data tomorrow; research-tool, not patient-facing."
+      "subtopic": "cognition",
+      "rationale": "New primary-source benchmark: frontier models drop to 13% or lower on long state-tracking, while small trained Gated DeltaNet/hybrid models generalize. A new release with a sharp, quotable result.",
+      "published_iso": "2026-11-03T00:00:00Z",
+      "og_image": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png",
+      "excerpt": "Ai2's StateBench tests entity-state tracking over long inputs at four difficulty levels; frontier models fall to 13% accuracy or lower on the longest general problems, while small Gated DeltaNet and hybrid models trained on the task generalize to tens of thousands of assignments."
+    },
+    {
+      "title": "Machine learning helps track semiconductor defects under more realistic temperature conditions",
+      "url": "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html",
+      "source": "Phys.org",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "subtopic": "materials",
+      "rationale": "Adds a materials-science pick: Chalmers (npj Computational Materials) uses ML to make temperature-dependent defect-level calculations feasible and finds shifts that absolute-zero models miss.",
+      "published_iso": "2026-10-29T16:50:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+      "excerpt": "Chalmers researchers (npj Computational Materials) used machine learning to make temperature-dependent defect-level calculations feasible, finding significant shifts that absolute-zero models miss."
+    }
+  ],
+  "picks": [
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "tool": "Science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "subtopic": "research_automation",
+      "rationale": "Primary-source release: DeepMind's Cheminformatics Skills let an agent go from literature mining to matched-pair analysis and macrocycle proposals with synthesis routes in about an hour. A new tool that changes how lab work is done.",
+      "published_iso": "2026-11-03T15:00:00Z",
+      "og_image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw",
+      "excerpt": "DeepMind's Cheminformatics Skills for Google Antigravity let an agent retrieve thousands of literature compounds, curate 568 into an interactive viewer, run matched-molecular-pair analysis and propose rigidified macrocycles with synthesis routes in about an hour. The post stresses designs still need experimental validation."
+    },
+    {
+      "title": "Tell this AI what you want a protein to do—and it designs one",
+      "url": "https://phys.org/news/2026-11-ai-protein.html",
+      "source": "Phys.org",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "subtopic": "life_science",
+      "rationale": "Nature paper: Westlake's Pinal turns plain-language function descriptions into protein sequences, with wet-lab hit rates reported (best H-protein 1.7x natural). A different model and lab from the 10-24 Nvidia/UW story.",
+      "published_iso": "2026-11-03T12:40:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+      "excerpt": "Westlake University's Pinal model (Nature) turns plain-language descriptions into protein sequences via structural blueprints; 1 of 29 fluorescent candidates glowed and 5 of 20 H-protein candidates worked, the best boosting carbon-fixation output 1.7x over the natural E. coli protein."
+    },
+    {
+      "title": "Leading AI models are biased against certain accents when scoring interviews, presentations and tests",
+      "url": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html",
+      "source": "Tech Xplore",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "subtopic": "cognition",
+      "rationale": "EMNLP 2026 study with a clean controlled design: the same AI-voiced answers in five accents, and four audio LMs rank Chinese and Nigerian accents lowest. A new, concrete bias finding about audio models.",
+      "published_iso": "2026-11-03T17:20:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+      "excerpt": "University of Washington researchers (EMNLP 2026) tested four audio language models on identical AI-voiced answers in American, British, Chinese, Indian and Nigerian accents; models ranked Chinese and Nigerian accents lowest even when content and transcription were identical."
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://allenai.org/blog/statebench",
+      "source": "Ai2",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "subtopic": "cognition",
+      "rationale": "New primary-source benchmark: frontier models drop to 13% or lower on long state-tracking, while small trained Gated DeltaNet/hybrid models generalize. A new release with a sharp, quotable result.",
+      "published_iso": "2026-11-03T00:00:00Z",
+      "og_image": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png",
+      "excerpt": "Ai2's StateBench tests entity-state tracking over long inputs at four difficulty levels; frontier models fall to 13% accuracy or lower on the longest general problems, while small Gated DeltaNet and hybrid models trained on the task generalize to tens of thousands of assignments."
+    },
+    {
+      "title": "Machine learning helps track semiconductor defects under more realistic temperature conditions",
+      "url": "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html",
+      "source": "Phys.org",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "subtopic": "materials",
+      "rationale": "Adds a materials-science pick: Chalmers (npj Computational Materials) uses ML to make temperature-dependent defect-level calculations feasible and finds shifts that absolute-zero models miss.",
+      "published_iso": "2026-10-29T16:50:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+      "excerpt": "Chalmers researchers (npj Computational Materials) used machine learning to make temperature-dependent defect-level calculations feasible, finding significant shifts that absolute-zero models miss."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html": {
+      "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
+        "nearest": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html": {
+      "https://phys.org/news/2026-11-ai-protein.html": {
         "verdict": "new",
-        "nearest": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+        "nearest": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html": {
+      "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html",
+        "nearest": "https://techxplore.com/news/2026-10-gay-ai-people-stereotypical-straight.html",
         "new_action": ""
       },
-      "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery": {
+      "https://allenai.org/blog/statebench": {
         "verdict": "new",
-        "nearest": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
+        "nearest": "https://allenai.org/blog/fairstress",
         "new_action": ""
       },
-      "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/": {
+      "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html": {
         "verdict": "new",
-        "nearest": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
+        "nearest": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Live Science '10 minutes AI assistance erodes motivation' (same study as 10-10 EurekAlert card 1147258); Physics World optical deepfake detector (likely the same light-based low-energy network as 10-13 Tech Xplore 'Offloading part of the computational burden onto light'). Skipped on fit/quality: FAU quantum ML lung-cancer prediction (clinic-facing, medicine), Parse/Nomic dataset (business), Live Science 'could AI build itself' and SciAm voice-clone explainer and Psychology Today blog (commentary/evergreen), MIT profiles/Q&A, DeepMind Minecraft agents (Oct 20, games-adjacent), Pritzker prize (award; AI-antibiotic work leans medicine), ZenBio enzyme platform and empathy study (outlet/topic diversity; enzyme card ran 11-02). Cross-section check: published_urls.json is too large to scan fully with Read-only tools (3,843 lines); orchestrator should exact-grep the 5 picked URLs and 'Sentira' across all sections before roll."
+    "note": "Pool of 19, no cluster ids. Checked every candidate against the 30-day history_digest and all sections of published_urls.json (exact URL match): no candidate URL has been published in any section. history_match review: the Pinal protein story (related to the 10-24 Nvidia/UW protein model) is a different model, lab and paper, so it is new. GAP (npj, related to the 10-22 NZ downpours) is also a different story, but I left it out because nature.com is deliberately excluded from the science domain list. The Physics World astrobiology feature (related to 11-02 enzymes) is a different topic, but it is an evergreen feature, so I left it out. Excluded: FAU quantum ML lung-cancer prediction (clinical, belongs to medicine); FirstQFM (company claim about a financial-forecasting benchmark); Parse/Nomic dataset (vendor/business); Live Science 'could AI build itself' (evergreen, same theme as the 08-20 MIT TR recursive self-improvement story); SciAm voice-clone explainer (evergreen how-to); MIT TR mechanism-design piece (analysis); Pritzker prize (award; MIT News is not on the science domain list). Not picked for diversity: sycophancy, AI companions, empathy paradox (a third and fourth LLM-behaviour item would have stacked up next to accent bias and StateBench), olmOCR archives, deepfake light detection (10-21, older). Outlets: DeepMind 1, Phys.org 2, Tech Xplore 1, Ai2 1."
   }
 }

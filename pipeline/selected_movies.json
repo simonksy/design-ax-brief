@@ -1,106 +1,106 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "movies",
   "items": [
     {
+      "rank": 1,
+      "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Edgar Wright Says New AI Remaster of Cult TV Comedy 'Spaced' Is a 'Bummer': 'Not Authorized by Anyone Involved in Making the Show'",
-      "headline": "Edgar Wright Says New AI Remaster of Cult TV Comedy 'Spaced' Is a 'Bummer': 'Not Authorized by Anyone Involved in Making the Show'",
-      "url": "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/",
+      "url": "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/",
       "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-11-02T14:23:27+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-      "excerpt": "A new AI-upscaled 4K Blu-ray release of the cult British comedy Spaced has sparked backlash, with director Edgar Wright saying the AI remaster was not authorized by anyone involved in making the show.",
-      "rationale": "A new event: a commercial AI-upscaled 4K release that the director publicly says nobody who made the show approved. It is the clearest case yet of AI restoration done without creator consent."
+      "published_iso": "2026-11-03T18:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+      "excerpt": "Netflix is introducing AI Discover, a new tab on its TV app that lets subscribers explore titles through AI-generated themes such as \"Something Light\" or \"Scare Me\", a test bed for conversational discovery.",
+      "rationale": "New product launch: the biggest streamer puts AI-generated mood themes in front of viewers on TVs. Variety kept over the Verge copy of the same story (cluster c0)."
     },
     {
+      "rank": 2,
+      "title": "Expression Sheet - Luma",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "영화 각본도 챗GPT가 쓴다…일본, 전편 생성형 AI 장편영화 2027년 공개",
-      "headline": "영화 각본도 챗GPT가 쓴다…일본, 전편 생성형 AI 장편영화 2027년 공개",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42538",
-      "source": "인공지능신문",
-      "category": "movies",
-      "published_iso": "2026-11-02T11:41:08+09:00",
-      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-      "excerpt": "Japanese producers (Oxons, Tender Pro) announced 'Jikū Yūkaku Labyrinth', a feature made entirely with generative AI -- ChatGPT-written script, AI-recreated likenesses of three real actors, Suno theme song -- slated for 2027.",
-      "rationale": "A new production announcement: a fully generative feature with a ChatGPT-written script, licensed AI likenesses of real actors and a Suno theme. It lays out an end-to-end AI pipeline."
+      "url": "https://www.youtube.com/watch?v=MZ-1e4uYEiA",
+      "source": "Luma (YouTube)",
+      "published_iso": "2026-11-02T18:43:45-08:00",
+      "og_image": "https://i.ytimg.com/vi/MZ-1e4uYEiA/maxresdefault.jpg",
+      "excerpt": "Luma launched Expression Sheet, a feature that lets creators explore the range of a character's facial performance across many expressions before committing to a direction.",
+      "rationale": "New feature from the vendor itself (primary source). Gives AI filmmakers a way to control character performance, which they can use right away."
     },
     {
+      "rank": 3,
+      "title": "AI가 만든 '임권택 스타일' 영화 공개…대한민국예술원 영화전",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Idris Elba, Google launch free AI filmmaking programme in five African countries",
-      "headline": "Idris Elba, Google launch free AI filmmaking programme in five African countries",
-      "url": "https://www.vanguardngr.com/2026/11/idris-elba-google-launch-free-ai-filmmaking-programme-in-five-african-countries/",
-      "source": "Vanguard",
-      "category": "movies",
-      "published_iso": "2026-11-01T23:28:00+00:00",
-      "og_image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-      "excerpt": "Akuna Learning, from Idris Elba's Akuna Group, and Google opened applications for a free AI filmmaking programme with production funding for emerging creators in five African countries (applications to Nov 15).",
-      "rationale": "Actionable: a free AI filmmaking programme with production funding is taking applications now, until Nov 15. It is a new launch, not commentary."
+      "url": "https://www.yna.co.kr/view/AKR20261102043400005",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-02T09:44:03+09:00",
+      "og_image": null,
+      "excerpt": "대한민국예술원 영화전(11월 5~6일, 서울영화센터)에서 AI가 임권택 감독의 영화를 학습한 뒤 그 스타일로 연출한 단편 '확인'이 처음 공개된다. 중단편 AI 영화 우수작 8편도 상영한다.",
+      "rationale": "New event: the first public screening of a short directed by AI trained on a master director's style, with a firm date (Nov 5-6). Raises authorship and style-rights questions. No og_image, so ax-media must source one."
     },
     {
+      "rank": 4,
+      "title": "Hallmark Fans Are Furious Over The Alleged Use Of AI In New Christmas Movie",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "iQIYI opens AI film studio in Shanghai, starts first production",
-      "headline": "iQIYI opens AI film studio in Shanghai, starts first production",
-      "url": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
-      "source": "China Daily",
-      "category": "movies",
-      "published_iso": "2026-11-02T11:36:11+08:00",
-      "og_image": null,
-      "excerpt": "iQIYI opened an AI film studio at its Shanghai Creative Center and began production of its first project there, the internet feature film 'Cop in Trouble' (announced Oct 28).",
-      "rationale": "A major streamer opens a dedicated AI film stage and starts shooting its first feature there. It is production infrastructure, not a funding round."
+      "url": "https://www.tvline.com/2305320/hallmark-fans-furious-ai-christmas-movie-adopting-st-nick/",
+      "source": "TVLine",
+      "published_iso": "2026-11-03T16:00:22+00:00",
+      "og_image": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/l-intro-1793727440.jpg",
+      "excerpt": "Viewers of Hallmark's new Christmas movie 'Adopting St. Nick' say its signs and props look AI-generated, which has set off a backlash over AI use in production design.",
+      "rationale": "New audience backlash over AI-generated production-design assets. A warning for art departments about how quickly viewers spot AI props. The allegation is attributed to viewers, not confirmed."
     },
     {
+      "rank": 5,
+      "title": "“AI 영화의 벽은 생성 아닌 납품”… 무암, AI 하이브리드 제작 공정 공개",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "대전 2인 제작진의 AI 영화, 뉴욕 영화제 수상…인간이 연출하고 AI가 영상 구현",
-      "headline": "대전 2인 제작진의 AI 영화, 뉴욕 영화제 수상…인간이 연출하고 AI가 영상 구현",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42541",
-      "source": "인공지능신문",
-      "category": "movies",
-      "published_iso": "2026-11-02T12:49:54+09:00",
-      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-      "excerpt": "Daejeon two-person Studio UNMU's 11-minute AI sci-fi short 'LAST CALL' won an Honorable Mention for Best AI-Generated or Assisted Film at New York's 30th Urbanworld Film Festival; humans scripted, directed, edited and mixed while generative AI rendered the imagery.",
-      "rationale": "A new festival honour for a two-person Korean team, with a clear split of the work: humans scripted, directed, edited and mixed, and AI rendered the images. A practical model for small crews."
+      "url": "https://www.etnews.com/20261103000300",
+      "source": "전자신문 (etnews)",
+      "published_iso": "2026-11-03T14:37:40+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+      "excerpt": "Korean studio Muam (director Hyun Hae-ri) demoed at AI Film Festival Japan 2026 a hybrid pipeline that turns generative-AI shots into final-delivery film cuts: plates are split into live-action vs AI regions, and VFX/DI staff share compositing, colour and mastering specs from the generation stage to fix stuttering, edge aliasing and live-action/AI colour-texture mismatch for OTT QC. Principle: 'Film with AI, not by AI'.",
+      "rationale": "Fresh (11-03) and immediately useful craft insight: how to get generative-AI shots through VFX/DI and OTT delivery QC. Covers the delivery side of the pipeline, which no earlier movies card did."
     }
   ],
   "dedup": {
     "checks": {
-      "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/": {
+      "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/": {
         "verdict": "new",
-        "nearest": "https://postperspective.com/ai-and-artistry-used-restore-lost-treasure-messiah-in-bethlehem-concert/",
+        "nearest": "https://runway.com/news/company-news/introducing-runway-app-studio",
         "new_action": ""
       },
-      "https://www.aitimes.kr/news/articleView.html?idxno=42538": {
+      "https://www.youtube.com/watch?v=MZ-1e4uYEiA": {
         "verdict": "new",
-        "nearest": "https://www.globaltimes.cn/page/202610/1372724.shtml",
+        "nearest": "https://lumalabs.ai/news/Luma-Claude-Motion-Launch-Partnership",
         "new_action": ""
       },
-      "https://www.vanguardngr.com/2026/11/idris-elba-google-launch-free-ai-filmmaking-programme-in-five-african-countries/": {
+      "https://www.yna.co.kr/view/AKR20261102043400005": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
+        "nearest": "https://www.aitimes.kr/news/articleView.html?idxno=42541",
         "new_action": ""
       },
-      "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html": {
+      "https://www.tvline.com/2305320/hallmark-fans-furious-ai-christmas-movie-adopting-st-nick/": {
         "verdict": "new",
-        "nearest": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+        "nearest": "https://variety.com/2026/film/news/merry-the-christmas-witch-ai-film-80-million-1-5-million-1236905721/",
         "new_action": ""
       },
-      "https://www.aitimes.kr/news/articleView.html?idxno=42541": {
+      "https://www.etnews.com/20261103000300": {
         "verdict": "new",
-        "nearest": "https://www.news1.kr/life-culture/general-cultural/6335398",
+        "nearest": "https://www.news1.kr/entertain/broadcast-tv/6337749",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates/follow-ups: cluster c1 (Variety 'Cate Blanchett-backed group files brief' + Deadline 'WME joins NYT v OpenAI') - more amicus briefs in the same NYT v OpenAI fair-use fight published 11-02 via the SAG-AFTRA/WGA/AFM brief (same filing day, Oct 30), no new ruling; Cartoon Brew Sanxingdui week-2 box office - follow-up on the 10-27 flop story (and 10-23 Global Times), only updated grosses, no new event; CorridorKey 2.0 (Corridor Crew) - same product already published 10-17 ('CorridorKey 2.0 just works...'). Skipped on merit: View Conference AI pitches (Cartoon Brew opinion on an event already covered 10-14/10-16/10-21), After Effects Portal October (monthly roundup; EffectCraft already ran 10-19), Adobe MAX preview (event preview, no release), AI Film Festival Japan (no image, grand prix not named; also related to the 10-11 Kazakhstan festival card). Cross-section check: published_urls.json (3.8k lines) was too large to read whole and no grep tool was available, so cross-section exact-grep was NOT completed for the 5 picks. None of the history_digest entries match. The orchestrator should grep 'edgar-wright-ai-remaster', 'idxno=42538', 'idxno=42541', 'idris-elba-google', and 'WS6ae8052ce4b06d4aa0566723' (plus 'Spaced', 'iQIYI', 'Akuna') before roll. Outlets: 인공지능신문 2, Variety 1, Vanguard 1, China Daily 1 (3 of 5 off-whitelist; the on-list pool was thin after dedup)."
+    "note": "Swap pass (orchestrator): removed the 80.lv Sparseal CozyBlanket Pro pick. It is the same story as design-cozyblanket-pro, published in the design section on 2026-10-15 (one story, one section). No replacement qualified, so the section ships 4 cards. Remaining pool checked: Fotor Agent (TechNode, 10-22) is a 13-day-old vendor feature that reads as promotional, so it fails the fresh/non-promotional bar. ByteDance Xiaoyunque folded into Jimeng (TechNode, 10-27) comes from the same outlet on the same date as the 10-29 ByteDance short-drama studio card, so it counts as the same running story with no new release. The Sanxingdui week-2 box office (Cartoon Brew) and the Guardian flop analysis are follow-ups to the 10-27 flop card with no new event. DuVernay '14th' (THR, 10-26) is commentary on a story covered 10-19, and stale. Excluded per the orchestrator for cross-section clashes with music: iZotope Photon (postPerspective/PVC, c6), Disney/OpenArt lyric videos, and all NYT v. OpenAI amicus filings (CAA/Lourd, WME, Human Consent Foundation/Blanchett), which also continue the 11-02 SAG-AFTRA/WGA/AFM brief story. Earlier drop: The Verge Netflix AI Discover (same story as the Variety pick, cluster c0). Cross-section caveat (unchanged): before roll, exact-grep the yna.co.kr URL in published_urls.json, and check today's gadgets picks for a clash with Netflix AI Discover. Recovery pass (11-04): added etnews Muam hybrid delivery pipeline (11-03) as pick 5. It is not the same event as the 10-30 news1 KNUA 'Ticket to Neverland' Japan-festival entry or the 11-02 news1 cost-savings piece. Skipped from the recovery pool: Deadline Flawless tech sale (pure business deal), DELINE PRIME 117-min AI anime (10-21, stale at the edge of the window; 'first fully-AI feature' theme already covered 10-23/10-27), and Platum Hudson AI localization agent (10-26 vendor launch from MIPCOM, reads as promotional and is 9 days old). Cross-section caveat: exact-grep the etnews URL and 'Muam/무암' in published_urls.json before roll."
   }
 }

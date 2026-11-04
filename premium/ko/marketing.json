@@ -3301,6 +3301,134 @@
           "x": "Performance Max에는 연령·성별 타기팅, 검색어 및 경매 인사이트 보고서, 잠재고객 제외 파일럿도 추가된다. 검색어 랜딩 페이지 보고서는 11월 중순(mid-November)부터 배포된다. 정식 출시된 Conversions API의 파트너로는 Adobe Real-Time CDP, Segment by Twilio, Tealium, Zeotap 등이 있다."
         }
       ]
+    },
+    "marketing/digiday-google-ai-search-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/03/google-pitch-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google 모회사 Alphabet은 10월 28일 검색 질의가 다섯 해 만에 가장 빠른 연간 증가율을 보였다고 발표했다. Q3 총매출은 $127.6B 에 육박해 전년보다 25% 늘었다."
+        },
+        {
+          "t": "p",
+          "x": "속을 들여다보면 걱정스러운 흐름도 있다. 검색하는 사람은 늘었지만 Google의 AI-driven 검색 경험은 아직 기존 검색만큼 광고 수익을 내지 못한다. \"Search & other\" 매출은 12% 늘어 $63.35B 였고, 최고사업책임자 Philipp Schindler는 AI Mode의 수익화가 아직 제한적이라 둔화에 영향을 줬다고 인정했다."
+        },
+        {
+          "t": "p",
+          "x": "10월 29일 Alphabet 주가는 약 12.6% 떨어졌고, 시가총액 $500B 가까이가 증발했다. Sundar Pichai는 애널리스트들에게 AI Mode 질의가 기존 검색보다 평균 세 배 길고, 약 다섯 건 중 한 건은 음성, 이미지, 문서를 담는다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "경영진은 Google이 AI Mode 안 광고를 해외로 넓히고 U.S.에서 멀티턴 광고를 도입하는 중이라고 내비쳤다. Google Network 매출은 1.4% 느는 데 그쳤고, 트래픽 획득 비용은 $16.4B 에 달했다."
+        }
+      ]
+    },
+    "marketing/sej-shopify-claude-shopping-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude 세 모델에게 같은 Shopify 상품 20개 중에서 1,980번 고르게 했더니 가장 많이 고른 상품이 한 번도 일치하지 않았다. 검색은 Shop MCP로 각각 한 번씩 돌렸다. Shop MCP는 Shopify가 10월 13일 AI 에이전트에 연 연결 통로다. 쓰인 모델은 Claude Haiku 4.5, Sonnet 5, Opus 5다."
+        },
+        {
+          "t": "p",
+          "x": "상품 검색 여섯 가지에서 세 모델의 최다 선택 상품은 한 번도 겹치지 않았다. 모델 각자는 일관됐다. Sonnet의 최다 선택 상품은 평균 94%의 선택을 받았고 Opus는 89%, Haiku는 67%였다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-grid-471.png"
+        },
+        {
+          "t": "p",
+          "x": "Haiku와 Sonnet은 리뷰가 가장 많은 상품을 골랐다. 리뷰 447,221건에 별점 5.0으로 표시된 물병도 있었는데, nobl 상품 페이지에 나온 수의 약 68배다. Opus 5는 300번 중 222번 자기 선택을 \"safe\"(안전한) 또는 \"safest\"(가장 안전한)라고 불렀다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-safe-6.png"
+        },
+        {
+          "t": "p",
+          "x": "카탈로그 최상위 상품을 맨 앞에서 맨 뒤로 옮기자 일부 검색에서 모델들은 그 상품을 거의 고르지 않았다. 그런데 선택 이유 480개 가운데 목록 내 위치를 언급한 것은 하나도 없었다. 요청에 \"$25 미만, 지성 피부용\"을 덧붙이자 모델들은 300번 중 298번 $25 미만 선크림을 골랐다."
+        }
+      ]
+    },
+    "marketing/ppcland-google-ai-query-length": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google의 Ads Decoded 팟캐스트가 10월 28일 25-minute 분량 에피소드를 공개했다. Google 검색 부문 데이터 과학·사용자 경험 연구 부사장 Shivani Mohan은 여기서 질의 길이가 \"3x 늘었다\"며 \"검색 여섯 건 중 한 건이 멀티모달\"이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "진행을 맡은 Google 광고 제품 리에종 Ginny Marvin은 AI Mode와 AI Overviews의 광고가 \"질의와 AI 답변 내용 모두에 맞춰 매칭된다\"고 했다. 그는 리테일러들에게 Merchant Center에 새로 생긴 대화형 속성, 곧 선택형 상품 데이터 필드 여섯 가지를 소개했다."
+        },
+        {
+          "t": "p",
+          "x": "두 수치 모두 시장, 기간, 기준점 없이 나왔다. Google의 5월 19일 보고서는 AI Mode 질의 평균 길이를 기존 검색 질의의 세 배로 잡았고, 미국(United States)의 AI Mode 검색 가운데 여섯 건에 한 건 이상이 멀티모달이라고 밝혔다. 그런데 두 발언자 모두 수치를 꺼내면서 AI Mode나 미국은 언급하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Mohan은 질의가 \"퍼널 위쪽으로 이동하고 있다\"고 했고, Marvin은 광고주에게 검색을 \"라스트 클릭 액션 밖에서\" 다시 평가하라고 말했다. 에피소드에는 두 AI 화면 어느 쪽의 광고 성과 데이터도 없었다. 클릭률도, 전환율도, 일반 검색 결과 페이지 광고와의 비용 비교도 나오지 않았다."
+        }
+      ]
+    },
+    "marketing/retaildive-ai-recs-returns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/iKMVyWYQ4z3_JFG5DayuO4DrSYsGLclSkA_ngMWVPfw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ5MzM2NzkyX0RPaHZuY0UuanBn.webp"
+        },
+        {
+          "t": "p",
+          "x": "Blue Yonder 설문에서 U.S. 소비자 네 명 중 한 명 가까이가 AI 추천을 보고 상품을 산 적이 있다고 답했다. 이 가운데 절반 가까이(46%)는 지난 한 해 상품을 반품했다. 설명과 달랐다(36%), 사이즈나 핏이 맞지 않았다(23%)는 이유가 가장 흔했다."
+        },
+        {
+          "t": "p",
+          "x": "U.S. 반품 전체로 보면 사이즈나 핏 문제가 가장 흔한 요인(42%)이다. 하지만 AI-recommended 상품에서는 상품이 설명에 못 미친다는 불만이 가장 자주 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "\"그건 사실 AI 문제가 아닙니다. 데이터 문제입니다\"라고 Blue Yonder CEO Duncan Angove는 말했다. \"AI 어시스턴트는 찾을 수 있는 상품 정보만큼만 쓸모가 있는데, 대부분의 상품 데이터는 누군가에게 상품을 제안하는 기계가 아니라 검색창을 위해 쓰였습니다.\""
+        },
+        {
+          "t": "p",
+          "x": "설문에 응한 U.S. 쇼핑객 2,000명 중 AI 추천을 보고 상품을 산 비율은 Gen Z 43%, 밀레니얼 36%, Gen X 19%, 베이비붐 세대 9%였다. 응답자 절반 이상(51%)은 반품 정책이 더 낫다는 이유 하나로 한 소매업체를 다른 곳보다 택한 적이 있다고 답했다."
+        }
+      ]
+    },
+    "marketing/sej-chatgpt-ad-revenue-per-visit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maximilian Kaiser와 Christian Schulze의 워킹 페이퍼를 보면 U.S. 트래픽에서 ChatGPT 광고로 들어온 방문은 방문당 $0.89를, Google 유료 검색 광고로 들어온 방문은 $2.45를 벌었다. 유료 광고 수치는 판매를 끝까지 추적하는 광고주 사이트 102곳에서 뽑았다."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT 광고 방문의 전환율은 0.37퍼센트로 유료 검색의 1.17퍼센트에 못 미쳤다. 두 광고를 다 산 광고주 87곳 중 84곳에서 ChatGPT 광고의 방문당 수익이 더 낮았다. 73곳은 ChatGPT 광고로 한 건도 팔지 못했고, ChatGPT 광고 구매 570건은 모두 나머지 14곳에서 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 유료 검색의 수익률에 맞추면 ChatGPT 광고 클릭 하나의 가치가 약 $0.26(리샘플링 범위 $0.05에서 $0.57)라고 본다. 공개된 계정 중 가장 큰 곳은 클릭당 $1.72를 냈다. 동등 가격의 여섯 배가 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "광고 도입 뒤 ChatGPT의 자연 유입 추천 트래픽은 6%–8% 줄었다는 추정이 나온다. 논문 데이터는 8월 22일까지다. OpenAI는 그 뒤 ChatGPT Ads를 89개국으로 넓혔고, 캠페인을 집행한 광고주가 100,000곳을 넘었다고 밝혔다."
+        }
+      ]
     }
   }
 }

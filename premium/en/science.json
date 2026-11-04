@@ -9928,6 +9928,143 @@
           "x": "Possible uses include cold-active enzymes for food processing, detergents that work in cold water and more efficient pharmaceutical manufacturing. \"We are not using AI to get things done more efficiently without people,\" Yang said. The study appears in Nature Computational Science."
         }
       ]
+    },
+    "science/westlake-pinal-protein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+          "cap": "Pinal translates diverse functional prompts into high-quality protein candidates. Credit: Nature (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Scientists led by a team at Westlake University in China have developed a large-scale AI model called Pinal that can generate candidate proteins from natural language prompts alone, detailed in a paper published in Nature. A user might type something like \"design a fluorescent protein that emits green light under illumination.\""
+        },
+        {
+          "t": "p",
+          "x": "Pinal's first module, T2struct, builds a 1D structural blueprint from the description; a second module, SaProt-T, reads that blueprint and the original prompt to generate a matching amino acid sequence. It creates several blueprints, designs the best sequence for each and scores each pair to pick the final design."
+        },
+        {
+          "t": "p",
+          "x": "The team started with 135 million protein sequences and built a library of 1.7 billion protein-text pairs, adding predicted 3D structures from an AlphaFold database. It was asked to design a fluorescent protein, a plastic-breaking enzyme, an alcohol dehydrogenase and a metabolic H-protein."
+        },
+        {
+          "t": "p",
+          "x": "For the glowing protein, 50,000 sequences were filtered down to 29 for testing, and only one actually fluoresced. For the H-protein, five of the 20 candidates worked, and the best one boosted the output of a key carbon-capturing process to 1.7 times that achieved using the natural E. coli protein. Further work is needed before Pinal becomes a routine lab tool."
+        }
+      ]
+    },
+    "science/uw-accent-bias-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+          "cap": "Credit: ShotPot from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "A UW-led team found that state-of-the-art AI models were biased against speakers with certain accents. Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI's GPT-Audio 1.5 and the open-source Qwen 3 Omni scored job interview answers, presentations and English proficiency responses read in American, British, Chinese, Indian and Nigerian accents."
+        },
+        {
+          "t": "p",
+          "x": "The models generally ranked Chinese and Nigerian accents the lowest, Indian in the middle and American and British the highest. Even when the content was exactly the same and the models could accurately transcribe the speech, they ranked both delivery and content higher for American and British speakers. AI voices from ElevenLabs read the scripts, and results were validated with 52 human speakers."
+        },
+        {
+          "t": "p",
+          "x": "\"Even though they repeatedly claimed Chinese and Nigerian speakers 'mumbled' or were 'difficult to understand,' the models were actually very good at transcribing the accented speech,\" said co-lead author Orevaoghene Ahia. The work was presented Oct. 25 at EMNLP in Budapest."
+        },
+        {
+          "t": "p",
+          "x": "Senior author Yulia Tsvetkov urged developers to publish evaluations broken down by subpopulations and dialects, not only average performance."
+        }
+      ]
+    },
+    "science/ai2-statebench-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 is introducing StateBench, a benchmark for long-context state tracking—how well language models keep track of information about entities in long documents as they evolve. It has four difficulty levels: r-trivial (immutable assignment), aperiodic (reassignment by value), soluble (self-referential updates) and general finite (assignment by reference)."
+        },
+        {
+          "t": "p",
+          "x": "Open pretrained models, including Olmo 3 and Olmo Hybrid, performed well on r-trivial problems, lost accuracy on aperiodic ones as inputs grew, and stayed at chance on general finite problems."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "Frontier models Gemini 3.8 Flash, Claude Opus 5.5, and GPT-6 Sol and Luna did well on the easier levels, but accuracy fell sharply as inputs grew, dropping to 13% or lower on the longest general finite problems."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+        },
+        {
+          "t": "p",
+          "x": "275-million-parameter models trained directly on StateBench told a different story: Gated DeltaNet and hybrid models generalized almost perfectly on r-trivial, aperiodic and soluble problems out to tens of thousands of assignments. Transformers degraded on longer sequences and never learned general finite problems."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+        }
+      ]
+    },
+    "science/chalmers-defect-temperature-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+          "cap": "Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Standard calculations of material defects are usually based on zero Kelvin, minus 273 degrees Celsius. Researchers at Chalmers University of Technology have now demonstrated a significantly more effective framework for calculating the properties of defects while accounting for temperature effects, published in npj Computational Materials."
+        },
+        {
+          "t": "p",
+          "x": "\"We modeled defects in the materials by studying a missing atom in the crystal structure and observing how temperature affects the behavior of this point defect,\" says doctoral student Tobias Hainer. Defects can introduce energy levels within a semiconductor's band gap, and their position determines whether they are harmful or useful."
+        },
+        {
+          "t": "p",
+          "x": "\"We found quite significant shifts in several materials, both quantitatively and qualitatively. These changes would be missed in a model based on zero Kelvin,\" says professor Julia Wiktor. The results match experimental observations."
+        },
+        {
+          "t": "p",
+          "x": "\"Ten years ago, we probably would not have been able to do this on such a scale,\" Wiktor says, crediting developments in machine learning for making the extensive calculations feasible."
+        }
+      ]
+    },
+    "science/osaka-perovskite-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+          "cap": "Schematic of an automated film fabrication system. Credit: Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Osaka have built an automated platform that combines a robot, optical imaging, environmental sensors and machine learning to fabricate perovskite solar-cell films."
+        },
+        {
+          "t": "p",
+          "x": "The system tracks how the liquid coating changes color and crystallizes into a solid film, capturing color changes within a fraction of a second and the motion of antisolvent droplets within milliseconds. Machine learning used these measurements to identify the processing conditions that matter."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+          "cap": "Schematic drawing of solution to multigrain film formation. Credit: Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "Using these insights to refine the coating process, the team produced a lead-based perovskite solar cell with a 24.4% power conversion efficiency. The study, led by Ryosuke Kado and Akinori Saeki, is published in ACS Nano (DOI: 10.1021/acsnano.6c11386)."
+        }
+      ]
     }
   }
 }

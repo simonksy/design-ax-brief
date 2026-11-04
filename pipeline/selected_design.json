@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "design",
   "items": [
     {
-      "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
-      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
-      "source": "Figma Blog",
-      "published_iso": "2026-10-31T00:58:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma explains what Figma Weave unlocks for creative teams: node-based, reusable AI generation workflows on the canvas, and how to get the most out of them.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Primary-source guide to Figma Weave's node-based, reusable AI generation pipelines on the canvas. Designers can turn one-off prompting into repeatable workflows starting tomorrow."
-    },
-    {
-      "title": "Runway Dev is in Claude Code, Codex and Cursor",
-      "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
-      "source": "Runway",
-      "published_iso": "2026-11-02T15:00:00Z",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png",
-      "excerpt": "Runway Dev plugins for Claude Code, Codex and Cursor connect a coding agent to Runway's API so it can build generative image/video features straight from the editor.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "New release: official Runway plugins for the three main coding agents, so generative image and video can be wired into prototypes from the editor. A different launch from the 10-10 Claude Motion integration."
-    },
-    {
-      "title": "New CG software you may have missed: 2 November 2026 (Character Creator 5.2 AI 3D model generator)",
-      "url": "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/",
-      "source": "CG Channel",
-      "published_iso": "2026-11-02T16:19:53Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg",
-      "excerpt": "Reallusion's Character Creator 5.2 adds an AI 3D model generator that builds characters, clothing and hair from reference images using Tripo P2.0/H3.1 and Hunyuan V3.1, plus a generative concept-design module and CC Wrap.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#3b6bff",
-      "motif": "sphere",
-      "rationale": "Concrete tool release: Character Creator 5.2 turns reference images into rigged characters, clothing and hair through Tripo and Hunyuan models. This week's roundup with new releases, not a repeat of the 10-25 edition."
-    },
-    {
-      "title": "Design-to-Code: Reimagine Handoff Workflow with AI - Rebuilding PubHub Part 3",
-      "url": "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow",
-      "source": "Cisco Blogs",
-      "published_iso": "2026-11-02T17:23:42Z",
-      "og_image": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png",
-      "excerpt": "Cisco's PubHub team rebuilt its design handoff with AI, using an HTML prototype as the source of truth instead of static design files so other teams can adapt the workflow.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "A first-hand case study from an enterprise design team that replaced static handoff files with an AI-built HTML prototype as the source of truth. Other teams can copy the workflow."
-    },
-    {
-      "title": "What I learned from 45 years of CAD development: Doing more with less",
-      "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/",
-      "source": "Engineering.com",
-      "published_iso": "2026-11-02T16:46:18Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png",
-      "excerpt": "John M. Christy rewrote his 45-year-old CAD program for Mac with Claude as co-developer - now drafting from speech - and reflects on what AI should and shouldn't change in CAD.",
+      "title": "Autom8Labs launches AEC skills for AI agents",
+      "url": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
+      "source": "AEC Magazine",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A veteran CAD developer rebuilt his program with Claude and added speech-driven drafting. A practitioner's account of what AI should and shouldn't change in CAD tools."
+      "published_iso": "2026-11-03T15:38:49Z",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg",
+      "excerpt": "Autom8Labs released MCP-based skills that guide AI agents through tasks in Revit, AutoCAD, 3ds Max, Grasshopper and other design tools.",
+      "rationale": "New product release: MCP skills that let agents work inside Revit, AutoCAD, 3ds Max and Grasshopper. Architects can use it right away."
+    },
+    {
+      "title": "From a Figma frame to an AEM EDS block in one command",
+      "url": "https://dev.to/piotrgodycki/from-a-figma-frame-to-an-aem-eds-block-in-one-command-2m6",
+      "source": "DEV Community",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-11-03T22:30:01Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fpiotrgodycki%2Faem-eds-kit%2Fmain%2F.github%2Fassets%2Freadme-banner.png",
+      "excerpt": "Open-source kit: paste a Figma frame link and get an Adobe Experience Manager Edge Delivery block (JS, CSS, Universal Editor model) via REST or the Figma MCP server, within Figma's rate limits.",
+      "rationale": "New open-source kit that turns a Figma frame into a working AEM Edge Delivery block over Figma MCP. It is a concrete handoff tool for enterprise sites."
+    },
+    {
+      "title": "Vercel MCP now renders deployments as an interactive card",
+      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+      "source": "Vercel",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "published_iso": "2026-11-02T17:05:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
+      "excerpt": "Vercel MCP now renders interactive deployment cards inside MCP Apps clients like ChatGPT, so status, build logs and debugging happen as generative UI in the chat.",
+      "rationale": "Primary-source changelog showing MCP Apps generative UI in production, a working pattern for designers who build in-chat interfaces."
+    },
+    {
+      "title": "Code-based prototyping: When it's worth the setup",
+      "url": "https://www.eleken.co/blog-posts/code-based-prototyping",
+      "source": "Eleken",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-11-03T12:44:29Z",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp",
+      "excerpt": "Eleken's head of design explains why the agency now prototypes with real components, including Claude-generated interactive dashboards, to test states and edge cases that static Figma mockups hide.",
+      "rationale": "A design agency's practical account of when to prototype in code with Claude-generated components instead of static Figma mockups. Teams can apply it on their next project."
+    },
+    {
+      "title": "Is this the most controversial font since Comic Sans?",
+      "url": "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "published_iso": "2026-11-03T15:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa-1672-80.jpg",
+      "excerpt": "Creative Bloq on the aggressive, slanted brush-script typeface that has become the giveaway of AI-generated posters in cafes and village halls, and why small businesses keep using it.",
+      "rationale": "Typography angle: one brush-script face has become the tell of AI-generated posters, which shows how AI defaults shape everyday visual culture."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.figma.com/blog/the-tldr-on-figma-weave/": {
+      "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/build-by-design/",
+        "nearest": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
         "new_action": ""
       },
-      "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents": {
+      "https://dev.to/piotrgodycki/from-a-figma-frame-to-an-aem-eds-block-in-one-command-2m6": {
         "verdict": "new",
-        "nearest": "https://runwayml.com/news/company-news/runway-claude-motion",
+        "nearest": "https://dev.to/saidmounaim/from-a-figma-url-to-a-custom-wordpress-theme-with-claude-code-4p9a",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/": {
+      "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt": {
         "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+        "nearest": "https://vercel.com/blog/vercel-ship-2026-recap",
         "new_action": ""
       },
-      "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow": {
+      "https://www.eleken.co/blog-posts/code-based-prototyping": {
         "verdict": "new",
-        "nearest": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
+        "nearest": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
         "new_action": ""
       },
-      "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/": {
+      "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: NVIDIA Cosmos world-models tech blog (likely-repeat of 10-25 'NVIDIA Cosmos Opens New Tools'); Nemetschek Max lineup expansion (same Max launch as 11-02 'Allplan Max 2027', no new release); Engadget 'AI software clones coming for Adobe' (running story from 10-09 Creative Bloq Adobe CC rebuild, analysis with no new event). Within-pool cluster: 80 Level and The Verge both cover Claude refusing to recreate games (one story), and both were skipped, since it is games/dev policy rather than design and could clash across sections. Cross-section skip: VRChat AI-label backlash is also in today's games pool. Lower priority, not picked: UX Collective opinion pieces (context-as-interface, design system markdown), Creative Bloq Glass interview, AEC Mag AMC Bridge Q&A, Verge AI Tamagotchi (gadgets-leaning), Vercel MCP deployment card, Gemini Comic artifacts (unreleased leak). Diversity: 5 distinct outlets; categories figma x2, render x2, cad x1, with second-of-category accents taken from the palette."
+    "note": "Swap: removed UX Collective 'Everyone is building AI agents. Who's designing the stop button?' (the article was first published 2026-10-28T12:38Z, outside the 72h window; its RSS date was a re-publication date). Replaced it with Eleken 'Code-based prototyping' (2026-11-03T12:44Z, not on Medium). Its history_match (10-07 Claude Code to Figma test) is a different article and topic, so it counts as new. Other candidates were passed over for the swap: other UX Collective items (Medium re-publication date risk); Engadget AI clones (same story as 10-09 Creative Bloq); Itch.io, Seedance, NVIDIA Cosmos, Nemetschek Max and MOSS-Image (excluded: another section's story, or a repeat); nVibe (would put a second cad card from AEC Magazine); DEVELOP3D comment (opinion only); token-CSS, Figma MCP setup and Vercel/Zapier (lower-ranked or promotional). Earlier drops are unchanged: NVIDIA Cosmos guide (repeat of 10-25), Engadget clones (repeat of 10-09), Nemetschek Max (repeat of 11-02 Allplan Max), MOSS-Image test (review of the model covered 10-27). Cross-section: published_urls.json was not grepped (no shell access in this pass); Eleken is a design-agency blog and is unlikely to have run in another section."
   }
 }

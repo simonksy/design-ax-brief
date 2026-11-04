@@ -3020,6 +3020,130 @@
           "x": "Samsung Electronics' sleep apnea feature received software as a medical device (SaMD) approval from the MFDS in September 2023, U.S. FDA 'De Novo' authorization in February 2024 and approval from Brazil's ANVISA in 2025, and it is now available in 84 countries worldwide."
         }
       ]
+    },
+    "medicine/medicine-hti5-ai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+          "cap": "Photo: illustration, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "HHS is rolling back several health IT certification requirements, including certain AI transparency regulations. The HTI-5 final rule from ONC removes 14 of the 60 certification criteria in effect and revises seven more; most changes take effect on December 28, 2026, and ONC expects more than $1.5 billion in regulatory cost savings."
+        },
+        {
+          "t": "p",
+          "x": "The rule removes requirements for developers to provide source attributions for AI recommendations in evidence-based and predictive decision support interventions, along with intervention risk management requirements."
+        },
+        {
+          "t": "p",
+          "x": "“Certification no longer guarantees access to information about a predictive tool’s intended use, training data, performance, or limitations,” said attorney Mel Soliz. She recommends that health leaders build their own disclosure, validation, and bias-testing requirements into AI procurement contracts rather than relying on federal certification."
+        },
+        {
+          "t": "p",
+          "x": "The rule also eliminates the voluntary certification criteria for security tags used to shield sensitive health information, which Soliz calls one of the most disappointing changes for providers."
+        }
+      ]
+    },
+    "medicine/medicine-epic-inbox-drafts-jama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This retrospective cohort study examined Epic's In Basket Augmented Response Technology, which generates AI-drafted replies to patient portal messages, at Columbia University Irving Medical Center. It analyzed 983 154 first responses from 1542 clinicians to 272 091 patients between March 1, 2023, and May 15, 2025; enterprise-level deployment came in December 2024."
+        },
+        {
+          "t": "p",
+          "x": "Response tool adoption was associated with an 8.6% increase in overall message turnaround time, while using the tool on a given message was associated with a 29.5% reduction in turnaround time."
+        },
+        {
+          "t": "p",
+          "x": "Tool use was not associated with an overall reduction of after-hours messaging burden. It was linked to fewer after-hours responses for test results–related queries received during working hours, but more after-hours responses for messages received after hours."
+        },
+        {
+          "t": "p",
+          "x": "The authors conclude the tool may reduce the barrier to responding to certain messages while not uniformly reducing burden."
+        }
+      ]
+    },
+    "medicine/medicine-mantis-pediatric-tumors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MANTIS (methylation profiling and artificial neural networks for time-dependent individualized survival predictions) is a precision AI tool for medulloblastoma and ependymoma outcome prediction, built on genome-wide DNA methylation array data from 2,786 patients."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+          "cap": "Fig. 1: Overview of the neural network architecture and training."
+        },
+        {
+          "t": "p",
+          "x": "It generates individualized survival probabilities over a 10-year period and achieves concordance indices as high as 0.80 ± 0.07, significantly exceeding current clinical indicators. It was validated in three independent clinical trial cohorts of 898 medulloblastoma patients."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+          "cap": "Fig. 5: A majority of patients with average-risk MB may benefit from lower CSI doses."
+        },
+        {
+          "t": "p",
+          "x": "Extended to estimate individualized treatment effects, MANTIS identifies ~60% of patients with average-risk medulloblastoma without a significant survival disadvantage (P = 0.683) when treated with less intensive craniospinal irradiation doses, which is associated with improved neurocognitive outcomes."
+        }
+      ]
+    },
+    "medicine/medicine-stanford-preterm-twins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Stanford Medicine researchers built an AI-enabled model of immune system changes in pregnancy, creating “digital twins” of individual pregnant women’s immune systems for virtual drug testing. The study published online Oct. 21 in Science Advances."
+        },
+        {
+          "t": "p",
+          "x": "The system, called SIMCO (simulated immune modeling of clinical outcomes), was trained on responses from a quarter of a billion cells and longitudinal data from 63 pregnancies, then used to evaluate nine drug regimens already known to be safe for pregnancy."
+        },
+        {
+          "t": "p",
+          "x": "The winning combination was aspirin and lansoprazole. “In the digital twin system, these two drugs in combination had a large effect on the delay of labor, 15 times higher than aspirin alone,” said senior author Brice Gaudilliere. Folic acid was also found to delay immunological progression toward labor."
+        },
+        {
+          "t": "p",
+          "x": "The combination delayed labor in an animal model, and the researchers obtained FDA approval to test it in a human clinical trial."
+        }
+      ]
+    },
+    "medicine/athenahealth-claude-records": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "healthcare technology interface with AI integration and medical icons"
+        },
+        {
+          "t": "p",
+          "x": "Electronic health record company athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new connection designed to give patients personalized answers based on their clinical data."
+        },
+        {
+          "t": "p",
+          "x": "The new server solution, athenaPatient MCP, uses the Model Context Protocol to connect Claude directly with the athenaOne platform. Patients authenticate using their athenahealth patient portal credentials and decide what information Claude can access. Credentials are not shared with Claude, and patients can revoke access at any time."
+        },
+        {
+          "t": "p",
+          "x": "Claude Pro and Max users in the U.S. can add the athenaPatient MCP connector within their Claude settings. With a patient’s permission, Claude can reference lab results, medications, vitals, health conditions, diagnostic reports, immunizations, visit history, allergies, procedures and care plans."
+        },
+        {
+          "t": "p",
+          "x": "The company will limit athenaPatient MCP access to AI assistants that do not use patient information to train their models, said Paul Brient, athenahealth's chief product and operations officer. \"Claude is the first connection we’ve enabled for athenaPatient MCP, but it's not intended to be the only one,\" he said."
+        },
+        {
+          "t": "p",
+          "x": "More than a third of U.S. adults (34%) have used AI assistants for health-related purposes, according to an August Pew Research Center survey. Brient said the goal was not to create additional work for clinicians: \"It's not our job to decide which AI assistant patients should use.\""
+        }
+      ]
     }
   }
 }

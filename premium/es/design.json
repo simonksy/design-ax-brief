@@ -10331,6 +10331,153 @@
           "x": "EditAgent también comprueba si las ediciones posteriores deshicieron las anteriores. Necesita unas diez veces más cómputo que un solo editor, pero sus aproximadamente 26,000 ejemplos verificados mejoraron a los editores ajustados en los tres benchmarks."
         }
       ]
+    },
+    "design/figma-aem-eds-block-kit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si creas sitios en AEM Edge Delivery Services (EDS), un diseñador te envía un enlace de Figma y tú reconstruyes el marco a mano como bloque: JS con decorate(), CSS con ámbito y un modelo de Universal Editor. aem-eds-kit lo convierte en un solo comando: eds block from-design \"<Figma frame link>\" --name hero."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
+          "cap": "Un diseño junto al bloque de EDS que eds generó a partir de él"
+        },
+        {
+          "t": "p",
+          "x": "eds lee el marco (diseño, Auto Layout, estilos de texto, Variables, variantes y anchos de marco) mediante la REST API de Figma o a través del servidor Figma MCP de tu agente, y lo guarda en caché. Construye un prompt con las reglas de EDS, los 17 tipos de campo de Universal Editor y los design tokens de tu proyecto, y el agente de programación con IA que ya usas (Claude Code, Cursor o Codex) escribe el bloque: eds no incluye un modelo propio."
+        },
+        {
+          "t": "p",
+          "x": "Después comprueba el resultado: que los archivos existan, que decorate() se exporte, que el CSS tenga ámbito limitado al bloque y que el modelo de Universal Editor sea válido. El resultado es hero.js, hero.css, un modelo de Universal Editor _hero.json y una página de vista previa, con textos y huecos de imagen provisionales hasta que los autores los completen."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
+          "cap": "La vista previa del bloque en el navegador"
+        },
+        {
+          "t": "p",
+          "x": "eds block preview, check y test muestran el bloque en los anchos de marco, comprueban la accesibilidad y ejecutan pruebas de regresión visual. eds hace una sola llamada a Figma por bloque y después usa una caché para no superar los límites de uso de Figma. La CLI también admite páginas de Framer y Google Stitch y funciona con un modelo local (Ollama, oMLX). Tiene licencia MIT (MIT-licensed) y no está afiliada a Adobe ni a Figma."
+        }
+      ]
+    },
+    "design/vercel-mcp-deploy-card": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel MCP ya puede mostrar tus despliegues como una tarjeta interactiva dentro de ChatGPT y de otros clientes de chat compatibles con MCP Apps."
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
+        },
+        {
+          "t": "p",
+          "x": "La tarjeta muestra el estado del despliegue en directo, los registros de compilación y los detalles del origen y del commit, con un botón Visit cuando la URL del despliegue está lista. Puedes enviar los registros al chat para depurar con el modelo o abrir la vista a pantalla completa para leerlos debajo de la tarjeta. En los repositorios vinculados a varios proyectos, una lista de proyectos permite cambiar entre ellos."
+        },
+        {
+          "t": "p",
+          "x": "La tarjeta es la primera MCP App de Vercel MCP, construida sobre la extensión MCP Apps. Los clientes sin compatibilidad con apps reciben en su lugar el estado del despliegue, la URL de vista previa y el commit como texto. La herramienta open_deployments busca despliegues por proyecto, repositorio o commit, con filtrado por entorno. ChatGPT se conecta a Vercel MCP mediante su configuración de Connectors."
+        }
+      ]
+    },
+    "design/eleken-code-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
+        },
+        {
+          "t": "p",
+          "x": "La maqueta estaba aprobada. Luego empezó el desarrollo y llegaron las preguntas. En sus proyectos SaaS, Eleken ve los mismos problemas: Figma no siempre se traduce limpiamente a código, las interacciones se comportan de otra manera cuando son reales y los desarrolladores acaban tomando decisiones de diseño durante la implementación. Por eso el prototipado basado en código se ha convertido en parte de su proceso."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
+          "cap": "Quality Task Center, un prototipo de panel de gestión de calidad generado con Claude"
+        },
+        {
+          "t": "p",
+          "x": "El prototipado basado en código consiste en construir una versión funcional del producto con código real, a menudo con los mismos componentes que el producto final. “Figma muestra cómo debería funcionar un producto. Un prototipo en código permite probar cómo funciona”. Según cifras de IBM muy citadas, el costo relativo de corregir un defecto es de 1× durante el diseño, 6,5× durante la implementación y 15× durante las pruebas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
+          "cap": "Costos relativos de corregir defectos de software"
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores de Eleken trabajan con herramientas como Claude Code en el repositorio del cliente: ejecutan el producto en local, construyen el flujo en una rama aparte, iteran en el navegador y comparten vistas previas en vivo. El trabajo aprobado llega a los ingenieros del cliente como Pull Request; Eleken no despliega en producción."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
+          "cap": "Skill de Claude Code en GitHub creada por un diseñador de Eleken"
+        },
+        {
+          "t": "p",
+          "x": "La IA hace este flujo de trabajo mucho más rápido, pero no lo vuelve automático: Claude Code y herramientas similares pueden malinterpretar la base de código, inventar funcionalidades o introducir errores, así que el diseñador aún debe revisar lo que produce la IA."
+        },
+        {
+          "t": "video",
+          "yt": "lGDHajtmcIE"
+        },
+        {
+          "t": "p",
+          "x": "Cursor y Claude Code encajan cuando el prototipo debe vivir en una base de código existente. Elige la fidelidad según la pregunta que estás probando, no según la herramienta que tu equipo ya tiene."
+        }
+      ]
+    },
+    "design/creativebloq-ai-poster-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
+          "cap": "¿Por qué la IA está obsesionada con esta tipografía? (Crédito de la imagen: Future)"
+        },
+        {
+          "t": "p",
+          "x": "El arte generado por IA (AI-generated) está en todas partes, y no solo en internet: carteles claramente hechos con IA aparecen en cafés, restaurantes e incluso en salones comunitarios de pueblo. Y hay algo que los delata siempre: esa tipografía. Trazos de pincel agresivos. Una ligera inclinación hacia arriba. Es ruidosa, estridente y está en todas partes, y la gente ya la compara con Comic Sans."
+        },
+        {
+          "t": "p",
+          "x": "Las pequeñas empresas sin recursos para contratar a un diseñador pueden conformarse con una de las primeras cosas que produce la IA. Pero Comic Sans se hizo a mano con un propósito: Mandy Roscoe, de Carrick Signs, dice que se creó para “imitar el habla informal y manuscrita de los cómics, no para decorar avisos oficiales”."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle por qué, ChatGPT respondió que los generadores de imágenes asocian las letras gruesas de estilo pincel con el diseño llamativo de innumerables carteles, anuncios y miniaturas de YouTube, y que no necesariamente eligen una fuente real: una tipografía pensada para parecer hecha a mano y rebelde ahora parece inconfundiblemente artificial."
+        }
+      ]
+    },
+    "design/figma-weave-tldr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma Weave es una plataforma para equipos creativos con necesidades de producción continuas. Weave convierte el proceso de crear y editar imágenes o video en una secuencia que usted y su equipo pueden ajustar y reutilizar. El trabajo se organiza en nodos conectados en el lienzo: bloques para añadir imágenes y prompts, generar contenido y hacer ediciones."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+          "cap": "El lienzo de Figma Weave usa nodos conectados para mostrar cada paso del proceso creativo."
+        },
+        {
+          "t": "p",
+          "x": "Unas rutas separadas, llamadas ramas, permiten probar distintos prompts o ediciones desde el mismo punto de partida sin perder el original. También se puede ejecutar el mismo prompt en distintos modelos de IA y comparar los resultados lado a lado."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de edición aparecen como nodos que se conectan a otros pasos: corrección de color, compositor, niveles, recorte de duración, recorte de encuadre y pintor. Una herramienta de Weave empaqueta un flujo de trabajo para que los compañeros lo ejecuten sin recorrer los nodos ni escribir prompts desde cero: el siguiente usuario solo tiene que subir una foto y hacer clic en Generate."
+        },
+        {
+          "t": "p",
+          "x": "Con el nodo de Figma se puede copiar un marco de Figma Design y pegarlo en Weave, donde sigue conectado al original. Si se modifica el marco original en Figma Design, el cambio se refleja en el nodo de Figma conectado en Weave."
+        }
+      ]
     }
   }
 }

@@ -1,106 +1,96 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "politics",
   "items": [
     {
       "tool": "Politics",
-      "category": "politics",
-      "subtopic": "policy_regulation",
       "accent": "#3b6bff",
       "motif": "cube",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "The Verge",
-      "published_iso": "2026-11-02T17:51:19+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-      "excerpt": "The New York Times and other publishers, including the New York Daily News and Chicago Tribune, filed lawsuits against Brave Software alleging unlawful scraping of their content to train and power AI and letting users bypass paywalls.",
-      "rationale": "New court filing: publishers have opened a copyright-and-scraping front against an AI browser, not a model lab. The claims are the plaintiffs' allegations and should be attributed to them."
+      "title": "AI faces limits in reusing news articles, says top EU court advisor",
+      "url": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
+      "source": "Euractiv (Rapporteur)",
+      "published_iso": "2026-11-03T11:44:07+01:00",
+      "og_image": null,
+      "excerpt": "CJEU Advocate General Szpunar issued an opinion in a Hungarian press publisher's case against Google, saying AI chatbots like Gemini face limits under EU press-publisher rights when reproducing news articles, even while advising that some referred questions be declared inadmissible.",
+      "rationale": "Formal CJEU Advocate General opinion, the first top-court view on whether press-publisher rights cover AI chatbot output. Policy/copyright axis, primary legal act."
     },
     {
       "tool": "Politics",
-      "category": "politics",
-      "subtopic": "elections_public_opinion",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "Inside the Secretive World of Campaign Ads Funded by AI Super PACs",
-      "url": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
-      "source": "Bellingcat",
-      "published_iso": "2026-11-02T16:11:28+00:00",
-      "og_image": "https://www.bellingcat.com/app/uploads/2026/11/2026-11-01T204021Z_1780929764_RC28FOAZ9KS3_RTRMADP_3_USA-ELECTION-OHIO-scaled.jpg",
-      "excerpt": "Bellingcat analysed more than 300 online video ad campaigns in the US midterms and traced ads backing candidates of both parties to the same AI-industry super PAC network, Leading the Future, which opposes AI rules that 'constrain' innovation and is funded by OpenAI president Greg Brockman and a16z.",
-      "rationale": "Elections axis on Election Day: an original open-source analysis of 300+ ad campaigns tracing ads for candidates of both parties to one AI-industry PAC network. Non-partisan by construction."
+      "title": "中, AI개발부터 활용까지 전과정 규제 강화…통제불능 우려 대비",
+      "url": "https://www.yna.co.kr/view/AKR20261103148800009",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-03T16:28:47+09:00",
+      "og_image": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+      "excerpt": "중국 당국이 AI 개발부터 활용까지 전 과정을 다루는 포괄적 규제 가이드라인을 마련하기로 했다. 위험 공시와 규제 샌드박스가 포함되며, 통제 불능 AI에 대한 우려에 대비한 조치다.",
+      "rationale": "Official Chinese regulatory decision covering the full AI lifecycle (risk disclosure, sandboxes). A new government action, separate from the 10-19 export-control draft."
     },
     {
       "tool": "Politics",
-      "category": "politics",
-      "subtopic": "geopolitics",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Berlin unveils blueprint to catch up on AI",
-      "url": "https://www.politico.eu/article/berlin-unveil-blueprint-catch-up-ai-artificial-intelligence/",
-      "source": "POLITICO Europe",
-      "published_iso": "2026-11-02T12:42:06+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/02/GettyImages-2196254869-scaled.jpg",
-      "excerpt": "A report from Germany's government AI task force, presented to the National Security Council, says Germany should become a 'sovereign AI nation' by 2030, securing access to leading models while building European alternatives with France and Canada.",
-      "rationale": "Official government task-force report sets a 2030 sovereign-AI goal for Germany. This is a national strategy document, separate from the earlier Nvidia investment deal."
+      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "source": "The Register",
+      "published_iso": "2026-11-03T12:39:25.000Z",
+      "og_image": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "The UK's NCSC annual review warns AI-enabled attacks on critical infrastructure are likely within two years, and its chief urged boards to stop doing 'tech on the cheap'.",
+      "rationale": "Coverage of an official agency release (NCSC Annual Review 2026) with a dated AI threat assessment. National-security policy axis."
     },
     {
       "tool": "Politics",
-      "category": "politics",
-      "subtopic": "geopolitics",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "title": "업스테이지 '솔라 프로 4' 범정부 AI 공통기반 탑재…행정망 국산 AI 활용",
+      "url": "https://www.etnews.com/20261103000312",
+      "source": "전자신문",
+      "published_iso": "2026-11-03T14:55:24+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+      "excerpt": "행안부·과기정통부의 범정부 AI 공통기반에 국산 LLM '솔라 프로 4'가 탑재됐다. 중앙부처와 지자체가 별도 GPU 없이 행정망에서 국산 AI를 쓸 수 있게 된 소버린 AI 공공 도입 사례다.",
+      "rationale": "A concrete government deployment decision: MOIS and MSIT put a domestic LLM onto the shared government AI platform, so central ministries and local governments can use it on the administrative network. Policy/sovereign-AI axis, with AI as the subject."
+    },
+    {
+      "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "India floats AI plan under which 'The model travels to the data, rather than the data travelling to the model'",
-      "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
-      "source": "The Register",
-      "published_iso": "2026-11-02T04:39:50Z",
-      "og_image": "https://image.theregister.com/259659.jpg?imageId=259659&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "India's government proposed an AI architecture in which models are deployed to sit next to government and sectoral data rather than data being exported to Big Tech, aiming for more local AI without open access to national datasets.",
-      "rationale": "Government proposal for a data-sovereignty architecture that directly changes how AI vendors would deploy against Indian public and sectoral data."
-    },
-    {
-      "tool": "Politics",
-      "category": "politics",
-      "subtopic": "policy_regulation",
-      "accent": "#ff5a4d",
-      "motif": "cube",
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "source": "WIRED",
-      "published_iso": "2026-11-02T10:00:00Z",
-      "og_image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-      "excerpt": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but carry hidden features for creating violent and sexually abusive AI-generated images and video, raising app-store and deepfake-law enforcement questions.",
-      "rationale": "New investigation into roughly 400 disguised abuse-deepfake apps. It tests whether app-store rules and deepfake laws are actually enforced. Present the findings as WIRED's."
+      "title": "EXCLUSIVE: EU executive wants to boost AI use in 2027 work plan",
+      "url": "https://www.rapporteur.com/news/exclusive-eu-executive-wants-to-boost-ai-use-in-2027-work-plan/",
+      "source": "Euractiv (Rapporteur)",
+      "published_iso": "2026-11-03T17:28:59+01:00",
+      "og_image": null,
+      "excerpt": "The European Commission's draft 2027 work programme, obtained by Rapporteur, plans to push AI uptake across sectors next year ahead of the informal European Council on AI on 13 November.",
+      "rationale": "Reporting on a primary document, the Commission's draft 2027 work programme, which sets the EU's AI agenda ahead of the 13 Nov AI summit. Unrelated to the 10-24 China-alliance exclusive."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times": {
+      "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/": {
         "verdict": "new",
-        "nearest": "https://www.euronews.com/2026/10/27/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
+        "nearest": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
         "new_action": ""
       },
-      "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/": {
+      "https://www.yna.co.kr/view/AKR20261103148800009": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+        "nearest": "https://thenextweb.com/news/china-ai-export-controls-draft",
         "new_action": ""
       },
-      "https://www.politico.eu/article/berlin-unveil-blueprint-catch-up-ai-artificial-intelligence/": {
+      "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200": {
         "verdict": "new",
-        "nearest": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia",
+        "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
         "new_action": ""
       },
-      "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872": {
+      "https://www.etnews.com/20261103000312": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why",
         "new_action": ""
       },
-      "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/": {
+      "https://www.rapporteur.com/news/exclusive-eu-executive-wants-to-boost-ai-use-in-2027-work-plan/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "nearest": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
         "new_action": ""
       }
     },
-    "note": "No candidate was a true repeat; all 7 history_match tags are 'related' only. Brave suit vs the 10-27 Claude paywall story: different event and parties. Bellingcat vs the 10-14 WIRED Nevada shell companies story: same PAC network but a new finding (ad content and targeting across both parties, not money flows). Berlin report vs the 10-23 German Nvidia deal: different act (task-force strategy vs an investment). WIRED deepfake apps vs the 10-18 Apple nudify rules: different event. Rest of World Chinese-model realignment vs the 10-08 Axios open-weight story: related, trend reporting only, not picked. Dropped again as low-priority (same reasons as 11-02): Verge Prop 45 (contested critic claims, AI secondary), Axios OpenAI post-election plans (lobbying scoop), GOV.UK planning AI (AI secondary to planning reform). Dropped as analysis/opinion: Tech Policy Press 'How AI companies want to be governed' and 'No universal election integrity playbook'. Dropped as corporate PR or weaker: Verge OpenAI Grid Protectors (company program), Diplomat China data-center tax (analysis), Tech Policy Press EU-Canada (AI is one item in a broader digital alliance), 404 Media AI sticker (light item). Fresh, unused backups, in order: Semafor election war rooms (Anthropic war room is new; off-list), NPR chatbots misleading voters (off-list), Rest of World Chinese-model realignment. Outlets: The Verge, Bellingcat, POLITICO Europe, The Register, WIRED (5 outlets, 1 each). Axes: policy 2, elections 1, geopolitics 2. Cross-section: the last brief published 2026-11-02 07:00 KST (2026-11-01T22:00Z), and every pick postdates it, so none can be in published_urls.json from an earlier run. The file was too large to grep with Read-only tools. Same-day clash risk: the NYT v. Brave suit could also be picked by books or gadgets today. If it is, swap in Semafor war rooms (verdict new, nearest https://www.techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms)."
+    "note": "Replacement pass: dropped the Yonhap SK hynix China-fab equipment-hold story (AKR20261104006700072). The article is about an export licence for a memory fab and never mentions AI, so it fails the 'AI makes the story happen' rule. Replaced in place with the etnews Upstage Solar Pro 4 story, which reports a government deployment decision (MOIS/MSIT shared government AI platform). It reused the removed slot's accent #2ec5c5 and motif cube. No history_digest entry covers this platform or Solar Pro 4. The nearest is the 10-26 Swedish government blocking chatbots for staff (government use of AI tools, different country and opposite decision). Other replacement options were rejected: GOV.UK Barnsley £800k skills grants (small and local), Verge Prop 45 (analysis, result not certified), 법무부 AI glasses notice (guideline not yet issued). etnews is off-whitelist but was chosen because it is a decision story. Original first-pass note: no candidate repeated a published story; commentary/analysis items (Axios sovereign agents, WIRED x2, TPP x3, MIT TR, Diplomat x2, ChinaTalk, RoW) and Iowa AI-ads / OpenAI PR items were left out. Outlet spread now Rapporteur 2, Yonhap 1, The Register 1, etnews 1. Cross-section published_urls.json was not grepped (no shell tool). The orchestrator should exact-grep https://www.etnews.com/20261103000312 and 'Solar Pro 4' / '솔라 프로 4' across sections (gadgets/design could carry an Upstage model story)."
   }
 }

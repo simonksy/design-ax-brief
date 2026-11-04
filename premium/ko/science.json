@@ -14121,6 +14121,143 @@
           "x": "활용처로는 식품 가공용 저온 활성 효소, 찬물에서 작동하는 세제, 더 효율적인 의약품 제조 등이 꼽힌다. Yang은 \"우리는 사람 없이 일을 더 효율적으로 해치우려고 AI를 쓰는 것이 아니다\"라고 말했다. 연구는 Nature Computational Science에 실렸다."
         }
       ]
+    },
+    "science/westlake-pinal-protein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+          "cap": "Pinal은 다양한 기능 프롬프트를 고품질 단백질 후보로 바꾼다. Credit: Nature (2026)"
+        },
+        {
+          "t": "p",
+          "x": "중국 Westlake University(서호대학) 연구팀이 이끄는 과학자들이 자연어 프롬프트만으로 후보 단백질을 만들어 내는 대규모 AI 모델 Pinal을 개발해 Nature에 논문으로 발표했다. 사용자는 “조명을 받으면 녹색 빛을 내는 형광 단백질을 설계하라” 같은 문장만 넣으면 된다."
+        },
+        {
+          "t": "p",
+          "x": "Pinal의 첫 번째 모듈 T2struct가 설명을 읽고 1D 구조 설계도를 그리면, 두 번째 모듈 SaProt-T가 이 설계도와 원래 프롬프트에 맞는 아미노산 서열을 생성한다. 설계도를 여러 장 만들고 설계도마다 가장 좋은 서열을 붙인 뒤, 쌍마다 점수를 매겨 최종 설계를 고른다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 단백질 서열 135 million 개에서 출발해 단백질-텍스트 쌍 1.7 billion 개 규모의 라이브러리를 만들고, 여기에 AlphaFold 데이터베이스의 예측 3D 구조를 더했다. 모델에 맡긴 설계 과제는 형광 단백질, 플라스틱 분해 효소, 알코올 탈수소효소, 대사 H-protein이었다."
+        },
+        {
+          "t": "p",
+          "x": "형광 단백질은 50,000개 서열을 걸러 29개를 시험했는데, 실제로 형광을 낸 것은 하나뿐이었다. H-protein은 후보 20개 중 다섯 개가 작동했다. 가장 좋은 후보는 핵심 탄소 포집 과정의 산출량을 천연 E. coli 단백질을 쓸 때의 1.7배로 끌어올렸다. Pinal이 실험실의 일상 도구가 되기까지는 연구가 더 필요하다."
+        }
+      ]
+    },
+    "science/uw-accent-bias-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+          "cap": "Credit: ShotPot from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "UW 주도(UW-led) 연구팀이 최첨단 AI 모델에서 특정 억양 화자를 향한 편향을 확인했다. 실험에서는 Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI의 GPT-Audio 1.5, 오픈소스 Qwen 3 Omni가 미국·영국·중국·인도·나이지리아 억양으로 읽은 취업 면접 답변과 발표, 영어 능력 응답을 채점했다."
+        },
+        {
+          "t": "p",
+          "x": "점수는 대체로 중국·나이지리아 억양이 가장 낮고 인도 억양이 중간, 미국·영국 억양이 가장 높았다. 내용이 똑같고 모델이 말을 정확히 받아 적을 수 있었는데도 전달력과 내용 모두에서 미국·영국 화자가 더 높은 점수를 받았다. 대본 낭독은 ElevenLabs의 AI 음성이 맡았고, 결과는 실제 화자 52명으로 검증했다."
+        },
+        {
+          "t": "p",
+          "x": "공동 제1저자 Orevaoghene Ahia는 “모델들은 중국과 나이지리아 화자가 ‘웅얼거린다’거나 ‘알아듣기 어렵다’고 거듭 주장했지만, 실제로는 억양이 섞인 말을 아주 잘 받아 적었다”고 말했다. 연구는 Oct. 25 부다페스트에서 열린 EMNLP에서 발표됐다."
+        },
+        {
+          "t": "p",
+          "x": "책임저자 Yulia Tsvetkov는 개발자들이 평균 성능만 내놓을 게 아니라 하위 집단·방언별로 나눈 평가 결과도 공개해야 한다고 촉구했다."
+        }
+      ]
+    },
+    "science/ai2-statebench-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2가 장문 맥락 상태 추적 벤치마크 StateBench를 공개했다. 긴 문서 속 개체 정보가 바뀌어 가는 과정을 언어 모델이 얼마나 잘 따라가는지 잰다. 난이도는 r-trivial(불변 할당), aperiodic(값에 의한 재할당), soluble(자기 참조 업데이트), general finite(참조에 의한 할당) 네 단계다."
+        },
+        {
+          "t": "p",
+          "x": "Olmo 3와 Olmo Hybrid를 비롯한 오픈 사전학습 모델은 r-trivial 문제를 잘 풀었다. 하지만 aperiodic 문제는 입력이 길수록 정확도가 떨어졌고, general finite 문제에서는 무작위 수준을 벗어나지 못했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "프런티어 모델 Gemini 3.8 Flash, Claude Opus 5.5, GPT-6 Sol과 Luna도 쉬운 단계는 잘 풀었다. 입력이 길어지자 정확도가 가파르게 떨어졌고, 가장 긴 general finite 문제에서는 13% 이하까지 내려갔다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+        },
+        {
+          "t": "p",
+          "x": "StateBench로 직접 학습시킨 275-million-parameter 모델들에서는 결과가 달랐다. Gated DeltaNet과 하이브리드 모델은 r-trivial, aperiodic, soluble 문제에서 수만 번의 할당까지 거의 완벽하게 일반화했다. Transformers는 시퀀스가 길수록 성능이 떨어졌고 general finite 문제는 끝내 익히지 못했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+        }
+      ]
+    },
+    "science/chalmers-defect-temperature-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+          "cap": "Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "재료 결함은 보통 영 켈빈(Kelvin), 곧 섭씨 영하 273도를 기준으로 계산한다. Chalmers University of Technology 연구진은 온도 효과까지 반영해 결함 특성을 계산하는 훨씬 효과적인 프레임워크를 입증하고 npj Computational Materials에 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "박사과정생 Tobias Hainer는 “결정 구조에서 원자 하나가 빠진 경우를 연구하고, 온도가 이 점결함의 거동에 어떤 영향을 주는지 관찰하는 방식으로 재료 속 결함을 모델링했다”고 말한다. 결함은 반도체 밴드갭 안에 에너지 준위를 만들기도 하는데, 그 위치가 결함이 해로운지 유용한지를 가른다."
+        },
+        {
+          "t": "p",
+          "x": "Julia Wiktor 교수는 “여러 재료에서 양적으로나 질적으로나 상당히 큰 변화를 발견했다. 영 켈빈 기반 모델이었다면 놓쳤을 변화”라고 말한다. 결과는 실험 관측과도 맞아떨어진다."
+        },
+        {
+          "t": "p",
+          "x": "Wiktor는 “십 년 전이었다면 이런 규모로는 아마 해내지 못했을 것”이라며 방대한 계산이 가능해진 공을 머신러닝 발전에 돌렸다."
+        }
+      ]
+    },
+    "science/osaka-perovskite-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+          "cap": "자동 박막 제작 시스템 개략도. 출처: Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "오사카대학 연구진이 로봇과 광학 영상, 환경 센서, 머신러닝을 묶어 페로브스카이트 태양전지 박막 제작을 자동화한 플랫폼을 구축했다."
+        },
+        {
+          "t": "p",
+          "x": "시스템은 액체 코팅이 색을 바꿔 가며 고체 박막으로 굳는 결정화 과정을 따라간다. 1초도 안 되는 색 변화와 밀리초 단위로 움직이는 반용매 액적까지 잡아낸다. 머신러닝은 이 측정값에서 공정의 핵심 조건을 골라냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+          "cap": "다결정 박막 형성 문제의 해법을 그린 모식도. 출처: Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 이를 토대로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 얻었다. 연구는 Ryosuke Kado와 Akinori Saeki가 이끌었고 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
+        }
+      ]
     }
   }
 }

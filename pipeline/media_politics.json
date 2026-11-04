@@ -1,31 +1,7 @@
-{
- "date": "2026-11-03",
- "section": "politics",
- "media": [
-  {
-   "id": "brave-nyt-scraping-suit",
-   "type": "image",
-   "src": "pipeline/media/brave-nyt-scraping-suit.jpg"
-  },
-  {
-   "id": "bellingcat-ai-superpac-ads",
-   "type": "image",
-   "src": "pipeline/media/bellingcat-ai-superpac-ads.jpg"
-  },
-  {
-   "id": "germany-sovereign-ai-taskforce",
-   "type": "image",
-   "src": "pipeline/media/germany-sovereign-ai-taskforce.jpg"
-  },
-  {
-   "id": "india-model-to-data-plan",
-   "type": "image",
-   "src": "pipeline/media/india-model-to-data-plan.jpg"
-  },
-  {
-   "id": "wired-hidden-deepfake-apps",
-   "type": "image",
-   "src": "pipeline/media/wired-hidden-deepfake-apps.jpg"
-  }
- ]
-}
+{"date":"2026-11-04","section":"politics","media":[
+{"id":"politics-cjeu-szpunar-ai-news","type":"svg"},
+{"id":"politics-china-ai-lifecycle-rules","type":"image","src":"pipeline/media/politics-china-ai-lifecycle-rules.jpg"},
+{"id":"politics-ncsc-ai-ransomware-2028","type":"image","src":"pipeline/media/politics-ncsc-ai-ransomware-2028.jpg"},
+{"id":"politics-upstage-solar-gov-platform","type":"image","src":"pipeline/media/politics-upstage-solar-gov-platform.png"},
+{"id":"politics-eu-2027-workplan-ai","type":"svg"}
+]}

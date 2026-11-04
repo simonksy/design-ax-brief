@@ -9284,6 +9284,119 @@
           "x": "Los sindicatos defienden que el uso legítimo debe seguir evaluándose caso por caso. Los gremios de guionistas y actores obtuvieron un derecho de notificación y negociación sobre las licencias a terceros de obras cubiertas para entrenar sistemas comerciales de IA generativa; “un fallo que declare que el entrenamiento es categóricamente uso legítimo dejaría sin efecto los términos que los sindicatos y la industria acordaron en la mesa de negociación”, señala el escrito."
         }
       ]
+    },
+    "movies/luma-expression-sheet": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "MZ-1e4uYEiA"
+        },
+        {
+          "t": "p",
+          "x": "Hace mucho con un solo rostro."
+        },
+        {
+          "t": "p",
+          "x": "Expression Sheet permite explorar hasta dónde puede llegar la actuación de un personaje antes de elegir la dirección."
+        },
+        {
+          "t": "p",
+          "x": "Ya disponible en Luma"
+        }
+      ]
+    },
+    "movies/yna-imkwontaek-ai-short": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Academia Nacional de las Artes de la República de Corea celebrará la 'Muestra de Cine 2026 de la Academia Nacional de las Artes' los días 5∼6 en el Seoul Film Center, en el distrito de Jung-gu, Seúl. En la muestra de este año, con el tema 'En la era de la inteligencia artificial (AI), ¿cómo sobrevive el cine?', se presentará por primera vez el cortometraje 'Confirmación', que una AI dirigió al estilo del director Im Kwon-taek tras estudiar sus películas."
+        },
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+          "cap": "[Cortesía de la Academia Nacional de las Artes. Prohibida su reventa y uso en DB]"
+        },
+        {
+          "t": "p",
+          "x": "La película retrata a un hijo que visita a su padre, internado en una residencia durante la crisis del COVID-19, y que nunca logra verlo antes de su muerte. La AI la realizó imitando fielmente los planos secuencia característicos del director Im Kwon-taek."
+        },
+        {
+          "t": "p",
+          "x": "Además, se mostrarán algunas escenas de 'Un hombre joven', del director Bae Chang-ho, y de 'Mi nombre es', del director Chung Ji-young, modificadas con AI. La escena del coche envuelto en llamas de 'Un hombre joven' se recreó con realismo mediante AI, y a la escena final de 'Mi nombre es' se le añadió con AI un efecto de viento. Se seleccionarán y proyectarán 8 destacadas películas de AI de corta y media duración, y se invitará a los directores a dialogar con el público."
+        }
+      ]
+    },
+    "movies/hallmark-adopting-stnick-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+          "cap": "Hallmark Media/Steven Ackerman"
+        },
+        {
+          "t": "p",
+          "x": "Una de las nuevas películas navideñas de Hallmark, \"Adopting St. Nick\", ha dejado a los fans menos que alegres, y todo por un supuesto uso de AI. La película sigue a Maren (Amy Groening), una madre soltera que dirige la ferretería de su difunto padre, cuya hija adoptiva Leah (Taylor Blake) termina emparejada con un hombre llamado Kris (Randy Apostle), que parece (y podría ser) Santa Claus."
+        },
+        {
+          "t": "img",
+          "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+          "cap": "Hallmark Media/Steven Ackerman"
+        },
+        {
+          "t": "p",
+          "x": "En el subreddit HallmarkMovies, un hilo titulado \"AI in Adopting St. Nick\" decía: \"La película literalmente acaba de empezar y lo único que veía era AI slop en la utilería\". Otros usuarios coincidieron en que la película —en particular varios gráficos— parecía muy apoyada en AI. Uno escribió: \"Noto que muchos de los letreros de las tiendas están hechos con AI\"; otro: \"Cada póster y cada nota\"."
+        },
+        {
+          "t": "p",
+          "x": "Varios usuarios dijeron haber notado AI también en otros proyectos de Hallmark. Haya usado o no Hallmark AI durante la producción, incluso la posibilidad es un tema que seguirá generando polémica. TVLine se ha puesto en contacto con Hallmark para pedir comentarios."
+        }
+      ]
+    },
+    "movies/muam-hybrid-delivery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+          "cap": "Foto de grupo de la ceremonia de premios de AI Film Festival Japan 2026 (izquierda) y el director Hyun Hae-ri presentando casos de producción híbrida con AI (derecha). Foto=Muam"
+        },
+        {
+          "t": "p",
+          "x": "La productora Muam (dirigida por Hyun Hae-ri) presentó el día 1, en una demostración para creadores de 'AI Film Festival Japan 2026' celebrada en Tokio, Japón, un proceso de producción híbrido que convierte imágenes creadas con AI generativa en planos finales de entrega para cine. El director Hyun Hae-ri participó como jurado internacional del festival."
+        },
+        {
+          "t": "p",
+          "x": "Al producir planos de AI para series originales de plataformas OTT globales, Muam ha tenido que cumplir con el QC y las especificaciones finales de entrega. Las imágenes generadas deben enlazar con los planos reales anteriores y posteriores, y cumplir además las condiciones del máster final, como resolución, frecuencia de fotogramas, tasa de bits, HDR y gestión del color. Los retos son el stuttering, los desajustes de coincidencia de fotogramas entre planos, los bordes dentados y las diferencias de color y textura entre las zonas reales y las de AI."
+        },
+        {
+          "t": "p",
+          "x": "Muam distingue primero qué partes de las placas originales de rodaje conservar y qué zonas realizar con AI, y aplica la AI generativa de forma selectiva. Diseñó el proceso para que, desde la fase de generación con AI, los responsables de VFX y DI compartan las condiciones de composición, el color y los requisitos de masterización final. “Nuestro principio es 'Film with AI, not by AI'”, dijo el director Hyun. Muam prepara proyectos de cine y video para 2027."
+        }
+      ]
+    },
+    "movies/spaced-wright-ai-remaster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+          "cap": "Spaced"
+        },
+        {
+          "t": "p",
+          "x": "Edgar Wright ha criticado con dureza una próxima reedición en Blu-Ray de “Spaced”, la serie de comedia de culto que se emitió en la TV británica en 1999-2001, sobre todo porque no sabía nada de ella. “Llevaba años insistiendo en hacer un Blu-Ray de SPACED, así que enterarme de que alguien simplemente siguió adelante sin contar con nosotros es…. un fastidio. No lo autorizó nadie de quienes participaron en hacer la serie”, escribió en X."
+        },
+        {
+          "t": "p",
+          "x": "En un comunicado enviado a Variety, Simon Pegg añadió: “No sabía absolutamente nada. No tuvimos ni voz ni voto. Jess, Edgar y yo participamos de lleno en todas las ediciones anteriores. Para empezar, habría rechazado la portada”."
+        },
+        {
+          "t": "p",
+          "x": "La nueva edición afirma haber sido reescalada mediante AI. Su descripción indica que la colección “se ha actualizado a un máster 4K completamente nuevo mediante una combinación de herramientas tradicionales y propias en un proceso de varios pasos de correcciones no comerciales y algorítmicas, que además un operador manual mejora fotograma a fotograma”."
+        },
+        {
+          "t": "p",
+          "x": "Wright dirigió los 14 episodios de la comedia de Channel 4 creada por Pegg y Jessica Hynes. La nueva edición en 4K Blu-Ray saldrá en febrero de 2027 y procede de All3Media, que ahora forma parte de Banijay Entertainment."
+        }
+      ]
     }
   }
 }

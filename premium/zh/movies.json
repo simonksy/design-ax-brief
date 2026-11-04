@@ -8889,6 +8889,119 @@
           "x": "工会认为，合理使用必须继续逐案判断。编剧和演员工会已就向第三方授权受保护作品用于训练商业生成式AI系统争取到通知与谈判的权利；意见书称：“若在此裁定训练一律属于合理使用，工会与业界在谈判桌上达成的条款将形同虚设。”"
         }
       ]
+    },
+    "movies/luma-expression-sheet": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "MZ-1e4uYEiA"
+        },
+        {
+          "t": "p",
+          "x": "她用一张脸演绎了许多。"
+        },
+        {
+          "t": "p",
+          "x": "借助Expression Sheet,你可以在选定方向前探索角色表演的各种可能。"
+        },
+        {
+          "t": "p",
+          "x": "现已登陆Luma"
+        }
+      ]
+    },
+    "movies/yna-imkwontaek-ai-short": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "大韩民国艺术院将于5∼6日在首尔中区首尔电影中心举办“2026年大韩民国艺术院电影展”。今年电影展以“人工智能(AI)时代,电影如何生存”为主题,将首次公开由AI学习林权泽导演的电影后,以其风格执导的短片《确认》。"
+        },
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+          "cap": "[大韩民国艺术院提供。禁止转售及收录DB]"
+        },
+        {
+          "t": "p",
+          "x": "影片讲述了COVID-19疫情期间,儿子前往探望住进疗养院的父亲,却始终未能见上一面,最终迎来父亲离世的故事。AI完整模仿林权泽导演标志性的长镜头调度制作了这部影片。"
+        },
+        {
+          "t": "p",
+          "x": "此外,还将公开用AI修改过的裴昶浩导演《年轻男人》和郑智泳导演《我的名字是》中的部分场景。《年轻男人》中被火焰包围的汽车场景用AI进行了逼真再现,《我的名字是》的最后一场戏则用AI添加了风吹的效果。展会还将评选并放映8部中短篇AI电影优秀作品,并邀请导演与观众交流。"
+        }
+      ]
+    },
+    "movies/hallmark-adopting-stnick-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+          "cap": "Hallmark Media/Steven Ackerman"
+        },
+        {
+          "t": "p",
+          "x": "Hallmark的一部圣诞新片《Adopting St. Nick》因涉嫌使用AI,让粉丝们高兴不起来。影片讲述了经营已故父亲五金店的单亲妈妈Maren(Amy Groening)的故事,她的养女Leah(Taylor Blake)与一位名叫Kris(Randy Apostle)、看起来像(也可能就是)圣诞老人的男子结成一对。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+          "cap": "Hallmark Media/Steven Ackerman"
+        },
+        {
+          "t": "p",
+          "x": "在HallmarkMovies子版块中,一个题为“AI in Adopting St. Nick”的帖子写道:“电影才刚开始,我在道具上看到的全是AI垃圾内容。”其他用户也认为这部电影,尤其是各种图像,看起来大量借助了AI。有人写道:“我注意到很多店铺招牌都是AI做的”;另一人写道:“每一张海报和便条都是。”"
+        },
+        {
+          "t": "p",
+          "x": "多名用户表示,他们在Hallmark的其他作品中也注意到了AI。无论Hallmark是否真的在制作中使用了AI,仅仅这种可能性就会持续引发争议。TVLine已联系Hallmark请求置评。"
+        }
+      ]
+    },
+    "movies/muam-hybrid-delivery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+          "cap": "AI Film Festival Japan 2026颁奖典礼合影(左)与发表AI混合制作案例的Hyun Hae-ri导演(右)。照片=Muam"
+        },
+        {
+          "t": "p",
+          "x": "电影公司Muam(代表Hyun Hae-ri)1日在日本东京举行的“AI Film Festival Japan 2026”创作者演示环节中,公开了将生成式AI制作的影像完成为电影最终交付镜头的混合制作流程。Hyun Hae-ri导演担任了本届电影节的国际评委。"
+        },
+        {
+          "t": "p",
+          "x": "Muam在为全球OTT原创剧集制作AI镜头的过程中,一直在应对QC和最终交付规格。生成影像需要与前后的实拍镜头衔接,还必须满足分辨率、帧率、码率、HDR及色彩管理等最终母版条件。卡顿、镜头间帧匹配不一致、边缘锯齿,以及实拍与AI区域之间的色彩和质感差异都是难题。"
+        },
+        {
+          "t": "p",
+          "x": "Muam首先区分拍摄原始素材板中需要保留的部分和要用AI实现的区域,再有选择地应用生成式AI。其流程设计让VFX和DI负责人从AI生成阶段起就共享合成条件、色彩和最终母版制作要求。Hyun导演表示:“我们的原则是‘Film with AI, not by AI’。”Muam正在筹备2027年的电影及影像项目。"
+        }
+      ]
+    },
+    "movies/spaced-wright-ai-remaster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
+          "cap": "Spaced"
+        },
+        {
+          "t": "p",
+          "x": "Edgar Wright猛烈批评即将推出的《Spaced》Blu-Ray再版。这部邪典喜剧剧集于1999-2001年在英国TV播出，而他批评的主要原因是自己对此毫不知情。他在X上写道：“我多年来一直在推动出SPACED的Blu-Ray，结果发现有人在我们未参与的情况下径自推进……真扫兴。没有任何参与制作该剧的人授权。”"
+        },
+        {
+          "t": "p",
+          "x": "Simon Pegg在发给Variety的声明中补充说：“我完全不知情。我们对此毫无发言权。Jess、Edgar和我深度参与了此前所有版本的发行。首先，我就会否决那个封面设计。”"
+        },
+        {
+          "t": "p",
+          "x": "新版声称采用AI进行了画质提升。其介绍称，该合集“结合传统工具与专有工具，经过非商业性和算法校正的多步骤流程，并由人工操作员逐帧进一步增强，升级为全新的4K 母版。”"
+        },
+        {
+          "t": "p",
+          "x": "Wright执导了由Pegg和Jessica Hynes创作的这部Channel 4情景喜剧的全部14集。新的4K Blu-Ray将于2027年2月推出，发行方为现隶属于Banijay Entertainment的All3Media。"
+        }
+      ]
     }
   }
 }

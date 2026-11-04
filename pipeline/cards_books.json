@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "books",
   "cards": [
     {
-      "id": "scholarlykitchen-ai-transparency-trap",
+      "id": "books-ao3-clone-takedown",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 공개가\n신뢰를 보장하진 않는다",
-      "body": "Scholarly Kitchen은 AI를 피해도 밝혀도 신뢰 보증은 아니라고 본다.",
-      "mini_headline": "AI 공개는 신뢰가 아니다",
+      "headline": "팬픽 작가들이 닫은\nAI 오디오북 복제 사이트",
+      "body": "AO3 팬픽 AI 오디오북 사이트가 하루 새 2,000건 넘는 삭제 요청에 닫혔다.",
+      "mini_headline": "팬픽 작가들이 닫은\nAI 복제 사이트",
       "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/",
+      "source": "404 Media",
+      "url": "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,179 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-            "cap": "덫으로 놓은 상자. 끈 달린 막대로 골판지 상자를 받쳐 세웠다."
+            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+            "cap": "사진: Elin Melaas, Unsplash"
           },
           {
             "t": "p",
-            "x": "학계의 글쓰기와 출판 과정에 AI가 자리 잡았다. 연구자는 AI로 글을 만들고 다듬으며, 출판사는 원고를 심사할 때 AI를 쓴다. AI가 만든 오류를 AI로 찾아내는 경우도 많다. 새는 양동이에 물을 붓는 격이다."
+            "x": "Archive of Our Own(AO3)의 팬픽션을 긁어다 다시 올리고 오디오북 버전으로 돈을 받던 바이브 코딩 사이트가 문을 닫았다. 사이트가 열려 있던 단 하루 사이에 작가들의 삭제 요청이 2,000건 넘게 들어왔다고 제작자는 밝혔다."
           },
           {
             "t": "p",
-            "x": "AI를 쓰지 않았다고 연구를 믿을 수 있는 건 아니다. AI 사용을 공개해도 마찬가지다. 공개로 알 수 있는 건 AI를 썼는지, 어떻게 썼는지뿐이고, 기술을 책임 있게 썼는지나 주장이 검증됐는지는 증명하지 못한다. 저자는 학술지의 AI 공개 정책을 다 지키고도 근거 없는 주장과 지어낸 참고문헌을 낼 수 있다. 공개를 연구 진실성과 품질의 증거로 착각하는 일, 이것이 투명성의 함정이다."
+            "x": "ao3.life가 나온 건 AO3가 보안 사고로 몇 주간 서비스를 멈춘다고 발표한 직후다. 제작자 Ganesh는 “가상 머신 40대를 제어하는 AI 에이전트 무리”가 인터넷에서 작품을 긁어모았다고 썼다. 사이트는 EPUBs 파일과 AI 생성(AI-generated) 오디오북을 내놓고 처음 3분이 지나면 요금을 물렸다. 수익의 91%는 작가에게 돌려주겠다고 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
           },
           {
             "t": "p",
-            "x": "AI를 어디에 쓰느냐에 따라 위험 수준도 다르다. 문법을 고치는 일과 해석을 생성하거나 데이터를 분석하는 일은 같지 않다. 2026년 8월 지침을 개정한 JAMA 네트워크도 “공개 정책만으로는 부정확하거나 심지어 조작된 AI 생성(AI-generated) 콘텐츠에 대한 우려를 해소하기에 충분하지 않을 수 있다”고 인정했다."
+            "x": "AO3의 보관물 잠금 기능도 소용없었다는 작가들이 있었다. 잠가 둔 작품까지 사이트에 그대로 올라왔다고 한다. 작품을 내리려면 AO3 프로필에 메모를 남겨야 했지만, AO3가 멈춘 동안에는 그럴 방법이 없었다."
           },
           {
             "t": "p",
-            "x": "책임과 검증의 틀에 초점을 두고, 인간의 판단으로 기술적 점검을 보완해야 한다. “AI가 있다고 부정행위가 입증되지 않듯, AI가 없다고 진실성이 입증되지도 않는다.” — Roohi Ghosh, Cactus Communications"
+            "x": "“왜 AI 슬롭(AI Slop) 오디오북에 돈을 받았느냐고요? … 사이트를 연 지 24시간 만에 순 사용자가 126,592명이었습니다.” Ganesh는 이렇게 썼다. “위안이 될지 모르겠지만, 오디오북은 11개쯤 팔았습니다.” 글 끝에서 Ganesh는 자신을 “좋은 일을 한다고 생각했던 인도의 17세”라고 소개했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI disclosure is no\nguarantee of trust",
-          "body": "Scholarly Kitchen argues that neither avoiding AI nor disclosing it guarantees trustworthy research.",
-          "mini_headline": "AI disclosure isn't trust",
+          "headline": "Fanfic writers sink\nan AI audiobook clone site",
+          "body": "More than 2,000 takedown notices in one day took down a site selling AI audiobooks made from scraped AO3 fanfic.",
+          "mini_headline": "Fanfic writers sink\nan AI clone site",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "A box set up as a trap. Cardboard box propped up with a stick attached to a string."
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "Photo by Elin Melaas on Unsplash"
               },
               {
                 "t": "p",
-                "x": "In academia, AI has found its way into writing and publication, helping researchers generate and refine content while publishers use it to screen manuscripts. In many cases AI is helping identify errors that AI itself has introduced. It's like filling a leaky bucket."
+                "x": "A vibe-coded site that scraped Archive of Our Own (AO3) fanfiction works, reuploaded them and charged for audiobook versions is down after its creator said they received over 2,000 takedown requests from authors in the single day it was up."
               },
               {
                 "t": "p",
-                "x": "The absence of AI doesn't guarantee trustworthy research. And neither does disclosing AI use. AI disclosures only tell us whether AI was used and how; they do not prove that the technology was used responsibly or that the claims were verified. An author may comply fully with a journal's AI disclosure policy and still submit unsupported claims and fabricated references. This is the transparency trap: mistaking disclosure for proof of research integrity and quality."
+                "x": "ao3.life sprang up after AO3 announced a weeks-long outage following a security incident. Its creator, Ganesh, wrote that “a swarm of AI Agents controlling 40 virtual machines” scraped the internet for works. The site offered EPUBs and AI-generated audiobooks, charging after the first three minutes, and claimed authors would get 91% of the profits."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "Different uses of AI carry different levels of risk; improving grammar is not the same as generating interpretations or analyzing data. In August 2026 the JAMA network updated its guidelines, acknowledging that “disclosure policies may not be sufficient to address concerns about AI-generated content that is incorrect or even fabricated.”"
+                "x": "Some authors said AO3’s archive lock didn’t matter: their locked works still appeared on the site. To get works removed, authors had to leave a note on their AO3 profile — impossible while AO3 was down."
               },
               {
                 "t": "p",
-                "x": "The focus should be on a framework of accountability and validation, with human judgment complementing technical checks. “The presence of AI does not establish misconduct just as the absence of AI does not establish integrity.” — Roohi Ghosh, Cactus Communications"
+                "x": "“Why did I charge for AI Slop audiobooks? … It had 126,592 unique users within 24 hours of going up,” Ganesh wrote. “I sold like 11 audiobooks, if it’s any consolation.” They signed off as “a 17 year old from India that thought they were doing something good.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 공개가\n신뢰를 보장하진 않는다",
-          "body": "Scholarly Kitchen은 AI를 피해도 밝혀도 신뢰 보증은 아니라고 본다.",
-          "mini_headline": "AI 공개는 신뢰가 아니다",
+          "headline": "팬픽 작가들이 닫은\nAI 오디오북 복제 사이트",
+          "body": "AO3 팬픽 AI 오디오북 사이트가 하루 새 2,000건 넘는 삭제 요청에 닫혔다.",
+          "mini_headline": "팬픽 작가들이 닫은\nAI 복제 사이트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "덫으로 놓은 상자. 끈 달린 막대로 골판지 상자를 받쳐 세웠다."
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "사진: Elin Melaas, Unsplash"
               },
               {
                 "t": "p",
-                "x": "학계의 글쓰기와 출판 과정에 AI가 자리 잡았다. 연구자는 AI로 글을 만들고 다듬으며, 출판사는 원고를 심사할 때 AI를 쓴다. AI가 만든 오류를 AI로 찾아내는 경우도 많다. 새는 양동이에 물을 붓는 격이다."
+                "x": "Archive of Our Own(AO3)의 팬픽션을 긁어다 다시 올리고 오디오북 버전으로 돈을 받던 바이브 코딩 사이트가 문을 닫았다. 사이트가 열려 있던 단 하루 사이에 작가들의 삭제 요청이 2,000건 넘게 들어왔다고 제작자는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "AI를 쓰지 않았다고 연구를 믿을 수 있는 건 아니다. AI 사용을 공개해도 마찬가지다. 공개로 알 수 있는 건 AI를 썼는지, 어떻게 썼는지뿐이고, 기술을 책임 있게 썼는지나 주장이 검증됐는지는 증명하지 못한다. 저자는 학술지의 AI 공개 정책을 다 지키고도 근거 없는 주장과 지어낸 참고문헌을 낼 수 있다. 공개를 연구 진실성과 품질의 증거로 착각하는 일, 이것이 투명성의 함정이다."
+                "x": "ao3.life가 나온 건 AO3가 보안 사고로 몇 주간 서비스를 멈춘다고 발표한 직후다. 제작자 Ganesh는 “가상 머신 40대를 제어하는 AI 에이전트 무리”가 인터넷에서 작품을 긁어모았다고 썼다. 사이트는 EPUBs 파일과 AI 생성(AI-generated) 오디오북을 내놓고 처음 3분이 지나면 요금을 물렸다. 수익의 91%는 작가에게 돌려주겠다고 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "AI를 어디에 쓰느냐에 따라 위험 수준도 다르다. 문법을 고치는 일과 해석을 생성하거나 데이터를 분석하는 일은 같지 않다. 2026년 8월 지침을 개정한 JAMA 네트워크도 “공개 정책만으로는 부정확하거나 심지어 조작된 AI 생성(AI-generated) 콘텐츠에 대한 우려를 해소하기에 충분하지 않을 수 있다”고 인정했다."
+                "x": "AO3의 보관물 잠금 기능도 소용없었다는 작가들이 있었다. 잠가 둔 작품까지 사이트에 그대로 올라왔다고 한다. 작품을 내리려면 AO3 프로필에 메모를 남겨야 했지만, AO3가 멈춘 동안에는 그럴 방법이 없었다."
               },
               {
                 "t": "p",
-                "x": "책임과 검증의 틀에 초점을 두고, 인간의 판단으로 기술적 점검을 보완해야 한다. “AI가 있다고 부정행위가 입증되지 않듯, AI가 없다고 진실성이 입증되지도 않는다.” — Roohi Ghosh, Cactus Communications"
+                "x": "“왜 AI 슬롭(AI Slop) 오디오북에 돈을 받았느냐고요? … 사이트를 연 지 24시간 만에 순 사용자가 126,592명이었습니다.” Ganesh는 이렇게 썼다. “위안이 될지 모르겠지만, 오디오북은 11개쯤 팔았습니다.” 글 끝에서 Ganesh는 자신을 “좋은 일을 한다고 생각했던 인도의 17세”라고 소개했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI開示は\n信頼の保証ではない",
-          "body": "Scholarly KitchenはAIの回避も開示も研究の信頼を保証しないと論じる。",
-          "mini_headline": "AI開示は信頼ではない",
+          "headline": "ファンフィク作家らが\nAI朗読の複製サイトを閉鎖",
+          "body": "AO3の二次創作を使うAI朗読サイトが、1日で2,000件超の削除要請を受け閉鎖した。",
+          "mini_headline": "ファンフィク作家らが\nAI複製サイトを閉鎖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "罠として仕掛けられた箱。ひもを結んだ棒で支えた段ボール箱。"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "写真：Elin Melaas／Unsplash"
               },
               {
                 "t": "p",
-                "x": "学術界では、AIが執筆と出版に入り込んでいる。研究者はコンテンツの生成や推敲に使い、出版社は原稿の審査に使う。多くの場合、AIはAI自身が持ち込んだ誤りを見つける役割を担っている。穴の開いたバケツに水を注ぐようなものだ。"
+                "x": "Archive of Our Own(AO3)のファンフィクション作品を収集して再アップロードし、オーディオブック版を有料で提供していたバイブコーディング製のサイトが閉鎖された。制作者によれば、公開していたわずか1日の間に、作家から2,000件を超える削除要請が届いたという。"
               },
               {
                 "t": "p",
-                "x": "AIを使っていないからといって、研究が信頼できるとは限らない。AIの使用を開示しても同じだ。AIの開示が示すのはAIを使ったかどうか、どう使ったかだけであり、技術が責任をもって使われたことや、主張が検証されたことを証明するものではない。著者は学術誌のAI開示方針を完全に守りながら、根拠のない主張や捏造した参考文献を投稿することもできる。これが透明性の罠、つまり開示を研究の公正性と質の証明と取り違えることである。"
+                "x": "ao3.lifeは、AO3がセキュリティインシデントを受けて数週間にわたるサービス停止を発表した後に登場した。制作者のGaneshは、「40台の仮想マシンを操るAIエージェントの群れ」がネット上の作品を収集したと書いている。サイトはEPUBsとAI-generated(AI生成)のオーディオブックを提供し、最初の3分を過ぎると課金する仕組みで、利益の91%を作家に渡すと主張していた。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "AIの使い方によってリスクの度合いは異なる。文法の改善は、解釈の生成やデータ分析と同じではない。2026年8月、JAMAネットワークはガイドラインを改訂し、「開示方針だけでは、誤った、あるいは捏造さえされたAI生成（AI-generated）コンテンツへの懸念に対処するには不十分かもしれない」と認めた。"
+                "x": "一部の作家によると、AO3のアーカイブロックは意味をなさなかった。ロックした作品もサイトに掲載されていたからだ。作品を削除してもらうにはAO3のプロフィールにメモを残す必要があったが、AO3が停止している間はそれも不可能だった。"
               },
               {
                 "t": "p",
-                "x": "重視すべきは説明責任と検証の枠組みであり、人間の判断が技術的なチェックを補うべきだ。「AIが存在することが不正を立証しないのと同様に、AIが存在しないことが公正性を立証するわけでもない」— Roohi Ghosh、Cactus Communications"
+                "x": "「なぜAIスロップ(AI Slop)のオーディオブックに課金したのか? … 公開から24時間以内にユニークユーザーは126,592人に達した」とGaneshは書いた。「慰めになるかはわからないが、オーディオブックは11冊ほど売れた」。そして「良いことをしていると思っていたインドの17歳」と名乗って文章を締めくくった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI披露\n并不保证可信",
-          "body": "Scholarly Kitchen认为，回避AI或披露AI都无法保证研究值得信赖。",
-          "mini_headline": "AI披露不等于可信",
+          "headline": "同人写手联手\n关停AI有声书克隆站",
+          "body": "一家抓取AO3同人作品制作AI有声书售卖的网站，一天内收到2,000多份下架通知后关闭。",
+          "mini_headline": "同人写手联手\n关停AI克隆站",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "一个被布置成陷阱的箱子。纸箱用系着绳子的木棍支起。"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "图片：Elin Melaas / Unsplash"
               },
               {
                 "t": "p",
-                "x": "在学术界，AI已进入写作与出版环节：研究人员用它生成和润色内容，出版商则用它筛查稿件。在许多情况下，AI正在帮助找出AI自身引入的错误。这就像往漏水的桶里注水。"
+                "x": "一家用氛围编程搭建的网站抓取了Archive of Our Own（AO3）上的同人作品，重新上传并对有声书版本收费，如今已经关闭。网站创建者表示，在上线的仅仅一天里，就收到了作者们发来的2,000多份下架请求。"
               },
               {
                 "t": "p",
-                "x": "不使用AI并不能保证研究可信，披露AI的使用也不能。AI披露只告诉我们是否使用了AI以及如何使用，并不能证明这项技术被负责任地使用，也不能证明相关主张经过了核实。作者可能完全遵守期刊的AI披露政策，却仍提交缺乏依据的主张和捏造的参考文献。这就是透明度陷阱：把披露误当作研究诚信与质量的证明。"
+                "x": "AO3因安全事件宣布停机数周后，ao3.life随即出现。其创建者Ganesh写道，是“一群操控40台虚拟机的AI智能体”在网上抓取了这些作品。该网站提供EPUBs电子书和AI-generated（AI生成）有声书，前三分钟之后开始收费，并声称作者可获得91%的利润。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "不同的AI用途风险不同；改进语法与生成解读或分析数据并不相同。2026年8月，JAMA网络更新了其指南，承认“披露政策可能不足以解决人们对错误甚至捏造的AI生成（AI-generated）内容的担忧。”"
+                "x": "一些作者表示，AO3的存档锁定功能毫无作用：他们锁定的作品依然出现在该网站上。作者若想下架作品，必须在自己的AO3个人主页上留言——而在AO3停机期间，这根本无法做到。"
               },
               {
                 "t": "p",
-                "x": "重点应放在问责与验证框架上，以人的判断补充技术检查。“存在AI并不能证明存在不当行为，正如没有AI并不能证明诚信。”——Roohi Ghosh，Cactus Communications"
+                "x": "“我为什么要为AI垃圾（AI Slop）有声书收费？……上线24小时内就有126,592名独立用户。”Ganesh写道，“如果能算一点安慰的话，我大概只卖出了11本有声书。”文末，其署名为“一个以为自己在做好事的17岁印度人”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Declarar el uso de AI no\ngarantiza la confianza",
-          "body": "Scholarly Kitchen sostiene que ni evitar la AI ni declararla garantiza una investigación fiable.",
-          "mini_headline": "Declarar AI no es confianza",
+          "headline": "Autores de fanfic tumban\nun sitio clon de audiolibros IA",
+          "body": "Más de 2.000 avisos de retirada en un día tumbaron un sitio que vendía audiolibros de IA creados con fanfics de AO3.",
+          "mini_headline": "Autores de fanfic tumban\nun sitio clon con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "Una caja preparada como trampa. Caja de cartón apoyada sobre un palo atado a una cuerda."
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "Foto de Elin Melaas en Unsplash"
               },
               {
                 "t": "p",
-                "x": "En el ámbito académico, la AI ha llegado a la escritura y la publicación: ayuda a los investigadores a generar y pulir contenidos, mientras las editoriales la usan para revisar manuscritos. En muchos casos, la AI ayuda a detectar errores que la propia AI ha introducido. Es como llenar un cubo que gotea."
+                "x": "Un sitio creado con vibe coding que extraía obras de fanfiction de Archive of Our Own (AO3), las volvía a subir y cobraba por versiones en audiolibro ha cerrado, después de que su creador dijera que recibió más de 2.000 solicitudes de retirada de autores en el único día que estuvo activo."
               },
               {
                 "t": "p",
-                "x": "La ausencia de AI no garantiza una investigación fiable. Tampoco lo hace declarar su uso. Las declaraciones de AI solo indican si se usó AI y cómo; no demuestran que la tecnología se usara de forma responsable ni que las afirmaciones se verificaran. Un autor puede cumplir por completo la política de declaración de AI de una revista y aun así presentar afirmaciones sin fundamento y referencias inventadas. Esta es la trampa de la transparencia: confundir la declaración con una prueba de la integridad y la calidad de la investigación."
+                "x": "ao3.life surgió después de que AO3 anunciara una interrupción de varias semanas tras un incidente de seguridad. Su creador, Ganesh, escribió que “un enjambre de agentes de IA que controlaban 40 máquinas virtuales” rastreó internet en busca de obras. El sitio ofrecía EPUBs y audiolibros AI-generated (generados por IA), cobraba a partir de los tres primeros minutos y aseguraba que los autores recibirían el 91% de los beneficios."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "Los distintos usos de la AI conllevan distintos niveles de riesgo; mejorar la gramática no es lo mismo que generar interpretaciones o analizar datos. En agosto de 2026, la red JAMA actualizó sus directrices y reconoció que “las políticas de declaración pueden no ser suficientes para abordar la preocupación por el contenido generado por AI (AI-generated) que es incorrecto o incluso inventado”."
+                "x": "Algunos autores dijeron que el bloqueo de archivo de AO3 no sirvió de nada: sus obras bloqueadas seguían apareciendo en el sitio. Para retirar sus obras, los autores debían dejar una nota en su perfil de AO3, algo imposible mientras AO3 estaba caído."
               },
               {
                 "t": "p",
-                "x": "El foco debe estar en un marco de rendición de cuentas y validación, con el juicio humano como complemento de los controles técnicos. “La presencia de AI no demuestra una mala conducta, del mismo modo que la ausencia de AI no demuestra integridad.” — Roohi Ghosh, Cactus Communications"
+                "x": "“¿Por qué cobré por audiolibros de AI Slop? … Tuvo 126.592 usuarios únicos en las 24 horas posteriores a su lanzamiento”, escribió Ganesh. “Vendí unos 11 audiolibros, si sirve de consuelo”. Se despidió como “una persona de 17 años de India que creía estar haciendo algo bueno”."
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 공개가\n신뢰를 보장하진 않는다",
-          "body": "Scholarly Kitchen은 AI 회피도 공개도 신뢰 보증은 아니라고 본다.",
-          "mini_headline": "AI 공개는 신뢰가 아니다",
+          "headline": "팬픽 작가들이 닫은\nAI 오디오북 복제 사이트",
+          "body": "AO3 팬픽 AI 오디오북 사이트가 하루 2,000건 넘는 삭제 요청에 닫혔다.",
+          "mini_headline": "팬픽 작가들이 닫은\nAI 복제 사이트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "덫으로 설치한 상자. 끈을 묶은 막대로 받쳐 세운 골판지 상자다."
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "사진: Elin Melaas, Unsplash"
               },
               {
                 "t": "p",
-                "x": "학계에서 AI는 글쓰기와 출판 과정에 자리 잡았다. 연구자는 AI로 글을 만들고 다듬고, 출판사는 원고 심사에 AI를 쓴다. 많은 경우 AI는 AI 스스로 만든 오류를 찾아내는 데 쓰인다. 새는 양동이에 물을 붓는 격이다."
+                "x": "Archive of Our Own(AO3)의 팬픽션 작품을 긁어 와 다시 올리고 오디오북 버전에 돈을 받던 바이브 코딩 사이트가 문을 닫았다. 제작자는 사이트가 열려 있던 단 하루 동안 작가들에게서 2,000건이 넘는 삭제 요청을 받았다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "AI를 쓰지 않았다고 연구를 믿을 수 있는 것은 아니다. AI 사용을 공개했다고 해도 마찬가지다. AI 공개는 AI를 썼는지, 어떻게 썼는지만 알려줄 뿐, 기술을 책임 있게 썼는지나 주장이 검증됐는지는 증명하지 못한다. 저자는 학술지의 AI 공개 정책을 모두 지키면서도 근거 없는 주장과 지어낸 참고문헌을 제출할 수 있다. 이것이 투명성의 함정, 곧 공개를 연구 진실성과 품질의 증거로 착각하는 일이다."
+                "x": "ao3.life는 AO3가 보안 사고 이후 몇 주간 서비스를 중단한다고 발표한 뒤 등장했다. 제작자 Ganesh는 “가상 머신 40대를 제어하는 AI 에이전트 무리”가 인터넷에서 작품을 긁어모았다고 썼다. 사이트는 EPUBs 파일과 AI 생성(AI-generated) 오디오북을 제공하며 처음 3분이 지나면 요금을 받았고, 수익의 91%를 작가에게 주겠다고 주장했다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "AI 활용 방식마다 위험 수준이 다르다. 문법 교정은 해석을 생성하거나 데이터를 분석하는 일과 같지 않다. 2026년 8월 JAMA 네트워크는 지침을 개정하며 “공개 정책만으로는 부정확하거나 심지어 조작된 AI 생성(AI-generated) 콘텐츠에 대한 우려를 해소하기에 충분하지 않을 수 있다”고 인정했다."
+                "x": "일부 작가는 AO3의 보관물 잠금 기능이 소용없었다고 말했다. 잠가 둔 작품도 사이트에 그대로 올라와 있었다는 것이다. 작품을 내리려면 AO3 프로필에 메모를 남겨야 했는데, AO3가 멈춘 동안에는 불가능한 일이었다."
               },
               {
                 "t": "p",
-                "x": "초점은 책임과 검증의 틀에 둬야 하며, 인간의 판단이 기술적 점검을 보완해야 한다. “AI가 있다고 부정행위가 입증되지 않듯, AI가 없다고 진실성이 입증되지도 않는다.” — Roohi Ghosh, Cactus Communications"
+                "x": "“왜 AI 슬롭(AI Slop) 오디오북에 돈을 받았느냐고요? … 사이트를 연 지 24시간 만에 순 사용자가 126,592명이었습니다.” Ganesh는 이렇게 썼다. “위안이 될지 모르겠지만, 오디오북은 11개쯤 팔았습니다.” Ganesh는 자신을 “좋은 일을 한다고 생각했던 인도의 17세”라고 소개하며 글을 맺었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI開示は\n信頼の保証ではない",
-          "body": "Scholarly KitchenはAIの回避も開示も研究の信頼を保証しないと論じる。",
-          "mini_headline": "AI開示は信頼ではない",
+          "headline": "ファンフィク作家らが\nAI朗読の複製サイトを閉鎖",
+          "body": "AO3の二次創作を使うAI朗読サイトが、1日で2,000件超の削除要請を受け閉鎖した。",
+          "mini_headline": "ファンフィク作家らが\nAI複製サイトを閉鎖",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "罠として仕掛けられた箱。ひもを結んだ棒で支えた段ボール箱。"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "写真：Elin Melaas／Unsplash"
               },
               {
                 "t": "p",
-                "x": "学術界では、AIが執筆と出版に入り込んでいる。研究者はコンテンツの生成や推敲に使い、出版社は原稿の審査に使う。多くの場合、AIはAI自身が持ち込んだ誤りを見つける役割を担っている。穴の開いたバケツに水を注ぐようなものだ。"
+                "x": "Archive of Our Own(AO3)のファンフィクション作品を収集して再アップロードし、オーディオブック版を有料で提供していたバイブコーディング製のサイトが閉鎖された。制作者によれば、公開していたわずか1日の間に、作家から2,000件を超える削除要請が届いたという。"
               },
               {
                 "t": "p",
-                "x": "AIを使っていないからといって、研究が信頼できるとは限らない。AIの使用を開示しても同じだ。AIの開示が示すのはAIを使ったかどうか、どう使ったかだけであり、技術が責任をもって使われたことや、主張が検証されたことを証明するものではない。著者は学術誌のAI開示方針を完全に守りながら、根拠のない主張や捏造した参考文献を投稿することもできる。これが透明性の罠、つまり開示を研究の公正性と質の証明と取り違えることである。"
+                "x": "ao3.lifeは、AO3がセキュリティインシデントを受けて数週間にわたるサービス停止を発表した後に登場した。制作者のGaneshは、「40台の仮想マシンを操るAIエージェントの群れ」がネット上の作品を収集したと書いている。サイトはEPUBsとAI-generated(AI生成)のオーディオブックを提供し、最初の3分を過ぎると課金する仕組みで、利益の91%を作家に渡すと主張していた。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "AIの使い方によってリスクの度合いは異なる。文法の改善は、解釈の生成やデータ分析と同じではない。2026年8月、JAMAネットワークはガイドラインを改訂し、「開示方針だけでは、誤った、あるいは捏造さえされたAI生成（AI-generated）コンテンツへの懸念に対処するには不十分かもしれない」と認めた。"
+                "x": "一部の作家によると、AO3のアーカイブロックは意味をなさなかった。ロックした作品もサイトに掲載されていたからだ。作品を削除してもらうにはAO3のプロフィールにメモを残す必要があったが、AO3が停止している間はそれも不可能だった。"
               },
               {
                 "t": "p",
-                "x": "重視すべきは説明責任と検証の枠組みであり、人間の判断が技術的なチェックを補うべきだ。「AIが存在することが不正を立証しないのと同様に、AIが存在しないことが公正性を立証するわけでもない」— Roohi Ghosh、Cactus Communications"
+                "x": "「なぜAIスロップ(AI Slop)のオーディオブックに課金したのか? … 公開から24時間以内にユニークユーザーは126,592人に達した」とGaneshは書いた。「慰めになるかはわからないが、オーディオブックは11冊ほど売れた」。そして「良いことをしていると思っていたインドの17歳」と名乗って文章を締めくくった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI披露\n并不保证可信",
-          "body": "Scholarly Kitchen认为，回避AI或披露AI都无法保证研究值得信赖。",
-          "mini_headline": "AI披露不等于可信",
+          "headline": "同人写手联手\n关停AI有声书克隆站",
+          "body": "一家抓取AO3同人作品制作AI有声书售卖的网站，一天内收到2,000多份下架通知后关闭。",
+          "mini_headline": "同人写手联手\n关停AI克隆站",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "一个被布置成陷阱的箱子。纸箱用系着绳子的木棍支起。"
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "图片：Elin Melaas / Unsplash"
               },
               {
                 "t": "p",
-                "x": "在学术界，AI已进入写作与出版环节：研究人员用它生成和润色内容，出版商则用它筛查稿件。在许多情况下，AI正在帮助找出AI自身引入的错误。这就像往漏水的桶里注水。"
+                "x": "一家用氛围编程搭建的网站抓取了Archive of Our Own（AO3）上的同人作品，重新上传并对有声书版本收费，如今已经关闭。网站创建者表示，在上线的仅仅一天里，就收到了作者们发来的2,000多份下架请求。"
               },
               {
                 "t": "p",
-                "x": "不使用AI并不能保证研究可信，披露AI的使用也不能。AI披露只告诉我们是否使用了AI以及如何使用，并不能证明这项技术被负责任地使用，也不能证明相关主张经过了核实。作者可能完全遵守期刊的AI披露政策，却仍提交缺乏依据的主张和捏造的参考文献。这就是透明度陷阱：把披露误当作研究诚信与质量的证明。"
+                "x": "AO3因安全事件宣布停机数周后，ao3.life随即出现。其创建者Ganesh写道，是“一群操控40台虚拟机的AI智能体”在网上抓取了这些作品。该网站提供EPUBs电子书和AI-generated（AI生成）有声书，前三分钟之后开始收费，并声称作者可获得91%的利润。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "不同的AI用途风险不同；改进语法与生成解读或分析数据并不相同。2026年8月，JAMA网络更新了其指南，承认“披露政策可能不足以解决人们对错误甚至捏造的AI生成（AI-generated）内容的担忧。”"
+                "x": "一些作者表示，AO3的存档锁定功能毫无作用：他们锁定的作品依然出现在该网站上。作者若想下架作品，必须在自己的AO3个人主页上留言——而在AO3停机期间，这根本无法做到。"
               },
               {
                 "t": "p",
-                "x": "重点应放在问责与验证框架上，以人的判断补充技术检查。“存在AI并不能证明存在不当行为，正如没有AI并不能证明诚信。”——Roohi Ghosh，Cactus Communications"
+                "x": "“我为什么要为AI垃圾（AI Slop）有声书收费？……上线24小时内就有126,592名独立用户。”Ganesh写道，“如果能算一点安慰的话，我大概只卖出了11本有声书。”文末，其署名为“一个以为自己在做好事的17岁印度人”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Declarar el uso de AI no\ngarantiza la confianza",
-          "body": "Scholarly Kitchen sostiene que ni evitar la AI ni declararla garantiza una investigación fiable.",
-          "mini_headline": "Declarar AI no es confianza",
+          "headline": "Autores de fanfic tumban\nun sitio clon de audiolibros IA",
+          "body": "Más de 2.000 avisos de retirada en un día tumbaron un sitio que vendía audiolibros de IA creados con fanfics de AO3.",
+          "mini_headline": "Autores de fanfic tumban\nun sitio clon con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
-                "cap": "Una caja preparada como trampa. Caja de cartón apoyada sobre un palo atado a una cuerda."
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+                "cap": "Foto de Elin Melaas en Unsplash"
               },
               {
                 "t": "p",
-                "x": "En el ámbito académico, la AI ha llegado a la escritura y la publicación: ayuda a los investigadores a generar y pulir contenidos, mientras las editoriales la usan para revisar manuscritos. En muchos casos, la AI ayuda a detectar errores que la propia AI ha introducido. Es como llenar un cubo que gotea."
+                "x": "Un sitio creado con vibe coding que extraía obras de fanfiction de Archive of Our Own (AO3), las volvía a subir y cobraba por versiones en audiolibro ha cerrado, después de que su creador dijera que recibió más de 2.000 solicitudes de retirada de autores en el único día que estuvo activo."
               },
               {
                 "t": "p",
-                "x": "La ausencia de AI no garantiza una investigación fiable. Tampoco lo hace declarar su uso. Las declaraciones de AI solo indican si se usó AI y cómo; no demuestran que la tecnología se usara de forma responsable ni que las afirmaciones se verificaran. Un autor puede cumplir por completo la política de declaración de AI de una revista y aun así presentar afirmaciones sin fundamento y referencias inventadas. Esta es la trampa de la transparencia: confundir la declaración con una prueba de la integridad y la calidad de la investigación."
+                "x": "ao3.life surgió después de que AO3 anunciara una interrupción de varias semanas tras un incidente de seguridad. Su creador, Ganesh, escribió que “un enjambre de agentes de IA que controlaban 40 máquinas virtuales” rastreó internet en busca de obras. El sitio ofrecía EPUBs y audiolibros AI-generated (generados por IA), cobraba a partir de los tres primeros minutos y aseguraba que los autores recibirían el 91% de los beneficios."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
               },
               {
                 "t": "p",
-                "x": "Los distintos usos de la AI conllevan distintos niveles de riesgo; mejorar la gramática no es lo mismo que generar interpretaciones o analizar datos. En agosto de 2026, la red JAMA actualizó sus directrices y reconoció que “las políticas de declaración pueden no ser suficientes para abordar la preocupación por el contenido generado por AI (AI-generated) que es incorrecto o incluso inventado”."
+                "x": "Algunos autores dijeron que el bloqueo de archivo de AO3 no sirvió de nada: sus obras bloqueadas seguían apareciendo en el sitio. Para retirar sus obras, los autores debían dejar una nota en su perfil de AO3, algo imposible mientras AO3 estaba caído."
               },
               {
                 "t": "p",
-                "x": "El foco debe estar en un marco de rendición de cuentas y validación, con el juicio humano como complemento de los controles técnicos. “La presencia de AI no demuestra una mala conducta, del mismo modo que la ausencia de AI no demuestra integridad.” — Roohi Ghosh, Cactus Communications"
+                "x": "“¿Por qué cobré por audiolibros de AI Slop? … Tuvo 126.592 usuarios únicos en las 24 horas posteriores a su lanzamiento”, escribió Ganesh. “Vendí unos 11 audiolibros, si sirve de consuelo”. Se despidió como “una persona de 17 años de India que creía estar haciendo algo bueno”."
               }
             ]
           }
@@ -325,15 +365,15 @@
       }
     },
     {
-      "id": "ajunews-ai-standard-contract",
-      "source_lang": "ko",
+      "id": "toonsutra-cinematic-mode",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판계, AI 조항 담아\n표준계약서 손질",
-      "body": "AI 학습 데이터 이용료 논쟁이 커지자 출판계가 표준계약서 손질에 나섰다.",
-      "mini_headline": "표준계약서에 AI 조항",
+      "headline": "Toonsutra, AI로\n만화를 영화처럼",
+      "body": "Google Veo 3·Gemini·Lyria가 Toonsutra 만화를 움직인다.",
+      "mini_headline": "Toonsutra, AI로 만화를 움직이다",
       "tool": "Books",
-      "source": "아주경제",
-      "url": "https://www.ajunews.com/amp/20261102140302421",
+      "source": "AltBollywood",
+      "url": "https://www.altbollywood.com/post/toonsutra-ai-cinematic-mode-comics-india",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -341,305 +381,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-            "cap": "로이터 연합뉴스"
+            "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
           },
           {
             "t": "p",
-            "x": "생성형 AI 산업이 급성장하면서 출판 데이터의 적정 이용료를 둘러싼 논쟁이 본격화하고 있다. 대한출판문화협회(출협)는 이달 중 AI 학습용 데이터 이용에 관한 조항을 보완한 표준계약서를 출판사들에 배포할 예정이다. 기존 저자·출판사 간 표준계약서에 AI 학습용 데이터 관련 내용을 추가하는 것으로, 현재 법률 검토가 진행 중이다. AI 학습에 따른 저작물 이용 범위와 권리 관계를 명확히 해 분쟁을 예방하려는 취지다."
+            "x": "인도 웹툰 플랫폼 Toonsutra가 Cinematic Mode 베타를 내놨다. 웹코믹을 짧은 멀티미디어 이야기로 바꿔 주는 기능이다. 움직이는 컷, 인도 언어 대사가 들어간 캐릭터 목소리, 장면 따라 바뀌는 배경음악, 자동 스크롤까지 갖춰 \"lean-back\" 방식으로 볼 수 있다. 회사 설명대로라면 만화가 스스로 이야기를 들려주는 셈이다."
           },
           {
             "t": "p",
-            "x": "출협은 국립국어원 말뭉치 사업과 관련해 2023년 웅진북센과 체결한 합의 금액을 AI 학습용 데이터의 일반적인 가격 기준으로 삼아서는 안 된다는 입장을 밝혔다. 논란은 이 사업에서 출판저작물 1만5933종이 무단 이용된 사건에서 비롯됐으며, 손해배상 소송 항소심은 합의금액을 근거로 1심보다 배상액을 낮췄다. 사건은 대법원 상고심에 계류 중이다."
+            "x": "프레임워크가 컷과 캐릭터를 읽고 무엇을 움직일지, 캐릭터 목소리는 어떨지, 음악은 어떤 역할을 할지 정한다. 회사가 밝힌 Google 모델은 세 가지다. 정지된 컷에 움직임을 입히는 Veo 3, 캐릭터 대사를 맡는 Gemini 2.5 Pro, 배경음악을 만드는 Lyria 2다. Cinematic Mode는 승인된 출판 파트너와 함께 만들었다고 한다."
           },
           {
             "t": "p",
-            "x": "국내에서는 네이버와 SK텔레콤 등이 개별 출판사와 계약을 맺고 있다. 해외에서는 앤트로픽이 저작권 집단소송에서 15억 달러(약 2조원) 규모 합의안을 마련해 도서 약 50만 종에 종당 최소 3000달러를 지급하기로 했고, 하퍼콜린스는 2024년 마이크로소프트와 종당 5000달러 조건의 AI 학습용 이용계약을 체결한 것으로 알려졌다."
+            "x": "Co-Founder(공동창업자) 겸 CEO Vishal Anand는 이번 출시를 \"Comics 2.0의 탄생\"이라고 불렀다. 회사 집계로 Toonsutra의 월간 활성 사용자는 백만 명을 넘고, 작품은 3,300편 이상, 에피소드는 500,000편에 이른다."
           },
           {
             "t": "p",
-            "x": "출협은 중간 유통업체가 한국 도서 약 30만 권을 확보해 미국으로 반출한 것으로 파악하고, 앤트로픽의 한국 도서 확보 문제에 대한 법적 대응을 검토하고 있다."
+            "x": "진짜 시험대는 기술보다 예술 쪽이다. 독자가 이야기를 더 얻었다고 느낄지, 만화를 덜 얻었다고 느낄지에 달렸다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "출판계, AI 조항 담아\n표준계약서 손질",
-          "body": "AI 학습 데이터 이용료 논쟁이 커지자 출판계가 표준계약서 손질에 나섰다.",
-          "mini_headline": "표준계약서에 AI 조항",
+        "en": {
+          "headline": "Toonsutra turns comics\ninto cinema with AI",
+          "body": "Indian webcomics platform Toonsutra uses Google's Veo 3, Gemini and Lyria to animate, voice and score its comics.",
+          "mini_headline": "Toonsutra animates\ncomics with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "로이터 연합뉴스"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI 산업이 급성장하면서 출판 데이터의 적정 이용료를 둘러싼 논쟁이 본격화하고 있다. 대한출판문화협회(출협)는 이달 중 AI 학습용 데이터 이용에 관한 조항을 보완한 표준계약서를 출판사들에 배포할 예정이다. 기존 저자·출판사 간 표준계약서에 AI 학습용 데이터 관련 내용을 추가하는 것으로, 현재 법률 검토가 진행 중이다. AI 학습에 따른 저작물 이용 범위와 권리 관계를 명확히 해 분쟁을 예방하려는 취지다."
+                "x": "Toonsutra, the Indian webtoon platform, has launched Cinematic Mode in beta. It converts webcomics into short multimedia stories with animated panels, character voices including dialogue in Indian languages, adaptive background music and auto-scroll in a \"lean-back\" format. The company describes it as a comic that, in effect, narrates itself."
               },
               {
                 "t": "p",
-                "x": "출협은 국립국어원 말뭉치 사업과 관련해 2023년 웅진북센과 체결한 합의 금액을 AI 학습용 데이터의 일반적인 가격 기준으로 삼아서는 안 된다는 입장을 밝혔다. 논란은 이 사업에서 출판저작물 1만5933종이 무단 이용된 사건에서 비롯됐으며, 손해배상 소송 항소심은 합의금액을 근거로 1심보다 배상액을 낮췄다. 사건은 대법원 상고심에 계류 중이다."
+                "x": "Its framework reads panels and characters to decide what to animate, how characters should sound and what the music should do. It credits three Google models: Veo 3 for turning static panels into animation, Gemini 2.5 Pro for character speech and Lyria 2 for background music. The company says Cinematic Mode was built with approved publishing partners."
               },
               {
                 "t": "p",
-                "x": "국내에서는 네이버와 SK텔레콤 등이 개별 출판사와 계약을 맺고 있다. 해외에서는 앤트로픽이 저작권 집단소송에서 15억 달러(약 2조원) 규모 합의안을 마련해 도서 약 50만 종에 종당 최소 3000달러를 지급하기로 했고, 하퍼콜린스는 2024년 마이크로소프트와 종당 5000달러 조건의 AI 학습용 이용계약을 체결한 것으로 알려졌다."
+                "x": "Co-Founder and CEO Vishal Anand has described the launch as \"the birth of Comics 2.0\". According to the company, Toonsutra has more than one million monthly active users and over 3,300 titles and 500,000 episodes."
               },
               {
                 "t": "p",
-                "x": "출협은 중간 유통업체가 한국 도서 약 30만 권을 확보해 미국으로 반출한 것으로 파악하고, 앤트로픽의 한국 도서 확보 문제에 대한 법적 대응을 검토하고 있다."
+                "x": "Its real test is not technical but artistic: whether readers feel they are getting more of a story, or less of the comic."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Publishers add AI clauses to\nstandard contracts",
-          "body": "As debate over fees for AI training data grows, the publishing industry is revising its standard contract.",
-          "mini_headline": "AI clauses in standard contracts",
+        "ko": {
+          "headline": "Toonsutra, AI로\n만화를 영화처럼",
+          "body": "Google Veo 3·Gemini·Lyria가 Toonsutra 만화를 움직인다.",
+          "mini_headline": "Toonsutra, AI로 만화를 움직이다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "Reuters/Yonhap"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "As the generative AI industry grows rapidly, debate over fair fees for using publishing data is heating up. The Korean Publishers Association plans to distribute to publishers, within this month, a standard contract with supplemented clauses on the use of data for AI training. The change adds provisions on AI training data to the existing standard contract between authors and publishers, and a legal review is under way. The aim is to prevent disputes by clarifying the scope of use of works and the rights involved in AI training."
+                "x": "인도 웹툰 플랫폼 Toonsutra가 Cinematic Mode 베타를 내놨다. 웹코믹을 짧은 멀티미디어 이야기로 바꿔 주는 기능이다. 움직이는 컷, 인도 언어 대사가 들어간 캐릭터 목소리, 장면 따라 바뀌는 배경음악, 자동 스크롤까지 갖춰 \"lean-back\" 방식으로 볼 수 있다. 회사 설명대로라면 만화가 스스로 이야기를 들려주는 셈이다."
               },
               {
                 "t": "p",
-                "x": "The association said the settlement amount agreed with Woongjin Booxen in 2023 in connection with the National Institute of Korean Language's corpus project should not be treated as a general price benchmark for AI training data. The controversy stems from the unauthorized use of 1만5933 published works in that project; in the damages suit, the appeals court cut the award below the 1st-instance ruling, citing the settlement amount. The case is pending before the Supreme Court."
+                "x": "프레임워크가 컷과 캐릭터를 읽고 무엇을 움직일지, 캐릭터 목소리는 어떨지, 음악은 어떤 역할을 할지 정한다. 회사가 밝힌 Google 모델은 세 가지다. 정지된 컷에 움직임을 입히는 Veo 3, 캐릭터 대사를 맡는 Gemini 2.5 Pro, 배경음악을 만드는 Lyria 2다. Cinematic Mode는 승인된 출판 파트너와 함께 만들었다고 한다."
               },
               {
                 "t": "p",
-                "x": "In Korea, companies such as Naver and SK Telecom are signing contracts with individual publishers. Overseas, Anthropic reached a proposed settlement worth 15억 달러 (about 2조원) in a copyright class action, agreeing to pay at least $3000 per title for about 50만 books, and HarperCollins reportedly signed an AI training license with Microsoft in 2024 at $5000 per title."
+                "x": "Co-Founder(공동창업자) 겸 CEO Vishal Anand는 이번 출시를 \"Comics 2.0의 탄생\"이라고 불렀다. 회사 집계로 Toonsutra의 월간 활성 사용자는 백만 명을 넘고, 작품은 3,300편 이상, 에피소드는 500,000편에 이른다."
               },
               {
                 "t": "p",
-                "x": "The association has found that an intermediate distributor obtained about 30만 Korean books and took them to the United States, and it is considering legal action over Anthropic's acquisition of Korean books."
+                "x": "진짜 시험대는 기술보다 예술 쪽이다. 독자가 이야기를 더 얻었다고 느낄지, 만화를 덜 얻었다고 느낄지에 달렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版界、AI条項を盛り込み\n標準契約書を改訂",
-          "body": "AI学習データの利用料を巡る論争が広がり、出版界が標準契約書の見直しに乗り出した。",
-          "mini_headline": "標準契約書にAI条項",
+          "headline": "Toonsutra、AIで\n漫画を映画に",
+          "body": "ToonsutraはGoogleのVeo 3、Gemini、Lyriaで漫画を映像化する。",
+          "mini_headline": "Toonsutra、AIで漫画を動かす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "ロイター聯合ニュース"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AI産業の急成長に伴い、出版データの適正な利用料を巡る論争が本格化している。大韓出版文化協会（出協）は今月中に、AI学習用データの利用に関する条項を補った標準契約書を出版社に配布する予定だ。既存の著者・出版社間の標準契約書にAI学習用データに関する内容を加えるもので、現在、法律面の検討を進めている。AI学習に伴う著作物の利用範囲と権利関係を明確にし、紛争を防ぐ狙いがある。"
+                "x": "インドのウェブトゥーンプラットフォームToonsutraが、Cinematic Modeをベータ版で公開した。ウェブコミックを短いマルチメディア作品に変換し、動くコマ、インドの言語による台詞を含むキャラクターボイス、場面に応じて変わるBGM、自動スクロールを「lean-back」形式で提供する。同社はこれを、事実上自ら語る漫画だと説明している。"
               },
               {
                 "t": "p",
-                "x": "出協は、国立国語院のコーパス事業に関連して2023年にウンジンブックセンと結んだ合意金額を、AI学習用データの一般的な価格基準とすべきではないとの立場を示した。論争はこの事業で出版著作物1万5933種が無断で利用された事件に端を発し、損害賠償訴訟の控訴審は合意金額を根拠に1審より賠償額を引き下げた。事件は大法院の上告審に係属中だ。"
+                "x": "そのフレームワークはコマとキャラクターを読み取り、何を動かすか、キャラクターがどんな声で話すか、音楽が何をすべきかを決める。使われているのはGoogleの3つのモデルだ。静止したコマをアニメーションにするVeo 3、キャラクターの台詞を担うGemini 2.5 Pro、BGMを生むLyria 2である。同社によれば、Cinematic Modeは承認を受けた出版パートナーと共に構築された。"
               },
               {
                 "t": "p",
-                "x": "韓国国内ではNaverやSKテレコムなどが個別の出版社と契約を結んでいる。海外では、Anthropicが著作権集団訴訟で15億ドル（約2兆ウォン）規模の和解案をまとめ、書籍約50万点に1点当たり最低3000ドルを支払うことになった。HarperCollinsは2024年にMicrosoftと1点当たり5000ドルの条件でAI学習用の利用契約を結んだとされる。"
+                "x": "Co-Founder(共同創業者)兼CEOのVishal Anandは、今回の公開を「Comics 2.0の誕生」と表現した。同社によると、Toonsutraの月間アクティブユーザーは百万人を超え、作品数は3,300超、エピソード数は500,000に上る。"
               },
               {
                 "t": "p",
-                "x": "出協は、中間流通業者が韓国の書籍約30万冊を確保して米国に持ち出したと把握しており、Anthropicによる韓国書籍の確保問題について法的対応を検討している。"
+                "x": "本当の試金石は技術ではなく芸術にある。読者が物語をより多く得たと感じるのか、それとも漫画を失ったと感じるのかだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版界纳入AI条款\n修订标准合同",
-          "body": "随着AI训练数据使用费之争日益升温，出版界已着手修订标准合同。",
-          "mini_headline": "标准合同加入AI条款",
+          "headline": "Toonsutra用AI\n把漫画变成电影",
+          "body": "Toonsutra用Google的Veo 3、Gemini和Lyria让漫画动起来。",
+          "mini_headline": "Toonsutra用AI让漫画动起来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "路透社/韩联社"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "随着生成式AI产业快速增长，围绕出版数据合理使用费的争论全面展开。大韩出版文化协会（出协）计划于本月内向各出版社发放补充了AI训练数据使用条款的标准合同。此举是在现有作者与出版社之间的标准合同中增加AI训练数据相关内容，目前正在进行法律审查，旨在明确AI训练涉及的作品使用范围和权利关系，预防纠纷。"
+                "x": "印度网络漫画平台Toonsutra推出了Cinematic Mode测试版。该功能将网络漫画转化为简短的多媒体故事，提供动态分镜、包含印度语言对白的角色配音、随情节变化的背景音乐，以及\"lean-back\"式的自动滚动。公司称，这实际上是一部会自己讲述的漫画。"
               },
               {
                 "t": "p",
-                "x": "出协表示，2023年就国立国语院语料库项目与Woongjin Booxen达成的和解金额，不应被当作AI训练数据的一般价格标准。争议源于该项目中1万5933种出版作品被擅自使用一事；在损害赔偿诉讼中，上诉审法院以和解金额为依据，将赔偿额判得低于1审。此案目前仍在大法院上告审中。"
+                "x": "其框架会读取分镜和角色，决定哪些内容需要动起来、角色应该是什么声音、音乐应发挥什么作用。公司列出了三款Google模型：用Veo 3把静态分镜变成动画，用Gemini 2.5 Pro生成角色语音，用Lyria 2制作背景音乐。公司表示，Cinematic Mode是与经过认可的出版合作伙伴共同打造的。"
               },
               {
                 "t": "p",
-                "x": "在韩国国内，Naver和SK电讯等公司正与个别出版社签订合同。在海外，Anthropic在版权集体诉讼中拟定了规模达15亿美元（约2万亿韩元）的和解方案，将为约50万种图书每种支付至少3000美元；据悉，HarperCollins于2024年与Microsoft签订了每种5000美元的AI训练使用合同。"
+                "x": "Co-Founder（联合创始人）兼CEO Vishal Anand将此次发布形容为\"Comics 2.0的诞生\"。据公司介绍，Toonsutra的月活跃用户超过百万，拥有3,300多部作品和500,000集内容。"
               },
               {
                 "t": "p",
-                "x": "出协掌握到，一家中间分销商获取了约30万册韩国图书并将其运往美国，目前正在研究就Anthropic获取韩国图书一事采取法律措施。"
+                "x": "真正的考验不在技术，而在艺术：读者究竟会觉得自己得到了更多故事，还是失去了漫画本身。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales suman cláusulas\nde AI al contrato tipo",
-          "body": "Ante el debate sobre las tarifas por datos de entrenamiento de AI, el sector editorial revisa su contrato tipo.",
-          "mini_headline": "Cláusulas de AI en el contrato tipo",
+          "headline": "Toonsutra convierte sus cómics\nen cine con AI",
+          "body": "La plataforma india Toonsutra usa Veo 3, Gemini y Lyria de Google para animar, dar voz y musicalizar sus cómics.",
+          "mini_headline": "Toonsutra anima cómics con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "Reuters/Yonhap"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "Con el rápido crecimiento de la industria de la AI generativa, el debate sobre una tarifa adecuada por el uso de datos editoriales se ha intensificado. La Asociación de Editores de Corea planea distribuir este mes entre las editoriales un contrato tipo que complementa las cláusulas sobre el uso de datos para el entrenamiento de AI. Se trata de añadir contenidos sobre datos de entrenamiento de AI al contrato tipo vigente entre autores y editoriales, y actualmente está en revisión jurídica. El objetivo es prevenir conflictos aclarando el alcance del uso de las obras y la relación de derechos en el entrenamiento de AI."
+                "x": "Toonsutra, la plataforma india de webtoons, lanzó Cinematic Mode en beta. La función convierte los webcómics en breves historias multimedia con viñetas animadas, voces de personajes que incluyen diálogos en idiomas de la India, música de fondo adaptativa y desplazamiento automático en formato \"lean-back\". La empresa lo describe como un cómic que, en la práctica, se narra a sí mismo."
               },
               {
                 "t": "p",
-                "x": "La asociación afirmó que el importe del acuerdo alcanzado en 2023 con Woongjin Booxen, en relación con el proyecto de corpus del Instituto Nacional de la Lengua Coreana, no debe tomarse como referencia general de precio para los datos de entrenamiento de AI. La polémica surgió del uso no autorizado de 1만5933 obras publicadas en ese proyecto; en la demanda por daños, el tribunal de apelación redujo la indemnización respecto a la de 1.ª instancia, basándose en el importe del acuerdo. El caso está pendiente de casación ante el Tribunal Supremo."
+                "x": "Su sistema lee las viñetas y los personajes para decidir qué animar, cómo deben sonar los personajes y qué debe hacer la música. Atribuye el trabajo a tres modelos de Google: Veo 3 para convertir viñetas estáticas en animación, Gemini 2.5 Pro para el habla de los personajes y Lyria 2 para la música de fondo. La empresa afirma que Cinematic Mode se creó con socios editoriales aprobados."
               },
               {
                 "t": "p",
-                "x": "En Corea, empresas como Naver y SK Telecom firman contratos con editoriales concretas. En el extranjero, Anthropic preparó un acuerdo de 15억 달러 (unos 2조원) en una demanda colectiva por derechos de autor, por el que pagará al menos 3000 dólares por título por unos 50만 libros, y se sabe que HarperCollins firmó en 2024 con Microsoft un contrato de uso para entrenamiento de AI a 5000 dólares por título."
+                "x": "El Co-Founder (cofundador) y CEO Vishal Anand ha descrito el lanzamiento como \"el nacimiento de Comics 2.0\". Según la empresa, Toonsutra tiene más de un millón de usuarios activos mensuales y más de 3,300 títulos y 500,000 episodios."
               },
               {
                 "t": "p",
-                "x": "La asociación ha constatado que un distribuidor intermediario obtuvo unos 30만 libros coreanos y los sacó a Estados Unidos, y estudia emprender acciones legales por la obtención de libros coreanos por parte de Anthropic."
+                "x": "Su verdadera prueba no es técnica sino artística: si los lectores sienten que reciben más historia o menos cómic."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Publishers add AI clauses to\nstandard contracts",
-          "body": "As debate over fees for AI training data grows, the publishing industry is revising its standard contract.",
-          "mini_headline": "AI clauses in standard contracts",
+        "ko": {
+          "headline": "Toonsutra, AI로\n만화를 영화처럼",
+          "body": "Google Veo 3·Gemini·Lyria가 Toonsutra 만화를 움직인다.",
+          "mini_headline": "Toonsutra, AI로 만화를 움직이다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "Reuters/Yonhap"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "As the generative AI industry grows rapidly, debate over fair fees for using publishing data is heating up. The Korean Publishers Association plans to distribute to publishers, within this month, a standard contract with supplemented clauses on the use of data for AI training. The change adds provisions on AI training data to the existing standard contract between authors and publishers, and a legal review is under way. The aim is to prevent disputes by clarifying the scope of use of works and the rights involved in AI training."
+                "x": "인도 웹툰 플랫폼 Toonsutra가 Cinematic Mode를 베타로 출시했다. 웹코믹을 짧은 멀티미디어 이야기로 바꾸는 기능으로, 움직이는 컷과 인도 언어 대사를 포함한 캐릭터 목소리, 장면에 맞춰 바뀌는 배경음악, 자동 스크롤을 \"lean-back\" 방식으로 제공한다. 회사는 이를 사실상 스스로 이야기를 들려주는 만화라고 설명한다."
               },
               {
                 "t": "p",
-                "x": "The association said the settlement amount agreed with Woongjin Booxen in 2023 in connection with the National Institute of Korean Language's corpus project should not be treated as a general price benchmark for AI training data. The controversy stems from the unauthorized use of 1만5933 published works in that project; in the damages suit, the appeals court cut the award below the 1st-instance ruling, citing the settlement amount. The case is pending before the Supreme Court."
+                "x": "프레임워크는 컷과 캐릭터를 읽어 무엇을 움직일지, 캐릭터가 어떤 목소리를 낼지, 음악이 어떤 역할을 할지 정한다. 회사가 밝힌 Google 모델은 세 가지다. 정지된 컷을 애니메이션으로 바꾸는 Veo 3, 캐릭터 대사를 맡는 Gemini 2.5 Pro, 배경음악을 만드는 Lyria 2다. 회사는 Cinematic Mode를 승인된 출판 파트너와 함께 만들었다고 말한다."
               },
               {
                 "t": "p",
-                "x": "In Korea, companies such as Naver and SK Telecom are signing contracts with individual publishers. Overseas, Anthropic reached a proposed settlement worth 15억 달러 (about 2조원) in a copyright class action, agreeing to pay at least $3000 per title for about 50만 books, and HarperCollins reportedly signed an AI training license with Microsoft in 2024 at $5000 per title."
+                "x": "Co-Founder(공동창업자) 겸 CEO Vishal Anand는 이번 출시를 \"Comics 2.0의 탄생\"이라고 표현했다. 회사에 따르면 Toonsutra의 월간 활성 사용자는 백만 명이 넘고, 작품은 3,300편 이상, 에피소드는 500,000편에 이른다."
               },
               {
                 "t": "p",
-                "x": "The association has found that an intermediate distributor obtained about 30만 Korean books and took them to the United States, and it is considering legal action over Anthropic's acquisition of Korean books."
+                "x": "진짜 시험대는 기술이 아니라 예술이다. 독자가 이야기를 더 얻는다고 느낄지, 아니면 만화를 덜 얻는다고 느낄지가 관건이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版界、AI条項を盛り込み\n標準契約書を改訂",
-          "body": "AI学習データの利用料を巡る論争が広がり、出版界が標準契約書の見直しに乗り出した。",
-          "mini_headline": "標準契約書にAI条項",
+          "headline": "Toonsutra、AIで\n漫画を映画に",
+          "body": "ToonsutraはGoogleのVeo 3、Gemini、Lyriaで漫画を映像化する。",
+          "mini_headline": "Toonsutra、AIで漫画を動かす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "ロイター聯合ニュース"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AI産業の急成長に伴い、出版データの適正な利用料を巡る論争が本格化している。大韓出版文化協会（出協）は今月中に、AI学習用データの利用に関する条項を補った標準契約書を出版社に配布する予定だ。既存の著者・出版社間の標準契約書にAI学習用データに関する内容を加えるもので、現在、法律面の検討を進めている。AI学習に伴う著作物の利用範囲と権利関係を明確にし、紛争を防ぐ狙いがある。"
+                "x": "インドのウェブトゥーンプラットフォームToonsutraが、Cinematic Modeをベータ版で公開した。ウェブコミックを短いマルチメディア作品に変換し、動くコマ、インドの言語による台詞を含むキャラクターボイス、場面に応じて変わるBGM、自動スクロールを「lean-back」形式で提供する。同社はこれを、事実上自ら語る漫画だと説明している。"
               },
               {
                 "t": "p",
-                "x": "出協は、国立国語院のコーパス事業に関連して2023年にウンジンブックセンと結んだ合意金額を、AI学習用データの一般的な価格基準とすべきではないとの立場を示した。論争はこの事業で出版著作物1万5933種が無断で利用された事件に端を発し、損害賠償訴訟の控訴審は合意金額を根拠に1審より賠償額を引き下げた。事件は大法院の上告審に係属中だ。"
+                "x": "そのフレームワークはコマとキャラクターを読み取り、何を動かすか、キャラクターがどんな声で話すか、音楽が何をすべきかを決める。使われているのはGoogleの3つのモデルだ。静止したコマをアニメーションにするVeo 3、キャラクターの台詞を担うGemini 2.5 Pro、BGMを生むLyria 2である。同社によれば、Cinematic Modeは承認を受けた出版パートナーと共に構築された。"
               },
               {
                 "t": "p",
-                "x": "韓国国内ではNaverやSKテレコムなどが個別の出版社と契約を結んでいる。海外では、Anthropicが著作権集団訴訟で15億ドル（約2兆ウォン）規模の和解案をまとめ、書籍約50万点に1点当たり最低3000ドルを支払うことになった。HarperCollinsは2024年にMicrosoftと1点当たり5000ドルの条件でAI学習用の利用契約を結んだとされる。"
+                "x": "Co-Founder(共同創業者)兼CEOのVishal Anandは、今回の公開を「Comics 2.0の誕生」と表現した。同社によると、Toonsutraの月間アクティブユーザーは百万人を超え、作品数は3,300超、エピソード数は500,000に上る。"
               },
               {
                 "t": "p",
-                "x": "出協は、中間流通業者が韓国の書籍約30万冊を確保して米国に持ち出したと把握しており、Anthropicによる韓国書籍の確保問題について法的対応を検討している。"
+                "x": "本当の試金石は技術ではなく芸術にある。読者が物語をより多く得たと感じるのか、それとも漫画を失ったと感じるのかだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版界纳入AI条款\n修订标准合同",
-          "body": "随着AI训练数据使用费之争日益升温，出版界已着手修订标准合同。",
-          "mini_headline": "标准合同加入AI条款",
+          "headline": "Toonsutra用AI\n把漫画变成电影",
+          "body": "Toonsutra用Google的Veo 3、Gemini和Lyria让漫画动起来。",
+          "mini_headline": "Toonsutra用AI让漫画动起来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "路透社/韩联社"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "随着生成式AI产业快速增长，围绕出版数据合理使用费的争论全面展开。大韩出版文化协会（出协）计划于本月内向各出版社发放补充了AI训练数据使用条款的标准合同。此举是在现有作者与出版社之间的标准合同中增加AI训练数据相关内容，目前正在进行法律审查，旨在明确AI训练涉及的作品使用范围和权利关系，预防纠纷。"
+                "x": "印度网络漫画平台Toonsutra推出了Cinematic Mode测试版。该功能将网络漫画转化为简短的多媒体故事，提供动态分镜、包含印度语言对白的角色配音、随情节变化的背景音乐，以及\"lean-back\"式的自动滚动。公司称，这实际上是一部会自己讲述的漫画。"
               },
               {
                 "t": "p",
-                "x": "出协表示，2023年就国立国语院语料库项目与Woongjin Booxen达成的和解金额，不应被当作AI训练数据的一般价格标准。争议源于该项目中1万5933种出版作品被擅自使用一事；在损害赔偿诉讼中，上诉审法院以和解金额为依据，将赔偿额判得低于1审。此案目前仍在大法院上告审中。"
+                "x": "其框架会读取分镜和角色，决定哪些内容需要动起来、角色应该是什么声音、音乐应发挥什么作用。公司列出了三款Google模型：用Veo 3把静态分镜变成动画，用Gemini 2.5 Pro生成角色语音，用Lyria 2制作背景音乐。公司表示，Cinematic Mode是与经过认可的出版合作伙伴共同打造的。"
               },
               {
                 "t": "p",
-                "x": "在韩国国内，Naver和SK电讯等公司正与个别出版社签订合同。在海外，Anthropic在版权集体诉讼中拟定了规模达15亿美元（约2万亿韩元）的和解方案，将为约50万种图书每种支付至少3000美元；据悉，HarperCollins于2024年与Microsoft签订了每种5000美元的AI训练使用合同。"
+                "x": "Co-Founder（联合创始人）兼CEO Vishal Anand将此次发布形容为\"Comics 2.0的诞生\"。据公司介绍，Toonsutra的月活跃用户超过百万，拥有3,300多部作品和500,000集内容。"
               },
               {
                 "t": "p",
-                "x": "出协掌握到，一家中间分销商获取了约30万册韩国图书并将其运往美国，目前正在研究就Anthropic获取韩国图书一事采取法律措施。"
+                "x": "真正的考验不在技术，而在艺术：读者究竟会觉得自己得到了更多故事，还是失去了漫画本身。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales suman cláusulas\nde AI al contrato tipo",
-          "body": "Ante el debate sobre las tarifas por datos de entrenamiento de AI, el sector editorial revisa su contrato tipo.",
-          "mini_headline": "Cláusulas de AI en el contrato tipo",
+          "headline": "Toonsutra convierte sus cómics\nen cine con AI",
+          "body": "La plataforma india Toonsutra usa Veo 3, Gemini y Lyria de Google para animar, dar voz y musicalizar sus cómics.",
+          "mini_headline": "Toonsutra anima cómics con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg",
-                "cap": "Reuters/Yonhap"
+                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
               },
               {
                 "t": "p",
-                "x": "Con el rápido crecimiento de la industria de la AI generativa, el debate sobre una tarifa adecuada por el uso de datos editoriales se ha intensificado. La Asociación de Editores de Corea planea distribuir este mes entre las editoriales un contrato tipo que complementa las cláusulas sobre el uso de datos para el entrenamiento de AI. Se trata de añadir contenidos sobre datos de entrenamiento de AI al contrato tipo vigente entre autores y editoriales, y actualmente está en revisión jurídica. El objetivo es prevenir conflictos aclarando el alcance del uso de las obras y la relación de derechos en el entrenamiento de AI."
+                "x": "Toonsutra, la plataforma india de webtoons, lanzó Cinematic Mode en beta. La función convierte los webcómics en breves historias multimedia con viñetas animadas, voces de personajes que incluyen diálogos en idiomas de la India, música de fondo adaptativa y desplazamiento automático en formato \"lean-back\". La empresa lo describe como un cómic que, en la práctica, se narra a sí mismo."
               },
               {
                 "t": "p",
-                "x": "La asociación afirmó que el importe del acuerdo alcanzado en 2023 con Woongjin Booxen, en relación con el proyecto de corpus del Instituto Nacional de la Lengua Coreana, no debe tomarse como referencia general de precio para los datos de entrenamiento de AI. La polémica surgió del uso no autorizado de 1만5933 obras publicadas en ese proyecto; en la demanda por daños, el tribunal de apelación redujo la indemnización respecto a la de 1.ª instancia, basándose en el importe del acuerdo. El caso está pendiente de casación ante el Tribunal Supremo."
+                "x": "Su sistema lee las viñetas y los personajes para decidir qué animar, cómo deben sonar los personajes y qué debe hacer la música. Atribuye el trabajo a tres modelos de Google: Veo 3 para convertir viñetas estáticas en animación, Gemini 2.5 Pro para el habla de los personajes y Lyria 2 para la música de fondo. La empresa afirma que Cinematic Mode se creó con socios editoriales aprobados."
               },
               {
                 "t": "p",
-                "x": "En Corea, empresas como Naver y SK Telecom firman contratos con editoriales concretas. En el extranjero, Anthropic preparó un acuerdo de 15억 달러 (unos 2조원) en una demanda colectiva por derechos de autor, por el que pagará al menos 3000 dólares por título por unos 50만 libros, y se sabe que HarperCollins firmó en 2024 con Microsoft un contrato de uso para entrenamiento de AI a 5000 dólares por título."
+                "x": "El Co-Founder (cofundador) y CEO Vishal Anand ha descrito el lanzamiento como \"el nacimiento de Comics 2.0\". Según la empresa, Toonsutra tiene más de un millón de usuarios activos mensuales y más de 3,300 títulos y 500,000 episodios."
               },
               {
                 "t": "p",
-                "x": "La asociación ha constatado que un distribuidor intermediario obtuvo unos 30만 libros coreanos y los sacó a Estados Unidos, y estudia emprender acciones legales por la obtención de libros coreanos por parte de Anthropic."
+                "x": "Su verdadera prueba no es técnica sino artística: si los lectores sienten que reciben más historia o menos cómic."
               }
             ]
           }
@@ -647,15 +677,15 @@
       }
     },
     {
-      "id": "npr-pangram-false-flags",
+      "id": "meridian-cashmere-presses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 판정된 작가들\n탐지기는 뭘 봤나",
-      "body": "편집자들이 불완전한 AI 탐지기로 원고를 거르자 잘못 걸린 작가들은 영문을 모른다.",
-      "mini_headline": "AI 판정, 그다음은",
+      "headline": "AI 관문 Meridian\n대학 출판부 세 곳이 지원",
+      "body": "대학 출판부 세 곳이 라이선스 기반 학술 AI 관문 Meridian에 힘을 싣는다.",
+      "mini_headline": "대학 출판부들,\nMeridian 지원",
       "tool": "Books",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -663,185 +693,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-            "cap": "AI 탐지 소프트웨어가 자기 작품을 잘못 판정할까 걱정하는 작가들도 있다. karetoria/Getty Images"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
           },
           {
             "t": "p",
-            "x": "대필 작가 Sally McGraw는 책 기획서에 낼 글 샘플을 제출했다가 여러 AI 탐지 도구가 이를 기계가 생성한 글로 판정했다는 말을 들었다. “텍스트를 생성하는 데 AI를 쓰지 않았기 때문에 큰 충격을 받았다”고 그는 말했다. 의뢰인은 다른 사람을 고용할 때 그 결과가 결정적 요인은 아니었다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-            "cap": "대필 작가 Sally McGraw는 글 쓰는 스타일을 바꿨다고 했다. Sally McGraw"
+            "x": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press가 새 서비스 Meridian에 창립 출판사로 참여한다. 운영사는 Salt Lake City의 스타트업 Cashmere로, 출판사 콘텐츠를 AI 기업에 라이선스하는 회사다."
           },
           {
             "t": "p",
-            "x": "AI 생성(AI-generated) 콘텐츠가 쏟아지자 일부 편집자는 탐지 도구에 기댄다. 이런 도구는 사람이 쓴 글도 잘못 판정한다고 알려져 있다. Clarkesworld의 Neil Clarke에 따르면 월간 투고는 2021년 약 1,100건에서 2023년 2월까지 두 배로 늘었다. 6월에 탐지기 네 개로 논문 160편을 시험한 연구에서는 Pangram이 가장 일관되게 정확했다. Pangram의 CEO Max Spero는 텍스트가 적을 때 특히 실수가 나올 수 있다고 했다."
+            "x": "학생과 연구자는 Meridian으로 도서관이 이미 라이선스한 학술서와 학술지를 정식으로 볼 수 있다. 연구자가 AI 도구에 질문하면 Meridian은 그 도구가 동료 심사를 거친 콘텐츠에서 답을 찾고 출처를 밝히도록 돕고, 독자를 소속 도서관 구독을 거쳐 최종 출판본으로 이끈다. Meridian으로 가져간 콘텐츠는 AI 모델 학습에 쓸 수 없다."
           },
           {
             "t": "p",
-            "x": "Penn의 Chris Callison-Burch는 탐지기가 단어 선택과 문장부호, 문장 구조를 본다고 설명한다. “delve” 같은 단어나 잦은 줄표(em dash), 세 가지씩 늘어놓는 방식 같은 것이다. Authors Guild는 AI 탐지기가 “마녀사냥을 떠올리게 하는 환경”을 만든다고 했다. Clarke는 “투고는 고발이 아니라 거절로 끝나야 한다”고 말했다. McGraw는 이제 특정 단어를 피한다. “내 em dash가 그립다.”"
+            "x": "Meridian 내부에서는 Anthropic이 개발한 개방형 표준 Model Context Protocol(MCP)이 돌아간다. 그래서 출판사는 AI 기업마다 따로 연결할 필요 없이 한 번만 연결하면 된다. 참여는 자율이다. 출판사는 언제든 책을 뺄 수 있고 자사 책이 어떤 질문에 답했는지, 콘텐츠가 얼마나 자주 인용되는지도 볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "창립 출판부들과 Cashmere는 Meridian 자문위원회를 꾸린다. Meridian이 독립 비영리 법인으로 서면 이 위원회가 이사회로 바뀐다. 창립 출판사들은 이달 카탈로그를 올리고, 올가을 후반 일부 도서관과 시범 운영에 들어간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Flagged as AI, writers ask\nwhat the detector saw",
-          "body": "Editors screen submissions with imperfect AI detectors, leaving falsely flagged writers unsure what triggered them.",
-          "mini_headline": "Flagged as AI, now what",
+          "headline": "Three university presses\nback the Meridian AI gateway",
+          "body": "Cambridge, Johns Hopkins and Princeton presses back Meridian, a licensed AI gateway to scholarly books and journals.",
+          "mini_headline": "University presses\nback Meridian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "Some writers worry that AI detection software could falsely flag their work. karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "Ghostwriter Sally McGraw submitted a writing sample for a book proposal and was told multiple AI detection tools had flagged it as machine-generated. “I was floored because I had not used AI to generate the text,” she said. The client said the results were not the determining factor in hiring someone else."
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "Sally McGraw, a ghostwriter, said she's changed her writing style. Sally McGraw"
+                "x": "Cambridge University Press, Johns Hopkins University Press, and Princeton University Press are the founding publishers of Meridian, a new service run by Cashmere, the Salt Lake City–based start-up that licenses publishers’ content to AI companies."
               },
               {
                 "t": "p",
-                "x": "As editors struggle with an influx of AI-generated content, some turn to detection tools, which have been known to falsely flag human-written work. Clarkesworld's Neil Clarke says monthly submissions doubled by February 2023 from roughly 1,100 in 2021. In a June study of four detectors on 160 papers, Pangram was the most consistently accurate; its CEO Max Spero said it can make mistakes, especially with little text."
+                "x": "Meridian gives students and researchers authorized access to scholarly books and journals that libraries already license. When a researcher asks an AI tool a question, Meridian lets the tool pull its answer from that peer-reviewed content, cite the source, and send the reader through their library’s subscription to the final published version. Content accessed through Meridian cannot be used to train AI models."
               },
               {
                 "t": "p",
-                "x": "Penn's Chris Callison-Burch says detectors look at word choice, punctuation and sentence structure — “delve,” frequent em dashes, lists of threes. The Authors Guild said AI detectors create “an environment reminiscent of witch hunts.” “Submissions should end in rejection, not an accusation,” Clarke said. McGraw now avoids certain words: “I miss my em dash.”"
+                "x": "Behind the scenes, Meridian uses the Model Context Protocol, or MCP, an open standard developed by Anthropic, so publishers build one connection instead of one for every AI company. Joining is voluntary; publishers can pull titles at any time and will see which questions their books answered and how often their content is cited."
+              },
+              {
+                "t": "p",
+                "x": "The founding presses and Cashmere form Meridian’s advisory council, which will become its board once it incorporates as an independent nonprofit. Founding publishers load their catalogs this month, and a test run with a limited group of libraries begins later this fall."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로 판정된 작가들\n탐지기는 뭘 봤나",
-          "body": "편집자들이 불완전한 AI 탐지기로 원고를 거르자 잘못 걸린 작가들은 영문을 모른다.",
-          "mini_headline": "AI 판정, 그다음은",
+          "headline": "AI 관문 Meridian\n대학 출판부 세 곳이 지원",
+          "body": "대학 출판부 세 곳이 라이선스 기반 학술 AI 관문 Meridian에 힘을 싣는다.",
+          "mini_headline": "대학 출판부들,\nMeridian 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "AI 탐지 소프트웨어가 자기 작품을 잘못 판정할까 걱정하는 작가들도 있다. karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "대필 작가 Sally McGraw는 책 기획서에 낼 글 샘플을 제출했다가 여러 AI 탐지 도구가 이를 기계가 생성한 글로 판정했다는 말을 들었다. “텍스트를 생성하는 데 AI를 쓰지 않았기 때문에 큰 충격을 받았다”고 그는 말했다. 의뢰인은 다른 사람을 고용할 때 그 결과가 결정적 요인은 아니었다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "대필 작가 Sally McGraw는 글 쓰는 스타일을 바꿨다고 했다. Sally McGraw"
+                "x": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press가 새 서비스 Meridian에 창립 출판사로 참여한다. 운영사는 Salt Lake City의 스타트업 Cashmere로, 출판사 콘텐츠를 AI 기업에 라이선스하는 회사다."
               },
               {
                 "t": "p",
-                "x": "AI 생성(AI-generated) 콘텐츠가 쏟아지자 일부 편집자는 탐지 도구에 기댄다. 이런 도구는 사람이 쓴 글도 잘못 판정한다고 알려져 있다. Clarkesworld의 Neil Clarke에 따르면 월간 투고는 2021년 약 1,100건에서 2023년 2월까지 두 배로 늘었다. 6월에 탐지기 네 개로 논문 160편을 시험한 연구에서는 Pangram이 가장 일관되게 정확했다. Pangram의 CEO Max Spero는 텍스트가 적을 때 특히 실수가 나올 수 있다고 했다."
+                "x": "학생과 연구자는 Meridian으로 도서관이 이미 라이선스한 학술서와 학술지를 정식으로 볼 수 있다. 연구자가 AI 도구에 질문하면 Meridian은 그 도구가 동료 심사를 거친 콘텐츠에서 답을 찾고 출처를 밝히도록 돕고, 독자를 소속 도서관 구독을 거쳐 최종 출판본으로 이끈다. Meridian으로 가져간 콘텐츠는 AI 모델 학습에 쓸 수 없다."
               },
               {
                 "t": "p",
-                "x": "Penn의 Chris Callison-Burch는 탐지기가 단어 선택과 문장부호, 문장 구조를 본다고 설명한다. “delve” 같은 단어나 잦은 줄표(em dash), 세 가지씩 늘어놓는 방식 같은 것이다. Authors Guild는 AI 탐지기가 “마녀사냥을 떠올리게 하는 환경”을 만든다고 했다. Clarke는 “투고는 고발이 아니라 거절로 끝나야 한다”고 말했다. McGraw는 이제 특정 단어를 피한다. “내 em dash가 그립다.”"
+                "x": "Meridian 내부에서는 Anthropic이 개발한 개방형 표준 Model Context Protocol(MCP)이 돌아간다. 그래서 출판사는 AI 기업마다 따로 연결할 필요 없이 한 번만 연결하면 된다. 참여는 자율이다. 출판사는 언제든 책을 뺄 수 있고 자사 책이 어떤 질문에 답했는지, 콘텐츠가 얼마나 자주 인용되는지도 볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "창립 출판부들과 Cashmere는 Meridian 자문위원회를 꾸린다. Meridian이 독립 비영리 법인으로 서면 이 위원회가 이사회로 바뀐다. 창립 출판사들은 이달 카탈로그를 올리고, 올가을 후반 일부 도서관과 시범 운영에 들어간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI判定された作家たち\n検出器は何を見たか",
-          "body": "編集者が不完全なAI検出器で投稿を選別し、誤判定された作家は原因が分からずにいる。",
-          "mini_headline": "AI判定、その先は",
+          "headline": "3つの大学出版局が\nAI窓口Meridian支援",
+          "body": "3つの大学出版局が、学術書と学術誌へのライセンス型AI窓口Meridianを支援する。",
+          "mini_headline": "大学出版局が\nMeridianを支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "AI検出ソフトウェアに作品を誤って判定されるのではと懸念する作家もいる。karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "ゴーストライターのSally McGrawは書籍企画のために文章サンプルを提出したところ、複数のAI検出ツールが機械生成と判定したと告げられた。「文章の生成にAIは使っていなかったので、愕然とした」と彼女は語る。クライアントは、その結果が別の人を採用した決め手ではなかったと説明した。"
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "ゴーストライターのSally McGrawは、文章のスタイルを変えたと話す。Sally McGraw"
+                "x": "Cambridge University Press、Johns Hopkins University Press、Princeton University Pressが、新サービスMeridianの創設出版社となった。Meridianを運営するのは、出版社のコンテンツをAI企業にライセンスするSalt Lake Cityのスタートアップ、Cashmereだ。"
               },
               {
                 "t": "p",
-                "x": "AI生成（AI-generated）コンテンツの流入に苦しむ編集者の中には検出ツールに頼る者もいるが、こうしたツールは人間が書いた作品を誤判定することが知られている。ClarkesworldのNeil Clarkeによると、月間の投稿数は2021年の約1,100件から2023年2月までに倍増した。四つの検出器で160本の論文を調べた6月の研究では、Pangramが最も一貫して正確だった。同社のCEOであるMax Speroは、特に文章量が少ない場合には誤ることがあると述べた。"
+                "x": "Meridianは、図書館がすでにライセンスしている学術書や学術誌への正規のアクセスを学生や研究者に提供する。研究者がAIツールに質問すると、Meridianはそのツールが査読済みコンテンツから回答を引き出し、出典を示し、読者を所属図書館の購読経由で最終出版版へ案内できるようにする。Meridianを通じてアクセスしたコンテンツは、AIモデルの学習には使えない。"
               },
               {
                 "t": "p",
-                "x": "PennのChris Callison-Burchによれば、検出器は語の選択、句読点、文の構造を見る。「delve」という語、頻繁なem dash（エムダッシュ）、三つ組の列挙などだ。Authors Guildは、AI検出器が「魔女狩りを思わせる環境」を生み出していると述べた。「投稿は告発ではなく、不採用で終わるべきだ」とClarkeは言う。McGrawは今、特定の語を避けている。「em dashが恋しい」"
+                "x": "裏側では、MeridianはAnthropicが開発したオープン標準Model Context Protocol(MCP)を使う。そのため出版社はAI企業ごとに接続を作る必要がなく、接続は1つで済む。参加は任意で、出版社はいつでも作品を引き上げられ、自社の本がどんな質問に答えたか、コンテンツがどれほど頻繁に引用されたかを確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "創設出版局とCashmereはMeridianの諮問委員会を構成し、Meridianが独立した非営利団体として法人化された後は、同委員会が理事会となる。創設出版社は今月カタログを登録し、この秋の後半には限られた図書館との試験運用が始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "被判为AI，作家追问\n检测器看到了什么",
-          "body": "编辑用并不完善的AI检测器筛选投稿，被误判的作者却不知原因何在。",
-          "mini_headline": "被判为AI之后",
+          "headline": "三家大学出版社\n力挺AI门户Meridian",
+          "body": "剑桥、约翰斯·霍普金斯和普林斯顿大学出版社支持经授权的学术AI门户Meridian。",
+          "mini_headline": "大学出版社\n力挺Meridian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "一些作家担心AI检测软件会误判他们的作品。karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "代笔作家Sally McGraw为一份图书提案提交了写作样稿，却被告知多款AI检测工具将其判定为机器生成。“我惊呆了，因为我并没有用AI生成文字，”她说。客户表示，检测结果并不是其改聘他人的决定性因素。"
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "代笔作家Sally McGraw说，她已改变了自己的写作风格。Sally McGraw"
+                "x": "Cambridge University Press、Johns Hopkins University Press和Princeton University Press成为新服务Meridian的创始出版方。Meridian由总部位于Salt Lake City的初创公司Cashmere运营，该公司向AI企业授权出版商的内容。"
               },
               {
                 "t": "p",
-                "x": "面对大量涌入的AI生成（AI-generated）内容，一些编辑转向检测工具，而这类工具已知会误判人类撰写的作品。Clarkesworld的Neil Clarke说，月投稿量从2021年的约1,100篇，到2023年2月已翻了一倍。在6月一项用四款检测器测试160篇论文的研究中，Pangram的准确度最为稳定；其CEO Max Spero表示，它可能出错，尤其是在文本很少时。"
+                "x": "Meridian让学生和研究人员能够经授权访问图书馆已获许可的学术图书和期刊。当研究人员向AI工具提问时，Meridian让该工具从经过同行评审的内容中提取答案、注明出处，并通过读者所在图书馆的订阅将其引导至最终出版版本。通过Meridian访问的内容不得用于训练AI模型。"
               },
               {
                 "t": "p",
-                "x": "Penn的Chris Callison-Burch说，检测器会看用词、标点和句子结构——比如“delve”、频繁使用的破折号（em dash）、三项并列。Authors Guild表示，AI检测器营造出“一种令人联想到猎巫的环境”。“投稿应以退稿告终，而不是以指控告终，”Clarke说。McGraw如今会避开某些词：“我怀念我的em dash。”"
+                "x": "在后台，Meridian采用Anthropic开发的开放标准Model Context Protocol（MCP），因此出版商只需建立一个连接，而不必为每家AI公司分别对接。加入完全自愿；出版商可以随时撤下书目，并能看到自家图书回答了哪些问题、内容被引用的频率。"
+              },
+              {
+                "t": "p",
+                "x": "各创始出版社与Cashmere组成Meridian的顾问委员会，待Meridian注册为独立非营利机构后，该委员会将成为其董事会。创始出版商将于本月上传书目，今秋晚些时候将与少数图书馆开展试运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Marcados como AI, los autores\npreguntan qué vio el detector",
-          "body": "Los editores filtran envíos con detectores de AI imperfectos y los autores señalados por error ignoran el motivo.",
-          "mini_headline": "Marcados como AI, ¿y ahora?",
+          "headline": "Tres editoriales universitarias\nrespaldan el portal IA Meridian",
+          "body": "Las editoriales de Cambridge, Johns Hopkins y Princeton respaldan Meridian, un portal de IA para textos académicos.",
+          "mini_headline": "Editoriales universitarias\nrespaldan Meridian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "Algunos escritores temen que el software de detección de AI marque su trabajo por error. karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "La escritora fantasma Sally McGraw envió una muestra de escritura para una propuesta de libro y le dijeron que varias herramientas de detección de AI la habían marcado como generada por máquina. “Me quedé helada porque no había usado AI para generar el texto”, dijo. El cliente afirmó que los resultados no fueron el factor determinante para contratar a otra persona."
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "Sally McGraw, escritora fantasma, dijo que ha cambiado su estilo de escritura. Sally McGraw"
+                "x": "Cambridge University Press, Johns Hopkins University Press y Princeton University Press son las editoriales fundadoras de Meridian, un nuevo servicio gestionado por Cashmere, la start-up con sede en Salt Lake City que licencia contenido de editoriales a empresas de IA."
               },
               {
                 "t": "p",
-                "x": "Mientras los editores lidian con una avalancha de contenido generado por AI (AI-generated), algunos recurren a herramientas de detección, que se sabe que marcan por error textos escritos por personas. Neil Clarke, de Clarkesworld, dice que los envíos mensuales se duplicaron hacia febrero de 2023, desde unos 1,100 en 2021. En un estudio de junio con cuatro detectores sobre 160 artículos, Pangram fue el más consistentemente preciso; su CEO, Max Spero, dijo que puede equivocarse, sobre todo con poco texto."
+                "x": "Meridian ofrece a estudiantes e investigadores acceso autorizado a libros y revistas académicas que las bibliotecas ya tienen bajo licencia. Cuando un investigador hace una pregunta a una herramienta de IA, Meridian permite que esta extraiga la respuesta de ese contenido revisado por pares, cite la fuente y dirija al lector, a través de la suscripción de su biblioteca, a la versión final publicada. El contenido al que se accede mediante Meridian no puede usarse para entrenar modelos de IA."
               },
               {
                 "t": "p",
-                "x": "Chris Callison-Burch, de Penn, dice que los detectores se fijan en la elección de palabras, la puntuación y la estructura de las frases: “delve”, el uso frecuente de rayas (em dashes), las enumeraciones de tres. El Authors Guild dijo que los detectores de AI crean “un ambiente que recuerda a la caza de brujas”. “Los envíos deberían terminar en un rechazo, no en una acusación”, dijo Clarke. McGraw ahora evita ciertas palabras: “Echo de menos mi raya (em dash)”."
+                "x": "Internamente, Meridian utiliza el Model Context Protocol, o MCP, un estándar abierto desarrollado por Anthropic, de modo que las editoriales crean una sola conexión en lugar de una para cada empresa de IA. La participación es voluntaria: las editoriales pueden retirar títulos en cualquier momento y verán qué preguntas respondieron sus libros y con qué frecuencia se cita su contenido."
+              },
+              {
+                "t": "p",
+                "x": "Las editoriales fundadoras y Cashmere forman el consejo asesor de Meridian, que se convertirá en su junta directiva cuando se constituya como organización independiente sin fines de lucro. Las editoriales fundadoras cargan sus catálogos este mes, y una prueba con un grupo limitado de bibliotecas comenzará a finales de este otoño."
               }
             ]
           }
@@ -849,129 +867,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI로 판정된 작가들\n탐지기는 뭘 봤나",
-          "body": "편집자들이 불완전한 AI 탐지기로 원고를 걸러내자 오판된 작가들은 이유를 모른다.",
-          "mini_headline": "AI 판정, 그다음은",
+          "headline": "AI 관문 Meridian\n대학 출판부 세 곳이 지원",
+          "body": "대학 출판부 세 곳이 라이선스 기반 학술 AI 관문 Meridian을 지원한다.",
+          "mini_headline": "대학 출판부들,\nMeridian 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "일부 작가들은 AI 탐지 소프트웨어가 자기 작품을 잘못 판정할까 걱정한다. karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "대필 작가 Sally McGraw는 책 기획서를 위해 글 샘플을 제출했다가, 여러 AI 탐지 도구가 이를 기계가 생성한 글로 판정했다는 말을 들었다. “텍스트를 생성하는 데 AI를 쓰지 않았기 때문에 큰 충격을 받았다”고 그는 말했다. 의뢰인은 다른 사람을 고용하는 데 그 결과가 결정적 요인은 아니었다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "대필 작가 Sally McGraw는 글쓰기 스타일을 바꿨다고 말했다. Sally McGraw"
+                "x": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press가 새 서비스 Meridian의 창립 출판사로 참여한다. Meridian은 출판사 콘텐츠를 AI 기업에 라이선스하는 Salt Lake City 기반 스타트업 Cashmere가 운영한다."
               },
               {
                 "t": "p",
-                "x": "AI 생성(AI-generated) 콘텐츠가 밀려들어 고심하는 편집자 가운데 일부는 탐지 도구에 기대는데, 이런 도구는 사람이 쓴 글을 잘못 판정하는 것으로 알려져 있다. Clarkesworld의 Neil Clarke는 월간 투고가 2021년 약 1,100건에서 2023년 2월까지 두 배로 늘었다고 말한다. 탐지기 네 개로 논문 160편을 시험한 6월의 한 연구에서 Pangram이 가장 일관되게 정확했다. Pangram의 CEO Max Spero는 특히 텍스트가 적을 때 실수할 수 있다고 말했다."
+                "x": "Meridian은 도서관이 이미 라이선스한 학술서와 학술지에 학생과 연구자가 정식으로 접근할 수 있게 한다. 연구자가 AI 도구에 질문하면, Meridian은 그 도구가 동료 심사를 거친 콘텐츠에서 답을 끌어오고 출처를 인용하며, 독자를 소속 도서관의 구독을 거쳐 최종 출판본으로 안내하도록 돕는다. Meridian으로 접근한 콘텐츠는 AI 모델 학습에 쓸 수 없다."
               },
               {
                 "t": "p",
-                "x": "Penn의 Chris Callison-Burch는 탐지기가 단어 선택, 문장부호, 문장 구조를 본다고 설명한다. “delve” 같은 단어, 잦은 줄표(em dash), 세 가지씩 나열하는 방식 등이다. Authors Guild는 AI 탐지기가 “마녀사냥을 떠올리게 하는 환경”을 만든다고 했다. “투고는 고발이 아니라 거절로 끝나야 한다”고 Clarke는 말했다. McGraw는 이제 특정 단어를 피한다. “내 em dash가 그립다.”"
+                "x": "Meridian은 내부적으로 Anthropic이 개발한 개방형 표준 Model Context Protocol(MCP)을 쓴다. 덕분에 출판사는 AI 기업마다 따로 연결을 만들 필요 없이 연결 하나만 만들면 된다. 참여는 자율이다. 출판사는 언제든 책을 뺄 수 있고, 자사 책이 어떤 질문에 답했는지, 콘텐츠가 얼마나 자주 인용되는지 확인할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "창립 출판부들과 Cashmere는 Meridian의 자문위원회를 구성한다. 이 위원회는 Meridian이 독립 비영리 법인으로 설립되면 이사회가 된다. 창립 출판사들은 이달 카탈로그를 올리고, 올가을 후반에는 일부 도서관과 함께 시범 운영을 시작한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI判定された作家たち\n検出器は何を見たか",
-          "body": "編集者が不完全なAI検出器で投稿を選別し、誤判定された作家は原因が分からずにいる。",
-          "mini_headline": "AI判定、その先は",
+          "headline": "3つの大学出版局が\nAI窓口Meridian支援",
+          "body": "3つの大学出版局が、学術書と学術誌へのライセンス型AI窓口Meridianを支援する。",
+          "mini_headline": "大学出版局が\nMeridianを支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "AI検出ソフトウェアに作品を誤って判定されるのではと懸念する作家もいる。karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "ゴーストライターのSally McGrawは書籍企画のために文章サンプルを提出したところ、複数のAI検出ツールが機械生成と判定したと告げられた。「文章の生成にAIは使っていなかったので、愕然とした」と彼女は語る。クライアントは、その結果が別の人を採用した決め手ではなかったと説明した。"
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "ゴーストライターのSally McGrawは、文章のスタイルを変えたと話す。Sally McGraw"
+                "x": "Cambridge University Press、Johns Hopkins University Press、Princeton University Pressが、新サービスMeridianの創設出版社となった。Meridianを運営するのは、出版社のコンテンツをAI企業にライセンスするSalt Lake Cityのスタートアップ、Cashmereだ。"
               },
               {
                 "t": "p",
-                "x": "AI生成（AI-generated）コンテンツの流入に苦しむ編集者の中には検出ツールに頼る者もいるが、こうしたツールは人間が書いた作品を誤判定することが知られている。ClarkesworldのNeil Clarkeによると、月間の投稿数は2021年の約1,100件から2023年2月までに倍増した。四つの検出器で160本の論文を調べた6月の研究では、Pangramが最も一貫して正確だった。同社のCEOであるMax Speroは、特に文章量が少ない場合には誤ることがあると述べた。"
+                "x": "Meridianは、図書館がすでにライセンスしている学術書や学術誌への正規のアクセスを学生や研究者に提供する。研究者がAIツールに質問すると、Meridianはそのツールが査読済みコンテンツから回答を引き出し、出典を示し、読者を所属図書館の購読経由で最終出版版へ案内できるようにする。Meridianを通じてアクセスしたコンテンツは、AIモデルの学習には使えない。"
               },
               {
                 "t": "p",
-                "x": "PennのChris Callison-Burchによれば、検出器は語の選択、句読点、文の構造を見る。「delve」という語、頻繁なem dash（エムダッシュ）、三つ組の列挙などだ。Authors Guildは、AI検出器が「魔女狩りを思わせる環境」を生み出していると述べた。「投稿は告発ではなく、不採用で終わるべきだ」とClarkeは言う。McGrawは今、特定の語を避けている。「em dashが恋しい」"
+                "x": "裏側では、MeridianはAnthropicが開発したオープン標準Model Context Protocol(MCP)を使う。そのため出版社はAI企業ごとに接続を作る必要がなく、接続は1つで済む。参加は任意で、出版社はいつでも作品を引き上げられ、自社の本がどんな質問に答えたか、コンテンツがどれほど頻繁に引用されたかを確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "創設出版局とCashmereはMeridianの諮問委員会を構成し、Meridianが独立した非営利団体として法人化された後は、同委員会が理事会となる。創設出版社は今月カタログを登録し、この秋の後半には限られた図書館との試験運用が始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "被判为AI，作家追问\n检测器看到了什么",
-          "body": "编辑用并不完善的AI检测器筛选投稿，被误判的作者却不知原因何在。",
-          "mini_headline": "被判为AI之后",
+          "headline": "三家大学出版社\n力挺AI门户Meridian",
+          "body": "剑桥、约翰斯·霍普金斯和普林斯顿大学出版社支持经授权的学术AI门户Meridian。",
+          "mini_headline": "大学出版社\n力挺Meridian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "一些作家担心AI检测软件会误判他们的作品。karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "代笔作家Sally McGraw为一份图书提案提交了写作样稿，却被告知多款AI检测工具将其判定为机器生成。“我惊呆了，因为我并没有用AI生成文字，”她说。客户表示，检测结果并不是其改聘他人的决定性因素。"
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "代笔作家Sally McGraw说，她已改变了自己的写作风格。Sally McGraw"
+                "x": "Cambridge University Press、Johns Hopkins University Press和Princeton University Press成为新服务Meridian的创始出版方。Meridian由总部位于Salt Lake City的初创公司Cashmere运营，该公司向AI企业授权出版商的内容。"
               },
               {
                 "t": "p",
-                "x": "面对大量涌入的AI生成（AI-generated）内容，一些编辑转向检测工具，而这类工具已知会误判人类撰写的作品。Clarkesworld的Neil Clarke说，月投稿量从2021年的约1,100篇，到2023年2月已翻了一倍。在6月一项用四款检测器测试160篇论文的研究中，Pangram的准确度最为稳定；其CEO Max Spero表示，它可能出错，尤其是在文本很少时。"
+                "x": "Meridian让学生和研究人员能够经授权访问图书馆已获许可的学术图书和期刊。当研究人员向AI工具提问时，Meridian让该工具从经过同行评审的内容中提取答案、注明出处，并通过读者所在图书馆的订阅将其引导至最终出版版本。通过Meridian访问的内容不得用于训练AI模型。"
               },
               {
                 "t": "p",
-                "x": "Penn的Chris Callison-Burch说，检测器会看用词、标点和句子结构——比如“delve”、频繁使用的破折号（em dash）、三项并列。Authors Guild表示，AI检测器营造出“一种令人联想到猎巫的环境”。“投稿应以退稿告终，而不是以指控告终，”Clarke说。McGraw如今会避开某些词：“我怀念我的em dash。”"
+                "x": "在后台，Meridian采用Anthropic开发的开放标准Model Context Protocol（MCP），因此出版商只需建立一个连接，而不必为每家AI公司分别对接。加入完全自愿；出版商可以随时撤下书目，并能看到自家图书回答了哪些问题、内容被引用的频率。"
+              },
+              {
+                "t": "p",
+                "x": "各创始出版社与Cashmere组成Meridian的顾问委员会，待Meridian注册为独立非营利机构后，该委员会将成为其董事会。创始出版商将于本月上传书目，今秋晚些时候将与少数图书馆开展试运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Marcados como AI, los autores\npreguntan qué vio el detector",
-          "body": "Los editores filtran envíos con detectores de AI imperfectos y los autores señalados por error ignoran el motivo.",
-          "mini_headline": "Marcados como AI, ¿y ahora?",
+          "headline": "Tres editoriales universitarias\nrespaldan el portal IA Meridian",
+          "body": "Las editoriales de Cambridge, Johns Hopkins y Princeton respaldan Meridian, un portal de IA para textos académicos.",
+          "mini_headline": "Editoriales universitarias\nrespaldan Meridian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg",
-                "cap": "Algunos escritores temen que el software de detección de AI marque su trabajo por error. karetoria/Getty Images"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
               },
               {
                 "t": "p",
-                "x": "La escritora fantasma Sally McGraw envió una muestra de escritura para una propuesta de libro y le dijeron que varias herramientas de detección de AI la habían marcado como generada por máquina. “Me quedé helada porque no había usado AI para generar el texto”, dijo. El cliente afirmó que los resultados no fueron el factor determinante para contratar a otra persona."
-              },
-              {
-                "t": "img",
-                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/640x527+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F5a%2Fb5e81a754b01b21a15648beb43ea%2F32e7df05-e0ec-4d13-a7df-34851c8892da.jpeg",
-                "cap": "Sally McGraw, escritora fantasma, dijo que ha cambiado su estilo de escritura. Sally McGraw"
+                "x": "Cambridge University Press, Johns Hopkins University Press y Princeton University Press son las editoriales fundadoras de Meridian, un nuevo servicio gestionado por Cashmere, la start-up con sede en Salt Lake City que licencia contenido de editoriales a empresas de IA."
               },
               {
                 "t": "p",
-                "x": "Mientras los editores lidian con una avalancha de contenido generado por AI (AI-generated), algunos recurren a herramientas de detección, que se sabe que marcan por error textos escritos por personas. Neil Clarke, de Clarkesworld, dice que los envíos mensuales se duplicaron hacia febrero de 2023, desde unos 1,100 en 2021. En un estudio de junio con cuatro detectores sobre 160 artículos, Pangram fue el más consistentemente preciso; su CEO, Max Spero, dijo que puede equivocarse, sobre todo con poco texto."
+                "x": "Meridian ofrece a estudiantes e investigadores acceso autorizado a libros y revistas académicas que las bibliotecas ya tienen bajo licencia. Cuando un investigador hace una pregunta a una herramienta de IA, Meridian permite que esta extraiga la respuesta de ese contenido revisado por pares, cite la fuente y dirija al lector, a través de la suscripción de su biblioteca, a la versión final publicada. El contenido al que se accede mediante Meridian no puede usarse para entrenar modelos de IA."
               },
               {
                 "t": "p",
-                "x": "Chris Callison-Burch, de Penn, dice que los detectores se fijan en la elección de palabras, la puntuación y la estructura de las frases: “delve”, el uso frecuente de rayas (em dashes), las enumeraciones de tres. El Authors Guild dijo que los detectores de AI crean “un ambiente que recuerda a la caza de brujas”. “Los envíos deberían terminar en un rechazo, no en una acusación”, dijo Clarke. McGraw ahora evita ciertas palabras: “Echo de menos mi raya (em dash)”."
+                "x": "Internamente, Meridian utiliza el Model Context Protocol, o MCP, un estándar abierto desarrollado por Anthropic, de modo que las editoriales crean una sola conexión en lugar de una para cada empresa de IA. La participación es voluntaria: las editoriales pueden retirar títulos en cualquier momento y verán qué preguntas respondieron sus libros y con qué frecuencia se cita su contenido."
+              },
+              {
+                "t": "p",
+                "x": "Las editoriales fundadoras y Cashmere forman el consejo asesor de Meridian, que se convertirá en su junta directiva cuando se constituya como organización independiente sin fines de lucro. Las editoriales fundadoras cargan sus catálogos este mes, y una prueba con un grupo limitado de bibliotecas comenzará a finales de este otoño."
               }
             ]
           }
@@ -979,15 +989,15 @@
       }
     },
     {
-      "id": "korea-cartoonists-unesco-ai",
+      "id": "scholarly-alttext-backlist",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "한국 만화가, AI 동의\nUNESCO에 촉구",
-      "body": "한국 만화가들이 UNESCO에서 AI 학습 전에 작가 동의를 받는 규칙을 요구했다.",
-      "mini_headline": "만화가들, AI 문제 UNESCO로",
+      "headline": "AI로 높이는\n학술서 백리스트 접근성",
+      "body": "출판사는 AI로 옛 자료를 점검하고 대체 텍스트·태그·메타데이터까지 만든다.",
+      "mini_headline": "AI로 접근성 높이는\n백리스트",
       "tool": "Books",
-      "source": "The Korea Times",
-      "url": "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -995,155 +1005,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-            "cap": "권혁주(Kwon Hyuk-joo)의 웹툰 “Xinker” / Naver Webtoon 제공"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+            "cap": "접근성·장애 컴퓨터 아이콘"
           },
           {
             "t": "p",
-            "x": "한국 만화 창작자들이 작품을 인공지능(AI) 모델 학습에 쓰려면 먼저 작가 동의를 받도록 하는 엄격한 규칙을 요구했다. 요구는 파리 UNESCO 본부에서 열린 국제회의에서 나왔다. 협회장인 웹툰 작가 겸 국립공주대학교 교수 권혁주(Kwon Hyuk-joo)가 “디지털 환경에서 인간의 창의성과 문화적 표현의 다양성 증진” 회의에서 발언했다."
+            "x": "접근성 준수를 피할 수 없다는 건 이제 대부분의 출판사가 받아들인다. 2025년 한 해에만 ADA 소송이 5,114건 나왔다. 어려운 건 대량 실행이다. 접근성을 따지지 않고 수십 년 동안 쌓아 온 레거시 아카이브에는 복잡한 도판과 수식 표기, 빽빽한 데이터 표가 가득하다."
           },
           {
             "t": "p",
-            "x": "권(Kwon) 회장은 창작자 164명을 대상으로 한 설문 결과를 인용했다. 약 90퍼센트는 자기 작품이 AI 학습에 쓰이는 걸 막을 방법을 모른다고 했고, 81.1퍼센트는 옵트인(opt-in) 제도에 참여하겠다고 답했다. 그는 웹툰 출간과 AI 모델 학습 이용, 캐릭터를 챗봇 같은 AI 서비스에 쓰는 일은 각각 별개의 권리라고 강조했다. AI 생성(AI-generated) 콘텐츠 표시 의무화와 학습 데이터 투명성도 요구했다."
+            "x": "AI는 출판사 아카이브를 통째로 받아 자동 감사를 돌리고, 기준에 못 미치는 콘텐츠가 얼마나 되는지 파악한 뒤 현실적인 일정과 비용 추정치를 붙인 우선순위 목록을 뽑을 수 있다. AI-assisted(AI 보조) 대체 텍스트 생성은 도판 설명과 구조 태깅, 메타데이터 정규화에서 제 몫을 하고, 보관된 영상과 음성의 자막·녹취록도 만든다."
           },
           {
             "t": "p",
-            "x": "UNESCO 친선대사 Jean-Michel Jarre는 창작의 목적과 방향은 앞으로도 인간이 정해야 한다고 말했다. UNESCO는 이번 논의를 문화적 표현의 다양성에 관한 2005년 협약에 따른 디지털 정책 작업에 반영하겠다고 밝혔다."
+            "x": "복잡한 과학 콘텐츠의 대체 텍스트는 사정이 다르다. 이때는 자동 생성에 품질 기준을 함께 걸고, 기준에 못 미치는 콘텐츠를 해당 분야 전문가에게 넘겨 검토받는 쪽이 더 믿을 만하다. Straive의 Balamuraly Kanthavelou는 “AI는 병목을 없앤 것이 아니라 병목이 있는 자리로 옮겨 갔다”고 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Korean cartoonists take\nAI consent demands to UNESCO",
-          "body": "At UNESCO, Korean comic creators called for rules requiring artists' consent before their work is used to train AI.",
-          "mini_headline": "Cartoonists take AI to UNESCO",
+          "headline": "AI could make academic\nbacklists accessible",
+          "body": "Publishers can use AI to audit old archives and generate alt-text, tags and metadata for accessible backlists.",
+          "mini_headline": "AI for accessible\nbacklists",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "Kwon Hyuk-joo's webtoon \"Xinker\" / Courtesy of Naver Webtoon"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "Accessibility disability computer icon"
               },
               {
                 "t": "p",
-                "x": "Korean comic creators called for strict rules requiring artists' consent before their work is used to train artificial intelligence (AI) models, delivering their demand during an international conference at UNESCO headquarters in Paris. The association's president, Kwon Hyuk-joo, a webtoon artist and professor at Kongju National University, spoke at the conference “Promoting Human Creativity and the Diversity of Cultural Expressions in the Digital Environment.”"
+                "x": "Most publishers no longer need convincing that accessibility compliance can’t be ignored — 5,114 ADA lawsuits were recorded in 2025 alone. What they struggle with is execution at volume, especially on decades of legacy archives built without accessibility in mind, full of complex figures, mathematical notation and dense data tables."
               },
               {
                 "t": "p",
-                "x": "Kwon cited a survey of 164 creators: about 90 percent said they did not know how to stop their work from being used for AI training, while 81.1 percent said they would take part in an opt-in system. He said publishing a webtoon, using it to train an AI model and using its characters in AI services such as chatbots are separate rights, and called for mandatory labeling of AI-generated content and transparency about training data."
+                "x": "AI can ingest a publisher’s existing archive and run automated auditing to determine the scope of non-compliant content, producing a prioritized inventory with a realistic timeline and cost estimate. AI-assisted alt-text generation is also doing real work at figure description, structural tagging, and metadata normalization, and can generate captions and transcripts for archived video and audio."
               },
               {
                 "t": "p",
-                "x": "Jean-Michel Jarre, UNESCO Goodwill Ambassador, said humans must remain the ones who decide the purpose and direction of creative work. UNESCO said the discussions will feed into its digital policy work under the 2005 Convention on the Diversity of Cultural Expressions."
+                "x": "Alt-text for complex scientific content is a different story. More credible approaches pair automated generation with a quality threshold, routing content below it to subject-matter review. “AI has moved to where the bottleneck sits, not eliminated it,” writes Balamuraly Kanthavelou of Straive."
               }
             ]
           }
         },
         "ko": {
-          "headline": "한국 만화가, AI 동의\nUNESCO에 촉구",
-          "body": "한국 만화가들이 UNESCO에서 AI 학습 전에 작가 동의를 받는 규칙을 요구했다.",
-          "mini_headline": "만화가들, AI 문제 UNESCO로",
+          "headline": "AI로 높이는\n학술서 백리스트 접근성",
+          "body": "출판사는 AI로 옛 자료를 점검하고 대체 텍스트·태그·메타데이터까지 만든다.",
+          "mini_headline": "AI로 접근성 높이는\n백리스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "권혁주(Kwon Hyuk-joo)의 웹툰 “Xinker” / Naver Webtoon 제공"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "접근성·장애 컴퓨터 아이콘"
               },
               {
                 "t": "p",
-                "x": "한국 만화 창작자들이 작품을 인공지능(AI) 모델 학습에 쓰려면 먼저 작가 동의를 받도록 하는 엄격한 규칙을 요구했다. 요구는 파리 UNESCO 본부에서 열린 국제회의에서 나왔다. 협회장인 웹툰 작가 겸 국립공주대학교 교수 권혁주(Kwon Hyuk-joo)가 “디지털 환경에서 인간의 창의성과 문화적 표현의 다양성 증진” 회의에서 발언했다."
+                "x": "접근성 준수를 피할 수 없다는 건 이제 대부분의 출판사가 받아들인다. 2025년 한 해에만 ADA 소송이 5,114건 나왔다. 어려운 건 대량 실행이다. 접근성을 따지지 않고 수십 년 동안 쌓아 온 레거시 아카이브에는 복잡한 도판과 수식 표기, 빽빽한 데이터 표가 가득하다."
               },
               {
                 "t": "p",
-                "x": "권(Kwon) 회장은 창작자 164명을 대상으로 한 설문 결과를 인용했다. 약 90퍼센트는 자기 작품이 AI 학습에 쓰이는 걸 막을 방법을 모른다고 했고, 81.1퍼센트는 옵트인(opt-in) 제도에 참여하겠다고 답했다. 그는 웹툰 출간과 AI 모델 학습 이용, 캐릭터를 챗봇 같은 AI 서비스에 쓰는 일은 각각 별개의 권리라고 강조했다. AI 생성(AI-generated) 콘텐츠 표시 의무화와 학습 데이터 투명성도 요구했다."
+                "x": "AI는 출판사 아카이브를 통째로 받아 자동 감사를 돌리고, 기준에 못 미치는 콘텐츠가 얼마나 되는지 파악한 뒤 현실적인 일정과 비용 추정치를 붙인 우선순위 목록을 뽑을 수 있다. AI-assisted(AI 보조) 대체 텍스트 생성은 도판 설명과 구조 태깅, 메타데이터 정규화에서 제 몫을 하고, 보관된 영상과 음성의 자막·녹취록도 만든다."
               },
               {
                 "t": "p",
-                "x": "UNESCO 친선대사 Jean-Michel Jarre는 창작의 목적과 방향은 앞으로도 인간이 정해야 한다고 말했다. UNESCO는 이번 논의를 문화적 표현의 다양성에 관한 2005년 협약에 따른 디지털 정책 작업에 반영하겠다고 밝혔다."
+                "x": "복잡한 과학 콘텐츠의 대체 텍스트는 사정이 다르다. 이때는 자동 생성에 품질 기준을 함께 걸고, 기준에 못 미치는 콘텐츠를 해당 분야 전문가에게 넘겨 검토받는 쪽이 더 믿을 만하다. Straive의 Balamuraly Kanthavelou는 “AI는 병목을 없앤 것이 아니라 병목이 있는 자리로 옮겨 갔다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国の漫画家、\nUNESCOでAI同意要求",
-          "body": "韓国の漫画家らがUNESCOで、AI学習前に作家の同意を求めるルールを要求した。",
-          "mini_headline": "漫画家、AI問題をUNESCOへ",
+          "headline": "AIで学術既刊書を\nアクセシブルにできる",
+          "body": "出版社はAIで過去のアーカイブを点検し、代替テキストやタグ、メタデータを生成できる。",
+          "mini_headline": "AIで既刊を\nアクセシブルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "Kwon Hyuk-joo（クォン・ヒョクジュ）のウェブトゥーン「Xinker」／Naver Webtoon提供"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "アクセシビリティ・障害者のコンピューターアイコン"
               },
               {
                 "t": "p",
-                "x": "韓国の漫画創作者らが、作品を人工知能（AI）モデルの学習に使う前に作家の同意を義務づける厳格なルールを求め、パリのUNESCO本部で開かれた国際会議でその要求を伝えた。協会長でウェブトゥーン作家、国立公州大学教授のKwon Hyuk-joo（クォン・ヒョクジュ）は、会議「デジタル環境における人間の創造性と文化的表現の多様性の促進」で発言した。"
+                "x": "アクセシビリティ対応を無視できないことは、もはや大半の出版社にとって説得されるまでもない。2025年だけでADA訴訟は5,114件記録された。出版社が苦労しているのは大量に実行することであり、とりわけアクセシビリティを考慮せずに作られた数十年分のレガシーアーカイブには、複雑な図版や数式表記、密度の高いデータ表があふれている。"
               },
               {
                 "t": "p",
-                "x": "Kwonは創作者164人を対象にした調査を引用した。約90パーセントが作品のAI学習への利用を止める方法を知らないと答え、81.1パーセントがオプトイン（opt-in）方式に参加すると答えた。彼は、ウェブトゥーンを公開すること、それをAIモデルの学習に使うこと、そのキャラクターをチャットボットなどのAIサービスに使うことはそれぞれ別の権利だと述べ、AI生成（AI-generated）コンテンツの表示義務化と学習データの透明性を求めた。"
+                "x": "AIは出版社の既存アーカイブを取り込んで自動監査を行い、非準拠コンテンツの範囲を特定し、現実的なスケジュールとコスト見積もりを伴う優先順位付きの一覧を作成できる。AI-assisted(AI支援)の代替テキスト生成も、図版の説明、構造タグ付け、メタデータの正規化で実際に役立っており、保存された動画や音声のキャプションや書き起こしも生成できる。"
               },
               {
                 "t": "p",
-                "x": "UNESCO親善大使のJean-Michel Jarreは、創作の目的と方向を決めるのはあくまで人間でなければならないと述べた。UNESCOは、今回の議論を文化的表現の多様性に関する2005年条約に基づくデジタル政策の取り組みに生かすとしている。"
+                "x": "複雑な科学コンテンツの代替テキストは事情が異なる。より信頼できる手法は、自動生成に品質基準を組み合わせ、基準を下回るコンテンツを専門家のレビューに回すものだ。「AIはボトルネックをなくしたのではなく、ボトルネックのある場所へ移ったのだ」と、StraiveのBalamuraly Kanthavelouは書いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国漫画家赴UNESCO\n要求AI使用须经同意",
-          "body": "韩国漫画创作者在UNESCO呼吁制定规则，要求用作品训练AI前须征得作者同意。",
-          "mini_headline": "漫画家把AI问题带到UNESCO",
+          "headline": "AI或能让学术旧书目\n变得无障碍",
+          "body": "出版商可借助AI审查旧档案，并为无障碍书目生成替代文本、标签和元数据。",
+          "mini_headline": "AI助力\n无障碍旧书目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "Kwon Hyuk-joo（权赫柱）的网漫《Xinker》/ Naver Webtoon提供"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "无障碍与残障电脑图标"
               },
               {
                 "t": "p",
-                "x": "韩国漫画创作者呼吁制定严格规则，要求在将作品用于训练人工智能（AI）模型之前必须征得创作者同意，并在巴黎UNESCO总部举行的一场国际会议上提出了这一诉求。协会会长、网漫作家兼国立公州大学教授Kwon Hyuk-joo（权赫柱）在题为“在数字环境中促进人类创造力与文化表现形式多样性”的会议上发言。"
+                "x": "大多数出版商已无需被说服：无障碍合规不容忽视——仅2025年就记录了5,114起ADA诉讼。他们真正头疼的是大规模落地，尤其是数十年来在未考虑无障碍的情况下积累的旧档案，其中满是复杂图表、数学符号和密集的数据表格。"
               },
               {
                 "t": "p",
-                "x": "Kwon援引了一项针对164名创作者的调查：约90%表示不知道如何阻止自己的作品被用于AI训练，81.1%表示愿意参与选择加入（opt-in）机制。他表示，发布网漫、用其训练AI模型、将其角色用于聊天机器人等AI服务，是相互独立的权利；他还呼吁强制标注AI生成（AI-generated）内容，并提高训练数据的透明度。"
+                "x": "AI可以读取出版商的现有档案并进行自动审查，确定不合规内容的范围，生成附带切实时间表和成本估算的优先级清单。AI-assisted（AI辅助）替代文本生成也在图表描述、结构标记和元数据规范化方面发挥着实际作用，还能为存档的视频和音频生成字幕与文字稿。"
               },
               {
                 "t": "p",
-                "x": "UNESCO亲善大使Jean-Michel Jarre表示，决定创作目的和方向的必须始终是人类。UNESCO表示，相关讨论将纳入其在2005年《文化表现形式多样性公约》框架下的数字政策工作。"
+                "x": "复杂科学内容的替代文本则是另一回事。更可信的做法是将自动生成与质量门槛结合，把低于门槛的内容转交学科专家审核。Straive的Balamuraly Kanthavelou写道：“AI并没有消除瓶颈，而是移到了瓶颈所在之处。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dibujantes coreanos exigen ante\nla UNESCO consentimiento en AI",
-          "body": "Creadores de cómic coreanos pidieron en la UNESCO que se exija consentimiento antes de entrenar AI con sus obras.",
-          "mini_headline": "Dibujantes llevan la AI a la UNESCO",
+          "headline": "La IA podría hacer accesibles\nlos fondos académicos",
+          "body": "Las editoriales pueden auditar con IA archivos antiguos y crear texto alternativo, etiquetas y metadatos accesibles.",
+          "mini_headline": "IA para fondos\naccesibles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "El webtoon \"Xinker\" de Kwon Hyuk-joo / Cortesía de Naver Webtoon"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "Icono informático de accesibilidad y discapacidad"
               },
               {
                 "t": "p",
-                "x": "Creadores de cómic coreanos pidieron normas estrictas que exijan el consentimiento de los artistas antes de usar su obra para entrenar modelos de inteligencia artificial (AI), y presentaron su demanda en una conferencia internacional en la sede de la UNESCO en París. El presidente de la asociación, Kwon Hyuk-joo, autor de webtoons y profesor de la Universidad Nacional de Kongju, intervino en la conferencia “Promover la creatividad humana y la diversidad de las expresiones culturales en el entorno digital”."
+                "x": "La mayoría de las editoriales ya no necesita que la convenzan de que el cumplimiento en accesibilidad no puede ignorarse: solo en 2025 se registraron 5.114 demandas por la ADA. Lo que les cuesta es la ejecución a gran escala, sobre todo en décadas de archivos heredados creados sin pensar en la accesibilidad, llenos de figuras complejas, notación matemática y densas tablas de datos."
               },
               {
                 "t": "p",
-                "x": "Kwon citó una encuesta a 164 creadores: cerca del 90 por ciento dijo no saber cómo impedir que su obra se use para entrenar AI, mientras que el 81.1 por ciento afirmó que participaría en un sistema de consentimiento previo (opt-in). Señaló que publicar un webtoon, usarlo para entrenar un modelo de AI y emplear sus personajes en servicios de AI como chatbots son derechos distintos, y pidió el etiquetado obligatorio del contenido generado por AI (AI-generated) y transparencia sobre los datos de entrenamiento."
+                "x": "La IA puede incorporar el archivo existente de una editorial y realizar auditorías automatizadas para determinar el alcance del contenido que no cumple las normas, generando un inventario priorizado con un calendario realista y una estimación de costos. La generación de texto alternativo AI-assisted (asistida por IA) también está haciendo un trabajo real en la descripción de figuras, el etiquetado estructural y la normalización de metadatos, y puede generar subtítulos y transcripciones para vídeo y audio archivados."
               },
               {
                 "t": "p",
-                "x": "Jean-Michel Jarre, embajador de buena voluntad de la UNESCO, afirmó que los humanos deben seguir siendo quienes decidan el propósito y la dirección del trabajo creativo. La UNESCO indicó que los debates nutrirán su trabajo de política digital en el marco de la Convención de 2005 sobre la Diversidad de las Expresiones Culturales."
+                "x": "El texto alternativo para contenido científico complejo es otra historia. Los enfoques más creíbles combinan la generación automatizada con un umbral de calidad y derivan el contenido que queda por debajo a revisión por especialistas en la materia. “La IA se ha desplazado hacia donde está el cuello de botella, no lo ha eliminado”, escribe Balamuraly Kanthavelou, de Straive."
               }
             ]
           }
@@ -1151,109 +1161,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "한국 만화가, AI 동의\nUNESCO에 촉구",
-          "body": "한국 만화가들이 UNESCO에서 AI 학습 전 작가 동의 규칙을 요구했다.",
-          "mini_headline": "만화가들, AI 문제 UNESCO로",
+          "headline": "AI로 학술서 백리스트\n접근성 높일 수 있다",
+          "body": "출판사는 AI로 옛 자료를 점검하고 대체 텍스트·태그·메타데이터를 만들 수 있다.",
+          "mini_headline": "AI로 접근성 높이는\n백리스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "권혁주(Kwon Hyuk-joo)의 웹툰 “Xinker” / Naver Webtoon 제공"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "접근성·장애 컴퓨터 아이콘"
               },
               {
                 "t": "p",
-                "x": "한국 만화 창작자들이 작품을 인공지능(AI) 모델 학습에 쓰기 전에 작가의 동의를 받도록 하는 엄격한 규칙을 요구했다. 이들은 파리 UNESCO 본부에서 열린 국제회의에서 이 요구를 전달했다. 협회장인 웹툰 작가 겸 국립공주대학교 교수 권혁주(Kwon Hyuk-joo)는 “디지털 환경에서 인간의 창의성과 문화적 표현의 다양성 증진” 회의에서 발언했다."
+                "x": "접근성 준수를 외면할 수 없다는 점은 이제 대부분의 출판사가 이미 받아들이고 있다. 2025년 한 해에만 ADA 소송이 5,114건 기록됐다. 출판사가 어려워하는 것은 대량 실행이다. 특히 접근성을 고려하지 않고 쌓아 온 수십 년치 레거시 아카이브에는 복잡한 도판, 수식 표기, 빽빽한 데이터 표가 가득하다."
               },
               {
                 "t": "p",
-                "x": "권(Kwon) 회장은 창작자 164명을 대상으로 한 설문을 인용했다. 약 90퍼센트는 자기 작품이 AI 학습에 쓰이는 것을 막는 방법을 모른다고 답했고, 81.1퍼센트는 옵트인(opt-in) 제도에 참여하겠다고 답했다. 그는 웹툰을 출간하는 일, 이를 AI 모델 학습에 쓰는 일, 그 캐릭터를 챗봇 같은 AI 서비스에 쓰는 일은 각각 별개의 권리라고 말하며, AI 생성(AI-generated) 콘텐츠 표시 의무화와 학습 데이터 투명성을 요구했다."
+                "x": "AI는 출판사가 보유한 아카이브를 받아들여 자동 감사를 돌리고, 기준에 맞지 않는 콘텐츠의 범위를 파악해 현실적인 일정과 비용 추정치를 담은 우선순위 목록을 만들 수 있다. AI-assisted(AI 보조) 대체 텍스트 생성도 도판 설명, 구조 태깅, 메타데이터 정규화에서 실질적인 몫을 하고 있으며, 보관된 영상과 음성의 자막과 녹취록도 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "UNESCO 친선대사 Jean-Michel Jarre는 창작의 목적과 방향을 정하는 주체는 계속 인간이어야 한다고 말했다. UNESCO는 이번 논의가 문화적 표현의 다양성에 관한 2005년 협약에 따른 디지털 정책 작업에 반영될 것이라고 밝혔다."
+                "x": "복잡한 과학 콘텐츠의 대체 텍스트는 사정이 다르다. 더 신뢰할 만한 방식은 자동 생성에 품질 기준을 결합해, 기준에 못 미치는 콘텐츠를 해당 분야 전문가 검토로 넘긴다. Straive의 Balamuraly Kanthavelou는 “AI는 병목을 없앤 것이 아니라 병목이 있는 자리로 옮겨 갔다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国の漫画家、\nUNESCOでAI同意要求",
-          "body": "韓国の漫画家らがUNESCOで、AI学習前に作家の同意を求めるルールを要求した。",
-          "mini_headline": "漫画家、AI問題をUNESCOへ",
+          "headline": "AIで学術既刊書を\nアクセシブルにできる",
+          "body": "出版社はAIで過去のアーカイブを点検し、代替テキストやタグ、メタデータを生成できる。",
+          "mini_headline": "AIで既刊を\nアクセシブルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "Kwon Hyuk-joo（クォン・ヒョクジュ）のウェブトゥーン「Xinker」／Naver Webtoon提供"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "アクセシビリティ・障害者のコンピューターアイコン"
               },
               {
                 "t": "p",
-                "x": "韓国の漫画創作者らが、作品を人工知能（AI）モデルの学習に使う前に作家の同意を義務づける厳格なルールを求め、パリのUNESCO本部で開かれた国際会議でその要求を伝えた。協会長でウェブトゥーン作家、国立公州大学教授のKwon Hyuk-joo（クォン・ヒョクジュ）は、会議「デジタル環境における人間の創造性と文化的表現の多様性の促進」で発言した。"
+                "x": "アクセシビリティ対応を無視できないことは、もはや大半の出版社にとって説得されるまでもない。2025年だけでADA訴訟は5,114件記録された。出版社が苦労しているのは大量に実行することであり、とりわけアクセシビリティを考慮せずに作られた数十年分のレガシーアーカイブには、複雑な図版や数式表記、密度の高いデータ表があふれている。"
               },
               {
                 "t": "p",
-                "x": "Kwonは創作者164人を対象にした調査を引用した。約90パーセントが作品のAI学習への利用を止める方法を知らないと答え、81.1パーセントがオプトイン（opt-in）方式に参加すると答えた。彼は、ウェブトゥーンを公開すること、それをAIモデルの学習に使うこと、そのキャラクターをチャットボットなどのAIサービスに使うことはそれぞれ別の権利だと述べ、AI生成（AI-generated）コンテンツの表示義務化と学習データの透明性を求めた。"
+                "x": "AIは出版社の既存アーカイブを取り込んで自動監査を行い、非準拠コンテンツの範囲を特定し、現実的なスケジュールとコスト見積もりを伴う優先順位付きの一覧を作成できる。AI-assisted(AI支援)の代替テキスト生成も、図版の説明、構造タグ付け、メタデータの正規化で実際に役立っており、保存された動画や音声のキャプションや書き起こしも生成できる。"
               },
               {
                 "t": "p",
-                "x": "UNESCO親善大使のJean-Michel Jarreは、創作の目的と方向を決めるのはあくまで人間でなければならないと述べた。UNESCOは、今回の議論を文化的表現の多様性に関する2005年条約に基づくデジタル政策の取り組みに生かすとしている。"
+                "x": "複雑な科学コンテンツの代替テキストは事情が異なる。より信頼できる手法は、自動生成に品質基準を組み合わせ、基準を下回るコンテンツを専門家のレビューに回すものだ。「AIはボトルネックをなくしたのではなく、ボトルネックのある場所へ移ったのだ」と、StraiveのBalamuraly Kanthavelouは書いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国漫画家赴UNESCO\n要求AI使用须经同意",
-          "body": "韩国漫画创作者在UNESCO呼吁制定规则，要求用作品训练AI前须征得作者同意。",
-          "mini_headline": "漫画家把AI问题带到UNESCO",
+          "headline": "AI或能让学术旧书目\n变得无障碍",
+          "body": "出版商可借助AI审查旧档案，并为无障碍书目生成替代文本、标签和元数据。",
+          "mini_headline": "AI助力\n无障碍旧书目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "Kwon Hyuk-joo（权赫柱）的网漫《Xinker》/ Naver Webtoon提供"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "无障碍与残障电脑图标"
               },
               {
                 "t": "p",
-                "x": "韩国漫画创作者呼吁制定严格规则，要求在将作品用于训练人工智能（AI）模型之前必须征得创作者同意，并在巴黎UNESCO总部举行的一场国际会议上提出了这一诉求。协会会长、网漫作家兼国立公州大学教授Kwon Hyuk-joo（权赫柱）在题为“在数字环境中促进人类创造力与文化表现形式多样性”的会议上发言。"
+                "x": "大多数出版商已无需被说服：无障碍合规不容忽视——仅2025年就记录了5,114起ADA诉讼。他们真正头疼的是大规模落地，尤其是数十年来在未考虑无障碍的情况下积累的旧档案，其中满是复杂图表、数学符号和密集的数据表格。"
               },
               {
                 "t": "p",
-                "x": "Kwon援引了一项针对164名创作者的调查：约90%表示不知道如何阻止自己的作品被用于AI训练，81.1%表示愿意参与选择加入（opt-in）机制。他表示，发布网漫、用其训练AI模型、将其角色用于聊天机器人等AI服务，是相互独立的权利；他还呼吁强制标注AI生成（AI-generated）内容，并提高训练数据的透明度。"
+                "x": "AI可以读取出版商的现有档案并进行自动审查，确定不合规内容的范围，生成附带切实时间表和成本估算的优先级清单。AI-assisted（AI辅助）替代文本生成也在图表描述、结构标记和元数据规范化方面发挥着实际作用，还能为存档的视频和音频生成字幕与文字稿。"
               },
               {
                 "t": "p",
-                "x": "UNESCO亲善大使Jean-Michel Jarre表示，决定创作目的和方向的必须始终是人类。UNESCO表示，相关讨论将纳入其在2005年《文化表现形式多样性公约》框架下的数字政策工作。"
+                "x": "复杂科学内容的替代文本则是另一回事。更可信的做法是将自动生成与质量门槛结合，把低于门槛的内容转交学科专家审核。Straive的Balamuraly Kanthavelou写道：“AI并没有消除瓶颈，而是移到了瓶颈所在之处。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dibujantes coreanos exigen ante\nla UNESCO consentimiento en AI",
-          "body": "Creadores de cómic coreanos pidieron en la UNESCO que se exija consentimiento antes de entrenar AI con sus obras.",
-          "mini_headline": "Dibujantes llevan la AI a la UNESCO",
+          "headline": "La IA podría hacer accesibles\nlos fondos académicos",
+          "body": "Las editoriales pueden auditar con IA archivos antiguos y crear texto alternativo, etiquetas y metadatos accesibles.",
+          "mini_headline": "IA para fondos\naccesibles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg",
-                "cap": "El webtoon \"Xinker\" de Kwon Hyuk-joo / Cortesía de Naver Webtoon"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+                "cap": "Icono informático de accesibilidad y discapacidad"
               },
               {
                 "t": "p",
-                "x": "Creadores de cómic coreanos pidieron normas estrictas que exijan el consentimiento de los artistas antes de usar su obra para entrenar modelos de inteligencia artificial (AI), y presentaron su demanda en una conferencia internacional en la sede de la UNESCO en París. El presidente de la asociación, Kwon Hyuk-joo, autor de webtoons y profesor de la Universidad Nacional de Kongju, intervino en la conferencia “Promover la creatividad humana y la diversidad de las expresiones culturales en el entorno digital”."
+                "x": "La mayoría de las editoriales ya no necesita que la convenzan de que el cumplimiento en accesibilidad no puede ignorarse: solo en 2025 se registraron 5.114 demandas por la ADA. Lo que les cuesta es la ejecución a gran escala, sobre todo en décadas de archivos heredados creados sin pensar en la accesibilidad, llenos de figuras complejas, notación matemática y densas tablas de datos."
               },
               {
                 "t": "p",
-                "x": "Kwon citó una encuesta a 164 creadores: cerca del 90 por ciento dijo no saber cómo impedir que su obra se use para entrenar AI, mientras que el 81.1 por ciento afirmó que participaría en un sistema de consentimiento previo (opt-in). Señaló que publicar un webtoon, usarlo para entrenar un modelo de AI y emplear sus personajes en servicios de AI como chatbots son derechos distintos, y pidió el etiquetado obligatorio del contenido generado por AI (AI-generated) y transparencia sobre los datos de entrenamiento."
+                "x": "La IA puede incorporar el archivo existente de una editorial y realizar auditorías automatizadas para determinar el alcance del contenido que no cumple las normas, generando un inventario priorizado con un calendario realista y una estimación de costos. La generación de texto alternativo AI-assisted (asistida por IA) también está haciendo un trabajo real en la descripción de figuras, el etiquetado estructural y la normalización de metadatos, y puede generar subtítulos y transcripciones para vídeo y audio archivados."
               },
               {
                 "t": "p",
-                "x": "Jean-Michel Jarre, embajador de buena voluntad de la UNESCO, afirmó que los humanos deben seguir siendo quienes decidan el propósito y la dirección del trabajo creativo. La UNESCO indicó que los debates nutrirán su trabajo de política digital en el marco de la Convención de 2005 sobre la Diversidad de las Expresiones Culturales."
+                "x": "El texto alternativo para contenido científico complejo es otra historia. Los enfoques más creíbles combinan la generación automatizada con un umbral de calidad y derivan el contenido que queda por debajo a revisión por especialistas en la materia. “La IA se ha desplazado hacia donde está el cuello de botella, no lo ha eliminado”, escribe Balamuraly Kanthavelou, de Straive."
               }
             ]
           }
@@ -1261,15 +1271,15 @@
       }
     },
     {
-      "id": "andy-weir-human-writers",
-      "source_lang": "en",
+      "id": "ddalkkak-publishing-taxcredit",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Andy Weir, 어쩌면\n마지막 순수 인간 작가",
-      "body": "Andy Weir는 마지막 순수 인간 작가일지도 모른다며 AI를 망치에 빗댔다.",
-      "mini_headline": "Andy Weir가 본 인간 작가",
+      "headline": "딸깍출판 늘자\n출판계 세액공제 요구",
+      "body": "AI 딸깍출판이 늘자 출판단체가 편집·디자인·인쇄·인세 비용 세액공제를 요구했다.",
+      "mini_headline": "딸깍출판에\n세액공제 요구",
       "tool": "Books",
-      "source": "IGN",
-      "url": "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers",
+      "source": "한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026110215410003860",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1277,295 +1287,385 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+            "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+            "cap": "2일 서울 여의도 국회의원회관 제11간담회의실에서 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 간담회가 열리고 있다. 한국출판인회의 제공"
           },
           {
             "t": "p",
-            "x": "『The Martian』과 『Project Hail Mary』를 쓴 Andy Weir가 최근 인터뷰에서 AI의 발전과 그 기술이 앞으로 자기 같은 직업에 미칠 영향, AI를 살인 망치에 비유할 수 있는 이유를 이야기했다."
+            "x": "글로벌 인공지능(AI) 기업들의 무분별한 출판물 학습이 문제로 떠오른 가운데, 국내 양대 출판단체가 출판콘텐츠 세제 혜택의 필요성을 재차 강조했다. AI가 출판산업을 위축시킬수록 인류 지성의 보고이자 K컬처의 원천 콘텐츠인 책을 보호해야 한다는 이유다."
           },
           {
             "t": "p",
-            "x": "“시간문제일 뿐이라고 생각한다.” 그는 SlashFilm에 이렇게 말했다. “솔직히 딱 그 시기에 작가가 된 건 운이 좋았다고 생각한다. 내가 완전한 인간 작가의 마지막 세대에 속할지도 모르기 때문이다.” 그래도 Weir는 대체로 이 기술을 도구로 보고 긍정적으로 대하는 편이다. 속도에서는 경주용 자동차가, 힘에서는 지게차가 이미 인간의 능력을 넘어섰듯 AI의 지능도 같은 범주에 든다고 그는 짚는다."
+            "x": "대한출판문화협회와 한국출판인회의는 2일 서울 여의도 국회의원회관 제11간담회의실에서 출판콘텐츠 세액공제 제도 도입을 위한 간담회를 개최했다. 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 한 이날 행사는 정성호 윤후덕 이광재 문진석 김영환 김재원 의원실이 공동 주최했다."
           },
           {
             "t": "p",
-            "x": "“우리가 쓸 수 있고, 쓰고 싶지 않을 때는 플러그를 뽑을 수 있는 도구다.” 그는 이렇게 덧붙였다. “결국 내가 망치를 건네면, 당신은 집을 지을 수도 있고 사람을 죽일 수도 있다. 문제는 도구가 아니라 사용자다.”"
+            "x": "출판계는 출판물 세액공제 도입이 더 이상 미뤄져선 안 된다고 강조했다. 이른바 '딸깍출판'의 범람으로 출판 생태계가 위협받는 지금, 책을 만드는 데 드는 편집·디자인·인쇄·인세 등 비용을 세액공제 대상에 포함해서 출판사 숨통을 틔워줘야 한다는 것이다."
           },
           {
             "t": "p",
-            "x": "AI는 당연히 Weir의 다음 소설 주제이기도 하다. 그는 2024년 The Bridge 인터뷰에서 이 프로젝트를 예고했다. “지금 다음 책을 쓰고 있다. AI가 그 안에서 중요한 역할을 한다. 하지만 로봇이 사랑에 빠지는 이야기 같은 걸 쓰는 게 아니라, 내 방식대로 하고 있다.”"
+            "x": "김보경 한국출판인회의 정책위원장은 \"AI가 만든 글이 넘쳐날수록 사람이 쓰고 편집·검증한 '마스터 텍스트'의 가치는 올라간다\"며 \"책을 영상이나 웹툰으로 만들 때뿐 아니라 그 바탕이 되는 원고를 책으로 만들 때도 세제 지원이 필요하다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "출판인 일원으로 간담회에 참석한 염종선 창비 대표는 한강의 부커 인터내셔널상·노벨문학상 수상을 비롯해 황석영 김혜순 정보라 등 한국 작가들의 국제적 성과를 짚으며 \"한국문학의 성취가 이어지도록 출판콘텐츠 세액공제를 도입해달라\"고 요청했다."
+          },
+          {
+            "t": "p",
+            "x": "21대 대선 정국에서 정부 여당은 출판 분야에 세제 지원을 확대하겠다고 공언했으나, 지난해 12월 국회 본회의에서 통과된 조세특례제한법 개정안엔 웹툰콘텐츠 세액공제 조항만 신설됐다. 이에 출판단체는 \"정부가 K콘텐츠 뿌리를 훼손하고 있다\"며 강력 반발하고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Andy Weir: perhaps among\nthe last fully human writers",
-          "body": "Novelist Andy Weir says he may be among the last fully human writers, likening AI to hammers and forklifts.",
-          "mini_headline": "Andy Weir on human writers",
+        "ko": {
+          "headline": "딸깍출판 늘자\n출판계 세액공제 요구",
+          "body": "AI 딸깍출판이 늘자 출판단체가 편집·디자인·인쇄·인세 비용 세액공제를 요구했다.",
+          "mini_headline": "딸깍출판에\n세액공제 요구",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "2일 서울 여의도 국회의원회관 제11간담회의실에서 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 간담회가 열리고 있다. 한국출판인회의 제공"
               },
               {
                 "t": "p",
-                "x": "In a recent interview, Andy Weir, the author of The Martian and Project Hail Mary, shared his thoughts about the progress of AI, how it might affect careers like his in the future and why it could be compared to a homicide hammer."
+                "x": "글로벌 인공지능(AI) 기업들의 무분별한 출판물 학습이 문제로 떠오른 가운데, 국내 양대 출판단체가 출판콘텐츠 세제 혜택의 필요성을 재차 강조했다. AI가 출판산업을 위축시킬수록 인류 지성의 보고이자 K컬처의 원천 콘텐츠인 책을 보호해야 한다는 이유다."
               },
               {
                 "t": "p",
-                "x": "\"I think it's only a matter of time,\" he told SlashFilm. \"Honestly, I think I'm lucky that I ended up being a writer right when I did, because I might be among the last generation of fully human writers.\" Despite that, overall Weir seems to have a positive attitude towards the technology, seeing it as a tool. He points out that other advancements have already surpassed human abilities, like race cars for speed and forklifts for strength, and the smarts of AI falling into a similar category."
+                "x": "대한출판문화협회와 한국출판인회의는 2일 서울 여의도 국회의원회관 제11간담회의실에서 출판콘텐츠 세액공제 제도 도입을 위한 간담회를 개최했다. 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 한 이날 행사는 정성호 윤후덕 이광재 문진석 김영환 김재원 의원실이 공동 주최했다."
               },
               {
                 "t": "p",
-                "x": "\"It's a tool that we can use and we can unplug when we don't want to use it,\" he added. \"In the end, if I give you a hammer, you can build a house or you can murder someone. It's not the tool that's the issue; it's the user.\""
+                "x": "출판계는 출판물 세액공제 도입이 더 이상 미뤄져선 안 된다고 강조했다. 이른바 '딸깍출판'의 범람으로 출판 생태계가 위협받는 지금, 책을 만드는 데 드는 편집·디자인·인쇄·인세 등 비용을 세액공제 대상에 포함해서 출판사 숨통을 틔워줘야 한다는 것이다."
               },
               {
                 "t": "p",
-                "x": "Not surprisingly, AI is something Weir will explore in his next novel. In a 2024 interview with The Bridge, he teased the project. \"I'm working on my next book now. AI plays a significant role in it. But I'm doing it my way, not writing a story about robots falling in love or anything.\""
+                "x": "김보경 한국출판인회의 정책위원장은 \"AI가 만든 글이 넘쳐날수록 사람이 쓰고 편집·검증한 '마스터 텍스트'의 가치는 올라간다\"며 \"책을 영상이나 웹툰으로 만들 때뿐 아니라 그 바탕이 되는 원고를 책으로 만들 때도 세제 지원이 필요하다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "출판인 일원으로 간담회에 참석한 염종선 창비 대표는 한강의 부커 인터내셔널상·노벨문학상 수상을 비롯해 황석영 김혜순 정보라 등 한국 작가들의 국제적 성과를 짚으며 \"한국문학의 성취가 이어지도록 출판콘텐츠 세액공제를 도입해달라\"고 요청했다."
+              },
+              {
+                "t": "p",
+                "x": "21대 대선 정국에서 정부 여당은 출판 분야에 세제 지원을 확대하겠다고 공언했으나, 지난해 12월 국회 본회의에서 통과된 조세특례제한법 개정안엔 웹툰콘텐츠 세액공제 조항만 신설됐다. 이에 출판단체는 \"정부가 K콘텐츠 뿌리를 훼손하고 있다\"며 강력 반발하고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Andy Weir, 어쩌면\n마지막 순수 인간 작가",
-          "body": "Andy Weir는 마지막 순수 인간 작가일지도 모른다며 AI를 망치에 빗댔다.",
-          "mini_headline": "Andy Weir가 본 인간 작가",
+        "en": {
+          "headline": "As 'click publishing' grows,\npublishers seek tax credits",
+          "body": "As AI 'click publishing' spreads, publishing groups sought tax credits for editing, design, printing and royalties.",
+          "mini_headline": "Tax credit push over\n'click publishing'",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "A meeting on the theme 'The Power of Text That Opens the Future in the AI Era' is held on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul. Courtesy of the Korean Publishers Society"
               },
               {
                 "t": "p",
-                "x": "『The Martian』과 『Project Hail Mary』를 쓴 Andy Weir가 최근 인터뷰에서 AI의 발전과 그 기술이 앞으로 자기 같은 직업에 미칠 영향, AI를 살인 망치에 비유할 수 있는 이유를 이야기했다."
+                "x": "With global artificial intelligence (AI) companies' indiscriminate training on published works emerging as a problem, Korea's two largest publishing organizations have again stressed the need for tax benefits for publishing content. Their reasoning: the more AI shrinks the publishing industry, the more books, a treasury of human intellect and the source content of K-culture, must be protected."
               },
               {
                 "t": "p",
-                "x": "“시간문제일 뿐이라고 생각한다.” 그는 SlashFilm에 이렇게 말했다. “솔직히 딱 그 시기에 작가가 된 건 운이 좋았다고 생각한다. 내가 완전한 인간 작가의 마지막 세대에 속할지도 모르기 때문이다.” 그래도 Weir는 대체로 이 기술을 도구로 보고 긍정적으로 대하는 편이다. 속도에서는 경주용 자동차가, 힘에서는 지게차가 이미 인간의 능력을 넘어섰듯 AI의 지능도 같은 범주에 든다고 그는 짚는다."
+                "x": "The Korean Publishers Association and the Korean Publishers Society held a meeting on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul, on introducing a tax credit for publishing content. Held under the theme 'The Power of Text That Opens the Future in the AI Era,' the event was co-hosted by the offices of lawmakers Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan and Kim Jae-won."
               },
               {
                 "t": "p",
-                "x": "“우리가 쓸 수 있고, 쓰고 싶지 않을 때는 플러그를 뽑을 수 있는 도구다.” 그는 이렇게 덧붙였다. “결국 내가 망치를 건네면, 당신은 집을 지을 수도 있고 사람을 죽일 수도 있다. 문제는 도구가 아니라 사용자다.”"
+                "x": "The publishing industry stressed that a tax credit for publications can no longer be delayed. Now that the publishing ecosystem is threatened by a flood of so-called 'click publishing,' it argued, the costs of making books, such as editing, design, printing and royalties, should be eligible for the tax credit to give publishers room to breathe."
               },
               {
                 "t": "p",
-                "x": "AI는 당연히 Weir의 다음 소설 주제이기도 하다. 그는 2024년 The Bridge 인터뷰에서 이 프로젝트를 예고했다. “지금 다음 책을 쓰고 있다. AI가 그 안에서 중요한 역할을 한다. 하지만 로봇이 사랑에 빠지는 이야기 같은 걸 쓰는 게 아니라, 내 방식대로 하고 있다.”"
+                "x": "Kim Bo-kyung, policy committee chair of the Korean Publishers Society, said, \"The more AI-generated writing floods in, the higher the value of 'master texts' written, edited and verified by people,\" adding, \"Tax support is needed not only when books are turned into video or webtoons, but also when the manuscripts behind them are made into books.\""
+              },
+              {
+                "t": "p",
+                "x": "Yeom Jong-seon, CEO of Changbi, who attended the meeting as a member of the publishing community, pointed to the international achievements of Korean writers, including Han Kang's International Booker Prize and Nobel Prize in Literature, as well as Hwang Sok-yong, Kim Hyesoon and Bora Chung, and asked, \"Please introduce a publishing content tax credit so that the achievements of Korean literature can continue.\""
+              },
+              {
+                "t": "p",
+                "x": "During the 21st presidential election campaign, the government and ruling party pledged to expand tax support for publishing, but the amendment to the Restriction of Special Taxation Act passed at the National Assembly plenary session last December created only a tax credit provision for webtoon content. Publishing groups are pushing back strongly, saying \"the government is damaging the roots of K-content.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Andy Weir「最後の\n純粋な人間作家かも」",
-          "body": "Andy Weirは最後の純粋な人間作家かもしれないと語り、AIをハンマーに例えた。",
-          "mini_headline": "Andy Weirと人間の作家",
+          "headline": "「ワンクリック出版」急増\n出版界が税額控除求める",
+          "body": "AIワンクリック出版の増加で、出版団体が編集・デザイン・印刷・印税の税額控除を求めた。",
+          "mini_headline": "ワンクリック出版に\n税額控除の要求",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "2日、ソウル汝矣島の国会議員会館第11懇談会室で「AI時代、未来を開くテキストの力」をテーマに懇談会が開かれている。韓国出版人会議提供"
               },
               {
                 "t": "p",
-                "x": "『The Martian』『Project Hail Mary』の著者Andy Weirは最近のインタビューで、AIの進歩について、それが将来自分のような職業にどう影響しうるか、そしてなぜそれが殺人のハンマーになぞらえられるのかについて考えを語った。"
+                "x": "グローバルな人工知能(AI)企業による出版物の無分別な学習が問題となる中、韓国の二大出版団体が出版コンテンツへの税制優遇の必要性を改めて強調した。AIが出版産業を萎縮させるほど、人類の知性の宝庫でありKカルチャーの源泉コンテンツである本を守らなければならないという理由だ。"
               },
               {
                 "t": "p",
-                "x": "「時間の問題だと思う」と彼はSlashFilmに語った。「正直、ちょうどあの時期に作家になれたのは幸運だったと思う。私は完全に人間の作家の最後の世代の一人かもしれないから」。それでもWeirは全体として、この技術を道具とみなし、前向きな姿勢を示しているようだ。速さではレースカー、力ではフォークリフトのように、ほかの技術の進歩はすでに人間の能力を超えており、AIの知能も同様の範疇に入ると指摘する。"
+                "x": "大韓出版文化協会と韓国出版人会議は2日、ソウル汝矣島の国会議員会館第11懇談会室で、出版コンテンツ税額控除制度の導入に向けた懇談会を開いた。「AI時代、未来を開くテキストの力」をテーマにしたこの日の行事は、チョン・ソンホ、ユン・フドク、イ・グァンジェ、ムン・ジンソク、キム・ヨンファン、キム・ジェウォン各議員の事務所が共同主催した。"
               },
               {
                 "t": "p",
-                "x": "「使うことができ、使いたくないときにはプラグを抜ける道具だ」と彼は付け加えた。「結局のところ、私があなたにハンマーを渡せば、あなたは家を建てることも、人を殺すこともできる。問題は道具ではなく、使う人だ」"
+                "x": "出版界は、出版物の税額控除導入をこれ以上先送りしてはならないと強調した。いわゆる「ワンクリック出版」の氾濫で出版の生態系が脅かされている今、本づくりにかかる編集・デザイン・印刷・印税などの費用を税額控除の対象に含め、出版社が息をつけるようにすべきだという。"
               },
               {
                 "t": "p",
-                "x": "当然ながら、AIはWeirが次の小説で掘り下げるテーマでもある。2024年のThe Bridgeによるインタビューで、彼はこのプロジェクトを予告していた。「今、次の本を書いている。そこではAIが重要な役割を果たす。でも、ロボットが恋に落ちるような話を書くのではなく、私なりのやり方でやっている」"
+                "x": "韓国出版人会議のキム・ボギョン政策委員長は「AIが作った文章があふれるほど、人が書き、編集・検証した『マスターテキスト』の価値は高まる」と述べ、「本を映像やウェブトゥーンにするときだけでなく、その土台となる原稿を本にするときにも税制支援が必要だ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "出版人の一員として懇談会に出席した創批のヨム・ジョンソン代表は、ハン・ガンのブッカー国際賞・ノーベル文学賞受賞をはじめ、ファン・ソギョン、キム・ヘスン、チョン・ボラら韓国作家の国際的な成果に触れ、「韓国文学の成果が続くよう、出版コンテンツ税額控除を導入してほしい」と求めた。"
+              },
+              {
+                "t": "p",
+                "x": "第21代大統領選の政局で政府与党は出版分野への税制支援拡大を公言したが、昨年12月に国会本会議で可決された租税特例制限法改正案には、ウェブトゥーンコンテンツの税額控除条項だけが新設された。これに対し出版団体は「政府がKコンテンツの根を傷つけている」と強く反発している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Andy Weir：或许是\n最后的纯人类作家",
-          "body": "小说家Andy Weir称自己或许是最后一代纯人类作家，并把AI比作锤子和叉车。",
-          "mini_headline": "Andy Weir谈人类作家",
+          "headline": "“一键出版”激增\n出版界呼吁税收抵免",
+          "body": "AI“一键出版”泛滥，出版团体要求对编辑、设计、印刷和版税费用实行税额抵免。",
+          "mini_headline": "“一键出版”\n引发减税呼声",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "2日，以“AI时代，开启未来的文字力量”为主题的座谈会在首尔汝矣岛国会议员会馆第11座谈室举行。韩国出版人会议供图"
               },
               {
                 "t": "p",
-                "x": "《The Martian》和《Project Hail Mary》的作者Andy Weir在近期一次采访中，谈到了他对AI进展的看法、AI未来可能如何影响像他这样的职业，以及为什么它可以被比作一把杀人的锤子。"
+                "x": "在全球人工智能（AI）企业肆意利用出版物进行训练成为问题之际，韩国两大出版团体再次强调了出版内容税收优惠的必要性。理由是，AI越是让出版业萎缩，就越要保护书籍——这一人类智慧的宝库、K文化的源头内容。"
               },
               {
                 "t": "p",
-                "x": "“我觉得这只是时间问题，”他对SlashFilm说，“说实话，我觉得自己很幸运，恰好在那个时候成为作家，因为我可能属于最后一代完全由人类创作的作家。”尽管如此，Weir总体上似乎对这项技术持积极态度，将其视为一种工具。他指出，其他技术进步早已超越人类能力，比如赛车之于速度、叉车之于力量，而AI的智能也属于类似范畴。"
+                "x": "大韩出版文化协会与韩国出版人会议于2日在首尔汝矣岛国会议员会馆第11座谈室举行了推动引入出版内容税额抵免制度的座谈会。当天活动以“AI时代，开启未来的文字力量”为主题，由郑成湖、尹厚德、李光宰、文振晳、金永焕、金在原议员办公室共同主办。"
               },
               {
                 "t": "p",
-                "x": "“它是一种我们可以使用、不想用时也可以拔掉插头的工具，”他补充道，“说到底，如果我给你一把锤子，你可以用它盖房子，也可以用它杀人。问题不在工具，而在使用者。”"
+                "x": "出版界强调，出版物税额抵免制度的引入不能再拖延。在所谓“一键出版”泛滥、出版生态受到威胁的当下，应将编辑、设计、印刷、版税等制作书籍所需的费用纳入税额抵免范围，让出版社喘一口气。"
               },
               {
                 "t": "p",
-                "x": "不出所料，AI将是Weir下一部小说探讨的主题。在2024年接受The Bridge采访时，他曾预告这个项目：“我现在正在写下一本书。AI在其中扮演重要角色。但我是按自己的方式来写，不是写机器人坠入爱河之类的故事。”"
+                "x": "韩国出版人会议政策委员长金宝景表示：“AI生成的文字越泛滥，由人撰写、编辑和核实的‘母本文字’价值就越高。”并表示：“不仅在把书改编成影视或网漫时，在把作为其基础的原稿做成书时，也需要税收支持。”"
+              },
+              {
+                "t": "p",
+                "x": "以出版人身份出席座谈会的创批代表廉钟善列举了韩江荣获国际布克奖和诺贝尔文学奖，以及黄晳暎、金惠顺、郑宝拉等韩国作家取得的国际成就，并呼吁：“请引入出版内容税额抵免，让韩国文学的成就得以延续。”"
+              },
+              {
+                "t": "p",
+                "x": "在第21届总统选举期间，政府和执政党曾公开表示将扩大对出版领域的税收支持，但去年12月国会全体会议通过的《税收特例限制法》修正案中，只新设了网漫内容税额抵免条款。对此，出版团体强烈反对，称“政府正在损害K内容的根基”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Andy Weir: quizá entre los\núltimos autores del todo humanos",
-          "body": "Andy Weir dice que quizá sea de los últimos autores del todo humanos y compara la AI con martillos y montacargas.",
-          "mini_headline": "Andy Weir y los escritores humanos",
+          "headline": "Auge de la 'edición en un clic'\neditoriales piden deducciones",
+          "body": "Ante el auge de la 'edición en un clic' con IA, el sector pidió deducciones por edición, diseño, impresión y regalías.",
+          "mini_headline": "Deducciones ante la\n'edición en un clic'",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "Encuentro celebrado el día 2 en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional, en Yeouido (Seúl), bajo el lema 'El poder del texto que abre el futuro en la era de la IA'. Foto: Sociedad de Editores de Corea"
               },
               {
                 "t": "p",
-                "x": "En una entrevista reciente, Andy Weir, autor de The Martian y Project Hail Mary, compartió sus ideas sobre el avance de la AI, cómo podría afectar en el futuro a carreras como la suya y por qué podría compararse con un martillo homicida."
+                "x": "En medio de la polémica por el entrenamiento indiscriminado de las empresas globales de inteligencia artificial (IA) con obras publicadas, las dos principales organizaciones editoriales de Corea volvieron a subrayar la necesidad de beneficios fiscales para los contenidos editoriales. Su argumento es que, cuanto más encoja la IA la industria editorial, más hay que proteger el libro, tesoro del intelecto humano y contenido de origen de la cultura K."
               },
               {
                 "t": "p",
-                "x": "“Creo que es solo cuestión de tiempo”, dijo a SlashFilm. “Sinceramente, creo que tuve suerte de convertirme en escritor justo cuando lo hice, porque quizá esté entre la última generación de escritores totalmente humanos”. Aun así, en general Weir parece tener una actitud positiva hacia la tecnología, que ve como una herramienta. Señala que otros avances ya han superado las capacidades humanas, como los coches de carreras en velocidad y los montacargas en fuerza, y que la inteligencia de la AI entra en una categoría similar."
+                "x": "La Asociación de Editores de Corea y la Sociedad de Editores de Corea celebraron el día 2, en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional en Yeouido, Seúl, un encuentro para impulsar un crédito fiscal para los contenidos editoriales. El acto, bajo el lema 'El poder del texto que abre el futuro en la era de la IA', fue copatrocinado por las oficinas de los diputados Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan y Kim Jae-won."
               },
               {
                 "t": "p",
-                "x": "“Es una herramienta que podemos usar y desenchufar cuando no queramos usarla”, añadió. “Al final, si te doy un martillo, puedes construir una casa o asesinar a alguien. El problema no es la herramienta; es el usuario”."
+                "x": "El sector editorial insistió en que la introducción de un crédito fiscal para las publicaciones no puede aplazarse más. Ahora que el ecosistema editorial se ve amenazado por la avalancha de la llamada 'edición en un clic', sostiene, los costos de hacer libros, como edición, diseño, impresión y regalías, deben incluirse en el crédito fiscal para dar un respiro a las editoriales."
               },
               {
                 "t": "p",
-                "x": "No es de extrañar que la AI sea un tema que Weir explorará en su próxima novela. En una entrevista de 2024 con The Bridge, adelantó el proyecto: “Ahora estoy trabajando en mi próximo libro. La AI tiene un papel importante en él. Pero lo hago a mi manera, no estoy escribiendo una historia sobre robots que se enamoran ni nada parecido”."
+                "x": "Kim Bo-kyung, responsable del comité de políticas de la Sociedad de Editores de Corea, afirmó: \"Cuanto más abunden los textos creados por IA, más sube el valor de los 'textos maestros' escritos, editados y verificados por personas\", y añadió: \"Se necesita apoyo fiscal no solo cuando los libros se convierten en vídeo o webtoon, sino también cuando el manuscrito que los sustenta se convierte en libro\"."
+              },
+              {
+                "t": "p",
+                "x": "Yeom Jong-seon, director de Changbi, que asistió al encuentro como miembro del sector editorial, destacó los logros internacionales de autores coreanos, como el Premio Booker Internacional y el Premio Nobel de Literatura de Han Kang, además de Hwang Sok-yong, Kim Hyesoon y Bora Chung, y pidió: \"Introduzcan el crédito fiscal para contenidos editoriales para que continúen los logros de la literatura coreana\"."
+              },
+              {
+                "t": "p",
+                "x": "Durante la campaña de las 21.ª elecciones presidenciales, el Gobierno y el partido gobernante prometieron ampliar el apoyo fiscal al sector editorial, pero la reforma de la Ley de Restricción de Tratamientos Fiscales Especiales aprobada en el pleno de la Asamblea Nacional en diciembre del año pasado solo creó una cláusula de crédito fiscal para contenidos de webtoon. Las organizaciones editoriales protestan con fuerza: \"El Gobierno está dañando las raíces del contenido K\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Andy Weir, 어쩌면\n마지막 순수 인간 작가",
-          "body": "Andy Weir는 마지막 순수 인간 작가일지 모른다며 AI를 망치에 빗댔다.",
-          "mini_headline": "Andy Weir가 본 인간 작가",
+        "en": {
+          "headline": "As 'click publishing' grows,\npublishers seek tax credits",
+          "body": "As AI 'click publishing' spreads, publishing groups sought tax credits for editing, design, printing and royalties.",
+          "mini_headline": "Tax credit push over\n'click publishing'",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "A meeting on the theme 'The Power of Text That Opens the Future in the AI Era' is held on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul. Courtesy of the Korean Publishers Society"
               },
               {
                 "t": "p",
-                "x": "『The Martian』과 『Project Hail Mary』의 작가 Andy Weir는 최근 인터뷰에서 AI의 발전, 그것이 앞으로 자신과 같은 직업에 미칠 영향, 그리고 AI를 살인 망치에 비유할 수 있는 이유에 대한 생각을 밝혔다."
+                "x": "With global artificial intelligence (AI) companies' indiscriminate training on published works emerging as a problem, Korea's two largest publishing organizations have again stressed the need for tax benefits for publishing content. Their reasoning: the more AI shrinks the publishing industry, the more books, a treasury of human intellect and the source content of K-culture, must be protected."
               },
               {
                 "t": "p",
-                "x": "“시간문제일 뿐이라고 생각한다.” 그는 SlashFilm에 이렇게 말했다. “솔직히 딱 그 시기에 작가가 된 건 운이 좋았다고 생각한다. 내가 완전한 인간 작가의 마지막 세대에 속할지도 모르기 때문이다.” 그럼에도 Weir는 전반적으로 이 기술을 도구로 보며 긍정적인 태도를 보이는 듯하다. 그는 속도에서는 경주용 자동차, 힘에서는 지게차처럼 다른 기술 발전이 이미 인간의 능력을 넘어섰고, AI의 지능도 비슷한 범주에 속한다고 지적한다."
+                "x": "The Korean Publishers Association and the Korean Publishers Society held a meeting on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul, on introducing a tax credit for publishing content. Held under the theme 'The Power of Text That Opens the Future in the AI Era,' the event was co-hosted by the offices of lawmakers Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan and Kim Jae-won."
               },
               {
                 "t": "p",
-                "x": "“우리가 쓸 수 있고, 쓰고 싶지 않을 때는 플러그를 뽑을 수 있는 도구다.” 그는 이렇게 덧붙였다. “결국 내가 망치를 건네면, 당신은 집을 지을 수도 있고 사람을 죽일 수도 있다. 문제는 도구가 아니라 사용자다.”"
+                "x": "The publishing industry stressed that a tax credit for publications can no longer be delayed. Now that the publishing ecosystem is threatened by a flood of so-called 'click publishing,' it argued, the costs of making books, such as editing, design, printing and royalties, should be eligible for the tax credit to give publishers room to breathe."
               },
               {
                 "t": "p",
-                "x": "당연하게도 AI는 Weir가 다음 소설에서 탐구할 주제다. 그는 2024년 The Bridge와의 인터뷰에서 이 프로젝트를 예고했다. “지금 다음 책을 쓰고 있다. AI가 그 안에서 중요한 역할을 한다. 하지만 로봇이 사랑에 빠지는 이야기 같은 걸 쓰는 게 아니라, 내 방식대로 하고 있다.”"
+                "x": "Kim Bo-kyung, policy committee chair of the Korean Publishers Society, said, \"The more AI-generated writing floods in, the higher the value of 'master texts' written, edited and verified by people,\" adding, \"Tax support is needed not only when books are turned into video or webtoons, but also when the manuscripts behind them are made into books.\""
+              },
+              {
+                "t": "p",
+                "x": "Yeom Jong-seon, CEO of Changbi, who attended the meeting as a member of the publishing community, pointed to the international achievements of Korean writers, including Han Kang's International Booker Prize and Nobel Prize in Literature, as well as Hwang Sok-yong, Kim Hyesoon and Bora Chung, and asked, \"Please introduce a publishing content tax credit so that the achievements of Korean literature can continue.\""
+              },
+              {
+                "t": "p",
+                "x": "During the 21st presidential election campaign, the government and ruling party pledged to expand tax support for publishing, but the amendment to the Restriction of Special Taxation Act passed at the National Assembly plenary session last December created only a tax credit provision for webtoon content. Publishing groups are pushing back strongly, saying \"the government is damaging the roots of K-content.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Andy Weir「最後の\n純粋な人間作家かも」",
-          "body": "Andy Weirは最後の純粋な人間作家かもしれないと語り、AIをハンマーに例えた。",
-          "mini_headline": "Andy Weirと人間の作家",
+          "headline": "「ワンクリック出版」急増\n出版界が税額控除求める",
+          "body": "AIワンクリック出版の増加で、出版団体が編集・デザイン・印刷・印税の税額控除を求めた。",
+          "mini_headline": "ワンクリック出版に\n税額控除の要求",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "2日、ソウル汝矣島の国会議員会館第11懇談会室で「AI時代、未来を開くテキストの力」をテーマに懇談会が開かれている。韓国出版人会議提供"
               },
               {
                 "t": "p",
-                "x": "『The Martian』『Project Hail Mary』の著者Andy Weirは最近のインタビューで、AIの進歩について、それが将来自分のような職業にどう影響しうるか、そしてなぜそれが殺人のハンマーになぞらえられるのかについて考えを語った。"
+                "x": "グローバルな人工知能(AI)企業による出版物の無分別な学習が問題となる中、韓国の二大出版団体が出版コンテンツへの税制優遇の必要性を改めて強調した。AIが出版産業を萎縮させるほど、人類の知性の宝庫でありKカルチャーの源泉コンテンツである本を守らなければならないという理由だ。"
               },
               {
                 "t": "p",
-                "x": "「時間の問題だと思う」と彼はSlashFilmに語った。「正直、ちょうどあの時期に作家になれたのは幸運だったと思う。私は完全に人間の作家の最後の世代の一人かもしれないから」。それでもWeirは全体として、この技術を道具とみなし、前向きな姿勢を示しているようだ。速さではレースカー、力ではフォークリフトのように、ほかの技術の進歩はすでに人間の能力を超えており、AIの知能も同様の範疇に入ると指摘する。"
+                "x": "大韓出版文化協会と韓国出版人会議は2日、ソウル汝矣島の国会議員会館第11懇談会室で、出版コンテンツ税額控除制度の導入に向けた懇談会を開いた。「AI時代、未来を開くテキストの力」をテーマにしたこの日の行事は、チョン・ソンホ、ユン・フドク、イ・グァンジェ、ムン・ジンソク、キム・ヨンファン、キム・ジェウォン各議員の事務所が共同主催した。"
               },
               {
                 "t": "p",
-                "x": "「使うことができ、使いたくないときにはプラグを抜ける道具だ」と彼は付け加えた。「結局のところ、私があなたにハンマーを渡せば、あなたは家を建てることも、人を殺すこともできる。問題は道具ではなく、使う人だ」"
+                "x": "出版界は、出版物の税額控除導入をこれ以上先送りしてはならないと強調した。いわゆる「ワンクリック出版」の氾濫で出版の生態系が脅かされている今、本づくりにかかる編集・デザイン・印刷・印税などの費用を税額控除の対象に含め、出版社が息をつけるようにすべきだという。"
               },
               {
                 "t": "p",
-                "x": "当然ながら、AIはWeirが次の小説で掘り下げるテーマでもある。2024年のThe Bridgeによるインタビューで、彼はこのプロジェクトを予告していた。「今、次の本を書いている。そこではAIが重要な役割を果たす。でも、ロボットが恋に落ちるような話を書くのではなく、私なりのやり方でやっている」"
+                "x": "韓国出版人会議のキム・ボギョン政策委員長は「AIが作った文章があふれるほど、人が書き、編集・検証した『マスターテキスト』の価値は高まる」と述べ、「本を映像やウェブトゥーンにするときだけでなく、その土台となる原稿を本にするときにも税制支援が必要だ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "出版人の一員として懇談会に出席した創批のヨム・ジョンソン代表は、ハン・ガンのブッカー国際賞・ノーベル文学賞受賞をはじめ、ファン・ソギョン、キム・ヘスン、チョン・ボラら韓国作家の国際的な成果に触れ、「韓国文学の成果が続くよう、出版コンテンツ税額控除を導入してほしい」と求めた。"
+              },
+              {
+                "t": "p",
+                "x": "第21代大統領選の政局で政府与党は出版分野への税制支援拡大を公言したが、昨年12月に国会本会議で可決された租税特例制限法改正案には、ウェブトゥーンコンテンツの税額控除条項だけが新設された。これに対し出版団体は「政府がKコンテンツの根を傷つけている」と強く反発している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Andy Weir：或许是\n最后的纯人类作家",
-          "body": "小说家Andy Weir称自己或许是最后一代纯人类作家，并把AI比作锤子和叉车。",
-          "mini_headline": "Andy Weir谈人类作家",
+          "headline": "“一键出版”激增\n出版界呼吁税收抵免",
+          "body": "AI“一键出版”泛滥，出版团体要求对编辑、设计、印刷和版税费用实行税额抵免。",
+          "mini_headline": "“一键出版”\n引发减税呼声",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "2日，以“AI时代，开启未来的文字力量”为主题的座谈会在首尔汝矣岛国会议员会馆第11座谈室举行。韩国出版人会议供图"
               },
               {
                 "t": "p",
-                "x": "《The Martian》和《Project Hail Mary》的作者Andy Weir在近期一次采访中，谈到了他对AI进展的看法、AI未来可能如何影响像他这样的职业，以及为什么它可以被比作一把杀人的锤子。"
+                "x": "在全球人工智能（AI）企业肆意利用出版物进行训练成为问题之际，韩国两大出版团体再次强调了出版内容税收优惠的必要性。理由是，AI越是让出版业萎缩，就越要保护书籍——这一人类智慧的宝库、K文化的源头内容。"
               },
               {
                 "t": "p",
-                "x": "“我觉得这只是时间问题，”他对SlashFilm说，“说实话，我觉得自己很幸运，恰好在那个时候成为作家，因为我可能属于最后一代完全由人类创作的作家。”尽管如此，Weir总体上似乎对这项技术持积极态度，将其视为一种工具。他指出，其他技术进步早已超越人类能力，比如赛车之于速度、叉车之于力量，而AI的智能也属于类似范畴。"
+                "x": "大韩出版文化协会与韩国出版人会议于2日在首尔汝矣岛国会议员会馆第11座谈室举行了推动引入出版内容税额抵免制度的座谈会。当天活动以“AI时代，开启未来的文字力量”为主题，由郑成湖、尹厚德、李光宰、文振晳、金永焕、金在原议员办公室共同主办。"
               },
               {
                 "t": "p",
-                "x": "“它是一种我们可以使用、不想用时也可以拔掉插头的工具，”他补充道，“说到底，如果我给你一把锤子，你可以用它盖房子，也可以用它杀人。问题不在工具，而在使用者。”"
+                "x": "出版界强调，出版物税额抵免制度的引入不能再拖延。在所谓“一键出版”泛滥、出版生态受到威胁的当下，应将编辑、设计、印刷、版税等制作书籍所需的费用纳入税额抵免范围，让出版社喘一口气。"
               },
               {
                 "t": "p",
-                "x": "不出所料，AI将是Weir下一部小说探讨的主题。在2024年接受The Bridge采访时，他曾预告这个项目：“我现在正在写下一本书。AI在其中扮演重要角色。但我是按自己的方式来写，不是写机器人坠入爱河之类的故事。”"
+                "x": "韩国出版人会议政策委员长金宝景表示：“AI生成的文字越泛滥，由人撰写、编辑和核实的‘母本文字’价值就越高。”并表示：“不仅在把书改编成影视或网漫时，在把作为其基础的原稿做成书时，也需要税收支持。”"
+              },
+              {
+                "t": "p",
+                "x": "以出版人身份出席座谈会的创批代表廉钟善列举了韩江荣获国际布克奖和诺贝尔文学奖，以及黄晳暎、金惠顺、郑宝拉等韩国作家取得的国际成就，并呼吁：“请引入出版内容税额抵免，让韩国文学的成就得以延续。”"
+              },
+              {
+                "t": "p",
+                "x": "在第21届总统选举期间，政府和执政党曾公开表示将扩大对出版领域的税收支持，但去年12月国会全体会议通过的《税收特例限制法》修正案中，只新设了网漫内容税额抵免条款。对此，出版团体强烈反对，称“政府正在损害K内容的根基”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Andy Weir: quizá entre los\núltimos autores del todo humanos",
-          "body": "Andy Weir dice que quizá sea de los últimos autores del todo humanos y compara la AI con martillos y montacargas.",
-          "mini_headline": "Andy Weir y los escritores humanos",
+          "headline": "Auge de la 'edición en un clic'\neditoriales piden deducciones",
+          "body": "Ante el auge de la 'edición en un clic' con IA, el sector pidió deducciones por edición, diseño, impresión y regalías.",
+          "mini_headline": "Deducciones ante la\n'edición en un clic'",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_h21u.1280.jpg"
+                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+                "cap": "Encuentro celebrado el día 2 en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional, en Yeouido (Seúl), bajo el lema 'El poder del texto que abre el futuro en la era de la IA'. Foto: Sociedad de Editores de Corea"
               },
               {
                 "t": "p",
-                "x": "En una entrevista reciente, Andy Weir, autor de The Martian y Project Hail Mary, compartió sus ideas sobre el avance de la AI, cómo podría afectar en el futuro a carreras como la suya y por qué podría compararse con un martillo homicida."
+                "x": "En medio de la polémica por el entrenamiento indiscriminado de las empresas globales de inteligencia artificial (IA) con obras publicadas, las dos principales organizaciones editoriales de Corea volvieron a subrayar la necesidad de beneficios fiscales para los contenidos editoriales. Su argumento es que, cuanto más encoja la IA la industria editorial, más hay que proteger el libro, tesoro del intelecto humano y contenido de origen de la cultura K."
               },
               {
                 "t": "p",
-                "x": "“Creo que es solo cuestión de tiempo”, dijo a SlashFilm. “Sinceramente, creo que tuve suerte de convertirme en escritor justo cuando lo hice, porque quizá esté entre la última generación de escritores totalmente humanos”. Aun así, en general Weir parece tener una actitud positiva hacia la tecnología, que ve como una herramienta. Señala que otros avances ya han superado las capacidades humanas, como los coches de carreras en velocidad y los montacargas en fuerza, y que la inteligencia de la AI entra en una categoría similar."
+                "x": "La Asociación de Editores de Corea y la Sociedad de Editores de Corea celebraron el día 2, en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional en Yeouido, Seúl, un encuentro para impulsar un crédito fiscal para los contenidos editoriales. El acto, bajo el lema 'El poder del texto que abre el futuro en la era de la IA', fue copatrocinado por las oficinas de los diputados Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan y Kim Jae-won."
               },
               {
                 "t": "p",
-                "x": "“Es una herramienta que podemos usar y desenchufar cuando no queramos usarla”, añadió. “Al final, si te doy un martillo, puedes construir una casa o asesinar a alguien. El problema no es la herramienta; es el usuario”."
+                "x": "El sector editorial insistió en que la introducción de un crédito fiscal para las publicaciones no puede aplazarse más. Ahora que el ecosistema editorial se ve amenazado por la avalancha de la llamada 'edición en un clic', sostiene, los costos de hacer libros, como edición, diseño, impresión y regalías, deben incluirse en el crédito fiscal para dar un respiro a las editoriales."
               },
               {
                 "t": "p",
-                "x": "No es de extrañar que la AI sea un tema que Weir explorará en su próxima novela. En una entrevista de 2024 con The Bridge, adelantó el proyecto: “Ahora estoy trabajando en mi próximo libro. La AI tiene un papel importante en él. Pero lo hago a mi manera, no estoy escribiendo una historia sobre robots que se enamoran ni nada parecido”."
+                "x": "Kim Bo-kyung, responsable del comité de políticas de la Sociedad de Editores de Corea, afirmó: \"Cuanto más abunden los textos creados por IA, más sube el valor de los 'textos maestros' escritos, editados y verificados por personas\", y añadió: \"Se necesita apoyo fiscal no solo cuando los libros se convierten en vídeo o webtoon, sino también cuando el manuscrito que los sustenta se convierte en libro\"."
+              },
+              {
+                "t": "p",
+                "x": "Yeom Jong-seon, director de Changbi, que asistió al encuentro como miembro del sector editorial, destacó los logros internacionales de autores coreanos, como el Premio Booker Internacional y el Premio Nobel de Literatura de Han Kang, además de Hwang Sok-yong, Kim Hyesoon y Bora Chung, y pidió: \"Introduzcan el crédito fiscal para contenidos editoriales para que continúen los logros de la literatura coreana\"."
+              },
+              {
+                "t": "p",
+                "x": "Durante la campaña de las 21.ª elecciones presidenciales, el Gobierno y el partido gobernante prometieron ampliar el apoyo fiscal al sector editorial, pero la reforma de la Ley de Restricción de Tratamientos Fiscales Especiales aprobada en el pleno de la Asamblea Nacional en diciembre del año pasado solo creó una cláusula de crédito fiscal para contenidos de webtoon. Las organizaciones editoriales protestan con fuerza: \"El Gobierno está dañando las raíces del contenido K\"."
               }
             ]
           }

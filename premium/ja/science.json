@@ -10113,6 +10113,143 @@
           "x": "用途としては、食品加工向けの低温活性酵素、冷水で機能する洗剤、より効率的な医薬品製造などが考えられる。「人を介さずに物事をより効率的に片付けるためにAIを使っているのではない」とYangは述べた。研究はNature Computational Scienceに掲載された。"
         }
       ]
+    },
+    "science/westlake-pinal-protein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+          "cap": "Pinalは多様な機能プロンプトを高品質なタンパク質候補に変換する。Credit: Nature (2026)"
+        },
+        {
+          "t": "p",
+          "x": "中国のWestlake University（西湖大学）のチームが率いる研究者らは、自然言語のプロンプトだけから候補タンパク質を生成できる大規模AIモデル「Pinal」を開発し、Natureに論文を発表した。ユーザーは例えば「照明下で緑色の光を放つ蛍光タンパク質を設計して」のように入力する。"
+        },
+        {
+          "t": "p",
+          "x": "Pinalの第一モジュールT2structは記述から1Dの構造設計図を作り、第二モジュールSaProt-Tはその設計図と元のプロンプトを読み取って、対応するアミノ酸配列を生成する。設計図を複数作り、それぞれに最適な配列を設計したうえで、各ペアを採点して最終設計を選ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "チームは135 million 本のタンパク質配列から出発し、1.7 billion 組のタンパク質・テキストのペアからなるライブラリを構築し、AlphaFoldデータベースから予測3D構造を加えた。モデルには蛍光タンパク質、プラスチック分解酵素、アルコール脱水素酵素、代謝系のH-proteinの設計が課された。"
+        },
+        {
+          "t": "p",
+          "x": "蛍光タンパク質では50,000の配列を29まで絞り込んで試験したが、実際に蛍光を発したのは一つだけだった。H-proteinでは候補20個のうち五つが機能し、最良のものは重要な炭素取り込みプロセスの出力を、天然のE. coliタンパク質を使った場合の1.7倍に高めた。Pinalが日常的な実験ツールになるには、さらなる研究が必要だ。"
+        }
+      ]
+    },
+    "science/uw-accent-bias-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+          "cap": "Credit: ShotPot from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "UW主導（UW-led）の研究チームは、最先端のAIモデルが特定の訛りを持つ話者に偏りを示すことを明らかにした。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAIのGPT-Audio 1.5、オープンソースのQwen 3 Omniが、アメリカ、イギリス、中国、インド、ナイジェリアの訛りで読まれた就職面接の回答、プレゼンテーション、英語能力の回答を採点した。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは概して中国とナイジェリアの訛りを最も低く、インドを中間、アメリカとイギリスを最も高く評価した。内容が完全に同じで、モデルが音声を正確に書き起こせた場合でも、話し方と内容の両方でアメリカとイギリスの話者を高く評価した。原稿はElevenLabsのAI音声が読み上げ、結果は52人の実際の話者で検証された。"
+        },
+        {
+          "t": "p",
+          "x": "共同筆頭著者のOrevaoghene Ahiaは「モデルは中国やナイジェリアの話者について『もごもご話す』『聞き取りにくい』と繰り返し主張したが、実際には訛りのある音声を非常にうまく書き起こしていた」と述べた。研究はOct. 25 、ブダペストで開かれたEMNLPで発表された。"
+        },
+        {
+          "t": "p",
+          "x": "責任著者のYulia Tsvetkovは開発者に対し、平均性能だけでなく、サブグループや方言ごとに分けた評価を公開するよう求めた。"
+        }
+      ]
+    },
+    "science/ai2-statebench-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2は、長文脈の状態追跡、すなわち長い文書の中で変化していくエンティティの情報を言語モデルがどれだけ追い続けられるかを測るベンチマーク「StateBench」を発表した。難易度は四段階で、r-trivial（不変の代入）、aperiodic（値による再代入）、soluble（自己参照的な更新）、general finite（参照による代入）からなる。"
+        },
+        {
+          "t": "p",
+          "x": "Olmo 3やOlmo Hybridを含むオープンな事前学習モデルは、r-trivialの問題では好成績だったが、aperiodicの問題では入力が長くなるにつれ精度が落ち、general finiteの問題ではチャンスレベルにとどまった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "最先端モデルのGemini 3.8 Flash、Claude Opus 5.5、GPT-6 SolとLunaは易しいレベルでは健闘したが、入力が長くなると精度が急落し、最も長いgeneral finiteの問題では13%以下にまで下がった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+        },
+        {
+          "t": "p",
+          "x": "StateBenchで直接学習させた275-million-parameter のモデルは異なる結果を示した。Gated DeltaNetとハイブリッドモデルは、r-trivial、aperiodic、solubleの問題で数万回の代入まで、ほぼ完璧に汎化した。Transformersは系列が長くなると性能が落ち、general finiteの問題は最後まで学習できなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+        }
+      ]
+    },
+    "science/chalmers-defect-temperature-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+          "cap": "Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "材料欠陥の標準的な計算は、通常ゼロケルビン（Kelvin）、つまり摂氏マイナス273度を前提としている。Chalmers University of Technology（チャルマース工科大学）の研究者らは、温度効果を考慮しながら欠陥の特性を計算する、はるかに効果的な枠組みを示し、npj Computational Materialsに発表した。"
+        },
+        {
+          "t": "p",
+          "x": "博士課程のTobias Hainerは「結晶構造から原子が一つ抜けた状態を調べ、温度がこの点欠陥の振る舞いにどう影響するかを観察することで、材料中の欠陥をモデル化した」と語る。欠陥は半導体のバンドギャップ内にエネルギー準位を生むことがあり、その位置によって有害か有用かが決まる。"
+        },
+        {
+          "t": "p",
+          "x": "Julia Wiktor教授は「いくつもの材料で、量的にも質的にもかなり大きな変化が見つかった。ゼロケルビンに基づくモデルでは見逃される変化だ」と話す。結果は実験での観測と一致している。"
+        },
+        {
+          "t": "p",
+          "x": "Wiktorは「十年前なら、これほどの規模ではおそらくできなかっただろう」と述べ、膨大な計算を可能にしたのは機械学習の発展だとしている。"
+        }
+      ]
+    },
+    "science/osaka-perovskite-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+          "cap": "自動成膜システムの概略図。提供：Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "大阪大学の研究チームは、ロボット、光学イメージング、環境センサー、機械学習を組み合わせ、ペロブスカイト太陽電池の膜を作製する自動化プラットフォームを構築した。"
+        },
+        {
+          "t": "p",
+          "x": "このシステムは、液体の塗膜が色を変えながら固体膜へと結晶化する様子を追跡し、色の変化を1秒に満たない間に、貧溶媒の液滴の動きをミリ秒単位で捉える。機械学習はこれらの測定値から、重要な製膜条件を特定した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+          "cap": "多結晶膜の形成に対する解決策の模式図。提供：Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "研究チームはこの知見を基に塗布工程を改良し、電力変換効率24.4%の鉛系ペロブスカイト太陽電池を作製した。Ryosuke KadoとAkinori Saekiが主導した本研究は、ACS Nano(DOI: 10.1021/acsnano.6c11386)に掲載された。"
+        }
+      ]
     }
   }
 }
