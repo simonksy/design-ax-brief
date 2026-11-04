@@ -10382,6 +10382,163 @@
           "x": "借助Figma节点，你可以从Figma Design复制一个画框并粘贴到Weave中，它会与原始画框保持连接。如果在Figma Design中修改原始画框，这一改动会同步反映到Weave中与之相连的Figma节点上。"
         }
       ]
+    },
+    "design/openai-astra-hardware-device": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "今天，我们分享OpenAI模型在帮助工程师设计、仿真和制造实体产品方面的进展。这些能力涵盖机械与电气工程以及端到端系统设计。"
+        },
+        {
+          "t": "p",
+          "x": "我们通过检验能否在没有任何人工直接修改的情况下制造一台设备，测试了Astra在多模态和计算机使用工作流中的领先性能。我们使用GPT‑6定义功能需求，并设计了外壳、印刷电路板（PCB）以及软件集成，以打造一台用户可用来与Codex对话的设备。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+          "cap": "原型设备外壳"
+        },
+        {
+          "t": "p",
+          "x": "Astra设计了设备的外观，设计了外壳及固定元器件的内部结构，选定了电子元件并设计了PCB，还生成了将设备连接到Codex所需的固件和软件集成。"
+        },
+        {
+          "t": "p",
+          "x": "两名团队成员借助Astra在不到一周内设计出这台测试设备。一家代工厂在不到一个月内造出一小批原型。不过，要让设备达到量产就绪状态，仍需经过数轮审查和迭代。"
+        },
+        {
+          "t": "p",
+          "x": "自2月以来，以token计，OpenAI各硬件团队的模型使用量增长了23倍。在BenchCAD 2.0上，一款更新的内部模型平均得分为0.875，而处于最高推理设置的GPT‑6 Astra为0.594。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI正扩大与Chip Ganassi Racing的合作，并宣布与Mazda开展新的研究合作。"
+        }
+      ]
+    },
+    "design/tripo-agentic-canvas-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI发布了Tripo Agentic Canvas，这是一款在可视化节点画布上构建并运行3D工作流的人工智能智能体。这家总部位于旧金山的公司围绕自家3D原生基础模型设计了这款工具，可将创意、参考图像和现有资产转化为从3D生成、资产精修到导出的连贯流程。"
+        },
+        {
+          "t": "p",
+          "x": "在画布上，每个节点执行单一操作，连线将一个节点的输出传给下一个节点，从而构成工作流。用户可将纹理绘制、重拓扑、Smart UV、基于物理的渲染（PBR）处理、分割和绑定作为节点加入，并针对具体项目将它们连接起来。"
+        },
+        {
+          "t": "p",
+          "x": "用户也可以让智能体生成工作流，再查看结果、修改单个节点并调整流程。完成的工作流可保存、复制和复用，批处理功能可将同一工作流应用于多个资产。"
+        },
+        {
+          "t": "p",
+          "x": "AI 3D Lab节点新增了对话式工具，用于检查和精修特定资产，或基于上游节点生成新结果。"
+        },
+        {
+          "t": "p",
+          "x": "Tripo列出的目标用途包括游戏开发、3D打印、产品设计与电商、影视、动画和可视化。"
+        }
+      ]
+    },
+    "design/ncircle-nvibe-aec-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "nCircle Tech推出了nVibe，这是一款专为帮助AEC从业者在无需编程技能的情况下将想法转化为可用应用而设计的AI-powered开发平台。"
+        },
+        {
+          "t": "p",
+          "x": "现场经理、项目工程师和VDC负责人等领域专家可以用日常语言描述工作流，nVibe便会在沙盒环境中构建应用；该环境旨在让IT团队掌控安全、权限和部署。"
+        },
+        {
+          "t": "p",
+          "x": "据nCircle Tech介绍，nVibe与通用AI编程工具的区别在于，它内置了对AEC术语和工作流的理解，例如WBS编码、CSI MasterFormat、RFIs、送审资料以及LoD 100–500。"
+        },
+        {
+          "t": "p",
+          "x": "nVibe预置了面向Autodesk Forma、Autodesk Platform Services（APS）、Autodesk AEC Data Model、SAP及其他ERP系统和Model Context Protocol（MCP）的连接器。与Navisworks、Procore、AutoCAD和Revit的集成即将推出。"
+        },
+        {
+          "t": "p",
+          "x": "nVibe for Revit旨在将日常语言指令转换为显示在团队Revit功能区中的原生Revit插件。在应用构建过程中使用过AI后，此后运行该应用将不再消耗token。"
+        }
+      ]
+    },
+    "design/claude-design-reference-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "让Claude做设计，常常会得到一个看起来像似曾相识模板的结果。于是作者保持请求完全相同——为韩国坡州一家小咖啡馆ONGI Coffee的新菜单“Lemonade”制作一张Instagram信息流图片（1080×1350），输出为单个HTML文件——只改变参考图的交付方式。工具：Claude Code，2026年10月。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+          "cap": "LV1 — 仅有请求。干净，但看起来像模板。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+          "cap": "LV2 — 附上两张参考图。两张图片被随机混在一起。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+          "cap": "LV3 — 参考图 + 几行说明要取什么。品牌调性体现出来了。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+          "cap": "LV3+ — 一张真实照片 + 一处修改。可以直接发布。"
+        },
+        {
+          "t": "p",
+          "x": "每个级别又各运行了两次（共9次）。方向保持不变：附上参考图（LV2）带来的变化，小于为参考图补充几行说明（LV3）。"
+        },
+        {
+          "t": "p",
+          "x": "在LV2中，Claude把两张图片都当作同等重要的指令。它不知道该从哪张图中取什么，于是把所有显眼的元素组合在一起，或者几乎原样照搬了菜单的深色卡片。"
+        },
+        {
+          "t": "p",
+          "x": "要点：展示参考图，不如说清“只从中取这一点”。把要取的和不要取的分别列成清单。给每张参考图一项任务——两到三张角色不同的参考图效果最好。出现偏差时，一次只改一两处，并说明“其他保持不变”。"
+        }
+      ]
+    },
+    "design/autom8labs-aec-mcp-skills": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+        },
+        {
+          "t": "p",
+          "x": "引导AI智能体在Revit、AutoCAD、3ds Max等软件中完成任务，并为执行工作和检查结果提供“清晰步骤”。"
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labs发布了22项免费MCP Skills，可与该公司面向Revit、AutoCAD、Navisworks、Grasshopper、MicroStation、3ds Max、Rhino、Civil 3D和Advance Steel的MCP Connectors配合使用。每项MCP技能不只是告诉AI智能体该做什么，而是引导它按照资深专业人员的步骤完成工作。"
+        },
+        {
+          "t": "p",
+          "x": "“让AI智能体能够访问一款设计应用，并不意味着它自然知道在其中工作的最佳方式。”Autom8Labs的James Gray表示，“MCP Connectors为AI智能体提供工具，Skills则为它提供方法。”"
+        },
+        {
+          "t": "p",
+          "x": "大部分技能面向Revit，涵盖族创建、scan-to-BIM、模型健康检查、结构、MEP、协调、场地和文档控制。在Grasshopper中，一项计算设计技能会像计算设计师那样构建参数化定义；3ds Max技能则会像可视化设计师那样设置Corona或V-Ray。"
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labs还可以根据AEC企业的模板、标准和签核检查，为其构建并测试定制技能。"
+        }
+      ]
     }
   }
 }

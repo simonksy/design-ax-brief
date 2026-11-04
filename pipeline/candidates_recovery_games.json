@@ -1,77 +1,72 @@
 {
- "date": "2026-10-18",
  "section": "games",
- "now_iso": "2026-10-17T22:00:34Z",
+ "now_iso": "2026-11-04T22:40:00Z",
  "window_hours": 336,
- "expansion": [
-  "Recovery pass: RSS of 30 outlets (gib, gamedeveloper, 80lv, eurogamer, RPS, VGC, gamesbeat, automaton, pcgamer, gamesradar, kotaku, IGN, verge, vg247, gamespot, thegamer, wccftech, roadtovr, gamingbolt, aftermath, destructoid, polygon, unity, unreal, siliconera, pocketgamer.biz, inven, gamemeca, thisisgame), pcgamer/gamesradar /archive/2026/10, kotaku post-sitemap-2026-10, gib archive, inven/gamemeca AI search; 5 WebSearches (Roblox Cube 4D, G-STAR 2026 AI, Inworld/Convai/Ludo/Scenario, Korean publishers AI, Krafton PUBG Ally/inZOI) yielded nothing fresh. Dropped as already-published stories: Shogun 2, Horii 30-min game, Drunken Goddess demo cancel, Epic launcher/AI-first, Xbox Labs, Konami, Tarn Adams, DLSS 5 faster model, Playgama MCP, Warhorse, Wizards union."
- ],
+ "recovery_pass": true,
+ "expansion_note": "Recovery pass, no reuse of keywords_games.json terms. Added: Future plc monthly archive sweep (pcgamer/gamesradar), Kotaku Oct/Nov post-sitemaps, GamesBeat/Wccftech paged feeds, Gamemeca/Inven/inews24 game feeds and search, Google News RSS on 30 adjacent terms (G-Star 2026, Roblox Cube, Inworld, Convai, ElevenLabs, Cascadeur, Scenario, Layer.ai, SAG-AFTRA, AI anti-cheat/playtesting/localization, world model, Krafton/Nexon/NC/Netmarble AI, Fortnite/Unity AI, motion matching, Muse WHAM, PlayStation AI, Tencent/NetEase, AI companions, Meshy/Tripo/Kaedim, BAFTA), YouTube search (motion matching AI agent). Dropped: stale (Capcom RE Engine 10-03, Unity Spark 10-08, PS5 QSSR 10-01, Sony boss patent 10-07, Moonlighter 10-19, NPCTalk 10-18, Vivrato 10-21), already published or the same story (Roblox 70k games, Epic UE6 vibe coding, Epic EULA/UE AI training, Claude clone-rule follow-ups, Future No Thanks voice scrub, G-Star Unity AI jam already in first pass), business noise (Xsolla-GamePix M&A, EloElo funding, Krafton/NC robot AI, Nexus/ONE corp rename), and non-game items (NVIDIA Cosmos physical AI).",
  "items": [
   {
-   "url": "https://kotaku.com/steam-valve-slop-ai-genai-vibe-coding-pc-game-releases-2000746749",
-   "source": "Kotaku",
-   "title": "2026 Has Already Seen More Games Added To Steam Than All Of 2025, And It's About To Get So Much Worse",
-   "published_iso": "2026-10-16T15:30:25+00:00",
-   "og_image": "https://kotaku.com/app/uploads/2026/10/steamslop.jpg",
-   "excerpt": "Steam passed 21,388 releases in 2026 by mid-October, beating all of 2025. Kotaku argues vibe-coded knock-offs will swell 2027 further, and notes Steam still offers no way to filter AI-declared games out of new-release lists.",
-   "category": "games"
-  },
-  {
-   "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+   "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
+   "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
    "source": "PC Gamer",
-   "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-   "published_iso": "2026-10-04T10:49:26Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/Av3XxfD8BF9MQDW967VZfE-1200-80.jpg",
-   "excerpt": "In the StarSkirmish botmatch, where LLMs get one hour to program a Protoss bot, GPT-6 Astra tried to win against Claude Opus 5.5 and the human-made bot Pluto by pilfering a human-created bot.",
-   "category": "games"
+   "category": "games",
+   "published_iso": "2026-10-22T21:39:30Z",
+   "excerpt": "Epic's 2026 Epic AI MegaJam for Unreal Engine (theme revealed November 11, thousands of dollars in prizes) originally said in its FAQ that entrants had to use AI. After backlash Epic said it was a mistake and that you can use as little or as much AI as you want.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/kcoLy3wUGtqe8Xvfo3fa5U-1990-80.jpg"
   },
   {
-   "url": "https://www.gamesradar.com/games/asking-the-ai-to-reproduce-a-game-that-has-already-been-made-does-not-make-you-kojima-says-unity-ceo-launching-an-ai-you-can-use-to-reproduce-games/",
-   "source": "GamesRadar+",
-   "title": "\"Asking the AI to reproduce a game that has already been made does not make you Kojima,\" says Unity CEO launching an AI you can use to reproduce games",
-   "published_iso": "2026-10-08T11:03:32Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/UZ5WWHD35Q77mnsZMgSkCA-1920-80.jpg",
-   "excerpt": "Unity's CEO says copying an existing game with AI doesn't make you an auteur, while launching Unity Spark, a prompt-based tool built to streamline AI-assisted game development.",
-   "note": "Unity Spark launch itself already published (80.lv); this is the CEO-stance angle.",
-   "category": "games"
+   "title": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
+   "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+   "source": "PC Gamer",
+   "category": "games",
+   "published_iso": "2026-10-24T15:33:23Z",
+   "excerpt": "The roughly 2,600-member Japan Actors Union, which includes game voice actors, put out generative-AI guidelines that require consent at every stage and disclosure whenever a performer's voice is used for AI. It stops short of a ban but sets heavy limits on AI copies of deceased actors.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/NYFR7QhivdoNWL5CenjD8c-1920-80.jpg"
   },
   {
-   "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
-   "source": "PocketGamer.biz",
-   "title": "Wooga's Holger Wurst on designing June's Journey: Player research, AI and the UX rule you can't break",
-   "published_iso": "2026-10-14T15:38:00+01:00",
-   "og_image": "https://media.pocketgamer.biz/images/141725/90027/holgerwurstinthehotseat_l1200.jpg",
-   "excerpt": "Wooga's UI/UX lead on the $1B hidden-object game June's Journey, who runs 11 designers, animators and researchers, talks through AI's possibilities and limits for live-game UX and why player research still comes first.",
-   "note": "off-list domain (pocketgamer.biz): design-org craft interview, no on-list equivalent",
-   "category": "games"
+   "title": "Best WoW Forever add-ons to avoid AI slop",
+   "url": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/",
+   "source": "Destructoid",
+   "category": "games",
+   "published_iso": "2026-11-04T18:58:18+00:00",
+   "excerpt": "AI-generated add-ons are flooding CurseForge for World of Warcraft: Forever as low-effort near-duplicates that raise testing, maintenance, security and Blizzard TOS concerns. Destructoid points players to handcrafted alternatives such as Questie and Dialogue UI.",
+   "og_image": "https://www.destructoid.com/wp-content/uploads/2026/11/Featured-Best-add-ons-in-World-of-Warcraft-Forever.png"
   },
   {
-   "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
-   "source": "PocketGamer.biz",
-   "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
-   "published_iso": "2026-10-13T18:00:00+01:00",
-   "og_image": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-   "excerpt": "Google Play's Game Finder uses Google AI to build a \"gamer DNA\" profile from play habits, then recommends games by genre and mechanic. Players can also filter out titles that push in-app purchases.",
-   "note": "off-list domain (pocketgamer.biz); no on-list coverage found",
-   "category": "games"
+   "title": "UE5 Motion Matching With 900+ Animations, Built by an AI Agent",
+   "url": "https://www.youtube.com/watch?v=I6IL5NTGNIM",
+   "source": "CodeFizz (YouTube)",
+   "category": "games",
+   "published_iso": "2026-11-01T04:24:35-08:00",
+   "excerpt": "CodeFizz's editor agent assembled an Unreal Engine 5 Motion Matching setup for unarmed, rifle, pistol and shotgun locomotion, picking more than 900 animations from a 1,700-asset library and building the chooser tables, then tested the result. The creator says none of it was built by hand. It is a vendor demo with a small audience (about 175 views).",
+   "og_image": "https://i.ytimg.com/vi/I6IL5NTGNIM/maxresdefault.jpg"
   },
   {
-   "url": "https://wccftech.com/playstation-solve-frame-generation-issue-patent-frame-prediction/",
-   "source": "Wccftech",
-   "title": "PlayStation Seeks To Solve Frame Generation's Number 1 Issue, As New Patent Details Frame Prediction Tech Slashing Input Delay",
-   "published_iso": "2026-10-16T11:08:07+00:00",
-   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Frame-Prediction-Tech-1920x1072.jpg",
-   "excerpt": "A new Sony patent describes predicting future frames, instead of interpolating between them like ML frame generation, to cut input delay. It includes a non-AI fallback for wrong predictions.",
-   "category": "games"
+   "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
+   "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-10-26T16:30:08+00:00",
+   "excerpt": "Kotaku argues that Microsoft and Epic, both openly promoting AI in their own game development, are now trying to have AI-made decompilations, vibe-coded browser ports and recomps taken down. Opinion/analysis rather than a new action.",
+   "og_image": "https://kotaku.com/app/uploads/2026/10/Master-Chief-Fortnite-trailer-Epic-Games-Xbox-1200x675.jpg"
   },
   {
-   "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
-   "source": "GamesIndustry.biz",
-   "title": "A guide to six regulatory risks shaping games in 2026",
-   "published_iso": "2026-10-13T11:25:38.874717+00:00",
-   "og_image": "https://assetsio.gnwcdn.com/jim-petkiewicz-NJIzBRrgBus-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-   "excerpt": "EU AI Act rules on deepfakes and on depicting real people and places in games have applied since August 2. Studios now have legal duties to disclose AI use, and generative-AI outputs must be marked as machine-detectable.",
-   "category": "games"
+   "title": "The AI PS5 Homebrew Gold Rush Is Why GTA 6 Can't Be Pirated",
+   "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-10-26T21:30:32+00:00",
+   "excerpt": "AI-assisted reverse-engineering with Claude has set off a PS5 homebrew boom, including disc-based PS2/PS3 emulation tools, and has split the scene. One hacker reported a big hypervisor exploit to Sony, which the community blames for closing the door on GTA 6 piracy.",
+   "og_image": "https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg"
+  },
+  {
+   "title": "SonicFox Backs Out Of A Gaming Convention Over An AI-Generated Promo",
+   "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-10-21T23:00:51+00:00",
+   "excerpt": "Fighting-game pro SonicFox ended their contract with Nexcon 2026 after the convention's promo flyer used AI to generate their likeness and those of other guests. The organizer admitted using AI and asked them to reconsider. Edge of the window (about 335.7h old).",
+   "og_image": "https://kotaku.com/app/uploads/2018/12/epcreyfmhu5sx0h73hsu.jpg"
   }
  ]
 }

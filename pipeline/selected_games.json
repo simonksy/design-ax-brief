@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "games",
-  "picks": [
+  "items": [
     {
-      "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
-      "title": "How Gaijin Tuned DLSS 5 for War Thunder",
-      "source": "NVIDIA",
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Primary-source dev interview: War Thunder's art director explains how they tuned DLSS 5 neural rendering inside their engine's color pipeline so markings and materials stay true to the original art. Concrete, actionable art-pipeline detail.",
-      "published_iso": "2026-11-03T06:00:00-08:00",
-      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg",
-      "excerpt": "Gaijin's War Thunder art director Kirill Stupin explains how the team integrated DLSS 5 into the Dagor Engine color pipeline, made color management invertible, and tuned the neural renderer so markings, wear and materials stay faithful to the original art."
-    },
-    {
-      "url": "https://aftermath.site/itch-io-removes-terabytes-ai-slop/",
-      "title": "Itch Removes 'A Couple Terabytes' Of AI Slop, Updates Filtering To Stem Tide Of Garbage Flood",
-      "source": "Aftermath",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "Follow-up with new actions: two days after itch.io published its upload numbers, it deleted terabytes of AI uploads and changed its filtering. Storefront policy that affects every indie release.",
-      "published_iso": "2026-11-03T22:29:58.000Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-      "excerpt": "itch.io deleted 'a couple terabytes' of AI-generated uploads, many of them poorly optimized AI models, and updated its filtering to stem the flood of genAI projects."
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-      "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
-      "source": "Rock Paper Shotgun",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "New event: a human-made game moved its launch date because its developers say Steam's review queue is backed up with genAI submissions. Shows AI slop changing real release schedules.",
-      "published_iso": "2026-11-03T21:41:08.091733+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Food Devils' developers delayed launch, saying Steam's review queue is clogged by a flood of genAI submissions, a sign AI slop is now affecting release schedules for human-made games."
-    },
-    {
-      "url": "https://gamesbeat.com/playgama-launches-ai-game-index-to-rank-coding-agents-by-real-player-engagement/",
-      "title": "Playgama launches AI Game Index to rank coding agents by real player engagement",
-      "source": "GamesBeat",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "New release, separate from Playgama's 10-15 agent toolset: a benchmark that ranks AI coding models by how real players engage with 4,200 AI-made games. Useful data for teams choosing a model.",
-      "published_iso": "2026-10-29T13:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png",
-      "excerpt": "Playgama's first AI Game Index ranks models by real player engagement across 4,200 AI-made games: Claude Opus builds 54% of new games, but OpenAI's Astra makes the ones players like most."
-    },
-    {
-      "url": "https://www.inews24.com/view/2021644",
-      "title": "크래프톤, K팝 AI 캐릭터 챗 서비스 '키프' 선보여",
-      "source": "아이뉴스24",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New product launch from a major Korean game publisher: Krafton's AI character chat service Kiff, with characters designed by the artists themselves. Adds Korean coverage and an AI-character angle.",
-      "published_iso": "2026-11-02T15:31:50+09:00",
-      "og_image": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-      "excerpt": "크래프톤이 K팝 AI 캐릭터 챗 서비스 '키프(Kiff)'를 국내 출시했다. 첫 아티스트 피프티피프티 멤버들이 직접 구상한 캐릭터 '웨니'와 K팝을 주제로 대화할 수 있다."
+      "title": "'We Are Pro-Human Creativity' — Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
+      "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
+      "source": "IGN",
+      "published_iso": "2026-11-04T10:50:53.362Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789419286.png?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Nexus Mods now requires disclosure for mods with AI-assisted code or assets and lets users filter AI-assisted mods out of browsing, arguing an outright ban would only push AI use underground.",
+      "rationale": "New platform policy on the biggest mod site: mandatory AI disclosure plus a user-side filter. IGN reported it first and has the cleanest version of the three outlets that covered it."
+    },
+    {
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "title": "Unreal Engine 6 will drop Blueprints from the start to put AI productivity first, Tim Sweeney says in an apologetic Unreal Fest Tokyo 2026 keynote",
+      "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
+      "source": "4Gamer.net",
+      "published_iso": "2026-11-04T14:17:10+09:00",
+      "og_image": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg",
+      "excerpt": "At Unreal Fest Tokyo 2026 Tim Sweeney said Unreal Engine 6 will drop Blueprints from the start rather than phase them out, prioritising AI-agent productivity, and apologised for the change.",
+      "rationale": "A concrete engine decision with direct workflow impact: dropping Blueprints, the visual-scripting layer that many designers and technical artists rely on, in favour of AI-agent workflows. It came from the Epic CEO on stage, and 4Gamer reported it first-hand."
+    },
+    {
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "title": "Power Moon Recomp: an unofficial native PC port of Super Mario Odyssey, built with the Claude coding agent, runs at 4K/60",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
+      "source": "게임와이 (Gamey)",
+      "published_iso": "2026-11-04T09:03:36+09:00",
+      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019481_173278_654_v150.jpg",
+      "excerpt": "An unofficial static-recompilation port runs Super Mario Odyssey natively on PC at up to 4K/60fps; the developer says it was built with heavy help from the Claude AI coding agent, shipping seven versions in about 30 hours.",
+      "rationale": "A new release in the AI-assisted recomp wave, and the first big one to land after the 11-02 reports that Anthropic is curbing Claude game remakes. The developer's account of seven versions in about 30 hours is a concrete data point on speed. The copy should state that the port is unofficial and the claims are the developer's own."
+    },
+    {
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "title": "Best WoW Forever add-ons to avoid AI slop",
+      "url": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/",
+      "source": "Destructoid",
+      "published_iso": "2026-11-04T18:58:18+00:00",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/11/Featured-Best-add-ons-in-World-of-Warcraft-Forever.png",
+      "excerpt": "AI-generated add-ons are flooding CurseForge for World of Warcraft: Forever as low-effort near-duplicates that raise testing, maintenance, security and Blizzard TOS concerns. Destructoid points players to handcrafted alternatives such as Questie and Dialogue UI.",
+      "rationale": "A fresh (11-04) report that the flood of AI slop has reached CurseForge's WoW Forever add-on catalogue, with a practical list of handcrafted alternatives. It is a different event from the 10-18 card about Blizzard's trailer being accused of AI use."
+    },
+    {
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "title": "Y Combinator and Olam Labs let 50 AI agents build a civilisation in Minecraft, and they formed a timid bureaucracy",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477130/",
+      "source": "AUTOMATON",
+      "published_iso": "2026-11-02T08:01:18+00:00",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-header.jpg",
+      "excerpt": "Y Combinator and Olam Labs published 'Agents in Games', a study letting 50 AI agents build a civilisation in Minecraft; the agents formed a timid, bureaucratic society.",
+      "rationale": "A newly published multi-agent study ('Agents in Games') with findings that matter to anyone designing agent-driven NPCs or social systems. It is distinct from the 10-21 Google Ender Dragon card, which was about a single agent finishing the game, not emergent group behaviour."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/": {
+      "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters": {
         "verdict": "new",
-        "nearest": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
+        "nearest": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
         "new_action": ""
       },
-      "https://aftermath.site/itch-io-removes-terabytes-ai-slop/": {
+      "https://www.4gamer.net/games/210/G021013/20261104013/": {
         "verdict": "follow-up",
-        "nearest": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
-        "new_action": "itch.io deleted 'a couple terabytes' of AI-generated uploads and changed its filtering (site-wide genAI disclosure plus a search filter to hide AI-disclosed games). The 11-02 Polygon card only covered the upload-volume numbers."
+        "nearest": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+        "new_action": "New engine decision announced 11-04 in Tim Sweeney's Unreal Fest Tokyo 2026 keynote: UE6 will ship without Blueprints from the start, not phase them out, to prioritise AI-agent productivity, and Sweeney apologised for it. The 10-29 Eurogamer card covered Epic's general gen-AI push ('engineers no longer writing the bulk of the code'), and the 10-06 Rider/Unreal Fest Chicago card (the history_match) was an agentic-dev tooling talk. Neither reported this decision."
       },
-      "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games": {
+      "http://www.gamey.kr/news/articleView.html?idxno=3019481": {
         "verdict": "new",
-        "nearest": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+        "nearest": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
         "new_action": ""
       },
-      "https://gamesbeat.com/playgama-launches-ai-game-index-to-rank-coding-agents-by-real-player-engagement/": {
+      "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/": {
         "verdict": "new",
-        "nearest": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
+        "nearest": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
         "new_action": ""
       },
-      "https://www.inews24.com/view/2021644": {
+      "https://automaton-media.com/articles/newsjp/20261102-477130/": {
         "verdict": "new",
-        "nearest": "https://www.inews24.com/view/2019608",
+        "nearest": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
         "new_action": ""
       }
     },
-    "note": "Cross-section: dropped 80.lv CozyBlanket Pro retopology because the same Sparseal CozyBlanket Pro release ran in design on 2026-10-15 (cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro). Same story as a published card: Eurogamer + RPS itch.io filter (same running story as the Aftermath pick, kept one of the cluster; Eurogamer is a likely-repeat of the 11-02 Polygon card); GI.biz Vivrato 97% (= 10-21 GamesBeat Vivrato report); GI.biz Shogun 2 VP comments (commentary after the 10-16 pull from sale); GI.biz Sweeney 'political act' (= 10-24 GamesRadar Sweeney); PC Gamer Epic AI MegaJam (= 10-23 GamesRadar); NVIDIA Hogwarts Legacy DLSS 5 Nov 5 (= 10-14 Wccftech, Hogwarts in November already announced); Wccftech War Thunder DLSS 5 (same story as the NVIDIA War Thunder pick, kept the primary source); NVIDIA Dev RTX Spark (cluster c11, related to the 10-16 RTX Spark card). Excluded on quality: Wccftech '94% labels meaningless' (opinion piece built on survey data already covered); 80.lv Tripo P2.0 (vendor interview); 80.lv haystack-dev AI-clone jab (6 days old, overlaps the 10-29 Valve/Steam Indie Connect card and the running AI-clone story). Checked published_urls design/gadgets/music for the picks: no cross-section hits. Diversity: 5 distinct outlets."
+    "note": "FINAL RE-CURATION (fetch-pass corrections). REMOVED (a) Wccftech '94% of game studios use AI': the fetch pass confirmed the survey is Vivrato's VAIA Report 2026, already published 10-21 (gamesbeat.com/adam-boyes-vivrato-issues-report...), so it is a duplicate. REMOVED (b) Game Developer 'Valve warns of slower Steam approvals': Valve's post does not attribute the delay to AI. The AI link is only Game Developer's speculation, so AI is incidental. REMOVED CodeFizz UE5 motion-matching YouTube demo (I6IL5NTGNIM): a low-reach (~175 views) vendor demo, displaced by stronger fresh items. KEPT IGN Nexus Mods and Destructoid WoW Forever add-ons (their checks are unchanged). ADDED from candidates_filtered_recovery2_games.json: 4Gamer UE6 dropping Blueprints (a follow-up with a new engine decision), Gamey Power Moon Recomp (a new port release, distinct from the earlier Bloodborne, CTR, Link's Awakening and Banjo recomps and from the 11-02 Anthropic-restriction card), and AUTOMATON YC/Olam 'Agents in Games' Minecraft study (new research, distinct from the 10-21 Google Ender Dragon card). DROPPED from recovery2: AUTOMATON and RPS itch.io AI filter (cluster c3). This is the same filtering update already published 11-04 via Aftermath ('Itch Removes A Couple Terabytes Of AI Slop, Updates Filtering'). Game Developer 'Roblox growth slumps, betting big on AI': earnings-adjacent AI-business noise, overlapping the 10-30 GamesBeat Roblox 80% card. IGN Sakurai 'low-quality goods': creator commentary with no new action, and Sakurai's AI view already ran 10-17 via GamesRadar. Also not picked: GosuGamers Roblox AI clones of Elden Ring and others (10-29, a week old, close to the 10-21 AI mash-up launcher and the 07-19 AI-cloning cards). Not picked: GameBusiness.jp 'Games Without AI' showcase (10-31). It is fresh and unique but ranked below the three adds on actionability and novelty, so it is held as the first backfill if any pick fails enrichment. EXACT URL CHECK against published_urls.json games block: none of the three new URLs appear (no gamey.kr, no automaton newsjp/20261102-477130, and only two unrelated 4gamer URLs from August). The full cross-section file (3,943 lines) was too large to scan completely; the coordinator should run an exact grep across all sections before roll. Outlets: IGN, 4Gamer.net, Gamey, Destructoid, AUTOMATON (5 distinct)."
   }
 }

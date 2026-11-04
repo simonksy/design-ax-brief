@@ -15919,6 +15919,154 @@
           "x": "Kelly는 “궁극적인 목표는 우주비행사의 직접적인 감독과 지휘 아래 간단한 음성 지시만으로 다양한 작업을 수행할 수 있는 로봇 시스템을 만드는 것”이라고 말했다."
         }
       ]
+    },
+    "gadgets/gemini-home-att-connected-life": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+          "cap": "이미지: AT&T"
+        },
+        {
+          "t": "p",
+          "x": "AT&T의 스마트홈 보안 시스템이 Gemini for Home과 연동된다. 회사는 Connected Life 시스템이 Google Home Premium과 연동되는 “첫” 홈 보안 제품이라고 소개했다. 집 안 이벤트 요약, 영상 기록 검색 등 여러 Gemini-powered 기능을 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "업데이트 이후 Gemini for Home은 누가 택배를 가져왔는지, 몇 개를 두고 갔는지처럼 보안 카메라에 잡힌 이벤트를 자세히 설명한다. “어젯밤 마당을 판 건 뭐지?”나 “누가 개들을 풀어 줬지?” 같은 자연어 질문으로 녹화 영상을 찾을 수 있고, 집 안팎 활동을 정리한 일일 요약도 받아 볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능은 월 $29.99짜리 AT&T 전문 Connected Life 모니터링 요금제에서만 쓸 수 있다. AT&T는 사용자가 집에 얼마나 가까이 있는지에 따라 경비를 알아서 켜고 끄는 기능도 넣는다."
+        },
+        {
+          "t": "p",
+          "x": "AT&T는 지난해 12월 Google, Abode와 손잡고 Connected Life 시스템을 내놨다. 이제는 Google의 Gemini-powered Home APIs도 활용하는데, 스마트홈 브랜드와 개발자가 기기에 AI-powered 기능을 넣을 수 있게 해 주는 도구다. ADT도 자사 보안 시스템에 Gemini for Home 기능을 들이겠다는 뜻을 내비쳤다."
+        }
+      ]
+    },
+    "gadgets/disneyland-robot-interns": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Disney Accelerator Demo Day에서 Disney와 로봇용 AI 두뇌를 만드는 FieldAI가 Disneyland 주차장에서 차량을 안내할 로봇 영상을 공개했다. Disney Experiences Technology의 Gary Daniels는 “도착했을 때 Cars의 캐릭터나 Wall-E의 로봇이 주차할 곳을 안내한다고 상상해 보라”고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+          "cap": "FieldAI는 AI로 자율 로봇을 학습시켜 Disneyland 주차장에서 방문객을 안내하게 한다."
+        },
+        {
+          "t": "p",
+          "x": "FieldAI는 피지컬 AI를 카메라 여러 대가 달린 상자에 담아 다른 회사 로봇 위에 얹는다. FieldAI-enabled 로봇은 아직 초기 단계지만 Galaxy’s Edge의 BBX 드로이드에는 이미 들어갔다. CEO Ali Agha는 “우리 지능은 더 큰 버전에 탑재돼 이미 파크에서 작동하고 있다”고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+          "cap": "FieldAI의 AI 덕분에 자율 드로이드는 매핑, GPS, 안내 없이도 Disneyland의 Star Wars: Galaxy’s Edge를 누빈다."
+        },
+        {
+          "t": "p",
+          "x": "Physical Intelligence (Pi)는 무대 뒤 캐스트 멤버를 돕는 로봇에 집중한다. 3D 안경을 집고 접고 닦고 분류하는 일이다. Pi는 Disneyland에서 12일 동안 자정부터 오전 6시 사이에 데이터를 모았다. Sourish Jasti는 “일종의 로봇 인턴십이었다”며 “Disney와 함께 여러 다양한 공간에서 로봇이 인턴으로 일하게 할 계획”이라고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+          "cap": "Pi AI-enabled 로봇이 Disneyland 무대 뒤에서 3D 안경을 집어 쌓는다."
+        },
+        {
+          "t": "p",
+          "x": "Disney Research의 Doug Fidaleo는 “미래의 파크는 로봇 캐릭터로 가득할 것”이라고 말했다."
+        }
+      ]
+    },
+    "gadgets/apple-watch-transfhar-gestures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+          "cap": "Apple Watch Ultra 2 듀얼 제스처 예시"
+        },
+        {
+          "t": "p",
+          "x": "Northwestern University와 Carnegie Mellon University 연구진이 TransfHAR라는 시스템을 개발했다. Apple Watch에 든 모션 센서인 가속도계와 자이로스코프로 손과 손목의 움직임을 읽어 활동을 학습하고 식별한다."
+        },
+        {
+          "t": "p",
+          "x": "참가자 10명이 커피 젓기, 허공에 하트 그리기 같은 활동을 일곱 가지씩 골랐다. 시스템의 핵심 모델은 Google 연구진이 만든 웨어러블 센서 모델 LSM-2에 바탕을 두고, 381명에게서 모은 약 2,760시간 분량의 공개 손목 움직임 데이터로 학습했다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+          "cap": "TransfHAR용 Apple Watch 학습"
+        },
+        {
+          "t": "p",
+          "x": "워치는 활동마다 단 일 분 분량의 움직임 데이터만으로 새 활동 일곱 가지를 90% 정확도로 알아봤다. 활동당 2.56초짜리 클립 하나만 써도 균형 정확도가 75.2%였다. 학습은 일 초도 안 걸리고, 워치는 페어링된 휴대폰이나 원격 서버 없이 약 24밀리초 만에 예측을 내놓는다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+          "cap": "TransfHAR용 Apple Watch 학습"
+        },
+        {
+          "t": "p",
+          "x": "제스처로 단축어나 스마트홈 동작을 실행할 수 있다. 다만 글쓰기나 스크롤처럼 작고 이어지는 손동작에는 약하고, 연구팀은 배터리 수명에 주는 영향을 측정하지 않았다."
+        },
+        {
+          "t": "video",
+          "yt": "8bVF4_c3y6s"
+        }
+      ]
+    },
+    "gadgets/claude-nordictrack-ifit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+          "cap": "Stephen Radochia / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "한 NordicTrack 사용자가 Claude Code로 러닝머신 화면을 묶어 둔 iFIT 구독 제한을 풀었다. 여자친구가 NordicTrack Commercial 2250을 샀는데, Netflix와 Crunchyroll을 보려면 iFIT 구독이 따로 필요했고 기본 운동조차 iFIT 로딩을 기다리며 광고를 봐야 했다."
+        },
+        {
+          "t": "p",
+          "x": "하루 반쯤 지나자 iFIT의 로그인 요구, 광고, 멤버십 권유가 모두 사라졌다. 그 자리를 Netflix와 Crunchyroll을 담은 맞춤 홈 화면이 채웠고, 영상을 보면서도 운동 통계와 조작 기능을 쓸 수 있다. 물리 버튼도 그대로 작동한다. Netflix 실행 시간은 일 분 가까이 걸리던 것이 21초로 줄었다고 한다."
+        },
+        {
+          "t": "p",
+          "x": "아쉬운 점도 있다. Netflix는 표준 화질까지만 나오고, 공장 초기화를 하면 개조가 사라질 수 있다. 전동 기구를 개조하면 안전과 보증 문제도 따른다. 그래도 제작자는 프로젝트를 GitHub에 공개했다."
+        }
+      ]
+    },
+    "gadgets/watchos273-live-rewind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 Apple Watch Series 12와 Ultra 4용으로 미리 공개했던 새 Audio Intelligence 기능을 watchOS 27.3 첫 베타에서 선보인다. S11 칩이 돌리는 Audio Intelligence는 Live Rewind, Siri Recap, Sound Recognition, Shazam Music Recognition으로 이뤄진다."
+        },
+        {
+          "t": "p",
+          "x": "Live Rewind는 대화의 마지막 15초를 글로 옮겨 보여준다. 웨이터가 오늘의 특선 메뉴를 읊는데 한마디를 놓쳤다면 Digital Crown을 두 번 눌러 방금 오간 말을 다시 보면 된다."
+        },
+        {
+          "t": "p",
+          "x": "Siri Recap은 하루 내내 백그라운드에서 대화를 듣다가 제목과 핵심 내용을 담은 요약을 만든다. 저장하지 않은 요약은 일주일 뒤 저절로 지워진다. 시간이나 장소, 혹은 둘 다를 기준으로 예약해 둘 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Audio Intelligence 기능은 모두 사용자가 직접 켜야 돌아간다. 녹음 파일은 만들지도 저장하지도 않고, 원본 오디오는 S11 칩의 Secure Exclave로 들어간다. 누가 말했는지 가려내거나 특정하는 기능도 없다. Live Rewind가 켜지면 알림음이 울리고 마이크 표시가 뜬다."
+        },
+        {
+          "t": "p",
+          "x": "Live Rewind는 기기 안에서 처리되고, Siri Recap 요약은 Private Cloud Compute를 거친다. Apple Intelligence와 Siri AI를 지원하는 iPhone 16 이후 모델이 있어야 하며 처음에는 영어만 된다. watchOS 27.3은 iOS 27.3과 함께 12월에 나올 예정이다."
+        }
+      ]
     }
   }
 }

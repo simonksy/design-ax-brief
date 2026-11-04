@@ -8936,6 +8936,163 @@
           "x": "The focus should be on a framework of accountability and validation, with human judgment complementing technical checks. “The presence of AI does not establish misconduct just as the absence of AI does not establish integrity.” — Roohi Ghosh, Cactus Communications"
         }
       ]
+    },
+    "books/readwise-books-reader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+          "cap": "Image Credits: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "Readwise, the maker of a read-it-later app, is taking on Amazon's e-book empire with Readwise Books, which it describes as \"a cross between Kindle and the Goodreads apps\": a single place to buy, read, and track books, with richer reading data like words read, pace, depth, immersion, and sessions."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+          "cap": "Image Credits: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "Its store offers \"millions\" of e-books from the big five publishers and others, initially in the U.S. Print books and some audiobooks are available too. Kindle remains the leader, with an 83% share of the market when Kindle+ is included."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+          "cap": "Image Credits: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "Users can upload DRM-free EPUBs, track sessions in Kindle's Cloud Reader, snap photos of physical books, and have e-books read aloud. Readwise likens its metrics to a \"Strava for reading.\""
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+          "cap": "Image Credits: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "With publishers' permission, the app will support AI-powered features like session recaps, definitions and term lookups, word and phrase translations, and a location-aware ability to ask questions about the part you're reading. (So far, only HarperCollins has opted in.) It also offers a public API and an MCP server that supports AI agents."
+        },
+        {
+          "t": "p",
+          "x": "The app will remain free, with some AI features later going behind a paywall. It is in beta and requires an invite unless you're already a Readwise subscriber."
+        }
+      ]
+    },
+    "books/oup-chatgpt-edu-pilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Oxford University Press announced a three-month pilot that lets students and researchers at Harvard Library, the Wharton School of the University of Pennsylvania, and the University of Oxford search licensed OUP content inside ChatGPT Edu. The test began in October and runs through December; answers draw on OUP books and journals their institution already buys, with citations and links to the full text on Oxford Academic."
+        },
+        {
+          "t": "p",
+          "x": "Behind the scenes is a Model Context Protocol (MCP) server that OUP built with Silverchair. When a user asks a question, OUP's server searches the press's content, picks the most relevant sources, and passes them to ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "\"We've undertaken this pilot to learn what real-world use of publisher MCPs looks like and what benefits it drives,\" said Tanya Laplante of OUP. The partners will track whether citations motivate researchers to click through and whether OUP's information improves ChatGPT's answers."
+        },
+        {
+          "t": "p",
+          "x": "The same day, Cambridge University Press, Johns Hopkins University Press, and Princeton University Press announced Meridian, a shared MCP service run by the AI licensing startup Cashmere."
+        }
+      ]
+    },
+    "books/bookend-editorial-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+          "cap": "Choi Hyun-soo, CEO of Bookend [Photo=Bookend]"
+        },
+        {
+          "t": "p",
+          "x": "Bookend, a publisher in the Daedeok Research Complex, has introduced 'Editorial', an AI book-editing service that cuts the time needed for proofreading and copyediting from 2 weeks to 30 minutes, and on the 7th it took part in the Frankfurt International Book Fair in Germany to present the technology to the overseas publishing industry."
+        },
+        {
+          "t": "p",
+          "x": "CEO Choi Hyun-soo explained, \"Previously, a single round of proofreading and copyediting took at least 2 weeks to a month, but Editorial finishes reviewing a manuscript in about 10 minutes,\" adding, \"Even including the time for a person to check the results, it's around 30 minutes.\" Outsourcing a 100,000-character manuscript costs about 1 million won, while Editorial can handle it for about 10,000 won."
+        },
+        {
+          "t": "p",
+          "x": "Beyond typos, particles and punctuation, it finds expressions that don't fit the context and checks facts by searching statistics. Results are attached as notes to the original Hangul (HWP) or PDF file. It handles up to 500,000 characters, and its 'style analysis' technology keeps the author's own voice while applying the same standard from beginning to end."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+          "cap": "Bookend presented its in-house AI book-editing technology at the Frankfurt International Book Fair in Germany. [Photo=Bookend]"
+        },
+        {
+          "t": "p",
+          "x": "Bookend has published about 15 titles and sold 40,000 copies, and by using AI it has shortened its publishing time from 4 months to 2-3 months. It supports Korean, English and German and plans to add Japanese. \"Many people agreed with the direction that AI does not replace editors but supports their judgment,\" Choi said. The long-term goal is 'the Figma of publishing', connecting every step of the publishing process."
+        }
+      ]
+    },
+    "books/jemul-tupyo-ai-liveaction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+          "cap": "An AI live-action video based on Naver Webtoon's 'Jemul Tupyo'. Screenshot from the Page Pictures YouTube channel"
+        },
+        {
+          "t": "p",
+          "x": "2.3 million views on YouTube within a month and a half of release. That is the story of a video that adapts Naver Webtoon's 'Jemul Tupyo' into live action with artificial intelligence (AI). Without waiting for official production announcements, fans and video studios are using AI to reinterpret popular webtoons as films and dramas."
+        },
+        {
+          "t": "p",
+          "x": "'Jemul Tupyo' was made with AI alone, without sets, CG or actors. According to the producer, it was completed in about 358 hours, or half a month, from planning through generation and editing. Other Naver Webtoon titles such as 'Geukya' and 'Yongsaga Dorawatda' have also been adapted into live action with AI."
+        },
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+          "cap": "An AI live-action video based on Naver Webtoon's 'Namgeuk'. Screenshot from the Fantasoner YouTube channel"
+        },
+        {
+          "t": "p",
+          "x": "Most of the videos adapt only the opening into live action, steering viewers to the original webtoon. But fans' affection or high view counts do not mean the original creator's permission. A non-profit purpose or a credit alone cannot replace the copyright licensing process, and issues of copyright and the right to create derivative works can arise."
+        },
+        {
+          "t": "p",
+          "x": "Seo Beom-gang, chairman of the IP Convergence Industry Association, stressed, \"It would be good to allow non-commercial fandom activities under certain conditions, while setting up a separate contract process for commercial production.\""
+        }
+      ]
+    },
+    "books/books-ao3-clone-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+          "cap": "Photo by Elin Melaas on Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "A vibe-coded site that scraped Archive of Our Own (AO3) fanfiction works, reuploaded them and charged for audiobook versions is down after its creator said they received over 2,000 takedown requests from authors in the single day it was up."
+        },
+        {
+          "t": "p",
+          "x": "ao3.life sprang up after AO3 announced a weeks-long outage following a security incident. Its creator, Ganesh, wrote that “a swarm of AI Agents controlling 40 virtual machines” scraped the internet for works. The site offered EPUBs and AI-generated audiobooks, charging after the first three minutes, and claimed authors would get 91% of the profits."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Some authors said AO3’s archive lock didn’t matter: their locked works still appeared on the site. To get works removed, authors had to leave a note on their AO3 profile — impossible while AO3 was down."
+        },
+        {
+          "t": "p",
+          "x": "“Why did I charge for AI Slop audiobooks? … It had 126,592 unique users within 24 hours of going up,” Ganesh wrote. “I sold like 11 audiobooks, if it’s any consolation.” They signed off as “a 17 year old from India that thought they were doing something good.”"
+        }
+      ]
     }
   }
 }

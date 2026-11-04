@@ -10654,6 +10654,154 @@
           "x": "“The ultimate goal is to build a robotic system that can execute a variety of tasks via simple voice instructions, under the astronauts’ direct supervision and command,” Kelly said."
         }
       ]
+    },
+    "gadgets/gemini-home-att-connected-life": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+          "cap": "Image: AT&T"
+        },
+        {
+          "t": "p",
+          "x": "AT&T’s smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the “first” home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more."
+        },
+        {
+          "t": "p",
+          "x": "With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like “What dug up the yard last night?” or “Who let the dogs out?”, as well as review daily summaries of activity in and outside your home."
+        },
+        {
+          "t": "p",
+          "x": "These features are only available with AT&T’s professional $29.99 / month Connected Life monitoring plan. AT&T is also adding the ability to automatically arm or disarm your home based on your proximity to your home."
+        },
+        {
+          "t": "p",
+          "x": "AT&T launched its Connected Life system last December in partnership with Google and Abode. It’s now taking advantage of Google’s Gemini-powered Home APIs, which allow smart home brands and developers to build AI-powered features into their devices. ADT has also hinted at bringing Gemini for Home features into its security systems."
+        }
+      ]
+    },
+    "gadgets/disneyland-robot-interns": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the Disney Accelerator Demo Day, Disney and FieldAI, a company that builds the AI brains for robots, showed footage of robots that would assist with guiding cars through the Disneyland parking process. “Imagine if a character from Cars or robots from Wall-E direct you where to park when you arrive,” said Gary Daniels of Disney Experiences Technology."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+          "cap": "FieldAI is using AI to train autonomous robots to guide you in parking lots at Disneyland."
+        },
+        {
+          "t": "p",
+          "x": "FieldAI puts its physical AI in a box with multiple cameras on top of robots built by others. FieldAI-enabled robots have already been deployed at Galaxy’s Edge on the BBX droids, though in early stages. “Our intelligence is on the bigger version and operating in the park already,” CEO Ali Agha said."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+          "cap": "FieldAI is using AI to enable autonomous droids to wander around Star Wars: Galaxy’s Edge at Disneyland without needing mapping, GPS or guiding."
+        },
+        {
+          "t": "p",
+          "x": "Physical Intelligence (Pi) focuses on robots helping cast members backstage: picking up, folding, cleaning and sorting 3D glasses. Pi spent 12 days at Disneyland between midnight and 6 a.m. collecting data. “This was like a robot internship,” said Sourish Jasti. “We intend to have robots interning in many different spaces with Disney.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+          "cap": "Pi AI-enabled robots pick up and stack 3D glasses behind the scenes at Disneyland."
+        },
+        {
+          "t": "p",
+          "x": "“The park of the future will be teeming with robot characters,” said Doug Fidaleo of Disney Research."
+        }
+      ]
+    },
+    "gadgets/apple-watch-transfhar-gestures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+          "cap": "Apple Watch Ultra 2 dual gesture example"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Northwestern University and Carnegie Mellon University have developed a system called TransfHAR that uses the motion sensors inside the Apple Watch, the accelerometer and the gyroscope, to learn and identify activities based on the movement of your hands and wrist."
+        },
+        {
+          "t": "p",
+          "x": "10 participants each picked seven activities, such as stirring coffee or drawing a heart in the air. The system’s core model is adapted from LSM-2, a wearable sensor model developed by Google researchers, and was trained on roughly 2,760 hours of public wrist movement data from 381 people."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+          "cap": "Training Apple Watch for TransfHAR"
+        },
+        {
+          "t": "p",
+          "x": "The watch was able to recognize seven new activities with 90% accuracy using just one minute of recorded movement data per activity. A single 2.56-second clip per activity delivers a balanced accuracy of 75.2%. Training takes less than a second, and the watch can make a prediction in about 24 milliseconds, without a paired phone or remote server."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+          "cap": "Training Apple Watch for TransfHAR"
+        },
+        {
+          "t": "p",
+          "x": "Gestures could trigger shortcuts or smart home actions. The system struggles with small, sustained hand movements like writing or scrolling, and the team didn’t measure the impact on battery life."
+        },
+        {
+          "t": "video",
+          "yt": "8bVF4_c3y6s"
+        }
+      ]
+    },
+    "gadgets/claude-nordictrack-ifit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+          "cap": "Stephen Radochia / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "A NordicTrack owner used Claude Code to escape iFIT’s subscription restrictions on their treadmill’s screen. The owner’s girlfriend bought a NordicTrack Commercial 2250, but accessing Netflix and Crunchyroll required an additional iFIT subscription, and even basic workouts meant waiting for iFIT to load and dealing with its ads."
+        },
+        {
+          "t": "p",
+          "x": "Roughly a day and a half later, iFIT’s login demands, ads, and membership nags were gone. In their place sat a custom home screen with Netflix and Crunchyroll, alongside workout statistics and controls that stay accessible while you watch videos. The physical buttons still work, too. Netflix’s launch time reportedly dropped from nearly a minute to just 21 seconds."
+        },
+        {
+          "t": "p",
+          "x": "There are compromises. Netflix tops out at standard definition, and a factory reset could wipe away the makeover. Modifying motorized equipment also carries safety and warranty concerns. Still, the creator has published the project on GitHub."
+        }
+      ]
+    },
+    "gadgets/watchos273-live-rewind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+        },
+        {
+          "t": "p",
+          "x": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition."
+        },
+        {
+          "t": "p",
+          "x": "Live Rewind can show you a transcript of the last 15 seconds of a conversation. If you miss something like a waiter giving you the daily specials, you can press twice on the Digital Crown to see what was said."
+        },
+        {
+          "t": "p",
+          "x": "Siri Recap works in the background, listening to conversations throughout the day and generating a high-level summary with a title and key points. Summaries are auto-deleted after seven days unless they're saved, and can be scheduled by time, location, or both."
+        },
+        {
+          "t": "p",
+          "x": "Audio Intelligence features are all opt-in. Audio recordings aren't created or stored; raw audio goes into the Secure Exclave on the S11 chip. No features identify or attribute speakers. Live Rewind plays an audible chime and shows a microphone indicator."
+        },
+        {
+          "t": "p",
+          "x": "Live Rewind is processed on-device; Siri Recap summaries are created through Private Cloud Compute. The features require an iPhone 16 or later with Apple Intelligence and Siri AI, are English only to begin with, and watchOS 27.3 is expected in December alongside iOS 27.3."
+        }
+      ]
     }
   }
 }

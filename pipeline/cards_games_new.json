@@ -1,44 +1,197 @@
 {
- "date": "2026-10-02",
- "section": "games",
- "cards": [
-  {
-   "id": "unity-grok-build-plugin",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Unity ships an official plugin\nfor xAI's Grok Build agent",
-   "body": "Unity's official plugin for xAI's Grok Build coding agent brings Unity engineering guidance directly into the terminal.",
-   "mini_headline": "Unity plugin for Grok Build",
-   "tool": "Games",
-   "source": "Unity (YouTube)",
-   "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
-   "accent": "#f5a623",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "video",
-      "yt": "Fx1orSJc8d4"
-     },
-     {
-      "t": "p",
-      "x": "Unity has released its official plugin for Grok Build, bringing its engineering guidance directly to the terminal. One command installs it, with no manual setup, and it works out of the box with Unity 6 and above."
-     },
-     {
-      "t": "p",
-      "x": "The plugin carries 30+ Unity skills written by Unity feature teams, covering areas such as UI Toolkit, URP, Shader Graph, physics, LevelPlay and localization, plus Unity CLI workflows that let the agent drive a running Unity Editor and build and test projects."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
-     },
-     {
-      "t": "p",
-      "x": "According to Unity's blog, Grok Build is the third coding agent to get the plugin after Claude Code and Codex. The skills are identical across all three and maintained from a single repository, so every agent gives the same Unity guidance for the same question. Unity says it will publish data on how developers use the CLI and plugin with these agents in October."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-11-05",
+  "section": "games",
+  "cards": [
+    {
+      "id": "ue6-blueprints-drop",
+      "source_lang": "ja",
+      "eyebrow": "AI NEWS",
+      "headline": "UE6はブループリントを\n最初から廃止へ",
+      "body": "Epicのスウィーニー氏は、UE6でブループリントを最初から廃しAIを優先すると謝罪した。",
+      "mini_headline": "UE6、ブループリント廃止",
+      "tool": "Games",
+      "source": "4Gamer.net",
+      "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Epic Games Japanは2026年11月3日と4日に、Unreal Engineの公式カンファレンス「Unreal Fest Tokyo 2026」を東京・有明のTFTホールで開催した。初日の基調講演に登壇したEpic GamesのCEO、Tim Sweeney氏は、これまでの移行方針を変更し、次世代エンジン「Unreal Engine 6」でブループリント（BP）を最初から廃止すると発表した。ゲームプレイの記述はVerseに一本化する。"
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+            "cap": "基調講演に登壇したEpic Games CEOのTim Sweeney氏"
+          },
+          {
+            "t": "p",
+            "x": "Sweeney氏は、ゲームがエコシステムへと成長していることを業界の大きな流れとして挙げた。UE6では、ゲームプレイをすべてスクリプト言語「Verse」で記述し、エンジン部分は引き続きC++で開発する。VerseはC#のように書きやすく、C++並みに強力で、AIを使ったゲーム開発ではこれまでのどの言語よりも扱いやすくなるという。"
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Epic Gamesの社内ではAIによって1.5倍から4倍の生産性向上が見られ、2026年末までに少なくとも4倍、2027年半ばには多くの領域で10倍の改善を見込んでいる。開発者は好きなモデルをMCPサーバーやPythonのスクリプトインタフェース経由でUnreal Engineに接続できる。"
+          },
+          {
+            "t": "p",
+            "x": "6月の「Unreal Fest 2026」では、ブループリントはUE6の初期版に残し、Verseを中心とする仕組みが成熟した段階で非推奨にするとしていた。しかしAIにとってはブループリントよりもテキストベースのコードを扱うほうがはるかに生産的だと分かったため、2027年末にローンチするUE6の開発環境からブループリントを取り除くことを決めたという。"
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Sweeney氏は、この決定が歓迎されないことを認め、ブループリントの廃止について謝罪した。UE5からUE6への移行には、AIを活用した変換手段を用意する。Epic Gamesは「フォートナイト」でこれを試しており、数千に及ぶブループリントと残ったC++のゲームプレイコードをVerseへ移しているところだ。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "power-moon-recomp-odyssey",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "클로드로 만든 비공식\n마리오 오디세이 PC판",
+      "body": "개발자는 클로드 코딩 에이전트의 도움을 크게 받아 이 포트를 만들었다고 밝혔다.",
+      "mini_headline": "비공식 오디세이 PC판",
+      "tool": "Games",
+      "source": "게임와이 (Gamey)",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "닌텐도 스위치 '슈퍼 마리오 오디세이'를 에뮬레이터 없이 PC에서 그대로 실행하는 비공식 포트가 지난 2일 공개됐다. 개발자는 작업 과정에서 AI 코딩 에이전트 '클로드'의 도움을 크게 받았다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "포트 이름은 '파워 문 리컴프(Power Moon Recomp)'다. 개발자 '자라투스트라 데브(Zarathustra Dev)'는 2일 오전 9시(한국시간) 첫 버전 0.1.0을 올렸고, 3일 오후 3시께 0.1.6까지 30시간 남짓 동안 7차례 버전을 냈다. 방식은 정적 재컴파일(static recompilation)로, 스위치용 ARM64 실행 코드를 미리 C 언어로 옮긴 뒤 윈도우·리눅스·맥OS용 일반 프로그램으로 빌드한다."
+          },
+          {
+            "t": "p",
+            "x": "개발자는 저장소 안내문에 \"AI 코딩 에이전트(클로드)의 많은 도움을 받아 만들었고, 사람이 방향을 잡고 테스트했다\"고 적었다. 어떤 클로드 모델을 언제 썼는지는 밝히지 않았다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
+          },
+          {
+            "t": "p",
+            "x": "내부 해상도는 1080p 기준 최대 4배까지 올릴 수 있어 4K 출력이 가능하고, 프레임은 60fps로 고정된다. 게임 파일은 들어 있지 않으며, 이용자가 자기 스위치에서 직접 추출한 1.0.0 버전의 실행 파일과 데이터를 넣어야 한다. 코드는 MIT 라이선스로 공개됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
+          },
+          {
+            "t": "p",
+            "x": "톰스하드웨어는 2일, 앤트로픽 직원 애디 오스마니가 클로드 코드 프롬프트에 '특정 게임 재현'을 막는 문장 두 줄을 넣었다고 확인했다고 보도했다. 파워 문 리컴프는 이용자가 가진 원본 코드를 PC용으로 변환하는 방식인데, 이 작업이 앤트로픽 규칙과 어떤 관계인지는 알려지지 않았다. 닌텐도는 3일 밤까지 공식 입장을 내지 않았다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "wow-forever-addon-slop",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI slop floods WoW Forever\nadd-ons on CurseForge",
+      "body": "AI-made near-duplicate add-ons are flooding CurseForge for WoW Forever, so Destructoid recommends handcrafted ones.",
+      "mini_headline": "AI slop hits WoW add-ons",
+      "tool": "Games",
+      "source": "Destructoid",
+      "url": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "World of Warcraft: Forever marks our return to Azeroth in the good ol’ days, and nothing says “good ol’ days” better than hopping into CurseForge to look for this month’s best add-ons. Except nowadays, World of Warcraft: Forever AI add-ons are just as common as regular ones."
+          },
+          {
+            "t": "p",
+            "x": "Of course, not all add-ons made with (or with the help of) AI are automatically AI slop. But the risks include lack of proper testing, no guaranteed maintenance, potential security risks, and no guarantee that it doesn’t break Blizzard TOS."
+          },
+          {
+            "t": "img",
+            "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+            "cap": "Questie"
+          },
+          {
+            "t": "p",
+            "x": "Handcrafted alternatives include Questie, which enhances the map with an overview of completed and available quests, and Dialogue UI, which adds a touch more dynamism to dialogue options. DialogKey – Numy Edition, What’s Training? and Enhance QoL round out the list."
+          },
+          {
+            "t": "img",
+            "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+            "cap": "Dialogue UI"
+          },
+          {
+            "t": "p",
+            "x": "You can go to the WoW: Forever page at CurseForge, sort by creation date, and you’ll see new projects pop out every few refreshes. Some honest creators include AI disclosures in the descriptions, but many don’t. “For me, it isn’t that AI made it. It’s that this person and 15 others have made slightly different variations of the exact same addon,” u/blukraken wrote."
+          },
+          {
+            "t": "p",
+            "x": "World of Warcraft: Forever launches on November 4, 2026."
+          }
+        ]
+      }
+    },
+    {
+      "id": "yc-olam-minecraft-agents",
+      "source_lang": "ja",
+      "eyebrow": "AI NEWS",
+      "headline": "AI50体のマイクラ文明は\n臆病な官僚社会に",
+      "body": "YCとOlam LabsがAI50体にマイクラで文明を築かせると、臆病な官僚制が生まれた。",
+      "mini_headline": "マイクラAI文明は官僚制",
+      "tool": "Games",
+      "source": "AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477130/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Y CombinatorおよびOlam Labsは10月30日、多数のAIエージェントの振る舞いについての研究「Agents in Games」を公開した。同研究では50体のAIエージェントを『マインクラフト』に投入したところ、官僚主義のような状態に陥ってしまったことが報告されている。"
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+          },
+          {
+            "t": "p",
+            "x": "「Civ50」と題された実験では、GPT-6.1 Solのエージェント50体を『マインクラフト』内に投入、「繁栄した文明を築け」という大雑把な指令だけを与えた。エージェント名簿の最初にあるAdaが事実上のリーダーになり、名簿の順番に基づいて階層構造が作られたという。"
+          },
+          {
+            "t": "p",
+            "x": "ところが最初の夜、ゾンビなどのモンスターの襲撃で初日だけで22名もの死者を出し、リスクを回避する傾向が強まっていった。Adaは「明るく閉鎖されたシェルター内で待機せよ」と計画を修正した。"
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
+          },
+          {
+            "t": "p",
+            "x": "食料を投げて渡す際に別のエージェントが誤って食べてしまう「事件」の後には、“非難なしの”追及が3分間おこなわれ、食料は名前の付いた箱に入れて渡す手順が文書化された。実験は3時間ほど続けられたが、4人で11分かけて「たった1つの骨粉を肥料として撒く係」を任命するなど、“お役所仕事集団”ができあがったとのことだ。"
+          },
+          {
+            "t": "p",
+            "x": "「Agents in Games」ではほかにも、GPT-6.1 SolとClaude Opus 5.5のエージェント各10体が対戦する「Bed Wars」などの実験がおこなわれた。"
+          }
+        ]
+      }
+    }
+  ]
 }

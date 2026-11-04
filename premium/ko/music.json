@@ -13955,6 +13955,129 @@
           "x": "Suno Studio는 모든 Premier 구독에서 쓸 수 있다."
         }
       ]
+    },
+    "music/izotope-photon-gpu-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+          "cap": "제공: iZotope"
+        },
+        {
+          "t": "p",
+          "x": "iZotope가 AI-powered 스템 분리·오디오 정리 도구 Photon을 출시했다. 맞춤 학습한 12개 모델로 돌아가며, 파일을 클라우드에 올리지 않고 사용자 컴퓨터 GPU에서 로컬로 처리한다. iZotope와 모회사 Boris FX가 처음 함께 만든 제품이다."
+        },
+        {
+          "t": "p",
+          "x": "알고리즘은 Demix와 Denoise 두 갈래다. Demix는 음악을 스템 네 개로, 드럼을 다섯 개(킥, 스네어, 하이햇, 탐, 심벌)로, 목소리를 최대 여섯 개로 나눈다. Cinema 모델은 파일을 대사, 음악, 효과음, 그 밖의 소리로 가른다. Denoise에는 Voice Restore, Indoor / Indoor Noisy, Outdoor / Outdoor Traffic / Outdoor Wind 모델이 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Photon은 ARA2 플러그인으로 Mac과 Windows의 Pro Tools, REAPER, Cubase, 그리고 Windows의 Sequoia와 Samplitude 안에서 돌아간다. Model Manager로 재설치 없이 새 모델과 업데이트된 모델을 내려받는다. WAV, FLAC, MP3로 내보내거나 원본 비디오 스트림을 유지한 채 영상으로 내보낼 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Photon은 지금 독립 실행형 앱과 ARA2 플러그인으로 나와 있다. 가격은 $349이며 12월 7일까지 이어지는 사이버 세일 기간에는 $259다. Apple Silicon Macs와 Windows 10 이상을 지원한다."
+        }
+      ]
+    },
+    "music/youtube-replace-song-expand": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
+        },
+        {
+          "t": "p",
+          "x": "YouTube가 AI-powered 곡 교체 기능의 이용 범위를 넓힌다. 더 많은 크리에이터가 음악 저작권 소유권 주장을 해결하도록 하려는 조치다."
+        },
+        {
+          "t": "p",
+          "x": "Content ID 오디오 소유권 주장이 걸린 영상의 크리에이터는 YouTube Studio의 Replace Song 도구에서 Create를 골라 해당 오디오를 AI가 생성한 연주곡으로 바꿀 수 있다. 오디오를 바꾸면 Content ID 소유권 주장은 풀린다."
+        }
+      ]
+    },
+    "music/music-ai-detector-false-positives": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+          "cap": "사진 제공: André Grafert for International Artist Marketing (IAM)"
+        },
+        {
+          "t": "p",
+          "x": "AI 탐지기는 사람이 손으로 만든 일렉트로 신스 성향의 곡을 AI 음악으로 낙인찍기도 한다. 80s에 만든 원곡도 예외가 아니다. SubmitHub, Let's Submit, TrackVerifier, ACRCloud 같은 도구는 머신 드럼, 정밀한 시퀀서, 합성 사운드스케이프, 변조된 목소리가 담긴 곡을 \"인공적으로 생성됐을 가능성\"이 있다고 분류해 왔다. 특히 다크웨이브, 일렉트로, 포스트펑크가 피해를 봤다."
+        },
+        {
+          "t": "p",
+          "x": "2026년 6월 함부르크(Hamburg-based) 뮤지션 André Grafert(Coloured Tears)는 생성형 AI 없이 손으로 만든 커버 23곡을 담은 DECAY / TIME — A Tribute to Twice a Man을 발표했다가 곧 AI를 썼다는 공개 비난을 받았다. IAM의 Ines Weidemann이 확인해 보니 SubmitHub는 23곡 모두 AI-generated 곡일 가능성이 있다고 평가했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 이어 Twice a Man의 원곡 녹음을 직접 시험했다. 일곱 곡이 \"possible AI/hybrid\"로 평가됐고, 두 곡은 특정 플랫폼까지 지목됐다. 1984년 곡 \"Across the Ocean\"은 \"Treblo_v3\", 1982년 곡 \"In My Mind\"는 \"ElevenLabs Music\"으로 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "AI 탐지기는 아무것도 증명하지 못한다. 통계적 확률을 추정할 뿐이다. 계정 차단, 발매 차단, 로열티 보류가 주로 인디 신을 덮치는 지금, 필터와 이의 제기 절차가 명확해지기 전까지 현대 인디 작품 발매는 \"알고리즘의 운에 맡긴 게임\"으로 남는다."
+        }
+      ]
+    },
+    "music/mlc-udio-subpoena-opposition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+          "cap": "Photo Credit: Logan Voss"
+        },
+        {
+          "t": "p",
+          "x": "Mechanical Licensing Collective(MLC)가 Udio(그리고 Suno)의 스트리밍 데이터 소환장에 한층 더 강하게 반대하고 나섰다. 응하려면 \"직원 업무 시간이 약 두세 주 필요하다\"는 주장이다. 직원당 시간당 비용은 $150에서 $315 사이다."
+        },
+        {
+          "t": "p",
+          "x": "Udio와 Suno는 모두 The Campbell Firm의 Chris Campbell이 대리하며, MLC에 2021년까지 거슬러 올라가는 서비스별·레이블별 스트리밍 재생량 데이터를 내라고 요구하고 있다. 두 AI 플랫폼은 메이저 레이블들이 제기한 소송에서 이 데이터가 공정 이용과 저작권 남용 항변과 관련 있다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "MLC는 \"MLC는 녹음물이 아니라 음악 저작물의 로열티를 관리한다\"며 자신들은 DSPs의 월간 이용 보고서 사본만 받는다고 밝혔다. Udio가 이미 원고나 DSPs에서 해당 데이터를 확보한 것으로 보인다고도 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "칠월 MLC 측 변호사는 업체 견적을 인용해 서비스 비용 약 5000달러와 AWS 호스팅 비용 $100+/TB/mo를 제시했다. 그 뒤 Pandora와 Apple Music 등 DSPs가 데이터 요구에 반발했다."
+        }
+      ]
+    },
+    "music/music-suno-isbell-dismissal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "AI 음악 기업 Suno가 Jason Isbell 등 스타들의 예술적 정체성을 훔쳤다는 소송을 기각해 달라고 판사에게 요청했다. 특정 아티스트의 “분위기(vibe)”를 재현하려는 데 “불법적인 것은 전혀 없다”는 주장이다."
+        },
+        {
+          "t": "p",
+          "x": "Isbell은 지난 8월 소송을 내며, Suno가 AI 작곡 도구에 이름만 프롬프트로 넣으면 사용자들이 “사랑받는 뮤지션의 정체성을 불러낼 수 있게” 만들었다고 비판했다. 저작권 음악을 모델 학습에 쓴 문제를 다룬 앞선 소송들과 달리, 이번 사건은 뉴욕·캘리포니아·테네시 등 각 주의 퍼블리시티권 법을 근거로 한 집단소송이다."
+        },
+        {
+          "t": "p",
+          "x": "화요일(Nov. 3) 내놓은 첫 본격 답변서에서 Suno 변호인단은 이렇게 썼다. “사람들은 음악 스타일을 설명할 때, 아티스트가 활동하는 장르를 줄여 말하려고 그 이름을 흔히 쓴다. 이 소송은 법이 그런 보편적 관행을 어떻게든 금지한다는 전제에 기대고 있다. 실제로 법은 그렇지 않으며, 수정헌법 첫 조항(First Amendment)도 그것을 허용하지 않을 것이다.”"
+        },
+        {
+          "t": "p",
+          "x": "Suno는 아티스트 이름을 “서술적인 음악적 특성”으로 바꿔 처리한다고 설명한다. “Duran Duran”이라는 프롬프트라면 “New wave, Synth-pop, Pop rock”이 되는 식이다. Isbell 측은 “t a y l o r s w i f t”처럼 띄어쓰기만 넣어도 이 안전장치가 뚫린다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "Suno는 연방법 “선점(preemption)” 원칙으로 봐도 소송이 성립할 수 없다고 본다. 이 소송이 “주법에 기반한 그림자 IP 체제를 만들어 … 두 세기 넘게 유지돼 온 연방 체제와 근본적으로 충돌할 것”이라는 이유에서다."
+        }
+      ]
     }
   }
 }

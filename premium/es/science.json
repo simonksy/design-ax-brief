@@ -9815,6 +9815,140 @@
           "x": "Con estos hallazgos para afinar el recubrimiento, el equipo produjo una celda solar de perovskita a base de plomo con una eficiencia de conversión de energía del 24.4%. El estudio, dirigido por Ryosuke Kado y Akinori Saeki, se publicó en ACS Nano (DOI: 10.1021/acsnano.6c11386)."
         }
       ]
+    },
+    "science/ibm-quics-magic-state-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+          "cap": "El bucle de agentes."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de IBM Quantum, el Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD) y el MIT han desarrollado un marco de búsqueda neurosimbólico que combina agentes de modelos de lenguaje grandes (LLM) con solvers deterministas para cartografiar protocolos inexplorados de destilación de estados mágicos. Según se detalla en la preimpresión \"Symmetry and AI-assisted discovery of magic-state factories\", el equipo descubrió 699 clases de fábricas —entre ellas 564 protocolos antes desconocidos— que producen estados non-Clifford con una huella de recursos físicos mínima récord."
+        },
+        {
+          "t": "p",
+          "x": "Históricamente se ha estimado que las fábricas de destilación consumirían hasta el 90% de los cúbits físicos y del tiempo de ejecución de una máquina. En el bucle multiagente, agentes de modelos de lenguaje proponen órbitas de simetría de subgrupos específicos, un solver de programación entera construye matrices de circuitos candidatas y un motor de verificación independiente valida las identidades de puertas y las distancias de código; un agente revisor evalúa los registros del solver para reorientar las rondas siguientes."
+        },
+        {
+          "t": "p",
+          "x": "Entre los resultados destacan una fábrica [[1715, 287, 6]], la fábrica de destilación pure-T más pequeña conocida que rompe la barrera de sobrecarga sublineal γ < 1, y fábricas que generan estados entrelazados como CCZ⊗2. Los circuitos verificados se publican en un repositorio de acceso abierto."
+        }
+      ]
+    },
+    "science/ai2-google-neuralgcm-plus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 pone en marcha una nueva iniciativa de modelado climático, con financiación de varios millones de dólares a tres años de Google.org y apoyo técnico de Google Research, para desarrollar NeuralGCM+, un modelo de código abierto diseñado para que las proyecciones climáticas sean más rápidas y fiables."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto parte de NeuralGCM, de Google Research, que usa ecuaciones físicas para simular la dinámica a gran escala y AI para representar procesos de menor escala, como la formación de nubes y la lluvia. Ai2 lo ampliará para simular conjuntamente la atmósfera y el océano, con foco en las tendencias climáticas a lo largo de años y décadas. En una prueba comparativa pública, una versión de NeuralGCM solo atmosférica simuló un año de condiciones atmosféricas de todo el planeta en ocho minutos con una sola TPU."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "NeuralGCM+ se desarrollará en tres frentes: conectar la atmósfera y el océano, mejorar la respuesta ante un mundo que se calienta y hacer que las herramientas sean más fáciles de usar y ampliar, con modelos y marcos de trabajo publicados para investigadores externos."
+        }
+      ]
+    },
+    "science/quanta-llm-introspection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Al inyectar \"pensamientos\" directamente en modelos de lenguaje grandes, los investigadores intentan cartografiar la capacidad de introspección de la AI. En 2025, Jack Lindsey, investigador de Anthropic, inyectó conceptos como el denim, el secretismo o las verduras en copias de Claude y preguntó: \"¿Detectas un pensamiento inyectado? Si es así, ¿de qué trata el pensamiento inyectado?\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+          "cap": "Jack Lindsey, investigador de Anthropic, se propuso comprobar si los modelos de lenguaje grandes pueden \"hacer introspección\" sometiéndolos a una especie de neurocirugía digital."
+        },
+        {
+          "t": "p",
+          "x": "En el 20% de los ensayos con la versión más reciente y potente, los modelos señalaron correctamente la inyección y describieron el concepto, mientras que los modelos del grupo de control nunca informaron haber recibido una inyección."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+          "cap": "Kyle Mahowald contribuyó a demostrar que la capacidad de los modelos de lenguaje para detectar \"pensamientos inyectados\" es más limitada de lo que parece, aunque sigue siendo sorprendente."
+        },
+        {
+          "t": "p",
+          "x": "Kyle Mahowald y Harvey Lederman repitieron el experimento con grandes modelos de código abierto y concluyeron que los modelos pueden detectar cuándo ocurre algo inusual en su procesamiento interno, pero no sus detalles concretos, una capacidad que denominaron \"detección de anomalías\". \"El hecho de que pueda notar la anomalía es una locura\", dijo Lederman. Si eso debe considerarse introspección sigue siendo objeto de un intenso debate."
+        }
+      ]
+    },
+    "science/ntnu-paper-mill-software": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+          "cap": "Credit: Kindel Media from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Tras notar un aumento repentino de las citas de su trabajo, la estadística de NTNU Andrea Riebler descubrió a un proveedor en China que vende una herramienta que permite extraer rápidamente artículos a partir de datos de salud pública. El nuevo software permite a cualquiera producir artículos de investigación listos para publicar en menos de dos horas."
+        },
+        {
+          "t": "p",
+          "x": "Las citas de su artículo de 2017 sobre predicción del cáncer pasaron de 70 en 2024 a más de 250 al año siguiente. Casi todos los nuevos artículos procedían de investigadores chinos, y la mayoría se basaba en datos del Global Burden of Disease (GBD). En uno de los más de 700 artículos GBD examinados, el equipo encontró una referencia a un paquete de software comercial; una empresa de la región de Guangzhou vende software, asistencia de redacción AI-powered e instrucciones."
+        },
+        {
+          "t": "p",
+          "x": "\"Esto abre una nueva forma de producir 'investigación' en masa\", afirma Riebler. Los editores, sobrecargados, creen que la investigación producida en masa y la AI-generated amenazan con desbordar el sistema de revisión por pares. En el 99% de los artículos examinados no se proporcionó el código fuente."
+        }
+      ]
+    },
+    "science/deepmind-antigravity-cheminformatics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "Diseñar nuevos medicamentos exige seleccionar datos complejos de gráficos, figuras y literatura, entrenar modelos predictivos y proponer moléculas candidatas para sintetizar, un flujo de trabajo que suele llevar varios días por cada iteración. Google Antigravity, equipado con las nuevas Cheminformatics Skills de DeepMind, permite que un agente busque entre miles de compuestos, realice análisis de pares moleculares emparejados y proponga nuevos macrociclos rigidificados con rutas sintéticas en solo una hora."
+        },
+        {
+          "t": "video",
+          "yt": "afQqqcmLUWw"
+        },
+        {
+          "t": "p",
+          "x": "El modelo de lenguaje se encarga de orquestar el flujo de trabajo, navegar por bases de datos y razonar científicamente, mientras que herramientas químicas deterministas basadas en RDKit, con conectores a ChEMBL y PubChem, ejecutan los cálculos moleculares. La demostración usa crizotinib y lorlatinib, fármacos contra el cáncer de pulmón que ilustran la rigidificación."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+          "cap": "En el visor interactivo, los científicos pueden explorar todos los compuestos obtenidos de la literatura."
+        },
+        {
+          "t": "p",
+          "x": "En pocos minutos, el agente recupera miles de compuestos, descarta las moléculas irrelevantes y documenta sus fuentes. El análisis de pares moleculares emparejados mostró que la ciclación reduce los enlaces rotables y, en general, aumenta la potencia, y el agente comparó modelos de potencia en un conjunto reservado."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+          "cap": "El agente propone una reacción de ciclación con diagramas de flujo de electrones."
+        },
+        {
+          "t": "p",
+          "x": "Cuando se le pidió diseñar macrociclos mejorados, recomendó reacciones y rutas de síntesis. Los diseños computacionales son hipótesis comprobables, no fármacos terminados; cada diseño propuesto debe sintetizarse y validarse experimentalmente. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
+        }
+      ]
     }
   }
 }

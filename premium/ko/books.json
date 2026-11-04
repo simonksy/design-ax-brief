@@ -12377,6 +12377,163 @@
           "x": "책임과 검증의 틀에 초점을 두고, 인간의 판단으로 기술적 점검을 보완해야 한다. “AI가 있다고 부정행위가 입증되지 않듯, AI가 없다고 진실성이 입증되지도 않는다.” — Roohi Ghosh, Cactus Communications"
         }
       ]
+    },
+    "books/readwise-books-reader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+          "cap": "이미지 출처: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "나중에 읽기(read-it-later) 앱으로 알려진 Readwise가 Readwise Books를 내놓고 Amazon의 전자책 제국에 도전한다. 회사 설명으로는 \"Kindle과 Goodreads 앱의 중간\"이다. 책을 사고 읽고 기록하는 일을 한곳에서 하고, 읽은 단어 수·속도·깊이·몰입도·세션 같은 독서 데이터를 더 풍부하게 보여준다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+          "cap": "이미지 출처: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "스토어에는 빅 파이브 출판사를 포함한 여러 출판사의 전자책 \"수백만\" 권이 있고, 서비스는 우선 U.S.(미국)에서 시작한다. 종이책과 일부 오디오북도 판다. 시장 선두는 여전히 Kindle이다. Kindle+까지 합치면 점유율이 83%에 이른다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+          "cap": "이미지 출처: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "사용자는 DRM-free EPUBs(DRM 없는 EPUB 파일)를 올리거나, Kindle의 Cloud Reader에서 읽은 세션을 기록하거나, 종이책 사진을 찍거나, 전자책을 소리 내어 읽게 할 수 있다. Readwise는 자사 지표를 \"독서판 Strava\"에 빗댄다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+          "cap": "이미지 출처: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "출판사가 허락하면 세션 요약, 정의·용어 찾기, 단어·구절 번역, 지금 읽는 대목을 묻는 위치 인식 기능 같은 AI 기반(AI-powered) 기능을 쓸 수 있다. (지금까지 참여한 곳은 HarperCollins뿐이다.) 공개 API와 AI 에이전트용 MCP 서버도 제공한다."
+        },
+        {
+          "t": "p",
+          "x": "앱은 계속 무료로 운영하지만 일부 AI 기능은 나중에 유료로 바뀐다. 지금은 베타라서 기존 Readwise 구독자가 아니면 초대를 받아야 쓸 수 있다."
+        }
+      ]
+    },
+    "books/oup-chatgpt-edu-pilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Oxford University Press가 Harvard Library, University of Pennsylvania의 Wharton School, University of Oxford의 학생과 연구자들이 ChatGPT Edu 안에서 라이선스를 받은 OUP 콘텐츠를 검색하도록 하는 석 달짜리 시범 사업을 발표했다. 시험 기간은 10월부터 12월까지다. 답변은 각 기관이 이미 사들인 OUP 도서와 저널에서 나오고, Oxford Academic의 전문으로 이어지는 인용과 링크가 붙는다."
+        },
+        {
+          "t": "p",
+          "x": "이를 떠받치는 것은 OUP가 Silverchair와 함께 만든 Model Context Protocol(MCP) 서버다. 사용자가 질문하면 OUP 서버가 출판부 콘텐츠를 검색해 관련성이 가장 높은 자료를 골라 ChatGPT에 넘긴다."
+        },
+        {
+          "t": "p",
+          "x": "OUP의 Tanya Laplante는 \"출판사 MCPs가 실제로 어떻게 쓰이는지, 어떤 이점을 가져오는지 알아보려고 이번 시범 사업에 나섰다\"고 말했다. 파트너들은 인용이 연구자들의 클릭으로 이어지는지, OUP의 정보로 ChatGPT의 답변이 나아지는지 추적한다."
+        },
+        {
+          "t": "p",
+          "x": "같은 날 Cambridge University Press, Johns Hopkins University Press, Princeton University Press도 AI 라이선스 스타트업 Cashmere가 운영하는 공동 MCP 서비스 Meridian을 내놨다."
+        }
+      ]
+    },
+    "books/bookend-editorial-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+          "cap": "최현수 북엔드 대표 [사진=북엔드]"
+        },
+        {
+          "t": "p",
+          "x": "대덕연구단지의 출판사 북엔드가 교정·교열에 걸리는 시간을 2주에서 30분으로 단축하는 AI 도서 편집 서비스 '에디토리얼(Editorial)'을 선보였고, 지난 7일 독일 프랑크푸르트 국제도서전에 참가해 해외 출판업계에도 기술을 소개했다."
+        },
+        {
+          "t": "p",
+          "x": "최현수 대표는 \"기존에는 한 차례 교정·교열에 적어도 2주에서 한 달 정도 걸렸지만, 에디토리얼은 약 10분이면 원고 검토를 마친다\"며 \"사람이 결과를 확인하는 시간까지 더해도 30분 안팎\"이라고 설명했다. 10만자 원고를 외부에 맡기면 약 100만원이 들지만 에디토리얼로는 약 1만원에 처리할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "오탈자·조사·문장부호뿐 아니라 문맥에 맞지 않는 표현을 찾고, 통계를 검색해 사실관계도 확인한다. 결과는 한글(HWP)·PDF 원본에 메모 형태로 달린다. 최대 50만자까지 처리하며, '스타일 분석' 기술로 작가 고유의 문체는 살리면서 처음부터 끝까지 같은 기준을 적용한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+          "cap": "북엔드는 자체 개발한 AI 도서 편집 기술을 독일 프랑크푸르트 국제도서전에서 선보였다. [사진=북엔드]"
+        },
+        {
+          "t": "p",
+          "x": "북엔드는 약 15종의 책을 펴내 4만 부를 판매했고, AI 활용으로 출간 기간을 4개월에서 2~3개월로 줄였다. 한국어·영어·독일어를 지원하며 일본어도 추가할 계획이다. 최 대표는 \"AI가 편집자를 대신하는 것이 아니라 편집자의 판단을 돕는다는 방향에 공감하는 반응이 많았다\"고 전했다. 장기 목표는 출판의 모든 과정을 잇는 '출판계의 피그마'다."
+        }
+      ]
+    },
+    "books/jemul-tupyo-ai-liveaction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+          "cap": "네이버웹툰 '제물투표' 기반 AI 실사화 영상. 페이지 픽쳐스 유튜브 갈무리"
+        },
+        {
+          "t": "p",
+          "x": "유튜브 공개 한 달 반 만에 조회수 230만 회 돌파. 네이버웹툰 '제물 투표'를 인공지능(AI)으로 실사화한 영상 이야기다. 공식 제작 발표를 기다리지 않고 팬이나 영상 스튜디오가 AI로 인기 웹툰을 영화·드라마 형식으로 재해석해 내놓고 있다."
+        },
+        {
+          "t": "p",
+          "x": "'제물 투표'는 세트장·CG·배우 없이 AI로만 만들었다. 제작사에 따르면 기획부터 생성, 편집까지 약 358시간, 즉 보름 만에 완성됐다. '극야', '용사가 돌아왔다' 등 다른 네이버웹툰도 AI로 실사화됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+          "cap": "네이버웹툰 '남극' 기반 AI 실사화 영상. Fantasoner(판타소너) 유튜브 갈무리"
+        },
+        {
+          "t": "p",
+          "x": "대부분의 영상은 도입부만 실사화해 시청자를 원작 웹툰으로 이끈다. 그러나 팬의 애정이나 높은 조회수가 원작자의 허락을 뜻하지는 않는다. 비영리 목적이나 출처 표시만으로는 저작권 이용 허락 절차를 생략할 수 없고, 저작권과 2차적저작물작성권 문제가 불거질 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "서범강 IP융복합산업협회장은 \"비상업적인 팬덤 활동은 특정 조건 아래 허용하되, 상업적 제작은 별도의 계약 절차를 마련하는 것이 좋다\"고 강조했다."
+        }
+      ]
+    },
+    "books/books-ao3-clone-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+          "cap": "사진: Elin Melaas, Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "Archive of Our Own(AO3)의 팬픽션을 긁어다 다시 올리고 오디오북 버전으로 돈을 받던 바이브 코딩 사이트가 문을 닫았다. 사이트가 열려 있던 단 하루 사이에 작가들의 삭제 요청이 2,000건 넘게 들어왔다고 제작자는 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "ao3.life가 나온 건 AO3가 보안 사고로 몇 주간 서비스를 멈춘다고 발표한 직후다. 제작자 Ganesh는 “가상 머신 40대를 제어하는 AI 에이전트 무리”가 인터넷에서 작품을 긁어모았다고 썼다. 사이트는 EPUBs 파일과 AI 생성(AI-generated) 오디오북을 내놓고 처음 3분이 지나면 요금을 물렸다. 수익의 91%는 작가에게 돌려주겠다고 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+        },
+        {
+          "t": "p",
+          "x": "AO3의 보관물 잠금 기능도 소용없었다는 작가들이 있었다. 잠가 둔 작품까지 사이트에 그대로 올라왔다고 한다. 작품을 내리려면 AO3 프로필에 메모를 남겨야 했지만, AO3가 멈춘 동안에는 그럴 방법이 없었다."
+        },
+        {
+          "t": "p",
+          "x": "“왜 AI 슬롭(AI Slop) 오디오북에 돈을 받았느냐고요? … 사이트를 연 지 24시간 만에 순 사용자가 126,592명이었습니다.” Ganesh는 이렇게 썼다. “위안이 될지 모르겠지만, 오디오북은 11개쯤 팔았습니다.” 글 끝에서 Ganesh는 자신을 “좋은 일을 한다고 생각했던 인도의 17세”라고 소개했다."
+        }
+      ]
     }
   }
 }

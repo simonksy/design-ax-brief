@@ -1,273 +1,273 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-vscan-air-lung-as",
+      "id": "jama-maternal-chatbot-rct",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "GE HealthCare\nVscan Air에 AI",
-      "body": "FDA-cleared Lung Guidance로 비전문가 성공률이 95.2%였다.",
-      "mini_headline": "Vscan Air, 폐·대동맥 AI 탑재",
+      "headline": "산모 건강 챗봇,\n임상시험서 효과 없어",
+      "body": "400명 시험에서 산모용 AI 챗봇은 불안·우울·산후 관리를 개선하지 못했다.",
+      "mini_headline": "산모 AI 챗봇, 시험서 효과 없어",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
+      "source": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "GE HealthCare(GEHC)가 휴대용 초음파 시스템 Vscan Air에 AI-based 기능 두 가지를 넣는다. 임상의가 폐 초음파 영상을 얻도록 돕는 Lung Guidance와 중등도~중증 대동맥판 협착증을 평가하는 AutoAS다."
+            "x": "이 2군 무작위 임상시험에는 참가자 400명이 등록했다. 2023년 10월부터 2024년 12월까지 미국(US) 49개 주와 컬럼비아 특별구(District of Columbia)에서 온라인으로 모집한 인종·민족 소수 집단의 영어 사용(English-speaking) 임신부 또는 출산 후 참가자(영아 생후 6개월 미만)다."
           },
           {
             "t": "p",
-            "x": "업체 설명으로는 Lung Guidance가 표준 여덟 구역 폐 프로토콜 전반에서 해부학적 기준점을 실시간으로 바로잡아 주고 영상 품질이 기준에 맞으면 클립을 자동 캡처하며 B-line 검출과 점수 산정도 돕는다. GEHC에 따르면 검증 시험에서 진단 품질의 검사를 얻은 확률은 비전문가 사용자가 95.2%, 전문가 사용자가 96.8%였다."
+            "x": "참가자는 생성형 AI 산모 건강 챗봇 군과 매달 어린이 책을 받는 활성 대조군에 1:1로 무작위 배정됐다. 1차 결과변수는 12개월 시점의 불안(GAD-7)과 우울(PHQ-9)이다."
           },
           {
             "t": "p",
-            "x": "AutoAS는 Vscan Air SL로 얻은 표준 2D 심초음파 영상을 최소 두 개 분석해 중등도~중증 대동맥판 협착증이 의심되는지 신뢰도 점수와 함께 알려준다."
+            "x": "챗봇은 불안(보정 평균차 0.10; 95% CI, −0.77~0.96)이나 우울(−0.23; 95% CI, −1.05~0.59)의 차이와 관련이 없었다. 응급실 방문, 산후 관리, 피임 사용, 수면 시간도 마찬가지였다."
           },
           {
             "t": "p",
-            "x": "두 도구 모두 U.S. 식품의약국(FDA)의 510(k) 허가와 CE Mark를 받았다. GEHC는 유효한 Innovation Package 구독이나 라이선스가 있는 기존 Vscan Air 고객이 11월 말까지 업데이트를 받을 것으로 내다봤다."
+            "x": "등록 당시 임신 중이던 참가자의 12개월 2차 분석에서는 챗봇이 자가 보고 임신 관련 합병증 증가와 관련이 있었으나, 종단 분석에서는 그렇지 않았다. 연구진은 2차·탐색적 결과를 신중히 해석하라고 당부했다(NCT06053515)."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GE HealthCare adds lung and\naortic stenosis AI to Vscan Air",
-          "body": "Vscan Air's FDA-cleared Lung Guidance let non-experts capture diagnostic-quality lung exams 95.2% of the time.",
-          "mini_headline": "Vscan Air gains lung, aortic AI",
+          "headline": "Maternal health chatbot\nshows no benefit in trial",
+          "body": "In a 400-person trial, a maternal health AI chatbot did not improve anxiety, depression or postpartum care.",
+          "mini_headline": "Maternal AI chatbot: null trial",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "GE HealthCare (GEHC) is introducing two AI-based capabilities for its Vscan Air handheld ultrasound system: Lung Guidance, which helps clinicians acquire lung ultrasound images, and AutoAS, which assesses for moderate-to-severe aortic stenosis."
+                "x": "This 2-group randomized clinical trial enrolled 400 English-speaking pregnant or postpartum participants (infant younger than 6 months) from racial and ethnic minoritized groups, recruited online across 49 US states and the District of Columbia between October 2023 and December 2024."
               },
               {
                 "t": "p",
-                "x": "Lung Guidance provides real-time guidance to correct anatomical landmarks across the standard eight-zone lung protocol, automatically captures clips when image-quality criteria are met, and supports B-line detection and scoring, according to the vendor. In validation testing, nonexpert users acquired diagnostic-quality exams 95.2% of the time, compared with 96.8% for expert users, GEHC said."
+                "x": "Participants were randomized 1:1 to a generative AI maternal health chatbot or an active control of monthly children's books. Primary outcomes were anxiety (GAD-7) and depression (PHQ-9) at 12 months."
               },
               {
                 "t": "p",
-                "x": "AutoAS analyzes at least two standard 2D echocardiographic views acquired with Vscan Air SL and indicates whether findings suggest moderate-to-severe aortic stenosis, along with a confidence score."
+                "x": "The chatbot was not associated with differences in anxiety (adjusted mean difference, 0.10; 95% CI, −0.77 to 0.96) or depression (−0.23; 95% CI, −1.05 to 0.59), nor with emergency department visits, postpartum care, contraception use or sleep duration."
               },
               {
                 "t": "p",
-                "x": "Both tools have received U.S. Food and Drug Administration (FDA) 510(k) clearance and carry the CE Mark. Existing Vscan Air customers with a valid Innovation Package subscription or license are expected to receive the updates by the end of November, GEHC said."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "GE HealthCare suma AI pulmonar\ny aórtica a Vscan Air",
-          "body": "Con Lung Guidance (FDA-cleared), no expertos lograron exámenes pulmonares de calidad diagnóstica el 95.2% de las veces.",
-          "mini_headline": "Vscan Air suma AI pulmonar y aórtica",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GE HealthCare (GEHC) incorpora dos funciones AI-based a su sistema de ecografía portátil Vscan Air: Lung Guidance, que ayuda a los clínicos a obtener imágenes de ecografía pulmonar, y AutoAS, que evalúa la estenosis aórtica de moderada a grave."
-              },
-              {
-                "t": "p",
-                "x": "Según el fabricante, Lung Guidance ofrece orientación en tiempo real para corregir los puntos de referencia anatómicos en el protocolo pulmonar estándar de ocho zonas, captura clips automáticamente cuando se cumplen los criterios de calidad de imagen y permite la detección y puntuación de B-line. En las pruebas de validación, los usuarios no expertos obtuvieron exámenes de calidad diagnóstica el 95.2% de las veces, frente al 96.8% de los usuarios expertos, según GEHC."
-              },
-              {
-                "t": "p",
-                "x": "AutoAS analiza al menos dos vistas ecocardiográficas 2D estándar adquiridas con Vscan Air SL e indica si los hallazgos sugieren una estenosis aórtica de moderada a grave, junto con una puntuación de confianza."
-              },
-              {
-                "t": "p",
-                "x": "Ambas herramientas han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) y llevan el CE Mark. Según GEHC, los clientes actuales de Vscan Air con una suscripción o licencia vigente de Innovation Package recibirán previsiblemente las actualizaciones antes de finales de noviembre."
+                "x": "Among those pregnant at enrollment, the chatbot was associated with more self-reported pregnancy-related complications in the secondary 12-month analysis, but not in longitudinal analyses. The authors say secondary and exploratory findings should be interpreted cautiously (NCT06053515)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "GE HealthCare\nVscan Air에 AI",
-          "body": "FDA-cleared Lung Guidance로 비전문가 성공률이 95.2%였다.",
-          "mini_headline": "Vscan Air, 폐·대동맥 AI 탑재",
+          "headline": "산모 건강 챗봇,\n임상시험서 효과 없어",
+          "body": "400명 시험에서 산모용 AI 챗봇은 불안·우울·산후 관리를 개선하지 못했다.",
+          "mini_headline": "산모 AI 챗봇, 시험서 효과 없어",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "GE HealthCare(GEHC)가 휴대용 초음파 시스템 Vscan Air에 AI-based 기능 두 가지를 넣는다. 임상의가 폐 초음파 영상을 얻도록 돕는 Lung Guidance와 중등도~중증 대동맥판 협착증을 평가하는 AutoAS다."
+                "x": "이 2군 무작위 임상시험에는 참가자 400명이 등록했다. 2023년 10월부터 2024년 12월까지 미국(US) 49개 주와 컬럼비아 특별구(District of Columbia)에서 온라인으로 모집한 인종·민족 소수 집단의 영어 사용(English-speaking) 임신부 또는 출산 후 참가자(영아 생후 6개월 미만)다."
               },
               {
                 "t": "p",
-                "x": "업체 설명으로는 Lung Guidance가 표준 여덟 구역 폐 프로토콜 전반에서 해부학적 기준점을 실시간으로 바로잡아 주고 영상 품질이 기준에 맞으면 클립을 자동 캡처하며 B-line 검출과 점수 산정도 돕는다. GEHC에 따르면 검증 시험에서 진단 품질의 검사를 얻은 확률은 비전문가 사용자가 95.2%, 전문가 사용자가 96.8%였다."
+                "x": "참가자는 생성형 AI 산모 건강 챗봇 군과 매달 어린이 책을 받는 활성 대조군에 1:1로 무작위 배정됐다. 1차 결과변수는 12개월 시점의 불안(GAD-7)과 우울(PHQ-9)이다."
               },
               {
                 "t": "p",
-                "x": "AutoAS는 Vscan Air SL로 얻은 표준 2D 심초음파 영상을 최소 두 개 분석해 중등도~중증 대동맥판 협착증이 의심되는지 신뢰도 점수와 함께 알려준다."
+                "x": "챗봇은 불안(보정 평균차 0.10; 95% CI, −0.77~0.96)이나 우울(−0.23; 95% CI, −1.05~0.59)의 차이와 관련이 없었다. 응급실 방문, 산후 관리, 피임 사용, 수면 시간도 마찬가지였다."
               },
               {
                 "t": "p",
-                "x": "두 도구 모두 U.S. 식품의약국(FDA)의 510(k) 허가와 CE Mark를 받았다. GEHC는 유효한 Innovation Package 구독이나 라이선스가 있는 기존 Vscan Air 고객이 11월 말까지 업데이트를 받을 것으로 내다봤다."
+                "x": "등록 당시 임신 중이던 참가자의 12개월 2차 분석에서는 챗봇이 자가 보고 임신 관련 합병증 증가와 관련이 있었으나, 종단 분석에서는 그렇지 않았다. 연구진은 2차·탐색적 결과를 신중히 해석하라고 당부했다(NCT06053515)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GE HealthCare\nVscan Airに肺AI",
-          "body": "FDA-clearedのLung Guidanceで非専門家の成功率は95.2%だ。",
-          "mini_headline": "Vscan Airに肺・大動脈AI",
+          "headline": "妊産婦向けチャットボット\n試験で効果示せず",
+          "body": "400人の試験で、妊産婦向けAIチャットボットは不安・抑うつ・産後ケアを改善しなかった。",
+          "mini_headline": "妊産婦AIチャットボット、効果なし",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "GE HealthCare(GEHC)は、携帯型超音波システムVscan AirにAI-basedの機能を二つ導入する。臨床医による肺超音波画像の取得を支援するLung Guidanceと、中等度から重度の大動脈弁狭窄症を評価するAutoASである。"
+                "x": "この2群ランダム化臨床試験は、2023年10月から2024年12月にかけて米国(US)49州とコロンビア特別区(District of Columbia)でオンライン募集した、人種・民族的マイノリティの英語話者(English-speaking)の妊婦または産後の参加者(乳児は生後6カ月未満)400人を登録した。"
               },
               {
                 "t": "p",
-                "x": "同社によると、Lung Guidanceは標準的な八ゾーンの肺プロトコル全体で解剖学的ランドマークを正すようリアルタイムで誘導し、画質基準を満たすと自動でクリップを取り込み、B-lineの検出とスコアリングにも対応する。GEHCによれば、検証試験で非専門家ユーザーが診断品質の検査を取得できた割合は95.2%で、専門家ユーザーは96.8%だった。"
+                "x": "参加者は生成AIの妊産婦向けチャットボット群と、毎月児童書を届ける実対照群に1:1で無作為に割り付けられた。主要評価項目は12カ月時点の不安(GAD-7)と抑うつ(PHQ-9)である。"
               },
               {
                 "t": "p",
-                "x": "AutoASは、Vscan Air SLで取得した標準的な2D心エコー断面を少なくとも二つ解析し、所見が中等度から重度の大動脈弁狭窄症を示唆するかどうかを信頼度スコアとともに示す。"
+                "x": "チャットボットは不安(調整平均差0.10、95% CI −0.77〜0.96)や抑うつ(−0.23、95% CI −1.05〜0.59)の差とは関連せず、救急外来受診、産後ケア、避妊法の使用、睡眠時間とも関連しなかった。"
               },
               {
                 "t": "p",
-                "x": "両ツールともU.S.食品医薬品局(FDA)の510(k)クリアランスを取得し、CE Markも備える。GEHCによると、有効なInnovation Packageのサブスクリプションまたはライセンスを持つ既存のVscan Air顧客は、11月末までにアップデートを受け取る見込みだ。"
+                "x": "登録時に妊娠中だった参加者では、12カ月の二次解析でチャットボットが自己申告の妊娠関連合併症の増加と関連したが、縦断解析では関連しなかった。著者らは、二次的・探索的な結果は慎重に解釈すべきだとしている(NCT06053515)。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GE HealthCare\nVscan Air新增AI",
-          "body": "FDA-cleared的Lung Guidance让非专业人员成功率达95.2%。",
-          "mini_headline": "Vscan Air新增肺部与主动脉AI",
+          "headline": "孕产妇健康聊天机器人\n试验未见益处",
+          "body": "在一项400人试验中，孕产妇健康AI聊天机器人未能改善焦虑、抑郁或产后护理。",
+          "mini_headline": "孕产妇AI聊天机器人：试验无效",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "GE HealthCare(GEHC)正为其Vscan Air手持超声系统引入两项AI-based功能：帮助临床医生采集肺部超声图像的Lung Guidance，以及评估中重度主动脉瓣狭窄的AutoAS。"
+                "x": "这项2组随机临床试验于2023年10月至2024年12月在美国（US）49个州及哥伦比亚特区（District of Columbia）在线招募，纳入400名来自少数种族和族裔群体、讲英语（English-speaking）的孕期或产后参与者（婴儿不满6个月）。"
               },
               {
                 "t": "p",
-                "x": "据该厂商介绍，Lung Guidance可在标准八区肺部检查方案中实时引导校正解剖标志，在满足图像质量标准时自动采集片段，并支持B-line检测与评分。GEHC表示，在验证测试中，非专业用户获得诊断质量检查的比例为95.2%，专业用户为96.8%。"
+                "x": "参与者按1:1随机分配至生成式AI孕产妇健康聊天机器人组或每月赠送儿童读物的积极对照组。主要结局为12个月时的焦虑（GAD-7）和抑郁（PHQ-9）。"
               },
               {
                 "t": "p",
-                "x": "AutoAS会分析使用Vscan Air SL采集的至少两个标准2D超声心动图切面，并提示检查结果是否提示中重度主动脉瓣狭窄，同时给出置信度评分。"
+                "x": "聊天机器人与焦虑（校正平均差0.10；95% CI，−0.77至0.96）或抑郁（−0.23；95% CI，−1.05至0.59）的差异均无关联，与急诊就诊、产后护理、避孕措施使用或睡眠时长也无关联。"
               },
               {
                 "t": "p",
-                "x": "两款工具均已获得U.S.食品药品监督管理局(FDA)的510(k)许可，并带有CE Mark。GEHC表示，持有有效Innovation Package订阅或许可的现有Vscan Air客户预计将在11月底前收到更新。"
+                "x": "在入组时已怀孕的参与者中，12个月二次分析显示聊天机器人与更多自报妊娠相关并发症有关，但纵向分析中未见此关联。作者表示，二次和探索性结果应谨慎解读（NCT06053515）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Chatbot de salud materna\nsin beneficios en un ensayo",
+          "body": "En un ensayo con 400 personas, un chatbot AI de salud materna no mejoró ansiedad, depresión ni atención posparto.",
+          "mini_headline": "Chatbot AI materno: ensayo nulo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Este ensayo clínico aleatorizado de 2 grupos incluyó a 400 participantes embarazadas o en posparto (con bebés menores de 6 meses), de habla inglesa (English-speaking) y pertenecientes a grupos raciales y étnicos minorizados, reclutadas en línea en 49 estados de EE. UU. (US) y el Distrito de Columbia (District of Columbia) entre octubre de 2023 y diciembre de 2024."
+              },
+              {
+                "t": "p",
+                "x": "Las participantes se asignaron al azar 1:1 a un chatbot de salud materna con AI generativa o a un control activo de libros infantiles mensuales. Los resultados primarios fueron la ansiedad (GAD-7) y la depresión (PHQ-9) a los 12 meses."
+              },
+              {
+                "t": "p",
+                "x": "El chatbot no se asoció con diferencias en ansiedad (diferencia media ajustada, 0.10; 95% CI, −0.77 a 0.96) ni en depresión (−0.23; 95% CI, −1.05 a 0.59), ni con visitas a urgencias, atención posparto, uso de anticonceptivos o duración del sueño."
+              },
+              {
+                "t": "p",
+                "x": "Entre quienes estaban embarazadas al inscribirse, el chatbot se asoció con más complicaciones del embarazo autodeclaradas en el análisis secundario a 12 meses, pero no en los análisis longitudinales. Los autores señalan que los hallazgos secundarios y exploratorios deben interpretarse con cautela (NCT06053515)."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "GE HealthCare suma AI pulmonar\ny aórtica a Vscan Air",
-          "body": "Con Lung Guidance (FDA-cleared), no expertos lograron exámenes pulmonares de calidad diagnóstica el 95.2% de las veces.",
-          "mini_headline": "Vscan Air suma AI pulmonar y aórtica",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "GE HealthCare (GEHC) incorpora dos funciones AI-based a su sistema de ecografía portátil Vscan Air: Lung Guidance, que ayuda a los clínicos a obtener imágenes de ecografía pulmonar, y AutoAS, que evalúa la estenosis aórtica de moderada a grave."
-              },
-              {
-                "t": "p",
-                "x": "Según el fabricante, Lung Guidance ofrece orientación en tiempo real para corregir los puntos de referencia anatómicos en el protocolo pulmonar estándar de ocho zonas, captura clips automáticamente cuando se cumplen los criterios de calidad de imagen y permite la detección y puntuación de B-line. En las pruebas de validación, los usuarios no expertos obtuvieron exámenes de calidad diagnóstica el 95.2% de las veces, frente al 96.8% de los usuarios expertos, según GEHC."
-              },
-              {
-                "t": "p",
-                "x": "AutoAS analiza al menos dos vistas ecocardiográficas 2D estándar adquiridas con Vscan Air SL e indica si los hallazgos sugieren una estenosis aórtica de moderada a grave, junto con una puntuación de confianza."
-              },
-              {
-                "t": "p",
-                "x": "Ambas herramientas han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) y llevan el CE Mark. Según GEHC, los clientes actuales de Vscan Air con una suscripción o licencia vigente de Innovation Package recibirán previsiblemente las actualizaciones antes de finales de noviembre."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "GE HealthCare\nVscan Air에 AI",
-          "body": "FDA-cleared Lung Guidance로 비전문가도 95.2% 성공했다.",
-          "mini_headline": "Vscan Air, 폐·대동맥 AI 탑재",
+          "headline": "산모 건강 챗봇,\n임상시험서 효과 없어",
+          "body": "400명 시험에서 산모용 AI 챗봇은 불안·우울·산후 관리를 개선하지 못했다.",
+          "mini_headline": "산모 AI 챗봇, 시험서 효과 없어",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "GE HealthCare(GEHC)가 휴대용 초음파 시스템 Vscan Air에 AI-based 기능 두 가지를 도입한다. 임상의의 폐 초음파 영상 획득을 돕는 Lung Guidance와 중등도~중증 대동맥판 협착증을 평가하는 AutoAS다."
+                "x": "이 2군 무작위 임상시험은 2023년 10월부터 2024년 12월까지 미국(US) 49개 주와 컬럼비아 특별구(District of Columbia)에서 온라인으로 모집한 인종·민족 소수 집단의 영어 사용(English-speaking) 임신부 또는 출산 후 참가자(영아 생후 6개월 미만) 400명을 등록했다."
               },
               {
                 "t": "p",
-                "x": "업체에 따르면 Lung Guidance는 표준 여덟 구역 폐 프로토콜 전반에서 해부학적 기준점을 바로잡도록 실시간으로 안내하고, 영상 품질 기준을 충족하면 클립을 자동으로 캡처하며, B-line 검출과 점수 산정을 지원한다. GEHC는 검증 시험에서 비전문가 사용자가 95.2%의 확률로 진단 품질의 검사를 얻었고, 전문가 사용자는 96.8%였다고 밝혔다."
+                "x": "참가자는 생성형 AI 산모 건강 챗봇 군과, 매달 어린이 책을 받는 활성 대조군에 1:1로 무작위 배정됐다. 1차 결과변수는 12개월 시점의 불안(GAD-7)과 우울(PHQ-9)이었다."
               },
               {
                 "t": "p",
-                "x": "AutoAS는 Vscan Air SL로 획득한 표준 2D 심초음파 영상을 최소 두 개 분석해, 소견이 중등도~중증 대동맥판 협착증을 시사하는지를 신뢰도 점수와 함께 알려준다."
+                "x": "챗봇은 불안(보정 평균차 0.10; 95% CI, −0.77~0.96)이나 우울(−0.23; 95% CI, −1.05~0.59)의 차이와 관련이 없었고, 응급실 방문, 산후 관리, 피임 사용, 수면 시간과도 관련이 없었다."
               },
               {
                 "t": "p",
-                "x": "두 도구 모두 U.S. 식품의약국(FDA)의 510(k) 허가를 받았고 CE Mark도 획득했다. GEHC는 유효한 Innovation Package 구독 또는 라이선스를 보유한 기존 Vscan Air 고객이 11월 말까지 업데이트를 받을 것으로 예상된다고 밝혔다."
+                "x": "등록 당시 임신 중이던 참가자에서는 12개월 2차 분석에서 챗봇이 자가 보고 임신 관련 합병증 증가와 관련이 있었지만, 종단 분석에서는 그렇지 않았다. 연구진은 2차·탐색적 결과를 신중히 해석해야 한다고 밝혔다(NCT06053515)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GE HealthCare\nVscan Airに肺AI",
-          "body": "FDA-clearedのLung Guidanceで非専門家の成功率は95.2%だ。",
-          "mini_headline": "Vscan Airに肺・大動脈AI",
+          "headline": "妊産婦向けチャットボット\n試験で効果示せず",
+          "body": "400人の試験で、妊産婦向けAIチャットボットは不安・抑うつ・産後ケアを改善しなかった。",
+          "mini_headline": "妊産婦AIチャットボット、効果なし",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "GE HealthCare(GEHC)は、携帯型超音波システムVscan AirにAI-basedの機能を二つ導入する。臨床医による肺超音波画像の取得を支援するLung Guidanceと、中等度から重度の大動脈弁狭窄症を評価するAutoASである。"
+                "x": "この2群ランダム化臨床試験は、2023年10月から2024年12月にかけて米国(US)49州とコロンビア特別区(District of Columbia)でオンライン募集した、人種・民族的マイノリティの英語話者(English-speaking)の妊婦または産後の参加者(乳児は生後6カ月未満)400人を登録した。"
               },
               {
                 "t": "p",
-                "x": "同社によると、Lung Guidanceは標準的な八ゾーンの肺プロトコル全体で解剖学的ランドマークを正すようリアルタイムで誘導し、画質基準を満たすと自動でクリップを取り込み、B-lineの検出とスコアリングにも対応する。GEHCによれば、検証試験で非専門家ユーザーが診断品質の検査を取得できた割合は95.2%で、専門家ユーザーは96.8%だった。"
+                "x": "参加者は生成AIの妊産婦向けチャットボット群と、毎月児童書を届ける実対照群に1:1で無作為に割り付けられた。主要評価項目は12カ月時点の不安(GAD-7)と抑うつ(PHQ-9)である。"
               },
               {
                 "t": "p",
-                "x": "AutoASは、Vscan Air SLで取得した標準的な2D心エコー断面を少なくとも二つ解析し、所見が中等度から重度の大動脈弁狭窄症を示唆するかどうかを信頼度スコアとともに示す。"
+                "x": "チャットボットは不安(調整平均差0.10、95% CI −0.77〜0.96)や抑うつ(−0.23、95% CI −1.05〜0.59)の差とは関連せず、救急外来受診、産後ケア、避妊法の使用、睡眠時間とも関連しなかった。"
               },
               {
                 "t": "p",
-                "x": "両ツールともU.S.食品医薬品局(FDA)の510(k)クリアランスを取得し、CE Markも備える。GEHCによると、有効なInnovation Packageのサブスクリプションまたはライセンスを持つ既存のVscan Air顧客は、11月末までにアップデートを受け取る見込みだ。"
+                "x": "登録時に妊娠中だった参加者では、12カ月の二次解析でチャットボットが自己申告の妊娠関連合併症の増加と関連したが、縦断解析では関連しなかった。著者らは、二次的・探索的な結果は慎重に解釈すべきだとしている(NCT06053515)。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GE HealthCare\nVscan Air新增AI",
-          "body": "FDA-cleared的Lung Guidance让非专业人员成功率达95.2%。",
-          "mini_headline": "Vscan Air新增肺部与主动脉AI",
+          "headline": "孕产妇健康聊天机器人\n试验未见益处",
+          "body": "在一项400人试验中，孕产妇健康AI聊天机器人未能改善焦虑、抑郁或产后护理。",
+          "mini_headline": "孕产妇AI聊天机器人：试验无效",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "GE HealthCare(GEHC)正为其Vscan Air手持超声系统引入两项AI-based功能：帮助临床医生采集肺部超声图像的Lung Guidance，以及评估中重度主动脉瓣狭窄的AutoAS。"
+                "x": "这项2组随机临床试验于2023年10月至2024年12月在美国（US）49个州及哥伦比亚特区（District of Columbia）在线招募，纳入400名来自少数种族和族裔群体、讲英语（English-speaking）的孕期或产后参与者（婴儿不满6个月）。"
               },
               {
                 "t": "p",
-                "x": "据该厂商介绍，Lung Guidance可在标准八区肺部检查方案中实时引导校正解剖标志，在满足图像质量标准时自动采集片段，并支持B-line检测与评分。GEHC表示，在验证测试中，非专业用户获得诊断质量检查的比例为95.2%，专业用户为96.8%。"
+                "x": "参与者按1:1随机分配至生成式AI孕产妇健康聊天机器人组或每月赠送儿童读物的积极对照组。主要结局为12个月时的焦虑（GAD-7）和抑郁（PHQ-9）。"
               },
               {
                 "t": "p",
-                "x": "AutoAS会分析使用Vscan Air SL采集的至少两个标准2D超声心动图切面，并提示检查结果是否提示中重度主动脉瓣狭窄，同时给出置信度评分。"
+                "x": "聊天机器人与焦虑（校正平均差0.10；95% CI，−0.77至0.96）或抑郁（−0.23；95% CI，−1.05至0.59）的差异均无关联，与急诊就诊、产后护理、避孕措施使用或睡眠时长也无关联。"
               },
               {
                 "t": "p",
-                "x": "两款工具均已获得U.S.食品药品监督管理局(FDA)的510(k)许可，并带有CE Mark。GEHC表示，持有有效Innovation Package订阅或许可的现有Vscan Air客户预计将在11月底前收到更新。"
+                "x": "在入组时已怀孕的参与者中，12个月二次分析显示聊天机器人与更多自报妊娠相关并发症有关，但纵向分析中未见此关联。作者表示，二次和探索性结果应谨慎解读（NCT06053515）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Chatbot de salud materna\nsin beneficios en un ensayo",
+          "body": "En un ensayo con 400 personas, un chatbot AI de salud materna no mejoró ansiedad, depresión ni atención posparto.",
+          "mini_headline": "Chatbot AI materno: ensayo nulo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Este ensayo clínico aleatorizado de 2 grupos incluyó a 400 participantes embarazadas o en posparto (con bebés menores de 6 meses), de habla inglesa (English-speaking) y pertenecientes a grupos raciales y étnicos minorizados, reclutadas en línea en 49 estados de EE. UU. (US) y el Distrito de Columbia (District of Columbia) entre octubre de 2023 y diciembre de 2024."
+              },
+              {
+                "t": "p",
+                "x": "Las participantes se asignaron al azar 1:1 a un chatbot de salud materna con AI generativa o a un control activo de libros infantiles mensuales. Los resultados primarios fueron la ansiedad (GAD-7) y la depresión (PHQ-9) a los 12 meses."
+              },
+              {
+                "t": "p",
+                "x": "El chatbot no se asoció con diferencias en ansiedad (diferencia media ajustada, 0.10; 95% CI, −0.77 a 0.96) ni en depresión (−0.23; 95% CI, −1.05 a 0.59), ni con visitas a urgencias, atención posparto, uso de anticonceptivos o duración del sueño."
+              },
+              {
+                "t": "p",
+                "x": "Entre quienes estaban embarazadas al inscribirse, el chatbot se asoció con más complicaciones del embarazo autodeclaradas en el análisis secundario a 12 meses, pero no en los análisis longitudinales. Los autores señalan que los hallazgos secundarios y exploratorios deben interpretarse con cautela (NCT06053515)."
               }
             ]
           }
@@ -275,15 +275,15 @@
       }
     },
     {
-      "id": "medicine-hti5-ai-oversight",
+      "id": "mayo-platform-cds-ehr",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "HHS 규칙, AI 검증\n의료기관 몫으로",
-      "body": "HTI-5가 AI 투명성 규정을 없애자 변호사는 계약에 검증·편향 시험을 권한다.",
-      "mini_headline": "HTI-5, AI 검증을 병원 몫으로",
+      "headline": "Mayo Clinic,\nEHR에 AI 결정 지원",
+      "body": "Mayo의 EHR 도구는 35+ 분야 LLM 채팅과 계산기 22종을 갖췄다.",
+      "mini_headline": "Mayo, EHR 속 AI 지원",
       "tool": "Medicine",
-      "source": "MedCity News",
-      "url": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/",
+      "source": "Mayo Clinic News Network",
+      "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-platforms-new-clinical-decision-support-solution-provides-trusted-medical-information-to-enhance-individualized-patient-care/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -291,179 +291,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-            "cap": "사진: 일러스트, Getty Images"
+            "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+            "cap": "두 임상의가 컴퓨터 모니터에 띄운 뇌 스캔 영상을 보며 이야기를 나누고 있다."
           },
           {
             "t": "p",
-            "x": "HHS가 AI 투명성 규정 일부를 포함해 보건 IT 인증 요건 여러 개를 되돌린다. ONC의 HTI-5 최종 규칙은 현행 인증 기준 60개 가운데 14개를 삭제하고 일곱 개를 추가로 고친다. 변경 대부분은 December 28, 2026에 발효되며 ONC는 규제 비용이 $1.5 billion 이상 줄 것으로 본다."
+            "x": "Mayo Clinic Platform이 Mayo Clinic 임상의와 자사 의료 제공자 프로그램 참여 기관을 위해 AI-enabled 임상 의사결정 지원(Clinical Decision Support, CDS) 솔루션을 내놨다. 점점 많은 EHR 환경에 통합할 수 있어 임상의가 여러 자료원을 따로 오가지 않아도 된다."
           },
           {
             "t": "p",
-            "x": "개발사가 근거 기반·예측형 의사결정 지원 중재에서 AI 추천의 출처를 밝히도록 한 요건과 중재 위험 관리 요건이 이 규칙으로 사라진다."
+            "x": "참여 임상의는 2026년 11월부터 대규모 언어 모델 기반의 전문 분야별 채팅을 쓸 수 있다. 채팅은 35개가 넘는 전문 분야를 다루고 동료 심사 문헌을 인용하며 매일 업데이트된다. Mayo 자체 계산기를 포함한 임상 계산기 22종도 채팅이나 음성 받아쓰기로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "“인증이 더 이상 예측 도구의 사용 목적, 학습 데이터, 성능, 한계에 관한 정보 접근을 보장하지 않는다”고 변호사 Mel Soliz는 말했다. 그는 의료 리더들에게 연방 인증에 기대지 말고 공개·검증·편향 시험 요건을 AI 조달 계약에 직접 넣으라고 권한다."
-          },
-          {
-            "t": "p",
-            "x": "민감한 건강 정보 보호에 쓰이는 보안 태그의 자발적 인증 기준도 함께 없어진다. Soliz는 의료 제공자에게 가장 실망스러운 변화 가운데 하나로 이를 꼽았다."
+            "x": "Maneesh Goyal 최고운영책임자는 검색 시간을 줄여 환자 진료에 시간을 더 쓰게 하는 것이 목표라고 했다. Gelareh Zadeh 최고의료책임자는 이 도구가 임상적 판단을 대신하지 않는다고 못 박았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "HHS rule shifts AI tool vetting\nonto health systems",
-          "body": "HTI-5 drops AI transparency rules, so an attorney urges hospitals to put validation and bias testing in contracts.",
-          "mini_headline": "HTI-5 moves AI vetting to hospitals",
+          "headline": "Mayo Clinic puts AI decision\nsupport inside the EHR",
+          "body": "Mayo's EHR tool offers an LLM chat across 35+ specialties that cites current literature, plus 22 calculators.",
+          "mini_headline": "Mayo AI support in the EHR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "Photo: illustration, Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "Two clinicians discuss brain scans displayed on computer monitors."
               },
               {
                 "t": "p",
-                "x": "HHS is rolling back several health IT certification requirements, including certain AI transparency regulations. The HTI-5 final rule from ONC removes 14 of the 60 certification criteria in effect and revises seven more; most changes take effect on December 28, 2026, and ONC expects more than $1.5 billion in regulatory cost savings."
+                "x": "Mayo Clinic Platform launched an AI-enabled Clinical Decision Support (CDS) solution for Mayo Clinic clinicians and organizations in its healthcare provider programs. It can be integrated into a growing number of EHR environments, so clinicians need not navigate several separate resources."
               },
               {
                 "t": "p",
-                "x": "The rule removes requirements for developers to provide source attributions for AI recommendations in evidence-based and predictive decision support interventions, along with intervention risk management requirements."
+                "x": "Beginning in November 2026, participating clinicians get a specialty-specific chat powered by a large language model, covering more than 35 specialties, citing peer-reviewed literature and updated daily, plus 22 clinical calculators accessible via chat or voice dictation, including proprietary Mayo calculators."
               },
               {
                 "t": "p",
-                "x": "“Certification no longer guarantees access to information about a predictive tool’s intended use, training data, performance, or limitations,” said attorney Mel Soliz. She recommends that health leaders build their own disclosure, validation, and bias-testing requirements into AI procurement contracts rather than relying on federal certification."
-              },
-              {
-                "t": "p",
-                "x": "The rule also eliminates the voluntary certification criteria for security tags used to shield sensitive health information, which Soliz calls one of the most disappointing changes for providers."
+                "x": "Chief operating officer Maneesh Goyal says the aim is less time searching and more time on patient care; chief medical officer Gelareh Zadeh stresses the tool does not replace clinical judgment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "HHS 규칙, AI 검증\n의료기관 몫으로",
-          "body": "HTI-5가 AI 투명성 규정을 없애자 변호사는 계약에 검증·편향 시험을 권한다.",
-          "mini_headline": "HTI-5, AI 검증을 병원 몫으로",
+          "headline": "Mayo Clinic,\nEHR에 AI 결정 지원",
+          "body": "Mayo의 EHR 도구는 35+ 분야 LLM 채팅과 계산기 22종을 갖췄다.",
+          "mini_headline": "Mayo, EHR 속 AI 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "사진: 일러스트, Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "두 임상의가 컴퓨터 모니터에 띄운 뇌 스캔 영상을 보며 이야기를 나누고 있다."
               },
               {
                 "t": "p",
-                "x": "HHS가 AI 투명성 규정 일부를 포함해 보건 IT 인증 요건 여러 개를 되돌린다. ONC의 HTI-5 최종 규칙은 현행 인증 기준 60개 가운데 14개를 삭제하고 일곱 개를 추가로 고친다. 변경 대부분은 December 28, 2026에 발효되며 ONC는 규제 비용이 $1.5 billion 이상 줄 것으로 본다."
+                "x": "Mayo Clinic Platform이 Mayo Clinic 임상의와 자사 의료 제공자 프로그램 참여 기관을 위해 AI-enabled 임상 의사결정 지원(Clinical Decision Support, CDS) 솔루션을 내놨다. 점점 많은 EHR 환경에 통합할 수 있어 임상의가 여러 자료원을 따로 오가지 않아도 된다."
               },
               {
                 "t": "p",
-                "x": "개발사가 근거 기반·예측형 의사결정 지원 중재에서 AI 추천의 출처를 밝히도록 한 요건과 중재 위험 관리 요건이 이 규칙으로 사라진다."
+                "x": "참여 임상의는 2026년 11월부터 대규모 언어 모델 기반의 전문 분야별 채팅을 쓸 수 있다. 채팅은 35개가 넘는 전문 분야를 다루고 동료 심사 문헌을 인용하며 매일 업데이트된다. Mayo 자체 계산기를 포함한 임상 계산기 22종도 채팅이나 음성 받아쓰기로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "“인증이 더 이상 예측 도구의 사용 목적, 학습 데이터, 성능, 한계에 관한 정보 접근을 보장하지 않는다”고 변호사 Mel Soliz는 말했다. 그는 의료 리더들에게 연방 인증에 기대지 말고 공개·검증·편향 시험 요건을 AI 조달 계약에 직접 넣으라고 권한다."
-              },
-              {
-                "t": "p",
-                "x": "민감한 건강 정보 보호에 쓰이는 보안 태그의 자발적 인증 기준도 함께 없어진다. Soliz는 의료 제공자에게 가장 실망스러운 변화 가운데 하나로 이를 꼽았다."
+                "x": "Maneesh Goyal 최고운영책임자는 검색 시간을 줄여 환자 진료에 시간을 더 쓰게 하는 것이 목표라고 했다. Gelareh Zadeh 최고의료책임자는 이 도구가 임상적 판단을 대신하지 않는다고 못 박았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HHS新規則、AI審査を\n医療機関に移す",
-          "body": "HTI-5でAI透明性規則が消え、弁護士は契約に検証とバイアス試験を入れるよう促す。",
-          "mini_headline": "HTI-5でAI審査は病院の役割に",
+          "headline": "Mayo Clinic、\nEHRにAI意思決定支援",
+          "body": "MayoのEHRツールは35+の診療科に対応するLLMチャットと計算機22種を備える。",
+          "mini_headline": "Mayo、EHR内にAI支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "写真：イラスト、Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "コンピューターのモニターに映る脳スキャン画像を見ながら話し合う二人の臨床医。"
               },
               {
                 "t": "p",
-                "x": "HHSは、一部のAI透明性規制を含む複数のヘルスIT認証要件を撤回しつつある。ONCのHTI-5最終規則は、現行の認証基準60項目のうち14項目を削除し、さらに七項目を改定する。変更の大半はDecember 28, 2026に施行され、ONCは$1.5 billion 超の規制コスト削減を見込む。"
+                "x": "Mayo Clinic Platformは、Mayo Clinicの臨床医と同社の医療提供者プログラムに参加する組織向けに、AI-enabledの臨床意思決定支援(Clinical Decision Support、CDS)ソリューションを発表した。対応が広がるEHR環境に統合でき、臨床医は複数の情報源を個別に行き来せずに済む。"
               },
               {
                 "t": "p",
-                "x": "同規則は、エビデンスに基づく意思決定支援介入と予測的意思決定支援介入において、開発者にAI推奨の出典表示を求める要件と、介入のリスク管理要件を削除する。"
+                "x": "2026年11月から、参加する臨床医は大規模言語モデルを用いた診療科別チャットを利用できる。35を超える診療科を対象に査読済み文献を引用し、毎日更新される。さらに、Mayo独自の計算ツールを含む22種の臨床計算ツールを、チャットや音声入力で使える。"
               },
               {
                 "t": "p",
-                "x": "「認証はもはや、予測ツールの想定用途、学習データ、性能、限界に関する情報へのアクセスを保証しない」と弁護士のMel Soliz氏は述べた。同氏は、医療リーダーが連邦認証に頼るのではなく、開示、検証、バイアス試験の要件を自らAI調達契約に盛り込むよう勧めている。"
-              },
-              {
-                "t": "p",
-                "x": "同規則はまた、機微な健康情報を保護するためのセキュリティタグに関する任意の認証基準も廃止する。Soliz氏はこれを、医療提供者にとって最も残念な変更の一つと呼ぶ。"
+                "x": "最高執行責任者のManeesh Goyal氏は、検索の時間を減らし患者ケアに充てる時間を増やすのが狙いだと述べた。最高医療責任者のGelareh Zadeh氏は、このツールが臨床判断に取って代わるものではないと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HHS新规把AI工具审查\n转给医疗系统",
-          "body": "HTI-5取消AI透明度规定，律师建议医院把验证和偏倚测试写进合同。",
-          "mini_headline": "HTI-5把AI审查交给医院",
+          "headline": "Mayo Clinic\n在EHR中嵌入AI决策支持",
+          "body": "Mayo的EHR工具提供覆盖35+专科的LLM聊天，可引用最新文献，另有22种计算器。",
+          "mini_headline": "Mayo将AI支持嵌入EHR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "图片：插图，Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "两名临床医生正在讨论电脑显示器上的脑部扫描图像。"
               },
               {
                 "t": "p",
-                "x": "HHS正在撤销多项健康IT认证要求，其中包括部分AI透明度规定。ONC发布的HTI-5最终规则删除了现行60项认证标准中的14项，并另修订七项；大部分变更将于December 28, 2026生效，ONC预计可节省超过$1.5 billion 的监管成本。"
+                "x": "Mayo Clinic Platform面向Mayo Clinic临床医生及其医疗服务提供者项目中的机构，推出AI-enabled临床决策支持（Clinical Decision Support，CDS）解决方案。该方案可集成到越来越多的EHR环境中，临床医生无需在多个独立资源之间来回切换。"
               },
               {
                 "t": "p",
-                "x": "该规则取消了开发者在循证与预测性决策支持干预中为AI建议提供来源说明的要求，以及干预风险管理要求。"
+                "x": "自2026年11月起，参与的临床医生可使用由大语言模型驱动的分专科聊天功能，覆盖超过35个专科，引用同行评审文献并每日更新；另有22种临床计算器，可通过聊天或语音听写调用，其中包括Mayo专有计算器。"
               },
               {
                 "t": "p",
-                "x": "“认证不再保证能够获取预测工具的预期用途、训练数据、性能或局限性等信息，”律师Mel Soliz表示。她建议医疗机构领导者不要依赖联邦认证，而应将自己的披露、验证和偏倚测试要求写入AI采购合同。"
-              },
-              {
-                "t": "p",
-                "x": "该规则还取消了用于保护敏感健康信息的安全标签的自愿认证标准，Soliz称这是对医疗服务提供者而言最令人失望的变化之一。"
+                "x": "首席运营官Maneesh Goyal表示，目标是减少检索时间、把更多时间用于患者诊疗；首席医疗官Gelareh Zadeh强调，该工具不会取代临床判断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HHS traslada la revisión de AI\na los sistemas de salud",
-          "body": "HTI-5 elimina reglas de transparencia de AI y una abogada pide fijar en contratos validación y pruebas de sesgo.",
-          "mini_headline": "HTI-5 traslada la revisión de AI a los hospitales",
+          "headline": "Mayo Clinic integra en el EHR\nun apoyo a decisiones con AI",
+          "body": "La herramienta EHR de Mayo ofrece un chat LLM en 35+ especialidades que cita literatura actual, y 22 calculadoras.",
+          "mini_headline": "Mayo: apoyo de AI en el EHR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "Foto: ilustración, Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "Dos clínicos analizan escáneres cerebrales que aparecen en monitores informáticos."
               },
               {
                 "t": "p",
-                "x": "HHS está revirtiendo varios requisitos de certificación de IT sanitaria, entre ellos ciertas normas de transparencia de AI. La norma final HTI-5 de la ONC elimina 14 de los 60 criterios de certificación vigentes y revisa otros siete; la mayoría de los cambios entra en vigor el 28 de diciembre de 2026, y la ONC prevé un ahorro en costos regulatorios superior a $1.5 mil millones."
+                "x": "Mayo Clinic Platform lanzó una solución AI-enabled de apoyo a la decisión clínica (Clinical Decision Support, CDS) para los clínicos de Mayo Clinic y las organizaciones de sus programas para proveedores de atención médica. Puede integrarse en un número creciente de entornos EHR, de modo que los clínicos no tengan que recorrer varios recursos por separado."
               },
               {
                 "t": "p",
-                "x": "La norma suprime la obligación de que los desarrolladores indiquen las fuentes de las recomendaciones de AI en las intervenciones de apoyo a la decisión basadas en evidencia y predictivas, junto con los requisitos de gestión de riesgos de dichas intervenciones."
+                "x": "A partir de noviembre de 2026, los clínicos participantes disponen de un chat por especialidad basado en un modelo de lenguaje de gran tamaño, que abarca más de 35 especialidades, cita literatura revisada por pares y se actualiza a diario, además de 22 calculadoras clínicas accesibles por chat o dictado de voz, entre ellas calculadoras propias de Mayo."
               },
               {
                 "t": "p",
-                "x": "“La certificación ya no garantiza el acceso a información sobre el uso previsto, los datos de entrenamiento, el rendimiento o las limitaciones de una herramienta predictiva”, afirmó la abogada Mel Soliz. Recomienda que los líderes sanitarios incorporen sus propios requisitos de divulgación, validación y pruebas de sesgo en los contratos de compra de AI, en lugar de depender de la certificación federal."
-              },
-              {
-                "t": "p",
-                "x": "La norma también elimina los criterios de certificación voluntaria para las etiquetas de seguridad que protegen la información sanitaria sensible, algo que Soliz considera uno de los cambios más decepcionantes para los proveedores."
+                "x": "El director de operaciones, Maneesh Goyal, afirma que el objetivo es dedicar menos tiempo a buscar y más a la atención de pacientes; la directora médica, Gelareh Zadeh, subraya que la herramienta no sustituye el juicio clínico."
               }
             ]
           }
@@ -471,125 +447,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "HHS 규칙, AI 검증\n의료기관 몫으로",
-          "body": "HTI-5가 AI 투명성 규정을 없애, 변호사는 계약에 검증·편향 시험을 권한다.",
-          "mini_headline": "HTI-5, AI 검증을 병원 몫으로",
+          "headline": "Mayo Clinic,\nEHR에 AI 결정 지원",
+          "body": "Mayo의 EHR 도구는 35+ 분야 LLM 채팅과 계산기 22종을 갖췄다.",
+          "mini_headline": "Mayo, EHR 속 AI 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "사진: 일러스트, Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "두 임상의가 컴퓨터 모니터에 띄운 뇌 스캔 영상을 보며 이야기를 나누고 있다."
               },
               {
                 "t": "p",
-                "x": "HHS가 일부 AI 투명성 규정을 포함한 여러 보건 IT 인증 요건을 되돌리고 있다. ONC의 HTI-5 최종 규칙은 현행 인증 기준 60개 중 14개를 삭제하고 일곱 개를 추가로 개정한다. 대부분의 변경은 December 28, 2026에 발효되며, ONC는 $1.5 billion 이상의 규제 비용 절감을 기대한다."
+                "x": "Mayo Clinic Platform이 Mayo Clinic 임상의와 자사 의료 제공자 프로그램 참여 기관을 위한 AI-enabled 임상 의사결정 지원(Clinical Decision Support, CDS) 솔루션을 출시했다. 점점 늘어나는 EHR 환경에 통합할 수 있어, 임상의가 여러 자료원을 따로 오갈 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "이 규칙은 근거 기반·예측형 의사결정 지원 중재에서 개발사가 AI 추천의 출처를 밝히도록 한 요건과, 중재 위험 관리 요건을 없앤다."
+                "x": "2026년 11월부터 참여 임상의는 대규모 언어 모델 기반의 전문 분야별 채팅을 쓸 수 있다. 35개가 넘는 전문 분야를 다루고 동료 심사 문헌을 인용하며 매일 업데이트된다. 여기에 Mayo 자체 계산기를 포함해 채팅이나 음성 받아쓰기로 쓸 수 있는 임상 계산기 22종도 제공한다."
               },
               {
                 "t": "p",
-                "x": "“인증이 더 이상 예측 도구의 사용 목적, 학습 데이터, 성능, 한계에 관한 정보 접근을 보장하지 않는다”고 변호사 Mel Soliz는 말했다. 그는 의료 리더들이 연방 인증에 기대기보다 공개, 검증, 편향 시험 요건을 AI 조달 계약에 직접 담으라고 권한다."
-              },
-              {
-                "t": "p",
-                "x": "이 규칙은 민감한 건강 정보를 보호하는 데 쓰이는 보안 태그의 자발적 인증 기준도 없앤다. Soliz는 이를 의료 제공자에게 가장 실망스러운 변화 중 하나로 꼽았다."
+                "x": "Maneesh Goyal 최고운영책임자는 검색 시간을 줄이고 환자 진료에 더 많은 시간을 쓰게 하는 것이 목표라고 말했다. Gelareh Zadeh 최고의료책임자는 이 도구가 임상적 판단을 대체하지 않는다고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HHS新規則、AI審査を\n医療機関に移す",
-          "body": "HTI-5でAI透明性規則が消え、弁護士は契約に検証とバイアス試験を入れるよう促す。",
-          "mini_headline": "HTI-5でAI審査は病院の役割に",
+          "headline": "Mayo Clinic、\nEHRにAI意思決定支援",
+          "body": "MayoのEHRツールは35+の診療科に対応するLLMチャットと計算機22種を備える。",
+          "mini_headline": "Mayo、EHR内にAI支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "写真：イラスト、Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "コンピューターのモニターに映る脳スキャン画像を見ながら話し合う二人の臨床医。"
               },
               {
                 "t": "p",
-                "x": "HHSは、一部のAI透明性規制を含む複数のヘルスIT認証要件を撤回しつつある。ONCのHTI-5最終規則は、現行の認証基準60項目のうち14項目を削除し、さらに七項目を改定する。変更の大半はDecember 28, 2026に施行され、ONCは$1.5 billion 超の規制コスト削減を見込む。"
+                "x": "Mayo Clinic Platformは、Mayo Clinicの臨床医と同社の医療提供者プログラムに参加する組織向けに、AI-enabledの臨床意思決定支援(Clinical Decision Support、CDS)ソリューションを発表した。対応が広がるEHR環境に統合でき、臨床医は複数の情報源を個別に行き来せずに済む。"
               },
               {
                 "t": "p",
-                "x": "同規則は、エビデンスに基づく意思決定支援介入と予測的意思決定支援介入において、開発者にAI推奨の出典表示を求める要件と、介入のリスク管理要件を削除する。"
+                "x": "2026年11月から、参加する臨床医は大規模言語モデルを用いた診療科別チャットを利用できる。35を超える診療科を対象に査読済み文献を引用し、毎日更新される。さらに、Mayo独自の計算ツールを含む22種の臨床計算ツールを、チャットや音声入力で使える。"
               },
               {
                 "t": "p",
-                "x": "「認証はもはや、予測ツールの想定用途、学習データ、性能、限界に関する情報へのアクセスを保証しない」と弁護士のMel Soliz氏は述べた。同氏は、医療リーダーが連邦認証に頼るのではなく、開示、検証、バイアス試験の要件を自らAI調達契約に盛り込むよう勧めている。"
-              },
-              {
-                "t": "p",
-                "x": "同規則はまた、機微な健康情報を保護するためのセキュリティタグに関する任意の認証基準も廃止する。Soliz氏はこれを、医療提供者にとって最も残念な変更の一つと呼ぶ。"
+                "x": "最高執行責任者のManeesh Goyal氏は、検索の時間を減らし患者ケアに充てる時間を増やすのが狙いだと述べた。最高医療責任者のGelareh Zadeh氏は、このツールが臨床判断に取って代わるものではないと強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HHS新规把AI工具审查\n转给医疗系统",
-          "body": "HTI-5取消AI透明度规定，律师建议医院把验证和偏倚测试写进合同。",
-          "mini_headline": "HTI-5把AI审查交给医院",
+          "headline": "Mayo Clinic\n在EHR中嵌入AI决策支持",
+          "body": "Mayo的EHR工具提供覆盖35+专科的LLM聊天，可引用最新文献，另有22种计算器。",
+          "mini_headline": "Mayo将AI支持嵌入EHR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "图片：插图，Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "两名临床医生正在讨论电脑显示器上的脑部扫描图像。"
               },
               {
                 "t": "p",
-                "x": "HHS正在撤销多项健康IT认证要求，其中包括部分AI透明度规定。ONC发布的HTI-5最终规则删除了现行60项认证标准中的14项，并另修订七项；大部分变更将于December 28, 2026生效，ONC预计可节省超过$1.5 billion 的监管成本。"
+                "x": "Mayo Clinic Platform面向Mayo Clinic临床医生及其医疗服务提供者项目中的机构，推出AI-enabled临床决策支持（Clinical Decision Support，CDS）解决方案。该方案可集成到越来越多的EHR环境中，临床医生无需在多个独立资源之间来回切换。"
               },
               {
                 "t": "p",
-                "x": "该规则取消了开发者在循证与预测性决策支持干预中为AI建议提供来源说明的要求，以及干预风险管理要求。"
+                "x": "自2026年11月起，参与的临床医生可使用由大语言模型驱动的分专科聊天功能，覆盖超过35个专科，引用同行评审文献并每日更新；另有22种临床计算器，可通过聊天或语音听写调用，其中包括Mayo专有计算器。"
               },
               {
                 "t": "p",
-                "x": "“认证不再保证能够获取预测工具的预期用途、训练数据、性能或局限性等信息，”律师Mel Soliz表示。她建议医疗机构领导者不要依赖联邦认证，而应将自己的披露、验证和偏倚测试要求写入AI采购合同。"
-              },
-              {
-                "t": "p",
-                "x": "该规则还取消了用于保护敏感健康信息的安全标签的自愿认证标准，Soliz称这是对医疗服务提供者而言最令人失望的变化之一。"
+                "x": "首席运营官Maneesh Goyal表示，目标是减少检索时间、把更多时间用于患者诊疗；首席医疗官Gelareh Zadeh强调，该工具不会取代临床判断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HHS traslada la revisión de AI\na los sistemas de salud",
-          "body": "HTI-5 elimina reglas de transparencia de AI y una abogada pide fijar en contratos validación y pruebas de sesgo.",
-          "mini_headline": "HTI-5 traslada la revisión de AI a los hospitales",
+          "headline": "Mayo Clinic integra en el EHR\nun apoyo a decisiones con AI",
+          "body": "La herramienta EHR de Mayo ofrece un chat LLM en 35+ especialidades que cita literatura actual, y 22 calculadoras.",
+          "mini_headline": "Mayo: apoyo de AI en el EHR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-                "cap": "Foto: ilustración, Getty Images"
+                "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+                "cap": "Dos clínicos analizan escáneres cerebrales que aparecen en monitores informáticos."
               },
               {
                 "t": "p",
-                "x": "HHS está revirtiendo varios requisitos de certificación de IT sanitaria, entre ellos ciertas normas de transparencia de AI. La norma final HTI-5 de la ONC elimina 14 de los 60 criterios de certificación vigentes y revisa otros siete; la mayoría de los cambios entra en vigor el 28 de diciembre de 2026, y la ONC prevé un ahorro en costos regulatorios superior a $1.5 mil millones."
+                "x": "Mayo Clinic Platform lanzó una solución AI-enabled de apoyo a la decisión clínica (Clinical Decision Support, CDS) para los clínicos de Mayo Clinic y las organizaciones de sus programas para proveedores de atención médica. Puede integrarse en un número creciente de entornos EHR, de modo que los clínicos no tengan que recorrer varios recursos por separado."
               },
               {
                 "t": "p",
-                "x": "La norma suprime la obligación de que los desarrolladores indiquen las fuentes de las recomendaciones de AI en las intervenciones de apoyo a la decisión basadas en evidencia y predictivas, junto con los requisitos de gestión de riesgos de dichas intervenciones."
+                "x": "A partir de noviembre de 2026, los clínicos participantes disponen de un chat por especialidad basado en un modelo de lenguaje de gran tamaño, que abarca más de 35 especialidades, cita literatura revisada por pares y se actualiza a diario, además de 22 calculadoras clínicas accesibles por chat o dictado de voz, entre ellas calculadoras propias de Mayo."
               },
               {
                 "t": "p",
-                "x": "“La certificación ya no garantiza el acceso a información sobre el uso previsto, los datos de entrenamiento, el rendimiento o las limitaciones de una herramienta predictiva”, afirmó la abogada Mel Soliz. Recomienda que los líderes sanitarios incorporen sus propios requisitos de divulgación, validación y pruebas de sesgo en los contratos de compra de AI, en lugar de depender de la certificación federal."
-              },
-              {
-                "t": "p",
-                "x": "La norma también elimina los criterios de certificación voluntaria para las etiquetas de seguridad que protegen la información sanitaria sensible, algo que Soliz considera uno de los cambios más decepcionantes para los proveedores."
+                "x": "El director de operaciones, Maneesh Goyal, afirma que el objetivo es dedicar menos tiempo a buscar y más a la atención de pacientes; la directora médica, Gelareh Zadeh, subraya que la herramienta no sustituye el juicio clínico."
               }
             ]
           }
@@ -597,15 +557,15 @@
       }
     },
     {
-      "id": "medicine-epic-inbox-drafts-jama",
+      "id": "google-health-ai-evals",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Epic AI 초안에도\n근무 외 메시지 그대로",
-      "body": "Columbia의 AI 초안은 회신을 29.5% 줄였지만 전체로는 8.6% 늘었다.",
-      "mini_headline": "AI 초안, 근무 외 부담은 그대로",
+      "headline": "Google, 헬스 AI\n안전성 검증법 공개",
+      "body": "Google은 헬스 AI 정확성·안전성·유용성을 벤치마크·전문가 검토로 평가한다.",
+      "mini_headline": "Google의 헬스 AI 검증법",
       "tool": "Medicine",
-      "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41364",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -613,149 +573,155 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Columbia University Irving Medical Center에서 진행한 이 후향적 코호트 연구는 환자 포털 메시지에 AI-drafted 답장을 만들어 주는 Epic의 In Basket Augmented Response Technology를 들여다봤다. 연구진은 March 1, 2023부터 May 15, 2025까지 임상의 1542명이 환자 272 091명에게 보낸 첫 응답 983 154건을 분석했다. 기관 전체 도입은 December 2024였다."
+            "x": "Google이 보건 전문가 Dr. Elizabeth McGlynn, Dr. Dana Gelb Safran과 함께 백서를 냈다. 사람들의 건강 요구를 다루는 AI 활용 사례를 처음부터 끝까지 평가하는 접근법을 담았다."
           },
           {
             "t": "p",
-            "x": "응답 도구 도입은 전체 메시지 회신 시간이 8.6% 느는 것과 연관됐지만, 도구를 쓴 개별 메시지에서는 회신 시간이 29.5% 짧아지는 연관성이 나타났다."
+            "x": "프레임워크는 정확성·안전성·유용성을 기준으로 모델을 평가한다. 일반적인 건강 시나리오와 고위험 시나리오 모두에서 폐쇄형 질문 벤치마크, 자동 평가기(autorater), 전문가의 인간 검토를 함께 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+            "cap": "녹색 수술복을 입은 의료진이 진료실에서 환자가 든 스마트폰을 들여다보고 있다."
           },
           {
             "t": "p",
-            "x": "도구 사용과 근무 외 메시지 부담의 전반적 감소 사이에는 연관이 없었다. 근무 시간에 들어온 검사 결과 문의는 근무 외 응답이 줄었지만 근무 외 시간에 들어온 메시지는 오히려 근무 외 응답이 늘었다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 이 도구가 특정 메시지에 답하는 문턱을 낮출 수는 있어도 부담을 고르게 덜어 주지는 못한다고 결론 내렸다."
+            "x": "Google은 이 프레임워크를 직접 만들어 지금도 자사 모델 점검에 쓴다고 밝혔다. 방법론을 공유하는 이유로는 투명성을 높이고, 개발자·연구자·임상의가 사람들이 믿을 수 있는 AI 도구를 만들도록 돕는다는 점을 들었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Epic AI drafts leave clinicians'\nafter-hours inbox unchanged",
-          "body": "At Columbia, AI drafts cut reply time 29.5%, yet overall adoption tracked an 8.6% rise in turnaround time.",
-          "mini_headline": "AI inbox drafts, no after-hours relief",
+          "headline": "Google opens up how it tests\nhealth AI for safety",
+          "body": "Google's health AI framework scores accuracy, safety and usefulness with benchmarks, autoraters and expert review.",
+          "mini_headline": "How Google tests health AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "This retrospective cohort study examined Epic's In Basket Augmented Response Technology, which generates AI-drafted replies to patient portal messages, at Columbia University Irving Medical Center. It analyzed 983 154 first responses from 1542 clinicians to 272 091 patients between March 1, 2023, and May 15, 2025; enterprise-level deployment came in December 2024."
+                "x": "Google, with health experts Dr. Elizabeth McGlynn and Dr. Dana Gelb Safran, published a whitepaper describing an end-to-end approach for evaluating AI use cases that address people's health needs."
               },
               {
                 "t": "p",
-                "x": "Response tool adoption was associated with an 8.6% increase in overall message turnaround time, while using the tool on a given message was associated with a 29.5% reduction in turnaround time."
+                "x": "The framework assesses models on accuracy, safety and usefulness, combining closed-question benchmarks, autoraters and expert human review across common and high-risk health scenarios."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "A healthcare worker in green scrubs looks at a smartphone held by a patient in a clinical office."
               },
               {
                 "t": "p",
-                "x": "Tool use was not associated with an overall reduction of after-hours messaging burden. It was linked to fewer after-hours responses for test results–related queries received during working hours, but more after-hours responses for messages received after hours."
-              },
-              {
-                "t": "p",
-                "x": "The authors conclude the tool may reduce the barrier to responding to certain messages while not uniformly reducing burden."
+                "x": "Google says it built and still uses the framework to check its own models, and shares the methodology to promote transparency and help developers, researchers and clinicians build AI tools people can trust."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Epic AI 초안에도\n근무 외 메시지 그대로",
-          "body": "Columbia의 AI 초안은 회신을 29.5% 줄였지만 전체로는 8.6% 늘었다.",
-          "mini_headline": "AI 초안, 근무 외 부담은 그대로",
+          "headline": "Google, 헬스 AI\n안전성 검증법 공개",
+          "body": "Google은 헬스 AI 정확성·안전성·유용성을 벤치마크·전문가 검토로 평가한다.",
+          "mini_headline": "Google의 헬스 AI 검증법",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Columbia University Irving Medical Center에서 진행한 이 후향적 코호트 연구는 환자 포털 메시지에 AI-drafted 답장을 만들어 주는 Epic의 In Basket Augmented Response Technology를 들여다봤다. 연구진은 March 1, 2023부터 May 15, 2025까지 임상의 1542명이 환자 272 091명에게 보낸 첫 응답 983 154건을 분석했다. 기관 전체 도입은 December 2024였다."
+                "x": "Google이 보건 전문가 Dr. Elizabeth McGlynn, Dr. Dana Gelb Safran과 함께 백서를 냈다. 사람들의 건강 요구를 다루는 AI 활용 사례를 처음부터 끝까지 평가하는 접근법을 담았다."
               },
               {
                 "t": "p",
-                "x": "응답 도구 도입은 전체 메시지 회신 시간이 8.6% 느는 것과 연관됐지만, 도구를 쓴 개별 메시지에서는 회신 시간이 29.5% 짧아지는 연관성이 나타났다."
+                "x": "프레임워크는 정확성·안전성·유용성을 기준으로 모델을 평가한다. 일반적인 건강 시나리오와 고위험 시나리오 모두에서 폐쇄형 질문 벤치마크, 자동 평가기(autorater), 전문가의 인간 검토를 함께 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "녹색 수술복을 입은 의료진이 진료실에서 환자가 든 스마트폰을 들여다보고 있다."
               },
               {
                 "t": "p",
-                "x": "도구 사용과 근무 외 메시지 부담의 전반적 감소 사이에는 연관이 없었다. 근무 시간에 들어온 검사 결과 문의는 근무 외 응답이 줄었지만 근무 외 시간에 들어온 메시지는 오히려 근무 외 응답이 늘었다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이 도구가 특정 메시지에 답하는 문턱을 낮출 수는 있어도 부담을 고르게 덜어 주지는 못한다고 결론 내렸다."
+                "x": "Google은 이 프레임워크를 직접 만들어 지금도 자사 모델 점검에 쓴다고 밝혔다. 방법론을 공유하는 이유로는 투명성을 높이고, 개발자·연구자·임상의가 사람들이 믿을 수 있는 AI 도구를 만들도록 돕는다는 점을 들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic AI下書きでも\n医師の時間外受信箱は不変",
-          "body": "ColumbiaでAI下書きは返信時間を29.5%縮めたが、導入全体では8.6%延びた。",
-          "mini_headline": "AI下書き、時間外の負担は減らず",
+          "headline": "Google、ヘルスAIの\n安全性評価法を公開",
+          "body": "GoogleはヘルスAIの正確性・安全性・有用性をベンチマークと専門家評価で測る。",
+          "mini_headline": "GoogleのヘルスAI評価法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この後ろ向きコホート研究は、Columbia University Irving Medical Centerで、患者ポータルのメッセージにAI-draftedの返信を生成するEpicのIn Basket Augmented Response Technologyを調べた。March 1, 2023からMay 15, 2025までに、臨床医1542人が患者272 091人に送った最初の返信983 154件を分析した。組織全体での導入はDecember 2024だった。"
+                "x": "Googleは、医療専門家のDr. Elizabeth McGlynn、Dr. Dana Gelb Safranとともに、人々の健康ニーズに応えるAIのユースケースをエンドツーエンドで評価する手法をまとめたホワイトペーパーを公開した。"
               },
               {
                 "t": "p",
-                "x": "返信ツールの導入はメッセージ全体の返信時間の8.6%増加と関連していた一方、個々のメッセージでのツール使用は返信時間の29.5%短縮と関連していた。"
+                "x": "この枠組みは正確性、安全性、有用性の観点でモデルを評価し、一般的な健康シナリオと高リスクの健康シナリオの双方で、クローズド形式の質問ベンチマーク、自動評価器(オートレーター)、専門家による人間のレビューを組み合わせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "診察室で、緑のスクラブを着た医療従事者が患者の持つスマートフォンをのぞき込んでいる。"
               },
               {
                 "t": "p",
-                "x": "ツールの使用は、時間外メッセージ業務の負担の全体的な減少とは関連しなかった。勤務時間内に届いた検査結果関連の問い合わせでは時間外の返信が減ったが、時間外に届いたメッセージでは時間外の返信が増えた。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、このツールが特定のメッセージに返信するハードルを下げる可能性はあるものの、負担を一様に減らすわけではないと結論づけている。"
+                "x": "Googleは、この枠組みを自ら構築し、現在も自社モデルの確認に使っているという。透明性を高め、開発者や研究者、臨床医が人々に信頼されるAIツールを作れるよう、手法を共有するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic AI草拟回复\n医生下班后收件箱未变",
-          "body": "在Columbia，AI草稿使回复时间缩短29.5%，但整体采用后周转时间增加8.6%。",
-          "mini_headline": "AI收件箱草稿未减下班后负担",
+          "headline": "Google公开其健康AI\n安全测试方法",
+          "body": "Google的健康AI框架通过基准测试、自动评分器和专家审查评估准确性、安全性与实用性。",
+          "mini_headline": "Google如何测试健康AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项回顾性队列研究在Columbia University Irving Medical Center考察了Epic的In Basket Augmented Response Technology，该工具可为患者门户消息生成AI-drafted回复。研究分析了March 1, 2023至May 15, 2025期间1542名临床医生对272 091名患者的983 154条首次回复；全机构部署于December 2024完成。"
+                "x": "Google与健康专家Dr. Elizabeth McGlynn和Dr. Dana Gelb Safran共同发布白皮书，介绍了一套端到端方法，用于评估满足人们健康需求的AI用例。"
               },
               {
                 "t": "p",
-                "x": "采用该回复工具与整体消息周转时间增加8.6%相关，而在单条消息上使用该工具则与周转时间缩短29.5%相关。"
+                "x": "该框架从准确性、安全性和实用性评估模型，在常见及高风险健康场景中结合封闭式问题基准测试、自动评分器和专家人工审查。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "身穿绿色手术服的医护人员在诊室里查看患者手中的智能手机。"
               },
               {
                 "t": "p",
-                "x": "工具使用与下班后消息负担的整体减少无关。对于工作时间内收到的检查结果相关询问，下班后回复有所减少；但对于下班后收到的消息，下班后回复反而增加。"
-              },
-              {
-                "t": "p",
-                "x": "作者总结称，该工具可能降低回复某些消息的门槛，但并未均衡地减轻负担。"
+                "x": "Google表示，该框架由其自行构建，至今仍用于检验自家模型；公开这一方法论旨在提升透明度，帮助开发者、研究人员和临床医生打造值得信赖的AI工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los borradores de Epic AI\nno alivian la bandeja nocturna",
-          "body": "En Columbia, borradores de AI acortaron las respuestas un 29.5%, pero la adopción se asoció a un 8.6% más de demora.",
-          "mini_headline": "Borradores de AI, sin alivio fuera de horario",
+          "headline": "Google detalla cómo evalúa\nla seguridad de su AI de salud",
+          "body": "Google evalúa la AI de salud por precisión, seguridad y utilidad con benchmarks, autoevaluadores y revisión experta.",
+          "mini_headline": "Cómo evalúa Google la AI de salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este estudio de cohorte retrospectivo examinó In Basket Augmented Response Technology de Epic, que genera respuestas AI-drafted a los mensajes del portal del paciente, en Columbia University Irving Medical Center. Analizó 983 154 primeras respuestas de 1542 clínicos a 272 091 pacientes entre el 1 de marzo de 2023 y el 15 de mayo de 2025; el despliegue a escala institucional llegó en diciembre de 2024."
+                "x": "Google, junto con los expertos en salud Dr. Elizabeth McGlynn y Dr. Dana Gelb Safran, publicó un documento técnico que describe un enfoque integral para evaluar casos de uso de AI que atienden las necesidades de salud de las personas."
               },
               {
                 "t": "p",
-                "x": "La adopción de la herramienta se asoció a un aumento del 8.6% en el tiempo total de respuesta a los mensajes, mientras que usarla en un mensaje concreto se asoció a una reducción del 29.5% en ese tiempo."
+                "x": "El marco evalúa los modelos según su precisión, seguridad y utilidad, y combina benchmarks de preguntas cerradas, autoevaluadores y revisión humana experta en escenarios de salud habituales y de alto riesgo."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "Un profesional sanitario con uniforme quirúrgico verde mira el smartphone que sostiene un paciente en una consulta clínica."
               },
               {
                 "t": "p",
-                "x": "El uso de la herramienta no se asoció a una reducción global de la carga de mensajes fuera de horario. Se vinculó con menos respuestas fuera de horario a consultas sobre resultados de pruebas recibidas en horario laboral, pero con más respuestas fuera de horario a mensajes recibidos fuera de horario."
-              },
-              {
-                "t": "p",
-                "x": "Los autores concluyen que la herramienta puede reducir la barrera para responder a ciertos mensajes, aunque no reduce la carga de manera uniforme."
+                "x": "Google afirma que creó el marco y que aún lo usa para revisar sus propios modelos, y que comparte la metodología para promover la transparencia y ayudar a desarrolladores, investigadores y clínicos a crear herramientas de AI en las que la gente pueda confiar."
               }
             ]
           }
@@ -763,105 +729,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Epic AI 초안에도\n근무 외 메시지 그대로",
-          "body": "Columbia의 AI 초안은 회신을 29.5% 줄였지만 전체는 8.6% 늘었다.",
-          "mini_headline": "AI 초안, 근무 외 부담은 그대로",
+          "headline": "Google, 헬스 AI\n안전성 검증법 공개",
+          "body": "Google은 헬스 AI 정확성·안전성·유용성을 벤치마크·전문가 검토로 평가한다.",
+          "mini_headline": "Google의 헬스 AI 검증법",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이 후향적 코호트 연구는 Columbia University Irving Medical Center에서 환자 포털 메시지에 AI-drafted 답장을 생성하는 Epic의 In Basket Augmented Response Technology를 살폈다. 연구진은 March 1, 2023부터 May 15, 2025까지 임상의 1542명이 환자 272 091명에게 보낸 첫 응답 983 154건을 분석했다. 기관 전체 도입은 December 2024에 이뤄졌다."
+                "x": "Google은 보건 전문가 Dr. Elizabeth McGlynn, Dr. Dana Gelb Safran과 함께, 사람들의 건강 요구를 다루는 AI 활용 사례를 평가하는 엔드투엔드 접근법을 담은 백서를 발표했다."
               },
               {
                 "t": "p",
-                "x": "응답 도구 도입은 전체 메시지 회신 시간 8.6% 증가와 연관됐지만, 개별 메시지에 도구를 쓴 경우는 회신 시간 29.5% 감소와 연관됐다."
+                "x": "이 프레임워크는 정확성·안전성·유용성을 기준으로 모델을 평가하며, 일반적인 건강 시나리오와 고위험 시나리오 전반에서 폐쇄형 질문 벤치마크, 자동 평가기(autorater), 전문가의 인간 검토를 결합한다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "녹색 수술복을 입은 의료진이 진료실에서 환자가 든 스마트폰을 들여다보고 있다."
               },
               {
                 "t": "p",
-                "x": "도구 사용은 근무 외 메시지 부담의 전반적 감소와 연관되지 않았다. 근무 시간에 받은 검사 결과 관련 문의에서는 근무 외 응답이 줄었지만, 근무 외 시간에 받은 메시지에서는 근무 외 응답이 늘었다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이 도구가 특정 메시지에 답하는 문턱을 낮출 수는 있지만 부담을 고르게 줄이지는 않는다고 결론지었다."
+                "x": "Google은 이 프레임워크를 직접 만들어 지금도 자사 모델 점검에 쓰고 있으며, 투명성을 높이고 개발자·연구자·임상의가 사람들이 신뢰할 수 있는 AI 도구를 만들도록 돕기 위해 방법론을 공유한다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic AI下書きでも\n医師の時間外受信箱は不変",
-          "body": "ColumbiaでAI下書きは返信時間を29.5%縮めたが、導入全体では8.6%延びた。",
-          "mini_headline": "AI下書き、時間外の負担は減らず",
+          "headline": "Google、ヘルスAIの\n安全性評価法を公開",
+          "body": "GoogleはヘルスAIの正確性・安全性・有用性をベンチマークと専門家評価で測る。",
+          "mini_headline": "GoogleのヘルスAI評価法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "この後ろ向きコホート研究は、Columbia University Irving Medical Centerで、患者ポータルのメッセージにAI-draftedの返信を生成するEpicのIn Basket Augmented Response Technologyを調べた。March 1, 2023からMay 15, 2025までに、臨床医1542人が患者272 091人に送った最初の返信983 154件を分析した。組織全体での導入はDecember 2024だった。"
+                "x": "Googleは、医療専門家のDr. Elizabeth McGlynn、Dr. Dana Gelb Safranとともに、人々の健康ニーズに応えるAIのユースケースをエンドツーエンドで評価する手法をまとめたホワイトペーパーを公開した。"
               },
               {
                 "t": "p",
-                "x": "返信ツールの導入はメッセージ全体の返信時間の8.6%増加と関連していた一方、個々のメッセージでのツール使用は返信時間の29.5%短縮と関連していた。"
+                "x": "この枠組みは正確性、安全性、有用性の観点でモデルを評価し、一般的な健康シナリオと高リスクの健康シナリオの双方で、クローズド形式の質問ベンチマーク、自動評価器(オートレーター)、専門家による人間のレビューを組み合わせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "診察室で、緑のスクラブを着た医療従事者が患者の持つスマートフォンをのぞき込んでいる。"
               },
               {
                 "t": "p",
-                "x": "ツールの使用は、時間外メッセージ業務の負担の全体的な減少とは関連しなかった。勤務時間内に届いた検査結果関連の問い合わせでは時間外の返信が減ったが、時間外に届いたメッセージでは時間外の返信が増えた。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、このツールが特定のメッセージに返信するハードルを下げる可能性はあるものの、負担を一様に減らすわけではないと結論づけている。"
+                "x": "Googleは、この枠組みを自ら構築し、現在も自社モデルの確認に使っているという。透明性を高め、開発者や研究者、臨床医が人々に信頼されるAIツールを作れるよう、手法を共有するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic AI草拟回复\n医生下班后收件箱未变",
-          "body": "在Columbia，AI草稿使回复时间缩短29.5%，但整体采用后周转时间增加8.6%。",
-          "mini_headline": "AI收件箱草稿未减下班后负担",
+          "headline": "Google公开其健康AI\n安全测试方法",
+          "body": "Google的健康AI框架通过基准测试、自动评分器和专家审查评估准确性、安全性与实用性。",
+          "mini_headline": "Google如何测试健康AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这项回顾性队列研究在Columbia University Irving Medical Center考察了Epic的In Basket Augmented Response Technology，该工具可为患者门户消息生成AI-drafted回复。研究分析了March 1, 2023至May 15, 2025期间1542名临床医生对272 091名患者的983 154条首次回复；全机构部署于December 2024完成。"
+                "x": "Google与健康专家Dr. Elizabeth McGlynn和Dr. Dana Gelb Safran共同发布白皮书，介绍了一套端到端方法，用于评估满足人们健康需求的AI用例。"
               },
               {
                 "t": "p",
-                "x": "采用该回复工具与整体消息周转时间增加8.6%相关，而在单条消息上使用该工具则与周转时间缩短29.5%相关。"
+                "x": "该框架从准确性、安全性和实用性评估模型，在常见及高风险健康场景中结合封闭式问题基准测试、自动评分器和专家人工审查。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "身穿绿色手术服的医护人员在诊室里查看患者手中的智能手机。"
               },
               {
                 "t": "p",
-                "x": "工具使用与下班后消息负担的整体减少无关。对于工作时间内收到的检查结果相关询问，下班后回复有所减少；但对于下班后收到的消息，下班后回复反而增加。"
-              },
-              {
-                "t": "p",
-                "x": "作者总结称，该工具可能降低回复某些消息的门槛，但并未均衡地减轻负担。"
+                "x": "Google表示，该框架由其自行构建，至今仍用于检验自家模型；公开这一方法论旨在提升透明度，帮助开发者、研究人员和临床医生打造值得信赖的AI工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los borradores de Epic AI\nno alivian la bandeja nocturna",
-          "body": "En Columbia, borradores de AI acortaron las respuestas un 29.5%, pero la adopción se asoció a un 8.6% más de demora.",
-          "mini_headline": "Borradores de AI, sin alivio fuera de horario",
+          "headline": "Google detalla cómo evalúa\nla seguridad de su AI de salud",
+          "body": "Google evalúa la AI de salud por precisión, seguridad y utilidad con benchmarks, autoevaluadores y revisión experta.",
+          "mini_headline": "Cómo evalúa Google la AI de salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Este estudio de cohorte retrospectivo examinó In Basket Augmented Response Technology de Epic, que genera respuestas AI-drafted a los mensajes del portal del paciente, en Columbia University Irving Medical Center. Analizó 983 154 primeras respuestas de 1542 clínicos a 272 091 pacientes entre el 1 de marzo de 2023 y el 15 de mayo de 2025; el despliegue a escala institucional llegó en diciembre de 2024."
+                "x": "Google, junto con los expertos en salud Dr. Elizabeth McGlynn y Dr. Dana Gelb Safran, publicó un documento técnico que describe un enfoque integral para evaluar casos de uso de AI que atienden las necesidades de salud de las personas."
               },
               {
                 "t": "p",
-                "x": "La adopción de la herramienta se asoció a un aumento del 8.6% en el tiempo total de respuesta a los mensajes, mientras que usarla en un mensaje concreto se asoció a una reducción del 29.5% en ese tiempo."
+                "x": "El marco evalúa los modelos según su precisión, seguridad y utilidad, y combina benchmarks de preguntas cerradas, autoevaluadores y revisión humana experta en escenarios de salud habituales y de alto riesgo."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+                "cap": "Un profesional sanitario con uniforme quirúrgico verde mira el smartphone que sostiene un paciente en una consulta clínica."
               },
               {
                 "t": "p",
-                "x": "El uso de la herramienta no se asoció a una reducción global de la carga de mensajes fuera de horario. Se vinculó con menos respuestas fuera de horario a consultas sobre resultados de pruebas recibidas en horario laboral, pero con más respuestas fuera de horario a mensajes recibidos fuera de horario."
-              },
-              {
-                "t": "p",
-                "x": "Los autores concluyen que la herramienta puede reducir la barrera para responder a ciertos mensajes, aunque no reduce la carga de manera uniforme."
+                "x": "Google afirma que creó el marco y que aún lo usa para revisar sus propios modelos, y que comparte la metodología para promover la transparencia y ayudar a desarrolladores, investigadores y clínicos a crear herramientas de AI en las que la gente pueda confiar."
               }
             ]
           }
@@ -869,15 +839,15 @@
       }
     },
     {
-      "id": "medicine-mantis-pediatric-tumors",
+      "id": "mount-sinai-delirium-ml",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MANTIS, 소아 뇌종양\n환자 생존을 예측한다",
-      "body": "MANTIS가 DNA 메틸화와 신경망으로 수모세포종·뇌실막세포종 생존을 내다본다.",
-      "mini_headline": "AI로 소아 종양 생존 예측",
+      "headline": "실사용 섬망 위험 모델,\n타 병원서도 검증",
+      "body": "Mount Sinai의 섬망 모델은 타 병원 검증서 AUROC 0.91을 지켰다.",
+      "mini_headline": "섬망 예측 모델, 외부 검증 통과",
       "tool": "Medicine",
-      "source": "Nature Genetics",
-      "url": "https://www.nature.com/articles/s41588-026-02815-4",
+      "source": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42142",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -885,185 +855,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "MANTIS(시간 의존적 개인별 생존 예측을 위한 메틸화 프로파일링 및 인공신경망)는 수모세포종과 뇌실막세포종의 예후를 예측하는 정밀 AI 도구다. 환자 2,786명의 전장 유전체 DNA 메틸화 어레이 데이터로 만들었다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-            "cap": "Fig. 1: 신경망 구조와 학습 개요."
+            "x": "이 질 향상 연구는 비ICU(non-ICU) 병동에 입원한 60세 이상 환자의 섬망 위험을 층화하는 모델을 평가했다. 자연어 처리를 결합한 융합 멀티모달 모델이다. 모델은 2024년 12월부터 2025년 12월까지 Mount Sinai Hospital(MSH)에서 실제로 운영됐고, Mount Sinai Morningside(MSM)에서 외부 검증을 받았다."
           },
           {
             "t": "p",
-            "x": "이 도구는 10년에 걸친 개인별 생존 확률을 내놓는다. 일치도 지수는 최고 0.80 ± 0.07로 현재 임상 지표를 크게 웃돈다. 수모세포종 환자 898명으로 구성된 독립 임상시험 코호트 세 곳에서 검증을 마쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-            "cap": "Fig. 5: 표준 위험군 MB 환자 다수는 더 낮은 CSI 선량으로 이득을 볼 수 있다."
+            "x": "표본은 입원 33,095건이다. 실제 운영 중 점수가 매겨진 MSM 입원 9,020건을 점수가 매겨진 MSH 입원 21,186건과 비교했다. 두 환자군은 연령, 성별, 인종·민족, 진단 유형, 재원 기간, 치매 유병률이 서로 달랐다."
           },
           {
             "t": "p",
-            "x": "개인별 치료 효과 추정으로 범위를 넓힌 MANTIS는 두개척수 방사선량을 낮춰 치료해도 유의한 생존 불이익이 없는(P = 0.683) 표준 위험군 수모세포종 환자를 ~60% 가려낸다. 낮은 선량은 더 나은 신경인지 결과와 연관된다."
+            "x": "모델은 재학습 없이도 AUROC가 MSM에서 0.91, MSH에서 0.94였고 양성 예측도는 각각 25.9%와 19.4%였다. MSM의 월평균 섬망 검출률은 도입 뒤 9.23%에서 19.59%로 올랐다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 모델이 외부 기관에서도 수용 가능한 판별력을 유지하고 진단 수율을 높였지만 위양성률은 높았다고 결론 내렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MANTIS predicts survival in\nchildhood brain tumors",
-          "body": "MANTIS pairs DNA methylation with neural networks to forecast survival over time for medulloblastoma and ependymoma.",
-          "mini_headline": "AI survival forecasts for child tumors",
+          "headline": "Live delirium risk model\nvalidated across hospitals",
+          "body": "Mount Sinai's delirium risk model, already in clinical use, kept an AUROC of 0.91 when validated at a second hospital.",
+          "mini_headline": "Delirium model passes validation",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS (methylation profiling and artificial neural networks for time-dependent individualized survival predictions) is a precision AI tool for medulloblastoma and ependymoma outcome prediction, built on genome-wide DNA methylation array data from 2,786 patients."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: Overview of the neural network architecture and training."
+                "x": "This quality improvement study evaluated a fusion multimodal model with natural language processing that stratifies delirium risk for patients 60 or older admitted to non-ICU units, deployed live at Mount Sinai Hospital (MSH) and externally validated at Mount Sinai Morningside (MSM) from December 2024 to December 2025."
               },
               {
                 "t": "p",
-                "x": "It generates individualized survival probabilities over a 10-year period and achieves concordance indices as high as 0.80 ± 0.07, significantly exceeding current clinical indicators. It was validated in three independent clinical trial cohorts of 898 medulloblastoma patients."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: A majority of patients with average-risk MB may benefit from lower CSI doses."
+                "x": "The sample covered 33,095 admissions; 9,020 MSM admissions were scored during live operations and compared with 21,186 scored MSH admissions. The two patient populations differed in age, sex, race and ethnicity, diagnosis type, length of stay and dementia prevalence."
               },
               {
                 "t": "p",
-                "x": "Extended to estimate individualized treatment effects, MANTIS identifies ~60% of patients with average-risk medulloblastoma without a significant survival disadvantage (P = 0.683) when treated with less intensive craniospinal irradiation doses, which is associated with improved neurocognitive outcomes."
+                "x": "Without retraining, the model's AUROC was 0.91 at MSM and 0.94 at MSH, with positive predictive values of 25.9% and 19.4%. At MSM, the mean monthly delirium detection rate rose from 9.23% to 19.59% after deployment."
+              },
+              {
+                "t": "p",
+                "x": "The authors conclude the model kept acceptable discrimination at the external site and increased diagnostic yield, but with a high false positive rate."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MANTIS, 소아 뇌종양\n환자 생존을 예측한다",
-          "body": "MANTIS가 DNA 메틸화와 신경망으로 수모세포종·뇌실막세포종 생존을 내다본다.",
-          "mini_headline": "AI로 소아 종양 생존 예측",
+          "headline": "실사용 섬망 위험 모델,\n타 병원서도 검증",
+          "body": "Mount Sinai의 섬망 모델은 타 병원 검증서 AUROC 0.91을 지켰다.",
+          "mini_headline": "섬망 예측 모델, 외부 검증 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS(시간 의존적 개인별 생존 예측을 위한 메틸화 프로파일링 및 인공신경망)는 수모세포종과 뇌실막세포종의 예후를 예측하는 정밀 AI 도구다. 환자 2,786명의 전장 유전체 DNA 메틸화 어레이 데이터로 만들었다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: 신경망 구조와 학습 개요."
+                "x": "이 질 향상 연구는 비ICU(non-ICU) 병동에 입원한 60세 이상 환자의 섬망 위험을 층화하는 모델을 평가했다. 자연어 처리를 결합한 융합 멀티모달 모델이다. 모델은 2024년 12월부터 2025년 12월까지 Mount Sinai Hospital(MSH)에서 실제로 운영됐고, Mount Sinai Morningside(MSM)에서 외부 검증을 받았다."
               },
               {
                 "t": "p",
-                "x": "이 도구는 10년에 걸친 개인별 생존 확률을 내놓는다. 일치도 지수는 최고 0.80 ± 0.07로 현재 임상 지표를 크게 웃돈다. 수모세포종 환자 898명으로 구성된 독립 임상시험 코호트 세 곳에서 검증을 마쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: 표준 위험군 MB 환자 다수는 더 낮은 CSI 선량으로 이득을 볼 수 있다."
+                "x": "표본은 입원 33,095건이다. 실제 운영 중 점수가 매겨진 MSM 입원 9,020건을 점수가 매겨진 MSH 입원 21,186건과 비교했다. 두 환자군은 연령, 성별, 인종·민족, 진단 유형, 재원 기간, 치매 유병률이 서로 달랐다."
               },
               {
                 "t": "p",
-                "x": "개인별 치료 효과 추정으로 범위를 넓힌 MANTIS는 두개척수 방사선량을 낮춰 치료해도 유의한 생존 불이익이 없는(P = 0.683) 표준 위험군 수모세포종 환자를 ~60% 가려낸다. 낮은 선량은 더 나은 신경인지 결과와 연관된다."
+                "x": "모델은 재학습 없이도 AUROC가 MSM에서 0.91, MSH에서 0.94였고 양성 예측도는 각각 25.9%와 19.4%였다. MSM의 월평균 섬망 검출률은 도입 뒤 9.23%에서 19.59%로 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 모델이 외부 기관에서도 수용 가능한 판별력을 유지하고 진단 수율을 높였지만 위양성률은 높았다고 결론 내렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MANTIS、小児脳腫瘍の\n生存を予測",
-          "body": "MANTISはDNAメチル化とニューラルネットで髄芽腫と上衣腫の生存を経時的に予測する。",
-          "mini_headline": "AIで小児腫瘍の生存を予測",
+          "headline": "稼働中のせん妄リスク予測\n別の病院でも検証",
+          "body": "Mount Sinaiの稼働中のせん妄モデルは別病院でもAUROC 0.91を維持した。",
+          "mini_headline": "せん妄予測モデル、外部検証を通過",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS(時間依存的な個別生存予測のためのメチル化プロファイリングと人工ニューラルネットワーク)は、髄芽腫と上衣腫の転帰予測のための精密AIツールで、患者2,786人のゲノムワイドDNAメチル化アレイデータを基に構築された。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: ニューラルネットワークの構造と学習の概要。"
+                "x": "この質改善研究では、非ICU(non-ICU)病棟に入院した60歳以上の患者のせん妄リスクを層別化する、自然言語処理を組み込んだ融合型マルチモーダルモデルを評価した。モデルは2024年12月から2025年12月にかけてMount Sinai Hospital(MSH)で実運用され、Mount Sinai Morningside(MSM)で外部検証された。"
               },
               {
                 "t": "p",
-                "x": "10年間にわたる個別の生存確率を算出し、一致指数は最高0.80 ± 0.07に達して現行の臨床指標を大きく上回る。髄芽腫患者898人からなる三つの独立した臨床試験コホートで検証された。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: 標準リスクMB患者の多くは、より低いCSI線量の恩恵を受けうる。"
+                "x": "対象は33,095件の入院で、実運用中にスコア化されたMSMの9,020件を、スコア化されたMSHの21,186件と比較した。両病院の患者集団は年齢、性別、人種・民族、診断の種類、在院日数、認知症の有病率が異なっていた。"
               },
               {
                 "t": "p",
-                "x": "個別の治療効果の推定に拡張すると、MANTISは、強度を下げた頭蓋脊髄照射線量で治療しても有意な生存上の不利益がない(P = 0.683)標準リスク髄芽腫患者を~60%特定する。低線量は神経認知機能の転帰改善と関連している。"
+                "x": "再学習なしで、モデルのAUROCはMSMで0.91、MSHで0.94、陽性的中率はそれぞれ25.9%と19.4%だった。MSMでは導入後、せん妄の月平均検出率が9.23%から19.59%に上昇した。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、モデルが外部施設でも許容できる識別能を保ち診断の収率を高めた一方、偽陽性率は高かったと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MANTIS预测\n儿童脑肿瘤生存",
-          "body": "MANTIS结合DNA甲基化与神经网络，随时间预测髓母细胞瘤和室管膜瘤的生存。",
-          "mini_headline": "AI预测儿童肿瘤生存",
+          "headline": "已上线谵妄风险模型\n通过跨医院验证",
+          "body": "Mount Sinai已临床应用的谵妄风险模型在第二家医院验证中AUROC保持0.91。",
+          "mini_headline": "谵妄模型通过外部验证",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS（用于时间依赖性个体化生存预测的甲基化谱分析与人工神经网络）是一款用于预测髓母细胞瘤和室管膜瘤预后的精准AI工具，基于2,786名患者的全基因组DNA甲基化芯片数据构建。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: 神经网络架构与训练概览。"
+                "x": "这项质量改进研究评估了一种结合自然语言处理的融合多模态模型，用于对入住非ICU（non-ICU）病房的60岁及以上患者进行谵妄风险分层。该模型于2024年12月至2025年12月在Mount Sinai Hospital（MSH）实际部署，并在Mount Sinai Morningside（MSM）进行外部验证。"
               },
               {
                 "t": "p",
-                "x": "它可生成10年期内的个体化生存概率，一致性指数最高达0.80 ± 0.07，显著优于现有临床指标。该工具已在三个独立临床试验队列共898名髓母细胞瘤患者中得到验证。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: 多数平均风险MB患者可能从更低的CSI剂量中获益。"
+                "x": "样本涵盖33,095例住院；实际运行期间评分的9,020例MSM住院与21,186例已评分的MSH住院进行了比较。两组患者在年龄、性别、种族和族裔、诊断类型、住院时长及痴呆患病率方面存在差异。"
               },
               {
                 "t": "p",
-                "x": "扩展用于估计个体化治疗效果后，MANTIS识别出~60%的平均风险髓母细胞瘤患者在接受强度较低的颅脊髓照射剂量治疗时无显著生存劣势（P = 0.683），而较低剂量与神经认知结局改善相关。"
+                "x": "在未重新训练的情况下，模型在MSM的AUROC为0.91，在MSH为0.94，阳性预测值分别为25.9%和19.4%。部署后，MSM的月均谵妄检出率从9.23%升至19.59%。"
+              },
+              {
+                "t": "p",
+                "x": "作者认为，该模型在外部机构保持了可接受的区分能力并提高了诊断检出率，但假阳性率较高。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MANTIS predice la supervivencia\nen tumores cerebrales de niños",
-          "body": "MANTIS une metilación del DNA y redes neuronales para prever la supervivencia en meduloblastoma y ependimoma.",
-          "mini_headline": "Pronósticos de supervivencia con AI en tumores infantiles",
+          "headline": "Modelo de riesgo de delirio\nen uso, validado en otro centro",
+          "body": "El modelo de delirio de Mount Sinai, ya en uso clínico, mantuvo un AUROC de 0.91 al validarse en otro hospital.",
+          "mini_headline": "Modelo de delirio supera la validación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS (perfiles de metilación y redes neuronales artificiales para predicciones de supervivencia individualizadas y dependientes del tiempo) es una herramienta de AI de precisión para predecir la evolución del meduloblastoma y el ependimoma, construida con datos de matrices de metilación del DNA de todo el genoma de 2,786 pacientes."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de la arquitectura de la red neuronal y su entrenamiento."
+                "x": "Este estudio de mejora de la calidad evaluó un modelo multimodal de fusión con procesamiento del lenguaje natural que estratifica el riesgo de delirio en pacientes de 60 años o más ingresados en unidades non-ICU (fuera de la UCI); se implantó en funcionamiento real en Mount Sinai Hospital (MSH) y se validó externamente en Mount Sinai Morningside (MSM) entre diciembre de 2024 y diciembre de 2025."
               },
               {
                 "t": "p",
-                "x": "Genera probabilidades de supervivencia individualizadas a lo largo de un periodo de 10 años y alcanza índices de concordancia de hasta 0.80 ± 0.07, superando significativamente los indicadores clínicos actuales. Se validó en tres cohortes independientes de ensayos clínicos con 898 pacientes con meduloblastoma."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: La mayoría de los pacientes con MB de riesgo medio podrían beneficiarse de dosis de CSI más bajas."
+                "x": "La muestra abarcó 33,095 ingresos; 9,020 ingresos de MSM puntuados durante la operación real se compararon con 21,186 ingresos puntuados de MSH. Ambas poblaciones de pacientes diferían en edad, sexo, raza y etnia, tipo de diagnóstico, duración de la estancia y prevalencia de demencia."
               },
               {
                 "t": "p",
-                "x": "Ampliado para estimar efectos individualizados del tratamiento, MANTIS identifica a ~60% de los pacientes con meduloblastoma de riesgo medio sin una desventaja significativa de supervivencia (P = 0.683) al tratarlos con dosis menos intensas de irradiación craneoespinal, lo que se asocia con mejores resultados neurocognitivos."
+                "x": "Sin reentrenamiento, el AUROC del modelo fue de 0.91 en MSM y de 0.94 en MSH, con valores predictivos positivos de 25.9% y 19.4%. En MSM, la tasa media mensual de detección de delirio subió del 9.23% al 19.59% tras la implantación."
+              },
+              {
+                "t": "p",
+                "x": "Los autores concluyen que el modelo mantuvo una discriminación aceptable en el centro externo y aumentó el rendimiento diagnóstico, aunque con una tasa elevada de falsos positivos."
               }
             ]
           }
@@ -1071,129 +1005,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MANTIS, 소아 뇌종양\n환자 생존을 예측한다",
-          "body": "MANTIS는 DNA 메틸화와 신경망으로 수모세포종·뇌실막세포종 생존을 예측한다.",
-          "mini_headline": "AI로 소아 종양 생존 예측",
+          "headline": "실사용 섬망 위험 모델,\n타 병원서도 검증",
+          "body": "Mount Sinai의 섬망 모델은 타 병원 검증서 AUROC 0.91을 지켰다.",
+          "mini_headline": "섬망 예측 모델, 외부 검증 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS(시간 의존적 개인별 생존 예측을 위한 메틸화 프로파일링 및 인공신경망)는 수모세포종과 뇌실막세포종의 예후 예측을 위한 정밀 AI 도구로, 환자 2,786명의 전장 유전체 DNA 메틸화 어레이 데이터를 바탕으로 만들어졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: 신경망 구조와 학습 개요."
+                "x": "이 질 향상 연구는 비ICU(non-ICU) 병동에 입원한 60세 이상 환자의 섬망 위험을 층화하는, 자연어 처리를 결합한 융합 멀티모달 모델을 평가했다. 모델은 2024년 12월부터 2025년 12월까지 Mount Sinai Hospital(MSH)에서 실제 운영됐고 Mount Sinai Morningside(MSM)에서 외부 검증을 받았다."
               },
               {
                 "t": "p",
-                "x": "이 도구는 10년에 걸친 개인별 생존 확률을 산출하며, 일치도 지수가 최고 0.80 ± 0.07에 이르러 현재 임상 지표를 크게 웃돈다. 수모세포종 환자 898명으로 이뤄진 독립 임상시험 코호트 세 곳에서 검증됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: 표준 위험군 MB 환자 다수는 더 낮은 CSI 선량으로 이득을 볼 수 있다."
+                "x": "표본은 입원 33,095건이었다. 실제 운영 중 점수가 매겨진 MSM 입원 9,020건을 점수가 매겨진 MSH 입원 21,186건과 비교했다. 두 환자군은 연령, 성별, 인종·민족, 진단 유형, 재원 기간, 치매 유병률에서 차이가 있었다."
               },
               {
                 "t": "p",
-                "x": "개인별 치료 효과 추정으로 확장한 MANTIS는 강도를 낮춘 두개척수 방사선량으로 치료해도 유의한 생존 불이익이 없는(P = 0.683) 표준 위험군 수모세포종 환자를 ~60% 가려낸다. 낮은 선량은 신경인지 결과 개선과 연관된다."
+                "x": "재학습 없이도 모델의 AUROC는 MSM에서 0.91, MSH에서 0.94였고, 양성 예측도는 각각 25.9%와 19.4%였다. MSM의 월평균 섬망 검출률은 도입 후 9.23%에서 19.59%로 올랐다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 이 모델이 외부 기관에서도 수용 가능한 판별력을 유지하고 진단 수율을 높였지만, 위양성률이 높았다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MANTIS、小児脳腫瘍の\n生存を予測",
-          "body": "MANTISはDNAメチル化とニューラルネットで髄芽腫と上衣腫の生存を経時的に予測する。",
-          "mini_headline": "AIで小児腫瘍の生存を予測",
+          "headline": "稼働中のせん妄リスク予測\n別の病院でも検証",
+          "body": "Mount Sinaiの稼働中のせん妄モデルは別病院でもAUROC 0.91を維持した。",
+          "mini_headline": "せん妄予測モデル、外部検証を通過",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS(時間依存的な個別生存予測のためのメチル化プロファイリングと人工ニューラルネットワーク)は、髄芽腫と上衣腫の転帰予測のための精密AIツールで、患者2,786人のゲノムワイドDNAメチル化アレイデータを基に構築された。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: ニューラルネットワークの構造と学習の概要。"
+                "x": "この質改善研究では、非ICU(non-ICU)病棟に入院した60歳以上の患者のせん妄リスクを層別化する、自然言語処理を組み込んだ融合型マルチモーダルモデルを評価した。モデルは2024年12月から2025年12月にかけてMount Sinai Hospital(MSH)で実運用され、Mount Sinai Morningside(MSM)で外部検証された。"
               },
               {
                 "t": "p",
-                "x": "10年間にわたる個別の生存確率を算出し、一致指数は最高0.80 ± 0.07に達して現行の臨床指標を大きく上回る。髄芽腫患者898人からなる三つの独立した臨床試験コホートで検証された。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: 標準リスクMB患者の多くは、より低いCSI線量の恩恵を受けうる。"
+                "x": "対象は33,095件の入院で、実運用中にスコア化されたMSMの9,020件を、スコア化されたMSHの21,186件と比較した。両病院の患者集団は年齢、性別、人種・民族、診断の種類、在院日数、認知症の有病率が異なっていた。"
               },
               {
                 "t": "p",
-                "x": "個別の治療効果の推定に拡張すると、MANTISは、強度を下げた頭蓋脊髄照射線量で治療しても有意な生存上の不利益がない(P = 0.683)標準リスク髄芽腫患者を~60%特定する。低線量は神経認知機能の転帰改善と関連している。"
+                "x": "再学習なしで、モデルのAUROCはMSMで0.91、MSHで0.94、陽性的中率はそれぞれ25.9%と19.4%だった。MSMでは導入後、せん妄の月平均検出率が9.23%から19.59%に上昇した。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、モデルが外部施設でも許容できる識別能を保ち診断の収率を高めた一方、偽陽性率は高かったと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MANTIS预测\n儿童脑肿瘤生存",
-          "body": "MANTIS结合DNA甲基化与神经网络，随时间预测髓母细胞瘤和室管膜瘤的生存。",
-          "mini_headline": "AI预测儿童肿瘤生存",
+          "headline": "已上线谵妄风险模型\n通过跨医院验证",
+          "body": "Mount Sinai已临床应用的谵妄风险模型在第二家医院验证中AUROC保持0.91。",
+          "mini_headline": "谵妄模型通过外部验证",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS（用于时间依赖性个体化生存预测的甲基化谱分析与人工神经网络）是一款用于预测髓母细胞瘤和室管膜瘤预后的精准AI工具，基于2,786名患者的全基因组DNA甲基化芯片数据构建。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: 神经网络架构与训练概览。"
+                "x": "这项质量改进研究评估了一种结合自然语言处理的融合多模态模型，用于对入住非ICU（non-ICU）病房的60岁及以上患者进行谵妄风险分层。该模型于2024年12月至2025年12月在Mount Sinai Hospital（MSH）实际部署，并在Mount Sinai Morningside（MSM）进行外部验证。"
               },
               {
                 "t": "p",
-                "x": "它可生成10年期内的个体化生存概率，一致性指数最高达0.80 ± 0.07，显著优于现有临床指标。该工具已在三个独立临床试验队列共898名髓母细胞瘤患者中得到验证。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: 多数平均风险MB患者可能从更低的CSI剂量中获益。"
+                "x": "样本涵盖33,095例住院；实际运行期间评分的9,020例MSM住院与21,186例已评分的MSH住院进行了比较。两组患者在年龄、性别、种族和族裔、诊断类型、住院时长及痴呆患病率方面存在差异。"
               },
               {
                 "t": "p",
-                "x": "扩展用于估计个体化治疗效果后，MANTIS识别出~60%的平均风险髓母细胞瘤患者在接受强度较低的颅脊髓照射剂量治疗时无显著生存劣势（P = 0.683），而较低剂量与神经认知结局改善相关。"
+                "x": "在未重新训练的情况下，模型在MSM的AUROC为0.91，在MSH为0.94，阳性预测值分别为25.9%和19.4%。部署后，MSM的月均谵妄检出率从9.23%升至19.59%。"
+              },
+              {
+                "t": "p",
+                "x": "作者认为，该模型在外部机构保持了可接受的区分能力并提高了诊断检出率，但假阳性率较高。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MANTIS predice la supervivencia\nen tumores cerebrales de niños",
-          "body": "MANTIS une metilación del DNA y redes neuronales para prever la supervivencia en meduloblastoma y ependimoma.",
-          "mini_headline": "Pronósticos de supervivencia con AI en tumores infantiles",
+          "headline": "Modelo de riesgo de delirio\nen uso, validado en otro centro",
+          "body": "El modelo de delirio de Mount Sinai, ya en uso clínico, mantuvo un AUROC de 0.91 al validarse en otro hospital.",
+          "mini_headline": "Modelo de delirio supera la validación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MANTIS (perfiles de metilación y redes neuronales artificiales para predicciones de supervivencia individualizadas y dependientes del tiempo) es una herramienta de AI de precisión para predecir la evolución del meduloblastoma y el ependimoma, construida con datos de matrices de metilación del DNA de todo el genoma de 2,786 pacientes."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de la arquitectura de la red neuronal y su entrenamiento."
+                "x": "Este estudio de mejora de la calidad evaluó un modelo multimodal de fusión con procesamiento del lenguaje natural que estratifica el riesgo de delirio en pacientes de 60 años o más ingresados en unidades non-ICU (fuera de la UCI); se implantó en funcionamiento real en Mount Sinai Hospital (MSH) y se validó externamente en Mount Sinai Morningside (MSM) entre diciembre de 2024 y diciembre de 2025."
               },
               {
                 "t": "p",
-                "x": "Genera probabilidades de supervivencia individualizadas a lo largo de un periodo de 10 años y alcanza índices de concordancia de hasta 0.80 ± 0.07, superando significativamente los indicadores clínicos actuales. Se validó en tres cohortes independientes de ensayos clínicos con 898 pacientes con meduloblastoma."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
-                "cap": "Fig. 5: La mayoría de los pacientes con MB de riesgo medio podrían beneficiarse de dosis de CSI más bajas."
+                "x": "La muestra abarcó 33,095 ingresos; 9,020 ingresos de MSM puntuados durante la operación real se compararon con 21,186 ingresos puntuados de MSH. Ambas poblaciones de pacientes diferían en edad, sexo, raza y etnia, tipo de diagnóstico, duración de la estancia y prevalencia de demencia."
               },
               {
                 "t": "p",
-                "x": "Ampliado para estimar efectos individualizados del tratamiento, MANTIS identifica a ~60% de los pacientes con meduloblastoma de riesgo medio sin una desventaja significativa de supervivencia (P = 0.683) al tratarlos con dosis menos intensas de irradiación craneoespinal, lo que se asocia con mejores resultados neurocognitivos."
+                "x": "Sin reentrenamiento, el AUROC del modelo fue de 0.91 en MSM y de 0.94 en MSH, con valores predictivos positivos de 25.9% y 19.4%. En MSM, la tasa media mensual de detección de delirio subió del 9.23% al 19.59% tras la implantación."
+              },
+              {
+                "t": "p",
+                "x": "Los autores concluyen que el modelo mantuvo una discriminación aceptable en el centro externo y aumentó el rendimiento diagnóstico, aunque con una tasa elevada de falsos positivos."
               }
             ]
           }
@@ -1201,189 +1111,171 @@
       }
     },
     {
-      "id": "medicine-stanford-preterm-twins",
+      "id": "nejm-ai-physical-limits",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "면역 디지털 트윈,\n조산 막을 약 찾는다",
-      "body": "Stanford가 AI 임신 면역 디지털 트윈으로 조산을 막을 기존 약을 찾았다.",
-      "mini_headline": "디지털 트윈이 짚은 조산 약물",
+      "headline": "의사 전문 분야별로 본\nAI의 물리적 한계",
+      "body": "진찰·생검·수술을 못 하는 AI의 분야별 대체 노출도를 NEJM AI가 짚었다.",
+      "mini_headline": "의료에서 AI의 물리적 한계",
       "tool": "Medicine",
-      "source": "Stanford Medicine",
-      "url": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug.html",
+      "source": "NEJM AI",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600957",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "NEJM AI에 실린 이 관점 논문에서 Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova, Maria Polyakova는 의사 전문 분야 전반에서 AI 대체를 가로막는 물리적 한계와, 그 한계가 의사 인력에 주는 함의를 살폈다."
+          },
+          {
             "t": "img",
-            "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+            "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+            "cap": "전문 분야별 지급액 비중: 물리적 서비스(소프트웨어 기반 AI로 대체 불가), E&M, 비물리적 서비스(대체 가능성 있음)."
           },
           {
             "t": "p",
-            "x": "Stanford Medicine 연구진이 임신 중 면역계 변화를 담은 AI-enabled 모델을 만들었다. 임신부 한 사람 한 사람의 면역계를 본뜬 “디지털 트윈”으로 가상 약물 시험을 할 수 있다. 연구는 Oct. 21 Science Advances 온라인판에 실렸다."
+            "x": "56개 전문 분야 전체(지급액 US$44.9bn)를 보면 지급액의 24%가 물리적 서비스, 55%가 평가·관리, 21%가 AI로 대체될 가능성이 있는 비물리적 서비스에 쓰였다."
           },
           {
             "t": "p",
-            "x": "SIMCO(임상 결과의 시뮬레이션 면역 모델링)라는 이 시스템은 세포 이억오천만 개의 반응과 임신 63건의 종단 데이터로 학습했고 임신 중 안전하다고 이미 알려진 약물 요법 아홉 가지를 평가하는 데 쓰였다."
-          },
-          {
-            "t": "p",
-            "x": "가장 효과가 큰 조합은 아스피린과 란소프라졸이었다. 책임저자 Brice Gaudilliere는 “디지털 트윈 시스템에서 두 약물을 함께 쓰자 분만 지연 효과가 컸고, 아스피린 단독보다 15배 높았다”고 말했다. 엽산 역시 분만으로 향하는 면역학적 진행을 늦췄다."
-          },
-          {
-            "t": "p",
-            "x": "이 조합은 동물 모델에서도 분만을 늦췄다. 연구진은 사람 대상 임상시험에 필요한 FDA 승인을 받았다."
+            "x": "노출 정도는 분야마다 크게 갈린다. 병리학 지급액의 99%, 진단 영상의학의 96%가 비물리적 업무다. 반면 피부과는 68%, 정형외과는 53%가 물리적 서비스다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Immune digital twins point to\ndrugs against preterm labor",
-          "body": "Stanford built AI digital twins of pregnancy immune changes to find existing drugs that might prevent preterm labor.",
-          "mini_headline": "Digital twins flag preterm labor drugs",
+          "headline": "The physical limits of AI\nacross physician specialties",
+          "body": "Since software cannot examine, biopsy or operate, NEJM AI maps each specialty's exposure to AI substitution.",
+          "mini_headline": "AI's physical limits in medicine",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "In this NEJM AI perspective, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova and Maria Polyakova examine physical limits to AI substitution across physician specialties and what they imply for the physician workforce."
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "Share of payments by specialty: physical (not substitutable by software-based AI), E&M, and nonphysical (potentially substitutable)."
               },
               {
                 "t": "p",
-                "x": "Stanford Medicine researchers built an AI-enabled model of immune system changes in pregnancy, creating “digital twins” of individual pregnant women’s immune systems for virtual drug testing. The study published online Oct. 21 in Science Advances."
+                "x": "Across all 56 specialties (US$44.9bn in payments), 24% of payments are for physical services, 55% for evaluation and management, and 21% for nonphysical services potentially substitutable by AI."
               },
               {
                 "t": "p",
-                "x": "The system, called SIMCO (simulated immune modeling of clinical outcomes), was trained on responses from a quarter of a billion cells and longitudinal data from 63 pregnancies, then used to evaluate nine drug regimens already known to be safe for pregnancy."
-              },
-              {
-                "t": "p",
-                "x": "The winning combination was aspirin and lansoprazole. “In the digital twin system, these two drugs in combination had a large effect on the delay of labor, 15 times higher than aspirin alone,” said senior author Brice Gaudilliere. Folic acid was also found to delay immunological progression toward labor."
-              },
-              {
-                "t": "p",
-                "x": "The combination delayed labor in an animal model, and the researchers obtained FDA approval to test it in a human clinical trial."
+                "x": "Exposure varies widely: nonphysical work makes up 99% of pathology and 96% of diagnostic radiology payments, while physical services account for 68% in dermatology and 53% in orthopedic surgery."
               }
             ]
           }
         },
         "ko": {
-          "headline": "면역 디지털 트윈,\n조산 막을 약 찾는다",
-          "body": "Stanford가 AI 임신 면역 디지털 트윈으로 조산을 막을 기존 약을 찾았다.",
-          "mini_headline": "디지털 트윈이 짚은 조산 약물",
+          "headline": "의사 전문 분야별로 본\nAI의 물리적 한계",
+          "body": "진찰·생검·수술을 못 하는 AI의 분야별 대체 노출도를 NEJM AI가 짚었다.",
+          "mini_headline": "의료에서 AI의 물리적 한계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "NEJM AI에 실린 이 관점 논문에서 Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova, Maria Polyakova는 의사 전문 분야 전반에서 AI 대체를 가로막는 물리적 한계와, 그 한계가 의사 인력에 주는 함의를 살폈다."
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "전문 분야별 지급액 비중: 물리적 서비스(소프트웨어 기반 AI로 대체 불가), E&M, 비물리적 서비스(대체 가능성 있음)."
               },
               {
                 "t": "p",
-                "x": "Stanford Medicine 연구진이 임신 중 면역계 변화를 담은 AI-enabled 모델을 만들었다. 임신부 한 사람 한 사람의 면역계를 본뜬 “디지털 트윈”으로 가상 약물 시험을 할 수 있다. 연구는 Oct. 21 Science Advances 온라인판에 실렸다."
+                "x": "56개 전문 분야 전체(지급액 US$44.9bn)를 보면 지급액의 24%가 물리적 서비스, 55%가 평가·관리, 21%가 AI로 대체될 가능성이 있는 비물리적 서비스에 쓰였다."
               },
               {
                 "t": "p",
-                "x": "SIMCO(임상 결과의 시뮬레이션 면역 모델링)라는 이 시스템은 세포 이억오천만 개의 반응과 임신 63건의 종단 데이터로 학습했고 임신 중 안전하다고 이미 알려진 약물 요법 아홉 가지를 평가하는 데 쓰였다."
-              },
-              {
-                "t": "p",
-                "x": "가장 효과가 큰 조합은 아스피린과 란소프라졸이었다. 책임저자 Brice Gaudilliere는 “디지털 트윈 시스템에서 두 약물을 함께 쓰자 분만 지연 효과가 컸고, 아스피린 단독보다 15배 높았다”고 말했다. 엽산 역시 분만으로 향하는 면역학적 진행을 늦췄다."
-              },
-              {
-                "t": "p",
-                "x": "이 조합은 동물 모델에서도 분만을 늦췄다. 연구진은 사람 대상 임상시험에 필요한 FDA 승인을 받았다."
+                "x": "노출 정도는 분야마다 크게 갈린다. 병리학 지급액의 99%, 진단 영상의학의 96%가 비물리적 업무다. 반면 피부과는 68%, 정형외과는 53%가 물리적 서비스다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "免疫デジタルツインが\n早産を防ぐ薬を示す",
-          "body": "StanfordはAIで妊娠時の免疫変化をデジタルツイン化し、早産を防ぎうる既存薬を探す。",
-          "mini_headline": "デジタルツインが早産の薬を示す",
+          "headline": "診療科ごとに見る\nAIの物理的な限界",
+          "body": "ソフトは診察・生検・手術ができないとし、NEJM AIが診療科別のAI代替度を分析した。",
+          "mini_headline": "医療におけるAIの物理的限界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "このNEJM AIのパースペクティブ論文で、Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova、Maria Polyakovaは、診療科ごとにAIによる代替を阻む物理的な限界と、それが医師の労働力に与える影響を検討した。"
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "診療科別の支払い構成比:物理的サービス(ソフトウェアベースのAIでは代替不可)、E&M、非物理的サービス(代替の可能性あり)。"
               },
               {
                 "t": "p",
-                "x": "Stanford Medicineの研究チームは、妊娠中の免疫系の変化をとらえるAI-enabledモデルを構築し、個々の妊婦の免疫系の「デジタルツイン」を作って仮想的な薬剤試験を可能にした。研究はOct. 21、Science Advancesにオンライン掲載された。"
+                "x": "全56診療科(支払総額US$44.9bn)では、支払いの24%が物理的サービス、55%が評価・管理、21%がAIで代替されうる非物理的サービスに充てられている。"
               },
               {
                 "t": "p",
-                "x": "SIMCO(臨床転帰の模擬免疫モデリング)と呼ばれるこのシステムは、二億五千万個の細胞の反応と63件の妊娠の縦断データで学習した後、妊娠中の安全性がすでに知られている九つの薬剤レジメンの評価に使われた。"
-              },
-              {
-                "t": "p",
-                "x": "最も効果が高かった組み合わせはアスピリンとランソプラゾールだった。責任著者のBrice Gaudilliere氏は「デジタルツインシステムでは、この二つの薬の併用が分娩の遅延に大きな効果を示し、アスピリン単独の15倍だった」と述べた。葉酸にも、分娩に向けた免疫学的な進行を遅らせる作用が見つかった。"
-              },
-              {
-                "t": "p",
-                "x": "この組み合わせは動物モデルで分娩を遅らせ、研究者らはヒトでの臨床試験に向けてFDAの承認を得た。"
+                "x": "代替リスクの度合いは大きく異なる。病理では支払いの99%、画像診断では96%が非物理的業務である一方、皮膚科では68%、整形外科では53%を物理的サービスが占める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "免疫数字孪生\n指向防早产药物",
-          "body": "Stanford用AI构建孕期免疫变化的数字孪生，寻找可能预防早产的现有药物。",
-          "mini_headline": "数字孪生锁定早产候选药",
+          "headline": "AI的物理局限\n在各医生专科的体现",
+          "body": "由于软件无法查体、活检或手术，NEJM AI梳理了各专科被AI替代的风险敞口。",
+          "mini_headline": "AI在医学中的物理局限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "在这篇NEJM AI观点文章中，Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova和Maria Polyakova探讨了各医生专科中AI替代所面临的物理局限，以及这对医生队伍意味着什么。"
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "各专科支付占比：物理性服务（不可被基于软件的AI替代）、E&M，以及非物理性服务（可能被替代）。"
               },
               {
                 "t": "p",
-                "x": "Stanford Medicine研究人员构建了一个AI-enabled的孕期免疫系统变化模型，为每位孕妇的免疫系统创建“数字孪生”，用于虚拟药物测试。该研究于Oct. 21在线发表于Science Advances。"
+                "x": "在全部56个专科（支付总额US$44.9bn）中，24%的支付用于物理性服务，55%用于评估与管理，21%用于可能被AI替代的非物理性服务。"
               },
               {
                 "t": "p",
-                "x": "这一名为SIMCO（临床结局模拟免疫建模）的系统，基于两亿五千万个细胞的反应以及63例妊娠的纵向数据训练，随后用于评估九种已知对孕期安全的药物方案。"
-              },
-              {
-                "t": "p",
-                "x": "效果最好的组合是阿司匹林和兰索拉唑。“在数字孪生系统中，这两种药物联用对延迟分娩效果显著，是单用阿司匹林的15倍，”资深作者Brice Gaudilliere说。研究还发现，叶酸也能延缓走向分娩的免疫进程。"
-              },
-              {
-                "t": "p",
-                "x": "该组合在动物模型中延迟了分娩，研究人员已获得FDA批准，将在人体临床试验中进行测试。"
+                "x": "各专科的暴露程度差异很大：病理科99%、诊断放射科96%的支付来自非物理性工作，而皮肤科和骨科分别有68%和53%来自物理性服务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemelos digitales señalan\nfármacos ante el parto prematuro",
-          "body": "Stanford creó gemelos digitales inmunes del embarazo con AI para buscar fármacos existentes contra el parto prematuro.",
-          "mini_headline": "Gemelos digitales señalan fármacos contra el parto prematuro",
+          "headline": "Los límites físicos de la AI\nen las especialidades médicas",
+          "body": "Como el software no explora, biopsia ni opera, NEJM AI mide la exposición por especialidad a la sustitución por AI.",
+          "mini_headline": "Los límites físicos de la AI en medicina",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "En esta perspectiva de NEJM AI, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova y Maria Polyakova examinan los límites físicos a la sustitución por AI en las distintas especialidades médicas y lo que implican para la fuerza laboral médica."
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "Proporción de pagos por especialidad: servicios físicos (no sustituibles por AI basada en software), E&M y no físicos (potencialmente sustituibles)."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Stanford Medicine crearon un modelo AI-enabled de los cambios del sistema inmunitario durante el embarazo y generaron “gemelos digitales” del sistema inmunitario de cada embarazada para hacer pruebas virtuales de fármacos. El estudio se publicó en línea el 21 de octubre en Science Advances."
+                "x": "En las 56 especialidades (US$44.9bn en pagos), el 24% de los pagos corresponde a servicios físicos, el 55% a evaluación y gestión, y el 21% a servicios no físicos potencialmente sustituibles por AI."
               },
               {
                 "t": "p",
-                "x": "El sistema, llamado SIMCO (modelado inmunitario simulado de resultados clínicos), se entrenó con las respuestas de un cuarto de mil millones de células y datos longitudinales de 63 embarazos, y luego se usó para evaluar nueve pautas farmacológicas cuya seguridad en el embarazo ya se conocía."
-              },
-              {
-                "t": "p",
-                "x": "La combinación ganadora fue aspirina y lansoprazol. “En el sistema de gemelos digitales, estos dos fármacos combinados tuvieron un gran efecto en el retraso del parto, 15 veces mayor que la aspirina sola”, dijo el autor sénior, Brice Gaudilliere. También se observó que el ácido fólico retrasa la progresión inmunológica hacia el parto."
-              },
-              {
-                "t": "p",
-                "x": "La combinación retrasó el parto en un modelo animal, y los investigadores obtuvieron la aprobación de la FDA para probarla en un ensayo clínico en humanos."
+                "x": "La exposición varía mucho: el trabajo no físico representa el 99% de los pagos en patología y el 96% en radiología diagnóstica, mientras que los servicios físicos suponen el 68% en dermatología y el 53% en cirugía ortopédica."
               }
             ]
           }
@@ -1391,121 +1283,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "면역 디지털 트윈,\n조산 막을 약 찾는다",
-          "body": "Stanford가 AI 임신 면역 디지털 트윈으로 조산 막을 기존 약을 찾는다.",
-          "mini_headline": "디지털 트윈이 짚은 조산 약물",
+          "headline": "의사 전문 분야별로 본\nAI의 물리적 한계",
+          "body": "진찰·생검·수술을 못 하는 AI의 분야별 대체 노출도를 NEJM AI가 짚었다.",
+          "mini_headline": "의료에서 AI의 물리적 한계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "이 NEJM AI 관점 논문에서 Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova, Maria Polyakova는 의사 전문 분야 전반에서 AI 대체를 가로막는 물리적 한계와 그것이 의사 인력에 주는 함의를 살폈다."
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "전문 분야별 지급액 비중: 물리적 서비스(소프트웨어 기반 AI로 대체 불가), E&M, 비물리적 서비스(대체 가능성 있음)."
               },
               {
                 "t": "p",
-                "x": "Stanford Medicine 연구진은 임신 중 면역계 변화를 담은 AI-enabled 모델을 만들어, 임신부 개개인의 면역계를 본뜬 “디지털 트윈”으로 가상 약물 시험을 할 수 있게 했다. 연구는 Oct. 21 Science Advances에 온라인으로 실렸다."
+                "x": "전체 56개 전문 분야(지급액 US$44.9bn)에서 지급액의 24%는 물리적 서비스, 55%는 평가·관리, 21%는 AI로 대체될 가능성이 있는 비물리적 서비스에 쓰였다."
               },
               {
                 "t": "p",
-                "x": "SIMCO(임상 결과의 시뮬레이션 면역 모델링)라는 이 시스템은 이억오천만 개 세포의 반응과 임신 63건의 종단 데이터로 학습한 뒤, 임신 중 안전하다고 이미 알려진 아홉 가지 약물 요법을 평가하는 데 쓰였다."
-              },
-              {
-                "t": "p",
-                "x": "가장 효과적인 조합은 아스피린과 란소프라졸이었다. 책임저자 Brice Gaudilliere는 “디지털 트윈 시스템에서 두 약물을 함께 쓰자 분만 지연 효과가 컸고, 아스피린 단독보다 15배 높았다”고 말했다. 엽산도 분만을 향한 면역학적 진행을 늦추는 것으로 나타났다."
-              },
-              {
-                "t": "p",
-                "x": "이 조합은 동물 모델에서 분만을 늦췄고, 연구진은 사람 대상 임상시험을 위한 FDA 승인을 받았다."
+                "x": "노출 정도는 분야마다 크게 다르다. 병리학 지급액의 99%, 진단 영상의학의 96%가 비물리적 업무인 반면, 피부과는 68%, 정형외과는 53%가 물리적 서비스다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "免疫デジタルツインが\n早産を防ぐ薬を示す",
-          "body": "StanfordはAIで妊娠時の免疫変化をデジタルツイン化し、早産を防ぎうる既存薬を探す。",
-          "mini_headline": "デジタルツインが早産の薬を示す",
+          "headline": "診療科ごとに見る\nAIの物理的な限界",
+          "body": "ソフトは診察・生検・手術ができないとし、NEJM AIが診療科別のAI代替度を分析した。",
+          "mini_headline": "医療におけるAIの物理的限界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "このNEJM AIのパースペクティブ論文で、Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova、Maria Polyakovaは、診療科ごとにAIによる代替を阻む物理的な限界と、それが医師の労働力に与える影響を検討した。"
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "診療科別の支払い構成比:物理的サービス(ソフトウェアベースのAIでは代替不可)、E&M、非物理的サービス(代替の可能性あり)。"
               },
               {
                 "t": "p",
-                "x": "Stanford Medicineの研究チームは、妊娠中の免疫系の変化をとらえるAI-enabledモデルを構築し、個々の妊婦の免疫系の「デジタルツイン」を作って仮想的な薬剤試験を可能にした。研究はOct. 21、Science Advancesにオンライン掲載された。"
+                "x": "全56診療科(支払総額US$44.9bn)では、支払いの24%が物理的サービス、55%が評価・管理、21%がAIで代替されうる非物理的サービスに充てられている。"
               },
               {
                 "t": "p",
-                "x": "SIMCO(臨床転帰の模擬免疫モデリング)と呼ばれるこのシステムは、二億五千万個の細胞の反応と63件の妊娠の縦断データで学習した後、妊娠中の安全性がすでに知られている九つの薬剤レジメンの評価に使われた。"
-              },
-              {
-                "t": "p",
-                "x": "最も効果が高かった組み合わせはアスピリンとランソプラゾールだった。責任著者のBrice Gaudilliere氏は「デジタルツインシステムでは、この二つの薬の併用が分娩の遅延に大きな効果を示し、アスピリン単独の15倍だった」と述べた。葉酸にも、分娩に向けた免疫学的な進行を遅らせる作用が見つかった。"
-              },
-              {
-                "t": "p",
-                "x": "この組み合わせは動物モデルで分娩を遅らせ、研究者らはヒトでの臨床試験に向けてFDAの承認を得た。"
+                "x": "代替リスクの度合いは大きく異なる。病理では支払いの99%、画像診断では96%が非物理的業務である一方、皮膚科では68%、整形外科では53%を物理的サービスが占める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "免疫数字孪生\n指向防早产药物",
-          "body": "Stanford用AI构建孕期免疫变化的数字孪生，寻找可能预防早产的现有药物。",
-          "mini_headline": "数字孪生锁定早产候选药",
+          "headline": "AI的物理局限\n在各医生专科的体现",
+          "body": "由于软件无法查体、活检或手术，NEJM AI梳理了各专科被AI替代的风险敞口。",
+          "mini_headline": "AI在医学中的物理局限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "在这篇NEJM AI观点文章中，Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova和Maria Polyakova探讨了各医生专科中AI替代所面临的物理局限，以及这对医生队伍意味着什么。"
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "各专科支付占比：物理性服务（不可被基于软件的AI替代）、E&M，以及非物理性服务（可能被替代）。"
               },
               {
                 "t": "p",
-                "x": "Stanford Medicine研究人员构建了一个AI-enabled的孕期免疫系统变化模型，为每位孕妇的免疫系统创建“数字孪生”，用于虚拟药物测试。该研究于Oct. 21在线发表于Science Advances。"
+                "x": "在全部56个专科（支付总额US$44.9bn）中，24%的支付用于物理性服务，55%用于评估与管理，21%用于可能被AI替代的非物理性服务。"
               },
               {
                 "t": "p",
-                "x": "这一名为SIMCO（临床结局模拟免疫建模）的系统，基于两亿五千万个细胞的反应以及63例妊娠的纵向数据训练，随后用于评估九种已知对孕期安全的药物方案。"
-              },
-              {
-                "t": "p",
-                "x": "效果最好的组合是阿司匹林和兰索拉唑。“在数字孪生系统中，这两种药物联用对延迟分娩效果显著，是单用阿司匹林的15倍，”资深作者Brice Gaudilliere说。研究还发现，叶酸也能延缓走向分娩的免疫进程。"
-              },
-              {
-                "t": "p",
-                "x": "该组合在动物模型中延迟了分娩，研究人员已获得FDA批准，将在人体临床试验中进行测试。"
+                "x": "各专科的暴露程度差异很大：病理科99%、诊断放射科96%的支付来自非物理性工作，而皮肤科和骨科分别有68%和53%来自物理性服务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemelos digitales señalan\nfármacos ante el parto prematuro",
-          "body": "Stanford creó gemelos digitales inmunes del embarazo con AI para buscar fármacos existentes contra el parto prematuro.",
-          "mini_headline": "Gemelos digitales señalan fármacos contra el parto prematuro",
+          "headline": "Los límites físicos de la AI\nen las especialidades médicas",
+          "body": "Como el software no explora, biopsia ni opera, NEJM AI mide la exposición por especialidad a la sustitución por AI.",
+          "mini_headline": "Los límites físicos de la AI en medicina",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "En esta perspectiva de NEJM AI, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova y Maria Polyakova examinan los límites físicos a la sustitución por AI en las distintas especialidades médicas y lo que implican para la fuerza laboral médica."
+              },
+              {
                 "t": "img",
-                "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+                "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+                "cap": "Proporción de pagos por especialidad: servicios físicos (no sustituibles por AI basada en software), E&M y no físicos (potencialmente sustituibles)."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Stanford Medicine crearon un modelo AI-enabled de los cambios del sistema inmunitario durante el embarazo y generaron “gemelos digitales” del sistema inmunitario de cada embarazada para hacer pruebas virtuales de fármacos. El estudio se publicó en línea el 21 de octubre en Science Advances."
+                "x": "En las 56 especialidades (US$44.9bn en pagos), el 24% de los pagos corresponde a servicios físicos, el 55% a evaluación y gestión, y el 21% a servicios no físicos potencialmente sustituibles por AI."
               },
               {
                 "t": "p",
-                "x": "El sistema, llamado SIMCO (modelado inmunitario simulado de resultados clínicos), se entrenó con las respuestas de un cuarto de mil millones de células y datos longitudinales de 63 embarazos, y luego se usó para evaluar nueve pautas farmacológicas cuya seguridad en el embarazo ya se conocía."
-              },
-              {
-                "t": "p",
-                "x": "La combinación ganadora fue aspirina y lansoprazol. “En el sistema de gemelos digitales, estos dos fármacos combinados tuvieron un gran efecto en el retraso del parto, 15 veces mayor que la aspirina sola”, dijo el autor sénior, Brice Gaudilliere. También se observó que el ácido fólico retrasa la progresión inmunológica hacia el parto."
-              },
-              {
-                "t": "p",
-                "x": "La combinación retrasó el parto en un modelo animal, y los investigadores obtuvieron la aprobación de la FDA para probarla en un ensayo clínico en humanos."
+                "x": "La exposición varía mucho: el trabajo no físico representa el 99% de los pagos en patología y el 96% en radiología diagnóstica, mientras que los servicios físicos suponen el 68% en dermatología y el 53% en cirugía ortopédica."
               }
             ]
           }

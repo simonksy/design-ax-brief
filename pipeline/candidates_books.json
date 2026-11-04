@@ -1,34 +1,61 @@
 {
   "section": "books",
-  "now_iso": "2026-11-03T23:00:00Z",
+  "now_iso": "2026-11-04T22:03:11Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried It With 2,000 Takedown Notices in a Single Day",
-      "url": "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
-      "source": "404 Media",
+      "title": "Winner of France's top literary prize admits using AI for novel",
+      "url": "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter",
+      "source": "Euronews",
       "category": "books",
-      "published_iso": "2026-11-03T08:49:58.000Z",
-      "excerpt": "ao3.life scraped Archive of Our Own fanfiction and repackaged it as AI-narrated audiobooks for sale without authors' permission; fanfic writers filed some 2,000 takedown notices in a day and the site went down.",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg"
+      "published_iso": "2026-11-04T16:59:02+01:00",
+      "excerpt": "A day after winning the 2026 Prix Goncourt, Philippe Jaenada said on France Inter that he used AI while writing 'L'Inconnue du quai de Javel', reopening the debate over AI in literary fiction weeks after Thélyson Orélien was dropped from the prize list.",
+      "og_image": "https://images.euronews.com/articles/stories/09/97/99/99/1200x675_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg"
     },
     {
-      "title": "University Presses Back AI Service Meridian",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
+      "title": "Oxford University Press Tests Licensing Content to ChatGPT",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-11-03T00:00:00-05:00",
-      "excerpt": "Cambridge, Johns Hopkins and Princeton university presses are founding publishers of Meridian, an AI gateway run by licensing start-up Cashmere that gives students and researchers licensed AI access to peer-reviewed books and journals.",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+      "published_iso": "2026-11-04T00:00:00-05:00",
+      "excerpt": "A three-month pilot lets students and researchers search licensed OUP content inside ChatGPT Edu, run with Harvard Library, Wharton and the University of Oxford.",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
     },
     {
-      "title": "Author who admitted using AI wins France's top literary prize",
-      "url": "https://www.aol.com/articles/author-admitted-using-ai-wins-175635000.html",
-      "source": "The Telegraph (via AOL)",
+      "title": "From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-11-03T17:56:35+00:00",
-      "excerpt": "Philippe Jaenada won the 2026 Prix Goncourt for a novel that incorporates his research conversations with ChatGPT and Claude, weeks after a front-runner was dropped over AI allegations and the Academie said it would bar AI-aided works.",
-      "og_image": "https://hermes.media.static.aol.com/media/2026/11/03/bd501b00-9d0f-365d-826a-c4691df67814/76eb2d36-f52d-4040-8143-33ed33374ca5.jpeg"
+      "published_iso": "2026-11-04T10:30:11+00:00",
+      "excerpt": "How a publisher can make AI useful across the organization while keeping control of confidential information, editorial decisions and accountability.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/venn.jpg"
+    },
+    {
+      "title": "30분이면 책 한 권 교정·교열 끝···북엔드, AI로 출판 혁신 '에디토리얼'로 글로벌 시장 도전",
+      "url": "http://www.hellodd.com/news/articleView.html?idxno=113638",
+      "source": "헬로디디",
+      "category": "books",
+      "published_iso": "2026-11-04T18:00:00+09:00",
+      "excerpt": "대덕 출판사 북엔드가 교정·교열 시간을 2주에서 30분으로 줄인 AI 도서 편집 서비스 '에디토리얼'을 내놓고 작가 문체를 살리는 편집으로 해외 시장에 나섰다.",
+      "og_image": "https://cdn.hellodd.com/news/thumbnail/202610/113638_338795_1432_v150.jpg"
+    },
+    {
+      "title": "The founder of DOU and Djinni built his own AI-powered e-reader with Claude",
+      "url": "https://dev.ua/en/news/zasnovnyk-dou-ta-djinni-rozrobyv-vlasnu-shi-chytalku-1793793467",
+      "source": "dev.ua",
+      "category": "books",
+      "published_iso": "2026-11-04T00:00:00+02:00",
+      "excerpt": "Max Ishchenko built a reading service with built-in AI explanations and translations using Claude, out of frustration with standard e-reader features; it also works with paper books.",
+      "og_image": "https://dev.ua/storage/images/13/79/22/88/derived/83ad447204d48bc41bd1e16f372fe095.webp"
+    },
+    {
+      "title": "Readwise takes on Amazon's Kindle and Goodreads with its new app for book lovers",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "source": "TechCrunch",
+      "category": "books",
+      "published_iso": "2026-11-02T17:49:41+00:00",
+      "excerpt": "Readwise Books combines an e-book store, reading tracker and publisher-permitted AI features (session recaps, lookups, translation, location-aware Q&A) plus a public API and MCP server for AI agents.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675"
     },
     {
       "title": "Copyright Infringement Lawsuit Against OpenAI Draws More than 50 (Very Illuminating) Amicus Briefs",
@@ -36,161 +63,17 @@
       "source": "Publishing Perspectives",
       "category": "books",
       "published_iso": "2026-11-03T13:26:59+00:00",
-      "excerpt": "More than 50 amicus briefs filed in the authors' copyright case against OpenAI map the fault lines of the most closely watched AI fair-use lawsuit and what it means for books.",
+      "excerpt": "More than 50 amicus briefs in the authors' copyright case against OpenAI map the fault lines of the most closely watched AI lawsuit and what is at stake for publishing.",
       "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png"
     },
     {
-      "title": "AI platform wins publishing award in Sharjah",
-      "url": "https://anba.com.br/en/ai-platform-wins-publishing-award-in-sharjah/",
-      "source": "ANBA",
+      "title": "“다음 편 빨리 내놔”⋯웹툰 팬이 만든 AI 실사화에 230만명 몰렸다",
+      "url": "https://www.viva100.com/article/20261101500560",
+      "source": "브릿지경제",
       "category": "books",
-      "published_iso": "2026-11-03T15:31:54-03:00",
-      "excerpt": "Brazilian platform KlooBR, which uses AI to edit, translate and proofread books in minutes, won the Disrupt Track award from Sharjah's Publishing Sustainability Fund.",
-      "og_image": "https://anba.com.br/wp-content/uploads/2026/11/sharjah.jpeg"
-    },
-    {
-      "title": "Sign of the Times: What is an (AI) author?",
-      "url": "https://stanforddaily.com/2026/11/03/ai-author/",
-      "source": "The Stanford Daily",
-      "category": "books",
-      "published_iso": "2026-11-03T04:43:20-08:00",
-      "excerpt": "A Stanford Daily column asks what authorship means when AI agents can write papers, separating plagiarism from the question of whether an AI can be an 'author'.",
-      "og_image": "https://stanforddaily.com/wp-content/uploads/2026/10/Quinns-Column-Graphic.jpeg"
-    },
-    {
-      "title": "'인간이 썼습니다'가 경쟁력⋯AI 시대, 책의 가치가 바뀐다 [AI가 쓰는 시대 ③]",
-      "url": "https://www.etoday.co.kr/news/view/2642679",
-      "source": "이투데이",
-      "category": "books",
-      "published_iso": "2026-11-02T05:00:00+09:00",
-      "excerpt": "AI 집필이 확산하자 출판사들은 계약·검증을 강화하고, AI 집필 의혹에 출간을 취소하는 사례도 나오며, 작가단체는 '사람이 쓴 책' 인증제를 도입하고 있다.",
-      "og_image": "https://img.etoday.co.kr/pto_db/2026/11/20261101165306_2410380_1200_675.jpg"
-    },
-    {
-      "title": "\"AI로 그린 인생, 그림책으로 꽃피우다\"…사상구 어르신 13명, 생애 첫 그림책 작가로 우뚝",
-      "url": "https://www.wbcb.co.kr/news/articleView.html?idxno=107430",
-      "source": "부산복지방송(WBCB)",
-      "category": "books",
-      "published_iso": "2026-11-03T17:04:20+09:00",
-      "excerpt": "부산 사상구 어르신 13명이 생성형 AI를 활용해 자신의 삶을 담은 그림책을 완성하고 작가로 독자와 만났다.",
-      "og_image": "https://cdn.wbcb.co.kr/news/thumbnail/202611/107430_139710_5357_v150.jpg"
-    },
-    {
-      "title": "Google testing Comic Artifacts for Gemini Notebook",
-      "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
-      "source": "TestingCatalog",
-      "category": "books",
-      "published_iso": "2026-11-01T16:30:30.000Z",
-      "excerpt": "A hidden beta tile in Gemini Notebook reveals a Comics artifact that turns notes into comics in Default, Shojo, Chibi and Fantasy Anime styles; not yet public.",
-      "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/Gemini-Notebook-10-31-2026_10_51_PM.jpg"
-    },
-    {
-      "title": "Why the AI Detection Scandals Will End—Probably Quite Soon",
-      "url": "https://janefriedman.com/why-the-ai-detection-scandals-will-end-probably-quite-soon/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-10-30T11:26:12+00:00",
-      "excerpt": "Jane Friedman argues 2026's wave of AI-use allegations against authors stems from books acquired before publishers adopted detection tools like Pangram, so the scandals should fade.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/10/friedman_ai_scandals_end-blogpost.png"
-    },
-    {
-      "title": "Guest Post - Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thinking-protecting-scholarly-publishing-from-the-slow-erosion-of-human-judgment/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-10-30T09:30:18+00:00",
-      "excerpt": "A Scholarly Kitchen guest post argues that if scholarly publishing is to be worth anything in a generation, publishers must acknowledge the risks of relying on AI and intelligent automation in place of human judgment.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-497388712.jpg"
-    },
-    {
-      "title": "Guest Post - What Accessibility at Scale Actually Requires of Academic Publishers",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-11-03T10:30:57+00:00",
-      "excerpt": "Academic publishers sitting on decades of archives can use AI to audit non-compliant content and generate alt-text, structural tags and metadata to make backlists accessible at scale.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164.jpg"
-    },
-    {
-      "title": "Book Piracy Is Going Automated as Publishers Fight Back",
-      "url": "https://goodereader.com/blog/electronic-readers/book-piracy-is-going-automated-as-publishers-fight-back",
-      "source": "Good e-Reader",
-      "category": "books",
-      "published_iso": "2026-10-30T14:23:14+00:00",
-      "excerpt": "Anti-piracy enforcement against shadow libraries is now largely automated, while a publisher complaint alleges a pirate site sold bulk access to 140 million texts to LLM developers.",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/06042420/2008438672-copy.png"
-    },
-    {
-      "title": "Gruffalo illustrator considering legal action against AI firms",
-      "url": "https://www.bbc.co.uk/news/articles/cj04032rp5wro",
-      "source": "BBC News",
-      "category": "books",
-      "published_iso": "2026-10-30T05:49:37Z",
-      "excerpt": "Axel Scheffler says AI firms breach copyright by reproducing his style in AI-generated Gruffalo images and is weighing legal action.",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3305/live/7cbf47b0-d3c3-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "[단독] 앤트로픽 '책 도둑질' 한국 피해 저자 250명…한강·황석영도 보상 '산 넘어 산'",
-      "url": "https://www.hani.co.kr/arti/culture/book/1284943.html",
-      "source": "한겨레",
-      "category": "books",
-      "published_iso": "2026-10-30T05:02:00+09:00",
-      "excerpt": "앤트로픽의 도서 700만권 무단 다운로드로 피해를 입은 국내 저자가 약 250명으로 파악됐지만 실제 보상을 받을 저자는 극히 드물 전망이다.",
-      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/847/imgdb/original/2026/1029/20261029504412.webp"
-    },
-    {
-      "title": "Artificial Intelligence is a Horror Story",
-      "url": "https://lithub.com/artificial-intelligence-is-a-horror-story/",
-      "source": "Literary Hub",
-      "category": "books",
-      "published_iso": "2026-10-30T08:50:12+00:00",
-      "excerpt": "A Lit Hub essay traces how horror and speculative literature have long imagined disembodied machine intelligence, reading today's AI through that literary tradition.",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/Untitled-design-2026-10-28T141919.667.png"
-    },
-    {
-      "title": "Toonsutra Bets on AI to Turn Comics Into Cinema With Its Cinematic Mode",
-      "url": "https://www.altbollywood.com/post/toonsutra-ai-cinematic-mode-comics-india",
-      "source": "AltBollywood",
-      "category": "books",
-      "published_iso": "2026-10-30T09:10:06Z",
-      "excerpt": "Indian webcomics platform Toonsutra's Cinematic Mode uses Google's Veo 3, Gemini and Lyria to animate, voice and score comics.",
-      "og_image": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
-    },
-    {
-      "title": "One-Punch Man Artist Yusuke Murata Calls Generative AI \"The Best Teacher,\" Sparking Debate Among Fans",
-      "url": "https://otakukart.com/one-punch-man-artist-yusuke-murata-calls-generative-ai-the-best-teacher-sparking-debate-among-fans/",
-      "source": "OtakuKart",
-      "category": "books",
-      "published_iso": "2026-11-01T20:36:36+05:30",
-      "excerpt": "One-Punch Man illustrator Yusuke Murata called generative AI 'the best teacher', sparking fan debate given the manga's celebrated hand-drawn art.",
-      "og_image": "https://otakukart.com/wp-content/uploads/2026/11/Saitama-is-the-central-character-of-One-Punch-Man-the-manga-and-anime-franchise-known-for-its-distinctive-humour-and-spectacular-battles.jpg"
-    },
-    {
-      "title": "\"딸깍도서 넘쳐날수록 출판산업 보호해야\"… 출판계, 세제 혜택 촉구",
-      "url": "https://www.hankookilbo.com/news/article/A2026110215410003860",
-      "source": "한국일보",
-      "category": "books",
-      "published_iso": "2026-11-02T17:15:00+09:00",
-      "excerpt": "AI로 손쉽게 찍어내는 '딸깍출판'이 늘고 AI 기업의 출판물 학습이 확대되자 출판단체가 편집·디자인·인세 비용까지 포함한 출판콘텐츠 세액공제를 요구했다.",
-      "og_image": "https://newsimg.hankookilbo.com/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg"
-    },
-    {
-      "title": "사람이 책을 만들고, 책이 AI를 만든다",
-      "url": "https://times.kaist.ac.kr/news/articleView.html?idxno=22981",
-      "source": "카이스트신문",
-      "category": "books",
-      "published_iso": "2026-11-03T00:09:11+09:00",
-      "excerpt": "해외 업체들이 교보문고에서 한국어 책을 대량 구매해 AI 학습 데이터로 쓰는 가운데, 책의 AI 학습 이용 대가 기준이 없는 문제를 짚는다.",
-      "og_image": "https://cdn.times.kaist.ac.kr/news/thumbnail/202611/22981_22936_574_v150.jpg"
-    },
-    {
-      "title": "Lagos' Ake Festival 2026 to explore AI, native intelligence, allegations against black writers",
-      "url": "https://www.ikejarecord.com/p/lagos-ake-festival-2026-to-explore",
-      "source": "Ikeja Record",
-      "category": "books",
-      "published_iso": "2026-11-02T13:40:19+00:00",
-      "excerpt": "Ake Arts and Book Festival (Nov 19-21, Lagos) will hold panels on AI and creativity and on AI-use allegations against Black writers.",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!djiB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab80e36e-247b-4a2e-b2be-9a4ddacb035e_1280x853.jpeg"
+      "published_iso": "2026-11-02T06:59:00+09:00",
+      "excerpt": "네이버웹툰 '제물 투표'를 AI로 실사화한 팬 영상이 유튜브 공개 한 달 반 만에 230만 회를 넘기며 AI 2차 창작의 저작권 기준 논의가 커지고 있다.",
+      "og_image": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/01/.cache/512/20261101500473.png"
     },
     {
       "title": "출판계에 닥친 AI발 위기…\"산업 기반 무너뜨릴 수도\"",
@@ -198,26 +81,53 @@
       "source": "뉴시스",
       "category": "books",
       "published_iso": "2026-11-01T06:04:24+09:00",
-      "excerpt": "앤트로픽의 대규모 서적 무단 확보가 드러나며 출판계에 AI발 위기가 확인되고 있다는 진단과 업계 대응을 다룬다.",
+      "excerpt": "앤트로픽의 서적 대량 확보 사실과 해외 업체의 한국 도서 대량 구매 요청이 겹치며, 출판계는 AI 학습용 저작권 제도 공백을 지적하고 AI 협의체 구성과 입법 촉구를 논의하고 있다.",
       "og_image": "https://img1.newsis.com/2026/04/03/NISI20260403_0002101881_web.jpg"
+    },
+    {
+      "title": "370 books in 20 months: S African author defends her use of AI",
+      "url": "https://www.omanobserver.om/article/1198877/features/books/370-books-in-20-months-s-african-author-defends-her-use-of-ai",
+      "source": "Oman Observer (AFP)",
+      "category": "books",
+      "published_iso": "2026-10-31T16:00:58+04:00",
+      "excerpt": "South African romance writer Coral Hart has published more than 370 books since February 2025 using an AI drafting-and-editing pipeline, defending the method despite online abuse.",
+      "og_image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/31/thumbs/600x600/3562888.jpg"
+    },
+    {
+      "title": "Why the AI Detection Scandals Will End—Probably Quite Soon",
+      "url": "https://janefriedman.com/why-the-ai-detection-scandals-will-end-probably-quite-soon/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-10-30T11:26:12+00:00",
+      "excerpt": "2026's AI-use allegations against authors stem from books acquired before publishers began screening with detectors like Pangram, so the scandals may soon fade.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/10/friedman_ai_scandals_end-blogpost.png"
+    },
+    {
+      "title": "Artificial Intelligence is a Horror Story",
+      "url": "https://lithub.com/artificial-intelligence-is-a-horror-story/",
+      "source": "Literary Hub",
+      "category": "books",
+      "published_iso": "2026-10-30T08:50:12+00:00",
+      "excerpt": "An essay reading AI through the lineage of horror fiction, arguing it has already become part of our cognitive rhythms and that writers and readers are complicit in its spread.",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/Untitled-design-2026-10-28T141919.667.png"
     },
     {
       "title": "Fergus Morgan on AI's disruption of audio drama",
       "url": "https://www.thestage.co.uk/opinion/man-vs-machine-how-is-ai-disrupting-audio-drama-fergus-morgan",
       "source": "The Stage",
       "category": "books",
-      "published_iso": "2026-10-30T07:05:00Z",
-      "excerpt": "On World Audio Drama Day, Fergus Morgan examines how AI voices are disrupting the audio drama sector and how The Speakies awards celebrate human creativity.",
+      "published_iso": "2026-10-30T07:05:00+00:00",
+      "excerpt": "On World Audio Drama Day, Fergus Morgan examines how synthetic voices are disrupting audio drama and how The Speakies awards are championing human performers.",
       "og_image": "https://d3s3zh7icgjwgd.cloudfront.net/AcuCustom/Sitename/DAM/378/shutterstock_2587390409.jpg"
     },
     {
-      "title": "김유정문학촌, AI 시대 스토리 창작의 윤리 묻는다…11월 14일 포럼",
-      "url": "https://www.news1.kr/life-culture/book/6335401",
-      "source": "뉴스1",
+      "title": "'하얀거탑' 작가가 묻는다…AI는 무엇을 쓰고, 못 쓰는가",
+      "url": "https://www.nocutnews.co.kr/news/6599203",
+      "source": "노컷뉴스",
       "category": "books",
-      "published_iso": "2026-10-29T06:37:01+09:00",
-      "excerpt": "김유정문학촌이 11월 14일 생성형 AI와 스토리 창작의 관계, 저작권·문체 변화를 논의하는 포럼을 연다.",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/10/28/8184719/high.jpg"
+      "published_iso": "2026-10-29T14:52:41+09:00",
+      "excerpt": "김유정문학촌이 11월 14일 AI 시대 스토리 창작 포럼을 열어 이기원 작가 발표와 함께 웹툰·웹소설·동화 분야의 AI 활용, 저작권, 문체 획일화 문제를 다룬다.",
+      "og_image": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/29/202610291426384981_0.jpg"
     },
     {
       "title": "한국출판인회의, AI 시대 출판 논의하는 '2026 아시아 출판 주간' 개최",
@@ -225,8 +135,17 @@
       "source": "독서신문",
       "category": "books",
       "published_iso": "2026-10-28T12:19:48+09:00",
-      "excerpt": "한국출판인회의가 아시아 각 지역 출판인을 초청해 AI 시대 출판의 방향을 모색하는 '2026 아시아 출판 주간'을 연다.",
+      "excerpt": "한국출판인회의가 아시아 각국 출판인을 초청해 AI 시대 출판이 나아갈 방향을 모색하는 '2026 아시아 출판 주간'을 연다.",
       "og_image": "https://cdn.readersnews.com/news/photo/202610/200802_91199_1515.jpg"
+    },
+    {
+      "title": "K문학 세계화, AI로 뚫릴까…풀리지 않는 '감성 번역' 숙제",
+      "url": "https://zdnet.co.kr/view/?no=20261027104903",
+      "source": "지디넷코리아",
+      "category": "books",
+      "published_iso": "2026-10-27T11:06:10+09:00",
+      "excerpt": "한국문학 해외 진출에 전문 번역 인력이 부족한 가운데, 작가 문체와 고유명사를 일관되게 옮기는 맞춤형 AI 번역과 AI 초벌 번역 후 전문가 검수가 대안으로 거론된다.",
+      "og_image": "https://image.zdnet.co.kr/2026/10/07/88089de79984f73e9d8834884249ddda.jpg"
     }
   ]
 }

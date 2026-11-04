@@ -1,221 +1,623 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-cjeu-szpunar-ai-news",
+      "id": "brazil-meta-news-ruling",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU 법원 법무관\nAI 기사 재사용에 제동",
-      "body": "Szpunar 법무관은 Gemini 같은 챗봇도 EU 언론사권에 묶인다고 봤다.",
-      "mini_headline": "EU 법무관, AI 기사 재사용 제한",
+      "headline": "브라질 법원, Meta의\n뉴스 AI 학습 금지",
+      "body": "상파울루 법원이 Meta에 세 언론단체 기사 수집과 AI 학습을 금지했다.",
+      "mini_headline": "법원, Meta 뉴스 AI 학습 금지",
       "tool": "Politics",
-      "source": "Euractiv (Rapporteur)",
-      "url": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
+      "source": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml",
       "accent": "#3b6bff",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "상파울루 법원은 화요일(3) Facebook·Instagram·WhatsApp·Threads를 소유한 Meta가 봇으로 브라질 세 언론협회 소속 매체의 뉴스 기사, 사진, 영상 등 콘텐츠를 수집하지 못하게 했다."
+          },
+          {
+            "t": "p",
+            "x": "판결은 이 자료를 Meta AI 같은 인공지능 시스템의 개발·학습에 쓰는 것도 막았다. 소송은 11월 20일 시행될 예정인 회사의 새 상업 약관을 정지해 달라는 것이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+            "cap": "2025년 6월 12일 파리 Viva Technology 콘퍼런스에 걸린 Meta Platforms 로고. Benoit Tessier/REUTERS"
+          },
+          {
+            "t": "p",
+            "x": "협회들은 이 약관으로 Meta가 뉴스 사이트 콘텐츠에 접근해 복제·저장·분석할 수 있게 된다고 주장했다. 판사는 기업이 “웹 스크레이퍼” 사용을 무상으로 허락하게 한 조항의 효력을 정지했고, 이 요구가 계약상 남용에 해당한다고 봤다."
+          },
+          {
+            "t": "p",
+            "x": "판사는 언어 모델에 넣으려고 뉴스 사이트를 긁어 가는 행위가 저작물 복제여서 사전 허락이 필요하고, 브라질 법에는 상업 목적 데이터 마이닝 예외가 없다고 밝혔다. 언론사가 제3자 자료를 싣는 만큼 이 약관이 “풀 수 없는 법적 함정”을 만든다고도 했다."
+          },
+          {
+            "t": "p",
+            "x": "위반하면 하루 100만 헤알(182,400달러)의 벌금이 붙고, 상한은 1억 헤알(1,800만 달러)이다. Meta는 5일 안에 판결에 이의를 제기할 수 있고, 협회들은 30영업일 안에 본안 청구를 내야 한다. 회사는 심리에서 의견을 진술할 기회가 없었고 논평은 하지 않겠다고 했다. 마르셀루 헤시 브라질신문협회 집행회장은 이번 가처분을 “역사적”이라고 평가하며, 플랫폼의 경제력 남용에도 한계가 있다는 걸 보여 줬다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "노르웨이 법원이 같은 약관의 효력을 정지한 지 약 일주일 만의 판결이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Brazilian court bars Meta\nfrom training AI on news",
+          "body": "A São Paulo court barred Meta from scraping three press groups' outlets to train AI, with fines of $182,400 a day.",
+          "mini_headline": "Court bars Meta news AI training",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A São Paulo court on Tuesday (3) prohibited Meta, the owner of Facebook, Instagram, WhatsApp and Threads, from using bots to collect news articles, photographs, videos and other content from media outlets affiliated with three Brazilian press associations."
+              },
+              {
+                "t": "p",
+                "x": "The ruling also prevents the use of that material to develop or train artificial intelligence systems, such as Meta AI. The lawsuit sought to suspend the company's new commercial terms, which are set to take effect on November 20."
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "The logo of Meta Platforms at the Viva Technology conference in Paris, June 12, 2025. Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "According to the associations, the rules would allow Meta to access, copy, store and analyze content from news websites. The judge suspended the provision requiring companies to authorize, without compensation, the use of \"web scrapers\" and ruled that the requirement constituted contractual abuse."
+              },
+              {
+                "t": "p",
+                "x": "He said scraping news websites to feed language models constitutes reproduction of copyrighted works, which requires prior authorization, and that Brazilian law provides no exception for data mining for commercial purposes. According to the judge, the terms create an \"insoluble legal trap\" because media outlets publish third-party material."
+              },
+              {
+                "t": "p",
+                "x": "The fine for noncompliance is R$1 million ($182,400) per day, capped at R$100 million ($ 18 million). Meta has five days to challenge the ruling, and the associations have 30 business days to file their main claim. The company was not heard and said it would not comment. Marcelo Rech, executive president of the Brazilian Newspaper Association, called the injunction \"historic\" and said it shows that there are limits to the abuse of economic power by platforms."
+              },
+              {
+                "t": "p",
+                "x": "The ruling comes nearly a week after a Norwegian court suspended the same rules."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "브라질 법원, Meta의\n뉴스 AI 학습 금지",
+          "body": "상파울루 법원이 Meta에 세 언론단체 기사 수집과 AI 학습을 금지했다.",
+          "mini_headline": "법원, Meta 뉴스 AI 학습 금지",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "상파울루 법원은 화요일(3) Facebook·Instagram·WhatsApp·Threads를 소유한 Meta가 봇으로 브라질 세 언론협회 소속 매체의 뉴스 기사, 사진, 영상 등 콘텐츠를 수집하지 못하게 했다."
+              },
+              {
+                "t": "p",
+                "x": "판결은 이 자료를 Meta AI 같은 인공지능 시스템의 개발·학습에 쓰는 것도 막았다. 소송은 11월 20일 시행될 예정인 회사의 새 상업 약관을 정지해 달라는 것이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "2025년 6월 12일 파리 Viva Technology 콘퍼런스에 걸린 Meta Platforms 로고. Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "협회들은 이 약관으로 Meta가 뉴스 사이트 콘텐츠에 접근해 복제·저장·분석할 수 있게 된다고 주장했다. 판사는 기업이 “웹 스크레이퍼” 사용을 무상으로 허락하게 한 조항의 효력을 정지했고, 이 요구가 계약상 남용에 해당한다고 봤다."
+              },
+              {
+                "t": "p",
+                "x": "판사는 언어 모델에 넣으려고 뉴스 사이트를 긁어 가는 행위가 저작물 복제여서 사전 허락이 필요하고, 브라질 법에는 상업 목적 데이터 마이닝 예외가 없다고 밝혔다. 언론사가 제3자 자료를 싣는 만큼 이 약관이 “풀 수 없는 법적 함정”을 만든다고도 했다."
+              },
+              {
+                "t": "p",
+                "x": "위반하면 하루 100만 헤알(182,400달러)의 벌금이 붙고, 상한은 1억 헤알(1,800만 달러)이다. Meta는 5일 안에 판결에 이의를 제기할 수 있고, 협회들은 30영업일 안에 본안 청구를 내야 한다. 회사는 심리에서 의견을 진술할 기회가 없었고 논평은 하지 않겠다고 했다. 마르셀루 헤시 브라질신문협회 집행회장은 이번 가처분을 “역사적”이라고 평가하며, 플랫폼의 경제력 남용에도 한계가 있다는 걸 보여 줬다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "노르웨이 법원이 같은 약관의 효력을 정지한 지 약 일주일 만의 판결이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ブラジル裁判所、Metaに\n報道記事でのAI学習禁止",
+          "body": "サンパウロの裁判所がMetaに、三つの報道団体の記事収集とAI学習を禁じた。",
+          "mini_headline": "Metaの報道記事AI学習を禁止",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "サンパウロの裁判所は火曜日(3日)、Facebook、Instagram、WhatsApp、Threadsを所有するMetaに対し、ブラジルの三つの報道協会に加盟するメディアからボットでニュース記事、写真、動画などのコンテンツを収集することを禁じた。"
+              },
+              {
+                "t": "p",
+                "x": "判決はまた、それらの素材をMeta AIなどの人工知能システムの開発や学習に使うことも禁じた。訴訟は、11月20日に発効予定の同社の新たな商用規約の停止を求めていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "2025年6月12日、パリのViva Technologyカンファレンスに掲げられたMeta Platformsのロゴ。Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "協会側によると、この規約ではMetaがニュースサイトのコンテンツにアクセスし、複製、保存、分析できるようになる。裁判官は、企業に「ウェブスクレイパー」の利用を無償で認めるよう求める条項の効力を停止し、この要求は契約上の濫用にあたると判断した。"
+              },
+              {
+                "t": "p",
+                "x": "裁判官は、言語モデルに供給するためにニュースサイトをスクレイピングすることは著作物の複製にあたり事前の許諾が必要で、ブラジル法には商業目的のデータマイニングに対する例外規定がないと述べた。また、メディアは第三者の素材を掲載しているため、規約は「解決不能な法的わな」を生むとした。"
+              },
+              {
+                "t": "p",
+                "x": "違反時の罰金は1日100万レアル(182,400ドル)で、上限は1億レアル(1800万ドル)だ。Metaは5日以内に判決に異議を申し立てることができ、協会側は30営業日以内に本訴を起こす必要がある。同社は審理で意見を聴かれておらず、コメントしないとした。ブラジル新聞協会のマルセロ・レシュ執行会長は、この仮処分を「歴史的」と評し、プラットフォームによる経済力の濫用には限界があることを示したと語った。"
+              },
+              {
+                "t": "p",
+                "x": "判決は、ノルウェーの裁判所が同じ規約を停止してから約1週間後に出た。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "巴西法院禁止Meta\n用新闻训练AI",
+          "body": "圣保罗法院禁止Meta抓取三家新闻团体旗下媒体内容训练AI，每日罚款182,400美元。",
+          "mini_headline": "法院禁止Meta用新闻训练AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "圣保罗一家法院周二(3日)禁止Facebook、Instagram、WhatsApp和Threads的母公司Meta使用机器人，从隶属于巴西三家新闻协会的媒体收集新闻文章、照片、视频及其他内容。"
+              },
+              {
+                "t": "p",
+                "x": "裁决还禁止将这些材料用于开发或训练Meta AI等人工智能系统。该诉讼旨在暂停该公司定于11月20日生效的新商业条款。"
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "2025年6月12日，巴黎Viva Technology大会上的Meta Platforms标志。Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "据这些协会称，新条款将允许Meta访问、复制、存储和分析新闻网站内容。法官暂停了要求企业无偿授权使用“网络爬虫”的条款，并裁定该要求构成合同滥用。"
+              },
+              {
+                "t": "p",
+                "x": "他表示，抓取新闻网站内容来喂给语言模型构成对受版权保护作品的复制，需事先获得授权，而巴西法律并未对商业目的的数据挖掘设置例外。法官认为，由于媒体会刊发第三方材料，这些条款制造了“无解的法律陷阱”。"
+              },
+              {
+                "t": "p",
+                "x": "违规罚款为每日100万雷亚尔(182,400美元)，上限为1亿雷亚尔(1800万美元)。Meta有五天时间对裁决提出异议，协会则须在30个工作日内提出主诉。该公司未被听取意见，并表示不予置评。巴西报业协会执行主席Marcelo Rech称这项禁令具有“历史意义”，表明平台滥用经济力量是有限度的。"
+              },
+              {
+                "t": "p",
+                "x": "就在近一周前，挪威一家法院已暂停了同样的条款。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un tribunal de Brasil prohíbe a\nMeta entrenar IA con noticias",
+          "body": "Un tribunal de São Paulo prohibió a Meta extraer contenidos de los medios de tres grupos de prensa para entrenar IA.",
+          "mini_headline": "Tribunal veta a Meta entrenar IA con noticias",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un tribunal de São Paulo prohibió el martes (3) a Meta, propietaria de Facebook, Instagram, WhatsApp y Threads, usar bots para recopilar artículos periodísticos, fotografías, videos y otros contenidos de medios afiliados a tres asociaciones de prensa brasileñas."
+              },
+              {
+                "t": "p",
+                "x": "La decisión también impide usar ese material para desarrollar o entrenar sistemas de inteligencia artificial, como Meta AI. La demanda buscaba suspender los nuevos términos comerciales de la empresa, que entrarán en vigor el 20 de noviembre."
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "El logotipo de Meta Platforms en la conferencia Viva Technology en París, el 12 de junio de 2025. Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "Según las asociaciones, las reglas permitirían a Meta acceder, copiar, almacenar y analizar contenidos de sitios de noticias. El juez suspendió la cláusula que obligaba a las empresas a autorizar, sin compensación, el uso de \"web scrapers\" y determinó que esa exigencia constituía un abuso contractual."
+              },
+              {
+                "t": "p",
+                "x": "Afirmó que extraer contenido de sitios de noticias para alimentar modelos de lenguaje constituye una reproducción de obras protegidas por derechos de autor, que requiere autorización previa, y que la ley brasileña no prevé ninguna excepción para la minería de datos con fines comerciales. Según el juez, los términos crean una \"trampa jurídica insoluble\" porque los medios publican material de terceros."
+              },
+              {
+                "t": "p",
+                "x": "La multa por incumplimiento es de R$1 millón (182.400 dólares) por día, con un tope de R$100 millones (18 millones de dólares). Meta tiene cinco días para impugnar la decisión, y las asociaciones disponen de 30 días hábiles para presentar su demanda principal. La empresa no fue escuchada y dijo que no haría comentarios. Marcelo Rech, presidente ejecutivo de la Asociación Brasileña de Periódicos, calificó la medida cautelar de \"histórica\" y dijo que demuestra que existen límites al abuso del poder económico por parte de las plataformas."
+              },
+              {
+                "t": "p",
+                "x": "La decisión llega casi una semana después de que un tribunal noruego suspendiera las mismas reglas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "브라질 법원, Meta의\n뉴스 AI 학습 금지",
+          "body": "상파울루 법원이 Meta에 세 언론단체 기사 수집과 AI 학습을 금지했다.",
+          "mini_headline": "법원, Meta 뉴스 AI 학습 금지",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "상파울루 법원은 화요일(3) Facebook·Instagram·WhatsApp·Threads를 소유한 Meta가 봇을 이용해 브라질 세 언론협회 소속 매체의 뉴스 기사, 사진, 영상 등 콘텐츠를 수집하는 것을 금지했다."
+              },
+              {
+                "t": "p",
+                "x": "판결은 또한 이 자료를 Meta AI 같은 인공지능 시스템의 개발이나 학습에 쓰지 못하게 했다. 소송은 11월 20일 시행 예정인 회사의 새 상업 약관을 정지해 달라는 취지였다."
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "2025년 6월 12일 파리 Viva Technology 콘퍼런스에 걸린 Meta Platforms 로고. Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "협회들에 따르면 이 약관은 Meta가 뉴스 사이트 콘텐츠에 접근하고 이를 복제·저장·분석할 수 있게 한다. 판사는 기업이 “웹 스크레이퍼” 사용을 무상으로 허락하도록 한 조항의 효력을 정지하고, 이 요구가 계약상 남용에 해당한다고 판단했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 언어 모델에 넣으려고 뉴스 사이트를 긁어 가는 행위는 저작물 복제에 해당해 사전 허락이 필요하며, 브라질 법에는 상업 목적의 데이터 마이닝에 대한 예외가 없다고 밝혔다. 판사는 언론사가 제3자 자료를 싣기 때문에 이 약관이 “풀 수 없는 법적 함정”을 만든다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "위반 시 벌금은 하루 100만 헤알(182,400달러)이며 상한은 1억 헤알(1,800만 달러)이다. Meta는 5일 안에 판결에 이의를 제기할 수 있고, 협회들은 30영업일 안에 본안 청구를 내야 한다. 회사는 심리에서 의견을 듣지 못했고 논평하지 않겠다고 했다. 마르셀루 헤시 브라질신문협회 집행회장은 이번 가처분을 “역사적”이라고 평가하며 플랫폼의 경제력 남용에도 한계가 있음을 보여 준다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 판결은 노르웨이 법원이 같은 약관의 효력을 정지한 지 약 일주일 만에 나왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ブラジル裁判所、Metaに\n報道記事でのAI学習禁止",
+          "body": "サンパウロの裁判所がMetaに、三つの報道団体の記事収集とAI学習を禁じた。",
+          "mini_headline": "Metaの報道記事AI学習を禁止",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "サンパウロの裁判所は火曜日(3日)、Facebook、Instagram、WhatsApp、Threadsを所有するMetaに対し、ブラジルの三つの報道協会に加盟するメディアからボットでニュース記事、写真、動画などのコンテンツを収集することを禁じた。"
+              },
+              {
+                "t": "p",
+                "x": "判決はまた、それらの素材をMeta AIなどの人工知能システムの開発や学習に使うことも禁じた。訴訟は、11月20日に発効予定の同社の新たな商用規約の停止を求めていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "2025年6月12日、パリのViva Technologyカンファレンスに掲げられたMeta Platformsのロゴ。Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "協会側によると、この規約ではMetaがニュースサイトのコンテンツにアクセスし、複製、保存、分析できるようになる。裁判官は、企業に「ウェブスクレイパー」の利用を無償で認めるよう求める条項の効力を停止し、この要求は契約上の濫用にあたると判断した。"
+              },
+              {
+                "t": "p",
+                "x": "裁判官は、言語モデルに供給するためにニュースサイトをスクレイピングすることは著作物の複製にあたり事前の許諾が必要で、ブラジル法には商業目的のデータマイニングに対する例外規定がないと述べた。また、メディアは第三者の素材を掲載しているため、規約は「解決不能な法的わな」を生むとした。"
+              },
+              {
+                "t": "p",
+                "x": "違反時の罰金は1日100万レアル(182,400ドル)で、上限は1億レアル(1800万ドル)だ。Metaは5日以内に判決に異議を申し立てることができ、協会側は30営業日以内に本訴を起こす必要がある。同社は審理で意見を聴かれておらず、コメントしないとした。ブラジル新聞協会のマルセロ・レシュ執行会長は、この仮処分を「歴史的」と評し、プラットフォームによる経済力の濫用には限界があることを示したと語った。"
+              },
+              {
+                "t": "p",
+                "x": "判決は、ノルウェーの裁判所が同じ規約を停止してから約1週間後に出た。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "巴西法院禁止Meta\n用新闻训练AI",
+          "body": "圣保罗法院禁止Meta抓取三家新闻团体旗下媒体内容训练AI，每日罚款182,400美元。",
+          "mini_headline": "法院禁止Meta用新闻训练AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "圣保罗一家法院周二(3日)禁止Facebook、Instagram、WhatsApp和Threads的母公司Meta使用机器人，从隶属于巴西三家新闻协会的媒体收集新闻文章、照片、视频及其他内容。"
+              },
+              {
+                "t": "p",
+                "x": "裁决还禁止将这些材料用于开发或训练Meta AI等人工智能系统。该诉讼旨在暂停该公司定于11月20日生效的新商业条款。"
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "2025年6月12日，巴黎Viva Technology大会上的Meta Platforms标志。Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "据这些协会称，新条款将允许Meta访问、复制、存储和分析新闻网站内容。法官暂停了要求企业无偿授权使用“网络爬虫”的条款，并裁定该要求构成合同滥用。"
+              },
+              {
+                "t": "p",
+                "x": "他表示，抓取新闻网站内容来喂给语言模型构成对受版权保护作品的复制，需事先获得授权，而巴西法律并未对商业目的的数据挖掘设置例外。法官认为，由于媒体会刊发第三方材料，这些条款制造了“无解的法律陷阱”。"
+              },
+              {
+                "t": "p",
+                "x": "违规罚款为每日100万雷亚尔(182,400美元)，上限为1亿雷亚尔(1800万美元)。Meta有五天时间对裁决提出异议，协会则须在30个工作日内提出主诉。该公司未被听取意见，并表示不予置评。巴西报业协会执行主席Marcelo Rech称这项禁令具有“历史意义”，表明平台滥用经济力量是有限度的。"
+              },
+              {
+                "t": "p",
+                "x": "就在近一周前，挪威一家法院已暂停了同样的条款。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un tribunal de Brasil prohíbe a\nMeta entrenar IA con noticias",
+          "body": "Un tribunal de São Paulo prohibió a Meta extraer contenidos de los medios de tres grupos de prensa para entrenar IA.",
+          "mini_headline": "Tribunal veta a Meta entrenar IA con noticias",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un tribunal de São Paulo prohibió el martes (3) a Meta, propietaria de Facebook, Instagram, WhatsApp y Threads, usar bots para recopilar artículos periodísticos, fotografías, videos y otros contenidos de medios afiliados a tres asociaciones de prensa brasileñas."
+              },
+              {
+                "t": "p",
+                "x": "La decisión también impide usar ese material para desarrollar o entrenar sistemas de inteligencia artificial, como Meta AI. La demanda buscaba suspender los nuevos términos comerciales de la empresa, que entrarán en vigor el 20 de noviembre."
+              },
+              {
+                "t": "img",
+                "src": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_md.jpg",
+                "cap": "El logotipo de Meta Platforms en la conferencia Viva Technology en París, el 12 de junio de 2025. Benoit Tessier/REUTERS"
+              },
+              {
+                "t": "p",
+                "x": "Según las asociaciones, las reglas permitirían a Meta acceder, copiar, almacenar y analizar contenidos de sitios de noticias. El juez suspendió la cláusula que obligaba a las empresas a autorizar, sin compensación, el uso de \"web scrapers\" y determinó que esa exigencia constituía un abuso contractual."
+              },
+              {
+                "t": "p",
+                "x": "Afirmó que extraer contenido de sitios de noticias para alimentar modelos de lenguaje constituye una reproducción de obras protegidas por derechos de autor, que requiere autorización previa, y que la ley brasileña no prevé ninguna excepción para la minería de datos con fines comerciales. Según el juez, los términos crean una \"trampa jurídica insoluble\" porque los medios publican material de terceros."
+              },
+              {
+                "t": "p",
+                "x": "La multa por incumplimiento es de R$1 millón (182.400 dólares) por día, con un tope de R$100 millones (18 millones de dólares). Meta tiene cinco días para impugnar la decisión, y las asociaciones disponen de 30 días hábiles para presentar su demanda principal. La empresa no fue escuchada y dijo que no haría comentarios. Marcelo Rech, presidente ejecutivo de la Asociación Brasileña de Periódicos, calificó la medida cautelar de \"histórica\" y dijo que demuestra que existen límites al abuso del poder económico por parte de las plataformas."
+              },
+              {
+                "t": "p",
+                "x": "La decisión llega casi una semana después de que un tribunal noruego suspendiera las mismas reglas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "data-center-ballot-measures",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "유권자, 데이터센터\n규제안 20여 건 지지",
+      "body": "10개 주 데이터센터 제한·저지 안건 41건 중 20여 건이 통과한 듯하다.",
+      "mini_headline": "데이터센터 제한안, 투표서 통과",
+      "tool": "Politics",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-            "cap": "Samuel Boivin/NurPhoto via Getty Images"
+            "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+            "cap": "일러스트: Brendan Lynch/Axios. 스톡: Getty Images"
           },
           {
             "t": "p",
-            "x": "EU 최고법원의 핵심 법률 자문관은 AI 기업이 모델 학습에는 저작권 데이터를 자유롭게 쓸 수 있지만 AI 답변에 언론 출판물을 쓰는 데는 제약이 따른다고 봤다. AI 연구소의 데이터 사용 범위가 유럽연합 사법재판소(CJEU)에서 다뤄진 것은 이번이 처음이다."
+            "x": "Axios에 따르면 화요일 유권자들은 데이터센터 모라토리엄 수십 건을 승인했고, 텍사스를 비롯한 곳곳에서 10조 달러 규모 AI 인프라 구축의 속도 조절을 지지하는 후보를 여럿 당선시켰다."
           },
           {
             "t": "p",
-            "x": "Maciej Szpunar 법무관은 화요일 낸 구속력 없는 의견에서 EU 법의 텍스트·데이터 마이닝 예외에 따라 저작물 이용은 “원칙적으로 자유롭게 허용된다”고 밝혔다. CJEU가 법무관 의견에 법적으로 묶이지는 않지만 대개 그 권고를 따른다."
+            "x": "Ballotpedia에 따르면 10개 주에서 투표에 부쳐진 데이터센터 안건 41건 중 개발을 제한하거나 막으려는 안 20여 건이 초기 개표에서 통과한 것으로 보인다. 이런 투표 대결은 오하이오에서 가장 많이 벌어졌고, 아칸소와 노스다코타 등 일부 지역은 아직 투표를 앞뒀다."
           },
           {
             "t": "p",
-            "x": "Szpunar는 이번 의견의 바탕이 된 사건의 질문은 각하하라고 법원에 권고했다. 헝가리의 한 언론사가 Google의 Gemini 챗봇이 자사 기사 하나를 재현할 수 있다고 주장한 사건인데, 그는 Google이 이 언론사 기사로 AI를 학습시켰다는 증거가 없다고 지적했다."
+            "x": "지나 이노호사 텍사스 주지사 당선인은 2027년 중반(mid-2027)에 끝나는 회기에서 주 의회가 물·전기·대기·재산권 영향에 대응하는 법을 통과시킬 때까지 데이터센터 건설 모라토리엄을 유지하겠다고 공약했다. 리서치 업체 SemiAnalysis에 따르면 2028년 미국(U.S.) 신규 용량의 41%가 텍사스 몫이다."
           },
           {
             "t": "p",
-            "x": "다만 챗봇이 답변을 만들려고 온라인 기사에 접근할 때는 여전히 언론사 권리를 침해할 수 있다고 했다. 페이월 우회처럼 기사에 불법으로 접근했는지, 챗봇이 “사실만 전달”하는지 아니면 기사의 “표현 형식”을 “알아볼 수 있는 방식”으로 재사용하는지에 따라 판단이 달라진다는 설명이다."
+            "x": "Americans for Responsible Innovation 공동 창업자 브래드 카슨은 Axios에 “우리가 방금 목격한 것은 AI 지진이었다”고 말했다. “유권자들은 AI와 데이터센터에 대한 규칙을 원한다는 분명한 메시지를 보냈다.”"
           },
           {
             "t": "p",
-            "x": "법무관은 침해가 사업 모델에 내재해 있거나 불법 웹 스크래핑 같은 침해를 막을 실효성 있는 조치가 없었다면 챗봇 운영사가 책임을 진다고 봤다."
+            "x": "뉴욕주 하원의원이자 RAISE Act 발의자인 알렉스 보어스는 Axios에 AI가 미국 정치의 최대 쟁점으로 “공식 데뷔”했다고 말했다. 다만 Axios는 정치 분석가 대부분이 건설이 영구히 막히리라고 보지는 않는다고 전했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "EU court advisor flags limits\non AI reusing news articles",
-          "body": "Advocate General Szpunar said chatbots like Gemini face limits under EU press-publisher rights.",
-          "mini_headline": "EU advisor limits AI news reuse",
+          "headline": "Voters back about two dozen\ndata center restrictions",
+          "body": "Per Ballotpedia, about two dozen of 41 measures to restrict or block data centers across 10 states appeared to pass.",
+          "mini_headline": "Data center limits pass at ballot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "Illustration: Brendan Lynch/Axios. Stock: Getty Images"
               },
               {
                 "t": "p",
-                "x": "AI companies may freely use copyrighted data for training models, per a key legal advisor to the EU’s top court, but restrictions apply to using press publications in AI answers. It’s the first time a discussion about how far AI labs are allowed to go in their data use has made it to the Court of Justice of the European Union (CJEU)."
+                "x": "Voters on Tuesday approved dozens of data center moratoriums and elected a number of candidates who favor slowing a $10 trillion AI buildout, including in Texas, according to Axios."
               },
               {
                 "t": "p",
-                "x": "Issuing a non-binding opinion on Tuesday, the court’s advocate general Maciej Szpunar suggested that the use of copyrighted works “is, as a rule, freely permitted” under a text-and-data-mining exception in EU law. While the CJEU is not legally bound by advocate general opinions, the court usually follows the advice."
+                "x": "Out of 41 data center measures on the ballot across 10 states, about two dozen proposals designed to restrict or block development appeared to have passed based on initial returns, according to Ballotpedia. Ohio hosted the largest share of those ballot fights, and some votes are still forthcoming, including in Arkansas and North Dakota."
               },
               {
                 "t": "p",
-                "x": "Szpunar advised the court to declare inadmissible questions pertaining to the underlying case, in which a Hungarian press publisher had claimed that Google’s Gemini chatbot could reproduce one of its articles, arguing there was no evidence that Google had used the publisher’s articles to train its AI."
+                "x": "Texas governor-elect Gina Hinojosa campaigned on keeping a moratorium on data center construction in place until the state passes legislation tackling impacts on water, electricity, air and property rights in the legislative session that ends in mid-2027. Texas accounts for 41% of new U.S. capacity in 2028, according to the research firm SemiAnalysis."
               },
               {
                 "t": "p",
-                "x": "But he said chatbots might still infringe the press publisher’s right when accessing articles online to generate an answer — depending on whether the article was accessed unlawfully, for example by circumventing paywalls, and whether the chatbot “merely reports facts” or reuses the article’s “form of expression” in a “recognisable manner”."
+                "x": "\"What we just witnessed was an AI earthquake,\" Brad Carson, co-founder of Americans for Responsible Innovation, told Axios. \"Voters just sent a clear message that they want rules for AI and data centers.\""
               },
               {
                 "t": "p",
-                "x": "The company running a chatbot is liable if violations are inherent to its business model or it has failed to take effective measures to prevent infringements such as unlawful web scraping, the advocate general argued."
+                "x": "AI had its \"official debut\" as the biggest issue in American politics, New York Assemblymember and RAISE Act author Alex Bores told Axios. Most political analysts don't see a permanent block on construction, Axios reported."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU 법원 법무관\nAI 기사 재사용에 제동",
-          "body": "Szpunar 법무관은 Gemini 같은 챗봇도 EU 언론사권에 묶인다고 봤다.",
-          "mini_headline": "EU 법무관, AI 기사 재사용 제한",
+          "headline": "유권자, 데이터센터\n규제안 20여 건 지지",
+          "body": "10개 주 데이터센터 제한·저지 안건 41건 중 20여 건이 통과한 듯하다.",
+          "mini_headline": "데이터센터 제한안, 투표서 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "일러스트: Brendan Lynch/Axios. 스톡: Getty Images"
               },
               {
                 "t": "p",
-                "x": "EU 최고법원의 핵심 법률 자문관은 AI 기업이 모델 학습에는 저작권 데이터를 자유롭게 쓸 수 있지만 AI 답변에 언론 출판물을 쓰는 데는 제약이 따른다고 봤다. AI 연구소의 데이터 사용 범위가 유럽연합 사법재판소(CJEU)에서 다뤄진 것은 이번이 처음이다."
+                "x": "Axios에 따르면 화요일 유권자들은 데이터센터 모라토리엄 수십 건을 승인했고, 텍사스를 비롯한 곳곳에서 10조 달러 규모 AI 인프라 구축의 속도 조절을 지지하는 후보를 여럿 당선시켰다."
               },
               {
                 "t": "p",
-                "x": "Maciej Szpunar 법무관은 화요일 낸 구속력 없는 의견에서 EU 법의 텍스트·데이터 마이닝 예외에 따라 저작물 이용은 “원칙적으로 자유롭게 허용된다”고 밝혔다. CJEU가 법무관 의견에 법적으로 묶이지는 않지만 대개 그 권고를 따른다."
+                "x": "Ballotpedia에 따르면 10개 주에서 투표에 부쳐진 데이터센터 안건 41건 중 개발을 제한하거나 막으려는 안 20여 건이 초기 개표에서 통과한 것으로 보인다. 이런 투표 대결은 오하이오에서 가장 많이 벌어졌고, 아칸소와 노스다코타 등 일부 지역은 아직 투표를 앞뒀다."
               },
               {
                 "t": "p",
-                "x": "Szpunar는 이번 의견의 바탕이 된 사건의 질문은 각하하라고 법원에 권고했다. 헝가리의 한 언론사가 Google의 Gemini 챗봇이 자사 기사 하나를 재현할 수 있다고 주장한 사건인데, 그는 Google이 이 언론사 기사로 AI를 학습시켰다는 증거가 없다고 지적했다."
+                "x": "지나 이노호사 텍사스 주지사 당선인은 2027년 중반(mid-2027)에 끝나는 회기에서 주 의회가 물·전기·대기·재산권 영향에 대응하는 법을 통과시킬 때까지 데이터센터 건설 모라토리엄을 유지하겠다고 공약했다. 리서치 업체 SemiAnalysis에 따르면 2028년 미국(U.S.) 신규 용량의 41%가 텍사스 몫이다."
               },
               {
                 "t": "p",
-                "x": "다만 챗봇이 답변을 만들려고 온라인 기사에 접근할 때는 여전히 언론사 권리를 침해할 수 있다고 했다. 페이월 우회처럼 기사에 불법으로 접근했는지, 챗봇이 “사실만 전달”하는지 아니면 기사의 “표현 형식”을 “알아볼 수 있는 방식”으로 재사용하는지에 따라 판단이 달라진다는 설명이다."
+                "x": "Americans for Responsible Innovation 공동 창업자 브래드 카슨은 Axios에 “우리가 방금 목격한 것은 AI 지진이었다”고 말했다. “유권자들은 AI와 데이터센터에 대한 규칙을 원한다는 분명한 메시지를 보냈다.”"
               },
               {
                 "t": "p",
-                "x": "법무관은 침해가 사업 모델에 내재해 있거나 불법 웹 스크래핑 같은 침해를 막을 실효성 있는 조치가 없었다면 챗봇 운영사가 책임을 진다고 봤다."
+                "x": "뉴욕주 하원의원이자 RAISE Act 발의자인 알렉스 보어스는 Axios에 AI가 미국 정치의 최대 쟁점으로 “공식 데뷔”했다고 말했다. 다만 Axios는 정치 분석가 대부분이 건설이 영구히 막히리라고 보지는 않는다고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU司法裁の法務官\nAIの記事再利用に限界",
-          "body": "Szpunar法務官はGemini等のチャットボットにEU報道出版者権の制約が及ぶとした。",
-          "mini_headline": "EU法務官、AIのニュース再利用を制限",
+          "headline": "有権者、データセンター\n規制案二十数件を支持",
+          "body": "10州でデータセンターを制限・阻止する41件の住民投票のうち、二十数件が可決した模様だ。",
+          "mini_headline": "データセンター規制、住民投票で可決",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "イラスト:Brendan Lynch/Axios。素材:Getty Images"
               },
               {
                 "t": "p",
-                "x": "EU最高裁判所の主要な法律顧問によれば、AI企業はモデルの学習に著作権のあるデータを自由に使えるが、AIの回答に報道出版物を使うことには制限がかかる。AIラボがデータ利用でどこまで許されるかをめぐる議論が欧州連合司法裁判所（CJEU）に持ち込まれたのは、これが初めてである。"
+                "x": "Axiosによると、有権者は火曜日、数十件のデータセンター・モラトリアムを承認し、テキサスを含む各地で10兆ドル規模のAIインフラ整備の減速を支持する候補者を多数当選させた。"
               },
               {
                 "t": "p",
-                "x": "同裁判所のMaciej Szpunar法務官は火曜日に拘束力のない意見を示し、EU法のテキスト・データマイニング例外の下で、著作物の利用は「原則として自由に許される」との考えを示した。CJEUは法務官の意見に法的に拘束されないが、通常はその助言に従う。"
+                "x": "Ballotpediaによると、10州で投票にかけられたデータセンター関連の41件のうち、開発の制限や阻止を目的とする二十数件の提案が初期開票で可決した模様だ。こうした投票での争いが最も多かったのはオハイオ州で、アーカンソー州やノースダコタ州など一部ではまだ投票が控えている。"
               },
               {
                 "t": "p",
-                "x": "Szpunarは、基となった事件に関する質問を不受理とするよう裁判所に勧告した。この事件では、ハンガリーの報道出版社が、GoogleのGeminiチャットボットが自社の記事の一つを再現できると主張していたが、Szpunarは、Googleが同社の記事でAIを学習させた証拠はないと指摘した。"
+                "x": "テキサス州知事に当選したジーナ・イノホサ氏は、2027年半ば(mid-2027)に終わる議会会期で州が水、電力、大気、財産権への影響に対処する法律を成立させるまで、データセンター建設のモラトリアムを維持すると訴えて選挙戦を戦った。調査会社SemiAnalysisによると、2028年の米国(U.S.)の新規容量の41%をテキサスが占める。"
               },
               {
                 "t": "p",
-                "x": "ただし、チャットボットが回答を生成するためにオンラインで記事にアクセスする際には、報道出版者の権利を侵害しうるとも述べた。それは、ペイウォールの回避など違法に記事へアクセスしたかどうか、またチャットボットが「事実を報じているだけ」か、記事の「表現形式」を「認識できる形で」再利用しているかによるという。"
+                "x": "「私たちが目にしたのはAIの地震だった」と、Americans for Responsible Innovationの共同創設者ブラッド・カーソン氏はAxiosに語った。「有権者は、AIとデータセンターにルールを求めるという明確なメッセージを送った」"
               },
               {
                 "t": "p",
-                "x": "法務官は、侵害がビジネスモデルに内在している場合や、違法なウェブスクレイピングなどの侵害を防ぐ効果的な措置を講じていない場合、チャットボットを運営する企業が責任を負うと論じた。"
+                "x": "ニューヨーク州議会議員でRAISE Actの提案者であるアレックス・ボアズ氏はAxiosに対し、AIが米国政治最大の争点として「正式デビュー」を果たしたと語った。Axiosによると、大半の政治アナリストは建設が恒久的に阻止されるとは見ていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU法院总法务官\n称AI复用新闻受限",
-          "body": "Szpunar总法务官称，Gemini等聊天机器人受EU新闻出版者权利限制。",
-          "mini_headline": "EU总法务官：AI复用新闻受限",
+          "headline": "选民支持约二十项\n数据中心限制措施",
+          "body": "据Ballotpedia统计，10个州41项限制或阻止数据中心的投票措施中约二十项似已通过。",
+          "mini_headline": "数据中心限制措施在投票中获通过",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "插图：Brendan Lynch/Axios。图片素材：Getty Images"
               },
               {
                 "t": "p",
-                "x": "据EU最高法院的一位重要法律顾问称，AI公司可以自由使用受版权保护的数据训练模型，但在AI回答中使用新闻出版物则受到限制。这是关于AI实验室在数据使用上能走多远的讨论首次进入欧盟法院（CJEU）。"
+                "x": "据Axios报道，选民周二批准了数十项数据中心暂停令，并选出多名主张放缓10万亿美元AI建设的候选人，其中包括得克萨斯州。"
               },
               {
                 "t": "p",
-                "x": "该法院总法务官Maciej Szpunar周二发表不具约束力的意见，认为根据EU法律中的文本与数据挖掘例外，使用受版权保护的作品“原则上是自由允许的”。虽然CJEU在法律上不受总法务官意见约束，但法院通常会采纳其建议。"
+                "x": "据Ballotpedia统计，在10个州付诸投票的41项数据中心相关措施中，根据初步计票结果，约二十项旨在限制或阻止开发的提案似已通过。俄亥俄州的此类投票之争最多，阿肯色州和北达科他州等地仍有部分投票尚未进行。"
               },
               {
                 "t": "p",
-                "x": "Szpunar建议法院驳回与基础案件相关的问题。在该案中，一家匈牙利新闻出版商声称Google的Gemini聊天机器人能够复现其一篇文章；Szpunar认为，没有证据表明Google使用了该出版商的文章来训练其AI。"
+                "x": "得克萨斯州当选州长Gina Hinojosa在竞选中承诺，在该州于2027年年中（mid-2027）结束的立法会期内通过应对水、电力、空气和财产权影响的法律之前，维持数据中心建设暂停令。据研究公司SemiAnalysis称，2028年美国（U.S.）新增容量中有41%来自得克萨斯州。"
               },
               {
                 "t": "p",
-                "x": "但他表示，聊天机器人在线访问文章以生成回答时，仍可能侵犯新闻出版商的权利——这取决于文章是否被非法访问，例如绕过付费墙，以及聊天机器人是“仅报道事实”，还是以“可识别的方式”复用文章的“表达形式”。"
+                "x": "“我们刚刚目睹的是一场AI地震，”Americans for Responsible Innovation联合创始人Brad Carson对Axios表示，“选民刚刚发出明确信息：他们希望为AI和数据中心制定规则。”"
               },
               {
                 "t": "p",
-                "x": "总法务官认为，如果侵权行为是其商业模式所固有的，或公司未能采取有效措施防止非法网络抓取等侵权行为，运营聊天机器人的公司须承担责任。"
+                "x": "纽约州众议员、RAISE Act起草人Alex Bores对Axios表示，AI已作为美国政治中最大的议题“正式亮相”。Axios报道称，大多数政治分析人士并不认为建设会被永久叫停。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Asesor del tribunal de la EU\nlimita el uso de noticias en AI",
-          "body": "Según el abogado general Szpunar, chatbots como Gemini tienen límites por derechos de editores de prensa de la EU.",
-          "mini_headline": "Asesor de la EU limita el reúso de noticias por AI",
+          "headline": "Votantes apoyan unas dos docenas\nde límites a centros de datos",
+          "body": "Según Ballotpedia, unas dos docenas de 41 medidas para frenar centros de datos en 10 estados parecen haber pasado.",
+          "mini_headline": "Límites a centros de datos aprobados en las urnas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "Ilustración: Brendan Lynch/Axios. Imagen de archivo: Getty Images"
               },
               {
                 "t": "p",
-                "x": "Las empresas de AI pueden usar libremente datos protegidos por derechos de autor para entrenar modelos, según un asesor jurídico clave del máximo tribunal de la EU, pero el uso de publicaciones de prensa en las respuestas de AI tiene restricciones. Es la primera vez que un debate sobre hasta dónde pueden llegar los laboratorios de AI en el uso de datos llega al Tribunal de Justicia de la Unión Europea (CJEU)."
+                "x": "Los votantes aprobaron el martes decenas de moratorias a centros de datos y eligieron a varios candidatos partidarios de frenar una expansión de la IA de 10 billones de dólares, incluso en Texas, según Axios."
               },
               {
                 "t": "p",
-                "x": "En una opinión no vinculante emitida el martes, el abogado general del tribunal, Maciej Szpunar, sugirió que el uso de obras protegidas “está, por regla general, libremente permitido” en virtud de una excepción de minería de textos y datos de la legislación de la EU. Aunque el CJEU no está legalmente obligado por las opiniones de los abogados generales, el tribunal suele seguir su consejo."
+                "x": "De 41 medidas sobre centros de datos sometidas a votación en 10 estados, unas dos docenas de propuestas destinadas a restringir o bloquear su desarrollo parecían haber sido aprobadas según los primeros resultados, de acuerdo con Ballotpedia. Ohio concentró la mayor parte de esas disputas electorales, y aún quedan votaciones pendientes, entre ellas en Arkansas y Dakota del Norte."
               },
               {
                 "t": "p",
-                "x": "Szpunar aconsejó al tribunal declarar inadmisibles las cuestiones relativas al caso de fondo, en el que un editor de prensa húngaro sostenía que el chatbot Gemini de Google podía reproducir uno de sus artículos, y argumentó que no había pruebas de que Google hubiera usado los artículos del editor para entrenar su AI."
+                "x": "La gobernadora electa de Texas, Gina Hinojosa, hizo campaña con la promesa de mantener una moratoria a la construcción de centros de datos hasta que el estado apruebe leyes sobre los efectos en el agua, la electricidad, el aire y los derechos de propiedad en la sesión legislativa que termina a mediados de 2027 (mid-2027). Texas representa el 41% de la nueva capacidad de EE. UU. (U.S.) en 2028, según la firma de investigación SemiAnalysis."
               },
               {
                 "t": "p",
-                "x": "Pero dijo que los chatbots aún podrían vulnerar el derecho del editor de prensa al acceder a artículos en línea para generar una respuesta, según si el artículo se obtuvo de forma ilícita, por ejemplo eludiendo muros de pago, y si el chatbot “se limita a informar de hechos” o reutiliza la “forma de expresión” del artículo “de manera reconocible”."
+                "x": "\"Lo que acabamos de presenciar fue un terremoto de la IA\", dijo a Axios Brad Carson, cofundador de Americans for Responsible Innovation. \"Los votantes acaban de enviar un mensaje claro: quieren reglas para la IA y los centros de datos\"."
               },
               {
                 "t": "p",
-                "x": "La empresa que opera un chatbot es responsable si las infracciones son inherentes a su modelo de negocio o si no ha adoptado medidas eficaces para evitar infracciones como el web scraping ilícito, argumentó el abogado general."
+                "x": "La IA tuvo su \"debut oficial\" como el mayor tema de la política estadounidense, dijo a Axios Alex Bores, asambleísta de Nueva York y autor de la RAISE Act. La mayoría de los analistas políticos no prevé un bloqueo permanente de la construcción, informó Axios."
               }
             ]
           }
@@ -223,141 +625,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU 법원 법무관\nAI 기사 재사용에 제동",
-          "body": "Szpunar 법무관은 Gemini 등 챗봇이 EU 언론사권에 제약받는다고 봤다.",
-          "mini_headline": "EU 법무관, AI 기사 재사용 제한",
+          "headline": "유권자, 데이터센터\n규제안 20여 건 지지",
+          "body": "10개 주 데이터센터 제한·저지 안건 41건 중 20여 건이 통과한 듯하다.",
+          "mini_headline": "데이터센터 제한안, 투표서 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "일러스트: Brendan Lynch/Axios. 스톡: Getty Images"
               },
               {
                 "t": "p",
-                "x": "EU 최고법원의 핵심 법률 자문관에 따르면 AI 기업은 모델 학습에 저작권 데이터를 자유롭게 쓸 수 있지만, AI 답변에 언론 출판물을 쓰는 데는 제약이 따른다. AI 연구소가 데이터를 어디까지 쓸 수 있는지에 관한 논의가 유럽연합 사법재판소(CJEU)에 오른 것은 이번이 처음이다."
+                "x": "Axios에 따르면 화요일 유권자들은 데이터센터 모라토리엄 수십 건을 승인했고, 텍사스를 포함한 곳곳에서 10조 달러 규모 AI 인프라 구축의 속도 조절을 지지하는 후보 다수를 당선시켰다."
               },
               {
                 "t": "p",
-                "x": "법원의 Maciej Szpunar 법무관은 화요일 구속력 없는 의견을 내고, EU 법의 텍스트·데이터 마이닝 예외에 따라 저작물 이용은 “원칙적으로 자유롭게 허용된다”고 밝혔다. CJEU는 법무관 의견에 법적으로 구속되지 않지만, 대개 그 권고를 따른다."
+                "x": "Ballotpedia에 따르면 10개 주에서 투표에 부쳐진 데이터센터 안건 41건 가운데 개발을 제한하거나 막으려는 안 20여 건이 초기 개표 결과 통과한 것으로 보인다. 이런 투표 대결이 가장 많이 벌어진 곳은 오하이오였으며, 아칸소와 노스다코타 등 일부 지역은 아직 투표를 앞두고 있다."
               },
               {
                 "t": "p",
-                "x": "Szpunar는 바탕이 된 사건에 관한 질문을 각하하라고 법원에 권고했다. 이 사건에서 헝가리의 한 언론사는 Google의 Gemini 챗봇이 자사 기사 하나를 재현할 수 있다고 주장했는데, 그는 Google이 해당 언론사 기사로 AI를 학습시켰다는 증거가 없다고 지적했다."
+                "x": "지나 이노호사 텍사스 주지사 당선인은 2027년 중반(mid-2027)에 끝나는 회기에서 주 의회가 물·전기·대기·재산권 영향에 대응하는 법을 통과시킬 때까지 데이터센터 건설 모라토리엄을 유지하겠다고 공약했다. 리서치 업체 SemiAnalysis에 따르면 텍사스는 2028년 미국(U.S.) 신규 용량의 41%를 차지한다."
               },
               {
                 "t": "p",
-                "x": "다만 그는 챗봇이 답변을 생성하려고 온라인 기사에 접근할 때 여전히 언론사의 권리를 침해할 수 있다고 했다. 페이월 우회처럼 기사에 불법으로 접근했는지, 챗봇이 “사실만 전달”하는지 아니면 기사의 “표현 형식”을 “알아볼 수 있는 방식”으로 재사용하는지에 따라 달라진다는 것이다."
+                "x": "“우리가 방금 목격한 것은 AI 지진이었다”고 Americans for Responsible Innovation 공동 창업자 브래드 카슨은 Axios에 말했다. “유권자들은 AI와 데이터센터에 대한 규칙을 원한다는 분명한 메시지를 보냈다.”"
               },
               {
                 "t": "p",
-                "x": "법무관은 침해가 사업 모델에 내재해 있거나, 불법 웹 스크래핑 같은 침해를 막을 효과적인 조치를 취하지 않았다면 챗봇 운영 기업이 책임을 진다고 주장했다."
+                "x": "뉴욕주 하원의원이자 RAISE Act 발의자인 알렉스 보어스는 AI가 미국 정치의 최대 쟁점으로 “공식 데뷔”했다고 Axios에 말했다. Axios는 대부분의 정치 분석가가 건설이 영구적으로 막히리라고 보지는 않는다고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU司法裁の法務官\nAIの記事再利用に限界",
-          "body": "Szpunar法務官はGemini等のチャットボットにEU報道出版者権の制約が及ぶとした。",
-          "mini_headline": "EU法務官、AIのニュース再利用を制限",
+          "headline": "有権者、データセンター\n規制案二十数件を支持",
+          "body": "10州でデータセンターを制限・阻止する41件の住民投票のうち、二十数件が可決した模様だ。",
+          "mini_headline": "データセンター規制、住民投票で可決",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "イラスト:Brendan Lynch/Axios。素材:Getty Images"
               },
               {
                 "t": "p",
-                "x": "EU最高裁判所の主要な法律顧問によれば、AI企業はモデルの学習に著作権のあるデータを自由に使えるが、AIの回答に報道出版物を使うことには制限がかかる。AIラボがデータ利用でどこまで許されるかをめぐる議論が欧州連合司法裁判所（CJEU）に持ち込まれたのは、これが初めてである。"
+                "x": "Axiosによると、有権者は火曜日、数十件のデータセンター・モラトリアムを承認し、テキサスを含む各地で10兆ドル規模のAIインフラ整備の減速を支持する候補者を多数当選させた。"
               },
               {
                 "t": "p",
-                "x": "同裁判所のMaciej Szpunar法務官は火曜日に拘束力のない意見を示し、EU法のテキスト・データマイニング例外の下で、著作物の利用は「原則として自由に許される」との考えを示した。CJEUは法務官の意見に法的に拘束されないが、通常はその助言に従う。"
+                "x": "Ballotpediaによると、10州で投票にかけられたデータセンター関連の41件のうち、開発の制限や阻止を目的とする二十数件の提案が初期開票で可決した模様だ。こうした投票での争いが最も多かったのはオハイオ州で、アーカンソー州やノースダコタ州など一部ではまだ投票が控えている。"
               },
               {
                 "t": "p",
-                "x": "Szpunarは、基となった事件に関する質問を不受理とするよう裁判所に勧告した。この事件では、ハンガリーの報道出版社が、GoogleのGeminiチャットボットが自社の記事の一つを再現できると主張していたが、Szpunarは、Googleが同社の記事でAIを学習させた証拠はないと指摘した。"
+                "x": "テキサス州知事に当選したジーナ・イノホサ氏は、2027年半ば(mid-2027)に終わる議会会期で州が水、電力、大気、財産権への影響に対処する法律を成立させるまで、データセンター建設のモラトリアムを維持すると訴えて選挙戦を戦った。調査会社SemiAnalysisによると、2028年の米国(U.S.)の新規容量の41%をテキサスが占める。"
               },
               {
                 "t": "p",
-                "x": "ただし、チャットボットが回答を生成するためにオンラインで記事にアクセスする際には、報道出版者の権利を侵害しうるとも述べた。それは、ペイウォールの回避など違法に記事へアクセスしたかどうか、またチャットボットが「事実を報じているだけ」か、記事の「表現形式」を「認識できる形で」再利用しているかによるという。"
+                "x": "「私たちが目にしたのはAIの地震だった」と、Americans for Responsible Innovationの共同創設者ブラッド・カーソン氏はAxiosに語った。「有権者は、AIとデータセンターにルールを求めるという明確なメッセージを送った」"
               },
               {
                 "t": "p",
-                "x": "法務官は、侵害がビジネスモデルに内在している場合や、違法なウェブスクレイピングなどの侵害を防ぐ効果的な措置を講じていない場合、チャットボットを運営する企業が責任を負うと論じた。"
+                "x": "ニューヨーク州議会議員でRAISE Actの提案者であるアレックス・ボアズ氏はAxiosに対し、AIが米国政治最大の争点として「正式デビュー」を果たしたと語った。Axiosによると、大半の政治アナリストは建設が恒久的に阻止されるとは見ていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU法院总法务官\n称AI复用新闻受限",
-          "body": "Szpunar总法务官称，Gemini等聊天机器人受EU新闻出版者权利限制。",
-          "mini_headline": "EU总法务官：AI复用新闻受限",
+          "headline": "选民支持约二十项\n数据中心限制措施",
+          "body": "据Ballotpedia统计，10个州41项限制或阻止数据中心的投票措施中约二十项似已通过。",
+          "mini_headline": "数据中心限制措施在投票中获通过",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "插图：Brendan Lynch/Axios。图片素材：Getty Images"
               },
               {
                 "t": "p",
-                "x": "据EU最高法院的一位重要法律顾问称，AI公司可以自由使用受版权保护的数据训练模型，但在AI回答中使用新闻出版物则受到限制。这是关于AI实验室在数据使用上能走多远的讨论首次进入欧盟法院（CJEU）。"
+                "x": "据Axios报道，选民周二批准了数十项数据中心暂停令，并选出多名主张放缓10万亿美元AI建设的候选人，其中包括得克萨斯州。"
               },
               {
                 "t": "p",
-                "x": "该法院总法务官Maciej Szpunar周二发表不具约束力的意见，认为根据EU法律中的文本与数据挖掘例外，使用受版权保护的作品“原则上是自由允许的”。虽然CJEU在法律上不受总法务官意见约束，但法院通常会采纳其建议。"
+                "x": "据Ballotpedia统计，在10个州付诸投票的41项数据中心相关措施中，根据初步计票结果，约二十项旨在限制或阻止开发的提案似已通过。俄亥俄州的此类投票之争最多，阿肯色州和北达科他州等地仍有部分投票尚未进行。"
               },
               {
                 "t": "p",
-                "x": "Szpunar建议法院驳回与基础案件相关的问题。在该案中，一家匈牙利新闻出版商声称Google的Gemini聊天机器人能够复现其一篇文章；Szpunar认为，没有证据表明Google使用了该出版商的文章来训练其AI。"
+                "x": "得克萨斯州当选州长Gina Hinojosa在竞选中承诺，在该州于2027年年中（mid-2027）结束的立法会期内通过应对水、电力、空气和财产权影响的法律之前，维持数据中心建设暂停令。据研究公司SemiAnalysis称，2028年美国（U.S.）新增容量中有41%来自得克萨斯州。"
               },
               {
                 "t": "p",
-                "x": "但他表示，聊天机器人在线访问文章以生成回答时，仍可能侵犯新闻出版商的权利——这取决于文章是否被非法访问，例如绕过付费墙，以及聊天机器人是“仅报道事实”，还是以“可识别的方式”复用文章的“表达形式”。"
+                "x": "“我们刚刚目睹的是一场AI地震，”Americans for Responsible Innovation联合创始人Brad Carson对Axios表示，“选民刚刚发出明确信息：他们希望为AI和数据中心制定规则。”"
               },
               {
                 "t": "p",
-                "x": "总法务官认为，如果侵权行为是其商业模式所固有的，或公司未能采取有效措施防止非法网络抓取等侵权行为，运营聊天机器人的公司须承担责任。"
+                "x": "纽约州众议员、RAISE Act起草人Alex Bores对Axios表示，AI已作为美国政治中最大的议题“正式亮相”。Axios报道称，大多数政治分析人士并不认为建设会被永久叫停。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Asesor del tribunal de la EU\nlimita el uso de noticias en AI",
-          "body": "Según el abogado general Szpunar, chatbots como Gemini tienen límites por derechos de editores de prensa de la EU.",
-          "mini_headline": "Asesor de la EU limita el reúso de noticias por AI",
+          "headline": "Votantes apoyan unas dos docenas\nde límites a centros de datos",
+          "body": "Según Ballotpedia, unas dos docenas de 41 medidas para frenar centros de datos en 10 estados parecen haber pasado.",
+          "mini_headline": "Límites a centros de datos aprobados en las urnas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
-                "cap": "Samuel Boivin/NurPhoto via Getty Images"
+                "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+                "cap": "Ilustración: Brendan Lynch/Axios. Imagen de archivo: Getty Images"
               },
               {
                 "t": "p",
-                "x": "Las empresas de AI pueden usar libremente datos protegidos por derechos de autor para entrenar modelos, según un asesor jurídico clave del máximo tribunal de la EU, pero el uso de publicaciones de prensa en las respuestas de AI tiene restricciones. Es la primera vez que un debate sobre hasta dónde pueden llegar los laboratorios de AI en el uso de datos llega al Tribunal de Justicia de la Unión Europea (CJEU)."
+                "x": "Los votantes aprobaron el martes decenas de moratorias a centros de datos y eligieron a varios candidatos partidarios de frenar una expansión de la IA de 10 billones de dólares, incluso en Texas, según Axios."
               },
               {
                 "t": "p",
-                "x": "En una opinión no vinculante emitida el martes, el abogado general del tribunal, Maciej Szpunar, sugirió que el uso de obras protegidas “está, por regla general, libremente permitido” en virtud de una excepción de minería de textos y datos de la legislación de la EU. Aunque el CJEU no está legalmente obligado por las opiniones de los abogados generales, el tribunal suele seguir su consejo."
+                "x": "De 41 medidas sobre centros de datos sometidas a votación en 10 estados, unas dos docenas de propuestas destinadas a restringir o bloquear su desarrollo parecían haber sido aprobadas según los primeros resultados, de acuerdo con Ballotpedia. Ohio concentró la mayor parte de esas disputas electorales, y aún quedan votaciones pendientes, entre ellas en Arkansas y Dakota del Norte."
               },
               {
                 "t": "p",
-                "x": "Szpunar aconsejó al tribunal declarar inadmisibles las cuestiones relativas al caso de fondo, en el que un editor de prensa húngaro sostenía que el chatbot Gemini de Google podía reproducir uno de sus artículos, y argumentó que no había pruebas de que Google hubiera usado los artículos del editor para entrenar su AI."
+                "x": "La gobernadora electa de Texas, Gina Hinojosa, hizo campaña con la promesa de mantener una moratoria a la construcción de centros de datos hasta que el estado apruebe leyes sobre los efectos en el agua, la electricidad, el aire y los derechos de propiedad en la sesión legislativa que termina a mediados de 2027 (mid-2027). Texas representa el 41% de la nueva capacidad de EE. UU. (U.S.) en 2028, según la firma de investigación SemiAnalysis."
               },
               {
                 "t": "p",
-                "x": "Pero dijo que los chatbots aún podrían vulnerar el derecho del editor de prensa al acceder a artículos en línea para generar una respuesta, según si el artículo se obtuvo de forma ilícita, por ejemplo eludiendo muros de pago, y si el chatbot “se limita a informar de hechos” o reutiliza la “forma de expresión” del artículo “de manera reconocible”."
+                "x": "\"Lo que acabamos de presenciar fue un terremoto de la IA\", dijo a Axios Brad Carson, cofundador de Americans for Responsible Innovation. \"Los votantes acaban de enviar un mensaje claro: quieren reglas para la IA y los centros de datos\"."
               },
               {
                 "t": "p",
-                "x": "La empresa que opera un chatbot es responsable si las infracciones son inherentes a su modelo de negocio o si no ha adoptado medidas eficaces para evitar infracciones como el web scraping ilícito, argumentó el abogado general."
+                "x": "La IA tuvo su \"debut oficial\" como el mayor tema de la política estadounidense, dijo a Axios Alex Bores, asambleísta de Nueva York y autor de la RAISE Act. La mayoría de los analistas políticos no prevé un bloqueo permanente de la construcción, informó Axios."
               }
             ]
           }
@@ -365,457 +767,15 @@
       }
     },
     {
-      "id": "politics-china-ai-lifecycle-rules",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "중국, AI 전 과정\n규제 지침 마련 착수",
-      "body": "중국 당국이 위험 공시와 규제 샌드박스를 담은 AI 규제 지침을 마련한다.",
-      "mini_headline": "중국, AI 전 과정 규제",
-      "tool": "Politics",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261103148800009",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-            "cap": "딥시크. [로이터=연합뉴스 자료사진]"
-          },
-          {
-            "t": "p",
-            "x": "중국 당국이 인공지능(AI)의 개발부터 활용까지 전 과정을 아우르는 광범위한 규제 가이드라인을 마련하기로 했다. 전 세계적으로 대두되고 있는 AI의 통제력 상실 등을 둘러싼 보안·안전 문제에 대한 대응 차원으로 풀이된다."
-          },
-          {
-            "t": "p",
-            "x": "3일 블룸버그통신에 따르면 중국 국가발전개혁위원회(NDRC)는 이날 AI 모델의 개발과 활용 등을 관리·감독하기 위한 입법을 가속화하고 있다고 밝혔다. 왕뤄멍 국가발전개혁위원회 혁신·첨단기술발전사(司) 부사장은 이날 브리핑에서 이번에 도입될 규제가 데이터부터 컴퓨팅 자원에 이르는 광범위한 영역에 적용될 것이라고 말했다. 그는 중국 당국이 규제 이행 상황을 정기적으로 평가하고 시대에 뒤떨어진 조항은 개정될 것이라고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "구체적인 대상과 관련해서는 미국의 오픈AI와 앤트로픽 등에 도전하고 있는 딥시크, 문샷AI, 알리바바그룹 등 중국의 AI 기업들이 포함될 전망이다."
-          },
-          {
-            "t": "p",
-            "x": "왕 부사장은 시행착오를 보다 폭넓게 허용하기 위해 분야별로 규제 샌드박스도 도입할 것이라고 밝혔다. 그러면서 그는 AI 개발업체와 운영업체들이 위험 관리를 강화하는 동시에 안전 위험과 사고, 취약점을 공개해야 한다고 강조했다."
-          },
-          {
-            "t": "p",
-            "x": "중국 정부는 AI가 고용과 일자리 대체에 미치는 영향도 모니터링할 계획이다. 왕 부사장은 AI의 영향을 받게 될 노동자들에게 당국이 사회 안전망을 제공할 것이라고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "이러한 움직임은 AI가 통제 불능 상태에 빠지거나 사이버 공격에 악용될 가능성을 인식하고 균형을 찾으려는 중국 정부의 노력을 반영한다고 블룸버그는 분석했다. 중국 정부가 AI가 가져올 대규모 사회적 혼란 또한 경계하고 있는 것으로도 풀이된다."
-          },
-          {
-            "t": "p",
-            "x": "최근 미국 실리콘밸리의 기술기업 수장과 전문가들이 AI가 인류의 존립을 위협할 수 있다고 경고한 데 이어 AI가 통제를 벗어나거나 사이버 공격에 악용되는 사례가 잇따르면서 전 세계적으로 우려가 커지고 있다. 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 지난 9월 워싱턴 정상회담에서 AI의 위험과 이점에 대해 양국이 의견을 교환하고 관련 사고 때도 소통하기 위한 대화 채널을 구축하기로 합의한 바 있다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "중국, AI 전 과정\n규제 지침 마련 착수",
-          "body": "중국 당국이 위험 공시와 규제 샌드박스를 담은 AI 규제 지침을 마련한다.",
-          "mini_headline": "중국, AI 전 과정 규제",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "딥시크. [로이터=연합뉴스 자료사진]"
-              },
-              {
-                "t": "p",
-                "x": "중국 당국이 인공지능(AI)의 개발부터 활용까지 전 과정을 아우르는 광범위한 규제 가이드라인을 마련하기로 했다. 전 세계적으로 대두되고 있는 AI의 통제력 상실 등을 둘러싼 보안·안전 문제에 대한 대응 차원으로 풀이된다."
-              },
-              {
-                "t": "p",
-                "x": "3일 블룸버그통신에 따르면 중국 국가발전개혁위원회(NDRC)는 이날 AI 모델의 개발과 활용 등을 관리·감독하기 위한 입법을 가속화하고 있다고 밝혔다. 왕뤄멍 국가발전개혁위원회 혁신·첨단기술발전사(司) 부사장은 이날 브리핑에서 이번에 도입될 규제가 데이터부터 컴퓨팅 자원에 이르는 광범위한 영역에 적용될 것이라고 말했다. 그는 중국 당국이 규제 이행 상황을 정기적으로 평가하고 시대에 뒤떨어진 조항은 개정될 것이라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "구체적인 대상과 관련해서는 미국의 오픈AI와 앤트로픽 등에 도전하고 있는 딥시크, 문샷AI, 알리바바그룹 등 중국의 AI 기업들이 포함될 전망이다."
-              },
-              {
-                "t": "p",
-                "x": "왕 부사장은 시행착오를 보다 폭넓게 허용하기 위해 분야별로 규제 샌드박스도 도입할 것이라고 밝혔다. 그러면서 그는 AI 개발업체와 운영업체들이 위험 관리를 강화하는 동시에 안전 위험과 사고, 취약점을 공개해야 한다고 강조했다."
-              },
-              {
-                "t": "p",
-                "x": "중국 정부는 AI가 고용과 일자리 대체에 미치는 영향도 모니터링할 계획이다. 왕 부사장은 AI의 영향을 받게 될 노동자들에게 당국이 사회 안전망을 제공할 것이라고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "이러한 움직임은 AI가 통제 불능 상태에 빠지거나 사이버 공격에 악용될 가능성을 인식하고 균형을 찾으려는 중국 정부의 노력을 반영한다고 블룸버그는 분석했다. 중국 정부가 AI가 가져올 대규모 사회적 혼란 또한 경계하고 있는 것으로도 풀이된다."
-              },
-              {
-                "t": "p",
-                "x": "최근 미국 실리콘밸리의 기술기업 수장과 전문가들이 AI가 인류의 존립을 위협할 수 있다고 경고한 데 이어 AI가 통제를 벗어나거나 사이버 공격에 악용되는 사례가 잇따르면서 전 세계적으로 우려가 커지고 있다. 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 지난 9월 워싱턴 정상회담에서 AI의 위험과 이점에 대해 양국이 의견을 교환하고 관련 사고 때도 소통하기 위한 대화 채널을 구축하기로 합의한 바 있다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "China starts drafting rules\nfor the full AI lifecycle",
-          "body": "Chinese authorities are drafting AI rules that include risk disclosure and regulatory sandboxes.",
-          "mini_headline": "China moves to regulate the full AI lifecycle",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek. [Reuters=Yonhap News file photo]"
-              },
-              {
-                "t": "p",
-                "x": "Chinese authorities have decided to draw up broad regulatory guidelines covering the entire lifecycle of artificial intelligence (AI), from development to use. The move is seen as a response to security and safety concerns, such as loss of control over AI, that are emerging around the world."
-              },
-              {
-                "t": "p",
-                "x": "According to Bloomberg on the 3rd, China's National Development and Reform Commission (NDRC) said that day it is accelerating legislation to manage and oversee the development and use of AI models. Wang Luomeng, deputy director-general of the NDRC's Department of Innovation and High-Tech Development, told a briefing that day that the new rules will apply to a wide range of areas, from data to computing resources. He added that Chinese authorities will regularly assess how the rules are being implemented and that outdated provisions will be revised."
-              },
-              {
-                "t": "p",
-                "x": "The rules are expected to cover Chinese AI companies such as DeepSeek, Moonshot AI and Alibaba Group, which are challenging U.S. firms such as OpenAI and Anthropic."
-              },
-              {
-                "t": "p",
-                "x": "Wang said regulatory sandboxes will also be introduced by sector to allow wider room for trial and error. He stressed that AI developers and operators must strengthen risk management while disclosing safety risks, incidents and vulnerabilities."
-              },
-              {
-                "t": "p",
-                "x": "The Chinese government also plans to monitor AI's impact on employment and job displacement. Wang said authorities will provide a social safety net for workers affected by AI."
-              },
-              {
-                "t": "p",
-                "x": "Bloomberg said the moves reflect the Chinese government's effort to strike a balance, recognizing the possibility that AI could spiral out of control or be exploited in cyberattacks. They also suggest the government is wary of the large-scale social disruption AI could bring."
-              },
-              {
-                "t": "p",
-                "x": "Global concern has been growing as tech leaders and experts in Silicon Valley in the U.S. have recently warned that AI could threaten humanity's existence, and as cases of AI escaping control or being exploited in cyberattacks have followed. U.S. President Donald Trump and Chinese President Xi Jinping agreed at their summit in Washington in September to set up a dialogue channel for the two countries to exchange views on the risks and benefits of AI and to communicate in the event of related incidents."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "中国、AIの全過程\n規制指針の策定へ",
-          "body": "中国当局が、リスク開示と規制サンドボックスを盛り込んだAI規制指針を策定する。",
-          "mini_headline": "中国、AIの全過程を規制",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek。［ロイター＝聯合ニュース資料写真］"
-              },
-              {
-                "t": "p",
-                "x": "中国当局は、人工知能（AI）の開発から活用までの全過程を網羅する広範な規制ガイドラインを策定することにした。世界的に浮上しているAIの制御喪失などをめぐる安全保障・安全上の問題への対応とみられる。"
-              },
-              {
-                "t": "p",
-                "x": "ブルームバーグ通信によると、中国国家発展改革委員会（NDRC）は3日、AIモデルの開発や活用などを管理・監督するための立法を加速していると明らかにした。国家発展改革委員会イノベーション・ハイテク発展司のワン・ルオモン副司長はこの日の会見で、今回導入される規制がデータから計算資源に至る広範な領域に適用されると述べた。また、中国当局が規制の履行状況を定期的に評価し、時代遅れの条項は改正されると付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "具体的な対象には、米国のOpenAIやAnthropicなどに挑むDeepSeek、Moonshot AI、Alibaba Groupなど中国のAI企業が含まれる見通しだ。"
-              },
-              {
-                "t": "p",
-                "x": "ワン副司長は、試行錯誤をより幅広く認めるため、分野別に規制サンドボックスも導入すると明らかにした。そのうえで、AI開発企業と運営企業がリスク管理を強化すると同時に、安全上のリスクや事故、脆弱性を公開しなければならないと強調した。"
-              },
-              {
-                "t": "p",
-                "x": "中国政府は、AIが雇用と仕事の代替に与える影響も監視する計画だ。ワン副司長は、AIの影響を受ける労働者に当局が社会的セーフティーネットを提供すると説明した。"
-              },
-              {
-                "t": "p",
-                "x": "ブルームバーグは、こうした動きはAIが制御不能に陥ったりサイバー攻撃に悪用されたりする可能性を認識し、バランスを取ろうとする中国政府の努力を反映していると分析した。中国政府がAIのもたらす大規模な社会的混乱も警戒しているとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "最近、米シリコンバレーのテック企業トップや専門家がAIが人類の存続を脅かしうると警告したのに続き、AIが制御を外れたりサイバー攻撃に悪用されたりする事例が相次ぎ、世界的に懸念が高まっている。ドナルド・トランプ米大統領と習近平中国国家主席は、9月のワシントンでの首脳会談で、AIのリスクと利点について両国が意見を交換し、関連する事故の際にも意思疎通を図るための対話チャネルを構築することで合意している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "中国着手制定AI\n全流程监管指南",
-          "body": "中国当局将着手制定涵盖风险披露与监管沙盒等内容的AI监管指南。",
-          "mini_headline": "中国推进AI全流程监管",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek。[路透社=韩联社资料照片]"
-              },
-              {
-                "t": "p",
-                "x": "中国当局决定制定涵盖人工智能（AI）从开发到应用全流程的广泛监管指南。此举被解读为应对全球日益凸显的AI失控等安全问题。"
-              },
-              {
-                "t": "p",
-                "x": "据彭博社3日报道，中国国家发展和改革委员会（NDRC）当天表示，正在加快推进管理和监督AI模型开发与应用的立法。国家发展改革委创新和高技术发展司副司长Wang Luomeng当天在发布会上表示，此次将出台的规定将适用于从数据到算力资源的广泛领域。他补充说，中国当局将定期评估规定的执行情况，过时的条款将得到修订。"
-              },
-              {
-                "t": "p",
-                "x": "具体对象预计将包括正在挑战美国OpenAI和Anthropic等公司的DeepSeek、Moonshot AI、Alibaba Group等中国AI企业。"
-              },
-              {
-                "t": "p",
-                "x": "这位副司长表示，为了更广泛地允许试错，还将按领域引入监管沙盒。他同时强调，AI开发企业和运营企业在加强风险管理的同时，必须公开安全风险、事故和漏洞。"
-              },
-              {
-                "t": "p",
-                "x": "中国政府还计划监测AI对就业和岗位替代的影响。这位副司长说，当局将为受AI影响的劳动者提供社会安全网。"
-              },
-              {
-                "t": "p",
-                "x": "彭博社分析称，这些举措反映出中国政府意识到AI可能失控或被用于网络攻击，并努力寻求平衡。这也被解读为中国政府同样警惕AI可能带来的大规模社会混乱。"
-              },
-              {
-                "t": "p",
-                "x": "近来，美国硅谷科技企业负责人和专家警告AI可能威胁人类生存，此后AI失控或被用于网络攻击的案例接连出现，全球担忧日益加剧。美国总统唐纳德·特朗普与中国国家主席习近平在9月的华盛顿峰会上同意建立对话渠道，就AI的风险与益处交换意见，并在发生相关事故时进行沟通。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "China empieza a fijar reglas\npara todo el ciclo de la AI",
-          "body": "Las autoridades chinas preparan pautas para la AI con divulgación de riesgos y entornos de prueba regulatorios.",
-          "mini_headline": "China regula todo el ciclo de la AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek. [Reuters=Yonhap, foto de archivo]"
-              },
-              {
-                "t": "p",
-                "x": "Las autoridades chinas han decidido elaborar amplias directrices regulatorias que abarcan todo el proceso de la inteligencia artificial (AI), desde su desarrollo hasta su uso. Se interpreta como una respuesta a los problemas de seguridad, como la pérdida de control de la AI, que están surgiendo en todo el mundo."
-              },
-              {
-                "t": "p",
-                "x": "Según Bloomberg, el día 3 la Comisión Nacional de Desarrollo y Reforma (NDRC) de China afirmó que está acelerando la legislación para gestionar y supervisar el desarrollo y el uso de modelos de AI. Wang Luomeng, subdirector del Departamento de Innovación y Desarrollo de Alta Tecnología de la NDRC, dijo ese día en una rueda de prensa que las normas que se introducirán se aplicarán a una amplia gama de ámbitos, desde los datos hasta los recursos de computación. Añadió que las autoridades chinas evaluarán periódicamente la aplicación de las normas y que las disposiciones obsoletas se revisarán."
-              },
-              {
-                "t": "p",
-                "x": "Se prevé que entre los afectados figuren empresas chinas de AI como DeepSeek, Moonshot AI y Alibaba Group, que desafían a las estadounidenses OpenAI y Anthropic, entre otras."
-              },
-              {
-                "t": "p",
-                "x": "Wang señaló que también se introducirán entornos de prueba regulatorios por sectores para permitir un margen más amplio de ensayo y error. Subrayó que los desarrolladores y operadores de AI deben reforzar la gestión de riesgos y, al mismo tiempo, divulgar los riesgos de seguridad, los incidentes y las vulnerabilidades."
-              },
-              {
-                "t": "p",
-                "x": "El Gobierno chino también prevé vigilar el impacto de la AI en el empleo y la sustitución de puestos de trabajo. Wang explicó que las autoridades ofrecerán una red de protección social a los trabajadores afectados por la AI."
-              },
-              {
-                "t": "p",
-                "x": "Según el análisis de Bloomberg, estas medidas reflejan el esfuerzo del Gobierno chino por encontrar un equilibrio, consciente de la posibilidad de que la AI quede fuera de control o se utilice en ciberataques. También se interpreta que el Gobierno chino teme la disrupción social a gran escala que podría traer la AI."
-              },
-              {
-                "t": "p",
-                "x": "La preocupación crece en todo el mundo después de que líderes tecnológicos y expertos de Silicon Valley, en Estados Unidos, advirtieran recientemente de que la AI podría amenazar la existencia de la humanidad, y de que se sucedieran casos de AI fuera de control o utilizada en ciberataques. El presidente de Estados Unidos, Donald Trump, y el presidente chino, Xi Jinping, acordaron en su cumbre de Washington en septiembre crear un canal de diálogo para intercambiar opiniones sobre los riesgos y beneficios de la AI y comunicarse en caso de incidentes relacionados."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "China starts drafting rules\nfor the full AI lifecycle",
-          "body": "Chinese authorities are drafting AI rules that include risk disclosure and regulatory sandboxes.",
-          "mini_headline": "China moves to regulate the full AI lifecycle",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek. [Reuters=Yonhap News file photo]"
-              },
-              {
-                "t": "p",
-                "x": "Chinese authorities have decided to draw up broad regulatory guidelines covering the entire lifecycle of artificial intelligence (AI), from development to use. The move is seen as a response to security and safety concerns, such as loss of control over AI, that are emerging around the world."
-              },
-              {
-                "t": "p",
-                "x": "According to Bloomberg on the 3rd, China's National Development and Reform Commission (NDRC) said that day it is accelerating legislation to manage and oversee the development and use of AI models. Wang Luomeng, deputy director-general of the NDRC's Department of Innovation and High-Tech Development, told a briefing that day that the new rules will apply to a wide range of areas, from data to computing resources. He added that Chinese authorities will regularly assess how the rules are being implemented and that outdated provisions will be revised."
-              },
-              {
-                "t": "p",
-                "x": "The rules are expected to cover Chinese AI companies such as DeepSeek, Moonshot AI and Alibaba Group, which are challenging U.S. firms such as OpenAI and Anthropic."
-              },
-              {
-                "t": "p",
-                "x": "Wang said regulatory sandboxes will also be introduced by sector to allow wider room for trial and error. He stressed that AI developers and operators must strengthen risk management while disclosing safety risks, incidents and vulnerabilities."
-              },
-              {
-                "t": "p",
-                "x": "The Chinese government also plans to monitor AI's impact on employment and job displacement. Wang said authorities will provide a social safety net for workers affected by AI."
-              },
-              {
-                "t": "p",
-                "x": "Bloomberg said the moves reflect the Chinese government's effort to strike a balance, recognizing the possibility that AI could spiral out of control or be exploited in cyberattacks. They also suggest the government is wary of the large-scale social disruption AI could bring."
-              },
-              {
-                "t": "p",
-                "x": "Global concern has been growing as tech leaders and experts in Silicon Valley in the U.S. have recently warned that AI could threaten humanity's existence, and as cases of AI escaping control or being exploited in cyberattacks have followed. U.S. President Donald Trump and Chinese President Xi Jinping agreed at their summit in Washington in September to set up a dialogue channel for the two countries to exchange views on the risks and benefits of AI and to communicate in the event of related incidents."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "中国、AIの全過程\n規制指針の策定へ",
-          "body": "中国当局が、リスク開示と規制サンドボックスを盛り込んだAI規制指針を策定する。",
-          "mini_headline": "中国、AIの全過程を規制",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek。［ロイター＝聯合ニュース資料写真］"
-              },
-              {
-                "t": "p",
-                "x": "中国当局は、人工知能（AI）の開発から活用までの全過程を網羅する広範な規制ガイドラインを策定することにした。世界的に浮上しているAIの制御喪失などをめぐる安全保障・安全上の問題への対応とみられる。"
-              },
-              {
-                "t": "p",
-                "x": "ブルームバーグ通信によると、中国国家発展改革委員会（NDRC）は3日、AIモデルの開発や活用などを管理・監督するための立法を加速していると明らかにした。国家発展改革委員会イノベーション・ハイテク発展司のワン・ルオモン副司長はこの日の会見で、今回導入される規制がデータから計算資源に至る広範な領域に適用されると述べた。また、中国当局が規制の履行状況を定期的に評価し、時代遅れの条項は改正されると付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "具体的な対象には、米国のOpenAIやAnthropicなどに挑むDeepSeek、Moonshot AI、Alibaba Groupなど中国のAI企業が含まれる見通しだ。"
-              },
-              {
-                "t": "p",
-                "x": "ワン副司長は、試行錯誤をより幅広く認めるため、分野別に規制サンドボックスも導入すると明らかにした。そのうえで、AI開発企業と運営企業がリスク管理を強化すると同時に、安全上のリスクや事故、脆弱性を公開しなければならないと強調した。"
-              },
-              {
-                "t": "p",
-                "x": "中国政府は、AIが雇用と仕事の代替に与える影響も監視する計画だ。ワン副司長は、AIの影響を受ける労働者に当局が社会的セーフティーネットを提供すると説明した。"
-              },
-              {
-                "t": "p",
-                "x": "ブルームバーグは、こうした動きはAIが制御不能に陥ったりサイバー攻撃に悪用されたりする可能性を認識し、バランスを取ろうとする中国政府の努力を反映していると分析した。中国政府がAIのもたらす大規模な社会的混乱も警戒しているとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "最近、米シリコンバレーのテック企業トップや専門家がAIが人類の存続を脅かしうると警告したのに続き、AIが制御を外れたりサイバー攻撃に悪用されたりする事例が相次ぎ、世界的に懸念が高まっている。ドナルド・トランプ米大統領と習近平中国国家主席は、9月のワシントンでの首脳会談で、AIのリスクと利点について両国が意見を交換し、関連する事故の際にも意思疎通を図るための対話チャネルを構築することで合意している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "中国着手制定AI\n全流程监管指南",
-          "body": "中国当局将着手制定涵盖风险披露与监管沙盒等内容的AI监管指南。",
-          "mini_headline": "中国推进AI全流程监管",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek。[路透社=韩联社资料照片]"
-              },
-              {
-                "t": "p",
-                "x": "中国当局决定制定涵盖人工智能（AI）从开发到应用全流程的广泛监管指南。此举被解读为应对全球日益凸显的AI失控等安全问题。"
-              },
-              {
-                "t": "p",
-                "x": "据彭博社3日报道，中国国家发展和改革委员会（NDRC）当天表示，正在加快推进管理和监督AI模型开发与应用的立法。国家发展改革委创新和高技术发展司副司长Wang Luomeng当天在发布会上表示，此次将出台的规定将适用于从数据到算力资源的广泛领域。他补充说，中国当局将定期评估规定的执行情况，过时的条款将得到修订。"
-              },
-              {
-                "t": "p",
-                "x": "具体对象预计将包括正在挑战美国OpenAI和Anthropic等公司的DeepSeek、Moonshot AI、Alibaba Group等中国AI企业。"
-              },
-              {
-                "t": "p",
-                "x": "这位副司长表示，为了更广泛地允许试错，还将按领域引入监管沙盒。他同时强调，AI开发企业和运营企业在加强风险管理的同时，必须公开安全风险、事故和漏洞。"
-              },
-              {
-                "t": "p",
-                "x": "中国政府还计划监测AI对就业和岗位替代的影响。这位副司长说，当局将为受AI影响的劳动者提供社会安全网。"
-              },
-              {
-                "t": "p",
-                "x": "彭博社分析称，这些举措反映出中国政府意识到AI可能失控或被用于网络攻击，并努力寻求平衡。这也被解读为中国政府同样警惕AI可能带来的大规模社会混乱。"
-              },
-              {
-                "t": "p",
-                "x": "近来，美国硅谷科技企业负责人和专家警告AI可能威胁人类生存，此后AI失控或被用于网络攻击的案例接连出现，全球担忧日益加剧。美国总统唐纳德·特朗普与中国国家主席习近平在9月的华盛顿峰会上同意建立对话渠道，就AI的风险与益处交换意见，并在发生相关事故时进行沟通。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "China empieza a fijar reglas\npara todo el ciclo de la AI",
-          "body": "Las autoridades chinas preparan pautas para la AI con divulgación de riesgos y entornos de prueba regulatorios.",
-          "mini_headline": "China regula todo el ciclo de la AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-                "cap": "DeepSeek. [Reuters=Yonhap, foto de archivo]"
-              },
-              {
-                "t": "p",
-                "x": "Las autoridades chinas han decidido elaborar amplias directrices regulatorias que abarcan todo el proceso de la inteligencia artificial (AI), desde su desarrollo hasta su uso. Se interpreta como una respuesta a los problemas de seguridad, como la pérdida de control de la AI, que están surgiendo en todo el mundo."
-              },
-              {
-                "t": "p",
-                "x": "Según Bloomberg, el día 3 la Comisión Nacional de Desarrollo y Reforma (NDRC) de China afirmó que está acelerando la legislación para gestionar y supervisar el desarrollo y el uso de modelos de AI. Wang Luomeng, subdirector del Departamento de Innovación y Desarrollo de Alta Tecnología de la NDRC, dijo ese día en una rueda de prensa que las normas que se introducirán se aplicarán a una amplia gama de ámbitos, desde los datos hasta los recursos de computación. Añadió que las autoridades chinas evaluarán periódicamente la aplicación de las normas y que las disposiciones obsoletas se revisarán."
-              },
-              {
-                "t": "p",
-                "x": "Se prevé que entre los afectados figuren empresas chinas de AI como DeepSeek, Moonshot AI y Alibaba Group, que desafían a las estadounidenses OpenAI y Anthropic, entre otras."
-              },
-              {
-                "t": "p",
-                "x": "Wang señaló que también se introducirán entornos de prueba regulatorios por sectores para permitir un margen más amplio de ensayo y error. Subrayó que los desarrolladores y operadores de AI deben reforzar la gestión de riesgos y, al mismo tiempo, divulgar los riesgos de seguridad, los incidentes y las vulnerabilidades."
-              },
-              {
-                "t": "p",
-                "x": "El Gobierno chino también prevé vigilar el impacto de la AI en el empleo y la sustitución de puestos de trabajo. Wang explicó que las autoridades ofrecerán una red de protección social a los trabajadores afectados por la AI."
-              },
-              {
-                "t": "p",
-                "x": "Según el análisis de Bloomberg, estas medidas reflejan el esfuerzo del Gobierno chino por encontrar un equilibrio, consciente de la posibilidad de que la AI quede fuera de control o se utilice en ciberataques. También se interpreta que el Gobierno chino teme la disrupción social a gran escala que podría traer la AI."
-              },
-              {
-                "t": "p",
-                "x": "La preocupación crece en todo el mundo después de que líderes tecnológicos y expertos de Silicon Valley, en Estados Unidos, advirtieran recientemente de que la AI podría amenazar la existencia de la humanidad, y de que se sucedieran casos de AI fuera de control o utilizada en ciberataques. El presidente de Estados Unidos, Donald Trump, y el presidente chino, Xi Jinping, acordaron en su cumbre de Washington en septiembre crear un canal de diálogo para intercambiar opiniones sobre los riesgos y beneficios de la AI y comunicarse en caso de incidentes relacionados."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "politics-ncsc-ai-ransomware-2028",
+      "id": "metsola-ai-lawmaking",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UK NCSC, 2028년\nAI-powered 공격",
-      "body": "NCSC는 두 해 안에 기반시설을 노린 AI-enabled 공격이 유력하다고 봤다.",
-      "mini_headline": "NCSC, 2028년까지 AI 랜섬웨어 예상",
+      "headline": "Metsola tells MEPs not to\nlean on AI for lawmaking",
+      "body": "EU Parliament President Roberta Metsola told MEPs not to rely on AI to draft laws as AI-use guidelines are prepared.",
+      "mini_headline": "Metsola: don't draft laws with AI",
       "tool": "Politics",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "source": "POLITICO Europe",
+      "url": "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -823,933 +783,281 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
+            "cap": "Roberta Metsola delivers a speech during a plenary session at the European Parliament in Strasbourg, France on May 20, 2026. | Sébastien Bozon/AFP via Getty Images"
           },
           {
             "t": "p",
-            "x": "영국(UK) 국가사이버보안센터(NCSC)는 지금부터 2028년 사이 영국 핵심 국가 기반시설을 노리는 랜섬웨어 공격에 AI-powered 악성코드가 쓰일 가능성이 “매우 높다”고 밝혔다. 연례 검토 보고서와, 앞으로 두 해 동안 AI가 사이버 위협을 어떻게 바꿀지 따져본 별도 평가에 함께 담긴 경고다."
+            "x": "European Parliament President Roberta Metsola warned MEPs Wednesday not to be overreliant on AI in decision-making, as the Parliament prepares new guidelines for lawmakers on how to use it."
           },
           {
             "t": "p",
-            "x": "공격자들은 벌써 중국산 AI 레드티밍 플랫폼 ARTEX 같은 오픈소스 AI 보안 도구를 다른 용도로 돌려 쓴다. NCSC는 2028년 비관 시나리오에서 “전 세계 사이버 공격의 빈도와 정교함이 크게 늘어날 것”으로 내다봤다. 자율 공격자가 스스로 복제하며 마음대로 사이버 공격을 벌이는 상황도 “현실적 가능성”으로 꼽았다."
+            "x": "“Drafting an amendment with the help of AI cannot replace fundamentally the constructive debate with a colleague,” she said at an event on AI use in the Parliament. Metsola said there must be “democratic accountability” in lawmaking and argued that “where AI is used, people should know.”"
           },
           {
             "t": "p",
-            "x": "방어 쪽에서는 Project DROMOS가 정부 코드에서 잠재적 보안 문제 수백 건을 찾아냈다. 보고서는 £60 million을 들이는 에이전트형 사이버 방어 시스템 Cyber Shield 계획을 재확인했다. 새 NERV Centre에 £70 million, National Agentic Security Unit에 £40 million을 배정하는 계획도 내놨다."
+            "x": "Secretary-General Alessandro Chiocchetti said Parliament is building its own AI tool for sensitive work, hosted on its internal infrastructure. Parliament officials have warned of a surge in AI-written amendments, including some that reference laws that don't exist. “Our jurists took two days just to prove ChatGPT wrong,” he said."
           },
           {
             "t": "p",
-            "x": "NCSC CEO Dr Richard Horne은 “시급히 투자하라”고 기관들에 촉구했다. 그는 “수십 년 동안 우리는 다 함께 기술을 값싸게 처리하고도 무사히 넘어왔다”고 말했다."
+            "x": "The administration will submit new guidelines on using AI to senior leaders “very soon,” Chiocchetti said: “be open about using artificial intelligence ... never put sensitive material into a public tool; and check everything before it leaves your desk because it is your name on it.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK's NCSC expects AI-powered\nransomware attacks by 2028",
-          "body": "The NCSC's annual review says AI-enabled attacks on critical infrastructure are likely within two years.",
-          "mini_headline": "NCSC expects AI ransomware by 2028",
+          "headline": "Metsola tells MEPs not to\nlean on AI for lawmaking",
+          "body": "EU Parliament President Roberta Metsola told MEPs not to rely on AI to draft laws as AI-use guidelines are prepared.",
+          "mini_headline": "Metsola: don't draft laws with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
+                "cap": "Roberta Metsola delivers a speech during a plenary session at the European Parliament in Strasbourg, France on May 20, 2026. | Sébastien Bozon/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "The UK's National Cyber Security Centre (NCSC) says AI-powered malware is \"highly likely\" to be a part of a future ransomware attack on Britain's critical national infrastructure between now and 2028. The warning accompanies its annual review and a separate assessment exploring how AI could change cyber threats over the next two years."
+                "x": "European Parliament President Roberta Metsola warned MEPs Wednesday not to be overreliant on AI in decision-making, as the Parliament prepares new guidelines for lawmakers on how to use it."
               },
               {
                 "t": "p",
-                "x": "Attackers are already repurposing open source AI security tools, such as ARTEX, a Chinese-made AI red-teaming platform. In its pessimistic scenario for 2028, the NCSC envisages \"a significant increase in the frequency and sophistication of cyberattacks worldwide,\" and says it \"is a realistic possibility\" an autonomous attacker could self-replicate and conduct cyberattacks at will."
+                "x": "“Drafting an amendment with the help of AI cannot replace fundamentally the constructive debate with a colleague,” she said at an event on AI use in the Parliament. Metsola said there must be “democratic accountability” in lawmaking and argued that “where AI is used, people should know.”"
               },
               {
                 "t": "p",
-                "x": "On defence, Project DROMOS uncovered hundreds of potential security issues in government code, and the review reaffirms plans for Cyber Shield, an agentic cyber defense system funded with £60 million, alongside £70 million for a new NERV Centre and £40 million for a National Agentic Security Unit."
+                "x": "Secretary-General Alessandro Chiocchetti said Parliament is building its own AI tool for sensitive work, hosted on its internal infrastructure. Parliament officials have warned of a surge in AI-written amendments, including some that reference laws that don't exist. “Our jurists took two days just to prove ChatGPT wrong,” he said."
               },
               {
                 "t": "p",
-                "x": "NCSC CEO Dr Richard Horne called for organizations to \"invest with urgency\": \"For decades, we have collectively got away with doing tech on the cheap.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "UK NCSC, 2028년\nAI-powered 공격",
-          "body": "NCSC는 두 해 안에 기반시설을 노린 AI-enabled 공격이 유력하다고 봤다.",
-          "mini_headline": "NCSC, 2028년까지 AI 랜섬웨어 예상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "영국(UK) 국가사이버보안센터(NCSC)는 지금부터 2028년 사이 영국 핵심 국가 기반시설을 노리는 랜섬웨어 공격에 AI-powered 악성코드가 쓰일 가능성이 “매우 높다”고 밝혔다. 연례 검토 보고서와, 앞으로 두 해 동안 AI가 사이버 위협을 어떻게 바꿀지 따져본 별도 평가에 함께 담긴 경고다."
-              },
-              {
-                "t": "p",
-                "x": "공격자들은 벌써 중국산 AI 레드티밍 플랫폼 ARTEX 같은 오픈소스 AI 보안 도구를 다른 용도로 돌려 쓴다. NCSC는 2028년 비관 시나리오에서 “전 세계 사이버 공격의 빈도와 정교함이 크게 늘어날 것”으로 내다봤다. 자율 공격자가 스스로 복제하며 마음대로 사이버 공격을 벌이는 상황도 “현실적 가능성”으로 꼽았다."
-              },
-              {
-                "t": "p",
-                "x": "방어 쪽에서는 Project DROMOS가 정부 코드에서 잠재적 보안 문제 수백 건을 찾아냈다. 보고서는 £60 million을 들이는 에이전트형 사이버 방어 시스템 Cyber Shield 계획을 재확인했다. 새 NERV Centre에 £70 million, National Agentic Security Unit에 £40 million을 배정하는 계획도 내놨다."
-              },
-              {
-                "t": "p",
-                "x": "NCSC CEO Dr Richard Horne은 “시급히 투자하라”고 기관들에 촉구했다. 그는 “수십 년 동안 우리는 다 함께 기술을 값싸게 처리하고도 무사히 넘어왔다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UK NCSC、2028年\nAI-powered攻撃予測",
-          "body": "NCSCは二年以内に重要インフラへのAI-enabled攻撃が起きる公算が大きいとした。",
-          "mini_headline": "NCSC、2028年までのAIランサムウェアを予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "英国（UK）の国家サイバーセキュリティセンター（NCSC）は、今から2028年までの間に英国の重要国家インフラを狙うランサムウェア攻撃で、AI-powered型のマルウェアが使われる可能性は「非常に高い」としている。この警告は年次報告書と、今後二年間でAIがサイバー脅威をどう変えうるかを検討した別の評価とともに示された。"
-              },
-              {
-                "t": "p",
-                "x": "攻撃者はすでに、中国製のAIレッドチーミング基盤ARTEXなど、オープンソースのAIセキュリティツールを転用している。2028年の悲観シナリオで、NCSCは「世界的なサイバー攻撃の頻度と巧妙さの大幅な増加」を想定し、自律型の攻撃者が自己複製して思いのままにサイバー攻撃を行うことは「現実的な可能性がある」と述べている。"
-              },
-              {
-                "t": "p",
-                "x": "防御面では、Project DROMOSが政府のコードから数百件の潜在的なセキュリティ問題を発見した。報告書は、£60 millionを投じるエージェント型サイバー防御システムCyber Shieldの計画を改めて確認し、新設のNERV Centreに£70 million、National Agentic Security Unitに£40 millionを充てる計画も示した。"
-              },
-              {
-                "t": "p",
-                "x": "NCSCのCEOであるDr Richard Horneは組織に対し「緊急に投資する」よう求め、「何十年もの間、我々は皆、テクノロジーを安く済ませてもやり過ごしてきた」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "UK NCSC：2028年前\n料现AI-powered攻击",
-          "body": "NCSC年度评估称，两年内针对关键基础设施的AI-enabled攻击很可能发生。",
-          "mini_headline": "NCSC预计2028年前出现AI勒索软件",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "英国（UK）国家网络安全中心（NCSC）表示，从现在到2028年，AI-powered恶意软件“极有可能”成为未来针对英国关键国家基础设施的勒索软件攻击的一部分。这一警告与其年度评估以及另一份探讨AI在未来两年将如何改变网络威胁的评估一同发布。"
-              },
-              {
-                "t": "p",
-                "x": "攻击者已在改造利用开源AI安全工具，例如中国开发的AI红队平台ARTEX。在2028年的悲观情景中，NCSC设想“全球网络攻击的频率和复杂程度将显著上升”，并称自主攻击者能够自我复制并随意发动网络攻击“是一种现实的可能性”。"
-              },
-              {
-                "t": "p",
-                "x": "防御方面，Project DROMOS在政府代码中发现了数百个潜在安全问题。评估重申了投入£60 million打造智能体网络防御系统Cyber Shield的计划，另有£70 million用于新的NERV Centre，£40 million用于National Agentic Security Unit。"
-              },
-              {
-                "t": "p",
-                "x": "NCSC首席执行官（CEO）Dr Richard Horne呼吁各机构“紧急投资”：“几十年来，我们大家一直在以廉价方式做技术，却侥幸没有出事。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El NCSC del UK prevé ransomware\nAI-powered para 2028",
-          "body": "La revisión anual del NCSC ve probables ataques AI-enabled contra infraestructuras críticas en un plazo de dos años.",
-          "mini_headline": "El NCSC prevé ransomware con AI para 2028",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "El Centro Nacional de Ciberseguridad (NCSC) del UK afirma que es “muy probable” que el malware AI-powered forme parte de un futuro ataque de ransomware contra la infraestructura nacional crítica de Gran Bretaña entre hoy y 2028. La advertencia acompaña a su revisión anual y a una evaluación aparte que analiza cómo la AI podría cambiar las ciberamenazas en los próximos dos años."
-              },
-              {
-                "t": "p",
-                "x": "Los atacantes ya están reutilizando herramientas de seguridad de AI de código abierto, como ARTEX, una plataforma china de red teaming con AI. En su escenario pesimista para 2028, el NCSC prevé “un aumento significativo de la frecuencia y la sofisticación de los ciberataques en todo el mundo” y afirma que “es una posibilidad realista” que un atacante autónomo pueda autorreplicarse y lanzar ciberataques a voluntad."
-              },
-              {
-                "t": "p",
-                "x": "En defensa, Project DROMOS descubrió cientos de posibles problemas de seguridad en el código del Gobierno, y la revisión reafirma los planes para Cyber Shield, un sistema de ciberdefensa agéntico financiado con £60 million, junto con £70 million para un nuevo NERV Centre y £40 million para una National Agentic Security Unit."
-              },
-              {
-                "t": "p",
-                "x": "El CEO del NCSC, el Dr Richard Horne, pidió a las organizaciones “invertir con urgencia”: “Durante décadas, colectivamente nos hemos salido con la nuestra haciendo tecnología a bajo coste”."
+                "x": "The administration will submit new guidelines on using AI to senior leaders “very soon,” Chiocchetti said: “be open about using artificial intelligence ... never put sensitive material into a public tool; and check everything before it leaves your desk because it is your name on it.”"
               }
             ]
           }
         }
       },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "UK NCSC, 2028년\nAI-powered 공격",
-          "body": "NCSC는 두 해 안에 기반시설 대상 AI-enabled 공격이 유력하다고 봤다.",
-          "mini_headline": "NCSC, 2028년까지 AI 랜섬웨어 예상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "영국(UK) 국가사이버보안센터(NCSC)는 지금부터 2028년 사이 영국 핵심 국가 기반시설을 노리는 랜섬웨어 공격에 AI-powered 악성코드가 쓰일 가능성이 “매우 높다”고 밝혔다. 이 경고는 연례 검토 보고서, 그리고 앞으로 두 해 동안 AI가 사이버 위협을 어떻게 바꿀지 살핀 별도 평가와 함께 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "공격자들은 이미 중국산 AI 레드티밍 플랫폼 ARTEX 같은 오픈소스 AI 보안 도구를 용도를 바꿔 쓰고 있다. NCSC는 2028년 비관적 시나리오에서 “전 세계 사이버 공격의 빈도와 정교함이 크게 늘어날 것”으로 내다봤고, 자율 공격자가 스스로 복제하며 마음대로 사이버 공격을 벌이는 것은 “현실적 가능성”이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "방어 측면에서는 Project DROMOS가 정부 코드에서 잠재적 보안 문제 수백 건을 찾아냈다. 보고서는 £60 million이 투입되는 에이전트형 사이버 방어 시스템 Cyber Shield 계획을 재확인했고, 새 NERV Centre에 £70 million, National Agentic Security Unit에 £40 million을 배정하는 계획도 함께 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "NCSC CEO Dr Richard Horne은 기관들에 “시급히 투자하라”고 촉구하며 “수십 년 동안 우리는 다 함께 기술을 값싸게 처리하고도 무사히 넘어왔다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UK NCSC、2028年\nAI-powered攻撃予測",
-          "body": "NCSCは二年以内に重要インフラへのAI-enabled攻撃が起きる公算が大きいとした。",
-          "mini_headline": "NCSC、2028年までのAIランサムウェアを予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "英国（UK）の国家サイバーセキュリティセンター（NCSC）は、今から2028年までの間に英国の重要国家インフラを狙うランサムウェア攻撃で、AI-powered型のマルウェアが使われる可能性は「非常に高い」としている。この警告は年次報告書と、今後二年間でAIがサイバー脅威をどう変えうるかを検討した別の評価とともに示された。"
-              },
-              {
-                "t": "p",
-                "x": "攻撃者はすでに、中国製のAIレッドチーミング基盤ARTEXなど、オープンソースのAIセキュリティツールを転用している。2028年の悲観シナリオで、NCSCは「世界的なサイバー攻撃の頻度と巧妙さの大幅な増加」を想定し、自律型の攻撃者が自己複製して思いのままにサイバー攻撃を行うことは「現実的な可能性がある」と述べている。"
-              },
-              {
-                "t": "p",
-                "x": "防御面では、Project DROMOSが政府のコードから数百件の潜在的なセキュリティ問題を発見した。報告書は、£60 millionを投じるエージェント型サイバー防御システムCyber Shieldの計画を改めて確認し、新設のNERV Centreに£70 million、National Agentic Security Unitに£40 millionを充てる計画も示した。"
-              },
-              {
-                "t": "p",
-                "x": "NCSCのCEOであるDr Richard Horneは組織に対し「緊急に投資する」よう求め、「何十年もの間、我々は皆、テクノロジーを安く済ませてもやり過ごしてきた」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "UK NCSC：2028年前\n料现AI-powered攻击",
-          "body": "NCSC年度评估称，两年内针对关键基础设施的AI-enabled攻击很可能发生。",
-          "mini_headline": "NCSC预计2028年前出现AI勒索软件",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "英国（UK）国家网络安全中心（NCSC）表示，从现在到2028年，AI-powered恶意软件“极有可能”成为未来针对英国关键国家基础设施的勒索软件攻击的一部分。这一警告与其年度评估以及另一份探讨AI在未来两年将如何改变网络威胁的评估一同发布。"
-              },
-              {
-                "t": "p",
-                "x": "攻击者已在改造利用开源AI安全工具，例如中国开发的AI红队平台ARTEX。在2028年的悲观情景中，NCSC设想“全球网络攻击的频率和复杂程度将显著上升”，并称自主攻击者能够自我复制并随意发动网络攻击“是一种现实的可能性”。"
-              },
-              {
-                "t": "p",
-                "x": "防御方面，Project DROMOS在政府代码中发现了数百个潜在安全问题。评估重申了投入£60 million打造智能体网络防御系统Cyber Shield的计划，另有£70 million用于新的NERV Centre，£40 million用于National Agentic Security Unit。"
-              },
-              {
-                "t": "p",
-                "x": "NCSC首席执行官（CEO）Dr Richard Horne呼吁各机构“紧急投资”：“几十年来，我们大家一直在以廉价方式做技术，却侥幸没有出事。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El NCSC del UK prevé ransomware\nAI-powered para 2028",
-          "body": "La revisión anual del NCSC ve probables ataques AI-enabled contra infraestructuras críticas en un plazo de dos años.",
-          "mini_headline": "El NCSC prevé ransomware con AI para 2028",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "El Centro Nacional de Ciberseguridad (NCSC) del UK afirma que es “muy probable” que el malware AI-powered forme parte de un futuro ataque de ransomware contra la infraestructura nacional crítica de Gran Bretaña entre hoy y 2028. La advertencia acompaña a su revisión anual y a una evaluación aparte que analiza cómo la AI podría cambiar las ciberamenazas en los próximos dos años."
-              },
-              {
-                "t": "p",
-                "x": "Los atacantes ya están reutilizando herramientas de seguridad de AI de código abierto, como ARTEX, una plataforma china de red teaming con AI. En su escenario pesimista para 2028, el NCSC prevé “un aumento significativo de la frecuencia y la sofisticación de los ciberataques en todo el mundo” y afirma que “es una posibilidad realista” que un atacante autónomo pueda autorreplicarse y lanzar ciberataques a voluntad."
-              },
-              {
-                "t": "p",
-                "x": "En defensa, Project DROMOS descubrió cientos de posibles problemas de seguridad en el código del Gobierno, y la revisión reafirma los planes para Cyber Shield, un sistema de ciberdefensa agéntico financiado con £60 million, junto con £70 million para un nuevo NERV Centre y £40 million para una National Agentic Security Unit."
-              },
-              {
-                "t": "p",
-                "x": "El CEO del NCSC, el Dr Richard Horne, pidió a las organizaciones “invertir con urgencia”: “Durante décadas, colectivamente nos hemos salido con la nuestra haciendo tecnología a bajo coste”."
-              }
-            ]
-          }
-        }
+      "i18n_status": {
+        "ko": "fallback",
+        "ja": "fallback",
+        "zh": "fallback",
+        "es": "fallback"
       }
     },
     {
-      "id": "politics-upstage-solar-gov-platform",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "업스테이지 솔라 프로 4\n범정부 AI 기반 탑재",
-      "body": "중앙부처와 지자체가 별도 GPU 없이 행정망에서 국산 LLM을 쓸 수 있게 됐다.",
-      "mini_headline": "솔라 프로 4, 범정부 AI 탑재",
-      "tool": "Politics",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261103000312",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-            "cap": "업스테이지 거대언어모델(LLM) '솔라 프로 4'이 범정부 인공지능(AI) 공통기반에 탑재됐다. 업스테이지"
-          },
-          {
-            "t": "p",
-            "x": "업스테이지는 거대언어모델(LLM) '솔라 프로 4'를 범정부 인공지능(AI) 공통기반에 탑재하고 정식 서비스를 시작했다고 3일 밝혔다. 행정망에서 별도 그래픽처리장치(GPU) 인프라 구축 없이 국산 AI 모델을 활용할 수 있게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "범정부 AI 공통기반은 행정안전부와 과학기술정보통신부가 중앙부처와 지방자치단체에 AI 모델과 데이터, 개발 환경 등을 제공하는 행정망 전용 AI 인프라다. 솔라 프로 4는 공통기반의 AI 플랫폼인 삼성SDS '패브릭스'를 통해 제공된다."
-          },
-          {
-            "t": "p",
-            "x": "솔라 프로 4는 국가정보원 보안성 심사를 통과한 행정망 인프라에서 운영돼 내부 행정 데이터의 외부 유출을 방지할 수 있다. 모델 운영에 필요한 GPU 자원은 공통기반에서 통합 관리한다. 각 기관은 별도 GPU 서버 구축이나 임차 없이 채팅 화면이나 응용프로그램인터페이스(API)에서 활용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "법령·보도자료·행정자료 등과 연계해 답변 근거도 제시한다. 공무원들은 솔라 프로 4를 조례·규정 개정안의 상위법 저촉 여부를 살피는 법령 검토, 근거 법령과 처리 절차를 찾아 쓰는 민원 답변 초안 작성에 활용할 수 있다. 회의 메모와 참고자료로 만드는 보고서 초안 작성, 정책자료의 핵심과 쟁점을 정리하는 장문 문서 요약 등에도 활용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "공공부문은 보안 규제와 GPU 인프라 부족으로 AI 활용에 제약이 있었다. 업스테이지는 솔라 프로 4를 통해 보안과 인프라 요건을 모두 갖춘 행정망 안에서 국산 AI 모델을 업무에 활용할 수 있다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "김성훈 업스테이지 대표는 “공공 업무에 필요한 AI는 보안을 지키고 근거를 갖춰 답하는 믿고 맡길 수 있는 AI”라며 “신뢰할 수 있는 국산 AI가 공공업무 혁신을 이끌 수 있다는 것을 행정 현장에서 증명하겠다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "업스테이지는 앞서 지난달 경량언어모델(SLM) '솔라 미니 4'를 공개했다. 350억 매개변수(파라미터) 중 30억 매개변수만 활성화하는 구조로, 글로벌 AI 성능 평가에서 동급 소형 모델 중 최고 수준을 기록했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "업스테이지 솔라 프로 4\n범정부 AI 기반 탑재",
-          "body": "중앙부처와 지자체가 별도 GPU 없이 행정망에서 국산 LLM을 쓸 수 있게 됐다.",
-          "mini_headline": "솔라 프로 4, 범정부 AI 탑재",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "업스테이지 거대언어모델(LLM) '솔라 프로 4'이 범정부 인공지능(AI) 공통기반에 탑재됐다. 업스테이지"
-              },
-              {
-                "t": "p",
-                "x": "업스테이지는 거대언어모델(LLM) '솔라 프로 4'를 범정부 인공지능(AI) 공통기반에 탑재하고 정식 서비스를 시작했다고 3일 밝혔다. 행정망에서 별도 그래픽처리장치(GPU) 인프라 구축 없이 국산 AI 모델을 활용할 수 있게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "범정부 AI 공통기반은 행정안전부와 과학기술정보통신부가 중앙부처와 지방자치단체에 AI 모델과 데이터, 개발 환경 등을 제공하는 행정망 전용 AI 인프라다. 솔라 프로 4는 공통기반의 AI 플랫폼인 삼성SDS '패브릭스'를 통해 제공된다."
-              },
-              {
-                "t": "p",
-                "x": "솔라 프로 4는 국가정보원 보안성 심사를 통과한 행정망 인프라에서 운영돼 내부 행정 데이터의 외부 유출을 방지할 수 있다. 모델 운영에 필요한 GPU 자원은 공통기반에서 통합 관리한다. 각 기관은 별도 GPU 서버 구축이나 임차 없이 채팅 화면이나 응용프로그램인터페이스(API)에서 활용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "법령·보도자료·행정자료 등과 연계해 답변 근거도 제시한다. 공무원들은 솔라 프로 4를 조례·규정 개정안의 상위법 저촉 여부를 살피는 법령 검토, 근거 법령과 처리 절차를 찾아 쓰는 민원 답변 초안 작성에 활용할 수 있다. 회의 메모와 참고자료로 만드는 보고서 초안 작성, 정책자료의 핵심과 쟁점을 정리하는 장문 문서 요약 등에도 활용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "공공부문은 보안 규제와 GPU 인프라 부족으로 AI 활용에 제약이 있었다. 업스테이지는 솔라 프로 4를 통해 보안과 인프라 요건을 모두 갖춘 행정망 안에서 국산 AI 모델을 업무에 활용할 수 있다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "김성훈 업스테이지 대표는 “공공 업무에 필요한 AI는 보안을 지키고 근거를 갖춰 답하는 믿고 맡길 수 있는 AI”라며 “신뢰할 수 있는 국산 AI가 공공업무 혁신을 이끌 수 있다는 것을 행정 현장에서 증명하겠다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "업스테이지는 앞서 지난달 경량언어모델(SLM) '솔라 미니 4'를 공개했다. 350억 매개변수(파라미터) 중 30억 매개변수만 활성화하는 구조로, 글로벌 AI 성능 평가에서 동급 소형 모델 중 최고 수준을 기록했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Upstage Solar Pro 4 joins\ngovernment-wide AI platform",
-          "body": "Central ministries and local governments can now use a Korean LLM on the government network without a separate GPU.",
-          "mini_headline": "Solar Pro 4 joins government-wide AI platform",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "Upstage's large language model (LLM) 'Solar Pro 4' has been added to the government-wide artificial intelligence (AI) common platform. Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstage said on the 3rd that it has added its large language model (LLM) 'Solar Pro 4' to the government-wide artificial intelligence (AI) common platform and launched the official service. Korean AI models can now be used on the government network without building separate graphics processing unit (GPU) infrastructure."
-              },
-              {
-                "t": "p",
-                "x": "The government-wide AI common platform is AI infrastructure dedicated to the government network, through which the Ministry of the Interior and Safety and the Ministry of Science and ICT provide AI models, data and development environments to central ministries and local governments. Solar Pro 4 is offered through Samsung SDS's 'FabriX', the common platform's AI platform."
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4 runs on government network infrastructure that has passed the National Intelligence Service's security review, which prevents internal administrative data from leaking outside. The GPU resources needed to run the model are managed centrally by the common platform. Each agency can use it through a chat screen or an application programming interface (API) without building or leasing its own GPU servers."
-              },
-              {
-                "t": "p",
-                "x": "It also provides the grounds for its answers by linking to laws, press releases and administrative materials. Public officials can use Solar Pro 4 for legal reviews that check whether draft amendments to ordinances and regulations conflict with higher laws, and for drafting replies to civil complaints by finding the relevant laws and procedures. It can also be used to draft reports from meeting notes and reference materials, and to summarize long documents by organizing the key points and issues of policy materials."
-              },
-              {
-                "t": "p",
-                "x": "The public sector has faced limits on using AI because of security regulations and a shortage of GPU infrastructure. Upstage explained that, with Solar Pro 4, Korean AI models can be used for work within a government network that meets both security and infrastructure requirements."
-              },
-              {
-                "t": "p",
-                "x": "Upstage CEO Kim Sung-hoon said, “The AI needed for public work is AI you can trust, one that keeps data secure and answers with evidence,” adding, “We will prove in the field of public administration that trustworthy Korean AI can lead innovation in public work.”"
-              },
-              {
-                "t": "p",
-                "x": "Last month, Upstage unveiled its small language model (SLM) 'Solar Mini 4'. Its structure activates only 30억 of its 350억 parameters, and it recorded top-level performance among small models of its class in global AI benchmarks."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Solar Pro 4、\n汎政府AI基盤に搭載",
-          "body": "中央省庁と自治体が、別途GPUなしで行政網で国産LLMを使えるようになった。",
-          "mini_headline": "Solar Pro 4、汎政府AI基盤に搭載",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "Upstageの大規模言語モデル（LLM）「Solar Pro 4」が汎政府人工知能（AI）共通基盤に搭載された。Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstageは3日、大規模言語モデル（LLM）「Solar Pro 4」を汎政府人工知能（AI）共通基盤に搭載し、正式サービスを開始したと明らかにした。行政網で別途、画像処理装置（GPU）インフラを構築することなく、国産AIモデルを活用できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "汎政府AI共通基盤は、行政安全部と科学技術情報通信部が中央省庁や地方自治体にAIモデルやデータ、開発環境などを提供する行政網専用のAIインフラだ。Solar Pro 4は、共通基盤のAIプラットフォームであるSamsung SDSの「FabriX」を通じて提供される。"
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4は国家情報院のセキュリティ審査を通過した行政網インフラで運用され、内部の行政データの外部流出を防ぐことができる。モデル運用に必要なGPU資源は共通基盤で一括管理する。各機関は別途GPUサーバーを構築したり借りたりすることなく、チャット画面やアプリケーション・プログラミング・インターフェース（API）で活用できる。"
-              },
-              {
-                "t": "p",
-                "x": "法令・報道資料・行政資料などと連携し、回答の根拠も示す。公務員はSolar Pro 4を、条例・規定の改正案が上位法に抵触するかを確認する法令審査や、根拠法令と処理手続きを調べて書く民願回答の草案作成に活用できる。会議メモや参考資料をもとにした報告書の草案作成、政策資料の要点と争点を整理する長文文書の要約などにも活用できる。"
-              },
-              {
-                "t": "p",
-                "x": "公共部門は、セキュリティ規制とGPUインフラの不足によりAI活用に制約があった。Upstageは、Solar Pro 4によって、セキュリティとインフラの要件をともに満たした行政網の中で国産AIモデルを業務に活用できると説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Upstageのキム・ソンフン代表は「公共業務に必要なAIは、セキュリティを守り、根拠を備えて答える、安心して任せられるAIだ」とし、「信頼できる国産AIが公共業務の革新を導けることを行政の現場で証明する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Upstageはこれに先立ち、先月、軽量言語モデル（SLM）「Solar Mini 4」を公開した。350億のパラメータのうち30億だけを活性化する構造で、グローバルなAI性能評価で同クラスの小型モデルの中で最高水準を記録した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Solar Pro 4上线\n全政府AI公共平台",
-          "body": "中央部委和地方政府无需另配GPU，即可在政务网中使用国产LLM。",
-          "mini_headline": "Solar Pro 4接入全政府AI平台",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "Upstage大语言模型（LLM）“Solar Pro 4”已接入全政府人工智能（AI）公共平台。Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstage于3日表示，已将大语言模型（LLM）“Solar Pro 4”接入全政府人工智能（AI）公共平台，并正式上线服务。政务网无需另建图形处理器（GPU）基础设施，即可使用国产AI模型。"
-              },
-              {
-                "t": "p",
-                "x": "全政府AI公共平台是行政安全部和科学技术信息通信部向中央部委和地方政府提供AI模型、数据和开发环境等的政务网专用AI基础设施。Solar Pro 4通过该公共平台的AI平台——Samsung SDS的“FabriX”提供。"
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4运行在通过国家情报院安全审查的政务网基础设施上，可防止内部行政数据外泄。模型运行所需的GPU资源由公共平台统一管理。各机关无需另行搭建或租用GPU服务器，即可通过聊天界面或应用程序接口（API）使用。"
-              },
-              {
-                "t": "p",
-                "x": "它还与法令、新闻稿和行政资料等关联，给出回答依据。公务员可将Solar Pro 4用于审查条例、规定修订案是否抵触上位法的法令审查，以及查找依据法令和办理程序、撰写民众诉求答复初稿。它还可用于根据会议记录和参考资料撰写报告初稿，以及梳理政策资料要点和争议点的长文档摘要等。"
-              },
-              {
-                "t": "p",
-                "x": "公共部门此前因安全监管和GPU基础设施不足，在使用AI方面受到限制。Upstage表示，借助Solar Pro 4，可以在同时满足安全和基础设施要求的政务网内，将国产AI模型用于工作。"
-              },
-              {
-                "t": "p",
-                "x": "Upstage代表金成勋表示：“公共业务所需的AI，是能守住安全、有据可依地作答、值得信赖托付的AI。”他还表示：“我们将在行政一线证明，值得信赖的国产AI能够引领公共业务创新。”"
-              },
-              {
-                "t": "p",
-                "x": "Upstage此前于上月发布了轻量语言模型（SLM）“Solar Mini 4”。该模型在350亿参数中仅激活30亿参数，在全球AI性能评测中取得了同级小型模型中的最高水平。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Solar Pro 4 de Upstage llega\na la plataforma de AI estatal",
-          "body": "Ministerios centrales y gobiernos locales ya pueden usar un LLM coreano en la red administrativa sin una GPU propia.",
-          "mini_headline": "Solar Pro 4 llega a la plataforma de AI estatal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "El modelo de lenguaje grande (LLM) 'Solar Pro 4' de Upstage se ha incorporado a la plataforma común de inteligencia artificial (AI) de todo el Gobierno. Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstage anunció el día 3 que ha incorporado su modelo de lenguaje grande (LLM) 'Solar Pro 4' a la plataforma común de inteligencia artificial (AI) de todo el Gobierno y que ha iniciado el servicio oficial. Ahora es posible usar modelos de AI nacionales en la red administrativa sin construir una infraestructura propia de unidades de procesamiento gráfico (GPU)."
-              },
-              {
-                "t": "p",
-                "x": "La plataforma común de AI de todo el Gobierno es una infraestructura de AI exclusiva de la red administrativa con la que el Ministerio del Interior y Seguridad y el Ministerio de Ciencia y TIC ofrecen modelos de AI, datos y entornos de desarrollo, entre otros, a los ministerios centrales y a los gobiernos locales. Solar Pro 4 se ofrece a través de 'FabriX', de Samsung SDS, la plataforma de AI de la plataforma común."
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4 funciona en una infraestructura de la red administrativa que ha superado la revisión de seguridad del Servicio Nacional de Inteligencia, lo que permite evitar la fuga de datos administrativos internos. Los recursos de GPU necesarios para operar el modelo se gestionan de forma centralizada en la plataforma común. Cada organismo puede usarlo desde una pantalla de chat o una interfaz de programación de aplicaciones (API) sin construir ni alquilar sus propios servidores de GPU."
-              },
-              {
-                "t": "p",
-                "x": "También ofrece fundamentos para sus respuestas al vincularse con leyes, comunicados de prensa y documentos administrativos. Los funcionarios pueden usar Solar Pro 4 para revisar si los proyectos de reforma de ordenanzas y reglamentos contradicen leyes de rango superior, y para redactar borradores de respuestas a quejas ciudadanas buscando la normativa y los procedimientos aplicables. También puede usarse para redactar borradores de informes a partir de notas de reuniones y materiales de referencia, y para resumir documentos extensos ordenando los puntos clave y las cuestiones en debate de los materiales de políticas."
-              },
-              {
-                "t": "p",
-                "x": "El sector público tenía limitaciones para usar la AI por las normas de seguridad y la falta de infraestructura de GPU. Upstage explicó que, con Solar Pro 4, es posible usar modelos de AI nacionales en el trabajo dentro de una red administrativa que cumple tanto los requisitos de seguridad como los de infraestructura."
-              },
-              {
-                "t": "p",
-                "x": "Kim Sung-hoon, director ejecutivo de Upstage, dijo: “La AI que necesita el trabajo público es una AI en la que se puede confiar, que protege la seguridad y responde con fundamentos”, y añadió: “Demostraremos en la práctica administrativa que una AI nacional fiable puede impulsar la innovación del trabajo público”."
-              },
-              {
-                "t": "p",
-                "x": "Upstage presentó el mes pasado su modelo de lenguaje ligero (SLM) 'Solar Mini 4'. Su estructura activa solo 30억 de sus 350억 parámetros, y obtuvo el nivel más alto entre los modelos pequeños de su categoría en evaluaciones globales de rendimiento de AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Upstage Solar Pro 4 joins\ngovernment-wide AI platform",
-          "body": "Central ministries and local governments can now use a Korean LLM on the government network without a separate GPU.",
-          "mini_headline": "Solar Pro 4 joins government-wide AI platform",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "Upstage's large language model (LLM) 'Solar Pro 4' has been added to the government-wide artificial intelligence (AI) common platform. Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstage said on the 3rd that it has added its large language model (LLM) 'Solar Pro 4' to the government-wide artificial intelligence (AI) common platform and launched the official service. Korean AI models can now be used on the government network without building separate graphics processing unit (GPU) infrastructure."
-              },
-              {
-                "t": "p",
-                "x": "The government-wide AI common platform is AI infrastructure dedicated to the government network, through which the Ministry of the Interior and Safety and the Ministry of Science and ICT provide AI models, data and development environments to central ministries and local governments. Solar Pro 4 is offered through Samsung SDS's 'FabriX', the common platform's AI platform."
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4 runs on government network infrastructure that has passed the National Intelligence Service's security review, which prevents internal administrative data from leaking outside. The GPU resources needed to run the model are managed centrally by the common platform. Each agency can use it through a chat screen or an application programming interface (API) without building or leasing its own GPU servers."
-              },
-              {
-                "t": "p",
-                "x": "It also provides the grounds for its answers by linking to laws, press releases and administrative materials. Public officials can use Solar Pro 4 for legal reviews that check whether draft amendments to ordinances and regulations conflict with higher laws, and for drafting replies to civil complaints by finding the relevant laws and procedures. It can also be used to draft reports from meeting notes and reference materials, and to summarize long documents by organizing the key points and issues of policy materials."
-              },
-              {
-                "t": "p",
-                "x": "The public sector has faced limits on using AI because of security regulations and a shortage of GPU infrastructure. Upstage explained that, with Solar Pro 4, Korean AI models can be used for work within a government network that meets both security and infrastructure requirements."
-              },
-              {
-                "t": "p",
-                "x": "Upstage CEO Kim Sung-hoon said, “The AI needed for public work is AI you can trust, one that keeps data secure and answers with evidence,” adding, “We will prove in the field of public administration that trustworthy Korean AI can lead innovation in public work.”"
-              },
-              {
-                "t": "p",
-                "x": "Last month, Upstage unveiled its small language model (SLM) 'Solar Mini 4'. Its structure activates only 30억 of its 350억 parameters, and it recorded top-level performance among small models of its class in global AI benchmarks."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Solar Pro 4、\n汎政府AI基盤に搭載",
-          "body": "中央省庁と自治体が、別途GPUなしで行政網で国産LLMを使えるようになった。",
-          "mini_headline": "Solar Pro 4、汎政府AI基盤に搭載",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "Upstageの大規模言語モデル（LLM）「Solar Pro 4」が汎政府人工知能（AI）共通基盤に搭載された。Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstageは3日、大規模言語モデル（LLM）「Solar Pro 4」を汎政府人工知能（AI）共通基盤に搭載し、正式サービスを開始したと明らかにした。行政網で別途、画像処理装置（GPU）インフラを構築することなく、国産AIモデルを活用できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "汎政府AI共通基盤は、行政安全部と科学技術情報通信部が中央省庁や地方自治体にAIモデルやデータ、開発環境などを提供する行政網専用のAIインフラだ。Solar Pro 4は、共通基盤のAIプラットフォームであるSamsung SDSの「FabriX」を通じて提供される。"
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4は国家情報院のセキュリティ審査を通過した行政網インフラで運用され、内部の行政データの外部流出を防ぐことができる。モデル運用に必要なGPU資源は共通基盤で一括管理する。各機関は別途GPUサーバーを構築したり借りたりすることなく、チャット画面やアプリケーション・プログラミング・インターフェース（API）で活用できる。"
-              },
-              {
-                "t": "p",
-                "x": "法令・報道資料・行政資料などと連携し、回答の根拠も示す。公務員はSolar Pro 4を、条例・規定の改正案が上位法に抵触するかを確認する法令審査や、根拠法令と処理手続きを調べて書く民願回答の草案作成に活用できる。会議メモや参考資料をもとにした報告書の草案作成、政策資料の要点と争点を整理する長文文書の要約などにも活用できる。"
-              },
-              {
-                "t": "p",
-                "x": "公共部門は、セキュリティ規制とGPUインフラの不足によりAI活用に制約があった。Upstageは、Solar Pro 4によって、セキュリティとインフラの要件をともに満たした行政網の中で国産AIモデルを業務に活用できると説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Upstageのキム・ソンフン代表は「公共業務に必要なAIは、セキュリティを守り、根拠を備えて答える、安心して任せられるAIだ」とし、「信頼できる国産AIが公共業務の革新を導けることを行政の現場で証明する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Upstageはこれに先立ち、先月、軽量言語モデル（SLM）「Solar Mini 4」を公開した。350億のパラメータのうち30億だけを活性化する構造で、グローバルなAI性能評価で同クラスの小型モデルの中で最高水準を記録した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Solar Pro 4上线\n全政府AI公共平台",
-          "body": "中央部委和地方政府无需另配GPU，即可在政务网中使用国产LLM。",
-          "mini_headline": "Solar Pro 4接入全政府AI平台",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "Upstage大语言模型（LLM）“Solar Pro 4”已接入全政府人工智能（AI）公共平台。Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstage于3日表示，已将大语言模型（LLM）“Solar Pro 4”接入全政府人工智能（AI）公共平台，并正式上线服务。政务网无需另建图形处理器（GPU）基础设施，即可使用国产AI模型。"
-              },
-              {
-                "t": "p",
-                "x": "全政府AI公共平台是行政安全部和科学技术信息通信部向中央部委和地方政府提供AI模型、数据和开发环境等的政务网专用AI基础设施。Solar Pro 4通过该公共平台的AI平台——Samsung SDS的“FabriX”提供。"
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4运行在通过国家情报院安全审查的政务网基础设施上，可防止内部行政数据外泄。模型运行所需的GPU资源由公共平台统一管理。各机关无需另行搭建或租用GPU服务器，即可通过聊天界面或应用程序接口（API）使用。"
-              },
-              {
-                "t": "p",
-                "x": "它还与法令、新闻稿和行政资料等关联，给出回答依据。公务员可将Solar Pro 4用于审查条例、规定修订案是否抵触上位法的法令审查，以及查找依据法令和办理程序、撰写民众诉求答复初稿。它还可用于根据会议记录和参考资料撰写报告初稿，以及梳理政策资料要点和争议点的长文档摘要等。"
-              },
-              {
-                "t": "p",
-                "x": "公共部门此前因安全监管和GPU基础设施不足，在使用AI方面受到限制。Upstage表示，借助Solar Pro 4，可以在同时满足安全和基础设施要求的政务网内，将国产AI模型用于工作。"
-              },
-              {
-                "t": "p",
-                "x": "Upstage代表金成勋表示：“公共业务所需的AI，是能守住安全、有据可依地作答、值得信赖托付的AI。”他还表示：“我们将在行政一线证明，值得信赖的国产AI能够引领公共业务创新。”"
-              },
-              {
-                "t": "p",
-                "x": "Upstage此前于上月发布了轻量语言模型（SLM）“Solar Mini 4”。该模型在350亿参数中仅激活30亿参数，在全球AI性能评测中取得了同级小型模型中的最高水平。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Solar Pro 4 de Upstage llega\na la plataforma de AI estatal",
-          "body": "Ministerios centrales y gobiernos locales ya pueden usar un LLM coreano en la red administrativa sin una GPU propia.",
-          "mini_headline": "Solar Pro 4 llega a la plataforma de AI estatal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-                "cap": "El modelo de lenguaje grande (LLM) 'Solar Pro 4' de Upstage se ha incorporado a la plataforma común de inteligencia artificial (AI) de todo el Gobierno. Upstage"
-              },
-              {
-                "t": "p",
-                "x": "Upstage anunció el día 3 que ha incorporado su modelo de lenguaje grande (LLM) 'Solar Pro 4' a la plataforma común de inteligencia artificial (AI) de todo el Gobierno y que ha iniciado el servicio oficial. Ahora es posible usar modelos de AI nacionales en la red administrativa sin construir una infraestructura propia de unidades de procesamiento gráfico (GPU)."
-              },
-              {
-                "t": "p",
-                "x": "La plataforma común de AI de todo el Gobierno es una infraestructura de AI exclusiva de la red administrativa con la que el Ministerio del Interior y Seguridad y el Ministerio de Ciencia y TIC ofrecen modelos de AI, datos y entornos de desarrollo, entre otros, a los ministerios centrales y a los gobiernos locales. Solar Pro 4 se ofrece a través de 'FabriX', de Samsung SDS, la plataforma de AI de la plataforma común."
-              },
-              {
-                "t": "p",
-                "x": "Solar Pro 4 funciona en una infraestructura de la red administrativa que ha superado la revisión de seguridad del Servicio Nacional de Inteligencia, lo que permite evitar la fuga de datos administrativos internos. Los recursos de GPU necesarios para operar el modelo se gestionan de forma centralizada en la plataforma común. Cada organismo puede usarlo desde una pantalla de chat o una interfaz de programación de aplicaciones (API) sin construir ni alquilar sus propios servidores de GPU."
-              },
-              {
-                "t": "p",
-                "x": "También ofrece fundamentos para sus respuestas al vincularse con leyes, comunicados de prensa y documentos administrativos. Los funcionarios pueden usar Solar Pro 4 para revisar si los proyectos de reforma de ordenanzas y reglamentos contradicen leyes de rango superior, y para redactar borradores de respuestas a quejas ciudadanas buscando la normativa y los procedimientos aplicables. También puede usarse para redactar borradores de informes a partir de notas de reuniones y materiales de referencia, y para resumir documentos extensos ordenando los puntos clave y las cuestiones en debate de los materiales de políticas."
-              },
-              {
-                "t": "p",
-                "x": "El sector público tenía limitaciones para usar la AI por las normas de seguridad y la falta de infraestructura de GPU. Upstage explicó que, con Solar Pro 4, es posible usar modelos de AI nacionales en el trabajo dentro de una red administrativa que cumple tanto los requisitos de seguridad como los de infraestructura."
-              },
-              {
-                "t": "p",
-                "x": "Kim Sung-hoon, director ejecutivo de Upstage, dijo: “La AI que necesita el trabajo público es una AI en la que se puede confiar, que protege la seguridad y responde con fundamentos”, y añadió: “Demostraremos en la práctica administrativa que una AI nacional fiable puede impulsar la innovación del trabajo público”."
-              },
-              {
-                "t": "p",
-                "x": "Upstage presentó el mes pasado su modelo de lenguaje ligero (SLM) 'Solar Mini 4'. Su estructura activa solo 30억 de sus 350억 parámetros, y obtuvo el nivel más alto entre los modelos pequeños de su categoría en evaluaciones globales de rendimiento de AI."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "politics-eu-2027-workplan-ai",
+      "id": "ni-eu-ai-act-products",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU 집행위 초안\n2027년 AI 확산 추진",
-      "body": "EU 집행위가 2027년 업무계획 초안에 여러 부문의 AI 확산을 담았다.",
-      "mini_headline": "EU 계획, AI 확산 추진",
+      "headline": "EU AI 제품 규정 일부\n북아일랜드에 적용",
+      "body": "영국 정부는 AI 내장 제품 관련 EU 규정 일부가 북아일랜드에 적용된다고 했다.",
+      "mini_headline": "EU AI 규정, 북아일랜드에도 적용",
       "tool": "Politics",
-      "source": "Euractiv (Rapporteur)",
-      "url": "https://www.rapporteur.com/news/exclusive-eu-executive-wants-to-boost-ai-use-in-2027-work-plan/",
-      "accent": "#eb367f",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro",
+      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-            "cap": "gorodenkoff / Getty Images"
+            "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+            "cap": "정부는 인공지능에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다"
           },
           {
             "t": "p",
-            "x": "Rapporteur가 입수한 2027년 집행위원회 업무계획을 보면 유럽연합 집행위원회는 내년 여러 부문에서 인공지능 활용을 끌어올릴 방안을 검토 중이다. 수요일 발표 예정인 이 유출 문건에서 집행위는 여러 부문에 걸쳐 AI의 잠재력을 “활용”하겠다고 했다."
+            "x": "영국 정부는 인공지능(AI)에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다. 다만 북아일랜드(NI)의 AI 규제는 대부분 영국 정부와 스토몬트 몫이다."
           },
           {
             "t": "p",
-            "x": "집행위는 보건, 운송, 농식품, 첨단 제조, 방위·우주 등 다섯 개 부문에서 산업 AI를 이끌 이른바 행동 청사진을 제안한다. 집행위 AI 특사 Jim Hagemann Snabe가 곧 내놓을 보고서를 가리키는 대목으로 보인다. AI 스택에서 유럽의 입지를 “강화”하려고 칩, 데이터, 컴퓨팅, 혁신적 자금 조달 수단의 우선순위도 새로 넣었다."
+            "x": "EU 규정은 AI 시스템이 내장된(AI-integrated) 실물 상품에만 적용된다. 브렉시트 합의인 윈저 프레임워크가 북아일랜드를 EU 상품 단일시장에 남겨 뒀기 때문이다."
           },
           {
             "t": "p",
-            "x": "“디지털 전환 패키지, 간소화 및 저작권”은 디지털 디케이드 목표를 다시 들여다본다. AI 인프라, 시민의 AI 역량 강화, 기업의 AI 시스템 도입 현황 점검이 중심이 될 수 있다. 집행위는 문화·창작 부문에서도 AI의 잠재력을 “활용”하겠다고 했고, “AI가 노동시장에 미치는 영향으로 생긴 과제 앞에서 청년을 지원할 필요”도 짚었다."
+            "x": "정부는 “EU AI Act는 NI 전체에 적용되지 않는다. AI 시스템이 NI 시장에 출시되는 유형의 실물 제품과 긴밀하게 통합된 경우에만 적용된다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "다만 2027년 집행위의 입법 초점은 좁다. 디지털공정법(Digital Fairness Act, DFA)과 유럽제품법(European Product Act) 등 여러 법안이 2026년 말 제안될 예정이어서다."
+            "x": "해미시 팰코너 내각부 장관은 윈저 프레임워크에 AI 규정을 넣어도 영국의 다른 지역과 사이에 새 규제 경계가 생기지는 않는다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "EU 법이 적용되는 제품으로는 AI 음성 비서를 내장한 스마트 스피커, 제조사의 AI 건강 모니터링 앱이 있어야 하는 스마트워치 등을 꼽을 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "EU Commission draft plan\npushes AI uptake in 2027",
-          "body": "The Commission's draft 2027 work programme, seen by Rapporteur, plans to push AI uptake across sectors.",
-          "mini_headline": "EU plan pushes AI uptake",
+          "headline": "Some EU AI product rules\nto apply in Northern Ireland",
+          "body": "The UK says some EU rules for AI-integrated products will apply in Northern Ireland under the Windsor Framework.",
+          "mini_headline": "EU AI rules reach Northern Ireland",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "The government has said some EU rules on Artificial Intelligence will apply to Northern Ireland"
               },
               {
                 "t": "p",
-                "x": "The European Commission is looking at uplifting artificial intelligence use across sectors next year, according to the 2027 Commission work programme obtained by Rapporteur. According to the leaked programme, set to be presented on Wednesday, the Commission wants to “tap” AI potential across sectors."
+                "x": "Some EU rules on Artificial Intelligence (AI) will apply in Northern Ireland, the UK government has said. However the regulation of AI in NI will largely be a matter for the UK government and Stormont."
               },
               {
                 "t": "p",
-                "x": "It is set to propose a so-called blueprint for action to drive industrial AI across five sectors, including health, transport, agri-food, advanced manufacturing and defence and space — most likely referring to the upcoming report by the Commission’s special AI envoy Jim Hagemann Snabe. It also wants to “strengthen” Europe’s position in the AI stack: adding priorities on chips, data, compute and innovative funding instruments."
+                "x": "EU rules will only apply to physical goods which have an embedded AI system. They will apply due to the Windsor Framework, the Brexit deal which keeps NI inside the EU's single market for goods."
               },
               {
                 "t": "p",
-                "x": "A “digital transformation package, simplification and copyright” will review the digital decade targets, which may focus on AI infrastructure, equipping citizens with AI skills and monitoring business adoption of AI systems. The Commission also wants to “harness” AI’s potential for cultural and creative sectors, and mentions the “need to support young people in the face of the challenges raised by the impact of AI on the labour market”."
+                "x": "The government said: \"The EU AI Act does not apply to NI in full. It applies only where an AI system is closely integrated with a tangible physical product that is placed on the NI market.\""
               },
               {
                 "t": "p",
-                "x": "However, the Commission’s legislative focus is narrow for 2027, with several proposals, such as the Digital Fairness Act (DFA) and the European Product Act, set to be proposed at the end of 2026."
+                "x": "The Cabinet Office minister Hamish Falconer said the addition of the AI rules to the Windsor Framework would not create a new regulatory border with the rest of the UK."
+              },
+              {
+                "t": "p",
+                "x": "Examples of products which will be covered by the EU laws include a smart speaker with a built-in AI voice assistant or a smart watch requiring a manufacturer's AI health monitoring app."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU 집행위 초안\n2027년 AI 확산 추진",
-          "body": "EU 집행위가 2027년 업무계획 초안에 여러 부문의 AI 확산을 담았다.",
-          "mini_headline": "EU 계획, AI 확산 추진",
+          "headline": "EU AI 제품 규정 일부\n북아일랜드에 적용",
+          "body": "영국 정부는 AI 내장 제품 관련 EU 규정 일부가 북아일랜드에 적용된다고 했다.",
+          "mini_headline": "EU AI 규정, 북아일랜드에도 적용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "정부는 인공지능에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다"
               },
               {
                 "t": "p",
-                "x": "Rapporteur가 입수한 2027년 집행위원회 업무계획을 보면 유럽연합 집행위원회는 내년 여러 부문에서 인공지능 활용을 끌어올릴 방안을 검토 중이다. 수요일 발표 예정인 이 유출 문건에서 집행위는 여러 부문에 걸쳐 AI의 잠재력을 “활용”하겠다고 했다."
+                "x": "영국 정부는 인공지능(AI)에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다. 다만 북아일랜드(NI)의 AI 규제는 대부분 영국 정부와 스토몬트 몫이다."
               },
               {
                 "t": "p",
-                "x": "집행위는 보건, 운송, 농식품, 첨단 제조, 방위·우주 등 다섯 개 부문에서 산업 AI를 이끌 이른바 행동 청사진을 제안한다. 집행위 AI 특사 Jim Hagemann Snabe가 곧 내놓을 보고서를 가리키는 대목으로 보인다. AI 스택에서 유럽의 입지를 “강화”하려고 칩, 데이터, 컴퓨팅, 혁신적 자금 조달 수단의 우선순위도 새로 넣었다."
+                "x": "EU 규정은 AI 시스템이 내장된(AI-integrated) 실물 상품에만 적용된다. 브렉시트 합의인 윈저 프레임워크가 북아일랜드를 EU 상품 단일시장에 남겨 뒀기 때문이다."
               },
               {
                 "t": "p",
-                "x": "“디지털 전환 패키지, 간소화 및 저작권”은 디지털 디케이드 목표를 다시 들여다본다. AI 인프라, 시민의 AI 역량 강화, 기업의 AI 시스템 도입 현황 점검이 중심이 될 수 있다. 집행위는 문화·창작 부문에서도 AI의 잠재력을 “활용”하겠다고 했고, “AI가 노동시장에 미치는 영향으로 생긴 과제 앞에서 청년을 지원할 필요”도 짚었다."
+                "x": "정부는 “EU AI Act는 NI 전체에 적용되지 않는다. AI 시스템이 NI 시장에 출시되는 유형의 실물 제품과 긴밀하게 통합된 경우에만 적용된다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "다만 2027년 집행위의 입법 초점은 좁다. 디지털공정법(Digital Fairness Act, DFA)과 유럽제품법(European Product Act) 등 여러 법안이 2026년 말 제안될 예정이어서다."
+                "x": "해미시 팰코너 내각부 장관은 윈저 프레임워크에 AI 규정을 넣어도 영국의 다른 지역과 사이에 새 규제 경계가 생기지는 않는다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "EU 법이 적용되는 제품으로는 AI 음성 비서를 내장한 스마트 스피커, 제조사의 AI 건강 모니터링 앱이 있어야 하는 스마트워치 등을 꼽을 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU欧州委が計画案\n2027年にAI普及推進",
-          "body": "Rapporteurが入手した欧州委の2027年作業計画案は各分野でのAI普及を掲げる。",
-          "mini_headline": "EU計画、AI普及を推進",
+          "headline": "EUのAI製品規則の一部\n北アイルランドに適用",
+          "body": "英政府は、AI搭載製品に関するEU規則の一部が北アイルランドに適用されると表明した。",
+          "mini_headline": "EUのAI規則、北アイルランドに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "政府は、人工知能に関するEU規則の一部が北アイルランドに適用されると表明した"
               },
               {
                 "t": "p",
-                "x": "Rapporteurが入手した2027年の欧州委員会作業計画によると、欧州委員会は来年、各分野で人工知能の利用を引き上げることを検討している。水曜日に公表される予定のこの流出した計画で、欧州委はさまざまな分野でAIの潜在力を「活用」したい考えだ。"
+                "x": "英国政府は、人工知能(AI)に関するEU規則の一部が北アイルランドに適用されると明らかにした。ただし、北アイルランド(NI)におけるAI規制は、主に英国政府とストーモントが担う。"
               },
               {
                 "t": "p",
-                "x": "欧州委は、保健、運輸、農業食品、先端製造、防衛・宇宙を含む五つの分野で産業AIを推進するための、いわゆる行動の青写真を提案する予定だ。これは欧州委のAI特使Jim Hagemann Snabeが近く公表する報告書を指しているとみられる。また、AIスタックにおける欧州の立場を「強化」したい考えで、半導体、データ、計算資源、革新的な資金調達手段に関する優先事項を加えている。"
+                "x": "EU規則が適用されるのは、AIシステムが組み込まれた(AI-integrated)物理的な製品に限られる。北アイルランドをEUの物品単一市場にとどめるブレグジット合意、ウィンザー・フレームワークに基づいて適用される。"
               },
               {
                 "t": "p",
-                "x": "「デジタル変革パッケージ、簡素化、著作権」はデジタル・ディケードの目標を見直すもので、AIインフラ、市民へのAIスキル付与、企業によるAIシステム導入の監視に焦点を当てる可能性がある。欧州委は文化・クリエイティブ分野でもAIの潜在力を「活用」したいとし、「AIが労働市場に及ぼす影響によって生じる課題に直面する若者を支援する必要性」にも言及している。"
+                "x": "政府は「EU AI ActはNIに全面的には適用されない。AIシステムが、NI市場に投入される有形の物理的製品と密接に統合されている場合にのみ適用される」と述べた。"
               },
               {
                 "t": "p",
-                "x": "ただし、2027年の欧州委の立法の焦点は狭い。Digital Fairness Act（DFA）やEuropean Product Actなど、いくつかの提案は2026年末に提出される予定だからだ。"
+                "x": "内閣府のハミッシュ・ファルコナー担当相は、ウィンザー・フレームワークへのAI規則の追加によって、英国のほかの地域との間に新たな規制上の境界が生じることはないと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "EU法の対象となる製品の例には、AI音声アシスタントを内蔵したスマートスピーカーや、メーカーのAI健康モニタリングアプリを必要とするスマートウォッチがある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU委员会草案：\n2027年推动AI普及",
-          "body": "据Rapporteur获得的草案，欧盟委员会2027年工作计划将推动各行业AI普及。",
-          "mini_headline": "EU计划推动AI普及",
+          "headline": "欧盟部分AI产品规则\n将适用于北爱尔兰",
+          "body": "英国称，根据《温莎框架》，欧盟针对AI集成产品的部分规则将适用于北爱尔兰。",
+          "mini_headline": "欧盟AI规则延伸至北爱尔兰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "英国政府表示，欧盟部分人工智能规则将适用于北爱尔兰"
               },
               {
                 "t": "p",
-                "x": "据Rapporteur获得的2027年委员会工作计划，欧盟委员会正考虑明年在各行业提升人工智能的使用。根据这份预计于周三公布的泄露计划，委员会希望在各行业“挖掘”AI潜力。"
+                "x": "英国政府表示，欧盟部分人工智能（AI）规则将适用于北爱尔兰。不过，北爱尔兰（NI）的AI监管将主要由英国政府和斯托蒙特负责。"
               },
               {
                 "t": "p",
-                "x": "委员会将提出一份所谓的行动蓝图，在卫生、交通、农业食品、先进制造以及国防和航天等五个领域推动工业AI——这很可能指的是委员会AI特使Jim Hagemann Snabe即将发布的报告。委员会还希望“加强”欧洲在AI技术栈中的地位：增加芯片、数据、算力和创新融资工具方面的优先事项。"
+                "x": "欧盟规则仅适用于嵌入AI系统（AI-integrated）的实物商品。这些规则之所以适用，是因为《温莎框架》——这项脱欧协议让北爱尔兰留在欧盟商品单一市场内。"
               },
               {
                 "t": "p",
-                "x": "一项“数字化转型一揽子计划、简化与版权”将审视“数字十年”目标，重点可能放在AI基础设施、提升公民AI技能以及监测企业采用AI系统的情况。委员会还希望在文化和创意领域“利用”AI的潜力，并提到“需要支持年轻人应对AI对劳动力市场的影响所带来的挑战”。"
+                "x": "政府表示：“EU AI Act并不完全适用于NI。只有当AI系统与投放NI市场的有形实物产品紧密集成时才适用。”"
               },
               {
                 "t": "p",
-                "x": "不过，委员会2027年的立法重点较窄，《数字公平法》（Digital Fairness Act, DFA）和《欧洲产品法》（European Product Act）等多项提案定于2026年底提出。"
+                "x": "内阁办公室大臣Hamish Falconer表示，将AI规则纳入《温莎框架》不会与英国其他地区形成新的监管边界。"
+              },
+              {
+                "t": "p",
+                "x": "受欧盟法律管辖的产品例子包括内置AI语音助手的智能音箱，以及需要使用制造商AI健康监测应用的智能手表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El borrador de la EU impulsa\nla adopción de la AI en 2027",
-          "body": "El borrador del programa de trabajo 2027 de la Comisión, según Rapporteur, impulsa la AI en varios sectores.",
-          "mini_headline": "El plan de la EU impulsa la adopción de la AI",
+          "headline": "Irlanda del Norte aplicará parte\nde la ley UE de IA en productos",
+          "body": "El Reino Unido dice que algunas normas UE sobre productos con IA integrada regirán en Irlanda del Norte.",
+          "mini_headline": "Normas UE de IA llegan a Irlanda del Norte",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "El Gobierno ha dicho que algunas normas de la UE sobre inteligencia artificial se aplicarán a Irlanda del Norte"
               },
               {
                 "t": "p",
-                "x": "La Comisión Europea estudia impulsar el uso de la inteligencia artificial en todos los sectores el próximo año, según el programa de trabajo de la Comisión para 2027 obtenido por Rapporteur. Según el programa filtrado, que se presentará el miércoles, la Comisión quiere “aprovechar” el potencial de la AI en todos los sectores."
+                "x": "Algunas normas de la UE sobre inteligencia artificial (IA) se aplicarán en Irlanda del Norte, según ha informado el Gobierno del Reino Unido. Sin embargo, la regulación de la IA en Irlanda del Norte (NI) corresponderá en gran medida al Gobierno británico y a Stormont."
               },
               {
                 "t": "p",
-                "x": "Está previsto que proponga un llamado plan de acción para impulsar la AI industrial en cinco sectores, entre ellos salud, transporte, agroalimentación, fabricación avanzada y defensa y espacio, lo que muy probablemente remite al próximo informe del enviado especial de la Comisión para la AI, Jim Hagemann Snabe. También quiere “reforzar” la posición de Europa en la pila tecnológica de AI, añadiendo prioridades sobre chips, datos, computación e instrumentos de financiación innovadores."
+                "x": "Las normas de la UE solo se aplicarán a bienes físicos que lleven integrado un sistema de IA (AI-integrated). Se aplicarán en virtud del Marco de Windsor, el acuerdo del Brexit que mantiene a Irlanda del Norte dentro del mercado único de bienes de la UE."
               },
               {
                 "t": "p",
-                "x": "Un “paquete de transformación digital, simplificación y derechos de autor” revisará los objetivos de la década digital, que podrían centrarse en la infraestructura de AI, en dotar a la ciudadanía de competencias en AI y en el seguimiento de la adopción de sistemas de AI por parte de las empresas. La Comisión también quiere “aprovechar” el potencial de la AI para los sectores cultural y creativo, y menciona la “necesidad de apoyar a los jóvenes ante los retos que plantea el impacto de la AI en el mercado laboral”."
+                "x": "El Gobierno afirmó: \"La Ley de IA de la UE no se aplica a NI en su totalidad. Solo se aplica cuando un sistema de IA está estrechamente integrado en un producto físico tangible que se comercializa en el mercado de NI\"."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, el foco legislativo de la Comisión para 2027 es reducido, ya que varias propuestas, como la Digital Fairness Act (DFA) y la European Product Act, se presentarán a finales de 2026."
+                "x": "El ministro de la Oficina del Gabinete, Hamish Falconer, afirmó que la incorporación de las normas de IA al Marco de Windsor no creará una nueva frontera regulatoria con el resto del Reino Unido."
+              },
+              {
+                "t": "p",
+                "x": "Entre los productos cubiertos por las leyes de la UE figuran, por ejemplo, un altavoz inteligente con asistente de voz de IA integrado o un reloj inteligente que requiera la aplicación de monitorización de salud con IA del fabricante."
               }
             ]
           }
@@ -1757,125 +1065,493 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU 집행위 초안\n2027년 AI 확산 추진",
-          "body": "EU 집행위의 2027년 업무계획 초안은 여러 부문의 AI 확산을 추진한다.",
-          "mini_headline": "EU 계획, AI 확산 추진",
+          "headline": "EU AI 제품 규정 일부\n북아일랜드에 적용",
+          "body": "영국 정부는 AI 내장 제품 관련 EU 규정 일부가 북아일랜드에 적용된다고 했다.",
+          "mini_headline": "EU AI 규정, 북아일랜드에도 적용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "정부는 인공지능에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다"
               },
               {
                 "t": "p",
-                "x": "Rapporteur가 입수한 2027년 집행위원회 업무계획에 따르면 유럽연합 집행위원회는 내년 여러 부문에서 인공지능 활용을 끌어올리는 방안을 검토하고 있다. 수요일 발표될 예정인 이 유출 문건에서 집행위는 여러 부문에 걸쳐 AI의 잠재력을 “활용”하겠다고 밝혔다."
+                "x": "영국 정부는 인공지능(AI)에 관한 EU 규정 일부가 북아일랜드에 적용된다고 밝혔다. 다만 북아일랜드(NI)의 AI 규제는 대체로 영국 정부와 스토몬트가 맡게 된다."
               },
               {
                 "t": "p",
-                "x": "집행위는 보건, 운송, 농식품, 첨단 제조, 방위·우주 등 다섯 개 부문에서 산업 AI를 이끌 이른바 행동 청사진을 제안할 예정이다. 이는 집행위 AI 특사 Jim Hagemann Snabe가 곧 내놓을 보고서를 가리키는 것으로 보인다. 집행위는 또 AI 스택에서 유럽의 입지를 “강화”하고자 칩, 데이터, 컴퓨팅, 혁신적 자금 조달 수단에 관한 우선순위를 추가했다."
+                "x": "EU 규정은 AI 시스템이 내장된(AI-integrated) 실물 상품에만 적용된다. 이는 북아일랜드를 EU 상품 단일시장에 남겨 둔 브렉시트 합의인 윈저 프레임워크 때문이다."
               },
               {
                 "t": "p",
-                "x": "“디지털 전환 패키지, 간소화 및 저작권”은 디지털 디케이드 목표를 재검토한다. AI 인프라, 시민의 AI 역량 강화, 기업의 AI 시스템 도입 현황 점검에 초점이 맞춰질 수 있다. 집행위는 문화·창작 부문에서도 AI의 잠재력을 “활용”하겠다고 했으며, “AI가 노동시장에 미치는 영향으로 생긴 과제 앞에서 청년을 지원할 필요”도 언급했다."
+                "x": "정부는 “EU AI Act는 NI 전체에 적용되지 않는다. AI 시스템이 NI 시장에 출시되는 유형의 실물 제품과 긴밀하게 통합된 경우에만 적용된다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "다만 2027년 집행위의 입법 초점은 좁다. 디지털공정법(Digital Fairness Act, DFA)과 유럽제품법(European Product Act) 등 여러 법안이 2026년 말 제안될 예정이기 때문이다."
+                "x": "해미시 팰코너 내각부 장관은 윈저 프레임워크에 AI 규정을 추가해도 영국의 다른 지역과 새로운 규제 경계가 생기지는 않는다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "EU 법이 적용되는 제품의 예로는 AI 음성 비서가 내장된 스마트 스피커나, 제조사의 AI 건강 모니터링 앱이 필요한 스마트워치가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU欧州委が計画案\n2027年にAI普及推進",
-          "body": "Rapporteurが入手した欧州委の2027年作業計画案は各分野でのAI普及を掲げる。",
-          "mini_headline": "EU計画、AI普及を推進",
+          "headline": "EUのAI製品規則の一部\n北アイルランドに適用",
+          "body": "英政府は、AI搭載製品に関するEU規則の一部が北アイルランドに適用されると表明した。",
+          "mini_headline": "EUのAI規則、北アイルランドに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "政府は、人工知能に関するEU規則の一部が北アイルランドに適用されると表明した"
               },
               {
                 "t": "p",
-                "x": "Rapporteurが入手した2027年の欧州委員会作業計画によると、欧州委員会は来年、各分野で人工知能の利用を引き上げることを検討している。水曜日に公表される予定のこの流出した計画で、欧州委はさまざまな分野でAIの潜在力を「活用」したい考えだ。"
+                "x": "英国政府は、人工知能(AI)に関するEU規則の一部が北アイルランドに適用されると明らかにした。ただし、北アイルランド(NI)におけるAI規制は、主に英国政府とストーモントが担う。"
               },
               {
                 "t": "p",
-                "x": "欧州委は、保健、運輸、農業食品、先端製造、防衛・宇宙を含む五つの分野で産業AIを推進するための、いわゆる行動の青写真を提案する予定だ。これは欧州委のAI特使Jim Hagemann Snabeが近く公表する報告書を指しているとみられる。また、AIスタックにおける欧州の立場を「強化」したい考えで、半導体、データ、計算資源、革新的な資金調達手段に関する優先事項を加えている。"
+                "x": "EU規則が適用されるのは、AIシステムが組み込まれた(AI-integrated)物理的な製品に限られる。北アイルランドをEUの物品単一市場にとどめるブレグジット合意、ウィンザー・フレームワークに基づいて適用される。"
               },
               {
                 "t": "p",
-                "x": "「デジタル変革パッケージ、簡素化、著作権」はデジタル・ディケードの目標を見直すもので、AIインフラ、市民へのAIスキル付与、企業によるAIシステム導入の監視に焦点を当てる可能性がある。欧州委は文化・クリエイティブ分野でもAIの潜在力を「活用」したいとし、「AIが労働市場に及ぼす影響によって生じる課題に直面する若者を支援する必要性」にも言及している。"
+                "x": "政府は「EU AI ActはNIに全面的には適用されない。AIシステムが、NI市場に投入される有形の物理的製品と密接に統合されている場合にのみ適用される」と述べた。"
               },
               {
                 "t": "p",
-                "x": "ただし、2027年の欧州委の立法の焦点は狭い。Digital Fairness Act（DFA）やEuropean Product Actなど、いくつかの提案は2026年末に提出される予定だからだ。"
+                "x": "内閣府のハミッシュ・ファルコナー担当相は、ウィンザー・フレームワークへのAI規則の追加によって、英国のほかの地域との間に新たな規制上の境界が生じることはないと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "EU法の対象となる製品の例には、AI音声アシスタントを内蔵したスマートスピーカーや、メーカーのAI健康モニタリングアプリを必要とするスマートウォッチがある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU委员会草案：\n2027年推动AI普及",
-          "body": "据Rapporteur获得的草案，欧盟委员会2027年工作计划将推动各行业AI普及。",
-          "mini_headline": "EU计划推动AI普及",
+          "headline": "欧盟部分AI产品规则\n将适用于北爱尔兰",
+          "body": "英国称，根据《温莎框架》，欧盟针对AI集成产品的部分规则将适用于北爱尔兰。",
+          "mini_headline": "欧盟AI规则延伸至北爱尔兰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "英国政府表示，欧盟部分人工智能规则将适用于北爱尔兰"
               },
               {
                 "t": "p",
-                "x": "据Rapporteur获得的2027年委员会工作计划，欧盟委员会正考虑明年在各行业提升人工智能的使用。根据这份预计于周三公布的泄露计划，委员会希望在各行业“挖掘”AI潜力。"
+                "x": "英国政府表示，欧盟部分人工智能（AI）规则将适用于北爱尔兰。不过，北爱尔兰（NI）的AI监管将主要由英国政府和斯托蒙特负责。"
               },
               {
                 "t": "p",
-                "x": "委员会将提出一份所谓的行动蓝图，在卫生、交通、农业食品、先进制造以及国防和航天等五个领域推动工业AI——这很可能指的是委员会AI特使Jim Hagemann Snabe即将发布的报告。委员会还希望“加强”欧洲在AI技术栈中的地位：增加芯片、数据、算力和创新融资工具方面的优先事项。"
+                "x": "欧盟规则仅适用于嵌入AI系统（AI-integrated）的实物商品。这些规则之所以适用，是因为《温莎框架》——这项脱欧协议让北爱尔兰留在欧盟商品单一市场内。"
               },
               {
                 "t": "p",
-                "x": "一项“数字化转型一揽子计划、简化与版权”将审视“数字十年”目标，重点可能放在AI基础设施、提升公民AI技能以及监测企业采用AI系统的情况。委员会还希望在文化和创意领域“利用”AI的潜力，并提到“需要支持年轻人应对AI对劳动力市场的影响所带来的挑战”。"
+                "x": "政府表示：“EU AI Act并不完全适用于NI。只有当AI系统与投放NI市场的有形实物产品紧密集成时才适用。”"
               },
               {
                 "t": "p",
-                "x": "不过，委员会2027年的立法重点较窄，《数字公平法》（Digital Fairness Act, DFA）和《欧洲产品法》（European Product Act）等多项提案定于2026年底提出。"
+                "x": "内阁办公室大臣Hamish Falconer表示，将AI规则纳入《温莎框架》不会与英国其他地区形成新的监管边界。"
+              },
+              {
+                "t": "p",
+                "x": "受欧盟法律管辖的产品例子包括内置AI语音助手的智能音箱，以及需要使用制造商AI健康监测应用的智能手表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El borrador de la EU impulsa\nla adopción de la AI en 2027",
-          "body": "El borrador del programa de trabajo 2027 de la Comisión, según Rapporteur, impulsa la AI en varios sectores.",
-          "mini_headline": "El plan de la EU impulsa la adopción de la AI",
+          "headline": "Irlanda del Norte aplicará parte\nde la ley UE de IA en productos",
+          "body": "El Reino Unido dice que algunas normas UE sobre productos con IA integrada regirán en Irlanda del Norte.",
+          "mini_headline": "Normas UE de IA llegan a Irlanda del Norte",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
-                "cap": "gorodenkoff / Getty Images"
+                "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+                "cap": "El Gobierno ha dicho que algunas normas de la UE sobre inteligencia artificial se aplicarán a Irlanda del Norte"
               },
               {
                 "t": "p",
-                "x": "La Comisión Europea estudia impulsar el uso de la inteligencia artificial en todos los sectores el próximo año, según el programa de trabajo de la Comisión para 2027 obtenido por Rapporteur. Según el programa filtrado, que se presentará el miércoles, la Comisión quiere “aprovechar” el potencial de la AI en todos los sectores."
+                "x": "Algunas normas de la UE sobre inteligencia artificial (IA) se aplicarán en Irlanda del Norte, según ha informado el Gobierno del Reino Unido. Sin embargo, la regulación de la IA en Irlanda del Norte (NI) corresponderá en gran medida al Gobierno británico y a Stormont."
               },
               {
                 "t": "p",
-                "x": "Está previsto que proponga un llamado plan de acción para impulsar la AI industrial en cinco sectores, entre ellos salud, transporte, agroalimentación, fabricación avanzada y defensa y espacio, lo que muy probablemente remite al próximo informe del enviado especial de la Comisión para la AI, Jim Hagemann Snabe. También quiere “reforzar” la posición de Europa en la pila tecnológica de AI, añadiendo prioridades sobre chips, datos, computación e instrumentos de financiación innovadores."
+                "x": "Las normas de la UE solo se aplicarán a bienes físicos que lleven integrado un sistema de IA (AI-integrated). Se aplicarán en virtud del Marco de Windsor, el acuerdo del Brexit que mantiene a Irlanda del Norte dentro del mercado único de bienes de la UE."
               },
               {
                 "t": "p",
-                "x": "Un “paquete de transformación digital, simplificación y derechos de autor” revisará los objetivos de la década digital, que podrían centrarse en la infraestructura de AI, en dotar a la ciudadanía de competencias en AI y en el seguimiento de la adopción de sistemas de AI por parte de las empresas. La Comisión también quiere “aprovechar” el potencial de la AI para los sectores cultural y creativo, y menciona la “necesidad de apoyar a los jóvenes ante los retos que plantea el impacto de la AI en el mercado laboral”."
+                "x": "El Gobierno afirmó: \"La Ley de IA de la UE no se aplica a NI en su totalidad. Solo se aplica cuando un sistema de IA está estrechamente integrado en un producto físico tangible que se comercializa en el mercado de NI\"."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, el foco legislativo de la Comisión para 2027 es reducido, ya que varias propuestas, como la Digital Fairness Act (DFA) y la European Product Act, se presentarán a finales de 2026."
+                "x": "El ministro de la Oficina del Gabinete, Hamish Falconer, afirmó que la incorporación de las normas de IA al Marco de Windsor no creará una nueva frontera regulatoria con el resto del Reino Unido."
+              },
+              {
+                "t": "p",
+                "x": "Entre los productos cubiertos por las leyes de la UE figuran, por ejemplo, un altavoz inteligente con asistente de voz de IA integrado o un reloj inteligente que requiera la aplicación de monitorización de salud con IA del fabricante."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "uk-ai-400bn-google",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "英 AI 추산 £400bn\nGoogle 의뢰 보고서",
+      "body": "영국 정부의 AI 효과 4000억 파운드는 Google이 의뢰한 보고서 수치였다.",
+      "mini_headline": "영국 £400bn AI 수치, Google 연구 출처",
+      "tool": "Politics",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+          },
+          {
+            "t": "p",
+            "x": "영국 정부는 지난 2년 동안 AI로 나라 경제가 4000억 파운드(5380억 달러)의 부양 효과를 얻을 수 있다고 국민에게 말해 왔다."
+          },
+          {
+            "t": "p",
+            "x": "카니슈카 나라얀 AI 장관은 의회 질의 답변에서 AI 도입과 데이터 투자로 2030년까지 영국 경제에 550억~1400억 파운드가 더해질 수 있다고 밝혔다. 중앙 추정치는 1200억 파운드로 4000억 파운드의 3분의 1에도 못 미친다. 그는 이 “더 최근의 평가”조차 “매우 불확실한” 추정치라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "나라얀 장관은 4000억 파운드라는 수치가 “Google이 의뢰하고 Public First가 작성해 공개된 2023년 보고서에서 가져온 것”이라고 말했다. Public First는 지금의 PF Global이다. 답변에서 4000억 파운드 수치를 철회하거나 틀렸다고 인정하지는 않았다."
+          },
+          {
+            "t": "p",
+            "x": "PF Global의 조너선 듀폰은 정부의 AI 도입이 더디다고 본 것이 격차의 일부 원인이라고 말했다. PF Global은 모든 연구를 독립적으로 수행했으며 모든 판단과 가정은 자사의 것이라고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "하원 과학혁신기술위원회 위원장 치 온우라 여사(Dame Chi Onwurah)는 WIRED에 “기술의 이점을 과장하면 변화의 당위를 훼손할 위험이 있다”고 말했다. 내각부와 Google에 논평을 요청했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "UK's £400bn AI estimate\nfrom Google-commissioned study",
+          "body": "The UK's £400 billion AI figure came from a Google-commissioned report; the AI minister now cites £120 billion.",
+          "mini_headline": "UK's £400bn AI figure: Google study",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "For the last two years, the UK government has been telling the British public that the country could receive an economic boost of £400 billion ($538 billion), thanks to AI."
+              },
+              {
+                "t": "p",
+                "x": "AI minister Kanishka Narayan, answering a parliamentary question, said that AI adoption and data investment could add £55 billion to £140 billion to the UK economy by 2030, bringing the central estimate to £120 billion — less than a third of the £400 billion figure. He called even this “more recent assessment” a “hugely uncertain” estimate."
+              },
+              {
+                "t": "p",
+                "x": "Narayan said the £400 billion figure “was drawn from a publicly available 2023 report commissioned by Google and produced by Public First,” now PF Global. The answer did not withdraw the £400 billion figure or say it had been wrong."
+              },
+              {
+                "t": "p",
+                "x": "PF Global’s Jonathan Dupont said the disparity was partially because of what they saw as the government’s slow adoption of AI. PF Global said all research was independent and all judgments and assumptions were their own."
+              },
+              {
+                "t": "p",
+                "x": "Dame Chi Onwurah, who chairs the Commons Science, Innovation and Technology Committee, told WIRED that “overstating the benefits of technology risks undermining the case for change.” The Cabinet Office and Google were approached for comment."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "英 AI 추산 £400bn\nGoogle 의뢰 보고서",
+          "body": "영국 정부의 AI 효과 4000억 파운드는 Google이 의뢰한 보고서 수치였다.",
+          "mini_headline": "영국 £400bn AI 수치, Google 연구 출처",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "영국 정부는 지난 2년 동안 AI로 나라 경제가 4000억 파운드(5380억 달러)의 부양 효과를 얻을 수 있다고 국민에게 말해 왔다."
+              },
+              {
+                "t": "p",
+                "x": "카니슈카 나라얀 AI 장관은 의회 질의 답변에서 AI 도입과 데이터 투자로 2030년까지 영국 경제에 550억~1400억 파운드가 더해질 수 있다고 밝혔다. 중앙 추정치는 1200억 파운드로 4000억 파운드의 3분의 1에도 못 미친다. 그는 이 “더 최근의 평가”조차 “매우 불확실한” 추정치라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "나라얀 장관은 4000억 파운드라는 수치가 “Google이 의뢰하고 Public First가 작성해 공개된 2023년 보고서에서 가져온 것”이라고 말했다. Public First는 지금의 PF Global이다. 답변에서 4000억 파운드 수치를 철회하거나 틀렸다고 인정하지는 않았다."
+              },
+              {
+                "t": "p",
+                "x": "PF Global의 조너선 듀폰은 정부의 AI 도입이 더디다고 본 것이 격차의 일부 원인이라고 말했다. PF Global은 모든 연구를 독립적으로 수행했으며 모든 판단과 가정은 자사의 것이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "하원 과학혁신기술위원회 위원장 치 온우라 여사(Dame Chi Onwurah)는 WIRED에 “기술의 이점을 과장하면 변화의 당위를 훼손할 위험이 있다”고 말했다. 내각부와 Google에 논평을 요청했다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "英国4000亿英镑AI估算\n出自Google委托研究",
+          "body": "英国4000亿英镑的AI提振数字出自Google委托的报告，AI大臣现称1200亿英镑。",
+          "mini_headline": "英国4000亿英镑AI数字源自Google研究",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "过去两年里，英国政府一直告诉英国公众，得益于AI，国家经济可能获得4000亿英镑（5380亿美元）的提振。"
+              },
+              {
+                "t": "p",
+                "x": "AI大臣Kanishka Narayan在答复议会质询时表示，到2030年，AI应用和数据投资可能为英国经济增加550亿至1400亿英镑，使中位估计达到1200亿英镑——不到4000亿英镑这一数字的三分之一。他称，即便是这份“较新的评估”，也是“极不确定”的估计。"
+              },
+              {
+                "t": "p",
+                "x": "Narayan表示，4000亿英镑这一数字“取自一份公开的2023年报告，该报告由Google委托、Public First制作”，Public First现名PF Global。答复既未撤回4000亿英镑的数字，也未表示该数字有误。"
+              },
+              {
+                "t": "p",
+                "x": "PF Global的Jonathan Dupont表示，差距部分源于他们所认为的政府AI应用迟缓。PF Global表示，所有研究都是独立的，所有判断和假设均为其自身观点。"
+              },
+              {
+                "t": "p",
+                "x": "英国下议院科学、创新和技术委员会主席Dame Chi Onwurah对WIRED表示：“夸大技术的好处，可能会削弱推动变革的理由。”内阁办公室和Google已被请求置评。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google encargó el estudio\nde los £400bn de la IA británica",
+          "body": "La cifra de £400.000 millones de la IA en Reino Unido vino de un informe encargado por Google.",
+          "mini_headline": "Los £400bn de la IA británica, de un estudio para Google",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Durante los últimos dos años, el Gobierno británico ha dicho a la ciudadanía que el país podría recibir un impulso económico de £400.000 millones (538.000 millones de dólares) gracias a la IA."
+              },
+              {
+                "t": "p",
+                "x": "El ministro de IA, Kanishka Narayan, en respuesta a una pregunta parlamentaria, dijo que la adopción de la IA y la inversión en datos podrían sumar entre £55.000 millones y £140.000 millones a la economía británica para 2030, lo que sitúa la estimación central en £120.000 millones, menos de un tercio de la cifra de £400.000 millones. Calificó incluso esta “evaluación más reciente” de estimación “enormemente incierta”."
+              },
+              {
+                "t": "p",
+                "x": "Narayan dijo que la cifra de £400.000 millones “se extrajo de un informe público de 2023 encargado por Google y elaborado por Public First”, hoy PF Global. La respuesta no retiró la cifra de £400.000 millones ni dijo que fuera errónea."
+              },
+              {
+                "t": "p",
+                "x": "Jonathan Dupont, de PF Global, dijo que la disparidad se debía en parte a lo que consideraban una lenta adopción de la IA por parte del Gobierno. PF Global afirmó que toda la investigación fue independiente y que todos los juicios y supuestos eran propios."
+              },
+              {
+                "t": "p",
+                "x": "Dame Chi Onwurah, presidenta del Comité de Ciencia, Innovación y Tecnología de la Cámara de los Comunes, dijo a WIRED que “exagerar los beneficios de la tecnología corre el riesgo de socavar los argumentos a favor del cambio”. Se pidieron comentarios a la Oficina del Gabinete y a Google."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UKのAI試算 £400bn\n出所はGoogle委託調査",
+          "body": "UKのAI効果4000億ポンドはGoogle委託調査由来で、AI相は1200億ポンドとする。",
+          "mini_headline": "UKのAI試算 £400bn、出所はGoogle調査",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "この二年間、UK政府は英国民に対し、AIのおかげで国が4000億ポンド(5380億ドル)の経済効果を得られると伝えてきた。"
+              },
+              {
+                "t": "p",
+                "x": "AI担当相のKanishka Narayanは議会質問への答弁で、AIの導入とデータ投資により2030年までにUK経済に550億ポンドから1400億ポンドが加わり得るとし、中心推計を1200億ポンドとした。これは4000億ポンドという数字の三分の一にも満たない。彼はこの「より最近の評価」でさえ「極めて不確実」な推計だと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Narayanによれば、4000億ポンドという数字は「Googleが委託しPublic Firstが作成した、公開されている2023年の報告書から引用された」ものだ。Public Firstは現在PF Globalとなっている。答弁は4000億ポンドの数字を撤回せず、誤りだったとも述べなかった。"
+              },
+              {
+                "t": "p",
+                "x": "PF GlobalのJonathan Dupontは、この差は同社が政府のAI導入の遅さとみなす点に一部起因すると述べた。PF Globalは、すべての調査は独立して行われ、判断と前提はすべて自社のものだとしている。"
+              },
+              {
+                "t": "p",
+                "x": "下院科学・イノベーション・技術委員会(Commons Science, Innovation and Technology Committee)の委員長を務めるDame Chi OnwurahはWIREDに対し、「技術の恩恵を誇張すれば、変革の必要性を損なう恐れがある」と語った。Cabinet OfficeとGoogleにコメントを求めている。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "英 AI 추산 £400bn\nGoogle 의뢰 보고서",
+          "body": "영국 정부의 AI 효과 4000억 파운드는 Google이 의뢰한 보고서 수치였다.",
+          "mini_headline": "영국 £400bn AI 수치, Google 연구 출처",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "영국 정부는 지난 2년 동안 AI 덕분에 나라 경제가 4000억 파운드(5380억 달러)의 부양 효과를 얻을 수 있다고 국민에게 말해 왔다."
+              },
+              {
+                "t": "p",
+                "x": "카니슈카 나라얀 AI 장관은 의회 질의에 답하며 AI 도입과 데이터 투자가 2030년까지 영국 경제에 550억~1400억 파운드를 더할 수 있다고 밝혔다. 이에 따른 중앙 추정치는 1200억 파운드로, 4000억 파운드의 3분의 1에도 못 미친다. 그는 이 “더 최근의 평가”조차 “매우 불확실한” 추정치라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "나라얀 장관은 4000억 파운드라는 수치가 “Google이 의뢰하고 Public First가 작성해 공개된 2023년 보고서에서 가져온 것”이라고 말했다. Public First는 현재 PF Global이다. 답변은 4000억 파운드 수치를 철회하지도, 틀렸다고 인정하지도 않았다."
+              },
+              {
+                "t": "p",
+                "x": "PF Global의 조너선 듀폰은 격차의 일부는 정부의 AI 도입이 더디다고 본 데서 비롯됐다고 말했다. PF Global은 모든 연구가 독립적으로 이뤄졌으며 모든 판단과 가정은 자사의 것이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "하원 과학혁신기술위원회 위원장인 치 온우라 여사(Dame Chi Onwurah)는 WIRED에 “기술의 이점을 과장하면 변화의 당위를 훼손할 위험이 있다”고 말했다. 내각부와 Google에는 논평을 요청했다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "英国4000亿英镑AI估算\n出自Google委托研究",
+          "body": "英国4000亿英镑的AI提振数字出自Google委托的报告，AI大臣现称1200亿英镑。",
+          "mini_headline": "英国4000亿英镑AI数字源自Google研究",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "过去两年里，英国政府一直告诉英国公众，得益于AI，国家经济可能获得4000亿英镑（5380亿美元）的提振。"
+              },
+              {
+                "t": "p",
+                "x": "AI大臣Kanishka Narayan在答复议会质询时表示，到2030年，AI应用和数据投资可能为英国经济增加550亿至1400亿英镑，使中位估计达到1200亿英镑——不到4000亿英镑这一数字的三分之一。他称，即便是这份“较新的评估”，也是“极不确定”的估计。"
+              },
+              {
+                "t": "p",
+                "x": "Narayan表示，4000亿英镑这一数字“取自一份公开的2023年报告，该报告由Google委托、Public First制作”，Public First现名PF Global。答复既未撤回4000亿英镑的数字，也未表示该数字有误。"
+              },
+              {
+                "t": "p",
+                "x": "PF Global的Jonathan Dupont表示，差距部分源于他们所认为的政府AI应用迟缓。PF Global表示，所有研究都是独立的，所有判断和假设均为其自身观点。"
+              },
+              {
+                "t": "p",
+                "x": "英国下议院科学、创新和技术委员会主席Dame Chi Onwurah对WIRED表示：“夸大技术的好处，可能会削弱推动变革的理由。”内阁办公室和Google已被请求置评。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google encargó el estudio\nde los £400bn de la IA británica",
+          "body": "La cifra de £400.000 millones de la IA en Reino Unido vino de un informe encargado por Google.",
+          "mini_headline": "Los £400bn de la IA británica, de un estudio para Google",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Durante los últimos dos años, el Gobierno británico ha dicho a la ciudadanía que el país podría recibir un impulso económico de £400.000 millones (538.000 millones de dólares) gracias a la IA."
+              },
+              {
+                "t": "p",
+                "x": "El ministro de IA, Kanishka Narayan, en respuesta a una pregunta parlamentaria, dijo que la adopción de la IA y la inversión en datos podrían sumar entre £55.000 millones y £140.000 millones a la economía británica para 2030, lo que sitúa la estimación central en £120.000 millones, menos de un tercio de la cifra de £400.000 millones. Calificó incluso esta “evaluación más reciente” de estimación “enormemente incierta”."
+              },
+              {
+                "t": "p",
+                "x": "Narayan dijo que la cifra de £400.000 millones “se extrajo de un informe público de 2023 encargado por Google y elaborado por Public First”, hoy PF Global. La respuesta no retiró la cifra de £400.000 millones ni dijo que fuera errónea."
+              },
+              {
+                "t": "p",
+                "x": "Jonathan Dupont, de PF Global, dijo que la disparidad se debía en parte a lo que consideraban una lenta adopción de la IA por parte del Gobierno. PF Global afirmó que toda la investigación fue independiente y que todos los juicios y supuestos eran propios."
+              },
+              {
+                "t": "p",
+                "x": "Dame Chi Onwurah, presidenta del Comité de Ciencia, Innovación y Tecnología de la Cámara de los Comunes, dijo a WIRED que “exagerar los beneficios de la tecnología corre el riesgo de socavar los argumentos a favor del cambio”. Se pidieron comentarios a la Oficina del Gabinete y a Google."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UKのAI試算 £400bn\n出所はGoogle委託調査",
+          "body": "UKのAI効果4000億ポンドはGoogle委託調査由来で、AI相は1200億ポンドとする。",
+          "mini_headline": "UKのAI試算 £400bn、出所はGoogle調査",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+              },
+              {
+                "t": "p",
+                "x": "この二年間、UK政府は英国民に対し、AIのおかげで国が4000億ポンド(5380億ドル)の経済効果を得られると伝えてきた。"
+              },
+              {
+                "t": "p",
+                "x": "AI担当相のKanishka Narayanは議会質問への答弁で、AIの導入とデータ投資により2030年までにUK経済に550億ポンドから1400億ポンドが加わり得るとし、中心推計を1200億ポンドとした。これは4000億ポンドという数字の三分の一にも満たない。彼はこの「より最近の評価」でさえ「極めて不確実」な推計だと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Narayanによれば、4000億ポンドという数字は「Googleが委託しPublic Firstが作成した、公開されている2023年の報告書から引用された」ものだ。Public Firstは現在PF Globalとなっている。答弁は4000億ポンドの数字を撤回せず、誤りだったとも述べなかった。"
+              },
+              {
+                "t": "p",
+                "x": "PF GlobalのJonathan Dupontは、この差は同社が政府のAI導入の遅さとみなす点に一部起因すると述べた。PF Globalは、すべての調査は独立して行われ、判断と前提はすべて自社のものだとしている。"
+              },
+              {
+                "t": "p",
+                "x": "下院科学・イノベーション・技術委員会(Commons Science, Innovation and Technology Committee)の委員長を務めるDame Chi OnwurahはWIREDに対し、「技術の恩恵を誇張すれば、変革の必要性を損なう恐れがある」と語った。Cabinet OfficeとGoogleにコメントを求めている。"
               }
             ]
           }

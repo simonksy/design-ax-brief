@@ -1,97 +1,169 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-03T23:00:00Z",
+  "now_iso": "2026-11-04T22:03:11Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "미 신경혈관 CT AI 소프트웨어 승인",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015210",
-      "source": "의학신문(bosa.co.kr)",
+      "title": "Sequential diagnosis with language models (Microsoft MAI-DxO, Science)",
+      "url": "https://www.science.org/doi/10.1126/science.aeh7930",
+      "source": "Science",
       "category": "medicine",
-      "published_iso": "2026-11-03T12:00:00+09:00",
-      "excerpt": "미국 Deep Reasoning AI가 신경혈관 CT 스캔 판독 보조 AI 소프트웨어 'NeuroDR'로 FDA 510(k) 허가를 받았다.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3015210_416143_453.png"
+      "published_iso": "2026-10-22T18:00:48Z",
+      "excerpt": "Microsoft's AI diagnostic orchestrator, which simulates a panel of physicians that orders cost-aware tests step by step, reached 83.2% accuracy on 304 NEJM clinicopathological cases versus about 20-36% for physicians. Retrospective benchmark only; a prospective patient study with Beth Israel Deaconess is planned.",
+      "og_image": "https://www.science.org/cms/asset/4f6a133a-3be0-4bcd-ab8b-e01c0181be71/science.aeh7930-keyimage.gif"
     },
     {
-      "title": "대구가톨릭대의료원, 무릎관절 수술 후 오심·구토 예측기술 개발",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015523",
-      "source": "의학신문(bosa.co.kr)",
+      "title": "Mayo Clinic Platform launches AI clinical decision support solution integrated into EHRs",
+      "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-platforms-new-clinical-decision-support-solution-provides-trusted-medical-information-to-enhance-individualized-patient-care/",
+      "source": "Mayo Clinic News Network",
       "category": "medicine",
-      "published_iso": "2026-11-03T14:08:48+09:00",
-      "excerpt": "대구가톨릭대의료원 연구팀이 AI로 인공무릎관절 수술 후 오심·구토(PONV) 위험을 사전 예측하는 기술을 개발했다.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3015523_416440_2516.jpg"
+      "published_iso": "2026-11-03T13:00:00+00:00",
+      "excerpt": "Starting November 2026, Mayo clinicians and partner organizations get an LLM-powered specialty chat covering 35+ specialties, which cites peer-reviewed literature and is updated daily, plus 22 clinical calculators available by chat or voice, embedded in EHR workflows.",
+      "og_image": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg"
     },
     {
-      "title": "소변검사로 방광질환 감별…정확도 92%",
+      "title": "Google shares its framework for evaluating health AI at scale",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+      "source": "Google Blog",
+      "category": "medicine",
+      "published_iso": "2026-11-04T14:00:00+00:00",
+      "excerpt": "Google published the multi-method evaluation framework it uses to test health AI for safety and helpfulness before and after release, combining automated benchmarks, clinician rating and real-world monitoring. (blog.google is off-list; the health.google domain is the listed one.)",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-1440x810.png"
+    },
+    {
+      "title": "Patients want a human in the loop for AI healthcare tools",
+      "url": "https://www.healthcaredive.com/news/patients-want-human-in-loop-ai-healthcare-tools/873704/",
+      "source": "Healthcare Dive",
+      "category": "medicine",
+      "published_iso": "2026-11-04T09:24:08-05:00",
+      "excerpt": "A new survey finds patients are open to doctors using AI for administrative tasks but much less comfortable with AI diagnosing them or adjudicating claims, and want clinicians to keep oversight.",
+      "og_image": "https://imgproxy.divecdn.com/MKuJ6OZ6SfddgDX1QMlf66Dkj2_Q8AVCpLz2M_J-nTE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxNDc5NjgwLmpwZw==.webp"
+    },
+    {
+      "title": "How should the FDA regulate generative AI in medtech? Here are 5 takes",
+      "url": "https://www.healthcaredive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873708/",
+      "source": "Healthcare Dive",
+      "category": "medicine",
+      "published_iso": "2026-11-03T12:09:14-05:00",
+      "excerpt": "Patients, providers and device makers sent hundreds of comments to the FDA on how it should oversee generative AI in medical devices. The comments cover liability, postmarket monitoring and change-control plans.",
+      "og_image": "https://imgproxy.divecdn.com/mOyU7rqKcKTZkVeKlY7EPJJDGZ_AMtmgZULsKkYPKtc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwLmpwZw==.webp"
+    },
+    {
+      "title": "Researchers receive $4M NIH grant to build AI model to prevent kidney injury",
+      "url": "https://medcitynews.com/2026/11/researchers-receive-4m-nih-grant-to-build-ai-model-to-prevent-kidney-injury/",
+      "source": "MedCity News",
+      "category": "medicine",
+      "published_iso": "2026-11-04T21:54:39+00:00",
+      "excerpt": "Mount Sinai researchers are building AI models that predict which surgical patients are at highest risk of acute kidney injury, so clinicians can start individualized preventive care. (Grant-framed; check that the clinical substance holds.)",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077.jpg"
+    },
+    {
+      "title": "7 potential problems with Medicare's AI prior authorization experiment",
+      "url": "https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/",
+      "source": "MedCity News",
+      "category": "medicine",
+      "published_iso": "2026-11-02T20:39:45+00:00",
+      "excerpt": "A report drawing on evidence recovered in a lawsuit raises concerns about the CMS WISeR model, which uses AI to flag unnecessary care and speed up prior authorization. (Follow-up to the WISeR story covered 10-30.)",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192.jpg"
+    },
+    {
+      "title": "Cross-paradigm audit of large language model judges for clinical text evaluation",
+      "url": "https://www.nature.com/articles/s41746-026-03443-2",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-04T14:56:00Z",
+      "excerpt": "An audit of six open-weight LLMs used as 'judges' of clinical text found that pooled agreement metrics hide clinically relevant failure modes, especially outside English data.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03443-2/MediaObjects/41746_2026_3443_Fig1_HTML.png"
+    },
+    {
+      "title": "A multimodal tool-augmented agent for evidence-based clinical decision support in longitudinal AMD follow-up",
+      "url": "https://www.nature.com/articles/s41746-026-03412-9",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-04T08:23:00Z",
+      "excerpt": "An AI agent combines retinal imaging findings across visits to support decisions on disease activity and anti-VEGF injection intervals in age-related macular degeneration, work that is time-consuming to do by hand.",
+      "og_image": null
+    },
+    {
+      "title": "RETBind: a patient-level multimodal foundation model for retinal representation learning",
+      "url": "https://www.nature.com/articles/s41746-026-03426-3",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-03T16:12:00Z",
+      "excerpt": "A patient-level foundation model unifies multiple retinal imaging modalities to support ophthalmic diagnosis tasks with fewer labels.",
+      "og_image": null
+    },
+    {
+      "title": "External validation of a machine learning model for delirium risk in live clinical practice",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42142",
+      "source": "JAMA Network Open",
+      "category": "medicine",
+      "published_iso": "2026-11-04T16:30:24Z",
+      "excerpt": "A multimodal NLP delirium-risk model in live use at Mount Sinai was externally validated across hospitals in 33,095 non-ICU admissions. An accompanying commentary covers what implementing it in practice takes beyond discrimination. (Date from Crossref created.)",
+      "og_image": null
+    },
+    {
+      "title": "Generative AI chatbot and maternal health outcomes: randomized clinical trial",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062",
+      "source": "JAMA Network Open",
+      "category": "medicine",
+      "published_iso": "2026-11-04T16:30:30Z",
+      "excerpt": "In a 400-person RCT across 49 US states, a generative AI maternal health chatbot did not improve 12-month anxiety, depression, ED visits or postpartum care. Pregnant users self-reported more complications in a secondary analysis. (Date from Crossref created.)",
+      "og_image": null
+    },
+    {
+      "title": "Silent manipulation of mental health treatment recommendations from a large language model",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41142",
+      "source": "JAMA Network Open",
+      "category": "medicine",
+      "published_iso": "2026-11-03T16:13:28Z",
+      "excerpt": "Perlis shows that activation steering can quietly shift an open-weights LLM's answers about depression treatment, a hidden risk for chatbots that give clinical advice. (No clinical setting, so may lean toward science.)",
+      "og_image": null
+    },
+    {
+      "title": "Physical limits to AI substitution across physician specialties",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600957",
+      "source": "NEJM AI",
+      "category": "medicine",
+      "published_iso": "2026-11-04T14:00:21Z",
+      "excerpt": "AI can interpret images, draft assessments and talk with patients, but software cannot examine, biopsy or operate. This NEJM AI analysis maps how exposed each specialty is to AI substitution once physical tasks are counted.",
+      "og_image": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg"
+    },
+    {
+      "title": "서울성모병원, AI·웨어러블 활용 만성콩팥병 위험 예측 실증 나서",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015584",
+      "source": "의학신문(bosa.co.kr)",
+      "category": "medicine",
+      "published_iso": "2026-11-04T10:07:30+09:00",
+      "excerpt": "서울성모병원이 건강검진·유전체·웨어러블 생활습관 데이터를 AI로 분석해 만성콩팥병 위험을 예측하고 생활 코칭을 해 주는 앱의 임상 유용성 검증에 들어갔다. 50명을 대상으로 3개월간 갤럭시 워치를 연동해 진행한다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3015584_416503_19.png"
+    },
+    {
+      "title": "우리아이들의료재단, 소아의료 디지털 전환 가속 (AI·비대면진료)",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015632",
+      "source": "의학신문(bosa.co.kr)",
+      "category": "medicine",
+      "published_iso": "2026-11-04T14:46:58+09:00",
+      "excerpt": "소아청소년 의료에서 AI와 비대면진료를 결합해 병원과 가정을 잇는 진료체계를 만드는 우리아이들의료재단의 디지털 전환 계획. (발표·심포지엄 성격이라 실제 배치 여부는 확인이 필요하다.)",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3015632_416542_4649.jpg"
+    },
+    {
+      "title": "소변검사로 방광질환 감별…AI 결합 정확도 92%",
       "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044257",
       "source": "청년의사(docdocdoc.co.kr)",
       "category": "medicine",
       "published_iso": "2026-11-03T12:27:27+09:00",
-      "excerpt": "서울아산병원·이대목동병원 연구팀이 고감도 바이오마커 검출법과 AI 알고리즘을 결합해 간질성 방광염과 과민성 방광을 소변검사로 최대 92% 정확도로 감별했다.",
+      "excerpt": "서울아산병원·이대목동병원 연구팀이 SERS 바이오마커 검출과 AI 알고리즘을 결합해 소변만으로 간질성 방광염과 과민성 방광을 최대 92% 정확도로 구분하는 기술을 개발했다.",
       "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044257_3048192_3732_v150.jpg"
     },
     {
-      "title": "GEHC adds lung, aortic stenosis AI tools to Vscan Air",
-      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
-      "source": "AuntMinnie",
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI-enabled antibiotic discovery",
+      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "source": "MIT News",
       "category": "medicine",
-      "published_iso": "2026-11-03T18:42:15Z",
-      "excerpt": "GE HealthCare added FDA 510(k)-cleared, CE-marked AI tools to its Vscan Air handheld ultrasound: Lung Guidance (non-experts acquired diagnostic-quality 8-zone lung exams 95.2% of the time vs 96.8% for experts) and AutoAS, which flags moderate-to-severe aortic stenosis from two echo views.",
-      "og_image": null
-    },
-    {
-      "title": "AI platform maintains success in two pediatric imaging pipelines",
-      "url": "https://www.auntminnie.com/resources/conference/caimi/2026/article/16274659/ai-platform-maintains-success-in-two-pediatric-imaging-pipelines",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-02T19:40:08Z",
-      "excerpt": "Stanford Children's Health deployed an open-source AI platform that processed over 500 pediatric imaging tasks with 99.2% accuracy for bone-length measurement and fetal MRI analysis, per SIIM-CAIMI 2026 findings.",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/screenshot-2026-11-02-123751.n2FhVbTA5g.png?auto=format%2Ccompress&fit=max&q=70&w=400"
-    },
-    {
-      "title": "AI-based precision prognostics and therapy personalization for childhood brain tumors",
-      "url": "https://www.nature.com/articles/s41588-026-02815-4",
-      "source": "Nature Genetics",
-      "category": "medicine",
-      "published_iso": "2026-11-03T00:00:00Z",
-      "excerpt": "MANTIS combines DNA methylation profiling with artificial neural networks to give individualized, time-dependent survival predictions for children with medulloblastoma and ependymoma, aiming to balance recurrence risk against therapy-induced harm.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png"
-    },
-    {
-      "title": "The TEMPO program and the future of digital mental health regulation in the US",
-      "url": "https://www.nature.com/articles/s41746-026-03464-x",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-03T00:00:00Z",
-      "excerpt": "Commentary on the FDA-CMS TEMPO pilot, which lets AI-enabled digital mental health devices commercialize under a quality management system without immediate premarket authorization, as a real-world-data sandbox for US digital health regulation.",
-      "og_image": null
-    },
-    {
-      "title": "Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach",
-      "url": "https://www.nature.com/articles/s41746-026-03449-w",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-31T00:00:00Z",
-      "excerpt": "Machine learning models built on EHR data from two academic hospitals, externally validated, predict which hospitalized cancer patients will still be febrile 48-72 hours after starting IV antibiotics, to inform imaging and antimicrobial escalation decisions.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03449-w/MediaObjects/41746_2026_3449_Fig1_HTML.png"
-    },
-    {
-      "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-societies-weigh-fdas-push-regulate-generative-ai",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-23T09:43:18+0000",
-      "excerpt": "Radiology societies submitted comments on the FDA's push to regulate generative AI medical devices, urging that patient safety remain central and that regulatory flexibility be paired with enforceable safeguards.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr"
-    },
-    {
-      "title": "Radiologist FDA leader believes generative AI should be evaluated like human docs",
-      "url": "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/radiologist-fda-leader-believes-generative-ai-should-be-evaluated-human-docs",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-22T08:15:33+0000",
-      "excerpt": "Rick Abramson, MD, director of the FDA's Digital Health Center of Excellence, said generative AI devices may need to be evaluated more like human physicians than like conventional software.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-08/istock-2271237562.jpg?h=140710cd&itok=qCOlwaMX"
+      "published_iso": "2026-11-02T05:35:00Z",
+      "excerpt": "MIT's Barzilay and Collins won the Pritzker Prize for AI and Science Research Excellence for their AI-driven discovery of new antibiotics against drug-resistant bacteria such as halicin and abaucin. (Award news, so weaker as a pick.)",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/barzilay-collins-00.jpg"
     },
     {
       "title": "FDA, CMS look to collaborate with states on health AI",
@@ -99,80 +171,17 @@
       "source": "STAT",
       "category": "medicine",
       "published_iso": "2026-11-03T14:51:12+00:00",
-      "excerpt": "STAT Health Tech: FDA and CMS officials say they want to work with states testing AI in clinical settings through regulatory sandboxes, plus moves on shielding doctors from AI liability.",
+      "excerpt": "STAT Health Tech: federal officials plan to work with states that are sandboxing clinical AI, along with moves to shield doctors from AI liability. (STAT+ paywall.)",
       "og_image": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_971648927_Editorial_Use_Only-1024x576.jpeg"
     },
     {
-      "title": "Partnering with Singapore to bring frontier AI to public health",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
-      "source": "Google Blog",
+      "title": "AI platform maintains success in two pediatric imaging pipelines",
+      "url": "https://www.auntminnie.com/resources/conference/caimi/2026/article/16274659/ai-platform-maintains-success-in-two-pediatric-imaging-pipelines",
+      "source": "AuntMinnie",
       "category": "medicine",
-      "published_iso": "2026-10-29T03:30:00Z",
-      "excerpt": "Google is opening a research hub in Singapore to deploy MedGemma and AI tools for clinicians and public health under a partnership with the Singapore government.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo_b8aPOti.width-1300.jpg"
-    },
-    {
-      "title": "Equipping healthcare professionals with practical AI skills",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
-      "source": "Google Blog",
-      "category": "medicine",
-      "published_iso": "2026-10-29T13:00:00Z",
-      "excerpt": "Google launched a Google AI for Healthcare Professionals Certificate, built by Google clinicians, to train healthcare workers in practical clinical use of AI tools.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Thumbnail_Sohini_oeaDPXo.width-1300.png"
-    },
-    {
-      "title": "We are failing to acknowledge or respond proportionately to the potential dangers of AI agents",
-      "url": "https://www.bmj.com/content/395/bmj-2026-101263",
-      "source": "The BMJ",
-      "category": "medicine",
-      "published_iso": "2026-11-03",
-      "excerpt": "BMJ piece arguing the OpenAI-agent hack of an Australian government health website shows health systems are failing to respond proportionately to the security dangers of frontier AI agents.",
-      "og_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8499.cover-source.jpg"
-    },
-    {
-      "title": "Looser Health IT Certification Requirements Shift Oversight to Health Systems",
-      "url": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/",
-      "source": "MedCity News",
-      "category": "medicine",
-      "published_iso": "2026-11-03T14:00:00+00:00",
-      "excerpt": "HHS's HTI-5 final rule removes source-attribute transparency requirements for predictive decision support interventions, so hospitals lose a standardized way to evaluate AI tools and must write disclosure, validation and bias testing into procurement contracts.",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg"
-    },
-    {
-      "title": "7 Potential Problems with Medicare’s AI Prior Authorization Experiment",
-      "url": "https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/",
-      "source": "MedCity News",
-      "category": "medicine",
-      "published_iso": "2026-11-02T20:39:45+00:00",
-      "excerpt": "Analysis of seven risks in CMS's WISeR model, which uses AI vendors to screen prior authorization for selected services in traditional Medicare.",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192.jpg"
-    },
-    {
-      "title": "AI, Digital Pathology in Early Breast Cancer Among Highlights at SABCS",
-      "url": "https://www.medpagetoday.com/meetingcoverage/sabcsfuturefocus/123689",
-      "source": "MedPage Today",
-      "category": "medicine",
-      "published_iso": "2026-11-02T12:00:00Z",
-      "excerpt": "SABCS co-director Virginia Kaklamani says AI-analyzed digital pathology that may match genomic assays in deciding who needs chemotherapy or extended endocrine therapy will be the biggest theme of this year's San Antonio Breast Cancer Symposium.",
-      "og_image": null
-    },
-    {
-      "title": "‘Digital twins’ of immune system in pregnancy identify drugs to prevent early labor, Stanford Medicine-led study finds",
-      "url": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug.html",
-      "source": "Stanford Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-21T00:00:00.000Z",
-      "excerpt": "Stanford Medicine researchers built AI-enabled 'digital twins' of immune changes in pregnancy and used them to identify existing drugs that could prevent preterm labor.",
-      "og_image": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/cq:socialfeaturedimage.coreimg.jpg/1792703538083/digital-twin-social.jpg"
-    },
-    {
-      "title": "AI-Generated Draft Response Tool, Message Turnaround Time, and After-Hours Replies Among Health Care Clinicians",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41364",
-      "source": "JAMA Network Open",
-      "category": "medicine",
-      "published_iso": "2026-10-30T15:30:35Z",
-      "excerpt": "Across 983,154 replies from 1,542 clinicians at Columbia, using Epic's AI-drafted In Basket replies cut message turnaround time 29.5%, yet overall adoption was linked to an 8.6% rise in turnaround and no overall drop in after-hours messaging.",
-      "og_image": null
+      "published_iso": "2026-11-02T19:40:08Z",
+      "excerpt": "Stanford Children's Health ran an open-source AI orchestration platform for automated bone-length measurement and super-resolution fetal MRI over five months: 521 tasks, 99.2% processing success and 98.8% end-to-end clinical delivery, now routine.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/caimi26-presentation-amol-sinha.Frx3FieSew.jpg"
     }
   ]
 }

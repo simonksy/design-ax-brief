@@ -3144,6 +3144,109 @@
           "x": "More than a third of U.S. adults (34%) have used AI assistants for health-related purposes, according to an August Pew Research Center survey. Brient said the goal was not to create additional work for clinicians: \"It's not our job to decide which AI assistant patients should use.\""
         }
       ]
+    },
+    "medicine/mayo-platform-cds-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+          "cap": "Two clinicians discuss brain scans displayed on computer monitors."
+        },
+        {
+          "t": "p",
+          "x": "Mayo Clinic Platform launched an AI-enabled Clinical Decision Support (CDS) solution for Mayo Clinic clinicians and organizations in its healthcare provider programs. It can be integrated into a growing number of EHR environments, so clinicians need not navigate several separate resources."
+        },
+        {
+          "t": "p",
+          "x": "Beginning in November 2026, participating clinicians get a specialty-specific chat powered by a large language model, covering more than 35 specialties, citing peer-reviewed literature and updated daily, plus 22 clinical calculators accessible via chat or voice dictation, including proprietary Mayo calculators."
+        },
+        {
+          "t": "p",
+          "x": "Chief operating officer Maneesh Goyal says the aim is less time searching and more time on patient care; chief medical officer Gelareh Zadeh stresses the tool does not replace clinical judgment."
+        }
+      ]
+    },
+    "medicine/google-health-ai-evals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google, with health experts Dr. Elizabeth McGlynn and Dr. Dana Gelb Safran, published a whitepaper describing an end-to-end approach for evaluating AI use cases that address people's health needs."
+        },
+        {
+          "t": "p",
+          "x": "The framework assesses models on accuracy, safety and usefulness, combining closed-question benchmarks, autoraters and expert human review across common and high-risk health scenarios."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+          "cap": "A healthcare worker in green scrubs looks at a smartphone held by a patient in a clinical office."
+        },
+        {
+          "t": "p",
+          "x": "Google says it built and still uses the framework to check its own models, and shares the methodology to promote transparency and help developers, researchers and clinicians build AI tools people can trust."
+        }
+      ]
+    },
+    "medicine/mount-sinai-delirium-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This quality improvement study evaluated a fusion multimodal model with natural language processing that stratifies delirium risk for patients 60 or older admitted to non-ICU units, deployed live at Mount Sinai Hospital (MSH) and externally validated at Mount Sinai Morningside (MSM) from December 2024 to December 2025."
+        },
+        {
+          "t": "p",
+          "x": "The sample covered 33,095 admissions; 9,020 MSM admissions were scored during live operations and compared with 21,186 scored MSH admissions. The two patient populations differed in age, sex, race and ethnicity, diagnosis type, length of stay and dementia prevalence."
+        },
+        {
+          "t": "p",
+          "x": "Without retraining, the model's AUROC was 0.91 at MSM and 0.94 at MSH, with positive predictive values of 25.9% and 19.4%. At MSM, the mean monthly delirium detection rate rose from 9.23% to 19.59% after deployment."
+        },
+        {
+          "t": "p",
+          "x": "The authors conclude the model kept acceptable discrimination at the external site and increased diagnostic yield, but with a high false positive rate."
+        }
+      ]
+    },
+    "medicine/nejm-ai-physical-limits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In this NEJM AI perspective, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova and Maria Polyakova examine physical limits to AI substitution across physician specialties and what they imply for the physician workforce."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+          "cap": "Share of payments by specialty: physical (not substitutable by software-based AI), E&M, and nonphysical (potentially substitutable)."
+        },
+        {
+          "t": "p",
+          "x": "Across all 56 specialties (US$44.9bn in payments), 24% of payments are for physical services, 55% for evaluation and management, and 21% for nonphysical services potentially substitutable by AI."
+        },
+        {
+          "t": "p",
+          "x": "Exposure varies widely: nonphysical work makes up 99% of pathology and 96% of diagnostic radiology payments, while physical services account for 68% in dermatology and 53% in orthopedic surgery."
+        }
+      ]
+    },
+    "medicine/medicine-vscan-air-lung-as": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GE HealthCare (GEHC) is introducing two AI-based capabilities for its Vscan Air handheld ultrasound system: Lung Guidance, which helps clinicians acquire lung ultrasound images, and AutoAS, which assesses for moderate-to-severe aortic stenosis."
+        },
+        {
+          "t": "p",
+          "x": "Lung Guidance provides real-time guidance to correct anatomical landmarks across the standard eight-zone lung protocol, automatically captures clips when image-quality criteria are met, and supports B-line detection and scoring, according to the vendor. In validation testing, nonexpert users acquired diagnostic-quality exams 95.2% of the time, compared with 96.8% for expert users, GEHC said."
+        },
+        {
+          "t": "p",
+          "x": "AutoAS analyzes at least two standard 2D echocardiographic views acquired with Vscan Air SL and indicates whether findings suggest moderate-to-severe aortic stenosis, along with a confidence score."
+        },
+        {
+          "t": "p",
+          "x": "Both tools have received U.S. Food and Drug Administration (FDA) 510(k) clearance and carry the CE Mark. Existing Vscan Air customers with a valid Innovation Package subscription or license are expected to receive the updates by the end of November, GEHC said."
+        }
+      ]
     }
   }
 }

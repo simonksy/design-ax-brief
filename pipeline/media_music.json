@@ -1,7 +1,31 @@
-{"date":"2026-11-04","section":"music","media":[
- {"id":"music-suno-isbell-dismissal","type":"image","src":"pipeline/media/music-suno-isbell-dismissal.jpg"},
- {"id":"music-riaa-openai-amicus","type":"image","src":"pipeline/media/music-riaa-openai-amicus.png"},
- {"id":"music-disney-openart-lyrics","type":"image","src":"pipeline/media/music-disney-openart-lyrics.jpg"},
- {"id":"music-itunes-top10-ai","type":"image","src":"pipeline/media/music-itunes-top10-ai.jpg"},
- {"id":"music-seoul-forum-virtual-kpop","type":"image","src":"pipeline/media/music-seoul-forum-virtual-kpop.jpg"}
-]}
+{
+  "date": "2026-11-05",
+  "section": "music",
+  "media": [
+    {
+      "id": "suno-midi-create-upload",
+      "type": "image",
+      "src": "pipeline/media/suno-midi-create-upload.jpg"
+    },
+    {
+      "id": "izotope-photon-gpu-stems",
+      "type": "image",
+      "src": "pipeline/media/izotope-photon-gpu-stems.jpg"
+    },
+    {
+      "id": "youtube-replace-song-expand",
+      "type": "image",
+      "src": "pipeline/media/youtube-replace-song-expand.jpg"
+    },
+    {
+      "id": "music-ai-detector-false-positives",
+      "type": "image",
+      "src": "pipeline/media/music-ai-detector-false-positives.jpg"
+    },
+    {
+      "id": "mlc-udio-subpoena-opposition",
+      "type": "image",
+      "src": "pipeline/media/mlc-udio-subpoena-opposition.jpg"
+    }
+  ]
+}

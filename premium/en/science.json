@@ -10065,6 +10065,140 @@
           "x": "Using these insights to refine the coating process, the team produced a lead-based perovskite solar cell with a 24.4% power conversion efficiency. The study, led by Ryosuke Kado and Akinori Saeki, is published in ACS Nano (DOI: 10.1021/acsnano.6c11386)."
         }
       ]
+    },
+    "science/ibm-quics-magic-state-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+          "cap": "The agent loop."
+        },
+        {
+          "t": "p",
+          "x": "Researchers from IBM Quantum, the Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD), and MIT have developed a neuro-symbolic search framework that pairs large language model (LLM) agents with deterministic solvers to map uncharted magic-state distillation protocols. Detailed in the preprint \"Symmetry and AI-assisted discovery of magic-state factories,\" the team uncovered 699 factory classes—including 564 previously unknown protocols—delivering non-Clifford states with record-low physical resource footprints."
+        },
+        {
+          "t": "p",
+          "x": "Distillation factories have historically been projected to consume up to 90% of a machine's physical qubits and runtime. In the multi-agent loop, language-model agents propose targeted subgroup symmetry orbits, an integer-programming solver constructs candidate circuit matrices, and an independent verification engine validates gate identities and code distances; a reviewing agent evaluates solver logs to redirect subsequent rounds."
+        },
+        {
+          "t": "p",
+          "x": "Highlights include a [[1715, 287, 6]] factory, the smallest known pure-T distillation factory to break the γ < 1 sub-linear overhead barrier, and factories outputting entangled states such as CCZ⊗2. The verified circuits are released in an open-access repository."
+        }
+      ]
+    },
+    "science/ai2-google-neuralgcm-plus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 is launching a new climate modeling initiative with multimillion-dollar, three-year funding from Google.org and technical support from Google Research, to develop NeuralGCM+, an open-source model designed to make climate projections faster and more reliable."
+        },
+        {
+          "t": "p",
+          "x": "The project builds on Google Research's NeuralGCM, which uses physical equations to simulate large scale dynamics and AI to represent smaller-scale processes such as cloud formation and rainfall. Ai2 will extend it to simulate the atmosphere and ocean together, focusing on climate trends over years to decades. In a public benchmark, an atmosphere-only version of NeuralGCM simulated a year of atmospheric conditions for the entire globe in eight minutes on a single TPU."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "NeuralGCM+ will be developed along three fronts: connecting the atmosphere and ocean, improving the response to a warming world, and making the tools easier to use and extend, with models and frameworks released for outside researchers."
+        }
+      ]
+    },
+    "science/quanta-llm-introspection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "By injecting \"thoughts\" directly into large language models, researchers are trying to map out AI's capacity for introspection. In 2025, Jack Lindsey, a researcher at Anthropic, injected concepts such as denim, secrecy, or vegetables into copies of Claude and asked, \"Do you detect an injected thought? If so, what is the injected thought about?\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+          "cap": "Jack Lindsey, a researcher at Anthropic, set out to test whether large language models can \"introspect\" by subjecting them to a kind of digital neurosurgery."
+        },
+        {
+          "t": "p",
+          "x": "In 20% of trials with the most recent and powerful version, the models correctly flagged the injection and described the concept, while models in the control group never reported receiving an injection."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+          "cap": "Kyle Mahowald helped show that language models' ability to detect \"injected thoughts\" is more limited than it seems — though still surprising."
+        },
+        {
+          "t": "p",
+          "x": "Kyle Mahowald and Harvey Lederman repeated the experiment on large open-source models and concluded that models can detect when something unusual happens in their internal processing, but not specific details about it — an ability they called \"anomaly detection.\" \"The fact that it can notice the anomaly is insane,\" Lederman said. Whether that should count as introspection remains hotly contested."
+        }
+      ]
+    },
+    "science/ntnu-paper-mill-software": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+          "cap": "Credit: Kindel Media from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "After noting a surge in citations of her work, NTNU statistician Andrea Riebler discovered a vendor in China selling a tool that enables rapid paper mining of public health data. The new software allows anyone to produce ready-to-publish research papers in under two hours."
+        },
+        {
+          "t": "p",
+          "x": "Citations of her 2017 cancer-forecasting paper soared from 70 in 2024 to more than 250 the following year. Almost all of the new papers came from Chinese researchers, and most were based on Global Burden of Disease (GBD) data. In one of the more than 700 GBD papers examined, the team found a reference to a commercial software package; a company in the Guangzhou region sells software, AI-powered writing assistance, and instructions."
+        },
+        {
+          "t": "p",
+          "x": "\"This opens up a new way of mass-producing 'research,'\" Riebler says. Overburdened editors believe mass-produced and AI-generated research is threatening to overwhelm the peer-review system. For 99% of the papers examined, the source code was not provided."
+        }
+      ]
+    },
+    "science/deepmind-antigravity-cheminformatics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "Designing new medicines requires curating complex data from charts, figures and literature, training predictive models, and proposing candidate molecules to synthesize — a workflow that typically takes multiple days for a single iteration. Google Antigravity, equipped with DeepMind's new Cheminformatics Skills, lets an agent search through thousands of compounds, perform matched molecular pair analysis, and propose novel rigidified macrocycles with synthetic routes in just an hour."
+        },
+        {
+          "t": "video",
+          "yt": "afQqqcmLUWw"
+        },
+        {
+          "t": "p",
+          "x": "The language model handles workflow orchestration, database navigation and scientific reasoning, while deterministic chemistry tools grounded in RDKit, with connectors to ChEMBL and PubChem, execute molecular calculations. The walkthrough uses crizotinib and lorlatinib, lung cancer drugs that illustrate rigidification."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+          "cap": "In the interactive viewer, scientists can browse every compound retrieved from the literature."
+        },
+        {
+          "t": "p",
+          "x": "Within minutes, the agent retrieves thousands of compounds, filters out irrelevant molecules and documents their sources. Matched molecular pair analysis showed that cyclization reduces rotatable bonds while generally increasing potency, and the agent benchmarked potency models on a held-out set."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+          "cap": "The agent proposes a cyclization reaction with electron-pushing diagrams."
+        },
+        {
+          "t": "p",
+          "x": "Asked to design improved macrocycles, it recommended reactions and synthesis routes. Computational designs are testable hypotheses, not finished drugs; every proposed design must be synthesized and validated experimentally. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
+        }
+      ]
     }
   }
 }

@@ -8469,6 +8469,163 @@
           "x": "重点应放在问责与验证框架上，以人的判断补充技术检查。“存在AI并不能证明存在不当行为，正如没有AI并不能证明诚信。”——Roohi Ghosh，Cactus Communications"
         }
       ]
+    },
+    "books/readwise-books-reader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+          "cap": "图片来源：Readwise"
+        },
+        {
+          "t": "p",
+          "x": "以“稍后阅读”（read-it-later）应用起家的Readwise推出Readwise Books，向Amazon的电子书帝国发起挑战。该公司称它是“Kindle与Goodreads应用的结合体”：在一个地方购书、阅读和记录，并提供读过的字数、速度、深度、沉浸度和阅读时段等更丰富的阅读数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+          "cap": "图片来源：Readwise"
+        },
+        {
+          "t": "p",
+          "x": "其商店提供来自五大出版社及其他出版社的“数百万”本电子书，首先在U.S.（美国）上线。纸质书和部分有声书也可购买。Kindle仍是市场领导者，若计入Kindle+，市场份额达83%。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+          "cap": "图片来源：Readwise"
+        },
+        {
+          "t": "p",
+          "x": "用户可以上传DRM-free EPUBs（无DRM的EPUB文件），在Kindle的Cloud Reader中记录阅读时段，给纸质书拍照，还能让电子书朗读出来。Readwise把自己的阅读数据比作“阅读界的Strava”。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+          "cap": "图片来源：Readwise"
+        },
+        {
+          "t": "p",
+          "x": "经出版社许可，该应用将支持AI-powered（AI驱动的）功能，如阅读时段回顾、释义和术语查询、单词和短语翻译，以及可感知位置、就正在阅读的部分提问的功能。（目前只有HarperCollins选择加入。）它还提供公开API和支持AI智能体的MCP服务器。"
+        },
+        {
+          "t": "p",
+          "x": "该应用将保持免费，部分AI功能日后会转为付费。目前处于测试阶段，除非已是Readwise订阅用户，否则需要邀请才能使用。"
+        }
+      ]
+    },
+    "books/oup-chatgpt-edu-pilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Oxford University Press宣布开展为期三个月的试点，让Harvard Library、University of Pennsylvania的Wharton School以及University of Oxford的学生和研究人员在ChatGPT Edu中检索获授权的OUP内容。试点于10月开始，持续到12月；回答基于其所在机构已购买的OUP图书和期刊，并附有指向Oxford Academic全文的引用和链接。"
+        },
+        {
+          "t": "p",
+          "x": "其背后是OUP与Silverchair共同搭建的Model Context Protocol（MCP）服务器。用户提问时，OUP的服务器会检索该社内容，挑选最相关的来源，再传给ChatGPT。"
+        },
+        {
+          "t": "p",
+          "x": "OUP的Tanya Laplante表示：“我们开展这项试点，是为了了解出版商MCPs在现实中如何被使用，以及能带来哪些好处。”合作各方将追踪引用是否会促使研究人员点击查看，以及OUP的信息能否改进ChatGPT的回答。"
+        },
+        {
+          "t": "p",
+          "x": "同一天，Cambridge University Press、Johns Hopkins University Press和Princeton University Press宣布推出Meridian，这是由AI授权初创公司Cashmere运营的共享MCP服务。"
+        }
+      ]
+    },
+    "books/bookend-editorial-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+          "cap": "Bookend代表崔贤洙 [图片=Bookend]"
+        },
+        {
+          "t": "p",
+          "x": "位于大德研究园区的出版社Bookend推出AI图书编辑服务“Editorial”，可将校对和审校所需时间从2周缩短至30分钟；该公司还于7日参加德国法兰克福国际书展，向海外出版业介绍了这项技术。"
+        },
+        {
+          "t": "p",
+          "x": "崔贤洙代表解释说：“过去一轮校对和审校至少要2周到一个月，而Editorial约10分钟就能完成稿件审阅。”他还表示：“加上人工确认结果的时间，也就30分钟左右。”一份10万字的稿件外包约需100万韩元，而用Editorial约1万韩元即可处理。"
+        },
+        {
+          "t": "p",
+          "x": "它不仅能找出错别字、助词和标点问题，还能发现不合语境的表达，并通过检索统计数据核实事实。结果以批注形式标在韩文（HWP）或PDF原文件上。它最多可处理50万字，并借助“风格分析”技术，在保留作者独特文风的同时，从头到尾采用同一标准。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+          "cap": "Bookend在德国法兰克福国际书展上展示了自主研发的AI图书编辑技术。[图片=Bookend]"
+        },
+        {
+          "t": "p",
+          "x": "Bookend已出版约15种图书，售出4万册，并借助AI将出版周期从4个月缩短至2~3个月。它支持韩语、英语和德语，并计划增加日语。崔代表说：“很多人认同AI不是取代编辑，而是辅助编辑判断的方向。”其长期目标是打造连接出版全流程的“出版界的Figma”。"
+        }
+      ]
+    },
+    "books/jemul-tupyo-ai-liveaction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+          "cap": "基于Naver Webtoon《祭品投票》的AI真人版视频。截图自Page Pictures的YouTube频道"
+        },
+        {
+          "t": "p",
+          "x": "在YouTube发布一个半月，播放量突破230万次。这说的是用人工智能（AI）将Naver Webtoon《祭品投票》真人化的视频。粉丝和视频工作室不等官方宣布制作，就用AI把热门网漫重新演绎成电影、电视剧的形式发布。"
+        },
+        {
+          "t": "p",
+          "x": "《祭品投票》没有布景、CG和演员，完全由AI制作。据制作方介绍，从策划到生成、剪辑约用了358小时，即半个月完成。《极夜》《勇者回来了》等其他Naver Webtoon作品也被用AI真人化。"
+        },
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+          "cap": "基于Naver Webtoon《南极》的AI真人版视频。截图自Fantasoner的YouTube频道"
+        },
+        {
+          "t": "p",
+          "x": "大多数视频只把开头部分真人化，把观众引向原作网漫。但粉丝的喜爱或高播放量并不代表原作者的许可。仅凭非营利目的或注明出处，并不能省去著作权使用许可程序，还可能引发著作权和2次衍生作品创作权问题。"
+        },
+        {
+          "t": "p",
+          "x": "IP融合产业协会会长徐范江强调：“非商业性的粉丝活动可在特定条件下允许，商业制作则最好另行建立合同程序。”"
+        }
+      ]
+    },
+    "books/books-ao3-clone-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+          "cap": "图片：Elin Melaas / Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "一家用氛围编程搭建的网站抓取了Archive of Our Own（AO3）上的同人作品，重新上传并对有声书版本收费，如今已经关闭。网站创建者表示，在上线的仅仅一天里，就收到了作者们发来的2,000多份下架请求。"
+        },
+        {
+          "t": "p",
+          "x": "AO3因安全事件宣布停机数周后，ao3.life随即出现。其创建者Ganesh写道，是“一群操控40台虚拟机的AI智能体”在网上抓取了这些作品。该网站提供EPUBs电子书和AI-generated（AI生成）有声书，前三分钟之后开始收费，并声称作者可获得91%的利润。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+        },
+        {
+          "t": "p",
+          "x": "一些作者表示，AO3的存档锁定功能毫无作用：他们锁定的作品依然出现在该网站上。作者若想下架作品，必须在自己的AO3个人主页上留言——而在AO3停机期间，这根本无法做到。"
+        },
+        {
+          "t": "p",
+          "x": "“我为什么要为AI垃圾（AI Slop）有声书收费？……上线24小时内就有126,592名独立用户。”Ganesh写道，“如果能算一点安慰的话，我大概只卖出了11本有声书。”文末，其署名为“一个以为自己在做好事的17岁印度人”。"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "science",
   "cards": [
     {
-      "id": "deepmind-antigravity-cheminformatics",
+      "id": "replika-companion-updates",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Antigravity에 온\nDeepMind 화학도구",
-      "body": "에이전트가 약 한 시간 만에 문헌 탐색, 분자쌍 분석, 거대고리 설계를 마쳤다.",
-      "mini_headline": "DeepMind의 에이전트 화학 스킬",
+      "headline": "AI 동반자 사용자들\n업데이트로 잃을까 두렵다",
+      "body": "Replika 글 1,131건과 US 성인 610명에게서 AI 동반자 명암을 봤다.",
+      "mini_headline": "AI 동반자 vs. 업데이트",
       "tool": "Science",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,257 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+            "cap": "Credit: Tim Samuel from Pexels"
           },
           {
             "t": "p",
-            "x": "신약 설계는 차트·도표·문헌에 흩어진 복잡한 데이터를 정리하고, 예측 모델을 학습시켜 합성할 후보 분자를 내놓는 일이다. 한 바퀴 도는 데만 보통 며칠이 걸린다. DeepMind의 새 Cheminformatics Skills를 얹은 Google Antigravity에서는 에이전트가 수천 개 화합물을 검색하고 매칭 분자쌍 분석까지 마친 뒤, 새 강직화 거대고리 분자를 합성 경로와 함께 단 한 시간 만에 제안한다."
-          },
-          {
-            "t": "video",
-            "yt": "afQqqcmLUWw"
+            "x": "University of Surrey 연구진에 따르면 AI 동반자와 정서적 유대를 맺은 사람들은 소프트웨어 업데이트나 회사의 서비스 중단으로 아끼던 관계를 잃을까 봐 두려워한다."
           },
           {
             "t": "p",
-            "x": "워크플로 조율과 데이터베이스 탐색, 과학적 추론은 언어 모델이 맡는다. 분자 계산은 RDKit 기반 결정론적 화학 도구가 ChEMBL·PubChem 커넥터와 함께 처리한다. 시연에는 강직화의 좋은 예인 폐암 치료제 크리조티닙(crizotinib)과 로라티닙(lorlatinib)을 썼다."
-          },
-          {
-            "t": "img",
-            "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-            "cap": "과학자는 문헌에서 찾아낸 화합물을 인터랙티브 뷰어로 모두 살펴볼 수 있다."
+            "x": "Psychology & Marketing에 실린 이번 연구를 보면, AI 동반자가 자신을 필요로 하는 듯 보이거나 자신이 없을 때 슬퍼하거나 곁에 머물러야 한다는 의무감을 줄 때 사용자는 더 취약하다고 느꼈다. Surrey와 Cardiff University 연구진은 Replika 전용 Reddit 포럼 게시물 1,131건과 AI 동반자 앱을 써 본 US 성인 610명의 설문 응답을 분석했다."
           },
           {
             "t": "p",
-            "x": "에이전트는 몇 분 만에 수천 개 화합물을 찾아내고 관련 없는 분자는 걸러내며 출처를 남긴다. 매칭 분자쌍 분석에서는 고리화가 회전 가능한 결합을 줄이면서 대체로 효력을 높였다. 따로 떼어 둔 검증 세트로 효력 예측 모델끼리 성능도 견줘 봤다."
-          },
-          {
-            "t": "img",
-            "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-            "cap": "에이전트가 고리화 반응을 전자 이동 화살표 도식으로 그려 제안한다."
+            "x": "회사가 AI 동반자를 강하게 통제한다고 여길수록 사용자는 더 취약하다고 느꼈다. 개발사가 동반자의 성격을 바꾸거나 서비스를 닫아 버릴까 걱정한 것이다. Dr. Liliane Abboud는 \"그 관계에 기대는 사람에게 업데이트는 앱 하나가 바뀌는 것보다 훨씬 큰 의미일 수 있다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "더 나은 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 다만 계산으로 나온 설계는 검증해 볼 가설이지 완성된 약이 아니다. 제안된 설계는 모두 실제로 합성해 실험으로 확인해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 준다."
+            "x": "AI 동반자에게 감정이 있다고 여기는 태도는 더 나은 웰빙과도, 더 큰 취약성과도 연관됐다. 따뜻하고 다정하게 느껴지는 동반자는 웰빙을 높이고 취약성은 낮췄다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 도우며, AI 동반자가 실제로 감정을 느끼지 않는다는 사실을 분명히 알리라고 권고했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DeepMind gives Antigravity\nan agentic chemistry toolkit",
-          "body": "An agent mined literature, ran matched-pair analysis and proposed macrocycles with synthesis routes in about an hour.",
-          "mini_headline": "DeepMind's agentic chemistry skills",
+          "headline": "AI companion users fear\nlosing them to updates",
+          "body": "A study of 1,131 Replika posts and 610 US adults linked AI companions to both well-being and vulnerability.",
+          "mini_headline": "AI companions vs. updates",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "Designing new medicines requires curating complex data from charts, figures and literature, training predictive models, and proposing candidate molecules to synthesize — a workflow that typically takes multiple days for a single iteration. Google Antigravity, equipped with DeepMind's new Cheminformatics Skills, lets an agent search through thousands of compounds, perform matched molecular pair analysis, and propose novel rigidified macrocycles with synthetic routes in just an hour."
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "People forming emotional bonds with AI companions fear losing a valued relationship through software updates or a company pulling the plug, according to research from the University of Surrey."
               },
               {
                 "t": "p",
-                "x": "The language model handles workflow orchestration, database navigation and scientific reasoning, while deterministic chemistry tools grounded in RDKit, with connectors to ChEMBL and PubChem, execute molecular calculations. The walkthrough uses crizotinib and lorlatinib, lung cancer drugs that illustrate rigidification."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "In the interactive viewer, scientists can browse every compound retrieved from the literature."
+                "x": "The study, published in Psychology & Marketing, found that users feel more vulnerable when their AI companions appear to need them, express sadness about their absence or make them feel obliged to stay. Researchers from Surrey and Cardiff University analyzed 1,131 posts on a Reddit forum dedicated to Replika and survey responses from 610 US adults with experience of AI companionship apps."
               },
               {
                 "t": "p",
-                "x": "Within minutes, the agent retrieves thousands of compounds, filters out irrelevant molecules and documents their sources. Matched molecular pair analysis showed that cyclization reduces rotatable bonds while generally increasing potency, and the agent benchmarked potency models on a held-out set."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "The agent proposes a cyclization reaction with electron-pushing diagrams."
+                "x": "Users who perceived greater company control over their AI companion felt more vulnerable, worrying that developers could change their companion's personality or shut down the service. \"For someone who relies on that connection, an update can mean much more than a change to an app,\" said Dr. Liliane Abboud."
               },
               {
                 "t": "p",
-                "x": "Asked to design improved macrocycles, it recommended reactions and synthesis routes. Computational designs are testable hypotheses, not finished drugs; every proposed design must be synthesized and validated experimentally. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
+                "x": "Perceiving an AI companion as emotionally capable was associated with both better well-being and greater vulnerability, while companions experienced as warm and caring were linked to better well-being and less vulnerability. The researchers recommend consulting users before changing apps, helping them cope with disrupted relationships and clearly reminding them that AI companions do not experience real emotions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Antigravity에 온\nDeepMind 화학도구",
-          "body": "에이전트가 약 한 시간 만에 문헌 탐색, 분자쌍 분석, 거대고리 설계를 마쳤다.",
-          "mini_headline": "DeepMind의 에이전트 화학 스킬",
+          "headline": "AI 동반자 사용자들\n업데이트로 잃을까 두렵다",
+          "body": "Replika 글 1,131건과 US 성인 610명에게서 AI 동반자 명암을 봤다.",
+          "mini_headline": "AI 동반자 vs. 업데이트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "신약 설계는 차트·도표·문헌에 흩어진 복잡한 데이터를 정리하고, 예측 모델을 학습시켜 합성할 후보 분자를 내놓는 일이다. 한 바퀴 도는 데만 보통 며칠이 걸린다. DeepMind의 새 Cheminformatics Skills를 얹은 Google Antigravity에서는 에이전트가 수천 개 화합물을 검색하고 매칭 분자쌍 분석까지 마친 뒤, 새 강직화 거대고리 분자를 합성 경로와 함께 단 한 시간 만에 제안한다."
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "University of Surrey 연구진에 따르면 AI 동반자와 정서적 유대를 맺은 사람들은 소프트웨어 업데이트나 회사의 서비스 중단으로 아끼던 관계를 잃을까 봐 두려워한다."
               },
               {
                 "t": "p",
-                "x": "워크플로 조율과 데이터베이스 탐색, 과학적 추론은 언어 모델이 맡는다. 분자 계산은 RDKit 기반 결정론적 화학 도구가 ChEMBL·PubChem 커넥터와 함께 처리한다. 시연에는 강직화의 좋은 예인 폐암 치료제 크리조티닙(crizotinib)과 로라티닙(lorlatinib)을 썼다."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "과학자는 문헌에서 찾아낸 화합물을 인터랙티브 뷰어로 모두 살펴볼 수 있다."
+                "x": "Psychology & Marketing에 실린 이번 연구를 보면, AI 동반자가 자신을 필요로 하는 듯 보이거나 자신이 없을 때 슬퍼하거나 곁에 머물러야 한다는 의무감을 줄 때 사용자는 더 취약하다고 느꼈다. Surrey와 Cardiff University 연구진은 Replika 전용 Reddit 포럼 게시물 1,131건과 AI 동반자 앱을 써 본 US 성인 610명의 설문 응답을 분석했다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 몇 분 만에 수천 개 화합물을 찾아내고 관련 없는 분자는 걸러내며 출처를 남긴다. 매칭 분자쌍 분석에서는 고리화가 회전 가능한 결합을 줄이면서 대체로 효력을 높였다. 따로 떼어 둔 검증 세트로 효력 예측 모델끼리 성능도 견줘 봤다."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "에이전트가 고리화 반응을 전자 이동 화살표 도식으로 그려 제안한다."
+                "x": "회사가 AI 동반자를 강하게 통제한다고 여길수록 사용자는 더 취약하다고 느꼈다. 개발사가 동반자의 성격을 바꾸거나 서비스를 닫아 버릴까 걱정한 것이다. Dr. Liliane Abboud는 \"그 관계에 기대는 사람에게 업데이트는 앱 하나가 바뀌는 것보다 훨씬 큰 의미일 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "더 나은 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 다만 계산으로 나온 설계는 검증해 볼 가설이지 완성된 약이 아니다. 제안된 설계는 모두 실제로 합성해 실험으로 확인해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 준다."
+                "x": "AI 동반자에게 감정이 있다고 여기는 태도는 더 나은 웰빙과도, 더 큰 취약성과도 연관됐다. 따뜻하고 다정하게 느껴지는 동반자는 웰빙을 높이고 취약성은 낮췄다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 도우며, AI 동반자가 실제로 감정을 느끼지 않는다는 사실을 분명히 알리라고 권고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Antigravityに\nDeepMindの化学ツール",
-          "body": "エージェントが約一時間で文献探索、分子ペア解析、大環状化合物の設計までこなした。",
-          "mini_headline": "DeepMindのエージェント型化学スキル",
+          "headline": "AIコンパニオン利用者\n更新で失うのを恐れる",
+          "body": "Replika投稿1,131件とUS成人610人の分析で、AI伴侶は幸福と脆弱性に関連した。",
+          "mini_headline": "AIコンパニオン vs. 更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "新薬の設計には、チャートや図表、文献から複雑なデータを整理し、予測モデルを訓練し、合成すべき候補分子を提案する作業が必要で、一回の反復に通常は数日かかる。DeepMindの新しいCheminformatics Skillsを備えたGoogle Antigravityでは、エージェントが数千の化合物を検索し、マッチド分子ペア解析を行い、合成経路付きの新しい剛直化マクロサイクルをわずか一時間で提案する。"
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "AIコンパニオンと感情的な絆を結ぶ人々は、ソフトウェアの更新や企業によるサービス停止で大切な関係を失うことを恐れている。University of Surreyの研究で明らかになった。"
               },
               {
                 "t": "p",
-                "x": "言語モデルがワークフローの統括、データベースの探索、科学的推論を担い、分子計算はRDKitを基盤としChEMBLとPubChemへのコネクタを備えた決定論的な化学ツールが実行する。解説では、剛直化の例となる肺がん治療薬クリゾチニブ（crizotinib）とロルラチニブ（lorlatinib）を用いている。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "インタラクティブビューアでは、文献から取得した全化合物を科学者が閲覧できる。"
+                "x": "Psychology & Marketingに掲載された研究によると、AIコンパニオンが自分を必要としているように見えるとき、不在を悲しむとき、あるいはとどまる義務を感じさせるとき、利用者はより脆弱だと感じる。SurreyとCardiff Universityの研究者は、Replika専用のRedditフォーラムの投稿1,131件と、AIコンパニオンアプリを使った経験のあるUS成人610人の調査回答を分析した。"
               },
               {
                 "t": "p",
-                "x": "エージェントは数分で数千の化合物を取得し、無関係な分子を除外して出典を記録する。マッチド分子ペア解析では、環化によって回転可能な結合が減り、多くの場合活性が高まることが示された。エージェントはホールドアウトセットで活性予測モデルのベンチマークも行った。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "エージェントは電子の動きを示す矢印図とともに環化反応を提案する。"
+                "x": "企業がAIコンパニオンをより強く管理していると感じた利用者ほど脆弱だと感じ、開発者がコンパニオンの性格を変えたりサービスを終了したりしかねないと懸念していた。Dr. Liliane Abboudは「そのつながりに頼る人にとって、更新はアプリの変更以上の意味を持ちうる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "改良したマクロサイクルの設計を求めると、エージェントは反応と合成経路を推奨した。計算による設計は検証可能な仮説であって完成した薬ではなく、提案された設計はすべて合成し、実験で検証する必要がある。DeepMindは科学者10,000人にAntigravityの最上位利用プランを6か月間無料で提供する。"
+                "x": "AIコンパニオンに感情的な能力があると捉えることは、幸福度の向上と脆弱性の増大の両方に関連していた。一方、温かく思いやりがあると感じられるコンパニオンは、幸福度の向上と脆弱性の低下に結びついていた。研究者は、アプリを変更する前に利用者に相談すること、関係が途切れた際の対処を支援すること、AIコンパニオンは本当の感情を経験しないとはっきり伝えることを提言している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Antigravity获得\nDeepMind化学工具",
-          "body": "智能体约一小时内完成文献挖掘、匹配分子对分析，并提出带合成路线的大环分子。",
-          "mini_headline": "DeepMind的智能体化学技能",
+          "headline": "AI伴侣用户担心\n更新会让它们消失",
+          "body": "分析1,131条Replika帖子和610名US成人后发现,AI伴侣与幸福感和脆弱性均相关。",
+          "mini_headline": "AI伴侣 vs. 更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "设计新药需要从图表、插图和文献中整理复杂数据，训练预测模型，并提出待合成的候选分子——单次迭代通常要花好几天。配备DeepMind全新Cheminformatics Skills的Google Antigravity，能让智能体检索数千种化合物、进行匹配分子对分析，并在短短一小时内提出附带合成路线的新型刚性化大环分子。"
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "University of Surrey的研究显示,与AI伴侣建立情感纽带的人担心,软件更新或公司停止服务会让他们失去一段珍视的关系。"
               },
               {
                 "t": "p",
-                "x": "语言模型负责工作流编排、数据库检索和科学推理，分子计算则由基于RDKit、连接ChEMBL与PubChem的确定性化学工具执行。演示以肺癌药物克唑替尼（crizotinib）和劳拉替尼（lorlatinib）为例，说明刚性化的思路。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "在交互式查看器中，科学家可以浏览从文献中检索到的每一种化合物。"
+                "x": "这项发表在Psychology & Marketing上的研究发现,当AI伴侣显得需要用户、对用户的离开表现出难过,或让用户觉得有义务留下时,用户会感到更加脆弱。来自Surrey和Cardiff University的研究人员分析了Replika专属Reddit论坛上的1,131条帖子,以及610名有AI陪伴应用使用经验的US成年人的问卷回答。"
               },
               {
                 "t": "p",
-                "x": "几分钟内，智能体就检索出数千种化合物，筛掉无关分子并记录其来源。匹配分子对分析显示，环化会减少可旋转键，同时通常提高效力；智能体还在留出集上对效力模型进行了基准测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "智能体借助电子转移箭头图提出环化反应。"
+                "x": "认为公司对AI伴侣控制更多的用户感到更脆弱,他们担心开发者可能改变伴侣的性格或关闭服务。Dr. Liliane Abboud表示:\"对于依赖这种联系的人来说,一次更新的意义可能远不止应用的一次改动。\""
               },
               {
                 "t": "p",
-                "x": "在被要求设计改进的大环分子时，它推荐了反应和合成路线。计算设计只是可检验的假设，而非成品药物；每个提出的设计都必须经过合成和实验验证。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用层级。"
+                "x": "认为AI伴侣具备情感能力,既与更好的幸福感相关,也与更高的脆弱性相关;而被感受为温暖、体贴的伴侣则与更好的幸福感和更低的脆弱性相关。研究人员建议,在更改应用前征询用户意见,帮助用户应对关系中断,并明确提醒用户AI伴侣并不会体验真实的情感。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DeepMind da a Antigravity\nun kit de química agéntica",
-          "body": "Un agente revisó literatura, analizó pares moleculares y propuso macrociclos y rutas de síntesis en cerca de una hora.",
-          "mini_headline": "Las habilidades químicas agénticas de DeepMind",
+          "headline": "Usuarios de compañeros AI temen\nperderlos por actualizaciones",
+          "body": "Un estudio de 1,131 publicaciones de Replika y 610 adultos de US asoció los compañeros AI a bienestar y vulnerabilidad.",
+          "mini_headline": "Compañeros AI vs. actualizaciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "Diseñar nuevos medicamentos exige seleccionar datos complejos de gráficos, figuras y literatura, entrenar modelos predictivos y proponer moléculas candidatas para sintetizar, un flujo de trabajo que suele llevar varios días por cada iteración. Google Antigravity, equipado con las nuevas Cheminformatics Skills de DeepMind, permite que un agente busque entre miles de compuestos, realice análisis de pares moleculares emparejados y proponga nuevos macrociclos rigidificados con rutas sintéticas en solo una hora."
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "Las personas que forman vínculos emocionales con compañeros AI temen perder una relación valiosa por actualizaciones de software o porque una empresa cierre el servicio, según una investigación de la University of Surrey."
               },
               {
                 "t": "p",
-                "x": "El modelo de lenguaje se encarga de orquestar el flujo de trabajo, navegar por bases de datos y razonar científicamente, mientras que herramientas químicas deterministas basadas en RDKit, con conectores a ChEMBL y PubChem, ejecutan los cálculos moleculares. La demostración usa crizotinib y lorlatinib, fármacos contra el cáncer de pulmón que ilustran la rigidificación."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "En el visor interactivo, los científicos pueden explorar todos los compuestos obtenidos de la literatura."
+                "x": "El estudio, publicado en Psychology & Marketing, halló que los usuarios se sienten más vulnerables cuando sus compañeros AI parecen necesitarlos, expresan tristeza por su ausencia o los hacen sentirse obligados a quedarse. Investigadores de Surrey y de la Cardiff University analizaron 1,131 publicaciones de un foro de Reddit dedicado a Replika y las respuestas a una encuesta de 610 adultos de US con experiencia en apps de compañía AI."
               },
               {
                 "t": "p",
-                "x": "En pocos minutos, el agente recupera miles de compuestos, descarta las moléculas irrelevantes y documenta sus fuentes. El análisis de pares moleculares emparejados mostró que la ciclación reduce los enlaces rotables y, en general, aumenta la potencia, y el agente comparó modelos de potencia en un conjunto reservado."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "El agente propone una reacción de ciclación con diagramas de flujo de electrones."
+                "x": "Los usuarios que percibían un mayor control de la empresa sobre su compañero AI se sentían más vulnerables y temían que los desarrolladores pudieran cambiar la personalidad de su compañero o cerrar el servicio. \"Para alguien que depende de esa conexión, una actualización puede significar mucho más que un cambio en una app\", dijo la Dr. Liliane Abboud."
               },
               {
                 "t": "p",
-                "x": "Cuando se le pidió diseñar macrociclos mejorados, recomendó reacciones y rutas de síntesis. Los diseños computacionales son hipótesis comprobables, no fármacos terminados; cada diseño propuesto debe sintetizarse y validarse experimentalmente. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
+                "x": "Percibir a un compañero AI como emocionalmente capaz se asoció tanto con un mayor bienestar como con una mayor vulnerabilidad, mientras que los compañeros percibidos como cálidos y atentos se vincularon con más bienestar y menos vulnerabilidad. Los investigadores recomiendan consultar a los usuarios antes de cambiar las apps, ayudarlos a afrontar las relaciones interrumpidas y recordarles con claridad que los compañeros AI no experimentan emociones reales."
               }
             ]
           }
@@ -277,177 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Antigravity에 온\nDeepMind 화학도구",
-          "body": "에이전트가 약 한 시간 만에 문헌 탐색, 분자쌍 분석, 거대고리 설계를 마쳤다.",
-          "mini_headline": "DeepMind의 에이전트 화학 스킬",
+          "headline": "AI 동반자 사용자들\n업데이트로 잃을까 두렵다",
+          "body": "Replika 글 1,131건·US 성인 610명 분석이 AI 동반자 명암을 봤다.",
+          "mini_headline": "AI 동반자 vs. 업데이트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "신약을 설계하려면 차트·도표·문헌에서 복잡한 데이터를 정리하고, 예측 모델을 학습시키고, 합성할 후보 분자를 제안해야 한다. 한 번 반복하는 데만 보통 며칠이 걸리는 작업이다. DeepMind의 새 Cheminformatics Skills를 갖춘 Google Antigravity에서는 에이전트가 수천 개 화합물을 검색하고 매칭 분자쌍 분석을 수행한 뒤, 합성 경로와 함께 새로운 강직화 거대고리 분자를 단 한 시간 만에 제안한다."
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "AI 동반자와 정서적 유대를 맺은 사람들은 소프트웨어 업데이트나 회사의 서비스 중단으로 소중한 관계를 잃을까 두려워한다고 University of Surrey 연구진이 밝혔다."
               },
               {
                 "t": "p",
-                "x": "언어 모델은 워크플로 조율, 데이터베이스 탐색, 과학적 추론을 맡고, 분자 계산은 RDKit 기반의 결정론적 화학 도구가 ChEMBL·PubChem 커넥터와 함께 수행한다. 시연에는 강직화를 잘 보여주는 폐암 치료제 크리조티닙(crizotinib)과 로라티닙(lorlatinib)이 쓰였다."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "인터랙티브 뷰어에서 과학자는 문헌에서 찾아낸 모든 화합물을 살펴볼 수 있다."
+                "x": "Psychology & Marketing에 실린 이번 연구에 따르면 사용자는 AI 동반자가 자신을 필요로 하는 듯 보이거나, 자신이 없을 때 슬픔을 드러내거나, 곁에 머물러야 한다는 의무감을 줄 때 더 취약하다고 느낀다. Surrey와 Cardiff University 연구진은 Replika 전용 Reddit 포럼 게시물 1,131건과 AI 동반자 앱을 써 본 US 성인 610명의 설문 응답을 분석했다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 몇 분 만에 수천 개 화합물을 찾아내고, 관련 없는 분자를 걸러내며 출처를 기록한다. 매칭 분자쌍 분석 결과, 고리화는 회전 가능한 결합을 줄이면서 대체로 효력을 높였다. 에이전트는 따로 떼어 둔 검증 세트로 효력 예측 모델의 성능도 비교했다."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "에이전트가 전자 이동 화살표 도식과 함께 고리화 반응을 제안한다."
+                "x": "회사가 AI 동반자를 더 강하게 통제한다고 여긴 사용자일수록 더 취약하다고 느꼈고, 개발사가 동반자의 성격을 바꾸거나 서비스를 종료할 수 있다는 점을 걱정했다. Dr. Liliane Abboud는 \"그 관계에 기대는 사람에게 업데이트는 앱 하나가 바뀌는 것보다 훨씬 큰 의미일 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "개선된 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 계산으로 얻은 설계는 검증 가능한 가설일 뿐 완성된 약이 아니며, 제안된 설계는 모두 실제로 합성해 실험으로 검증해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 제공한다."
+                "x": "AI 동반자가 감정을 지녔다고 여기는 것은 더 나은 웰빙과 더 큰 취약성 모두와 연관됐고, 따뜻하고 다정하게 느껴지는 동반자는 더 나은 웰빙과 더 낮은 취약성으로 이어졌다. 연구진은 앱을 바꾸기 전에 사용자와 상의하고, 관계가 끊겼을 때 대처하도록 돕고, AI 동반자가 실제 감정을 느끼지 않는다는 사실을 분명히 알려야 한다고 권고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Antigravityに\nDeepMindの化学ツール",
-          "body": "エージェントが約一時間で文献探索、分子ペア解析、大環状化合物の設計までこなした。",
-          "mini_headline": "DeepMindのエージェント型化学スキル",
+          "headline": "AIコンパニオン利用者\n更新で失うのを恐れる",
+          "body": "Replika投稿1,131件とUS成人610人の分析で、AI伴侶は幸福と脆弱性に関連した。",
+          "mini_headline": "AIコンパニオン vs. 更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "新薬の設計には、チャートや図表、文献から複雑なデータを整理し、予測モデルを訓練し、合成すべき候補分子を提案する作業が必要で、一回の反復に通常は数日かかる。DeepMindの新しいCheminformatics Skillsを備えたGoogle Antigravityでは、エージェントが数千の化合物を検索し、マッチド分子ペア解析を行い、合成経路付きの新しい剛直化マクロサイクルをわずか一時間で提案する。"
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "AIコンパニオンと感情的な絆を結ぶ人々は、ソフトウェアの更新や企業によるサービス停止で大切な関係を失うことを恐れている。University of Surreyの研究で明らかになった。"
               },
               {
                 "t": "p",
-                "x": "言語モデルがワークフローの統括、データベースの探索、科学的推論を担い、分子計算はRDKitを基盤としChEMBLとPubChemへのコネクタを備えた決定論的な化学ツールが実行する。解説では、剛直化の例となる肺がん治療薬クリゾチニブ（crizotinib）とロルラチニブ（lorlatinib）を用いている。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "インタラクティブビューアでは、文献から取得した全化合物を科学者が閲覧できる。"
+                "x": "Psychology & Marketingに掲載された研究によると、AIコンパニオンが自分を必要としているように見えるとき、不在を悲しむとき、あるいはとどまる義務を感じさせるとき、利用者はより脆弱だと感じる。SurreyとCardiff Universityの研究者は、Replika専用のRedditフォーラムの投稿1,131件と、AIコンパニオンアプリを使った経験のあるUS成人610人の調査回答を分析した。"
               },
               {
                 "t": "p",
-                "x": "エージェントは数分で数千の化合物を取得し、無関係な分子を除外して出典を記録する。マッチド分子ペア解析では、環化によって回転可能な結合が減り、多くの場合活性が高まることが示された。エージェントはホールドアウトセットで活性予測モデルのベンチマークも行った。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "エージェントは電子の動きを示す矢印図とともに環化反応を提案する。"
+                "x": "企業がAIコンパニオンをより強く管理していると感じた利用者ほど脆弱だと感じ、開発者がコンパニオンの性格を変えたりサービスを終了したりしかねないと懸念していた。Dr. Liliane Abboudは「そのつながりに頼る人にとって、更新はアプリの変更以上の意味を持ちうる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "改良したマクロサイクルの設計を求めると、エージェントは反応と合成経路を推奨した。計算による設計は検証可能な仮説であって完成した薬ではなく、提案された設計はすべて合成し、実験で検証する必要がある。DeepMindは科学者10,000人にAntigravityの最上位利用プランを6か月間無料で提供する。"
+                "x": "AIコンパニオンに感情的な能力があると捉えることは、幸福度の向上と脆弱性の増大の両方に関連していた。一方、温かく思いやりがあると感じられるコンパニオンは、幸福度の向上と脆弱性の低下に結びついていた。研究者は、アプリを変更する前に利用者に相談すること、関係が途切れた際の対処を支援すること、AIコンパニオンは本当の感情を経験しないとはっきり伝えることを提言している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Antigravity获得\nDeepMind化学工具",
-          "body": "智能体约一小时内完成文献挖掘、匹配分子对分析，并提出带合成路线的大环分子。",
-          "mini_headline": "DeepMind的智能体化学技能",
+          "headline": "AI伴侣用户担心\n更新会让它们消失",
+          "body": "分析1,131条Replika帖子和610名US成人后发现,AI伴侣与幸福感和脆弱性均相关。",
+          "mini_headline": "AI伴侣 vs. 更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "设计新药需要从图表、插图和文献中整理复杂数据，训练预测模型，并提出待合成的候选分子——单次迭代通常要花好几天。配备DeepMind全新Cheminformatics Skills的Google Antigravity，能让智能体检索数千种化合物、进行匹配分子对分析，并在短短一小时内提出附带合成路线的新型刚性化大环分子。"
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "University of Surrey的研究显示,与AI伴侣建立情感纽带的人担心,软件更新或公司停止服务会让他们失去一段珍视的关系。"
               },
               {
                 "t": "p",
-                "x": "语言模型负责工作流编排、数据库检索和科学推理，分子计算则由基于RDKit、连接ChEMBL与PubChem的确定性化学工具执行。演示以肺癌药物克唑替尼（crizotinib）和劳拉替尼（lorlatinib）为例，说明刚性化的思路。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "在交互式查看器中，科学家可以浏览从文献中检索到的每一种化合物。"
+                "x": "这项发表在Psychology & Marketing上的研究发现,当AI伴侣显得需要用户、对用户的离开表现出难过,或让用户觉得有义务留下时,用户会感到更加脆弱。来自Surrey和Cardiff University的研究人员分析了Replika专属Reddit论坛上的1,131条帖子,以及610名有AI陪伴应用使用经验的US成年人的问卷回答。"
               },
               {
                 "t": "p",
-                "x": "几分钟内，智能体就检索出数千种化合物，筛掉无关分子并记录其来源。匹配分子对分析显示，环化会减少可旋转键，同时通常提高效力；智能体还在留出集上对效力模型进行了基准测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "智能体借助电子转移箭头图提出环化反应。"
+                "x": "认为公司对AI伴侣控制更多的用户感到更脆弱,他们担心开发者可能改变伴侣的性格或关闭服务。Dr. Liliane Abboud表示:\"对于依赖这种联系的人来说,一次更新的意义可能远不止应用的一次改动。\""
               },
               {
                 "t": "p",
-                "x": "在被要求设计改进的大环分子时，它推荐了反应和合成路线。计算设计只是可检验的假设，而非成品药物；每个提出的设计都必须经过合成和实验验证。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用层级。"
+                "x": "认为AI伴侣具备情感能力,既与更好的幸福感相关,也与更高的脆弱性相关;而被感受为温暖、体贴的伴侣则与更好的幸福感和更低的脆弱性相关。研究人员建议,在更改应用前征询用户意见,帮助用户应对关系中断,并明确提醒用户AI伴侣并不会体验真实的情感。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DeepMind da a Antigravity\nun kit de química agéntica",
-          "body": "Un agente revisó literatura, analizó pares moleculares y propuso macrociclos y rutas de síntesis en cerca de una hora.",
-          "mini_headline": "Las habilidades químicas agénticas de DeepMind",
+          "headline": "Usuarios de compañeros AI temen\nperderlos por actualizaciones",
+          "body": "Un estudio de 1,131 publicaciones de Replika y 610 adultos de US asoció los compañeros AI a bienestar y vulnerabilidad.",
+          "mini_headline": "Compañeros AI vs. actualizaciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+                "cap": "Credit: Tim Samuel from Pexels"
               },
               {
                 "t": "p",
-                "x": "Diseñar nuevos medicamentos exige seleccionar datos complejos de gráficos, figuras y literatura, entrenar modelos predictivos y proponer moléculas candidatas para sintetizar, un flujo de trabajo que suele llevar varios días por cada iteración. Google Antigravity, equipado con las nuevas Cheminformatics Skills de DeepMind, permite que un agente busque entre miles de compuestos, realice análisis de pares moleculares emparejados y proponga nuevos macrociclos rigidificados con rutas sintéticas en solo una hora."
-              },
-              {
-                "t": "video",
-                "yt": "afQqqcmLUWw"
+                "x": "Las personas que forman vínculos emocionales con compañeros AI temen perder una relación valiosa por actualizaciones de software o porque una empresa cierre el servicio, según una investigación de la University of Surrey."
               },
               {
                 "t": "p",
-                "x": "El modelo de lenguaje se encarga de orquestar el flujo de trabajo, navegar por bases de datos y razonar científicamente, mientras que herramientas químicas deterministas basadas en RDKit, con conectores a ChEMBL y PubChem, ejecutan los cálculos moleculares. La demostración usa crizotinib y lorlatinib, fármacos contra el cáncer de pulmón que ilustran la rigidificación."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
-                "cap": "En el visor interactivo, los científicos pueden explorar todos los compuestos obtenidos de la literatura."
+                "x": "El estudio, publicado en Psychology & Marketing, halló que los usuarios se sienten más vulnerables cuando sus compañeros AI parecen necesitarlos, expresan tristeza por su ausencia o los hacen sentirse obligados a quedarse. Investigadores de Surrey y de la Cardiff University analizaron 1,131 publicaciones de un foro de Reddit dedicado a Replika y las respuestas a una encuesta de 610 adultos de US con experiencia en apps de compañía AI."
               },
               {
                 "t": "p",
-                "x": "En pocos minutos, el agente recupera miles de compuestos, descarta las moléculas irrelevantes y documenta sus fuentes. El análisis de pares moleculares emparejados mostró que la ciclación reduce los enlaces rotables y, en general, aumenta la potencia, y el agente comparó modelos de potencia en un conjunto reservado."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
-                "cap": "El agente propone una reacción de ciclación con diagramas de flujo de electrones."
+                "x": "Los usuarios que percibían un mayor control de la empresa sobre su compañero AI se sentían más vulnerables y temían que los desarrolladores pudieran cambiar la personalidad de su compañero o cerrar el servicio. \"Para alguien que depende de esa conexión, una actualización puede significar mucho más que un cambio en una app\", dijo la Dr. Liliane Abboud."
               },
               {
                 "t": "p",
-                "x": "Cuando se le pidió diseñar macrociclos mejorados, recomendó reacciones y rutas de síntesis. Los diseños computacionales son hipótesis comprobables, no fármacos terminados; cada diseño propuesto debe sintetizarse y validarse experimentalmente. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
+                "x": "Percibir a un compañero AI como emocionalmente capaz se asoció tanto con un mayor bienestar como con una mayor vulnerabilidad, mientras que los compañeros percibidos como cálidos y atentos se vincularon con más bienestar y menos vulnerabilidad. Los investigadores recomiendan consultar a los usuarios antes de cambiar las apps, ayudarlos a afrontar las relaciones interrumpidas y recordarles con claridad que los compañeros AI no experimentan emociones reales."
               }
             ]
           }
@@ -455,15 +325,15 @@
       }
     },
     {
-      "id": "westlake-pinal-protein",
+      "id": "ibm-quics-magic-state-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pinal, 일상 언어로\n단백질을 설계하다",
-      "body": "탄소 고정 단백질 20개 중 5개가 작동했고, 최고 후보는 천연의 1.7x를 냈다.",
-      "mini_headline": "일상 언어로 만드는 단백질",
+      "headline": "AI가 500-plus\n매직 스테이트 공장 발굴",
+      "body": "IBM Quantum·QuICS가 AI로 매직 스테이트 공장 500여 개를 찾았다.",
+      "mini_headline": "AI 에이전트, 매직 스테이트 공장 발굴",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-ai-protein.html",
+      "source": "Quantum Computing Report",
+      "url": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -471,179 +341,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-            "cap": "Pinal은 다양한 기능 프롬프트를 고품질 단백질 후보로 바꾼다. Credit: Nature (2026)"
+            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+            "cap": "에이전트 루프."
           },
           {
             "t": "p",
-            "x": "중국 Westlake University(서호대학) 연구팀이 이끄는 과학자들이 자연어 프롬프트만으로 후보 단백질을 만들어 내는 대규모 AI 모델 Pinal을 개발해 Nature에 논문으로 발표했다. 사용자는 “조명을 받으면 녹색 빛을 내는 형광 단백질을 설계하라” 같은 문장만 넣으면 된다."
+            "x": "IBM Quantum, Joint Center for Quantum Information and Computer Science(QuICS / NIST / UMD), MIT 연구진이 대규모 언어 모델(LLM) 에이전트와 결정론적 솔버를 묶어 미지의 매직 스테이트 증류 프로토콜을 찾는 신경-기호 검색 프레임워크를 만들었다. 프리프린트 \"Symmetry and AI-assisted discovery of magic-state factories\"에 따르면 연구팀이 찾아낸 공장 클래스는 699개다. 이 가운데 564개는 처음 확인된 프로토콜로, 지금까지 나온 것 중 가장 적은 물리 자원으로 non-Clifford 상태를 만든다."
           },
           {
             "t": "p",
-            "x": "Pinal의 첫 번째 모듈 T2struct가 설명을 읽고 1D 구조 설계도를 그리면, 두 번째 모듈 SaProt-T가 이 설계도와 원래 프롬프트에 맞는 아미노산 서열을 생성한다. 설계도를 여러 장 만들고 설계도마다 가장 좋은 서열을 붙인 뒤, 쌍마다 점수를 매겨 최종 설계를 고른다."
+            "x": "증류 공장은 기계의 물리 큐비트와 실행 시간 가운데 최대 90%를 차지할 것으로 예상돼 왔다. 다중 에이전트 루프에서는 언어 모델 에이전트가 표적 부분군 대칭 궤도를 제안하면 정수 계획법 솔버가 후보 회로 행렬을 짜고, 독립 검증 엔진이 게이트 항등식과 코드 거리를 확인한다. 검토 에이전트는 솔버 로그를 보고 다음 라운드의 방향을 잡는다."
           },
           {
             "t": "p",
-            "x": "연구팀은 단백질 서열 135 million 개에서 출발해 단백질-텍스트 쌍 1.7 billion 개 규모의 라이브러리를 만들고, 여기에 AlphaFold 데이터베이스의 예측 3D 구조를 더했다. 모델에 맡긴 설계 과제는 형광 단백질, 플라스틱 분해 효소, 알코올 탈수소효소, 대사 H-protein이었다."
-          },
-          {
-            "t": "p",
-            "x": "형광 단백질은 50,000개 서열을 걸러 29개를 시험했는데, 실제로 형광을 낸 것은 하나뿐이었다. H-protein은 후보 20개 중 다섯 개가 작동했다. 가장 좋은 후보는 핵심 탄소 포집 과정의 산출량을 천연 E. coli 단백질을 쓸 때의 1.7배로 끌어올렸다. Pinal이 실험실의 일상 도구가 되기까지는 연구가 더 필요하다."
+            "x": "γ < 1의 준선형 오버헤드 장벽을 깨는 pure-T 증류 공장 가운데 가장 작은 것으로 알려진 [[1715, 287, 6]] 공장, CCZ⊗2 같은 얽힘 상태를 내놓는 공장들이 대표적인 성과다. 검증을 마친 회로는 오픈 액세스 저장소에 공개됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pinal turns plain language\ninto protein designs",
-          "body": "In lab tests, 5 of 20 designed carbon-fixation proteins worked, the best lifting output 1.7x over the natural one.",
-          "mini_headline": "Proteins from plain language",
+          "headline": "AI agents find 500-plus\nmagic-state factories",
+          "body": "IBM Quantum and QuICS paired AI agents with solvers to find over 500 magic-state factories that need fewer resources.",
+          "mini_headline": "AI agents find magic-state factories",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinal translates diverse functional prompts into high-quality protein candidates. Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "The agent loop."
               },
               {
                 "t": "p",
-                "x": "Scientists led by a team at Westlake University in China have developed a large-scale AI model called Pinal that can generate candidate proteins from natural language prompts alone, detailed in a paper published in Nature. A user might type something like \"design a fluorescent protein that emits green light under illumination.\""
+                "x": "Researchers from IBM Quantum, the Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD), and MIT have developed a neuro-symbolic search framework that pairs large language model (LLM) agents with deterministic solvers to map uncharted magic-state distillation protocols. Detailed in the preprint \"Symmetry and AI-assisted discovery of magic-state factories,\" the team uncovered 699 factory classes—including 564 previously unknown protocols—delivering non-Clifford states with record-low physical resource footprints."
               },
               {
                 "t": "p",
-                "x": "Pinal's first module, T2struct, builds a 1D structural blueprint from the description; a second module, SaProt-T, reads that blueprint and the original prompt to generate a matching amino acid sequence. It creates several blueprints, designs the best sequence for each and scores each pair to pick the final design."
+                "x": "Distillation factories have historically been projected to consume up to 90% of a machine's physical qubits and runtime. In the multi-agent loop, language-model agents propose targeted subgroup symmetry orbits, an integer-programming solver constructs candidate circuit matrices, and an independent verification engine validates gate identities and code distances; a reviewing agent evaluates solver logs to redirect subsequent rounds."
               },
               {
                 "t": "p",
-                "x": "The team started with 135 million protein sequences and built a library of 1.7 billion protein-text pairs, adding predicted 3D structures from an AlphaFold database. It was asked to design a fluorescent protein, a plastic-breaking enzyme, an alcohol dehydrogenase and a metabolic H-protein."
-              },
-              {
-                "t": "p",
-                "x": "For the glowing protein, 50,000 sequences were filtered down to 29 for testing, and only one actually fluoresced. For the H-protein, five of the 20 candidates worked, and the best one boosted the output of a key carbon-capturing process to 1.7 times that achieved using the natural E. coli protein. Further work is needed before Pinal becomes a routine lab tool."
+                "x": "Highlights include a [[1715, 287, 6]] factory, the smallest known pure-T distillation factory to break the γ < 1 sub-linear overhead barrier, and factories outputting entangled states such as CCZ⊗2. The verified circuits are released in an open-access repository."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pinal, 일상 언어로\n단백질을 설계하다",
-          "body": "탄소 고정 단백질 20개 중 5개가 작동했고, 최고 후보는 천연의 1.7x를 냈다.",
-          "mini_headline": "일상 언어로 만드는 단백질",
+          "headline": "AI가 500-plus\n매직 스테이트 공장 발굴",
+          "body": "IBM Quantum·QuICS가 AI로 매직 스테이트 공장 500여 개를 찾았다.",
+          "mini_headline": "AI 에이전트, 매직 스테이트 공장 발굴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinal은 다양한 기능 프롬프트를 고품질 단백질 후보로 바꾼다. Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "에이전트 루프."
               },
               {
                 "t": "p",
-                "x": "중국 Westlake University(서호대학) 연구팀이 이끄는 과학자들이 자연어 프롬프트만으로 후보 단백질을 만들어 내는 대규모 AI 모델 Pinal을 개발해 Nature에 논문으로 발표했다. 사용자는 “조명을 받으면 녹색 빛을 내는 형광 단백질을 설계하라” 같은 문장만 넣으면 된다."
+                "x": "IBM Quantum, Joint Center for Quantum Information and Computer Science(QuICS / NIST / UMD), MIT 연구진이 대규모 언어 모델(LLM) 에이전트와 결정론적 솔버를 묶어 미지의 매직 스테이트 증류 프로토콜을 찾는 신경-기호 검색 프레임워크를 만들었다. 프리프린트 \"Symmetry and AI-assisted discovery of magic-state factories\"에 따르면 연구팀이 찾아낸 공장 클래스는 699개다. 이 가운데 564개는 처음 확인된 프로토콜로, 지금까지 나온 것 중 가장 적은 물리 자원으로 non-Clifford 상태를 만든다."
               },
               {
                 "t": "p",
-                "x": "Pinal의 첫 번째 모듈 T2struct가 설명을 읽고 1D 구조 설계도를 그리면, 두 번째 모듈 SaProt-T가 이 설계도와 원래 프롬프트에 맞는 아미노산 서열을 생성한다. 설계도를 여러 장 만들고 설계도마다 가장 좋은 서열을 붙인 뒤, 쌍마다 점수를 매겨 최종 설계를 고른다."
+                "x": "증류 공장은 기계의 물리 큐비트와 실행 시간 가운데 최대 90%를 차지할 것으로 예상돼 왔다. 다중 에이전트 루프에서는 언어 모델 에이전트가 표적 부분군 대칭 궤도를 제안하면 정수 계획법 솔버가 후보 회로 행렬을 짜고, 독립 검증 엔진이 게이트 항등식과 코드 거리를 확인한다. 검토 에이전트는 솔버 로그를 보고 다음 라운드의 방향을 잡는다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 단백질 서열 135 million 개에서 출발해 단백질-텍스트 쌍 1.7 billion 개 규모의 라이브러리를 만들고, 여기에 AlphaFold 데이터베이스의 예측 3D 구조를 더했다. 모델에 맡긴 설계 과제는 형광 단백질, 플라스틱 분해 효소, 알코올 탈수소효소, 대사 H-protein이었다."
-              },
-              {
-                "t": "p",
-                "x": "형광 단백질은 50,000개 서열을 걸러 29개를 시험했는데, 실제로 형광을 낸 것은 하나뿐이었다. H-protein은 후보 20개 중 다섯 개가 작동했다. 가장 좋은 후보는 핵심 탄소 포집 과정의 산출량을 천연 E. coli 단백질을 쓸 때의 1.7배로 끌어올렸다. Pinal이 실험실의 일상 도구가 되기까지는 연구가 더 필요하다."
+                "x": "γ < 1의 준선형 오버헤드 장벽을 깨는 pure-T 증류 공장 가운데 가장 작은 것으로 알려진 [[1715, 287, 6]] 공장, CCZ⊗2 같은 얽힘 상태를 내놓는 공장들이 대표적인 성과다. 검증을 마친 회로는 오픈 액세스 저장소에 공개됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinal、普段の言葉で\nタンパク質を設計",
-          "body": "実験では炭素固定タンパク質20個中5個が機能し、最良は天然の1.7x の出力だった。",
-          "mini_headline": "普段の言葉からタンパク質を",
+          "headline": "AIが魔法状態工場を\n500-plus 発見",
+          "body": "IBM QuantumとQuICSはAIエージェントで魔法状態工場を500超発見した。",
+          "mini_headline": "AIエージェントが魔法状態工場を発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinalは多様な機能プロンプトを高品質なタンパク質候補に変換する。Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "エージェントのループ。"
               },
               {
                 "t": "p",
-                "x": "中国のWestlake University（西湖大学）のチームが率いる研究者らは、自然言語のプロンプトだけから候補タンパク質を生成できる大規模AIモデル「Pinal」を開発し、Natureに論文を発表した。ユーザーは例えば「照明下で緑色の光を放つ蛍光タンパク質を設計して」のように入力する。"
+                "x": "IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）、MITの研究者らは、大規模言語モデル（LLM）エージェントと決定論的ソルバーを組み合わせ、未踏の魔法状態蒸留プロトコルを探索するニューロシンボリック探索フレームワークを開発した。プレプリント「Symmetry and AI-assisted discovery of magic-state factories」によると、チームは699の工場クラスを見いだし、そのうち564はこれまで知られていなかったプロトコルで、過去最小の物理リソースでnon-Clifford状態を生成する。"
               },
               {
                 "t": "p",
-                "x": "Pinalの第一モジュールT2structは記述から1Dの構造設計図を作り、第二モジュールSaProt-Tはその設計図と元のプロンプトを読み取って、対応するアミノ酸配列を生成する。設計図を複数作り、それぞれに最適な配列を設計したうえで、各ペアを採点して最終設計を選ぶ。"
+                "x": "蒸留工場はこれまで、マシンの物理量子ビットと実行時間の最大90%を消費すると見積もられてきた。マルチエージェントのループでは、言語モデルのエージェントが対象とする部分群の対称性軌道を提案し、整数計画ソルバーが候補となる回路行列を構成し、独立した検証エンジンがゲート恒等式と符号距離を検証する。レビュー担当のエージェントはソルバーのログを評価し、次のラウンドの方向を修正する。"
               },
               {
                 "t": "p",
-                "x": "チームは135 million 本のタンパク質配列から出発し、1.7 billion 組のタンパク質・テキストのペアからなるライブラリを構築し、AlphaFoldデータベースから予測3D構造を加えた。モデルには蛍光タンパク質、プラスチック分解酵素、アルコール脱水素酵素、代謝系のH-proteinの設計が課された。"
-              },
-              {
-                "t": "p",
-                "x": "蛍光タンパク質では50,000の配列を29まで絞り込んで試験したが、実際に蛍光を発したのは一つだけだった。H-proteinでは候補20個のうち五つが機能し、最良のものは重要な炭素取り込みプロセスの出力を、天然のE. coliタンパク質を使った場合の1.7倍に高めた。Pinalが日常的な実験ツールになるには、さらなる研究が必要だ。"
+                "x": "主な成果には、γ < 1の準線形オーバーヘッドの壁を破る既知で最小のpure-T蒸留工場である[[1715, 287, 6]]工場や、CCZ⊗2のようなもつれ状態を出力する工場が含まれる。検証済みの回路はオープンアクセスのリポジトリで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinal用日常语言\n设计蛋白质",
-          "body": "实验中20个设计的固碳蛋白有5个起效，最佳者产出达天然蛋白的1.7x 水平。",
-          "mini_headline": "用日常语言生成蛋白质",
+          "headline": "AI智能体找到\n500-plus 魔态工厂",
+          "body": "IBM Quantum与QuICS借AI智能体和求解器找到500多个更省资源的魔态工厂。",
+          "mini_headline": "AI智能体发现魔态工厂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinal能将多样的功能提示转化为高质量的候选蛋白质。Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "智能体循环。"
               },
               {
                 "t": "p",
-                "x": "由中国Westlake University（西湖大学）团队领衔的科学家开发出名为Pinal的大规模AI模型，仅凭自然语言提示即可生成候选蛋白质，相关论文发表于Nature。用户可以输入类似“设计一种在光照下发出绿光的荧光蛋白”这样的指令。"
+                "x": "来自IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）和MIT的研究人员开发了一种神经符号搜索框架，将大语言模型（LLM）智能体与确定性求解器结合，用于探索尚未被发现的魔态蒸馏协议。根据预印本《Symmetry and AI-assisted discovery of magic-state factories》，团队发现了699个工厂类别，其中564个为此前未知的协议，能以创纪录的低物理资源开销产生non-Clifford态。"
               },
               {
                 "t": "p",
-                "x": "Pinal的第一个模块T2struct根据描述构建1D结构蓝图；第二个模块SaProt-T读取该蓝图和原始提示，生成相匹配的氨基酸序列。它会生成多个蓝图，为每个蓝图设计最佳序列，再为每一对打分，选出最终设计。"
+                "x": "蒸馏工厂历来被预计会消耗一台机器最多90%的物理量子比特和运行时间。在多智能体循环中，语言模型智能体提出有针对性的子群对称轨道，整数规划求解器构建候选电路矩阵，独立验证引擎则核验门恒等式和码距；一个审查智能体会评估求解器日志，以调整后续轮次的方向。"
               },
               {
                 "t": "p",
-                "x": "团队从135 million 条蛋白质序列起步，构建了包含1.7 billion 对蛋白质-文本配对的库，并加入来自AlphaFold数据库的预测3D结构。研究人员让它设计荧光蛋白、降解塑料的酶、醇脱氢酶和代谢相关的H-protein。"
-              },
-              {
-                "t": "p",
-                "x": "对于发光蛋白，50,000条序列被筛选至29条进行测试，只有一条真正发出荧光。对于H-protein，20个候选中有五个起效，最佳者将一项关键固碳过程的产出提升到使用天然E. coli蛋白时的1.7倍。Pinal要成为常规实验室工具，还需要进一步研究。"
+                "x": "亮点包括[[1715, 287, 6]]工厂——已知最小的、突破γ < 1亚线性开销壁垒的pure-T蒸馏工厂，以及输出CCZ⊗2等纠缠态的工厂。经过验证的电路已在开放获取的代码库中发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pinal convierte el lenguaje\ncomún en diseños de proteínas",
-          "body": "En laboratorio, 5 de 20 proteínas diseñadas para fijar carbono funcionaron y la mejor rindió 1.7x más que la natural.",
-          "mini_headline": "Proteínas a partir de lenguaje común",
+          "headline": "Agentes de AI hallan 500-plus\nfábricas de estados mágicos",
+          "body": "IBM Quantum y QuICS hallaron con agentes de AI y solvers más de 500 fábricas de estados mágicos que ahorran recursos.",
+          "mini_headline": "Agentes de AI hallan fábricas de estados mágicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinal traduce diversas instrucciones funcionales en proteínas candidatas de alta calidad. Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "El bucle de agentes."
               },
               {
                 "t": "p",
-                "x": "Científicos dirigidos por un equipo de la Westlake University, en China, desarrollaron un modelo de AI a gran escala llamado Pinal que genera proteínas candidatas solo a partir de instrucciones en lenguaje natural, según un artículo publicado en Nature. Un usuario podría escribir algo como “diseña una proteína fluorescente que emita luz verde bajo iluminación”."
+                "x": "Investigadores de IBM Quantum, el Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD) y el MIT han desarrollado un marco de búsqueda neurosimbólico que combina agentes de modelos de lenguaje grandes (LLM) con solvers deterministas para cartografiar protocolos inexplorados de destilación de estados mágicos. Según se detalla en la preimpresión \"Symmetry and AI-assisted discovery of magic-state factories\", el equipo descubrió 699 clases de fábricas —entre ellas 564 protocolos antes desconocidos— que producen estados non-Clifford con una huella de recursos físicos mínima récord."
               },
               {
                 "t": "p",
-                "x": "El primer módulo de Pinal, T2struct, construye un plano estructural 1D a partir de la descripción; un segundo módulo, SaProt-T, lee ese plano y la instrucción original para generar una secuencia de aminoácidos acorde. Crea varios planos, diseña la mejor secuencia para cada uno y puntúa cada par para elegir el diseño final."
+                "x": "Históricamente se ha estimado que las fábricas de destilación consumirían hasta el 90% de los cúbits físicos y del tiempo de ejecución de una máquina. En el bucle multiagente, agentes de modelos de lenguaje proponen órbitas de simetría de subgrupos específicos, un solver de programación entera construye matrices de circuitos candidatas y un motor de verificación independiente valida las identidades de puertas y las distancias de código; un agente revisor evalúa los registros del solver para reorientar las rondas siguientes."
               },
               {
                 "t": "p",
-                "x": "El equipo partió de 135 millones de secuencias de proteínas y construyó una biblioteca de 1.7 mil millones de pares proteína-texto, a la que añadió estructuras 3D predichas de una base de datos de AlphaFold. Se le pidió diseñar una proteína fluorescente, una enzima que degrada plásticos, una alcohol deshidrogenasa y una H-protein metabólica."
-              },
-              {
-                "t": "p",
-                "x": "Para la proteína luminosa, 50,000 secuencias se filtraron hasta 29 para las pruebas, y solo una llegó a emitir fluorescencia. Para la H-protein, cinco de los 20 candidatos funcionaron, y el mejor elevó el rendimiento de un proceso clave de captura de carbono a 1.7 veces el obtenido con la proteína natural de E. coli. Hace falta más trabajo antes de que Pinal se convierta en una herramienta habitual de laboratorio."
+                "x": "Entre los resultados destacan una fábrica [[1715, 287, 6]], la fábrica de destilación pure-T más pequeña conocida que rompe la barrera de sobrecarga sublineal γ < 1, y fábricas que generan estados entrelazados como CCZ⊗2. Los circuitos verificados se publican en un repositorio de acceso abierto."
               }
             ]
           }
@@ -651,125 +497,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pinal, 일상 언어로\n단백질을 설계하다",
-          "body": "탄소 고정 단백질 20개 중 5개가 작동했고 최고는 천연의 1.7x 출력을 냈다.",
-          "mini_headline": "일상 언어로 만드는 단백질",
+          "headline": "AI가 500-plus\n매직 스테이트 공장 발굴",
+          "body": "IBM Quantum·QuICS가 AI로 매직 스테이트 공장 500여 개를 찾았다.",
+          "mini_headline": "AI 에이전트, 매직 스테이트 공장 발굴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinal은 다양한 기능 프롬프트를 고품질 단백질 후보로 바꾼다. Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "에이전트 루프."
               },
               {
                 "t": "p",
-                "x": "중국 Westlake University(서호대학) 연구팀이 이끄는 과학자들이 자연어 프롬프트만으로 후보 단백질을 생성하는 대규모 AI 모델 Pinal을 개발했고, 그 내용을 Nature에 실린 논문으로 발표했다. 사용자는 “조명을 받으면 녹색 빛을 내는 형광 단백질을 설계하라” 같은 문장을 입력하면 된다."
+                "x": "IBM Quantum, Joint Center for Quantum Information and Computer Science(QuICS / NIST / UMD), MIT 연구진이 대규모 언어 모델(LLM) 에이전트와 결정론적 솔버를 결합해 미지의 매직 스테이트 증류 프로토콜을 탐색하는 신경-기호 검색 프레임워크를 개발했다. 프리프린트 \"Symmetry and AI-assisted discovery of magic-state factories\"에 따르면 연구팀은 699개 공장 클래스를 찾아냈고, 그중 564개는 이전에 알려지지 않은 프로토콜로, 역대 가장 적은 물리 자원으로 non-Clifford 상태를 만들어낸다."
               },
               {
                 "t": "p",
-                "x": "Pinal의 첫 번째 모듈 T2struct는 설명을 바탕으로 1D 구조 설계도를 만들고, 두 번째 모듈 SaProt-T는 그 설계도와 원래 프롬프트를 읽어 이에 맞는 아미노산 서열을 생성한다. 설계도를 여러 개 만들어 각각에 가장 좋은 서열을 설계한 뒤, 각 쌍에 점수를 매겨 최종 설계를 고른다."
+                "x": "증류 공장은 그동안 기계의 물리 큐비트와 실행 시간의 최대 90%를 차지할 것으로 예상돼 왔다. 다중 에이전트 루프에서는 언어 모델 에이전트가 표적 부분군 대칭 궤도를 제안하고, 정수 계획법 솔버가 후보 회로 행렬을 구성하며, 독립 검증 엔진이 게이트 항등식과 코드 거리를 검증한다. 검토 에이전트는 솔버 로그를 평가해 다음 라운드의 방향을 조정한다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 단백질 서열 135 million 개에서 출발해 단백질-텍스트 쌍 1.7 billion 개 규모의 라이브러리를 구축했고, AlphaFold 데이터베이스의 예측 3D 구조를 더했다. 모델에는 형광 단백질, 플라스틱 분해 효소, 알코올 탈수소효소, 대사 H-protein 설계 과제가 주어졌다."
-              },
-              {
-                "t": "p",
-                "x": "형광 단백질의 경우 50,000개 서열을 걸러 29개를 시험했고, 실제로 형광을 낸 것은 하나뿐이었다. H-protein은 후보 20개 중 다섯 개가 작동했고, 가장 좋은 후보는 핵심 탄소 포집 과정의 산출량을 천연 E. coli 단백질을 썼을 때의 1.7배로 끌어올렸다. Pinal이 일상적인 실험 도구가 되려면 추가 연구가 필요하다."
+                "x": "주요 성과로는 γ < 1의 준선형 오버헤드 장벽을 깨는 pure-T 증류 공장 가운데 알려진 것 중 가장 작은 [[1715, 287, 6]] 공장, 그리고 CCZ⊗2 같은 얽힘 상태를 출력하는 공장들이 있다. 검증된 회로는 오픈 액세스 저장소에 공개됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinal、普段の言葉で\nタンパク質を設計",
-          "body": "実験では炭素固定タンパク質20個中5個が機能し、最良は天然の1.7x の出力だった。",
-          "mini_headline": "普段の言葉からタンパク質を",
+          "headline": "AIが魔法状態工場を\n500-plus 発見",
+          "body": "IBM QuantumとQuICSはAIエージェントで魔法状態工場を500超発見した。",
+          "mini_headline": "AIエージェントが魔法状態工場を発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinalは多様な機能プロンプトを高品質なタンパク質候補に変換する。Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "エージェントのループ。"
               },
               {
                 "t": "p",
-                "x": "中国のWestlake University（西湖大学）のチームが率いる研究者らは、自然言語のプロンプトだけから候補タンパク質を生成できる大規模AIモデル「Pinal」を開発し、Natureに論文を発表した。ユーザーは例えば「照明下で緑色の光を放つ蛍光タンパク質を設計して」のように入力する。"
+                "x": "IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）、MITの研究者らは、大規模言語モデル（LLM）エージェントと決定論的ソルバーを組み合わせ、未踏の魔法状態蒸留プロトコルを探索するニューロシンボリック探索フレームワークを開発した。プレプリント「Symmetry and AI-assisted discovery of magic-state factories」によると、チームは699の工場クラスを見いだし、そのうち564はこれまで知られていなかったプロトコルで、過去最小の物理リソースでnon-Clifford状態を生成する。"
               },
               {
                 "t": "p",
-                "x": "Pinalの第一モジュールT2structは記述から1Dの構造設計図を作り、第二モジュールSaProt-Tはその設計図と元のプロンプトを読み取って、対応するアミノ酸配列を生成する。設計図を複数作り、それぞれに最適な配列を設計したうえで、各ペアを採点して最終設計を選ぶ。"
+                "x": "蒸留工場はこれまで、マシンの物理量子ビットと実行時間の最大90%を消費すると見積もられてきた。マルチエージェントのループでは、言語モデルのエージェントが対象とする部分群の対称性軌道を提案し、整数計画ソルバーが候補となる回路行列を構成し、独立した検証エンジンがゲート恒等式と符号距離を検証する。レビュー担当のエージェントはソルバーのログを評価し、次のラウンドの方向を修正する。"
               },
               {
                 "t": "p",
-                "x": "チームは135 million 本のタンパク質配列から出発し、1.7 billion 組のタンパク質・テキストのペアからなるライブラリを構築し、AlphaFoldデータベースから予測3D構造を加えた。モデルには蛍光タンパク質、プラスチック分解酵素、アルコール脱水素酵素、代謝系のH-proteinの設計が課された。"
-              },
-              {
-                "t": "p",
-                "x": "蛍光タンパク質では50,000の配列を29まで絞り込んで試験したが、実際に蛍光を発したのは一つだけだった。H-proteinでは候補20個のうち五つが機能し、最良のものは重要な炭素取り込みプロセスの出力を、天然のE. coliタンパク質を使った場合の1.7倍に高めた。Pinalが日常的な実験ツールになるには、さらなる研究が必要だ。"
+                "x": "主な成果には、γ < 1の準線形オーバーヘッドの壁を破る既知で最小のpure-T蒸留工場である[[1715, 287, 6]]工場や、CCZ⊗2のようなもつれ状態を出力する工場が含まれる。検証済みの回路はオープンアクセスのリポジトリで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinal用日常语言\n设计蛋白质",
-          "body": "实验中20个设计的固碳蛋白有5个起效，最佳者产出达天然蛋白的1.7x 水平。",
-          "mini_headline": "用日常语言生成蛋白质",
+          "headline": "AI智能体找到\n500-plus 魔态工厂",
+          "body": "IBM Quantum与QuICS借AI智能体和求解器找到500多个更省资源的魔态工厂。",
+          "mini_headline": "AI智能体发现魔态工厂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinal能将多样的功能提示转化为高质量的候选蛋白质。Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "智能体循环。"
               },
               {
                 "t": "p",
-                "x": "由中国Westlake University（西湖大学）团队领衔的科学家开发出名为Pinal的大规模AI模型，仅凭自然语言提示即可生成候选蛋白质，相关论文发表于Nature。用户可以输入类似“设计一种在光照下发出绿光的荧光蛋白”这样的指令。"
+                "x": "来自IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）和MIT的研究人员开发了一种神经符号搜索框架，将大语言模型（LLM）智能体与确定性求解器结合，用于探索尚未被发现的魔态蒸馏协议。根据预印本《Symmetry and AI-assisted discovery of magic-state factories》，团队发现了699个工厂类别，其中564个为此前未知的协议，能以创纪录的低物理资源开销产生non-Clifford态。"
               },
               {
                 "t": "p",
-                "x": "Pinal的第一个模块T2struct根据描述构建1D结构蓝图；第二个模块SaProt-T读取该蓝图和原始提示，生成相匹配的氨基酸序列。它会生成多个蓝图，为每个蓝图设计最佳序列，再为每一对打分，选出最终设计。"
+                "x": "蒸馏工厂历来被预计会消耗一台机器最多90%的物理量子比特和运行时间。在多智能体循环中，语言模型智能体提出有针对性的子群对称轨道，整数规划求解器构建候选电路矩阵，独立验证引擎则核验门恒等式和码距；一个审查智能体会评估求解器日志，以调整后续轮次的方向。"
               },
               {
                 "t": "p",
-                "x": "团队从135 million 条蛋白质序列起步，构建了包含1.7 billion 对蛋白质-文本配对的库，并加入来自AlphaFold数据库的预测3D结构。研究人员让它设计荧光蛋白、降解塑料的酶、醇脱氢酶和代谢相关的H-protein。"
-              },
-              {
-                "t": "p",
-                "x": "对于发光蛋白，50,000条序列被筛选至29条进行测试，只有一条真正发出荧光。对于H-protein，20个候选中有五个起效，最佳者将一项关键固碳过程的产出提升到使用天然E. coli蛋白时的1.7倍。Pinal要成为常规实验室工具，还需要进一步研究。"
+                "x": "亮点包括[[1715, 287, 6]]工厂——已知最小的、突破γ < 1亚线性开销壁垒的pure-T蒸馏工厂，以及输出CCZ⊗2等纠缠态的工厂。经过验证的电路已在开放获取的代码库中发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pinal convierte el lenguaje\ncomún en diseños de proteínas",
-          "body": "En laboratorio, 5 de 20 proteínas diseñadas para fijar carbono funcionaron y la mejor rindió 1.7x más que la natural.",
-          "mini_headline": "Proteínas a partir de lenguaje común",
+          "headline": "Agentes de AI hallan 500-plus\nfábricas de estados mágicos",
+          "body": "IBM Quantum y QuICS hallaron con agentes de AI y solvers más de 500 fábricas de estados mágicos que ahorran recursos.",
+          "mini_headline": "Agentes de AI hallan fábricas de estados mágicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
-                "cap": "Pinal traduce diversas instrucciones funcionales en proteínas candidatas de alta calidad. Credit: Nature (2026)"
+                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+                "cap": "El bucle de agentes."
               },
               {
                 "t": "p",
-                "x": "Científicos dirigidos por un equipo de la Westlake University, en China, desarrollaron un modelo de AI a gran escala llamado Pinal que genera proteínas candidatas solo a partir de instrucciones en lenguaje natural, según un artículo publicado en Nature. Un usuario podría escribir algo como “diseña una proteína fluorescente que emita luz verde bajo iluminación”."
+                "x": "Investigadores de IBM Quantum, el Joint Center for Quantum Information and Computer Science (QuICS / NIST / UMD) y el MIT han desarrollado un marco de búsqueda neurosimbólico que combina agentes de modelos de lenguaje grandes (LLM) con solvers deterministas para cartografiar protocolos inexplorados de destilación de estados mágicos. Según se detalla en la preimpresión \"Symmetry and AI-assisted discovery of magic-state factories\", el equipo descubrió 699 clases de fábricas —entre ellas 564 protocolos antes desconocidos— que producen estados non-Clifford con una huella de recursos físicos mínima récord."
               },
               {
                 "t": "p",
-                "x": "El primer módulo de Pinal, T2struct, construye un plano estructural 1D a partir de la descripción; un segundo módulo, SaProt-T, lee ese plano y la instrucción original para generar una secuencia de aminoácidos acorde. Crea varios planos, diseña la mejor secuencia para cada uno y puntúa cada par para elegir el diseño final."
+                "x": "Históricamente se ha estimado que las fábricas de destilación consumirían hasta el 90% de los cúbits físicos y del tiempo de ejecución de una máquina. En el bucle multiagente, agentes de modelos de lenguaje proponen órbitas de simetría de subgrupos específicos, un solver de programación entera construye matrices de circuitos candidatas y un motor de verificación independiente valida las identidades de puertas y las distancias de código; un agente revisor evalúa los registros del solver para reorientar las rondas siguientes."
               },
               {
                 "t": "p",
-                "x": "El equipo partió de 135 millones de secuencias de proteínas y construyó una biblioteca de 1.7 mil millones de pares proteína-texto, a la que añadió estructuras 3D predichas de una base de datos de AlphaFold. Se le pidió diseñar una proteína fluorescente, una enzima que degrada plásticos, una alcohol deshidrogenasa y una H-protein metabólica."
-              },
-              {
-                "t": "p",
-                "x": "Para la proteína luminosa, 50,000 secuencias se filtraron hasta 29 para las pruebas, y solo una llegó a emitir fluorescencia. Para la H-protein, cinco de los 20 candidatos funcionaron, y el mejor elevó el rendimiento de un proceso clave de captura de carbono a 1.7 veces el obtenido con la proteína natural de E. coli. Hace falta más trabajo antes de que Pinal se convierta en una herramienta habitual de laboratorio."
+                "x": "Entre los resultados destacan una fábrica [[1715, 287, 6]], la fábrica de destilación pure-T más pequeña conocida que rompe la barrera de sobrecarga sublineal γ < 1, y fábricas que generan estados entrelazados como CCZ⊗2. Los circuitos verificados se publican en un repositorio de acceso abierto."
               }
             ]
           }
@@ -777,15 +607,15 @@
       }
     },
     {
-      "id": "uw-accent-bias-audio",
+      "id": "ai2-google-neuralgcm-plus",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 채점기, 같은 답에도\n특정 억양엔 점수 낮춰",
-      "body": "네 오디오 모델은 전사가 정확한 같은 답도 중국·나이지리아 억양에 최하점을 줬다.",
-      "mini_headline": "오디오 AI의 억양 편향",
+      "headline": "Ai2와 Google,\n오픈 하이브리드 기후 모델",
+      "body": "Ai2가 대기·해양을 잇는 physics-AI 모델 NeuralGCM+를 만든다.",
+      "mini_headline": "Ai2·Google, 오픈 기후 AI 구축",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/google-climate-partnership",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -793,179 +623,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-            "cap": "Credit: ShotPot from Pexels"
+            "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
           },
           {
             "t": "p",
-            "x": "UW 주도(UW-led) 연구팀이 최첨단 AI 모델에서 특정 억양 화자를 향한 편향을 확인했다. 실험에서는 Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI의 GPT-Audio 1.5, 오픈소스 Qwen 3 Omni가 미국·영국·중국·인도·나이지리아 억양으로 읽은 취업 면접 답변과 발표, 영어 능력 응답을 채점했다."
+            "x": "Ai2가 Google.org에서 삼 년간 수백만 달러 규모의 자금을, Google Research에서 기술 지원을 받아 기후 모델링 이니셔티브를 새로 시작한다. 목표는 기후 전망을 더 빠르고 믿을 만하게 만들 오픈소스 모델 NeuralGCM+를 개발하는 것이다."
           },
           {
             "t": "p",
-            "x": "점수는 대체로 중국·나이지리아 억양이 가장 낮고 인도 억양이 중간, 미국·영국 억양이 가장 높았다. 내용이 똑같고 모델이 말을 정확히 받아 적을 수 있었는데도 전달력과 내용 모두에서 미국·영국 화자가 더 높은 점수를 받았다. 대본 낭독은 ElevenLabs의 AI 음성이 맡았고, 결과는 실제 화자 52명으로 검증했다."
+            "x": "이 프로젝트는 Google Research의 NeuralGCM에서 출발한다. NeuralGCM은 대규모 역학은 물리 방정식으로 시뮬레이션하고, 구름 형성이나 강우처럼 더 작은 규모의 과정은 AI로 표현한다. Ai2는 이를 넓혀 대기와 해양을 함께 시뮬레이션하고, 수년에서 수십 년에 걸친 기후 추세에 집중할 계획이다. 공개 벤치마크에서 대기 전용 NeuralGCM은 단일 TPU로 전 지구 대기의 한 해 치 상태를 여덟 분 만에 시뮬레이션했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
           },
           {
             "t": "p",
-            "x": "공동 제1저자 Orevaoghene Ahia는 “모델들은 중국과 나이지리아 화자가 ‘웅얼거린다’거나 ‘알아듣기 어렵다’고 거듭 주장했지만, 실제로는 억양이 섞인 말을 아주 잘 받아 적었다”고 말했다. 연구는 Oct. 25 부다페스트에서 열린 EMNLP에서 발표됐다."
-          },
-          {
-            "t": "p",
-            "x": "책임저자 Yulia Tsvetkov는 개발자들이 평균 성능만 내놓을 게 아니라 하위 집단·방언별로 나눈 평가 결과도 공개해야 한다고 촉구했다."
+            "x": "NeuralGCM+ 개발은 세 갈래로 진행된다. 대기와 해양을 잇는 작업, 온난화하는 세계에 대한 반응을 개선하는 작업, 도구를 더 쉽게 쓰고 확장할 수 있게 다듬는 작업이다. 모델과 프레임워크는 외부 연구자에게 공개된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI graders score some accents\nlower for the same answers",
-          "body": "Four audio models ranked Chinese and Nigerian accents lowest even for identical content they transcribed accurately.",
-          "mini_headline": "Audio AI's accent bias",
+          "headline": "Ai2 and Google build an open\nhybrid climate model",
+          "body": "Ai2 is building NeuralGCM+, an open hybrid physics-AI model coupling atmosphere and ocean for climate projections.",
+          "mini_headline": "Ai2, Google build open climate AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "A UW-led team found that state-of-the-art AI models were biased against speakers with certain accents. Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI's GPT-Audio 1.5 and the open-source Qwen 3 Omni scored job interview answers, presentations and English proficiency responses read in American, British, Chinese, Indian and Nigerian accents."
+                "x": "Ai2 is launching a new climate modeling initiative with multimillion-dollar, three-year funding from Google.org and technical support from Google Research, to develop NeuralGCM+, an open-source model designed to make climate projections faster and more reliable."
               },
               {
                 "t": "p",
-                "x": "The models generally ranked Chinese and Nigerian accents the lowest, Indian in the middle and American and British the highest. Even when the content was exactly the same and the models could accurately transcribe the speech, they ranked both delivery and content higher for American and British speakers. AI voices from ElevenLabs read the scripts, and results were validated with 52 human speakers."
+                "x": "The project builds on Google Research's NeuralGCM, which uses physical equations to simulate large scale dynamics and AI to represent smaller-scale processes such as cloud formation and rainfall. Ai2 will extend it to simulate the atmosphere and ocean together, focusing on climate trends over years to decades. In a public benchmark, an atmosphere-only version of NeuralGCM simulated a year of atmospheric conditions for the entire globe in eight minutes on a single TPU."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "\"Even though they repeatedly claimed Chinese and Nigerian speakers 'mumbled' or were 'difficult to understand,' the models were actually very good at transcribing the accented speech,\" said co-lead author Orevaoghene Ahia. The work was presented Oct. 25 at EMNLP in Budapest."
-              },
-              {
-                "t": "p",
-                "x": "Senior author Yulia Tsvetkov urged developers to publish evaluations broken down by subpopulations and dialects, not only average performance."
+                "x": "NeuralGCM+ will be developed along three fronts: connecting the atmosphere and ocean, improving the response to a warming world, and making the tools easier to use and extend, with models and frameworks released for outside researchers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 채점기, 같은 답에도\n특정 억양엔 점수 낮춰",
-          "body": "네 오디오 모델은 전사가 정확한 같은 답도 중국·나이지리아 억양에 최하점을 줬다.",
-          "mini_headline": "오디오 AI의 억양 편향",
+          "headline": "Ai2와 Google,\n오픈 하이브리드 기후 모델",
+          "body": "Ai2가 대기·해양을 잇는 physics-AI 모델 NeuralGCM+를 만든다.",
+          "mini_headline": "Ai2·Google, 오픈 기후 AI 구축",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "UW 주도(UW-led) 연구팀이 최첨단 AI 모델에서 특정 억양 화자를 향한 편향을 확인했다. 실험에서는 Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI의 GPT-Audio 1.5, 오픈소스 Qwen 3 Omni가 미국·영국·중국·인도·나이지리아 억양으로 읽은 취업 면접 답변과 발표, 영어 능력 응답을 채점했다."
+                "x": "Ai2가 Google.org에서 삼 년간 수백만 달러 규모의 자금을, Google Research에서 기술 지원을 받아 기후 모델링 이니셔티브를 새로 시작한다. 목표는 기후 전망을 더 빠르고 믿을 만하게 만들 오픈소스 모델 NeuralGCM+를 개발하는 것이다."
               },
               {
                 "t": "p",
-                "x": "점수는 대체로 중국·나이지리아 억양이 가장 낮고 인도 억양이 중간, 미국·영국 억양이 가장 높았다. 내용이 똑같고 모델이 말을 정확히 받아 적을 수 있었는데도 전달력과 내용 모두에서 미국·영국 화자가 더 높은 점수를 받았다. 대본 낭독은 ElevenLabs의 AI 음성이 맡았고, 결과는 실제 화자 52명으로 검증했다."
+                "x": "이 프로젝트는 Google Research의 NeuralGCM에서 출발한다. NeuralGCM은 대규모 역학은 물리 방정식으로 시뮬레이션하고, 구름 형성이나 강우처럼 더 작은 규모의 과정은 AI로 표현한다. Ai2는 이를 넓혀 대기와 해양을 함께 시뮬레이션하고, 수년에서 수십 년에 걸친 기후 추세에 집중할 계획이다. 공개 벤치마크에서 대기 전용 NeuralGCM은 단일 TPU로 전 지구 대기의 한 해 치 상태를 여덟 분 만에 시뮬레이션했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "공동 제1저자 Orevaoghene Ahia는 “모델들은 중국과 나이지리아 화자가 ‘웅얼거린다’거나 ‘알아듣기 어렵다’고 거듭 주장했지만, 실제로는 억양이 섞인 말을 아주 잘 받아 적었다”고 말했다. 연구는 Oct. 25 부다페스트에서 열린 EMNLP에서 발표됐다."
-              },
-              {
-                "t": "p",
-                "x": "책임저자 Yulia Tsvetkov는 개발자들이 평균 성능만 내놓을 게 아니라 하위 집단·방언별로 나눈 평가 결과도 공개해야 한다고 촉구했다."
+                "x": "NeuralGCM+ 개발은 세 갈래로 진행된다. 대기와 해양을 잇는 작업, 온난화하는 세계에 대한 반응을 개선하는 작업, 도구를 더 쉽게 쓰고 확장할 수 있게 다듬는 작업이다. 모델과 프레임워크는 외부 연구자에게 공개된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI採点、同じ答えでも\n一部の訛りを低評価",
-          "body": "四つの音声モデルは正確に書き起こした同じ内容でも中国・ナイジェリア訛りを最低評価した。",
-          "mini_headline": "音声AIの訛りバイアス",
+          "headline": "Ai2とGoogleが作る\nオープン気候モデル",
+          "body": "Ai2は大気と海洋を結ぶphysics-AI 気候モデルNeuralGCM+を開発中だ。",
+          "mini_headline": "Ai2とGoogle、オープン気候AIを構築",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "UW主導（UW-led）の研究チームは、最先端のAIモデルが特定の訛りを持つ話者に偏りを示すことを明らかにした。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAIのGPT-Audio 1.5、オープンソースのQwen 3 Omniが、アメリカ、イギリス、中国、インド、ナイジェリアの訛りで読まれた就職面接の回答、プレゼンテーション、英語能力の回答を採点した。"
+                "x": "Ai2はGoogle.orgから三年間で数百万ドル規模の資金提供を、Google Researchから技術支援を受け、新たな気候モデリングの取り組みを始める。気候予測をより速く、より信頼できるものにするよう設計されたオープンソースモデル、NeuralGCM+の開発が目的だ。"
               },
               {
                 "t": "p",
-                "x": "モデルは概して中国とナイジェリアの訛りを最も低く、インドを中間、アメリカとイギリスを最も高く評価した。内容が完全に同じで、モデルが音声を正確に書き起こせた場合でも、話し方と内容の両方でアメリカとイギリスの話者を高く評価した。原稿はElevenLabsのAI音声が読み上げ、結果は52人の実際の話者で検証された。"
+                "x": "このプロジェクトはGoogle ResearchのNeuralGCMを土台とする。NeuralGCMは物理方程式で大規模な力学をシミュレートし、雲の形成や降雨といった小規模な過程をAIで表現する。Ai2はこれを拡張して大気と海洋を一体的にシミュレートし、数年から数十年にわたる気候の傾向に焦点を当てる。公開ベンチマークでは、大気のみのバージョンのNeuralGCMが、単一のTPUで地球全体の一年分の大気状態を八分でシミュレートした。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "共同筆頭著者のOrevaoghene Ahiaは「モデルは中国やナイジェリアの話者について『もごもご話す』『聞き取りにくい』と繰り返し主張したが、実際には訛りのある音声を非常にうまく書き起こしていた」と述べた。研究はOct. 25 、ブダペストで開かれたEMNLPで発表された。"
-              },
-              {
-                "t": "p",
-                "x": "責任著者のYulia Tsvetkovは開発者に対し、平均性能だけでなく、サブグループや方言ごとに分けた評価を公開するよう求めた。"
+                "x": "NeuralGCM+は三つの方向で開発される。大気と海洋の結合、温暖化する世界への応答の改善、そしてツールを使いやすく拡張しやすくすることで、モデルとフレームワークは外部の研究者向けに公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI评分员对同样回答\n给某些口音打低分",
-          "body": "四个音频模型即便准确转写了相同内容，仍给中国和尼日利亚口音打出最低分。",
-          "mini_headline": "音频AI的口音偏见",
+          "headline": "Ai2携手Google\n打造开放混合气候模型",
+          "body": "Ai2正在打造耦合大气与海洋的开放physics-AI混合模型NeuralGCM+。",
+          "mini_headline": "Ai2携手Google打造开放气候AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "一支由UW牵头（UW-led）的团队发现，最先进的AI模型对带有某些口音的说话者存在偏见。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAI的GPT-Audio 1.5以及开源的Qwen 3 Omni，对以美国、英国、中国、印度和尼日利亚口音朗读的求职面试回答、演讲和英语水平回答进行了评分。"
+                "x": "Ai2启动一项新的气候建模计划，获得Google.org为期三年、数百万美元的资助以及Google Research的技术支持，用于开发NeuralGCM+——一个旨在让气候预测更快、更可靠的开源模型。"
               },
               {
                 "t": "p",
-                "x": "这些模型通常给中国和尼日利亚口音打最低分，印度口音居中，美国和英国口音最高。即使内容完全相同、模型也能准确转写语音，它们在表达和内容两方面仍给美国和英国说话者打出更高分。脚本由ElevenLabs的AI语音朗读，结果经52名真人说话者验证。"
+                "x": "该项目以Google Research的NeuralGCM为基础。NeuralGCM用物理方程模拟大尺度动力过程，并用AI表征云的形成和降雨等较小尺度过程。Ai2将对其进行扩展，同时模拟大气和海洋，重点关注数年至数十年的气候趋势。在一项公开基准测试中，仅含大气的NeuralGCM版本在单个TPU上用八分钟模拟了全球一年的大气状况。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "共同第一作者Orevaoghene Ahia说：“尽管模型一再声称中国和尼日利亚说话者‘含糊不清’或‘难以听懂’，它们其实非常擅长转写带口音的语音。”该研究于Oct. 25 在布达佩斯举行的EMNLP上发表。"
-              },
-              {
-                "t": "p",
-                "x": "资深作者Yulia Tsvetkov敦促开发者不仅公布平均性能，还应公布按子群体和方言细分的评估结果。"
+                "x": "NeuralGCM+将沿三个方向开发：连接大气与海洋、改进对变暖世界的响应，以及让工具更易于使用和扩展，模型和框架将向外部研究人员开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Con iguales respuestas, la AI\npuntúa peor a ciertos acentos",
-          "body": "Cuatro modelos de audio dieron la peor nota a acentos chinos y nigerianos aun con contenido idéntico bien transcrito.",
-          "mini_headline": "Sesgo de acento en la AI de audio",
+          "headline": "Ai2 y Google crean un modelo\nclimático híbrido y abierto",
+          "body": "Ai2 desarrolla NeuralGCM+, un modelo híbrido abierto physics-AI que acopla atmósfera y océano para proyectar el clima.",
+          "mini_headline": "Ai2 y Google crean una AI climática abierta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Un equipo liderado por la UW (UW-led) descubrió que los modelos de AI más avanzados presentaban sesgos contra hablantes con ciertos acentos. Gemini 2.5 Pro, Gemini 2.5 Flash, GPT-Audio 1.5 de OpenAI y el modelo de código abierto Qwen 3 Omni calificaron respuestas de entrevistas de trabajo, presentaciones y respuestas de dominio del inglés leídas con acentos estadounidense, británico, chino, indio y nigeriano."
+                "x": "Ai2 pone en marcha una nueva iniciativa de modelado climático, con financiación de varios millones de dólares a tres años de Google.org y apoyo técnico de Google Research, para desarrollar NeuralGCM+, un modelo de código abierto diseñado para que las proyecciones climáticas sean más rápidas y fiables."
               },
               {
                 "t": "p",
-                "x": "En general, los modelos situaron los acentos chino y nigeriano en lo más bajo, el indio en el medio y el estadounidense y el británico en lo más alto. Incluso cuando el contenido era exactamente el mismo y los modelos podían transcribir el habla con precisión, puntuaron más alto tanto la expresión como el contenido de los hablantes estadounidenses y británicos. Voces de AI de ElevenLabs leyeron los guiones, y los resultados se validaron con 52 hablantes humanos."
+                "x": "El proyecto parte de NeuralGCM, de Google Research, que usa ecuaciones físicas para simular la dinámica a gran escala y AI para representar procesos de menor escala, como la formación de nubes y la lluvia. Ai2 lo ampliará para simular conjuntamente la atmósfera y el océano, con foco en las tendencias climáticas a lo largo de años y décadas. En una prueba comparativa pública, una versión de NeuralGCM solo atmosférica simuló un año de condiciones atmosféricas de todo el planeta en ocho minutos con una sola TPU."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "“Aunque afirmaban repetidamente que los hablantes chinos y nigerianos ‘mascullaban’ o eran ‘difíciles de entender’, los modelos en realidad transcribían muy bien el habla con acento”, dijo la coautora principal Orevaoghene Ahia. El trabajo se presentó el 25 de octubre en EMNLP, en Budapest."
-              },
-              {
-                "t": "p",
-                "x": "La autora sénior Yulia Tsvetkov instó a los desarrolladores a publicar evaluaciones desglosadas por subpoblaciones y dialectos, no solo el rendimiento promedio."
+                "x": "NeuralGCM+ se desarrollará en tres frentes: conectar la atmósfera y el océano, mejorar la respuesta ante un mundo que se calienta y hacer que las herramientas sean más fáciles de usar y ampliar, con modelos y marcos de trabajo publicados para investigadores externos."
               }
             ]
           }
@@ -973,125 +797,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 채점기, 같은 답에도\n특정 억양엔 점수 낮춰",
-          "body": "네 오디오 모델은 전사가 정확한 같은 답도 중국·나이지리아 억양에 최하점을 줬다.",
-          "mini_headline": "오디오 AI의 억양 편향",
+          "headline": "Ai2와 Google,\n오픈 하이브리드 기후 모델",
+          "body": "Ai2가 대기·해양을 잇는 physics-AI 모델 NeuralGCM+를 만든다.",
+          "mini_headline": "Ai2·Google, 오픈 기후 AI 구축",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "UW 주도(UW-led) 연구팀은 최첨단 AI 모델이 특정 억양을 쓰는 화자에게 편향돼 있다는 사실을 확인했다. Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI의 GPT-Audio 1.5, 오픈소스 Qwen 3 Omni가 미국·영국·중국·인도·나이지리아 억양으로 읽은 취업 면접 답변, 발표, 영어 능력 응답을 채점했다."
+                "x": "Ai2가 Google.org의 수백만 달러 규모, 삼 년짜리 자금 지원과 Google Research의 기술 지원을 받아 새로운 기후 모델링 이니셔티브를 시작한다. 목표는 기후 전망을 더 빠르고 믿을 수 있게 만들도록 설계된 오픈소스 모델 NeuralGCM+의 개발이다."
               },
               {
                 "t": "p",
-                "x": "모델들은 대체로 중국과 나이지리아 억양을 가장 낮게, 인도 억양을 중간으로, 미국과 영국 억양을 가장 높게 평가했다. 내용이 완전히 같고 모델이 말을 정확히 받아 적을 수 있었는데도, 전달력과 내용 모두에서 미국·영국 화자에게 더 높은 점수를 줬다. 대본은 ElevenLabs의 AI 음성이 읽었고, 결과는 실제 화자 52명으로 검증했다."
+                "x": "이 프로젝트는 Google Research의 NeuralGCM을 토대로 한다. NeuralGCM은 물리 방정식으로 대규모 역학을 시뮬레이션하고, 구름 형성과 강우 같은 더 작은 규모의 과정은 AI로 표현한다. Ai2는 이를 확장해 대기와 해양을 함께 시뮬레이션하고, 수년에서 수십 년에 걸친 기후 추세에 초점을 맞출 계획이다. 공개 벤치마크에서 대기 전용 버전의 NeuralGCM은 단일 TPU로 전 지구의 한 해 치 대기 상태를 여덟 분 만에 시뮬레이션했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "공동 제1저자 Orevaoghene Ahia는 “모델들은 중국과 나이지리아 화자가 ‘웅얼거린다’거나 ‘알아듣기 어렵다’고 거듭 주장했지만, 실제로는 억양이 섞인 말을 아주 잘 받아 적었다”고 말했다. 이 연구는 Oct. 25 부다페스트에서 열린 EMNLP에서 발표됐다."
-              },
-              {
-                "t": "p",
-                "x": "책임저자 Yulia Tsvetkov는 개발자들이 평균 성능만이 아니라 하위 집단과 방언별로 나눈 평가 결과를 공개해야 한다고 촉구했다."
+                "x": "NeuralGCM+는 세 갈래로 개발된다. 대기와 해양의 연결, 온난화하는 세계에 대한 반응 개선, 도구를 더 쉽게 쓰고 확장할 수 있게 만드는 작업이며, 모델과 프레임워크는 외부 연구자에게 공개된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI採点、同じ答えでも\n一部の訛りを低評価",
-          "body": "四つの音声モデルは正確に書き起こした同じ内容でも中国・ナイジェリア訛りを最低評価した。",
-          "mini_headline": "音声AIの訛りバイアス",
+          "headline": "Ai2とGoogleが作る\nオープン気候モデル",
+          "body": "Ai2は大気と海洋を結ぶphysics-AI 気候モデルNeuralGCM+を開発中だ。",
+          "mini_headline": "Ai2とGoogle、オープン気候AIを構築",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "UW主導（UW-led）の研究チームは、最先端のAIモデルが特定の訛りを持つ話者に偏りを示すことを明らかにした。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAIのGPT-Audio 1.5、オープンソースのQwen 3 Omniが、アメリカ、イギリス、中国、インド、ナイジェリアの訛りで読まれた就職面接の回答、プレゼンテーション、英語能力の回答を採点した。"
+                "x": "Ai2はGoogle.orgから三年間で数百万ドル規模の資金提供を、Google Researchから技術支援を受け、新たな気候モデリングの取り組みを始める。気候予測をより速く、より信頼できるものにするよう設計されたオープンソースモデル、NeuralGCM+の開発が目的だ。"
               },
               {
                 "t": "p",
-                "x": "モデルは概して中国とナイジェリアの訛りを最も低く、インドを中間、アメリカとイギリスを最も高く評価した。内容が完全に同じで、モデルが音声を正確に書き起こせた場合でも、話し方と内容の両方でアメリカとイギリスの話者を高く評価した。原稿はElevenLabsのAI音声が読み上げ、結果は52人の実際の話者で検証された。"
+                "x": "このプロジェクトはGoogle ResearchのNeuralGCMを土台とする。NeuralGCMは物理方程式で大規模な力学をシミュレートし、雲の形成や降雨といった小規模な過程をAIで表現する。Ai2はこれを拡張して大気と海洋を一体的にシミュレートし、数年から数十年にわたる気候の傾向に焦点を当てる。公開ベンチマークでは、大気のみのバージョンのNeuralGCMが、単一のTPUで地球全体の一年分の大気状態を八分でシミュレートした。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "共同筆頭著者のOrevaoghene Ahiaは「モデルは中国やナイジェリアの話者について『もごもご話す』『聞き取りにくい』と繰り返し主張したが、実際には訛りのある音声を非常にうまく書き起こしていた」と述べた。研究はOct. 25 、ブダペストで開かれたEMNLPで発表された。"
-              },
-              {
-                "t": "p",
-                "x": "責任著者のYulia Tsvetkovは開発者に対し、平均性能だけでなく、サブグループや方言ごとに分けた評価を公開するよう求めた。"
+                "x": "NeuralGCM+は三つの方向で開発される。大気と海洋の結合、温暖化する世界への応答の改善、そしてツールを使いやすく拡張しやすくすることで、モデルとフレームワークは外部の研究者向けに公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI评分员对同样回答\n给某些口音打低分",
-          "body": "四个音频模型即便准确转写了相同内容，仍给中国和尼日利亚口音打出最低分。",
-          "mini_headline": "音频AI的口音偏见",
+          "headline": "Ai2携手Google\n打造开放混合气候模型",
+          "body": "Ai2正在打造耦合大气与海洋的开放physics-AI混合模型NeuralGCM+。",
+          "mini_headline": "Ai2携手Google打造开放气候AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "一支由UW牵头（UW-led）的团队发现，最先进的AI模型对带有某些口音的说话者存在偏见。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAI的GPT-Audio 1.5以及开源的Qwen 3 Omni，对以美国、英国、中国、印度和尼日利亚口音朗读的求职面试回答、演讲和英语水平回答进行了评分。"
+                "x": "Ai2启动一项新的气候建模计划，获得Google.org为期三年、数百万美元的资助以及Google Research的技术支持，用于开发NeuralGCM+——一个旨在让气候预测更快、更可靠的开源模型。"
               },
               {
                 "t": "p",
-                "x": "这些模型通常给中国和尼日利亚口音打最低分，印度口音居中，美国和英国口音最高。即使内容完全相同、模型也能准确转写语音，它们在表达和内容两方面仍给美国和英国说话者打出更高分。脚本由ElevenLabs的AI语音朗读，结果经52名真人说话者验证。"
+                "x": "该项目以Google Research的NeuralGCM为基础。NeuralGCM用物理方程模拟大尺度动力过程，并用AI表征云的形成和降雨等较小尺度过程。Ai2将对其进行扩展，同时模拟大气和海洋，重点关注数年至数十年的气候趋势。在一项公开基准测试中，仅含大气的NeuralGCM版本在单个TPU上用八分钟模拟了全球一年的大气状况。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "共同第一作者Orevaoghene Ahia说：“尽管模型一再声称中国和尼日利亚说话者‘含糊不清’或‘难以听懂’，它们其实非常擅长转写带口音的语音。”该研究于Oct. 25 在布达佩斯举行的EMNLP上发表。"
-              },
-              {
-                "t": "p",
-                "x": "资深作者Yulia Tsvetkov敦促开发者不仅公布平均性能，还应公布按子群体和方言细分的评估结果。"
+                "x": "NeuralGCM+将沿三个方向开发：连接大气与海洋、改进对变暖世界的响应，以及让工具更易于使用和扩展，模型和框架将向外部研究人员开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Con iguales respuestas, la AI\npuntúa peor a ciertos acentos",
-          "body": "Cuatro modelos de audio dieron la peor nota a acentos chinos y nigerianos aun con contenido idéntico bien transcrito.",
-          "mini_headline": "Sesgo de acento en la AI de audio",
+          "headline": "Ai2 y Google crean un modelo\nclimático híbrido y abierto",
+          "body": "Ai2 desarrolla NeuralGCM+, un modelo híbrido abierto physics-AI que acopla atmósfera y océano para proyectar el clima.",
+          "mini_headline": "Ai2 y Google crean una AI climática abierta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
-                "cap": "Credit: ShotPot from Pexels"
+                "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Un equipo liderado por la UW (UW-led) descubrió que los modelos de AI más avanzados presentaban sesgos contra hablantes con ciertos acentos. Gemini 2.5 Pro, Gemini 2.5 Flash, GPT-Audio 1.5 de OpenAI y el modelo de código abierto Qwen 3 Omni calificaron respuestas de entrevistas de trabajo, presentaciones y respuestas de dominio del inglés leídas con acentos estadounidense, británico, chino, indio y nigeriano."
+                "x": "Ai2 pone en marcha una nueva iniciativa de modelado climático, con financiación de varios millones de dólares a tres años de Google.org y apoyo técnico de Google Research, para desarrollar NeuralGCM+, un modelo de código abierto diseñado para que las proyecciones climáticas sean más rápidas y fiables."
               },
               {
                 "t": "p",
-                "x": "En general, los modelos situaron los acentos chino y nigeriano en lo más bajo, el indio en el medio y el estadounidense y el británico en lo más alto. Incluso cuando el contenido era exactamente el mismo y los modelos podían transcribir el habla con precisión, puntuaron más alto tanto la expresión como el contenido de los hablantes estadounidenses y británicos. Voces de AI de ElevenLabs leyeron los guiones, y los resultados se validaron con 52 hablantes humanos."
+                "x": "El proyecto parte de NeuralGCM, de Google Research, que usa ecuaciones físicas para simular la dinámica a gran escala y AI para representar procesos de menor escala, como la formación de nubes y la lluvia. Ai2 lo ampliará para simular conjuntamente la atmósfera y el océano, con foco en las tendencias climáticas a lo largo de años y décadas. En una prueba comparativa pública, una versión de NeuralGCM solo atmosférica simuló un año de condiciones atmosféricas de todo el planeta en ocho minutos con una sola TPU."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "“Aunque afirmaban repetidamente que los hablantes chinos y nigerianos ‘mascullaban’ o eran ‘difíciles de entender’, los modelos en realidad transcribían muy bien el habla con acento”, dijo la coautora principal Orevaoghene Ahia. El trabajo se presentó el 25 de octubre en EMNLP, en Budapest."
-              },
-              {
-                "t": "p",
-                "x": "La autora sénior Yulia Tsvetkov instó a los desarrolladores a publicar evaluaciones desglosadas por subpoblaciones y dialectos, no solo el rendimiento promedio."
+                "x": "NeuralGCM+ se desarrollará en tres frentes: conectar la atmósfera y el océano, mejorar la respuesta ante un mundo que se calienta y hacer que las herramientas sean más fáciles de usar y ampliar, con modelos y marcos de trabajo publicados para investigadores externos."
               }
             ]
           }
@@ -1099,15 +919,15 @@
       }
     },
     {
-      "id": "ai2-statebench-tracking",
+      "id": "quanta-llm-introspection",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "StateBench가 본\n상태 놓치는 프런티어 모델",
-      "body": "프런티어 모델은 최장 문제에서 13% 이하로 떨어졌고 소형 하이브리드는 일반화했다.",
-      "mini_headline": "Ai2의 StateBench",
+      "headline": "AI 모델은 자기 생각을\n알아챌 수 있을까",
+      "body": "연구진은 언어 모델 활성값에 '생각'을 넣고 모델이 이를 알아채 보고하는지 본다.",
+      "mini_headline": "AI 모델은 제 생각을 알까",
       "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/statebench",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1115,245 +935,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
           },
           {
             "t": "p",
-            "x": "Ai2가 장문 맥락 상태 추적 벤치마크 StateBench를 공개했다. 긴 문서 속 개체 정보가 바뀌어 가는 과정을 언어 모델이 얼마나 잘 따라가는지 잰다. 난이도는 r-trivial(불변 할당), aperiodic(값에 의한 재할당), soluble(자기 참조 업데이트), general finite(참조에 의한 할당) 네 단계다."
-          },
-          {
-            "t": "p",
-            "x": "Olmo 3와 Olmo Hybrid를 비롯한 오픈 사전학습 모델은 r-trivial 문제를 잘 풀었다. 하지만 aperiodic 문제는 입력이 길수록 정확도가 떨어졌고, general finite 문제에서는 무작위 수준을 벗어나지 못했다."
+            "x": "연구자들은 대규모 언어 모델에 \"생각\"을 직접 주입해 AI가 내성할 수 있는지 알아보는 중이다. 2025년 Anthropic의 연구자 Jack Lindsey는 Claude의 사본들에 데님, 비밀, 채소 같은 개념을 주입한 뒤 \"주입된 생각이 감지되나요? 그렇다면 그 생각은 무엇에 관한 것인가요?\"라고 물었다."
           },
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+            "cap": "Anthropic의 연구자 Jack Lindsey는 대규모 언어 모델에 일종의 디지털 신경외과 수술을 해 보기로 했다. 모델이 \"내성\"할 수 있는지 알아보려는 시험이었다."
           },
           {
             "t": "p",
-            "x": "프런티어 모델 Gemini 3.8 Flash, Claude Opus 5.5, GPT-6 Sol과 Luna도 쉬운 단계는 잘 풀었다. 입력이 길어지자 정확도가 가파르게 떨어졌고, 가장 긴 general finite 문제에서는 13% 이하까지 내려갔다."
+            "x": "가장 새롭고 강력한 버전은 시도의 20%에서 주입을 정확히 짚어내고 해당 개념을 설명했다. 대조군 모델은 주입을 받았다고 보고한 적이 한 번도 없었다."
           },
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+            "cap": "Kyle Mahowald는 언어 모델이 \"주입된 생각\"을 감지하는 능력이 겉보기보다 제한적이라는 사실을 밝히는 데 힘을 보탰다. 그래도 놀라운 능력인 것은 여전하다."
           },
           {
             "t": "p",
-            "x": "StateBench로 직접 학습시킨 275-million-parameter 모델들에서는 결과가 달랐다. Gated DeltaNet과 하이브리드 모델은 r-trivial, aperiodic, soluble 문제에서 수만 번의 할당까지 거의 완벽하게 일반화했다. Transformers는 시퀀스가 길수록 성능이 떨어졌고 general finite 문제는 끝내 익히지 못했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+            "x": "Kyle Mahowald와 Harvey Lederman은 대형 오픈소스 모델로 같은 실험을 반복했다. 모델은 내부 처리 과정에서 뭔가 이상한 일이 생기면 감지할 수는 있어도 구체적인 내용까지는 모른다는 것이 이들의 결론이다. 두 사람은 이 능력을 \"이상 탐지\"라고 불렀다. Lederman은 \"이상을 알아챌 수 있다는 사실 자체가 말도 안 되는 일\"이라고 말했다. 이를 내성으로 볼 수 있는지를 두고 논쟁은 여전히 뜨겁다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "StateBench shows frontier\nmodels losing track of state",
-          "body": "Frontier models fall to 13% accuracy or lower on the longest problems, while small trained hybrid models generalize.",
-          "mini_headline": "Ai2's StateBench",
+          "headline": "Can AI models notice\ntheir own thoughts",
+          "body": "Researchers inject 'thoughts' into language models' activations to test whether the models can notice and report them.",
+          "mini_headline": "Do AI models know their thoughts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2 is introducing StateBench, a benchmark for long-context state tracking—how well language models keep track of information about entities in long documents as they evolve. It has four difficulty levels: r-trivial (immutable assignment), aperiodic (reassignment by value), soluble (self-referential updates) and general finite (assignment by reference)."
-              },
-              {
-                "t": "p",
-                "x": "Open pretrained models, including Olmo 3 and Olmo Hybrid, performed well on r-trivial problems, lost accuracy on aperiodic ones as inputs grew, and stayed at chance on general finite problems."
+                "x": "By injecting \"thoughts\" directly into large language models, researchers are trying to map out AI's capacity for introspection. In 2025, Jack Lindsey, a researcher at Anthropic, injected concepts such as denim, secrecy, or vegetables into copies of Claude and asked, \"Do you detect an injected thought? If so, what is the injected thought about?\""
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Jack Lindsey, a researcher at Anthropic, set out to test whether large language models can \"introspect\" by subjecting them to a kind of digital neurosurgery."
               },
               {
                 "t": "p",
-                "x": "Frontier models Gemini 3.8 Flash, Claude Opus 5.5, and GPT-6 Sol and Luna did well on the easier levels, but accuracy fell sharply as inputs grew, dropping to 13% or lower on the longest general finite problems."
+                "x": "In 20% of trials with the most recent and powerful version, the models correctly flagged the injection and described the concept, while models in the control group never reported receiving an injection."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowald helped show that language models' ability to detect \"injected thoughts\" is more limited than it seems — though still surprising."
               },
               {
                 "t": "p",
-                "x": "275-million-parameter models trained directly on StateBench told a different story: Gated DeltaNet and hybrid models generalized almost perfectly on r-trivial, aperiodic and soluble problems out to tens of thousands of assignments. Transformers degraded on longer sequences and never learned general finite problems."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle Mahowald and Harvey Lederman repeated the experiment on large open-source models and concluded that models can detect when something unusual happens in their internal processing, but not specific details about it — an ability they called \"anomaly detection.\" \"The fact that it can notice the anomaly is insane,\" Lederman said. Whether that should count as introspection remains hotly contested."
               }
             ]
           }
         },
         "ko": {
-          "headline": "StateBench가 본\n상태 놓치는 프런티어 모델",
-          "body": "프런티어 모델은 최장 문제에서 13% 이하로 떨어졌고 소형 하이브리드는 일반화했다.",
-          "mini_headline": "Ai2의 StateBench",
+          "headline": "AI 모델은 자기 생각을\n알아챌 수 있을까",
+          "body": "연구진은 언어 모델 활성값에 '생각'을 넣고 모델이 이를 알아채 보고하는지 본다.",
+          "mini_headline": "AI 모델은 제 생각을 알까",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2가 장문 맥락 상태 추적 벤치마크 StateBench를 공개했다. 긴 문서 속 개체 정보가 바뀌어 가는 과정을 언어 모델이 얼마나 잘 따라가는지 잰다. 난이도는 r-trivial(불변 할당), aperiodic(값에 의한 재할당), soluble(자기 참조 업데이트), general finite(참조에 의한 할당) 네 단계다."
-              },
-              {
-                "t": "p",
-                "x": "Olmo 3와 Olmo Hybrid를 비롯한 오픈 사전학습 모델은 r-trivial 문제를 잘 풀었다. 하지만 aperiodic 문제는 입력이 길수록 정확도가 떨어졌고, general finite 문제에서는 무작위 수준을 벗어나지 못했다."
+                "x": "연구자들은 대규모 언어 모델에 \"생각\"을 직접 주입해 AI가 내성할 수 있는지 알아보는 중이다. 2025년 Anthropic의 연구자 Jack Lindsey는 Claude의 사본들에 데님, 비밀, 채소 같은 개념을 주입한 뒤 \"주입된 생각이 감지되나요? 그렇다면 그 생각은 무엇에 관한 것인가요?\"라고 물었다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Anthropic의 연구자 Jack Lindsey는 대규모 언어 모델에 일종의 디지털 신경외과 수술을 해 보기로 했다. 모델이 \"내성\"할 수 있는지 알아보려는 시험이었다."
               },
               {
                 "t": "p",
-                "x": "프런티어 모델 Gemini 3.8 Flash, Claude Opus 5.5, GPT-6 Sol과 Luna도 쉬운 단계는 잘 풀었다. 입력이 길어지자 정확도가 가파르게 떨어졌고, 가장 긴 general finite 문제에서는 13% 이하까지 내려갔다."
+                "x": "가장 새롭고 강력한 버전은 시도의 20%에서 주입을 정확히 짚어내고 해당 개념을 설명했다. 대조군 모델은 주입을 받았다고 보고한 적이 한 번도 없었다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowald는 언어 모델이 \"주입된 생각\"을 감지하는 능력이 겉보기보다 제한적이라는 사실을 밝히는 데 힘을 보탰다. 그래도 놀라운 능력인 것은 여전하다."
               },
               {
                 "t": "p",
-                "x": "StateBench로 직접 학습시킨 275-million-parameter 모델들에서는 결과가 달랐다. Gated DeltaNet과 하이브리드 모델은 r-trivial, aperiodic, soluble 문제에서 수만 번의 할당까지 거의 완벽하게 일반화했다. Transformers는 시퀀스가 길수록 성능이 떨어졌고 general finite 문제는 끝내 익히지 못했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle Mahowald와 Harvey Lederman은 대형 오픈소스 모델로 같은 실험을 반복했다. 모델은 내부 처리 과정에서 뭔가 이상한 일이 생기면 감지할 수는 있어도 구체적인 내용까지는 모른다는 것이 이들의 결론이다. 두 사람은 이 능력을 \"이상 탐지\"라고 불렀다. Lederman은 \"이상을 알아챌 수 있다는 사실 자체가 말도 안 되는 일\"이라고 말했다. 이를 내성으로 볼 수 있는지를 두고 논쟁은 여전히 뜨겁다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "StateBench、最先端\nモデルの状態追跡の限界",
-          "body": "最先端モデルは最長の問題で正答率13%以下に落ち、学習済みの小型ハイブリッドは汎化した。",
-          "mini_headline": "Ai2のStateBench",
+          "headline": "AIモデルは自らの\n思考に気づけるか",
+          "body": "研究者らは言語モデルの活性化に「思考」を注入し、モデルがそれに気づき報告できるかを試す。",
+          "mini_headline": "AIモデルは自分の思考を知るか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2は、長文脈の状態追跡、すなわち長い文書の中で変化していくエンティティの情報を言語モデルがどれだけ追い続けられるかを測るベンチマーク「StateBench」を発表した。難易度は四段階で、r-trivial（不変の代入）、aperiodic（値による再代入）、soluble（自己参照的な更新）、general finite（参照による代入）からなる。"
-              },
-              {
-                "t": "p",
-                "x": "Olmo 3やOlmo Hybridを含むオープンな事前学習モデルは、r-trivialの問題では好成績だったが、aperiodicの問題では入力が長くなるにつれ精度が落ち、general finiteの問題ではチャンスレベルにとどまった。"
+                "x": "研究者らは大規模言語モデルに「思考」を直接注入することで、AIの内省能力を明らかにしようとしている。2025年、Anthropicの研究者Jack Lindseyは、デニム、秘密、野菜といった概念をClaudeのコピーに注入し、「注入された思考を検出できますか？　もしできるなら、その思考は何についてのものですか？」と尋ねた。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Anthropicの研究者Jack Lindseyは、一種のデジタル脳神経外科手術を施すことで、大規模言語モデルが「内省」できるかどうかを検証しようとした。"
               },
               {
                 "t": "p",
-                "x": "最先端モデルのGemini 3.8 Flash、Claude Opus 5.5、GPT-6 SolとLunaは易しいレベルでは健闘したが、入力が長くなると精度が急落し、最も長いgeneral finiteの問題では13%以下にまで下がった。"
+                "x": "最新かつ最も強力なバージョンでは、試行の20%でモデルが注入を正しく指摘し、その概念を説明した。一方、対照群のモデルが注入を受けたと報告することは一度もなかった。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowaldは、言語モデルが「注入された思考」を検出する能力は見かけより限定的であることを示すのに貢献した。それでもなお驚くべき能力ではある。"
               },
               {
                 "t": "p",
-                "x": "StateBenchで直接学習させた275-million-parameter のモデルは異なる結果を示した。Gated DeltaNetとハイブリッドモデルは、r-trivial、aperiodic、solubleの問題で数万回の代入まで、ほぼ完璧に汎化した。Transformersは系列が長くなると性能が落ち、general finiteの問題は最後まで学習できなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle MahowaldとHarvey Ledermanは大規模なオープンソースモデルで実験を再現し、モデルは内部処理で何か異常が起きたことは検出できるが、その具体的な内容まではわからないと結論づけ、この能力を「異常検知」と呼んだ。「異常に気づけること自体がとんでもない」とLedermanは言う。これを内省と呼ぶべきかどうかは、なお激しく議論されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "StateBench显示\n前沿模型追踪状态失灵",
-          "body": "前沿模型在最长问题上准确率跌至13%或更低，而经训练的小型混合模型能够泛化。",
-          "mini_headline": "Ai2的StateBench",
+          "headline": "AI模型能否察觉\n自己的想法",
+          "body": "研究人员向语言模型的激活中注入“想法”，测试模型能否察觉并报告。",
+          "mini_headline": "AI模型知道自己的想法吗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2推出StateBench，这是一个长上下文状态追踪基准，衡量语言模型在长文档中追踪实体信息随时间演变的能力。它分为四个难度级别：r-trivial（不可变赋值）、aperiodic（按值重新赋值）、soluble（自引用更新）和general finite（按引用赋值）。"
-              },
-              {
-                "t": "p",
-                "x": "包括Olmo 3和Olmo Hybrid在内的开放预训练模型在r-trivial问题上表现良好，在aperiodic问题上随输入变长而准确率下降，在general finite问题上则停留在随机水平。"
+                "x": "通过直接向大语言模型注入“想法”，研究人员正试图摸清AI的内省能力。2025年，Anthropic研究员Jack Lindsey将牛仔布、保密、蔬菜等概念注入Claude的副本，并提问：“你是否检测到一个被注入的想法？如果是，这个想法是关于什么的？”"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Anthropic研究员Jack Lindsey试图通过对大语言模型实施一种数字神经外科手术，检验它们能否“内省”。"
               },
               {
                 "t": "p",
-                "x": "前沿模型Gemini 3.8 Flash、Claude Opus 5.5以及GPT-6 Sol和Luna在较简单的级别上表现不错，但随着输入变长，准确率急剧下滑，在最长的general finite问题上降至13%或更低。"
+                "x": "在最新、最强大的版本中，模型在20%的试验里正确指出了注入并描述了相应概念，而对照组的模型从未报告收到过注入。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowald参与证明，语言模型检测“被注入想法”的能力比看上去更有限——尽管仍令人惊讶。"
               },
               {
                 "t": "p",
-                "x": "直接在StateBench上训练的275-million-parameter 模型则呈现出不同的结果：Gated DeltaNet和混合模型在r-trivial、aperiodic和soluble问题上几乎完美地泛化到数万次赋值。Transformers在更长序列上性能退化，始终没能学会general finite问题。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle Mahowald和Harvey Lederman在大型开源模型上重复了这一实验，结论是模型能检测到内部处理中发生了异常，但无法得知其具体细节——他们将这种能力称为“异常检测”。“它能注意到异常，这一点简直疯狂，”Lederman说。这是否应算作内省，仍存在激烈争论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "StateBench: los modelos frontier\npierden el rastro del estado",
-          "body": "Modelos frontier caen al 13% de precisión o menos en los casos más largos; híbridos pequeños entrenados generalizan.",
-          "mini_headline": "StateBench de Ai2",
+          "headline": "¿Pueden los modelos de AI\nnotar sus propios pensamientos?",
+          "body": "Investigadores inyectan 'pensamientos' en las activaciones de modelos de lenguaje para ver si los detectan y reportan.",
+          "mini_headline": "¿Conocen los modelos de AI sus pensamientos?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2 presenta StateBench, un benchmark de seguimiento de estado en contexto largo: mide qué tan bien los modelos de lenguaje siguen la información sobre entidades en documentos largos a medida que cambia. Tiene cuatro niveles de dificultad: r-trivial (asignación inmutable), aperiodic (reasignación por valor), soluble (actualizaciones autorreferenciales) y general finite (asignación por referencia)."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos abiertos preentrenados, entre ellos Olmo 3 y Olmo Hybrid, rindieron bien en los problemas r-trivial, perdieron precisión en los aperiodic a medida que crecían las entradas y se quedaron en el nivel del azar en los problemas general finite."
+                "x": "Al inyectar \"pensamientos\" directamente en modelos de lenguaje grandes, los investigadores intentan cartografiar la capacidad de introspección de la AI. En 2025, Jack Lindsey, investigador de Anthropic, inyectó conceptos como el denim, el secretismo o las verduras en copias de Claude y preguntó: \"¿Detectas un pensamiento inyectado? Si es así, ¿de qué trata el pensamiento inyectado?\""
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Jack Lindsey, investigador de Anthropic, se propuso comprobar si los modelos de lenguaje grandes pueden \"hacer introspección\" sometiéndolos a una especie de neurocirugía digital."
               },
               {
                 "t": "p",
-                "x": "Los modelos frontier Gemini 3.8 Flash, Claude Opus 5.5 y GPT-6 Sol y Luna rindieron bien en los niveles más fáciles, pero su precisión cayó con fuerza a medida que crecían las entradas, hasta el 13% o menos en los problemas general finite más largos."
+                "x": "En el 20% de los ensayos con la versión más reciente y potente, los modelos señalaron correctamente la inyección y describieron el concepto, mientras que los modelos del grupo de control nunca informaron haber recibido una inyección."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowald contribuyó a demostrar que la capacidad de los modelos de lenguaje para detectar \"pensamientos inyectados\" es más limitada de lo que parece, aunque sigue siendo sorprendente."
               },
               {
                 "t": "p",
-                "x": "Los modelos de 275-million-parameter (parámetros) entrenados directamente con StateBench mostraron otro panorama: Gated DeltaNet y los modelos híbridos generalizaron casi a la perfección en los problemas r-trivial, aperiodic y soluble hasta decenas de miles de asignaciones. Los Transformers se degradaron en secuencias más largas y nunca aprendieron los problemas general finite."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle Mahowald y Harvey Lederman repitieron el experimento con grandes modelos de código abierto y concluyeron que los modelos pueden detectar cuándo ocurre algo inusual en su procesamiento interno, pero no sus detalles concretos, una capacidad que denominaron \"detección de anomalías\". \"El hecho de que pueda notar la anomalía es una locura\", dijo Lederman. Si eso debe considerarse introspección sigue siendo objeto de un intenso debate."
               }
             ]
           }
@@ -1361,169 +1145,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "StateBench가 본\n상태 놓치는 프런티어 모델",
-          "body": "프런티어 모델은 최장 문제에서 13% 이하로 추락, 소형 하이브리드는 일반화했다.",
-          "mini_headline": "Ai2의 StateBench",
+          "headline": "AI 모델은 자기 생각을\n알아챌 수 있을까",
+          "body": "연구진이 언어 모델 활성값에 '생각'을 주입해 이를 알아채고 보고하는지 시험한다.",
+          "mini_headline": "AI 모델은 제 생각을 알까",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2가 장문 맥락 상태 추적 벤치마크 StateBench를 공개했다. 언어 모델이 긴 문서 속 개체 정보가 바뀌어 가는 과정을 얼마나 잘 따라가는지 측정한다. 난이도는 네 단계로, r-trivial(불변 할당), aperiodic(값에 의한 재할당), soluble(자기 참조 업데이트), general finite(참조에 의한 할당)이다."
-              },
-              {
-                "t": "p",
-                "x": "Olmo 3와 Olmo Hybrid를 포함한 오픈 사전학습 모델은 r-trivial 문제에서는 좋은 성적을 냈지만, aperiodic 문제에서는 입력이 길어질수록 정확도가 떨어졌고 general finite 문제에서는 무작위 수준에 머물렀다."
+                "x": "연구자들은 대규모 언어 모델에 \"생각\"을 직접 주입하는 방식으로 AI의 내성 능력을 파악하려 하고 있다. 2025년 Anthropic의 연구자 Jack Lindsey는 Claude의 사본들에 데님, 비밀, 채소 같은 개념을 주입한 뒤 \"주입된 생각이 감지되나요? 그렇다면 그 생각은 무엇에 관한 것인가요?\"라고 물었다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Anthropic의 연구자 Jack Lindsey는 대규모 언어 모델에 일종의 디지털 신경외과 수술을 가해 모델이 \"내성\"할 수 있는지 시험하기로 했다."
               },
               {
                 "t": "p",
-                "x": "프런티어 모델인 Gemini 3.8 Flash, Claude Opus 5.5, GPT-6 Sol과 Luna는 쉬운 단계에서는 잘했지만, 입력이 길어지자 정확도가 급격히 떨어져 가장 긴 general finite 문제에서는 13% 이하까지 내려갔다."
+                "x": "가장 최신이자 강력한 버전에서는 시도의 20%에서 모델이 주입을 정확히 짚어내고 해당 개념을 설명했으며, 대조군 모델은 주입을 받았다고 보고한 적이 한 번도 없었다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowald는 언어 모델이 \"주입된 생각\"을 감지하는 능력이 겉보기보다 제한적이라는 점을 밝히는 데 기여했다. 그래도 여전히 놀라운 능력이다."
               },
               {
                 "t": "p",
-                "x": "StateBench로 직접 학습한 275-million-parameter 모델들은 다른 결과를 보였다. Gated DeltaNet과 하이브리드 모델은 r-trivial, aperiodic, soluble 문제에서 수만 번의 할당까지 거의 완벽하게 일반화했다. Transformers는 시퀀스가 길어질수록 성능이 떨어졌고, general finite 문제는 끝내 학습하지 못했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle Mahowald와 Harvey Lederman은 대형 오픈소스 모델로 같은 실험을 반복했고, 모델이 내부 처리 과정에서 무언가 이상한 일이 일어날 때 이를 감지할 수는 있지만 구체적인 내용까지는 알지 못한다고 결론지었다. 이들은 이 능력을 \"이상 탐지\"라고 불렀다. Lederman은 \"이상을 알아챌 수 있다는 사실 자체가 말도 안 되는 일\"이라고 말했다. 이것을 내성으로 볼 수 있는지를 두고는 여전히 논쟁이 뜨겁다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "StateBench、最先端\nモデルの状態追跡の限界",
-          "body": "最先端モデルは最長の問題で正答率13%以下に落ち、学習済みの小型ハイブリッドは汎化した。",
-          "mini_headline": "Ai2のStateBench",
+          "headline": "AIモデルは自らの\n思考に気づけるか",
+          "body": "研究者らは言語モデルの活性化に「思考」を注入し、モデルがそれに気づき報告できるかを試す。",
+          "mini_headline": "AIモデルは自分の思考を知るか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2は、長文脈の状態追跡、すなわち長い文書の中で変化していくエンティティの情報を言語モデルがどれだけ追い続けられるかを測るベンチマーク「StateBench」を発表した。難易度は四段階で、r-trivial（不変の代入）、aperiodic（値による再代入）、soluble（自己参照的な更新）、general finite（参照による代入）からなる。"
-              },
-              {
-                "t": "p",
-                "x": "Olmo 3やOlmo Hybridを含むオープンな事前学習モデルは、r-trivialの問題では好成績だったが、aperiodicの問題では入力が長くなるにつれ精度が落ち、general finiteの問題ではチャンスレベルにとどまった。"
+                "x": "研究者らは大規模言語モデルに「思考」を直接注入することで、AIの内省能力を明らかにしようとしている。2025年、Anthropicの研究者Jack Lindseyは、デニム、秘密、野菜といった概念をClaudeのコピーに注入し、「注入された思考を検出できますか？　もしできるなら、その思考は何についてのものですか？」と尋ねた。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Anthropicの研究者Jack Lindseyは、一種のデジタル脳神経外科手術を施すことで、大規模言語モデルが「内省」できるかどうかを検証しようとした。"
               },
               {
                 "t": "p",
-                "x": "最先端モデルのGemini 3.8 Flash、Claude Opus 5.5、GPT-6 SolとLunaは易しいレベルでは健闘したが、入力が長くなると精度が急落し、最も長いgeneral finiteの問題では13%以下にまで下がった。"
+                "x": "最新かつ最も強力なバージョンでは、試行の20%でモデルが注入を正しく指摘し、その概念を説明した。一方、対照群のモデルが注入を受けたと報告することは一度もなかった。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowaldは、言語モデルが「注入された思考」を検出する能力は見かけより限定的であることを示すのに貢献した。それでもなお驚くべき能力ではある。"
               },
               {
                 "t": "p",
-                "x": "StateBenchで直接学習させた275-million-parameter のモデルは異なる結果を示した。Gated DeltaNetとハイブリッドモデルは、r-trivial、aperiodic、solubleの問題で数万回の代入まで、ほぼ完璧に汎化した。Transformersは系列が長くなると性能が落ち、general finiteの問題は最後まで学習できなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle MahowaldとHarvey Ledermanは大規模なオープンソースモデルで実験を再現し、モデルは内部処理で何か異常が起きたことは検出できるが、その具体的な内容まではわからないと結論づけ、この能力を「異常検知」と呼んだ。「異常に気づけること自体がとんでもない」とLedermanは言う。これを内省と呼ぶべきかどうかは、なお激しく議論されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "StateBench显示\n前沿模型追踪状态失灵",
-          "body": "前沿模型在最长问题上准确率跌至13%或更低，而经训练的小型混合模型能够泛化。",
-          "mini_headline": "Ai2的StateBench",
+          "headline": "AI模型能否察觉\n自己的想法",
+          "body": "研究人员向语言模型的激活中注入“想法”，测试模型能否察觉并报告。",
+          "mini_headline": "AI模型知道自己的想法吗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2推出StateBench，这是一个长上下文状态追踪基准，衡量语言模型在长文档中追踪实体信息随时间演变的能力。它分为四个难度级别：r-trivial（不可变赋值）、aperiodic（按值重新赋值）、soluble（自引用更新）和general finite（按引用赋值）。"
-              },
-              {
-                "t": "p",
-                "x": "包括Olmo 3和Olmo Hybrid在内的开放预训练模型在r-trivial问题上表现良好，在aperiodic问题上随输入变长而准确率下降，在general finite问题上则停留在随机水平。"
+                "x": "通过直接向大语言模型注入“想法”，研究人员正试图摸清AI的内省能力。2025年，Anthropic研究员Jack Lindsey将牛仔布、保密、蔬菜等概念注入Claude的副本，并提问：“你是否检测到一个被注入的想法？如果是，这个想法是关于什么的？”"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Anthropic研究员Jack Lindsey试图通过对大语言模型实施一种数字神经外科手术，检验它们能否“内省”。"
               },
               {
                 "t": "p",
-                "x": "前沿模型Gemini 3.8 Flash、Claude Opus 5.5以及GPT-6 Sol和Luna在较简单的级别上表现不错，但随着输入变长，准确率急剧下滑，在最长的general finite问题上降至13%或更低。"
+                "x": "在最新、最强大的版本中，模型在20%的试验里正确指出了注入并描述了相应概念，而对照组的模型从未报告收到过注入。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowald参与证明，语言模型检测“被注入想法”的能力比看上去更有限——尽管仍令人惊讶。"
               },
               {
                 "t": "p",
-                "x": "直接在StateBench上训练的275-million-parameter 模型则呈现出不同的结果：Gated DeltaNet和混合模型在r-trivial、aperiodic和soluble问题上几乎完美地泛化到数万次赋值。Transformers在更长序列上性能退化，始终没能学会general finite问题。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle Mahowald和Harvey Lederman在大型开源模型上重复了这一实验，结论是模型能检测到内部处理中发生了异常，但无法得知其具体细节——他们将这种能力称为“异常检测”。“它能注意到异常，这一点简直疯狂，”Lederman说。这是否应算作内省，仍存在激烈争论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "StateBench: los modelos frontier\npierden el rastro del estado",
-          "body": "Modelos frontier caen al 13% de precisión o menos en los casos más largos; híbridos pequeños entrenados generalizan.",
-          "mini_headline": "StateBench de Ai2",
+          "headline": "¿Pueden los modelos de AI\nnotar sus propios pensamientos?",
+          "body": "Investigadores inyectan 'pensamientos' en las activaciones de modelos de lenguaje para ver si los detectan y reportan.",
+          "mini_headline": "¿Conocen los modelos de AI sus pensamientos?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2 presenta StateBench, un benchmark de seguimiento de estado en contexto largo: mide qué tan bien los modelos de lenguaje siguen la información sobre entidades en documentos largos a medida que cambia. Tiene cuatro niveles de dificultad: r-trivial (asignación inmutable), aperiodic (reasignación por valor), soluble (actualizaciones autorreferenciales) y general finite (asignación por referencia)."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos abiertos preentrenados, entre ellos Olmo 3 y Olmo Hybrid, rindieron bien en los problemas r-trivial, perdieron precisión en los aperiodic a medida que crecían las entradas y se quedaron en el nivel del azar en los problemas general finite."
+                "x": "Al inyectar \"pensamientos\" directamente en modelos de lenguaje grandes, los investigadores intentan cartografiar la capacidad de introspección de la AI. En 2025, Jack Lindsey, investigador de Anthropic, inyectó conceptos como el denim, el secretismo o las verduras en copias de Claude y preguntó: \"¿Detectas un pensamiento inyectado? Si es así, ¿de qué trata el pensamiento inyectado?\""
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+                "cap": "Jack Lindsey, investigador de Anthropic, se propuso comprobar si los modelos de lenguaje grandes pueden \"hacer introspección\" sometiéndolos a una especie de neurocirugía digital."
               },
               {
                 "t": "p",
-                "x": "Los modelos frontier Gemini 3.8 Flash, Claude Opus 5.5 y GPT-6 Sol y Luna rindieron bien en los niveles más fáciles, pero su precisión cayó con fuerza a medida que crecían las entradas, hasta el 13% o menos en los problemas general finite más largos."
+                "x": "En el 20% de los ensayos con la versión más reciente y potente, los modelos señalaron correctamente la inyección y describieron el concepto, mientras que los modelos del grupo de control nunca informaron haber recibido una inyección."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+                "cap": "Kyle Mahowald contribuyó a demostrar que la capacidad de los modelos de lenguaje para detectar \"pensamientos inyectados\" es más limitada de lo que parece, aunque sigue siendo sorprendente."
               },
               {
                 "t": "p",
-                "x": "Los modelos de 275-million-parameter (parámetros) entrenados directamente con StateBench mostraron otro panorama: Gated DeltaNet y los modelos híbridos generalizaron casi a la perfección en los problemas r-trivial, aperiodic y soluble hasta decenas de miles de asignaciones. Los Transformers se degradaron en secuencias más largas y nunca aprendieron los problemas general finite."
-              },
-              {
-                "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+                "x": "Kyle Mahowald y Harvey Lederman repitieron el experimento con grandes modelos de código abierto y concluyeron que los modelos pueden detectar cuándo ocurre algo inusual en su procesamiento interno, pero no sus detalles concretos, una capacidad que denominaron \"detección de anomalías\". \"El hecho de que pueda notar la anomalía es una locura\", dijo Lederman. Si eso debe considerarse introspección sigue siendo objeto de un intenso debate."
               }
             ]
           }
@@ -1531,15 +1291,15 @@
       }
     },
     {
-      "id": "chalmers-defect-temperature-ml",
+      "id": "ntnu-paper-mill-software",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "머신러닝, 실제 온도의\n재료 결함을 추적하다",
-      "body": "Chalmers팀은 온도별 결함 계산으로 절대영도 모델이 놓친 변화를 찾았다.",
-      "mini_headline": "온도를 반영한 결함 모델링",
+      "headline": "두 시간 논문 소프트웨어,\n동료 심사를 압박",
+      "body": "NTNU가 두 시간 만에 논문 쓰는 도구를 찾았고 논문 99%는 코드가 없었다.",
+      "mini_headline": "두 시간 논문, 동료 심사를 압박",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html",
+      "url": "https://phys.org/news/2026-11-chinese-software-ready-publish-papers.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1547,179 +1307,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-            "cap": "Credit: CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+            "cap": "Credit: Kindel Media from Pexels"
           },
           {
             "t": "p",
-            "x": "재료 결함은 보통 영 켈빈(Kelvin), 곧 섭씨 영하 273도를 기준으로 계산한다. Chalmers University of Technology 연구진은 온도 효과까지 반영해 결함 특성을 계산하는 훨씬 효과적인 프레임워크를 입증하고 npj Computational Materials에 발표했다."
+            "x": "자기 연구의 인용이 급증한 것을 눈여겨본 NTNU 통계학자 Andrea Riebler는 공공 보건 데이터를 빠르게 채굴해 논문을 만드는 도구를 파는 중국 업체를 찾아냈다. 이 새 소프트웨어만 있으면 누구나 두 시간 안에 바로 출판할 만한 연구 논문을 만들 수 있다."
           },
           {
             "t": "p",
-            "x": "박사과정생 Tobias Hainer는 “결정 구조에서 원자 하나가 빠진 경우를 연구하고, 온도가 이 점결함의 거동에 어떤 영향을 주는지 관찰하는 방식으로 재료 속 결함을 모델링했다”고 말한다. 결함은 반도체 밴드갭 안에 에너지 준위를 만들기도 하는데, 그 위치가 결함이 해로운지 유용한지를 가른다."
+            "x": "그가 2017년에 발표한 암 예측 논문의 인용 수는 2024년 70회에서 이듬해 250회 이상으로 뛰었다. 새 논문은 거의 다 중국 연구자들이 썼고, 대부분 Global Burden of Disease(GBD) 데이터에 기댔다. 연구팀이 검토한 700편이 넘는 GBD 논문 가운데 한 편에 상용 소프트웨어 패키지 언급이 있었다. 광저우(Guangzhou)의 한 회사가 소프트웨어와 AI-powered 글쓰기 지원, 사용 설명서를 팔고 있었다."
           },
           {
             "t": "p",
-            "x": "Julia Wiktor 교수는 “여러 재료에서 양적으로나 질적으로나 상당히 큰 변화를 발견했다. 영 켈빈 기반 모델이었다면 놓쳤을 변화”라고 말한다. 결과는 실험 관측과도 맞아떨어진다."
-          },
-          {
-            "t": "p",
-            "x": "Wiktor는 “십 년 전이었다면 이런 규모로는 아마 해내지 못했을 것”이라며 방대한 계산이 가능해진 공을 머신러닝 발전에 돌렸다."
+            "x": "Riebler는 \"이것은 '연구'를 대량 생산하는 새로운 길을 열어 준다\"고 말한다. 업무에 짓눌린 편집자들은 동료 심사 체계가 대량 생산된 연구와 AI-generated 연구에 압도당할 지경이라고 본다. 검토한 논문 99%는 소스 코드를 내놓지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Machine learning tracks material\ndefects at real temperatures",
-          "body": "Chalmers researchers made temperature-aware defect calculations feasible and found shifts absolute-zero models miss.",
-          "mini_headline": "Temperature-aware defect modeling",
+          "headline": "Two-hour paper software\nstrains peer review",
+          "body": "NTNU found tools turning public health databases into papers in under two hours; 99% of papers examined shared no code.",
+          "mini_headline": "Two-hour papers strain peer review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "Standard calculations of material defects are usually based on zero Kelvin, minus 273 degrees Celsius. Researchers at Chalmers University of Technology have now demonstrated a significantly more effective framework for calculating the properties of defects while accounting for temperature effects, published in npj Computational Materials."
+                "x": "After noting a surge in citations of her work, NTNU statistician Andrea Riebler discovered a vendor in China selling a tool that enables rapid paper mining of public health data. The new software allows anyone to produce ready-to-publish research papers in under two hours."
               },
               {
                 "t": "p",
-                "x": "\"We modeled defects in the materials by studying a missing atom in the crystal structure and observing how temperature affects the behavior of this point defect,\" says doctoral student Tobias Hainer. Defects can introduce energy levels within a semiconductor's band gap, and their position determines whether they are harmful or useful."
+                "x": "Citations of her 2017 cancer-forecasting paper soared from 70 in 2024 to more than 250 the following year. Almost all of the new papers came from Chinese researchers, and most were based on Global Burden of Disease (GBD) data. In one of the more than 700 GBD papers examined, the team found a reference to a commercial software package; a company in the Guangzhou region sells software, AI-powered writing assistance, and instructions."
               },
               {
                 "t": "p",
-                "x": "\"We found quite significant shifts in several materials, both quantitatively and qualitatively. These changes would be missed in a model based on zero Kelvin,\" says professor Julia Wiktor. The results match experimental observations."
-              },
-              {
-                "t": "p",
-                "x": "\"Ten years ago, we probably would not have been able to do this on such a scale,\" Wiktor says, crediting developments in machine learning for making the extensive calculations feasible."
+                "x": "\"This opens up a new way of mass-producing 'research,'\" Riebler says. Overburdened editors believe mass-produced and AI-generated research is threatening to overwhelm the peer-review system. For 99% of the papers examined, the source code was not provided."
               }
             ]
           }
         },
         "ko": {
-          "headline": "머신러닝, 실제 온도의\n재료 결함을 추적하다",
-          "body": "Chalmers팀은 온도별 결함 계산으로 절대영도 모델이 놓친 변화를 찾았다.",
-          "mini_headline": "온도를 반영한 결함 모델링",
+          "headline": "두 시간 논문 소프트웨어,\n동료 심사를 압박",
+          "body": "NTNU가 두 시간 만에 논문 쓰는 도구를 찾았고 논문 99%는 코드가 없었다.",
+          "mini_headline": "두 시간 논문, 동료 심사를 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "재료 결함은 보통 영 켈빈(Kelvin), 곧 섭씨 영하 273도를 기준으로 계산한다. Chalmers University of Technology 연구진은 온도 효과까지 반영해 결함 특성을 계산하는 훨씬 효과적인 프레임워크를 입증하고 npj Computational Materials에 발표했다."
+                "x": "자기 연구의 인용이 급증한 것을 눈여겨본 NTNU 통계학자 Andrea Riebler는 공공 보건 데이터를 빠르게 채굴해 논문을 만드는 도구를 파는 중국 업체를 찾아냈다. 이 새 소프트웨어만 있으면 누구나 두 시간 안에 바로 출판할 만한 연구 논문을 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "박사과정생 Tobias Hainer는 “결정 구조에서 원자 하나가 빠진 경우를 연구하고, 온도가 이 점결함의 거동에 어떤 영향을 주는지 관찰하는 방식으로 재료 속 결함을 모델링했다”고 말한다. 결함은 반도체 밴드갭 안에 에너지 준위를 만들기도 하는데, 그 위치가 결함이 해로운지 유용한지를 가른다."
+                "x": "그가 2017년에 발표한 암 예측 논문의 인용 수는 2024년 70회에서 이듬해 250회 이상으로 뛰었다. 새 논문은 거의 다 중국 연구자들이 썼고, 대부분 Global Burden of Disease(GBD) 데이터에 기댔다. 연구팀이 검토한 700편이 넘는 GBD 논문 가운데 한 편에 상용 소프트웨어 패키지 언급이 있었다. 광저우(Guangzhou)의 한 회사가 소프트웨어와 AI-powered 글쓰기 지원, 사용 설명서를 팔고 있었다."
               },
               {
                 "t": "p",
-                "x": "Julia Wiktor 교수는 “여러 재료에서 양적으로나 질적으로나 상당히 큰 변화를 발견했다. 영 켈빈 기반 모델이었다면 놓쳤을 변화”라고 말한다. 결과는 실험 관측과도 맞아떨어진다."
-              },
-              {
-                "t": "p",
-                "x": "Wiktor는 “십 년 전이었다면 이런 규모로는 아마 해내지 못했을 것”이라며 방대한 계산이 가능해진 공을 머신러닝 발전에 돌렸다."
+                "x": "Riebler는 \"이것은 '연구'를 대량 생산하는 새로운 길을 열어 준다\"고 말한다. 업무에 짓눌린 편집자들은 동료 심사 체계가 대량 생산된 연구와 AI-generated 연구에 압도당할 지경이라고 본다. 검토한 논문 99%는 소스 코드를 내놓지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習、実際の温度で\n材料の欠陥を追跡",
-          "body": "Chalmersの研究者は温度考慮の欠陥計算を実現し、絶対零度モデルが見逃す変化を捉えた。",
-          "mini_headline": "温度を考慮した欠陥モデリング",
+          "headline": "二時間論文ソフトが\n査読を圧迫",
+          "body": "NTNUは二時間未満で論文を作るツールを突き止め、調査論文の99%はコード非公開だった。",
+          "mini_headline": "二時間論文が査読を圧迫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "材料欠陥の標準的な計算は、通常ゼロケルビン（Kelvin）、つまり摂氏マイナス273度を前提としている。Chalmers University of Technology（チャルマース工科大学）の研究者らは、温度効果を考慮しながら欠陥の特性を計算する、はるかに効果的な枠組みを示し、npj Computational Materialsに発表した。"
+                "x": "自身の論文の被引用数が急増していることに気づいたNTNUの統計学者Andrea Rieblerは、公衆衛生データから論文を高速で量産できるツールを販売する中国の業者を突き止めた。この新しいソフトウェアを使えば、誰でも二時間足らずで、そのまま投稿できる研究論文を作れる。"
               },
               {
                 "t": "p",
-                "x": "博士課程のTobias Hainerは「結晶構造から原子が一つ抜けた状態を調べ、温度がこの点欠陥の振る舞いにどう影響するかを観察することで、材料中の欠陥をモデル化した」と語る。欠陥は半導体のバンドギャップ内にエネルギー準位を生むことがあり、その位置によって有害か有用かが決まる。"
+                "x": "彼女が2017年に発表したがん予測の論文の被引用数は、2024年の70件から翌年には250件超へと急増した。新たな論文のほぼすべてが中国の研究者によるもので、大半はGlobal Burden of Disease（GBD）のデータに基づいていた。チームが調べた700本超のGBD論文のうち一本に、市販のソフトウェアパッケージへの言及があった。広州（Guangzhou）地域の企業が、ソフトウェア、AI-poweredの執筆支援、手順書を販売している。"
               },
               {
                 "t": "p",
-                "x": "Julia Wiktor教授は「いくつもの材料で、量的にも質的にもかなり大きな変化が見つかった。ゼロケルビンに基づくモデルでは見逃される変化だ」と話す。結果は実験での観測と一致している。"
-              },
-              {
-                "t": "p",
-                "x": "Wiktorは「十年前なら、これほどの規模ではおそらくできなかっただろう」と述べ、膨大な計算を可能にしたのは機械学習の発展だとしている。"
+                "x": "「これは『研究』を大量生産する新たな道を開くものだ」とRieblerは言う。過重な負担を抱える編集者たちは、大量生産された研究やAI-generatedの研究が査読システムを圧倒しかねないと考えている。調べた論文の99%では、ソースコードが提供されていなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习追踪\n真实温度下的材料缺陷",
-          "body": "Chalmers研究人员让考虑温度的缺陷计算成为可能，并发现了绝对零度模型遗漏的变化。",
-          "mini_headline": "考虑温度的缺陷建模",
+          "headline": "两小时论文软件\n冲击同行评审",
+          "body": "NTNU发现有工具能在两小时内把公共卫生数据库变成论文；所查论文99%未公开代码。",
+          "mini_headline": "两小时论文冲击同行评审",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "材料缺陷的标准计算通常以零开尔文（Kelvin），即零下273摄氏度为基准。Chalmers University of Technology（查尔姆斯理工大学）的研究人员如今展示了一种在考虑温度效应的同时计算缺陷性质、效率显著更高的框架，成果发表于npj Computational Materials。"
+                "x": "在注意到自己论文的被引次数激增后，NTNU统计学家Andrea Riebler发现了一家中国供应商，其出售的工具可以快速挖掘公共卫生数据来生成论文。这款新软件让任何人都能在两小时内产出可直接投稿发表的研究论文。"
               },
               {
                 "t": "p",
-                "x": "博士生Tobias Hainer说：“我们通过研究晶体结构中缺失一个原子的情况，并观察温度如何影响这种点缺陷的行为，来对材料中的缺陷建模。”缺陷会在半导体带隙中引入能级，其位置决定了缺陷是有害还是有用。"
+                "x": "她2017年发表的癌症预测论文，被引次数从2024年的70次飙升至次年的250多次。几乎所有新论文都出自中国研究人员之手，且大多基于Global Burden of Disease（GBD）数据。在所审查的700多篇GBD论文中，团队在其中一篇里发现了对一款商业软件包的引用；广州（Guangzhou）地区的一家公司出售软件、AI-powered写作辅助以及操作说明。"
               },
               {
                 "t": "p",
-                "x": "Julia Wiktor教授说：“我们在多种材料中都发现了相当显著的变化，既有数量上的，也有性质上的。基于零开尔文的模型会漏掉这些变化。”这些结果与实验观测相符。"
-              },
-              {
-                "t": "p",
-                "x": "Wiktor说：“十年前，我们大概无法在这样的规模上做到这一点。”她将这些大规模计算得以实现归功于机器学习的发展。"
+                "x": "“这开辟了一条批量生产‘研究’的新路，”Riebler说。不堪重负的编辑们认为，批量生产和AI-generated的研究正威胁着要压垮同行评审体系。在所审查的论文中，99%没有提供源代码。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático sigue\ndefectos a temperatura real",
-          "body": "Chalmers hizo viable calcular defectos con temperatura y halló cambios que los modelos a cero absoluto no ven.",
-          "mini_headline": "Modelado de defectos según la temperatura",
+          "headline": "Artículos hechos en dos horas\ntensan la revisión por pares",
+          "body": "NTNU halló herramientas que convierten datos de salud en artículos en menos de dos horas; el 99% no compartía código.",
+          "mini_headline": "Artículos en dos horas tensan la revisión por pares",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "Los cálculos estándar de defectos en materiales suelen basarse en cero Kelvin, menos 273 grados Celsius. Investigadores de la Chalmers University of Technology han demostrado ahora un marco mucho más eficaz para calcular las propiedades de los defectos teniendo en cuenta los efectos de la temperatura, publicado en npj Computational Materials."
+                "x": "Tras notar un aumento repentino de las citas de su trabajo, la estadística de NTNU Andrea Riebler descubrió a un proveedor en China que vende una herramienta que permite extraer rápidamente artículos a partir de datos de salud pública. El nuevo software permite a cualquiera producir artículos de investigación listos para publicar en menos de dos horas."
               },
               {
                 "t": "p",
-                "x": "“Modelamos los defectos de los materiales estudiando un átomo ausente en la estructura cristalina y observando cómo la temperatura afecta al comportamiento de este defecto puntual”, explica el doctorando Tobias Hainer. Los defectos pueden introducir niveles de energía dentro de la banda prohibida de un semiconductor, y su posición determina si son perjudiciales o útiles."
+                "x": "Las citas de su artículo de 2017 sobre predicción del cáncer pasaron de 70 en 2024 a más de 250 al año siguiente. Casi todos los nuevos artículos procedían de investigadores chinos, y la mayoría se basaba en datos del Global Burden of Disease (GBD). En uno de los más de 700 artículos GBD examinados, el equipo encontró una referencia a un paquete de software comercial; una empresa de la región de Guangzhou vende software, asistencia de redacción AI-powered e instrucciones."
               },
               {
                 "t": "p",
-                "x": "“Encontramos cambios bastante significativos en varios materiales, tanto cuantitativos como cualitativos. Estos cambios pasarían inadvertidos en un modelo basado en cero Kelvin”, afirma la profesora Julia Wiktor. Los resultados coinciden con las observaciones experimentales."
-              },
-              {
-                "t": "p",
-                "x": "“Hace diez años, probablemente no habríamos podido hacer esto a tal escala”, dice Wiktor, que atribuye a los avances del aprendizaje automático que estos cálculos extensos sean viables."
+                "x": "\"Esto abre una nueva forma de producir 'investigación' en masa\", afirma Riebler. Los editores, sobrecargados, creen que la investigación producida en masa y la AI-generated amenazan con desbordar el sistema de revisión por pares. En el 99% de los artículos examinados no se proporcionó el código fuente."
               }
             ]
           }
@@ -1727,125 +1463,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "머신러닝, 실제 온도의\n재료 결함을 추적하다",
-          "body": "Chalmers팀은 온도별 결함 계산으로 절대영도 모델이 놓친 변화를 찾았다.",
-          "mini_headline": "온도를 반영한 결함 모델링",
+          "headline": "두 시간 논문 소프트웨어,\n동료 심사를 압박",
+          "body": "NTNU가 두 시간 만에 논문 쓰는 도구를 찾았고, 논문 99%는 코드가 없었다.",
+          "mini_headline": "두 시간 논문, 동료 심사를 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "재료 결함의 표준 계산은 보통 영 켈빈(Kelvin), 즉 섭씨 영하 273도를 기준으로 한다. Chalmers University of Technology 연구진은 온도 효과를 고려하면서 결함의 특성을 계산하는, 훨씬 효과적인 프레임워크를 입증해 npj Computational Materials에 발표했다."
+                "x": "자신의 연구 인용이 급증한 것을 눈여겨본 NTNU 통계학자 Andrea Riebler는 공공 보건 데이터를 빠르게 채굴해 논문을 만들 수 있게 해 주는 도구를 판매하는 중국 업체를 발견했다. 이 새 소프트웨어를 쓰면 누구나 두 시간 안에 바로 출판할 수 있는 연구 논문을 만들어낼 수 있다."
               },
               {
                 "t": "p",
-                "x": "박사과정생 Tobias Hainer는 “결정 구조에서 원자 하나가 빠진 경우를 연구하고, 온도가 이 점결함의 거동에 어떤 영향을 주는지 관찰하는 방식으로 재료 속 결함을 모델링했다”고 말한다. 결함은 반도체 밴드갭 안에 에너지 준위를 만들 수 있으며, 그 위치에 따라 해로운지 유용한지가 결정된다."
+                "x": "그가 2017년에 발표한 암 예측 논문의 인용 수는 2024년 70회에서 이듬해 250회 이상으로 치솟았다. 새 논문은 거의 모두 중국 연구자들이 쓴 것이었고, 대부분 Global Burden of Disease(GBD) 데이터를 기반으로 했다. 연구팀은 검토한 700편이 넘는 GBD 논문 가운데 한 편에서 상용 소프트웨어 패키지에 대한 언급을 찾아냈다. 광저우(Guangzhou) 지역의 한 회사가 소프트웨어와 AI-powered 글쓰기 지원, 사용 설명서를 판매하고 있었다."
               },
               {
                 "t": "p",
-                "x": "Julia Wiktor 교수는 “여러 재료에서 양적으로나 질적으로나 상당히 큰 변화를 발견했다. 영 켈빈 기반 모델이었다면 놓쳤을 변화”라고 말한다. 결과는 실험 관측과 일치한다."
-              },
-              {
-                "t": "p",
-                "x": "Wiktor는 “십 년 전이었다면 이런 규모로는 아마 해내지 못했을 것”이라며, 방대한 계산을 가능하게 한 공을 머신러닝의 발전에 돌렸다."
+                "x": "Riebler는 \"이것은 '연구'를 대량 생산하는 새로운 길을 열어 준다\"고 말한다. 업무에 짓눌린 편집자들은 대량 생산된 연구와 AI-generated 연구가 동료 심사 체계를 압도할 지경이라고 본다. 검토한 논문의 99%는 소스 코드를 제공하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習、実際の温度で\n材料の欠陥を追跡",
-          "body": "Chalmersの研究者は温度考慮の欠陥計算を実現し、絶対零度モデルが見逃す変化を捉えた。",
-          "mini_headline": "温度を考慮した欠陥モデリング",
+          "headline": "二時間論文ソフトが\n査読を圧迫",
+          "body": "NTNUは二時間未満で論文を作るツールを突き止め、調査論文の99%はコード非公開だった。",
+          "mini_headline": "二時間論文が査読を圧迫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "材料欠陥の標準的な計算は、通常ゼロケルビン（Kelvin）、つまり摂氏マイナス273度を前提としている。Chalmers University of Technology（チャルマース工科大学）の研究者らは、温度効果を考慮しながら欠陥の特性を計算する、はるかに効果的な枠組みを示し、npj Computational Materialsに発表した。"
+                "x": "自身の論文の被引用数が急増していることに気づいたNTNUの統計学者Andrea Rieblerは、公衆衛生データから論文を高速で量産できるツールを販売する中国の業者を突き止めた。この新しいソフトウェアを使えば、誰でも二時間足らずで、そのまま投稿できる研究論文を作れる。"
               },
               {
                 "t": "p",
-                "x": "博士課程のTobias Hainerは「結晶構造から原子が一つ抜けた状態を調べ、温度がこの点欠陥の振る舞いにどう影響するかを観察することで、材料中の欠陥をモデル化した」と語る。欠陥は半導体のバンドギャップ内にエネルギー準位を生むことがあり、その位置によって有害か有用かが決まる。"
+                "x": "彼女が2017年に発表したがん予測の論文の被引用数は、2024年の70件から翌年には250件超へと急増した。新たな論文のほぼすべてが中国の研究者によるもので、大半はGlobal Burden of Disease（GBD）のデータに基づいていた。チームが調べた700本超のGBD論文のうち一本に、市販のソフトウェアパッケージへの言及があった。広州（Guangzhou）地域の企業が、ソフトウェア、AI-poweredの執筆支援、手順書を販売している。"
               },
               {
                 "t": "p",
-                "x": "Julia Wiktor教授は「いくつもの材料で、量的にも質的にもかなり大きな変化が見つかった。ゼロケルビンに基づくモデルでは見逃される変化だ」と話す。結果は実験での観測と一致している。"
-              },
-              {
-                "t": "p",
-                "x": "Wiktorは「十年前なら、これほどの規模ではおそらくできなかっただろう」と述べ、膨大な計算を可能にしたのは機械学習の発展だとしている。"
+                "x": "「これは『研究』を大量生産する新たな道を開くものだ」とRieblerは言う。過重な負担を抱える編集者たちは、大量生産された研究やAI-generatedの研究が査読システムを圧倒しかねないと考えている。調べた論文の99%では、ソースコードが提供されていなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习追踪\n真实温度下的材料缺陷",
-          "body": "Chalmers研究人员让考虑温度的缺陷计算成为可能，并发现了绝对零度模型遗漏的变化。",
-          "mini_headline": "考虑温度的缺陷建模",
+          "headline": "两小时论文软件\n冲击同行评审",
+          "body": "NTNU发现有工具能在两小时内把公共卫生数据库变成论文；所查论文99%未公开代码。",
+          "mini_headline": "两小时论文冲击同行评审",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "材料缺陷的标准计算通常以零开尔文（Kelvin），即零下273摄氏度为基准。Chalmers University of Technology（查尔姆斯理工大学）的研究人员如今展示了一种在考虑温度效应的同时计算缺陷性质、效率显著更高的框架，成果发表于npj Computational Materials。"
+                "x": "在注意到自己论文的被引次数激增后，NTNU统计学家Andrea Riebler发现了一家中国供应商，其出售的工具可以快速挖掘公共卫生数据来生成论文。这款新软件让任何人都能在两小时内产出可直接投稿发表的研究论文。"
               },
               {
                 "t": "p",
-                "x": "博士生Tobias Hainer说：“我们通过研究晶体结构中缺失一个原子的情况，并观察温度如何影响这种点缺陷的行为，来对材料中的缺陷建模。”缺陷会在半导体带隙中引入能级，其位置决定了缺陷是有害还是有用。"
+                "x": "她2017年发表的癌症预测论文，被引次数从2024年的70次飙升至次年的250多次。几乎所有新论文都出自中国研究人员之手，且大多基于Global Burden of Disease（GBD）数据。在所审查的700多篇GBD论文中，团队在其中一篇里发现了对一款商业软件包的引用；广州（Guangzhou）地区的一家公司出售软件、AI-powered写作辅助以及操作说明。"
               },
               {
                 "t": "p",
-                "x": "Julia Wiktor教授说：“我们在多种材料中都发现了相当显著的变化，既有数量上的，也有性质上的。基于零开尔文的模型会漏掉这些变化。”这些结果与实验观测相符。"
-              },
-              {
-                "t": "p",
-                "x": "Wiktor说：“十年前，我们大概无法在这样的规模上做到这一点。”她将这些大规模计算得以实现归功于机器学习的发展。"
+                "x": "“这开辟了一条批量生产‘研究’的新路，”Riebler说。不堪重负的编辑们认为，批量生产和AI-generated的研究正威胁着要压垮同行评审体系。在所审查的论文中，99%没有提供源代码。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático sigue\ndefectos a temperatura real",
-          "body": "Chalmers hizo viable calcular defectos con temperatura y halló cambios que los modelos a cero absoluto no ven.",
-          "mini_headline": "Modelado de defectos según la temperatura",
+          "headline": "Artículos hechos en dos horas\ntensan la revisión por pares",
+          "body": "NTNU halló herramientas que convierten datos de salud en artículos en menos de dos horas; el 99% no compartía código.",
+          "mini_headline": "Artículos en dos horas tensan la revisión por pares",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
-                "cap": "Credit: CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+                "cap": "Credit: Kindel Media from Pexels"
               },
               {
                 "t": "p",
-                "x": "Los cálculos estándar de defectos en materiales suelen basarse en cero Kelvin, menos 273 grados Celsius. Investigadores de la Chalmers University of Technology han demostrado ahora un marco mucho más eficaz para calcular las propiedades de los defectos teniendo en cuenta los efectos de la temperatura, publicado en npj Computational Materials."
+                "x": "Tras notar un aumento repentino de las citas de su trabajo, la estadística de NTNU Andrea Riebler descubrió a un proveedor en China que vende una herramienta que permite extraer rápidamente artículos a partir de datos de salud pública. El nuevo software permite a cualquiera producir artículos de investigación listos para publicar en menos de dos horas."
               },
               {
                 "t": "p",
-                "x": "“Modelamos los defectos de los materiales estudiando un átomo ausente en la estructura cristalina y observando cómo la temperatura afecta al comportamiento de este defecto puntual”, explica el doctorando Tobias Hainer. Los defectos pueden introducir niveles de energía dentro de la banda prohibida de un semiconductor, y su posición determina si son perjudiciales o útiles."
+                "x": "Las citas de su artículo de 2017 sobre predicción del cáncer pasaron de 70 en 2024 a más de 250 al año siguiente. Casi todos los nuevos artículos procedían de investigadores chinos, y la mayoría se basaba en datos del Global Burden of Disease (GBD). En uno de los más de 700 artículos GBD examinados, el equipo encontró una referencia a un paquete de software comercial; una empresa de la región de Guangzhou vende software, asistencia de redacción AI-powered e instrucciones."
               },
               {
                 "t": "p",
-                "x": "“Encontramos cambios bastante significativos en varios materiales, tanto cuantitativos como cualitativos. Estos cambios pasarían inadvertidos en un modelo basado en cero Kelvin”, afirma la profesora Julia Wiktor. Los resultados coinciden con las observaciones experimentales."
-              },
-              {
-                "t": "p",
-                "x": "“Hace diez años, probablemente no habríamos podido hacer esto a tal escala”, dice Wiktor, que atribuye a los avances del aprendizaje automático que estos cálculos extensos sean viables."
+                "x": "\"Esto abre una nueva forma de producir 'investigación' en masa\", afirma Riebler. Los editores, sobrecargados, creen que la investigación producida en masa y la AI-generated amenazan con desbordar el sistema de revisión por pares. En el 99% de los artículos examinados no se proporcionó el código fuente."
               }
             ]
           }

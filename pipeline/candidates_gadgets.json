@@ -1,205 +1,134 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-11-03T23:00:00Z",
+  "now_iso": "2026-11-04T22:03:11Z",
   "window_hours": 336,
+  "generated_by": "librarian",
   "items": [
     {
-      "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
-      "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T18:35:16+00:00",
-      "excerpt": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition. Sound Recognition and Shazam are already on the watch, but Live Rewind and Siri Recap are now available in the beta. Live Rewind can show you a transcript of the last 15 seconds of a conversation.",
-      "og_image": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
-    },
-    {
-      "title": "Siri Is Getting Ears on the Apple Watch: Here's What That Means for Your Privacy",
-      "url": "https://www.cnet.com/tech/apple-watch-audio-intelligence-series-12-ultra-4-siri-recap-rewind/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T14:53:58-05:00",
-      "excerpt": "Two controversial new features arriving in beta this week will let the Apple Watch rewind and recap conversations.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-02-at-10.48.06-PM.png"
-    },
-    {
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
       "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-03T20:16:17+00:00",
-      "excerpt": "Siri AI is also expanding across Calendar, Mail, Messages, Music, and more.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C10.736302165243%2C100%2C78.527395669513&w=1200"
+      "published_iso": "2026-11-04T18:26:07Z",
+      "excerpt": "CEO Carl Pei says Nothing’s first “AI-native” device “couldn’t have been an app.”",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
     },
     {
-      "title": "iPadOS 27.3 Expands Siri Mode to Camera App",
-      "url": "https://www.macrumors.com/2026/11/03/ipados-27-3-siri-mode-in-camera-app/",
-      "source": "MacRumors",
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-11-03T20:56:28+00:00",
-      "excerpt": "iOS 27 added a Siri tab to the Camera app on the iPhone 15 Pro and newer for convenient access to Visual Intelligence. Starting with iPadOS 27.3, which is in beta starting today, that feature has expanded to iPad Pro and iPad Air models with the M1 chip and newer, as well as the iPad mini models with the A17 Pro and A20 Pro chips. When you switch to Siri mode in the Camera app on supported iPhone or iPad models, you can get information about things around you.",
-      "og_image": "https://images.macrumors.com/t/mw7LcApbJeGnI2ymk74ndswwBzA=/1600x/article-new/2026/11/Siri-in-Camera-Feature.jpg"
+      "published_iso": "2026-11-04T20:23:24Z",
+      "excerpt": "Google's Gemini for Home now connects to AT&T's Connected Life smart security system, bringing Gemini's AI features to the carrier's home security setup.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497"
+    },
+    {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T18:00:00Z",
+      "excerpt": "Filtering conversations and memories through AI is a reality-bending lesson in why intelligence can’t replace wisdom.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Disneyland Is Training a Class of AI Robot Interns",
+      "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T20:13:45Z",
+      "excerpt": "From Pixar robots to help you park your car to droids roaming Star Wars land, physical AI is popping up all over Disneyland.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100639_YouTube.jpeg"
+    },
+    {
+      "title": "Apple Watch learned new hand gestures in just a minute. It’s the most exciting wearable research I’ve seen in years.",
+      "url": "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T13:51:33Z",
+      "excerpt": "Researchers have developed a system called TransfHAR that uses the motion sensors inside the Apple Watch, the accelerometer and the gyroscope, to learn and identify activities based on the movement of your hands and wrist.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "The wearable on your wrist can predict blood pressure crisis events days in advance",
+      "url": "https://www.digitaltrends.com/wearables/the-wearable-on-your-wrist-can-predict-blood-pressure-crisis-events-days-in-advance/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-02T15:09:49Z",
+      "excerpt": "Research courtesy of the American Heart Association claims that these mass-market wearable devices can help predict episodes of dangerously high blood pressure, or hypertensive crisis, up to three days in advance",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Huawei-Watch-D3-Blood-Pressure-6-e1793628370685.jpg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "This treadmill owner used Claude to escape a subscription trap, and it's glorious",
+      "url": "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T10:20:57Z",
+      "excerpt": "NordicTrack wanted another subscription. One owner had other plans, and Claude helped turn those plans into a clever treadmill makeover.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-scaled.jpg"
+    },
+    {
+      "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+      "url": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T17:15:09Z",
+      "excerpt": "The TVPort project is another example of people using Claude Code to bring software to other platforms",
+      "og_image": "https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg"
+    },
+    {
+      "title": "Can Netflix's new AI tool stop your TV-streaming doomscrolling? How to try it",
+      "url": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
+      "source": "ZDNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T17:05:06Z",
+      "excerpt": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here's how it works.",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg"
+    },
+    {
+      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-04T12:00:00Z",
+      "excerpt": "Developer is aiming for 30 Hz performance on Intel Panther Lake NPUs but the current version of this research driver is only achieving 2 to 3 Hz.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Ro4sQLyJUnVjqu8DK7qu85-1920-80.jpg"
     },
     {
       "title": "Samsung's Android XR 'Intelligent Eyewear' reportedly launches in December",
       "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-11-02T15:16:52+00:00",
+      "published_iso": "2026-11-02T15:16:52Z",
       "excerpt": "Samsung Intelligent Eyewear, the first pair of Android XR camera glasses, are set to debut just ahead of Christmas at an unknown price.",
       "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "Here's when Samsung’s first Android XR glasses could arrive in the US",
-      "url": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-usa-available-3731079/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T11:02:12+00:00",
-      "excerpt": "A new industry report suggests when Samsung's first pair of smart glasses will be available for purchase in the US.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg"
-    },
-    {
-      "title": "Cyclon wants to replace your iPhone with an AI phone that actually gets things done",
-      "url": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-11-02T23:01:43-07:00",
-      "excerpt": "Y Combinator-backed startup Cyclon is building an AI phone that can navigate apps, complete tasks, and even create apps on demand.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-11-02T18:32:21+00:00",
-      "excerpt": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg"
-    },
-    {
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T22:20:50+00:00",
-      "excerpt": "You can sign up for the Sonos 27voice waitlist on November 6th.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25651509/_STK084_SONOS_C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "Sonos' new voice assistant is launching in early access on November 6",
-      "url": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T20:48:49+00:00",
-      "excerpt": "The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.",
-      "og_image": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg"
-    },
-    {
-      "title": "LG smart TVs will soon be the new place where you can order food",
-      "url": "https://www.digitaltrends.com/home-theater/lg-smart-tvs-will-soon-be-the-new-place-where-you-can-order-food-thanks-to-soundhound-ai/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T11:14:35-07:00",
-      "excerpt": "LG Smart TVs could soon let you browse restaurant menus, order food, and pay without reaching for your phone, thanks to a new SoundHound AI partnership.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/12/lg-c3-oled-review-63.jpg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "How to Turn Off AI Slop on Your Echo Show Smart Display",
-      "url": "https://www.cnet.com/home/smart-home/how-to-turn-off-ai-slop-on-your-echo-show-smart-display/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T07:00:03-05:00",
-      "excerpt": "My Amazon smart display has been filling with AI garbage. Here's how to clear it out if you're struggling.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Echo-Show-Elephant-AI.jpg"
-    },
-    {
-      "title": "ChatGPT Dots are getting smarter, and you won't have to lift a finger",
-      "url": "https://www.androidauthority.com/openai-chatgpt-dots-update-3731008/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T08:03:36+00:00",
-      "excerpt": "OpenAI is making ChatGPT Dots smarter with GPT-6 Astra and GPT-6.1 Terra, allowing them to automatically pick the best AI model for each task.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
     },
     {
       "title": "AI robots apparently can't do nothing: They start working even without instructions",
       "url": "https://www.notebookcheck.net/AI-robots-apparently-can-t-do-nothing-They-start-working-even-without-instructions.1440109.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-11-02T12:16:00+01:00",
+      "published_iso": "2026-11-02T11:16:00Z",
       "excerpt": "Six AI-powered robot models were tasked with performing activities in a simulation – but even without receiving any instructions, all of them started moving. Five systems even independently carried out tasks that nobody had asked them to perform. Researchers see this as a previously underestimated safety vulnerability in autonomous robots and demonstrate why even a simple stop command isn't a reliable solution.",
       "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/robots-working.jpg"
     },
     {
-      "title": "Apple Watch’s new AI memory features are here with iOS 27.3, and they could change how you remember (or forget) conversations",
-      "url": "https://www.digitaltrends.com/wearables/apple-watchs-new-ai-memory-features-enter-beta-testing-and-they-could-change-how-you-remember-or-forget-conversations/",
-      "source": "Digital Trends",
+      "title": "The Philips Hue app now lets AI build smart light automations for you, but early adopters are running into errors and unhelpful limitations",
+      "url": "https://www.techradar.com/home/smart-lights/philips-hue-just-launched-its-ambitious-custom-ai-behaviors-but-early-teething-troubles-show-the-smart-assistant-might-not-be-quite-ready-for-prime-time",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-11-03T04:31:13-07:00",
-      "excerpt": "Missed what someone said? Apple’s newest Watch beta turns the last 15 seconds into text and recaps your day’s conversations.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ios-iphone.jpg?resize=1200%2C630&ssl=1"
+      "published_iso": "2026-11-02T11:26:14Z",
+      "excerpt": "The promised Custom AI Behaviors are now available in the Hue app for Hue Bridge Pro owners.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/A9pUpHUdRuqBZNLELt2kfK-2048-80.png"
     },
     {
-      "title": "Gemini Notebook for Android, iOS adds built-in audio recorder",
-      "url": "https://9to5google.com/2026/10/27/gemini-notebook-recorder/",
-      "source": "9to5Google",
+      "title": "Amazon’s new Echo Show 16 feels like the future of Alexa, with a slimmer design and a smarter interface",
+      "url": "https://www.techradar.com/home/smart-home-hubs/amazons-new-echo-show-16-has-a-thinner-design-a-better-screen-and-a-clever-new-way-to-organize-alexa-conversations",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-10-27T22:44:07+00:00",
-      "excerpt": "After introducing Connected App integration last week, Gemini Notebook has rolled out an audio recorder on Android and iOS.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-5.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "Tiny Corp unveils new AI workstation with monstrous 16 TB SSD array and 128 GB GPU memory",
-      "url": "https://www.notebookcheck.net/Tiny-Corp-unveils-new-AI-workstation-with-monstrous-16-TB-SSD-array-and-128-GB-GPU-memory.1437365.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-29T15:39:00+01:00",
-      "excerpt": "Tiny Corp has unveiled the tinybox red kimi, a new AI workstation featuring four AMD Radeon AI Pro R9700 GPUs, 128 GB of combined GPU memory and a 16 TB high-speed RAID array. The company claims the system can run Moonshot AI's massive Kimi K3 model locally at an interactive 40 tokens per second.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Tinybox-Red-Kimi.webp"
-    },
-    {
-      "title": "Amazon Echo Show 16 launches as Fire TV, night-vision camera and smart home hub",
-      "url": "https://www.notebookcheck.net/Amazon-Echo-Show-16-launches-as-Fire-TV-night-vision-camera-and-smart-home-hub.1436314.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-28T13:36:00+01:00",
-      "excerpt": "Amazon has just unveiled its most advanced Echo Show yet, as the Echo Show 16 combines a smart home hub with built-in Fire TV, the Alexa+ AI chatbot, and a high-quality display with an optional anti-glare nano-texture surface.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Echo-Show-16.jpg"
-    },
-    {
-      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
-      "url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-10-30T10:08:13+00:00",
-      "excerpt": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
-      "og_image": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg"
-    },
-    {
-      "title": "Amazon introduces Echo Time, a smarter way to start and end your day",
-      "url": "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock",
-      "source": "About Amazon",
-      "category": "gadgets",
-      "published_iso": "2026-10-28T11:55:19.304Z",
-      "excerpt": "The all-new Echo Time is a smart alarm clock with hundreds of customizable clock faces, smart alarms, and a beautiful adaptive display.",
-      "og_image": "https://assets.aboutamazon.com/0b/2d/0ee2dcc243c7a1b64666b54bb22c/echotime-hero-amazonnews-ck102526.gif"
-    },
-    {
-      "title": "Samsung’s Smart Glasses Face an Uphill Battle",
-      "url": "https://gizmodo.com/samsungs-smart-glasses-have-an-uphill-battle-2000833759",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-11-02T15:55:37+00:00",
-      "excerpt": "It could launch its smart glasses as soon as mid-December—which would be relatively poor timing.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Samsung-Warby-Parker-Eyewear-Glasses-07-1200x675.jpg"
-    },
-    {
-      "title": "'Cyclon' uses an old Google Pixel to let AI do literally everything for you – who wants this?",
-      "url": "https://9to5google.com/2026/11/03/cyclon-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wants-this/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-11-03T18:15:00+00:00",
-      "excerpt": "As the AI era continues to find its footing in the consumer market, “Cyclon” is a new smartphone/software experience that,...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-angled.jpg?quality=82&strip=all&resize=1200,628"
+      "published_iso": "2026-10-28T12:00:00Z",
+      "excerpt": "TechRadar hands-on with Amazon's new Echo Show 16: a thinner design, a better screen and a new way to organize Alexa+ conversations, though it's pricey.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bCToGDhtk7MjtkRDLDgpYT-2560-80.jpg"
     }
   ]
 }

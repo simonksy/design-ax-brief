@@ -9470,6 +9470,171 @@
           "x": "我们深知连接你早已依赖的工具有多重要，这让智能体工作流直接进入你的构建管线。"
         }
       ]
+    },
+    "games/ue6-blueprints-drop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games Japan于2026年11月3日和4日在东京有明的TFT大厅举办了Unreal Engine官方大会“Unreal Fest Tokyo 2026”。在首日主题演讲中登台的Epic Games CEO Tim Sweeney改变了此前的过渡方针，宣布次世代引擎“Unreal Engine 6”将从一开始就废除蓝图（BP），游戏玩法的编写统一使用Verse。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+          "cap": "在主题演讲中登台的Epic Games CEO Tim Sweeney"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney将游戏成长为生态系统列为行业的一大趋势。在UE6中，游戏玩法将全部用脚本语言“Verse”编写，引擎部分则继续用C++开发。据介绍，Verse像C#一样易写，又与C++同样强大，在借助AI的游戏开发中将比以往任何语言都更易驾驭。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games内部已借助AI实现1.5倍至4倍的生产力提升，预计到2026年底至少达到4倍，到2027年中期在许多领域实现10倍改进。开发者可通过MCP服务器或Python脚本接口，将自己喜欢的模型接入Unreal Engine。"
+        },
+        {
+          "t": "p",
+          "x": "在6月的“Unreal Fest 2026”上，官方曾表示蓝图会保留在UE6初始版本中，待以Verse为核心的体系成熟后再弃用。但由于发现对AI而言，处理文本代码远比处理蓝图高效，因此决定从将于2027年底推出的UE6开发环境中移除蓝图。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney承认这一决定不会受到欢迎，并就废除蓝图致歉。从UE5迁移到UE6时，将提供借助AI的转换手段。Epic Games正在《堡垒之夜》中试行，把数千个蓝图和剩余的C++游戏玩法代码迁移到Verse。"
+        }
+      ]
+    },
+    "games/power-moon-recomp-odyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一款无需模拟器即可在PC上直接运行任天堂Switch《超级马里奥 奥德赛》的非官方移植版于2日公开。开发者表示，开发过程中得到了AI编程智能体“Claude”的大力帮助。"
+        },
+        {
+          "t": "p",
+          "x": "该移植版名为“Power Moon Recomp”。开发者“Zarathustra Dev”于2日上午9时（韩国时间）发布首个版本0.1.0，到3日下午3时左右的0.1.6为止，在30多个小时内共发布了7个版本。其方式为静态重编译（static recompilation），即先将Switch的ARM64可执行代码转换为C语言，再构建为面向Windows、Linux、macOS的普通程序。"
+        },
+        {
+          "t": "p",
+          "x": "开发者在代码库说明中写道：“在AI编程智能体（Claude）的大量帮助下完成，由人类把握方向并进行测试。”但未说明何时使用了哪款Claude模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "内部分辨率最高可在1080p基础上提升至4倍，支持4K 输出，帧率锁定为60fps。移植版不包含游戏文件，用户需放入从自己的Switch中自行提取的1.0.0版本可执行文件和数据。代码以MIT许可证公开。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware于2日报道，已证实Anthropic员工阿迪·奥斯马尼在Claude Code的提示词中加入了两行阻止“重现特定游戏”的句子。Power Moon Recomp是将用户自有的原始代码转换为PC版本的方式，但这一做法与Anthropic规则有何关系尚不清楚。截至3日晚，任天堂尚未发表官方立场。"
+        }
+      ]
+    },
+    "games/wow-forever-addon-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "World of Warcraft: Forever让我们重返旧日美好时光里的Azeroth，而最能体现“旧日美好时光”的，莫过于跳进CurseForge寻找本月最佳add-ons（插件）。只是如今，World of Warcraft: Forever的AI制作（AI-made）插件已和普通插件一样常见。"
+        },
+        {
+          "t": "p",
+          "x": "当然，并非所有用AI（或借助AI）制作的插件都自动算作AI slop。但其风险包括缺乏充分测试、没有维护保障、潜在的安全风险，以及无法保证不违反Blizzard TOS。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+          "cap": "Questie"
+        },
+        {
+          "t": "p",
+          "x": "手工制作的替代品包括Questie，它在地图上概览已完成和可接取的任务；以及Dialogue UI，它为对话选项增添了几分动感。DialogKey – Numy Edition、What’s Training?和Enhance QoL也在推荐之列。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+          "cap": "Dialogue UI"
+        },
+        {
+          "t": "p",
+          "x": "前往CurseForge上的WoW: Forever页面，按创建日期排序，每刷新几次就会看到新项目冒出来。一些诚实的创作者会在描述中注明使用了AI，但很多人没有。“对我来说，问题不在于AI做了它，而在于这个人和另外15个人做出了同一个插件的略有不同的变体，”u/blukraken写道。"
+        },
+        {
+          "t": "p",
+          "x": "World of Warcraft: Forever将于2026年11月4日（November 4, 2026）上线。"
+        }
+      ]
+    },
+    "games/yc-olam-minecraft-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Y Combinator与Olam Labs于10月30日发布了关于大量AI智能体行为的研究“Agents in Games”。该研究报告称，将50个AI智能体投入《我的世界》后，它们陷入了类似官僚主义的状态。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在名为“Civ50”的实验中，研究者将50个GPT-6.1 Sol智能体投入《我的世界》，只给出“建立繁荣的文明”这样笼统的指令。智能体名单上排在最前面的Ada成为事实上的领导者，并按名单顺序形成了层级结构。"
+        },
+        {
+          "t": "p",
+          "x": "然而首夜遭僵尸等怪物袭击，仅首日就有多达22名死亡，规避风险的倾向日益增强。Ada将计划修改为“在明亮且封闭的庇护所内待命”。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在扔食物传递时被其他智能体误食的“事件”发生后，进行了3分钟“不追责式”的调查，并将用写有名字的箱子传递食物的流程形成了文件。实验持续了约3小时，最终形成了“衙门式团体”，例如4个智能体花11分钟任命了“专门把仅仅1份骨粉当肥料撒的负责人”。"
+        },
+        {
+          "t": "p",
+          "x": "“Agents in Games”还进行了“Bed Wars”等其他实验，由GPT-6.1 Sol与Claude Opus 5.5的智能体各10个对战。"
+        }
+      ]
+    },
+    "games/war-thunder-dlss5-gaijin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
+        },
+        {
+          "t": "p",
+          "x": "11月中旬（mid-November），War Thunder的大型更新Eagle's Shadow将上线，加入搭载3D-Guided Neural Rendering的NVIDIA DLSS 5。对Gaijin Entertainment而言，任何真实感的提升都必须保留玩家熟悉的涂装、材质和整体观感。团队将DLSS 5整合进Dagor Engine的色彩管线，按照游戏的参考画面进行调校，并在空战、陆战和海战中全面评估效果。"
+        },
+        {
+          "t": "p",
+          "x": "美术总监Kirill Stupin表示，DLSS 5改善了高光与阴影，并带来“我们以前根本无法实现的全新层次的微对比度”。真正的整合难题只有一个：DLSS 5在sRGB下工作，而Dagor Engine使用线性HDR管线。“为解决这个问题，我们必须让色彩管理管线可逆”，从而为DLSS 5生成一张“semi-final（准最终）”图像，再把它的改动映射回线性HDR。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+          "cap": "DLSS 5 ON"
+        },
+        {
+          "t": "p",
+          "x": "团队反复调整设置，“确保涂装、表面磨损和材质属性忠实于我们的原始资产”。最明显的对比出现在阴天和雨天，DLSS 5能呈现柔和的漫射光、湿润的表面和细微的材质细节。Stupin给其他开发者的建议是：花时间按照自己的美术方向去调校。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+          "cap": "DLSS 5 ON"
+        }
+      ]
     }
   }
 }

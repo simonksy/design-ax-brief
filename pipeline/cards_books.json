@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "books",
   "cards": [
     {
-      "id": "books-ao3-clone-takedown",
+      "id": "goncourt-jaenada-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "팬픽 작가들이 닫은\nAI 오디오북 복제 사이트",
-      "body": "AO3 팬픽 AI 오디오북 사이트가 하루 새 2,000건 넘는 삭제 요청에 닫혔다.",
-      "mini_headline": "팬픽 작가들이 닫은\nAI 복제 사이트",
+      "headline": "Goncourt 수상 작가\nJaenada의 AI 고백",
+      "body": "Prix Goncourt를 받은 이튿날 Jaenada가 AI를 썼다고 털어놨다.",
+      "mini_headline": "Goncourt 수상자\nAI 사용 인정",
       "tool": "Books",
-      "source": "404 Media",
-      "url": "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,203 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-            "cap": "사진: Elin Melaas, Unsplash"
+            "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+            "cap": "수상자 Philippe Jaenada는 AI를 절제해 쓴다고 했다"
           },
           {
             "t": "p",
-            "x": "Archive of Our Own(AO3)의 팬픽션을 긁어다 다시 올리고 오디오북 버전으로 돈을 받던 바이브 코딩 사이트가 문을 닫았다. 사이트가 열려 있던 단 하루 사이에 작가들의 삭제 요청이 2,000건 넘게 들어왔다고 제작자는 밝혔다."
+            "x": "Thélyson Orélien이 소설 ''C'était ça ou mourir''의 일부를 AI로 썼다고 밝힌 지 몇 주 만에 프랑스 문단에서 또 스캔들이 터졌다."
           },
           {
             "t": "p",
-            "x": "ao3.life가 나온 건 AO3가 보안 사고로 몇 주간 서비스를 멈춘다고 발표한 직후다. 제작자 Ganesh는 “가상 머신 40대를 제어하는 AI 에이전트 무리”가 인터넷에서 작품을 긁어모았다고 썼다. 사이트는 EPUBs 파일과 AI 생성(AI-generated) 오디오북을 내놓고 처음 3분이 지나면 요금을 물렸다. 수익의 91%는 작가에게 돌려주겠다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+            "x": "프랑스 최고 권위의 문학상 Goncourt상(Goncourt Prize)을 받은 지 하루 만에 Philippe Jaenada는 France Inter 라디오에 나와 책을 쓰면서 인공지능에 \"세 번\" 기댔다고 인정했다. 처음엔 \"독자와 놀기 위해\" ChatGPT가 쓴 문장 하나를 슬쩍 끼워 넣었는데, Goncourt 심사위원들에게는 화요일에야 이 사실을 알렸다. \"기술적인 데이터에 대해 완전히 터무니없는 답을 내놓는 ChatGPT를 조금 놀리기 위해\" 쓴 적도 있다."
           },
           {
             "t": "p",
-            "x": "AO3의 보관물 잠금 기능도 소용없었다는 작가들이 있었다. 잠가 둔 작품까지 사이트에 그대로 올라왔다고 한다. 작품을 내리려면 AO3 프로필에 메모를 남겨야 했지만, AO3가 멈춘 동안에는 그럴 방법이 없었다."
+            "x": "62세 소설가는 기술 자료를 조사하는 데도 이 기술을 썼다고 말했다. \"AI를 밀어낼 수는 없고, 없는 것처럼 굴 수도 없다고 생각한다. 써야 하고, 인정해야 하고, 길들여야 하며, 우리가 대체되도록 놔둬서는 안 된다. 쓸모가 있어야 한다.\""
           },
           {
             "t": "p",
-            "x": "“왜 AI 슬롭(AI Slop) 오디오북에 돈을 받았느냐고요? … 사이트를 연 지 24시간 만에 순 사용자가 126,592명이었습니다.” Ganesh는 이렇게 썼다. “위안이 될지 모르겠지만, 오디오북은 11개쯤 팔았습니다.” 글 끝에서 Ganesh는 자신을 “좋은 일을 한다고 생각했던 인도의 17세”라고 소개했다."
+            "x": "발언은 곧장 소셜미디어에서 화제가 됐다. 일부는 AI가 \"(...) 오늘날의 맞춤법 검사기처럼 피할 수 없게 될 것\"이라고 본 반면, 실망감을 내비친 이들도 있었다."
+          },
+          {
+            "t": "p",
+            "x": "Jaenada의 수상작은 1940년대 후반 Paris에서 일어난 젊은 여성의 미제 살인 사건을 파헤친 ''L'Inconnue du quai de Javel''이다. Orélien의 소설은 AI 사용 의혹과 표절 시비 끝에 Goncourt 두 번째 후보 명단에서 빠졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fanfic writers sink\nan AI audiobook clone site",
-          "body": "More than 2,000 takedown notices in one day took down a site selling AI audiobooks made from scraped AO3 fanfic.",
-          "mini_headline": "Fanfic writers sink\nan AI clone site",
+          "headline": "Goncourt winner Jaenada\nadmits using AI in his novel",
+          "body": "A day after winning the Prix Goncourt, Philippe Jaenada told France Inter he used AI while writing his novel.",
+          "mini_headline": "Goncourt winner\nadmits AI use",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "Photo by Elin Melaas on Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "The laureate Philippe Jaenada claims to use AI in moderation"
               },
               {
                 "t": "p",
-                "x": "A vibe-coded site that scraped Archive of Our Own (AO3) fanfiction works, reuploaded them and charged for audiobook versions is down after its creator said they received over 2,000 takedown requests from authors in the single day it was up."
+                "x": "A fresh scandal has erupted in the French literary world, just weeks after Thélyson Orélien revealed that he used AI to write part of his novel ''C'était ça ou mourir''."
               },
               {
                 "t": "p",
-                "x": "ao3.life sprang up after AO3 announced a weeks-long outage following a security incident. Its creator, Ganesh, wrote that “a swarm of AI Agents controlling 40 virtual machines” scraped the internet for works. The site offered EPUBs and AI-generated audiobooks, charging after the first three minutes, and claimed authors would get 91% of the profits."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "Barely a day after winning the Goncourt Prize, France's top literary award, Philippe Jaenada admitted on France Inter radio that he had turned to artificial intelligence \"three times\" while writing his book. He first used it to slip in a sentence written by ChatGPT, in order to \"play with the reader\", revealing it to the Goncourt jurors only on Tuesday. It was also used \"to make fun a bit of ChatGPT, which gives completely absurd answers about a technical piece of data\"."
               },
               {
                 "t": "p",
-                "x": "Some authors said AO3’s archive lock didn’t matter: their locked works still appeared on the site. To get works removed, authors had to leave a note on their AO3 profile — impossible while AO3 was down."
+                "x": "The 62-year-old novelist said he had also used the technology for technical research: \"I think we cannot push AI away, we cannot act as if it did not exist. We have to use it, we have to acknowledge it, we have to tame it and not let ourselves be replaced. It has to be useful.\""
               },
               {
                 "t": "p",
-                "x": "“Why did I charge for AI Slop audiobooks? … It had 126,592 unique users within 24 hours of going up,” Ganesh wrote. “I sold like 11 audiobooks, if it’s any consolation.” They signed off as “a 17 year old from India that thought they were doing something good.”"
+                "x": "The comments were immediately picked up on social media. While some believe AI \"is going to become unavoidable (...) like a spellchecker today\", others expressed disappointment."
+              },
+              {
+                "t": "p",
+                "x": "Jaenada was honoured for ''L'Inconnue du quai de Javel'', which investigates the unsolved murder of a young woman in Paris in the late 1940s. Orélien's novel was removed from the second Goncourt shortlist over suspicions of AI use and accusations of plagiarism."
               }
             ]
           }
         },
         "ko": {
-          "headline": "팬픽 작가들이 닫은\nAI 오디오북 복제 사이트",
-          "body": "AO3 팬픽 AI 오디오북 사이트가 하루 새 2,000건 넘는 삭제 요청에 닫혔다.",
-          "mini_headline": "팬픽 작가들이 닫은\nAI 복제 사이트",
+          "headline": "Goncourt 수상 작가\nJaenada의 AI 고백",
+          "body": "Prix Goncourt를 받은 이튿날 Jaenada가 AI를 썼다고 털어놨다.",
+          "mini_headline": "Goncourt 수상자\nAI 사용 인정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "사진: Elin Melaas, Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "수상자 Philippe Jaenada는 AI를 절제해 쓴다고 했다"
               },
               {
                 "t": "p",
-                "x": "Archive of Our Own(AO3)의 팬픽션을 긁어다 다시 올리고 오디오북 버전으로 돈을 받던 바이브 코딩 사이트가 문을 닫았다. 사이트가 열려 있던 단 하루 사이에 작가들의 삭제 요청이 2,000건 넘게 들어왔다고 제작자는 밝혔다."
+                "x": "Thélyson Orélien이 소설 ''C'était ça ou mourir''의 일부를 AI로 썼다고 밝힌 지 몇 주 만에 프랑스 문단에서 또 스캔들이 터졌다."
               },
               {
                 "t": "p",
-                "x": "ao3.life가 나온 건 AO3가 보안 사고로 몇 주간 서비스를 멈춘다고 발표한 직후다. 제작자 Ganesh는 “가상 머신 40대를 제어하는 AI 에이전트 무리”가 인터넷에서 작품을 긁어모았다고 썼다. 사이트는 EPUBs 파일과 AI 생성(AI-generated) 오디오북을 내놓고 처음 3분이 지나면 요금을 물렸다. 수익의 91%는 작가에게 돌려주겠다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "프랑스 최고 권위의 문학상 Goncourt상(Goncourt Prize)을 받은 지 하루 만에 Philippe Jaenada는 France Inter 라디오에 나와 책을 쓰면서 인공지능에 \"세 번\" 기댔다고 인정했다. 처음엔 \"독자와 놀기 위해\" ChatGPT가 쓴 문장 하나를 슬쩍 끼워 넣었는데, Goncourt 심사위원들에게는 화요일에야 이 사실을 알렸다. \"기술적인 데이터에 대해 완전히 터무니없는 답을 내놓는 ChatGPT를 조금 놀리기 위해\" 쓴 적도 있다."
               },
               {
                 "t": "p",
-                "x": "AO3의 보관물 잠금 기능도 소용없었다는 작가들이 있었다. 잠가 둔 작품까지 사이트에 그대로 올라왔다고 한다. 작품을 내리려면 AO3 프로필에 메모를 남겨야 했지만, AO3가 멈춘 동안에는 그럴 방법이 없었다."
+                "x": "62세 소설가는 기술 자료를 조사하는 데도 이 기술을 썼다고 말했다. \"AI를 밀어낼 수는 없고, 없는 것처럼 굴 수도 없다고 생각한다. 써야 하고, 인정해야 하고, 길들여야 하며, 우리가 대체되도록 놔둬서는 안 된다. 쓸모가 있어야 한다.\""
               },
               {
                 "t": "p",
-                "x": "“왜 AI 슬롭(AI Slop) 오디오북에 돈을 받았느냐고요? … 사이트를 연 지 24시간 만에 순 사용자가 126,592명이었습니다.” Ganesh는 이렇게 썼다. “위안이 될지 모르겠지만, 오디오북은 11개쯤 팔았습니다.” 글 끝에서 Ganesh는 자신을 “좋은 일을 한다고 생각했던 인도의 17세”라고 소개했다."
+                "x": "발언은 곧장 소셜미디어에서 화제가 됐다. 일부는 AI가 \"(...) 오늘날의 맞춤법 검사기처럼 피할 수 없게 될 것\"이라고 본 반면, 실망감을 내비친 이들도 있었다."
+              },
+              {
+                "t": "p",
+                "x": "Jaenada의 수상작은 1940년대 후반 Paris에서 일어난 젊은 여성의 미제 살인 사건을 파헤친 ''L'Inconnue du quai de Javel''이다. Orélien의 소설은 AI 사용 의혹과 표절 시비 끝에 Goncourt 두 번째 후보 명단에서 빠졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ファンフィク作家らが\nAI朗読の複製サイトを閉鎖",
-          "body": "AO3の二次創作を使うAI朗読サイトが、1日で2,000件超の削除要請を受け閉鎖した。",
-          "mini_headline": "ファンフィク作家らが\nAI複製サイトを閉鎖",
+          "headline": "Goncourt賞作家\nJaenada、AI使用告白",
+          "body": "Prix Goncourt受賞の翌日、Jaenadaは小説にAIを使ったと明かした。",
+          "mini_headline": "Goncourt賞作家\nAI使用を認める",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "写真：Elin Melaas／Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "受賞者Philippe Jaenadaは、AIは控えめに使っていると語る"
               },
               {
                 "t": "p",
-                "x": "Archive of Our Own(AO3)のファンフィクション作品を収集して再アップロードし、オーディオブック版を有料で提供していたバイブコーディング製のサイトが閉鎖された。制作者によれば、公開していたわずか1日の間に、作家から2,000件を超える削除要請が届いたという。"
+                "x": "Thélyson Orélienが小説『C'était ça ou mourir』の一部をAIで書いたと明かしてからわずか数週間で、フランス文学界に新たなスキャンダルが起きた。"
               },
               {
                 "t": "p",
-                "x": "ao3.lifeは、AO3がセキュリティインシデントを受けて数週間にわたるサービス停止を発表した後に登場した。制作者のGaneshは、「40台の仮想マシンを操るAIエージェントの群れ」がネット上の作品を収集したと書いている。サイトはEPUBsとAI-generated(AI生成)のオーディオブックを提供し、最初の3分を過ぎると課金する仕組みで、利益の91%を作家に渡すと主張していた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "フランス最高峰の文学賞であるGoncourt賞(Goncourt Prize)の受賞からわずか一日後、Philippe JaenadaはFrance Interのラジオで、執筆中に人工知能に「三回」頼ったと認めた。最初は「読者と遊ぶ」ためにChatGPTが書いた一文を紛れ込ませ、そのことをGoncourtの審査員に明かしたのは火曜日になってからだった。また「技術的なデータについてまったくばかげた答えを返すChatGPTを少しからかう」ためにも使ったという。"
               },
               {
                 "t": "p",
-                "x": "一部の作家によると、AO3のアーカイブロックは意味をなさなかった。ロックした作品もサイトに掲載されていたからだ。作品を削除してもらうにはAO3のプロフィールにメモを残す必要があったが、AO3が停止している間はそれも不可能だった。"
+                "x": "62歳の作家は、技術的な調べものにもこの技術を使ったと語った。「AIを遠ざけることはできないし、存在しないかのように振る舞うこともできないと思う。使い、認め、飼いならし、自分たちが取って代わられないようにしなければならない。役に立つものでなければならない」"
               },
               {
                 "t": "p",
-                "x": "「なぜAIスロップ(AI Slop)のオーディオブックに課金したのか? … 公開から24時間以内にユニークユーザーは126,592人に達した」とGaneshは書いた。「慰めになるかはわからないが、オーディオブックは11冊ほど売れた」。そして「良いことをしていると思っていたインドの17歳」と名乗って文章を締めくくった。"
+                "x": "この発言はすぐにソーシャルメディアで取り上げられた。AIは「(...)今日のスペルチェッカーのように避けられないものになる」とみる人がいる一方、失望を表す人もいた。"
+              },
+              {
+                "t": "p",
+                "x": "Jaenadaは、1940年代後半のParisで起きた若い女性の未解決殺人事件を追う『L'Inconnue du quai de Javel』で受賞した。Orélienの小説は、AI使用の疑いと盗作の指摘を受けてGoncourtの第二次候補リストから外された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "同人写手联手\n关停AI有声书克隆站",
-          "body": "一家抓取AO3同人作品制作AI有声书售卖的网站，一天内收到2,000多份下架通知后关闭。",
-          "mini_headline": "同人写手联手\n关停AI克隆站",
+          "headline": "Goncourt奖得主\nJaenada承认用AI写作",
+          "body": "获Prix Goncourt次日，Jaenada在France Inter承认用了AI。",
+          "mini_headline": "Goncourt得主\n承认使用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "图片：Elin Melaas / Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "获奖者Philippe Jaenada称自己有节制地使用AI"
               },
               {
                 "t": "p",
-                "x": "一家用氛围编程搭建的网站抓取了Archive of Our Own（AO3）上的同人作品，重新上传并对有声书版本收费，如今已经关闭。网站创建者表示，在上线的仅仅一天里，就收到了作者们发来的2,000多份下架请求。"
+                "x": "就在Thélyson Orélien透露其小说《C'était ça ou mourir》部分内容由AI写成仅几周后，法国文坛又爆发了新的丑闻。"
               },
               {
                 "t": "p",
-                "x": "AO3因安全事件宣布停机数周后，ao3.life随即出现。其创建者Ganesh写道，是“一群操控40台虚拟机的AI智能体”在网上抓取了这些作品。该网站提供EPUBs电子书和AI-generated（AI生成）有声书，前三分钟之后开始收费，并声称作者可获得91%的利润。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "在摘得法国最高文学奖Goncourt奖（Goncourt Prize）仅一天后，Philippe Jaenada在France Inter电台承认，他在写书时曾“三次”借助人工智能。第一次是为了“和读者玩个游戏”，悄悄放进一句由ChatGPT写的句子，直到周二才向Goncourt评委透露。他还用它“稍微取笑一下ChatGPT，它对一项技术数据给出了完全荒谬的答案”。"
               },
               {
                 "t": "p",
-                "x": "一些作者表示，AO3的存档锁定功能毫无作用：他们锁定的作品依然出现在该网站上。作者若想下架作品，必须在自己的AO3个人主页上留言——而在AO3停机期间，这根本无法做到。"
+                "x": "这位62岁的小说家说，他也用这项技术做技术性资料查询：“我认为我们无法把AI推开，也不能假装它不存在。我们必须使用它、承认它、驯服它，而不是让自己被取代。它必须有用。”"
               },
               {
                 "t": "p",
-                "x": "“我为什么要为AI垃圾（AI Slop）有声书收费？……上线24小时内就有126,592名独立用户。”Ganesh写道，“如果能算一点安慰的话，我大概只卖出了11本有声书。”文末，其署名为“一个以为自己在做好事的17岁印度人”。"
+                "x": "这番言论立即在社交媒体上引发讨论。有人认为AI“将变得不可避免（...）就像今天的拼写检查器”，也有人表示失望。"
+              },
+              {
+                "t": "p",
+                "x": "Jaenada凭借《L'Inconnue du quai de Javel》获奖，该书追查1940年代末Paris一名年轻女子未破的谋杀案。Orélien的小说因涉嫌使用AI和被指抄袭，被移出Goncourt第二轮候选名单。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de fanfic tumban\nun sitio clon de audiolibros IA",
-          "body": "Más de 2.000 avisos de retirada en un día tumbaron un sitio que vendía audiolibros de IA creados con fanfics de AO3.",
-          "mini_headline": "Autores de fanfic tumban\nun sitio clon con IA",
+          "headline": "Jaenada, ganador del Goncourt,\nadmite que usó AI en su novela",
+          "body": "Un día después de ganar el Prix Goncourt, Philippe Jaenada dijo en France Inter que usó AI al escribir su novela.",
+          "mini_headline": "Ganador del Goncourt\nadmite usar AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "Foto de Elin Melaas en Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "El galardonado Philippe Jaenada asegura usar la AI con moderación"
               },
               {
                 "t": "p",
-                "x": "Un sitio creado con vibe coding que extraía obras de fanfiction de Archive of Our Own (AO3), las volvía a subir y cobraba por versiones en audiolibro ha cerrado, después de que su creador dijera que recibió más de 2.000 solicitudes de retirada de autores en el único día que estuvo activo."
+                "x": "Ha estallado un nuevo escándalo en el mundo literario francés, apenas unas semanas después de que Thélyson Orélien revelara que usó AI para escribir parte de su novela ''C'était ça ou mourir''."
               },
               {
                 "t": "p",
-                "x": "ao3.life surgió después de que AO3 anunciara una interrupción de varias semanas tras un incidente de seguridad. Su creador, Ganesh, escribió que “un enjambre de agentes de IA que controlaban 40 máquinas virtuales” rastreó internet en busca de obras. El sitio ofrecía EPUBs y audiolibros AI-generated (generados por IA), cobraba a partir de los tres primeros minutos y aseguraba que los autores recibirían el 91% de los beneficios."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "Apenas un día después de ganar el Premio Goncourt (Goncourt Prize), el principal galardón literario de Francia, Philippe Jaenada admitió en la radio France Inter que había recurrido a la inteligencia artificial \"tres veces\" mientras escribía su libro. Primero la usó para colar una frase escrita por ChatGPT, con el fin de \"jugar con el lector\", algo que no reveló a los jurados del Goncourt hasta el martes. También la usó \"para burlarse un poco de ChatGPT, que da respuestas completamente absurdas sobre un dato técnico\"."
               },
               {
                 "t": "p",
-                "x": "Algunos autores dijeron que el bloqueo de archivo de AO3 no sirvió de nada: sus obras bloqueadas seguían apareciendo en el sitio. Para retirar sus obras, los autores debían dejar una nota en su perfil de AO3, algo imposible mientras AO3 estaba caído."
+                "x": "El novelista, de 62 años, dijo que también había usado la tecnología para investigación técnica: \"Creo que no podemos apartar la AI, no podemos actuar como si no existiera. Tenemos que usarla, tenemos que reconocerla, tenemos que domarla y no dejarnos reemplazar. Tiene que ser útil.\""
               },
               {
                 "t": "p",
-                "x": "“¿Por qué cobré por audiolibros de AI Slop? … Tuvo 126.592 usuarios únicos en las 24 horas posteriores a su lanzamiento”, escribió Ganesh. “Vendí unos 11 audiolibros, si sirve de consuelo”. Se despidió como “una persona de 17 años de India que creía estar haciendo algo bueno”."
+                "x": "Los comentarios se difundieron de inmediato en las redes sociales. Mientras algunos creen que la AI \"va a volverse inevitable (...) como un corrector ortográfico hoy\", otros expresaron decepción."
+              },
+              {
+                "t": "p",
+                "x": "Jaenada fue premiado por ''L'Inconnue du quai de Javel'', que investiga el asesinato sin resolver de una joven en Paris a finales de la década de 1940. La novela de Orélien fue retirada de la segunda lista de finalistas del Goncourt por sospechas de uso de AI y acusaciones de plagio."
               }
             ]
           }
@@ -223,141 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "팬픽 작가들이 닫은\nAI 오디오북 복제 사이트",
-          "body": "AO3 팬픽 AI 오디오북 사이트가 하루 2,000건 넘는 삭제 요청에 닫혔다.",
-          "mini_headline": "팬픽 작가들이 닫은\nAI 복제 사이트",
+          "headline": "Goncourt 수상 작가\nJaenada의 AI 고백",
+          "body": "Prix Goncourt 수상 이튿날 Jaenada는 AI를 썼다고 밝혔다.",
+          "mini_headline": "Goncourt 수상자\nAI 사용 인정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "사진: Elin Melaas, Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "수상자 Philippe Jaenada는 AI를 절제해서 쓴다고 말했다"
               },
               {
                 "t": "p",
-                "x": "Archive of Our Own(AO3)의 팬픽션 작품을 긁어 와 다시 올리고 오디오북 버전에 돈을 받던 바이브 코딩 사이트가 문을 닫았다. 제작자는 사이트가 열려 있던 단 하루 동안 작가들에게서 2,000건이 넘는 삭제 요청을 받았다고 밝혔다."
+                "x": "Thélyson Orélien이 소설 ''C'était ça ou mourir''의 일부를 AI로 썼다고 밝힌 지 불과 몇 주 만에 프랑스 문단에 새로운 스캔들이 터졌다."
               },
               {
                 "t": "p",
-                "x": "ao3.life는 AO3가 보안 사고 이후 몇 주간 서비스를 중단한다고 발표한 뒤 등장했다. 제작자 Ganesh는 “가상 머신 40대를 제어하는 AI 에이전트 무리”가 인터넷에서 작품을 긁어모았다고 썼다. 사이트는 EPUBs 파일과 AI 생성(AI-generated) 오디오북을 제공하며 처음 3분이 지나면 요금을 받았고, 수익의 91%를 작가에게 주겠다고 주장했다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "프랑스 최고 권위의 문학상인 Goncourt상(Goncourt Prize)을 받은 지 하루 만에 Philippe Jaenada는 France Inter 라디오에서 책을 쓰는 동안 인공지능에 \"세 번\" 기댔다고 인정했다. 처음에는 \"독자와 놀기 위해\" ChatGPT가 쓴 문장 하나를 슬쩍 끼워 넣었고, 이 사실을 Goncourt 심사위원들에게는 화요일에야 알렸다. 또 \"기술적인 데이터에 대해 완전히 터무니없는 답을 내놓는 ChatGPT를 조금 놀리기 위해\" 쓰기도 했다."
               },
               {
                 "t": "p",
-                "x": "일부 작가는 AO3의 보관물 잠금 기능이 소용없었다고 말했다. 잠가 둔 작품도 사이트에 그대로 올라와 있었다는 것이다. 작품을 내리려면 AO3 프로필에 메모를 남겨야 했는데, AO3가 멈춘 동안에는 불가능한 일이었다."
+                "x": "62세의 이 소설가는 기술적인 자료 조사에도 이 기술을 썼다고 말했다. \"AI를 밀어낼 수는 없고, 없는 것처럼 굴 수도 없다고 생각한다. 써야 하고, 인정해야 하고, 길들여야 하며, 우리가 대체되도록 놔둬서는 안 된다. 쓸모가 있어야 한다.\""
               },
               {
                 "t": "p",
-                "x": "“왜 AI 슬롭(AI Slop) 오디오북에 돈을 받았느냐고요? … 사이트를 연 지 24시간 만에 순 사용자가 126,592명이었습니다.” Ganesh는 이렇게 썼다. “위안이 될지 모르겠지만, 오디오북은 11개쯤 팔았습니다.” Ganesh는 자신을 “좋은 일을 한다고 생각했던 인도의 17세”라고 소개하며 글을 맺었다."
+                "x": "이 발언은 곧바로 소셜미디어에서 화제가 됐다. 일부는 AI가 \"(...) 오늘날의 맞춤법 검사기처럼 피할 수 없게 될 것\"이라고 보지만, 실망감을 드러낸 이들도 있었다."
+              },
+              {
+                "t": "p",
+                "x": "Jaenada는 1940년대 후반 Paris에서 벌어진 한 젊은 여성의 미제 살인 사건을 파헤친 ''L'Inconnue du quai de Javel''로 상을 받았다. Orélien의 소설은 AI 사용 의혹과 표절 시비로 Goncourt 두 번째 후보 명단에서 빠졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ファンフィク作家らが\nAI朗読の複製サイトを閉鎖",
-          "body": "AO3の二次創作を使うAI朗読サイトが、1日で2,000件超の削除要請を受け閉鎖した。",
-          "mini_headline": "ファンフィク作家らが\nAI複製サイトを閉鎖",
+          "headline": "Goncourt賞作家\nJaenada、AI使用告白",
+          "body": "Prix Goncourt受賞の翌日、Jaenadaは小説にAIを使ったと明かした。",
+          "mini_headline": "Goncourt賞作家\nAI使用を認める",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "写真：Elin Melaas／Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "受賞者Philippe Jaenadaは、AIは控えめに使っていると語る"
               },
               {
                 "t": "p",
-                "x": "Archive of Our Own(AO3)のファンフィクション作品を収集して再アップロードし、オーディオブック版を有料で提供していたバイブコーディング製のサイトが閉鎖された。制作者によれば、公開していたわずか1日の間に、作家から2,000件を超える削除要請が届いたという。"
+                "x": "Thélyson Orélienが小説『C'était ça ou mourir』の一部をAIで書いたと明かしてからわずか数週間で、フランス文学界に新たなスキャンダルが起きた。"
               },
               {
                 "t": "p",
-                "x": "ao3.lifeは、AO3がセキュリティインシデントを受けて数週間にわたるサービス停止を発表した後に登場した。制作者のGaneshは、「40台の仮想マシンを操るAIエージェントの群れ」がネット上の作品を収集したと書いている。サイトはEPUBsとAI-generated(AI生成)のオーディオブックを提供し、最初の3分を過ぎると課金する仕組みで、利益の91%を作家に渡すと主張していた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "フランス最高峰の文学賞であるGoncourt賞(Goncourt Prize)の受賞からわずか一日後、Philippe JaenadaはFrance Interのラジオで、執筆中に人工知能に「三回」頼ったと認めた。最初は「読者と遊ぶ」ためにChatGPTが書いた一文を紛れ込ませ、そのことをGoncourtの審査員に明かしたのは火曜日になってからだった。また「技術的なデータについてまったくばかげた答えを返すChatGPTを少しからかう」ためにも使ったという。"
               },
               {
                 "t": "p",
-                "x": "一部の作家によると、AO3のアーカイブロックは意味をなさなかった。ロックした作品もサイトに掲載されていたからだ。作品を削除してもらうにはAO3のプロフィールにメモを残す必要があったが、AO3が停止している間はそれも不可能だった。"
+                "x": "62歳の作家は、技術的な調べものにもこの技術を使ったと語った。「AIを遠ざけることはできないし、存在しないかのように振る舞うこともできないと思う。使い、認め、飼いならし、自分たちが取って代わられないようにしなければならない。役に立つものでなければならない」"
               },
               {
                 "t": "p",
-                "x": "「なぜAIスロップ(AI Slop)のオーディオブックに課金したのか? … 公開から24時間以内にユニークユーザーは126,592人に達した」とGaneshは書いた。「慰めになるかはわからないが、オーディオブックは11冊ほど売れた」。そして「良いことをしていると思っていたインドの17歳」と名乗って文章を締めくくった。"
+                "x": "この発言はすぐにソーシャルメディアで取り上げられた。AIは「(...)今日のスペルチェッカーのように避けられないものになる」とみる人がいる一方、失望を表す人もいた。"
+              },
+              {
+                "t": "p",
+                "x": "Jaenadaは、1940年代後半のParisで起きた若い女性の未解決殺人事件を追う『L'Inconnue du quai de Javel』で受賞した。Orélienの小説は、AI使用の疑いと盗作の指摘を受けてGoncourtの第二次候補リストから外された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "同人写手联手\n关停AI有声书克隆站",
-          "body": "一家抓取AO3同人作品制作AI有声书售卖的网站，一天内收到2,000多份下架通知后关闭。",
-          "mini_headline": "同人写手联手\n关停AI克隆站",
+          "headline": "Goncourt奖得主\nJaenada承认用AI写作",
+          "body": "获Prix Goncourt次日，Jaenada在France Inter承认用了AI。",
+          "mini_headline": "Goncourt得主\n承认使用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "图片：Elin Melaas / Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "获奖者Philippe Jaenada称自己有节制地使用AI"
               },
               {
                 "t": "p",
-                "x": "一家用氛围编程搭建的网站抓取了Archive of Our Own（AO3）上的同人作品，重新上传并对有声书版本收费，如今已经关闭。网站创建者表示，在上线的仅仅一天里，就收到了作者们发来的2,000多份下架请求。"
+                "x": "就在Thélyson Orélien透露其小说《C'était ça ou mourir》部分内容由AI写成仅几周后，法国文坛又爆发了新的丑闻。"
               },
               {
                 "t": "p",
-                "x": "AO3因安全事件宣布停机数周后，ao3.life随即出现。其创建者Ganesh写道，是“一群操控40台虚拟机的AI智能体”在网上抓取了这些作品。该网站提供EPUBs电子书和AI-generated（AI生成）有声书，前三分钟之后开始收费，并声称作者可获得91%的利润。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "在摘得法国最高文学奖Goncourt奖（Goncourt Prize）仅一天后，Philippe Jaenada在France Inter电台承认，他在写书时曾“三次”借助人工智能。第一次是为了“和读者玩个游戏”，悄悄放进一句由ChatGPT写的句子，直到周二才向Goncourt评委透露。他还用它“稍微取笑一下ChatGPT，它对一项技术数据给出了完全荒谬的答案”。"
               },
               {
                 "t": "p",
-                "x": "一些作者表示，AO3的存档锁定功能毫无作用：他们锁定的作品依然出现在该网站上。作者若想下架作品，必须在自己的AO3个人主页上留言——而在AO3停机期间，这根本无法做到。"
+                "x": "这位62岁的小说家说，他也用这项技术做技术性资料查询：“我认为我们无法把AI推开，也不能假装它不存在。我们必须使用它、承认它、驯服它，而不是让自己被取代。它必须有用。”"
               },
               {
                 "t": "p",
-                "x": "“我为什么要为AI垃圾（AI Slop）有声书收费？……上线24小时内就有126,592名独立用户。”Ganesh写道，“如果能算一点安慰的话，我大概只卖出了11本有声书。”文末，其署名为“一个以为自己在做好事的17岁印度人”。"
+                "x": "这番言论立即在社交媒体上引发讨论。有人认为AI“将变得不可避免（...）就像今天的拼写检查器”，也有人表示失望。"
+              },
+              {
+                "t": "p",
+                "x": "Jaenada凭借《L'Inconnue du quai de Javel》获奖，该书追查1940年代末Paris一名年轻女子未破的谋杀案。Orélien的小说因涉嫌使用AI和被指抄袭，被移出Goncourt第二轮候选名单。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de fanfic tumban\nun sitio clon de audiolibros IA",
-          "body": "Más de 2.000 avisos de retirada en un día tumbaron un sitio que vendía audiolibros de IA creados con fanfics de AO3.",
-          "mini_headline": "Autores de fanfic tumban\nun sitio clon con IA",
+          "headline": "Jaenada, ganador del Goncourt,\nadmite que usó AI en su novela",
+          "body": "Un día después de ganar el Prix Goncourt, Philippe Jaenada dijo en France Inter que usó AI al escribir su novela.",
+          "mini_headline": "Ganador del Goncourt\nadmite usar AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
-                "cap": "Foto de Elin Melaas en Unsplash"
+                "src": "https://images.euronews.com/articles/stories/09/97/99/99/1536x864_cmsv2_1827a31b-adab-560a-879c-964d3b9d2b97-9979999.jpg",
+                "cap": "El galardonado Philippe Jaenada asegura usar la AI con moderación"
               },
               {
                 "t": "p",
-                "x": "Un sitio creado con vibe coding que extraía obras de fanfiction de Archive of Our Own (AO3), las volvía a subir y cobraba por versiones en audiolibro ha cerrado, después de que su creador dijera que recibió más de 2.000 solicitudes de retirada de autores en el único día que estuvo activo."
+                "x": "Ha estallado un nuevo escándalo en el mundo literario francés, apenas unas semanas después de que Thélyson Orélien revelara que usó AI para escribir parte de su novela ''C'était ça ou mourir''."
               },
               {
                 "t": "p",
-                "x": "ao3.life surgió después de que AO3 anunciara una interrupción de varias semanas tras un incidente de seguridad. Su creador, Ganesh, escribió que “un enjambre de agentes de IA que controlaban 40 máquinas virtuales” rastreó internet en busca de obras. El sitio ofrecía EPUBs y audiolibros AI-generated (generados por IA), cobraba a partir de los tres primeros minutos y aseguraba que los autores recibirían el 91% de los beneficios."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+                "x": "Apenas un día después de ganar el Premio Goncourt (Goncourt Prize), el principal galardón literario de Francia, Philippe Jaenada admitió en la radio France Inter que había recurrido a la inteligencia artificial \"tres veces\" mientras escribía su libro. Primero la usó para colar una frase escrita por ChatGPT, con el fin de \"jugar con el lector\", algo que no reveló a los jurados del Goncourt hasta el martes. También la usó \"para burlarse un poco de ChatGPT, que da respuestas completamente absurdas sobre un dato técnico\"."
               },
               {
                 "t": "p",
-                "x": "Algunos autores dijeron que el bloqueo de archivo de AO3 no sirvió de nada: sus obras bloqueadas seguían apareciendo en el sitio. Para retirar sus obras, los autores debían dejar una nota en su perfil de AO3, algo imposible mientras AO3 estaba caído."
+                "x": "El novelista, de 62 años, dijo que también había usado la tecnología para investigación técnica: \"Creo que no podemos apartar la AI, no podemos actuar como si no existiera. Tenemos que usarla, tenemos que reconocerla, tenemos que domarla y no dejarnos reemplazar. Tiene que ser útil.\""
               },
               {
                 "t": "p",
-                "x": "“¿Por qué cobré por audiolibros de AI Slop? … Tuvo 126.592 usuarios únicos en las 24 horas posteriores a su lanzamiento”, escribió Ganesh. “Vendí unos 11 audiolibros, si sirve de consuelo”. Se despidió como “una persona de 17 años de India que creía estar haciendo algo bueno”."
+                "x": "Los comentarios se difundieron de inmediato en las redes sociales. Mientras algunos creen que la AI \"va a volverse inevitable (...) como un corrector ortográfico hoy\", otros expresaron decepción."
+              },
+              {
+                "t": "p",
+                "x": "Jaenada fue premiado por ''L'Inconnue du quai de Javel'', que investiga el asesinato sin resolver de una joven en Paris a finales de la década de 1940. La novela de Orélien fue retirada de la segunda lista de finalistas del Goncourt por sospechas de uso de AI y acusaciones de plagio."
               }
             ]
           }
@@ -365,15 +365,15 @@
       }
     },
     {
-      "id": "toonsutra-cinematic-mode",
+      "id": "readwise-books-reader",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Toonsutra, AI로\n만화를 영화처럼",
-      "body": "Google Veo 3·Gemini·Lyria가 Toonsutra 만화를 움직인다.",
-      "mini_headline": "Toonsutra, AI로 만화를 움직이다",
+      "headline": "Readwise 리더 출시\nKindle에 도전장",
+      "body": "Readwise Books는 전자책 상점에 AI 기능과 MCP 서버를 붙였다.",
+      "mini_headline": "Readwise의 도전\nKindle·Goodreads",
       "tool": "Books",
-      "source": "AltBollywood",
-      "url": "https://www.altbollywood.com/post/toonsutra-ai-cinematic-mode-comics-india",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -381,173 +381,293 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+            "cap": "이미지 출처: Readwise"
           },
           {
             "t": "p",
-            "x": "인도 웹툰 플랫폼 Toonsutra가 Cinematic Mode 베타를 내놨다. 웹코믹을 짧은 멀티미디어 이야기로 바꿔 주는 기능이다. 움직이는 컷, 인도 언어 대사가 들어간 캐릭터 목소리, 장면 따라 바뀌는 배경음악, 자동 스크롤까지 갖춰 \"lean-back\" 방식으로 볼 수 있다. 회사 설명대로라면 만화가 스스로 이야기를 들려주는 셈이다."
+            "x": "나중에 읽기(read-it-later) 앱으로 알려진 Readwise가 Readwise Books를 내놓고 Amazon의 전자책 제국에 도전한다. 회사 설명으로는 \"Kindle과 Goodreads 앱의 중간\"이다. 책을 사고 읽고 기록하는 일을 한곳에서 하고, 읽은 단어 수·속도·깊이·몰입도·세션 같은 독서 데이터를 더 풍부하게 보여준다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+            "cap": "이미지 출처: Readwise"
           },
           {
             "t": "p",
-            "x": "프레임워크가 컷과 캐릭터를 읽고 무엇을 움직일지, 캐릭터 목소리는 어떨지, 음악은 어떤 역할을 할지 정한다. 회사가 밝힌 Google 모델은 세 가지다. 정지된 컷에 움직임을 입히는 Veo 3, 캐릭터 대사를 맡는 Gemini 2.5 Pro, 배경음악을 만드는 Lyria 2다. Cinematic Mode는 승인된 출판 파트너와 함께 만들었다고 한다."
+            "x": "스토어에는 빅 파이브 출판사를 포함한 여러 출판사의 전자책 \"수백만\" 권이 있고, 서비스는 우선 U.S.(미국)에서 시작한다. 종이책과 일부 오디오북도 판다. 시장 선두는 여전히 Kindle이다. Kindle+까지 합치면 점유율이 83%에 이른다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+            "cap": "이미지 출처: Readwise"
           },
           {
             "t": "p",
-            "x": "Co-Founder(공동창업자) 겸 CEO Vishal Anand는 이번 출시를 \"Comics 2.0의 탄생\"이라고 불렀다. 회사 집계로 Toonsutra의 월간 활성 사용자는 백만 명을 넘고, 작품은 3,300편 이상, 에피소드는 500,000편에 이른다."
+            "x": "사용자는 DRM-free EPUBs(DRM 없는 EPUB 파일)를 올리거나, Kindle의 Cloud Reader에서 읽은 세션을 기록하거나, 종이책 사진을 찍거나, 전자책을 소리 내어 읽게 할 수 있다. Readwise는 자사 지표를 \"독서판 Strava\"에 빗댄다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+            "cap": "이미지 출처: Readwise"
           },
           {
             "t": "p",
-            "x": "진짜 시험대는 기술보다 예술 쪽이다. 독자가 이야기를 더 얻었다고 느낄지, 만화를 덜 얻었다고 느낄지에 달렸다."
+            "x": "출판사가 허락하면 세션 요약, 정의·용어 찾기, 단어·구절 번역, 지금 읽는 대목을 묻는 위치 인식 기능 같은 AI 기반(AI-powered) 기능을 쓸 수 있다. (지금까지 참여한 곳은 HarperCollins뿐이다.) 공개 API와 AI 에이전트용 MCP 서버도 제공한다."
+          },
+          {
+            "t": "p",
+            "x": "앱은 계속 무료로 운영하지만 일부 AI 기능은 나중에 유료로 바뀐다. 지금은 베타라서 기존 Readwise 구독자가 아니면 초대를 받아야 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Toonsutra turns comics\ninto cinema with AI",
-          "body": "Indian webcomics platform Toonsutra uses Google's Veo 3, Gemini and Lyria to animate, voice and score its comics.",
-          "mini_headline": "Toonsutra animates\ncomics with AI",
+          "headline": "Readwise launches a reader\nto rival Kindle and Goodreads",
+          "body": "Readwise Books pairs an e-book store with publisher-permitted AI features and an MCP server for AI agents.",
+          "mini_headline": "Readwise takes on\nKindle and Goodreads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "Image Credits: Readwise"
               },
               {
                 "t": "p",
-                "x": "Toonsutra, the Indian webtoon platform, has launched Cinematic Mode in beta. It converts webcomics into short multimedia stories with animated panels, character voices including dialogue in Indian languages, adaptive background music and auto-scroll in a \"lean-back\" format. The company describes it as a comic that, in effect, narrates itself."
+                "x": "Readwise, the maker of a read-it-later app, is taking on Amazon's e-book empire with Readwise Books, which it describes as \"a cross between Kindle and the Goodreads apps\": a single place to buy, read, and track books, with richer reading data like words read, pace, depth, immersion, and sessions."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "Image Credits: Readwise"
               },
               {
                 "t": "p",
-                "x": "Its framework reads panels and characters to decide what to animate, how characters should sound and what the music should do. It credits three Google models: Veo 3 for turning static panels into animation, Gemini 2.5 Pro for character speech and Lyria 2 for background music. The company says Cinematic Mode was built with approved publishing partners."
+                "x": "Its store offers \"millions\" of e-books from the big five publishers and others, initially in the U.S. Print books and some audiobooks are available too. Kindle remains the leader, with an 83% share of the market when Kindle+ is included."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "Image Credits: Readwise"
               },
               {
                 "t": "p",
-                "x": "Co-Founder and CEO Vishal Anand has described the launch as \"the birth of Comics 2.0\". According to the company, Toonsutra has more than one million monthly active users and over 3,300 titles and 500,000 episodes."
+                "x": "Users can upload DRM-free EPUBs, track sessions in Kindle's Cloud Reader, snap photos of physical books, and have e-books read aloud. Readwise likens its metrics to a \"Strava for reading.\""
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "Image Credits: Readwise"
               },
               {
                 "t": "p",
-                "x": "Its real test is not technical but artistic: whether readers feel they are getting more of a story, or less of the comic."
+                "x": "With publishers' permission, the app will support AI-powered features like session recaps, definitions and term lookups, word and phrase translations, and a location-aware ability to ask questions about the part you're reading. (So far, only HarperCollins has opted in.) It also offers a public API and an MCP server that supports AI agents."
+              },
+              {
+                "t": "p",
+                "x": "The app will remain free, with some AI features later going behind a paywall. It is in beta and requires an invite unless you're already a Readwise subscriber."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Toonsutra, AI로\n만화를 영화처럼",
-          "body": "Google Veo 3·Gemini·Lyria가 Toonsutra 만화를 움직인다.",
-          "mini_headline": "Toonsutra, AI로 만화를 움직이다",
+          "headline": "Readwise 리더 출시\nKindle에 도전장",
+          "body": "Readwise Books는 전자책 상점에 AI 기능과 MCP 서버를 붙였다.",
+          "mini_headline": "Readwise의 도전\nKindle·Goodreads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "인도 웹툰 플랫폼 Toonsutra가 Cinematic Mode 베타를 내놨다. 웹코믹을 짧은 멀티미디어 이야기로 바꿔 주는 기능이다. 움직이는 컷, 인도 언어 대사가 들어간 캐릭터 목소리, 장면 따라 바뀌는 배경음악, 자동 스크롤까지 갖춰 \"lean-back\" 방식으로 볼 수 있다. 회사 설명대로라면 만화가 스스로 이야기를 들려주는 셈이다."
+                "x": "나중에 읽기(read-it-later) 앱으로 알려진 Readwise가 Readwise Books를 내놓고 Amazon의 전자책 제국에 도전한다. 회사 설명으로는 \"Kindle과 Goodreads 앱의 중간\"이다. 책을 사고 읽고 기록하는 일을 한곳에서 하고, 읽은 단어 수·속도·깊이·몰입도·세션 같은 독서 데이터를 더 풍부하게 보여준다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "프레임워크가 컷과 캐릭터를 읽고 무엇을 움직일지, 캐릭터 목소리는 어떨지, 음악은 어떤 역할을 할지 정한다. 회사가 밝힌 Google 모델은 세 가지다. 정지된 컷에 움직임을 입히는 Veo 3, 캐릭터 대사를 맡는 Gemini 2.5 Pro, 배경음악을 만드는 Lyria 2다. Cinematic Mode는 승인된 출판 파트너와 함께 만들었다고 한다."
+                "x": "스토어에는 빅 파이브 출판사를 포함한 여러 출판사의 전자책 \"수백만\" 권이 있고, 서비스는 우선 U.S.(미국)에서 시작한다. 종이책과 일부 오디오북도 판다. 시장 선두는 여전히 Kindle이다. Kindle+까지 합치면 점유율이 83%에 이른다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "Co-Founder(공동창업자) 겸 CEO Vishal Anand는 이번 출시를 \"Comics 2.0의 탄생\"이라고 불렀다. 회사 집계로 Toonsutra의 월간 활성 사용자는 백만 명을 넘고, 작품은 3,300편 이상, 에피소드는 500,000편에 이른다."
+                "x": "사용자는 DRM-free EPUBs(DRM 없는 EPUB 파일)를 올리거나, Kindle의 Cloud Reader에서 읽은 세션을 기록하거나, 종이책 사진을 찍거나, 전자책을 소리 내어 읽게 할 수 있다. Readwise는 자사 지표를 \"독서판 Strava\"에 빗댄다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "진짜 시험대는 기술보다 예술 쪽이다. 독자가 이야기를 더 얻었다고 느낄지, 만화를 덜 얻었다고 느낄지에 달렸다."
+                "x": "출판사가 허락하면 세션 요약, 정의·용어 찾기, 단어·구절 번역, 지금 읽는 대목을 묻는 위치 인식 기능 같은 AI 기반(AI-powered) 기능을 쓸 수 있다. (지금까지 참여한 곳은 HarperCollins뿐이다.) 공개 API와 AI 에이전트용 MCP 서버도 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "앱은 계속 무료로 운영하지만 일부 AI 기능은 나중에 유료로 바뀐다. 지금은 베타라서 기존 Readwise 구독자가 아니면 초대를 받아야 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Toonsutra、AIで\n漫画を映画に",
-          "body": "ToonsutraはGoogleのVeo 3、Gemini、Lyriaで漫画を映像化する。",
-          "mini_headline": "Toonsutra、AIで漫画を動かす",
+          "headline": "Readwiseの読書アプリ\nKindleに挑む",
+          "body": "Readwise Booksは電子書籍ストアにAI機能とMCPサーバーを備えた。",
+          "mini_headline": "Readwiseが\nKindle・Goodreadsに挑む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "インドのウェブトゥーンプラットフォームToonsutraが、Cinematic Modeをベータ版で公開した。ウェブコミックを短いマルチメディア作品に変換し、動くコマ、インドの言語による台詞を含むキャラクターボイス、場面に応じて変わるBGM、自動スクロールを「lean-back」形式で提供する。同社はこれを、事実上自ら語る漫画だと説明している。"
+                "x": "あとで読む(read-it-later)アプリを手がけるReadwiseが、Readwise BooksでAmazonの電子書籍帝国に挑む。同社はこのアプリを「KindleとGoodreadsアプリの中間」と説明する。本の購入、読書、記録を一か所で行え、読んだ単語数、ペース、深さ、没入度、セッションといった詳しい読書データも得られる。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "そのフレームワークはコマとキャラクターを読み取り、何を動かすか、キャラクターがどんな声で話すか、音楽が何をすべきかを決める。使われているのはGoogleの3つのモデルだ。静止したコマをアニメーションにするVeo 3、キャラクターの台詞を担うGemini 2.5 Pro、BGMを生むLyria 2である。同社によれば、Cinematic Modeは承認を受けた出版パートナーと共に構築された。"
+                "x": "ストアでは大手五社をはじめとする出版社の電子書籍を「数百万」点扱い、まずはU.S.(米国)で提供する。紙の本や一部のオーディオブックも購入できる。首位は依然としてKindleで、Kindle+を含めると市場シェアは83%に達する。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "Co-Founder(共同創業者)兼CEOのVishal Anandは、今回の公開を「Comics 2.0の誕生」と表現した。同社によると、Toonsutraの月間アクティブユーザーは百万人を超え、作品数は3,300超、エピソード数は500,000に上る。"
+                "x": "ユーザーはDRM-free EPUBs(DRMなしのEPUBファイル)をアップロードしたり、KindleのCloud Readerでのセッションを記録したり、紙の本を撮影したり、電子書籍を読み上げさせたりできる。Readwiseは自社の指標を「読書のStrava」にたとえる。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "本当の試金石は技術ではなく芸術にある。読者が物語をより多く得たと感じるのか、それとも漫画を失ったと感じるのかだ。"
+                "x": "出版社の許可があれば、セッションの要約、定義や用語の検索、単語やフレーズの翻訳、今読んでいる箇所について質問できる位置認識機能など、AI-powered(AIを活用した)機能が使える(今のところ参加しているのはHarperCollinsだけだ)。公開APIと、AIエージェントに対応したMCPサーバーも提供する。"
+              },
+              {
+                "t": "p",
+                "x": "アプリは今後も無料で、一部のAI機能はのちに有料化される。現在はベータ版で、既存のReadwise購読者でなければ招待が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Toonsutra用AI\n把漫画变成电影",
-          "body": "Toonsutra用Google的Veo 3、Gemini和Lyria让漫画动起来。",
-          "mini_headline": "Toonsutra用AI让漫画动起来",
+          "headline": "Readwise推出阅读应用\n剑指Kindle",
+          "body": "Readwise Books在电子书商店之外加入经出版社许可的AI功能和MCP服务器。",
+          "mini_headline": "Readwise挑战\nKindle与Goodreads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "印度网络漫画平台Toonsutra推出了Cinematic Mode测试版。该功能将网络漫画转化为简短的多媒体故事，提供动态分镜、包含印度语言对白的角色配音、随情节变化的背景音乐，以及\"lean-back\"式的自动滚动。公司称，这实际上是一部会自己讲述的漫画。"
+                "x": "以“稍后阅读”（read-it-later）应用起家的Readwise推出Readwise Books，向Amazon的电子书帝国发起挑战。该公司称它是“Kindle与Goodreads应用的结合体”：在一个地方购书、阅读和记录，并提供读过的字数、速度、深度、沉浸度和阅读时段等更丰富的阅读数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "其框架会读取分镜和角色，决定哪些内容需要动起来、角色应该是什么声音、音乐应发挥什么作用。公司列出了三款Google模型：用Veo 3把静态分镜变成动画，用Gemini 2.5 Pro生成角色语音，用Lyria 2制作背景音乐。公司表示，Cinematic Mode是与经过认可的出版合作伙伴共同打造的。"
+                "x": "其商店提供来自五大出版社及其他出版社的“数百万”本电子书，首先在U.S.（美国）上线。纸质书和部分有声书也可购买。Kindle仍是市场领导者，若计入Kindle+，市场份额达83%。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "Co-Founder（联合创始人）兼CEO Vishal Anand将此次发布形容为\"Comics 2.0的诞生\"。据公司介绍，Toonsutra的月活跃用户超过百万，拥有3,300多部作品和500,000集内容。"
+                "x": "用户可以上传DRM-free EPUBs（无DRM的EPUB文件），在Kindle的Cloud Reader中记录阅读时段，给纸质书拍照，还能让电子书朗读出来。Readwise把自己的阅读数据比作“阅读界的Strava”。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "真正的考验不在技术，而在艺术：读者究竟会觉得自己得到了更多故事，还是失去了漫画本身。"
+                "x": "经出版社许可，该应用将支持AI-powered（AI驱动的）功能，如阅读时段回顾、释义和术语查询、单词和短语翻译，以及可感知位置、就正在阅读的部分提问的功能。（目前只有HarperCollins选择加入。）它还提供公开API和支持AI智能体的MCP服务器。"
+              },
+              {
+                "t": "p",
+                "x": "该应用将保持免费，部分AI功能日后会转为付费。目前处于测试阶段，除非已是Readwise订阅用户，否则需要邀请才能使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Toonsutra convierte sus cómics\nen cine con AI",
-          "body": "La plataforma india Toonsutra usa Veo 3, Gemini y Lyria de Google para animar, dar voz y musicalizar sus cómics.",
-          "mini_headline": "Toonsutra anima cómics con AI",
+          "headline": "Readwise lanza un lector para\ncompetir con Kindle y Goodreads",
+          "body": "Readwise Books une una tienda de e-books, funciones de AI autorizadas por editoriales y un servidor MCP.",
+          "mini_headline": "Readwise desafía a\nKindle y Goodreads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "Toonsutra, la plataforma india de webtoons, lanzó Cinematic Mode en beta. La función convierte los webcómics en breves historias multimedia con viñetas animadas, voces de personajes que incluyen diálogos en idiomas de la India, música de fondo adaptativa y desplazamiento automático en formato \"lean-back\". La empresa lo describe como un cómic que, en la práctica, se narra a sí mismo."
+                "x": "Readwise, creadora de una app para leer más tarde (read-it-later), desafía el imperio de e-books de Amazon con Readwise Books, que describe como \"un cruce entre Kindle y las apps de Goodreads\": un solo lugar para comprar, leer y registrar libros, con datos de lectura más ricos como palabras leídas, ritmo, profundidad, inmersión y sesiones."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "Su sistema lee las viñetas y los personajes para decidir qué animar, cómo deben sonar los personajes y qué debe hacer la música. Atribuye el trabajo a tres modelos de Google: Veo 3 para convertir viñetas estáticas en animación, Gemini 2.5 Pro para el habla de los personajes y Lyria 2 para la música de fondo. La empresa afirma que Cinematic Mode se creó con socios editoriales aprobados."
+                "x": "Su tienda ofrece \"millones\" de e-books de las cinco grandes editoriales y de otras, inicialmente en U.S. (Estados Unidos). También hay libros impresos y algunos audiolibros. Kindle sigue siendo el líder, con un 83% del mercado si se incluye Kindle+."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "El Co-Founder (cofundador) y CEO Vishal Anand ha descrito el lanzamiento como \"el nacimiento de Comics 2.0\". Según la empresa, Toonsutra tiene más de un millón de usuarios activos mensuales y más de 3,300 títulos y 500,000 episodios."
+                "x": "Los usuarios pueden subir DRM-free EPUBs (EPUB sin DRM), registrar sesiones en el Cloud Reader de Kindle, fotografiar libros físicos y hacer que los e-books se lean en voz alta. Readwise compara sus métricas con un \"Strava de la lectura\"."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "Su verdadera prueba no es técnica sino artística: si los lectores sienten que reciben más historia o menos cómic."
+                "x": "Con permiso de las editoriales, la app ofrecerá funciones AI-powered (impulsadas por AI) como resúmenes de sesión, definiciones y búsqueda de términos, traducción de palabras y frases, y la posibilidad, según la posición en el texto, de hacer preguntas sobre la parte que se está leyendo. (Por ahora, solo HarperCollins se ha sumado.) También ofrece una API pública y un servidor MCP compatible con agentes de AI."
+              },
+              {
+                "t": "p",
+                "x": "La app seguirá siendo gratuita, aunque algunas funciones de AI pasarán más adelante a ser de pago. Está en beta y requiere invitación, salvo para quienes ya están suscritos a Readwise."
               }
             ]
           }
@@ -555,121 +675,201 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Toonsutra, AI로\n만화를 영화처럼",
-          "body": "Google Veo 3·Gemini·Lyria가 Toonsutra 만화를 움직인다.",
-          "mini_headline": "Toonsutra, AI로 만화를 움직이다",
+          "headline": "Readwise 리더 출시\nKindle에 도전장",
+          "body": "Readwise Books는 전자책 상점에 AI 기능과 MCP 서버를 더했다.",
+          "mini_headline": "Readwise의 도전\nKindle·Goodreads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "인도 웹툰 플랫폼 Toonsutra가 Cinematic Mode를 베타로 출시했다. 웹코믹을 짧은 멀티미디어 이야기로 바꾸는 기능으로, 움직이는 컷과 인도 언어 대사를 포함한 캐릭터 목소리, 장면에 맞춰 바뀌는 배경음악, 자동 스크롤을 \"lean-back\" 방식으로 제공한다. 회사는 이를 사실상 스스로 이야기를 들려주는 만화라고 설명한다."
+                "x": "나중에 읽기(read-it-later) 앱을 만드는 Readwise가 Readwise Books로 Amazon의 전자책 제국에 도전한다. 회사는 이 앱을 \"Kindle과 Goodreads 앱의 중간\"이라고 설명한다. 책을 사고, 읽고, 기록하는 일을 한곳에서 할 수 있고, 읽은 단어 수, 속도, 깊이, 몰입도, 세션 같은 더 풍부한 독서 데이터를 보여준다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "프레임워크는 컷과 캐릭터를 읽어 무엇을 움직일지, 캐릭터가 어떤 목소리를 낼지, 음악이 어떤 역할을 할지 정한다. 회사가 밝힌 Google 모델은 세 가지다. 정지된 컷을 애니메이션으로 바꾸는 Veo 3, 캐릭터 대사를 맡는 Gemini 2.5 Pro, 배경음악을 만드는 Lyria 2다. 회사는 Cinematic Mode를 승인된 출판 파트너와 함께 만들었다고 말한다."
+                "x": "스토어는 빅 파이브 출판사를 비롯한 여러 출판사의 전자책 \"수백만\" 권을 갖췄고, 우선 U.S.(미국)에서 서비스한다. 종이책과 일부 오디오북도 살 수 있다. 시장 선두는 여전히 Kindle로, Kindle+까지 포함하면 점유율이 83%에 이른다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "Co-Founder(공동창업자) 겸 CEO Vishal Anand는 이번 출시를 \"Comics 2.0의 탄생\"이라고 표현했다. 회사에 따르면 Toonsutra의 월간 활성 사용자는 백만 명이 넘고, 작품은 3,300편 이상, 에피소드는 500,000편에 이른다."
+                "x": "사용자는 DRM-free EPUBs(DRM 없는 EPUB 파일)를 올리고, Kindle의 Cloud Reader에서 읽은 세션을 기록하고, 종이책 사진을 찍고, 전자책을 소리 내어 읽게 할 수 있다. Readwise는 자사의 지표를 \"독서판 Strava\"에 빗댄다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "이미지 출처: Readwise"
               },
               {
                 "t": "p",
-                "x": "진짜 시험대는 기술이 아니라 예술이다. 독자가 이야기를 더 얻는다고 느낄지, 아니면 만화를 덜 얻는다고 느낄지가 관건이다."
+                "x": "출판사가 허락하면 세션 요약, 정의와 용어 찾기, 단어·구절 번역, 지금 읽는 부분에 대해 질문하는 위치 인식 기능 같은 AI 기반(AI-powered) 기능을 쓸 수 있다. (지금까지는 HarperCollins만 참여했다.) 공개 API와 AI 에이전트를 지원하는 MCP 서버도 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "앱은 계속 무료로 운영하되, 일부 AI 기능은 나중에 유료로 바뀐다. 현재 베타 단계로, 기존 Readwise 구독자가 아니면 초대를 받아야 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Toonsutra、AIで\n漫画を映画に",
-          "body": "ToonsutraはGoogleのVeo 3、Gemini、Lyriaで漫画を映像化する。",
-          "mini_headline": "Toonsutra、AIで漫画を動かす",
+          "headline": "Readwiseの読書アプリ\nKindleに挑む",
+          "body": "Readwise Booksは電子書籍ストアにAI機能とMCPサーバーを備えた。",
+          "mini_headline": "Readwiseが\nKindle・Goodreadsに挑む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "インドのウェブトゥーンプラットフォームToonsutraが、Cinematic Modeをベータ版で公開した。ウェブコミックを短いマルチメディア作品に変換し、動くコマ、インドの言語による台詞を含むキャラクターボイス、場面に応じて変わるBGM、自動スクロールを「lean-back」形式で提供する。同社はこれを、事実上自ら語る漫画だと説明している。"
+                "x": "あとで読む(read-it-later)アプリを手がけるReadwiseが、Readwise BooksでAmazonの電子書籍帝国に挑む。同社はこのアプリを「KindleとGoodreadsアプリの中間」と説明する。本の購入、読書、記録を一か所で行え、読んだ単語数、ペース、深さ、没入度、セッションといった詳しい読書データも得られる。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "そのフレームワークはコマとキャラクターを読み取り、何を動かすか、キャラクターがどんな声で話すか、音楽が何をすべきかを決める。使われているのはGoogleの3つのモデルだ。静止したコマをアニメーションにするVeo 3、キャラクターの台詞を担うGemini 2.5 Pro、BGMを生むLyria 2である。同社によれば、Cinematic Modeは承認を受けた出版パートナーと共に構築された。"
+                "x": "ストアでは大手五社をはじめとする出版社の電子書籍を「数百万」点扱い、まずはU.S.(米国)で提供する。紙の本や一部のオーディオブックも購入できる。首位は依然としてKindleで、Kindle+を含めると市場シェアは83%に達する。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "Co-Founder(共同創業者)兼CEOのVishal Anandは、今回の公開を「Comics 2.0の誕生」と表現した。同社によると、Toonsutraの月間アクティブユーザーは百万人を超え、作品数は3,300超、エピソード数は500,000に上る。"
+                "x": "ユーザーはDRM-free EPUBs(DRMなしのEPUBファイル)をアップロードしたり、KindleのCloud Readerでのセッションを記録したり、紙の本を撮影したり、電子書籍を読み上げさせたりできる。Readwiseは自社の指標を「読書のStrava」にたとえる。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "画像提供:Readwise"
               },
               {
                 "t": "p",
-                "x": "本当の試金石は技術ではなく芸術にある。読者が物語をより多く得たと感じるのか、それとも漫画を失ったと感じるのかだ。"
+                "x": "出版社の許可があれば、セッションの要約、定義や用語の検索、単語やフレーズの翻訳、今読んでいる箇所について質問できる位置認識機能など、AI-powered(AIを活用した)機能が使える(今のところ参加しているのはHarperCollinsだけだ)。公開APIと、AIエージェントに対応したMCPサーバーも提供する。"
+              },
+              {
+                "t": "p",
+                "x": "アプリは今後も無料で、一部のAI機能はのちに有料化される。現在はベータ版で、既存のReadwise購読者でなければ招待が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Toonsutra用AI\n把漫画变成电影",
-          "body": "Toonsutra用Google的Veo 3、Gemini和Lyria让漫画动起来。",
-          "mini_headline": "Toonsutra用AI让漫画动起来",
+          "headline": "Readwise推出阅读应用\n剑指Kindle",
+          "body": "Readwise Books在电子书商店之外加入经出版社许可的AI功能和MCP服务器。",
+          "mini_headline": "Readwise挑战\nKindle与Goodreads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "印度网络漫画平台Toonsutra推出了Cinematic Mode测试版。该功能将网络漫画转化为简短的多媒体故事，提供动态分镜、包含印度语言对白的角色配音、随情节变化的背景音乐，以及\"lean-back\"式的自动滚动。公司称，这实际上是一部会自己讲述的漫画。"
+                "x": "以“稍后阅读”（read-it-later）应用起家的Readwise推出Readwise Books，向Amazon的电子书帝国发起挑战。该公司称它是“Kindle与Goodreads应用的结合体”：在一个地方购书、阅读和记录，并提供读过的字数、速度、深度、沉浸度和阅读时段等更丰富的阅读数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "其框架会读取分镜和角色，决定哪些内容需要动起来、角色应该是什么声音、音乐应发挥什么作用。公司列出了三款Google模型：用Veo 3把静态分镜变成动画，用Gemini 2.5 Pro生成角色语音，用Lyria 2制作背景音乐。公司表示，Cinematic Mode是与经过认可的出版合作伙伴共同打造的。"
+                "x": "其商店提供来自五大出版社及其他出版社的“数百万”本电子书，首先在U.S.（美国）上线。纸质书和部分有声书也可购买。Kindle仍是市场领导者，若计入Kindle+，市场份额达83%。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "Co-Founder（联合创始人）兼CEO Vishal Anand将此次发布形容为\"Comics 2.0的诞生\"。据公司介绍，Toonsutra的月活跃用户超过百万，拥有3,300多部作品和500,000集内容。"
+                "x": "用户可以上传DRM-free EPUBs（无DRM的EPUB文件），在Kindle的Cloud Reader中记录阅读时段，给纸质书拍照，还能让电子书朗读出来。Readwise把自己的阅读数据比作“阅读界的Strava”。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "图片来源：Readwise"
               },
               {
                 "t": "p",
-                "x": "真正的考验不在技术，而在艺术：读者究竟会觉得自己得到了更多故事，还是失去了漫画本身。"
+                "x": "经出版社许可，该应用将支持AI-powered（AI驱动的）功能，如阅读时段回顾、释义和术语查询、单词和短语翻译，以及可感知位置、就正在阅读的部分提问的功能。（目前只有HarperCollins选择加入。）它还提供公开API和支持AI智能体的MCP服务器。"
+              },
+              {
+                "t": "p",
+                "x": "该应用将保持免费，部分AI功能日后会转为付费。目前处于测试阶段，除非已是Readwise订阅用户，否则需要邀请才能使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Toonsutra convierte sus cómics\nen cine con AI",
-          "body": "La plataforma india Toonsutra usa Veo 3, Gemini y Lyria de Google para animar, dar voz y musicalizar sus cómics.",
-          "mini_headline": "Toonsutra anima cómics con AI",
+          "headline": "Readwise lanza un lector para\ncompetir con Kindle y Goodreads",
+          "body": "Readwise Books une una tienda de e-books, funciones de AI autorizadas por editoriales y un servidor MCP.",
+          "mini_headline": "Readwise desafía a\nKindle y Goodreads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "Toonsutra, la plataforma india de webtoons, lanzó Cinematic Mode en beta. La función convierte los webcómics en breves historias multimedia con viñetas animadas, voces de personajes que incluyen diálogos en idiomas de la India, música de fondo adaptativa y desplazamiento automático en formato \"lean-back\". La empresa lo describe como un cómic que, en la práctica, se narra a sí mismo."
+                "x": "Readwise, creadora de una app para leer más tarde (read-it-later), desafía el imperio de e-books de Amazon con Readwise Books, que describe como \"un cruce entre Kindle y las apps de Goodreads\": un solo lugar para comprar, leer y registrar libros, con datos de lectura más ricos como palabras leídas, ritmo, profundidad, inmersión y sesiones."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "Su sistema lee las viñetas y los personajes para decidir qué animar, cómo deben sonar los personajes y qué debe hacer la música. Atribuye el trabajo a tres modelos de Google: Veo 3 para convertir viñetas estáticas en animación, Gemini 2.5 Pro para el habla de los personajes y Lyria 2 para la música de fondo. La empresa afirma que Cinematic Mode se creó con socios editoriales aprobados."
+                "x": "Su tienda ofrece \"millones\" de e-books de las cinco grandes editoriales y de otras, inicialmente en U.S. (Estados Unidos). También hay libros impresos y algunos audiolibros. Kindle sigue siendo el líder, con un 83% del mercado si se incluye Kindle+."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "El Co-Founder (cofundador) y CEO Vishal Anand ha descrito el lanzamiento como \"el nacimiento de Comics 2.0\". Según la empresa, Toonsutra tiene más de un millón de usuarios activos mensuales y más de 3,300 títulos y 500,000 episodios."
+                "x": "Los usuarios pueden subir DRM-free EPUBs (EPUB sin DRM), registrar sesiones en el Cloud Reader de Kindle, fotografiar libros físicos y hacer que los e-books se lean en voz alta. Readwise compara sus métricas con un \"Strava de la lectura\"."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+                "cap": "Créditos de imagen: Readwise"
               },
               {
                 "t": "p",
-                "x": "Su verdadera prueba no es técnica sino artística: si los lectores sienten que reciben más historia o menos cómic."
+                "x": "Con permiso de las editoriales, la app ofrecerá funciones AI-powered (impulsadas por AI) como resúmenes de sesión, definiciones y búsqueda de términos, traducción de palabras y frases, y la posibilidad, según la posición en el texto, de hacer preguntas sobre la parte que se está leyendo. (Por ahora, solo HarperCollins se ha sumado.) También ofrece una API pública y un servidor MCP compatible con agentes de AI."
+              },
+              {
+                "t": "p",
+                "x": "La app seguirá siendo gratuita, aunque algunas funciones de AI pasarán más adelante a ser de pago. Está en beta y requiere invitación, salvo para quienes ya están suscritos a Readwise."
               }
             ]
           }
@@ -677,15 +877,15 @@
       }
     },
     {
-      "id": "meridian-cashmere-presses",
+      "id": "oup-chatgpt-edu-pilot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 관문 Meridian\n대학 출판부 세 곳이 지원",
-      "body": "대학 출판부 세 곳이 라이선스 기반 학술 AI 관문 Meridian에 힘을 싣는다.",
-      "mini_headline": "대학 출판부들,\nMeridian 지원",
+      "headline": "OUP, 콘텐츠 시범 탑재\nChatGPT Edu에",
+      "body": "OUP가 석 달 동안 ChatGPT Edu에서 자사 콘텐츠를 시범 제공한다.",
+      "mini_headline": "OUP, ChatGPT Edu\n라이선스 시험",
       "tool": "Books",
       "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -693,173 +893,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
           },
           {
             "t": "p",
-            "x": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press가 새 서비스 Meridian에 창립 출판사로 참여한다. 운영사는 Salt Lake City의 스타트업 Cashmere로, 출판사 콘텐츠를 AI 기업에 라이선스하는 회사다."
+            "x": "Oxford University Press가 Harvard Library, University of Pennsylvania의 Wharton School, University of Oxford의 학생과 연구자들이 ChatGPT Edu 안에서 라이선스를 받은 OUP 콘텐츠를 검색하도록 하는 석 달짜리 시범 사업을 발표했다. 시험 기간은 10월부터 12월까지다. 답변은 각 기관이 이미 사들인 OUP 도서와 저널에서 나오고, Oxford Academic의 전문으로 이어지는 인용과 링크가 붙는다."
           },
           {
             "t": "p",
-            "x": "학생과 연구자는 Meridian으로 도서관이 이미 라이선스한 학술서와 학술지를 정식으로 볼 수 있다. 연구자가 AI 도구에 질문하면 Meridian은 그 도구가 동료 심사를 거친 콘텐츠에서 답을 찾고 출처를 밝히도록 돕고, 독자를 소속 도서관 구독을 거쳐 최종 출판본으로 이끈다. Meridian으로 가져간 콘텐츠는 AI 모델 학습에 쓸 수 없다."
+            "x": "이를 떠받치는 것은 OUP가 Silverchair와 함께 만든 Model Context Protocol(MCP) 서버다. 사용자가 질문하면 OUP 서버가 출판부 콘텐츠를 검색해 관련성이 가장 높은 자료를 골라 ChatGPT에 넘긴다."
           },
           {
             "t": "p",
-            "x": "Meridian 내부에서는 Anthropic이 개발한 개방형 표준 Model Context Protocol(MCP)이 돌아간다. 그래서 출판사는 AI 기업마다 따로 연결할 필요 없이 한 번만 연결하면 된다. 참여는 자율이다. 출판사는 언제든 책을 뺄 수 있고 자사 책이 어떤 질문에 답했는지, 콘텐츠가 얼마나 자주 인용되는지도 볼 수 있다."
+            "x": "OUP의 Tanya Laplante는 \"출판사 MCPs가 실제로 어떻게 쓰이는지, 어떤 이점을 가져오는지 알아보려고 이번 시범 사업에 나섰다\"고 말했다. 파트너들은 인용이 연구자들의 클릭으로 이어지는지, OUP의 정보로 ChatGPT의 답변이 나아지는지 추적한다."
           },
           {
             "t": "p",
-            "x": "창립 출판부들과 Cashmere는 Meridian 자문위원회를 꾸린다. Meridian이 독립 비영리 법인으로 서면 이 위원회가 이사회로 바뀐다. 창립 출판사들은 이달 카탈로그를 올리고, 올가을 후반 일부 도서관과 시범 운영에 들어간다."
+            "x": "같은 날 Cambridge University Press, Johns Hopkins University Press, Princeton University Press도 AI 라이선스 스타트업 Cashmere가 운영하는 공동 MCP 서비스 Meridian을 내놨다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Three university presses\nback the Meridian AI gateway",
-          "body": "Cambridge, Johns Hopkins and Princeton presses back Meridian, a licensed AI gateway to scholarly books and journals.",
-          "mini_headline": "University presses\nback Meridian",
+          "headline": "Oxford University Press pilots\nits content inside ChatGPT Edu",
+          "body": "A three-month pilot run with Harvard Library, Wharton and Oxford puts licensed OUP content inside ChatGPT Edu.",
+          "mini_headline": "OUP tests\nChatGPT Edu licensing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press, Johns Hopkins University Press, and Princeton University Press are the founding publishers of Meridian, a new service run by Cashmere, the Salt Lake City–based start-up that licenses publishers’ content to AI companies."
+                "x": "Oxford University Press announced a three-month pilot that lets students and researchers at Harvard Library, the Wharton School of the University of Pennsylvania, and the University of Oxford search licensed OUP content inside ChatGPT Edu. The test began in October and runs through December; answers draw on OUP books and journals their institution already buys, with citations and links to the full text on Oxford Academic."
               },
               {
                 "t": "p",
-                "x": "Meridian gives students and researchers authorized access to scholarly books and journals that libraries already license. When a researcher asks an AI tool a question, Meridian lets the tool pull its answer from that peer-reviewed content, cite the source, and send the reader through their library’s subscription to the final published version. Content accessed through Meridian cannot be used to train AI models."
+                "x": "Behind the scenes is a Model Context Protocol (MCP) server that OUP built with Silverchair. When a user asks a question, OUP's server searches the press's content, picks the most relevant sources, and passes them to ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Behind the scenes, Meridian uses the Model Context Protocol, or MCP, an open standard developed by Anthropic, so publishers build one connection instead of one for every AI company. Joining is voluntary; publishers can pull titles at any time and will see which questions their books answered and how often their content is cited."
+                "x": "\"We've undertaken this pilot to learn what real-world use of publisher MCPs looks like and what benefits it drives,\" said Tanya Laplante of OUP. The partners will track whether citations motivate researchers to click through and whether OUP's information improves ChatGPT's answers."
               },
               {
                 "t": "p",
-                "x": "The founding presses and Cashmere form Meridian’s advisory council, which will become its board once it incorporates as an independent nonprofit. Founding publishers load their catalogs this month, and a test run with a limited group of libraries begins later this fall."
+                "x": "The same day, Cambridge University Press, Johns Hopkins University Press, and Princeton University Press announced Meridian, a shared MCP service run by the AI licensing startup Cashmere."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 관문 Meridian\n대학 출판부 세 곳이 지원",
-          "body": "대학 출판부 세 곳이 라이선스 기반 학술 AI 관문 Meridian에 힘을 싣는다.",
-          "mini_headline": "대학 출판부들,\nMeridian 지원",
+          "headline": "OUP, 콘텐츠 시범 탑재\nChatGPT Edu에",
+          "body": "OUP가 석 달 동안 ChatGPT Edu에서 자사 콘텐츠를 시범 제공한다.",
+          "mini_headline": "OUP, ChatGPT Edu\n라이선스 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press가 새 서비스 Meridian에 창립 출판사로 참여한다. 운영사는 Salt Lake City의 스타트업 Cashmere로, 출판사 콘텐츠를 AI 기업에 라이선스하는 회사다."
+                "x": "Oxford University Press가 Harvard Library, University of Pennsylvania의 Wharton School, University of Oxford의 학생과 연구자들이 ChatGPT Edu 안에서 라이선스를 받은 OUP 콘텐츠를 검색하도록 하는 석 달짜리 시범 사업을 발표했다. 시험 기간은 10월부터 12월까지다. 답변은 각 기관이 이미 사들인 OUP 도서와 저널에서 나오고, Oxford Academic의 전문으로 이어지는 인용과 링크가 붙는다."
               },
               {
                 "t": "p",
-                "x": "학생과 연구자는 Meridian으로 도서관이 이미 라이선스한 학술서와 학술지를 정식으로 볼 수 있다. 연구자가 AI 도구에 질문하면 Meridian은 그 도구가 동료 심사를 거친 콘텐츠에서 답을 찾고 출처를 밝히도록 돕고, 독자를 소속 도서관 구독을 거쳐 최종 출판본으로 이끈다. Meridian으로 가져간 콘텐츠는 AI 모델 학습에 쓸 수 없다."
+                "x": "이를 떠받치는 것은 OUP가 Silverchair와 함께 만든 Model Context Protocol(MCP) 서버다. 사용자가 질문하면 OUP 서버가 출판부 콘텐츠를 검색해 관련성이 가장 높은 자료를 골라 ChatGPT에 넘긴다."
               },
               {
                 "t": "p",
-                "x": "Meridian 내부에서는 Anthropic이 개발한 개방형 표준 Model Context Protocol(MCP)이 돌아간다. 그래서 출판사는 AI 기업마다 따로 연결할 필요 없이 한 번만 연결하면 된다. 참여는 자율이다. 출판사는 언제든 책을 뺄 수 있고 자사 책이 어떤 질문에 답했는지, 콘텐츠가 얼마나 자주 인용되는지도 볼 수 있다."
+                "x": "OUP의 Tanya Laplante는 \"출판사 MCPs가 실제로 어떻게 쓰이는지, 어떤 이점을 가져오는지 알아보려고 이번 시범 사업에 나섰다\"고 말했다. 파트너들은 인용이 연구자들의 클릭으로 이어지는지, OUP의 정보로 ChatGPT의 답변이 나아지는지 추적한다."
               },
               {
                 "t": "p",
-                "x": "창립 출판부들과 Cashmere는 Meridian 자문위원회를 꾸린다. Meridian이 독립 비영리 법인으로 서면 이 위원회가 이사회로 바뀐다. 창립 출판사들은 이달 카탈로그를 올리고, 올가을 후반 일부 도서관과 시범 운영에 들어간다."
+                "x": "같은 날 Cambridge University Press, Johns Hopkins University Press, Princeton University Press도 AI 라이선스 스타트업 Cashmere가 운영하는 공동 MCP 서비스 Meridian을 내놨다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "3つの大学出版局が\nAI窓口Meridian支援",
-          "body": "3つの大学出版局が、学術書と学術誌へのライセンス型AI窓口Meridianを支援する。",
-          "mini_headline": "大学出版局が\nMeridianを支援",
+          "headline": "OUP、自社コンテンツを\nChatGPT Eduで試行",
+          "body": "OUPは三か月間、ChatGPT Edu内でライセンスコンテンツを試験提供する。",
+          "mini_headline": "OUP、ChatGPT Eduで\nライセンスを試行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press、Johns Hopkins University Press、Princeton University Pressが、新サービスMeridianの創設出版社となった。Meridianを運営するのは、出版社のコンテンツをAI企業にライセンスするSalt Lake Cityのスタートアップ、Cashmereだ。"
+                "x": "Oxford University Pressは、Harvard Library、University of PennsylvaniaのWharton School、University of Oxfordの学生と研究者が、ChatGPT Eduの中でライセンス済みのOUPコンテンツを検索できる三か月間の試験運用を発表した。試験は10月に始まり12月まで続く。回答は各機関がすでに購入しているOUPの書籍やジャーナルに基づき、Oxford Academic上の全文への引用とリンクが付く。"
               },
               {
                 "t": "p",
-                "x": "Meridianは、図書館がすでにライセンスしている学術書や学術誌への正規のアクセスを学生や研究者に提供する。研究者がAIツールに質問すると、Meridianはそのツールが査読済みコンテンツから回答を引き出し、出典を示し、読者を所属図書館の購読経由で最終出版版へ案内できるようにする。Meridianを通じてアクセスしたコンテンツは、AIモデルの学習には使えない。"
+                "x": "その裏側にあるのは、OUPがSilverchairと共同で構築したModel Context Protocol(MCP)サーバーだ。ユーザーが質問すると、OUPのサーバーが同社のコンテンツを検索し、最も関連性の高い情報源を選んでChatGPTに渡す。"
               },
               {
                 "t": "p",
-                "x": "裏側では、MeridianはAnthropicが開発したオープン標準Model Context Protocol(MCP)を使う。そのため出版社はAI企業ごとに接続を作る必要がなく、接続は1つで済む。参加は任意で、出版社はいつでも作品を引き上げられ、自社の本がどんな質問に答えたか、コンテンツがどれほど頻繁に引用されたかを確認できる。"
+                "x": "「出版社のMCPsが実際にどう使われ、どんな利点をもたらすのかを知るためにこの試験運用に取り組んだ」とOUPのTanya Laplanteは語った。パートナー各社は、引用が研究者のクリックを促すかどうか、OUPの情報がChatGPTの回答を改善するかどうかを追跡する。"
               },
               {
                 "t": "p",
-                "x": "創設出版局とCashmereはMeridianの諮問委員会を構成し、Meridianが独立した非営利団体として法人化された後は、同委員会が理事会となる。創設出版社は今月カタログを登録し、この秋の後半には限られた図書館との試験運用が始まる。"
+                "x": "同じ日、Cambridge University Press、Johns Hopkins University Press、Princeton University Pressは、AIライセンスのスタートアップCashmereが運営する共同MCPサービス「Meridian」を発表した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "三家大学出版社\n力挺AI门户Meridian",
-          "body": "剑桥、约翰斯·霍普金斯和普林斯顿大学出版社支持经授权的学术AI门户Meridian。",
-          "mini_headline": "大学出版社\n力挺Meridian",
+          "headline": "OUP内容试点接入\nChatGPT Edu",
+          "body": "OUP与Harvard Library等合作，在ChatGPT Edu中试点三个月。",
+          "mini_headline": "OUP试水\nChatGPT Edu授权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press、Johns Hopkins University Press和Princeton University Press成为新服务Meridian的创始出版方。Meridian由总部位于Salt Lake City的初创公司Cashmere运营，该公司向AI企业授权出版商的内容。"
+                "x": "Oxford University Press宣布开展为期三个月的试点，让Harvard Library、University of Pennsylvania的Wharton School以及University of Oxford的学生和研究人员在ChatGPT Edu中检索获授权的OUP内容。试点于10月开始，持续到12月；回答基于其所在机构已购买的OUP图书和期刊，并附有指向Oxford Academic全文的引用和链接。"
               },
               {
                 "t": "p",
-                "x": "Meridian让学生和研究人员能够经授权访问图书馆已获许可的学术图书和期刊。当研究人员向AI工具提问时，Meridian让该工具从经过同行评审的内容中提取答案、注明出处，并通过读者所在图书馆的订阅将其引导至最终出版版本。通过Meridian访问的内容不得用于训练AI模型。"
+                "x": "其背后是OUP与Silverchair共同搭建的Model Context Protocol（MCP）服务器。用户提问时，OUP的服务器会检索该社内容，挑选最相关的来源，再传给ChatGPT。"
               },
               {
                 "t": "p",
-                "x": "在后台，Meridian采用Anthropic开发的开放标准Model Context Protocol（MCP），因此出版商只需建立一个连接，而不必为每家AI公司分别对接。加入完全自愿；出版商可以随时撤下书目，并能看到自家图书回答了哪些问题、内容被引用的频率。"
+                "x": "OUP的Tanya Laplante表示：“我们开展这项试点，是为了了解出版商MCPs在现实中如何被使用，以及能带来哪些好处。”合作各方将追踪引用是否会促使研究人员点击查看，以及OUP的信息能否改进ChatGPT的回答。"
               },
               {
                 "t": "p",
-                "x": "各创始出版社与Cashmere组成Meridian的顾问委员会，待Meridian注册为独立非营利机构后，该委员会将成为其董事会。创始出版商将于本月上传书目，今秋晚些时候将与少数图书馆开展试运行。"
+                "x": "同一天，Cambridge University Press、Johns Hopkins University Press和Princeton University Press宣布推出Meridian，这是由AI授权初创公司Cashmere运营的共享MCP服务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tres editoriales universitarias\nrespaldan el portal IA Meridian",
-          "body": "Las editoriales de Cambridge, Johns Hopkins y Princeton respaldan Meridian, un portal de IA para textos académicos.",
-          "mini_headline": "Editoriales universitarias\nrespaldan Meridian",
+          "headline": "Oxford University Press prueba\nsu contenido en ChatGPT Edu",
+          "body": "Un piloto de tres meses con Harvard Library, Wharton y Oxford lleva contenido con licencia de OUP a ChatGPT Edu.",
+          "mini_headline": "OUP prueba licencias\nen ChatGPT Edu",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press, Johns Hopkins University Press y Princeton University Press son las editoriales fundadoras de Meridian, un nuevo servicio gestionado por Cashmere, la start-up con sede en Salt Lake City que licencia contenido de editoriales a empresas de IA."
+                "x": "Oxford University Press anunció un piloto de tres meses que permite a estudiantes e investigadores de Harvard Library, la Wharton School de la University of Pennsylvania y la University of Oxford buscar contenido con licencia de OUP dentro de ChatGPT Edu. La prueba comenzó en octubre y se extiende hasta diciembre; las respuestas se basan en libros y revistas de OUP que su institución ya compra, con citas y enlaces al texto completo en Oxford Academic."
               },
               {
                 "t": "p",
-                "x": "Meridian ofrece a estudiantes e investigadores acceso autorizado a libros y revistas académicas que las bibliotecas ya tienen bajo licencia. Cuando un investigador hace una pregunta a una herramienta de IA, Meridian permite que esta extraiga la respuesta de ese contenido revisado por pares, cite la fuente y dirija al lector, a través de la suscripción de su biblioteca, a la versión final publicada. El contenido al que se accede mediante Meridian no puede usarse para entrenar modelos de IA."
+                "x": "Detrás hay un servidor Model Context Protocol (MCP) que OUP construyó con Silverchair. Cuando un usuario hace una pregunta, el servidor de OUP busca en el contenido de la editorial, elige las fuentes más relevantes y se las pasa a ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Internamente, Meridian utiliza el Model Context Protocol, o MCP, un estándar abierto desarrollado por Anthropic, de modo que las editoriales crean una sola conexión en lugar de una para cada empresa de IA. La participación es voluntaria: las editoriales pueden retirar títulos en cualquier momento y verán qué preguntas respondieron sus libros y con qué frecuencia se cita su contenido."
+                "x": "\"Emprendimos este piloto para saber cómo es el uso real de los MCPs de las editoriales y qué beneficios aporta\", dijo Tanya Laplante, de OUP. Los socios analizarán si las citas animan a los investigadores a hacer clic y si la información de OUP mejora las respuestas de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Las editoriales fundadoras y Cashmere forman el consejo asesor de Meridian, que se convertirá en su junta directiva cuando se constituya como organización independiente sin fines de lucro. Las editoriales fundadoras cargan sus catálogos este mes, y una prueba con un grupo limitado de bibliotecas comenzará a finales de este otoño."
+                "x": "Ese mismo día, Cambridge University Press, Johns Hopkins University Press y Princeton University Press anunciaron Meridian, un servicio MCP compartido gestionado por Cashmere, una startup de licencias de AI."
               }
             ]
           }
@@ -867,121 +1067,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 관문 Meridian\n대학 출판부 세 곳이 지원",
-          "body": "대학 출판부 세 곳이 라이선스 기반 학술 AI 관문 Meridian을 지원한다.",
-          "mini_headline": "대학 출판부들,\nMeridian 지원",
+          "headline": "OUP, 콘텐츠 시범 탑재\nChatGPT Edu에",
+          "body": "OUP는 석 달간 ChatGPT Edu 안에서 자사 콘텐츠를 시범 제공한다.",
+          "mini_headline": "OUP, ChatGPT Edu\n라이선스 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press, Johns Hopkins University Press, Princeton University Press가 새 서비스 Meridian의 창립 출판사로 참여한다. Meridian은 출판사 콘텐츠를 AI 기업에 라이선스하는 Salt Lake City 기반 스타트업 Cashmere가 운영한다."
+                "x": "Oxford University Press는 Harvard Library, University of Pennsylvania의 Wharton School, University of Oxford의 학생과 연구자들이 ChatGPT Edu 안에서 라이선스를 받은 OUP 콘텐츠를 검색할 수 있게 하는 석 달짜리 시범 사업을 발표했다. 시험은 10월에 시작해 12월까지 이어진다. 답변은 각 기관이 이미 구매한 OUP 도서와 저널을 바탕으로 하며, Oxford Academic의 전문으로 이어지는 인용과 링크가 달린다."
               },
               {
                 "t": "p",
-                "x": "Meridian은 도서관이 이미 라이선스한 학술서와 학술지에 학생과 연구자가 정식으로 접근할 수 있게 한다. 연구자가 AI 도구에 질문하면, Meridian은 그 도구가 동료 심사를 거친 콘텐츠에서 답을 끌어오고 출처를 인용하며, 독자를 소속 도서관의 구독을 거쳐 최종 출판본으로 안내하도록 돕는다. Meridian으로 접근한 콘텐츠는 AI 모델 학습에 쓸 수 없다."
+                "x": "그 뒤에는 OUP가 Silverchair와 함께 구축한 Model Context Protocol(MCP) 서버가 있다. 사용자가 질문하면 OUP 서버가 출판부의 콘텐츠를 검색해 가장 관련성 높은 자료를 골라 ChatGPT에 넘긴다."
               },
               {
                 "t": "p",
-                "x": "Meridian은 내부적으로 Anthropic이 개발한 개방형 표준 Model Context Protocol(MCP)을 쓴다. 덕분에 출판사는 AI 기업마다 따로 연결을 만들 필요 없이 연결 하나만 만들면 된다. 참여는 자율이다. 출판사는 언제든 책을 뺄 수 있고, 자사 책이 어떤 질문에 답했는지, 콘텐츠가 얼마나 자주 인용되는지 확인할 수 있다."
+                "x": "OUP의 Tanya Laplante는 \"출판사 MCPs가 실제로 어떻게 쓰이는지, 어떤 이점을 가져오는지 알아보려고 이번 시범 사업에 나섰다\"고 말했다. 파트너들은 인용이 연구자들의 클릭으로 이어지는지, OUP의 정보가 ChatGPT의 답변을 개선하는지를 추적할 예정이다."
               },
               {
                 "t": "p",
-                "x": "창립 출판부들과 Cashmere는 Meridian의 자문위원회를 구성한다. 이 위원회는 Meridian이 독립 비영리 법인으로 설립되면 이사회가 된다. 창립 출판사들은 이달 카탈로그를 올리고, 올가을 후반에는 일부 도서관과 함께 시범 운영을 시작한다."
+                "x": "같은 날 Cambridge University Press, Johns Hopkins University Press, Princeton University Press는 AI 라이선스 스타트업 Cashmere가 운영하는 공동 MCP 서비스 Meridian을 발표했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "3つの大学出版局が\nAI窓口Meridian支援",
-          "body": "3つの大学出版局が、学術書と学術誌へのライセンス型AI窓口Meridianを支援する。",
-          "mini_headline": "大学出版局が\nMeridianを支援",
+          "headline": "OUP、自社コンテンツを\nChatGPT Eduで試行",
+          "body": "OUPは三か月間、ChatGPT Edu内でライセンスコンテンツを試験提供する。",
+          "mini_headline": "OUP、ChatGPT Eduで\nライセンスを試行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press、Johns Hopkins University Press、Princeton University Pressが、新サービスMeridianの創設出版社となった。Meridianを運営するのは、出版社のコンテンツをAI企業にライセンスするSalt Lake Cityのスタートアップ、Cashmereだ。"
+                "x": "Oxford University Pressは、Harvard Library、University of PennsylvaniaのWharton School、University of Oxfordの学生と研究者が、ChatGPT Eduの中でライセンス済みのOUPコンテンツを検索できる三か月間の試験運用を発表した。試験は10月に始まり12月まで続く。回答は各機関がすでに購入しているOUPの書籍やジャーナルに基づき、Oxford Academic上の全文への引用とリンクが付く。"
               },
               {
                 "t": "p",
-                "x": "Meridianは、図書館がすでにライセンスしている学術書や学術誌への正規のアクセスを学生や研究者に提供する。研究者がAIツールに質問すると、Meridianはそのツールが査読済みコンテンツから回答を引き出し、出典を示し、読者を所属図書館の購読経由で最終出版版へ案内できるようにする。Meridianを通じてアクセスしたコンテンツは、AIモデルの学習には使えない。"
+                "x": "その裏側にあるのは、OUPがSilverchairと共同で構築したModel Context Protocol(MCP)サーバーだ。ユーザーが質問すると、OUPのサーバーが同社のコンテンツを検索し、最も関連性の高い情報源を選んでChatGPTに渡す。"
               },
               {
                 "t": "p",
-                "x": "裏側では、MeridianはAnthropicが開発したオープン標準Model Context Protocol(MCP)を使う。そのため出版社はAI企業ごとに接続を作る必要がなく、接続は1つで済む。参加は任意で、出版社はいつでも作品を引き上げられ、自社の本がどんな質問に答えたか、コンテンツがどれほど頻繁に引用されたかを確認できる。"
+                "x": "「出版社のMCPsが実際にどう使われ、どんな利点をもたらすのかを知るためにこの試験運用に取り組んだ」とOUPのTanya Laplanteは語った。パートナー各社は、引用が研究者のクリックを促すかどうか、OUPの情報がChatGPTの回答を改善するかどうかを追跡する。"
               },
               {
                 "t": "p",
-                "x": "創設出版局とCashmereはMeridianの諮問委員会を構成し、Meridianが独立した非営利団体として法人化された後は、同委員会が理事会となる。創設出版社は今月カタログを登録し、この秋の後半には限られた図書館との試験運用が始まる。"
+                "x": "同じ日、Cambridge University Press、Johns Hopkins University Press、Princeton University Pressは、AIライセンスのスタートアップCashmereが運営する共同MCPサービス「Meridian」を発表した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "三家大学出版社\n力挺AI门户Meridian",
-          "body": "剑桥、约翰斯·霍普金斯和普林斯顿大学出版社支持经授权的学术AI门户Meridian。",
-          "mini_headline": "大学出版社\n力挺Meridian",
+          "headline": "OUP内容试点接入\nChatGPT Edu",
+          "body": "OUP与Harvard Library等合作，在ChatGPT Edu中试点三个月。",
+          "mini_headline": "OUP试水\nChatGPT Edu授权",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press、Johns Hopkins University Press和Princeton University Press成为新服务Meridian的创始出版方。Meridian由总部位于Salt Lake City的初创公司Cashmere运营，该公司向AI企业授权出版商的内容。"
+                "x": "Oxford University Press宣布开展为期三个月的试点，让Harvard Library、University of Pennsylvania的Wharton School以及University of Oxford的学生和研究人员在ChatGPT Edu中检索获授权的OUP内容。试点于10月开始，持续到12月；回答基于其所在机构已购买的OUP图书和期刊，并附有指向Oxford Academic全文的引用和链接。"
               },
               {
                 "t": "p",
-                "x": "Meridian让学生和研究人员能够经授权访问图书馆已获许可的学术图书和期刊。当研究人员向AI工具提问时，Meridian让该工具从经过同行评审的内容中提取答案、注明出处，并通过读者所在图书馆的订阅将其引导至最终出版版本。通过Meridian访问的内容不得用于训练AI模型。"
+                "x": "其背后是OUP与Silverchair共同搭建的Model Context Protocol（MCP）服务器。用户提问时，OUP的服务器会检索该社内容，挑选最相关的来源，再传给ChatGPT。"
               },
               {
                 "t": "p",
-                "x": "在后台，Meridian采用Anthropic开发的开放标准Model Context Protocol（MCP），因此出版商只需建立一个连接，而不必为每家AI公司分别对接。加入完全自愿；出版商可以随时撤下书目，并能看到自家图书回答了哪些问题、内容被引用的频率。"
+                "x": "OUP的Tanya Laplante表示：“我们开展这项试点，是为了了解出版商MCPs在现实中如何被使用，以及能带来哪些好处。”合作各方将追踪引用是否会促使研究人员点击查看，以及OUP的信息能否改进ChatGPT的回答。"
               },
               {
                 "t": "p",
-                "x": "各创始出版社与Cashmere组成Meridian的顾问委员会，待Meridian注册为独立非营利机构后，该委员会将成为其董事会。创始出版商将于本月上传书目，今秋晚些时候将与少数图书馆开展试运行。"
+                "x": "同一天，Cambridge University Press、Johns Hopkins University Press和Princeton University Press宣布推出Meridian，这是由AI授权初创公司Cashmere运营的共享MCP服务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tres editoriales universitarias\nrespaldan el portal IA Meridian",
-          "body": "Las editoriales de Cambridge, Johns Hopkins y Princeton respaldan Meridian, un portal de IA para textos académicos.",
-          "mini_headline": "Editoriales universitarias\nrespaldan Meridian",
+          "headline": "Oxford University Press prueba\nsu contenido en ChatGPT Edu",
+          "body": "Un piloto de tres meses con Harvard Library, Wharton y Oxford lleva contenido con licencia de OUP a ChatGPT Edu.",
+          "mini_headline": "OUP prueba licencias\nen ChatGPT Edu",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Cambridge University Press, Johns Hopkins University Press y Princeton University Press son las editoriales fundadoras de Meridian, un nuevo servicio gestionado por Cashmere, la start-up con sede en Salt Lake City que licencia contenido de editoriales a empresas de IA."
+                "x": "Oxford University Press anunció un piloto de tres meses que permite a estudiantes e investigadores de Harvard Library, la Wharton School de la University of Pennsylvania y la University of Oxford buscar contenido con licencia de OUP dentro de ChatGPT Edu. La prueba comenzó en octubre y se extiende hasta diciembre; las respuestas se basan en libros y revistas de OUP que su institución ya compra, con citas y enlaces al texto completo en Oxford Academic."
               },
               {
                 "t": "p",
-                "x": "Meridian ofrece a estudiantes e investigadores acceso autorizado a libros y revistas académicas que las bibliotecas ya tienen bajo licencia. Cuando un investigador hace una pregunta a una herramienta de IA, Meridian permite que esta extraiga la respuesta de ese contenido revisado por pares, cite la fuente y dirija al lector, a través de la suscripción de su biblioteca, a la versión final publicada. El contenido al que se accede mediante Meridian no puede usarse para entrenar modelos de IA."
+                "x": "Detrás hay un servidor Model Context Protocol (MCP) que OUP construyó con Silverchair. Cuando un usuario hace una pregunta, el servidor de OUP busca en el contenido de la editorial, elige las fuentes más relevantes y se las pasa a ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Internamente, Meridian utiliza el Model Context Protocol, o MCP, un estándar abierto desarrollado por Anthropic, de modo que las editoriales crean una sola conexión en lugar de una para cada empresa de IA. La participación es voluntaria: las editoriales pueden retirar títulos en cualquier momento y verán qué preguntas respondieron sus libros y con qué frecuencia se cita su contenido."
+                "x": "\"Emprendimos este piloto para saber cómo es el uso real de los MCPs de las editoriales y qué beneficios aporta\", dijo Tanya Laplante, de OUP. Los socios analizarán si las citas animan a los investigadores a hacer clic y si la información de OUP mejora las respuestas de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Las editoriales fundadoras y Cashmere forman el consejo asesor de Meridian, que se convertirá en su junta directiva cuando se constituya como organización independiente sin fines de lucro. Las editoriales fundadoras cargan sus catálogos este mes, y una prueba con un grupo limitado de bibliotecas comenzará a finales de este otoño."
+                "x": "Ese mismo día, Cambridge University Press, Johns Hopkins University Press y Princeton University Press anunciaron Meridian, un servicio MCP compartido gestionado por Cashmere, una startup de licencias de AI."
               }
             ]
           }
@@ -989,15 +1189,15 @@
       }
     },
     {
-      "id": "scholarly-alttext-backlist",
-      "source_lang": "en",
+      "id": "bookend-editorial-ai",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 높이는\n학술서 백리스트 접근성",
-      "body": "출판사는 AI로 옛 자료를 점검하고 대체 텍스트·태그·메타데이터까지 만든다.",
-      "mini_headline": "AI로 접근성 높이는\n백리스트",
+      "headline": "북엔드 AI 편집 서비스\n교정 2주를 30분으로",
+      "body": "북엔드의 AI 서비스 '에디토리얼'은 책 교정을 2주에서 30분으로 줄였다.",
+      "mini_headline": "AI로 교정 2주를\n30분으로",
       "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/",
+      "source": "헬로디디",
+      "url": "http://www.hellodd.com/news/articleView.html?idxno=113638",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1005,265 +1205,355 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-            "cap": "접근성·장애 컴퓨터 아이콘"
+            "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+            "cap": "최현수 북엔드 대표 [사진=북엔드]"
           },
           {
             "t": "p",
-            "x": "접근성 준수를 피할 수 없다는 건 이제 대부분의 출판사가 받아들인다. 2025년 한 해에만 ADA 소송이 5,114건 나왔다. 어려운 건 대량 실행이다. 접근성을 따지지 않고 수십 년 동안 쌓아 온 레거시 아카이브에는 복잡한 도판과 수식 표기, 빽빽한 데이터 표가 가득하다."
+            "x": "대덕연구단지의 출판사 북엔드가 교정·교열에 걸리는 시간을 2주에서 30분으로 단축하는 AI 도서 편집 서비스 '에디토리얼(Editorial)'을 선보였고, 지난 7일 독일 프랑크푸르트 국제도서전에 참가해 해외 출판업계에도 기술을 소개했다."
           },
           {
             "t": "p",
-            "x": "AI는 출판사 아카이브를 통째로 받아 자동 감사를 돌리고, 기준에 못 미치는 콘텐츠가 얼마나 되는지 파악한 뒤 현실적인 일정과 비용 추정치를 붙인 우선순위 목록을 뽑을 수 있다. AI-assisted(AI 보조) 대체 텍스트 생성은 도판 설명과 구조 태깅, 메타데이터 정규화에서 제 몫을 하고, 보관된 영상과 음성의 자막·녹취록도 만든다."
+            "x": "최현수 대표는 \"기존에는 한 차례 교정·교열에 적어도 2주에서 한 달 정도 걸렸지만, 에디토리얼은 약 10분이면 원고 검토를 마친다\"며 \"사람이 결과를 확인하는 시간까지 더해도 30분 안팎\"이라고 설명했다. 10만자 원고를 외부에 맡기면 약 100만원이 들지만 에디토리얼로는 약 1만원에 처리할 수 있다."
           },
           {
             "t": "p",
-            "x": "복잡한 과학 콘텐츠의 대체 텍스트는 사정이 다르다. 이때는 자동 생성에 품질 기준을 함께 걸고, 기준에 못 미치는 콘텐츠를 해당 분야 전문가에게 넘겨 검토받는 쪽이 더 믿을 만하다. Straive의 Balamuraly Kanthavelou는 “AI는 병목을 없앤 것이 아니라 병목이 있는 자리로 옮겨 갔다”고 썼다."
+            "x": "오탈자·조사·문장부호뿐 아니라 문맥에 맞지 않는 표현을 찾고, 통계를 검색해 사실관계도 확인한다. 결과는 한글(HWP)·PDF 원본에 메모 형태로 달린다. 최대 50만자까지 처리하며, '스타일 분석' 기술로 작가 고유의 문체는 살리면서 처음부터 끝까지 같은 기준을 적용한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+            "cap": "북엔드는 자체 개발한 AI 도서 편집 기술을 독일 프랑크푸르트 국제도서전에서 선보였다. [사진=북엔드]"
+          },
+          {
+            "t": "p",
+            "x": "북엔드는 약 15종의 책을 펴내 4만 부를 판매했고, AI 활용으로 출간 기간을 4개월에서 2~3개월로 줄였다. 한국어·영어·독일어를 지원하며 일본어도 추가할 계획이다. 최 대표는 \"AI가 편집자를 대신하는 것이 아니라 편집자의 판단을 돕는다는 방향에 공감하는 반응이 많았다\"고 전했다. 장기 목표는 출판의 모든 과정을 잇는 '출판계의 피그마'다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI could make academic\nbacklists accessible",
-          "body": "Publishers can use AI to audit old archives and generate alt-text, tags and metadata for accessible backlists.",
-          "mini_headline": "AI for accessible\nbacklists",
+        "ko": {
+          "headline": "북엔드 AI 편집 서비스\n교정 2주를 30분으로",
+          "body": "북엔드의 AI 서비스 '에디토리얼'은 책 교정을 2주에서 30분으로 줄였다.",
+          "mini_headline": "AI로 교정 2주를\n30분으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "Accessibility disability computer icon"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "최현수 북엔드 대표 [사진=북엔드]"
               },
               {
                 "t": "p",
-                "x": "Most publishers no longer need convincing that accessibility compliance can’t be ignored — 5,114 ADA lawsuits were recorded in 2025 alone. What they struggle with is execution at volume, especially on decades of legacy archives built without accessibility in mind, full of complex figures, mathematical notation and dense data tables."
+                "x": "대덕연구단지의 출판사 북엔드가 교정·교열에 걸리는 시간을 2주에서 30분으로 단축하는 AI 도서 편집 서비스 '에디토리얼(Editorial)'을 선보였고, 지난 7일 독일 프랑크푸르트 국제도서전에 참가해 해외 출판업계에도 기술을 소개했다."
               },
               {
                 "t": "p",
-                "x": "AI can ingest a publisher’s existing archive and run automated auditing to determine the scope of non-compliant content, producing a prioritized inventory with a realistic timeline and cost estimate. AI-assisted alt-text generation is also doing real work at figure description, structural tagging, and metadata normalization, and can generate captions and transcripts for archived video and audio."
+                "x": "최현수 대표는 \"기존에는 한 차례 교정·교열에 적어도 2주에서 한 달 정도 걸렸지만, 에디토리얼은 약 10분이면 원고 검토를 마친다\"며 \"사람이 결과를 확인하는 시간까지 더해도 30분 안팎\"이라고 설명했다. 10만자 원고를 외부에 맡기면 약 100만원이 들지만 에디토리얼로는 약 1만원에 처리할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Alt-text for complex scientific content is a different story. More credible approaches pair automated generation with a quality threshold, routing content below it to subject-matter review. “AI has moved to where the bottleneck sits, not eliminated it,” writes Balamuraly Kanthavelou of Straive."
+                "x": "오탈자·조사·문장부호뿐 아니라 문맥에 맞지 않는 표현을 찾고, 통계를 검색해 사실관계도 확인한다. 결과는 한글(HWP)·PDF 원본에 메모 형태로 달린다. 최대 50만자까지 처리하며, '스타일 분석' 기술로 작가 고유의 문체는 살리면서 처음부터 끝까지 같은 기준을 적용한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "북엔드는 자체 개발한 AI 도서 편집 기술을 독일 프랑크푸르트 국제도서전에서 선보였다. [사진=북엔드]"
+              },
+              {
+                "t": "p",
+                "x": "북엔드는 약 15종의 책을 펴내 4만 부를 판매했고, AI 활용으로 출간 기간을 4개월에서 2~3개월로 줄였다. 한국어·영어·독일어를 지원하며 일본어도 추가할 계획이다. 최 대표는 \"AI가 편집자를 대신하는 것이 아니라 편집자의 판단을 돕는다는 방향에 공감하는 반응이 많았다\"고 전했다. 장기 목표는 출판의 모든 과정을 잇는 '출판계의 피그마'다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI로 높이는\n학술서 백리스트 접근성",
-          "body": "출판사는 AI로 옛 자료를 점검하고 대체 텍스트·태그·메타데이터까지 만든다.",
-          "mini_headline": "AI로 접근성 높이는\n백리스트",
+        "en": {
+          "headline": "Bookend's AI editing service\ncuts 2-week proofing to 30 min",
+          "body": "Bookend's AI service 'Editorial' has cut book proofreading from 2 weeks to 30 minutes.",
+          "mini_headline": "AI cuts 2 weeks of\nproofreading to 30 minutes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "접근성·장애 컴퓨터 아이콘"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "Choi Hyun-soo, CEO of Bookend [Photo=Bookend]"
               },
               {
                 "t": "p",
-                "x": "접근성 준수를 피할 수 없다는 건 이제 대부분의 출판사가 받아들인다. 2025년 한 해에만 ADA 소송이 5,114건 나왔다. 어려운 건 대량 실행이다. 접근성을 따지지 않고 수십 년 동안 쌓아 온 레거시 아카이브에는 복잡한 도판과 수식 표기, 빽빽한 데이터 표가 가득하다."
+                "x": "Bookend, a publisher in the Daedeok Research Complex, has introduced 'Editorial', an AI book-editing service that cuts the time needed for proofreading and copyediting from 2 weeks to 30 minutes, and on the 7th it took part in the Frankfurt International Book Fair in Germany to present the technology to the overseas publishing industry."
               },
               {
                 "t": "p",
-                "x": "AI는 출판사 아카이브를 통째로 받아 자동 감사를 돌리고, 기준에 못 미치는 콘텐츠가 얼마나 되는지 파악한 뒤 현실적인 일정과 비용 추정치를 붙인 우선순위 목록을 뽑을 수 있다. AI-assisted(AI 보조) 대체 텍스트 생성은 도판 설명과 구조 태깅, 메타데이터 정규화에서 제 몫을 하고, 보관된 영상과 음성의 자막·녹취록도 만든다."
+                "x": "CEO Choi Hyun-soo explained, \"Previously, a single round of proofreading and copyediting took at least 2 weeks to a month, but Editorial finishes reviewing a manuscript in about 10 minutes,\" adding, \"Even including the time for a person to check the results, it's around 30 minutes.\" Outsourcing a 100,000-character manuscript costs about 1 million won, while Editorial can handle it for about 10,000 won."
               },
               {
                 "t": "p",
-                "x": "복잡한 과학 콘텐츠의 대체 텍스트는 사정이 다르다. 이때는 자동 생성에 품질 기준을 함께 걸고, 기준에 못 미치는 콘텐츠를 해당 분야 전문가에게 넘겨 검토받는 쪽이 더 믿을 만하다. Straive의 Balamuraly Kanthavelou는 “AI는 병목을 없앤 것이 아니라 병목이 있는 자리로 옮겨 갔다”고 썼다."
+                "x": "Beyond typos, particles and punctuation, it finds expressions that don't fit the context and checks facts by searching statistics. Results are attached as notes to the original Hangul (HWP) or PDF file. It handles up to 500,000 characters, and its 'style analysis' technology keeps the author's own voice while applying the same standard from beginning to end."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "Bookend presented its in-house AI book-editing technology at the Frankfurt International Book Fair in Germany. [Photo=Bookend]"
+              },
+              {
+                "t": "p",
+                "x": "Bookend has published about 15 titles and sold 40,000 copies, and by using AI it has shortened its publishing time from 4 months to 2-3 months. It supports Korean, English and German and plans to add Japanese. \"Many people agreed with the direction that AI does not replace editors but supports their judgment,\" Choi said. The long-term goal is 'the Figma of publishing', connecting every step of the publishing process."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで学術既刊書を\nアクセシブルにできる",
-          "body": "出版社はAIで過去のアーカイブを点検し、代替テキストやタグ、メタデータを生成できる。",
-          "mini_headline": "AIで既刊を\nアクセシブルに",
+          "headline": "ブックエンドのAI編集\n校正2週間を30分に",
+          "body": "ブックエンドのAIサービス「エディトリアル」は書籍の校正を2週間から30分に短縮した。",
+          "mini_headline": "AIで校正2週間を\n30分に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "アクセシビリティ・障害者のコンピューターアイコン"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "ブックエンドのチェ・ヒョンス代表 [写真=ブックエンド]"
               },
               {
                 "t": "p",
-                "x": "アクセシビリティ対応を無視できないことは、もはや大半の出版社にとって説得されるまでもない。2025年だけでADA訴訟は5,114件記録された。出版社が苦労しているのは大量に実行することであり、とりわけアクセシビリティを考慮せずに作られた数十年分のレガシーアーカイブには、複雑な図版や数式表記、密度の高いデータ表があふれている。"
+                "x": "大徳研究団地の出版社ブックエンドは、校正・校閲にかかる時間を2週間から30分に短縮するAI書籍編集サービス「エディトリアル(Editorial)」を発表し、7日にはドイツのフランクフルト国際ブックフェアに参加して海外の出版業界にも技術を紹介した。"
               },
               {
                 "t": "p",
-                "x": "AIは出版社の既存アーカイブを取り込んで自動監査を行い、非準拠コンテンツの範囲を特定し、現実的なスケジュールとコスト見積もりを伴う優先順位付きの一覧を作成できる。AI-assisted(AI支援)の代替テキスト生成も、図版の説明、構造タグ付け、メタデータの正規化で実際に役立っており、保存された動画や音声のキャプションや書き起こしも生成できる。"
+                "x": "チェ・ヒョンス代表は「これまでは一回の校正・校閲に少なくとも2週間からひと月ほどかかっていたが、エディトリアルは約10分で原稿の確認を終える」とし、「人が結果を確認する時間を加えても30分前後だ」と説明した。10万字の原稿を外部に依頼すると約100万ウォンかかるが、エディトリアルなら約1万ウォンで処理できる。"
               },
               {
                 "t": "p",
-                "x": "複雑な科学コンテンツの代替テキストは事情が異なる。より信頼できる手法は、自動生成に品質基準を組み合わせ、基準を下回るコンテンツを専門家のレビューに回すものだ。「AIはボトルネックをなくしたのではなく、ボトルネックのある場所へ移ったのだ」と、StraiveのBalamuraly Kanthavelouは書いている。"
+                "x": "誤字脱字や助詞、句読点だけでなく、文脈に合わない表現を見つけ、統計を検索して事実関係も確認する。結果はハングル(HWP)やPDFの原本にメモの形で付く。最大50万字まで処理でき、「スタイル分析」技術で作家固有の文体を生かしながら、最初から最後まで同じ基準を適用する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "ブックエンドは自社開発したAI書籍編集技術をドイツのフランクフルト国際ブックフェアで披露した。[写真=ブックエンド]"
+              },
+              {
+                "t": "p",
+                "x": "ブックエンドは約15点の本を出版して4万部を販売し、AIの活用で刊行期間を4か月から2~3か月に縮めた。韓国語・英語・ドイツ語に対応し、日本語も追加する計画だ。チェ代表は「AIが編集者に取って代わるのではなく、編集者の判断を助けるという方向性に共感する反応が多かった」と伝えた。長期目標は出版のあらゆる工程をつなぐ「出版界のFigma」だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI或能让学术旧书目\n变得无障碍",
-          "body": "出版商可借助AI审查旧档案，并为无障碍书目生成替代文本、标签和元数据。",
-          "mini_headline": "AI助力\n无障碍旧书目",
+          "headline": "Bookend推AI编辑服务\n校对2周缩至30分钟",
+          "body": "Bookend的AI服务“Editorial”将图书校对从2周缩短到30分钟。",
+          "mini_headline": "AI把校对2周\n缩至30分钟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "无障碍与残障电脑图标"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "Bookend代表崔贤洙 [图片=Bookend]"
               },
               {
                 "t": "p",
-                "x": "大多数出版商已无需被说服：无障碍合规不容忽视——仅2025年就记录了5,114起ADA诉讼。他们真正头疼的是大规模落地，尤其是数十年来在未考虑无障碍的情况下积累的旧档案，其中满是复杂图表、数学符号和密集的数据表格。"
+                "x": "位于大德研究园区的出版社Bookend推出AI图书编辑服务“Editorial”，可将校对和审校所需时间从2周缩短至30分钟；该公司还于7日参加德国法兰克福国际书展，向海外出版业介绍了这项技术。"
               },
               {
                 "t": "p",
-                "x": "AI可以读取出版商的现有档案并进行自动审查，确定不合规内容的范围，生成附带切实时间表和成本估算的优先级清单。AI-assisted（AI辅助）替代文本生成也在图表描述、结构标记和元数据规范化方面发挥着实际作用，还能为存档的视频和音频生成字幕与文字稿。"
+                "x": "崔贤洙代表解释说：“过去一轮校对和审校至少要2周到一个月，而Editorial约10分钟就能完成稿件审阅。”他还表示：“加上人工确认结果的时间，也就30分钟左右。”一份10万字的稿件外包约需100万韩元，而用Editorial约1万韩元即可处理。"
               },
               {
                 "t": "p",
-                "x": "复杂科学内容的替代文本则是另一回事。更可信的做法是将自动生成与质量门槛结合，把低于门槛的内容转交学科专家审核。Straive的Balamuraly Kanthavelou写道：“AI并没有消除瓶颈，而是移到了瓶颈所在之处。”"
+                "x": "它不仅能找出错别字、助词和标点问题，还能发现不合语境的表达，并通过检索统计数据核实事实。结果以批注形式标在韩文（HWP）或PDF原文件上。它最多可处理50万字，并借助“风格分析”技术，在保留作者独特文风的同时，从头到尾采用同一标准。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "Bookend在德国法兰克福国际书展上展示了自主研发的AI图书编辑技术。[图片=Bookend]"
+              },
+              {
+                "t": "p",
+                "x": "Bookend已出版约15种图书，售出4万册，并借助AI将出版周期从4个月缩短至2~3个月。它支持韩语、英语和德语，并计划增加日语。崔代表说：“很多人认同AI不是取代编辑，而是辅助编辑判断的方向。”其长期目标是打造连接出版全流程的“出版界的Figma”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA podría hacer accesibles\nlos fondos académicos",
-          "body": "Las editoriales pueden auditar con IA archivos antiguos y crear texto alternativo, etiquetas y metadatos accesibles.",
-          "mini_headline": "IA para fondos\naccesibles",
+          "headline": "Bookend corrige libros con AI:\nde 2 semanas a 30 minutos",
+          "body": "El servicio de AI 'Editorial' de Bookend redujo la corrección de libros de 2 semanas a 30 minutos.",
+          "mini_headline": "Corrección con AI:\nde 2 semanas a 30 minutos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "Icono informático de accesibilidad y discapacidad"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "Choi Hyun-soo, director ejecutivo de Bookend [Foto=Bookend]"
               },
               {
                 "t": "p",
-                "x": "La mayoría de las editoriales ya no necesita que la convenzan de que el cumplimiento en accesibilidad no puede ignorarse: solo en 2025 se registraron 5.114 demandas por la ADA. Lo que les cuesta es la ejecución a gran escala, sobre todo en décadas de archivos heredados creados sin pensar en la accesibilidad, llenos de figuras complejas, notación matemática y densas tablas de datos."
+                "x": "Bookend, una editorial del complejo de investigación de Daedeok, presentó 'Editorial', un servicio de edición de libros con AI que reduce el tiempo de corrección y revisión de estilo de 2 semanas a 30 minutos, y el día 7 participó en la Feria Internacional del Libro de Fráncfort, en Alemania, para dar a conocer la tecnología a la industria editorial extranjera."
               },
               {
                 "t": "p",
-                "x": "La IA puede incorporar el archivo existente de una editorial y realizar auditorías automatizadas para determinar el alcance del contenido que no cumple las normas, generando un inventario priorizado con un calendario realista y una estimación de costos. La generación de texto alternativo AI-assisted (asistida por IA) también está haciendo un trabajo real en la descripción de figuras, el etiquetado estructural y la normalización de metadatos, y puede generar subtítulos y transcripciones para vídeo y audio archivados."
+                "x": "El director ejecutivo, Choi Hyun-soo, explicó: \"Antes, una sola ronda de corrección y revisión llevaba al menos de 2 semanas a un mes, pero Editorial termina de revisar un manuscrito en unos 10 minutos\", y añadió: \"Aun sumando el tiempo que una persona dedica a comprobar los resultados, son unos 30 minutos\". Encargar fuera un manuscrito de 100,000 caracteres cuesta alrededor de 1 millón de wones, mientras que con Editorial puede hacerse por unos 10,000 wones."
               },
               {
                 "t": "p",
-                "x": "El texto alternativo para contenido científico complejo es otra historia. Los enfoques más creíbles combinan la generación automatizada con un umbral de calidad y derivan el contenido que queda por debajo a revisión por especialistas en la materia. “La IA se ha desplazado hacia donde está el cuello de botella, no lo ha eliminado”, escribe Balamuraly Kanthavelou, de Straive."
+                "x": "Además de erratas, partículas y signos de puntuación, detecta expresiones que no encajan en el contexto y verifica los hechos buscando estadísticas. Los resultados se añaden como notas en el archivo original en Hangul (HWP) o PDF. Procesa hasta 500,000 caracteres y, con su tecnología de 'análisis de estilo', conserva el estilo propio del autor mientras aplica el mismo criterio de principio a fin."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "Bookend presentó su tecnología propia de edición de libros con AI en la Feria Internacional del Libro de Fráncfort, en Alemania. [Foto=Bookend]"
+              },
+              {
+                "t": "p",
+                "x": "Bookend ha publicado unos 15 títulos y vendido 40,000 ejemplares, y gracias a la AI redujo el plazo de publicación de 4 meses a 2-3 meses. Admite coreano, inglés y alemán, y planea añadir japonés. \"Muchos coincidieron con la idea de que la AI no sustituye al editor, sino que ayuda a su criterio\", contó Choi. Su objetivo a largo plazo es ser 'el Figma del sector editorial', que conecte todas las etapas de la publicación."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI로 학술서 백리스트\n접근성 높일 수 있다",
-          "body": "출판사는 AI로 옛 자료를 점검하고 대체 텍스트·태그·메타데이터를 만들 수 있다.",
-          "mini_headline": "AI로 접근성 높이는\n백리스트",
+        "en": {
+          "headline": "Bookend's AI editing service\ncuts 2-week proofing to 30 min",
+          "body": "Bookend's AI service 'Editorial' has cut book proofreading from 2 weeks to 30 minutes.",
+          "mini_headline": "AI cuts 2 weeks of\nproofreading to 30 minutes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "접근성·장애 컴퓨터 아이콘"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "Choi Hyun-soo, CEO of Bookend [Photo=Bookend]"
               },
               {
                 "t": "p",
-                "x": "접근성 준수를 외면할 수 없다는 점은 이제 대부분의 출판사가 이미 받아들이고 있다. 2025년 한 해에만 ADA 소송이 5,114건 기록됐다. 출판사가 어려워하는 것은 대량 실행이다. 특히 접근성을 고려하지 않고 쌓아 온 수십 년치 레거시 아카이브에는 복잡한 도판, 수식 표기, 빽빽한 데이터 표가 가득하다."
+                "x": "Bookend, a publisher in the Daedeok Research Complex, has introduced 'Editorial', an AI book-editing service that cuts the time needed for proofreading and copyediting from 2 weeks to 30 minutes, and on the 7th it took part in the Frankfurt International Book Fair in Germany to present the technology to the overseas publishing industry."
               },
               {
                 "t": "p",
-                "x": "AI는 출판사가 보유한 아카이브를 받아들여 자동 감사를 돌리고, 기준에 맞지 않는 콘텐츠의 범위를 파악해 현실적인 일정과 비용 추정치를 담은 우선순위 목록을 만들 수 있다. AI-assisted(AI 보조) 대체 텍스트 생성도 도판 설명, 구조 태깅, 메타데이터 정규화에서 실질적인 몫을 하고 있으며, 보관된 영상과 음성의 자막과 녹취록도 만들 수 있다."
+                "x": "CEO Choi Hyun-soo explained, \"Previously, a single round of proofreading and copyediting took at least 2 weeks to a month, but Editorial finishes reviewing a manuscript in about 10 minutes,\" adding, \"Even including the time for a person to check the results, it's around 30 minutes.\" Outsourcing a 100,000-character manuscript costs about 1 million won, while Editorial can handle it for about 10,000 won."
               },
               {
                 "t": "p",
-                "x": "복잡한 과학 콘텐츠의 대체 텍스트는 사정이 다르다. 더 신뢰할 만한 방식은 자동 생성에 품질 기준을 결합해, 기준에 못 미치는 콘텐츠를 해당 분야 전문가 검토로 넘긴다. Straive의 Balamuraly Kanthavelou는 “AI는 병목을 없앤 것이 아니라 병목이 있는 자리로 옮겨 갔다”고 썼다."
+                "x": "Beyond typos, particles and punctuation, it finds expressions that don't fit the context and checks facts by searching statistics. Results are attached as notes to the original Hangul (HWP) or PDF file. It handles up to 500,000 characters, and its 'style analysis' technology keeps the author's own voice while applying the same standard from beginning to end."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "Bookend presented its in-house AI book-editing technology at the Frankfurt International Book Fair in Germany. [Photo=Bookend]"
+              },
+              {
+                "t": "p",
+                "x": "Bookend has published about 15 titles and sold 40,000 copies, and by using AI it has shortened its publishing time from 4 months to 2-3 months. It supports Korean, English and German and plans to add Japanese. \"Many people agreed with the direction that AI does not replace editors but supports their judgment,\" Choi said. The long-term goal is 'the Figma of publishing', connecting every step of the publishing process."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで学術既刊書を\nアクセシブルにできる",
-          "body": "出版社はAIで過去のアーカイブを点検し、代替テキストやタグ、メタデータを生成できる。",
-          "mini_headline": "AIで既刊を\nアクセシブルに",
+          "headline": "ブックエンドのAI編集\n校正2週間を30分に",
+          "body": "ブックエンドのAIサービス「エディトリアル」は書籍の校正を2週間から30分に短縮した。",
+          "mini_headline": "AIで校正2週間を\n30分に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "アクセシビリティ・障害者のコンピューターアイコン"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "ブックエンドのチェ・ヒョンス代表 [写真=ブックエンド]"
               },
               {
                 "t": "p",
-                "x": "アクセシビリティ対応を無視できないことは、もはや大半の出版社にとって説得されるまでもない。2025年だけでADA訴訟は5,114件記録された。出版社が苦労しているのは大量に実行することであり、とりわけアクセシビリティを考慮せずに作られた数十年分のレガシーアーカイブには、複雑な図版や数式表記、密度の高いデータ表があふれている。"
+                "x": "大徳研究団地の出版社ブックエンドは、校正・校閲にかかる時間を2週間から30分に短縮するAI書籍編集サービス「エディトリアル(Editorial)」を発表し、7日にはドイツのフランクフルト国際ブックフェアに参加して海外の出版業界にも技術を紹介した。"
               },
               {
                 "t": "p",
-                "x": "AIは出版社の既存アーカイブを取り込んで自動監査を行い、非準拠コンテンツの範囲を特定し、現実的なスケジュールとコスト見積もりを伴う優先順位付きの一覧を作成できる。AI-assisted(AI支援)の代替テキスト生成も、図版の説明、構造タグ付け、メタデータの正規化で実際に役立っており、保存された動画や音声のキャプションや書き起こしも生成できる。"
+                "x": "チェ・ヒョンス代表は「これまでは一回の校正・校閲に少なくとも2週間からひと月ほどかかっていたが、エディトリアルは約10分で原稿の確認を終える」とし、「人が結果を確認する時間を加えても30分前後だ」と説明した。10万字の原稿を外部に依頼すると約100万ウォンかかるが、エディトリアルなら約1万ウォンで処理できる。"
               },
               {
                 "t": "p",
-                "x": "複雑な科学コンテンツの代替テキストは事情が異なる。より信頼できる手法は、自動生成に品質基準を組み合わせ、基準を下回るコンテンツを専門家のレビューに回すものだ。「AIはボトルネックをなくしたのではなく、ボトルネックのある場所へ移ったのだ」と、StraiveのBalamuraly Kanthavelouは書いている。"
+                "x": "誤字脱字や助詞、句読点だけでなく、文脈に合わない表現を見つけ、統計を検索して事実関係も確認する。結果はハングル(HWP)やPDFの原本にメモの形で付く。最大50万字まで処理でき、「スタイル分析」技術で作家固有の文体を生かしながら、最初から最後まで同じ基準を適用する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "ブックエンドは自社開発したAI書籍編集技術をドイツのフランクフルト国際ブックフェアで披露した。[写真=ブックエンド]"
+              },
+              {
+                "t": "p",
+                "x": "ブックエンドは約15点の本を出版して4万部を販売し、AIの活用で刊行期間を4か月から2~3か月に縮めた。韓国語・英語・ドイツ語に対応し、日本語も追加する計画だ。チェ代表は「AIが編集者に取って代わるのではなく、編集者の判断を助けるという方向性に共感する反応が多かった」と伝えた。長期目標は出版のあらゆる工程をつなぐ「出版界のFigma」だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI或能让学术旧书目\n变得无障碍",
-          "body": "出版商可借助AI审查旧档案，并为无障碍书目生成替代文本、标签和元数据。",
-          "mini_headline": "AI助力\n无障碍旧书目",
+          "headline": "Bookend推AI编辑服务\n校对2周缩至30分钟",
+          "body": "Bookend的AI服务“Editorial”将图书校对从2周缩短到30分钟。",
+          "mini_headline": "AI把校对2周\n缩至30分钟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "无障碍与残障电脑图标"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "Bookend代表崔贤洙 [图片=Bookend]"
               },
               {
                 "t": "p",
-                "x": "大多数出版商已无需被说服：无障碍合规不容忽视——仅2025年就记录了5,114起ADA诉讼。他们真正头疼的是大规模落地，尤其是数十年来在未考虑无障碍的情况下积累的旧档案，其中满是复杂图表、数学符号和密集的数据表格。"
+                "x": "位于大德研究园区的出版社Bookend推出AI图书编辑服务“Editorial”，可将校对和审校所需时间从2周缩短至30分钟；该公司还于7日参加德国法兰克福国际书展，向海外出版业介绍了这项技术。"
               },
               {
                 "t": "p",
-                "x": "AI可以读取出版商的现有档案并进行自动审查，确定不合规内容的范围，生成附带切实时间表和成本估算的优先级清单。AI-assisted（AI辅助）替代文本生成也在图表描述、结构标记和元数据规范化方面发挥着实际作用，还能为存档的视频和音频生成字幕与文字稿。"
+                "x": "崔贤洙代表解释说：“过去一轮校对和审校至少要2周到一个月，而Editorial约10分钟就能完成稿件审阅。”他还表示：“加上人工确认结果的时间，也就30分钟左右。”一份10万字的稿件外包约需100万韩元，而用Editorial约1万韩元即可处理。"
               },
               {
                 "t": "p",
-                "x": "复杂科学内容的替代文本则是另一回事。更可信的做法是将自动生成与质量门槛结合，把低于门槛的内容转交学科专家审核。Straive的Balamuraly Kanthavelou写道：“AI并没有消除瓶颈，而是移到了瓶颈所在之处。”"
+                "x": "它不仅能找出错别字、助词和标点问题，还能发现不合语境的表达，并通过检索统计数据核实事实。结果以批注形式标在韩文（HWP）或PDF原文件上。它最多可处理50万字，并借助“风格分析”技术，在保留作者独特文风的同时，从头到尾采用同一标准。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "Bookend在德国法兰克福国际书展上展示了自主研发的AI图书编辑技术。[图片=Bookend]"
+              },
+              {
+                "t": "p",
+                "x": "Bookend已出版约15种图书，售出4万册，并借助AI将出版周期从4个月缩短至2~3个月。它支持韩语、英语和德语，并计划增加日语。崔代表说：“很多人认同AI不是取代编辑，而是辅助编辑判断的方向。”其长期目标是打造连接出版全流程的“出版界的Figma”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA podría hacer accesibles\nlos fondos académicos",
-          "body": "Las editoriales pueden auditar con IA archivos antiguos y crear texto alternativo, etiquetas y metadatos accesibles.",
-          "mini_headline": "IA para fondos\naccesibles",
+          "headline": "Bookend corrige libros con AI:\nde 2 semanas a 30 minutos",
+          "body": "El servicio de AI 'Editorial' de Bookend redujo la corrección de libros de 2 semanas a 30 minutos.",
+          "mini_headline": "Corrección con AI:\nde 2 semanas a 30 minutos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
-                "cap": "Icono informático de accesibilidad y discapacidad"
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+                "cap": "Choi Hyun-soo, director ejecutivo de Bookend [Foto=Bookend]"
               },
               {
                 "t": "p",
-                "x": "La mayoría de las editoriales ya no necesita que la convenzan de que el cumplimiento en accesibilidad no puede ignorarse: solo en 2025 se registraron 5.114 demandas por la ADA. Lo que les cuesta es la ejecución a gran escala, sobre todo en décadas de archivos heredados creados sin pensar en la accesibilidad, llenos de figuras complejas, notación matemática y densas tablas de datos."
+                "x": "Bookend, una editorial del complejo de investigación de Daedeok, presentó 'Editorial', un servicio de edición de libros con AI que reduce el tiempo de corrección y revisión de estilo de 2 semanas a 30 minutos, y el día 7 participó en la Feria Internacional del Libro de Fráncfort, en Alemania, para dar a conocer la tecnología a la industria editorial extranjera."
               },
               {
                 "t": "p",
-                "x": "La IA puede incorporar el archivo existente de una editorial y realizar auditorías automatizadas para determinar el alcance del contenido que no cumple las normas, generando un inventario priorizado con un calendario realista y una estimación de costos. La generación de texto alternativo AI-assisted (asistida por IA) también está haciendo un trabajo real en la descripción de figuras, el etiquetado estructural y la normalización de metadatos, y puede generar subtítulos y transcripciones para vídeo y audio archivados."
+                "x": "El director ejecutivo, Choi Hyun-soo, explicó: \"Antes, una sola ronda de corrección y revisión llevaba al menos de 2 semanas a un mes, pero Editorial termina de revisar un manuscrito en unos 10 minutos\", y añadió: \"Aun sumando el tiempo que una persona dedica a comprobar los resultados, son unos 30 minutos\". Encargar fuera un manuscrito de 100,000 caracteres cuesta alrededor de 1 millón de wones, mientras que con Editorial puede hacerse por unos 10,000 wones."
               },
               {
                 "t": "p",
-                "x": "El texto alternativo para contenido científico complejo es otra historia. Los enfoques más creíbles combinan la generación automatizada con un umbral de calidad y derivan el contenido que queda por debajo a revisión por especialistas en la materia. “La IA se ha desplazado hacia donde está el cuello de botella, no lo ha eliminado”, escribe Balamuraly Kanthavelou, de Straive."
+                "x": "Además de erratas, partículas y signos de puntuación, detecta expresiones que no encajan en el contexto y verifica los hechos buscando estadísticas. Los resultados se añaden como notas en el archivo original en Hangul (HWP) o PDF. Procesa hasta 500,000 caracteres y, con su tecnología de 'análisis de estilo', conserva el estilo propio del autor mientras aplica el mismo criterio de principio a fin."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+                "cap": "Bookend presentó su tecnología propia de edición de libros con AI en la Feria Internacional del Libro de Fráncfort, en Alemania. [Foto=Bookend]"
+              },
+              {
+                "t": "p",
+                "x": "Bookend ha publicado unos 15 títulos y vendido 40,000 ejemplares, y gracias a la AI redujo el plazo de publicación de 4 meses a 2-3 meses. Admite coreano, inglés y alemán, y planea añadir japonés. \"Muchos coincidieron con la idea de que la AI no sustituye al editor, sino que ayuda a su criterio\", contó Choi. Su objetivo a largo plazo es ser 'el Figma del sector editorial', que conecte todas las etapas de la publicación."
               }
             ]
           }
@@ -1271,243 +1561,225 @@
       }
     },
     {
-      "id": "ddalkkak-publishing-taxcredit",
+      "id": "jemul-tupyo-ai-liveaction",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "딸깍출판 늘자\n출판계 세액공제 요구",
-      "body": "AI 딸깍출판이 늘자 출판단체가 편집·디자인·인쇄·인세 비용 세액공제를 요구했다.",
-      "mini_headline": "딸깍출판에\n세액공제 요구",
+      "headline": "팬이 만든 AI 실사화\n유튜브 230만 회 돌파",
+      "body": "'제물 투표' AI 팬 실사화가 230만 회를 넘기며 저작권 논의를 키웠다.",
+      "mini_headline": "웹툰 AI 실사화\n230만 회",
       "tool": "Books",
-      "source": "한국일보",
-      "url": "https://www.hankookilbo.com/news/article/A2026110215410003860",
+      "source": "브릿지경제",
+      "url": "https://www.viva100.com/article/20261101500560",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-            "cap": "2일 서울 여의도 국회의원회관 제11간담회의실에서 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 간담회가 열리고 있다. 한국출판인회의 제공"
+            "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+            "cap": "네이버웹툰 '제물투표' 기반 AI 실사화 영상. 페이지 픽쳐스 유튜브 갈무리"
           },
           {
             "t": "p",
-            "x": "글로벌 인공지능(AI) 기업들의 무분별한 출판물 학습이 문제로 떠오른 가운데, 국내 양대 출판단체가 출판콘텐츠 세제 혜택의 필요성을 재차 강조했다. AI가 출판산업을 위축시킬수록 인류 지성의 보고이자 K컬처의 원천 콘텐츠인 책을 보호해야 한다는 이유다."
+            "x": "유튜브 공개 한 달 반 만에 조회수 230만 회 돌파. 네이버웹툰 '제물 투표'를 인공지능(AI)으로 실사화한 영상 이야기다. 공식 제작 발표를 기다리지 않고 팬이나 영상 스튜디오가 AI로 인기 웹툰을 영화·드라마 형식으로 재해석해 내놓고 있다."
           },
           {
             "t": "p",
-            "x": "대한출판문화협회와 한국출판인회의는 2일 서울 여의도 국회의원회관 제11간담회의실에서 출판콘텐츠 세액공제 제도 도입을 위한 간담회를 개최했다. 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 한 이날 행사는 정성호 윤후덕 이광재 문진석 김영환 김재원 의원실이 공동 주최했다."
+            "x": "'제물 투표'는 세트장·CG·배우 없이 AI로만 만들었다. 제작사에 따르면 기획부터 생성, 편집까지 약 358시간, 즉 보름 만에 완성됐다. '극야', '용사가 돌아왔다' 등 다른 네이버웹툰도 AI로 실사화됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+            "cap": "네이버웹툰 '남극' 기반 AI 실사화 영상. Fantasoner(판타소너) 유튜브 갈무리"
           },
           {
             "t": "p",
-            "x": "출판계는 출판물 세액공제 도입이 더 이상 미뤄져선 안 된다고 강조했다. 이른바 '딸깍출판'의 범람으로 출판 생태계가 위협받는 지금, 책을 만드는 데 드는 편집·디자인·인쇄·인세 등 비용을 세액공제 대상에 포함해서 출판사 숨통을 틔워줘야 한다는 것이다."
+            "x": "대부분의 영상은 도입부만 실사화해 시청자를 원작 웹툰으로 이끈다. 그러나 팬의 애정이나 높은 조회수가 원작자의 허락을 뜻하지는 않는다. 비영리 목적이나 출처 표시만으로는 저작권 이용 허락 절차를 생략할 수 없고, 저작권과 2차적저작물작성권 문제가 불거질 수 있다."
           },
           {
             "t": "p",
-            "x": "김보경 한국출판인회의 정책위원장은 \"AI가 만든 글이 넘쳐날수록 사람이 쓰고 편집·검증한 '마스터 텍스트'의 가치는 올라간다\"며 \"책을 영상이나 웹툰으로 만들 때뿐 아니라 그 바탕이 되는 원고를 책으로 만들 때도 세제 지원이 필요하다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "출판인 일원으로 간담회에 참석한 염종선 창비 대표는 한강의 부커 인터내셔널상·노벨문학상 수상을 비롯해 황석영 김혜순 정보라 등 한국 작가들의 국제적 성과를 짚으며 \"한국문학의 성취가 이어지도록 출판콘텐츠 세액공제를 도입해달라\"고 요청했다."
-          },
-          {
-            "t": "p",
-            "x": "21대 대선 정국에서 정부 여당은 출판 분야에 세제 지원을 확대하겠다고 공언했으나, 지난해 12월 국회 본회의에서 통과된 조세특례제한법 개정안엔 웹툰콘텐츠 세액공제 조항만 신설됐다. 이에 출판단체는 \"정부가 K콘텐츠 뿌리를 훼손하고 있다\"며 강력 반발하고 있다."
+            "x": "서범강 IP융복합산업협회장은 \"비상업적인 팬덤 활동은 특정 조건 아래 허용하되, 상업적 제작은 별도의 계약 절차를 마련하는 것이 좋다\"고 강조했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "딸깍출판 늘자\n출판계 세액공제 요구",
-          "body": "AI 딸깍출판이 늘자 출판단체가 편집·디자인·인쇄·인세 비용 세액공제를 요구했다.",
-          "mini_headline": "딸깍출판에\n세액공제 요구",
+          "headline": "팬이 만든 AI 실사화\n유튜브 230만 회 돌파",
+          "body": "'제물 투표' AI 팬 실사화가 230만 회를 넘기며 저작권 논의를 키웠다.",
+          "mini_headline": "웹툰 AI 실사화\n230만 회",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "2일 서울 여의도 국회의원회관 제11간담회의실에서 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 간담회가 열리고 있다. 한국출판인회의 제공"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "네이버웹툰 '제물투표' 기반 AI 실사화 영상. 페이지 픽쳐스 유튜브 갈무리"
               },
               {
                 "t": "p",
-                "x": "글로벌 인공지능(AI) 기업들의 무분별한 출판물 학습이 문제로 떠오른 가운데, 국내 양대 출판단체가 출판콘텐츠 세제 혜택의 필요성을 재차 강조했다. AI가 출판산업을 위축시킬수록 인류 지성의 보고이자 K컬처의 원천 콘텐츠인 책을 보호해야 한다는 이유다."
+                "x": "유튜브 공개 한 달 반 만에 조회수 230만 회 돌파. 네이버웹툰 '제물 투표'를 인공지능(AI)으로 실사화한 영상 이야기다. 공식 제작 발표를 기다리지 않고 팬이나 영상 스튜디오가 AI로 인기 웹툰을 영화·드라마 형식으로 재해석해 내놓고 있다."
               },
               {
                 "t": "p",
-                "x": "대한출판문화협회와 한국출판인회의는 2일 서울 여의도 국회의원회관 제11간담회의실에서 출판콘텐츠 세액공제 제도 도입을 위한 간담회를 개최했다. 'AI 시대, 미래를 여는 텍스트의 힘'을 주제로 한 이날 행사는 정성호 윤후덕 이광재 문진석 김영환 김재원 의원실이 공동 주최했다."
+                "x": "'제물 투표'는 세트장·CG·배우 없이 AI로만 만들었다. 제작사에 따르면 기획부터 생성, 편집까지 약 358시간, 즉 보름 만에 완성됐다. '극야', '용사가 돌아왔다' 등 다른 네이버웹툰도 AI로 실사화됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "네이버웹툰 '남극' 기반 AI 실사화 영상. Fantasoner(판타소너) 유튜브 갈무리"
               },
               {
                 "t": "p",
-                "x": "출판계는 출판물 세액공제 도입이 더 이상 미뤄져선 안 된다고 강조했다. 이른바 '딸깍출판'의 범람으로 출판 생태계가 위협받는 지금, 책을 만드는 데 드는 편집·디자인·인쇄·인세 등 비용을 세액공제 대상에 포함해서 출판사 숨통을 틔워줘야 한다는 것이다."
+                "x": "대부분의 영상은 도입부만 실사화해 시청자를 원작 웹툰으로 이끈다. 그러나 팬의 애정이나 높은 조회수가 원작자의 허락을 뜻하지는 않는다. 비영리 목적이나 출처 표시만으로는 저작권 이용 허락 절차를 생략할 수 없고, 저작권과 2차적저작물작성권 문제가 불거질 수 있다."
               },
               {
                 "t": "p",
-                "x": "김보경 한국출판인회의 정책위원장은 \"AI가 만든 글이 넘쳐날수록 사람이 쓰고 편집·검증한 '마스터 텍스트'의 가치는 올라간다\"며 \"책을 영상이나 웹툰으로 만들 때뿐 아니라 그 바탕이 되는 원고를 책으로 만들 때도 세제 지원이 필요하다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "출판인 일원으로 간담회에 참석한 염종선 창비 대표는 한강의 부커 인터내셔널상·노벨문학상 수상을 비롯해 황석영 김혜순 정보라 등 한국 작가들의 국제적 성과를 짚으며 \"한국문학의 성취가 이어지도록 출판콘텐츠 세액공제를 도입해달라\"고 요청했다."
-              },
-              {
-                "t": "p",
-                "x": "21대 대선 정국에서 정부 여당은 출판 분야에 세제 지원을 확대하겠다고 공언했으나, 지난해 12월 국회 본회의에서 통과된 조세특례제한법 개정안엔 웹툰콘텐츠 세액공제 조항만 신설됐다. 이에 출판단체는 \"정부가 K콘텐츠 뿌리를 훼손하고 있다\"며 강력 반발하고 있다."
+                "x": "서범강 IP융복합산업협회장은 \"비상업적인 팬덤 활동은 특정 조건 아래 허용하되, 상업적 제작은 별도의 계약 절차를 마련하는 것이 좋다\"고 강조했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "As 'click publishing' grows,\npublishers seek tax credits",
-          "body": "As AI 'click publishing' spreads, publishing groups sought tax credits for editing, design, printing and royalties.",
-          "mini_headline": "Tax credit push over\n'click publishing'",
+          "headline": "Fan-made AI live-action webtoon\ntops 2.3 million YouTube views",
+          "body": "A fan-made AI live-action take on 'Jemul Tupyo' passed 2.3 million views, fueling debate over copyright.",
+          "mini_headline": "AI webtoon adaptation\nhits 2.3 million views",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "A meeting on the theme 'The Power of Text That Opens the Future in the AI Era' is held on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul. Courtesy of the Korean Publishers Society"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "An AI live-action video based on Naver Webtoon's 'Jemul Tupyo'. Screenshot from the Page Pictures YouTube channel"
               },
               {
                 "t": "p",
-                "x": "With global artificial intelligence (AI) companies' indiscriminate training on published works emerging as a problem, Korea's two largest publishing organizations have again stressed the need for tax benefits for publishing content. Their reasoning: the more AI shrinks the publishing industry, the more books, a treasury of human intellect and the source content of K-culture, must be protected."
+                "x": "2.3 million views on YouTube within a month and a half of release. That is the story of a video that adapts Naver Webtoon's 'Jemul Tupyo' into live action with artificial intelligence (AI). Without waiting for official production announcements, fans and video studios are using AI to reinterpret popular webtoons as films and dramas."
               },
               {
                 "t": "p",
-                "x": "The Korean Publishers Association and the Korean Publishers Society held a meeting on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul, on introducing a tax credit for publishing content. Held under the theme 'The Power of Text That Opens the Future in the AI Era,' the event was co-hosted by the offices of lawmakers Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan and Kim Jae-won."
+                "x": "'Jemul Tupyo' was made with AI alone, without sets, CG or actors. According to the producer, it was completed in about 358 hours, or half a month, from planning through generation and editing. Other Naver Webtoon titles such as 'Geukya' and 'Yongsaga Dorawatda' have also been adapted into live action with AI."
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "An AI live-action video based on Naver Webtoon's 'Namgeuk'. Screenshot from the Fantasoner YouTube channel"
               },
               {
                 "t": "p",
-                "x": "The publishing industry stressed that a tax credit for publications can no longer be delayed. Now that the publishing ecosystem is threatened by a flood of so-called 'click publishing,' it argued, the costs of making books, such as editing, design, printing and royalties, should be eligible for the tax credit to give publishers room to breathe."
+                "x": "Most of the videos adapt only the opening into live action, steering viewers to the original webtoon. But fans' affection or high view counts do not mean the original creator's permission. A non-profit purpose or a credit alone cannot replace the copyright licensing process, and issues of copyright and the right to create derivative works can arise."
               },
               {
                 "t": "p",
-                "x": "Kim Bo-kyung, policy committee chair of the Korean Publishers Society, said, \"The more AI-generated writing floods in, the higher the value of 'master texts' written, edited and verified by people,\" adding, \"Tax support is needed not only when books are turned into video or webtoons, but also when the manuscripts behind them are made into books.\""
-              },
-              {
-                "t": "p",
-                "x": "Yeom Jong-seon, CEO of Changbi, who attended the meeting as a member of the publishing community, pointed to the international achievements of Korean writers, including Han Kang's International Booker Prize and Nobel Prize in Literature, as well as Hwang Sok-yong, Kim Hyesoon and Bora Chung, and asked, \"Please introduce a publishing content tax credit so that the achievements of Korean literature can continue.\""
-              },
-              {
-                "t": "p",
-                "x": "During the 21st presidential election campaign, the government and ruling party pledged to expand tax support for publishing, but the amendment to the Restriction of Special Taxation Act passed at the National Assembly plenary session last December created only a tax credit provision for webtoon content. Publishing groups are pushing back strongly, saying \"the government is damaging the roots of K-content.\""
+                "x": "Seo Beom-gang, chairman of the IP Convergence Industry Association, stressed, \"It would be good to allow non-commercial fandom activities under certain conditions, while setting up a separate contract process for commercial production.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "「ワンクリック出版」急増\n出版界が税額控除求める",
-          "body": "AIワンクリック出版の増加で、出版団体が編集・デザイン・印刷・印税の税額控除を求めた。",
-          "mini_headline": "ワンクリック出版に\n税額控除の要求",
+          "headline": "ファンが作ったAI実写化\n再生230万回を突破",
+          "body": "「生贄投票」のAIファン実写化が230万回を超え、著作権論議を呼んだ。",
+          "mini_headline": "ウェブトゥーンAI実写化\n230万回",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "2日、ソウル汝矣島の国会議員会館第11懇談会室で「AI時代、未来を開くテキストの力」をテーマに懇談会が開かれている。韓国出版人会議提供"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "ネイバーウェブトゥーン「生贄投票」をもとにしたAI実写化映像。ページピクチャーズのYouTubeより"
               },
               {
                 "t": "p",
-                "x": "グローバルな人工知能(AI)企業による出版物の無分別な学習が問題となる中、韓国の二大出版団体が出版コンテンツへの税制優遇の必要性を改めて強調した。AIが出版産業を萎縮させるほど、人類の知性の宝庫でありKカルチャーの源泉コンテンツである本を守らなければならないという理由だ。"
+                "x": "YouTube公開から一か月半で再生回数230万回を突破。ネイバーウェブトゥーン「生贄投票」を人工知能(AI)で実写化した映像の話だ。公式の制作発表を待たずに、ファンや映像スタジオがAIで人気ウェブトゥーンを映画・ドラマ形式に再解釈して公開している。"
               },
               {
                 "t": "p",
-                "x": "大韓出版文化協会と韓国出版人会議は2日、ソウル汝矣島の国会議員会館第11懇談会室で、出版コンテンツ税額控除制度の導入に向けた懇談会を開いた。「AI時代、未来を開くテキストの力」をテーマにしたこの日の行事は、チョン・ソンホ、ユン・フドク、イ・グァンジェ、ムン・ジンソク、キム・ヨンファン、キム・ジェウォン各議員の事務所が共同主催した。"
+                "x": "「生贄投票」はセットもCGも俳優も使わず、AIだけで作られた。制作会社によると、企画から生成、編集まで約358時間、つまり半月で完成した。「極夜」「勇者が帰ってきた」など、ほかのネイバーウェブトゥーン作品もAIで実写化されている。"
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "ネイバーウェブトゥーン「南極」をもとにしたAI実写化映像。Fantasoner(ファンタソナー)のYouTubeより"
               },
               {
                 "t": "p",
-                "x": "出版界は、出版物の税額控除導入をこれ以上先送りしてはならないと強調した。いわゆる「ワンクリック出版」の氾濫で出版の生態系が脅かされている今、本づくりにかかる編集・デザイン・印刷・印税などの費用を税額控除の対象に含め、出版社が息をつけるようにすべきだという。"
+                "x": "大半の映像は冒頭部分だけを実写化し、視聴者を原作ウェブトゥーンへ誘導する。しかしファンの愛情や高い再生回数が、原作者の許可を意味するわけではない。非営利目的や出典表示だけでは著作権の利用許諾手続きを省略できず、著作権や2次的著作物作成権の問題が生じうる。"
               },
               {
                 "t": "p",
-                "x": "韓国出版人会議のキム・ボギョン政策委員長は「AIが作った文章があふれるほど、人が書き、編集・検証した『マスターテキスト』の価値は高まる」と述べ、「本を映像やウェブトゥーンにするときだけでなく、その土台となる原稿を本にするときにも税制支援が必要だ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "出版人の一員として懇談会に出席した創批のヨム・ジョンソン代表は、ハン・ガンのブッカー国際賞・ノーベル文学賞受賞をはじめ、ファン・ソギョン、キム・ヘスン、チョン・ボラら韓国作家の国際的な成果に触れ、「韓国文学の成果が続くよう、出版コンテンツ税額控除を導入してほしい」と求めた。"
-              },
-              {
-                "t": "p",
-                "x": "第21代大統領選の政局で政府与党は出版分野への税制支援拡大を公言したが、昨年12月に国会本会議で可決された租税特例制限法改正案には、ウェブトゥーンコンテンツの税額控除条項だけが新設された。これに対し出版団体は「政府がKコンテンツの根を傷つけている」と強く反発している。"
+                "x": "ソ・ボムガンIP融複合産業協会会長は「非商業的なファンダム活動は特定の条件のもとで認め、商業的な制作には別途の契約手続きを設けるのがよい」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "“一键出版”激增\n出版界呼吁税收抵免",
-          "body": "AI“一键出版”泛滥，出版团体要求对编辑、设计、印刷和版税费用实行税额抵免。",
-          "mini_headline": "“一键出版”\n引发减税呼声",
+          "headline": "粉丝用AI制作真人版\nYouTube播放破230万",
+          "body": "《祭品投票》的AI粉丝真人版播放量破230万，引发更多版权讨论。",
+          "mini_headline": "网漫AI真人化\n230万次",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "2日，以“AI时代，开启未来的文字力量”为主题的座谈会在首尔汝矣岛国会议员会馆第11座谈室举行。韩国出版人会议供图"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "基于Naver Webtoon《祭品投票》的AI真人版视频。截图自Page Pictures的YouTube频道"
               },
               {
                 "t": "p",
-                "x": "在全球人工智能（AI）企业肆意利用出版物进行训练成为问题之际，韩国两大出版团体再次强调了出版内容税收优惠的必要性。理由是，AI越是让出版业萎缩，就越要保护书籍——这一人类智慧的宝库、K文化的源头内容。"
+                "x": "在YouTube发布一个半月，播放量突破230万次。这说的是用人工智能（AI）将Naver Webtoon《祭品投票》真人化的视频。粉丝和视频工作室不等官方宣布制作，就用AI把热门网漫重新演绎成电影、电视剧的形式发布。"
               },
               {
                 "t": "p",
-                "x": "大韩出版文化协会与韩国出版人会议于2日在首尔汝矣岛国会议员会馆第11座谈室举行了推动引入出版内容税额抵免制度的座谈会。当天活动以“AI时代，开启未来的文字力量”为主题，由郑成湖、尹厚德、李光宰、文振晳、金永焕、金在原议员办公室共同主办。"
+                "x": "《祭品投票》没有布景、CG和演员，完全由AI制作。据制作方介绍，从策划到生成、剪辑约用了358小时，即半个月完成。《极夜》《勇者回来了》等其他Naver Webtoon作品也被用AI真人化。"
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "基于Naver Webtoon《南极》的AI真人版视频。截图自Fantasoner的YouTube频道"
               },
               {
                 "t": "p",
-                "x": "出版界强调，出版物税额抵免制度的引入不能再拖延。在所谓“一键出版”泛滥、出版生态受到威胁的当下，应将编辑、设计、印刷、版税等制作书籍所需的费用纳入税额抵免范围，让出版社喘一口气。"
+                "x": "大多数视频只把开头部分真人化，把观众引向原作网漫。但粉丝的喜爱或高播放量并不代表原作者的许可。仅凭非营利目的或注明出处，并不能省去著作权使用许可程序，还可能引发著作权和2次衍生作品创作权问题。"
               },
               {
                 "t": "p",
-                "x": "韩国出版人会议政策委员长金宝景表示：“AI生成的文字越泛滥，由人撰写、编辑和核实的‘母本文字’价值就越高。”并表示：“不仅在把书改编成影视或网漫时，在把作为其基础的原稿做成书时，也需要税收支持。”"
-              },
-              {
-                "t": "p",
-                "x": "以出版人身份出席座谈会的创批代表廉钟善列举了韩江荣获国际布克奖和诺贝尔文学奖，以及黄晳暎、金惠顺、郑宝拉等韩国作家取得的国际成就，并呼吁：“请引入出版内容税额抵免，让韩国文学的成就得以延续。”"
-              },
-              {
-                "t": "p",
-                "x": "在第21届总统选举期间，政府和执政党曾公开表示将扩大对出版领域的税收支持，但去年12月国会全体会议通过的《税收特例限制法》修正案中，只新设了网漫内容税额抵免条款。对此，出版团体强烈反对，称“政府正在损害K内容的根基”。"
+                "x": "IP融合产业协会会长徐范江强调：“非商业性的粉丝活动可在特定条件下允许，商业制作则最好另行建立合同程序。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Auge de la 'edición en un clic'\neditoriales piden deducciones",
-          "body": "Ante el auge de la 'edición en un clic' con IA, el sector pidió deducciones por edición, diseño, impresión y regalías.",
-          "mini_headline": "Deducciones ante la\n'edición en un clic'",
+          "headline": "Adaptación con AI hecha por fans\nsupera 2.3 millones en YouTube",
+          "body": "Una versión real de 'Jemul Tupyo' hecha con AI por fans superó 2.3 millones de vistas y avivó el debate del copyright.",
+          "mini_headline": "Webtoon con AI:\n2.3 millones de vistas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "Encuentro celebrado el día 2 en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional, en Yeouido (Seúl), bajo el lema 'El poder del texto que abre el futuro en la era de la IA'. Foto: Sociedad de Editores de Corea"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "Video de adaptación real con AI basado en 'Jemul Tupyo' de Naver Webtoon. Captura del canal de YouTube de Page Pictures"
               },
               {
                 "t": "p",
-                "x": "En medio de la polémica por el entrenamiento indiscriminado de las empresas globales de inteligencia artificial (IA) con obras publicadas, las dos principales organizaciones editoriales de Corea volvieron a subrayar la necesidad de beneficios fiscales para los contenidos editoriales. Su argumento es que, cuanto más encoja la IA la industria editorial, más hay que proteger el libro, tesoro del intelecto humano y contenido de origen de la cultura K."
+                "x": "2.3 millones de visualizaciones en YouTube en un mes y medio desde su publicación. Es la historia de un video que adapta a imagen real con inteligencia artificial (AI) el webtoon 'Jemul Tupyo' de Naver Webtoon. Sin esperar anuncios oficiales de producción, fans y estudios de video reinterpretan con AI webtoons populares en formato de película o serie."
               },
               {
                 "t": "p",
-                "x": "La Asociación de Editores de Corea y la Sociedad de Editores de Corea celebraron el día 2, en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional en Yeouido, Seúl, un encuentro para impulsar un crédito fiscal para los contenidos editoriales. El acto, bajo el lema 'El poder del texto que abre el futuro en la era de la IA', fue copatrocinado por las oficinas de los diputados Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan y Kim Jae-won."
+                "x": "'Jemul Tupyo' se hizo solo con AI, sin decorados, CG ni actores. Según la productora, se completó en unas 358 horas, es decir, medio mes, desde la planificación hasta la generación y la edición. Otros webtoons de Naver Webtoon, como 'Geukya' y 'Yongsaga Dorawatda', también se han adaptado a imagen real con AI."
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "Video de adaptación real con AI basado en 'Namgeuk' de Naver Webtoon. Captura del canal de YouTube de Fantasoner"
               },
               {
                 "t": "p",
-                "x": "El sector editorial insistió en que la introducción de un crédito fiscal para las publicaciones no puede aplazarse más. Ahora que el ecosistema editorial se ve amenazado por la avalancha de la llamada 'edición en un clic', sostiene, los costos de hacer libros, como edición, diseño, impresión y regalías, deben incluirse en el crédito fiscal para dar un respiro a las editoriales."
+                "x": "La mayoría de los videos solo adapta a imagen real el inicio y dirige a los espectadores al webtoon original. Pero el cariño de los fans o un gran número de vistas no equivalen al permiso del autor original. Un fin no lucrativo o la sola mención de la fuente no permiten omitir el trámite de autorización de derechos de autor, y pueden surgir problemas de derechos de autor y del derecho a crear obras derivadas."
               },
               {
                 "t": "p",
-                "x": "Kim Bo-kyung, responsable del comité de políticas de la Sociedad de Editores de Corea, afirmó: \"Cuanto más abunden los textos creados por IA, más sube el valor de los 'textos maestros' escritos, editados y verificados por personas\", y añadió: \"Se necesita apoyo fiscal no solo cuando los libros se convierten en vídeo o webtoon, sino también cuando el manuscrito que los sustenta se convierte en libro\"."
-              },
-              {
-                "t": "p",
-                "x": "Yeom Jong-seon, director de Changbi, que asistió al encuentro como miembro del sector editorial, destacó los logros internacionales de autores coreanos, como el Premio Booker Internacional y el Premio Nobel de Literatura de Han Kang, además de Hwang Sok-yong, Kim Hyesoon y Bora Chung, y pidió: \"Introduzcan el crédito fiscal para contenidos editoriales para que continúen los logros de la literatura coreana\"."
-              },
-              {
-                "t": "p",
-                "x": "Durante la campaña de las 21.ª elecciones presidenciales, el Gobierno y el partido gobernante prometieron ampliar el apoyo fiscal al sector editorial, pero la reforma de la Ley de Restricción de Tratamientos Fiscales Especiales aprobada en el pleno de la Asamblea Nacional en diciembre del año pasado solo creó una cláusula de crédito fiscal para contenidos de webtoon. Las organizaciones editoriales protestan con fuerza: \"El Gobierno está dañando las raíces del contenido K\"."
+                "x": "Seo Beom-gang, presidente de la Asociación de la Industria de Convergencia IP, subrayó: \"Conviene permitir las actividades de fans no comerciales bajo ciertas condiciones y establecer un procedimiento de contrato aparte para la producción comercial\"."
               }
             ]
           }
@@ -1515,157 +1787,145 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "As 'click publishing' grows,\npublishers seek tax credits",
-          "body": "As AI 'click publishing' spreads, publishing groups sought tax credits for editing, design, printing and royalties.",
-          "mini_headline": "Tax credit push over\n'click publishing'",
+          "headline": "Fan-made AI live-action webtoon\ntops 2.3 million YouTube views",
+          "body": "A fan-made AI live-action take on 'Jemul Tupyo' passed 2.3 million views, fueling debate over copyright.",
+          "mini_headline": "AI webtoon adaptation\nhits 2.3 million views",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "A meeting on the theme 'The Power of Text That Opens the Future in the AI Era' is held on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul. Courtesy of the Korean Publishers Society"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "An AI live-action video based on Naver Webtoon's 'Jemul Tupyo'. Screenshot from the Page Pictures YouTube channel"
               },
               {
                 "t": "p",
-                "x": "With global artificial intelligence (AI) companies' indiscriminate training on published works emerging as a problem, Korea's two largest publishing organizations have again stressed the need for tax benefits for publishing content. Their reasoning: the more AI shrinks the publishing industry, the more books, a treasury of human intellect and the source content of K-culture, must be protected."
+                "x": "2.3 million views on YouTube within a month and a half of release. That is the story of a video that adapts Naver Webtoon's 'Jemul Tupyo' into live action with artificial intelligence (AI). Without waiting for official production announcements, fans and video studios are using AI to reinterpret popular webtoons as films and dramas."
               },
               {
                 "t": "p",
-                "x": "The Korean Publishers Association and the Korean Publishers Society held a meeting on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul, on introducing a tax credit for publishing content. Held under the theme 'The Power of Text That Opens the Future in the AI Era,' the event was co-hosted by the offices of lawmakers Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan and Kim Jae-won."
+                "x": "'Jemul Tupyo' was made with AI alone, without sets, CG or actors. According to the producer, it was completed in about 358 hours, or half a month, from planning through generation and editing. Other Naver Webtoon titles such as 'Geukya' and 'Yongsaga Dorawatda' have also been adapted into live action with AI."
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "An AI live-action video based on Naver Webtoon's 'Namgeuk'. Screenshot from the Fantasoner YouTube channel"
               },
               {
                 "t": "p",
-                "x": "The publishing industry stressed that a tax credit for publications can no longer be delayed. Now that the publishing ecosystem is threatened by a flood of so-called 'click publishing,' it argued, the costs of making books, such as editing, design, printing and royalties, should be eligible for the tax credit to give publishers room to breathe."
+                "x": "Most of the videos adapt only the opening into live action, steering viewers to the original webtoon. But fans' affection or high view counts do not mean the original creator's permission. A non-profit purpose or a credit alone cannot replace the copyright licensing process, and issues of copyright and the right to create derivative works can arise."
               },
               {
                 "t": "p",
-                "x": "Kim Bo-kyung, policy committee chair of the Korean Publishers Society, said, \"The more AI-generated writing floods in, the higher the value of 'master texts' written, edited and verified by people,\" adding, \"Tax support is needed not only when books are turned into video or webtoons, but also when the manuscripts behind them are made into books.\""
-              },
-              {
-                "t": "p",
-                "x": "Yeom Jong-seon, CEO of Changbi, who attended the meeting as a member of the publishing community, pointed to the international achievements of Korean writers, including Han Kang's International Booker Prize and Nobel Prize in Literature, as well as Hwang Sok-yong, Kim Hyesoon and Bora Chung, and asked, \"Please introduce a publishing content tax credit so that the achievements of Korean literature can continue.\""
-              },
-              {
-                "t": "p",
-                "x": "During the 21st presidential election campaign, the government and ruling party pledged to expand tax support for publishing, but the amendment to the Restriction of Special Taxation Act passed at the National Assembly plenary session last December created only a tax credit provision for webtoon content. Publishing groups are pushing back strongly, saying \"the government is damaging the roots of K-content.\""
+                "x": "Seo Beom-gang, chairman of the IP Convergence Industry Association, stressed, \"It would be good to allow non-commercial fandom activities under certain conditions, while setting up a separate contract process for commercial production.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "「ワンクリック出版」急増\n出版界が税額控除求める",
-          "body": "AIワンクリック出版の増加で、出版団体が編集・デザイン・印刷・印税の税額控除を求めた。",
-          "mini_headline": "ワンクリック出版に\n税額控除の要求",
+          "headline": "ファンが作ったAI実写化\n再生230万回を突破",
+          "body": "「生贄投票」のAIファン実写化が230万回を超え、著作権論議を呼んだ。",
+          "mini_headline": "ウェブトゥーンAI実写化\n230万回",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "2日、ソウル汝矣島の国会議員会館第11懇談会室で「AI時代、未来を開くテキストの力」をテーマに懇談会が開かれている。韓国出版人会議提供"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "ネイバーウェブトゥーン「生贄投票」をもとにしたAI実写化映像。ページピクチャーズのYouTubeより"
               },
               {
                 "t": "p",
-                "x": "グローバルな人工知能(AI)企業による出版物の無分別な学習が問題となる中、韓国の二大出版団体が出版コンテンツへの税制優遇の必要性を改めて強調した。AIが出版産業を萎縮させるほど、人類の知性の宝庫でありKカルチャーの源泉コンテンツである本を守らなければならないという理由だ。"
+                "x": "YouTube公開から一か月半で再生回数230万回を突破。ネイバーウェブトゥーン「生贄投票」を人工知能(AI)で実写化した映像の話だ。公式の制作発表を待たずに、ファンや映像スタジオがAIで人気ウェブトゥーンを映画・ドラマ形式に再解釈して公開している。"
               },
               {
                 "t": "p",
-                "x": "大韓出版文化協会と韓国出版人会議は2日、ソウル汝矣島の国会議員会館第11懇談会室で、出版コンテンツ税額控除制度の導入に向けた懇談会を開いた。「AI時代、未来を開くテキストの力」をテーマにしたこの日の行事は、チョン・ソンホ、ユン・フドク、イ・グァンジェ、ムン・ジンソク、キム・ヨンファン、キム・ジェウォン各議員の事務所が共同主催した。"
+                "x": "「生贄投票」はセットもCGも俳優も使わず、AIだけで作られた。制作会社によると、企画から生成、編集まで約358時間、つまり半月で完成した。「極夜」「勇者が帰ってきた」など、ほかのネイバーウェブトゥーン作品もAIで実写化されている。"
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "ネイバーウェブトゥーン「南極」をもとにしたAI実写化映像。Fantasoner(ファンタソナー)のYouTubeより"
               },
               {
                 "t": "p",
-                "x": "出版界は、出版物の税額控除導入をこれ以上先送りしてはならないと強調した。いわゆる「ワンクリック出版」の氾濫で出版の生態系が脅かされている今、本づくりにかかる編集・デザイン・印刷・印税などの費用を税額控除の対象に含め、出版社が息をつけるようにすべきだという。"
+                "x": "大半の映像は冒頭部分だけを実写化し、視聴者を原作ウェブトゥーンへ誘導する。しかしファンの愛情や高い再生回数が、原作者の許可を意味するわけではない。非営利目的や出典表示だけでは著作権の利用許諾手続きを省略できず、著作権や2次的著作物作成権の問題が生じうる。"
               },
               {
                 "t": "p",
-                "x": "韓国出版人会議のキム・ボギョン政策委員長は「AIが作った文章があふれるほど、人が書き、編集・検証した『マスターテキスト』の価値は高まる」と述べ、「本を映像やウェブトゥーンにするときだけでなく、その土台となる原稿を本にするときにも税制支援が必要だ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "出版人の一員として懇談会に出席した創批のヨム・ジョンソン代表は、ハン・ガンのブッカー国際賞・ノーベル文学賞受賞をはじめ、ファン・ソギョン、キム・ヘスン、チョン・ボラら韓国作家の国際的な成果に触れ、「韓国文学の成果が続くよう、出版コンテンツ税額控除を導入してほしい」と求めた。"
-              },
-              {
-                "t": "p",
-                "x": "第21代大統領選の政局で政府与党は出版分野への税制支援拡大を公言したが、昨年12月に国会本会議で可決された租税特例制限法改正案には、ウェブトゥーンコンテンツの税額控除条項だけが新設された。これに対し出版団体は「政府がKコンテンツの根を傷つけている」と強く反発している。"
+                "x": "ソ・ボムガンIP融複合産業協会会長は「非商業的なファンダム活動は特定の条件のもとで認め、商業的な制作には別途の契約手続きを設けるのがよい」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "“一键出版”激增\n出版界呼吁税收抵免",
-          "body": "AI“一键出版”泛滥，出版团体要求对编辑、设计、印刷和版税费用实行税额抵免。",
-          "mini_headline": "“一键出版”\n引发减税呼声",
+          "headline": "粉丝用AI制作真人版\nYouTube播放破230万",
+          "body": "《祭品投票》的AI粉丝真人版播放量破230万，引发更多版权讨论。",
+          "mini_headline": "网漫AI真人化\n230万次",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "2日，以“AI时代，开启未来的文字力量”为主题的座谈会在首尔汝矣岛国会议员会馆第11座谈室举行。韩国出版人会议供图"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "基于Naver Webtoon《祭品投票》的AI真人版视频。截图自Page Pictures的YouTube频道"
               },
               {
                 "t": "p",
-                "x": "在全球人工智能（AI）企业肆意利用出版物进行训练成为问题之际，韩国两大出版团体再次强调了出版内容税收优惠的必要性。理由是，AI越是让出版业萎缩，就越要保护书籍——这一人类智慧的宝库、K文化的源头内容。"
+                "x": "在YouTube发布一个半月，播放量突破230万次。这说的是用人工智能（AI）将Naver Webtoon《祭品投票》真人化的视频。粉丝和视频工作室不等官方宣布制作，就用AI把热门网漫重新演绎成电影、电视剧的形式发布。"
               },
               {
                 "t": "p",
-                "x": "大韩出版文化协会与韩国出版人会议于2日在首尔汝矣岛国会议员会馆第11座谈室举行了推动引入出版内容税额抵免制度的座谈会。当天活动以“AI时代，开启未来的文字力量”为主题，由郑成湖、尹厚德、李光宰、文振晳、金永焕、金在原议员办公室共同主办。"
+                "x": "《祭品投票》没有布景、CG和演员，完全由AI制作。据制作方介绍，从策划到生成、剪辑约用了358小时，即半个月完成。《极夜》《勇者回来了》等其他Naver Webtoon作品也被用AI真人化。"
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "基于Naver Webtoon《南极》的AI真人版视频。截图自Fantasoner的YouTube频道"
               },
               {
                 "t": "p",
-                "x": "出版界强调，出版物税额抵免制度的引入不能再拖延。在所谓“一键出版”泛滥、出版生态受到威胁的当下，应将编辑、设计、印刷、版税等制作书籍所需的费用纳入税额抵免范围，让出版社喘一口气。"
+                "x": "大多数视频只把开头部分真人化，把观众引向原作网漫。但粉丝的喜爱或高播放量并不代表原作者的许可。仅凭非营利目的或注明出处，并不能省去著作权使用许可程序，还可能引发著作权和2次衍生作品创作权问题。"
               },
               {
                 "t": "p",
-                "x": "韩国出版人会议政策委员长金宝景表示：“AI生成的文字越泛滥，由人撰写、编辑和核实的‘母本文字’价值就越高。”并表示：“不仅在把书改编成影视或网漫时，在把作为其基础的原稿做成书时，也需要税收支持。”"
-              },
-              {
-                "t": "p",
-                "x": "以出版人身份出席座谈会的创批代表廉钟善列举了韩江荣获国际布克奖和诺贝尔文学奖，以及黄晳暎、金惠顺、郑宝拉等韩国作家取得的国际成就，并呼吁：“请引入出版内容税额抵免，让韩国文学的成就得以延续。”"
-              },
-              {
-                "t": "p",
-                "x": "在第21届总统选举期间，政府和执政党曾公开表示将扩大对出版领域的税收支持，但去年12月国会全体会议通过的《税收特例限制法》修正案中，只新设了网漫内容税额抵免条款。对此，出版团体强烈反对，称“政府正在损害K内容的根基”。"
+                "x": "IP融合产业协会会长徐范江强调：“非商业性的粉丝活动可在特定条件下允许，商业制作则最好另行建立合同程序。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Auge de la 'edición en un clic'\neditoriales piden deducciones",
-          "body": "Ante el auge de la 'edición en un clic' con IA, el sector pidió deducciones por edición, diseño, impresión y regalías.",
-          "mini_headline": "Deducciones ante la\n'edición en un clic'",
+          "headline": "Adaptación con AI hecha por fans\nsupera 2.3 millones en YouTube",
+          "body": "Una versión real de 'Jemul Tupyo' hecha con AI por fans superó 2.3 millones de vistas y avivó el debate del copyright.",
+          "mini_headline": "Webtoon con AI:\n2.3 millones de vistas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
-                "cap": "Encuentro celebrado el día 2 en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional, en Yeouido (Seúl), bajo el lema 'El poder del texto que abre el futuro en la era de la IA'. Foto: Sociedad de Editores de Corea"
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+                "cap": "Video de adaptación real con AI basado en 'Jemul Tupyo' de Naver Webtoon. Captura del canal de YouTube de Page Pictures"
               },
               {
                 "t": "p",
-                "x": "En medio de la polémica por el entrenamiento indiscriminado de las empresas globales de inteligencia artificial (IA) con obras publicadas, las dos principales organizaciones editoriales de Corea volvieron a subrayar la necesidad de beneficios fiscales para los contenidos editoriales. Su argumento es que, cuanto más encoja la IA la industria editorial, más hay que proteger el libro, tesoro del intelecto humano y contenido de origen de la cultura K."
+                "x": "2.3 millones de visualizaciones en YouTube en un mes y medio desde su publicación. Es la historia de un video que adapta a imagen real con inteligencia artificial (AI) el webtoon 'Jemul Tupyo' de Naver Webtoon. Sin esperar anuncios oficiales de producción, fans y estudios de video reinterpretan con AI webtoons populares en formato de película o serie."
               },
               {
                 "t": "p",
-                "x": "La Asociación de Editores de Corea y la Sociedad de Editores de Corea celebraron el día 2, en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional en Yeouido, Seúl, un encuentro para impulsar un crédito fiscal para los contenidos editoriales. El acto, bajo el lema 'El poder del texto que abre el futuro en la era de la IA', fue copatrocinado por las oficinas de los diputados Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan y Kim Jae-won."
+                "x": "'Jemul Tupyo' se hizo solo con AI, sin decorados, CG ni actores. Según la productora, se completó en unas 358 horas, es decir, medio mes, desde la planificación hasta la generación y la edición. Otros webtoons de Naver Webtoon, como 'Geukya' y 'Yongsaga Dorawatda', también se han adaptado a imagen real con AI."
+              },
+              {
+                "t": "img",
+                "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+                "cap": "Video de adaptación real con AI basado en 'Namgeuk' de Naver Webtoon. Captura del canal de YouTube de Fantasoner"
               },
               {
                 "t": "p",
-                "x": "El sector editorial insistió en que la introducción de un crédito fiscal para las publicaciones no puede aplazarse más. Ahora que el ecosistema editorial se ve amenazado por la avalancha de la llamada 'edición en un clic', sostiene, los costos de hacer libros, como edición, diseño, impresión y regalías, deben incluirse en el crédito fiscal para dar un respiro a las editoriales."
+                "x": "La mayoría de los videos solo adapta a imagen real el inicio y dirige a los espectadores al webtoon original. Pero el cariño de los fans o un gran número de vistas no equivalen al permiso del autor original. Un fin no lucrativo o la sola mención de la fuente no permiten omitir el trámite de autorización de derechos de autor, y pueden surgir problemas de derechos de autor y del derecho a crear obras derivadas."
               },
               {
                 "t": "p",
-                "x": "Kim Bo-kyung, responsable del comité de políticas de la Sociedad de Editores de Corea, afirmó: \"Cuanto más abunden los textos creados por IA, más sube el valor de los 'textos maestros' escritos, editados y verificados por personas\", y añadió: \"Se necesita apoyo fiscal no solo cuando los libros se convierten en vídeo o webtoon, sino también cuando el manuscrito que los sustenta se convierte en libro\"."
-              },
-              {
-                "t": "p",
-                "x": "Yeom Jong-seon, director de Changbi, que asistió al encuentro como miembro del sector editorial, destacó los logros internacionales de autores coreanos, como el Premio Booker Internacional y el Premio Nobel de Literatura de Han Kang, además de Hwang Sok-yong, Kim Hyesoon y Bora Chung, y pidió: \"Introduzcan el crédito fiscal para contenidos editoriales para que continúen los logros de la literatura coreana\"."
-              },
-              {
-                "t": "p",
-                "x": "Durante la campaña de las 21.ª elecciones presidenciales, el Gobierno y el partido gobernante prometieron ampliar el apoyo fiscal al sector editorial, pero la reforma de la Ley de Restricción de Tratamientos Fiscales Especiales aprobada en el pleno de la Asamblea Nacional en diciembre del año pasado solo creó una cláusula de crédito fiscal para contenidos de webtoon. Las organizaciones editoriales protestan con fuerza: \"El Gobierno está dañando las raíces del contenido K\"."
+                "x": "Seo Beom-gang, presidente de la Asociación de la Industria de Convergencia IP, subrayó: \"Conviene permitir las actividades de fans no comerciales bajo ciertas condiciones y establecer un procedimiento de contrato aparte para la producción comercial\"."
               }
             ]
           }

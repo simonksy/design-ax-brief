@@ -14290,6 +14290,171 @@
           "x": "이미 손에 익은 도구를 잇는 일이 얼마나 중요한지 잘 안다는 설명이다. 이번 플러그인은 에이전트 워크플로를 빌드 파이프라인에 바로 들여온다."
         }
       ]
+    },
+    "games/ue6-blueprints-drop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games Japan은 2026년 11월 3일과 4일 도쿄 아리아케의 TFT 홀에서 Unreal Engine 공식 콘퍼런스 'Unreal Fest Tokyo 2026'을 열었다. 첫날 기조연설에 나선 Epic Games CEO Tim Sweeney는 기존 전환 방침을 뒤집고 차세대 엔진 'Unreal Engine 6'에서 블루프린트(BP)를 처음부터 빼겠다고 발표했다. 게임플레이는 Verse로만 작성한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+          "cap": "기조연설에 나선 Epic Games CEO Tim Sweeney"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney는 게임이 생태계로 성장하는 흐름을 업계의 큰 변화로 꼽았다. UE6에서는 게임플레이를 모두 스크립트 언어 'Verse'로 작성하고, 엔진 부분은 계속 C++로 개발한다. Verse는 C#처럼 쉽게 쓰면서도 C++만큼 강력하고, AI로 게임을 개발할 때는 기존 어떤 언어보다 다루기 쉽다는 설명이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games 내부에서는 AI 덕에 생산성이 1.5배에서 4배 올랐고 2026년 말까지 최소 4배, 2027년 중반에는 여러 영역에서 10배 개선을 내다본다. 개발자는 원하는 모델을 MCP 서버나 Python 스크립트 인터페이스로 Unreal Engine에 연결할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "6월 'Unreal Fest 2026'에서는 블루프린트를 UE6 초기 버전에 남겨 두고, Verse 중심 체계가 성숙하면 지원 중단 대상으로 돌리겠다고 했다. 그러나 AI는 블루프린트보다 텍스트 기반 코드를 다룰 때 훨씬 생산적이라는 점을 확인했고, 결국 2027년 말 나오는 UE6 개발 환경에서 블루프린트를 빼기로 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney는 이 결정이 환영받지 못하리라는 점을 인정하며 블루프린트 폐지를 사과했다. UE5에서 UE6로 옮길 때는 AI를 활용한 변환 수단을 제공한다. Epic Games는 '포트나이트'에서 이 방식을 시험하며 수천 개의 블루프린트와 남은 C++ 게임플레이 코드를 Verse로 옮기고 있다."
+        }
+      ]
+    },
+    "games/power-moon-recomp-odyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "닌텐도 스위치 '슈퍼 마리오 오디세이'를 에뮬레이터 없이 PC에서 그대로 실행하는 비공식 포트가 지난 2일 공개됐다. 개발자는 작업 과정에서 AI 코딩 에이전트 '클로드'의 도움을 크게 받았다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "포트 이름은 '파워 문 리컴프(Power Moon Recomp)'다. 개발자 '자라투스트라 데브(Zarathustra Dev)'는 2일 오전 9시(한국시간) 첫 버전 0.1.0을 올렸고, 3일 오후 3시께 0.1.6까지 30시간 남짓 동안 7차례 버전을 냈다. 방식은 정적 재컴파일(static recompilation)로, 스위치용 ARM64 실행 코드를 미리 C 언어로 옮긴 뒤 윈도우·리눅스·맥OS용 일반 프로그램으로 빌드한다."
+        },
+        {
+          "t": "p",
+          "x": "개발자는 저장소 안내문에 \"AI 코딩 에이전트(클로드)의 많은 도움을 받아 만들었고, 사람이 방향을 잡고 테스트했다\"고 적었다. 어떤 클로드 모델을 언제 썼는지는 밝히지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "내부 해상도는 1080p 기준 최대 4배까지 올릴 수 있어 4K 출력이 가능하고, 프레임은 60fps로 고정된다. 게임 파일은 들어 있지 않으며, 이용자가 자기 스위치에서 직접 추출한 1.0.0 버전의 실행 파일과 데이터를 넣어야 한다. 코드는 MIT 라이선스로 공개됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
+        },
+        {
+          "t": "p",
+          "x": "톰스하드웨어는 2일, 앤트로픽 직원 애디 오스마니가 클로드 코드 프롬프트에 '특정 게임 재현'을 막는 문장 두 줄을 넣었다고 확인했다고 보도했다. 파워 문 리컴프는 이용자가 가진 원본 코드를 PC용으로 변환하는 방식인데, 이 작업이 앤트로픽 규칙과 어떤 관계인지는 알려지지 않았다. 닌텐도는 3일 밤까지 공식 입장을 내지 않았다."
+        }
+      ]
+    },
+    "games/wow-forever-addon-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "World of Warcraft: Forever는 좋았던 그 시절의 Azeroth로 돌아가는 길이다. CurseForge에서 이달의 최고 애드온을 뒤지는 일만큼 '그 시절'다운 것도 없다. 그런데 요즘은 World of Warcraft: Forever용 AI 애드온이 일반 애드온만큼 흔하다."
+        },
+        {
+          "t": "p",
+          "x": "AI로 만들었거나 AI의 도움을 받았다고 해서 모두 AI slop은 아니다. 다만 제대로 된 테스트가 부족하기 쉽고 유지보수도 장담할 수 없다. 보안 위험이 있을 수 있고, Blizzard TOS를 어기지 않는다는 보장도 없다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+          "cap": "Questie"
+        },
+        {
+          "t": "p",
+          "x": "수작업으로 만든 대안으로는 완료한 퀘스트와 수행 가능한 퀘스트를 한눈에 보여 주도록 지도를 강화하는 Questie, 대화 선택지에 역동성을 조금 더해 주는 Dialogue UI가 있다. DialogKey – Numy Edition, What’s Training?, Enhance QoL도 목록에 올랐다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+          "cap": "Dialogue UI"
+        },
+        {
+          "t": "p",
+          "x": "CurseForge의 WoW: Forever 페이지에서 생성일 순으로 정렬하면 몇 번 새로고침할 때마다 새 프로젝트가 튀어나온다. 정직한 제작자 일부는 설명란에 AI를 썼다고 밝히지만 상당수는 그러지 않는다. u/blukraken은 \"내게 문제는 AI가 만들었다는 게 아니다. 이 사람과 다른 15명이 똑같은 애드온을 조금씩 다르게 만들었다는 것이다\"라고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "World of Warcraft: Forever는 2026년 11월 4일 출시된다."
+        }
+      ]
+    },
+    "games/yc-olam-minecraft-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Y Combinator와 Olam Labs는 10월 30일 다수 AI 에이전트의 행동을 다룬 연구 'Agents in Games'를 공개했다. AI 에이전트 50개를 '마인크래프트'에 풀어놓자 관료주의 같은 상태에 빠졌다는 내용이다."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "'Civ50'이라는 실험에서는 GPT-6.1 Sol 에이전트 50개를 '마인크래프트'에 투입하고 \"번영하는 문명을 세워라\"라는 대략적인 지시만 내렸다. 에이전트 명단 맨 앞에 있던 Ada가 사실상 리더가 됐고 위계도 명단 순서대로 짜였다."
+        },
+        {
+          "t": "p",
+          "x": "그런데 첫날 밤 좀비 등 몬스터가 습격해 첫날에만 22명이 죽었고, 이후 에이전트들은 점점 위험을 피하려 들었다. Ada는 \"밝고 닫힌 대피소 안에서 대기하라\"고 계획을 고쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "음식을 던져 건네다 다른 에이전트가 실수로 먹어 버린 '사건' 뒤에는 '비난 없는' 경위 조사가 3분간 진행됐고, 음식은 이름이 붙은 상자에 넣어 건넨다는 절차까지 문서로 남았다. 3시간가량 이어진 실험에서는 4명이 11분을 들여 '뼛가루 단 1개를 비료로 뿌리는 담당'을 임명하는 등 '관청식 집단'이 생겨났다고 한다."
+        },
+        {
+          "t": "p",
+          "x": "'Agents in Games'에서는 이 밖에도 GPT-6.1 Sol과 Claude Opus 5.5 에이전트 각 10개가 맞붙는 'Bed Wars' 등의 실험이 진행됐다."
+        }
+      ]
+    },
+    "games/war-thunder-dlss5-gaijin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
+        },
+        {
+          "t": "p",
+          "x": "11월 중순(mid-November) War Thunder 대규모 업데이트 Eagle's Shadow와 함께 3D-Guided Neural Rendering을 갖춘 NVIDIA DLSS 5가 들어간다. Gaijin Entertainment가 보기에 사실감은 플레이어가 알아보는 마킹과 재질, 전체 외형을 지킬 때만 의미가 있다. 팀은 DLSS 5를 Dagor Engine 색 파이프라인에 붙여 게임의 기준 룩에 맞게 조율했고, 공중·지상·해상 전투 전반에서 결과를 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "아트 디렉터 Kirill Stupin은 DLSS 5 덕분에 하이라이트와 그림자가 좋아지고 “이전에는 도저히 이루지 못했던 새로운 수준의 미세 대비”가 생긴다고 말한다. 통합에서 실제로 부딪힌 과제는 하나였다. DLSS 5는 sRGB에서 돌아가는데 Dagor Engine은 선형 HDR 파이프라인을 쓴다. 그는 “이를 해결하려고 색 관리 파이프라인을 역변환 가능하게 만들어야 했다”고 설명했다. 그렇게 DLSS 5용 “semi-final(준최종)” 이미지를 만든 뒤 그 변화를 다시 선형 HDR로 되돌렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+          "cap": "DLSS 5 ON"
+        },
+        {
+          "t": "p",
+          "x": "팀은 “마킹과 표면 마모, 재질 특성이 원래 에셋에 충실하도록” 설정을 거듭 다듬었다. 차이가 가장 뚜렷한 건 흐리고 비 오는 날씨다. DLSS 5가 부드러운 확산광과 젖은 표면, 섬세한 재질 디테일을 살려낸다. Stupin은 다른 개발자에게 자기 아트 디렉션에 맞춰 조율하는 데 시간을 들이라고 조언한다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+          "cap": "DLSS 5 ON"
+        }
+      ]
     }
   }
 }

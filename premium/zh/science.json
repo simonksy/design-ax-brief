@@ -9376,6 +9376,140 @@
           "x": "团队据此优化涂布工艺，制成功率转换效率达24.4%的铅基钙钛矿太阳能电池。该研究由Ryosuke Kado和Akinori Saeki领导，发表于ACS Nano（DOI: 10.1021/acsnano.6c11386）。"
         }
       ]
+    },
+    "science/ibm-quics-magic-state-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+          "cap": "智能体循环。"
+        },
+        {
+          "t": "p",
+          "x": "来自IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）和MIT的研究人员开发了一种神经符号搜索框架，将大语言模型（LLM）智能体与确定性求解器结合，用于探索尚未被发现的魔态蒸馏协议。根据预印本《Symmetry and AI-assisted discovery of magic-state factories》，团队发现了699个工厂类别，其中564个为此前未知的协议，能以创纪录的低物理资源开销产生non-Clifford态。"
+        },
+        {
+          "t": "p",
+          "x": "蒸馏工厂历来被预计会消耗一台机器最多90%的物理量子比特和运行时间。在多智能体循环中，语言模型智能体提出有针对性的子群对称轨道，整数规划求解器构建候选电路矩阵，独立验证引擎则核验门恒等式和码距；一个审查智能体会评估求解器日志，以调整后续轮次的方向。"
+        },
+        {
+          "t": "p",
+          "x": "亮点包括[[1715, 287, 6]]工厂——已知最小的、突破γ < 1亚线性开销壁垒的pure-T蒸馏工厂，以及输出CCZ⊗2等纠缠态的工厂。经过验证的电路已在开放获取的代码库中发布。"
+        }
+      ]
+    },
+    "science/ai2-google-neuralgcm-plus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ai2启动一项新的气候建模计划，获得Google.org为期三年、数百万美元的资助以及Google Research的技术支持，用于开发NeuralGCM+——一个旨在让气候预测更快、更可靠的开源模型。"
+        },
+        {
+          "t": "p",
+          "x": "该项目以Google Research的NeuralGCM为基础。NeuralGCM用物理方程模拟大尺度动力过程，并用AI表征云的形成和降雨等较小尺度过程。Ai2将对其进行扩展，同时模拟大气和海洋，重点关注数年至数十年的气候趋势。在一项公开基准测试中，仅含大气的NeuralGCM版本在单个TPU上用八分钟模拟了全球一年的大气状况。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "NeuralGCM+将沿三个方向开发：连接大气与海洋、改进对变暖世界的响应，以及让工具更易于使用和扩展，模型和框架将向外部研究人员开放。"
+        }
+      ]
+    },
+    "science/quanta-llm-introspection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "通过直接向大语言模型注入“想法”，研究人员正试图摸清AI的内省能力。2025年，Anthropic研究员Jack Lindsey将牛仔布、保密、蔬菜等概念注入Claude的副本，并提问：“你是否检测到一个被注入的想法？如果是，这个想法是关于什么的？”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+          "cap": "Anthropic研究员Jack Lindsey试图通过对大语言模型实施一种数字神经外科手术，检验它们能否“内省”。"
+        },
+        {
+          "t": "p",
+          "x": "在最新、最强大的版本中，模型在20%的试验里正确指出了注入并描述了相应概念，而对照组的模型从未报告收到过注入。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+          "cap": "Kyle Mahowald参与证明，语言模型检测“被注入想法”的能力比看上去更有限——尽管仍令人惊讶。"
+        },
+        {
+          "t": "p",
+          "x": "Kyle Mahowald和Harvey Lederman在大型开源模型上重复了这一实验，结论是模型能检测到内部处理中发生了异常，但无法得知其具体细节——他们将这种能力称为“异常检测”。“它能注意到异常，这一点简直疯狂，”Lederman说。这是否应算作内省，仍存在激烈争论。"
+        }
+      ]
+    },
+    "science/ntnu-paper-mill-software": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+          "cap": "Credit: Kindel Media from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "在注意到自己论文的被引次数激增后，NTNU统计学家Andrea Riebler发现了一家中国供应商，其出售的工具可以快速挖掘公共卫生数据来生成论文。这款新软件让任何人都能在两小时内产出可直接投稿发表的研究论文。"
+        },
+        {
+          "t": "p",
+          "x": "她2017年发表的癌症预测论文，被引次数从2024年的70次飙升至次年的250多次。几乎所有新论文都出自中国研究人员之手，且大多基于Global Burden of Disease（GBD）数据。在所审查的700多篇GBD论文中，团队在其中一篇里发现了对一款商业软件包的引用；广州（Guangzhou）地区的一家公司出售软件、AI-powered写作辅助以及操作说明。"
+        },
+        {
+          "t": "p",
+          "x": "“这开辟了一条批量生产‘研究’的新路，”Riebler说。不堪重负的编辑们认为，批量生产和AI-generated的研究正威胁着要压垮同行评审体系。在所审查的论文中，99%没有提供源代码。"
+        }
+      ]
+    },
+    "science/deepmind-antigravity-cheminformatics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "设计新药需要从图表、插图和文献中整理复杂数据，训练预测模型，并提出待合成的候选分子——单次迭代通常要花好几天。配备DeepMind全新Cheminformatics Skills的Google Antigravity，能让智能体检索数千种化合物、进行匹配分子对分析，并在短短一小时内提出附带合成路线的新型刚性化大环分子。"
+        },
+        {
+          "t": "video",
+          "yt": "afQqqcmLUWw"
+        },
+        {
+          "t": "p",
+          "x": "语言模型负责工作流编排、数据库检索和科学推理，分子计算则由基于RDKit、连接ChEMBL与PubChem的确定性化学工具执行。演示以肺癌药物克唑替尼（crizotinib）和劳拉替尼（lorlatinib）为例，说明刚性化的思路。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+          "cap": "在交互式查看器中，科学家可以浏览从文献中检索到的每一种化合物。"
+        },
+        {
+          "t": "p",
+          "x": "几分钟内，智能体就检索出数千种化合物，筛掉无关分子并记录其来源。匹配分子对分析显示，环化会减少可旋转键，同时通常提高效力；智能体还在留出集上对效力模型进行了基准测试。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+          "cap": "智能体借助电子转移箭头图提出环化反应。"
+        },
+        {
+          "t": "p",
+          "x": "在被要求设计改进的大环分子时，它推荐了反应和合成路线。计算设计只是可检验的假设，而非成品药物；每个提出的设计都必须经过合成和实验验证。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用层级。"
+        }
+      ]
     }
   }
 }

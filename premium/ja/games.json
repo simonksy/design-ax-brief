@@ -9624,6 +9624,171 @@
           "x": "すでに頼っているツールをつなぐことがいかに重要かは承知しており、これによってエージェント型ワークフローがビルドパイプラインに直接組み込まれる。"
         }
       ]
+    },
+    "games/ue6-blueprints-drop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games Japanは2026年11月3日と4日に、Unreal Engineの公式カンファレンス「Unreal Fest Tokyo 2026」を東京・有明のTFTホールで開催した。初日の基調講演に登壇したEpic GamesのCEO、Tim Sweeney氏は、これまでの移行方針を変更し、次世代エンジン「Unreal Engine 6」でブループリント（BP）を最初から廃止すると発表した。ゲームプレイの記述はVerseに一本化する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+          "cap": "基調講演に登壇したEpic Games CEOのTim Sweeney氏"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney氏は、ゲームがエコシステムへと成長していることを業界の大きな流れとして挙げた。UE6では、ゲームプレイをすべてスクリプト言語「Verse」で記述し、エンジン部分は引き続きC++で開発する。VerseはC#のように書きやすく、C++並みに強力で、AIを使ったゲーム開発ではこれまでのどの言語よりも扱いやすくなるという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic Gamesの社内ではAIによって1.5倍から4倍の生産性向上が見られ、2026年末までに少なくとも4倍、2027年半ばには多くの領域で10倍の改善を見込んでいる。開発者は好きなモデルをMCPサーバーやPythonのスクリプトインタフェース経由でUnreal Engineに接続できる。"
+        },
+        {
+          "t": "p",
+          "x": "6月の「Unreal Fest 2026」では、ブループリントはUE6の初期版に残し、Verseを中心とする仕組みが成熟した段階で非推奨にするとしていた。しかしAIにとってはブループリントよりもテキストベースのコードを扱うほうがはるかに生産的だと分かったため、2027年末にローンチするUE6の開発環境からブループリントを取り除くことを決めたという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney氏は、この決定が歓迎されないことを認め、ブループリントの廃止について謝罪した。UE5からUE6への移行には、AIを活用した変換手段を用意する。Epic Gamesは「フォートナイト」でこれを試しており、数千に及ぶブループリントと残ったC++のゲームプレイコードをVerseへ移しているところだ。"
+        }
+      ]
+    },
+    "games/power-moon-recomp-odyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ニンテンドースイッチ『スーパーマリオ オデッセイ』をエミュレーターなしでPC上でそのまま動かす非公式の移植版が、2日に公開された。開発者は、作業の過程でAIコーディングエージェント「Claude」に大きく助けられたと明かした。"
+        },
+        {
+          "t": "p",
+          "x": "移植版の名前は「Power Moon Recomp」だ。開発者「Zarathustra Dev」は2日午前9時（韓国時間）に最初のバージョン0.1.0を公開し、3日午後3時ごろの0.1.6まで、30時間あまりで7回バージョンを出した。手法は静的再コンパイル（static recompilation）で、スイッチ向けのARM64実行コードをあらかじめC言語に移し、Windows・Linux・macOS向けの通常のプログラムとしてビルドする。"
+        },
+        {
+          "t": "p",
+          "x": "開発者はリポジトリの説明文に「AIコーディングエージェント（Claude）の多大な助けを借りて作り、人間が方向を定めてテストした」と記した。どのClaudeモデルをいつ使ったかは明らかにしていない。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "内部解像度は1080pを基準に最大4倍まで引き上げられるため、4K 出力が可能で、フレームレートは60fpsに固定される。ゲームファイルは含まれておらず、利用者が自分のスイッチから自ら抽出したバージョン1.0.0の実行ファイルとデータを入れる必要がある。コードはMITライセンスで公開された。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardwareは2日、Anthropic社員のアディ・オスマニ氏がClaude Codeのプロンプトに「特定ゲームの再現」を防ぐ二行の文を加えたことを確認したと報じた。Power Moon Recompは利用者が持つオリジナルのコードをPC向けに変換する方式だが、この作業がAnthropicの規則とどう関係するかは分かっていない。任天堂は3日夜までに公式見解を出していない。"
+        }
+      ]
+    },
+    "games/wow-forever-addon-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "World of Warcraft: Foreverは古き良き時代のAzerothへの帰還であり、「古き良き時代」らしさといえば、CurseForgeで今月のおすすめadd-ons（アドオン）を探すことに尽きる。ただし今では、World of Warcraft: ForeverのAI製（AI-made）アドオンが通常のものと同じくらいありふれている。"
+        },
+        {
+          "t": "p",
+          "x": "もちろん、AIで（あるいはAIの助けを借りて）作られたアドオンがすべて自動的にAI slopというわけではない。だがリスクとして、十分なテストの欠如、保守の保証がないこと、潜在的なセキュリティリスク、そしてBlizzard TOSに違反しない保証がないことが挙げられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+          "cap": "Questie"
+        },
+        {
+          "t": "p",
+          "x": "手作りの代替としては、完了済みと受注可能なクエストの概要でマップを強化するQuestieや、会話の選択肢に少し動きを加えるDialogue UIがある。DialogKey – Numy Edition、What’s Training?、Enhance QoLがリストを締めくくる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+          "cap": "Dialogue UI"
+        },
+        {
+          "t": "p",
+          "x": "CurseForgeのWoW: Foreverページで作成日順に並べ替えれば、数回更新するたびに新しいプロジェクトが現れるのがわかる。誠実な制作者の中には説明欄にAIの使用を明記する者もいるが、多くはそうしていない。「私にとって問題はAIが作ったことではない。この人と他の15人が、まったく同じアドオンのわずかに異なるバリエーションを作っていることだ」とu/blukrakenは書いた。"
+        },
+        {
+          "t": "p",
+          "x": "World of Warcraft: Foreverは2026年11月4日（November 4, 2026）に配信開始となる。"
+        }
+      ]
+    },
+    "games/yc-olam-minecraft-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Y CombinatorおよびOlam Labsは10月30日、多数のAIエージェントの振る舞いについての研究「Agents in Games」を公開した。同研究では50体のAIエージェントを『マインクラフト』に投入したところ、官僚主義のような状態に陥ってしまったことが報告されている。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "「Civ50」と題された実験では、GPT-6.1 Solのエージェント50体を『マインクラフト』内に投入、「繁栄した文明を築け」という大雑把な指令だけを与えた。エージェント名簿の最初にあるAdaが事実上のリーダーになり、名簿の順番に基づいて階層構造が作られたという。"
+        },
+        {
+          "t": "p",
+          "x": "ところが最初の夜、ゾンビなどのモンスターの襲撃で初日だけで22名もの死者を出し、リスクを回避する傾向が強まっていった。Adaは「明るく閉鎖されたシェルター内で待機せよ」と計画を修正した。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "食料を投げて渡す際に別のエージェントが誤って食べてしまう「事件」の後には、“非難なしの”追及が3分間おこなわれ、食料は名前の付いた箱に入れて渡す手順が文書化された。実験は3時間ほど続けられたが、4人で11分かけて「たった1つの骨粉を肥料として撒く係」を任命するなど、“お役所仕事集団”ができあがったとのことだ。"
+        },
+        {
+          "t": "p",
+          "x": "「Agents in Games」ではほかにも、GPT-6.1 SolとClaude Opus 5.5のエージェント各10体が対戦する「Bed Wars」などの実験がおこなわれた。"
+        }
+      ]
+    },
+    "games/war-thunder-dlss5-gaijin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
+        },
+        {
+          "t": "p",
+          "x": "11月中旬（mid-November）、War Thunderの大型アップデートEagle's Shadowが配信され、3D-Guided Neural Renderingを備えたNVIDIA DLSS 5が加わる。Gaijin Entertainmentにとって、リアルさの向上はプレイヤーが見慣れたマーキングや材質、全体の見た目を損なわないことが前提だ。チームはDLSS 5をDagor Engineのカラーパイプラインに組み込み、ゲームの基準となるルックに合わせて調整したうえで、空・陸・海の戦闘全体で結果を評価した。"
+        },
+        {
+          "t": "p",
+          "x": "アートディレクターのKirill Stupinは、DLSS 5によってハイライトと影が改善され、「これまで実現できなかった新しいレベルのマイクロコントラスト」が得られると語る。統合で唯一の本格的な課題は、DLSS 5がsRGBで動作する一方、Dagor EngineはリニアHDRパイプラインを使う点だった。「これを解決するため、カラーマネジメントのパイプラインを可逆にする必要があった」という。DLSS 5向けに「semi-final（準最終）」画像を生成し、その変化をリニアHDRへ戻す仕組みである。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+          "cap": "DLSS 5 ON"
+        },
+        {
+          "t": "p",
+          "x": "チームは「マーキング、表面の摩耗、材質の特性が元のアセットに忠実であり続けるよう」設定を繰り返し詰めた。最も際立つ差は曇りや雨の条件で現れ、DLSS 5は柔らかな拡散光や濡れた路面、繊細な材質のディテールを引き出す。他の開発者へのStupinの助言は、自分たちのアートディレクションに合わせた調整に時間をかけることだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+          "cap": "DLSS 5 ON"
+        }
+      ]
     }
   }
 }

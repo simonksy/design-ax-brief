@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "music",
   "picks": [
     {
-      "title": "Suno Says Jason Isbell Lawsuit Over Artist 'Identities' Must Be Dismissed: 'Nothing Unlawful About That'",
-      "url": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/",
-      "source": "Billboard",
+      "title": "Start Songs with MIDI: Suno adds MIDI file uploads as a starting point in Create",
+      "url": "https://suno.com/blog/MIDI-in-create",
+      "source": "Suno",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New court filing: Suno's motion to dismiss argues prompting for an artist's style is lawful, a defense that decides whether style prompts stay legal for creators.",
-      "published_iso": "2026-11-03T22:25:48+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024",
-      "excerpt": "Suno filed a motion to dismiss Jason Isbell's class action alleging the AI music platform stole the artistic identities of Isbell and other artists, arguing there is 'nothing unlawful' about letting users prompt for an artist's style."
+      "rationale": "Primary-source feature release: producers can seed Suno generations with their own MIDI melody, chords or arrangement, a direct change to how they steer AI songwriting.",
+      "published_iso": "2026-11-04T16:45:00Z",
+      "og_image": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+      "excerpt": "Suno now lets users upload a MIDI file as the starting point for a generated song in Create, so producers can steer AI generation from their own melody, chords or arrangement."
     },
     {
-      "title": "Music industry intervenes in Open AI's big legal battle with newspapers and authors",
-      "url": "https://completemusicupdate.com/music-industry-intervenes-in-open-ais-big-legal-battle-with-newspapers-and-authors/",
-      "source": "CMU",
+      "title": "iZotope Photon is a local stem separation and denoising tool that runs off your GPU",
+      "url": "https://musictech.com/news/gear/izotope-photon/",
+      "source": "MusicTech",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New amicus filing by RIAA, NMPA, A2IM and others against fair-use AI training, the same question that decides the Suno, Udio and Anthropic music suits.",
-      "published_iso": "2026-11-03T17:31:31.000Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png",
-      "excerpt": "RIAA, NMPA, A2IM, SONA and ARA filed an amicus brief in the authors' and newspapers' case against OpenAI, setting out why AI training should never be fair use - the same question that decides the labels' suits against Suno, Udio and Anthropic."
+      "rationale": "New product launch: iZotope's 12-model stem separation and cleanup tool runs locally on the GPU as an app and ARA plugin, the single Photon card for today (music owns this story).",
+      "published_iso": "2026-11-03T16:45:13+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500-1068x801.jpg",
+      "excerpt": "iZotope has launched Photon, an AI-powered stem separation and audio cleanup tool powered by 12 custom-trained models that process audio locally on the computer's GPU rather than in the cloud."
     },
     {
-      "title": "Disney has fought AI firms over copyright. Now it's testing AI lyric videos.",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
-      "source": "Los Angeles Times",
+      "title": "More YouTube creators can now use AI to replace copyrighted songs",
+      "url": "https://www.neowin.net/news/more-youtube-creators-can-now-use-ai-to-replace-copyrighted-songs/",
+      "source": "Neowin",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "A major rightsholder starts using generative video on its own music catalog (OpenArt lyric videos, Hercules), a concrete new deployment rather than commentary.",
-      "published_iso": "2026-11-03T22:32:04Z",
-      "og_image": "https://ca-times.brightspotcdn.com/dims4/default/84f0170/2147483647/strip/true/crop/3900x2048+0+440/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg",
-      "excerpt": "Disney is working with AI startup OpenArt to conceptualize lyric videos, starting with 'Go the Distance' from Hercules - a test of generative video on its own music catalog."
+      "rationale": "Feature rollout: YouTube widens access to Replace Song, which swaps Content ID-claimed music for AI-generated royalty-free instrumentals, so more creators can now clear a claim without editing the track out.",
+      "published_iso": "2026-11-03T19:46:01+00:00",
+      "og_image": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp",
+      "excerpt": "YouTube is expanding access to its AI-powered Replace Song feature, which generates royalty-free AI instrumentals to swap in for Content ID-claimed music."
     },
     {
-      "title": "Slop Till You Drop: A Peek at the iTunes U.S. Top 10",
-      "url": "https://www.hitsdailydouble.com/news/streaming/itunes-top-10-ai-2026-11-02",
-      "source": "Hits Daily Double",
+      "title": "More AI Detector False Positives Emerge In Rapid Succession: Do Indie Musicians Have a Serious Problem Here?",
+      "url": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
+      "source": "Digital Music News",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Four seemingly AI-aided tracks in the Nov. 1 US iTunes Top 10, including the Suno-made No. 1; HITS maps where AI ends and human production begins.",
-      "published_iso": "2026-11-02T00:00:00-05:00",
-      "og_image": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg",
-      "excerpt": "The Nov. 1 iTunes U.S. Top 10 had four tracks seemingly made with AI aid, including the No. 1 'Tell Me, How Is Heaven' by May the Lord Studio; HITS listened through to map where AI ends and human music-making begins."
+      "rationale": "New cases of AI-music detectors flagging human recordings, including 1980s originals, as AI: a concrete risk of mislabelling and penalties for indie artists.",
+      "published_iso": "2026-11-04T14:22:31+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry.png",
+      "excerpt": "AI-music detectors are flagging electro-synth tracks as AI-generated - even original recordings made in the 1980s - raising the risk that indie artists get mislabelled or penalised by platforms."
     },
     {
-      "title": "Seoul Music Forum explores humanism in AI age, with one in four K-pop acts now virtual",
-      "url": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
-      "source": "Korea JoongAng Daily",
+      "title": "MLC Formally Opposes Udio's Streaming-Data Subpoena, Citing Two to Three Weeks of Staff Time",
+      "url": "https://www.digitalmusicnews.com/2026/11/03/udio-mlc-subpoena-opposition/",
+      "source": "Digital Music News",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Hard industry stat from the 2026 Seoul Music Forum: 10 of 45 new K-pop debuts this year are virtual acts, showing AI idols entering the mainstream pipeline.",
-      "published_iso": "2026-11-02T08:17:28.000Z",
-      "og_image": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The 2026 Seoul Music Forum examined AI's rise in music, citing that one in four new K-pop acts this year is virtual and debating what it means for labels and creators."
+      "rationale": "New court filing: the MLC formally opposes Udio's subpoena for streaming data. This is a separate filing in Udio's case, not the Suno-MLC dispute we ran on 10-25.",
+      "published_iso": "2026-11-04T06:00:38+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena.jpg",
+      "excerpt": "The Mechanical Licensing Collective is pushing back on AI music company Udio's subpoena for streaming data, saying compliance would take two to three weeks of staff time."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-indie-artists-proposed-class-action-against-suno-clearing-ai-output-and-stream-ripping-claims-for-discovery/",
-        "new_action": "Suno filed a motion to dismiss Jason Isbell's artist-identity class action (new court filing; the Isbell suit itself was never published)."
-      },
-      "https://completemusicupdate.com/music-industry-intervenes-in-open-ais-big-legal-battle-with-newspapers-and-authors/": {
+      "https://suno.com/blog/MIDI-in-create": {
         "verdict": "new",
-        "nearest": "https://completemusicupdate.com/claudes-lyrics-are-diluting-real-lyrics-say-music-publishers-in-latest-anthropic-proceedings/",
+        "nearest": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
         "new_action": ""
       },
-      "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules": {
+      "https://musictech.com/news/gear/izotope-photon/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.hitsdailydouble.com/news/streaming/itunes-top-10-ai-2026-11-02": {
+      "https://www.neowin.net/news/more-youtube-creators-can-now-use-ai-to-replace-copyrighted-songs/": {
         "verdict": "new",
-        "nearest": "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/",
+        "nearest": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
         "new_action": ""
       },
-      "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369": {
+      "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/": {
         "verdict": "new",
-        "nearest": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
+        "nearest": "https://arxiv.org/abs/2610.20310",
         "new_action": ""
+      },
+      "https://www.digitalmusicnews.com/2026/11/03/udio-mlc-subpoena-opposition/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/",
+        "new_action": "The MLC filed a formal opposition to Udio's streaming-data subpoena (a separate filing from the Suno-MLC dispute published 10-25)."
       }
     },
-    "note": "Dropped as duplicates/repeats: Tamber 2.0 review (past coverage, per orchestrator); Music Ally virtual-idols (cluster c4, same story as JoongAng Daily pick); Showbiz411 iTunes No. 1 (cluster c8, same story as HITS pick); DMN Spotify anti-spam crackdown (running story, analysis on the 10-06 DMN editorial-playlist slip and 10-21 Verge 50M-tracks removal, no new action); news1, ajunews, yna Korean AI chart-topper pieces (same running Korean AI chart-hit story as 10-05 isplus and 10-18 Music Ally, analysis only); apple-economy filtering-tech piece (rehash of Spotify/platform filtering coverage). Deliberately skipped: iZotope Photon (MusicTech/MusicRadar) to leave it to movies today, per orchestrator. Lower-ranked fresh items not picked: Acaply (startup pitch), Kyeongin shop-BGM trend, PCDJ DEX 4.1 (press release, off-list), two arXiv papers. Cross-section check: candidate URLs not found in the music or politics blocks of published_urls.json read this run; the Isbell lawsuit and the OpenAI amicus filing do not appear in politics."
+    "note": "Photon cluster c1: kept MusicTech, dropped the MusicRadar and gearnews versions (same launch; at most one Photon card per the cross-section rule). Dropped the Music Ally AI roundup because its lead item, the Alphabet/Lyria shareholder suit, already ran on 11-03 and the rest is a roundup. Dropped GEMA on AI: an interview/commentary following the Suno ruling, with no new decision. Dropped 'Is Spotify's Anti-Spam Crackdown Catching Legitimate Music': analysis of the running Spotify slop-crackdown story already covered 10-06 (editorial playlist slip) and 10-21 (50M tracks pulled), with no new platform action. Not picked for score/diversity: Tamber 2.0 review (a review, not a release), Acaply (startup pitch where AI is context rather than the product), and two arXiv papers (no og_image, lower actionability). Cross-section check: candidate URLs had already been URL-deduped against the ledger. published_urls.json was too large to scan fully without grep, so a product-name grep across all sections (Suno MIDI, Replace Song, Photon) is still recommended before roll."
   }
 }

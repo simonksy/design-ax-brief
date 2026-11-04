@@ -1,215 +1,197 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "design",
   "cards": [
     {
-      "id": "autom8labs-aec-mcp-skills",
+      "id": "chatgpt-animated-gifs-images",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Autom8Labs가 낸\nAEC 설계용 AI 스킬",
-      "body": "Autom8Labs가 AI 에이전트가 쓸 MCP-based 스킬을 내놨다.",
-      "mini_headline": "Autom8Labs AEC 에이전트 스킬",
-      "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
-      "accent": "#7928ca",
-      "motif": "cube",
+      "headline": "ChatGPT, 이제\n움직이는 GIFs 만든다",
+      "body": "OpenAI ChatGPT 이미지 생성이 움직이는 GIFs를 만들고 더 빨라졌다.",
+      "mini_headline": "ChatGPT로 GIFs 제작",
+      "tool": "KeyShot",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "이제 ChatGPT에서 프롬프트를 쓰거나 AI 챗봇에 사진을 올려 GIFs를 만들 수 있다. OpenAI의 새 Images 2.6 모델과 함께 배포되는 이번 업데이트로 GIF 애니메이션 속도를 조절하고 프레임을 하나씩 편집해 다른 사람과 공유할 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "이전의 ChatGPT는 GIFs를 한 번에 직접 생성하지 못했다. 회사가 공개한 예시에서 ChatGPT는 “can you make a gif of a cat dancing?”(춤추는 고양이 gif를 만들어 줄래?)라는 프롬프트를 받아 GIF를 생성하고, 재생 속도를 바꾸거나 프레임 단위로 보는 옵션도 함께 제공한다."
+          },
+          {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "cap": "ChatGPT 안에서 바로 속도를 조절하고 프레임을 편집할 수 있다."
           },
           {
             "t": "p",
-            "x": "Revit, AutoCAD, 3ds Max 등에서 AI 에이전트의 작업을 이끈다. 작업을 하고 결과를 확인하는 데 필요한 ‘명확한 단계’를 짚어 준다."
+            "x": "OpenAI에 따르면 Images 2.6 업데이트는 GIF-making 지원과 함께 ChatGPT의 이미지 생성 속도도 끌어올린다. 회사 설명으로는 현재 사용자들이 ChatGPT와 API에서 매주 40억 장 넘는 이미지를 생성한다. 9월에 밝힌 주당 30억 장보다 늘었다."
           },
           {
             "t": "p",
-            "x": "Autom8Labs가 무료 MCP Skills 22개를 공개했다. Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D, Advance Steel용 자사 MCP Connectors와 함께 쓰는 스킬이다. 각 MCP 스킬은 AI 에이전트에 할 일만 던지지 않고, 숙련된 전문가가 밟는 단계를 그대로 따라가게 한다."
-          },
-          {
-            "t": "p",
-            "x": "“AI 에이전트가 설계 애플리케이션에 접근할 수 있다고 해서 그 안에서 일하는 최선의 방법을 저절로 아는 것은 아니다.” Autom8Labs의 James Gray는 이렇게 말했다. “MCP Connectors는 AI 에이전트에 도구를 준다. Skills는 방법을 준다.”"
-          },
-          {
-            "t": "p",
-            "x": "스킬은 대부분 Revit용으로 패밀리 생성, scan-to-BIM, 모델 상태 점검, 구조, MEP, 조정, 대지, 문서 관리를 다룬다. Grasshopper용 컴퓨테이셔널 디자인 스킬은 컴퓨테이셔널 디자이너처럼 파라메트릭 정의를 짜고, 3ds Max 스킬은 시각화 전문가처럼 Corona나 V-Ray를 설정한다."
-          },
-          {
-            "t": "p",
-            "x": "AEC 기업의 템플릿, 표준, 승인 검토 절차에 맞춘 맞춤형 스킬도 Autom8Labs가 만들어 테스트까지 해 준다."
+            "x": "Images 2.6은 웹, 데스크톱, 모바일 앱의 모든 ChatGPT 및 Codex 사용자에게 배포 중이다. OpenAI는 API용으로 더 빠르고 품질 높은 이미지 생성을 내세운 GPT-Image-2.6 Flare와 Sunburst도 출시한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Autom8Labs gives AI agents\nskills for AEC design tools",
-          "body": "Autom8Labs released MCP-based skills that guide AI agents through tasks in Revit, AutoCAD, 3ds Max and Grasshopper.",
-          "mini_headline": "Autom8Labs AEC agent skills",
+          "headline": "ChatGPT can now make\nanimated GIFs",
+          "body": "OpenAI's ChatGPT image generation can now output animated GIFs, and it is getting faster too.",
+          "mini_headline": "ChatGPT makes GIFs",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI’s new Images 2.6 model, allows you to adjust the GIF’s animation speed, edit individual frames, and share it with others."
+              },
+              {
+                "t": "p",
+                "x": "Before this change, ChatGPT couldn’t natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, “can you make a gif of a cat dancing?” while also providing you with the option to change the playback speed and view it frame by frame."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "You can adjust speed and edit frames directly in ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Guides AI agent through tasks in Revit, AutoCAD, 3ds Max and more, with “clear steps” for doing the work and checking the result."
+                "x": "Along with support for GIF-making, the Images 2.6 update also enables faster image generation in ChatGPT, OpenAI says. The company says users now generate over 4 billion images per week across ChatGPT and its API, a jump from the 3 billion per week it reported in September."
               },
               {
                 "t": "p",
-                "x": "Autom8Labs has released 22 free MCP Skills, which work alongside the company’s relevant MCP Connectors for Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D and Advance Steel. Rather than simply telling an AI agent what to do, each MCP skill guides it through the steps an experienced professional would follow."
-              },
-              {
-                "t": "p",
-                "x": "“Giving an AI agent access to a design application doesn’t automatically mean it knows the best way to work in it,” said James Gray, Autom8Labs. “The MCP Connectors give your AI agent the tools. Skills give it the method.”"
-              },
-              {
-                "t": "p",
-                "x": "The majority of skills focus on Revit and include family creation, scan-to-BIM, model health, structure, MEP, coordination, site, and document control. For Grasshopper, a computational design skill is designed to build parametric definitions the way a computational designer would, while 3ds Max skills sets up Corona or V-Ray the way a visualiser would."
-              },
-              {
-                "t": "p",
-                "x": "Autom8Labs can also build and test custom skills for AEC firms, based around their templates, standards and sign-off checks."
+                "x": "Images 2.6 is rolling out to all ChatGPT and Codex users across web, desktop, and mobile apps. OpenAI is also launching GPT-Image-2.6 Flare and Sunburst in its API for faster and higher-quality image generation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Autom8Labs가 낸\nAEC 설계용 AI 스킬",
-          "body": "Autom8Labs가 AI 에이전트가 쓸 MCP-based 스킬을 내놨다.",
-          "mini_headline": "Autom8Labs AEC 에이전트 스킬",
+          "headline": "ChatGPT, 이제\n움직이는 GIFs 만든다",
+          "body": "OpenAI ChatGPT 이미지 생성이 움직이는 GIFs를 만들고 더 빨라졌다.",
+          "mini_headline": "ChatGPT로 GIFs 제작",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "이제 ChatGPT에서 프롬프트를 쓰거나 AI 챗봇에 사진을 올려 GIFs를 만들 수 있다. OpenAI의 새 Images 2.6 모델과 함께 배포되는 이번 업데이트로 GIF 애니메이션 속도를 조절하고 프레임을 하나씩 편집해 다른 사람과 공유할 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "이전의 ChatGPT는 GIFs를 한 번에 직접 생성하지 못했다. 회사가 공개한 예시에서 ChatGPT는 “can you make a gif of a cat dancing?”(춤추는 고양이 gif를 만들어 줄래?)라는 프롬프트를 받아 GIF를 생성하고, 재생 속도를 바꾸거나 프레임 단위로 보는 옵션도 함께 제공한다."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT 안에서 바로 속도를 조절하고 프레임을 편집할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Revit, AutoCAD, 3ds Max 등에서 AI 에이전트의 작업을 이끈다. 작업을 하고 결과를 확인하는 데 필요한 ‘명확한 단계’를 짚어 준다."
+                "x": "OpenAI에 따르면 Images 2.6 업데이트는 GIF-making 지원과 함께 ChatGPT의 이미지 생성 속도도 끌어올린다. 회사 설명으로는 현재 사용자들이 ChatGPT와 API에서 매주 40억 장 넘는 이미지를 생성한다. 9월에 밝힌 주당 30억 장보다 늘었다."
               },
               {
                 "t": "p",
-                "x": "Autom8Labs가 무료 MCP Skills 22개를 공개했다. Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D, Advance Steel용 자사 MCP Connectors와 함께 쓰는 스킬이다. 각 MCP 스킬은 AI 에이전트에 할 일만 던지지 않고, 숙련된 전문가가 밟는 단계를 그대로 따라가게 한다."
-              },
-              {
-                "t": "p",
-                "x": "“AI 에이전트가 설계 애플리케이션에 접근할 수 있다고 해서 그 안에서 일하는 최선의 방법을 저절로 아는 것은 아니다.” Autom8Labs의 James Gray는 이렇게 말했다. “MCP Connectors는 AI 에이전트에 도구를 준다. Skills는 방법을 준다.”"
-              },
-              {
-                "t": "p",
-                "x": "스킬은 대부분 Revit용으로 패밀리 생성, scan-to-BIM, 모델 상태 점검, 구조, MEP, 조정, 대지, 문서 관리를 다룬다. Grasshopper용 컴퓨테이셔널 디자인 스킬은 컴퓨테이셔널 디자이너처럼 파라메트릭 정의를 짜고, 3ds Max 스킬은 시각화 전문가처럼 Corona나 V-Ray를 설정한다."
-              },
-              {
-                "t": "p",
-                "x": "AEC 기업의 템플릿, 표준, 승인 검토 절차에 맞춘 맞춤형 스킬도 Autom8Labs가 만들어 테스트까지 해 준다."
+                "x": "Images 2.6은 웹, 데스크톱, 모바일 앱의 모든 ChatGPT 및 Codex 사용자에게 배포 중이다. OpenAI는 API용으로 더 빠르고 품질 높은 이미지 생성을 내세운 GPT-Image-2.6 Flare와 Sunburst도 출시한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Autom8Labs、\nAEC設計向けAIスキル",
-          "body": "Autom8LabsがAIエージェント向けのMCP-basedスキルを公開した。",
-          "mini_headline": "Autom8LabsのAECエージェントスキル",
+          "headline": "ChatGPTが\n動くGIFsを作れるように",
+          "body": "OpenAIのChatGPT画像生成が動くGIFsの出力に対応し、速度も向上した。",
+          "mini_headline": "ChatGPTがGIFs作成",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ChatGPTは、プロンプトやAIチャットボットにアップロードした写真からGIFsを作成できるようになった。OpenAIの新しいImages 2.6モデルとともに展開されるこのアップデートでは、GIFのアニメーション速度の調整、個々のフレームの編集、他の人との共有が可能だ。"
+              },
+              {
+                "t": "p",
+                "x": "これまでChatGPTは、GIFsを一度にネイティブ生成することはできなかった。同社が公開した例では、ChatGPTが“can you make a gif of a cat dancing?”（猫が踊るgifを作れる？）というプロンプトに応じてGIFを生成し、再生速度の変更やフレームごとの表示も選べる様子が示されている。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT上で速度を調整し、フレームを直接編集できる。"
               },
               {
                 "t": "p",
-                "x": "Revit、AutoCAD、3ds MaxなどでAIエージェントの作業を導き、作業の進め方と結果の確認に「明確な手順」を示す。"
+                "x": "OpenAIによると、Images 2.6アップデートはGIF-makingへの対応に加え、ChatGPTでの画像生成も高速化する。同社によれば、ユーザーがChatGPTとAPIで生成する画像は現在週40億枚を超え、9月に発表した週30億枚から増えた。"
               },
               {
                 "t": "p",
-                "x": "Autom8Labsは無料のMCP Skillsを22種公開した。Revit、AutoCAD、Navisworks、Grasshopper、MicroStation、3ds Max、Rhino、Civil 3D、Advance Steel向けの同社MCP Connectorsと組み合わせて動作する。各MCPスキルはAIエージェントに単に指示を出すのではなく、経験豊富な専門家がたどる手順に沿って導く。"
-              },
-              {
-                "t": "p",
-                "x": "「AIエージェントに設計アプリケーションへのアクセスを与えても、その中での最善の作業方法を自然に理解するわけではない」とAutom8LabsのJames Grayは述べた。「MCP ConnectorsはAIエージェントに道具を与える。Skillsは方法を与える」"
-              },
-              {
-                "t": "p",
-                "x": "スキルの大半はRevitを対象とし、ファミリー作成、scan-to-BIM、モデルの健全性、構造、MEP、調整、敷地、文書管理を含む。Grasshopper向けのコンピュテーショナルデザインスキルは、コンピュテーショナルデザイナーと同じやり方でパラメトリック定義を組み立て、3ds Maxのスキルはビジュアライザーと同じやり方でCoronaやV-Rayを設定する。"
-              },
-              {
-                "t": "p",
-                "x": "Autom8LabsはAEC企業向けに、各社のテンプレート、標準、承認チェックに合わせたカスタムスキルの構築とテストも請け負う。"
+                "x": "Images 2.6は、Web、デスクトップ、モバイルアプリのすべてのChatGPTおよびCodexユーザーに順次提供されている。OpenAIはまた、より高速で高品質な画像生成のため、APIでGPT-Image-2.6 FlareとSunburstを提供開始する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Autom8Labs为AI\n提供AEC设计技能",
-          "body": "Autom8Labs发布MCP-based技能，引导AI智能体完成Revit等任务。",
-          "mini_headline": "Autom8Labs AEC智能体技能",
+          "headline": "ChatGPT现在能\n制作动态GIFs",
+          "body": "OpenAI的ChatGPT图像生成现可输出动态GIFs，速度也更快了。",
+          "mini_headline": "ChatGPT制作GIFs",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ChatGPT现在可以根据提示词或上传到这款AI聊天机器人的照片制作GIFs。此次更新与OpenAI新的Images 2.6模型一同推出，用户可调整GIF的动画速度、编辑单个帧，并与他人分享。"
+              },
+              {
+                "t": "p",
+                "x": "此前，ChatGPT无法一步原生生成GIFs。该公司分享的示例显示，ChatGPT可根据提示词“can you make a gif of a cat dancing?”（能做一个猫跳舞的gif吗？）生成GIF，同时提供更改播放速度和逐帧查看的选项。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "可以直接在ChatGPT中调整速度、编辑帧。"
               },
               {
                 "t": "p",
-                "x": "引导AI智能体在Revit、AutoCAD、3ds Max等软件中完成任务，并为执行工作和检查结果提供“清晰步骤”。"
+                "x": "OpenAI表示，除支持GIF-making外，Images 2.6更新还让ChatGPT中的图像生成更快。该公司称，用户目前每周在ChatGPT及其API中生成超过40亿张图像，高于其9月公布的每周30亿张。"
               },
               {
                 "t": "p",
-                "x": "Autom8Labs发布了22项免费MCP Skills，可与该公司面向Revit、AutoCAD、Navisworks、Grasshopper、MicroStation、3ds Max、Rhino、Civil 3D和Advance Steel的MCP Connectors配合使用。每项MCP技能不只是告诉AI智能体该做什么，而是引导它按照资深专业人员的步骤完成工作。"
-              },
-              {
-                "t": "p",
-                "x": "“让AI智能体能够访问一款设计应用，并不意味着它自然知道在其中工作的最佳方式。”Autom8Labs的James Gray表示，“MCP Connectors为AI智能体提供工具，Skills则为它提供方法。”"
-              },
-              {
-                "t": "p",
-                "x": "大部分技能面向Revit，涵盖族创建、scan-to-BIM、模型健康检查、结构、MEP、协调、场地和文档控制。在Grasshopper中，一项计算设计技能会像计算设计师那样构建参数化定义；3ds Max技能则会像可视化设计师那样设置Corona或V-Ray。"
-              },
-              {
-                "t": "p",
-                "x": "Autom8Labs还可以根据AEC企业的模板、标准和签核检查，为其构建并测试定制技能。"
+                "x": "Images 2.6正向网页版、桌面版和移动应用上的所有ChatGPT和Codex用户推出。OpenAI还在其API中推出GPT-Image-2.6 Flare和Sunburst，以实现更快、更高质量的图像生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autom8Labs da a agentes de IA\nhabilidades para diseño AEC",
-          "body": "Autom8Labs lanzó habilidades MCP-based que guían a agentes de IA en tareas de Revit, AutoCAD, 3ds Max y Grasshopper.",
-          "mini_headline": "Habilidades de agentes AEC de Autom8Labs",
+          "headline": "ChatGPT ya puede crear\nGIFs animados",
+          "body": "La generación de imágenes de ChatGPT de OpenAI ya puede producir GIFs animados y, además, es más rápida.",
+          "mini_headline": "ChatGPT crea GIFs",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ChatGPT ya puede crear GIFs a partir de una instrucción o de una foto subida al chatbot de AI. La actualización, que se despliega junto con el nuevo modelo Images 2.6 de OpenAI, permite ajustar la velocidad de animación del GIF, editar fotogramas individuales y compartirlo con otras personas."
+              },
+              {
+                "t": "p",
+                "x": "Antes de este cambio, ChatGPT no podía generar GIFs de forma nativa en un solo paso. Un ejemplo compartido por la empresa muestra cómo ChatGPT genera un GIF en respuesta a la instrucción “can you make a gif of a cat dancing?” (¿puedes hacer un gif de un gato bailando?) y ofrece además la opción de cambiar la velocidad de reproducción y verlo fotograma a fotograma."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Se puede ajustar la velocidad y editar fotogramas directamente en ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Guía a los agentes de IA en tareas de Revit, AutoCAD, 3ds Max y otros programas, con “pasos claros” para hacer el trabajo y comprobar el resultado."
+                "x": "Además del soporte para GIF-making, la actualización Images 2.6 también acelera la generación de imágenes en ChatGPT, según OpenAI. La empresa afirma que los usuarios generan ahora más de 4 mil millones de imágenes por semana entre ChatGPT y su API, frente a los 3 mil millones semanales que reportó en septiembre."
               },
               {
                 "t": "p",
-                "x": "Autom8Labs ha lanzado 22 MCP Skills gratuitas, que funcionan junto con los MCP Connectors de la empresa para Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D y Advance Steel. En lugar de limitarse a decirle a un agente de IA qué hacer, cada habilidad MCP lo guía por los pasos que seguiría un profesional con experiencia."
-              },
-              {
-                "t": "p",
-                "x": "“Dar a un agente de IA acceso a una aplicación de diseño no significa automáticamente que sepa cuál es la mejor manera de trabajar en ella”, dijo James Gray, de Autom8Labs. “Los MCP Connectors le dan las herramientas a tu agente de IA. Las Skills le dan el método”."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de las habilidades se centran en Revit e incluyen creación de familias, scan-to-BIM, salud del modelo, estructura, MEP, coordinación, emplazamiento y control de documentos. Para Grasshopper, una habilidad de diseño computacional construye definiciones paramétricas como lo haría un diseñador computacional, mientras que las habilidades de 3ds Max configuran Corona o V-Ray como lo haría un visualizador."
-              },
-              {
-                "t": "p",
-                "x": "Autom8Labs también puede crear y probar habilidades personalizadas para empresas AEC, basadas en sus plantillas, estándares y controles de aprobación."
+                "x": "Images 2.6 se está desplegando para todos los usuarios de ChatGPT y Codex en la web, el escritorio y las aplicaciones móviles. OpenAI también lanza GPT-Image-2.6 Flare y Sunburst en su API para una generación de imágenes más rápida y de mayor calidad."
               }
             ]
           }
@@ -217,137 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Autom8Labs가 낸\nAEC 설계용 AI 스킬",
-          "body": "Autom8Labs가 AI 에이전트용 MCP-based 스킬을 냈다.",
-          "mini_headline": "Autom8Labs AEC 에이전트 스킬",
+          "headline": "ChatGPT, 이제\n움직이는 GIFs 만든다",
+          "body": "OpenAI ChatGPT 이미지 생성이 움직이는 GIFs를 만들고 더 빨라졌다.",
+          "mini_headline": "ChatGPT로 GIFs 제작",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "이제 ChatGPT에서 프롬프트나 AI 챗봇에 올린 사진으로 GIFs를 만들 수 있다. OpenAI의 새 Images 2.6 모델과 함께 배포되는 이번 업데이트로 GIF 애니메이션 속도를 조절하고, 프레임을 하나씩 편집하고, 다른 사람과 공유할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이전에는 ChatGPT가 GIFs를 한 번에 자체 생성하지 못했다. 회사가 공개한 예시를 보면 ChatGPT는 “can you make a gif of a cat dancing?”(춤추는 고양이 gif를 만들어 줄래?)라는 프롬프트에 GIF를 생성하고, 재생 속도를 바꾸거나 프레임 단위로 볼 수 있는 옵션도 함께 제공한다."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT 안에서 바로 속도를 조절하고 프레임을 편집할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Revit, AutoCAD, 3ds Max 등에서 AI 에이전트의 작업을 이끌고, 작업 수행과 결과 확인에 필요한 ‘명확한 단계’를 제시한다."
+                "x": "OpenAI에 따르면 Images 2.6 업데이트는 GIF-making 지원과 함께 ChatGPT의 이미지 생성 속도도 높인다. 회사는 현재 사용자들이 ChatGPT와 API에서 매주 40억 장이 넘는 이미지를 생성하며, 9월에 밝힌 주당 30억 장에서 늘었다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Autom8Labs가 무료 MCP Skills 22개를 공개했다. 이 스킬은 Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D, Advance Steel용 자사 MCP Connectors와 함께 작동한다. 각 MCP 스킬은 AI 에이전트에게 할 일을 지시하는 데 그치지 않고, 숙련된 전문가가 밟는 단계를 따라가도록 이끈다."
-              },
-              {
-                "t": "p",
-                "x": "“AI 에이전트가 설계 애플리케이션에 접근할 수 있다고 해서 그 안에서 일하는 최선의 방법을 저절로 아는 것은 아니다.” Autom8Labs의 James Gray는 이렇게 말했다. “MCP Connectors는 AI 에이전트에 도구를 준다. Skills는 방법을 준다.”"
-              },
-              {
-                "t": "p",
-                "x": "스킬 대부분은 Revit에 집중되며 패밀리 생성, scan-to-BIM, 모델 상태 점검, 구조, MEP, 조정, 대지, 문서 관리를 다룬다. Grasshopper용 컴퓨테이셔널 디자인 스킬은 컴퓨테이셔널 디자이너가 하듯 파라메트릭 정의를 구성하고, 3ds Max 스킬은 시각화 전문가가 하듯 Corona나 V-Ray를 설정한다."
-              },
-              {
-                "t": "p",
-                "x": "Autom8Labs는 AEC 기업의 템플릿, 표준, 승인 검토 절차에 맞춘 맞춤형 스킬을 만들고 테스트해 주기도 한다."
+                "x": "Images 2.6은 웹, 데스크톱, 모바일 앱의 모든 ChatGPT 및 Codex 사용자에게 배포되고 있다. OpenAI는 더 빠르고 품질 높은 이미지 생성을 위해 API에 GPT-Image-2.6 Flare와 Sunburst도 출시한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Autom8Labs、\nAEC設計向けAIスキル",
-          "body": "Autom8LabsがAIエージェント向けのMCP-basedスキルを公開した。",
-          "mini_headline": "Autom8LabsのAECエージェントスキル",
+          "headline": "ChatGPTが\n動くGIFsを作れるように",
+          "body": "OpenAIのChatGPT画像生成が動くGIFsの出力に対応し、速度も向上した。",
+          "mini_headline": "ChatGPTがGIFs作成",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ChatGPTは、プロンプトやAIチャットボットにアップロードした写真からGIFsを作成できるようになった。OpenAIの新しいImages 2.6モデルとともに展開されるこのアップデートでは、GIFのアニメーション速度の調整、個々のフレームの編集、他の人との共有が可能だ。"
+              },
+              {
+                "t": "p",
+                "x": "これまでChatGPTは、GIFsを一度にネイティブ生成することはできなかった。同社が公開した例では、ChatGPTが“can you make a gif of a cat dancing?”（猫が踊るgifを作れる？）というプロンプトに応じてGIFを生成し、再生速度の変更やフレームごとの表示も選べる様子が示されている。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "ChatGPT上で速度を調整し、フレームを直接編集できる。"
               },
               {
                 "t": "p",
-                "x": "Revit、AutoCAD、3ds MaxなどでAIエージェントの作業を導き、作業の進め方と結果の確認に「明確な手順」を示す。"
+                "x": "OpenAIによると、Images 2.6アップデートはGIF-makingへの対応に加え、ChatGPTでの画像生成も高速化する。同社によれば、ユーザーがChatGPTとAPIで生成する画像は現在週40億枚を超え、9月に発表した週30億枚から増えた。"
               },
               {
                 "t": "p",
-                "x": "Autom8Labsは無料のMCP Skillsを22種公開した。Revit、AutoCAD、Navisworks、Grasshopper、MicroStation、3ds Max、Rhino、Civil 3D、Advance Steel向けの同社MCP Connectorsと組み合わせて動作する。各MCPスキルはAIエージェントに単に指示を出すのではなく、経験豊富な専門家がたどる手順に沿って導く。"
-              },
-              {
-                "t": "p",
-                "x": "「AIエージェントに設計アプリケーションへのアクセスを与えても、その中での最善の作業方法を自然に理解するわけではない」とAutom8LabsのJames Grayは述べた。「MCP ConnectorsはAIエージェントに道具を与える。Skillsは方法を与える」"
-              },
-              {
-                "t": "p",
-                "x": "スキルの大半はRevitを対象とし、ファミリー作成、scan-to-BIM、モデルの健全性、構造、MEP、調整、敷地、文書管理を含む。Grasshopper向けのコンピュテーショナルデザインスキルは、コンピュテーショナルデザイナーと同じやり方でパラメトリック定義を組み立て、3ds Maxのスキルはビジュアライザーと同じやり方でCoronaやV-Rayを設定する。"
-              },
-              {
-                "t": "p",
-                "x": "Autom8LabsはAEC企業向けに、各社のテンプレート、標準、承認チェックに合わせたカスタムスキルの構築とテストも請け負う。"
+                "x": "Images 2.6は、Web、デスクトップ、モバイルアプリのすべてのChatGPTおよびCodexユーザーに順次提供されている。OpenAIはまた、より高速で高品質な画像生成のため、APIでGPT-Image-2.6 FlareとSunburstを提供開始する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Autom8Labs为AI\n提供AEC设计技能",
-          "body": "Autom8Labs发布MCP-based技能，引导AI智能体完成Revit等任务。",
-          "mini_headline": "Autom8Labs AEC智能体技能",
+          "headline": "ChatGPT现在能\n制作动态GIFs",
+          "body": "OpenAI的ChatGPT图像生成现可输出动态GIFs，速度也更快了。",
+          "mini_headline": "ChatGPT制作GIFs",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ChatGPT现在可以根据提示词或上传到这款AI聊天机器人的照片制作GIFs。此次更新与OpenAI新的Images 2.6模型一同推出，用户可调整GIF的动画速度、编辑单个帧，并与他人分享。"
+              },
+              {
+                "t": "p",
+                "x": "此前，ChatGPT无法一步原生生成GIFs。该公司分享的示例显示，ChatGPT可根据提示词“can you make a gif of a cat dancing?”（能做一个猫跳舞的gif吗？）生成GIF，同时提供更改播放速度和逐帧查看的选项。"
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "可以直接在ChatGPT中调整速度、编辑帧。"
               },
               {
                 "t": "p",
-                "x": "引导AI智能体在Revit、AutoCAD、3ds Max等软件中完成任务，并为执行工作和检查结果提供“清晰步骤”。"
+                "x": "OpenAI表示，除支持GIF-making外，Images 2.6更新还让ChatGPT中的图像生成更快。该公司称，用户目前每周在ChatGPT及其API中生成超过40亿张图像，高于其9月公布的每周30亿张。"
               },
               {
                 "t": "p",
-                "x": "Autom8Labs发布了22项免费MCP Skills，可与该公司面向Revit、AutoCAD、Navisworks、Grasshopper、MicroStation、3ds Max、Rhino、Civil 3D和Advance Steel的MCP Connectors配合使用。每项MCP技能不只是告诉AI智能体该做什么，而是引导它按照资深专业人员的步骤完成工作。"
-              },
-              {
-                "t": "p",
-                "x": "“让AI智能体能够访问一款设计应用，并不意味着它自然知道在其中工作的最佳方式。”Autom8Labs的James Gray表示，“MCP Connectors为AI智能体提供工具，Skills则为它提供方法。”"
-              },
-              {
-                "t": "p",
-                "x": "大部分技能面向Revit，涵盖族创建、scan-to-BIM、模型健康检查、结构、MEP、协调、场地和文档控制。在Grasshopper中，一项计算设计技能会像计算设计师那样构建参数化定义；3ds Max技能则会像可视化设计师那样设置Corona或V-Ray。"
-              },
-              {
-                "t": "p",
-                "x": "Autom8Labs还可以根据AEC企业的模板、标准和签核检查，为其构建并测试定制技能。"
+                "x": "Images 2.6正向网页版、桌面版和移动应用上的所有ChatGPT和Codex用户推出。OpenAI还在其API中推出GPT-Image-2.6 Flare和Sunburst，以实现更快、更高质量的图像生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autom8Labs da a agentes de IA\nhabilidades para diseño AEC",
-          "body": "Autom8Labs lanzó habilidades MCP-based que guían a agentes de IA en tareas de Revit, AutoCAD, 3ds Max y Grasshopper.",
-          "mini_headline": "Habilidades de agentes AEC de Autom8Labs",
+          "headline": "ChatGPT ya puede crear\nGIFs animados",
+          "body": "La generación de imágenes de ChatGPT de OpenAI ya puede producir GIFs animados y, además, es más rápida.",
+          "mini_headline": "ChatGPT crea GIFs",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ChatGPT ya puede crear GIFs a partir de una instrucción o de una foto subida al chatbot de AI. La actualización, que se despliega junto con el nuevo modelo Images 2.6 de OpenAI, permite ajustar la velocidad de animación del GIF, editar fotogramas individuales y compartirlo con otras personas."
+              },
+              {
+                "t": "p",
+                "x": "Antes de este cambio, ChatGPT no podía generar GIFs de forma nativa en un solo paso. Un ejemplo compartido por la empresa muestra cómo ChatGPT genera un GIF en respuesta a la instrucción “can you make a gif of a cat dancing?” (¿puedes hacer un gif de un gato bailando?) y ofrece además la opción de cambiar la velocidad de reproducción y verlo fotograma a fotograma."
+              },
+              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Se puede ajustar la velocidad y editar fotogramas directamente en ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Guía a los agentes de IA en tareas de Revit, AutoCAD, 3ds Max y otros programas, con “pasos claros” para hacer el trabajo y comprobar el resultado."
+                "x": "Además del soporte para GIF-making, la actualización Images 2.6 también acelera la generación de imágenes en ChatGPT, según OpenAI. La empresa afirma que los usuarios generan ahora más de 4 mil millones de imágenes por semana entre ChatGPT y su API, frente a los 3 mil millones semanales que reportó en septiembre."
               },
               {
                 "t": "p",
-                "x": "Autom8Labs ha lanzado 22 MCP Skills gratuitas, que funcionan junto con los MCP Connectors de la empresa para Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D y Advance Steel. En lugar de limitarse a decirle a un agente de IA qué hacer, cada habilidad MCP lo guía por los pasos que seguiría un profesional con experiencia."
-              },
-              {
-                "t": "p",
-                "x": "“Dar a un agente de IA acceso a una aplicación de diseño no significa automáticamente que sepa cuál es la mejor manera de trabajar en ella”, dijo James Gray, de Autom8Labs. “Los MCP Connectors le dan las herramientas a tu agente de IA. Las Skills le dan el método”."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de las habilidades se centran en Revit e incluyen creación de familias, scan-to-BIM, salud del modelo, estructura, MEP, coordinación, emplazamiento y control de documentos. Para Grasshopper, una habilidad de diseño computacional construye definiciones paramétricas como lo haría un diseñador computacional, mientras que las habilidades de 3ds Max configuran Corona o V-Ray como lo haría un visualizador."
-              },
-              {
-                "t": "p",
-                "x": "Autom8Labs también puede crear y probar habilidades personalizadas para empresas AEC, basadas en sus plantillas, estándares y controles de aprobación."
+                "x": "Images 2.6 se está desplegando para todos los usuarios de ChatGPT y Codex en la web, el escritorio y las aplicaciones móviles. OpenAI también lanza GPT-Image-2.6 Flare y Sunburst en su API para una generación de imágenes más rápida y de mayor calidad."
               }
             ]
           }
@@ -355,15 +325,1121 @@
       }
     },
     {
-      "id": "figma-aem-eds-block-kit",
+      "id": "openai-astra-hardware-device",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma 프레임,\n명령 하나로 AEM 블록",
-      "body": "오픈소스 키트가 Figma 프레임을 JS·CSS가 든 AEM 블록으로 바꾼다.",
-      "mini_headline": "Figma 프레임을 AEM 블록으로",
+      "headline": "OpenAI GPT-6\nAstra가 기기를 설계",
+      "body": "OpenAI는 GPT-6 Astra가 Codex 기기와 PCB를 설계했다고 밝혔다.",
+      "mini_headline": "AI-designed 하드웨어",
+      "tool": "Text-to-CAD",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "오늘 우리는 OpenAI 모델이 엔지니어의 물리적 제품 설계, 시뮬레이션, 제작을 어떻게 돕고 있는지 그 진전을 공유한다. 이 기능은 기계·전기 공학부터 엔드투엔드 시스템 설계까지 아우른다."
+          },
+          {
+            "t": "p",
+            "x": "사람이 직접 손대지 않고 기기를 만들 수 있는지 확인하는 방식으로 멀티모달과 컴퓨터 사용 워크플로에서 Astra의 최고 수준 성능을 시험했다. GPT‑6로 기능 요구사항을 정하고, 사용자가 Codex와 대화할 때 쓸 기기의 외함, 인쇄 회로 기판(PCB), 소프트웨어 통합을 설계했다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+            "cap": "프로토타입 기기 외함"
+          },
+          {
+            "t": "p",
+            "x": "Astra는 기기 외형을 만들고 외함과 부품을 고정할 내부 구조를 설계했다. 전기 부품을 골라 PCB를 설계했고, 기기를 Codex에 연결하는 데 필요한 펌웨어와 소프트웨어 통합까지 생성했다."
+          },
+          {
+            "t": "p",
+            "x": "팀원 두 명이 Astra와 함께 일주일도 안 돼 이 테스트 기기를 설계했고, 위탁 제조업체는 한 달이 채 안 돼 소량 프로토타입을 만들었다. 다만 양산 준비 단계까지 가려면 여전히 여러 차례 검토와 반복이 필요했다."
+          },
+          {
+            "t": "p",
+            "x": "2월 이후 OpenAI 하드웨어 팀 전반의 모델 사용량은 토큰 기준 23배 늘었다. BenchCAD 2.0에서 더 새로운 내부 모델은 평균 0.875점, 최고 추론 설정의 GPT‑6 Astra는 0.594점을 기록했다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI는 Chip Ganassi Racing과 협업을 넓히고 Mazda와 새 연구 협업도 시작한다고 발표한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "OpenAI says GPT-6 Astra\ndesigned a hardware device",
+          "body": "OpenAI says GPT-6 Astra designed a Codex hardware device, enclosure and PCB included, with no direct human edits.",
+          "mini_headline": "AI-designed hardware",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Today, we’re sharing advances in how OpenAI models help engineers design, simulate, and build physical products. These capabilities span mechanical and electrical engineering and end-to-end system design."
+              },
+              {
+                "t": "p",
+                "x": "We tested Astra’s state-of-the-art performance in multimodal and computer use workflows by seeing if we can create a device without any direct human edits. We used GPT‑6 to define the functional requirements and design the enclosure, printed circuit board (PCB), and software integrations needed to create a device users can use to talk to Codex."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "Prototype device enclosure"
+              },
+              {
+                "t": "p",
+                "x": "Astra developed the look of the device, designed the enclosure and the internal structures that hold the components, selected the electrical components and designed the PCB, and generated the firmware and software integrations needed to connect the device to Codex."
+              },
+              {
+                "t": "p",
+                "x": "Two team members designed this test device with Astra in under a week. A contract manufacturer built a small batch of prototypes in under a month. Getting the device ready for manufacturing still required several rounds of review and iteration."
+              },
+              {
+                "t": "p",
+                "x": "Since February, model usage across OpenAI’s hardware teams, measured in tokens, has grown 23-fold. On BenchCAD 2.0, a newer internal model achieved an average score of 0.875, compared with 0.594 for GPT‑6 Astra at its highest reasoning setting."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI is expanding its collaboration with Chip Ganassi Racing and announcing a new research collaboration with Mazda."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "OpenAI GPT-6\nAstra가 기기를 설계",
+          "body": "OpenAI는 GPT-6 Astra가 Codex 기기와 PCB를 설계했다고 밝혔다.",
+          "mini_headline": "AI-designed 하드웨어",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "오늘 우리는 OpenAI 모델이 엔지니어의 물리적 제품 설계, 시뮬레이션, 제작을 어떻게 돕고 있는지 그 진전을 공유한다. 이 기능은 기계·전기 공학부터 엔드투엔드 시스템 설계까지 아우른다."
+              },
+              {
+                "t": "p",
+                "x": "사람이 직접 손대지 않고 기기를 만들 수 있는지 확인하는 방식으로 멀티모달과 컴퓨터 사용 워크플로에서 Astra의 최고 수준 성능을 시험했다. GPT‑6로 기능 요구사항을 정하고, 사용자가 Codex와 대화할 때 쓸 기기의 외함, 인쇄 회로 기판(PCB), 소프트웨어 통합을 설계했다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "프로토타입 기기 외함"
+              },
+              {
+                "t": "p",
+                "x": "Astra는 기기 외형을 만들고 외함과 부품을 고정할 내부 구조를 설계했다. 전기 부품을 골라 PCB를 설계했고, 기기를 Codex에 연결하는 데 필요한 펌웨어와 소프트웨어 통합까지 생성했다."
+              },
+              {
+                "t": "p",
+                "x": "팀원 두 명이 Astra와 함께 일주일도 안 돼 이 테스트 기기를 설계했고, 위탁 제조업체는 한 달이 채 안 돼 소량 프로토타입을 만들었다. 다만 양산 준비 단계까지 가려면 여전히 여러 차례 검토와 반복이 필요했다."
+              },
+              {
+                "t": "p",
+                "x": "2월 이후 OpenAI 하드웨어 팀 전반의 모델 사용량은 토큰 기준 23배 늘었다. BenchCAD 2.0에서 더 새로운 내부 모델은 평균 0.875점, 최고 추론 설정의 GPT‑6 Astra는 0.594점을 기록했다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 Chip Ganassi Racing과 협업을 넓히고 Mazda와 새 연구 협업도 시작한다고 발표한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "OpenAIのGPT-6\nAstraが機器を設計",
+          "body": "OpenAIによると、GPT-6 AstraがPCBを含むCodex機器を設計した。",
+          "mini_headline": "AI-designedのハードウェア",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "本日、OpenAIのモデルがエンジニアによる物理製品の設計、シミュレーション、製造をどう支援するか、その進展を紹介する。これらの機能は機械工学と電気工学、そしてエンドツーエンドのシステム設計にまたがる。"
+              },
+              {
+                "t": "p",
+                "x": "人が直接編集することなくデバイスを作れるかを確かめることで、マルチモーダルおよびコンピューター操作のワークフローにおけるAstraの最先端の性能を検証した。GPT‑6を使って機能要件を定義し、ユーザーがCodexと会話するためのデバイスに必要な筐体、プリント基板（PCB）、ソフトウェア統合を設計した。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "プロトタイプデバイスの筐体"
+              },
+              {
+                "t": "p",
+                "x": "Astraはデバイスの外観を開発し、筐体と部品を保持する内部構造を設計し、電子部品を選定してPCBを設計し、デバイスをCodexに接続するのに必要なファームウェアとソフトウェア統合を生成した。"
+              },
+              {
+                "t": "p",
+                "x": "チームメンバー二人がAstraとともに、一週間足らずでこのテストデバイスを設計した。受託製造業者が一か月足らずで少量のプロトタイプを製造した。それでも、量産に向けた準備には数回のレビューと改良の繰り返しが必要だった。"
+              },
+              {
+                "t": "p",
+                "x": "2月以降、OpenAIのハードウェアチーム全体でのモデル使用量はトークン換算で23倍に増えた。BenchCAD 2.0では、より新しい社内モデルが平均0.875のスコアを記録し、最高の推論設定のGPT‑6 Astraは0.594だった。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIはChip Ganassi Racingとの協業を拡大し、Mazdaとの新たな研究協業を発表する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "OpenAI称GPT-6\nAstra设计了硬件设备",
+          "body": "OpenAI称，GPT-6 Astra在无人工修改下设计了含PCB的Codex设备。",
+          "mini_headline": "AI-designed硬件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "今天，我们分享OpenAI模型在帮助工程师设计、仿真和制造实体产品方面的进展。这些能力涵盖机械与电气工程以及端到端系统设计。"
+              },
+              {
+                "t": "p",
+                "x": "我们通过检验能否在没有任何人工直接修改的情况下制造一台设备，测试了Astra在多模态和计算机使用工作流中的领先性能。我们使用GPT‑6定义功能需求，并设计了外壳、印刷电路板（PCB）以及软件集成，以打造一台用户可用来与Codex对话的设备。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "原型设备外壳"
+              },
+              {
+                "t": "p",
+                "x": "Astra设计了设备的外观，设计了外壳及固定元器件的内部结构，选定了电子元件并设计了PCB，还生成了将设备连接到Codex所需的固件和软件集成。"
+              },
+              {
+                "t": "p",
+                "x": "两名团队成员借助Astra在不到一周内设计出这台测试设备。一家代工厂在不到一个月内造出一小批原型。不过，要让设备达到量产就绪状态，仍需经过数轮审查和迭代。"
+              },
+              {
+                "t": "p",
+                "x": "自2月以来，以token计，OpenAI各硬件团队的模型使用量增长了23倍。在BenchCAD 2.0上，一款更新的内部模型平均得分为0.875，而处于最高推理设置的GPT‑6 Astra为0.594。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI正扩大与Chip Ganassi Racing的合作，并宣布与Mazda开展新的研究合作。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OpenAI dice que GPT-6 Astra\ndiseñó un dispositivo",
+          "body": "OpenAI dice que GPT-6 Astra diseñó un dispositivo para Codex, con carcasa y PCB, sin ediciones humanas directas.",
+          "mini_headline": "Hardware AI-designed",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hoy compartimos avances en cómo los modelos de OpenAI ayudan a los ingenieros a diseñar, simular y construir productos físicos. Estas capacidades abarcan la ingeniería mecánica y eléctrica, y el diseño de sistemas de principio a fin."
+              },
+              {
+                "t": "p",
+                "x": "Probamos el rendimiento de vanguardia de Astra en flujos de trabajo multimodales y de uso de computadora comprobando si podíamos crear un dispositivo sin ninguna edición humana directa. Usamos GPT‑6 para definir los requisitos funcionales y diseñar la carcasa, la placa de circuito impreso (PCB) y las integraciones de software necesarias para crear un dispositivo con el que los usuarios puedan hablar con Codex."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "Carcasa del prototipo del dispositivo"
+              },
+              {
+                "t": "p",
+                "x": "Astra desarrolló el aspecto del dispositivo, diseñó la carcasa y las estructuras internas que sujetan los componentes, seleccionó los componentes eléctricos y diseñó la PCB, y generó el firmware y las integraciones de software necesarias para conectar el dispositivo a Codex."
+              },
+              {
+                "t": "p",
+                "x": "Dos miembros del equipo diseñaron este dispositivo de prueba con Astra en menos de una semana. Un fabricante por contrato construyó un pequeño lote de prototipos en menos de un mes. Preparar el dispositivo para la fabricación aún requirió varias rondas de revisión e iteración."
+              },
+              {
+                "t": "p",
+                "x": "Desde febrero, el uso de modelos en los equipos de hardware de OpenAI, medido en tokens, se ha multiplicado por 23. En BenchCAD 2.0, un modelo interno más reciente obtuvo una puntuación media de 0.875, frente a 0.594 de GPT‑6 Astra en su ajuste de razonamiento más alto."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI amplía su colaboración con Chip Ganassi Racing y anuncia una nueva colaboración de investigación con Mazda."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "OpenAI GPT-6\nAstra가 기기를 설계",
+          "body": "OpenAI는 GPT-6 Astra가 Codex 기기와 PCB를 설계했다고 밝혔다.",
+          "mini_headline": "AI-designed 하드웨어",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "오늘 우리는 OpenAI 모델이 엔지니어의 물리적 제품 설계, 시뮬레이션, 제작을 어떻게 돕는지 그 진전을 공유한다. 이 기능은 기계·전기 공학과 엔드투엔드 시스템 설계 전반에 걸친다."
+              },
+              {
+                "t": "p",
+                "x": "우리는 사람이 직접 수정하지 않고도 기기를 만들 수 있는지 확인하는 방식으로, 멀티모달과 컴퓨터 사용 워크플로에서 Astra의 최고 수준 성능을 시험했다. GPT‑6로 기능 요구사항을 정의하고, 사용자가 Codex와 대화하는 데 쓸 기기에 필요한 외함, 인쇄 회로 기판(PCB), 소프트웨어 통합을 설계했다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "프로토타입 기기 외함"
+              },
+              {
+                "t": "p",
+                "x": "Astra는 기기의 외형을 만들고, 외함과 부품을 고정하는 내부 구조를 설계하고, 전기 부품을 골라 PCB를 설계했으며, 기기를 Codex에 연결하는 데 필요한 펌웨어와 소프트웨어 통합을 생성했다."
+              },
+              {
+                "t": "p",
+                "x": "팀원 두 명이 Astra와 함께 일주일이 안 되는 기간에 이 테스트 기기를 설계했다. 위탁 제조업체는 한 달이 안 되어 소량의 프로토타입을 만들었다. 다만 기기를 양산 준비 상태로 만드는 데는 여러 차례의 검토와 반복이 여전히 필요했다."
+              },
+              {
+                "t": "p",
+                "x": "2월 이후 OpenAI 하드웨어 팀 전반의 모델 사용량은 토큰 기준으로 23배 늘었다. BenchCAD 2.0에서 더 새로운 내부 모델은 평균 0.875점을 기록했고, 최고 추론 설정의 GPT‑6 Astra는 0.594점이었다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 Chip Ganassi Racing과의 협업을 확대하고, Mazda와의 새 연구 협업을 발표한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "OpenAIのGPT-6\nAstraが機器を設計",
+          "body": "OpenAIによると、GPT-6 AstraがPCBを含むCodex機器を設計した。",
+          "mini_headline": "AI-designedのハードウェア",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "本日、OpenAIのモデルがエンジニアによる物理製品の設計、シミュレーション、製造をどう支援するか、その進展を紹介する。これらの機能は機械工学と電気工学、そしてエンドツーエンドのシステム設計にまたがる。"
+              },
+              {
+                "t": "p",
+                "x": "人が直接編集することなくデバイスを作れるかを確かめることで、マルチモーダルおよびコンピューター操作のワークフローにおけるAstraの最先端の性能を検証した。GPT‑6を使って機能要件を定義し、ユーザーがCodexと会話するためのデバイスに必要な筐体、プリント基板（PCB）、ソフトウェア統合を設計した。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "プロトタイプデバイスの筐体"
+              },
+              {
+                "t": "p",
+                "x": "Astraはデバイスの外観を開発し、筐体と部品を保持する内部構造を設計し、電子部品を選定してPCBを設計し、デバイスをCodexに接続するのに必要なファームウェアとソフトウェア統合を生成した。"
+              },
+              {
+                "t": "p",
+                "x": "チームメンバー二人がAstraとともに、一週間足らずでこのテストデバイスを設計した。受託製造業者が一か月足らずで少量のプロトタイプを製造した。それでも、量産に向けた準備には数回のレビューと改良の繰り返しが必要だった。"
+              },
+              {
+                "t": "p",
+                "x": "2月以降、OpenAIのハードウェアチーム全体でのモデル使用量はトークン換算で23倍に増えた。BenchCAD 2.0では、より新しい社内モデルが平均0.875のスコアを記録し、最高の推論設定のGPT‑6 Astraは0.594だった。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIはChip Ganassi Racingとの協業を拡大し、Mazdaとの新たな研究協業を発表する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "OpenAI称GPT-6\nAstra设计了硬件设备",
+          "body": "OpenAI称，GPT-6 Astra在无人工修改下设计了含PCB的Codex设备。",
+          "mini_headline": "AI-designed硬件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "今天，我们分享OpenAI模型在帮助工程师设计、仿真和制造实体产品方面的进展。这些能力涵盖机械与电气工程以及端到端系统设计。"
+              },
+              {
+                "t": "p",
+                "x": "我们通过检验能否在没有任何人工直接修改的情况下制造一台设备，测试了Astra在多模态和计算机使用工作流中的领先性能。我们使用GPT‑6定义功能需求，并设计了外壳、印刷电路板（PCB）以及软件集成，以打造一台用户可用来与Codex对话的设备。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "原型设备外壳"
+              },
+              {
+                "t": "p",
+                "x": "Astra设计了设备的外观，设计了外壳及固定元器件的内部结构，选定了电子元件并设计了PCB，还生成了将设备连接到Codex所需的固件和软件集成。"
+              },
+              {
+                "t": "p",
+                "x": "两名团队成员借助Astra在不到一周内设计出这台测试设备。一家代工厂在不到一个月内造出一小批原型。不过，要让设备达到量产就绪状态，仍需经过数轮审查和迭代。"
+              },
+              {
+                "t": "p",
+                "x": "自2月以来，以token计，OpenAI各硬件团队的模型使用量增长了23倍。在BenchCAD 2.0上，一款更新的内部模型平均得分为0.875，而处于最高推理设置的GPT‑6 Astra为0.594。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI正扩大与Chip Ganassi Racing的合作，并宣布与Mazda开展新的研究合作。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OpenAI dice que GPT-6 Astra\ndiseñó un dispositivo",
+          "body": "OpenAI dice que GPT-6 Astra diseñó un dispositivo para Codex, con carcasa y PCB, sin ediciones humanas directas.",
+          "mini_headline": "Hardware AI-designed",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hoy compartimos avances en cómo los modelos de OpenAI ayudan a los ingenieros a diseñar, simular y construir productos físicos. Estas capacidades abarcan la ingeniería mecánica y eléctrica, y el diseño de sistemas de principio a fin."
+              },
+              {
+                "t": "p",
+                "x": "Probamos el rendimiento de vanguardia de Astra en flujos de trabajo multimodales y de uso de computadora comprobando si podíamos crear un dispositivo sin ninguna edición humana directa. Usamos GPT‑6 para definir los requisitos funcionales y diseñar la carcasa, la placa de circuito impreso (PCB) y las integraciones de software necesarias para crear un dispositivo con el que los usuarios puedan hablar con Codex."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+                "cap": "Carcasa del prototipo del dispositivo"
+              },
+              {
+                "t": "p",
+                "x": "Astra desarrolló el aspecto del dispositivo, diseñó la carcasa y las estructuras internas que sujetan los componentes, seleccionó los componentes eléctricos y diseñó la PCB, y generó el firmware y las integraciones de software necesarias para conectar el dispositivo a Codex."
+              },
+              {
+                "t": "p",
+                "x": "Dos miembros del equipo diseñaron este dispositivo de prueba con Astra en menos de una semana. Un fabricante por contrato construyó un pequeño lote de prototipos en menos de un mes. Preparar el dispositivo para la fabricación aún requirió varias rondas de revisión e iteración."
+              },
+              {
+                "t": "p",
+                "x": "Desde febrero, el uso de modelos en los equipos de hardware de OpenAI, medido en tokens, se ha multiplicado por 23. En BenchCAD 2.0, un modelo interno más reciente obtuvo una puntuación media de 0.875, frente a 0.594 de GPT‑6 Astra en su ajuste de razonamiento más alto."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI amplía su colaboración con Chip Ganassi Racing y anuncia una nueva colaboración de investigación con Mazda."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "tripo-agentic-canvas-3d",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Tripo AI 3D 노드\nAgentic Canvas",
+      "body": "Tripo AI가 노드 기반 3D 플랫폼 Agentic Canvas를 출시했다.",
+      "mini_headline": "Tripo의 노드 캔버스",
+      "tool": "KeyShot",
+      "source": "VoxelMatters",
+      "url": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Tripo AI가 시각적 노드 기반 캔버스에서 3D 워크플로를 짜고 실행하는 인공지능 에이전트 Tripo Agentic Canvas를 출시했다. 샌프란시스코에 본사를 둔 이 회사는 자사 3D 네이티브 파운데이션 모델을 중심에 두고 도구를 설계했다. 아이디어와 참고 이미지, 기존 에셋이 3D 생성부터 에셋 다듬기, 내보내기까지 하나로 이어진 시퀀스가 된다."
+          },
+          {
+            "t": "p",
+            "x": "캔버스의 노드는 각각 하나의 작업을 맡고, 링크가 한 노드의 출력을 다음 노드로 넘기며 워크플로가 이어진다. 사용자는 텍스처링, 리토폴로지, Smart UV, 물리 기반 렌더링(PBR) 처리, 세그멘테이션, 리깅을 노드로 추가해 프로젝트에 맞게 연결하면 된다."
+          },
+          {
+            "t": "p",
+            "x": "에이전트에게 워크플로 생성을 맡긴 뒤 결과를 살피고 개별 노드를 바꾸거나 시퀀스를 고칠 수도 있다. 완성한 워크플로는 저장·복제·재사용할 수 있고, 일괄 처리로 워크플로 하나를 여러 에셋에 적용한다."
+          },
+          {
+            "t": "p",
+            "x": "AI 3D Lab 노드를 쓰면 대화로 특정 에셋을 살피고 다듬거나 상위 노드에서 새 결과를 만들어 낼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Tripo는 게임 개발, 3D 프린팅, 제품 디자인과 이커머스, 영화, 애니메이션, 시각화를 주요 활용 분야로 꼽는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Tripo AI's Agentic Canvas\nbrings nodes to 3D",
+          "body": "Tripo AI launched Agentic Canvas, a visual node-based platform for creating 3D workflows.",
+          "mini_headline": "Tripo's node canvas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI has released Tripo Agentic Canvas, an artificial intelligence agent that builds and runs 3D workflows on a visual, node-based canvas. The San Francisco company designed the tool around its 3D native foundation models, turning ideas, reference images and existing assets into connected sequences that run from 3D generation through asset refinement to export."
+              },
+              {
+                "t": "p",
+                "x": "On the canvas, each node carries out a single operation, and links pass the output of one node into the next to form a workflow. Users can add texturing, retopology, Smart UV, physically based rendering (PBR) processing, segmentation and rigging as nodes and wire them together for a given project."
+              },
+              {
+                "t": "p",
+                "x": "Users can also ask the agent to generate a workflow, then examine the results, change individual nodes and revise the sequence. Finished workflows can be saved, duplicated and reused, and batch processing applies a single workflow to multiple assets."
+              },
+              {
+                "t": "p",
+                "x": "An AI 3D Lab node adds conversational tools for inspecting and refining specific assets or producing new results from upstream nodes."
+              },
+              {
+                "t": "p",
+                "x": "Tripo lists game development, 3D printing, product design and e-commerce, film, animation and visualization as target uses."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Tripo AI 3D 노드\nAgentic Canvas",
+          "body": "Tripo AI가 노드 기반 3D 플랫폼 Agentic Canvas를 출시했다.",
+          "mini_headline": "Tripo의 노드 캔버스",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI가 시각적 노드 기반 캔버스에서 3D 워크플로를 짜고 실행하는 인공지능 에이전트 Tripo Agentic Canvas를 출시했다. 샌프란시스코에 본사를 둔 이 회사는 자사 3D 네이티브 파운데이션 모델을 중심에 두고 도구를 설계했다. 아이디어와 참고 이미지, 기존 에셋이 3D 생성부터 에셋 다듬기, 내보내기까지 하나로 이어진 시퀀스가 된다."
+              },
+              {
+                "t": "p",
+                "x": "캔버스의 노드는 각각 하나의 작업을 맡고, 링크가 한 노드의 출력을 다음 노드로 넘기며 워크플로가 이어진다. 사용자는 텍스처링, 리토폴로지, Smart UV, 물리 기반 렌더링(PBR) 처리, 세그멘테이션, 리깅을 노드로 추가해 프로젝트에 맞게 연결하면 된다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트에게 워크플로 생성을 맡긴 뒤 결과를 살피고 개별 노드를 바꾸거나 시퀀스를 고칠 수도 있다. 완성한 워크플로는 저장·복제·재사용할 수 있고, 일괄 처리로 워크플로 하나를 여러 에셋에 적용한다."
+              },
+              {
+                "t": "p",
+                "x": "AI 3D Lab 노드를 쓰면 대화로 특정 에셋을 살피고 다듬거나 상위 노드에서 새 결과를 만들어 낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Tripo는 게임 개발, 3D 프린팅, 제품 디자인과 이커머스, 영화, 애니메이션, 시각화를 주요 활용 분야로 꼽는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tripo AIの3Dノード\nAgentic Canvas",
+          "body": "Tripo AIが、ノード型の3D制作環境Agentic Canvasを公開した。",
+          "mini_headline": "Tripoのノードキャンバス",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AIは、視覚的なノードベースのキャンバス上で3Dワークフローを構築・実行する人工知能エージェント「Tripo Agentic Canvas」をリリースした。サンフランシスコの同社は自社の3Dネイティブ基盤モデルを軸にこのツールを設計し、アイデアや参照画像、既存アセットを、3D生成からアセットの調整、エクスポートまでつながる一連のシーケンスに変える。"
+              },
+              {
+                "t": "p",
+                "x": "キャンバス上では各ノードが一つの処理を担い、リンクがあるノードの出力を次のノードに渡してワークフローを形づくる。ユーザーはテクスチャリング、リトポロジー、Smart UV、物理ベースレンダリング（PBR）処理、セグメンテーション、リギングをノードとして追加し、プロジェクトに合わせてつなぎ合わせられる。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントにワークフローの生成を依頼し、結果を確認したうえで個々のノードを変更し、シーケンスを修正することもできる。完成したワークフローは保存、複製、再利用でき、バッチ処理で一つのワークフローを複数のアセットに適用できる。"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D Labノードは、特定のアセットを確認・調整したり、上流ノードから新たな結果を生成したりするための対話型ツールを加える。"
+              },
+              {
+                "t": "p",
+                "x": "Tripoは、ゲーム開発、3Dプリンティング、製品デザインとeコマース、映画、アニメーション、ビジュアライゼーションを主な用途に挙げている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tripo AI的3D节点\nAgentic Canvas",
+          "body": "Tripo AI推出Agentic Canvas，一个用于创建3D工作流的可视化节点平台。",
+          "mini_headline": "Tripo节点画布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI发布了Tripo Agentic Canvas，这是一款在可视化节点画布上构建并运行3D工作流的人工智能智能体。这家总部位于旧金山的公司围绕自家3D原生基础模型设计了这款工具，可将创意、参考图像和现有资产转化为从3D生成、资产精修到导出的连贯流程。"
+              },
+              {
+                "t": "p",
+                "x": "在画布上，每个节点执行单一操作，连线将一个节点的输出传给下一个节点，从而构成工作流。用户可将纹理绘制、重拓扑、Smart UV、基于物理的渲染（PBR）处理、分割和绑定作为节点加入，并针对具体项目将它们连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "用户也可以让智能体生成工作流，再查看结果、修改单个节点并调整流程。完成的工作流可保存、复制和复用，批处理功能可将同一工作流应用于多个资产。"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D Lab节点新增了对话式工具，用于检查和精修特定资产，或基于上游节点生成新结果。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo列出的目标用途包括游戏开发、3D打印、产品设计与电商、影视、动画和可视化。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Agentic Canvas de Tripo AI\nlleva los nodos al 3D",
+          "body": "Tripo AI lanzó Agentic Canvas, una plataforma visual basada en nodos para crear flujos de trabajo en 3D.",
+          "mini_headline": "El lienzo de nodos de Tripo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI ha lanzado Tripo Agentic Canvas, un agente de inteligencia artificial que construye y ejecuta flujos de trabajo 3D en un lienzo visual basado en nodos. La empresa de San Francisco diseñó la herramienta en torno a sus modelos fundacionales nativos en 3D, y convierte ideas, imágenes de referencia y recursos existentes en secuencias conectadas que van desde la generación 3D y el refinamiento de recursos hasta la exportación."
+              },
+              {
+                "t": "p",
+                "x": "En el lienzo, cada nodo realiza una sola operación, y los enlaces pasan la salida de un nodo al siguiente para formar un flujo de trabajo. Los usuarios pueden añadir texturizado, retopología, Smart UV, procesamiento de renderizado basado en la física (PBR), segmentación y rigging como nodos, y conectarlos entre sí para un proyecto concreto."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios también pueden pedir al agente que genere un flujo de trabajo y luego examinar los resultados, cambiar nodos individuales y revisar la secuencia. Los flujos terminados se pueden guardar, duplicar y reutilizar, y el procesamiento por lotes aplica un mismo flujo a varios recursos."
+              },
+              {
+                "t": "p",
+                "x": "Un nodo AI 3D Lab añade herramientas conversacionales para inspeccionar y refinar recursos concretos o producir nuevos resultados a partir de nodos anteriores."
+              },
+              {
+                "t": "p",
+                "x": "Tripo señala como usos previstos el desarrollo de videojuegos, la impresión 3D, el diseño de productos y el comercio electrónico, el cine, la animación y la visualización."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Tripo AI 3D 노드\nAgentic Canvas",
+          "body": "Tripo AI가 노드 기반 3D 플랫폼 Agentic Canvas를 출시했다.",
+          "mini_headline": "Tripo의 노드 캔버스",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI가 시각적 노드 기반 캔버스에서 3D 워크플로를 구성하고 실행하는 인공지능 에이전트 Tripo Agentic Canvas를 출시했다. 샌프란시스코에 본사를 둔 이 회사는 자사 3D 네이티브 파운데이션 모델을 중심으로 도구를 설계해, 아이디어와 참고 이미지, 기존 에셋을 3D 생성부터 에셋 다듬기, 내보내기까지 이어지는 연결된 시퀀스로 바꾼다."
+              },
+              {
+                "t": "p",
+                "x": "캔버스에서 각 노드는 하나의 작업을 수행하고, 링크가 한 노드의 출력을 다음 노드로 넘겨 워크플로를 이룬다. 사용자는 텍스처링, 리토폴로지, Smart UV, 물리 기반 렌더링(PBR) 처리, 세그멘테이션, 리깅을 노드로 추가하고 프로젝트에 맞게 서로 연결할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "사용자는 에이전트에게 워크플로 생성을 요청한 뒤 결과를 살피고, 개별 노드를 바꾸고, 시퀀스를 고칠 수도 있다. 완성된 워크플로는 저장, 복제, 재사용할 수 있으며, 일괄 처리로 하나의 워크플로를 여러 에셋에 적용한다."
+              },
+              {
+                "t": "p",
+                "x": "AI 3D Lab 노드는 특정 에셋을 살피고 다듬거나 상위 노드에서 새 결과를 만들어 내는 대화형 도구를 더한다."
+              },
+              {
+                "t": "p",
+                "x": "Tripo는 게임 개발, 3D 프린팅, 제품 디자인과 이커머스, 영화, 애니메이션, 시각화를 주요 활용 분야로 꼽는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tripo AIの3Dノード\nAgentic Canvas",
+          "body": "Tripo AIが、ノード型の3D制作環境Agentic Canvasを公開した。",
+          "mini_headline": "Tripoのノードキャンバス",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AIは、視覚的なノードベースのキャンバス上で3Dワークフローを構築・実行する人工知能エージェント「Tripo Agentic Canvas」をリリースした。サンフランシスコの同社は自社の3Dネイティブ基盤モデルを軸にこのツールを設計し、アイデアや参照画像、既存アセットを、3D生成からアセットの調整、エクスポートまでつながる一連のシーケンスに変える。"
+              },
+              {
+                "t": "p",
+                "x": "キャンバス上では各ノードが一つの処理を担い、リンクがあるノードの出力を次のノードに渡してワークフローを形づくる。ユーザーはテクスチャリング、リトポロジー、Smart UV、物理ベースレンダリング（PBR）処理、セグメンテーション、リギングをノードとして追加し、プロジェクトに合わせてつなぎ合わせられる。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントにワークフローの生成を依頼し、結果を確認したうえで個々のノードを変更し、シーケンスを修正することもできる。完成したワークフローは保存、複製、再利用でき、バッチ処理で一つのワークフローを複数のアセットに適用できる。"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D Labノードは、特定のアセットを確認・調整したり、上流ノードから新たな結果を生成したりするための対話型ツールを加える。"
+              },
+              {
+                "t": "p",
+                "x": "Tripoは、ゲーム開発、3Dプリンティング、製品デザインとeコマース、映画、アニメーション、ビジュアライゼーションを主な用途に挙げている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tripo AI的3D节点\nAgentic Canvas",
+          "body": "Tripo AI推出Agentic Canvas，一个用于创建3D工作流的可视化节点平台。",
+          "mini_headline": "Tripo节点画布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI发布了Tripo Agentic Canvas，这是一款在可视化节点画布上构建并运行3D工作流的人工智能智能体。这家总部位于旧金山的公司围绕自家3D原生基础模型设计了这款工具，可将创意、参考图像和现有资产转化为从3D生成、资产精修到导出的连贯流程。"
+              },
+              {
+                "t": "p",
+                "x": "在画布上，每个节点执行单一操作，连线将一个节点的输出传给下一个节点，从而构成工作流。用户可将纹理绘制、重拓扑、Smart UV、基于物理的渲染（PBR）处理、分割和绑定作为节点加入，并针对具体项目将它们连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "用户也可以让智能体生成工作流，再查看结果、修改单个节点并调整流程。完成的工作流可保存、复制和复用，批处理功能可将同一工作流应用于多个资产。"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D Lab节点新增了对话式工具，用于检查和精修特定资产，或基于上游节点生成新结果。"
+              },
+              {
+                "t": "p",
+                "x": "Tripo列出的目标用途包括游戏开发、3D打印、产品设计与电商、影视、动画和可视化。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Agentic Canvas de Tripo AI\nlleva los nodos al 3D",
+          "body": "Tripo AI lanzó Agentic Canvas, una plataforma visual basada en nodos para crear flujos de trabajo en 3D.",
+          "mini_headline": "El lienzo de nodos de Tripo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tripo AI ha lanzado Tripo Agentic Canvas, un agente de inteligencia artificial que construye y ejecuta flujos de trabajo 3D en un lienzo visual basado en nodos. La empresa de San Francisco diseñó la herramienta en torno a sus modelos fundacionales nativos en 3D, y convierte ideas, imágenes de referencia y recursos existentes en secuencias conectadas que van desde la generación 3D y el refinamiento de recursos hasta la exportación."
+              },
+              {
+                "t": "p",
+                "x": "En el lienzo, cada nodo realiza una sola operación, y los enlaces pasan la salida de un nodo al siguiente para formar un flujo de trabajo. Los usuarios pueden añadir texturizado, retopología, Smart UV, procesamiento de renderizado basado en la física (PBR), segmentación y rigging como nodos, y conectarlos entre sí para un proyecto concreto."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios también pueden pedir al agente que genere un flujo de trabajo y luego examinar los resultados, cambiar nodos individuales y revisar la secuencia. Los flujos terminados se pueden guardar, duplicar y reutilizar, y el procesamiento por lotes aplica un mismo flujo a varios recursos."
+              },
+              {
+                "t": "p",
+                "x": "Un nodo AI 3D Lab añade herramientas conversacionales para inspeccionar y refinar recursos concretos o producir nuevos resultados a partir de nodos anteriores."
+              },
+              {
+                "t": "p",
+                "x": "Tripo señala como usos previstos el desarrollo de videojuegos, la impresión 3D, el diseño de productos y el comercio electrónico, el cine, la animación y la visualización."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ncircle-nvibe-aec-apps",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "nCircle Tech의\nnVibe AEC 앱 제작",
+      "body": "nCircle Tech nVibe는 AEC 전문가가 설명하면 AI가 앱을 만든다.",
+      "mini_headline": "nVibe, AEC 앱 제작",
+      "tool": "Text-to-CAD",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+          },
+          {
+            "t": "p",
+            "x": "nCircle Tech가 AI-powered 개발 플랫폼 nVibe를 출시했다. AEC 전문가가 코딩 실력 없이도 아이디어를 실제로 작동하는 애플리케이션으로 바꾸게 돕는 도구다."
+          },
+          {
+            "t": "p",
+            "x": "현장 관리자, 프로젝트 엔지니어, VDC 리드 같은 도메인 전문가가 일상 언어로 워크플로를 설명하면 nVibe가 애플리케이션을 만든다. 작업은 IT 팀이 보안, 권한, 배포를 통제하도록 설계된 샌드박스 환경 안에서 이뤄진다."
+          },
+          {
+            "t": "p",
+            "x": "nCircle Tech는 nVibe가 WBS 코드, CSI MasterFormat, RFIs, 제출물, LoD 100–500 같은 AEC 용어와 워크플로를 기본으로 이해한다는 점이 범용 AI 코딩 도구와 다르다고 설명한다."
+          },
+          {
+            "t": "p",
+            "x": "nVibe에는 Autodesk Forma, Autodesk Platform Services(APS), Autodesk AEC Data Model, SAP 및 기타 ERP 시스템, Model Context Protocol(MCP)용 기본 커넥터가 들어 있다. Navisworks, Procore, AutoCAD, Revit 연동도 곧 추가된다."
+          },
+          {
+            "t": "p",
+            "x": "nVibe for Revit은 일상 언어 지시를 팀의 Revit 리본에 뜨는 네이티브 Revit 플러그인으로 바꿔 준다. AI는 애플리케이션을 만들 때 한 번만 쓰이고, 이후 실행에는 토큰이 들지 않는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "nCircle Tech's nVibe turns\nworkflows into AEC apps",
+          "body": "With nCircle Tech's nVibe, AEC professionals describe a workflow and the AI platform builds the application.",
+          "mini_headline": "nVibe builds AEC apps",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech has launched nVibe, an AI-powered development platform designed specifically to help AEC professionals turn ideas into working applications without needing coding skills."
+              },
+              {
+                "t": "p",
+                "x": "Domain experts, including site managers, project engineers and VDC leads, can describe a workflow in plain language, and nVibe builds the application within a sandboxed environment designed to give IT teams control over security, permissions and deployment."
+              },
+              {
+                "t": "p",
+                "x": "According to nCircle Tech, nVibe differs from general-purpose AI coding tools through its built-in understanding of AEC terminology and workflows, such as WBS codes, CSI MasterFormat, RFIs, submittals and LoD 100–500."
+              },
+              {
+                "t": "p",
+                "x": "nVibe comes with pre-built connectors for Autodesk Forma, Autodesk Platform Services (APS), Autodesk AEC Data Model, SAP and other ERP systems, and Model Context Protocol (MCP). Integrations with Navisworks, Procore, AutoCAD and Revit are coming soon."
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revit is intended to translate plain-language instructions into native Revit plugins that appear on a team’s Revit ribbon. Once AI has been used during the application-building process, subsequent runs of the application are token-free."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "nCircle Tech의\nnVibe AEC 앱 제작",
+          "body": "nCircle Tech nVibe는 AEC 전문가가 설명하면 AI가 앱을 만든다.",
+          "mini_headline": "nVibe, AEC 앱 제작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech가 AI-powered 개발 플랫폼 nVibe를 출시했다. AEC 전문가가 코딩 실력 없이도 아이디어를 실제로 작동하는 애플리케이션으로 바꾸게 돕는 도구다."
+              },
+              {
+                "t": "p",
+                "x": "현장 관리자, 프로젝트 엔지니어, VDC 리드 같은 도메인 전문가가 일상 언어로 워크플로를 설명하면 nVibe가 애플리케이션을 만든다. 작업은 IT 팀이 보안, 권한, 배포를 통제하도록 설계된 샌드박스 환경 안에서 이뤄진다."
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech는 nVibe가 WBS 코드, CSI MasterFormat, RFIs, 제출물, LoD 100–500 같은 AEC 용어와 워크플로를 기본으로 이해한다는 점이 범용 AI 코딩 도구와 다르다고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "nVibe에는 Autodesk Forma, Autodesk Platform Services(APS), Autodesk AEC Data Model, SAP 및 기타 ERP 시스템, Model Context Protocol(MCP)용 기본 커넥터가 들어 있다. Navisworks, Procore, AutoCAD, Revit 연동도 곧 추가된다."
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revit은 일상 언어 지시를 팀의 Revit 리본에 뜨는 네이티브 Revit 플러그인으로 바꿔 준다. AI는 애플리케이션을 만들 때 한 번만 쓰이고, 이후 실행에는 토큰이 들지 않는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "nCircle Techの\nnVibeでAECアプリ化",
+          "body": "nCircle TechのnVibeは、AEC専門家の説明からAIがアプリを作る。",
+          "mini_headline": "nVibeがAECアプリを構築",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Techは、AEC分野の専門家がコーディングスキルなしでアイデアを実際に動くアプリケーションに変えられるよう設計された、AI-poweredの開発プラットフォーム「nVibe」を発表した。"
+              },
+              {
+                "t": "p",
+                "x": "現場監督、プロジェクトエンジニア、VDCリードといった領域の専門家が平易な言葉でワークフローを説明すると、nVibeはIT部門がセキュリティ、権限、デプロイを管理できるよう設計されたサンドボックス環境内でアプリケーションを構築する。"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Techによれば、nVibeはWBSコード、CSI MasterFormat、RFIs、提出書類、LoD 100–500といったAECの用語やワークフローを組み込みで理解している点で、汎用のAIコーディングツールと異なる。"
+              },
+              {
+                "t": "p",
+                "x": "nVibeには、Autodesk Forma、Autodesk Platform Services（APS）、Autodesk AEC Data Model、SAPなどのERPシステム、Model Context Protocol（MCP）向けのコネクターが標準で用意されている。Navisworks、Procore、AutoCAD、Revitとの連携も近く提供される。"
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revitは、平易な言葉による指示を、チームのRevitリボンに表示されるネイティブのRevitプラグインに変換することを目指している。アプリケーション構築の過程で一度AIを使えば、その後のアプリケーション実行ではトークンを消費しない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "nCircle Tech推出\nnVibe：流程变AEC应用",
+          "body": "借助nCircle Tech的nVibe，AEC从业者描述工作流，AI平台即可构建应用。",
+          "mini_headline": "nVibe构建AEC应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech推出了nVibe，这是一款专为帮助AEC从业者在无需编程技能的情况下将想法转化为可用应用而设计的AI-powered开发平台。"
+              },
+              {
+                "t": "p",
+                "x": "现场经理、项目工程师和VDC负责人等领域专家可以用日常语言描述工作流，nVibe便会在沙盒环境中构建应用；该环境旨在让IT团队掌控安全、权限和部署。"
+              },
+              {
+                "t": "p",
+                "x": "据nCircle Tech介绍，nVibe与通用AI编程工具的区别在于，它内置了对AEC术语和工作流的理解，例如WBS编码、CSI MasterFormat、RFIs、送审资料以及LoD 100–500。"
+              },
+              {
+                "t": "p",
+                "x": "nVibe预置了面向Autodesk Forma、Autodesk Platform Services（APS）、Autodesk AEC Data Model、SAP及其他ERP系统和Model Context Protocol（MCP）的连接器。与Navisworks、Procore、AutoCAD和Revit的集成即将推出。"
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revit旨在将日常语言指令转换为显示在团队Revit功能区中的原生Revit插件。在应用构建过程中使用过AI后，此后运行该应用将不再消耗token。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "nVibe de nCircle Tech convierte\nflujos en apps de AEC",
+          "body": "Con nVibe de nCircle Tech, los profesionales de AEC describen un flujo y la plataforma de AI crea la aplicación.",
+          "mini_headline": "nVibe crea apps de AEC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech ha lanzado nVibe, una plataforma de desarrollo AI-powered diseñada específicamente para ayudar a los profesionales de AEC a convertir ideas en aplicaciones funcionales sin necesidad de saber programar."
+              },
+              {
+                "t": "p",
+                "x": "Los expertos del sector, como jefes de obra, ingenieros de proyecto y responsables de VDC, pueden describir un flujo de trabajo en lenguaje sencillo, y nVibe crea la aplicación dentro de un entorno aislado diseñado para que los equipos de IT controlen la seguridad, los permisos y el despliegue."
+              },
+              {
+                "t": "p",
+                "x": "Según nCircle Tech, nVibe se diferencia de las herramientas de programación con AI de uso general por su comprensión integrada de la terminología y los flujos de trabajo de AEC, como los códigos WBS, CSI MasterFormat, RFIs, submittals y LoD 100–500."
+              },
+              {
+                "t": "p",
+                "x": "nVibe incluye conectores predefinidos para Autodesk Forma, Autodesk Platform Services (APS), Autodesk AEC Data Model, SAP y otros sistemas ERP, y Model Context Protocol (MCP). Pronto llegarán integraciones con Navisworks, Procore, AutoCAD y Revit."
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revit está pensado para traducir instrucciones en lenguaje sencillo a plugins nativos de Revit que aparecen en la cinta de Revit del equipo. Una vez que se ha usado la AI durante el proceso de creación de la aplicación, las ejecuciones posteriores de la aplicación no consumen tokens."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "nCircle Tech의\nnVibe AEC 앱 제작",
+          "body": "nCircle Tech nVibe는 AEC 전문가의 설명으로 AI가 앱을 만든다.",
+          "mini_headline": "nVibe, AEC 앱 제작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech가 AEC 전문가가 코딩 실력 없이도 아이디어를 실제 작동하는 애플리케이션으로 바꾸도록 돕는 AI-powered 개발 플랫폼 nVibe를 출시했다."
+              },
+              {
+                "t": "p",
+                "x": "현장 관리자, 프로젝트 엔지니어, VDC 리드 같은 도메인 전문가가 일상 언어로 워크플로를 설명하면, nVibe는 IT 팀이 보안, 권한, 배포를 통제할 수 있도록 설계된 샌드박스 환경 안에서 애플리케이션을 만든다."
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech에 따르면 nVibe는 WBS 코드, CSI MasterFormat, RFIs, 제출물, LoD 100–500 같은 AEC 용어와 워크플로를 기본으로 이해한다는 점에서 범용 AI 코딩 도구와 다르다."
+              },
+              {
+                "t": "p",
+                "x": "nVibe는 Autodesk Forma, Autodesk Platform Services(APS), Autodesk AEC Data Model, SAP 및 기타 ERP 시스템, Model Context Protocol(MCP)용 기본 커넥터를 갖췄다. Navisworks, Procore, AutoCAD, Revit 연동도 곧 추가된다."
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revit은 일상 언어 지시를 팀의 Revit 리본에 나타나는 네이티브 Revit 플러그인으로 바꾸도록 만들어졌다. 애플리케이션 제작 과정에서 한 번 AI를 사용하고 나면, 이후 애플리케이션 실행에는 토큰이 들지 않는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "nCircle Techの\nnVibeでAECアプリ化",
+          "body": "nCircle TechのnVibeは、AEC専門家の説明からAIがアプリを作る。",
+          "mini_headline": "nVibeがAECアプリを構築",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Techは、AEC分野の専門家がコーディングスキルなしでアイデアを実際に動くアプリケーションに変えられるよう設計された、AI-poweredの開発プラットフォーム「nVibe」を発表した。"
+              },
+              {
+                "t": "p",
+                "x": "現場監督、プロジェクトエンジニア、VDCリードといった領域の専門家が平易な言葉でワークフローを説明すると、nVibeはIT部門がセキュリティ、権限、デプロイを管理できるよう設計されたサンドボックス環境内でアプリケーションを構築する。"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Techによれば、nVibeはWBSコード、CSI MasterFormat、RFIs、提出書類、LoD 100–500といったAECの用語やワークフローを組み込みで理解している点で、汎用のAIコーディングツールと異なる。"
+              },
+              {
+                "t": "p",
+                "x": "nVibeには、Autodesk Forma、Autodesk Platform Services（APS）、Autodesk AEC Data Model、SAPなどのERPシステム、Model Context Protocol（MCP）向けのコネクターが標準で用意されている。Navisworks、Procore、AutoCAD、Revitとの連携も近く提供される。"
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revitは、平易な言葉による指示を、チームのRevitリボンに表示されるネイティブのRevitプラグインに変換することを目指している。アプリケーション構築の過程で一度AIを使えば、その後のアプリケーション実行ではトークンを消費しない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "nCircle Tech推出\nnVibe：流程变AEC应用",
+          "body": "借助nCircle Tech的nVibe，AEC从业者描述工作流，AI平台即可构建应用。",
+          "mini_headline": "nVibe构建AEC应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech推出了nVibe，这是一款专为帮助AEC从业者在无需编程技能的情况下将想法转化为可用应用而设计的AI-powered开发平台。"
+              },
+              {
+                "t": "p",
+                "x": "现场经理、项目工程师和VDC负责人等领域专家可以用日常语言描述工作流，nVibe便会在沙盒环境中构建应用；该环境旨在让IT团队掌控安全、权限和部署。"
+              },
+              {
+                "t": "p",
+                "x": "据nCircle Tech介绍，nVibe与通用AI编程工具的区别在于，它内置了对AEC术语和工作流的理解，例如WBS编码、CSI MasterFormat、RFIs、送审资料以及LoD 100–500。"
+              },
+              {
+                "t": "p",
+                "x": "nVibe预置了面向Autodesk Forma、Autodesk Platform Services（APS）、Autodesk AEC Data Model、SAP及其他ERP系统和Model Context Protocol（MCP）的连接器。与Navisworks、Procore、AutoCAD和Revit的集成即将推出。"
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revit旨在将日常语言指令转换为显示在团队Revit功能区中的原生Revit插件。在应用构建过程中使用过AI后，此后运行该应用将不再消耗token。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "nVibe de nCircle Tech convierte\nflujos en apps de AEC",
+          "body": "Con nVibe de nCircle Tech, los profesionales de AEC describen un flujo y la plataforma de AI crea la aplicación.",
+          "mini_headline": "nVibe crea apps de AEC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "nCircle Tech ha lanzado nVibe, una plataforma de desarrollo AI-powered diseñada específicamente para ayudar a los profesionales de AEC a convertir ideas en aplicaciones funcionales sin necesidad de saber programar."
+              },
+              {
+                "t": "p",
+                "x": "Los expertos del sector, como jefes de obra, ingenieros de proyecto y responsables de VDC, pueden describir un flujo de trabajo en lenguaje sencillo, y nVibe crea la aplicación dentro de un entorno aislado diseñado para que los equipos de IT controlen la seguridad, los permisos y el despliegue."
+              },
+              {
+                "t": "p",
+                "x": "Según nCircle Tech, nVibe se diferencia de las herramientas de programación con AI de uso general por su comprensión integrada de la terminología y los flujos de trabajo de AEC, como los códigos WBS, CSI MasterFormat, RFIs, submittals y LoD 100–500."
+              },
+              {
+                "t": "p",
+                "x": "nVibe incluye conectores predefinidos para Autodesk Forma, Autodesk Platform Services (APS), Autodesk AEC Data Model, SAP y otros sistemas ERP, y Model Context Protocol (MCP). Pronto llegarán integraciones con Navisworks, Procore, AutoCAD y Revit."
+              },
+              {
+                "t": "p",
+                "x": "nVibe for Revit está pensado para traducir instrucciones en lenguaje sencillo a plugins nativos de Revit que aparecen en la cinta de Revit del equipo. Una vez que se ha usado la AI durante el proceso de creación de la aplicación, las ejecuciones posteriores de la aplicación no consumen tokens."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "claude-design-reference-handoff",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "같은 Claude 요청\n네 가지 전달 방식",
+      "body": "한 실험이 같은 Claude 디자인 요청을 네 번 돌리며 레퍼런스 전달만 바꿨다.",
+      "mini_headline": "Claude 디자인 전달법",
       "tool": "Figma",
       "source": "DEV Community",
-      "url": "https://dev.to/piotrgodycki/from-a-figma-frame-to-an-aem-eds-block-in-one-command-2m6",
+      "url": "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -371,209 +1447,269 @@
         "blocks": [
           {
             "t": "p",
-            "x": "AEM Edge Delivery Services(EDS)로 사이트를 만들면 디자이너가 보낸 Figma 링크 속 프레임을 블록으로 손수 다시 짜야 한다. decorate() JS, 범위가 지정된 CSS, Universal Editor 모델까지다. aem-eds-kit은 이 일을 명령 하나로 줄인다: eds block from-design \"<Figma frame link>\" --name hero."
+            "x": "Claude에 디자인을 맡기면 어디선가 본 듯한 템플릿 같은 결과가 자주 나온다. 그래서 글쓴이는 요청을 그대로 두었다. 한국 파주의 작은 카페 ONGI Coffee가 새 메뉴 “Lemonade”를 알리는 Instagram 피드 이미지(1080×1350)를 HTML 파일 하나로 만드는 요청이다. 바꾼 것은 레퍼런스를 건네는 방식뿐이다. 도구: Claude Code, 2026년 10월."
           },
           {
             "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-            "cap": "디자인과 eds가 그 디자인으로 만든 EDS 블록"
-          },
-          {
-            "t": "p",
-            "x": "eds는 Figma의 REST API나 에이전트의 Figma MCP 서버로 프레임(레이아웃, Auto Layout, 텍스트 스타일, Variables, 베리언트, 프레임 너비)을 읽어 캐시한다. 이어 EDS 규칙, 17가지 Universal Editor 필드 유형, 프로젝트 디자인 토큰을 담은 프롬프트를 만들면 이미 쓰던 AI 코딩 에이전트(Claude Code, Cursor, Codex)가 블록을 작성한다. 모델은 eds가 따로 제공하지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "그다음은 결과 검사다. 파일이 있는지, decorate()가 export되는지, CSS 범위가 블록 안으로 한정되는지, Universal Editor 모델이 유효한지 본다. 결과물은 hero.js, hero.css, _hero.json Universal Editor 모델, 미리보기 페이지다. 작성자가 채우기 전까지는 임시 문구와 이미지 슬롯이 자리를 지킨다."
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+            "cap": "LV1 — 요청만. 깔끔하지만 템플릿처럼 보인다."
           },
           {
             "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-            "cap": "브라우저에서 본 블록 미리보기"
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+            "cap": "LV2 — 레퍼런스 두 장 첨부. 두 이미지가 무작위로 섞였다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+            "cap": "LV3 — 레퍼런스 + 가져올 점 몇 줄. 브랜드 톤이 살아났다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+            "cap": "LV3+ — 실제 사진 + 수정 한 번. 바로 올릴 수 있다."
           },
           {
             "t": "p",
-            "x": "eds block preview, check, test는 블록을 프레임 너비별로 보여 주고 접근성을 점검하며 시각 회귀 테스트를 돌린다. eds는 Figma 호출 한도에 걸리지 않게 블록당 Figma를 한 번만 부르고 이후엔 캐시를 쓴다. 이 CLI는 Framer와 Google Stitch 페이지도 받으며 로컬 모델(Ollama, oMLX)에서도 돈다. MIT 라이선스(MIT-licensed)로 공개됐고 Adobe, Figma와는 관련이 없다."
+            "x": "단계마다 두 번씩 더 돌렸다(9회). 방향은 같았다. 레퍼런스를 첨부하는 것(LV2)보다 레퍼런스 설명을 몇 줄 덧붙이는 쪽(LV3)이 결과를 더 크게 바꿨다."
+          },
+          {
+            "t": "p",
+            "x": "LV2에서 Claude는 두 이미지를 똑같이 중요한 지시로 받아들였다. 어느 이미지에서 무엇을 가져올지 모르니 눈에 띄는 요소를 다 섞거나 메뉴의 어두운 카드를 거의 그대로 베꼈다."
+          },
+          {
+            "t": "p",
+            "x": "요약은 이렇다. 레퍼런스를 보여 주기보다 \"여기서 이것만 가져와\"라고 말하는 편이 더 중요하다. 가져올 것과 가져오지 말 것은 따로 목록으로 적는다. 레퍼런스마다 역할을 하나씩 준다. 역할이 다른 레퍼런스 두세 개가 가장 잘 통한다. 어긋나는 부분이 있으면 한 번에 한두 가지만 고치고 \"나머지는 그대로 둬\"라고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "One command turns a Figma\nframe into an AEM block",
-          "body": "An open-source kit turns a pasted Figma frame link into an AEM Edge Delivery block with JS, CSS and an editor model.",
-          "mini_headline": "Figma frame to AEM block",
+          "headline": "Same Claude design prompt,\nfour different hand-offs",
+          "body": "One test ran the same Claude design request four times, changing only the reference hand-off.",
+          "mini_headline": "Claude design hand-offs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "If you build sites on AEM Edge Delivery Services (EDS), a designer sends a Figma link and you rebuild the frame by hand as a block: decorate() JS, scoped CSS and a Universal Editor model. aem-eds-kit turns that into one command: eds block from-design \"<Figma frame link>\" --name hero."
+                "x": "Ask Claude for a design and you often get something that looks like a template you've seen before. So the author kept the request identical — an Instagram feed image (1080×1350) for a new “Lemonade” menu item at ONGI Coffee, a small café in Paju, Korea, as a single HTML file — and changed only how references were handed over. Tool: Claude Code, October 2026."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "A design next to the EDS block eds generated from it"
-              },
-              {
-                "t": "p",
-                "x": "eds reads the frame (layout, Auto Layout, text styles, Variables, variants and frame widths) over Figma's REST API or through your agent's Figma MCP server, and caches it. It builds a prompt with EDS rules, the 17 Universal Editor field types and your project's design tokens, and the AI coding agent you already use (Claude Code, Cursor or Codex) writes the block: eds doesn't ship a model of its own."
-              },
-              {
-                "t": "p",
-                "x": "It then checks the result: the files exist, decorate() is exported, the CSS is scoped to the block, and the Universal Editor model is valid. The output is hero.js, hero.css, a _hero.json Universal Editor model and a preview page, with placeholder copy and image slots until authors fill them in."
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — request only. Clean, but it looks like a template."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "The block preview in the browser"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — two references attached. The two images got mixed at random."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — references + a few lines on what to take. The brand tone came through."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — a real photo + one fix. Ready to post."
               },
               {
                 "t": "p",
-                "x": "eds block preview, check and test show the block at the frame widths, check accessibility and run visual regression. eds keeps one Figma call per block, then a cache, to stay inside Figma's rate limits. The CLI also takes Framer and Google Stitch pages and runs on a local model (Ollama, oMLX). It is MIT-licensed and not affiliated with Adobe or Figma."
+                "x": "Each level was run two more times (9 runs). The direction stayed the same: attaching references (LV2) changed less than adding a few lines about them (LV3)."
+              },
+              {
+                "t": "p",
+                "x": "In LV2, Claude read both images as equally important instructions. It didn't know what to take from which image, so it combined everything that stood out — or copied the menu's dark card almost as is."
+              },
+              {
+                "t": "p",
+                "x": "Takeaways: Showing a reference matters less than saying \"take only this from it.\" Write take and don't take as separate lists. Give each reference one job — two to three references with different roles work best. When something's off, fix one or two things at a time and say \"keep everything else as is.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Figma 프레임,\n명령 하나로 AEM 블록",
-          "body": "오픈소스 키트가 Figma 프레임을 JS·CSS가 든 AEM 블록으로 바꾼다.",
-          "mini_headline": "Figma 프레임을 AEM 블록으로",
+          "headline": "같은 Claude 요청\n네 가지 전달 방식",
+          "body": "한 실험이 같은 Claude 디자인 요청을 네 번 돌리며 레퍼런스 전달만 바꿨다.",
+          "mini_headline": "Claude 디자인 전달법",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AEM Edge Delivery Services(EDS)로 사이트를 만들면 디자이너가 보낸 Figma 링크 속 프레임을 블록으로 손수 다시 짜야 한다. decorate() JS, 범위가 지정된 CSS, Universal Editor 모델까지다. aem-eds-kit은 이 일을 명령 하나로 줄인다: eds block from-design \"<Figma frame link>\" --name hero."
+                "x": "Claude에 디자인을 맡기면 어디선가 본 듯한 템플릿 같은 결과가 자주 나온다. 그래서 글쓴이는 요청을 그대로 두었다. 한국 파주의 작은 카페 ONGI Coffee가 새 메뉴 “Lemonade”를 알리는 Instagram 피드 이미지(1080×1350)를 HTML 파일 하나로 만드는 요청이다. 바꾼 것은 레퍼런스를 건네는 방식뿐이다. 도구: Claude Code, 2026년 10월."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "디자인과 eds가 그 디자인으로 만든 EDS 블록"
-              },
-              {
-                "t": "p",
-                "x": "eds는 Figma의 REST API나 에이전트의 Figma MCP 서버로 프레임(레이아웃, Auto Layout, 텍스트 스타일, Variables, 베리언트, 프레임 너비)을 읽어 캐시한다. 이어 EDS 규칙, 17가지 Universal Editor 필드 유형, 프로젝트 디자인 토큰을 담은 프롬프트를 만들면 이미 쓰던 AI 코딩 에이전트(Claude Code, Cursor, Codex)가 블록을 작성한다. 모델은 eds가 따로 제공하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "그다음은 결과 검사다. 파일이 있는지, decorate()가 export되는지, CSS 범위가 블록 안으로 한정되는지, Universal Editor 모델이 유효한지 본다. 결과물은 hero.js, hero.css, _hero.json Universal Editor 모델, 미리보기 페이지다. 작성자가 채우기 전까지는 임시 문구와 이미지 슬롯이 자리를 지킨다."
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — 요청만. 깔끔하지만 템플릿처럼 보인다."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "브라우저에서 본 블록 미리보기"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — 레퍼런스 두 장 첨부. 두 이미지가 무작위로 섞였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — 레퍼런스 + 가져올 점 몇 줄. 브랜드 톤이 살아났다."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — 실제 사진 + 수정 한 번. 바로 올릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "eds block preview, check, test는 블록을 프레임 너비별로 보여 주고 접근성을 점검하며 시각 회귀 테스트를 돌린다. eds는 Figma 호출 한도에 걸리지 않게 블록당 Figma를 한 번만 부르고 이후엔 캐시를 쓴다. 이 CLI는 Framer와 Google Stitch 페이지도 받으며 로컬 모델(Ollama, oMLX)에서도 돈다. MIT 라이선스(MIT-licensed)로 공개됐고 Adobe, Figma와는 관련이 없다."
+                "x": "단계마다 두 번씩 더 돌렸다(9회). 방향은 같았다. 레퍼런스를 첨부하는 것(LV2)보다 레퍼런스 설명을 몇 줄 덧붙이는 쪽(LV3)이 결과를 더 크게 바꿨다."
+              },
+              {
+                "t": "p",
+                "x": "LV2에서 Claude는 두 이미지를 똑같이 중요한 지시로 받아들였다. 어느 이미지에서 무엇을 가져올지 모르니 눈에 띄는 요소를 다 섞거나 메뉴의 어두운 카드를 거의 그대로 베꼈다."
+              },
+              {
+                "t": "p",
+                "x": "요약은 이렇다. 레퍼런스를 보여 주기보다 \"여기서 이것만 가져와\"라고 말하는 편이 더 중요하다. 가져올 것과 가져오지 말 것은 따로 목록으로 적는다. 레퍼런스마다 역할을 하나씩 준다. 역할이 다른 레퍼런스 두세 개가 가장 잘 통한다. 어긋나는 부분이 있으면 한 번에 한두 가지만 고치고 \"나머지는 그대로 둬\"라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コマンド一つで\nFigmaをAEMブロックに",
-          "body": "オープンソースのキットがFigmaのフレームをJSとCSS付きのAEMブロックに変える。",
-          "mini_headline": "FigmaフレームをAEMブロックに",
+          "headline": "同じClaudeへの依頼、\n参照の渡し方は四通り",
+          "body": "同じClaudeデザイン依頼を四回実行し、参照の渡し方だけを変えた検証だ。",
+          "mini_headline": "Claudeデザインの参照の渡し方",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AEM Edge Delivery Services(EDS)でサイトを構築している場合、デザイナーからFigmaのリンクが届くと、そのフレームをブロックとして手作業で作り直すことになる。decorate()のJS、スコープ付きCSS、Universal Editorモデルだ。aem-eds-kitはこれをコマンド一つにまとめる: eds block from-design \"<Figma frame link>\" --name hero."
+                "x": "Claudeにデザインを頼むと、どこかで見たテンプレートのような結果になりがちだ。そこで筆者は依頼内容を同一に保った。韓国・坡州（パジュ）の小さなカフェONGI Coffeeの新メニュー“Lemonade”を告知するInstagramフィード画像（1080×1350）を、HTMLファイル一つで作るという依頼だ。そのうえで、参照の渡し方だけを変えた。ツール：Claude Code、2026年10月。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "デザインと、そこからedsが生成したEDSブロック"
-              },
-              {
-                "t": "p",
-                "x": "edsはFigmaのREST API、またはエージェントのFigma MCPサーバーを通じてフレーム(レイアウト、Auto Layout、テキストスタイル、Variables、バリアント、フレーム幅)を読み込み、キャッシュする。さらにEDSのルール、17種類のUniversal Editorフィールドタイプ、プロジェクトのデザイントークンを含むプロンプトを組み立て、すでに使っているAIコーディングエージェント(Claude Code、Cursor、Codex)がブロックを書く。eds自体はモデルを同梱しない。"
-              },
-              {
-                "t": "p",
-                "x": "続いて結果を検証する。ファイルが存在するか、decorate()がexportされているか、CSSがブロックにスコープされているか、Universal Editorモデルが有効かを確かめる。出力はhero.js、hero.css、_hero.jsonのUniversal Editorモデル、プレビューページで、作成者が埋めるまではプレースホルダーの文言と画像スロットが入る。"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — 依頼のみ。きれいだが、テンプレートのように見える。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "ブラウザでのブロックプレビュー"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — 参照を二枚添付。二つの画像がランダムに混ざった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — 参照 + 何を取り入れるかを数行。ブランドのトーンが表れた。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — 実際の写真 + 修正一つ。そのまま投稿できる。"
               },
               {
                 "t": "p",
-                "x": "eds block preview、check、testはフレーム幅ごとにブロックを表示し、アクセシビリティを確認し、ビジュアルリグレッションテストを実行する。edsはFigmaのレート制限内に収まるよう、ブロックごとにFigmaを一度だけ呼び出し、その後はキャッシュを使う。このCLIはFramerやGoogle Stitchのページも扱え、ローカルモデル(Ollama、oMLX)でも動く。ライセンスはMIT(MIT-licensed)で、AdobeやFigmaとは無関係だ。"
+                "x": "各レベルをさらに二回ずつ実行した（9回）。傾向は変わらなかった。参照を添付すること（LV2）よりも、参照について数行書き添えること（LV3）のほうが変化が大きかった。"
+              },
+              {
+                "t": "p",
+                "x": "LV2では、Claudeは両方の画像を同じくらい重要な指示として読んだ。どの画像から何を取ればよいか分からず、目立つ要素をすべて組み合わせるか、メニューの暗いカードをほぼそのまま写した。"
+              },
+              {
+                "t": "p",
+                "x": "要点：参照を見せることより、「ここからはこれだけ取って」と伝えることのほうが重要だ。取り入れるものと取り入れないものは別々のリストにして書く。参照ごとに役割を一つ与える。役割の異なる参照を二〜三点用意するのが最もうまくいく。何かがずれたら、一度に一つか二つだけ直し、「それ以外はそのままにして」と伝える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一条命令把Figma\n帧变成AEM区块",
-          "body": "一款开源工具包可将粘贴的Figma帧链接转为带JS、CSS和编辑器模型的AEM区块。",
-          "mini_headline": "Figma帧转AEM区块",
+          "headline": "同一Claude设计请求，\n四种参考交付方式",
+          "body": "一项测试将同一Claude设计请求运行四次，只改变参考图的交付方式。",
+          "mini_headline": "Claude设计交付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "如果你在AEM Edge Delivery Services(EDS)上建站，设计师发来Figma链接后，你需要手动把该帧重建为区块：decorate() JS、限定作用域的CSS和Universal Editor模型。aem-eds-kit把这一过程变成一条命令：eds block from-design \"<Figma frame link>\" --name hero。"
+                "x": "让Claude做设计，常常会得到一个看起来像似曾相识模板的结果。于是作者保持请求完全相同——为韩国坡州一家小咖啡馆ONGI Coffee的新菜单“Lemonade”制作一张Instagram信息流图片（1080×1350），输出为单个HTML文件——只改变参考图的交付方式。工具：Claude Code，2026年10月。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "设计稿与eds据此生成的EDS区块并排对比"
-              },
-              {
-                "t": "p",
-                "x": "eds通过Figma的REST API或你的智能体所用的Figma MCP服务器读取帧(布局、Auto Layout、文本样式、Variables、变体和帧宽度)，并加以缓存。它会生成包含EDS规则、17种Universal Editor字段类型和项目设计令牌的提示词，再由你已在使用的AI编程智能体(Claude Code、Cursor或Codex)编写区块：eds本身不附带模型。"
-              },
-              {
-                "t": "p",
-                "x": "随后它会检查结果：文件是否存在、decorate()是否已导出、CSS是否限定在区块范围内、Universal Editor模型是否有效。输出包括hero.js、hero.css、_hero.json Universal Editor模型和一个预览页面，在作者填写内容之前使用占位文案和图片位。"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — 仅有请求。干净，但看起来像模板。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "浏览器中的区块预览"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — 附上两张参考图。两张图片被随机混在一起。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — 参考图 + 几行说明要取什么。品牌调性体现出来了。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — 一张真实照片 + 一处修改。可以直接发布。"
               },
               {
                 "t": "p",
-                "x": "eds block preview、check和test会按各帧宽度展示区块、检查无障碍性并运行视觉回归测试。为了不超出Figma的速率限制，eds每个区块只调用一次Figma，之后使用缓存。该CLI还支持Framer和Google Stitch页面，并可在本地模型(Ollama、oMLX)上运行。它采用MIT许可(MIT-licensed)，与Adobe和Figma无关联。"
+                "x": "每个级别又各运行了两次（共9次）。方向保持不变：附上参考图（LV2）带来的变化，小于为参考图补充几行说明（LV3）。"
+              },
+              {
+                "t": "p",
+                "x": "在LV2中，Claude把两张图片都当作同等重要的指令。它不知道该从哪张图中取什么，于是把所有显眼的元素组合在一起，或者几乎原样照搬了菜单的深色卡片。"
+              },
+              {
+                "t": "p",
+                "x": "要点：展示参考图，不如说清“只从中取这一点”。把要取的和不要取的分别列成清单。给每张参考图一项任务——两到三张角色不同的参考图效果最好。出现偏差时，一次只改一两处，并说明“其他保持不变”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un comando convierte un marco\nde Figma en un bloque de AEM",
-          "body": "Un kit de código abierto convierte el enlace de un marco de Figma en un bloque de AEM con JS, CSS y modelo de editor.",
-          "mini_headline": "De marco de Figma a bloque de AEM",
+          "headline": "Misma petición a Claude,\ncuatro formas de dar referencias",
+          "body": "Una prueba ejecutó cuatro veces la misma petición de diseño a Claude y solo cambió la entrega de referencias.",
+          "mini_headline": "Claude y la entrega de referencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Si creas sitios en AEM Edge Delivery Services (EDS), un diseñador te envía un enlace de Figma y tú reconstruyes el marco a mano como bloque: JS con decorate(), CSS con ámbito y un modelo de Universal Editor. aem-eds-kit lo convierte en un solo comando: eds block from-design \"<Figma frame link>\" --name hero."
+                "x": "Si le pides un diseño a Claude, a menudo obtienes algo que parece una plantilla ya vista. Por eso, el autor mantuvo idéntica la petición —una imagen para el feed de Instagram (1080×1350) que anuncia el nuevo “Lemonade” del menú de ONGI Coffee, una pequeña cafetería de Paju, Corea, en un único archivo HTML— y solo cambió la forma de entregar las referencias. Herramienta: Claude Code, octubre de 2026."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "Un diseño junto al bloque de EDS que eds generó a partir de él"
-              },
-              {
-                "t": "p",
-                "x": "eds lee el marco (diseño, Auto Layout, estilos de texto, Variables, variantes y anchos de marco) mediante la REST API de Figma o a través del servidor Figma MCP de tu agente, y lo guarda en caché. Construye un prompt con las reglas de EDS, los 17 tipos de campo de Universal Editor y los design tokens de tu proyecto, y el agente de programación con IA que ya usas (Claude Code, Cursor o Codex) escribe el bloque: eds no incluye un modelo propio."
-              },
-              {
-                "t": "p",
-                "x": "Después comprueba el resultado: que los archivos existan, que decorate() se exporte, que el CSS tenga ámbito limitado al bloque y que el modelo de Universal Editor sea válido. El resultado es hero.js, hero.css, un modelo de Universal Editor _hero.json y una página de vista previa, con textos y huecos de imagen provisionales hasta que los autores los completen."
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — solo la petición. Limpio, pero parece una plantilla."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "La vista previa del bloque en el navegador"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — dos referencias adjuntas. Las dos imágenes se mezclaron al azar."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — referencias + unas líneas sobre qué tomar. El tono de la marca se notó."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — una foto real + una corrección. Listo para publicar."
               },
               {
                 "t": "p",
-                "x": "eds block preview, check y test muestran el bloque en los anchos de marco, comprueban la accesibilidad y ejecutan pruebas de regresión visual. eds hace una sola llamada a Figma por bloque y después usa una caché para no superar los límites de uso de Figma. La CLI también admite páginas de Framer y Google Stitch y funciona con un modelo local (Ollama, oMLX). Tiene licencia MIT (MIT-licensed) y no está afiliada a Adobe ni a Figma."
+                "x": "Cada nivel se ejecutó dos veces más (9 ejecuciones). La tendencia se mantuvo: adjuntar referencias (LV2) cambió menos que añadir unas líneas sobre ellas (LV3)."
+              },
+              {
+                "t": "p",
+                "x": "En LV2, Claude leyó ambas imágenes como instrucciones igual de importantes. No sabía qué tomar de cada imagen, así que combinó todo lo que destacaba, o copió casi tal cual la tarjeta oscura del menú."
+              },
+              {
+                "t": "p",
+                "x": "Conclusiones: mostrar una referencia importa menos que decir \"toma solo esto de ella\". Escribe qué tomar y qué no tomar en listas separadas. Da a cada referencia una sola función: dos o tres referencias con funciones distintas funcionan mejor. Cuando algo falle, corrige una o dos cosas a la vez y di \"deja todo lo demás como está\"."
               }
             ]
           }
@@ -581,1241 +1717,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Figma 프레임,\n명령 하나로 AEM 블록",
-          "body": "오픈소스 키트가 Figma 프레임을 JS·CSS가 든 AEM 블록으로 바꾼다.",
-          "mini_headline": "Figma 프레임을 AEM 블록으로",
+          "headline": "같은 Claude 요청,\n네 가지 전달 방식",
+          "body": "한 실험이 같은 Claude 디자인 요청을 네 번 돌리며 레퍼런스 전달만 바꿨다.",
+          "mini_headline": "Claude 디자인 전달법",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AEM Edge Delivery Services(EDS)로 사이트를 만드는 경우, 디자이너가 Figma 링크를 보내면 그 프레임을 블록으로 손수 다시 만들어야 한다. decorate() JS, 범위가 지정된 CSS, Universal Editor 모델이 그것이다. aem-eds-kit은 이를 명령 하나로 바꾼다: eds block from-design \"<Figma frame link>\" --name hero."
+                "x": "Claude에 디자인을 맡기면 어디선가 본 듯한 템플릿 같은 결과가 자주 나온다. 그래서 글쓴이는 요청을 똑같이 유지했다. 한국 파주의 작은 카페 ONGI Coffee의 새 메뉴 “Lemonade”를 알리는 Instagram 피드 이미지(1080×1350)를 HTML 파일 하나로 만드는 요청이다. 그리고 레퍼런스를 건네는 방식만 바꿨다. 도구: Claude Code, 2026년 10월."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "디자인과, eds가 그 디자인으로 생성한 EDS 블록"
-              },
-              {
-                "t": "p",
-                "x": "eds는 Figma의 REST API나 에이전트의 Figma MCP 서버를 통해 프레임(레이아웃, Auto Layout, 텍스트 스타일, Variables, 베리언트, 프레임 너비)을 읽고 캐시한다. 이어 EDS 규칙, 17가지 Universal Editor 필드 유형, 프로젝트의 디자인 토큰을 담은 프롬프트를 만들고, 이미 쓰고 있는 AI 코딩 에이전트(Claude Code, Cursor, Codex)가 블록을 작성한다. eds는 자체 모델을 제공하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "그다음 결과를 검사한다. 파일이 존재하는지, decorate()가 export되는지, CSS 범위가 블록으로 한정되는지, Universal Editor 모델이 유효한지를 본다. 결과물은 hero.js, hero.css, _hero.json Universal Editor 모델, 미리보기 페이지이며, 작성자가 채우기 전까지는 임시 문구와 이미지 슬롯이 들어간다."
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — 요청만. 깔끔하지만 템플릿처럼 보인다."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "브라우저에서 본 블록 미리보기"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — 레퍼런스 두 장 첨부. 두 이미지가 무작위로 섞였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — 레퍼런스 + 가져올 점 몇 줄. 브랜드 톤이 살아났다."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — 실제 사진 + 수정 한 번. 바로 올릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "eds block preview, check, test는 프레임 너비별로 블록을 보여 주고 접근성을 점검하며 시각 회귀 테스트를 실행한다. eds는 Figma의 호출 한도를 넘지 않도록 블록당 Figma 호출을 한 번만 하고 이후에는 캐시를 쓴다. 이 CLI는 Framer와 Google Stitch 페이지도 받아들이며 로컬 모델(Ollama, oMLX)에서도 돌아간다. MIT 라이선스(MIT-licensed)로 공개됐고 Adobe, Figma와는 관련이 없다."
+                "x": "각 단계를 두 번씩 더 돌렸다(9회). 방향은 같았다. 레퍼런스를 첨부하는 것(LV2)보다 레퍼런스에 대해 몇 줄을 덧붙이는 것(LV3)이 더 큰 변화를 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "LV2에서 Claude는 두 이미지를 똑같이 중요한 지시로 읽었다. 어느 이미지에서 무엇을 가져와야 할지 몰랐기에 눈에 띄는 요소를 모두 섞거나, 메뉴의 어두운 카드를 거의 그대로 베꼈다."
+              },
+              {
+                "t": "p",
+                "x": "정리하면 이렇다. 레퍼런스를 보여 주는 것보다 \"여기서 이것만 가져와\"라고 말하는 것이 더 중요하다. 가져올 것과 가져오지 말 것은 따로 목록으로 적는다. 레퍼런스마다 역할을 하나씩 준다. 역할이 다른 레퍼런스 두세 개가 가장 잘 통한다. 무언가 어긋나면 한 번에 한두 가지만 고치고 \"나머지는 그대로 둬\"라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コマンド一つで\nFigmaをAEMブロックに",
-          "body": "オープンソースのキットがFigmaのフレームをJSとCSS付きのAEMブロックに変える。",
-          "mini_headline": "FigmaフレームをAEMブロックに",
+          "headline": "同じClaudeへの依頼、\n参照の渡し方は四通り",
+          "body": "同じClaudeデザイン依頼を四回実行し、参照の渡し方だけを変えた検証だ。",
+          "mini_headline": "Claudeデザインの参照の渡し方",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AEM Edge Delivery Services(EDS)でサイトを構築している場合、デザイナーからFigmaのリンクが届くと、そのフレームをブロックとして手作業で作り直すことになる。decorate()のJS、スコープ付きCSS、Universal Editorモデルだ。aem-eds-kitはこれをコマンド一つにまとめる: eds block from-design \"<Figma frame link>\" --name hero."
+                "x": "Claudeにデザインを頼むと、どこかで見たテンプレートのような結果になりがちだ。そこで筆者は依頼内容を同一に保った。韓国・坡州（パジュ）の小さなカフェONGI Coffeeの新メニュー“Lemonade”を告知するInstagramフィード画像（1080×1350）を、HTMLファイル一つで作るという依頼だ。そのうえで、参照の渡し方だけを変えた。ツール：Claude Code、2026年10月。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "デザインと、そこからedsが生成したEDSブロック"
-              },
-              {
-                "t": "p",
-                "x": "edsはFigmaのREST API、またはエージェントのFigma MCPサーバーを通じてフレーム(レイアウト、Auto Layout、テキストスタイル、Variables、バリアント、フレーム幅)を読み込み、キャッシュする。さらにEDSのルール、17種類のUniversal Editorフィールドタイプ、プロジェクトのデザイントークンを含むプロンプトを組み立て、すでに使っているAIコーディングエージェント(Claude Code、Cursor、Codex)がブロックを書く。eds自体はモデルを同梱しない。"
-              },
-              {
-                "t": "p",
-                "x": "続いて結果を検証する。ファイルが存在するか、decorate()がexportされているか、CSSがブロックにスコープされているか、Universal Editorモデルが有効かを確かめる。出力はhero.js、hero.css、_hero.jsonのUniversal Editorモデル、プレビューページで、作成者が埋めるまではプレースホルダーの文言と画像スロットが入る。"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — 依頼のみ。きれいだが、テンプレートのように見える。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "ブラウザでのブロックプレビュー"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — 参照を二枚添付。二つの画像がランダムに混ざった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — 参照 + 何を取り入れるかを数行。ブランドのトーンが表れた。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — 実際の写真 + 修正一つ。そのまま投稿できる。"
               },
               {
                 "t": "p",
-                "x": "eds block preview、check、testはフレーム幅ごとにブロックを表示し、アクセシビリティを確認し、ビジュアルリグレッションテストを実行する。edsはFigmaのレート制限内に収まるよう、ブロックごとにFigmaを一度だけ呼び出し、その後はキャッシュを使う。このCLIはFramerやGoogle Stitchのページも扱え、ローカルモデル(Ollama、oMLX)でも動く。ライセンスはMIT(MIT-licensed)で、AdobeやFigmaとは無関係だ。"
+                "x": "各レベルをさらに二回ずつ実行した（9回）。傾向は変わらなかった。参照を添付すること（LV2）よりも、参照について数行書き添えること（LV3）のほうが変化が大きかった。"
+              },
+              {
+                "t": "p",
+                "x": "LV2では、Claudeは両方の画像を同じくらい重要な指示として読んだ。どの画像から何を取ればよいか分からず、目立つ要素をすべて組み合わせるか、メニューの暗いカードをほぼそのまま写した。"
+              },
+              {
+                "t": "p",
+                "x": "要点：参照を見せることより、「ここからはこれだけ取って」と伝えることのほうが重要だ。取り入れるものと取り入れないものは別々のリストにして書く。参照ごとに役割を一つ与える。役割の異なる参照を二〜三点用意するのが最もうまくいく。何かがずれたら、一度に一つか二つだけ直し、「それ以外はそのままにして」と伝える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一条命令把Figma\n帧变成AEM区块",
-          "body": "一款开源工具包可将粘贴的Figma帧链接转为带JS、CSS和编辑器模型的AEM区块。",
-          "mini_headline": "Figma帧转AEM区块",
+          "headline": "同一Claude设计请求，\n四种参考交付方式",
+          "body": "一项测试将同一Claude设计请求运行四次，只改变参考图的交付方式。",
+          "mini_headline": "Claude设计交付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "如果你在AEM Edge Delivery Services(EDS)上建站，设计师发来Figma链接后，你需要手动把该帧重建为区块：decorate() JS、限定作用域的CSS和Universal Editor模型。aem-eds-kit把这一过程变成一条命令：eds block from-design \"<Figma frame link>\" --name hero。"
+                "x": "让Claude做设计，常常会得到一个看起来像似曾相识模板的结果。于是作者保持请求完全相同——为韩国坡州一家小咖啡馆ONGI Coffee的新菜单“Lemonade”制作一张Instagram信息流图片（1080×1350），输出为单个HTML文件——只改变参考图的交付方式。工具：Claude Code，2026年10月。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "设计稿与eds据此生成的EDS区块并排对比"
-              },
-              {
-                "t": "p",
-                "x": "eds通过Figma的REST API或你的智能体所用的Figma MCP服务器读取帧(布局、Auto Layout、文本样式、Variables、变体和帧宽度)，并加以缓存。它会生成包含EDS规则、17种Universal Editor字段类型和项目设计令牌的提示词，再由你已在使用的AI编程智能体(Claude Code、Cursor或Codex)编写区块：eds本身不附带模型。"
-              },
-              {
-                "t": "p",
-                "x": "随后它会检查结果：文件是否存在、decorate()是否已导出、CSS是否限定在区块范围内、Universal Editor模型是否有效。输出包括hero.js、hero.css、_hero.json Universal Editor模型和一个预览页面，在作者填写内容之前使用占位文案和图片位。"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — 仅有请求。干净，但看起来像模板。"
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "浏览器中的区块预览"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — 附上两张参考图。两张图片被随机混在一起。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — 参考图 + 几行说明要取什么。品牌调性体现出来了。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — 一张真实照片 + 一处修改。可以直接发布。"
               },
               {
                 "t": "p",
-                "x": "eds block preview、check和test会按各帧宽度展示区块、检查无障碍性并运行视觉回归测试。为了不超出Figma的速率限制，eds每个区块只调用一次Figma，之后使用缓存。该CLI还支持Framer和Google Stitch页面，并可在本地模型(Ollama、oMLX)上运行。它采用MIT许可(MIT-licensed)，与Adobe和Figma无关联。"
+                "x": "每个级别又各运行了两次（共9次）。方向保持不变：附上参考图（LV2）带来的变化，小于为参考图补充几行说明（LV3）。"
+              },
+              {
+                "t": "p",
+                "x": "在LV2中，Claude把两张图片都当作同等重要的指令。它不知道该从哪张图中取什么，于是把所有显眼的元素组合在一起，或者几乎原样照搬了菜单的深色卡片。"
+              },
+              {
+                "t": "p",
+                "x": "要点：展示参考图，不如说清“只从中取这一点”。把要取的和不要取的分别列成清单。给每张参考图一项任务——两到三张角色不同的参考图效果最好。出现偏差时，一次只改一两处，并说明“其他保持不变”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un comando convierte un marco\nde Figma en un bloque de AEM",
-          "body": "Un kit de código abierto convierte el enlace de un marco de Figma en un bloque de AEM con JS, CSS y modelo de editor.",
-          "mini_headline": "De marco de Figma a bloque de AEM",
+          "headline": "Misma petición a Claude,\ncuatro formas de dar referencias",
+          "body": "Una prueba ejecutó cuatro veces la misma petición de diseño a Claude y solo cambió la entrega de referencias.",
+          "mini_headline": "Claude y la entrega de referencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Si creas sitios en AEM Edge Delivery Services (EDS), un diseñador te envía un enlace de Figma y tú reconstruyes el marco a mano como bloque: JS con decorate(), CSS con ámbito y un modelo de Universal Editor. aem-eds-kit lo convierte en un solo comando: eds block from-design \"<Figma frame link>\" --name hero."
+                "x": "Si le pides un diseño a Claude, a menudo obtienes algo que parece una plantilla ya vista. Por eso, el autor mantuvo idéntica la petición —una imagen para el feed de Instagram (1080×1350) que anuncia el nuevo “Lemonade” del menú de ONGI Coffee, una pequeña cafetería de Paju, Corea, en un único archivo HTML— y solo cambió la forma de entregar las referencias. Herramienta: Claude Code, octubre de 2026."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
-                "cap": "Un diseño junto al bloque de EDS que eds generó a partir de él"
-              },
-              {
-                "t": "p",
-                "x": "eds lee el marco (diseño, Auto Layout, estilos de texto, Variables, variantes y anchos de marco) mediante la REST API de Figma o a través del servidor Figma MCP de tu agente, y lo guarda en caché. Construye un prompt con las reglas de EDS, los 17 tipos de campo de Universal Editor y los design tokens de tu proyecto, y el agente de programación con IA que ya usas (Claude Code, Cursor o Codex) escribe el bloque: eds no incluye un modelo propio."
-              },
-              {
-                "t": "p",
-                "x": "Después comprueba el resultado: que los archivos existan, que decorate() se exporte, que el CSS tenga ámbito limitado al bloque y que el modelo de Universal Editor sea válido. El resultado es hero.js, hero.css, un modelo de Universal Editor _hero.json y una página de vista previa, con textos y huecos de imagen provisionales hasta que los autores los completen."
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+                "cap": "LV1 — solo la petición. Limpio, pero parece una plantilla."
               },
               {
                 "t": "img",
-                "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
-                "cap": "La vista previa del bloque en el navegador"
-              },
-              {
-                "t": "p",
-                "x": "eds block preview, check y test muestran el bloque en los anchos de marco, comprueban la accesibilidad y ejecutan pruebas de regresión visual. eds hace una sola llamada a Figma por bloque y después usa una caché para no superar los límites de uso de Figma. La CLI también admite páginas de Framer y Google Stitch y funciona con un modelo local (Ollama, oMLX). Tiene licencia MIT (MIT-licensed) y no está afiliada a Adobe ni a Figma."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "vercel-mcp-deploy-card",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Vercel 배포 현황,\nChatGPT 속 카드로",
-      "body": "Vercel MCP가 ChatGPT에 상태·빌드 로그를 담은 배포 카드를 띄운다.",
-      "mini_headline": "ChatGPT 속 Vercel 카드",
-      "tool": "Figma",
-      "source": "Vercel",
-      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Vercel MCP가 이제 ChatGPT 등 MCP Apps를 지원하는 채팅 클라이언트 안에서 배포 현황을 인터랙티브 카드로 보여 준다."
-          },
-          {
-            "t": "video",
-            "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-          },
-          {
-            "t": "p",
-            "x": "카드에는 실시간 배포 상태와 빌드 로그, 소스·커밋 정보가 뜨고 배포 URL이 준비되면 Visit 버튼이 생긴다. 로그를 채팅으로 넘겨 모델과 함께 디버깅해도 되고 전체 화면 보기로 카드 아래 로그를 읽어도 된다. 저장소 하나가 여러 프로젝트에 연결돼 있으면 프로젝트 목록에서 골라 전환한다."
-          },
-          {
-            "t": "p",
-            "x": "이 카드는 Vercel MCP가 MCP Apps 확장 위에 만든 첫 MCP App이다. 앱을 지원하지 않는 클라이언트에는 배포 상태, 미리보기 URL, 커밋이 텍스트로 간다. open_deployments 도구로는 프로젝트, 저장소, 커밋 기준으로 배포를 찾고 환경별로 걸러 볼 수도 있다. ChatGPT에서는 Connectors 설정에서 Vercel MCP를 연결한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Vercel deployments now show\nas cards inside ChatGPT",
-          "body": "Vercel MCP now renders interactive deployment cards in ChatGPT, putting status, build logs and debugging in the chat.",
-          "mini_headline": "Vercel cards in ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, or open the fullscreen view to read them beneath the card. For repositories linked to multiple projects, a project list lets you switch between them."
-              },
-              {
-                "t": "p",
-                "x": "The card is Vercel MCP's first MCP App, built on the MCP Apps extension. Clients without app support receive the deployment state, preview URL, and commit as text instead. The open_deployments tool looks up deployments by project, repository, or commit, with environment filtering. ChatGPT connects to Vercel MCP through its Connectors setup."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Vercel 배포 현황,\nChatGPT 속 카드로",
-          "body": "Vercel MCP가 ChatGPT에 상태·빌드 로그를 담은 배포 카드를 띄운다.",
-          "mini_headline": "ChatGPT 속 Vercel 카드",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCP가 이제 ChatGPT 등 MCP Apps를 지원하는 채팅 클라이언트 안에서 배포 현황을 인터랙티브 카드로 보여 준다."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "카드에는 실시간 배포 상태와 빌드 로그, 소스·커밋 정보가 뜨고 배포 URL이 준비되면 Visit 버튼이 생긴다. 로그를 채팅으로 넘겨 모델과 함께 디버깅해도 되고 전체 화면 보기로 카드 아래 로그를 읽어도 된다. 저장소 하나가 여러 프로젝트에 연결돼 있으면 프로젝트 목록에서 골라 전환한다."
-              },
-              {
-                "t": "p",
-                "x": "이 카드는 Vercel MCP가 MCP Apps 확장 위에 만든 첫 MCP App이다. 앱을 지원하지 않는 클라이언트에는 배포 상태, 미리보기 URL, 커밋이 텍스트로 간다. open_deployments 도구로는 프로젝트, 저장소, 커밋 기준으로 배포를 찾고 환경별로 걸러 볼 수도 있다. ChatGPT에서는 Connectors 설정에서 Vercel MCP를 연결한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Vercelのデプロイが\nChatGPT内のカードに",
-          "body": "Vercel MCPがChatGPT内に状態やビルドログを示すデプロイカードを表示する。",
-          "mini_headline": "ChatGPT内のVercelカード",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCPは、ChatGPTをはじめMCP Appsに対応したチャットクライアント内で、デプロイをインタラクティブなカードとして表示できるようになった。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "カードにはデプロイのライブ状況、ビルドログ、ソースとコミットの詳細が表示され、デプロイURLの準備ができるとVisitボタンが現れる。ログをチャットに送ってモデルと一緒にデバッグしたり、全画面表示を開いてカードの下でログを読んだりできる。複数のプロジェクトにリンクされたリポジトリでは、プロジェクト一覧から切り替えられる。"
-              },
-              {
-                "t": "p",
-                "x": "このカードはVercel MCP初のMCP Appで、MCP Apps拡張の上に構築されている。アプリ非対応のクライアントには、デプロイ状態、プレビューURL、コミットがテキストで届く。open_deploymentsツールはプロジェクト、リポジトリ、コミットでデプロイを検索でき、環境で絞り込める。ChatGPTはConnectorsの設定からVercel MCPに接続する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Vercel部署现可在\nChatGPT中以卡片呈现",
-          "body": "Vercel MCP现可在ChatGPT中呈现交互式部署卡片，显示状态与构建日志。",
-          "mini_headline": "ChatGPT中的Vercel卡片",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCP现在可以在ChatGPT以及其他支持MCP Apps的聊天客户端中，以交互式卡片的形式展示你的部署。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "卡片显示实时部署状态、构建日志以及来源和提交详情，部署URL就绪后还会出现Visit按钮。你可以把日志发送到聊天中与模型一起调试，也可以打开全屏视图，在卡片下方阅读日志。如果一个仓库关联了多个项目，可通过项目列表在它们之间切换。"
-              },
-              {
-                "t": "p",
-                "x": "这张卡片是Vercel MCP的首个MCP App，基于MCP Apps扩展构建。不支持应用的客户端会以文本形式收到部署状态、预览URL和提交信息。open_deployments工具可按项目、仓库或提交查找部署，并支持按环境筛选。ChatGPT通过其Connectors设置连接Vercel MCP。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Vercel muestra sus despliegues\ncomo tarjetas en ChatGPT",
-          "body": "Vercel MCP muestra en ChatGPT tarjetas interactivas de despliegue con estado, registros de compilación y depuración.",
-          "mini_headline": "Tarjetas de Vercel en ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCP ya puede mostrar tus despliegues como una tarjeta interactiva dentro de ChatGPT y de otros clientes de chat compatibles con MCP Apps."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "La tarjeta muestra el estado del despliegue en directo, los registros de compilación y los detalles del origen y del commit, con un botón Visit cuando la URL del despliegue está lista. Puedes enviar los registros al chat para depurar con el modelo o abrir la vista a pantalla completa para leerlos debajo de la tarjeta. En los repositorios vinculados a varios proyectos, una lista de proyectos permite cambiar entre ellos."
-              },
-              {
-                "t": "p",
-                "x": "La tarjeta es la primera MCP App de Vercel MCP, construida sobre la extensión MCP Apps. Los clientes sin compatibilidad con apps reciben en su lugar el estado del despliegue, la URL de vista previa y el commit como texto. La herramienta open_deployments busca despliegues por proyecto, repositorio o commit, con filtrado por entorno. ChatGPT se conecta a Vercel MCP mediante su configuración de Connectors."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Vercel 배포 현황,\nChatGPT 속 카드로",
-          "body": "Vercel MCP가 ChatGPT에 상태·빌드 로그를 담은 배포 카드를 띄운다.",
-          "mini_headline": "ChatGPT 속 Vercel 카드",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "이제 Vercel MCP는 ChatGPT를 비롯해 MCP Apps를 지원하는 채팅 클라이언트 안에서 배포 현황을 인터랙티브 카드로 보여 준다."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "카드에는 실시간 배포 상태, 빌드 로그, 소스와 커밋 정보가 표시되고, 배포 URL이 준비되면 Visit 버튼이 나타난다. 로그를 채팅으로 보내 모델과 함께 디버깅하거나, 전체 화면 보기를 열어 카드 아래에서 로그를 읽을 수 있다. 저장소 하나가 여러 프로젝트에 연결돼 있으면 프로젝트 목록에서 전환하면 된다."
-              },
-              {
-                "t": "p",
-                "x": "이 카드는 MCP Apps 확장 위에 만든 Vercel MCP의 첫 MCP App이다. 앱을 지원하지 않는 클라이언트는 배포 상태, 미리보기 URL, 커밋을 텍스트로 받는다. open_deployments 도구는 프로젝트, 저장소, 커밋 기준으로 배포를 찾고 환경별 필터링도 지원한다. ChatGPT는 Connectors 설정을 통해 Vercel MCP에 연결한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Vercelのデプロイが\nChatGPT内のカードに",
-          "body": "Vercel MCPがChatGPT内に状態やビルドログを示すデプロイカードを表示する。",
-          "mini_headline": "ChatGPT内のVercelカード",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCPは、ChatGPTをはじめMCP Appsに対応したチャットクライアント内で、デプロイをインタラクティブなカードとして表示できるようになった。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "カードにはデプロイのライブ状況、ビルドログ、ソースとコミットの詳細が表示され、デプロイURLの準備ができるとVisitボタンが現れる。ログをチャットに送ってモデルと一緒にデバッグしたり、全画面表示を開いてカードの下でログを読んだりできる。複数のプロジェクトにリンクされたリポジトリでは、プロジェクト一覧から切り替えられる。"
-              },
-              {
-                "t": "p",
-                "x": "このカードはVercel MCP初のMCP Appで、MCP Apps拡張の上に構築されている。アプリ非対応のクライアントには、デプロイ状態、プレビューURL、コミットがテキストで届く。open_deploymentsツールはプロジェクト、リポジトリ、コミットでデプロイを検索でき、環境で絞り込める。ChatGPTはConnectorsの設定からVercel MCPに接続する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Vercel部署现可在\nChatGPT中以卡片呈现",
-          "body": "Vercel MCP现可在ChatGPT中呈现交互式部署卡片，显示状态与构建日志。",
-          "mini_headline": "ChatGPT中的Vercel卡片",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCP现在可以在ChatGPT以及其他支持MCP Apps的聊天客户端中，以交互式卡片的形式展示你的部署。"
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "卡片显示实时部署状态、构建日志以及来源和提交详情，部署URL就绪后还会出现Visit按钮。你可以把日志发送到聊天中与模型一起调试，也可以打开全屏视图，在卡片下方阅读日志。如果一个仓库关联了多个项目，可通过项目列表在它们之间切换。"
-              },
-              {
-                "t": "p",
-                "x": "这张卡片是Vercel MCP的首个MCP App，基于MCP Apps扩展构建。不支持应用的客户端会以文本形式收到部署状态、预览URL和提交信息。open_deployments工具可按项目、仓库或提交查找部署，并支持按环境筛选。ChatGPT通过其Connectors设置连接Vercel MCP。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Vercel muestra sus despliegues\ncomo tarjetas en ChatGPT",
-          "body": "Vercel MCP muestra en ChatGPT tarjetas interactivas de despliegue con estado, registros de compilación y depuración.",
-          "mini_headline": "Tarjetas de Vercel en ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Vercel MCP ya puede mostrar tus despliegues como una tarjeta interactiva dentro de ChatGPT y de otros clientes de chat compatibles con MCP Apps."
-              },
-              {
-                "t": "video",
-                "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
-              },
-              {
-                "t": "p",
-                "x": "La tarjeta muestra el estado del despliegue en directo, los registros de compilación y los detalles del origen y del commit, con un botón Visit cuando la URL del despliegue está lista. Puedes enviar los registros al chat para depurar con el modelo o abrir la vista a pantalla completa para leerlos debajo de la tarjeta. En los repositorios vinculados a varios proyectos, una lista de proyectos permite cambiar entre ellos."
-              },
-              {
-                "t": "p",
-                "x": "La tarjeta es la primera MCP App de Vercel MCP, construida sobre la extensión MCP Apps. Los clientes sin compatibilidad con apps reciben en su lugar el estado del despliegue, la URL de vista previa y el commit como texto. La herramienta open_deployments busca despliegues por proyecto, repositorio o commit, con filtrado por entorno. ChatGPT se conecta a Vercel MCP mediante su configuración de Connectors."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "eleken-code-prototyping",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Figma 목업의 한계,\nEleken은 코드로 푼다",
-      "body": "Eleken은 실제 컴포넌트로 시제품을 만들어 정적 목업이 숨긴 상태를 시험한다.",
-      "mini_headline": "Eleken의 코드 프로토타입",
-      "tool": "AI Workflow",
-      "source": "Eleken",
-      "url": "https://www.eleken.co/blog-posts/code-based-prototyping",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-          },
-          {
-            "t": "p",
-            "x": "목업은 승인됐다. 개발이 시작되자 질문이 쏟아졌다. Eleken은 여러 SaaS 프로젝트에서 같은 문제를 겪는다. Figma가 늘 깔끔하게 코드로 옮겨지지는 않고, 인터랙션은 실제로 구현하면 다르게 움직인다. 결국 디자인 결정은 구현하던 개발자 몫이 된다. 그래서 코드 기반 프로토타이핑이 Eleken의 프로세스에 자리 잡았다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-            "cap": "Claude로 생성한 품질 관리 대시보드 프로토타입 Quality Task Center"
-          },
-          {
-            "t": "p",
-            "x": "코드 기반 프로토타이핑은 실제 코드로, 대개 실제 제품과 같은 컴포넌트를 써서 작동하는 제품 버전을 만드는 일이다. “Figma는 제품이 어떻게 작동해야 하는지 보여 준다. 코드로 만든 프로토타입은 그것이 어떻게 작동하는지 시험하게 해 준다.” 널리 인용되는 IBM 수치를 보면 결함 수정의 상대 비용은 설계 단계 1배, 구현 단계 6.5배, 테스트 단계 15배다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-            "cap": "소프트웨어 결함 수정의 상대 비용"
-          },
-          {
-            "t": "p",
-            "x": "Eleken 디자이너들은 고객사 저장소에서 Claude Code 같은 도구로 일한다. 제품을 로컬에서 돌리고 별도 브랜치에서 플로를 만들며, 브라우저에서 고쳐 가며 라이브 미리보기를 공유한다. 승인된 작업은 Pull Request로 고객사 엔지니어에게 넘어가고, 프로덕션 배포는 Eleken이 하지 않는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-            "cap": "Eleken 디자이너가 만든 GitHub의 Claude Code 스킬"
-          },
-          {
-            "t": "p",
-            "x": "AI 덕분에 이 워크플로는 훨씬 빨라졌지만 저절로 굴러가지는 않는다. Claude Code 같은 도구는 코드베이스를 잘못 읽거나 없는 기능을 지어내고 오류를 끼워 넣기도 한다. 디자이너가 여전히 AI의 결과물을 검토해야 하는 이유다."
-          },
-          {
-            "t": "video",
-            "yt": "lGDHajtmcIE"
-          },
-          {
-            "t": "p",
-            "x": "프로토타입이 기존 코드베이스 안에 있어야 한다면 Cursor와 Claude Code가 맞다. 충실도는 팀이 이미 가진 도구가 아니라 검증하려는 질문을 보고 골라야 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Eleken prototypes in code\nwhen Figma mockups fall short",
-          "body": "Eleken now prototypes with real components, including Claude-generated dashboards, to test states static mockups hide.",
-          "mini_headline": "Eleken on code prototypes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "The mockup was approved. Then development started, and the questions began. Across SaaS projects, Eleken sees the same problems: Figma doesn't always translate cleanly into code, interactions behave differently once they're real, and developers end up making design decisions during implementation. That's why code-based prototyping has become part of its process."
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+                "cap": "LV2 — dos referencias adjuntas. Las dos imágenes se mezclaron al azar."
               },
               {
                 "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Quality Task Center, a Claude-generated quality management dashboard prototype"
-              },
-              {
-                "t": "p",
-                "x": "Code-based prototyping means building a working version of the product in real code, often with the same components as the actual product. \"Figma shows how a product should work. A coded prototype lets you test how it works.\" Widely cited IBM figures put the relative cost of fixing a defect at 1× during design, 6.5× during implementation, and 15× during testing."
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+                "cap": "LV3 — referencias + unas líneas sobre qué tomar. El tono de la marca se notó."
               },
               {
                 "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "Relative Costs to Fix Software Defects"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+                "cap": "LV3+ — una foto real + una corrección. Listo para publicar."
               },
               {
                 "t": "p",
-                "x": "Eleken's designers work with tools like Claude Code in the client's repository, run the product locally, build the flow in a separate branch, iterate in the browser and share live previews. Approved work reaches the client's engineers as a Pull Request; Eleken doesn't deploy to production."
+                "x": "Cada nivel se ejecutó dos veces más (9 ejecuciones). La tendencia se mantuvo: adjuntar referencias (LV2) cambió menos que añadir unas líneas sobre ellas (LV3)."
               },
               {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Claude Code skill on GitHub created by Eleken designer"
-              },
-              {
-                "t": "p",
-                "x": "AI makes this workflow much faster, but it doesn't make it automatic: Claude Code and similar tools can misunderstand the codebase, invent functionality or introduce errors, so the designer still needs to review what the AI produces."
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "Cursor and Claude Code fit when the prototype must live in an existing codebase. Pick fidelity by the question you're testing, not by the tool your team already owns."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Figma 목업의 한계,\nEleken은 코드로 푼다",
-          "body": "Eleken은 실제 컴포넌트로 시제품을 만들어 정적 목업이 숨긴 상태를 시험한다.",
-          "mini_headline": "Eleken의 코드 프로토타입",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "목업은 승인됐다. 개발이 시작되자 질문이 쏟아졌다. Eleken은 여러 SaaS 프로젝트에서 같은 문제를 겪는다. Figma가 늘 깔끔하게 코드로 옮겨지지는 않고, 인터랙션은 실제로 구현하면 다르게 움직인다. 결국 디자인 결정은 구현하던 개발자 몫이 된다. 그래서 코드 기반 프로토타이핑이 Eleken의 프로세스에 자리 잡았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Claude로 생성한 품질 관리 대시보드 프로토타입 Quality Task Center"
-              },
-              {
-                "t": "p",
-                "x": "코드 기반 프로토타이핑은 실제 코드로, 대개 실제 제품과 같은 컴포넌트를 써서 작동하는 제품 버전을 만드는 일이다. “Figma는 제품이 어떻게 작동해야 하는지 보여 준다. 코드로 만든 프로토타입은 그것이 어떻게 작동하는지 시험하게 해 준다.” 널리 인용되는 IBM 수치를 보면 결함 수정의 상대 비용은 설계 단계 1배, 구현 단계 6.5배, 테스트 단계 15배다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "소프트웨어 결함 수정의 상대 비용"
-              },
-              {
-                "t": "p",
-                "x": "Eleken 디자이너들은 고객사 저장소에서 Claude Code 같은 도구로 일한다. 제품을 로컬에서 돌리고 별도 브랜치에서 플로를 만들며, 브라우저에서 고쳐 가며 라이브 미리보기를 공유한다. 승인된 작업은 Pull Request로 고객사 엔지니어에게 넘어가고, 프로덕션 배포는 Eleken이 하지 않는다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Eleken 디자이너가 만든 GitHub의 Claude Code 스킬"
-              },
-              {
-                "t": "p",
-                "x": "AI 덕분에 이 워크플로는 훨씬 빨라졌지만 저절로 굴러가지는 않는다. Claude Code 같은 도구는 코드베이스를 잘못 읽거나 없는 기능을 지어내고 오류를 끼워 넣기도 한다. 디자이너가 여전히 AI의 결과물을 검토해야 하는 이유다."
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "프로토타입이 기존 코드베이스 안에 있어야 한다면 Cursor와 Claude Code가 맞다. 충실도는 팀이 이미 가진 도구가 아니라 검증하려는 질문을 보고 골라야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figmaモックの限界を\nElekenはコードで補う",
-          "body": "Elekenは実際のコンポーネントで試作し、静的モックでは見えない状態を検証する。",
-          "mini_headline": "Elekenのコードプロトタイプ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "モックアップは承認された。だが開発が始まると、疑問が次々に出てきた。ElekenはさまざまなSaaSプロジェクトで同じ問題を目にしている。Figmaは必ずしもきれいにコードへ移せるわけではなく、インタラクションは実装すると挙動が変わり、結局は開発者が実装中にデザイン上の判断を下すことになる。そのため、コードベースのプロトタイピングが同社のプロセスの一部になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Claudeで生成した品質管理ダッシュボードのプロトタイプ「Quality Task Center」"
-              },
-              {
-                "t": "p",
-                "x": "コードベースのプロトタイピングとは、実際のコードで、多くの場合は実際の製品と同じコンポーネントを使って、動作する製品を作ることだ。「Figmaは製品がどう動くべきかを示す。コードで作ったプロトタイプは、それが実際にどう動くかを試させてくれる」。広く引用されるIBMの数字では、欠陥修正の相対コストは設計段階で1倍、実装段階で6.5倍、テスト段階で15倍とされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "ソフトウェア欠陥修正の相対コスト"
-              },
-              {
-                "t": "p",
-                "x": "Elekenのデザイナーは、クライアントのリポジトリでClaude Codeなどのツールを使って作業する。製品をローカルで動かし、別ブランチでフローを作り、ブラウザ上で改良を重ね、ライブプレビューを共有する。承認された作業はPull Requestとしてクライアントのエンジニアに渡り、Elekenが本番環境にデプロイすることはない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Elekenのデザイナーが作成したGitHub上のClaude Codeスキル"
-              },
-              {
-                "t": "p",
-                "x": "AIによってこのワークフローは大幅に速くなったが、自動化されるわけではない。Claude Codeなどのツールはコードベースを誤解したり、存在しない機能をでっち上げたり、エラーを持ち込んだりすることがあるため、AIの出力はやはりデザイナーが確認する必要がある。"
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "プロトタイプを既存のコードベース内で動かす必要があるなら、CursorやClaude Codeが向いている。忠実度は、チームがすでに持っているツールではなく、検証したい問いに合わせて選ぶべきだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma设计稿不够时\nEleken改用代码原型",
-          "body": "Eleken改用真实组件制作原型，包括Claude生成的仪表盘，以测试静态稿隐藏的状态。",
-          "mini_headline": "Eleken谈代码原型",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "设计稿获得了批准。随后开发启动，问题也接踵而来。在多个SaaS项目中，Eleken反复遇到同样的问题：Figma并不总能干净地转化为代码，交互一旦真正实现就会表现不同，开发者最终要在实现过程中做设计决策。正因如此，基于代码的原型设计成了其流程的一部分。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Quality Task Center，一个由Claude生成的质量管理仪表盘原型"
-              },
-              {
-                "t": "p",
-                "x": "基于代码的原型设计，是指用真实代码构建产品的可运行版本，通常使用与实际产品相同的组件。“Figma展示产品应该如何运作，代码原型则让你测试它实际如何运作。”被广泛引用的IBM数据显示，修复缺陷的相对成本在设计阶段为1倍，实现阶段为6.5倍，测试阶段为15倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "修复软件缺陷的相对成本"
-              },
-              {
-                "t": "p",
-                "x": "Eleken的设计师在客户的代码仓库中使用Claude Code等工具工作：在本地运行产品，在独立分支中构建流程，在浏览器中迭代，并分享实时预览。获批的工作以Pull Request的形式交给客户的工程师；Eleken不会部署到生产环境。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Eleken设计师在GitHub上创建的Claude Code技能"
-              },
-              {
-                "t": "p",
-                "x": "AI让这一工作流程快了很多，但并没有让它自动化：Claude Code等工具可能误解代码库、凭空编造功能或引入错误，因此设计师仍需审查AI产出的内容。"
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "当原型必须存在于现有代码库中时，Cursor和Claude Code是合适的选择。应根据要测试的问题来选择保真度，而不是根据团队已有的工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Eleken prototipa en código\ncuando Figma se queda corto",
-          "body": "Eleken prototipa con componentes reales y paneles creados con Claude para probar estados que las maquetas ocultan.",
-          "mini_headline": "Eleken y los prototipos en código",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "La maqueta estaba aprobada. Luego empezó el desarrollo y llegaron las preguntas. En sus proyectos SaaS, Eleken ve los mismos problemas: Figma no siempre se traduce limpiamente a código, las interacciones se comportan de otra manera cuando son reales y los desarrolladores acaban tomando decisiones de diseño durante la implementación. Por eso el prototipado basado en código se ha convertido en parte de su proceso."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Quality Task Center, un prototipo de panel de gestión de calidad generado con Claude"
-              },
-              {
-                "t": "p",
-                "x": "El prototipado basado en código consiste en construir una versión funcional del producto con código real, a menudo con los mismos componentes que el producto final. “Figma muestra cómo debería funcionar un producto. Un prototipo en código permite probar cómo funciona”. Según cifras de IBM muy citadas, el costo relativo de corregir un defecto es de 1× durante el diseño, 6,5× durante la implementación y 15× durante las pruebas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "Costos relativos de corregir defectos de software"
-              },
-              {
-                "t": "p",
-                "x": "Los diseñadores de Eleken trabajan con herramientas como Claude Code en el repositorio del cliente: ejecutan el producto en local, construyen el flujo en una rama aparte, iteran en el navegador y comparten vistas previas en vivo. El trabajo aprobado llega a los ingenieros del cliente como Pull Request; Eleken no despliega en producción."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Skill de Claude Code en GitHub creada por un diseñador de Eleken"
-              },
-              {
-                "t": "p",
-                "x": "La IA hace este flujo de trabajo mucho más rápido, pero no lo vuelve automático: Claude Code y herramientas similares pueden malinterpretar la base de código, inventar funcionalidades o introducir errores, así que el diseñador aún debe revisar lo que produce la IA."
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "Cursor y Claude Code encajan cuando el prototipo debe vivir en una base de código existente. Elige la fidelidad según la pregunta que estás probando, no según la herramienta que tu equipo ya tiene."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Figma 목업의 한계,\nEleken은 코드로 푼다",
-          "body": "Eleken은 실제 컴포넌트로 시제품을 만들어 정적 목업이 숨긴 상태를 시험한다.",
-          "mini_headline": "Eleken의 코드 프로토타입",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "목업은 승인됐다. 그리고 개발이 시작되자 질문이 쏟아지기 시작했다. Eleken은 여러 SaaS 프로젝트에서 같은 문제를 본다. Figma가 늘 코드로 깔끔하게 옮겨지지는 않고, 인터랙션은 실제로 구현되면 다르게 움직이며, 결국 개발자가 구현 과정에서 디자인 결정을 내리게 된다. 그래서 코드 기반 프로토타이핑이 Eleken의 프로세스에 자리 잡았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Claude로 생성한 품질 관리 대시보드 프로토타입 Quality Task Center"
-              },
-              {
-                "t": "p",
-                "x": "코드 기반 프로토타이핑은 실제 코드로, 대개 실제 제품과 같은 컴포넌트를 써서 작동하는 제품 버전을 만드는 것을 뜻한다. “Figma는 제품이 어떻게 작동해야 하는지 보여 준다. 코드로 만든 프로토타입은 그것이 어떻게 작동하는지 시험하게 해 준다.” 널리 인용되는 IBM 수치에 따르면 결함 수정의 상대 비용은 설계 단계에서 1배, 구현 단계에서 6.5배, 테스트 단계에서 15배다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "소프트웨어 결함 수정의 상대 비용"
-              },
-              {
-                "t": "p",
-                "x": "Eleken 디자이너들은 고객사 저장소에서 Claude Code 같은 도구로 작업한다. 제품을 로컬에서 실행하고, 별도 브랜치에서 플로를 만들고, 브라우저에서 반복 수정하며 라이브 미리보기를 공유한다. 승인된 작업은 Pull Request 형태로 고객사 엔지니어에게 전달되며, Eleken은 프로덕션에 배포하지 않는다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Eleken 디자이너가 만든 GitHub의 Claude Code 스킬"
-              },
-              {
-                "t": "p",
-                "x": "AI 덕분에 이 워크플로는 훨씬 빨라졌지만 자동이 되지는 않는다. Claude Code 같은 도구는 코드베이스를 오해하거나, 없는 기능을 지어내거나, 오류를 끼워 넣을 수 있어서 디자이너가 여전히 AI의 결과물을 검토해야 한다."
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "프로토타입이 기존 코드베이스 안에 있어야 한다면 Cursor와 Claude Code가 맞다. 충실도는 팀이 이미 가진 도구가 아니라 검증하려는 질문에 따라 골라야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figmaモックの限界を\nElekenはコードで補う",
-          "body": "Elekenは実際のコンポーネントで試作し、静的モックでは見えない状態を検証する。",
-          "mini_headline": "Elekenのコードプロトタイプ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "モックアップは承認された。だが開発が始まると、疑問が次々に出てきた。ElekenはさまざまなSaaSプロジェクトで同じ問題を目にしている。Figmaは必ずしもきれいにコードへ移せるわけではなく、インタラクションは実装すると挙動が変わり、結局は開発者が実装中にデザイン上の判断を下すことになる。そのため、コードベースのプロトタイピングが同社のプロセスの一部になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Claudeで生成した品質管理ダッシュボードのプロトタイプ「Quality Task Center」"
-              },
-              {
-                "t": "p",
-                "x": "コードベースのプロトタイピングとは、実際のコードで、多くの場合は実際の製品と同じコンポーネントを使って、動作する製品を作ることだ。「Figmaは製品がどう動くべきかを示す。コードで作ったプロトタイプは、それが実際にどう動くかを試させてくれる」。広く引用されるIBMの数字では、欠陥修正の相対コストは設計段階で1倍、実装段階で6.5倍、テスト段階で15倍とされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "ソフトウェア欠陥修正の相対コスト"
-              },
-              {
-                "t": "p",
-                "x": "Elekenのデザイナーは、クライアントのリポジトリでClaude Codeなどのツールを使って作業する。製品をローカルで動かし、別ブランチでフローを作り、ブラウザ上で改良を重ね、ライブプレビューを共有する。承認された作業はPull Requestとしてクライアントのエンジニアに渡り、Elekenが本番環境にデプロイすることはない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Elekenのデザイナーが作成したGitHub上のClaude Codeスキル"
-              },
-              {
-                "t": "p",
-                "x": "AIによってこのワークフローは大幅に速くなったが、自動化されるわけではない。Claude Codeなどのツールはコードベースを誤解したり、存在しない機能をでっち上げたり、エラーを持ち込んだりすることがあるため、AIの出力はやはりデザイナーが確認する必要がある。"
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "プロトタイプを既存のコードベース内で動かす必要があるなら、CursorやClaude Codeが向いている。忠実度は、チームがすでに持っているツールではなく、検証したい問いに合わせて選ぶべきだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma设计稿不够时\nEleken改用代码原型",
-          "body": "Eleken改用真实组件制作原型，包括Claude生成的仪表盘，以测试静态稿隐藏的状态。",
-          "mini_headline": "Eleken谈代码原型",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "设计稿获得了批准。随后开发启动，问题也接踵而来。在多个SaaS项目中，Eleken反复遇到同样的问题：Figma并不总能干净地转化为代码，交互一旦真正实现就会表现不同，开发者最终要在实现过程中做设计决策。正因如此，基于代码的原型设计成了其流程的一部分。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Quality Task Center，一个由Claude生成的质量管理仪表盘原型"
-              },
-              {
-                "t": "p",
-                "x": "基于代码的原型设计，是指用真实代码构建产品的可运行版本，通常使用与实际产品相同的组件。“Figma展示产品应该如何运作，代码原型则让你测试它实际如何运作。”被广泛引用的IBM数据显示，修复缺陷的相对成本在设计阶段为1倍，实现阶段为6.5倍，测试阶段为15倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "修复软件缺陷的相对成本"
-              },
-              {
-                "t": "p",
-                "x": "Eleken的设计师在客户的代码仓库中使用Claude Code等工具工作：在本地运行产品，在独立分支中构建流程，在浏览器中迭代，并分享实时预览。获批的工作以Pull Request的形式交给客户的工程师；Eleken不会部署到生产环境。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Eleken设计师在GitHub上创建的Claude Code技能"
-              },
-              {
-                "t": "p",
-                "x": "AI让这一工作流程快了很多，但并没有让它自动化：Claude Code等工具可能误解代码库、凭空编造功能或引入错误，因此设计师仍需审查AI产出的内容。"
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "当原型必须存在于现有代码库中时，Cursor和Claude Code是合适的选择。应根据要测试的问题来选择保真度，而不是根据团队已有的工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Eleken prototipa en código\ncuando Figma se queda corto",
-          "body": "Eleken prototipa con componentes reales y paneles creados con Claude para probar estados que las maquetas ocultan.",
-          "mini_headline": "Eleken y los prototipos en código",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
-              },
-              {
-                "t": "p",
-                "x": "La maqueta estaba aprobada. Luego empezó el desarrollo y llegaron las preguntas. En sus proyectos SaaS, Eleken ve los mismos problemas: Figma no siempre se traduce limpiamente a código, las interacciones se comportan de otra manera cuando son reales y los desarrolladores acaban tomando decisiones de diseño durante la implementación. Por eso el prototipado basado en código se ha convertido en parte de su proceso."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
-                "cap": "Quality Task Center, un prototipo de panel de gestión de calidad generado con Claude"
-              },
-              {
-                "t": "p",
-                "x": "El prototipado basado en código consiste en construir una versión funcional del producto con código real, a menudo con los mismos componentes que el producto final. “Figma muestra cómo debería funcionar un producto. Un prototipo en código permite probar cómo funciona”. Según cifras de IBM muy citadas, el costo relativo de corregir un defecto es de 1× durante el diseño, 6,5× durante la implementación y 15× durante las pruebas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
-                "cap": "Costos relativos de corregir defectos de software"
-              },
-              {
-                "t": "p",
-                "x": "Los diseñadores de Eleken trabajan con herramientas como Claude Code en el repositorio del cliente: ejecutan el producto en local, construyen el flujo en una rama aparte, iteran en el navegador y comparten vistas previas en vivo. El trabajo aprobado llega a los ingenieros del cliente como Pull Request; Eleken no despliega en producción."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
-                "cap": "Skill de Claude Code en GitHub creada por un diseñador de Eleken"
-              },
-              {
-                "t": "p",
-                "x": "La IA hace este flujo de trabajo mucho más rápido, pero no lo vuelve automático: Claude Code y herramientas similares pueden malinterpretar la base de código, inventar funcionalidades o introducir errores, así que el diseñador aún debe revisar lo que produce la IA."
-              },
-              {
-                "t": "video",
-                "yt": "lGDHajtmcIE"
-              },
-              {
-                "t": "p",
-                "x": "Cursor y Claude Code encajan cuando el prototipo debe vivir en una base de código existente. Elige la fidelidad según la pregunta que estás probando, no según la herramienta que tu equipo ya tiene."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "creativebloq-ai-poster-font",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI-made 포스터임을\n드러내는 붓글씨체",
-      "body": "비스듬한 붓글씨체가 카페와 마을회관에 붙은 AI 포스터의 표식이 됐다.",
-      "mini_headline": "AI 포스터 서체",
-      "tool": "AI Workflow",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-            "cap": "AI는 왜 이 서체에 집착할까? (이미지 출처: Future)"
-          },
-          {
-            "t": "p",
-            "x": "AI로 생성한(AI-generated) 아트는 이제 온라인 밖에도 널렸다. 누가 봐도 AI로 만든 포스터가 카페와 식당, 심지어 동네 마을회관에까지 붙는다. 매번 정체를 들키게 하는 건 서체다. 거친 붓 터치에 살짝 위로 기운 기울기. 시끄럽고 요란한 데다 어디에나 있어서 이제 사람들은 이 서체를 Comic Sans에 견준다."
-          },
-          {
-            "t": "p",
-            "x": "디자이너를 쓸 여력이 없는 소상공인이라면 AI가 처음 내놓은 결과물 하나로 만족할 수도 있다. 하지만 Comic Sans는 목적을 갖고 손으로 만든 서체였다. Carrick Signs의 Mandy Roscoe에 따르면 이 서체는 “공식 안내문을 꾸미려는 것이 아니라 만화 속 격식 없는 손글씨 말투를 흉내 내려고” 만들어졌다."
-          },
-          {
-            "t": "p",
-            "x": "이유를 묻자 ChatGPT는 이미지 생성기가 수많은 포스터, 광고, YouTube 썸네일에서 굵은 붓글씨풍 레터링을 눈길 끄는 디자인과 엮었을 뿐, 반드시 실제 서체를 고르는 것은 아니라고 답했다. 손으로 쓴 듯 반항적으로 보이려던 타이포그래피가 이제는 누가 봐도 인공적으로 보인다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "The brush-script font that\ngives away AI-made posters",
-          "body": "A slanted brush-script typeface has become the giveaway of AI-generated posters in cafes and village halls.",
-          "mini_headline": "The AI poster font",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "Why is AI obsessed with this font? (Image credit: Future)"
-              },
-              {
-                "t": "p",
-                "x": "AI-generated art is everywhere, and not just online: blatantly AI posters are popping up in cafes, restaurants and even local village halls. And there's one thing that gives it away every time: that font. Aggressive brush strokes. A slight upward slant. It's loud, it's shouty, and it's everywhere, and people are now comparing it to Comic Sans."
-              },
-              {
-                "t": "p",
-                "x": "Small businesses without the resources to hire a designer may be happy to make do with one of the first things AI spits out. But Comic Sans was handmade for a purpose: Carrick Signs' Mandy Roscoe says it was made to “mimic informal, handwritten speech in cartoons, not to decorate official notices.”"
-              },
-              {
-                "t": "p",
-                "x": "Asked why, ChatGPT said image generators associate bold, brushstroke-style lettering with attention-grabbing design from countless posters, ads and YouTube thumbnails, and aren't necessarily selecting an actual font: typography meant to look handmade and rebellious now looks unmistakably artificial."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-made 포스터임을\n드러내는 붓글씨체",
-          "body": "비스듬한 붓글씨체가 카페와 마을회관에 붙은 AI 포스터의 표식이 됐다.",
-          "mini_headline": "AI 포스터 서체",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "AI는 왜 이 서체에 집착할까? (이미지 출처: Future)"
-              },
-              {
-                "t": "p",
-                "x": "AI로 생성한(AI-generated) 아트는 이제 온라인 밖에도 널렸다. 누가 봐도 AI로 만든 포스터가 카페와 식당, 심지어 동네 마을회관에까지 붙는다. 매번 정체를 들키게 하는 건 서체다. 거친 붓 터치에 살짝 위로 기운 기울기. 시끄럽고 요란한 데다 어디에나 있어서 이제 사람들은 이 서체를 Comic Sans에 견준다."
-              },
-              {
-                "t": "p",
-                "x": "디자이너를 쓸 여력이 없는 소상공인이라면 AI가 처음 내놓은 결과물 하나로 만족할 수도 있다. 하지만 Comic Sans는 목적을 갖고 손으로 만든 서체였다. Carrick Signs의 Mandy Roscoe에 따르면 이 서체는 “공식 안내문을 꾸미려는 것이 아니라 만화 속 격식 없는 손글씨 말투를 흉내 내려고” 만들어졌다."
-              },
-              {
-                "t": "p",
-                "x": "이유를 묻자 ChatGPT는 이미지 생성기가 수많은 포스터, 광고, YouTube 썸네일에서 굵은 붓글씨풍 레터링을 눈길 끄는 디자인과 엮었을 뿐, 반드시 실제 서체를 고르는 것은 아니라고 답했다. 손으로 쓴 듯 반항적으로 보이려던 타이포그래피가 이제는 누가 봐도 인공적으로 보인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-madeポスターの\n正体を明かす筆文字",
-          "body": "斜めに傾いた筆文字の書体が、カフェや村の集会所に貼られたAIポスターの目印になっている。",
-          "mini_headline": "AIポスターの書体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "AIはなぜこの書体に執着するのか?(画像クレジット: Future)"
-              },
-              {
-                "t": "p",
-                "x": "AIが生成したアート(AI-generated)はオンラインに限らず、あらゆる場所にある。明らかにAIで作ったポスターが、カフェやレストラン、さらには地元の村の集会所にまで現れている。そして、毎回それを見破らせるものがひとつある。あの書体だ。荒々しい筆致、わずかに右上がりの傾き。声高でけたたましく、どこにでもあり、今ではComic Sansになぞらえられている。"
-              },
-              {
-                "t": "p",
-                "x": "デザイナーを雇う余裕のない小規模事業者は、AIが最初に出してきたものの一つで済ませることに満足するかもしれない。だがComic Sansは目的を持って手作りされた書体だった。Carrick SignsのMandy Roscoeによれば、それは「公式の告知を飾るためではなく、漫画の中のくだけた手書きの話し言葉をまねるため」に作られたという。"
-              },
-              {
-                "t": "p",
-                "x": "理由を尋ねると、ChatGPTは、画像生成ツールは数え切れないほどのポスターや広告、YouTubeのサムネイルから、太い筆致風のレタリングを人目を引くデザインと結びつけており、必ずしも実在のフォントを選んでいるわけではないと答えた。手作り感があり反骨的に見えるはずだったタイポグラフィが、今では紛れもなく人工的に見えるのだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让AI-made海报\n露馅的毛笔字体",
-          "body": "一种倾斜的毛笔手写字体，已成为咖啡馆和乡村礼堂里AI生成海报的标志。",
-          "mini_headline": "AI海报字体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "AI为何痴迷于这款字体?(图片来源: Future)"
-              },
-              {
-                "t": "p",
-                "x": "AI生成(AI-generated)的艺术无处不在，而且不只在网上：明显由AI制作的海报正出现在咖啡馆、餐厅，甚至当地的乡村礼堂里。每次都有一样东西会暴露它的身份：那款字体。张扬的笔触，略微向上倾斜。它喧闹、刺眼、随处可见，人们如今把它比作Comic Sans。"
-              },
-              {
-                "t": "p",
-                "x": "没有资源聘请设计师的小商家，或许乐于将就使用AI最先生成的结果之一。但Comic Sans是为特定目的手工设计的：Carrick Signs的Mandy Roscoe说，它的设计初衷是“模仿漫画中随意的手写对话，而不是装饰正式通知”。"
-              },
-              {
-                "t": "p",
-                "x": "被问及原因时，ChatGPT表示，图像生成器会把粗犷的笔刷风格字体与无数海报、广告和YouTube缩略图中吸引眼球的设计联系在一起，并不一定是在选择某款真实字体：本想显得手工、叛逆的字体设计，如今看起来却毫无疑问是人造的。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La tipografía de pincel que\ndelata los carteles AI-made",
-          "body": "Una tipografía de pincel inclinada se ha vuelto la seña de los carteles hechos con IA en cafés y salones de pueblo.",
-          "mini_headline": "La tipografía de los carteles con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "¿Por qué la IA está obsesionada con esta tipografía? (Crédito de la imagen: Future)"
-              },
-              {
-                "t": "p",
-                "x": "El arte generado por IA (AI-generated) está en todas partes, y no solo en internet: carteles claramente hechos con IA aparecen en cafés, restaurantes e incluso en salones comunitarios de pueblo. Y hay algo que los delata siempre: esa tipografía. Trazos de pincel agresivos. Una ligera inclinación hacia arriba. Es ruidosa, estridente y está en todas partes, y la gente ya la compara con Comic Sans."
-              },
-              {
-                "t": "p",
-                "x": "Las pequeñas empresas sin recursos para contratar a un diseñador pueden conformarse con una de las primeras cosas que produce la IA. Pero Comic Sans se hizo a mano con un propósito: Mandy Roscoe, de Carrick Signs, dice que se creó para “imitar el habla informal y manuscrita de los cómics, no para decorar avisos oficiales”."
-              },
-              {
-                "t": "p",
-                "x": "Al preguntarle por qué, ChatGPT respondió que los generadores de imágenes asocian las letras gruesas de estilo pincel con el diseño llamativo de innumerables carteles, anuncios y miniaturas de YouTube, y que no necesariamente eligen una fuente real: una tipografía pensada para parecer hecha a mano y rebelde ahora parece inconfundiblemente artificial."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-made 포스터임을\n드러내는 붓글씨체",
-          "body": "비스듬한 붓글씨체가 카페와 마을회관에 붙은 AI 포스터의 표식이 됐다.",
-          "mini_headline": "AI 포스터 서체",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "AI는 왜 이 서체에 집착할까? (이미지 출처: Future)"
-              },
-              {
-                "t": "p",
-                "x": "AI로 생성한(AI-generated) 아트는 온라인만이 아니라 어디에나 있다. 누가 봐도 AI로 만든 포스터가 카페와 식당, 심지어 동네 마을회관에까지 붙고 있다. 그리고 매번 정체를 드러내는 것이 하나 있다. 바로 그 서체다. 거친 붓 터치, 살짝 위로 기운 기울기. 시끄럽고 요란하며 어디에나 있어서, 이제 사람들은 이 서체를 Comic Sans에 견준다."
-              },
-              {
-                "t": "p",
-                "x": "디자이너를 고용할 여력이 없는 소상공인은 AI가 처음 내놓은 결과물 하나로 만족할 수도 있다. 하지만 Comic Sans는 목적을 갖고 손으로 만든 서체였다. Carrick Signs의 Mandy Roscoe는 이 서체가 “공식 안내문을 꾸미려는 것이 아니라 만화 속 격식 없는 손글씨 말투를 흉내 내려고” 만들어졌다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "이유를 묻자 ChatGPT는 이미지 생성기가 수많은 포스터, 광고, YouTube 썸네일을 통해 굵은 붓글씨풍 레터링을 시선을 끄는 디자인과 연결하며, 반드시 실제 서체를 고르는 것은 아니라고 답했다. 손으로 쓴 듯 반항적으로 보이려던 타이포그래피가 이제는 누가 봐도 인공적으로 보인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-madeポスターの\n正体を明かす筆文字",
-          "body": "斜めに傾いた筆文字の書体が、カフェや村の集会所に貼られたAIポスターの目印になっている。",
-          "mini_headline": "AIポスターの書体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "AIはなぜこの書体に執着するのか?(画像クレジット: Future)"
-              },
-              {
-                "t": "p",
-                "x": "AIが生成したアート(AI-generated)はオンラインに限らず、あらゆる場所にある。明らかにAIで作ったポスターが、カフェやレストラン、さらには地元の村の集会所にまで現れている。そして、毎回それを見破らせるものがひとつある。あの書体だ。荒々しい筆致、わずかに右上がりの傾き。声高でけたたましく、どこにでもあり、今ではComic Sansになぞらえられている。"
-              },
-              {
-                "t": "p",
-                "x": "デザイナーを雇う余裕のない小規模事業者は、AIが最初に出してきたものの一つで済ませることに満足するかもしれない。だがComic Sansは目的を持って手作りされた書体だった。Carrick SignsのMandy Roscoeによれば、それは「公式の告知を飾るためではなく、漫画の中のくだけた手書きの話し言葉をまねるため」に作られたという。"
-              },
-              {
-                "t": "p",
-                "x": "理由を尋ねると、ChatGPTは、画像生成ツールは数え切れないほどのポスターや広告、YouTubeのサムネイルから、太い筆致風のレタリングを人目を引くデザインと結びつけており、必ずしも実在のフォントを選んでいるわけではないと答えた。手作り感があり反骨的に見えるはずだったタイポグラフィが、今では紛れもなく人工的に見えるのだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让AI-made海报\n露馅的毛笔字体",
-          "body": "一种倾斜的毛笔手写字体，已成为咖啡馆和乡村礼堂里AI生成海报的标志。",
-          "mini_headline": "AI海报字体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "AI为何痴迷于这款字体?(图片来源: Future)"
-              },
-              {
-                "t": "p",
-                "x": "AI生成(AI-generated)的艺术无处不在，而且不只在网上：明显由AI制作的海报正出现在咖啡馆、餐厅，甚至当地的乡村礼堂里。每次都有一样东西会暴露它的身份：那款字体。张扬的笔触，略微向上倾斜。它喧闹、刺眼、随处可见，人们如今把它比作Comic Sans。"
-              },
-              {
-                "t": "p",
-                "x": "没有资源聘请设计师的小商家，或许乐于将就使用AI最先生成的结果之一。但Comic Sans是为特定目的手工设计的：Carrick Signs的Mandy Roscoe说，它的设计初衷是“模仿漫画中随意的手写对话，而不是装饰正式通知”。"
-              },
-              {
-                "t": "p",
-                "x": "被问及原因时，ChatGPT表示，图像生成器会把粗犷的笔刷风格字体与无数海报、广告和YouTube缩略图中吸引眼球的设计联系在一起，并不一定是在选择某款真实字体：本想显得手工、叛逆的字体设计，如今看起来却毫无疑问是人造的。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La tipografía de pincel que\ndelata los carteles AI-made",
-          "body": "Una tipografía de pincel inclinada se ha vuelto la seña de los carteles hechos con IA en cafés y salones de pueblo.",
-          "mini_headline": "La tipografía de los carteles con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
-                "cap": "¿Por qué la IA está obsesionada con esta tipografía? (Crédito de la imagen: Future)"
-              },
-              {
-                "t": "p",
-                "x": "El arte generado por IA (AI-generated) está en todas partes, y no solo en internet: carteles claramente hechos con IA aparecen en cafés, restaurantes e incluso en salones comunitarios de pueblo. Y hay algo que los delata siempre: esa tipografía. Trazos de pincel agresivos. Una ligera inclinación hacia arriba. Es ruidosa, estridente y está en todas partes, y la gente ya la compara con Comic Sans."
-              },
-              {
                 "t": "p",
-                "x": "Las pequeñas empresas sin recursos para contratar a un diseñador pueden conformarse con una de las primeras cosas que produce la IA. Pero Comic Sans se hizo a mano con un propósito: Mandy Roscoe, de Carrick Signs, dice que se creó para “imitar el habla informal y manuscrita de los cómics, no para decorar avisos oficiales”."
+                "x": "En LV2, Claude leyó ambas imágenes como instrucciones igual de importantes. No sabía qué tomar de cada imagen, así que combinó todo lo que destacaba, o copió casi tal cual la tarjeta oscura del menú."
               },
               {
                 "t": "p",
-                "x": "Al preguntarle por qué, ChatGPT respondió que los generadores de imágenes asocian las letras gruesas de estilo pincel con el diseño llamativo de innumerables carteles, anuncios y miniaturas de YouTube, y que no necesariamente eligen una fuente real: una tipografía pensada para parecer hecha a mano y rebelde ahora parece inconfundiblemente artificial."
+                "x": "Conclusiones: mostrar una referencia importa menos que decir \"toma solo esto de ella\". Escribe qué tomar y qué no tomar en listas separadas. Da a cada referencia una sola función: dos o tres referencias con funciones distintas funcionan mejor. Cuando algo falle, corrige una o dos cosas a la vez y di \"deja todo lo demás como está\"."
               }
             ]
           }

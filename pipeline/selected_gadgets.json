@@ -1,96 +1,106 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "gadgets",
   "items": [
     {
-      "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
-      "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
-      "source": "MacRumors",
-      "published_iso": "2026-11-03T18:35:16+00:00",
-      "og_image": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg",
-      "excerpt": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition. Sound Recognition and Shazam are already on the watch, but Live Rewind and Siri Recap are now available in the beta. Live Rewind can show you a transcript of the last 15 seconds of a conversation.",
+      "rank": 1,
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source": "The Verge",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New watchOS 27.3 beta release puts on-wrist conversation transcription and recap in users' hands; most detailed of the three c0 cluster articles."
+      "published_iso": "2026-11-04T18:26:07Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "excerpt": "CEO Carl Pei says Nothing’s first “AI-native” device “couldn’t have been an app.”",
+      "rationale": "On-record CEO tease of Nothing's first AI-native, screen-free device with a launch next month. The 10-19 card was only an unconfirmed report about smart glasses."
     },
     {
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "rank": 2,
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
       "source": "The Verge",
-      "published_iso": "2026-11-03T20:16:17+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C10.736302165243%2C100%2C78.527395669513&w=1200",
-      "excerpt": "Siri AI is also expanding across Calendar, Mail, Messages, Music, and more.",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Siri AI opening to third-party apps is a platform-level change for every iPhone app maker; distinct feature from the Watch story and from the iOS 27.2 card of 10-27."
+      "published_iso": "2026-11-04T20:23:24Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+      "excerpt": "Google's Gemini for Home now connects to AT&T's Connected Life smart security system, bringing Gemini's AI features to the carrier's home security setup.",
+      "rationale": "New integration: Gemini for Home now reaches a carrier home-security system, so it spreads past Google's own hardware."
     },
     {
-      "title": "Sonos' new voice assistant is launching in early access on November 6",
-      "url": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
-      "source": "Engadget",
-      "published_iso": "2026-11-03T20:48:49+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg",
-      "excerpt": "The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.",
+      "rank": 3,
+      "title": "Disneyland Is Training a Class of AI Robot Interns",
+      "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
+      "source": "CNET",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Dated early-access launch of Sonos's own AI voice assistant; chose Engadget over The Verge (c8) to keep outlet spread."
+      "published_iso": "2026-11-04T20:13:45Z",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100639_YouTube.jpeg",
+      "excerpt": "From Pixar robots to help you park your car to droids roaming Star Wars land, physical AI is popping up all over Disneyland.",
+      "rationale": "Physical AI in public: Disneyland is putting AI robots to work with guests, from parking helpers to droids. A clear consumer-facing example of embodied AI."
     },
     {
-      "title": "Cyclon wants to replace your iPhone with an AI phone that actually gets things done",
-      "url": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
+      "rank": 4,
+      "title": "Apple Watch learned new hand gestures in just a minute. It’s the most exciting wearable research I’ve seen in years.",
+      "url": "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/",
       "source": "Digital Trends",
-      "published_iso": "2026-11-02T23:01:43-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Y Combinator-backed startup Cyclon is building an AI phone that can navigate apps, complete tasks, and even create apps on demand.",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New agentic AI-phone hardware/software product; Digital Trends version is the more substantive of the two Cyclon articles."
+      "published_iso": "2026-11-04T13:51:33Z",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Researchers have developed a system called TransfHAR that uses the motion sensors inside the Apple Watch, the accelerometer and the gyroscope, to learn and identify activities based on the movement of your hands and wrist.",
+      "rationale": "New research (TransfHAR) that teaches the Apple Watch a custom hand gesture from the stock motion sensors in about a minute. Points toward user-defined gesture input on wearables."
     },
     {
-      "title": "ChatGPT Dots are getting smarter, and you won't have to lift a finger",
-      "url": "https://www.androidauthority.com/openai-chatgpt-dots-update-3731008/",
+      "rank": 5,
+      "title": "This treadmill owner used Claude to escape a subscription trap, and it's glorious",
+      "url": "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/",
       "source": "Android Authority",
-      "published_iso": "2026-11-03T08:03:36+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg",
-      "excerpt": "OpenAI is making ChatGPT Dots smarter with GPT-6 Astra and GPT-6.1 Terra, allowing them to automatically pick the best AI model for each task.",
       "tool": "Gadgets",
-      "accent": "#eb367f",
+      "category": "gadgets",
+      "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "Replaces the LG/SoundHound TV-ordering pick (little AI substance): a concrete new model update (GPT-6 Astra / GPT-6.1 Terra with automatic model routing) for ChatGPT Dots, from a fifth distinct outlet."
+      "published_iso": "2026-11-04T10:20:57Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-scaled.jpg",
+      "excerpt": "NordicTrack wanted another subscription. One owner had other plans, and Claude helped turn those plans into a clever treadmill makeover.",
+      "rationale": "A NordicTrack owner used Claude to break free of the iFit subscription, a hands-on example of AI-assisted hardware modding by consumers."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/": {
-        "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
-        "new_action": ""
-      },
-      "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps": {
-        "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
-        "new_action": ""
-      },
-      "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/": {
-        "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
-        "new_action": ""
-      },
-      "https://www.androidauthority.com/openai-chatgpt-dots-update-3731008/": {
+      "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei": {
         "verdict": "follow-up",
-        "nearest": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-        "new_action": "New model release for Dots: GPT-6 Astra and GPT-6.1 Terra roll out with automatic per-task model selection (the 10-29 card covered texting the Dot agent, a different feature)."
+        "nearest": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+        "new_action": "Official announcement: Carl Pei publicly teased Nothing's first 'AI-native', screen-free device and set the launch for next month. The 10-19 card was an unconfirmed report about two pairs of smart glasses."
+      },
+      "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system": {
+        "verdict": "new",
+        "nearest": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
+        "new_action": ""
+      },
+      "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/": {
+        "verdict": "new",
+        "nearest": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+        "new_action": ""
+      },
+      "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+        "new_action": ""
+      },
+      "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/": {
+        "verdict": "new",
+        "nearest": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "new_action": ""
       }
     },
-    "note": "Cluster dedup: c0 Apple Watch Live Rewind kept MacRumors, dropped CNET and Digital Trends versions; c8 Sonos 27voice kept Engadget, dropped The Verge; Cyclon kept Digital Trends, dropped 9to5Google. Samsung Android XR glasses (9to5Google, Android Authority, Gizmodo) all dropped: a reported December launch date is a follow-up to the published 10-14 CNET unveil with no official announcement. Apple $1,000 home robot (Ars) dropped as the same Gurman rumor line as the 10-20 9to5mac 'next HomeView with robotic arm' card. iPadOS 27.3 Siri camera mode skipped: same 27.3 beta drop as the watchOS pick, and it would have been a second MacRumors pick. Orchestrator swap: LG smart TVs x SoundHound food ordering (Digital Trends) removed, since the fetched article had almost no AI content. Replaced with ChatGPT Dots GPT-6 Astra/Terra update (Android Authority) as a follow-up to the 10-29 Engadget Dot texting card, with a new model release. Echo Show 16 / Echo Time not chosen: Amazon 10-28 event, a week old, and the same event already ran on 10-29 (Ars). Still not picked: Echo Show slop how-to (evergreen), Tinybox, Gemini Notebook recorder (10-27, stale), Meta glasses senators (policy angle), robot study. DLSS 5 avoided per orchestrator (games). Cross-section: could not grep the 3893-line published_urls.json without a search tool. The orchestrator should check that Sonos 27voice is not in music, Siri/Apple Watch are not in another section, and ChatGPT Dots is not in another section."
+    "note": "Pool 14, no cluster ids. Dropped as duplicates: TechRadar Philips Hue Custom AI Behaviors (likely-repeat of the 10-22 Android Authority 'launch next week' card, same release; reports of early errors are not a new release); Verge Amazon Bee Frontier column (commentary on the device launch covered 10-16 by TechCrunch); 9to5Google Samsung Android XR eyewear December (unconfirmed launch-timing report on the same glasses as the 10-14 CNET 'Samsung Smart Glasses Unveiled'); ZDNET Netflix Discover (same story as the 11-04 movies Variety card, excluded across sections). Not picked: Engadget Switch-on-Apple-TV via Claude Code (same kind of story as the treadmill pick, and could clash with games); Digital Trends BP-crisis wearable study (11-02, AHA research that sits closer to medicine; Digital Trends already has a slot); Tom's Hardware NPU desktop renderer (AI is incidental, the NPU is only used as a display renderer); Notebookcheck idle-robot safety study (simulation research that overlaps the 10-25 zdnet.co.kr robot-misbehaviour card); TechRadar Echo Show 16 hands-on (10-28, a stale hands-on). Cross-section: compared against the 11-04 games/movies/science/medicine selections, no clashes. Read could not scan the whole published_urls.json, so exact-grep the 5 pick URLs plus 'Nothing', 'Disneyland', 'TransfHAR' and 'NordicTrack' across all sections before roll. Outlets: The Verge 2, CNET 1, Digital Trends 1, Android Authority 1."
   }
 }

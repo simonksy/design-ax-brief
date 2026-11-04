@@ -1,96 +1,101 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "politics",
   "items": [
     {
+      "title": "Court Bars Meta From Using News Articles to Train AI in Brazil",
+      "url": "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml",
+      "source": "Folha de S.Paulo",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "title": "AI faces limits in reusing news articles, says top EU court advisor",
-      "url": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
-      "source": "Euractiv (Rapporteur)",
-      "published_iso": "2026-11-03T11:44:07+01:00",
-      "og_image": null,
-      "excerpt": "CJEU Advocate General Szpunar issued an opinion in a Hungarian press publisher's case against Google, saying AI chatbots like Gemini face limits under EU press-publisher rights when reproducing news articles, even while advising that some referred questions be declared inadmissible.",
-      "rationale": "Formal CJEU Advocate General opinion, the first top-court view on whether press-publisher rights cover AI chatbot output. Policy/copyright axis, primary legal act."
+      "published_iso": "2026-11-04T13:05:00-03:00",
+      "og_image": "https://f.i.uol.com.br/fotografia/2026/10/27/17931137016ae0be65bfde7_1793113701_3x2_rt.jpg",
+      "excerpt": "A São Paulo court on Nov. 3 barred Meta from using bots to collect news articles, photos and videos from outlets in three Brazilian press associations to train AI; daily fines could reach $182,400.",
+      "rationale": "Primary decision (court injunction, Nov. 3) on AI training and copyright with concrete fines; policy/litigation axis, separate case from the EU advocate-general opinion published 11-04."
     },
     {
+      "title": "Voters deliver \"AI earthquake,\" rebuking tech and billionaires",
+      "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+      "source": "Axios",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "中, AI개발부터 활용까지 전과정 규제 강화…통제불능 우려 대비",
-      "url": "https://www.yna.co.kr/view/AKR20261103148800009",
-      "source": "연합뉴스",
-      "published_iso": "2026-11-03T16:28:47+09:00",
-      "og_image": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
-      "excerpt": "중국 당국이 AI 개발부터 활용까지 전 과정을 다루는 포괄적 규제 가이드라인을 마련하기로 했다. 위험 공시와 규제 샌드박스가 포함되며, 통제 불능 AI에 대한 우려에 대비한 조치다.",
-      "rationale": "Official Chinese regulatory decision covering the full AI lifecycle (risk disclosure, sandboxes). A new government action, separate from the 10-19 export-control draft."
+      "published_iso": "2026-11-04T10:10:07Z",
+      "og_image": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+      "excerpt": "Voters approved dozens of data center moratoriums; per Ballotpedia about two dozen of 41 restrict/block measures across 10 states appeared to pass, and Texas governor-elect Hinojosa campaigned on keeping a data center construction moratorium until the legislature acts.",
+      "rationale": "Single card for the 5-outlet midterm data-center cluster; chosen for its concrete ballot-measure count (Ballotpedia: ~24 of 41 restrict/block measures in 10 states). Writer must frame it as measures passed, not as partisan win/loss or poll commentary, and must not use the 'AI earthquake' framing as fact."
     },
     {
+      "title": "Metsola tells MEPs not to rely on AI when drafting laws",
+      "url": "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/",
+      "source": "POLITICO Europe",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-      "source": "The Register",
-      "published_iso": "2026-11-03T12:39:25.000Z",
-      "og_image": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The UK's NCSC annual review warns AI-enabled attacks on critical infrastructure are likely within two years, and its chief urged boards to stop doing 'tech on the cheap'.",
-      "rationale": "Coverage of an official agency release (NCSC Annual Review 2026) with a dated AI threat assessment. National-security policy axis."
+      "published_iso": "2026-11-04T14:35:14+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
+      "excerpt": "European Parliament President Roberta Metsola told MEPs not to rely on AI when drafting laws, as the Parliament prepares guidelines for lawmakers on the use of AI.",
+      "rationale": "Institutional instruction from the European Parliament President plus forthcoming internal AI-use guidelines for lawmakers; new rule-setting on AI in the legislative process."
     },
     {
+      "title": "EU rules on Artificial Intelligence devices will apply in NI",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro",
+      "source": "BBC News",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "업스테이지 '솔라 프로 4' 범정부 AI 공통기반 탑재…행정망 국산 AI 활용",
-      "url": "https://www.etnews.com/20261103000312",
-      "source": "전자신문",
-      "published_iso": "2026-11-03T14:55:24+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
-      "excerpt": "행안부·과기정통부의 범정부 AI 공통기반에 국산 LLM '솔라 프로 4'가 탑재됐다. 중앙부처와 지자체가 별도 GPU 없이 행정망에서 국산 AI를 쓸 수 있게 된 소버린 AI 공공 도입 사례다.",
-      "rationale": "A concrete government deployment decision: MOIS and MSIT put a domestic LLM onto the shared government AI platform, so central ministries and local governments can use it on the administrative network. Policy/sovereign-AI axis, with AI as the subject."
+      "published_iso": "2026-11-04T14:10:08.343Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+      "excerpt": "The UK government says some EU AI rules, covering AI-integrated products, will apply in Northern Ireland under the Windsor Framework.",
+      "rationale": "UK government decision that parts of the EU AI Act (AI-integrated products) apply in Northern Ireland under the Windsor Framework; a concrete compliance change for product builders, a cross-border regulatory split."
     },
     {
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "source": "WIRED",
+      "category": "politics",
       "tool": "Politics",
-      "accent": "#eb367f",
+      "accent": "#ff5a4d",
       "motif": "cube",
-      "title": "EXCLUSIVE: EU executive wants to boost AI use in 2027 work plan",
-      "url": "https://www.rapporteur.com/news/exclusive-eu-executive-wants-to-boost-ai-use-in-2027-work-plan/",
-      "source": "Euractiv (Rapporteur)",
-      "published_iso": "2026-11-03T17:28:59+01:00",
-      "og_image": null,
-      "excerpt": "The European Commission's draft 2027 work programme, obtained by Rapporteur, plans to push AI uptake across sectors next year ahead of the informal European Council on AI on 13 November.",
-      "rationale": "Reporting on a primary document, the Commission's draft 2027 work programme, which sets the EU's AI agenda ahead of the 13 Nov AI summit. Unrelated to the 10-24 China-alliance exclusive."
+      "published_iso": "2026-11-04T13:49:51.848Z",
+      "og_image": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/191:100/w_1280,c_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg",
+      "excerpt": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+      "rationale": "National AI strategy: the UK AI minister revises the official headline estimate to under a third of £400B, and the figure's origin in Google-commissioned research. Attribute the sourcing claim to WIRED and the revision to the minister."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/": {
+      "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+        "nearest": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261103148800009": {
+      "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown": {
         "verdict": "new",
-        "nearest": "https://thenextweb.com/news/china-ai-export-controls-draft",
+        "nearest": "https://www.axios.com/2026/10/08/data-centers-power-regime",
         "new_action": ""
       },
-      "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200": {
+      "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/": {
         "verdict": "new",
-        "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+        "nearest": "https://www.rapporteur.com/news/exclusive-eu-executive-wants-to-boost-ai-use-in-2027-work-plan/",
         "new_action": ""
       },
-      "https://www.etnews.com/20261103000312": {
+      "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro": {
         "verdict": "new",
-        "nearest": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why",
+        "nearest": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
         "new_action": ""
       },
-      "https://www.rapporteur.com/news/exclusive-eu-executive-wants-to-boost-ai-use-in-2027-work-plan/": {
+      "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/": {
         "verdict": "new",
-        "nearest": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+        "nearest": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
         "new_action": ""
       }
     },
-    "note": "Replacement pass: dropped the Yonhap SK hynix China-fab equipment-hold story (AKR20261104006700072). The article is about an export licence for a memory fab and never mentions AI, so it fails the 'AI makes the story happen' rule. Replaced in place with the etnews Upstage Solar Pro 4 story, which reports a government deployment decision (MOIS/MSIT shared government AI platform). It reused the removed slot's accent #2ec5c5 and motif cube. No history_digest entry covers this platform or Solar Pro 4. The nearest is the 10-26 Swedish government blocking chatbots for staff (government use of AI tools, different country and opposite decision). Other replacement options were rejected: GOV.UK Barnsley £800k skills grants (small and local), Verge Prop 45 (analysis, result not certified), 법무부 AI glasses notice (guideline not yet issued). etnews is off-whitelist but was chosen because it is a decision story. Original first-pass note: no candidate repeated a published story; commentary/analysis items (Axios sovereign agents, WIRED x2, TPP x3, MIT TR, Diplomat x2, ChinaTalk, RoW) and Iowa AI-ads / OpenAI PR items were left out. Outlet spread now Rapporteur 2, Yonhap 1, The Register 1, etnews 1. Cross-section published_urls.json was not grepped (no shell tool). The orchestrator should exact-grep https://www.etnews.com/20261103000312 and 'Solar Pro 4' / '솔라 프로 4' across sections (gadgets/design could carry an Upstage model story)."
+    "note": "Same-story clusters collapsed: midterm data-center ballot results (WIRED, The Verge, Axios, Ars 'anti-Trump not anti-tech', MIT TR Texas) -> kept Axios only (concrete measure count; others are exit-poll/horse-race or reaction framing; Ars piece is industry reaction). Google schools AI opt-out (WIRED c9 + Ars c9) -> dropped both (product policy, weaker policy axis; books section ran classroom-AI items). Russia data centers (Ars underground plans + Tom's Hardware Putin 10% decree) -> dropped both: follow-ups to the 10-10 'Ukraine's drones knock out AI data center' story and the decree headline has no AI axis. Dropped as commentary/analysis on published events: Tech Policy Press OpenAI-Hugging Face probe piece (follow-up commentary on 10-25 red-team report), Lawfare open-weight governance, Lawfare Minnesota deepfake (analysis of pending appeal, no new ruling), Rest of World Chinese-model realignment (related to 10-08/10-17 open-weight stories), CSIS deepfakes, Tech Policy Press incident reports, The Register 'sovereign agents'. Dropped as partisan/horse-race: IAPP 'Democratic midterm wins'. Dropped for business/weak axis: Drax datacenter proposal, Nvidia 49% customer cap (unconfirmed report, gadgets-whitelist outlet), HBM smuggling loophole (lower-priority off-list), GOV.UK Barnsley skills grants, Albanese robodebt think-tank report, CPS fake-case citation, Medicare AI pilot snags. published_urls.json (3943 lines) could not be exact-grepped in this agent (no grep tool); picks were chosen to avoid outlets/topics likely to overlap other sections (no Tom's Hardware, Google-schools, or MIT TR items). The orchestrator should run the cross-section URL grep before roll."
   }
 }

@@ -16603,6 +16603,163 @@
           "x": "Figma 노드를 쓰면 Figma Design의 프레임을 복사해 Weave에 붙여 넣을 수 있다. 붙여 넣은 프레임은 원본과 계속 연결된다. Figma Design에서 원본 프레임을 고치면 Weave의 연결된 Figma 노드에도 그대로 반영된다."
         }
       ]
+    },
+    "design/openai-astra-hardware-device": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "오늘 우리는 OpenAI 모델이 엔지니어의 물리적 제품 설계, 시뮬레이션, 제작을 어떻게 돕고 있는지 그 진전을 공유한다. 이 기능은 기계·전기 공학부터 엔드투엔드 시스템 설계까지 아우른다."
+        },
+        {
+          "t": "p",
+          "x": "사람이 직접 손대지 않고 기기를 만들 수 있는지 확인하는 방식으로 멀티모달과 컴퓨터 사용 워크플로에서 Astra의 최고 수준 성능을 시험했다. GPT‑6로 기능 요구사항을 정하고, 사용자가 Codex와 대화할 때 쓸 기기의 외함, 인쇄 회로 기판(PCB), 소프트웨어 통합을 설계했다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+          "cap": "프로토타입 기기 외함"
+        },
+        {
+          "t": "p",
+          "x": "Astra는 기기 외형을 만들고 외함과 부품을 고정할 내부 구조를 설계했다. 전기 부품을 골라 PCB를 설계했고, 기기를 Codex에 연결하는 데 필요한 펌웨어와 소프트웨어 통합까지 생성했다."
+        },
+        {
+          "t": "p",
+          "x": "팀원 두 명이 Astra와 함께 일주일도 안 돼 이 테스트 기기를 설계했고, 위탁 제조업체는 한 달이 채 안 돼 소량 프로토타입을 만들었다. 다만 양산 준비 단계까지 가려면 여전히 여러 차례 검토와 반복이 필요했다."
+        },
+        {
+          "t": "p",
+          "x": "2월 이후 OpenAI 하드웨어 팀 전반의 모델 사용량은 토큰 기준 23배 늘었다. BenchCAD 2.0에서 더 새로운 내부 모델은 평균 0.875점, 최고 추론 설정의 GPT‑6 Astra는 0.594점을 기록했다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 Chip Ganassi Racing과 협업을 넓히고 Mazda와 새 연구 협업도 시작한다고 발표한다."
+        }
+      ]
+    },
+    "design/tripo-agentic-canvas-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI가 시각적 노드 기반 캔버스에서 3D 워크플로를 짜고 실행하는 인공지능 에이전트 Tripo Agentic Canvas를 출시했다. 샌프란시스코에 본사를 둔 이 회사는 자사 3D 네이티브 파운데이션 모델을 중심에 두고 도구를 설계했다. 아이디어와 참고 이미지, 기존 에셋이 3D 생성부터 에셋 다듬기, 내보내기까지 하나로 이어진 시퀀스가 된다."
+        },
+        {
+          "t": "p",
+          "x": "캔버스의 노드는 각각 하나의 작업을 맡고, 링크가 한 노드의 출력을 다음 노드로 넘기며 워크플로가 이어진다. 사용자는 텍스처링, 리토폴로지, Smart UV, 물리 기반 렌더링(PBR) 처리, 세그멘테이션, 리깅을 노드로 추가해 프로젝트에 맞게 연결하면 된다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트에게 워크플로 생성을 맡긴 뒤 결과를 살피고 개별 노드를 바꾸거나 시퀀스를 고칠 수도 있다. 완성한 워크플로는 저장·복제·재사용할 수 있고, 일괄 처리로 워크플로 하나를 여러 에셋에 적용한다."
+        },
+        {
+          "t": "p",
+          "x": "AI 3D Lab 노드를 쓰면 대화로 특정 에셋을 살피고 다듬거나 상위 노드에서 새 결과를 만들어 낼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Tripo는 게임 개발, 3D 프린팅, 제품 디자인과 이커머스, 영화, 애니메이션, 시각화를 주요 활용 분야로 꼽는다."
+        }
+      ]
+    },
+    "design/ncircle-nvibe-aec-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "nCircle Tech가 AI-powered 개발 플랫폼 nVibe를 출시했다. AEC 전문가가 코딩 실력 없이도 아이디어를 실제로 작동하는 애플리케이션으로 바꾸게 돕는 도구다."
+        },
+        {
+          "t": "p",
+          "x": "현장 관리자, 프로젝트 엔지니어, VDC 리드 같은 도메인 전문가가 일상 언어로 워크플로를 설명하면 nVibe가 애플리케이션을 만든다. 작업은 IT 팀이 보안, 권한, 배포를 통제하도록 설계된 샌드박스 환경 안에서 이뤄진다."
+        },
+        {
+          "t": "p",
+          "x": "nCircle Tech는 nVibe가 WBS 코드, CSI MasterFormat, RFIs, 제출물, LoD 100–500 같은 AEC 용어와 워크플로를 기본으로 이해한다는 점이 범용 AI 코딩 도구와 다르다고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "nVibe에는 Autodesk Forma, Autodesk Platform Services(APS), Autodesk AEC Data Model, SAP 및 기타 ERP 시스템, Model Context Protocol(MCP)용 기본 커넥터가 들어 있다. Navisworks, Procore, AutoCAD, Revit 연동도 곧 추가된다."
+        },
+        {
+          "t": "p",
+          "x": "nVibe for Revit은 일상 언어 지시를 팀의 Revit 리본에 뜨는 네이티브 Revit 플러그인으로 바꿔 준다. AI는 애플리케이션을 만들 때 한 번만 쓰이고, 이후 실행에는 토큰이 들지 않는다."
+        }
+      ]
+    },
+    "design/claude-design-reference-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude에 디자인을 맡기면 어디선가 본 듯한 템플릿 같은 결과가 자주 나온다. 그래서 글쓴이는 요청을 그대로 두었다. 한국 파주의 작은 카페 ONGI Coffee가 새 메뉴 “Lemonade”를 알리는 Instagram 피드 이미지(1080×1350)를 HTML 파일 하나로 만드는 요청이다. 바꾼 것은 레퍼런스를 건네는 방식뿐이다. 도구: Claude Code, 2026년 10월."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+          "cap": "LV1 — 요청만. 깔끔하지만 템플릿처럼 보인다."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+          "cap": "LV2 — 레퍼런스 두 장 첨부. 두 이미지가 무작위로 섞였다."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+          "cap": "LV3 — 레퍼런스 + 가져올 점 몇 줄. 브랜드 톤이 살아났다."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+          "cap": "LV3+ — 실제 사진 + 수정 한 번. 바로 올릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "단계마다 두 번씩 더 돌렸다(9회). 방향은 같았다. 레퍼런스를 첨부하는 것(LV2)보다 레퍼런스 설명을 몇 줄 덧붙이는 쪽(LV3)이 결과를 더 크게 바꿨다."
+        },
+        {
+          "t": "p",
+          "x": "LV2에서 Claude는 두 이미지를 똑같이 중요한 지시로 받아들였다. 어느 이미지에서 무엇을 가져올지 모르니 눈에 띄는 요소를 다 섞거나 메뉴의 어두운 카드를 거의 그대로 베꼈다."
+        },
+        {
+          "t": "p",
+          "x": "요약은 이렇다. 레퍼런스를 보여 주기보다 \"여기서 이것만 가져와\"라고 말하는 편이 더 중요하다. 가져올 것과 가져오지 말 것은 따로 목록으로 적는다. 레퍼런스마다 역할을 하나씩 준다. 역할이 다른 레퍼런스 두세 개가 가장 잘 통한다. 어긋나는 부분이 있으면 한 번에 한두 가지만 고치고 \"나머지는 그대로 둬\"라고 말한다."
+        }
+      ]
+    },
+    "design/autom8labs-aec-mcp-skills": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Revit, AutoCAD, 3ds Max 등에서 AI 에이전트의 작업을 이끈다. 작업을 하고 결과를 확인하는 데 필요한 ‘명확한 단계’를 짚어 준다."
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labs가 무료 MCP Skills 22개를 공개했다. Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D, Advance Steel용 자사 MCP Connectors와 함께 쓰는 스킬이다. 각 MCP 스킬은 AI 에이전트에 할 일만 던지지 않고, 숙련된 전문가가 밟는 단계를 그대로 따라가게 한다."
+        },
+        {
+          "t": "p",
+          "x": "“AI 에이전트가 설계 애플리케이션에 접근할 수 있다고 해서 그 안에서 일하는 최선의 방법을 저절로 아는 것은 아니다.” Autom8Labs의 James Gray는 이렇게 말했다. “MCP Connectors는 AI 에이전트에 도구를 준다. Skills는 방법을 준다.”"
+        },
+        {
+          "t": "p",
+          "x": "스킬은 대부분 Revit용으로 패밀리 생성, scan-to-BIM, 모델 상태 점검, 구조, MEP, 조정, 대지, 문서 관리를 다룬다. Grasshopper용 컴퓨테이셔널 디자인 스킬은 컴퓨테이셔널 디자이너처럼 파라메트릭 정의를 짜고, 3ds Max 스킬은 시각화 전문가처럼 Corona나 V-Ray를 설정한다."
+        },
+        {
+          "t": "p",
+          "x": "AEC 기업의 템플릿, 표준, 승인 검토 절차에 맞춘 맞춤형 스킬도 Autom8Labs가 만들어 테스트까지 해 준다."
+        }
+      ]
     }
   }
 }

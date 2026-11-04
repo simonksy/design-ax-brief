@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "music",
   "cards": [
     {
-      "id": "music-suno-isbell-dismissal",
+      "id": "suno-midi-create-upload",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Jason Isbell의\n소송, Suno 기각 요청",
-      "body": "Suno는 AI로 아티스트 스타일을 요청하는 건 불법이 아니라고 주장한다.",
-      "mini_headline": "Suno, Isbell 소송 기각 요청",
+      "headline": "Suno, 내 MIDI로\n곡을 시작한다",
+      "body": "Suno가 Create에 MIDI 업로드를 열어 내 멜로디·코드로 곡을 시작한다.",
+      "mini_headline": "Suno, MIDI 업로드 지원",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/",
+      "source": "Suno",
+      "url": "https://suno.com/blog/MIDI-in-create",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,197 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+            "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
           },
           {
             "t": "p",
-            "x": "AI 음악 기업 Suno가 Jason Isbell 등 스타들의 예술적 정체성을 훔쳤다는 소송을 기각해 달라고 판사에게 요청했다. 특정 아티스트의 “분위기(vibe)”를 재현하려는 데 “불법적인 것은 전혀 없다”는 주장이다."
+            "x": "이제 Suno에서 MIDI 파일로 곡을 시작할 수 있다. Create 페이지에 파일을 끌어다 놓거나 '+' 메뉴에서 MIDI를 고르면 된다. MIDI 파일에는 한 파트의 음표와 타이밍이 정확히 담겨 있어 Suno로 곡을 만드는 다른 어떤 방법보다 훨씬 정밀하게 출발할 수 있다."
           },
           {
             "t": "p",
-            "x": "Isbell은 지난 8월 소송을 내며, Suno가 AI 작곡 도구에 이름만 프롬프트로 넣으면 사용자들이 “사랑받는 뮤지션의 정체성을 불러낼 수 있게” 만들었다고 비판했다. 저작권 음악을 모델 학습에 쓴 문제를 다룬 앞선 소송들과 달리, 이번 사건은 뉴욕·캘리포니아·테네시 등 각 주의 퍼블리시티권 법을 근거로 한 집단소송이다."
+            "x": "Suno가 원본을 얼마나 충실히 따를지도 정할 수 있다. 쓴 음표를 그대로 연주하게 해도 되고, 파일에서 모티프만 가져와 새 곡으로 발전시키게 해도 된다. Remix나 Cover용 오디오 업로드와 달리 MIDI에는 소리가 전혀 없다. 대신 정확한 음표와 타이밍 정보를 넘겨 아주 세밀하게 제어할 수 있다."
           },
           {
             "t": "p",
-            "x": "화요일(Nov. 3) 내놓은 첫 본격 답변서에서 Suno 변호인단은 이렇게 썼다. “사람들은 음악 스타일을 설명할 때, 아티스트가 활동하는 장르를 줄여 말하려고 그 이름을 흔히 쓴다. 이 소송은 법이 그런 보편적 관행을 어떻게든 금지한다는 전제에 기대고 있다. 실제로 법은 그렇지 않으며, 수정헌법 첫 조항(First Amendment)도 그것을 허용하지 않을 것이다.”"
+            "x": "제안된 활용법은 이렇다. 작업 중인 악보를 내보내 고품질 악기 편성으로 들어 보거나(\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), 학생과 밴드 리더가 작곡을 시연하거나, 옛 밴드 세션의 MIDI를 되살리는 식이다(\"Transform this MIDI into a string quartet\")."
           },
           {
             "t": "p",
-            "x": "Suno는 아티스트 이름을 “서술적인 음악적 특성”으로 바꿔 처리한다고 설명한다. “Duran Duran”이라는 프롬프트라면 “New wave, Synth-pop, Pop rock”이 되는 식이다. Isbell 측은 “t a y l o r s w i f t”처럼 띄어쓰기만 넣어도 이 안전장치가 뚫린다고 주장한다."
-          },
-          {
-            "t": "p",
-            "x": "Suno는 연방법 “선점(preemption)” 원칙으로 봐도 소송이 성립할 수 없다고 본다. 이 소송이 “주법에 기반한 그림자 IP 체제를 만들어 … 두 세기 넘게 유지돼 온 연방 체제와 근본적으로 충돌할 것”이라는 이유에서다."
+            "x": "출시 시점의 MIDI는 v6-wild 기반 Simple Create 모드를 쓴다. 모든 Pro·Premier 구독자가 쓸 수 있고, Suno는 MIDI 기능을 차차 넓혀 갈 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Suno moves to dismiss\nJason Isbell's identity suit",
-          "body": "Suno argues there is nothing unlawful about letting users prompt its AI for an artist's style.",
-          "mini_headline": "Suno seeks Isbell dismissal",
+          "headline": "Suno now starts songs\nfrom your own MIDI file",
+          "body": "Suno lets users upload a MIDI file in Create to seed a song from their own melody, chords or arrangement.",
+          "mini_headline": "Suno takes MIDI uploads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "Suno is asking a judge to throw out a lawsuit claiming the AI music firm stole the artistic identities of Jason Isbell and other stars, arguing there’s “nothing unlawful” about seeking to replicate the “vibe” of a particular artist."
+                "x": "You can now start a song on Suno from a MIDI file, by dragging and dropping the file onto the Create page or choosing MIDI from the '+' menu. A MIDI file holds the exact notes and timing of a musical part, so it gives you a much more precise starting point than any other way of creating on Suno."
               },
               {
                 "t": "p",
-                "x": "Isbell sued in August, accusing Suno of allowing users to “conjure up a beloved musician’s identity” by entering their name as a prompt in its AI song generator. The case was filed as a class action under state likeness laws in New York, California, Tennessee and elsewhere, unlike earlier litigation over the use of copyrighted music to train models."
+                "x": "You can decide how closely Suno follows it: ask the model to play your notes exactly as you wrote them, or take a motif from the file and develop it into something new. MIDI contains no sound at all, which makes it different from uploading audio for Remix or Cover — it conveys exact note and timing information for very precise control."
               },
               {
                 "t": "p",
-                "x": "In Suno’s first major response on Tuesday (Nov. 3), its lawyers write: “When people describe styles of music, they often use artists’ names as shorthand for the genre they perform in. This case turns on the premise that the law somehow condemns that universal practice. In reality it does not; the First Amendment would not allow it to.”"
+                "x": "Suggested uses: export work-in-progress scores to hear them with high-quality instrumentation (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), let students and band leaders audition compositions, or revive MIDI from old band sessions (\"Transform this MIDI into a string quartet\")."
               },
               {
                 "t": "p",
-                "x": "Suno says it translates artist names into “descriptive musical characteristics” — a prompt of “Duran Duran” might become “New wave, Synth-pop, Pop rock.” Isbell’s suit claims those safeguards can be duped with spaces, such as “t a y l o r s w i f t.”"
-              },
-              {
-                "t": "p",
-                "x": "Suno also argues the case is doomed by federal “preemption,” saying it “would create a shadow state law IP regime … fundamentally conflicting with the federal regime that has been in place for more than two centuries.”"
+                "x": "At launch, MIDI uses Simple Create mode with v6-wild. The feature is available to all Pro and Premier subscribers, and Suno plans to expand MIDI capabilities over time."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Jason Isbell의\n소송, Suno 기각 요청",
-          "body": "Suno는 AI로 아티스트 스타일을 요청하는 건 불법이 아니라고 주장한다.",
-          "mini_headline": "Suno, Isbell 소송 기각 요청",
+          "headline": "Suno, 내 MIDI로\n곡을 시작한다",
+          "body": "Suno가 Create에 MIDI 업로드를 열어 내 멜로디·코드로 곡을 시작한다.",
+          "mini_headline": "Suno, MIDI 업로드 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "AI 음악 기업 Suno가 Jason Isbell 등 스타들의 예술적 정체성을 훔쳤다는 소송을 기각해 달라고 판사에게 요청했다. 특정 아티스트의 “분위기(vibe)”를 재현하려는 데 “불법적인 것은 전혀 없다”는 주장이다."
+                "x": "이제 Suno에서 MIDI 파일로 곡을 시작할 수 있다. Create 페이지에 파일을 끌어다 놓거나 '+' 메뉴에서 MIDI를 고르면 된다. MIDI 파일에는 한 파트의 음표와 타이밍이 정확히 담겨 있어 Suno로 곡을 만드는 다른 어떤 방법보다 훨씬 정밀하게 출발할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Isbell은 지난 8월 소송을 내며, Suno가 AI 작곡 도구에 이름만 프롬프트로 넣으면 사용자들이 “사랑받는 뮤지션의 정체성을 불러낼 수 있게” 만들었다고 비판했다. 저작권 음악을 모델 학습에 쓴 문제를 다룬 앞선 소송들과 달리, 이번 사건은 뉴욕·캘리포니아·테네시 등 각 주의 퍼블리시티권 법을 근거로 한 집단소송이다."
+                "x": "Suno가 원본을 얼마나 충실히 따를지도 정할 수 있다. 쓴 음표를 그대로 연주하게 해도 되고, 파일에서 모티프만 가져와 새 곡으로 발전시키게 해도 된다. Remix나 Cover용 오디오 업로드와 달리 MIDI에는 소리가 전혀 없다. 대신 정확한 음표와 타이밍 정보를 넘겨 아주 세밀하게 제어할 수 있다."
               },
               {
                 "t": "p",
-                "x": "화요일(Nov. 3) 내놓은 첫 본격 답변서에서 Suno 변호인단은 이렇게 썼다. “사람들은 음악 스타일을 설명할 때, 아티스트가 활동하는 장르를 줄여 말하려고 그 이름을 흔히 쓴다. 이 소송은 법이 그런 보편적 관행을 어떻게든 금지한다는 전제에 기대고 있다. 실제로 법은 그렇지 않으며, 수정헌법 첫 조항(First Amendment)도 그것을 허용하지 않을 것이다.”"
+                "x": "제안된 활용법은 이렇다. 작업 중인 악보를 내보내 고품질 악기 편성으로 들어 보거나(\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), 학생과 밴드 리더가 작곡을 시연하거나, 옛 밴드 세션의 MIDI를 되살리는 식이다(\"Transform this MIDI into a string quartet\")."
               },
               {
                 "t": "p",
-                "x": "Suno는 아티스트 이름을 “서술적인 음악적 특성”으로 바꿔 처리한다고 설명한다. “Duran Duran”이라는 프롬프트라면 “New wave, Synth-pop, Pop rock”이 되는 식이다. Isbell 측은 “t a y l o r s w i f t”처럼 띄어쓰기만 넣어도 이 안전장치가 뚫린다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "Suno는 연방법 “선점(preemption)” 원칙으로 봐도 소송이 성립할 수 없다고 본다. 이 소송이 “주법에 기반한 그림자 IP 체제를 만들어 … 두 세기 넘게 유지돼 온 연방 체제와 근본적으로 충돌할 것”이라는 이유에서다."
+                "x": "출시 시점의 MIDI는 v6-wild 기반 Simple Create 모드를 쓴다. 모든 Pro·Premier 구독자가 쓸 수 있고, Suno는 MIDI 기능을 차차 넓혀 갈 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Jason Isbellの\n訴訟、Sunoが却下申し立て",
-          "body": "Sunoは、ユーザーがAIにアーティストの作風を指示しても違法ではないと主張する。",
-          "mini_headline": "Suno、Isbell訴訟の却下を要求",
+          "headline": "Suno、自作MIDIから\n曲づくりが可能に",
+          "body": "SunoはCreateでMIDIを読み込み、自分のメロディやコードから曲を始められる。",
+          "mini_headline": "SunoがMIDIアップロードに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "AI音楽企業のSunoは、同社がJason Isbellら人気アーティストの芸術的アイデンティティを盗んだとする訴訟の却下を判事に求めている。特定のアーティストの「雰囲気(vibe)」を再現しようとすることに「違法な点は何もない」というのが同社の主張だ。"
+                "x": "SunoでMIDIファイルから曲を作り始められるようになった。Createページにファイルをドラッグ＆ドロップするか、「+」メニューからMIDIを選ぶ。MIDIファイルはパートの正確な音符とタイミングを保持しているため、Sunoでのほかのどの制作方法よりもはるかに精密な出発点になる。"
               },
               {
                 "t": "p",
-                "x": "Isbellは8月に提訴し、SunoのAI楽曲生成ツールに名前をプロンプトとして入力するだけで、ユーザーが「愛されるミュージシャンのアイデンティティを呼び出せる」ようにしていると訴えた。著作権のある楽曲をモデルの学習に使ったことをめぐる従来の訴訟とは異なり、本件はニューヨーク、カリフォルニア、テネシーなどの州のパブリシティ権法に基づく集団訴訟として起こされた。"
+                "x": "Sunoがどこまで忠実に従うかも決められる。書いた音符をそのまま演奏させることも、ファイルからモチーフを取り出して新しいものへ発展させることもできる。MIDIは音そのものを一切含まない点で、RemixやCover向けの音声アップロードとは異なる。正確な音符とタイミングの情報を伝えるため、非常に精密な制御が可能だ。"
               },
               {
                 "t": "p",
-                "x": "火曜日(Nov. 3)に出した初の本格的な答弁で、Sunoの弁護団はこう述べた。「人々は音楽のスタイルを説明する際、そのアーティストが属するジャンルの略称としてアーティスト名をよく使う。本件は、法律がこの普遍的な慣行をなぜか禁じているという前提に立っている。実際にはそうではなく、合衆国憲法修正第一条(First Amendment)もそれを許さないだろう」"
+                "x": "想定される使い方は、制作途中のスコアを書き出して高品質な楽器編成で聴く（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）、学生やバンドリーダーが作曲を試聴する、昔のバンドセッションのMIDIをよみがえらせる（\"Transform this MIDI into a string quartet\"）といったものだ。"
               },
               {
                 "t": "p",
-                "x": "Sunoによれば、アーティスト名は「説明的な音楽的特徴」に変換される。たとえば「Duran Duran」というプロンプトは「New wave, Synth-pop, Pop rock」になり得る。Isbell側は、「t a y l o r s w i f t」のようにスペースを入れるだけでこうした安全策をすり抜けられると主張している。"
-              },
-              {
-                "t": "p",
-                "x": "Sunoはさらに、連邦法による「専占(preemption)」によって本件は成り立たないと主張し、本件は「州法に基づく影のIP制度を生み出し……二世紀以上続いてきた連邦制度と根本的に衝突する」と述べた。"
+                "x": "提供開始時点で、MIDIはv6-wildによるSimple Createモードを使う。この機能はすべてのProおよびPremier加入者が利用でき、SunoはMIDI機能を順次拡充する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno请求驳回\nJason Isbell诉讼",
-          "body": "Suno主张，允许用户以艺人风格向AI下达提示并无违法之处。",
-          "mini_headline": "Suno请求驳回Isbell诉讼",
+          "headline": "Suno支持用你的MIDI\n文件开始创作歌曲",
+          "body": "Suno允许用户在Create中上传MIDI文件，以自己的旋律、和弦或编曲为起点生成歌曲。",
+          "mini_headline": "Suno支持MIDI上传",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "Suno正请求法官驳回一起诉讼。该诉讼称这家AI音乐公司窃取了Jason Isbell等明星的艺术身份，而Suno辩称，试图复制某位艺人的“氛围”（vibe）“并无任何违法之处”。"
+                "x": "现在可以在Suno上从MIDI文件开始创作歌曲：把文件拖放到Create页面，或在“+”菜单中选择MIDI即可。MIDI文件记录了一个声部的精确音符与时值，因此它提供的起点比在Suno上任何其他创作方式都精确得多。"
               },
               {
                 "t": "p",
-                "x": "Isbell于8月提起诉讼，指控Suno让用户只需在其AI歌曲生成器中输入艺人姓名作为提示，就能“召唤出一位深受喜爱的音乐人的身份”。与此前围绕使用受版权保护的音乐训练模型的诉讼不同，此案依据纽约、加利福尼亚、田纳西等州的肖像权法律，以集体诉讼形式提起。"
+                "x": "你可以决定Suno跟随的紧密程度：让模型完全按你写的音符演奏，或从文件中提取一个动机，发展成全新的内容。MIDI本身不含任何声音，这使它不同于为Remix或Cover上传音频——它传递的是精确的音符和时值信息，可实现非常精细的控制。"
               },
               {
                 "t": "p",
-                "x": "在周二（Nov. 3）提交的首份重要答辩中，Suno的律师写道：“人们在描述音乐风格时，常用艺人的名字来简称其所属的曲风。此案的前提是法律以某种方式谴责这种普遍做法。事实并非如此；第一修正案（First Amendment）也不会允许法律这样做。”"
+                "x": "建议用途包括：导出未完成的乐谱，用高品质配器试听（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）；让学生和乐队领队试听作品；或复活旧乐队排练留下的MIDI（\"Transform this MIDI into a string quartet\"）。"
               },
               {
                 "t": "p",
-                "x": "Suno表示，它会把艺人姓名转换为“描述性的音乐特征”——例如输入“Duran Duran”的提示可能变成“New wave, Synth-pop, Pop rock”。Isbell的诉状称，用空格就能绕过这些防护措施，比如“t a y l o r s w i f t”。"
-              },
-              {
-                "t": "p",
-                "x": "Suno还主张，联邦“优先适用”（preemption）原则注定让此案无法成立，称其“将制造一个影子般的州法IP体系……与已实行两个多世纪的联邦体系根本冲突”。"
+                "x": "上线时，MIDI使用搭载v6-wild的Simple Create模式。该功能向所有Pro和Premier订阅用户开放，Suno计划逐步扩展MIDI功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno pide desestimar la demanda\nde Jason Isbell por identidad",
-          "body": "Suno sostiene que no hay nada ilegal en permitir que los usuarios pidan a su AI el estilo de un artista.",
-          "mini_headline": "Suno pide desestimar la demanda de Isbell",
+          "headline": "Suno ya crea canciones\na partir de tu archivo MIDI",
+          "body": "Suno permite subir un archivo MIDI en Create para iniciar una canción desde su propia melodía, acordes o arreglo.",
+          "mini_headline": "Suno admite archivos MIDI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "Suno pide a un juez que desestime una demanda que acusa a la empresa de música con AI de haber robado la identidad artística de Jason Isbell y otras estrellas, y sostiene que no hay “nada ilegal” en intentar replicar el “vibe” de un artista concreto."
+                "x": "Ahora es posible empezar una canción en Suno a partir de un archivo MIDI, arrastrándolo y soltándolo en la página Create o eligiendo MIDI en el menú '+'. Un archivo MIDI contiene las notas y los tiempos exactos de una parte musical, por lo que ofrece un punto de partida mucho más preciso que cualquier otra forma de crear en Suno."
               },
               {
                 "t": "p",
-                "x": "Isbell presentó la demanda en agosto y acusa a Suno de permitir que los usuarios “conjuren la identidad de un músico querido” al introducir su nombre como prompt en su generador de canciones con AI. El caso se presentó como demanda colectiva al amparo de las leyes estatales sobre la propia imagen de Nueva York, California, Tennessee y otros estados, a diferencia de litigios anteriores sobre el uso de música protegida por derechos de autor para entrenar modelos."
+                "x": "Se puede decidir con qué fidelidad lo sigue Suno: pedir al modelo que toque las notas exactamente como se escribieron o tomar un motivo del archivo y desarrollarlo en algo nuevo. MIDI no contiene ningún sonido, lo que lo diferencia de subir audio para Remix o Cover: transmite información exacta de notas y tiempos para un control muy preciso."
               },
               {
                 "t": "p",
-                "x": "En su primera respuesta de peso, presentada el martes (3 de noviembre), los abogados de Suno escriben: “Cuando la gente describe estilos musicales, suele usar los nombres de artistas como atajo para el género que interpretan. Este caso se basa en la premisa de que la ley de algún modo condena esa práctica universal. En realidad no lo hace; la Primera Enmienda (First Amendment) no lo permitiría”."
+                "x": "Usos sugeridos: exportar partituras en curso para escucharlas con instrumentación de alta calidad (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), que estudiantes y directores de banda prueben composiciones, o recuperar MIDI de antiguas sesiones de banda (\"Transform this MIDI into a string quartet\")."
               },
               {
                 "t": "p",
-                "x": "Suno afirma que convierte los nombres de artistas en “características musicales descriptivas”: un prompt de “Duran Duran” podría convertirse en “New wave, Synth-pop, Pop rock”. La demanda de Isbell sostiene que esas salvaguardas pueden burlarse con espacios, como en “t a y l o r s w i f t”."
-              },
-              {
-                "t": "p",
-                "x": "Suno también argumenta que el caso está condenado por la “preemption” (primacía) federal, y afirma que “crearía un régimen de IP paralelo basado en leyes estatales … en conflicto fundamental con el régimen federal vigente desde hace más de dos siglos”."
+                "x": "En el lanzamiento, MIDI usa el modo Simple Create con v6-wild. La función está disponible para todos los suscriptores Pro y Premier, y Suno planea ampliar las capacidades de MIDI con el tiempo."
               }
             ]
           }
@@ -217,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Jason Isbell의\n소송, Suno 기각 요청",
-          "body": "Suno는 사용자가 AI로 아티스트 스타일을 요청해도 불법이 아니라고 주장한다.",
-          "mini_headline": "Suno, Isbell 소송 기각 요청",
+          "headline": "Suno, 내 MIDI로\n곡을 시작한다",
+          "body": "Suno가 Create에 MIDI 업로드를 열어 내 멜로디·코드로 곡을 시작한다.",
+          "mini_headline": "Suno, MIDI 업로드 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "AI 음악 기업 Suno가 Jason Isbell 등 스타들의 예술적 정체성을 훔쳤다는 소송을 기각해 달라고 판사에게 요청했다. Suno는 특정 아티스트의 “분위기(vibe)”를 재현하려는 데 “불법적인 것은 전혀 없다”고 주장한다."
+                "x": "이제 Suno에서 MIDI 파일로 곡을 시작할 수 있다. Create 페이지에 파일을 끌어다 놓거나 '+' 메뉴에서 MIDI를 고르면 된다. MIDI 파일은 한 파트의 음표와 타이밍을 정확히 담고 있어, Suno에서 곡을 만드는 다른 어떤 방법보다 훨씬 정밀한 출발점이 된다."
               },
               {
                 "t": "p",
-                "x": "Isbell은 지난 8월 소송을 내며, Suno가 AI 작곡 도구에 이름을 프롬프트로 입력하는 것만으로 사용자들이 “사랑받는 뮤지션의 정체성을 불러낼 수 있게” 했다고 비판했다. 이 사건은 저작권 음악을 모델 학습에 쓴 문제를 다룬 이전 소송과 달리, 뉴욕·캘리포니아·테네시 등 각 주의 퍼블리시티권 법에 따른 집단소송으로 제기됐다."
+                "x": "Suno가 원본을 얼마나 충실히 따를지도 정할 수 있다. 쓴 음표를 그대로 연주하게 하거나, 파일에서 모티프를 가져와 새로운 곡으로 발전시키게 할 수 있다. MIDI에는 소리가 전혀 담기지 않는다는 점에서 Remix나 Cover용 오디오 업로드와 다르다. 정확한 음표와 타이밍 정보를 전달해 매우 정밀하게 제어할 수 있다."
               },
               {
                 "t": "p",
-                "x": "화요일(Nov. 3) 내놓은 첫 본격 답변서에서 Suno 변호인단은 이렇게 썼다. “사람들은 음악 스타일을 설명할 때, 아티스트가 활동하는 장르를 줄여 말하려고 그 이름을 흔히 쓴다. 이 소송은 법이 그런 보편적 관행을 어떻게든 금지한다는 전제에 기대고 있다. 실제로 법은 그렇지 않으며, 수정헌법 첫 조항(First Amendment)도 그것을 허용하지 않을 것이다.”"
+                "x": "제안된 활용법은 이렇다. 작업 중인 악보를 내보내 고품질 악기 편성으로 들어 보거나(\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), 학생과 밴드 리더가 작곡을 시연해 보거나, 옛 밴드 세션의 MIDI를 되살리는 식이다(\"Transform this MIDI into a string quartet\")."
               },
               {
                 "t": "p",
-                "x": "Suno는 아티스트 이름을 “서술적인 음악적 특성”으로 바꾼다고 설명한다. 예컨대 “Duran Duran”이라는 프롬프트는 “New wave, Synth-pop, Pop rock”이 될 수 있다. Isbell 측은 “t a y l o r s w i f t”처럼 띄어쓰기만 넣어도 이런 안전장치를 속일 수 있다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "Suno는 연방법 “선점(preemption)” 원칙 때문에도 이 소송은 성립할 수 없다고 주장한다. 이 소송이 “주법에 기반한 그림자 IP 체제를 만들어 … 두 세기 넘게 유지돼 온 연방 체제와 근본적으로 충돌할 것”이라는 논리다."
+                "x": "출시 시점에 MIDI는 v6-wild 기반 Simple Create 모드를 쓴다. 이 기능은 모든 Pro·Premier 구독자가 쓸 수 있으며, Suno는 MIDI 기능을 차차 넓혀 갈 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Jason Isbellの\n訴訟、Sunoが却下申し立て",
-          "body": "Sunoは、ユーザーがAIにアーティストの作風を指示しても違法ではないと主張する。",
-          "mini_headline": "Suno、Isbell訴訟の却下を要求",
+          "headline": "Suno、自作MIDIから\n曲づくりが可能に",
+          "body": "SunoはCreateでMIDIを読み込み、自分のメロディやコードから曲を始められる。",
+          "mini_headline": "SunoがMIDIアップロードに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "AI音楽企業のSunoは、同社がJason Isbellら人気アーティストの芸術的アイデンティティを盗んだとする訴訟の却下を判事に求めている。特定のアーティストの「雰囲気(vibe)」を再現しようとすることに「違法な点は何もない」というのが同社の主張だ。"
+                "x": "SunoでMIDIファイルから曲を作り始められるようになった。Createページにファイルをドラッグ＆ドロップするか、「+」メニューからMIDIを選ぶ。MIDIファイルはパートの正確な音符とタイミングを保持しているため、Sunoでのほかのどの制作方法よりもはるかに精密な出発点になる。"
               },
               {
                 "t": "p",
-                "x": "Isbellは8月に提訴し、SunoのAI楽曲生成ツールに名前をプロンプトとして入力するだけで、ユーザーが「愛されるミュージシャンのアイデンティティを呼び出せる」ようにしていると訴えた。著作権のある楽曲をモデルの学習に使ったことをめぐる従来の訴訟とは異なり、本件はニューヨーク、カリフォルニア、テネシーなどの州のパブリシティ権法に基づく集団訴訟として起こされた。"
+                "x": "Sunoがどこまで忠実に従うかも決められる。書いた音符をそのまま演奏させることも、ファイルからモチーフを取り出して新しいものへ発展させることもできる。MIDIは音そのものを一切含まない点で、RemixやCover向けの音声アップロードとは異なる。正確な音符とタイミングの情報を伝えるため、非常に精密な制御が可能だ。"
               },
               {
                 "t": "p",
-                "x": "火曜日(Nov. 3)に出した初の本格的な答弁で、Sunoの弁護団はこう述べた。「人々は音楽のスタイルを説明する際、そのアーティストが属するジャンルの略称としてアーティスト名をよく使う。本件は、法律がこの普遍的な慣行をなぜか禁じているという前提に立っている。実際にはそうではなく、合衆国憲法修正第一条(First Amendment)もそれを許さないだろう」"
+                "x": "想定される使い方は、制作途中のスコアを書き出して高品質な楽器編成で聴く（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）、学生やバンドリーダーが作曲を試聴する、昔のバンドセッションのMIDIをよみがえらせる（\"Transform this MIDI into a string quartet\"）といったものだ。"
               },
               {
                 "t": "p",
-                "x": "Sunoによれば、アーティスト名は「説明的な音楽的特徴」に変換される。たとえば「Duran Duran」というプロンプトは「New wave, Synth-pop, Pop rock」になり得る。Isbell側は、「t a y l o r s w i f t」のようにスペースを入れるだけでこうした安全策をすり抜けられると主張している。"
-              },
-              {
-                "t": "p",
-                "x": "Sunoはさらに、連邦法による「専占(preemption)」によって本件は成り立たないと主張し、本件は「州法に基づく影のIP制度を生み出し……二世紀以上続いてきた連邦制度と根本的に衝突する」と述べた。"
+                "x": "提供開始時点で、MIDIはv6-wildによるSimple Createモードを使う。この機能はすべてのProおよびPremier加入者が利用でき、SunoはMIDI機能を順次拡充する計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno请求驳回\nJason Isbell诉讼",
-          "body": "Suno主张，允许用户以艺人风格向AI下达提示并无违法之处。",
-          "mini_headline": "Suno请求驳回Isbell诉讼",
+          "headline": "Suno支持用你的MIDI\n文件开始创作歌曲",
+          "body": "Suno允许用户在Create中上传MIDI文件，以自己的旋律、和弦或编曲为起点生成歌曲。",
+          "mini_headline": "Suno支持MIDI上传",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "Suno正请求法官驳回一起诉讼。该诉讼称这家AI音乐公司窃取了Jason Isbell等明星的艺术身份，而Suno辩称，试图复制某位艺人的“氛围”（vibe）“并无任何违法之处”。"
+                "x": "现在可以在Suno上从MIDI文件开始创作歌曲：把文件拖放到Create页面，或在“+”菜单中选择MIDI即可。MIDI文件记录了一个声部的精确音符与时值，因此它提供的起点比在Suno上任何其他创作方式都精确得多。"
               },
               {
                 "t": "p",
-                "x": "Isbell于8月提起诉讼，指控Suno让用户只需在其AI歌曲生成器中输入艺人姓名作为提示，就能“召唤出一位深受喜爱的音乐人的身份”。与此前围绕使用受版权保护的音乐训练模型的诉讼不同，此案依据纽约、加利福尼亚、田纳西等州的肖像权法律，以集体诉讼形式提起。"
+                "x": "你可以决定Suno跟随的紧密程度：让模型完全按你写的音符演奏，或从文件中提取一个动机，发展成全新的内容。MIDI本身不含任何声音，这使它不同于为Remix或Cover上传音频——它传递的是精确的音符和时值信息，可实现非常精细的控制。"
               },
               {
                 "t": "p",
-                "x": "在周二（Nov. 3）提交的首份重要答辩中，Suno的律师写道：“人们在描述音乐风格时，常用艺人的名字来简称其所属的曲风。此案的前提是法律以某种方式谴责这种普遍做法。事实并非如此；第一修正案（First Amendment）也不会允许法律这样做。”"
+                "x": "建议用途包括：导出未完成的乐谱，用高品质配器试听（\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"）；让学生和乐队领队试听作品；或复活旧乐队排练留下的MIDI（\"Transform this MIDI into a string quartet\"）。"
               },
               {
                 "t": "p",
-                "x": "Suno表示，它会把艺人姓名转换为“描述性的音乐特征”——例如输入“Duran Duran”的提示可能变成“New wave, Synth-pop, Pop rock”。Isbell的诉状称，用空格就能绕过这些防护措施，比如“t a y l o r s w i f t”。"
-              },
-              {
-                "t": "p",
-                "x": "Suno还主张，联邦“优先适用”（preemption）原则注定让此案无法成立，称其“将制造一个影子般的州法IP体系……与已实行两个多世纪的联邦体系根本冲突”。"
+                "x": "上线时，MIDI使用搭载v6-wild的Simple Create模式。该功能向所有Pro和Premier订阅用户开放，Suno计划逐步扩展MIDI功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno pide desestimar la demanda\nde Jason Isbell por identidad",
-          "body": "Suno sostiene que no hay nada ilegal en permitir que los usuarios pidan a su AI el estilo de un artista.",
-          "mini_headline": "Suno pide desestimar la demanda de Isbell",
+          "headline": "Suno ya crea canciones\na partir de tu archivo MIDI",
+          "body": "Suno permite subir un archivo MIDI en Create para iniciar una canción desde su propia melodía, acordes o arreglo.",
+          "mini_headline": "Suno admite archivos MIDI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+                "src": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?w=1600&h=900&fit=crop&auto=format"
               },
               {
                 "t": "p",
-                "x": "Suno pide a un juez que desestime una demanda que acusa a la empresa de música con AI de haber robado la identidad artística de Jason Isbell y otras estrellas, y sostiene que no hay “nada ilegal” en intentar replicar el “vibe” de un artista concreto."
+                "x": "Ahora es posible empezar una canción en Suno a partir de un archivo MIDI, arrastrándolo y soltándolo en la página Create o eligiendo MIDI en el menú '+'. Un archivo MIDI contiene las notas y los tiempos exactos de una parte musical, por lo que ofrece un punto de partida mucho más preciso que cualquier otra forma de crear en Suno."
               },
               {
                 "t": "p",
-                "x": "Isbell presentó la demanda en agosto y acusa a Suno de permitir que los usuarios “conjuren la identidad de un músico querido” al introducir su nombre como prompt en su generador de canciones con AI. El caso se presentó como demanda colectiva al amparo de las leyes estatales sobre la propia imagen de Nueva York, California, Tennessee y otros estados, a diferencia de litigios anteriores sobre el uso de música protegida por derechos de autor para entrenar modelos."
+                "x": "Se puede decidir con qué fidelidad lo sigue Suno: pedir al modelo que toque las notas exactamente como se escribieron o tomar un motivo del archivo y desarrollarlo en algo nuevo. MIDI no contiene ningún sonido, lo que lo diferencia de subir audio para Remix o Cover: transmite información exacta de notas y tiempos para un control muy preciso."
               },
               {
                 "t": "p",
-                "x": "En su primera respuesta de peso, presentada el martes (3 de noviembre), los abogados de Suno escriben: “Cuando la gente describe estilos musicales, suele usar los nombres de artistas como atajo para el género que interpretan. Este caso se basa en la premisa de que la ley de algún modo condena esa práctica universal. En realidad no lo hace; la Primera Enmienda (First Amendment) no lo permitiría”."
+                "x": "Usos sugeridos: exportar partituras en curso para escucharlas con instrumentación de alta calidad (\"Arrange this MIDI for a full orchestra, with strings, brass, woodwinds and percussion\"), que estudiantes y directores de banda prueben composiciones, o recuperar MIDI de antiguas sesiones de banda (\"Transform this MIDI into a string quartet\")."
               },
               {
                 "t": "p",
-                "x": "Suno afirma que convierte los nombres de artistas en “características musicales descriptivas”: un prompt de “Duran Duran” podría convertirse en “New wave, Synth-pop, Pop rock”. La demanda de Isbell sostiene que esas salvaguardas pueden burlarse con espacios, como en “t a y l o r s w i f t”."
-              },
-              {
-                "t": "p",
-                "x": "Suno también argumenta que el caso está condenado por la “preemption” (primacía) federal, y afirma que “crearía un régimen de IP paralelo basado en leyes estatales … en conflicto fundamental con el régimen federal vigente desde hace más de dos siglos”."
+                "x": "En el lanzamiento, MIDI usa el modo Simple Create con v6-wild. La función está disponible para todos los suscriptores Pro y Premier, y Suno planea ampliar las capacidades de MIDI con el tiempo."
               }
             ]
           }
@@ -355,15 +315,15 @@
       }
     },
     {
-      "id": "music-riaa-openai-amicus",
+      "id": "izotope-photon-gpu-stems",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "음악업계, OpenAI\nfair-use 공방 가세",
-      "body": "RIAA·NMPA·A2IM·SONA·ARA는 AI 학습의 공정 이용을 부정했다.",
-      "mini_headline": "음악업계, OpenAI 소송에 의견서",
+      "headline": "iZotope Photon\n내 GPU로 스템 분리",
+      "body": "iZotope's Photon은 12개 모델로 로컬 GPU에서 스템을 분리한다.",
+      "mini_headline": "iZotope Photon 로컬 구동",
       "tool": "Music",
-      "source": "CMU",
-      "url": "https://completemusicupdate.com/music-industry-intervenes-in-open-ais-big-legal-battle-with-newspapers-and-authors/",
+      "source": "MusicTech",
+      "url": "https://musictech.com/news/gear/izotope-photon/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -371,173 +331,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+            "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+            "cap": "제공: iZotope"
           },
           {
             "t": "p",
-            "x": "RIAA, NMPA, A2IM, SONA, ARA 등 음악업계 단체들이 도서 저자·신문사가 Open AI와 벌이는 대형 소송에 법정 조언자 의견서(amicus brief)를 냈다. 미국 저작권법상 AI 학습이 결코 공정 이용(fair use)으로 인정돼선 안 되는 이유를 담았다."
+            "x": "iZotope가 AI-powered 스템 분리·오디오 정리 도구 Photon을 출시했다. 맞춤 학습한 12개 모델로 돌아가며, 파일을 클라우드에 올리지 않고 사용자 컴퓨터 GPU에서 로컬로 처리한다. iZotope와 모회사 Boris FX가 처음 함께 만든 제품이다."
           },
           {
             "t": "p",
-            "x": "AI 기업을 상대로 한 US 저작권 소송은 하나같이 공정 이용 여부가 관건이다. Suno, Udio, Anthropic을 겨냥한 음악업계 소송도 다르지 않다. 앞서 Trump 행정부 법무부는 Open AI의 학습이 공정 이용이 아니라고 판결하면 “저작권법의 기본 원칙에 어긋난다”는 입장을 판사에게 전했다."
+            "x": "알고리즘은 Demix와 Denoise 두 갈래다. Demix는 음악을 스템 네 개로, 드럼을 다섯 개(킥, 스네어, 하이햇, 탐, 심벌)로, 목소리를 최대 여섯 개로 나눈다. Cinema 모델은 파일을 대사, 음악, 효과음, 그 밖의 소리로 가른다. Denoise에는 Voice Restore, Indoor / Indoor Noisy, Outdoor / Outdoor Traffic / Outdoor Wind 모델이 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
           },
           {
             "t": "p",
-            "x": "의견서의 논거는 세 갈래다. 변형적 이용 쟁점에서는 Warhol 판결을 인용해 “AI 모델이 로맨스 시나 블루그래스를 흡수하는 것은 언어나 음악 전반을 배우기 위해서가 아니라, 그것처럼 읽히고 들리는 대체물을 만들어 내기 위해서다”라고 했다. 시장 희석 쟁점에서는 AI가 “학습에 쓰인 저작물의 시장을 대체하고 그 가치를 떨어뜨리는 콘텐츠를 끝없이 출력하는 고유한 능력을 지녔다”고 지적했다. 저작권의 폭넓은 목적이 “인간이 대중의 이익을 위해 창작물을 만들도록 장려하는 것”이라는 점도 강조했다."
+            "x": "Photon은 ARA2 플러그인으로 Mac과 Windows의 Pro Tools, REAPER, Cubase, 그리고 Windows의 Sequoia와 Samplitude 안에서 돌아간다. Model Manager로 재설치 없이 새 모델과 업데이트된 모델을 내려받는다. WAV, FLAC, MP3로 내보내거나 원본 비디오 스트림을 유지한 채 영상으로 내보낼 수도 있다."
           },
           {
             "t": "p",
-            "x": "US Music Artist Coalition은 별도로 Cate Blanchett이 공동 설립한 Human Consent Foundation의 의견서에 힘을 보탰다. 이 의견서는 “창작 산업에는 흩어진 저작물의 권리를 대규모로, 비용 효율적으로 처리할 수 있는 검증된 인프라와 업무 흐름이 이미 갖춰져 있다”고 주장한다."
+            "x": "Photon은 지금 독립 실행형 앱과 ARA2 플러그인으로 나와 있다. 가격은 $349이며 12월 7일까지 이어지는 사이버 세일 기간에는 $259다. Apple Silicon Macs와 Windows 10 이상을 지원한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Music industry joins\nOpenAI fair-use fight",
-          "body": "RIAA, NMPA, A2IM, SONA and ARA filed an amicus brief arguing AI training should never be fair use.",
-          "mini_headline": "Labels back OpenAI suits",
+          "headline": "iZotope Photon separates\nstems on your own GPU",
+          "body": "iZotope's Photon uses 12 custom-trained models to split stems and clean audio locally on the GPU, not in the cloud.",
+          "mini_headline": "iZotope Photon runs local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "Credit: iZotope"
               },
               {
                 "t": "p",
-                "x": "A group of music industry organisations - including RIAA, NMPA, A2IM, SONA and ARA - have intervened via an amicus brief in the big ongoing legal battle between book authors and newspaper owners and Open AI, setting out why AI training should never be considered fair use under American copyright law."
+                "x": "iZotope has launched Photon, an AI-powered stem separation and audio cleanup tool that's powered by 12 custom-trained models and processes audio locally on your computer's GPU rather than uploading files to the cloud. It is the first collaboration between iZotope and parent company Boris FX."
               },
               {
                 "t": "p",
-                "x": "All of the US copyright lawsuits against AI companies swing on fair use - including the music industry’s litigation targeting Suno, Udio and Anthropic. Trump’s Department Of Justice previously told the judge that ruling Open AI’s training was not fair use would be “inconsistent with basic copyright law principles”."
+                "x": "Its algorithms split into Demix and Denoise. Demix separates music into four stems, drums into five (kick, snare, hi-hat, toms and cymbals), up to six different voices, and a Cinema model splits files into dialogue, music, sound effects and everything else. Denoise offers Voice Restore, Indoor / Indoor Noisy and Outdoor / Outdoor Traffic / Outdoor Wind models."
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "The brief makes three arguments. On transformativeness, citing the Warhol ruling: “An AI model does not ingest romance poetry or bluegrass to learn about language or music at large, but rather to generate substitutes that read and sound like them”. On market dilution, AI “has the unique capacity to output endless content that displaces the market for and diminishes the value of the copyrighted works on which it trained”. And copyright’s broad purpose is “to encourage humans to produce creative works for the public’s benefit”."
+                "x": "As an ARA2 plugin, Photon works inside Pro Tools, REAPER and Cubase on Mac and Windows, plus Sequoia and Samplitude on Windows; a Model Manager downloads new and updated models without reinstalling. It exports to WAV, FLAC and MP3 or to video with the original video stream kept."
               },
               {
                 "t": "p",
-                "x": "Separately, the US Music Artist Coalition backed a submission from the Human Consent Foundation, co-founded by Cate Blanchett, arguing that “the creative industries already have in place a proven infrastructure and workflows to clear rights for dispersed works at scale and cost-effectively”."
+                "x": "Photon is available now as a standalone app and ARA2 plugin, priced at $349 or $259 during a cyber sale running through 7 December, for Apple Silicon Macs and Windows 10 or later."
               }
             ]
           }
         },
         "ko": {
-          "headline": "음악업계, OpenAI\nfair-use 공방 가세",
-          "body": "RIAA·NMPA·A2IM·SONA·ARA는 AI 학습의 공정 이용을 부정했다.",
-          "mini_headline": "음악업계, OpenAI 소송에 의견서",
+          "headline": "iZotope Photon\n내 GPU로 스템 분리",
+          "body": "iZotope's Photon은 12개 모델로 로컬 GPU에서 스템을 분리한다.",
+          "mini_headline": "iZotope Photon 로컬 구동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "제공: iZotope"
               },
               {
                 "t": "p",
-                "x": "RIAA, NMPA, A2IM, SONA, ARA 등 음악업계 단체들이 도서 저자·신문사가 Open AI와 벌이는 대형 소송에 법정 조언자 의견서(amicus brief)를 냈다. 미국 저작권법상 AI 학습이 결코 공정 이용(fair use)으로 인정돼선 안 되는 이유를 담았다."
+                "x": "iZotope가 AI-powered 스템 분리·오디오 정리 도구 Photon을 출시했다. 맞춤 학습한 12개 모델로 돌아가며, 파일을 클라우드에 올리지 않고 사용자 컴퓨터 GPU에서 로컬로 처리한다. iZotope와 모회사 Boris FX가 처음 함께 만든 제품이다."
               },
               {
                 "t": "p",
-                "x": "AI 기업을 상대로 한 US 저작권 소송은 하나같이 공정 이용 여부가 관건이다. Suno, Udio, Anthropic을 겨냥한 음악업계 소송도 다르지 않다. 앞서 Trump 행정부 법무부는 Open AI의 학습이 공정 이용이 아니라고 판결하면 “저작권법의 기본 원칙에 어긋난다”는 입장을 판사에게 전했다."
+                "x": "알고리즘은 Demix와 Denoise 두 갈래다. Demix는 음악을 스템 네 개로, 드럼을 다섯 개(킥, 스네어, 하이햇, 탐, 심벌)로, 목소리를 최대 여섯 개로 나눈다. Cinema 모델은 파일을 대사, 음악, 효과음, 그 밖의 소리로 가른다. Denoise에는 Voice Restore, Indoor / Indoor Noisy, Outdoor / Outdoor Traffic / Outdoor Wind 모델이 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "의견서의 논거는 세 갈래다. 변형적 이용 쟁점에서는 Warhol 판결을 인용해 “AI 모델이 로맨스 시나 블루그래스를 흡수하는 것은 언어나 음악 전반을 배우기 위해서가 아니라, 그것처럼 읽히고 들리는 대체물을 만들어 내기 위해서다”라고 했다. 시장 희석 쟁점에서는 AI가 “학습에 쓰인 저작물의 시장을 대체하고 그 가치를 떨어뜨리는 콘텐츠를 끝없이 출력하는 고유한 능력을 지녔다”고 지적했다. 저작권의 폭넓은 목적이 “인간이 대중의 이익을 위해 창작물을 만들도록 장려하는 것”이라는 점도 강조했다."
+                "x": "Photon은 ARA2 플러그인으로 Mac과 Windows의 Pro Tools, REAPER, Cubase, 그리고 Windows의 Sequoia와 Samplitude 안에서 돌아간다. Model Manager로 재설치 없이 새 모델과 업데이트된 모델을 내려받는다. WAV, FLAC, MP3로 내보내거나 원본 비디오 스트림을 유지한 채 영상으로 내보낼 수도 있다."
               },
               {
                 "t": "p",
-                "x": "US Music Artist Coalition은 별도로 Cate Blanchett이 공동 설립한 Human Consent Foundation의 의견서에 힘을 보탰다. 이 의견서는 “창작 산업에는 흩어진 저작물의 권리를 대규모로, 비용 효율적으로 처리할 수 있는 검증된 인프라와 업무 흐름이 이미 갖춰져 있다”고 주장한다."
+                "x": "Photon은 지금 독립 실행형 앱과 ARA2 플러그인으로 나와 있다. 가격은 $349이며 12월 7일까지 이어지는 사이버 세일 기간에는 $259다. Apple Silicon Macs와 Windows 10 이상을 지원한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "音楽業界、OpenAIの\nfair-use 訴訟に参戦",
-          "body": "RIAA、NMPA、A2IM、SONA、ARAが意見書でAI学習のフェアユースを否定した。",
-          "mini_headline": "音楽団体がOpenAI訴訟に意見書",
+          "headline": "iZotope Photon\n手元のGPUでステム分離",
+          "body": "iZotope's Photonは12モデルでクラウドを使わずGPUでステムを分離する。",
+          "mini_headline": "iZotope Photonはローカル動作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "提供：iZotope"
               },
               {
                 "t": "p",
-                "x": "RIAA、NMPA、A2IM、SONA、ARAなど音楽業界の団体が、書籍の著者や新聞社とOpen AIの間で続く大型訴訟にアミカス・ブリーフ(amicus brief)で介入し、米国著作権法の下でAI学習が決してフェアユース(fair use)とみなされるべきでない理由を示した。"
+                "x": "iZotopeは、AI-poweredのステム分離・オーディオクリーンアップツール「Photon」を発表した。独自に学習させた12のモデルで動作し、ファイルをクラウドにアップロードせず、コンピューターのGPU上でローカルに処理する。iZotopeと親会社Boris FXによる初の共同開発である。"
               },
               {
                 "t": "p",
-                "x": "AI企業を相手取ったUSの著作権訴訟はすべてフェアユースの判断にかかっており、Suno、Udio、Anthropicを標的とする音楽業界の訴訟も同様だ。Trump政権の司法省は以前、Open AIの学習をフェアユースではないと判断することは「著作権法の基本原則と相容れない」と判事に伝えていた。"
+                "x": "アルゴリズムはDemixとDenoiseに分かれる。Demixは音楽を四つのステムに、ドラムを五つ（キック、スネア、ハイハット、タム、シンバル）に、声を最大六つに分離し、Cinemaモデルはファイルをダイアログ、音楽、効果音、その他に分ける。DenoiseはVoice Restore、Indoor / Indoor Noisy、Outdoor / Outdoor Traffic / Outdoor Windの各モデルを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "意見書は三つの論点を挙げる。変容性については、Warhol判決を引用し「AIモデルがロマンス詩やブルーグラスを取り込むのは、言語や音楽全般を学ぶためではなく、それらのように読め、聞こえる代替物を生成するためだ」と述べる。市場の希釈については、AIは「学習に使った著作物の市場を奪い、その価値を損なうコンテンツを際限なく出力する独自の能力を持つ」とする。そして著作権の広い目的は「人間が公共の利益のために創作物を生み出すよう促すこと」だという。"
+                "x": "PhotonはARA2プラグインとして、MacとWindowsのPro Tools、REAPER、Cubase、さらにWindowsのSequoiaとSamplitudeで動作する。Model Managerにより、再インストールなしで新規・更新モデルをダウンロードできる。書き出しはWAV、FLAC、MP3のほか、元の映像ストリームを保ったまま動画にも対応する。"
               },
               {
                 "t": "p",
-                "x": "これとは別に、US Music Artist Coalitionは、Cate Blanchettが共同設立したHuman Consent Foundationの意見書を支持した。同意見書は「クリエイティブ産業にはすでに、散在する作品の権利を大規模かつ低コストで処理する実績あるインフラとワークフローがある」と主張している。"
+                "x": "Photonはスタンドアロンアプリおよび ARA2プラグインとして提供中で、価格は$349。12月7日までのサイバーセール期間中は$259となる。対応環境はApple Silicon MacsとWindows 10以降だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "音乐行业加入 OpenAI\nfair-use 之争",
-          "body": "RIAA、NMPA、A2IM、SONA和ARA以意见书主张AI训练绝不属合理使用。",
-          "mini_headline": "音乐团体声援OpenAI诉讼原告",
+          "headline": "iZotope Photon\n用本机GPU分离音轨",
+          "body": "iZotope's Photon用12个定制训练模型在本地GPU上分离音轨，不依赖云端。",
+          "mini_headline": "iZotope Photon本地运行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "图片来源：iZotope"
               },
               {
                 "t": "p",
-                "x": "包括RIAA、NMPA、A2IM、SONA和ARA在内的一批音乐行业组织，以法庭之友意见书（amicus brief）介入图书作者、报纸所有者与Open AI之间正在进行的重大诉讼，阐述了为何根据美国版权法，AI训练绝不应被视为合理使用（fair use）。"
+                "x": "iZotope推出AI-powered音轨分离与音频清理工具Photon，由12个定制训练模型驱动，在电脑GPU上本地处理音频，无需将文件上传至云端。这是iZotope与母公司Boris FX的首次合作。"
               },
               {
                 "t": "p",
-                "x": "美国（US）针对AI公司的版权诉讼都取决于合理使用问题，包括音乐行业针对Suno、Udio和Anthropic的诉讼。Trump政府的司法部此前曾告诉法官，裁定Open AI的训练不属于合理使用将“与版权法基本原则不符”。"
+                "x": "其算法分为Demix和Denoise两类。Demix可将音乐分离为四个音轨，将鼓分离为五个（底鼓、军鼓、踩镲、通鼓和镲片），最多可分离六种不同人声；Cinema模型则将文件拆分为对白、音乐、音效及其他所有声音。Denoise提供Voice Restore、Indoor / Indoor Noisy以及Outdoor / Outdoor Traffic / Outdoor Wind模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "意见书提出三点论据。关于转换性，它援引Warhol案判决：“AI模型吸收浪漫诗歌或蓝草音乐，不是为了学习整体的语言或音乐，而是为了生成读起来、听起来与之相似的替代品。”关于市场稀释，AI“具有独特的能力，可以无止境地输出内容，取代其训练所用受版权保护作品的市场并削弱其价值”。此外，版权的广泛目的是“鼓励人类为公众利益创作作品”。"
+                "x": "作为ARA2插件，Photon可在Mac和Windows上的Pro Tools、REAPER和Cubase中运行，也支持Windows上的Sequoia和Samplitude；Model Manager无需重装即可下载新模型和更新模型。它可导出为WAV、FLAC和MP3，也可在保留原始视频流的情况下导出为视频。"
               },
               {
                 "t": "p",
-                "x": "另外，US Music Artist Coalition支持了由Cate Blanchett联合创办的Human Consent Foundation提交的意见，称“创意产业已经拥有成熟的基础设施和工作流程，能够大规模且经济高效地为分散的作品清理版权”。"
+                "x": "Photon现已以独立应用和ARA2插件形式推出，售价$349，在持续至12月7日的网络促销期间为$259，支持Apple Silicon Macs以及Windows 10或更高版本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La industria musical se suma\nal pleito fair-use contra OpenAI",
-          "body": "RIAA, NMPA, A2IM, SONA y ARA presentaron un amicus brief que sostiene que entrenar AI nunca es fair use.",
-          "mini_headline": "Sellos respaldan demandas contra OpenAI",
+          "headline": "iZotope Photon separa stems\nen tu propia GPU",
+          "body": "Photon de iZotope usa 12 modelos entrenados a medida para separar stems y limpiar audio en la GPU local, sin la nube.",
+          "mini_headline": "iZotope Photon funciona en local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "Crédito: iZotope"
               },
               {
                 "t": "p",
-                "x": "Un grupo de organizaciones de la industria musical, entre ellas RIAA, NMPA, A2IM, SONA y ARA, ha intervenido mediante un amicus brief en la gran batalla legal en curso entre autores de libros y propietarios de periódicos y Open AI, y expone por qué el entrenamiento de AI nunca debería considerarse fair use según la ley de derechos de autor estadounidense."
+                "x": "iZotope ha lanzado Photon, una herramienta AI-powered de separación de stems y limpieza de audio que funciona con 12 modelos entrenados a medida y procesa el audio localmente en la GPU del ordenador en lugar de subir archivos a la nube. Es la primera colaboración entre iZotope y su empresa matriz, Boris FX."
               },
               {
                 "t": "p",
-                "x": "Todas las demandas de derechos de autor en US contra empresas de AI giran en torno al fair use, incluidos los litigios de la industria musical contra Suno, Udio y Anthropic. El Departamento de Justicia de Trump ya había dicho al juez que dictaminar que el entrenamiento de Open AI no era fair use sería “incompatible con los principios básicos del derecho de autor”."
+                "x": "Sus algoritmos se dividen en Demix y Denoise. Demix separa la música en cuatro stems, la batería en cinco (bombo, caja, hi-hat, toms y platillos), hasta seis voces distintas, y un modelo Cinema divide los archivos en diálogo, música, efectos de sonido y todo lo demás. Denoise ofrece los modelos Voice Restore, Indoor / Indoor Noisy y Outdoor / Outdoor Traffic / Outdoor Wind."
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "El escrito plantea tres argumentos. Sobre el carácter transformador, cita el fallo Warhol: “Un modelo de AI no absorbe poesía romántica o bluegrass para aprender sobre el lenguaje o la música en general, sino para generar sustitutos que se lean y suenen como ellos”. Sobre la dilución del mercado, la AI “tiene la capacidad única de producir contenido sin fin que desplaza el mercado y reduce el valor de las obras protegidas con las que se entrenó”. Y el propósito amplio del derecho de autor es “animar a los seres humanos a producir obras creativas en beneficio del público”."
+                "x": "Como plugin ARA2, Photon funciona dentro de Pro Tools, REAPER y Cubase en Mac y Windows, además de Sequoia y Samplitude en Windows; un Model Manager descarga modelos nuevos y actualizados sin reinstalar. Exporta a WAV, FLAC y MP3 o a vídeo conservando el flujo de vídeo original."
               },
               {
                 "t": "p",
-                "x": "Por otra parte, la US Music Artist Coalition respaldó una presentación de la Human Consent Foundation, cofundada por Cate Blanchett, que sostiene que “las industrias creativas ya cuentan con una infraestructura y unos flujos de trabajo probados para gestionar derechos de obras dispersas a gran escala y de forma rentable”."
+                "x": "Photon ya está disponible como app independiente y plugin ARA2, a un precio de $349 o $259 durante una oferta cyber vigente hasta el 7 de diciembre, para Apple Silicon Macs y Windows 10 o posterior."
               }
             ]
           }
@@ -545,121 +535,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "음악업계, OpenAI\nfair-use 공방 가세",
-          "body": "RIAA·NMPA·A2IM·SONA·ARA는 AI 학습의 공정 이용을 부정했다.",
-          "mini_headline": "음악업계, OpenAI 소송에 의견서",
+          "headline": "iZotope Photon\n내 GPU로 스템 분리",
+          "body": "iZotope's Photon은 12개 모델로 로컬 GPU에서 스템을 분리한다.",
+          "mini_headline": "iZotope Photon 로컬 구동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "제공: iZotope"
               },
               {
                 "t": "p",
-                "x": "RIAA, NMPA, A2IM, SONA, ARA 등 음악업계 단체들이 도서 저자·신문사와 Open AI 사이에 진행 중인 대형 소송에 법정 조언자 의견서(amicus brief)를 내며 개입했다. 이들은 미국 저작권법상 AI 학습이 결코 공정 이용(fair use)으로 인정돼선 안 되는 이유를 제시했다."
+                "x": "iZotope가 AI-powered 스템 분리·오디오 정리 도구 Photon을 출시했다. 맞춤 학습한 12개 모델로 구동되며, 파일을 클라우드에 올리지 않고 사용자 컴퓨터의 GPU에서 로컬로 처리한다. iZotope와 모회사 Boris FX의 첫 협업작이다."
               },
               {
                 "t": "p",
-                "x": "AI 기업을 상대로 한 US 저작권 소송은 모두 공정 이용 여부에 달려 있다. Suno, Udio, Anthropic을 겨냥한 음악업계의 소송도 마찬가지다. 앞서 Trump 행정부의 법무부는 Open AI의 학습이 공정 이용이 아니라고 판결하는 것은 “저작권법의 기본 원칙에 어긋난다”고 판사에게 밝힌 바 있다."
+                "x": "알고리즘은 Demix와 Denoise로 나뉜다. Demix는 음악을 네 개 스템으로, 드럼을 다섯 개(킥, 스네어, 하이햇, 탐, 심벌)로, 목소리를 최대 여섯 개로 분리하며, Cinema 모델은 파일을 대사, 음악, 효과음, 그 밖의 소리로 나눈다. Denoise는 Voice Restore, Indoor / Indoor Noisy, Outdoor / Outdoor Traffic / Outdoor Wind 모델을 제공한다."
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "의견서는 세 가지 논거를 편다. 변형적 이용에 관해서는 Warhol 판결을 인용해 “AI 모델이 로맨스 시나 블루그래스를 흡수하는 것은 언어나 음악 전반을 배우기 위해서가 아니라, 그것처럼 읽히고 들리는 대체물을 만들어 내기 위해서다”라고 했다. 시장 희석에 관해서는 AI가 “학습에 쓰인 저작물의 시장을 대체하고 그 가치를 떨어뜨리는 콘텐츠를 끝없이 출력하는 고유한 능력을 지녔다”고 했다. 또 저작권의 폭넓은 목적은 “인간이 대중의 이익을 위해 창작물을 만들도록 장려하는 것”이라고 강조했다."
+                "x": "Photon은 ARA2 플러그인으로 Mac과 Windows의 Pro Tools, REAPER, Cubase, 그리고 Windows의 Sequoia와 Samplitude 안에서 작동하며, Model Manager로 재설치 없이 새 모델과 업데이트된 모델을 내려받는다. WAV, FLAC, MP3로 내보내거나 원본 비디오 스트림을 유지한 채 영상으로 내보낼 수 있다."
               },
               {
                 "t": "p",
-                "x": "이와 별도로 US Music Artist Coalition은 Cate Blanchett이 공동 설립한 Human Consent Foundation의 의견서를 지지했다. 이 의견서는 “창작 산업에는 흩어진 저작물의 권리를 대규모로, 비용 효율적으로 처리할 수 있는 검증된 인프라와 업무 흐름이 이미 갖춰져 있다”고 주장한다."
+                "x": "Photon은 지금 독립 실행형 앱과 ARA2 플러그인으로 나와 있으며, 가격은 $349이고 12월 7일까지 진행되는 사이버 세일 동안은 $259다. Apple Silicon Macs와 Windows 10 이상을 지원한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "音楽業界、OpenAIの\nfair-use 訴訟に参戦",
-          "body": "RIAA、NMPA、A2IM、SONA、ARAが意見書でAI学習のフェアユースを否定した。",
-          "mini_headline": "音楽団体がOpenAI訴訟に意見書",
+          "headline": "iZotope Photon\n手元のGPUでステム分離",
+          "body": "iZotope's Photonは12モデルでクラウドを使わずGPUでステムを分離する。",
+          "mini_headline": "iZotope Photonはローカル動作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "提供：iZotope"
               },
               {
                 "t": "p",
-                "x": "RIAA、NMPA、A2IM、SONA、ARAなど音楽業界の団体が、書籍の著者や新聞社とOpen AIの間で続く大型訴訟にアミカス・ブリーフ(amicus brief)で介入し、米国著作権法の下でAI学習が決してフェアユース(fair use)とみなされるべきでない理由を示した。"
+                "x": "iZotopeは、AI-poweredのステム分離・オーディオクリーンアップツール「Photon」を発表した。独自に学習させた12のモデルで動作し、ファイルをクラウドにアップロードせず、コンピューターのGPU上でローカルに処理する。iZotopeと親会社Boris FXによる初の共同開発である。"
               },
               {
                 "t": "p",
-                "x": "AI企業を相手取ったUSの著作権訴訟はすべてフェアユースの判断にかかっており、Suno、Udio、Anthropicを標的とする音楽業界の訴訟も同様だ。Trump政権の司法省は以前、Open AIの学習をフェアユースではないと判断することは「著作権法の基本原則と相容れない」と判事に伝えていた。"
+                "x": "アルゴリズムはDemixとDenoiseに分かれる。Demixは音楽を四つのステムに、ドラムを五つ（キック、スネア、ハイハット、タム、シンバル）に、声を最大六つに分離し、Cinemaモデルはファイルをダイアログ、音楽、効果音、その他に分ける。DenoiseはVoice Restore、Indoor / Indoor Noisy、Outdoor / Outdoor Traffic / Outdoor Windの各モデルを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "意見書は三つの論点を挙げる。変容性については、Warhol判決を引用し「AIモデルがロマンス詩やブルーグラスを取り込むのは、言語や音楽全般を学ぶためではなく、それらのように読め、聞こえる代替物を生成するためだ」と述べる。市場の希釈については、AIは「学習に使った著作物の市場を奪い、その価値を損なうコンテンツを際限なく出力する独自の能力を持つ」とする。そして著作権の広い目的は「人間が公共の利益のために創作物を生み出すよう促すこと」だという。"
+                "x": "PhotonはARA2プラグインとして、MacとWindowsのPro Tools、REAPER、Cubase、さらにWindowsのSequoiaとSamplitudeで動作する。Model Managerにより、再インストールなしで新規・更新モデルをダウンロードできる。書き出しはWAV、FLAC、MP3のほか、元の映像ストリームを保ったまま動画にも対応する。"
               },
               {
                 "t": "p",
-                "x": "これとは別に、US Music Artist Coalitionは、Cate Blanchettが共同設立したHuman Consent Foundationの意見書を支持した。同意見書は「クリエイティブ産業にはすでに、散在する作品の権利を大規模かつ低コストで処理する実績あるインフラとワークフローがある」と主張している。"
+                "x": "Photonはスタンドアロンアプリおよび ARA2プラグインとして提供中で、価格は$349。12月7日までのサイバーセール期間中は$259となる。対応環境はApple Silicon MacsとWindows 10以降だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "音乐行业加入 OpenAI\nfair-use 之争",
-          "body": "RIAA、NMPA、A2IM、SONA和ARA以意见书主张AI训练绝不属合理使用。",
-          "mini_headline": "音乐团体声援OpenAI诉讼原告",
+          "headline": "iZotope Photon\n用本机GPU分离音轨",
+          "body": "iZotope's Photon用12个定制训练模型在本地GPU上分离音轨，不依赖云端。",
+          "mini_headline": "iZotope Photon本地运行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "图片来源：iZotope"
               },
               {
                 "t": "p",
-                "x": "包括RIAA、NMPA、A2IM、SONA和ARA在内的一批音乐行业组织，以法庭之友意见书（amicus brief）介入图书作者、报纸所有者与Open AI之间正在进行的重大诉讼，阐述了为何根据美国版权法，AI训练绝不应被视为合理使用（fair use）。"
+                "x": "iZotope推出AI-powered音轨分离与音频清理工具Photon，由12个定制训练模型驱动，在电脑GPU上本地处理音频，无需将文件上传至云端。这是iZotope与母公司Boris FX的首次合作。"
               },
               {
                 "t": "p",
-                "x": "美国（US）针对AI公司的版权诉讼都取决于合理使用问题，包括音乐行业针对Suno、Udio和Anthropic的诉讼。Trump政府的司法部此前曾告诉法官，裁定Open AI的训练不属于合理使用将“与版权法基本原则不符”。"
+                "x": "其算法分为Demix和Denoise两类。Demix可将音乐分离为四个音轨，将鼓分离为五个（底鼓、军鼓、踩镲、通鼓和镲片），最多可分离六种不同人声；Cinema模型则将文件拆分为对白、音乐、音效及其他所有声音。Denoise提供Voice Restore、Indoor / Indoor Noisy以及Outdoor / Outdoor Traffic / Outdoor Wind模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "意见书提出三点论据。关于转换性，它援引Warhol案判决：“AI模型吸收浪漫诗歌或蓝草音乐，不是为了学习整体的语言或音乐，而是为了生成读起来、听起来与之相似的替代品。”关于市场稀释，AI“具有独特的能力，可以无止境地输出内容，取代其训练所用受版权保护作品的市场并削弱其价值”。此外，版权的广泛目的是“鼓励人类为公众利益创作作品”。"
+                "x": "作为ARA2插件，Photon可在Mac和Windows上的Pro Tools、REAPER和Cubase中运行，也支持Windows上的Sequoia和Samplitude；Model Manager无需重装即可下载新模型和更新模型。它可导出为WAV、FLAC和MP3，也可在保留原始视频流的情况下导出为视频。"
               },
               {
                 "t": "p",
-                "x": "另外，US Music Artist Coalition支持了由Cate Blanchett联合创办的Human Consent Foundation提交的意见，称“创意产业已经拥有成熟的基础设施和工作流程，能够大规模且经济高效地为分散的作品清理版权”。"
+                "x": "Photon现已以独立应用和ARA2插件形式推出，售价$349，在持续至12月7日的网络促销期间为$259，支持Apple Silicon Macs以及Windows 10或更高版本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La industria musical se suma\nal pleito fair-use contra OpenAI",
-          "body": "RIAA, NMPA, A2IM, SONA y ARA presentaron un amicus brief que sostiene que entrenar AI nunca es fair use.",
-          "mini_headline": "Sellos respaldan demandas contra OpenAI",
+          "headline": "iZotope Photon separa stems\nen tu propia GPU",
+          "body": "Photon de iZotope usa 12 modelos entrenados a medida para separar stems y limpiar audio en la GPU local, sin la nube.",
+          "mini_headline": "iZotope Photon funciona en local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+                "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+                "cap": "Crédito: iZotope"
               },
               {
                 "t": "p",
-                "x": "Un grupo de organizaciones de la industria musical, entre ellas RIAA, NMPA, A2IM, SONA y ARA, ha intervenido mediante un amicus brief en la gran batalla legal en curso entre autores de libros y propietarios de periódicos y Open AI, y expone por qué el entrenamiento de AI nunca debería considerarse fair use según la ley de derechos de autor estadounidense."
+                "x": "iZotope ha lanzado Photon, una herramienta AI-powered de separación de stems y limpieza de audio que funciona con 12 modelos entrenados a medida y procesa el audio localmente en la GPU del ordenador en lugar de subir archivos a la nube. Es la primera colaboración entre iZotope y su empresa matriz, Boris FX."
               },
               {
                 "t": "p",
-                "x": "Todas las demandas de derechos de autor en US contra empresas de AI giran en torno al fair use, incluidos los litigios de la industria musical contra Suno, Udio y Anthropic. El Departamento de Justicia de Trump ya había dicho al juez que dictaminar que el entrenamiento de Open AI no era fair use sería “incompatible con los principios básicos del derecho de autor”."
+                "x": "Sus algoritmos se dividen en Demix y Denoise. Demix separa la música en cuatro stems, la batería en cinco (bombo, caja, hi-hat, toms y platillos), hasta seis voces distintas, y un modelo Cinema divide los archivos en diálogo, música, efectos de sonido y todo lo demás. Denoise ofrece los modelos Voice Restore, Indoor / Indoor Noisy y Outdoor / Outdoor Traffic / Outdoor Wind."
+              },
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
               },
               {
                 "t": "p",
-                "x": "El escrito plantea tres argumentos. Sobre el carácter transformador, cita el fallo Warhol: “Un modelo de AI no absorbe poesía romántica o bluegrass para aprender sobre el lenguaje o la música en general, sino para generar sustitutos que se lean y suenen como ellos”. Sobre la dilución del mercado, la AI “tiene la capacidad única de producir contenido sin fin que desplaza el mercado y reduce el valor de las obras protegidas con las que se entrenó”. Y el propósito amplio del derecho de autor es “animar a los seres humanos a producir obras creativas en beneficio del público”."
+                "x": "Como plugin ARA2, Photon funciona dentro de Pro Tools, REAPER y Cubase en Mac y Windows, además de Sequoia y Samplitude en Windows; un Model Manager descarga modelos nuevos y actualizados sin reinstalar. Exporta a WAV, FLAC y MP3 o a vídeo conservando el flujo de vídeo original."
               },
               {
                 "t": "p",
-                "x": "Por otra parte, la US Music Artist Coalition respaldó una presentación de la Human Consent Foundation, cofundada por Cate Blanchett, que sostiene que “las industrias creativas ya cuentan con una infraestructura y unos flujos de trabajo probados para gestionar derechos de obras dispersas a gran escala y de forma rentable”."
+                "x": "Photon ya está disponible como app independiente y plugin ARA2, a un precio de $349 o $259 durante una oferta cyber vigente hasta el 7 de diciembre, para Apple Silicon Macs y Windows 10 o posterior."
               }
             ]
           }
@@ -667,15 +677,15 @@
       }
     },
     {
-      "id": "music-disney-openart-lyrics",
+      "id": "youtube-replace-song-expand",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Disney·OpenArt\nAI 가사 영상 실험",
-      "body": "Disney가 OpenArt AI로 Go the Distance 가사영상을 만든다.",
-      "mini_headline": "Disney, AI 가사 영상 실험",
+      "headline": "YouTube, 저작권 곡\nAI 교체 확대",
+      "body": "YouTube가 Content ID-claimed 곡의 AI 교체를 넓힌다.",
+      "mini_headline": "YouTube, Replace Song 확대",
       "tool": "Music",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/more-youtube-creators-can-now-use-ai-to-replace-copyrighted-songs/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -683,197 +693,125 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+            "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
           },
           {
             "t": "p",
-            "x": "Walt Disney Co.가 인공지능으로 자사 노래 가사를 보여 주는 뮤직비디오 콘셉트를 여러 가지 시험 중이다. 첫 곡은 1997년 애니메이션 영화 “Hercules”에 나온 “Go the Distance”다."
+            "x": "YouTube가 AI-powered 곡 교체 기능의 이용 범위를 넓힌다. 더 많은 크리에이터가 음악 저작권 소유권 주장을 해결하도록 하려는 조치다."
           },
           {
             "t": "p",
-            "x": "베이 에어리어 AI 스타트업 OpenArt와 맺은 계약에 따른 시도다. Disney가 노래를 OpenArt 플랫폼에 올리면 플랫폼이 노랫말과 분위기, 정서적 톤을 읽어 가사 영상의 스토리보드 미리보기를 만든다. Disney는 결과물을 원하는 대로 고치고 세밀하게 다듬을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "OpenArt CEO Coco Mao는 “그들은 오래된 음악 카탈로그 일부를 꺼내 그 노래들의 비주얼 가사 영상을 만드는 데 무척 들떠 있다”며 이번 작업을 “초기 탐색”이라고 했다. Disney는 크리에이티브 팀이 “몇 주가 아니라 몇 시간 만에 여러 콘셉트”를 만들고 평가할 수 있다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "계약 소식은 화요일 버뱅크에서 열린 Disney Accelerator Demo Day에서 나왔다. 올해 참가 기업 다섯 곳은 모두 AI 기업이다. OpenArt는 Kling, Google Veo, Seedream 등의 모델을 쓰고, 잠재적 IP 침해를 걸러 내는 도구도 갖췄다. 2022년 전 Google 엔지니어 Mao와 John Qiao가 창업했으며 직원은 100명 가까이, 월간 활성 사용자는 1700만 명이다."
-          },
-          {
-            "t": "p",
-            "x": "Disney 등 스튜디오들이 AI 기업 Midjourney와 MiniMax를 고소한 와중에 나온 실험이다."
+            "x": "Content ID 오디오 소유권 주장이 걸린 영상의 크리에이터는 YouTube Studio의 Replace Song 도구에서 Create를 골라 해당 오디오를 AI가 생성한 연주곡으로 바꿀 수 있다. 오디오를 바꾸면 Content ID 소유권 주장은 풀린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Disney tests AI lyric\nvideos with OpenArt",
-          "body": "Disney is working with AI startup OpenArt on lyric video concepts, starting with 'Go the Distance' from Hercules.",
-          "mini_headline": "Disney tries AI lyric videos",
+          "headline": "YouTube widens AI swaps\nfor copyrighted songs",
+          "body": "YouTube is expanding Replace Song, which swaps Content ID-claimed music for royalty-free AI instrumentals.",
+          "mini_headline": "YouTube widens Replace Song",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co. is experimenting with using artificial intelligence to test out different concepts for music videos showcasing the lyrics to its songs, starting with “Go the Distance” from its 1997 animated movie, “Hercules.”"
+                "x": "YouTube is expanding access to its AI-powered song replacement feature, making it available to more creators to help resolve music copyright claims."
               },
               {
                 "t": "p",
-                "x": "The effort is part of a deal with Bay Area AI startup OpenArt. Disney can input its songs into OpenArt’s platform, which will create a storyboard preview of a lyric video based on the song’s words, mood and emotional tone. Disney can make any changes and fine-tune the video."
-              },
-              {
-                "t": "p",
-                "x": "“They are very excited to bring some of the older catalogs of the music and create visual lyrics videos for those songs,” said OpenArt CEO Coco Mao, calling it “early exploration.” Disney said creative teams can generate and evaluate “multiple concepts in hours rather than weeks.”"
-              },
-              {
-                "t": "p",
-                "x": "The deal was announced at the Disney Accelerator Demo Day on Tuesday in Burbank; this year the entire five-company cohort is made up of AI companies. OpenArt works with models including Kling, Google Veo and Seedream, and has a tool that helps flag potential IP infringement. Founded in 2022 by former Google engineers Mao and John Qiao, it has nearly 100 employees and 17 million monthly active users."
-              },
-              {
-                "t": "p",
-                "x": "The experiment comes as Disney and other studios have sued AI companies Midjourney and MiniMax."
+                "x": "In YouTube Studio's Replace Song tool, creators whose videos carry a Content ID audio claim can choose Create to replace the claimed audio with an instrumental track generated by AI. Once the claimed audio is replaced, the Content ID claim is released."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Disney·OpenArt\nAI 가사 영상 실험",
-          "body": "Disney가 OpenArt AI로 Go the Distance 가사영상을 만든다.",
-          "mini_headline": "Disney, AI 가사 영상 실험",
+          "headline": "YouTube, 저작권 곡\nAI 교체 확대",
+          "body": "YouTube가 Content ID-claimed 곡의 AI 교체를 넓힌다.",
+          "mini_headline": "YouTube, Replace Song 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co.가 인공지능으로 자사 노래 가사를 보여 주는 뮤직비디오 콘셉트를 여러 가지 시험 중이다. 첫 곡은 1997년 애니메이션 영화 “Hercules”에 나온 “Go the Distance”다."
+                "x": "YouTube가 AI-powered 곡 교체 기능의 이용 범위를 넓힌다. 더 많은 크리에이터가 음악 저작권 소유권 주장을 해결하도록 하려는 조치다."
               },
               {
                 "t": "p",
-                "x": "베이 에어리어 AI 스타트업 OpenArt와 맺은 계약에 따른 시도다. Disney가 노래를 OpenArt 플랫폼에 올리면 플랫폼이 노랫말과 분위기, 정서적 톤을 읽어 가사 영상의 스토리보드 미리보기를 만든다. Disney는 결과물을 원하는 대로 고치고 세밀하게 다듬을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "OpenArt CEO Coco Mao는 “그들은 오래된 음악 카탈로그 일부를 꺼내 그 노래들의 비주얼 가사 영상을 만드는 데 무척 들떠 있다”며 이번 작업을 “초기 탐색”이라고 했다. Disney는 크리에이티브 팀이 “몇 주가 아니라 몇 시간 만에 여러 콘셉트”를 만들고 평가할 수 있다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "계약 소식은 화요일 버뱅크에서 열린 Disney Accelerator Demo Day에서 나왔다. 올해 참가 기업 다섯 곳은 모두 AI 기업이다. OpenArt는 Kling, Google Veo, Seedream 등의 모델을 쓰고, 잠재적 IP 침해를 걸러 내는 도구도 갖췄다. 2022년 전 Google 엔지니어 Mao와 John Qiao가 창업했으며 직원은 100명 가까이, 월간 활성 사용자는 1700만 명이다."
-              },
-              {
-                "t": "p",
-                "x": "Disney 등 스튜디오들이 AI 기업 Midjourney와 MiniMax를 고소한 와중에 나온 실험이다."
+                "x": "Content ID 오디오 소유권 주장이 걸린 영상의 크리에이터는 YouTube Studio의 Replace Song 도구에서 Create를 골라 해당 오디오를 AI가 생성한 연주곡으로 바꿀 수 있다. 오디오를 바꾸면 Content ID 소유권 주장은 풀린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DisneyとOpenArt\nAI歌詞動画を試す",
-          "body": "DisneyはAI企業OpenArtと「Go the Distance」から歌詞動画を試す。",
-          "mini_headline": "Disney、AI歌詞動画を試行",
+          "headline": "YouTube、著作権曲の\nAI差し替えを拡大",
+          "body": "YouTubeがContent ID-claimed楽曲のAI差し替え機能を広げる。",
+          "mini_headline": "YouTube、Replace Songを拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co.は、人工知能を使って自社楽曲の歌詞を見せるミュージックビデオのさまざまなコンセプトを試している。皮切りは1997年のアニメ映画「Hercules」の「Go the Distance」だ。"
+                "x": "YouTubeは、AI-poweredの楽曲差し替え機能の提供範囲を広げ、より多くのクリエイターが音楽の著作権申し立てを解決できるようにする。"
               },
               {
                 "t": "p",
-                "x": "この取り組みは、ベイエリアのAIスタートアップOpenArtとの提携の一環だ。DisneyがOpenArtのプラットフォームに楽曲を入力すると、歌詞やムード、感情的なトーンに基づいて歌詞ビデオのストーリーボードのプレビューが作られる。Disneyは自由に変更を加え、映像を微調整できる。"
-              },
-              {
-                "t": "p",
-                "x": "OpenArtのCEO、Coco Maoは「彼らは古い音楽カタログの一部を掘り起こし、その楽曲のビジュアル歌詞ビデオを作ることにとても乗り気だ」と語り、これを「初期の探索」と位置づけた。Disneyは、クリエイティブチームが「数週間ではなく数時間で複数のコンセプト」を生成し評価できるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "提携は火曜日にバーバンクで開かれたDisney Accelerator Demo Dayで発表された。今年の参加企業五社はすべてAI企業だ。OpenArtはKling、Google Veo、Seedreamなどのモデルを扱い、IP侵害の可能性を検出するツールも備える。2022年に元GoogleエンジニアのMaoとJohn Qiaoが設立し、従業員は100人近く、月間アクティブユーザーは1700万人に上る。"
-              },
-              {
-                "t": "p",
-                "x": "この実験は、Disneyなどのスタジオが AI企業のMidjourneyとMiniMaxを提訴するなかで行われている。"
+                "x": "YouTube StudioのReplace Songツールでは、Content IDの音声申し立てを受けた動画のクリエイターがCreateを選ぶと、申し立て対象の音声をAIが生成したインストゥルメンタル曲に置き換えられる。置き換えが済むと、Content IDの申し立ては解除される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disney与OpenArt\n试水AI歌词视频",
-          "body": "Disney与OpenArt用AI试制歌词视频，首选《Go the Distance》。",
-          "mini_headline": "Disney试水AI歌词视频",
+          "headline": "YouTube扩大\n版权歌曲AI替换",
+          "body": "YouTube扩大用免版税AI器乐替换Content ID-claimed音乐的功能。",
+          "mini_headline": "YouTube扩大Replace Song",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co.正在尝试用人工智能测试展示旗下歌曲歌词的音乐视频的不同概念，首先从1997年动画电影《Hercules》中的《Go the Distance》开始。"
+                "x": "YouTube正在扩大其AI-powered歌曲替换功能的开放范围，让更多创作者可以使用，以帮助解决音乐版权声明。"
               },
               {
                 "t": "p",
-                "x": "这项尝试是与湾区AI初创公司OpenArt合作的一部分。Disney可以把歌曲输入OpenArt平台，平台会根据歌词、情绪和情感基调生成歌词视频的故事板预览。Disney可以随意修改并微调视频。"
-              },
-              {
-                "t": "p",
-                "x": "“他们非常兴奋，想把一些较老的音乐曲库拿出来，为这些歌曲制作视觉化歌词视频，”OpenArt CEO Coco Mao说，并称这是“早期探索”。Disney表示，创意团队能够生成并评估“多个概念，只需数小时而非数周”。"
-              },
-              {
-                "t": "p",
-                "x": "该合作于周二在伯班克举行的Disney Accelerator Demo Day上宣布；今年入选的五家公司全部是AI公司。OpenArt使用的模型包括Kling、Google Veo和Seedream，并拥有一款帮助标记潜在IP侵权的工具。该公司由前Google工程师Mao和John Qiao于2022年创立，拥有近100名员工和1700万月活跃用户。"
-              },
-              {
-                "t": "p",
-                "x": "这项实验正值Disney和其他制片公司起诉AI公司Midjourney和MiniMax之际。"
+                "x": "在YouTube Studio的Replace Song工具中，视频带有Content ID音频版权声明的创作者可选择Create，用AI生成的器乐曲替换被声明的音频。被声明的音频替换后，该Content ID版权声明即被解除。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disney prueba videos de letras\ncon AI junto a OpenArt",
-          "body": "Disney trabaja con la startup de AI OpenArt en conceptos de videos de letras, desde 'Go the Distance' de Hercules.",
-          "mini_headline": "Disney prueba videos de letras con AI",
+          "headline": "YouTube amplía el cambio por IA\nde canciones con copyright",
+          "body": "YouTube amplía Replace Song, que cambia la música Content ID-claimed por instrumentales de IA libres de regalías.",
+          "mini_headline": "YouTube amplía Replace Song",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co. está experimentando con inteligencia artificial para probar distintos conceptos de videos musicales que muestran las letras de sus canciones, empezando por “Go the Distance”, de su película animada de 1997 “Hercules”."
+                "x": "YouTube está ampliando el acceso a su función AI-powered de sustitución de canciones, que llega a más creadores para ayudarles a resolver reclamaciones de derechos de autor sobre música."
               },
               {
                 "t": "p",
-                "x": "La iniciativa forma parte de un acuerdo con OpenArt, una startup de AI del Área de la Bahía. Disney puede cargar sus canciones en la plataforma de OpenArt, que creará una vista previa en forma de storyboard de un video de letras basada en las palabras, el ambiente y el tono emocional de la canción. Disney puede hacer cualquier cambio y ajustar el video."
-              },
-              {
-                "t": "p",
-                "x": "“Están muy entusiasmados por recuperar parte de los catálogos musicales más antiguos y crear videos visuales con las letras de esas canciones”, dijo la CEO de OpenArt, Coco Mao, que lo calificó de “exploración inicial”. Disney dijo que los equipos creativos pueden generar y evaluar “múltiples conceptos en horas en lugar de semanas”."
-              },
-              {
-                "t": "p",
-                "x": "El acuerdo se anunció el martes en el Disney Accelerator Demo Day, en Burbank; este año, las cinco empresas del grupo son compañías de AI. OpenArt trabaja con modelos como Kling, Google Veo y Seedream, y cuenta con una herramienta que ayuda a detectar posibles infracciones de IP. Fundada en 2022 por los exingenieros de Google Mao y John Qiao, tiene casi 100 empleados y 17 millones de usuarios activos mensuales."
-              },
-              {
-                "t": "p",
-                "x": "El experimento llega mientras Disney y otros estudios han demandado a las empresas de AI Midjourney y MiniMax."
+                "x": "En la herramienta Replace Song de YouTube Studio, los creadores cuyos vídeos tengan una reclamación de audio de Content ID pueden elegir Create para sustituir el audio reclamado por una pista instrumental generada por AI. Una vez sustituido el audio reclamado, la reclamación de Content ID se retira."
               }
             ]
           }
@@ -881,137 +819,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Disney·OpenArt\nAI 가사 영상 실험",
-          "body": "Disney가 OpenArt AI로 Go the Distance 가사영상을 만든다.",
-          "mini_headline": "Disney, AI 가사 영상 실험",
+          "headline": "YouTube, 저작권 곡\nAI 교체 확대",
+          "body": "YouTube가 Content ID-claimed 곡의 AI 교체를 넓힌다.",
+          "mini_headline": "YouTube, Replace Song 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co.가 인공지능으로 자사 노래의 가사를 보여 주는 뮤직비디오 콘셉트를 여러 가지 시험하고 있다. 첫 곡은 1997년 애니메이션 영화 “Hercules”의 “Go the Distance”다."
+                "x": "YouTube가 AI-powered 곡 교체 기능의 이용 범위를 넓혀, 더 많은 크리에이터가 음악 저작권 소유권 주장을 해결할 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "이번 시도는 베이 에어리어의 AI 스타트업 OpenArt와 맺은 계약의 일환이다. Disney가 노래를 OpenArt 플랫폼에 입력하면, 플랫폼이 노랫말과 분위기, 정서적 톤을 바탕으로 가사 영상의 스토리보드 미리보기를 만든다. Disney는 이를 원하는 대로 고치고 세밀하게 다듬을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "OpenArt CEO Coco Mao는 “그들은 오래된 음악 카탈로그 일부를 꺼내 그 노래들의 비주얼 가사 영상을 만드는 데 무척 들떠 있다”며 이를 “초기 탐색”이라고 불렀다. Disney는 크리에이티브 팀이 “몇 주가 아니라 몇 시간 만에 여러 콘셉트”를 만들고 평가할 수 있다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "계약은 화요일 버뱅크에서 열린 Disney Accelerator Demo Day에서 발표됐다. 올해는 참가 기업 다섯 곳이 모두 AI 기업이다. OpenArt는 Kling, Google Veo, Seedream 등의 모델을 활용하며, 잠재적 IP 침해를 가려내는 도구도 갖추고 있다. 2022년 전 Google 엔지니어 Mao와 John Qiao가 세웠고, 직원은 100명 가까이, 월간 활성 사용자는 1700만 명이다."
-              },
-              {
-                "t": "p",
-                "x": "이번 실험은 Disney 등 스튜디오들이 AI 기업 Midjourney와 MiniMax를 고소한 가운데 나왔다."
+                "x": "YouTube Studio의 Replace Song 도구에서 Content ID 오디오 소유권 주장이 걸린 영상의 크리에이터는 Create를 선택해 해당 오디오를 AI가 생성한 연주곡으로 바꿀 수 있다. 오디오를 교체하면 Content ID 소유권 주장은 해제된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DisneyとOpenArt\nAI歌詞動画を試す",
-          "body": "DisneyはAI企業OpenArtと「Go the Distance」から歌詞動画を試す。",
-          "mini_headline": "Disney、AI歌詞動画を試行",
+          "headline": "YouTube、著作権曲の\nAI差し替えを拡大",
+          "body": "YouTubeがContent ID-claimed楽曲のAI差し替え機能を広げる。",
+          "mini_headline": "YouTube、Replace Songを拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co.は、人工知能を使って自社楽曲の歌詞を見せるミュージックビデオのさまざまなコンセプトを試している。皮切りは1997年のアニメ映画「Hercules」の「Go the Distance」だ。"
+                "x": "YouTubeは、AI-poweredの楽曲差し替え機能の提供範囲を広げ、より多くのクリエイターが音楽の著作権申し立てを解決できるようにする。"
               },
               {
                 "t": "p",
-                "x": "この取り組みは、ベイエリアのAIスタートアップOpenArtとの提携の一環だ。DisneyがOpenArtのプラットフォームに楽曲を入力すると、歌詞やムード、感情的なトーンに基づいて歌詞ビデオのストーリーボードのプレビューが作られる。Disneyは自由に変更を加え、映像を微調整できる。"
-              },
-              {
-                "t": "p",
-                "x": "OpenArtのCEO、Coco Maoは「彼らは古い音楽カタログの一部を掘り起こし、その楽曲のビジュアル歌詞ビデオを作ることにとても乗り気だ」と語り、これを「初期の探索」と位置づけた。Disneyは、クリエイティブチームが「数週間ではなく数時間で複数のコンセプト」を生成し評価できるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "提携は火曜日にバーバンクで開かれたDisney Accelerator Demo Dayで発表された。今年の参加企業五社はすべてAI企業だ。OpenArtはKling、Google Veo、Seedreamなどのモデルを扱い、IP侵害の可能性を検出するツールも備える。2022年に元GoogleエンジニアのMaoとJohn Qiaoが設立し、従業員は100人近く、月間アクティブユーザーは1700万人に上る。"
-              },
-              {
-                "t": "p",
-                "x": "この実験は、Disneyなどのスタジオが AI企業のMidjourneyとMiniMaxを提訴するなかで行われている。"
+                "x": "YouTube StudioのReplace Songツールでは、Content IDの音声申し立てを受けた動画のクリエイターがCreateを選ぶと、申し立て対象の音声をAIが生成したインストゥルメンタル曲に置き換えられる。置き換えが済むと、Content IDの申し立ては解除される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disney与OpenArt\n试水AI歌词视频",
-          "body": "Disney与OpenArt用AI试制歌词视频，首选《Go the Distance》。",
-          "mini_headline": "Disney试水AI歌词视频",
+          "headline": "YouTube扩大\n版权歌曲AI替换",
+          "body": "YouTube扩大用免版税AI器乐替换Content ID-claimed音乐的功能。",
+          "mini_headline": "YouTube扩大Replace Song",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co.正在尝试用人工智能测试展示旗下歌曲歌词的音乐视频的不同概念，首先从1997年动画电影《Hercules》中的《Go the Distance》开始。"
+                "x": "YouTube正在扩大其AI-powered歌曲替换功能的开放范围，让更多创作者可以使用，以帮助解决音乐版权声明。"
               },
               {
                 "t": "p",
-                "x": "这项尝试是与湾区AI初创公司OpenArt合作的一部分。Disney可以把歌曲输入OpenArt平台，平台会根据歌词、情绪和情感基调生成歌词视频的故事板预览。Disney可以随意修改并微调视频。"
-              },
-              {
-                "t": "p",
-                "x": "“他们非常兴奋，想把一些较老的音乐曲库拿出来，为这些歌曲制作视觉化歌词视频，”OpenArt CEO Coco Mao说，并称这是“早期探索”。Disney表示，创意团队能够生成并评估“多个概念，只需数小时而非数周”。"
-              },
-              {
-                "t": "p",
-                "x": "该合作于周二在伯班克举行的Disney Accelerator Demo Day上宣布；今年入选的五家公司全部是AI公司。OpenArt使用的模型包括Kling、Google Veo和Seedream，并拥有一款帮助标记潜在IP侵权的工具。该公司由前Google工程师Mao和John Qiao于2022年创立，拥有近100名员工和1700万月活跃用户。"
-              },
-              {
-                "t": "p",
-                "x": "这项实验正值Disney和其他制片公司起诉AI公司Midjourney和MiniMax之际。"
+                "x": "在YouTube Studio的Replace Song工具中，视频带有Content ID音频版权声明的创作者可选择Create，用AI生成的器乐曲替换被声明的音频。被声明的音频替换后，该Content ID版权声明即被解除。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disney prueba videos de letras\ncon AI junto a OpenArt",
-          "body": "Disney trabaja con la startup de AI OpenArt en conceptos de videos de letras, desde 'Go the Distance' de Hercules.",
-          "mini_headline": "Disney prueba videos de letras con AI",
+          "headline": "YouTube amplía el cambio por IA\nde canciones con copyright",
+          "body": "YouTube amplía Replace Song, que cambia la música Content ID-claimed por instrumentales de IA libres de regalías.",
+          "mini_headline": "YouTube amplía Replace Song",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+                "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
               },
               {
                 "t": "p",
-                "x": "Walt Disney Co. está experimentando con inteligencia artificial para probar distintos conceptos de videos musicales que muestran las letras de sus canciones, empezando por “Go the Distance”, de su película animada de 1997 “Hercules”."
+                "x": "YouTube está ampliando el acceso a su función AI-powered de sustitución de canciones, que llega a más creadores para ayudarles a resolver reclamaciones de derechos de autor sobre música."
               },
               {
                 "t": "p",
-                "x": "La iniciativa forma parte de un acuerdo con OpenArt, una startup de AI del Área de la Bahía. Disney puede cargar sus canciones en la plataforma de OpenArt, que creará una vista previa en forma de storyboard de un video de letras basada en las palabras, el ambiente y el tono emocional de la canción. Disney puede hacer cualquier cambio y ajustar el video."
-              },
-              {
-                "t": "p",
-                "x": "“Están muy entusiasmados por recuperar parte de los catálogos musicales más antiguos y crear videos visuales con las letras de esas canciones”, dijo la CEO de OpenArt, Coco Mao, que lo calificó de “exploración inicial”. Disney dijo que los equipos creativos pueden generar y evaluar “múltiples conceptos en horas en lugar de semanas”."
-              },
-              {
-                "t": "p",
-                "x": "El acuerdo se anunció el martes en el Disney Accelerator Demo Day, en Burbank; este año, las cinco empresas del grupo son compañías de AI. OpenArt trabaja con modelos como Kling, Google Veo y Seedream, y cuenta con una herramienta que ayuda a detectar posibles infracciones de IP. Fundada en 2022 por los exingenieros de Google Mao y John Qiao, tiene casi 100 empleados y 17 millones de usuarios activos mensuales."
-              },
-              {
-                "t": "p",
-                "x": "El experimento llega mientras Disney y otros estudios han demandado a las empresas de AI Midjourney y MiniMax."
+                "x": "En la herramienta Replace Song de YouTube Studio, los creadores cuyos vídeos tengan una reclamación de audio de Content ID pueden elegir Create para sustituir el audio reclamado por una pista instrumental generada por AI. Una vez sustituido el audio reclamado, la reclamación de Content ID se retira."
               }
             ]
           }
@@ -1019,15 +909,15 @@
       }
     },
     {
-      "id": "music-itunes-top10-ai",
+      "id": "music-ai-detector-false-positives",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "iTunes Top 10에\nAI-aided 네 곡",
-      "body": "Nov. 1 U.S. iTunes Top 10은 1위 등 넷이 AI를 쓴 듯하다.",
-      "mini_headline": "AI 곡, iTunes Top 10 점령",
+      "headline": "AI 탐지기, 1980s\n인간 음악까지 오판",
+      "body": "AI-music 탐지기가 1980s 일렉트로 신스 원곡을 AI로 판정한다.",
+      "mini_headline": "AI 탐지기, 80s 신스 오판",
       "tool": "Music",
-      "source": "Hits Daily Double",
-      "url": "https://www.hitsdailydouble.com/news/streaming/itunes-top-10-ai-2026-11-02",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1035,173 +925,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+            "cap": "사진 제공: André Grafert for International Artist Marketing (IAM)"
           },
           {
             "t": "p",
-            "x": "AI-assisted 음악은 이제 다음 히트곡을 쓰거나 Grammy를 가로채려고 숨어 기다리는 먼 업계의 괴물이 아니다. 벌써 매일 보는 차트 풍경의 일부다."
+            "x": "AI 탐지기는 사람이 손으로 만든 일렉트로 신스 성향의 곡을 AI 음악으로 낙인찍기도 한다. 80s에 만든 원곡도 예외가 아니다. SubmitHub, Let's Submit, TrackVerifier, ACRCloud 같은 도구는 머신 드럼, 정밀한 시퀀서, 합성 사운드스케이프, 변조된 목소리가 담긴 곡을 \"인공적으로 생성됐을 가능성\"이 있다고 분류해 왔다. 특히 다크웨이브, 일렉트로, 포스트펑크가 피해를 봤다."
           },
           {
             "t": "p",
-            "x": "Nov. 1 iTunes U.S. Top 10이 좋은 예다. 적어도 어느 정도 AI의 도움을 받아 만든 것으로 보이는 곡이 네 곡이고, 핼러윈 직후(post-Halloween) #1 곡도 여기에 든다. 물론 Apple은 개별 다운로드 수를 공개하지 않고, 스트리밍이 주도하는 지금의 음악 소비에서 디지털 음원 판매는 극히 일부다. 그래도 누군가는 분명히 이 곡들을 사고 있다."
+            "x": "2026년 6월 함부르크(Hamburg-based) 뮤지션 André Grafert(Coloured Tears)는 생성형 AI 없이 손으로 만든 커버 23곡을 담은 DECAY / TIME — A Tribute to Twice a Man을 발표했다가 곧 AI를 썼다는 공개 비난을 받았다. IAM의 Ines Weidemann이 확인해 보니 SubmitHub는 23곡 모두 AI-generated 곡일 가능성이 있다고 평가했다."
           },
           {
             "t": "p",
-            "x": "정상은 May the Lord Studio의 “Tell Me, How Is Heaven”이 차지했다. 음악이 AI-assisted로 확인된 신앙 기반 프로젝트다. #4 Shards of Art의 “Fucking Shit, Holy Shit”은 합창과 doo-wop 풍의 노벨티 곡으로, 장르별 리메이크가 여럿 나왔다. Rocky B의 “Fuck the Ones”가 #8이다. #10은 디트로이트(Detroit) 퍼포머 Looze Cannon의 “Big Michael Michael”로, 바이럴이 된 그의 Michael Jackson 흉내에서 이 싱글이 나왔다. Looze는 AI 필터를 쓴다는 의혹을 부인했다."
+            "x": "그는 이어 Twice a Man의 원곡 녹음을 직접 시험했다. 일곱 곡이 \"possible AI/hybrid\"로 평가됐고, 두 곡은 특정 플랫폼까지 지목됐다. 1984년 곡 \"Across the Ocean\"은 \"Treblo_v3\", 1982년 곡 \"In My Mind\"는 \"ElevenLabs Music\"으로 나왔다."
           },
           {
             "t": "p",
-            "x": "이 곡들이 사랑받는 슈퍼스타를 밀어냈다는 얘기는 아니다. 차트에는 “Thriller”로 #2에 오른 Jackson을 비롯해 Ella Langley, Taylor Swift, Ray Parker Jr., Zach Bryan과 Lana Del Rey 같은 사람 아티스트도 있다. 다만 연말 시즌이 성큼 다가온 지금, 다음 전선은 합성 시즌 음악의 범람이 될지도 모른다."
+            "x": "AI 탐지기는 아무것도 증명하지 못한다. 통계적 확률을 추정할 뿐이다. 계정 차단, 발매 차단, 로열티 보류가 주로 인디 신을 덮치는 지금, 필터와 이의 제기 절차가 명확해지기 전까지 현대 인디 작품 발매는 \"알고리즘의 운에 맡긴 게임\"으로 남는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-aided tracks fill four\nslots in iTunes Top 10",
-          "body": "Four tracks in the Nov. 1 U.S. iTunes Top 10 seemingly used AI, including the No. 1 by May the Lord Studio.",
-          "mini_headline": "AI tracks crowd iTunes Top 10",
+          "headline": "AI detectors flag human\nmusic, even from the 1980s",
+          "body": "AI-music detectors are tagging 1980s electro-synth originals as AI, risking mislabels for indie artists.",
+          "mini_headline": "AI detectors misfire on 80s synth",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "Photo Credit: André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "AI-assisted music is no longer some far-off industry boogeyman lying in wait to write the next hit or steal a Grammy—it's already part of the daily chart picture."
+                "x": "AI detectors can brand handmade electro-synth-oriented tracks as AI music—even original tracks made in the 80s. Tools including SubmitHub, Let's Submit, TrackVerifier and ACRCloud have classified tracks with machine drums, precise sequencers, synthetic soundscapes and altered voices as \"possibly artificially generated,\" hitting darkwave, electro and post-punk especially."
               },
               {
                 "t": "p",
-                "x": "Case in point: The Nov. 1 iTunes U.S. Top 10 shows four tracks seemingly made with at least some AI aid, including the post-Halloween #1. Of course, Apple doesn't disclose individual download totals, and digital song sales represent a minuscule fraction of the music consumption now driven by streaming. But someone is clearly buying this stuff."
+                "x": "In June 2026, Hamburg-based musician André Grafert (Coloured Tears) released DECAY / TIME — A Tribute to Twice a Man, 23 handmade covers made without generative AI, and soon faced public accusations of AI use. Ines Weidemann of IAM found SubmitHub rated all 23 tracks as potentially AI-generated."
               },
               {
                 "t": "p",
-                "x": "At the top of the chart is “Tell Me, How Is Heaven,” by May the Lord Studio, a faith-based project whose music has been identified as AI-assisted. At #4, Shards of Art’s “Fucking Shit, Holy Shit” is a choir-and-doo-wop-flavored novelty track that’s spawned multiple genre-specific remakes. “Fuck the Ones,” by Rocky B, comes in at #8. At #10 is “Big Michael Michael,” by Looze Cannon, the Detroit performer whose viral Michael Jackson impersonations helped inspire the single; Looze has denied accusations that he uses AI filters."
+                "x": "She then tested Twice a Man's own original recordings: seven were rated \"possible AI/hybrid,\" and two were even attributed to specific platforms — \"Treblo_v3\" for 1984's \"Across the Ocean\" and \"ElevenLabs Music\" for 1982's \"In My Mind.\""
               },
               {
                 "t": "p",
-                "x": "The point isn't that they’ve displaced some beloved superstar; human beings on the tally include Jackson, at #2 with “Thriller,” Ella Langley, Taylor Swift, Ray Parker Jr., and Zach Bryan and Lana Del Rey. But with the holiday season fast approaching, the next frontier may be a flood of synthetic seasonal cheer."
+                "x": "AI detectors prove nothing; they merely estimate statistical probabilities. With blocked accounts, releases and withheld royalties hitting mainly the independent scene, releasing modern independent productions remains \"an algorithmic game of chance\" until filters and appeal procedures are clarified."
               }
             ]
           }
         },
         "ko": {
-          "headline": "iTunes Top 10에\nAI-aided 네 곡",
-          "body": "Nov. 1 U.S. iTunes Top 10은 1위 등 넷이 AI를 쓴 듯하다.",
-          "mini_headline": "AI 곡, iTunes Top 10 점령",
+          "headline": "AI 탐지기, 1980s\n인간 음악까지 오판",
+          "body": "AI-music 탐지기가 1980s 일렉트로 신스 원곡을 AI로 판정한다.",
+          "mini_headline": "AI 탐지기, 80s 신스 오판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "사진 제공: André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "AI-assisted 음악은 이제 다음 히트곡을 쓰거나 Grammy를 가로채려고 숨어 기다리는 먼 업계의 괴물이 아니다. 벌써 매일 보는 차트 풍경의 일부다."
+                "x": "AI 탐지기는 사람이 손으로 만든 일렉트로 신스 성향의 곡을 AI 음악으로 낙인찍기도 한다. 80s에 만든 원곡도 예외가 아니다. SubmitHub, Let's Submit, TrackVerifier, ACRCloud 같은 도구는 머신 드럼, 정밀한 시퀀서, 합성 사운드스케이프, 변조된 목소리가 담긴 곡을 \"인공적으로 생성됐을 가능성\"이 있다고 분류해 왔다. 특히 다크웨이브, 일렉트로, 포스트펑크가 피해를 봤다."
               },
               {
                 "t": "p",
-                "x": "Nov. 1 iTunes U.S. Top 10이 좋은 예다. 적어도 어느 정도 AI의 도움을 받아 만든 것으로 보이는 곡이 네 곡이고, 핼러윈 직후(post-Halloween) #1 곡도 여기에 든다. 물론 Apple은 개별 다운로드 수를 공개하지 않고, 스트리밍이 주도하는 지금의 음악 소비에서 디지털 음원 판매는 극히 일부다. 그래도 누군가는 분명히 이 곡들을 사고 있다."
+                "x": "2026년 6월 함부르크(Hamburg-based) 뮤지션 André Grafert(Coloured Tears)는 생성형 AI 없이 손으로 만든 커버 23곡을 담은 DECAY / TIME — A Tribute to Twice a Man을 발표했다가 곧 AI를 썼다는 공개 비난을 받았다. IAM의 Ines Weidemann이 확인해 보니 SubmitHub는 23곡 모두 AI-generated 곡일 가능성이 있다고 평가했다."
               },
               {
                 "t": "p",
-                "x": "정상은 May the Lord Studio의 “Tell Me, How Is Heaven”이 차지했다. 음악이 AI-assisted로 확인된 신앙 기반 프로젝트다. #4 Shards of Art의 “Fucking Shit, Holy Shit”은 합창과 doo-wop 풍의 노벨티 곡으로, 장르별 리메이크가 여럿 나왔다. Rocky B의 “Fuck the Ones”가 #8이다. #10은 디트로이트(Detroit) 퍼포머 Looze Cannon의 “Big Michael Michael”로, 바이럴이 된 그의 Michael Jackson 흉내에서 이 싱글이 나왔다. Looze는 AI 필터를 쓴다는 의혹을 부인했다."
+                "x": "그는 이어 Twice a Man의 원곡 녹음을 직접 시험했다. 일곱 곡이 \"possible AI/hybrid\"로 평가됐고, 두 곡은 특정 플랫폼까지 지목됐다. 1984년 곡 \"Across the Ocean\"은 \"Treblo_v3\", 1982년 곡 \"In My Mind\"는 \"ElevenLabs Music\"으로 나왔다."
               },
               {
                 "t": "p",
-                "x": "이 곡들이 사랑받는 슈퍼스타를 밀어냈다는 얘기는 아니다. 차트에는 “Thriller”로 #2에 오른 Jackson을 비롯해 Ella Langley, Taylor Swift, Ray Parker Jr., Zach Bryan과 Lana Del Rey 같은 사람 아티스트도 있다. 다만 연말 시즌이 성큼 다가온 지금, 다음 전선은 합성 시즌 음악의 범람이 될지도 모른다."
+                "x": "AI 탐지기는 아무것도 증명하지 못한다. 통계적 확률을 추정할 뿐이다. 계정 차단, 발매 차단, 로열티 보류가 주로 인디 신을 덮치는 지금, 필터와 이의 제기 절차가 명확해지기 전까지 현대 인디 작품 발매는 \"알고리즘의 운에 맡긴 게임\"으로 남는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iTunes Top 10に\nAI-aided曲が四つ",
-          "body": "Nov. 1のU.S. iTunes Top 10では1位を含む四曲がAI使用とみられる。",
-          "mini_headline": "AI曲がiTunes Top 10に続々",
+          "headline": "AI検出器が人の音楽を\n1980sの曲まで誤判定",
+          "body": "AI-music検出器が1980sのエレクトロ・シンセ原曲をAIと判定している。",
+          "mini_headline": "AI検出器、80sシンセを誤判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "写真：André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "AI-assistedの音楽は、もはや次のヒット曲を書いたりGrammyを奪ったりしようと待ち構える、遠い業界の怪物ではない。すでに日々のチャートの一部になっている。"
+                "x": "AI検出器は、手作りのエレクトロ・シンセ志向の曲をAI音楽と決めつけることがある。80sに作られたオリジナル曲でさえ例外ではない。SubmitHub、Let's Submit、TrackVerifier、ACRCloudなどのツールは、マシンドラム、精密なシーケンサー、シンセティックなサウンドスケープ、加工された声を含む曲を「人工的に生成された可能性がある」と分類しており、とりわけダークウェーブ、エレクトロ、ポストパンクが影響を受けている。"
               },
               {
                 "t": "p",
-                "x": "その好例が、Nov. 1のiTunes U.S. Top 10だ。少なくとも一部にAIの助けを借りたとみられる曲が四曲入り、ハロウィン明け(post-Halloween)の#1もその一つだ。もちろんAppleは個別のダウンロード数を公表しておらず、デジタル楽曲の販売は、いまやストリーミング主体の音楽消費のごく一部にすぎない。それでも、誰かが確実にこうした曲を買っている。"
+                "x": "2026年6月、ハンブルク（Hamburg-based）のミュージシャンAndré Grafert（Coloured Tears）は、生成AIを使わずに手作りした23曲のカバー集『DECAY / TIME — A Tribute to Twice a Man』をリリースしたが、まもなくAI使用の疑いを公に向けられた。IAMのInes Weidemannが調べたところ、SubmitHubは23曲すべてをAI-generatedの可能性ありと評価していた。"
               },
               {
                 "t": "p",
-                "x": "チャート首位はMay the Lord Studioの「Tell Me, How Is Heaven」で、その音楽がAI-assistedと特定された信仰系プロジェクトだ。#4のShards of Art「Fucking Shit, Holy Shit」は聖歌隊とdoo-wop風のノベルティ曲で、ジャンル別のリメイクが次々と生まれている。Rocky Bの「Fuck the Ones」は#8。#10はLooze Cannonの「Big Michael Michael」で、このDetroitのパフォーマーのMichael Jacksonのモノマネが話題となり、シングルのきっかけになった。LoozeはAIフィルター使用の疑惑を否定している。"
+                "x": "彼女は続いてTwice a Man自身のオリジナル録音を検証した。七曲が「possible AI/hybrid」と評価され、二曲は特定のプラットフォームまで名指しされた。1984年の「Across the Ocean」は「Treblo_v3」、1982年の「In My Mind」は「ElevenLabs Music」とされた。"
               },
               {
                 "t": "p",
-                "x": "要点は、彼らが愛されるスーパースターを押しのけたことではない。チャートには「Thriller」で#2のJackson、Ella Langley、Taylor Swift、Ray Parker Jr.、Zach BryanとLana Del Reyといった人間のアーティストも並ぶ。ただ、ホリデーシーズンが迫るなか、次のフロンティアは合成されたシーズンソングの洪水かもしれない。"
+                "x": "AI検出器は何も証明せず、統計的な確率を推定するにすぎない。アカウントやリリースの停止、ロイヤリティの保留が主にインディーシーンを直撃するなか、フィルターと異議申し立て手続きが明確になるまで、現代のインディー作品のリリースは「アルゴリズム任せの運試し」であり続ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iTunes Top 10\nAI-aided歌占四席",
-          "body": "Nov. 1 U.S. iTunes Top 10中有四首疑似用了AI，包括第1名。",
-          "mini_headline": "AI歌曲挤进iTunes Top 10",
+          "headline": "AI检测器误判人类音乐\n连1980s作品也难逃",
+          "body": "AI-music检测器把1980s电子合成器原创曲判为AI，独立音乐人恐遭误标。",
+          "mini_headline": "AI检测器误判80s合成器音乐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "图片来源：André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "AI-assisted音乐不再是某个潜伏在远处、等着写出下一首热门歌或抢走Grammy的行业怪物——它已经是日常榜单的一部分。"
+                "x": "AI检测器可能把手工制作的电子合成器风格曲目认定为AI音乐，甚至包括80s创作的原创曲目。SubmitHub、Let's Submit、TrackVerifier和ACRCloud等工具已将含有机器鼓、精确音序器、合成音景和变声处理的曲目归类为“可能由人工生成”，黑暗浪潮、电子和后朋克受影响尤甚。"
               },
               {
                 "t": "p",
-                "x": "例证：Nov. 1的iTunes U.S. Top 10中有四首歌似乎至少借助了部分AI，其中包括万圣节后（post-Halloween）的#1。当然，Apple不公布单曲下载量，而数字单曲销售在如今由流媒体主导的音乐消费中只占极小部分。但显然有人在买这些歌。"
+                "x": "2026年6月，汉堡（Hamburg-based）音乐人André Grafert（Coloured Tears）发行了《DECAY / TIME — A Tribute to Twice a Man》，收录23首未使用生成式AI、纯手工制作的翻唱，随即遭到公开指控称其使用AI。IAM的Ines Weidemann发现，SubmitHub将全部23首曲目评为可能是AI-generated。"
               },
               {
                 "t": "p",
-                "x": "榜首是May the Lord Studio的《Tell Me, How Is Heaven》，这是一个信仰主题项目，其音乐已被认定为AI-assisted。#4是Shards of Art的《Fucking Shit, Holy Shit》，一首带有合唱与doo-wop风格的趣味歌曲，已衍生出多个不同曲风的翻版。Rocky B的《Fuck the Ones》位列#8。#10是Looze Cannon的《Big Michael Michael》，这位Detroit表演者模仿Michael Jackson的视频走红，促成了这首单曲；Looze否认自己使用AI滤镜。"
+                "x": "她随后测试了Twice a Man本人的原始录音：七首被评为“possible AI/hybrid”，另有两首甚至被归到具体平台——1984年的“Across the Ocean”被指为“Treblo_v3”，1982年的“In My Mind”被指为“ElevenLabs Music”。"
               },
               {
                 "t": "p",
-                "x": "重点并不是它们取代了某位深受喜爱的巨星；榜单上的真人歌手包括凭《Thriller》位列#2的Jackson、Ella Langley、Taylor Swift、Ray Parker Jr.，以及Zach Bryan和Lana Del Rey。但随着节日季临近，下一个前沿可能是大量合成的节日欢歌。"
+                "x": "AI检测器什么也证明不了，只是在估算统计概率。账号封禁、作品下架和版税扣留主要冲击独立音乐圈，在过滤机制和申诉程序明确之前，发行现代独立作品仍是“一场算法的运气游戏”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canciones AI-aided ocupan cuatro\npuestos del Top 10 de iTunes",
-          "body": "Cuatro temas del Top 10 de iTunes U.S. del Nov. 1 parecen usar AI, incluido el No. 1 de May the Lord Studio.",
-          "mini_headline": "Temas con AI copan el Top 10 de iTunes",
+          "headline": "Detectores de IA marcan música\nhumana, incluso de los 1980s",
+          "body": "Los detectores AI-music etiquetan como IA originales electro-synth de los 1980s, con riesgo para artistas indie.",
+          "mini_headline": "Los detectores de IA fallan con el synth de los 80s",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "Crédito de la foto: André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "La música AI-assisted ya no es un lejano fantasma de la industria que espera el momento de escribir el próximo éxito o robar un Grammy: ya forma parte del panorama diario de las listas."
+                "x": "Los detectores de IA pueden tachar de música de IA temas electro-synth hechos a mano, incluso temas originales creados en los 80s. Herramientas como SubmitHub, Let's Submit, TrackVerifier y ACRCloud han clasificado temas con cajas de ritmos, secuenciadores precisos, paisajes sonoros sintéticos y voces alteradas como \"posiblemente generados artificialmente\", lo que afecta especialmente al darkwave, el electro y el post-punk."
               },
               {
                 "t": "p",
-                "x": "Un ejemplo: el Top 10 de iTunes U.S. del Nov. 1 incluye cuatro temas que parecen hechos con al menos algo de ayuda de AI, entre ellos el #1 post-Halloween. Por supuesto, Apple no revela las cifras de descargas individuales, y las ventas digitales de canciones son una fracción mínima del consumo de música, hoy impulsado por el streaming. Pero está claro que alguien compra estas canciones."
+                "x": "En junio de 2026, el músico André Grafert (Coloured Tears), Hamburg-based, publicó DECAY / TIME — A Tribute to Twice a Man, 23 versiones hechas a mano sin IA generativa, y pronto recibió acusaciones públicas de usar IA. Ines Weidemann, de IAM, comprobó que SubmitHub calificaba los 23 temas como potencialmente AI-generated."
               },
               {
                 "t": "p",
-                "x": "En lo más alto está “Tell Me, How Is Heaven”, de May the Lord Studio, un proyecto de temática religiosa cuya música ha sido identificada como AI-assisted. En el #4, “Fucking Shit, Holy Shit”, de Shards of Art, es una canción humorística con aire de coro y doo-wop que ha dado lugar a varias versiones de distintos géneros. “Fuck the Ones”, de Rocky B, aparece en el #8. En el #10 está “Big Michael Michael”, de Looze Cannon, el artista de Detroit cuyas imitaciones virales de Michael Jackson inspiraron en parte el sencillo; Looze ha negado las acusaciones de que usa filtros de AI."
+                "x": "Después probó las grabaciones originales del propio Twice a Man: siete fueron calificadas como \"possible AI/hybrid\" y dos incluso se atribuyeron a plataformas concretas: \"Treblo_v3\" para \"Across the Ocean\", de 1984, y \"ElevenLabs Music\" para \"In My Mind\", de 1982."
               },
               {
                 "t": "p",
-                "x": "La cuestión no es que hayan desplazado a alguna superestrella querida; entre los humanos de la lista están Jackson, en el #2 con “Thriller”, Ella Langley, Taylor Swift, Ray Parker Jr., y Zach Bryan y Lana Del Rey. Pero con la temporada navideña a la vuelta de la esquina, la próxima frontera podría ser una avalancha de alegría festiva sintética."
+                "x": "Los detectores de IA no prueban nada; solo estiman probabilidades estadísticas. Con cuentas bloqueadas, lanzamientos retenidos y regalías congeladas que golpean sobre todo a la escena independiente, publicar producciones independientes actuales sigue siendo \"un juego de azar algorítmico\" hasta que se aclaren los filtros y los procedimientos de apelación."
               }
             ]
           }
@@ -1209,121 +1105,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "iTunes Top 10에\nAI-aided 네 곡",
-          "body": "Nov. 1 U.S. iTunes Top 10은 1위 등 넷이 AI를 쓴 듯하다.",
-          "mini_headline": "AI 곡, iTunes Top 10 점령",
+          "headline": "AI 탐지기, 1980s\n인간 음악까지 오판",
+          "body": "AI-music 탐지기가 1980s 일렉트로 신스 원곡을 AI로 판정한다.",
+          "mini_headline": "AI 탐지기, 80s 신스 오판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "사진 제공: André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "AI-assisted 음악은 더 이상 다음 히트곡을 쓰거나 Grammy를 가로채려고 숨어 기다리는 먼 곳의 업계 괴물이 아니다. 이미 매일의 차트 풍경 일부가 됐다."
+                "x": "AI 탐지기는 손으로 만든 일렉트로 신스 성향의 곡을 AI 음악으로 낙인찍을 수 있다. 80s에 만든 원곡조차 예외가 아니다. SubmitHub, Let's Submit, TrackVerifier, ACRCloud 같은 도구는 머신 드럼, 정밀한 시퀀서, 합성 사운드스케이프, 변조된 목소리가 담긴 곡을 \"인공적으로 생성됐을 가능성\"이 있다고 분류해 왔고, 특히 다크웨이브, 일렉트로, 포스트펑크가 타격을 입었다."
               },
               {
                 "t": "p",
-                "x": "대표적인 예가 Nov. 1 iTunes U.S. Top 10이다. 적어도 어느 정도 AI의 도움을 받아 만든 것으로 보이는 곡이 네 곡 있고, 핼러윈 직후(post-Halloween) #1 곡도 그중 하나다. 물론 Apple은 개별 다운로드 수를 공개하지 않으며, 디지털 음원 판매는 이제 스트리밍이 주도하는 음악 소비에서 극히 일부에 불과하다. 하지만 누군가 이런 곡을 분명히 사고 있다."
+                "x": "2026년 6월, 함부르크(Hamburg-based) 뮤지션 André Grafert(Coloured Tears)는 생성형 AI 없이 손으로 만든 커버 23곡을 담은 DECAY / TIME — A Tribute to Twice a Man을 발표했고, 곧 AI를 썼다는 공개 비난에 직면했다. IAM의 Ines Weidemann이 확인해 보니 SubmitHub는 23곡 모두를 AI-generated 곡일 가능성이 있다고 평가했다."
               },
               {
                 "t": "p",
-                "x": "차트 정상에는 May the Lord Studio의 “Tell Me, How Is Heaven”이 올랐다. 음악이 AI-assisted로 확인된 신앙 기반 프로젝트다. #4인 Shards of Art의 “Fucking Shit, Holy Shit”은 합창과 doo-wop 풍의 노벨티 곡으로, 장르별 리메이크가 여러 개 나왔다. Rocky B의 “Fuck the Ones”는 #8이다. #10은 디트로이트(Detroit)의 퍼포머 Looze Cannon의 “Big Michael Michael”로, 그의 바이럴 Michael Jackson 흉내가 이 싱글의 계기가 됐다. Looze는 AI 필터를 쓴다는 의혹을 부인했다."
+                "x": "그는 이어 Twice a Man의 원곡 녹음을 직접 시험했다. 일곱 곡이 \"possible AI/hybrid\"로 평가됐고, 두 곡은 특정 플랫폼까지 지목됐다. 1984년 곡 \"Across the Ocean\"은 \"Treblo_v3\", 1982년 곡 \"In My Mind\"는 \"ElevenLabs Music\"이었다."
               },
               {
                 "t": "p",
-                "x": "요점은 이 곡들이 사랑받는 슈퍼스타를 밀어냈다는 게 아니다. 차트에는 “Thriller”로 #2에 오른 Jackson을 비롯해 Ella Langley, Taylor Swift, Ray Parker Jr., Zach Bryan과 Lana Del Rey 같은 사람 아티스트도 있다. 다만 연말 시즌이 빠르게 다가오는 지금, 다음 전선은 합성된 시즌 음악의 범람일지도 모른다."
+                "x": "AI 탐지기는 아무것도 증명하지 못하며 통계적 확률을 추정할 뿐이다. 계정 차단, 발매 차단, 로열티 보류가 주로 인디 신을 덮치는 가운데, 필터와 이의 제기 절차가 명확해질 때까지 현대 인디 작품 발매는 \"알고리즘의 운에 맡긴 게임\"으로 남는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iTunes Top 10に\nAI-aided曲が四つ",
-          "body": "Nov. 1のU.S. iTunes Top 10では1位を含む四曲がAI使用とみられる。",
-          "mini_headline": "AI曲がiTunes Top 10に続々",
+          "headline": "AI検出器が人の音楽を\n1980sの曲まで誤判定",
+          "body": "AI-music検出器が1980sのエレクトロ・シンセ原曲をAIと判定している。",
+          "mini_headline": "AI検出器、80sシンセを誤判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "写真：André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "AI-assistedの音楽は、もはや次のヒット曲を書いたりGrammyを奪ったりしようと待ち構える、遠い業界の怪物ではない。すでに日々のチャートの一部になっている。"
+                "x": "AI検出器は、手作りのエレクトロ・シンセ志向の曲をAI音楽と決めつけることがある。80sに作られたオリジナル曲でさえ例外ではない。SubmitHub、Let's Submit、TrackVerifier、ACRCloudなどのツールは、マシンドラム、精密なシーケンサー、シンセティックなサウンドスケープ、加工された声を含む曲を「人工的に生成された可能性がある」と分類しており、とりわけダークウェーブ、エレクトロ、ポストパンクが影響を受けている。"
               },
               {
                 "t": "p",
-                "x": "その好例が、Nov. 1のiTunes U.S. Top 10だ。少なくとも一部にAIの助けを借りたとみられる曲が四曲入り、ハロウィン明け(post-Halloween)の#1もその一つだ。もちろんAppleは個別のダウンロード数を公表しておらず、デジタル楽曲の販売は、いまやストリーミング主体の音楽消費のごく一部にすぎない。それでも、誰かが確実にこうした曲を買っている。"
+                "x": "2026年6月、ハンブルク（Hamburg-based）のミュージシャンAndré Grafert（Coloured Tears）は、生成AIを使わずに手作りした23曲のカバー集『DECAY / TIME — A Tribute to Twice a Man』をリリースしたが、まもなくAI使用の疑いを公に向けられた。IAMのInes Weidemannが調べたところ、SubmitHubは23曲すべてをAI-generatedの可能性ありと評価していた。"
               },
               {
                 "t": "p",
-                "x": "チャート首位はMay the Lord Studioの「Tell Me, How Is Heaven」で、その音楽がAI-assistedと特定された信仰系プロジェクトだ。#4のShards of Art「Fucking Shit, Holy Shit」は聖歌隊とdoo-wop風のノベルティ曲で、ジャンル別のリメイクが次々と生まれている。Rocky Bの「Fuck the Ones」は#8。#10はLooze Cannonの「Big Michael Michael」で、このDetroitのパフォーマーのMichael Jacksonのモノマネが話題となり、シングルのきっかけになった。LoozeはAIフィルター使用の疑惑を否定している。"
+                "x": "彼女は続いてTwice a Man自身のオリジナル録音を検証した。七曲が「possible AI/hybrid」と評価され、二曲は特定のプラットフォームまで名指しされた。1984年の「Across the Ocean」は「Treblo_v3」、1982年の「In My Mind」は「ElevenLabs Music」とされた。"
               },
               {
                 "t": "p",
-                "x": "要点は、彼らが愛されるスーパースターを押しのけたことではない。チャートには「Thriller」で#2のJackson、Ella Langley、Taylor Swift、Ray Parker Jr.、Zach BryanとLana Del Reyといった人間のアーティストも並ぶ。ただ、ホリデーシーズンが迫るなか、次のフロンティアは合成されたシーズンソングの洪水かもしれない。"
+                "x": "AI検出器は何も証明せず、統計的な確率を推定するにすぎない。アカウントやリリースの停止、ロイヤリティの保留が主にインディーシーンを直撃するなか、フィルターと異議申し立て手続きが明確になるまで、現代のインディー作品のリリースは「アルゴリズム任せの運試し」であり続ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iTunes Top 10\nAI-aided歌占四席",
-          "body": "Nov. 1 U.S. iTunes Top 10中有四首疑似用了AI，包括第1名。",
-          "mini_headline": "AI歌曲挤进iTunes Top 10",
+          "headline": "AI检测器误判人类音乐\n连1980s作品也难逃",
+          "body": "AI-music检测器把1980s电子合成器原创曲判为AI，独立音乐人恐遭误标。",
+          "mini_headline": "AI检测器误判80s合成器音乐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "图片来源：André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "AI-assisted音乐不再是某个潜伏在远处、等着写出下一首热门歌或抢走Grammy的行业怪物——它已经是日常榜单的一部分。"
+                "x": "AI检测器可能把手工制作的电子合成器风格曲目认定为AI音乐，甚至包括80s创作的原创曲目。SubmitHub、Let's Submit、TrackVerifier和ACRCloud等工具已将含有机器鼓、精确音序器、合成音景和变声处理的曲目归类为“可能由人工生成”，黑暗浪潮、电子和后朋克受影响尤甚。"
               },
               {
                 "t": "p",
-                "x": "例证：Nov. 1的iTunes U.S. Top 10中有四首歌似乎至少借助了部分AI，其中包括万圣节后（post-Halloween）的#1。当然，Apple不公布单曲下载量，而数字单曲销售在如今由流媒体主导的音乐消费中只占极小部分。但显然有人在买这些歌。"
+                "x": "2026年6月，汉堡（Hamburg-based）音乐人André Grafert（Coloured Tears）发行了《DECAY / TIME — A Tribute to Twice a Man》，收录23首未使用生成式AI、纯手工制作的翻唱，随即遭到公开指控称其使用AI。IAM的Ines Weidemann发现，SubmitHub将全部23首曲目评为可能是AI-generated。"
               },
               {
                 "t": "p",
-                "x": "榜首是May the Lord Studio的《Tell Me, How Is Heaven》，这是一个信仰主题项目，其音乐已被认定为AI-assisted。#4是Shards of Art的《Fucking Shit, Holy Shit》，一首带有合唱与doo-wop风格的趣味歌曲，已衍生出多个不同曲风的翻版。Rocky B的《Fuck the Ones》位列#8。#10是Looze Cannon的《Big Michael Michael》，这位Detroit表演者模仿Michael Jackson的视频走红，促成了这首单曲；Looze否认自己使用AI滤镜。"
+                "x": "她随后测试了Twice a Man本人的原始录音：七首被评为“possible AI/hybrid”，另有两首甚至被归到具体平台——1984年的“Across the Ocean”被指为“Treblo_v3”，1982年的“In My Mind”被指为“ElevenLabs Music”。"
               },
               {
                 "t": "p",
-                "x": "重点并不是它们取代了某位深受喜爱的巨星；榜单上的真人歌手包括凭《Thriller》位列#2的Jackson、Ella Langley、Taylor Swift、Ray Parker Jr.，以及Zach Bryan和Lana Del Rey。但随着节日季临近，下一个前沿可能是大量合成的节日欢歌。"
+                "x": "AI检测器什么也证明不了，只是在估算统计概率。账号封禁、作品下架和版税扣留主要冲击独立音乐圈，在过滤机制和申诉程序明确之前，发行现代独立作品仍是“一场算法的运气游戏”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canciones AI-aided ocupan cuatro\npuestos del Top 10 de iTunes",
-          "body": "Cuatro temas del Top 10 de iTunes U.S. del Nov. 1 parecen usar AI, incluido el No. 1 de May the Lord Studio.",
-          "mini_headline": "Temas con AI copan el Top 10 de iTunes",
+          "headline": "Detectores de IA marcan música\nhumana, incluso de los 1980s",
+          "body": "Los detectores AI-music etiquetan como IA originales electro-synth de los 1980s, con riesgo para artistas indie.",
+          "mini_headline": "Los detectores de IA fallan con el synth de los 80s",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+                "cap": "Crédito de la foto: André Grafert for International Artist Marketing (IAM)"
               },
               {
                 "t": "p",
-                "x": "La música AI-assisted ya no es un lejano fantasma de la industria que espera el momento de escribir el próximo éxito o robar un Grammy: ya forma parte del panorama diario de las listas."
+                "x": "Los detectores de IA pueden tachar de música de IA temas electro-synth hechos a mano, incluso temas originales creados en los 80s. Herramientas como SubmitHub, Let's Submit, TrackVerifier y ACRCloud han clasificado temas con cajas de ritmos, secuenciadores precisos, paisajes sonoros sintéticos y voces alteradas como \"posiblemente generados artificialmente\", lo que afecta especialmente al darkwave, el electro y el post-punk."
               },
               {
                 "t": "p",
-                "x": "Un ejemplo: el Top 10 de iTunes U.S. del Nov. 1 incluye cuatro temas que parecen hechos con al menos algo de ayuda de AI, entre ellos el #1 post-Halloween. Por supuesto, Apple no revela las cifras de descargas individuales, y las ventas digitales de canciones son una fracción mínima del consumo de música, hoy impulsado por el streaming. Pero está claro que alguien compra estas canciones."
+                "x": "En junio de 2026, el músico André Grafert (Coloured Tears), Hamburg-based, publicó DECAY / TIME — A Tribute to Twice a Man, 23 versiones hechas a mano sin IA generativa, y pronto recibió acusaciones públicas de usar IA. Ines Weidemann, de IAM, comprobó que SubmitHub calificaba los 23 temas como potencialmente AI-generated."
               },
               {
                 "t": "p",
-                "x": "En lo más alto está “Tell Me, How Is Heaven”, de May the Lord Studio, un proyecto de temática religiosa cuya música ha sido identificada como AI-assisted. En el #4, “Fucking Shit, Holy Shit”, de Shards of Art, es una canción humorística con aire de coro y doo-wop que ha dado lugar a varias versiones de distintos géneros. “Fuck the Ones”, de Rocky B, aparece en el #8. En el #10 está “Big Michael Michael”, de Looze Cannon, el artista de Detroit cuyas imitaciones virales de Michael Jackson inspiraron en parte el sencillo; Looze ha negado las acusaciones de que usa filtros de AI."
+                "x": "Después probó las grabaciones originales del propio Twice a Man: siete fueron calificadas como \"possible AI/hybrid\" y dos incluso se atribuyeron a plataformas concretas: \"Treblo_v3\" para \"Across the Ocean\", de 1984, y \"ElevenLabs Music\" para \"In My Mind\", de 1982."
               },
               {
                 "t": "p",
-                "x": "La cuestión no es que hayan desplazado a alguna superestrella querida; entre los humanos de la lista están Jackson, en el #2 con “Thriller”, Ella Langley, Taylor Swift, Ray Parker Jr., y Zach Bryan y Lana Del Rey. Pero con la temporada navideña a la vuelta de la esquina, la próxima frontera podría ser una avalancha de alegría festiva sintética."
+                "x": "Los detectores de IA no prueban nada; solo estiman probabilidades estadísticas. Con cuentas bloqueadas, lanzamientos retenidos y regalías congeladas que golpean sobre todo a la escena independiente, publicar producciones independientes actuales sigue siendo \"un juego de azar algorítmico\" hasta que se aclaren los filtros y los procedimientos de apelación."
               }
             ]
           }
@@ -1331,15 +1231,15 @@
       }
     },
     {
-      "id": "music-seoul-forum-virtual-kpop",
+      "id": "mlc-udio-subpoena-opposition",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "올해 K-pop 신인\n넷 중 하나는 가상",
-      "body": "Lim Hee-yun은 2026년 K-pop 신인 넷 중 하나가 가상이라고 했다.",
-      "mini_headline": "K-pop, 가상 아티스트 부상",
+      "headline": "MLC, Udio의\n스트리밍 소환장에 반발",
+      "body": "MLC는 Udio의 스트리밍 소환장에 직원 두세 주가 든다며 반대했다.",
+      "mini_headline": "MLC, Udio 소환장에 반대",
       "tool": "Music",
-      "source": "Korea JoongAng Daily",
-      "url": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/03/udio-mlc-subpoena-opposition/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1347,355 +1247,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-            "cap": "가상 보이그룹 Plave가 일본 쇼케이스(June 17)에서 공연하는 모습."
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+            "cap": "Photo Credit: Logan Voss"
           },
           {
             "t": "p",
-            "x": "2026 Seoul Music Forum은 “Independent, Connected, Global: The Next Chapter for Music Labels”를 주제로 음악계에 부상한 AI를 짚었다. 한국음반산업협회(LIAK) 주최로 일요일과 월요일 서울 서부에서 열렸다."
+            "x": "Mechanical Licensing Collective(MLC)가 Udio(그리고 Suno)의 스트리밍 데이터 소환장에 한층 더 강하게 반대하고 나섰다. 응하려면 \"직원 업무 시간이 약 두세 주 필요하다\"는 주장이다. 직원당 시간당 비용은 $150에서 $315 사이다."
           },
           {
             "t": "p",
-            "x": "기조연설에 나선 Josh Jordan(마닐라의 컨설팅사 Crosscurrent 창업자)은 AI가 무서운 속도로 발전하자 젊은 세대가 완벽하게 생성된 AI 콘텐츠 속에서 인간의 불완전함을 찾는다고 말했다. 가상 보이그룹 Plave를 대표 사례로 든 그는 “팬들은 이 가상의 외피 아래에 실제 사람이 있다는 걸 안다”고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-            "cap": "2026 Seoul Music Forum 패널(Nov. 1)에 나선 Josh Jordan, Tinko Georgiev, Yang, 음악평론가 Lim Hee-yun(왼쪽부터)."
+            "x": "Udio와 Suno는 모두 The Campbell Firm의 Chris Campbell이 대리하며, MLC에 2021년까지 거슬러 올라가는 서비스별·레이블별 스트리밍 재생량 데이터를 내라고 요구하고 있다. 두 AI 플랫폼은 메이저 레이블들이 제기한 소송에서 이 데이터가 공정 이용과 저작권 남용 항변과 관련 있다고 본다."
           },
           {
             "t": "p",
-            "x": "음악평론가 Lim Hee-yun은 패널 토론에서 Crosscurrent와 함께한 연구를 소개하며 올해 데뷔한 K-pop 신인 팀 넷 중 하나가 가상이라고 밝혔다. 그는 “신인 넷 중 하나가 [인간이 아니라는] 사실은 미래에 중대한 의미를 지닌다”며 이를 “비인간-인간 결합”이라고 불렀다."
+            "x": "MLC는 \"MLC는 녹음물이 아니라 음악 저작물의 로열티를 관리한다\"며 자신들은 DSPs의 월간 이용 보고서 사본만 받는다고 밝혔다. Udio가 이미 원고나 DSPs에서 해당 데이터를 확보한 것으로 보인다고도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "상하이 CRxAI 소속 Tinko Georgiev는 AI가 몰고 온 가장 큰 변화 중 하나로 고품질 콘텐츠가 더는 귀하지 않게 된다는 점을 들었다. LIAK 회장 Park June-seok은 업계가 “음악의 가치와 창작자의 권리를 어떻게 지키고 지속 가능한 생태계를 만들지” 고민해야 한다고 말했다."
+            "x": "칠월 MLC 측 변호사는 업체 견적을 인용해 서비스 비용 약 5000달러와 AWS 호스팅 비용 $100+/TB/mo를 제시했다. 그 뒤 Pandora와 Apple Music 등 DSPs가 데이터 요구에 반발했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "One in four new K-pop\nacts this year is virtual",
-          "body": "At the 2026 Seoul Music Forum, critic Lim Hee-yun cited research that one in four new K-pop acts this year is virtual.",
-          "mini_headline": "Virtual acts rise in K-pop",
+          "headline": "MLC pushes back on\nUdio's streaming subpoena",
+          "body": "The MLC opposed Udio's streaming-data subpoena, saying compliance would cost two to three weeks of staff time.",
+          "mini_headline": "MLC opposes Udio subpoena",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "Virtual boy band Plave performs during a showcase in Japan on June 17."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "Photo Credit: Logan Voss"
               },
               {
                 "t": "p",
-                "x": "The 2026 Seoul Music Forum, themed “Independent, Connected, Global: The Next Chapter for Music Labels,” examined the rise of AI in music. Hosted by the Record Label Industry Association of Korea (LIAK), it took place on Sunday and Monday in western Seoul."
+                "x": "The Mechanical Licensing Collective (MLC) is doubling down on its opposition to Udio's (and Suno's) streaming-data subpoena, claiming that complying \"would require approximately two to three weeks of staff time\" at an hourly rate of between $150 and $315 per employee."
               },
               {
                 "t": "p",
-                "x": "As AI advances at a breakneck pace, younger generations are seeking human imperfection in perfectly generated AI content, according to keynote speaker Josh Jordan, founder of Manila-based consultancy Crosscurrent. Virtual boy band Plave served as a key example: “fans know that underneath these virtual skins are real humans.”"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "From left: Josh Jordan, Tinko Georgiev, Yang and music critic Lim Hee-yun at the 2026 Seoul Music Forum panel on Nov. 1."
+                "x": "Udio and Suno, both repped by The Campbell Firm's Chris Campbell, want the MLC to turn over service- and label-specific stream-volume data dating back to 2021, which the AI platforms say is relevant to their fair use and copyright misuse defenses in the major labels' lawsuits."
               },
               {
                 "t": "p",
-                "x": "During the panel discussion, music critic Lim Hee-yun shared research — conducted with Crosscurrent — suggesting that one out of four newly debuting K-pop acts this year are virtual. “The fact that one out of four new is [not human] has major significance for the future,” Lim said, describing an “inhuman-human combination.”"
+                "x": "\"The MLC administers royalties for musical works, not sound recordings,\" the entity said, adding that it only receives copies of DSPs' monthly usage reports and that Udio appears to already have the data from the plaintiffs or the DSPs."
               },
               {
                 "t": "p",
-                "x": "Tinko Georgiev of Shanghai-based CRxAI said one of the biggest changes brought by AI is that high-quality content will no longer be in short supply. LIAK President Park June-seok said the industry must consider “how to protect the value of music and creators’ rights and build a sustainable ecosystem.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "올해 K-pop 신인\n넷 중 하나는 가상",
-          "body": "Lim Hee-yun은 2026년 K-pop 신인 넷 중 하나가 가상이라고 했다.",
-          "mini_headline": "K-pop, 가상 아티스트 부상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "가상 보이그룹 Plave가 일본 쇼케이스(June 17)에서 공연하는 모습."
-              },
-              {
-                "t": "p",
-                "x": "2026 Seoul Music Forum은 “Independent, Connected, Global: The Next Chapter for Music Labels”를 주제로 음악계에 부상한 AI를 짚었다. 한국음반산업협회(LIAK) 주최로 일요일과 월요일 서울 서부에서 열렸다."
-              },
-              {
-                "t": "p",
-                "x": "기조연설에 나선 Josh Jordan(마닐라의 컨설팅사 Crosscurrent 창업자)은 AI가 무서운 속도로 발전하자 젊은 세대가 완벽하게 생성된 AI 콘텐츠 속에서 인간의 불완전함을 찾는다고 말했다. 가상 보이그룹 Plave를 대표 사례로 든 그는 “팬들은 이 가상의 외피 아래에 실제 사람이 있다는 걸 안다”고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "2026 Seoul Music Forum 패널(Nov. 1)에 나선 Josh Jordan, Tinko Georgiev, Yang, 음악평론가 Lim Hee-yun(왼쪽부터)."
-              },
-              {
-                "t": "p",
-                "x": "음악평론가 Lim Hee-yun은 패널 토론에서 Crosscurrent와 함께한 연구를 소개하며 올해 데뷔한 K-pop 신인 팀 넷 중 하나가 가상이라고 밝혔다. 그는 “신인 넷 중 하나가 [인간이 아니라는] 사실은 미래에 중대한 의미를 지닌다”며 이를 “비인간-인간 결합”이라고 불렀다."
-              },
-              {
-                "t": "p",
-                "x": "상하이 CRxAI 소속 Tinko Georgiev는 AI가 몰고 온 가장 큰 변화 중 하나로 고품질 콘텐츠가 더는 귀하지 않게 된다는 점을 들었다. LIAK 회장 Park June-seok은 업계가 “음악의 가치와 창작자의 권리를 어떻게 지키고 지속 가능한 생태계를 만들지” 고민해야 한다고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "今年のK-pop新人\n四組に一組がバーチャル",
-          "body": "Lim Hee-yunは、2026年のK-pop新人の四組に一組がバーチャルだと述べた。",
-          "mini_headline": "K-popでバーチャル勢が台頭",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "日本でのショーケース(June 17)でパフォーマンスするバーチャルボーイズグループPlave。"
-              },
-              {
-                "t": "p",
-                "x": "「Independent, Connected, Global: The Next Chapter for Music Labels」をテーマにした2026 Seoul Music Forumは、音楽におけるAIの台頭を検証した。韓国音盤産業協会(LIAK)が主催し、日曜と月曜にソウル西部で開かれた。"
-              },
-              {
-                "t": "p",
-                "x": "基調講演者で、マニラのコンサルティング会社Crosscurrent創業者のJosh Jordanによると、AIが猛烈な速さで進歩するなか、若い世代は完璧に生成されたAIコンテンツの中に人間の不完全さを求めている。代表例はバーチャルボーイズグループPlaveで、「ファンはこのバーチャルな外見の下に本物の人間がいることを知っている」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "左から、2026 Seoul Music Forumのパネル(Nov. 1)に登壇したJosh Jordan、Tinko Georgiev、Yang、音楽評論家Lim Hee-yun。"
-              },
-              {
-                "t": "p",
-                "x": "パネル討論で音楽評論家のLim Hee-yunは、Crosscurrentと共同で行った研究を紹介し、今年デビューしたK-popの新人の四組に一組がバーチャルだと示した。「新人の四組に一組が[人間ではない]という事実は、未来にとって大きな意味を持つ」とLimは語り、「非人間と人間の組み合わせ」と表現した。"
-              },
-              {
-                "t": "p",
-                "x": "上海を拠点とするCRxAIのTinko Georgievは、AIがもたらす最大の変化の一つは、高品質なコンテンツがもはや不足しなくなることだと述べた。LIAKのPark June-seok会長は、業界は「音楽の価値とクリエイターの権利をどう守り、持続可能なエコシステムをどう築くか」を考えなければならないと語った。"
+                "x": "In July, an MLC lawyer cited a vendor estimate of approx $5k in services and $100+/TB/mo AWS hosting, but DSPs including Pandora and Apple Music later pushed back on the data demand."
               }
             ]
           }
         },
         "zh": {
-          "headline": "今年K-pop新人\n四分之一为虚拟偶像",
-          "body": "Lim Hee-yun称，2026年每四组K-pop新人中就有一组是虚拟艺人。",
-          "mini_headline": "虚拟艺人在K-pop崛起",
+          "headline": "MLC反对Udio的\n流媒体数据传票",
+          "body": "MLC反对Udio的流媒体数据传票，称配合需耗费员工两到三周时间。",
+          "mini_headline": "MLC反对Udio传票",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "虚拟男团Plave在日本的一场展示会（June 17）上演出。"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "图片来源：Logan Voss"
               },
               {
                 "t": "p",
-                "x": "以“Independent, Connected, Global: The Next Chapter for Music Labels”为主题的2026 Seoul Music Forum探讨了AI在音乐领域的崛起。论坛由韩国唱片产业协会（LIAK）主办，于周日和周一在首尔西部举行。"
+                "x": "Mechanical Licensing Collective（MLC）正加码反对Udio（及Suno）的流媒体数据传票，称配合该传票“大约需要两到三周的员工时间”，每名员工时薪在$150至$315之间。"
               },
               {
                 "t": "p",
-                "x": "主旨演讲者、马尼拉咨询公司Crosscurrent创始人Josh Jordan表示，随着AI飞速发展，年轻一代正在完美生成的AI内容中寻找人类的不完美。虚拟男团Plave就是一个关键例子：“粉丝知道，在这些虚拟外表之下是真实的人。”"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "左起：出席2026 Seoul Music Forum小组讨论（Nov. 1）的Josh Jordan、Tinko Georgiev、Yang和乐评人Lim Hee-yun。"
+                "x": "Udio和Suno均由The Campbell Firm的Chris Campbell代理，它们要求MLC提交可追溯至2021年、按服务和厂牌划分的流量数据。两家AI平台称，这些数据与其在主要唱片公司诉讼中的合理使用及版权滥用抗辩相关。"
               },
               {
                 "t": "p",
-                "x": "小组讨论中，乐评人Lim Hee-yun分享了与Crosscurrent合作开展的研究，显示今年新出道的K-pop组合中每四组就有一组是虚拟的。“新人中每四组就有一组[不是人类]，这一事实对未来意义重大，”Lim说，并称之为“非人类与人类的结合”。"
+                "x": "该机构表示：“MLC管理的是音乐作品的版税，而非录音制品。”并补充称，它只收到DSPs月度使用报告的副本，而Udio似乎已从原告或DSPs处获得这些数据。"
               },
               {
                 "t": "p",
-                "x": "总部位于上海的CRxAI的Tinko Georgiev表示，AI带来的最大变化之一是高质量内容将不再稀缺。LIAK会长Park June-seok表示，业界必须思考“如何保护音乐的价值和创作者的权利，并建立可持续的生态系统”。"
+                "x": "7月，一名MLC律师援引供应商估算称，服务费用约$5k，AWS托管费用为$100+/TB/mo，但Pandora和Apple Music等DSPs随后对该数据要求提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Uno de cada cuatro debuts K-pop\nde este año es virtual",
-          "body": "En el 2026 Seoul Music Forum, el crítico Lim Hee-yun citó datos: uno de cada cuatro debuts K-pop del año es virtual.",
-          "mini_headline": "Auge de los actos virtuales en el K-pop",
+          "headline": "La MLC se opone a la citación\nde datos de streaming de Udio",
+          "body": "La MLC rechaza la citación de datos de streaming de Udio: cumplirla costaría dos a tres semanas de personal.",
+          "mini_headline": "La MLC se opone a la citación de Udio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "La banda virtual masculina Plave actúa en un showcase en Japón el 17 de junio."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "Crédito de la foto: Logan Voss"
               },
               {
                 "t": "p",
-                "x": "El 2026 Seoul Music Forum, con el lema “Independent, Connected, Global: The Next Chapter for Music Labels”, analizó el auge de la AI en la música. Organizado por la Record Label Industry Association of Korea (LIAK), se celebró el domingo y el lunes en el oeste de Seúl."
+                "x": "La Mechanical Licensing Collective (MLC) redobla su oposición a la citación de datos de streaming de Udio (y de Suno), y alega que cumplirla \"requeriría aproximadamente dos a tres semanas de tiempo del personal\" a una tarifa por hora de entre $150 y $315 por empleado."
               },
               {
                 "t": "p",
-                "x": "A medida que la AI avanza a un ritmo vertiginoso, las generaciones más jóvenes buscan la imperfección humana en contenidos de AI generados a la perfección, según el ponente principal Josh Jordan, fundador de la consultora Crosscurrent, con sede en Manila. La banda virtual Plave sirvió como ejemplo clave: “los fans saben que bajo esas pieles virtuales hay personas reales”."
+                "x": "Udio y Suno, ambas representadas por Chris Campbell, de The Campbell Firm, quieren que la MLC entregue datos de volumen de streams por servicio y por sello desde 2021, que según estas plataformas de IA son relevantes para sus defensas de uso legítimo y abuso de copyright en las demandas de las grandes discográficas."
               },
+              {
+                "t": "p",
+                "x": "\"La MLC administra regalías de obras musicales, no de grabaciones sonoras\", afirmó la entidad, y añadió que solo recibe copias de los informes mensuales de uso de los DSPs y que Udio parece tener ya los datos de los demandantes o de los DSPs."
+              },
+              {
+                "t": "p",
+                "x": "En julio, un abogado de la MLC citó una estimación de un proveedor de aproximadamente $5k en servicios y $100+/TB/mo de alojamiento en AWS, pero DSPs como Pandora y Apple Music se opusieron después a la solicitud de datos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MLC, Udio의\n스트리밍 소환장에 반발",
+          "body": "MLC는 Udio의 스트리밍 소환장에 직원 두세 주가 든다며 반대했다.",
+          "mini_headline": "MLC, Udio 소환장에 반대",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "Desde la izquierda: Josh Jordan, Tinko Georgiev, Yang y el crítico musical Lim Hee-yun en el panel del 2026 Seoul Music Forum del 1 de noviembre."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "Photo Credit: Logan Voss"
               },
               {
                 "t": "p",
-                "x": "Durante el panel, el crítico musical Lim Hee-yun presentó una investigación, realizada con Crosscurrent, que sugiere que uno de cada cuatro actos de K-pop que debutan este año es virtual. “Que uno de cada cuatro nuevos [no sea humano] tiene un gran significado para el futuro”, dijo Lim, que habló de una “combinación inhumano-humana”."
+                "x": "Mechanical Licensing Collective(MLC)가 Udio(그리고 Suno)의 스트리밍 데이터 소환장에 한층 더 강하게 반대하고 나섰다. 응하려면 \"직원 업무 시간이 약 두세 주 필요하다\"는 주장이다. 직원당 시간당 비용은 $150에서 $315 사이다."
               },
               {
                 "t": "p",
-                "x": "Tinko Georgiev, de CRxAI, con sede en Shanghái, dijo que uno de los mayores cambios que trae la AI es que el contenido de alta calidad dejará de escasear. El presidente de LIAK, Park June-seok, dijo que la industria debe plantearse “cómo proteger el valor de la música y los derechos de los creadores y construir un ecosistema sostenible”."
+                "x": "Udio와 Suno는 모두 The Campbell Firm의 Chris Campbell이 대리하며, MLC에 2021년까지 거슬러 올라가는 서비스별·레이블별 스트리밍 재생량 데이터를 내라고 요구하고 있다. 두 AI 플랫폼은 메이저 레이블들이 제기한 소송에서 이 데이터가 공정 이용과 저작권 남용 항변과 관련 있다고 본다."
+              },
+              {
+                "t": "p",
+                "x": "MLC는 \"MLC는 녹음물이 아니라 음악 저작물의 로열티를 관리한다\"며 자신들은 DSPs의 월간 이용 보고서 사본만 받는다고 밝혔다. Udio가 이미 원고나 DSPs에서 해당 데이터를 확보한 것으로 보인다고도 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "칠월 MLC 측 변호사는 업체 견적을 인용해 서비스 비용 약 5000달러와 AWS 호스팅 비용 $100+/TB/mo를 제시했다. 그 뒤 Pandora와 Apple Music 등 DSPs가 데이터 요구에 반발했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MLC、Udioの\n配信データ召喚状に反発",
+          "body": "MLCはUdioの配信データ召喚状に反対し、職員の作業に二～三週間かかると述べた。",
+          "mini_headline": "MLC、Udio召喚状に反対",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "Photo Credit: Logan Voss"
+              },
+              {
+                "t": "p",
+                "x": "Mechanical Licensing Collective（MLC）は、Udio（およびSuno）のストリーミングデータ召喚状への反対姿勢を一段と強め、応じるには「職員の作業時間がおよそ二～三週間必要になる」と主張した。職員一人あたりの時給は$150から$315だという。"
+              },
+              {
+                "t": "p",
+                "x": "UdioとSunoはいずれもThe Campbell FirmのChris Campbellが代理人を務めており、MLCに対し2021年までさかのぼるサービス別・レーベル別のストリーム再生数データの提出を求めている。両AIプラットフォームは、このデータがメジャーレーベルによる訴訟でのフェアユースおよび著作権濫用の抗弁に関係すると主張している。"
+              },
+              {
+                "t": "p",
+                "x": "「MLCが管理するのは音楽作品のロイヤルティであり、録音物のものではない」と同団体は述べ、自らはDSPsの月次利用報告の写しを受け取っているにすぎず、Udioは原告またはDSPsからすでにデータを入手しているとみられると付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "七月、MLCの弁護士はベンダーの見積もりを引用し、サービス費用がおよそ5000ドル、AWSのホスティング費用が$100+/TB/moだと示したが、その後PandoraやApple MusicなどのDSPsがデータ要求に反発した。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "올해 K-pop 신인\n넷 중 하나는 가상",
-          "body": "Lim Hee-yun은 2026년 K-pop 신인 넷 중 하나가 가상이라고 했다.",
-          "mini_headline": "K-pop, 가상 아티스트 부상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "가상 보이그룹 Plave가 일본에서 열린 쇼케이스(June 17)에서 공연하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "2026 Seoul Music Forum은 “Independent, Connected, Global: The Next Chapter for Music Labels”를 주제로 음악계에서 AI의 부상을 살폈다. 한국음반산업협회(LIAK)가 주최했으며, 일요일과 월요일 서울 서부에서 열렸다."
-              },
-              {
-                "t": "p",
-                "x": "기조연설자인 Josh Jordan(마닐라의 컨설팅사 Crosscurrent 창업자)은 AI가 무서운 속도로 발전하면서 젊은 세대가 완벽하게 생성된 AI 콘텐츠 속에서 인간의 불완전함을 찾고 있다고 말했다. 그는 가상 보이그룹 Plave를 대표 사례로 들며 “팬들은 이 가상의 외피 아래에 실제 사람이 있다는 걸 안다”고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "2026 Seoul Music Forum 패널(Nov. 1)에 나선 Josh Jordan, Tinko Georgiev, Yang, 음악평론가 Lim Hee-yun(왼쪽부터)."
-              },
-              {
-                "t": "p",
-                "x": "패널 토론에서 음악평론가 Lim Hee-yun은 Crosscurrent와 함께 진행한 연구를 소개하며, 올해 새로 데뷔한 K-pop 팀 넷 중 하나가 가상이라고 밝혔다. 그는 “신인 넷 중 하나가 [인간이 아니라는] 사실은 미래에 중대한 의미를 지닌다”며 이를 “비인간-인간 결합”이라고 표현했다."
-              },
-              {
-                "t": "p",
-                "x": "상하이의 CRxAI에 몸담은 Tinko Georgiev는 AI가 가져온 가장 큰 변화 중 하나로 고품질 콘텐츠가 더는 부족하지 않게 된다는 점을 꼽았다. LIAK 회장 Park June-seok은 업계가 “음악의 가치와 창작자의 권리를 어떻게 지키고 지속 가능한 생태계를 만들지” 고민해야 한다고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "今年のK-pop新人\n四組に一組がバーチャル",
-          "body": "Lim Hee-yunは、2026年のK-pop新人の四組に一組がバーチャルだと述べた。",
-          "mini_headline": "K-popでバーチャル勢が台頭",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "日本でのショーケース(June 17)でパフォーマンスするバーチャルボーイズグループPlave。"
-              },
-              {
-                "t": "p",
-                "x": "「Independent, Connected, Global: The Next Chapter for Music Labels」をテーマにした2026 Seoul Music Forumは、音楽におけるAIの台頭を検証した。韓国音盤産業協会(LIAK)が主催し、日曜と月曜にソウル西部で開かれた。"
-              },
-              {
-                "t": "p",
-                "x": "基調講演者で、マニラのコンサルティング会社Crosscurrent創業者のJosh Jordanによると、AIが猛烈な速さで進歩するなか、若い世代は完璧に生成されたAIコンテンツの中に人間の不完全さを求めている。代表例はバーチャルボーイズグループPlaveで、「ファンはこのバーチャルな外見の下に本物の人間がいることを知っている」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "左から、2026 Seoul Music Forumのパネル(Nov. 1)に登壇したJosh Jordan、Tinko Georgiev、Yang、音楽評論家Lim Hee-yun。"
-              },
-              {
-                "t": "p",
-                "x": "パネル討論で音楽評論家のLim Hee-yunは、Crosscurrentと共同で行った研究を紹介し、今年デビューしたK-popの新人の四組に一組がバーチャルだと示した。「新人の四組に一組が[人間ではない]という事実は、未来にとって大きな意味を持つ」とLimは語り、「非人間と人間の組み合わせ」と表現した。"
-              },
-              {
-                "t": "p",
-                "x": "上海を拠点とするCRxAIのTinko Georgievは、AIがもたらす最大の変化の一つは、高品質なコンテンツがもはや不足しなくなることだと述べた。LIAKのPark June-seok会長は、業界は「音楽の価値とクリエイターの権利をどう守り、持続可能なエコシステムをどう築くか」を考えなければならないと語った。"
-              }
-            ]
-          }
-        },
         "zh": {
-          "headline": "今年K-pop新人\n四分之一为虚拟偶像",
-          "body": "Lim Hee-yun称，2026年每四组K-pop新人中就有一组是虚拟艺人。",
-          "mini_headline": "虚拟艺人在K-pop崛起",
+          "headline": "MLC反对Udio的\n流媒体数据传票",
+          "body": "MLC反对Udio的流媒体数据传票，称配合需耗费员工两到三周时间。",
+          "mini_headline": "MLC反对Udio传票",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "虚拟男团Plave在日本的一场展示会（June 17）上演出。"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "图片来源：Logan Voss"
               },
               {
                 "t": "p",
-                "x": "以“Independent, Connected, Global: The Next Chapter for Music Labels”为主题的2026 Seoul Music Forum探讨了AI在音乐领域的崛起。论坛由韩国唱片产业协会（LIAK）主办，于周日和周一在首尔西部举行。"
+                "x": "Mechanical Licensing Collective（MLC）正加码反对Udio（及Suno）的流媒体数据传票，称配合该传票“大约需要两到三周的员工时间”，每名员工时薪在$150至$315之间。"
               },
               {
                 "t": "p",
-                "x": "主旨演讲者、马尼拉咨询公司Crosscurrent创始人Josh Jordan表示，随着AI飞速发展，年轻一代正在完美生成的AI内容中寻找人类的不完美。虚拟男团Plave就是一个关键例子：“粉丝知道，在这些虚拟外表之下是真实的人。”"
-              },
-              {
-                "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "左起：出席2026 Seoul Music Forum小组讨论（Nov. 1）的Josh Jordan、Tinko Georgiev、Yang和乐评人Lim Hee-yun。"
+                "x": "Udio和Suno均由The Campbell Firm的Chris Campbell代理，它们要求MLC提交可追溯至2021年、按服务和厂牌划分的流量数据。两家AI平台称，这些数据与其在主要唱片公司诉讼中的合理使用及版权滥用抗辩相关。"
               },
               {
                 "t": "p",
-                "x": "小组讨论中，乐评人Lim Hee-yun分享了与Crosscurrent合作开展的研究，显示今年新出道的K-pop组合中每四组就有一组是虚拟的。“新人中每四组就有一组[不是人类]，这一事实对未来意义重大，”Lim说，并称之为“非人类与人类的结合”。"
+                "x": "该机构表示：“MLC管理的是音乐作品的版税，而非录音制品。”并补充称，它只收到DSPs月度使用报告的副本，而Udio似乎已从原告或DSPs处获得这些数据。"
               },
               {
                 "t": "p",
-                "x": "总部位于上海的CRxAI的Tinko Georgiev表示，AI带来的最大变化之一是高质量内容将不再稀缺。LIAK会长Park June-seok表示，业界必须思考“如何保护音乐的价值和创作者的权利，并建立可持续的生态系统”。"
+                "x": "7月，一名MLC律师援引供应商估算称，服务费用约$5k，AWS托管费用为$100+/TB/mo，但Pandora和Apple Music等DSPs随后对该数据要求提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Uno de cada cuatro debuts K-pop\nde este año es virtual",
-          "body": "En el 2026 Seoul Music Forum, el crítico Lim Hee-yun citó datos: uno de cada cuatro debuts K-pop del año es virtual.",
-          "mini_headline": "Auge de los actos virtuales en el K-pop",
+          "headline": "La MLC se opone a la citación\nde datos de streaming de Udio",
+          "body": "La MLC rechaza la citación de datos de streaming de Udio: cumplirla costaría dos a tres semanas de personal.",
+          "mini_headline": "La MLC se opone a la citación de Udio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-                "cap": "La banda virtual masculina Plave actúa en un showcase en Japón el 17 de junio."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "Crédito de la foto: Logan Voss"
               },
               {
                 "t": "p",
-                "x": "El 2026 Seoul Music Forum, con el lema “Independent, Connected, Global: The Next Chapter for Music Labels”, analizó el auge de la AI en la música. Organizado por la Record Label Industry Association of Korea (LIAK), se celebró el domingo y el lunes en el oeste de Seúl."
+                "x": "La Mechanical Licensing Collective (MLC) redobla su oposición a la citación de datos de streaming de Udio (y de Suno), y alega que cumplirla \"requeriría aproximadamente dos a tres semanas de tiempo del personal\" a una tarifa por hora de entre $150 y $315 por empleado."
               },
               {
                 "t": "p",
-                "x": "A medida que la AI avanza a un ritmo vertiginoso, las generaciones más jóvenes buscan la imperfección humana en contenidos de AI generados a la perfección, según el ponente principal Josh Jordan, fundador de la consultora Crosscurrent, con sede en Manila. La banda virtual Plave sirvió como ejemplo clave: “los fans saben que bajo esas pieles virtuales hay personas reales”."
+                "x": "Udio y Suno, ambas representadas por Chris Campbell, de The Campbell Firm, quieren que la MLC entregue datos de volumen de streams por servicio y por sello desde 2021, que según estas plataformas de IA son relevantes para sus defensas de uso legítimo y abuso de copyright en las demandas de las grandes discográficas."
               },
+              {
+                "t": "p",
+                "x": "\"La MLC administra regalías de obras musicales, no de grabaciones sonoras\", afirmó la entidad, y añadió que solo recibe copias de los informes mensuales de uso de los DSPs y que Udio parece tener ya los datos de los demandantes o de los DSPs."
+              },
+              {
+                "t": "p",
+                "x": "En julio, un abogado de la MLC citó una estimación de un proveedor de aproximadamente $5k en servicios y $100+/TB/mo de alojamiento en AWS, pero DSPs como Pandora y Apple Music se opusieron después a la solicitud de datos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MLC, Udio의\n스트리밍 소환장에 반발",
+          "body": "MLC는 Udio의 스트리밍 소환장에 직원 두세 주가 든다며 반대했다.",
+          "mini_headline": "MLC, Udio 소환장에 반대",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
-                "cap": "Desde la izquierda: Josh Jordan, Tinko Georgiev, Yang y el crítico musical Lim Hee-yun en el panel del 2026 Seoul Music Forum del 1 de noviembre."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "Photo Credit: Logan Voss"
               },
               {
                 "t": "p",
-                "x": "Durante el panel, el crítico musical Lim Hee-yun presentó una investigación, realizada con Crosscurrent, que sugiere que uno de cada cuatro actos de K-pop que debutan este año es virtual. “Que uno de cada cuatro nuevos [no sea humano] tiene un gran significado para el futuro”, dijo Lim, que habló de una “combinación inhumano-humana”."
+                "x": "Mechanical Licensing Collective(MLC)는 Udio(그리고 Suno)의 스트리밍 데이터 소환장에 대한 반대 입장을 한층 굳히며, 이에 응하려면 \"직원 업무 시간이 약 두세 주 필요하다\"고 주장했다. 직원당 시간당 비용은 $150에서 $315 사이다."
               },
               {
                 "t": "p",
-                "x": "Tinko Georgiev, de CRxAI, con sede en Shanghái, dijo que uno de los mayores cambios que trae la AI es que el contenido de alta calidad dejará de escasear. El presidente de LIAK, Park June-seok, dijo que la industria debe plantearse “cómo proteger el valor de la música y los derechos de los creadores y construir un ecosistema sostenible”."
+                "x": "Udio와 Suno는 모두 The Campbell Firm의 Chris Campbell이 대리하고 있으며, MLC에 2021년까지 거슬러 올라가는 서비스별·레이블별 스트리밍 재생량 데이터를 제출하라고 요구하고 있다. 두 AI 플랫폼은 이 데이터가 메이저 레이블들이 제기한 소송에서 공정 이용과 저작권 남용 항변에 관련된다고 본다."
+              },
+              {
+                "t": "p",
+                "x": "MLC는 \"MLC는 녹음물이 아니라 음악 저작물의 로열티를 관리한다\"고 밝히며, 자신들은 DSPs의 월간 이용 보고서 사본만 받을 뿐이고 Udio는 이미 원고나 DSPs로부터 해당 데이터를 확보한 것으로 보인다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "칠월 MLC 측 변호사는 업체 견적을 인용해 서비스 비용 약 5000달러와 AWS 호스팅 비용 $100+/TB/mo를 제시했지만, 이후 Pandora와 Apple Music 등 DSPs가 데이터 요구에 반발했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MLC、Udioの\n配信データ召喚状に反発",
+          "body": "MLCはUdioの配信データ召喚状に反対し、職員の作業に二～三週間かかると述べた。",
+          "mini_headline": "MLC、Udio召喚状に反対",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+                "cap": "Photo Credit: Logan Voss"
+              },
+              {
+                "t": "p",
+                "x": "Mechanical Licensing Collective（MLC）は、Udio（およびSuno）のストリーミングデータ召喚状への反対姿勢を一段と強め、応じるには「職員の作業時間がおよそ二～三週間必要になる」と主張した。職員一人あたりの時給は$150から$315だという。"
+              },
+              {
+                "t": "p",
+                "x": "UdioとSunoはいずれもThe Campbell FirmのChris Campbellが代理人を務めており、MLCに対し2021年までさかのぼるサービス別・レーベル別のストリーム再生数データの提出を求めている。両AIプラットフォームは、このデータがメジャーレーベルによる訴訟でのフェアユースおよび著作権濫用の抗弁に関係すると主張している。"
+              },
+              {
+                "t": "p",
+                "x": "「MLCが管理するのは音楽作品のロイヤルティであり、録音物のものではない」と同団体は述べ、自らはDSPsの月次利用報告の写しを受け取っているにすぎず、Udioは原告またはDSPsからすでにデータを入手しているとみられると付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "七月、MLCの弁護士はベンダーの見積もりを引用し、サービス費用がおよそ5000ドル、AWSのホスティング費用が$100+/TB/moだと示したが、その後PandoraやApple MusicなどのDSPsがデータ要求に反発した。"
               }
             ]
           }
