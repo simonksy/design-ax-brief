@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "issue": "AI 검증, 병원 몫이 된다",
+    "date": "2026.11.04",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 5건 대조(Fierce는 403이라 RSS pubDate 10.30 확인, AMA 발표문은 CI Today 전재본으로 대조). 날짜 10.27·10.27·10.29·10.30·11.03 원문 게재일 확인. 고침: ChatGPT-5 카드를 '한 연구'로 명시(Rambam 연구팀, Emergency Radiology, MURA 손목 X선 370장, 골절 170건 중 83건 놓침, 민감도 51.2%); MMC+ 인용을 원문대로 'may deviate'(벗어날 수 있는 때)로; AMA 인용을 'each have important responsibilities'(각자 중요한 책임)로, 거부권은 AMA 틀의 주장으로 표기; HTI-5는 Soliz의 '평가 책임은 병원·의료진에게' 발언으로 마무리. 2장은 학술지 그림(라이선스 불명) 대신 stat 카드로 바꿨다(170건 중 83건 놓침).",
+    "sources": [
+      "AuntMinnie — ChatGPT-5 misses half of distal radius fractures on x-rays (2026.10.27)",
+      "npj Digital Medicine — Scalable drift monitoring in medical imaging AI (2026.10.27)",
+      "Healthcare Dive — Popular AI models get medication doses wrong, some dangerously: Doximity (2026.10.29)",
+      "Fierce Healthcare — Who's responsible when clinical AI goes wrong? AMA weighs in (2026.10.30)",
+      "MedCity News — Looser Health IT Certification Requirements Shift Oversight to Health Systems (2026.11.03)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 의학 · 10.27~11.03",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "골절 판독",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.27",
+          "t": "드리프트",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.29",
+          "t": "용량 오류",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.30",
+          "t": "책임 분담",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.03",
+          "t": "HTI-5",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "AI가 틀렸는지 확인하는 일이 점점 병원 몫으로 넘어온다",
+      "eyebrow": "흐름 · 의학",
+      "headline": "AI 검증,\n병원 몫이 된다",
+      "body": "하나씩 보면 연구 한 편, 규칙 하나다. 이어 보면 AI가 틀리는 자리마다 확인할 책임이 병원 쪽으로 넘어온다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "한 연구, ChatGPT-5\n골절 절반 놓쳐",
+      "body": "손목 X선 370장을 예·아니오로만 물은 한 연구에서 골절 170건 중 83건을 놓쳤다. 민감도 51.2%.",
+      "foot": "2026.10.27",
+      "_src": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
+      "_id": "medicine-chatgpt5-fracture",
+      "stat_top": "손목 골절 170건",
+      "stat_arrow": "ChatGPT-5가 놓친 골절",
+      "stat_bottom": "83건",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.27",
+      "headline": "영상 AI 드리프트,\n상시 감시",
+      "body": "입력 데이터가 바뀌면 영상 AI 성능도 흔들린다. MMC+는 이를 잡는 감시 틀로, MGH 코로나 시기 데이터로 검증했다.",
+      "foot": "2026.10.27",
+      "_src": "https://www.nature.com/articles/s41746-026-03301-1",
+      "_id": "medicine-mmc-drift",
+      "quote": "AI 시스템이\n허용 성능 범위를\n벗어날 수 있는 때를\n알려 준다",
+      "quote_by": "MMC+ 논문 · npj Digital Medicine"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.29",
+      "headline": "AI 용량 오류,\n채점은 업체가",
+      "body": "Doximity가 2026년 LLM에 용량 질문 8,500개 넘게 냈다. 오류의 43%가 중대했고, 자사 DoseCheck는 99.9% 맞혔다고 했다.",
+      "foot": "2026.10.29",
+      "_src": "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/",
+      "_id": "doximity-dosing-error-test",
+      "stat_top": "오류 중 중대 43%",
+      "stat_arrow": "치명적일 수 있는 오류",
+      "stat_bottom": "3.4%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.30",
+      "headline": "AMA, 책임 나눌\n기준을 내놓다",
+      "body": "AMA 틀은 피해를 막을 능력만큼 책임을 지운다. 의사는 검증 안 된 AI를 불이익 없이 거부할 수 있어야 한다고 본다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
+      "_id": "ama-clinical-ai-liability",
+      "quote": "AI가 임상 기능을\n더 맡을수록\n개발사·의료기관·의사가\n각자 중요한 책임을 진다",
+      "quote_by": "Willie Underwood III · AMA 회장"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "연방 인증에서\nAI 공개 빠지다",
+      "body": "개발사가 AI 추천의 출처를 밝힐 의무가 사라진다. 변호사는 평가 책임이 결국 병원과 의료진에게 떨어진다고 본다.",
+      "foot": "2026.11.03",
+      "_src": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/",
+      "_id": "medicine-hti5-ai-oversight",
+      "stat_top": "인증 기준 60개",
+      "stat_arrow": "HTI-5가 없앤 기준",
+      "stat_bottom": "14개",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "issue": "Suno, Jason Isbell 소송 기각을 요청하다",
+    "date": "2026.11.03",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "Billboard(Bill Donahue, 2026.11.03 22:25 UTC = 11.04 07:25 KST) 원문 대조. 기각된 것은 없다 — Suno가 11월 3일 기각 신청서(motion to dismiss)를 낸 단계이고 판사 판단 전. 소송 주장(퍼블리시티권 침해, 띄어쓰기 우회)은 Isbell 측, 반론(수정헌법 1조·연방 선점)은 Suno 변호인단 것으로 돌렸다. Isbell 측 변호인은 화요일 논평 요청에 바로 답하지 않았다. 표지 사진은 Getty 기사 사진 대신 Wikimedia Commons CC BY 2.0 사진(Jason Isbell, Cambridge Folk Festival, 사진 Bryan Ledgard)으로 교체, 캡션에 크레딧; 기사 본문엔 다른 이미지·영상이 없어 2–5장은 quote·stat. 초안 날짜 11.04 → 기사 날짜 11.03으로 정정.",
+    "sources": [
+      "Billboard — Suno Says Jason Isbell Lawsuit Over Artist 'Identities' Must Be Dismissed: 'Nothing Unlawful About That' (2026.11.03)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 음악 · 2026.11.03",
+      "headline": "Suno, Isbell 소송\n기각을 요청하다",
+      "body": "AI 음악 기업 Suno가 가수 Jason Isbell 측 집단소송을 기각해 달라고 판사에게 신청했다. 판단은 아직이다.",
+      "foot": "밀어서 보기 →",
+      "media": "src/isbell-cambridge-cc.jpg",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "이 플랫폼은 뮤지션을 이름으로 식별하고, 명령만 하면 그 정체성을 떠올리게 하는 결과물을 만든다.",
+      "quote_by": "Jason Isbell 측 · 8월 소장",
+      "eyebrow": "무슨 소송인가",
+      "headline": "이름만 넣으면\n그 가수처럼?",
+      "body": "Isbell 측은 지난 8월 뉴욕·캘리포니아·테네시 등의 퍼블리시티권 법을 근거로 집단소송을 냈다.",
+      "foot": "2026.11.03",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "사람들은 음악 스타일을 말할 때 그 장르의 줄임말로 아티스트 이름을 흔히 쓴다.",
+      "quote_by": "Suno 변호인단 · 기각 신청서",
+      "eyebrow": "Suno의 반론",
+      "headline": "\"이름은 장르의\n줄임말일 뿐\"",
+      "body": "11월 3일 낸 첫 본격 답변이다. 그런 관행을 막는 법은 없고 수정헌법 1조도 허용하지 않는다는 주장이다.",
+      "foot": "2026.11.03",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "Duran Duran",
+      "stat_arrow": "Suno가 바꾸면",
+      "stat_bottom": "뉴웨이브·신스팝",
+      "stat_strike": true,
+      "eyebrow": "안전장치 공방",
+      "headline": "띄어 쓰면\n뚫린다?",
+      "body": "Suno는 이름을 음악 특성으로 바꿔 처리한다고 했다. Isbell 측은 't a y l o r s w i f t'처럼 쓰면 뚫린다고 주장한다.",
+      "foot": "2026.11.03",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "음악 스타일",
+      "stat_arrow": "누가 보호하나",
+      "stat_bottom": "주법? 연방법?",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "이제 공은\n판사에게",
+      "body": "Suno는 스타일 보호는 연방 저작권법의 몫이라며 선점 원칙을 들었다. 소송을 이어갈지는 이제 판사가 정한다.",
+      "foot": "2026.11.03",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
