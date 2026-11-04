@@ -1,7 +1,33 @@
-{"date":"2026-11-03","section":"design","media":[
-{"id":"figma-weave-tldr","type":"image","src":"pipeline/media/figma-weave-tldr.jpg"},
-{"id":"runway-dev-coding-plugins","type":"image","src":"pipeline/media/runway-dev-coding-plugins.png"},
-{"id":"character-creator-52-ai","type":"video","src":"pipeline/media/character-creator-52-ai.mp4","poster":"pipeline/media/character-creator-52-ai.jpg"},
-{"id":"cisco-pubhub-handoff","type":"image","src":"pipeline/media/cisco-pubhub-handoff.png"},
-{"id":"christy-cad-claude-rebuild","type":"image","src":"pipeline/media/christy-cad-claude-rebuild.png"}
-]}
+{
+ "date": "2026-11-04",
+ "section": "design",
+ "media": [
+  {
+   "id": "autom8labs-aec-mcp-skills",
+   "type": "image",
+   "src": "pipeline/media/autom8labs-aec-mcp-skills.jpg"
+  },
+  {
+   "id": "figma-aem-eds-block-kit",
+   "type": "image",
+   "src": "pipeline/media/figma-aem-eds-block-kit.png"
+  },
+  {
+   "id": "vercel-mcp-deploy-card",
+   "type": "video",
+   "src": "pipeline/media/vercel-mcp-deploy-card.mp4",
+   "poster": "pipeline/media/vercel-mcp-deploy-card.jpg"
+  },
+  {
+   "id": "eleken-code-prototyping",
+   "type": "video",
+   "src": "pipeline/media/eleken-code-prototyping.mp4",
+   "poster": "pipeline/media/eleken-code-prototyping.jpg"
+  },
+  {
+   "id": "creativebloq-ai-poster-font",
+   "type": "image",
+   "src": "pipeline/media/creativebloq-ai-poster-font.jpg"
+  }
+ ]
+}

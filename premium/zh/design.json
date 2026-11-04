@@ -10235,6 +10235,153 @@
           "x": "EditAgent还会检查后续编辑是否抵消了先前的编辑。它所需的算力约为单个编辑器的十倍，但其约26,000个经过验证的示例让微调后的编辑器在全部三项基准测试中都有提升。"
         }
       ]
+    },
+    "design/figma-aem-eds-block-kit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如果你在AEM Edge Delivery Services(EDS)上建站，设计师发来Figma链接后，你需要手动把该帧重建为区块：decorate() JS、限定作用域的CSS和Universal Editor模型。aem-eds-kit把这一过程变成一条命令：eds block from-design \"<Figma frame link>\" --name hero。"
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/va5b9qr7upyuasni38gv.webp",
+          "cap": "设计稿与eds据此生成的EDS区块并排对比"
+        },
+        {
+          "t": "p",
+          "x": "eds通过Figma的REST API或你的智能体所用的Figma MCP服务器读取帧(布局、Auto Layout、文本样式、Variables、变体和帧宽度)，并加以缓存。它会生成包含EDS规则、17种Universal Editor字段类型和项目设计令牌的提示词，再由你已在使用的AI编程智能体(Claude Code、Cursor或Codex)编写区块：eds本身不附带模型。"
+        },
+        {
+          "t": "p",
+          "x": "随后它会检查结果：文件是否存在、decorate()是否已导出、CSS是否限定在区块范围内、Universal Editor模型是否有效。输出包括hero.js、hero.css、_hero.json Universal Editor模型和一个预览页面，在作者填写内容之前使用占位文案和图片位。"
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o89tdtb6qtumipranubs.webp",
+          "cap": "浏览器中的区块预览"
+        },
+        {
+          "t": "p",
+          "x": "eds block preview、check和test会按各帧宽度展示区块、检查无障碍性并运行视觉回归测试。为了不超出Figma的速率限制，eds每个区块只调用一次Figma，之后使用缓存。该CLI还支持Framer和Google Stitch页面，并可在本地模型(Ollama、oMLX)上运行。它采用MIT许可(MIT-licensed)，与Adobe和Figma无关联。"
+        }
+      ]
+    },
+    "design/vercel-mcp-deploy-card": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel MCP现在可以在ChatGPT以及其他支持MCP Apps的聊天客户端中，以交互式卡片的形式展示你的部署。"
+        },
+        {
+          "t": "video",
+          "src": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4"
+        },
+        {
+          "t": "p",
+          "x": "卡片显示实时部署状态、构建日志以及来源和提交详情，部署URL就绪后还会出现Visit按钮。你可以把日志发送到聊天中与模型一起调试，也可以打开全屏视图，在卡片下方阅读日志。如果一个仓库关联了多个项目，可通过项目列表在它们之间切换。"
+        },
+        {
+          "t": "p",
+          "x": "这张卡片是Vercel MCP的首个MCP App，基于MCP Apps扩展构建。不支持应用的客户端会以文本形式收到部署状态、预览URL和提交信息。open_deployments工具可按项目、仓库或提交查找部署，并支持按环境筛选。ChatGPT通过其Connectors设置连接Vercel MCP。"
+        }
+      ]
+    },
+    "design/eleken-code-prototyping": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp"
+        },
+        {
+          "t": "p",
+          "x": "设计稿获得了批准。随后开发启动，问题也接踵而来。在多个SaaS项目中，Eleken反复遇到同样的问题：Figma并不总能干净地转化为代码，交互一旦真正实现就会表现不同，开发者最终要在实现过程中做设计决策。正因如此，基于代码的原型设计成了其流程的一部分。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6aa1304c102fa7661ee067f1_quality-task-center%402x.webp",
+          "cap": "Quality Task Center，一个由Claude生成的质量管理仪表盘原型"
+        },
+        {
+          "t": "p",
+          "x": "基于代码的原型设计，是指用真实代码构建产品的可运行版本，通常使用与实际产品相同的组件。“Figma展示产品应该如何运作，代码原型则让你测试它实际如何运作。”被广泛引用的IBM数据显示，修复缺陷的相对成本在设计阶段为1倍，实现阶段为6.5倍，测试阶段为15倍。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d43c235d0ce9ccb75fec_code-based-prototyping-stats-03.webp",
+          "cap": "修复软件缺陷的相对成本"
+        },
+        {
+          "t": "p",
+          "x": "Eleken的设计师在客户的代码仓库中使用Claude Code等工具工作：在本地运行产品，在独立分支中构建流程，在浏览器中迭代，并分享实时预览。获批的工作以Pull Request的形式交给客户的工程师；Eleken不会部署到生产环境。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d5b26ce48d741e0b09b5_code-based-prototyping-github-06.webp",
+          "cap": "Eleken设计师在GitHub上创建的Claude Code技能"
+        },
+        {
+          "t": "p",
+          "x": "AI让这一工作流程快了很多，但并没有让它自动化：Claude Code等工具可能误解代码库、凭空编造功能或引入错误，因此设计师仍需审查AI产出的内容。"
+        },
+        {
+          "t": "video",
+          "yt": "lGDHajtmcIE"
+        },
+        {
+          "t": "p",
+          "x": "当原型必须存在于现有代码库中时，Cursor和Claude Code是合适的选择。应根据要测试的问题来选择保真度，而不是根据团队已有的工具。"
+        }
+      ]
+    },
+    "design/creativebloq-ai-poster-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
+          "cap": "AI为何痴迷于这款字体?(图片来源: Future)"
+        },
+        {
+          "t": "p",
+          "x": "AI生成(AI-generated)的艺术无处不在，而且不只在网上：明显由AI制作的海报正出现在咖啡馆、餐厅，甚至当地的乡村礼堂里。每次都有一样东西会暴露它的身份：那款字体。张扬的笔触，略微向上倾斜。它喧闹、刺眼、随处可见，人们如今把它比作Comic Sans。"
+        },
+        {
+          "t": "p",
+          "x": "没有资源聘请设计师的小商家，或许乐于将就使用AI最先生成的结果之一。但Comic Sans是为特定目的手工设计的：Carrick Signs的Mandy Roscoe说，它的设计初衷是“模仿漫画中随意的手写对话，而不是装饰正式通知”。"
+        },
+        {
+          "t": "p",
+          "x": "被问及原因时，ChatGPT表示，图像生成器会把粗犷的笔刷风格字体与无数海报、广告和YouTube缩略图中吸引眼球的设计联系在一起，并不一定是在选择某款真实字体：本想显得手工、叛逆的字体设计，如今看起来却毫无疑问是人造的。"
+        }
+      ]
+    },
+    "design/figma-weave-tldr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma Weave是面向有持续制作需求的创意团队的平台。Weave把创建和编辑图像或视频的过程，变成你和队友可以调整、重复使用的流程序列。工作由画布上相互连接的节点组成，节点是用于添加图像和提示词、生成内容以及进行编辑的基本模块。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?rect=0,1,3692,1906&w=804&h=415&q=75&fit=max&auto=format",
+          "cap": "Figma Weave画布用相互连接的节点展示创作过程的每一步。"
+        },
+        {
+          "t": "p",
+          "x": "被称为分支的独立路径，可以让你从同一起点尝试不同的提示词或编辑，同时保留原始版本。你还可以把同一提示词交给不同的AI模型运行，并排比较结果。"
+        },
+        {
+          "t": "p",
+          "x": "编辑工具以节点形式出现，可与其他步骤连接：色彩校正、合成器、色阶、修剪、裁切和绘画工具。Weave工具会把一套工作流打包，让队友无需逐个查看节点或从头编写提示词就能运行；下一位用户只需上传一张照片，点击Generate即可。"
+        },
+        {
+          "t": "p",
+          "x": "借助Figma节点，你可以从Figma Design复制一个画框并粘贴到Weave中，它会与原始画框保持连接。如果在Figma Design中修改原始画框，这一改动会同步反映到Weave中与之相连的Figma节点上。"
+        }
+      ]
     }
   }
 }

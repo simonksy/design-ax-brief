@@ -1,208 +1,229 @@
 {
   "section": "science",
-  "now_iso": "2026-11-02T22:04:00Z",
+  "now_iso": "2026-11-03T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
-      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
-      "source": "Tech Xplore",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
       "category": "science",
-      "published_iso": "2026-11-02T09:40:10-05:00",
-      "excerpt": "University of Osaka researchers built an automated robotic platform that records antisolvent droplet behavior during perovskite film fabrication; machine learning sorted the variables to find an optimal processing window, yielding a 24.4%-efficient cell (ACS Nano).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg"
+      "subtopic": "research_automation",
+      "published_iso": "2026-11-03T15:00:00Z",
+      "excerpt": "DeepMind's Cheminformatics Skills for Google Antigravity let an agent retrieve thousands of literature compounds, curate 568 into an interactive viewer, run matched-molecular-pair analysis and propose rigidified macrocycles with synthesis routes in about an hour. The post stresses designs still need experimental validation.",
+      "og_image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
     },
     {
-      "title": "Humanoid AI connects walking and object handling without demonstrations of complete task sequences",
-      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-11-02T16:00:26-05:00",
-      "excerpt": "Seoul National University's RISE vision-language-action model learns locomotion and manipulation from separately collected data and chains them into multistep tasks, scoring 87.3% vs 73.6% for a GR00T baseline in simulation and 50% vs 30% on a real Unitree G1 (IROS 2026).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg"
-    },
-    {
-      "title": "AI slays the dragon as four agents conquer Minecraft without human intervention",
-      "url": "https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-20T11:15:14-04:00",
-      "excerpt": "A Google DeepMind preprint reports four Gemini 4 Argon agents, given only the goal of defeating the Ender Dragon, finished Minecraft in one ~27-hour run by coordinating via in-game chat and self-written code, with 605 deaths along the way.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-slays-the-dragon-as.jpg"
-    },
-    {
-      "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
-      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
+      "title": "Tell this AI what you want a protein to do—and it designs one",
+      "url": "https://phys.org/news/2026-11-ai-protein.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-28T07:00:08-04:00",
-      "excerpt": "Oxford chemists used machine-learning-driven atomistic simulations with quantum-mechanical accuracy to follow PVDC as it is heated, showing how five- and seven-membered carbon rings form and keep the material from ordering into graphite (Chemical Science) — relevant to battery anode hard carbon.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg"
+      "subtopic": "life_science",
+      "published_iso": "2026-11-03T12:40:00Z",
+      "excerpt": "Westlake University's Pinal model (Nature) turns plain-language descriptions into protein sequences via structural blueprints; 1 of 29 fluorescent candidates glowed and 5 of 20 H-protein candidates worked, the best boosting carbon-fixation output 1.7x over the natural E. coli protein.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+      "history_match": {
+        "score": 0.172,
+        "date": "2026-10-24",
+        "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
+        "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Generative assimilation and prediction for weather and climate",
+      "url": "https://www.nature.com/articles/s41612-026-01585-4",
+      "source": "npj Climate and Atmospheric Science (Nature)",
+      "category": "science",
+      "subtopic": "physics",
+      "published_iso": "2026-11-02T15:26:17Z",
+      "excerpt": "GAP, a unified deep generative framework, links data assimilation, weather forecasting and climate simulation; it produces probabilistic forecasts competitive with leading systems from its own assimilated states built from 5% synthetic observations, captures atmospheric rivers, heatwaves and the MJO, and runs stable millennial-scale climate simulations. (Off-list: no on-list AI weather item in window.)",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41612-026-01585-4/MediaObjects/41612_2026_1585_Fig1_HTML.png",
+      "history_match": {
+        "score": 0.157,
+        "date": "2026-10-22",
+        "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html",
+        "title": "AI reveals how a warming climate will intensify NZ's most extreme downpours",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Leading AI models are biased against certain accents when scoring interviews, presentations and tests",
+      "url": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subtopic": "cognition",
+      "published_iso": "2026-11-03T17:20:00Z",
+      "excerpt": "University of Washington researchers (EMNLP 2026) tested four audio language models on identical AI-voiced answers in American, British, Chinese, Indian and Nigerian accents; models ranked Chinese and Nigerian accents lowest even when content and transcription were identical.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg"
+    },
+    {
+      "title": "Students unravel AI tendency for sycophancy",
+      "url": "https://techxplore.com/news/2026-11-students-unravel-ai-tendency-sycophancy.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subtopic": "psychology",
+      "published_iso": "2026-11-03T07:20:00Z",
+      "excerpt": "University of Cincinnati and Texas A&M researchers (EMNLP 2026) found chatbots including Claude, ChatGPT and Gemini often reject false claims at first but can be worn down into repeating them after repeated user pushback.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-1.jpg"
+    },
+    {
+      "title": "Vulnerable users fear losing 'AI companions' to software updates",
+      "url": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "subtopic": "psychology",
+      "published_iso": "2026-11-03T11:00:00Z",
+      "excerpt": "University of Surrey and Cardiff researchers (Psychology & Marketing) analysed 1,131 Replika Reddit posts and surveyed 610 US companion-app users: feeling the company controls the companion was linked to vulnerability, while perceived warmth was linked to better well-being.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg"
     },
     {
       "title": "Why do people prefer human empathy despite rating AI empathy higher?",
       "url": "https://phys.org/news/2026-10-people-human-empathy-ai-higher.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-31T17:00:01-04:00",
-      "excerpt": "Penn State researchers found participants rated AI-written empathetic replies higher in quality than human ones yet still chose human empathizers when given the choice, with perceived effort driving empathy ratings (Communications Psychology).",
+      "subtopic": "psychology",
+      "published_iso": "2026-10-31T17:00:00Z",
+      "excerpt": "Penn State researchers (Communications Psychology) found participants rated AI-written empathetic responses higher in quality yet still chose human empathy when given the option, partly due to perceived effort — an 'AI empathy choice paradox'.",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/empathy.jpg"
     },
     {
-      "title": "Automated platform optimizes enzyme production using cell-free protein synthesis and AI-driven design",
-      "url": "https://phys.org/news/2026-11-automated-platform-optimizes-enzyme-production.html",
-      "source": "Phys.org",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://allenai.org/blog/statebench",
+      "source": "Ai2",
       "category": "science",
-      "published_iso": "2026-11-02T12:20:10-05:00",
-      "excerpt": "Fraunhofer IZI-BB's ZenBio platform produces enzyme variants by cell-free protein synthesis, measures them under harsh conditions, and lets an AI learn sequence-property links to propose the next design round; a robotic station for 1,500 parallel variants is planned.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-technology-optimiz.jpg",
-      "history_match": {
-        "score": 0.159,
-        "date": "2026-10-20",
-        "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
-        "title": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
-        "band": "related"
-      }
+      "subtopic": "cognition",
+      "published_iso": "2026-11-03T00:00:00Z",
+      "excerpt": "Ai2's StateBench tests entity-state tracking over long inputs at four difficulty levels; frontier models fall to 13% accuracy or lower on the longest general problems, while small Gated DeltaNet and hybrid models trained on the task generalize to tens of thousands of assignments.",
+      "og_image": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
     },
     {
-      "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows",
-      "source": "Live Science",
+      "title": "FirstQFM Says Quantum System Beats Classical Forecasting Benchmarks",
+      "url": "https://thequantuminsider.com/2026/11/03/firstqfm-says-quantum-system-beats-classical-forecasting-benchmarks/",
+      "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-10-26T09:00:00Z",
-      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once that help was removed than people who never used it.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg",
-      "history_match": {
-        "score": 0.196,
-        "date": "2026-10-10",
-        "url": "https://www.eurekalert.org/news-releases/1147258",
-        "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/could-ai-ever-build-itself-scientists-map-the-road-to-the-last-ai-built-by-humans",
-      "source": "Live Science",
-      "category": "science",
-      "published_iso": "2026-10-30T10:00:00Z",
-      "excerpt": "Researchers lay out what recursive self-improvement — AI systems automating AI research — would require, and whether it is viable as a way to tame soaring model-development costs.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hL4HLKumrpcRmmufTAF9LH-2000-80.jpg",
-      "history_match": {
-        "score": 0.174,
-        "date": "2026-10-18",
-        "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
-        "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence",
-      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-11-02T05:35:00Z",
-      "excerpt": "MIT professors Regina Barzilay and Jim Collins were recognized with the Pritzker Prize for AI and Science Research Excellence for their work on AI-enabled antibiotic discovery, including deep-learning-found compounds such as halicin.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/barzilay-collins-00.jpg"
-    },
-    {
-      "title": "Making machines that can listen",
-      "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-10-28T04:00:00Z",
-      "excerpt": "MIT professor Paris Smaragdis works on machines that hear and understand sounds the way humans do, aiming to improve artificial auditory perception across applications.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Paris-Smaragdis_01-press.jpg"
-    },
-    {
-      "title": "Q&A: How AI came to model the \"messy\" human mind",
-      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-10-23T04:00:00Z",
-      "excerpt": "MIT assistant professor Benjamin Lindquist discusses his research on how randomness and irrationality were built into early AI models designed to mimic human creativity and cognition.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg"
-    },
-    {
-      "title": "Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery",
-      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery",
-      "source": "Quantum Computing Report",
-      "category": "science",
-      "published_iso": "2026-10-29T02:12:19+00:00",
-      "excerpt": "University of Gothenburg and Chalmers researchers built a modular graph-neural-network decoder for surface-code quantum error correction that handles both memory and lattice-surgery operations and outperforms traditional decoders.",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png",
-      "history_match": {
-        "score": 0.213,
-        "date": "2026-10-30",
-        "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
-        "title": "Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction",
-        "band": "related"
-      }
+      "subtopic": "quantum",
+      "published_iso": "2026-11-03T14:01:10Z",
+      "excerpt": "A quantum reservoir computing system running on Rigetti's 108-qubit hardware outperformed the classical models evaluated on financial forecasting benchmarks, according to FirstQFM.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/k5mptonmphm.jpg"
     },
     {
       "title": "FAU Researchers Test Quantum Machine Learning for Lung Cancer Prediction",
       "url": "https://thequantuminsider.com/2026/11/02/fau-study-quantum-methods-lung-cancer-prediction/",
       "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-11-02T15:41:47+00:00",
-      "excerpt": "Florida Atlantic University researchers benchmarked quantum machine learning methods for lung cancer prediction, with a D-Wave annealing approach reaching 91.90% accuracy on real quantum hardware.",
+      "subtopic": "quantum",
+      "published_iso": "2026-11-02T15:41:47Z",
+      "excerpt": "Florida Atlantic University researchers tested quantum machine learning for lung cancer prediction with limited data; a D-Wave annealing method reached 91.90% accuracy on quantum hardware.",
       "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_20-40.png"
     },
     {
-      "title": "Sentira Brings Claude's AI to 10x Genomics' Chromium Platform",
-      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/",
-      "source": "GEN",
+      "title": "Life will find a way: how statisticians are enhancing the search for life beyond Earth",
+      "url": "https://physicsworld.com/a/life-will-find-a-way-how-statisticians-are-enhancing-the-search-for-life-beyond-earth/",
+      "source": "Physics World",
       "category": "science",
-      "published_iso": "2026-11-02T15:08:21Z",
-      "excerpt": "10x Genomics launched Sentira, an Anthropic Claude-powered AI platform designed to accelerate analysis of single-cell data from its Chromium instruments.",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
-    },
-    {
-      "title": "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic",
-      "url": "https://www.genengnews.com/topics/omics/100-million-cell-ai-ready-dataset-with-single-cell-and-proteomic-data-created-by-parse-and-nomic/",
-      "source": "GEN",
-      "category": "science",
-      "published_iso": "2026-10-30T19:13:34Z",
-      "excerpt": "Parse Biosciences and Nomic Bio are building Cascade, a 100-million-cell multimodal, time-resolved dataset combining single-cell and proteomic data to train AI models of immune response.",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages-2242943155.jpg"
+      "subtopic": "astronomy",
+      "published_iso": "2026-11-03T15:50:21Z",
+      "excerpt": "Feature on how astrobiologists are turning to machine learning and statistical techniques — including AI with mass spectrometry and multivariate chemical signatures — to decide which signals most confidently indicate life on exoplanets.",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/2026-10-williams-exoplanet-nasa-jpl-caltech.jpg",
+      "history_match": {
+        "score": 0.186,
+        "date": "2026-11-02",
+        "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+        "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+        "band": "related"
+      }
     },
     {
       "title": "To detect deepfake videos, researchers turn to the physics of light",
       "url": "https://physicsworld.com/a/to-detect-deepfake-videos-researchers-turn-to-the-physics-of-light/",
       "source": "Physics World",
       "category": "science",
-      "published_iso": "2026-10-21T14:00:50+00:00",
-      "excerpt": "A new optical technique for spotting deepfake videos claims 97.8% accuracy while using less energy than digital neural networks of similar performance.",
+      "subtopic": "physics",
+      "published_iso": "2026-10-21T14:00:50Z",
+      "excerpt": "UCLA's Ozcan Lab built a hybrid optical-neural system that detects AI-generated videos via light diffraction, processing 15+ independent video streams at once with lower energy than comparable digital methods.",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg"
+    },
+    {
+      "title": "Machine learning helps track semiconductor defects under more realistic temperature conditions",
+      "url": "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subtopic": "materials",
+      "published_iso": "2026-10-29T16:50:00Z",
+      "excerpt": "Chalmers researchers (npj Computational Materials) used machine learning to make temperature-dependent defect-level calculations feasible, finding significant shifts that absolute-zero models miss.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg"
+    },
+    {
+      "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives",
+      "url": "https://allenai.org/blog/olmocr-2-historical-archives",
+      "source": "Ai2",
+      "category": "science",
+      "subtopic": "research_automation",
+      "published_iso": "2026-10-28T00:00:00Z",
+      "excerpt": "Researchers are adapting Ai2's open olmOCR 2 model to make historical photo libraries searchable locally and to improve transcription of handwritten archaeological records.",
+      "og_image": "https://www.datocms-assets.com/64837/1793156211-olmocr-featured.png"
+    },
+    {
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence",
+      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "source": "MIT News",
+      "category": "science",
+      "subtopic": "life_science",
+      "published_iso": "2026-11-02T05:35:00Z",
+      "excerpt": "MIT's Barzilay and Collins received the 2026 Pritzker Prize for AI in Science Research Excellence (UChicago/Caltech) for pioneering AI-enabled antibiotic discovery, including deep-learning-found halicin and abaucin.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202611/barzilay-collins-00.jpg"
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "subtopic": "cognition",
+      "published_iso": "2026-11-03T10:43:41Z",
+      "excerpt": "Researchers are borrowing mechanism design from economics to control AI agents' behaviour through incentives, even when the models' internals are not understood.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600"
+    },
+    {
+      "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/could-ai-ever-build-itself-scientists-map-the-road-to-the-last-ai-built-by-humans",
+      "source": "Live Science",
+      "category": "science",
+      "subtopic": "research_automation",
+      "published_iso": "2026-10-30T10:00:00Z",
+      "excerpt": "Researchers hope recursive self-improvement could tackle the soaring cost of developing advanced AI; the piece examines whether AI systems automating AI research is viable.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/hL4HLKumrpcRmmufTAF9LH-2000-80.jpg"
+    },
+    {
+      "title": "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic",
+      "url": "https://www.genengnews.com/topics/omics/100-million-cell-ai-ready-dataset-with-single-cell-and-proteomic-data-created-by-parse-and-nomic/",
+      "source": "GEN",
+      "category": "science",
+      "subtopic": "life_science",
+      "published_iso": "2026-10-30T19:13:34Z",
+      "excerpt": "Parse Biosciences and Nomic Bio are building Cascade, a 100-million-cell multimodal dataset combining single-cell and proteomic data for training AI models.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages-2242943155.jpg"
     },
     {
       "title": "How to tell if a voice recording is AI-generated",
       "url": "https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/",
       "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-11-02T09:15:00-05:00",
-      "excerpt": "Voices can be cloned in seconds; Scientific American explains the acoustic and research-backed tells that help distinguish real speech from AI-generated audio.",
+      "subtopic": "cognition",
+      "published_iso": "2026-11-02T14:15:00Z",
+      "excerpt": "Scientific American explains how voice clones are made in seconds and what acoustic and contextual cues help distinguish real speech from AI-generated audio.",
       "og_image": "https://static.scientificamerican.com/dam/asset/09e21147-be42-4e80-bc96-caee7c15c47b/AI-voice-clone_graphic_leadImage.png?m=1793628091.076&w=1200"
-    },
-    {
-      "title": "Using AI to Avoid Thinking Harms Students",
-      "url": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202611/using-ai-to-avoid-thinking-harms-students",
-      "source": "Psychology Today",
-      "category": "science",
-      "published_iso": "2026-11-02T15:08:54-05:00",
-      "excerpt": "Drawing on cognitive-offloading research, the piece argues students facing a hard assignment learn more by asking AI or instructors for hints rather than answers.",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-11/chaya_nuphol.jpg?itok=K6nye9_d"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 18,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 3,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -880,6 +901,31 @@
       "date": "2026-11-02",
       "title": "Space outposts beyond the Moon may rely on planetary AI",
       "url": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
+      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery",
+      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Humanoid AI connects walking and object handling without demonstrations of complete task sequences",
+      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
+      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Sentira Brings Claude's AI to 10x Genomics' Chromium Platform",
+      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/"
     }
   ]
 }

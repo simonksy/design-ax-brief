@@ -10553,6 +10553,151 @@
           "x": "Los esfuerzos de Meta por entrar en los robots humanoides comenzaron ya el año pasado, después de que Bloomberg informara de que la compañía había creado un nuevo equipo encargado de desarrollar hardware robótico con el objetivo final de realizar tareas domésticas. Tras ese informe, Meta adquirió a principios de este año una startup conocida por desarrollar inteligencia artificial específica para robots."
         }
       ]
+    },
+    "gadgets/siri-ai-thirdparty-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Apple permitirá ahora que Siri AI realice acciones en apps de terceros. Como parte de la actualización iOS 27.3, que se distribuye desde el martes, Apple anunció que los desarrolladores ya pueden integrar las nuevas funciones de Siri AI en “todas las apps”, lo que permite al asistente de voz recurrir al contexto personal del usuario, procesar instrucciones en lenguaje natural y usar el reconocimiento de lo que hay en pantalla para completar solicitudes."
+        },
+        {
+          "t": "p",
+          "x": "La actualización, que se distribuye como parte de una Developer Preview, también añade una nueva función de “app skills” que los desarrolladores externos pueden crear para combinar varias tareas en una sola acción. En su documentación para desarrolladores, Apple indica que los usuarios no tendrán que mencionar el nombre de una app en su solicitud mientras esté en primer plano, durante una Live Activity o en una conversación con Siri AI sobre esa app."
+        },
+        {
+          "t": "p",
+          "x": "“Por ejemplo, una persona podría pedir un viaje en una app de transporte, seguir las actualizaciones de la Live Activity de la app mientras espera a que llegue el vehículo y luego pedir que se cambie el punto de recogida a otra dirección diciendo ‘Hey Siri, cambia la recogida de mi viaje a una nueva dirección’”, explica Apple. Como señaló 9to5Mac, Apple ya había puesto antes un conjunto más reducido de funciones a disposición de los desarrolladores externos."
+        },
+        {
+          "t": "p",
+          "x": "Apple también lleva las capacidades ampliadas de Siri AI a sus propias apps, entre ellas Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts y Weather. “Los usuarios pueden, por ejemplo, encontrar una cafetería que visitaron la semana pasada o archivar archivos que no se han abierto en más de un año”, según Apple. La compañía señala que los usuarios pueden preguntar a Siri AI qué puede hacer en cada app."
+        }
+      ]
+    },
+    "gadgets/sonos-27voice-early-access": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
+          "cap": "Una barra de sonido Sonos Beam Ultra negra bajo una TV."
+        },
+        {
+          "t": "p",
+          "x": "Sonos ha anunciado que su nuevo asistente de voz, Sonos 27voice, podrá probarse en acceso anticipado a partir del 6 de noviembre, como parte de una actualización que se distribuye esta semana. Un asistente de voz renovado era una de las varias funciones nuevas previstas para su nuevo software base, Sonos 27."
+        },
+        {
+          "t": "p",
+          "x": "Al igual que la anterior función Voice Control, Sonos 27voice puede controlar la reproducción, programar temporizadores, interactuar con accesorios domóticos compatibles e informar del tiempo. La diferencia es que entiende y responde a peticiones en lenguaje natural y puede contestar preguntas sobre un abanico mucho más amplio de conocimiento general: se le puede pedir «pon ese álbum de Bowie sobre una aventura en el espacio» o «quién ganó la Super Bowl este año»."
+        },
+        {
+          "t": "p",
+          "x": "Para probarlo hay que solicitar el acceso anticipado en la app de Sonos y obtener la aprobación. Sonos afirma que está probando la función con un grupo reducido de usuarios antes del lanzamiento completo en 2027 para recopilar comentarios (y, probablemente, evitar la reacción negativa que provocó el desastroso rediseño de su app en 2024). Sonos también presenta Presets y System Health."
+        },
+        {
+          "t": "p",
+          "x": "Durante el acceso anticipado, Sonos 27voice solo está disponible en Estados Unidos (US) y únicamente en inglés. Sonos 27 se limita al hardware de la plataforma S2 de Sonos."
+        }
+      ]
+    },
+    "gadgets/cyclon-ai-phone-yc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Teléfono Cyclon AI"
+        },
+        {
+          "t": "p",
+          "x": "Casi todo lo que hacemos en el teléfono sigue la misma rutina: abrir una app, tocar varias pantallas y terminar la tarea uno mismo. Cyclon, una startup de la tanda F26 de Y Combinator, quiere ceder toda esa rutina a la AI con un teléfono que espera que reemplace a tu iPhone."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los asistentes dependen de que los desarrolladores creen integraciones antes de poder hacer algo dentro de una app. Cyclon no espera a eso. Se mueve por las apps igual que tú y puede saltar entre varias de ellas para terminar un trabajo."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Maqueta del software del teléfono Cyclon ai"
+        },
+        {
+          "t": "p",
+          "x": "Supongamos que quieres enviar a un amigo unas fotos perdidas en un chat de WhatsApp. Puedes pedirle a Cyclon que las encuentre y se las mande. Cuando la app que necesitas no existe, Cyclon crea una en el momento, y sigue trabajando en segundo plano mientras el teléfono está en tu bolsillo."
+        },
+        {
+          "t": "p",
+          "x": "Ya se puede conseguir. La primera tanda de teléfonos Cyclon es un Pixel 8a con Cyclon preinstalado, y la empresa lo envía en un plazo de 30 días desde la reserva. Empezar con un Pixel tiene sentido porque el trabajo de Cyclon ocurre casi por completo en el nivel del sistema operativo."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, el hardware propio sigue en la hoja de ruta. Con su propio teléfono, Cyclon planea ejecutar localmente modelos de AI más potentes y combinarlos con modelos en la nube, manteniendo en el dispositivo la mayor parte posible de los datos personales."
+        },
+        {
+          "t": "p",
+          "x": "Cada app tiene su propio diseño y sus particularidades, y una AI que navega tocando pantallas tiene que manejarlas todas. Si Cyclon lo consigue, podría ahorrarnos mucho trabajo tedioso. Si no, corre el riesgo de convertirse en otro asistente que promete más de lo que cumple."
+        }
+      ]
+    },
+    "gadgets/chatgpt-dots-astra-1104": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI está haciendo que ChatGPT Dots sean más capaces, pero lo interesante no es solo que tendrán acceso a modelos de AI más potentes, sino que podrán elegir el modelo adecuado para cualquier cosa que preguntes."
+        },
+        {
+          "t": "p",
+          "x": "Thibault Sottiaux, que trabaja en Codex y ChatGPT en OpenAI, compartió en X que la compañía está ampliando la gama de modelos que impulsan Dots. Esto incluye GPT-6 Astra y GPT-6.1 Terra, y se espera que lleguen más en el futuro. Según Sottiaux, Terra aporta un rendimiento más rápido y una personalidad más agradable, y además ayuda a OpenAI a poner Dots al alcance de más personas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Dots son asistentes personales de AI que pueden seguir trabajando aunque no estés. Tu Dot puede recordar en qué estás trabajando y retomar donde lo dejó, y ahora puedes chatear con él directamente a través de Google Messages o iMessage."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "Sottiaux dice que Dots elegirán automáticamente el modelo adecuado para cada trabajo, e incluso cambiarán de modelo en distintas partes de una misma tarea. Por supuesto, habrá que ver qué tan bien funciona en la práctica."
+        }
+      ]
+    },
+    "gadgets/google-nasa-robot-doctor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google desarrolla con NASA un asistente médico robótico para ayudar a los astronautas a afrontar emergencias de salud y tareas rutinarias durante futuras expediciones al espacio profundo. El proyecto reúne a Google Cloud, el Human Research Program de NASA, el equipo de robótica del Johnson Space Center y el Jet Propulsion Laboratory, y se basa en el Crew Medical Officer Digital Assistant que Google y NASA evalúan desde 2025."
+        },
+        {
+          "t": "p",
+          "x": "“Un astronauta en una futura misión al espacio profundo rumbo a Marte (Mars) podría enfrentarse a graves desafíos operativos, incluidas latencias de comunicación de ida y vuelta de hasta 44 minutos”, dijo Jim Kelly, vicepresidente de sector público de Google. En lugar de sustituir al oficial médico de la tripulación, el robot ayudaría con tareas prácticas y dejaría las decisiones de diagnóstico y tratamiento bajo supervisión humana; por ejemplo, buscaría y prepararía el equipo de ultrasonido para un astronauta con un intenso dolor de espalda posiblemente vinculado a cálculos renales."
+        },
+        {
+          "t": "p",
+          "x": "Google está adaptando tecnología de navegación del JPL y usó el simulador físico MuJoCo de DeepMind para evaluar el movimiento y la manipulación de objetos. En las primeras pruebas de laboratorio, el robot logró una tasa de éxito del 85% al localizar y mover un maletín médico. Google describe el trabajo como una prueba de concepto, sin ningún robot confirmado como apto para el espacio."
+        },
+        {
+          "t": "p",
+          "x": "“El objetivo final es construir un sistema robótico capaz de ejecutar diversas tareas mediante simples instrucciones de voz, bajo la supervisión y el mando directos de los astronautas”, dijo Kelly."
+        }
+      ]
     }
   }
 }

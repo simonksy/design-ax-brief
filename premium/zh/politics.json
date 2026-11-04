@@ -4554,6 +4554,154 @@
           "x": "此后,Meta于10月28日宣布暂停推行其商业条款,等待与行业团体协商。由于调查才刚刚开始,目前尚未就Meta是否违法作出任何决定。"
         }
       ]
+    },
+    "politics/politics-china-ai-lifecycle-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+          "cap": "DeepSeek。[路透社=韩联社资料照片]"
+        },
+        {
+          "t": "p",
+          "x": "中国当局决定制定涵盖人工智能（AI）从开发到应用全流程的广泛监管指南。此举被解读为应对全球日益凸显的AI失控等安全问题。"
+        },
+        {
+          "t": "p",
+          "x": "据彭博社3日报道，中国国家发展和改革委员会（NDRC）当天表示，正在加快推进管理和监督AI模型开发与应用的立法。国家发展改革委创新和高技术发展司副司长Wang Luomeng当天在发布会上表示，此次将出台的规定将适用于从数据到算力资源的广泛领域。他补充说，中国当局将定期评估规定的执行情况，过时的条款将得到修订。"
+        },
+        {
+          "t": "p",
+          "x": "具体对象预计将包括正在挑战美国OpenAI和Anthropic等公司的DeepSeek、Moonshot AI、Alibaba Group等中国AI企业。"
+        },
+        {
+          "t": "p",
+          "x": "这位副司长表示，为了更广泛地允许试错，还将按领域引入监管沙盒。他同时强调，AI开发企业和运营企业在加强风险管理的同时，必须公开安全风险、事故和漏洞。"
+        },
+        {
+          "t": "p",
+          "x": "中国政府还计划监测AI对就业和岗位替代的影响。这位副司长说，当局将为受AI影响的劳动者提供社会安全网。"
+        },
+        {
+          "t": "p",
+          "x": "彭博社分析称，这些举措反映出中国政府意识到AI可能失控或被用于网络攻击，并努力寻求平衡。这也被解读为中国政府同样警惕AI可能带来的大规模社会混乱。"
+        },
+        {
+          "t": "p",
+          "x": "近来，美国硅谷科技企业负责人和专家警告AI可能威胁人类生存，此后AI失控或被用于网络攻击的案例接连出现，全球担忧日益加剧。美国总统唐纳德·特朗普与中国国家主席习近平在9月的华盛顿峰会上同意建立对话渠道，就AI的风险与益处交换意见，并在发生相关事故时进行沟通。"
+        }
+      ]
+    },
+    "politics/politics-ncsc-ai-ransomware-2028": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "英国（UK）国家网络安全中心（NCSC）表示，从现在到2028年，AI-powered恶意软件“极有可能”成为未来针对英国关键国家基础设施的勒索软件攻击的一部分。这一警告与其年度评估以及另一份探讨AI在未来两年将如何改变网络威胁的评估一同发布。"
+        },
+        {
+          "t": "p",
+          "x": "攻击者已在改造利用开源AI安全工具，例如中国开发的AI红队平台ARTEX。在2028年的悲观情景中，NCSC设想“全球网络攻击的频率和复杂程度将显著上升”，并称自主攻击者能够自我复制并随意发动网络攻击“是一种现实的可能性”。"
+        },
+        {
+          "t": "p",
+          "x": "防御方面，Project DROMOS在政府代码中发现了数百个潜在安全问题。评估重申了投入£60 million打造智能体网络防御系统Cyber Shield的计划，另有£70 million用于新的NERV Centre，£40 million用于National Agentic Security Unit。"
+        },
+        {
+          "t": "p",
+          "x": "NCSC首席执行官（CEO）Dr Richard Horne呼吁各机构“紧急投资”：“几十年来，我们大家一直在以廉价方式做技术，却侥幸没有出事。”"
+        }
+      ]
+    },
+    "politics/politics-upstage-solar-gov-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+          "cap": "Upstage大语言模型（LLM）“Solar Pro 4”已接入全政府人工智能（AI）公共平台。Upstage"
+        },
+        {
+          "t": "p",
+          "x": "Upstage于3日表示，已将大语言模型（LLM）“Solar Pro 4”接入全政府人工智能（AI）公共平台，并正式上线服务。政务网无需另建图形处理器（GPU）基础设施，即可使用国产AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "全政府AI公共平台是行政安全部和科学技术信息通信部向中央部委和地方政府提供AI模型、数据和开发环境等的政务网专用AI基础设施。Solar Pro 4通过该公共平台的AI平台——Samsung SDS的“FabriX”提供。"
+        },
+        {
+          "t": "p",
+          "x": "Solar Pro 4运行在通过国家情报院安全审查的政务网基础设施上，可防止内部行政数据外泄。模型运行所需的GPU资源由公共平台统一管理。各机关无需另行搭建或租用GPU服务器，即可通过聊天界面或应用程序接口（API）使用。"
+        },
+        {
+          "t": "p",
+          "x": "它还与法令、新闻稿和行政资料等关联，给出回答依据。公务员可将Solar Pro 4用于审查条例、规定修订案是否抵触上位法的法令审查，以及查找依据法令和办理程序、撰写民众诉求答复初稿。它还可用于根据会议记录和参考资料撰写报告初稿，以及梳理政策资料要点和争议点的长文档摘要等。"
+        },
+        {
+          "t": "p",
+          "x": "公共部门此前因安全监管和GPU基础设施不足，在使用AI方面受到限制。Upstage表示，借助Solar Pro 4，可以在同时满足安全和基础设施要求的政务网内，将国产AI模型用于工作。"
+        },
+        {
+          "t": "p",
+          "x": "Upstage代表金成勋表示：“公共业务所需的AI，是能守住安全、有据可依地作答、值得信赖托付的AI。”他还表示：“我们将在行政一线证明，值得信赖的国产AI能够引领公共业务创新。”"
+        },
+        {
+          "t": "p",
+          "x": "Upstage此前于上月发布了轻量语言模型（SLM）“Solar Mini 4”。该模型在350亿参数中仅激活30亿参数，在全球AI性能评测中取得了同级小型模型中的最高水平。"
+        }
+      ]
+    },
+    "politics/politics-eu-2027-workplan-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+          "cap": "gorodenkoff / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据Rapporteur获得的2027年委员会工作计划，欧盟委员会正考虑明年在各行业提升人工智能的使用。根据这份预计于周三公布的泄露计划，委员会希望在各行业“挖掘”AI潜力。"
+        },
+        {
+          "t": "p",
+          "x": "委员会将提出一份所谓的行动蓝图，在卫生、交通、农业食品、先进制造以及国防和航天等五个领域推动工业AI——这很可能指的是委员会AI特使Jim Hagemann Snabe即将发布的报告。委员会还希望“加强”欧洲在AI技术栈中的地位：增加芯片、数据、算力和创新融资工具方面的优先事项。"
+        },
+        {
+          "t": "p",
+          "x": "一项“数字化转型一揽子计划、简化与版权”将审视“数字十年”目标，重点可能放在AI基础设施、提升公民AI技能以及监测企业采用AI系统的情况。委员会还希望在文化和创意领域“利用”AI的潜力，并提到“需要支持年轻人应对AI对劳动力市场的影响所带来的挑战”。"
+        },
+        {
+          "t": "p",
+          "x": "不过，委员会2027年的立法重点较窄，《数字公平法》（Digital Fairness Act, DFA）和《欧洲产品法》（European Product Act）等多项提案定于2026年底提出。"
+        }
+      ]
+    },
+    "politics/brave-nyt-scraping-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据Reuters报道，The New York Times和其他多家出版物已对Brave网络浏览器的开发公司提起诉讼，指控其为训练AI非法抓取内容，并让用户绕过付费墙。"
+        },
+        {
+          "t": "p",
+          "x": "根据New York Daily News、Chicago Tribune和Orlando Sentinel提交的诉状，Brave Software将其抓取的网站索引变现，方式之一是向AI公司提供“Brave Index实时（real-time）在线内容”的付费访问。诉状称，Brave向包括Anthropic、Perplexity、Mistral、xAI和Cohere在内的“众多”AI公司提供了“窃取的受版权保护内容”。Brave还宣传可通过其“Paywall blocker”功能访问“数百家顶级出版商”。"
+        },
+        {
+          "t": "p",
+          "x": "NYT发言人Graham James表示：“Brave无视既有的版权法，并对The Times多次要求其停止侵权行为的请求置若罔闻。”代表其他出版物提起诉讼的律师Steven Lieberman说：“Brave必须为替AI行业清洗盗版报道承担责任。”"
+        },
+        {
+          "t": "p",
+          "x": "Brave、Anthropic、Mistral、SpaceXSI和Cohere未立即回应置评请求。Perplexity首席传播官Jesse Dwyer表示：“The New York Times给律师付得太多，给记者付得太少。”"
+        }
+      ]
     }
   }
 }

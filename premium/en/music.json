@@ -9532,6 +9532,150 @@
           "x": "It is less likely to produce unwanted artifacts on sounds such as gongs, chimes, and whistles, better preserving the character of the sound you asked for. Effects can be generated in the Sound Effects tab, Flows, Studio, the Music Editor and the mobile app; developers can access SFX v3 through ElevenAPI."
         }
       ]
+    },
+    "music/music-riaa-openai-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+        },
+        {
+          "t": "p",
+          "x": "A group of music industry organisations - including RIAA, NMPA, A2IM, SONA and ARA - have intervened via an amicus brief in the big ongoing legal battle between book authors and newspaper owners and Open AI, setting out why AI training should never be considered fair use under American copyright law."
+        },
+        {
+          "t": "p",
+          "x": "All of the US copyright lawsuits against AI companies swing on fair use - including the music industry’s litigation targeting Suno, Udio and Anthropic. Trump’s Department Of Justice previously told the judge that ruling Open AI’s training was not fair use would be “inconsistent with basic copyright law principles”."
+        },
+        {
+          "t": "p",
+          "x": "The brief makes three arguments. On transformativeness, citing the Warhol ruling: “An AI model does not ingest romance poetry or bluegrass to learn about language or music at large, but rather to generate substitutes that read and sound like them”. On market dilution, AI “has the unique capacity to output endless content that displaces the market for and diminishes the value of the copyrighted works on which it trained”. And copyright’s broad purpose is “to encourage humans to produce creative works for the public’s benefit”."
+        },
+        {
+          "t": "p",
+          "x": "Separately, the US Music Artist Coalition backed a submission from the Human Consent Foundation, co-founded by Cate Blanchett, arguing that “the creative industries already have in place a proven infrastructure and workflows to clear rights for dispersed works at scale and cost-effectively”."
+        }
+      ]
+    },
+    "music/music-disney-openart-lyrics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Walt Disney Co. is experimenting with using artificial intelligence to test out different concepts for music videos showcasing the lyrics to its songs, starting with “Go the Distance” from its 1997 animated movie, “Hercules.”"
+        },
+        {
+          "t": "p",
+          "x": "The effort is part of a deal with Bay Area AI startup OpenArt. Disney can input its songs into OpenArt’s platform, which will create a storyboard preview of a lyric video based on the song’s words, mood and emotional tone. Disney can make any changes and fine-tune the video."
+        },
+        {
+          "t": "p",
+          "x": "“They are very excited to bring some of the older catalogs of the music and create visual lyrics videos for those songs,” said OpenArt CEO Coco Mao, calling it “early exploration.” Disney said creative teams can generate and evaluate “multiple concepts in hours rather than weeks.”"
+        },
+        {
+          "t": "p",
+          "x": "The deal was announced at the Disney Accelerator Demo Day on Tuesday in Burbank; this year the entire five-company cohort is made up of AI companies. OpenArt works with models including Kling, Google Veo and Seedream, and has a tool that helps flag potential IP infringement. Founded in 2022 by former Google engineers Mao and John Qiao, it has nearly 100 employees and 17 million monthly active users."
+        },
+        {
+          "t": "p",
+          "x": "The experiment comes as Disney and other studios have sued AI companies Midjourney and MiniMax."
+        }
+      ]
+    },
+    "music/music-itunes-top10-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted music is no longer some far-off industry boogeyman lying in wait to write the next hit or steal a Grammy—it's already part of the daily chart picture."
+        },
+        {
+          "t": "p",
+          "x": "Case in point: The Nov. 1 iTunes U.S. Top 10 shows four tracks seemingly made with at least some AI aid, including the post-Halloween #1. Of course, Apple doesn't disclose individual download totals, and digital song sales represent a minuscule fraction of the music consumption now driven by streaming. But someone is clearly buying this stuff."
+        },
+        {
+          "t": "p",
+          "x": "At the top of the chart is “Tell Me, How Is Heaven,” by May the Lord Studio, a faith-based project whose music has been identified as AI-assisted. At #4, Shards of Art’s “Fucking Shit, Holy Shit” is a choir-and-doo-wop-flavored novelty track that’s spawned multiple genre-specific remakes. “Fuck the Ones,” by Rocky B, comes in at #8. At #10 is “Big Michael Michael,” by Looze Cannon, the Detroit performer whose viral Michael Jackson impersonations helped inspire the single; Looze has denied accusations that he uses AI filters."
+        },
+        {
+          "t": "p",
+          "x": "The point isn't that they’ve displaced some beloved superstar; human beings on the tally include Jackson, at #2 with “Thriller,” Ella Langley, Taylor Swift, Ray Parker Jr., and Zach Bryan and Lana Del Rey. But with the holiday season fast approaching, the next frontier may be a flood of synthetic seasonal cheer."
+        }
+      ]
+    },
+    "music/music-seoul-forum-virtual-kpop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "cap": "Virtual boy band Plave performs during a showcase in Japan on June 17."
+        },
+        {
+          "t": "p",
+          "x": "The 2026 Seoul Music Forum, themed “Independent, Connected, Global: The Next Chapter for Music Labels,” examined the rise of AI in music. Hosted by the Record Label Industry Association of Korea (LIAK), it took place on Sunday and Monday in western Seoul."
+        },
+        {
+          "t": "p",
+          "x": "As AI advances at a breakneck pace, younger generations are seeking human imperfection in perfectly generated AI content, according to keynote speaker Josh Jordan, founder of Manila-based consultancy Crosscurrent. Virtual boy band Plave served as a key example: “fans know that underneath these virtual skins are real humans.”"
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
+          "cap": "From left: Josh Jordan, Tinko Georgiev, Yang and music critic Lim Hee-yun at the 2026 Seoul Music Forum panel on Nov. 1."
+        },
+        {
+          "t": "p",
+          "x": "During the panel discussion, music critic Lim Hee-yun shared research — conducted with Crosscurrent — suggesting that one out of four newly debuting K-pop acts this year are virtual. “The fact that one out of four new is [not human] has major significance for the future,” Lim said, describing an “inhuman-human combination.”"
+        },
+        {
+          "t": "p",
+          "x": "Tinko Georgiev of Shanghai-based CRxAI said one of the biggest changes brought by AI is that high-quality content will no longer be in short supply. LIAK President Park June-seok said the industry must consider “how to protect the value of music and creators’ rights and build a sustainable ecosystem.”"
+        }
+      ]
+    },
+    "music/suno-studio-chat-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "As DAWs took over, the reliance on studio assistants dwindled. Suno Studio is one of a small handful of DAWs with built-in assistants, the others being FL Studio, Fender Studio Pro and Logic Pro."
+        },
+        {
+          "t": "p",
+          "x": "In Suno Studio, the assistant is Chat. Not only can Chat create stems and plugins, from any conceivable instrument or voice, but it can also do some of the dirty work to help tidy up a project, and give feedback on what you're working on."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/e54cae59ac6f8d030a76a7afa9774d1fb705d497.gif",
+          "cap": "Renaming tracks with Suno Studio's AI assistant"
+        },
+        {
+          "t": "p",
+          "x": "Name your tracks: ask \"Rename each track according to the clip name\" and 20+ tracks called \"Audio Track\" are organized. Adjust multiple faders at once: \"Bring all of the tracks down by 3dB.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/fa23b0ee0aec51abb19d256fd9b5a51ee99febb1.gif",
+          "cap": "Controlling plugins with Suno Studio's AI assistant"
+        },
+        {
+          "t": "p",
+          "x": "Add multiple plugins at once, with Studio's own Compressor and EQ or any plugins you've made: \"Add the Compressor and EQ effect to each track,\" or \"Put a high-pass filter up to 82 Hz on every EQ in the project.\" Chat can also throw you a curve ball when you have writer's block, like a \"Ska-Metal song at 70 BPM about puppies.\""
+        },
+        {
+          "t": "p",
+          "x": "Suno Studio is available with every Premier subscription."
+        }
+      ]
     }
   }
 }

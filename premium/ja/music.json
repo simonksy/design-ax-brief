@@ -8885,6 +8885,150 @@
           "x": "ゴング、チャイム、ホイッスルなどの音で不要なアーティファクトが生じにくく、求めた音の特徴をよりよく保つ。効果音はSound Effectsタブ、Flows、Studio、Music Editor、モバイルアプリで生成でき、開発者はElevenAPI経由でSFX v3を利用できる。"
         }
       ]
+    },
+    "music/music-riaa-openai-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+        },
+        {
+          "t": "p",
+          "x": "RIAA、NMPA、A2IM、SONA、ARAなど音楽業界の団体が、書籍の著者や新聞社とOpen AIの間で続く大型訴訟にアミカス・ブリーフ(amicus brief)で介入し、米国著作権法の下でAI学習が決してフェアユース(fair use)とみなされるべきでない理由を示した。"
+        },
+        {
+          "t": "p",
+          "x": "AI企業を相手取ったUSの著作権訴訟はすべてフェアユースの判断にかかっており、Suno、Udio、Anthropicを標的とする音楽業界の訴訟も同様だ。Trump政権の司法省は以前、Open AIの学習をフェアユースではないと判断することは「著作権法の基本原則と相容れない」と判事に伝えていた。"
+        },
+        {
+          "t": "p",
+          "x": "意見書は三つの論点を挙げる。変容性については、Warhol判決を引用し「AIモデルがロマンス詩やブルーグラスを取り込むのは、言語や音楽全般を学ぶためではなく、それらのように読め、聞こえる代替物を生成するためだ」と述べる。市場の希釈については、AIは「学習に使った著作物の市場を奪い、その価値を損なうコンテンツを際限なく出力する独自の能力を持つ」とする。そして著作権の広い目的は「人間が公共の利益のために創作物を生み出すよう促すこと」だという。"
+        },
+        {
+          "t": "p",
+          "x": "これとは別に、US Music Artist Coalitionは、Cate Blanchettが共同設立したHuman Consent Foundationの意見書を支持した。同意見書は「クリエイティブ産業にはすでに、散在する作品の権利を大規模かつ低コストで処理する実績あるインフラとワークフローがある」と主張している。"
+        }
+      ]
+    },
+    "music/music-disney-openart-lyrics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Walt Disney Co.は、人工知能を使って自社楽曲の歌詞を見せるミュージックビデオのさまざまなコンセプトを試している。皮切りは1997年のアニメ映画「Hercules」の「Go the Distance」だ。"
+        },
+        {
+          "t": "p",
+          "x": "この取り組みは、ベイエリアのAIスタートアップOpenArtとの提携の一環だ。DisneyがOpenArtのプラットフォームに楽曲を入力すると、歌詞やムード、感情的なトーンに基づいて歌詞ビデオのストーリーボードのプレビューが作られる。Disneyは自由に変更を加え、映像を微調整できる。"
+        },
+        {
+          "t": "p",
+          "x": "OpenArtのCEO、Coco Maoは「彼らは古い音楽カタログの一部を掘り起こし、その楽曲のビジュアル歌詞ビデオを作ることにとても乗り気だ」と語り、これを「初期の探索」と位置づけた。Disneyは、クリエイティブチームが「数週間ではなく数時間で複数のコンセプト」を生成し評価できるとしている。"
+        },
+        {
+          "t": "p",
+          "x": "提携は火曜日にバーバンクで開かれたDisney Accelerator Demo Dayで発表された。今年の参加企業五社はすべてAI企業だ。OpenArtはKling、Google Veo、Seedreamなどのモデルを扱い、IP侵害の可能性を検出するツールも備える。2022年に元GoogleエンジニアのMaoとJohn Qiaoが設立し、従業員は100人近く、月間アクティブユーザーは1700万人に上る。"
+        },
+        {
+          "t": "p",
+          "x": "この実験は、Disneyなどのスタジオが AI企業のMidjourneyとMiniMaxを提訴するなかで行われている。"
+        }
+      ]
+    },
+    "music/music-itunes-top10-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI-assistedの音楽は、もはや次のヒット曲を書いたりGrammyを奪ったりしようと待ち構える、遠い業界の怪物ではない。すでに日々のチャートの一部になっている。"
+        },
+        {
+          "t": "p",
+          "x": "その好例が、Nov. 1のiTunes U.S. Top 10だ。少なくとも一部にAIの助けを借りたとみられる曲が四曲入り、ハロウィン明け(post-Halloween)の#1もその一つだ。もちろんAppleは個別のダウンロード数を公表しておらず、デジタル楽曲の販売は、いまやストリーミング主体の音楽消費のごく一部にすぎない。それでも、誰かが確実にこうした曲を買っている。"
+        },
+        {
+          "t": "p",
+          "x": "チャート首位はMay the Lord Studioの「Tell Me, How Is Heaven」で、その音楽がAI-assistedと特定された信仰系プロジェクトだ。#4のShards of Art「Fucking Shit, Holy Shit」は聖歌隊とdoo-wop風のノベルティ曲で、ジャンル別のリメイクが次々と生まれている。Rocky Bの「Fuck the Ones」は#8。#10はLooze Cannonの「Big Michael Michael」で、このDetroitのパフォーマーのMichael Jacksonのモノマネが話題となり、シングルのきっかけになった。LoozeはAIフィルター使用の疑惑を否定している。"
+        },
+        {
+          "t": "p",
+          "x": "要点は、彼らが愛されるスーパースターを押しのけたことではない。チャートには「Thriller」で#2のJackson、Ella Langley、Taylor Swift、Ray Parker Jr.、Zach BryanとLana Del Reyといった人間のアーティストも並ぶ。ただ、ホリデーシーズンが迫るなか、次のフロンティアは合成されたシーズンソングの洪水かもしれない。"
+        }
+      ]
+    },
+    "music/music-seoul-forum-virtual-kpop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "cap": "日本でのショーケース(June 17)でパフォーマンスするバーチャルボーイズグループPlave。"
+        },
+        {
+          "t": "p",
+          "x": "「Independent, Connected, Global: The Next Chapter for Music Labels」をテーマにした2026 Seoul Music Forumは、音楽におけるAIの台頭を検証した。韓国音盤産業協会(LIAK)が主催し、日曜と月曜にソウル西部で開かれた。"
+        },
+        {
+          "t": "p",
+          "x": "基調講演者で、マニラのコンサルティング会社Crosscurrent創業者のJosh Jordanによると、AIが猛烈な速さで進歩するなか、若い世代は完璧に生成されたAIコンテンツの中に人間の不完全さを求めている。代表例はバーチャルボーイズグループPlaveで、「ファンはこのバーチャルな外見の下に本物の人間がいることを知っている」という。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
+          "cap": "左から、2026 Seoul Music Forumのパネル(Nov. 1)に登壇したJosh Jordan、Tinko Georgiev、Yang、音楽評論家Lim Hee-yun。"
+        },
+        {
+          "t": "p",
+          "x": "パネル討論で音楽評論家のLim Hee-yunは、Crosscurrentと共同で行った研究を紹介し、今年デビューしたK-popの新人の四組に一組がバーチャルだと示した。「新人の四組に一組が[人間ではない]という事実は、未来にとって大きな意味を持つ」とLimは語り、「非人間と人間の組み合わせ」と表現した。"
+        },
+        {
+          "t": "p",
+          "x": "上海を拠点とするCRxAIのTinko Georgievは、AIがもたらす最大の変化の一つは、高品質なコンテンツがもはや不足しなくなることだと述べた。LIAKのPark June-seok会長は、業界は「音楽の価値とクリエイターの権利をどう守り、持続可能なエコシステムをどう築くか」を考えなければならないと語った。"
+        }
+      ]
+    },
+    "music/suno-studio-chat-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "DAWsが主流になるにつれ、スタジオアシスタントへの依存は薄れていった。アシスタントを内蔵したDAWsはごく一部しかなく、Suno Studioはその一つだ。ほかにはFL Studio、Fender Studio Pro、Logic Proがある。"
+        },
+        {
+          "t": "p",
+          "x": "Suno StudioのアシスタントはChatだ。Chatは考えうるあらゆる楽器や声でステムやプラグインを作れるうえ、プロジェクトの整理といった地道な作業も一部こなし、制作中の曲にフィードバックも返す。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/e54cae59ac6f8d030a76a7afa9774d1fb705d497.gif",
+          "cap": "Suno StudioのAIアシスタントでトラック名を変更する"
+        },
+        {
+          "t": "p",
+          "x": "トラック名の整理：「クリップ名に合わせて各トラックの名前を変えて」と頼めば、「Audio Track」という名前の20以上のトラックが整理される。複数のフェーダーを一度に調整：「全トラックを3dB下げて」。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/fa23b0ee0aec51abb19d256fd9b5a51ee99febb1.gif",
+          "cap": "Suno StudioのAIアシスタントでプラグインを操作する"
+        },
+        {
+          "t": "p",
+          "x": "Studio純正のCompressorやEQ、あるいは自作のプラグインを複数まとめて追加できる。「各トラックにCompressorとEQのエフェクトを追加して」「プロジェクト内のすべてのEQに82 Hzまでのハイパスフィルターをかけて」といった具合だ。曲作りに行き詰まったときには、「子犬をテーマにした70 BPMのSka-Metalの曲」のような意外な提案も投げてくる。"
+        },
+        {
+          "t": "p",
+          "x": "Suno StudioはすべてのPremierサブスクリプションで利用できる。"
+        }
+      ]
     }
   }
 }

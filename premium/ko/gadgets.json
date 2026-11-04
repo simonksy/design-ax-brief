@@ -15774,6 +15774,151 @@
           "x": "Meta가 휴머노이드 로봇에 뛰어든 건 지난해부터다. 당시 Bloomberg는 Meta가 결국 집안일을 해낼 로봇 하드웨어를 만들 새 팀을 꾸렸다고 보도했다. 이어 Meta는 올해 초 로봇 전용 인공지능을 개발하는 것으로 알려진 스타트업을 인수했다."
         }
       ]
+    },
+    "gadgets/siri-ai-thirdparty-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 이제 Siri AI가 서드파티 앱 어디서나 작업을 처리하도록 허용한다. Apple은 화요일부터 배포하는 iOS 27.3 업데이트에 맞춰 개발자가 Siri AI의 새 기능을 “모든 앱”에 넣을 수 있다고 발표했다. 음성 비서가 사용자의 개인 맥락을 살피고 자연어 요청을 알아들으며, 화면 인식 기능으로 요청을 끝까지 처리하게 된다."
+        },
+        {
+          "t": "p",
+          "x": "Developer Preview로 배포되는 이번 업데이트에는 새 “앱 스킬(app skills)” 기능도 있다. 서드파티 개발자가 여러 작업을 동작 하나로 묶는 기능이다. Apple 개발자 문서에 따르면 앱이 화면 앞에 떠 있거나 Live Activity가 진행 중일 때, 또는 그 앱을 두고 Siri AI와 대화하는 중이라면 요청할 때 앱 이름을 말하지 않아도 된다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 “예를 들어 사용자는 차량 공유 앱으로 차량을 부르고, 차량이 도착하기를 기다리는 동안 앱의 Live Activity로 진행 상황을 확인한 뒤, ‘Hey Siri, 픽업 장소를 새 주소로 바꿔줘’라고 말해 픽업 위치를 다른 주소로 옮겨 달라고 요청할 수 있다”고 설명한다. 9to5Mac이 짚었듯 Apple이 그동안 서드파티 개발자에게 내준 기능은 이보다 범위가 좁았다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 넓어진 Siri AI 기능을 자사 앱에도 들인다. 대상은 Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, Weather 앱이다. Apple은 “사용자는 지난주에 들른 커피숍을 찾거나 일 년 넘게 열지 않은 파일을 보관하는 등의 일을 할 수 있다”고 밝혔다. 각 앱에서 Siri AI가 무엇을 할 수 있는지 직접 물어볼 수도 있다고 덧붙였다."
+        }
+      ]
+    },
+    "gadgets/sonos-27voice-early-access": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
+          "cap": "TV 아래에 놓인 검은색 Sonos Beam Ultra 사운드바."
+        },
+        {
+          "t": "p",
+          "x": "Sonos는 이번 주 배포하는 업데이트에 새 음성 비서 Sonos 27voice를 담아 11월 6일부터 얼리 액세스로 써 볼 수 있게 한다고 발표했다. 새로 단장한 이 음성 비서는 새 기반 소프트웨어 Sonos 27에 잡혀 있던 여러 신기능 가운데 하나다."
+        },
+        {
+          "t": "p",
+          "x": "Sonos 27voice도 기존 Voice Control 기능처럼 재생 제어와 타이머 설정, 지원 스마트홈 기기 조작, 날씨 안내를 맡는다. 달라진 점은 자연어 요청을 알아듣고 답하며, 훨씬 넓은 일반 상식 질문까지 받아 준다는 것이다. 이를테면 “우주 모험을 다룬 그 Bowie 앨범 틀어줘”나 “올해 Super Bowl 누가 이겼어”라고 물으면 된다."
+        },
+        {
+          "t": "p",
+          "x": "써 보려면 Sonos 앱에서 얼리 액세스를 신청해 승인을 받아야 한다. Sonos는 2027년 정식 출시 전에 피드백을 모으려고 소규모 사용자 그룹과 이 기능을 시험 중이라고 밝혔다(2024년 앱 개편 참사 때 맞은 역풍을 되풀이하지 않으려는 뜻도 있어 보인다). Sonos는 Presets와 System Health도 함께 내놓는다."
+        },
+        {
+          "t": "p",
+          "x": "얼리 액세스 동안 Sonos 27voice는 미국(US)에서 영어로만 쓸 수 있다. Sonos 27 자체도 Sonos의 S2 플랫폼 하드웨어에서만 돌아간다."
+        }
+      ]
+    },
+    "gadgets/cyclon-ai-phone-yc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Cyclon AI 폰"
+        },
+        {
+          "t": "p",
+          "x": "휴대폰으로 하는 일은 대부분 아직도 순서가 같다. 앱을 열고 화면 몇 개를 넘긴 다음 손수 마무리한다. Y Combinator F26 배치 출신 스타트업 Cyclon은 iPhone을 대신하겠다는 휴대폰을 내세워 이 과정을 통째로 AI에 맡기려 한다."
+        },
+        {
+          "t": "p",
+          "x": "비서 대부분은 개발자가 먼저 연동 기능을 만들어 줘야 앱 안에서 뭐라도 할 수 있다. Cyclon은 그걸 기다리지 않는다. 사람처럼 앱 사이를 오가고, 일을 끝낼 때까지 여러 앱을 넘나든다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Cyclon ai 폰 소프트웨어 목업"
+        },
+        {
+          "t": "p",
+          "x": "WhatsApp 대화방 깊숙이 묻힌 사진 몇 장을 친구에게 보내야 한다면 Cyclon에 찾아서 보내 달라고 하면 그만이다. 필요한 앱이 없으면 Cyclon이 즉석에서 만들고, 휴대폰을 주머니에 넣어 둔 동안에도 백그라운드에서 일을 이어 간다."
+        },
+        {
+          "t": "p",
+          "x": "당장 살 수도 있다. 첫 Cyclon 폰은 Cyclon을 미리 깐 Pixel 8a이고, 사전 주문하면 30일 안에 배송된다. Cyclon이 하는 일은 거의 전부 운영체제 수준에서 이뤄지니 Pixel로 출발하는 게 합리적이다."
+        },
+        {
+          "t": "p",
+          "x": "자체 하드웨어도 로드맵에 올라 있다. Cyclon은 자체 휴대폰에서 더 강력한 AI 모델을 로컬로 돌리고 클라우드 모델과 짝지어 개인 데이터를 되도록 기기 안에 두겠다는 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "앱마다 레이아웃도 특성도 제각각이라, 화면을 눌러 가며 움직이는 AI는 그걸 다 감당해야 한다. Cyclon이 해낸다면 지루한 일이 크게 줄어든다. 못 해낸다면 약속만 앞선 비서가 하나 더 늘 뿐이다."
+        }
+      ]
+    },
+    "gadgets/chatgpt-dots-astra-1104": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 ChatGPT Dots의 성능을 끌어올린다. 더 강력한 AI 모델을 쓰게 되는 것만이 아니다. 무엇을 묻든 거기에 맞는 모델을 스스로 고르게 된다는 점이 더 눈에 띈다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI에서 Codex와 ChatGPT를 맡은 Thibault Sottiaux는 X에서 Dots를 돌리는 모델 라인업을 넓힌다고 밝혔다. GPT-6 Astra와 GPT-6.1 Terra가 들어가고, 앞으로 더 늘어난다. Sottiaux에 따르면 Terra는 더 빠르고 성격도 더 친근해, OpenAI가 Dots를 더 많은 사람에게 내놓는 데도 보탬이 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Dots는 사용자가 자리를 비워도 일을 이어 가는 개인 AI 비서다. Dot은 하던 작업을 기억했다가 멈춘 곳부터 다시 시작하고, 이제 Google Messages나 iMessage로 바로 대화할 수도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "Sottiaux는 Dots가 작업에 맞는 모델을 알아서 고르고, 한 작업 안에서도 부분마다 모델을 바꿔 쓴다고 말한다. 실제로 얼마나 잘 돌아갈지는 두고 봐야 한다."
+        }
+      ]
+    },
+    "gadgets/google-nasa-robot-doctor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google이 NASA와 함께 향후 심우주 탐사에 나설 우주비행사의 응급 상황 대처와 일상 업무를 도울 로봇 의료 보조 장치를 개발 중이다. Google Cloud, NASA의 Human Research Program, Johnson Space Center 로보틱스팀, Jet Propulsion Laboratory가 참여하며, 바탕은 Google과 NASA가 2025년부터 평가해 온 Crew Medical Officer Digital Assistant다."
+        },
+        {
+          "t": "p",
+          "x": "Google 공공부문 부사장 Jim Kelly는 “향후 화성(Mars)으로 향하는 심우주 임무에 나선 우주비행사는 최대 44분에 이르는 왕복 통신 지연 등 심각한 운영상 어려움에 부딪힐 수 있다”고 말했다. 로봇은 승무원 의료 담당관을 대신하지 않고 실무를 거든다. 진단과 치료 결정은 사람이 감독한다. 신장 결석으로 보이는 심한 허리 통증을 호소하는 우주비행사가 있으면 초음파 장비를 가져와 준비해 두는 식이다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 JPL의 내비게이션 기술을 응용하고, DeepMind의 MuJoCo 물리 시뮬레이터로 움직임과 물체 다루기를 평가했다. 초기 실험실 시험에서 의료 가방을 찾아 옮기는 작업의 성공률은 85%였다. Google은 이번 작업을 개념 증명이라고 설명한다. 우주 투입이 확정된 로봇은 아직 없다."
+        },
+        {
+          "t": "p",
+          "x": "Kelly는 “궁극적인 목표는 우주비행사의 직접적인 감독과 지휘 아래 간단한 음성 지시만으로 다양한 작업을 수행할 수 있는 로봇 시스템을 만드는 것”이라고 말했다."
+        }
+      ]
     }
   }
 }

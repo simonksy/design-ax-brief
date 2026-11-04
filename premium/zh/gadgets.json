@@ -9765,6 +9765,151 @@
           "x": "早在去年，Bloomberg报道Meta组建了一支新团队，负责打造最终能够做家务的机器人硬件，Meta进军人形机器人的努力由此开始。在该报道之后，Meta于今年早些时候收购了一家以专门为机器人开发人工智能而闻名的初创公司。"
         }
       ]
+    },
+    "gadgets/siri-ai-thirdparty-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Apple现在允许Siri AI在第三方应用中执行操作。作为周二开始推送的iOS 27.3更新的一部分，Apple宣布开发者现在可以在“所有应用”中集成Siri AI的新功能，让这款语音助手能够利用用户的个人情境、处理自然语言指令，并借助屏幕感知完成请求。"
+        },
+        {
+          "t": "p",
+          "x": "这次更新以Developer Preview的形式推出，还新增了“app skills”功能，第三方开发者可借此把多项任务合并为一个操作。Apple在开发者文档中表示，当应用处于前台、正在进行Live Activity，或用户正与Siri AI谈论该应用时，用户在请求中无需提及应用名称。"
+        },
+        {
+          "t": "p",
+          "x": "Apple表示：“例如，用户可以用网约车应用叫车，在等车时关注该应用Live Activity的更新，然后说‘Hey Siri，把我的上车地点改到新地址’，请求将上车地点改到另一个地址。”据9to5Mac指出，Apple此前只向第三方开发者开放了较少的功能。"
+        },
+        {
+          "t": "p",
+          "x": "Apple也把Siri AI的扩展能力带到自家应用中，包括Calendar、Files、Finder、Journal、Mail、Maps、Messages、Music、Notes、Photos、Preview、Reminders、Safari、Shortcuts和Weather。Apple称：“用户可以做的事情包括找到上周去过的咖啡店，或归档超过一年没有打开过的文件。”该公司还指出，用户可以询问Siri AI在每个应用中能做什么。"
+        }
+      ]
+    },
+    "gadgets/sonos-27voice-early-access": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
+          "cap": "TV下方的一台黑色Sonos Beam Ultra条形音箱。"
+        },
+        {
+          "t": "p",
+          "x": "Sonos宣布，其新语音助手Sonos 27voice将于11月6日开放抢先体验测试，这是本周推送的更新的一部分。全新改版的语音助手是其新底层软件Sonos 27计划推出的多项新功能之一。"
+        },
+        {
+          "t": "p",
+          "x": "与此前的Voice Control功能一样，Sonos 27voice可以控制播放、设置计时器、操作受支持的智能家居配件并播报天气。不同之处在于，它能理解并回应自然语言请求，还能回答范围广得多的常识问题——你可以让它“播放那张讲太空冒险的Bowie专辑”，或者问“今年Super Bowl谁赢了”。"
+        },
+        {
+          "t": "p",
+          "x": "想要试用，需要在Sonos应用内申请抢先体验并获得批准。Sonos表示，在2027年全面发布之前，它正先与一小部分用户测试该功能以收集反馈（很可能也是为了避免重蹈2024年灾难性应用改版引发的强烈反弹）。Sonos还推出了Presets和System Health。"
+        },
+        {
+          "t": "p",
+          "x": "抢先体验期间，Sonos 27voice仅在US（美国）提供，且仅支持英语。Sonos 27本身也仅限于Sonos S2平台上的硬件。"
+        }
+      ]
+    },
+    "gadgets/cyclon-ai-phone-yc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Cyclon AI手机"
+        },
+        {
+          "t": "p",
+          "x": "我们在手机上做的大多数事情仍遵循同样的流程：打开应用，点过几个页面，再自己完成任务。来自Y Combinator F26批次的初创公司Cyclon，希望用一款有望取代你的iPhone的手机，把这一整套流程交给AI。"
+        },
+        {
+          "t": "p",
+          "x": "大多数助手需要开发者先构建集成，才能在应用内做任何事。Cyclon不等这一步。它像你一样在应用中操作，并能在多个应用之间切换来完成工作。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Cyclon ai手机软件效果图"
+        },
+        {
+          "t": "p",
+          "x": "假设你想把WhatsApp聊天里埋得很深的几张照片发给朋友，只要让Cyclon找出来发过去即可。如果所需的应用不存在，Cyclon会当场做一个；手机放在口袋里时，它也会在后台继续工作。"
+        },
+        {
+          "t": "p",
+          "x": "现在就能买到。首批Cyclon手机是预装Cyclon的Pixel 8a，公司会在你预订后30天内发货。从Pixel起步是合理的，因为Cyclon的工作几乎完全在操作系统层面进行。"
+        },
+        {
+          "t": "p",
+          "x": "不过，定制硬件仍在路线图上。Cyclon计划在自家手机上本地运行更强大的AI模型，并与云端模型搭配，尽可能把个人数据保留在设备上。"
+        },
+        {
+          "t": "p",
+          "x": "每个应用都有自己的布局和怪癖，一个靠点击屏幕操作的AI必须应对所有这些情况。如果Cyclon做到了，它能为我们省去大量繁琐工作；如果做不到，它就可能沦为又一个承诺多于兑现的助手。"
+        }
+      ]
+    },
+    "gadgets/chatgpt-dots-astra-1104": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI正在让ChatGPT Dots变得更强大，但有意思的地方不只是它们能用上更强的AI模型，而是它们能根据你的提问选择合适的模型。"
+        },
+        {
+          "t": "p",
+          "x": "在OpenAI负责Codex和ChatGPT的Thibault Sottiaux在X上表示，公司正在扩充驱动Dots的模型阵容，其中包括GPT-6 Astra和GPT-6.1 Terra，后续还会有更多模型加入。据Sottiaux介绍，Terra速度更快、个性更讨喜，也有助于OpenAI把Dots提供给更多人。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Dots是个人AI助手，即使你不在时也能继续处理事务。你的Dot能记住你正在做的事并从中断处接着做，现在你还可以直接通过Google Messages或iMessage与它聊天。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "Sottiaux表示，Dots会自动为工作选择合适的模型，甚至会在同一任务的不同部分之间切换模型。当然，实际效果如何还有待观察。"
+        }
+      ]
+    },
+    "gadgets/google-nasa-robot-doctor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google正与NASA合作开发一款机器人医疗助手，帮助宇航员在未来的深空探索中应对健康紧急情况和日常任务。该项目汇集了Google Cloud、NASA的Human Research Program、Johnson Space Center的机器人团队以及Jet Propulsion Laboratory，以Google与NASA自2025年以来一直在评估的Crew Medical Officer Digital Assistant为基础。"
+        },
+        {
+          "t": "p",
+          "x": "Google公共部门副总裁Jim Kelly表示：“未来执行火星（Mars）深空任务的宇航员可能面临严峻的操作挑战，包括长达44分钟的往返通信延迟。”这款机器人不会取代乘组中的医疗官，而是协助完成实际任务，诊断和治疗决策仍在人类监督之下。例如，为一名可能因肾结石而背部剧痛的宇航员取来并准备超声设备。"
+        },
+        {
+          "t": "p",
+          "x": "Google正在改造JPL的导航技术，并使用DeepMind的MuJoCo物理模拟器评估机器人的移动和物体操作能力。在初步实验室测试中，机器人在寻找并搬运医疗包时取得了85%的成功率。Google称这项工作属于概念验证，目前尚无确认可用于太空的机器人。"
+        },
+        {
+          "t": "p",
+          "x": "Kelly说：“最终目标是打造一套机器人系统，能在宇航员的直接监督和指挥下，通过简单的语音指令执行各种任务。”"
+        }
+      ]
     }
   }
 }

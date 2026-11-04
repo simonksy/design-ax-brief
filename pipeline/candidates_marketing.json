@@ -1,106 +1,151 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-02T22:04:00Z",
+  "now_iso": "2026-11-03T23:00:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.",
-      "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
-      "source": "Search Engine Journal",
+      "title": "Supermetrics lets Claude build ad campaigns on 6 platforms, paused by default",
+      "url": "https://ppc.land/supermetrics-lets-claude-build-ad-campaigns-on-6-platforms-paused-by-default/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-02T14:41:23+00:00",
-      "excerpt": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic ($0.89 vs $2.45), and most saw no sales from them.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg"
-    },
-    {
-      "title": "3 AI Models Shopped Shopify's Catalog – Each Picked A Different Winner",
-      "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-11-02T13:00:14+00:00",
-      "excerpt": "Three Claude models picked from the same 20 Shopify products 1,980 times and never agreed on the top product; the test breaks down what decided the AI shopping agents' picks.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png"
-    },
-    {
-      "title": "Google Using AI-Generated Fake Google Ads Strategist Names & Profile Photos",
-      "url": "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-11-02T07:31:00-05:00",
-      "excerpt": "Google Ads Strategists in Google's Extended Workforce are contacting advertisers under AI-generated names and profile photos, an advertiser found when the sender's identity couldn't be traced.",
-      "og_image": "https://images.seroundtable.com/email-yjVLCQ9S.jpg"
-    },
-    {
-      "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
-      "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-11-02T05:01:00+00:00",
-      "excerpt": "On its Q3 call Amazon said shoppers using its conversational AI shopping assistant spend 50% more per order; the assistant carries sponsored prompts while Amazon blocks outside agents like ChatGPT and Meta's Muse.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg"
-    },
-    {
-      "title": "Google search loses its free pass with buyers",
-      "url": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-11-02T05:01:00+00:00",
-      "excerpt": "AI Overviews and AI Mode are cutting click-through, search ad revenue growth slowed to 12% in Q3, and media buyers are now questioning whether Google search budgets should move elsewhere.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/google-zero-traffic.jpg"
-    },
-    {
-      "title": "AI Labels Don't Tell Consumers Whether An Ad's Claims Are Real",
-      "url": "https://www.adexchanger.com/data-driven-thinking/ai-labels-dont-tell-consumers-whether-an-ads-claims-are-real/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-11-02T05:25:16+00:00",
-      "excerpt": "A generic 'made with AI' label tells consumers AI was used to build an ad but leaves them guessing where reality ends and fiction begins; the column argues disclosure must address the claims themselves.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/Sourin-Chakrabarti-Meta.jpg"
-    },
-    {
-      "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
-      "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "published_iso": "2026-11-02T10:49:00-05:00",
-      "excerpt": "After its AI-produced Super Bowl LX spot drew controversy, Svedka is handing its next big-game ad to consumers via a $500,000 contest, with a toolkit allowing 'AI-led' entries.",
-      "og_image": "https://imgproxy.divecdn.com/c4XwQNn3Hspeu3YaT3NJKAKNl2FMp2H68XwgEdydJdw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp"
-    },
-    {
-      "title": "네이버 디지털옥외광고, AI로 중소상공인 진입장벽 낮춰…10명 중 8명이 대행사 없이 집행",
-      "url": "https://www.etnews.com/20261102000357",
-      "source": "전자신문",
-      "category": "marketing",
-      "published_iso": "2026-11-02T14:54:26+09:00",
-      "excerpt": "네이버 디지털옥외광고 리포트에 따르면 AI 기반 직접 집행 덕에 광고주 78.5%가 대행사 없이 식당 주문기기·엘리베이터·편의점 화면에 지역 광고를 집행하고 있다.",
-      "og_image": "https://img.etnews.com/news/article/2026/11/02/news-p.v1.20261102.23a65dd7cf9346fa8b97febc8c7b963b_P1.png"
+      "published_iso": "2026-11-03T21:26:15Z",
+      "excerpt": "More than 6,000 customers have used the connector since February, active users up 250% a month on average. Who signs off before AI-drafted ads spend money?",
+      "og_image": "https://ppc.land/content/images/2026/11/supermetrics-claude-6-platform-campaigns-paused-self-typing-typewriter-billboards-approval-stamp.jpg"
     },
     {
       "title": "Google tells advertisers AI search queries now run 3x longer",
       "url": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-01T05:37:46.000Z",
-      "excerpt": "One in six searches is now multimodal and AI search queries run three times longer, Google's Shivani Mohan told advertisers; PPC Land notes Google's May data limited that to US AI Mode and asks which figures lack a baseline.",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg"
+      "published_iso": "2026-11-01T05:37:46Z",
+      "excerpt": "One in six searches is multimodal, Google's Shivani Mohan told advertisers. Google's May data limited that to US AI Mode. Which other figures lack a baseline?",
+      "og_image": "https://ppc.land/content/images/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg"
     },
     {
-      "title": "Marketers still spend 10 hours a week on manual optimization, DV finds",
-      "url": "https://ppc.land/marketers-still-spend-10-hours-a-week-on-manual-optimization-dv-finds/",
+      "title": "Smartly's Intelligence Pro flags where extra ad spend may stop paying off",
+      "url": "https://ppc.land/smartlys-intelligence-pro-flags-where-extra-ad-spend-may-stop-paying-off/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-01T07:39:01.000Z",
-      "excerpt": "DoubleVerify's survey of 2,020 marketers in 25 countries finds third-party AI bidding use rose to 50% from 42%, yet manual campaign optimization fell by only 14 minutes a week.",
-      "og_image": "https://ppc.land/content/images/2026/11/doubleverify-ai-bidding-manual-optimization-hours-idle-machine-arm-dial.jpg"
+      "published_iso": "2026-11-03T02:18:16Z",
+      "excerpt": "Hearst Newspapers tested Headroom, one of four tools for eligible Smartly clients, with INCRMNTAL data inside. Price, eligibility and accuracy are unpublished.",
+      "og_image": "https://ppc.land/content/images/2026/11/smartly-intelligence-pro-headroom-diminishing-returns-overflowing-tumbler-second-gauge.jpg"
     },
     {
-      "title": "Checkout appears in 25% of AI agent sessions vs 15% for humans, Clarity finds",
-      "url": "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/",
-      "source": "PPC Land",
+      "title": "Google AI Overviews For Brands Move To Right Column",
+      "url": "https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-11-01T22:47:28.000Z",
-      "excerpt": "Microsoft Clarity data across 230,511 sites shows AI agent sessions reach checkout more often than human ones, raising the question of whether merchants can tell who pressed buy.",
-      "og_image": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg"
+      "published_iso": "2026-11-02T12:15:00-05:00",
+      "excerpt": "Google has moved the AI Overviews for many brand-related keywords to the right-hand column of the search results page.  Previously, they appeared at the top or middle of the main search results section.",
+      "og_image": "https://images.seroundtable.com/apple-brand-ai-overview-panel-f2aGDqsS.png"
+    },
+    {
+      "title": "Ad Tech Briefing: Google's AI-reckoning",
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-11-03T05:01:00Z",
+      "excerpt": "More people are searching, but Google’s AI-driven search experiences aren’t yet generating ad revenue at the same rate as conventional search.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/03/google-pitch-digiday.jpg"
+    },
+    {
+      "title": "Google search loses its free pass with buyers",
+      "url": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-11-02T05:01:00Z",
+      "excerpt": "For the past two decades, Google search was the line item that advertisers never questioned. That's changing.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/google-zero-traffic.jpg"
+    },
+    {
+      "title": "This Ad Tech Company Wants To Ensure Brands Don’t Go Viral For The Wrong Reasons",
+      "url": "https://www.adexchanger.com/ai/this-ad-tech-company-wants-to-ensure-brands-dont-go-viral-for-the-wrong-reasons/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-11-03T07:00:12Z",
+      "excerpt": "Digital Culture Group aims to stop potentially offensive ads before they ever go live by determining what will resonate with – or push away – an audience.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/11/shutterstock_2303356823.jpg"
+    },
+    {
+      "title": "AI Labels Don’t Tell Consumers Whether An Ad’s Claims Are Real",
+      "url": "https://www.adexchanger.com/data-driven-thinking/ai-labels-dont-tell-consumers-whether-an-ads-claims-are-real/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-11-02T05:25:16Z",
+      "excerpt": "A generic label tells consumers that AI was used to build an ad, but leaves them to guess where reality ends and fiction begins.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/Sourin-Chakrabarti-Meta.jpg"
+    },
+    {
+      "title": "3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner",
+      "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-11-02T13:00:14Z",
+      "excerpt": "Three Claude models picked from the same 20 Shopify products 1,980 times and never agreed on the top product. Here is what decided their picks.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png"
+    },
+    {
+      "title": "Google's Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product",
+      "url": "https://www.searchenginejournal.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/595484/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-11-03T20:00:43Z",
+      "excerpt": "AI Mode, AI Overviews, and traditional Search are becoming one product. What Google’s Q3 earnings call revealed about the agentic era.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/googles-earnings-call-227.png"
+    },
+    {
+      "title": "AI recommendations are leading to returns",
+      "url": "https://www.retaildive.com/news/ai-recommendations-returns/873075/",
+      "source": "Retail Dive",
+      "category": "marketing",
+      "published_iso": "2026-11-03T10:59:00-05:00",
+      "excerpt": "The problem may not have to do with the technology itself, but rather the product description data, according to a new report.",
+      "og_image": "https://imgproxy.divecdn.com/8IaSldvHDUVqNjWHhU8AzSOxv_NmSog_NUVuq51ePvM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ5MzM2NzkyX0RPaHZuY0UuanBn.webp"
+    },
+    {
+      "title": "Holiday shoppers only want a dash of AI for the gift hunt",
+      "url": "https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
+      "source": "Retail Dive",
+      "category": "marketing",
+      "published_iso": "2026-11-03T07:00:00-05:00",
+      "excerpt": "Price comparisons and narrowing down gift ideas are some of the ways consumers are using AI this season. But maintaining autonomy in the buying process remains important to shoppers.",
+      "og_image": "https://imgproxy.divecdn.com/ZXMWp_chbuCR4jMLrJOLD-nZWEbAiZQaILvfYXmZgxU/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NDEyMTA2Nl8xLmpwZw==.webp"
+    },
+    {
+      "title": "Shopify Stores Face Suspected AI-Driven Attacks",
+      "url": "https://www.adweek.com/commerce/shopify-stores-face-suspected-ai-driven-attacks/",
+      "source": "ADWEEK",
+      "category": "marketing",
+      "published_iso": "2026-11-03T10:38:02-05:00",
+      "excerpt": "German-based software engineer Roman Zipp was buying a mechanical keyboard from a Shopify-powered storefront last month, when he discovered a series of ecommerce cyberattacks.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Shopify.jpg?w=600&h=315&crop=1"
+    },
+    {
+      "title": "AI 에이전트용 디지털 서비스 확산...온라인 광고도 영향권",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712021",
+      "source": "디지털투데이",
+      "category": "marketing",
+      "published_iso": "2026-11-03T07:30:00+09:00",
+      "excerpt": "[디지털투데이 황치규 기자] AI 에이전트 확산에 맞춰 사람이 아닌 AI 에이전트 중심으로 인프라와 서비스를 재편하는 테크기업들이 늘고 있고 있다. 엔터프라이즈 컴퓨팅 시장에선 이미 AI 에이전트에 최적화된 인프라를 제공하려는 업계 행보가 빨라졌고 디지털 결제 쪽도 사람이 아닌 AI 에이전트가 쓰는 결제 수단 자리를 놓고 기존 신용 카드 업체들과 신흥 디지털 결제 플랫폼 회사들 간 힘겨루기가 본격화되고 있다.[테크인사이드] AI 에이전트發 '뉴 디지털 결제' 전쟁의 서막최근에는 디지털 광고 시장도 AI 에이전트 영향권에 들어서는 모",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/712021_659504_4617.jpg"
+    },
+    {
+      "title": "AI, 메타 키우고 구글 흔들었다…광고 성장률 두 배 격차 왜?",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711736",
+      "source": "디지털투데이",
+      "category": "marketing",
+      "published_iso": "2026-11-02T10:02:12+09:00",
+      "excerpt": "[디지털투데이 AI리포터] 메타의 3분기 광고 사업 성장률이 구글 검색 사업의 두 배를 넘어서면서 인공지능(AI)이 두 회사에 상반된 영향을 미치고 있다는 분석이 나왔다.1일(이하 현지시간) 경제매체 CNBC에 따르면 메타의 3분기 광고 매출은 전년 동기 대비 26% 증가한 631억달러(약 84조5410억원)를 기록했다. 반면 구글 검색 및 기타 부문 매출은 12% 늘어난 634억달러였다.두 사업의 매출 규모는 비슷하지만 성장률 격차는 14%포인트에 달했다. 메타에 유리한 성장률 격차로는 2021년 이후 가장 컸다. 구글은 같은 분",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/711736_659236_5547.jpg"
+    },
+    {
+      "title": "장보기 목록도 짜준다…월마트, AI 쇼핑 서비스 캐나다 출시",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712133",
+      "source": "디지털투데이",
+      "category": "marketing",
+      "published_iso": "2026-11-03T11:16:33+09:00",
+      "excerpt": "[디지털투데이 최재원 기자] 미국 유통업체 월마트가 AI 쇼핑 도우미 스파키(Sparky)를 캐나다 시장에 출시했다. 소비자가 상품을 직접 검색하는 대신 AI와 대화하며 필요한 제품을 찾고 장보기 목록까지 작성하는 방식으로 쇼핑 편의성을 높이겠다는 전략이다.최근 BNN블룸버그에 따르면 월마트는 지난해 6월 미국에서 처음 선보인 스파키를 캐나다 전역으로 확대했다. 이용자는 월마트 캐나다 공식 웹사이트와 모바일 앱에서 영어 또는 프랑스어로 서비스를 이용할 수 있다.스파키는 자연어로 질문을 입력하면 관련 상품을 추천하고 제품별 특징과 구",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/712133_659608_493.jpg"
     }
   ]
 }

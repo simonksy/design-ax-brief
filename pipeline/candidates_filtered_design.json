@@ -1,118 +1,52 @@
 {
   "section": "design",
-  "now_iso": "2026-11-02T22:04:00Z",
+  "now_iso": "2026-11-03T23:00:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
-      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "published_iso": "2026-10-31T00:58:00Z",
-      "excerpt": "Figma explains what Figma Weave unlocks for creative teams: node-based, reusable AI generation workflows on the canvas, and how to get the most out of them.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1200&q=70&fit=max&auto=format"
-    },
-    {
-      "title": "Vercel MCP now renders deployments as an interactive card",
-      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
-      "source": "Vercel Changelog",
-      "category": "figma",
-      "published_iso": "2026-11-02T17:05:00Z",
-      "excerpt": "Vercel MCP now renders interactive deployment cards in MCP Apps clients like ChatGPT, letting users track status, view build logs and debug deployments in chat - a live example of generative/agent UI via MCP Apps.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
-      "history_match": {
-        "score": 0.152,
-        "date": "2026-10-17",
-        "url": "https://vercel.com/blog/vercel-ship-2026-recap",
-        "title": "Vercel Ship 2026 recap",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Context is the new interface",
-      "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be",
+      "title": "Everyone is building AI agents. Who's designing the stop button?",
+      "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
       "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-11-01T14:32:54Z",
-      "excerpt": "Aurelie Radom argues that as AI agents interpret intent and carry it across apps using on-screen context, the designer's job shifts from single-app screens to designing what happens between products.",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*sWNGDydn8gv_Mga2Sx-OVg.png"
+      "category": "workflow",
+      "published_iso": "2026-11-03T22:40:34Z",
+      "excerpt": "Michal Krzton argues that once AI can interpret, decide and act on its own, the hardest design decisions sit at the point where its autonomy ends, and shows how to make that boundary visible in product flows.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*4xb0tuwC90tLWJBgYVaomg.png"
     },
     {
-      "title": "Your design system was never about components",
-      "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038",
+      "title": "What I learned teaching AI prototyping at university",
+      "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e",
       "source": "UX Collective",
-      "category": "tokens",
-      "published_iso": "2026-10-31T17:29:58Z",
-      "excerpt": "Google, Atlassian and Figma now ship markdown files that capture the reasons behind a design for AI agents to read; Takuma Kakehi examines why nothing yet makes the machine actually follow them.",
-      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*EBbFKwaDeO0sVSNR",
-      "history_match": {
-        "score": 0.161,
-        "date": "2026-10-18",
-        "url": "https://www.figma.com/blog/build-by-design/",
-        "title": "Build by Design: New workflows for new ways of building",
-        "band": "related"
-      }
-    },
-    {
-      "title": "\"Use their tools against them\": why AI isn't the death of production design",
-      "url": "https://www.creativebloq.com/features/use-their-tools-against-them-why-ai-isnt-the-death-of-production-design",
-      "source": "Creative Bloq",
       "category": "workflow",
-      "published_iso": "2026-10-31T12:00:00Z",
-      "excerpt": "Industry veteran Christopher Glass answers how designers entering production design should approach AI tools they feel economically forced to use. (Opinion/interview - lower priority.)",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/oSstUTgKcoxPcxayTEJRrf-1920-80.jpg"
-    },
-    {
-      "title": "New CG software you may have missed: 2 November 2026 (Character Creator 5.2 AI 3D model generator)",
-      "url": "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-11-02T16:19:53Z",
-      "excerpt": "Reallusion's Character Creator 5.2 adds an AI 3D model generator that builds characters, clothing and hair from reference images using Tripo P2.0/H3.1 and Hunyuan V3.1, plus a generative concept-design module and CC Wrap.",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/11/261102_NewCGSoftwareYouMayHaveMissed1November2026_CharacterCreator52_f.jpg",
+      "published_iso": "2026-11-03T10:09:09Z",
+      "excerpt": "A UPM fashion-school instructor swapped Figma for AI prototyping tools in a digital prototyping course and reports what non-technical students could build with generative AI, and the trade-offs.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*_aggjPMjQBpRc_sWKZZ7zA.png",
       "history_match": {
-        "score": 0.188,
-        "date": "2026-10-28",
-        "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
-        "title": "New CG software you may have missed: 25 October 2026 (EdenLive real-time AI renderer, KeenFace)",
+        "score": 0.153,
+        "date": "2026-10-29",
+        "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
+        "title": "GitHub open-sources Replica, an AI prototyping tool built by GitHub Design",
         "band": "related"
       }
     },
     {
-      "title": "Claude Code Now Refuses to Recreate Existing Video Games",
-      "url": "https://80.lv/articles/claude-code-blocks-video-game-cloning-some-reverse-engineering-tasks/",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-11-02T13:36:00Z",
-      "excerpt": "A new Claude Code rule stops the model from rebuilding specific existing games, but developers say it also blocks their own projects and some reverse-engineering tasks.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50870/images/6ae891c68bf62/contain_1200x630.jpg"
-    },
-    {
-      "title": "Anthropic clamps down on Claude's AI video game clones",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "source": "The Verge",
+      "title": "Agents struggle with the same bad UX we do",
+      "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981",
+      "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-11-02T18:56:02Z",
-      "excerpt": "Anthropic says infringing IP is against its usage policy and has updated Claude to refuse recreating existing video games. (Same story as 80 Level item.)",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "history_match": {
-        "score": 0.179,
-        "date": "2026-10-24",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-        "band": "related"
-      }
+      "published_iso": "2026-11-03T22:36:33Z",
+      "excerpt": "UX Collective essay on how computer-use AI agents stumble over the same confusing interfaces humans do, making interface clarity a design requirement for agent users too.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*P84_tG2F_rrE_MWlHlPGJA.jpeg"
     },
     {
       "title": "AI software clones are coming for big-name companies like Adobe",
       "url": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
       "source": "Engadget",
-      "category": "render",
+      "category": "workflow",
       "published_iso": "2026-11-01T15:30:00Z",
-      "excerpt": "Vibe-coded clones of Adobe creative software are shaking up the creative-tools market, as AI coding makes it cheap to rebuild familiar design apps.",
+      "excerpt": "A developer used Claude to reverse-engineer Photoshop, Lightroom and other Creative Cloud apps and released open-source vibe-coded clones, sparking debate over piracy, IP and subscription creative software.",
       "og_image": "https://www.engadget.com/img/gallery/ai-software-clones-are-coming-for-big-name-companies-like-adobe/l-intro-1793354854.jpg",
       "history_match": {
-        "score": 0.189,
+        "score": 0.23,
         "date": "2026-10-09",
         "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
         "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
@@ -120,20 +54,47 @@
       }
     },
     {
-      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
-      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
-      "source": "NVIDIA Technical Blog",
-      "category": "render",
-      "published_iso": "2026-11-02T17:00:00Z",
-      "excerpt": "NVIDIA details a Cosmos framework for adapting world models to sensors, tasks and data and deploying them into interactive simulation applications for physical AI.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-framework-tech-blog-600x338-5784057.webp",
+      "title": "Itch.io adds a filter for games with gen AI disclosures",
+      "url": "https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-11-03T19:27:28Z",
+      "excerpt": "Itch.io added a 'No AI' filter to browsing and search based on creators' generative-AI disclosures; applying it cuts listed games from 1.77 million to under 425,000.",
+      "og_image": "https://www.engadget.com/img/gallery/itch-io-adds-a-filter-for-games-with-gen-ai-disclosures/l-intro-1793733979.jpg"
+    },
+    {
+      "title": "Autom8Labs launches AEC skills for AI agents",
+      "url": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-11-03T15:38:49Z",
+      "excerpt": "Autom8Labs released MCP-based skills that guide AI agents through tasks in Revit, AutoCAD, 3ds Max, Grasshopper and other design tools.",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+    },
+    {
+      "title": "nCircleTech launches nVibe AI app builder",
+      "url": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-11-03T15:00:54Z",
+      "excerpt": "nCircleTech's nVibe lets AEC professionals describe a workflow in natural language and have the AI platform build the application, a vibe-coding tool aimed at architects and engineers.",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg",
       "history_match": {
-        "score": 0.438,
-        "date": "2026-10-25",
-        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-        "band": "likely-repeat"
+        "score": 0.214,
+        "date": "2026-11-02",
+        "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+        "title": "Allplan Max 2027 launched for engineering workflows",
+        "band": "related"
       }
+    },
+    {
+      "title": "Not all AI is helpful",
+      "url": "https://develop3d.com/opinion/comment/not-all-ai-is-helpful/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-11-03T13:30:12Z",
+      "excerpt": "Nathan Partington of product design agency npd says start-ups now arrive with products already 'designed' by AI, creating unrealistic expectations and shifting what industrial designers are paid to do.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/Nathan-Partington_comment.jpg"
     },
     {
       "title": "Nemetschek expands AI tools across building workflows",
@@ -141,110 +102,181 @@
       "source": "Engineering.com",
       "category": "cad",
       "published_iso": "2026-11-02T14:36:12Z",
-      "excerpt": "Nemetschek's Max lineup - Archicad Max, Allplan Max and Bluebeam Max - puts AI assistants on a shared AI and data platform across design, engineering and construction. (Allplan Max covered 11-02; this is the group-wide Archicad/Bluebeam expansion.)",
+      "excerpt": "Nemetschek's Max lineup puts Archicad Max, Allplan Max and Bluebeam Max on a shared AI and data platform. Note: Allplan Max 2027 was covered 11-02; only the group-wide Archicad/Bluebeam angle is new.",
       "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/Nemetschek-expands-AI-tools-across-building-workflows-scaled.jpg",
       "history_match": {
-        "score": 0.425,
+        "score": 0.398,
         "date": "2026-11-02",
         "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
         "title": "Allplan Max 2027 launched for engineering workflows",
-        "band": "likely-repeat"
+        "band": "related"
       }
     },
     {
-      "title": "What I learned from 45 years of CAD development: Doing more with less",
-      "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-11-02T16:46:18Z",
-      "excerpt": "John M. Christy rewrote his 45-year-old CAD program for Mac with Claude as co-developer - now drafting from speech - and reflects on what AI should and shouldn't change in CAD.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/11/img_johnchristy_thumb1.png"
-    },
-    {
-      "title": "The home brew estate: Q&A with AMC Bridge",
-      "url": "https://aecmag.com/ai/the-home-brew-estate-qa-with-amc-bridge/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "published_iso": "2026-11-02T15:37:43Z",
-      "excerpt": "With AI, making AEC software is easy, but making it safe, supportable and accountable is another matter; AMC Bridge on firms vibe-coding their own design tools.",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/AMC-Bridge.jpg"
-    },
-    {
-      "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
-      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
-      "source": "Road to VR",
-      "category": "vr",
-      "published_iso": "2026-11-02T10:39:00Z",
-      "excerpt": "VRChat is weathering a sizable user backlash after deciding not to label AI-generated avatars, worlds and content, following a community survey on AI disclosure.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg"
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
+      "title": "Is this the most controversial font since Comic Sans?",
+      "url": "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans",
+      "source": "Creative Bloq",
       "category": "workflow",
-      "published_iso": "2026-10-31T16:05:00Z",
-      "excerpt": "The Verge's Sean Hollister vibe-coded an AI companion gadget on a Waveshare ESP32 board with Claude, prototyping hardware product design without being a programmer.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200"
+      "published_iso": "2026-11-03T15:30:00Z",
+      "excerpt": "Creative Bloq on the aggressive, slanted brush-script typeface that has become the giveaway of AI-generated posters in cafes and village halls, and why small businesses keep using it.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa-1672-80.jpg"
     },
     {
-      "title": "Runway Dev is in Claude Code, Codex and Cursor",
-      "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
-      "source": "Runway",
+      "title": "Taste Skill v2.1: How to stop AI websites looking the same",
+      "url": "https://www.mindstudio.ai/blog/taste-skill-ai-web-design/",
+      "source": "MindStudio",
+      "category": "tokens",
+      "published_iso": "2026-11-03T00:00:00Z",
+      "excerpt": "Explainer on Taste Skill v2.1, an open GitHub skill that gives AI coding agents design taste so generated websites stop converging on the same look: how it works, how to install it, what it produces.",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/7341252b-b27a-4dfc-96ba-f7f66b686671.png?fm=auto&w=1200&h=630&fit=crop",
+      "history_match": {
+        "score": 0.367,
+        "date": "2026-10-26",
+        "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20",
+        "title": "Impeccable: The Open-Source Design Skill That Stops AI Websites Looking AI-Generated",
+        "band": "related"
+      }
+    },
+    {
+      "title": "MOSS-Image 5B tested: Strong realism, shaky layout and text control",
+      "url": "https://www.mindstudio.ai/blog/moss-image-5b-tested-realism-text/",
+      "source": "MindStudio",
       "category": "render",
-      "published_iso": "2026-11-02T15:00:00Z",
-      "excerpt": "Runway Dev plugins for Claude Code, Codex and Cursor connect a coding agent to Runway's API so it can build generative image/video features straight from the editor. (Off-list: runway.com; on-list render sources had no creative-model release.)",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/plugins-for-coding-agents-1600x1067-1-9cd7e174-a661-4c68-b98e-8ea0498c63d7.png",
+      "published_iso": "2026-11-01T00:00:00Z",
+      "excerpt": "Hands-on local tests of the open MOSS-Image 5B model's photorealism, bounding-box layout control and text rendering across a dozen scene prompts.",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/44b304c6-3a6f-463f-9fb9-e764dbfa4587.png?fm=auto&w=1200&h=630&fit=crop",
       "history_match": {
-        "score": 0.221,
-        "date": "2026-10-10",
-        "url": "https://runwayml.com/news/company-news/runway-claude-motion",
-        "title": "Runway now takes Claude Motion explainers",
+        "score": 0.39,
+        "date": "2026-10-27",
+        "url": "https://www.intelligentliving.co/moss-image-open-source-model/",
+        "title": "MOSS-Image: The Open-Source Model Teaching AI to Spell",
         "band": "related"
       }
     },
     {
-      "title": "Design-to-Code: Reimagine Handoff Workflow with AI - Rebuilding PubHub Part 3",
-      "url": "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow",
-      "source": "Cisco Blogs",
+      "title": "Seedance 2.5: The AI short film 'Planet Hell' explained",
+      "url": "https://www.mindstudio.ai/blog/seedance-2-5-ai-video-film/",
+      "source": "MindStudio",
+      "category": "render",
+      "published_iso": "2026-11-03T00:00:00Z",
+      "excerpt": "How ByteDance's Seedance 2.5 video model powered the viral AI short film 'Planet Hell', and what it signals for AI video production.",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/cdb09ca4-9cb7-446d-a1af-2c61dbfe605b.png?fm=auto&w=1200&h=630&fit=crop"
+    },
+    {
+      "title": "Constraining agent CSS to design tokens (without pasting the whole theme)",
+      "url": "https://dev.to/sherotree/constraining-agent-css-to-design-tokens-without-pasting-the-whole-theme-19o8",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-11-02T14:32:43Z",
+      "excerpt": "A developer shows how to keep coding agents inside a design-token system without dumping the whole tokens.css into the prompt, after agents kept inventing colors anyway.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjiakvtvusgq9zr8uoyi3.png",
+      "history_match": {
+        "score": 0.186,
+        "date": "2026-10-23",
+        "url": "https://dev.to/yang7206/i-gave-my-coding-agent-a-color-palette-library-and-stopped-pasting-hex-codes-2c83",
+        "title": "I gave my coding agent a color palette library, and stopped pasting hex codes",
+        "band": "related"
+      }
+    },
+    {
+      "title": "From a Figma frame to an AEM EDS block in one command",
+      "url": "https://dev.to/piotrgodycki/from-a-figma-frame-to-an-aem-eds-block-in-one-command-2m6",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-11-02T17:23:42Z",
-      "excerpt": "Cisco's PubHub team rebuilt its design handoff with AI, using an HTML prototype as the source of truth instead of static design files so other teams can adapt the workflow. (Off-list: design-org AX case study.)",
-      "og_image": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/10/design-to-code-featured.png",
+      "published_iso": "2026-11-03T22:30:01Z",
+      "excerpt": "Open-source kit: paste a Figma frame link and get an Adobe Experience Manager Edge Delivery block (JS, CSS, Universal Editor model) via REST or the Figma MCP server, within Figma's rate limits.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fpiotrgodycki%2Faem-eds-kit%2Fmain%2F.github%2Fassets%2Freadme-banner.png"
+    },
+    {
+      "title": "Connecting Figma MCP to Zoo Code (macOS and Windows, using Codex CLI)",
+      "url": "https://dev.to/muhammad_hammadkhan_507a/connecting-figma-mcp-to-zoo-code-macos-and-windows-using-codex-cli-2gmh",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-11-03T08:50:30Z",
+      "excerpt": "Practical setup and troubleshooting guide for connecting Figma's hosted MCP server to a coding agent via Codex CLI on macOS and Windows.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlwkba8wutbrij3h1tge.png",
       "history_match": {
-        "score": 0.173,
-        "date": "2026-10-22",
-        "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
-        "title": "Even designers are now using AI to code Windows 11, and Microsoft says \"we're only getting started\"",
+        "score": 0.246,
+        "date": "2026-10-28",
+        "url": "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/",
+        "title": "CLI-Anything: Turn Any App Into a CLI for Claude Code and Codex",
         "band": "related"
       }
     },
     {
-      "title": "Google testing Comic Artifacts for Gemini Notebook",
-      "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
-      "source": "TestingCatalog",
-      "category": "workflow",
-      "published_iso": "2026-11-01T16:30:30Z",
-      "excerpt": "A hidden beta tile reveals a Comics artifact for Gemini Notebook with Default, Shojo, Chibi and Fantasy Anime styles; not public yet. (Off-list; pre-release leak.)",
-      "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/Gemini-Notebook-10-31-2026_10_51_PM.jpg",
+      "title": "Vercel MCP now renders deployments as an interactive card",
+      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-11-02T17:05:00Z",
+      "excerpt": "Vercel MCP now renders interactive deployment cards inside MCP Apps clients like ChatGPT, so status, build logs and debugging happen as generative UI in the chat.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
       "history_match": {
-        "score": 0.226,
-        "date": "2026-10-20",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
-        "title": "How to shape your slides and videos with Gemini Notebook",
+        "score": 0.167,
+        "date": "2026-10-17",
+        "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+        "title": "Vercel Ship 2026 recap",
         "band": "related"
+      }
+    },
+    {
+      "title": "How Zapier turns ideas into working software in hours with Vercel",
+      "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-11-03T04:00:00Z",
+      "excerpt": "Customer story: Zapier turns weeks of partner-demo work into hours with v0 and builds internal apps in about a day.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3MaKYmvnGD325MooTB4FLl/a0e0e0fc99d41615a5ad1a797c159b38/customer_story_og_image_og_card.jpg",
+      "history_match": {
+        "score": 0.168,
+        "date": "2026-10-17",
+        "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+        "title": "Vercel Ship 2026 recap",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Code-based prototyping: When it's worth the setup",
+      "url": "https://www.eleken.co/blog-posts/code-based-prototyping",
+      "source": "Eleken",
+      "category": "workflow",
+      "published_iso": "2026-11-03T12:44:29Z",
+      "excerpt": "Eleken's head of design explains why the agency now prototypes with real components, including Claude-generated interactive dashboards, to test states and edge cases that static Figma mockups hide.",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp",
+      "history_match": {
+        "score": 0.231,
+        "date": "2026-10-07",
+        "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+        "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Build world models for interactive simulation with NVIDIA Cosmos",
+      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+      "source": "NVIDIA Technical Blog",
+      "category": "vr",
+      "published_iso": "2026-11-02T17:00:00Z",
+      "excerpt": "NVIDIA's guide to adapting Cosmos world models to custom sensors, tasks and data and deploying them in interactive simulation applications for physical AI.",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-framework-tech-blog-600x338-5784057.webp",
+      "history_match": {
+        "score": 0.453,
+        "date": "2026-10-25",
+        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+        "band": "likely-repeat"
       }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 18,
+    "kept": 21,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 10,
+    "review": 12,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -917,6 +949,31 @@
       "date": "2026-11-02",
       "title": "The Role of UX in Agentic Software Factories",
       "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Design-to-Code: Reimagine Handoff Workflow with AI - Rebuilding PubHub Part 3",
+      "url": "https://blogs.cisco.com/cisco-devnet/design-to-code-ai-handoff-workflow"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Runway Dev is in Claude Code, Codex and Cursor",
+      "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "New CG software you may have missed: 2 November 2026 (Character Creator 5.2 AI 3D model generator)",
+      "url": "https://www.cgchannel.com/2026/11/new-cg-software-you-may-have-missed-2-november-2026/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "What I learned from 45 years of CAD development: Doing more with less",
+      "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/"
     }
   ]
 }

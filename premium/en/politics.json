@@ -4554,6 +4554,154 @@
           "x": "Meta has since announced, on 28 October, a pause to the roll out of its commercial terms, pending a consultation with industry groups. As this is only the start of the investigation, no decision has yet been made on whether Meta has broken the law."
         }
       ]
+    },
+    "politics/politics-china-ai-lifecycle-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+          "cap": "DeepSeek. [Reuters=Yonhap News file photo]"
+        },
+        {
+          "t": "p",
+          "x": "Chinese authorities have decided to draw up broad regulatory guidelines covering the entire lifecycle of artificial intelligence (AI), from development to use. The move is seen as a response to security and safety concerns, such as loss of control over AI, that are emerging around the world."
+        },
+        {
+          "t": "p",
+          "x": "According to Bloomberg on the 3rd, China's National Development and Reform Commission (NDRC) said that day it is accelerating legislation to manage and oversee the development and use of AI models. Wang Luomeng, deputy director-general of the NDRC's Department of Innovation and High-Tech Development, told a briefing that day that the new rules will apply to a wide range of areas, from data to computing resources. He added that Chinese authorities will regularly assess how the rules are being implemented and that outdated provisions will be revised."
+        },
+        {
+          "t": "p",
+          "x": "The rules are expected to cover Chinese AI companies such as DeepSeek, Moonshot AI and Alibaba Group, which are challenging U.S. firms such as OpenAI and Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Wang said regulatory sandboxes will also be introduced by sector to allow wider room for trial and error. He stressed that AI developers and operators must strengthen risk management while disclosing safety risks, incidents and vulnerabilities."
+        },
+        {
+          "t": "p",
+          "x": "The Chinese government also plans to monitor AI's impact on employment and job displacement. Wang said authorities will provide a social safety net for workers affected by AI."
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg said the moves reflect the Chinese government's effort to strike a balance, recognizing the possibility that AI could spiral out of control or be exploited in cyberattacks. They also suggest the government is wary of the large-scale social disruption AI could bring."
+        },
+        {
+          "t": "p",
+          "x": "Global concern has been growing as tech leaders and experts in Silicon Valley in the U.S. have recently warned that AI could threaten humanity's existence, and as cases of AI escaping control or being exploited in cyberattacks have followed. U.S. President Donald Trump and Chinese President Xi Jinping agreed at their summit in Washington in September to set up a dialogue channel for the two countries to exchange views on the risks and benefits of AI and to communicate in the event of related incidents."
+        }
+      ]
+    },
+    "politics/politics-ncsc-ai-ransomware-2028": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "The UK's National Cyber Security Centre (NCSC) says AI-powered malware is \"highly likely\" to be a part of a future ransomware attack on Britain's critical national infrastructure between now and 2028. The warning accompanies its annual review and a separate assessment exploring how AI could change cyber threats over the next two years."
+        },
+        {
+          "t": "p",
+          "x": "Attackers are already repurposing open source AI security tools, such as ARTEX, a Chinese-made AI red-teaming platform. In its pessimistic scenario for 2028, the NCSC envisages \"a significant increase in the frequency and sophistication of cyberattacks worldwide,\" and says it \"is a realistic possibility\" an autonomous attacker could self-replicate and conduct cyberattacks at will."
+        },
+        {
+          "t": "p",
+          "x": "On defence, Project DROMOS uncovered hundreds of potential security issues in government code, and the review reaffirms plans for Cyber Shield, an agentic cyber defense system funded with £60 million, alongside £70 million for a new NERV Centre and £40 million for a National Agentic Security Unit."
+        },
+        {
+          "t": "p",
+          "x": "NCSC CEO Dr Richard Horne called for organizations to \"invest with urgency\": \"For decades, we have collectively got away with doing tech on the cheap.\""
+        }
+      ]
+    },
+    "politics/politics-upstage-solar-gov-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+          "cap": "Upstage's large language model (LLM) 'Solar Pro 4' has been added to the government-wide artificial intelligence (AI) common platform. Upstage"
+        },
+        {
+          "t": "p",
+          "x": "Upstage said on the 3rd that it has added its large language model (LLM) 'Solar Pro 4' to the government-wide artificial intelligence (AI) common platform and launched the official service. Korean AI models can now be used on the government network without building separate graphics processing unit (GPU) infrastructure."
+        },
+        {
+          "t": "p",
+          "x": "The government-wide AI common platform is AI infrastructure dedicated to the government network, through which the Ministry of the Interior and Safety and the Ministry of Science and ICT provide AI models, data and development environments to central ministries and local governments. Solar Pro 4 is offered through Samsung SDS's 'FabriX', the common platform's AI platform."
+        },
+        {
+          "t": "p",
+          "x": "Solar Pro 4 runs on government network infrastructure that has passed the National Intelligence Service's security review, which prevents internal administrative data from leaking outside. The GPU resources needed to run the model are managed centrally by the common platform. Each agency can use it through a chat screen or an application programming interface (API) without building or leasing its own GPU servers."
+        },
+        {
+          "t": "p",
+          "x": "It also provides the grounds for its answers by linking to laws, press releases and administrative materials. Public officials can use Solar Pro 4 for legal reviews that check whether draft amendments to ordinances and regulations conflict with higher laws, and for drafting replies to civil complaints by finding the relevant laws and procedures. It can also be used to draft reports from meeting notes and reference materials, and to summarize long documents by organizing the key points and issues of policy materials."
+        },
+        {
+          "t": "p",
+          "x": "The public sector has faced limits on using AI because of security regulations and a shortage of GPU infrastructure. Upstage explained that, with Solar Pro 4, Korean AI models can be used for work within a government network that meets both security and infrastructure requirements."
+        },
+        {
+          "t": "p",
+          "x": "Upstage CEO Kim Sung-hoon said, “The AI needed for public work is AI you can trust, one that keeps data secure and answers with evidence,” adding, “We will prove in the field of public administration that trustworthy Korean AI can lead innovation in public work.”"
+        },
+        {
+          "t": "p",
+          "x": "Last month, Upstage unveiled its small language model (SLM) 'Solar Mini 4'. Its structure activates only 30억 of its 350억 parameters, and it recorded top-level performance among small models of its class in global AI benchmarks."
+        }
+      ]
+    },
+    "politics/politics-eu-2027-workplan-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+          "cap": "gorodenkoff / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The European Commission is looking at uplifting artificial intelligence use across sectors next year, according to the 2027 Commission work programme obtained by Rapporteur. According to the leaked programme, set to be presented on Wednesday, the Commission wants to “tap” AI potential across sectors."
+        },
+        {
+          "t": "p",
+          "x": "It is set to propose a so-called blueprint for action to drive industrial AI across five sectors, including health, transport, agri-food, advanced manufacturing and defence and space — most likely referring to the upcoming report by the Commission’s special AI envoy Jim Hagemann Snabe. It also wants to “strengthen” Europe’s position in the AI stack: adding priorities on chips, data, compute and innovative funding instruments."
+        },
+        {
+          "t": "p",
+          "x": "A “digital transformation package, simplification and copyright” will review the digital decade targets, which may focus on AI infrastructure, equipping citizens with AI skills and monitoring business adoption of AI systems. The Commission also wants to “harness” AI’s potential for cultural and creative sectors, and mentions the “need to support young people in the face of the challenges raised by the impact of AI on the labour market”."
+        },
+        {
+          "t": "p",
+          "x": "However, the Commission’s legislative focus is narrow for 2027, with several proposals, such as the Digital Fairness Act (DFA) and the European Product Act, set to be proposed at the end of 2026."
+        }
+      ]
+    },
+    "politics/brave-nyt-scraping-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters."
+        },
+        {
+          "t": "p",
+          "x": "According to a complaint filed by the New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to “real-time online content from the Brave Index.” Brave has allegedly provided “stolen copyrighted content” to “many” AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere. Brave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature."
+        },
+        {
+          "t": "p",
+          "x": "“Brave has flouted established copyright law and ignored repeated requests by The Times to stop its infringing conduct,” NYT spokesperson Graham James said. Attorney Steven Lieberman, who filed on behalf of the other publications, said: “Brave must be held responsible for laundering pirated reporting for the AI industry.”"
+        },
+        {
+          "t": "p",
+          "x": "Brave, Anthropic, Mistral, SpaceXSI, and Cohere didn’t immediately reply to a request for comment. Perplexity’s chief communications officer Jesse Dwyer said: “The New York Times is overpaying its attorneys and underpaying its journalists.”"
+        }
+      ]
     }
   }
 }

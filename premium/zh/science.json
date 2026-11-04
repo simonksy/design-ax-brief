@@ -9239,6 +9239,143 @@
           "x": "潜在用途包括食品加工用的低温活性酶、在冷水中起效的洗涤剂，以及更高效的药物生产。Yang表示：“我们使用AI并不是为了在没有人的情况下更高效地把事情做完。”该研究发表于Nature Computational Science。"
         }
       ]
+    },
+    "science/westlake-pinal-protein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+          "cap": "Pinal能将多样的功能提示转化为高质量的候选蛋白质。Credit: Nature (2026)"
+        },
+        {
+          "t": "p",
+          "x": "由中国Westlake University（西湖大学）团队领衔的科学家开发出名为Pinal的大规模AI模型，仅凭自然语言提示即可生成候选蛋白质，相关论文发表于Nature。用户可以输入类似“设计一种在光照下发出绿光的荧光蛋白”这样的指令。"
+        },
+        {
+          "t": "p",
+          "x": "Pinal的第一个模块T2struct根据描述构建1D结构蓝图；第二个模块SaProt-T读取该蓝图和原始提示，生成相匹配的氨基酸序列。它会生成多个蓝图，为每个蓝图设计最佳序列，再为每一对打分，选出最终设计。"
+        },
+        {
+          "t": "p",
+          "x": "团队从135 million 条蛋白质序列起步，构建了包含1.7 billion 对蛋白质-文本配对的库，并加入来自AlphaFold数据库的预测3D结构。研究人员让它设计荧光蛋白、降解塑料的酶、醇脱氢酶和代谢相关的H-protein。"
+        },
+        {
+          "t": "p",
+          "x": "对于发光蛋白，50,000条序列被筛选至29条进行测试，只有一条真正发出荧光。对于H-protein，20个候选中有五个起效，最佳者将一项关键固碳过程的产出提升到使用天然E. coli蛋白时的1.7倍。Pinal要成为常规实验室工具，还需要进一步研究。"
+        }
+      ]
+    },
+    "science/uw-accent-bias-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+          "cap": "Credit: ShotPot from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "一支由UW牵头（UW-led）的团队发现，最先进的AI模型对带有某些口音的说话者存在偏见。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAI的GPT-Audio 1.5以及开源的Qwen 3 Omni，对以美国、英国、中国、印度和尼日利亚口音朗读的求职面试回答、演讲和英语水平回答进行了评分。"
+        },
+        {
+          "t": "p",
+          "x": "这些模型通常给中国和尼日利亚口音打最低分，印度口音居中，美国和英国口音最高。即使内容完全相同、模型也能准确转写语音，它们在表达和内容两方面仍给美国和英国说话者打出更高分。脚本由ElevenLabs的AI语音朗读，结果经52名真人说话者验证。"
+        },
+        {
+          "t": "p",
+          "x": "共同第一作者Orevaoghene Ahia说：“尽管模型一再声称中国和尼日利亚说话者‘含糊不清’或‘难以听懂’，它们其实非常擅长转写带口音的语音。”该研究于Oct. 25 在布达佩斯举行的EMNLP上发表。"
+        },
+        {
+          "t": "p",
+          "x": "资深作者Yulia Tsvetkov敦促开发者不仅公布平均性能，还应公布按子群体和方言细分的评估结果。"
+        }
+      ]
+    },
+    "science/ai2-statebench-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2推出StateBench，这是一个长上下文状态追踪基准，衡量语言模型在长文档中追踪实体信息随时间演变的能力。它分为四个难度级别：r-trivial（不可变赋值）、aperiodic（按值重新赋值）、soluble（自引用更新）和general finite（按引用赋值）。"
+        },
+        {
+          "t": "p",
+          "x": "包括Olmo 3和Olmo Hybrid在内的开放预训练模型在r-trivial问题上表现良好，在aperiodic问题上随输入变长而准确率下降，在general finite问题上则停留在随机水平。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "前沿模型Gemini 3.8 Flash、Claude Opus 5.5以及GPT-6 Sol和Luna在较简单的级别上表现不错，但随着输入变长，准确率急剧下滑，在最长的general finite问题上降至13%或更低。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+        },
+        {
+          "t": "p",
+          "x": "直接在StateBench上训练的275-million-parameter 模型则呈现出不同的结果：Gated DeltaNet和混合模型在r-trivial、aperiodic和soluble问题上几乎完美地泛化到数万次赋值。Transformers在更长序列上性能退化，始终没能学会general finite问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+        }
+      ]
+    },
+    "science/chalmers-defect-temperature-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+          "cap": "Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "材料缺陷的标准计算通常以零开尔文（Kelvin），即零下273摄氏度为基准。Chalmers University of Technology（查尔姆斯理工大学）的研究人员如今展示了一种在考虑温度效应的同时计算缺陷性质、效率显著更高的框架，成果发表于npj Computational Materials。"
+        },
+        {
+          "t": "p",
+          "x": "博士生Tobias Hainer说：“我们通过研究晶体结构中缺失一个原子的情况，并观察温度如何影响这种点缺陷的行为，来对材料中的缺陷建模。”缺陷会在半导体带隙中引入能级，其位置决定了缺陷是有害还是有用。"
+        },
+        {
+          "t": "p",
+          "x": "Julia Wiktor教授说：“我们在多种材料中都发现了相当显著的变化，既有数量上的，也有性质上的。基于零开尔文的模型会漏掉这些变化。”这些结果与实验观测相符。"
+        },
+        {
+          "t": "p",
+          "x": "Wiktor说：“十年前，我们大概无法在这样的规模上做到这一点。”她将这些大规模计算得以实现归功于机器学习的发展。"
+        }
+      ]
+    },
+    "science/osaka-perovskite-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
+          "cap": "自动化薄膜制备系统示意图。来源：Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "大阪大学的研究人员搭建了一个自动化平台，结合机器人、光学成像、环境传感器和机器学习来制备钙钛矿太阳能电池薄膜。"
+        },
+        {
+          "t": "p",
+          "x": "该系统追踪液态涂层变色并结晶成固态薄膜的过程，能在不到一秒内捕捉颜色变化，并以毫秒级精度捕捉反溶剂液滴的运动。机器学习利用这些测量数据找出了关键的工艺条件。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
+          "cap": "多晶薄膜形成问题解决方案示意图。来源：Akinori Saeki, The University of Osaka"
+        },
+        {
+          "t": "p",
+          "x": "团队据此优化涂布工艺，制成功率转换效率达24.4%的铅基钙钛矿太阳能电池。该研究由Ryosuke Kado和Akinori Saeki领导，发表于ACS Nano（DOI: 10.1021/acsnano.6c11386）。"
+        }
+      ]
     }
   }
 }

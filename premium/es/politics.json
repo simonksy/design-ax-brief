@@ -4554,6 +4554,154 @@
           "x": "Desde entonces, Meta anunció el 28 de octubre una pausa en la implantación de sus condiciones comerciales, a la espera de una consulta con asociaciones del sector. Como la investigación apenas comienza, aún no se ha decidido si Meta ha infringido la ley."
         }
       ]
+    },
+    "politics/politics-china-ai-lifecycle-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/reuters/2026/10/29/PRU20261029239901009_P4.jpg",
+          "cap": "DeepSeek. [Reuters=Yonhap, foto de archivo]"
+        },
+        {
+          "t": "p",
+          "x": "Las autoridades chinas han decidido elaborar amplias directrices regulatorias que abarcan todo el proceso de la inteligencia artificial (AI), desde su desarrollo hasta su uso. Se interpreta como una respuesta a los problemas de seguridad, como la pérdida de control de la AI, que están surgiendo en todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "Según Bloomberg, el día 3 la Comisión Nacional de Desarrollo y Reforma (NDRC) de China afirmó que está acelerando la legislación para gestionar y supervisar el desarrollo y el uso de modelos de AI. Wang Luomeng, subdirector del Departamento de Innovación y Desarrollo de Alta Tecnología de la NDRC, dijo ese día en una rueda de prensa que las normas que se introducirán se aplicarán a una amplia gama de ámbitos, desde los datos hasta los recursos de computación. Añadió que las autoridades chinas evaluarán periódicamente la aplicación de las normas y que las disposiciones obsoletas se revisarán."
+        },
+        {
+          "t": "p",
+          "x": "Se prevé que entre los afectados figuren empresas chinas de AI como DeepSeek, Moonshot AI y Alibaba Group, que desafían a las estadounidenses OpenAI y Anthropic, entre otras."
+        },
+        {
+          "t": "p",
+          "x": "Wang señaló que también se introducirán entornos de prueba regulatorios por sectores para permitir un margen más amplio de ensayo y error. Subrayó que los desarrolladores y operadores de AI deben reforzar la gestión de riesgos y, al mismo tiempo, divulgar los riesgos de seguridad, los incidentes y las vulnerabilidades."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno chino también prevé vigilar el impacto de la AI en el empleo y la sustitución de puestos de trabajo. Wang explicó que las autoridades ofrecerán una red de protección social a los trabajadores afectados por la AI."
+        },
+        {
+          "t": "p",
+          "x": "Según el análisis de Bloomberg, estas medidas reflejan el esfuerzo del Gobierno chino por encontrar un equilibrio, consciente de la posibilidad de que la AI quede fuera de control o se utilice en ciberataques. También se interpreta que el Gobierno chino teme la disrupción social a gran escala que podría traer la AI."
+        },
+        {
+          "t": "p",
+          "x": "La preocupación crece en todo el mundo después de que líderes tecnológicos y expertos de Silicon Valley, en Estados Unidos, advirtieran recientemente de que la AI podría amenazar la existencia de la humanidad, y de que se sucedieran casos de AI fuera de control o utilizada en ciberataques. El presidente de Estados Unidos, Donald Trump, y el presidente chino, Xi Jinping, acordaron en su cumbre de Washington en septiembre crear un canal de diálogo para intercambiar opiniones sobre los riesgos y beneficios de la AI y comunicarse en caso de incidentes relacionados."
+        }
+      ]
+    },
+    "politics/politics-ncsc-ai-ransomware-2028": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/241603.jpg?imageId=241603&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "El Centro Nacional de Ciberseguridad (NCSC) del UK afirma que es “muy probable” que el malware AI-powered forme parte de un futuro ataque de ransomware contra la infraestructura nacional crítica de Gran Bretaña entre hoy y 2028. La advertencia acompaña a su revisión anual y a una evaluación aparte que analiza cómo la AI podría cambiar las ciberamenazas en los próximos dos años."
+        },
+        {
+          "t": "p",
+          "x": "Los atacantes ya están reutilizando herramientas de seguridad de AI de código abierto, como ARTEX, una plataforma china de red teaming con AI. En su escenario pesimista para 2028, el NCSC prevé “un aumento significativo de la frecuencia y la sofisticación de los ciberataques en todo el mundo” y afirma que “es una posibilidad realista” que un atacante autónomo pueda autorreplicarse y lanzar ciberataques a voluntad."
+        },
+        {
+          "t": "p",
+          "x": "En defensa, Project DROMOS descubrió cientos de posibles problemas de seguridad en el código del Gobierno, y la revisión reafirma los planes para Cyber Shield, un sistema de ciberdefensa agéntico financiado con £60 million, junto con £70 million para un nuevo NERV Centre y £40 million para una National Agentic Security Unit."
+        },
+        {
+          "t": "p",
+          "x": "El CEO del NCSC, el Dr Richard Horne, pidió a las organizaciones “invertir con urgencia”: “Durante décadas, colectivamente nos hemos salido con la nuestra haciendo tecnología a bajo coste”."
+        }
+      ]
+    },
+    "politics/politics-upstage-solar-gov-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.3756028fae1e40cfa8ce0542feb06093_P1.png",
+          "cap": "El modelo de lenguaje grande (LLM) 'Solar Pro 4' de Upstage se ha incorporado a la plataforma común de inteligencia artificial (AI) de todo el Gobierno. Upstage"
+        },
+        {
+          "t": "p",
+          "x": "Upstage anunció el día 3 que ha incorporado su modelo de lenguaje grande (LLM) 'Solar Pro 4' a la plataforma común de inteligencia artificial (AI) de todo el Gobierno y que ha iniciado el servicio oficial. Ahora es posible usar modelos de AI nacionales en la red administrativa sin construir una infraestructura propia de unidades de procesamiento gráfico (GPU)."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma común de AI de todo el Gobierno es una infraestructura de AI exclusiva de la red administrativa con la que el Ministerio del Interior y Seguridad y el Ministerio de Ciencia y TIC ofrecen modelos de AI, datos y entornos de desarrollo, entre otros, a los ministerios centrales y a los gobiernos locales. Solar Pro 4 se ofrece a través de 'FabriX', de Samsung SDS, la plataforma de AI de la plataforma común."
+        },
+        {
+          "t": "p",
+          "x": "Solar Pro 4 funciona en una infraestructura de la red administrativa que ha superado la revisión de seguridad del Servicio Nacional de Inteligencia, lo que permite evitar la fuga de datos administrativos internos. Los recursos de GPU necesarios para operar el modelo se gestionan de forma centralizada en la plataforma común. Cada organismo puede usarlo desde una pantalla de chat o una interfaz de programación de aplicaciones (API) sin construir ni alquilar sus propios servidores de GPU."
+        },
+        {
+          "t": "p",
+          "x": "También ofrece fundamentos para sus respuestas al vincularse con leyes, comunicados de prensa y documentos administrativos. Los funcionarios pueden usar Solar Pro 4 para revisar si los proyectos de reforma de ordenanzas y reglamentos contradicen leyes de rango superior, y para redactar borradores de respuestas a quejas ciudadanas buscando la normativa y los procedimientos aplicables. También puede usarse para redactar borradores de informes a partir de notas de reuniones y materiales de referencia, y para resumir documentos extensos ordenando los puntos clave y las cuestiones en debate de los materiales de políticas."
+        },
+        {
+          "t": "p",
+          "x": "El sector público tenía limitaciones para usar la AI por las normas de seguridad y la falta de infraestructura de GPU. Upstage explicó que, con Solar Pro 4, es posible usar modelos de AI nacionales en el trabajo dentro de una red administrativa que cumple tanto los requisitos de seguridad como los de infraestructura."
+        },
+        {
+          "t": "p",
+          "x": "Kim Sung-hoon, director ejecutivo de Upstage, dijo: “La AI que necesita el trabajo público es una AI en la que se puede confiar, que protege la seguridad y responde con fundamentos”, y añadió: “Demostraremos en la práctica administrativa que una AI nacional fiable puede impulsar la innovación del trabajo público”."
+        },
+        {
+          "t": "p",
+          "x": "Upstage presentó el mes pasado su modelo de lenguaje ligero (SLM) 'Solar Mini 4'. Su estructura activa solo 30억 de sus 350억 parámetros, y obtuvo el nivel más alto entre los modelos pequeños de su categoría en evaluaciones globales de rendimiento de AI."
+        }
+      ]
+    },
+    "politics/politics-eu-2027-workplan-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2025/10/GettyImages-1516277094.jpg",
+          "cap": "gorodenkoff / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La Comisión Europea estudia impulsar el uso de la inteligencia artificial en todos los sectores el próximo año, según el programa de trabajo de la Comisión para 2027 obtenido por Rapporteur. Según el programa filtrado, que se presentará el miércoles, la Comisión quiere “aprovechar” el potencial de la AI en todos los sectores."
+        },
+        {
+          "t": "p",
+          "x": "Está previsto que proponga un llamado plan de acción para impulsar la AI industrial en cinco sectores, entre ellos salud, transporte, agroalimentación, fabricación avanzada y defensa y espacio, lo que muy probablemente remite al próximo informe del enviado especial de la Comisión para la AI, Jim Hagemann Snabe. También quiere “reforzar” la posición de Europa en la pila tecnológica de AI, añadiendo prioridades sobre chips, datos, computación e instrumentos de financiación innovadores."
+        },
+        {
+          "t": "p",
+          "x": "Un “paquete de transformación digital, simplificación y derechos de autor” revisará los objetivos de la década digital, que podrían centrarse en la infraestructura de AI, en dotar a la ciudadanía de competencias en AI y en el seguimiento de la adopción de sistemas de AI por parte de las empresas. La Comisión también quiere “aprovechar” el potencial de la AI para los sectores cultural y creativo, y menciona la “necesidad de apoyar a los jóvenes ante los retos que plantea el impacto de la AI en el mercado laboral”."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, el foco legislativo de la Comisión para 2027 es reducido, ya que varias propuestas, como la Digital Fairness Act (DFA) y la European Product Act, se presentarán a finales de 2026."
+        }
+      ]
+    },
+    "politics/brave-nyt-scraping-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The New York Times y un grupo de otras publicaciones han presentado demandas contra la empresa que desarrolla el navegador web Brave por un presunto scraping ilegal para entrenar AI y por permitir a los usuarios eludir sus muros de pago, según informó Reuters."
+        },
+        {
+          "t": "p",
+          "x": "Según una demanda presentada por el New York Daily News, el Chicago Tribune y el Orlando Sentinel, Brave Software ha monetizado su índice de sitios web extraídos, en parte, ofreciendo a empresas de AI acceso de pago a “contenido en línea en tiempo real (real-time) del Brave Index”. Brave habría proporcionado “contenido protegido por derechos de autor robado” a “muchas” empresas de AI, entre ellas Anthropic, Perplexity, Mistral, xAI y Cohere. Brave también promociona “cientos de editores destacados” como accesibles mediante su función “Paywall blocker”."
+        },
+        {
+          "t": "p",
+          "x": "“Brave ha desafiado la legislación establecida sobre derechos de autor y ha ignorado las reiteradas peticiones de The Times para que cese su conducta infractora”, dijo el portavoz del NYT Graham James. El abogado Steven Lieberman, que presentó la demanda en nombre de las otras publicaciones, afirmó: “Brave debe rendir cuentas por blanquear periodismo pirateado para la industria de la AI”."
+        },
+        {
+          "t": "p",
+          "x": "Brave, Anthropic, Mistral, SpaceXSI y Cohere no respondieron de inmediato a una solicitud de comentarios. El director de comunicaciones de Perplexity, Jesse Dwyer, dijo: “The New York Times está pagando de más a sus abogados y de menos a sus periodistas”."
+        }
+      ]
     }
   }
 }

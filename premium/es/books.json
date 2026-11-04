@@ -8575,6 +8575,133 @@
           "x": "Se accede abriendo el menú dentro del libro o resaltando un pasaje o una palabra concretos del texto. Ofrece una lista de preguntas sugeridas, o se puede escribir una pregunta propia y hacer preguntas de seguimiento."
         }
       ]
+    },
+    "books/toonsutra-cinematic-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Toonsutra, la plataforma india de webtoons, lanzó Cinematic Mode en beta. La función convierte los webcómics en breves historias multimedia con viñetas animadas, voces de personajes que incluyen diálogos en idiomas de la India, música de fondo adaptativa y desplazamiento automático en formato \"lean-back\". La empresa lo describe como un cómic que, en la práctica, se narra a sí mismo."
+        },
+        {
+          "t": "p",
+          "x": "Su sistema lee las viñetas y los personajes para decidir qué animar, cómo deben sonar los personajes y qué debe hacer la música. Atribuye el trabajo a tres modelos de Google: Veo 3 para convertir viñetas estáticas en animación, Gemini 2.5 Pro para el habla de los personajes y Lyria 2 para la música de fondo. La empresa afirma que Cinematic Mode se creó con socios editoriales aprobados."
+        },
+        {
+          "t": "p",
+          "x": "El Co-Founder (cofundador) y CEO Vishal Anand ha descrito el lanzamiento como \"el nacimiento de Comics 2.0\". Según la empresa, Toonsutra tiene más de un millón de usuarios activos mensuales y más de 3,300 títulos y 500,000 episodios."
+        },
+        {
+          "t": "p",
+          "x": "Su verdadera prueba no es técnica sino artística: si los lectores sienten que reciben más historia o menos cómic."
+        }
+      ]
+    },
+    "books/meridian-cashmere-presses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Cambridge University Press, Johns Hopkins University Press y Princeton University Press son las editoriales fundadoras de Meridian, un nuevo servicio gestionado por Cashmere, la start-up con sede en Salt Lake City que licencia contenido de editoriales a empresas de IA."
+        },
+        {
+          "t": "p",
+          "x": "Meridian ofrece a estudiantes e investigadores acceso autorizado a libros y revistas académicas que las bibliotecas ya tienen bajo licencia. Cuando un investigador hace una pregunta a una herramienta de IA, Meridian permite que esta extraiga la respuesta de ese contenido revisado por pares, cite la fuente y dirija al lector, a través de la suscripción de su biblioteca, a la versión final publicada. El contenido al que se accede mediante Meridian no puede usarse para entrenar modelos de IA."
+        },
+        {
+          "t": "p",
+          "x": "Internamente, Meridian utiliza el Model Context Protocol, o MCP, un estándar abierto desarrollado por Anthropic, de modo que las editoriales crean una sola conexión en lugar de una para cada empresa de IA. La participación es voluntaria: las editoriales pueden retirar títulos en cualquier momento y verán qué preguntas respondieron sus libros y con qué frecuencia se cita su contenido."
+        },
+        {
+          "t": "p",
+          "x": "Las editoriales fundadoras y Cashmere forman el consejo asesor de Meridian, que se convertirá en su junta directiva cuando se constituya como organización independiente sin fines de lucro. Las editoriales fundadoras cargan sus catálogos este mes, y una prueba con un grupo limitado de bibliotecas comenzará a finales de este otoño."
+        }
+      ]
+    },
+    "books/scholarly-alttext-backlist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+          "cap": "Icono informático de accesibilidad y discapacidad"
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las editoriales ya no necesita que la convenzan de que el cumplimiento en accesibilidad no puede ignorarse: solo en 2025 se registraron 5.114 demandas por la ADA. Lo que les cuesta es la ejecución a gran escala, sobre todo en décadas de archivos heredados creados sin pensar en la accesibilidad, llenos de figuras complejas, notación matemática y densas tablas de datos."
+        },
+        {
+          "t": "p",
+          "x": "La IA puede incorporar el archivo existente de una editorial y realizar auditorías automatizadas para determinar el alcance del contenido que no cumple las normas, generando un inventario priorizado con un calendario realista y una estimación de costos. La generación de texto alternativo AI-assisted (asistida por IA) también está haciendo un trabajo real en la descripción de figuras, el etiquetado estructural y la normalización de metadatos, y puede generar subtítulos y transcripciones para vídeo y audio archivados."
+        },
+        {
+          "t": "p",
+          "x": "El texto alternativo para contenido científico complejo es otra historia. Los enfoques más creíbles combinan la generación automatizada con un umbral de calidad y derivan el contenido que queda por debajo a revisión por especialistas en la materia. “La IA se ha desplazado hacia donde está el cuello de botella, no lo ha eliminado”, escribe Balamuraly Kanthavelou, de Straive."
+        }
+      ]
+    },
+    "books/ddalkkak-publishing-taxcredit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+          "cap": "Encuentro celebrado el día 2 en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional, en Yeouido (Seúl), bajo el lema 'El poder del texto que abre el futuro en la era de la IA'. Foto: Sociedad de Editores de Corea"
+        },
+        {
+          "t": "p",
+          "x": "En medio de la polémica por el entrenamiento indiscriminado de las empresas globales de inteligencia artificial (IA) con obras publicadas, las dos principales organizaciones editoriales de Corea volvieron a subrayar la necesidad de beneficios fiscales para los contenidos editoriales. Su argumento es que, cuanto más encoja la IA la industria editorial, más hay que proteger el libro, tesoro del intelecto humano y contenido de origen de la cultura K."
+        },
+        {
+          "t": "p",
+          "x": "La Asociación de Editores de Corea y la Sociedad de Editores de Corea celebraron el día 2, en la sala de reuniones n.º 11 del edificio de oficinas de los diputados de la Asamblea Nacional en Yeouido, Seúl, un encuentro para impulsar un crédito fiscal para los contenidos editoriales. El acto, bajo el lema 'El poder del texto que abre el futuro en la era de la IA', fue copatrocinado por las oficinas de los diputados Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan y Kim Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "El sector editorial insistió en que la introducción de un crédito fiscal para las publicaciones no puede aplazarse más. Ahora que el ecosistema editorial se ve amenazado por la avalancha de la llamada 'edición en un clic', sostiene, los costos de hacer libros, como edición, diseño, impresión y regalías, deben incluirse en el crédito fiscal para dar un respiro a las editoriales."
+        },
+        {
+          "t": "p",
+          "x": "Kim Bo-kyung, responsable del comité de políticas de la Sociedad de Editores de Corea, afirmó: \"Cuanto más abunden los textos creados por IA, más sube el valor de los 'textos maestros' escritos, editados y verificados por personas\", y añadió: \"Se necesita apoyo fiscal no solo cuando los libros se convierten en vídeo o webtoon, sino también cuando el manuscrito que los sustenta se convierte en libro\"."
+        },
+        {
+          "t": "p",
+          "x": "Yeom Jong-seon, director de Changbi, que asistió al encuentro como miembro del sector editorial, destacó los logros internacionales de autores coreanos, como el Premio Booker Internacional y el Premio Nobel de Literatura de Han Kang, además de Hwang Sok-yong, Kim Hyesoon y Bora Chung, y pidió: \"Introduzcan el crédito fiscal para contenidos editoriales para que continúen los logros de la literatura coreana\"."
+        },
+        {
+          "t": "p",
+          "x": "Durante la campaña de las 21.ª elecciones presidenciales, el Gobierno y el partido gobernante prometieron ampliar el apoyo fiscal al sector editorial, pero la reforma de la Ley de Restricción de Tratamientos Fiscales Especiales aprobada en el pleno de la Asamblea Nacional en diciembre del año pasado solo creó una cláusula de crédito fiscal para contenidos de webtoon. Las organizaciones editoriales protestan con fuerza: \"El Gobierno está dañando las raíces del contenido K\"."
+        }
+      ]
+    },
+    "books/scholarlykitchen-ai-transparency-trap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+          "cap": "Una caja preparada como trampa. Caja de cartón apoyada sobre un palo atado a una cuerda."
+        },
+        {
+          "t": "p",
+          "x": "En el ámbito académico, la AI ha llegado a la escritura y la publicación: ayuda a los investigadores a generar y pulir contenidos, mientras las editoriales la usan para revisar manuscritos. En muchos casos, la AI ayuda a detectar errores que la propia AI ha introducido. Es como llenar un cubo que gotea."
+        },
+        {
+          "t": "p",
+          "x": "La ausencia de AI no garantiza una investigación fiable. Tampoco lo hace declarar su uso. Las declaraciones de AI solo indican si se usó AI y cómo; no demuestran que la tecnología se usara de forma responsable ni que las afirmaciones se verificaran. Un autor puede cumplir por completo la política de declaración de AI de una revista y aun así presentar afirmaciones sin fundamento y referencias inventadas. Esta es la trampa de la transparencia: confundir la declaración con una prueba de la integridad y la calidad de la investigación."
+        },
+        {
+          "t": "p",
+          "x": "Los distintos usos de la AI conllevan distintos niveles de riesgo; mejorar la gramática no es lo mismo que generar interpretaciones o analizar datos. En agosto de 2026, la red JAMA actualizó sus directrices y reconoció que “las políticas de declaración pueden no ser suficientes para abordar la preocupación por el contenido generado por AI (AI-generated) que es incorrecto o incluso inventado”."
+        },
+        {
+          "t": "p",
+          "x": "El foco debe estar en un marco de rendición de cuentas y validación, con el juicio humano como complemento de los controles técnicos. “La presencia de AI no demuestra una mala conducta, del mismo modo que la ausencia de AI no demuestra integridad.” — Roohi Ghosh, Cactus Communications"
+        }
+      ]
     }
   }
 }

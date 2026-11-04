@@ -10104,6 +10104,151 @@
           "x": "Metaの人型ロボットへの参入は早くも昨年に始まった。Bloombergは当時、同社が最終的に家事をこなせるロボットハードウェアの開発を目指す新チームを設けたと報じた。その後Metaは今年初め、ロボット専用の人工知能開発で知られるスタートアップを買収した。"
         }
       ]
+    },
+    "gadgets/siri-ai-thirdparty-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "AppleはSiri AIがサードパーティ製アプリ全般で操作を実行できるようにする。Appleは、火曜日に配信が始まるiOS 27.3アップデートの一環として、開発者がSiri AIの新機能を「すべてのアプリ」に組み込めるようになったと発表した。これにより音声アシスタントは、ユーザーの個人的な文脈を活用し、自然言語の指示を処理し、画面認識を使ってリクエストを完了できる。"
+        },
+        {
+          "t": "p",
+          "x": "Developer Previewの一部として配信されるこのアップデートには、サードパーティ開発者が複数のタスクを一つのアクションにまとめられる新機能「app skills」も加わる。Appleは開発者向けドキュメントで、アプリが前面に表示されているとき、Live Activityの実行中、またはそのアプリについてSiri AIと会話しているときは、リクエストでアプリ名を言う必要がないと説明している。"
+        },
+        {
+          "t": "p",
+          "x": "Appleは「たとえば、配車アプリで車を呼び、到着を待つ間にアプリのLive Activityで最新情報を確認し、『Hey Siri, 乗車場所を新しい住所に変更して』と言って乗車場所を別の住所に移すよう頼むことができる」と説明する。9to5Macが指摘するように、Appleは以前、より限られた機能をサードパーティ開発者に提供していた。"
+        },
+        {
+          "t": "p",
+          "x": "AppleはSiri AIの拡張機能を自社アプリにも導入する。対象はCalendar、Files、Finder、Journal、Mail、Maps、Messages、Music、Notes、Photos、Preview、Reminders、Safari、Shortcuts、Weatherの各アプリだ。Appleによれば「先週訪れたコーヒーショップを探したり、一年以上開いていないファイルをアーカイブしたりできる」という。各アプリでSiri AIに何ができるかを尋ねることもできるとしている。"
+        }
+      ]
+    },
+    "gadgets/sonos-27voice-early-access": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
+          "cap": "TVの下に置かれた黒いSonos Beam Ultraサウンドバー。"
+        },
+        {
+          "t": "p",
+          "x": "Sonosは、新しい音声アシスタント「Sonos 27voice」を、今週配信されるアップデートの一環として11月6日から早期アクセスで試せるようにすると発表した。刷新された音声アシスタントは、新たな基盤ソフトウェア「Sonos 27」で予定されていた複数の新機能の一つだった。"
+        },
+        {
+          "t": "p",
+          "x": "従来のVoice Control機能と同様に、Sonos 27voiceは再生の操作、タイマー設定、対応スマートホーム機器の操作、天気の案内ができる。違いは、自然言語のリクエストを理解して応答し、はるかに幅広い一般知識の質問にも答えられる点だ。たとえば「宇宙での冒険を描いたあのBowieのアルバムをかけて」や「今年のSuper Bowlで勝ったのは誰」と尋ねられる。"
+        },
+        {
+          "t": "p",
+          "x": "試すには、Sonosアプリ内で早期アクセスを申請し、承認を受ける必要がある。Sonosは、フィードバックを集めるため、2027年の正式リリースに先立ち少人数のユーザーで機能をテストしているという（2024年の悲惨なアプリ刷新で招いた反発を避ける狙いもあるとみられる）。SonosはPresetsとSystem Healthも導入する。"
+        },
+        {
+          "t": "p",
+          "x": "早期アクセス期間中、Sonos 27voiceはUS（米国）でのみ、英語でのみ利用できる。Sonos 27自体も、SonosのS2プラットフォームのハードウェアに限られる。"
+        }
+      ]
+    },
+    "gadgets/cyclon-ai-phone-yc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Cyclon AIフォン"
+        },
+        {
+          "t": "p",
+          "x": "私たちがスマートフォンでしていることの大半は、今も同じ手順をたどる。アプリを開き、いくつかの画面をタップして進み、作業を自分で終える。Y CombinatorのF26バッチ出身のスタートアップCyclonは、iPhoneに取って代わることを目指すスマートフォンで、その手順をまるごとAIに任せようとしている。"
+        },
+        {
+          "t": "p",
+          "x": "多くのアシスタントは、アプリ内で何かをする前に開発者が連携機能を用意する必要がある。Cyclonはそれを待たない。人と同じようにアプリを操作し、複数のアプリを行き来して作業を終えられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Cyclon aiフォンのソフトウェアのモックアップ"
+        },
+        {
+          "t": "p",
+          "x": "たとえば、WhatsAppのチャットに埋もれた写真を友人に送りたいとする。Cyclonに頼めば、探して送ってくれる。必要なアプリが存在しなければCyclonがその場で作り、スマートフォンがポケットに入っている間もバックグラウンドで作業を続ける。"
+        },
+        {
+          "t": "p",
+          "x": "すでに入手も可能だ。最初のCyclonフォンはCyclonをプリインストールしたPixel 8aで、予約注文から30日以内に出荷される。Cyclonの処理はほぼすべてOSレベルで行われるため、Pixelから始めるのは理にかなっている。"
+        },
+        {
+          "t": "p",
+          "x": "ただし独自ハードウェアも計画にある。Cyclonは自社端末で、より強力なAIモデルをローカルで動かしてクラウドのモデルと組み合わせ、個人データをできる限り端末内にとどめる方針だ。"
+        },
+        {
+          "t": "p",
+          "x": "アプリにはそれぞれ独自のレイアウトや癖があり、画面をタップして操作するAIはそのすべてに対応しなければならない。Cyclonがそれをやり遂げれば、面倒な作業の多くから解放されるかもしれない。できなければ、約束ばかりで成果の伴わないアシスタントの一つになりかねない。"
+        }
+      ]
+    },
+    "gadgets/chatgpt-dots-astra-1104": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはChatGPT Dotsの能力を高めている。ただ興味深いのは、より強力なAIモデルを使えるようになることだけではない。何を尋ねても、それに合ったモデルを自ら選べるようになる点だ。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIでCodexとChatGPTに携わるThibault Sottiauxは、Dotsを動かすモデルのラインアップを拡充するとXで明らかにした。これにはGPT-6 AstraとGPT-6.1 Terraが含まれ、今後さらに追加される見込みだ。Sottiauxによれば、Terraはより速い性能とより親しみやすい人格をもたらし、OpenAIがDotsをより多くの人に提供するうえでも役立つという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Dotsは、ユーザーが離れている間も作業を続けられる個人向けAIアシスタントだ。Dotは取り組み中の内容を覚えて中断したところから再開でき、今ではGoogle MessagesやiMessageから直接やり取りすることもできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "Sottiauxによると、Dotsは作業に合ったモデルを自動で選び、同じタスクの中でも部分ごとにモデルを切り替えるという。もちろん、実際にどこまでうまく機能するかは見守る必要がある。"
+        }
+      ]
+    },
+    "gadgets/google-nasa-robot-doctor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはNASAと共同で、将来の深宇宙探査において宇宙飛行士が健康上の緊急事態や日常業務に対処できるよう支援するロボット医療アシスタントを開発している。このプロジェクトにはGoogle Cloud、NASAのHuman Research Program、Johnson Space Centerのロボティクスチーム、Jet Propulsion Laboratoryが参加し、GoogleとNASAが2025年から評価してきたCrew Medical Officer Digital Assistantを土台としている。"
+        },
+        {
+          "t": "p",
+          "x": "Googleの公共部門担当バイスプレジデントであるJim Kellyは「将来、火星(Mars)への深宇宙ミッションに臨む宇宙飛行士は、最大44分に及ぶ往復の通信遅延をはじめ、深刻な運用上の課題に直面しうる」と述べた。ロボットは乗組員の医療担当官に取って代わるのではなく実務を手助けし、診断や治療の判断は人間の監督下に残す。たとえば、腎臓結石に関連する可能性のある激しい腰痛を抱えた宇宙飛行士のために、超音波機器を取り出して準備するといった役割だ。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはJPLのナビゲーション技術を応用し、DeepMindの物理シミュレーターMuJoCoを使って動作と物体の扱いを評価した。初期の実験室試験では、医療バッグを探して移動させる作業で85%の成功率を達成した。Googleはこの取り組みを概念実証と位置づけており、宇宙で使えると確認されたロボットはまだない。"
+        },
+        {
+          "t": "p",
+          "x": "Kellyは「最終的な目標は、宇宙飛行士の直接の監督と指揮のもと、簡単な音声指示でさまざまな作業をこなせるロボットシステムを構築することだ」と語った。"
+        }
+      ]
     }
   }
 }

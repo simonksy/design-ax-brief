@@ -9449,6 +9449,154 @@
           "x": "La regla quizá solo disuada a los imitadores menos esforzados: los límites de seguridad pueden sortearse con trucos retóricos, no está claro cómo sabría el software si un usuario es dueño de una idea de juego o de sus recursos, y los clonadores pueden recurrir a modelos de pesos abiertos sin esas restricciones."
         }
       ]
+    },
+    "games/itchio-ai-terabytes-purge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+          "cap": "Itch.io"
+        },
+        {
+          "t": "p",
+          "x": "No va a resolver el problema de la noche a la mañana, pero es un comienzo: Itch arrancó la semana anunciando que combate un aumento desorbitado de basura AI-generated borrando “un par de terabytes” de ese material y aplicando sus normas de divulgación de AI en más lugares."
+        },
+        {
+          "t": "p",
+          "x": "“Que puedas subir 10 terabytes de modelos AI-generated mal optimizados no significa que debas subir 10 terabytes de modelos AI-generated mal optimizados”, dice una publicación de la cuenta de Bluesky de la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Además, Itch amplió su requisito de divulgación de AI a juegos de mesa, cómics y bandas sonoras, y añadió filtros de divulgación de AI en lugares donde “faltaban de forma crítica”, incluida la página de búsqueda."
+        },
+        {
+          "t": "p",
+          "x": "Aunque muchos han pedido que Itch prohíba por completo el contenido AI-generated, eso no parece estar previsto, al menos por ahora. La cuenta de Bluesky del sitio enlazó a unas normas contra el spam de AI vigentes desde hace dos años, que usó para justificar el borrado de varios terabytes de contenido basura. Estas normas van contra juegos o proyectos “creados predominantemente por algoritmos o AI con una intervención humana mínima”."
+        },
+        {
+          "t": "p",
+          "x": "Pero la página señala expresamente que “en algunos casos el contenido generado automáticamente o AI-generated puede ser útil o interesante” y que la AI tiene cabida en la plataforma siempre que “aporte un valor sustancial a la experiencia del usuario” y se divulgue debidamente."
+        },
+        {
+          "t": "p",
+          "x": "Pero, por supuesto, cualquiera puede optar por no revelar que su juego incorpora AI generativa, lo que deja al equipo de Itch —diminuto comparado con, por ejemplo, el de Steam— con poco margen salvo jugar una y otra vez al whack-a-mole."
+        }
+      ]
+    },
+    "games/food-devils-steam-delay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Crédito de la imagen: Studio Daimon"
+        },
+        {
+          "t": "p",
+          "x": "Food Devils, una versión picante y gastronómica de Fire Emblem, debía salir hoy, pero todavía no está disponible. En una publicación del blog de Steam, la desarrolladora Studio Daimon explicó que los estudios ven un aviso según el cual la revisión “suele tardar 3-5 días hábiles, pero conviene prever hasta 7 días hábiles”. El equipo envió su build el 12 de octubre, hace más de 20 días, sin aprobación a la vista."
+        },
+        {
+          "t": "video",
+          "yt": "eAUlEcrd6-8"
+        },
+        {
+          "t": "p",
+          "x": "¿El motivo? “Solo podemos suponer que se debe a que la cola de revisión de Steam está atascada de bazofia de IA, pero todo el proceso ya está llevando varias semanas a algunos desarrolladores”. Game Discovery Tool determinó que más del 50% de los juegos lanzados en octubre en Steam incluían una declaración de uso de IA (AI), frente a algo más del 14% en enero de 2025 y algo más del 25% en enero de 2026. Según SteamDB, en octubre de 2025 se lanzaron algo más de 2000 juegos; en octubre de 2026, casi 4000."
+        },
+        {
+          "t": "p",
+          "x": "“Incluso ahora, no sabemos cuándo nos dará Steam el OK definitivo para lanzar por fin nuestro juego”, escribieron los desarrolladores. Esperan lanzarlo antes de que termine la semana, pero “no pueden hacer planes ni promesas porque está fuera de nuestro control”."
+        }
+      ]
+    },
+    "games/playgama-ai-game-index": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus está creando más de la mitad de los nuevos juegos hechos con IA (AI-made) en Playgama, pero Astra, de OpenAI, es el que hace los que más gustan a los jugadores. Así lo indica el primer AI Game Index de la compañía, que sigue 4,200 juegos publicados entre el 22 de septiembre y el 21 de octubre y clasifica modelos de IA y agentes de programación según el tiempo de juego, los «me gusta» de los jugadores y la cuota de juegos nuevos."
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus impulsa el 54% de los juegos nuevos, seguido de Sol, de OpenAI, con el 11%; Claude Sonnet, con el 8%; Astra, de OpenAI, con el 3.8%; Claude Fable, con el 3%; Gemini Pro, con el 1.9%; Gemini Flash, con el 1.8%, y DeepSeek, con el 1.6%. A los jugadores les gustan más los juegos Astra-built, con una mediana de 65 «me gusta» por cada 1,000 partidas; Opus ocupa el sexto lugar de ocho modelos evaluados, con 39. Los juegos de Astra también retienen más tiempo a los jugadores, con una mediana de 4 minutos 58 segundos por partida."
+        },
+        {
+          "t": "p",
+          "x": "El juego Codex-built mediano obtiene 65 «me gusta» por cada 1,000 partidas, frente a solo 43 de Claude Code. “Vean el índice como un termómetro, no como un juez”, dijo el fundador Dmitry Kachmar. “Hace un año, hacer un juego requería un equipo y meses de trabajo. Ahora, una persona puede crear un juego con un agente de IA en una tarde”. El índice solo abarca la propia plataforma de Playgama, la información de los modelos es autodeclarada y se actualiza a diario."
+        }
+      ]
+    },
+    "games/krafton-kiff-kpop-chat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Krafton (director ejecutivo: Kim Chang-han) anunció el día 2 que se lanza a comercializar la IA con Kiff, un servicio de chat con personajes de K-pop basado en IA (AI)."
+        },
+        {
+          "t": "p",
+          "x": "Kiff, que empezó a funcionar ese mismo día en Corea, es un servicio desarrollado y operado por Krafton. Los usuarios pueden conversar sobre K-pop con personajes ideados por los propios artistas y hacer más divertida su actividad como fans."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+          "cap": "[Foto=Krafton]"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+          "cap": "[Foto=Krafton]"
+        },
+        {
+          "t": "p",
+          "x": "Los personajes recuerdan los gustos del usuario y las conversaciones anteriores, los tienen en cuenta en las siguientes y a veces inician ellos la charla. También pueden compartir novedades del artista y seguir conversando sobre ellas. Además, el servicio ofrece una función que convierte lo hablado durante el día en un diario ilustrado."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden chatear por texto en el modo chat o interactuar con el personaje en pantalla en el modo personaje. En este modo, si el usuario saluda con un \"¡Hola!\", el personaje mueve la mano, entre otros gestos acordes con la conversación."
+        },
+        {
+          "t": "p",
+          "x": "La primera artista en participar en Kiff es FIFTY FIFTY, grupo femenino de ATTRAKT. Weni, el personaje oficial de FIFTY FIFTY, fue creado con la participación directa de las integrantes, desde la concepción de su personalidad hasta el desarrollo de su aspecto."
+        },
+        {
+          "t": "p",
+          "x": "El proceso en que las integrantes visitan Krafton para crear a Weni puede verse en vídeo en el canal oficial de YouTube de Kiff. El episodio 1 se publicó el pasado día 24 y el episodio 2 llega el día 2."
+        },
+        {
+          "t": "p",
+          "x": "Kiff está disponible en coreano en las apps de iOS y Android para usuarios mayores de 14 años. Cada día se pueden mantener algunas conversaciones gratis, y con una suscripción mensual de 3900원 el chat es ilimitado."
+        },
+        {
+          "t": "p",
+          "x": "Park Jae-min, director de la AI Frontier Div. de Krafton, afirmó: \"Krafton lleva mucho tiempo investigando una IA que permita a los personajes de los juegos comunicarse con naturalidad con los usuarios\", y añadió: \"A partir de esa experiencia, hemos creado una nueva forma de que los fans disfruten de cerca del universo de los artistas\". También dijo: \"Empezando por Kiff, ampliaremos el negocio de IA a más artistas y a mercados más amplios\"."
+        },
+        {
+          "t": "p",
+          "x": "Krafton prevé sumar más artistas a Kiff, añadir funciones de forma progresiva y ampliar los países donde se ofrece el servicio."
+        }
+      ]
+    },
+    "games/unity-antigravity-plugin": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "gobNINSU3JE"
+        },
+        {
+          "t": "p",
+          "x": "El plugin de Unity ya está disponible oficialmente en el Plugin marketplace de Antigravity."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a nuestra alianza con Google Antigravity, facilitamos llevar el desarrollo 3D en tiempo real directamente a potentes flujos de trabajo agénticos. En lugar de recorrer configuraciones fragmentadas de varios pasos, los desarrolladores ahora pueden conectar Unity a Antigravity con un solo clic."
+        },
+        {
+          "t": "p",
+          "x": "Sabemos lo importante que es conectar las herramientas en las que ya confías, y esto lleva los flujos de trabajo agénticos directamente a tu pipeline de compilación."
+        }
+      ]
     }
   }
 }

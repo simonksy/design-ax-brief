@@ -1,124 +1,160 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-02T22:04:00Z",
+  "now_iso": "2026-11-03T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Edgar Wright Says New AI Remaster of Cult TV Comedy 'Spaced' Is a 'Bummer': 'Not Authorized by Anyone Involved in Making the Show'",
-      "url": "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/",
+      "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
+      "url": "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/",
       "source": "Variety",
-      "published_iso": "2026-11-02T14:23:27+00:00",
-      "excerpt": "A new AI-upscaled 4K Blu-ray release of the cult British comedy Spaced has sparked backlash, with director Edgar Wright saying the AI remaster was not authorized by anyone involved in making the show.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
+      "category": "movies",
+      "published_iso": "2026-11-03T18:00:00+00:00",
+      "excerpt": "Netflix is introducing AI Discover, a new tab on its TV app that lets subscribers explore titles through AI-generated themes such as \"Something Light\" or \"Scare Me\", a test bed for conversational discovery.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1"
     },
     {
-      "title": "Cate Blanchett-Backed Group and Collection of Hollywood Stars File Brief in New York Times' OpenAI Lawsuit",
-      "url": "https://variety.com/2026/biz/news/cate-blanchett-hollywood-stars-brief-nyt-openai-lawsuit-1236935578/",
-      "source": "Variety",
-      "published_iso": "2026-10-30T22:52:35+00:00",
-      "excerpt": "The Human Consent Foundation, joined by CAA, the National Association of Voice Actors and a roster of Hollywood stars, filed a 31-page amicus brief arguing an AI-training licensing market for creative work and likenesses already exists.",
-      "og_image": null,
-      "category": "movies"
+      "title": "Netflix will show you themed recommendations through a new 'AI Discover' tab",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-11-03T18:00:00+00:00",
+      "excerpt": "Netflix's new AI Discover tab on TVs groups titles under AI-generated mood themes; The Verge looks at how the interface works and whether it actually helps viewers pick something.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIDiscover-Product-02.jpg?quality=90&strip=all&crop=0%2C3.5340314136126%2C100%2C92.931937172775&w=1200"
+    },
+    {
+      "title": "CAA's Bryan Lourd Discusses AI As Agency Weighs In On NYT Vs. OpenAI Battle",
+      "url": "https://deadline.com/2026/11/bryan-lourd-caa-ai-lawsuit-1237212214/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-11-03T17:26:49+00:00",
+      "excerpt": "CAA filed in the New York Times v. OpenAI copyright case with major stars on board, and co-chairman Bryan Lourd laid out what AI should be allowed to train on and what it should pay for. A new filing, not commentary.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/11/caa-openai.jpg?w=1024"
     },
     {
       "title": "WME Joins New York Times Copyright Battle Against OpenAI",
       "url": "https://deadline.com/2026/11/openai-lawsuit-copyright-wme-nwe-york-times-ai-1237211006/",
       "source": "Deadline",
+      "category": "movies",
       "published_iso": "2026-11-02T14:10:41+00:00",
-      "excerpt": "In an amicus brief filed Oct. 30, WME argues AI use of creative materials should not be stopped but licensed, with compensation and authorization for talent whose work or likeness is used.",
-      "og_image": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1794514589-e1701096953854.jpg?w=1024",
-      "category": "movies"
+      "excerpt": "WME filed in the NYT v. OpenAI case, saying it does not oppose AI but wants licensed, \"ethical & responsible\" AI for its clients and creators.",
+      "og_image": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1794514589-e1701096953854.jpg?w=1024"
+    },
+    {
+      "title": "Cate Blanchett-Backed Group and Hollywood Stars File Brief in New York Times-OpenAI Lawsuit",
+      "url": "https://variety.com/2026/biz/news/cate-blanchett-hollywood-stars-brief-nyt-openai-lawsuit-1236935578/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-30T22:52:35+00:00",
+      "excerpt": "The Human Consent Foundation, a nonprofit backed by Cate Blanchett, and a group of Hollywood stars filed a brief arguing that Hollywood already has \"proven infrastructure\" for licensing content to AI.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/HCF-Signatories.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "title": "Ava DuVernay Defends Using AI in New Doc '14th'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ava-duvernay-defends-using-ai-doc-14th-1236739774/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-10-26T15:00:00+00:00",
+      "excerpt": "DuVernay used AI to animate public-domain archival photos in her birthright-citizenship documentary '14th'. She says no person, avatar or voice was fabricated and that the technique brings viewers closer to history.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2302002182.jpg?crop=0px%2C43px%2C3415px%2C1911px&resize=1440%2C810"
+    },
+    {
+      "title": "iZotope Intros Photon for AI-Powered Stem Separation and Denoising",
+      "url": "https://postperspective.com/izotope-intros-photon-for-ai-powered-stem-separation-and-denoising/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-11-03T17:13:06+00:00",
+      "excerpt": "iZotope's Photon is a standalone app and ARA plugin that separates stems and cleans up dialogue with 12 custom-trained ML models. It runs locally on the GPU, so post-audio teams don't have to upload files.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/Photon-hero-copy.jpg"
+    },
+    {
+      "title": "New iZotope Photon powered by 12 machine-learning models",
+      "url": "https://www.provideocoalition.com/new-izotope-photon-powered-by-12-machine-learning-models/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-11-03T08:15:41-08:00",
+      "excerpt": "PVC's take on iZotope Photon: GPU-accelerated stem separation and denoising for video editors, powered by 12 custom-trained models running on the desktop.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/izotopephoton001.jpg"
+    },
+    {
+      "title": "New AI-Assisted Retopology Software Launches For PC",
+      "url": "https://80.lv/articles/sparseal-releases-ai-assisted-retopology-app-for-pc/",
+      "source": "80 Level",
+      "category": "movies",
+      "published_iso": "2026-11-03T17:02:00+00:00",
+      "excerpt": "Sparseal has released CozyBlanket Pro, an AI-assisted retopology app for Windows and macOS that automates cleaning up 3D meshes, a routine step in modeling pipelines.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50888/images/6aea13a2ccdc1/contain_1200x630.jpg"
+    },
+    {
+      "title": "From AI generation to final cut, Fotor Agent takes on the video production workflow",
+      "url": "https://technode.com/2026/10/22/from-ai-generation-to-final-cut-fotor-agent-takes-on-the-video-production-workflow/",
+      "source": "TechNode",
+      "category": "movies",
+      "published_iso": "2026-10-22T05:47:58+00:00",
+      "excerpt": "Fotor Agent turns a text brief into an organized video project that combines visuals, subtitles, audio and animation. Its editable timeline lets users revise single elements without regenerating the whole clip.",
+      "og_image": "https://technode.com/wp-content/uploads/2026/10/page2.jpg"
+    },
+    {
+      "title": "ByteDance Is Rewiring Its AI Video Bet",
+      "url": "https://technode.com/2026/10/27/bytedance-is-rewiring-its-ai-video-bet/",
+      "source": "TechNode",
+      "category": "movies",
+      "published_iso": "2026-10-27T06:01:45+00:00",
+      "excerpt": "ByteDance's CapCut unit has folded its AI video-creation app Xiaoyunque into Jimeng while keeping Xiaoyunque's agent-style workflow, consolidating its AI video tools for creators.",
+      "og_image": "https://technode.com/wp-content/uploads/2026/10/ByteDance封面-scaled.jpg"
     },
     {
       "title": "China's First AI Feature Earns Just $253,000 In 11 Days",
       "url": "https://www.cartoonbrew.com/box-office-report/sanxingdui-future-past-week-2-box-office-268831.html",
       "source": "Cartoon Brew",
+      "category": "movies",
       "published_iso": "2026-11-02T14:09:35+00:00",
-      "excerpt": "'Sanxingdui: Future Past', billed as China's first fully AI-generated theatrical feature, limped through its second weekend; it reportedly cost $1.5 million and forecasts suggest it won't gross a third of that. (Follow-up to the 10-27 opening-flop story.)",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Sanxingdui-Future-Past.jpg",
-      "category": "movies"
+      "excerpt": "'Sanxingdui: Future Past', China's first fully AI-generated theatrical feature, reportedly cost $1.5 million and grossed just $253,000 in its first 11 days. Forecasts say it won't reach a third of its budget.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Sanxingdui-Future-Past.jpg"
     },
     {
-      "title": "View Conference Was Inspiring: The AI Sales Pitches Were Exhausting (And Occasionally Bullshit)",
-      "url": "https://www.cartoonbrew.com/events/view-conference-ai-sales-pitches-268698.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-10-29T16:56:00+00:00",
-      "excerpt": "At Turin's View Conference, filmmakers shared craft while AI evangelists insisted everyone already uses generative tools; Cartoon Brew reports on the AI pitches from studios and vendors and the pushback from animation artists.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Conference.jpg",
-      "category": "movies"
+      "title": "China's first AI-generated film is a flop. Some still see it as the future of cinema",
+      "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
+      "source": "The Guardian",
+      "category": "movies",
+      "published_iso": "2026-11-03T14:32:54+00:00",
+      "excerpt": "Sanxingdui: Future Past has flopped at the box office, yet Chinese investors and studios keep putting money into AI filmmaking. The Guardian looks at why the industry still sees it as cinema's future.",
+      "og_image": "https://i.guim.co.uk/img/media/0ad0e79a806a919abfc3cd4cc770615dbd933484/250_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=baa7685906950060a4923d5c6d646caf"
     },
     {
-      "title": "After Effects Portal October 2026",
-      "url": "https://www.provideocoalition.com/after-effects-portal-october-2026/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-10-31T11:53:47-07:00",
-      "excerpt": "Monthly After Effects roundup: Artcraft's vibe-coded AE clone EffectCraft paired with AI assistants and MCP, Firefly Boards animation tests versus hand-made AE work, and other AI and third-party motion tools.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/whats-new-contour-paint-effect-after-effects.jpeg",
-      "category": "movies"
+      "title": "SAG-AFTRA Members Ratify TV Animation Contracts",
+      "url": "https://www.awn.com/news/sag-aftra-members-ratify-tv-animation-contracts",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-10-30T05:53:26-07:00",
+      "excerpt": "SAG-AFTRA members ratified both TV animation agreements with the AMPTP by 94.95% to 5.05%, securing a 12.6% wage increase, stronger AI protections for voice actors and better residuals through June 2030.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081673-1017570-sag-aftra.jpg?itok=ZpzkNdHm"
     },
     {
-      "title": "He Didn't Even Do Anything!! (CorridorKey 2.0 neural keyer)",
-      "url": "https://www.youtube.com/watch?v=UutL3FK6Qxs",
-      "source": "Corridor Crew",
-      "published_iso": "2026-10-30T09:00:19-07:00",
-      "excerpt": "Corridor Crew demos CorridorKey 2.0, its neural green/blue-screen keyer now released as a one-purchase plugin for Resolve, Nuke, After Effects, Premiere and Blender (beta pricing to Nov 20, full release Nov 21); built for 400+ VFX shots on 'Son of a Dungeon'.",
-      "og_image": "https://i.ytimg.com/vi/UutL3FK6Qxs/maxresdefault.jpg",
-      "category": "movies"
+      "title": "Hallmark Fans Are Furious Over The Alleged Use Of AI In New Christmas Movie",
+      "url": "https://www.tvline.com/2305320/hallmark-fans-furious-ai-christmas-movie-adopting-st-nick/",
+      "source": "TVLine",
+      "category": "movies",
+      "published_iso": "2026-11-03T16:00:22+00:00",
+      "excerpt": "Viewers of Hallmark's new Christmas movie 'Adopting St. Nick' say its signs and props look AI-generated, which has set off a backlash over AI use in production design.",
+      "og_image": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/l-intro-1793727440.jpg"
     },
     {
-      "title": "Adobe MAX 2026 preview: keynotes and Sneaks",
-      "url": "https://www.redsharknews.com/adobe-max-2026-preview-miami-beach",
-      "source": "RedShark News",
-      "published_iso": "2026-10-31T14:15:55+00:00",
-      "excerpt": "Adobe MAX 2026 runs Nov 10-12 in Miami Beach; RedShark previews keynote times, Sneaks and the standout video and audio sessions, where Firefly and Premiere AI updates are expected.",
-      "og_image": "https://www.redsharknews.com/hubfs/adobe%20max-2.jpg",
-      "category": "movies"
+      "title": "Expression Sheet - Luma",
+      "url": "https://www.youtube.com/watch?v=MZ-1e4uYEiA",
+      "source": "Luma (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-11-02T18:43:45-08:00",
+      "excerpt": "Luma launched Expression Sheet, a feature that lets creators explore the range of a character's facial performance across many expressions before committing to a direction.",
+      "og_image": "https://i.ytimg.com/vi/MZ-1e4uYEiA/maxresdefault.jpg"
     },
     {
-      "title": "영화 각본도 챗GPT가 쓴다…일본, 전편 생성형 AI 장편영화 2027년 공개",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42538",
-      "source": "인공지능신문",
-      "published_iso": "2026-11-02T11:41:08+09:00",
-      "excerpt": "Japanese producers (Oxons, Tender Pro) announced 'Jikū Yūkaku Labyrinth', a feature made entirely with generative AI -- ChatGPT-written script, AI-recreated likenesses of three real actors, Suno theme song -- slated for 2027. Off-list: no allowed-domain coverage found.",
-      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "대전 2인 제작진의 AI 영화, 뉴욕 영화제 수상…인간이 연출하고 AI가 영상 구현",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42541",
-      "source": "인공지능신문",
-      "published_iso": "2026-11-02T12:49:54+09:00",
-      "excerpt": "Daejeon two-person Studio UNMU's 11-minute AI sci-fi short 'LAST CALL' won an Honorable Mention for Best AI-Generated or Assisted Film at New York's 30th Urbanworld Film Festival; humans scripted, directed, edited and mixed while generative AI rendered the imagery. Off-list.",
-      "og_image": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-      "category": "movies"
-    },
-    {
-      "title": "iQIYI opens AI film studio in Shanghai, starts first production",
-      "url": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
-      "source": "China Daily",
-      "published_iso": "2026-11-02T11:36:11+08:00",
-      "excerpt": "iQIYI opened an AI film studio at its Shanghai Creative Center and began production of its first project there, the internet feature film 'Cop in Trouble' (announced Oct 28). Off-list: technode.com had no coverage.",
-      "og_image": null,
-      "category": "movies"
-    },
-    {
-      "title": "Idris Elba, Google launch free AI filmmaking programme in five African countries",
-      "url": "https://www.vanguardngr.com/2026/11/idris-elba-google-launch-free-ai-filmmaking-programme-in-five-african-countries/",
-      "source": "Vanguard",
-      "published_iso": "2026-11-01T23:28:00+00:00",
-      "excerpt": "Akuna Learning, from Idris Elba's Akuna Group, and Google opened applications for a free AI filmmaking programme with production funding for emerging creators in five African countries (applications to Nov 15). Off-list: no allowed-domain coverage found.",
-      "og_image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-      "category": "movies"
-    },
-    {
-      "title": "AI Film Festival Japan Draws 730 Entries From More Than 60 Countries",
-      "url": "https://newsonjapan.com/article/151213.php",
-      "source": "News On Japan",
-      "published_iso": "2026-11-01T16:01:00+00:00",
-      "excerpt": "AI Film Festival Japan 2026 (Oct 31-Nov 2, Tokyo Innovation Base) drew 730+ entries from 60+ countries, screened 68 and named winners at its Nov 1 ceremony, including NTV AX-ON's Ayano Kotakagari in a new AI Film Music category. Off-list; grand prix not named in article. Date from page (Nov 02 JST) / feed time.",
-      "og_image": null,
-      "category": "movies"
+      "title": "AI가 만든 '임권택 스타일' 영화 공개…대한민국예술원 영화전",
+      "url": "https://www.yna.co.kr/view/AKR20261102043400005",
+      "source": "연합뉴스",
+      "category": "movies",
+      "published_iso": "2026-11-02T09:44:03+09:00",
+      "excerpt": "대한민국예술원 영화전(11월 5~6일, 서울영화센터)에서 AI가 임권택 감독의 영화를 학습한 뒤 그 스타일로 연출한 단편 '확인'이 처음 공개된다. 중단편 AI 영화 우수작 8편도 상영한다.",
+      "og_image": null
     }
   ]
 }

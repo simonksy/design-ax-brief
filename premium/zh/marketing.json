@@ -3301,6 +3301,134 @@
           "x": "Performance Max还新增年龄和性别定向、搜索词与竞价洞察报告，以及受众排除试点；搜索词着陆页报告将于11月中旬(mid-November)开始推出。Conversions API现已全面上线，合作伙伴包括Adobe Real-Time CDP、Segment by Twilio、Tealium和Zeotap。"
         }
       ]
+    },
+    "marketing/digiday-google-ai-search-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/03/google-pitch-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10月28日，Google母公司Alphabet公布，其搜索查询量的年增速创五年来最快，Q3总营收接近$127.6B ，同比增长25%。"
+        },
+        {
+          "t": "p",
+          "x": "然而深入分析会发现一个更令人担忧的趋势：搜索的人更多了，但Google的AI-driven搜索体验尚未以与传统搜索相同的速度产生广告收入。“Search & other”营收增长12%，达到$63.35B ，首席商务官Philipp Schindler承认，AI Mode相对有限的变现能力是增长放缓的原因之一。"
+        },
+        {
+          "t": "p",
+          "x": "10月29日，Alphabet股价下跌约12.6%，市值蒸发近$500B 。Sundar Pichai对分析师表示，AI Mode的查询平均长度是传统搜索的三倍，约五分之一涉及语音、图像或文档。"
+        },
+        {
+          "t": "p",
+          "x": "高管暗示，Google正在国际市场扩大AI Mode内的广告，并在U.S.推出多轮对话广告。与此同时，Google Network营收小幅增长1.4%，流量获取成本达到$16.4B 。"
+        }
+      ]
+    },
+    "marketing/sej-shopify-claude-shopping-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png"
+        },
+        {
+          "t": "p",
+          "x": "三款Claude模型从同样的20件Shopify商品中挑选了1,980次，最常被选中的商品从未一致。每次搜索都通过Shop MCP运行一次，这是Shopify于10月13日向AI智能体开放的连接；三款模型分别是Claude Haiku 4.5、Sonnet 5和Opus 5。"
+        },
+        {
+          "t": "p",
+          "x": "在六项商品搜索中，三款模型最常选中的商品没有一次相同。每款模型自身都很一致：Sonnet最常选中的商品平均占其选择的94%，Opus为89%，Haiku为67%。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-grid-471.png"
+        },
+        {
+          "t": "p",
+          "x": "Haiku和Sonnet选择了评论最多的商品，其中包括一款标注为5.0星、拥有447,221条评论的水瓶，约为nobl商品页面所显示数量的68倍。在300次选择中，Opus 5有222次称自己的选择“safe”（安全）或“safest”（最安全）。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-safe-6.png"
+        },
+        {
+          "t": "p",
+          "x": "把目录中的首选商品从第一位移到最后一位后，模型在部分搜索中几乎不再选它；而在480条理由中，没有一条提到商品在列表中的位置。当请求加上“$25以下，适合油性皮肤”时，模型在300次中有298次选了$25以下的防晒霜。"
+        }
+      ]
+    },
+    "marketing/ppcland-google-ai-query-length": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google的Ads Decoded播客于10月28日发布了一期25-minute的节目，Google搜索数据科学与用户体验研究副总裁Shivani Mohan在节目中表示，查询长度“增长了3x”，并且“每六次搜索中就有一次是多模态的”。"
+        },
+        {
+          "t": "p",
+          "x": "主持人、Google广告产品联络人Ginny Marvin表示，AI Mode和AI Overviews中的广告会“同时根据查询和AI回答的内容进行匹配”，并向零售商推荐了六个可选商品数据字段，即Merchant Center新的对话式属性。"
+        },
+        {
+          "t": "p",
+          "x": "这两个数字都没有给出市场、时间段或基准。Google在5月19日的报告中称，AI Mode查询的平均长度是传统搜索查询的三倍，并称在美国（United States），超过六分之一的AI Mode搜索是多模态的。两位发言人在给出数字时都没有提到AI Mode或美国。"
+        },
+        {
+          "t": "p",
+          "x": "Mohan表示查询正在“向漏斗上游移动”，Marvin则建议广告主“在最后点击行为之外”重新校准搜索。该期节目没有提供任何一个AI界面的广告效果数据：没有点击率，没有转化率，也没有与标准结果页广告的成本比较。"
+        }
+      ]
+    },
+    "marketing/retaildive-ai-recs-returns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/iKMVyWYQ4z3_JFG5DayuO4DrSYsGLclSkA_ngMWVPfw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ5MzM2NzkyX0RPaHZuY0UuanBn.webp"
+        },
+        {
+          "t": "p",
+          "x": "根据Blue Yonder的一项调查，近四分之一的U.S.消费者曾根据AI推荐购买商品。其中近一半（46%）在过去一年里退过货。最常见的原因是商品与描述不符（36%）或尺码、版型不合适（23%）。"
+        },
+        {
+          "t": "p",
+          "x": "虽然尺码或版型不合适是U.S.整体退货中最常见的因素（42%），但AI-recommended商品最常被提及的问题是商品达不到描述的水平。"
+        },
+        {
+          "t": "p",
+          "x": "“这其实不是AI的问题，而是数据的问题，”Blue Yonder CEO Duncan Angove表示，“AI助手的水平取决于它能找到的商品信息，而大多数商品数据是为搜索栏编写的，而不是为向人推荐商品的机器编写的。”"
+        },
+        {
+          "t": "p",
+          "x": "在接受调查的2,000名U.S.购物者中，43%的Gen Z曾根据AI推荐购买商品，千禧一代为36%，Gen X为19%，婴儿潮一代为9%。超过一半（51%）的人表示，曾仅仅因为退货政策更好而选择一家零售商而非另一家。"
+        }
+      ]
+    },
+    "marketing/sej-chatgpt-ad-revenue-per-visit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maximilian Kaiser和Christian Schulze的一篇工作论文显示，在U.S.流量中，来自ChatGPT广告的每次访问带来$0.89收入，而来自Google付费搜索广告的每次访问带来$2.45。其中付费广告数据来自102个完整追踪销售的广告主网站。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT广告访问的转化率为0.37%，付费搜索为1.17%。在两种广告都购买的87家广告主中，84家的ChatGPT广告每次访问收入更低；73家通过ChatGPT广告的销售为零，其余14家贡献了全部570笔ChatGPT广告购买。"
+        },
+        {
+          "t": "p",
+          "x": "按付费搜索的回报率计算，作者估计每次ChatGPT广告点击的价值约为$0.26(重抽样区间为$0.05至$0.57)。已知公开的最大账户每次点击支付$1.72，是对等价格的六倍多。"
+        },
+        {
+          "t": "p",
+          "x": "广告上线后，ChatGPT的自然推荐流量估计下降了6%–8%。论文数据截至8月22日；此后OpenAI已将ChatGPT Ads扩展到89个国家，并称已有超过100,000家广告主投放过广告活动。"
+        }
+      ]
     }
   }
 }

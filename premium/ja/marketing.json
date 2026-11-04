@@ -3301,6 +3301,134 @@
           "x": "Performance Maxには年齢・性別ターゲティング、検索語句とオークション分析のレポート、オーディエンス除外のパイロットも加わる。検索語句のランディングページレポートは11月中旬(mid-November)に展開が始まる。Conversions APIは一般提供となり、パートナーにはAdobe Real-Time CDP、Segment by Twilio、Tealium、Zeotapなどが名を連ねる。"
         }
       ]
+    },
+    "marketing/digiday-google-ai-search-revenue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/03/google-pitch-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10月28日、Googleの親会社Alphabetは、検索クエリの伸びが年間ベースで過去五年で最速になったと発表した。Q3の総売上高は前年同期比25%増の$127.6B 近くに達した。"
+        },
+        {
+          "t": "p",
+          "x": "しかし詳しく見ると、より懸念すべき傾向が浮かぶ。検索する人は増えているが、GoogleのAI-driven検索体験は、従来の検索と同じペースではまだ広告収入を生んでいない。「Search & other」の売上高は12%増の$63.35B で、最高ビジネス責任者のPhilipp Schindlerは、AI Modeの収益化が比較的限られていることが減速の一因になったと認めた。"
+        },
+        {
+          "t": "p",
+          "x": "Alphabetの株価は10月29日に約12.6%下落し、時価総額の$500B 近くが消えた。Sundar Pichaiはアナリストに対し、AI Modeのクエリは従来の検索より平均で三倍長く、約五件に一件が音声、画像、文書を伴うと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "経営陣は、GoogleがAI Mode内の広告を海外へ広げ、U.S.でマルチターン広告を導入していることを示唆した。一方、Google Networkの売上高は1.4%の小幅増にとどまり、トラフィック獲得コストは$16.4B に達した。"
+        }
+      ]
+    },
+    "marketing/sej-shopify-claude-shopping-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png"
+        },
+        {
+          "t": "p",
+          "x": "Claudeの三つのモデルが同じShopifyの20商品から1,980回選んだが、最も多く選ばれた商品は一度も一致しなかった。各検索は、Shopifyが10月13日にAIエージェント向けに開放した接続であるShop MCPを通じて一度ずつ実行し、モデルはClaude Haiku 4.5、Sonnet 5、Opus 5だった。"
+        },
+        {
+          "t": "p",
+          "x": "六つの商品検索で、三モデルの最多選択商品が一致したものはなかった。各モデルは自分の中では一貫しており、Sonnetの最多選択商品は平均で選択の94%、Opusは89%、Haikuは67%を占めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-grid-471.png"
+        },
+        {
+          "t": "p",
+          "x": "HaikuとSonnetはレビュー数が最も多い商品を選んだ。その中には447,221件のレビューで星5.0と表示された水筒もあり、これはnoblの商品ページに表示される件数の約68倍だった。Opus 5は300回の選択のうち222回、自らの選択を「safe（安全）」または「safest（最も安全）」と表現した。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/2026-10-24-agent-picks-safe-6.png"
+        },
+        {
+          "t": "p",
+          "x": "カタログの首位商品を先頭から末尾に移すと、一部の検索ではモデルがほぼ選ばなくなったが、480件の理由のうちリスト内の位置に触れたものは一つもなかった。依頼に「$25未満、脂性肌向け」を加えると、モデルは300回中298回、$25未満の日焼け止めを選んだ。"
+        }
+      ]
+    },
+    "marketing/ppcland-google-ai-query-length": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GoogleのポッドキャストAds Decodedは10月28日、25-minuteのエピソードを公開した。その中でGoogleの検索部門データサイエンス・ユーザー体験リサーチ担当バイスプレジデント、Shivani Mohanは、クエリの長さが「3x増えた」とし、「検索の六件に一件はマルチモーダルだ」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "ホストを務めるGoogleの広告プロダクト・リエゾン、Ginny Marvinは、AI ModeとAI Overviewsの広告は「クエリとAIの回答内容の両方にマッチングされる」と述べ、小売業者に対し、Merchant Centerの新しい会話型属性である六つの任意の商品データ項目を案内した。"
+        },
+        {
+          "t": "p",
+          "x": "どちらの数字にも、市場、期間、比較の基準は示されなかった。Googleの5月19日の報告では、AI Modeのクエリは平均で従来の検索クエリの三倍の長さで、United States（米国）のAI Mode検索の六件に一件以上がマルチモーダルだとしていた。二人とも数字を挙げる際にAI Modeや米国には触れなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Mohanはクエリが「ファネルの上流へ移っている」と述べ、Marvinは広告主に検索を「ラストクリックのアクション以外で」捉え直すよう促した。エピソードでは、いずれのAI面の広告についても成果データは示されず、クリック率も、コンバージョン率も、通常の検索結果ページの広告とのコスト比較もなかった。"
+        }
+      ]
+    },
+    "marketing/retaildive-ai-recs-returns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/iKMVyWYQ4z3_JFG5DayuO4DrSYsGLclSkA_ngMWVPfw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ5MzM2NzkyX0RPaHZuY0UuanBn.webp"
+        },
+        {
+          "t": "p",
+          "x": "Blue Yonderの調査によると、U.S.の消費者の四分の一近くがAIの推奨に基づいて商品を購入したことがある。そのうち半数近く（46%）が過去一年に商品を返品していた。最も多い理由は、説明と違っていた（36%）、サイズやフィットが合わなかった（23%）だった。"
+        },
+        {
+          "t": "p",
+          "x": "U.S.の返品全般では、サイズやフィットの不一致が最も多い要因（42%）だが、AI-recommendedの商品で最も多く挙げられた問題は、商品が説明どおりではないことだ。"
+        },
+        {
+          "t": "p",
+          "x": "「それは実のところAIの問題ではない。データの問題だ」とBlue YonderのCEO、Duncan Angoveは語った。「AIアシスタントの良し悪しは、見つけられる商品情報で決まる。そしてほとんどの商品データは、誰かに商品を提案する機械のためではなく、検索バーのために書かれている」"
+        },
+        {
+          "t": "p",
+          "x": "調査対象のU.S.の買い物客2,000人のうち、AIの推奨に基づいて商品を買ったのはGen Zで43%、ミレニアル世代で36%、Gen Xで19%、ベビーブーマーで9%だった。半数以上（51%）が、返品ポリシーがより良いという理由だけで、ある小売業者を別の業者より選んだことがあると答えた。"
+        }
+      ]
+    },
+    "marketing/sej-chatgpt-ad-revenue-per-visit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maximilian KaiserとChristian Schulzeのワーキングペーパーによると、U.S.のトラフィックでは、ChatGPT広告経由の訪問あたりの売上が$0.89だったのに対し、Googleの有料検索広告経由では$2.45だった。有料広告の数値は、売上を完全に追跡している広告主サイト102件から得たものだ。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT広告経由の訪問のコンバージョン率は0.37パーセントで、有料検索の1.17パーセントを下回った。両方を購入した広告主87社のうち84社は、ChatGPT広告の訪問あたり収益の方が低かった。73社はChatGPT広告による売上がゼロで、残る14社がChatGPT広告経由の購入570件すべてを生み出した。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは有料検索の収益率に照らし、ChatGPT広告のクリック価値を約$0.26(リサンプリングによる範囲は$0.05から$0.57)と見積もる。公に知られる最大のアカウントはクリック単価$1.72を支払っており、これは同等価格の六倍を超える。"
+        },
+        {
+          "t": "p",
+          "x": "広告の導入後、ChatGPTからのオーガニックな参照流入は推定6%–8%減った。論文のデータは8月22日までのものだ。OpenAIはその後ChatGPT Adsを89カ国に拡大し、100,000社を超える広告主がキャンペーンを実施したとしている。"
+        }
+      ]
     }
   }
 }

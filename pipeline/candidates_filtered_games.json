@@ -1,189 +1,45 @@
 {
   "section": "games",
-  "now_iso": "2026-11-02T22:04:00Z",
+  "now_iso": "2026-11-03T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
-      "source": "PC Gamer",
+      "title": "New AI-Assisted Retopology Software Launches For PC",
+      "url": "https://80.lv/articles/sparseal-releases-ai-assisted-retopology-app-for-pc/",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-11-02T17:55:20Z",
-      "excerpt": "Embark executive producer Aleksander Grøndal says criticism of Arc Raiders' AI text-to-speech voices was 'really fair' but recording every line was 'too impractical'; the studio has since re-recorded lines to add more real human voices.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1920-80.jpg",
+      "published_iso": "2026-11-03T17:02:00+00:00",
+      "excerpt": "Sparseal released CozyBlanket Pro for Windows and macOS, an AI-assisted retopology app whose on-device models analyze high- and low-poly meshes and suggest topology improvements in real time, fully offline.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50888/images/6aea13a2ccdc1/contain_1200x630.jpg"
+    },
+    {
+      "title": "How Tripo P2.0 & Astra Work Together in Blender and Unity",
+      "url": "https://80.lv/articles/how-tripo-p2-0-astra-work-together-in-blender-and-unity",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-10-23T13:15:00+00:00",
+      "excerpt": "Tripo's team explains how its P2.0 3D-native foundation model and Astra agent chain asset generation with assembly, rigging, animation and Blender/Unity integration, and where human art direction and QC still matter (vendor interview).",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50386/images/6ada9dc6ed2d2/contain_1200x630.jpg"
+    },
+    {
+      "title": "Viral Haystack Game Dev Finds Creative Way To Mock AI Clones",
+      "url": "https://80.lv/articles/dev-of-viral-needle-in-a-haystack-game-finds-creative-way-to-mock-ai-clones",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-10-29T09:36:00+00:00",
+      "excerpt": "The developer of a viral needle-in-a-haystack indie game answered the wave of AI-generated clones with a creative jab, as Valve addressed genAI cloning at Steam Indie Connect in Korea.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50825/images/6ae313949b683/contain_1200x630.jpg"
+    },
+    {
+      "title": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+      "url": "https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-11-03T10:12:22.699102+00:00",
+      "excerpt": "itch.io will add site-wide genAI disclosures and let users filter AI-disclosed games out of search results, admitting its previous system was 'critically lacking' after uploads exploded.",
+      "og_image": "https://assetsio.gnwcdn.com/itch-AI-filter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "history_match": {
-        "score": 0.166,
-        "date": "2026-10-23",
-        "url": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
-        "title": "\"Someone's getting fired\": Arc Raiders player says Embark used ChatGPT to respond to their complaint and accidentally sent several messages intended for others",
-        "band": "related"
-      }
-    },
-    {
-      "title": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-24T14:30:20Z",
-      "excerpt": "Paolo Pedercini (Molleindustria) removed several AI-generated text-to-speech voice lines from his ecosocialist satire Future? No Thanks! after backlash over undisclosed genAI use (TTS voices and Suno music loops).",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/J2SZTYU49FSR6FCXmQ3dv9-1920-80.jpg",
-      "history_match": {
-        "score": 0.241,
-        "date": "2026-10-22",
-        "url": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
-        "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
-        "band": "related"
-      }
-    },
-    {
-      "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
-      "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-27T00:18:15Z",
-      "excerpt": "Valve's list of the 50 most-played demos from an 8,000-demo Steam Next Fest shows only four declaring generative AI use, suggesting players are largely passing over overt genAI games.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/go39hWDEGCotfQFaMgkWDo-1200-80.png",
-      "history_match": {
-        "score": 0.331,
-        "date": "2026-10-20",
-        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-        "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
-        "band": "related"
-      }
-    },
-    {
-      "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
-      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
-      "source": "Road to VR",
-      "category": "games",
-      "published_iso": "2026-11-02T10:39:00+00:00",
-      "excerpt": "VRChat is facing a sizable user backlash after deciding not to label AI-generated content, following a survey earlier this month asking users whether the social VR platform should.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg",
-      "history_match": {
-        "score": 0.17,
-        "date": "2026-10-08",
-        "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
-        "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Nearly 50 percent of all of last month's Steam releases admit to containing AI slop",
-      "url": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-11-02T17:43:18+00:00",
-      "excerpt": "An analysis of Steam release data posted to r/Steam finds 49.9% of games released in October 2026 disclosed AI-generated content, up from 26.4% a year earlier and 1.7% when the disclosure field launched in January 2024.",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-      "history_match": {
-        "score": 0.162,
-        "date": "2026-10-11",
-        "url": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
-        "title": "New MMO Aion 2 soars on Steam with nearly 400,000 concurrent players despite mixed reviews grilling AI slop and pay-to-win shop",
-        "band": "related"
-      }
-    },
-    {
-      "title": "NVIDIA DLSS 5 In Mario Kart World Shows A Glimpse Of The Future, As Nintendo Switch 2 Emulated Game Looks Almost Like An Animated Movie",
-      "url": "https://wccftech.com/nvidia-dlss-5-mario-kart-world-future-nintendo-switch-2-emulated/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-02T10:40:03+00:00",
-      "excerpt": "An emulated Mario Kart World running on PC with NVIDIA DLSS 5 neural rendering looks close to an animated film, previewing how neural rendering can restyle a game's art direction.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Mario-Kart-World-NVIDIA-DLSS-5-1920x1078.jpg",
-      "history_match": {
-        "score": 0.259,
-        "date": "2026-10-23",
-        "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-        "title": "Someone hacked the Switch 2 by using an old game and AI",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Phantom Blade Zero Has Been Out For Less Than 1 Day, Yet First Mods Adding NVIDIA DLSS 5 Support and Gameplay Tweaks Have Already Dropped",
-      "url": "https://wccftech.com/phantom-blade-zero-out-less-1-day-first-mods-nvidia-dlss-5-gameplay-tweaks/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-10-29T10:35:59+00:00",
-      "excerpt": "Within a day of Phantom Blade Zero's PC launch, modders injected NVIDIA DLSS 5 neural rendering support alongside difficulty-tuning tweaks.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Phantom-Blade-Zero-NVIDIA-DLSS-5-1920x1080.jpg",
-      "history_match": {
-        "score": 0.173,
-        "date": "2026-10-09",
-        "url": "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
-        "title": "Original DOOM Gets NVIDIA DLSS 5 Neural Rendering Through a Custom DirectX 12 Port",
-        "band": "related"
-      }
-    },
-    {
-      "title": "콘진원, 'AI 게임랩 데이 2026' 개최&hellip;게임 개발 AI 활용 사례 공유",
-      "url": "https://www.inews24.com/view/2021651",
-      "source": "inews24",
-      "category": "games",
-      "published_iso": "2026-11-02T15:39:03+09:00",
-      "excerpt": "콘진원이 11월 12일 판교에서 'AI 게임랩 데이 2026'을 열어 송재경 등 개발자의 AI 활용 게임 제작·엔진 사례 강연과 중소 게임사 대상 일대일 기술 상담을 진행한다.",
-      "og_image": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg"
-    },
-    {
-      "title": "Introducing the official Unity plugin for Antigravity",
-      "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-10-29T11:50:14-07:00",
-      "excerpt": "Unity's official plugin is now live in Google Antigravity's plugin marketplace, connecting the Unity Editor to Antigravity's agentic workflows in one click so developers can request Unity work in plain language.",
-      "og_image": "https://i.ytimg.com/vi/gobNINSU3JE/maxresdefault.jpg"
-    },
-    {
-      "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
-      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-26T16:30:08+00:00",
-      "excerpt": "Kotaku examines how publishers that embraced AI tools are reacting as Claude-driven decompilations, vibe-coded browser ports and PC recomps flood out, with Microsoft and Epic now framing AI copying as theft.",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Master-Chief-Fortnite-trailer-Epic-Games-Xbox-1200x675.jpg",
-      "history_match": {
-        "score": 0.256,
-        "date": "2026-10-15",
-        "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-        "title": "Epic’s new games launcher is ‘vibe coded’",
-        "band": "related"
-      }
-    },
-    {
-      "title": "As EA kills Mass Effect 5, BioWare co-founder slams \"weird belief\" you can \"recreate great games with random people and AI\" – \"It doesn't work\"",
-      "url": "https://www.gamesradar.com/games/as-ea-kills-mass-effect-5-bioware-co-founder-slams-weird-belief-you-can-recreate-great-games-with-random-people-and-ai-it-doesnt-work/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-29T11:33:54Z",
-      "excerpt": "BioWare co-founder Greg Zeschuk criticizes the executive belief that great games can be recreated 'with random people and AI' as EA shutters BioWare.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Tj2f4GGhF5bAFS8H4XXQ9-1920-80.jpg"
-    },
-    {
-      "title": "Valve veteran says Steam is \"overwhelmed with slop and AI crap\" in Next Fest event, fears PC becoming more like mobile: \"This is the thing that I'm worried about more than anything\"",
-      "url": "https://www.gamesradar.com/games/valve-veteran-says-steam-is-overwhelmed-with-slop-and-ai-crap-in-next-fest-event-fears-pc-becoming-more-like-mobile-this-is-the-thing-that-im-worried-about-more-than-anything/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-26T15:08:00Z",
-      "excerpt": "A Valve veteran says Steam Next Fest is overwhelmed with AI-made slop and worries PC discovery is drifting toward mobile-store dynamics.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/bu9uXWDTCADvMFjdW5Psi3-1920-80.png",
-      "history_match": {
-        "score": 0.298,
-        "date": "2026-10-20",
-        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-        "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Gaming storefronts are facing a Slop Grenade problem | Opinion",
-      "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-10-30T12:00:00+00:00",
-      "excerpt": "GamesIndustry.biz opinion piece arguing that gaming storefronts face a 'slop grenade' problem as generative AI floods them with low-effort games.",
-      "og_image": "https://assetsio.gnwcdn.com/steam_ROoZJs3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "history_match": {
-        "score": 0.229,
+        "score": 0.161,
         "date": "2026-11-02",
         "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
         "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
@@ -191,25 +47,220 @@
       }
     },
     {
-      "title": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\"",
-      "url": "https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+      "title": "Itch Removes ‘A Couple Terabytes’ Of AI Slop, Updates Filtering To Stem Tide Of Garbage Flood",
+      "url": "https://aftermath.site/itch-io-removes-terabytes-ai-slop/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-11-03T22:29:58.000Z",
+      "excerpt": "itch.io deleted 'a couple terabytes' of AI-generated uploads, many of them poorly optimized AI models, and updated its filtering to stem the flood of genAI projects.",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+      "history_match": {
+        "score": 0.23,
+        "date": "2026-11-02",
+        "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+        "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Indie game website itch.io expands its \"critically lacking\" AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+      "url": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-11-03T12:03:56.858450+00:00",
+      "excerpt": "itch.io expands its AI disclosure filter, shortly after revealing daily new game pages doubled in two months as AI-made projects swamp storefronts.",
+      "og_image": "https://assetsio.gnwcdn.com/itch-logo-black-new-svg.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.445,
+        "date": "2026-11-02",
+        "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+        "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
       "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-10-23T10:51:01.592654+00:00",
-      "excerpt": "A Star Trek Online executive criticizes publishers that close experienced teams like BioWare in favour of start-ups and AI 'magic beans'.",
-      "og_image": "https://assetsio.gnwcdn.com/mass-effect-miranda-loyalty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "published_iso": "2026-11-03T21:41:08.091733+00:00",
+      "excerpt": "Food Devils' developers delayed launch, saying Steam's review queue is clogged by a flood of genAI submissions, a sign AI slop is now affecting release schedules for human-made games.",
+      "og_image": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
+      "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-21T08:40:54.134441+00:00",
+      "excerpt": "A Vivrato survey finds 97% of studio leaders in the EU and North America use AI in development, with 94% applying it across the nine stages of game production.",
+      "og_image": "https://assetsio.gnwcdn.com/fotis-fotopoulos-DuHKoV44prg-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.211,
+        "date": "2026-10-21",
+        "url": "https://gamesbeat.com/adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai-in-gaming-exclusive/",
+        "title": "Adam Boyes' Vivrato issues report based on 101 game leaders' views on AI in gaming",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
+      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-26T08:40:16.970509+00:00",
+      "excerpt": "Total War VP Roger Collum says the AI-upscaled Shogun 2 Complete Edition, pulled from sale over generative AI concerns, was externally developed and skipped Creative Assembly's internal QA.",
+      "og_image": "https://assetsio.gnwcdn.com/Total-War-Shogun-2-Complete-Edition_KL4qx2j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.484,
+        "date": "2026-10-16",
+        "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
+        "title": "Sega's Total War: Shogun 2 Remake Is Such A Disaster It's Being Pulled From Sale",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\"",
+      "url": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-26T19:54:19.065819+00:00",
+      "excerpt": "Tim Sweeney again attacked Steam's AI content disclosure requirement, calling it 'a political act' that hands developers' tool choices to hostile audiences.",
+      "og_image": "https://assetsio.gnwcdn.com/Tim_Sweeney_P7vsPEF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.308,
+        "date": "2026-10-24",
+        "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
+        "title": "Still mad at Valve for Steam's AI disclosures, Epic Games boss criticizes \"forcing developers to write a political statement to be used against them by the hate mob\"",
+        "band": "related"
+      }
+    },
+    {
+      "title": "94% of Game Studios Use AI But Rate Their Integration 3/10, And That Gap Is Why “Made With AI” Labels Are Already Meaningless",
+      "url": "https://wccftech.com/94-percent-game-studios-use-ai-integration-labels-meaningless-sweeney/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-11-03T18:00:00+00:00",
+      "excerpt": "Studio data shows 94% of game studios use AI but rate their integration just 3/10, which Wccftech argues makes blanket 'Made with AI' labels meaningless.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Tim-Sweeney-Steam-AI-Gaming-1920x1080.jpg"
+    },
+    {
+      "title": "War Thunder Is Getting NVIDIA DLSS 5 Neural Rendering In Mid-November, Hitting Up To 400 FPS At 4K With 6X Multi Frame Generation",
+      "url": "https://wccftech.com/war-thunder-dlss-5-neural-rendering-4k-400-fps/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-11-03T14:00:00+00:00",
+      "excerpt": "War Thunder gets official DLSS 5 3D-guided neural rendering in mid-November, alongside Hogwarts Legacy and Where Winds Meet, hitting up to 400 fps at 4K with 6X multi frame generation.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/DLSS5-Games-KV-1920x1080.jpg",
+      "history_match": {
+        "score": 0.336,
+        "date": "2026-10-25",
+        "url": "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/",
+        "title": "NVIDIA RTX Remix 1.6 Launches With DLSS 5, 6X Multi Frame Generation, Minecraft Java Edition Support, And More",
+        "band": "related"
+      },
+      "cluster": "c11"
+    },
+    {
+      "title": "How Gaijin Tuned DLSS 5 for War Thunder",
+      "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
+      "source": "NVIDIA",
+      "category": "games",
+      "published_iso": "2026-11-03T06:00:00-08:00",
+      "excerpt": "Gaijin's War Thunder art director Kirill Stupin explains how the team integrated DLSS 5 into the Dagor Engine color pipeline, made color management invertible, and tuned the neural renderer so markings, wear and materials stay faithful to the original art.",
+      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
+    },
+    {
+      "title": "Hogwarts Legacy Adds DLSS 5 on Nov 5",
+      "url": "https://www.nvidia.com/en-us/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/",
+      "source": "NVIDIA",
+      "category": "games",
+      "published_iso": "2026-11-03T06:00:00-08:00",
+      "excerpt": "Hogwarts Legacy updates to DLSS 5 on November 5 with developer-tuned lifelike lighting and materials, powered by a 2X faster AI model, with War Thunder and Where Winds Meet following this month.",
+      "og_image": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering-ogimage.jpg",
+      "history_match": {
+        "score": 0.457,
+        "date": "2026-10-14",
+        "url": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
+        "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+      "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+      "source": "NVIDIA Developer",
+      "category": "games",
+      "published_iso": "2026-10-27T17:00:00+00:00",
+      "excerpt": "NVIDIA's technical blog details how game developers can use RTX Spark for neural rendering (DLSS Super Resolution, Ray Reconstruction, Multi Frame Generation, 3D-Guided Neural Rendering) and on-device AI characters.",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2.webp",
+      "history_match": {
+        "score": 0.308,
+        "date": "2026-10-16",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+        "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+        "band": "related"
+      },
+      "cluster": "c11"
+    },
+    {
+      "title": "Playgama launches AI Game Index to rank coding agents by real player engagement",
+      "url": "https://gamesbeat.com/playgama-launches-ai-game-index-to-rank-coding-agents-by-real-player-engagement/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-10-29T13:00:00+00:00",
+      "excerpt": "Playgama's first AI Game Index ranks models by real player engagement across 4,200 AI-made games: Claude Opus builds 54% of new games, but OpenAI's Astra makes the ones players like most.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png",
+      "history_match": {
+        "score": 0.214,
+        "date": "2026-10-15",
+        "url": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
+        "title": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
+      "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-10-22T21:39:30Z",
+      "excerpt": "Epic announced the November Epic AI MegaJam with $50k in prizes that originally required AI use, then walked back the requirement to 'highly encouraged' after backlash.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kcoLy3wUGtqe8Xvfo3fa5U-1990-80.jpg",
+      "history_match": {
+        "score": 0.263,
+        "date": "2026-10-23",
+        "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+        "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+        "band": "related"
+      }
+    },
+    {
+      "title": "크래프톤, K팝 AI 캐릭터 챗 서비스 '키프' 선보여",
+      "url": "https://www.inews24.com/view/2021644",
+      "source": "아이뉴스24",
+      "category": "games",
+      "published_iso": "2026-11-02T15:31:50+09:00",
+      "excerpt": "크래프톤이 K팝 AI 캐릭터 챗 서비스 '키프(Kiff)'를 국내 출시했다. 첫 아티스트 피프티피프티 멤버들이 직접 구상한 캐릭터 '웨니'와 K팝을 주제로 대화할 수 있다.",
+      "og_image": "https://image.inews24.com/v1/c1bb7787eb9343.jpg"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 14,
+    "dropped": 2,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 10,
-    "same_story_pairs": []
+    "review": 11,
+    "same_story_pairs": [
+      [
+        "https://wccftech.com/war-thunder-dlss-5-neural-rendering-4k-400-fps/",
+        "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+        0.343
+      ]
+    ]
   },
   "history_digest": [
     {
@@ -861,6 +912,31 @@
       "date": "2026-11-02",
       "title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
       "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
+      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Nearly 50 percent of all of last month's Steam releases admit to containing AI slop",
+      "url": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "콘진원, 'AI 게임랩 데이 2026' 개최…게임 개발 AI 활용 사례 공유",
+      "url": "https://www.inews24.com/view/2021651"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Introducing the official Unity plugin for Antigravity",
+      "url": "https://www.youtube.com/watch?v=gobNINSU3JE"
     }
   ]
 }

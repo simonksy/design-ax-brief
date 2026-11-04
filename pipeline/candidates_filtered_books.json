@@ -1,16 +1,109 @@
 {
   "section": "books",
-  "now_iso": "2026-11-02T22:04:00Z",
+  "now_iso": "2026-11-03T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "The AI Transparency Trap",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/",
-      "source": "The Scholarly Kitchen",
+      "title": "Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried It With 2,000 Takedown Notices in a Single Day",
+      "url": "https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/",
+      "source": "404 Media",
       "category": "books",
-      "published_iso": "2026-11-02T10:30:57+00:00",
-      "excerpt": "Scholarly Kitchen argues that neither the absence of AI nor disclosure of AI use guarantees trustworthy research, questioning publishers' reliance on AI-disclosure policies.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229.jpg"
+      "published_iso": "2026-11-03T08:49:58.000Z",
+      "excerpt": "ao3.life scraped Archive of Our Own fanfiction and repackaged it as AI-narrated audiobooks for sale without authors' permission; fanfic writers filed some 2,000 takedown notices in a day and the site went down.",
+      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg"
+    },
+    {
+      "title": "University Presses Back AI Service Meridian",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/licensing/article/101673-cambridge-johns-hopkins-and-princeton-university-presses-back-ai-gateway-meridian.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-11-03T00:00:00-05:00",
+      "excerpt": "Cambridge, Johns Hopkins and Princeton university presses are founding publishers of Meridian, an AI gateway run by licensing start-up Cashmere that gives students and researchers licensed AI access to peer-reviewed books and journals.",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+    },
+    {
+      "title": "Author who admitted using AI wins France's top literary prize",
+      "url": "https://www.aol.com/articles/author-admitted-using-ai-wins-175635000.html",
+      "source": "The Telegraph (via AOL)",
+      "category": "books",
+      "published_iso": "2026-11-03T17:56:35+00:00",
+      "excerpt": "Philippe Jaenada won the 2026 Prix Goncourt for a novel that incorporates his research conversations with ChatGPT and Claude, weeks after a front-runner was dropped over AI allegations and the Academie said it would bar AI-aided works.",
+      "og_image": "https://hermes.media.static.aol.com/media/2026/11/03/bd501b00-9d0f-365d-826a-c4691df67814/76eb2d36-f52d-4040-8143-33ed33374ca5.jpeg",
+      "history_match": {
+        "score": 0.282,
+        "date": "2026-10-21",
+        "url": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+        "title": "New literary prize Prix Pascal launches in France for manuscripts written with AI",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Copyright Infringement Lawsuit Against OpenAI Draws More than 50 (Very Illuminating) Amicus Briefs",
+      "url": "https://publishingperspectives.com/2026/11/copyright-infringement-lawsuit-against-openai-draws-more-than-50-very-illuminating-amicus-briefs/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-11-03T13:26:59+00:00",
+      "excerpt": "More than 50 amicus briefs filed in the authors' copyright case against OpenAI map the fault lines of the most closely watched AI fair-use lawsuit and what it means for books.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-10.58.57-PM.png",
+      "history_match": {
+        "score": 0.325,
+        "date": "2026-10-30",
+        "url": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
+        "title": "Publishers urge US court to reject OpenAI's fair use defence in copyright case",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI platform wins publishing award in Sharjah",
+      "url": "https://anba.com.br/en/ai-platform-wins-publishing-award-in-sharjah/",
+      "source": "ANBA",
+      "category": "books",
+      "published_iso": "2026-11-03T15:31:54-03:00",
+      "excerpt": "Brazilian platform KlooBR, which uses AI to edit, translate and proofread books in minutes, won the Disrupt Track award from Sharjah's Publishing Sustainability Fund.",
+      "og_image": "https://anba.com.br/wp-content/uploads/2026/11/sharjah.jpeg"
+    },
+    {
+      "title": "Sign of the Times: What is an (AI) author?",
+      "url": "https://stanforddaily.com/2026/11/03/ai-author/",
+      "source": "The Stanford Daily",
+      "category": "books",
+      "published_iso": "2026-11-03T04:43:20-08:00",
+      "excerpt": "A Stanford Daily column asks what authorship means when AI agents can write papers, separating plagiarism from the question of whether an AI can be an 'author'.",
+      "og_image": "https://stanforddaily.com/wp-content/uploads/2026/10/Quinns-Column-Graphic.jpeg"
+    },
+    {
+      "title": "'인간이 썼습니다'가 경쟁력⋯AI 시대, 책의 가치가 바뀐다 [AI가 쓰는 시대 ③]",
+      "url": "https://www.etoday.co.kr/news/view/2642679",
+      "source": "이투데이",
+      "category": "books",
+      "published_iso": "2026-11-02T05:00:00+09:00",
+      "excerpt": "AI 집필이 확산하자 출판사들은 계약·검증을 강화하고, AI 집필 의혹에 출간을 취소하는 사례도 나오며, 작가단체는 '사람이 쓴 책' 인증제를 도입하고 있다.",
+      "og_image": "https://img.etoday.co.kr/pto_db/2026/11/20261101165306_2410380_1200_675.jpg"
+    },
+    {
+      "title": "\"AI로 그린 인생, 그림책으로 꽃피우다\"…사상구 어르신 13명, 생애 첫 그림책 작가로 우뚝",
+      "url": "https://www.wbcb.co.kr/news/articleView.html?idxno=107430",
+      "source": "부산복지방송(WBCB)",
+      "category": "books",
+      "published_iso": "2026-11-03T17:04:20+09:00",
+      "excerpt": "부산 사상구 어르신 13명이 생성형 AI를 활용해 자신의 삶을 담은 그림책을 완성하고 작가로 독자와 만났다.",
+      "og_image": "https://cdn.wbcb.co.kr/news/thumbnail/202611/107430_139710_5357_v150.jpg"
+    },
+    {
+      "title": "Google testing Comic Artifacts for Gemini Notebook",
+      "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
+      "source": "TestingCatalog",
+      "category": "books",
+      "published_iso": "2026-11-01T16:30:30.000Z",
+      "excerpt": "A hidden beta tile in Gemini Notebook reveals a Comics artifact that turns notes into comics in Default, Shojo, Chibi and Fantasy Anime styles; not yet public.",
+      "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/Gemini-Notebook-10-31-2026_10_51_PM.jpg",
+      "history_match": {
+        "score": 0.202,
+        "date": "2026-11-02",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+        "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more",
+        "band": "related"
+      }
     },
     {
       "title": "Why the AI Detection Scandals Will End—Probably Quite Soon",
@@ -29,20 +122,38 @@
       }
     },
     {
-      "title": "Artificial Intelligence is a Horror Story",
-      "url": "https://lithub.com/artificial-intelligence-is-a-horror-story/",
-      "source": "Literary Hub",
+      "title": "Guest Post - Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thinking-protecting-scholarly-publishing-from-the-slow-erosion-of-human-judgment/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-10-30T08:50:12+00:00",
-      "excerpt": "A Lit Hub essay traces how horror and speculative literature have long imagined disembodied machine intelligence, reading today's AI through that literary tradition.",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/Untitled-design-2026-10-28T141919.667.png",
+      "published_iso": "2026-10-30T09:30:18+00:00",
+      "excerpt": "A Scholarly Kitchen guest post argues that if scholarly publishing is to be worth anything in a generation, publishers must acknowledge the risks of relying on AI and intelligent automation in place of human judgment.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-497388712.jpg",
       "history_match": {
-        "score": 0.15,
-        "date": "2026-10-28",
-        "url": "https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/101582-zachary-mason-chases-the-ghost-in-the-machine.html",
-        "title": "Zachary Mason Chases the Ghost in the Machine",
+        "score": 0.361,
+        "date": "2026-10-20",
+        "url": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
+        "title": "Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence?",
         "band": "related"
       }
+    },
+    {
+      "title": "Guest Post - What Accessibility at Scale Actually Requires of Academic Publishers",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-11-03T10:30:57+00:00",
+      "excerpt": "Academic publishers sitting on decades of archives can use AI to audit non-compliant content and generate alt-text, structural tags and metadata to make backlists accessible at scale.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164.jpg"
+    },
+    {
+      "title": "Book Piracy Is Going Automated as Publishers Fight Back",
+      "url": "https://goodereader.com/blog/electronic-readers/book-piracy-is-going-automated-as-publishers-fight-back",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-10-30T14:23:14+00:00",
+      "excerpt": "Anti-piracy enforcement against shadow libraries is now largely automated, while a publisher complaint alleges a pirate site sold bulk access to 140 million texts to LLM developers.",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/06042420/2008438672-copy.png"
     },
     {
       "title": "Gruffalo illustrator considering legal action against AI firms",
@@ -54,67 +165,6 @@
       "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3305/live/7cbf47b0-d3c3-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Your writing was flagged as AI. What does that actually mean?",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
-      "source": "NPR",
-      "category": "books",
-      "published_iso": "2026-10-31T05:00:00-04:00",
-      "excerpt": "As editors turn to imperfect AI detectors such as Pangram to screen submissions, writers who say they were falsely accused are left wondering what triggered a positive result.",
-      "og_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3318+0+303/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg"
-    },
-    {
-      "title": "Project Hail Mary Author Says He 'Might Be Among the Last Generation of Fully Human Writers'",
-      "url": "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers",
-      "source": "IGN",
-      "category": "books",
-      "published_iso": "2026-11-02T20:45:09+00:00",
-      "excerpt": "Andy Weir says he may be among the last generation of fully human writers, comparing AI to tools like hammers, forklifts and race cars.",
-      "og_image": "https://sm.ign.com/t/ign_nordic/news/p/project-ha/project-hail-mary-author-says-he-might-be-among-the-last-gen_92je.1200.jpg"
-    },
-    {
-      "title": "Fergus Morgan on AI's disruption of audio drama",
-      "url": "https://www.thestage.co.uk/opinion/man-vs-machine-how-is-ai-disrupting-audio-drama-fergus-morgan",
-      "source": "The Stage",
-      "category": "books",
-      "published_iso": "2026-10-30T07:05:00Z",
-      "excerpt": "On World Audio Drama Day, Fergus Morgan examines how AI voices are disrupting the audio drama sector and how The Speakies awards celebrate human creativity.",
-      "og_image": "https://d3s3zh7icgjwgd.cloudfront.net/AcuCustom/Sitename/DAM/378/shutterstock_2587390409.jpg",
-      "history_match": {
-        "score": 0.251,
-        "date": "2026-10-20",
-        "url": "https://www.unite.ai/fish-audio-drama-3-ai-voice-direction-audio-inpainting/",
-        "title": "Fish Audio Launches Drama 3 to Direct AI Voices and Edit a Single Word",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI에 출판계 '혼란'…저작권·이용료 논란에 표준계약서 손질",
-      "url": "https://www.ajunews.com/amp/20261102140302421",
-      "source": "아주경제",
-      "category": "books",
-      "published_iso": "2026-11-02T15:48:34+09:00",
-      "excerpt": "생성형 AI 학습용 출판 데이터의 적정 이용료 논쟁이 본격화하면서 출판계가 AI 관련 조항을 담아 표준계약서 손질에 나섰다.",
-      "og_image": "https://image.ajunews.com/content/image/2026/11/02/20261102144259996468.jpg"
-    },
-    {
-      "title": "\"딸깍도서 넘쳐날수록 출판산업 보호해야\"… 출판계, 세제 혜택 촉구",
-      "url": "https://www.hankookilbo.com/news/article/A2026110215410003860",
-      "source": "한국일보",
-      "category": "books",
-      "published_iso": "2026-11-02T17:15:00+09:00",
-      "excerpt": "AI로 손쉽게 찍어내는 '딸깍출판'이 늘고 AI 기업의 출판물 학습이 확대되자 출판단체가 편집·디자인·인세 비용까지 포함한 출판콘텐츠 세액공제를 요구했다.",
-      "og_image": "https://newsimg.hankookilbo.com/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg"
-    },
-    {
-      "title": "출판계에 닥친 AI발 위기…\"산업 기반 무너뜨릴 수도\"",
-      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261030_0003848984",
-      "source": "뉴시스",
-      "category": "books",
-      "published_iso": "2026-11-01T06:04:24+09:00",
-      "excerpt": "앤트로픽의 대규모 서적 무단 확보가 드러나며 출판계에 AI발 위기가 확인되고 있다는 진단과 업계 대응을 다룬다.",
-      "og_image": "https://img1.newsis.com/2026/04/03/NISI20260403_0002101881_web.jpg"
-    },
-    {
       "title": "[단독] 앤트로픽 '책 도둑질' 한국 피해 저자 250명…한강·황석영도 보상 '산 넘어 산'",
       "url": "https://www.hani.co.kr/arti/culture/book/1284943.html",
       "source": "한겨레",
@@ -123,7 +173,7 @@
       "excerpt": "앤트로픽의 도서 700만권 무단 다운로드로 피해를 입은 국내 저자가 약 250명으로 파악됐지만 실제 보상을 받을 저자는 극히 드물 전망이다.",
       "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/847/imgdb/original/2026/1029/20261029504412.webp",
       "history_match": {
-        "score": 0.22,
+        "score": 0.221,
         "date": "2026-10-16",
         "url": "https://www.sedaily.com/article/20102152",
         "title": "[단독] 앤트로픽, 한강 작가 책도 불법 다운받았다",
@@ -131,22 +181,20 @@
       }
     },
     {
-      "title": "사람이 책을 만들고, 책이 AI를 만든다",
-      "url": "https://times.kaist.ac.kr/news/articleView.html?idxno=22981",
-      "source": "카이스트신문",
+      "title": "Artificial Intelligence is a Horror Story",
+      "url": "https://lithub.com/artificial-intelligence-is-a-horror-story/",
+      "source": "Literary Hub",
       "category": "books",
-      "published_iso": "2026-11-03T00:09:11+09:00",
-      "excerpt": "해외 업체들이 교보문고에서 한국어 책을 대량 구매해 AI 학습 데이터로 쓰는 가운데, 책의 AI 학습 이용 대가 기준이 없는 문제를 짚는다.",
-      "og_image": "https://cdn.times.kaist.ac.kr/news/thumbnail/202611/22981_22936_574_v150.jpg"
-    },
-    {
-      "title": "Korean cartoonists take demands for AI consent, copyright safeguards to UNESCO",
-      "url": "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco",
-      "source": "The Korea Times",
-      "category": "books",
-      "published_iso": "2026-10-30T05:35:03Z",
-      "excerpt": "Korean comic creators called at UNESCO for rules requiring artists' consent before their work is used to train AI models, plus copyright safeguards.",
-      "og_image": "https://newsimg.koreatimes.co.kr/2026/10/30/cd7a9e29-a87f-49e9-8ae4-1f5b389ec886.jpeg"
+      "published_iso": "2026-10-30T08:50:12+00:00",
+      "excerpt": "A Lit Hub essay traces how horror and speculative literature have long imagined disembodied machine intelligence, reading today's AI through that literary tradition.",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/Untitled-design-2026-10-28T141919.667.png",
+      "history_match": {
+        "score": 0.151,
+        "date": "2026-10-28",
+        "url": "https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/101582-zachary-mason-chases-the-ghost-in-the-machine.html",
+        "title": "Zachary Mason Chases the Ghost in the Machine",
+        "band": "related"
+      }
     },
     {
       "title": "Toonsutra Bets on AI to Turn Comics Into Cinema With Its Cinematic Mode",
@@ -167,13 +215,22 @@
       "og_image": "https://otakukart.com/wp-content/uploads/2026/11/Saitama-is-the-central-character-of-One-Punch-Man-the-manga-and-anime-franchise-known-for-its-distinctive-humour-and-spectacular-battles.jpg"
     },
     {
-      "title": "김유정문학촌, AI 시대 스토리 창작의 윤리 묻는다…11월 14일 포럼",
-      "url": "https://www.news1.kr/life-culture/book/6335401",
-      "source": "뉴스1",
+      "title": "\"딸깍도서 넘쳐날수록 출판산업 보호해야\"… 출판계, 세제 혜택 촉구",
+      "url": "https://www.hankookilbo.com/news/article/A2026110215410003860",
+      "source": "한국일보",
       "category": "books",
-      "published_iso": "2026-10-29T06:37:01+09:00",
-      "excerpt": "김유정문학촌이 11월 14일 생성형 AI와 스토리 창작의 관계, 저작권·문체 변화를 논의하는 포럼을 연다.",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/10/28/8184719/high.jpg"
+      "published_iso": "2026-11-02T17:15:00+09:00",
+      "excerpt": "AI로 손쉽게 찍어내는 '딸깍출판'이 늘고 AI 기업의 출판물 학습이 확대되자 출판단체가 편집·디자인·인세 비용까지 포함한 출판콘텐츠 세액공제를 요구했다.",
+      "og_image": "https://newsimg.hankookilbo.com/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg"
+    },
+    {
+      "title": "사람이 책을 만들고, 책이 AI를 만든다",
+      "url": "https://times.kaist.ac.kr/news/articleView.html?idxno=22981",
+      "source": "카이스트신문",
+      "category": "books",
+      "published_iso": "2026-11-03T00:09:11+09:00",
+      "excerpt": "해외 업체들이 교보문고에서 한국어 책을 대량 구매해 AI 학습 데이터로 쓰는 가운데, 책의 AI 학습 이용 대가 기준이 없는 문제를 짚는다.",
+      "og_image": "https://cdn.times.kaist.ac.kr/news/thumbnail/202611/22981_22936_574_v150.jpg"
     },
     {
       "title": "Lagos' Ake Festival 2026 to explore AI, native intelligence, allegations against black writers",
@@ -181,19 +238,53 @@
       "source": "Ikeja Record",
       "category": "books",
       "published_iso": "2026-11-02T13:40:19+00:00",
-      "excerpt": "Aké Arts and Book Festival (Nov 19-21, Lagos) will hold panels on AI and creativity and on AI-use allegations against Black writers.",
+      "excerpt": "Ake Arts and Book Festival (Nov 19-21, Lagos) will hold panels on AI and creativity and on AI-use allegations against Black writers.",
       "og_image": "https://substackcdn.com/image/fetch/$s_!djiB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab80e36e-247b-4a2e-b2be-9a4ddacb035e_1280x853.jpeg"
+    },
+    {
+      "title": "출판계에 닥친 AI발 위기…\"산업 기반 무너뜨릴 수도\"",
+      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261030_0003848984",
+      "source": "뉴시스",
+      "category": "books",
+      "published_iso": "2026-11-01T06:04:24+09:00",
+      "excerpt": "앤트로픽의 대규모 서적 무단 확보가 드러나며 출판계에 AI발 위기가 확인되고 있다는 진단과 업계 대응을 다룬다.",
+      "og_image": "https://img1.newsis.com/2026/04/03/NISI20260403_0002101881_web.jpg"
+    },
+    {
+      "title": "Fergus Morgan on AI's disruption of audio drama",
+      "url": "https://www.thestage.co.uk/opinion/man-vs-machine-how-is-ai-disrupting-audio-drama-fergus-morgan",
+      "source": "The Stage",
+      "category": "books",
+      "published_iso": "2026-10-30T07:05:00Z",
+      "excerpt": "On World Audio Drama Day, Fergus Morgan examines how AI voices are disrupting the audio drama sector and how The Speakies awards celebrate human creativity.",
+      "og_image": "https://d3s3zh7icgjwgd.cloudfront.net/AcuCustom/Sitename/DAM/378/shutterstock_2587390409.jpg",
+      "history_match": {
+        "score": 0.258,
+        "date": "2026-10-20",
+        "url": "https://www.unite.ai/fish-audio-drama-3-ai-voice-direction-audio-inpainting/",
+        "title": "Fish Audio Launches Drama 3 to Direct AI Voices and Edit a Single Word",
+        "band": "related"
+      }
+    },
+    {
+      "title": "김유정문학촌, AI 시대 스토리 창작의 윤리 묻는다…11월 14일 포럼",
+      "url": "https://www.news1.kr/life-culture/book/6335401",
+      "source": "뉴스1",
+      "category": "books",
+      "published_iso": "2026-10-29T06:37:01+09:00",
+      "excerpt": "김유정문학촌이 11월 14일 생성형 AI와 스토리 창작의 관계, 저작권·문체 변화를 논의하는 포럼을 연다.",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/10/28/8184719/high.jpg"
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 17,
+    "kept": 24,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -846,6 +937,31 @@
       "date": "2026-11-02",
       "title": "출협 \"말뭉치 사업 합의금액, AI 학습용 데이터 표준 대가 될 수 없다\"",
       "url": "https://www.readersnews.com/news/articleView.html?idxno=200813"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Project Hail Mary Author Says He 'Might Be Among the Last Generation of Fully Human Writers'",
+      "url": "https://nordic.ign.com/project-hail-mary/115139/project-hail-mary-author-says-he-might-be-among-the-last-generation-of-fully-human-writers"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "The AI Transparency Trap",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "AI에 출판계 '혼란'…저작권·이용료 논란에 표준계약서 손질",
+      "url": "https://www.ajunews.com/amp/20261102140302421"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Korean cartoonists take demands for AI consent, copyright safeguards to UNESCO",
+      "url": "https://www.koreatimes.co.kr/entertainment/20261030/korean-cartoonists-take-demands-for-ai-consent-copyright-safeguards-to-unesco"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Your writing was flagged as AI. What does that actually mean?",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
     }
   ]
 }

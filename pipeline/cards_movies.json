@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "movies",
   "cards": [
     {
-      "id": "spaced-wright-ai-remaster",
+      "id": "netflix-ai-discover-tv",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Edgar Wright가\nAI판 Spaced 부정",
-      "body": "Wright가 AI-upscaled 4K Blu-ray Spaced와 선을 그었다.",
-      "mini_headline": "Wright, AI판 Spaced 부정",
+      "headline": "Netflix, TVs용\nAI Discover 시험",
+      "body": "Netflix AI Discover가 TVs에서 테마별 작품을 실시간으로 골라준다.",
+      "mini_headline": "TVs의 Netflix AI Discover",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/tv/global/edgar-wright-ai-remaster-bluray-spaced-not-authorized-1236937429/",
+      "url": "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,305 +19,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-            "cap": "Spaced"
+            "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+            "cap": "Netflix AI Discover"
           },
           {
             "t": "p",
-            "x": "Edgar Wright가 1999-2001년 영국 TV에서 방영한 컬트 코미디 시리즈 ‘Spaced’의 Blu-Ray 재출시를 강하게 비판했다. 무엇보다 이 계획 자체를 전혀 몰랐다. X에는 “몇 년 동안 SPACED의 Blu-Ray를 내자고 밀어붙여 왔는데, 누군가 우리와 상의도 없이 그냥 진행했다니…. 맥이 빠진다. 시리즈 제작에 참여한 누구도 승인하지 않았다”고 적었다."
+            "x": "최근 몇 분기 동안 시청자 참여도가 떨어진 Netflix가 화요일(Nov. 3) Netflix TV 앱에 AI Discover를 선보인다. 첫 대상은 지원 스마트 TVs에서 Netflix를 영어로 쓰는 U.S.(미국) 일부 구독자다. 이용자는 “Something Light,” “Scare Me,” “Family Movie Night,” “Quick Watches” 같은 미리 정해 둔 테마로 콘텐츠를 둘러본다. AI가 고른(AI-picked) 추천 작품은 시청 기록과 취향, 플랫폼 인기 흐름을 보고 실시간으로 만들어진다."
           },
           {
             "t": "p",
-            "x": "Simon Pegg도 Variety에 성명을 보내 이렇게 거들었다. “전혀 몰랐다. 우리에게는 아무런 발언권이 없었다. Jess, Edgar와 나는 이전의 모든 출시에 깊이 관여했다. 무엇보다 표지 아트부터 거부했을 것이다.”"
+            "x": "상단 내비게이션 바에는 빨간 보석 모양 아이콘을 단 “Discover” 탭이 생긴다. 테마마다 클립으로 미리 보여 주고, 더 구체적인 테마나 “Something Different”도 고를 수 있다. 작품마다 “Tune Your Recommendations” 버튼이 붙는다. 상호작용형이긴 해도 챗봇 같은 경험은 아니고, 어린이 프로필에서는 쓸 수 없다."
           },
           {
             "t": "p",
-            "x": "새 출시판은 AI 업스케일을 앞세운다. 제품 설명을 보면 이 컬렉션은 “전통적 도구와 자체 도구를 결합해 비상업적·알고리즘 보정을 여러 단계에 걸쳐 거치고, 여기에 수작업 작업자가 프레임 단위로 추가 보정한 완전히 새로운 4K 마스터로 업그레이드됐다.”"
-          },
-          {
-            "t": "p",
-            "x": "Pegg와 Jessica Hynes가 만든 이 Channel 4 시트콤의 14개 에피소드는 모두 Wright가 연출했다. 새 4K Blu-Ray는 2027년 2월에 나온다. 발매사는 현재 Banijay Entertainment 산하에 있는 All3Media다."
+            "x": "Netflix는 오래전부터 머신러닝으로 추천을 개인화해 왔다. 다만 AI 기반임을 앞세운 이용자용 기능은 AI Discover가 처음이다. Netflix는 “AI Discover를 우리의 테스트 키친으로 생각해 달라”고 밝혔다. 앞으로 몇 주 안에 더 많은 지역과 고객으로 기능을 넓힐 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Edgar Wright disowns\nan AI remaster of Spaced",
-          "body": "Director Edgar Wright says the new AI-upscaled 4K Blu-ray of Spaced was not authorized by anyone who made the show.",
-          "mini_headline": "Wright disowns AI Spaced remaster",
+          "headline": "Netflix tests AI Discover\nmood themes on TVs",
+          "body": "Netflix's new AI Discover tab on TVs serves AI-picked titles in real time under preset themes like \"Scare Me\".",
+          "mini_headline": "Netflix AI Discover on TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
               },
               {
                 "t": "p",
-                "x": "Edgar Wright has slammed an upcoming Blu-Ray re-release of “Spaced,” the cult comedy series that ran on British TV from 1999-2001, largely because he had no idea about it. “I had been pushing to do a Blu-Ray of SPACED for years, so to find out that someone just went ahead without our involvement is…. a bummer. Not authorized by anyone involved in making the show,” he wrote on X."
+                "x": "Netflix, which has seen viewer engagement slide in recent quarters, is debuting AI Discover on the Netflix TV app on Tuesday (Nov. 3), initially to a limited number of subscribers in the U.S. who use Netflix in English on supported smart TVs. You are prompted to explore content based on preset themes such as “Something Light,” “Scare Me,” “Family Movie Night” or “Quick Watches,” and the recommended titles are produced in real time based on a user’s viewing history and preferences as well as what’s trending on the platform."
               },
               {
                 "t": "p",
-                "x": "In a statement sent to Variety, Simon Pegg added: “I was completely unaware. We had no say in it. Jess, Edgar and I were heavily involved in all previous releases. I would have rejected the cover art for a start.”"
+                "x": "A “Discover” tab with a red gem-shaped icon appears in the top navigation bar. Each theme is previewed with a clip; you can pick more specific themes or “Something Different,” and every title has a “Tune Your Recommendations” button. It is interactive but not a chatbot-like experience, and it will not be available on kids’ profiles."
               },
               {
                 "t": "p",
-                "x": "The new release claims to have been upscaled using AI. Its description says the collection “has been upgraded to a brand new 4K master using a combination of traditional and proprietary tools in a multi-step process of non-commercial and algorithmic corrections that are additionally enhanced frame by frame by a manual operator.”"
-              },
-              {
-                "t": "p",
-                "x": "Wright directed all 14 episodes of the Channel 4 sitcom created by Pegg and Jessica Hynes. The new 4K Blu-Ray release is due out in February 2027 and comes from All3Media, now part of Banijay Entertainment."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Edgar Wright가\nAI판 Spaced 부정",
-          "body": "Wright가 AI-upscaled 4K Blu-ray Spaced와 선을 그었다.",
-          "mini_headline": "Wright, AI판 Spaced 부정",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
-              },
-              {
-                "t": "p",
-                "x": "Edgar Wright가 1999-2001년 영국 TV에서 방영한 컬트 코미디 시리즈 ‘Spaced’의 Blu-Ray 재출시를 강하게 비판했다. 무엇보다 이 계획 자체를 전혀 몰랐다. X에는 “몇 년 동안 SPACED의 Blu-Ray를 내자고 밀어붙여 왔는데, 누군가 우리와 상의도 없이 그냥 진행했다니…. 맥이 빠진다. 시리즈 제작에 참여한 누구도 승인하지 않았다”고 적었다."
-              },
-              {
-                "t": "p",
-                "x": "Simon Pegg도 Variety에 성명을 보내 이렇게 거들었다. “전혀 몰랐다. 우리에게는 아무런 발언권이 없었다. Jess, Edgar와 나는 이전의 모든 출시에 깊이 관여했다. 무엇보다 표지 아트부터 거부했을 것이다.”"
-              },
-              {
-                "t": "p",
-                "x": "새 출시판은 AI 업스케일을 앞세운다. 제품 설명을 보면 이 컬렉션은 “전통적 도구와 자체 도구를 결합해 비상업적·알고리즘 보정을 여러 단계에 걸쳐 거치고, 여기에 수작업 작업자가 프레임 단위로 추가 보정한 완전히 새로운 4K 마스터로 업그레이드됐다.”"
-              },
-              {
-                "t": "p",
-                "x": "Pegg와 Jessica Hynes가 만든 이 Channel 4 시트콤의 14개 에피소드는 모두 Wright가 연출했다. 새 4K Blu-Ray는 2027년 2월에 나온다. 발매사는 현재 Banijay Entertainment 산하에 있는 All3Media다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Edgar Wright、\nAI版Spacedを否認",
-          "body": "WrightはAI-upscaled 4K Blu-ray版Spacedを非公認と断じた。",
-          "mini_headline": "Wright、AI版Spacedを否認",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
-              },
-              {
-                "t": "p",
-                "x": "Edgar Wrightは、1999-2001年に英国のTVで放送されたカルト的コメディシリーズ『Spaced』のBlu-Ray再発売を強く批判した。その計画を全く知らなかったことが大きな理由だ。彼はXに「何年もSPACEDのBlu-Ray化を働きかけてきたのに、誰かが私たち抜きで勝手に進めたと知るのは…。がっかりだ。番組の制作に関わった誰も承認していない」と書いた。"
-              },
-              {
-                "t": "p",
-                "x": "Simon PeggはVarietyに寄せた声明で次のように付け加えた。「全く知らなかった。私たちには何の発言権もなかった。Jess、Edgar、そして私は過去のすべてのリリースに深く関わってきた。そもそもカバーアートからして却下していただろう」"
-              },
-              {
-                "t": "p",
-                "x": "新しいリリースはAIでアップスケールしたとうたっている。説明文によると、このコレクションは「従来のツールと独自ツールを組み合わせ、非商業的かつアルゴリズムによる補正を多段階で施し、さらに手作業のオペレーターがフレームごとに補強した、まったく新しい4K マスターにアップグレードされた」という。"
-              },
-              {
-                "t": "p",
-                "x": "WrightはPeggとJessica Hynesが生み出したChannel 4のシットコム全14話を監督した。新しい4K Blu-Rayは2027年2月に発売予定で、現在はBanijay Entertainment傘下のAll3Mediaが手がける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Edgar Wright\n否认AI版Spaced",
-          "body": "Wright称AI-upscaled 4K Blu-ray版Spaced未获主创授权。",
-          "mini_headline": "Wright否认AI版Spaced",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
-              },
-              {
-                "t": "p",
-                "x": "Edgar Wright猛烈批评即将推出的《Spaced》Blu-Ray再版。这部邪典喜剧剧集于1999-2001年在英国TV播出，而他批评的主要原因是自己对此毫不知情。他在X上写道：“我多年来一直在推动出SPACED的Blu-Ray，结果发现有人在我们未参与的情况下径自推进……真扫兴。没有任何参与制作该剧的人授权。”"
-              },
-              {
-                "t": "p",
-                "x": "Simon Pegg在发给Variety的声明中补充说：“我完全不知情。我们对此毫无发言权。Jess、Edgar和我深度参与了此前所有版本的发行。首先，我就会否决那个封面设计。”"
-              },
-              {
-                "t": "p",
-                "x": "新版声称采用AI进行了画质提升。其介绍称，该合集“结合传统工具与专有工具，经过非商业性和算法校正的多步骤流程，并由人工操作员逐帧进一步增强，升级为全新的4K 母版。”"
-              },
-              {
-                "t": "p",
-                "x": "Wright执导了由Pegg和Jessica Hynes创作的这部Channel 4情景喜剧的全部14集。新的4K Blu-Ray将于2027年2月推出，发行方为现隶属于Banijay Entertainment的All3Media。"
+                "x": "Netflix has long used machine learning to personalize recommendations, but AI Discover is the first user-facing application it is branding as powered by AI. “Think of AI Discover as our test kitchen,” Netflix says. The company plans to expand the feature to more regions and customers in the coming weeks."
               }
             ]
           }
         },
         "es": {
-          "headline": "Edgar Wright desautoriza\nel remaster AI de Spaced",
-          "body": "Edgar Wright dice que el nuevo Blu-ray 4K AI-upscaled de Spaced no lo autorizó nadie de quienes hicieron la serie.",
-          "mini_headline": "Wright desautoriza el Spaced con AI",
+          "headline": "Netflix prueba AI Discover\ncon temas de ánimo en TVs",
+          "body": "La nueva pestaña AI Discover de Netflix en TVs ofrece títulos AI-picked en tiempo real bajo temas como \"Scare Me\".",
+          "mini_headline": "Netflix AI Discover en TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
               },
               {
                 "t": "p",
-                "x": "Edgar Wright ha criticado con dureza una próxima reedición en Blu-Ray de “Spaced”, la serie de comedia de culto que se emitió en la TV británica en 1999-2001, sobre todo porque no sabía nada de ella. “Llevaba años insistiendo en hacer un Blu-Ray de SPACED, así que enterarme de que alguien simplemente siguió adelante sin contar con nosotros es…. un fastidio. No lo autorizó nadie de quienes participaron en hacer la serie”, escribió en X."
+                "x": "Netflix, cuya interacción de los espectadores ha caído en los últimos trimestres, estrena AI Discover en la app de Netflix TV el martes (Nov. 3), inicialmente para un número limitado de suscriptores en U.S. que usan Netflix en inglés en smart TVs compatibles. Se invita a explorar contenido a partir de temas predefinidos como “Something Light”, “Scare Me”, “Family Movie Night” o “Quick Watches”, y los títulos recomendados se generan en tiempo real según el historial de visualización y las preferencias del usuario, además de lo que es tendencia en la plataforma."
               },
               {
                 "t": "p",
-                "x": "En un comunicado enviado a Variety, Simon Pegg añadió: “No sabía absolutamente nada. No tuvimos ni voz ni voto. Jess, Edgar y yo participamos de lleno en todas las ediciones anteriores. Para empezar, habría rechazado la portada”."
+                "x": "En la barra de navegación superior aparece una pestaña “Discover” con un icono rojo en forma de gema. Cada tema se presenta con un clip; se pueden elegir temas más específicos o “Something Different”, y cada título tiene un botón “Tune Your Recommendations”. Es interactivo, pero no es una experiencia de tipo chatbot, y no estará disponible en los perfiles infantiles."
               },
               {
                 "t": "p",
-                "x": "La nueva edición afirma haber sido reescalada mediante AI. Su descripción indica que la colección “se ha actualizado a un máster 4K completamente nuevo mediante una combinación de herramientas tradicionales y propias en un proceso de varios pasos de correcciones no comerciales y algorítmicas, que además un operador manual mejora fotograma a fotograma”."
+                "x": "Netflix lleva tiempo usando aprendizaje automático para personalizar recomendaciones, pero AI Discover es la primera aplicación de cara al usuario que presenta como impulsada por AI. “Piensen en AI Discover como nuestra cocina de pruebas”, dice Netflix. La compañía planea ampliar la función a más regiones y clientes en las próximas semanas."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Netflix, TVs용\nAI Discover 시험",
+          "body": "Netflix AI Discover가 TVs에서 테마별 작품을 실시간으로 골라준다.",
+          "mini_headline": "TVs의 Netflix AI Discover",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
               },
               {
                 "t": "p",
-                "x": "Wright dirigió los 14 episodios de la comedia de Channel 4 creada por Pegg y Jessica Hynes. La nueva edición en 4K Blu-Ray saldrá en febrero de 2027 y procede de All3Media, que ahora forma parte de Banijay Entertainment."
+                "x": "최근 몇 분기 동안 시청자 참여도가 떨어진 Netflix가 화요일(Nov. 3) Netflix TV 앱에 AI Discover를 선보인다. 첫 대상은 지원 스마트 TVs에서 Netflix를 영어로 쓰는 U.S.(미국) 일부 구독자다. 이용자는 “Something Light,” “Scare Me,” “Family Movie Night,” “Quick Watches” 같은 미리 정해 둔 테마로 콘텐츠를 둘러본다. AI가 고른(AI-picked) 추천 작품은 시청 기록과 취향, 플랫폼 인기 흐름을 보고 실시간으로 만들어진다."
+              },
+              {
+                "t": "p",
+                "x": "상단 내비게이션 바에는 빨간 보석 모양 아이콘을 단 “Discover” 탭이 생긴다. 테마마다 클립으로 미리 보여 주고, 더 구체적인 테마나 “Something Different”도 고를 수 있다. 작품마다 “Tune Your Recommendations” 버튼이 붙는다. 상호작용형이긴 해도 챗봇 같은 경험은 아니고, 어린이 프로필에서는 쓸 수 없다."
+              },
+              {
+                "t": "p",
+                "x": "Netflix는 오래전부터 머신러닝으로 추천을 개인화해 왔다. 다만 AI 기반임을 앞세운 이용자용 기능은 AI Discover가 처음이다. Netflix는 “AI Discover를 우리의 테스트 키친으로 생각해 달라”고 밝혔다. 앞으로 몇 주 안에 더 많은 지역과 고객으로 기능을 넓힐 계획이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Netflix、TVsで\nAI Discover試験",
+          "body": "Netflix AI DiscoverはTVsでテーマ別作品を即時に薦める。",
+          "mini_headline": "TVs向けNetflix AI Discover",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
+              },
+              {
+                "t": "p",
+                "x": "ここ数四半期で視聴者のエンゲージメントが落ち込んでいるNetflixは、火曜日(Nov. 3)にNetflix TVアプリでAI Discoverを公開する。当初の対象は、対応スマートTVsでNetflixを英語で利用するU.S.(米国)の一部加入者に限られる。利用者は「Something Light」「Scare Me」「Family Movie Night」「Quick Watches」といった既定のテーマでコンテンツを探すよう促され、AIが選んだ(AI-picked)おすすめ作品は、利用者の視聴履歴や好み、プラットフォーム上のトレンドをもとにリアルタイムで生成される。"
+              },
+              {
+                "t": "p",
+                "x": "上部のナビゲーションバーには、赤い宝石形アイコンの「Discover」タブが表示される。各テーマはクリップでプレビューされ、より具体的なテーマや「Something Different」を選べるほか、すべての作品に「Tune Your Recommendations」ボタンがある。対話的ではあるがチャットボットのような体験ではなく、キッズプロフィールでは利用できない。"
+              },
+              {
+                "t": "p",
+                "x": "Netflixは長年、機械学習で推薦を個人化してきたが、AI DiscoverはAI搭載をうたう初のユーザー向け機能となる。Netflixは「AI Discoverは私たちのテストキッチンだと考えてほしい」としている。同社は今後数週間で、この機能をより多くの地域と顧客に広げる計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Netflix在TVs上\n测试AI Discover",
+          "body": "Netflix AI Discover在TVs上按主题实时推荐AI-picked作品。",
+          "mini_headline": "Netflix AI Discover登陆TVs",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
+              },
+              {
+                "t": "p",
+                "x": "近几个季度观众参与度持续下滑的Netflix于周二(Nov. 3)在Netflix TV应用上推出AI Discover，首批仅面向在支持的智能TVs上以英语使用Netflix的部分U.S.(美国)订阅用户。用户会被引导按“Something Light”“Scare Me”“Family Movie Night”“Quick Watches”等预设主题探索内容，AI挑选(AI-picked)的推荐作品会根据用户的观看历史与偏好以及平台上的热门趋势实时生成。"
+              },
+              {
+                "t": "p",
+                "x": "顶部导航栏会出现一个带红色宝石形图标的“Discover”标签。每个主题都配有片段预览；用户可以选择更具体的主题或“Something Different”，每部作品都有“Tune Your Recommendations”按钮。它具有互动性，但并非聊天机器人式体验，儿童账户也无法使用。"
+              },
+              {
+                "t": "p",
+                "x": "Netflix长期以来一直用机器学习来个性化推荐，但AI Discover是其首个标榜由AI驱动的面向用户的应用。Netflix表示：“可以把AI Discover看作我们的试验厨房。”公司计划在未来几周内将该功能扩展到更多地区和用户。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Edgar Wright가\nAI판 Spaced 부정",
-          "body": "Wright는 AI-upscaled 4K Blu-ray Spaced를 부정했다.",
-          "mini_headline": "Wright, AI판 Spaced 부정",
+        "es": {
+          "headline": "Netflix prueba AI Discover\ncon temas de ánimo en TVs",
+          "body": "La nueva pestaña AI Discover de Netflix en TVs ofrece títulos AI-picked en tiempo real bajo temas como \"Scare Me\".",
+          "mini_headline": "Netflix AI Discover en TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
               },
               {
                 "t": "p",
-                "x": "Edgar Wright는 1999-2001년 영국 TV에서 방영된 컬트 코미디 시리즈 ‘Spaced’의 Blu-Ray 재출시를 강하게 비판했다. 그 계획을 전혀 몰랐다는 점이 가장 큰 이유다. 그는 X에 “몇 년 동안 SPACED의 Blu-Ray를 내자고 밀어붙여 왔는데, 누군가 우리와 상의도 없이 그냥 진행했다니…. 맥이 빠진다. 시리즈 제작에 참여한 누구도 승인하지 않았다”고 썼다."
+                "x": "Netflix, cuya interacción de los espectadores ha caído en los últimos trimestres, estrena AI Discover en la app de Netflix TV el martes (Nov. 3), inicialmente para un número limitado de suscriptores en U.S. que usan Netflix en inglés en smart TVs compatibles. Se invita a explorar contenido a partir de temas predefinidos como “Something Light”, “Scare Me”, “Family Movie Night” o “Quick Watches”, y los títulos recomendados se generan en tiempo real según el historial de visualización y las preferencias del usuario, además de lo que es tendencia en la plataforma."
               },
               {
                 "t": "p",
-                "x": "Simon Pegg는 Variety에 보낸 성명에서 이렇게 덧붙였다. “전혀 몰랐다. 우리에게는 아무런 발언권이 없었다. Jess, Edgar와 나는 이전의 모든 출시에 깊이 관여했다. 무엇보다 표지 아트부터 거부했을 것이다.”"
+                "x": "En la barra de navegación superior aparece una pestaña “Discover” con un icono rojo en forma de gema. Cada tema se presenta con un clip; se pueden elegir temas más específicos o “Something Different”, y cada título tiene un botón “Tune Your Recommendations”. Es interactivo, pero no es una experiencia de tipo chatbot, y no estará disponible en los perfiles infantiles."
               },
               {
                 "t": "p",
-                "x": "새 출시판은 AI로 업스케일했다고 내세운다. 제품 설명에 따르면 이 컬렉션은 “전통적 도구와 자체 도구를 결합해 비상업적·알고리즘 보정을 여러 단계에 걸쳐 거치고, 여기에 수작업 작업자가 프레임 단위로 추가 보정한 완전히 새로운 4K 마스터로 업그레이드됐다.”"
+                "x": "Netflix lleva tiempo usando aprendizaje automático para personalizar recomendaciones, pero AI Discover es la primera aplicación de cara al usuario que presenta como impulsada por AI. “Piensen en AI Discover como nuestra cocina de pruebas”, dice Netflix. La compañía planea ampliar la función a más regiones y clientes en las próximas semanas."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Netflix, TVs용\nAI Discover 시험",
+          "body": "Netflix AI Discover는 TVs에서 테마별 작품을 실시간 추천한다.",
+          "mini_headline": "TVs의 Netflix AI Discover",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
               },
               {
                 "t": "p",
-                "x": "Wright는 Pegg와 Jessica Hynes가 만든 Channel 4 시트콤의 14개 에피소드를 모두 연출했다. 새 4K Blu-Ray는 2027년 2월 출시 예정이며, 현재 Banijay Entertainment 산하인 All3Media가 내놓는다."
+                "x": "최근 몇 분기 동안 시청자 참여도가 떨어진 Netflix는 화요일(Nov. 3) Netflix TV 앱에 AI Discover를 선보인다. 우선 지원 스마트 TVs에서 Netflix를 영어로 쓰는 U.S.(미국) 일부 구독자가 대상이다. 이용자는 “Something Light,” “Scare Me,” “Family Movie Night,” “Quick Watches” 같은 미리 정한 테마로 콘텐츠를 탐색하게 되며, AI가 고른(AI-picked) 추천 작품은 이용자의 시청 기록과 취향, 플랫폼의 인기 흐름을 바탕으로 실시간 생성된다."
+              },
+              {
+                "t": "p",
+                "x": "상단 내비게이션 바에 빨간 보석 모양 아이콘의 “Discover” 탭이 나타난다. 테마마다 클립으로 미리 보여 주고, 더 구체적인 테마나 “Something Different”를 고를 수 있으며, 모든 작품에 “Tune Your Recommendations” 버튼이 붙는다. 상호작용형이지만 챗봇 같은 경험은 아니며, 어린이 프로필에서는 쓸 수 없다."
+              },
+              {
+                "t": "p",
+                "x": "Netflix는 오래전부터 머신러닝으로 추천을 개인화해 왔지만, AI Discover는 AI 기반임을 내건 첫 이용자용 기능이다. Netflix는 “AI Discover를 우리의 테스트 키친으로 생각해 달라”고 밝혔다. 회사는 앞으로 몇 주 안에 이 기능을 더 많은 지역과 고객으로 넓힐 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Edgar Wright、\nAI版Spacedを否認",
-          "body": "WrightはAI-upscaled 4K Blu-ray版Spacedを非公認と断じた。",
-          "mini_headline": "Wright、AI版Spacedを否認",
+          "headline": "Netflix、TVsで\nAI Discover試験",
+          "body": "Netflix AI DiscoverはTVsでテーマ別作品を即時に薦める。",
+          "mini_headline": "TVs向けNetflix AI Discover",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
               },
               {
                 "t": "p",
-                "x": "Edgar Wrightは、1999-2001年に英国のTVで放送されたカルト的コメディシリーズ『Spaced』のBlu-Ray再発売を強く批判した。その計画を全く知らなかったことが大きな理由だ。彼はXに「何年もSPACEDのBlu-Ray化を働きかけてきたのに、誰かが私たち抜きで勝手に進めたと知るのは…。がっかりだ。番組の制作に関わった誰も承認していない」と書いた。"
+                "x": "ここ数四半期で視聴者のエンゲージメントが落ち込んでいるNetflixは、火曜日(Nov. 3)にNetflix TVアプリでAI Discoverを公開する。当初の対象は、対応スマートTVsでNetflixを英語で利用するU.S.(米国)の一部加入者に限られる。利用者は「Something Light」「Scare Me」「Family Movie Night」「Quick Watches」といった既定のテーマでコンテンツを探すよう促され、AIが選んだ(AI-picked)おすすめ作品は、利用者の視聴履歴や好み、プラットフォーム上のトレンドをもとにリアルタイムで生成される。"
               },
               {
                 "t": "p",
-                "x": "Simon PeggはVarietyに寄せた声明で次のように付け加えた。「全く知らなかった。私たちには何の発言権もなかった。Jess、Edgar、そして私は過去のすべてのリリースに深く関わってきた。そもそもカバーアートからして却下していただろう」"
+                "x": "上部のナビゲーションバーには、赤い宝石形アイコンの「Discover」タブが表示される。各テーマはクリップでプレビューされ、より具体的なテーマや「Something Different」を選べるほか、すべての作品に「Tune Your Recommendations」ボタンがある。対話的ではあるがチャットボットのような体験ではなく、キッズプロフィールでは利用できない。"
               },
               {
                 "t": "p",
-                "x": "新しいリリースはAIでアップスケールしたとうたっている。説明文によると、このコレクションは「従来のツールと独自ツールを組み合わせ、非商業的かつアルゴリズムによる補正を多段階で施し、さらに手作業のオペレーターがフレームごとに補強した、まったく新しい4K マスターにアップグレードされた」という。"
-              },
-              {
-                "t": "p",
-                "x": "WrightはPeggとJessica Hynesが生み出したChannel 4のシットコム全14話を監督した。新しい4K Blu-Rayは2027年2月に発売予定で、現在はBanijay Entertainment傘下のAll3Mediaが手がける。"
+                "x": "Netflixは長年、機械学習で推薦を個人化してきたが、AI DiscoverはAI搭載をうたう初のユーザー向け機能となる。Netflixは「AI Discoverは私たちのテストキッチンだと考えてほしい」としている。同社は今後数週間で、この機能をより多くの地域と顧客に広げる計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Edgar Wright\n否认AI版Spaced",
-          "body": "Wright称AI-upscaled 4K Blu-ray版Spaced未获主创授权。",
-          "mini_headline": "Wright否认AI版Spaced",
+          "headline": "Netflix在TVs上\n测试AI Discover",
+          "body": "Netflix AI Discover在TVs上按主题实时推荐AI-picked作品。",
+          "mini_headline": "Netflix AI Discover登陆TVs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
+                "cap": "Netflix AI Discover"
               },
               {
                 "t": "p",
-                "x": "Edgar Wright猛烈批评即将推出的《Spaced》Blu-Ray再版。这部邪典喜剧剧集于1999-2001年在英国TV播出，而他批评的主要原因是自己对此毫不知情。他在X上写道：“我多年来一直在推动出SPACED的Blu-Ray，结果发现有人在我们未参与的情况下径自推进……真扫兴。没有任何参与制作该剧的人授权。”"
+                "x": "近几个季度观众参与度持续下滑的Netflix于周二(Nov. 3)在Netflix TV应用上推出AI Discover，首批仅面向在支持的智能TVs上以英语使用Netflix的部分U.S.(美国)订阅用户。用户会被引导按“Something Light”“Scare Me”“Family Movie Night”“Quick Watches”等预设主题探索内容，AI挑选(AI-picked)的推荐作品会根据用户的观看历史与偏好以及平台上的热门趋势实时生成。"
               },
               {
                 "t": "p",
-                "x": "Simon Pegg在发给Variety的声明中补充说：“我完全不知情。我们对此毫无发言权。Jess、Edgar和我深度参与了此前所有版本的发行。首先，我就会否决那个封面设计。”"
+                "x": "顶部导航栏会出现一个带红色宝石形图标的“Discover”标签。每个主题都配有片段预览；用户可以选择更具体的主题或“Something Different”，每部作品都有“Tune Your Recommendations”按钮。它具有互动性，但并非聊天机器人式体验，儿童账户也无法使用。"
               },
               {
                 "t": "p",
-                "x": "新版声称采用AI进行了画质提升。其介绍称，该合集“结合传统工具与专有工具，经过非商业性和算法校正的多步骤流程，并由人工操作员逐帧进一步增强，升级为全新的4K 母版。”"
-              },
-              {
-                "t": "p",
-                "x": "Wright执导了由Pegg和Jessica Hynes创作的这部Channel 4情景喜剧的全部14集。新的4K Blu-Ray将于2027年2月推出，发行方为现隶属于Banijay Entertainment的All3Media。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Edgar Wright desautoriza\nel remaster AI de Spaced",
-          "body": "Edgar Wright dice que el nuevo Blu-ray 4K AI-upscaled de Spaced no lo autorizó nadie de quienes hicieron la serie.",
-          "mini_headline": "Wright desautoriza el Spaced con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Spaced.jpg?w=1000&h=563&crop=1",
-                "cap": "Spaced"
-              },
-              {
-                "t": "p",
-                "x": "Edgar Wright ha criticado con dureza una próxima reedición en Blu-Ray de “Spaced”, la serie de comedia de culto que se emitió en la TV británica en 1999-2001, sobre todo porque no sabía nada de ella. “Llevaba años insistiendo en hacer un Blu-Ray de SPACED, así que enterarme de que alguien simplemente siguió adelante sin contar con nosotros es…. un fastidio. No lo autorizó nadie de quienes participaron en hacer la serie”, escribió en X."
-              },
-              {
-                "t": "p",
-                "x": "En un comunicado enviado a Variety, Simon Pegg añadió: “No sabía absolutamente nada. No tuvimos ni voz ni voto. Jess, Edgar y yo participamos de lleno en todas las ediciones anteriores. Para empezar, habría rechazado la portada”."
-              },
-              {
-                "t": "p",
-                "x": "La nueva edición afirma haber sido reescalada mediante AI. Su descripción indica que la colección “se ha actualizado a un máster 4K completamente nuevo mediante una combinación de herramientas tradicionales y propias en un proceso de varios pasos de correcciones no comerciales y algorítmicas, que además un operador manual mejora fotograma a fotograma”."
-              },
-              {
-                "t": "p",
-                "x": "Wright dirigió los 14 episodios de la comedia de Channel 4 creada por Pegg y Jessica Hynes. La nueva edición en 4K Blu-Ray saldrá en febrero de 2027 y procede de All3Media, que ahora forma parte de Banijay Entertainment."
+                "x": "Netflix长期以来一直用机器学习来个性化推荐，但AI Discover是其首个标榜由AI驱动的面向用户的应用。Netflix表示：“可以把AI Discover看作我们的试验厨房。”公司计划在未来几周内将该功能扩展到更多地区和用户。"
               }
             ]
           }
@@ -325,321 +285,271 @@
       }
     },
     {
-      "id": "jikuyukaku-japan-ai-feature",
-      "source_lang": "ko",
+      "id": "luma-expression-sheet",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "일본, 전편 AI로 만든\n장편영화 2027년 공개",
-      "body": "각본은 챗GPT, 배우 3명은 AI로 재현하고 주제가는 Suno가 만든다.",
-      "mini_headline": "일본 전편 AI 장편영화",
+      "headline": "새 Expression\nSheet로 표정 미리보기",
+      "body": "Luma Expression Sheet로 방향을 정하기 전에 표정 폭부터 살핀다.",
+      "mini_headline": "Luma Expression Sheet",
       "tool": "Movies",
-      "source": "인공지능신문",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42538",
+      "source": "Luma (YouTube)",
+      "url": "https://www.youtube.com/watch?v=MZ-1e4uYEiA",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-            "cap": "사진:텐더프로(영상 갈무리)"
-          },
-          {
-            "t": "p",
-            "x": "일본 영화 제작진은 전편을 생성형 AI로 제작한 장편영화 ‘시공유곽 라비린스(時空遊郭ラビリンス)’를 2027년 공개할 예정이라고 2일 발표했다. 일본의 옥손즈(Oxons), 텐더프로(Tender Pro), 전일본자원봉사연맹(All Japan Volunteer Federation)이 공동 제작한다."
-          },
-          {
-            "t": "p",
-            "x": "실제 배우들이 AI로 재현된 모습으로 등장한다. AI 출연 배우는 후루카와 안, 오시다리 아키코, 홋타 신조 등 3명이다. 홋타 신조는 “우선 믿기지 않는다. 정말 홋타 신조 그대로다. 놀랍다”고 말했다. 연출은 ‘카메라를 멈추면 안 돼!’의 촬영감독으로 알려진 소네 다케시가 맡았다."
-          },
-          {
             "t": "video",
-            "yt": "e8H_ggZXKqY"
+            "yt": "MZ-1e4uYEiA"
           },
           {
             "t": "p",
-            "x": "이번 작품에서는 오픈AI의 챗GPT가 각본 제작에 활용됐으며, 주제가 ‘라비린스(LABYRINTH)’는 AI 음악 생성 서비스 수노(Suno)를 통해 제작됐다. 극장 ‘라비린스’의 가수 니나 앞에 자신과 똑같은 얼굴과 목소리를 가진 AI가 나타나면서 벌어지는 이야기로, ‘당신의 꿈은 지금 누구의 것인가’라는 질문을 던진다. 구체적인 개봉일과 상영 방식은 추후 발표될 것으로 보인다."
+            "x": "얼굴 하나로 많은 걸 해낸다."
+          },
+          {
+            "t": "p",
+            "x": "Expression Sheet로 방향을 고르기 전에 캐릭터 연기가 어디까지 가는지 살펴볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이제 Luma에서 쓸 수 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "일본, 전편 AI로 만든\n장편영화 2027년 공개",
-          "body": "각본은 챗GPT, 배우 3명은 AI로 재현하고 주제가는 Suno가 만든다.",
-          "mini_headline": "일본 전편 AI 장편영화",
+        "en": {
+          "headline": "Luma's Expression Sheet\npreviews facial performance",
+          "body": "Luma's Expression Sheet lets creators explore a character's facial range before committing to a direction.",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "사진:텐더프로(영상 갈무리)"
-              },
-              {
-                "t": "p",
-                "x": "일본 영화 제작진은 전편을 생성형 AI로 제작한 장편영화 ‘시공유곽 라비린스(時空遊郭ラビリンス)’를 2027년 공개할 예정이라고 2일 발표했다. 일본의 옥손즈(Oxons), 텐더프로(Tender Pro), 전일본자원봉사연맹(All Japan Volunteer Federation)이 공동 제작한다."
-              },
-              {
-                "t": "p",
-                "x": "실제 배우들이 AI로 재현된 모습으로 등장한다. AI 출연 배우는 후루카와 안, 오시다리 아키코, 홋타 신조 등 3명이다. 홋타 신조는 “우선 믿기지 않는다. 정말 홋타 신조 그대로다. 놀랍다”고 말했다. 연출은 ‘카메라를 멈추면 안 돼!’의 촬영감독으로 알려진 소네 다케시가 맡았다."
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "이번 작품에서는 오픈AI의 챗GPT가 각본 제작에 활용됐으며, 주제가 ‘라비린스(LABYRINTH)’는 AI 음악 생성 서비스 수노(Suno)를 통해 제작됐다. 극장 ‘라비린스’의 가수 니나 앞에 자신과 똑같은 얼굴과 목소리를 가진 AI가 나타나면서 벌어지는 이야기로, ‘당신의 꿈은 지금 누구의 것인가’라는 질문을 던진다. 구체적인 개봉일과 상영 방식은 추후 발표될 것으로 보인다."
+                "x": "She’s doing a lot with one face."
+              },
+              {
+                "t": "p",
+                "x": "Expression Sheet lets you explore where a character’s performance can go before you pick the direction."
+              },
+              {
+                "t": "p",
+                "x": "Now in Luma"
               }
             ]
           }
         },
-        "en": {
-          "headline": "Japan's fully AI-made feature\nfilm to be released in 2027",
-          "body": "The script comes from ChatGPT, 3 actors are recreated with AI and Suno makes the theme song.",
-          "mini_headline": "Japan's all-AI feature film",
+        "ko": {
+          "headline": "새 Expression\nSheet로 표정 미리보기",
+          "body": "Luma Expression Sheet로 방향을 정하기 전에 표정 폭부터 살핀다.",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "Photo: Tender Pro (video capture)"
-              },
-              {
-                "t": "p",
-                "x": "Japanese filmmakers announced on the 2nd that they plan to release ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), a feature film made entirely with generative AI, in 2027. It is co-produced by Japan's Oxons, Tender Pro and the All Japan Volunteer Federation."
-              },
-              {
-                "t": "p",
-                "x": "Real actors appear as AI recreations. The 3 actors cast through AI are An Furukawa, Akiko Oshidari and Shinzo Hotta. Shinzo Hotta said, “First of all, I can't believe it. It really is Shinzo Hotta exactly. It's amazing.” The film is directed by Takeshi Sone, known as the cinematographer of ‘One Cut of the Dead’."
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "OpenAI's ChatGPT was used to write the script, and the theme song ‘LABYRINTH’ was made with the AI music generation service Suno. The story follows Nina, a singer at the theater ‘Labyrinth’, after an AI with her exact face and voice appears before her, and it poses the question ‘Whose dream is yours now?’ The specific release date and screening format are expected to be announced later."
+                "x": "얼굴 하나로 많은 걸 해낸다."
+              },
+              {
+                "t": "p",
+                "x": "Expression Sheet로 방향을 고르기 전에 캐릭터 연기가 어디까지 가는지 살펴볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이제 Luma에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "全編AI製の長編映画\n日本で2027年公開",
-          "body": "脚本はChatGPT、俳優3人はAIで再現し、主題歌はSunoが作る。",
-          "mini_headline": "日本の全編AI長編映画",
+          "headline": "新Expression\nSheetで表情を試す",
+          "body": "LumaのExpression Sheetで方向を決める前にキャラクターの表情の幅を探れる。",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "写真:テンダープロ(映像キャプチャー)"
-              },
-              {
-                "t": "p",
-                "x": "日本の映画制作陣は2日、全編を生成AIで制作した長編映画『時空遊郭ラビリンス』を2027年に公開する予定だと発表した。日本のオクソンズ(Oxons)、テンダープロ(Tender Pro)、全日本ボランティア連盟(All Japan Volunteer Federation)が共同で制作する。"
-              },
-              {
-                "t": "p",
-                "x": "実在の俳優がAIで再現された姿で登場する。AIで出演する俳優はフルカワ・アン、オシダリ・アキコ、ホッタ・シンゾウの3人だ。ホッタ・シンゾウは「まず信じられない。本当にホッタ・シンゾウそのものだ。驚いた」と語った。監督は『カメラを止めるな!』の撮影監督として知られる曽根剛が務めた。"
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "今回の作品ではOpenAIのChatGPTが脚本制作に使われ、主題歌『ラビリンス(LABYRINTH)』はAI音楽生成サービスのスノ(Suno)で制作された。劇場『ラビリンス』の歌手ニナの前に、自分と同じ顔と声を持つAIが現れることから始まる物語で、「あなたの夢は今、誰のものか」という問いを投げかける。具体的な公開日と上映方式は追って発表される見通しだ。"
+                "x": "ひとつの顔で、彼女は多くを表現している。"
+              },
+              {
+                "t": "p",
+                "x": "Expression Sheetを使えば、方向性を決める前にキャラクターの演技がどこまで広がるかを探ることができる。"
+              },
+              {
+                "t": "p",
+                "x": "Lumaで提供中"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本全片AI制作\n长篇电影2027年上映",
-          "body": "剧本由ChatGPT撰写，3名演员由AI复现，主题曲由Suno创作。",
-          "mini_headline": "日本全片AI长篇电影",
+          "headline": "新Expression\nSheet预览面部表演",
+          "body": "Luma的Expression Sheet让创作者在确定方向前探索角色的表情幅度。",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "图片：Tender Pro（视频截图）"
-              },
-              {
-                "t": "p",
-                "x": "日本电影制作团队于2日宣布，计划在2027年推出全片由生成式AI制作的长篇电影《时空游郭迷宫》（時空遊郭ラビリンス）。该片由日本的Oxons、Tender Pro与全日本志愿者联盟（All Japan Volunteer Federation）联合制作。"
-              },
-              {
-                "t": "p",
-                "x": "片中真实演员将以AI复现的形象登场。参与AI演出的演员共3名，分别是Furukawa An、Oshidari Akiko和Hotta Shinzo。Hotta Shinzo表示：“首先难以置信。真的就是Hotta Shinzo本人。太惊人了。”影片由以《摄影机不要停！》摄影指导而闻名的曾根刚执导。"
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "本片使用OpenAI的ChatGPT创作剧本，主题曲《LABYRINTH》则通过AI音乐生成服务Suno制作。故事讲述剧场“迷宫”的歌手妮娜面前出现一个与她长相、声音完全相同的AI，由此抛出“你的梦想如今属于谁”的问题。具体上映日期与放映方式预计将在日后公布。"
+                "x": "她用一张脸演绎了许多。"
+              },
+              {
+                "t": "p",
+                "x": "借助Expression Sheet,你可以在选定方向前探索角色表演的各种可能。"
+              },
+              {
+                "t": "p",
+                "x": "现已登陆Luma"
               }
             ]
           }
         },
         "es": {
-          "headline": "Japón estrenará en 2027 un\nlargometraje hecho todo con AI",
-          "body": "El guion es de ChatGPT, 3 actores se recrean con AI y el tema principal lo compone Suno.",
-          "mini_headline": "Largometraje japonés hecho con AI",
+          "headline": "Expression Sheet de Luma\nanticipa la actuación facial",
+          "body": "Expression Sheet de Luma permite a creadores explorar el rango facial de un personaje antes de elegir una dirección.",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "Foto: Tender Pro (captura de video)"
-              },
-              {
-                "t": "p",
-                "x": "Los productores japoneses anunciaron el día 2 que estrenarán en 2027 ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), un largometraje realizado íntegramente con AI generativa. Lo coproducen las japonesas Oxons y Tender Pro junto con la All Japan Volunteer Federation."
-              },
-              {
-                "t": "p",
-                "x": "Actores reales aparecen recreados con AI. Los 3 actores que participan mediante AI son An Furukawa, Akiko Oshidari y Shinzo Hotta. Shinzo Hotta declaró: “Para empezar, no me lo creo. Es Shinzo Hotta tal cual. Es asombroso”. La dirección corre a cargo de Takeshi Sone, conocido como director de fotografía de ‘One Cut of the Dead’."
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "Para el guion se utilizó ChatGPT de OpenAI, y el tema principal, ‘LABYRINTH’, se creó con Suno, un servicio de generación musical con AI. La historia arranca cuando ante Nina, cantante del teatro ‘Labyrinth’, aparece una AI con su mismo rostro y su misma voz, y plantea la pregunta ‘¿De quién es ahora tu sueño?’. La fecha concreta de estreno y el formato de exhibición se anunciarán más adelante."
+                "x": "Hace mucho con un solo rostro."
+              },
+              {
+                "t": "p",
+                "x": "Expression Sheet permite explorar hasta dónde puede llegar la actuación de un personaje antes de elegir la dirección."
+              },
+              {
+                "t": "p",
+                "x": "Ya disponible en Luma"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Japan's fully AI-made feature\nfilm to be released in 2027",
-          "body": "The script comes from ChatGPT, 3 actors are recreated with AI and Suno makes the theme song.",
-          "mini_headline": "Japan's all-AI feature film",
+        "ko": {
+          "headline": "새 Expression\nSheet로 표정 미리보기",
+          "body": "Luma Expression Sheet는 방향을 정하기 전 표정 폭을 살피게 한다.",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "Photo: Tender Pro (video capture)"
-              },
-              {
-                "t": "p",
-                "x": "Japanese filmmakers announced on the 2nd that they plan to release ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), a feature film made entirely with generative AI, in 2027. It is co-produced by Japan's Oxons, Tender Pro and the All Japan Volunteer Federation."
-              },
-              {
-                "t": "p",
-                "x": "Real actors appear as AI recreations. The 3 actors cast through AI are An Furukawa, Akiko Oshidari and Shinzo Hotta. Shinzo Hotta said, “First of all, I can't believe it. It really is Shinzo Hotta exactly. It's amazing.” The film is directed by Takeshi Sone, known as the cinematographer of ‘One Cut of the Dead’."
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "OpenAI's ChatGPT was used to write the script, and the theme song ‘LABYRINTH’ was made with the AI music generation service Suno. The story follows Nina, a singer at the theater ‘Labyrinth’, after an AI with her exact face and voice appears before her, and it poses the question ‘Whose dream is yours now?’ The specific release date and screening format are expected to be announced later."
+                "x": "그녀는 얼굴 하나로 많은 것을 해낸다."
+              },
+              {
+                "t": "p",
+                "x": "Expression Sheet로 방향을 고르기 전에 캐릭터의 연기가 어디까지 갈 수 있는지 탐색할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이제 Luma에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "全編AI製の長編映画\n日本で2027年公開",
-          "body": "脚本はChatGPT、俳優3人はAIで再現し、主題歌はSunoが作る。",
-          "mini_headline": "日本の全編AI長編映画",
+          "headline": "新Expression\nSheetで表情を試す",
+          "body": "LumaのExpression Sheetで方向を決める前にキャラクターの表情の幅を探れる。",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "写真:テンダープロ(映像キャプチャー)"
-              },
-              {
-                "t": "p",
-                "x": "日本の映画制作陣は2日、全編を生成AIで制作した長編映画『時空遊郭ラビリンス』を2027年に公開する予定だと発表した。日本のオクソンズ(Oxons)、テンダープロ(Tender Pro)、全日本ボランティア連盟(All Japan Volunteer Federation)が共同で制作する。"
-              },
-              {
-                "t": "p",
-                "x": "実在の俳優がAIで再現された姿で登場する。AIで出演する俳優はフルカワ・アン、オシダリ・アキコ、ホッタ・シンゾウの3人だ。ホッタ・シンゾウは「まず信じられない。本当にホッタ・シンゾウそのものだ。驚いた」と語った。監督は『カメラを止めるな!』の撮影監督として知られる曽根剛が務めた。"
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "今回の作品ではOpenAIのChatGPTが脚本制作に使われ、主題歌『ラビリンス(LABYRINTH)』はAI音楽生成サービスのスノ(Suno)で制作された。劇場『ラビリンス』の歌手ニナの前に、自分と同じ顔と声を持つAIが現れることから始まる物語で、「あなたの夢は今、誰のものか」という問いを投げかける。具体的な公開日と上映方式は追って発表される見通しだ。"
+                "x": "ひとつの顔で、彼女は多くを表現している。"
+              },
+              {
+                "t": "p",
+                "x": "Expression Sheetを使えば、方向性を決める前にキャラクターの演技がどこまで広がるかを探ることができる。"
+              },
+              {
+                "t": "p",
+                "x": "Lumaで提供中"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本全片AI制作\n长篇电影2027年上映",
-          "body": "剧本由ChatGPT撰写，3名演员由AI复现，主题曲由Suno创作。",
-          "mini_headline": "日本全片AI长篇电影",
+          "headline": "新Expression\nSheet预览面部表演",
+          "body": "Luma的Expression Sheet让创作者在确定方向前探索角色的表情幅度。",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "图片：Tender Pro（视频截图）"
-              },
-              {
-                "t": "p",
-                "x": "日本电影制作团队于2日宣布，计划在2027年推出全片由生成式AI制作的长篇电影《时空游郭迷宫》（時空遊郭ラビリンス）。该片由日本的Oxons、Tender Pro与全日本志愿者联盟（All Japan Volunteer Federation）联合制作。"
-              },
-              {
-                "t": "p",
-                "x": "片中真实演员将以AI复现的形象登场。参与AI演出的演员共3名，分别是Furukawa An、Oshidari Akiko和Hotta Shinzo。Hotta Shinzo表示：“首先难以置信。真的就是Hotta Shinzo本人。太惊人了。”影片由以《摄影机不要停！》摄影指导而闻名的曾根刚执导。"
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "本片使用OpenAI的ChatGPT创作剧本，主题曲《LABYRINTH》则通过AI音乐生成服务Suno制作。故事讲述剧场“迷宫”的歌手妮娜面前出现一个与她长相、声音完全相同的AI，由此抛出“你的梦想如今属于谁”的问题。具体上映日期与放映方式预计将在日后公布。"
+                "x": "她用一张脸演绎了许多。"
+              },
+              {
+                "t": "p",
+                "x": "借助Expression Sheet,你可以在选定方向前探索角色表演的各种可能。"
+              },
+              {
+                "t": "p",
+                "x": "现已登陆Luma"
               }
             ]
           }
         },
         "es": {
-          "headline": "Japón estrenará en 2027 un\nlargometraje hecho todo con AI",
-          "body": "El guion es de ChatGPT, 3 actores se recrean con AI y el tema principal lo compone Suno.",
-          "mini_headline": "Largometraje japonés hecho con AI",
+          "headline": "Expression Sheet de Luma\nanticipa la actuación facial",
+          "body": "Expression Sheet de Luma permite a creadores explorar el rango facial de un personaje antes de elegir una dirección.",
+          "mini_headline": "Luma Expression Sheet",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42538_63930_3837.jpg",
-                "cap": "Foto: Tender Pro (captura de video)"
-              },
-              {
-                "t": "p",
-                "x": "Los productores japoneses anunciaron el día 2 que estrenarán en 2027 ‘Jiku Yukaku Labyrinth’ (時空遊郭ラビリンス), un largometraje realizado íntegramente con AI generativa. Lo coproducen las japonesas Oxons y Tender Pro junto con la All Japan Volunteer Federation."
-              },
-              {
-                "t": "p",
-                "x": "Actores reales aparecen recreados con AI. Los 3 actores que participan mediante AI son An Furukawa, Akiko Oshidari y Shinzo Hotta. Shinzo Hotta declaró: “Para empezar, no me lo creo. Es Shinzo Hotta tal cual. Es asombroso”. La dirección corre a cargo de Takeshi Sone, conocido como director de fotografía de ‘One Cut of the Dead’."
-              },
-              {
                 "t": "video",
-                "yt": "e8H_ggZXKqY"
+                "yt": "MZ-1e4uYEiA"
               },
               {
                 "t": "p",
-                "x": "Para el guion se utilizó ChatGPT de OpenAI, y el tema principal, ‘LABYRINTH’, se creó con Suno, un servicio de generación musical con AI. La historia arranca cuando ante Nina, cantante del teatro ‘Labyrinth’, aparece una AI con su mismo rostro y su misma voz, y plantea la pregunta ‘¿De quién es ahora tu sueño?’. La fecha concreta de estreno y el formato de exhibición se anunciarán más adelante."
+                "x": "Hace mucho con un solo rostro."
+              },
+              {
+                "t": "p",
+                "x": "Expression Sheet permite explorar hasta dónde puede llegar la actuación de un personaje antes de elegir la dirección."
+              },
+              {
+                "t": "p",
+                "x": "Ya disponible en Luma"
               }
             ]
           }
@@ -647,321 +557,281 @@
       }
     },
     {
-      "id": "akuna-google-africa-ai-film",
-      "source_lang": "en",
+      "id": "yna-imkwontaek-ai-short",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Elba·Google,\n무료 AI 영화 과정 연다",
-      "body": "아프리카 다섯 나라 신진은 11월 15일까지 무료 AI 영화교육·제작비에 지원한다.",
-      "mini_headline": "Elba·Google, 아프리카 AI 영화 지원",
+      "headline": "AI가 배운 임권택 스타일\n단편 '확인' 첫 공개",
+      "body": "임권택 영화를 학습한 AI가 연출한 단편 '확인'이 예술원 영화전에서 공개된다.",
+      "mini_headline": "AI가 연출한 임권택 스타일",
       "tool": "Movies",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/idris-elba-google-launch-free-ai-filmmaking-programme-in-five-african-countries/",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261102043400005",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "대한민국예술원은 5∼6일 서울 중구 서울영화센터에서 '2026년 대한민국예술원 영화전'을 개최한다. '인공지능(AI) 시대, 영화는 어떻게 살아남는가'를 주제로 열리는 올해 영화전에서는 AI가 임권택 감독의 영화를 공부한 뒤, 임 감독의 스타일로 연출한 단편 영화 '확인'이 최초로 공개된다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-            "cap": "Idris Elba와 Google, 아프리카 다섯 나라에서 무료 AI 영화 제작 프로그램 시작"
+            "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+            "cap": "[대한민국예술원 제공. 재판매 및 DB 금지]"
           },
           {
             "t": "p",
-            "x": "영국 배우 Sir Idris Elba가 회장인 The Akuna Group 산하 이니셔티브 Akuna Learning이 아프리카 다섯 나라 예비·신진 창작자를 대상으로 무료 인공지능(AI) 영화 제작 프로그램 신청을 받기 시작했다."
+            "x": "영화는 코로나19 사태 당시 요양원에 입원한 아버지를 찾아간 아들이 끝내 면회하지 못한 채 아버지의 죽음을 맞이하는 모습을 그렸다. AI가 임권택 감독 특유의 롱테이크 장면 연출을 그대로 따라 해 만들었다."
           },
           {
             "t": "p",
-            "x": "프로그램 이름은 ‘From Script to Screen with AI’로, Google과 함께 운영한다. 자금 1백만 달러는 Google.org가 대고 커리큘럼은 Curious Refuge가 짰다. 대상은 나이지리아, 가나, 케냐, 시에라리온, 남아프리카공화국에서 자격 요건을 갖춘 지원자이며 신청은 2026년 11월 15일에 마감한다."
-          },
-          {
-            "t": "p",
-            "x": "50주(50-week) 과정은 12주(12-week) 온라인 아카데미에 멘토링과 피칭 기회, 선정 프로젝트 제작비 지원을 묶었다. 창작물의 소유권과 통제권은 참가자가 그대로 갖는다. 선정작은 제작비를 받아 2027년 7월부터 10월까지 촬영하고, 완성작은 2027년 10월에 공개된다."
-          },
-          {
-            "t": "p",
-            "x": "영화학교 학위나 AI 경험은 없어도 된다. 다만 기존 작업물로 창작 역량을 증명해야 한다."
+            "x": "또 배창호 감독의 '젊은 남자', 정지영 감독의 '내 이름은' 중 일부 장면을 AI로 수정해 공개한다. '젊은 남자' 속 화염에 쌓인 자동차 장면을 AI로 실감 나게 재현했고, '내 이름은'의 마지막 장면에 바람이 부는 효과를 AI로 추가했다. 중단편 AI 영화 우수작 8편을 선정해 상영하고, 감독을 초청해 관객과 대화하는 자리도 가진다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Idris Elba and Google open\na free AI film programme",
-          "body": "Emerging creators in five African countries can apply until Nov 15 for free AI film training plus production funding.",
-          "mini_headline": "Elba, Google back African AI film",
+        "ko": {
+          "headline": "AI가 배운 임권택 스타일\n단편 '확인' 첫 공개",
+          "body": "임권택 영화를 학습한 AI가 연출한 단편 '확인'이 예술원 영화전에서 공개된다.",
+          "mini_headline": "AI가 연출한 임권택 스타일",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "대한민국예술원은 5∼6일 서울 중구 서울영화센터에서 '2026년 대한민국예술원 영화전'을 개최한다. '인공지능(AI) 시대, 영화는 어떻게 살아남는가'를 주제로 열리는 올해 영화전에서는 AI가 임권택 감독의 영화를 공부한 뒤, 임 감독의 스타일로 연출한 단편 영화 '확인'이 최초로 공개된다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris Elba, Google launch free AI filmmaking programme in five African countries"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[대한민국예술원 제공. 재판매 및 DB 금지]"
               },
               {
                 "t": "p",
-                "x": "Akuna Learning, an initiative of The Akuna Group chaired by British actor, Sir Idris Elba, has opened applications for a free artificial intelligence, AI, filmmaking programme for aspiring and emerging African creatives in five countries."
+                "x": "영화는 코로나19 사태 당시 요양원에 입원한 아버지를 찾아간 아들이 끝내 면회하지 못한 채 아버지의 죽음을 맞이하는 모습을 그렸다. AI가 임권택 감독 특유의 롱테이크 장면 연출을 그대로 따라 해 만들었다."
               },
               {
                 "t": "p",
-                "x": "The programme, tagged From Script to Screen with AI, is being delivered in collaboration with Google, with $1 million funding from Google.org and a curriculum developed by Curious Refuge. It is open to eligible applicants in Nigeria, Ghana, Kenya, Sierra Leone and South Africa, with applications closing on November 15, 2026."
-              },
-              {
-                "t": "p",
-                "x": "The 50-week programme will combine a 12-week online academy with mentorship, pitching opportunities and production funding for selected film projects. Participants will also retain ownership and control of their creative works. Selected projects will receive funding for production, with filming scheduled for July to October 2027, and the completed films will be showcased in October 2027."
-              },
-              {
-                "t": "p",
-                "x": "Applicants do not need a film school qualification or previous AI experience but must demonstrate their creative abilities through existing work."
+                "x": "또 배창호 감독의 '젊은 남자', 정지영 감독의 '내 이름은' 중 일부 장면을 AI로 수정해 공개한다. '젊은 남자' 속 화염에 쌓인 자동차 장면을 AI로 실감 나게 재현했고, '내 이름은'의 마지막 장면에 바람이 부는 효과를 AI로 추가했다. 중단편 AI 영화 우수작 8편을 선정해 상영하고, 감독을 초청해 관객과 대화하는 자리도 가진다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Elba·Google,\n무료 AI 영화 과정 연다",
-          "body": "아프리카 다섯 나라 신진은 11월 15일까지 무료 AI 영화교육·제작비에 지원한다.",
-          "mini_headline": "Elba·Google, 아프리카 AI 영화 지원",
+        "en": {
+          "headline": "AI learns Im Kwon-taek's style\nShort 'Confirmation' premieres",
+          "body": "Short film 'Confirmation', directed by AI trained on Im Kwon-taek's films, debuts at the Academy of Arts exhibition.",
+          "mini_headline": "AI directs in Im Kwon-taek's style",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The National Academy of Arts of the Republic of Korea will hold the '2026 National Academy of Arts Film Exhibition' on the 5th∼6th at the Seoul Film Center in Jung-gu, Seoul. At this year's exhibition, themed 'How Does Film Survive in the Age of Artificial Intelligence (AI)?', the short film 'Confirmation', which AI directed in director Im Kwon-taek's style after studying his films, will be shown for the first time."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris Elba와 Google, 아프리카 다섯 나라에서 무료 AI 영화 제작 프로그램 시작"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[Provided by the National Academy of Arts. Resale and DB use prohibited]"
               },
               {
                 "t": "p",
-                "x": "영국 배우 Sir Idris Elba가 회장인 The Akuna Group 산하 이니셔티브 Akuna Learning이 아프리카 다섯 나라 예비·신진 창작자를 대상으로 무료 인공지능(AI) 영화 제작 프로그램 신청을 받기 시작했다."
+                "x": "The film depicts a son who visits his father, admitted to a nursing home during the COVID-19 crisis, but is never able to see him before his father dies. The AI made it by closely following the long-take staging characteristic of director Im Kwon-taek."
               },
               {
                 "t": "p",
-                "x": "프로그램 이름은 ‘From Script to Screen with AI’로, Google과 함께 운영한다. 자금 1백만 달러는 Google.org가 대고 커리큘럼은 Curious Refuge가 짰다. 대상은 나이지리아, 가나, 케냐, 시에라리온, 남아프리카공화국에서 자격 요건을 갖춘 지원자이며 신청은 2026년 11월 15일에 마감한다."
-              },
-              {
-                "t": "p",
-                "x": "50주(50-week) 과정은 12주(12-week) 온라인 아카데미에 멘토링과 피칭 기회, 선정 프로젝트 제작비 지원을 묶었다. 창작물의 소유권과 통제권은 참가자가 그대로 갖는다. 선정작은 제작비를 받아 2027년 7월부터 10월까지 촬영하고, 완성작은 2027년 10월에 공개된다."
-              },
-              {
-                "t": "p",
-                "x": "영화학교 학위나 AI 경험은 없어도 된다. 다만 기존 작업물로 창작 역량을 증명해야 한다."
+                "x": "Some scenes from director Bae Chang-ho's 'Young Man' and director Chung Ji-young's 'My Name Is' will also be shown after being modified with AI. The car scene engulfed in flames in 'Young Man' was recreated realistically with AI, and a wind-blowing effect was added with AI to the final scene of 'My Name Is'. The exhibition will also select and screen 8 outstanding short and mid-length AI films, and invite directors for conversations with audiences."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Elba・Google、\n無料AI映画講座を開講",
-          "body": "アフリカ五カ国の新進クリエイターは11月15日まで無料AI映画講座と制作資金に応募できる。",
-          "mini_headline": "Elba・Google、アフリカのAI映画を支援",
+          "headline": "AIがイム・グォンテク流\n短編『確認』を初公開",
+          "body": "イム・グォンテク作品を学習したAIが演出した短編『確認』が芸術院映画展で公開される。",
+          "mini_headline": "AIが演出したイム・グォンテク流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韓民国芸術院は5∼6日、ソウル中区のソウル映画センターで「2026年大韓民国芸術院映画展」を開催する。「人工知能(AI)時代、映画はいかに生き残るか」をテーマとする今年の映画展では、AIがイム・グォンテク監督の作品を学んだうえで同監督のスタイルで演出した短編映画『確認』が初公開される。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris ElbaとGoogle、アフリカ五カ国で無料のAI映画制作プログラムを開始"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[大韓民国芸術院提供。転売およびDB化禁止]"
               },
               {
                 "t": "p",
-                "x": "英国の俳優Sir Idris Elbaが会長を務めるThe Akuna Groupの取り組みであるAkuna Learningは、アフリカ五カ国の映画作家志望者や新進クリエイターを対象とした無料の人工知能(AI)映画制作プログラムの応募受付を始めた。"
+                "x": "映画は、コロナ19の流行当時、療養施設に入所した父を訪ねた息子が、ついに面会できないまま父の死を迎える姿を描いた。AIがイム・グォンテク監督特有のロングテイクの演出をそのまま再現して制作した。"
               },
               {
                 "t": "p",
-                "x": "「From Script to Screen with AI」と銘打ったこのプログラムはGoogleと協力して実施され、Google.orgが1百万ドルを拠出し、カリキュラムはCurious Refugeが開発した。対象はナイジェリア、ガーナ、ケニア、シエラレオネ、南アフリカの応募資格を満たす人で、応募は2026年11月15日に締め切られる。"
-              },
-              {
-                "t": "p",
-                "x": "50週間(50-week)のプログラムは、12週間(12-week)のオンラインアカデミーに、メンタリング、ピッチの機会、選ばれた映画プロジェクトへの制作資金を組み合わせる。参加者は自身の作品の所有権と管理権も保持する。選ばれたプロジェクトには制作資金が提供され、撮影は2027年7月から10月に予定されている。完成作は2027年10月に披露される。"
-              },
-              {
-                "t": "p",
-                "x": "応募者に映画学校の資格や過去のAI経験は必要ないが、既存の作品を通じて創作力を示す必要がある。"
+                "x": "また、ペ・チャンホ監督の『若い男』、チョン・ジヨン監督の『私の名前は』の一部シーンをAIで修正して公開する。『若い男』の炎に包まれた車のシーンをAIでリアルに再現し、『私の名前は』のラストシーンには風が吹く効果をAIで加えた。中短編AI映画の優秀作8本を選んで上映し、監督を招いて観客と対話する場も設ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Elba与Google\n推出免费AI电影课程",
-          "body": "非洲五国新锐创作者可在11月15日前申请免费AI电影培训及制作资金。",
-          "mini_headline": "Elba与Google支持非洲AI电影",
+          "headline": "AI习得林权泽风格\n短片《确认》首映",
+          "body": "学习林权泽电影的AI执导的短片《确认》将在艺术院电影展上公开。",
+          "mini_headline": "AI执导的林权泽风格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韩民国艺术院将于5∼6日在首尔中区首尔电影中心举办“2026年大韩民国艺术院电影展”。今年电影展以“人工智能(AI)时代,电影如何生存”为主题,将首次公开由AI学习林权泽导演的电影后,以其风格执导的短片《确认》。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris Elba与Google在非洲五国推出免费AI电影制作项目"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[大韩民国艺术院提供。禁止转售及收录DB]"
               },
               {
                 "t": "p",
-                "x": "由英国演员Sir Idris Elba担任主席的The Akuna Group旗下项目Akuna Learning，已面向非洲五国有志于电影的新锐创作者开放一项免费人工智能（AI）电影制作项目的申请。"
+                "x": "影片讲述了COVID-19疫情期间,儿子前往探望住进疗养院的父亲,却始终未能见上一面,最终迎来父亲离世的故事。AI完整模仿林权泽导演标志性的长镜头调度制作了这部影片。"
               },
               {
                 "t": "p",
-                "x": "该项目名为“From Script to Screen with AI”，与Google合作开展，由Google.org提供1百万美元资金，课程由Curious Refuge开发。项目面向尼日利亚、加纳、肯尼亚、塞拉利昂和南非的合格申请者，申请将于2026年11月15日截止。"
-              },
-              {
-                "t": "p",
-                "x": "这一为期50周（50-week）的项目将12周（12-week）的线上学院课程与导师指导、提案机会以及入选电影项目的制作资金相结合。参与者还将保留其创作作品的所有权和控制权。入选项目将获得制作资金，拍摄定于2027年7月至10月进行，完成的影片将于2027年10月展映。"
-              },
-              {
-                "t": "p",
-                "x": "申请者无需电影学校学历或此前的AI经验，但须通过已有作品展示其创作能力。"
+                "x": "此外,还将公开用AI修改过的裴昶浩导演《年轻男人》和郑智泳导演《我的名字是》中的部分场景。《年轻男人》中被火焰包围的汽车场景用AI进行了逼真再现,《我的名字是》的最后一场戏则用AI添加了风吹的效果。展会还将评选并放映8部中短篇AI电影优秀作品,并邀请导演与观众交流。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Idris Elba y Google abren\nun curso gratuito de cine con AI",
-          "body": "Creadores de cinco países africanos pueden pedir hasta el 15 de noviembre formación gratuita en cine con AI y fondos.",
-          "mini_headline": "Elba y Google apoyan el cine AI africano",
+          "headline": "AI con el estilo de Im Kwon-taek\nestrena el corto 'Confirmación'",
+          "body": "El corto 'Confirmación', dirigido por una AI entrenada con filmes de Im Kwon-taek, se estrena en la Academia de Artes.",
+          "mini_headline": "AI dirige al estilo de Im Kwon-taek",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Academia Nacional de las Artes de la República de Corea celebrará la 'Muestra de Cine 2026 de la Academia Nacional de las Artes' los días 5∼6 en el Seoul Film Center, en el distrito de Jung-gu, Seúl. En la muestra de este año, con el tema 'En la era de la inteligencia artificial (AI), ¿cómo sobrevive el cine?', se presentará por primera vez el cortometraje 'Confirmación', que una AI dirigió al estilo del director Im Kwon-taek tras estudiar sus películas."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris Elba y Google lanzan un programa gratuito de cine con AI en cinco países africanos"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[Cortesía de la Academia Nacional de las Artes. Prohibida su reventa y uso en DB]"
               },
               {
                 "t": "p",
-                "x": "Akuna Learning, una iniciativa de The Akuna Group, presidido por el actor británico Sir Idris Elba, ha abierto la convocatoria de un programa gratuito de cine con inteligencia artificial, AI, para creativos africanos aspirantes y emergentes de cinco países."
+                "x": "La película retrata a un hijo que visita a su padre, internado en una residencia durante la crisis del COVID-19, y que nunca logra verlo antes de su muerte. La AI la realizó imitando fielmente los planos secuencia característicos del director Im Kwon-taek."
               },
               {
                 "t": "p",
-                "x": "El programa, denominado From Script to Screen with AI, se imparte en colaboración con Google, con 1 millón de dólares de financiación de Google.org y un plan de estudios desarrollado por Curious Refuge. Está abierto a solicitantes que cumplan los requisitos en Nigeria, Ghana, Kenia, Sierra Leona y Sudáfrica, y la convocatoria cierra el 15 de noviembre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "El programa de 50 semanas (50-week) combinará una academia en línea de 12 semanas (12-week) con mentoría, oportunidades de presentar proyectos y financiación para la producción de los proyectos seleccionados. Los participantes conservarán además la propiedad y el control de sus obras. Los proyectos elegidos recibirán fondos para la producción, con el rodaje previsto de julio a octubre de 2027, y las películas terminadas se presentarán en octubre de 2027."
-              },
-              {
-                "t": "p",
-                "x": "Los solicitantes no necesitan un título de escuela de cine ni experiencia previa con AI, pero deben demostrar su capacidad creativa con trabajos ya realizados."
+                "x": "Además, se mostrarán algunas escenas de 'Un hombre joven', del director Bae Chang-ho, y de 'Mi nombre es', del director Chung Ji-young, modificadas con AI. La escena del coche envuelto en llamas de 'Un hombre joven' se recreó con realismo mediante AI, y a la escena final de 'Mi nombre es' se le añadió con AI un efecto de viento. Se seleccionarán y proyectarán 8 destacadas películas de AI de corta y media duración, y se invitará a los directores a dialogar con el público."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Elba·Google,\n무료 AI 영화 과정 개설",
-          "body": "아프리카 다섯 나라 신진은 11월 15일까지 무료 AI 영화교육·제작비를 신청한다.",
-          "mini_headline": "Elba·Google, 아프리카 AI 영화 지원",
+        "en": {
+          "headline": "AI learns Im Kwon-taek's style\nShort 'Confirmation' premieres",
+          "body": "Short film 'Confirmation', directed by AI trained on Im Kwon-taek's films, debuts at the Academy of Arts exhibition.",
+          "mini_headline": "AI directs in Im Kwon-taek's style",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The National Academy of Arts of the Republic of Korea will hold the '2026 National Academy of Arts Film Exhibition' on the 5th∼6th at the Seoul Film Center in Jung-gu, Seoul. At this year's exhibition, themed 'How Does Film Survive in the Age of Artificial Intelligence (AI)?', the short film 'Confirmation', which AI directed in director Im Kwon-taek's style after studying his films, will be shown for the first time."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris Elba와 Google, 아프리카 다섯 나라에서 무료 AI 영화 제작 프로그램 시작"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[Provided by the National Academy of Arts. Resale and DB use prohibited]"
               },
               {
                 "t": "p",
-                "x": "영국 배우 Sir Idris Elba가 회장을 맡은 The Akuna Group의 이니셔티브 Akuna Learning이 아프리카 다섯 나라의 예비·신진 창작자를 위한 무료 인공지능(AI) 영화 제작 프로그램의 신청 접수를 시작했다."
+                "x": "The film depicts a son who visits his father, admitted to a nursing home during the COVID-19 crisis, but is never able to see him before his father dies. The AI made it by closely following the long-take staging characteristic of director Im Kwon-taek."
               },
               {
                 "t": "p",
-                "x": "‘From Script to Screen with AI’라는 이름의 이 프로그램은 Google과 협력해 운영한다. Google.org가 1백만 달러를 지원하고, 커리큘럼은 Curious Refuge가 개발했다. 나이지리아, 가나, 케냐, 시에라리온, 남아프리카공화국의 자격을 갖춘 지원자가 대상이며, 신청은 2026년 11월 15일에 마감한다."
-              },
-              {
-                "t": "p",
-                "x": "50주(50-week) 과정은 12주(12-week) 온라인 아카데미에 멘토링, 피칭 기회, 선정된 영화 프로젝트의 제작비 지원을 결합한다. 참가자는 자기 창작물의 소유권과 통제권도 유지한다. 선정 프로젝트는 제작비를 받아 2027년 7월부터 10월까지 촬영하며, 완성작은 2027년 10월에 공개한다."
-              },
-              {
-                "t": "p",
-                "x": "지원자에게 영화학교 학위나 AI 경험은 필요 없지만, 기존 작업물로 창작 역량을 보여줘야 한다."
+                "x": "Some scenes from director Bae Chang-ho's 'Young Man' and director Chung Ji-young's 'My Name Is' will also be shown after being modified with AI. The car scene engulfed in flames in 'Young Man' was recreated realistically with AI, and a wind-blowing effect was added with AI to the final scene of 'My Name Is'. The exhibition will also select and screen 8 outstanding short and mid-length AI films, and invite directors for conversations with audiences."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Elba・Google、\n無料AI映画講座を開講",
-          "body": "アフリカ五カ国の新進クリエイターは11月15日まで無料AI映画講座と制作資金に応募できる。",
-          "mini_headline": "Elba・Google、アフリカのAI映画を支援",
+          "headline": "AIがイム・グォンテク流\n短編『確認』を初公開",
+          "body": "イム・グォンテク作品を学習したAIが演出した短編『確認』が芸術院映画展で公開される。",
+          "mini_headline": "AIが演出したイム・グォンテク流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韓民国芸術院は5∼6日、ソウル中区のソウル映画センターで「2026年大韓民国芸術院映画展」を開催する。「人工知能(AI)時代、映画はいかに生き残るか」をテーマとする今年の映画展では、AIがイム・グォンテク監督の作品を学んだうえで同監督のスタイルで演出した短編映画『確認』が初公開される。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris ElbaとGoogle、アフリカ五カ国で無料のAI映画制作プログラムを開始"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[大韓民国芸術院提供。転売およびDB化禁止]"
               },
               {
                 "t": "p",
-                "x": "英国の俳優Sir Idris Elbaが会長を務めるThe Akuna Groupの取り組みであるAkuna Learningは、アフリカ五カ国の映画作家志望者や新進クリエイターを対象とした無料の人工知能(AI)映画制作プログラムの応募受付を始めた。"
+                "x": "映画は、コロナ19の流行当時、療養施設に入所した父を訪ねた息子が、ついに面会できないまま父の死を迎える姿を描いた。AIがイム・グォンテク監督特有のロングテイクの演出をそのまま再現して制作した。"
               },
               {
                 "t": "p",
-                "x": "「From Script to Screen with AI」と銘打ったこのプログラムはGoogleと協力して実施され、Google.orgが1百万ドルを拠出し、カリキュラムはCurious Refugeが開発した。対象はナイジェリア、ガーナ、ケニア、シエラレオネ、南アフリカの応募資格を満たす人で、応募は2026年11月15日に締め切られる。"
-              },
-              {
-                "t": "p",
-                "x": "50週間(50-week)のプログラムは、12週間(12-week)のオンラインアカデミーに、メンタリング、ピッチの機会、選ばれた映画プロジェクトへの制作資金を組み合わせる。参加者は自身の作品の所有権と管理権も保持する。選ばれたプロジェクトには制作資金が提供され、撮影は2027年7月から10月に予定されている。完成作は2027年10月に披露される。"
-              },
-              {
-                "t": "p",
-                "x": "応募者に映画学校の資格や過去のAI経験は必要ないが、既存の作品を通じて創作力を示す必要がある。"
+                "x": "また、ペ・チャンホ監督の『若い男』、チョン・ジヨン監督の『私の名前は』の一部シーンをAIで修正して公開する。『若い男』の炎に包まれた車のシーンをAIでリアルに再現し、『私の名前は』のラストシーンには風が吹く効果をAIで加えた。中短編AI映画の優秀作8本を選んで上映し、監督を招いて観客と対話する場も設ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Elba与Google\n推出免费AI电影课程",
-          "body": "非洲五国新锐创作者可在11月15日前申请免费AI电影培训及制作资金。",
-          "mini_headline": "Elba与Google支持非洲AI电影",
+          "headline": "AI习得林权泽风格\n短片《确认》首映",
+          "body": "学习林权泽电影的AI执导的短片《确认》将在艺术院电影展上公开。",
+          "mini_headline": "AI执导的林权泽风格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韩民国艺术院将于5∼6日在首尔中区首尔电影中心举办“2026年大韩民国艺术院电影展”。今年电影展以“人工智能(AI)时代,电影如何生存”为主题,将首次公开由AI学习林权泽导演的电影后,以其风格执导的短片《确认》。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris Elba与Google在非洲五国推出免费AI电影制作项目"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[大韩民国艺术院提供。禁止转售及收录DB]"
               },
               {
                 "t": "p",
-                "x": "由英国演员Sir Idris Elba担任主席的The Akuna Group旗下项目Akuna Learning，已面向非洲五国有志于电影的新锐创作者开放一项免费人工智能（AI）电影制作项目的申请。"
+                "x": "影片讲述了COVID-19疫情期间,儿子前往探望住进疗养院的父亲,却始终未能见上一面,最终迎来父亲离世的故事。AI完整模仿林权泽导演标志性的长镜头调度制作了这部影片。"
               },
               {
                 "t": "p",
-                "x": "该项目名为“From Script to Screen with AI”，与Google合作开展，由Google.org提供1百万美元资金，课程由Curious Refuge开发。项目面向尼日利亚、加纳、肯尼亚、塞拉利昂和南非的合格申请者，申请将于2026年11月15日截止。"
-              },
-              {
-                "t": "p",
-                "x": "这一为期50周（50-week）的项目将12周（12-week）的线上学院课程与导师指导、提案机会以及入选电影项目的制作资金相结合。参与者还将保留其创作作品的所有权和控制权。入选项目将获得制作资金，拍摄定于2027年7月至10月进行，完成的影片将于2027年10月展映。"
-              },
-              {
-                "t": "p",
-                "x": "申请者无需电影学校学历或此前的AI经验，但须通过已有作品展示其创作能力。"
+                "x": "此外,还将公开用AI修改过的裴昶浩导演《年轻男人》和郑智泳导演《我的名字是》中的部分场景。《年轻男人》中被火焰包围的汽车场景用AI进行了逼真再现,《我的名字是》的最后一场戏则用AI添加了风吹的效果。展会还将评选并放映8部中短篇AI电影优秀作品,并邀请导演与观众交流。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Idris Elba y Google abren\nun curso gratuito de cine con AI",
-          "body": "Creadores de cinco países africanos pueden pedir hasta el 15 de noviembre formación gratuita en cine con AI y fondos.",
-          "mini_headline": "Elba y Google apoyan el cine AI africano",
+          "headline": "AI con el estilo de Im Kwon-taek\nestrena el corto 'Confirmación'",
+          "body": "El corto 'Confirmación', dirigido por una AI entrenada con filmes de Im Kwon-taek, se estrena en la Academia de Artes.",
+          "mini_headline": "AI dirige al estilo de Im Kwon-taek",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Academia Nacional de las Artes de la República de Corea celebrará la 'Muestra de Cine 2026 de la Academia Nacional de las Artes' los días 5∼6 en el Seoul Film Center, en el distrito de Jung-gu, Seúl. En la muestra de este año, con el tema 'En la era de la inteligencia artificial (AI), ¿cómo sobrevive el cine?', se presentará por primera vez el cortometraje 'Confirmación', que una AI dirigió al estilo del director Im Kwon-taek tras estudiar sus películas."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.06.28-PM.jpeg",
-                "cap": "Idris Elba y Google lanzan un programa gratuito de cine con AI en cinco países africanos"
+                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
+                "cap": "[Cortesía de la Academia Nacional de las Artes. Prohibida su reventa y uso en DB]"
               },
               {
                 "t": "p",
-                "x": "Akuna Learning, una iniciativa de The Akuna Group, presidido por el actor británico Sir Idris Elba, ha abierto la convocatoria de un programa gratuito de cine con inteligencia artificial, AI, para creativos africanos aspirantes y emergentes de cinco países."
+                "x": "La película retrata a un hijo que visita a su padre, internado en una residencia durante la crisis del COVID-19, y que nunca logra verlo antes de su muerte. La AI la realizó imitando fielmente los planos secuencia característicos del director Im Kwon-taek."
               },
               {
                 "t": "p",
-                "x": "El programa, denominado From Script to Screen with AI, se imparte en colaboración con Google, con 1 millón de dólares de financiación de Google.org y un plan de estudios desarrollado por Curious Refuge. Está abierto a solicitantes que cumplan los requisitos en Nigeria, Ghana, Kenia, Sierra Leona y Sudáfrica, y la convocatoria cierra el 15 de noviembre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "El programa de 50 semanas (50-week) combinará una academia en línea de 12 semanas (12-week) con mentoría, oportunidades de presentar proyectos y financiación para la producción de los proyectos seleccionados. Los participantes conservarán además la propiedad y el control de sus obras. Los proyectos elegidos recibirán fondos para la producción, con el rodaje previsto de julio a octubre de 2027, y las películas terminadas se presentarán en octubre de 2027."
-              },
-              {
-                "t": "p",
-                "x": "Los solicitantes no necesitan un título de escuela de cine ni experiencia previa con AI, pero deben demostrar su capacidad creativa con trabajos ya realizados."
+                "x": "Además, se mostrarán algunas escenas de 'Un hombre joven', del director Bae Chang-ho, y de 'Mi nombre es', del director Chung Ji-young, modificadas con AI. La escena del coche envuelto en llamas de 'Un hombre joven' se recreó con realismo mediante AI, y a la escena final de 'Mi nombre es' se le añadió con AI un efecto de viento. Se seleccionarán y proyectarán 8 destacadas películas de AI de corta y media duración, y se invitará a los directores a dialogar con el público."
               }
             ]
           }
@@ -969,15 +839,15 @@
       }
     },
     {
-      "id": "iqiyi-shanghai-ai-studio",
+      "id": "hallmark-adopting-stnick-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "iQIYI AI 스튜디오\n열고 첫 장편 착수",
-      "body": "iQIYI가 AI 스튜디오를 열어 첫 작품 Cop in Trouble을 만든다.",
-      "mini_headline": "iQIYI, AI 영화 스튜디오 개관",
+      "headline": "Hallmark 성탄 영화\nAI 소품 논란",
+      "body": "Hallmark 성탄 영화 간판·소품이 AI-generated 같다며 반발이 인다.",
+      "mini_headline": "Hallmark AI 소품 논란",
       "tool": "Movies",
-      "source": "China Daily",
-      "url": "https://www.chinadaily.com.cn/a/202611/02/WS6ae8052ce4b06d4aa0566723.html",
+      "source": "TVLine",
+      "url": "https://www.tvline.com/2305320/hallmark-fans-furious-ai-christmas-movie-adopting-st-nick/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -985,315 +855,315 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-            "cap": "iQiyi의 새 AI 영화 스튜디오는 로케이션·그린스크린 촬영 위주이던 제작 체인을 버추얼 프로덕션과 AI-integrated(AI 통합) 영화 제작까지 넓힌다."
+            "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+            "cap": "Hallmark Media/Steven Ackerman"
           },
           {
             "t": "p",
-            "x": "온라인 엔터테인먼트 기업 iQIYI는 10월 28일 상하이(Shanghai) Creative Center에 AI 영화 스튜디오를 열고, 첫 프로젝트로 인터넷 장편 영화 Cop in Trouble 제작에 들어갔다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "약 110제곱미터 규모의 이 시설에서는 실사 촬영과 AI 후반 작업이 한데 이뤄진다. 현장 촬영본은 iQIYI의 AI 제작 플랫폼 NadouPro로 자동 동기화되고, 제작진은 30개 가까운 AI 모델과 제작 전용 AI 에이전트 수백 개를 쓸 수 있다. iQIYI 부사장 겸 지능형 제작 총괄 Zhu Liang은 이 방식이 연기를 \"모든 영화와 시리즈의 핵심\"으로 지킨다고 말했다."
+            "x": "Hallmark의 새 크리스마스 영화 \"Adopting St. Nick\"은 AI를 썼다는 의혹 탓에 팬들 반응이 썩 좋지 않았다. 돌아가신 아버지의 철물점을 꾸려 가는 싱글맘 Maren(Amy Groening)의 이야기다. 입양한 딸 Leah(Taylor Blake)는 산타클로스처럼 보이는(실제로 산타일지도 모르는) Kris(Randy Apostle)라는 남자와 짝을 이룬다."
           },
           {
             "t": "img",
-            "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-            "cap": "Cop in Trouble 포스터."
+            "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+            "cap": "Hallmark Media/Steven Ackerman"
           },
           {
             "t": "p",
-            "x": "이번 작품에서는 배우들이 현장에서 주고받은 연기가 AI-generated(AI 생성) 배경과 시각 디테일을 만드는 참고 자료가 된다. 새 스튜디오는 회사의 Hengdian 가상 스튜디오 뒤를 잇는다. iQIYI에 따르면 Hengdian 스튜디오는 제작 효율을 30퍼센트 넘게 끌어올렸다."
+            "x": "HallmarkMovies 서브레딧에는 \"AI in Adopting St. Nick\"이라는 제목으로 \"영화가 막 시작했는데 소품에서 보이는 건 온통 AI 슬롭뿐이었다\"는 글이 올라왔다. 다른 사용자들도 이 영화, 특히 여러 그래픽에 AI 손길이 크게 닿은 것 같다며 맞장구쳤다. 한 사용자는 \"가게 간판 상당수가 AI로 만든 것 같다\"고, 또 다른 사용자는 \"포스터와 메모 하나하나 전부\"라고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "다른 Hallmark 작품에서도 AI를 봤다는 사용자가 여럿이었다. Hallmark가 제작에 실제로 AI를 썼든 아니든, 그 가능성만으로도 논란은 이어질 것이다. TVLine은 Hallmark에 입장을 요청했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "iQIYI opens an AI film studio\nand begins its first feature",
-          "body": "iQIYI opened an AI film studio at its Shanghai Creative Center and began its first project there, Cop in Trouble.",
-          "mini_headline": "iQIYI opens AI film studio",
+          "headline": "Hallmark viewers flag AI props\nin a new Christmas movie",
+          "body": "Viewers say signs and props in Hallmark's latest Christmas movie look AI-generated, sparking a backlash over AI use.",
+          "mini_headline": "Hallmark AI props backlash",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "iQiyi's new AI film studio extends its production chain from on-location and green-screen work to virtual production and AI-integrated filmmaking."
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "iQIYI has opened an AI film studio at its Creative Center in Shanghai and begun production on its first project there, the internet feature film Cop in Trouble, the online entertainment provider said on Oct 28."
-              },
-              {
-                "t": "p",
-                "x": "The roughly 110-square-meter facility combines live-action shooting with AI post-production. On-set footage syncs automatically to NadouPro, iQIYI's AI production platform, giving filmmakers access to nearly 30 AI models and hundreds of production-focused AI agents. Zhu Liang, iQIYI vice-president and head of intelligent production, said the approach keeps performance \"the core of any film or series.\""
+                "x": "One of Hallmark's new Christmas movies, \"Adopting St. Nick,\" has left fans feeling less than jolly — and it's all because of purported AI usage. The film follows Maren (Amy Groening), a single mother running her late father's hardware store, whose adopted daughter Leah (Taylor Blake) is paired with a man named Kris (Randy Apostle), who looks like (and could be) Santa Claus."
               },
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Poster of Cop in Trouble."
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "The production uses footage of actors' on-set interactions as reference for AI-generated environments and visual details. The studio follows the company's Hengdian virtual studio, which iQIYI says delivered production efficiency gains of over 30 percent."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "iQIYI abre un estudio de cine AI\ne inicia su primer largometraje",
-          "body": "iQIYI abrió un estudio de cine AI en su Shanghai Creative Center y comenzó allí su primer proyecto, Cop in Trouble.",
-          "mini_headline": "iQIYI abre un estudio de cine AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "El nuevo estudio de cine AI de iQiyi amplía su cadena de producción desde el rodaje en exteriores y con pantalla verde hasta la producción virtual y el cine integrado con AI (AI-integrated)."
+                "x": "In the HallmarkMovies subreddit, a thread titled \"AI in Adopting St. Nick\" said: \"The movie literally just started and all I could see was AI slop on the props.\" Other users agreed the movie — particularly various graphics — looked heavily aided by AI. One wrote, \"I notice many of the store signs are made by AI\"; another, \"Every single poster and note.\""
               },
               {
                 "t": "p",
-                "x": "iQIYI ha abierto un estudio de cine AI en su Creative Center de Shanghai y ha iniciado allí la producción de su primer proyecto, el largometraje para internet Cop in Trouble, según informó el proveedor de entretenimiento en línea el 28 de octubre."
-              },
-              {
-                "t": "p",
-                "x": "La instalación, de unos 110 metros cuadrados (110-square-meter), combina el rodaje de imagen real con la posproducción mediante AI. Las imágenes grabadas en el set se sincronizan automáticamente con NadouPro, la plataforma de producción AI de iQIYI, lo que da a los cineastas acceso a casi 30 modelos de AI y a cientos de agentes de AI centrados en la producción. Zhu Liang, vicepresidente de iQIYI y responsable de producción inteligente, dijo que el enfoque mantiene la interpretación como “el núcleo de cualquier película o serie”."
-              },
-              {
-                "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Póster de Cop in Trouble."
-              },
-              {
-                "t": "p",
-                "x": "La producción usa imágenes de las interacciones de los actores en el set como referencia para entornos y detalles visuales generados con AI (AI-generated). El estudio sigue al estudio virtual de la compañía en Hengdian, que según iQIYI logró aumentos de eficiencia en la producción de más del 30 por ciento."
+                "x": "Several users said they had noticed AI in other Hallmark projects too. Whether or not Hallmark actually used AI during the production, even the possibility is a topic that will continue to ruffle feathers. TVLine has reached out to Hallmark for comment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "iQIYI AI 스튜디오\n열고 첫 장편 착수",
-          "body": "iQIYI가 AI 스튜디오를 열어 첫 작품 Cop in Trouble을 만든다.",
-          "mini_headline": "iQIYI, AI 영화 스튜디오 개관",
+          "headline": "Hallmark 성탄 영화\nAI 소품 논란",
+          "body": "Hallmark 성탄 영화 간판·소품이 AI-generated 같다며 반발이 인다.",
+          "mini_headline": "Hallmark AI 소품 논란",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "iQiyi의 새 AI 영화 스튜디오는 로케이션·그린스크린 촬영 위주이던 제작 체인을 버추얼 프로덕션과 AI-integrated(AI 통합) 영화 제작까지 넓힌다."
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "온라인 엔터테인먼트 기업 iQIYI는 10월 28일 상하이(Shanghai) Creative Center에 AI 영화 스튜디오를 열고, 첫 프로젝트로 인터넷 장편 영화 Cop in Trouble 제작에 들어갔다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "약 110제곱미터 규모의 이 시설에서는 실사 촬영과 AI 후반 작업이 한데 이뤄진다. 현장 촬영본은 iQIYI의 AI 제작 플랫폼 NadouPro로 자동 동기화되고, 제작진은 30개 가까운 AI 모델과 제작 전용 AI 에이전트 수백 개를 쓸 수 있다. iQIYI 부사장 겸 지능형 제작 총괄 Zhu Liang은 이 방식이 연기를 \"모든 영화와 시리즈의 핵심\"으로 지킨다고 말했다."
+                "x": "Hallmark의 새 크리스마스 영화 \"Adopting St. Nick\"은 AI를 썼다는 의혹 탓에 팬들 반응이 썩 좋지 않았다. 돌아가신 아버지의 철물점을 꾸려 가는 싱글맘 Maren(Amy Groening)의 이야기다. 입양한 딸 Leah(Taylor Blake)는 산타클로스처럼 보이는(실제로 산타일지도 모르는) Kris(Randy Apostle)라는 남자와 짝을 이룬다."
               },
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Cop in Trouble 포스터."
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "이번 작품에서는 배우들이 현장에서 주고받은 연기가 AI-generated(AI 생성) 배경과 시각 디테일을 만드는 참고 자료가 된다. 새 스튜디오는 회사의 Hengdian 가상 스튜디오 뒤를 잇는다. iQIYI에 따르면 Hengdian 스튜디오는 제작 효율을 30퍼센트 넘게 끌어올렸다."
+                "x": "HallmarkMovies 서브레딧에는 \"AI in Adopting St. Nick\"이라는 제목으로 \"영화가 막 시작했는데 소품에서 보이는 건 온통 AI 슬롭뿐이었다\"는 글이 올라왔다. 다른 사용자들도 이 영화, 특히 여러 그래픽에 AI 손길이 크게 닿은 것 같다며 맞장구쳤다. 한 사용자는 \"가게 간판 상당수가 AI로 만든 것 같다\"고, 또 다른 사용자는 \"포스터와 메모 하나하나 전부\"라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "다른 Hallmark 작품에서도 AI를 봤다는 사용자가 여럿이었다. Hallmark가 제작에 실제로 AI를 썼든 아니든, 그 가능성만으로도 논란은 이어질 것이다. TVLine은 Hallmark에 입장을 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iQIYIがAI映画\nスタジオ、初の長編へ",
-          "body": "iQIYIが上海にAI映画スタジオを開き、初作品Cop in Troubleに着手した。",
-          "mini_headline": "iQIYI、AI映画スタジオ開設",
+          "headline": "Hallmark映画の小道具\nAI製と視聴者が指摘",
+          "body": "Hallmark新作クリスマス映画の看板や小道具がAI-generatedだと反発を招いた。",
+          "mini_headline": "Hallmark AI小道具騒動",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "iQiyiの新しいAI映画スタジオは、制作チェーンをロケ撮影やグリーンバック撮影から、バーチャルプロダクションとAI-integrated(AI統合型)の映画制作へと広げる。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "オンラインエンターテインメント企業のiQIYIは10月28日、上海(Shanghai)のCreative CenterにAI映画スタジオを開設し、同所での初プロジェクトとなるインターネット長編映画Cop in Troubleの制作を始めたと発表した。"
-              },
-              {
-                "t": "p",
-                "x": "約110平方メートルの施設は、実写撮影とAIによるポストプロダクションを組み合わせる。現場の映像はiQIYIのAI制作プラットフォームNadouProに自動で同期され、制作者は30近いAIモデルと、制作に特化した数百のAIエージェントを利用できる。iQIYI副社長でインテリジェント制作部門を率いるZhu Liangは、この手法によって演技が「あらゆる映画やシリーズの核」であり続けると述べた。"
+                "x": "Hallmarkの新作クリスマス映画の一つ『Adopting St. Nick』は、AI使用の疑いのせいでファンを楽しい気分にさせられずにいる。物語の主人公は、亡き父の金物店を営むシングルマザーのMaren(Amy Groening)だ。彼女の養女Leah(Taylor Blake)は、サンタクロースのように見える(そして本物かもしれない)Kris(Randy Apostle)という男性とペアになる。"
               },
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Cop in Troubleのポスター。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "本作では、現場での俳優同士のやり取りを撮った映像を、AI-generated(AI生成)の背景や視覚的ディテールの参考に用いる。このスタジオは同社のHengdianバーチャルスタジオに続くもので、iQIYIによればHengdianのスタジオは制作効率を30パーセント以上高めたという。"
+                "x": "HallmarkMoviesサブレディットでは、「AI in Adopting St. Nick」と題したスレッドに「映画が始まったばかりなのに、小道具にはAIスロップしか見えなかった」との投稿があった。ほかのユーザーも、映画、特にさまざまなグラフィックがAIに大きく頼っているように見えると同意した。あるユーザーは「店の看板の多くがAIで作られているのに気づいた」と書き、別のユーザーは「ポスターもメモも一つ残らず」と書いた。"
+              },
+              {
+                "t": "p",
+                "x": "複数のユーザーが、ほかのHallmark作品でもAIに気づいたと述べている。Hallmarkが実際に制作でAIを使ったかどうかにかかわらず、その可能性だけでも今後も波紋を呼ぶ話題だ。TVLineはHallmarkにコメントを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iQIYI开设AI电影\n工作室，首部长片开拍",
-          "body": "iQIYI在上海开设AI电影工作室，首部作品Cop in Trouble已开拍。",
-          "mini_headline": "iQIYI开设AI电影工作室",
+          "headline": "Hallmark圣诞新片\n观众质疑道具用AI制作",
+          "body": "观众称Hallmark新圣诞片的招牌和道具像AI-generated,引发对AI使用的反弹。",
+          "mini_headline": "Hallmark AI道具风波",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "iQiyi新的AI电影工作室将其制作链条从实景拍摄和绿幕拍摄延伸至虚拟制作与AI-integrated（AI融合）电影制作。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "在线娱乐服务商iQIYI于10月28日表示，已在上海（Shanghai）Creative Center开设AI电影工作室，并在此启动首个项目——网络电影Cop in Trouble的制作。"
-              },
-              {
-                "t": "p",
-                "x": "该设施面积约110平方米，将实拍与AI后期制作相结合。现场素材会自动同步至iQIYI的AI制作平台NadouPro，创作者可调用近三十个AI模型和数百个面向制作的AI智能体。iQIYI副总裁、智能制作负责人Zhu Liang表示，这种方式让表演始终是“任何电影或剧集的核心”。"
+                "x": "Hallmark的一部圣诞新片《Adopting St. Nick》因涉嫌使用AI,让粉丝们高兴不起来。影片讲述了经营已故父亲五金店的单亲妈妈Maren(Amy Groening)的故事,她的养女Leah(Taylor Blake)与一位名叫Kris(Randy Apostle)、看起来像(也可能就是)圣诞老人的男子结成一对。"
               },
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Cop in Trouble海报。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "该片以演员在片场互动的素材作为AI-generated（AI生成）场景和视觉细节的参考。这间工作室延续了公司的Hengdian虚拟影棚，iQIYI称Hengdian影棚带来了超过百分之三十的制作效率提升。"
+                "x": "在HallmarkMovies子版块中,一个题为“AI in Adopting St. Nick”的帖子写道:“电影才刚开始,我在道具上看到的全是AI垃圾内容。”其他用户也认为这部电影,尤其是各种图像,看起来大量借助了AI。有人写道:“我注意到很多店铺招牌都是AI做的”;另一人写道:“每一张海报和便条都是。”"
+              },
+              {
+                "t": "p",
+                "x": "多名用户表示,他们在Hallmark的其他作品中也注意到了AI。无论Hallmark是否真的在制作中使用了AI,仅仅这种可能性就会持续引发争议。TVLine已联系Hallmark请求置评。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Público de Hallmark ve utilería\ncon AI en un filme navideño",
+          "body": "Espectadores ven carteles y utilería AI-generated en la nueva película navideña de Hallmark y critican el uso de AI.",
+          "mini_headline": "Polémica por utilería AI en Hallmark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
+              },
+              {
+                "t": "p",
+                "x": "Una de las nuevas películas navideñas de Hallmark, \"Adopting St. Nick\", ha dejado a los fans menos que alegres, y todo por un supuesto uso de AI. La película sigue a Maren (Amy Groening), una madre soltera que dirige la ferretería de su difunto padre, cuya hija adoptiva Leah (Taylor Blake) termina emparejada con un hombre llamado Kris (Randy Apostle), que parece (y podría ser) Santa Claus."
+              },
+              {
+                "t": "img",
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
+              },
+              {
+                "t": "p",
+                "x": "En el subreddit HallmarkMovies, un hilo titulado \"AI in Adopting St. Nick\" decía: \"La película literalmente acaba de empezar y lo único que veía era AI slop en la utilería\". Otros usuarios coincidieron en que la película —en particular varios gráficos— parecía muy apoyada en AI. Uno escribió: \"Noto que muchos de los letreros de las tiendas están hechos con AI\"; otro: \"Cada póster y cada nota\"."
+              },
+              {
+                "t": "p",
+                "x": "Varios usuarios dijeron haber notado AI también en otros proyectos de Hallmark. Haya usado o no Hallmark AI durante la producción, incluso la posibilidad es un tema que seguirá generando polémica. TVLine se ha puesto en contacto con Hallmark para pedir comentarios."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "iQIYI abre un estudio de cine AI\ne inicia su primer largometraje",
-          "body": "iQIYI abrió un estudio de cine AI en su Shanghai Creative Center y comenzó allí su primer proyecto, Cop in Trouble.",
-          "mini_headline": "iQIYI abre un estudio de cine AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "El nuevo estudio de cine AI de iQiyi amplía su cadena de producción desde el rodaje en exteriores y con pantalla verde hasta la producción virtual y el cine integrado con AI (AI-integrated)."
-              },
-              {
-                "t": "p",
-                "x": "iQIYI ha abierto un estudio de cine AI en su Creative Center de Shanghai y ha iniciado allí la producción de su primer proyecto, el largometraje para internet Cop in Trouble, según informó el proveedor de entretenimiento en línea el 28 de octubre."
-              },
-              {
-                "t": "p",
-                "x": "La instalación, de unos 110 metros cuadrados (110-square-meter), combina el rodaje de imagen real con la posproducción mediante AI. Las imágenes grabadas en el set se sincronizan automáticamente con NadouPro, la plataforma de producción AI de iQIYI, lo que da a los cineastas acceso a casi 30 modelos de AI y a cientos de agentes de AI centrados en la producción. Zhu Liang, vicepresidente de iQIYI y responsable de producción inteligente, dijo que el enfoque mantiene la interpretación como “el núcleo de cualquier película o serie”."
-              },
-              {
-                "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Póster de Cop in Trouble."
-              },
-              {
-                "t": "p",
-                "x": "La producción usa imágenes de las interacciones de los actores en el set como referencia para entornos y detalles visuales generados con AI (AI-generated). El estudio sigue al estudio virtual de la compañía en Hengdian, que según iQIYI logró aumentos de eficiencia en la producción de más del 30 por ciento."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "iQIYI AI 스튜디오\n열고 첫 장편 제작",
-          "body": "iQIYI가 AI 스튜디오를 열고 첫 작품 Cop in Trouble에 착수했다.",
-          "mini_headline": "iQIYI, AI 영화 스튜디오 개관",
+          "headline": "Hallmark 성탄 영화\nAI 소품 논란",
+          "body": "Hallmark 성탄 영화 간판·소품이 AI-generated 같다는 반발이 인다.",
+          "mini_headline": "Hallmark AI 소품 논란",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "iQiyi의 새 AI 영화 스튜디오는 제작 체인을 로케이션·그린스크린 촬영에서 버추얼 프로덕션과 AI-integrated(AI 통합) 영화 제작으로 넓힌다."
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "온라인 엔터테인먼트 기업 iQIYI는 10월 28일, 상하이(Shanghai) Creative Center에 AI 영화 스튜디오를 열고 그곳의 첫 프로젝트인 인터넷 장편 영화 Cop in Trouble 제작에 들어갔다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "약 110제곱미터 규모의 이 시설은 실사 촬영과 AI 후반 작업을 결합한다. 현장 촬영본은 iQIYI의 AI 제작 플랫폼 NadouPro에 자동으로 동기화되며, 제작진은 30개 가까운 AI 모델과 제작에 특화된 수백 개의 AI 에이전트를 쓸 수 있다. iQIYI 부사장 겸 지능형 제작 총괄 Zhu Liang은 이 방식이 연기를 \"모든 영화와 시리즈의 핵심\"으로 지킨다고 말했다."
+                "x": "Hallmark의 새 크리스마스 영화 \"Adopting St. Nick\"이 AI를 썼다는 의혹 때문에 팬들을 그다지 즐겁게 하지 못했다. 영화는 돌아가신 아버지의 철물점을 운영하는 싱글맘 Maren(Amy Groening)의 이야기로, 그의 입양한 딸 Leah(Taylor Blake)는 산타클로스처럼 보이는(그리고 실제로 산타일 수도 있는) Kris(Randy Apostle)라는 남자와 짝을 이룬다."
               },
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Cop in Trouble 포스터."
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "이번 작품은 배우들이 현장에서 주고받은 연기 장면을 AI-generated(AI 생성) 배경과 시각적 디테일의 참고 자료로 쓴다. 이 스튜디오는 회사의 Hengdian 가상 스튜디오에 이은 것으로, iQIYI는 Hengdian 스튜디오가 30퍼센트 넘는 제작 효율 향상을 거뒀다고 밝혔다."
+                "x": "HallmarkMovies 서브레딧의 \"AI in Adopting St. Nick\"이라는 제목의 글에는 \"영화가 막 시작했는데 소품에서 보이는 건 온통 AI 슬롭뿐이었다\"는 내용이 올라왔다. 다른 사용자들도 영화, 특히 여러 그래픽이 AI의 도움을 크게 받은 것 같다는 데 동의했다. 한 사용자는 \"가게 간판 상당수가 AI로 만든 것 같다\"고, 또 다른 사용자는 \"포스터와 메모 하나하나 전부\"라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "여러 사용자는 다른 Hallmark 작품에서도 AI를 발견했다고 말했다. Hallmark가 실제로 제작 과정에서 AI를 썼는지와 상관없이, 그 가능성만으로도 계속 논란을 부를 주제다. TVLine은 Hallmark에 입장을 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iQIYIがAI映画\nスタジオ、初の長編へ",
-          "body": "iQIYIが上海にAI映画スタジオを開き、初作品Cop in Troubleに着手した。",
-          "mini_headline": "iQIYI、AI映画スタジオ開設",
+          "headline": "Hallmark映画の小道具\nAI製と視聴者が指摘",
+          "body": "Hallmark新作クリスマス映画の看板や小道具がAI-generatedだと反発を招いた。",
+          "mini_headline": "Hallmark AI小道具騒動",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "iQiyiの新しいAI映画スタジオは、制作チェーンをロケ撮影やグリーンバック撮影から、バーチャルプロダクションとAI-integrated(AI統合型)の映画制作へと広げる。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "オンラインエンターテインメント企業のiQIYIは10月28日、上海(Shanghai)のCreative CenterにAI映画スタジオを開設し、同所での初プロジェクトとなるインターネット長編映画Cop in Troubleの制作を始めたと発表した。"
-              },
-              {
-                "t": "p",
-                "x": "約110平方メートルの施設は、実写撮影とAIによるポストプロダクションを組み合わせる。現場の映像はiQIYIのAI制作プラットフォームNadouProに自動で同期され、制作者は30近いAIモデルと、制作に特化した数百のAIエージェントを利用できる。iQIYI副社長でインテリジェント制作部門を率いるZhu Liangは、この手法によって演技が「あらゆる映画やシリーズの核」であり続けると述べた。"
+                "x": "Hallmarkの新作クリスマス映画の一つ『Adopting St. Nick』は、AI使用の疑いのせいでファンを楽しい気分にさせられずにいる。物語の主人公は、亡き父の金物店を営むシングルマザーのMaren(Amy Groening)だ。彼女の養女Leah(Taylor Blake)は、サンタクロースのように見える(そして本物かもしれない)Kris(Randy Apostle)という男性とペアになる。"
               },
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Cop in Troubleのポスター。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "本作では、現場での俳優同士のやり取りを撮った映像を、AI-generated(AI生成)の背景や視覚的ディテールの参考に用いる。このスタジオは同社のHengdianバーチャルスタジオに続くもので、iQIYIによればHengdianのスタジオは制作効率を30パーセント以上高めたという。"
+                "x": "HallmarkMoviesサブレディットでは、「AI in Adopting St. Nick」と題したスレッドに「映画が始まったばかりなのに、小道具にはAIスロップしか見えなかった」との投稿があった。ほかのユーザーも、映画、特にさまざまなグラフィックがAIに大きく頼っているように見えると同意した。あるユーザーは「店の看板の多くがAIで作られているのに気づいた」と書き、別のユーザーは「ポスターもメモも一つ残らず」と書いた。"
+              },
+              {
+                "t": "p",
+                "x": "複数のユーザーが、ほかのHallmark作品でもAIに気づいたと述べている。Hallmarkが実際に制作でAIを使ったかどうかにかかわらず、その可能性だけでも今後も波紋を呼ぶ話題だ。TVLineはHallmarkにコメントを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iQIYI开设AI电影\n工作室，首部长片开拍",
-          "body": "iQIYI在上海开设AI电影工作室，首部作品Cop in Trouble已开拍。",
-          "mini_headline": "iQIYI开设AI电影工作室",
+          "headline": "Hallmark圣诞新片\n观众质疑道具用AI制作",
+          "body": "观众称Hallmark新圣诞片的招牌和道具像AI-generated,引发对AI使用的反弹。",
+          "mini_headline": "Hallmark AI道具风波",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfa.jpeg",
-                "cap": "iQiyi新的AI电影工作室将其制作链条从实景拍摄和绿幕拍摄延伸至虚拟制作与AI-integrated（AI融合）电影制作。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "在线娱乐服务商iQIYI于10月28日表示，已在上海（Shanghai）Creative Center开设AI电影工作室，并在此启动首个项目——网络电影Cop in Trouble的制作。"
-              },
-              {
-                "t": "p",
-                "x": "该设施面积约110平方米，将实拍与AI后期制作相结合。现场素材会自动同步至iQIYI的AI制作平台NadouPro，创作者可调用近三十个AI模型和数百个面向制作的AI智能体。iQIYI副总裁、智能制作负责人Zhu Liang表示，这种方式让表演始终是“任何电影或剧集的核心”。"
+                "x": "Hallmark的一部圣诞新片《Adopting St. Nick》因涉嫌使用AI,让粉丝们高兴不起来。影片讲述了经营已故父亲五金店的单亲妈妈Maren(Amy Groening)的故事,她的养女Leah(Taylor Blake)与一位名叫Kris(Randy Apostle)、看起来像(也可能就是)圣诞老人的男子结成一对。"
               },
               {
                 "t": "img",
-                "src": "https://img2.chinadaily.com.cn/images/202611/02/6ae8052ce4b06d4a392f3dfc.jpeg",
-                "cap": "Cop in Trouble海报。"
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
               },
               {
                 "t": "p",
-                "x": "该片以演员在片场互动的素材作为AI-generated（AI生成）场景和视觉细节的参考。这间工作室延续了公司的Hengdian虚拟影棚，iQIYI称Hengdian影棚带来了超过百分之三十的制作效率提升。"
+                "x": "在HallmarkMovies子版块中,一个题为“AI in Adopting St. Nick”的帖子写道:“电影才刚开始,我在道具上看到的全是AI垃圾内容。”其他用户也认为这部电影,尤其是各种图像,看起来大量借助了AI。有人写道:“我注意到很多店铺招牌都是AI做的”;另一人写道:“每一张海报和便条都是。”"
+              },
+              {
+                "t": "p",
+                "x": "多名用户表示,他们在Hallmark的其他作品中也注意到了AI。无论Hallmark是否真的在制作中使用了AI,仅仅这种可能性就会持续引发争议。TVLine已联系Hallmark请求置评。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Público de Hallmark ve utilería\ncon AI en un filme navideño",
+          "body": "Espectadores ven carteles y utilería AI-generated en la nueva película navideña de Hallmark y critican el uso de AI.",
+          "mini_headline": "Polémica por utilería AI en Hallmark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
+              },
+              {
+                "t": "p",
+                "x": "Una de las nuevas películas navideñas de Hallmark, \"Adopting St. Nick\", ha dejado a los fans menos que alegres, y todo por un supuesto uso de AI. La película sigue a Maren (Amy Groening), una madre soltera que dirige la ferretería de su difunto padre, cuya hija adoptiva Leah (Taylor Blake) termina emparejada con un hombre llamado Kris (Randy Apostle), que parece (y podría ser) Santa Claus."
+              },
+              {
+                "t": "img",
+                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
+                "cap": "Hallmark Media/Steven Ackerman"
+              },
+              {
+                "t": "p",
+                "x": "En el subreddit HallmarkMovies, un hilo titulado \"AI in Adopting St. Nick\" decía: \"La película literalmente acaba de empezar y lo único que veía era AI slop en la utilería\". Otros usuarios coincidieron en que la película —en particular varios gráficos— parecía muy apoyada en AI. Uno escribió: \"Noto que muchos de los letreros de las tiendas están hechos con AI\"; otro: \"Cada póster y cada nota\"."
+              },
+              {
+                "t": "p",
+                "x": "Varios usuarios dijeron haber notado AI también en otros proyectos de Hallmark. Haya usado o no Hallmark AI durante la producción, incluso la posibilidad es un tema que seguirá generando polémica. TVLine se ha puesto en contacto con Hallmark para pedir comentarios."
               }
             ]
           }
@@ -1301,15 +1171,15 @@
       }
     },
     {
-      "id": "studio-unmu-last-call",
+      "id": "muam-hybrid-delivery",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "대전 2인 팀 AI 영화,\n뉴욕 영화제 특별언급상",
-      "body": "사람이 각본·연출·편집·믹싱을 맡고 생성형 AI가 영상을 구현한 11분 단편이다.",
-      "mini_headline": "대전 AI 영화 뉴욕 특별언급상",
+      "headline": "무암, AI 영화 납품용\n하이브리드 공정 공개",
+      "body": "무암은 생성 단계부터 VFX·DI 사양을 공유해 AI 컷을 납품 수준으로 맞춘다.",
+      "mini_headline": "무암 AI 납품 공정",
       "tool": "Movies",
-      "source": "인공지능신문",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42541",
+      "source": "전자신문 (etnews)",
+      "url": "https://www.etnews.com/20261103000300",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1317,185 +1187,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-            "cap": "연훈민 감독과 고숙 작가(사진: 운무)"
+            "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+            "cap": "AI Film Festival Japan 2026 시상식 단체사진(왼쪽)과 AI 하이브리드 제작 사례를 발표하는 현해리 감독(오른쪽). 사진=무암"
           },
           {
             "t": "p",
-            "x": "대전의 독립 영상 스튜디오 운무(UNMU)는 고숙 작가와 연훈민 감독이 공동 제작한 AI 단편영화 ‘라스트 콜(LAST CALL, 폐장 시간)’이 미국 뉴욕에서 열린 제30회 어반월드 영화제의 ‘최우수 AI 생성·보조 영화(Best AI-Generated or Assisted Film)’ 부문에서 특별언급상(Honorable Mention)을 수상했다고 2일 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-            "cap": "포스터 이미지(사진: 운무)"
+            "x": "영화사 무암(대표 현해리)이 1일 일본 도쿄에서 열린 'AI Film Festival Japan 2026' 크리에이터 데모에서 생성형 AI로 만든 영상을 영화의 최종 납품 컷으로 완성하는 하이브리드 제작 공정을 공개했다. 현해리 감독은 이번 영화제 국제 심사위원으로 참여했다."
           },
           {
             "t": "p",
-            "x": "러닝타임 11분 23초의 SF 드라마인 ‘라스트 콜’은 드론 통행금지가 내려진 밤, 네온사인이 켜진 바에 갇힌 손님 세 명과 바텐더의 이야기를 그린다. 어반월드 영화제는 올해 처음으로 AI 영화를 공식 경쟁 부문에 포함했고, 미국작가조합 동부지부는 AI 부문 신설에 반대하며 영화제 후원을 철회했다."
+            "x": "무암은 글로벌 OTT 오리지널 시리즈에 사용되는 AI 컷을 제작하면서 QC와 최종 납품 규격에 대응해 왔다. 생성 영상은 앞뒤 실사 컷과 이어지고 해상도, 프레임레이트, 비트레이트, HDR 및 컬러 관리 등 최종 마스터 조건도 충족해야 한다. 스터터링, 컷 간 프레임 매치 불일치, 가장자리 계단 현상, 실사와 AI 영역 사이의 색과 질감 차이가 과제다."
           },
           {
             "t": "p",
-            "x": "제작진은 “각본과 연기 연출, 편집과 사운드 믹싱은 모두 사람의 손을 거쳤다. 픽셀은 AI가 만들었지만, 무엇을 보여주고 얼마나 오래 머물지는 사람이 정했다”고 설명했다. 작품은 지난 8월 포르투갈 아반카 국제영화제 AI 경쟁 부문에서 세계 최초로 공개됐다."
+            "x": "무암은 촬영 원본 플레이트에서 유지할 부분과 AI로 구현할 영역을 먼저 구분하고 생성형 AI를 선택적으로 적용한다. AI 생성 단계부터 VFX와 DI 담당자들이 합성 조건과 컬러, 최종 마스터링 요건을 공유하도록 공정을 설계했다. 현 감독은 “저희의 원칙은 'Film with AI, not by AI'다”라고 말했다. 무암은 2027년 영화 및 영상 프로젝트를 준비 중이다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "대전 2인 팀 AI 영화,\n뉴욕 영화제 특별언급상",
-          "body": "사람이 각본·연출·편집·믹싱을 맡고 생성형 AI가 영상을 구현한 11분 단편이다.",
-          "mini_headline": "대전 AI 영화 뉴욕 특별언급상",
+          "headline": "무암, AI 영화 납품용\n하이브리드 공정 공개",
+          "body": "무암은 생성 단계부터 VFX·DI 사양을 공유해 AI 컷을 납품 수준으로 맞춘다.",
+          "mini_headline": "무암 AI 납품 공정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "연훈민 감독과 고숙 작가(사진: 운무)"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "AI Film Festival Japan 2026 시상식 단체사진(왼쪽)과 AI 하이브리드 제작 사례를 발표하는 현해리 감독(오른쪽). 사진=무암"
               },
               {
                 "t": "p",
-                "x": "대전의 독립 영상 스튜디오 운무(UNMU)는 고숙 작가와 연훈민 감독이 공동 제작한 AI 단편영화 ‘라스트 콜(LAST CALL, 폐장 시간)’이 미국 뉴욕에서 열린 제30회 어반월드 영화제의 ‘최우수 AI 생성·보조 영화(Best AI-Generated or Assisted Film)’ 부문에서 특별언급상(Honorable Mention)을 수상했다고 2일 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "포스터 이미지(사진: 운무)"
+                "x": "영화사 무암(대표 현해리)이 1일 일본 도쿄에서 열린 'AI Film Festival Japan 2026' 크리에이터 데모에서 생성형 AI로 만든 영상을 영화의 최종 납품 컷으로 완성하는 하이브리드 제작 공정을 공개했다. 현해리 감독은 이번 영화제 국제 심사위원으로 참여했다."
               },
               {
                 "t": "p",
-                "x": "러닝타임 11분 23초의 SF 드라마인 ‘라스트 콜’은 드론 통행금지가 내려진 밤, 네온사인이 켜진 바에 갇힌 손님 세 명과 바텐더의 이야기를 그린다. 어반월드 영화제는 올해 처음으로 AI 영화를 공식 경쟁 부문에 포함했고, 미국작가조합 동부지부는 AI 부문 신설에 반대하며 영화제 후원을 철회했다."
+                "x": "무암은 글로벌 OTT 오리지널 시리즈에 사용되는 AI 컷을 제작하면서 QC와 최종 납품 규격에 대응해 왔다. 생성 영상은 앞뒤 실사 컷과 이어지고 해상도, 프레임레이트, 비트레이트, HDR 및 컬러 관리 등 최종 마스터 조건도 충족해야 한다. 스터터링, 컷 간 프레임 매치 불일치, 가장자리 계단 현상, 실사와 AI 영역 사이의 색과 질감 차이가 과제다."
               },
               {
                 "t": "p",
-                "x": "제작진은 “각본과 연기 연출, 편집과 사운드 믹싱은 모두 사람의 손을 거쳤다. 픽셀은 AI가 만들었지만, 무엇을 보여주고 얼마나 오래 머물지는 사람이 정했다”고 설명했다. 작품은 지난 8월 포르투갈 아반카 국제영화제 AI 경쟁 부문에서 세계 최초로 공개됐다."
+                "x": "무암은 촬영 원본 플레이트에서 유지할 부분과 AI로 구현할 영역을 먼저 구분하고 생성형 AI를 선택적으로 적용한다. AI 생성 단계부터 VFX와 DI 담당자들이 합성 조건과 컬러, 최종 마스터링 요건을 공유하도록 공정을 설계했다. 현 감독은 “저희의 원칙은 'Film with AI, not by AI'다”라고 말했다. 무암은 2027년 영화 및 영상 프로젝트를 준비 중이다."
               }
             ]
           }
         },
         "en": {
-          "headline": "2-person Daejeon team's AI film\nwins a New York festival honor",
-          "body": "People wrote, directed, edited and mixed the 11-minute short, while generative AI rendered the visuals.",
-          "mini_headline": "Daejeon AI film wins NY honorable mention",
+          "headline": "Muam unveils hybrid process\nfor AI film delivery",
+          "body": "Muam shares VFX and DI specs from the generation stage to bring AI cuts up to delivery standard.",
+          "mini_headline": "Muam's AI delivery process",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "Director Yeon Hun-min and writer Ko Suk (Photo: UNMU)"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "Group photo from the AI Film Festival Japan 2026 awards ceremony (left) and director Hyun Hae-ri presenting AI hybrid production cases (right). Photo=Muam"
               },
               {
                 "t": "p",
-                "x": "UNMU, an independent video studio in Daejeon, said on the 2nd that the AI short film ‘LAST CALL’ (Closing Time), co-created by writer Ko Suk and director Yeon Hun-min, received an Honorable Mention in the ‘Best AI-Generated or Assisted Film’ category at the 30th Urbanworld Film Festival in New York."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "Poster image (Photo: UNMU)"
+                "x": "Film company Muam (CEO Hyun Hae-ri) unveiled a hybrid production process that turns footage made with generative AI into final delivery cuts for films at a creator demo of 'AI Film Festival Japan 2026', held in Tokyo, Japan, on the 1st. Director Hyun Hae-ri served as an international juror at this year's festival."
               },
               {
                 "t": "p",
-                "x": "‘LAST CALL’, an SF drama with a running time of 11 minutes 23 seconds, follows three customers and a bartender trapped in a neon-lit bar on a night under a drone curfew. Urbanworld included AI films in its official competition for the first time this year, and the Writers Guild of America East withdrew its sponsorship of the festival in opposition to the new AI category."
+                "x": "While producing AI cuts used in original series for global OTT platforms, Muam has worked to meet QC and final delivery specifications. Generated footage must connect with the live-action cuts before and after it, and must also meet final master conditions such as resolution, frame rate, bit rate, HDR and color management. The challenges include stuttering, frame-match mismatches between cuts, jagged edges, and differences in color and texture between live-action and AI areas."
               },
               {
                 "t": "p",
-                "x": "The filmmakers explained, “The script, the direction of the performances, the editing and the sound mixing all went through human hands. AI made the pixels, but people decided what to show and how long to stay on it.” The film had its world premiere in August in the AI competition of Portugal's Avanca International Film Festival."
+                "x": "Muam first separates what to keep from the original shot plates and which areas to realize with AI, then applies generative AI selectively. It designed the process so that VFX and DI staff share compositing conditions, color and final mastering requirements from the AI generation stage. “Our principle is 'Film with AI, not by AI',” director Hyun said. Muam is preparing film and video projects for 2027."
               }
             ]
           }
         },
         "ja": {
-          "headline": "大田の2人組AI映画、\nNY映画祭で特別言及賞",
-          "body": "人が脚本・演出・編集・ミキシングを担い、生成AIが映像を作った11分の短編だ。",
-          "mini_headline": "大田のAI映画、NYで特別言及賞",
+          "headline": "ムアム、AI映画納品用\nハイブリッド工程公開",
+          "body": "ムアムは生成段階からVFX・DI仕様を共有し、AIカットを納品水準に仕上げる。",
+          "mini_headline": "ムアムのAI納品工程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "ヨン・フンミン監督とコ・スク作家(写真:UNMU)"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "AI Film Festival Japan 2026授賞式の集合写真(左)と、AIハイブリッド制作事例を発表するヒョン・ヘリ監督(右)。写真=ムアム"
               },
               {
                 "t": "p",
-                "x": "大田の独立系映像スタジオUNMU(ウンム)は2日、コ・スク作家とヨン・フンミン監督が共同制作したAI短編映画『LAST CALL(閉店時間)』が、米ニューヨークで開かれた第30回アーバンワールド映画祭の「Best AI-Generated or Assisted Film(最優秀AI生成・補助映画)」部門で特別言及賞(Honorable Mention)を受賞したと明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "ポスター画像(写真:UNMU)"
+                "x": "映画会社ムアム(代表ヒョン・ヘリ)は1日、日本・東京で開かれた「AI Film Festival Japan 2026」のクリエイターデモで、生成AIで作った映像を映画の最終納品カットに仕上げるハイブリッド制作工程を公開した。ヒョン・ヘリ監督は今回の映画祭で国際審査員を務めた。"
               },
               {
                 "t": "p",
-                "x": "上映時間11分23秒のSFドラマ『LAST CALL』は、ドローンの通行禁止令が出た夜、ネオンが灯るバーに閉じ込められた客三人とバーテンダーの物語を描く。アーバンワールド映画祭は今年初めてAI映画を公式コンペティション部門に加え、全米脚本家組合東部支部はAI部門の新設に反対して映画祭への協賛を取りやめた。"
+                "x": "ムアムはグローバルOTTのオリジナルシリーズに使われるAIカットを制作しながら、QCと最終納品規格に対応してきた。生成映像は前後の実写カットとつながり、解像度、フレームレート、ビットレート、HDRおよびカラーマネジメントなど最終マスターの条件も満たさなければならない。スタッタリング、カット間のフレームマッチの不一致、エッジのジャギー、実写とAI領域の間の色や質感の差が課題だ。"
               },
               {
                 "t": "p",
-                "x": "制作陣は「脚本と演技演出、編集とサウンドミキシングはすべて人の手を経た。ピクセルはAIが作ったが、何を見せ、どれだけ長くとどまるかは人が決めた」と説明した。作品は去る8月、ポルトガルのアヴァンカ国際映画祭のAIコンペティション部門で世界初公開された。"
+                "x": "ムアムは撮影した元のプレートで残す部分とAIで実現する領域をまず切り分け、生成AIを選択的に適用する。AI生成の段階からVFXとDIの担当者が合成条件やカラー、最終マスタリングの要件を共有するよう工程を設計した。ヒョン監督は「私たちの原則は『Film with AI, not by AI』だ」と語った。ムアムは2027年の映画・映像プロジェクトを準備している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "大田2人团队AI电影\n获纽约影展特别提及奖",
-          "body": "这部11分钟短片由人负责编剧、导演、剪辑与混音，生成式AI生成画面。",
-          "mini_headline": "大田AI电影获纽约特别提及奖",
+          "headline": "Muam公开AI电影\n交付用混合流程",
+          "body": "Muam从生成阶段起共享VFX·DI规格,让AI镜头达到交付标准。",
+          "mini_headline": "Muam AI交付流程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "导演Yeon Hun-min与编剧Ko Suk（图片：UNMU）"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "AI Film Festival Japan 2026颁奖典礼合影(左)与发表AI混合制作案例的Hyun Hae-ri导演(右)。照片=Muam"
               },
               {
                 "t": "p",
-                "x": "大田独立影像工作室UNMU于2日宣布，由编剧Ko Suk与导演Yeon Hun-min联合制作的AI短片《LAST CALL》（闭店时间）在美国纽约举行的第30届Urbanworld电影节“Best AI-Generated or Assisted Film（最佳AI生成或辅助电影）”单元获得特别提及奖（Honorable Mention）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "海报图片（图片：UNMU）"
+                "x": "电影公司Muam(代表Hyun Hae-ri)1日在日本东京举行的“AI Film Festival Japan 2026”创作者演示环节中,公开了将生成式AI制作的影像完成为电影最终交付镜头的混合制作流程。Hyun Hae-ri导演担任了本届电影节的国际评委。"
               },
               {
                 "t": "p",
-                "x": "片长11分23秒的SF剧情片《LAST CALL》讲述了在无人机宵禁的夜晚，被困在霓虹灯闪烁的酒吧里的三名顾客与调酒师的故事。Urbanworld电影节今年首次将AI电影纳入正式竞赛单元，美国编剧工会东部分会则因反对设立AI单元而撤回了对电影节的赞助。"
+                "x": "Muam在为全球OTT原创剧集制作AI镜头的过程中,一直在应对QC和最终交付规格。生成影像需要与前后的实拍镜头衔接,还必须满足分辨率、帧率、码率、HDR及色彩管理等最终母版条件。卡顿、镜头间帧匹配不一致、边缘锯齿,以及实拍与AI区域之间的色彩和质感差异都是难题。"
               },
               {
                 "t": "p",
-                "x": "制作团队解释说：“剧本与表演指导、剪辑与混音全部经由人手完成。像素由AI生成，但展示什么、停留多久由人决定。”该片于8月在葡萄牙Avanca国际电影节AI竞赛单元进行了全球首映。"
+                "x": "Muam首先区分拍摄原始素材板中需要保留的部分和要用AI实现的区域,再有选择地应用生成式AI。其流程设计让VFX和DI负责人从AI生成阶段起就共享合成条件、色彩和最终母版制作要求。Hyun导演表示:“我们的原则是‘Film with AI, not by AI’。”Muam正在筹备2027年的电影及影像项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Corto AI de 2 autores de Daejeon\nlogra mención en festival de NY",
-          "body": "Es un corto de 11 minutos con guion, dirección, montaje y mezcla humanos, y AI generativa para las imágenes.",
-          "mini_headline": "Corto AI de Daejeon, mención en NY",
+          "headline": "Muam presenta un proceso híbrido\npara entregar cine con AI",
+          "body": "Muam comparte las especificaciones de VFX y DI desde la generación para llevar los planos de AI al nivel de entrega.",
+          "mini_headline": "El proceso de entrega AI de Muam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "Yeon Hun-min, director, y Ko Suk, guionista (foto: UNMU)"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "Foto de grupo de la ceremonia de premios de AI Film Festival Japan 2026 (izquierda) y el director Hyun Hae-ri presentando casos de producción híbrida con AI (derecha). Foto=Muam"
               },
               {
                 "t": "p",
-                "x": "UNMU, un estudio de video independiente de Daejeon, informó el día 2 que el cortometraje AI ‘LAST CALL’ (Hora de cierre), creado en conjunto por Ko Suk y el director Yeon Hun-min, recibió una mención especial (Honorable Mention) en la categoría ‘Best AI-Generated or Assisted Film’ (mejor película generada o asistida por AI) del 30.º Festival de Cine Urbanworld, celebrado en Nueva York."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "Imagen del póster (foto: UNMU)"
+                "x": "La productora Muam (dirigida por Hyun Hae-ri) presentó el día 1, en una demostración para creadores de 'AI Film Festival Japan 2026' celebrada en Tokio, Japón, un proceso de producción híbrido que convierte imágenes creadas con AI generativa en planos finales de entrega para cine. El director Hyun Hae-ri participó como jurado internacional del festival."
               },
               {
                 "t": "p",
-                "x": "‘LAST CALL’, un drama de SF de 11 minutos y 23 segundos, cuenta la historia de tres clientes y un bartender atrapados en un bar iluminado con neones durante una noche de toque de queda para drones. Urbanworld incluyó este año por primera vez películas AI en su competencia oficial, y el Writers Guild of America East retiró su patrocinio al festival en protesta por la nueva categoría de AI."
+                "x": "Al producir planos de AI para series originales de plataformas OTT globales, Muam ha tenido que cumplir con el QC y las especificaciones finales de entrega. Las imágenes generadas deben enlazar con los planos reales anteriores y posteriores, y cumplir además las condiciones del máster final, como resolución, frecuencia de fotogramas, tasa de bits, HDR y gestión del color. Los retos son el stuttering, los desajustes de coincidencia de fotogramas entre planos, los bordes dentados y las diferencias de color y textura entre las zonas reales y las de AI."
               },
               {
                 "t": "p",
-                "x": "Los realizadores explicaron: “El guion, la dirección de actores, el montaje y la mezcla de sonido pasaron por manos humanas. La AI hizo los píxeles, pero fueron personas quienes decidieron qué mostrar y cuánto tiempo detenerse”. La obra tuvo su estreno mundial en agosto pasado, en la competencia AI del Festival Internacional de Cine de Avanca, en Portugal."
+                "x": "Muam distingue primero qué partes de las placas originales de rodaje conservar y qué zonas realizar con AI, y aplica la AI generativa de forma selectiva. Diseñó el proceso para que, desde la fase de generación con AI, los responsables de VFX y DI compartan las condiciones de composición, el color y los requisitos de masterización final. “Nuestro principio es 'Film with AI, not by AI'”, dijo el director Hyun. Muam prepara proyectos de cine y video para 2027."
               }
             ]
           }
@@ -1503,129 +1343,109 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "2-person Daejeon team's AI film\nwins a New York festival honor",
-          "body": "People wrote, directed, edited and mixed the 11-minute short, while generative AI rendered the visuals.",
-          "mini_headline": "Daejeon AI film wins NY honorable mention",
+          "headline": "Muam unveils hybrid process\nfor AI film delivery",
+          "body": "Muam shares VFX and DI specs from the generation stage to bring AI cuts up to delivery standard.",
+          "mini_headline": "Muam's AI delivery process",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "Director Yeon Hun-min and writer Ko Suk (Photo: UNMU)"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "Group photo from the AI Film Festival Japan 2026 awards ceremony (left) and director Hyun Hae-ri presenting AI hybrid production cases (right). Photo=Muam"
               },
               {
                 "t": "p",
-                "x": "UNMU, an independent video studio in Daejeon, said on the 2nd that the AI short film ‘LAST CALL’ (Closing Time), co-created by writer Ko Suk and director Yeon Hun-min, received an Honorable Mention in the ‘Best AI-Generated or Assisted Film’ category at the 30th Urbanworld Film Festival in New York."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "Poster image (Photo: UNMU)"
+                "x": "Film company Muam (CEO Hyun Hae-ri) unveiled a hybrid production process that turns footage made with generative AI into final delivery cuts for films at a creator demo of 'AI Film Festival Japan 2026', held in Tokyo, Japan, on the 1st. Director Hyun Hae-ri served as an international juror at this year's festival."
               },
               {
                 "t": "p",
-                "x": "‘LAST CALL’, an SF drama with a running time of 11 minutes 23 seconds, follows three customers and a bartender trapped in a neon-lit bar on a night under a drone curfew. Urbanworld included AI films in its official competition for the first time this year, and the Writers Guild of America East withdrew its sponsorship of the festival in opposition to the new AI category."
+                "x": "While producing AI cuts used in original series for global OTT platforms, Muam has worked to meet QC and final delivery specifications. Generated footage must connect with the live-action cuts before and after it, and must also meet final master conditions such as resolution, frame rate, bit rate, HDR and color management. The challenges include stuttering, frame-match mismatches between cuts, jagged edges, and differences in color and texture between live-action and AI areas."
               },
               {
                 "t": "p",
-                "x": "The filmmakers explained, “The script, the direction of the performances, the editing and the sound mixing all went through human hands. AI made the pixels, but people decided what to show and how long to stay on it.” The film had its world premiere in August in the AI competition of Portugal's Avanca International Film Festival."
+                "x": "Muam first separates what to keep from the original shot plates and which areas to realize with AI, then applies generative AI selectively. It designed the process so that VFX and DI staff share compositing conditions, color and final mastering requirements from the AI generation stage. “Our principle is 'Film with AI, not by AI',” director Hyun said. Muam is preparing film and video projects for 2027."
               }
             ]
           }
         },
         "ja": {
-          "headline": "大田の2人組AI映画、\nNY映画祭で特別言及賞",
-          "body": "人が脚本・演出・編集・ミキシングを担い、生成AIが映像を作った11分の短編だ。",
-          "mini_headline": "大田のAI映画、NYで特別言及賞",
+          "headline": "ムアム、AI映画納品用\nハイブリッド工程公開",
+          "body": "ムアムは生成段階からVFX・DI仕様を共有し、AIカットを納品水準に仕上げる。",
+          "mini_headline": "ムアムのAI納品工程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "ヨン・フンミン監督とコ・スク作家(写真:UNMU)"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "AI Film Festival Japan 2026授賞式の集合写真(左)と、AIハイブリッド制作事例を発表するヒョン・ヘリ監督(右)。写真=ムアム"
               },
               {
                 "t": "p",
-                "x": "大田の独立系映像スタジオUNMU(ウンム)は2日、コ・スク作家とヨン・フンミン監督が共同制作したAI短編映画『LAST CALL(閉店時間)』が、米ニューヨークで開かれた第30回アーバンワールド映画祭の「Best AI-Generated or Assisted Film(最優秀AI生成・補助映画)」部門で特別言及賞(Honorable Mention)を受賞したと明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "ポスター画像(写真:UNMU)"
+                "x": "映画会社ムアム(代表ヒョン・ヘリ)は1日、日本・東京で開かれた「AI Film Festival Japan 2026」のクリエイターデモで、生成AIで作った映像を映画の最終納品カットに仕上げるハイブリッド制作工程を公開した。ヒョン・ヘリ監督は今回の映画祭で国際審査員を務めた。"
               },
               {
                 "t": "p",
-                "x": "上映時間11分23秒のSFドラマ『LAST CALL』は、ドローンの通行禁止令が出た夜、ネオンが灯るバーに閉じ込められた客三人とバーテンダーの物語を描く。アーバンワールド映画祭は今年初めてAI映画を公式コンペティション部門に加え、全米脚本家組合東部支部はAI部門の新設に反対して映画祭への協賛を取りやめた。"
+                "x": "ムアムはグローバルOTTのオリジナルシリーズに使われるAIカットを制作しながら、QCと最終納品規格に対応してきた。生成映像は前後の実写カットとつながり、解像度、フレームレート、ビットレート、HDRおよびカラーマネジメントなど最終マスターの条件も満たさなければならない。スタッタリング、カット間のフレームマッチの不一致、エッジのジャギー、実写とAI領域の間の色や質感の差が課題だ。"
               },
               {
                 "t": "p",
-                "x": "制作陣は「脚本と演技演出、編集とサウンドミキシングはすべて人の手を経た。ピクセルはAIが作ったが、何を見せ、どれだけ長くとどまるかは人が決めた」と説明した。作品は去る8月、ポルトガルのアヴァンカ国際映画祭のAIコンペティション部門で世界初公開された。"
+                "x": "ムアムは撮影した元のプレートで残す部分とAIで実現する領域をまず切り分け、生成AIを選択的に適用する。AI生成の段階からVFXとDIの担当者が合成条件やカラー、最終マスタリングの要件を共有するよう工程を設計した。ヒョン監督は「私たちの原則は『Film with AI, not by AI』だ」と語った。ムアムは2027年の映画・映像プロジェクトを準備している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "大田2人团队AI电影\n获纽约影展特别提及奖",
-          "body": "这部11分钟短片由人负责编剧、导演、剪辑与混音，生成式AI生成画面。",
-          "mini_headline": "大田AI电影获纽约特别提及奖",
+          "headline": "Muam公开AI电影\n交付用混合流程",
+          "body": "Muam从生成阶段起共享VFX·DI规格,让AI镜头达到交付标准。",
+          "mini_headline": "Muam AI交付流程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "导演Yeon Hun-min与编剧Ko Suk（图片：UNMU）"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "AI Film Festival Japan 2026颁奖典礼合影(左)与发表AI混合制作案例的Hyun Hae-ri导演(右)。照片=Muam"
               },
               {
                 "t": "p",
-                "x": "大田独立影像工作室UNMU于2日宣布，由编剧Ko Suk与导演Yeon Hun-min联合制作的AI短片《LAST CALL》（闭店时间）在美国纽约举行的第30届Urbanworld电影节“Best AI-Generated or Assisted Film（最佳AI生成或辅助电影）”单元获得特别提及奖（Honorable Mention）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "海报图片（图片：UNMU）"
+                "x": "电影公司Muam(代表Hyun Hae-ri)1日在日本东京举行的“AI Film Festival Japan 2026”创作者演示环节中,公开了将生成式AI制作的影像完成为电影最终交付镜头的混合制作流程。Hyun Hae-ri导演担任了本届电影节的国际评委。"
               },
               {
                 "t": "p",
-                "x": "片长11分23秒的SF剧情片《LAST CALL》讲述了在无人机宵禁的夜晚，被困在霓虹灯闪烁的酒吧里的三名顾客与调酒师的故事。Urbanworld电影节今年首次将AI电影纳入正式竞赛单元，美国编剧工会东部分会则因反对设立AI单元而撤回了对电影节的赞助。"
+                "x": "Muam在为全球OTT原创剧集制作AI镜头的过程中,一直在应对QC和最终交付规格。生成影像需要与前后的实拍镜头衔接,还必须满足分辨率、帧率、码率、HDR及色彩管理等最终母版条件。卡顿、镜头间帧匹配不一致、边缘锯齿,以及实拍与AI区域之间的色彩和质感差异都是难题。"
               },
               {
                 "t": "p",
-                "x": "制作团队解释说：“剧本与表演指导、剪辑与混音全部经由人手完成。像素由AI生成，但展示什么、停留多久由人决定。”该片于8月在葡萄牙Avanca国际电影节AI竞赛单元进行了全球首映。"
+                "x": "Muam首先区分拍摄原始素材板中需要保留的部分和要用AI实现的区域,再有选择地应用生成式AI。其流程设计让VFX和DI负责人从AI生成阶段起就共享合成条件、色彩和最终母版制作要求。Hyun导演表示:“我们的原则是‘Film with AI, not by AI’。”Muam正在筹备2027年的电影及影像项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Corto AI de 2 autores de Daejeon\nlogra mención en festival de NY",
-          "body": "Es un corto de 11 minutos con guion, dirección, montaje y mezcla humanos, y AI generativa para las imágenes.",
-          "mini_headline": "Corto AI de Daejeon, mención en NY",
+          "headline": "Muam presenta un proceso híbrido\npara entregar cine con AI",
+          "body": "Muam comparte las especificaciones de VFX y DI desde la generación para llevar los planos de AI al nivel de entrega.",
+          "mini_headline": "El proceso de entrega AI de Muam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63933_464.png",
-                "cap": "Yeon Hun-min, director, y Ko Suk, guionista (foto: UNMU)"
+                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
+                "cap": "Foto de grupo de la ceremonia de premios de AI Film Festival Japan 2026 (izquierda) y el director Hyun Hae-ri presentando casos de producción híbrida con AI (derecha). Foto=Muam"
               },
               {
                 "t": "p",
-                "x": "UNMU, un estudio de video independiente de Daejeon, informó el día 2 que el cortometraje AI ‘LAST CALL’ (Hora de cierre), creado en conjunto por Ko Suk y el director Yeon Hun-min, recibió una mención especial (Honorable Mention) en la categoría ‘Best AI-Generated or Assisted Film’ (mejor película generada o asistida por AI) del 30.º Festival de Cine Urbanworld, celebrado en Nueva York."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.kr/news/photo/202611/42541_63934_4736.jpg",
-                "cap": "Imagen del póster (foto: UNMU)"
+                "x": "La productora Muam (dirigida por Hyun Hae-ri) presentó el día 1, en una demostración para creadores de 'AI Film Festival Japan 2026' celebrada en Tokio, Japón, un proceso de producción híbrido que convierte imágenes creadas con AI generativa en planos finales de entrega para cine. El director Hyun Hae-ri participó como jurado internacional del festival."
               },
               {
                 "t": "p",
-                "x": "‘LAST CALL’, un drama de SF de 11 minutos y 23 segundos, cuenta la historia de tres clientes y un bartender atrapados en un bar iluminado con neones durante una noche de toque de queda para drones. Urbanworld incluyó este año por primera vez películas AI en su competencia oficial, y el Writers Guild of America East retiró su patrocinio al festival en protesta por la nueva categoría de AI."
+                "x": "Al producir planos de AI para series originales de plataformas OTT globales, Muam ha tenido que cumplir con el QC y las especificaciones finales de entrega. Las imágenes generadas deben enlazar con los planos reales anteriores y posteriores, y cumplir además las condiciones del máster final, como resolución, frecuencia de fotogramas, tasa de bits, HDR y gestión del color. Los retos son el stuttering, los desajustes de coincidencia de fotogramas entre planos, los bordes dentados y las diferencias de color y textura entre las zonas reales y las de AI."
               },
               {
                 "t": "p",
-                "x": "Los realizadores explicaron: “El guion, la dirección de actores, el montaje y la mezcla de sonido pasaron por manos humanas. La AI hizo los píxeles, pero fueron personas quienes decidieron qué mostrar y cuánto tiempo detenerse”. La obra tuvo su estreno mundial en agosto pasado, en la competencia AI del Festival Internacional de Cine de Avanca, en Portugal."
+                "x": "Muam distingue primero qué partes de las placas originales de rodaje conservar y qué zonas realizar con AI, y aplica la AI generativa de forma selectiva. Diseñó el proceso para que, desde la fase de generación con AI, los responsables de VFX y DI compartan las condiciones de composición, el color y los requisitos de masterización final. “Nuestro principio es 'Film with AI, not by AI'”, dijo el director Hyun. Muam prepara proyectos de cine y video para 2027."
               }
             ]
           }

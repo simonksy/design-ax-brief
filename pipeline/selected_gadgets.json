@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "gadgets",
   "items": [
     {
+      "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+      "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
+      "source": "MacRumors",
+      "published_iso": "2026-11-03T18:35:16+00:00",
+      "og_image": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg",
+      "excerpt": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition. Sound Recognition and Shazam are already on the watch, but Live Rewind and Siri Recap are now available in the beta. Live Rewind can show you a transcript of the last 15 seconds of a conversation.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "Google and NASA build AI medical robot for Mars missions",
-      "url": "https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions",
-      "source": "TechRadar",
-      "published_iso": "2026-11-01T19:35:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg",
-      "excerpt": "Google and NASA unveil voice-guided AI medical assistant — Robot will perform tasks 'without ever replacing human decision-making'",
-      "rationale": "Fresh joint Google-NASA unveiling of a voice-guided AI medical robot; novel hardware with a clear human-in-the-loop design stance."
+      "rationale": "New watchOS 27.3 beta release puts on-wrist conversation transcription and recap in users' hands; most detailed of the three c0 cluster articles."
     },
     {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge",
+      "published_iso": "2026-11-03T20:16:17+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C10.736302165243%2C100%2C78.527395669513&w=1200",
+      "excerpt": "Siri AI is also expanding across Calendar, Mail, Messages, Music, and more.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "ChatGPT could soon turn your Android health data into something you can actually use",
-      "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
-      "source": "Android Authority",
-      "published_iso": "2026-11-02T06:36:17Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg",
-      "excerpt": "ChatGPT on Android is getting ready to read your Google Health data, including historical health data, to offer personalized advice.",
-      "rationale": "APK teardown shows ChatGPT reading Google Health data on Android; wearable data flowing into an assistant is new and has big privacy stakes."
+      "rationale": "Siri AI opening to third-party apps is a platform-level change for every iPhone app maker; distinct feature from the Watch story and from the iOS 27.2 card of 10-27."
     },
     {
+      "title": "Sonos' new voice assistant is launching in early access on November 6",
+      "url": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
+      "source": "Engadget",
+      "published_iso": "2026-11-03T20:48:49+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg",
+      "excerpt": "The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "Google could soon let you put your kids' Gemini chats on a timer",
-      "url": "https://www.androidauthority.com/google-gemini-parental-controls-daily-time-limits-3730765/",
-      "source": "Android Authority",
-      "published_iso": "2026-11-02T18:26:11Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg",
-      "excerpt": "Google is working on daily Gemini time limits for kids, giving parents more control over how long they use AI.",
-      "rationale": "New parental control for AI use (daily Gemini time limits for kids); a distinct feature, not related to the Notebooks story it was loosely matched to."
+      "rationale": "Dated early-access launch of Sonos's own AI voice assistant; chose Engadget over The Verge (c8) to keep outlet spread."
     },
     {
+      "title": "Cyclon wants to replace your iPhone with an AI phone that actually gets things done",
+      "url": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
+      "source": "Digital Trends",
+      "published_iso": "2026-11-02T23:01:43-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Y Combinator-backed startup Cyclon is building an AI phone that can navigate apps, complete tasks, and even create apps on demand.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
-      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
-      "source": "9to5Mac",
-      "published_iso": "2026-11-02T20:07:21Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?resize=1200,628",
-      "excerpt": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired.",
-      "rationale": "Concrete product change for ChatGPT mobile users: Classic app sunset and Chat/Work tabs merging into one app."
+      "rationale": "New agentic AI-phone hardware/software product; Digital Trends version is the more substantive of the two Cyclon articles."
     },
     {
+      "title": "ChatGPT Dots are getting smarter, and you won't have to lift a finger",
+      "url": "https://www.androidauthority.com/openai-chatgpt-dots-update-3731008/",
+      "source": "Android Authority",
+      "published_iso": "2026-11-03T08:03:36+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg",
+      "excerpt": "OpenAI is making ChatGPT Dots smarter with GPT-6 Astra and GPT-6.1 Terra, allowing them to automatically pick the best AI model for each task.",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "title": "The best speech recognition you can run at home is absolutely tiny, and it runs on a ten-year-old laptop",
-      "url": "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/",
-      "source": "XDA Developers",
-      "published_iso": "2026-11-02T21:00:21Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "I dictated an entire article on an old laptop, and it cost me nothing but 2GB of RAM",
-      "rationale": "Hands-on with a tiny local speech-recognition model (Parakeet) that runs on old hardware; readers can try it right away, and it adds outlet diversity."
+      "rationale": "Replaces the LG/SoundHound TV-ordering pick (little AI substance): a concrete new model update (GPT-6 Astra / GPT-6.1 Terra with automatic model routing) for ChatGPT Dots, from a fifth distinct outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions": {
+      "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/": {
+        "verdict": "new",
+        "nearest": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+        "new_action": ""
+      },
+      "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps": {
+        "verdict": "new",
+        "nearest": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+        "new_action": ""
+      },
+      "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/": {
+      "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/": {
         "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+        "nearest": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
         "new_action": ""
       },
-      "https://www.androidauthority.com/google-gemini-parental-controls-daily-time-limits-3730765/": {
-        "verdict": "new",
-        "nearest": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
-        "new_action": ""
-      },
-      "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/": {
-        "verdict": "new",
+      "https://www.androidauthority.com/openai-chatgpt-dots-update-3731008/": {
+        "verdict": "follow-up",
         "nearest": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-        "new_action": ""
-      },
-      "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/": {
-        "verdict": "new",
-        "nearest": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
-        "new_action": ""
+        "new_action": "New model release for Dots: GPT-6 Astra and GPT-6.1 Terra roll out with automatic per-task model selection (the 10-29 card covered texting the Dot agent, a different feature)."
       }
     },
-    "note": "Dropped as duplicates/follow-ups without a new release: Philips Hue custom AI behaviors (TechRadar; likely-repeat of 2026-10-22 Android Authority 'launch next week'), Samsung Intelligent Eyewear December launch report (Digital Trends + 9to5Google cluster; extra reporting on the 2026-10-14 CNET Samsung glasses reveal, and a report rather than an official announcement), iOS 27.2 Messages Suggested Actions (9to5Mac; same feature as the 2026-10-08 9to5Mac Messages AI suggestions card). Skipped on judgement: Apple $1,000 home robot (rumor in the same Apple home-robot thread as the 2026-10-20 HomeView robotic-arm report), Dell XPS Googlebook review (Googlebook OS already reviewed 2026-10-13), Google app You tab / Ecovacs review / Galaxy Watch sleep apnea (AI incidental), VRChat AI label (better fit for games), wearable BP crisis study (medicine-adjacent, and the AI angle is unclear). Cross-section check: the TechRadar NASA URL is not in published_urls science; the other picks were published after the 11-02 run, so they could not have run in any section yet."
+    "note": "Cluster dedup: c0 Apple Watch Live Rewind kept MacRumors, dropped CNET and Digital Trends versions; c8 Sonos 27voice kept Engadget, dropped The Verge; Cyclon kept Digital Trends, dropped 9to5Google. Samsung Android XR glasses (9to5Google, Android Authority, Gizmodo) all dropped: a reported December launch date is a follow-up to the published 10-14 CNET unveil with no official announcement. Apple $1,000 home robot (Ars) dropped as the same Gurman rumor line as the 10-20 9to5mac 'next HomeView with robotic arm' card. iPadOS 27.3 Siri camera mode skipped: same 27.3 beta drop as the watchOS pick, and it would have been a second MacRumors pick. Orchestrator swap: LG smart TVs x SoundHound food ordering (Digital Trends) removed, since the fetched article had almost no AI content. Replaced with ChatGPT Dots GPT-6 Astra/Terra update (Android Authority) as a follow-up to the 10-29 Engadget Dot texting card, with a new model release. Echo Show 16 / Echo Time not chosen: Amazon 10-28 event, a week old, and the same event already ran on 10-29 (Ars). Still not picked: Echo Show slop how-to (evergreen), Tinybox, Gemini Notebook recorder (10-27, stale), Meta glasses senators (policy angle), robot study. DLSS 5 avoided per orchestrator (games). Cross-section: could not grep the 3893-line published_urls.json without a search tool. The orchestrator should check that Sonos 27voice is not in music, Siri/Apple Watch are not in another section, and ChatGPT Dots is not in another section."
   }
 }

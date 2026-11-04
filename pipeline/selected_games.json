@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "games",
-  "items": [
+  "picks": [
     {
+      "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
+      "title": "How Gaijin Tuned DLSS 5 for War Thunder",
+      "source": "NVIDIA",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Introducing the official Unity plugin for Antigravity",
-      "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
-      "source": "Unity (YouTube)",
-      "published_iso": "2026-10-29T11:50:14-07:00",
-      "og_image": "https://i.ytimg.com/vi/gobNINSU3JE/maxresdefault.jpg",
-      "excerpt": "Unity's official plugin is now live in Google Antigravity's plugin marketplace, connecting the Unity Editor to Antigravity's agentic workflows in one click so developers can request Unity work in plain language.",
-      "rationale": "Unity's own release: a one-click plugin that lets Antigravity's agents work inside the Unity Editor from plain-language requests. Developers can install it today, which makes it the most usable item in the pool."
+      "rationale": "Primary-source dev interview: War Thunder's art director explains how they tuned DLSS 5 neural rendering inside their engine's color pipeline so markings and materials stay true to the original art. Concrete, actionable art-pipeline detail.",
+      "published_iso": "2026-11-03T06:00:00-08:00",
+      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg",
+      "excerpt": "Gaijin's War Thunder art director Kirill Stupin explains how the team integrated DLSS 5 into the Dagor Engine color pipeline, made color management invertible, and tuned the neural renderer so markings, wear and materials stay faithful to the original art."
     },
     {
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "title": "Nearly 50 percent of all of last month's Steam releases admit to containing AI slop",
-      "url": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
-      "source": "Destructoid",
-      "published_iso": "2026-11-02T17:43:18+00:00",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-      "excerpt": "An analysis of Steam release data posted to r/Steam finds 49.9% of games released in October 2026 disclosed AI-generated content, up from 26.4% a year earlier and 1.7% when the disclosure field launched in January 2024.",
-      "rationale": "New Steam-wide numbers: 49.9% of October releases disclosed AI content, up from 26.4% a year ago. Yesterday's itch.io story covered a different store, and these figures on disclosure and discoverability matter to every studio releasing on Steam."
-    },
-    {
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "title": "'VRChat' Faces User Backlash After Rejecting 'AI-Generated' Content Label",
-      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
-      "source": "Road to VR",
-      "published_iso": "2026-11-02T10:39:00+00:00",
-      "excerpt": "VRChat is facing a sizable user backlash after deciding not to label AI-generated content, following a survey earlier this month asking users whether the social VR platform should.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg",
-      "rationale": "A platform policy decision. VRChat chose not to add an AI-generated content label after polling its users, which affects how UGC creators on the platform are shown and found."
-    },
-    {
+      "url": "https://aftermath.site/itch-io-removes-terabytes-ai-slop/",
+      "title": "Itch Removes 'A Couple Terabytes' Of AI Slop, Updates Filtering To Stem Tide Of Garbage Flood",
+      "source": "Aftermath",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "콘진원, 'AI 게임랩 데이 2026' 개최…게임 개발 AI 활용 사례 공유",
-      "url": "https://www.inews24.com/view/2021651",
-      "source": "inews24",
-      "published_iso": "2026-11-02T15:39:03+09:00",
-      "og_image": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-      "excerpt": "콘진원이 11월 12일 판교에서 'AI 게임랩 데이 2026'을 열어 송재경 등 개발자의 AI 활용 게임 제작·엔진 사례 강연과 중소 게임사 대상 일대일 기술 상담을 진행한다.",
-      "rationale": "A newly announced government-backed event on Nov 12 in Pangyo, with talks on AI in game production (including one by Song Jae-kyung) and one-on-one tech consulting for small studios. Korean developers can sign up now."
+      "rationale": "Follow-up with new actions: two days after itch.io published its upload numbers, it deleted terabytes of AI uploads and changed its filtering. Storefront policy that affects every indie release.",
+      "published_iso": "2026-11-03T22:29:58.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+      "excerpt": "itch.io deleted 'a couple terabytes' of AI-generated uploads, many of them poorly optimized AI models, and updated its filtering to stem the flood of genAI projects."
     },
     {
+      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+      "title": "\"Steam's review queue is clogged up by AI slop\": Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+      "source": "Rock Paper Shotgun",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
-      "source": "PC Gamer",
-      "published_iso": "2026-11-02T17:55:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1920-80.jpg",
-      "excerpt": "Embark executive producer Aleksander Grøndal says criticism of Arc Raiders' AI text-to-speech voices was 'really fair' but recording every line was 'too impractical'; the studio has since re-recorded lines to add more real human voices.",
-      "rationale": "A major studio admits the AI text-to-speech backlash was fair and says it re-recorded lines with human actors. This is a concrete case of the cost of AI voice work versus the player backlash, and it is a different event from the 10-23 ChatGPT support-reply story."
+      "rationale": "New event: a human-made game moved its launch date because its developers say Steam's review queue is backed up with genAI submissions. Shows AI slop changing real release schedules.",
+      "published_iso": "2026-11-03T21:41:08.091733+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Food Devils' developers delayed launch, saying Steam's review queue is clogged by a flood of genAI submissions, a sign AI slop is now affecting release schedules for human-made games."
+    },
+    {
+      "url": "https://gamesbeat.com/playgama-launches-ai-game-index-to-rank-coding-agents-by-real-player-engagement/",
+      "title": "Playgama launches AI Game Index to rank coding agents by real player engagement",
+      "source": "GamesBeat",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "New release, separate from Playgama's 10-15 agent toolset: a benchmark that ranks AI coding models by how real players engage with 4,200 AI-made games. Useful data for teams choosing a model.",
+      "published_iso": "2026-10-29T13:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png",
+      "excerpt": "Playgama's first AI Game Index ranks models by real player engagement across 4,200 AI-made games: Claude Opus builds 54% of new games, but OpenAI's Astra makes the ones players like most."
+    },
+    {
+      "url": "https://www.inews24.com/view/2021644",
+      "title": "크래프톤, K팝 AI 캐릭터 챗 서비스 '키프' 선보여",
+      "source": "아이뉴스24",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "New product launch from a major Korean game publisher: Krafton's AI character chat service Kiff, with characters designed by the artists themselves. Adds Korean coverage and an AI-character angle.",
+      "published_iso": "2026-11-02T15:31:50+09:00",
+      "og_image": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+      "excerpt": "크래프톤이 K팝 AI 캐릭터 챗 서비스 '키프(Kiff)'를 국내 출시했다. 첫 아티스트 피프티피프티 멤버들이 직접 구상한 캐릭터 '웨니'와 K팝을 주제로 대화할 수 있다."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.youtube.com/watch?v=gobNINSU3JE": {
+      "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/": {
         "verdict": "new",
-        "nearest": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+        "nearest": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
         "new_action": ""
       },
-      "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/": {
-        "verdict": "new",
-        "nearest": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
-        "new_action": ""
-      },
-      "https://roadtovr.com/vrchat-user-backlash-ai-content-label/": {
+      "https://aftermath.site/itch-io-removes-terabytes-ai-slop/": {
         "verdict": "follow-up",
-        "nearest": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
-        "new_action": "VRChat officially decided NOT to add an AI-generated content label after its user survey (new platform policy decision, after the 10-14 community boycott call)."
+        "nearest": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+        "new_action": "itch.io deleted 'a couple terabytes' of AI-generated uploads and changed its filtering (site-wide genAI disclosure plus a search filter to hide AI-disclosed games). The 11-02 Polygon card only covered the upload-volume numbers."
       },
-      "https://www.inews24.com/view/2021651": {
+      "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
         "new_action": ""
       },
-      "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/": {
+      "https://gamesbeat.com/playgama-launches-ai-game-index-to-rank-coding-agents-by-real-player-engagement/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
+        "nearest": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
+        "new_action": ""
+      },
+      "https://www.inews24.com/view/2021644": {
+        "verdict": "new",
+        "nearest": "https://www.inews24.com/view/2019608",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: PC Gamer 'indie dev scrubs AI voice lines' (same story as RPS 10-24 'Future? No Thanks! dev removes AI-generated voices'); GamesRadar 'Valve veteran says Steam overwhelmed with slop' and PC Gamer 'top-50 Next Fest demos / 4 AI disclosures' (same running Next Fest slop story as IGN 10-20 / Kotaku 10-29, commentary/analysis with no new decision); GamesIndustry.biz 'Slop Grenade' opinion (commentary on storefront slop already covered by Polygon itch.io 11-02 and Kotaku Valve 10-29). Skipped on merit: Wccftech DLSS 5 Mario Kart and Phantom Blade Zero mods (mod showcases repeating the DLSS 5 mod beat: DOOM 10-09, RTX Remix 10-25); Kotaku MS/Epic 'AI is theft' (analysis of the decompilation story already covered 10-10/10-14/10-25/11-02); GamesRadar BioWare co-founder and RPS Star Trek Online exec (commentary on studio closures, mostly business). Cross-section: the pick URLs and key names (VRChat, Antigravity) were checked by reading the design and gadgets parts of published_urls.json and found no match. The full file (3843 lines) was not read end to end."
+    "note": "Cross-section: dropped 80.lv CozyBlanket Pro retopology because the same Sparseal CozyBlanket Pro release ran in design on 2026-10-15 (cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro). Same story as a published card: Eurogamer + RPS itch.io filter (same running story as the Aftermath pick, kept one of the cluster; Eurogamer is a likely-repeat of the 11-02 Polygon card); GI.biz Vivrato 97% (= 10-21 GamesBeat Vivrato report); GI.biz Shogun 2 VP comments (commentary after the 10-16 pull from sale); GI.biz Sweeney 'political act' (= 10-24 GamesRadar Sweeney); PC Gamer Epic AI MegaJam (= 10-23 GamesRadar); NVIDIA Hogwarts Legacy DLSS 5 Nov 5 (= 10-14 Wccftech, Hogwarts in November already announced); Wccftech War Thunder DLSS 5 (same story as the NVIDIA War Thunder pick, kept the primary source); NVIDIA Dev RTX Spark (cluster c11, related to the 10-16 RTX Spark card). Excluded on quality: Wccftech '94% labels meaningless' (opinion piece built on survey data already covered); 80.lv Tripo P2.0 (vendor interview); 80.lv haystack-dev AI-clone jab (6 days old, overlaps the 10-29 Valve/Steam Indie Connect card and the running AI-clone story). Checked published_urls design/gadgets/music for the picks: no cross-section hits. Diversity: 5 distinct outlets."
   }
 }

@@ -8681,6 +8681,150 @@
           "x": "在锣、钟琴、哨声等声音上，它更少产生多余的伪影，能更好地保留所要求声音的特质。用户可在Sound Effects标签页、Flows、Studio、Music Editor和移动应用中生成音效；开发者可通过ElevenAPI使用SFX v3。"
         }
       ]
+    },
+    "music/music-riaa-openai-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+        },
+        {
+          "t": "p",
+          "x": "包括RIAA、NMPA、A2IM、SONA和ARA在内的一批音乐行业组织，以法庭之友意见书（amicus brief）介入图书作者、报纸所有者与Open AI之间正在进行的重大诉讼，阐述了为何根据美国版权法，AI训练绝不应被视为合理使用（fair use）。"
+        },
+        {
+          "t": "p",
+          "x": "美国（US）针对AI公司的版权诉讼都取决于合理使用问题，包括音乐行业针对Suno、Udio和Anthropic的诉讼。Trump政府的司法部此前曾告诉法官，裁定Open AI的训练不属于合理使用将“与版权法基本原则不符”。"
+        },
+        {
+          "t": "p",
+          "x": "意见书提出三点论据。关于转换性，它援引Warhol案判决：“AI模型吸收浪漫诗歌或蓝草音乐，不是为了学习整体的语言或音乐，而是为了生成读起来、听起来与之相似的替代品。”关于市场稀释，AI“具有独特的能力，可以无止境地输出内容，取代其训练所用受版权保护作品的市场并削弱其价值”。此外，版权的广泛目的是“鼓励人类为公众利益创作作品”。"
+        },
+        {
+          "t": "p",
+          "x": "另外，US Music Artist Coalition支持了由Cate Blanchett联合创办的Human Consent Foundation提交的意见，称“创意产业已经拥有成熟的基础设施和工作流程，能够大规模且经济高效地为分散的作品清理版权”。"
+        }
+      ]
+    },
+    "music/music-disney-openart-lyrics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Walt Disney Co.正在尝试用人工智能测试展示旗下歌曲歌词的音乐视频的不同概念，首先从1997年动画电影《Hercules》中的《Go the Distance》开始。"
+        },
+        {
+          "t": "p",
+          "x": "这项尝试是与湾区AI初创公司OpenArt合作的一部分。Disney可以把歌曲输入OpenArt平台，平台会根据歌词、情绪和情感基调生成歌词视频的故事板预览。Disney可以随意修改并微调视频。"
+        },
+        {
+          "t": "p",
+          "x": "“他们非常兴奋，想把一些较老的音乐曲库拿出来，为这些歌曲制作视觉化歌词视频，”OpenArt CEO Coco Mao说，并称这是“早期探索”。Disney表示，创意团队能够生成并评估“多个概念，只需数小时而非数周”。"
+        },
+        {
+          "t": "p",
+          "x": "该合作于周二在伯班克举行的Disney Accelerator Demo Day上宣布；今年入选的五家公司全部是AI公司。OpenArt使用的模型包括Kling、Google Veo和Seedream，并拥有一款帮助标记潜在IP侵权的工具。该公司由前Google工程师Mao和John Qiao于2022年创立，拥有近100名员工和1700万月活跃用户。"
+        },
+        {
+          "t": "p",
+          "x": "这项实验正值Disney和其他制片公司起诉AI公司Midjourney和MiniMax之际。"
+        }
+      ]
+    },
+    "music/music-itunes-top10-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted音乐不再是某个潜伏在远处、等着写出下一首热门歌或抢走Grammy的行业怪物——它已经是日常榜单的一部分。"
+        },
+        {
+          "t": "p",
+          "x": "例证：Nov. 1的iTunes U.S. Top 10中有四首歌似乎至少借助了部分AI，其中包括万圣节后（post-Halloween）的#1。当然，Apple不公布单曲下载量，而数字单曲销售在如今由流媒体主导的音乐消费中只占极小部分。但显然有人在买这些歌。"
+        },
+        {
+          "t": "p",
+          "x": "榜首是May the Lord Studio的《Tell Me, How Is Heaven》，这是一个信仰主题项目，其音乐已被认定为AI-assisted。#4是Shards of Art的《Fucking Shit, Holy Shit》，一首带有合唱与doo-wop风格的趣味歌曲，已衍生出多个不同曲风的翻版。Rocky B的《Fuck the Ones》位列#8。#10是Looze Cannon的《Big Michael Michael》，这位Detroit表演者模仿Michael Jackson的视频走红，促成了这首单曲；Looze否认自己使用AI滤镜。"
+        },
+        {
+          "t": "p",
+          "x": "重点并不是它们取代了某位深受喜爱的巨星；榜单上的真人歌手包括凭《Thriller》位列#2的Jackson、Ella Langley、Taylor Swift、Ray Parker Jr.，以及Zach Bryan和Lana Del Rey。但随着节日季临近，下一个前沿可能是大量合成的节日欢歌。"
+        }
+      ]
+    },
+    "music/music-seoul-forum-virtual-kpop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "cap": "虚拟男团Plave在日本的一场展示会（June 17）上演出。"
+        },
+        {
+          "t": "p",
+          "x": "以“Independent, Connected, Global: The Next Chapter for Music Labels”为主题的2026 Seoul Music Forum探讨了AI在音乐领域的崛起。论坛由韩国唱片产业协会（LIAK）主办，于周日和周一在首尔西部举行。"
+        },
+        {
+          "t": "p",
+          "x": "主旨演讲者、马尼拉咨询公司Crosscurrent创始人Josh Jordan表示，随着AI飞速发展，年轻一代正在完美生成的AI内容中寻找人类的不完美。虚拟男团Plave就是一个关键例子：“粉丝知道，在这些虚拟外表之下是真实的人。”"
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
+          "cap": "左起：出席2026 Seoul Music Forum小组讨论（Nov. 1）的Josh Jordan、Tinko Georgiev、Yang和乐评人Lim Hee-yun。"
+        },
+        {
+          "t": "p",
+          "x": "小组讨论中，乐评人Lim Hee-yun分享了与Crosscurrent合作开展的研究，显示今年新出道的K-pop组合中每四组就有一组是虚拟的。“新人中每四组就有一组[不是人类]，这一事实对未来意义重大，”Lim说，并称之为“非人类与人类的结合”。"
+        },
+        {
+          "t": "p",
+          "x": "总部位于上海的CRxAI的Tinko Georgiev表示，AI带来的最大变化之一是高质量内容将不再稀缺。LIAK会长Park June-seok表示，业界必须思考“如何保护音乐的价值和创作者的权利，并建立可持续的生态系统”。"
+        }
+      ]
+    },
+    "music/suno-studio-chat-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "随着DAWs成为主流，人们对录音室助理的依赖日渐减少。内置助手的DAWs屈指可数，Suno Studio是其中之一，其余为FL Studio、Fender Studio Pro和Logic Pro。"
+        },
+        {
+          "t": "p",
+          "x": "在Suno Studio中，助手名为Chat。Chat不仅能以任何可以想到的乐器或人声生成分轨和插件，还能承担部分整理工程的琐碎工作，并对你正在制作的内容给出反馈。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/e54cae59ac6f8d030a76a7afa9774d1fb705d497.gif",
+          "cap": "用Suno Studio的AI助手重命名音轨"
+        },
+        {
+          "t": "p",
+          "x": "为音轨命名：只需输入“按片段名称重命名每条音轨”，20多条名为“Audio Track”的音轨就会被整理好。一次调整多个推子：“把所有音轨降低3dB。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/fa23b0ee0aec51abb19d256fd9b5a51ee99febb1.gif",
+          "cap": "用Suno Studio的AI助手控制插件"
+        },
+        {
+          "t": "p",
+          "x": "可一次添加多个插件，无论是Studio自带的Compressor和EQ，还是你自己制作的插件：“给每条音轨添加Compressor和EQ效果”，或“在工程中每个EQ上加一个最高到82 Hz的高通滤波器”。在你创作卡壳时，Chat还会抛出出人意料的点子，比如“一首关于小狗、70 BPM的Ska-Metal歌曲”。"
+        },
+        {
+          "t": "p",
+          "x": "所有Premier订阅均可使用Suno Studio。"
+        }
+      ]
     }
   }
 }

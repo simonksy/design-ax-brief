@@ -1,499 +1,227 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "games",
   "cards": [
     {
-      "id": "unity-antigravity-plugin",
+      "id": "war-thunder-dlss5-gaijin",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unity 공식 플러그인\nAntigravity 입점",
-      "body": "Unity Editor를 Antigravity 에이전트 워크플로에 한 번에 잇는다.",
-      "mini_headline": "Unity 플러그인, Antigravity 합류",
+      "headline": "War Thunder의\nDLSS 5 화풍 지키기",
+      "body": "Gaijin은 DLSS 5에 맞춰 Dagor Engine 색 처리를 고쳤다.",
+      "mini_headline": "War Thunder의 DLSS 5 조율",
       "tool": "Games",
-      "source": "Unity (YouTube)",
-      "url": "https://www.youtube.com/watch?v=gobNINSU3JE",
+      "source": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "gobNINSU3JE"
-          },
-          {
-            "t": "p",
-            "x": "Unity 플러그인이 Antigravity의 Plugin marketplace에 정식 출시됐다."
-          },
-          {
-            "t": "p",
-            "x": "Google Antigravity와 손잡고 실시간 3D 개발을 강력한 에이전트 워크플로에 곧바로 끌어들이는 과정을 매끄럽게 다듬었다. 여러 단계로 쪼개진 설정을 거칠 필요 없이 이제 개발자는 클릭 한 번으로 Unity를 Antigravity에 연결한다."
-          },
-          {
-            "t": "p",
-            "x": "이미 손에 익은 도구를 잇는 일이 얼마나 중요한지 잘 안다는 설명이다. 이번 플러그인은 에이전트 워크플로를 빌드 파이프라인에 바로 들여온다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Unity's official plugin\nlands in Google Antigravity",
-          "body": "Unity's official plugin connects the Unity Editor to Antigravity's agentic workflows with a single click.",
-          "mini_headline": "Unity plugin joins Antigravity",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "The Unity plugin is officially live in the Plugin marketplace in Antigravity."
-              },
-              {
-                "t": "p",
-                "x": "Through our partnership with Google Antigravity, we're making it seamless to bring real-time 3D development directly into powerful agentic workflows. Instead of navigating fragmented multi-step setups, developers can now connect Unity to Antigravity with a single click."
-              },
-              {
-                "t": "p",
-                "x": "We know how important it is to connect the tools you already rely on, and this brings agentic workflows straight into your build pipeline."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Unity 공식 플러그인\nAntigravity 입점",
-          "body": "Unity Editor를 Antigravity 에이전트 워크플로에 한 번에 잇는다.",
-          "mini_headline": "Unity 플러그인, Antigravity 합류",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "Unity 플러그인이 Antigravity의 Plugin marketplace에 정식 출시됐다."
-              },
-              {
-                "t": "p",
-                "x": "Google Antigravity와 손잡고 실시간 3D 개발을 강력한 에이전트 워크플로에 곧바로 끌어들이는 과정을 매끄럽게 다듬었다. 여러 단계로 쪼개진 설정을 거칠 필요 없이 이제 개발자는 클릭 한 번으로 Unity를 Antigravity에 연결한다."
-              },
-              {
-                "t": "p",
-                "x": "이미 손에 익은 도구를 잇는 일이 얼마나 중요한지 잘 안다는 설명이다. 이번 플러그인은 에이전트 워크플로를 빌드 파이프라인에 바로 들여온다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Unityの公式プラグイン\nAntigravityに登場",
-          "body": "Unity EditorをワンクリックでAntigravityのエージェント型開発につなぐ。",
-          "mini_headline": "UnityプラグインがAntigravityに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "Unityプラグインが、AntigravityのPlugin marketplaceで正式に公開された。"
-              },
-              {
-                "t": "p",
-                "x": "Google Antigravityとの提携により、リアルタイム3D開発を強力なエージェント型ワークフローへ直接持ち込める環境をシームレスに整えている。断片化した複数ステップの設定を経る代わりに、開発者はワンクリックでUnityをAntigravityに接続できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "すでに頼っているツールをつなぐことがいかに重要かは承知しており、これによってエージェント型ワークフローがビルドパイプラインに直接組み込まれる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unity官方插件\n登陆Antigravity",
-          "body": "Unity官方插件一键将Unity Editor接入Antigravity的智能体工作流。",
-          "mini_headline": "Unity插件加入Antigravity",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "Unity插件已在Antigravity的Plugin marketplace正式上线。"
-              },
-              {
-                "t": "p",
-                "x": "通过与Google Antigravity的合作，我们让实时3D开发能够无缝融入强大的智能体工作流。开发者无需再经历零散的多步骤设置，现在只需一键即可将Unity连接到Antigravity。"
-              },
-              {
-                "t": "p",
-                "x": "我们深知连接你早已依赖的工具有多重要，这让智能体工作流直接进入你的构建管线。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El plugin oficial de Unity\nllega a Google Antigravity",
-          "body": "El plugin oficial de Unity conecta el Unity Editor con los flujos agénticos de Antigravity con un solo clic.",
-          "mini_headline": "El plugin de Unity llega a Antigravity",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "El plugin de Unity ya está disponible oficialmente en el Plugin marketplace de Antigravity."
-              },
-              {
-                "t": "p",
-                "x": "Gracias a nuestra alianza con Google Antigravity, facilitamos llevar el desarrollo 3D en tiempo real directamente a potentes flujos de trabajo agénticos. En lugar de recorrer configuraciones fragmentadas de varios pasos, los desarrolladores ahora pueden conectar Unity a Antigravity con un solo clic."
-              },
-              {
-                "t": "p",
-                "x": "Sabemos lo importante que es conectar las herramientas en las que ya confías, y esto lleva los flujos de trabajo agénticos directamente a tu pipeline de compilación."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Unity 공식 플러그인\nAntigravity 입점",
-          "body": "Unity Editor를 Antigravity 에이전트 워크플로에 한 번에 잇는다.",
-          "mini_headline": "Unity 플러그인, Antigravity 합류",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "Unity 플러그인이 Antigravity의 Plugin marketplace에 정식 출시됐다."
-              },
-              {
-                "t": "p",
-                "x": "Google Antigravity와의 파트너십을 통해 실시간 3D 개발을 강력한 에이전트 워크플로에 곧바로 끌어들이는 과정을 매끄럽게 만들고 있다. 여러 단계로 쪼개진 설정을 거칠 필요 없이, 이제 개발자는 클릭 한 번으로 Unity를 Antigravity에 연결할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이미 의지하고 있는 도구를 연결하는 일이 얼마나 중요한지 잘 알고 있으며, 이번 플러그인은 에이전트 워크플로를 빌드 파이프라인에 바로 들여온다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Unityの公式プラグイン\nAntigravityに登場",
-          "body": "Unity EditorをワンクリックでAntigravityのエージェント型開発につなぐ。",
-          "mini_headline": "UnityプラグインがAntigravityに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "Unityプラグインが、AntigravityのPlugin marketplaceで正式に公開された。"
-              },
-              {
-                "t": "p",
-                "x": "Google Antigravityとの提携により、リアルタイム3D開発を強力なエージェント型ワークフローへ直接持ち込める環境をシームレスに整えている。断片化した複数ステップの設定を経る代わりに、開発者はワンクリックでUnityをAntigravityに接続できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "すでに頼っているツールをつなぐことがいかに重要かは承知しており、これによってエージェント型ワークフローがビルドパイプラインに直接組み込まれる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unity官方插件\n登陆Antigravity",
-          "body": "Unity官方插件一键将Unity Editor接入Antigravity的智能体工作流。",
-          "mini_headline": "Unity插件加入Antigravity",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "Unity插件已在Antigravity的Plugin marketplace正式上线。"
-              },
-              {
-                "t": "p",
-                "x": "通过与Google Antigravity的合作，我们让实时3D开发能够无缝融入强大的智能体工作流。开发者无需再经历零散的多步骤设置，现在只需一键即可将Unity连接到Antigravity。"
-              },
-              {
-                "t": "p",
-                "x": "我们深知连接你早已依赖的工具有多重要，这让智能体工作流直接进入你的构建管线。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El plugin oficial de Unity\nllega a Google Antigravity",
-          "body": "El plugin oficial de Unity conecta el Unity Editor con los flujos agénticos de Antigravity con un solo clic.",
-          "mini_headline": "El plugin de Unity llega a Antigravity",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "gobNINSU3JE"
-              },
-              {
-                "t": "p",
-                "x": "El plugin de Unity ya está disponible oficialmente en el Plugin marketplace de Antigravity."
-              },
-              {
-                "t": "p",
-                "x": "Gracias a nuestra alianza con Google Antigravity, facilitamos llevar el desarrollo 3D en tiempo real directamente a potentes flujos de trabajo agénticos. En lugar de recorrer configuraciones fragmentadas de varios pasos, los desarrolladores ahora pueden conectar Unity a Antigravity con un solo clic."
-              },
-              {
-                "t": "p",
-                "x": "Sabemos lo importante que es conectar las herramientas en las que ya confías, y esto lleva los flujos de trabajo agénticos directamente a tu pipeline de compilación."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "steam-october-ai-disclosure",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "시월 Steam 신작 절반\nAI 콘텐츠 사용 밝혀",
-      "body": "Steam 신작 AI-generated 공개율이 26.4%에서 49.9%로 올랐다.",
-      "mini_headline": "Steam 신작 절반 AI 공개",
-      "tool": "Games",
-      "source": "Destructoid",
-      "url": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-            "cap": "이미지 출처: Steam"
+            "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
           },
           {
             "t": "p",
-            "x": "ploz라는 Redditor가 통계를 깊이 파고들어 보니 2026년 10월 Steam에 나온 신작의 49.9퍼센트가 AI-generated 콘텐츠를 썼다고 밝혔다. 한 해 전 26.4퍼센트에서 크게 늘었다. Steam이 AI 공개 옵션을 추가한 2024년 1월에는 1.7퍼센트에 불과했다."
+            "x": "11월 중순(mid-November) War Thunder 대규모 업데이트 Eagle's Shadow와 함께 3D-Guided Neural Rendering을 갖춘 NVIDIA DLSS 5가 들어간다. Gaijin Entertainment가 보기에 사실감은 플레이어가 알아보는 마킹과 재질, 전체 외형을 지킬 때만 의미가 있다. 팀은 DLSS 5를 Dagor Engine 색 파이프라인에 붙여 게임의 기준 룩에 맞게 조율했고, 공중·지상·해상 전투 전반에서 결과를 확인했다."
+          },
+          {
+            "t": "p",
+            "x": "아트 디렉터 Kirill Stupin은 DLSS 5 덕분에 하이라이트와 그림자가 좋아지고 “이전에는 도저히 이루지 못했던 새로운 수준의 미세 대비”가 생긴다고 말한다. 통합에서 실제로 부딪힌 과제는 하나였다. DLSS 5는 sRGB에서 돌아가는데 Dagor Engine은 선형 HDR 파이프라인을 쓴다. 그는 “이를 해결하려고 색 관리 파이프라인을 역변환 가능하게 만들어야 했다”고 설명했다. 그렇게 DLSS 5용 “semi-final(준최종)” 이미지를 만든 뒤 그 변화를 다시 선형 HDR로 되돌렸다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-            "cap": "r/Steam - 10월 Steam 출시작의 절반 가까이가 AI-generated 콘텐츠 사용을 밝혔다(49.9%, 2024년 1월 1.7%에서 증가)"
+            "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+            "cap": "DLSS 5 ON"
           },
           {
             "t": "p",
-            "x": "ploz는 또 2026년 들어 지금까지 출시된 게임 전체의 40.1퍼센트가 AI-generated 콘텐츠 태그를 달았다고 밝혔다. 실제 수치는 이보다 높을 공산이 크다. AI 사용을 공개하지 않는 개발자도 있고, 공개 대상이 눈이나 귀로 접하는 콘텐츠에 한정돼 코딩에 쓴 AI는 빠지기 때문이다."
+            "x": "팀은 “마킹과 표면 마모, 재질 특성이 원래 에셋에 충실하도록” 설정을 거듭 다듬었다. 차이가 가장 뚜렷한 건 흐리고 비 오는 날씨다. DLSS 5가 부드러운 확산광과 젖은 표면, 섬세한 재질 디테일을 살려낸다. Stupin은 다른 개발자에게 자기 아트 디렉션에 맞춰 조율하는 데 시간을 들이라고 조언한다."
           },
           {
-            "t": "p",
-            "x": "이 태그를 다는 쪽은 “대부분 소규모 게임”이다. “리뷰가 10개 미만인 게임의 47퍼센트가 AI 사용을 공개한 반면, 리뷰가 1,000개 이상인 게임은 14퍼센트에 그친다.”"
-          },
-          {
-            "t": "p",
-            "x": "Steam에는 AI-generated 콘텐츠가 담긴 게임을 스토어에서 완전히 걸러내는 기능이 없다. 가장 최근 Steam Next Fest 기간 “AI slop” 불만이 쏟아지자 Valve는 “인지하고 있다”고 답했지만 해결책을 내놓을 구체적인 일정은 아직 없다."
+            "t": "img",
+            "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+            "cap": "DLSS 5 ON"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Half of October's Steam games\ndisclose AI content",
-          "body": "Of games released on Steam in October, 49.9% disclosed AI-generated content, up from 26.4% a year earlier.",
-          "mini_headline": "Half of Steam games disclose AI",
+          "headline": "War Thunder tunes DLSS 5\nto stay true to its art",
+          "body": "Gaijin made its Dagor Engine color pipeline invertible so DLSS 5 keeps markings, wear and materials faithful.",
+          "mini_headline": "War Thunder tunes DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "Image via Steam"
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "A Redditor named ploz dug deep into the stats to find that 49.9 percent of all new games released on Steam in October 2026 disclosed that they were made with AI-generated content, up from 26.4 percent one year ago. In January 2024, when Steam added AI disclosure options, it was just 1.7 percent."
+                "x": "In mid-November, War Thunder’s Eagle's Shadow major update goes live, adding NVIDIA DLSS 5 with 3D-Guided Neural Rendering. For Gaijin Entertainment, any gain in realism has to preserve the markings, materials, and overall look that players recognize. The team integrated DLSS 5 into their Dagor Engine’s color pipeline, tuned it against the game’s reference look, and evaluated the results across air, ground, and naval combat."
+              },
+              {
+                "t": "p",
+                "x": "Art director Kirill Stupin says DLSS 5 delivers improved highlights and shadows and “a new level of microcontrast that we simply haven’t been able to achieve before.” The one real integration challenge: DLSS 5 works in sRGB, while Dagor Engine uses a linear HDR pipeline. “To resolve this we had to make our color management pipeline invertible,” producing a “semi-final” image for DLSS 5 and mapping its changes back to linear HDR."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - Almost half of the games released on Steam in October disclosed AI-generated content (49.9%, up from 1.7% in January 2024)"
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
               },
               {
                 "t": "p",
-                "x": "ploz also found that 40.1 percent of all games released in 2026 so far use the AI-generated content tag. The real number is likely higher: some devs don't disclose AI usage, and the disclosure only counts content you see or hear, not anything used in coding."
+                "x": "The team iterated on the settings “to make sure markings, surface wear, and material properties stayed faithful to our original assets.” The most striking contrast appears in overcast, rainy conditions, where DLSS 5 brings out soft diffuse lighting, wet surfaces, and subtle material detail. Stupin’s advice to other developers: invest time in tuning it against their own art direction."
               },
               {
-                "t": "p",
-                "x": "It is “mostly small games” that use the tag: “47 percent of games with fewer than 10 reviews disclose AI, compared to 14 percent of games with 1,000+ reviews.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam does not offer a way to filter out games with AI-generated content from the store entirely. After complaints about “AI slop” during the most recent Steam Next Fest, Valve said it was “aware” of them, but there's no real timetable for a solution."
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
               }
             ]
           }
         },
         "ko": {
-          "headline": "시월 Steam 신작 절반\nAI 콘텐츠 사용 밝혀",
-          "body": "Steam 신작 AI-generated 공개율이 26.4%에서 49.9%로 올랐다.",
-          "mini_headline": "Steam 신작 절반 AI 공개",
+          "headline": "War Thunder의\nDLSS 5 화풍 지키기",
+          "body": "Gaijin은 DLSS 5에 맞춰 Dagor Engine 색 처리를 고쳤다.",
+          "mini_headline": "War Thunder의 DLSS 5 조율",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "이미지 출처: Steam"
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "ploz라는 Redditor가 통계를 깊이 파고들어 보니 2026년 10월 Steam에 나온 신작의 49.9퍼센트가 AI-generated 콘텐츠를 썼다고 밝혔다. 한 해 전 26.4퍼센트에서 크게 늘었다. Steam이 AI 공개 옵션을 추가한 2024년 1월에는 1.7퍼센트에 불과했다."
+                "x": "11월 중순(mid-November) War Thunder 대규모 업데이트 Eagle's Shadow와 함께 3D-Guided Neural Rendering을 갖춘 NVIDIA DLSS 5가 들어간다. Gaijin Entertainment가 보기에 사실감은 플레이어가 알아보는 마킹과 재질, 전체 외형을 지킬 때만 의미가 있다. 팀은 DLSS 5를 Dagor Engine 색 파이프라인에 붙여 게임의 기준 룩에 맞게 조율했고, 공중·지상·해상 전투 전반에서 결과를 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "아트 디렉터 Kirill Stupin은 DLSS 5 덕분에 하이라이트와 그림자가 좋아지고 “이전에는 도저히 이루지 못했던 새로운 수준의 미세 대비”가 생긴다고 말한다. 통합에서 실제로 부딪힌 과제는 하나였다. DLSS 5는 sRGB에서 돌아가는데 Dagor Engine은 선형 HDR 파이프라인을 쓴다. 그는 “이를 해결하려고 색 관리 파이프라인을 역변환 가능하게 만들어야 했다”고 설명했다. 그렇게 DLSS 5용 “semi-final(준최종)” 이미지를 만든 뒤 그 변화를 다시 선형 HDR로 되돌렸다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - 10월 Steam 출시작의 절반 가까이가 AI-generated 콘텐츠 사용을 밝혔다(49.9%, 2024년 1월 1.7%에서 증가)"
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
               },
               {
                 "t": "p",
-                "x": "ploz는 또 2026년 들어 지금까지 출시된 게임 전체의 40.1퍼센트가 AI-generated 콘텐츠 태그를 달았다고 밝혔다. 실제 수치는 이보다 높을 공산이 크다. AI 사용을 공개하지 않는 개발자도 있고, 공개 대상이 눈이나 귀로 접하는 콘텐츠에 한정돼 코딩에 쓴 AI는 빠지기 때문이다."
+                "x": "팀은 “마킹과 표면 마모, 재질 특성이 원래 에셋에 충실하도록” 설정을 거듭 다듬었다. 차이가 가장 뚜렷한 건 흐리고 비 오는 날씨다. DLSS 5가 부드러운 확산광과 젖은 표면, 섬세한 재질 디테일을 살려낸다. Stupin은 다른 개발자에게 자기 아트 디렉션에 맞춰 조율하는 데 시간을 들이라고 조언한다."
               },
               {
-                "t": "p",
-                "x": "이 태그를 다는 쪽은 “대부분 소규모 게임”이다. “리뷰가 10개 미만인 게임의 47퍼센트가 AI 사용을 공개한 반면, 리뷰가 1,000개 이상인 게임은 14퍼센트에 그친다.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam에는 AI-generated 콘텐츠가 담긴 게임을 스토어에서 완전히 걸러내는 기능이 없다. 가장 최근 Steam Next Fest 기간 “AI slop” 불만이 쏟아지자 Valve는 “인지하고 있다”고 답했지만 해결책을 내놓을 구체적인 일정은 아직 없다."
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
               }
             ]
           }
         },
         "ja": {
-          "headline": "十月のSteam新作の半数\nAIコンテンツを開示",
-          "body": "十月のSteam新作の49.9%がAI-generatedを開示、前年は26.4%だった。",
-          "mini_headline": "Steam新作の半数がAIを開示",
+          "headline": "War Thunder\nDLSS 5を画風に最適化",
+          "body": "GaijinはDagor Engineの色処理を可逆化し、DLSS 5で質感を守った。",
+          "mini_headline": "War Thunder、DLSS 5を調整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "画像：Steam"
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "Redditorのplozが統計を詳しく調べたところ、2026年10月にSteamで発売された新作全体の49.9パーセントが、AI-generatedコンテンツを使って制作したと開示していた。一年前の26.4パーセントから増えた。SteamがAI開示の選択肢を追加した2024年1月には、わずか1.7パーセントだった。"
+                "x": "11月中旬（mid-November）、War Thunderの大型アップデートEagle's Shadowが配信され、3D-Guided Neural Renderingを備えたNVIDIA DLSS 5が加わる。Gaijin Entertainmentにとって、リアルさの向上はプレイヤーが見慣れたマーキングや材質、全体の見た目を損なわないことが前提だ。チームはDLSS 5をDagor Engineのカラーパイプラインに組み込み、ゲームの基準となるルックに合わせて調整したうえで、空・陸・海の戦闘全体で結果を評価した。"
+              },
+              {
+                "t": "p",
+                "x": "アートディレクターのKirill Stupinは、DLSS 5によってハイライトと影が改善され、「これまで実現できなかった新しいレベルのマイクロコントラスト」が得られると語る。統合で唯一の本格的な課題は、DLSS 5がsRGBで動作する一方、Dagor EngineはリニアHDRパイプラインを使う点だった。「これを解決するため、カラーマネジメントのパイプラインを可逆にする必要があった」という。DLSS 5向けに「semi-final（準最終）」画像を生成し、その変化をリニアHDRへ戻す仕組みである。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - 10月にSteamで発売されたゲームのほぼ半数がAI-generatedコンテンツを開示(49.9%、2024年1月の1.7%から増加)"
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
               },
               {
                 "t": "p",
-                "x": "plozはまた、2026年にこれまで発売されたゲーム全体の40.1パーセントがAI-generatedコンテンツのタグを付けていることも突き止めた。実際の数字はさらに高いとみられる。AIの使用を開示しない開発者もいるうえ、開示の対象は目や耳で触れるコンテンツに限られ、コーディングに使われたものは含まれないからだ。"
-              },
-              {
-                "t": "p",
-                "x": "このタグを付けているのは「主に小規模なゲーム」だという。「レビューが10件未満のゲームでは47パーセントがAIを開示しているのに対し、レビューが1,000件以上のゲームでは14パーセントだ」"
-              },
-              {
-                "t": "p",
-                "x": "Steamには、AI-generatedコンテンツを含むゲームをストアから完全に除外する手段がない。直近のSteam Next Festで「AI slop」への苦情が相次いだ後、Valveはそれを「認識している」と述べたが、解決に向けた具体的なスケジュールはない。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La mitad de los juegos de Steam\nde octubre declara uso de AI",
-          "body": "En octubre, el 49.9% de los juegos lanzados en Steam declaró contenido AI-generated, frente al 26.4% un año antes.",
-          "mini_headline": "La mitad de Steam declara AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "Imagen vía Steam"
-              },
-              {
-                "t": "p",
-                "x": "Un Redditor llamado ploz analizó a fondo las estadísticas y descubrió que el 49.9 por ciento de todos los juegos nuevos lanzados en Steam en octubre de 2026 declaró haberse hecho con contenido AI-generated, frente al 26.4 por ciento de hace un año. En enero de 2024, cuando Steam añadió las opciones de declaración de AI, era apenas el 1.7 por ciento."
+                "x": "チームは「マーキング、表面の摩耗、材質の特性が元のアセットに忠実であり続けるよう」設定を繰り返し詰めた。最も際立つ差は曇りや雨の条件で現れ、DLSS 5は柔らかな拡散光や濡れた路面、繊細な材質のディテールを引き出す。他の開発者へのStupinの助言は、自分たちのアートディレクションに合わせた調整に時間をかけることだ。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - Casi la mitad de los juegos lanzados en Steam en octubre declaró contenido AI-generated (49.9%, frente al 1.7% de enero de 2024)"
-              },
-              {
-                "t": "p",
-                "x": "ploz también descubrió que el 40.1 por ciento de todos los juegos lanzados en lo que va de 2026 usa la etiqueta de contenido AI-generated. La cifra real probablemente sea mayor: algunos desarrolladores no declaran el uso de AI, y la declaración solo cuenta el contenido que se ve o se oye, no lo que se usa en la programación."
-              },
-              {
-                "t": "p",
-                "x": "Son “sobre todo juegos pequeños” los que usan la etiqueta: “el 47 por ciento de los juegos con menos de 10 reseñas declara AI, frente al 14 por ciento de los juegos con 1,000+ reseñas.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam no ofrece una forma de excluir por completo de la tienda los juegos con contenido AI-generated. Tras las quejas por el “AI slop” durante el Steam Next Fest más reciente, Valve dijo estar “al tanto”, pero no hay un calendario real para una solución."
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
               }
             ]
           }
         },
         "zh": {
-          "headline": "10月Steam新游戏\n半数披露AI内容",
-          "body": "10月Steam新游戏中49.9%披露AI生成内容，一年前为26.4%。",
-          "mini_headline": "Steam半数游戏披露AI",
+          "headline": "War Thunder调校\nDLSS 5忠于美术",
+          "body": "Gaijin让Dagor Engine色彩管线可逆，使DLSS 5保留涂装、磨损与材质。",
+          "mini_headline": "War Thunder调校DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "图片来源：Steam"
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "一位名叫 ploz 的 Redditor 深入挖掘统计数据后发现，2026年10月在 Steam 上发布的所有新游戏中，有49.9%披露其使用了 AI-generated 内容，而一年前这一比例为26.4%。2024年1月 Steam 刚加入 AI 披露选项时，这一比例仅为1.7%。"
+                "x": "11月中旬（mid-November），War Thunder的大型更新Eagle's Shadow将上线，加入搭载3D-Guided Neural Rendering的NVIDIA DLSS 5。对Gaijin Entertainment而言，任何真实感的提升都必须保留玩家熟悉的涂装、材质和整体观感。团队将DLSS 5整合进Dagor Engine的色彩管线，按照游戏的参考画面进行调校，并在空战、陆战和海战中全面评估效果。"
+              },
+              {
+                "t": "p",
+                "x": "美术总监Kirill Stupin表示，DLSS 5改善了高光与阴影，并带来“我们以前根本无法实现的全新层次的微对比度”。真正的整合难题只有一个：DLSS 5在sRGB下工作，而Dagor Engine使用线性HDR管线。“为解决这个问题，我们必须让色彩管理管线可逆”，从而为DLSS 5生成一张“semi-final（准最终）”图像，再把它的改动映射回线性HDR。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - 10月在 Steam 上发布的游戏中，近半数披露了 AI-generated 内容（49.9%，2024年1月为1.7%）"
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
               },
               {
                 "t": "p",
-                "x": "ploz 还发现，2026年迄今发布的所有游戏中，有40.1%使用了 AI-generated 内容标签。实际数字可能更高：部分开发者（devs）并未披露 AI 使用情况，而且披露只涵盖玩家看到或听到的内容，不包括编程中使用的任何部分。"
+                "x": "团队反复调整设置，“确保涂装、表面磨损和材质属性忠实于我们的原始资产”。最明显的对比出现在阴天和雨天，DLSS 5能呈现柔和的漫射光、湿润的表面和细微的材质细节。Stupin给其他开发者的建议是：花时间按照自己的美术方向去调校。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "War Thunder ajusta DLSS 5\npara ser fiel a su arte",
+          "body": "Gaijin hizo invertible el pipeline de color de Dagor Engine para que DLSS 5 respete marcas, desgaste y materiales.",
+          "mini_headline": "War Thunder ajusta DLSS 5",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "使用该标签的“大多是小游戏”：“评测少于10条的游戏中有47%披露了 AI，而评测达1,000+条的游戏中这一比例为百分之十四。”"
+                "x": "A mediados de noviembre (mid-November) llega la gran actualización Eagle's Shadow de War Thunder, que añade NVIDIA DLSS 5 con 3D-Guided Neural Rendering. Para Gaijin Entertainment, cualquier ganancia de realismo debe preservar las marcas, los materiales y el aspecto general que los jugadores reconocen. El equipo integró DLSS 5 en el pipeline de color de su Dagor Engine, lo ajustó según el aspecto de referencia del juego y evaluó los resultados en combates aéreos, terrestres y navales."
               },
               {
                 "t": "p",
-                "x": "Steam 并未提供从商店中完全过滤掉含 AI-generated 内容游戏的方式。在最近一届 Steam Next Fest 期间出现关于“AI slop”的投诉后，Valve 表示已“知悉”，但解决方案并没有明确的时间表。"
+                "x": "El director de arte Kirill Stupin afirma que DLSS 5 mejora las luces y las sombras y aporta “un nuevo nivel de microcontraste que sencillamente no habíamos podido lograr antes”. El único desafío real de integración: DLSS 5 trabaja en sRGB, mientras que Dagor Engine usa un pipeline HDR lineal. “Para resolverlo tuvimos que hacer invertible nuestro pipeline de gestión del color”, lo que permite producir una imagen “semi-final” para DLSS 5 y trasladar sus cambios de vuelta a HDR lineal."
+              },
+              {
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
+              },
+              {
+                "t": "p",
+                "x": "El equipo iteró sobre los ajustes “para asegurarnos de que las marcas, el desgaste de superficies y las propiedades de los materiales se mantuvieran fieles a nuestros recursos originales”. El contraste más llamativo aparece en condiciones nubladas y lluviosas, donde DLSS 5 resalta la luz difusa suave, las superficies mojadas y los detalles sutiles de los materiales. El consejo de Stupin a otros desarrolladores: dedicar tiempo a ajustarlo según su propia dirección de arte."
+              },
+              {
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
               }
             ]
           }
@@ -501,145 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "시월 Steam 신작 절반\nAI 콘텐츠 사용 밝혀",
-          "body": "Steam 신작의 AI-generated 공개율이 26.4%서 49.9%로 올랐다.",
-          "mini_headline": "Steam 신작 절반 AI 공개",
+          "headline": "War Thunder의\nDLSS 5 화풍 지키기",
+          "body": "Gaijin은 DLSS 5에 맞춰 Dagor Engine 색 처리를 고쳤다.",
+          "mini_headline": "War Thunder의 DLSS 5 조율",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "이미지 출처: Steam"
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "ploz라는 Redditor가 통계를 깊이 파고든 결과, 2026년 10월 Steam에 출시된 신작 전체의 49.9퍼센트가 AI-generated 콘텐츠로 만들었다고 공개했다. 한 해 전 26.4퍼센트에서 늘어난 수치다. Steam이 AI 공개 옵션을 추가한 2024년 1월에는 1.7퍼센트에 불과했다."
+                "x": "11월 중순(mid-November) War Thunder의 대규모 업데이트 Eagle's Shadow가 적용되며 3D-Guided Neural Rendering을 갖춘 NVIDIA DLSS 5가 추가된다. Gaijin Entertainment에게 사실감 향상은 플레이어가 알아보는 마킹과 재질, 전체적인 외형을 지킬 때만 의미가 있다. 팀은 DLSS 5를 Dagor Engine의 색 파이프라인에 통합하고, 게임의 기준 룩에 맞춰 조율한 뒤 공중·지상·해상 전투 전반에서 결과를 평가했다."
+              },
+              {
+                "t": "p",
+                "x": "아트 디렉터 Kirill Stupin은 DLSS 5가 하이라이트와 그림자를 개선하고 “이전에는 도저히 이루지 못했던 새로운 수준의 미세 대비”를 제공한다고 말한다. 통합 과정에서 실질적인 과제는 하나였다. DLSS 5는 sRGB에서 작동하지만 Dagor Engine은 선형 HDR 파이프라인을 쓴다는 점이다. “이를 해결하려고 색 관리 파이프라인을 역변환 가능하게 만들어야 했다”는 것이 그의 설명이며, 이렇게 DLSS 5용 “semi-final(준최종)” 이미지를 만들고 그 변화를 다시 선형 HDR로 되돌렸다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - 10월 Steam 출시작의 절반 가까이가 AI-generated 콘텐츠를 공개했다(49.9%, 2024년 1월 1.7%에서 증가)"
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
               },
               {
                 "t": "p",
-                "x": "ploz는 또 2026년 들어 지금까지 출시된 게임 전체의 40.1퍼센트가 AI-generated 콘텐츠 태그를 달았다고 밝혔다. 실제 수치는 이보다 높을 가능성이 크다. 일부 개발자는 AI 사용을 공개하지 않고, 공개 대상도 눈이나 귀로 접하는 콘텐츠뿐이며 코딩에 쓰인 것은 포함되지 않기 때문이다."
+                "x": "팀은 “마킹과 표면 마모, 재질 특성이 원래 에셋에 충실하도록” 설정을 거듭 다듬었다. 가장 뚜렷한 차이는 흐리고 비 오는 날씨에서 나타나며, DLSS 5는 부드러운 확산광과 젖은 표면, 섬세한 재질 디테일을 살려낸다. Stupin이 다른 개발자에게 건네는 조언은 자신의 아트 디렉션에 맞춰 조율하는 데 시간을 들이라는 것이다."
               },
               {
-                "t": "p",
-                "x": "이 태그를 다는 것은 “대부분 소규모 게임”이다. “리뷰가 10개 미만인 게임의 47퍼센트가 AI 사용을 공개한 반면, 리뷰가 1,000개 이상인 게임은 14퍼센트에 그친다.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam은 AI-generated 콘텐츠가 담긴 게임을 스토어에서 완전히 걸러내는 기능을 제공하지 않는다. 가장 최근 Steam Next Fest 기간 “AI slop”에 대한 불만이 쏟아지자 Valve는 이를 “인지하고 있다”고 했지만, 해결책을 내놓을 구체적인 일정은 없다."
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
               }
             ]
           }
         },
         "ja": {
-          "headline": "十月のSteam新作の半数\nAIコンテンツを開示",
-          "body": "十月のSteam新作の49.9%がAI-generatedを開示、前年は26.4%だった。",
-          "mini_headline": "Steam新作の半数がAIを開示",
+          "headline": "War Thunder\nDLSS 5を画風に最適化",
+          "body": "GaijinはDagor Engineの色処理を可逆化し、DLSS 5で質感を守った。",
+          "mini_headline": "War Thunder、DLSS 5を調整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "画像：Steam"
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "Redditorのplozが統計を詳しく調べたところ、2026年10月にSteamで発売された新作全体の49.9パーセントが、AI-generatedコンテンツを使って制作したと開示していた。一年前の26.4パーセントから増えた。SteamがAI開示の選択肢を追加した2024年1月には、わずか1.7パーセントだった。"
+                "x": "11月中旬（mid-November）、War Thunderの大型アップデートEagle's Shadowが配信され、3D-Guided Neural Renderingを備えたNVIDIA DLSS 5が加わる。Gaijin Entertainmentにとって、リアルさの向上はプレイヤーが見慣れたマーキングや材質、全体の見た目を損なわないことが前提だ。チームはDLSS 5をDagor Engineのカラーパイプラインに組み込み、ゲームの基準となるルックに合わせて調整したうえで、空・陸・海の戦闘全体で結果を評価した。"
+              },
+              {
+                "t": "p",
+                "x": "アートディレクターのKirill Stupinは、DLSS 5によってハイライトと影が改善され、「これまで実現できなかった新しいレベルのマイクロコントラスト」が得られると語る。統合で唯一の本格的な課題は、DLSS 5がsRGBで動作する一方、Dagor EngineはリニアHDRパイプラインを使う点だった。「これを解決するため、カラーマネジメントのパイプラインを可逆にする必要があった」という。DLSS 5向けに「semi-final（準最終）」画像を生成し、その変化をリニアHDRへ戻す仕組みである。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - 10月にSteamで発売されたゲームのほぼ半数がAI-generatedコンテンツを開示(49.9%、2024年1月の1.7%から増加)"
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
               },
               {
                 "t": "p",
-                "x": "plozはまた、2026年にこれまで発売されたゲーム全体の40.1パーセントがAI-generatedコンテンツのタグを付けていることも突き止めた。実際の数字はさらに高いとみられる。AIの使用を開示しない開発者もいるうえ、開示の対象は目や耳で触れるコンテンツに限られ、コーディングに使われたものは含まれないからだ。"
-              },
-              {
-                "t": "p",
-                "x": "このタグを付けているのは「主に小規模なゲーム」だという。「レビューが10件未満のゲームでは47パーセントがAIを開示しているのに対し、レビューが1,000件以上のゲームでは14パーセントだ」"
-              },
-              {
-                "t": "p",
-                "x": "Steamには、AI-generatedコンテンツを含むゲームをストアから完全に除外する手段がない。直近のSteam Next Festで「AI slop」への苦情が相次いだ後、Valveはそれを「認識している」と述べたが、解決に向けた具体的なスケジュールはない。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La mitad de los juegos de Steam\nde octubre declara uso de AI",
-          "body": "En octubre, el 49.9% de los juegos lanzados en Steam declaró contenido AI-generated, frente al 26.4% un año antes.",
-          "mini_headline": "La mitad de Steam declara AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "Imagen vía Steam"
-              },
-              {
-                "t": "p",
-                "x": "Un Redditor llamado ploz analizó a fondo las estadísticas y descubrió que el 49.9 por ciento de todos los juegos nuevos lanzados en Steam en octubre de 2026 declaró haberse hecho con contenido AI-generated, frente al 26.4 por ciento de hace un año. En enero de 2024, cuando Steam añadió las opciones de declaración de AI, era apenas el 1.7 por ciento."
+                "x": "チームは「マーキング、表面の摩耗、材質の特性が元のアセットに忠実であり続けるよう」設定を繰り返し詰めた。最も際立つ差は曇りや雨の条件で現れ、DLSS 5は柔らかな拡散光や濡れた路面、繊細な材質のディテールを引き出す。他の開発者へのStupinの助言は、自分たちのアートディレクションに合わせた調整に時間をかけることだ。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - Casi la mitad de los juegos lanzados en Steam en octubre declaró contenido AI-generated (49.9%, frente al 1.7% de enero de 2024)"
-              },
-              {
-                "t": "p",
-                "x": "ploz también descubrió que el 40.1 por ciento de todos los juegos lanzados en lo que va de 2026 usa la etiqueta de contenido AI-generated. La cifra real probablemente sea mayor: algunos desarrolladores no declaran el uso de AI, y la declaración solo cuenta el contenido que se ve o se oye, no lo que se usa en la programación."
-              },
-              {
-                "t": "p",
-                "x": "Son “sobre todo juegos pequeños” los que usan la etiqueta: “el 47 por ciento de los juegos con menos de 10 reseñas declara AI, frente al 14 por ciento de los juegos con 1,000+ reseñas.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam no ofrece una forma de excluir por completo de la tienda los juegos con contenido AI-generated. Tras las quejas por el “AI slop” durante el Steam Next Fest más reciente, Valve dijo estar “al tanto”, pero no hay un calendario real para una solución."
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
               }
             ]
           }
         },
         "zh": {
-          "headline": "10月Steam新游戏\n半数披露AI内容",
-          "body": "10月Steam新游戏中49.9%披露AI生成内容，一年前为26.4%。",
-          "mini_headline": "Steam半数游戏披露AI",
+          "headline": "War Thunder调校\nDLSS 5忠于美术",
+          "body": "Gaijin让Dagor Engine色彩管线可逆，使DLSS 5保留涂装、磨损与材质。",
+          "mini_headline": "War Thunder调校DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-20T131909.278.jpg",
-                "cap": "图片来源：Steam"
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "一位名叫 ploz 的 Redditor 深入挖掘统计数据后发现，2026年10月在 Steam 上发布的所有新游戏中，有49.9%披露其使用了 AI-generated 内容，而一年前这一比例为26.4%。2024年1月 Steam 刚加入 AI 披露选项时，这一比例仅为1.7%。"
+                "x": "11月中旬（mid-November），War Thunder的大型更新Eagle's Shadow将上线，加入搭载3D-Guided Neural Rendering的NVIDIA DLSS 5。对Gaijin Entertainment而言，任何真实感的提升都必须保留玩家熟悉的涂装、材质和整体观感。团队将DLSS 5整合进Dagor Engine的色彩管线，按照游戏的参考画面进行调校，并在空战、陆战和海战中全面评估效果。"
+              },
+              {
+                "t": "p",
+                "x": "美术总监Kirill Stupin表示，DLSS 5改善了高光与阴影，并带来“我们以前根本无法实现的全新层次的微对比度”。真正的整合难题只有一个：DLSS 5在sRGB下工作，而Dagor Engine使用线性HDR管线。“为解决这个问题，我们必须让色彩管理管线可逆”，从而为DLSS 5生成一张“semi-final（准最终）”图像，再把它的改动映射回线性HDR。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/i.redd.it/0zb34vhsf2zh1.png?ssl=1",
-                "cap": "r/Steam - 10月在 Steam 上发布的游戏中，近半数披露了 AI-generated 内容（49.9%，2024年1月为1.7%）"
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
               },
               {
                 "t": "p",
-                "x": "ploz 还发现，2026年迄今发布的所有游戏中，有40.1%使用了 AI-generated 内容标签。实际数字可能更高：部分开发者（devs）并未披露 AI 使用情况，而且披露只涵盖玩家看到或听到的内容，不包括编程中使用的任何部分。"
+                "x": "团队反复调整设置，“确保涂装、表面磨损和材质属性忠实于我们的原始资产”。最明显的对比出现在阴天和雨天，DLSS 5能呈现柔和的漫射光、湿润的表面和细微的材质细节。Stupin给其他开发者的建议是：花时间按照自己的美术方向去调校。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "War Thunder ajusta DLSS 5\npara ser fiel a su arte",
+          "body": "Gaijin hizo invertible el pipeline de color de Dagor Engine para que DLSS 5 respete marcas, desgaste y materiales.",
+          "mini_headline": "War Thunder ajusta DLSS 5",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
               },
               {
                 "t": "p",
-                "x": "使用该标签的“大多是小游戏”：“评测少于10条的游戏中有47%披露了 AI，而评测达1,000+条的游戏中这一比例为百分之十四。”"
+                "x": "A mediados de noviembre (mid-November) llega la gran actualización Eagle's Shadow de War Thunder, que añade NVIDIA DLSS 5 con 3D-Guided Neural Rendering. Para Gaijin Entertainment, cualquier ganancia de realismo debe preservar las marcas, los materiales y el aspecto general que los jugadores reconocen. El equipo integró DLSS 5 en el pipeline de color de su Dagor Engine, lo ajustó según el aspecto de referencia del juego y evaluó los resultados en combates aéreos, terrestres y navales."
               },
               {
                 "t": "p",
-                "x": "Steam 并未提供从商店中完全过滤掉含 AI-generated 内容游戏的方式。在最近一届 Steam Next Fest 期间出现关于“AI slop”的投诉后，Valve 表示已“知悉”，但解决方案并没有明确的时间表。"
+                "x": "El director de arte Kirill Stupin afirma que DLSS 5 mejora las luces y las sombras y aporta “un nuevo nivel de microcontraste que sencillamente no habíamos podido lograr antes”. El único desafío real de integración: DLSS 5 trabaja en sRGB, mientras que Dagor Engine usa un pipeline HDR lineal. “Para resolverlo tuvimos que hacer invertible nuestro pipeline de gestión del color”, lo que permite producir una imagen “semi-final” para DLSS 5 y trasladar sus cambios de vuelta a HDR lineal."
+              },
+              {
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+                "cap": "DLSS 5 ON"
+              },
+              {
+                "t": "p",
+                "x": "El equipo iteró sobre los ajustes “para asegurarnos de que las marcas, el desgaste de superficies y las propiedades de los materiales se mantuvieran fieles a nuestros recursos originales”. El contraste más llamativo aparece en condiciones nubladas y lluviosas, donde DLSS 5 resalta la luz difusa suave, las superficies mojadas y los detalles sutiles de los materiales. El consejo de Stupin a otros desarrolladores: dedicar tiempo a ajustarlo según su propia dirección de arte."
+              },
+              {
+                "t": "img",
+                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+                "cap": "DLSS 5 ON"
               }
             ]
           }
@@ -647,753 +375,401 @@
       }
     },
     {
-      "id": "vrchat-ai-label-backlash",
+      "id": "itchio-ai-terabytes-purge",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 표기 뺀 VRChat\n사용자 반발 거세다",
-      "body": "VRChat이 설문 뒤 AI-generated 표기를 접어 사용자 반발을 샀다.",
-      "mini_headline": "VRChat, AI 표기 안 한다",
+      "headline": "Itch.io가 대거 지운\nAI-generated물",
+      "body": "Itch.io가 AI 업로드 두어 테라바이트를 지우고 필터를 손봤다.",
+      "mini_headline": "Itch.io, AI 업로드 정리",
       "tool": "Games",
-      "source": "Road to VR",
-      "url": "https://roadtovr.com/vrchat-user-backlash-ai-content-label/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-          },
-          {
-            "t": "p",
-            "x": "VRChat이 AI-generated 콘텐츠에 라벨을 달지 않기로 해 논란이 일면서 사용자들의 거센 반발을 사고 있다."
-          },
-          {
-            "t": "p",
-            "x": "이 소셜 VR 플랫폼은 이달 초 21,000명이 넘는 사용자에게 AI-generated 콘텐츠에 라벨을 붙여야 하는지 설문으로 물었다. 일본 매체 Automaton에 따르면 응답자 약 95%가 라벨을 원했다."
-          },
-          {
-            "t": "p",
-            "x": "“‘AI-generated’ 라벨이나 AI 필터는 추가하지 않는다.” VRChat은 일부 크리에이터가 생성형 또는 보조 작업물을 직접 만든 것처럼 내세울 수 있고 ‘탐정질’과 크리에이터 괴롭힘으로 번질 수 있다고 주장했다. 대신 월드 홍보용 “AI-generated 부정확한 썸네일”을 금지하고 월드에 좋아요·싫어요와 인앱 피드백 기능을 넣는다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-          },
-          {
-            "t": "p",
-            "x": "스튜디오는 선택형 ‘Human-authored’ 마크를 아직 검토하고 있다. 그사이 사용자들은 Steam으로 몰려가 ‘리뷰 폭탄’을 던졌다. VRChat은 현재 약 4,000명의 사용자에게서 ‘Mostly Negative’ 평가를 받았고 최근 30일 긍정 비율은 33%다. 그 여파로 전체 평가도 ‘Mostly Positive’에서 ‘Mixed’로 내려앉았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "VRChat faces backlash over\nskipping an AI content label",
-          "body": "After surveying users, VRChat decided not to label AI-generated content, drawing a sizable user backlash.",
-          "mini_headline": "VRChat skips an AI label",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChat is currently weathering a sizable backlash among users due to a controversial decision to not label AI-generated content."
-              },
-              {
-                "t": "p",
-                "x": "A survey earlier this month polled over 21,000 users on whether the social VR platform should label AI-generated content. Japanese outlet Automaton reports that around 95% of responders wanted such a label."
-              },
-              {
-                "t": "p",
-                "x": "“We’re not adding an ‘AI-generated’ label or AI filters,” VRChat says, arguing some creators would pass off generative or assisted work as hand-authored and that it could create ‘sleuthing’ behavior and harassment of creators. Instead, it will ban “AI-generated inaccurate thumbnails” used to advertise worlds and add likes, dislikes and in-app feedback for worlds."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "The studio is still debating an optional ‘Human-authored’ mark. Meanwhile users have taken to Steam to ‘review bomb’ the app: VRChat now has a ‘Mostly Negative’ rating from ~4,000 users, 33% positive over the past 30 days, pushing its lifetime rating from ‘Mostly Positive’ to ‘Mixed’."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 표기 뺀 VRChat\n사용자 반발 거세다",
-          "body": "VRChat이 설문 뒤 AI-generated 표기를 접어 사용자 반발을 샀다.",
-          "mini_headline": "VRChat, AI 표기 안 한다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChat이 AI-generated 콘텐츠에 라벨을 달지 않기로 해 논란이 일면서 사용자들의 거센 반발을 사고 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 소셜 VR 플랫폼은 이달 초 21,000명이 넘는 사용자에게 AI-generated 콘텐츠에 라벨을 붙여야 하는지 설문으로 물었다. 일본 매체 Automaton에 따르면 응답자 약 95%가 라벨을 원했다."
-              },
-              {
-                "t": "p",
-                "x": "“‘AI-generated’ 라벨이나 AI 필터는 추가하지 않는다.” VRChat은 일부 크리에이터가 생성형 또는 보조 작업물을 직접 만든 것처럼 내세울 수 있고 ‘탐정질’과 크리에이터 괴롭힘으로 번질 수 있다고 주장했다. 대신 월드 홍보용 “AI-generated 부정확한 썸네일”을 금지하고 월드에 좋아요·싫어요와 인앱 피드백 기능을 넣는다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "스튜디오는 선택형 ‘Human-authored’ 마크를 아직 검토하고 있다. 그사이 사용자들은 Steam으로 몰려가 ‘리뷰 폭탄’을 던졌다. VRChat은 현재 약 4,000명의 사용자에게서 ‘Mostly Negative’ 평가를 받았고 최근 30일 긍정 비율은 33%다. 그 여파로 전체 평가도 ‘Mostly Positive’에서 ‘Mixed’로 내려앉았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "VRChat、AI表示見送り\nユーザーが反発",
-          "body": "VRChatは調査後、AI-generatedコンテンツの表示を見送り、大きな反発を招いた。",
-          "mini_headline": "VRChat、AIラベルを見送り",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChatは現在、AI-generatedコンテンツにラベルを付けないという物議を醸す決定をめぐり、ユーザーから大きな反発を受けている。"
-              },
-              {
-                "t": "p",
-                "x": "今月初めの調査では、21,000人を超えるユーザーに対し、このソーシャルVRプラットフォームがAI-generatedコンテンツにラベルを付けるべきかを尋ねた。日本のメディアAutomatonによると、回答者の約95%がそうしたラベルを望んでいた。"
-              },
-              {
-                "t": "p",
-                "x": "「『AI-generated』ラベルやAIフィルターは追加しない」とVRChatは述べ、一部のクリエイターが生成ツールや補助を使った作品を手作業によるものと偽る恐れがあるほか、「詮索」行為やクリエイターへの嫌がらせを招きかねないと主張した。代わりに、ワールドの宣伝に使われる「AI-generatedの不正確なサムネイル」を禁止し、ワールドに高評価・低評価とアプリ内フィードバックを追加する。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "スタジオは任意の「Human-authored」マークについてまだ議論している。一方、ユーザーはSteamでアプリに「レビュー爆撃」を仕掛けている。VRChatは現在、約4,000人のユーザーから「Mostly Negative」の評価を受け、過去30日間の好評率は33%で、全期間の評価も「Mostly Positive」から「Mixed」に下がった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "VRChat不设AI标签\n引发用户强烈反弹",
-          "body": "VRChat在调查用户后决定不为AI-generated内容加标签，引发大量用户反弹。",
-          "mini_headline": "VRChat不设AI标签",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChat因一项不为AI-generated内容加标签的争议决定，目前正遭遇用户的大规模反弹。"
-              },
-              {
-                "t": "p",
-                "x": "本月早些时候的一项调查询问了逾21,000名用户，这一社交VR平台是否应为AI-generated内容加标签。据日本媒体Automaton报道，约95%的受访者希望加上这样的标签。"
-              },
-              {
-                "t": "p",
-                "x": "“我们不会添加‘AI-generated’标签或AI过滤器，”VRChat表示，理由是一些创作者会把生成式或辅助完成的作品冒充为手工创作，而且这可能引发“侦探式”追查行为和对创作者的骚扰。作为替代，它将禁止用于宣传世界的“AI-generated不实缩略图”，并为世界加入点赞、点踩和应用内反馈功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "工作室仍在讨论一个可选的“Human-authored”标记。与此同时，用户涌向Steam对该应用“刷差评”：VRChat目前获得约4,000名用户的“Mostly Negative”评价，过去30天好评率为33%，使其总体评价从“Mostly Positive”降为“Mixed”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Críticas a VRChat por omitir\nla etiqueta de contenido AI",
-          "body": "Tras una encuesta, VRChat decidió no etiquetar el contenido AI-generated y desató un fuerte rechazo de usuarios.",
-          "mini_headline": "VRChat no etiquetará la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChat afronta actualmente un rechazo considerable entre sus usuarios por la polémica decisión de no etiquetar el contenido AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "Una encuesta realizada a principios de este mes preguntó a más de 21,000 usuarios si la plataforma social de VR debía etiquetar el contenido AI-generated. El medio japonés Automaton informa que alrededor del 95% de los participantes quería esa etiqueta."
-              },
-              {
-                "t": "p",
-                "x": "“No vamos a añadir una etiqueta ‘AI-generated’ ni filtros de AI”, afirma VRChat, que argumenta que algunos creadores harían pasar trabajos generativos o asistidos como hechos a mano y que podría fomentar conductas de ‘investigación’ y el acoso a creadores. En su lugar, prohibirá las “miniaturas AI-generated inexactas” usadas para promocionar mundos y añadirá me gusta, no me gusta y comentarios dentro de la app para los mundos."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "El estudio todavía debate una marca opcional ‘Human-authored’. Mientras tanto, los usuarios han acudido a Steam para hacer ‘review bomb’ a la app: VRChat tiene ahora una valoración ‘Mostly Negative’ de ~4,000 usuarios, con un 33% de reseñas positivas en los últimos 30 días, lo que ha llevado su valoración histórica de ‘Mostly Positive’ a ‘Mixed’."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 표기 뺀 VRChat\n사용자 반발 거세다",
-          "body": "VRChat이 설문 뒤 AI-generated 표기를 접어 사용자 반발을 샀다.",
-          "mini_headline": "VRChat, AI 표기 안 한다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChat은 AI-generated 콘텐츠에 라벨을 달지 않기로 한 논란의 결정으로 현재 사용자들의 거센 반발을 겪고 있다."
-              },
-              {
-                "t": "p",
-                "x": "이달 초 진행된 설문은 21,000명이 넘는 사용자에게 이 소셜 VR 플랫폼이 AI-generated 콘텐츠에 라벨을 붙여야 하는지 물었다. 일본 매체 Automaton에 따르면 응답자의 약 95%가 그런 라벨을 원했다."
-              },
-              {
-                "t": "p",
-                "x": "“‘AI-generated’ 라벨이나 AI 필터는 추가하지 않는다.” VRChat은 일부 크리에이터가 생성형 또는 보조 작업물을 직접 만든 것처럼 내세울 수 있고, ‘탐정질’과 크리에이터 괴롭힘을 부를 수 있다고 주장했다. 대신 월드 홍보에 쓰이는 “AI-generated 부정확한 썸네일”을 금지하고, 월드에 좋아요·싫어요와 인앱 피드백 기능을 더한다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "스튜디오는 선택형 ‘Human-authored’ 마크를 여전히 검토 중이다. 그사이 사용자들은 Steam으로 몰려가 앱에 ‘리뷰 폭탄’을 던졌다. VRChat은 현재 약 4,000명의 사용자로부터 ‘Mostly Negative’ 평가를 받고 있으며 최근 30일 긍정 비율은 33%다. 이 때문에 전체 평가도 ‘Mostly Positive’에서 ‘Mixed’로 떨어졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "VRChat、AI表示見送り\nユーザーが反発",
-          "body": "VRChatは調査後、AI-generatedコンテンツの表示を見送り、大きな反発を招いた。",
-          "mini_headline": "VRChat、AIラベルを見送り",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChatは現在、AI-generatedコンテンツにラベルを付けないという物議を醸す決定をめぐり、ユーザーから大きな反発を受けている。"
-              },
-              {
-                "t": "p",
-                "x": "今月初めの調査では、21,000人を超えるユーザーに対し、このソーシャルVRプラットフォームがAI-generatedコンテンツにラベルを付けるべきかを尋ねた。日本のメディアAutomatonによると、回答者の約95%がそうしたラベルを望んでいた。"
-              },
-              {
-                "t": "p",
-                "x": "「『AI-generated』ラベルやAIフィルターは追加しない」とVRChatは述べ、一部のクリエイターが生成ツールや補助を使った作品を手作業によるものと偽る恐れがあるほか、「詮索」行為やクリエイターへの嫌がらせを招きかねないと主張した。代わりに、ワールドの宣伝に使われる「AI-generatedの不正確なサムネイル」を禁止し、ワールドに高評価・低評価とアプリ内フィードバックを追加する。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "スタジオは任意の「Human-authored」マークについてまだ議論している。一方、ユーザーはSteamでアプリに「レビュー爆撃」を仕掛けている。VRChatは現在、約4,000人のユーザーから「Mostly Negative」の評価を受け、過去30日間の好評率は33%で、全期間の評価も「Mostly Positive」から「Mixed」に下がった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "VRChat不设AI标签\n引发用户强烈反弹",
-          "body": "VRChat在调查用户后决定不为AI-generated内容加标签，引发大量用户反弹。",
-          "mini_headline": "VRChat不设AI标签",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChat因一项不为AI-generated内容加标签的争议决定，目前正遭遇用户的大规模反弹。"
-              },
-              {
-                "t": "p",
-                "x": "本月早些时候的一项调查询问了逾21,000名用户，这一社交VR平台是否应为AI-generated内容加标签。据日本媒体Automaton报道，约95%的受访者希望加上这样的标签。"
-              },
-              {
-                "t": "p",
-                "x": "“我们不会添加‘AI-generated’标签或AI过滤器，”VRChat表示，理由是一些创作者会把生成式或辅助完成的作品冒充为手工创作，而且这可能引发“侦探式”追查行为和对创作者的骚扰。作为替代，它将禁止用于宣传世界的“AI-generated不实缩略图”，并为世界加入点赞、点踩和应用内反馈功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "工作室仍在讨论一个可选的“Human-authored”标记。与此同时，用户涌向Steam对该应用“刷差评”：VRChat目前获得约4,000名用户的“Mostly Negative”评价，过去30天好评率为33%，使其总体评价从“Mostly Positive”降为“Mixed”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Críticas a VRChat por omitir\nla etiqueta de contenido AI",
-          "body": "Tras una encuesta, VRChat decidió no etiquetar el contenido AI-generated y desató un fuerte rechazo de usuarios.",
-          "mini_headline": "VRChat no etiquetará la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/ai-gen-vr.jpg?resize=1068%2C601&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "VRChat afronta actualmente un rechazo considerable entre sus usuarios por la polémica decisión de no etiquetar el contenido AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "Una encuesta realizada a principios de este mes preguntó a más de 21,000 usuarios si la plataforma social de VR debía etiquetar el contenido AI-generated. El medio japonés Automaton informa que alrededor del 95% de los participantes quería esa etiqueta."
-              },
-              {
-                "t": "p",
-                "x": "“No vamos a añadir una etiqueta ‘AI-generated’ ni filtros de AI”, afirma VRChat, que argumenta que algunos creadores harían pasar trabajos generativos o asistidos como hechos a mano y que podría fomentar conductas de ‘investigación’ y el acoso a creadores. En su lugar, prohibirá las “miniaturas AI-generated inexactas” usadas para promocionar mundos y añadirá me gusta, no me gusta y comentarios dentro de la app para los mundos."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vrchat-negative.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "El estudio todavía debate una marca opcional ‘Human-authored’. Mientras tanto, los usuarios han acudido a Steam para hacer ‘review bomb’ a la app: VRChat tiene ahora una valoración ‘Mostly Negative’ de ~4,000 usuarios, con un 33% de reseñas positivas en los últimos 30 días, lo que ha llevado su valoración histórica de ‘Mostly Positive’ a ‘Mixed’."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "kocca-ai-gamelab-day",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "콘진원 AI 게임랩 데이\n12일 판교서 개최",
-      "body": "송재경 등이 AI 게임 제작 사례를 강연하고 중소 게임사 기술 상담도 연다.",
-      "mini_headline": "AI 게임랩 데이 개최",
-      "tool": "Games",
-      "source": "inews24",
-      "url": "https://www.inews24.com/view/2021651",
+      "source": "Aftermath",
+      "url": "https://aftermath.site/itch-io-removes-terabytes-ai-slop/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "[아이뉴스24 곽민구 기자] 한국콘텐츠진흥원(콘진원)은 오는 12일 경기 판교 글로벌게임허브센터에서 인공지능(AI)을 활용한 게임 개발 사례를 공유하는 'AI 게임랩 데이 2026'을 개최한다고 2일 밝혔다."
-          },
-          {
             "t": "img",
-            "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-            "cap": "글로벌게임허브센터 AI 게임랩 데이 포스터. [사진=한국콘텐츠진흥원]"
+            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+            "cap": "Itch.io"
           },
           {
             "t": "p",
-            "x": "이번 행사는 AI 기술 확산에 따른 게임 개발 환경의 변화를 살펴보고, 국내 개발자들의 실제 제작 경험과 기술 활용 방법을 공유하기 위해 마련됐다."
+            "x": "하룻밤 새 해결될 문제는 아니지만 첫발은 뗐다. Itch는 이번 주 초 눈이 휘둥그레질 만큼 불어난 AI-generated 쓰레기를 “두어 테라바이트” 지우고, AI 공개 규정을 적용하는 곳도 늘리겠다고 발표했다."
           },
           {
             "t": "p",
-            "x": "첫 번째 기조강연은 원재호 앵커노드 대표가 맡는다. 원 대표는 '격변기마다 작은 개발팀이 판을 바꿨다'를 주제로 26년간의 개발 경험을 바탕으로 AI 기술 발전이 소규모 게임 개발팀에 가져올 변화와 기회를 설명할 예정이다."
+            "x": "“최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올릴 수 있다고 해서, 최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올려야 한다는 뜻은 아니다.” 플랫폼의 Bluesky 계정에 올라온 글이다."
           },
           {
             "t": "p",
-            "x": "노자명 문탠소프트 대표는 대규모 게임 제작 현장에서 쌓은 경험과 현재 개발 중인 프로젝트를 중심으로 개발 과정에서의 고민과 실무 사례를 공유한다. 박종태 유니티 엔지니어는 게임 엔진과 AI 도구를 결합한 제작 방법을 소개한다. 특히 명령어를 입력해 프로그램을 실행하고 관리하는 CLI(명령줄 인터페이스)를 활용한 실제 개발 사례를 다룰 예정이다."
+            "x": "Itch는 AI 공개 요건을 테이블톱과 만화, 사운드트랙까지 넓혔다. 검색 페이지처럼 “심각하게 부족했던” 곳에는 AI 공개 필터링을 붙였다."
           },
           {
             "t": "p",
-            "x": "마지막 세션에는 '바람의 나라'와 '리니지' 개발에 참여한 송재경 엑스엘게임즈 창업자가 나선다. 송 창업자는 최근 게임 개발 경험을 공유하고, 사전 접수된 질문과 현장 질문에 직접 답하는 '무엇이든 물어보세요(AMA)' 방식으로 참가자들과 소통할 계획이다."
+            "x": "AI-generated 콘텐츠를 아예 금지하라는 요구가 많았지만 Itch는 당분간 그럴 생각이 없어 보인다. 사이트의 Bluesky 계정은 두 해 전부터 있던 AI 스팸 규정을 링크하며 수 테라바이트 분량의 저질 콘텐츠를 지운 근거로 들었다. 이 규정은 “사람의 개입을 최소화한 채 주로 알고리즘이나 AI로 만든” 게임이나 프로젝트를 금지한다."
           },
           {
             "t": "p",
-            "x": "주성호 콘진원 게임기반조성팀장은 \"AI는 게임 기획부터 제작까지 개발 현장 전반에 변화를 가져오고 있다\"며 \"이번 행사가 개발자들이 실제 활용 사례를 공유하고 AI 기반 제작 역량을 높이는 계기가 되길 바란다\"고 말했다."
+            "x": "다만 이 페이지에는 “경우에 따라 자동 생성되거나 AI-generated 콘텐츠도 유용하거나 흥미로울 수 있다”는 문구도 있다. “사용자 경험에 상당한 가치를 더하고” 제대로 공개만 된다면 AI도 플랫폼에 남을 수 있다는 얘기다."
+          },
+          {
+            "t": "p",
+            "x": "물론 생성형 AI를 쓰고도 밝히지 않는 사람은 여전히 있을 수 있다. 그럴 때 Steam에 비하면 아주 작은 Itch 직원들이 할 수 있는 일은 whack-a-mole(두더지 잡기)을 되풀이하는 것 정도다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "콘진원 AI 게임랩 데이\n12일 판교서 개최",
-          "body": "송재경 등이 AI 게임 제작 사례를 강연하고 중소 게임사 기술 상담도 연다.",
-          "mini_headline": "AI 게임랩 데이 개최",
+        "en": {
+          "headline": "Itch.io deletes terabytes\nof AI-generated uploads",
+          "body": "Itch.io removed a couple terabytes of AI uploads, many of them poorly optimized AI models, and updated its filtering.",
+          "mini_headline": "Itch.io clears AI uploads",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[아이뉴스24 곽민구 기자] 한국콘텐츠진흥원(콘진원)은 오는 12일 경기 판교 글로벌게임허브센터에서 인공지능(AI)을 활용한 게임 개발 사례를 공유하는 'AI 게임랩 데이 2026'을 개최한다고 2일 밝혔다."
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "글로벌게임허브센터 AI 게임랩 데이 포스터. [사진=한국콘텐츠진흥원]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "이번 행사는 AI 기술 확산에 따른 게임 개발 환경의 변화를 살펴보고, 국내 개발자들의 실제 제작 경험과 기술 활용 방법을 공유하기 위해 마련됐다."
+                "x": "It’s not gonna solve the problem overnight, but it’s a start: Itch kicked off the week by announcing that it’s combatting an eye-watering uptick in AI-generated trash by deleting “a couple terabytes” of the stuff and enforcing AI disclosure rules in more places."
               },
               {
                 "t": "p",
-                "x": "첫 번째 기조강연은 원재호 앵커노드 대표가 맡는다. 원 대표는 '격변기마다 작은 개발팀이 판을 바꿨다'를 주제로 26년간의 개발 경험을 바탕으로 AI 기술 발전이 소규모 게임 개발팀에 가져올 변화와 기회를 설명할 예정이다."
+                "x": "“Just because you can upload 10 terabytes of poorly optimized AI-generated models doesn't mean you should upload 10 terabytes of poorly optimized AI-generated models,” reads a post from the platform’s Bluesky account."
               },
               {
                 "t": "p",
-                "x": "노자명 문탠소프트 대표는 대규모 게임 제작 현장에서 쌓은 경험과 현재 개발 중인 프로젝트를 중심으로 개발 과정에서의 고민과 실무 사례를 공유한다. 박종태 유니티 엔지니어는 게임 엔진과 AI 도구를 결합한 제작 방법을 소개한다. 특히 명령어를 입력해 프로그램을 실행하고 관리하는 CLI(명령줄 인터페이스)를 활용한 실제 개발 사례를 다룰 예정이다."
+                "x": "Further, Itch has updated its AI disclosure requirement to include tabletop, comics, and soundtracks and has also added AI disclosure filtering to places where it was “critically lacking,” including the search page."
               },
               {
                 "t": "p",
-                "x": "마지막 세션에는 '바람의 나라'와 '리니지' 개발에 참여한 송재경 엑스엘게임즈 창업자가 나선다. 송 창업자는 최근 게임 개발 경험을 공유하고, 사전 접수된 질문과 현장 질문에 직접 답하는 '무엇이든 물어보세요(AMA)' 방식으로 참가자들과 소통할 계획이다."
+                "x": "While many have called for Itch to ban AI-generated content outright, that does not appear to be in the cards, at least for now. The site’s Bluesky account linked to AI spam rules that have been around for two years, which it used as a justification for deleting multiple terabytes of slop. Against these rules are games or projects “predominantly created by algorithms or AI with minimal human intervention.”"
               },
               {
                 "t": "p",
-                "x": "주성호 콘진원 게임기반조성팀장은 \"AI는 게임 기획부터 제작까지 개발 현장 전반에 변화를 가져오고 있다\"며 \"이번 행사가 개발자들이 실제 활용 사례를 공유하고 AI 기반 제작 역량을 높이는 계기가 되길 바란다\"고 말했다."
+                "x": "But the page specifically notes that “in some cases automatically generated or AI-generated content can be useful or interesting” and that AI has a place on the platform as long as “it adds substantial value to the user experience” and is properly disclosed."
+              },
+              {
+                "t": "p",
+                "x": "But of course, people can still just opt to not disclose that their games incorporate generative AI, leaving Itch’s staff—tiny compared to, say, Steam’s—with little recourse other than to repeatedly play whack-a-mole."
               }
             ]
           }
         },
-        "en": {
-          "headline": "KOCCA's AI Game Lab Day\nset for Pangyo on the 12th",
-          "body": "Song Jae-kyung and others will speak on AI game production, with tech consultations for small and midsize studios.",
-          "mini_headline": "AI Game Lab Day to be held",
+        "ko": {
+          "headline": "Itch.io가 대거 지운\nAI-generated물",
+          "body": "Itch.io가 AI 업로드 두어 테라바이트를 지우고 필터를 손봤다.",
+          "mini_headline": "Itch.io, AI 업로드 정리",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[iNews24 reporter Kwak Min-gu] The Korea Creative Content Agency (KOCCA) said on the 2nd that it will hold 'AI Game Lab Day 2026,' an event sharing cases of game development using artificial intelligence (AI), at the Global Game Hub Center in Pangyo, Gyeonggi Province, on the 12th."
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "Poster for AI Game Lab Day at the Global Game Hub Center. [Photo=Korea Creative Content Agency]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "The event was organized to look at how the game development environment is changing as AI technology spreads, and to share Korean developers' real production experience and ways of using the technology."
+                "x": "하룻밤 새 해결될 문제는 아니지만 첫발은 뗐다. Itch는 이번 주 초 눈이 휘둥그레질 만큼 불어난 AI-generated 쓰레기를 “두어 테라바이트” 지우고, AI 공개 규정을 적용하는 곳도 늘리겠다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "The first keynote will be given by Won Jae-ho, CEO of Anchor Node. Under the theme 'In every period of upheaval, small development teams changed the game,' Won will draw on 26 years of development experience to explain the changes and opportunities that advances in AI technology will bring to small game development teams."
+                "x": "“최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올릴 수 있다고 해서, 최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올려야 한다는 뜻은 아니다.” 플랫폼의 Bluesky 계정에 올라온 글이다."
               },
               {
                 "t": "p",
-                "x": "Noh Ja-myung, CEO of Moontan Soft, will share the dilemmas and hands-on cases from the development process, centered on experience gained in large-scale game production and the project currently in development. Park Jong-tae, an engineer at Unity, will introduce production methods that combine game engines with AI tools. In particular, he will cover real development cases using the CLI (command-line interface), which runs and manages programs through typed commands."
+                "x": "Itch는 AI 공개 요건을 테이블톱과 만화, 사운드트랙까지 넓혔다. 검색 페이지처럼 “심각하게 부족했던” 곳에는 AI 공개 필터링을 붙였다."
               },
               {
                 "t": "p",
-                "x": "The final session features Song Jae-kyung, founder of XLGAMES, who took part in developing 'The Kingdom of the Winds' and 'Lineage.' Song will share his recent game development experience and engage with participants in an 'Ask Me Anything (AMA)' format, answering questions submitted in advance and from the floor."
+                "x": "AI-generated 콘텐츠를 아예 금지하라는 요구가 많았지만 Itch는 당분간 그럴 생각이 없어 보인다. 사이트의 Bluesky 계정은 두 해 전부터 있던 AI 스팸 규정을 링크하며 수 테라바이트 분량의 저질 콘텐츠를 지운 근거로 들었다. 이 규정은 “사람의 개입을 최소화한 채 주로 알고리즘이나 AI로 만든” 게임이나 프로젝트를 금지한다."
               },
               {
                 "t": "p",
-                "x": "Joo Sung-ho, head of KOCCA's Game Infrastructure Team, said, \"AI is bringing change across the entire development field, from game planning to production,\" adding, \"We hope this event will be an opportunity for developers to share real use cases and strengthen their AI-based production capabilities.\""
+                "x": "다만 이 페이지에는 “경우에 따라 자동 생성되거나 AI-generated 콘텐츠도 유용하거나 흥미로울 수 있다”는 문구도 있다. “사용자 경험에 상당한 가치를 더하고” 제대로 공개만 된다면 AI도 플랫폼에 남을 수 있다는 얘기다."
+              },
+              {
+                "t": "p",
+                "x": "물론 생성형 AI를 쓰고도 밝히지 않는 사람은 여전히 있을 수 있다. 그럴 때 Steam에 비하면 아주 작은 Itch 직원들이 할 수 있는 일은 whack-a-mole(두더지 잡기)을 되풀이하는 것 정도다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIゲームラボデー\n12日に板橋で開催",
-          "body": "ソン・ジェギョンらがAIゲーム制作事例を講演し、中小ゲーム会社の技術相談も行う。",
-          "mini_headline": "AIゲームラボデー開催",
+          "headline": "Itch.ioがテラバイト級\nAI-generated削除",
+          "body": "Itch.ioはAI投稿を数テラバイト削除し、フィルタ機能も更新した。",
+          "mini_headline": "Itch.io、AI投稿を整理",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[アイニュース24 クァク・ミング記者] 韓国コンテンツ振興院(コンジン院)は、来る12日に京畿道板橋のグローバルゲームハブセンターで、人工知能(AI)を活用したゲーム開発事例を共有する「AIゲームラボデー 2026」を開催すると2日に明らかにした。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "グローバルゲームハブセンターのAIゲームラボデーのポスター。[写真=韓国コンテンツ振興院]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "今回の行事は、AI技術の普及に伴うゲーム開発環境の変化を探り、国内開発者の実際の制作経験や技術の活用方法を共有するために企画された。"
+                "x": "一晩で問題が解決するわけではないが、第一歩ではある。Itchは週明けに、目を疑うほど急増したAI-generatedのゴミに対抗するため、それを「数テラバイト」削除し、より多くの場所でAI開示ルールを適用すると発表した。"
               },
               {
                 "t": "p",
-                "x": "最初の基調講演は、アンカーノードのウォン・ジェホ代表が務める。ウォン代表は「激動期のたびに小さな開発チームが局面を変えた」をテーマに、26年間の開発経験をもとに、AI技術の発展が小規模ゲーム開発チームにもたらす変化と機会を説明する予定だ。"
+                "x": "「最適化の甘いAI-generatedモデルを10テラバイトもアップロードできるからといって、最適化の甘いAI-generatedモデルを10テラバイトもアップロードすべきだということにはならない」と、同プラットフォームのBlueskyアカウントは投稿した。"
               },
               {
                 "t": "p",
-                "x": "ムンテンソフトのノ・ジャミョン代表は、大規模ゲーム制作の現場で積んだ経験と現在開発中のプロジェクトを中心に、開発過程での悩みや実務事例を共有する。Unityのパク・ジョンテエンジニアは、ゲームエンジンとAIツールを組み合わせた制作方法を紹介する。特に、コマンドを入力してプログラムを実行・管理するCLI(コマンドラインインターフェース)を活用した実際の開発事例を取り上げる予定だ。"
+                "x": "さらにItchはAI開示の要件をテーブルトップ、コミック、サウンドトラックにも広げ、検索ページなど「決定的に欠けていた」場所にAI開示のフィルタを追加した。"
               },
               {
                 "t": "p",
-                "x": "最後のセッションには、『風の王国』と『リネージュ』の開発に携わったXLGAMES創業者のソン・ジェギョン氏が登壇する。ソン氏は最近のゲーム開発経験を共有し、事前に受け付けた質問や会場からの質問に直接答える「何でも聞いてください(AMA)」形式で参加者と交流する計画だ。"
+                "x": "AI-generatedコンテンツの全面禁止をItchに求める声は多いが、少なくとも今のところその予定はなさそうだ。サイトのBlueskyアカウントは、二年前からあるAIスパムのルールへのリンクを示し、それを数テラバイトもの粗悪なコンテンツを削除した根拠とした。このルールが禁じるのは「人間の関与を最小限にして、主にアルゴリズムやAIで作られた」ゲームやプロジェクトである。"
               },
               {
                 "t": "p",
-                "x": "チュ・ソンホ コンジン院ゲーム基盤造成チーム長は「AIはゲームの企画から制作まで、開発現場全般に変化をもたらしている」とし、「今回の行事が、開発者が実際の活用事例を共有し、AIベースの制作力を高めるきっかけになることを願う」と述べた。"
+                "x": "ただし同ページは「場合によっては自動生成されたコンテンツやAI-generatedコンテンツが有用で興味深いこともある」と明記し、「ユーザー体験に大きな価値を加え」、適切に開示されている限り、AIにもプラットフォーム上の居場所があるとしている。"
+              },
+              {
+                "t": "p",
+                "x": "もちろん、ゲームに生成AIを使っていることを開示しないという選択もできてしまう。そうなると、たとえばSteamと比べればごく小さなItchのスタッフには、whack-a-mole（もぐら叩き）を繰り返す以外にほとんど打つ手がない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI游戏实验室日\n12日在板桥举办",
-          "body": "宋在京等人将分享AI游戏制作案例，并为中小游戏公司提供技术咨询。",
-          "mini_headline": "AI游戏实验室日举办",
+          "headline": "Itch.io删除太字节级\nAI-generated上传",
+          "body": "Itch.io删除了几太字节AI上传内容，其中多为优化糟糕的AI模型，并更新了过滤功能。",
+          "mini_headline": "Itch.io清理AI上传",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[iNews24记者 Kwak Min-gu] 韩国文化内容振兴院（简称“内容振兴院”）2日表示，将于12日在京畿道板桥全球游戏枢纽中心举办分享人工智能（AI）游戏开发案例的“AI游戏实验室日2026”活动。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "全球游戏枢纽中心AI游戏实验室日海报。[图片=韩国文化内容振兴院]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "此次活动旨在审视AI技术普及给游戏开发环境带来的变化，并分享韩国国内开发者的实际制作经验和技术应用方法。"
+                "x": "这不会一夜之间解决问题，但总算是个开始：Itch在本周伊始宣布，为应对激增到令人咋舌的AI-generated垃圾内容，已删除“几太字节”此类内容，并在更多地方执行AI披露规则。"
               },
               {
                 "t": "p",
-                "x": "首场主题演讲由Anchor Node代表Won Jae-ho担任。他将以“每逢剧变时期，都是小型开发团队改变了格局”为题，结合26年的开发经验，阐述AI技术发展将为小型游戏开发团队带来的变化与机遇。"
+                "x": "“能上传10太字节优化糟糕的AI-generated模型，并不意味着就应该上传10太字节优化糟糕的AI-generated模型。”该平台的Bluesky账号发帖写道。"
               },
               {
                 "t": "p",
-                "x": "Moontan Soft代表Noh Ja-myung将围绕在大型游戏制作现场积累的经验和目前正在开发的项目，分享开发过程中的思考与实务案例。Unity工程师Park Jong-tae将介绍结合游戏引擎与AI工具的制作方法，特别是将讲解利用CLI（命令行界面，即通过输入命令来运行和管理程序）的实际开发案例。"
+                "x": "此外，Itch已将AI披露要求扩展到桌游、漫画和原声音乐，并在包括搜索页面在内、此前“严重缺失”的地方加入了AI披露筛选。"
               },
               {
                 "t": "p",
-                "x": "最后一场由曾参与《风之国》和《天堂》开发的XLGAMES创始人宋在京登场。他将分享近期的游戏开发经验，并以回答事先征集问题和现场提问的“有问必答（AMA）”形式与参与者交流。"
+                "x": "尽管许多人呼吁Itch全面禁止AI-generated内容，但至少目前看来并无此计划。该网站的Bluesky账号附上了已实行两年的AI垃圾内容规则链接，并以此作为删除数太字节劣质内容的依据。这些规则针对的是“主要由算法或AI创作、人类介入极少”的游戏或项目。"
               },
               {
                 "t": "p",
-                "x": "内容振兴院游戏基础建设组组长Joo Sung-ho表示：“AI正在为从游戏策划到制作的整个开发现场带来变化。”他还说：“希望此次活动能成为开发者分享实际应用案例、提升基于AI的制作能力的契机。”"
+                "x": "但该页面特别指出，“在某些情况下，自动生成或AI-generated内容可能有用或有趣”，只要“能为用户体验带来实质价值”并妥善披露，AI在平台上就有一席之地。"
+              },
+              {
+                "t": "p",
+                "x": "当然，人们仍可选择不披露游戏使用了生成式AI，这让规模比起Steam等平台小得多的Itch团队别无他法，只能一再玩whack-a-mole（打地鼠）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI Game Lab Day de KOCCA\nse celebra el 12 en Pangyo",
-          "body": "Song Jae-kyung y otros expondrán casos de juegos con AI, con asesoría técnica para pymes del sector.",
-          "mini_headline": "Llega el AI Game Lab Day",
+          "headline": "Itch.io borra terabytes\nde contenido AI-generated",
+          "body": "Itch.io borró un par de terabytes de subidas de AI, muchas de ellas modelos mal optimizados, y actualizó su filtrado.",
+          "mini_headline": "Itch.io limpia subidas de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[iNews24, Kwak Min-gu] La Agencia de Contenidos Creativos de Corea (KOCCA) anunció el día 2 que celebrará el día 12 el 'AI Game Lab Day 2026', un evento para compartir casos de desarrollo de juegos con inteligencia artificial (AI), en el Global Game Hub Center de Pangyo, en la provincia de Gyeonggi."
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "Cartel del AI Game Lab Day del Global Game Hub Center. [Foto=Agencia de Contenidos Creativos de Corea]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "El evento se organizó para analizar los cambios que la expansión de la tecnología de AI trae al entorno de desarrollo de juegos y para compartir la experiencia real de producción de los desarrolladores locales y sus formas de aprovechar la tecnología."
+                "x": "No va a resolver el problema de la noche a la mañana, pero es un comienzo: Itch arrancó la semana anunciando que combate un aumento desorbitado de basura AI-generated borrando “un par de terabytes” de ese material y aplicando sus normas de divulgación de AI en más lugares."
               },
               {
                 "t": "p",
-                "x": "La primera conferencia magistral estará a cargo de Won Jae-ho, director ejecutivo de Anchor Node. Bajo el lema 'En cada época de agitación, los equipos pequeños cambiaron las reglas del juego', Won explicará, a partir de sus 26 años de experiencia en desarrollo, los cambios y oportunidades que el avance de la AI traerá a los pequeños equipos de desarrollo de juegos."
+                "x": "“Que puedas subir 10 terabytes de modelos AI-generated mal optimizados no significa que debas subir 10 terabytes de modelos AI-generated mal optimizados”, dice una publicación de la cuenta de Bluesky de la plataforma."
               },
               {
                 "t": "p",
-                "x": "Noh Ja-myung, director ejecutivo de Moontan Soft, compartirá las dificultades y casos prácticos del proceso de desarrollo, centrándose en la experiencia acumulada en la producción de juegos a gran escala y en el proyecto que desarrolla actualmente. Park Jong-tae, ingeniero de Unity, presentará métodos de producción que combinan motores de juego y herramientas de AI. En particular, abordará casos reales de desarrollo con CLI (interfaz de línea de comandos), que permite ejecutar y gestionar programas introduciendo comandos."
+                "x": "Además, Itch amplió su requisito de divulgación de AI a juegos de mesa, cómics y bandas sonoras, y añadió filtros de divulgación de AI en lugares donde “faltaban de forma crítica”, incluida la página de búsqueda."
               },
               {
                 "t": "p",
-                "x": "En la última sesión intervendrá Song Jae-kyung, fundador de XLGAMES, que participó en el desarrollo de 'The Kingdom of the Winds' y 'Lineage'. Song compartirá su experiencia reciente en desarrollo de juegos y conversará con los asistentes en formato 'Pregúntame lo que quieras (AMA)', respondiendo a preguntas enviadas con antelación y planteadas en el lugar."
+                "x": "Aunque muchos han pedido que Itch prohíba por completo el contenido AI-generated, eso no parece estar previsto, al menos por ahora. La cuenta de Bluesky del sitio enlazó a unas normas contra el spam de AI vigentes desde hace dos años, que usó para justificar el borrado de varios terabytes de contenido basura. Estas normas van contra juegos o proyectos “creados predominantemente por algoritmos o AI con una intervención humana mínima”."
               },
               {
                 "t": "p",
-                "x": "Joo Sung-ho, jefe del Equipo de Infraestructura de Juegos de KOCCA, dijo: \"La AI está transformando todo el ámbito del desarrollo, desde la planificación hasta la producción de juegos\", y añadió: \"Esperamos que este evento sea una oportunidad para que los desarrolladores compartan casos reales de uso y refuercen sus capacidades de producción basadas en AI\"."
+                "x": "Pero la página señala expresamente que “en algunos casos el contenido generado automáticamente o AI-generated puede ser útil o interesante” y que la AI tiene cabida en la plataforma siempre que “aporte un valor sustancial a la experiencia del usuario” y se divulgue debidamente."
+              },
+              {
+                "t": "p",
+                "x": "Pero, por supuesto, cualquiera puede optar por no revelar que su juego incorpora AI generativa, lo que deja al equipo de Itch —diminuto comparado con, por ejemplo, el de Steam— con poco margen salvo jugar una y otra vez al whack-a-mole."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "KOCCA's AI Game Lab Day\nset for Pangyo on the 12th",
-          "body": "Song Jae-kyung and others will speak on AI game production, with tech consultations for small and midsize studios.",
-          "mini_headline": "AI Game Lab Day to be held",
+        "ko": {
+          "headline": "Itch.io가 대거 지운\nAI-generated물",
+          "body": "Itch.io가 AI 업로드 두어 테라바이트를 지우고 필터링을 개선했다.",
+          "mini_headline": "Itch.io, AI 업로드 정리",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[iNews24 reporter Kwak Min-gu] The Korea Creative Content Agency (KOCCA) said on the 2nd that it will hold 'AI Game Lab Day 2026,' an event sharing cases of game development using artificial intelligence (AI), at the Global Game Hub Center in Pangyo, Gyeonggi Province, on the 12th."
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "Poster for AI Game Lab Day at the Global Game Hub Center. [Photo=Korea Creative Content Agency]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "The event was organized to look at how the game development environment is changing as AI technology spreads, and to share Korean developers' real production experience and ways of using the technology."
+                "x": "하룻밤 사이에 문제가 해결되지는 않겠지만 시작은 했다. Itch는 이번 주를 시작하며, 눈이 휘둥그레질 만큼 급증한 AI-generated 쓰레기에 맞서 그런 콘텐츠를 “두어 테라바이트” 삭제하고 더 많은 곳에서 AI 공개 규정을 적용하겠다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "The first keynote will be given by Won Jae-ho, CEO of Anchor Node. Under the theme 'In every period of upheaval, small development teams changed the game,' Won will draw on 26 years of development experience to explain the changes and opportunities that advances in AI technology will bring to small game development teams."
+                "x": "“최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올릴 수 있다고 해서, 최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올려야 한다는 뜻은 아니다.” 플랫폼의 Bluesky 계정에 올라온 글이다."
               },
               {
                 "t": "p",
-                "x": "Noh Ja-myung, CEO of Moontan Soft, will share the dilemmas and hands-on cases from the development process, centered on experience gained in large-scale game production and the project currently in development. Park Jong-tae, an engineer at Unity, will introduce production methods that combine game engines with AI tools. In particular, he will cover real development cases using the CLI (command-line interface), which runs and manages programs through typed commands."
+                "x": "또한 Itch는 AI 공개 요건을 테이블톱, 만화, 사운드트랙까지 넓혔고, 검색 페이지를 비롯해 “심각하게 부족했던” 곳에 AI 공개 필터링을 추가했다."
               },
               {
                 "t": "p",
-                "x": "The final session features Song Jae-kyung, founder of XLGAMES, who took part in developing 'The Kingdom of the Winds' and 'Lineage.' Song will share his recent game development experience and engage with participants in an 'Ask Me Anything (AMA)' format, answering questions submitted in advance and from the floor."
+                "x": "많은 이들이 Itch에 AI-generated 콘텐츠를 전면 금지하라고 요구해 왔지만, 적어도 당분간은 그럴 계획이 없어 보인다. 사이트의 Bluesky 계정은 두 해 전부터 있던 AI 스팸 규정을 링크하며, 이를 수 테라바이트 분량의 저질 콘텐츠를 삭제한 근거로 삼았다. 이 규정이 금지하는 대상은 “사람의 개입을 최소화한 채 주로 알고리즘이나 AI로 만든” 게임이나 프로젝트다."
               },
               {
                 "t": "p",
-                "x": "Joo Sung-ho, head of KOCCA's Game Infrastructure Team, said, \"AI is bringing change across the entire development field, from game planning to production,\" adding, \"We hope this event will be an opportunity for developers to share real use cases and strengthen their AI-based production capabilities.\""
+                "x": "다만 해당 페이지는 “경우에 따라 자동 생성되거나 AI-generated 콘텐츠도 유용하거나 흥미로울 수 있다”고 명시하며, “사용자 경험에 상당한 가치를 더하고” 제대로 공개된다면 AI도 플랫폼에 자리할 수 있다고 밝힌다."
+              },
+              {
+                "t": "p",
+                "x": "물론 사람들은 여전히 자기 게임에 생성형 AI를 썼다는 사실을 밝히지 않을 수 있다. 그러면 이를테면 Steam에 비해 아주 작은 Itch의 직원들은 whack-a-mole(두더지 잡기)을 되풀이하는 것 말고는 마땅한 대응 수단이 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIゲームラボデー\n12日に板橋で開催",
-          "body": "ソン・ジェギョンらがAIゲーム制作事例を講演し、中小ゲーム会社の技術相談も行う。",
-          "mini_headline": "AIゲームラボデー開催",
+          "headline": "Itch.ioがテラバイト級\nAI-generated削除",
+          "body": "Itch.ioはAI投稿を数テラバイト削除し、フィルタ機能も更新した。",
+          "mini_headline": "Itch.io、AI投稿を整理",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[アイニュース24 クァク・ミング記者] 韓国コンテンツ振興院(コンジン院)は、来る12日に京畿道板橋のグローバルゲームハブセンターで、人工知能(AI)を活用したゲーム開発事例を共有する「AIゲームラボデー 2026」を開催すると2日に明らかにした。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "グローバルゲームハブセンターのAIゲームラボデーのポスター。[写真=韓国コンテンツ振興院]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "今回の行事は、AI技術の普及に伴うゲーム開発環境の変化を探り、国内開発者の実際の制作経験や技術の活用方法を共有するために企画された。"
+                "x": "一晩で問題が解決するわけではないが、第一歩ではある。Itchは週明けに、目を疑うほど急増したAI-generatedのゴミに対抗するため、それを「数テラバイト」削除し、より多くの場所でAI開示ルールを適用すると発表した。"
               },
               {
                 "t": "p",
-                "x": "最初の基調講演は、アンカーノードのウォン・ジェホ代表が務める。ウォン代表は「激動期のたびに小さな開発チームが局面を変えた」をテーマに、26年間の開発経験をもとに、AI技術の発展が小規模ゲーム開発チームにもたらす変化と機会を説明する予定だ。"
+                "x": "「最適化の甘いAI-generatedモデルを10テラバイトもアップロードできるからといって、最適化の甘いAI-generatedモデルを10テラバイトもアップロードすべきだということにはならない」と、同プラットフォームのBlueskyアカウントは投稿した。"
               },
               {
                 "t": "p",
-                "x": "ムンテンソフトのノ・ジャミョン代表は、大規模ゲーム制作の現場で積んだ経験と現在開発中のプロジェクトを中心に、開発過程での悩みや実務事例を共有する。Unityのパク・ジョンテエンジニアは、ゲームエンジンとAIツールを組み合わせた制作方法を紹介する。特に、コマンドを入力してプログラムを実行・管理するCLI(コマンドラインインターフェース)を活用した実際の開発事例を取り上げる予定だ。"
+                "x": "さらにItchはAI開示の要件をテーブルトップ、コミック、サウンドトラックにも広げ、検索ページなど「決定的に欠けていた」場所にAI開示のフィルタを追加した。"
               },
               {
                 "t": "p",
-                "x": "最後のセッションには、『風の王国』と『リネージュ』の開発に携わったXLGAMES創業者のソン・ジェギョン氏が登壇する。ソン氏は最近のゲーム開発経験を共有し、事前に受け付けた質問や会場からの質問に直接答える「何でも聞いてください(AMA)」形式で参加者と交流する計画だ。"
+                "x": "AI-generatedコンテンツの全面禁止をItchに求める声は多いが、少なくとも今のところその予定はなさそうだ。サイトのBlueskyアカウントは、二年前からあるAIスパムのルールへのリンクを示し、それを数テラバイトもの粗悪なコンテンツを削除した根拠とした。このルールが禁じるのは「人間の関与を最小限にして、主にアルゴリズムやAIで作られた」ゲームやプロジェクトである。"
               },
               {
                 "t": "p",
-                "x": "チュ・ソンホ コンジン院ゲーム基盤造成チーム長は「AIはゲームの企画から制作まで、開発現場全般に変化をもたらしている」とし、「今回の行事が、開発者が実際の活用事例を共有し、AIベースの制作力を高めるきっかけになることを願う」と述べた。"
+                "x": "ただし同ページは「場合によっては自動生成されたコンテンツやAI-generatedコンテンツが有用で興味深いこともある」と明記し、「ユーザー体験に大きな価値を加え」、適切に開示されている限り、AIにもプラットフォーム上の居場所があるとしている。"
+              },
+              {
+                "t": "p",
+                "x": "もちろん、ゲームに生成AIを使っていることを開示しないという選択もできてしまう。そうなると、たとえばSteamと比べればごく小さなItchのスタッフには、whack-a-mole（もぐら叩き）を繰り返す以外にほとんど打つ手がない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI游戏实验室日\n12日在板桥举办",
-          "body": "宋在京等人将分享AI游戏制作案例，并为中小游戏公司提供技术咨询。",
-          "mini_headline": "AI游戏实验室日举办",
+          "headline": "Itch.io删除太字节级\nAI-generated上传",
+          "body": "Itch.io删除了几太字节AI上传内容，其中多为优化糟糕的AI模型，并更新了过滤功能。",
+          "mini_headline": "Itch.io清理AI上传",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[iNews24记者 Kwak Min-gu] 韩国文化内容振兴院（简称“内容振兴院”）2日表示，将于12日在京畿道板桥全球游戏枢纽中心举办分享人工智能（AI）游戏开发案例的“AI游戏实验室日2026”活动。"
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "全球游戏枢纽中心AI游戏实验室日海报。[图片=韩国文化内容振兴院]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "此次活动旨在审视AI技术普及给游戏开发环境带来的变化，并分享韩国国内开发者的实际制作经验和技术应用方法。"
+                "x": "这不会一夜之间解决问题，但总算是个开始：Itch在本周伊始宣布，为应对激增到令人咋舌的AI-generated垃圾内容，已删除“几太字节”此类内容，并在更多地方执行AI披露规则。"
               },
               {
                 "t": "p",
-                "x": "首场主题演讲由Anchor Node代表Won Jae-ho担任。他将以“每逢剧变时期，都是小型开发团队改变了格局”为题，结合26年的开发经验，阐述AI技术发展将为小型游戏开发团队带来的变化与机遇。"
+                "x": "“能上传10太字节优化糟糕的AI-generated模型，并不意味着就应该上传10太字节优化糟糕的AI-generated模型。”该平台的Bluesky账号发帖写道。"
               },
               {
                 "t": "p",
-                "x": "Moontan Soft代表Noh Ja-myung将围绕在大型游戏制作现场积累的经验和目前正在开发的项目，分享开发过程中的思考与实务案例。Unity工程师Park Jong-tae将介绍结合游戏引擎与AI工具的制作方法，特别是将讲解利用CLI（命令行界面，即通过输入命令来运行和管理程序）的实际开发案例。"
+                "x": "此外，Itch已将AI披露要求扩展到桌游、漫画和原声音乐，并在包括搜索页面在内、此前“严重缺失”的地方加入了AI披露筛选。"
               },
               {
                 "t": "p",
-                "x": "最后一场由曾参与《风之国》和《天堂》开发的XLGAMES创始人宋在京登场。他将分享近期的游戏开发经验，并以回答事先征集问题和现场提问的“有问必答（AMA）”形式与参与者交流。"
+                "x": "尽管许多人呼吁Itch全面禁止AI-generated内容，但至少目前看来并无此计划。该网站的Bluesky账号附上了已实行两年的AI垃圾内容规则链接，并以此作为删除数太字节劣质内容的依据。这些规则针对的是“主要由算法或AI创作、人类介入极少”的游戏或项目。"
               },
               {
                 "t": "p",
-                "x": "内容振兴院游戏基础建设组组长Joo Sung-ho表示：“AI正在为从游戏策划到制作的整个开发现场带来变化。”他还说：“希望此次活动能成为开发者分享实际应用案例、提升基于AI的制作能力的契机。”"
+                "x": "但该页面特别指出，“在某些情况下，自动生成或AI-generated内容可能有用或有趣”，只要“能为用户体验带来实质价值”并妥善披露，AI在平台上就有一席之地。"
+              },
+              {
+                "t": "p",
+                "x": "当然，人们仍可选择不披露游戏使用了生成式AI，这让规模比起Steam等平台小得多的Itch团队别无他法，只能一再玩whack-a-mole（打地鼠）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI Game Lab Day de KOCCA\nse celebra el 12 en Pangyo",
-          "body": "Song Jae-kyung y otros expondrán casos de juegos con AI, con asesoría técnica para pymes del sector.",
-          "mini_headline": "Llega el AI Game Lab Day",
+          "headline": "Itch.io borra terabytes\nde contenido AI-generated",
+          "body": "Itch.io borró un par de terabytes de subidas de AI, muchas de ellas modelos mal optimizados, y actualizó su filtrado.",
+          "mini_headline": "Itch.io limpia subidas de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "[iNews24, Kwak Min-gu] La Agencia de Contenidos Creativos de Corea (KOCCA) anunció el día 2 que celebrará el día 12 el 'AI Game Lab Day 2026', un evento para compartir casos de desarrollo de juegos con inteligencia artificial (AI), en el Global Game Hub Center de Pangyo, en la provincia de Gyeonggi."
-              },
-              {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/ae9be25cf3edb7.jpg",
-                "cap": "Cartel del AI Game Lab Day del Global Game Hub Center. [Foto=Agencia de Contenidos Creativos de Corea]"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+                "cap": "Itch.io"
               },
               {
                 "t": "p",
-                "x": "El evento se organizó para analizar los cambios que la expansión de la tecnología de AI trae al entorno de desarrollo de juegos y para compartir la experiencia real de producción de los desarrolladores locales y sus formas de aprovechar la tecnología."
+                "x": "No va a resolver el problema de la noche a la mañana, pero es un comienzo: Itch arrancó la semana anunciando que combate un aumento desorbitado de basura AI-generated borrando “un par de terabytes” de ese material y aplicando sus normas de divulgación de AI en más lugares."
               },
               {
                 "t": "p",
-                "x": "La primera conferencia magistral estará a cargo de Won Jae-ho, director ejecutivo de Anchor Node. Bajo el lema 'En cada época de agitación, los equipos pequeños cambiaron las reglas del juego', Won explicará, a partir de sus 26 años de experiencia en desarrollo, los cambios y oportunidades que el avance de la AI traerá a los pequeños equipos de desarrollo de juegos."
+                "x": "“Que puedas subir 10 terabytes de modelos AI-generated mal optimizados no significa que debas subir 10 terabytes de modelos AI-generated mal optimizados”, dice una publicación de la cuenta de Bluesky de la plataforma."
               },
               {
                 "t": "p",
-                "x": "Noh Ja-myung, director ejecutivo de Moontan Soft, compartirá las dificultades y casos prácticos del proceso de desarrollo, centrándose en la experiencia acumulada en la producción de juegos a gran escala y en el proyecto que desarrolla actualmente. Park Jong-tae, ingeniero de Unity, presentará métodos de producción que combinan motores de juego y herramientas de AI. En particular, abordará casos reales de desarrollo con CLI (interfaz de línea de comandos), que permite ejecutar y gestionar programas introduciendo comandos."
+                "x": "Además, Itch amplió su requisito de divulgación de AI a juegos de mesa, cómics y bandas sonoras, y añadió filtros de divulgación de AI en lugares donde “faltaban de forma crítica”, incluida la página de búsqueda."
               },
               {
                 "t": "p",
-                "x": "En la última sesión intervendrá Song Jae-kyung, fundador de XLGAMES, que participó en el desarrollo de 'The Kingdom of the Winds' y 'Lineage'. Song compartirá su experiencia reciente en desarrollo de juegos y conversará con los asistentes en formato 'Pregúntame lo que quieras (AMA)', respondiendo a preguntas enviadas con antelación y planteadas en el lugar."
+                "x": "Aunque muchos han pedido que Itch prohíba por completo el contenido AI-generated, eso no parece estar previsto, al menos por ahora. La cuenta de Bluesky del sitio enlazó a unas normas contra el spam de AI vigentes desde hace dos años, que usó para justificar el borrado de varios terabytes de contenido basura. Estas normas van contra juegos o proyectos “creados predominantemente por algoritmos o AI con una intervención humana mínima”."
               },
               {
                 "t": "p",
-                "x": "Joo Sung-ho, jefe del Equipo de Infraestructura de Juegos de KOCCA, dijo: \"La AI está transformando todo el ámbito del desarrollo, desde la planificación hasta la producción de juegos\", y añadió: \"Esperamos que este evento sea una oportunidad para que los desarrolladores compartan casos reales de uso y refuercen sus capacidades de producción basadas en AI\"."
+                "x": "Pero la página señala expresamente que “en algunos casos el contenido generado automáticamente o AI-generated puede ser útil o interesante” y que la AI tiene cabida en la plataforma siempre que “aporte un valor sustancial a la experiencia del usuario” y se divulgue debidamente."
+              },
+              {
+                "t": "p",
+                "x": "Pero, por supuesto, cualquiera puede optar por no revelar que su juego incorpora AI generativa, lo que deja al equipo de Itch —diminuto comparado con, por ejemplo, el de Steam— con poco margen salvo jugar una y otra vez al whack-a-mole."
               }
             ]
           }
@@ -1401,15 +777,15 @@
       }
     },
     {
-      "id": "arc-raiders-tts-rerecord",
+      "id": "food-devils-steam-delay",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Arc Raiders 측\nAI 음성 비판 수긍",
-      "body": "Embark는 AI-generated 음성 비판을 받아들이고 대사를 다시 녹음했다.",
-      "mini_headline": "Arc Raiders, AI 음성 해명",
+      "headline": "Food Devils 연기\nSteam AI 적체 탓",
+      "body": "Food Devils가 genAI발 Steam 심사 적체를 의심해 출시를 미뤘다.",
+      "mini_headline": "Steam AI 적체에 출시 연기",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -1417,203 +793,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-            "cap": "Arc Raiders"
+            "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Studio Daimon"
           },
           {
             "t": "p",
-            "x": "Embark는 이후 대사를 다시 녹음해 게임에 실제 사람 목소리를 더 넣었다. 총괄 프로듀서 Aleksander Grøndal은 Arc Raiders YouTube 채널에서 “정말 정당한 비판도 있었다고 생각한다. 방어적으로 나설 이유가 없다”고 말했다."
+            "x": "Fire Emblem을 선정적인 음식 테마로 비튼 Food Devils는 원래 오늘 나올 예정이었지만 아직 출시되지 않았다. 개발사 Studio Daimon은 Steam 블로그 글에서 개발자용 안내문에 심사가 “보통 3-5영업일 걸리지만, 최대 7영업일까지 여유를 두라”고 적혀 있다고 설명했다. 팀이 빌드를 낸 건 20일도 더 전인 10월 12일인데, 승인 소식은 아직 없다."
           },
           {
             "t": "video",
-            "yt": "_xwbP8KV530"
+            "yt": "eAUlEcrd6-8"
           },
           {
             "t": "p",
-            "x": "Arc Raiders 출시는 성우 목소리를 흉내 내고 대사를 채우는 데 AI를 썼다는 논란에 묻혔다. 성우들은 이를 허용하는 계약에 서명했지만 플레이어들은 일부 AI 대사가 생기 없고 밋밋하며 어색하다고 꼬집었다."
+            "x": "왜일까. “Steam 심사 대기열이 AI 저질 콘텐츠로 꽉 막혔기 때문이라고 짐작할 수밖에 없지만, 일부 개발자에게는 전체 과정이 이제 몇 주씩 걸리고 있다.” Game Discovery Tool에 따르면 10월 Steam에 출시된 게임의 50% 이상이 AI 사용 고지를 달았다. 2025년 1월엔 14% 남짓, 2026년 1월엔 25% 남짓이었다. SteamDB 집계로는 2025년 10월 출시작이 2000개를 조금 넘었는데, 2026년 10월에는 4000개 가까이 나왔다."
           },
           {
             "t": "p",
-            "x": "Embark는 업데이트를 더 빨리 내놓으려고 AI를 썼다고 설명한다. 오디오 디렉터 Bence Pajor는 “그들의 목소리로 학습 데이터를 많이 만들어 그 목소리로 프로토타입도 만들 수 있게 했다”고 말했다. 핑 시스템을 두고는 “가능한 모든 버전을 다 녹음하는 것은 너무 비현실적”이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "최고 크리에이티브 책임자 Stefan Strandberg는 “우리는 배우를 대체하는 사업을 하는 게 아니다”라고 잘라 말했다."
+            "x": "개발진은 “지금도 Steam이 언제 최종 OK를 내줘 게임을 드디어 출시할 수 있을지 모른다”고 적었다. 이번 주 안에 내놓고 싶은 마음은 여전하지만 “우리 손을 떠난 일이라 어떤 계획도 약속도 할 수 없다”고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Arc Raiders devs call the\nAI voice backlash fair",
-          "body": "Embark calls criticism of its AI-generated voices fair and has since re-recorded lines to add more real human voices.",
-          "mini_headline": "Arc Raiders on AI voices",
+          "headline": "Food Devils delays launch\nover Steam's AI backlog",
+          "body": "Food Devils' developers pushed back the launch, suspecting Steam's review queue is clogged by genAI submissions.",
+          "mini_headline": "Steam AI backlog delays game",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Embark has since re-recorded lines to inject more real human voices to the game. “I think there was some really fair criticism in there. There's no point in trying to be defensive,” executive producer Aleksander Grøndal says via Arc Raiders' YouTube channel."
+                "x": "Food Devils, a salacious, foodie take on Fire Emblem, was meant to release today, but it's not actually out yet. In a Steam blog post, developer Studio Daimon explained that devs see a disclaimer saying review “typically takes 3-5 business days, but please allow up to 7 business days.” The team submitted their build on October 12th, more than 20 days ago, with no approval in sight."
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders' launch was overshadowed by controversy over its use of AI to mimic voice actors and supplement the dialogue. The actors signed contracts allowing it, but players called some AI voicelines lifeless, lacklustre, and odd."
+                "x": "The reason? “We can only assume it's because Steam's review queue is clogged up by AI slop, but the whole process is now taking several weeks for some developers.” Game Discovery Tool found that more than 50% of games released in October on Steam featured an AI disclosure, up from just over 14% in January 2025 and a little over 25% in January 2026. According to SteamDB, a little over 2000 games released in October 2025; in October 2026, almost 4000."
               },
               {
                 "t": "p",
-                "x": "Embark says it used AI to get updates out faster. “We made a lot of training data from their voices so we could prototype as well with their voice,” audio director Bence Pajor says. For the ping system, “it becomes too impractical to record every possible version of something.”"
-              },
-              {
-                "t": "p",
-                "x": "“We are not in the industry of replacing actors,” chief creative officer Stefan Strandberg says."
+                "x": "“Even now, we don't know when Steam will give us the final OK to finally release our game,” the devs wrote. They're hoping to still release it by the end of the week, but “can't make any plans or promises because it's out of our control.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Arc Raiders 측\nAI 음성 비판 수긍",
-          "body": "Embark는 AI-generated 음성 비판을 받아들이고 대사를 다시 녹음했다.",
-          "mini_headline": "Arc Raiders, AI 음성 해명",
+          "headline": "Food Devils 연기\nSteam AI 적체 탓",
+          "body": "Food Devils가 genAI발 Steam 심사 적체를 의심해 출시를 미뤘다.",
+          "mini_headline": "Steam AI 적체에 출시 연기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Embark는 이후 대사를 다시 녹음해 게임에 실제 사람 목소리를 더 넣었다. 총괄 프로듀서 Aleksander Grøndal은 Arc Raiders YouTube 채널에서 “정말 정당한 비판도 있었다고 생각한다. 방어적으로 나설 이유가 없다”고 말했다."
+                "x": "Fire Emblem을 선정적인 음식 테마로 비튼 Food Devils는 원래 오늘 나올 예정이었지만 아직 출시되지 않았다. 개발사 Studio Daimon은 Steam 블로그 글에서 개발자용 안내문에 심사가 “보통 3-5영업일 걸리지만, 최대 7영업일까지 여유를 두라”고 적혀 있다고 설명했다. 팀이 빌드를 낸 건 20일도 더 전인 10월 12일인데, 승인 소식은 아직 없다."
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders 출시는 성우 목소리를 흉내 내고 대사를 채우는 데 AI를 썼다는 논란에 묻혔다. 성우들은 이를 허용하는 계약에 서명했지만 플레이어들은 일부 AI 대사가 생기 없고 밋밋하며 어색하다고 꼬집었다."
+                "x": "왜일까. “Steam 심사 대기열이 AI 저질 콘텐츠로 꽉 막혔기 때문이라고 짐작할 수밖에 없지만, 일부 개발자에게는 전체 과정이 이제 몇 주씩 걸리고 있다.” Game Discovery Tool에 따르면 10월 Steam에 출시된 게임의 50% 이상이 AI 사용 고지를 달았다. 2025년 1월엔 14% 남짓, 2026년 1월엔 25% 남짓이었다. SteamDB 집계로는 2025년 10월 출시작이 2000개를 조금 넘었는데, 2026년 10월에는 4000개 가까이 나왔다."
               },
               {
                 "t": "p",
-                "x": "Embark는 업데이트를 더 빨리 내놓으려고 AI를 썼다고 설명한다. 오디오 디렉터 Bence Pajor는 “그들의 목소리로 학습 데이터를 많이 만들어 그 목소리로 프로토타입도 만들 수 있게 했다”고 말했다. 핑 시스템을 두고는 “가능한 모든 버전을 다 녹음하는 것은 너무 비현실적”이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "최고 크리에이티브 책임자 Stefan Strandberg는 “우리는 배우를 대체하는 사업을 하는 게 아니다”라고 잘라 말했다."
+                "x": "개발진은 “지금도 Steam이 언제 최종 OK를 내줘 게임을 드디어 출시할 수 있을지 모른다”고 적었다. 이번 주 안에 내놓고 싶은 마음은 여전하지만 “우리 손을 떠난 일이라 어떤 계획도 약속도 할 수 없다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Arc Raiders開発陣\nAI音声批判は妥当",
-          "body": "EmbarkはAI-generated音声への批判を妥当と認め、生の声を足すため再収録した。",
-          "mini_headline": "Arc Raiders、AI音声に言及",
+          "headline": "Food Devils延期\nSteamのAI渋滞で",
+          "body": "Food Devilsは、Steamの審査がgenAIで詰まったとみて発売を延期した。",
+          "mini_headline": "SteamのAI滞留で発売延期",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Embarkはその後、台詞を再収録し、ゲームに本物の人間の声をより多く取り入れた。「本当に妥当な批判もあったと思う。防御的になっても意味がない」と、エグゼクティブプロデューサーのAleksander GrøndalはArc RaidersのYouTubeチャンネルで語った。"
+                "x": "Fire Emblemを官能的かつグルメ寄りにアレンジしたFood Devilsは本日発売の予定だったが、まだ出ていない。開発元のStudio DaimonはSteamのブログ投稿で、開発者向けの注意書きには審査が「通常3-5営業日かかりますが、最大7営業日を見込んでください」とあると説明した。チームは20日以上前の10月12日にビルドを提出したが、承認の気配はない。"
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "Arc Raidersのローンチは、声優の声をまねてセリフを補うためにAIを使ったことをめぐる論争に影を落とされた。声優たちはそれを認める契約に署名していたが、プレイヤーは一部のAIボイスを生気がなく、物足りず、奇妙だと評した。"
+                "x": "理由は何か。「SteamのレビューキューがAIスロップで詰まっているからだと推測するしかないが、一部の開発者にとっては、いまや全工程に数週間かかっている」。Game Discovery Toolによると、10月にSteamで発売されたゲームの50%以上にAI開示があり、2025年1月の14%強、2026年1月の25%強から増えた。SteamDBによれば、2025年10月の発売タイトルは2000本強だったが、2026年10月には4000本近くに達した。"
               },
               {
                 "t": "p",
-                "x": "Embarkはアップデートをより早く出すためにAIを使ったと説明する。「彼らの声から大量の学習データを作り、その声でプロトタイプも作れるようにした」とオーディオディレクターのBence Pajorは言う。ピンシステムについては「考えられるすべてのバージョンを録音するのは現実的ではなくなる」という。"
-              },
-              {
-                "t": "p",
-                "x": "「私たちは俳優を置き換える業界にいるわけではない」と、チーフクリエイティブオフィサーのStefan Strandbergは語る。"
+                "x": "「今になっても、Steamがいつゲーム発売の最終的なOKを出してくれるのかわからない」と開発陣は書いた。週末までの発売をなお望んでいるが、「自分たちではどうにもならないので、計画も約束もできない」という。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Arc Raiders开发者\n称AI配音批评中肯",
-          "body": "Embark承认对其AI-generated配音的批评中肯，并已重录台词以加入更多真人声音。",
-          "mini_headline": "Arc Raiders回应AI配音",
+          "headline": "Food Devils延期\n因Steam AI审核积压",
+          "body": "Food Devils开发者怀疑Steam审核队列被genAI作品堵塞，推迟了发售。",
+          "mini_headline": "Steam AI积压致游戏延期",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Embark此后重新录制了台词，为游戏加入更多真人声音。执行制作人Aleksander Grøndal在Arc Raiders的YouTube频道上表示：“我认为其中确实有一些非常中肯的批评。试图辩解没有意义。”"
+                "x": "Food Devils是一款以美食为主题、风格香艳的Fire Emblem式游戏，原定今天发售，但实际上还没有上线。开发商Studio Daimon在Steam博客文章中解释，开发者会看到一则说明，称审核“通常需要3-5个工作日，但请预留最多7个工作日”。团队在10月12日、也就是20多天前提交了版本，至今仍看不到获批的迹象。"
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders的发售被一场争议所笼罩：游戏使用AI模仿配音演员的声音并补充对白。演员们签署了允许这样做的合同，但玩家认为部分AI语音毫无生气、平淡乏味且古怪。"
+                "x": "原因何在？“我们只能猜测，是Steam的审核队列被AI垃圾内容堵住了，但对一些开发者来说，整个流程现在要花上好几周。”Game Discovery Tool发现，10月在Steam上发布的游戏中，超过50%带有AI披露声明，而2025年1月仅略高于14%，2026年1月略高于25%。根据SteamDB，2025年10月发布的游戏略多于2000款；2026年10月则接近4000款。"
               },
               {
                 "t": "p",
-                "x": "Embark表示，使用AI是为了更快推出更新。音频总监Bence Pajor说：“我们用他们的声音制作了大量训练数据，这样也能用他们的声音做原型。”至于标记（ping）系统，“把每一种可能的版本都录下来就变得太不现实了。”"
-              },
-              {
-                "t": "p",
-                "x": "首席创意官Stefan Strandberg说：“我们并不是做取代演员这门生意的。”"
+                "x": "“直到现在，我们仍不知道Steam何时会给出最终OK，让我们的游戏终于能够发售。”开发者写道。他们仍希望在本周内发售，但“无法做任何计划或承诺，因为这不在我们的掌控之中”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los creadores de Arc Raiders\nven justo el rechazo a voces AI",
-          "body": "Embark considera justas las críticas a sus voces AI-generated y regrabó líneas para sumar más voces humanas reales.",
-          "mini_headline": "Arc Raiders y sus voces AI",
+          "headline": "Food Devils retrasa su estreno\npor el atasco de IA en Steam",
+          "body": "Los creadores de Food Devils aplazaron el lanzamiento al sospechar que la cola de Steam está saturada de genAI.",
+          "mini_headline": "El atasco de IA en Steam retrasa un juego",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Desde entonces, Embark ha regrabado líneas para incorporar más voces humanas reales al juego. “Creo que hubo críticas realmente justas. No tiene sentido ponerse a la defensiva”, afirma el productor ejecutivo Aleksander Grøndal en el canal de YouTube de Arc Raiders."
+                "x": "Food Devils, una versión picante y gastronómica de Fire Emblem, debía salir hoy, pero todavía no está disponible. En una publicación del blog de Steam, la desarrolladora Studio Daimon explicó que los estudios ven un aviso según el cual la revisión “suele tardar 3-5 días hábiles, pero conviene prever hasta 7 días hábiles”. El equipo envió su build el 12 de octubre, hace más de 20 días, sin aprobación a la vista."
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "El lanzamiento de Arc Raiders quedó opacado por la polémica sobre el uso de AI para imitar a los actores de voz y complementar los diálogos. Los actores firmaron contratos que lo permitían, pero los jugadores calificaron algunas líneas de voz AI de inertes, deslucidas y extrañas."
+                "x": "¿El motivo? “Solo podemos suponer que se debe a que la cola de revisión de Steam está atascada de bazofia de IA, pero todo el proceso ya está llevando varias semanas a algunos desarrolladores”. Game Discovery Tool determinó que más del 50% de los juegos lanzados en octubre en Steam incluían una declaración de uso de IA (AI), frente a algo más del 14% en enero de 2025 y algo más del 25% en enero de 2026. Según SteamDB, en octubre de 2025 se lanzaron algo más de 2000 juegos; en octubre de 2026, casi 4000."
               },
               {
                 "t": "p",
-                "x": "Embark dice que usó AI para publicar actualizaciones más rápido. “Creamos muchos datos de entrenamiento a partir de sus voces para poder también hacer prototipos con su voz”, explica el director de audio Bence Pajor. Para el sistema de pings, “resulta demasiado poco práctico grabar todas las versiones posibles de algo”."
-              },
-              {
-                "t": "p",
-                "x": "“No nos dedicamos a reemplazar actores”, afirma el director creativo Stefan Strandberg."
+                "x": "“Incluso ahora, no sabemos cuándo nos dará Steam el OK definitivo para lanzar por fin nuestro juego”, escribieron los desarrolladores. Esperan lanzarlo antes de que termine la semana, pero “no pueden hacer planes ni promesas porque está fuera de nuestro control”."
               }
             ]
           }
@@ -1621,141 +973,969 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Arc Raiders 측\nAI 음성 비판 수긍",
-          "body": "Embark는 AI-generated 음성 비판을 수긍하고 대사를 재녹음했다.",
-          "mini_headline": "Arc Raiders, AI 음성 해명",
+          "headline": "Food Devils 연기\nSteam AI 적체 탓",
+          "body": "Food Devils가 genAI발 Steam 심사 적체를 의심해 출시를 미뤘다.",
+          "mini_headline": "Steam AI 적체에 출시 연기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Embark는 이후 대사를 다시 녹음해 게임에 실제 사람 목소리를 더 넣었다. 총괄 프로듀서 Aleksander Grøndal은 Arc Raiders YouTube 채널에서 “정말 정당한 비판도 있었다고 생각한다. 방어적으로 나설 이유가 없다”고 말했다."
+                "x": "Fire Emblem을 선정적이고 음식 중심으로 비튼 Food Devils는 원래 오늘 출시될 예정이었지만 아직 나오지 않았다. 개발사 Studio Daimon은 Steam 블로그 게시물에서, 개발자들이 보는 안내문에 심사가 “보통 3-5영업일 걸리지만, 최대 7영업일까지 여유를 두라”고 적혀 있다고 설명했다. 팀은 20일도 더 지난 10월 12일에 빌드를 제출했지만 승인 기미는 보이지 않는다."
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders 출시는 성우 목소리를 흉내 내고 대사를 보충하는 데 AI를 썼다는 논란에 가려졌다. 성우들은 이를 허용하는 계약에 서명했지만, 플레이어들은 일부 AI 대사가 생기 없고 밋밋하며 어색하다고 지적했다."
+                "x": "이유는 무엇일까. “Steam 심사 대기열이 AI 저질 콘텐츠로 꽉 막혔기 때문이라고 짐작할 수밖에 없지만, 일부 개발자에게는 전체 과정이 이제 몇 주씩 걸리고 있다.” Game Discovery Tool에 따르면 10월 Steam에 출시된 게임의 50% 이상이 AI 사용 고지를 달았다. 2025년 1월의 14% 남짓, 2026년 1월의 25% 남짓에서 늘어난 수치다. SteamDB에 따르면 2025년 10월에는 2000개를 조금 넘는 게임이 출시됐고, 2026년 10월에는 4000개 가까이 나왔다."
               },
               {
                 "t": "p",
-                "x": "Embark는 업데이트를 더 빨리 내놓으려고 AI를 썼다고 설명한다. 오디오 디렉터 Bence Pajor는 “그들의 목소리로 학습 데이터를 많이 만들어 그 목소리로 프로토타입도 만들 수 있게 했다”고 말했다. 핑 시스템에 대해서는 “가능한 모든 버전을 다 녹음하는 것은 너무 비현실적”이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "최고 크리에이티브 책임자 Stefan Strandberg는 “우리는 배우를 대체하는 사업을 하는 게 아니다”라고 말했다."
+                "x": "“지금도 Steam이 언제 최종 OK를 내줘 게임을 드디어 출시할 수 있을지 모른다”고 개발진은 적었다. 이번 주 안에 출시하기를 여전히 바라지만 “우리 손을 떠난 일이라 어떤 계획도 약속도 할 수 없다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Arc Raiders開発陣\nAI音声批判は妥当",
-          "body": "EmbarkはAI-generated音声への批判を妥当と認め、生の声を足すため再収録した。",
-          "mini_headline": "Arc Raiders、AI音声に言及",
+          "headline": "Food Devils延期\nSteamのAI渋滞で",
+          "body": "Food Devilsは、Steamの審査がgenAIで詰まったとみて発売を延期した。",
+          "mini_headline": "SteamのAI滞留で発売延期",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供：Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Embarkはその後、台詞を再収録し、ゲームに本物の人間の声をより多く取り入れた。「本当に妥当な批判もあったと思う。防御的になっても意味がない」と、エグゼクティブプロデューサーのAleksander GrøndalはArc RaidersのYouTubeチャンネルで語った。"
+                "x": "Fire Emblemを官能的かつグルメ寄りにアレンジしたFood Devilsは本日発売の予定だったが、まだ出ていない。開発元のStudio DaimonはSteamのブログ投稿で、開発者向けの注意書きには審査が「通常3-5営業日かかりますが、最大7営業日を見込んでください」とあると説明した。チームは20日以上前の10月12日にビルドを提出したが、承認の気配はない。"
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "Arc Raidersのローンチは、声優の声をまねてセリフを補うためにAIを使ったことをめぐる論争に影を落とされた。声優たちはそれを認める契約に署名していたが、プレイヤーは一部のAIボイスを生気がなく、物足りず、奇妙だと評した。"
+                "x": "理由は何か。「SteamのレビューキューがAIスロップで詰まっているからだと推測するしかないが、一部の開発者にとっては、いまや全工程に数週間かかっている」。Game Discovery Toolによると、10月にSteamで発売されたゲームの50%以上にAI開示があり、2025年1月の14%強、2026年1月の25%強から増えた。SteamDBによれば、2025年10月の発売タイトルは2000本強だったが、2026年10月には4000本近くに達した。"
               },
               {
                 "t": "p",
-                "x": "Embarkはアップデートをより早く出すためにAIを使ったと説明する。「彼らの声から大量の学習データを作り、その声でプロトタイプも作れるようにした」とオーディオディレクターのBence Pajorは言う。ピンシステムについては「考えられるすべてのバージョンを録音するのは現実的ではなくなる」という。"
-              },
-              {
-                "t": "p",
-                "x": "「私たちは俳優を置き換える業界にいるわけではない」と、チーフクリエイティブオフィサーのStefan Strandbergは語る。"
+                "x": "「今になっても、Steamがいつゲーム発売の最終的なOKを出してくれるのかわからない」と開発陣は書いた。週末までの発売をなお望んでいるが、「自分たちではどうにもならないので、計画も約束もできない」という。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Arc Raiders开发者\n称AI配音批评中肯",
-          "body": "Embark承认对其AI-generated配音的批评中肯，并已重录台词以加入更多真人声音。",
-          "mini_headline": "Arc Raiders回应AI配音",
+          "headline": "Food Devils延期\n因Steam AI审核积压",
+          "body": "Food Devils开发者怀疑Steam审核队列被genAI作品堵塞，推迟了发售。",
+          "mini_headline": "Steam AI积压致游戏延期",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Embark此后重新录制了台词，为游戏加入更多真人声音。执行制作人Aleksander Grøndal在Arc Raiders的YouTube频道上表示：“我认为其中确实有一些非常中肯的批评。试图辩解没有意义。”"
+                "x": "Food Devils是一款以美食为主题、风格香艳的Fire Emblem式游戏，原定今天发售，但实际上还没有上线。开发商Studio Daimon在Steam博客文章中解释，开发者会看到一则说明，称审核“通常需要3-5个工作日，但请预留最多7个工作日”。团队在10月12日、也就是20多天前提交了版本，至今仍看不到获批的迹象。"
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders的发售被一场争议所笼罩：游戏使用AI模仿配音演员的声音并补充对白。演员们签署了允许这样做的合同，但玩家认为部分AI语音毫无生气、平淡乏味且古怪。"
+                "x": "原因何在？“我们只能猜测，是Steam的审核队列被AI垃圾内容堵住了，但对一些开发者来说，整个流程现在要花上好几周。”Game Discovery Tool发现，10月在Steam上发布的游戏中，超过50%带有AI披露声明，而2025年1月仅略高于14%，2026年1月略高于25%。根据SteamDB，2025年10月发布的游戏略多于2000款；2026年10月则接近4000款。"
               },
               {
                 "t": "p",
-                "x": "Embark表示，使用AI是为了更快推出更新。音频总监Bence Pajor说：“我们用他们的声音制作了大量训练数据，这样也能用他们的声音做原型。”至于标记（ping）系统，“把每一种可能的版本都录下来就变得太不现实了。”"
-              },
-              {
-                "t": "p",
-                "x": "首席创意官Stefan Strandberg说：“我们并不是做取代演员这门生意的。”"
+                "x": "“直到现在，我们仍不知道Steam何时会给出最终OK，让我们的游戏终于能够发售。”开发者写道。他们仍希望在本周内发售，但“无法做任何计划或承诺，因为这不在我们的掌控之中”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los creadores de Arc Raiders\nven justo el rechazo a voces AI",
-          "body": "Embark considera justas las críticas a sus voces AI-generated y regrabó líneas para sumar más voces humanas reales.",
-          "mini_headline": "Arc Raiders y sus voces AI",
+          "headline": "Food Devils retrasa su estreno\npor el atasco de IA en Steam",
+          "body": "Los creadores de Food Devils aplazaron el lanzamiento al sospechar que la cola de Steam está saturada de genAI.",
+          "mini_headline": "El atasco de IA en Steam retrasa un juego",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK.jpg",
-                "cap": "Arc Raiders"
+                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Studio Daimon"
               },
               {
                 "t": "p",
-                "x": "Desde entonces, Embark ha regrabado líneas para incorporar más voces humanas reales al juego. “Creo que hubo críticas realmente justas. No tiene sentido ponerse a la defensiva”, afirma el productor ejecutivo Aleksander Grøndal en el canal de YouTube de Arc Raiders."
+                "x": "Food Devils, una versión picante y gastronómica de Fire Emblem, debía salir hoy, pero todavía no está disponible. En una publicación del blog de Steam, la desarrolladora Studio Daimon explicó que los estudios ven un aviso según el cual la revisión “suele tardar 3-5 días hábiles, pero conviene prever hasta 7 días hábiles”. El equipo envió su build el 12 de octubre, hace más de 20 días, sin aprobación a la vista."
               },
               {
                 "t": "video",
-                "yt": "_xwbP8KV530"
+                "yt": "eAUlEcrd6-8"
               },
               {
                 "t": "p",
-                "x": "El lanzamiento de Arc Raiders quedó opacado por la polémica sobre el uso de AI para imitar a los actores de voz y complementar los diálogos. Los actores firmaron contratos que lo permitían, pero los jugadores calificaron algunas líneas de voz AI de inertes, deslucidas y extrañas."
+                "x": "¿El motivo? “Solo podemos suponer que se debe a que la cola de revisión de Steam está atascada de bazofia de IA, pero todo el proceso ya está llevando varias semanas a algunos desarrolladores”. Game Discovery Tool determinó que más del 50% de los juegos lanzados en octubre en Steam incluían una declaración de uso de IA (AI), frente a algo más del 14% en enero de 2025 y algo más del 25% en enero de 2026. Según SteamDB, en octubre de 2025 se lanzaron algo más de 2000 juegos; en octubre de 2026, casi 4000."
               },
               {
                 "t": "p",
-                "x": "Embark dice que usó AI para publicar actualizaciones más rápido. “Creamos muchos datos de entrenamiento a partir de sus voces para poder también hacer prototipos con su voz”, explica el director de audio Bence Pajor. Para el sistema de pings, “resulta demasiado poco práctico grabar todas las versiones posibles de algo”."
+                "x": "“Incluso ahora, no sabemos cuándo nos dará Steam el OK definitivo para lanzar por fin nuestro juego”, escribieron los desarrolladores. Esperan lanzarlo antes de que termine la semana, pero “no pueden hacer planes ni promesas porque está fuera de nuestro control”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "playgama-ai-game-index",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Playgama AI 코더\n실제 반응으로 순위",
+      "body": "4,200개 중 Claude Opus가 54%, 호평은 OpenAI Astra다.",
+      "mini_headline": "Playgama, AI 코더 순위",
+      "tool": "Games",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/playgama-launches-ai-game-index-to-rank-coding-agents-by-real-player-engagement/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+          },
+          {
+            "t": "p",
+            "x": "Playgama에 새로 올라오는 AI로 만든(AI-made) 게임은 절반 넘게 Claude Opus 작품이지만, 플레이어가 가장 좋아하는 쪽은 OpenAI의 Astra가 만든 게임이다. 회사가 처음 내놓은 AI Game Index 결과다. 지수는 9월 22일부터 10월 21일까지 공개된 게임 4,200개를 추적해 플레이 시간과 플레이어 좋아요, 신작 점유율로 AI 모델과 코딩 에이전트의 순위를 매긴다."
+          },
+          {
+            "t": "p",
+            "x": "신작의 54%는 Claude Opus가 맡았고, OpenAI의 Sol이 11%, Claude Sonnet이 8%, OpenAI의 Astra가 3.8%, Claude Fable이 3%, Gemini Pro가 1.9%, Gemini Flash가 1.8%, DeepSeek이 1.6%로 뒤를 이었다. 플레이어 반응은 Astra로 만든(Astra-built) 게임이 가장 좋았다. 플레이 1,000회당 좋아요 중앙값이 65개다. Opus는 39개로 평가 모델 여덟 개 가운데 여섯 번째였다. 플레이어를 붙잡아 두는 시간도 Astra 게임이 가장 길어 플레이당 중앙값이 4분 58초였다."
+          },
+          {
+            "t": "p",
+            "x": "Codex로 만든(Codex-built) 게임은 플레이 1,000회당 좋아요 중앙값이 65개, Claude Code는 43개에 그친다. 창업자 Dmitry Kachmar는 “이 지수를 심판이 아니라 온도계로 봐 달라”고 말했다. “한 해 전만 해도 게임을 만들려면 팀과 몇 달의 작업이 필요했다. 이제는 한 사람이 AI 에이전트와 함께 하룻저녁에 게임을 만들 수 있다.” 지수는 Playgama 자체 플랫폼만 다루고 모델 정보는 자체 신고로 받으며, 매일 갱신된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Playgama ranks AI coders\nby real player engagement",
+          "body": "Across 4,200 AI-made games, Claude Opus builds 54% of new titles, but OpenAI's Astra makes the ones players like most.",
+          "mini_headline": "Playgama ranks AI coders",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
               },
               {
                 "t": "p",
-                "x": "“No nos dedicamos a reemplazar actores”, afirma el director creativo Stefan Strandberg."
+                "x": "Claude Opus is building more than half of the new AI-made games on Playgama, but OpenAI’s Astra is making the ones players like most. That’s according to the company’s first AI Game Index, which tracks 4,200 games published between September 22 and October 21 and ranks AI models and coding agents on playtime, player likes and share of new games."
+              },
+              {
+                "t": "p",
+                "x": "Claude Opus powers 54% of new games, followed by OpenAI’s Sol at 11%, Claude Sonnet at 8%, OpenAI’s Astra at 3.8%, Claude Fable at 3%, Gemini Pro at 1.9%, Gemini Flash at 1.8% and DeepSeek at 1.6%. Players like Astra-built games the most, with a median 65 likes per 1,000 plays; Opus ranks sixth of eight rated models at 39. Astra games also hold players longest, at a median 4 minutes 58 seconds per play."
+              },
+              {
+                "t": "p",
+                "x": "The median Codex-built game earns 65 likes per 1,000 plays, versus just 43 for Claude Code. “Look at the index as a thermometer, not a judge,” said founder Dmitry Kachmar. “A year ago, making a game required a team and months of work. Now, one person can build a game with an AI agent in one evening.” The index covers only Playgama’s own platform, model information is self-reported, and it is updated daily."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Playgama AI 코더\n실제 반응으로 순위",
+          "body": "4,200개 중 Claude Opus가 54%, 호평은 OpenAI Astra다.",
+          "mini_headline": "Playgama, AI 코더 순위",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Playgama에 새로 올라오는 AI로 만든(AI-made) 게임은 절반 넘게 Claude Opus 작품이지만, 플레이어가 가장 좋아하는 쪽은 OpenAI의 Astra가 만든 게임이다. 회사가 처음 내놓은 AI Game Index 결과다. 지수는 9월 22일부터 10월 21일까지 공개된 게임 4,200개를 추적해 플레이 시간과 플레이어 좋아요, 신작 점유율로 AI 모델과 코딩 에이전트의 순위를 매긴다."
+              },
+              {
+                "t": "p",
+                "x": "신작의 54%는 Claude Opus가 맡았고, OpenAI의 Sol이 11%, Claude Sonnet이 8%, OpenAI의 Astra가 3.8%, Claude Fable이 3%, Gemini Pro가 1.9%, Gemini Flash가 1.8%, DeepSeek이 1.6%로 뒤를 이었다. 플레이어 반응은 Astra로 만든(Astra-built) 게임이 가장 좋았다. 플레이 1,000회당 좋아요 중앙값이 65개다. Opus는 39개로 평가 모델 여덟 개 가운데 여섯 번째였다. 플레이어를 붙잡아 두는 시간도 Astra 게임이 가장 길어 플레이당 중앙값이 4분 58초였다."
+              },
+              {
+                "t": "p",
+                "x": "Codex로 만든(Codex-built) 게임은 플레이 1,000회당 좋아요 중앙값이 65개, Claude Code는 43개에 그친다. 창업자 Dmitry Kachmar는 “이 지수를 심판이 아니라 온도계로 봐 달라”고 말했다. “한 해 전만 해도 게임을 만들려면 팀과 몇 달의 작업이 필요했다. 이제는 한 사람이 AI 에이전트와 함께 하룻저녁에 게임을 만들 수 있다.” 지수는 Playgama 자체 플랫폼만 다루고 모델 정보는 자체 신고로 받으며, 매일 갱신된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "PlaygamaのAI番付\n決め手は実プレイ反応",
+          "body": "4,200本中、Claude Opus製が54%だが好評はOpenAIのAstraだ。",
+          "mini_headline": "Playgama、AIコーダー番付",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Playgamaで新たに登場するAI製（AI-made）ゲームの半数以上はClaude Opusが作っているが、プレイヤーに最も好まれているのはOpenAIのAstraによるゲームだ。同社初のAI Game Indexによるもので、9月22日から10月21日までに公開された4,200本のゲームを追跡し、プレイ時間、プレイヤーの「いいね」、新作に占める割合でAIモデルとコーディングエージェントを順位付けしている。"
+              },
+              {
+                "t": "p",
+                "x": "新作の54%をClaude Opusが占め、OpenAIのSolが11%、Claude Sonnetが8%、OpenAIのAstraが3.8%、Claude Fableが3%、Gemini Proが1.9%、Gemini Flashが1.8%、DeepSeekが1.6%で続く。プレイヤーに最も好まれたのはAstra-builtのゲームで、1,000プレイあたりの「いいね」中央値は65。Opusは39で、評価対象の八つのモデル中六番目だった。Astraのゲームはプレイヤーを最も長く引き留め、プレイあたりの中央値は4分58秒だった。"
+              },
+              {
+                "t": "p",
+                "x": "Codex-builtのゲームの中央値は1,000プレイあたり「いいね」65で、Claude Codeは43にとどまる。創業者のDmitry Kachmarは「このインデックスは裁判官ではなく温度計として見てほしい」と語った。「一年前、ゲームを作るにはチームと数か月の作業が必要だった。今では一人がAIエージェントを使って一晩でゲームを作れる」。インデックスの対象はPlaygama自身のプラットフォームのみで、モデル情報は自己申告、更新は毎日行われる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Playgama按玩家反馈\n给AI编程工具排名",
+          "body": "4,200款游戏中Claude Opus占54%，最受欢迎的却是OpenAI的Astra。",
+          "mini_headline": "Playgama为AI编程工具排名",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "在Playgama上，新推出的AI制作（AI-made）游戏有一半以上由Claude Opus构建，但最受玩家喜爱的游戏出自OpenAI的Astra。这一结论来自该公司首份AI Game Index。该指数追踪了9月22日至10月21日发布的4,200款游戏，并按游戏时长、玩家点赞数和新游戏占比对AI模型和编程代理进行排名。"
+              },
+              {
+                "t": "p",
+                "x": "Claude Opus支撑了54%的新游戏，其后依次是OpenAI的Sol（11%）、Claude Sonnet（8%）、OpenAI的Astra（3.8%）、Claude Fable（3%）、Gemini Pro（1.9%）、Gemini Flash（1.8%）和DeepSeek（1.6%）。玩家最喜欢Astra-built游戏，每1,000次游玩的点赞中位数为65；Opus以39在八个受评模型中排名第六。Astra游戏留住玩家的时间也最长，每次游玩的中位时长为4分58秒。"
+              },
+              {
+                "t": "p",
+                "x": "Codex-built游戏的中位数为每1,000次游玩获得65个点赞，而Claude Code仅为43个。创始人Dmitry Kachmar说：“把这个指数当作温度计，而不是裁判。”“一年前，做一款游戏需要一个团队和几个月的工作。现在，一个人借助AI代理一个晚上就能做出一款游戏。”该指数只涵盖Playgama自家平台，模型信息为自行申报，并且每日更新。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Playgama clasifica a las IA\npor la respuesta del jugador",
+          "body": "En 4,200 juegos hechos con IA, Claude Opus crea el 54% de los nuevos, pero los favoritos son los de Astra, de OpenAI.",
+          "mini_headline": "Playgama clasifica a las IA programadoras",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude Opus está creando más de la mitad de los nuevos juegos hechos con IA (AI-made) en Playgama, pero Astra, de OpenAI, es el que hace los que más gustan a los jugadores. Así lo indica el primer AI Game Index de la compañía, que sigue 4,200 juegos publicados entre el 22 de septiembre y el 21 de octubre y clasifica modelos de IA y agentes de programación según el tiempo de juego, los «me gusta» de los jugadores y la cuota de juegos nuevos."
+              },
+              {
+                "t": "p",
+                "x": "Claude Opus impulsa el 54% de los juegos nuevos, seguido de Sol, de OpenAI, con el 11%; Claude Sonnet, con el 8%; Astra, de OpenAI, con el 3.8%; Claude Fable, con el 3%; Gemini Pro, con el 1.9%; Gemini Flash, con el 1.8%, y DeepSeek, con el 1.6%. A los jugadores les gustan más los juegos Astra-built, con una mediana de 65 «me gusta» por cada 1,000 partidas; Opus ocupa el sexto lugar de ocho modelos evaluados, con 39. Los juegos de Astra también retienen más tiempo a los jugadores, con una mediana de 4 minutos 58 segundos por partida."
+              },
+              {
+                "t": "p",
+                "x": "El juego Codex-built mediano obtiene 65 «me gusta» por cada 1,000 partidas, frente a solo 43 de Claude Code. “Vean el índice como un termómetro, no como un juez”, dijo el fundador Dmitry Kachmar. “Hace un año, hacer un juego requería un equipo y meses de trabajo. Ahora, una persona puede crear un juego con un agente de IA en una tarde”. El índice solo abarca la propia plataforma de Playgama, la información de los modelos es autodeclarada y se actualiza a diario."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Playgama AI 코더\n실제 반응으로 순위",
+          "body": "4,200개 중 Claude Opus가 54%, 호평은 OpenAI Astra다.",
+          "mini_headline": "Playgama, AI 코더 순위",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Playgama에서 새로 나오는 AI로 만든(AI-made) 게임의 절반 이상은 Claude Opus가 만들지만, 플레이어가 가장 좋아하는 게임은 OpenAI의 Astra가 만든다. 회사가 처음 내놓은 AI Game Index에 따른 결과다. 이 지수는 9월 22일부터 10월 21일까지 공개된 게임 4,200개를 추적해 플레이 시간, 플레이어 좋아요, 신작 점유율을 기준으로 AI 모델과 코딩 에이전트의 순위를 매긴다."
+              },
+              {
+                "t": "p",
+                "x": "신작의 54%는 Claude Opus가 맡았고, OpenAI의 Sol이 11%, Claude Sonnet이 8%, OpenAI의 Astra가 3.8%, Claude Fable이 3%, Gemini Pro가 1.9%, Gemini Flash가 1.8%, DeepSeek이 1.6%로 뒤를 이었다. 플레이어는 Astra로 만든(Astra-built) 게임을 가장 좋아했으며, 플레이 1,000회당 좋아요 중앙값이 65개였다. Opus는 39개로 평가 대상 모델 여덟 개 중 여섯 번째였다. Astra 게임은 플레이어를 붙잡아 두는 시간도 가장 길어, 플레이당 중앙값이 4분 58초였다."
+              },
+              {
+                "t": "p",
+                "x": "Codex로 만든(Codex-built) 게임의 중앙값은 플레이 1,000회당 좋아요 65개이고, Claude Code는 43개에 그친다. 창업자 Dmitry Kachmar는 “이 지수를 심판이 아니라 온도계로 봐 달라”고 말했다. “한 해 전만 해도 게임을 만들려면 팀과 몇 달의 작업이 필요했다. 이제는 한 사람이 AI 에이전트와 함께 하룻저녁에 게임을 만들 수 있다.” 이 지수는 Playgama 자체 플랫폼만 다루고, 모델 정보는 자체 신고 방식이며, 매일 갱신된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "PlaygamaのAI番付\n決め手は実プレイ反応",
+          "body": "4,200本中、Claude Opus製が54%だが好評はOpenAIのAstraだ。",
+          "mini_headline": "Playgama、AIコーダー番付",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Playgamaで新たに登場するAI製（AI-made）ゲームの半数以上はClaude Opusが作っているが、プレイヤーに最も好まれているのはOpenAIのAstraによるゲームだ。同社初のAI Game Indexによるもので、9月22日から10月21日までに公開された4,200本のゲームを追跡し、プレイ時間、プレイヤーの「いいね」、新作に占める割合でAIモデルとコーディングエージェントを順位付けしている。"
+              },
+              {
+                "t": "p",
+                "x": "新作の54%をClaude Opusが占め、OpenAIのSolが11%、Claude Sonnetが8%、OpenAIのAstraが3.8%、Claude Fableが3%、Gemini Proが1.9%、Gemini Flashが1.8%、DeepSeekが1.6%で続く。プレイヤーに最も好まれたのはAstra-builtのゲームで、1,000プレイあたりの「いいね」中央値は65。Opusは39で、評価対象の八つのモデル中六番目だった。Astraのゲームはプレイヤーを最も長く引き留め、プレイあたりの中央値は4分58秒だった。"
+              },
+              {
+                "t": "p",
+                "x": "Codex-builtのゲームの中央値は1,000プレイあたり「いいね」65で、Claude Codeは43にとどまる。創業者のDmitry Kachmarは「このインデックスは裁判官ではなく温度計として見てほしい」と語った。「一年前、ゲームを作るにはチームと数か月の作業が必要だった。今では一人がAIエージェントを使って一晩でゲームを作れる」。インデックスの対象はPlaygama自身のプラットフォームのみで、モデル情報は自己申告、更新は毎日行われる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Playgama按玩家反馈\n给AI编程工具排名",
+          "body": "4,200款游戏中Claude Opus占54%，最受欢迎的却是OpenAI的Astra。",
+          "mini_headline": "Playgama为AI编程工具排名",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "在Playgama上，新推出的AI制作（AI-made）游戏有一半以上由Claude Opus构建，但最受玩家喜爱的游戏出自OpenAI的Astra。这一结论来自该公司首份AI Game Index。该指数追踪了9月22日至10月21日发布的4,200款游戏，并按游戏时长、玩家点赞数和新游戏占比对AI模型和编程代理进行排名。"
+              },
+              {
+                "t": "p",
+                "x": "Claude Opus支撑了54%的新游戏，其后依次是OpenAI的Sol（11%）、Claude Sonnet（8%）、OpenAI的Astra（3.8%）、Claude Fable（3%）、Gemini Pro（1.9%）、Gemini Flash（1.8%）和DeepSeek（1.6%）。玩家最喜欢Astra-built游戏，每1,000次游玩的点赞中位数为65；Opus以39在八个受评模型中排名第六。Astra游戏留住玩家的时间也最长，每次游玩的中位时长为4分58秒。"
+              },
+              {
+                "t": "p",
+                "x": "Codex-built游戏的中位数为每1,000次游玩获得65个点赞，而Claude Code仅为43个。创始人Dmitry Kachmar说：“把这个指数当作温度计，而不是裁判。”“一年前，做一款游戏需要一个团队和几个月的工作。现在，一个人借助AI代理一个晚上就能做出一款游戏。”该指数只涵盖Playgama自家平台，模型信息为自行申报，并且每日更新。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Playgama clasifica a las IA\npor la respuesta del jugador",
+          "body": "En 4,200 juegos hechos con IA, Claude Opus crea el 54% de los nuevos, pero los favoritos son los de Astra, de OpenAI.",
+          "mini_headline": "Playgama clasifica a las IA programadoras",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Claude Opus está creando más de la mitad de los nuevos juegos hechos con IA (AI-made) en Playgama, pero Astra, de OpenAI, es el que hace los que más gustan a los jugadores. Así lo indica el primer AI Game Index de la compañía, que sigue 4,200 juegos publicados entre el 22 de septiembre y el 21 de octubre y clasifica modelos de IA y agentes de programación según el tiempo de juego, los «me gusta» de los jugadores y la cuota de juegos nuevos."
+              },
+              {
+                "t": "p",
+                "x": "Claude Opus impulsa el 54% de los juegos nuevos, seguido de Sol, de OpenAI, con el 11%; Claude Sonnet, con el 8%; Astra, de OpenAI, con el 3.8%; Claude Fable, con el 3%; Gemini Pro, con el 1.9%; Gemini Flash, con el 1.8%, y DeepSeek, con el 1.6%. A los jugadores les gustan más los juegos Astra-built, con una mediana de 65 «me gusta» por cada 1,000 partidas; Opus ocupa el sexto lugar de ocho modelos evaluados, con 39. Los juegos de Astra también retienen más tiempo a los jugadores, con una mediana de 4 minutos 58 segundos por partida."
+              },
+              {
+                "t": "p",
+                "x": "El juego Codex-built mediano obtiene 65 «me gusta» por cada 1,000 partidas, frente a solo 43 de Claude Code. “Vean el índice como un termómetro, no como un juez”, dijo el fundador Dmitry Kachmar. “Hace un año, hacer un juego requería un equipo y meses de trabajo. Ahora, una persona puede crear un juego con un agente de IA en una tarde”. El índice solo abarca la propia plataforma de Playgama, la información de los modelos es autodeclarada y se actualiza a diario."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "krafton-kiff-kpop-chat",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "크래프톤, K팝 AI\n캐릭터 챗 '키프' 출시",
+      "body": "크래프톤이 피프티피프티가 함께 만든 캐릭터 '웨니'와 대화하는 '키프'를 출시했다.",
+      "mini_headline": "크래프톤 AI 챗 '키프'",
+      "tool": "Games",
+      "source": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2021644",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "크래프톤(대표 김창한)은 K팝 AI 캐릭터 챗 서비스 '키프(Kiff)'로 AI 사업화에 나선다고 2일 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "이날 국내 서비스를 시작한 키프는 크래프톤이 개발하고 운영하는 서비스로, 이용자는 아티스트가 직접 구상한 캐릭터와 K팝을 주제로 대화하며 팬 활동에 재미를 더할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+            "cap": "[사진=크래프톤]"
+          },
+          {
+            "t": "img",
+            "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+            "cap": "[사진=크래프톤]"
+          },
+          {
+            "t": "p",
+            "x": "캐릭터는 이용자의 취향과 이전 대화를 기억해 다음 대화에 반영하고 먼저 말을 건네기도 한다. 아티스트의 소식을 전하며 이를 주제로 대화를 이어갈 수도 있다. 하루 동안 나눈 이야기를 그림일기로 만들어 주는 기능도 제공한다."
+          },
+          {
+            "t": "p",
+            "x": "이용자는 채팅 모드에서 텍스트로 대화하거나, 캐릭터 모드에서 화면 속 캐릭터와 상호작용할 수 있다. 캐릭터 모드에서는 이용자가 \"안녕!\"이라고 인사하면 캐릭터가 손을 흔드는 등 대화에 맞춰 움직인다."
+          },
+          {
+            "t": "p",
+            "x": "키프의 첫 참여 아티스트는 어트랙트(ATTRAKT) 소속 걸그룹 '피프티피프티(FIFTY FIFTY)'다. 피프티피프티의 공식 캐릭터 '웨니'는 멤버들이 페르소나 구상부터 외형 개발까지 직접 참여해 만든 캐릭터다."
+          },
+          {
+            "t": "p",
+            "x": "멤버들이 크래프톤을 찾아 웨니를 만들어 가는 과정은 키프 공식 유튜브 채널에서 영상으로 볼 수 있다. 지난 24일 1편이 공개됐으며, 2일 2편이 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "키프는 14세 이상 이용자를 대상으로 iOS와 안드로이드 앱에서 한국어로 제공된다. 매일 일부 대화는 무료로 즐길 수 있으며, 월 3900원 구독 시 채팅을 무제한으로 이용할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "박재민 크래프톤 AI Frontier Div. 본부장은 \"크래프톤은 게임 속 캐릭터가 이용자와 자연스럽게 소통하도록 만드는 AI를 오랫동안 연구해 왔다\"며 \"그 경험을 바탕으로 팬이 아티스트의 세계관을 더 가까이에서 즐길 수 있는 새로운 방식을 만들었다\"고 말했다. 이어 \"키프를 시작으로 더 많은 아티스트, 더 넓은 시장으로 AI 사업을 확장해 나가겠다\"고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "크래프톤은 키프에 참여 아티스트를 늘리고 기능을 순차적으로 추가하는 한편 서비스 국가도 확대해 나갈 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "크래프톤, K팝 AI\n캐릭터 챗 '키프' 출시",
+          "body": "크래프톤이 피프티피프티가 함께 만든 캐릭터 '웨니'와 대화하는 '키프'를 출시했다.",
+          "mini_headline": "크래프톤 AI 챗 '키프'",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "크래프톤(대표 김창한)은 K팝 AI 캐릭터 챗 서비스 '키프(Kiff)'로 AI 사업화에 나선다고 2일 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이날 국내 서비스를 시작한 키프는 크래프톤이 개발하고 운영하는 서비스로, 이용자는 아티스트가 직접 구상한 캐릭터와 K팝을 주제로 대화하며 팬 활동에 재미를 더할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "[사진=크래프톤]"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "[사진=크래프톤]"
+              },
+              {
+                "t": "p",
+                "x": "캐릭터는 이용자의 취향과 이전 대화를 기억해 다음 대화에 반영하고 먼저 말을 건네기도 한다. 아티스트의 소식을 전하며 이를 주제로 대화를 이어갈 수도 있다. 하루 동안 나눈 이야기를 그림일기로 만들어 주는 기능도 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "이용자는 채팅 모드에서 텍스트로 대화하거나, 캐릭터 모드에서 화면 속 캐릭터와 상호작용할 수 있다. 캐릭터 모드에서는 이용자가 \"안녕!\"이라고 인사하면 캐릭터가 손을 흔드는 등 대화에 맞춰 움직인다."
+              },
+              {
+                "t": "p",
+                "x": "키프의 첫 참여 아티스트는 어트랙트(ATTRAKT) 소속 걸그룹 '피프티피프티(FIFTY FIFTY)'다. 피프티피프티의 공식 캐릭터 '웨니'는 멤버들이 페르소나 구상부터 외형 개발까지 직접 참여해 만든 캐릭터다."
+              },
+              {
+                "t": "p",
+                "x": "멤버들이 크래프톤을 찾아 웨니를 만들어 가는 과정은 키프 공식 유튜브 채널에서 영상으로 볼 수 있다. 지난 24일 1편이 공개됐으며, 2일 2편이 이어진다."
+              },
+              {
+                "t": "p",
+                "x": "키프는 14세 이상 이용자를 대상으로 iOS와 안드로이드 앱에서 한국어로 제공된다. 매일 일부 대화는 무료로 즐길 수 있으며, 월 3900원 구독 시 채팅을 무제한으로 이용할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "박재민 크래프톤 AI Frontier Div. 본부장은 \"크래프톤은 게임 속 캐릭터가 이용자와 자연스럽게 소통하도록 만드는 AI를 오랫동안 연구해 왔다\"며 \"그 경험을 바탕으로 팬이 아티스트의 세계관을 더 가까이에서 즐길 수 있는 새로운 방식을 만들었다\"고 말했다. 이어 \"키프를 시작으로 더 많은 아티스트, 더 넓은 시장으로 AI 사업을 확장해 나가겠다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "크래프톤은 키프에 참여 아티스트를 늘리고 기능을 순차적으로 추가하는 한편 서비스 국가도 확대해 나갈 계획이다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Krafton launches Kiff, a K-pop\nAI character chat",
+          "body": "Krafton has launched Kiff, where users chat with Weni, a character made with FIFTY FIFTY.",
+          "mini_headline": "Krafton's AI chat Kiff",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Krafton (CEO Kim Chang-han) said on the 2nd that it is moving to commercialize AI with Kiff, a K-pop AI character chat service."
+              },
+              {
+                "t": "p",
+                "x": "Kiff, which launched in Korea that day, is developed and operated by Krafton. Users can chat about K-pop with characters conceived by the artists themselves, adding fun to their fan activities."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "[Photo=Krafton]"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "[Photo=Krafton]"
+              },
+              {
+                "t": "p",
+                "x": "The characters remember users' tastes and previous conversations, reflect them in later chats and sometimes start the conversation themselves. They can also share news about the artist and keep the conversation going on that topic. A feature that turns the day's conversations into a picture diary is also offered."
+              },
+              {
+                "t": "p",
+                "x": "Users can chat by text in chat mode or interact with the on-screen character in character mode. In character mode, the character moves along with the conversation, for example waving when the user says \"Hi!\""
+              },
+              {
+                "t": "p",
+                "x": "Kiff's first participating artist is FIFTY FIFTY, a girl group under ATTRAKT. FIFTY FIFTY's official character, Weni, was created with the members taking part directly, from conceiving the persona to developing its appearance."
+              },
+              {
+                "t": "p",
+                "x": "Videos of the members visiting Krafton to create Weni can be watched on Kiff's official YouTube channel. Episode 1 was released on the 24th, and Episode 2 follows on the 2nd."
+              },
+              {
+                "t": "p",
+                "x": "Kiff is available in Korean on iOS and Android apps for users aged 14 and over. Some conversations are free every day, and a monthly subscription of 3900원 unlocks unlimited chat."
+              },
+              {
+                "t": "p",
+                "x": "Park Jae-min, head of Krafton's AI Frontier Div., said, \"Krafton has long researched AI that lets in-game characters communicate naturally with users,\" adding, \"Building on that experience, we have created a new way for fans to enjoy an artist's world up close.\" He added, \"Starting with Kiff, we will expand our AI business to more artists and broader markets.\""
+              },
+              {
+                "t": "p",
+                "x": "Krafton plans to add more participating artists to Kiff and roll out features in stages, while also expanding the countries where the service is offered."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "クラフトン、K-POP\nAIチャット「Kiff」開始",
+          "body": "クラフトンがFIFTY FIFTYと作ったキャラ「ウェニ」と話す「Kiff」を公開した。",
+          "mini_headline": "クラフトンのAIチャット「Kiff」",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "クラフトン（代表キム・チャンハン）は2日、K-POP AIキャラクターチャットサービス「Kiff（キフ）」でAI事業化に乗り出すと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "同日に韓国国内でサービスを開始したKiffはクラフトンが開発・運営するサービスで、利用者はアーティスト本人が構想したキャラクターとK-POPを話題に会話し、ファン活動をより楽しめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "［写真＝クラフトン］"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "［写真＝クラフトン］"
+              },
+              {
+                "t": "p",
+                "x": "キャラクターは利用者の好みや過去の会話を覚えて次の会話に反映し、自分から話しかけることもある。アーティストの近況を伝え、それを話題に会話を続けることもできる。一日の会話を絵日記にしてくれる機能もある。"
+              },
+              {
+                "t": "p",
+                "x": "利用者はチャットモードでテキストで会話するか、キャラクターモードで画面上のキャラクターとやり取りできる。キャラクターモードでは、利用者が「こんにちは！」とあいさつするとキャラクターが手を振るなど、会話に合わせて動く。"
+              },
+              {
+                "t": "p",
+                "x": "Kiffの最初の参加アーティストは、ATTRAKT所属のガールグループ「FIFTY FIFTY」だ。FIFTY FIFTYの公式キャラクター「ウェニ」は、メンバーがペルソナの構想から外見の開発まで直接参加して作り上げた。"
+              },
+              {
+                "t": "p",
+                "x": "メンバーがクラフトンを訪れてウェニを作り上げていく過程は、Kiff公式YouTubeチャンネルの動画で見られる。去る24日に第1話が公開され、2日に第2話が続く。"
+              },
+              {
+                "t": "p",
+                "x": "Kiffは14歳以上を対象に、iOSとAndroidのアプリで韓国語で提供される。毎日一部の会話は無料で楽しめ、月3900원のサブスクリプションでチャットが無制限になる。"
+              },
+              {
+                "t": "p",
+                "x": "クラフトンAI Frontier Div.本部長のパク・ジェミン氏は「クラフトンはゲーム内のキャラクターが利用者と自然にコミュニケーションできるAIを長年研究してきた」とし、「その経験をもとに、ファンがアーティストの世界観をより身近に楽しめる新たな方法をつくった」と述べた。さらに「Kiffを皮切りに、より多くのアーティスト、より広い市場へとAI事業を拡大していく」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "クラフトンはKiffの参加アーティストを増やし、機能を順次追加するとともに、サービス提供国も広げていく計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "魁匠团推出K-pop AI\n角色聊天服务Kiff",
+          "body": "魁匠团推出Kiff，用户可与FIFTY FIFTY参与打造的角色“Weni”聊天。",
+          "mini_headline": "魁匠团AI聊天服务“Kiff”",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "魁匠团（代表金昌汉）2日宣布，将以K-pop AI角色聊天服务“Kiff”推进AI商业化。"
+              },
+              {
+                "t": "p",
+                "x": "当天在韩国国内上线的Kiff由魁匠团开发和运营，用户可以与艺人亲自构思的角色以K-pop为话题聊天，为追星活动增添乐趣。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "[图片=魁匠团]"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "[图片=魁匠团]"
+              },
+              {
+                "t": "p",
+                "x": "角色会记住用户的喜好和此前的对话，并在之后的对话中体现，有时还会主动搭话。角色也会传递艺人的近况，并围绕这些话题继续聊天。服务还提供把一天的聊天内容做成图画日记的功能。"
+              },
+              {
+                "t": "p",
+                "x": "用户可以在聊天模式下用文字对话，也可以在角色模式下与屏幕中的角色互动。在角色模式下，用户说“你好！”时，角色会挥手，随对话做出相应动作。"
+              },
+              {
+                "t": "p",
+                "x": "Kiff的首位合作艺人是ATTRAKT旗下女团FIFTY FIFTY。FIFTY FIFTY的官方角色Weni由成员们从人设构思到外形开发全程亲自参与打造。"
+              },
+              {
+                "t": "p",
+                "x": "成员们前往魁匠团打造Weni的过程，可以在Kiff官方YouTube频道观看。第1集已于24日公开，第2集于2日接续上线。"
+              },
+              {
+                "t": "p",
+                "x": "Kiff面向14岁以上用户，在iOS和安卓应用中以韩语提供。每天部分对话可免费使用，每月订阅3900원即可无限畅聊。"
+              },
+              {
+                "t": "p",
+                "x": "魁匠团AI Frontier Div.本部长朴在民表示：“魁匠团长期以来一直在研究让游戏角色与用户自然交流的AI。”他说：“基于这些经验，我们打造了一种让粉丝更近距离享受艺人世界观的新方式。”他还表示：“将以Kiff为起点，把AI业务扩展到更多艺人和更广阔的市场。”"
+              },
+              {
+                "t": "p",
+                "x": "魁匠团计划为Kiff增加更多合作艺人、陆续添加功能，同时扩大服务国家。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Krafton lanza Kiff, chat de IA\ncon personajes de K-pop",
+          "body": "Krafton lanzó Kiff, donde los usuarios conversan con Weni, un personaje creado junto a FIFTY FIFTY.",
+          "mini_headline": "Kiff, el chat de IA de Krafton",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Krafton (director ejecutivo: Kim Chang-han) anunció el día 2 que se lanza a comercializar la IA con Kiff, un servicio de chat con personajes de K-pop basado en IA (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Kiff, que empezó a funcionar ese mismo día en Corea, es un servicio desarrollado y operado por Krafton. Los usuarios pueden conversar sobre K-pop con personajes ideados por los propios artistas y hacer más divertida su actividad como fans."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "[Foto=Krafton]"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "[Foto=Krafton]"
+              },
+              {
+                "t": "p",
+                "x": "Los personajes recuerdan los gustos del usuario y las conversaciones anteriores, los tienen en cuenta en las siguientes y a veces inician ellos la charla. También pueden compartir novedades del artista y seguir conversando sobre ellas. Además, el servicio ofrece una función que convierte lo hablado durante el día en un diario ilustrado."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden chatear por texto en el modo chat o interactuar con el personaje en pantalla en el modo personaje. En este modo, si el usuario saluda con un \"¡Hola!\", el personaje mueve la mano, entre otros gestos acordes con la conversación."
+              },
+              {
+                "t": "p",
+                "x": "La primera artista en participar en Kiff es FIFTY FIFTY, grupo femenino de ATTRAKT. Weni, el personaje oficial de FIFTY FIFTY, fue creado con la participación directa de las integrantes, desde la concepción de su personalidad hasta el desarrollo de su aspecto."
+              },
+              {
+                "t": "p",
+                "x": "El proceso en que las integrantes visitan Krafton para crear a Weni puede verse en vídeo en el canal oficial de YouTube de Kiff. El episodio 1 se publicó el pasado día 24 y el episodio 2 llega el día 2."
+              },
+              {
+                "t": "p",
+                "x": "Kiff está disponible en coreano en las apps de iOS y Android para usuarios mayores de 14 años. Cada día se pueden mantener algunas conversaciones gratis, y con una suscripción mensual de 3900원 el chat es ilimitado."
+              },
+              {
+                "t": "p",
+                "x": "Park Jae-min, director de la AI Frontier Div. de Krafton, afirmó: \"Krafton lleva mucho tiempo investigando una IA que permita a los personajes de los juegos comunicarse con naturalidad con los usuarios\", y añadió: \"A partir de esa experiencia, hemos creado una nueva forma de que los fans disfruten de cerca del universo de los artistas\". También dijo: \"Empezando por Kiff, ampliaremos el negocio de IA a más artistas y a mercados más amplios\"."
+              },
+              {
+                "t": "p",
+                "x": "Krafton prevé sumar más artistas a Kiff, añadir funciones de forma progresiva y ampliar los países donde se ofrece el servicio."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Krafton launches Kiff, a K-pop\nAI character chat",
+          "body": "Krafton has launched Kiff, where users chat with Weni, a character made with FIFTY FIFTY.",
+          "mini_headline": "Krafton's AI chat Kiff",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Krafton (CEO Kim Chang-han) said on the 2nd that it is moving to commercialize AI with Kiff, a K-pop AI character chat service."
+              },
+              {
+                "t": "p",
+                "x": "Kiff, which launched in Korea that day, is developed and operated by Krafton. Users can chat about K-pop with characters conceived by the artists themselves, adding fun to their fan activities."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "[Photo=Krafton]"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "[Photo=Krafton]"
+              },
+              {
+                "t": "p",
+                "x": "The characters remember users' tastes and previous conversations, reflect them in later chats and sometimes start the conversation themselves. They can also share news about the artist and keep the conversation going on that topic. A feature that turns the day's conversations into a picture diary is also offered."
+              },
+              {
+                "t": "p",
+                "x": "Users can chat by text in chat mode or interact with the on-screen character in character mode. In character mode, the character moves along with the conversation, for example waving when the user says \"Hi!\""
+              },
+              {
+                "t": "p",
+                "x": "Kiff's first participating artist is FIFTY FIFTY, a girl group under ATTRAKT. FIFTY FIFTY's official character, Weni, was created with the members taking part directly, from conceiving the persona to developing its appearance."
+              },
+              {
+                "t": "p",
+                "x": "Videos of the members visiting Krafton to create Weni can be watched on Kiff's official YouTube channel. Episode 1 was released on the 24th, and Episode 2 follows on the 2nd."
+              },
+              {
+                "t": "p",
+                "x": "Kiff is available in Korean on iOS and Android apps for users aged 14 and over. Some conversations are free every day, and a monthly subscription of 3900원 unlocks unlimited chat."
+              },
+              {
+                "t": "p",
+                "x": "Park Jae-min, head of Krafton's AI Frontier Div., said, \"Krafton has long researched AI that lets in-game characters communicate naturally with users,\" adding, \"Building on that experience, we have created a new way for fans to enjoy an artist's world up close.\" He added, \"Starting with Kiff, we will expand our AI business to more artists and broader markets.\""
+              },
+              {
+                "t": "p",
+                "x": "Krafton plans to add more participating artists to Kiff and roll out features in stages, while also expanding the countries where the service is offered."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "クラフトン、K-POP\nAIチャット「Kiff」開始",
+          "body": "クラフトンがFIFTY FIFTYと作ったキャラ「ウェニ」と話す「Kiff」を公開した。",
+          "mini_headline": "クラフトンのAIチャット「Kiff」",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "クラフトン（代表キム・チャンハン）は2日、K-POP AIキャラクターチャットサービス「Kiff（キフ）」でAI事業化に乗り出すと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "同日に韓国国内でサービスを開始したKiffはクラフトンが開発・運営するサービスで、利用者はアーティスト本人が構想したキャラクターとK-POPを話題に会話し、ファン活動をより楽しめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "［写真＝クラフトン］"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "［写真＝クラフトン］"
+              },
+              {
+                "t": "p",
+                "x": "キャラクターは利用者の好みや過去の会話を覚えて次の会話に反映し、自分から話しかけることもある。アーティストの近況を伝え、それを話題に会話を続けることもできる。一日の会話を絵日記にしてくれる機能もある。"
+              },
+              {
+                "t": "p",
+                "x": "利用者はチャットモードでテキストで会話するか、キャラクターモードで画面上のキャラクターとやり取りできる。キャラクターモードでは、利用者が「こんにちは！」とあいさつするとキャラクターが手を振るなど、会話に合わせて動く。"
+              },
+              {
+                "t": "p",
+                "x": "Kiffの最初の参加アーティストは、ATTRAKT所属のガールグループ「FIFTY FIFTY」だ。FIFTY FIFTYの公式キャラクター「ウェニ」は、メンバーがペルソナの構想から外見の開発まで直接参加して作り上げた。"
+              },
+              {
+                "t": "p",
+                "x": "メンバーがクラフトンを訪れてウェニを作り上げていく過程は、Kiff公式YouTubeチャンネルの動画で見られる。去る24日に第1話が公開され、2日に第2話が続く。"
+              },
+              {
+                "t": "p",
+                "x": "Kiffは14歳以上を対象に、iOSとAndroidのアプリで韓国語で提供される。毎日一部の会話は無料で楽しめ、月3900원のサブスクリプションでチャットが無制限になる。"
+              },
+              {
+                "t": "p",
+                "x": "クラフトンAI Frontier Div.本部長のパク・ジェミン氏は「クラフトンはゲーム内のキャラクターが利用者と自然にコミュニケーションできるAIを長年研究してきた」とし、「その経験をもとに、ファンがアーティストの世界観をより身近に楽しめる新たな方法をつくった」と述べた。さらに「Kiffを皮切りに、より多くのアーティスト、より広い市場へとAI事業を拡大していく」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "クラフトンはKiffの参加アーティストを増やし、機能を順次追加するとともに、サービス提供国も広げていく計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "魁匠团推出K-pop AI\n角色聊天服务Kiff",
+          "body": "魁匠团推出Kiff，用户可与FIFTY FIFTY参与打造的角色“Weni”聊天。",
+          "mini_headline": "魁匠团AI聊天服务“Kiff”",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "魁匠团（代表金昌汉）2日宣布，将以K-pop AI角色聊天服务“Kiff”推进AI商业化。"
+              },
+              {
+                "t": "p",
+                "x": "当天在韩国国内上线的Kiff由魁匠团开发和运营，用户可以与艺人亲自构思的角色以K-pop为话题聊天，为追星活动增添乐趣。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "[图片=魁匠团]"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "[图片=魁匠团]"
+              },
+              {
+                "t": "p",
+                "x": "角色会记住用户的喜好和此前的对话，并在之后的对话中体现，有时还会主动搭话。角色也会传递艺人的近况，并围绕这些话题继续聊天。服务还提供把一天的聊天内容做成图画日记的功能。"
+              },
+              {
+                "t": "p",
+                "x": "用户可以在聊天模式下用文字对话，也可以在角色模式下与屏幕中的角色互动。在角色模式下，用户说“你好！”时，角色会挥手，随对话做出相应动作。"
+              },
+              {
+                "t": "p",
+                "x": "Kiff的首位合作艺人是ATTRAKT旗下女团FIFTY FIFTY。FIFTY FIFTY的官方角色Weni由成员们从人设构思到外形开发全程亲自参与打造。"
+              },
+              {
+                "t": "p",
+                "x": "成员们前往魁匠团打造Weni的过程，可以在Kiff官方YouTube频道观看。第1集已于24日公开，第2集于2日接续上线。"
+              },
+              {
+                "t": "p",
+                "x": "Kiff面向14岁以上用户，在iOS和安卓应用中以韩语提供。每天部分对话可免费使用，每月订阅3900원即可无限畅聊。"
+              },
+              {
+                "t": "p",
+                "x": "魁匠团AI Frontier Div.本部长朴在民表示：“魁匠团长期以来一直在研究让游戏角色与用户自然交流的AI。”他说：“基于这些经验，我们打造了一种让粉丝更近距离享受艺人世界观的新方式。”他还表示：“将以Kiff为起点，把AI业务扩展到更多艺人和更广阔的市场。”"
+              },
+              {
+                "t": "p",
+                "x": "魁匠团计划为Kiff增加更多合作艺人、陆续添加功能，同时扩大服务国家。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Krafton lanza Kiff, chat de IA\ncon personajes de K-pop",
+          "body": "Krafton lanzó Kiff, donde los usuarios conversan con Weni, un personaje creado junto a FIFTY FIFTY.",
+          "mini_headline": "Kiff, el chat de IA de Krafton",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Krafton (director ejecutivo: Kim Chang-han) anunció el día 2 que se lanza a comercializar la IA con Kiff, un servicio de chat con personajes de K-pop basado en IA (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Kiff, que empezó a funcionar ese mismo día en Corea, es un servicio desarrollado y operado por Krafton. Los usuarios pueden conversar sobre K-pop con personajes ideados por los propios artistas y hacer más divertida su actividad como fans."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+                "cap": "[Foto=Krafton]"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+                "cap": "[Foto=Krafton]"
+              },
+              {
+                "t": "p",
+                "x": "Los personajes recuerdan los gustos del usuario y las conversaciones anteriores, los tienen en cuenta en las siguientes y a veces inician ellos la charla. También pueden compartir novedades del artista y seguir conversando sobre ellas. Además, el servicio ofrece una función que convierte lo hablado durante el día en un diario ilustrado."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden chatear por texto en el modo chat o interactuar con el personaje en pantalla en el modo personaje. En este modo, si el usuario saluda con un \"¡Hola!\", el personaje mueve la mano, entre otros gestos acordes con la conversación."
+              },
+              {
+                "t": "p",
+                "x": "La primera artista en participar en Kiff es FIFTY FIFTY, grupo femenino de ATTRAKT. Weni, el personaje oficial de FIFTY FIFTY, fue creado con la participación directa de las integrantes, desde la concepción de su personalidad hasta el desarrollo de su aspecto."
+              },
+              {
+                "t": "p",
+                "x": "El proceso en que las integrantes visitan Krafton para crear a Weni puede verse en vídeo en el canal oficial de YouTube de Kiff. El episodio 1 se publicó el pasado día 24 y el episodio 2 llega el día 2."
+              },
+              {
+                "t": "p",
+                "x": "Kiff está disponible en coreano en las apps de iOS y Android para usuarios mayores de 14 años. Cada día se pueden mantener algunas conversaciones gratis, y con una suscripción mensual de 3900원 el chat es ilimitado."
+              },
+              {
+                "t": "p",
+                "x": "Park Jae-min, director de la AI Frontier Div. de Krafton, afirmó: \"Krafton lleva mucho tiempo investigando una IA que permita a los personajes de los juegos comunicarse con naturalidad con los usuarios\", y añadió: \"A partir de esa experiencia, hemos creado una nueva forma de que los fans disfruten de cerca del universo de los artistas\". También dijo: \"Empezando por Kiff, ampliaremos el negocio de IA a más artistas y a mercados más amplios\"."
+              },
+              {
+                "t": "p",
+                "x": "Krafton prevé sumar más artistas a Kiff, añadir funciones de forma progresiva y ampliar los países donde se ofrece el servicio."
               }
             ]
           }

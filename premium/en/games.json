@@ -9848,6 +9848,154 @@
           "x": "The rule may only deter the most low-effort copycats: safety limits can be sidestepped with rhetorical tricks, it's unclear how the software would know whether a user owns a game idea or assets, and cloners can turn to open-weight models with no such restrictions."
         }
       ]
+    },
+    "games/itchio-ai-terabytes-purge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
+          "cap": "Itch.io"
+        },
+        {
+          "t": "p",
+          "x": "It’s not gonna solve the problem overnight, but it’s a start: Itch kicked off the week by announcing that it’s combatting an eye-watering uptick in AI-generated trash by deleting “a couple terabytes” of the stuff and enforcing AI disclosure rules in more places."
+        },
+        {
+          "t": "p",
+          "x": "“Just because you can upload 10 terabytes of poorly optimized AI-generated models doesn't mean you should upload 10 terabytes of poorly optimized AI-generated models,” reads a post from the platform’s Bluesky account."
+        },
+        {
+          "t": "p",
+          "x": "Further, Itch has updated its AI disclosure requirement to include tabletop, comics, and soundtracks and has also added AI disclosure filtering to places where it was “critically lacking,” including the search page."
+        },
+        {
+          "t": "p",
+          "x": "While many have called for Itch to ban AI-generated content outright, that does not appear to be in the cards, at least for now. The site’s Bluesky account linked to AI spam rules that have been around for two years, which it used as a justification for deleting multiple terabytes of slop. Against these rules are games or projects “predominantly created by algorithms or AI with minimal human intervention.”"
+        },
+        {
+          "t": "p",
+          "x": "But the page specifically notes that “in some cases automatically generated or AI-generated content can be useful or interesting” and that AI has a place on the platform as long as “it adds substantial value to the user experience” and is properly disclosed."
+        },
+        {
+          "t": "p",
+          "x": "But of course, people can still just opt to not disclose that their games incorporate generative AI, leaving Itch’s staff—tiny compared to, say, Steam’s—with little recourse other than to repeatedly play whack-a-mole."
+        }
+      ]
+    },
+    "games/food-devils-steam-delay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image credit: Studio Daimon"
+        },
+        {
+          "t": "p",
+          "x": "Food Devils, a salacious, foodie take on Fire Emblem, was meant to release today, but it's not actually out yet. In a Steam blog post, developer Studio Daimon explained that devs see a disclaimer saying review “typically takes 3-5 business days, but please allow up to 7 business days.” The team submitted their build on October 12th, more than 20 days ago, with no approval in sight."
+        },
+        {
+          "t": "video",
+          "yt": "eAUlEcrd6-8"
+        },
+        {
+          "t": "p",
+          "x": "The reason? “We can only assume it's because Steam's review queue is clogged up by AI slop, but the whole process is now taking several weeks for some developers.” Game Discovery Tool found that more than 50% of games released in October on Steam featured an AI disclosure, up from just over 14% in January 2025 and a little over 25% in January 2026. According to SteamDB, a little over 2000 games released in October 2025; in October 2026, almost 4000."
+        },
+        {
+          "t": "p",
+          "x": "“Even now, we don't know when Steam will give us the final OK to finally release our game,” the devs wrote. They're hoping to still release it by the end of the week, but “can't make any plans or promises because it's out of our control.”"
+        }
+      ]
+    },
+    "games/playgama-ai-game-index": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus is building more than half of the new AI-made games on Playgama, but OpenAI’s Astra is making the ones players like most. That’s according to the company’s first AI Game Index, which tracks 4,200 games published between September 22 and October 21 and ranks AI models and coding agents on playtime, player likes and share of new games."
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus powers 54% of new games, followed by OpenAI’s Sol at 11%, Claude Sonnet at 8%, OpenAI’s Astra at 3.8%, Claude Fable at 3%, Gemini Pro at 1.9%, Gemini Flash at 1.8% and DeepSeek at 1.6%. Players like Astra-built games the most, with a median 65 likes per 1,000 plays; Opus ranks sixth of eight rated models at 39. Astra games also hold players longest, at a median 4 minutes 58 seconds per play."
+        },
+        {
+          "t": "p",
+          "x": "The median Codex-built game earns 65 likes per 1,000 plays, versus just 43 for Claude Code. “Look at the index as a thermometer, not a judge,” said founder Dmitry Kachmar. “A year ago, making a game required a team and months of work. Now, one person can build a game with an AI agent in one evening.” The index covers only Playgama’s own platform, model information is self-reported, and it is updated daily."
+        }
+      ]
+    },
+    "games/krafton-kiff-kpop-chat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Krafton (CEO Kim Chang-han) said on the 2nd that it is moving to commercialize AI with Kiff, a K-pop AI character chat service."
+        },
+        {
+          "t": "p",
+          "x": "Kiff, which launched in Korea that day, is developed and operated by Krafton. Users can chat about K-pop with characters conceived by the artists themselves, adding fun to their fan activities."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
+          "cap": "[Photo=Krafton]"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
+          "cap": "[Photo=Krafton]"
+        },
+        {
+          "t": "p",
+          "x": "The characters remember users' tastes and previous conversations, reflect them in later chats and sometimes start the conversation themselves. They can also share news about the artist and keep the conversation going on that topic. A feature that turns the day's conversations into a picture diary is also offered."
+        },
+        {
+          "t": "p",
+          "x": "Users can chat by text in chat mode or interact with the on-screen character in character mode. In character mode, the character moves along with the conversation, for example waving when the user says \"Hi!\""
+        },
+        {
+          "t": "p",
+          "x": "Kiff's first participating artist is FIFTY FIFTY, a girl group under ATTRAKT. FIFTY FIFTY's official character, Weni, was created with the members taking part directly, from conceiving the persona to developing its appearance."
+        },
+        {
+          "t": "p",
+          "x": "Videos of the members visiting Krafton to create Weni can be watched on Kiff's official YouTube channel. Episode 1 was released on the 24th, and Episode 2 follows on the 2nd."
+        },
+        {
+          "t": "p",
+          "x": "Kiff is available in Korean on iOS and Android apps for users aged 14 and over. Some conversations are free every day, and a monthly subscription of 3900원 unlocks unlimited chat."
+        },
+        {
+          "t": "p",
+          "x": "Park Jae-min, head of Krafton's AI Frontier Div., said, \"Krafton has long researched AI that lets in-game characters communicate naturally with users,\" adding, \"Building on that experience, we have created a new way for fans to enjoy an artist's world up close.\" He added, \"Starting with Kiff, we will expand our AI business to more artists and broader markets.\""
+        },
+        {
+          "t": "p",
+          "x": "Krafton plans to add more participating artists to Kiff and roll out features in stages, while also expanding the countries where the service is offered."
+        }
+      ]
+    },
+    "games/unity-antigravity-plugin": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "gobNINSU3JE"
+        },
+        {
+          "t": "p",
+          "x": "The Unity plugin is officially live in the Plugin marketplace in Antigravity."
+        },
+        {
+          "t": "p",
+          "x": "Through our partnership with Google Antigravity, we're making it seamless to bring real-time 3D development directly into powerful agentic workflows. Instead of navigating fragmented multi-step setups, developers can now connect Unity to Antigravity with a single click."
+        },
+        {
+          "t": "p",
+          "x": "We know how important it is to connect the tools you already rely on, and this brings agentic workflows straight into your build pipeline."
+        }
+      ]
     }
   }
 }

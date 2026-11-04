@@ -10509,6 +10509,151 @@
           "x": "Meta's efforts to break into humanoid robots began as early as last year after Bloomberg reported that the company created a new team tasked with building robot hardware with the eventual goal of being able to do household chores. Following that report, Meta acquired a startup that's known for building artificial intelligence specifically for robots, earlier this year."
         }
       ]
+    },
+    "gadgets/siri-ai-thirdparty-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI’s new features in “all apps,” allowing the voice assistant to draw on a user’s personal context, process natural language prompts, and use on-screen awareness to complete requests."
+        },
+        {
+          "t": "p",
+          "x": "The update, which is rolling out as part of a Developer Preview, also adds a new “app skills” feature that third-party developers can create to combine several tasks into a single action. In Apple’s developer documentation, the company says users won’t have to mention an app’s name in their request while it’s in the foreground, during a Live Activity, or in a conversation with Siri AI about the app."
+        },
+        {
+          "t": "p",
+          "x": "“For example, a person might request a ride with a ride share app, follow updates to the app’s Live Activity while they wait for their ride to arrive, then request to move the pickup location to a different address by saying ‘Hey Siri, change my ride pickup to a new address,’” Apple says. As noted by 9to5Mac, Apple previously made a smaller set of features available to third-party developers."
+        },
+        {
+          "t": "p",
+          "x": "Apple is bringing Siri AI’s expanded capabilities to its own apps as well, including Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, and Weather apps. “Users can do things like find a coffee shop they visited last week or archive files that haven’t been opened in over a year,” according to Apple. The company notes that users can ask Siri AI what it can do in each app."
+        }
+      ]
+    },
+    "gadgets/sonos-27voice-early-access": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
+          "cap": "A black Sonos Beam Ultra soundbar under a TV."
+        },
+        {
+          "t": "p",
+          "x": "Sonos has announced that its new voice assistant, Sonos 27voice, will be available to test in early access on November 6, as part of an update rolling out this week. A revamped voice assistant was one of several new features planned for its new underlying Sonos 27 software."
+        },
+        {
+          "t": "p",
+          "x": "Like the previous Voice Control feature, Sonos 27voice can control playback, set timers, interact with supported smart home accessories and tell you the weather. What's different is that it understands and responds to natural language requests and can answer questions about a much broader range of general knowledge — you could ask it to \"play that Bowie album about an adventure in space\" or \"who won the Super Bowl this year.\""
+        },
+        {
+          "t": "p",
+          "x": "To try it you'll have to request early access inside the Sonos app and get approved. Sonos says it's testing the feature with a smaller group of users ahead of a full 2027 release to collect feedback (and likely avoid the blowback associated with its disastrous 2024 app redesign). Sonos is also introducing Presets and System Health."
+        },
+        {
+          "t": "p",
+          "x": "Sonos 27voice is only available in the US during early access, and only in English. Sonos 27 itself is limited to hardware on Sonos' S2 platform."
+        }
+      ]
+    },
+    "gadgets/cyclon-ai-phone-yc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Cyclon AI phone"
+        },
+        {
+          "t": "p",
+          "x": "Most of what we do on our phones still follows the same routine. You open an app, tap through a few screens, and finish the task yourself. Cyclon, a startup from Y Combinator’s F26 batch, wants to hand that whole routine over to AI with a phone it hopes will replace your iPhone."
+        },
+        {
+          "t": "p",
+          "x": "Most assistants rely on developers to build integrations before they can do anything inside an app. Cyclon doesn’t wait for that. It moves through apps the same way you do and can jump between several of them to finish a job."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Cyclon ai phone software mockup"
+        },
+        {
+          "t": "p",
+          "x": "Say you want to send a friend some photos buried in a WhatsApp chat. You can ask Cyclon to find them and send them over. When the app you need doesn’t exist, Cyclon builds one on the spot, and it keeps working in the background while your phone sits in your pocket."
+        },
+        {
+          "t": "p",
+          "x": "You can get one today. The first batch of Cyclon phones is a Pixel 8a with Cyclon preinstalled, and the company ships it within 30 days of your preorder. Starting with a Pixel makes sense because Cyclon’s work happens almost entirely at the operating system level."
+        },
+        {
+          "t": "p",
+          "x": "Custom hardware is still on the roadmap, though. With its own phone, Cyclon plans to run more powerful AI models locally and pair them with cloud models, keeping as much of your personal data on the device as possible."
+        },
+        {
+          "t": "p",
+          "x": "Every app has its own layout and quirks, and an AI that taps through screens has to handle them all. If Cyclon pulls that off, it could save us from a lot of tedious work. If it can’t, it risks becoming another assistant that promises more than it delivers."
+        }
+      ]
+    },
+    "gadgets/chatgpt-dots-astra-1104": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is making ChatGPT Dots more capable, but the interesting part isn't just that they're getting access to more powerful AI models. It's that they'll be able to choose the right model for whatever you're asking."
+        },
+        {
+          "t": "p",
+          "x": "Thibault Sottiaux, who works on Codex and ChatGPT at OpenAI, shared on X that the company is expanding the lineup of models powering Dots. This includes GPT-6 Astra and GPT-6.1 Terra, with more expected to arrive down the road. According to Sottiaux, Terra brings faster performance and a more pleasant personality, while also helping OpenAI make Dots available to more people."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT Dots are personal AI assistants that can keep working on things even when you're away. Your Dot can remember what you're working on and pick up where it left off, and you can now chat with it directly through Google Messages or iMessage."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
+          "cap": "Thibault Sottiaux / X"
+        },
+        {
+          "t": "p",
+          "x": "Sottiaux says Dots will automatically choose the right model for the job, even switching between models for different parts of the same task. Of course, we'll have to see how well this works in practice."
+        }
+      ]
+    },
+    "gadgets/google-nasa-robot-doctor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google is developing a robotic medical assistant with NASA to help astronauts handle health emergencies and routine duties during future deep-space expeditions. The project brings together Google Cloud, NASA's Human Research Program, Johnson Space Center's robotics team, and the Jet Propulsion Laboratory, building on the Crew Medical Officer Digital Assistant that Google and NASA have been evaluating since 2025."
+        },
+        {
+          "t": "p",
+          "x": "“An astronaut on a future deep space mission to Mars could face severe operational challenges, including round-trip communication latencies of up to 44 minutes,” said Jim Kelly, Google's public sector vice president. Rather than replacing the crew's medical officer, the robot would assist with practical tasks, leaving diagnosis and treatment decisions under human supervision — for example, retrieving and preparing ultrasound equipment for an astronaut with intense back pain possibly linked to kidney stones."
+        },
+        {
+          "t": "p",
+          "x": "Google is adapting JPL navigation technology and used DeepMind's MuJoCo physics simulator to assess movement and object handling. In initial laboratory trials, the robot achieved an 85% success rate when locating and moving a medical bag. Google describes the work as a proof of concept, with no confirmed space-ready robot."
+        },
+        {
+          "t": "p",
+          "x": "“The ultimate goal is to build a robotic system that can execute a variety of tasks via simple voice instructions, under the astronauts’ direct supervision and command,” Kelly said."
+        }
+      ]
     }
   }
 }

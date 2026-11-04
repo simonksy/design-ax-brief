@@ -1,246 +1,128 @@
 {
   "section": "music",
-  "now_iso": "2026-11-02T22:04:00Z",
+  "now_iso": "2026-11-03T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Alphabet shareholder sues Sundar Pichai and 12 others over training Google's AI, including Lyria, on copyrighted works",
-      "url": "https://www.musicbusinessworldwide.com/alphabet-shareholder-sues-sundar-pichai-and-12-others-over-training-googles-ai-including-lyria-on-copyrighted-works/",
-      "source": "Music Business Worldwide",
+      "title": "Suno Says Jason Isbell Lawsuit Over Artist 'Identities' Must Be Dismissed: 'Nothing Unlawful About That'",
+      "url": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/",
+      "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-11-02T18:32:50+00:00",
-      "excerpt": "Shareholder Phil Rosen filed a 79-page derivative suit on Oct 30 in Chicago federal court alleging Alphabet's leadership knowingly trained AI models, including the Lyria music models, on copyrighted recordings, compositions, lyrics and voices.",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2023/10/shutterstock_552493561.jpg",
-      "history_match": {
-        "score": 0.165,
-        "date": "2026-10-12",
-        "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-        "title": "Google's new SynthID website can identify AI-generated media",
-        "band": "related"
-      }
+      "published_iso": "2026-11-03T22:25:48+00:00",
+      "excerpt": "Suno filed a motion to dismiss Jason Isbell's class action alleging the AI music platform stole the artistic identities of Isbell and other artists, arguing there is 'nothing unlawful' about letting users prompt for an artist's style.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
     },
     {
-      "title": "UMG, Sony, and DistroKid tell court they are 'working on a resolution' in dispute over AI music data for Suno case",
-      "url": "https://www.musicbusinessworldwide.com/umg-sony-and-distrokid-tell-court-they-are-working-on-a-resolution-in-dispute-over-ai-music-data-for-suno-case/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-11-02T14:25:49+00:00",
-      "excerpt": "The two majors are seeking data from DistroKid on how many of the tracks it delivers to streaming services are flagged as AI-generated, and the parties now say they are working toward a resolution.",
-      "og_image": null,
-      "history_match": {
-        "score": 0.358,
-        "date": "2026-10-17",
-        "url": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
-        "title": "UMG & Sony Demand DistroKid Tell How Many AI Songs It Uploads From Suno: 'Staggering Scale'",
-        "band": "related"
-      }
-    },
-    {
-      "title": "GEMA on AI: 'The most important thing is we get an output remuneration'",
-      "url": "https://musically.com/2026/11/02/gema-on-ai-the-most-important-thing-is-we-get-an-output-remuneration/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-11-02T13:30:00+00:00",
-      "excerpt": "Having won an initial ruling against Suno in Germany, collecting society GEMA is weighing its next AI moves; general counsel Dr Kai Welp says getting remuneration on AI outputs, not just training, is the priority.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-02T130137.014.png?fit=2000%2C1500&ssl=1"
-    },
-    {
-      "title": "SkillBox has launched an AI-powered 'event creation' engine",
-      "url": "https://musically.com/2026/10/29/skillbox-has-launched-an-ai-powered-event-creation-engine/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-10-29T10:25:15+00:00",
-      "excerpt": "Indian live entertainment company SkillBox launched Zenith Studio, which lets organisers generate listings, descriptions, ticketing information and artwork from a single-line prompt.",
-      "og_image": "https://musically.com/wp-content/uploads/2026/10/Skillbox-new-logo.jpg"
-    },
-    {
-      "title": "What Is Attribution?",
-      "url": "https://www.digitalmusicnews.com/2026/11/01/what-is-attribution-metadata-music-ai/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-11-02T04:45:35+00:00",
-      "excerpt": "An interview with Benji Rogers on AI attribution - seeing which compositions, recordings and performances shaped an AI-generated result - as a foundation for credit, consent, licensing and payment in AI music.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/what-is-attrbution-podcast-screengrab-Large.jpeg",
-      "history_match": {
-        "score": 0.225,
-        "date": "2026-10-10",
-        "url": "https://arxiv.org/abs/2610.09637",
-        "title": "Tracing Inputs, Verifying Outputs: Validating Attribution in Music Generation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Music Artists Coalition File Brief in NYT v. OpenAI, Microsoft",
-      "url": "https://www.digitalmusicnews.com/2026/11/01/music-artists-coalition-brief-openai-microsoft/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-11-02T04:21:35+00:00",
-      "excerpt": "Cate Blanchett's Human Consent Foundation, joined by the Music Artists Coalition and other artist-advocacy groups, filed an amicus brief backing the New York Times in its AI-training lawsuit against OpenAI and Microsoft.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/music-artists-coalition-hollywood-consortium-file-amicus-brief-against-openai-microsoft.png"
-    },
-    {
-      "title": "Suno Plows Ahead With MLC Subpoena, Sets Response Deadline",
-      "url": "https://www.digitalmusicnews.com/2026/10/30/suno-mlc-subpoena-schedule/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-10-30T20:51:29+00:00",
-      "excerpt": "Suno is pressing its subpoena against the Mechanical Licensing Collective in the UMG/Sony case, with a court-ordered response schedule; the MLC is expected to formally oppose in early November.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/FT-Courthouse.jpg",
-      "history_match": {
-        "score": 0.26,
-        "date": "2026-10-25",
-        "url": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/",
-        "title": "Suno v. MLC Subpoena Dispute Boils Over as AI Platform Demands Multiple Years of DSP-Specific Streaming Data",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Meet Chat: Our In-house Studio Assistant",
-      "url": "https://suno.com/blog/studio-chat-assistant",
-      "source": "Suno",
-      "category": "music",
-      "published_iso": "2026-10-29T16:00:00+00:00",
-      "excerpt": "Suno details Chat, the AI assistant built into Suno Studio that can generate stems and plugins, rename tracks, move multiple faders, insert plugin chains across a session and suggest creative directions.",
-      "og_image": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format"
-    },
-    {
-      "title": "Tamber 2.0 Review: 'This suite is exactly the kind of thing we've been waiting to see'",
-      "url": "https://musictech.com/reviews/software-instruments/tamber-2/",
+      "title": "iZotope Photon is a local stem separation and denoising tool that runs off your GPU",
+      "url": "https://musictech.com/news/gear/izotope-photon/",
       "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-11-02T12:44:51+00:00",
-      "excerpt": "MusicTech reviews Tamber 2.0, an AI suite whose assistant Tamby works inside Ableton Live 11/12 to create tracks, add plugins and arm recordings by prompt; the reviewer says the $9.99/month suite has genuine depth.",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/10/Tamber-2.0-Gestures-interface-hero-credit-Clovis-McEvoy@2000x1500-1068x801.jpg"
+      "published_iso": "2026-11-03T16:45:13+00:00",
+      "excerpt": "iZotope has launched Photon, an AI-powered stem separation and audio cleanup tool powered by 12 custom-trained models that processes audio locally on the GPU instead of uploading files to the cloud.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500-1068x801.jpg"
     },
     {
-      "title": "CJ ENM, 허드슨AI 더빙으로 K-댄스 북미 FAST 확장",
-      "url": "https://www.kentertechhub.com/cj-enm-k-dance-fast-kr/",
-      "source": "K-EnterTech Hub",
+      "title": "iZotope launches Photon, the company's first plugin developed with new owner Boris FX",
+      "url": "https://www.musicradar.com/music-tech/choose-your-model-let-the-magic-happen-export-and-youre-done-izotope-launches-photon-the-companys-first-plugin-developed-with-new-owners-boris-fx",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-10-31T10:26:00+00:00",
-      "excerpt": "CJ ENM opened a K-dance FAST channel on LG Channels in North America, using the Hudson AI consortium's English and Spanish AI dubbing to widen its audience.",
-      "og_image": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/10/xvsics_202610311056.jpg"
+      "published_iso": "2026-11-03T16:00:00Z",
+      "excerpt": "Photon is a standalone app and ARA plugin offering 12 machine-learning models for demixing music into stems, splitting drum kits and denoising dialogue; it is iZotope's first product built with new owner Boris FX.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/y4oLzzUeYqNeTfukjEQghm-2112-80.jpg"
     },
     {
-      "title": "A Tutorial on Generative Models for Music Audio",
-      "url": "https://arxiv.org/abs/2610.38252",
-      "source": "arXiv",
+      "title": "Music industry intervenes in Open AI's big legal battle with newspapers and authors",
+      "url": "https://completemusicupdate.com/music-industry-intervenes-in-open-ais-big-legal-battle-with-newspapers-and-authors/",
+      "source": "CMU",
       "category": "music",
-      "published_iso": "2026-10-28T04:04:24+00:00",
-      "excerpt": "A monograph explaining the methods behind music audio generation - neural codecs, autoregressive and masked token models, diffusion and flow matching, sampling acceleration, preference optimization and real-time systems that play alongside musicians.",
-      "og_image": null,
+      "published_iso": "2026-11-03T17:31:31.000Z",
+      "excerpt": "RIAA, NMPA, A2IM, SONA and ARA filed an amicus brief in the authors' and newspapers' case against OpenAI, setting out why AI training should never be fair use - the same question that decides the labels' suits against Suno, Udio and Anthropic.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png",
       "history_match": {
-        "score": 0.204,
-        "date": "2026-10-26",
-        "url": "https://arxiv.org/abs/2610.17821",
-        "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
+        "score": 0.166,
+        "date": "2026-10-23",
+        "url": "https://completemusicupdate.com/claudes-lyrics-are-diluting-real-lyrics-say-music-publishers-in-latest-anthropic-proceedings/",
+        "title": "Claude's lyrics are diluting real lyrics, say music publishers in latest Anthropic proceedings",
         "band": "related"
       }
     },
     {
-      "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion (AMBIT)",
-      "url": "https://arxiv.org/abs/2610.34415",
-      "source": "arXiv",
+      "title": "10 of the 45 new 'idol' groups in South Korea this year are virtual",
+      "url": "https://musically.com/2026/11/03/10-of-the-45-new-idol-groups-in-south-korea-this-year-are-virtual/",
+      "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-10-25T16:13:07+00:00",
-      "excerpt": "AMBIT is a unified framework for native First-Order Ambisonics generation and editing, coupling autoregressive planning with rectified-flow rendering via executable ScenePlans that specify sources, activity and spatial placement.",
-      "og_image": null
-    },
-    {
-      "title": "Multimodal Concert Video Editing: System Design and Exploratory Evaluation",
-      "url": "https://arxiv.org/abs/2610.35816",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-26T17:43:58+00:00",
-      "excerpt": "A modular framework that auto-edits multi-camera concert footage by combining multitrack instrument activity, visible-instrument detection, sharpness and beat-based cut timing with probabilistic camera selection.",
-      "og_image": null
-    },
-    {
-      "title": "Kid Rock Reveals He Used AI on New Song with Eminem",
-      "url": "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/",
-      "source": "Consequence",
-      "category": "music",
-      "published_iso": "2026-11-01T15:21:25-05:00",
-      "excerpt": "Kid Rock says he used AI to create part of 'Heal My Faith', his Eminem collaboration on the Christian album Halfway 2 Jesus - reportedly the gospel choir - calling AI 'another tool'.",
-      "og_image": "https://consequence.net/wp-content/uploads/2026/10/Eminem-Kid-Rock.jpeg",
-      "off_list": true
-    },
-    {
-      "title": "Fans divided over 59-year-old Leon Lai's de-aged AI music video",
-      "url": "https://www.nst.com.my/lifestyle/groove/2026/11/1569018/showbiz-fans-divided-over-59-year-old-leon-lais-de-aged-ai-music",
-      "source": "New Straits Times",
-      "category": "music",
-      "published_iso": "2026-11-02T15:00:22+08:00",
-      "excerpt": "Hong Kong singer Leon Lai, 59, released a music video using AI to render him as his 19-year-old self, splitting fans over whether the de-aged look works.",
-      "og_image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/0742FABD260F86732E8C13E729BFA440_data.jpg",
-      "off_list": true
-    },
-    {
-      "title": "Dawesome Myth 1.81: free update adds 13 new effects to the machine-learning resynthesizer plugin",
-      "url": "https://synthanatomy.com/2026/11/dawesome-myth-new-synthesizer-takes-you-on-an-ai-supported-resynthesis-journey.html",
-      "source": "Synth Anatomy",
-      "category": "music",
-      "published_iso": "2026-11-01T14:53:20+00:00",
-      "excerpt": "Dawesome's Myth, a modular-style synth plugin built on AI-supported resynthesis, gets a free 1.81 update adding 13 new effects.",
-      "og_image": "https://synthanatomy.com/wp-content/uploads/2024/11/Dawesome-Myth-1.81.jpg",
-      "off_list": true,
+      "published_iso": "2026-11-03T13:30:00+00:00",
+      "excerpt": "Music Ally picks up the Seoul Music Forum stat that one in four new K-pop acts in 2026 is virtual, as AI-driven virtual idols move from novelty into the mainstream debut pipeline.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-03T122203.534.png?fit=2000%2C1500&ssl=1",
       "history_match": {
-        "score": 0.232,
-        "date": "2026-10-28",
-        "url": "https://www.gearnews.com/tracktion-waveform-pro-studio/",
-        "title": "Tracktion Waveform Pro 14.1 Update Adds AI-Assisted Plugin Creation",
+        "score": 0.188,
+        "date": "2026-10-18",
+        "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
+        "title": "Suno-made track 'The Adult I Dreamed Of' is a hit in South Korea",
+        "band": "related"
+      },
+      "cluster": "c4"
+    },
+    {
+      "title": "A&R startup Acaply wants to help producers easily source vocals",
+      "url": "https://musically.com/2026/11/03/ar-startup-acaply-wants-to-help-producers-easily-source-vocals/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-11-03T13:30:00+00:00",
+      "excerpt": "With voice cloning letting singers' voices be copied without permission, startup Acaply pitches a platform for producers to source licensed vocals from real singers.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-03T122508.506.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "title": "Disney has fought AI firms over copyright. Now it's testing AI lyric videos.",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
+      "source": "Los Angeles Times",
+      "category": "music",
+      "published_iso": "2026-11-03T22:32:04Z",
+      "excerpt": "Disney is working with AI startup OpenArt to conceptualize lyric videos, starting with 'Go the Distance' from Hercules - a test of generative video on its own music catalog.",
+      "og_image": "https://ca-times.brightspotcdn.com/dims4/default/84f0170/2147483647/strip/true/crop/3900x2048+0+440/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+    },
+    {
+      "title": "Is Spotify's Anti-Spam Crackdown Catching Legitimate Music in the Crossfire?",
+      "url": "https://www.digitalmusicnews.com/2026/11/03/spotify-anti-spam-crackdown-legitimate-music/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-11-03T17:46:09+00:00",
+      "excerpt": "11A founder Austin Staubus says Spotify's systems to curb AI-driven slop may be overcorrecting: follower growth fell across 50 monitored bot-free playlists, 22 of which reversed or lost followers.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/is-spotify-spam-crackdown-catching-legitimate-music.png",
+      "history_match": {
+        "score": 0.276,
+        "date": "2026-10-06",
+        "url": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
+        "title": "Spotify Editorial Playlists' Followers & Listeners Slip Amid Fake Account and AI Slop Crackdowns, Report Finds",
         "band": "related"
       }
     },
     {
-      "title": "Seoul Music Forum explores humanism in AI age, with one in four K-pop acts now virtual",
-      "url": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
-      "source": "Korea JoongAng Daily",
-      "category": "music",
-      "published_iso": "2026-11-02T08:17:28+00:00",
-      "excerpt": "The 2026 Seoul Music Forum examined AI's rise in music, noting that one in four K-pop acts is now virtual, and debated what it means for labels.",
-      "og_image": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "off_list": true
-    },
-    {
-      "title": "일본음악저작권협회, 인간이 창작한 음악 보호 위해 AI 생성곡 탐지 나서",
-      "url": "https://www.kdfnews.com/news/articleView.html?idxno=190260",
-      "source": "한국면세뉴스",
-      "category": "music",
-      "published_iso": "2026-11-03T00:10:00+09:00",
-      "excerpt": "JASRAC is excluding AI-generated songs from copyright management and pursuing a detection system to identify AI-made tracks, since registrations rely on composers' self-declaration (per Asahi Shimbun, Oct 30).",
-      "og_image": "http://www.kdfnews.com/news/thumbnail/202611/190260_243178_4348_v150.jpg",
-      "off_list": true
-    },
-    {
-      "title": "나이비, 하이엔드 음악 유통사 HREUM(흐름) 출범…AI 공동창작 음악도 듣고 판단해 유통",
-      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13167",
-      "source": "AI포스트",
-      "category": "music",
-      "published_iso": "2026-11-02T19:26:38+09:00",
-      "excerpt": "Naibi launched HREUM, a curated distributor that accepts 'AI co-created' music made with tools like Suno, judging each track by listening before distribution.",
-      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13167_23844_267.png",
-      "off_list": true
-    },
-    {
-      "title": "제이슨뮤직랩, 저작권 걱정 없는 AI 매장음악 구독 서비스 '제이슨 라운지' 출시",
-      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55915",
-      "source": "이넷뉴스",
-      "category": "music",
-      "published_iso": "2026-11-02T10:24:58+09:00",
-      "excerpt": "AI music startup Jason Music Lab launched Jason Lounge, a copyright-safe AI-generated background music subscription for cafes, convenience stores, hotel lounges and gyms.",
-      "og_image": "https://cdn.enetnews.co.kr/news/thumbnail/202611/55915_75093_2252_v150.jpg",
-      "off_list": true
-    },
-    {
-      "title": "Number 1 on iTunes: AI Christian Rock Song by Fake 'Artist' Called 'Tell Me, How is Heaven?' Made on Suno",
+      "title": "Number 1 on iTunes: AI Christian Rock Song 'Tell Me, How is Heaven?' Made on Suno Platform",
       "url": "https://www.showbiz411.com/2026/11/02/number-1-on-itunes-ai-christian-rock-song-by-fake-artist-called-tell-me-how-is-heaven-made-on-suno-platform-about-grieving-loss",
       "source": "Showbiz411",
       "category": "music",
       "published_iso": "2026-11-02T15:37:17+00:00",
-      "excerpt": "A Suno-made Christian rock track credited to a non-existent artist hit No. 1 on the iTunes song chart, raising questions about AI songs exploiting grief themes on easily gamed charts.",
+      "excerpt": "The No. 1 song on the US iTunes chart is a faith-themed track about grief by a fake 'artist', made on Suno - AI-generated music reaching the top of a download chart.",
       "og_image": "https://www.showbiz411.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-10-25-55-iTunes-Top-100-Songs-Chart-2026.png",
-      "off_list": true
+      "history_match": {
+        "score": 0.189,
+        "date": "2026-11-03",
+        "url": "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/",
+        "title": "Kid Rock Reveals He Used AI on New Song with Eminem",
+        "band": "related"
+      },
+      "cluster": "c8"
+    },
+    {
+      "title": "Slop Till You Drop: A Peek at the iTunes U.S. Top 10",
+      "url": "https://www.hitsdailydouble.com/news/streaming/itunes-top-10-ai-2026-11-02",
+      "source": "Hits Daily Double",
+      "category": "music",
+      "published_iso": "2026-11-02T00:00:00-05:00",
+      "excerpt": "The Nov. 1 iTunes U.S. Top 10 had four tracks seemingly made with AI aid, including the No. 1 'Tell Me, How Is Heaven' by May the Lord Studio; HITS listened through to map where AI ends and human music-making begins.",
+      "og_image": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg",
+      "cluster": "c8"
     },
     {
       "title": "1위 A2O는 AI로 소통·뒤쫓는 2위는 AI곡…K팝에 인공지능 물결",
@@ -248,31 +130,120 @@
       "source": "연합뉴스",
       "category": "music",
       "published_iso": "2026-11-01T08:00:00+09:00",
-      "excerpt": "Chart-topping girl group A2O uses an AI fan-messaging app while an AI-made song sits at No. 2 - Yonhap surveys how AI is spreading through K-pop production and fan engagement.",
-      "og_image": null,
-      "off_list": true
+      "excerpt": "올가을 음원 차트 1위 A2O 라이트는 AI 팬 소통 앱을 쓰고, 2위는 AI 가수 머무르의 곡이다. 제작부터 팬 소통까지 K팝 전반에 AI가 번지는 흐름을 짚었다.",
+      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/31/AKR20261031048000005_02_i_P4.jpg"
     },
     {
-      "title": "'매일 20개씩 문 닫더니'…AI 날개 달고 역주행하는 中 노래방",
-      "url": "https://www.asiae.co.kr/article/2026110216071073406",
-      "source": "아시아경제",
+      "title": "\"매끄러운 보컬\" 차트까지 점령한 AI 음악…창작 생태계는 위축 우려",
+      "url": "https://www.news1.kr/society/incident-accident/6340276",
+      "source": "뉴스1",
       "category": "music",
-      "published_iso": "2026-11-02T16:16:41+09:00",
-      "excerpt": "China's struggling KTV karaoke rooms are rebounding after adding AI systems - including AI-generated, often surreal on-screen visuals that replace standard music videos and have gone viral on Xiaohongshu.",
-      "og_image": "https://cphoto.asiae.co.kr/listimglink/1/2026110215571583458_1793602635.jpg",
-      "off_list": true
+      "published_iso": "2026-11-03T07:00:00+09:00",
+      "excerpt": "AI를 활용한 노래가 국내 음원차트 2위에 올랐다. AI 음악 감상 의향은 33.7%로 늘었지만 저작권과 무단 학습 소송 문제가 남아 있다.",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/2/8192756/high.jpg"
+    },
+    {
+      "title": "리센느 제치고 AI 음원이 음원 차트 톱…美·EU 자체 기준 마련하는데 韓은 관망만",
+      "url": "https://www.ajunews.com/20261102144721596",
+      "source": "아주경제",
+      "category": "music",
+      "published_iso": "2026-11-02T18:06:27+09:00",
+      "excerpt": "생성형 AI 음악이 국내 차트 최상위권에 진입하면서 플랫폼의 AI 음악 관리 체계가 과제로 떠올랐다. 해외 플랫폼은 표기·추천 제한 기준을 마련하는데 국내는 관망 중이다.",
+      "og_image": "https://image.ajunews.com/content/image/2026/11/02/20261102145032229900.png"
+    },
+    {
+      "title": "기성곡 대신 'AI 음악'… 자영업자들의 새로운 선곡법",
+      "url": "https://www.kyeongin.com/article/1774023",
+      "source": "경인일보",
+      "category": "music",
+      "published_iso": "2026-11-03T19:52:11+09:00",
+      "excerpt": "카페와 헬스장 등에서 저작권료 부담을 줄이려고 AI로 만든 음악을 매장 배경음악으로 쓰는 사례가 늘고 있다.",
+      "og_image": "https://wimg.kyeongin.com/news/cms/2026/11/03/news-p.v1.20261103.397cb8cdcae640b0b21a04a2c1a72052_R.jpg"
+    },
+    {
+      "title": "음원 플랫폼, 'AI 음악' 솎아내는 기술 '문제'있다?",
+      "url": "https://www.apple-economy.com/news/articleView.html?idxno=80419",
+      "source": "애플경제",
+      "category": "music",
+      "published_iso": "2026-11-02T16:42:57+09:00",
+      "excerpt": "음원 플랫폼들이 AI 생성곡과 저품질·스팸 음원을 추천목록에서 배제하는 기술을 두고 정확도와 기준을 둘러싼 논란이 커지고 있다.",
+      "og_image": "https://cdn.apple-economy.com/news/thumbnail/202611/80419_64091_5724_v150.jpg"
+    },
+    {
+      "title": "Seoul Music Forum explores humanism in AI age, with one in four K-pop acts now virtual",
+      "url": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
+      "source": "Korea JoongAng Daily",
+      "category": "music",
+      "published_iso": "2026-11-02T08:17:28.000Z",
+      "excerpt": "The 2026 Seoul Music Forum examined AI's rise in music, citing that one in four new K-pop acts this year is virtual and debating what it means for labels and creators.",
+      "og_image": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "cluster": "c4"
+    },
+    {
+      "title": "Tamber 2.0 Review: \"This suite is exactly the kind of thing we've been waiting to see\"",
+      "url": "https://musictech.com/reviews/software-instruments/tamber-2/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-11-02T12:44:51+00:00",
+      "excerpt": "MusicTech reviews Tamber 2.0, the AI-driven sound design suite, as the answer to what AI can do for indie developers. (Seen as a candidate on 11-02 but not published.)",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/10/Tamber-2.0-Gestures-interface-hero-credit-Clovis-McEvoy@2000x1500-1068x801.jpg"
+    },
+    {
+      "title": "PCDJ releases DEX 4.1 with AI beat mapping and smarter track selection",
+      "url": "https://www.prweb.com/releases/pcdj-releases-dex-4-1-with-ai-beat-mapping-and-smarter-track-selection-302927428.html",
+      "source": "PRWeb (PCDJ)",
+      "category": "music",
+      "published_iso": "2026-11-03T21:16:00Z",
+      "excerpt": "PCDJ's DEX 4.1 DJ, video-mixing and karaoke software for Windows and Mac adds AI-powered beat mapping and smarter track selection. Press release (off-list; AI DJ slot).",
+      "og_image": "https://mmx.prnewswire.com/media/MS2025826/DEX41-officially-launched-1024x683.jpg?id=OA3053650&p=facebook"
+    },
+    {
+      "title": "How Close to the Theme? Similarity-Label Conditioning for Game Music Generation",
+      "url": "https://arxiv.org/abs/2611.01047",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-31T15:40:27Z",
+      "excerpt": "Researchers fine-tune a pretrained MIDI model on Super Mario section pairs with similarity labels, so composers can control how close each generated section stays to an original theme - from near repetition to new material.",
+      "og_image": null
+    },
+    {
+      "title": "Text-to-music Generation via Structured Captions and Interpretable Evaluation",
+      "url": "https://arxiv.org/abs/2611.00685",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-31T06:24:49Z",
+      "excerpt": "Proposes training latent diffusion/flow text-to-music models on structured captions (SCAPs) rather than free-form text, with controlled ablations on coverage and temporal text information.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.166,
+        "date": "2026-10-25",
+        "url": "https://arxiv.org/abs/2610.31083",
+        "title": "MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 23,
+    "dropped": 1,
+    "kept": 20,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
-    "same_story_pairs": []
+    "review": 5,
+    "same_story_pairs": [
+      [
+        "https://musically.com/2026/11/03/10-of-the-45-new-idol-groups-in-south-korea-this-year-are-virtual/",
+        "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
+        0.372
+      ],
+      [
+        "https://www.showbiz411.com/2026/11/02/number-1-on-itunes-ai-christian-rock-song-by-fake-artist-called-tell-me-how-is-heaven-made-on-suno-platform-about-grieving-loss",
+        "https://www.hitsdailydouble.com/news/streaming/itunes-top-10-ai-2026-11-02",
+        0.318
+      ]
+    ]
   },
   "history_digest": [
     {
@@ -914,6 +885,31 @@
       "date": "2026-11-02",
       "title": "Spotify Reportedly Set to Debut AI Cover & Remix Tool in Early '27",
       "url": "https://www.digitalmusicnews.com/2026/10/30/spotify-ai-cover-remix-tool-launch/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Kid Rock Reveals He Used AI on New Song with Eminem",
+      "url": "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Meet Chat: Our In-house Studio Assistant",
+      "url": "https://suno.com/blog/studio-chat-assistant"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "나이비, 하이엔드 음악 유통사 HREUM(흐름) 출범…AI 공동창작 음악도 듣고 판단해 유통",
+      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13167"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "일본음악저작권협회, 인간이 창작한 음악 보호 위해 AI 생성곡 탐지 나서",
+      "url": "https://www.kdfnews.com/news/articleView.html?idxno=190260"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Alphabet shareholder sues Sundar Pichai and 12 others over training Google's AI, including Lyria, on copyrighted works",
+      "url": "https://www.musicbusinessworldwide.com/alphabet-shareholder-sues-sundar-pichai-and-12-others-over-training-googles-ai-including-lyria-on-copyrighted-works/"
     }
   ]
 }

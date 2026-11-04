@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "science",
   "cards": [
     {
-      "id": "osaka-perovskite-robot",
+      "id": "deepmind-antigravity-cheminformatics",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "로봇·AI가 다듬은\n페로브스카이트 24.4%",
-      "body": "오사카대가 액적 로봇과 머신러닝으로 효율 24.4% 페로브스카이트 전지를 만들었다.",
-      "mini_headline": "로봇이 다듬은 페로브스카이트 전지",
+      "headline": "Antigravity에 온\nDeepMind 화학도구",
+      "body": "에이전트가 약 한 시간 만에 문헌 탐색, 분자쌍 분석, 거대고리 설계를 마쳤다.",
+      "mini_headline": "DeepMind의 에이전트 화학 스킬",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,185 +19,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-            "cap": "자동 박막 제작 시스템 개략도. 출처: Akinori Saeki, The University of Osaka"
+            "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
           },
           {
             "t": "p",
-            "x": "오사카대학 연구진이 로봇과 광학 영상, 환경 센서, 머신러닝을 묶어 페로브스카이트 태양전지 박막 제작을 자동화한 플랫폼을 구축했다."
+            "x": "신약 설계는 차트·도표·문헌에 흩어진 복잡한 데이터를 정리하고, 예측 모델을 학습시켜 합성할 후보 분자를 내놓는 일이다. 한 바퀴 도는 데만 보통 며칠이 걸린다. DeepMind의 새 Cheminformatics Skills를 얹은 Google Antigravity에서는 에이전트가 수천 개 화합물을 검색하고 매칭 분자쌍 분석까지 마친 뒤, 새 강직화 거대고리 분자를 합성 경로와 함께 단 한 시간 만에 제안한다."
+          },
+          {
+            "t": "video",
+            "yt": "afQqqcmLUWw"
           },
           {
             "t": "p",
-            "x": "시스템은 액체 코팅이 색을 바꿔 가며 고체 박막으로 굳는 결정화 과정을 따라간다. 1초도 안 되는 색 변화와 밀리초 단위로 움직이는 반용매 액적까지 잡아낸다. 머신러닝은 이 측정값에서 공정의 핵심 조건을 골라냈다."
+            "x": "워크플로 조율과 데이터베이스 탐색, 과학적 추론은 언어 모델이 맡는다. 분자 계산은 RDKit 기반 결정론적 화학 도구가 ChEMBL·PubChem 커넥터와 함께 처리한다. 시연에는 강직화의 좋은 예인 폐암 치료제 크리조티닙(crizotinib)과 로라티닙(lorlatinib)을 썼다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-            "cap": "다결정 박막 형성 문제의 해법을 그린 모식도. 출처: Akinori Saeki, The University of Osaka"
+            "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+            "cap": "과학자는 문헌에서 찾아낸 화합물을 인터랙티브 뷰어로 모두 살펴볼 수 있다."
           },
           {
             "t": "p",
-            "x": "연구팀은 이를 토대로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 얻었다. 연구는 Ryosuke Kado와 Akinori Saeki가 이끌었고 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
+            "x": "에이전트는 몇 분 만에 수천 개 화합물을 찾아내고 관련 없는 분자는 걸러내며 출처를 남긴다. 매칭 분자쌍 분석에서는 고리화가 회전 가능한 결합을 줄이면서 대체로 효력을 높였다. 따로 떼어 둔 검증 세트로 효력 예측 모델끼리 성능도 견줘 봤다."
+          },
+          {
+            "t": "img",
+            "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+            "cap": "에이전트가 고리화 반응을 전자 이동 화살표 도식으로 그려 제안한다."
+          },
+          {
+            "t": "p",
+            "x": "더 나은 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 다만 계산으로 나온 설계는 검증해 볼 가설이지 완성된 약이 아니다. 제안된 설계는 모두 실제로 합성해 실험으로 확인해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 준다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Robot and AI tune perovskite\nsolar cells to 24.4%",
-          "body": "Osaka researchers paired a droplet-imaging robot with machine learning to reach a 24.4%-efficient perovskite cell.",
-          "mini_headline": "Robot tunes perovskite cells",
+          "headline": "DeepMind gives Antigravity\nan agentic chemistry toolkit",
+          "body": "An agent mined literature, ran matched-pair analysis and proposed macrocycles with synthesis routes in about an hour.",
+          "mini_headline": "DeepMind's agentic chemistry skills",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "Schematic of an automated film fabrication system. Credit: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Researchers at the University of Osaka have built an automated platform that combines a robot, optical imaging, environmental sensors and machine learning to fabricate perovskite solar-cell films."
+                "x": "Designing new medicines requires curating complex data from charts, figures and literature, training predictive models, and proposing candidate molecules to synthesize — a workflow that typically takes multiple days for a single iteration. Google Antigravity, equipped with DeepMind's new Cheminformatics Skills, lets an agent search through thousands of compounds, perform matched molecular pair analysis, and propose novel rigidified macrocycles with synthetic routes in just an hour."
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "The system tracks how the liquid coating changes color and crystallizes into a solid film, capturing color changes within a fraction of a second and the motion of antisolvent droplets within milliseconds. Machine learning used these measurements to identify the processing conditions that matter."
+                "x": "The language model handles workflow orchestration, database navigation and scientific reasoning, while deterministic chemistry tools grounded in RDKit, with connectors to ChEMBL and PubChem, execute molecular calculations. The walkthrough uses crizotinib and lorlatinib, lung cancer drugs that illustrate rigidification."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "Schematic drawing of solution to multigrain film formation. Credit: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "In the interactive viewer, scientists can browse every compound retrieved from the literature."
               },
               {
                 "t": "p",
-                "x": "Using these insights to refine the coating process, the team produced a lead-based perovskite solar cell with a 24.4% power conversion efficiency. The study, led by Ryosuke Kado and Akinori Saeki, is published in ACS Nano (DOI: 10.1021/acsnano.6c11386)."
+                "x": "Within minutes, the agent retrieves thousands of compounds, filters out irrelevant molecules and documents their sources. Matched molecular pair analysis showed that cyclization reduces rotatable bonds while generally increasing potency, and the agent benchmarked potency models on a held-out set."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "The agent proposes a cyclization reaction with electron-pushing diagrams."
+              },
+              {
+                "t": "p",
+                "x": "Asked to design improved macrocycles, it recommended reactions and synthesis routes. Computational designs are testable hypotheses, not finished drugs; every proposed design must be synthesized and validated experimentally. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
               }
             ]
           }
         },
         "ko": {
-          "headline": "로봇·AI가 다듬은\n페로브스카이트 24.4%",
-          "body": "오사카대가 액적 로봇과 머신러닝으로 효율 24.4% 페로브스카이트 전지를 만들었다.",
-          "mini_headline": "로봇이 다듬은 페로브스카이트 전지",
+          "headline": "Antigravity에 온\nDeepMind 화학도구",
+          "body": "에이전트가 약 한 시간 만에 문헌 탐색, 분자쌍 분석, 거대고리 설계를 마쳤다.",
+          "mini_headline": "DeepMind의 에이전트 화학 스킬",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "자동 박막 제작 시스템 개략도. 출처: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "오사카대학 연구진이 로봇과 광학 영상, 환경 센서, 머신러닝을 묶어 페로브스카이트 태양전지 박막 제작을 자동화한 플랫폼을 구축했다."
+                "x": "신약 설계는 차트·도표·문헌에 흩어진 복잡한 데이터를 정리하고, 예측 모델을 학습시켜 합성할 후보 분자를 내놓는 일이다. 한 바퀴 도는 데만 보통 며칠이 걸린다. DeepMind의 새 Cheminformatics Skills를 얹은 Google Antigravity에서는 에이전트가 수천 개 화합물을 검색하고 매칭 분자쌍 분석까지 마친 뒤, 새 강직화 거대고리 분자를 합성 경로와 함께 단 한 시간 만에 제안한다."
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "시스템은 액체 코팅이 색을 바꿔 가며 고체 박막으로 굳는 결정화 과정을 따라간다. 1초도 안 되는 색 변화와 밀리초 단위로 움직이는 반용매 액적까지 잡아낸다. 머신러닝은 이 측정값에서 공정의 핵심 조건을 골라냈다."
+                "x": "워크플로 조율과 데이터베이스 탐색, 과학적 추론은 언어 모델이 맡는다. 분자 계산은 RDKit 기반 결정론적 화학 도구가 ChEMBL·PubChem 커넥터와 함께 처리한다. 시연에는 강직화의 좋은 예인 폐암 치료제 크리조티닙(crizotinib)과 로라티닙(lorlatinib)을 썼다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "다결정 박막 형성 문제의 해법을 그린 모식도. 출처: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "과학자는 문헌에서 찾아낸 화합물을 인터랙티브 뷰어로 모두 살펴볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 이를 토대로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 얻었다. 연구는 Ryosuke Kado와 Akinori Saeki가 이끌었고 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
+                "x": "에이전트는 몇 분 만에 수천 개 화합물을 찾아내고 관련 없는 분자는 걸러내며 출처를 남긴다. 매칭 분자쌍 분석에서는 고리화가 회전 가능한 결합을 줄이면서 대체로 효력을 높였다. 따로 떼어 둔 검증 세트로 효력 예측 모델끼리 성능도 견줘 봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "에이전트가 고리화 반응을 전자 이동 화살표 도식으로 그려 제안한다."
+              },
+              {
+                "t": "p",
+                "x": "더 나은 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 다만 계산으로 나온 설계는 검증해 볼 가설이지 완성된 약이 아니다. 제안된 설계는 모두 실제로 합성해 실험으로 확인해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ロボットとAIで最適化\nペロブスカイト効率24.4%",
-          "body": "大阪大学は液滴撮影ロボットと機械学習で効率24.4%のペロブスカイト電池を実現した。",
-          "mini_headline": "ロボットがペロブスカイト電池を最適化",
+          "headline": "Antigravityに\nDeepMindの化学ツール",
+          "body": "エージェントが約一時間で文献探索、分子ペア解析、大環状化合物の設計までこなした。",
+          "mini_headline": "DeepMindのエージェント型化学スキル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "自動成膜システムの概略図。提供：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "大阪大学の研究チームは、ロボット、光学イメージング、環境センサー、機械学習を組み合わせ、ペロブスカイト太陽電池の膜を作製する自動化プラットフォームを構築した。"
+                "x": "新薬の設計には、チャートや図表、文献から複雑なデータを整理し、予測モデルを訓練し、合成すべき候補分子を提案する作業が必要で、一回の反復に通常は数日かかる。DeepMindの新しいCheminformatics Skillsを備えたGoogle Antigravityでは、エージェントが数千の化合物を検索し、マッチド分子ペア解析を行い、合成経路付きの新しい剛直化マクロサイクルをわずか一時間で提案する。"
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "このシステムは、液体の塗膜が色を変えながら固体膜へと結晶化する様子を追跡し、色の変化を1秒に満たない間に、貧溶媒の液滴の動きをミリ秒単位で捉える。機械学習はこれらの測定値から、重要な製膜条件を特定した。"
+                "x": "言語モデルがワークフローの統括、データベースの探索、科学的推論を担い、分子計算はRDKitを基盤としChEMBLとPubChemへのコネクタを備えた決定論的な化学ツールが実行する。解説では、剛直化の例となる肺がん治療薬クリゾチニブ（crizotinib）とロルラチニブ（lorlatinib）を用いている。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "多結晶膜の形成に対する解決策の模式図。提供：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "インタラクティブビューアでは、文献から取得した全化合物を科学者が閲覧できる。"
               },
               {
                 "t": "p",
-                "x": "研究チームはこの知見を基に塗布工程を改良し、電力変換効率24.4%の鉛系ペロブスカイト太陽電池を作製した。Ryosuke KadoとAkinori Saekiが主導した本研究は、ACS Nano(DOI: 10.1021/acsnano.6c11386)に掲載された。"
+                "x": "エージェントは数分で数千の化合物を取得し、無関係な分子を除外して出典を記録する。マッチド分子ペア解析では、環化によって回転可能な結合が減り、多くの場合活性が高まることが示された。エージェントはホールドアウトセットで活性予測モデルのベンチマークも行った。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "エージェントは電子の動きを示す矢印図とともに環化反応を提案する。"
+              },
+              {
+                "t": "p",
+                "x": "改良したマクロサイクルの設計を求めると、エージェントは反応と合成経路を推奨した。計算による設計は検証可能な仮説であって完成した薬ではなく、提案された設計はすべて合成し、実験で検証する必要がある。DeepMindは科学者10,000人にAntigravityの最上位利用プランを6か月間無料で提供する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器人与AI调优\n钙钛矿电池效率达24.4%",
-          "body": "大阪大学研究人员将液滴成像机器人与机器学习结合，制成效率24.4%的钙钛矿电池。",
-          "mini_headline": "机器人调优钙钛矿电池",
+          "headline": "Antigravity获得\nDeepMind化学工具",
+          "body": "智能体约一小时内完成文献挖掘、匹配分子对分析，并提出带合成路线的大环分子。",
+          "mini_headline": "DeepMind的智能体化学技能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "自动化薄膜制备系统示意图。来源：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "大阪大学的研究人员搭建了一个自动化平台，结合机器人、光学成像、环境传感器和机器学习来制备钙钛矿太阳能电池薄膜。"
+                "x": "设计新药需要从图表、插图和文献中整理复杂数据，训练预测模型，并提出待合成的候选分子——单次迭代通常要花好几天。配备DeepMind全新Cheminformatics Skills的Google Antigravity，能让智能体检索数千种化合物、进行匹配分子对分析，并在短短一小时内提出附带合成路线的新型刚性化大环分子。"
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "该系统追踪液态涂层变色并结晶成固态薄膜的过程，能在不到一秒内捕捉颜色变化，并以毫秒级精度捕捉反溶剂液滴的运动。机器学习利用这些测量数据找出了关键的工艺条件。"
+                "x": "语言模型负责工作流编排、数据库检索和科学推理，分子计算则由基于RDKit、连接ChEMBL与PubChem的确定性化学工具执行。演示以肺癌药物克唑替尼（crizotinib）和劳拉替尼（lorlatinib）为例，说明刚性化的思路。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "多晶薄膜形成问题解决方案示意图。来源：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "在交互式查看器中，科学家可以浏览从文献中检索到的每一种化合物。"
               },
               {
                 "t": "p",
-                "x": "团队据此优化涂布工艺，制成功率转换效率达24.4%的铅基钙钛矿太阳能电池。该研究由Ryosuke Kado和Akinori Saeki领导，发表于ACS Nano（DOI: 10.1021/acsnano.6c11386）。"
+                "x": "几分钟内，智能体就检索出数千种化合物，筛掉无关分子并记录其来源。匹配分子对分析显示，环化会减少可旋转键，同时通常提高效力；智能体还在留出集上对效力模型进行了基准测试。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "智能体借助电子转移箭头图提出环化反应。"
+              },
+              {
+                "t": "p",
+                "x": "在被要求设计改进的大环分子时，它推荐了反应和合成路线。计算设计只是可检验的假设，而非成品药物；每个提出的设计都必须经过合成和实验验证。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用层级。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robot e IA afinan celdas solares\nde perovskita hasta el 24.4%",
-          "body": "En Osaka, un robot que filma gotas y aprendizaje automático lograron una celda de perovskita con 24.4% de eficiencia.",
-          "mini_headline": "Un robot afina celdas de perovskita",
+          "headline": "DeepMind da a Antigravity\nun kit de química agéntica",
+          "body": "Un agente revisó literatura, analizó pares moleculares y propuso macrociclos y rutas de síntesis en cerca de una hora.",
+          "mini_headline": "Las habilidades químicas agénticas de DeepMind",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "Esquema de un sistema automatizado de fabricación de películas. Crédito: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Osaka construyeron una plataforma automatizada que combina un robot, imagen óptica, sensores ambientales y aprendizaje automático para fabricar películas de celdas solares de perovskita."
+                "x": "Diseñar nuevos medicamentos exige seleccionar datos complejos de gráficos, figuras y literatura, entrenar modelos predictivos y proponer moléculas candidatas para sintetizar, un flujo de trabajo que suele llevar varios días por cada iteración. Google Antigravity, equipado con las nuevas Cheminformatics Skills de DeepMind, permite que un agente busque entre miles de compuestos, realice análisis de pares moleculares emparejados y proponga nuevos macrociclos rigidificados con rutas sintéticas en solo una hora."
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "El sistema sigue cómo el recubrimiento líquido cambia de color y cristaliza en una película sólida: capta los cambios de color en una fracción de segundo y el movimiento de las gotas de antisolvente en milisegundos. El aprendizaje automático usó estas mediciones para identificar las condiciones de procesamiento que importan."
+                "x": "El modelo de lenguaje se encarga de orquestar el flujo de trabajo, navegar por bases de datos y razonar científicamente, mientras que herramientas químicas deterministas basadas en RDKit, con conectores a ChEMBL y PubChem, ejecutan los cálculos moleculares. La demostración usa crizotinib y lorlatinib, fármacos contra el cáncer de pulmón que ilustran la rigidificación."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "Esquema de la solución a la formación de películas multigrano. Crédito: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "En el visor interactivo, los científicos pueden explorar todos los compuestos obtenidos de la literatura."
               },
               {
                 "t": "p",
-                "x": "Con estos hallazgos para afinar el recubrimiento, el equipo produjo una celda solar de perovskita a base de plomo con una eficiencia de conversión de energía del 24.4%. El estudio, dirigido por Ryosuke Kado y Akinori Saeki, se publicó en ACS Nano (DOI: 10.1021/acsnano.6c11386)."
+                "x": "En pocos minutos, el agente recupera miles de compuestos, descarta las moléculas irrelevantes y documenta sus fuentes. El análisis de pares moleculares emparejados mostró que la ciclación reduce los enlaces rotables y, en general, aumenta la potencia, y el agente comparó modelos de potencia en un conjunto reservado."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "El agente propone una reacción de ciclación con diagramas de flujo de electrones."
+              },
+              {
+                "t": "p",
+                "x": "Cuando se le pidió diseñar macrociclos mejorados, recomendó reacciones y rutas de síntesis. Los diseños computacionales son hipótesis comprobables, no fármacos terminados; cada diseño propuesto debe sintetizarse y validarse experimentalmente. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
               }
             ]
           }
@@ -205,129 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "로봇·AI가 다듬은\n페로브스카이트 24.4%",
-          "body": "오사카대는 액적 로봇과 머신러닝으로 효율 24.4% 페로브스카이트 전지를 얻었다.",
-          "mini_headline": "로봇이 다듬은 페로브스카이트 전지",
+          "headline": "Antigravity에 온\nDeepMind 화학도구",
+          "body": "에이전트가 약 한 시간 만에 문헌 탐색, 분자쌍 분석, 거대고리 설계를 마쳤다.",
+          "mini_headline": "DeepMind의 에이전트 화학 스킬",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "자동 박막 제작 시스템 개략도. 출처: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "오사카대학 연구진이 로봇, 광학 영상, 환경 센서, 머신러닝을 결합해 페로브스카이트 태양전지 박막을 만드는 자동화 플랫폼을 구축했다."
+                "x": "신약을 설계하려면 차트·도표·문헌에서 복잡한 데이터를 정리하고, 예측 모델을 학습시키고, 합성할 후보 분자를 제안해야 한다. 한 번 반복하는 데만 보통 며칠이 걸리는 작업이다. DeepMind의 새 Cheminformatics Skills를 갖춘 Google Antigravity에서는 에이전트가 수천 개 화합물을 검색하고 매칭 분자쌍 분석을 수행한 뒤, 합성 경로와 함께 새로운 강직화 거대고리 분자를 단 한 시간 만에 제안한다."
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "이 시스템은 액체 코팅이 색을 바꾸며 고체 박막으로 결정화하는 과정을 추적한다. 색 변화는 1초도 안 되는 사이에, 반용매 액적의 움직임은 밀리초 단위로 포착한다. 머신러닝은 이 측정값으로 중요한 공정 조건을 찾아냈다."
+                "x": "언어 모델은 워크플로 조율, 데이터베이스 탐색, 과학적 추론을 맡고, 분자 계산은 RDKit 기반의 결정론적 화학 도구가 ChEMBL·PubChem 커넥터와 함께 수행한다. 시연에는 강직화를 잘 보여주는 폐암 치료제 크리조티닙(crizotinib)과 로라티닙(lorlatinib)이 쓰였다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "다결정 박막 형성 문제의 해법을 그린 모식도. 출처: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "인터랙티브 뷰어에서 과학자는 문헌에서 찾아낸 모든 화합물을 살펴볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 이 결과로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 만들었다. Ryosuke Kado와 Akinori Saeki가 이끈 이 연구는 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
+                "x": "에이전트는 몇 분 만에 수천 개 화합물을 찾아내고, 관련 없는 분자를 걸러내며 출처를 기록한다. 매칭 분자쌍 분석 결과, 고리화는 회전 가능한 결합을 줄이면서 대체로 효력을 높였다. 에이전트는 따로 떼어 둔 검증 세트로 효력 예측 모델의 성능도 비교했다."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "에이전트가 전자 이동 화살표 도식과 함께 고리화 반응을 제안한다."
+              },
+              {
+                "t": "p",
+                "x": "개선된 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 계산으로 얻은 설계는 검증 가능한 가설일 뿐 완성된 약이 아니며, 제안된 설계는 모두 실제로 합성해 실험으로 검증해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 제공한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ロボットとAIで最適化\nペロブスカイト効率24.4%",
-          "body": "大阪大学は液滴撮影ロボットと機械学習で効率24.4%のペロブスカイト電池を実現した。",
-          "mini_headline": "ロボットがペロブスカイト電池を最適化",
+          "headline": "Antigravityに\nDeepMindの化学ツール",
+          "body": "エージェントが約一時間で文献探索、分子ペア解析、大環状化合物の設計までこなした。",
+          "mini_headline": "DeepMindのエージェント型化学スキル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "自動成膜システムの概略図。提供：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "大阪大学の研究チームは、ロボット、光学イメージング、環境センサー、機械学習を組み合わせ、ペロブスカイト太陽電池の膜を作製する自動化プラットフォームを構築した。"
+                "x": "新薬の設計には、チャートや図表、文献から複雑なデータを整理し、予測モデルを訓練し、合成すべき候補分子を提案する作業が必要で、一回の反復に通常は数日かかる。DeepMindの新しいCheminformatics Skillsを備えたGoogle Antigravityでは、エージェントが数千の化合物を検索し、マッチド分子ペア解析を行い、合成経路付きの新しい剛直化マクロサイクルをわずか一時間で提案する。"
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "このシステムは、液体の塗膜が色を変えながら固体膜へと結晶化する様子を追跡し、色の変化を1秒に満たない間に、貧溶媒の液滴の動きをミリ秒単位で捉える。機械学習はこれらの測定値から、重要な製膜条件を特定した。"
+                "x": "言語モデルがワークフローの統括、データベースの探索、科学的推論を担い、分子計算はRDKitを基盤としChEMBLとPubChemへのコネクタを備えた決定論的な化学ツールが実行する。解説では、剛直化の例となる肺がん治療薬クリゾチニブ（crizotinib）とロルラチニブ（lorlatinib）を用いている。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "多結晶膜の形成に対する解決策の模式図。提供：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "インタラクティブビューアでは、文献から取得した全化合物を科学者が閲覧できる。"
               },
               {
                 "t": "p",
-                "x": "研究チームはこの知見を基に塗布工程を改良し、電力変換効率24.4%の鉛系ペロブスカイト太陽電池を作製した。Ryosuke KadoとAkinori Saekiが主導した本研究は、ACS Nano(DOI: 10.1021/acsnano.6c11386)に掲載された。"
+                "x": "エージェントは数分で数千の化合物を取得し、無関係な分子を除外して出典を記録する。マッチド分子ペア解析では、環化によって回転可能な結合が減り、多くの場合活性が高まることが示された。エージェントはホールドアウトセットで活性予測モデルのベンチマークも行った。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "エージェントは電子の動きを示す矢印図とともに環化反応を提案する。"
+              },
+              {
+                "t": "p",
+                "x": "改良したマクロサイクルの設計を求めると、エージェントは反応と合成経路を推奨した。計算による設計は検証可能な仮説であって完成した薬ではなく、提案された設計はすべて合成し、実験で検証する必要がある。DeepMindは科学者10,000人にAntigravityの最上位利用プランを6か月間無料で提供する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器人与AI调优\n钙钛矿电池效率达24.4%",
-          "body": "大阪大学研究人员将液滴成像机器人与机器学习结合，制成效率24.4%的钙钛矿电池。",
-          "mini_headline": "机器人调优钙钛矿电池",
+          "headline": "Antigravity获得\nDeepMind化学工具",
+          "body": "智能体约一小时内完成文献挖掘、匹配分子对分析，并提出带合成路线的大环分子。",
+          "mini_headline": "DeepMind的智能体化学技能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "自动化薄膜制备系统示意图。来源：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "大阪大学的研究人员搭建了一个自动化平台，结合机器人、光学成像、环境传感器和机器学习来制备钙钛矿太阳能电池薄膜。"
+                "x": "设计新药需要从图表、插图和文献中整理复杂数据，训练预测模型，并提出待合成的候选分子——单次迭代通常要花好几天。配备DeepMind全新Cheminformatics Skills的Google Antigravity，能让智能体检索数千种化合物、进行匹配分子对分析，并在短短一小时内提出附带合成路线的新型刚性化大环分子。"
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "该系统追踪液态涂层变色并结晶成固态薄膜的过程，能在不到一秒内捕捉颜色变化，并以毫秒级精度捕捉反溶剂液滴的运动。机器学习利用这些测量数据找出了关键的工艺条件。"
+                "x": "语言模型负责工作流编排、数据库检索和科学推理，分子计算则由基于RDKit、连接ChEMBL与PubChem的确定性化学工具执行。演示以肺癌药物克唑替尼（crizotinib）和劳拉替尼（lorlatinib）为例，说明刚性化的思路。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "多晶薄膜形成问题解决方案示意图。来源：Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "在交互式查看器中，科学家可以浏览从文献中检索到的每一种化合物。"
               },
               {
                 "t": "p",
-                "x": "团队据此优化涂布工艺，制成功率转换效率达24.4%的铅基钙钛矿太阳能电池。该研究由Ryosuke Kado和Akinori Saeki领导，发表于ACS Nano（DOI: 10.1021/acsnano.6c11386）。"
+                "x": "几分钟内，智能体就检索出数千种化合物，筛掉无关分子并记录其来源。匹配分子对分析显示，环化会减少可旋转键，同时通常提高效力；智能体还在留出集上对效力模型进行了基准测试。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "智能体借助电子转移箭头图提出环化反应。"
+              },
+              {
+                "t": "p",
+                "x": "在被要求设计改进的大环分子时，它推荐了反应和合成路线。计算设计只是可检验的假设，而非成品药物；每个提出的设计都必须经过合成和实验验证。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用层级。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robot e IA afinan celdas solares\nde perovskita hasta el 24.4%",
-          "body": "En Osaka, un robot que filma gotas y aprendizaje automático lograron una celda de perovskita con 24.4% de eficiencia.",
-          "mini_headline": "Un robot afina celdas de perovskita",
+          "headline": "DeepMind da a Antigravity\nun kit de química agéntica",
+          "body": "Un agente revisó literatura, analizó pares moleculares y propuso macrociclos y rutas de síntesis en cerca de una hora.",
+          "mini_headline": "Las habilidades químicas agénticas de DeepMind",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an-1.jpg",
-                "cap": "Esquema de un sistema automatizado de fabricación de películas. Crédito: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Osaka construyeron una plataforma automatizada que combina un robot, imagen óptica, sensores ambientales y aprendizaje automático para fabricar películas de celdas solares de perovskita."
+                "x": "Diseñar nuevos medicamentos exige seleccionar datos complejos de gráficos, figuras y literatura, entrenar modelos predictivos y proponer moléculas candidatas para sintetizar, un flujo de trabajo que suele llevar varios días por cada iteración. Google Antigravity, equipado con las nuevas Cheminformatics Skills de DeepMind, permite que un agente busque entre miles de compuestos, realice análisis de pares moleculares emparejados y proponga nuevos macrociclos rigidificados con rutas sintéticas en solo una hora."
+              },
+              {
+                "t": "video",
+                "yt": "afQqqcmLUWw"
               },
               {
                 "t": "p",
-                "x": "El sistema sigue cómo el recubrimiento líquido cambia de color y cristaliza en una película sólida: capta los cambios de color en una fracción de segundo y el movimiento de las gotas de antisolvente en milisegundos. El aprendizaje automático usó estas mediciones para identificar las condiciones de procesamiento que importan."
+                "x": "El modelo de lenguaje se encarga de orquestar el flujo de trabajo, navegar por bases de datos y razonar científicamente, mientras que herramientas químicas deterministas basadas en RDKit, con conectores a ChEMBL y PubChem, ejecutan los cálculos moleculares. La demostración usa crizotinib y lorlatinib, fármacos contra el cáncer de pulmón que ilustran la rigidificación."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/bright-spark-robots-an.jpg",
-                "cap": "Esquema de la solución a la formación de películas multigrano. Crédito: Akinori Saeki, The University of Osaka"
+                "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+                "cap": "En el visor interactivo, los científicos pueden explorar todos los compuestos obtenidos de la literatura."
               },
               {
                 "t": "p",
-                "x": "Con estos hallazgos para afinar el recubrimiento, el equipo produjo una celda solar de perovskita a base de plomo con una eficiencia de conversión de energía del 24.4%. El estudio, dirigido por Ryosuke Kado y Akinori Saeki, se publicó en ACS Nano (DOI: 10.1021/acsnano.6c11386)."
+                "x": "En pocos minutos, el agente recupera miles de compuestos, descarta las moléculas irrelevantes y documenta sus fuentes. El análisis de pares moleculares emparejados mostró que la ciclación reduce los enlaces rotables y, en general, aumenta la potencia, y el agente comparó modelos de potencia en un conjunto reservado."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+                "cap": "El agente propone una reacción de ciclación con diagramas de flujo de electrones."
+              },
+              {
+                "t": "p",
+                "x": "Cuando se le pidió diseñar macrociclos mejorados, recomendó reacciones y rutas de síntesis. Los diseños computacionales son hipótesis comprobables, no fármacos terminados; cada diseño propuesto debe sintetizarse y validarse experimentalmente. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
               }
             ]
           }
@@ -335,15 +455,15 @@
       }
     },
     {
-      "id": "snu-rise-humanoid-vla",
+      "id": "westlake-pinal-protein",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "휴머노이드 AI가 전체\n시연 없이 걷기·조작 연결",
-      "body": "SNU의 RISE가 기술을 이어 G1에서 GR00T를 50% 대 30%로 앞섰다.",
-      "mini_headline": "휴머노이드 AI, 기술을 잇다",
+      "headline": "Pinal, 일상 언어로\n단백질을 설계하다",
+      "body": "탄소 고정 단백질 20개 중 5개가 작동했고, 최고 후보는 천연의 1.7x를 냈다.",
+      "mini_headline": "일상 언어로 만드는 단백질",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-ai-protein.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -351,155 +471,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-            "cap": "RISE로 연속 다단계 작업을 수행하는 실제 휴머노이드 로봇. 출처: Seoul National University College of Engineering"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+            "cap": "Pinal은 다양한 기능 프롬프트를 고품질 단백질 후보로 바꾼다. Credit: Nature (2026)"
           },
           {
             "t": "p",
-            "x": "서울대학교 Songhwai Oh 교수 연구팀이 휴머노이드 로봇용 시각-언어-행동 프레임워크 RISE(Responsibility-Induced Specialized Experts)를 개발했다. RISE는 보행 데이터와 물체 조작 데이터를 따로 모아 학습한다. 그래서 걷기와 물체 다루기를 오가는 다단계 작업을 처음부터 끝까지 시연할 필요가 없다."
+            "x": "중국 Westlake University(서호대학) 연구팀이 이끄는 과학자들이 자연어 프롬프트만으로 후보 단백질을 만들어 내는 대규모 AI 모델 Pinal을 개발해 Nature에 논문으로 발표했다. 사용자는 “조명을 받으면 녹색 빛을 내는 형광 단백질을 설계하라” 같은 문장만 넣으면 된다."
           },
           {
             "t": "p",
-            "x": "RISE는 공유 시각-언어 모델과 여러 행동 전문가, 메타 컨트롤러로 이뤄진다. 전문가마다 행동 예측이 얼마나 정확한지에 따라 가중치를 받으며 저절로 전문화된다. 가중치가 바뀌는 흐름을 보면 다음 작업 단계로 넘어갈 시점도 알 수 있다."
+            "x": "Pinal의 첫 번째 모듈 T2struct가 설명을 읽고 1D 구조 설계도를 그리면, 두 번째 모듈 SaProt-T가 이 설계도와 원래 프롬프트에 맞는 아미노산 서열을 생성한다. 설계도를 여러 장 만들고 설계도마다 가장 좋은 서열을 붙인 뒤, 쌍마다 점수를 매겨 최종 설계를 고른다."
           },
           {
             "t": "p",
-            "x": "시뮬레이션에서 RISE의 평균 성공률은 87.3%로, GR00T 기반 단일 전문가 베이스라인(GR00T-based)의 73.6%를 넘었다. Dex3-1 손 두 개를 단 실제 Unitree G1 로봇으로 두 단계부터 다섯 단계까지의 작업을 시켰더니 평균 50.0%로 베이스라인의 30.0%를 앞섰다. 단계가 늘수록 격차는 더 벌어졌다. 연구는 IROS 2026에 채택됐고, 연구팀은 물류·제조·병원·돌봄·가정 정리에 쓰일 것으로 본다."
+            "x": "연구팀은 단백질 서열 135 million 개에서 출발해 단백질-텍스트 쌍 1.7 billion 개 규모의 라이브러리를 만들고, 여기에 AlphaFold 데이터베이스의 예측 3D 구조를 더했다. 모델에 맡긴 설계 과제는 형광 단백질, 플라스틱 분해 효소, 알코올 탈수소효소, 대사 H-protein이었다."
+          },
+          {
+            "t": "p",
+            "x": "형광 단백질은 50,000개 서열을 걸러 29개를 시험했는데, 실제로 형광을 낸 것은 하나뿐이었다. H-protein은 후보 20개 중 다섯 개가 작동했다. 가장 좋은 후보는 핵심 탄소 포집 과정의 산출량을 천연 E. coli 단백질을 쓸 때의 1.7배로 끌어올렸다. Pinal이 실험실의 일상 도구가 되기까지는 연구가 더 필요하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Humanoid AI chains walking and\nhandling without full demos",
-          "body": "SNU's RISE model chains separately learned skills, beating a GR00T baseline 50% to 30% on a real Unitree G1 robot.",
-          "mini_headline": "Humanoid AI chains skills",
+          "headline": "Pinal turns plain language\ninto protein designs",
+          "body": "In lab tests, 5 of 20 designed carbon-fixation proteins worked, the best lifting output 1.7x over the natural one.",
+          "mini_headline": "Proteins from plain language",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "A real humanoid robot performing a continuous, multistep task using RISE. Credit: Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinal translates diverse functional prompts into high-quality protein candidates. Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "Seoul National University researchers led by Professor Songhwai Oh developed RISE (Responsibility-Induced Specialized Experts), a vision-language-action framework for humanoid robots. It learns from locomotion and object-manipulation data collected separately, so it does not need demonstrations of complete multistep tasks that switch between walking and handling objects."
+                "x": "Scientists led by a team at Westlake University in China have developed a large-scale AI model called Pinal that can generate candidate proteins from natural language prompts alone, detailed in a paper published in Nature. A user might type something like \"design a fluorescent protein that emits green light under illumination.\""
               },
               {
                 "t": "p",
-                "x": "RISE uses a shared vision-language model, several action experts and a meta-controller. Experts are weighted by how well they predict actions, so they specialize on their own, and shifts in the expert weights signal when to move to the next task stage."
+                "x": "Pinal's first module, T2struct, builds a 1D structural blueprint from the description; a second module, SaProt-T, reads that blueprint and the original prompt to generate a matching amino acid sequence. It creates several blueprints, designs the best sequence for each and scores each pair to pick the final design."
               },
               {
                 "t": "p",
-                "x": "In simulation RISE averaged an 87.3% success rate, against 73.6% for a GR00T-based single-expert baseline. On a real Unitree G1 robot with two Dex3-1 hands it averaged 50.0% on two- to five-stage tasks versus 30.0% for the baseline, and its advantage grew with more stages. The work was accepted to IROS 2026; the team sees uses in logistics, manufacturing, hospitals, caregiving and home organization."
+                "x": "The team started with 135 million protein sequences and built a library of 1.7 billion protein-text pairs, adding predicted 3D structures from an AlphaFold database. It was asked to design a fluorescent protein, a plastic-breaking enzyme, an alcohol dehydrogenase and a metabolic H-protein."
+              },
+              {
+                "t": "p",
+                "x": "For the glowing protein, 50,000 sequences were filtered down to 29 for testing, and only one actually fluoresced. For the H-protein, five of the 20 candidates worked, and the best one boosted the output of a key carbon-capturing process to 1.7 times that achieved using the natural E. coli protein. Further work is needed before Pinal becomes a routine lab tool."
               }
             ]
           }
         },
         "ko": {
-          "headline": "휴머노이드 AI가 전체\n시연 없이 걷기·조작 연결",
-          "body": "SNU의 RISE가 기술을 이어 G1에서 GR00T를 50% 대 30%로 앞섰다.",
-          "mini_headline": "휴머노이드 AI, 기술을 잇다",
+          "headline": "Pinal, 일상 언어로\n단백질을 설계하다",
+          "body": "탄소 고정 단백질 20개 중 5개가 작동했고, 최고 후보는 천연의 1.7x를 냈다.",
+          "mini_headline": "일상 언어로 만드는 단백질",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "RISE로 연속 다단계 작업을 수행하는 실제 휴머노이드 로봇. 출처: Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinal은 다양한 기능 프롬프트를 고품질 단백질 후보로 바꾼다. Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "서울대학교 Songhwai Oh 교수 연구팀이 휴머노이드 로봇용 시각-언어-행동 프레임워크 RISE(Responsibility-Induced Specialized Experts)를 개발했다. RISE는 보행 데이터와 물체 조작 데이터를 따로 모아 학습한다. 그래서 걷기와 물체 다루기를 오가는 다단계 작업을 처음부터 끝까지 시연할 필요가 없다."
+                "x": "중국 Westlake University(서호대학) 연구팀이 이끄는 과학자들이 자연어 프롬프트만으로 후보 단백질을 만들어 내는 대규모 AI 모델 Pinal을 개발해 Nature에 논문으로 발표했다. 사용자는 “조명을 받으면 녹색 빛을 내는 형광 단백질을 설계하라” 같은 문장만 넣으면 된다."
               },
               {
                 "t": "p",
-                "x": "RISE는 공유 시각-언어 모델과 여러 행동 전문가, 메타 컨트롤러로 이뤄진다. 전문가마다 행동 예측이 얼마나 정확한지에 따라 가중치를 받으며 저절로 전문화된다. 가중치가 바뀌는 흐름을 보면 다음 작업 단계로 넘어갈 시점도 알 수 있다."
+                "x": "Pinal의 첫 번째 모듈 T2struct가 설명을 읽고 1D 구조 설계도를 그리면, 두 번째 모듈 SaProt-T가 이 설계도와 원래 프롬프트에 맞는 아미노산 서열을 생성한다. 설계도를 여러 장 만들고 설계도마다 가장 좋은 서열을 붙인 뒤, 쌍마다 점수를 매겨 최종 설계를 고른다."
               },
               {
                 "t": "p",
-                "x": "시뮬레이션에서 RISE의 평균 성공률은 87.3%로, GR00T 기반 단일 전문가 베이스라인(GR00T-based)의 73.6%를 넘었다. Dex3-1 손 두 개를 단 실제 Unitree G1 로봇으로 두 단계부터 다섯 단계까지의 작업을 시켰더니 평균 50.0%로 베이스라인의 30.0%를 앞섰다. 단계가 늘수록 격차는 더 벌어졌다. 연구는 IROS 2026에 채택됐고, 연구팀은 물류·제조·병원·돌봄·가정 정리에 쓰일 것으로 본다."
+                "x": "연구팀은 단백질 서열 135 million 개에서 출발해 단백질-텍스트 쌍 1.7 billion 개 규모의 라이브러리를 만들고, 여기에 AlphaFold 데이터베이스의 예측 3D 구조를 더했다. 모델에 맡긴 설계 과제는 형광 단백질, 플라스틱 분해 효소, 알코올 탈수소효소, 대사 H-protein이었다."
+              },
+              {
+                "t": "p",
+                "x": "형광 단백질은 50,000개 서열을 걸러 29개를 시험했는데, 실제로 형광을 낸 것은 하나뿐이었다. H-protein은 후보 20개 중 다섯 개가 작동했다. 가장 좋은 후보는 핵심 탄소 포집 과정의 산출량을 천연 E. coli 단백질을 쓸 때의 1.7배로 끌어올렸다. Pinal이 실험실의 일상 도구가 되기까지는 연구가 더 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ヒューマノイドAIが歩行と\n操作を通しの実演なしで連結",
-          "body": "SNUのRISEは個別に学んだ技能をつなぎ、G1でGR00Tを50%対30%で上回った。",
-          "mini_headline": "ヒューマノイドAIが技能を連結",
+          "headline": "Pinal、普段の言葉で\nタンパク質を設計",
+          "body": "実験では炭素固定タンパク質20個中5個が機能し、最良は天然の1.7x の出力だった。",
+          "mini_headline": "普段の言葉からタンパク質を",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "RISEを用いて連続した多段階タスクをこなす実機のヒューマノイドロボット。提供：Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinalは多様な機能プロンプトを高品質なタンパク質候補に変換する。Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "ソウル大学のSonghwai Oh教授らの研究チームは、ヒューマノイドロボット向けの視覚・言語・行動フレームワーク「RISE(Responsibility-Induced Specialized Experts)」を開発した。別々に収集した移動データと物体操作データから学習するため、歩行と物体操作を切り替える多段階タスク全体の実演を必要としない。"
+                "x": "中国のWestlake University（西湖大学）のチームが率いる研究者らは、自然言語のプロンプトだけから候補タンパク質を生成できる大規模AIモデル「Pinal」を開発し、Natureに論文を発表した。ユーザーは例えば「照明下で緑色の光を放つ蛍光タンパク質を設計して」のように入力する。"
               },
               {
                 "t": "p",
-                "x": "RISEは共有の視覚言語モデル、複数の行動エキスパート、メタコントローラーで構成される。各エキスパートは行動予測の精度に応じて重み付けされるため自律的に専門化し、エキスパートの重みの変化が次のタスク段階へ移るタイミングを示す。"
+                "x": "Pinalの第一モジュールT2structは記述から1Dの構造設計図を作り、第二モジュールSaProt-Tはその設計図と元のプロンプトを読み取って、対応するアミノ酸配列を生成する。設計図を複数作り、それぞれに最適な配列を設計したうえで、各ペアを採点して最終設計を選ぶ。"
               },
               {
                 "t": "p",
-                "x": "シミュレーションではRISEの平均成功率は87.3%で、GR00T-based(GR00Tベース)の単一エキスパート・ベースラインの73.6%を上回った。Dex3-1ハンドを二つ備えた実機のUnitree G1ロボットでは、二〜五段階のタスクで平均50.0%を達成し、ベースラインの30.0%を上回った。段階数が増えるほど優位性は大きくなった。本研究はIROS 2026に採択され、チームは物流、製造、病院、介護、家庭の片付けへの応用を見込む。"
+                "x": "チームは135 million 本のタンパク質配列から出発し、1.7 billion 組のタンパク質・テキストのペアからなるライブラリを構築し、AlphaFoldデータベースから予測3D構造を加えた。モデルには蛍光タンパク質、プラスチック分解酵素、アルコール脱水素酵素、代謝系のH-proteinの設計が課された。"
+              },
+              {
+                "t": "p",
+                "x": "蛍光タンパク質では50,000の配列を29まで絞り込んで試験したが、実際に蛍光を発したのは一つだけだった。H-proteinでは候補20個のうち五つが機能し、最良のものは重要な炭素取り込みプロセスの出力を、天然のE. coliタンパク質を使った場合の1.7倍に高めた。Pinalが日常的な実験ツールになるには、さらなる研究が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人形机器人AI串联行走\n与操作，无需完整演示",
-          "body": "SNU的RISE串联分开学习的技能，在真实G1机器人上以50%比30%胜过GR00T基线。",
-          "mini_headline": "人形机器人AI串联技能",
+          "headline": "Pinal用日常语言\n设计蛋白质",
+          "body": "实验中20个设计的固碳蛋白有5个起效，最佳者产出达天然蛋白的1.7x 水平。",
+          "mini_headline": "用日常语言生成蛋白质",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "一台真实的人形机器人借助RISE完成连续多步骤任务。来源：Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinal能将多样的功能提示转化为高质量的候选蛋白质。Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "首尔大学Songhwai Oh教授领导的研究团队开发了RISE（Responsibility-Induced Specialized Experts），这是一种面向人形机器人的视觉-语言-动作框架。它从分别采集的行走数据和物体操作数据中学习，因此无需在行走与操作物体之间切换的完整多步骤任务演示。"
+                "x": "由中国Westlake University（西湖大学）团队领衔的科学家开发出名为Pinal的大规模AI模型，仅凭自然语言提示即可生成候选蛋白质，相关论文发表于Nature。用户可以输入类似“设计一种在光照下发出绿光的荧光蛋白”这样的指令。"
               },
               {
                 "t": "p",
-                "x": "RISE采用一个共享的视觉-语言模型、多个动作专家和一个元控制器。各专家按其预测动作的准确程度获得权重，从而自行分化专长；专家权重的变化则提示何时进入下一个任务阶段。"
+                "x": "Pinal的第一个模块T2struct根据描述构建1D结构蓝图；第二个模块SaProt-T读取该蓝图和原始提示，生成相匹配的氨基酸序列。它会生成多个蓝图，为每个蓝图设计最佳序列，再为每一对打分，选出最终设计。"
               },
               {
                 "t": "p",
-                "x": "在仿真中，RISE的平均成功率为87.3%，而GR00T-based（基于GR00T）的单专家基线为73.6%。在配备两只Dex3-1灵巧手的真实Unitree G1机器人上，RISE在二至五阶段任务中的平均成功率为50.0%，基线为30.0%，且阶段越多优势越大。该研究已被IROS 2026接收；团队认为它可用于物流、制造、医院、护理和家居整理。"
+                "x": "团队从135 million 条蛋白质序列起步，构建了包含1.7 billion 对蛋白质-文本配对的库，并加入来自AlphaFold数据库的预测3D结构。研究人员让它设计荧光蛋白、降解塑料的酶、醇脱氢酶和代谢相关的H-protein。"
+              },
+              {
+                "t": "p",
+                "x": "对于发光蛋白，50,000条序列被筛选至29条进行测试，只有一条真正发出荧光。对于H-protein，20个候选中有五个起效，最佳者将一项关键固碳过程的产出提升到使用天然E. coli蛋白时的1.7倍。Pinal要成为常规实验室工具，还需要进一步研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IA humanoide encadena marcha y\nmanipulación sin demos completas",
-          "body": "RISE, de la SNU, encadena habilidades aprendidas por separado y supera a GR00T 50% a 30% en un Unitree G1 real.",
-          "mini_headline": "La IA humanoide encadena habilidades",
+          "headline": "Pinal convierte el lenguaje\ncomún en diseños de proteínas",
+          "body": "En laboratorio, 5 de 20 proteínas diseñadas para fijar carbono funcionaron y la mejor rindió 1.7x más que la natural.",
+          "mini_headline": "Proteínas a partir de lenguaje común",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "Un robot humanoide real realiza una tarea continua de varias etapas con RISE. Crédito: Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinal traduce diversas instrucciones funcionales en proteínas candidatas de alta calidad. Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad Nacional de Seúl dirigidos por el profesor Songhwai Oh desarrollaron RISE (Responsibility-Induced Specialized Experts), un marco de visión-lenguaje-acción para robots humanoides. Aprende de datos de locomoción y de manipulación de objetos recogidos por separado, por lo que no necesita demostraciones de tareas completas de varias etapas que alternen entre caminar y manipular objetos."
+                "x": "Científicos dirigidos por un equipo de la Westlake University, en China, desarrollaron un modelo de AI a gran escala llamado Pinal que genera proteínas candidatas solo a partir de instrucciones en lenguaje natural, según un artículo publicado en Nature. Un usuario podría escribir algo como “diseña una proteína fluorescente que emita luz verde bajo iluminación”."
               },
               {
                 "t": "p",
-                "x": "RISE usa un modelo compartido de visión y lenguaje, varios expertos de acción y un metacontrolador. Los expertos se ponderan según lo bien que predicen las acciones, de modo que se especializan por sí solos, y los cambios en esos pesos indican cuándo pasar a la siguiente etapa de la tarea."
+                "x": "El primer módulo de Pinal, T2struct, construye un plano estructural 1D a partir de la descripción; un segundo módulo, SaProt-T, lee ese plano y la instrucción original para generar una secuencia de aminoácidos acorde. Crea varios planos, diseña la mejor secuencia para cada uno y puntúa cada par para elegir el diseño final."
               },
               {
                 "t": "p",
-                "x": "En simulación, RISE logró una tasa de éxito media del 87.3%, frente al 73.6% de una línea base de un solo experto GR00T-based (basada en GR00T). En un robot Unitree G1 real con dos manos Dex3-1, promedió un 50.0% en tareas de dos a cinco etapas frente al 30.0% de la línea base, y su ventaja creció con más etapas. El trabajo fue aceptado en IROS 2026; el equipo ve aplicaciones en logística, fabricación, hospitales, cuidados y organización del hogar."
+                "x": "El equipo partió de 135 millones de secuencias de proteínas y construyó una biblioteca de 1.7 mil millones de pares proteína-texto, a la que añadió estructuras 3D predichas de una base de datos de AlphaFold. Se le pidió diseñar una proteína fluorescente, una enzima que degrada plásticos, una alcohol deshidrogenasa y una H-protein metabólica."
+              },
+              {
+                "t": "p",
+                "x": "Para la proteína luminosa, 50,000 secuencias se filtraron hasta 29 para las pruebas, y solo una llegó a emitir fluorescencia. Para la H-protein, cinco de los 20 candidatos funcionaron, y el mejor elevó el rendimiento de un proceso clave de captura de carbono a 1.7 veces el obtenido con la proteína natural de E. coli. Hace falta más trabajo antes de que Pinal se convierta en una herramienta habitual de laboratorio."
               }
             ]
           }
@@ -507,109 +651,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "휴머노이드 AI가 전체\n시연 없이 걷기·조작 연결",
-          "body": "SNU의 RISE는 기술을 이어 G1에서 GR00T를 50% 대 30%로 이겼다.",
-          "mini_headline": "휴머노이드 AI, 기술을 잇다",
+          "headline": "Pinal, 일상 언어로\n단백질을 설계하다",
+          "body": "탄소 고정 단백질 20개 중 5개가 작동했고 최고는 천연의 1.7x 출력을 냈다.",
+          "mini_headline": "일상 언어로 만드는 단백질",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "RISE로 연속 다단계 작업을 수행하는 실제 휴머노이드 로봇. 출처: Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinal은 다양한 기능 프롬프트를 고품질 단백질 후보로 바꾼다. Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "서울대학교 Songhwai Oh 교수 연구팀이 휴머노이드 로봇용 시각-언어-행동 프레임워크 RISE(Responsibility-Induced Specialized Experts)를 개발했다. RISE는 따로 수집한 보행 데이터와 물체 조작 데이터로 학습하므로, 걷기와 물체 다루기를 오가는 다단계 작업 전체의 시연이 필요 없다."
+                "x": "중국 Westlake University(서호대학) 연구팀이 이끄는 과학자들이 자연어 프롬프트만으로 후보 단백질을 생성하는 대규모 AI 모델 Pinal을 개발했고, 그 내용을 Nature에 실린 논문으로 발표했다. 사용자는 “조명을 받으면 녹색 빛을 내는 형광 단백질을 설계하라” 같은 문장을 입력하면 된다."
               },
               {
                 "t": "p",
-                "x": "RISE는 공유 시각-언어 모델, 여러 행동 전문가, 메타 컨트롤러로 이뤄진다. 각 전문가는 행동을 얼마나 잘 예측하는지에 따라 가중치를 받아 스스로 전문화하고, 전문가 가중치의 변화는 다음 작업 단계로 넘어갈 때를 알려준다."
+                "x": "Pinal의 첫 번째 모듈 T2struct는 설명을 바탕으로 1D 구조 설계도를 만들고, 두 번째 모듈 SaProt-T는 그 설계도와 원래 프롬프트를 읽어 이에 맞는 아미노산 서열을 생성한다. 설계도를 여러 개 만들어 각각에 가장 좋은 서열을 설계한 뒤, 각 쌍에 점수를 매겨 최종 설계를 고른다."
               },
               {
                 "t": "p",
-                "x": "시뮬레이션에서 RISE의 평균 성공률은 87.3%로, GR00T 기반 단일 전문가 베이스라인(GR00T-based)의 73.6%보다 높았다. Dex3-1 손 두 개를 단 실제 Unitree G1 로봇에서는 두 단계에서 다섯 단계짜리 작업에서 평균 50.0%를 기록해 베이스라인의 30.0%를 앞섰고, 단계가 늘수록 격차가 커졌다. 이 연구는 IROS 2026에 채택됐으며, 연구팀은 물류, 제조, 병원, 돌봄, 가정 정리 분야의 활용을 내다본다."
+                "x": "연구팀은 단백질 서열 135 million 개에서 출발해 단백질-텍스트 쌍 1.7 billion 개 규모의 라이브러리를 구축했고, AlphaFold 데이터베이스의 예측 3D 구조를 더했다. 모델에는 형광 단백질, 플라스틱 분해 효소, 알코올 탈수소효소, 대사 H-protein 설계 과제가 주어졌다."
+              },
+              {
+                "t": "p",
+                "x": "형광 단백질의 경우 50,000개 서열을 걸러 29개를 시험했고, 실제로 형광을 낸 것은 하나뿐이었다. H-protein은 후보 20개 중 다섯 개가 작동했고, 가장 좋은 후보는 핵심 탄소 포집 과정의 산출량을 천연 E. coli 단백질을 썼을 때의 1.7배로 끌어올렸다. Pinal이 일상적인 실험 도구가 되려면 추가 연구가 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ヒューマノイドAIが歩行と\n操作を通しの実演なしで連結",
-          "body": "SNUのRISEは個別に学んだ技能をつなぎ、G1でGR00Tを50%対30%で上回った。",
-          "mini_headline": "ヒューマノイドAIが技能を連結",
+          "headline": "Pinal、普段の言葉で\nタンパク質を設計",
+          "body": "実験では炭素固定タンパク質20個中5個が機能し、最良は天然の1.7x の出力だった。",
+          "mini_headline": "普段の言葉からタンパク質を",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "RISEを用いて連続した多段階タスクをこなす実機のヒューマノイドロボット。提供：Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinalは多様な機能プロンプトを高品質なタンパク質候補に変換する。Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "ソウル大学のSonghwai Oh教授らの研究チームは、ヒューマノイドロボット向けの視覚・言語・行動フレームワーク「RISE(Responsibility-Induced Specialized Experts)」を開発した。別々に収集した移動データと物体操作データから学習するため、歩行と物体操作を切り替える多段階タスク全体の実演を必要としない。"
+                "x": "中国のWestlake University（西湖大学）のチームが率いる研究者らは、自然言語のプロンプトだけから候補タンパク質を生成できる大規模AIモデル「Pinal」を開発し、Natureに論文を発表した。ユーザーは例えば「照明下で緑色の光を放つ蛍光タンパク質を設計して」のように入力する。"
               },
               {
                 "t": "p",
-                "x": "RISEは共有の視覚言語モデル、複数の行動エキスパート、メタコントローラーで構成される。各エキスパートは行動予測の精度に応じて重み付けされるため自律的に専門化し、エキスパートの重みの変化が次のタスク段階へ移るタイミングを示す。"
+                "x": "Pinalの第一モジュールT2structは記述から1Dの構造設計図を作り、第二モジュールSaProt-Tはその設計図と元のプロンプトを読み取って、対応するアミノ酸配列を生成する。設計図を複数作り、それぞれに最適な配列を設計したうえで、各ペアを採点して最終設計を選ぶ。"
               },
               {
                 "t": "p",
-                "x": "シミュレーションではRISEの平均成功率は87.3%で、GR00T-based(GR00Tベース)の単一エキスパート・ベースラインの73.6%を上回った。Dex3-1ハンドを二つ備えた実機のUnitree G1ロボットでは、二〜五段階のタスクで平均50.0%を達成し、ベースラインの30.0%を上回った。段階数が増えるほど優位性は大きくなった。本研究はIROS 2026に採択され、チームは物流、製造、病院、介護、家庭の片付けへの応用を見込む。"
+                "x": "チームは135 million 本のタンパク質配列から出発し、1.7 billion 組のタンパク質・テキストのペアからなるライブラリを構築し、AlphaFoldデータベースから予測3D構造を加えた。モデルには蛍光タンパク質、プラスチック分解酵素、アルコール脱水素酵素、代謝系のH-proteinの設計が課された。"
+              },
+              {
+                "t": "p",
+                "x": "蛍光タンパク質では50,000の配列を29まで絞り込んで試験したが、実際に蛍光を発したのは一つだけだった。H-proteinでは候補20個のうち五つが機能し、最良のものは重要な炭素取り込みプロセスの出力を、天然のE. coliタンパク質を使った場合の1.7倍に高めた。Pinalが日常的な実験ツールになるには、さらなる研究が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人形机器人AI串联行走\n与操作，无需完整演示",
-          "body": "SNU的RISE串联分开学习的技能，在真实G1机器人上以50%比30%胜过GR00T基线。",
-          "mini_headline": "人形机器人AI串联技能",
+          "headline": "Pinal用日常语言\n设计蛋白质",
+          "body": "实验中20个设计的固碳蛋白有5个起效，最佳者产出达天然蛋白的1.7x 水平。",
+          "mini_headline": "用日常语言生成蛋白质",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "一台真实的人形机器人借助RISE完成连续多步骤任务。来源：Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinal能将多样的功能提示转化为高质量的候选蛋白质。Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "首尔大学Songhwai Oh教授领导的研究团队开发了RISE（Responsibility-Induced Specialized Experts），这是一种面向人形机器人的视觉-语言-动作框架。它从分别采集的行走数据和物体操作数据中学习，因此无需在行走与操作物体之间切换的完整多步骤任务演示。"
+                "x": "由中国Westlake University（西湖大学）团队领衔的科学家开发出名为Pinal的大规模AI模型，仅凭自然语言提示即可生成候选蛋白质，相关论文发表于Nature。用户可以输入类似“设计一种在光照下发出绿光的荧光蛋白”这样的指令。"
               },
               {
                 "t": "p",
-                "x": "RISE采用一个共享的视觉-语言模型、多个动作专家和一个元控制器。各专家按其预测动作的准确程度获得权重，从而自行分化专长；专家权重的变化则提示何时进入下一个任务阶段。"
+                "x": "Pinal的第一个模块T2struct根据描述构建1D结构蓝图；第二个模块SaProt-T读取该蓝图和原始提示，生成相匹配的氨基酸序列。它会生成多个蓝图，为每个蓝图设计最佳序列，再为每一对打分，选出最终设计。"
               },
               {
                 "t": "p",
-                "x": "在仿真中，RISE的平均成功率为87.3%，而GR00T-based（基于GR00T）的单专家基线为73.6%。在配备两只Dex3-1灵巧手的真实Unitree G1机器人上，RISE在二至五阶段任务中的平均成功率为50.0%，基线为30.0%，且阶段越多优势越大。该研究已被IROS 2026接收；团队认为它可用于物流、制造、医院、护理和家居整理。"
+                "x": "团队从135 million 条蛋白质序列起步，构建了包含1.7 billion 对蛋白质-文本配对的库，并加入来自AlphaFold数据库的预测3D结构。研究人员让它设计荧光蛋白、降解塑料的酶、醇脱氢酶和代谢相关的H-protein。"
+              },
+              {
+                "t": "p",
+                "x": "对于发光蛋白，50,000条序列被筛选至29条进行测试，只有一条真正发出荧光。对于H-protein，20个候选中有五个起效，最佳者将一项关键固碳过程的产出提升到使用天然E. coli蛋白时的1.7倍。Pinal要成为常规实验室工具，还需要进一步研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IA humanoide encadena marcha y\nmanipulación sin demos completas",
-          "body": "RISE, de la SNU, encadena habilidades aprendidas por separado y supera a GR00T 50% a 30% en un Unitree G1 real.",
-          "mini_headline": "La IA humanoide encadena habilidades",
+          "headline": "Pinal convierte el lenguaje\ncomún en diseños de proteínas",
+          "body": "En laboratorio, 5 de 20 proteínas diseñadas para fijar carbono funcionaron y la mejor rindió 1.7x más que la natural.",
+          "mini_headline": "Proteínas a partir de lenguaje común",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/snu-professor-songhwai.jpg",
-                "cap": "Un robot humanoide real realiza una tarea continua de varias etapas con RISE. Crédito: Seoul National University College of Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-can-desig.jpg",
+                "cap": "Pinal traduce diversas instrucciones funcionales en proteínas candidatas de alta calidad. Credit: Nature (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad Nacional de Seúl dirigidos por el profesor Songhwai Oh desarrollaron RISE (Responsibility-Induced Specialized Experts), un marco de visión-lenguaje-acción para robots humanoides. Aprende de datos de locomoción y de manipulación de objetos recogidos por separado, por lo que no necesita demostraciones de tareas completas de varias etapas que alternen entre caminar y manipular objetos."
+                "x": "Científicos dirigidos por un equipo de la Westlake University, en China, desarrollaron un modelo de AI a gran escala llamado Pinal que genera proteínas candidatas solo a partir de instrucciones en lenguaje natural, según un artículo publicado en Nature. Un usuario podría escribir algo como “diseña una proteína fluorescente que emita luz verde bajo iluminación”."
               },
               {
                 "t": "p",
-                "x": "RISE usa un modelo compartido de visión y lenguaje, varios expertos de acción y un metacontrolador. Los expertos se ponderan según lo bien que predicen las acciones, de modo que se especializan por sí solos, y los cambios en esos pesos indican cuándo pasar a la siguiente etapa de la tarea."
+                "x": "El primer módulo de Pinal, T2struct, construye un plano estructural 1D a partir de la descripción; un segundo módulo, SaProt-T, lee ese plano y la instrucción original para generar una secuencia de aminoácidos acorde. Crea varios planos, diseña la mejor secuencia para cada uno y puntúa cada par para elegir el diseño final."
               },
               {
                 "t": "p",
-                "x": "En simulación, RISE logró una tasa de éxito media del 87.3%, frente al 73.6% de una línea base de un solo experto GR00T-based (basada en GR00T). En un robot Unitree G1 real con dos manos Dex3-1, promedió un 50.0% en tareas de dos a cinco etapas frente al 30.0% de la línea base, y su ventaja creció con más etapas. El trabajo fue aceptado en IROS 2026; el equipo ve aplicaciones en logística, fabricación, hospitales, cuidados y organización del hogar."
+                "x": "El equipo partió de 135 millones de secuencias de proteínas y construyó una biblioteca de 1.7 mil millones de pares proteína-texto, a la que añadió estructuras 3D predichas de una base de datos de AlphaFold. Se le pidió diseñar una proteína fluorescente, una enzima que degrada plásticos, una alcohol deshidrogenasa y una H-protein metabólica."
+              },
+              {
+                "t": "p",
+                "x": "Para la proteína luminosa, 50,000 secuencias se filtraron hasta 29 para las pruebas, y solo una llegó a emitir fluorescencia. Para la H-protein, cinco de los 20 candidatos funcionaron, y el mejor elevó el rendimiento de un proceso clave de captura de carbono a 1.7 veces el obtenido con la proteína natural de E. coli. Hace falta más trabajo antes de que Pinal se convierta en una herramienta habitual de laboratorio."
               }
             ]
           }
@@ -617,397 +777,15 @@
       }
     },
     {
-      "id": "oxford-pvdc-hard-carbon",
+      "id": "uw-accent-bias-audio",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "머신러닝이 밝힌\n플라스틱의 하드카본 변신",
-      "body": "옥스퍼드 시뮬레이션 결과, 가열한 PVDC의 오각·칠각 고리가 흑연화를 막았다.",
-      "mini_headline": "플라스틱이 하드카본이 되는 과정",
+      "headline": "AI 채점기, 같은 답에도\n특정 억양엔 점수 낮춰",
+      "body": "네 오디오 모델은 전사가 정확한 같은 답도 중국·나이지리아 억양에 최하점을 줬다.",
+      "mini_headline": "오디오 AI의 억양 편향",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-            "cap": "PVDC 분해를 고온 원자 단위로 시뮬레이션한 장면의 예술적 시각화. 출처: Litong Wu & Volker Deringer"
-          },
-          {
-            "t": "p",
-            "x": "옥스퍼드대학교 연구진이 머신러닝 기반 원자 단위 시뮬레이션으로 폴리염화비닐리덴(PVDC)을 가열하면 하드카본으로 바뀌는 과정을 추적했다. 이 물질은 비흑연화 탄소의 대표 전구체다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-            "cap": "PVDC 분해 과정. 염소 원자가 탄소 사슬에서 떨어져 나가 염화수소가 된다."
-          },
-          {
-            "t": "p",
-            "x": "수소와 염소가 빠져나가면 반응성 탄소 자리가 생긴다. 이 자리끼리 새 탄소–탄소 결합을 맺으면서 넓은 네트워크가 만들어진다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-            "cap": "육각 탄소 고리가 시간이 지나며 이어져 넓은 네트워크를 이루는 시뮬레이션 스냅숏."
-          },
-          {
-            "t": "p",
-            "x": "흑연과 달리 이 네트워크에는 오각·칠각 고리가 섞여 있다. 이 고리들이 구조를 휘게 해 흑연층이 질서 있게 쌓이지 못한다. 연구는 Chemical Science(DOI: 10.1039/d6sc05974k)에 실렸고, 저자들은 연구 데이터를 공개했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Machine learning shows how\nplastic becomes hard carbon",
-          "body": "Oxford simulations show that five- and seven-membered rings formed in heated PVDC stop it from becoming graphite.",
-          "mini_headline": "How plastic becomes hard carbon",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "Artistic visualization of a high-temperature atomistic simulation of PVDC decomposition. Credit: Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "University of Oxford researchers used machine-learning-driven atomistic simulations to trace how polyvinylidene chloride (PVDC), a classic precursor of non-graphitizing carbon, turns into hard carbon when heated."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "How PVDC breaks down: a chlorine atom leaves the carbon chain and forms hydrogen chloride."
-              },
-              {
-                "t": "p",
-                "x": "Losing hydrogen and chlorine creates reactive carbon sites that form new carbon–carbon bonds and an extended network."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "Simulation snapshots showing six-membered carbon rings joining into an extended network over time."
-              },
-              {
-                "t": "p",
-                "x": "Unlike graphite, this network includes five- and seven-membered rings, which add curvature and block the formation of ordered graphite layers. The study appears in Chemical Science (DOI: 10.1039/d6sc05974k), and the authors have made their research data openly available."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "머신러닝이 밝힌\n플라스틱의 하드카본 변신",
-          "body": "옥스퍼드 시뮬레이션 결과, 가열한 PVDC의 오각·칠각 고리가 흑연화를 막았다.",
-          "mini_headline": "플라스틱이 하드카본이 되는 과정",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "PVDC 분해를 고온 원자 단위로 시뮬레이션한 장면의 예술적 시각화. 출처: Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "옥스퍼드대학교 연구진이 머신러닝 기반 원자 단위 시뮬레이션으로 폴리염화비닐리덴(PVDC)을 가열하면 하드카본으로 바뀌는 과정을 추적했다. 이 물질은 비흑연화 탄소의 대표 전구체다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "PVDC 분해 과정. 염소 원자가 탄소 사슬에서 떨어져 나가 염화수소가 된다."
-              },
-              {
-                "t": "p",
-                "x": "수소와 염소가 빠져나가면 반응성 탄소 자리가 생긴다. 이 자리끼리 새 탄소–탄소 결합을 맺으면서 넓은 네트워크가 만들어진다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "육각 탄소 고리가 시간이 지나며 이어져 넓은 네트워크를 이루는 시뮬레이션 스냅숏."
-              },
-              {
-                "t": "p",
-                "x": "흑연과 달리 이 네트워크에는 오각·칠각 고리가 섞여 있다. 이 고리들이 구조를 휘게 해 흑연층이 질서 있게 쌓이지 못한다. 연구는 Chemical Science(DOI: 10.1039/d6sc05974k)에 실렸고, 저자들은 연구 데이터를 공개했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "機械学習で解明\nプラスチックが硬質炭素に",
-          "body": "オックスフォード大の計算で、加熱PVDCの五員環と七員環が黒鉛化を阻むと分かった。",
-          "mini_headline": "プラスチックが硬質炭素になる仕組み",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "PVDC分解の高温原子シミュレーションを芸術的に可視化した図。提供：Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "オックスフォード大学の研究チームは、機械学習を用いた原子レベルのシミュレーションにより、難黒鉛化炭素の代表的な前駆体であるポリ塩化ビニリデン(PVDC)が加熱によって硬質炭素(ハードカーボン)に変わる過程をたどった。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "PVDCの分解過程：塩素原子が炭素鎖から離れ、塩化水素を生成する。"
-              },
-              {
-                "t": "p",
-                "x": "水素と塩素が抜けることで反応性の高い炭素サイトが生じ、新たな炭素–炭素結合と広がったネットワークが形成される。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "炭素の六員環が時間とともにつながり、広がったネットワークを形成する様子を示すシミュレーションのスナップショット。"
-              },
-              {
-                "t": "p",
-                "x": "黒鉛と異なり、このネットワークには五員環と七員環が含まれ、これが曲率を生んで秩序だった黒鉛層の形成を妨げる。研究成果はChemical Science(DOI: 10.1039/d6sc05974k)に掲載され、著者らは研究データを公開している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "机器学习揭示塑料\n如何变成硬碳",
-          "body": "牛津大学模拟显示，加热PVDC时形成的五元环和七元环阻止其转变为石墨。",
-          "mini_headline": "塑料如何变成硬碳",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "PVDC分解高温原子模拟的艺术化呈现。来源：Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "牛津大学研究人员利用机器学习驱动的原子尺度模拟，追踪了非石墨化碳的经典前驱体聚偏二氯乙烯（PVDC）在加热时转变为硬碳的过程。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "PVDC的分解方式：氯原子脱离碳链，形成氯化氢。"
-              },
-              {
-                "t": "p",
-                "x": "氢和氯的脱除产生活性碳位点，这些位点形成新的碳–碳键，并构成延展的网络。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "模拟快照显示六元碳环随时间连接成延展网络。"
-              },
-              {
-                "t": "p",
-                "x": "与石墨不同，这一网络含有五元环和七元环，它们引入曲率，阻碍有序石墨层的形成。该研究发表于Chemical Science（DOI: 10.1039/d6sc05974k），作者已公开研究数据。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aprendizaje automático: el paso\nde plástico a carbono duro",
-          "body": "Simulaciones de Oxford muestran que anillos de cinco y siete miembros impiden que el PVDC calentado se vuelva grafito.",
-          "mini_headline": "Cómo el plástico se vuelve carbono duro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "Visualización artística de una simulación atomística a alta temperatura de la descomposición del PVDC. Crédito: Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la Universidad de Oxford usaron simulaciones atomísticas impulsadas por aprendizaje automático para rastrear cómo el policloruro de vinilideno (PVDC), un precursor clásico del carbono no grafitizable, se convierte en carbono duro al calentarse."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "Cómo se descompone el PVDC: un átomo de cloro abandona la cadena de carbono y forma cloruro de hidrógeno."
-              },
-              {
-                "t": "p",
-                "x": "La pérdida de hidrógeno y cloro crea sitios de carbono reactivos que forman nuevos enlaces carbono–carbono y una red extendida."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "Capturas de la simulación que muestran anillos de carbono de seis miembros uniéndose con el tiempo en una red extendida."
-              },
-              {
-                "t": "p",
-                "x": "A diferencia del grafito, esta red incluye anillos de cinco y siete miembros, que añaden curvatura e impiden la formación de capas ordenadas de grafito. El estudio aparece en Chemical Science (DOI: 10.1039/d6sc05974k) y los autores han publicado abiertamente sus datos de investigación."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "머신러닝이 밝힌\n플라스틱의 하드카본 변신",
-          "body": "옥스퍼드 시뮬레이션에서 가열한 PVDC에 생긴 오각·칠각 고리가 흑연화를 막는다.",
-          "mini_headline": "플라스틱이 하드카본이 되는 과정",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "PVDC 분해를 고온 원자 단위로 시뮬레이션한 장면의 예술적 시각화. 출처: Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "옥스퍼드대학교 연구진은 머신러닝 기반 원자 단위 시뮬레이션으로, 비흑연화 탄소의 대표적 전구체인 폴리염화비닐리덴(PVDC)이 가열될 때 하드카본으로 바뀌는 과정을 추적했다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "PVDC가 분해되는 방식: 염소 원자가 탄소 사슬에서 떨어져 나가 염화수소를 만든다."
-              },
-              {
-                "t": "p",
-                "x": "수소와 염소가 빠져나가면 반응성 탄소 자리가 생기고, 이 자리들이 새로운 탄소–탄소 결합을 이루며 넓은 네트워크를 형성한다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "시간이 지나며 육각 탄소 고리들이 이어져 넓은 네트워크를 이루는 모습을 담은 시뮬레이션 스냅숏."
-              },
-              {
-                "t": "p",
-                "x": "흑연과 달리 이 네트워크에는 오각·칠각 고리가 섞여 있어 곡률을 더하고, 질서 정연한 흑연층의 형성을 막는다. 이 연구는 Chemical Science(DOI: 10.1039/d6sc05974k)에 실렸으며, 저자들은 연구 데이터를 공개했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "機械学習で解明\nプラスチックが硬質炭素に",
-          "body": "オックスフォード大の計算で、加熱PVDCの五員環と七員環が黒鉛化を阻むと分かった。",
-          "mini_headline": "プラスチックが硬質炭素になる仕組み",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "PVDC分解の高温原子シミュレーションを芸術的に可視化した図。提供：Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "オックスフォード大学の研究チームは、機械学習を用いた原子レベルのシミュレーションにより、難黒鉛化炭素の代表的な前駆体であるポリ塩化ビニリデン(PVDC)が加熱によって硬質炭素(ハードカーボン)に変わる過程をたどった。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "PVDCの分解過程：塩素原子が炭素鎖から離れ、塩化水素を生成する。"
-              },
-              {
-                "t": "p",
-                "x": "水素と塩素が抜けることで反応性の高い炭素サイトが生じ、新たな炭素–炭素結合と広がったネットワークが形成される。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "炭素の六員環が時間とともにつながり、広がったネットワークを形成する様子を示すシミュレーションのスナップショット。"
-              },
-              {
-                "t": "p",
-                "x": "黒鉛と異なり、このネットワークには五員環と七員環が含まれ、これが曲率を生んで秩序だった黒鉛層の形成を妨げる。研究成果はChemical Science(DOI: 10.1039/d6sc05974k)に掲載され、著者らは研究データを公開している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "机器学习揭示塑料\n如何变成硬碳",
-          "body": "牛津大学模拟显示，加热PVDC时形成的五元环和七元环阻止其转变为石墨。",
-          "mini_headline": "塑料如何变成硬碳",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "PVDC分解高温原子模拟的艺术化呈现。来源：Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "牛津大学研究人员利用机器学习驱动的原子尺度模拟，追踪了非石墨化碳的经典前驱体聚偏二氯乙烯（PVDC）在加热时转变为硬碳的过程。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "PVDC的分解方式：氯原子脱离碳链，形成氯化氢。"
-              },
-              {
-                "t": "p",
-                "x": "氢和氯的脱除产生活性碳位点，这些位点形成新的碳–碳键，并构成延展的网络。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "模拟快照显示六元碳环随时间连接成延展网络。"
-              },
-              {
-                "t": "p",
-                "x": "与石墨不同，这一网络含有五元环和七元环，它们引入曲率，阻碍有序石墨层的形成。该研究发表于Chemical Science（DOI: 10.1039/d6sc05974k），作者已公开研究数据。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aprendizaje automático: el paso\nde plástico a carbono duro",
-          "body": "Simulaciones de Oxford muestran que anillos de cinco y siete miembros impiden que el PVDC calentado se vuelva grafito.",
-          "mini_headline": "Cómo el plástico se vuelve carbono duro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul.jpg",
-                "cap": "Visualización artística de una simulación atomística a alta temperatura de la descomposición del PVDC. Crédito: Litong Wu & Volker Deringer"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la Universidad de Oxford usaron simulaciones atomísticas impulsadas por aprendizaje automático para rastrear cómo el policloruro de vinilideno (PVDC), un precursor clásico del carbono no grafitizable, se convierte en carbono duro al calentarse."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-1.jpg",
-                "cap": "Cómo se descompone el PVDC: un átomo de cloro abandona la cadena de carbono y forma cloruro de hidrógeno."
-              },
-              {
-                "t": "p",
-                "x": "La pérdida de hidrógeno y cloro crea sitios de carbono reactivos que forman nuevos enlaces carbono–carbono y una red extendida."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-simul-2.jpg",
-                "cap": "Capturas de la simulación que muestran anillos de carbono de seis miembros uniéndose con el tiempo en una red extendida."
-              },
-              {
-                "t": "p",
-                "x": "A diferencia del grafito, esta red incluye anillos de cinco y siete miembros, que añaden curvatura e impiden la formación de capas ordenadas de grafito. El estudio aparece en Chemical Science (DOI: 10.1039/d6sc05974k) y los autores han publicado abiertamente sus datos de investigación."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "chalmers-gnn-qec-decoder",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "양자 오류 정정용\n모듈형 신경망 디코더",
-      "body": "예테보리·찰머스 팀이 표면 코드 메모리·격자 수술용 GNN 디코더를 만들었다.",
-      "mini_headline": "양자 오류용 신경망 디코더",
-      "tool": "Science",
-      "source": "Quantum Computing Report",
-      "url": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-ai-biased-accents-scoring.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1015,149 +793,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+            "cap": "Credit: ShotPot from Pexels"
           },
           {
             "t": "p",
-            "x": "예테보리대학교와 찰머스공과대학 연구진이 표면 코드 양자 오류 정정용 모듈형 신경망 디코더를 시연했다. 하드웨어 아키텍처나 노이즈 프로파일이 달라도, 다중 패치 논리 연산에도 그대로 이식할 수 있다. 검증에는 IBM Quantum의 Nighthawk r1 세대(ibm_berlin)와 Google Quantum AI의 임계값 이하 Sycamore 프로세서 데이터를 썼다."
+            "x": "UW 주도(UW-led) 연구팀이 최첨단 AI 모델에서 특정 억양 화자를 향한 편향을 확인했다. 실험에서는 Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI의 GPT-Audio 1.5, 오픈소스 Qwen 3 Omni가 미국·영국·중국·인도·나이지리아 억양으로 읽은 취업 면접 답변과 발표, 영어 능력 응답을 채점했다."
           },
           {
             "t": "p",
-            "x": "메모리 실험에서는 최소 가중치 완전 매칭(MWPM)을 앞섰고, 상용 GPU 한 장으로 학습하면서도 실제 두 패치 ZZ-merge 격자 수술 연산까지 디코딩했다. AlphaQubit이 조밀한 순환 Transformer 블록을 쓰는 것과 달리, 여기서는 공유 국소 그래프 신경망이 작은 3×3×2 시공간 클러스터를 처리한다. 합성곱 층이 이를 성기게 묶고 GRU가 시간 축으로 합친다. 매개변수는 거리 d = 3, 5, 7, 9 모두에서 이백만~삼백만 개 안팎이다."
+            "x": "점수는 대체로 중국·나이지리아 억양이 가장 낮고 인도 억양이 중간, 미국·영국 억양이 가장 높았다. 내용이 똑같고 모델이 말을 정확히 받아 적을 수 있었는데도 전달력과 내용 모두에서 미국·영국 화자가 더 높은 점수를 받았다. 대본 낭독은 ElevenLabs의 AI 음성이 맡았고, 결과는 실제 화자 52명으로 검증했다."
           },
           {
             "t": "p",
-            "x": "실시간으로 쓰려면 추론이 마이크로초 안에 끝나야 한다. GNN-RNN 아키텍처를 FPGA나 ASIC 가속기에 컴파일하는 쪽이 유력하다. 프리프린트는 arXiv에, 오픈소스 모델과 학습 스크립트는 GitHub에 올라와 있다."
+            "x": "공동 제1저자 Orevaoghene Ahia는 “모델들은 중국과 나이지리아 화자가 ‘웅얼거린다’거나 ‘알아듣기 어렵다’고 거듭 주장했지만, 실제로는 억양이 섞인 말을 아주 잘 받아 적었다”고 말했다. 연구는 Oct. 25 부다페스트에서 열린 EMNLP에서 발표됐다."
+          },
+          {
+            "t": "p",
+            "x": "책임저자 Yulia Tsvetkov는 개발자들이 평균 성능만 내놓을 게 아니라 하위 집단·방언별로 나눈 평가 결과도 공개해야 한다고 촉구했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A modular neural decoder for\nquantum error correction",
-          "body": "Gothenburg and Chalmers researchers built a graph neural decoder that handles surface-code memory and lattice surgery.",
-          "mini_headline": "Neural decoder for quantum errors",
+          "headline": "AI graders score some accents\nlower for the same answers",
+          "body": "Four audio models ranked Chinese and Nigerian accents lowest even for identical content they transcribed accurately.",
+          "mini_headline": "Audio AI's accent bias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "Researchers from the University of Gothenburg and Chalmers University of Technology have demonstrated a modular neural decoder for surface code quantum error correction that transfers across hardware architectures, variable noise profiles and multi-patch logical operations. They validated it on data from IBM Quantum's Nighthawk r1 generation (ibm_berlin) and Google Quantum AI's below-threshold Sycamore processor."
+                "x": "A UW-led team found that state-of-the-art AI models were biased against speakers with certain accents. Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI's GPT-Audio 1.5 and the open-source Qwen 3 Omni scored job interview answers, presentations and English proficiency responses read in American, British, Chinese, Indian and Nigerian accents."
               },
               {
                 "t": "p",
-                "x": "The framework outperforms minimum-weight perfect matching (MWPM) on memory experiments and decodes a real two-patch ZZ-merge lattice-surgery operation while remaining trainable on a single commercial GPU. Unlike AlphaQubit's dense recurrent Transformer blocks, a shared local graph neural network processes small 3×3×2 space-time clusters, coarse-grained by convolutional layers and integrated over time by a GRU, keeping roughly two to three million parameters across distances d = 3, 5, 7 and 9."
+                "x": "The models generally ranked Chinese and Nigerian accents the lowest, Indian in the middle and American and British the highest. Even when the content was exactly the same and the models could accurately transcribe the speech, they ranked both delivery and content higher for American and British speakers. AI voices from ElevenLabs read the scripts, and results were validated with 52 human speakers."
               },
               {
                 "t": "p",
-                "x": "Real-time use will require sub-microsecond inference, likely by compiling the GNN-RNN architecture onto FPGA or ASIC accelerators. The preprint is on arXiv, with open-source models and training scripts on GitHub."
+                "x": "\"Even though they repeatedly claimed Chinese and Nigerian speakers 'mumbled' or were 'difficult to understand,' the models were actually very good at transcribing the accented speech,\" said co-lead author Orevaoghene Ahia. The work was presented Oct. 25 at EMNLP in Budapest."
+              },
+              {
+                "t": "p",
+                "x": "Senior author Yulia Tsvetkov urged developers to publish evaluations broken down by subpopulations and dialects, not only average performance."
               }
             ]
           }
         },
         "ko": {
-          "headline": "양자 오류 정정용\n모듈형 신경망 디코더",
-          "body": "예테보리·찰머스 팀이 표면 코드 메모리·격자 수술용 GNN 디코더를 만들었다.",
-          "mini_headline": "양자 오류용 신경망 디코더",
+          "headline": "AI 채점기, 같은 답에도\n특정 억양엔 점수 낮춰",
+          "body": "네 오디오 모델은 전사가 정확한 같은 답도 중국·나이지리아 억양에 최하점을 줬다.",
+          "mini_headline": "오디오 AI의 억양 편향",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "예테보리대학교와 찰머스공과대학 연구진이 표면 코드 양자 오류 정정용 모듈형 신경망 디코더를 시연했다. 하드웨어 아키텍처나 노이즈 프로파일이 달라도, 다중 패치 논리 연산에도 그대로 이식할 수 있다. 검증에는 IBM Quantum의 Nighthawk r1 세대(ibm_berlin)와 Google Quantum AI의 임계값 이하 Sycamore 프로세서 데이터를 썼다."
+                "x": "UW 주도(UW-led) 연구팀이 최첨단 AI 모델에서 특정 억양 화자를 향한 편향을 확인했다. 실험에서는 Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI의 GPT-Audio 1.5, 오픈소스 Qwen 3 Omni가 미국·영국·중국·인도·나이지리아 억양으로 읽은 취업 면접 답변과 발표, 영어 능력 응답을 채점했다."
               },
               {
                 "t": "p",
-                "x": "메모리 실험에서는 최소 가중치 완전 매칭(MWPM)을 앞섰고, 상용 GPU 한 장으로 학습하면서도 실제 두 패치 ZZ-merge 격자 수술 연산까지 디코딩했다. AlphaQubit이 조밀한 순환 Transformer 블록을 쓰는 것과 달리, 여기서는 공유 국소 그래프 신경망이 작은 3×3×2 시공간 클러스터를 처리한다. 합성곱 층이 이를 성기게 묶고 GRU가 시간 축으로 합친다. 매개변수는 거리 d = 3, 5, 7, 9 모두에서 이백만~삼백만 개 안팎이다."
+                "x": "점수는 대체로 중국·나이지리아 억양이 가장 낮고 인도 억양이 중간, 미국·영국 억양이 가장 높았다. 내용이 똑같고 모델이 말을 정확히 받아 적을 수 있었는데도 전달력과 내용 모두에서 미국·영국 화자가 더 높은 점수를 받았다. 대본 낭독은 ElevenLabs의 AI 음성이 맡았고, 결과는 실제 화자 52명으로 검증했다."
               },
               {
                 "t": "p",
-                "x": "실시간으로 쓰려면 추론이 마이크로초 안에 끝나야 한다. GNN-RNN 아키텍처를 FPGA나 ASIC 가속기에 컴파일하는 쪽이 유력하다. 프리프린트는 arXiv에, 오픈소스 모델과 학습 스크립트는 GitHub에 올라와 있다."
+                "x": "공동 제1저자 Orevaoghene Ahia는 “모델들은 중국과 나이지리아 화자가 ‘웅얼거린다’거나 ‘알아듣기 어렵다’고 거듭 주장했지만, 실제로는 억양이 섞인 말을 아주 잘 받아 적었다”고 말했다. 연구는 Oct. 25 부다페스트에서 열린 EMNLP에서 발표됐다."
+              },
+              {
+                "t": "p",
+                "x": "책임저자 Yulia Tsvetkov는 개발자들이 평균 성능만 내놓을 게 아니라 하위 집단·방언별로 나눈 평가 결과도 공개해야 한다고 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "量子誤り訂正向けの\nモジュール型ニューラル復号器",
-          "body": "ヨーテボリ大とチャルマースが、表面符号メモリと格子手術を扱うGNN復号器を開発した。",
-          "mini_headline": "量子誤り訂正のニューラル復号器",
+          "headline": "AI採点、同じ答えでも\n一部の訛りを低評価",
+          "body": "四つの音声モデルは正確に書き起こした同じ内容でも中国・ナイジェリア訛りを最低評価した。",
+          "mini_headline": "音声AIの訛りバイアス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "ヨーテボリ大学とチャルマース工科大学の研究チームは、ハードウェアアーキテクチャ、変動するノイズ特性、複数パッチの論理演算をまたいで転用できる、表面符号量子誤り訂正向けのモジュール型ニューラル復号器を実証した。IBM QuantumのNighthawk r1世代(ibm_berlin)と、Google Quantum AIのしきい値以下で動作するSycamoreプロセッサーのデータで検証した。"
+                "x": "UW主導（UW-led）の研究チームは、最先端のAIモデルが特定の訛りを持つ話者に偏りを示すことを明らかにした。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAIのGPT-Audio 1.5、オープンソースのQwen 3 Omniが、アメリカ、イギリス、中国、インド、ナイジェリアの訛りで読まれた就職面接の回答、プレゼンテーション、英語能力の回答を採点した。"
               },
               {
                 "t": "p",
-                "x": "このフレームワークはメモリ実験で最小重み完全マッチング(MWPM)を上回り、二つのパッチによる実際のZZ-merge格子手術操作を復号しつつ、市販のGPU一枚で学習できる。AlphaQubitの密な再帰型Transformerブロックとは異なり、共有された局所グラフニューラルネットワークが3×3×2の小さな時空間クラスターを処理し、畳み込み層で粗視化したうえでGRUが時間方向に統合する。パラメーター数は距離d = 3, 5, 7, 9のいずれでも約二百万〜三百万に収まる。"
+                "x": "モデルは概して中国とナイジェリアの訛りを最も低く、インドを中間、アメリカとイギリスを最も高く評価した。内容が完全に同じで、モデルが音声を正確に書き起こせた場合でも、話し方と内容の両方でアメリカとイギリスの話者を高く評価した。原稿はElevenLabsのAI音声が読み上げ、結果は52人の実際の話者で検証された。"
               },
               {
                 "t": "p",
-                "x": "リアルタイムで使うにはマイクロ秒未満の推論が必要で、GNN-RNNアーキテクチャをFPGAやASICアクセラレーターにコンパイルする方法が有力だ。プレプリントはarXivで公開され、オープンソースのモデルと学習スクリプトはGitHubにある。"
+                "x": "共同筆頭著者のOrevaoghene Ahiaは「モデルは中国やナイジェリアの話者について『もごもご話す』『聞き取りにくい』と繰り返し主張したが、実際には訛りのある音声を非常にうまく書き起こしていた」と述べた。研究はOct. 25 、ブダペストで開かれたEMNLPで発表された。"
+              },
+              {
+                "t": "p",
+                "x": "責任著者のYulia Tsvetkovは開発者に対し、平均性能だけでなく、サブグループや方言ごとに分けた評価を公開するよう求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面向量子纠错的\n模块化神经解码器",
-          "body": "哥德堡大学与查尔姆斯理工研究人员打造图神经解码器，可处理表面码存储与晶格手术。",
-          "mini_headline": "量子纠错神经解码器",
+          "headline": "AI评分员对同样回答\n给某些口音打低分",
+          "body": "四个音频模型即便准确转写了相同内容，仍给中国和尼日利亚口音打出最低分。",
+          "mini_headline": "音频AI的口音偏见",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "哥德堡大学和查尔姆斯理工大学的研究人员展示了一种用于表面码量子纠错的模块化神经解码器，可跨硬件架构、不同噪声特征和多块逻辑操作迁移。他们使用IBM Quantum的Nighthawk r1代（ibm_berlin）以及Google Quantum AI低于阈值的Sycamore处理器数据进行了验证。"
+                "x": "一支由UW牵头（UW-led）的团队发现，最先进的AI模型对带有某些口音的说话者存在偏见。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAI的GPT-Audio 1.5以及开源的Qwen 3 Omni，对以美国、英国、中国、印度和尼日利亚口音朗读的求职面试回答、演讲和英语水平回答进行了评分。"
               },
               {
                 "t": "p",
-                "x": "该框架在存储实验中优于最小权重完美匹配（MWPM），能解码真实的双块ZZ-merge晶格手术操作，同时只需一块商用GPU即可训练。与AlphaQubit稠密的循环Transformer模块不同，它由共享的局部图神经网络处理3×3×2的小型时空簇，经卷积层粗粒化后再由GRU在时间上整合，在距离d = 3, 5, 7和9下参数量都保持在约两三百万。"
+                "x": "这些模型通常给中国和尼日利亚口音打最低分，印度口音居中，美国和英国口音最高。即使内容完全相同、模型也能准确转写语音，它们在表达和内容两方面仍给美国和英国说话者打出更高分。脚本由ElevenLabs的AI语音朗读，结果经52名真人说话者验证。"
               },
               {
                 "t": "p",
-                "x": "实时应用需要亚微秒级推理，可能需将GNN-RNN架构编译到FPGA或ASIC加速器上。预印本已发布在arXiv，开源模型和训练脚本见GitHub。"
+                "x": "共同第一作者Orevaoghene Ahia说：“尽管模型一再声称中国和尼日利亚说话者‘含糊不清’或‘难以听懂’，它们其实非常擅长转写带口音的语音。”该研究于Oct. 25 在布达佩斯举行的EMNLP上发表。"
+              },
+              {
+                "t": "p",
+                "x": "资深作者Yulia Tsvetkov敦促开发者不仅公布平均性能，还应公布按子群体和方言细分的评估结果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Decodificador neuronal modular\npara corregir errores cuánticos",
-          "body": "Equipos de Gotemburgo y Chalmers crearon un decodificador GNN para memoria y cirugía de red en código de superficie.",
-          "mini_headline": "Decodificador neuronal para errores cuánticos",
+          "headline": "Con iguales respuestas, la AI\npuntúa peor a ciertos acentos",
+          "body": "Cuatro modelos de audio dieron la peor nota a acentos chinos y nigerianos aun con contenido idéntico bien transcrito.",
+          "mini_headline": "Sesgo de acento en la AI de audio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Gotemburgo y de la Universidad Tecnológica Chalmers demostraron un decodificador neuronal modular para la corrección cuántica de errores con código de superficie que se transfiere entre arquitecturas de hardware, perfiles de ruido variables y operaciones lógicas de varios parches. Lo validaron con datos de la generación Nighthawk r1 de IBM Quantum (ibm_berlin) y del procesador Sycamore de Google Quantum AI, que opera por debajo del umbral."
+                "x": "Un equipo liderado por la UW (UW-led) descubrió que los modelos de AI más avanzados presentaban sesgos contra hablantes con ciertos acentos. Gemini 2.5 Pro, Gemini 2.5 Flash, GPT-Audio 1.5 de OpenAI y el modelo de código abierto Qwen 3 Omni calificaron respuestas de entrevistas de trabajo, presentaciones y respuestas de dominio del inglés leídas con acentos estadounidense, británico, chino, indio y nigeriano."
               },
               {
                 "t": "p",
-                "x": "El marco supera al emparejamiento perfecto de peso mínimo (MWPM) en experimentos de memoria y decodifica una operación real de cirugía de red ZZ-merge con dos parches, y aun así puede entrenarse en una sola GPU comercial. A diferencia de los densos bloques Transformer recurrentes de AlphaQubit, una red neuronal de grafos local y compartida procesa pequeños clústeres espaciotemporales de 3×3×2, que las capas convolucionales agregan a escala gruesa y una GRU integra en el tiempo, con unos dos a tres millones de parámetros para las distancias d = 3, 5, 7 y 9."
+                "x": "En general, los modelos situaron los acentos chino y nigeriano en lo más bajo, el indio en el medio y el estadounidense y el británico en lo más alto. Incluso cuando el contenido era exactamente el mismo y los modelos podían transcribir el habla con precisión, puntuaron más alto tanto la expresión como el contenido de los hablantes estadounidenses y británicos. Voces de AI de ElevenLabs leyeron los guiones, y los resultados se validaron con 52 hablantes humanos."
               },
               {
                 "t": "p",
-                "x": "El uso en tiempo real exigirá inferencias por debajo del microsegundo, probablemente compilando la arquitectura GNN-RNN en aceleradores FPGA o ASIC. El preprint está en arXiv, con modelos de código abierto y scripts de entrenamiento en GitHub."
+                "x": "“Aunque afirmaban repetidamente que los hablantes chinos y nigerianos ‘mascullaban’ o eran ‘difíciles de entender’, los modelos en realidad transcribían muy bien el habla con acento”, dijo la coautora principal Orevaoghene Ahia. El trabajo se presentó el 25 de octubre en EMNLP, en Budapest."
+              },
+              {
+                "t": "p",
+                "x": "La autora sénior Yulia Tsvetkov instó a los desarrolladores a publicar evaluaciones desglosadas por subpoblaciones y dialectos, no solo el rendimiento promedio."
               }
             ]
           }
@@ -1165,105 +973,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "양자 오류 정정용\n모듈형 신경망 디코더",
-          "body": "예테보리·찰머스 팀이 표면 코드 메모리·격자 수술용 GNN 디코더를 만들었다.",
-          "mini_headline": "양자 오류용 신경망 디코더",
+          "headline": "AI 채점기, 같은 답에도\n특정 억양엔 점수 낮춰",
+          "body": "네 오디오 모델은 전사가 정확한 같은 답도 중국·나이지리아 억양에 최하점을 줬다.",
+          "mini_headline": "오디오 AI의 억양 편향",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "예테보리대학교와 찰머스공과대학 연구진이 하드웨어 아키텍처, 다양한 노이즈 프로파일, 다중 패치 논리 연산 전반에 이식할 수 있는 표면 코드 양자 오류 정정용 모듈형 신경망 디코더를 시연했다. 연구진은 IBM Quantum의 Nighthawk r1 세대(ibm_berlin)와 Google Quantum AI의 임계값 이하 Sycamore 프로세서 데이터로 이를 검증했다."
+                "x": "UW 주도(UW-led) 연구팀은 최첨단 AI 모델이 특정 억양을 쓰는 화자에게 편향돼 있다는 사실을 확인했다. Gemini 2.5 Pro, Gemini 2.5 Flash, OpenAI의 GPT-Audio 1.5, 오픈소스 Qwen 3 Omni가 미국·영국·중국·인도·나이지리아 억양으로 읽은 취업 면접 답변, 발표, 영어 능력 응답을 채점했다."
               },
               {
                 "t": "p",
-                "x": "이 프레임워크는 메모리 실험에서 최소 가중치 완전 매칭(MWPM)보다 뛰어난 성능을 보였고, 상용 GPU 한 장으로 학습할 수 있으면서도 실제 두 패치 ZZ-merge 격자 수술 연산을 디코딩했다. AlphaQubit의 조밀한 순환 Transformer 블록과 달리, 공유된 국소 그래프 신경망이 작은 3×3×2 시공간 클러스터를 처리하고, 합성곱 층이 이를 성기게 묶으며 GRU가 시간 축으로 통합한다. 매개변수는 거리 d = 3, 5, 7, 9 전반에서 약 이백만~삼백만 개 수준을 유지한다."
+                "x": "모델들은 대체로 중국과 나이지리아 억양을 가장 낮게, 인도 억양을 중간으로, 미국과 영국 억양을 가장 높게 평가했다. 내용이 완전히 같고 모델이 말을 정확히 받아 적을 수 있었는데도, 전달력과 내용 모두에서 미국·영국 화자에게 더 높은 점수를 줬다. 대본은 ElevenLabs의 AI 음성이 읽었고, 결과는 실제 화자 52명으로 검증했다."
               },
               {
                 "t": "p",
-                "x": "실시간으로 쓰려면 마이크로초 미만의 추론이 필요하며, GNN-RNN 아키텍처를 FPGA나 ASIC 가속기에 컴파일하는 방식이 유력하다. 프리프린트는 arXiv에 공개됐고, 오픈소스 모델과 학습 스크립트는 GitHub에 있다."
+                "x": "공동 제1저자 Orevaoghene Ahia는 “모델들은 중국과 나이지리아 화자가 ‘웅얼거린다’거나 ‘알아듣기 어렵다’고 거듭 주장했지만, 실제로는 억양이 섞인 말을 아주 잘 받아 적었다”고 말했다. 이 연구는 Oct. 25 부다페스트에서 열린 EMNLP에서 발표됐다."
+              },
+              {
+                "t": "p",
+                "x": "책임저자 Yulia Tsvetkov는 개발자들이 평균 성능만이 아니라 하위 집단과 방언별로 나눈 평가 결과를 공개해야 한다고 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "量子誤り訂正向けの\nモジュール型ニューラル復号器",
-          "body": "ヨーテボリ大とチャルマースが、表面符号メモリと格子手術を扱うGNN復号器を開発した。",
-          "mini_headline": "量子誤り訂正のニューラル復号器",
+          "headline": "AI採点、同じ答えでも\n一部の訛りを低評価",
+          "body": "四つの音声モデルは正確に書き起こした同じ内容でも中国・ナイジェリア訛りを最低評価した。",
+          "mini_headline": "音声AIの訛りバイアス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "ヨーテボリ大学とチャルマース工科大学の研究チームは、ハードウェアアーキテクチャ、変動するノイズ特性、複数パッチの論理演算をまたいで転用できる、表面符号量子誤り訂正向けのモジュール型ニューラル復号器を実証した。IBM QuantumのNighthawk r1世代(ibm_berlin)と、Google Quantum AIのしきい値以下で動作するSycamoreプロセッサーのデータで検証した。"
+                "x": "UW主導（UW-led）の研究チームは、最先端のAIモデルが特定の訛りを持つ話者に偏りを示すことを明らかにした。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAIのGPT-Audio 1.5、オープンソースのQwen 3 Omniが、アメリカ、イギリス、中国、インド、ナイジェリアの訛りで読まれた就職面接の回答、プレゼンテーション、英語能力の回答を採点した。"
               },
               {
                 "t": "p",
-                "x": "このフレームワークはメモリ実験で最小重み完全マッチング(MWPM)を上回り、二つのパッチによる実際のZZ-merge格子手術操作を復号しつつ、市販のGPU一枚で学習できる。AlphaQubitの密な再帰型Transformerブロックとは異なり、共有された局所グラフニューラルネットワークが3×3×2の小さな時空間クラスターを処理し、畳み込み層で粗視化したうえでGRUが時間方向に統合する。パラメーター数は距離d = 3, 5, 7, 9のいずれでも約二百万〜三百万に収まる。"
+                "x": "モデルは概して中国とナイジェリアの訛りを最も低く、インドを中間、アメリカとイギリスを最も高く評価した。内容が完全に同じで、モデルが音声を正確に書き起こせた場合でも、話し方と内容の両方でアメリカとイギリスの話者を高く評価した。原稿はElevenLabsのAI音声が読み上げ、結果は52人の実際の話者で検証された。"
               },
               {
                 "t": "p",
-                "x": "リアルタイムで使うにはマイクロ秒未満の推論が必要で、GNN-RNNアーキテクチャをFPGAやASICアクセラレーターにコンパイルする方法が有力だ。プレプリントはarXivで公開され、オープンソースのモデルと学習スクリプトはGitHubにある。"
+                "x": "共同筆頭著者のOrevaoghene Ahiaは「モデルは中国やナイジェリアの話者について『もごもご話す』『聞き取りにくい』と繰り返し主張したが、実際には訛りのある音声を非常にうまく書き起こしていた」と述べた。研究はOct. 25 、ブダペストで開かれたEMNLPで発表された。"
+              },
+              {
+                "t": "p",
+                "x": "責任著者のYulia Tsvetkovは開発者に対し、平均性能だけでなく、サブグループや方言ごとに分けた評価を公開するよう求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面向量子纠错的\n模块化神经解码器",
-          "body": "哥德堡大学与查尔姆斯理工研究人员打造图神经解码器，可处理表面码存储与晶格手术。",
-          "mini_headline": "量子纠错神经解码器",
+          "headline": "AI评分员对同样回答\n给某些口音打低分",
+          "body": "四个音频模型即便准确转写了相同内容，仍给中国和尼日利亚口音打出最低分。",
+          "mini_headline": "音频AI的口音偏见",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "哥德堡大学和查尔姆斯理工大学的研究人员展示了一种用于表面码量子纠错的模块化神经解码器，可跨硬件架构、不同噪声特征和多块逻辑操作迁移。他们使用IBM Quantum的Nighthawk r1代（ibm_berlin）以及Google Quantum AI低于阈值的Sycamore处理器数据进行了验证。"
+                "x": "一支由UW牵头（UW-led）的团队发现，最先进的AI模型对带有某些口音的说话者存在偏见。Gemini 2.5 Pro、Gemini 2.5 Flash、OpenAI的GPT-Audio 1.5以及开源的Qwen 3 Omni，对以美国、英国、中国、印度和尼日利亚口音朗读的求职面试回答、演讲和英语水平回答进行了评分。"
               },
               {
                 "t": "p",
-                "x": "该框架在存储实验中优于最小权重完美匹配（MWPM），能解码真实的双块ZZ-merge晶格手术操作，同时只需一块商用GPU即可训练。与AlphaQubit稠密的循环Transformer模块不同，它由共享的局部图神经网络处理3×3×2的小型时空簇，经卷积层粗粒化后再由GRU在时间上整合，在距离d = 3, 5, 7和9下参数量都保持在约两三百万。"
+                "x": "这些模型通常给中国和尼日利亚口音打最低分，印度口音居中，美国和英国口音最高。即使内容完全相同、模型也能准确转写语音，它们在表达和内容两方面仍给美国和英国说话者打出更高分。脚本由ElevenLabs的AI语音朗读，结果经52名真人说话者验证。"
               },
               {
                 "t": "p",
-                "x": "实时应用需要亚微秒级推理，可能需将GNN-RNN架构编译到FPGA或ASIC加速器上。预印本已发布在arXiv，开源模型和训练脚本见GitHub。"
+                "x": "共同第一作者Orevaoghene Ahia说：“尽管模型一再声称中国和尼日利亚说话者‘含糊不清’或‘难以听懂’，它们其实非常擅长转写带口音的语音。”该研究于Oct. 25 在布达佩斯举行的EMNLP上发表。"
+              },
+              {
+                "t": "p",
+                "x": "资深作者Yulia Tsvetkov敦促开发者不仅公布平均性能，还应公布按子群体和方言细分的评估结果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Decodificador neuronal modular\npara corregir errores cuánticos",
-          "body": "Equipos de Gotemburgo y Chalmers crearon un decodificador GNN para memoria y cirugía de red en código de superficie.",
-          "mini_headline": "Decodificador neuronal para errores cuánticos",
+          "headline": "Con iguales respuestas, la AI\npuntúa peor a ciertos acentos",
+          "body": "Cuatro modelos de audio dieron la peor nota a acentos chinos y nigerianos aun con contenido idéntico bien transcrito.",
+          "mini_headline": "Sesgo de acento en la AI de audio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-233.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chinese-person.jpg",
+                "cap": "Credit: ShotPot from Pexels"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Gotemburgo y de la Universidad Tecnológica Chalmers demostraron un decodificador neuronal modular para la corrección cuántica de errores con código de superficie que se transfiere entre arquitecturas de hardware, perfiles de ruido variables y operaciones lógicas de varios parches. Lo validaron con datos de la generación Nighthawk r1 de IBM Quantum (ibm_berlin) y del procesador Sycamore de Google Quantum AI, que opera por debajo del umbral."
+                "x": "Un equipo liderado por la UW (UW-led) descubrió que los modelos de AI más avanzados presentaban sesgos contra hablantes con ciertos acentos. Gemini 2.5 Pro, Gemini 2.5 Flash, GPT-Audio 1.5 de OpenAI y el modelo de código abierto Qwen 3 Omni calificaron respuestas de entrevistas de trabajo, presentaciones y respuestas de dominio del inglés leídas con acentos estadounidense, británico, chino, indio y nigeriano."
               },
               {
                 "t": "p",
-                "x": "El marco supera al emparejamiento perfecto de peso mínimo (MWPM) en experimentos de memoria y decodifica una operación real de cirugía de red ZZ-merge con dos parches, y aun así puede entrenarse en una sola GPU comercial. A diferencia de los densos bloques Transformer recurrentes de AlphaQubit, una red neuronal de grafos local y compartida procesa pequeños clústeres espaciotemporales de 3×3×2, que las capas convolucionales agregan a escala gruesa y una GRU integra en el tiempo, con unos dos a tres millones de parámetros para las distancias d = 3, 5, 7 y 9."
+                "x": "En general, los modelos situaron los acentos chino y nigeriano en lo más bajo, el indio en el medio y el estadounidense y el británico en lo más alto. Incluso cuando el contenido era exactamente el mismo y los modelos podían transcribir el habla con precisión, puntuaron más alto tanto la expresión como el contenido de los hablantes estadounidenses y británicos. Voces de AI de ElevenLabs leyeron los guiones, y los resultados se validaron con 52 hablantes humanos."
               },
               {
                 "t": "p",
-                "x": "El uso en tiempo real exigirá inferencias por debajo del microsegundo, probablemente compilando la arquitectura GNN-RNN en aceleradores FPGA o ASIC. El preprint está en arXiv, con modelos de código abierto y scripts de entrenamiento en GitHub."
+                "x": "“Aunque afirmaban repetidamente que los hablantes chinos y nigerianos ‘mascullaban’ o eran ‘difíciles de entender’, los modelos en realidad transcribían muy bien el habla con acento”, dijo la coautora principal Orevaoghene Ahia. El trabajo se presentó el 25 de octubre en EMNLP, en Budapest."
+              },
+              {
+                "t": "p",
+                "x": "La autora sénior Yulia Tsvetkov instó a los desarrolladores a publicar evaluaciones desglosadas por subpoblaciones y dialectos, no solo el rendimiento promedio."
               }
             ]
           }
@@ -1271,15 +1099,15 @@
       }
     },
     {
-      "id": "sentira-10x-claude",
+      "id": "ai2-statebench-tracking",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "10x Genomics,\nClaude로 단일세포분석",
-      "body": "10x Genomics가 Claude 기반 단일세포 분석 Sentira를 내놨다.",
-      "mini_headline": "10x Chromium에 Claude 탑재",
+      "headline": "StateBench가 본\n상태 놓치는 프런티어 모델",
+      "body": "프런티어 모델은 최장 문제에서 13% 이하로 떨어졌고 소형 하이브리드는 일반화했다.",
+      "mini_headline": "Ai2의 StateBench",
       "tool": "Science",
-      "source": "GEN",
-      "url": "https://www.genengnews.com/topics/omics/sentira-brings-claudes-ai-to-10x-genomics-chromium-platform/",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/statebench",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1287,149 +1115,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+            "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
           },
           {
             "t": "p",
-            "x": "10x Genomics가 Anthropic의 Claude 모델로 돌아가는 클라우드형 에이전트 분석 도구 Sentira Single Cell을 Chromium 사용자용 애플리케이션으로 출시한다. Michael Schnall-Levin CTO는 단일세포 분석에는 늘 ‘라스트 마일 문제’가 있었다며, Sentira로는 “예전에 누군가 몇 주 걸렸을 일이 몇 시간이면 될 수 있다”고 말했다."
+            "x": "Ai2가 장문 맥락 상태 추적 벤치마크 StateBench를 공개했다. 긴 문서 속 개체 정보가 바뀌어 가는 과정을 언어 모델이 얼마나 잘 따라가는지 잰다. 난이도는 r-trivial(불변 할당), aperiodic(값에 의한 재할당), soluble(자기 참조 업데이트), general finite(참조에 의한 할당) 네 단계다."
           },
           {
             "t": "p",
-            "x": "도구는 10x Cloud 위에서 돌아간다. 연구자가 채팅 인터페이스로 질문하면 스크립트와 분석 코드는 백엔드에서 짜인다. 10x는 자체 LLM을 학습시키지 않고, 고객 데이터가 모델로 되돌아가는 일도 없다. Sentira 공간 분석 버전은 이보다 몇 주 먼저 나왔다."
+            "x": "Olmo 3와 Olmo Hybrid를 비롯한 오픈 사전학습 모델은 r-trivial 문제를 잘 풀었다. 하지만 aperiodic 문제는 입력이 길수록 정확도가 떨어졌고, general finite 문제에서는 무작위 수준을 벗어나지 못했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
           },
           {
             "t": "p",
-            "x": "요금은 크레딧제다. 에이전트 세션 한 번에 약 12크레딧, 전체 분석 한 건에 60크레딧 안팎이 들고, 첫 Chromium 데이터셋에는 프로모션 크레딧 100개를 준다. Schnall-Levin은 도구가 완벽하지 않다며 “여전히 사람이 이를 책임져야 한다”고 경고했다."
+            "x": "프런티어 모델 Gemini 3.8 Flash, Claude Opus 5.5, GPT-6 Sol과 Luna도 쉬운 단계는 잘 풀었다. 입력이 길어지자 정확도가 가파르게 떨어졌고, 가장 긴 general finite 문제에서는 13% 이하까지 내려갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+          },
+          {
+            "t": "p",
+            "x": "StateBench로 직접 학습시킨 275-million-parameter 모델들에서는 결과가 달랐다. Gated DeltaNet과 하이브리드 모델은 r-trivial, aperiodic, soluble 문제에서 수만 번의 할당까지 거의 완벽하게 일반화했다. Transformers는 시퀀스가 길수록 성능이 떨어졌고 general finite 문제는 끝내 익히지 못했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "10x Genomics brings Claude\nto single-cell analysis",
-          "body": "10x Genomics launched Sentira Single Cell, a Claude-powered platform to speed analysis of Chromium single-cell data.",
-          "mini_headline": "Claude comes to 10x Chromium",
+          "headline": "StateBench shows frontier\nmodels losing track of state",
+          "body": "Frontier models fall to 13% accuracy or lower on the longest problems, while small trained hybrid models generalize.",
+          "mini_headline": "Ai2's StateBench",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomics is launching Sentira Single Cell, a cloud-based agentic analysis powered by Anthropic's Claude models as an application for Chromium users. CTO Michael Schnall-Levin says single-cell analysis has always had a \"last mile problem\"; with Sentira, \"what might have taken someone weeks before could take hours.\""
+                "x": "Ai2 is introducing StateBench, a benchmark for long-context state tracking—how well language models keep track of information about entities in long documents as they evolve. It has four difficulty levels: r-trivial (immutable assignment), aperiodic (reassignment by value), soluble (self-referential updates) and general finite (assignment by reference)."
               },
               {
                 "t": "p",
-                "x": "Built on 10x Cloud, it lets researchers ask questions in a chat interface while scripts and analysis code are written on the back end. 10x is not training its own LLM, and customer data does not flow back into the models. Sentira spatial launched a few weeks earlier."
+                "x": "Open pretrained models, including Olmo 3 and Olmo Hybrid, performed well on r-trivial problems, lost accuracy on aperiodic ones as inputs grew, and stayed at chance on general finite problems."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "Pricing is credit-based: each agentic session costs ~12 credits, and a complete analysis around 60; users get 100 promotional credits for their first Chromium dataset. Schnall-Levin warns the tools are not perfect: \"people are still on the hook and responsible for it.\""
+                "x": "Frontier models Gemini 3.8 Flash, Claude Opus 5.5, and GPT-6 Sol and Luna did well on the easier levels, but accuracy fell sharply as inputs grew, dropping to 13% or lower on the longest general finite problems."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "275-million-parameter models trained directly on StateBench told a different story: Gated DeltaNet and hybrid models generalized almost perfectly on r-trivial, aperiodic and soluble problems out to tens of thousands of assignments. Transformers degraded on longer sequences and never learned general finite problems."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
         },
         "ko": {
-          "headline": "10x Genomics,\nClaude로 단일세포분석",
-          "body": "10x Genomics가 Claude 기반 단일세포 분석 Sentira를 내놨다.",
-          "mini_headline": "10x Chromium에 Claude 탑재",
+          "headline": "StateBench가 본\n상태 놓치는 프런티어 모델",
+          "body": "프런티어 모델은 최장 문제에서 13% 이하로 떨어졌고 소형 하이브리드는 일반화했다.",
+          "mini_headline": "Ai2의 StateBench",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomics가 Anthropic의 Claude 모델로 돌아가는 클라우드형 에이전트 분석 도구 Sentira Single Cell을 Chromium 사용자용 애플리케이션으로 출시한다. Michael Schnall-Levin CTO는 단일세포 분석에는 늘 ‘라스트 마일 문제’가 있었다며, Sentira로는 “예전에 누군가 몇 주 걸렸을 일이 몇 시간이면 될 수 있다”고 말했다."
+                "x": "Ai2가 장문 맥락 상태 추적 벤치마크 StateBench를 공개했다. 긴 문서 속 개체 정보가 바뀌어 가는 과정을 언어 모델이 얼마나 잘 따라가는지 잰다. 난이도는 r-trivial(불변 할당), aperiodic(값에 의한 재할당), soluble(자기 참조 업데이트), general finite(참조에 의한 할당) 네 단계다."
               },
               {
                 "t": "p",
-                "x": "도구는 10x Cloud 위에서 돌아간다. 연구자가 채팅 인터페이스로 질문하면 스크립트와 분석 코드는 백엔드에서 짜인다. 10x는 자체 LLM을 학습시키지 않고, 고객 데이터가 모델로 되돌아가는 일도 없다. Sentira 공간 분석 버전은 이보다 몇 주 먼저 나왔다."
+                "x": "Olmo 3와 Olmo Hybrid를 비롯한 오픈 사전학습 모델은 r-trivial 문제를 잘 풀었다. 하지만 aperiodic 문제는 입력이 길수록 정확도가 떨어졌고, general finite 문제에서는 무작위 수준을 벗어나지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "요금은 크레딧제다. 에이전트 세션 한 번에 약 12크레딧, 전체 분석 한 건에 60크레딧 안팎이 들고, 첫 Chromium 데이터셋에는 프로모션 크레딧 100개를 준다. Schnall-Levin은 도구가 완벽하지 않다며 “여전히 사람이 이를 책임져야 한다”고 경고했다."
+                "x": "프런티어 모델 Gemini 3.8 Flash, Claude Opus 5.5, GPT-6 Sol과 Luna도 쉬운 단계는 잘 풀었다. 입력이 길어지자 정확도가 가파르게 떨어졌고, 가장 긴 general finite 문제에서는 13% 이하까지 내려갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "StateBench로 직접 학습시킨 275-million-parameter 모델들에서는 결과가 달랐다. Gated DeltaNet과 하이브리드 모델은 r-trivial, aperiodic, soluble 문제에서 수만 번의 할당까지 거의 완벽하게 일반화했다. Transformers는 시퀀스가 길수록 성능이 떨어졌고 general finite 문제는 끝내 익히지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "10x Genomics、\n単一細胞解析にClaude",
-          "body": "10x GenomicsがClaudeで単一細胞解析を速めるSentiraを発表した。",
-          "mini_headline": "10x ChromiumにClaudeが登場",
+          "headline": "StateBench、最先端\nモデルの状態追跡の限界",
+          "body": "最先端モデルは最長の問題で正答率13%以下に落ち、学習済みの小型ハイブリッドは汎化した。",
+          "mini_headline": "Ai2のStateBench",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomicsは、AnthropicのClaudeモデルを基盤とするクラウド型のエージェント解析「Sentira Single Cell」を、Chromiumユーザー向けアプリケーションとして提供する。CTOのMichael Schnall-Levin氏は、単一細胞解析には常に「ラストマイル問題」があったと述べ、Sentiraによって「以前なら数週間かかっていたことが数時間で済む可能性がある」と語る。"
+                "x": "Ai2は、長文脈の状態追跡、すなわち長い文書の中で変化していくエンティティの情報を言語モデルがどれだけ追い続けられるかを測るベンチマーク「StateBench」を発表した。難易度は四段階で、r-trivial（不変の代入）、aperiodic（値による再代入）、soluble（自己参照的な更新）、general finite（参照による代入）からなる。"
               },
               {
                 "t": "p",
-                "x": "10x Cloud上に構築され、研究者はチャット画面で質問でき、スクリプトや解析コードはバックエンドで書かれる。10xは独自のLLMを訓練しておらず、顧客データがモデルに還流することもない。空間解析向けのSentiraは数週間前に発表されている。"
+                "x": "Olmo 3やOlmo Hybridを含むオープンな事前学習モデルは、r-trivialの問題では好成績だったが、aperiodicの問題では入力が長くなるにつれ精度が落ち、general finiteの問題ではチャンスレベルにとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "料金はクレジット制で、エージェントセッション一回あたり約12クレジット、完全な解析で60前後かかる。最初のChromiumデータセットには100のプロモーションクレジットが付与される。Schnall-Levin氏はツールが完璧ではないと警告し、「依然として人が責任を負う」と述べた。"
+                "x": "最先端モデルのGemini 3.8 Flash、Claude Opus 5.5、GPT-6 SolとLunaは易しいレベルでは健闘したが、入力が長くなると精度が急落し、最も長いgeneral finiteの問題では13%以下にまで下がった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "StateBenchで直接学習させた275-million-parameter のモデルは異なる結果を示した。Gated DeltaNetとハイブリッドモデルは、r-trivial、aperiodic、solubleの問題で数万回の代入まで、ほぼ完璧に汎化した。Transformersは系列が長くなると性能が落ち、general finiteの問題は最後まで学習できなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "10x Genomics\n将Claude引入单细胞分析",
-          "body": "10x Genomics推出基于Claude的平台Sentira，加速单细胞数据分析。",
-          "mini_headline": "Claude登陆10x Chromium",
+          "headline": "StateBench显示\n前沿模型追踪状态失灵",
+          "body": "前沿模型在最长问题上准确率跌至13%或更低，而经训练的小型混合模型能够泛化。",
+          "mini_headline": "Ai2的StateBench",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomics正在推出Sentira Single Cell，这是一款基于Anthropic的Claude模型、面向Chromium用户的云端智能体分析应用。首席技术官Michael Schnall-Levin表示，单细胞分析一直存在“最后一公里问题”；有了Sentira，“以前可能要花几周的工作，现在可能只需几小时”。"
+                "x": "Ai2推出StateBench，这是一个长上下文状态追踪基准，衡量语言模型在长文档中追踪实体信息随时间演变的能力。它分为四个难度级别：r-trivial（不可变赋值）、aperiodic（按值重新赋值）、soluble（自引用更新）和general finite（按引用赋值）。"
               },
               {
                 "t": "p",
-                "x": "该应用构建于10x Cloud之上，研究人员可在聊天界面中提问，脚本和分析代码则在后端编写。10x并未训练自有LLM，客户数据也不会回流到模型中。Sentira空间版已于几周前推出。"
+                "x": "包括Olmo 3和Olmo Hybrid在内的开放预训练模型在r-trivial问题上表现良好，在aperiodic问题上随输入变长而准确率下降，在general finite问题上则停留在随机水平。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "定价采用积分制：每次智能体会话约需12积分，一次完整分析约60积分；用户的首个Chromium数据集可获得100个促销积分。Schnall-Levin提醒，这些工具并不完美：“人仍然要为此负责。”"
+                "x": "前沿模型Gemini 3.8 Flash、Claude Opus 5.5以及GPT-6 Sol和Luna在较简单的级别上表现不错，但随着输入变长，准确率急剧下滑，在最长的general finite问题上降至13%或更低。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "直接在StateBench上训练的275-million-parameter 模型则呈现出不同的结果：Gated DeltaNet和混合模型在r-trivial、aperiodic和soluble问题上几乎完美地泛化到数万次赋值。Transformers在更长序列上性能退化，始终没能学会general finite问题。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "10x Genomics lleva Claude\nal análisis de células únicas",
-          "body": "10x Genomics lanzó Sentira Single Cell, una plataforma con Claude que agiliza el análisis unicelular de Chromium.",
-          "mini_headline": "Claude llega a 10x Chromium",
+          "headline": "StateBench: los modelos frontier\npierden el rastro del estado",
+          "body": "Modelos frontier caen al 13% de precisión o menos en los casos más largos; híbridos pequeños entrenados generalizan.",
+          "mini_headline": "StateBench de Ai2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomics lanza Sentira Single Cell, un análisis agéntico en la nube impulsado por los modelos Claude de Anthropic, como aplicación para usuarios de Chromium. El CTO Michael Schnall-Levin afirma que el análisis de célula única siempre ha tenido un “problema de la última milla”; con Sentira, “lo que antes podía llevarle a alguien semanas podría llevar horas”."
+                "x": "Ai2 presenta StateBench, un benchmark de seguimiento de estado en contexto largo: mide qué tan bien los modelos de lenguaje siguen la información sobre entidades en documentos largos a medida que cambia. Tiene cuatro niveles de dificultad: r-trivial (asignación inmutable), aperiodic (reasignación por valor), soluble (actualizaciones autorreferenciales) y general finite (asignación por referencia)."
               },
               {
                 "t": "p",
-                "x": "Construido sobre 10x Cloud, permite a los investigadores hacer preguntas en una interfaz de chat mientras los scripts y el código de análisis se escriben en el back end. 10x no entrena su propio LLM, y los datos de los clientes no vuelven a los modelos. Sentira espacial se lanzó unas semanas antes."
+                "x": "Los modelos abiertos preentrenados, entre ellos Olmo 3 y Olmo Hybrid, rindieron bien en los problemas r-trivial, perdieron precisión en los aperiodic a medida que crecían las entradas y se quedaron en el nivel del azar en los problemas general finite."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "El precio se basa en créditos: cada sesión agéntica cuesta ~12 créditos y un análisis completo, alrededor de 60; los usuarios reciben 100 créditos promocionales para su primer conjunto de datos de Chromium. Schnall-Levin advierte que las herramientas no son perfectas: “la gente sigue teniendo la obligación y la responsabilidad”."
+                "x": "Los modelos frontier Gemini 3.8 Flash, Claude Opus 5.5 y GPT-6 Sol y Luna rindieron bien en los niveles más fáciles, pero su precisión cayó con fuerza a medida que crecían las entradas, hasta el 13% o menos en los problemas general finite más largos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "Los modelos de 275-million-parameter (parámetros) entrenados directamente con StateBench mostraron otro panorama: Gated DeltaNet y los modelos híbridos generalizaron casi a la perfección en los problemas r-trivial, aperiodic y soluble hasta decenas de miles de asignaciones. Los Transformers se degradaron en secuencias más largas y nunca aprendieron los problemas general finite."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
@@ -1437,105 +1361,491 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "10x Genomics,\nClaude로 단일세포분석",
-          "body": "10x Genomics가 Claude 기반 단일세포 분석 Sentira를 내놨다.",
-          "mini_headline": "10x Chromium에 Claude 탑재",
+          "headline": "StateBench가 본\n상태 놓치는 프런티어 모델",
+          "body": "프런티어 모델은 최장 문제에서 13% 이하로 추락, 소형 하이브리드는 일반화했다.",
+          "mini_headline": "Ai2의 StateBench",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomics가 Chromium 사용자용 애플리케이션으로, Anthropic의 Claude 모델을 기반으로 한 클라우드형 에이전트 분석 도구 Sentira Single Cell을 출시한다. Michael Schnall-Levin CTO는 단일세포 분석에는 늘 ‘라스트 마일 문제’가 있었다며, Sentira로는 “예전에 누군가 몇 주 걸렸을 일이 몇 시간이면 될 수 있다”고 말했다."
+                "x": "Ai2가 장문 맥락 상태 추적 벤치마크 StateBench를 공개했다. 언어 모델이 긴 문서 속 개체 정보가 바뀌어 가는 과정을 얼마나 잘 따라가는지 측정한다. 난이도는 네 단계로, r-trivial(불변 할당), aperiodic(값에 의한 재할당), soluble(자기 참조 업데이트), general finite(참조에 의한 할당)이다."
               },
               {
                 "t": "p",
-                "x": "10x Cloud 위에 구축된 이 도구에서 연구자는 채팅 인터페이스로 질문하고, 스크립트와 분석 코드는 백엔드에서 작성된다. 10x는 자체 LLM을 학습시키지 않으며, 고객 데이터는 모델로 다시 흘러가지 않는다. Sentira 공간 분석 버전은 몇 주 앞서 출시됐다."
+                "x": "Olmo 3와 Olmo Hybrid를 포함한 오픈 사전학습 모델은 r-trivial 문제에서는 좋은 성적을 냈지만, aperiodic 문제에서는 입력이 길어질수록 정확도가 떨어졌고 general finite 문제에서는 무작위 수준에 머물렀다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "가격은 크레딧 기반이다. 에이전트 세션 한 번에 약 12크레딧, 전체 분석 한 건에 60크레딧 안팎이 들며, 첫 Chromium 데이터셋에는 프로모션 크레딧 100개가 주어진다. Schnall-Levin은 이 도구가 완벽하지 않다며 “여전히 사람이 이를 책임져야 한다”고 경고했다."
+                "x": "프런티어 모델인 Gemini 3.8 Flash, Claude Opus 5.5, GPT-6 Sol과 Luna는 쉬운 단계에서는 잘했지만, 입력이 길어지자 정확도가 급격히 떨어져 가장 긴 general finite 문제에서는 13% 이하까지 내려갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "StateBench로 직접 학습한 275-million-parameter 모델들은 다른 결과를 보였다. Gated DeltaNet과 하이브리드 모델은 r-trivial, aperiodic, soluble 문제에서 수만 번의 할당까지 거의 완벽하게 일반화했다. Transformers는 시퀀스가 길어질수록 성능이 떨어졌고, general finite 문제는 끝내 학습하지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "10x Genomics、\n単一細胞解析にClaude",
-          "body": "10x GenomicsがClaudeで単一細胞解析を速めるSentiraを発表した。",
-          "mini_headline": "10x ChromiumにClaudeが登場",
+          "headline": "StateBench、最先端\nモデルの状態追跡の限界",
+          "body": "最先端モデルは最長の問題で正答率13%以下に落ち、学習済みの小型ハイブリッドは汎化した。",
+          "mini_headline": "Ai2のStateBench",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomicsは、AnthropicのClaudeモデルを基盤とするクラウド型のエージェント解析「Sentira Single Cell」を、Chromiumユーザー向けアプリケーションとして提供する。CTOのMichael Schnall-Levin氏は、単一細胞解析には常に「ラストマイル問題」があったと述べ、Sentiraによって「以前なら数週間かかっていたことが数時間で済む可能性がある」と語る。"
+                "x": "Ai2は、長文脈の状態追跡、すなわち長い文書の中で変化していくエンティティの情報を言語モデルがどれだけ追い続けられるかを測るベンチマーク「StateBench」を発表した。難易度は四段階で、r-trivial（不変の代入）、aperiodic（値による再代入）、soluble（自己参照的な更新）、general finite（参照による代入）からなる。"
               },
               {
                 "t": "p",
-                "x": "10x Cloud上に構築され、研究者はチャット画面で質問でき、スクリプトや解析コードはバックエンドで書かれる。10xは独自のLLMを訓練しておらず、顧客データがモデルに還流することもない。空間解析向けのSentiraは数週間前に発表されている。"
+                "x": "Olmo 3やOlmo Hybridを含むオープンな事前学習モデルは、r-trivialの問題では好成績だったが、aperiodicの問題では入力が長くなるにつれ精度が落ち、general finiteの問題ではチャンスレベルにとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "料金はクレジット制で、エージェントセッション一回あたり約12クレジット、完全な解析で60前後かかる。最初のChromiumデータセットには100のプロモーションクレジットが付与される。Schnall-Levin氏はツールが完璧ではないと警告し、「依然として人が責任を負う」と述べた。"
+                "x": "最先端モデルのGemini 3.8 Flash、Claude Opus 5.5、GPT-6 SolとLunaは易しいレベルでは健闘したが、入力が長くなると精度が急落し、最も長いgeneral finiteの問題では13%以下にまで下がった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "StateBenchで直接学習させた275-million-parameter のモデルは異なる結果を示した。Gated DeltaNetとハイブリッドモデルは、r-trivial、aperiodic、solubleの問題で数万回の代入まで、ほぼ完璧に汎化した。Transformersは系列が長くなると性能が落ち、general finiteの問題は最後まで学習できなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "10x Genomics\n将Claude引入单细胞分析",
-          "body": "10x Genomics推出基于Claude的平台Sentira，加速单细胞数据分析。",
-          "mini_headline": "Claude登陆10x Chromium",
+          "headline": "StateBench显示\n前沿模型追踪状态失灵",
+          "body": "前沿模型在最长问题上准确率跌至13%或更低，而经训练的小型混合模型能够泛化。",
+          "mini_headline": "Ai2的StateBench",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomics正在推出Sentira Single Cell，这是一款基于Anthropic的Claude模型、面向Chromium用户的云端智能体分析应用。首席技术官Michael Schnall-Levin表示，单细胞分析一直存在“最后一公里问题”；有了Sentira，“以前可能要花几周的工作，现在可能只需几小时”。"
+                "x": "Ai2推出StateBench，这是一个长上下文状态追踪基准，衡量语言模型在长文档中追踪实体信息随时间演变的能力。它分为四个难度级别：r-trivial（不可变赋值）、aperiodic（按值重新赋值）、soluble（自引用更新）和general finite（按引用赋值）。"
               },
               {
                 "t": "p",
-                "x": "该应用构建于10x Cloud之上，研究人员可在聊天界面中提问，脚本和分析代码则在后端编写。10x并未训练自有LLM，客户数据也不会回流到模型中。Sentira空间版已于几周前推出。"
+                "x": "包括Olmo 3和Olmo Hybrid在内的开放预训练模型在r-trivial问题上表现良好，在aperiodic问题上随输入变长而准确率下降，在general finite问题上则停留在随机水平。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "定价采用积分制：每次智能体会话约需12积分，一次完整分析约60积分；用户的首个Chromium数据集可获得100个促销积分。Schnall-Levin提醒，这些工具并不完美：“人仍然要为此负责。”"
+                "x": "前沿模型Gemini 3.8 Flash、Claude Opus 5.5以及GPT-6 Sol和Luna在较简单的级别上表现不错，但随着输入变长，准确率急剧下滑，在最长的general finite问题上降至13%或更低。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "直接在StateBench上训练的275-million-parameter 模型则呈现出不同的结果：Gated DeltaNet和混合模型在r-trivial、aperiodic和soluble问题上几乎完美地泛化到数万次赋值。Transformers在更长序列上性能退化，始终没能学会general finite问题。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "10x Genomics lleva Claude\nal análisis de células únicas",
-          "body": "10x Genomics lanzó Sentira Single Cell, una plataforma con Claude que agiliza el análisis unicelular de Chromium.",
-          "mini_headline": "Claude llega a 10x Chromium",
+          "headline": "StateBench: los modelos frontier\npierden el rastro del estado",
+          "body": "Modelos frontier caen al 13% de precisión o menos en los casos más largos; híbridos pequeños entrenados generalizan.",
+          "mini_headline": "StateBench de Ai2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/11/GettyImages-2253444748.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792006215-statebench-draft-blog-google-docs-image-1.png"
               },
               {
                 "t": "p",
-                "x": "10x Genomics lanza Sentira Single Cell, un análisis agéntico en la nube impulsado por los modelos Claude de Anthropic, como aplicación para usuarios de Chromium. El CTO Michael Schnall-Levin afirma que el análisis de célula única siempre ha tenido un “problema de la última milla”; con Sentira, “lo que antes podía llevarle a alguien semanas podría llevar horas”."
+                "x": "Ai2 presenta StateBench, un benchmark de seguimiento de estado en contexto largo: mide qué tan bien los modelos de lenguaje siguen la información sobre entidades en documentos largos a medida que cambia. Tiene cuatro niveles de dificultad: r-trivial (asignación inmutable), aperiodic (reasignación por valor), soluble (actualizaciones autorreferenciales) y general finite (asignación por referencia)."
               },
               {
                 "t": "p",
-                "x": "Construido sobre 10x Cloud, permite a los investigadores hacer preguntas en una interfaz de chat mientras los scripts y el código de análisis se escriben en el back end. 10x no entrena su propio LLM, y los datos de los clientes no vuelven a los modelos. Sentira espacial se lanzó unas semanas antes."
+                "x": "Los modelos abiertos preentrenados, entre ellos Olmo 3 y Olmo Hybrid, rindieron bien en los problemas r-trivial, perdieron precisión en los aperiodic a medida que crecían las entradas y se quedaron en el nivel del azar en los problemas general finite."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006353-statebench-draft-blog-google-docs-image-2.png"
               },
               {
                 "t": "p",
-                "x": "El precio se basa en créditos: cada sesión agéntica cuesta ~12 créditos y un análisis completo, alrededor de 60; los usuarios reciben 100 créditos promocionales para su primer conjunto de datos de Chromium. Schnall-Levin advierte que las herramientas no son perfectas: “la gente sigue teniendo la obligación y la responsabilidad”."
+                "x": "Los modelos frontier Gemini 3.8 Flash, Claude Opus 5.5 y GPT-6 Sol y Luna rindieron bien en los niveles más fáciles, pero su precisión cayó con fuerza a medida que crecían las entradas, hasta el 13% o menos en los problemas general finite más largos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006435-statebench-draft-blog-google-docs-image-3.png"
+              },
+              {
+                "t": "p",
+                "x": "Los modelos de 275-million-parameter (parámetros) entrenados directamente con StateBench mostraron otro panorama: Gated DeltaNet y los modelos híbridos generalizaron casi a la perfección en los problemas r-trivial, aperiodic y soluble hasta decenas de miles de asignaciones. Los Transformers se degradaron en secuencias más largas y nunca aprendieron los problemas general finite."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792006493-statebench-draft-blog-google-docs-image-4.png"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "chalmers-defect-temperature-ml",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "머신러닝, 실제 온도의\n재료 결함을 추적하다",
+      "body": "Chalmers팀은 온도별 결함 계산으로 절대영도 모델이 놓친 변화를 찾았다.",
+      "mini_headline": "온도를 반영한 결함 모델링",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-machine-track-semiconductor-defects-realistic.html",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+            "cap": "Credit: CC0 Public Domain"
+          },
+          {
+            "t": "p",
+            "x": "재료 결함은 보통 영 켈빈(Kelvin), 곧 섭씨 영하 273도를 기준으로 계산한다. Chalmers University of Technology 연구진은 온도 효과까지 반영해 결함 특성을 계산하는 훨씬 효과적인 프레임워크를 입증하고 npj Computational Materials에 발표했다."
+          },
+          {
+            "t": "p",
+            "x": "박사과정생 Tobias Hainer는 “결정 구조에서 원자 하나가 빠진 경우를 연구하고, 온도가 이 점결함의 거동에 어떤 영향을 주는지 관찰하는 방식으로 재료 속 결함을 모델링했다”고 말한다. 결함은 반도체 밴드갭 안에 에너지 준위를 만들기도 하는데, 그 위치가 결함이 해로운지 유용한지를 가른다."
+          },
+          {
+            "t": "p",
+            "x": "Julia Wiktor 교수는 “여러 재료에서 양적으로나 질적으로나 상당히 큰 변화를 발견했다. 영 켈빈 기반 모델이었다면 놓쳤을 변화”라고 말한다. 결과는 실험 관측과도 맞아떨어진다."
+          },
+          {
+            "t": "p",
+            "x": "Wiktor는 “십 년 전이었다면 이런 규모로는 아마 해내지 못했을 것”이라며 방대한 계산이 가능해진 공을 머신러닝 발전에 돌렸다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Machine learning tracks material\ndefects at real temperatures",
+          "body": "Chalmers researchers made temperature-aware defect calculations feasible and found shifts absolute-zero models miss.",
+          "mini_headline": "Temperature-aware defect modeling",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Standard calculations of material defects are usually based on zero Kelvin, minus 273 degrees Celsius. Researchers at Chalmers University of Technology have now demonstrated a significantly more effective framework for calculating the properties of defects while accounting for temperature effects, published in npj Computational Materials."
+              },
+              {
+                "t": "p",
+                "x": "\"We modeled defects in the materials by studying a missing atom in the crystal structure and observing how temperature affects the behavior of this point defect,\" says doctoral student Tobias Hainer. Defects can introduce energy levels within a semiconductor's band gap, and their position determines whether they are harmful or useful."
+              },
+              {
+                "t": "p",
+                "x": "\"We found quite significant shifts in several materials, both quantitatively and qualitatively. These changes would be missed in a model based on zero Kelvin,\" says professor Julia Wiktor. The results match experimental observations."
+              },
+              {
+                "t": "p",
+                "x": "\"Ten years ago, we probably would not have been able to do this on such a scale,\" Wiktor says, crediting developments in machine learning for making the extensive calculations feasible."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "머신러닝, 실제 온도의\n재료 결함을 추적하다",
+          "body": "Chalmers팀은 온도별 결함 계산으로 절대영도 모델이 놓친 변화를 찾았다.",
+          "mini_headline": "온도를 반영한 결함 모델링",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "재료 결함은 보통 영 켈빈(Kelvin), 곧 섭씨 영하 273도를 기준으로 계산한다. Chalmers University of Technology 연구진은 온도 효과까지 반영해 결함 특성을 계산하는 훨씬 효과적인 프레임워크를 입증하고 npj Computational Materials에 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "박사과정생 Tobias Hainer는 “결정 구조에서 원자 하나가 빠진 경우를 연구하고, 온도가 이 점결함의 거동에 어떤 영향을 주는지 관찰하는 방식으로 재료 속 결함을 모델링했다”고 말한다. 결함은 반도체 밴드갭 안에 에너지 준위를 만들기도 하는데, 그 위치가 결함이 해로운지 유용한지를 가른다."
+              },
+              {
+                "t": "p",
+                "x": "Julia Wiktor 교수는 “여러 재료에서 양적으로나 질적으로나 상당히 큰 변화를 발견했다. 영 켈빈 기반 모델이었다면 놓쳤을 변화”라고 말한다. 결과는 실험 관측과도 맞아떨어진다."
+              },
+              {
+                "t": "p",
+                "x": "Wiktor는 “십 년 전이었다면 이런 규모로는 아마 해내지 못했을 것”이라며 방대한 계산이 가능해진 공을 머신러닝 발전에 돌렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "機械学習、実際の温度で\n材料の欠陥を追跡",
+          "body": "Chalmersの研究者は温度考慮の欠陥計算を実現し、絶対零度モデルが見逃す変化を捉えた。",
+          "mini_headline": "温度を考慮した欠陥モデリング",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "材料欠陥の標準的な計算は、通常ゼロケルビン（Kelvin）、つまり摂氏マイナス273度を前提としている。Chalmers University of Technology（チャルマース工科大学）の研究者らは、温度効果を考慮しながら欠陥の特性を計算する、はるかに効果的な枠組みを示し、npj Computational Materialsに発表した。"
+              },
+              {
+                "t": "p",
+                "x": "博士課程のTobias Hainerは「結晶構造から原子が一つ抜けた状態を調べ、温度がこの点欠陥の振る舞いにどう影響するかを観察することで、材料中の欠陥をモデル化した」と語る。欠陥は半導体のバンドギャップ内にエネルギー準位を生むことがあり、その位置によって有害か有用かが決まる。"
+              },
+              {
+                "t": "p",
+                "x": "Julia Wiktor教授は「いくつもの材料で、量的にも質的にもかなり大きな変化が見つかった。ゼロケルビンに基づくモデルでは見逃される変化だ」と話す。結果は実験での観測と一致している。"
+              },
+              {
+                "t": "p",
+                "x": "Wiktorは「十年前なら、これほどの規模ではおそらくできなかっただろう」と述べ、膨大な計算を可能にしたのは機械学習の発展だとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "机器学习追踪\n真实温度下的材料缺陷",
+          "body": "Chalmers研究人员让考虑温度的缺陷计算成为可能，并发现了绝对零度模型遗漏的变化。",
+          "mini_headline": "考虑温度的缺陷建模",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "材料缺陷的标准计算通常以零开尔文（Kelvin），即零下273摄氏度为基准。Chalmers University of Technology（查尔姆斯理工大学）的研究人员如今展示了一种在考虑温度效应的同时计算缺陷性质、效率显著更高的框架，成果发表于npj Computational Materials。"
+              },
+              {
+                "t": "p",
+                "x": "博士生Tobias Hainer说：“我们通过研究晶体结构中缺失一个原子的情况，并观察温度如何影响这种点缺陷的行为，来对材料中的缺陷建模。”缺陷会在半导体带隙中引入能级，其位置决定了缺陷是有害还是有用。"
+              },
+              {
+                "t": "p",
+                "x": "Julia Wiktor教授说：“我们在多种材料中都发现了相当显著的变化，既有数量上的，也有性质上的。基于零开尔文的模型会漏掉这些变化。”这些结果与实验观测相符。"
+              },
+              {
+                "t": "p",
+                "x": "Wiktor说：“十年前，我们大概无法在这样的规模上做到这一点。”她将这些大规模计算得以实现归功于机器学习的发展。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El aprendizaje automático sigue\ndefectos a temperatura real",
+          "body": "Chalmers hizo viable calcular defectos con temperatura y halló cambios que los modelos a cero absoluto no ven.",
+          "mini_headline": "Modelado de defectos según la temperatura",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Los cálculos estándar de defectos en materiales suelen basarse en cero Kelvin, menos 273 grados Celsius. Investigadores de la Chalmers University of Technology han demostrado ahora un marco mucho más eficaz para calcular las propiedades de los defectos teniendo en cuenta los efectos de la temperatura, publicado en npj Computational Materials."
+              },
+              {
+                "t": "p",
+                "x": "“Modelamos los defectos de los materiales estudiando un átomo ausente en la estructura cristalina y observando cómo la temperatura afecta al comportamiento de este defecto puntual”, explica el doctorando Tobias Hainer. Los defectos pueden introducir niveles de energía dentro de la banda prohibida de un semiconductor, y su posición determina si son perjudiciales o útiles."
+              },
+              {
+                "t": "p",
+                "x": "“Encontramos cambios bastante significativos en varios materiales, tanto cuantitativos como cualitativos. Estos cambios pasarían inadvertidos en un modelo basado en cero Kelvin”, afirma la profesora Julia Wiktor. Los resultados coinciden con las observaciones experimentales."
+              },
+              {
+                "t": "p",
+                "x": "“Hace diez años, probablemente no habríamos podido hacer esto a tal escala”, dice Wiktor, que atribuye a los avances del aprendizaje automático que estos cálculos extensos sean viables."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "머신러닝, 실제 온도의\n재료 결함을 추적하다",
+          "body": "Chalmers팀은 온도별 결함 계산으로 절대영도 모델이 놓친 변화를 찾았다.",
+          "mini_headline": "온도를 반영한 결함 모델링",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "재료 결함의 표준 계산은 보통 영 켈빈(Kelvin), 즉 섭씨 영하 273도를 기준으로 한다. Chalmers University of Technology 연구진은 온도 효과를 고려하면서 결함의 특성을 계산하는, 훨씬 효과적인 프레임워크를 입증해 npj Computational Materials에 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "박사과정생 Tobias Hainer는 “결정 구조에서 원자 하나가 빠진 경우를 연구하고, 온도가 이 점결함의 거동에 어떤 영향을 주는지 관찰하는 방식으로 재료 속 결함을 모델링했다”고 말한다. 결함은 반도체 밴드갭 안에 에너지 준위를 만들 수 있으며, 그 위치에 따라 해로운지 유용한지가 결정된다."
+              },
+              {
+                "t": "p",
+                "x": "Julia Wiktor 교수는 “여러 재료에서 양적으로나 질적으로나 상당히 큰 변화를 발견했다. 영 켈빈 기반 모델이었다면 놓쳤을 변화”라고 말한다. 결과는 실험 관측과 일치한다."
+              },
+              {
+                "t": "p",
+                "x": "Wiktor는 “십 년 전이었다면 이런 규모로는 아마 해내지 못했을 것”이라며, 방대한 계산을 가능하게 한 공을 머신러닝의 발전에 돌렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "機械学習、実際の温度で\n材料の欠陥を追跡",
+          "body": "Chalmersの研究者は温度考慮の欠陥計算を実現し、絶対零度モデルが見逃す変化を捉えた。",
+          "mini_headline": "温度を考慮した欠陥モデリング",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "材料欠陥の標準的な計算は、通常ゼロケルビン（Kelvin）、つまり摂氏マイナス273度を前提としている。Chalmers University of Technology（チャルマース工科大学）の研究者らは、温度効果を考慮しながら欠陥の特性を計算する、はるかに効果的な枠組みを示し、npj Computational Materialsに発表した。"
+              },
+              {
+                "t": "p",
+                "x": "博士課程のTobias Hainerは「結晶構造から原子が一つ抜けた状態を調べ、温度がこの点欠陥の振る舞いにどう影響するかを観察することで、材料中の欠陥をモデル化した」と語る。欠陥は半導体のバンドギャップ内にエネルギー準位を生むことがあり、その位置によって有害か有用かが決まる。"
+              },
+              {
+                "t": "p",
+                "x": "Julia Wiktor教授は「いくつもの材料で、量的にも質的にもかなり大きな変化が見つかった。ゼロケルビンに基づくモデルでは見逃される変化だ」と話す。結果は実験での観測と一致している。"
+              },
+              {
+                "t": "p",
+                "x": "Wiktorは「十年前なら、これほどの規模ではおそらくできなかっただろう」と述べ、膨大な計算を可能にしたのは機械学習の発展だとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "机器学习追踪\n真实温度下的材料缺陷",
+          "body": "Chalmers研究人员让考虑温度的缺陷计算成为可能，并发现了绝对零度模型遗漏的变化。",
+          "mini_headline": "考虑温度的缺陷建模",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "材料缺陷的标准计算通常以零开尔文（Kelvin），即零下273摄氏度为基准。Chalmers University of Technology（查尔姆斯理工大学）的研究人员如今展示了一种在考虑温度效应的同时计算缺陷性质、效率显著更高的框架，成果发表于npj Computational Materials。"
+              },
+              {
+                "t": "p",
+                "x": "博士生Tobias Hainer说：“我们通过研究晶体结构中缺失一个原子的情况，并观察温度如何影响这种点缺陷的行为，来对材料中的缺陷建模。”缺陷会在半导体带隙中引入能级，其位置决定了缺陷是有害还是有用。"
+              },
+              {
+                "t": "p",
+                "x": "Julia Wiktor教授说：“我们在多种材料中都发现了相当显著的变化，既有数量上的，也有性质上的。基于零开尔文的模型会漏掉这些变化。”这些结果与实验观测相符。"
+              },
+              {
+                "t": "p",
+                "x": "Wiktor说：“十年前，我们大概无法在这样的规模上做到这一点。”她将这些大规模计算得以实现归功于机器学习的发展。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El aprendizaje automático sigue\ndefectos a temperatura real",
+          "body": "Chalmers hizo viable calcular defectos con temperatura y halló cambios que los modelos a cero absoluto no ven.",
+          "mini_headline": "Modelado de defectos según la temperatura",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2019/semiconductor.jpg",
+                "cap": "Credit: CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Los cálculos estándar de defectos en materiales suelen basarse en cero Kelvin, menos 273 grados Celsius. Investigadores de la Chalmers University of Technology han demostrado ahora un marco mucho más eficaz para calcular las propiedades de los defectos teniendo en cuenta los efectos de la temperatura, publicado en npj Computational Materials."
+              },
+              {
+                "t": "p",
+                "x": "“Modelamos los defectos de los materiales estudiando un átomo ausente en la estructura cristalina y observando cómo la temperatura afecta al comportamiento de este defecto puntual”, explica el doctorando Tobias Hainer. Los defectos pueden introducir niveles de energía dentro de la banda prohibida de un semiconductor, y su posición determina si son perjudiciales o útiles."
+              },
+              {
+                "t": "p",
+                "x": "“Encontramos cambios bastante significativos en varios materiales, tanto cuantitativos como cualitativos. Estos cambios pasarían inadvertidos en un modelo basado en cero Kelvin”, afirma la profesora Julia Wiktor. Los resultados coinciden con las observaciones experimentales."
+              },
+              {
+                "t": "p",
+                "x": "“Hace diez años, probablemente no habríamos podido hacer esto a tal escala”, dice Wiktor, que atribuye a los avances del aprendizaje automático que estos cálculos extensos sean viables."
               }
             ]
           }

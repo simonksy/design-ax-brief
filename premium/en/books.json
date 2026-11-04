@@ -8809,6 +8809,133 @@
           "x": "You can access it by opening the in-book menu or by highlighting a specific passage or word within the text. It will provide a list of suggested questions, or you can type your own custom question and ask follow-ups."
         }
       ]
+    },
+    "books/toonsutra-cinematic-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.wixstatic.com/media/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85/3df989_04aefbea9225465b879c489383d6a79e~mv2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Toonsutra, the Indian webtoon platform, has launched Cinematic Mode in beta. It converts webcomics into short multimedia stories with animated panels, character voices including dialogue in Indian languages, adaptive background music and auto-scroll in a \"lean-back\" format. The company describes it as a comic that, in effect, narrates itself."
+        },
+        {
+          "t": "p",
+          "x": "Its framework reads panels and characters to decide what to animate, how characters should sound and what the music should do. It credits three Google models: Veo 3 for turning static panels into animation, Gemini 2.5 Pro for character speech and Lyria 2 for background music. The company says Cinematic Mode was built with approved publishing partners."
+        },
+        {
+          "t": "p",
+          "x": "Co-Founder and CEO Vishal Anand has described the launch as \"the birth of Comics 2.0\". According to the company, Toonsutra has more than one million monthly active users and over 3,300 titles and 500,000 episodes."
+        },
+        {
+          "t": "p",
+          "x": "Its real test is not technical but artistic: whether readers feel they are getting more of a story, or less of the comic."
+        }
+      ]
+    },
+    "books/meridian-cashmere-presses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132573-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Cambridge University Press, Johns Hopkins University Press, and Princeton University Press are the founding publishers of Meridian, a new service run by Cashmere, the Salt Lake City–based start-up that licenses publishers’ content to AI companies."
+        },
+        {
+          "t": "p",
+          "x": "Meridian gives students and researchers authorized access to scholarly books and journals that libraries already license. When a researcher asks an AI tool a question, Meridian lets the tool pull its answer from that peer-reviewed content, cite the source, and send the reader through their library’s subscription to the final published version. Content accessed through Meridian cannot be used to train AI models."
+        },
+        {
+          "t": "p",
+          "x": "Behind the scenes, Meridian uses the Model Context Protocol, or MCP, an open standard developed by Anthropic, so publishers build one connection instead of one for every AI company. Joining is voluntary; publishers can pull titles at any time and will see which questions their books answered and how often their content is cited."
+        },
+        {
+          "t": "p",
+          "x": "The founding presses and Cashmere form Meridian’s advisory council, which will become its board once it incorporates as an independent nonprofit. Founding publishers load their catalogs this month, and a test run with a limited group of libraries begins later this fall."
+        }
+      ]
+    },
+    "books/scholarly-alttext-backlist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/01/iStock-610126164-1024x683.jpg",
+          "cap": "Accessibility disability computer icon"
+        },
+        {
+          "t": "p",
+          "x": "Most publishers no longer need convincing that accessibility compliance can’t be ignored — 5,114 ADA lawsuits were recorded in 2025 alone. What they struggle with is execution at volume, especially on decades of legacy archives built without accessibility in mind, full of complex figures, mathematical notation and dense data tables."
+        },
+        {
+          "t": "p",
+          "x": "AI can ingest a publisher’s existing archive and run automated auditing to determine the scope of non-compliant content, producing a prioritized inventory with a realistic timeline and cost estimate. AI-assisted alt-text generation is also doing real work at figure description, structural tagging, and metadata normalization, and can generate captions and transcripts for archived video and audio."
+        },
+        {
+          "t": "p",
+          "x": "Alt-text for complex scientific content is a different story. More credible approaches pair automated generation with a quality threshold, routing content below it to subject-matter review. “AI has moved to where the bottleneck sits, not eliminated it,” writes Balamuraly Kanthavelou of Straive."
+        }
+      ]
+    },
+    "books/ddalkkak-publishing-taxcredit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/11/02/5e865336-64dd-4ecb-9820-93386a79088c.jpg",
+          "cap": "A meeting on the theme 'The Power of Text That Opens the Future in the AI Era' is held on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul. Courtesy of the Korean Publishers Society"
+        },
+        {
+          "t": "p",
+          "x": "With global artificial intelligence (AI) companies' indiscriminate training on published works emerging as a problem, Korea's two largest publishing organizations have again stressed the need for tax benefits for publishing content. Their reasoning: the more AI shrinks the publishing industry, the more books, a treasury of human intellect and the source content of K-culture, must be protected."
+        },
+        {
+          "t": "p",
+          "x": "The Korean Publishers Association and the Korean Publishers Society held a meeting on the 2nd in Meeting Room No. 11 of the National Assembly Members' Office Building in Yeouido, Seoul, on introducing a tax credit for publishing content. Held under the theme 'The Power of Text That Opens the Future in the AI Era,' the event was co-hosted by the offices of lawmakers Jeong Seong-ho, Yun Hu-duk, Lee Kwang-jae, Moon Jin-seok, Kim Young-hwan and Kim Jae-won."
+        },
+        {
+          "t": "p",
+          "x": "The publishing industry stressed that a tax credit for publications can no longer be delayed. Now that the publishing ecosystem is threatened by a flood of so-called 'click publishing,' it argued, the costs of making books, such as editing, design, printing and royalties, should be eligible for the tax credit to give publishers room to breathe."
+        },
+        {
+          "t": "p",
+          "x": "Kim Bo-kyung, policy committee chair of the Korean Publishers Society, said, \"The more AI-generated writing floods in, the higher the value of 'master texts' written, edited and verified by people,\" adding, \"Tax support is needed not only when books are turned into video or webtoons, but also when the manuscripts behind them are made into books.\""
+        },
+        {
+          "t": "p",
+          "x": "Yeom Jong-seon, CEO of Changbi, who attended the meeting as a member of the publishing community, pointed to the international achievements of Korean writers, including Han Kang's International Booker Prize and Nobel Prize in Literature, as well as Hwang Sok-yong, Kim Hyesoon and Bora Chung, and asked, \"Please introduce a publishing content tax credit so that the achievements of Korean literature can continue.\""
+        },
+        {
+          "t": "p",
+          "x": "During the 21st presidential election campaign, the government and ruling party pledged to expand tax support for publishing, but the amendment to the Restriction of Special Taxation Act passed at the National Assembly plenary session last December created only a tax credit provision for webtoon content. Publishing groups are pushing back strongly, saying \"the government is damaging the roots of K-content.\""
+        }
+      ]
+    },
+    "books/scholarlykitchen-ai-transparency-trap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-181900229-1024x805.jpg",
+          "cap": "A box set up as a trap. Cardboard box propped up with a stick attached to a string."
+        },
+        {
+          "t": "p",
+          "x": "In academia, AI has found its way into writing and publication, helping researchers generate and refine content while publishers use it to screen manuscripts. In many cases AI is helping identify errors that AI itself has introduced. It's like filling a leaky bucket."
+        },
+        {
+          "t": "p",
+          "x": "The absence of AI doesn't guarantee trustworthy research. And neither does disclosing AI use. AI disclosures only tell us whether AI was used and how; they do not prove that the technology was used responsibly or that the claims were verified. An author may comply fully with a journal's AI disclosure policy and still submit unsupported claims and fabricated references. This is the transparency trap: mistaking disclosure for proof of research integrity and quality."
+        },
+        {
+          "t": "p",
+          "x": "Different uses of AI carry different levels of risk; improving grammar is not the same as generating interpretations or analyzing data. In August 2026 the JAMA network updated its guidelines, acknowledging that “disclosure policies may not be sufficient to address concerns about AI-generated content that is incorrect or even fabricated.”"
+        },
+        {
+          "t": "p",
+          "x": "The focus should be on a framework of accountability and validation, with human judgment complementing technical checks. “The presence of AI does not establish misconduct just as the absence of AI does not establish integrity.” — Roohi Ghosh, Cactus Communications"
+        }
+      ]
     }
   }
 }

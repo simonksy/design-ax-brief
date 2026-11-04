@@ -1,101 +1,96 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "section": "marketing",
-  "items": [
+  "picks": [
     {
+      "url": "https://ppc.land/supermetrics-lets-claude-build-ad-campaigns-on-6-platforms-paused-by-default/",
+      "title": "Supermetrics lets Claude build ad campaigns on 6 platforms, paused by default",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "category": "marketing",
-      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.",
-      "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
-      "source": "Search Engine Journal",
-      "published_iso": "2026-11-02T14:41:23+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ad-revenue-featured-1600x840-1.jpg",
-      "excerpt": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic ($0.89 vs $2.45), and most saw no sales from them.",
-      "rationale": "Hard revenue-per-visit benchmark ($0.89 vs $2.45) that directly informs whether to move budget into ChatGPT ads."
+      "rationale": "New release: an AI assistant now drafts live campaigns across six ad platforms with a human-approval default, which changes who signs off on ad spend.",
+      "published_iso": "2026-11-03T21:26:15Z",
+      "og_image": "https://ppc.land/content/images/2026/11/supermetrics-claude-6-platform-campaigns-paused-self-typing-typewriter-billboards-approval-stamp.jpg",
+      "excerpt": "More than 6,000 customers have used the connector since February, active users up 250% a month on average. Who signs off before AI-drafted ads spend money?"
     },
     {
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/",
+      "title": "Ad Tech Briefing: Google's AI-reckoning",
+      "source": "Digiday",
+      "tool": "Marketing",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "The one pick from the 'AI search squeezing Google ad revenue' cluster: AI search draws more queries but earns less ad revenue per query than classic search, which matters for search budgets.",
+      "published_iso": "2026-11-03T05:01:00Z",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/03/google-pitch-digiday.jpg",
+      "excerpt": "More people are searching, but Google’s AI-driven search experiences aren’t yet generating ad revenue at the same rate as conventional search."
+    },
+    {
+      "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+      "title": "3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner",
+      "source": "Search Engine Journal",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "category": "marketing",
-      "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
-      "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
-      "source": "Digiday",
-      "published_iso": "2026-11-02T05:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/art-amazon-sponsored.001.jpeg",
-      "excerpt": "On its Q3 call Amazon said shoppers using its conversational AI shopping assistant spend 50% more per order; the assistant carries sponsored prompts while Amazon blocks outside agents like ChatGPT and Meta's Muse.",
-      "rationale": "Scale (400M users, +50% order value) and sponsored prompts make Amazon's assistant a retail-media surface advertisers must plan for."
+      "rationale": "Original experiment (1,980 runs) showing which product-data signals decide what AI shopping agents choose to buy, so merchants can act on it directly.",
+      "published_iso": "2026-11-02T13:00:14Z",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-catalog-372.png",
+      "excerpt": "Three Claude models picked from the same 20 Shopify products 1,980 times and never agreed on the top product. Here is what decided their picks."
     },
     {
+      "url": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/",
+      "title": "Google tells advertisers AI search queries now run 3x longer",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "category": "marketing",
-      "title": "Google Using AI-Generated Fake Google Ads Strategist Names & Profile Photos",
-      "url": "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html",
-      "source": "Search Engine Roundtable",
-      "published_iso": "2026-11-02T07:31:00-05:00",
-      "og_image": "https://images.seroundtable.com/email-yjVLCQ9S.jpg",
-      "excerpt": "Google Ads Strategists in Google's Extended Workforce are contacting advertisers under AI-generated names and profile photos, an advertiser found when the sender's identity couldn't be traced.",
-      "rationale": "AI personas in Google's own ad-sales outreach; advertisers need to know who is pitching them account changes."
+      "rationale": "Google's own advertiser briefing: AI search makes queries 3x longer and one in six multimodal, which changes how keyword and asset strategies should be built. The card should flag which figures lack a baseline.",
+      "published_iso": "2026-11-01T05:37:46Z",
+      "og_image": "https://ppc.land/content/images/2026/11/google-ads-decoded-ai-search-3x-longer-queries-typewriter-paper-ribbon.jpg",
+      "excerpt": "One in six searches is multimodal, Google's Shivani Mohan told advertisers. Google's May data limited that to US AI Mode. Which other figures lack a baseline?"
     },
     {
-      "tool": "Marketing",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "category": "marketing",
-      "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
-      "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
-      "source": "Marketing Dive",
-      "published_iso": "2026-11-02T10:49:00-05:00",
-      "og_image": "https://imgproxy.divecdn.com/c4XwQNn3Hspeu3YaT3NJKAKNl2FMp2H68XwgEdydJdw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp",
-      "excerpt": "After its AI-produced Super Bowl LX spot drew controversy, Svedka is handing its next big-game ad to consumers via a $500,000 contest, with a toolkit allowing 'AI-led' entries.",
-      "rationale": "Creative-production case: a brand reworks AI ad making after backlash into a $500K consumer contest that still allows AI-led entries."
-    },
-    {
+      "url": "https://www.retaildive.com/news/ai-recommendations-returns/873075/",
+      "title": "AI recommendations are leading to returns",
+      "source": "Retail Dive",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "category": "marketing",
-      "title": "Checkout appears in 25% of AI agent sessions vs 15% for humans, Clarity finds",
-      "url": "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/",
-      "source": "PPC Land",
-      "published_iso": "2026-11-01T22:47:28.000Z",
-      "og_image": "https://ppc.land/content/images/2026/11/microsoft-clarity-ai-agent-sessions-checkout-cash-register-shared-hands.jpg",
-      "excerpt": "Microsoft Clarity data across 230,511 sites shows AI agent sessions reach checkout more often than human ones, raising the question of whether merchants can tell who pressed buy.",
-      "rationale": "230K-site measurement showing agents convert more than humans, with attribution implications for merchants."
+      "rationale": "New report linking AI product recommendations to higher returns and tracing the cause to bad product-description data, which retailers selling through AI channels can fix.",
+      "published_iso": "2026-11-03T10:59:00-05:00",
+      "og_image": "https://imgproxy.divecdn.com/8IaSldvHDUVqNjWHhU8AzSOxv_NmSog_NUVuq51ePvM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ5MzM2NzkyX0RPaHZuY0UuanBn.webp",
+      "excerpt": "The problem may not have to do with the technology itself, but rather the product description data, according to a new report."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/": {
+      "https://ppc.land/supermetrics-lets-claude-build-ad-campaigns-on-6-platforms-paused-by-default/": {
         "verdict": "new",
-        "nearest": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+        "nearest": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
         "new_action": ""
       },
-      "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/": {
+      "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/": {
         "verdict": "new",
-        "nearest": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+        "nearest": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
         "new_action": ""
       },
-      "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html": {
+      "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+        "nearest": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
         "new_action": ""
       },
-      "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/": {
+      "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
         "new_action": ""
       },
-      "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/": {
+      "https://www.retaildive.com/news/ai-recommendations-returns/873075/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+        "nearest": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
         "new_action": ""
       }
     },
-    "note": "Pool of 11, no duplicates of 30-day history found (all history_match tags are 'related' topic overlap with different events/data). Not dropped as dups; passed over on score/diversity: SEJ Shopify 3-model test (second SEJ, experiment close to the 10-15 SEJ 122-store test), Digiday 'Google search loses its free pass' (analysis, second Digiday), AdExchanger AI-label column (opinion; topic near 10-25 Pennsylvania label law), etnews Naver DOOH report, PPC Land 3x-longer queries and DV survey (PPC Land capped at 1 for outlet spread). Cross-section check against published_urls.json was not exact-grepped (no shell access in this agent) — orchestrator should grep these 5 URLs and 'Alexa for Shopping' / 'Svedka' before roll."
+    "note": "Cluster 'AI search squeezing Google search ad revenue' (Digiday AI-reckoning, Digiday 'Google search loses its free pass with buyers', SEJ Q3 earnings call): kept only Digiday AI-reckoning. It is also distinct from the 11-03 SEJ revenue-per-visit comparison (that one was Google vs ChatGPT ad visits). Swap on 11-04: removed PPC Land 'Smartly's Intelligence Pro' because the fetched article shows AI is only incidental (a measurement product), which fails the marketing _note. Replaced it with PPC Land 'Google tells advertisers AI search queries now run 3x longer', which was earlier held back only by the outlet cap; PPC Land is still at 2 picks. It reports how AI search changes query behaviour (length, multimodal share) from Google's advertiser briefing. That is a separate story from the ad-revenue cluster and from the 10-29 'Ads in AI Mode expand to new markets' launch, and no history_digest entry covers query length. Dropped on scope: SER 'AI Overviews for brands move to right column' (a general search layout change with no paid placement, which the marketing _note excludes); AdExchanger 'AI labels' (opinion column, a running theme after the 10-25 Pennsylvania label law); AdExchanger Digital Culture Group (vendor profile); Adweek Shopify attacks (security, AI incidental); Retail Dive holiday AI survey (weaker than the returns report). No candidate was a URL or content repeat of history_digest. Cross-section check: published_urls.json could not be exact-grepped here (Read-only tools, file too large), so the orchestrator should confirm the 5 URLs, including the new PPC Land 3x-longer URL, are absent from it before roll."
   }
 }

@@ -3020,6 +3020,130 @@
           "x": "Samsung Electronics的睡眠呼吸暂停功能已于2023年9月获得食药处软件医疗器械(SaMD)许可，2024年2月获得美国FDA“De Novo”批准，2025年获得巴西ANVISA批准，目前在全球84个国家提供。"
         }
       ]
+    },
+    "medicine/medicine-hti5-ai-oversight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
+          "cap": "图片：插图，Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "HHS正在撤销多项健康IT认证要求，其中包括部分AI透明度规定。ONC发布的HTI-5最终规则删除了现行60项认证标准中的14项，并另修订七项；大部分变更将于December 28, 2026生效，ONC预计可节省超过$1.5 billion 的监管成本。"
+        },
+        {
+          "t": "p",
+          "x": "该规则取消了开发者在循证与预测性决策支持干预中为AI建议提供来源说明的要求，以及干预风险管理要求。"
+        },
+        {
+          "t": "p",
+          "x": "“认证不再保证能够获取预测工具的预期用途、训练数据、性能或局限性等信息，”律师Mel Soliz表示。她建议医疗机构领导者不要依赖联邦认证，而应将自己的披露、验证和偏倚测试要求写入AI采购合同。"
+        },
+        {
+          "t": "p",
+          "x": "该规则还取消了用于保护敏感健康信息的安全标签的自愿认证标准，Soliz称这是对医疗服务提供者而言最令人失望的变化之一。"
+        }
+      ]
+    },
+    "medicine/medicine-epic-inbox-drafts-jama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "这项回顾性队列研究在Columbia University Irving Medical Center考察了Epic的In Basket Augmented Response Technology，该工具可为患者门户消息生成AI-drafted回复。研究分析了March 1, 2023至May 15, 2025期间1542名临床医生对272 091名患者的983 154条首次回复；全机构部署于December 2024完成。"
+        },
+        {
+          "t": "p",
+          "x": "采用该回复工具与整体消息周转时间增加8.6%相关，而在单条消息上使用该工具则与周转时间缩短29.5%相关。"
+        },
+        {
+          "t": "p",
+          "x": "工具使用与下班后消息负担的整体减少无关。对于工作时间内收到的检查结果相关询问，下班后回复有所减少；但对于下班后收到的消息，下班后回复反而增加。"
+        },
+        {
+          "t": "p",
+          "x": "作者总结称，该工具可能降低回复某些消息的门槛，但并未均衡地减轻负担。"
+        }
+      ]
+    },
+    "medicine/medicine-mantis-pediatric-tumors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MANTIS（用于时间依赖性个体化生存预测的甲基化谱分析与人工神经网络）是一款用于预测髓母细胞瘤和室管膜瘤预后的精准AI工具，基于2,786名患者的全基因组DNA甲基化芯片数据构建。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+          "cap": "Fig. 1: 神经网络架构与训练概览。"
+        },
+        {
+          "t": "p",
+          "x": "它可生成10年期内的个体化生存概率，一致性指数最高达0.80 ± 0.07，显著优于现有临床指标。该工具已在三个独立临床试验队列共898名髓母细胞瘤患者中得到验证。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig5_HTML.png",
+          "cap": "Fig. 5: 多数平均风险MB患者可能从更低的CSI剂量中获益。"
+        },
+        {
+          "t": "p",
+          "x": "扩展用于估计个体化治疗效果后，MANTIS识别出~60%的平均风险髓母细胞瘤患者在接受强度较低的颅脊髓照射剂量治疗时无显著生存劣势（P = 0.683），而较低剂量与神经认知结局改善相关。"
+        }
+      ]
+    },
+    "medicine/medicine-stanford-preterm-twins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/_cq_featuredimage.coreimg.jpeg/1792435300089/digital-twin.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Stanford Medicine研究人员构建了一个AI-enabled的孕期免疫系统变化模型，为每位孕妇的免疫系统创建“数字孪生”，用于虚拟药物测试。该研究于Oct. 21在线发表于Science Advances。"
+        },
+        {
+          "t": "p",
+          "x": "这一名为SIMCO（临床结局模拟免疫建模）的系统，基于两亿五千万个细胞的反应以及63例妊娠的纵向数据训练，随后用于评估九种已知对孕期安全的药物方案。"
+        },
+        {
+          "t": "p",
+          "x": "效果最好的组合是阿司匹林和兰索拉唑。“在数字孪生系统中，这两种药物联用对延迟分娩效果显著，是单用阿司匹林的15倍，”资深作者Brice Gaudilliere说。研究还发现，叶酸也能延缓走向分娩的免疫进程。"
+        },
+        {
+          "t": "p",
+          "x": "该组合在动物模型中延迟了分娩，研究人员已获得FDA批准，将在人体临床试验中进行测试。"
+        }
+      ]
+    },
+    "medicine/athenahealth-claude-records": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "融合AI与医疗图标的医疗科技界面"
+        },
+        {
+          "t": "p",
+          "x": "电子健康记录公司athenahealth正通过一项新连接，向外部AI助手开放患者健康记录，首先从Anthropic的Claude开始；这项连接旨在根据患者的临床数据为其提供个性化解答。"
+        },
+        {
+          "t": "p",
+          "x": "这一新的服务器解决方案名为athenaPatient MCP，利用Model Context Protocol将Claude与athenaOne平台直接相连。患者使用athenahealth患者门户的登录凭证进行身份验证，并自行决定Claude可以访问哪些信息。凭证不会与Claude共享，患者可随时撤销访问权限。"
+        },
+        {
+          "t": "p",
+          "x": "美国（U.S.）的Claude Pro和Max用户可在Claude设置中添加athenaPatient MCP连接器。经患者许可，Claude可参考化验结果、用药、生命体征、健康状况、诊断报告、免疫接种、就诊记录、过敏、手术操作及护理计划。"
+        },
+        {
+          "t": "p",
+          "x": "athenahealth首席产品与运营官Paul Brient表示，公司只会向不使用患者信息训练模型的AI助手开放athenaPatient MCP访问。他说：“Claude是我们为athenaPatient MCP启用的第一个连接，但并不打算让它成为唯一的连接。”"
+        },
+        {
+          "t": "p",
+          "x": "根据Pew Research Center八月的一项调查，超过三分之一（34%）的美国（U.S.）成年人曾将AI助手用于健康相关用途。Brient表示，目标并非给临床医生增加额外工作：“决定患者应该使用哪款AI助手，不是我们的职责。”"
+        }
+      ]
     }
   }
 }

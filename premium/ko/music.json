@@ -13811,6 +13811,150 @@
           "x": "징, 차임, 휘슬 같은 소리에서는 원치 않는 아티팩트가 줄어 요청한 소리의 성격이 더 잘 산다. 효과음은 Sound Effects 탭, Flows, Studio, Music Editor, 모바일 앱에서 만들 수 있다. 개발자는 ElevenAPI로 SFX v3를 쓰면 된다."
         }
       ]
+    },
+    "music/music-riaa-openai-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
+        },
+        {
+          "t": "p",
+          "x": "RIAA, NMPA, A2IM, SONA, ARA 등 음악업계 단체들이 도서 저자·신문사가 Open AI와 벌이는 대형 소송에 법정 조언자 의견서(amicus brief)를 냈다. 미국 저작권법상 AI 학습이 결코 공정 이용(fair use)으로 인정돼선 안 되는 이유를 담았다."
+        },
+        {
+          "t": "p",
+          "x": "AI 기업을 상대로 한 US 저작권 소송은 하나같이 공정 이용 여부가 관건이다. Suno, Udio, Anthropic을 겨냥한 음악업계 소송도 다르지 않다. 앞서 Trump 행정부 법무부는 Open AI의 학습이 공정 이용이 아니라고 판결하면 “저작권법의 기본 원칙에 어긋난다”는 입장을 판사에게 전했다."
+        },
+        {
+          "t": "p",
+          "x": "의견서의 논거는 세 갈래다. 변형적 이용 쟁점에서는 Warhol 판결을 인용해 “AI 모델이 로맨스 시나 블루그래스를 흡수하는 것은 언어나 음악 전반을 배우기 위해서가 아니라, 그것처럼 읽히고 들리는 대체물을 만들어 내기 위해서다”라고 했다. 시장 희석 쟁점에서는 AI가 “학습에 쓰인 저작물의 시장을 대체하고 그 가치를 떨어뜨리는 콘텐츠를 끝없이 출력하는 고유한 능력을 지녔다”고 지적했다. 저작권의 폭넓은 목적이 “인간이 대중의 이익을 위해 창작물을 만들도록 장려하는 것”이라는 점도 강조했다."
+        },
+        {
+          "t": "p",
+          "x": "US Music Artist Coalition은 별도로 Cate Blanchett이 공동 설립한 Human Consent Foundation의 의견서에 힘을 보탰다. 이 의견서는 “창작 산업에는 흩어진 저작물의 권리를 대규모로, 비용 효율적으로 처리할 수 있는 검증된 인프라와 업무 흐름이 이미 갖춰져 있다”고 주장한다."
+        }
+      ]
+    },
+    "music/music-disney-openart-lyrics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ca-times.brightspotcdn.com/dims4/default/b18e006/2147483647/strip/true/crop/3900x2601+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Walt Disney Co.가 인공지능으로 자사 노래 가사를 보여 주는 뮤직비디오 콘셉트를 여러 가지 시험 중이다. 첫 곡은 1997년 애니메이션 영화 “Hercules”에 나온 “Go the Distance”다."
+        },
+        {
+          "t": "p",
+          "x": "베이 에어리어 AI 스타트업 OpenArt와 맺은 계약에 따른 시도다. Disney가 노래를 OpenArt 플랫폼에 올리면 플랫폼이 노랫말과 분위기, 정서적 톤을 읽어 가사 영상의 스토리보드 미리보기를 만든다. Disney는 결과물을 원하는 대로 고치고 세밀하게 다듬을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "OpenArt CEO Coco Mao는 “그들은 오래된 음악 카탈로그 일부를 꺼내 그 노래들의 비주얼 가사 영상을 만드는 데 무척 들떠 있다”며 이번 작업을 “초기 탐색”이라고 했다. Disney는 크리에이티브 팀이 “몇 주가 아니라 몇 시간 만에 여러 콘셉트”를 만들고 평가할 수 있다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "계약 소식은 화요일 버뱅크에서 열린 Disney Accelerator Demo Day에서 나왔다. 올해 참가 기업 다섯 곳은 모두 AI 기업이다. OpenArt는 Kling, Google Veo, Seedream 등의 모델을 쓰고, 잠재적 IP 침해를 걸러 내는 도구도 갖췄다. 2022년 전 Google 엔지니어 Mao와 John Qiao가 창업했으며 직원은 100명 가까이, 월간 활성 사용자는 1700만 명이다."
+        },
+        {
+          "t": "p",
+          "x": "Disney 등 스튜디오들이 AI 기업 Midjourney와 MiniMax를 고소한 와중에 나온 실험이다."
+        }
+      ]
+    },
+    "music/music-itunes-top10-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted 음악은 이제 다음 히트곡을 쓰거나 Grammy를 가로채려고 숨어 기다리는 먼 업계의 괴물이 아니다. 벌써 매일 보는 차트 풍경의 일부다."
+        },
+        {
+          "t": "p",
+          "x": "Nov. 1 iTunes U.S. Top 10이 좋은 예다. 적어도 어느 정도 AI의 도움을 받아 만든 것으로 보이는 곡이 네 곡이고, 핼러윈 직후(post-Halloween) #1 곡도 여기에 든다. 물론 Apple은 개별 다운로드 수를 공개하지 않고, 스트리밍이 주도하는 지금의 음악 소비에서 디지털 음원 판매는 극히 일부다. 그래도 누군가는 분명히 이 곡들을 사고 있다."
+        },
+        {
+          "t": "p",
+          "x": "정상은 May the Lord Studio의 “Tell Me, How Is Heaven”이 차지했다. 음악이 AI-assisted로 확인된 신앙 기반 프로젝트다. #4 Shards of Art의 “Fucking Shit, Holy Shit”은 합창과 doo-wop 풍의 노벨티 곡으로, 장르별 리메이크가 여럿 나왔다. Rocky B의 “Fuck the Ones”가 #8이다. #10은 디트로이트(Detroit) 퍼포머 Looze Cannon의 “Big Michael Michael”로, 바이럴이 된 그의 Michael Jackson 흉내에서 이 싱글이 나왔다. Looze는 AI 필터를 쓴다는 의혹을 부인했다."
+        },
+        {
+          "t": "p",
+          "x": "이 곡들이 사랑받는 슈퍼스타를 밀어냈다는 얘기는 아니다. 차트에는 “Thriller”로 #2에 오른 Jackson을 비롯해 Ella Langley, Taylor Swift, Ray Parker Jr., Zach Bryan과 Lana Del Rey 같은 사람 아티스트도 있다. 다만 연말 시즌이 성큼 다가온 지금, 다음 전선은 합성 시즌 음악의 범람이 될지도 모른다."
+        }
+      ]
+    },
+    "music/music-seoul-forum-virtual-kpop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "cap": "가상 보이그룹 Plave가 일본 쇼케이스(June 17)에서 공연하는 모습."
+        },
+        {
+          "t": "p",
+          "x": "2026 Seoul Music Forum은 “Independent, Connected, Global: The Next Chapter for Music Labels”를 주제로 음악계에 부상한 AI를 짚었다. 한국음반산업협회(LIAK) 주최로 일요일과 월요일 서울 서부에서 열렸다."
+        },
+        {
+          "t": "p",
+          "x": "기조연설에 나선 Josh Jordan(마닐라의 컨설팅사 Crosscurrent 창업자)은 AI가 무서운 속도로 발전하자 젊은 세대가 완벽하게 생성된 AI 콘텐츠 속에서 인간의 불완전함을 찾는다고 말했다. 가상 보이그룹 Plave를 대표 사례로 든 그는 “팬들은 이 가상의 외피 아래에 실제 사람이 있다는 걸 안다”고 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://image.koreajoongangdaily.com/12950493.webp?imageId=12950493&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=644&format=jpg",
+          "cap": "2026 Seoul Music Forum 패널(Nov. 1)에 나선 Josh Jordan, Tinko Georgiev, Yang, 음악평론가 Lim Hee-yun(왼쪽부터)."
+        },
+        {
+          "t": "p",
+          "x": "음악평론가 Lim Hee-yun은 패널 토론에서 Crosscurrent와 함께한 연구를 소개하며 올해 데뷔한 K-pop 신인 팀 넷 중 하나가 가상이라고 밝혔다. 그는 “신인 넷 중 하나가 [인간이 아니라는] 사실은 미래에 중대한 의미를 지닌다”며 이를 “비인간-인간 결합”이라고 불렀다."
+        },
+        {
+          "t": "p",
+          "x": "상하이 CRxAI 소속 Tinko Georgiev는 AI가 몰고 온 가장 큰 변화 중 하나로 고품질 콘텐츠가 더는 귀하지 않게 된다는 점을 들었다. LIAK 회장 Park June-seok은 업계가 “음악의 가치와 창작자의 권리를 어떻게 지키고 지속 가능한 생태계를 만들지” 고민해야 한다고 말했다."
+        }
+      ]
+    },
+    "music/suno-studio-chat-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "DAWs가 대세가 되면서 스튜디오 어시스턴트에 기대는 일은 줄었다. 내장 어시스턴트를 갖춘 DAWs는 손에 꼽을 만큼 적다. Suno Studio가 그중 하나이고, 나머지는 FL Studio, Fender Studio Pro, Logic Pro다."
+        },
+        {
+          "t": "p",
+          "x": "Suno Studio의 어시스턴트 이름은 Chat이다. 상상할 수 있는 어떤 악기나 목소리로든 스템과 플러그인을 만들고, 프로젝트를 정리하는 궂은일도 일부 맡으며, 작업 중인 곡에 피드백까지 준다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/e54cae59ac6f8d030a76a7afa9774d1fb705d497.gif",
+          "cap": "Suno Studio의 AI 어시스턴트로 트랙 이름 바꾸기"
+        },
+        {
+          "t": "p",
+          "x": "트랙 이름 정리: “클립 이름에 맞춰 각 트랙 이름을 바꿔 줘”라고 하면 “Audio Track”이라는 이름의 트랙 20개 이상이 정리된다. 페이더 여러 개도 한꺼번에 조정한다: “모든 트랙을 3dB 낮춰 줘.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/files/cl7b1q1i/production/fa23b0ee0aec51abb19d256fd9b5a51ee99febb1.gif",
+          "cap": "Suno Studio의 AI 어시스턴트로 플러그인 제어하기"
+        },
+        {
+          "t": "p",
+          "x": "Studio 자체 Compressor와 EQ든 직접 만든 플러그인이든 여러 개를 한꺼번에 넣을 수 있다. “모든 트랙에 Compressor와 EQ 이펙트를 넣어 줘”, “프로젝트의 모든 EQ에 82 Hz까지 하이패스 필터를 걸어 줘” 하는 식이다. 곡이 막히면 Chat이 “강아지에 관한 70 BPM Ska-Metal 노래” 같은 엉뚱한 제안을 던지기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "Suno Studio는 모든 Premier 구독에서 쓸 수 있다."
+        }
+      ]
     }
   }
 }
