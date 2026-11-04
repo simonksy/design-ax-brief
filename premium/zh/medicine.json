@@ -3144,6 +3144,109 @@
           "x": "根据Pew Research Center八月的一项调查，超过三分之一（34%）的美国（U.S.）成年人曾将AI助手用于健康相关用途。Brient表示，目标并非给临床医生增加额外工作：“决定患者应该使用哪款AI助手，不是我们的职责。”"
         }
       ]
+    },
+    "medicine/mayo-platform-cds-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+          "cap": "两名临床医生正在讨论电脑显示器上的脑部扫描图像。"
+        },
+        {
+          "t": "p",
+          "x": "Mayo Clinic Platform面向Mayo Clinic临床医生及其医疗服务提供者项目中的机构，推出AI-enabled临床决策支持（Clinical Decision Support，CDS）解决方案。该方案可集成到越来越多的EHR环境中，临床医生无需在多个独立资源之间来回切换。"
+        },
+        {
+          "t": "p",
+          "x": "自2026年11月起，参与的临床医生可使用由大语言模型驱动的分专科聊天功能，覆盖超过35个专科，引用同行评审文献并每日更新；另有22种临床计算器，可通过聊天或语音听写调用，其中包括Mayo专有计算器。"
+        },
+        {
+          "t": "p",
+          "x": "首席运营官Maneesh Goyal表示，目标是减少检索时间、把更多时间用于患者诊疗；首席医疗官Gelareh Zadeh强调，该工具不会取代临床判断。"
+        }
+      ]
+    },
+    "medicine/google-health-ai-evals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google与健康专家Dr. Elizabeth McGlynn和Dr. Dana Gelb Safran共同发布白皮书，介绍了一套端到端方法，用于评估满足人们健康需求的AI用例。"
+        },
+        {
+          "t": "p",
+          "x": "该框架从准确性、安全性和实用性评估模型，在常见及高风险健康场景中结合封闭式问题基准测试、自动评分器和专家人工审查。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+          "cap": "身穿绿色手术服的医护人员在诊室里查看患者手中的智能手机。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示，该框架由其自行构建，至今仍用于检验自家模型；公开这一方法论旨在提升透明度，帮助开发者、研究人员和临床医生打造值得信赖的AI工具。"
+        }
+      ]
+    },
+    "medicine/mount-sinai-delirium-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "这项质量改进研究评估了一种结合自然语言处理的融合多模态模型，用于对入住非ICU（non-ICU）病房的60岁及以上患者进行谵妄风险分层。该模型于2024年12月至2025年12月在Mount Sinai Hospital（MSH）实际部署，并在Mount Sinai Morningside（MSM）进行外部验证。"
+        },
+        {
+          "t": "p",
+          "x": "样本涵盖33,095例住院；实际运行期间评分的9,020例MSM住院与21,186例已评分的MSH住院进行了比较。两组患者在年龄、性别、种族和族裔、诊断类型、住院时长及痴呆患病率方面存在差异。"
+        },
+        {
+          "t": "p",
+          "x": "在未重新训练的情况下，模型在MSM的AUROC为0.91，在MSH为0.94，阳性预测值分别为25.9%和19.4%。部署后，MSM的月均谵妄检出率从9.23%升至19.59%。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为，该模型在外部机构保持了可接受的区分能力并提高了诊断检出率，但假阳性率较高。"
+        }
+      ]
+    },
+    "medicine/nejm-ai-physical-limits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在这篇NEJM AI观点文章中，Dan Zeltzer、Tyler Tam、Benji Bhattacharya、Victoria Udalova和Maria Polyakova探讨了各医生专科中AI替代所面临的物理局限，以及这对医生队伍意味着什么。"
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+          "cap": "各专科支付占比：物理性服务（不可被基于软件的AI替代）、E&M，以及非物理性服务（可能被替代）。"
+        },
+        {
+          "t": "p",
+          "x": "在全部56个专科（支付总额US$44.9bn）中，24%的支付用于物理性服务，55%用于评估与管理，21%用于可能被AI替代的非物理性服务。"
+        },
+        {
+          "t": "p",
+          "x": "各专科的暴露程度差异很大：病理科99%、诊断放射科96%的支付来自非物理性工作，而皮肤科和骨科分别有68%和53%来自物理性服务。"
+        }
+      ]
+    },
+    "medicine/medicine-vscan-air-lung-as": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GE HealthCare(GEHC)正为其Vscan Air手持超声系统引入两项AI-based功能：帮助临床医生采集肺部超声图像的Lung Guidance，以及评估中重度主动脉瓣狭窄的AutoAS。"
+        },
+        {
+          "t": "p",
+          "x": "据该厂商介绍，Lung Guidance可在标准八区肺部检查方案中实时引导校正解剖标志，在满足图像质量标准时自动采集片段，并支持B-line检测与评分。GEHC表示，在验证测试中，非专业用户获得诊断质量检查的比例为95.2%，专业用户为96.8%。"
+        },
+        {
+          "t": "p",
+          "x": "AutoAS会分析使用Vscan Air SL采集的至少两个标准2D超声心动图切面，并提示检查结果是否提示中重度主动脉瓣狭窄，同时给出置信度评分。"
+        },
+        {
+          "t": "p",
+          "x": "两款工具均已获得U.S.食品药品监督管理局(FDA)的510(k)许可，并带有CE Mark。GEHC表示，持有有效Innovation Package订阅或许可的现有Vscan Air客户预计将在11月底前收到更新。"
+        }
+      ]
     }
   }
 }

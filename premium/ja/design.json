@@ -10768,6 +10768,163 @@
           "x": "Figmaノードを使えば、Figma DesignのフレームをコピーしてWeaveに貼り付けられ、貼り付けたフレームは元のフレームとつながったままになる。Figma Designで元のフレームを変更すると、その変更はWeave内の対応するFigmaノードにも反映される。"
         }
       ]
+    },
+    "design/openai-astra-hardware-device": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "本日、OpenAIのモデルがエンジニアによる物理製品の設計、シミュレーション、製造をどう支援するか、その進展を紹介する。これらの機能は機械工学と電気工学、そしてエンドツーエンドのシステム設計にまたがる。"
+        },
+        {
+          "t": "p",
+          "x": "人が直接編集することなくデバイスを作れるかを確かめることで、マルチモーダルおよびコンピューター操作のワークフローにおけるAstraの最先端の性能を検証した。GPT‑6を使って機能要件を定義し、ユーザーがCodexと会話するためのデバイスに必要な筐体、プリント基板（PCB）、ソフトウェア統合を設計した。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+          "cap": "プロトタイプデバイスの筐体"
+        },
+        {
+          "t": "p",
+          "x": "Astraはデバイスの外観を開発し、筐体と部品を保持する内部構造を設計し、電子部品を選定してPCBを設計し、デバイスをCodexに接続するのに必要なファームウェアとソフトウェア統合を生成した。"
+        },
+        {
+          "t": "p",
+          "x": "チームメンバー二人がAstraとともに、一週間足らずでこのテストデバイスを設計した。受託製造業者が一か月足らずで少量のプロトタイプを製造した。それでも、量産に向けた準備には数回のレビューと改良の繰り返しが必要だった。"
+        },
+        {
+          "t": "p",
+          "x": "2月以降、OpenAIのハードウェアチーム全体でのモデル使用量はトークン換算で23倍に増えた。BenchCAD 2.0では、より新しい社内モデルが平均0.875のスコアを記録し、最高の推論設定のGPT‑6 Astraは0.594だった。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはChip Ganassi Racingとの協業を拡大し、Mazdaとの新たな研究協業を発表する。"
+        }
+      ]
+    },
+    "design/tripo-agentic-canvas-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AIは、視覚的なノードベースのキャンバス上で3Dワークフローを構築・実行する人工知能エージェント「Tripo Agentic Canvas」をリリースした。サンフランシスコの同社は自社の3Dネイティブ基盤モデルを軸にこのツールを設計し、アイデアや参照画像、既存アセットを、3D生成からアセットの調整、エクスポートまでつながる一連のシーケンスに変える。"
+        },
+        {
+          "t": "p",
+          "x": "キャンバス上では各ノードが一つの処理を担い、リンクがあるノードの出力を次のノードに渡してワークフローを形づくる。ユーザーはテクスチャリング、リトポロジー、Smart UV、物理ベースレンダリング（PBR）処理、セグメンテーション、リギングをノードとして追加し、プロジェクトに合わせてつなぎ合わせられる。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントにワークフローの生成を依頼し、結果を確認したうえで個々のノードを変更し、シーケンスを修正することもできる。完成したワークフローは保存、複製、再利用でき、バッチ処理で一つのワークフローを複数のアセットに適用できる。"
+        },
+        {
+          "t": "p",
+          "x": "AI 3D Labノードは、特定のアセットを確認・調整したり、上流ノードから新たな結果を生成したりするための対話型ツールを加える。"
+        },
+        {
+          "t": "p",
+          "x": "Tripoは、ゲーム開発、3Dプリンティング、製品デザインとeコマース、映画、アニメーション、ビジュアライゼーションを主な用途に挙げている。"
+        }
+      ]
+    },
+    "design/ncircle-nvibe-aec-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "nCircle Techは、AEC分野の専門家がコーディングスキルなしでアイデアを実際に動くアプリケーションに変えられるよう設計された、AI-poweredの開発プラットフォーム「nVibe」を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "現場監督、プロジェクトエンジニア、VDCリードといった領域の専門家が平易な言葉でワークフローを説明すると、nVibeはIT部門がセキュリティ、権限、デプロイを管理できるよう設計されたサンドボックス環境内でアプリケーションを構築する。"
+        },
+        {
+          "t": "p",
+          "x": "nCircle Techによれば、nVibeはWBSコード、CSI MasterFormat、RFIs、提出書類、LoD 100–500といったAECの用語やワークフローを組み込みで理解している点で、汎用のAIコーディングツールと異なる。"
+        },
+        {
+          "t": "p",
+          "x": "nVibeには、Autodesk Forma、Autodesk Platform Services（APS）、Autodesk AEC Data Model、SAPなどのERPシステム、Model Context Protocol（MCP）向けのコネクターが標準で用意されている。Navisworks、Procore、AutoCAD、Revitとの連携も近く提供される。"
+        },
+        {
+          "t": "p",
+          "x": "nVibe for Revitは、平易な言葉による指示を、チームのRevitリボンに表示されるネイティブのRevitプラグインに変換することを目指している。アプリケーション構築の過程で一度AIを使えば、その後のアプリケーション実行ではトークンを消費しない。"
+        }
+      ]
+    },
+    "design/claude-design-reference-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claudeにデザインを頼むと、どこかで見たテンプレートのような結果になりがちだ。そこで筆者は依頼内容を同一に保った。韓国・坡州（パジュ）の小さなカフェONGI Coffeeの新メニュー“Lemonade”を告知するInstagramフィード画像（1080×1350）を、HTMLファイル一つで作るという依頼だ。そのうえで、参照の渡し方だけを変えた。ツール：Claude Code、2026年10月。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+          "cap": "LV1 — 依頼のみ。きれいだが、テンプレートのように見える。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+          "cap": "LV2 — 参照を二枚添付。二つの画像がランダムに混ざった。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+          "cap": "LV3 — 参照 + 何を取り入れるかを数行。ブランドのトーンが表れた。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+          "cap": "LV3+ — 実際の写真 + 修正一つ。そのまま投稿できる。"
+        },
+        {
+          "t": "p",
+          "x": "各レベルをさらに二回ずつ実行した（9回）。傾向は変わらなかった。参照を添付すること（LV2）よりも、参照について数行書き添えること（LV3）のほうが変化が大きかった。"
+        },
+        {
+          "t": "p",
+          "x": "LV2では、Claudeは両方の画像を同じくらい重要な指示として読んだ。どの画像から何を取ればよいか分からず、目立つ要素をすべて組み合わせるか、メニューの暗いカードをほぼそのまま写した。"
+        },
+        {
+          "t": "p",
+          "x": "要点：参照を見せることより、「ここからはこれだけ取って」と伝えることのほうが重要だ。取り入れるものと取り入れないものは別々のリストにして書く。参照ごとに役割を一つ与える。役割の異なる参照を二〜三点用意するのが最もうまくいく。何かがずれたら、一度に一つか二つだけ直し、「それ以外はそのままにして」と伝える。"
+        }
+      ]
+    },
+    "design/autom8labs-aec-mcp-skills": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Revit、AutoCAD、3ds MaxなどでAIエージェントの作業を導き、作業の進め方と結果の確認に「明確な手順」を示す。"
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labsは無料のMCP Skillsを22種公開した。Revit、AutoCAD、Navisworks、Grasshopper、MicroStation、3ds Max、Rhino、Civil 3D、Advance Steel向けの同社MCP Connectorsと組み合わせて動作する。各MCPスキルはAIエージェントに単に指示を出すのではなく、経験豊富な専門家がたどる手順に沿って導く。"
+        },
+        {
+          "t": "p",
+          "x": "「AIエージェントに設計アプリケーションへのアクセスを与えても、その中での最善の作業方法を自然に理解するわけではない」とAutom8LabsのJames Grayは述べた。「MCP ConnectorsはAIエージェントに道具を与える。Skillsは方法を与える」"
+        },
+        {
+          "t": "p",
+          "x": "スキルの大半はRevitを対象とし、ファミリー作成、scan-to-BIM、モデルの健全性、構造、MEP、調整、敷地、文書管理を含む。Grasshopper向けのコンピュテーショナルデザインスキルは、コンピュテーショナルデザイナーと同じやり方でパラメトリック定義を組み立て、3ds Maxのスキルはビジュアライザーと同じやり方でCoronaやV-Rayを設定する。"
+        },
+        {
+          "t": "p",
+          "x": "Autom8LabsはAEC企業向けに、各社のテンプレート、標準、承認チェックに合わせたカスタムスキルの構築とテストも請け負う。"
+        }
+      ]
     }
   }
 }

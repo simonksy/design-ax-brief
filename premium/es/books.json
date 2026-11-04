@@ -8702,6 +8702,163 @@
           "x": "El foco debe estar en un marco de rendición de cuentas y validación, con el juicio humano como complemento de los controles técnicos. “La presencia de AI no demuestra una mala conducta, del mismo modo que la ausencia de AI no demuestra integridad.” — Roohi Ghosh, Cactus Communications"
         }
       ]
+    },
+    "books/readwise-books-reader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?w=1024",
+          "cap": "Créditos de imagen: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "Readwise, creadora de una app para leer más tarde (read-it-later), desafía el imperio de e-books de Amazon con Readwise Books, que describe como \"un cruce entre Kindle y las apps de Goodreads\": un solo lugar para comprar, leer y registrar libros, con datos de lectura más ricos como palabras leídas, ritmo, profundidad, inmersión y sesiones."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-4.png?w=680",
+          "cap": "Créditos de imagen: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "Su tienda ofrece \"millones\" de e-books de las cinco grandes editoriales y de otras, inicialmente en U.S. (Estados Unidos). También hay libros impresos y algunos audiolibros. Kindle sigue siendo el líder, con un 83% del mercado si se incluye Kindle+."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-2.png?w=680",
+          "cap": "Créditos de imagen: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden subir DRM-free EPUBs (EPUB sin DRM), registrar sesiones en el Cloud Reader de Kindle, fotografiar libros físicos y hacer que los e-books se lean en voz alta. Readwise compara sus métricas con un \"Strava de la lectura\"."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/image-1.png?w=680",
+          "cap": "Créditos de imagen: Readwise"
+        },
+        {
+          "t": "p",
+          "x": "Con permiso de las editoriales, la app ofrecerá funciones AI-powered (impulsadas por AI) como resúmenes de sesión, definiciones y búsqueda de términos, traducción de palabras y frases, y la posibilidad, según la posición en el texto, de hacer preguntas sobre la parte que se está leyendo. (Por ahora, solo HarperCollins se ha sumado.) También ofrece una API pública y un servidor MCP compatible con agentes de AI."
+        },
+        {
+          "t": "p",
+          "x": "La app seguirá siendo gratuita, aunque algunas funciones de AI pasarán más adelante a ser de pago. Está en beta y requiere invitación, salvo para quienes ya están suscritos a Readwise."
+        }
+      ]
+    },
+    "books/oup-chatgpt-edu-pilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132583-2.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Oxford University Press anunció un piloto de tres meses que permite a estudiantes e investigadores de Harvard Library, la Wharton School de la University of Pennsylvania y la University of Oxford buscar contenido con licencia de OUP dentro de ChatGPT Edu. La prueba comenzó en octubre y se extiende hasta diciembre; las respuestas se basan en libros y revistas de OUP que su institución ya compra, con citas y enlaces al texto completo en Oxford Academic."
+        },
+        {
+          "t": "p",
+          "x": "Detrás hay un servidor Model Context Protocol (MCP) que OUP construyó con Silverchair. Cuando un usuario hace una pregunta, el servidor de OUP busca en el contenido de la editorial, elige las fuentes más relevantes y se las pasa a ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "\"Emprendimos este piloto para saber cómo es el uso real de los MCPs de las editoriales y qué beneficios aporta\", dijo Tanya Laplante, de OUP. Los socios analizarán si las citas animan a los investigadores a hacer clic y si la información de OUP mejora las respuestas de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Ese mismo día, Cambridge University Press, Johns Hopkins University Press y Princeton University Press anunciaron Meridian, un servicio MCP compartido gestionado por Cashmere, una startup de licencias de AI."
+        }
+      ]
+    },
+    "books/bookend-editorial-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338795_1432.jpg",
+          "cap": "Choi Hyun-soo, director ejecutivo de Bookend [Foto=Bookend]"
+        },
+        {
+          "t": "p",
+          "x": "Bookend, una editorial del complejo de investigación de Daedeok, presentó 'Editorial', un servicio de edición de libros con AI que reduce el tiempo de corrección y revisión de estilo de 2 semanas a 30 minutos, y el día 7 participó en la Feria Internacional del Libro de Fráncfort, en Alemania, para dar a conocer la tecnología a la industria editorial extranjera."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo, Choi Hyun-soo, explicó: \"Antes, una sola ronda de corrección y revisión llevaba al menos de 2 semanas a un mes, pero Editorial termina de revisar un manuscrito en unos 10 minutos\", y añadió: \"Aun sumando el tiempo que una persona dedica a comprobar los resultados, son unos 30 minutos\". Encargar fuera un manuscrito de 100,000 caracteres cuesta alrededor de 1 millón de wones, mientras que con Editorial puede hacerse por unos 10,000 wones."
+        },
+        {
+          "t": "p",
+          "x": "Además de erratas, partículas y signos de puntuación, detecta expresiones que no encajan en el contexto y verifica los hechos buscando estadísticas. Los resultados se añaden como notas en el archivo original en Hangul (HWP) o PDF. Procesa hasta 500,000 caracteres y, con su tecnología de 'análisis de estilo', conserva el estilo propio del autor mientras aplica el mismo criterio de principio a fin."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.hellodd.com/news/photo/202610/113638_338796_1436.jpg",
+          "cap": "Bookend presentó su tecnología propia de edición de libros con AI en la Feria Internacional del Libro de Fráncfort, en Alemania. [Foto=Bookend]"
+        },
+        {
+          "t": "p",
+          "x": "Bookend ha publicado unos 15 títulos y vendido 40,000 ejemplares, y gracias a la AI redujo el plazo de publicación de 4 meses a 2-3 meses. Admite coreano, inglés y alemán, y planea añadir japonés. \"Muchos coincidieron con la idea de que la AI no sustituye al editor, sino que ayuda a su criterio\", contó Choi. Su objetivo a largo plazo es ser 'el Figma del sector editorial', que conecte todas las etapas de la publicación."
+        }
+      ]
+    },
+    "books/jemul-tupyo-ai-liveaction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500473.png",
+          "cap": "Video de adaptación real con AI basado en 'Jemul Tupyo' de Naver Webtoon. Captura del canal de YouTube de Page Pictures"
+        },
+        {
+          "t": "p",
+          "x": "2.3 millones de visualizaciones en YouTube en un mes y medio desde su publicación. Es la historia de un video que adapta a imagen real con inteligencia artificial (AI) el webtoon 'Jemul Tupyo' de Naver Webtoon. Sin esperar anuncios oficiales de producción, fans y estudios de video reinterpretan con AI webtoons populares en formato de película o serie."
+        },
+        {
+          "t": "p",
+          "x": "'Jemul Tupyo' se hizo solo con AI, sin decorados, CG ni actores. Según la productora, se completó en unas 358 horas, es decir, medio mes, desde la planificación hasta la generación y la edición. Otros webtoons de Naver Webtoon, como 'Geukya' y 'Yongsaga Dorawatda', también se han adaptado a imagen real con AI."
+        },
+        {
+          "t": "img",
+          "src": "https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2026/11/01/.cache/512/20261101500476.png",
+          "cap": "Video de adaptación real con AI basado en 'Namgeuk' de Naver Webtoon. Captura del canal de YouTube de Fantasoner"
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los videos solo adapta a imagen real el inicio y dirige a los espectadores al webtoon original. Pero el cariño de los fans o un gran número de vistas no equivalen al permiso del autor original. Un fin no lucrativo o la sola mención de la fuente no permiten omitir el trámite de autorización de derechos de autor, y pueden surgir problemas de derechos de autor y del derecho a crear obras derivadas."
+        },
+        {
+          "t": "p",
+          "x": "Seo Beom-gang, presidente de la Asociación de la Industria de Convergencia IP, subrayó: \"Conviene permitir las actividades de fans no comerciales bajo ciertas condiciones y establecer un procedimiento de contrato aparte para la producción comercial\"."
+        }
+      ]
+    },
+    "books/books-ao3-clone-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/elin-melaas-yUrnuI11rbA-unsplash.jpg",
+          "cap": "Foto de Elin Melaas en Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "Un sitio creado con vibe coding que extraía obras de fanfiction de Archive of Our Own (AO3), las volvía a subir y cobraba por versiones en audiolibro ha cerrado, después de que su creador dijera que recibió más de 2.000 solicitudes de retirada de autores en el único día que estuvo activo."
+        },
+        {
+          "t": "p",
+          "x": "ao3.life surgió después de que AO3 anunciara una interrupción de varias semanas tras un incidente de seguridad. Su creador, Ganesh, escribió que “un enjambre de agentes de IA que controlaban 40 máquinas virtuales” rastreó internet en busca de obras. El sitio ofrecía EPUBs y audiolibros AI-generated (generados por IA), cobraba a partir de los tres primeros minutos y aseguraba que los autores recibirían el 91% de los beneficios."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-85a56f73-0934-4717-926f-cb71a9967b1c-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Algunos autores dijeron que el bloqueo de archivo de AO3 no sirvió de nada: sus obras bloqueadas seguían apareciendo en el sitio. Para retirar sus obras, los autores debían dejar una nota en su perfil de AO3, algo imposible mientras AO3 estaba caído."
+        },
+        {
+          "t": "p",
+          "x": "“¿Por qué cobré por audiolibros de AI Slop? … Tuvo 126.592 usuarios únicos en las 24 horas posteriores a su lanzamiento”, escribió Ganesh. “Vendí unos 11 audiolibros, si sirve de consuelo”. Se despidió como “una persona de 17 años de India que creía estar haciendo algo bueno”."
+        }
+      ]
     }
   }
 }

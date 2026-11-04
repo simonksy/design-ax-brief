@@ -9910,6 +9910,154 @@
           "x": "Kelly说：“最终目标是打造一套机器人系统，能在宇航员的直接监督和指挥下，通过简单的语音指令执行各种任务。”"
         }
       ]
+    },
+    "gadgets/gemini-home-att-connected-life": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+          "cap": "图片：AT&T"
+        },
+        {
+          "t": "p",
+          "x": "AT&T的智能家居安防系统现已与Gemini for Home集成。该公司称，其Connected Life系统是“首款”与Google Home Premium集成的家庭安防产品，可启用一系列Gemini-powered功能，例如汇总家中事件、搜索视频记录等。"
+        },
+        {
+          "t": "p",
+          "x": "此次更新后，Gemini for Home可以详细描述安防摄像头拍到的事件，比如是谁送来了包裹、放下了几件。用户还可以用自然语言提问来搜索录像，例如“昨晚是什么把院子刨开了？”或“谁把狗放出去了？”，并查看家中内外活动的每日摘要。"
+        },
+        {
+          "t": "p",
+          "x": "这些功能仅适用于AT&T每月$29.99的专业Connected Life监控套餐。AT&T还新增了根据用户与住所的距离自动布防或撤防的功能。"
+        },
+        {
+          "t": "p",
+          "x": "AT&T去年12月与Google和Abode合作推出了Connected Life系统。如今它利用了Google的Gemini-powered Home APIs，这些接口让智能家居品牌和开发者能够在设备中加入AI-powered功能。ADT也暗示将把Gemini for Home功能引入其安防系统。"
+        }
+      ]
+    },
+    "gadgets/disneyland-robot-interns": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在Disney Accelerator Demo Day上，Disney与为机器人打造AI大脑的公司FieldAI展示了一段视频，内容是协助引导车辆完成Disneyland停车流程的机器人。Disney Experiences Technology的Gary Daniels说：“想象一下，你到达时由Cars里的角色或Wall-E中的机器人指引你去哪里停车。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+          "cap": "FieldAI正利用AI训练自主机器人，在Disneyland停车场为你引路。"
+        },
+        {
+          "t": "p",
+          "x": "FieldAI把它的物理AI装进一个带有多个摄像头的盒子，安装在其他公司制造的机器人上。FieldAI-enabled机器人已部署在Galaxy’s Edge的BBX机器人上，不过仍处于早期阶段。CEO Ali Agha说：“我们的智能已用在更大的版本上，并已在园区内运行。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+          "cap": "FieldAI借助AI，让自主机器人无需地图测绘、GPS或引导即可在Disneyland的Star Wars: Galaxy’s Edge中漫游。"
+        },
+        {
+          "t": "p",
+          "x": "Physical Intelligence (Pi)专注于在后台协助演职人员的机器人：拾取、折叠、清洁和分拣3D眼镜。Pi在Disneyland待了12天，在午夜至早上6点之间收集数据。Sourish Jasti说：“这就像一次机器人实习。”“我们打算让机器人在Disney的许多不同场所实习。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+          "cap": "Pi AI-enabled机器人在Disneyland幕后拾取并堆叠3D眼镜。"
+        },
+        {
+          "t": "p",
+          "x": "Disney Research的Doug Fidaleo说：“未来的园区将遍布机器人角色。”"
+        }
+      ]
+    },
+    "gadgets/apple-watch-transfhar-gestures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+          "cap": "Apple Watch Ultra 2双重手势示例"
+        },
+        {
+          "t": "p",
+          "x": "Northwestern University和Carnegie Mellon University的研究人员开发了一套名为TransfHAR的系统，它利用Apple Watch内置的运动传感器——加速度计和陀螺仪——根据手和手腕的动作来学习和识别活动。"
+        },
+        {
+          "t": "p",
+          "x": "10名参与者各自挑选了七项活动，例如搅拌咖啡或在空中画一颗心。该系统的核心模型改编自Google研究人员开发的可穿戴传感器模型LSM-2，并使用来自381人、约2,760小时的公开手腕动作数据进行训练。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+          "cap": "为TransfHAR训练Apple Watch"
+        },
+        {
+          "t": "p",
+          "x": "每项活动只需一分钟的动作记录数据，手表就能以90%的准确率识别七项新活动。每项活动仅用一段2.56秒的片段，平衡准确率也能达到75.2%。训练耗时不到一秒，手表无需配对手机或远程服务器，约24毫秒即可做出预测。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+          "cap": "为TransfHAR训练Apple Watch"
+        },
+        {
+          "t": "p",
+          "x": "手势可用于触发快捷指令或智能家居操作。该系统难以识别写字或滚动这类细小而持续的手部动作，研究团队也没有测量其对电池续航的影响。"
+        },
+        {
+          "t": "video",
+          "yt": "8bVF4_c3y6s"
+        }
+      ]
+    },
+    "gadgets/claude-nordictrack-ifit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+          "cap": "Stephen Radochia / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "一位NordicTrack用户借助Claude Code，摆脱了跑步机屏幕上的iFIT订阅限制。这位用户的女友买了一台NordicTrack Commercial 2250，但观看Netflix和Crunchyroll需要额外订阅iFIT，就连基础训练也得等iFIT加载、忍受广告。"
+        },
+        {
+          "t": "p",
+          "x": "大约一天半之后，iFIT的登录要求、广告和会员推销都消失了。取而代之的是一个自定义主屏幕，上面有Netflix和Crunchyroll，观看视频时仍可随时查看训练数据并进行操控。实体按键也照常可用。据称，Netflix的启动时间从将近一分钟缩短到仅21秒。"
+        },
+        {
+          "t": "p",
+          "x": "这也有代价。Netflix最高只支持标清，恢复出厂设置可能会抹掉这次改造。改装电动器材还涉及安全和保修方面的隐患。尽管如此，作者已在GitHub上公开了这个项目。"
+        }
+      ]
+    },
+    "gadgets/watchos273-live-rewind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+        },
+        {
+          "t": "p",
+          "x": "随着watchOS 27.3首个测试版推出，Apple正在引入此前为Apple Watch Series 12和Ultra 4预告的全新Audio Intelligence功能。Audio Intelligence由S11芯片驱动，包括Live Rewind、Siri Recap、Sound Recognition和Shazam Music Recognition。"
+        },
+        {
+          "t": "p",
+          "x": "Live Rewind可以显示对话最后15秒的文字转录。如果你错过了什么，比如服务员介绍当日特色菜，可以按两下Digital Crown查看刚才说了什么。"
+        },
+        {
+          "t": "p",
+          "x": "Siri Recap在后台运行，全天聆听对话，并生成带有标题和要点的概要总结。总结若未保存，将在七天后自动删除，并可按时间、地点或两者设定日程。"
+        },
+        {
+          "t": "p",
+          "x": "Audio Intelligence功能均需用户主动开启。系统不会创建或存储录音；原始音频会进入S11芯片上的Secure Exclave。所有功能都不会识别说话者或标注发言归属。Live Rewind会发出提示音并显示麦克风指示标志。"
+        },
+        {
+          "t": "p",
+          "x": "Live Rewind在设备端处理；Siri Recap总结则通过Private Cloud Compute生成。这些功能需要支持Apple Intelligence和Siri AI的iPhone 16或更新机型，初期仅支持英语。watchOS 27.3预计将于12月与iOS 27.3一同推出。"
+        }
+      ]
     }
   }
 }

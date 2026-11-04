@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "design",
   "items": [
     {
-      "title": "Autom8Labs launches AEC skills for AI agents",
-      "url": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
-      "source": "AEC Magazine",
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source": "The Verge",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-11-04T18:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "OpenAI is making ChatGPT image generation faster, too.",
+      "rationale": "New release: ChatGPT image generation (Images 2.6) now outputs animated GIFs and runs faster, so designers can make motion assets for social and UI mockups straight from the chat."
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-03T15:38:49Z",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg",
-      "excerpt": "Autom8Labs released MCP-based skills that guide AI agents through tasks in Revit, AutoCAD, 3ds Max, Grasshopper and other design tools.",
-      "rationale": "New product release: MCP skills that let agents work inside Revit, AutoCAD, 3ds Max and Grasshopper. Architects can use it right away."
+      "published_iso": "2026-11-03T12:00:00+00:00",
+      "og_image": null,
+      "excerpt": "OpenAI says GPT-6 Astra designed a Codex hardware device with no direct human edits: it set the functional requirements and handled the look, the enclosure, the PCB and the software integration. The post also covers models that prepare drawings and set up simulations.",
+      "rationale": "Primary source: OpenAI says a model carried a hardware product from requirements through industrial design, enclosure and PCB with no direct human edits. That is a clear marker for where AI-assisted product design is going."
     },
     {
-      "title": "From a Figma frame to an AEM EDS block in one command",
-      "url": "https://dev.to/piotrgodycki/from-a-figma-frame-to-an-aem-eds-block-in-one-command-2m6",
+      "title": "Tripo AI launches Agentic Canvas for node-based 3D workflows",
+      "url": "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/",
+      "source": "VoxelMatters",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "published_iso": "2026-11-03T10:30:09+00:00",
+      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg",
+      "excerpt": "Explore Tripo AI's Agentic Canvas, an innovative tool for creating 3D workflows on a visual node-based platform.",
+      "rationale": "New product: Tripo's node-based agentic canvas chains AI 3D generation steps into repeatable pipelines. 3D and product designers can try it right away."
+    },
+    {
+      "title": "nCircle Tech launches nVibe AI app builder",
+      "url": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-11-03T15:00:54+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg",
+      "excerpt": "nCircle Tech launches nVibe AI app builder. AEC professionals describe the workflow and AI application platform builds the app",
+      "rationale": "New release: AEC professionals describe a workflow in plain language and nVibe builds the app, bringing vibe-coding to architecture and engineering teams."
+    },
+    {
+      "title": "I ran the same Claude design request 4 times. Only the reference hand-off changed.",
+      "url": "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb",
       "source": "DEV Community",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-03T22:30:01Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fpiotrgodycki%2Faem-eds-kit%2Fmain%2F.github%2Fassets%2Freadme-banner.png",
-      "excerpt": "Open-source kit: paste a Figma frame link and get an Adobe Experience Manager Edge Delivery block (JS, CSS, Universal Editor model) via REST or the Figma MCP server, within Figma's rate limits.",
-      "rationale": "New open-source kit that turns a Figma frame into a working AEM Edge Delivery block over Figma MCP. It is a concrete handoff tool for enterprise sites."
-    },
-    {
-      "title": "Vercel MCP now renders deployments as an interactive card",
-      "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
-      "source": "Vercel",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "published_iso": "2026-11-02T17:05:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
-      "excerpt": "Vercel MCP now renders interactive deployment cards inside MCP Apps clients like ChatGPT, so status, build logs and debugging happen as generative UI in the chat.",
-      "rationale": "Primary-source changelog showing MCP Apps generative UI in production, a working pattern for designers who build in-chat interfaces."
-    },
-    {
-      "title": "Code-based prototyping: When it's worth the setup",
-      "url": "https://www.eleken.co/blog-posts/code-based-prototyping",
-      "source": "Eleken",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-11-03T12:44:29Z",
-      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp",
-      "excerpt": "Eleken's head of design explains why the agency now prototypes with real components, including Claude-generated interactive dashboards, to test states and edge cases that static Figma mockups hide.",
-      "rationale": "A design agency's practical account of when to prototype in code with Claude-generated components instead of static Figma mockups. Teams can apply it on their next project."
-    },
-    {
-      "title": "Is this the most controversial font since Comic Sans?",
-      "url": "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "published_iso": "2026-11-03T15:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa-1672-80.jpg",
-      "excerpt": "Creative Bloq on the aggressive, slanted brush-script typeface that has become the giveaway of AI-generated posters in cafes and village halls, and why small businesses keep using it.",
-      "rationale": "Typography angle: one brush-script face has become the tell of AI-generated posters, which shows how AI defaults shape everyday visual culture."
+      "published_iso": "2026-11-03T10:24:29Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvxm9snr9s4bcx4f1f6iz.png",
+      "excerpt": "Ask Claude for a design and you often get something that looks like a template you've seen before....",
+      "rationale": "Controlled experiment: the same Claude design prompt run four ways, changing only how the references were handed over. It shows designers how to avoid template-looking output in their next prompt."
     }
   ],
   "dedup": {
     "checks": {
-      "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/": {
+      "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6": {
         "verdict": "new",
-        "nearest": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
         "new_action": ""
       },
-      "https://dev.to/piotrgodycki/from-a-figma-frame-to-an-aem-eds-block-in-one-command-2m6": {
+      "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
         "verdict": "new",
-        "nearest": "https://dev.to/saidmounaim/from-a-figma-url-to-a-custom-wordpress-theme-with-claude-code-4p9a",
+        "nearest": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
         "new_action": ""
       },
-      "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt": {
+      "https://www.voxelmatters.com/tripo-ai-launches-agentic-canvas-for-node-based-3d-workflows/": {
         "verdict": "new",
-        "nearest": "https://vercel.com/blog/vercel-ship-2026-recap",
+        "nearest": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
         "new_action": ""
       },
-      "https://www.eleken.co/blog-posts/code-based-prototyping": {
+      "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/": {
         "verdict": "new",
-        "nearest": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+        "nearest": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
         "new_action": ""
       },
-      "https://www.creativebloq.com/news/is-this-the-most-controversial-font-since-comic-sans": {
+      "https://dev.to/heynstudio/i-ran-the-same-claude-design-request-4-times-only-the-reference-hand-off-changed-4fnb": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
         "new_action": ""
       }
     },
-    "note": "Swap: removed UX Collective 'Everyone is building AI agents. Who's designing the stop button?' (the article was first published 2026-10-28T12:38Z, outside the 72h window; its RSS date was a re-publication date). Replaced it with Eleken 'Code-based prototyping' (2026-11-03T12:44Z, not on Medium). Its history_match (10-07 Claude Code to Figma test) is a different article and topic, so it counts as new. Other candidates were passed over for the swap: other UX Collective items (Medium re-publication date risk); Engadget AI clones (same story as 10-09 Creative Bloq); Itch.io, Seedance, NVIDIA Cosmos, Nemetschek Max and MOSS-Image (excluded: another section's story, or a repeat); nVibe (would put a second cad card from AEC Magazine); DEVELOP3D comment (opinion only); token-CSS, Figma MCP setup and Vercel/Zapier (lower-ranked or promotional). Earlier drops are unchanged: NVIDIA Cosmos guide (repeat of 10-25), Engadget clones (repeat of 10-09), Nemetschek Max (repeat of 11-02 Allplan Max), MOSS-Image test (review of the model covered 10-27). Cross-section: published_urls.json was not grepped (no shell access in this pass); Eleken is a design-agency blog and is unlikely to have run in another section."
+    "note": "Dropped as repeats or follow-ups: NVIDIA Cosmos world-model guide (same running story as the 10-25 Cosmos tools card, no new release); Adobe Firefly poster tutorial (evergreen tutorial, same series as the 10-23 Firefly poster video). Excluded for cross-section or topic reasons: Nothing screen-free AI device (gadgets owns it today); Pangram video/image detection (Pangram is a running story in books: NPR 11-03, Wired 09-04, Bookseller 10-08); Creative Bloq Spotify AI remixing (music-centred). Not selected: UX Collective x3 (Medium RSS re-publication dates; yesterday's run found 'Who's designing the stop button?' was really first published 10-28, outside the window); Vercel/Zapier (customer-story promotion); DEVELOP3D x2 (opinion only); Higgsfield Shorts and Mangaka (vendor blog posts with pricing, and render already has 2 picks); token-CSS and 'Done isn't a test result' dev.to posts (lower-ranked; would make a second DEV pick); Matt Wolfe Claude video editing (lower-ranked tutorial). Cross-section check: published_urls.json was read by hand for books (all), marketing (no higgsfield/openai hardware entries), gadgets (no openai.com entry and no Verge 1026474), and science (no openai.com entry). No pick URL appears in any section. Diversity: 5 outlets, 2 render, 2 cad, 1 figma. The second render and second cad cards get palette accents #eb367f and #3b6bff. Note: the OpenAI pick has og_image null, so ax-media must find an in-article image (openai.com gives no og:image)."
   }
 }

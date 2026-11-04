@@ -1,196 +1,151 @@
 {
-  "section": "music",
-  "now_iso": "2026-11-03T23:00:00Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Suno Says Jason Isbell Lawsuit Over Artist 'Identities' Must Be Dismissed: 'Nothing Unlawful About That'",
-      "url": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-11-03T22:25:48+00:00",
-      "excerpt": "Suno filed a motion to dismiss Jason Isbell's class action alleging the AI music platform stole the artistic identities of Isbell and other artists, arguing there is 'nothing unlawful' about letting users prompt for an artist's style.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
-    },
-    {
-      "title": "iZotope Photon is a local stem separation and denoising tool that runs off your GPU",
-      "url": "https://musictech.com/news/gear/izotope-photon/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-11-03T16:45:13+00:00",
-      "excerpt": "iZotope has launched Photon, an AI-powered stem separation and audio cleanup tool powered by 12 custom-trained models that processes audio locally on the GPU instead of uploading files to the cloud.",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500-1068x801.jpg"
-    },
-    {
-      "title": "iZotope launches Photon, the company's first plugin developed with new owner Boris FX",
-      "url": "https://www.musicradar.com/music-tech/choose-your-model-let-the-magic-happen-export-and-youre-done-izotope-launches-photon-the-companys-first-plugin-developed-with-new-owners-boris-fx",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-11-03T16:00:00Z",
-      "excerpt": "Photon is a standalone app and ARA plugin offering 12 machine-learning models for demixing music into stems, splitting drum kits and denoising dialogue; it is iZotope's first product built with new owner Boris FX.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/y4oLzzUeYqNeTfukjEQghm-2112-80.jpg"
-    },
-    {
-      "title": "Music industry intervenes in Open AI's big legal battle with newspapers and authors",
-      "url": "https://completemusicupdate.com/music-industry-intervenes-in-open-ais-big-legal-battle-with-newspapers-and-authors/",
-      "source": "CMU",
-      "category": "music",
-      "published_iso": "2026-11-03T17:31:31.000Z",
-      "excerpt": "RIAA, NMPA, A2IM, SONA and ARA filed an amicus brief in the authors' and newspapers' case against OpenAI, setting out why AI training should never be fair use - the same question that decides the labels' suits against Suno, Udio and Anthropic.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/Open-Ai-amicus-briefs.png"
-    },
-    {
-      "title": "10 of the 45 new 'idol' groups in South Korea this year are virtual",
-      "url": "https://musically.com/2026/11/03/10-of-the-45-new-idol-groups-in-south-korea-this-year-are-virtual/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-11-03T13:30:00+00:00",
-      "excerpt": "Music Ally picks up the Seoul Music Forum stat that one in four new K-pop acts in 2026 is virtual, as AI-driven virtual idols move from novelty into the mainstream debut pipeline.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-03T122203.534.png?fit=2000%2C1500&ssl=1"
-    },
-    {
-      "title": "A&R startup Acaply wants to help producers easily source vocals",
-      "url": "https://musically.com/2026/11/03/ar-startup-acaply-wants-to-help-producers-easily-source-vocals/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-11-03T13:30:00+00:00",
-      "excerpt": "With voice cloning letting singers' voices be copied without permission, startup Acaply pitches a platform for producers to source licensed vocals from real singers.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-03T122508.506.png?fit=2000%2C1500&ssl=1"
-    },
-    {
-      "title": "Disney has fought AI firms over copyright. Now it's testing AI lyric videos.",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
-      "source": "Los Angeles Times",
-      "category": "music",
-      "published_iso": "2026-11-03T22:32:04Z",
-      "excerpt": "Disney is working with AI startup OpenArt to conceptualize lyric videos, starting with 'Go the Distance' from Hercules - a test of generative video on its own music catalog.",
-      "og_image": "https://ca-times.brightspotcdn.com/dims4/default/84f0170/2147483647/strip/true/crop/3900x2048+0+440/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F4a%2F3118978e40188090d474a794f978%2Fla-photos-1staff-776331-et-ct-company-building-photos-667.jpg"
-    },
-    {
-      "title": "Is Spotify's Anti-Spam Crackdown Catching Legitimate Music in the Crossfire?",
-      "url": "https://www.digitalmusicnews.com/2026/11/03/spotify-anti-spam-crackdown-legitimate-music/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-11-03T17:46:09+00:00",
-      "excerpt": "11A founder Austin Staubus says Spotify's systems to curb AI-driven slop may be overcorrecting: follower growth fell across 50 monitored bot-free playlists, 22 of which reversed or lost followers.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/is-spotify-spam-crackdown-catching-legitimate-music.png"
-    },
-    {
-      "title": "Number 1 on iTunes: AI Christian Rock Song 'Tell Me, How is Heaven?' Made on Suno Platform",
-      "url": "https://www.showbiz411.com/2026/11/02/number-1-on-itunes-ai-christian-rock-song-by-fake-artist-called-tell-me-how-is-heaven-made-on-suno-platform-about-grieving-loss",
-      "source": "Showbiz411",
-      "category": "music",
-      "published_iso": "2026-11-02T15:37:17+00:00",
-      "excerpt": "The No. 1 song on the US iTunes chart is a faith-themed track about grief by a fake 'artist', made on Suno - AI-generated music reaching the top of a download chart.",
-      "og_image": "https://www.showbiz411.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-10-25-55-iTunes-Top-100-Songs-Chart-2026.png"
-    },
-    {
-      "title": "Slop Till You Drop: A Peek at the iTunes U.S. Top 10",
-      "url": "https://www.hitsdailydouble.com/news/streaming/itunes-top-10-ai-2026-11-02",
-      "source": "Hits Daily Double",
-      "category": "music",
-      "published_iso": "2026-11-02T00:00:00-05:00",
-      "excerpt": "The Nov. 1 iTunes U.S. Top 10 had four tracks seemingly made with AI aid, including the No. 1 'Tell Me, How Is Heaven' by May the Lord Studio; HITS listened through to map where AI ends and human music-making begins.",
-      "og_image": "https://res.cloudinary.com/hits-photos-archive/image/upload/v1785944440/1920px-Osaka_Tin_Toy_Institute___Tin_Age_Collection___Robby_the_Robot_with_Blaster___Front_dfzxpf.jpg"
-    },
-    {
-      "title": "1위 A2O는 AI로 소통·뒤쫓는 2위는 AI곡…K팝에 인공지능 물결",
-      "url": "https://www.yna.co.kr/view/AKR20261031048000005",
-      "source": "연합뉴스",
-      "category": "music",
-      "published_iso": "2026-11-01T08:00:00+09:00",
-      "excerpt": "올가을 음원 차트 1위 A2O 라이트는 AI 팬 소통 앱을 쓰고, 2위는 AI 가수 머무르의 곡이다. 제작부터 팬 소통까지 K팝 전반에 AI가 번지는 흐름을 짚었다.",
-      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/31/AKR20261031048000005_02_i_P4.jpg"
-    },
-    {
-      "title": "\"매끄러운 보컬\" 차트까지 점령한 AI 음악…창작 생태계는 위축 우려",
-      "url": "https://www.news1.kr/society/incident-accident/6340276",
-      "source": "뉴스1",
-      "category": "music",
-      "published_iso": "2026-11-03T07:00:00+09:00",
-      "excerpt": "AI를 활용한 노래가 국내 음원차트 2위에 올랐다. AI 음악 감상 의향은 33.7%로 늘었지만 저작권과 무단 학습 소송 문제가 남아 있다.",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/11/2/8192756/high.jpg"
-    },
-    {
-      "title": "리센느 제치고 AI 음원이 음원 차트 톱…美·EU 자체 기준 마련하는데 韓은 관망만",
-      "url": "https://www.ajunews.com/20261102144721596",
-      "source": "아주경제",
-      "category": "music",
-      "published_iso": "2026-11-02T18:06:27+09:00",
-      "excerpt": "생성형 AI 음악이 국내 차트 최상위권에 진입하면서 플랫폼의 AI 음악 관리 체계가 과제로 떠올랐다. 해외 플랫폼은 표기·추천 제한 기준을 마련하는데 국내는 관망 중이다.",
-      "og_image": "https://image.ajunews.com/content/image/2026/11/02/20261102145032229900.png"
-    },
-    {
-      "title": "기성곡 대신 'AI 음악'… 자영업자들의 새로운 선곡법",
-      "url": "https://www.kyeongin.com/article/1774023",
-      "source": "경인일보",
-      "category": "music",
-      "published_iso": "2026-11-03T19:52:11+09:00",
-      "excerpt": "카페와 헬스장 등에서 저작권료 부담을 줄이려고 AI로 만든 음악을 매장 배경음악으로 쓰는 사례가 늘고 있다.",
-      "og_image": "https://wimg.kyeongin.com/news/cms/2026/11/03/news-p.v1.20261103.397cb8cdcae640b0b21a04a2c1a72052_R.jpg"
-    },
-    {
-      "title": "음원 플랫폼, 'AI 음악' 솎아내는 기술 '문제'있다?",
-      "url": "https://www.apple-economy.com/news/articleView.html?idxno=80419",
-      "source": "애플경제",
-      "category": "music",
-      "published_iso": "2026-11-02T16:42:57+09:00",
-      "excerpt": "음원 플랫폼들이 AI 생성곡과 저품질·스팸 음원을 추천목록에서 배제하는 기술을 두고 정확도와 기준을 둘러싼 논란이 커지고 있다.",
-      "og_image": "https://cdn.apple-economy.com/news/thumbnail/202611/80419_64091_5724_v150.jpg"
-    },
-    {
-      "title": "Seoul Music Forum explores humanism in AI age, with one in four K-pop acts now virtual",
-      "url": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
-      "source": "Korea JoongAng Daily",
-      "category": "music",
-      "published_iso": "2026-11-02T08:17:28.000Z",
-      "excerpt": "The 2026 Seoul Music Forum examined AI's rise in music, citing that one in four new K-pop acts this year is virtual and debating what it means for labels and creators.",
-      "og_image": "https://image.koreajoongangdaily.com/12486605.jpg?imageId=12486605&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-      "title": "Tamber 2.0 Review: \"This suite is exactly the kind of thing we've been waiting to see\"",
-      "url": "https://musictech.com/reviews/software-instruments/tamber-2/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-11-02T12:44:51+00:00",
-      "excerpt": "MusicTech reviews Tamber 2.0, the AI-driven sound design suite, as the answer to what AI can do for indie developers. (Seen as a candidate on 11-02 but not published.)",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/10/Tamber-2.0-Gestures-interface-hero-credit-Clovis-McEvoy@2000x1500-1068x801.jpg"
-    },
-    {
-      "title": "[인터뷰] 마르세유 감성 담은 AI 곡으로 부산까지 사로잡다…\"AI 노래 잘 만드는 비결은?\"",
-      "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13152",
-      "source": "AI포스트",
-      "category": "music",
-      "published_iso": "2026-11-01T19:22:37+09:00",
-      "excerpt": "수노와 챗GPT 프롬프트로 정규 앨범을 만든 전자음악가 시릴 히메네스가 AI 곡 제작 과정과 쏟아지는 생성 음악 속 큐레이션의 역할을 설명한다.",
-      "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13152_23816_208.png"
-    },
-    {
-      "title": "PCDJ releases DEX 4.1 with AI beat mapping and smarter track selection",
-      "url": "https://www.prweb.com/releases/pcdj-releases-dex-4-1-with-ai-beat-mapping-and-smarter-track-selection-302927428.html",
-      "source": "PRWeb (PCDJ)",
-      "category": "music",
-      "published_iso": "2026-11-03T21:16:00Z",
-      "excerpt": "PCDJ's DEX 4.1 DJ, video-mixing and karaoke software for Windows and Mac adds AI-powered beat mapping and smarter track selection. Press release (off-list; AI DJ slot).",
-      "og_image": "https://mmx.prnewswire.com/media/MS2025826/DEX41-officially-launched-1024x683.jpg?id=OA3053650&p=facebook"
-    },
-    {
-      "title": "How Close to the Theme? Similarity-Label Conditioning for Game Music Generation",
-      "url": "https://arxiv.org/abs/2611.01047",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-31T15:40:27Z",
-      "excerpt": "Researchers fine-tune a pretrained MIDI model on Super Mario section pairs with similarity labels, so composers can control how close each generated section stays to an original theme - from near repetition to new material.",
-      "og_image": null
-    },
-    {
-      "title": "Text-to-music Generation via Structured Captions and Interpretable Evaluation",
-      "url": "https://arxiv.org/abs/2611.00685",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-31T06:24:49Z",
-      "excerpt": "Proposes training latent diffusion/flow text-to-music models on structured captions (SCAPs) rather than free-form text, with controlled ablations on coverage and temporal text information.",
-      "og_image": null
-    }
-  ]
+ "section": "music",
+ "now_iso": "2026-11-04T22:03:11Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "category": "music",
+   "title": "Start Songs with MIDI: Suno adds MIDI file uploads as a starting point in Create",
+   "url": "https://suno.com/blog/MIDI-in-create",
+   "source": "Suno",
+   "published_iso": "2026-11-04T16:45:00Z",
+   "excerpt": "Suno now lets users upload a MIDI file as the starting point for a generated song in Create, so producers can steer AI generation from their own melody, chords or arrangement.",
+   "og_image": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format"
+  },
+  {
+   "category": "music",
+   "title": "iZotope Photon is a local stem separation and denoising tool that runs off your GPU",
+   "url": "https://musictech.com/news/gear/izotope-photon/",
+   "source": "MusicTech",
+   "published_iso": "2026-11-03T16:45:13+00:00",
+   "excerpt": "iZotope has launched Photon, an AI-powered stem separation and audio cleanup tool powered by 12 custom-trained models that process audio locally on the computer's GPU rather than in the cloud.",
+   "og_image": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500-1068x801.jpg"
+  },
+  {
+   "category": "music",
+   "title": "iZotope launches Photon, the company's first plugin developed with new owners Boris FX",
+   "url": "https://www.musicradar.com/music-tech/choose-your-model-let-the-magic-happen-export-and-youre-done-izotope-launches-photon-the-companys-first-plugin-developed-with-new-owners-boris-fx",
+   "source": "MusicRadar",
+   "published_iso": "2026-11-03T16:00:00Z",
+   "excerpt": "Photon is a stem separation tool with 12 machine-learning models for demixing and denoising audio, available as a standalone app and ARA plugin - iZotope's first release under Boris FX.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/y4oLzzUeYqNeTfukjEQghm-2112-80.jpg"
+  },
+  {
+   "category": "music",
+   "title": "iZotope Photon: GPU-Powered Stem Separation",
+   "url": "https://www.gearnews.com/izotope-photon-studio/",
+   "source": "gearnews",
+   "published_iso": "2026-11-03T17:00:00+01:00",
+   "excerpt": "iZotope Photon is a new ARA plugin and desktop app for ML stem splitting (including drum-kit splits) that runs on the GPU and has built-in audio restoration features.",
+   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/11/izotope-photon-ft.jpg"
+  },
+  {
+   "category": "music",
+   "title": "Tamber 2.0 Review: 'This suite is exactly the kind of thing we've been waiting to see'",
+   "url": "https://musictech.com/reviews/software-instruments/tamber-2/",
+   "source": "MusicTech",
+   "published_iso": "2026-11-02T12:44:51+00:00",
+   "excerpt": "MusicTech reviews Tamber 2.0, an AI-driven suite of Ableton/Max devices from an indie developer - pitched as the answer to what AI can do for independent music-software makers.",
+   "og_image": "https://musictech.com/wp-content/uploads/2026/10/Tamber-2.0-Gestures-interface-hero-credit-Clovis-McEvoy@2000x1500-1068x801.jpg"
+  },
+  {
+   "category": "music",
+   "title": "More AI Detector False Positives Emerge In Rapid Succession: Do Indie Musicians Have a Serious Problem Here?",
+   "url": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
+   "source": "Digital Music News",
+   "published_iso": "2026-11-04T14:22:31+00:00",
+   "excerpt": "AI-music detectors are flagging electro-synth tracks as AI-generated - even original recordings made in the 1980s - raising the risk that indie artists get mislabelled or penalised by platforms.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry.png"
+  },
+  {
+   "category": "music",
+   "title": "Is Spotify's Anti-Spam Crackdown Catching Legitimate Music in the Crossfire?",
+   "url": "https://www.digitalmusicnews.com/2026/11/03/spotify-anti-spam-crackdown/",
+   "source": "Digital Music News",
+   "published_iso": "2026-11-03T17:46:09+00:00",
+   "excerpt": "Data from 11A shows follower declines across 50 bot-free user playlists, suggesting Spotify's effort to curb AI-driven slop may be overcorrecting and hurting discovery for real artists.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/is-spotify-spam-crackdown-catching-legitimate-music.png"
+  },
+  {
+   "category": "music",
+   "title": "MLC Formally Opposes Udio's Streaming-Data Subpoena, Citing Two to Three Weeks of Staff Time",
+   "url": "https://www.digitalmusicnews.com/2026/11/03/udio-mlc-subpoena-opposition/",
+   "source": "Digital Music News",
+   "published_iso": "2026-11-04T06:00:38+00:00",
+   "excerpt": "The Mechanical Licensing Collective is pushing back on AI music company Udio's subpoena for streaming data, saying compliance would take two to three weeks of staff time.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena.jpg"
+  },
+  {
+   "category": "music",
+   "title": "A&R startup Acaply wants to help producers easily source vocals",
+   "url": "https://musically.com/2026/11/03/ar-startup-acaply-wants-to-help-producers-easily-source-vocals/",
+   "source": "Music Ally",
+   "published_iso": "2026-11-03T13:30:00+00:00",
+   "excerpt": "With voice-cloning tech letting singers' voices be copied without permission, startup Acaply pitches a consent-based marketplace for producers to source real vocalists.",
+   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-03T122508.506.png?fit=2000%2C1500&ssl=1"
+  },
+  {
+   "category": "music",
+   "title": "GEMA on AI: 'The most important thing is we get an output remuneration'",
+   "url": "https://musically.com/2026/11/02/gema-on-ai-the-most-important-thing-is-we-get-an-output-remuneration/",
+   "source": "Music Ally",
+   "published_iso": "2026-11-02T13:30:00+00:00",
+   "excerpt": "After its initial win against Suno in Germany, GEMA general counsel Dr Kai Welp says the society's priority is remuneration on AI outputs, not just training licences.",
+   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-02T130137.014.png?fit=2000%2C1500&ssl=1"
+  },
+  {
+   "category": "music",
+   "title": "AI roundup: Lyria lawsuit, Anthropic's Q3, OpenAI pile-in",
+   "url": "https://musically.com/2026/11/03/ai-roundup-lyria-lawsuit-anthropics-q3-openai-pile-in/",
+   "source": "Music Ally",
+   "published_iso": "2026-11-03T12:30:00+00:00",
+   "excerpt": "Music Ally's AI roundup: the Alphabet shareholder suit over Lyria training, amicus briefs piling into the OpenAI fair-use cases, and other AI-music developments.",
+   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-2026-11-03T121325.719.png?fit=2000%2C1500&ssl=1"
+  },
+  {
+   "category": "music",
+   "title": "More YouTube creators can now use AI to replace copyrighted songs",
+   "url": "https://www.neowin.net/news/more-youtube-creators-can-now-use-ai-to-replace-copyrighted-songs/",
+   "source": "Neowin",
+   "published_iso": "2026-11-03T19:46:01+00:00",
+   "excerpt": "YouTube is expanding access to its AI-powered Replace Song feature, which generates royalty-free AI instrumentals to swap in for Content ID-claimed music. (Off-list: on-list outlets had no item; date from Neowin RSS, page Cloudflare-blocked.)",
+   "og_image": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
+  },
+  {
+   "category": "music",
+   "title": "[인터뷰] \"낮에는 건자재 지점장, 밤에는 AI 뮤지션\"…전자음악 아티스트 시릴 히메네스 ①",
+   "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13151",
+   "source": "AI포스트",
+   "published_iso": "2026-11-01T19:11:52+09:00",
+   "excerpt": "정통 음악 교육 없이 수노(Suno) AI로 프롬프트 제어와 집중 청취를 거쳐 정규 앨범을 완성한 프랑스 하우스 아티스트 시릴 히메네스의 제작 과정 인터뷰.",
+   "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13151_23813_953.png"
+  },
+  {
+   "category": "music",
+   "title": "Text-to-music Generation via Structured Captions AND Interpretable Evaluation",
+   "url": "https://arxiv.org/abs/2611.00685",
+   "source": "arXiv",
+   "published_iso": "2026-10-31T06:24:49Z",
+   "excerpt": "Proposes training latent diffusion/flow text-to-music models on structured captions, with an interpretable evaluation scheme for how well outputs follow each caption attribute.",
+   "og_image": null
+  },
+  {
+   "category": "music",
+   "title": "How Close to the Theme? Similarity-Label Conditioning for Game Music Generation",
+   "url": "https://arxiv.org/abs/2611.01047",
+   "source": "arXiv",
+   "published_iso": "2026-10-31T15:40:27Z",
+   "excerpt": "A music model further trained to control how similar each new section is to an original theme - from near repetition to new material - addressing game music's need for long, varied repetition.",
+   "og_image": null
+  },
+  {
+   "category": "music",
+   "title": "Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision",
+   "url": "https://arxiv.org/abs/2610.31510",
+   "source": "arXiv",
+   "published_iso": "2026-10-22T16:26:20Z",
+   "excerpt": "Piano2Pop conditions a pretrained flow-matching music model on piano rolls to expand a piano MIDI demo into a full instrumental pop production, without aligned training pairs.",
+   "og_image": null
+  }
+ ]
 }

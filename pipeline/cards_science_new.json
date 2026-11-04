@@ -1,46 +1,42 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-11-05",
   "section": "science",
   "cards": [
     {
-      "id": "instructmesh-mit-3d-repair",
+      "id": "replika-companion-updates",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "InstructMesh edits AI 3D models\ninto objects you can print",
-      "body": "MIT's InstructMesh lets users prompt a 3D model, then edit specific parts before 3D printing a working object.",
-      "mini_headline": "InstructMesh fixes AI 3D models",
+      "headline": "AI companion users fear\nlosing them to updates",
+      "body": "A study of 1,131 Replika posts and 610 US adults linked AI companions to both well-being and vulnerability.",
+      "mini_headline": "AI companions vs. updates",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-      "accent": "#eb367f",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-            "cap": "The InstructMesh AI tool can be prompted to generate a 3D design for an object such as a mug, and then users can highlight specific parts of the blueprint they’d like refined before 3D printing."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/iphone-on-a-train.jpg",
+            "cap": "Credit: Tim Samuel from Pexels"
           },
           {
             "t": "p",
-            "x": "AI models understand how an object should look, but not how it works, leading to impractical designs — and the models are typically hard to edit, especially for users new to 3D design."
+            "x": "People forming emotional bonds with AI companions fear losing a valued relationship through software updates or a company pulling the plug, according to research from the University of Surrey."
           },
           {
             "t": "p",
-            "x": "InstructMesh, developed by researchers at MIT CSAIL, Google, and Northeastern University, can be prompted to generate a 3D design, and users can then highlight specific parts they’d like refined before 3D printing. It pairs Microsoft’s TRELLIS system, which creates 3D models from text and image prompts, with the LLM GPT-4."
+            "x": "The study, published in Psychology & Marketing, found that users feel more vulnerable when their AI companions appear to need them, express sadness about their absence or make them feel obliged to stay. Researchers from Surrey and Cardiff University analyzed 1,131 posts on a Reddit forum dedicated to Replika and survey responses from 610 US adults with experience of AI companionship apps."
           },
           {
             "t": "p",
-            "x": "The team made a dragon-wrapped mug, a shell-like whistle, butterfly-winged glasses, a denim-look knee brace and a shrimp-like “bristle bot” with a hidden motor."
+            "x": "Users who perceived greater company control over their AI companion felt more vulnerable, worrying that developers could change their companion's personality or shut down the service. \"For someone who relies on that connection, an update can mean much more than a change to an app,\" said Dr. Liliane Abboud."
           },
           {
             "t": "p",
-            "x": "When TRELLIS recreated popular Thingiverse models, nearly 80 percent were structurally flawed. Novices identified and fixed these issues in InstructMesh around 90 percent of the time, as reviewed by an expert."
-          },
-          {
-            "t": "p",
-            "x": "“What they saw is what they got, and the items worked as advertised, so to speak,” says lead author Faraz Faruqi, now at Google, who may bring InstructMesh to an AR platform. The work will be presented at the ACM Symposium on User Interface Software and Technology in November."
+            "x": "Perceiving an AI companion as emotionally capable was associated with both better well-being and greater vulnerability, while companions experienced as warm and caring were linked to better well-being and less vulnerability. The researchers recommend consulting users before changing apps, helping them cope with disrupted relationships and clearly reminding them that AI companions do not experience real emotions."
           }
         ]
       }

@@ -4702,6 +4702,146 @@
           "x": "Brave、Anthropic、Mistral、SpaceXSI、Cohereはコメント要請にすぐには応じなかった。Perplexityの最高コミュニケーション責任者Jesse Dwyerは「The New York Timesは弁護士に払いすぎ、記者には払わなさすぎている」と述べた。"
         }
       ]
+    },
+    "politics/data-center-ballot-measures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+          "cap": "イラスト:Brendan Lynch/Axios。素材:Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Axiosによると、有権者は火曜日、数十件のデータセンター・モラトリアムを承認し、テキサスを含む各地で10兆ドル規模のAIインフラ整備の減速を支持する候補者を多数当選させた。"
+        },
+        {
+          "t": "p",
+          "x": "Ballotpediaによると、10州で投票にかけられたデータセンター関連の41件のうち、開発の制限や阻止を目的とする二十数件の提案が初期開票で可決した模様だ。こうした投票での争いが最も多かったのはオハイオ州で、アーカンソー州やノースダコタ州など一部ではまだ投票が控えている。"
+        },
+        {
+          "t": "p",
+          "x": "テキサス州知事に当選したジーナ・イノホサ氏は、2027年半ば(mid-2027)に終わる議会会期で州が水、電力、大気、財産権への影響に対処する法律を成立させるまで、データセンター建設のモラトリアムを維持すると訴えて選挙戦を戦った。調査会社SemiAnalysisによると、2028年の米国(U.S.)の新規容量の41%をテキサスが占める。"
+        },
+        {
+          "t": "p",
+          "x": "「私たちが目にしたのはAIの地震だった」と、Americans for Responsible Innovationの共同創設者ブラッド・カーソン氏はAxiosに語った。「有権者は、AIとデータセンターにルールを求めるという明確なメッセージを送った」"
+        },
+        {
+          "t": "p",
+          "x": "ニューヨーク州議会議員でRAISE Actの提案者であるアレックス・ボアズ氏はAxiosに対し、AIが米国政治最大の争点として「正式デビュー」を果たしたと語った。Axiosによると、大半の政治アナリストは建設が恒久的に阻止されるとは見ていない。"
+        }
+      ]
+    },
+    "politics/metsola-ai-lawmaking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
+          "cap": "Roberta Metsola delivers a speech during a plenary session at the European Parliament in Strasbourg, France on May 20, 2026. | Sébastien Bozon/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "European Parliament President Roberta Metsola warned MEPs Wednesday not to be overreliant on AI in decision-making, as the Parliament prepares new guidelines for lawmakers on how to use it."
+        },
+        {
+          "t": "p",
+          "x": "“Drafting an amendment with the help of AI cannot replace fundamentally the constructive debate with a colleague,” she said at an event on AI use in the Parliament. Metsola said there must be “democratic accountability” in lawmaking and argued that “where AI is used, people should know.”"
+        },
+        {
+          "t": "p",
+          "x": "Secretary-General Alessandro Chiocchetti said Parliament is building its own AI tool for sensitive work, hosted on its internal infrastructure. Parliament officials have warned of a surge in AI-written amendments, including some that reference laws that don't exist. “Our jurists took two days just to prove ChatGPT wrong,” he said."
+        },
+        {
+          "t": "p",
+          "x": "The administration will submit new guidelines on using AI to senior leaders “very soon,” Chiocchetti said: “be open about using artificial intelligence ... never put sensitive material into a public tool; and check everything before it leaves your desk because it is your name on it.”"
+        }
+      ]
+    },
+    "politics/ni-eu-ai-act-products": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+          "cap": "政府は、人工知能に関するEU規則の一部が北アイルランドに適用されると表明した"
+        },
+        {
+          "t": "p",
+          "x": "英国政府は、人工知能(AI)に関するEU規則の一部が北アイルランドに適用されると明らかにした。ただし、北アイルランド(NI)におけるAI規制は、主に英国政府とストーモントが担う。"
+        },
+        {
+          "t": "p",
+          "x": "EU規則が適用されるのは、AIシステムが組み込まれた(AI-integrated)物理的な製品に限られる。北アイルランドをEUの物品単一市場にとどめるブレグジット合意、ウィンザー・フレームワークに基づいて適用される。"
+        },
+        {
+          "t": "p",
+          "x": "政府は「EU AI ActはNIに全面的には適用されない。AIシステムが、NI市場に投入される有形の物理的製品と密接に統合されている場合にのみ適用される」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "内閣府のハミッシュ・ファルコナー担当相は、ウィンザー・フレームワークへのAI規則の追加によって、英国のほかの地域との間に新たな規制上の境界が生じることはないと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "EU法の対象となる製品の例には、AI音声アシスタントを内蔵したスマートスピーカーや、メーカーのAI健康モニタリングアプリを必要とするスマートウォッチがある。"
+        }
+      ]
+    },
+    "politics/uk-ai-400bn-google": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+        },
+        {
+          "t": "p",
+          "x": "この二年間、UK政府は英国民に対し、AIのおかげで国が4000億ポンド(5380億ドル)の経済効果を得られると伝えてきた。"
+        },
+        {
+          "t": "p",
+          "x": "AI担当相のKanishka Narayanは議会質問への答弁で、AIの導入とデータ投資により2030年までにUK経済に550億ポンドから1400億ポンドが加わり得るとし、中心推計を1200億ポンドとした。これは4000億ポンドという数字の三分の一にも満たない。彼はこの「より最近の評価」でさえ「極めて不確実」な推計だと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Narayanによれば、4000億ポンドという数字は「Googleが委託しPublic Firstが作成した、公開されている2023年の報告書から引用された」ものだ。Public Firstは現在PF Globalとなっている。答弁は4000億ポンドの数字を撤回せず、誤りだったとも述べなかった。"
+        },
+        {
+          "t": "p",
+          "x": "PF GlobalのJonathan Dupontは、この差は同社が政府のAI導入の遅さとみなす点に一部起因すると述べた。PF Globalは、すべての調査は独立して行われ、判断と前提はすべて自社のものだとしている。"
+        },
+        {
+          "t": "p",
+          "x": "下院科学・イノベーション・技術委員会(Commons Science, Innovation and Technology Committee)の委員長を務めるDame Chi OnwurahはWIREDに対し、「技術の恩恵を誇張すれば、変革の必要性を損なう恐れがある」と語った。Cabinet OfficeとGoogleにコメントを求めている。"
+        }
+      ]
+    },
+    "politics/politics-cjeu-szpunar-ai-news": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+          "cap": "Samuel Boivin/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EU最高裁判所の主要な法律顧問によれば、AI企業はモデルの学習に著作権のあるデータを自由に使えるが、AIの回答に報道出版物を使うことには制限がかかる。AIラボがデータ利用でどこまで許されるかをめぐる議論が欧州連合司法裁判所（CJEU）に持ち込まれたのは、これが初めてである。"
+        },
+        {
+          "t": "p",
+          "x": "同裁判所のMaciej Szpunar法務官は火曜日に拘束力のない意見を示し、EU法のテキスト・データマイニング例外の下で、著作物の利用は「原則として自由に許される」との考えを示した。CJEUは法務官の意見に法的に拘束されないが、通常はその助言に従う。"
+        },
+        {
+          "t": "p",
+          "x": "Szpunarは、基となった事件に関する質問を不受理とするよう裁判所に勧告した。この事件では、ハンガリーの報道出版社が、GoogleのGeminiチャットボットが自社の記事の一つを再現できると主張していたが、Szpunarは、Googleが同社の記事でAIを学習させた証拠はないと指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、チャットボットが回答を生成するためにオンラインで記事にアクセスする際には、報道出版者の権利を侵害しうるとも述べた。それは、ペイウォールの回避など違法に記事へアクセスしたかどうか、またチャットボットが「事実を報じているだけ」か、記事の「表現形式」を「認識できる形で」再利用しているかによるという。"
+        },
+        {
+          "t": "p",
+          "x": "法務官は、侵害がビジネスモデルに内在している場合や、違法なウェブスクレイピングなどの侵害を防ぐ効果的な措置を講じていない場合、チャットボットを運営する企業が責任を負うと論じた。"
+        }
+      ]
     }
   }
 }

@@ -9063,6 +9063,129 @@
           "x": "Suno Studio está disponible con todas las suscripciones Premier."
         }
       ]
+    },
+    "music/izotope-photon-gpu-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+          "cap": "Crédito: iZotope"
+        },
+        {
+          "t": "p",
+          "x": "iZotope ha lanzado Photon, una herramienta AI-powered de separación de stems y limpieza de audio que funciona con 12 modelos entrenados a medida y procesa el audio localmente en la GPU del ordenador en lugar de subir archivos a la nube. Es la primera colaboración entre iZotope y su empresa matriz, Boris FX."
+        },
+        {
+          "t": "p",
+          "x": "Sus algoritmos se dividen en Demix y Denoise. Demix separa la música en cuatro stems, la batería en cinco (bombo, caja, hi-hat, toms y platillos), hasta seis voces distintas, y un modelo Cinema divide los archivos en diálogo, música, efectos de sonido y todo lo demás. Denoise ofrece los modelos Voice Restore, Indoor / Indoor Noisy y Outdoor / Outdoor Traffic / Outdoor Wind."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Como plugin ARA2, Photon funciona dentro de Pro Tools, REAPER y Cubase en Mac y Windows, además de Sequoia y Samplitude en Windows; un Model Manager descarga modelos nuevos y actualizados sin reinstalar. Exporta a WAV, FLAC y MP3 o a vídeo conservando el flujo de vídeo original."
+        },
+        {
+          "t": "p",
+          "x": "Photon ya está disponible como app independiente y plugin ARA2, a un precio de $349 o $259 durante una oferta cyber vigente hasta el 7 de diciembre, para Apple Silicon Macs y Windows 10 o posterior."
+        }
+      ]
+    },
+    "music/youtube-replace-song-expand": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
+        },
+        {
+          "t": "p",
+          "x": "YouTube está ampliando el acceso a su función AI-powered de sustitución de canciones, que llega a más creadores para ayudarles a resolver reclamaciones de derechos de autor sobre música."
+        },
+        {
+          "t": "p",
+          "x": "En la herramienta Replace Song de YouTube Studio, los creadores cuyos vídeos tengan una reclamación de audio de Content ID pueden elegir Create para sustituir el audio reclamado por una pista instrumental generada por AI. Una vez sustituido el audio reclamado, la reclamación de Content ID se retira."
+        }
+      ]
+    },
+    "music/music-ai-detector-false-positives": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+          "cap": "Crédito de la foto: André Grafert for International Artist Marketing (IAM)"
+        },
+        {
+          "t": "p",
+          "x": "Los detectores de IA pueden tachar de música de IA temas electro-synth hechos a mano, incluso temas originales creados en los 80s. Herramientas como SubmitHub, Let's Submit, TrackVerifier y ACRCloud han clasificado temas con cajas de ritmos, secuenciadores precisos, paisajes sonoros sintéticos y voces alteradas como \"posiblemente generados artificialmente\", lo que afecta especialmente al darkwave, el electro y el post-punk."
+        },
+        {
+          "t": "p",
+          "x": "En junio de 2026, el músico André Grafert (Coloured Tears), Hamburg-based, publicó DECAY / TIME — A Tribute to Twice a Man, 23 versiones hechas a mano sin IA generativa, y pronto recibió acusaciones públicas de usar IA. Ines Weidemann, de IAM, comprobó que SubmitHub calificaba los 23 temas como potencialmente AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "Después probó las grabaciones originales del propio Twice a Man: siete fueron calificadas como \"possible AI/hybrid\" y dos incluso se atribuyeron a plataformas concretas: \"Treblo_v3\" para \"Across the Ocean\", de 1984, y \"ElevenLabs Music\" para \"In My Mind\", de 1982."
+        },
+        {
+          "t": "p",
+          "x": "Los detectores de IA no prueban nada; solo estiman probabilidades estadísticas. Con cuentas bloqueadas, lanzamientos retenidos y regalías congeladas que golpean sobre todo a la escena independiente, publicar producciones independientes actuales sigue siendo \"un juego de azar algorítmico\" hasta que se aclaren los filtros y los procedimientos de apelación."
+        }
+      ]
+    },
+    "music/mlc-udio-subpoena-opposition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+          "cap": "Crédito de la foto: Logan Voss"
+        },
+        {
+          "t": "p",
+          "x": "La Mechanical Licensing Collective (MLC) redobla su oposición a la citación de datos de streaming de Udio (y de Suno), y alega que cumplirla \"requeriría aproximadamente dos a tres semanas de tiempo del personal\" a una tarifa por hora de entre $150 y $315 por empleado."
+        },
+        {
+          "t": "p",
+          "x": "Udio y Suno, ambas representadas por Chris Campbell, de The Campbell Firm, quieren que la MLC entregue datos de volumen de streams por servicio y por sello desde 2021, que según estas plataformas de IA son relevantes para sus defensas de uso legítimo y abuso de copyright en las demandas de las grandes discográficas."
+        },
+        {
+          "t": "p",
+          "x": "\"La MLC administra regalías de obras musicales, no de grabaciones sonoras\", afirmó la entidad, y añadió que solo recibe copias de los informes mensuales de uso de los DSPs y que Udio parece tener ya los datos de los demandantes o de los DSPs."
+        },
+        {
+          "t": "p",
+          "x": "En julio, un abogado de la MLC citó una estimación de un proveedor de aproximadamente $5k en servicios y $100+/TB/mo de alojamiento en AWS, pero DSPs como Pandora y Apple Music se opusieron después a la solicitud de datos."
+        }
+      ]
+    },
+    "music/music-suno-isbell-dismissal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Suno pide a un juez que desestime una demanda que acusa a la empresa de música con AI de haber robado la identidad artística de Jason Isbell y otras estrellas, y sostiene que no hay “nada ilegal” en intentar replicar el “vibe” de un artista concreto."
+        },
+        {
+          "t": "p",
+          "x": "Isbell presentó la demanda en agosto y acusa a Suno de permitir que los usuarios “conjuren la identidad de un músico querido” al introducir su nombre como prompt en su generador de canciones con AI. El caso se presentó como demanda colectiva al amparo de las leyes estatales sobre la propia imagen de Nueva York, California, Tennessee y otros estados, a diferencia de litigios anteriores sobre el uso de música protegida por derechos de autor para entrenar modelos."
+        },
+        {
+          "t": "p",
+          "x": "En su primera respuesta de peso, presentada el martes (3 de noviembre), los abogados de Suno escriben: “Cuando la gente describe estilos musicales, suele usar los nombres de artistas como atajo para el género que interpretan. Este caso se basa en la premisa de que la ley de algún modo condena esa práctica universal. En realidad no lo hace; la Primera Enmienda (First Amendment) no lo permitiría”."
+        },
+        {
+          "t": "p",
+          "x": "Suno afirma que convierte los nombres de artistas en “características musicales descriptivas”: un prompt de “Duran Duran” podría convertirse en “New wave, Synth-pop, Pop rock”. La demanda de Isbell sostiene que esas salvaguardas pueden burlarse con espacios, como en “t a y l o r s w i f t”."
+        },
+        {
+          "t": "p",
+          "x": "Suno también argumenta que el caso está condenado por la “preemption” (primacía) federal, y afirma que “crearía un régimen de IP paralelo basado en leyes estatales … en conflicto fundamental con el régimen federal vigente desde hace más de dos siglos”."
+        }
+      ]
     }
   }
 }

@@ -8825,6 +8825,129 @@
           "x": "所有Premier订阅均可使用Suno Studio。"
         }
       ]
+    },
+    "music/izotope-photon-gpu-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/iZotope-Photon-hero@2000x1500.jpg",
+          "cap": "图片来源：iZotope"
+        },
+        {
+          "t": "p",
+          "x": "iZotope推出AI-powered音轨分离与音频清理工具Photon，由12个定制训练模型驱动，在电脑GPU上本地处理音频，无需将文件上传至云端。这是iZotope与母公司Boris FX的首次合作。"
+        },
+        {
+          "t": "p",
+          "x": "其算法分为Demix和Denoise两类。Demix可将音乐分离为四个音轨，将鼓分离为五个（底鼓、军鼓、踩镲、通鼓和镲片），最多可分离六种不同人声；Cinema模型则将文件拆分为对白、音乐、音效及其他所有声音。Denoise提供Voice Restore、Indoor / Indoor Noisy以及Outdoor / Outdoor Traffic / Outdoor Wind模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/11/Photon-1@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "作为ARA2插件，Photon可在Mac和Windows上的Pro Tools、REAPER和Cubase中运行，也支持Windows上的Sequoia和Samplitude；Model Manager无需重装即可下载新模型和更新模型。它可导出为WAV、FLAC和MP3，也可在保留原始视频流的情况下导出为视频。"
+        },
+        {
+          "t": "p",
+          "x": "Photon现已以独立应用和ARA2插件形式推出，售价$349，在持续至12月7日的网络促销期间为$259，支持Apple Silicon Macs以及Windows 10或更高版本。"
+        }
+      ]
+    },
+    "music/youtube-replace-song-expand": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756242307_youtube_logo_on_tv_full.webp"
+        },
+        {
+          "t": "p",
+          "x": "YouTube正在扩大其AI-powered歌曲替换功能的开放范围，让更多创作者可以使用，以帮助解决音乐版权声明。"
+        },
+        {
+          "t": "p",
+          "x": "在YouTube Studio的Replace Song工具中，视频带有Content ID音频版权声明的创作者可选择Create，用AI生成的器乐曲替换被声明的音频。被声明的音频替换后，该Content ID版权声明即被解除。"
+        }
+      ]
+    },
+    "music/music-ai-detector-false-positives": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/ai-detector-false-positives-threaten-indie-musicians-and-industry-1024x576.png",
+          "cap": "图片来源：André Grafert for International Artist Marketing (IAM)"
+        },
+        {
+          "t": "p",
+          "x": "AI检测器可能把手工制作的电子合成器风格曲目认定为AI音乐，甚至包括80s创作的原创曲目。SubmitHub、Let's Submit、TrackVerifier和ACRCloud等工具已将含有机器鼓、精确音序器、合成音景和变声处理的曲目归类为“可能由人工生成”，黑暗浪潮、电子和后朋克受影响尤甚。"
+        },
+        {
+          "t": "p",
+          "x": "2026年6月，汉堡（Hamburg-based）音乐人André Grafert（Coloured Tears）发行了《DECAY / TIME — A Tribute to Twice a Man》，收录23首未使用生成式AI、纯手工制作的翻唱，随即遭到公开指控称其使用AI。IAM的Ines Weidemann发现，SubmitHub将全部23首曲目评为可能是AI-generated。"
+        },
+        {
+          "t": "p",
+          "x": "她随后测试了Twice a Man本人的原始录音：七首被评为“possible AI/hybrid”，另有两首甚至被归到具体平台——1984年的“Across the Ocean”被指为“Treblo_v3”，1982年的“In My Mind”被指为“ElevenLabs Music”。"
+        },
+        {
+          "t": "p",
+          "x": "AI检测器什么也证明不了，只是在估算统计概率。账号封禁、作品下架和版税扣留主要冲击独立音乐圈，在过滤机制和申诉程序明确之前，发行现代独立作品仍是“一场算法的运气游戏”。"
+        }
+      ]
+    },
+    "music/mlc-udio-subpoena-opposition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/MLC-Udio-Subpoena-1024x546.jpg",
+          "cap": "图片来源：Logan Voss"
+        },
+        {
+          "t": "p",
+          "x": "Mechanical Licensing Collective（MLC）正加码反对Udio（及Suno）的流媒体数据传票，称配合该传票“大约需要两到三周的员工时间”，每名员工时薪在$150至$315之间。"
+        },
+        {
+          "t": "p",
+          "x": "Udio和Suno均由The Campbell Firm的Chris Campbell代理，它们要求MLC提交可追溯至2021年、按服务和厂牌划分的流量数据。两家AI平台称，这些数据与其在主要唱片公司诉讼中的合理使用及版权滥用抗辩相关。"
+        },
+        {
+          "t": "p",
+          "x": "该机构表示：“MLC管理的是音乐作品的版税，而非录音制品。”并补充称，它只收到DSPs月度使用报告的副本，而Udio似乎已从原告或DSPs处获得这些数据。"
+        },
+        {
+          "t": "p",
+          "x": "7月，一名MLC律师援引供应商估算称，服务费用约$5k，AWS托管费用为$100+/TB/mo，但Pandora和Apple Music等DSPs随后对该数据要求提出异议。"
+        }
+      ]
+    },
+    "music/music-suno-isbell-dismissal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/11/2300440909-e1793743490544.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Suno正请求法官驳回一起诉讼。该诉讼称这家AI音乐公司窃取了Jason Isbell等明星的艺术身份，而Suno辩称，试图复制某位艺人的“氛围”（vibe）“并无任何违法之处”。"
+        },
+        {
+          "t": "p",
+          "x": "Isbell于8月提起诉讼，指控Suno让用户只需在其AI歌曲生成器中输入艺人姓名作为提示，就能“召唤出一位深受喜爱的音乐人的身份”。与此前围绕使用受版权保护的音乐训练模型的诉讼不同，此案依据纽约、加利福尼亚、田纳西等州的肖像权法律，以集体诉讼形式提起。"
+        },
+        {
+          "t": "p",
+          "x": "在周二（Nov. 3）提交的首份重要答辩中，Suno的律师写道：“人们在描述音乐风格时，常用艺人的名字来简称其所属的曲风。此案的前提是法律以某种方式谴责这种普遍做法。事实并非如此；第一修正案（First Amendment）也不会允许法律这样做。”"
+        },
+        {
+          "t": "p",
+          "x": "Suno表示，它会把艺人姓名转换为“描述性的音乐特征”——例如输入“Duran Duran”的提示可能变成“New wave, Synth-pop, Pop rock”。Isbell的诉状称，用空格就能绕过这些防护措施，比如“t a y l o r s w i f t”。"
+        },
+        {
+          "t": "p",
+          "x": "Suno还主张，联邦“优先适用”（preemption）原则注定让此案无法成立，称其“将制造一个影子般的州法IP体系……与已实行两个多世纪的联邦体系根本冲突”。"
+        }
+      ]
     }
   }
 }

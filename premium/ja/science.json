@@ -10250,6 +10250,140 @@
           "x": "研究チームはこの知見を基に塗布工程を改良し、電力変換効率24.4%の鉛系ペロブスカイト太陽電池を作製した。Ryosuke KadoとAkinori Saekiが主導した本研究は、ACS Nano(DOI: 10.1021/acsnano.6c11386)に掲載された。"
         }
       ]
+    },
+    "science/ibm-quics-magic-state-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+          "cap": "エージェントのループ。"
+        },
+        {
+          "t": "p",
+          "x": "IBM Quantum、Joint Center for Quantum Information and Computer Science（QuICS / NIST / UMD）、MITの研究者らは、大規模言語モデル（LLM）エージェントと決定論的ソルバーを組み合わせ、未踏の魔法状態蒸留プロトコルを探索するニューロシンボリック探索フレームワークを開発した。プレプリント「Symmetry and AI-assisted discovery of magic-state factories」によると、チームは699の工場クラスを見いだし、そのうち564はこれまで知られていなかったプロトコルで、過去最小の物理リソースでnon-Clifford状態を生成する。"
+        },
+        {
+          "t": "p",
+          "x": "蒸留工場はこれまで、マシンの物理量子ビットと実行時間の最大90%を消費すると見積もられてきた。マルチエージェントのループでは、言語モデルのエージェントが対象とする部分群の対称性軌道を提案し、整数計画ソルバーが候補となる回路行列を構成し、独立した検証エンジンがゲート恒等式と符号距離を検証する。レビュー担当のエージェントはソルバーのログを評価し、次のラウンドの方向を修正する。"
+        },
+        {
+          "t": "p",
+          "x": "主な成果には、γ < 1の準線形オーバーヘッドの壁を破る既知で最小のpure-T蒸留工場である[[1715, 287, 6]]工場や、CCZ⊗2のようなもつれ状態を出力する工場が含まれる。検証済みの回路はオープンアクセスのリポジトリで公開されている。"
+        }
+      ]
+    },
+    "science/ai2-google-neuralgcm-plus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ai2はGoogle.orgから三年間で数百万ドル規模の資金提供を、Google Researchから技術支援を受け、新たな気候モデリングの取り組みを始める。気候予測をより速く、より信頼できるものにするよう設計されたオープンソースモデル、NeuralGCM+の開発が目的だ。"
+        },
+        {
+          "t": "p",
+          "x": "このプロジェクトはGoogle ResearchのNeuralGCMを土台とする。NeuralGCMは物理方程式で大規模な力学をシミュレートし、雲の形成や降雨といった小規模な過程をAIで表現する。Ai2はこれを拡張して大気と海洋を一体的にシミュレートし、数年から数十年にわたる気候の傾向に焦点を当てる。公開ベンチマークでは、大気のみのバージョンのNeuralGCMが、単一のTPUで地球全体の一年分の大気状態を八分でシミュレートした。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "NeuralGCM+は三つの方向で開発される。大気と海洋の結合、温暖化する世界への応答の改善、そしてツールを使いやすく拡張しやすくすることで、モデルとフレームワークは外部の研究者向けに公開される。"
+        }
+      ]
+    },
+    "science/quanta-llm-introspection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "研究者らは大規模言語モデルに「思考」を直接注入することで、AIの内省能力を明らかにしようとしている。2025年、Anthropicの研究者Jack Lindseyは、デニム、秘密、野菜といった概念をClaudeのコピーに注入し、「注入された思考を検出できますか？　もしできるなら、その思考は何についてのものですか？」と尋ねた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+          "cap": "Anthropicの研究者Jack Lindseyは、一種のデジタル脳神経外科手術を施すことで、大規模言語モデルが「内省」できるかどうかを検証しようとした。"
+        },
+        {
+          "t": "p",
+          "x": "最新かつ最も強力なバージョンでは、試行の20%でモデルが注入を正しく指摘し、その概念を説明した。一方、対照群のモデルが注入を受けたと報告することは一度もなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+          "cap": "Kyle Mahowaldは、言語モデルが「注入された思考」を検出する能力は見かけより限定的であることを示すのに貢献した。それでもなお驚くべき能力ではある。"
+        },
+        {
+          "t": "p",
+          "x": "Kyle MahowaldとHarvey Ledermanは大規模なオープンソースモデルで実験を再現し、モデルは内部処理で何か異常が起きたことは検出できるが、その具体的な内容まではわからないと結論づけ、この能力を「異常検知」と呼んだ。「異常に気づけること自体がとんでもない」とLedermanは言う。これを内省と呼ぶべきかどうかは、なお激しく議論されている。"
+        }
+      ]
+    },
+    "science/ntnu-paper-mill-software": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+          "cap": "Credit: Kindel Media from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "自身の論文の被引用数が急増していることに気づいたNTNUの統計学者Andrea Rieblerは、公衆衛生データから論文を高速で量産できるツールを販売する中国の業者を突き止めた。この新しいソフトウェアを使えば、誰でも二時間足らずで、そのまま投稿できる研究論文を作れる。"
+        },
+        {
+          "t": "p",
+          "x": "彼女が2017年に発表したがん予測の論文の被引用数は、2024年の70件から翌年には250件超へと急増した。新たな論文のほぼすべてが中国の研究者によるもので、大半はGlobal Burden of Disease（GBD）のデータに基づいていた。チームが調べた700本超のGBD論文のうち一本に、市販のソフトウェアパッケージへの言及があった。広州（Guangzhou）地域の企業が、ソフトウェア、AI-poweredの執筆支援、手順書を販売している。"
+        },
+        {
+          "t": "p",
+          "x": "「これは『研究』を大量生産する新たな道を開くものだ」とRieblerは言う。過重な負担を抱える編集者たちは、大量生産された研究やAI-generatedの研究が査読システムを圧倒しかねないと考えている。調べた論文の99%では、ソースコードが提供されていなかった。"
+        }
+      ]
+    },
+    "science/deepmind-antigravity-cheminformatics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "新薬の設計には、チャートや図表、文献から複雑なデータを整理し、予測モデルを訓練し、合成すべき候補分子を提案する作業が必要で、一回の反復に通常は数日かかる。DeepMindの新しいCheminformatics Skillsを備えたGoogle Antigravityでは、エージェントが数千の化合物を検索し、マッチド分子ペア解析を行い、合成経路付きの新しい剛直化マクロサイクルをわずか一時間で提案する。"
+        },
+        {
+          "t": "video",
+          "yt": "afQqqcmLUWw"
+        },
+        {
+          "t": "p",
+          "x": "言語モデルがワークフローの統括、データベースの探索、科学的推論を担い、分子計算はRDKitを基盤としChEMBLとPubChemへのコネクタを備えた決定論的な化学ツールが実行する。解説では、剛直化の例となる肺がん治療薬クリゾチニブ（crizotinib）とロルラチニブ（lorlatinib）を用いている。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+          "cap": "インタラクティブビューアでは、文献から取得した全化合物を科学者が閲覧できる。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントは数分で数千の化合物を取得し、無関係な分子を除外して出典を記録する。マッチド分子ペア解析では、環化によって回転可能な結合が減り、多くの場合活性が高まることが示された。エージェントはホールドアウトセットで活性予測モデルのベンチマークも行った。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+          "cap": "エージェントは電子の動きを示す矢印図とともに環化反応を提案する。"
+        },
+        {
+          "t": "p",
+          "x": "改良したマクロサイクルの設計を求めると、エージェントは反応と合成経路を推奨した。計算による設計は検証可能な仮説であって完成した薬ではなく、提案された設計はすべて合成し、実験で検証する必要がある。DeepMindは科学者10,000人にAntigravityの最上位利用プランを6か月間無料で提供する。"
+        }
+      ]
     }
   }
 }

@@ -1,33 +1,11 @@
 {
- "date": "2026-11-04",
- "section": "design",
- "media": [
-  {
-   "id": "autom8labs-aec-mcp-skills",
-   "type": "image",
-   "src": "pipeline/media/autom8labs-aec-mcp-skills.jpg"
-  },
-  {
-   "id": "figma-aem-eds-block-kit",
-   "type": "image",
-   "src": "pipeline/media/figma-aem-eds-block-kit.png"
-  },
-  {
-   "id": "vercel-mcp-deploy-card",
-   "type": "video",
-   "src": "pipeline/media/vercel-mcp-deploy-card.mp4",
-   "poster": "pipeline/media/vercel-mcp-deploy-card.jpg"
-  },
-  {
-   "id": "eleken-code-prototyping",
-   "type": "video",
-   "src": "pipeline/media/eleken-code-prototyping.mp4",
-   "poster": "pipeline/media/eleken-code-prototyping.jpg"
-  },
-  {
-   "id": "creativebloq-ai-poster-font",
-   "type": "image",
-   "src": "pipeline/media/creativebloq-ai-poster-font.jpg"
-  }
- ]
+  "date": "2026-11-05",
+  "section": "design",
+  "media": [
+    {"id": "chatgpt-animated-gifs-images", "type": "image", "src": "pipeline/media/chatgpt-animated-gifs-images.png"},
+    {"id": "openai-astra-hardware-device", "type": "video", "src": "pipeline/media/openai-astra-hardware-device.mp4", "poster": "pipeline/media/openai-astra-hardware-device.jpg"},
+    {"id": "tripo-agentic-canvas-3d", "type": "image", "src": "pipeline/media/tripo-agentic-canvas-3d.jpg"},
+    {"id": "ncircle-nvibe-aec-apps", "type": "image", "src": "pipeline/media/ncircle-nvibe-aec-apps.jpg"},
+    {"id": "claude-design-reference-handoff", "type": "image", "src": "pipeline/media/claude-design-reference-handoff.png"}
+  ]
 }

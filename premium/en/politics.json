@@ -4702,6 +4702,146 @@
           "x": "Brave, Anthropic, Mistral, SpaceXSI, and Cohere didn’t immediately reply to a request for comment. Perplexity’s chief communications officer Jesse Dwyer said: “The New York Times is overpaying its attorneys and underpaying its journalists.”"
         }
       ]
+    },
+    "politics/data-center-ballot-measures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+          "cap": "Illustration: Brendan Lynch/Axios. Stock: Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Voters on Tuesday approved dozens of data center moratoriums and elected a number of candidates who favor slowing a $10 trillion AI buildout, including in Texas, according to Axios."
+        },
+        {
+          "t": "p",
+          "x": "Out of 41 data center measures on the ballot across 10 states, about two dozen proposals designed to restrict or block development appeared to have passed based on initial returns, according to Ballotpedia. Ohio hosted the largest share of those ballot fights, and some votes are still forthcoming, including in Arkansas and North Dakota."
+        },
+        {
+          "t": "p",
+          "x": "Texas governor-elect Gina Hinojosa campaigned on keeping a moratorium on data center construction in place until the state passes legislation tackling impacts on water, electricity, air and property rights in the legislative session that ends in mid-2027. Texas accounts for 41% of new U.S. capacity in 2028, according to the research firm SemiAnalysis."
+        },
+        {
+          "t": "p",
+          "x": "\"What we just witnessed was an AI earthquake,\" Brad Carson, co-founder of Americans for Responsible Innovation, told Axios. \"Voters just sent a clear message that they want rules for AI and data centers.\""
+        },
+        {
+          "t": "p",
+          "x": "AI had its \"official debut\" as the biggest issue in American politics, New York Assemblymember and RAISE Act author Alex Bores told Axios. Most political analysts don't see a permanent block on construction, Axios reported."
+        }
+      ]
+    },
+    "politics/metsola-ai-lawmaking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
+          "cap": "Roberta Metsola delivers a speech during a plenary session at the European Parliament in Strasbourg, France on May 20, 2026. | Sébastien Bozon/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "European Parliament President Roberta Metsola warned MEPs Wednesday not to be overreliant on AI in decision-making, as the Parliament prepares new guidelines for lawmakers on how to use it."
+        },
+        {
+          "t": "p",
+          "x": "“Drafting an amendment with the help of AI cannot replace fundamentally the constructive debate with a colleague,” she said at an event on AI use in the Parliament. Metsola said there must be “democratic accountability” in lawmaking and argued that “where AI is used, people should know.”"
+        },
+        {
+          "t": "p",
+          "x": "Secretary-General Alessandro Chiocchetti said Parliament is building its own AI tool for sensitive work, hosted on its internal infrastructure. Parliament officials have warned of a surge in AI-written amendments, including some that reference laws that don't exist. “Our jurists took two days just to prove ChatGPT wrong,” he said."
+        },
+        {
+          "t": "p",
+          "x": "The administration will submit new guidelines on using AI to senior leaders “very soon,” Chiocchetti said: “be open about using artificial intelligence ... never put sensitive material into a public tool; and check everything before it leaves your desk because it is your name on it.”"
+        }
+      ]
+    },
+    "politics/ni-eu-ai-act-products": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+          "cap": "The government has said some EU rules on Artificial Intelligence will apply to Northern Ireland"
+        },
+        {
+          "t": "p",
+          "x": "Some EU rules on Artificial Intelligence (AI) will apply in Northern Ireland, the UK government has said. However the regulation of AI in NI will largely be a matter for the UK government and Stormont."
+        },
+        {
+          "t": "p",
+          "x": "EU rules will only apply to physical goods which have an embedded AI system. They will apply due to the Windsor Framework, the Brexit deal which keeps NI inside the EU's single market for goods."
+        },
+        {
+          "t": "p",
+          "x": "The government said: \"The EU AI Act does not apply to NI in full. It applies only where an AI system is closely integrated with a tangible physical product that is placed on the NI market.\""
+        },
+        {
+          "t": "p",
+          "x": "The Cabinet Office minister Hamish Falconer said the addition of the AI rules to the Windsor Framework would not create a new regulatory border with the rest of the UK."
+        },
+        {
+          "t": "p",
+          "x": "Examples of products which will be covered by the EU laws include a smart speaker with a built-in AI voice assistant or a smart watch requiring a manufacturer's AI health monitoring app."
+        }
+      ]
+    },
+    "politics/uk-ai-400bn-google": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+        },
+        {
+          "t": "p",
+          "x": "For the last two years, the UK government has been telling the British public that the country could receive an economic boost of £400 billion ($538 billion), thanks to AI."
+        },
+        {
+          "t": "p",
+          "x": "AI minister Kanishka Narayan, answering a parliamentary question, said that AI adoption and data investment could add £55 billion to £140 billion to the UK economy by 2030, bringing the central estimate to £120 billion — less than a third of the £400 billion figure. He called even this “more recent assessment” a “hugely uncertain” estimate."
+        },
+        {
+          "t": "p",
+          "x": "Narayan said the £400 billion figure “was drawn from a publicly available 2023 report commissioned by Google and produced by Public First,” now PF Global. The answer did not withdraw the £400 billion figure or say it had been wrong."
+        },
+        {
+          "t": "p",
+          "x": "PF Global’s Jonathan Dupont said the disparity was partially because of what they saw as the government’s slow adoption of AI. PF Global said all research was independent and all judgments and assumptions were their own."
+        },
+        {
+          "t": "p",
+          "x": "Dame Chi Onwurah, who chairs the Commons Science, Innovation and Technology Committee, told WIRED that “overstating the benefits of technology risks undermining the case for change.” The Cabinet Office and Google were approached for comment."
+        }
+      ]
+    },
+    "politics/politics-cjeu-szpunar-ai-news": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+          "cap": "Samuel Boivin/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "AI companies may freely use copyrighted data for training models, per a key legal advisor to the EU’s top court, but restrictions apply to using press publications in AI answers. It’s the first time a discussion about how far AI labs are allowed to go in their data use has made it to the Court of Justice of the European Union (CJEU)."
+        },
+        {
+          "t": "p",
+          "x": "Issuing a non-binding opinion on Tuesday, the court’s advocate general Maciej Szpunar suggested that the use of copyrighted works “is, as a rule, freely permitted” under a text-and-data-mining exception in EU law. While the CJEU is not legally bound by advocate general opinions, the court usually follows the advice."
+        },
+        {
+          "t": "p",
+          "x": "Szpunar advised the court to declare inadmissible questions pertaining to the underlying case, in which a Hungarian press publisher had claimed that Google’s Gemini chatbot could reproduce one of its articles, arguing there was no evidence that Google had used the publisher’s articles to train its AI."
+        },
+        {
+          "t": "p",
+          "x": "But he said chatbots might still infringe the press publisher’s right when accessing articles online to generate an answer — depending on whether the article was accessed unlawfully, for example by circumventing paywalls, and whether the chatbot “merely reports facts” or reuses the article’s “form of expression” in a “recognisable manner”."
+        },
+        {
+          "t": "p",
+          "x": "The company running a chatbot is liable if violations are inherent to its business model or it has failed to take effective measures to prevent infringements such as unlawful web scraping, the advocate general argued."
+        }
+      ]
     }
   }
 }

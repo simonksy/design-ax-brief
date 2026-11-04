@@ -1,27 +1,29 @@
 {
-  "autom8labs-aec-mcp-skills": {
-    "lead_image": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg",
+  "chatgpt-animated-gifs-images": {
+    "lead_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "video": "",
+    "yt": "",
+    "inline_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GIF.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+  },
+  "openai-astra-hardware-device": {
+    "lead_image": "https://images.ctfassets.net/kftzwdyauwt9/3NAeFNOstkEE0aSxayt8NT/cedb470d8c0bcd7e6a2ca828c1db136c/accelerating-engineering-physical-world-social.png?w=1600&h=900&fit=fill",
+    "video": "https://player.vimeo.com/video/1239926138?h=d672ede7a8",
+    "yt": "",
+    "inline_image": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png"
+  },
+  "tripo-agentic-canvas-3d": {
+    "lead_image": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg",
     "video": "",
     "yt": ""
   },
-  "figma-aem-eds-block-kit": {
-    "lead_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fpiotrgodycki%2Faem-eds-kit%2Fmain%2F.github%2Fassets%2Freadme-banner.png",
+  "ncircle-nvibe-aec-apps": {
+    "lead_image": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg",
     "video": "",
     "yt": ""
   },
-  "vercel-mcp-deploy-card": {
-    "lead_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5G51ONTdXnLfJUJip02oSF/fe5511339b9ccde3b87ab8ebd5897408/CleanShot_2026-10-09_at_4.53.30_PM_2x.png",
-    "video": "https://assets.vercel.com/video/upload/contentful/video/e5382hct74si/6VZS46WzWv1iAY6XapcvyM/4ff82afec733543314407b117629197b/deployment-card-light.mp4",
-    "yt": ""
-  },
-  "creativebloq-ai-poster-font": {
-    "lead_image": "https://cdn.mos.cms.futurecdn.net/cSUWctSzDjTskbB4gNwfMa.jpg",
+  "claude-design-reference-handoff": {
+    "lead_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvxm9snr9s4bcx4f1f6iz.png",
     "video": "",
     "yt": ""
-  },
-  "eleken-code-prototyping": {
-    "lead_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ae9d070a7b6d8d71f903a91_cover.webp",
-    "video": "https://www.youtube.com/watch?v=lGDHajtmcIE",
-    "yt": "lGDHajtmcIE"
   }
 }

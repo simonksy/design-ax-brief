@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-04",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "supermetrics-claude-campaigns",
-      "type": "image",
-      "src": "pipeline/media/supermetrics-claude-campaigns.jpg"
-    },
-    {
-      "id": "digiday-google-ai-search-revenue",
-      "type": "image",
-      "src": "pipeline/media/digiday-google-ai-search-revenue.jpg"
-    },
-    {
-      "id": "sej-shopify-claude-shopping-test",
-      "type": "image",
-      "src": "pipeline/media/sej-shopify-claude-shopping-test.png"
-    },
-    {
-      "id": "ppcland-google-ai-query-length",
-      "type": "image",
-      "src": "pipeline/media/ppcland-google-ai-query-length.jpg"
-    },
-    {
-      "id": "retaildive-ai-recs-returns",
-      "type": "image",
-      "src": "pipeline/media/retaildive-ai-recs-returns.jpg"
-    }
-  ]
-}
+{"date":"2026-11-05","section":"marketing","media":[
+{"id":"roku-outcomes-ctv-beta","type":"image","src":"pipeline/media/roku-outcomes-ctv-beta.jpg"},
+{"id":"tradedesk-dstillery-agents","type":"image","src":"pipeline/media/tradedesk-dstillery-agents.jpg"},
+{"id":"google-aimode-four-ads","type":"image","src":"pipeline/media/google-aimode-four-ads.jpg"},
+{"id":"tiktokshop-listing-fix-ai","type":"image","src":"pipeline/media/tiktokshop-listing-fix-ai.jpg"},
+{"id":"google-aimode-home-services","type":"image","src":"pipeline/media/google-aimode-home-services.jpg"}
+]}

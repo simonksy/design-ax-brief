@@ -3429,6 +3429,133 @@
           "x": "广告上线后，ChatGPT的自然推荐流量估计下降了6%–8%。论文数据截至8月22日；此后OpenAI已将ChatGPT Ads扩展到89个国家，并称已有超过100,000家广告主投放过广告活动。"
         }
       ]
+    },
+    "marketing/tradedesk-dstillery-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+        },
+        {
+          "t": "p",
+          "x": "The Trade Desk正将其对话式智能体平台Ask Koa与广告技术公司Dstillery的智能体平台DS-1对接，帮助广告买家在几分钟而非几天内创建自定义受众。"
+        },
+        {
+          "t": "p",
+          "x": "此次集成让两家公司的AI代理能在进行中的广告活动里相互沟通，利用效果洞察和广告主的定向目标，识别并构建可通过The Trade Desk激活的新受众。"
+        },
+        {
+          "t": "p",
+          "x": "Dstillery首席产品官Taejin “TJ” In表示，广告主此前已可通过The Trade Desk购买Dstillery的自定义受众，但构建这些受众需要人工协调，通常需要四天。"
+        },
+        {
+          "t": "p",
+          "x": "广告买家承认这可能节省时间，但质疑这能否带来广告支出的增长。（ADWEEK报道的其余内容仅限订阅用户阅读。）"
+        }
+      ]
+    },
+    "marketing/google-aimode-four-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google现在可以在单个查询的AI Mode回答中展示最多四条Google Ads。其实我也不确定这是否算新鲜事，因为Google Ads自2016年起就已正式在搜索结果中展示四条广告，但我们确实知道，Google在财报电话会上表示将在AI Mode中更频繁地展示更多广告。"
+        },
+        {
+          "t": "p",
+          "x": "Sachin Patel在Search Engine Watch上发布了一张截图，显示Google中一个AI Mode查询出现了四条广告，截图如下："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
+          "cap": "出现四条广告的Google AI Mode"
+        },
+        {
+          "t": "p",
+          "x": "通常你会看到一两条广告，有时三条。但我猜，由于Google在搜索中变现这些点击的能力不及在AI Mode中，Google现在会展示最多四条广告……当然，我们在US还会看到多轮广告，也就是后续查询中的广告。所以还会有更多广告……"
+        },
+        {
+          "t": "p",
+          "x": "我猜下个季度我们会看到Google的广告收入增长？"
+        }
+      ]
+    },
+    "marketing/tiktokshop-listing-fix-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
+          "cap": "TikTok Shop Seller AI会估算每项商品信息优化带来的新增订单，但卖家必须审核每条建议"
+        },
+        {
+          "t": "p",
+          "x": "TikTok Shop于November 4, 2026面向US卖家发布指南《Getting BFCM-Ready with Seller AI》，将Seller Center内的AI代理统一归入一个名称之下，以备战Black Friday和Cyber Monday。指南称：“Seller AI不是通用聊天机器人，它是围绕你的业务打造的。”"
+        },
+        {
+          "t": "p",
+          "x": "Product Growth Opportunities会将每件商品与同类商品的表现进行比较，并建议在定价、商品信息或转化方面做出调整。“对于每条建议，它都会显示以新增订单计的预期收益。”One-Click SEO则让商品名称与购物者正在搜索的关键词保持一致。"
+        },
+        {
+          "t": "p",
+          "x": "Content Opportunities“无需另行拍摄或长时间剪辑，几分钟内即可生成可直接用于销售的视频和照片”。LIVE Recommendations会分析LIVE直播，Campaigns代理则“汇集你有资格参加的所有活动”。"
+        },
+        {
+          "t": "p",
+          "x": "指南没有给出任何数字、日期或费用，结尾写道：“在采取行动之前，你有责任先审核这些内容。”Black Friday是November 27, 2026，在指南发布23天之后。"
+        }
+      ]
+    },
+    "marketing/google-aimode-home-services": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
+          "cap": "Google AI Mode为家居服务新增预约和报价链接"
+        },
+        {
+          "t": "p",
+          "x": "Google正允许家居服务企业通过Partner Platforms接收由AI Mode生成的预约和报价请求，这些平台包括Marketplaces（Angi & Thumbtack）以及Field Service Software提供商（Housecall Pro & Jobber）。Google Search Product VP Robby Stein在X上表示，该功能现已在U.S.上线，ServiceTitan也即将支持。"
+        },
+        {
+          "t": "p",
+          "x": "Jobber表示，其符合条件的U.S.客户现在即可接收这些请求，且不收取线索费；企业需要付费订阅Jobber，并关联Google Business Profile。Housecall Pro也表示不收线索费——“一个请求，一位Pro，不收线索费，没有竞价大战”——不过其新闻稿称相关集成即将推出。"
+        },
+        {
+          "t": "p",
+          "x": "这些条款与Google自家的Local Services Ads形成对比，后者会把预约请求作为线索收费。Angi关于AI Mode的公告并未说明其匹配费是否适用于从AI Mode发起的报价请求。不在上述任何平台上的企业，无法通过AI Mode获得直接预约。"
+        }
+      ]
+    },
+    "marketing/supermetrics-claude-campaigns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/supermetrics-claude-6-platform-campaigns-paused-self-typing-typewriter-billboards-approval-stamp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Supermetrics将与Anthropic旗下Claude的集成从报表扩展到广告活动管理，营销人员无需离开聊天窗口，即可在Google Ads、Meta、Microsoft Advertising、TikTok、LinkedIn和Snapchat上创建和编辑广告活动。以这种方式创建的广告活动在人工批准前保持暂停。"
+        },
+        {
+          "t": "p",
+          "x": "这一写入权限配有三项控制：新建的广告活动在启用前默认暂停；对现有广告活动的修改建议可在应用前审核；客户可为不同账户设定审批要求。"
+        },
+        {
+          "t": "p",
+          "x": "自2月以来，已有超过6,000家Supermetrics客户使用Claude连接器，活跃用户平均每月环比增长250%。付费媒体报表是“目前最主要的用例”。"
+        },
+        {
+          "t": "p",
+          "x": "第二款产品Context Layer返回标准化的营销数据，让团队用自然语言定义目标、报表规则、客户与账户的对应关系、命名规范和事件，这些定义适用于团队的所有对话。"
+        },
+        {
+          "t": "p",
+          "x": "“目标不是把营销人员从流程中移除，”co-CEO兼创始人Mikael Thuneberg表示，“而是消除从发现机会到能够付诸行动之间的手工工作。”"
+        }
+      ]
     }
   }
 }

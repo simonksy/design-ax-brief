@@ -3144,6 +3144,109 @@
           "x": "Más de un tercio (34%) de los adultos de Estados Unidos (U.S.) ha usado asistentes de AI con fines relacionados con la salud, según una encuesta de agosto del Pew Research Center. Brient dijo que el objetivo no era crear trabajo adicional para los clínicos: «No nos corresponde decidir qué asistente de AI deben usar los pacientes»."
         }
       ]
+    },
+    "medicine/mayo-platform-cds-ehr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+          "cap": "Dos clínicos analizan escáneres cerebrales que aparecen en monitores informáticos."
+        },
+        {
+          "t": "p",
+          "x": "Mayo Clinic Platform lanzó una solución AI-enabled de apoyo a la decisión clínica (Clinical Decision Support, CDS) para los clínicos de Mayo Clinic y las organizaciones de sus programas para proveedores de atención médica. Puede integrarse en un número creciente de entornos EHR, de modo que los clínicos no tengan que recorrer varios recursos por separado."
+        },
+        {
+          "t": "p",
+          "x": "A partir de noviembre de 2026, los clínicos participantes disponen de un chat por especialidad basado en un modelo de lenguaje de gran tamaño, que abarca más de 35 especialidades, cita literatura revisada por pares y se actualiza a diario, además de 22 calculadoras clínicas accesibles por chat o dictado de voz, entre ellas calculadoras propias de Mayo."
+        },
+        {
+          "t": "p",
+          "x": "El director de operaciones, Maneesh Goyal, afirma que el objetivo es dedicar menos tiempo a buscar y más a la atención de pacientes; la directora médica, Gelareh Zadeh, subraya que la herramienta no sustituye el juicio clínico."
+        }
+      ]
+    },
+    "medicine/google-health-ai-evals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google, junto con los expertos en salud Dr. Elizabeth McGlynn y Dr. Dana Gelb Safran, publicó un documento técnico que describe un enfoque integral para evaluar casos de uso de AI que atienden las necesidades de salud de las personas."
+        },
+        {
+          "t": "p",
+          "x": "El marco evalúa los modelos según su precisión, seguridad y utilidad, y combina benchmarks de preguntas cerradas, autoevaluadores y revisión humana experta en escenarios de salud habituales y de alto riesgo."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.width-1200.format-webp.webp",
+          "cap": "Un profesional sanitario con uniforme quirúrgico verde mira el smartphone que sostiene un paciente en una consulta clínica."
+        },
+        {
+          "t": "p",
+          "x": "Google afirma que creó el marco y que aún lo usa para revisar sus propios modelos, y que comparte la metodología para promover la transparencia y ayudar a desarrolladores, investigadores y clínicos a crear herramientas de AI en las que la gente pueda confiar."
+        }
+      ]
+    },
+    "medicine/mount-sinai-delirium-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este estudio de mejora de la calidad evaluó un modelo multimodal de fusión con procesamiento del lenguaje natural que estratifica el riesgo de delirio en pacientes de 60 años o más ingresados en unidades non-ICU (fuera de la UCI); se implantó en funcionamiento real en Mount Sinai Hospital (MSH) y se validó externamente en Mount Sinai Morningside (MSM) entre diciembre de 2024 y diciembre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "La muestra abarcó 33,095 ingresos; 9,020 ingresos de MSM puntuados durante la operación real se compararon con 21,186 ingresos puntuados de MSH. Ambas poblaciones de pacientes diferían en edad, sexo, raza y etnia, tipo de diagnóstico, duración de la estancia y prevalencia de demencia."
+        },
+        {
+          "t": "p",
+          "x": "Sin reentrenamiento, el AUROC del modelo fue de 0.91 en MSM y de 0.94 en MSH, con valores predictivos positivos de 25.9% y 19.4%. En MSM, la tasa media mensual de detección de delirio subió del 9.23% al 19.59% tras la implantación."
+        },
+        {
+          "t": "p",
+          "x": "Los autores concluyen que el modelo mantuvo una discriminación aceptable en el centro externo y aumentó el rendimiento diagnóstico, aunque con una tasa elevada de falsos positivos."
+        }
+      ]
+    },
+    "medicine/nejm-ai-physical-limits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En esta perspectiva de NEJM AI, Dan Zeltzer, Tyler Tam, Benji Bhattacharya, Victoria Udalova y Maria Polyakova examinan los límites físicos a la sustitución por AI en las distintas especialidades médicas y lo que implican para la fuerza laboral médica."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+          "cap": "Proporción de pagos por especialidad: servicios físicos (no sustituibles por AI basada en software), E&M y no físicos (potencialmente sustituibles)."
+        },
+        {
+          "t": "p",
+          "x": "En las 56 especialidades (US$44.9bn en pagos), el 24% de los pagos corresponde a servicios físicos, el 55% a evaluación y gestión, y el 21% a servicios no físicos potencialmente sustituibles por AI."
+        },
+        {
+          "t": "p",
+          "x": "La exposición varía mucho: el trabajo no físico representa el 99% de los pagos en patología y el 96% en radiología diagnóstica, mientras que los servicios físicos suponen el 68% en dermatología y el 53% en cirugía ortopédica."
+        }
+      ]
+    },
+    "medicine/medicine-vscan-air-lung-as": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GE HealthCare (GEHC) incorpora dos funciones AI-based a su sistema de ecografía portátil Vscan Air: Lung Guidance, que ayuda a los clínicos a obtener imágenes de ecografía pulmonar, y AutoAS, que evalúa la estenosis aórtica de moderada a grave."
+        },
+        {
+          "t": "p",
+          "x": "Según el fabricante, Lung Guidance ofrece orientación en tiempo real para corregir los puntos de referencia anatómicos en el protocolo pulmonar estándar de ocho zonas, captura clips automáticamente cuando se cumplen los criterios de calidad de imagen y permite la detección y puntuación de B-line. En las pruebas de validación, los usuarios no expertos obtuvieron exámenes de calidad diagnóstica el 95.2% de las veces, frente al 96.8% de los usuarios expertos, según GEHC."
+        },
+        {
+          "t": "p",
+          "x": "AutoAS analiza al menos dos vistas ecocardiográficas 2D estándar adquiridas con Vscan Air SL e indica si los hallazgos sugieren una estenosis aórtica de moderada a grave, junto con una puntuación de confianza."
+        },
+        {
+          "t": "p",
+          "x": "Ambas herramientas han obtenido la autorización 510(k) de la U.S. Food and Drug Administration (FDA) y llevan el CE Mark. Según GEHC, los clientes actuales de Vscan Air con una suscripción o licencia vigente de Innovation Package recibirán previsiblemente las actualizaciones antes de finales de noviembre."
+        }
+      ]
     }
   }
 }

@@ -3429,6 +3429,133 @@
           "x": "Organic ChatGPT referrals fell an estimated 6%–8% after ads arrived. The paper's data ends Aug. 22; OpenAI has since expanded ChatGPT Ads to 89 countries and says more than 100,000 advertisers have run campaigns."
         }
       ]
+    },
+    "marketing/tradedesk-dstillery-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=652"
+        },
+        {
+          "t": "p",
+          "x": "The Trade Desk is connecting Ask Koa, its conversational agentic platform, with adtech firm Dstillery’s agentic platform, DS-1, to help ad buyers create custom audiences in minutes rather than days."
+        },
+        {
+          "t": "p",
+          "x": "The integration lets the two companies’ AI agents communicate during live campaigns, using performance insights and an advertiser’s targeting goals to identify and build new audiences that can be activated through The Trade Desk."
+        },
+        {
+          "t": "p",
+          "x": "Advertisers could already buy Dstillery’s custom audiences through The Trade Desk, but building them required manual coordination and typically took four days, said Taejin “TJ” In, Dstillery’s chief product officer."
+        },
+        {
+          "t": "p",
+          "x": "Ad buyers acknowledged the potential time savings, but question whether this would lead to increases in ad spend. (The rest of the ADWEEK story is for subscribers.)"
+        }
+      ]
+    },
+    "marketing/google-aimode-four-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-logo-glow-4hDAWd1f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google can now show up to four Google Ads in the AI Mode responses for a single query. I mean, I am not sure if this is new, being that Google Ads has been showing four ads for search results officially since 2016 but we do know Google said it will show more ads, more often, in AI Mode during its earnings call."
+        },
+        {
+          "t": "p",
+          "x": "Sachin Patel posted a screenshot on Search Engine Watch showing four ads for an AI Mode query in Google - here is that screenshot:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
+          "cap": "Google AI Mode with four ads"
+        },
+        {
+          "t": "p",
+          "x": "Generally, you would see one or two ads, sometimes three. But I guess with Google not being able to monetize those clicks as well in search than they can in AI Mode, Google is now showing up to four ads... Of course, we will also see multiturn ads, ads on follow up queries, in the US. So even more ads are coming..."
+        },
+        {
+          "t": "p",
+          "x": "I guess we will be seeing an increase in ad earnings from Google next quarter?"
+        }
+      ]
+    },
+    "marketing/tiktokshop-listing-fix-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/tiktok-shop-seller-ai-extra-orders-per-listing-fix-pointer-hand-outline-shopping-bags.jpg",
+          "cap": "TikTok Shop Seller AI estimates extra orders per listing fix, yet sellers must vet every suggestion"
+        },
+        {
+          "t": "p",
+          "x": "TikTok Shop on November 4, 2026 published a guide for US sellers, \"Getting BFCM-Ready with Seller AI,\" grouping the AI agents inside Seller Center under one name for Black Friday and Cyber Monday. \"Seller AI is not a general-purpose chatbot. It is built around your business,\" the guide states."
+        },
+        {
+          "t": "p",
+          "x": "Product Growth Opportunities compares each product with how similar products perform and recommends pricing, listing or conversion changes. \"For each recommendation, it shows the expected payoff in additional orders.\" One-Click SEO aligns product names with keywords shoppers are searching."
+        },
+        {
+          "t": "p",
+          "x": "Content Opportunities \"produces sale-ready videos and photos in minutes, without a separate shoot or a long edit.\" LIVE Recommendations analyzes LIVE sessions, and the Campaigns agent \"brings together every campaign you qualify for.\""
+        },
+        {
+          "t": "p",
+          "x": "The guide gives no figures, dates or fees and ends: \"You are responsible for reviewing them before you act.\" Black Friday falls on November 27, 2026, 23 days after the guide."
+        }
+      ]
+    },
+    "marketing/google-aimode-home-services": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock-2671336519-featured-861.jpg",
+          "cap": "Google AI Mode Adds Booking & Quote Links For Home Services"
+        },
+        {
+          "t": "p",
+          "x": "Google is allowing home service businesses to accept bookings and quote requests generated by AI Mode via Partner Platforms such as the Marketplaces (Angi & Thumbtack) and Field Service Software providers (Housecall Pro & Jobber). Google Search Product VP Robby Stein said on X that it is available now in the U.S., with ServiceTitan coming soon."
+        },
+        {
+          "t": "p",
+          "x": "Jobber says its eligible U.S. customers can take those requests now with no lead fees; businesses need a paid Jobber subscription and a connected Google Business Profile. Housecall Pro also says there are no lead fees — “One request, one Pro, no lead fee, no bidding war” — though its release says its integration is coming soon."
+        },
+        {
+          "t": "p",
+          "x": "Those terms contrast with Google’s own Local Services Ads, which charge for booking requests as leads. Angi’s AI Mode announcement doesn’t say whether its match fees apply to quote requests that start in AI Mode. A business on none of the listed platforms has no route to direct bookings through AI Mode."
+        }
+      ]
+    },
+    "marketing/supermetrics-claude-campaigns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/supermetrics-claude-6-platform-campaigns-paused-self-typing-typewriter-billboards-approval-stamp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Supermetrics extended its integration with Anthropic's Claude from reporting into campaign management, allowing marketers to create and edit campaigns on Google Ads, Meta, Microsoft Advertising, TikTok, LinkedIn and Snapchat without leaving a chat window. Campaigns created that way stay paused until a person approves them."
+        },
+        {
+          "t": "p",
+          "x": "Three controls sit around that write access: newly created campaigns are paused by default before activation, proposed edits to existing campaigns can be reviewed before they are applied, and customers can set approval requirements for different accounts."
+        },
+        {
+          "t": "p",
+          "x": "More than 6,000 Supermetrics customers have used the Claude connector since February, with active users growing by an average of 250% month over month. Paid-media reporting is \"currently the dominant use case.\""
+        },
+        {
+          "t": "p",
+          "x": "A second product, Context Layer, returns normalized marketing data and lets teams define targets, reporting rules, client-to-account mappings, naming conventions and events in natural language, applied across a team's conversations."
+        },
+        {
+          "t": "p",
+          "x": "\"The goal isn't to remove marketers from the process,\" co-CEO and founder Mikael Thuneberg said. \"It's to remove the manual work between identifying an opportunity and being able to act on it.\""
+        }
+      ]
     }
   }
 }

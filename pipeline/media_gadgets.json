@@ -1,31 +1,11 @@
 {
- "date": "2026-11-04",
- "section": "gadgets",
- "media": [
-  {
-   "id": "watchos273-live-rewind",
-   "type": "image",
-   "src": "pipeline/media/watchos273-live-rewind.jpg"
-  },
-  {
-   "id": "siri-ai-thirdparty-apps",
-   "type": "image",
-   "src": "pipeline/media/siri-ai-thirdparty-apps.jpg"
-  },
-  {
-   "id": "sonos-27voice-early-access",
-   "type": "image",
-   "src": "pipeline/media/sonos-27voice-early-access.jpg"
-  },
-  {
-   "id": "cyclon-ai-phone-yc",
-   "type": "image",
-   "src": "pipeline/media/cyclon-ai-phone-yc.jpg"
-  },
-  {
-   "id": "chatgpt-dots-astra-1104",
-   "type": "image",
-   "src": "pipeline/media/chatgpt-dots-astra-1104.jpg"
-  }
- ]
+  "date": "2026-11-05",
+  "section": "gadgets",
+  "media": [
+    {"id": "nothing-screenfree-ai-device", "type": "image", "src": "pipeline/media/nothing-screenfree-ai-device.jpg"},
+    {"id": "gemini-home-att-connected-life", "type": "image", "src": "pipeline/media/gemini-home-att-connected-life.jpg"},
+    {"id": "disneyland-robot-interns", "type": "image", "src": "pipeline/media/disneyland-robot-interns.jpg"},
+    {"id": "apple-watch-transfhar-gestures", "type": "video", "src": "pipeline/media/apple-watch-transfhar-gestures.mp4", "poster": "pipeline/media/apple-watch-transfhar-gestures.jpg"},
+    {"id": "claude-nordictrack-ifit", "type": "image", "src": "pipeline/media/claude-nordictrack-ifit.jpg"}
+  ]
 }

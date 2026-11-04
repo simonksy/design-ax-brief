@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "movies",
   "cards": [
     {
-      "id": "netflix-ai-discover-tv",
+      "id": "disney-accelerator-ai-cohort",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Netflix, TVs용\nAI Discover 시험",
-      "body": "Netflix AI Discover가 TVs에서 테마별 작품을 실시간으로 골라준다.",
-      "mini_headline": "TVs의 Netflix AI Discover",
+      "headline": "Disney 액셀러레이터\nAI에 모두 걸었다",
+      "body": "Disney의 all-AI 기수가 바이브 디렉팅·하이브리드 제작 도구를 선보였다.",
+      "mini_headline": "Disney, AI 스타트업에 베팅",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,265 +19,365 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-            "cap": "Netflix AI Discover"
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+            "cap": "(사진: Disney)"
           },
           {
             "t": "p",
-            "x": "최근 몇 분기 동안 시청자 참여도가 떨어진 Netflix가 화요일(Nov. 3) Netflix TV 앱에 AI Discover를 선보인다. 첫 대상은 지원 스마트 TVs에서 Netflix를 영어로 쓰는 U.S.(미국) 일부 구독자다. 이용자는 “Something Light,” “Scare Me,” “Family Movie Night,” “Quick Watches” 같은 미리 정해 둔 테마로 콘텐츠를 둘러본다. AI가 고른(AI-picked) 추천 작품은 시청 기록과 취향, 플랫폼 인기 흐름을 보고 실시간으로 만들어진다."
+            "x": "최첨단 스타트업에 투자하는 Disney의 프로그램 Disney Accelerator의 데모데이(Demo Day) 주제는 단연 AI였다. 올해 최신 기수는 다섯 개 기업이다. 스타트업들은 15주 동안 Disney와 함께하며 주로 테마파크에 초점을 맞춘다. Disney의 기업 혁신 담당 VP David Min은 “이 기술이 우리가 가진 워크플로에 들어맞는지 살펴보고 있으며, 그래서 그 과정 내내 아티스트가 함께한다”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+            "cap": "2026 Disney Accelerator 기수와 Disney 임원 Bonnie Rosen, David Min(가운데) (사진: Disney)"
           },
           {
             "t": "p",
-            "x": "상단 내비게이션 바에는 빨간 보석 모양 아이콘을 단 “Discover” 탭이 생긴다. 테마마다 클립으로 미리 보여 주고, 더 구체적인 테마나 “Something Different”도 고를 수 있다. 작품마다 “Tune Your Recommendations” 버튼이 붙는다. 상호작용형이긴 해도 챗봇 같은 경험은 아니고, 어린이 프로필에서는 쓸 수 없다."
+            "x": "Promise Advanced Imagination은 AI-native 스튜디오다. 운영체제 MUSE로 그레이박스 스튜디오를 활용한 하이브리드 영화 제작을 지원한다. AI가 배경과 박스를 거의 실시간으로 디지털 배경과 소품으로 채우는 방식이다. Doug Liman의 “Bitcoin: Killing Satoshi”가 그레이박스 AI 촬영의 첫 사례였다. OpenArt는 누구나 간단한 프롬프트로 생성형 AI 짧은 영상을 만들게 해 준다. CEO Coco Mao는 이런 대화형 지시를 영상을 ‘바이브 디렉팅(vibe directing)’하는 일이라고 불렀다."
           },
           {
             "t": "p",
-            "x": "Netflix는 오래전부터 머신러닝으로 추천을 개인화해 왔다. 다만 AI 기반임을 앞세운 이용자용 기능은 AI Discover가 처음이다. Netflix는 “AI Discover를 우리의 테스트 키친으로 생각해 달라”고 밝혔다. 앞으로 몇 주 안에 더 많은 지역과 고객으로 기능을 넓힐 계획이다."
+            "x": "FieldAI와 Physical Intelligence는 로봇에 AI를 접목했다. Simile는 실제 사람의 디지털 트윈으로 만든 합성 군중으로 가상 포커스 그룹 테스트를 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+            "cap": "FieldAI의 지능과 Boston Dynamics 로봇 시연 (사진: Disney)"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Netflix tests AI Discover\nmood themes on TVs",
-          "body": "Netflix's new AI Discover tab on TVs serves AI-picked titles in real time under preset themes like \"Scare Me\".",
-          "mini_headline": "Netflix AI Discover on TVs",
+          "headline": "Disney's accelerator\ngoes all-in on AI",
+          "body": "Disney's all-AI accelerator cohort, including Promise and OpenArt, showed vibe directing and hybrid filmmaking tools.",
+          "mini_headline": "Disney bets on AI startups",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(Credit: Disney)"
               },
               {
                 "t": "p",
-                "x": "Netflix, which has seen viewer engagement slide in recent quarters, is debuting AI Discover on the Netflix TV app on Tuesday (Nov. 3), initially to a limited number of subscribers in the U.S. who use Netflix in English on supported smart TVs. You are prompted to explore content based on preset themes such as “Something Light,” “Scare Me,” “Family Movie Night” or “Quick Watches,” and the recommended titles are produced in real time based on a user’s viewing history and preferences as well as what’s trending on the platform."
+                "x": "At Demo Day for Disney Accelerator, its program to invest in cutting-edge startups, AI was the predominant theme. This year five companies made up the latest cohort; the startups spend 15 weeks with Disney, with much of the focus on theme parks. “We’re working with the technology to see if it can fit into workflows that we have, so we have the artist involved along the way,” said David Min, VP of corporate innovation at Disney."
               },
-              {
-                "t": "p",
-                "x": "A “Discover” tab with a red gem-shaped icon appears in the top navigation bar. Each theme is previewed with a clip; you can pick more specific themes or “Something Different,” and every title has a “Tune Your Recommendations” button. It is interactive but not a chatbot-like experience, and it will not be available on kids’ profiles."
-              },
-              {
-                "t": "p",
-                "x": "Netflix has long used machine learning to personalize recommendations, but AI Discover is the first user-facing application it is branding as powered by AI. “Think of AI Discover as our test kitchen,” Netflix says. The company plans to expand the feature to more regions and customers in the coming weeks."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Netflix prueba AI Discover\ncon temas de ánimo en TVs",
-          "body": "La nueva pestaña AI Discover de Netflix en TVs ofrece títulos AI-picked en tiempo real bajo temas como \"Scare Me\".",
-          "mini_headline": "Netflix AI Discover en TVs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "The 2026 Disney Accelerator cohort with Disney executives Bonnie Rosen and David Min (center) (Credit: Disney)"
               },
               {
                 "t": "p",
-                "x": "Netflix, cuya interacción de los espectadores ha caído en los últimos trimestres, estrena AI Discover en la app de Netflix TV el martes (Nov. 3), inicialmente para un número limitado de suscriptores en U.S. que usan Netflix en inglés en smart TVs compatibles. Se invita a explorar contenido a partir de temas predefinidos como “Something Light”, “Scare Me”, “Family Movie Night” o “Quick Watches”, y los títulos recomendados se generan en tiempo real según el historial de visualización y las preferencias del usuario, además de lo que es tendencia en la plataforma."
+                "x": "Promise Advanced Imagination is an AI-native studio whose operating system, MUSE, allows for hybrid filmmaking using a gray box studio: AI fills the background and boxes with digital scenery and props in near-real time. Doug Liman’s “Bitcoin: Killing Satoshi” was the first example of a gray-box AI shoot. OpenArt lets anyone write simple prompts for generative AI to create short videos; CEO Coco Mao called the conversational instructions “vibe directing” a video."
               },
               {
                 "t": "p",
-                "x": "En la barra de navegación superior aparece una pestaña “Discover” con un icono rojo en forma de gema. Cada tema se presenta con un clip; se pueden elegir temas más específicos o “Something Different”, y cada título tiene un botón “Tune Your Recommendations”. Es interactivo, pero no es una experiencia de tipo chatbot, y no estará disponible en los perfiles infantiles."
+                "x": "FieldAI and Physical Intelligence brought AI to robots, and Simile runs virtual focus group tests with synthetic crowds of digital twins of real people."
               },
               {
-                "t": "p",
-                "x": "Netflix lleva tiempo usando aprendizaje automático para personalizar recomendaciones, pero AI Discover es la primera aplicación de cara al usuario que presenta como impulsada por AI. “Piensen en AI Discover como nuestra cocina de pruebas”, dice Netflix. La compañía planea ampliar la función a más regiones y clientes en las próximas semanas."
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "A demonstration of FieldAI’s intelligence and a Boston Dynamics robot (Credit: Disney)"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Netflix, TVs용\nAI Discover 시험",
-          "body": "Netflix AI Discover가 TVs에서 테마별 작품을 실시간으로 골라준다.",
-          "mini_headline": "TVs의 Netflix AI Discover",
+          "headline": "Disney 액셀러레이터\nAI에 모두 걸었다",
+          "body": "Disney의 all-AI 기수가 바이브 디렉팅·하이브리드 제작 도구를 선보였다.",
+          "mini_headline": "Disney, AI 스타트업에 베팅",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(사진: Disney)"
               },
               {
                 "t": "p",
-                "x": "최근 몇 분기 동안 시청자 참여도가 떨어진 Netflix가 화요일(Nov. 3) Netflix TV 앱에 AI Discover를 선보인다. 첫 대상은 지원 스마트 TVs에서 Netflix를 영어로 쓰는 U.S.(미국) 일부 구독자다. 이용자는 “Something Light,” “Scare Me,” “Family Movie Night,” “Quick Watches” 같은 미리 정해 둔 테마로 콘텐츠를 둘러본다. AI가 고른(AI-picked) 추천 작품은 시청 기록과 취향, 플랫폼 인기 흐름을 보고 실시간으로 만들어진다."
+                "x": "최첨단 스타트업에 투자하는 Disney의 프로그램 Disney Accelerator의 데모데이(Demo Day) 주제는 단연 AI였다. 올해 최신 기수는 다섯 개 기업이다. 스타트업들은 15주 동안 Disney와 함께하며 주로 테마파크에 초점을 맞춘다. Disney의 기업 혁신 담당 VP David Min은 “이 기술이 우리가 가진 워크플로에 들어맞는지 살펴보고 있으며, 그래서 그 과정 내내 아티스트가 함께한다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "2026 Disney Accelerator 기수와 Disney 임원 Bonnie Rosen, David Min(가운데) (사진: Disney)"
               },
               {
                 "t": "p",
-                "x": "상단 내비게이션 바에는 빨간 보석 모양 아이콘을 단 “Discover” 탭이 생긴다. 테마마다 클립으로 미리 보여 주고, 더 구체적인 테마나 “Something Different”도 고를 수 있다. 작품마다 “Tune Your Recommendations” 버튼이 붙는다. 상호작용형이긴 해도 챗봇 같은 경험은 아니고, 어린이 프로필에서는 쓸 수 없다."
+                "x": "Promise Advanced Imagination은 AI-native 스튜디오다. 운영체제 MUSE로 그레이박스 스튜디오를 활용한 하이브리드 영화 제작을 지원한다. AI가 배경과 박스를 거의 실시간으로 디지털 배경과 소품으로 채우는 방식이다. Doug Liman의 “Bitcoin: Killing Satoshi”가 그레이박스 AI 촬영의 첫 사례였다. OpenArt는 누구나 간단한 프롬프트로 생성형 AI 짧은 영상을 만들게 해 준다. CEO Coco Mao는 이런 대화형 지시를 영상을 ‘바이브 디렉팅(vibe directing)’하는 일이라고 불렀다."
               },
               {
                 "t": "p",
-                "x": "Netflix는 오래전부터 머신러닝으로 추천을 개인화해 왔다. 다만 AI 기반임을 앞세운 이용자용 기능은 AI Discover가 처음이다. Netflix는 “AI Discover를 우리의 테스트 키친으로 생각해 달라”고 밝혔다. 앞으로 몇 주 안에 더 많은 지역과 고객으로 기능을 넓힐 계획이다."
+                "x": "FieldAI와 Physical Intelligence는 로봇에 AI를 접목했다. Simile는 실제 사람의 디지털 트윈으로 만든 합성 군중으로 가상 포커스 그룹 테스트를 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "FieldAI의 지능과 Boston Dynamics 로봇 시연 (사진: Disney)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Netflix、TVsで\nAI Discover試験",
-          "body": "Netflix AI DiscoverはTVsでテーマ別作品を即時に薦める。",
-          "mini_headline": "TVs向けNetflix AI Discover",
+          "headline": "Disneyの起業支援\nAIに全振り",
+          "body": "Disneyのall-AI育成枠がバイブディレクティングやハイブリッド制作ツールを示した。",
+          "mini_headline": "DisneyがAIスタートアップに賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(写真: Disney)"
               },
               {
                 "t": "p",
-                "x": "ここ数四半期で視聴者のエンゲージメントが落ち込んでいるNetflixは、火曜日(Nov. 3)にNetflix TVアプリでAI Discoverを公開する。当初の対象は、対応スマートTVsでNetflixを英語で利用するU.S.(米国)の一部加入者に限られる。利用者は「Something Light」「Scare Me」「Family Movie Night」「Quick Watches」といった既定のテーマでコンテンツを探すよう促され、AIが選んだ(AI-picked)おすすめ作品は、利用者の視聴履歴や好み、プラットフォーム上のトレンドをもとにリアルタイムで生成される。"
+                "x": "最先端のスタートアップに投資するDisneyのプログラム、Disney Acceleratorのデモデー(Demo Day)では、AIが中心的なテーマだった。今年の最新の育成枠は5社で構成され、スタートアップは15週間Disneyと共に過ごし、その多くはテーマパークに焦点を当てる。Disneyのコーポレート・イノベーション担当VP、David Minは「この技術が我々の既存のワークフローに合うかを見極めており、その過程には常にアーティストが関わっている」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "2026年のDisney Accelerator育成枠とDisney幹部のBonnie Rosen、David Min(中央) (写真: Disney)"
               },
               {
                 "t": "p",
-                "x": "上部のナビゲーションバーには、赤い宝石形アイコンの「Discover」タブが表示される。各テーマはクリップでプレビューされ、より具体的なテーマや「Something Different」を選べるほか、すべての作品に「Tune Your Recommendations」ボタンがある。対話的ではあるがチャットボットのような体験ではなく、キッズプロフィールでは利用できない。"
+                "x": "Promise Advanced ImaginationはAI-nativeのスタジオで、そのオペレーティングシステムMUSEはグレーボックス・スタジオを使ったハイブリッドな映画制作を可能にする。AIが背景とボックスをデジタルの風景や小道具でほぼリアルタイムに埋めていく。Doug Limanの「Bitcoin: Killing Satoshi」は、グレーボックスによるAI撮影の最初の例だった。OpenArtは誰でも簡単なプロンプトを書いて生成AIで短い動画を作れるようにする。CEOのCoco Maoは、こうした対話形式の指示を動画の「バイブディレクティング(vibe directing)」と呼んだ。"
               },
               {
                 "t": "p",
-                "x": "Netflixは長年、機械学習で推薦を個人化してきたが、AI DiscoverはAI搭載をうたう初のユーザー向け機能となる。Netflixは「AI Discoverは私たちのテストキッチンだと考えてほしい」としている。同社は今後数週間で、この機能をより多くの地域と顧客に広げる計画だ。"
+                "x": "FieldAIとPhysical IntelligenceはロボットにAIを持ち込み、Simileは実在の人々のデジタルツインから成る合成群衆を使って仮想フォーカスグループのテストを行う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "FieldAIの知能とBoston Dynamicsのロボットのデモ (写真: Disney)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Netflix在TVs上\n测试AI Discover",
-          "body": "Netflix AI Discover在TVs上按主题实时推荐AI-picked作品。",
-          "mini_headline": "Netflix AI Discover登陆TVs",
+          "headline": "Disney加速器\n全力押注AI",
+          "body": "Disney的all-AI加速器批次展示了“氛围导演”与混合制片工具。",
+          "mini_headline": "Disney押注AI初创公司",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(图片来源：Disney)"
               },
               {
                 "t": "p",
-                "x": "近几个季度观众参与度持续下滑的Netflix于周二(Nov. 3)在Netflix TV应用上推出AI Discover，首批仅面向在支持的智能TVs上以英语使用Netflix的部分U.S.(美国)订阅用户。用户会被引导按“Something Light”“Scare Me”“Family Movie Night”“Quick Watches”等预设主题探索内容，AI挑选(AI-picked)的推荐作品会根据用户的观看历史与偏好以及平台上的热门趋势实时生成。"
+                "x": "在投资前沿初创公司的Disney Accelerator项目演示日(Demo Day)上，AI是压倒性的主题。今年最新一批共有五家公司，这些初创公司将与Disney共处15周，重点多放在主题公园上。Disney企业创新VP David Min表示：“我们正在用这项技术，看它能否融入我们现有的工作流程，因此整个过程中都有艺术家参与。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "2026年Disney Accelerator批次与Disney高管Bonnie Rosen和David Min(中) (图片来源：Disney)"
               },
               {
                 "t": "p",
-                "x": "顶部导航栏会出现一个带红色宝石形图标的“Discover”标签。每个主题都配有片段预览；用户可以选择更具体的主题或“Something Different”，每部作品都有“Tune Your Recommendations”按钮。它具有互动性，但并非聊天机器人式体验，儿童账户也无法使用。"
+                "x": "Promise Advanced Imagination是一家AI-native工作室，其操作系统MUSE借助灰盒工作室实现混合制片：AI以近乎实时的速度用数字场景和道具填充背景与盒体。Doug Liman的《Bitcoin: Killing Satoshi》是首个灰盒AI拍摄案例。OpenArt让任何人都能写下简单提示词，用生成式AI制作短视频；CEO Coco Mao把这种对话式指令称为对视频进行“氛围导演”(vibe directing)。"
               },
               {
                 "t": "p",
-                "x": "Netflix长期以来一直用机器学习来个性化推荐，但AI Discover是其首个标榜由AI驱动的面向用户的应用。Netflix表示：“可以把AI Discover看作我们的试验厨房。”公司计划在未来几周内将该功能扩展到更多地区和用户。"
+                "x": "FieldAI和Physical Intelligence把AI带进了机器人，Simile则用由真人数字孪生组成的合成人群开展虚拟焦点小组测试。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "FieldAI的智能与一台Boston Dynamics机器人的演示 (图片来源：Disney)"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La aceleradora de Disney\napuesta todo por la IA",
+          "body": "La cohorte all-AI de Disney, con Promise y OpenArt, mostró herramientas de vibe directing y cine híbrido.",
+          "mini_headline": "Disney apuesta por startups de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(Crédito: Disney)"
+              },
+              {
+                "t": "p",
+                "x": "En el Demo Day de Disney Accelerator, su programa para invertir en startups de vanguardia, la IA fue el tema predominante. Este año, cinco empresas formaron la cohorte más reciente; las startups pasan 15 semanas con Disney, con gran parte del foco en los parques temáticos. “Estamos trabajando con la tecnología para ver si encaja en los flujos de trabajo que tenemos, así que el artista participa en todo el proceso”, dijo David Min, VP de innovación corporativa de Disney."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "La cohorte 2026 de Disney Accelerator con los ejecutivos de Disney Bonnie Rosen y David Min (centro) (Crédito: Disney)"
+              },
+              {
+                "t": "p",
+                "x": "Promise Advanced Imagination es un estudio AI-native cuyo sistema operativo, MUSE, permite el cine híbrido mediante un estudio de caja gris: la IA rellena el fondo y las cajas con escenografía y utilería digitales casi en tiempo real. “Bitcoin: Killing Satoshi”, de Doug Liman, fue el primer ejemplo de un rodaje con IA en caja gris. OpenArt permite que cualquiera escriba indicaciones sencillas para que la IA generativa cree videos cortos; su CEO, Coco Mao, llamó a esas instrucciones conversacionales hacer “vibe directing” de un video."
+              },
+              {
+                "t": "p",
+                "x": "FieldAI y Physical Intelligence llevaron la IA a los robots, y Simile realiza pruebas virtuales de grupos focales con multitudes sintéticas de gemelos digitales de personas reales."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "Una demostración de la inteligencia de FieldAI y un robot de Boston Dynamics (Crédito: Disney)"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Netflix prueba AI Discover\ncon temas de ánimo en TVs",
-          "body": "La nueva pestaña AI Discover de Netflix en TVs ofrece títulos AI-picked en tiempo real bajo temas como \"Scare Me\".",
-          "mini_headline": "Netflix AI Discover en TVs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
-              },
-              {
-                "t": "p",
-                "x": "Netflix, cuya interacción de los espectadores ha caído en los últimos trimestres, estrena AI Discover en la app de Netflix TV el martes (Nov. 3), inicialmente para un número limitado de suscriptores en U.S. que usan Netflix en inglés en smart TVs compatibles. Se invita a explorar contenido a partir de temas predefinidos como “Something Light”, “Scare Me”, “Family Movie Night” o “Quick Watches”, y los títulos recomendados se generan en tiempo real según el historial de visualización y las preferencias del usuario, además de lo que es tendencia en la plataforma."
-              },
-              {
-                "t": "p",
-                "x": "En la barra de navegación superior aparece una pestaña “Discover” con un icono rojo en forma de gema. Cada tema se presenta con un clip; se pueden elegir temas más específicos o “Something Different”, y cada título tiene un botón “Tune Your Recommendations”. Es interactivo, pero no es una experiencia de tipo chatbot, y no estará disponible en los perfiles infantiles."
-              },
-              {
-                "t": "p",
-                "x": "Netflix lleva tiempo usando aprendizaje automático para personalizar recomendaciones, pero AI Discover es la primera aplicación de cara al usuario que presenta como impulsada por AI. “Piensen en AI Discover como nuestra cocina de pruebas”, dice Netflix. La compañía planea ampliar la función a más regiones y clientes en las próximas semanas."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Netflix, TVs용\nAI Discover 시험",
-          "body": "Netflix AI Discover는 TVs에서 테마별 작품을 실시간 추천한다.",
-          "mini_headline": "TVs의 Netflix AI Discover",
+          "headline": "Disney 액셀러레이터\nAI에 모두 걸었다",
+          "body": "Disney의 all-AI 기수가 바이브 디렉팅·하이브리드 제작 도구를 선보였다.",
+          "mini_headline": "Disney, AI 스타트업에 베팅",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(사진: Disney)"
               },
               {
                 "t": "p",
-                "x": "최근 몇 분기 동안 시청자 참여도가 떨어진 Netflix는 화요일(Nov. 3) Netflix TV 앱에 AI Discover를 선보인다. 우선 지원 스마트 TVs에서 Netflix를 영어로 쓰는 U.S.(미국) 일부 구독자가 대상이다. 이용자는 “Something Light,” “Scare Me,” “Family Movie Night,” “Quick Watches” 같은 미리 정한 테마로 콘텐츠를 탐색하게 되며, AI가 고른(AI-picked) 추천 작품은 이용자의 시청 기록과 취향, 플랫폼의 인기 흐름을 바탕으로 실시간 생성된다."
+                "x": "최첨단 스타트업에 투자하는 Disney의 프로그램 Disney Accelerator의 데모데이(Demo Day)에서는 AI가 단연 주된 주제였다. 올해 최신 기수는 다섯 개 기업으로 꾸려졌고, 스타트업들은 15주 동안 Disney와 함께하며 주로 테마파크에 초점을 맞춘다. Disney의 기업 혁신 담당 VP인 David Min은 “이 기술이 우리가 가진 워크플로에 들어맞는지 살펴보고 있으며, 그래서 그 과정 내내 아티스트가 함께한다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "2026 Disney Accelerator 기수와 Disney 임원 Bonnie Rosen, David Min(가운데) (사진: Disney)"
               },
               {
                 "t": "p",
-                "x": "상단 내비게이션 바에 빨간 보석 모양 아이콘의 “Discover” 탭이 나타난다. 테마마다 클립으로 미리 보여 주고, 더 구체적인 테마나 “Something Different”를 고를 수 있으며, 모든 작품에 “Tune Your Recommendations” 버튼이 붙는다. 상호작용형이지만 챗봇 같은 경험은 아니며, 어린이 프로필에서는 쓸 수 없다."
+                "x": "Promise Advanced Imagination은 AI-native 스튜디오로, 운영체제 MUSE를 통해 그레이박스 스튜디오를 활용한 하이브리드 영화 제작을 가능하게 한다. AI가 배경과 박스를 디지털 배경과 소품으로 거의 실시간에 채우는 방식이다. Doug Liman의 “Bitcoin: Killing Satoshi”는 그레이박스 AI 촬영의 첫 사례였다. OpenArt는 누구나 간단한 프롬프트를 써서 생성형 AI로 짧은 영상을 만들 수 있게 한다. CEO Coco Mao는 이런 대화형 지시를 영상을 ‘바이브 디렉팅(vibe directing)’하는 일이라고 불렀다."
               },
               {
                 "t": "p",
-                "x": "Netflix는 오래전부터 머신러닝으로 추천을 개인화해 왔지만, AI Discover는 AI 기반임을 내건 첫 이용자용 기능이다. Netflix는 “AI Discover를 우리의 테스트 키친으로 생각해 달라”고 밝혔다. 회사는 앞으로 몇 주 안에 이 기능을 더 많은 지역과 고객으로 넓힐 계획이다."
+                "x": "FieldAI와 Physical Intelligence는 로봇에 AI를 접목했고, Simile는 실제 사람의 디지털 트윈으로 구성한 합성 군중으로 가상 포커스 그룹 테스트를 진행한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "FieldAI의 지능과 Boston Dynamics 로봇 시연 (사진: Disney)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Netflix、TVsで\nAI Discover試験",
-          "body": "Netflix AI DiscoverはTVsでテーマ別作品を即時に薦める。",
-          "mini_headline": "TVs向けNetflix AI Discover",
+          "headline": "Disneyの起業支援\nAIに全振り",
+          "body": "Disneyのall-AI育成枠がバイブディレクティングやハイブリッド制作ツールを示した。",
+          "mini_headline": "DisneyがAIスタートアップに賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(写真: Disney)"
               },
               {
                 "t": "p",
-                "x": "ここ数四半期で視聴者のエンゲージメントが落ち込んでいるNetflixは、火曜日(Nov. 3)にNetflix TVアプリでAI Discoverを公開する。当初の対象は、対応スマートTVsでNetflixを英語で利用するU.S.(米国)の一部加入者に限られる。利用者は「Something Light」「Scare Me」「Family Movie Night」「Quick Watches」といった既定のテーマでコンテンツを探すよう促され、AIが選んだ(AI-picked)おすすめ作品は、利用者の視聴履歴や好み、プラットフォーム上のトレンドをもとにリアルタイムで生成される。"
+                "x": "最先端のスタートアップに投資するDisneyのプログラム、Disney Acceleratorのデモデー(Demo Day)では、AIが中心的なテーマだった。今年の最新の育成枠は5社で構成され、スタートアップは15週間Disneyと共に過ごし、その多くはテーマパークに焦点を当てる。Disneyのコーポレート・イノベーション担当VP、David Minは「この技術が我々の既存のワークフローに合うかを見極めており、その過程には常にアーティストが関わっている」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "2026年のDisney Accelerator育成枠とDisney幹部のBonnie Rosen、David Min(中央) (写真: Disney)"
               },
               {
                 "t": "p",
-                "x": "上部のナビゲーションバーには、赤い宝石形アイコンの「Discover」タブが表示される。各テーマはクリップでプレビューされ、より具体的なテーマや「Something Different」を選べるほか、すべての作品に「Tune Your Recommendations」ボタンがある。対話的ではあるがチャットボットのような体験ではなく、キッズプロフィールでは利用できない。"
+                "x": "Promise Advanced ImaginationはAI-nativeのスタジオで、そのオペレーティングシステムMUSEはグレーボックス・スタジオを使ったハイブリッドな映画制作を可能にする。AIが背景とボックスをデジタルの風景や小道具でほぼリアルタイムに埋めていく。Doug Limanの「Bitcoin: Killing Satoshi」は、グレーボックスによるAI撮影の最初の例だった。OpenArtは誰でも簡単なプロンプトを書いて生成AIで短い動画を作れるようにする。CEOのCoco Maoは、こうした対話形式の指示を動画の「バイブディレクティング(vibe directing)」と呼んだ。"
               },
               {
                 "t": "p",
-                "x": "Netflixは長年、機械学習で推薦を個人化してきたが、AI DiscoverはAI搭載をうたう初のユーザー向け機能となる。Netflixは「AI Discoverは私たちのテストキッチンだと考えてほしい」としている。同社は今後数週間で、この機能をより多くの地域と顧客に広げる計画だ。"
+                "x": "FieldAIとPhysical IntelligenceはロボットにAIを持ち込み、Simileは実在の人々のデジタルツインから成る合成群衆を使って仮想フォーカスグループのテストを行う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "FieldAIの知能とBoston Dynamicsのロボットのデモ (写真: Disney)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Netflix在TVs上\n测试AI Discover",
-          "body": "Netflix AI Discover在TVs上按主题实时推荐AI-picked作品。",
-          "mini_headline": "Netflix AI Discover登陆TVs",
+          "headline": "Disney加速器\n全力押注AI",
+          "body": "Disney的all-AI加速器批次展示了“氛围导演”与混合制片工具。",
+          "mini_headline": "Disney押注AI初创公司",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Netflix-AI-Discover.png?w=1000&h=563&crop=1",
-                "cap": "Netflix AI Discover"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(图片来源：Disney)"
               },
               {
                 "t": "p",
-                "x": "近几个季度观众参与度持续下滑的Netflix于周二(Nov. 3)在Netflix TV应用上推出AI Discover，首批仅面向在支持的智能TVs上以英语使用Netflix的部分U.S.(美国)订阅用户。用户会被引导按“Something Light”“Scare Me”“Family Movie Night”“Quick Watches”等预设主题探索内容，AI挑选(AI-picked)的推荐作品会根据用户的观看历史与偏好以及平台上的热门趋势实时生成。"
+                "x": "在投资前沿初创公司的Disney Accelerator项目演示日(Demo Day)上，AI是压倒性的主题。今年最新一批共有五家公司，这些初创公司将与Disney共处15周，重点多放在主题公园上。Disney企业创新VP David Min表示：“我们正在用这项技术，看它能否融入我们现有的工作流程，因此整个过程中都有艺术家参与。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "2026年Disney Accelerator批次与Disney高管Bonnie Rosen和David Min(中) (图片来源：Disney)"
               },
               {
                 "t": "p",
-                "x": "顶部导航栏会出现一个带红色宝石形图标的“Discover”标签。每个主题都配有片段预览；用户可以选择更具体的主题或“Something Different”，每部作品都有“Tune Your Recommendations”按钮。它具有互动性，但并非聊天机器人式体验，儿童账户也无法使用。"
+                "x": "Promise Advanced Imagination是一家AI-native工作室，其操作系统MUSE借助灰盒工作室实现混合制片：AI以近乎实时的速度用数字场景和道具填充背景与盒体。Doug Liman的《Bitcoin: Killing Satoshi》是首个灰盒AI拍摄案例。OpenArt让任何人都能写下简单提示词，用生成式AI制作短视频；CEO Coco Mao把这种对话式指令称为对视频进行“氛围导演”(vibe directing)。"
               },
               {
                 "t": "p",
-                "x": "Netflix长期以来一直用机器学习来个性化推荐，但AI Discover是其首个标榜由AI驱动的面向用户的应用。Netflix表示：“可以把AI Discover看作我们的试验厨房。”公司计划在未来几周内将该功能扩展到更多地区和用户。"
+                "x": "FieldAI和Physical Intelligence把AI带进了机器人，Simile则用由真人数字孪生组成的合成人群开展虚拟焦点小组测试。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "FieldAI的智能与一台Boston Dynamics机器人的演示 (图片来源：Disney)"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La aceleradora de Disney\napuesta todo por la IA",
+          "body": "La cohorte all-AI de Disney, con Promise y OpenArt, mostró herramientas de vibe directing y cine híbrido.",
+          "mini_headline": "Disney apuesta por startups de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelorator.jpg?width=1200&height=675&fit=bounds",
+                "cap": "(Crédito: Disney)"
+              },
+              {
+                "t": "p",
+                "x": "En el Demo Day de Disney Accelerator, su programa para invertir en startups de vanguardia, la IA fue el tema predominante. Este año, cinco empresas formaron la cohorte más reciente; las startups pasan 15 semanas con Disney, con gran parte del foco en los parques temáticos. “Estamos trabajando con la tecnología para ver si encaja en los flujos de trabajo que tenemos, así que el artista participa en todo el proceso”, dijo David Min, VP de innovación corporativa de Disney."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/Disney-Accelerator-2026-Cohort.jpg?width=1024&height=683&fit=bounds",
+                "cap": "La cohorte 2026 de Disney Accelerator con los ejecutivos de Disney Bonnie Rosen y David Min (centro) (Crédito: Disney)"
+              },
+              {
+                "t": "p",
+                "x": "Promise Advanced Imagination es un estudio AI-native cuyo sistema operativo, MUSE, permite el cine híbrido mediante un estudio de caja gris: la IA rellena el fondo y las cajas con escenografía y utilería digitales casi en tiempo real. “Bitcoin: Killing Satoshi”, de Doug Liman, fue el primer ejemplo de un rodaje con IA en caja gris. OpenArt permite que cualquiera escriba indicaciones sencillas para que la IA generativa cree videos cortos; su CEO, Coco Mao, llamó a esas instrucciones conversacionales hacer “vibe directing” de un video."
+              },
+              {
+                "t": "p",
+                "x": "FieldAI y Physical Intelligence llevaron la IA a los robots, y Simile realiza pruebas virtuales de grupos focales con multitudes sintéticas de gemelos digitales de personas reales."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/FieldAI-Disney-Accelerator-Demo-Day.jpg?width=683&height=1024&fit=bounds",
+                "cap": "Una demostración de la inteligencia de FieldAI y un robot de Boston Dynamics (Crédito: Disney)"
               }
             ]
           }
@@ -285,553 +385,321 @@
       }
     },
     {
-      "id": "luma-expression-sheet",
+      "id": "weta-fx-taicca-taiwan",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "새 Expression\nSheet로 표정 미리보기",
-      "body": "Luma Expression Sheet로 방향을 정하기 전에 표정 폭부터 살핀다.",
-      "mini_headline": "Luma Expression Sheet",
+      "headline": "Weta FX·TAICCA\n대만을 AI 허브로",
+      "body": "양측은 11월 6일 TCCF에서 공동투자·AI R&D·인재 육성 협약을 공개한다.",
+      "mini_headline": "Weta FX, 대만에 베팅",
       "tool": "Movies",
-      "source": "Luma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=MZ-1e4uYEiA",
-      "accent": "#f5a623",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+      "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "yt": "MZ-1e4uYEiA"
-          },
-          {
-            "t": "p",
-            "x": "얼굴 하나로 많은 걸 해낸다."
-          },
-          {
-            "t": "p",
-            "x": "Expression Sheet로 방향을 고르기 전에 캐릭터 연기가 어디까지 가는지 살펴볼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "이제 Luma에서 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Luma's Expression Sheet\npreviews facial performance",
-          "body": "Luma's Expression Sheet lets creators explore a character's facial range before committing to a direction.",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "She’s doing a lot with one face."
-              },
-              {
-                "t": "p",
-                "x": "Expression Sheet lets you explore where a character’s performance can go before you pick the direction."
-              },
-              {
-                "t": "p",
-                "x": "Now in Luma"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "새 Expression\nSheet로 표정 미리보기",
-          "body": "Luma Expression Sheet로 방향을 정하기 전에 표정 폭부터 살핀다.",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "얼굴 하나로 많은 걸 해낸다."
-              },
-              {
-                "t": "p",
-                "x": "Expression Sheet로 방향을 고르기 전에 캐릭터 연기가 어디까지 가는지 살펴볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이제 Luma에서 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "新Expression\nSheetで表情を試す",
-          "body": "LumaのExpression Sheetで方向を決める前にキャラクターの表情の幅を探れる。",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "ひとつの顔で、彼女は多くを表現している。"
-              },
-              {
-                "t": "p",
-                "x": "Expression Sheetを使えば、方向性を決める前にキャラクターの演技がどこまで広がるかを探ることができる。"
-              },
-              {
-                "t": "p",
-                "x": "Lumaで提供中"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "新Expression\nSheet预览面部表演",
-          "body": "Luma的Expression Sheet让创作者在确定方向前探索角色的表情幅度。",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "她用一张脸演绎了许多。"
-              },
-              {
-                "t": "p",
-                "x": "借助Expression Sheet,你可以在选定方向前探索角色表演的各种可能。"
-              },
-              {
-                "t": "p",
-                "x": "现已登陆Luma"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Expression Sheet de Luma\nanticipa la actuación facial",
-          "body": "Expression Sheet de Luma permite a creadores explorar el rango facial de un personaje antes de elegir una dirección.",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "Hace mucho con un solo rostro."
-              },
-              {
-                "t": "p",
-                "x": "Expression Sheet permite explorar hasta dónde puede llegar la actuación de un personaje antes de elegir la dirección."
-              },
-              {
-                "t": "p",
-                "x": "Ya disponible en Luma"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "새 Expression\nSheet로 표정 미리보기",
-          "body": "Luma Expression Sheet는 방향을 정하기 전 표정 폭을 살피게 한다.",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "그녀는 얼굴 하나로 많은 것을 해낸다."
-              },
-              {
-                "t": "p",
-                "x": "Expression Sheet로 방향을 고르기 전에 캐릭터의 연기가 어디까지 갈 수 있는지 탐색할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이제 Luma에서 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "新Expression\nSheetで表情を試す",
-          "body": "LumaのExpression Sheetで方向を決める前にキャラクターの表情の幅を探れる。",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "ひとつの顔で、彼女は多くを表現している。"
-              },
-              {
-                "t": "p",
-                "x": "Expression Sheetを使えば、方向性を決める前にキャラクターの演技がどこまで広がるかを探ることができる。"
-              },
-              {
-                "t": "p",
-                "x": "Lumaで提供中"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "新Expression\nSheet预览面部表演",
-          "body": "Luma的Expression Sheet让创作者在确定方向前探索角色的表情幅度。",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "她用一张脸演绎了许多。"
-              },
-              {
-                "t": "p",
-                "x": "借助Expression Sheet,你可以在选定方向前探索角色表演的各种可能。"
-              },
-              {
-                "t": "p",
-                "x": "现已登陆Luma"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Expression Sheet de Luma\nanticipa la actuación facial",
-          "body": "Expression Sheet de Luma permite a creadores explorar el rango facial de un personaje antes de elegir una dirección.",
-          "mini_headline": "Luma Expression Sheet",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MZ-1e4uYEiA"
-              },
-              {
-                "t": "p",
-                "x": "Hace mucho con un solo rostro."
-              },
-              {
-                "t": "p",
-                "x": "Expression Sheet permite explorar hasta dónde puede llegar la actuación de un personaje antes de elegir la dirección."
-              },
-              {
-                "t": "p",
-                "x": "Ya disponible en Luma"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "yna-imkwontaek-ai-short",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 배운 임권택 스타일\n단편 '확인' 첫 공개",
-      "body": "임권택 영화를 학습한 AI가 연출한 단편 '확인'이 예술원 영화전에서 공개된다.",
-      "mini_headline": "AI가 연출한 임권택 스타일",
-      "tool": "Movies",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261102043400005",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "대한민국예술원은 5∼6일 서울 중구 서울영화센터에서 '2026년 대한민국예술원 영화전'을 개최한다. '인공지능(AI) 시대, 영화는 어떻게 살아남는가'를 주제로 열리는 올해 영화전에서는 AI가 임권택 감독의 영화를 공부한 뒤, 임 감독의 스타일로 연출한 단편 영화 '확인'이 최초로 공개된다."
-          },
-          {
             "t": "img",
-            "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-            "cap": "[대한민국예술원 제공. 재판매 및 DB 금지]"
+            "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+            "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
           },
           {
             "t": "p",
-            "x": "영화는 코로나19 사태 당시 요양원에 입원한 아버지를 찾아간 아들이 끝내 면회하지 못한 채 아버지의 죽음을 맞이하는 모습을 그렸다. AI가 임권택 감독 특유의 롱테이크 장면 연출을 그대로 따라 해 만들었다."
+            "x": "“반지의 제왕”과 “아바타”를 만든 뉴질랜드 시각효과 회사 Weta FX가 대만 문화콘텐츠진흥원(Taiwan Creative Content Agency, TAICCA)과 손잡고 대만을 아시아의 AI-driven 영상 제작 중심지로 키우는 계획에 나선다. 파트너십은 11월 6일 타이베이에서 열리는 Taiwan Creative Content Fest(TCCF)에서 공식 출범하며 공동 투자, AI 연구개발, 신규 인재 양성 세 갈래로 짜였다. 구체적인 내용은 출범 행사 때까지 공개하지 않는다."
           },
           {
             "t": "p",
-            "x": "또 배창호 감독의 '젊은 남자', 정지영 감독의 '내 이름은' 중 일부 장면을 AI로 수정해 공개한다. '젊은 남자' 속 화염에 쌓인 자동차 장면을 AI로 실감 나게 재현했고, '내 이름은'의 마지막 장면에 바람이 부는 효과를 AI로 추가했다. 중단편 AI 영화 우수작 8편을 선정해 상영하고, 감독을 초청해 관객과 대화하는 자리도 가진다."
+            "x": "행사에는 TAICCA의 Sue Wang 이사장과 Weta FX 경영진인 CEO Daniel Seah, 최고기술책임자 Kimball Thurston, VFX 슈퍼바이저 Sheldon Stopsack 세 명이 함께한다."
+          },
+          {
+            "t": "p",
+            "x": "이번 협약은 대만의 AI·첨단 기술 역량과 크리에이티브 인재풀에 Weta FX의 VFX 노하우, 해외 작품 제작 이력, 글로벌 네트워크를 더한다. 목표는 대만의 기술 인력과 창작자를 전 세계 영상 산업의 작업에 잇는 것이다. Seah에게는 개인적인 의미도 있는 계약이다. 그는 대만에서 자랐다."
+          },
+          {
+            "t": "p",
+            "x": "TAICCA는 대만 문화부가 2019년 세운 기관이다. Weta FX는 웰링턴에 본사를 두고 밴쿠버와 멜버른에 거점을 운영한다. 지금 제작 중인 작품으로는 “반지의 제왕: 골룸 사냥(The Lord of the Rings: The Hunt for Gollum)”과 Marvel Studios의 “어벤져스: 둠스데이(Avengers: Doomsday)”가 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI가 배운 임권택 스타일\n단편 '확인' 첫 공개",
-          "body": "임권택 영화를 학습한 AI가 연출한 단편 '확인'이 예술원 영화전에서 공개된다.",
-          "mini_headline": "AI가 연출한 임권택 스타일",
+        "en": {
+          "headline": "Weta FX and TAICCA aim\nto make Taiwan an AI hub",
+          "body": "Weta FX and Taiwan's TAICCA will unveil a TCCF pact on Nov. 6 spanning co-investment, AI R&D and talent development.",
+          "mini_headline": "Weta FX bets on Taiwan",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "대한민국예술원은 5∼6일 서울 중구 서울영화센터에서 '2026년 대한민국예술원 영화전'을 개최한다. '인공지능(AI) 시대, 영화는 어떻게 살아남는가'를 주제로 열리는 올해 영화전에서는 AI가 임권택 감독의 영화를 공부한 뒤, 임 감독의 스타일로 연출한 단편 영화 '확인'이 최초로 공개된다."
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[대한민국예술원 제공. 재판매 및 DB 금지]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "영화는 코로나19 사태 당시 요양원에 입원한 아버지를 찾아간 아들이 끝내 면회하지 못한 채 아버지의 죽음을 맞이하는 모습을 그렸다. AI가 임권택 감독 특유의 롱테이크 장면 연출을 그대로 따라 해 만들었다."
+                "x": "Weta FX, the New Zealand visual effects house behind “The Lord of the Rings” and “Avatar,” is teaming with the Taiwan Creative Content Agency (TAICCA) on a plan to turn Taiwan into a center for AI-driven screen production in Asia. The partnership will be formally launched on Nov. 6 at Taiwan Creative Content Fest (TCCF) in Taipei. The partnership will have three strands: joint investment, AI research and development, and training new talent. Specifics of the arrangement are being held back for the launch."
               },
               {
                 "t": "p",
-                "x": "또 배창호 감독의 '젊은 남자', 정지영 감독의 '내 이름은' 중 일부 장면을 AI로 수정해 공개한다. '젊은 남자' 속 화염에 쌓인 자동차 장면을 AI로 실감 나게 재현했고, '내 이름은'의 마지막 장면에 바람이 부는 효과를 AI로 추가했다. 중단편 AI 영화 우수작 8편을 선정해 상영하고, 감독을 초청해 관객과 대화하는 자리도 가진다."
+                "x": "TAICCA chair Sue Wang will appear at the event alongside three Weta FX executives: CEO Daniel Seah, chief technology officer Kimball Thurston and VFX supervisor Sheldon Stopsack."
+              },
+              {
+                "t": "p",
+                "x": "The pact pairs Taiwan’s AI and advanced-tech capabilities and its pool of creative talent with what Weta FX brings to the table – VFX know-how, a track record on international productions and a global network. The aim is to plug Taiwanese technologists and creatives into work across the worldwide screen business. For Seah, the deal carries a personal angle. He grew up in Taiwan."
+              },
+              {
+                "t": "p",
+                "x": "Taiwan’s Ministry of Culture set up TAICCA in 2019. Weta FX is based in Wellington, with outposts in Vancouver and Melbourne; titles in production include “The Lord of the Rings: The Hunt for Gollum” and Marvel Studios’ “Avengers: Doomsday.”"
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI learns Im Kwon-taek's style\nShort 'Confirmation' premieres",
-          "body": "Short film 'Confirmation', directed by AI trained on Im Kwon-taek's films, debuts at the Academy of Arts exhibition.",
-          "mini_headline": "AI directs in Im Kwon-taek's style",
+        "ko": {
+          "headline": "Weta FX·TAICCA\n대만을 AI 허브로",
+          "body": "양측은 11월 6일 TCCF에서 공동투자·AI R&D·인재 육성 협약을 공개한다.",
+          "mini_headline": "Weta FX, 대만에 베팅",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "The National Academy of Arts of the Republic of Korea will hold the '2026 National Academy of Arts Film Exhibition' on the 5th∼6th at the Seoul Film Center in Jung-gu, Seoul. At this year's exhibition, themed 'How Does Film Survive in the Age of Artificial Intelligence (AI)?', the short film 'Confirmation', which AI directed in director Im Kwon-taek's style after studying his films, will be shown for the first time."
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[Provided by the National Academy of Arts. Resale and DB use prohibited]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "The film depicts a son who visits his father, admitted to a nursing home during the COVID-19 crisis, but is never able to see him before his father dies. The AI made it by closely following the long-take staging characteristic of director Im Kwon-taek."
+                "x": "“반지의 제왕”과 “아바타”를 만든 뉴질랜드 시각효과 회사 Weta FX가 대만 문화콘텐츠진흥원(Taiwan Creative Content Agency, TAICCA)과 손잡고 대만을 아시아의 AI-driven 영상 제작 중심지로 키우는 계획에 나선다. 파트너십은 11월 6일 타이베이에서 열리는 Taiwan Creative Content Fest(TCCF)에서 공식 출범하며 공동 투자, AI 연구개발, 신규 인재 양성 세 갈래로 짜였다. 구체적인 내용은 출범 행사 때까지 공개하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Some scenes from director Bae Chang-ho's 'Young Man' and director Chung Ji-young's 'My Name Is' will also be shown after being modified with AI. The car scene engulfed in flames in 'Young Man' was recreated realistically with AI, and a wind-blowing effect was added with AI to the final scene of 'My Name Is'. The exhibition will also select and screen 8 outstanding short and mid-length AI films, and invite directors for conversations with audiences."
+                "x": "행사에는 TAICCA의 Sue Wang 이사장과 Weta FX 경영진인 CEO Daniel Seah, 최고기술책임자 Kimball Thurston, VFX 슈퍼바이저 Sheldon Stopsack 세 명이 함께한다."
+              },
+              {
+                "t": "p",
+                "x": "이번 협약은 대만의 AI·첨단 기술 역량과 크리에이티브 인재풀에 Weta FX의 VFX 노하우, 해외 작품 제작 이력, 글로벌 네트워크를 더한다. 목표는 대만의 기술 인력과 창작자를 전 세계 영상 산업의 작업에 잇는 것이다. Seah에게는 개인적인 의미도 있는 계약이다. 그는 대만에서 자랐다."
+              },
+              {
+                "t": "p",
+                "x": "TAICCA는 대만 문화부가 2019년 세운 기관이다. Weta FX는 웰링턴에 본사를 두고 밴쿠버와 멜버른에 거점을 운영한다. 지금 제작 중인 작품으로는 “반지의 제왕: 골룸 사냥(The Lord of the Rings: The Hunt for Gollum)”과 Marvel Studios의 “어벤져스: 둠스데이(Avengers: Doomsday)”가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがイム・グォンテク流\n短編『確認』を初公開",
-          "body": "イム・グォンテク作品を学習したAIが演出した短編『確認』が芸術院映画展で公開される。",
-          "mini_headline": "AIが演出したイム・グォンテク流",
+          "headline": "Weta FXとTAICCA\n台湾をAI拠点に",
+          "body": "両者は11月6日のTCCFで共同投資・AI R&D・人材育成の協定を発表する。",
+          "mini_headline": "Weta FX、台湾に賭ける",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韓民国芸術院は5∼6日、ソウル中区のソウル映画センターで「2026年大韓民国芸術院映画展」を開催する。「人工知能(AI)時代、映画はいかに生き残るか」をテーマとする今年の映画展では、AIがイム・グォンテク監督の作品を学んだうえで同監督のスタイルで演出した短編映画『確認』が初公開される。"
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[大韓民国芸術院提供。転売およびDB化禁止]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "映画は、コロナ19の流行当時、療養施設に入所した父を訪ねた息子が、ついに面会できないまま父の死を迎える姿を描いた。AIがイム・グォンテク監督特有のロングテイクの演出をそのまま再現して制作した。"
+                "x": "「ロード・オブ・ザ・リング」や「アバター」を手がけたニュージーランドの視覚効果会社Weta FXが、台湾クリエイティブ・コンテンツ・エージェンシー(Taiwan Creative Content Agency、TAICCA)と組み、台湾をアジアにおけるAI-drivenな映像制作の拠点にする計画に乗り出す。この提携は11月6日、台北で開かれるTaiwan Creative Content Fest(TCCF)で正式に始動する。提携は共同投資、AIの研究開発、新たな人材の育成という三つの柱で構成される。取り決めの詳細は始動時まで明らかにされない。"
               },
               {
                 "t": "p",
-                "x": "また、ペ・チャンホ監督の『若い男』、チョン・ジヨン監督の『私の名前は』の一部シーンをAIで修正して公開する。『若い男』の炎に包まれた車のシーンをAIでリアルに再現し、『私の名前は』のラストシーンには風が吹く効果をAIで加えた。中短編AI映画の優秀作8本を選んで上映し、監督を招いて観客と対話する場も設ける。"
+                "x": "イベントにはTAICCAのSue Wang董事長が、Weta FXの幹部3人、CEOのDaniel Seah、最高技術責任者のKimball Thurston、VFXスーパーバイザーのSheldon Stopsackと共に登壇する。"
+              },
+              {
+                "t": "p",
+                "x": "この協定は、台湾のAIと先端技術の力、そしてクリエイティブ人材の層を、Weta FXが持ち込むVFXのノウハウ、国際作品での実績、グローバルなネットワークと組み合わせるものだ。狙いは、台湾の技術者とクリエイターを世界の映像ビジネス全体の仕事につなぐことにある。Seahにとって、この提携には個人的な意味もある。彼は台湾で育った。"
+              },
+              {
+                "t": "p",
+                "x": "台湾文化部は2019年にTAICCAを設立した。Weta FXはウェリントンを拠点とし、バンクーバーとメルボルンにも拠点を持つ。制作中の作品には「The Lord of the Rings: The Hunt for Gollum」やMarvel Studiosの「Avengers: Doomsday」がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI习得林权泽风格\n短片《确认》首映",
-          "body": "学习林权泽电影的AI执导的短片《确认》将在艺术院电影展上公开。",
-          "mini_headline": "AI执导的林权泽风格",
+          "headline": "Weta FX与TAICCA\n欲打造台湾AI枢纽",
+          "body": "双方将于11月6日在TCCF上公布涵盖共同投资、AI研发与人才培养的合作协议。",
+          "mini_headline": "Weta FX押注台湾",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韩民国艺术院将于5∼6日在首尔中区首尔电影中心举办“2026年大韩民国艺术院电影展”。今年电影展以“人工智能(AI)时代,电影如何生存”为主题,将首次公开由AI学习林权泽导演的电影后,以其风格执导的短片《确认》。"
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[大韩民国艺术院提供。禁止转售及收录DB]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "影片讲述了COVID-19疫情期间,儿子前往探望住进疗养院的父亲,却始终未能见上一面,最终迎来父亲离世的故事。AI完整模仿林权泽导演标志性的长镜头调度制作了这部影片。"
+                "x": "曾打造《指环王》与《阿凡达》视效的新西兰视效公司Weta FX，正与台湾文化内容策进院(Taiwan Creative Content Agency，TAICCA)合作，计划把台湾打造为亚洲AI-driven影视制作中心。双方的合作将于11月6日在台北举行的Taiwan Creative Content Fest(TCCF)上正式启动。合作分为三条主线：共同投资、AI研发以及新人才培养。具体安排将留待启动时公布。"
               },
               {
                 "t": "p",
-                "x": "此外,还将公开用AI修改过的裴昶浩导演《年轻男人》和郑智泳导演《我的名字是》中的部分场景。《年轻男人》中被火焰包围的汽车场景用AI进行了逼真再现,《我的名字是》的最后一场戏则用AI添加了风吹的效果。展会还将评选并放映8部中短篇AI电影优秀作品,并邀请导演与观众交流。"
+                "x": "TAICCA董事长Sue Wang将与Weta FX的三位高管一同出席：CEO Daniel Seah、首席技术官Kimball Thurston和VFX总监Sheldon Stopsack。"
+              },
+              {
+                "t": "p",
+                "x": "该协议把台湾的AI与先进技术能力及其创意人才储备，与Weta FX带来的VFX专业经验、国际制作履历和全球网络结合起来，目标是让台湾的技术人员与创作者融入全球影视产业的工作。对Seah而言，这项合作还有个人层面的意义——他在台湾长大。"
+              },
+              {
+                "t": "p",
+                "x": "台湾文化部于2019年成立TAICCA。Weta FX总部位于惠灵顿，并在温哥华和墨尔本设有据点；在制作品包括《The Lord of the Rings: The Hunt for Gollum》和Marvel Studios的《Avengers: Doomsday》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI con el estilo de Im Kwon-taek\nestrena el corto 'Confirmación'",
-          "body": "El corto 'Confirmación', dirigido por una AI entrenada con filmes de Im Kwon-taek, se estrena en la Academia de Artes.",
-          "mini_headline": "AI dirige al estilo de Im Kwon-taek",
+          "headline": "Weta FX y TAICCA quieren hacer\nde Taiwán un polo de IA",
+          "body": "Weta FX y la TAICCA de Taiwán presentarán el 6 de noviembre un pacto de coinversión, I+D en IA y formación de talento.",
+          "mini_headline": "Weta FX apuesta por Taiwán",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Academia Nacional de las Artes de la República de Corea celebrará la 'Muestra de Cine 2026 de la Academia Nacional de las Artes' los días 5∼6 en el Seoul Film Center, en el distrito de Jung-gu, Seúl. En la muestra de este año, con el tema 'En la era de la inteligencia artificial (AI), ¿cómo sobrevive el cine?', se presentará por primera vez el cortometraje 'Confirmación', que una AI dirigió al estilo del director Im Kwon-taek tras estudiar sus películas."
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[Cortesía de la Academia Nacional de las Artes. Prohibida su reventa y uso en DB]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "La película retrata a un hijo que visita a su padre, internado en una residencia durante la crisis del COVID-19, y que nunca logra verlo antes de su muerte. La AI la realizó imitando fielmente los planos secuencia característicos del director Im Kwon-taek."
+                "x": "Weta FX, la empresa neozelandesa de efectos visuales detrás de “El Señor de los Anillos” y “Avatar”, se une a la Taiwan Creative Content Agency (TAICCA) en un plan para convertir Taiwán en un centro de producción audiovisual impulsada por IA (AI-driven) en Asia. La alianza se presentará formalmente el 6 de noviembre en el Taiwan Creative Content Fest (TCCF) de Taipéi. Tendrá tres ejes: inversión conjunta, investigación y desarrollo en IA, y formación de nuevo talento. Los detalles del acuerdo se reservan para el lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Además, se mostrarán algunas escenas de 'Un hombre joven', del director Bae Chang-ho, y de 'Mi nombre es', del director Chung Ji-young, modificadas con AI. La escena del coche envuelto en llamas de 'Un hombre joven' se recreó con realismo mediante AI, y a la escena final de 'Mi nombre es' se le añadió con AI un efecto de viento. Se seleccionarán y proyectarán 8 destacadas películas de AI de corta y media duración, y se invitará a los directores a dialogar con el público."
+                "x": "La presidenta de TAICCA, Sue Wang, participará en el evento junto a tres directivos de Weta FX: el CEO Daniel Seah, el director de tecnología Kimball Thurston y el supervisor de VFX Sheldon Stopsack."
+              },
+              {
+                "t": "p",
+                "x": "El pacto combina las capacidades de Taiwán en IA y tecnología avanzada, y su cantera de talento creativo, con lo que aporta Weta FX: experiencia en VFX, trayectoria en producciones internacionales y una red global. El objetivo es integrar a tecnólogos y creativos taiwaneses en proyectos de toda la industria audiovisual mundial. Para Seah, el acuerdo tiene un componente personal: creció en Taiwán."
+              },
+              {
+                "t": "p",
+                "x": "El Ministerio de Cultura de Taiwán creó TAICCA en 2019. Weta FX tiene su sede en Wellington, con oficinas en Vancouver y Melbourne; entre sus títulos en producción figuran “The Lord of the Rings: The Hunt for Gollum” y “Avengers: Doomsday”, de Marvel Studios."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI learns Im Kwon-taek's style\nShort 'Confirmation' premieres",
-          "body": "Short film 'Confirmation', directed by AI trained on Im Kwon-taek's films, debuts at the Academy of Arts exhibition.",
-          "mini_headline": "AI directs in Im Kwon-taek's style",
+        "ko": {
+          "headline": "Weta FX·TAICCA\n대만을 AI 허브로",
+          "body": "양측은 11월 6일 TCCF에서 공동투자·AI R&D·인재 육성 협약을 공개한다.",
+          "mini_headline": "Weta FX, 대만에 베팅",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "The National Academy of Arts of the Republic of Korea will hold the '2026 National Academy of Arts Film Exhibition' on the 5th∼6th at the Seoul Film Center in Jung-gu, Seoul. At this year's exhibition, themed 'How Does Film Survive in the Age of Artificial Intelligence (AI)?', the short film 'Confirmation', which AI directed in director Im Kwon-taek's style after studying his films, will be shown for the first time."
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[Provided by the National Academy of Arts. Resale and DB use prohibited]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "The film depicts a son who visits his father, admitted to a nursing home during the COVID-19 crisis, but is never able to see him before his father dies. The AI made it by closely following the long-take staging characteristic of director Im Kwon-taek."
+                "x": "“반지의 제왕”과 “아바타”를 만든 뉴질랜드 시각효과 회사 Weta FX가 대만 문화콘텐츠진흥원(Taiwan Creative Content Agency, TAICCA)과 손잡고 대만을 아시아의 AI-driven 영상 제작 중심지로 만드는 계획에 나선다. 이 파트너십은 11월 6일 타이베이에서 열리는 Taiwan Creative Content Fest(TCCF)에서 공식 출범한다. 파트너십은 공동 투자, AI 연구개발, 신규 인재 양성의 세 갈래로 이뤄진다. 구체적인 내용은 출범 행사 때까지 공개하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Some scenes from director Bae Chang-ho's 'Young Man' and director Chung Ji-young's 'My Name Is' will also be shown after being modified with AI. The car scene engulfed in flames in 'Young Man' was recreated realistically with AI, and a wind-blowing effect was added with AI to the final scene of 'My Name Is'. The exhibition will also select and screen 8 outstanding short and mid-length AI films, and invite directors for conversations with audiences."
+                "x": "행사에는 TAICCA의 Sue Wang 이사장과 Weta FX 경영진 세 명, 곧 CEO Daniel Seah, 최고기술책임자 Kimball Thurston, VFX 슈퍼바이저 Sheldon Stopsack이 함께한다."
+              },
+              {
+                "t": "p",
+                "x": "이번 협약은 대만의 AI·첨단 기술 역량과 크리에이티브 인재풀을 Weta FX가 지닌 강점, 곧 VFX 노하우와 해외 작품 제작 이력, 글로벌 네트워크와 결합한다. 대만의 기술 인력과 창작자를 전 세계 영상 산업의 작업에 연결하는 것이 목표다. Seah에게 이번 계약은 개인적인 의미도 있다. 그는 대만에서 자랐다."
+              },
+              {
+                "t": "p",
+                "x": "대만 문화부는 2019년 TAICCA를 설립했다. Weta FX는 웰링턴에 본사를 두고 밴쿠버와 멜버른에 거점을 운영한다. 제작 중인 작품으로는 “반지의 제왕: 골룸 사냥(The Lord of the Rings: The Hunt for Gollum)”과 Marvel Studios의 “어벤져스: 둠스데이(Avengers: Doomsday)”가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがイム・グォンテク流\n短編『確認』を初公開",
-          "body": "イム・グォンテク作品を学習したAIが演出した短編『確認』が芸術院映画展で公開される。",
-          "mini_headline": "AIが演出したイム・グォンテク流",
+          "headline": "Weta FXとTAICCA\n台湾をAI拠点に",
+          "body": "両者は11月6日のTCCFで共同投資・AI R&D・人材育成の協定を発表する。",
+          "mini_headline": "Weta FX、台湾に賭ける",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韓民国芸術院は5∼6日、ソウル中区のソウル映画センターで「2026年大韓民国芸術院映画展」を開催する。「人工知能(AI)時代、映画はいかに生き残るか」をテーマとする今年の映画展では、AIがイム・グォンテク監督の作品を学んだうえで同監督のスタイルで演出した短編映画『確認』が初公開される。"
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[大韓民国芸術院提供。転売およびDB化禁止]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "映画は、コロナ19の流行当時、療養施設に入所した父を訪ねた息子が、ついに面会できないまま父の死を迎える姿を描いた。AIがイム・グォンテク監督特有のロングテイクの演出をそのまま再現して制作した。"
+                "x": "「ロード・オブ・ザ・リング」や「アバター」を手がけたニュージーランドの視覚効果会社Weta FXが、台湾クリエイティブ・コンテンツ・エージェンシー(Taiwan Creative Content Agency、TAICCA)と組み、台湾をアジアにおけるAI-drivenな映像制作の拠点にする計画に乗り出す。この提携は11月6日、台北で開かれるTaiwan Creative Content Fest(TCCF)で正式に始動する。提携は共同投資、AIの研究開発、新たな人材の育成という三つの柱で構成される。取り決めの詳細は始動時まで明らかにされない。"
               },
               {
                 "t": "p",
-                "x": "また、ペ・チャンホ監督の『若い男』、チョン・ジヨン監督の『私の名前は』の一部シーンをAIで修正して公開する。『若い男』の炎に包まれた車のシーンをAIでリアルに再現し、『私の名前は』のラストシーンには風が吹く効果をAIで加えた。中短編AI映画の優秀作8本を選んで上映し、監督を招いて観客と対話する場も設ける。"
+                "x": "イベントにはTAICCAのSue Wang董事長が、Weta FXの幹部3人、CEOのDaniel Seah、最高技術責任者のKimball Thurston、VFXスーパーバイザーのSheldon Stopsackと共に登壇する。"
+              },
+              {
+                "t": "p",
+                "x": "この協定は、台湾のAIと先端技術の力、そしてクリエイティブ人材の層を、Weta FXが持ち込むVFXのノウハウ、国際作品での実績、グローバルなネットワークと組み合わせるものだ。狙いは、台湾の技術者とクリエイターを世界の映像ビジネス全体の仕事につなぐことにある。Seahにとって、この提携には個人的な意味もある。彼は台湾で育った。"
+              },
+              {
+                "t": "p",
+                "x": "台湾文化部は2019年にTAICCAを設立した。Weta FXはウェリントンを拠点とし、バンクーバーとメルボルンにも拠点を持つ。制作中の作品には「The Lord of the Rings: The Hunt for Gollum」やMarvel Studiosの「Avengers: Doomsday」がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI习得林权泽风格\n短片《确认》首映",
-          "body": "学习林权泽电影的AI执导的短片《确认》将在艺术院电影展上公开。",
-          "mini_headline": "AI执导的林权泽风格",
+          "headline": "Weta FX与TAICCA\n欲打造台湾AI枢纽",
+          "body": "双方将于11月6日在TCCF上公布涵盖共同投资、AI研发与人才培养的合作协议。",
+          "mini_headline": "Weta FX押注台湾",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韩民国艺术院将于5∼6日在首尔中区首尔电影中心举办“2026年大韩民国艺术院电影展”。今年电影展以“人工智能(AI)时代,电影如何生存”为主题,将首次公开由AI学习林权泽导演的电影后,以其风格执导的短片《确认》。"
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[大韩民国艺术院提供。禁止转售及收录DB]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "影片讲述了COVID-19疫情期间,儿子前往探望住进疗养院的父亲,却始终未能见上一面,最终迎来父亲离世的故事。AI完整模仿林权泽导演标志性的长镜头调度制作了这部影片。"
+                "x": "曾打造《指环王》与《阿凡达》视效的新西兰视效公司Weta FX，正与台湾文化内容策进院(Taiwan Creative Content Agency，TAICCA)合作，计划把台湾打造为亚洲AI-driven影视制作中心。双方的合作将于11月6日在台北举行的Taiwan Creative Content Fest(TCCF)上正式启动。合作分为三条主线：共同投资、AI研发以及新人才培养。具体安排将留待启动时公布。"
               },
               {
                 "t": "p",
-                "x": "此外,还将公开用AI修改过的裴昶浩导演《年轻男人》和郑智泳导演《我的名字是》中的部分场景。《年轻男人》中被火焰包围的汽车场景用AI进行了逼真再现,《我的名字是》的最后一场戏则用AI添加了风吹的效果。展会还将评选并放映8部中短篇AI电影优秀作品,并邀请导演与观众交流。"
+                "x": "TAICCA董事长Sue Wang将与Weta FX的三位高管一同出席：CEO Daniel Seah、首席技术官Kimball Thurston和VFX总监Sheldon Stopsack。"
+              },
+              {
+                "t": "p",
+                "x": "该协议把台湾的AI与先进技术能力及其创意人才储备，与Weta FX带来的VFX专业经验、国际制作履历和全球网络结合起来，目标是让台湾的技术人员与创作者融入全球影视产业的工作。对Seah而言，这项合作还有个人层面的意义——他在台湾长大。"
+              },
+              {
+                "t": "p",
+                "x": "台湾文化部于2019年成立TAICCA。Weta FX总部位于惠灵顿，并在温哥华和墨尔本设有据点；在制作品包括《The Lord of the Rings: The Hunt for Gollum》和Marvel Studios的《Avengers: Doomsday》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI con el estilo de Im Kwon-taek\nestrena el corto 'Confirmación'",
-          "body": "El corto 'Confirmación', dirigido por una AI entrenada con filmes de Im Kwon-taek, se estrena en la Academia de Artes.",
-          "mini_headline": "AI dirige al estilo de Im Kwon-taek",
+          "headline": "Weta FX y TAICCA quieren hacer\nde Taiwán un polo de IA",
+          "body": "Weta FX y la TAICCA de Taiwán presentarán el 6 de noviembre un pacto de coinversión, I+D en IA y formación de talento.",
+          "mini_headline": "Weta FX apuesta por Taiwán",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Academia Nacional de las Artes de la República de Corea celebrará la 'Muestra de Cine 2026 de la Academia Nacional de las Artes' los días 5∼6 en el Seoul Film Center, en el distrito de Jung-gu, Seúl. En la muestra de este año, con el tema 'En la era de la inteligencia artificial (AI), ¿cómo sobrevive el cine?', se presentará por primera vez el cortometraje 'Confirmación', que una AI dirigió al estilo del director Im Kwon-taek tras estudiar sus películas."
-              },
-              {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102043400005_01_i_P4.jpg",
-                "cap": "[Cortesía de la Academia Nacional de las Artes. Prohibida su reventa y uso en DB]"
+                "src": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png?w=1000&h=667&crop=1",
+                "cap": "©Warner Bros. Pictures/courtesy Everett Collection"
               },
               {
                 "t": "p",
-                "x": "La película retrata a un hijo que visita a su padre, internado en una residencia durante la crisis del COVID-19, y que nunca logra verlo antes de su muerte. La AI la realizó imitando fielmente los planos secuencia característicos del director Im Kwon-taek."
+                "x": "Weta FX, la empresa neozelandesa de efectos visuales detrás de “El Señor de los Anillos” y “Avatar”, se une a la Taiwan Creative Content Agency (TAICCA) en un plan para convertir Taiwán en un centro de producción audiovisual impulsada por IA (AI-driven) en Asia. La alianza se presentará formalmente el 6 de noviembre en el Taiwan Creative Content Fest (TCCF) de Taipéi. Tendrá tres ejes: inversión conjunta, investigación y desarrollo en IA, y formación de nuevo talento. Los detalles del acuerdo se reservan para el lanzamiento."
               },
               {
                 "t": "p",
-                "x": "Además, se mostrarán algunas escenas de 'Un hombre joven', del director Bae Chang-ho, y de 'Mi nombre es', del director Chung Ji-young, modificadas con AI. La escena del coche envuelto en llamas de 'Un hombre joven' se recreó con realismo mediante AI, y a la escena final de 'Mi nombre es' se le añadió con AI un efecto de viento. Se seleccionarán y proyectarán 8 destacadas películas de AI de corta y media duración, y se invitará a los directores a dialogar con el público."
+                "x": "La presidenta de TAICCA, Sue Wang, participará en el evento junto a tres directivos de Weta FX: el CEO Daniel Seah, el director de tecnología Kimball Thurston y el supervisor de VFX Sheldon Stopsack."
+              },
+              {
+                "t": "p",
+                "x": "El pacto combina las capacidades de Taiwán en IA y tecnología avanzada, y su cantera de talento creativo, con lo que aporta Weta FX: experiencia en VFX, trayectoria en producciones internacionales y una red global. El objetivo es integrar a tecnólogos y creativos taiwaneses en proyectos de toda la industria audiovisual mundial. Para Seah, el acuerdo tiene un componente personal: creció en Taiwán."
+              },
+              {
+                "t": "p",
+                "x": "El Ministerio de Cultura de Taiwán creó TAICCA en 2019. Weta FX tiene su sede en Wellington, con oficinas en Vancouver y Melbourne; entre sus títulos en producción figuran “The Lord of the Rings: The Hunt for Gollum” y “Avengers: Doomsday”, de Marvel Studios."
               }
             ]
           }
@@ -839,15 +707,15 @@
       }
     },
     {
-      "id": "hallmark-adopting-stnick-ai",
+      "id": "siff-ai-cinema-special",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Hallmark 성탄 영화\nAI 소품 논란",
-      "body": "Hallmark 성탄 영화 간판·소품이 AI-generated 같다며 반발이 인다.",
-      "mini_headline": "Hallmark AI 소품 논란",
+      "headline": "일곱 감독의 AI 단편\nSIFF에서 상영",
+      "body": "이명세 등 일곱 감독이 SIFF를 위해 AI 창작자와 각각 단편을 만들었다.",
+      "mini_headline": "SIFF에서 감독들, AI와 협업",
       "tool": "Movies",
-      "source": "TVLine",
-      "url": "https://www.tvline.com/2305320/hallmark-fans-furious-ai-christmas-movie-adopting-st-nick/",
+      "source": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/entertainment/seven-directors-to-unveil-ai-short-films-at-seoul-independent-film-festival/12955399",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -855,185 +723,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-            "cap": "Hallmark Media/Steven Ackerman"
+            "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+            "cap": "안상훈 감독의 AI 영화 “The Signal” 스틸"
           },
           {
             "t": "p",
-            "x": "Hallmark의 새 크리스마스 영화 \"Adopting St. Nick\"은 AI를 썼다는 의혹 탓에 팬들 반응이 썩 좋지 않았다. 돌아가신 아버지의 철물점을 꾸려 가는 싱글맘 Maren(Amy Groening)의 이야기다. 입양한 딸 Leah(Taylor Blake)는 산타클로스처럼 보이는(실제로 산타일지도 모르는) Kris(Randy Apostle)라는 남자와 짝을 이룬다."
+            "x": "생성형 AI로 만든 단편영화 일곱 편이 11월 25일부터 12월 4일까지 열리는 올해 서울독립영화제(SIFF)에서 상영된다. 이명세, 신연식, 장철수, 안상훈, 박신우, 조바른, 김다민 감독이 영화제 ‘AI 시네마 스페셜(AI Cinema Special)’ 섹션용으로 기획된 프로젝트에서 각자 AI 창작자와 손잡고 단편을 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "김동현 집행위원장은 “AI가 기존 창작자를 대체하기보다 창작 과정에서 의미 있는 조력자가 될 수 있다고 믿는다”고 말했다."
           },
           {
             "t": "img",
-            "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-            "cap": "Hallmark Media/Steven Ackerman"
+            "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+            "cap": "박신우 감독의 AI 영화 “Girl with a blade : happy day” 스틸"
           },
           {
             "t": "p",
-            "x": "HallmarkMovies 서브레딧에는 \"AI in Adopting St. Nick\"이라는 제목으로 \"영화가 막 시작했는데 소품에서 보이는 건 온통 AI 슬롭뿐이었다\"는 글이 올라왔다. 다른 사용자들도 이 영화, 특히 여러 그래픽에 AI 손길이 크게 닿은 것 같다며 맞장구쳤다. 한 사용자는 \"가게 간판 상당수가 AI로 만든 것 같다\"고, 또 다른 사용자는 \"포스터와 메모 하나하나 전부\"라고 썼다."
+            "x": "일부 작품은 시각효과에 드는 시간과 비용 탓에 실사로는 구현하기 어려웠을 개념을 다룬다. 감독들은 작품의 소재와 장르에 맞는 상용 생성형 AI 모델을 골라 썼고, 기술은 Kling AI, BytePlus, TapNow, MiniMax, ElevenLabs가 제공했다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+            "cap": "장철수 감독의 AI 영화 “End of Species” 스틸"
           },
           {
             "t": "p",
-            "x": "다른 Hallmark 작품에서도 AI를 봤다는 사용자가 여럿이었다. Hallmark가 제작에 실제로 AI를 썼든 아니든, 그 가능성만으로도 논란은 이어질 것이다. TVLine은 Hallmark에 입장을 요청했다."
+            "x": "AI 영화 쇼케이스는 11월 27일 서울 남부의 CGV 압구정에서 열린다. 상영과 함께 제작 과정과 AI 활용을 소개하는 발표도 이어진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hallmark viewers flag AI props\nin a new Christmas movie",
-          "body": "Viewers say signs and props in Hallmark's latest Christmas movie look AI-generated, sparking a backlash over AI use.",
-          "mini_headline": "Hallmark AI props backlash",
+          "headline": "Seven directors bring\nAI shorts to SIFF",
+          "body": "For SIFF's AI Cinema Special, seven directors including Lee Myung-se each paired with AI creators on a short film.",
+          "mini_headline": "Directors team with AI at SIFF",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "A still from Ahn Sang-hoon's AI film “The Signal”"
               },
               {
                 "t": "p",
-                "x": "One of Hallmark's new Christmas movies, \"Adopting St. Nick,\" has left fans feeling less than jolly — and it's all because of purported AI usage. The film follows Maren (Amy Groening), a single mother running her late father's hardware store, whose adopted daughter Leah (Taylor Blake) is paired with a man named Kris (Randy Apostle), who looks like (and could be) Santa Claus."
+                "x": "Seven short films created using generative AI will be screened at this year’s Seoul Independent Film Festival (SIFF), which runs from Nov. 25 to Dec. 4. Directors Lee Myung-se, Shin Youn-shick, Jang Cheol-soo, Ahn Sang-hoon, Park Sin-woo, Jo Ba-reun and Kim Da-min each collaborated with AI creators to produce a short film as part of a project organized for the festival’s “AI Cinema Special” section."
+              },
+              {
+                "t": "p",
+                "x": "“We believe that AI can serve as a meaningful assistant in the creative process rather than replace existing creators,” said Kim Dong-hyun, the executive director of the festival."
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "A still from Park Sin-woo's AI film “Girl with a blade : happy day”"
               },
               {
                 "t": "p",
-                "x": "In the HallmarkMovies subreddit, a thread titled \"AI in Adopting St. Nick\" said: \"The movie literally just started and all I could see was AI slop on the props.\" Other users agreed the movie — particularly various graphics — looked heavily aided by AI. One wrote, \"I notice many of the store signs are made by AI\"; another, \"Every single poster and note.\""
+                "x": "Some of the films explore concepts that would have been difficult to achieve in live-action because of the time and expense required for visual effects. The directors used commercially available generative AI models selected to suit their film’s subject matter and genre; Kling AI, BytePlus, TapNow, MiniMax and ElevenLabs provided the technology."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "A still from Jang Cheol-soo's AI film “End of Species”"
               },
               {
                 "t": "p",
-                "x": "Several users said they had noticed AI in other Hallmark projects too. Whether or not Hallmark actually used AI during the production, even the possibility is a topic that will continue to ruffle feathers. TVLine has reached out to Hallmark for comment."
+                "x": "A showcase for the AI films will take place at CGV Apgujeong in southern Seoul on Nov. 27, with screenings and presentations on their production processes and the use of AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Hallmark 성탄 영화\nAI 소품 논란",
-          "body": "Hallmark 성탄 영화 간판·소품이 AI-generated 같다며 반발이 인다.",
-          "mini_headline": "Hallmark AI 소품 논란",
+          "headline": "일곱 감독의 AI 단편\nSIFF에서 상영",
+          "body": "이명세 등 일곱 감독이 SIFF를 위해 AI 창작자와 각각 단편을 만들었다.",
+          "mini_headline": "SIFF에서 감독들, AI와 협업",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "안상훈 감독의 AI 영화 “The Signal” 스틸"
               },
               {
                 "t": "p",
-                "x": "Hallmark의 새 크리스마스 영화 \"Adopting St. Nick\"은 AI를 썼다는 의혹 탓에 팬들 반응이 썩 좋지 않았다. 돌아가신 아버지의 철물점을 꾸려 가는 싱글맘 Maren(Amy Groening)의 이야기다. 입양한 딸 Leah(Taylor Blake)는 산타클로스처럼 보이는(실제로 산타일지도 모르는) Kris(Randy Apostle)라는 남자와 짝을 이룬다."
+                "x": "생성형 AI로 만든 단편영화 일곱 편이 11월 25일부터 12월 4일까지 열리는 올해 서울독립영화제(SIFF)에서 상영된다. 이명세, 신연식, 장철수, 안상훈, 박신우, 조바른, 김다민 감독이 영화제 ‘AI 시네마 스페셜(AI Cinema Special)’ 섹션용으로 기획된 프로젝트에서 각자 AI 창작자와 손잡고 단편을 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "김동현 집행위원장은 “AI가 기존 창작자를 대체하기보다 창작 과정에서 의미 있는 조력자가 될 수 있다고 믿는다”고 말했다."
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "박신우 감독의 AI 영화 “Girl with a blade : happy day” 스틸"
               },
               {
                 "t": "p",
-                "x": "HallmarkMovies 서브레딧에는 \"AI in Adopting St. Nick\"이라는 제목으로 \"영화가 막 시작했는데 소품에서 보이는 건 온통 AI 슬롭뿐이었다\"는 글이 올라왔다. 다른 사용자들도 이 영화, 특히 여러 그래픽에 AI 손길이 크게 닿은 것 같다며 맞장구쳤다. 한 사용자는 \"가게 간판 상당수가 AI로 만든 것 같다\"고, 또 다른 사용자는 \"포스터와 메모 하나하나 전부\"라고 썼다."
+                "x": "일부 작품은 시각효과에 드는 시간과 비용 탓에 실사로는 구현하기 어려웠을 개념을 다룬다. 감독들은 작품의 소재와 장르에 맞는 상용 생성형 AI 모델을 골라 썼고, 기술은 Kling AI, BytePlus, TapNow, MiniMax, ElevenLabs가 제공했다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "장철수 감독의 AI 영화 “End of Species” 스틸"
               },
               {
                 "t": "p",
-                "x": "다른 Hallmark 작품에서도 AI를 봤다는 사용자가 여럿이었다. Hallmark가 제작에 실제로 AI를 썼든 아니든, 그 가능성만으로도 논란은 이어질 것이다. TVLine은 Hallmark에 입장을 요청했다."
+                "x": "AI 영화 쇼케이스는 11월 27일 서울 남부의 CGV 압구정에서 열린다. 상영과 함께 제작 과정과 AI 활용을 소개하는 발표도 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hallmark映画の小道具\nAI製と視聴者が指摘",
-          "body": "Hallmark新作クリスマス映画の看板や小道具がAI-generatedだと反発を招いた。",
-          "mini_headline": "Hallmark AI小道具騒動",
+          "headline": "7人の監督のAI短編\nSIFFで上映",
+          "body": "李明世ら監督7人が、SIFFのAI特集でAIクリエイターと組み短編を制作した。",
+          "mini_headline": "SIFFで監督たちがAIと協働",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "Ahn Sang-hoon監督のAI映画「The Signal」のスチール"
               },
               {
                 "t": "p",
-                "x": "Hallmarkの新作クリスマス映画の一つ『Adopting St. Nick』は、AI使用の疑いのせいでファンを楽しい気分にさせられずにいる。物語の主人公は、亡き父の金物店を営むシングルマザーのMaren(Amy Groening)だ。彼女の養女Leah(Taylor Blake)は、サンタクロースのように見える(そして本物かもしれない)Kris(Randy Apostle)という男性とペアになる。"
+                "x": "生成AIで作られた短編映画7本が、11月25日から12月4日まで開かれる今年のソウル独立映画祭(SIFF)で上映される。Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun、Kim Da-minの各監督は、映画祭の「AI Cinema Special」部門のために企画されたプロジェクトの一環として、それぞれAIクリエイターと協働して短編を制作した。"
+              },
+              {
+                "t": "p",
+                "x": "映画祭のエグゼクティブ・ディレクターKim Dong-hyunは「AIは既存のクリエイターに取って代わるのではなく、創作の過程で意味のある助手になり得ると考えている」と述べた。"
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "Park Sin-woo監督のAI映画「Girl with a blade : happy day」のスチール"
               },
               {
                 "t": "p",
-                "x": "HallmarkMoviesサブレディットでは、「AI in Adopting St. Nick」と題したスレッドに「映画が始まったばかりなのに、小道具にはAIスロップしか見えなかった」との投稿があった。ほかのユーザーも、映画、特にさまざまなグラフィックがAIに大きく頼っているように見えると同意した。あるユーザーは「店の看板の多くがAIで作られているのに気づいた」と書き、別のユーザーは「ポスターもメモも一つ残らず」と書いた。"
+                "x": "一部の作品は、視覚効果にかかる時間と費用のために実写では実現が難しかったであろうコンセプトに挑んでいる。監督たちは作品の題材とジャンルに合わせて選んだ市販の生成AIモデルを使い、Kling AI、BytePlus、TapNow、MiniMax、ElevenLabsが技術を提供した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "Jang Cheol-soo監督のAI映画「End of Species」のスチール"
               },
               {
                 "t": "p",
-                "x": "複数のユーザーが、ほかのHallmark作品でもAIに気づいたと述べている。Hallmarkが実際に制作でAIを使ったかどうかにかかわらず、その可能性だけでも今後も波紋を呼ぶ話題だ。TVLineはHallmarkにコメントを求めている。"
+                "x": "AI映画のショーケースは11月27日、ソウル南部のCGV狎鴎亭で開かれ、上映に加えて制作過程とAI活用についての発表が行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hallmark圣诞新片\n观众质疑道具用AI制作",
-          "body": "观众称Hallmark新圣诞片的招牌和道具像AI-generated,引发对AI使用的反弹。",
-          "mini_headline": "Hallmark AI道具风波",
+          "headline": "七位导演携AI短片\n亮相SIFF",
+          "body": "在SIFF的AI电影特别单元，李明世等七位导演各与AI创作者合作完成一部短片。",
+          "mini_headline": "SIFF导演携手AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "Ahn Sang-hoon执导的AI电影《The Signal》剧照"
               },
               {
                 "t": "p",
-                "x": "Hallmark的一部圣诞新片《Adopting St. Nick》因涉嫌使用AI,让粉丝们高兴不起来。影片讲述了经营已故父亲五金店的单亲妈妈Maren(Amy Groening)的故事,她的养女Leah(Taylor Blake)与一位名叫Kris(Randy Apostle)、看起来像(也可能就是)圣诞老人的男子结成一对。"
+                "x": "七部用生成式AI制作的短片将在今年的首尔独立电影节(SIFF)上放映，电影节于11月25日至12月4日举行。导演Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun和Kim Da-min各自与AI创作者合作完成一部短片，这是电影节为“AI Cinema Special”单元策划的项目的一部分。"
+              },
+              {
+                "t": "p",
+                "x": "电影节执行总监Kim Dong-hyun表示：“我们相信，AI可以在创作过程中成为有意义的助手，而不是取代现有的创作者。”"
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "Park Sin-woo执导的AI电影《Girl with a blade : happy day》剧照"
               },
               {
                 "t": "p",
-                "x": "在HallmarkMovies子版块中,一个题为“AI in Adopting St. Nick”的帖子写道:“电影才刚开始,我在道具上看到的全是AI垃圾内容。”其他用户也认为这部电影,尤其是各种图像,看起来大量借助了AI。有人写道:“我注意到很多店铺招牌都是AI做的”;另一人写道:“每一张海报和便条都是。”"
+                "x": "部分作品探索了因视效所需的时间和成本而难以用实拍实现的构想。导演们使用了根据影片题材和类型挑选的商用生成式AI模型，技术由Kling AI、BytePlus、TapNow、MiniMax和ElevenLabs提供。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "Jang Cheol-soo执导的AI电影《End of Species》剧照"
               },
               {
                 "t": "p",
-                "x": "多名用户表示,他们在Hallmark的其他作品中也注意到了AI。无论Hallmark是否真的在制作中使用了AI,仅仅这种可能性就会持续引发争议。TVLine已联系Hallmark请求置评。"
+                "x": "这批AI电影的展映会将于11月27日在首尔南部的CGV狎鸥亭举行，届时将放映影片，并介绍制作过程与AI的使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Público de Hallmark ve utilería\ncon AI en un filme navideño",
-          "body": "Espectadores ven carteles y utilería AI-generated en la nueva película navideña de Hallmark y critican el uso de AI.",
-          "mini_headline": "Polémica por utilería AI en Hallmark",
+          "headline": "Siete directores llevan\ncortos con IA al SIFF",
+          "body": "Para el AI Cinema Special del SIFF, siete directores como Lee Myung-se hicieron cortos con creadores de IA.",
+          "mini_headline": "Directores y IA en el SIFF",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "Fotograma de la película de IA de Ahn Sang-hoon “The Signal”"
               },
               {
                 "t": "p",
-                "x": "Una de las nuevas películas navideñas de Hallmark, \"Adopting St. Nick\", ha dejado a los fans menos que alegres, y todo por un supuesto uso de AI. La película sigue a Maren (Amy Groening), una madre soltera que dirige la ferretería de su difunto padre, cuya hija adoptiva Leah (Taylor Blake) termina emparejada con un hombre llamado Kris (Randy Apostle), que parece (y podría ser) Santa Claus."
+                "x": "Siete cortometrajes creados con IA generativa se proyectarán en la edición de este año del Seoul Independent Film Festival (SIFF), que se celebra del 25 de noviembre al 4 de diciembre. Los directores Lee Myung-se, Shin Youn-shick, Jang Cheol-soo, Ahn Sang-hoon, Park Sin-woo, Jo Ba-reun y Kim Da-min colaboraron cada uno con creadores de IA para producir un corto, dentro de un proyecto organizado para la sección “AI Cinema Special” del festival."
+              },
+              {
+                "t": "p",
+                "x": "“Creemos que la IA puede ser un asistente significativo en el proceso creativo, en lugar de reemplazar a los creadores existentes”, dijo Kim Dong-hyun, director ejecutivo del festival."
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "Fotograma de la película de IA de Park Sin-woo “Girl with a blade : happy day”"
               },
               {
                 "t": "p",
-                "x": "En el subreddit HallmarkMovies, un hilo titulado \"AI in Adopting St. Nick\" decía: \"La película literalmente acaba de empezar y lo único que veía era AI slop en la utilería\". Otros usuarios coincidieron en que la película —en particular varios gráficos— parecía muy apoyada en AI. Uno escribió: \"Noto que muchos de los letreros de las tiendas están hechos con AI\"; otro: \"Cada póster y cada nota\"."
+                "x": "Algunas de las películas exploran conceptos que habrían sido difíciles de lograr en imagen real por el tiempo y el costo que exigen los efectos visuales. Los directores usaron modelos comerciales de IA generativa elegidos según el tema y el género de cada película; Kling AI, BytePlus, TapNow, MiniMax y ElevenLabs aportaron la tecnología."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "Fotograma de la película de IA de Jang Cheol-soo “End of Species”"
               },
               {
                 "t": "p",
-                "x": "Varios usuarios dijeron haber notado AI también en otros proyectos de Hallmark. Haya usado o no Hallmark AI durante la producción, incluso la posibilidad es un tema que seguirá generando polémica. TVLine se ha puesto en contacto con Hallmark para pedir comentarios."
+                "x": "Una muestra de las películas de IA tendrá lugar en CGV Apgujeong, en el sur de Seúl, el 27 de noviembre, con proyecciones y presentaciones sobre sus procesos de producción y el uso de la IA."
               }
             ]
           }
@@ -1041,129 +963,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Hallmark 성탄 영화\nAI 소품 논란",
-          "body": "Hallmark 성탄 영화 간판·소품이 AI-generated 같다는 반발이 인다.",
-          "mini_headline": "Hallmark AI 소품 논란",
+          "headline": "일곱 감독의 AI 단편\nSIFF에서 상영",
+          "body": "이명세 등 일곱 감독이 SIFF를 위해 AI 창작자와 각각 단편을 만들었다.",
+          "mini_headline": "SIFF에서 감독들, AI와 협업",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "안상훈 감독의 AI 영화 “The Signal” 스틸"
               },
               {
                 "t": "p",
-                "x": "Hallmark의 새 크리스마스 영화 \"Adopting St. Nick\"이 AI를 썼다는 의혹 때문에 팬들을 그다지 즐겁게 하지 못했다. 영화는 돌아가신 아버지의 철물점을 운영하는 싱글맘 Maren(Amy Groening)의 이야기로, 그의 입양한 딸 Leah(Taylor Blake)는 산타클로스처럼 보이는(그리고 실제로 산타일 수도 있는) Kris(Randy Apostle)라는 남자와 짝을 이룬다."
+                "x": "생성형 AI로 만든 단편영화 일곱 편이 11월 25일부터 12월 4일까지 열리는 올해 서울독립영화제(SIFF)에서 상영된다. 이명세, 신연식, 장철수, 안상훈, 박신우, 조바른, 김다민 감독은 영화제의 ‘AI 시네마 스페셜(AI Cinema Special)’ 섹션을 위해 기획된 프로젝트의 하나로 각각 AI 창작자와 협업해 단편을 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "김동현 집행위원장은 “AI가 기존 창작자를 대체하기보다 창작 과정에서 의미 있는 조력자가 될 수 있다고 믿는다”고 말했다."
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "박신우 감독의 AI 영화 “Girl with a blade : happy day” 스틸"
               },
               {
                 "t": "p",
-                "x": "HallmarkMovies 서브레딧의 \"AI in Adopting St. Nick\"이라는 제목의 글에는 \"영화가 막 시작했는데 소품에서 보이는 건 온통 AI 슬롭뿐이었다\"는 내용이 올라왔다. 다른 사용자들도 영화, 특히 여러 그래픽이 AI의 도움을 크게 받은 것 같다는 데 동의했다. 한 사용자는 \"가게 간판 상당수가 AI로 만든 것 같다\"고, 또 다른 사용자는 \"포스터와 메모 하나하나 전부\"라고 썼다."
+                "x": "일부 작품은 시각효과에 드는 시간과 비용 때문에 실사로는 구현하기 어려웠을 개념을 탐구한다. 감독들은 작품의 소재와 장르에 맞춰 고른 상용 생성형 AI 모델을 사용했고, Kling AI, BytePlus, TapNow, MiniMax, ElevenLabs가 기술을 제공했다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "장철수 감독의 AI 영화 “End of Species” 스틸"
               },
               {
                 "t": "p",
-                "x": "여러 사용자는 다른 Hallmark 작품에서도 AI를 발견했다고 말했다. Hallmark가 실제로 제작 과정에서 AI를 썼는지와 상관없이, 그 가능성만으로도 계속 논란을 부를 주제다. TVLine은 Hallmark에 입장을 요청했다."
+                "x": "AI 영화 쇼케이스는 11월 27일 서울 남부의 CGV 압구정에서 열리며, 상영과 함께 제작 과정과 AI 활용에 관한 발표가 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hallmark映画の小道具\nAI製と視聴者が指摘",
-          "body": "Hallmark新作クリスマス映画の看板や小道具がAI-generatedだと反発を招いた。",
-          "mini_headline": "Hallmark AI小道具騒動",
+          "headline": "7人の監督のAI短編\nSIFFで上映",
+          "body": "李明世ら監督7人が、SIFFのAI特集でAIクリエイターと組み短編を制作した。",
+          "mini_headline": "SIFFで監督たちがAIと協働",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "Ahn Sang-hoon監督のAI映画「The Signal」のスチール"
               },
               {
                 "t": "p",
-                "x": "Hallmarkの新作クリスマス映画の一つ『Adopting St. Nick』は、AI使用の疑いのせいでファンを楽しい気分にさせられずにいる。物語の主人公は、亡き父の金物店を営むシングルマザーのMaren(Amy Groening)だ。彼女の養女Leah(Taylor Blake)は、サンタクロースのように見える(そして本物かもしれない)Kris(Randy Apostle)という男性とペアになる。"
+                "x": "生成AIで作られた短編映画7本が、11月25日から12月4日まで開かれる今年のソウル独立映画祭(SIFF)で上映される。Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun、Kim Da-minの各監督は、映画祭の「AI Cinema Special」部門のために企画されたプロジェクトの一環として、それぞれAIクリエイターと協働して短編を制作した。"
+              },
+              {
+                "t": "p",
+                "x": "映画祭のエグゼクティブ・ディレクターKim Dong-hyunは「AIは既存のクリエイターに取って代わるのではなく、創作の過程で意味のある助手になり得ると考えている」と述べた。"
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "Park Sin-woo監督のAI映画「Girl with a blade : happy day」のスチール"
               },
               {
                 "t": "p",
-                "x": "HallmarkMoviesサブレディットでは、「AI in Adopting St. Nick」と題したスレッドに「映画が始まったばかりなのに、小道具にはAIスロップしか見えなかった」との投稿があった。ほかのユーザーも、映画、特にさまざまなグラフィックがAIに大きく頼っているように見えると同意した。あるユーザーは「店の看板の多くがAIで作られているのに気づいた」と書き、別のユーザーは「ポスターもメモも一つ残らず」と書いた。"
+                "x": "一部の作品は、視覚効果にかかる時間と費用のために実写では実現が難しかったであろうコンセプトに挑んでいる。監督たちは作品の題材とジャンルに合わせて選んだ市販の生成AIモデルを使い、Kling AI、BytePlus、TapNow、MiniMax、ElevenLabsが技術を提供した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "Jang Cheol-soo監督のAI映画「End of Species」のスチール"
               },
               {
                 "t": "p",
-                "x": "複数のユーザーが、ほかのHallmark作品でもAIに気づいたと述べている。Hallmarkが実際に制作でAIを使ったかどうかにかかわらず、その可能性だけでも今後も波紋を呼ぶ話題だ。TVLineはHallmarkにコメントを求めている。"
+                "x": "AI映画のショーケースは11月27日、ソウル南部のCGV狎鴎亭で開かれ、上映に加えて制作過程とAI活用についての発表が行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hallmark圣诞新片\n观众质疑道具用AI制作",
-          "body": "观众称Hallmark新圣诞片的招牌和道具像AI-generated,引发对AI使用的反弹。",
-          "mini_headline": "Hallmark AI道具风波",
+          "headline": "七位导演携AI短片\n亮相SIFF",
+          "body": "在SIFF的AI电影特别单元，李明世等七位导演各与AI创作者合作完成一部短片。",
+          "mini_headline": "SIFF导演携手AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "Ahn Sang-hoon执导的AI电影《The Signal》剧照"
               },
               {
                 "t": "p",
-                "x": "Hallmark的一部圣诞新片《Adopting St. Nick》因涉嫌使用AI,让粉丝们高兴不起来。影片讲述了经营已故父亲五金店的单亲妈妈Maren(Amy Groening)的故事,她的养女Leah(Taylor Blake)与一位名叫Kris(Randy Apostle)、看起来像(也可能就是)圣诞老人的男子结成一对。"
+                "x": "七部用生成式AI制作的短片将在今年的首尔独立电影节(SIFF)上放映，电影节于11月25日至12月4日举行。导演Lee Myung-se、Shin Youn-shick、Jang Cheol-soo、Ahn Sang-hoon、Park Sin-woo、Jo Ba-reun和Kim Da-min各自与AI创作者合作完成一部短片，这是电影节为“AI Cinema Special”单元策划的项目的一部分。"
+              },
+              {
+                "t": "p",
+                "x": "电影节执行总监Kim Dong-hyun表示：“我们相信，AI可以在创作过程中成为有意义的助手，而不是取代现有的创作者。”"
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "Park Sin-woo执导的AI电影《Girl with a blade : happy day》剧照"
               },
               {
                 "t": "p",
-                "x": "在HallmarkMovies子版块中,一个题为“AI in Adopting St. Nick”的帖子写道:“电影才刚开始,我在道具上看到的全是AI垃圾内容。”其他用户也认为这部电影,尤其是各种图像,看起来大量借助了AI。有人写道:“我注意到很多店铺招牌都是AI做的”;另一人写道:“每一张海报和便条都是。”"
+                "x": "部分作品探索了因视效所需的时间和成本而难以用实拍实现的构想。导演们使用了根据影片题材和类型挑选的商用生成式AI模型，技术由Kling AI、BytePlus、TapNow、MiniMax和ElevenLabs提供。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "Jang Cheol-soo执导的AI电影《End of Species》剧照"
               },
               {
                 "t": "p",
-                "x": "多名用户表示,他们在Hallmark的其他作品中也注意到了AI。无论Hallmark是否真的在制作中使用了AI,仅仅这种可能性就会持续引发争议。TVLine已联系Hallmark请求置评。"
+                "x": "这批AI电影的展映会将于11月27日在首尔南部的CGV狎鸥亭举行，届时将放映影片，并介绍制作过程与AI的使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Público de Hallmark ve utilería\ncon AI en un filme navideño",
-          "body": "Espectadores ven carteles y utilería AI-generated en la nueva película navideña de Hallmark y critican el uso de AI.",
-          "mini_headline": "Polémica por utilería AI en Hallmark",
+          "headline": "Siete directores llevan\ncortos con IA al SIFF",
+          "body": "Para el AI Cinema Special del SIFF, siete directores como Lee Myung-se hicieron cortos con creadores de IA.",
+          "mini_headline": "Directores y IA en el SIFF",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/intro-1793727440.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955618.webp?imageId=12955618&width=960&height=548&format=jpg",
+                "cap": "Fotograma de la película de IA de Ahn Sang-hoon “The Signal”"
               },
               {
                 "t": "p",
-                "x": "Una de las nuevas películas navideñas de Hallmark, \"Adopting St. Nick\", ha dejado a los fans menos que alegres, y todo por un supuesto uso de AI. La película sigue a Maren (Amy Groening), una madre soltera que dirige la ferretería de su difunto padre, cuya hija adoptiva Leah (Taylor Blake) termina emparejada con un hombre llamado Kris (Randy Apostle), que parece (y podría ser) Santa Claus."
+                "x": "Siete cortometrajes creados con IA generativa se proyectarán en la edición de este año del Seoul Independent Film Festival (SIFF), que se celebra del 25 de noviembre al 4 de diciembre. Los directores Lee Myung-se, Shin Youn-shick, Jang Cheol-soo, Ahn Sang-hoon, Park Sin-woo, Jo Ba-reun y Kim Da-min colaboraron cada uno con creadores de IA para producir un corto, dentro de un proyecto organizado para la sección “AI Cinema Special” del festival."
+              },
+              {
+                "t": "p",
+                "x": "“Creemos que la IA puede ser un asistente significativo en el proceso creativo, en lugar de reemplazar a los creadores existentes”, dijo Kim Dong-hyun, director ejecutivo del festival."
               },
               {
                 "t": "img",
-                "src": "https://www.tvline.com/img/gallery/hallmark-fans-are-furious-over-the-use-of-ai-in-new-christmas-movie/reddit-fans-push-back-against-ai-usage-in-new-hallmark-holiday-film-1793727441.jpg",
-                "cap": "Hallmark Media/Steven Ackerman"
+                "src": "https://image.koreajoongangdaily.com/12955619.webp?imageId=12955619&width=960&height=548&format=jpg",
+                "cap": "Fotograma de la película de IA de Park Sin-woo “Girl with a blade : happy day”"
               },
               {
                 "t": "p",
-                "x": "En el subreddit HallmarkMovies, un hilo titulado \"AI in Adopting St. Nick\" decía: \"La película literalmente acaba de empezar y lo único que veía era AI slop en la utilería\". Otros usuarios coincidieron en que la película —en particular varios gráficos— parecía muy apoyada en AI. Uno escribió: \"Noto que muchos de los letreros de las tiendas están hechos con AI\"; otro: \"Cada póster y cada nota\"."
+                "x": "Algunas de las películas exploran conceptos que habrían sido difíciles de lograr en imagen real por el tiempo y el costo que exigen los efectos visuales. Los directores usaron modelos comerciales de IA generativa elegidos según el tema y el género de cada película; Kling AI, BytePlus, TapNow, MiniMax y ElevenLabs aportaron la tecnología."
+              },
+              {
+                "t": "img",
+                "src": "https://image.koreajoongangdaily.com/12955620.webp?imageId=12955620&width=960&height=548&format=jpg",
+                "cap": "Fotograma de la película de IA de Jang Cheol-soo “End of Species”"
               },
               {
                 "t": "p",
-                "x": "Varios usuarios dijeron haber notado AI también en otros proyectos de Hallmark. Haya usado o no Hallmark AI durante la producción, incluso la posibilidad es un tema que seguirá generando polémica. TVLine se ha puesto en contacto con Hallmark para pedir comentarios."
+                "x": "Una muestra de las películas de IA tendrá lugar en CGV Apgujeong, en el sur de Seúl, el 27 de noviembre, con proyecciones y presentaciones sobre sus procesos de producción y el uso de la IA."
               }
             ]
           }
@@ -1171,15 +1129,15 @@
       }
     },
     {
-      "id": "muam-hybrid-delivery",
-      "source_lang": "ko",
+      "id": "googilil-kerala-ai-feature",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "무암, AI 영화 납품용\n하이브리드 공정 공개",
-      "body": "무암은 생성 단계부터 VFX·DI 사양을 공유해 AI 컷을 납품 수준으로 맞춘다.",
-      "mini_headline": "무암 AI 납품 공정",
+      "headline": "케랄라 첫 AI 장편\n61세 신인의 작품",
+      "body": "61세 신인 감독 셰인 사다난단이 AI 도구만으로 말라얄람어 장편을 만들었다.",
+      "mini_headline": "케랄라 첫 AI 장편",
       "tool": "Movies",
-      "source": "전자신문 (etnews)",
-      "url": "https://www.etnews.com/20261103000300",
+      "source": "The New Indian Express",
+      "url": "https://www.newindianexpress.com/kerala/2026/Nov/04/prompt-action-cut-here-comes-keralams-first-full-length-ai-feature-film",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1187,265 +1145,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-            "cap": "AI Film Festival Japan 2026 시상식 단체사진(왼쪽)과 AI 하이브리드 제작 사례를 발표하는 현해리 감독(오른쪽). 사진=무암"
+            "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
           },
           {
             "t": "p",
-            "x": "영화사 무암(대표 현해리)이 1일 일본 도쿄에서 열린 'AI Film Festival Japan 2026' 크리에이터 데모에서 생성형 AI로 만든 영상을 영화의 최종 납품 컷으로 완성하는 하이브리드 제작 공정을 공개했다. 현해리 감독은 이번 영화제 국제 심사위원으로 참여했다."
+            "x": "파타남티타 출신 셰인 사다난단(Shane Sadanandan)이 전부 AI로 만든 영화 ‘Googilil Illaatha Oridam(구글에 없는 곳)’의 개봉을 준비하고 있다. 올해 61세인 그는 “늘 영화를 만들고 싶었다. 지난 이십 년 동안 시나리오를 10편쯤 쓰고 여러 제작자와 업계 관계자를 찾아갔지만 문은 한 번도 열리지 않았다”고 말한다. 4월에는 프롬프트 작성 기초부터 익히며 Google Gemini 실험에 나섰다."
           },
           {
             "t": "p",
-            "x": "무암은 글로벌 OTT 오리지널 시리즈에 사용되는 AI 컷을 제작하면서 QC와 최종 납품 규격에 대응해 왔다. 생성 영상은 앞뒤 실사 컷과 이어지고 해상도, 프레임레이트, 비트레이트, HDR 및 컬러 관리 등 최종 마스터 조건도 충족해야 한다. 스터터링, 컷 간 프레임 매치 불일치, 가장자리 계단 현상, 실사와 AI 영역 사이의 색과 질감 차이가 과제다."
+            "x": "연속성을 지키기가 어려웠다. Gemini는 프롬프트 하나에 약 10초 분량의 영상을 만들고, 이 클립들을 이어 붙여 장편 길이로 편집해야 한다. “아주 사소한 디테일까지 봇에게 계속 일러 줘야 한다”고 그는 말한다. 플랫폼이 동의를 요구하기 때문에 출연진은 지인들에게 동의를 받았다."
           },
           {
             "t": "p",
-            "x": "무암은 촬영 원본 플레이트에서 유지할 부분과 AI로 구현할 영역을 먼저 구분하고 생성형 AI를 선택적으로 적용한다. AI 생성 단계부터 VFX와 DI 담당자들이 합성 조건과 컬러, 최종 마스터링 요건을 공유하도록 공정을 설계했다. 현 감독은 “저희의 원칙은 'Film with AI, not by AI'다”라고 말했다. 무암은 2027년 영화 및 영상 프로젝트를 준비 중이다."
+            "x": "그는 “여섯 달 만에 극장 개봉이 가능한 장편영화를 완성했다”며 “중앙영화인증위원회(Central Board of Film Certification)에 심의를 받으려고 보냈다”고 말한다."
+          },
+          {
+            "t": "p",
+            "x": "영화감독 Krishand R K는 Luma AI, Kling AI, Midjourney로 해외 스튜디오와 AI-generated 시리즈를 작업 중이다. Eunoians Studio의 Azeem Kattali는 AI가 저작권을 무시해 왔고 인간의 손길이 사치가 될 것이라고 경고한다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "무암, AI 영화 납품용\n하이브리드 공정 공개",
-          "body": "무암은 생성 단계부터 VFX·DI 사양을 공유해 AI 컷을 납품 수준으로 맞춘다.",
-          "mini_headline": "무암 AI 납품 공정",
+        "en": {
+          "headline": "Kerala's first AI feature\ncomes from a 61-year-old",
+          "body": "First-time filmmaker Shane Sadanandan, 61, made the Malayalam feature Googilil Illaatha Oridam entirely with AI tools.",
+          "mini_headline": "Kerala's first AI feature",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "AI Film Festival Japan 2026 시상식 단체사진(왼쪽)과 AI 하이브리드 제작 사례를 발표하는 현해리 감독(오른쪽). 사진=무암"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "영화사 무암(대표 현해리)이 1일 일본 도쿄에서 열린 'AI Film Festival Japan 2026' 크리에이터 데모에서 생성형 AI로 만든 영상을 영화의 최종 납품 컷으로 완성하는 하이브리드 제작 공정을 공개했다. 현해리 감독은 이번 영화제 국제 심사위원으로 참여했다."
+                "x": "Pathanamthitta native Shane Sadanandan is preparing to release his film ‘Googilil Illaatha Oridam (A Place That Does Not Exist on Google)’, which has been made entirely using AI. “I always wanted to make films. In the past two decades, I wrote about 10 scripts and approached several producers and industry insiders. But the doors never opened for me,” says the 61-year-old. In April, he began experimenting with Google Gemini, right from the basics of prompt-writing."
               },
               {
                 "t": "p",
-                "x": "무암은 글로벌 OTT 오리지널 시리즈에 사용되는 AI 컷을 제작하면서 QC와 최종 납품 규격에 대응해 왔다. 생성 영상은 앞뒤 실사 컷과 이어지고 해상도, 프레임레이트, 비트레이트, HDR 및 컬러 관리 등 최종 마스터 조건도 충족해야 한다. 스터터링, 컷 간 프레임 매치 불일치, 가장자리 계단 현상, 실사와 AI 영역 사이의 색과 질감 차이가 과제다."
+                "x": "Maintaining continuity proved difficult: Gemini generates videos of about 10 seconds for each prompt, and these clips have to be edited together into a feature-length film. “We need to keep reminding the bot about every minute detail,” he says. For the cast, he asked people he knows for consent, as the platform requires it."
               },
               {
                 "t": "p",
-                "x": "무암은 촬영 원본 플레이트에서 유지할 부분과 AI로 구현할 영역을 먼저 구분하고 생성형 AI를 선택적으로 적용한다. AI 생성 단계부터 VFX와 DI 담당자들이 합성 조건과 컬러, 최종 마스터링 요건을 공유하도록 공정을 설계했다. 현 감독은 “저희의 원칙은 'Film with AI, not by AI'다”라고 말했다. 무암은 2027년 영화 및 영상 프로젝트를 준비 중이다."
+                "x": "“In six months, I have a feature film ready for theatrical release,” he says. “It has been sent to the Central Board of Film Certification for clearance.”"
+              },
+              {
+                "t": "p",
+                "x": "Meanwhile, filmmaker Krishand R K is working on an AI-generated series with an international studio using Luma AI, Kling AI and Midjourney, while Eunoians Studio’s Azeem Kattali warns that AI has been ignoring copyright and that the human touch will become a luxury."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Muam unveils hybrid process\nfor AI film delivery",
-          "body": "Muam shares VFX and DI specs from the generation stage to bring AI cuts up to delivery standard.",
-          "mini_headline": "Muam's AI delivery process",
+        "ko": {
+          "headline": "케랄라 첫 AI 장편\n61세 신인의 작품",
+          "body": "61세 신인 감독 셰인 사다난단이 AI 도구만으로 말라얄람어 장편을 만들었다.",
+          "mini_headline": "케랄라 첫 AI 장편",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "Group photo from the AI Film Festival Japan 2026 awards ceremony (left) and director Hyun Hae-ri presenting AI hybrid production cases (right). Photo=Muam"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "Film company Muam (CEO Hyun Hae-ri) unveiled a hybrid production process that turns footage made with generative AI into final delivery cuts for films at a creator demo of 'AI Film Festival Japan 2026', held in Tokyo, Japan, on the 1st. Director Hyun Hae-ri served as an international juror at this year's festival."
+                "x": "파타남티타 출신 셰인 사다난단(Shane Sadanandan)이 전부 AI로 만든 영화 ‘Googilil Illaatha Oridam(구글에 없는 곳)’의 개봉을 준비하고 있다. 올해 61세인 그는 “늘 영화를 만들고 싶었다. 지난 이십 년 동안 시나리오를 10편쯤 쓰고 여러 제작자와 업계 관계자를 찾아갔지만 문은 한 번도 열리지 않았다”고 말한다. 4월에는 프롬프트 작성 기초부터 익히며 Google Gemini 실험에 나섰다."
               },
               {
                 "t": "p",
-                "x": "While producing AI cuts used in original series for global OTT platforms, Muam has worked to meet QC and final delivery specifications. Generated footage must connect with the live-action cuts before and after it, and must also meet final master conditions such as resolution, frame rate, bit rate, HDR and color management. The challenges include stuttering, frame-match mismatches between cuts, jagged edges, and differences in color and texture between live-action and AI areas."
+                "x": "연속성을 지키기가 어려웠다. Gemini는 프롬프트 하나에 약 10초 분량의 영상을 만들고, 이 클립들을 이어 붙여 장편 길이로 편집해야 한다. “아주 사소한 디테일까지 봇에게 계속 일러 줘야 한다”고 그는 말한다. 플랫폼이 동의를 요구하기 때문에 출연진은 지인들에게 동의를 받았다."
               },
               {
                 "t": "p",
-                "x": "Muam first separates what to keep from the original shot plates and which areas to realize with AI, then applies generative AI selectively. It designed the process so that VFX and DI staff share compositing conditions, color and final mastering requirements from the AI generation stage. “Our principle is 'Film with AI, not by AI',” director Hyun said. Muam is preparing film and video projects for 2027."
+                "x": "그는 “여섯 달 만에 극장 개봉이 가능한 장편영화를 완성했다”며 “중앙영화인증위원회(Central Board of Film Certification)에 심의를 받으려고 보냈다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "영화감독 Krishand R K는 Luma AI, Kling AI, Midjourney로 해외 스튜디오와 AI-generated 시리즈를 작업 중이다. Eunoians Studio의 Azeem Kattali는 AI가 저작권을 무시해 왔고 인간의 손길이 사치가 될 것이라고 경고한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ムアム、AI映画納品用\nハイブリッド工程公開",
-          "body": "ムアムは生成段階からVFX・DI仕様を共有し、AIカットを納品水準に仕上げる。",
-          "mini_headline": "ムアムのAI納品工程",
+          "headline": "ケララ初のAI長編\n61歳の新人が制作",
+          "body": "61歳の新人シェイン・サダナンダンがAIツールだけでマラヤーラム語長編を作った。",
+          "mini_headline": "ケララ初のAI長編映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "AI Film Festival Japan 2026授賞式の集合写真(左)と、AIハイブリッド制作事例を発表するヒョン・ヘリ監督(右)。写真=ムアム"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "映画会社ムアム(代表ヒョン・ヘリ)は1日、日本・東京で開かれた「AI Film Festival Japan 2026」のクリエイターデモで、生成AIで作った映像を映画の最終納品カットに仕上げるハイブリッド制作工程を公開した。ヒョン・ヘリ監督は今回の映画祭で国際審査員を務めた。"
+                "x": "パタナムティッタ出身のShane Sadanandanは、すべてAIで制作した映画『Googilil Illaatha Oridam(Googleに存在しない場所)』の公開を準備している。「ずっと映画を作りたかった。この二十年で脚本を10本ほど書き、何人ものプロデューサーや業界関係者に掛け合ったが、扉が開くことは一度もなかった」と61歳の彼は語る。4月、彼はプロンプトの書き方の基本からGoogle Geminiを試し始めた。"
               },
               {
                 "t": "p",
-                "x": "ムアムはグローバルOTTのオリジナルシリーズに使われるAIカットを制作しながら、QCと最終納品規格に対応してきた。生成映像は前後の実写カットとつながり、解像度、フレームレート、ビットレート、HDRおよびカラーマネジメントなど最終マスターの条件も満たさなければならない。スタッタリング、カット間のフレームマッチの不一致、エッジのジャギー、実写とAI領域の間の色や質感の差が課題だ。"
+                "x": "連続性を保つのは難しかった。Geminiはプロンプトごとに約10秒の動画を生成し、それらのクリップをつなぎ合わせて長編の長さに編集しなければならない。「細かなディテールをすべて、ボットに何度も思い出させる必要がある」と彼は言う。出演者については、プラットフォームが同意を求めるため、知人に同意を取った。"
               },
               {
                 "t": "p",
-                "x": "ムアムは撮影した元のプレートで残す部分とAIで実現する領域をまず切り分け、生成AIを選択的に適用する。AI生成の段階からVFXとDIの担当者が合成条件やカラー、最終マスタリングの要件を共有するよう工程を設計した。ヒョン監督は「私たちの原則は『Film with AI, not by AI』だ」と語った。ムアムは2027年の映画・映像プロジェクトを準備している。"
+                "x": "「6か月で、劇場公開できる長編映画が仕上がった」と彼は話す。「中央映画認証委員会(Central Board of Film Certification)に審査のため提出した」"
+              },
+              {
+                "t": "p",
+                "x": "一方、映画監督のKrishand R KはLuma AI、Kling AI、Midjourneyを使い、海外のスタジオとAI-generatedのシリーズに取り組んでいる。Eunoians StudioのAzeem Kattaliは、AIが著作権を無視してきたこと、そして人の手による仕事が贅沢品になることに警鐘を鳴らす。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muam公开AI电影\n交付用混合流程",
-          "body": "Muam从生成阶段起共享VFX·DI规格,让AI镜头达到交付标准。",
-          "mini_headline": "Muam AI交付流程",
+          "headline": "喀拉拉邦首部AI长片\n出自61岁新人之手",
+          "body": "61岁的新人导演Shane Sadanandan完全用AI工具拍出马拉雅拉姆语长片。",
+          "mini_headline": "喀拉拉邦首部AI长片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "AI Film Festival Japan 2026颁奖典礼合影(左)与发表AI混合制作案例的Hyun Hae-ri导演(右)。照片=Muam"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "电影公司Muam(代表Hyun Hae-ri)1日在日本东京举行的“AI Film Festival Japan 2026”创作者演示环节中,公开了将生成式AI制作的影像完成为电影最终交付镜头的混合制作流程。Hyun Hae-ri导演担任了本届电影节的国际评委。"
+                "x": "来自帕塔南蒂塔的Shane Sadanandan正准备上映他完全用AI制作的电影《Googilil Illaatha Oridam(一个在Google上不存在的地方)》。这位61岁的创作者说：“我一直想拍电影。过去二十年里，我写了大约10个剧本，找过多位制片人和业内人士，但大门始终没有为我打开。”今年4月，他从最基础的提示词写作开始尝试Google Gemini。"
               },
               {
                 "t": "p",
-                "x": "Muam在为全球OTT原创剧集制作AI镜头的过程中,一直在应对QC和最终交付规格。生成影像需要与前后的实拍镜头衔接,还必须满足分辨率、帧率、码率、HDR及色彩管理等最终母版条件。卡顿、镜头间帧匹配不一致、边缘锯齿,以及实拍与AI区域之间的色彩和质感差异都是难题。"
+                "x": "保持连贯性并不容易：Gemini每条提示词生成约10秒的视频，这些片段必须剪辑拼接成长片长度的电影。他说：“我们得不断提醒机器人每一个细节。”至于演员，由于平台要求获得同意，他请熟人授权出镜。"
               },
               {
                 "t": "p",
-                "x": "Muam首先区分拍摄原始素材板中需要保留的部分和要用AI实现的区域,再有选择地应用生成式AI。其流程设计让VFX和DI负责人从AI生成阶段起就共享合成条件、色彩和最终母版制作要求。Hyun导演表示:“我们的原则是‘Film with AI, not by AI’。”Muam正在筹备2027年的电影及影像项目。"
+                "x": "他说：“用了六个月，我就有了一部可以院线上映的长片。”“它已提交给中央电影认证委员会(Central Board of Film Certification)审查。”"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，导演Krishand R K正与一家国际工作室合作，使用Luma AI、Kling AI和Midjourney制作一部AI-generated剧集；Eunoians Studio的Azeem Kattali则警告说，AI一直在无视版权，人工的痕迹将成为一种奢侈。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Muam presenta un proceso híbrido\npara entregar cine con AI",
-          "body": "Muam comparte las especificaciones de VFX y DI desde la generación para llevar los planos de AI al nivel de entrega.",
-          "mini_headline": "El proceso de entrega AI de Muam",
+          "headline": "El primer largo de IA de Kerala\nes obra de un novato de 61 años",
+          "body": "El debutante Shane Sadanandan, de 61 años, rodó el largo en malayalam Googilil Illaatha Oridam íntegramente con IA.",
+          "mini_headline": "El primer largo de IA de Kerala",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "Foto de grupo de la ceremonia de premios de AI Film Festival Japan 2026 (izquierda) y el director Hyun Hae-ri presentando casos de producción híbrida con AI (derecha). Foto=Muam"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "La productora Muam (dirigida por Hyun Hae-ri) presentó el día 1, en una demostración para creadores de 'AI Film Festival Japan 2026' celebrada en Tokio, Japón, un proceso de producción híbrido que convierte imágenes creadas con AI generativa en planos finales de entrega para cine. El director Hyun Hae-ri participó como jurado internacional del festival."
+                "x": "Shane Sadanandan, natural de Pathanamthitta, se prepara para estrenar su película ‘Googilil Illaatha Oridam (Un lugar que no existe en Google)’, realizada íntegramente con IA. “Siempre quise hacer películas. En las dos últimas décadas escribí unos 10 guiones y acudí a varios productores y gente de la industria. Pero las puertas nunca se me abrieron”, cuenta este hombre de 61 años. En abril empezó a experimentar con Google Gemini, desde lo más básico de la redacción de prompts."
               },
               {
                 "t": "p",
-                "x": "Al producir planos de AI para series originales de plataformas OTT globales, Muam ha tenido que cumplir con el QC y las especificaciones finales de entrega. Las imágenes generadas deben enlazar con los planos reales anteriores y posteriores, y cumplir además las condiciones del máster final, como resolución, frecuencia de fotogramas, tasa de bits, HDR y gestión del color. Los retos son el stuttering, los desajustes de coincidencia de fotogramas entre planos, los bordes dentados y las diferencias de color y textura entre las zonas reales y las de AI."
+                "x": "Mantener la continuidad resultó difícil: Gemini genera videos de unos 10 segundos por cada prompt, y esos clips deben editarse juntos hasta formar un largometraje. “Tenemos que recordarle al bot cada mínimo detalle una y otra vez”, dice. Para el reparto, pidió el consentimiento de personas conocidas, ya que la plataforma lo exige."
               },
               {
                 "t": "p",
-                "x": "Muam distingue primero qué partes de las placas originales de rodaje conservar y qué zonas realizar con AI, y aplica la AI generativa de forma selectiva. Diseñó el proceso para que, desde la fase de generación con AI, los responsables de VFX y DI compartan las condiciones de composición, el color y los requisitos de masterización final. “Nuestro principio es 'Film with AI, not by AI'”, dijo el director Hyun. Muam prepara proyectos de cine y video para 2027."
+                "x": "“En seis meses tengo un largometraje listo para su estreno en cines”, afirma. “Se ha enviado a la Central Board of Film Certification para su aprobación”."
+              },
+              {
+                "t": "p",
+                "x": "Mientras tanto, el cineasta Krishand R K trabaja en una serie generada con IA (AI-generated) con un estudio internacional usando Luma AI, Kling AI y Midjourney, mientras que Azeem Kattali, de Eunoians Studio, advierte que la IA ha ignorado los derechos de autor y que el toque humano se convertirá en un lujo."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Muam unveils hybrid process\nfor AI film delivery",
-          "body": "Muam shares VFX and DI specs from the generation stage to bring AI cuts up to delivery standard.",
-          "mini_headline": "Muam's AI delivery process",
+        "ko": {
+          "headline": "케랄라 첫 AI 장편\n61세 신인의 작품",
+          "body": "61세 신인 감독 셰인 사다난단이 AI 도구만으로 말라얄람어 장편을 만들었다.",
+          "mini_headline": "케랄라 첫 AI 장편",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "Group photo from the AI Film Festival Japan 2026 awards ceremony (left) and director Hyun Hae-ri presenting AI hybrid production cases (right). Photo=Muam"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "Film company Muam (CEO Hyun Hae-ri) unveiled a hybrid production process that turns footage made with generative AI into final delivery cuts for films at a creator demo of 'AI Film Festival Japan 2026', held in Tokyo, Japan, on the 1st. Director Hyun Hae-ri served as an international juror at this year's festival."
+                "x": "파타남티타 출신 셰인 사다난단(Shane Sadanandan)은 전적으로 AI로 만든 영화 ‘Googilil Illaatha Oridam(구글에 없는 곳)’의 개봉을 준비하고 있다. 올해 61세인 그는 “늘 영화를 만들고 싶었다. 지난 이십 년 동안 시나리오를 10편쯤 쓰고 여러 제작자와 업계 관계자를 찾아갔지만 문은 한 번도 열리지 않았다”고 말한다. 그는 4월 프롬프트 작성의 기초부터 시작해 Google Gemini를 실험하기 시작했다."
               },
               {
                 "t": "p",
-                "x": "While producing AI cuts used in original series for global OTT platforms, Muam has worked to meet QC and final delivery specifications. Generated footage must connect with the live-action cuts before and after it, and must also meet final master conditions such as resolution, frame rate, bit rate, HDR and color management. The challenges include stuttering, frame-match mismatches between cuts, jagged edges, and differences in color and texture between live-action and AI areas."
+                "x": "연속성을 유지하기가 어려웠다. Gemini는 프롬프트 하나당 약 10초 분량의 영상을 만들고, 이 클립들을 이어 붙여 장편 길이의 영화로 편집해야 한다. 그는 “아주 사소한 디테일까지 봇에게 계속 일러 줘야 한다”고 말한다. 출연진은 플랫폼이 동의를 요구하기 때문에 지인들에게 동의를 구했다."
               },
               {
                 "t": "p",
-                "x": "Muam first separates what to keep from the original shot plates and which areas to realize with AI, then applies generative AI selectively. It designed the process so that VFX and DI staff share compositing conditions, color and final mastering requirements from the AI generation stage. “Our principle is 'Film with AI, not by AI',” director Hyun said. Muam is preparing film and video projects for 2027."
+                "x": "그는 “여섯 달 만에 극장 개봉이 가능한 장편영화를 완성했다”며 “중앙영화인증위원회(Central Board of Film Certification)에 심의를 받으려고 보냈다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "한편 영화감독 Krishand R K는 Luma AI, Kling AI, Midjourney를 활용해 해외 스튜디오와 AI-generated 시리즈를 작업하고 있다. Eunoians Studio의 Azeem Kattali는 AI가 저작권을 무시해 왔으며 인간의 손길이 사치가 될 것이라고 경고한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ムアム、AI映画納品用\nハイブリッド工程公開",
-          "body": "ムアムは生成段階からVFX・DI仕様を共有し、AIカットを納品水準に仕上げる。",
-          "mini_headline": "ムアムのAI納品工程",
+          "headline": "ケララ初のAI長編\n61歳の新人が制作",
+          "body": "61歳の新人シェイン・サダナンダンがAIツールだけでマラヤーラム語長編を作った。",
+          "mini_headline": "ケララ初のAI長編映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "AI Film Festival Japan 2026授賞式の集合写真(左)と、AIハイブリッド制作事例を発表するヒョン・ヘリ監督(右)。写真=ムアム"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "映画会社ムアム(代表ヒョン・ヘリ)は1日、日本・東京で開かれた「AI Film Festival Japan 2026」のクリエイターデモで、生成AIで作った映像を映画の最終納品カットに仕上げるハイブリッド制作工程を公開した。ヒョン・ヘリ監督は今回の映画祭で国際審査員を務めた。"
+                "x": "パタナムティッタ出身のShane Sadanandanは、すべてAIで制作した映画『Googilil Illaatha Oridam(Googleに存在しない場所)』の公開を準備している。「ずっと映画を作りたかった。この二十年で脚本を10本ほど書き、何人ものプロデューサーや業界関係者に掛け合ったが、扉が開くことは一度もなかった」と61歳の彼は語る。4月、彼はプロンプトの書き方の基本からGoogle Geminiを試し始めた。"
               },
               {
                 "t": "p",
-                "x": "ムアムはグローバルOTTのオリジナルシリーズに使われるAIカットを制作しながら、QCと最終納品規格に対応してきた。生成映像は前後の実写カットとつながり、解像度、フレームレート、ビットレート、HDRおよびカラーマネジメントなど最終マスターの条件も満たさなければならない。スタッタリング、カット間のフレームマッチの不一致、エッジのジャギー、実写とAI領域の間の色や質感の差が課題だ。"
+                "x": "連続性を保つのは難しかった。Geminiはプロンプトごとに約10秒の動画を生成し、それらのクリップをつなぎ合わせて長編の長さに編集しなければならない。「細かなディテールをすべて、ボットに何度も思い出させる必要がある」と彼は言う。出演者については、プラットフォームが同意を求めるため、知人に同意を取った。"
               },
               {
                 "t": "p",
-                "x": "ムアムは撮影した元のプレートで残す部分とAIで実現する領域をまず切り分け、生成AIを選択的に適用する。AI生成の段階からVFXとDIの担当者が合成条件やカラー、最終マスタリングの要件を共有するよう工程を設計した。ヒョン監督は「私たちの原則は『Film with AI, not by AI』だ」と語った。ムアムは2027年の映画・映像プロジェクトを準備している。"
+                "x": "「6か月で、劇場公開できる長編映画が仕上がった」と彼は話す。「中央映画認証委員会(Central Board of Film Certification)に審査のため提出した」"
+              },
+              {
+                "t": "p",
+                "x": "一方、映画監督のKrishand R KはLuma AI、Kling AI、Midjourneyを使い、海外のスタジオとAI-generatedのシリーズに取り組んでいる。Eunoians StudioのAzeem Kattaliは、AIが著作権を無視してきたこと、そして人の手による仕事が贅沢品になることに警鐘を鳴らす。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muam公开AI电影\n交付用混合流程",
-          "body": "Muam从生成阶段起共享VFX·DI规格,让AI镜头达到交付标准。",
-          "mini_headline": "Muam AI交付流程",
+          "headline": "喀拉拉邦首部AI长片\n出自61岁新人之手",
+          "body": "61岁的新人导演Shane Sadanandan完全用AI工具拍出马拉雅拉姆语长片。",
+          "mini_headline": "喀拉拉邦首部AI长片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "AI Film Festival Japan 2026颁奖典礼合影(左)与发表AI混合制作案例的Hyun Hae-ri导演(右)。照片=Muam"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "电影公司Muam(代表Hyun Hae-ri)1日在日本东京举行的“AI Film Festival Japan 2026”创作者演示环节中,公开了将生成式AI制作的影像完成为电影最终交付镜头的混合制作流程。Hyun Hae-ri导演担任了本届电影节的国际评委。"
+                "x": "来自帕塔南蒂塔的Shane Sadanandan正准备上映他完全用AI制作的电影《Googilil Illaatha Oridam(一个在Google上不存在的地方)》。这位61岁的创作者说：“我一直想拍电影。过去二十年里，我写了大约10个剧本，找过多位制片人和业内人士，但大门始终没有为我打开。”今年4月，他从最基础的提示词写作开始尝试Google Gemini。"
               },
               {
                 "t": "p",
-                "x": "Muam在为全球OTT原创剧集制作AI镜头的过程中,一直在应对QC和最终交付规格。生成影像需要与前后的实拍镜头衔接,还必须满足分辨率、帧率、码率、HDR及色彩管理等最终母版条件。卡顿、镜头间帧匹配不一致、边缘锯齿,以及实拍与AI区域之间的色彩和质感差异都是难题。"
+                "x": "保持连贯性并不容易：Gemini每条提示词生成约10秒的视频，这些片段必须剪辑拼接成长片长度的电影。他说：“我们得不断提醒机器人每一个细节。”至于演员，由于平台要求获得同意，他请熟人授权出镜。"
               },
               {
                 "t": "p",
-                "x": "Muam首先区分拍摄原始素材板中需要保留的部分和要用AI实现的区域,再有选择地应用生成式AI。其流程设计让VFX和DI负责人从AI生成阶段起就共享合成条件、色彩和最终母版制作要求。Hyun导演表示:“我们的原则是‘Film with AI, not by AI’。”Muam正在筹备2027年的电影及影像项目。"
+                "x": "他说：“用了六个月，我就有了一部可以院线上映的长片。”“它已提交给中央电影认证委员会(Central Board of Film Certification)审查。”"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，导演Krishand R K正与一家国际工作室合作，使用Luma AI、Kling AI和Midjourney制作一部AI-generated剧集；Eunoians Studio的Azeem Kattali则警告说，AI一直在无视版权，人工的痕迹将成为一种奢侈。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Muam presenta un proceso híbrido\npara entregar cine con AI",
-          "body": "Muam comparte las especificaciones de VFX y DI desde la generación para llevar los planos de AI al nivel de entrega.",
-          "mini_headline": "El proceso de entrega AI de Muam",
+          "headline": "El primer largo de IA de Kerala\nes obra de un novato de 61 años",
+          "body": "El debutante Shane Sadanandan, de 61 años, rodó el largo en malayalam Googilil Illaatha Oridam íntegramente con IA.",
+          "mini_headline": "El primer largo de IA de Kerala",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.edf007d1cb3b4976b4cd8091487b5f17_P1.png",
-                "cap": "Foto de grupo de la ceremonia de premios de AI Film Festival Japan 2026 (izquierda) y el director Hyun Hae-ri presentando casos de producción híbrida con AI (derecha). Foto=Muam"
+                "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-04%2Ftar52kiq%2FWhatsApp-Image-2026-10-27-at-16.09.50.jpeg?w=1200&auto=format%2Ccompress"
               },
               {
                 "t": "p",
-                "x": "La productora Muam (dirigida por Hyun Hae-ri) presentó el día 1, en una demostración para creadores de 'AI Film Festival Japan 2026' celebrada en Tokio, Japón, un proceso de producción híbrido que convierte imágenes creadas con AI generativa en planos finales de entrega para cine. El director Hyun Hae-ri participó como jurado internacional del festival."
+                "x": "Shane Sadanandan, natural de Pathanamthitta, se prepara para estrenar su película ‘Googilil Illaatha Oridam (Un lugar que no existe en Google)’, realizada íntegramente con IA. “Siempre quise hacer películas. En las dos últimas décadas escribí unos 10 guiones y acudí a varios productores y gente de la industria. Pero las puertas nunca se me abrieron”, cuenta este hombre de 61 años. En abril empezó a experimentar con Google Gemini, desde lo más básico de la redacción de prompts."
               },
               {
                 "t": "p",
-                "x": "Al producir planos de AI para series originales de plataformas OTT globales, Muam ha tenido que cumplir con el QC y las especificaciones finales de entrega. Las imágenes generadas deben enlazar con los planos reales anteriores y posteriores, y cumplir además las condiciones del máster final, como resolución, frecuencia de fotogramas, tasa de bits, HDR y gestión del color. Los retos son el stuttering, los desajustes de coincidencia de fotogramas entre planos, los bordes dentados y las diferencias de color y textura entre las zonas reales y las de AI."
+                "x": "Mantener la continuidad resultó difícil: Gemini genera videos de unos 10 segundos por cada prompt, y esos clips deben editarse juntos hasta formar un largometraje. “Tenemos que recordarle al bot cada mínimo detalle una y otra vez”, dice. Para el reparto, pidió el consentimiento de personas conocidas, ya que la plataforma lo exige."
               },
               {
                 "t": "p",
-                "x": "Muam distingue primero qué partes de las placas originales de rodaje conservar y qué zonas realizar con AI, y aplica la AI generativa de forma selectiva. Diseñó el proceso para que, desde la fase de generación con AI, los responsables de VFX y DI compartan las condiciones de composición, el color y los requisitos de masterización final. “Nuestro principio es 'Film with AI, not by AI'”, dijo el director Hyun. Muam prepara proyectos de cine y video para 2027."
+                "x": "“En seis meses tengo un largometraje listo para su estreno en cines”, afirma. “Se ha enviado a la Central Board of Film Certification para su aprobación”."
+              },
+              {
+                "t": "p",
+                "x": "Mientras tanto, el cineasta Krishand R K trabaja en una serie generada con IA (AI-generated) con un estudio internacional usando Luma AI, Kling AI y Midjourney, mientras que Azeem Kattali, de Eunoians Studio, advierte que la IA ha ignorado los derechos de autor y que el toque humano se convertirá en un lujo."
               }
             ]
           }

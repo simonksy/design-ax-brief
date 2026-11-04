@@ -1,215 +1,197 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "gadgets",
   "cards": [
     {
-      "id": "watchos273-live-rewind",
+      "id": "nothing-screenfree-ai-device",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "watchOS 27.3에\nLive Rewind 추가",
-      "body": "watchOS 27.3 베타에 직전 15초를 적는 Live Rewind가 생겼다.",
-      "mini_headline": "watchOS 27.3, Live Rewind 추가",
+      "headline": "Nothing, 화면 없는\nAI 기기 다음 달 예고",
+      "body": "Carl Pei에 따르면 Nothing 첫 AI-native 기기에는 화면이 없다.",
+      "mini_headline": "Nothing의 화면 없는 AI 기기",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "cap": "사진: Dominic Preston / The Verge"
           },
           {
             "t": "p",
-            "x": "Apple이 Apple Watch Series 12와 Ultra 4용으로 미리 공개했던 새 Audio Intelligence 기능을 watchOS 27.3 첫 베타에서 선보인다. S11 칩이 돌리는 Audio Intelligence는 Live Rewind, Siri Recap, Sound Recognition, Shazam Music Recognition으로 이뤄진다."
+            "x": "Nothing CEO Carl Pei가 X 게시물에서 12월에 첫 AI 기기를 내놓는다고 밝혔다. Pei가 “AI-native” 기기와 AI 운영체제 계획을 발표한 지 한 해 남짓 만이다. 새 기기가 정확히 무엇인지는 거의 말하지 않았고, 화면이 없다는 점만 알렸다:"
           },
           {
             "t": "p",
-            "x": "Live Rewind는 대화의 마지막 15초를 글로 옮겨 보여준다. 웨이터가 오늘의 특선 메뉴를 읊는데 한마디를 놓쳤다면 Digital Crown을 두 번 눌러 방금 오간 말을 다시 보면 된다."
+            "x": "“우리의 첫 AI-native 제품이 다음 달 출시된다. 도구이지만, Nothing 제품을 규정해 온 개성과 정성을 담아 만들었다. 새 화면은 없으며, 앱으로는 만들 수 없었던 제품이다.”"
           },
           {
             "t": "p",
-            "x": "Siri Recap은 하루 내내 백그라운드에서 대화를 듣다가 제목과 핵심 내용을 담은 요약을 만든다. 저장하지 않은 요약은 일주일 뒤 저절로 지워진다. 시간이나 장소, 혹은 둘 다를 기준으로 예약해 둘 수도 있다."
+            "x": "Pei는 게시물에 왼쪽 위에 “NOTHING(R)”이라고 적힌 이미지를 함께 올렸다. 그 아래로 정체를 알 수 없는 검은 둥근 모서리가 보인다. 지난달에는 Nothing이 카메라 없는 모델을 포함해 AI 스마트 안경 두 종을 낼 계획이라는 소문이 돌았다. 그보다 앞서 AI 액세서리로 방향을 틀며 “AI-first 기업으로 재포지셔닝하고 있다”는 소문도 있었다."
           },
           {
             "t": "p",
-            "x": "Audio Intelligence 기능은 모두 사용자가 직접 켜야 돌아간다. 녹음 파일은 만들지도 저장하지도 않고, 원본 오디오는 S11 칩의 Secure Exclave로 들어간다. 누가 말했는지 가려내거나 특정하는 기능도 없다. Live Rewind가 켜지면 알림음이 울리고 마이크 표시가 뜬다."
-          },
-          {
-            "t": "p",
-            "x": "Live Rewind는 기기 안에서 처리되고, Siri Recap 요약은 Private Cloud Compute를 거친다. Apple Intelligence와 Siri AI를 지원하는 iPhone 16 이후 모델이 있어야 하며 처음에는 영어만 된다. watchOS 27.3은 iOS 27.3과 함께 12월에 나올 예정이다."
+            "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. Humane AI pin, Friend, AI 봉제 인형까지 이미 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 두고 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 그러고는 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "watchOS 27.3 beta brings\nLive Rewind to Apple Watch",
-          "body": "The first watchOS 27.3 beta adds Live Rewind, which shows a transcript of the last 15 seconds of a conversation.",
-          "mini_headline": "watchOS 27.3 adds Live Rewind",
+          "headline": "Nothing teases a screen-free\nAI device for next month",
+          "body": "Carl Pei says Nothing's first AI-native device, due next month, has no screen and couldn't have been an app.",
+          "mini_headline": "Nothing's screen-free AI device",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "Photo: Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition."
+                "x": "Nothing CEO Carl Pei said in a post on X that the company’s launching its first AI device in December. That’s just a little over a year after Pei announced plans for “AI-native” devices and an AI operating system. He didn’t give away much about what exactly the new device is, only that one feature it won’t have is a screen:"
               },
               {
                 "t": "p",
-                "x": "Live Rewind can show you a transcript of the last 15 seconds of a conversation. If you miss something like a waiter giving you the daily specials, you can press twice on the Digital Crown to see what was said."
+                "x": "“Our first AI-native product ships next month. It’s a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn’t have been an app.”"
               },
               {
                 "t": "p",
-                "x": "Siri Recap works in the background, listening to conversations throughout the day and generating a high-level summary with a title and key points. Summaries are auto-deleted after seven days unless they're saved, and can be scheduled by time, location, or both."
+                "x": "Pei shared an image with the post that says “NOTHING(R)” in the top left corner, above an ambiguous black rounded corner. Last month, a rumor claimed Nothing is planning to launch two pairs of AI smart glasses, including one without cameras, and an earlier rumor said it’s “repositioning itself as an AI-first company” with a shift to AI accessories."
               },
               {
                 "t": "p",
-                "x": "Audio Intelligence features are all opt-in. Audio recordings aren't created or stored; raw audio goes into the Secure Exclave on the S11 chip. No features identify or attribute speakers. Live Rewind plays an audible chime and shows a microphone indicator."
-              },
-              {
-                "t": "p",
-                "x": "Live Rewind is processed on-device; Siri Recap summaries are created through Private Cloud Compute. The features require an iPhone 16 or later with Apple Intelligence and Siri AI, are English only to begin with, and watchOS 27.3 is expected in December alongside iOS 27.3."
+                "x": "Nothing’s AI device wouldn’t be the first screen-free AI gadget, following the likes of the Humane AI pin, the Friend, and even AI stuffed animals. OpenAI is also reportedly working on an AI smart speaker with Jony Ive. Pei alluded to earlier AI devices, saying, “the whole industry is hunting for its iPhone moment: the pendant, the pin, the glasses, the companion, some magical consumer device that makes AI part of everyone’s life.” He added, “Looking for the iPhone of AI today is a dead end.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "watchOS 27.3에\nLive Rewind 추가",
-          "body": "watchOS 27.3 베타에 직전 15초를 적는 Live Rewind가 생겼다.",
-          "mini_headline": "watchOS 27.3, Live Rewind 추가",
+          "headline": "Nothing, 화면 없는\nAI 기기 다음 달 예고",
+          "body": "Carl Pei에 따르면 Nothing 첫 AI-native 기기에는 화면이 없다.",
+          "mini_headline": "Nothing의 화면 없는 AI 기기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "사진: Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "Apple이 Apple Watch Series 12와 Ultra 4용으로 미리 공개했던 새 Audio Intelligence 기능을 watchOS 27.3 첫 베타에서 선보인다. S11 칩이 돌리는 Audio Intelligence는 Live Rewind, Siri Recap, Sound Recognition, Shazam Music Recognition으로 이뤄진다."
+                "x": "Nothing CEO Carl Pei가 X 게시물에서 12월에 첫 AI 기기를 내놓는다고 밝혔다. Pei가 “AI-native” 기기와 AI 운영체제 계획을 발표한 지 한 해 남짓 만이다. 새 기기가 정확히 무엇인지는 거의 말하지 않았고, 화면이 없다는 점만 알렸다:"
               },
               {
                 "t": "p",
-                "x": "Live Rewind는 대화의 마지막 15초를 글로 옮겨 보여준다. 웨이터가 오늘의 특선 메뉴를 읊는데 한마디를 놓쳤다면 Digital Crown을 두 번 눌러 방금 오간 말을 다시 보면 된다."
+                "x": "“우리의 첫 AI-native 제품이 다음 달 출시된다. 도구이지만, Nothing 제품을 규정해 온 개성과 정성을 담아 만들었다. 새 화면은 없으며, 앱으로는 만들 수 없었던 제품이다.”"
               },
               {
                 "t": "p",
-                "x": "Siri Recap은 하루 내내 백그라운드에서 대화를 듣다가 제목과 핵심 내용을 담은 요약을 만든다. 저장하지 않은 요약은 일주일 뒤 저절로 지워진다. 시간이나 장소, 혹은 둘 다를 기준으로 예약해 둘 수도 있다."
+                "x": "Pei는 게시물에 왼쪽 위에 “NOTHING(R)”이라고 적힌 이미지를 함께 올렸다. 그 아래로 정체를 알 수 없는 검은 둥근 모서리가 보인다. 지난달에는 Nothing이 카메라 없는 모델을 포함해 AI 스마트 안경 두 종을 낼 계획이라는 소문이 돌았다. 그보다 앞서 AI 액세서리로 방향을 틀며 “AI-first 기업으로 재포지셔닝하고 있다”는 소문도 있었다."
               },
               {
                 "t": "p",
-                "x": "Audio Intelligence 기능은 모두 사용자가 직접 켜야 돌아간다. 녹음 파일은 만들지도 저장하지도 않고, 원본 오디오는 S11 칩의 Secure Exclave로 들어간다. 누가 말했는지 가려내거나 특정하는 기능도 없다. Live Rewind가 켜지면 알림음이 울리고 마이크 표시가 뜬다."
-              },
-              {
-                "t": "p",
-                "x": "Live Rewind는 기기 안에서 처리되고, Siri Recap 요약은 Private Cloud Compute를 거친다. Apple Intelligence와 Siri AI를 지원하는 iPhone 16 이후 모델이 있어야 하며 처음에는 영어만 된다. watchOS 27.3은 iOS 27.3과 함께 12월에 나올 예정이다."
+                "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. Humane AI pin, Friend, AI 봉제 인형까지 이미 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 두고 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 그러고는 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "watchOS 27.3で\nLive Rewind登場",
-          "body": "watchOS 27.3ベータに直前15秒の会話を表示するLive Rewindが加わった。",
-          "mini_headline": "watchOS 27.3にLive Rewind",
+          "headline": "Nothing、画面のない\nAI機器を来月投入と予告",
+          "body": "Carl Peiは来月のNothing初のAI-native機器に画面はないと述べた。",
+          "mini_headline": "Nothingの画面なしAI機器",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "写真：Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "watchOS 27.3の最初のベータで、AppleはApple Watch Series 12とUltra 4向けに先行披露していた新しいAudio Intelligence機能を導入する。S11チップで動くAudio Intelligenceには、Live Rewind、Siri Recap、Sound Recognition、Shazam Music Recognitionが含まれる。"
+                "x": "Nothing CEOのCarl PeiはXへの投稿で、同社が12月に初のAIデバイスを発売すると明かした。Peiが“AI-native”デバイスとAIオペレーティングシステムの計画を発表してから、わずか一年余りでの発表となる。新デバイスの正体についてはほとんど語らず、画面がないことだけを示した："
               },
               {
                 "t": "p",
-                "x": "Live Rewindは、会話の直近15秒の書き起こしを表示できる。ウェイターが本日のおすすめを説明しているときなどに聞き逃しても、Digital Crownを二度押せば何と言われたかを確認できる。"
+                "x": "“当社初のAI-native製品は来月出荷される。ツールではあるが、Nothing製品の特徴となってきた個性とこだわりを込めて作った。新たな画面はなく、アプリでは実現できなかったものだ。”"
               },
               {
                 "t": "p",
-                "x": "Siri Recapはバックグラウンドで動作し、一日を通して会話を聞き取り、タイトルと要点を含む概要をまとめる。要約は保存しない限り七日後に自動で削除され、時間、場所、またはその両方でスケジュールを設定できる。"
+                "x": "Peiは投稿に、左上に“NOTHING(R)”と記され、その下に正体不明の黒い角丸が写った画像を添えた。先月には、Nothingがカメラ非搭載モデルを含む二種類のAIスマートグラスを投入する計画だという噂が流れ、それ以前にはAIアクセサリーへの転換によって“AI-first企業として自らを再定義している”との噂もあった。"
               },
               {
                 "t": "p",
-                "x": "Audio Intelligenceの機能はすべてオプトイン方式だ。録音データは作成も保存もされず、生の音声はS11チップのSecure Exclaveに送られる。話者を識別したり特定したりする機能はない。Live Rewindは作動時にチャイム音を鳴らし、マイクのインジケーターを表示する。"
-              },
-              {
-                "t": "p",
-                "x": "Live Rewindはデバイス上で処理され、Siri Recapの要約はPrivate Cloud Computeで作成される。これらの機能にはApple IntelligenceとSiri AIに対応したiPhone 16以降が必要で、当初は英語のみの対応となる。watchOS 27.3はiOS 27.3とともに12月に配信される見込みだ。"
+                "x": "NothingのAIデバイスは、画面のないAIガジェットとして初めてではない。Humane AI pinやFriend、さらにはAIぬいぐるみといった先例がある。OpenAIもJony IveとともにAIスマートスピーカーを開発中と報じられている。Peiは過去のAIデバイスに触れ、“業界全体が自らのiPhoneのような瞬間を探している。ペンダント、ピン、メガネ、コンパニオンなど、AIを誰もの生活の一部にする魔法のような消費者向けデバイスだ”と述べた。さらに“今日、AIのiPhoneを探すのは行き止まりだ”と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "watchOS 27.3\n带来Live Rewind",
-          "body": "watchOS 27.3首个测试版新增Live Rewind，可显示对话最后15秒的转录。",
-          "mini_headline": "watchOS 27.3新增Live Rewind",
+          "headline": "Nothing预告下月推出\n无屏幕AI设备",
+          "body": "Carl Pei称，Nothing下月推出的首款AI-native设备没有屏幕。",
+          "mini_headline": "Nothing的无屏幕AI设备",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "图片：Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "随着watchOS 27.3首个测试版推出，Apple正在引入此前为Apple Watch Series 12和Ultra 4预告的全新Audio Intelligence功能。Audio Intelligence由S11芯片驱动，包括Live Rewind、Siri Recap、Sound Recognition和Shazam Music Recognition。"
+                "x": "Nothing CEO Carl Pei在X上发帖称，公司将于12月推出首款AI设备。距Pei宣布打造“AI-native”设备和AI操作系统的计划仅过去一年多。他没有透露这款新设备究竟是什么，只说它不会有屏幕："
               },
               {
                 "t": "p",
-                "x": "Live Rewind可以显示对话最后15秒的文字转录。如果你错过了什么，比如服务员介绍当日特色菜，可以按两下Digital Crown查看刚才说了什么。"
+                "x": "“我们的首款AI-native产品将于下个月发货。它是一件工具，但承载了定义Nothing产品的个性与用心。它没有新的屏幕，也不可能做成一个应用。”"
               },
               {
                 "t": "p",
-                "x": "Siri Recap在后台运行，全天聆听对话，并生成带有标题和要点的概要总结。总结若未保存，将在七天后自动删除，并可按时间、地点或两者设定日程。"
+                "x": "Pei随帖附上一张图片，左上角写着“NOTHING(R)”，下方是一个含义不明的黑色圆角。上个月有传言称，Nothing计划推出两款AI智能眼镜，其中一款不带摄像头；更早的传言则称，公司正转向AI配件，“将自身重新定位为AI-first公司”。"
               },
               {
                 "t": "p",
-                "x": "Audio Intelligence功能均需用户主动开启。系统不会创建或存储录音；原始音频会进入S11芯片上的Secure Exclave。所有功能都不会识别说话者或标注发言归属。Live Rewind会发出提示音并显示麦克风指示标志。"
-              },
-              {
-                "t": "p",
-                "x": "Live Rewind在设备端处理；Siri Recap总结则通过Private Cloud Compute生成。这些功能需要支持Apple Intelligence和Siri AI的iPhone 16或更新机型，初期仅支持英语。watchOS 27.3预计将于12月与iOS 27.3一同推出。"
+                "x": "Nothing的AI设备并不会是首款无屏幕AI小工具，此前已有Humane AI pin、Friend，甚至AI毛绒玩具。另据报道，OpenAI也在与Jony Ive合作开发一款AI智能音箱。Pei提到此前的AI设备时说：“整个行业都在寻找自己的iPhone时刻：吊坠、别针、眼镜、陪伴设备，某种能让AI融入每个人生活的神奇消费设备。”他补充道：“如今寻找AI界的iPhone是一条死胡同。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La beta de watchOS 27.3 trae\nLive Rewind al Apple Watch",
-          "body": "La primera beta de watchOS 27.3 añade Live Rewind, que transcribe los últimos 15 segundos de una conversación.",
-          "mini_headline": "watchOS 27.3 añade Live Rewind",
+          "headline": "Nothing adelanta un dispositivo\nAI sin pantalla el próximo mes",
+          "body": "Carl Pei dice que el primer dispositivo AI-native de Nothing, previsto para el próximo mes, no tendrá pantalla.",
+          "mini_headline": "El dispositivo AI sin pantalla de Nothing",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "Foto: Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "Con la primera beta de watchOS 27.3, Apple introduce las nuevas funciones de Audio Intelligence que había presentado de forma anticipada para el Apple Watch Series 12 y el Ultra 4. Impulsada por el chip S11, Audio Intelligence incluye Live Rewind, Siri Recap, Sound Recognition y Shazam Music Recognition."
+                "x": "El CEO de Nothing, Carl Pei, dijo en una publicación en X que la compañía lanzará su primer dispositivo de AI en diciembre. Llega apenas un poco más de un año después de que Pei anunciara planes para dispositivos “AI-native” y un sistema operativo de AI. No reveló mucho sobre qué es exactamente el nuevo dispositivo, solo que una característica que no tendrá es una pantalla:"
               },
               {
                 "t": "p",
-                "x": "Live Rewind puede mostrar una transcripción de los últimos 15 segundos de una conversación. Si se pierde algo, como cuando un camarero enumera los platos del día, basta con pulsar dos veces la Digital Crown para ver lo que se dijo."
+                "x": "“Nuestro primer producto AI-native se envía el mes que viene. Es una herramienta, pero construida con la personalidad y el cuidado que han llegado a definir un producto Nothing. No tiene una pantalla nueva, y no podría haber sido una app.”"
               },
               {
                 "t": "p",
-                "x": "Siri Recap funciona en segundo plano: escucha las conversaciones a lo largo del día y genera un resumen general con un título y los puntos clave. Los resúmenes se eliminan automáticamente tras siete días salvo que se guarden, y pueden programarse por hora, ubicación o ambas."
+                "x": "Pei compartió con la publicación una imagen que dice “NOTHING(R)” en la esquina superior izquierda, sobre una ambigua esquina redondeada negra. El mes pasado, un rumor afirmó que Nothing planea lanzar dos pares de gafas inteligentes con AI, uno de ellos sin cámaras, y un rumor anterior dijo que se está “reposicionando como una empresa AI-first” con un giro hacia los accesorios de AI."
               },
               {
                 "t": "p",
-                "x": "Todas las funciones de Audio Intelligence requieren activación voluntaria. No se crean ni se almacenan grabaciones de audio; el audio sin procesar pasa al Secure Exclave del chip S11. Ninguna función identifica ni atribuye a los hablantes. Live Rewind emite un aviso sonoro y muestra un indicador de micrófono."
-              },
-              {
-                "t": "p",
-                "x": "Live Rewind se procesa en el dispositivo; los resúmenes de Siri Recap se crean mediante Private Cloud Compute. Las funciones requieren un iPhone 16 o posterior con Apple Intelligence y Siri AI, al principio solo estarán en inglés, y se espera que watchOS 27.3 llegue en diciembre junto con iOS 27.3."
+                "x": "El dispositivo de AI de Nothing no sería el primer gadget de AI sin pantalla, tras ejemplos como el Humane AI pin, el Friend e incluso peluches con AI. Según se informa, OpenAI también trabaja en un altavoz inteligente con AI junto a Jony Ive. Pei aludió a dispositivos de AI anteriores al decir que “toda la industria está buscando su momento iPhone: el colgante, el pin, las gafas, el acompañante, algún dispositivo de consumo mágico que haga de la AI parte de la vida de todos”. Y añadió: “Buscar hoy el iPhone de la AI es un callejón sin salida”."
               }
             ]
           }
@@ -217,137 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "watchOS 27.3에\nLive Rewind 추가",
-          "body": "watchOS 27.3 베타가 직전 15초를 적는 Live Rewind를 더했다.",
-          "mini_headline": "watchOS 27.3, Live Rewind 추가",
+          "headline": "Nothing, 화면 없는\nAI 기기 다음 달 예고",
+          "body": "Carl Pei는 Nothing 첫 AI-native 기기에 화면이 없다고 했다.",
+          "mini_headline": "Nothing의 화면 없는 AI 기기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "사진: Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "Apple이 watchOS 27.3 첫 베타에서 Apple Watch Series 12와 Ultra 4용으로 미리 공개했던 새 Audio Intelligence 기능을 선보인다. S11 칩으로 구동되는 Audio Intelligence에는 Live Rewind, Siri Recap, Sound Recognition, Shazam Music Recognition이 들어 있다."
+                "x": "Nothing CEO Carl Pei는 X 게시물에서 회사가 12월에 첫 AI 기기를 출시한다고 밝혔다. Pei가 “AI-native” 기기와 AI 운영체제 계획을 발표한 지 한 해 남짓 만이다. 그는 새 기기가 정확히 무엇인지 거의 밝히지 않았고, 화면이 없다는 점만 알렸다:"
               },
               {
                 "t": "p",
-                "x": "Live Rewind는 대화의 마지막 15초를 글로 옮겨 보여준다. 웨이터가 오늘의 특선 메뉴를 알려줄 때처럼 무언가를 놓쳤다면 Digital Crown을 두 번 눌러 방금 오간 말을 확인할 수 있다."
+                "x": "“우리의 첫 AI-native 제품이 다음 달 출시된다. 도구이지만, Nothing 제품을 규정해 온 개성과 정성을 담아 만들었다. 새 화면은 없으며, 앱으로는 만들 수 없었던 제품이다.”"
               },
               {
                 "t": "p",
-                "x": "Siri Recap은 백그라운드에서 하루 내내 대화를 듣고 제목과 핵심 내용을 담은 개괄 요약을 만든다. 요약은 저장하지 않으면 일주일 뒤 자동으로 지워지며, 시간이나 장소, 또는 둘 다를 기준으로 예약할 수 있다."
+                "x": "Pei는 게시물과 함께 왼쪽 위에 “NOTHING(R)”이라고 적힌 이미지를 공유했다. 그 아래에는 정체를 알 수 없는 검은 둥근 모서리가 보인다. 지난달에는 Nothing이 카메라 없는 모델을 포함해 AI 스마트 안경 두 종을 출시할 계획이라는 소문이 돌았고, 그보다 앞서 AI 액세서리로 방향을 틀며 “AI-first 기업으로 재포지셔닝하고 있다”는 소문도 있었다."
               },
               {
                 "t": "p",
-                "x": "Audio Intelligence 기능은 모두 사용자가 직접 켜야 작동한다. 오디오 녹음 파일은 만들지도 저장하지도 않으며, 원본 오디오는 S11 칩의 Secure Exclave로 들어간다. 화자를 식별하거나 특정하는 기능은 없다. Live Rewind는 작동할 때 알림음을 울리고 마이크 표시를 띄운다."
-              },
-              {
-                "t": "p",
-                "x": "Live Rewind는 기기 안에서 처리하고, Siri Recap 요약은 Private Cloud Compute를 거쳐 만든다. 이 기능들을 쓰려면 Apple Intelligence와 Siri AI를 지원하는 iPhone 16 이후 모델이 필요하고, 처음에는 영어만 지원한다. watchOS 27.3은 iOS 27.3과 함께 12월에 나올 예정이다."
+                "x": "Nothing의 AI 기기가 화면 없는 첫 AI 가젯은 아니다. 앞서 Humane AI pin, Friend, 심지어 AI 봉제 인형까지 나왔다. OpenAI도 Jony Ive와 함께 AI 스마트 스피커를 개발 중인 것으로 알려졌다. Pei는 이전 AI 기기들을 언급하며 “업계 전체가 자신의 iPhone 같은 순간을 찾고 있다. 펜던트, 핀, 안경, 컴패니언처럼 AI를 모두의 삶의 일부로 만들 마법 같은 소비자 기기 말이다”라고 했다. 이어 “지금 AI의 iPhone을 찾는 것은 막다른 길이다”라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "watchOS 27.3で\nLive Rewind登場",
-          "body": "watchOS 27.3ベータに直前15秒の会話を表示するLive Rewindが加わった。",
-          "mini_headline": "watchOS 27.3にLive Rewind",
+          "headline": "Nothing、画面のない\nAI機器を来月投入と予告",
+          "body": "Carl Peiは来月のNothing初のAI-native機器に画面はないと述べた。",
+          "mini_headline": "Nothingの画面なしAI機器",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "写真：Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "watchOS 27.3の最初のベータで、AppleはApple Watch Series 12とUltra 4向けに先行披露していた新しいAudio Intelligence機能を導入する。S11チップで動くAudio Intelligenceには、Live Rewind、Siri Recap、Sound Recognition、Shazam Music Recognitionが含まれる。"
+                "x": "Nothing CEOのCarl PeiはXへの投稿で、同社が12月に初のAIデバイスを発売すると明かした。Peiが“AI-native”デバイスとAIオペレーティングシステムの計画を発表してから、わずか一年余りでの発表となる。新デバイスの正体についてはほとんど語らず、画面がないことだけを示した："
               },
               {
                 "t": "p",
-                "x": "Live Rewindは、会話の直近15秒の書き起こしを表示できる。ウェイターが本日のおすすめを説明しているときなどに聞き逃しても、Digital Crownを二度押せば何と言われたかを確認できる。"
+                "x": "“当社初のAI-native製品は来月出荷される。ツールではあるが、Nothing製品の特徴となってきた個性とこだわりを込めて作った。新たな画面はなく、アプリでは実現できなかったものだ。”"
               },
               {
                 "t": "p",
-                "x": "Siri Recapはバックグラウンドで動作し、一日を通して会話を聞き取り、タイトルと要点を含む概要をまとめる。要約は保存しない限り七日後に自動で削除され、時間、場所、またはその両方でスケジュールを設定できる。"
+                "x": "Peiは投稿に、左上に“NOTHING(R)”と記され、その下に正体不明の黒い角丸が写った画像を添えた。先月には、Nothingがカメラ非搭載モデルを含む二種類のAIスマートグラスを投入する計画だという噂が流れ、それ以前にはAIアクセサリーへの転換によって“AI-first企業として自らを再定義している”との噂もあった。"
               },
               {
                 "t": "p",
-                "x": "Audio Intelligenceの機能はすべてオプトイン方式だ。録音データは作成も保存もされず、生の音声はS11チップのSecure Exclaveに送られる。話者を識別したり特定したりする機能はない。Live Rewindは作動時にチャイム音を鳴らし、マイクのインジケーターを表示する。"
-              },
-              {
-                "t": "p",
-                "x": "Live Rewindはデバイス上で処理され、Siri Recapの要約はPrivate Cloud Computeで作成される。これらの機能にはApple IntelligenceとSiri AIに対応したiPhone 16以降が必要で、当初は英語のみの対応となる。watchOS 27.3はiOS 27.3とともに12月に配信される見込みだ。"
+                "x": "NothingのAIデバイスは、画面のないAIガジェットとして初めてではない。Humane AI pinやFriend、さらにはAIぬいぐるみといった先例がある。OpenAIもJony IveとともにAIスマートスピーカーを開発中と報じられている。Peiは過去のAIデバイスに触れ、“業界全体が自らのiPhoneのような瞬間を探している。ペンダント、ピン、メガネ、コンパニオンなど、AIを誰もの生活の一部にする魔法のような消費者向けデバイスだ”と述べた。さらに“今日、AIのiPhoneを探すのは行き止まりだ”と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "watchOS 27.3\n带来Live Rewind",
-          "body": "watchOS 27.3首个测试版新增Live Rewind，可显示对话最后15秒的转录。",
-          "mini_headline": "watchOS 27.3新增Live Rewind",
+          "headline": "Nothing预告下月推出\n无屏幕AI设备",
+          "body": "Carl Pei称，Nothing下月推出的首款AI-native设备没有屏幕。",
+          "mini_headline": "Nothing的无屏幕AI设备",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "图片：Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "随着watchOS 27.3首个测试版推出，Apple正在引入此前为Apple Watch Series 12和Ultra 4预告的全新Audio Intelligence功能。Audio Intelligence由S11芯片驱动，包括Live Rewind、Siri Recap、Sound Recognition和Shazam Music Recognition。"
+                "x": "Nothing CEO Carl Pei在X上发帖称，公司将于12月推出首款AI设备。距Pei宣布打造“AI-native”设备和AI操作系统的计划仅过去一年多。他没有透露这款新设备究竟是什么，只说它不会有屏幕："
               },
               {
                 "t": "p",
-                "x": "Live Rewind可以显示对话最后15秒的文字转录。如果你错过了什么，比如服务员介绍当日特色菜，可以按两下Digital Crown查看刚才说了什么。"
+                "x": "“我们的首款AI-native产品将于下个月发货。它是一件工具，但承载了定义Nothing产品的个性与用心。它没有新的屏幕，也不可能做成一个应用。”"
               },
               {
                 "t": "p",
-                "x": "Siri Recap在后台运行，全天聆听对话，并生成带有标题和要点的概要总结。总结若未保存，将在七天后自动删除，并可按时间、地点或两者设定日程。"
+                "x": "Pei随帖附上一张图片，左上角写着“NOTHING(R)”，下方是一个含义不明的黑色圆角。上个月有传言称，Nothing计划推出两款AI智能眼镜，其中一款不带摄像头；更早的传言则称，公司正转向AI配件，“将自身重新定位为AI-first公司”。"
               },
               {
                 "t": "p",
-                "x": "Audio Intelligence功能均需用户主动开启。系统不会创建或存储录音；原始音频会进入S11芯片上的Secure Exclave。所有功能都不会识别说话者或标注发言归属。Live Rewind会发出提示音并显示麦克风指示标志。"
-              },
-              {
-                "t": "p",
-                "x": "Live Rewind在设备端处理；Siri Recap总结则通过Private Cloud Compute生成。这些功能需要支持Apple Intelligence和Siri AI的iPhone 16或更新机型，初期仅支持英语。watchOS 27.3预计将于12月与iOS 27.3一同推出。"
+                "x": "Nothing的AI设备并不会是首款无屏幕AI小工具，此前已有Humane AI pin、Friend，甚至AI毛绒玩具。另据报道，OpenAI也在与Jony Ive合作开发一款AI智能音箱。Pei提到此前的AI设备时说：“整个行业都在寻找自己的iPhone时刻：吊坠、别针、眼镜、陪伴设备，某种能让AI融入每个人生活的神奇消费设备。”他补充道：“如今寻找AI界的iPhone是一条死胡同。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La beta de watchOS 27.3 trae\nLive Rewind al Apple Watch",
-          "body": "La primera beta de watchOS 27.3 añade Live Rewind, que transcribe los últimos 15 segundos de una conversación.",
-          "mini_headline": "watchOS 27.3 añade Live Rewind",
+          "headline": "Nothing adelanta un dispositivo\nAI sin pantalla el próximo mes",
+          "body": "Carl Pei dice que el primer dispositivo AI-native de Nothing, previsto para el próximo mes, no tendrá pantalla.",
+          "mini_headline": "El dispositivo AI sin pantalla de Nothing",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/I_h8ZMhvOQIKdgfd7NbZmYCpc14=/1600x/article-new/2026/11/siri-recap-live-rewind.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+                "cap": "Foto: Dominic Preston / The Verge"
               },
               {
                 "t": "p",
-                "x": "Con la primera beta de watchOS 27.3, Apple introduce las nuevas funciones de Audio Intelligence que había presentado de forma anticipada para el Apple Watch Series 12 y el Ultra 4. Impulsada por el chip S11, Audio Intelligence incluye Live Rewind, Siri Recap, Sound Recognition y Shazam Music Recognition."
+                "x": "El CEO de Nothing, Carl Pei, dijo en una publicación en X que la compañía lanzará su primer dispositivo de AI en diciembre. Llega apenas un poco más de un año después de que Pei anunciara planes para dispositivos “AI-native” y un sistema operativo de AI. No reveló mucho sobre qué es exactamente el nuevo dispositivo, solo que una característica que no tendrá es una pantalla:"
               },
               {
                 "t": "p",
-                "x": "Live Rewind puede mostrar una transcripción de los últimos 15 segundos de una conversación. Si se pierde algo, como cuando un camarero enumera los platos del día, basta con pulsar dos veces la Digital Crown para ver lo que se dijo."
+                "x": "“Nuestro primer producto AI-native se envía el mes que viene. Es una herramienta, pero construida con la personalidad y el cuidado que han llegado a definir un producto Nothing. No tiene una pantalla nueva, y no podría haber sido una app.”"
               },
               {
                 "t": "p",
-                "x": "Siri Recap funciona en segundo plano: escucha las conversaciones a lo largo del día y genera un resumen general con un título y los puntos clave. Los resúmenes se eliminan automáticamente tras siete días salvo que se guarden, y pueden programarse por hora, ubicación o ambas."
+                "x": "Pei compartió con la publicación una imagen que dice “NOTHING(R)” en la esquina superior izquierda, sobre una ambigua esquina redondeada negra. El mes pasado, un rumor afirmó que Nothing planea lanzar dos pares de gafas inteligentes con AI, uno de ellos sin cámaras, y un rumor anterior dijo que se está “reposicionando como una empresa AI-first” con un giro hacia los accesorios de AI."
               },
               {
                 "t": "p",
-                "x": "Todas las funciones de Audio Intelligence requieren activación voluntaria. No se crean ni se almacenan grabaciones de audio; el audio sin procesar pasa al Secure Exclave del chip S11. Ninguna función identifica ni atribuye a los hablantes. Live Rewind emite un aviso sonoro y muestra un indicador de micrófono."
-              },
-              {
-                "t": "p",
-                "x": "Live Rewind se procesa en el dispositivo; los resúmenes de Siri Recap se crean mediante Private Cloud Compute. Las funciones requieren un iPhone 16 o posterior con Apple Intelligence y Siri AI, al principio solo estarán en inglés, y se espera que watchOS 27.3 llegue en diciembre junto con iOS 27.3."
+                "x": "El dispositivo de AI de Nothing no sería el primer gadget de AI sin pantalla, tras ejemplos como el Humane AI pin, el Friend e incluso peluches con AI. Según se informa, OpenAI también trabaja en un altavoz inteligente con AI junto a Jony Ive. Pei aludió a dispositivos de AI anteriores al decir que “toda la industria está buscando su momento iPhone: el colgante, el pin, las gafas, el acompañante, algún dispositivo de consumo mágico que haga de la AI parte de la vida de todos”. Y añadió: “Buscar hoy el iPhone de la AI es un callejón sin salida”."
               }
             ]
           }
@@ -355,15 +325,15 @@
       }
     },
     {
-      "id": "siri-ai-thirdparty-apps",
+      "id": "gemini-home-att-connected-life",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple, Siri AI\n외부 앱에 연다",
-      "body": "Apple이 Siri AI를 외부 앱에 열고 캘린더·메일·메시지·음악으로도 넓힌다.",
-      "mini_headline": "Siri AI, 외부 앱에 개방",
+      "headline": "Gemini for\nHome, AT&T 보안에",
+      "body": "Gemini for Home이 AT&T Connected Life와 연동된다.",
+      "mini_headline": "Gemini for Home, AT&T와 만나다",
       "tool": "Gadgets",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -371,173 +341,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+            "cap": "이미지: AT&T"
           },
           {
             "t": "p",
-            "x": "Apple이 이제 Siri AI가 서드파티 앱 어디서나 작업을 처리하도록 허용한다. Apple은 화요일부터 배포하는 iOS 27.3 업데이트에 맞춰 개발자가 Siri AI의 새 기능을 “모든 앱”에 넣을 수 있다고 발표했다. 음성 비서가 사용자의 개인 맥락을 살피고 자연어 요청을 알아들으며, 화면 인식 기능으로 요청을 끝까지 처리하게 된다."
+            "x": "AT&T의 스마트홈 보안 시스템이 Gemini for Home과 연동된다. 회사는 Connected Life 시스템이 Google Home Premium과 연동되는 “첫” 홈 보안 제품이라고 소개했다. 집 안 이벤트 요약, 영상 기록 검색 등 여러 Gemini-powered 기능을 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Developer Preview로 배포되는 이번 업데이트에는 새 “앱 스킬(app skills)” 기능도 있다. 서드파티 개발자가 여러 작업을 동작 하나로 묶는 기능이다. Apple 개발자 문서에 따르면 앱이 화면 앞에 떠 있거나 Live Activity가 진행 중일 때, 또는 그 앱을 두고 Siri AI와 대화하는 중이라면 요청할 때 앱 이름을 말하지 않아도 된다."
+            "x": "업데이트 이후 Gemini for Home은 누가 택배를 가져왔는지, 몇 개를 두고 갔는지처럼 보안 카메라에 잡힌 이벤트를 자세히 설명한다. “어젯밤 마당을 판 건 뭐지?”나 “누가 개들을 풀어 줬지?” 같은 자연어 질문으로 녹화 영상을 찾을 수 있고, 집 안팎 활동을 정리한 일일 요약도 받아 볼 수 있다."
           },
           {
             "t": "p",
-            "x": "Apple은 “예를 들어 사용자는 차량 공유 앱으로 차량을 부르고, 차량이 도착하기를 기다리는 동안 앱의 Live Activity로 진행 상황을 확인한 뒤, ‘Hey Siri, 픽업 장소를 새 주소로 바꿔줘’라고 말해 픽업 위치를 다른 주소로 옮겨 달라고 요청할 수 있다”고 설명한다. 9to5Mac이 짚었듯 Apple이 그동안 서드파티 개발자에게 내준 기능은 이보다 범위가 좁았다."
+            "x": "이 기능은 월 $29.99짜리 AT&T 전문 Connected Life 모니터링 요금제에서만 쓸 수 있다. AT&T는 사용자가 집에 얼마나 가까이 있는지에 따라 경비를 알아서 켜고 끄는 기능도 넣는다."
           },
           {
             "t": "p",
-            "x": "Apple은 넓어진 Siri AI 기능을 자사 앱에도 들인다. 대상은 Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, Weather 앱이다. Apple은 “사용자는 지난주에 들른 커피숍을 찾거나 일 년 넘게 열지 않은 파일을 보관하는 등의 일을 할 수 있다”고 밝혔다. 각 앱에서 Siri AI가 무엇을 할 수 있는지 직접 물어볼 수도 있다고 덧붙였다."
+            "x": "AT&T는 지난해 12월 Google, Abode와 손잡고 Connected Life 시스템을 내놨다. 이제는 Google의 Gemini-powered Home APIs도 활용하는데, 스마트홈 브랜드와 개발자가 기기에 AI-powered 기능을 넣을 수 있게 해 주는 도구다. ADT도 자사 보안 시스템에 Gemini for Home 기능을 들이겠다는 뜻을 내비쳤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple opens Siri AI\nto third-party apps",
-          "body": "Apple is giving Siri AI access to third-party apps and expanding it across Calendar, Mail, Messages, and Music.",
-          "mini_headline": "Siri AI opens to apps",
+          "headline": "Gemini for Home reaches\nAT&T's security system",
+          "body": "Gemini for Home now connects to AT&T's Connected Life security system, bringing Google's AI to the carrier's setup.",
+          "mini_headline": "Gemini for Home meets AT&T",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "Image: AT&T"
               },
               {
                 "t": "p",
-                "x": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI’s new features in “all apps,” allowing the voice assistant to draw on a user’s personal context, process natural language prompts, and use on-screen awareness to complete requests."
+                "x": "AT&T’s smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the “first” home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more."
               },
               {
                 "t": "p",
-                "x": "The update, which is rolling out as part of a Developer Preview, also adds a new “app skills” feature that third-party developers can create to combine several tasks into a single action. In Apple’s developer documentation, the company says users won’t have to mention an app’s name in their request while it’s in the foreground, during a Live Activity, or in a conversation with Siri AI about the app."
+                "x": "With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like “What dug up the yard last night?” or “Who let the dogs out?”, as well as review daily summaries of activity in and outside your home."
               },
               {
                 "t": "p",
-                "x": "“For example, a person might request a ride with a ride share app, follow updates to the app’s Live Activity while they wait for their ride to arrive, then request to move the pickup location to a different address by saying ‘Hey Siri, change my ride pickup to a new address,’” Apple says. As noted by 9to5Mac, Apple previously made a smaller set of features available to third-party developers."
+                "x": "These features are only available with AT&T’s professional $29.99 / month Connected Life monitoring plan. AT&T is also adding the ability to automatically arm or disarm your home based on your proximity to your home."
               },
               {
                 "t": "p",
-                "x": "Apple is bringing Siri AI’s expanded capabilities to its own apps as well, including Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, and Weather apps. “Users can do things like find a coffee shop they visited last week or archive files that haven’t been opened in over a year,” according to Apple. The company notes that users can ask Siri AI what it can do in each app."
+                "x": "AT&T launched its Connected Life system last December in partnership with Google and Abode. It’s now taking advantage of Google’s Gemini-powered Home APIs, which allow smart home brands and developers to build AI-powered features into their devices. ADT has also hinted at bringing Gemini for Home features into its security systems."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple, Siri AI\n외부 앱에 연다",
-          "body": "Apple이 Siri AI를 외부 앱에 열고 캘린더·메일·메시지·음악으로도 넓힌다.",
-          "mini_headline": "Siri AI, 외부 앱에 개방",
+          "headline": "Gemini for\nHome, AT&T 보안에",
+          "body": "Gemini for Home이 AT&T Connected Life와 연동된다.",
+          "mini_headline": "Gemini for Home, AT&T와 만나다",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "이미지: AT&T"
               },
               {
                 "t": "p",
-                "x": "Apple이 이제 Siri AI가 서드파티 앱 어디서나 작업을 처리하도록 허용한다. Apple은 화요일부터 배포하는 iOS 27.3 업데이트에 맞춰 개발자가 Siri AI의 새 기능을 “모든 앱”에 넣을 수 있다고 발표했다. 음성 비서가 사용자의 개인 맥락을 살피고 자연어 요청을 알아들으며, 화면 인식 기능으로 요청을 끝까지 처리하게 된다."
+                "x": "AT&T의 스마트홈 보안 시스템이 Gemini for Home과 연동된다. 회사는 Connected Life 시스템이 Google Home Premium과 연동되는 “첫” 홈 보안 제품이라고 소개했다. 집 안 이벤트 요약, 영상 기록 검색 등 여러 Gemini-powered 기능을 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Developer Preview로 배포되는 이번 업데이트에는 새 “앱 스킬(app skills)” 기능도 있다. 서드파티 개발자가 여러 작업을 동작 하나로 묶는 기능이다. Apple 개발자 문서에 따르면 앱이 화면 앞에 떠 있거나 Live Activity가 진행 중일 때, 또는 그 앱을 두고 Siri AI와 대화하는 중이라면 요청할 때 앱 이름을 말하지 않아도 된다."
+                "x": "업데이트 이후 Gemini for Home은 누가 택배를 가져왔는지, 몇 개를 두고 갔는지처럼 보안 카메라에 잡힌 이벤트를 자세히 설명한다. “어젯밤 마당을 판 건 뭐지?”나 “누가 개들을 풀어 줬지?” 같은 자연어 질문으로 녹화 영상을 찾을 수 있고, 집 안팎 활동을 정리한 일일 요약도 받아 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Apple은 “예를 들어 사용자는 차량 공유 앱으로 차량을 부르고, 차량이 도착하기를 기다리는 동안 앱의 Live Activity로 진행 상황을 확인한 뒤, ‘Hey Siri, 픽업 장소를 새 주소로 바꿔줘’라고 말해 픽업 위치를 다른 주소로 옮겨 달라고 요청할 수 있다”고 설명한다. 9to5Mac이 짚었듯 Apple이 그동안 서드파티 개발자에게 내준 기능은 이보다 범위가 좁았다."
+                "x": "이 기능은 월 $29.99짜리 AT&T 전문 Connected Life 모니터링 요금제에서만 쓸 수 있다. AT&T는 사용자가 집에 얼마나 가까이 있는지에 따라 경비를 알아서 켜고 끄는 기능도 넣는다."
               },
               {
                 "t": "p",
-                "x": "Apple은 넓어진 Siri AI 기능을 자사 앱에도 들인다. 대상은 Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, Weather 앱이다. Apple은 “사용자는 지난주에 들른 커피숍을 찾거나 일 년 넘게 열지 않은 파일을 보관하는 등의 일을 할 수 있다”고 밝혔다. 각 앱에서 Siri AI가 무엇을 할 수 있는지 직접 물어볼 수도 있다고 덧붙였다."
+                "x": "AT&T는 지난해 12월 Google, Abode와 손잡고 Connected Life 시스템을 내놨다. 이제는 Google의 Gemini-powered Home APIs도 활용하는데, 스마트홈 브랜드와 개발자가 기기에 AI-powered 기능을 넣을 수 있게 해 주는 도구다. ADT도 자사 보안 시스템에 Gemini for Home 기능을 들이겠다는 뜻을 내비쳤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppleがSiri AIを\n外部アプリに開放",
-          "body": "AppleはSiri AIを外部アプリに開放し、カレンダーやメールなどにも広げる。",
-          "mini_headline": "Siri AIがアプリに開放",
+          "headline": "Gemini for\nHomeがAT&T防犯に対応",
+          "body": "Gemini for HomeがAT&TのConnected Lifeに対応した。",
+          "mini_headline": "Gemini for HomeとAT&T",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "画像：AT&T"
               },
               {
                 "t": "p",
-                "x": "AppleはSiri AIがサードパーティ製アプリ全般で操作を実行できるようにする。Appleは、火曜日に配信が始まるiOS 27.3アップデートの一環として、開発者がSiri AIの新機能を「すべてのアプリ」に組み込めるようになったと発表した。これにより音声アシスタントは、ユーザーの個人的な文脈を活用し、自然言語の指示を処理し、画面認識を使ってリクエストを完了できる。"
+                "x": "AT&TのスマートホームセキュリティシステムがGemini for Homeと連携した。同社によると、Connected LifeシステムはGoogle Home Premiumと連携する“初”のホームセキュリティ製品で、家の出来事の要約や映像履歴の検索など、Gemini-poweredの機能を幅広く使えるという。"
               },
               {
                 "t": "p",
-                "x": "Developer Previewの一部として配信されるこのアップデートには、サードパーティ開発者が複数のタスクを一つのアクションにまとめられる新機能「app skills」も加わる。Appleは開発者向けドキュメントで、アプリが前面に表示されているとき、Live Activityの実行中、またはそのアプリについてSiri AIと会話しているときは、リクエストでアプリ名を言う必要がないと説明している。"
+                "x": "今回のアップデートで、Gemini for Homeは防犯カメラが捉えた出来事を詳しく説明できる。誰が荷物を届け、いくつ置いていったかといった具合だ。“昨夜、庭を掘り返したのは何？”や“犬を外に出したのは誰？”のような自然な言葉で録画映像を検索でき、家の内外の活動をまとめた日次サマリーも確認できる。"
               },
               {
                 "t": "p",
-                "x": "Appleは「たとえば、配車アプリで車を呼び、到着を待つ間にアプリのLive Activityで最新情報を確認し、『Hey Siri, 乗車場所を新しい住所に変更して』と言って乗車場所を別の住所に移すよう頼むことができる」と説明する。9to5Macが指摘するように、Appleは以前、より限られた機能をサードパーティ開発者に提供していた。"
+                "x": "これらの機能は、AT&Tのプロ向けConnected Lifeモニタリングプラン（月$29.99）でのみ利用できる。AT&Tは、自宅との距離に応じて警備を自動でオン・オフする機能も追加する。"
               },
               {
                 "t": "p",
-                "x": "AppleはSiri AIの拡張機能を自社アプリにも導入する。対象はCalendar、Files、Finder、Journal、Mail、Maps、Messages、Music、Notes、Photos、Preview、Reminders、Safari、Shortcuts、Weatherの各アプリだ。Appleによれば「先週訪れたコーヒーショップを探したり、一年以上開いていないファイルをアーカイブしたりできる」という。各アプリでSiri AIに何ができるかを尋ねることもできるとしている。"
+                "x": "AT&TはGoogleおよびAbodeと提携し、昨年12月にConnected Lifeシステムを発売した。現在は、スマートホームブランドや開発者が自社デバイスにAI-poweredの機能を組み込めるGoogleのGemini-powered Home APIsを活用している。ADTも自社のセキュリティシステムにGemini for Homeの機能を導入する考えを示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple开放Siri AI\n给第三方应用",
-          "body": "Apple向第三方应用开放Siri AI，并扩展至日历、邮件、信息和音乐。",
-          "mini_headline": "Siri AI向应用开放",
+          "headline": "Gemini for\nHome接入AT&T安防系统",
+          "body": "Gemini for Home现已接入AT&T的Connected Life安防系统。",
+          "mini_headline": "Gemini for Home牵手AT&T",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "图片：AT&T"
               },
               {
                 "t": "p",
-                "x": "Apple现在允许Siri AI在第三方应用中执行操作。作为周二开始推送的iOS 27.3更新的一部分，Apple宣布开发者现在可以在“所有应用”中集成Siri AI的新功能，让这款语音助手能够利用用户的个人情境、处理自然语言指令，并借助屏幕感知完成请求。"
+                "x": "AT&T的智能家居安防系统现已与Gemini for Home集成。该公司称，其Connected Life系统是“首款”与Google Home Premium集成的家庭安防产品，可启用一系列Gemini-powered功能，例如汇总家中事件、搜索视频记录等。"
               },
               {
                 "t": "p",
-                "x": "这次更新以Developer Preview的形式推出，还新增了“app skills”功能，第三方开发者可借此把多项任务合并为一个操作。Apple在开发者文档中表示，当应用处于前台、正在进行Live Activity，或用户正与Siri AI谈论该应用时，用户在请求中无需提及应用名称。"
+                "x": "此次更新后，Gemini for Home可以详细描述安防摄像头拍到的事件，比如是谁送来了包裹、放下了几件。用户还可以用自然语言提问来搜索录像，例如“昨晚是什么把院子刨开了？”或“谁把狗放出去了？”，并查看家中内外活动的每日摘要。"
               },
               {
                 "t": "p",
-                "x": "Apple表示：“例如，用户可以用网约车应用叫车，在等车时关注该应用Live Activity的更新，然后说‘Hey Siri，把我的上车地点改到新地址’，请求将上车地点改到另一个地址。”据9to5Mac指出，Apple此前只向第三方开发者开放了较少的功能。"
+                "x": "这些功能仅适用于AT&T每月$29.99的专业Connected Life监控套餐。AT&T还新增了根据用户与住所的距离自动布防或撤防的功能。"
               },
               {
                 "t": "p",
-                "x": "Apple也把Siri AI的扩展能力带到自家应用中，包括Calendar、Files、Finder、Journal、Mail、Maps、Messages、Music、Notes、Photos、Preview、Reminders、Safari、Shortcuts和Weather。Apple称：“用户可以做的事情包括找到上周去过的咖啡店，或归档超过一年没有打开过的文件。”该公司还指出，用户可以询问Siri AI在每个应用中能做什么。"
+                "x": "AT&T去年12月与Google和Abode合作推出了Connected Life系统。如今它利用了Google的Gemini-powered Home APIs，这些接口让智能家居品牌和开发者能够在设备中加入AI-powered功能。ADT也暗示将把Gemini for Home功能引入其安防系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple abre Siri AI\na las apps de terceros",
-          "body": "Apple da a Siri AI acceso a apps de terceros y lo amplía a Calendar, Mail, Messages y Music.",
-          "mini_headline": "Siri AI se abre a las apps",
+          "headline": "Gemini for Home llega al\nsistema de seguridad de AT&T",
+          "body": "Gemini for Home se integra con el sistema de seguridad Connected Life de AT&T y suma la AI de Google.",
+          "mini_headline": "Gemini for Home llega a AT&T",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "Imagen: AT&T"
               },
               {
                 "t": "p",
-                "x": "Apple permitirá ahora que Siri AI realice acciones en apps de terceros. Como parte de la actualización iOS 27.3, que se distribuye desde el martes, Apple anunció que los desarrolladores ya pueden integrar las nuevas funciones de Siri AI en “todas las apps”, lo que permite al asistente de voz recurrir al contexto personal del usuario, procesar instrucciones en lenguaje natural y usar el reconocimiento de lo que hay en pantalla para completar solicitudes."
+                "x": "El sistema de seguridad para el hogar inteligente de AT&T ya se integra con Gemini for Home. La compañía afirma que su sistema Connected Life es el “primer” producto de seguridad doméstica que se integra con Google Home Premium, lo que habilita varias funciones Gemini-powered que pueden resumir eventos del hogar, buscar en el historial de video y más."
               },
               {
                 "t": "p",
-                "x": "La actualización, que se distribuye como parte de una Developer Preview, también añade una nueva función de “app skills” que los desarrolladores externos pueden crear para combinar varias tareas en una sola acción. En su documentación para desarrolladores, Apple indica que los usuarios no tendrán que mencionar el nombre de una app en su solicitud mientras esté en primer plano, durante una Live Activity o en una conversación con Siri AI sobre esa app."
+                "x": "Con la actualización, Gemini for Home puede ofrecer descripciones detalladas de los eventos captados por las cámaras de seguridad, como quién entregó un paquete y cuántos artículos dejó. También se pueden buscar grabaciones con preguntas en lenguaje natural, como “¿Qué excavó el jardín anoche?” o “¿Quién dejó salir a los perros?”, y revisar resúmenes diarios de la actividad dentro y fuera de casa."
               },
               {
                 "t": "p",
-                "x": "“Por ejemplo, una persona podría pedir un viaje en una app de transporte, seguir las actualizaciones de la Live Activity de la app mientras espera a que llegue el vehículo y luego pedir que se cambie el punto de recogida a otra dirección diciendo ‘Hey Siri, cambia la recogida de mi viaje a una nueva dirección’”, explica Apple. Como señaló 9to5Mac, Apple ya había puesto antes un conjunto más reducido de funciones a disposición de los desarrolladores externos."
+                "x": "Estas funciones solo están disponibles con el plan profesional de monitoreo Connected Life de AT&T, de $29.99 / mes. AT&T también añade la posibilidad de activar o desactivar automáticamente la alarma de la casa según la proximidad del usuario a su hogar."
               },
               {
                 "t": "p",
-                "x": "Apple también lleva las capacidades ampliadas de Siri AI a sus propias apps, entre ellas Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts y Weather. “Los usuarios pueden, por ejemplo, encontrar una cafetería que visitaron la semana pasada o archivar archivos que no se han abierto en más de un año”, según Apple. La compañía señala que los usuarios pueden preguntar a Siri AI qué puede hacer en cada app."
+                "x": "AT&T lanzó su sistema Connected Life en diciembre pasado en colaboración con Google y Abode. Ahora aprovecha las Home APIs Gemini-powered de Google, que permiten a marcas y desarrolladores de hogar inteligente integrar funciones AI-powered en sus dispositivos. ADT también ha insinuado que llevará funciones de Gemini for Home a sus sistemas de seguridad."
               }
             ]
           }
@@ -545,121 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple, Siri AI\n외부 앱에 연다",
-          "body": "Apple이 Siri AI를 외부 앱에 열고 캘린더·메일·메시지·음악까지 넓힌다.",
-          "mini_headline": "Siri AI, 외부 앱에 개방",
+          "headline": "Gemini for\nHome, AT&T 보안에",
+          "body": "Gemini for Home이 AT&T Connected Life에 연결된다.",
+          "mini_headline": "Gemini for Home, AT&T와 만나다",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "이미지: AT&T"
               },
               {
                 "t": "p",
-                "x": "Apple이 이제 Siri AI가 서드파티 앱 전반에서 작업을 수행하도록 허용한다. Apple은 화요일부터 배포되는 iOS 27.3 업데이트의 일환으로 개발자들이 Siri AI의 새 기능을 “모든 앱”에 통합할 수 있다고 발표했다. 이로써 음성 비서는 사용자의 개인 맥락을 활용하고, 자연어 요청을 처리하며, 화면 인식 기능으로 요청을 완수할 수 있다."
+                "x": "AT&T의 스마트홈 보안 시스템이 이제 Gemini for Home과 연동된다. 회사는 Connected Life 시스템이 Google Home Premium과 연동되는 “첫” 홈 보안 제품이라며, 집 안 이벤트 요약, 영상 기록 검색 등 다양한 Gemini-powered 기능을 쓸 수 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Developer Preview의 일부로 배포되는 이번 업데이트에는 서드파티 개발자가 여러 작업을 하나의 동작으로 묶을 수 있는 새 “앱 스킬(app skills)” 기능도 들어간다. Apple은 개발자 문서에서 앱이 전면에 떠 있을 때, Live Activity가 진행 중일 때, 또는 해당 앱에 관해 Siri AI와 대화할 때는 사용자가 요청에 앱 이름을 말하지 않아도 된다고 설명한다."
+                "x": "이번 업데이트로 Gemini for Home은 누가 택배를 배달했는지, 몇 개를 놓고 갔는지처럼 보안 카메라에 잡힌 이벤트를 자세히 설명해 준다. “어젯밤 마당을 판 건 뭐지?”나 “누가 개들을 풀어 줬지?” 같은 자연어 질문으로 녹화 영상을 검색할 수 있고, 집 안팎 활동을 정리한 일일 요약도 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Apple은 “예를 들어 사용자는 차량 공유 앱으로 차량을 부르고, 차량이 도착하기를 기다리는 동안 앱의 Live Activity로 진행 상황을 확인한 뒤, ‘Hey Siri, 픽업 장소를 새 주소로 바꿔줘’라고 말해 픽업 위치를 다른 주소로 옮겨 달라고 요청할 수 있다”고 설명한다. 9to5Mac이 짚었듯 Apple은 앞서 더 적은 범위의 기능만 서드파티 개발자에게 제공했다."
+                "x": "이 기능은 월 $29.99인 AT&T의 전문 Connected Life 모니터링 요금제에서만 쓸 수 있다. AT&T는 사용자가 집에 얼마나 가까이 있는지에 따라 경비를 자동으로 설정하거나 해제하는 기능도 추가한다."
               },
               {
                 "t": "p",
-                "x": "Apple은 Siri AI의 확장된 기능을 자사 앱에도 도입한다. 대상은 Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, Weather 앱이다. Apple은 “사용자는 지난주에 들른 커피숍을 찾거나 일 년 넘게 열지 않은 파일을 보관하는 등의 일을 할 수 있다”고 밝혔다. 또 사용자는 각 앱에서 Siri AI가 무엇을 할 수 있는지 물어볼 수 있다고 덧붙였다."
+                "x": "AT&T는 지난해 12월 Google, Abode와 손잡고 Connected Life 시스템을 출시했다. 이제는 스마트홈 브랜드와 개발자가 기기에 AI-powered 기능을 넣을 수 있게 해 주는 Google의 Gemini-powered Home APIs를 활용한다. ADT도 자사 보안 시스템에 Gemini for Home 기능을 도입하겠다는 뜻을 내비쳤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppleがSiri AIを\n外部アプリに開放",
-          "body": "AppleはSiri AIを外部アプリに開放し、カレンダーやメールなどにも広げる。",
-          "mini_headline": "Siri AIがアプリに開放",
+          "headline": "Gemini for\nHomeがAT&T防犯に対応",
+          "body": "Gemini for HomeがAT&TのConnected Lifeに対応した。",
+          "mini_headline": "Gemini for HomeとAT&T",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "画像：AT&T"
               },
               {
                 "t": "p",
-                "x": "AppleはSiri AIがサードパーティ製アプリ全般で操作を実行できるようにする。Appleは、火曜日に配信が始まるiOS 27.3アップデートの一環として、開発者がSiri AIの新機能を「すべてのアプリ」に組み込めるようになったと発表した。これにより音声アシスタントは、ユーザーの個人的な文脈を活用し、自然言語の指示を処理し、画面認識を使ってリクエストを完了できる。"
+                "x": "AT&TのスマートホームセキュリティシステムがGemini for Homeと連携した。同社によると、Connected LifeシステムはGoogle Home Premiumと連携する“初”のホームセキュリティ製品で、家の出来事の要約や映像履歴の検索など、Gemini-poweredの機能を幅広く使えるという。"
               },
               {
                 "t": "p",
-                "x": "Developer Previewの一部として配信されるこのアップデートには、サードパーティ開発者が複数のタスクを一つのアクションにまとめられる新機能「app skills」も加わる。Appleは開発者向けドキュメントで、アプリが前面に表示されているとき、Live Activityの実行中、またはそのアプリについてSiri AIと会話しているときは、リクエストでアプリ名を言う必要がないと説明している。"
+                "x": "今回のアップデートで、Gemini for Homeは防犯カメラが捉えた出来事を詳しく説明できる。誰が荷物を届け、いくつ置いていったかといった具合だ。“昨夜、庭を掘り返したのは何？”や“犬を外に出したのは誰？”のような自然な言葉で録画映像を検索でき、家の内外の活動をまとめた日次サマリーも確認できる。"
               },
               {
                 "t": "p",
-                "x": "Appleは「たとえば、配車アプリで車を呼び、到着を待つ間にアプリのLive Activityで最新情報を確認し、『Hey Siri, 乗車場所を新しい住所に変更して』と言って乗車場所を別の住所に移すよう頼むことができる」と説明する。9to5Macが指摘するように、Appleは以前、より限られた機能をサードパーティ開発者に提供していた。"
+                "x": "これらの機能は、AT&Tのプロ向けConnected Lifeモニタリングプラン（月$29.99）でのみ利用できる。AT&Tは、自宅との距離に応じて警備を自動でオン・オフする機能も追加する。"
               },
               {
                 "t": "p",
-                "x": "AppleはSiri AIの拡張機能を自社アプリにも導入する。対象はCalendar、Files、Finder、Journal、Mail、Maps、Messages、Music、Notes、Photos、Preview、Reminders、Safari、Shortcuts、Weatherの各アプリだ。Appleによれば「先週訪れたコーヒーショップを探したり、一年以上開いていないファイルをアーカイブしたりできる」という。各アプリでSiri AIに何ができるかを尋ねることもできるとしている。"
+                "x": "AT&TはGoogleおよびAbodeと提携し、昨年12月にConnected Lifeシステムを発売した。現在は、スマートホームブランドや開発者が自社デバイスにAI-poweredの機能を組み込めるGoogleのGemini-powered Home APIsを活用している。ADTも自社のセキュリティシステムにGemini for Homeの機能を導入する考えを示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple开放Siri AI\n给第三方应用",
-          "body": "Apple向第三方应用开放Siri AI，并扩展至日历、邮件、信息和音乐。",
-          "mini_headline": "Siri AI向应用开放",
+          "headline": "Gemini for\nHome接入AT&T安防系统",
+          "body": "Gemini for Home现已接入AT&T的Connected Life安防系统。",
+          "mini_headline": "Gemini for Home牵手AT&T",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "图片：AT&T"
               },
               {
                 "t": "p",
-                "x": "Apple现在允许Siri AI在第三方应用中执行操作。作为周二开始推送的iOS 27.3更新的一部分，Apple宣布开发者现在可以在“所有应用”中集成Siri AI的新功能，让这款语音助手能够利用用户的个人情境、处理自然语言指令，并借助屏幕感知完成请求。"
+                "x": "AT&T的智能家居安防系统现已与Gemini for Home集成。该公司称，其Connected Life系统是“首款”与Google Home Premium集成的家庭安防产品，可启用一系列Gemini-powered功能，例如汇总家中事件、搜索视频记录等。"
               },
               {
                 "t": "p",
-                "x": "这次更新以Developer Preview的形式推出，还新增了“app skills”功能，第三方开发者可借此把多项任务合并为一个操作。Apple在开发者文档中表示，当应用处于前台、正在进行Live Activity，或用户正与Siri AI谈论该应用时，用户在请求中无需提及应用名称。"
+                "x": "此次更新后，Gemini for Home可以详细描述安防摄像头拍到的事件，比如是谁送来了包裹、放下了几件。用户还可以用自然语言提问来搜索录像，例如“昨晚是什么把院子刨开了？”或“谁把狗放出去了？”，并查看家中内外活动的每日摘要。"
               },
               {
                 "t": "p",
-                "x": "Apple表示：“例如，用户可以用网约车应用叫车，在等车时关注该应用Live Activity的更新，然后说‘Hey Siri，把我的上车地点改到新地址’，请求将上车地点改到另一个地址。”据9to5Mac指出，Apple此前只向第三方开发者开放了较少的功能。"
+                "x": "这些功能仅适用于AT&T每月$29.99的专业Connected Life监控套餐。AT&T还新增了根据用户与住所的距离自动布防或撤防的功能。"
               },
               {
                 "t": "p",
-                "x": "Apple也把Siri AI的扩展能力带到自家应用中，包括Calendar、Files、Finder、Journal、Mail、Maps、Messages、Music、Notes、Photos、Preview、Reminders、Safari、Shortcuts和Weather。Apple称：“用户可以做的事情包括找到上周去过的咖啡店，或归档超过一年没有打开过的文件。”该公司还指出，用户可以询问Siri AI在每个应用中能做什么。"
+                "x": "AT&T去年12月与Google和Abode合作推出了Connected Life系统。如今它利用了Google的Gemini-powered Home APIs，这些接口让智能家居品牌和开发者能够在设备中加入AI-powered功能。ADT也暗示将把Gemini for Home功能引入其安防系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple abre Siri AI\na las apps de terceros",
-          "body": "Apple da a Siri AI acceso a apps de terceros y lo amplía a Calendar, Mail, Messages y Music.",
-          "mini_headline": "Siri AI se abre a las apps",
+          "headline": "Gemini for Home llega al\nsistema de seguridad de AT&T",
+          "body": "Gemini for Home se integra con el sistema de seguridad Connected Life de AT&T y suma la AI de Google.",
+          "mini_headline": "Gemini for Home llega a AT&T",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&strip=all&crop=0%2C0.0042247570764644%2C100%2C99.991550485847&w=2400"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
+                "cap": "Imagen: AT&T"
               },
               {
                 "t": "p",
-                "x": "Apple permitirá ahora que Siri AI realice acciones en apps de terceros. Como parte de la actualización iOS 27.3, que se distribuye desde el martes, Apple anunció que los desarrolladores ya pueden integrar las nuevas funciones de Siri AI en “todas las apps”, lo que permite al asistente de voz recurrir al contexto personal del usuario, procesar instrucciones en lenguaje natural y usar el reconocimiento de lo que hay en pantalla para completar solicitudes."
+                "x": "El sistema de seguridad para el hogar inteligente de AT&T ya se integra con Gemini for Home. La compañía afirma que su sistema Connected Life es el “primer” producto de seguridad doméstica que se integra con Google Home Premium, lo que habilita varias funciones Gemini-powered que pueden resumir eventos del hogar, buscar en el historial de video y más."
               },
               {
                 "t": "p",
-                "x": "La actualización, que se distribuye como parte de una Developer Preview, también añade una nueva función de “app skills” que los desarrolladores externos pueden crear para combinar varias tareas en una sola acción. En su documentación para desarrolladores, Apple indica que los usuarios no tendrán que mencionar el nombre de una app en su solicitud mientras esté en primer plano, durante una Live Activity o en una conversación con Siri AI sobre esa app."
+                "x": "Con la actualización, Gemini for Home puede ofrecer descripciones detalladas de los eventos captados por las cámaras de seguridad, como quién entregó un paquete y cuántos artículos dejó. También se pueden buscar grabaciones con preguntas en lenguaje natural, como “¿Qué excavó el jardín anoche?” o “¿Quién dejó salir a los perros?”, y revisar resúmenes diarios de la actividad dentro y fuera de casa."
               },
               {
                 "t": "p",
-                "x": "“Por ejemplo, una persona podría pedir un viaje en una app de transporte, seguir las actualizaciones de la Live Activity de la app mientras espera a que llegue el vehículo y luego pedir que se cambie el punto de recogida a otra dirección diciendo ‘Hey Siri, cambia la recogida de mi viaje a una nueva dirección’”, explica Apple. Como señaló 9to5Mac, Apple ya había puesto antes un conjunto más reducido de funciones a disposición de los desarrolladores externos."
+                "x": "Estas funciones solo están disponibles con el plan profesional de monitoreo Connected Life de AT&T, de $29.99 / mes. AT&T también añade la posibilidad de activar o desactivar automáticamente la alarma de la casa según la proximidad del usuario a su hogar."
               },
               {
                 "t": "p",
-                "x": "Apple también lleva las capacidades ampliadas de Siri AI a sus propias apps, entre ellas Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts y Weather. “Los usuarios pueden, por ejemplo, encontrar una cafetería que visitaron la semana pasada o archivar archivos que no se han abierto en más de un año”, según Apple. La compañía señala que los usuarios pueden preguntar a Siri AI qué puede hacer en cada app."
+                "x": "AT&T lanzó su sistema Connected Life en diciembre pasado en colaboración con Google y Abode. Ahora aprovecha las Home APIs Gemini-powered de Google, que permiten a marcas y desarrolladores de hogar inteligente integrar funciones AI-powered en sus dispositivos. ADT también ha insinuado que llevará funciones de Gemini for Home a sus sistemas de seguridad."
               }
             ]
           }
@@ -667,195 +647,255 @@
       }
     },
     {
-      "id": "sonos-27voice-early-access",
+      "id": "disneyland-robot-interns",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sonos 27voice\n11월 6일 얼리 액세스",
-      "body": "Sonos가 27voice를 11월 6일 얼리 액세스로 열고 2027년 내놓는다.",
-      "mini_headline": "Sonos 27voice 얼리 액세스",
+      "headline": "Disneyland의\nAI 로봇 인턴 양성",
+      "body": "Pixar 로봇과 Star Wars 드로이드로 Disneyland에 AI가 번진다.",
+      "mini_headline": "Disneyland의 AI 로봇 인턴",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Disney Accelerator Demo Day에서 Disney와 로봇용 AI 두뇌를 만드는 FieldAI가 Disneyland 주차장에서 차량을 안내할 로봇 영상을 공개했다. Disney Experiences Technology의 Gary Daniels는 “도착했을 때 Cars의 캐릭터나 Wall-E의 로봇이 주차할 곳을 안내한다고 상상해 보라”고 말했다."
+          },
+          {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-            "cap": "TV 아래에 놓인 검은색 Sonos Beam Ultra 사운드바."
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+            "cap": "FieldAI는 AI로 자율 로봇을 학습시켜 Disneyland 주차장에서 방문객을 안내하게 한다."
           },
           {
             "t": "p",
-            "x": "Sonos는 이번 주 배포하는 업데이트에 새 음성 비서 Sonos 27voice를 담아 11월 6일부터 얼리 액세스로 써 볼 수 있게 한다고 발표했다. 새로 단장한 이 음성 비서는 새 기반 소프트웨어 Sonos 27에 잡혀 있던 여러 신기능 가운데 하나다."
+            "x": "FieldAI는 피지컬 AI를 카메라 여러 대가 달린 상자에 담아 다른 회사 로봇 위에 얹는다. FieldAI-enabled 로봇은 아직 초기 단계지만 Galaxy’s Edge의 BBX 드로이드에는 이미 들어갔다. CEO Ali Agha는 “우리 지능은 더 큰 버전에 탑재돼 이미 파크에서 작동하고 있다”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+            "cap": "FieldAI의 AI 덕분에 자율 드로이드는 매핑, GPS, 안내 없이도 Disneyland의 Star Wars: Galaxy’s Edge를 누빈다."
           },
           {
             "t": "p",
-            "x": "Sonos 27voice도 기존 Voice Control 기능처럼 재생 제어와 타이머 설정, 지원 스마트홈 기기 조작, 날씨 안내를 맡는다. 달라진 점은 자연어 요청을 알아듣고 답하며, 훨씬 넓은 일반 상식 질문까지 받아 준다는 것이다. 이를테면 “우주 모험을 다룬 그 Bowie 앨범 틀어줘”나 “올해 Super Bowl 누가 이겼어”라고 물으면 된다."
+            "x": "Physical Intelligence (Pi)는 무대 뒤 캐스트 멤버를 돕는 로봇에 집중한다. 3D 안경을 집고 접고 닦고 분류하는 일이다. Pi는 Disneyland에서 12일 동안 자정부터 오전 6시 사이에 데이터를 모았다. Sourish Jasti는 “일종의 로봇 인턴십이었다”며 “Disney와 함께 여러 다양한 공간에서 로봇이 인턴으로 일하게 할 계획”이라고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+            "cap": "Pi AI-enabled 로봇이 Disneyland 무대 뒤에서 3D 안경을 집어 쌓는다."
           },
           {
             "t": "p",
-            "x": "써 보려면 Sonos 앱에서 얼리 액세스를 신청해 승인을 받아야 한다. Sonos는 2027년 정식 출시 전에 피드백을 모으려고 소규모 사용자 그룹과 이 기능을 시험 중이라고 밝혔다(2024년 앱 개편 참사 때 맞은 역풍을 되풀이하지 않으려는 뜻도 있어 보인다). Sonos는 Presets와 System Health도 함께 내놓는다."
-          },
-          {
-            "t": "p",
-            "x": "얼리 액세스 동안 Sonos 27voice는 미국(US)에서 영어로만 쓸 수 있다. Sonos 27 자체도 Sonos의 S2 플랫폼 하드웨어에서만 돌아간다."
+            "x": "Disney Research의 Doug Fidaleo는 “미래의 파크는 로봇 캐릭터로 가득할 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sonos 27voice opens\nearly access on November 6",
-          "body": "Sonos opens its natural-language 27voice assistant to early access on November 6, testing it ahead of a 2027 release.",
-          "mini_headline": "Sonos 27voice early access",
+          "headline": "Disneyland trains a class\nof AI robot interns",
+          "body": "Physical AI is spreading across Disneyland, from Pixar robots that help guests park to droids roaming Star Wars land.",
+          "mini_headline": "Disneyland's AI robot interns",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "At the Disney Accelerator Demo Day, Disney and FieldAI, a company that builds the AI brains for robots, showed footage of robots that would assist with guiding cars through the Disneyland parking process. “Imagine if a character from Cars or robots from Wall-E direct you where to park when you arrive,” said Gary Daniels of Disney Experiences Technology."
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "A black Sonos Beam Ultra soundbar under a TV."
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAI is using AI to train autonomous robots to guide you in parking lots at Disneyland."
               },
               {
                 "t": "p",
-                "x": "Sonos has announced that its new voice assistant, Sonos 27voice, will be available to test in early access on November 6, as part of an update rolling out this week. A revamped voice assistant was one of several new features planned for its new underlying Sonos 27 software."
+                "x": "FieldAI puts its physical AI in a box with multiple cameras on top of robots built by others. FieldAI-enabled robots have already been deployed at Galaxy’s Edge on the BBX droids, though in early stages. “Our intelligence is on the bigger version and operating in the park already,” CEO Ali Agha said."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAI is using AI to enable autonomous droids to wander around Star Wars: Galaxy’s Edge at Disneyland without needing mapping, GPS or guiding."
               },
               {
                 "t": "p",
-                "x": "Like the previous Voice Control feature, Sonos 27voice can control playback, set timers, interact with supported smart home accessories and tell you the weather. What's different is that it understands and responds to natural language requests and can answer questions about a much broader range of general knowledge — you could ask it to \"play that Bowie album about an adventure in space\" or \"who won the Super Bowl this year.\""
+                "x": "Physical Intelligence (Pi) focuses on robots helping cast members backstage: picking up, folding, cleaning and sorting 3D glasses. Pi spent 12 days at Disneyland between midnight and 6 a.m. collecting data. “This was like a robot internship,” said Sourish Jasti. “We intend to have robots interning in many different spaces with Disney.”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Pi AI-enabled robots pick up and stack 3D glasses behind the scenes at Disneyland."
               },
               {
                 "t": "p",
-                "x": "To try it you'll have to request early access inside the Sonos app and get approved. Sonos says it's testing the feature with a smaller group of users ahead of a full 2027 release to collect feedback (and likely avoid the blowback associated with its disastrous 2024 app redesign). Sonos is also introducing Presets and System Health."
-              },
-              {
-                "t": "p",
-                "x": "Sonos 27voice is only available in the US during early access, and only in English. Sonos 27 itself is limited to hardware on Sonos' S2 platform."
+                "x": "“The park of the future will be teeming with robot characters,” said Doug Fidaleo of Disney Research."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sonos 27voice\n11월 6일 얼리 액세스",
-          "body": "Sonos가 27voice를 11월 6일 얼리 액세스로 열고 2027년 내놓는다.",
-          "mini_headline": "Sonos 27voice 얼리 액세스",
+          "headline": "Disneyland의\nAI 로봇 인턴 양성",
+          "body": "Pixar 로봇과 Star Wars 드로이드로 Disneyland에 AI가 번진다.",
+          "mini_headline": "Disneyland의 AI 로봇 인턴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Disney Accelerator Demo Day에서 Disney와 로봇용 AI 두뇌를 만드는 FieldAI가 Disneyland 주차장에서 차량을 안내할 로봇 영상을 공개했다. Disney Experiences Technology의 Gary Daniels는 “도착했을 때 Cars의 캐릭터나 Wall-E의 로봇이 주차할 곳을 안내한다고 상상해 보라”고 말했다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "TV 아래에 놓인 검은색 Sonos Beam Ultra 사운드바."
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAI는 AI로 자율 로봇을 학습시켜 Disneyland 주차장에서 방문객을 안내하게 한다."
               },
               {
                 "t": "p",
-                "x": "Sonos는 이번 주 배포하는 업데이트에 새 음성 비서 Sonos 27voice를 담아 11월 6일부터 얼리 액세스로 써 볼 수 있게 한다고 발표했다. 새로 단장한 이 음성 비서는 새 기반 소프트웨어 Sonos 27에 잡혀 있던 여러 신기능 가운데 하나다."
+                "x": "FieldAI는 피지컬 AI를 카메라 여러 대가 달린 상자에 담아 다른 회사 로봇 위에 얹는다. FieldAI-enabled 로봇은 아직 초기 단계지만 Galaxy’s Edge의 BBX 드로이드에는 이미 들어갔다. CEO Ali Agha는 “우리 지능은 더 큰 버전에 탑재돼 이미 파크에서 작동하고 있다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAI의 AI 덕분에 자율 드로이드는 매핑, GPS, 안내 없이도 Disneyland의 Star Wars: Galaxy’s Edge를 누빈다."
               },
               {
                 "t": "p",
-                "x": "Sonos 27voice도 기존 Voice Control 기능처럼 재생 제어와 타이머 설정, 지원 스마트홈 기기 조작, 날씨 안내를 맡는다. 달라진 점은 자연어 요청을 알아듣고 답하며, 훨씬 넓은 일반 상식 질문까지 받아 준다는 것이다. 이를테면 “우주 모험을 다룬 그 Bowie 앨범 틀어줘”나 “올해 Super Bowl 누가 이겼어”라고 물으면 된다."
+                "x": "Physical Intelligence (Pi)는 무대 뒤 캐스트 멤버를 돕는 로봇에 집중한다. 3D 안경을 집고 접고 닦고 분류하는 일이다. Pi는 Disneyland에서 12일 동안 자정부터 오전 6시 사이에 데이터를 모았다. Sourish Jasti는 “일종의 로봇 인턴십이었다”며 “Disney와 함께 여러 다양한 공간에서 로봇이 인턴으로 일하게 할 계획”이라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Pi AI-enabled 로봇이 Disneyland 무대 뒤에서 3D 안경을 집어 쌓는다."
               },
               {
                 "t": "p",
-                "x": "써 보려면 Sonos 앱에서 얼리 액세스를 신청해 승인을 받아야 한다. Sonos는 2027년 정식 출시 전에 피드백을 모으려고 소규모 사용자 그룹과 이 기능을 시험 중이라고 밝혔다(2024년 앱 개편 참사 때 맞은 역풍을 되풀이하지 않으려는 뜻도 있어 보인다). Sonos는 Presets와 System Health도 함께 내놓는다."
-              },
-              {
-                "t": "p",
-                "x": "얼리 액세스 동안 Sonos 27voice는 미국(US)에서 영어로만 쓸 수 있다. Sonos 27 자체도 Sonos의 S2 플랫폼 하드웨어에서만 돌아간다."
+                "x": "Disney Research의 Doug Fidaleo는 “미래의 파크는 로봇 캐릭터로 가득할 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sonos 27voice\n11月6日に先行公開",
-          "body": "Sonosは自然言語の27voiceを11月6日に先行公開し、2027年の正式版に備える。",
-          "mini_headline": "Sonos 27voiceが早期アクセス",
+          "headline": "Disneylandが\nAIロボット実習生を育成",
+          "body": "DisneylandではPixarロボからStar Warsのドロイドまで、AIが広がる。",
+          "mini_headline": "DisneylandのAIロボット実習生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Disney Accelerator Demo Dayで、Disneyと、ロボット用のAI頭脳を開発するFieldAIは、Disneylandの駐車手続きで車の誘導を手伝うロボットの映像を披露した。Disney Experiences TechnologyのGary Danielsは“到着したとき、CarsのキャラクターやWall-Eのロボットが駐車場所を案内してくれると想像してほしい”と語った。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "TVの下に置かれた黒いSonos Beam Ultraサウンドバー。"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAIはAIを使い、Disneylandの駐車場で来場者を案内する自律ロボットを訓練している。"
               },
               {
                 "t": "p",
-                "x": "Sonosは、新しい音声アシスタント「Sonos 27voice」を、今週配信されるアップデートの一環として11月6日から早期アクセスで試せるようにすると発表した。刷新された音声アシスタントは、新たな基盤ソフトウェア「Sonos 27」で予定されていた複数の新機能の一つだった。"
+                "x": "FieldAIは、複数のカメラを備えた箱にフィジカルAIを収め、他社製ロボットの上に載せる。FieldAI-enabledのロボットは、まだ初期段階ながらGalaxy’s EdgeのBBXドロイドにすでに導入されている。CEOのAli Aghaは“当社の知能はより大きなバージョンに搭載され、すでにパーク内で稼働している”と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAIはAIを活用し、自律型ドロイドがマッピングやGPS、誘導なしでDisneylandのStar Wars: Galaxy’s Edgeを歩き回れるようにしている。"
               },
               {
                 "t": "p",
-                "x": "従来のVoice Control機能と同様に、Sonos 27voiceは再生の操作、タイマー設定、対応スマートホーム機器の操作、天気の案内ができる。違いは、自然言語のリクエストを理解して応答し、はるかに幅広い一般知識の質問にも答えられる点だ。たとえば「宇宙での冒険を描いたあのBowieのアルバムをかけて」や「今年のSuper Bowlで勝ったのは誰」と尋ねられる。"
+                "x": "Physical Intelligence (Pi)は、舞台裏でキャストを支えるロボットに注力している。3Dメガネを拾い、たたみ、清掃し、仕分ける作業だ。PiはDisneylandで12日間、真夜中から午前6時までの間にデータを収集した。Sourish Jastiは“ロボットのインターンシップのようなものだった”と語り、“Disneyとともに、さまざまな場所でロボットをインターンとして働かせるつもりだ”と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Pi AI-enabledのロボットが、Disneylandの舞台裏で3Dメガネを拾って積み重ねる。"
               },
               {
                 "t": "p",
-                "x": "試すには、Sonosアプリ内で早期アクセスを申請し、承認を受ける必要がある。Sonosは、フィードバックを集めるため、2027年の正式リリースに先立ち少人数のユーザーで機能をテストしているという（2024年の悲惨なアプリ刷新で招いた反発を避ける狙いもあるとみられる）。SonosはPresetsとSystem Healthも導入する。"
-              },
-              {
-                "t": "p",
-                "x": "早期アクセス期間中、Sonos 27voiceはUS（米国）でのみ、英語でのみ利用できる。Sonos 27自体も、SonosのS2プラットフォームのハードウェアに限られる。"
+                "x": "Disney ResearchのDoug Fidaleoは“未来のパークはロボットキャラクターであふれるだろう”と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sonos 27voice\n11月6日开放抢先体验",
-          "body": "Sonos将于11月6日开放自然语言助手27voice的抢先体验，为2027年发布做测试。",
-          "mini_headline": "Sonos 27voice抢先体验",
+          "headline": "Disneyland培训\n一批AI机器人实习生",
+          "body": "从Pixar停车机器人到Star Wars园区的机器人，AI遍布Disneyland。",
+          "mini_headline": "Disneyland的AI机器人实习生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "在Disney Accelerator Demo Day上，Disney与为机器人打造AI大脑的公司FieldAI展示了一段视频，内容是协助引导车辆完成Disneyland停车流程的机器人。Disney Experiences Technology的Gary Daniels说：“想象一下，你到达时由Cars里的角色或Wall-E中的机器人指引你去哪里停车。”"
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "TV下方的一台黑色Sonos Beam Ultra条形音箱。"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAI正利用AI训练自主机器人，在Disneyland停车场为你引路。"
               },
               {
                 "t": "p",
-                "x": "Sonos宣布，其新语音助手Sonos 27voice将于11月6日开放抢先体验测试，这是本周推送的更新的一部分。全新改版的语音助手是其新底层软件Sonos 27计划推出的多项新功能之一。"
+                "x": "FieldAI把它的物理AI装进一个带有多个摄像头的盒子，安装在其他公司制造的机器人上。FieldAI-enabled机器人已部署在Galaxy’s Edge的BBX机器人上，不过仍处于早期阶段。CEO Ali Agha说：“我们的智能已用在更大的版本上，并已在园区内运行。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAI借助AI，让自主机器人无需地图测绘、GPS或引导即可在Disneyland的Star Wars: Galaxy’s Edge中漫游。"
               },
               {
                 "t": "p",
-                "x": "与此前的Voice Control功能一样，Sonos 27voice可以控制播放、设置计时器、操作受支持的智能家居配件并播报天气。不同之处在于，它能理解并回应自然语言请求，还能回答范围广得多的常识问题——你可以让它“播放那张讲太空冒险的Bowie专辑”，或者问“今年Super Bowl谁赢了”。"
+                "x": "Physical Intelligence (Pi)专注于在后台协助演职人员的机器人：拾取、折叠、清洁和分拣3D眼镜。Pi在Disneyland待了12天，在午夜至早上6点之间收集数据。Sourish Jasti说：“这就像一次机器人实习。”“我们打算让机器人在Disney的许多不同场所实习。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Pi AI-enabled机器人在Disneyland幕后拾取并堆叠3D眼镜。"
               },
               {
                 "t": "p",
-                "x": "想要试用，需要在Sonos应用内申请抢先体验并获得批准。Sonos表示，在2027年全面发布之前，它正先与一小部分用户测试该功能以收集反馈（很可能也是为了避免重蹈2024年灾难性应用改版引发的强烈反弹）。Sonos还推出了Presets和System Health。"
-              },
-              {
-                "t": "p",
-                "x": "抢先体验期间，Sonos 27voice仅在US（美国）提供，且仅支持英语。Sonos 27本身也仅限于Sonos S2平台上的硬件。"
+                "x": "Disney Research的Doug Fidaleo说：“未来的园区将遍布机器人角色。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sonos 27voice abre el acceso\nanticipado el 6 de noviembre",
-          "body": "Sonos abre el 6 de noviembre el acceso anticipado a 27voice, su asistente de lenguaje natural, que llegará en 2027.",
-          "mini_headline": "Acceso anticipado a Sonos 27voice",
+          "headline": "Disneyland forma a una clase\nde robots aprendices con AI",
+          "body": "La Physical AI se extiende por Disneyland, desde robots de Pixar que ayudan a estacionar hasta droides de Star Wars.",
+          "mini_headline": "Los robots aprendices con AI de Disneyland",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "En el Disney Accelerator Demo Day, Disney y FieldAI, una empresa que desarrolla los cerebros de AI para robots, mostraron imágenes de robots que ayudarían a guiar los autos durante el proceso de estacionamiento en Disneyland. “Imagina que un personaje de Cars o los robots de Wall-E te indican dónde estacionar al llegar”, dijo Gary Daniels, de Disney Experiences Technology."
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "Una barra de sonido Sonos Beam Ultra negra bajo una TV."
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAI usa AI para entrenar robots autónomos que guían a los visitantes en los estacionamientos de Disneyland."
               },
               {
                 "t": "p",
-                "x": "Sonos ha anunciado que su nuevo asistente de voz, Sonos 27voice, podrá probarse en acceso anticipado a partir del 6 de noviembre, como parte de una actualización que se distribuye esta semana. Un asistente de voz renovado era una de las varias funciones nuevas previstas para su nuevo software base, Sonos 27."
+                "x": "FieldAI coloca su AI física en una caja con varias cámaras sobre robots fabricados por otros. Los robots FieldAI-enabled ya se han desplegado en Galaxy’s Edge en los droides BBX, aunque en fases iniciales. “Nuestra inteligencia está en la versión más grande y ya funciona en el parque”, dijo el CEO Ali Agha."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAI usa AI para que droides autónomos recorran Star Wars: Galaxy’s Edge en Disneyland sin necesidad de mapeo, GPS ni guía."
               },
               {
                 "t": "p",
-                "x": "Al igual que la anterior función Voice Control, Sonos 27voice puede controlar la reproducción, programar temporizadores, interactuar con accesorios domóticos compatibles e informar del tiempo. La diferencia es que entiende y responde a peticiones en lenguaje natural y puede contestar preguntas sobre un abanico mucho más amplio de conocimiento general: se le puede pedir «pon ese álbum de Bowie sobre una aventura en el espacio» o «quién ganó la Super Bowl este año»."
+                "x": "Physical Intelligence (Pi) se centra en robots que ayudan al personal tras bambalinas: recoger, doblar, limpiar y clasificar gafas 3D. Pi pasó 12 días en Disneyland, entre la medianoche y las 6 a.m., recopilando datos. “Fue como una pasantía para robots”, dijo Sourish Jasti. “Queremos tener robots haciendo prácticas en muchos espacios distintos con Disney”."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Robots Pi AI-enabled recogen y apilan gafas 3D tras bambalinas en Disneyland."
               },
               {
                 "t": "p",
-                "x": "Para probarlo hay que solicitar el acceso anticipado en la app de Sonos y obtener la aprobación. Sonos afirma que está probando la función con un grupo reducido de usuarios antes del lanzamiento completo en 2027 para recopilar comentarios (y, probablemente, evitar la reacción negativa que provocó el desastroso rediseño de su app en 2024). Sonos también presenta Presets y System Health."
-              },
-              {
-                "t": "p",
-                "x": "Durante el acceso anticipado, Sonos 27voice solo está disponible en Estados Unidos (US) y únicamente en inglés. Sonos 27 se limita al hardware de la plataforma S2 de Sonos."
+                "x": "“El parque del futuro estará repleto de personajes robot”, dijo Doug Fidaleo, de Disney Research."
               }
             ]
           }
@@ -863,125 +903,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sonos 27voice\n11월 6일 얼리 액세스",
-          "body": "Sonos가 27voice를 11월 6일 얼리 액세스로 열고 2027년 출시한다.",
-          "mini_headline": "Sonos 27voice 얼리 액세스",
+          "headline": "Disneyland의\nAI 로봇 인턴 양성",
+          "body": "Disneyland에 Pixar 로봇과 Star Wars 드로이드로 AI가 퍼진다.",
+          "mini_headline": "Disneyland의 AI 로봇 인턴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Disney Accelerator Demo Day에서 Disney와 로봇용 AI 두뇌를 만드는 회사 FieldAI는 Disneyland 주차 과정에서 차량 안내를 도울 로봇 영상을 공개했다. Disney Experiences Technology의 Gary Daniels는 “도착했을 때 Cars의 캐릭터나 Wall-E의 로봇이 주차할 곳을 안내한다고 상상해 보라”고 말했다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "TV 아래에 놓인 검은색 Sonos Beam Ultra 사운드바."
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAI는 AI로 자율 로봇을 학습시켜 Disneyland 주차장에서 방문객을 안내하게 한다."
               },
               {
                 "t": "p",
-                "x": "Sonos는 새 음성 비서 Sonos 27voice를 이번 주 배포되는 업데이트의 일부로 11월 6일부터 얼리 액세스로 시험해 볼 수 있다고 발표했다. 새로 단장한 음성 비서는 새 기반 소프트웨어 Sonos 27에 계획된 여러 신기능 가운데 하나였다."
+                "x": "FieldAI는 여러 대의 카메라를 갖춘 상자에 피지컬 AI를 담아 다른 회사가 만든 로봇 위에 얹는다. FieldAI-enabled 로봇은 아직 초기 단계지만 이미 Galaxy’s Edge의 BBX 드로이드에 배치됐다. CEO Ali Agha는 “우리 지능은 더 큰 버전에 탑재돼 이미 파크에서 작동하고 있다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAI는 AI를 활용해 자율 드로이드가 매핑, GPS, 안내 없이 Disneyland의 Star Wars: Galaxy’s Edge를 돌아다니게 한다."
               },
               {
                 "t": "p",
-                "x": "기존 Voice Control 기능처럼 Sonos 27voice도 재생 제어, 타이머 설정, 지원되는 스마트홈 기기 조작, 날씨 안내를 할 수 있다. 다른 점은 자연어 요청을 이해하고 응답하며, 훨씬 폭넓은 일반 상식 질문에도 답할 수 있다는 것이다. 예를 들어 “우주 모험을 다룬 그 Bowie 앨범 틀어줘”나 “올해 Super Bowl 누가 이겼어”라고 물을 수 있다."
+                "x": "Physical Intelligence (Pi)는 무대 뒤에서 캐스트 멤버를 돕는 로봇에 집중한다. 3D 안경을 집고, 접고, 닦고, 분류하는 일이다. Pi는 Disneyland에서 12일 동안 자정부터 오전 6시 사이에 데이터를 수집했다. Sourish Jasti는 “일종의 로봇 인턴십이었다”며 “Disney와 함께 여러 다양한 공간에서 로봇이 인턴으로 일하게 할 계획”이라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Pi AI-enabled 로봇이 Disneyland 무대 뒤에서 3D 안경을 집어 쌓는다."
               },
               {
                 "t": "p",
-                "x": "사용해 보려면 Sonos 앱에서 얼리 액세스를 신청하고 승인을 받아야 한다. Sonos는 2027년 정식 출시에 앞서 피드백을 모으려고 소규모 사용자 그룹과 이 기능을 시험하고 있다고 밝혔다(2024년 앱 개편 참사 때 겪은 역풍을 피하려는 뜻도 있어 보인다). Sonos는 Presets와 System Health도 함께 선보인다."
-              },
-              {
-                "t": "p",
-                "x": "얼리 액세스 기간에 Sonos 27voice는 미국(US)에서만, 영어로만 쓸 수 있다. Sonos 27 자체도 Sonos의 S2 플랫폼 하드웨어에서만 작동한다."
+                "x": "Disney Research의 Doug Fidaleo는 “미래의 파크는 로봇 캐릭터로 가득할 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sonos 27voice\n11月6日に先行公開",
-          "body": "Sonosは自然言語の27voiceを11月6日に先行公開し、2027年の正式版に備える。",
-          "mini_headline": "Sonos 27voiceが早期アクセス",
+          "headline": "Disneylandが\nAIロボット実習生を育成",
+          "body": "DisneylandではPixarロボからStar Warsのドロイドまで、AIが広がる。",
+          "mini_headline": "DisneylandのAIロボット実習生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Disney Accelerator Demo Dayで、Disneyと、ロボット用のAI頭脳を開発するFieldAIは、Disneylandの駐車手続きで車の誘導を手伝うロボットの映像を披露した。Disney Experiences TechnologyのGary Danielsは“到着したとき、CarsのキャラクターやWall-Eのロボットが駐車場所を案内してくれると想像してほしい”と語った。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "TVの下に置かれた黒いSonos Beam Ultraサウンドバー。"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAIはAIを使い、Disneylandの駐車場で来場者を案内する自律ロボットを訓練している。"
               },
               {
                 "t": "p",
-                "x": "Sonosは、新しい音声アシスタント「Sonos 27voice」を、今週配信されるアップデートの一環として11月6日から早期アクセスで試せるようにすると発表した。刷新された音声アシスタントは、新たな基盤ソフトウェア「Sonos 27」で予定されていた複数の新機能の一つだった。"
+                "x": "FieldAIは、複数のカメラを備えた箱にフィジカルAIを収め、他社製ロボットの上に載せる。FieldAI-enabledのロボットは、まだ初期段階ながらGalaxy’s EdgeのBBXドロイドにすでに導入されている。CEOのAli Aghaは“当社の知能はより大きなバージョンに搭載され、すでにパーク内で稼働している”と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAIはAIを活用し、自律型ドロイドがマッピングやGPS、誘導なしでDisneylandのStar Wars: Galaxy’s Edgeを歩き回れるようにしている。"
               },
               {
                 "t": "p",
-                "x": "従来のVoice Control機能と同様に、Sonos 27voiceは再生の操作、タイマー設定、対応スマートホーム機器の操作、天気の案内ができる。違いは、自然言語のリクエストを理解して応答し、はるかに幅広い一般知識の質問にも答えられる点だ。たとえば「宇宙での冒険を描いたあのBowieのアルバムをかけて」や「今年のSuper Bowlで勝ったのは誰」と尋ねられる。"
+                "x": "Physical Intelligence (Pi)は、舞台裏でキャストを支えるロボットに注力している。3Dメガネを拾い、たたみ、清掃し、仕分ける作業だ。PiはDisneylandで12日間、真夜中から午前6時までの間にデータを収集した。Sourish Jastiは“ロボットのインターンシップのようなものだった”と語り、“Disneyとともに、さまざまな場所でロボットをインターンとして働かせるつもりだ”と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Pi AI-enabledのロボットが、Disneylandの舞台裏で3Dメガネを拾って積み重ねる。"
               },
               {
                 "t": "p",
-                "x": "試すには、Sonosアプリ内で早期アクセスを申請し、承認を受ける必要がある。Sonosは、フィードバックを集めるため、2027年の正式リリースに先立ち少人数のユーザーで機能をテストしているという（2024年の悲惨なアプリ刷新で招いた反発を避ける狙いもあるとみられる）。SonosはPresetsとSystem Healthも導入する。"
-              },
-              {
-                "t": "p",
-                "x": "早期アクセス期間中、Sonos 27voiceはUS（米国）でのみ、英語でのみ利用できる。Sonos 27自体も、SonosのS2プラットフォームのハードウェアに限られる。"
+                "x": "Disney ResearchのDoug Fidaleoは“未来のパークはロボットキャラクターであふれるだろう”と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sonos 27voice\n11月6日开放抢先体验",
-          "body": "Sonos将于11月6日开放自然语言助手27voice的抢先体验，为2027年发布做测试。",
-          "mini_headline": "Sonos 27voice抢先体验",
+          "headline": "Disneyland培训\n一批AI机器人实习生",
+          "body": "从Pixar停车机器人到Star Wars园区的机器人，AI遍布Disneyland。",
+          "mini_headline": "Disneyland的AI机器人实习生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "在Disney Accelerator Demo Day上，Disney与为机器人打造AI大脑的公司FieldAI展示了一段视频，内容是协助引导车辆完成Disneyland停车流程的机器人。Disney Experiences Technology的Gary Daniels说：“想象一下，你到达时由Cars里的角色或Wall-E中的机器人指引你去哪里停车。”"
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "TV下方的一台黑色Sonos Beam Ultra条形音箱。"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAI正利用AI训练自主机器人，在Disneyland停车场为你引路。"
               },
               {
                 "t": "p",
-                "x": "Sonos宣布，其新语音助手Sonos 27voice将于11月6日开放抢先体验测试，这是本周推送的更新的一部分。全新改版的语音助手是其新底层软件Sonos 27计划推出的多项新功能之一。"
+                "x": "FieldAI把它的物理AI装进一个带有多个摄像头的盒子，安装在其他公司制造的机器人上。FieldAI-enabled机器人已部署在Galaxy’s Edge的BBX机器人上，不过仍处于早期阶段。CEO Ali Agha说：“我们的智能已用在更大的版本上，并已在园区内运行。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAI借助AI，让自主机器人无需地图测绘、GPS或引导即可在Disneyland的Star Wars: Galaxy’s Edge中漫游。"
               },
               {
                 "t": "p",
-                "x": "与此前的Voice Control功能一样，Sonos 27voice可以控制播放、设置计时器、操作受支持的智能家居配件并播报天气。不同之处在于，它能理解并回应自然语言请求，还能回答范围广得多的常识问题——你可以让它“播放那张讲太空冒险的Bowie专辑”，或者问“今年Super Bowl谁赢了”。"
+                "x": "Physical Intelligence (Pi)专注于在后台协助演职人员的机器人：拾取、折叠、清洁和分拣3D眼镜。Pi在Disneyland待了12天，在午夜至早上6点之间收集数据。Sourish Jasti说：“这就像一次机器人实习。”“我们打算让机器人在Disney的许多不同场所实习。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Pi AI-enabled机器人在Disneyland幕后拾取并堆叠3D眼镜。"
               },
               {
                 "t": "p",
-                "x": "想要试用，需要在Sonos应用内申请抢先体验并获得批准。Sonos表示，在2027年全面发布之前，它正先与一小部分用户测试该功能以收集反馈（很可能也是为了避免重蹈2024年灾难性应用改版引发的强烈反弹）。Sonos还推出了Presets和System Health。"
-              },
-              {
-                "t": "p",
-                "x": "抢先体验期间，Sonos 27voice仅在US（美国）提供，且仅支持英语。Sonos 27本身也仅限于Sonos S2平台上的硬件。"
+                "x": "Disney Research的Doug Fidaleo说：“未来的园区将遍布机器人角色。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sonos 27voice abre el acceso\nanticipado el 6 de noviembre",
-          "body": "Sonos abre el 6 de noviembre el acceso anticipado a 27voice, su asistente de lenguaje natural, que llegará en 2027.",
-          "mini_headline": "Acceso anticipado a Sonos 27voice",
+          "headline": "Disneyland forma a una clase\nde robots aprendices con AI",
+          "body": "La Physical AI se extiende por Disneyland, desde robots de Pixar que ayudan a estacionar hasta droides de Star Wars.",
+          "mini_headline": "Los robots aprendices con AI de Disneyland",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "En el Disney Accelerator Demo Day, Disney y FieldAI, una empresa que desarrolla los cerebros de AI para robots, mostraron imágenes de robots que ayudarían a guiar los autos durante el proceso de estacionamiento en Disneyland. “Imagina que un personaje de Cars o los robots de Wall-E te indican dónde estacionar al llegar”, dijo Gary Daniels, de Disney Experiences Technology."
+              },
+              {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/intro-1793738872.jpg",
-                "cap": "Una barra de sonido Sonos Beam Ultra negra bajo una TV."
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_100454_YouTube.jpeg?w=864",
+                "cap": "FieldAI usa AI para entrenar robots autónomos que guían a los visitantes en los estacionamientos de Disneyland."
               },
               {
                 "t": "p",
-                "x": "Sonos ha anunciado que su nuevo asistente de voz, Sonos 27voice, podrá probarse en acceso anticipado a partir del 6 de noviembre, como parte de una actualización que se distribuye esta semana. Un asistente de voz renovado era una de las varias funciones nuevas previstas para su nuevo software base, Sonos 27."
+                "x": "FieldAI coloca su AI física en una caja con varias cámaras sobre robots fabricados por otros. Los robots FieldAI-enabled ya se han desplegado en Galaxy’s Edge en los droides BBX, aunque en fases iniciales. “Nuestra inteligencia está en la versión más grande y ya funciona en el parque”, dijo el CEO Ali Agha."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_101600_YouTube.jpeg?w=864",
+                "cap": "FieldAI usa AI para que droides autónomos recorran Star Wars: Galaxy’s Edge en Disneyland sin necesidad de mapeo, GPS ni guía."
               },
               {
                 "t": "p",
-                "x": "Al igual que la anterior función Voice Control, Sonos 27voice puede controlar la reproducción, programar temporizadores, interactuar con accesorios domóticos compatibles e informar del tiempo. La diferencia es que entiende y responde a peticiones en lenguaje natural y puede contestar preguntas sobre un abanico mucho más amplio de conocimiento general: se le puede pedir «pon ese álbum de Bowie sobre una aventura en el espacio» o «quién ganó la Super Bowl este año»."
+                "x": "Physical Intelligence (Pi) se centra en robots que ayudan al personal tras bambalinas: recoger, doblar, limpiar y clasificar gafas 3D. Pi pasó 12 días en Disneyland, entre la medianoche y las 6 a.m., recopilando datos. “Fue como una pasantía para robots”, dijo Sourish Jasti. “Queremos tener robots haciendo prácticas en muchos espacios distintos con Disney”."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot_20261104_102519_YouTube.jpeg?w=864",
+                "cap": "Robots Pi AI-enabled recogen y apilan gafas 3D tras bambalinas en Disneyland."
               },
               {
                 "t": "p",
-                "x": "Para probarlo hay que solicitar el acceso anticipado en la app de Sonos y obtener la aprobación. Sonos afirma que está probando la función con un grupo reducido de usuarios antes del lanzamiento completo en 2027 para recopilar comentarios (y, probablemente, evitar la reacción negativa que provocó el desastroso rediseño de su app en 2024). Sonos también presenta Presets y System Health."
-              },
-              {
-                "t": "p",
-                "x": "Durante el acceso anticipado, Sonos 27voice solo está disponible en Estados Unidos (US) y únicamente en inglés. Sonos 27 se limita al hardware de la plataforma S2 de Sonos."
+                "x": "“El parque del futuro estará repleto de personajes robot”, dijo Doug Fidaleo, de Disney Research."
               }
             ]
           }
@@ -989,15 +1069,15 @@
       }
     },
     {
-      "id": "cyclon-ai-phone-yc",
+      "id": "apple-watch-transfhar-gestures",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Cyclon이 만드는\n일 끝내는 AI 폰",
-      "body": "Y Combinator 출신 Cyclon이 앱을 다루고 만드는 AI 폰을 내놓는다.",
-      "mini_headline": "Cyclon의 일 끝내는 AI 폰",
+      "headline": "Apple Watch가\n새 손짓 일 분 만에 학습",
+      "body": "TransfHAR 덕분에 Apple Watch가 새 손짓을 약 일 분 만에 익힌다.",
+      "mini_headline": "제스처를 빠르게 익히는 Apple Watch",
       "tool": "Gadgets",
       "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
+      "url": "https://www.digitaltrends.com/wearables/apple-watch-research-shows-it-can-learn-new-hand-gestures-within-minutes-and-its-a-boon-for-shortcuts/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1005,257 +1085,263 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Cyclon AI 폰"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+            "cap": "Apple Watch Ultra 2 듀얼 제스처 예시"
           },
           {
             "t": "p",
-            "x": "휴대폰으로 하는 일은 대부분 아직도 순서가 같다. 앱을 열고 화면 몇 개를 넘긴 다음 손수 마무리한다. Y Combinator F26 배치 출신 스타트업 Cyclon은 iPhone을 대신하겠다는 휴대폰을 내세워 이 과정을 통째로 AI에 맡기려 한다."
+            "x": "Northwestern University와 Carnegie Mellon University 연구진이 TransfHAR라는 시스템을 개발했다. Apple Watch에 든 모션 센서인 가속도계와 자이로스코프로 손과 손목의 움직임을 읽어 활동을 학습하고 식별한다."
           },
           {
             "t": "p",
-            "x": "비서 대부분은 개발자가 먼저 연동 기능을 만들어 줘야 앱 안에서 뭐라도 할 수 있다. Cyclon은 그걸 기다리지 않는다. 사람처럼 앱 사이를 오가고, 일을 끝낼 때까지 여러 앱을 넘나든다."
+            "x": "참가자 10명이 커피 젓기, 허공에 하트 그리기 같은 활동을 일곱 가지씩 골랐다. 시스템의 핵심 모델은 Google 연구진이 만든 웨어러블 센서 모델 LSM-2에 바탕을 두고, 381명에게서 모은 약 2,760시간 분량의 공개 손목 움직임 데이터로 학습했다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-            "cap": "Cyclon ai 폰 소프트웨어 목업"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+            "cap": "TransfHAR용 Apple Watch 학습"
           },
           {
             "t": "p",
-            "x": "WhatsApp 대화방 깊숙이 묻힌 사진 몇 장을 친구에게 보내야 한다면 Cyclon에 찾아서 보내 달라고 하면 그만이다. 필요한 앱이 없으면 Cyclon이 즉석에서 만들고, 휴대폰을 주머니에 넣어 둔 동안에도 백그라운드에서 일을 이어 간다."
+            "x": "워치는 활동마다 단 일 분 분량의 움직임 데이터만으로 새 활동 일곱 가지를 90% 정확도로 알아봤다. 활동당 2.56초짜리 클립 하나만 써도 균형 정확도가 75.2%였다. 학습은 일 초도 안 걸리고, 워치는 페어링된 휴대폰이나 원격 서버 없이 약 24밀리초 만에 예측을 내놓는다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+            "cap": "TransfHAR용 Apple Watch 학습"
           },
           {
             "t": "p",
-            "x": "당장 살 수도 있다. 첫 Cyclon 폰은 Cyclon을 미리 깐 Pixel 8a이고, 사전 주문하면 30일 안에 배송된다. Cyclon이 하는 일은 거의 전부 운영체제 수준에서 이뤄지니 Pixel로 출발하는 게 합리적이다."
+            "x": "제스처로 단축어나 스마트홈 동작을 실행할 수 있다. 다만 글쓰기나 스크롤처럼 작고 이어지는 손동작에는 약하고, 연구팀은 배터리 수명에 주는 영향을 측정하지 않았다."
           },
           {
-            "t": "p",
-            "x": "자체 하드웨어도 로드맵에 올라 있다. Cyclon은 자체 휴대폰에서 더 강력한 AI 모델을 로컬로 돌리고 클라우드 모델과 짝지어 개인 데이터를 되도록 기기 안에 두겠다는 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "앱마다 레이아웃도 특성도 제각각이라, 화면을 눌러 가며 움직이는 AI는 그걸 다 감당해야 한다. Cyclon이 해낸다면 지루한 일이 크게 줄어든다. 못 해낸다면 약속만 앞선 비서가 하나 더 늘 뿐이다."
+            "t": "video",
+            "yt": "8bVF4_c3y6s"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cyclon builds an AI phone\nthat gets tasks done",
-          "body": "Y Combinator-backed Cyclon is building an AI phone that navigates apps, completes tasks, and creates apps on demand.",
-          "mini_headline": "Cyclon's task-doing AI phone",
+          "headline": "Apple Watch learns a new\nhand gesture in a minute",
+          "body": "TransfHAR uses the Apple Watch's accelerometer and gyroscope to learn a new hand gesture in about a minute.",
+          "mini_headline": "Apple Watch learns gestures fast",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Cyclon AI phone"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Apple Watch Ultra 2 dual gesture example"
               },
               {
                 "t": "p",
-                "x": "Most of what we do on our phones still follows the same routine. You open an app, tap through a few screens, and finish the task yourself. Cyclon, a startup from Y Combinator’s F26 batch, wants to hand that whole routine over to AI with a phone it hopes will replace your iPhone."
+                "x": "Researchers from Northwestern University and Carnegie Mellon University have developed a system called TransfHAR that uses the motion sensors inside the Apple Watch, the accelerometer and the gyroscope, to learn and identify activities based on the movement of your hands and wrist."
               },
               {
                 "t": "p",
-                "x": "Most assistants rely on developers to build integrations before they can do anything inside an app. Cyclon doesn’t wait for that. It moves through apps the same way you do and can jump between several of them to finish a job."
+                "x": "10 participants each picked seven activities, such as stirring coffee or drawing a heart in the air. The system’s core model is adapted from LSM-2, a wearable sensor model developed by Google researchers, and was trained on roughly 2,760 hours of public wrist movement data from 381 people."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Cyclon ai phone software mockup"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "Training Apple Watch for TransfHAR"
               },
               {
                 "t": "p",
-                "x": "Say you want to send a friend some photos buried in a WhatsApp chat. You can ask Cyclon to find them and send them over. When the app you need doesn’t exist, Cyclon builds one on the spot, and it keeps working in the background while your phone sits in your pocket."
+                "x": "The watch was able to recognize seven new activities with 90% accuracy using just one minute of recorded movement data per activity. A single 2.56-second clip per activity delivers a balanced accuracy of 75.2%. Training takes less than a second, and the watch can make a prediction in about 24 milliseconds, without a paired phone or remote server."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "Training Apple Watch for TransfHAR"
               },
               {
                 "t": "p",
-                "x": "You can get one today. The first batch of Cyclon phones is a Pixel 8a with Cyclon preinstalled, and the company ships it within 30 days of your preorder. Starting with a Pixel makes sense because Cyclon’s work happens almost entirely at the operating system level."
+                "x": "Gestures could trigger shortcuts or smart home actions. The system struggles with small, sustained hand movements like writing or scrolling, and the team didn’t measure the impact on battery life."
               },
               {
-                "t": "p",
-                "x": "Custom hardware is still on the roadmap, though. With its own phone, Cyclon plans to run more powerful AI models locally and pair them with cloud models, keeping as much of your personal data on the device as possible."
-              },
-              {
-                "t": "p",
-                "x": "Every app has its own layout and quirks, and an AI that taps through screens has to handle them all. If Cyclon pulls that off, it could save us from a lot of tedious work. If it can’t, it risks becoming another assistant that promises more than it delivers."
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Cyclon이 만드는\n일 끝내는 AI 폰",
-          "body": "Y Combinator 출신 Cyclon이 앱을 다루고 만드는 AI 폰을 내놓는다.",
-          "mini_headline": "Cyclon의 일 끝내는 AI 폰",
+          "headline": "Apple Watch가\n새 손짓 일 분 만에 학습",
+          "body": "TransfHAR 덕분에 Apple Watch가 새 손짓을 약 일 분 만에 익힌다.",
+          "mini_headline": "제스처를 빠르게 익히는 Apple Watch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Cyclon AI 폰"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Apple Watch Ultra 2 듀얼 제스처 예시"
               },
               {
                 "t": "p",
-                "x": "휴대폰으로 하는 일은 대부분 아직도 순서가 같다. 앱을 열고 화면 몇 개를 넘긴 다음 손수 마무리한다. Y Combinator F26 배치 출신 스타트업 Cyclon은 iPhone을 대신하겠다는 휴대폰을 내세워 이 과정을 통째로 AI에 맡기려 한다."
+                "x": "Northwestern University와 Carnegie Mellon University 연구진이 TransfHAR라는 시스템을 개발했다. Apple Watch에 든 모션 센서인 가속도계와 자이로스코프로 손과 손목의 움직임을 읽어 활동을 학습하고 식별한다."
               },
               {
                 "t": "p",
-                "x": "비서 대부분은 개발자가 먼저 연동 기능을 만들어 줘야 앱 안에서 뭐라도 할 수 있다. Cyclon은 그걸 기다리지 않는다. 사람처럼 앱 사이를 오가고, 일을 끝낼 때까지 여러 앱을 넘나든다."
+                "x": "참가자 10명이 커피 젓기, 허공에 하트 그리기 같은 활동을 일곱 가지씩 골랐다. 시스템의 핵심 모델은 Google 연구진이 만든 웨어러블 센서 모델 LSM-2에 바탕을 두고, 381명에게서 모은 약 2,760시간 분량의 공개 손목 움직임 데이터로 학습했다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Cyclon ai 폰 소프트웨어 목업"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "TransfHAR용 Apple Watch 학습"
               },
               {
                 "t": "p",
-                "x": "WhatsApp 대화방 깊숙이 묻힌 사진 몇 장을 친구에게 보내야 한다면 Cyclon에 찾아서 보내 달라고 하면 그만이다. 필요한 앱이 없으면 Cyclon이 즉석에서 만들고, 휴대폰을 주머니에 넣어 둔 동안에도 백그라운드에서 일을 이어 간다."
+                "x": "워치는 활동마다 단 일 분 분량의 움직임 데이터만으로 새 활동 일곱 가지를 90% 정확도로 알아봤다. 활동당 2.56초짜리 클립 하나만 써도 균형 정확도가 75.2%였다. 학습은 일 초도 안 걸리고, 워치는 페어링된 휴대폰이나 원격 서버 없이 약 24밀리초 만에 예측을 내놓는다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "TransfHAR용 Apple Watch 학습"
               },
               {
                 "t": "p",
-                "x": "당장 살 수도 있다. 첫 Cyclon 폰은 Cyclon을 미리 깐 Pixel 8a이고, 사전 주문하면 30일 안에 배송된다. Cyclon이 하는 일은 거의 전부 운영체제 수준에서 이뤄지니 Pixel로 출발하는 게 합리적이다."
+                "x": "제스처로 단축어나 스마트홈 동작을 실행할 수 있다. 다만 글쓰기나 스크롤처럼 작고 이어지는 손동작에는 약하고, 연구팀은 배터리 수명에 주는 영향을 측정하지 않았다."
               },
               {
-                "t": "p",
-                "x": "자체 하드웨어도 로드맵에 올라 있다. Cyclon은 자체 휴대폰에서 더 강력한 AI 모델을 로컬로 돌리고 클라우드 모델과 짝지어 개인 데이터를 되도록 기기 안에 두겠다는 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "앱마다 레이아웃도 특성도 제각각이라, 화면을 눌러 가며 움직이는 AI는 그걸 다 감당해야 한다. Cyclon이 해낸다면 지루한 일이 크게 줄어든다. 못 해낸다면 약속만 앞선 비서가 하나 더 늘 뿐이다."
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cyclonが作る\n仕事をこなすAIフォン",
-          "body": "Y Combinator出身のCyclonが、アプリを操作し作業をこなすAIフォンを作る。",
-          "mini_headline": "Cyclonの作業をこなすAIフォン",
+          "headline": "Apple Watch、\n新しい手の動きを一分で習得",
+          "body": "TransfHARはApple Watchの加速度計とジャイロで新たな手振りを約一分で学ぶ。",
+          "mini_headline": "ジェスチャーを素早く覚えるApple Watch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Cyclon AIフォン"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Apple Watch Ultra 2のデュアルジェスチャーの例"
               },
               {
                 "t": "p",
-                "x": "私たちがスマートフォンでしていることの大半は、今も同じ手順をたどる。アプリを開き、いくつかの画面をタップして進み、作業を自分で終える。Y CombinatorのF26バッチ出身のスタートアップCyclonは、iPhoneに取って代わることを目指すスマートフォンで、その手順をまるごとAIに任せようとしている。"
+                "x": "Northwestern UniversityとCarnegie Mellon Universityの研究者は、Apple Watchに内蔵されたモーションセンサーである加速度計とジャイロスコープを使い、手と手首の動きから活動を学習・識別するシステム「TransfHAR」を開発した。"
               },
               {
                 "t": "p",
-                "x": "多くのアシスタントは、アプリ内で何かをする前に開発者が連携機能を用意する必要がある。Cyclonはそれを待たない。人と同じようにアプリを操作し、複数のアプリを行き来して作業を終えられる。"
+                "x": "10人の参加者はそれぞれ、コーヒーをかき混ぜる、空中にハートを描くといった活動を七つ選んだ。システムの中核モデルはGoogleの研究者が開発したウェアラブルセンサーモデルLSM-2を応用したもので、381人から集めた約2,760時間分の公開手首動作データで訓練された。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Cyclon aiフォンのソフトウェアのモックアップ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "TransfHAR向けにApple Watchを訓練する様子"
               },
               {
                 "t": "p",
-                "x": "たとえば、WhatsAppのチャットに埋もれた写真を友人に送りたいとする。Cyclonに頼めば、探して送ってくれる。必要なアプリが存在しなければCyclonがその場で作り、スマートフォンがポケットに入っている間もバックグラウンドで作業を続ける。"
+                "x": "ウォッチは、活動ごとにわずか一分間の動作データだけで、七つの新たな活動を90%の精度で認識できた。活動ごとに2.56秒のクリップ一本でも、バランス精度は75.2%に達する。訓練は一秒未満で終わり、ペアリングしたスマートフォンやリモートサーバーなしで約24ミリ秒で予測できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "TransfHAR向けにApple Watchを訓練する様子"
               },
               {
                 "t": "p",
-                "x": "すでに入手も可能だ。最初のCyclonフォンはCyclonをプリインストールしたPixel 8aで、予約注文から30日以内に出荷される。Cyclonの処理はほぼすべてOSレベルで行われるため、Pixelから始めるのは理にかなっている。"
+                "x": "ジェスチャーでショートカットやスマートホームの操作を起動できる可能性がある。一方、文字を書く、スクロールするといった小さく持続的な手の動きは苦手で、研究チームはバッテリー寿命への影響を測定していない。"
               },
               {
-                "t": "p",
-                "x": "ただし独自ハードウェアも計画にある。Cyclonは自社端末で、より強力なAIモデルをローカルで動かしてクラウドのモデルと組み合わせ、個人データをできる限り端末内にとどめる方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "アプリにはそれぞれ独自のレイアウトや癖があり、画面をタップして操作するAIはそのすべてに対応しなければならない。Cyclonがそれをやり遂げれば、面倒な作業の多くから解放されるかもしれない。できなければ、約束ばかりで成果の伴わないアシスタントの一つになりかねない。"
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cyclon打造\n能办事的AI手机",
-          "body": "Y Combinator支持的Cyclon打造能操作应用、完成任务并按需创建应用的AI手机。",
-          "mini_headline": "Cyclon的办事AI手机",
+          "headline": "Apple Watch\n一分钟学会新手势",
+          "body": "TransfHAR借助Apple Watch的加速度计和陀螺仪，约一分钟即可学会新手势。",
+          "mini_headline": "Apple Watch快速学会手势",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Cyclon AI手机"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Apple Watch Ultra 2双重手势示例"
               },
               {
                 "t": "p",
-                "x": "我们在手机上做的大多数事情仍遵循同样的流程：打开应用，点过几个页面，再自己完成任务。来自Y Combinator F26批次的初创公司Cyclon，希望用一款有望取代你的iPhone的手机，把这一整套流程交给AI。"
+                "x": "Northwestern University和Carnegie Mellon University的研究人员开发了一套名为TransfHAR的系统，它利用Apple Watch内置的运动传感器——加速度计和陀螺仪——根据手和手腕的动作来学习和识别活动。"
               },
               {
                 "t": "p",
-                "x": "大多数助手需要开发者先构建集成，才能在应用内做任何事。Cyclon不等这一步。它像你一样在应用中操作，并能在多个应用之间切换来完成工作。"
+                "x": "10名参与者各自挑选了七项活动，例如搅拌咖啡或在空中画一颗心。该系统的核心模型改编自Google研究人员开发的可穿戴传感器模型LSM-2，并使用来自381人、约2,760小时的公开手腕动作数据进行训练。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Cyclon ai手机软件效果图"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "为TransfHAR训练Apple Watch"
               },
               {
                 "t": "p",
-                "x": "假设你想把WhatsApp聊天里埋得很深的几张照片发给朋友，只要让Cyclon找出来发过去即可。如果所需的应用不存在，Cyclon会当场做一个；手机放在口袋里时，它也会在后台继续工作。"
+                "x": "每项活动只需一分钟的动作记录数据，手表就能以90%的准确率识别七项新活动。每项活动仅用一段2.56秒的片段，平衡准确率也能达到75.2%。训练耗时不到一秒，手表无需配对手机或远程服务器，约24毫秒即可做出预测。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "为TransfHAR训练Apple Watch"
               },
               {
                 "t": "p",
-                "x": "现在就能买到。首批Cyclon手机是预装Cyclon的Pixel 8a，公司会在你预订后30天内发货。从Pixel起步是合理的，因为Cyclon的工作几乎完全在操作系统层面进行。"
+                "x": "手势可用于触发快捷指令或智能家居操作。该系统难以识别写字或滚动这类细小而持续的手部动作，研究团队也没有测量其对电池续航的影响。"
               },
               {
-                "t": "p",
-                "x": "不过，定制硬件仍在路线图上。Cyclon计划在自家手机上本地运行更强大的AI模型，并与云端模型搭配，尽可能把个人数据保留在设备上。"
-              },
-              {
-                "t": "p",
-                "x": "每个应用都有自己的布局和怪癖，一个靠点击屏幕操作的AI必须应对所有这些情况。如果Cyclon做到了，它能为我们省去大量繁琐工作；如果做不到，它就可能沦为又一个承诺多于兑现的助手。"
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cyclon crea un teléfono con AI\nque hace las tareas por ti",
-          "body": "Cyclon, respaldada por Y Combinator, desarrolla un teléfono con AI que usa apps, completa tareas y crea apps a demanda.",
-          "mini_headline": "El teléfono con AI de Cyclon",
+          "headline": "El Apple Watch aprende un nuevo\ngesto de la mano en un minuto",
+          "body": "TransfHAR usa el acelerómetro y el giroscopio del Apple Watch para aprender un nuevo gesto en cerca de un minuto.",
+          "mini_headline": "El Apple Watch aprende gestos rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Teléfono Cyclon AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Ejemplo del doble gesto del Apple Watch Ultra 2"
               },
               {
                 "t": "p",
-                "x": "Casi todo lo que hacemos en el teléfono sigue la misma rutina: abrir una app, tocar varias pantallas y terminar la tarea uno mismo. Cyclon, una startup de la tanda F26 de Y Combinator, quiere ceder toda esa rutina a la AI con un teléfono que espera que reemplace a tu iPhone."
+                "x": "Investigadores de Northwestern University y Carnegie Mellon University desarrollaron un sistema llamado TransfHAR que usa los sensores de movimiento del Apple Watch, el acelerómetro y el giroscopio, para aprender e identificar actividades a partir del movimiento de las manos y la muñeca."
               },
               {
                 "t": "p",
-                "x": "La mayoría de los asistentes dependen de que los desarrolladores creen integraciones antes de poder hacer algo dentro de una app. Cyclon no espera a eso. Se mueve por las apps igual que tú y puede saltar entre varias de ellas para terminar un trabajo."
+                "x": "10 participantes eligieron cada uno siete actividades, como remover el café o dibujar un corazón en el aire. El modelo central del sistema está adaptado de LSM-2, un modelo de sensores portátiles desarrollado por investigadores de Google, y se entrenó con unas 2,760 horas de datos públicos de movimiento de muñeca de 381 personas."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Maqueta del software del teléfono Cyclon ai"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "Entrenamiento del Apple Watch para TransfHAR"
               },
               {
                 "t": "p",
-                "x": "Supongamos que quieres enviar a un amigo unas fotos perdidas en un chat de WhatsApp. Puedes pedirle a Cyclon que las encuentre y se las mande. Cuando la app que necesitas no existe, Cyclon crea una en el momento, y sigue trabajando en segundo plano mientras el teléfono está en tu bolsillo."
+                "x": "El reloj logró reconocer siete actividades nuevas con un 90% de precisión usando solo un minuto de datos de movimiento grabados por actividad. Un único clip de 2.56 segundos por actividad ofrece una precisión equilibrada del 75.2%. El entrenamiento tarda menos de un segundo y el reloj puede hacer una predicción en unos 24 milisegundos, sin un teléfono vinculado ni un servidor remoto."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "Entrenamiento del Apple Watch para TransfHAR"
               },
               {
                 "t": "p",
-                "x": "Ya se puede conseguir. La primera tanda de teléfonos Cyclon es un Pixel 8a con Cyclon preinstalado, y la empresa lo envía en un plazo de 30 días desde la reserva. Empezar con un Pixel tiene sentido porque el trabajo de Cyclon ocurre casi por completo en el nivel del sistema operativo."
+                "x": "Los gestos podrían activar atajos o acciones del hogar inteligente. El sistema tiene dificultades con movimientos de la mano pequeños y sostenidos, como escribir o desplazarse, y el equipo no midió el impacto en la duración de la batería."
               },
               {
-                "t": "p",
-                "x": "Aun así, el hardware propio sigue en la hoja de ruta. Con su propio teléfono, Cyclon planea ejecutar localmente modelos de AI más potentes y combinarlos con modelos en la nube, manteniendo en el dispositivo la mayor parte posible de los datos personales."
-              },
-              {
-                "t": "p",
-                "x": "Cada app tiene su propio diseño y sus particularidades, y una AI que navega tocando pantallas tiene que manejarlas todas. Si Cyclon lo consigue, podría ahorrarnos mucho trabajo tedioso. Si no, corre el riesgo de convertirse en otro asistente que promete más de lo que cumple."
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
@@ -1263,177 +1349,181 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Cyclon이 만드는\n일 끝내는 AI 폰",
-          "body": "Y Combinator 출신 Cyclon이 앱을 다루고 만드는 AI 폰을 개발한다.",
-          "mini_headline": "Cyclon의 일 끝내는 AI 폰",
+          "headline": "Apple Watch가\n새 손짓 일 분 만에 학습",
+          "body": "TransfHAR는 Apple Watch 센서로 새 손짓을 약 일 분에 익힌다.",
+          "mini_headline": "제스처를 빠르게 익히는 Apple Watch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Cyclon AI 폰"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Apple Watch Ultra 2 듀얼 제스처 예시"
               },
               {
                 "t": "p",
-                "x": "우리가 휴대폰으로 하는 일은 대부분 여전히 같은 순서를 따른다. 앱을 열고, 화면 몇 개를 넘긴 뒤, 작업을 직접 마무리한다. Y Combinator F26 배치 출신 스타트업 Cyclon은 iPhone을 대체하길 바라는 휴대폰으로 이 과정을 통째로 AI에 맡기려 한다."
+                "x": "Northwestern University와 Carnegie Mellon University 연구진은 Apple Watch에 든 모션 센서인 가속도계와 자이로스코프로 손과 손목의 움직임을 바탕으로 활동을 학습하고 식별하는 TransfHAR라는 시스템을 개발했다."
               },
               {
                 "t": "p",
-                "x": "대부분의 비서는 앱 안에서 무엇이든 하려면 개발자가 먼저 연동 기능을 만들어 줘야 한다. Cyclon은 그것을 기다리지 않는다. 사람이 하듯 앱 사이를 움직이고, 일을 끝내려고 여러 앱을 넘나들 수 있다."
+                "x": "참가자 10명은 커피 젓기, 허공에 하트 그리기 같은 활동을 각자 일곱 가지씩 골랐다. 시스템의 핵심 모델은 Google 연구진이 개발한 웨어러블 센서 모델 LSM-2를 바탕으로 하며, 381명에게서 얻은 약 2,760시간 분량의 공개 손목 움직임 데이터로 학습했다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Cyclon ai 폰 소프트웨어 목업"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "TransfHAR를 위한 Apple Watch 학습"
               },
               {
                 "t": "p",
-                "x": "WhatsApp 대화방 깊숙이 묻힌 사진 몇 장을 친구에게 보내고 싶다고 하자. Cyclon에 찾아서 보내 달라고 하면 된다. 필요한 앱이 없으면 Cyclon이 그 자리에서 앱을 만들고, 휴대폰이 주머니에 있는 동안에도 백그라운드에서 계속 일한다."
+                "x": "워치는 활동마다 단 일 분 분량의 움직임 데이터만으로 새로운 활동 일곱 가지를 90% 정확도로 인식했다. 활동당 2.56초짜리 클립 하나만 써도 균형 정확도는 75.2%였다. 학습에는 일 초도 걸리지 않으며, 워치는 페어링된 휴대폰이나 원격 서버 없이 약 24밀리초 만에 예측을 내놓는다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "TransfHAR를 위한 Apple Watch 학습"
               },
               {
                 "t": "p",
-                "x": "지금 바로 구할 수도 있다. 첫 Cyclon 폰은 Cyclon이 미리 설치된 Pixel 8a이며, 회사는 사전 주문 후 30일 안에 배송한다. Cyclon의 작업은 거의 전부 운영체제 수준에서 이뤄지므로 Pixel로 시작하는 것은 합리적이다."
+                "x": "제스처로 단축어나 스마트홈 동작을 실행할 수 있다. 다만 글쓰기나 스크롤처럼 작고 지속적인 손동작에는 약하며, 연구팀은 배터리 수명에 미치는 영향을 측정하지 않았다."
               },
               {
-                "t": "p",
-                "x": "다만 자체 하드웨어도 로드맵에 있다. Cyclon은 자체 휴대폰에서 더 강력한 AI 모델을 로컬로 돌리고 클라우드 모델과 짝지어, 개인 데이터를 최대한 기기 안에 두겠다는 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "앱마다 레이아웃과 특성이 제각각이고, 화면을 눌러 가며 움직이는 AI는 그 모두를 감당해야 한다. Cyclon이 이를 해낸다면 지루한 일을 크게 덜어 줄 수 있다. 그러지 못한다면 약속만 앞서는 또 하나의 비서가 될 위험이 있다."
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cyclonが作る\n仕事をこなすAIフォン",
-          "body": "Y Combinator出身のCyclonが、アプリを操作し作業をこなすAIフォンを作る。",
-          "mini_headline": "Cyclonの作業をこなすAIフォン",
+          "headline": "Apple Watch、\n新しい手の動きを一分で習得",
+          "body": "TransfHARはApple Watchの加速度計とジャイロで新たな手振りを約一分で学ぶ。",
+          "mini_headline": "ジェスチャーを素早く覚えるApple Watch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Cyclon AIフォン"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Apple Watch Ultra 2のデュアルジェスチャーの例"
               },
               {
                 "t": "p",
-                "x": "私たちがスマートフォンでしていることの大半は、今も同じ手順をたどる。アプリを開き、いくつかの画面をタップして進み、作業を自分で終える。Y CombinatorのF26バッチ出身のスタートアップCyclonは、iPhoneに取って代わることを目指すスマートフォンで、その手順をまるごとAIに任せようとしている。"
+                "x": "Northwestern UniversityとCarnegie Mellon Universityの研究者は、Apple Watchに内蔵されたモーションセンサーである加速度計とジャイロスコープを使い、手と手首の動きから活動を学習・識別するシステム「TransfHAR」を開発した。"
               },
               {
                 "t": "p",
-                "x": "多くのアシスタントは、アプリ内で何かをする前に開発者が連携機能を用意する必要がある。Cyclonはそれを待たない。人と同じようにアプリを操作し、複数のアプリを行き来して作業を終えられる。"
+                "x": "10人の参加者はそれぞれ、コーヒーをかき混ぜる、空中にハートを描くといった活動を七つ選んだ。システムの中核モデルはGoogleの研究者が開発したウェアラブルセンサーモデルLSM-2を応用したもので、381人から集めた約2,760時間分の公開手首動作データで訓練された。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Cyclon aiフォンのソフトウェアのモックアップ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "TransfHAR向けにApple Watchを訓練する様子"
               },
               {
                 "t": "p",
-                "x": "たとえば、WhatsAppのチャットに埋もれた写真を友人に送りたいとする。Cyclonに頼めば、探して送ってくれる。必要なアプリが存在しなければCyclonがその場で作り、スマートフォンがポケットに入っている間もバックグラウンドで作業を続ける。"
+                "x": "ウォッチは、活動ごとにわずか一分間の動作データだけで、七つの新たな活動を90%の精度で認識できた。活動ごとに2.56秒のクリップ一本でも、バランス精度は75.2%に達する。訓練は一秒未満で終わり、ペアリングしたスマートフォンやリモートサーバーなしで約24ミリ秒で予測できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "TransfHAR向けにApple Watchを訓練する様子"
               },
               {
                 "t": "p",
-                "x": "すでに入手も可能だ。最初のCyclonフォンはCyclonをプリインストールしたPixel 8aで、予約注文から30日以内に出荷される。Cyclonの処理はほぼすべてOSレベルで行われるため、Pixelから始めるのは理にかなっている。"
+                "x": "ジェスチャーでショートカットやスマートホームの操作を起動できる可能性がある。一方、文字を書く、スクロールするといった小さく持続的な手の動きは苦手で、研究チームはバッテリー寿命への影響を測定していない。"
               },
               {
-                "t": "p",
-                "x": "ただし独自ハードウェアも計画にある。Cyclonは自社端末で、より強力なAIモデルをローカルで動かしてクラウドのモデルと組み合わせ、個人データをできる限り端末内にとどめる方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "アプリにはそれぞれ独自のレイアウトや癖があり、画面をタップして操作するAIはそのすべてに対応しなければならない。Cyclonがそれをやり遂げれば、面倒な作業の多くから解放されるかもしれない。できなければ、約束ばかりで成果の伴わないアシスタントの一つになりかねない。"
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cyclon打造\n能办事的AI手机",
-          "body": "Y Combinator支持的Cyclon打造能操作应用、完成任务并按需创建应用的AI手机。",
-          "mini_headline": "Cyclon的办事AI手机",
+          "headline": "Apple Watch\n一分钟学会新手势",
+          "body": "TransfHAR借助Apple Watch的加速度计和陀螺仪，约一分钟即可学会新手势。",
+          "mini_headline": "Apple Watch快速学会手势",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Cyclon AI手机"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Apple Watch Ultra 2双重手势示例"
               },
               {
                 "t": "p",
-                "x": "我们在手机上做的大多数事情仍遵循同样的流程：打开应用，点过几个页面，再自己完成任务。来自Y Combinator F26批次的初创公司Cyclon，希望用一款有望取代你的iPhone的手机，把这一整套流程交给AI。"
+                "x": "Northwestern University和Carnegie Mellon University的研究人员开发了一套名为TransfHAR的系统，它利用Apple Watch内置的运动传感器——加速度计和陀螺仪——根据手和手腕的动作来学习和识别活动。"
               },
               {
                 "t": "p",
-                "x": "大多数助手需要开发者先构建集成，才能在应用内做任何事。Cyclon不等这一步。它像你一样在应用中操作，并能在多个应用之间切换来完成工作。"
+                "x": "10名参与者各自挑选了七项活动，例如搅拌咖啡或在空中画一颗心。该系统的核心模型改编自Google研究人员开发的可穿戴传感器模型LSM-2，并使用来自381人、约2,760小时的公开手腕动作数据进行训练。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Cyclon ai手机软件效果图"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "为TransfHAR训练Apple Watch"
               },
               {
                 "t": "p",
-                "x": "假设你想把WhatsApp聊天里埋得很深的几张照片发给朋友，只要让Cyclon找出来发过去即可。如果所需的应用不存在，Cyclon会当场做一个；手机放在口袋里时，它也会在后台继续工作。"
+                "x": "每项活动只需一分钟的动作记录数据，手表就能以90%的准确率识别七项新活动。每项活动仅用一段2.56秒的片段，平衡准确率也能达到75.2%。训练耗时不到一秒，手表无需配对手机或远程服务器，约24毫秒即可做出预测。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "为TransfHAR训练Apple Watch"
               },
               {
                 "t": "p",
-                "x": "现在就能买到。首批Cyclon手机是预装Cyclon的Pixel 8a，公司会在你预订后30天内发货。从Pixel起步是合理的，因为Cyclon的工作几乎完全在操作系统层面进行。"
+                "x": "手势可用于触发快捷指令或智能家居操作。该系统难以识别写字或滚动这类细小而持续的手部动作，研究团队也没有测量其对电池续航的影响。"
               },
               {
-                "t": "p",
-                "x": "不过，定制硬件仍在路线图上。Cyclon计划在自家手机上本地运行更强大的AI模型，并与云端模型搭配，尽可能把个人数据保留在设备上。"
-              },
-              {
-                "t": "p",
-                "x": "每个应用都有自己的布局和怪癖，一个靠点击屏幕操作的AI必须应对所有这些情况。如果Cyclon做到了，它能为我们省去大量繁琐工作；如果做不到，它就可能沦为又一个承诺多于兑现的助手。"
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cyclon crea un teléfono con AI\nque hace las tareas por ti",
-          "body": "Cyclon, respaldada por Y Combinator, desarrolla un teléfono con AI que usa apps, completa tareas y crea apps a demanda.",
-          "mini_headline": "El teléfono con AI de Cyclon",
+          "headline": "El Apple Watch aprende un nuevo\ngesto de la mano en un minuto",
+          "body": "TransfHAR usa el acelerómetro y el giroscopio del Apple Watch para aprender un nuevo gesto en cerca de un minuto.",
+          "mini_headline": "El Apple Watch aprende gestos rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-AI-phone.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Teléfono Cyclon AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/09/apple-watch-ultra-2-dual-gesture.jpg?resize=1350%2C810&ssl=1",
+                "cap": "Ejemplo del doble gesto del Apple Watch Ultra 2"
               },
               {
                 "t": "p",
-                "x": "Casi todo lo que hacemos en el teléfono sigue la misma rutina: abrir una app, tocar varias pantallas y terminar la tarea uno mismo. Cyclon, una startup de la tanda F26 de Y Combinator, quiere ceder toda esa rutina a la AI con un teléfono que espera que reemplace a tu iPhone."
+                "x": "Investigadores de Northwestern University y Carnegie Mellon University desarrollaron un sistema llamado TransfHAR que usa los sensores de movimiento del Apple Watch, el acelerómetro y el giroscopio, para aprender e identificar actividades a partir del movimiento de las manos y la muñeca."
               },
               {
                 "t": "p",
-                "x": "La mayoría de los asistentes dependen de que los desarrolladores creen integraciones antes de poder hacer algo dentro de una app. Cyclon no espera a eso. Se mueve por las apps igual que tú y puede saltar entre varias de ellas para terminar un trabajo."
+                "x": "10 participantes eligieron cada uno siete actividades, como remover el café o dibujar un corazón en el aire. El modelo central del sistema está adaptado de LSM-2, un modelo de sensores portátiles desarrollado por investigadores de Google, y se entrenó con unas 2,760 horas de datos públicos de movimiento de muñeca de 381 personas."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cyclon-ai-phone-software-mockup.jpg?resize=2000%2C1200&ssl=1",
-                "cap": "Maqueta del software del teléfono Cyclon ai"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.36.42-AM.jpeg?resize=2018%2C1488&ssl=1",
+                "cap": "Entrenamiento del Apple Watch para TransfHAR"
               },
               {
                 "t": "p",
-                "x": "Supongamos que quieres enviar a un amigo unas fotos perdidas en un chat de WhatsApp. Puedes pedirle a Cyclon que las encuentre y se las mande. Cuando la app que necesitas no existe, Cyclon crea una en el momento, y sigue trabajando en segundo plano mientras el teléfono está en tu bolsillo."
+                "x": "El reloj logró reconocer siete actividades nuevas con un 90% de precisión usando solo un minuto de datos de movimiento grabados por actividad. Un único clip de 2.56 segundos por actividad ofrece una precisión equilibrada del 75.2%. El entrenamiento tarda menos de un segundo y el reloj puede hacer una predicción en unos 24 milisegundos, sin un teléfono vinculado ni un servidor remoto."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-watch-transfahr-2026-11-04-at-5.35.47-AM-scaled.jpeg?resize=2560%2C1290&ssl=1",
+                "cap": "Entrenamiento del Apple Watch para TransfHAR"
               },
               {
                 "t": "p",
-                "x": "Ya se puede conseguir. La primera tanda de teléfonos Cyclon es un Pixel 8a con Cyclon preinstalado, y la empresa lo envía en un plazo de 30 días desde la reserva. Empezar con un Pixel tiene sentido porque el trabajo de Cyclon ocurre casi por completo en el nivel del sistema operativo."
+                "x": "Los gestos podrían activar atajos o acciones del hogar inteligente. El sistema tiene dificultades con movimientos de la mano pequeños y sostenidos, como escribir o desplazarse, y el equipo no midió el impacto en la duración de la batería."
               },
               {
-                "t": "p",
-                "x": "Aun así, el hardware propio sigue en la hoja de ruta. Con su propio teléfono, Cyclon planea ejecutar localmente modelos de AI más potentes y combinarlos con modelos en la nube, manteniendo en el dispositivo la mayor parte posible de los datos personales."
-              },
-              {
-                "t": "p",
-                "x": "Cada app tiene su propio diseño y sus particularidades, y una AI que navega tocando pantallas tiene que manejarlas todas. Si Cyclon lo consigue, podría ahorrarnos mucho trabajo tedioso. Si no, corre el riesgo de convertirse en otro asistente que promete más de lo que cumple."
+                "t": "video",
+                "yt": "8bVF4_c3y6s"
               }
             ]
           }
@@ -1441,249 +1531,171 @@
       }
     },
     {
-      "id": "chatgpt-dots-astra-1104",
+      "id": "claude-nordictrack-ifit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Dots,\n최적 모델 스스로 고른다",
-      "body": "Dots가 GPT-6 Astra·GPT-6.1 Terra 중 알맞은 모델을 고른다.",
-      "mini_headline": "ChatGPT Dots, 모델 직접 선택",
+      "headline": "Claude로 구독 탈출한\n러닝머신 주인",
+      "body": "NordicTrack 주인이 Claude로 기기를 고쳐 iFIT 구독에서 벗어났다.",
+      "mini_headline": "NordicTrack을 풀어 준 Claude",
       "tool": "Gadgets",
       "source": "Android Authority",
-      "url": "https://www.androidauthority.com/openai-chatgpt-dots-update-3731008/",
-      "accent": "#eb367f",
+      "url": "https://www.androidauthority.com/claude-nordictrack-treadmill-ifit-subscription-3731515/",
+      "accent": "#f5a623",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+            "cap": "Stephen Radochia / Android Authority"
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT Dots의 성능을 끌어올린다. 더 강력한 AI 모델을 쓰게 되는 것만이 아니다. 무엇을 묻든 거기에 맞는 모델을 스스로 고르게 된다는 점이 더 눈에 띈다."
+            "x": "한 NordicTrack 사용자가 Claude Code로 러닝머신 화면을 묶어 둔 iFIT 구독 제한을 풀었다. 여자친구가 NordicTrack Commercial 2250을 샀는데, Netflix와 Crunchyroll을 보려면 iFIT 구독이 따로 필요했고 기본 운동조차 iFIT 로딩을 기다리며 광고를 봐야 했다."
           },
           {
             "t": "p",
-            "x": "OpenAI에서 Codex와 ChatGPT를 맡은 Thibault Sottiaux는 X에서 Dots를 돌리는 모델 라인업을 넓힌다고 밝혔다. GPT-6 Astra와 GPT-6.1 Terra가 들어가고, 앞으로 더 늘어난다. Sottiaux에 따르면 Terra는 더 빠르고 성격도 더 친근해, OpenAI가 Dots를 더 많은 사람에게 내놓는 데도 보탬이 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-            "cap": "Thibault Sottiaux / X"
+            "x": "하루 반쯤 지나자 iFIT의 로그인 요구, 광고, 멤버십 권유가 모두 사라졌다. 그 자리를 Netflix와 Crunchyroll을 담은 맞춤 홈 화면이 채웠고, 영상을 보면서도 운동 통계와 조작 기능을 쓸 수 있다. 물리 버튼도 그대로 작동한다. Netflix 실행 시간은 일 분 가까이 걸리던 것이 21초로 줄었다고 한다."
           },
           {
             "t": "p",
-            "x": "ChatGPT Dots는 사용자가 자리를 비워도 일을 이어 가는 개인 AI 비서다. Dot은 하던 작업을 기억했다가 멈춘 곳부터 다시 시작하고, 이제 Google Messages나 iMessage로 바로 대화할 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-            "cap": "Thibault Sottiaux / X"
-          },
-          {
-            "t": "p",
-            "x": "Sottiaux는 Dots가 작업에 맞는 모델을 알아서 고르고, 한 작업 안에서도 부분마다 모델을 바꿔 쓴다고 말한다. 실제로 얼마나 잘 돌아갈지는 두고 봐야 한다."
+            "x": "아쉬운 점도 있다. Netflix는 표준 화질까지만 나오고, 공장 초기화를 하면 개조가 사라질 수 있다. 전동 기구를 개조하면 안전과 보증 문제도 따른다. 그래도 제작자는 프로젝트를 GitHub에 공개했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT Dots now pick\nthe best model on their own",
-          "body": "With GPT-6 Astra and GPT-6.1 Terra, ChatGPT Dots will automatically pick the best AI model for each task.",
-          "mini_headline": "ChatGPT Dots pick models",
+          "headline": "A treadmill owner used Claude\nto escape a subscription",
+          "body": "A NordicTrack owner used Claude to escape the iFIT subscription and give the treadmill a clever makeover.",
+          "mini_headline": "Claude frees a NordicTrack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAI is making ChatGPT Dots more capable, but the interesting part isn't just that they're getting access to more powerful AI models. It's that they'll be able to choose the right model for whatever you're asking."
+                "x": "A NordicTrack owner used Claude Code to escape iFIT’s subscription restrictions on their treadmill’s screen. The owner’s girlfriend bought a NordicTrack Commercial 2250, but accessing Netflix and Crunchyroll required an additional iFIT subscription, and even basic workouts meant waiting for iFIT to load and dealing with its ads."
               },
               {
                 "t": "p",
-                "x": "Thibault Sottiaux, who works on Codex and ChatGPT at OpenAI, shared on X that the company is expanding the lineup of models powering Dots. This includes GPT-6 Astra and GPT-6.1 Terra, with more expected to arrive down the road. According to Sottiaux, Terra brings faster performance and a more pleasant personality, while also helping OpenAI make Dots available to more people."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "Roughly a day and a half later, iFIT’s login demands, ads, and membership nags were gone. In their place sat a custom home screen with Netflix and Crunchyroll, alongside workout statistics and controls that stay accessible while you watch videos. The physical buttons still work, too. Netflix’s launch time reportedly dropped from nearly a minute to just 21 seconds."
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dots are personal AI assistants that can keep working on things even when you're away. Your Dot can remember what you're working on and pick up where it left off, and you can now chat with it directly through Google Messages or iMessage."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiaux says Dots will automatically choose the right model for the job, even switching between models for different parts of the same task. Of course, we'll have to see how well this works in practice."
+                "x": "There are compromises. Netflix tops out at standard definition, and a factory reset could wipe away the makeover. Modifying motorized equipment also carries safety and warranty concerns. Still, the creator has published the project on GitHub."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT Dots,\n최적 모델 스스로 고른다",
-          "body": "Dots가 GPT-6 Astra·GPT-6.1 Terra 중 알맞은 모델을 고른다.",
-          "mini_headline": "ChatGPT Dots, 모델 직접 선택",
+          "headline": "Claude로 구독 탈출한\n러닝머신 주인",
+          "body": "NordicTrack 주인이 Claude로 기기를 고쳐 iFIT 구독에서 벗어났다.",
+          "mini_headline": "NordicTrack을 풀어 준 Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Dots의 성능을 끌어올린다. 더 강력한 AI 모델을 쓰게 되는 것만이 아니다. 무엇을 묻든 거기에 맞는 모델을 스스로 고르게 된다는 점이 더 눈에 띈다."
+                "x": "한 NordicTrack 사용자가 Claude Code로 러닝머신 화면을 묶어 둔 iFIT 구독 제한을 풀었다. 여자친구가 NordicTrack Commercial 2250을 샀는데, Netflix와 Crunchyroll을 보려면 iFIT 구독이 따로 필요했고 기본 운동조차 iFIT 로딩을 기다리며 광고를 봐야 했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI에서 Codex와 ChatGPT를 맡은 Thibault Sottiaux는 X에서 Dots를 돌리는 모델 라인업을 넓힌다고 밝혔다. GPT-6 Astra와 GPT-6.1 Terra가 들어가고, 앞으로 더 늘어난다. Sottiaux에 따르면 Terra는 더 빠르고 성격도 더 친근해, OpenAI가 Dots를 더 많은 사람에게 내놓는 데도 보탬이 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "하루 반쯤 지나자 iFIT의 로그인 요구, 광고, 멤버십 권유가 모두 사라졌다. 그 자리를 Netflix와 Crunchyroll을 담은 맞춤 홈 화면이 채웠고, 영상을 보면서도 운동 통계와 조작 기능을 쓸 수 있다. 물리 버튼도 그대로 작동한다. Netflix 실행 시간은 일 분 가까이 걸리던 것이 21초로 줄었다고 한다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dots는 사용자가 자리를 비워도 일을 이어 가는 개인 AI 비서다. Dot은 하던 작업을 기억했다가 멈춘 곳부터 다시 시작하고, 이제 Google Messages나 iMessage로 바로 대화할 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiaux는 Dots가 작업에 맞는 모델을 알아서 고르고, 한 작업 안에서도 부분마다 모델을 바꿔 쓴다고 말한다. 실제로 얼마나 잘 돌아갈지는 두고 봐야 한다."
+                "x": "아쉬운 점도 있다. Netflix는 표준 화질까지만 나오고, 공장 초기화를 하면 개조가 사라질 수 있다. 전동 기구를 개조하면 안전과 보증 문제도 따른다. 그래도 제작자는 프로젝트를 GitHub에 공개했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Dotsが\n最適モデルを自ら選ぶ",
-          "body": "DotsはGPT-6 AstraとGPT-6.1 Terraから最適なモデルを自動で選ぶ。",
-          "mini_headline": "ChatGPT Dotsがモデルを選択",
+          "headline": "トレッドミル所有者が\nClaudeでサブスク脱出",
+          "body": "NordicTrackの所有者がClaudeでiFITの購読を逃れ、本体を巧みに改造した。",
+          "mini_headline": "NordicTrackを解放したClaude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Dotsの能力を高めている。ただ興味深いのは、より強力なAIモデルを使えるようになることだけではない。何を尋ねても、それに合ったモデルを自ら選べるようになる点だ。"
+                "x": "あるNordicTrackの所有者が、Claude Codeを使ってトレッドミルの画面にかかるiFITのサブスクリプション制限から抜け出した。所有者の恋人がNordicTrack Commercial 2250を購入したが、NetflixやCrunchyrollを見るにはiFITの追加サブスクリプションが必要で、基本的なワークアウトでさえiFITの読み込みを待ち、広告に付き合わねばならなかった。"
               },
               {
                 "t": "p",
-                "x": "OpenAIでCodexとChatGPTに携わるThibault Sottiauxは、Dotsを動かすモデルのラインアップを拡充するとXで明らかにした。これにはGPT-6 AstraとGPT-6.1 Terraが含まれ、今後さらに追加される見込みだ。Sottiauxによれば、Terraはより速い性能とより親しみやすい人格をもたらし、OpenAIがDotsをより多くの人に提供するうえでも役立つという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "およそ一日半後、iFITのログイン要求や広告、会員登録の催促は消えた。代わりに、NetflixとCrunchyrollを並べたカスタムホーム画面が置かれ、動画を見ている間もワークアウトの統計や操作にアクセスできる。物理ボタンもそのまま使える。Netflixの起動時間は一分近くからわずか21秒に短縮されたという。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dotsは、ユーザーが離れている間も作業を続けられる個人向けAIアシスタントだ。Dotは取り組み中の内容を覚えて中断したところから再開でき、今ではGoogle MessagesやiMessageから直接やり取りすることもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiauxによると、Dotsは作業に合ったモデルを自動で選び、同じタスクの中でも部分ごとにモデルを切り替えるという。もちろん、実際にどこまでうまく機能するかは見守る必要がある。"
+                "x": "妥協点もある。Netflixは標準画質が上限で、工場出荷時へのリセットで改造が消える可能性がある。電動機器の改造には安全面や保証面の懸念も伴う。それでも、作者はプロジェクトをGitHubで公開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Dots\n自主挑选最佳模型",
-          "body": "Dots将在GPT-6 Astra与GPT-6.1 Terra间按任务自动选择最佳模型。",
-          "mini_headline": "ChatGPT Dots自选模型",
+          "headline": "跑步机主人借助Claude\n摆脱订阅",
+          "body": "一位NordicTrack用户借助Claude摆脱iFIT订阅，还巧妙改造了跑步机。",
+          "mini_headline": "Claude解放NordicTrack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在让ChatGPT Dots变得更强大，但有意思的地方不只是它们能用上更强的AI模型，而是它们能根据你的提问选择合适的模型。"
+                "x": "一位NordicTrack用户借助Claude Code，摆脱了跑步机屏幕上的iFIT订阅限制。这位用户的女友买了一台NordicTrack Commercial 2250，但观看Netflix和Crunchyroll需要额外订阅iFIT，就连基础训练也得等iFIT加载、忍受广告。"
               },
               {
                 "t": "p",
-                "x": "在OpenAI负责Codex和ChatGPT的Thibault Sottiaux在X上表示，公司正在扩充驱动Dots的模型阵容，其中包括GPT-6 Astra和GPT-6.1 Terra，后续还会有更多模型加入。据Sottiaux介绍，Terra速度更快、个性更讨喜，也有助于OpenAI把Dots提供给更多人。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "大约一天半之后，iFIT的登录要求、广告和会员推销都消失了。取而代之的是一个自定义主屏幕，上面有Netflix和Crunchyroll，观看视频时仍可随时查看训练数据并进行操控。实体按键也照常可用。据称，Netflix的启动时间从将近一分钟缩短到仅21秒。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dots是个人AI助手，即使你不在时也能继续处理事务。你的Dot能记住你正在做的事并从中断处接着做，现在你还可以直接通过Google Messages或iMessage与它聊天。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiaux表示，Dots会自动为工作选择合适的模型，甚至会在同一任务的不同部分之间切换模型。当然，实际效果如何还有待观察。"
+                "x": "这也有代价。Netflix最高只支持标清，恢复出厂设置可能会抹掉这次改造。改装电动器材还涉及安全和保修方面的隐患。尽管如此，作者已在GitHub上公开了这个项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Dots ya eligen solas\nel mejor modelo",
-          "body": "Con GPT-6 Astra y GPT-6.1 Terra, ChatGPT Dots elegirán automáticamente el mejor modelo de AI para cada tarea.",
-          "mini_headline": "ChatGPT Dots eligen modelo",
+          "headline": "Un dueño de cinta usó Claude\npara librarse de una suscripción",
+          "body": "Un propietario de NordicTrack usó Claude para evitar la suscripción de iFIT y renovar con ingenio su cinta de correr.",
+          "mini_headline": "Claude libera una NordicTrack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAI está haciendo que ChatGPT Dots sean más capaces, pero lo interesante no es solo que tendrán acceso a modelos de AI más potentes, sino que podrán elegir el modelo adecuado para cualquier cosa que preguntes."
+                "x": "Un propietario de NordicTrack usó Claude Code para escapar de las restricciones de suscripción de iFIT en la pantalla de su cinta de correr. La novia del propietario compró una NordicTrack Commercial 2250, pero acceder a Netflix y Crunchyroll requería una suscripción adicional a iFIT, e incluso los entrenamientos básicos implicaban esperar a que iFIT cargara y soportar sus anuncios."
               },
               {
                 "t": "p",
-                "x": "Thibault Sottiaux, que trabaja en Codex y ChatGPT en OpenAI, compartió en X que la compañía está ampliando la gama de modelos que impulsan Dots. Esto incluye GPT-6 Astra y GPT-6.1 Terra, y se espera que lleguen más en el futuro. Según Sottiaux, Terra aporta un rendimiento más rápido y una personalidad más agradable, y además ayuda a OpenAI a poner Dots al alcance de más personas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "Aproximadamente un día y medio después, las exigencias de inicio de sesión, los anuncios y los avisos de membresía de iFIT habían desaparecido. En su lugar quedó una pantalla de inicio personalizada con Netflix y Crunchyroll, junto con estadísticas de entrenamiento y controles que siguen accesibles mientras se ven videos. Los botones físicos también siguen funcionando. Según se informa, el tiempo de inicio de Netflix bajó de casi un minuto a solo 21 segundos."
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dots son asistentes personales de AI que pueden seguir trabajando aunque no estés. Tu Dot puede recordar en qué estás trabajando y retomar donde lo dejó, y ahora puedes chatear con él directamente a través de Google Messages o iMessage."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiaux dice que Dots elegirán automáticamente el modelo adecuado para cada trabajo, e incluso cambiarán de modelo en distintas partes de una misma tarea. Por supuesto, habrá que ver qué tan bien funciona en la práctica."
+                "x": "Hay concesiones. Netflix llega como máximo a definición estándar, y un restablecimiento de fábrica podría borrar la renovación. Modificar equipos motorizados también conlleva riesgos de seguridad y de garantía. Aun así, el creador ha publicado el proyecto en GitHub."
               }
             ]
           }
@@ -1691,161 +1703,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT Dots,\n최적 모델 스스로 고른다",
-          "body": "Dots가 GPT-6 Astra·GPT-6.1 Terra 중 최적 모델을 고른다.",
-          "mini_headline": "ChatGPT Dots, 모델 직접 선택",
+          "headline": "Claude로 구독 탈출한\n러닝머신 주인",
+          "body": "NordicTrack 주인이 Claude로 iFIT 구독을 벗어나 기기를 개조했다.",
+          "mini_headline": "NordicTrack을 풀어 준 Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Dots의 성능을 높이고 있다. 흥미로운 점은 더 강력한 AI 모델을 쓰게 된다는 것만이 아니다. 무엇을 묻든 그에 맞는 모델을 스스로 고를 수 있게 된다는 점이다."
+                "x": "한 NordicTrack 사용자가 Claude Code로 러닝머신 화면에 걸린 iFIT 구독 제한을 풀었다. 사용자의 여자친구가 NordicTrack Commercial 2250을 샀지만, Netflix와 Crunchyroll을 보려면 iFIT 구독이 추가로 필요했고, 기본 운동조차 iFIT 로딩을 기다리며 광고를 견뎌야 했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI에서 Codex와 ChatGPT를 맡고 있는 Thibault Sottiaux는 X에 Dots를 구동하는 모델 라인업을 넓힌다고 밝혔다. 여기에는 GPT-6 Astra와 GPT-6.1 Terra가 포함되며, 앞으로 더 추가될 예정이다. Sottiaux에 따르면 Terra는 더 빠른 성능과 더 친근한 성격을 갖췄고, OpenAI가 Dots를 더 많은 사람에게 제공하는 데에도 도움이 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "하루 반쯤 뒤 iFIT의 로그인 요구, 광고, 멤버십 권유가 모두 사라졌다. 그 자리에는 Netflix와 Crunchyroll을 담은 맞춤 홈 화면이 들어섰고, 영상을 보는 동안에도 운동 통계와 조작 기능을 쓸 수 있다. 물리 버튼도 그대로 작동한다. Netflix 실행 시간은 거의 일 분에서 21초로 줄었다고 한다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dots는 사용자가 자리를 비운 동안에도 일을 이어 가는 개인 AI 비서다. Dot은 사용자가 하던 작업을 기억해 멈춘 지점부터 다시 시작할 수 있고, 이제 Google Messages나 iMessage로 직접 대화할 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiaux는 Dots가 작업에 맞는 모델을 자동으로 고르며, 같은 작업 안에서도 부분마다 모델을 바꿔 쓴다고 말한다. 물론 실제로 얼마나 잘 작동할지는 지켜봐야 한다."
+                "x": "타협도 있다. Netflix는 표준 화질까지만 나오고, 공장 초기화를 하면 개조가 사라질 수 있다. 전동 기구를 개조하는 데는 안전과 보증 문제도 따른다. 그래도 제작자는 프로젝트를 GitHub에 공개했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Dotsが\n最適モデルを自ら選ぶ",
-          "body": "DotsはGPT-6 AstraとGPT-6.1 Terraから最適なモデルを自動で選ぶ。",
-          "mini_headline": "ChatGPT Dotsがモデルを選択",
+          "headline": "トレッドミル所有者が\nClaudeでサブスク脱出",
+          "body": "NordicTrackの所有者がClaudeでiFITの購読を逃れ、本体を巧みに改造した。",
+          "mini_headline": "NordicTrackを解放したClaude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Dotsの能力を高めている。ただ興味深いのは、より強力なAIモデルを使えるようになることだけではない。何を尋ねても、それに合ったモデルを自ら選べるようになる点だ。"
+                "x": "あるNordicTrackの所有者が、Claude Codeを使ってトレッドミルの画面にかかるiFITのサブスクリプション制限から抜け出した。所有者の恋人がNordicTrack Commercial 2250を購入したが、NetflixやCrunchyrollを見るにはiFITの追加サブスクリプションが必要で、基本的なワークアウトでさえiFITの読み込みを待ち、広告に付き合わねばならなかった。"
               },
               {
                 "t": "p",
-                "x": "OpenAIでCodexとChatGPTに携わるThibault Sottiauxは、Dotsを動かすモデルのラインアップを拡充するとXで明らかにした。これにはGPT-6 AstraとGPT-6.1 Terraが含まれ、今後さらに追加される見込みだ。Sottiauxによれば、Terraはより速い性能とより親しみやすい人格をもたらし、OpenAIがDotsをより多くの人に提供するうえでも役立つという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "およそ一日半後、iFITのログイン要求や広告、会員登録の催促は消えた。代わりに、NetflixとCrunchyrollを並べたカスタムホーム画面が置かれ、動画を見ている間もワークアウトの統計や操作にアクセスできる。物理ボタンもそのまま使える。Netflixの起動時間は一分近くからわずか21秒に短縮されたという。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dotsは、ユーザーが離れている間も作業を続けられる個人向けAIアシスタントだ。Dotは取り組み中の内容を覚えて中断したところから再開でき、今ではGoogle MessagesやiMessageから直接やり取りすることもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiauxによると、Dotsは作業に合ったモデルを自動で選び、同じタスクの中でも部分ごとにモデルを切り替えるという。もちろん、実際にどこまでうまく機能するかは見守る必要がある。"
+                "x": "妥協点もある。Netflixは標準画質が上限で、工場出荷時へのリセットで改造が消える可能性がある。電動機器の改造には安全面や保証面の懸念も伴う。それでも、作者はプロジェクトをGitHubで公開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Dots\n自主挑选最佳模型",
-          "body": "Dots将在GPT-6 Astra与GPT-6.1 Terra间按任务自动选择最佳模型。",
-          "mini_headline": "ChatGPT Dots自选模型",
+          "headline": "跑步机主人借助Claude\n摆脱订阅",
+          "body": "一位NordicTrack用户借助Claude摆脱iFIT订阅，还巧妙改造了跑步机。",
+          "mini_headline": "Claude解放NordicTrack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在让ChatGPT Dots变得更强大，但有意思的地方不只是它们能用上更强的AI模型，而是它们能根据你的提问选择合适的模型。"
+                "x": "一位NordicTrack用户借助Claude Code，摆脱了跑步机屏幕上的iFIT订阅限制。这位用户的女友买了一台NordicTrack Commercial 2250，但观看Netflix和Crunchyroll需要额外订阅iFIT，就连基础训练也得等iFIT加载、忍受广告。"
               },
               {
                 "t": "p",
-                "x": "在OpenAI负责Codex和ChatGPT的Thibault Sottiaux在X上表示，公司正在扩充驱动Dots的模型阵容，其中包括GPT-6 Astra和GPT-6.1 Terra，后续还会有更多模型加入。据Sottiaux介绍，Terra速度更快、个性更讨喜，也有助于OpenAI把Dots提供给更多人。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "大约一天半之后，iFIT的登录要求、广告和会员推销都消失了。取而代之的是一个自定义主屏幕，上面有Netflix和Crunchyroll，观看视频时仍可随时查看训练数据并进行操控。实体按键也照常可用。据称，Netflix的启动时间从将近一分钟缩短到仅21秒。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dots是个人AI助手，即使你不在时也能继续处理事务。你的Dot能记住你正在做的事并从中断处接着做，现在你还可以直接通过Google Messages或iMessage与它聊天。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiaux表示，Dots会自动为工作选择合适的模型，甚至会在同一任务的不同部分之间切换模型。当然，实际效果如何还有待观察。"
+                "x": "这也有代价。Netflix最高只支持标清，恢复出厂设置可能会抹掉这次改造。改装电动器材还涉及安全和保修方面的隐患。尽管如此，作者已在GitHub上公开了这个项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Dots ya eligen solas\nel mejor modelo",
-          "body": "Con GPT-6 Astra y GPT-6.1 Terra, ChatGPT Dots elegirán automáticamente el mejor modelo de AI para cada tarea.",
-          "mini_headline": "ChatGPT Dots eligen modelo",
+          "headline": "Un dueño de cinta usó Claude\npara librarse de una suscripción",
+          "body": "Un propietario de NordicTrack usó Claude para evitar la suscripción de iFIT y renovar con ingenio su cinta de correr.",
+          "mini_headline": "Claude libera una NordicTrack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-1920w-1080h.jpg",
+                "cap": "Stephen Radochia / Android Authority"
               },
               {
                 "t": "p",
-                "x": "OpenAI está haciendo que ChatGPT Dots sean más capaces, pero lo interesante no es solo que tendrán acceso a modelos de AI más potentes, sino que podrán elegir el modelo adecuado para cualquier cosa que preguntes."
+                "x": "Un propietario de NordicTrack usó Claude Code para escapar de las restricciones de suscripción de iFIT en la pantalla de su cinta de correr. La novia del propietario compró una NordicTrack Commercial 2250, pero acceder a Netflix y Crunchyroll requería una suscripción adicional a iFIT, e incluso los entrenamientos básicos implicaban esperar a que iFIT cargara y soportar sus anuncios."
               },
               {
                 "t": "p",
-                "x": "Thibault Sottiaux, que trabaja en Codex y ChatGPT en OpenAI, compartió en X que la compañía está ampliando la gama de modelos que impulsan Dots. Esto incluye GPT-6 Astra y GPT-6.1 Terra, y se espera que lleguen más en el futuro. Según Sottiaux, Terra aporta un rendimiento más rápido y una personalidad más agradable, y además ayuda a OpenAI a poner Dots al alcance de más personas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.22.57-PM.png",
-                "cap": "Thibault Sottiaux / X"
+                "x": "Aproximadamente un día y medio después, las exigencias de inicio de sesión, los anuncios y los avisos de membresía de iFIT habían desaparecido. En su lugar quedó una pantalla de inicio personalizada con Netflix y Crunchyroll, junto con estadísticas de entrenamiento y controles que siguen accesibles mientras se ven videos. Los botones físicos también siguen funcionando. Según se informa, el tiempo de inicio de Netflix bajó de casi un minuto a solo 21 segundos."
               },
               {
                 "t": "p",
-                "x": "ChatGPT Dots son asistentes personales de AI que pueden seguir trabajando aunque no estés. Tu Dot puede recordar en qué estás trabajando y retomar donde lo dejó, y ahora puedes chatear con él directamente a través de Google Messages o iMessage."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-1.25.51-PM.png",
-                "cap": "Thibault Sottiaux / X"
-              },
-              {
-                "t": "p",
-                "x": "Sottiaux dice que Dots elegirán automáticamente el modelo adecuado para cada trabajo, e incluso cambiarán de modelo en distintas partes de una misma tarea. Por supuesto, habrá que ver qué tan bien funciona en la práctica."
+                "x": "Hay concesiones. Netflix llega como máximo a definición estándar, y un restablecimiento de fábrica podría borrar la renovación. Modificar equipos motorizados también conlleva riesgos de seguridad y de garantía. Aun así, el creador ha publicado el proyecto en GitHub."
               }
             ]
           }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "medicine",
   "items": [
     {
@@ -7,95 +7,95 @@
       "accent": "#00897b",
       "motif": "sphere",
       "category": "medicine",
-      "title": "GEHC adds lung, aortic stenosis AI tools to Vscan Air",
-      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
-      "source": "AuntMinnie",
-      "published_iso": "2026-11-03T18:42:15Z",
+      "title": "Generative AI chatbot and maternal health outcomes: randomized clinical trial",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062",
+      "source": "JAMA Network Open",
+      "published_iso": "2026-11-04T16:30:30Z",
       "og_image": null,
-      "excerpt": "GE HealthCare added FDA 510(k)-cleared, CE-marked AI tools to its Vscan Air handheld ultrasound: Lung Guidance (non-experts acquired diagnostic-quality 8-zone lung exams 95.2% of the time vs 96.8% for experts) and AutoAS, which flags moderate-to-severe aortic stenosis from two echo views.",
-      "rationale": "Fresh FDA 510(k)/CE-cleared release that lets non-experts run diagnostic lung and aortic-stenosis exams on a handheld probe at the point of care."
+      "excerpt": "In a 400-person RCT across 49 US states, a generative AI maternal health chatbot did not improve 12-month anxiety, depression, ED visits or postpartum care. Pregnant users self-reported more complications in a secondary analysis.",
+      "rationale": "A rare randomized trial of a patient-facing generative AI chatbot, with a null result that matters for anyone deploying chatbots to patients."
     },
     {
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
       "category": "medicine",
-      "title": "Looser Health IT Certification Requirements Shift Oversight to Health Systems",
-      "url": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/",
-      "source": "MedCity News",
-      "published_iso": "2026-11-03T14:00:00+00:00",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg",
-      "excerpt": "HHS's HTI-5 final rule removes source-attribute transparency requirements for predictive decision support interventions, so hospitals lose a standardized way to evaluate AI tools and must write disclosure, validation and bias testing into procurement contracts.",
-      "rationale": "Regulatory change (HHS HTI-5 final rule) that moves AI-tool vetting from EHR certification onto each hospital's procurement process."
+      "title": "Mayo Clinic Platform launches AI clinical decision support solution integrated into EHRs",
+      "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-platforms-new-clinical-decision-support-solution-provides-trusted-medical-information-to-enhance-individualized-patient-care/",
+      "source": "Mayo Clinic News Network",
+      "published_iso": "2026-11-03T13:00:00+00:00",
+      "og_image": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/11/CDS-Announcement-GettyImages-1364382012-1024x683.jpg",
+      "excerpt": "Starting November 2026, Mayo clinicians and partner organizations get an LLM-powered specialty chat covering 35+ specialties, which cites peer-reviewed literature and is updated daily, plus 22 clinical calculators available by chat or voice, embedded in EHR workflows.",
+      "rationale": "A primary-source launch of a clinical decision support tool that goes live inside the EHR workflows of Mayo and its partners this month."
     },
     {
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
       "category": "medicine",
-      "title": "AI-Generated Draft Response Tool, Message Turnaround Time, and After-Hours Replies Among Health Care Clinicians",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41364",
-      "source": "JAMA Network Open",
-      "published_iso": "2026-10-30T15:30:35Z",
-      "og_image": null,
-      "excerpt": "Across 983,154 replies from 1,542 clinicians at Columbia, using Epic's AI-drafted In Basket replies cut message turnaround time 29.5%, yet overall adoption was linked to an 8.6% rise in turnaround and no overall drop in after-hours messaging.",
-      "rationale": "Large real-world study of Epic's AI-drafted inbox replies with a counterintuitive result: faster per message, but no relief from after-hours work."
+      "title": "Google shares its framework for evaluating health AI at scale",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+      "source": "Google Blog",
+      "published_iso": "2026-11-04T14:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-1440x810.png",
+      "excerpt": "Google published the multi-method evaluation framework it uses to test health AI for safety and helpfulness before and after release, combining automated benchmarks, clinician rating and real-world monitoring.",
+      "rationale": "A major vendor publishes its pre- and post-release health AI safety evaluation method, a concrete reference for clinicians and health systems vetting AI tools."
     },
     {
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
       "category": "medicine",
-      "title": "AI-based precision prognostics and therapy personalization for childhood brain tumors",
-      "url": "https://www.nature.com/articles/s41588-026-02815-4",
-      "source": "Nature Genetics",
-      "published_iso": "2026-11-03T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
-      "excerpt": "MANTIS combines DNA methylation profiling with artificial neural networks to give individualized, time-dependent survival predictions for children with medulloblastoma and ependymoma, aiming to balance recurrence risk against therapy-induced harm.",
-      "rationale": "Disease-specific model (medulloblastoma, ependymoma) that predicts each child's survival over time so oncologists can weigh recurrence risk against the harm of treatment."
+      "title": "External validation of a machine learning model for delirium risk in live clinical practice",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42142",
+      "source": "JAMA Network Open",
+      "published_iso": "2026-11-04T16:30:24Z",
+      "og_image": null,
+      "excerpt": "A multimodal NLP delirium-risk model in live use at Mount Sinai was externally validated across hospitals in 33,095 non-ICU admissions. An accompanying commentary covers what implementing it in practice takes beyond discrimination.",
+      "rationale": "External validation of a deployed bedside risk model across hospitals: real patients, real workflow, a specific condition."
     },
     {
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "category": "medicine",
-      "title": "'Digital twins' of immune system in pregnancy identify drugs to prevent early labor, Stanford Medicine-led study finds",
-      "url": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug.html",
-      "source": "Stanford Medicine",
-      "published_iso": "2026-10-21T00:00:00.000Z",
-      "og_image": "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug/_jcr_content/cq:socialfeaturedimage.coreimg.jpg/1792703538083/digital-twin-social.jpg",
-      "excerpt": "Stanford Medicine researchers built AI-enabled 'digital twins' of immune changes in pregnancy and used them to identify existing drugs that could prevent preterm labor.",
-      "rationale": "AI drug repurposing aimed at a named clinical condition (preterm labor), from a primary institutional source; adds an obstetrics angle to the mix."
+      "title": "Physical limits to AI substitution across physician specialties",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600957",
+      "source": "NEJM AI",
+      "published_iso": "2026-11-04T14:00:21Z",
+      "og_image": "https://ai.nejm.org/cms/asset/c15c7a83-476d-440c-af12-511c2c671af3/aip2600957_f1.jpg",
+      "excerpt": "AI can interpret images, draft assessments and talk with patients, but software cannot examine, biopsy or operate. This NEJM AI analysis maps how exposed each specialty is to AI substitution once physical tasks are counted.",
+      "rationale": "A specialty-by-specialty map of which physician work AI can and cannot absorb, a fresh workforce lens from a top-tier journal."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air": {
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41062": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/clinical-news/ultrasound/news/15838275/rivanna-gets-fda-clearance-for-boneenhance-ultrasound-software",
+        "nearest": "https://www.nature.com/articles/s44220-026-00753-y",
         "new_action": ""
       },
-      "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/": {
+      "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-platforms-new-clinical-decision-support-solution-provides-trusted-medical-information-to-enhance-individualized-patient-care/": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03152-w",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
         "new_action": ""
       },
-      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.41364": {
-        "verdict": "new",
-        "nearest": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41588-026-02815-4": {
+      "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://med.stanford.edu/news/all-news/2026/10/preterm-labor-drug.html": {
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42142": {
         "verdict": "new",
         "nearest": "",
+        "new_action": ""
+      },
+      "https://ai.nejm.org/doi/full/10.1056/AIp2600957": {
+        "verdict": "new",
+        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
         "new_action": ""
       }
     },
-    "note": "Pool 16. Cross-section: read the full science section and the tail of politics in published_urls.json; none of the 5 picks or their products/events appear. published_urls.json was too large to scan every section with Read alone, so a grep of the 5 URLs before roll is advised. Dropped as dups/commentary: npj TEMPO commentary (commentary on the FDA-CMS TEMPO pilot; science already ran statnews 2026-09-03 tempo-fda-pilor-generative-ai-medical-device-regulation); BMJ AI-agents piece (opinion on an already-reported OpenAI-agent hack, no new action); Radiology Business societies-weigh-in (same FDA genAI comment docket as healthcaredive 10-23 'Developers, not doctors'); MedCity WISeR '7 problems' (analysis of the WISeR model already covered by JAMA 2855989 on 10-30); AuntMinnie SIIM-CAIMI pediatric pipelines (likely the same Stanford Children's SIIM-CAIMI work as the 10-29 card). Skipped on score: Abramson FDA interview (commentary, 10-22), STAT FDA/CMS-states newsletter (officials' stated intent, no formal action), Google Singapore hub (partnership/business), Google healthcare AI certificate, npj persistent-fever ML, MedPage SABCS preview (pre-meeting interview)."
+    "note": "Pool 17. Cross-section: read the full science section of published_urls.json; none of the 5 picks appear there. A grep of all 5 URLs across sections before roll is still advised. Dropped as dups/follow-ups: Science MAI-DxO paper (same Microsoft MAI-DxO research already published 10-24 as microsoft.ai/news/building-medical-superintelligence); Healthcare Dive 'FDA genAI 5 takes' (same FDA genAI comment docket as healthcaredive 10-23 'Developers, not doctors', commentary with no new action); MedCity WISeR '7 problems' (analysis of the CMS WISeR model already covered by JAMA 2855989 on 10-30); AuntMinnie SIIM-CAIMI pediatric pipelines (yesterday's curator judged it likely the same Stanford Children's SIIM-CAIMI work as the 10-29 card, so held back to be safe). Excluded: MedCity $4M NIH grant (funding-framed). Skipped on score: Healthcare Dive patient human-in-loop survey (close to the 10-18 JAMA public-perceptions card), STAT FDA/CMS-states (officials' stated intent, paywalled, no formal action), Pritzker Prize (award), npj LLM-judge audit, npj AMD agent, RETBind, JAMA silent manipulation (no clinical setting, ≤2 JAMA cap)."
   }
 }

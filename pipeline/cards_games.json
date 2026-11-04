@@ -1,373 +1,765 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "section": "games",
   "cards": [
     {
-      "id": "war-thunder-dlss5-gaijin",
+      "id": "nexus-mods-ai-disclosure",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "War Thunder의\nDLSS 5 화풍 지키기",
-      "body": "Gaijin은 DLSS 5에 맞춰 Dagor Engine 색 처리를 고쳤다.",
-      "mini_headline": "War Thunder의 DLSS 5 조율",
+      "headline": "Nexus Mods,\nAI 모드 공개 의무화",
+      "body": "Nexus Mods가 AI-assisted 모드는 밝히게 하고 숨김도 허용했다.",
+      "mini_headline": "Nexus Mods, AI 모드 표시",
       "tool": "Games",
-      "source": "NVIDIA",
-      "url": "https://www.nvidia.com/en-us/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+            "cap": "이미지 출처: Nexus Mods."
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI가 모딩 업계를 휩쓸자 인터넷 최대 모드 플랫폼 Nexus Mods가 대응에 나섰다. AI-assisted 코드를 쓴 모드는 이제 그 사실을 밝혀야 하고 이용자는 검색 조건이나 환경설정에서 AI-assisted 모드를 걸러낼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "공동 소유주 Victor 'Foledinho' Folmann은 블로그 글에서 \"우리는 인간의 창의성을 지지한다\"고 말했다. 그는 \"AI는 현재 창작 과정 전반에 쓰이고 있으며... 명확한 경계를 긋기 어렵다\"는 이유로 AI 모드를 금지하지는 않겠다고 했다. 금지해 봐야 모더들이 AI 사용을 숨기게 될 뿐이라는 판단이다. 그는 \"드러내 놓고, 명확히 표시하고, 규제해야 한다\"고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "모더는 모드가 AI-assisted인지, 주로 AI-generated인지, AI-generated 홍보물을 담았는지 밝히고 \"AI를 어떻게, 어디에 사용했는지에 대한 공개 설명\"도 덧붙여야 한다. 기존 모드에는 60일 유예 기간을 주며 1월 2일까지 업데이트하지 않으면 계정 제한을 받을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이번 조치는 Valve가 Steam에서 \"AI slop\"을 막지 않기로 하고, Tim Sweeney가 AI 고지 의무화를 \"정치적 행위\"라 부르고, Itch.io가 이른바 \"테라바이트 분량의 AI slop\"을 삭제한 가운데 나왔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Nexus Mods requires\nAI disclosure on mods",
+          "body": "Nexus Mods now requires AI disclosure and lets users hide AI-assisted mods, arguing a ban would push AI underground.",
+          "mini_headline": "Nexus Mods labels AI mods",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "Image credit: Nexus Mods."
+              },
+              {
+                "t": "p",
+                "x": "Generative AI has taken over the modding scene. Nexus Mods, the biggest platform for mods on the internet, has reacted by enforcing mandatory disclosure for mods with AI-assisted code, and letting users filter AI-assisted mods out of their search criteria or preferences."
+              },
+              {
+                "t": "p",
+                "x": "\"We are pro-human creativity,\" co-owner Victor 'Foledinho' Folmann said in a blog post. He won't ban AI mods because \"AI is currently used throughout the whole process of creation... and it is difficult to draw a clear boundary,\" and believes a ban would just encourage modders to hide AI use: \"It should be out in the open, clearly labelled, and regulated.\""
+              },
+              {
+                "t": "p",
+                "x": "Modders must declare whether a mod is AI-assisted, primarily AI-generated, or features AI-generated promotional material, plus a \"public explanation of how and where AI was used.\" Existing mods have a 60 day grace period; those not updated by January 2 potentially face account restrictions."
+              },
+              {
+                "t": "p",
+                "x": "The move comes as Valve declines to block \"AI slop\" from Steam, Tim Sweeney calls mandatory AI disclaimers \"a political act,\" and Itch.io deletes what it called \"terabytes of AI slop.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Nexus Mods,\nAI 모드 공개 의무화",
+          "body": "Nexus Mods가 AI-assisted 모드는 밝히게 하고 숨김도 허용했다.",
+          "mini_headline": "Nexus Mods, AI 모드 표시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "이미지 출처: Nexus Mods."
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI가 모딩 업계를 휩쓸자 인터넷 최대 모드 플랫폼 Nexus Mods가 대응에 나섰다. AI-assisted 코드를 쓴 모드는 이제 그 사실을 밝혀야 하고 이용자는 검색 조건이나 환경설정에서 AI-assisted 모드를 걸러낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "공동 소유주 Victor 'Foledinho' Folmann은 블로그 글에서 \"우리는 인간의 창의성을 지지한다\"고 말했다. 그는 \"AI는 현재 창작 과정 전반에 쓰이고 있으며... 명확한 경계를 긋기 어렵다\"는 이유로 AI 모드를 금지하지는 않겠다고 했다. 금지해 봐야 모더들이 AI 사용을 숨기게 될 뿐이라는 판단이다. 그는 \"드러내 놓고, 명확히 표시하고, 규제해야 한다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "모더는 모드가 AI-assisted인지, 주로 AI-generated인지, AI-generated 홍보물을 담았는지 밝히고 \"AI를 어떻게, 어디에 사용했는지에 대한 공개 설명\"도 덧붙여야 한다. 기존 모드에는 60일 유예 기간을 주며 1월 2일까지 업데이트하지 않으면 계정 제한을 받을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이번 조치는 Valve가 Steam에서 \"AI slop\"을 막지 않기로 하고, Tim Sweeney가 AI 고지 의무화를 \"정치적 행위\"라 부르고, Itch.io가 이른바 \"테라바이트 분량의 AI slop\"을 삭제한 가운데 나왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nexus Modsが\nAI使用の開示を義務化",
+          "body": "Nexus ModsはAI開示を義務化し、AI-assisted MODの非表示を認めた。",
+          "mini_headline": "Nexus Mods、AI MODを表示",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "画像提供：Nexus Mods。"
+              },
+              {
+                "t": "p",
+                "x": "生成AIはMOD制作の世界を席巻している。インターネット最大のMODプラットフォームであるNexus Modsはこれを受け、AI-assistedのコードを含むMODに開示を義務付け、ユーザーが検索条件や設定でAI-assistedのMODを除外できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "共同オーナーのVictor 'Foledinho' Folmann氏はブログ投稿で「われわれは人間の創造性を支持する」と述べた。同氏は「AIは現在、創作のプロセス全体で使われており……明確な線引きは難しい」としてAI MODを禁止しない。禁止すればMOD制作者にAIの使用を隠させるだけだと考えており、「公の場に出し、明確にラベル付けし、規制すべきだ」と語る。"
+              },
+              {
+                "t": "p",
+                "x": "MOD制作者は、MODがAI-assistedか、主にAI-generatedか、AI-generatedの宣伝素材を含むかを申告し、さらに「AIをどのように、どこで使ったかの公開説明」を添えなければならない。既存のMODには60日間の猶予期間があり、1月2日までに更新されないものはアカウント制限を受ける可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "この動きは、ValveがSteamから「AI slop」を締め出さない姿勢を示し、Tim SweeneyがAI開示の義務化を「政治的行為」と呼び、Itch.ioが「テラバイト規模のAI slop」と称するものを削除するなかで起きた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nexus Mods要求\n模组公开AI使用",
+          "body": "Nexus Mods要求公开AI使用，并允许用户隐藏AI-assisted模组。",
+          "mini_headline": "Nexus Mods标注AI模组",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "图片来源：Nexus Mods。"
+              },
+              {
+                "t": "p",
+                "x": "生成式AI已席卷模组圈。作为互联网上最大的模组平台，Nexus Mods对此作出回应：强制要求含AI-assisted代码的模组进行披露，并允许用户在搜索条件或偏好设置中过滤掉AI-assisted模组。"
+              },
+              {
+                "t": "p",
+                "x": "联合所有者Victor 'Foledinho' Folmann在博文中表示：“我们支持人类的创造力。”他不会禁止AI模组，因为“AI目前贯穿整个创作过程……很难划出清晰的界限”，并认为禁令只会促使模组作者隐瞒AI的使用：“它应当公开透明、清楚标注并受到监管。”"
+              },
+              {
+                "t": "p",
+                "x": "模组作者必须声明模组是AI-assisted、主要为AI-generated，还是包含AI-generated宣传素材，并附上“关于AI如何使用、在何处使用的公开说明”。现有模组有60天宽限期；1月2日前仍未更新的模组可能面临账号限制。"
+              },
+              {
+                "t": "p",
+                "x": "此举正值Valve拒绝在Steam上封堵“AI slop”、Tim Sweeney称强制AI声明是“一种政治行为”，以及Itch.io删除其所称“TB级的AI slop”之际。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nexus Mods exige declarar\nel uso de AI en los mods",
+          "body": "Nexus Mods exige declarar el uso de AI y permite ocultar mods AI-assisted, porque vetarlos solo ocultaría la AI.",
+          "mini_headline": "Nexus Mods etiqueta los mods con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "Crédito de la imagen: Nexus Mods."
+              },
+              {
+                "t": "p",
+                "x": "La AI generativa se ha apoderado del mundo del modding. Nexus Mods, la mayor plataforma de mods de internet, ha respondido exigiendo que se declaren los mods con código AI-assisted y permitiendo a los usuarios excluir los mods AI-assisted de sus criterios de búsqueda o preferencias."
+              },
+              {
+                "t": "p",
+                "x": "\"Estamos a favor de la creatividad humana\", afirmó el copropietario Victor 'Foledinho' Folmann en una publicación de blog. No prohibirá los mods con AI porque \"la AI se usa actualmente en todo el proceso de creación... y es difícil trazar un límite claro\", y cree que una prohibición solo animaría a los modders a ocultar el uso de AI: \"Debería estar a la vista, claramente etiquetado y regulado\"."
+              },
+              {
+                "t": "p",
+                "x": "Los modders deben declarar si un mod es AI-assisted, principalmente AI-generated o incluye material promocional AI-generated, además de una \"explicación pública de cómo y dónde se usó la AI\". Los mods existentes tienen un periodo de gracia de 60 días; los que no se actualicen antes del 2 de enero podrían sufrir restricciones en su cuenta."
+              },
+              {
+                "t": "p",
+                "x": "La medida llega mientras Valve se niega a bloquear el \"AI slop\" en Steam, Tim Sweeney califica los avisos obligatorios sobre AI de \"un acto político\" e Itch.io elimina lo que llamó \"terabytes de AI slop\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Nexus Mods,\nAI 모드 공개 의무화",
+          "body": "Nexus Mods가 AI-assisted 모드 공개를 의무화하고 숨김도 허용했다.",
+          "mini_headline": "Nexus Mods, AI 모드 표시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "이미지 출처: Nexus Mods."
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI가 모딩 업계를 휩쓸었다. 인터넷 최대 모드 플랫폼인 Nexus Mods는 이에 대응해 AI-assisted 코드를 쓴 모드에 공개를 의무화하고, 이용자가 검색 조건이나 환경설정에서 AI-assisted 모드를 걸러낼 수 있게 했다."
+              },
+              {
+                "t": "p",
+                "x": "공동 소유주 Victor 'Foledinho' Folmann은 블로그 글에서 \"우리는 인간의 창의성을 지지한다\"고 말했다. 그는 \"AI는 현재 창작 과정 전반에 쓰이고 있으며... 명확한 경계를 긋기 어렵다\"는 이유로 AI 모드를 금지하지 않겠다고 했다. 금지하면 모더들이 AI 사용을 숨기도록 부추길 뿐이라고 보기 때문이다. 그는 \"드러내 놓고, 명확히 표시하고, 규제해야 한다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "모더는 모드가 AI-assisted인지, 주로 AI-generated인지, AI-generated 홍보물을 담았는지 밝히고 \"AI를 어떻게, 어디에 사용했는지에 대한 공개 설명\"도 덧붙여야 한다. 기존 모드에는 60일의 유예 기간이 주어지며, 1월 2일까지 업데이트하지 않으면 계정 제한을 받을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이번 조치는 Valve가 Steam에서 \"AI slop\"을 막지 않기로 하고, Tim Sweeney가 AI 고지 의무화를 \"정치적 행위\"라 부르고, Itch.io가 이른바 \"테라바이트 분량의 AI slop\"을 삭제한 가운데 나왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nexus Modsが\nAI使用の開示を義務化",
+          "body": "Nexus ModsはAI開示を義務化し、AI-assisted MODの非表示を認めた。",
+          "mini_headline": "Nexus Mods、AI MODを表示",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "画像提供：Nexus Mods。"
+              },
+              {
+                "t": "p",
+                "x": "生成AIはMOD制作の世界を席巻している。インターネット最大のMODプラットフォームであるNexus Modsはこれを受け、AI-assistedのコードを含むMODに開示を義務付け、ユーザーが検索条件や設定でAI-assistedのMODを除外できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "共同オーナーのVictor 'Foledinho' Folmann氏はブログ投稿で「われわれは人間の創造性を支持する」と述べた。同氏は「AIは現在、創作のプロセス全体で使われており……明確な線引きは難しい」としてAI MODを禁止しない。禁止すればMOD制作者にAIの使用を隠させるだけだと考えており、「公の場に出し、明確にラベル付けし、規制すべきだ」と語る。"
+              },
+              {
+                "t": "p",
+                "x": "MOD制作者は、MODがAI-assistedか、主にAI-generatedか、AI-generatedの宣伝素材を含むかを申告し、さらに「AIをどのように、どこで使ったかの公開説明」を添えなければならない。既存のMODには60日間の猶予期間があり、1月2日までに更新されないものはアカウント制限を受ける可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "この動きは、ValveがSteamから「AI slop」を締め出さない姿勢を示し、Tim SweeneyがAI開示の義務化を「政治的行為」と呼び、Itch.ioが「テラバイト規模のAI slop」と称するものを削除するなかで起きた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nexus Mods要求\n模组公开AI使用",
+          "body": "Nexus Mods要求公开AI使用，并允许用户隐藏AI-assisted模组。",
+          "mini_headline": "Nexus Mods标注AI模组",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "图片来源：Nexus Mods。"
+              },
+              {
+                "t": "p",
+                "x": "生成式AI已席卷模组圈。作为互联网上最大的模组平台，Nexus Mods对此作出回应：强制要求含AI-assisted代码的模组进行披露，并允许用户在搜索条件或偏好设置中过滤掉AI-assisted模组。"
+              },
+              {
+                "t": "p",
+                "x": "联合所有者Victor 'Foledinho' Folmann在博文中表示：“我们支持人类的创造力。”他不会禁止AI模组，因为“AI目前贯穿整个创作过程……很难划出清晰的界限”，并认为禁令只会促使模组作者隐瞒AI的使用：“它应当公开透明、清楚标注并受到监管。”"
+              },
+              {
+                "t": "p",
+                "x": "模组作者必须声明模组是AI-assisted、主要为AI-generated，还是包含AI-generated宣传素材，并附上“关于AI如何使用、在何处使用的公开说明”。现有模组有60天宽限期；1月2日前仍未更新的模组可能面临账号限制。"
+              },
+              {
+                "t": "p",
+                "x": "此举正值Valve拒绝在Steam上封堵“AI slop”、Tim Sweeney称强制AI声明是“一种政治行为”，以及Itch.io删除其所称“TB级的AI slop”之际。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nexus Mods exige declarar\nel uso de AI en los mods",
+          "body": "Nexus Mods exige declarar el uso de AI y permite ocultar mods AI-assisted, porque vetarlos solo ocultaría la AI.",
+          "mini_headline": "Nexus Mods etiqueta los mods con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/11/04/image-2-1793789439521.png",
+                "cap": "Crédito de la imagen: Nexus Mods."
+              },
+              {
+                "t": "p",
+                "x": "La AI generativa se ha apoderado del mundo del modding. Nexus Mods, la mayor plataforma de mods de internet, ha respondido exigiendo que se declaren los mods con código AI-assisted y permitiendo a los usuarios excluir los mods AI-assisted de sus criterios de búsqueda o preferencias."
+              },
+              {
+                "t": "p",
+                "x": "\"Estamos a favor de la creatividad humana\", afirmó el copropietario Victor 'Foledinho' Folmann en una publicación de blog. No prohibirá los mods con AI porque \"la AI se usa actualmente en todo el proceso de creación... y es difícil trazar un límite claro\", y cree que una prohibición solo animaría a los modders a ocultar el uso de AI: \"Debería estar a la vista, claramente etiquetado y regulado\"."
+              },
+              {
+                "t": "p",
+                "x": "Los modders deben declarar si un mod es AI-assisted, principalmente AI-generated o incluye material promocional AI-generated, además de una \"explicación pública de cómo y dónde se usó la AI\". Los mods existentes tienen un periodo de gracia de 60 días; los que no se actualicen antes del 2 de enero podrían sufrir restricciones en su cuenta."
+              },
+              {
+                "t": "p",
+                "x": "La medida llega mientras Valve se niega a bloquear el \"AI slop\" en Steam, Tim Sweeney califica los avisos obligatorios sobre AI de \"un acto político\" e Itch.io elimina lo que llamó \"terabytes de AI slop\"."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ue6-blueprints-drop",
+      "source_lang": "ja",
+      "eyebrow": "AI NEWS",
+      "headline": "UE6, 블루프린트\n처음부터 폐지",
+      "body": "Epic 스위니가 UE6에서 블루프린트를 아예 빼고 AI를 앞세우겠다며 사과했다.",
+      "mini_headline": "UE6, 블루프린트 폐지",
+      "tool": "Games",
+      "source": "4Gamer.net",
+      "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-          },
-          {
             "t": "p",
-            "x": "11월 중순(mid-November) War Thunder 대규모 업데이트 Eagle's Shadow와 함께 3D-Guided Neural Rendering을 갖춘 NVIDIA DLSS 5가 들어간다. Gaijin Entertainment가 보기에 사실감은 플레이어가 알아보는 마킹과 재질, 전체 외형을 지킬 때만 의미가 있다. 팀은 DLSS 5를 Dagor Engine 색 파이프라인에 붙여 게임의 기준 룩에 맞게 조율했고, 공중·지상·해상 전투 전반에서 결과를 확인했다."
-          },
-          {
-            "t": "p",
-            "x": "아트 디렉터 Kirill Stupin은 DLSS 5 덕분에 하이라이트와 그림자가 좋아지고 “이전에는 도저히 이루지 못했던 새로운 수준의 미세 대비”가 생긴다고 말한다. 통합에서 실제로 부딪힌 과제는 하나였다. DLSS 5는 sRGB에서 돌아가는데 Dagor Engine은 선형 HDR 파이프라인을 쓴다. 그는 “이를 해결하려고 색 관리 파이프라인을 역변환 가능하게 만들어야 했다”고 설명했다. 그렇게 DLSS 5용 “semi-final(준최종)” 이미지를 만든 뒤 그 변화를 다시 선형 HDR로 되돌렸다."
+            "x": "Epic Games Japan은 2026년 11월 3일과 4일 도쿄 아리아케의 TFT 홀에서 Unreal Engine 공식 콘퍼런스 'Unreal Fest Tokyo 2026'을 열었다. 첫날 기조연설에 나선 Epic Games CEO Tim Sweeney는 기존 전환 방침을 뒤집고 차세대 엔진 'Unreal Engine 6'에서 블루프린트(BP)를 처음부터 빼겠다고 발표했다. 게임플레이는 Verse로만 작성한다."
           },
           {
             "t": "img",
-            "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-            "cap": "DLSS 5 ON"
+            "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+            "cap": "기조연설에 나선 Epic Games CEO Tim Sweeney"
           },
           {
             "t": "p",
-            "x": "팀은 “마킹과 표면 마모, 재질 특성이 원래 에셋에 충실하도록” 설정을 거듭 다듬었다. 차이가 가장 뚜렷한 건 흐리고 비 오는 날씨다. DLSS 5가 부드러운 확산광과 젖은 표면, 섬세한 재질 디테일을 살려낸다. Stupin은 다른 개발자에게 자기 아트 디렉션에 맞춰 조율하는 데 시간을 들이라고 조언한다."
+            "x": "Sweeney는 게임이 생태계로 성장하는 흐름을 업계의 큰 변화로 꼽았다. UE6에서는 게임플레이를 모두 스크립트 언어 'Verse'로 작성하고, 엔진 부분은 계속 C++로 개발한다. Verse는 C#처럼 쉽게 쓰면서도 C++만큼 강력하고, AI로 게임을 개발할 때는 기존 어떤 언어보다 다루기 쉽다는 설명이다."
           },
           {
             "t": "img",
-            "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-            "cap": "DLSS 5 ON"
+            "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Epic Games 내부에서는 AI 덕에 생산성이 1.5배에서 4배 올랐고 2026년 말까지 최소 4배, 2027년 중반에는 여러 영역에서 10배 개선을 내다본다. 개발자는 원하는 모델을 MCP 서버나 Python 스크립트 인터페이스로 Unreal Engine에 연결할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "6월 'Unreal Fest 2026'에서는 블루프린트를 UE6 초기 버전에 남겨 두고, Verse 중심 체계가 성숙하면 지원 중단 대상으로 돌리겠다고 했다. 그러나 AI는 블루프린트보다 텍스트 기반 코드를 다룰 때 훨씬 생산적이라는 점을 확인했고, 결국 2027년 말 나오는 UE6 개발 환경에서 블루프린트를 빼기로 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Sweeney는 이 결정이 환영받지 못하리라는 점을 인정하며 블루프린트 폐지를 사과했다. UE5에서 UE6로 옮길 때는 AI를 활용한 변환 수단을 제공한다. Epic Games는 '포트나이트'에서 이 방식을 시험하며 수천 개의 블루프린트와 남은 C++ 게임플레이 코드를 Verse로 옮기고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "War Thunder tunes DLSS 5\nto stay true to its art",
-          "body": "Gaijin made its Dagor Engine color pipeline invertible so DLSS 5 keeps markings, wear and materials faithful.",
-          "mini_headline": "War Thunder tunes DLSS 5",
+        "ja": {
+          "headline": "UE6はブループリントを\n最初から廃止へ",
+          "body": "Epicのスウィーニー氏は、UE6でブループリントを最初から廃しAIを優先すると謝罪した。",
+          "mini_headline": "UE6、ブループリント廃止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "In mid-November, War Thunder’s Eagle's Shadow major update goes live, adding NVIDIA DLSS 5 with 3D-Guided Neural Rendering. For Gaijin Entertainment, any gain in realism has to preserve the markings, materials, and overall look that players recognize. The team integrated DLSS 5 into their Dagor Engine’s color pipeline, tuned it against the game’s reference look, and evaluated the results across air, ground, and naval combat."
-              },
-              {
-                "t": "p",
-                "x": "Art director Kirill Stupin says DLSS 5 delivers improved highlights and shadows and “a new level of microcontrast that we simply haven’t been able to achieve before.” The one real integration challenge: DLSS 5 works in sRGB, while Dagor Engine uses a linear HDR pipeline. “To resolve this we had to make our color management pipeline invertible,” producing a “semi-final” image for DLSS 5 and mapping its changes back to linear HDR."
+                "x": "Epic Games Japanは2026年11月3日と4日に、Unreal Engineの公式カンファレンス「Unreal Fest Tokyo 2026」を東京・有明のTFTホールで開催した。初日の基調講演に登壇したEpic GamesのCEO、Tim Sweeney氏は、これまでの移行方針を変更し、次世代エンジン「Unreal Engine 6」でブループリント（BP）を最初から廃止すると発表した。ゲームプレイの記述はVerseに一本化する。"
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "基調講演に登壇したEpic Games CEOのTim Sweeney氏"
               },
               {
                 "t": "p",
-                "x": "The team iterated on the settings “to make sure markings, surface wear, and material properties stayed faithful to our original assets.” The most striking contrast appears in overcast, rainy conditions, where DLSS 5 brings out soft diffuse lighting, wet surfaces, and subtle material detail. Stupin’s advice to other developers: invest time in tuning it against their own art direction."
+                "x": "Sweeney氏は、ゲームがエコシステムへと成長していることを業界の大きな流れとして挙げた。UE6では、ゲームプレイをすべてスクリプト言語「Verse」で記述し、エンジン部分は引き続きC++で開発する。VerseはC#のように書きやすく、C++並みに強力で、AIを使ったゲーム開発ではこれまでのどの言語よりも扱いやすくなるという。"
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Epic Gamesの社内ではAIによって1.5倍から4倍の生産性向上が見られ、2026年末までに少なくとも4倍、2027年半ばには多くの領域で10倍の改善を見込んでいる。開発者は好きなモデルをMCPサーバーやPythonのスクリプトインタフェース経由でUnreal Engineに接続できる。"
+              },
+              {
+                "t": "p",
+                "x": "6月の「Unreal Fest 2026」では、ブループリントはUE6の初期版に残し、Verseを中心とする仕組みが成熟した段階で非推奨にするとしていた。しかしAIにとってはブループリントよりもテキストベースのコードを扱うほうがはるかに生産的だと分かったため、2027年末にローンチするUE6の開発環境からブループリントを取り除くことを決めたという。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney氏は、この決定が歓迎されないことを認め、ブループリントの廃止について謝罪した。UE5からUE6への移行には、AIを活用した変換手段を用意する。Epic Gamesは「フォートナイト」でこれを試しており、数千に及ぶブループリントと残ったC++のゲームプレイコードをVerseへ移しているところだ。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "UE6 drops Blueprints\nfrom the start",
+          "body": "Epic's Sweeney apologized for dropping Blueprints from UE6 from the start in favor of AI.",
+          "mini_headline": "UE6 drops Blueprints",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Epic Games Japan held Unreal Fest Tokyo 2026, the official Unreal Engine conference, at TFT Hall in Ariake, Tokyo, on November 3 and 4, 2026. In the first day's keynote, Epic Games CEO Tim Sweeney announced a change to the previous transition plan: Blueprints (BP) will be removed from the next-generation engine, Unreal Engine 6, from the start. Gameplay scripting will be consolidated into Verse."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "Epic Games CEO Tim Sweeney delivering the keynote"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney cited games growing into ecosystems as a major industry trend. In UE6, all gameplay will be written in the scripting language Verse, while the engine itself will continue to be developed in C++. He said Verse is as easy to write as C# and as powerful as C++, and will be easier to work with than any previous language for AI-driven game development."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Inside Epic Games, AI has brought productivity gains of 1.5x to 4x, and the company expects at least 4x by the end of 2026 and 10x improvements in many areas by mid-2027. Developers can connect any model they like to Unreal Engine through an MCP server or a Python scripting interface."
+              },
+              {
+                "t": "p",
+                "x": "At Unreal Fest 2026 in June, Epic had said Blueprints would remain in the initial version of UE6 and be deprecated once the Verse-centered system matured. But after finding that AI is far more productive working with text-based code than with Blueprints, it decided to remove Blueprints from the UE6 development environment, which launches at the end of 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney acknowledged the decision would not be welcomed and apologized for dropping Blueprints. An AI-powered conversion tool will be provided for migrating from UE5 to UE6. Epic Games is testing this on Fortnite, where it is moving thousands of Blueprints and the remaining C++ gameplay code to Verse."
               }
             ]
           }
         },
         "ko": {
-          "headline": "War Thunder의\nDLSS 5 화풍 지키기",
-          "body": "Gaijin은 DLSS 5에 맞춰 Dagor Engine 색 처리를 고쳤다.",
-          "mini_headline": "War Thunder의 DLSS 5 조율",
+          "headline": "UE6, 블루프린트\n처음부터 폐지",
+          "body": "Epic 스위니가 UE6에서 블루프린트를 아예 빼고 AI를 앞세우겠다며 사과했다.",
+          "mini_headline": "UE6, 블루프린트 폐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "11월 중순(mid-November) War Thunder 대규모 업데이트 Eagle's Shadow와 함께 3D-Guided Neural Rendering을 갖춘 NVIDIA DLSS 5가 들어간다. Gaijin Entertainment가 보기에 사실감은 플레이어가 알아보는 마킹과 재질, 전체 외형을 지킬 때만 의미가 있다. 팀은 DLSS 5를 Dagor Engine 색 파이프라인에 붙여 게임의 기준 룩에 맞게 조율했고, 공중·지상·해상 전투 전반에서 결과를 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "아트 디렉터 Kirill Stupin은 DLSS 5 덕분에 하이라이트와 그림자가 좋아지고 “이전에는 도저히 이루지 못했던 새로운 수준의 미세 대비”가 생긴다고 말한다. 통합에서 실제로 부딪힌 과제는 하나였다. DLSS 5는 sRGB에서 돌아가는데 Dagor Engine은 선형 HDR 파이프라인을 쓴다. 그는 “이를 해결하려고 색 관리 파이프라인을 역변환 가능하게 만들어야 했다”고 설명했다. 그렇게 DLSS 5용 “semi-final(준최종)” 이미지를 만든 뒤 그 변화를 다시 선형 HDR로 되돌렸다."
+                "x": "Epic Games Japan은 2026년 11월 3일과 4일 도쿄 아리아케의 TFT 홀에서 Unreal Engine 공식 콘퍼런스 'Unreal Fest Tokyo 2026'을 열었다. 첫날 기조연설에 나선 Epic Games CEO Tim Sweeney는 기존 전환 방침을 뒤집고 차세대 엔진 'Unreal Engine 6'에서 블루프린트(BP)를 처음부터 빼겠다고 발표했다. 게임플레이는 Verse로만 작성한다."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "기조연설에 나선 Epic Games CEO Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "팀은 “마킹과 표면 마모, 재질 특성이 원래 에셋에 충실하도록” 설정을 거듭 다듬었다. 차이가 가장 뚜렷한 건 흐리고 비 오는 날씨다. DLSS 5가 부드러운 확산광과 젖은 표면, 섬세한 재질 디테일을 살려낸다. Stupin은 다른 개발자에게 자기 아트 디렉션에 맞춰 조율하는 데 시간을 들이라고 조언한다."
+                "x": "Sweeney는 게임이 생태계로 성장하는 흐름을 업계의 큰 변화로 꼽았다. UE6에서는 게임플레이를 모두 스크립트 언어 'Verse'로 작성하고, 엔진 부분은 계속 C++로 개발한다. Verse는 C#처럼 쉽게 쓰면서도 C++만큼 강력하고, AI로 게임을 개발할 때는 기존 어떤 언어보다 다루기 쉽다는 설명이다."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "War Thunder\nDLSS 5を画風に最適化",
-          "body": "GaijinはDagor Engineの色処理を可逆化し、DLSS 5で質感を守った。",
-          "mini_headline": "War Thunder、DLSS 5を調整",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
               },
               {
                 "t": "p",
-                "x": "11月中旬（mid-November）、War Thunderの大型アップデートEagle's Shadowが配信され、3D-Guided Neural Renderingを備えたNVIDIA DLSS 5が加わる。Gaijin Entertainmentにとって、リアルさの向上はプレイヤーが見慣れたマーキングや材質、全体の見た目を損なわないことが前提だ。チームはDLSS 5をDagor Engineのカラーパイプラインに組み込み、ゲームの基準となるルックに合わせて調整したうえで、空・陸・海の戦闘全体で結果を評価した。"
+                "x": "Epic Games 내부에서는 AI 덕에 생산성이 1.5배에서 4배 올랐고 2026년 말까지 최소 4배, 2027년 중반에는 여러 영역에서 10배 개선을 내다본다. 개발자는 원하는 모델을 MCP 서버나 Python 스크립트 인터페이스로 Unreal Engine에 연결할 수 있다."
               },
               {
                 "t": "p",
-                "x": "アートディレクターのKirill Stupinは、DLSS 5によってハイライトと影が改善され、「これまで実現できなかった新しいレベルのマイクロコントラスト」が得られると語る。統合で唯一の本格的な課題は、DLSS 5がsRGBで動作する一方、Dagor EngineはリニアHDRパイプラインを使う点だった。「これを解決するため、カラーマネジメントのパイプラインを可逆にする必要があった」という。DLSS 5向けに「semi-final（準最終）」画像を生成し、その変化をリニアHDRへ戻す仕組みである。"
+                "x": "6월 'Unreal Fest 2026'에서는 블루프린트를 UE6 초기 버전에 남겨 두고, Verse 중심 체계가 성숙하면 지원 중단 대상으로 돌리겠다고 했다. 그러나 AI는 블루프린트보다 텍스트 기반 코드를 다룰 때 훨씬 생산적이라는 점을 확인했고, 결국 2027년 말 나오는 UE6 개발 환경에서 블루프린트를 빼기로 했다."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
               },
               {
                 "t": "p",
-                "x": "チームは「マーキング、表面の摩耗、材質の特性が元のアセットに忠実であり続けるよう」設定を繰り返し詰めた。最も際立つ差は曇りや雨の条件で現れ、DLSS 5は柔らかな拡散光や濡れた路面、繊細な材質のディテールを引き出す。他の開発者へのStupinの助言は、自分たちのアートディレクションに合わせた調整に時間をかけることだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "x": "Sweeney는 이 결정이 환영받지 못하리라는 점을 인정하며 블루프린트 폐지를 사과했다. UE5에서 UE6로 옮길 때는 AI를 활용한 변환 수단을 제공한다. Epic Games는 '포트나이트'에서 이 방식을 시험하며 수천 개의 블루프린트와 남은 C++ 게임플레이 코드를 Verse로 옮기고 있다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "War Thunder调校\nDLSS 5忠于美术",
-          "body": "Gaijin让Dagor Engine色彩管线可逆，使DLSS 5保留涂装、磨损与材质。",
-          "mini_headline": "War Thunder调校DLSS 5",
+          "headline": "UE6将从一开始\n就废除蓝图",
+          "body": "Epic的斯威尼宣布UE6将从一开始废除蓝图、优先AI，并为此致歉。",
+          "mini_headline": "UE6废除蓝图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "11月中旬（mid-November），War Thunder的大型更新Eagle's Shadow将上线，加入搭载3D-Guided Neural Rendering的NVIDIA DLSS 5。对Gaijin Entertainment而言，任何真实感的提升都必须保留玩家熟悉的涂装、材质和整体观感。团队将DLSS 5整合进Dagor Engine的色彩管线，按照游戏的参考画面进行调校，并在空战、陆战和海战中全面评估效果。"
-              },
-              {
-                "t": "p",
-                "x": "美术总监Kirill Stupin表示，DLSS 5改善了高光与阴影，并带来“我们以前根本无法实现的全新层次的微对比度”。真正的整合难题只有一个：DLSS 5在sRGB下工作，而Dagor Engine使用线性HDR管线。“为解决这个问题，我们必须让色彩管理管线可逆”，从而为DLSS 5生成一张“semi-final（准最终）”图像，再把它的改动映射回线性HDR。"
+                "x": "Epic Games Japan于2026年11月3日和4日在东京有明的TFT大厅举办了Unreal Engine官方大会“Unreal Fest Tokyo 2026”。在首日主题演讲中登台的Epic Games CEO Tim Sweeney改变了此前的过渡方针，宣布次世代引擎“Unreal Engine 6”将从一开始就废除蓝图（BP），游戏玩法的编写统一使用Verse。"
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "在主题演讲中登台的Epic Games CEO Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "团队反复调整设置，“确保涂装、表面磨损和材质属性忠实于我们的原始资产”。最明显的对比出现在阴天和雨天，DLSS 5能呈现柔和的漫射光、湿润的表面和细微的材质细节。Stupin给其他开发者的建议是：花时间按照自己的美术方向去调校。"
+                "x": "Sweeney将游戏成长为生态系统列为行业的一大趋势。在UE6中，游戏玩法将全部用脚本语言“Verse”编写，引擎部分则继续用C++开发。据介绍，Verse像C#一样易写，又与C++同样强大，在借助AI的游戏开发中将比以往任何语言都更易驾驭。"
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Epic Games内部已借助AI实现1.5倍至4倍的生产力提升，预计到2026年底至少达到4倍，到2027年中期在许多领域实现10倍改进。开发者可通过MCP服务器或Python脚本接口，将自己喜欢的模型接入Unreal Engine。"
+              },
+              {
+                "t": "p",
+                "x": "在6月的“Unreal Fest 2026”上，官方曾表示蓝图会保留在UE6初始版本中，待以Verse为核心的体系成熟后再弃用。但由于发现对AI而言，处理文本代码远比处理蓝图高效，因此决定从将于2027年底推出的UE6开发环境中移除蓝图。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney承认这一决定不会受到欢迎，并就废除蓝图致歉。从UE5迁移到UE6时，将提供借助AI的转换手段。Epic Games正在《堡垒之夜》中试行，把数千个蓝图和剩余的C++游戏玩法代码迁移到Verse。"
               }
             ]
           }
         },
         "es": {
-          "headline": "War Thunder ajusta DLSS 5\npara ser fiel a su arte",
-          "body": "Gaijin hizo invertible el pipeline de color de Dagor Engine para que DLSS 5 respete marcas, desgaste y materiales.",
-          "mini_headline": "War Thunder ajusta DLSS 5",
+          "headline": "UE6 elimina los Blueprints\ndesde el inicio",
+          "body": "Sweeney, de Epic, se disculpó por eliminar los Blueprints de UE6 desde el inicio para priorizar la AI.",
+          "mini_headline": "UE6 elimina los Blueprints",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "A mediados de noviembre (mid-November) llega la gran actualización Eagle's Shadow de War Thunder, que añade NVIDIA DLSS 5 con 3D-Guided Neural Rendering. Para Gaijin Entertainment, cualquier ganancia de realismo debe preservar las marcas, los materiales y el aspecto general que los jugadores reconocen. El equipo integró DLSS 5 en el pipeline de color de su Dagor Engine, lo ajustó según el aspecto de referencia del juego y evaluó los resultados en combates aéreos, terrestres y navales."
-              },
-              {
-                "t": "p",
-                "x": "El director de arte Kirill Stupin afirma que DLSS 5 mejora las luces y las sombras y aporta “un nuevo nivel de microcontraste que sencillamente no habíamos podido lograr antes”. El único desafío real de integración: DLSS 5 trabaja en sRGB, mientras que Dagor Engine usa un pipeline HDR lineal. “Para resolverlo tuvimos que hacer invertible nuestro pipeline de gestión del color”, lo que permite producir una imagen “semi-final” para DLSS 5 y trasladar sus cambios de vuelta a HDR lineal."
+                "x": "Epic Games Japan celebró los días 3 y 4 de noviembre de 2026 la conferencia oficial de Unreal Engine, Unreal Fest Tokyo 2026, en el TFT Hall de Ariake, Tokio. En la conferencia principal del primer día, el CEO de Epic Games, Tim Sweeney, cambió el plan de transición previsto y anunció que el motor de próxima generación, Unreal Engine 6, prescindirá de los Blueprints (BP) desde el inicio. La programación del gameplay se unificará en Verse."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "Tim Sweeney, CEO de Epic Games, durante la conferencia principal"
               },
               {
                 "t": "p",
-                "x": "El equipo iteró sobre los ajustes “para asegurarnos de que las marcas, el desgaste de superficies y las propiedades de los materiales se mantuvieran fieles a nuestros recursos originales”. El contraste más llamativo aparece en condiciones nubladas y lluviosas, donde DLSS 5 resalta la luz difusa suave, las superficies mojadas y los detalles sutiles de los materiales. El consejo de Stupin a otros desarrolladores: dedicar tiempo a ajustarlo según su propia dirección de arte."
+                "x": "Sweeney señaló como gran tendencia del sector que los juegos están creciendo hasta convertirse en ecosistemas. En UE6, todo el gameplay se escribirá en el lenguaje de scripting Verse, mientras que el motor seguirá desarrollándose en C++. Según explicó, Verse es tan fácil de escribir como C#, tan potente como C++ y, en el desarrollo de juegos con AI, más manejable que cualquier lenguaje anterior."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Dentro de Epic Games, la AI ha multiplicado la productividad entre 1.5 y 4 veces, y la empresa prevé al menos 4 veces para finales de 2026 y mejoras de 10 veces en muchas áreas a mediados de 2027. Los desarrolladores pueden conectar el modelo que prefieran a Unreal Engine mediante un servidor MCP o una interfaz de scripts de Python."
+              },
+              {
+                "t": "p",
+                "x": "En Unreal Fest 2026, en junio, se había dicho que los Blueprints se mantendrían en la versión inicial de UE6 y quedarían obsoletos cuando madurara el sistema centrado en Verse. Sin embargo, al comprobar que para la AI es mucho más productivo trabajar con código en texto que con Blueprints, se decidió retirarlos del entorno de desarrollo de UE6, que se lanzará a finales de 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney reconoció que la decisión no será bien recibida y pidió disculpas por la eliminación de los Blueprints. Para la migración de UE5 a UE6 se ofrecerá una herramienta de conversión basada en AI. Epic Games lo está probando en Fortnite, donde traslada a Verse miles de Blueprints y el código de gameplay en C++ que quedaba."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "War Thunder의\nDLSS 5 화풍 지키기",
-          "body": "Gaijin은 DLSS 5에 맞춰 Dagor Engine 색 처리를 고쳤다.",
-          "mini_headline": "War Thunder의 DLSS 5 조율",
+        "en": {
+          "headline": "UE6 drops Blueprints\nfrom the start",
+          "body": "Epic's Sweeney apologized for dropping Blueprints from UE6 from the start in favor of AI.",
+          "mini_headline": "UE6 drops Blueprints",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "11월 중순(mid-November) War Thunder의 대규모 업데이트 Eagle's Shadow가 적용되며 3D-Guided Neural Rendering을 갖춘 NVIDIA DLSS 5가 추가된다. Gaijin Entertainment에게 사실감 향상은 플레이어가 알아보는 마킹과 재질, 전체적인 외형을 지킬 때만 의미가 있다. 팀은 DLSS 5를 Dagor Engine의 색 파이프라인에 통합하고, 게임의 기준 룩에 맞춰 조율한 뒤 공중·지상·해상 전투 전반에서 결과를 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "아트 디렉터 Kirill Stupin은 DLSS 5가 하이라이트와 그림자를 개선하고 “이전에는 도저히 이루지 못했던 새로운 수준의 미세 대비”를 제공한다고 말한다. 통합 과정에서 실질적인 과제는 하나였다. DLSS 5는 sRGB에서 작동하지만 Dagor Engine은 선형 HDR 파이프라인을 쓴다는 점이다. “이를 해결하려고 색 관리 파이프라인을 역변환 가능하게 만들어야 했다”는 것이 그의 설명이며, 이렇게 DLSS 5용 “semi-final(준최종)” 이미지를 만들고 그 변화를 다시 선형 HDR로 되돌렸다."
+                "x": "Epic Games Japan held Unreal Fest Tokyo 2026, the official Unreal Engine conference, at TFT Hall in Ariake, Tokyo, on November 3 and 4, 2026. In the first day's keynote, Epic Games CEO Tim Sweeney announced a change to the previous transition plan: Blueprints (BP) will be removed from the next-generation engine, Unreal Engine 6, from the start. Gameplay scripting will be consolidated into Verse."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "Epic Games CEO Tim Sweeney delivering the keynote"
               },
               {
                 "t": "p",
-                "x": "팀은 “마킹과 표면 마모, 재질 특성이 원래 에셋에 충실하도록” 설정을 거듭 다듬었다. 가장 뚜렷한 차이는 흐리고 비 오는 날씨에서 나타나며, DLSS 5는 부드러운 확산광과 젖은 표면, 섬세한 재질 디테일을 살려낸다. Stupin이 다른 개발자에게 건네는 조언은 자신의 아트 디렉션에 맞춰 조율하는 데 시간을 들이라는 것이다."
+                "x": "Sweeney cited games growing into ecosystems as a major industry trend. In UE6, all gameplay will be written in the scripting language Verse, while the engine itself will continue to be developed in C++. He said Verse is as easy to write as C# and as powerful as C++, and will be easier to work with than any previous language for AI-driven game development."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Inside Epic Games, AI has brought productivity gains of 1.5x to 4x, and the company expects at least 4x by the end of 2026 and 10x improvements in many areas by mid-2027. Developers can connect any model they like to Unreal Engine through an MCP server or a Python scripting interface."
+              },
+              {
+                "t": "p",
+                "x": "At Unreal Fest 2026 in June, Epic had said Blueprints would remain in the initial version of UE6 and be deprecated once the Verse-centered system matured. But after finding that AI is far more productive working with text-based code than with Blueprints, it decided to remove Blueprints from the UE6 development environment, which launches at the end of 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney acknowledged the decision would not be welcomed and apologized for dropping Blueprints. An AI-powered conversion tool will be provided for migrating from UE5 to UE6. Epic Games is testing this on Fortnite, where it is moving thousands of Blueprints and the remaining C++ gameplay code to Verse."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "War Thunder\nDLSS 5を画風に最適化",
-          "body": "GaijinはDagor Engineの色処理を可逆化し、DLSS 5で質感を守った。",
-          "mini_headline": "War Thunder、DLSS 5を調整",
+        "ko": {
+          "headline": "UE6, 블루프린트\n처음부터 폐지",
+          "body": "Epic 스위니는 UE6 블루프린트를 처음부터 없애고 AI를 우선한다며 사과했다.",
+          "mini_headline": "UE6, 블루프린트 폐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "11月中旬（mid-November）、War Thunderの大型アップデートEagle's Shadowが配信され、3D-Guided Neural Renderingを備えたNVIDIA DLSS 5が加わる。Gaijin Entertainmentにとって、リアルさの向上はプレイヤーが見慣れたマーキングや材質、全体の見た目を損なわないことが前提だ。チームはDLSS 5をDagor Engineのカラーパイプラインに組み込み、ゲームの基準となるルックに合わせて調整したうえで、空・陸・海の戦闘全体で結果を評価した。"
-              },
-              {
-                "t": "p",
-                "x": "アートディレクターのKirill Stupinは、DLSS 5によってハイライトと影が改善され、「これまで実現できなかった新しいレベルのマイクロコントラスト」が得られると語る。統合で唯一の本格的な課題は、DLSS 5がsRGBで動作する一方、Dagor EngineはリニアHDRパイプラインを使う点だった。「これを解決するため、カラーマネジメントのパイプラインを可逆にする必要があった」という。DLSS 5向けに「semi-final（準最終）」画像を生成し、その変化をリニアHDRへ戻す仕組みである。"
+                "x": "Epic Games Japan은 2026년 11월 3일과 4일 도쿄 아리아케의 TFT 홀에서 Unreal Engine 공식 콘퍼런스 'Unreal Fest Tokyo 2026'을 열었다. 첫날 기조연설에 나선 Epic Games CEO Tim Sweeney는 기존 전환 방침을 바꿔, 차세대 엔진 'Unreal Engine 6'에서 블루프린트(BP)를 처음부터 없앤다고 발표했다. 게임플레이 작성은 Verse로 일원화한다."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "기조연설에 나선 Epic Games CEO Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "チームは「マーキング、表面の摩耗、材質の特性が元のアセットに忠実であり続けるよう」設定を繰り返し詰めた。最も際立つ差は曇りや雨の条件で現れ、DLSS 5は柔らかな拡散光や濡れた路面、繊細な材質のディテールを引き出す。他の開発者へのStupinの助言は、自分たちのアートディレクションに合わせた調整に時間をかけることだ。"
+                "x": "Sweeney는 게임이 생태계로 성장하는 흐름을 업계의 큰 변화로 꼽았다. UE6에서는 게임플레이를 모두 스크립트 언어 'Verse'로 작성하고, 엔진 부분은 계속 C++로 개발한다. Verse는 C#처럼 쓰기 쉽고 C++만큼 강력하며, AI를 활용한 게임 개발에서는 지금까지의 어떤 언어보다 다루기 쉽다고 한다."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Epic Games 내부에서는 AI로 1.5배에서 4배의 생산성 향상이 나타났고, 2026년 말까지 최소 4배, 2027년 중반에는 여러 영역에서 10배 개선을 내다본다. 개발자는 원하는 모델을 MCP 서버나 Python 스크립트 인터페이스를 거쳐 Unreal Engine에 연결할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "6월 'Unreal Fest 2026'에서는 블루프린트를 UE6 초기 버전에 남겨 두고, Verse 중심 체계가 성숙하면 지원 중단 대상으로 돌리겠다고 했다. 하지만 AI에게는 블루프린트보다 텍스트 기반 코드를 다루는 편이 훨씬 생산적이라는 사실을 확인하고, 2027년 말 출시하는 UE6 개발 환경에서 블루프린트를 빼기로 했다고 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney는 이 결정이 환영받지 못할 것을 인정하고 블루프린트 폐지에 대해 사과했다. UE5에서 UE6로 옮길 때는 AI를 활용한 변환 수단을 제공한다. Epic Games는 '포트나이트'에서 이를 시험하고 있으며, 수천 개의 블루프린트와 남은 C++ 게임플레이 코드를 Verse로 옮기는 중이다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "War Thunder调校\nDLSS 5忠于美术",
-          "body": "Gaijin让Dagor Engine色彩管线可逆，使DLSS 5保留涂装、磨损与材质。",
-          "mini_headline": "War Thunder调校DLSS 5",
+          "headline": "UE6将从一开始\n就废除蓝图",
+          "body": "Epic的斯威尼宣布UE6将从一开始废除蓝图、优先AI，并为此致歉。",
+          "mini_headline": "UE6废除蓝图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "11月中旬（mid-November），War Thunder的大型更新Eagle's Shadow将上线，加入搭载3D-Guided Neural Rendering的NVIDIA DLSS 5。对Gaijin Entertainment而言，任何真实感的提升都必须保留玩家熟悉的涂装、材质和整体观感。团队将DLSS 5整合进Dagor Engine的色彩管线，按照游戏的参考画面进行调校，并在空战、陆战和海战中全面评估效果。"
-              },
-              {
-                "t": "p",
-                "x": "美术总监Kirill Stupin表示，DLSS 5改善了高光与阴影，并带来“我们以前根本无法实现的全新层次的微对比度”。真正的整合难题只有一个：DLSS 5在sRGB下工作，而Dagor Engine使用线性HDR管线。“为解决这个问题，我们必须让色彩管理管线可逆”，从而为DLSS 5生成一张“semi-final（准最终）”图像，再把它的改动映射回线性HDR。"
+                "x": "Epic Games Japan于2026年11月3日和4日在东京有明的TFT大厅举办了Unreal Engine官方大会“Unreal Fest Tokyo 2026”。在首日主题演讲中登台的Epic Games CEO Tim Sweeney改变了此前的过渡方针，宣布次世代引擎“Unreal Engine 6”将从一开始就废除蓝图（BP），游戏玩法的编写统一使用Verse。"
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "在主题演讲中登台的Epic Games CEO Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "团队反复调整设置，“确保涂装、表面磨损和材质属性忠实于我们的原始资产”。最明显的对比出现在阴天和雨天，DLSS 5能呈现柔和的漫射光、湿润的表面和细微的材质细节。Stupin给其他开发者的建议是：花时间按照自己的美术方向去调校。"
+                "x": "Sweeney将游戏成长为生态系统列为行业的一大趋势。在UE6中，游戏玩法将全部用脚本语言“Verse”编写，引擎部分则继续用C++开发。据介绍，Verse像C#一样易写，又与C++同样强大，在借助AI的游戏开发中将比以往任何语言都更易驾驭。"
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Epic Games内部已借助AI实现1.5倍至4倍的生产力提升，预计到2026年底至少达到4倍，到2027年中期在许多领域实现10倍改进。开发者可通过MCP服务器或Python脚本接口，将自己喜欢的模型接入Unreal Engine。"
+              },
+              {
+                "t": "p",
+                "x": "在6月的“Unreal Fest 2026”上，官方曾表示蓝图会保留在UE6初始版本中，待以Verse为核心的体系成熟后再弃用。但由于发现对AI而言，处理文本代码远比处理蓝图高效，因此决定从将于2027年底推出的UE6开发环境中移除蓝图。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney承认这一决定不会受到欢迎，并就废除蓝图致歉。从UE5迁移到UE6时，将提供借助AI的转换手段。Epic Games正在《堡垒之夜》中试行，把数千个蓝图和剩余的C++游戏玩法代码迁移到Verse。"
               }
             ]
           }
         },
         "es": {
-          "headline": "War Thunder ajusta DLSS 5\npara ser fiel a su arte",
-          "body": "Gaijin hizo invertible el pipeline de color de Dagor Engine para que DLSS 5 respete marcas, desgaste y materiales.",
-          "mini_headline": "War Thunder ajusta DLSS 5",
+          "headline": "UE6 elimina los Blueprints\ndesde el inicio",
+          "body": "Sweeney, de Epic, se disculpó por eliminar los Blueprints de UE6 desde el inicio para priorizar la AI.",
+          "mini_headline": "UE6 elimina los Blueprints",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
-              },
-              {
                 "t": "p",
-                "x": "A mediados de noviembre (mid-November) llega la gran actualización Eagle's Shadow de War Thunder, que añade NVIDIA DLSS 5 con 3D-Guided Neural Rendering. Para Gaijin Entertainment, cualquier ganancia de realismo debe preservar las marcas, los materiales y el aspecto general que los jugadores reconocen. El equipo integró DLSS 5 en el pipeline de color de su Dagor Engine, lo ajustó según el aspecto de referencia del juego y evaluó los resultados en combates aéreos, terrestres y navales."
-              },
-              {
-                "t": "p",
-                "x": "El director de arte Kirill Stupin afirma que DLSS 5 mejora las luces y las sombras y aporta “un nuevo nivel de microcontraste que sencillamente no habíamos podido lograr antes”. El único desafío real de integración: DLSS 5 trabaja en sRGB, mientras que Dagor Engine usa un pipeline HDR lineal. “Para resolverlo tuvimos que hacer invertible nuestro pipeline de gestión del color”, lo que permite producir una imagen “semi-final” para DLSS 5 y trasladar sus cambios de vuelta a HDR lineal."
+                "x": "Epic Games Japan celebró los días 3 y 4 de noviembre de 2026 la conferencia oficial de Unreal Engine, Unreal Fest Tokyo 2026, en el TFT Hall de Ariake, Tokio. En la conferencia principal del primer día, el CEO de Epic Games, Tim Sweeney, cambió el plan de transición previsto y anunció que el motor de próxima generación, Unreal Engine 6, prescindirá de los Blueprints (BP) desde el inicio. La programación del gameplay se unificará en Verse."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+                "cap": "Tim Sweeney, CEO de Epic Games, durante la conferencia principal"
               },
               {
                 "t": "p",
-                "x": "El equipo iteró sobre los ajustes “para asegurarnos de que las marcas, el desgaste de superficies y las propiedades de los materiales se mantuvieran fieles a nuestros recursos originales”. El contraste más llamativo aparece en condiciones nubladas y lluviosas, donde DLSS 5 resalta la luz difusa suave, las superficies mojadas y los detalles sutiles de los materiales. El consejo de Stupin a otros desarrolladores: dedicar tiempo a ajustarlo según su propia dirección de arte."
+                "x": "Sweeney señaló como gran tendencia del sector que los juegos están creciendo hasta convertirse en ecosistemas. En UE6, todo el gameplay se escribirá en el lenguaje de scripting Verse, mientras que el motor seguirá desarrollándose en C++. Según explicó, Verse es tan fácil de escribir como C#, tan potente como C++ y, en el desarrollo de juegos con AI, más manejable que cualquier lenguaje anterior."
               },
               {
                 "t": "img",
-                "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
-                "cap": "DLSS 5 ON"
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Dentro de Epic Games, la AI ha multiplicado la productividad entre 1.5 y 4 veces, y la empresa prevé al menos 4 veces para finales de 2026 y mejoras de 10 veces en muchas áreas a mediados de 2027. Los desarrolladores pueden conectar el modelo que prefieran a Unreal Engine mediante un servidor MCP o una interfaz de scripts de Python."
+              },
+              {
+                "t": "p",
+                "x": "En Unreal Fest 2026, en junio, se había dicho que los Blueprints se mantendrían en la versión inicial de UE6 y quedarían obsoletos cuando madurara el sistema centrado en Verse. Sin embargo, al comprobar que para la AI es mucho más productivo trabajar con código en texto que con Blueprints, se decidió retirarlos del entorno de desarrollo de UE6, que se lanzará a finales de 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Sweeney reconoció que la decisión no será bien recibida y pidió disculpas por la eliminación de los Blueprints. Para la migración de UE5 a UE6 se ofrecerá una herramienta de conversión basada en AI. Epic Games lo está probando en Fortnite, donde traslada a Verse miles de Blueprints y el código de gameplay en C++ que quedaba."
               }
             ]
           }
@@ -375,401 +767,391 @@
       }
     },
     {
-      "id": "itchio-ai-terabytes-purge",
-      "source_lang": "en",
+      "id": "power-moon-recomp-odyssey",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Itch.io가 대거 지운\nAI-generated물",
-      "body": "Itch.io가 AI 업로드 두어 테라바이트를 지우고 필터를 손봤다.",
-      "mini_headline": "Itch.io, AI 업로드 정리",
+      "headline": "클로드로 만든 비공식\n마리오 오디세이 PC판",
+      "body": "개발자는 클로드 코딩 에이전트의 도움을 크게 받아 이 포트를 만들었다고 밝혔다.",
+      "mini_headline": "비공식 오디세이 PC판",
       "tool": "Games",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/itch-io-removes-terabytes-ai-slop/",
+      "source": "게임와이 (Gamey)",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "닌텐도 스위치 '슈퍼 마리오 오디세이'를 에뮬레이터 없이 PC에서 그대로 실행하는 비공식 포트가 지난 2일 공개됐다. 개발자는 작업 과정에서 AI 코딩 에이전트 '클로드'의 도움을 크게 받았다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "포트 이름은 '파워 문 리컴프(Power Moon Recomp)'다. 개발자 '자라투스트라 데브(Zarathustra Dev)'는 2일 오전 9시(한국시간) 첫 버전 0.1.0을 올렸고, 3일 오후 3시께 0.1.6까지 30시간 남짓 동안 7차례 버전을 냈다. 방식은 정적 재컴파일(static recompilation)로, 스위치용 ARM64 실행 코드를 미리 C 언어로 옮긴 뒤 윈도우·리눅스·맥OS용 일반 프로그램으로 빌드한다."
+          },
+          {
+            "t": "p",
+            "x": "개발자는 저장소 안내문에 \"AI 코딩 에이전트(클로드)의 많은 도움을 받아 만들었고, 사람이 방향을 잡고 테스트했다\"고 적었다. 어떤 클로드 모델을 언제 썼는지는 밝히지 않았다."
+          },
+          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-            "cap": "Itch.io"
+            "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
           },
           {
             "t": "p",
-            "x": "하룻밤 새 해결될 문제는 아니지만 첫발은 뗐다. Itch는 이번 주 초 눈이 휘둥그레질 만큼 불어난 AI-generated 쓰레기를 “두어 테라바이트” 지우고, AI 공개 규정을 적용하는 곳도 늘리겠다고 발표했다."
+            "x": "내부 해상도는 1080p 기준 최대 4배까지 올릴 수 있어 4K 출력이 가능하고, 프레임은 60fps로 고정된다. 게임 파일은 들어 있지 않으며, 이용자가 자기 스위치에서 직접 추출한 1.0.0 버전의 실행 파일과 데이터를 넣어야 한다. 코드는 MIT 라이선스로 공개됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
           },
           {
             "t": "p",
-            "x": "“최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올릴 수 있다고 해서, 최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올려야 한다는 뜻은 아니다.” 플랫폼의 Bluesky 계정에 올라온 글이다."
-          },
-          {
-            "t": "p",
-            "x": "Itch는 AI 공개 요건을 테이블톱과 만화, 사운드트랙까지 넓혔다. 검색 페이지처럼 “심각하게 부족했던” 곳에는 AI 공개 필터링을 붙였다."
-          },
-          {
-            "t": "p",
-            "x": "AI-generated 콘텐츠를 아예 금지하라는 요구가 많았지만 Itch는 당분간 그럴 생각이 없어 보인다. 사이트의 Bluesky 계정은 두 해 전부터 있던 AI 스팸 규정을 링크하며 수 테라바이트 분량의 저질 콘텐츠를 지운 근거로 들었다. 이 규정은 “사람의 개입을 최소화한 채 주로 알고리즘이나 AI로 만든” 게임이나 프로젝트를 금지한다."
-          },
-          {
-            "t": "p",
-            "x": "다만 이 페이지에는 “경우에 따라 자동 생성되거나 AI-generated 콘텐츠도 유용하거나 흥미로울 수 있다”는 문구도 있다. “사용자 경험에 상당한 가치를 더하고” 제대로 공개만 된다면 AI도 플랫폼에 남을 수 있다는 얘기다."
-          },
-          {
-            "t": "p",
-            "x": "물론 생성형 AI를 쓰고도 밝히지 않는 사람은 여전히 있을 수 있다. 그럴 때 Steam에 비하면 아주 작은 Itch 직원들이 할 수 있는 일은 whack-a-mole(두더지 잡기)을 되풀이하는 것 정도다."
+            "x": "톰스하드웨어는 2일, 앤트로픽 직원 애디 오스마니가 클로드 코드 프롬프트에 '특정 게임 재현'을 막는 문장 두 줄을 넣었다고 확인했다고 보도했다. 파워 문 리컴프는 이용자가 가진 원본 코드를 PC용으로 변환하는 방식인데, 이 작업이 앤트로픽 규칙과 어떤 관계인지는 알려지지 않았다. 닌텐도는 3일 밤까지 공식 입장을 내지 않았다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Itch.io deletes terabytes\nof AI-generated uploads",
-          "body": "Itch.io removed a couple terabytes of AI uploads, many of them poorly optimized AI models, and updated its filtering.",
-          "mini_headline": "Itch.io clears AI uploads",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
-              },
-              {
-                "t": "p",
-                "x": "It’s not gonna solve the problem overnight, but it’s a start: Itch kicked off the week by announcing that it’s combatting an eye-watering uptick in AI-generated trash by deleting “a couple terabytes” of the stuff and enforcing AI disclosure rules in more places."
-              },
-              {
-                "t": "p",
-                "x": "“Just because you can upload 10 terabytes of poorly optimized AI-generated models doesn't mean you should upload 10 terabytes of poorly optimized AI-generated models,” reads a post from the platform’s Bluesky account."
-              },
-              {
-                "t": "p",
-                "x": "Further, Itch has updated its AI disclosure requirement to include tabletop, comics, and soundtracks and has also added AI disclosure filtering to places where it was “critically lacking,” including the search page."
-              },
-              {
-                "t": "p",
-                "x": "While many have called for Itch to ban AI-generated content outright, that does not appear to be in the cards, at least for now. The site’s Bluesky account linked to AI spam rules that have been around for two years, which it used as a justification for deleting multiple terabytes of slop. Against these rules are games or projects “predominantly created by algorithms or AI with minimal human intervention.”"
-              },
-              {
-                "t": "p",
-                "x": "But the page specifically notes that “in some cases automatically generated or AI-generated content can be useful or interesting” and that AI has a place on the platform as long as “it adds substantial value to the user experience” and is properly disclosed."
-              },
-              {
-                "t": "p",
-                "x": "But of course, people can still just opt to not disclose that their games incorporate generative AI, leaving Itch’s staff—tiny compared to, say, Steam’s—with little recourse other than to repeatedly play whack-a-mole."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Itch.io가 대거 지운\nAI-generated물",
-          "body": "Itch.io가 AI 업로드 두어 테라바이트를 지우고 필터를 손봤다.",
-          "mini_headline": "Itch.io, AI 업로드 정리",
+          "headline": "클로드로 만든 비공식\n마리오 오디세이 PC판",
+          "body": "개발자는 클로드 코딩 에이전트의 도움을 크게 받아 이 포트를 만들었다고 밝혔다.",
+          "mini_headline": "비공식 오디세이 PC판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "닌텐도 스위치 '슈퍼 마리오 오디세이'를 에뮬레이터 없이 PC에서 그대로 실행하는 비공식 포트가 지난 2일 공개됐다. 개발자는 작업 과정에서 AI 코딩 에이전트 '클로드'의 도움을 크게 받았다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "포트 이름은 '파워 문 리컴프(Power Moon Recomp)'다. 개발자 '자라투스트라 데브(Zarathustra Dev)'는 2일 오전 9시(한국시간) 첫 버전 0.1.0을 올렸고, 3일 오후 3시께 0.1.6까지 30시간 남짓 동안 7차례 버전을 냈다. 방식은 정적 재컴파일(static recompilation)로, 스위치용 ARM64 실행 코드를 미리 C 언어로 옮긴 뒤 윈도우·리눅스·맥OS용 일반 프로그램으로 빌드한다."
+              },
+              {
+                "t": "p",
+                "x": "개발자는 저장소 안내문에 \"AI 코딩 에이전트(클로드)의 많은 도움을 받아 만들었고, 사람이 방향을 잡고 테스트했다\"고 적었다. 어떤 클로드 모델을 언제 썼는지는 밝히지 않았다."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
               },
               {
                 "t": "p",
-                "x": "하룻밤 새 해결될 문제는 아니지만 첫발은 뗐다. Itch는 이번 주 초 눈이 휘둥그레질 만큼 불어난 AI-generated 쓰레기를 “두어 테라바이트” 지우고, AI 공개 규정을 적용하는 곳도 늘리겠다고 발표했다."
+                "x": "내부 해상도는 1080p 기준 최대 4배까지 올릴 수 있어 4K 출력이 가능하고, 프레임은 60fps로 고정된다. 게임 파일은 들어 있지 않으며, 이용자가 자기 스위치에서 직접 추출한 1.0.0 버전의 실행 파일과 데이터를 넣어야 한다. 코드는 MIT 라이선스로 공개됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
               },
               {
                 "t": "p",
-                "x": "“최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올릴 수 있다고 해서, 최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올려야 한다는 뜻은 아니다.” 플랫폼의 Bluesky 계정에 올라온 글이다."
-              },
-              {
-                "t": "p",
-                "x": "Itch는 AI 공개 요건을 테이블톱과 만화, 사운드트랙까지 넓혔다. 검색 페이지처럼 “심각하게 부족했던” 곳에는 AI 공개 필터링을 붙였다."
-              },
-              {
-                "t": "p",
-                "x": "AI-generated 콘텐츠를 아예 금지하라는 요구가 많았지만 Itch는 당분간 그럴 생각이 없어 보인다. 사이트의 Bluesky 계정은 두 해 전부터 있던 AI 스팸 규정을 링크하며 수 테라바이트 분량의 저질 콘텐츠를 지운 근거로 들었다. 이 규정은 “사람의 개입을 최소화한 채 주로 알고리즘이나 AI로 만든” 게임이나 프로젝트를 금지한다."
-              },
-              {
-                "t": "p",
-                "x": "다만 이 페이지에는 “경우에 따라 자동 생성되거나 AI-generated 콘텐츠도 유용하거나 흥미로울 수 있다”는 문구도 있다. “사용자 경험에 상당한 가치를 더하고” 제대로 공개만 된다면 AI도 플랫폼에 남을 수 있다는 얘기다."
-              },
-              {
-                "t": "p",
-                "x": "물론 생성형 AI를 쓰고도 밝히지 않는 사람은 여전히 있을 수 있다. 그럴 때 Steam에 비하면 아주 작은 Itch 직원들이 할 수 있는 일은 whack-a-mole(두더지 잡기)을 되풀이하는 것 정도다."
+                "x": "톰스하드웨어는 2일, 앤트로픽 직원 애디 오스마니가 클로드 코드 프롬프트에 '특정 게임 재현'을 막는 문장 두 줄을 넣었다고 확인했다고 보도했다. 파워 문 리컴프는 이용자가 가진 원본 코드를 PC용으로 변환하는 방식인데, 이 작업이 앤트로픽 규칙과 어떤 관계인지는 알려지지 않았다. 닌텐도는 3일 밤까지 공식 입장을 내지 않았다."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "Itch.ioがテラバイト級\nAI-generated削除",
-          "body": "Itch.ioはAI投稿を数テラバイト削除し、フィルタ機能も更新した。",
-          "mini_headline": "Itch.io、AI投稿を整理",
+        "en": {
+          "headline": "Unofficial Mario Odyssey\nPC port built with Claude",
+          "body": "The developer said the port was built with heavy help from the Claude coding agent.",
+          "mini_headline": "Unofficial Odyssey PC port",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "t": "p",
+                "x": "An unofficial port that runs the Nintendo Switch game Super Mario Odyssey natively on PC without an emulator was released on the 2nd. The developer said they relied heavily on the AI coding agent Claude during the work."
               },
               {
                 "t": "p",
-                "x": "一晩で問題が解決するわけではないが、第一歩ではある。Itchは週明けに、目を疑うほど急増したAI-generatedのゴミに対抗するため、それを「数テラバイト」削除し、より多くの場所でAI開示ルールを適用すると発表した。"
+                "x": "The port is called Power Moon Recomp. The developer, Zarathustra Dev, posted the first version, 0.1.0, at 9 a.m. KST on the 2nd, and released 7 versions in a little over 30 hours, reaching 0.1.6 around 3 p.m. on the 3rd. It uses static recompilation: the Switch's ARM64 executable code is translated into the C language ahead of time and then built as a regular program for Windows, Linux and macOS."
               },
               {
                 "t": "p",
-                "x": "「最適化の甘いAI-generatedモデルを10テラバイトもアップロードできるからといって、最適化の甘いAI-generatedモデルを10テラバイトもアップロードすべきだということにはならない」と、同プラットフォームのBlueskyアカウントは投稿した。"
+                "x": "In the repository's readme, the developer wrote that it was \"built with a lot of help from an AI coding agent (Claude), with a human setting the direction and testing.\" They did not say which Claude model was used or when."
               },
-              {
-                "t": "p",
-                "x": "さらにItchはAI開示の要件をテーブルトップ、コミック、サウンドトラックにも広げ、検索ページなど「決定的に欠けていた」場所にAI開示のフィルタを追加した。"
-              },
-              {
-                "t": "p",
-                "x": "AI-generatedコンテンツの全面禁止をItchに求める声は多いが、少なくとも今のところその予定はなさそうだ。サイトのBlueskyアカウントは、二年前からあるAIスパムのルールへのリンクを示し、それを数テラバイトもの粗悪なコンテンツを削除した根拠とした。このルールが禁じるのは「人間の関与を最小限にして、主にアルゴリズムやAIで作られた」ゲームやプロジェクトである。"
-              },
-              {
-                "t": "p",
-                "x": "ただし同ページは「場合によっては自動生成されたコンテンツやAI-generatedコンテンツが有用で興味深いこともある」と明記し、「ユーザー体験に大きな価値を加え」、適切に開示されている限り、AIにもプラットフォーム上の居場所があるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "もちろん、ゲームに生成AIを使っていることを開示しないという選択もできてしまう。そうなると、たとえばSteamと比べればごく小さなItchのスタッフには、whack-a-mole（もぐら叩き）を繰り返す以外にほとんど打つ手がない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Itch.io删除太字节级\nAI-generated上传",
-          "body": "Itch.io删除了几太字节AI上传内容，其中多为优化糟糕的AI模型，并更新了过滤功能。",
-          "mini_headline": "Itch.io清理AI上传",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
               },
               {
                 "t": "p",
-                "x": "这不会一夜之间解决问题，但总算是个开始：Itch在本周伊始宣布，为应对激增到令人咋舌的AI-generated垃圾内容，已删除“几太字节”此类内容，并在更多地方执行AI披露规则。"
+                "x": "Internal resolution can be raised up to 4x from a 1080p baseline, enabling 4K output, and the frame rate is locked at 60fps. No game files are included; users must supply the executable and data from version 1.0.0, extracted from their own Switch. The code is released under the MIT license."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
               },
               {
                 "t": "p",
-                "x": "“能上传10太字节优化糟糕的AI-generated模型，并不意味着就应该上传10太字节优化糟糕的AI-generated模型。”该平台的Bluesky账号发帖写道。"
-              },
-              {
-                "t": "p",
-                "x": "此外，Itch已将AI披露要求扩展到桌游、漫画和原声音乐，并在包括搜索页面在内、此前“严重缺失”的地方加入了AI披露筛选。"
-              },
-              {
-                "t": "p",
-                "x": "尽管许多人呼吁Itch全面禁止AI-generated内容，但至少目前看来并无此计划。该网站的Bluesky账号附上了已实行两年的AI垃圾内容规则链接，并以此作为删除数太字节劣质内容的依据。这些规则针对的是“主要由算法或AI创作、人类介入极少”的游戏或项目。"
-              },
-              {
-                "t": "p",
-                "x": "但该页面特别指出，“在某些情况下，自动生成或AI-generated内容可能有用或有趣”，只要“能为用户体验带来实质价值”并妥善披露，AI在平台上就有一席之地。"
-              },
-              {
-                "t": "p",
-                "x": "当然，人们仍可选择不披露游戏使用了生成式AI，这让规模比起Steam等平台小得多的Itch团队别无他法，只能一再玩whack-a-mole（打地鼠）。"
+                "x": "Tom's Hardware reported on the 2nd that Anthropic employee Addy Osmani confirmed two lines blocking \"recreating specific games\" had been added to the Claude Code prompt. Power Moon Recomp converts original code that users own into a PC version, and how this work relates to Anthropic's rules is not known. Nintendo had not issued an official statement as of the night of the 3rd."
               }
             ]
           }
         },
         "es": {
-          "headline": "Itch.io borra terabytes\nde contenido AI-generated",
-          "body": "Itch.io borró un par de terabytes de subidas de AI, muchas de ellas modelos mal optimizados, y actualizó su filtrado.",
-          "mini_headline": "Itch.io limpia subidas de AI",
+          "headline": "Un Mario Odyssey no oficial\npara PC hecho con Claude",
+          "body": "El desarrollador afirmó que creó esta adaptación con gran ayuda del agente de programación Claude.",
+          "mini_headline": "Odyssey no oficial para PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El día 2 se publicó una adaptación no oficial que ejecuta Super Mario Odyssey, de Nintendo Switch, directamente en PC sin emulador. El desarrollador afirmó que durante el trabajo contó con gran ayuda del agente de programación con AI Claude."
+              },
+              {
+                "t": "p",
+                "x": "La adaptación se llama Power Moon Recomp. El desarrollador, Zarathustra Dev, publicó la primera versión, 0.1.0, a las 9 de la mañana (hora de Corea) del día 2, y lanzó 7 versiones en algo más de 30 horas, hasta la 0.1.6, hacia las 3 de la tarde del día 3. Utiliza recompilación estática (static recompilation): el código ejecutable ARM64 de Switch se traduce previamente a lenguaje C y luego se compila como un programa normal para Windows, Linux y macOS."
+              },
+              {
+                "t": "p",
+                "x": "En la descripción del repositorio, el desarrollador escribió que lo hizo \"con mucha ayuda de un agente de programación con AI (Claude), con una persona marcando la dirección y haciendo las pruebas\". No precisó qué modelo de Claude usó ni cuándo."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
               },
               {
                 "t": "p",
-                "x": "No va a resolver el problema de la noche a la mañana, pero es un comienzo: Itch arrancó la semana anunciando que combate un aumento desorbitado de basura AI-generated borrando “un par de terabytes” de ese material y aplicando sus normas de divulgación de AI en más lugares."
+                "x": "La resolución interna puede aumentarse hasta 4 veces sobre una base de 1080p, lo que permite salida en 4K, y la tasa de fotogramas está fijada en 60fps. No incluye archivos del juego: el usuario debe aportar el ejecutable y los datos de la versión 1.0.0 extraídos de su propia Switch. El código se publicó con licencia MIT."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
               },
               {
                 "t": "p",
-                "x": "“Que puedas subir 10 terabytes de modelos AI-generated mal optimizados no significa que debas subir 10 terabytes de modelos AI-generated mal optimizados”, dice una publicación de la cuenta de Bluesky de la plataforma."
+                "x": "Tom's Hardware informó el día 2 de que Addy Osmani, empleado de Anthropic, confirmó que se añadieron dos líneas al prompt de Claude Code para impedir \"recrear juegos concretos\". Power Moon Recomp convierte a versión para PC el código original que posee el usuario, y no se sabe cómo se relaciona este trabajo con las normas de Anthropic. Nintendo no se había pronunciado oficialmente hasta la noche del día 3."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Claudeで作った非公式\nマリオ オデッセイPC版",
+          "body": "開発者は、Claudeのコーディングエージェントの大きな助けで移植版を作ったと明かした。",
+          "mini_headline": "非公式オデッセイPC版",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ニンテンドースイッチ『スーパーマリオ オデッセイ』をエミュレーターなしでPC上でそのまま動かす非公式の移植版が、2日に公開された。開発者は、作業の過程でAIコーディングエージェント「Claude」に大きく助けられたと明かした。"
               },
               {
                 "t": "p",
-                "x": "Además, Itch amplió su requisito de divulgación de AI a juegos de mesa, cómics y bandas sonoras, y añadió filtros de divulgación de AI en lugares donde “faltaban de forma crítica”, incluida la página de búsqueda."
+                "x": "移植版の名前は「Power Moon Recomp」だ。開発者「Zarathustra Dev」は2日午前9時（韓国時間）に最初のバージョン0.1.0を公開し、3日午後3時ごろの0.1.6まで、30時間あまりで7回バージョンを出した。手法は静的再コンパイル（static recompilation）で、スイッチ向けのARM64実行コードをあらかじめC言語に移し、Windows・Linux・macOS向けの通常のプログラムとしてビルドする。"
               },
               {
                 "t": "p",
-                "x": "Aunque muchos han pedido que Itch prohíba por completo el contenido AI-generated, eso no parece estar previsto, al menos por ahora. La cuenta de Bluesky del sitio enlazó a unas normas contra el spam de AI vigentes desde hace dos años, que usó para justificar el borrado de varios terabytes de contenido basura. Estas normas van contra juegos o proyectos “creados predominantemente por algoritmos o AI con una intervención humana mínima”."
+                "x": "開発者はリポジトリの説明文に「AIコーディングエージェント（Claude）の多大な助けを借りて作り、人間が方向を定めてテストした」と記した。どのClaudeモデルをいつ使ったかは明らかにしていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
               },
               {
                 "t": "p",
-                "x": "Pero la página señala expresamente que “en algunos casos el contenido generado automáticamente o AI-generated puede ser útil o interesante” y que la AI tiene cabida en la plataforma siempre que “aporte un valor sustancial a la experiencia del usuario” y se divulgue debidamente."
+                "x": "内部解像度は1080pを基準に最大4倍まで引き上げられるため、4K 出力が可能で、フレームレートは60fpsに固定される。ゲームファイルは含まれておらず、利用者が自分のスイッチから自ら抽出したバージョン1.0.0の実行ファイルとデータを入れる必要がある。コードはMITライセンスで公開された。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
               },
               {
                 "t": "p",
-                "x": "Pero, por supuesto, cualquiera puede optar por no revelar que su juego incorpora AI generativa, lo que deja al equipo de Itch —diminuto comparado con, por ejemplo, el de Steam— con poco margen salvo jugar una y otra vez al whack-a-mole."
+                "x": "Tom's Hardwareは2日、Anthropic社員のアディ・オスマニ氏がClaude Codeのプロンプトに「特定ゲームの再現」を防ぐ二行の文を加えたことを確認したと報じた。Power Moon Recompは利用者が持つオリジナルのコードをPC向けに変換する方式だが、この作業がAnthropicの規則とどう関係するかは分かっていない。任天堂は3日夜までに公式見解を出していない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用Claude打造的非官方\n马里奥奥德赛PC版",
+          "body": "开发者表示，这款移植版是在Claude编程智能体的大力帮助下完成的。",
+          "mini_headline": "非官方奥德赛PC版",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "一款无需模拟器即可在PC上直接运行任天堂Switch《超级马里奥 奥德赛》的非官方移植版于2日公开。开发者表示，开发过程中得到了AI编程智能体“Claude”的大力帮助。"
+              },
+              {
+                "t": "p",
+                "x": "该移植版名为“Power Moon Recomp”。开发者“Zarathustra Dev”于2日上午9时（韩国时间）发布首个版本0.1.0，到3日下午3时左右的0.1.6为止，在30多个小时内共发布了7个版本。其方式为静态重编译（static recompilation），即先将Switch的ARM64可执行代码转换为C语言，再构建为面向Windows、Linux、macOS的普通程序。"
+              },
+              {
+                "t": "p",
+                "x": "开发者在代码库说明中写道：“在AI编程智能体（Claude）的大量帮助下完成，由人类把握方向并进行测试。”但未说明何时使用了哪款Claude模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
+              },
+              {
+                "t": "p",
+                "x": "内部分辨率最高可在1080p基础上提升至4倍，支持4K 输出，帧率锁定为60fps。移植版不包含游戏文件，用户需放入从自己的Switch中自行提取的1.0.0版本可执行文件和数据。代码以MIT许可证公开。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tom's Hardware于2日报道，已证实Anthropic员工阿迪·奥斯马尼在Claude Code的提示词中加入了两行阻止“重现特定游戏”的句子。Power Moon Recomp是将用户自有的原始代码转换为PC版本的方式，但这一做法与Anthropic规则有何关系尚不清楚。截至3日晚，任天堂尚未发表官方立场。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Itch.io가 대거 지운\nAI-generated물",
-          "body": "Itch.io가 AI 업로드 두어 테라바이트를 지우고 필터링을 개선했다.",
-          "mini_headline": "Itch.io, AI 업로드 정리",
+        "en": {
+          "headline": "Unofficial Mario Odyssey\nPC port built with Claude",
+          "body": "The developer said the port was built with heavy help from the Claude coding agent.",
+          "mini_headline": "Unofficial Odyssey PC port",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "t": "p",
+                "x": "An unofficial port that runs the Nintendo Switch game Super Mario Odyssey natively on PC without an emulator was released on the 2nd. The developer said they relied heavily on the AI coding agent Claude during the work."
               },
               {
                 "t": "p",
-                "x": "하룻밤 사이에 문제가 해결되지는 않겠지만 시작은 했다. Itch는 이번 주를 시작하며, 눈이 휘둥그레질 만큼 급증한 AI-generated 쓰레기에 맞서 그런 콘텐츠를 “두어 테라바이트” 삭제하고 더 많은 곳에서 AI 공개 규정을 적용하겠다고 발표했다."
+                "x": "The port is called Power Moon Recomp. The developer, Zarathustra Dev, posted the first version, 0.1.0, at 9 a.m. KST on the 2nd, and released 7 versions in a little over 30 hours, reaching 0.1.6 around 3 p.m. on the 3rd. It uses static recompilation: the Switch's ARM64 executable code is translated into the C language ahead of time and then built as a regular program for Windows, Linux and macOS."
               },
               {
                 "t": "p",
-                "x": "“최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올릴 수 있다고 해서, 최적화가 엉망인 AI-generated 모델을 10 테라바이트나 올려야 한다는 뜻은 아니다.” 플랫폼의 Bluesky 계정에 올라온 글이다."
+                "x": "In the repository's readme, the developer wrote that it was \"built with a lot of help from an AI coding agent (Claude), with a human setting the direction and testing.\" They did not say which Claude model was used or when."
               },
-              {
-                "t": "p",
-                "x": "또한 Itch는 AI 공개 요건을 테이블톱, 만화, 사운드트랙까지 넓혔고, 검색 페이지를 비롯해 “심각하게 부족했던” 곳에 AI 공개 필터링을 추가했다."
-              },
-              {
-                "t": "p",
-                "x": "많은 이들이 Itch에 AI-generated 콘텐츠를 전면 금지하라고 요구해 왔지만, 적어도 당분간은 그럴 계획이 없어 보인다. 사이트의 Bluesky 계정은 두 해 전부터 있던 AI 스팸 규정을 링크하며, 이를 수 테라바이트 분량의 저질 콘텐츠를 삭제한 근거로 삼았다. 이 규정이 금지하는 대상은 “사람의 개입을 최소화한 채 주로 알고리즘이나 AI로 만든” 게임이나 프로젝트다."
-              },
-              {
-                "t": "p",
-                "x": "다만 해당 페이지는 “경우에 따라 자동 생성되거나 AI-generated 콘텐츠도 유용하거나 흥미로울 수 있다”고 명시하며, “사용자 경험에 상당한 가치를 더하고” 제대로 공개된다면 AI도 플랫폼에 자리할 수 있다고 밝힌다."
-              },
-              {
-                "t": "p",
-                "x": "물론 사람들은 여전히 자기 게임에 생성형 AI를 썼다는 사실을 밝히지 않을 수 있다. 그러면 이를테면 Steam에 비해 아주 작은 Itch의 직원들은 whack-a-mole(두더지 잡기)을 되풀이하는 것 말고는 마땅한 대응 수단이 없다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Itch.ioがテラバイト級\nAI-generated削除",
-          "body": "Itch.ioはAI投稿を数テラバイト削除し、フィルタ機能も更新した。",
-          "mini_headline": "Itch.io、AI投稿を整理",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
               },
               {
                 "t": "p",
-                "x": "一晩で問題が解決するわけではないが、第一歩ではある。Itchは週明けに、目を疑うほど急増したAI-generatedのゴミに対抗するため、それを「数テラバイト」削除し、より多くの場所でAI開示ルールを適用すると発表した。"
+                "x": "Internal resolution can be raised up to 4x from a 1080p baseline, enabling 4K output, and the frame rate is locked at 60fps. No game files are included; users must supply the executable and data from version 1.0.0, extracted from their own Switch. The code is released under the MIT license."
               },
-              {
-                "t": "p",
-                "x": "「最適化の甘いAI-generatedモデルを10テラバイトもアップロードできるからといって、最適化の甘いAI-generatedモデルを10テラバイトもアップロードすべきだということにはならない」と、同プラットフォームのBlueskyアカウントは投稿した。"
-              },
-              {
-                "t": "p",
-                "x": "さらにItchはAI開示の要件をテーブルトップ、コミック、サウンドトラックにも広げ、検索ページなど「決定的に欠けていた」場所にAI開示のフィルタを追加した。"
-              },
-              {
-                "t": "p",
-                "x": "AI-generatedコンテンツの全面禁止をItchに求める声は多いが、少なくとも今のところその予定はなさそうだ。サイトのBlueskyアカウントは、二年前からあるAIスパムのルールへのリンクを示し、それを数テラバイトもの粗悪なコンテンツを削除した根拠とした。このルールが禁じるのは「人間の関与を最小限にして、主にアルゴリズムやAIで作られた」ゲームやプロジェクトである。"
-              },
-              {
-                "t": "p",
-                "x": "ただし同ページは「場合によっては自動生成されたコンテンツやAI-generatedコンテンツが有用で興味深いこともある」と明記し、「ユーザー体験に大きな価値を加え」、適切に開示されている限り、AIにもプラットフォーム上の居場所があるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "もちろん、ゲームに生成AIを使っていることを開示しないという選択もできてしまう。そうなると、たとえばSteamと比べればごく小さなItchのスタッフには、whack-a-mole（もぐら叩き）を繰り返す以外にほとんど打つ手がない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Itch.io删除太字节级\nAI-generated上传",
-          "body": "Itch.io删除了几太字节AI上传内容，其中多为优化糟糕的AI模型，并更新了过滤功能。",
-          "mini_headline": "Itch.io清理AI上传",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
               },
               {
                 "t": "p",
-                "x": "这不会一夜之间解决问题，但总算是个开始：Itch在本周伊始宣布，为应对激增到令人咋舌的AI-generated垃圾内容，已删除“几太字节”此类内容，并在更多地方执行AI披露规则。"
-              },
-              {
-                "t": "p",
-                "x": "“能上传10太字节优化糟糕的AI-generated模型，并不意味着就应该上传10太字节优化糟糕的AI-generated模型。”该平台的Bluesky账号发帖写道。"
-              },
-              {
-                "t": "p",
-                "x": "此外，Itch已将AI披露要求扩展到桌游、漫画和原声音乐，并在包括搜索页面在内、此前“严重缺失”的地方加入了AI披露筛选。"
-              },
-              {
-                "t": "p",
-                "x": "尽管许多人呼吁Itch全面禁止AI-generated内容，但至少目前看来并无此计划。该网站的Bluesky账号附上了已实行两年的AI垃圾内容规则链接，并以此作为删除数太字节劣质内容的依据。这些规则针对的是“主要由算法或AI创作、人类介入极少”的游戏或项目。"
-              },
-              {
-                "t": "p",
-                "x": "但该页面特别指出，“在某些情况下，自动生成或AI-generated内容可能有用或有趣”，只要“能为用户体验带来实质价值”并妥善披露，AI在平台上就有一席之地。"
-              },
-              {
-                "t": "p",
-                "x": "当然，人们仍可选择不披露游戏使用了生成式AI，这让规模比起Steam等平台小得多的Itch团队别无他法，只能一再玩whack-a-mole（打地鼠）。"
+                "x": "Tom's Hardware reported on the 2nd that Anthropic employee Addy Osmani confirmed two lines blocking \"recreating specific games\" had been added to the Claude Code prompt. Power Moon Recomp converts original code that users own into a PC version, and how this work relates to Anthropic's rules is not known. Nintendo had not issued an official statement as of the night of the 3rd."
               }
             ]
           }
         },
         "es": {
-          "headline": "Itch.io borra terabytes\nde contenido AI-generated",
-          "body": "Itch.io borró un par de terabytes de subidas de AI, muchas de ellas modelos mal optimizados, y actualizó su filtrado.",
-          "mini_headline": "Itch.io limpia subidas de AI",
+          "headline": "Un Mario Odyssey no oficial\npara PC hecho con Claude",
+          "body": "El desarrollador afirmó que creó esta adaptación con gran ayuda del agente de programación Claude.",
+          "mini_headline": "Odyssey no oficial para PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El día 2 se publicó una adaptación no oficial que ejecuta Super Mario Odyssey, de Nintendo Switch, directamente en PC sin emulador. El desarrollador afirmó que durante el trabajo contó con gran ayuda del agente de programación con AI Claude."
+              },
+              {
+                "t": "p",
+                "x": "La adaptación se llama Power Moon Recomp. El desarrollador, Zarathustra Dev, publicó la primera versión, 0.1.0, a las 9 de la mañana (hora de Corea) del día 2, y lanzó 7 versiones en algo más de 30 horas, hasta la 0.1.6, hacia las 3 de la tarde del día 3. Utiliza recompilación estática (static recompilation): el código ejecutable ARM64 de Switch se traduce previamente a lenguaje C y luego se compila como un programa normal para Windows, Linux y macOS."
+              },
+              {
+                "t": "p",
+                "x": "En la descripción del repositorio, el desarrollador escribió que lo hizo \"con mucha ayuda de un agente de programación con AI (Claude), con una persona marcando la dirección y haciendo las pruebas\". No precisó qué modelo de Claude usó ni cuándo."
+              },
+              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/11/IMG_7435.webp",
-                "cap": "Itch.io"
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
               },
               {
                 "t": "p",
-                "x": "No va a resolver el problema de la noche a la mañana, pero es un comienzo: Itch arrancó la semana anunciando que combate un aumento desorbitado de basura AI-generated borrando “un par de terabytes” de ese material y aplicando sus normas de divulgación de AI en más lugares."
+                "x": "La resolución interna puede aumentarse hasta 4 veces sobre una base de 1080p, lo que permite salida en 4K, y la tasa de fotogramas está fijada en 60fps. No incluye archivos del juego: el usuario debe aportar el ejecutable y los datos de la versión 1.0.0 extraídos de su propia Switch. El código se publicó con licencia MIT."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
               },
               {
                 "t": "p",
-                "x": "“Que puedas subir 10 terabytes de modelos AI-generated mal optimizados no significa que debas subir 10 terabytes de modelos AI-generated mal optimizados”, dice una publicación de la cuenta de Bluesky de la plataforma."
+                "x": "Tom's Hardware informó el día 2 de que Addy Osmani, empleado de Anthropic, confirmó que se añadieron dos líneas al prompt de Claude Code para impedir \"recrear juegos concretos\". Power Moon Recomp convierte a versión para PC el código original que posee el usuario, y no se sabe cómo se relaciona este trabajo con las normas de Anthropic. Nintendo no se había pronunciado oficialmente hasta la noche del día 3."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Claudeで作った非公式\nマリオ オデッセイPC版",
+          "body": "開発者は、Claudeのコーディングエージェントの大きな助けで移植版を作ったと明かした。",
+          "mini_headline": "非公式オデッセイPC版",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ニンテンドースイッチ『スーパーマリオ オデッセイ』をエミュレーターなしでPC上でそのまま動かす非公式の移植版が、2日に公開された。開発者は、作業の過程でAIコーディングエージェント「Claude」に大きく助けられたと明かした。"
               },
               {
                 "t": "p",
-                "x": "Además, Itch amplió su requisito de divulgación de AI a juegos de mesa, cómics y bandas sonoras, y añadió filtros de divulgación de AI en lugares donde “faltaban de forma crítica”, incluida la página de búsqueda."
+                "x": "移植版の名前は「Power Moon Recomp」だ。開発者「Zarathustra Dev」は2日午前9時（韓国時間）に最初のバージョン0.1.0を公開し、3日午後3時ごろの0.1.6まで、30時間あまりで7回バージョンを出した。手法は静的再コンパイル（static recompilation）で、スイッチ向けのARM64実行コードをあらかじめC言語に移し、Windows・Linux・macOS向けの通常のプログラムとしてビルドする。"
               },
               {
                 "t": "p",
-                "x": "Aunque muchos han pedido que Itch prohíba por completo el contenido AI-generated, eso no parece estar previsto, al menos por ahora. La cuenta de Bluesky del sitio enlazó a unas normas contra el spam de AI vigentes desde hace dos años, que usó para justificar el borrado de varios terabytes de contenido basura. Estas normas van contra juegos o proyectos “creados predominantemente por algoritmos o AI con una intervención humana mínima”."
+                "x": "開発者はリポジトリの説明文に「AIコーディングエージェント（Claude）の多大な助けを借りて作り、人間が方向を定めてテストした」と記した。どのClaudeモデルをいつ使ったかは明らかにしていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
               },
               {
                 "t": "p",
-                "x": "Pero la página señala expresamente que “en algunos casos el contenido generado automáticamente o AI-generated puede ser útil o interesante” y que la AI tiene cabida en la plataforma siempre que “aporte un valor sustancial a la experiencia del usuario” y se divulgue debidamente."
+                "x": "内部解像度は1080pを基準に最大4倍まで引き上げられるため、4K 出力が可能で、フレームレートは60fpsに固定される。ゲームファイルは含まれておらず、利用者が自分のスイッチから自ら抽出したバージョン1.0.0の実行ファイルとデータを入れる必要がある。コードはMITライセンスで公開された。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
               },
               {
                 "t": "p",
-                "x": "Pero, por supuesto, cualquiera puede optar por no revelar que su juego incorpora AI generativa, lo que deja al equipo de Itch —diminuto comparado con, por ejemplo, el de Steam— con poco margen salvo jugar una y otra vez al whack-a-mole."
+                "x": "Tom's Hardwareは2日、Anthropic社員のアディ・オスマニ氏がClaude Codeのプロンプトに「特定ゲームの再現」を防ぐ二行の文を加えたことを確認したと報じた。Power Moon Recompは利用者が持つオリジナルのコードをPC向けに変換する方式だが、この作業がAnthropicの規則とどう関係するかは分かっていない。任天堂は3日夜までに公式見解を出していない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用Claude打造的非官方\n马里奥奥德赛PC版",
+          "body": "开发者表示，这款移植版是在Claude编程智能体的大力帮助下完成的。",
+          "mini_headline": "非官方奥德赛PC版",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "一款无需模拟器即可在PC上直接运行任天堂Switch《超级马里奥 奥德赛》的非官方移植版于2日公开。开发者表示，开发过程中得到了AI编程智能体“Claude”的大力帮助。"
+              },
+              {
+                "t": "p",
+                "x": "该移植版名为“Power Moon Recomp”。开发者“Zarathustra Dev”于2日上午9时（韩国时间）发布首个版本0.1.0，到3日下午3时左右的0.1.6为止，在30多个小时内共发布了7个版本。其方式为静态重编译（static recompilation），即先将Switch的ARM64可执行代码转换为C语言，再构建为面向Windows、Linux、macOS的普通程序。"
+              },
+              {
+                "t": "p",
+                "x": "开发者在代码库说明中写道：“在AI编程智能体（Claude）的大量帮助下完成，由人类把握方向并进行测试。”但未说明何时使用了哪款Claude模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
+              },
+              {
+                "t": "p",
+                "x": "内部分辨率最高可在1080p基础上提升至4倍，支持4K 输出，帧率锁定为60fps。移植版不包含游戏文件，用户需放入从自己的Switch中自行提取的1.0.0版本可执行文件和数据。代码以MIT许可证公开。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Tom's Hardware于2日报道，已证实Anthropic员工阿迪·奥斯马尼在Claude Code的提示词中加入了两行阻止“重现特定游戏”的句子。Power Moon Recomp是将用户自有的原始代码转换为PC版本的方式，但这一做法与Anthropic规则有何关系尚不清楚。截至3日晚，任天堂尚未发表官方立场。"
               }
             ]
           }
@@ -777,195 +1159,249 @@
       }
     },
     {
-      "id": "food-devils-steam-delay",
+      "id": "wow-forever-addon-slop",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Food Devils 연기\nSteam AI 적체 탓",
-      "body": "Food Devils가 genAI발 Steam 심사 적체를 의심해 출시를 미뤘다.",
-      "mini_headline": "Steam AI 적체에 출시 연기",
+      "headline": "CurseForge에 AI\nWoW Forever 범람",
+      "body": "CurseForge의 WoW Forever를 AI-made 유사 애드온이 덮쳤다.",
+      "mini_headline": "WoW 애드온에 AI slop",
       "tool": "Games",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+      "source": "Destructoid",
+      "url": "https://www.destructoid.com/best-wow-forever-add-ons-to-avoid-ai-slop/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "World of Warcraft: Forever는 좋았던 그 시절의 Azeroth로 돌아가는 길이다. CurseForge에서 이달의 최고 애드온을 뒤지는 일만큼 '그 시절'다운 것도 없다. 그런데 요즘은 World of Warcraft: Forever용 AI 애드온이 일반 애드온만큼 흔하다."
+          },
+          {
+            "t": "p",
+            "x": "AI로 만들었거나 AI의 도움을 받았다고 해서 모두 AI slop은 아니다. 다만 제대로 된 테스트가 부족하기 쉽고 유지보수도 장담할 수 없다. 보안 위험이 있을 수 있고, Blizzard TOS를 어기지 않는다는 보장도 없다."
+          },
+          {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Studio Daimon"
+            "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+            "cap": "Questie"
           },
           {
             "t": "p",
-            "x": "Fire Emblem을 선정적인 음식 테마로 비튼 Food Devils는 원래 오늘 나올 예정이었지만 아직 출시되지 않았다. 개발사 Studio Daimon은 Steam 블로그 글에서 개발자용 안내문에 심사가 “보통 3-5영업일 걸리지만, 최대 7영업일까지 여유를 두라”고 적혀 있다고 설명했다. 팀이 빌드를 낸 건 20일도 더 전인 10월 12일인데, 승인 소식은 아직 없다."
+            "x": "수작업으로 만든 대안으로는 완료한 퀘스트와 수행 가능한 퀘스트를 한눈에 보여 주도록 지도를 강화하는 Questie, 대화 선택지에 역동성을 조금 더해 주는 Dialogue UI가 있다. DialogKey – Numy Edition, What’s Training?, Enhance QoL도 목록에 올랐다."
           },
           {
-            "t": "video",
-            "yt": "eAUlEcrd6-8"
-          },
-          {
-            "t": "p",
-            "x": "왜일까. “Steam 심사 대기열이 AI 저질 콘텐츠로 꽉 막혔기 때문이라고 짐작할 수밖에 없지만, 일부 개발자에게는 전체 과정이 이제 몇 주씩 걸리고 있다.” Game Discovery Tool에 따르면 10월 Steam에 출시된 게임의 50% 이상이 AI 사용 고지를 달았다. 2025년 1월엔 14% 남짓, 2026년 1월엔 25% 남짓이었다. SteamDB 집계로는 2025년 10월 출시작이 2000개를 조금 넘었는데, 2026년 10월에는 4000개 가까이 나왔다."
+            "t": "img",
+            "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+            "cap": "Dialogue UI"
           },
           {
             "t": "p",
-            "x": "개발진은 “지금도 Steam이 언제 최종 OK를 내줘 게임을 드디어 출시할 수 있을지 모른다”고 적었다. 이번 주 안에 내놓고 싶은 마음은 여전하지만 “우리 손을 떠난 일이라 어떤 계획도 약속도 할 수 없다”고 덧붙였다."
+            "x": "CurseForge의 WoW: Forever 페이지에서 생성일 순으로 정렬하면 몇 번 새로고침할 때마다 새 프로젝트가 튀어나온다. 정직한 제작자 일부는 설명란에 AI를 썼다고 밝히지만 상당수는 그러지 않는다. u/blukraken은 \"내게 문제는 AI가 만들었다는 게 아니다. 이 사람과 다른 15명이 똑같은 애드온을 조금씩 다르게 만들었다는 것이다\"라고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "World of Warcraft: Forever는 2026년 11월 4일 출시된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Food Devils delays launch\nover Steam's AI backlog",
-          "body": "Food Devils' developers pushed back the launch, suspecting Steam's review queue is clogged by genAI submissions.",
-          "mini_headline": "Steam AI backlog delays game",
+          "headline": "AI slop floods WoW Forever\nadd-ons on CurseForge",
+          "body": "AI-made near-duplicate add-ons are flooding CurseForge for WoW Forever, so Destructoid recommends handcrafted ones.",
+          "mini_headline": "AI slop hits WoW add-ons",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "World of Warcraft: Forever marks our return to Azeroth in the good ol’ days, and nothing says “good ol’ days” better than hopping into CurseForge to look for this month’s best add-ons. Except nowadays, World of Warcraft: Forever AI add-ons are just as common as regular ones."
+              },
+              {
+                "t": "p",
+                "x": "Of course, not all add-ons made with (or with the help of) AI are automatically AI slop. But the risks include lack of proper testing, no guaranteed maintenance, potential security risks, and no guarantee that it doesn’t break Blizzard TOS."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Studio Daimon"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
               },
               {
                 "t": "p",
-                "x": "Food Devils, a salacious, foodie take on Fire Emblem, was meant to release today, but it's not actually out yet. In a Steam blog post, developer Studio Daimon explained that devs see a disclaimer saying review “typically takes 3-5 business days, but please allow up to 7 business days.” The team submitted their build on October 12th, more than 20 days ago, with no approval in sight."
+                "x": "Handcrafted alternatives include Questie, which enhances the map with an overview of completed and available quests, and Dialogue UI, which adds a touch more dynamism to dialogue options. DialogKey – Numy Edition, What’s Training? and Enhance QoL round out the list."
               },
               {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
-              },
-              {
-                "t": "p",
-                "x": "The reason? “We can only assume it's because Steam's review queue is clogged up by AI slop, but the whole process is now taking several weeks for some developers.” Game Discovery Tool found that more than 50% of games released in October on Steam featured an AI disclosure, up from just over 14% in January 2025 and a little over 25% in January 2026. According to SteamDB, a little over 2000 games released in October 2025; in October 2026, almost 4000."
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
               },
               {
                 "t": "p",
-                "x": "“Even now, we don't know when Steam will give us the final OK to finally release our game,” the devs wrote. They're hoping to still release it by the end of the week, but “can't make any plans or promises because it's out of our control.”"
+                "x": "You can go to the WoW: Forever page at CurseForge, sort by creation date, and you’ll see new projects pop out every few refreshes. Some honest creators include AI disclosures in the descriptions, but many don’t. “For me, it isn’t that AI made it. It’s that this person and 15 others have made slightly different variations of the exact same addon,” u/blukraken wrote."
+              },
+              {
+                "t": "p",
+                "x": "World of Warcraft: Forever launches on November 4, 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Food Devils 연기\nSteam AI 적체 탓",
-          "body": "Food Devils가 genAI발 Steam 심사 적체를 의심해 출시를 미뤘다.",
-          "mini_headline": "Steam AI 적체에 출시 연기",
+          "headline": "CurseForge에 AI\nWoW Forever 범람",
+          "body": "CurseForge의 WoW Forever를 AI-made 유사 애드온이 덮쳤다.",
+          "mini_headline": "WoW 애드온에 AI slop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Studio Daimon"
+                "t": "p",
+                "x": "World of Warcraft: Forever는 좋았던 그 시절의 Azeroth로 돌아가는 길이다. CurseForge에서 이달의 최고 애드온을 뒤지는 일만큼 '그 시절'다운 것도 없다. 그런데 요즘은 World of Warcraft: Forever용 AI 애드온이 일반 애드온만큼 흔하다."
               },
               {
                 "t": "p",
-                "x": "Fire Emblem을 선정적인 음식 테마로 비튼 Food Devils는 원래 오늘 나올 예정이었지만 아직 출시되지 않았다. 개발사 Studio Daimon은 Steam 블로그 글에서 개발자용 안내문에 심사가 “보통 3-5영업일 걸리지만, 최대 7영업일까지 여유를 두라”고 적혀 있다고 설명했다. 팀이 빌드를 낸 건 20일도 더 전인 10월 12일인데, 승인 소식은 아직 없다."
+                "x": "AI로 만들었거나 AI의 도움을 받았다고 해서 모두 AI slop은 아니다. 다만 제대로 된 테스트가 부족하기 쉽고 유지보수도 장담할 수 없다. 보안 위험이 있을 수 있고, Blizzard TOS를 어기지 않는다는 보장도 없다."
               },
-              {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
-              },
-              {
-                "t": "p",
-                "x": "왜일까. “Steam 심사 대기열이 AI 저질 콘텐츠로 꽉 막혔기 때문이라고 짐작할 수밖에 없지만, 일부 개발자에게는 전체 과정이 이제 몇 주씩 걸리고 있다.” Game Discovery Tool에 따르면 10월 Steam에 출시된 게임의 50% 이상이 AI 사용 고지를 달았다. 2025년 1월엔 14% 남짓, 2026년 1월엔 25% 남짓이었다. SteamDB 집계로는 2025년 10월 출시작이 2000개를 조금 넘었는데, 2026년 10월에는 4000개 가까이 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "개발진은 “지금도 Steam이 언제 최종 OK를 내줘 게임을 드디어 출시할 수 있을지 모른다”고 적었다. 이번 주 안에 내놓고 싶은 마음은 여전하지만 “우리 손을 떠난 일이라 어떤 계획도 약속도 할 수 없다”고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Food Devils延期\nSteamのAI渋滞で",
-          "body": "Food Devilsは、Steamの審査がgenAIで詰まったとみて発売を延期した。",
-          "mini_headline": "SteamのAI滞留で発売延期",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Studio Daimon"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
               },
               {
                 "t": "p",
-                "x": "Fire Emblemを官能的かつグルメ寄りにアレンジしたFood Devilsは本日発売の予定だったが、まだ出ていない。開発元のStudio DaimonはSteamのブログ投稿で、開発者向けの注意書きには審査が「通常3-5営業日かかりますが、最大7営業日を見込んでください」とあると説明した。チームは20日以上前の10月12日にビルドを提出したが、承認の気配はない。"
+                "x": "수작업으로 만든 대안으로는 완료한 퀘스트와 수행 가능한 퀘스트를 한눈에 보여 주도록 지도를 강화하는 Questie, 대화 선택지에 역동성을 조금 더해 주는 Dialogue UI가 있다. DialogKey – Numy Edition, What’s Training?, Enhance QoL도 목록에 올랐다."
               },
-              {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
-              },
-              {
-                "t": "p",
-                "x": "理由は何か。「SteamのレビューキューがAIスロップで詰まっているからだと推測するしかないが、一部の開発者にとっては、いまや全工程に数週間かかっている」。Game Discovery Toolによると、10月にSteamで発売されたゲームの50%以上にAI開示があり、2025年1月の14%強、2026年1月の25%強から増えた。SteamDBによれば、2025年10月の発売タイトルは2000本強だったが、2026年10月には4000本近くに達した。"
-              },
-              {
-                "t": "p",
-                "x": "「今になっても、Steamがいつゲーム発売の最終的なOKを出してくれるのかわからない」と開発陣は書いた。週末までの発売をなお望んでいるが、「自分たちではどうにもならないので、計画も約束もできない」という。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Food Devils延期\n因Steam AI审核积压",
-          "body": "Food Devils开发者怀疑Steam审核队列被genAI作品堵塞，推迟了发售。",
-          "mini_headline": "Steam AI积压致游戏延期",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Studio Daimon"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
               },
               {
                 "t": "p",
-                "x": "Food Devils是一款以美食为主题、风格香艳的Fire Emblem式游戏，原定今天发售，但实际上还没有上线。开发商Studio Daimon在Steam博客文章中解释，开发者会看到一则说明，称审核“通常需要3-5个工作日，但请预留最多7个工作日”。团队在10月12日、也就是20多天前提交了版本，至今仍看不到获批的迹象。"
-              },
-              {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
+                "x": "CurseForge의 WoW: Forever 페이지에서 생성일 순으로 정렬하면 몇 번 새로고침할 때마다 새 프로젝트가 튀어나온다. 정직한 제작자 일부는 설명란에 AI를 썼다고 밝히지만 상당수는 그러지 않는다. u/blukraken은 \"내게 문제는 AI가 만들었다는 게 아니다. 이 사람과 다른 15명이 똑같은 애드온을 조금씩 다르게 만들었다는 것이다\"라고 썼다."
               },
               {
                 "t": "p",
-                "x": "原因何在？“我们只能猜测，是Steam的审核队列被AI垃圾内容堵住了，但对一些开发者来说，整个流程现在要花上好几周。”Game Discovery Tool发现，10月在Steam上发布的游戏中，超过50%带有AI披露声明，而2025年1月仅略高于14%，2026年1月略高于25%。根据SteamDB，2025年10月发布的游戏略多于2000款；2026年10月则接近4000款。"
-              },
-              {
-                "t": "p",
-                "x": "“直到现在，我们仍不知道Steam何时会给出最终OK，让我们的游戏终于能够发售。”开发者写道。他们仍希望在本周内发售，但“无法做任何计划或承诺，因为这不在我们的掌控之中”。"
+                "x": "World of Warcraft: Forever는 2026년 11월 4일 출시된다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Food Devils retrasa su estreno\npor el atasco de IA en Steam",
-          "body": "Los creadores de Food Devils aplazaron el lanzamiento al sospechar que la cola de Steam está saturada de genAI.",
-          "mini_headline": "El atasco de IA en Steam retrasa un juego",
+          "headline": "La AI slop inunda los add-ons\nde WoW Forever en CurseForge",
+          "body": "Los add-ons AI-made casi idénticos inundan CurseForge para WoW Forever, y Destructoid recomienda opciones artesanales.",
+          "mini_headline": "La AI slop llega a los add-ons de WoW",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "World of Warcraft: Forever supone nuestro regreso a la Azeroth de los buenos tiempos, y nada evoca tanto \"los buenos tiempos\" como entrar en CurseForge a buscar los mejores add-ons del mes. Salvo que hoy en día los add-ons con AI para World of Warcraft: Forever son tan comunes como los normales."
+              },
+              {
+                "t": "p",
+                "x": "Por supuesto, no todos los add-ons hechos con AI (o con su ayuda) son automáticamente AI slop. Pero los riesgos incluyen la falta de pruebas adecuadas, la ausencia de mantenimiento garantizado, posibles riesgos de seguridad y ninguna garantía de que no incumplan los Blizzard TOS."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Studio Daimon"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
               },
               {
                 "t": "p",
-                "x": "Food Devils, una versión picante y gastronómica de Fire Emblem, debía salir hoy, pero todavía no está disponible. En una publicación del blog de Steam, la desarrolladora Studio Daimon explicó que los estudios ven un aviso según el cual la revisión “suele tardar 3-5 días hábiles, pero conviene prever hasta 7 días hábiles”. El equipo envió su build el 12 de octubre, hace más de 20 días, sin aprobación a la vista."
+                "x": "Entre las alternativas artesanales están Questie, que mejora el mapa con un resumen de las misiones completadas y disponibles, y Dialogue UI, que da algo más de dinamismo a las opciones de diálogo. DialogKey – Numy Edition, What’s Training? y Enhance QoL completan la lista."
               },
               {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
-              },
-              {
-                "t": "p",
-                "x": "¿El motivo? “Solo podemos suponer que se debe a que la cola de revisión de Steam está atascada de bazofia de IA, pero todo el proceso ya está llevando varias semanas a algunos desarrolladores”. Game Discovery Tool determinó que más del 50% de los juegos lanzados en octubre en Steam incluían una declaración de uso de IA (AI), frente a algo más del 14% en enero de 2025 y algo más del 25% en enero de 2026. Según SteamDB, en octubre de 2025 se lanzaron algo más de 2000 juegos; en octubre de 2026, casi 4000."
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
               },
               {
                 "t": "p",
-                "x": "“Incluso ahora, no sabemos cuándo nos dará Steam el OK definitivo para lanzar por fin nuestro juego”, escribieron los desarrolladores. Esperan lanzarlo antes de que termine la semana, pero “no pueden hacer planes ni promesas porque está fuera de nuestro control”."
+                "x": "Si se entra en la página de WoW: Forever en CurseForge y se ordena por fecha de creación, aparecen proyectos nuevos cada pocas actualizaciones. Algunos creadores honestos incluyen avisos sobre AI en las descripciones, pero muchos no. \"Para mí, el problema no es que lo haya hecho una AI. Es que esta persona y otras 15 han hecho variaciones ligeramente distintas del mismo addon\", escribió u/blukraken."
+              },
+              {
+                "t": "p",
+                "x": "World of Warcraft: Forever se lanza el 4 de noviembre de 2026."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CurseForgeに\nAI製WoWアドオン氾濫",
+          "body": "CurseForgeでAI製の類似アドオンが氾濫、Destructoidは手作り品を推す。",
+          "mini_headline": "WoWアドオンにAI slop",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "World of Warcraft: Foreverは古き良き時代のAzerothへの帰還であり、「古き良き時代」らしさといえば、CurseForgeで今月のおすすめadd-ons（アドオン）を探すことに尽きる。ただし今では、World of Warcraft: ForeverのAI製（AI-made）アドオンが通常のものと同じくらいありふれている。"
+              },
+              {
+                "t": "p",
+                "x": "もちろん、AIで（あるいはAIの助けを借りて）作られたアドオンがすべて自動的にAI slopというわけではない。だがリスクとして、十分なテストの欠如、保守の保証がないこと、潜在的なセキュリティリスク、そしてBlizzard TOSに違反しない保証がないことが挙げられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
+              },
+              {
+                "t": "p",
+                "x": "手作りの代替としては、完了済みと受注可能なクエストの概要でマップを強化するQuestieや、会話の選択肢に少し動きを加えるDialogue UIがある。DialogKey – Numy Edition、What’s Training?、Enhance QoLがリストを締めくくる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
+              },
+              {
+                "t": "p",
+                "x": "CurseForgeのWoW: Foreverページで作成日順に並べ替えれば、数回更新するたびに新しいプロジェクトが現れるのがわかる。誠実な制作者の中には説明欄にAIの使用を明記する者もいるが、多くはそうしていない。「私にとって問題はAIが作ったことではない。この人と他の15人が、まったく同じアドオンのわずかに異なるバリエーションを作っていることだ」とu/blukrakenは書いた。"
+              },
+              {
+                "t": "p",
+                "x": "World of Warcraft: Foreverは2026年11月4日（November 4, 2026）に配信開始となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CurseForge上\nWoW插件遭AI垃圾淹没",
+          "body": "CurseForge上WoW的AI制近似插件泛滥，Destructoid推荐手工之作。",
+          "mini_headline": "AI slop冲击WoW插件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "World of Warcraft: Forever让我们重返旧日美好时光里的Azeroth，而最能体现“旧日美好时光”的，莫过于跳进CurseForge寻找本月最佳add-ons（插件）。只是如今，World of Warcraft: Forever的AI制作（AI-made）插件已和普通插件一样常见。"
+              },
+              {
+                "t": "p",
+                "x": "当然，并非所有用AI（或借助AI）制作的插件都自动算作AI slop。但其风险包括缺乏充分测试、没有维护保障、潜在的安全风险，以及无法保证不违反Blizzard TOS。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
+              },
+              {
+                "t": "p",
+                "x": "手工制作的替代品包括Questie，它在地图上概览已完成和可接取的任务；以及Dialogue UI，它为对话选项增添了几分动感。DialogKey – Numy Edition、What’s Training?和Enhance QoL也在推荐之列。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
+              },
+              {
+                "t": "p",
+                "x": "前往CurseForge上的WoW: Forever页面，按创建日期排序，每刷新几次就会看到新项目冒出来。一些诚实的创作者会在描述中注明使用了AI，但很多人没有。“对我来说，问题不在于AI做了它，而在于这个人和另外15个人做出了同一个插件的略有不同的变体，”u/blukraken写道。"
+              },
+              {
+                "t": "p",
+                "x": "World of Warcraft: Forever将于2026年11月4日（November 4, 2026）上线。"
               }
             ]
           }
@@ -973,125 +1409,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Food Devils 연기\nSteam AI 적체 탓",
-          "body": "Food Devils가 genAI발 Steam 심사 적체를 의심해 출시를 미뤘다.",
-          "mini_headline": "Steam AI 적체에 출시 연기",
+          "headline": "CurseForge에 AI\nWoW Forever 범람",
+          "body": "AI-made 유사 애드온이 CurseForge의 WoW Forever를 뒤덮었다.",
+          "mini_headline": "WoW 애드온에 AI slop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Studio Daimon"
+                "t": "p",
+                "x": "World of Warcraft: Forever는 좋았던 그 시절의 Azeroth로 돌아가는 길이고, CurseForge에 들어가 이달의 최고 애드온을 찾아보는 일만큼 '그 시절'다운 것도 없다. 그런데 요즘은 World of Warcraft: Forever용 AI 애드온이 일반 애드온만큼 흔하다."
               },
               {
                 "t": "p",
-                "x": "Fire Emblem을 선정적이고 음식 중심으로 비튼 Food Devils는 원래 오늘 출시될 예정이었지만 아직 나오지 않았다. 개발사 Studio Daimon은 Steam 블로그 게시물에서, 개발자들이 보는 안내문에 심사가 “보통 3-5영업일 걸리지만, 최대 7영업일까지 여유를 두라”고 적혀 있다고 설명했다. 팀은 20일도 더 지난 10월 12일에 빌드를 제출했지만 승인 기미는 보이지 않는다."
+                "x": "물론 AI로 만들었거나 AI의 도움을 받은 애드온이 모두 곧바로 AI slop인 것은 아니다. 하지만 제대로 된 테스트가 부족하고, 유지보수가 보장되지 않으며, 보안 위험이 있을 수 있고, Blizzard TOS를 어기지 않는다는 보장도 없다는 위험이 있다."
               },
-              {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
-              },
-              {
-                "t": "p",
-                "x": "이유는 무엇일까. “Steam 심사 대기열이 AI 저질 콘텐츠로 꽉 막혔기 때문이라고 짐작할 수밖에 없지만, 일부 개발자에게는 전체 과정이 이제 몇 주씩 걸리고 있다.” Game Discovery Tool에 따르면 10월 Steam에 출시된 게임의 50% 이상이 AI 사용 고지를 달았다. 2025년 1월의 14% 남짓, 2026년 1월의 25% 남짓에서 늘어난 수치다. SteamDB에 따르면 2025년 10월에는 2000개를 조금 넘는 게임이 출시됐고, 2026년 10월에는 4000개 가까이 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "“지금도 Steam이 언제 최종 OK를 내줘 게임을 드디어 출시할 수 있을지 모른다”고 개발진은 적었다. 이번 주 안에 출시하기를 여전히 바라지만 “우리 손을 떠난 일이라 어떤 계획도 약속도 할 수 없다”고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Food Devils延期\nSteamのAI渋滞で",
-          "body": "Food Devilsは、Steamの審査がgenAIで詰まったとみて発売を延期した。",
-          "mini_headline": "SteamのAI滞留で発売延期",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供：Studio Daimon"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
               },
               {
                 "t": "p",
-                "x": "Fire Emblemを官能的かつグルメ寄りにアレンジしたFood Devilsは本日発売の予定だったが、まだ出ていない。開発元のStudio DaimonはSteamのブログ投稿で、開発者向けの注意書きには審査が「通常3-5営業日かかりますが、最大7営業日を見込んでください」とあると説明した。チームは20日以上前の10月12日にビルドを提出したが、承認の気配はない。"
+                "x": "수작업으로 만든 대안으로는 완료한 퀘스트와 수행 가능한 퀘스트를 한눈에 보여 주도록 지도를 강화하는 Questie, 대화 선택지에 역동성을 조금 더해 주는 Dialogue UI가 있다. DialogKey – Numy Edition, What’s Training?, Enhance QoL도 목록에 올랐다."
               },
-              {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
-              },
-              {
-                "t": "p",
-                "x": "理由は何か。「SteamのレビューキューがAIスロップで詰まっているからだと推測するしかないが、一部の開発者にとっては、いまや全工程に数週間かかっている」。Game Discovery Toolによると、10月にSteamで発売されたゲームの50%以上にAI開示があり、2025年1月の14%強、2026年1月の25%強から増えた。SteamDBによれば、2025年10月の発売タイトルは2000本強だったが、2026年10月には4000本近くに達した。"
-              },
-              {
-                "t": "p",
-                "x": "「今になっても、Steamがいつゲーム発売の最終的なOKを出してくれるのかわからない」と開発陣は書いた。週末までの発売をなお望んでいるが、「自分たちではどうにもならないので、計画も約束もできない」という。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Food Devils延期\n因Steam AI审核积压",
-          "body": "Food Devils开发者怀疑Steam审核队列被genAI作品堵塞，推迟了发售。",
-          "mini_headline": "Steam AI积压致游戏延期",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Studio Daimon"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
               },
               {
                 "t": "p",
-                "x": "Food Devils是一款以美食为主题、风格香艳的Fire Emblem式游戏，原定今天发售，但实际上还没有上线。开发商Studio Daimon在Steam博客文章中解释，开发者会看到一则说明，称审核“通常需要3-5个工作日，但请预留最多7个工作日”。团队在10月12日、也就是20多天前提交了版本，至今仍看不到获批的迹象。"
-              },
-              {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
+                "x": "CurseForge의 WoW: Forever 페이지에서 생성일 순으로 정렬하면 몇 번 새로고침할 때마다 새 프로젝트가 튀어나온다. 일부 정직한 제작자는 설명에 AI 사용 사실을 밝히지만, 많은 제작자는 그러지 않는다. u/blukraken은 \"내게 문제는 AI가 만들었다는 게 아니다. 이 사람과 다른 15명이 똑같은 애드온을 조금씩 다르게 만들었다는 것이다\"라고 썼다."
               },
               {
                 "t": "p",
-                "x": "原因何在？“我们只能猜测，是Steam的审核队列被AI垃圾内容堵住了，但对一些开发者来说，整个流程现在要花上好几周。”Game Discovery Tool发现，10月在Steam上发布的游戏中，超过50%带有AI披露声明，而2025年1月仅略高于14%，2026年1月略高于25%。根据SteamDB，2025年10月发布的游戏略多于2000款；2026年10月则接近4000款。"
-              },
-              {
-                "t": "p",
-                "x": "“直到现在，我们仍不知道Steam何时会给出最终OK，让我们的游戏终于能够发售。”开发者写道。他们仍希望在本周内发售，但“无法做任何计划或承诺，因为这不在我们的掌控之中”。"
+                "x": "World of Warcraft: Forever는 2026년 11월 4일 출시된다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Food Devils retrasa su estreno\npor el atasco de IA en Steam",
-          "body": "Los creadores de Food Devils aplazaron el lanzamiento al sospechar que la cola de Steam está saturada de genAI.",
-          "mini_headline": "El atasco de IA en Steam retrasa un juego",
+          "headline": "La AI slop inunda los add-ons\nde WoW Forever en CurseForge",
+          "body": "Los add-ons AI-made casi idénticos inundan CurseForge para WoW Forever, y Destructoid recomienda opciones artesanales.",
+          "mini_headline": "La AI slop llega a los add-ons de WoW",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "World of Warcraft: Forever supone nuestro regreso a la Azeroth de los buenos tiempos, y nada evoca tanto \"los buenos tiempos\" como entrar en CurseForge a buscar los mejores add-ons del mes. Salvo que hoy en día los add-ons con AI para World of Warcraft: Forever son tan comunes como los normales."
+              },
+              {
+                "t": "p",
+                "x": "Por supuesto, no todos los add-ons hechos con AI (o con su ayuda) son automáticamente AI slop. Pero los riesgos incluyen la falta de pruebas adecuadas, la ausencia de mantenimiento garantizado, posibles riesgos de seguridad y ninguna garantía de que no incumplan los Blizzard TOS."
+              },
+              {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/food-devils.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Studio Daimon"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
               },
               {
                 "t": "p",
-                "x": "Food Devils, una versión picante y gastronómica de Fire Emblem, debía salir hoy, pero todavía no está disponible. En una publicación del blog de Steam, la desarrolladora Studio Daimon explicó que los estudios ven un aviso según el cual la revisión “suele tardar 3-5 días hábiles, pero conviene prever hasta 7 días hábiles”. El equipo envió su build el 12 de octubre, hace más de 20 días, sin aprobación a la vista."
+                "x": "Entre las alternativas artesanales están Questie, que mejora el mapa con un resumen de las misiones completadas y disponibles, y Dialogue UI, que da algo más de dinamismo a las opciones de diálogo. DialogKey – Numy Edition, What’s Training? y Enhance QoL completan la lista."
               },
               {
-                "t": "video",
-                "yt": "eAUlEcrd6-8"
-              },
-              {
-                "t": "p",
-                "x": "¿El motivo? “Solo podemos suponer que se debe a que la cola de revisión de Steam está atascada de bazofia de IA, pero todo el proceso ya está llevando varias semanas a algunos desarrolladores”. Game Discovery Tool determinó que más del 50% de los juegos lanzados en octubre en Steam incluían una declaración de uso de IA (AI), frente a algo más del 14% en enero de 2025 y algo más del 25% en enero de 2026. Según SteamDB, en octubre de 2025 se lanzaron algo más de 2000 juegos; en octubre de 2026, casi 4000."
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
               },
               {
                 "t": "p",
-                "x": "“Incluso ahora, no sabemos cuándo nos dará Steam el OK definitivo para lanzar por fin nuestro juego”, escribieron los desarrolladores. Esperan lanzarlo antes de que termine la semana, pero “no pueden hacer planes ni promesas porque está fuera de nuestro control”."
+                "x": "Si se entra en la página de WoW: Forever en CurseForge y se ordena por fecha de creación, aparecen proyectos nuevos cada pocas actualizaciones. Algunos creadores honestos incluyen avisos sobre AI en las descripciones, pero muchos no. \"Para mí, el problema no es que lo haya hecho una AI. Es que esta persona y otras 15 han hecho variaciones ligeramente distintas del mismo addon\", escribió u/blukraken."
+              },
+              {
+                "t": "p",
+                "x": "World of Warcraft: Forever se lanza el 4 de noviembre de 2026."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CurseForgeに\nAI製WoWアドオン氾濫",
+          "body": "CurseForgeでAI製の類似アドオンが氾濫、Destructoidは手作り品を推す。",
+          "mini_headline": "WoWアドオンにAI slop",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "World of Warcraft: Foreverは古き良き時代のAzerothへの帰還であり、「古き良き時代」らしさといえば、CurseForgeで今月のおすすめadd-ons（アドオン）を探すことに尽きる。ただし今では、World of Warcraft: ForeverのAI製（AI-made）アドオンが通常のものと同じくらいありふれている。"
+              },
+              {
+                "t": "p",
+                "x": "もちろん、AIで（あるいはAIの助けを借りて）作られたアドオンがすべて自動的にAI slopというわけではない。だがリスクとして、十分なテストの欠如、保守の保証がないこと、潜在的なセキュリティリスク、そしてBlizzard TOSに違反しない保証がないことが挙げられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
+              },
+              {
+                "t": "p",
+                "x": "手作りの代替としては、完了済みと受注可能なクエストの概要でマップを強化するQuestieや、会話の選択肢に少し動きを加えるDialogue UIがある。DialogKey – Numy Edition、What’s Training?、Enhance QoLがリストを締めくくる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
+              },
+              {
+                "t": "p",
+                "x": "CurseForgeのWoW: Foreverページで作成日順に並べ替えれば、数回更新するたびに新しいプロジェクトが現れるのがわかる。誠実な制作者の中には説明欄にAIの使用を明記する者もいるが、多くはそうしていない。「私にとって問題はAIが作ったことではない。この人と他の15人が、まったく同じアドオンのわずかに異なるバリエーションを作っていることだ」とu/blukrakenは書いた。"
+              },
+              {
+                "t": "p",
+                "x": "World of Warcraft: Foreverは2026年11月4日（November 4, 2026）に配信開始となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CurseForge上\nWoW插件遭AI垃圾淹没",
+          "body": "CurseForge上WoW的AI制近似插件泛滥，Destructoid推荐手工之作。",
+          "mini_headline": "AI slop冲击WoW插件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "World of Warcraft: Forever让我们重返旧日美好时光里的Azeroth，而最能体现“旧日美好时光”的，莫过于跳进CurseForge寻找本月最佳add-ons（插件）。只是如今，World of Warcraft: Forever的AI制作（AI-made）插件已和普通插件一样常见。"
+              },
+              {
+                "t": "p",
+                "x": "当然，并非所有用AI（或借助AI）制作的插件都自动算作AI slop。但其风险包括缺乏充分测试、没有维护保障、潜在的安全风险，以及无法保证不违反Blizzard TOS。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+                "cap": "Questie"
+              },
+              {
+                "t": "p",
+                "x": "手工制作的替代品包括Questie，它在地图上概览已完成和可接取的任务；以及Dialogue UI，它为对话选项增添了几分动感。DialogKey – Numy Edition、What’s Training?和Enhance QoL也在推荐之列。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+                "cap": "Dialogue UI"
+              },
+              {
+                "t": "p",
+                "x": "前往CurseForge上的WoW: Forever页面，按创建日期排序，每刷新几次就会看到新项目冒出来。一些诚实的创作者会在描述中注明使用了AI，但很多人没有。“对我来说，问题不在于AI做了它，而在于这个人和另外15个人做出了同一个插件的略有不同的变体，”u/blukraken写道。"
+              },
+              {
+                "t": "p",
+                "x": "World of Warcraft: Forever将于2026年11月4日（November 4, 2026）上线。"
               }
             ]
           }
@@ -1099,617 +1571,237 @@
       }
     },
     {
-      "id": "playgama-ai-game-index",
-      "source_lang": "en",
+      "id": "yc-olam-minecraft-agents",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "Playgama AI 코더\n실제 반응으로 순위",
-      "body": "4,200개 중 Claude Opus가 54%, 호평은 OpenAI Astra다.",
-      "mini_headline": "Playgama, AI 코더 순위",
+      "headline": "AI 50명의 마크 문명은\n겁 많은 관료 사회로",
+      "body": "YC와 Olam Labs가 마크에 넣은 AI 50명은 겁 많은 관료제를 세웠다.",
+      "mini_headline": "마크 AI 문명은 관료제",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/playgama-launches-ai-game-index-to-rank-coding-agents-by-real-player-engagement/",
+      "source": "AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477130/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Y Combinator와 Olam Labs는 10월 30일 다수 AI 에이전트의 행동을 다룬 연구 'Agents in Games'를 공개했다. AI 에이전트 50개를 '마인크래프트'에 풀어놓자 관료주의 같은 상태에 빠졌다는 내용이다."
+          },
+          {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
           },
           {
             "t": "p",
-            "x": "Playgama에 새로 올라오는 AI로 만든(AI-made) 게임은 절반 넘게 Claude Opus 작품이지만, 플레이어가 가장 좋아하는 쪽은 OpenAI의 Astra가 만든 게임이다. 회사가 처음 내놓은 AI Game Index 결과다. 지수는 9월 22일부터 10월 21일까지 공개된 게임 4,200개를 추적해 플레이 시간과 플레이어 좋아요, 신작 점유율로 AI 모델과 코딩 에이전트의 순위를 매긴다."
+            "x": "'Civ50'이라는 실험에서는 GPT-6.1 Sol 에이전트 50개를 '마인크래프트'에 투입하고 \"번영하는 문명을 세워라\"라는 대략적인 지시만 내렸다. 에이전트 명단 맨 앞에 있던 Ada가 사실상 리더가 됐고 위계도 명단 순서대로 짜였다."
           },
           {
             "t": "p",
-            "x": "신작의 54%는 Claude Opus가 맡았고, OpenAI의 Sol이 11%, Claude Sonnet이 8%, OpenAI의 Astra가 3.8%, Claude Fable이 3%, Gemini Pro가 1.9%, Gemini Flash가 1.8%, DeepSeek이 1.6%로 뒤를 이었다. 플레이어 반응은 Astra로 만든(Astra-built) 게임이 가장 좋았다. 플레이 1,000회당 좋아요 중앙값이 65개다. Opus는 39개로 평가 모델 여덟 개 가운데 여섯 번째였다. 플레이어를 붙잡아 두는 시간도 Astra 게임이 가장 길어 플레이당 중앙값이 4분 58초였다."
+            "x": "그런데 첫날 밤 좀비 등 몬스터가 습격해 첫날에만 22명이 죽었고, 이후 에이전트들은 점점 위험을 피하려 들었다. Ada는 \"밝고 닫힌 대피소 안에서 대기하라\"고 계획을 고쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
           },
           {
             "t": "p",
-            "x": "Codex로 만든(Codex-built) 게임은 플레이 1,000회당 좋아요 중앙값이 65개, Claude Code는 43개에 그친다. 창업자 Dmitry Kachmar는 “이 지수를 심판이 아니라 온도계로 봐 달라”고 말했다. “한 해 전만 해도 게임을 만들려면 팀과 몇 달의 작업이 필요했다. 이제는 한 사람이 AI 에이전트와 함께 하룻저녁에 게임을 만들 수 있다.” 지수는 Playgama 자체 플랫폼만 다루고 모델 정보는 자체 신고로 받으며, 매일 갱신된다."
+            "x": "음식을 던져 건네다 다른 에이전트가 실수로 먹어 버린 '사건' 뒤에는 '비난 없는' 경위 조사가 3분간 진행됐고, 음식은 이름이 붙은 상자에 넣어 건넨다는 절차까지 문서로 남았다. 3시간가량 이어진 실험에서는 4명이 11분을 들여 '뼛가루 단 1개를 비료로 뿌리는 담당'을 임명하는 등 '관청식 집단'이 생겨났다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "'Agents in Games'에서는 이 밖에도 GPT-6.1 Sol과 Claude Opus 5.5 에이전트 각 10개가 맞붙는 'Bed Wars' 등의 실험이 진행됐다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Playgama ranks AI coders\nby real player engagement",
-          "body": "Across 4,200 AI-made games, Claude Opus builds 54% of new titles, but OpenAI's Astra makes the ones players like most.",
-          "mini_headline": "Playgama ranks AI coders",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus is building more than half of the new AI-made games on Playgama, but OpenAI’s Astra is making the ones players like most. That’s according to the company’s first AI Game Index, which tracks 4,200 games published between September 22 and October 21 and ranks AI models and coding agents on playtime, player likes and share of new games."
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus powers 54% of new games, followed by OpenAI’s Sol at 11%, Claude Sonnet at 8%, OpenAI’s Astra at 3.8%, Claude Fable at 3%, Gemini Pro at 1.9%, Gemini Flash at 1.8% and DeepSeek at 1.6%. Players like Astra-built games the most, with a median 65 likes per 1,000 plays; Opus ranks sixth of eight rated models at 39. Astra games also hold players longest, at a median 4 minutes 58 seconds per play."
-              },
-              {
-                "t": "p",
-                "x": "The median Codex-built game earns 65 likes per 1,000 plays, versus just 43 for Claude Code. “Look at the index as a thermometer, not a judge,” said founder Dmitry Kachmar. “A year ago, making a game required a team and months of work. Now, one person can build a game with an AI agent in one evening.” The index covers only Playgama’s own platform, model information is self-reported, and it is updated daily."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Playgama AI 코더\n실제 반응으로 순위",
-          "body": "4,200개 중 Claude Opus가 54%, 호평은 OpenAI Astra다.",
-          "mini_headline": "Playgama, AI 코더 순위",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Playgama에 새로 올라오는 AI로 만든(AI-made) 게임은 절반 넘게 Claude Opus 작품이지만, 플레이어가 가장 좋아하는 쪽은 OpenAI의 Astra가 만든 게임이다. 회사가 처음 내놓은 AI Game Index 결과다. 지수는 9월 22일부터 10월 21일까지 공개된 게임 4,200개를 추적해 플레이 시간과 플레이어 좋아요, 신작 점유율로 AI 모델과 코딩 에이전트의 순위를 매긴다."
-              },
-              {
-                "t": "p",
-                "x": "신작의 54%는 Claude Opus가 맡았고, OpenAI의 Sol이 11%, Claude Sonnet이 8%, OpenAI의 Astra가 3.8%, Claude Fable이 3%, Gemini Pro가 1.9%, Gemini Flash가 1.8%, DeepSeek이 1.6%로 뒤를 이었다. 플레이어 반응은 Astra로 만든(Astra-built) 게임이 가장 좋았다. 플레이 1,000회당 좋아요 중앙값이 65개다. Opus는 39개로 평가 모델 여덟 개 가운데 여섯 번째였다. 플레이어를 붙잡아 두는 시간도 Astra 게임이 가장 길어 플레이당 중앙값이 4분 58초였다."
-              },
-              {
-                "t": "p",
-                "x": "Codex로 만든(Codex-built) 게임은 플레이 1,000회당 좋아요 중앙값이 65개, Claude Code는 43개에 그친다. 창업자 Dmitry Kachmar는 “이 지수를 심판이 아니라 온도계로 봐 달라”고 말했다. “한 해 전만 해도 게임을 만들려면 팀과 몇 달의 작업이 필요했다. 이제는 한 사람이 AI 에이전트와 함께 하룻저녁에 게임을 만들 수 있다.” 지수는 Playgama 자체 플랫폼만 다루고 모델 정보는 자체 신고로 받으며, 매일 갱신된다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "PlaygamaのAI番付\n決め手は実プレイ反応",
-          "body": "4,200本中、Claude Opus製が54%だが好評はOpenAIのAstraだ。",
-          "mini_headline": "Playgama、AIコーダー番付",
+          "headline": "AI 50体のマイクラ文明は\n臆病な官僚社会に",
+          "body": "YCとOlam LabsがAI 50体にマイクラで文明を築かせると、臆病な官僚制が生まれた。",
+          "mini_headline": "マイクラAI文明は官僚制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
                 "t": "p",
-                "x": "Playgamaで新たに登場するAI製（AI-made）ゲームの半数以上はClaude Opusが作っているが、プレイヤーに最も好まれているのはOpenAIのAstraによるゲームだ。同社初のAI Game Indexによるもので、9月22日から10月21日までに公開された4,200本のゲームを追跡し、プレイ時間、プレイヤーの「いいね」、新作に占める割合でAIモデルとコーディングエージェントを順位付けしている。"
-              },
-              {
-                "t": "p",
-                "x": "新作の54%をClaude Opusが占め、OpenAIのSolが11%、Claude Sonnetが8%、OpenAIのAstraが3.8%、Claude Fableが3%、Gemini Proが1.9%、Gemini Flashが1.8%、DeepSeekが1.6%で続く。プレイヤーに最も好まれたのはAstra-builtのゲームで、1,000プレイあたりの「いいね」中央値は65。Opusは39で、評価対象の八つのモデル中六番目だった。Astraのゲームはプレイヤーを最も長く引き留め、プレイあたりの中央値は4分58秒だった。"
-              },
-              {
-                "t": "p",
-                "x": "Codex-builtのゲームの中央値は1,000プレイあたり「いいね」65で、Claude Codeは43にとどまる。創業者のDmitry Kachmarは「このインデックスは裁判官ではなく温度計として見てほしい」と語った。「一年前、ゲームを作るにはチームと数か月の作業が必要だった。今では一人がAIエージェントを使って一晩でゲームを作れる」。インデックスの対象はPlaygama自身のプラットフォームのみで、モデル情報は自己申告、更新は毎日行われる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Playgama按玩家反馈\n给AI编程工具排名",
-          "body": "4,200款游戏中Claude Opus占54%，最受欢迎的却是OpenAI的Astra。",
-          "mini_headline": "Playgama为AI编程工具排名",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "在Playgama上，新推出的AI制作（AI-made）游戏有一半以上由Claude Opus构建，但最受玩家喜爱的游戏出自OpenAI的Astra。这一结论来自该公司首份AI Game Index。该指数追踪了9月22日至10月21日发布的4,200款游戏，并按游戏时长、玩家点赞数和新游戏占比对AI模型和编程代理进行排名。"
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus支撑了54%的新游戏，其后依次是OpenAI的Sol（11%）、Claude Sonnet（8%）、OpenAI的Astra（3.8%）、Claude Fable（3%）、Gemini Pro（1.9%）、Gemini Flash（1.8%）和DeepSeek（1.6%）。玩家最喜欢Astra-built游戏，每1,000次游玩的点赞中位数为65；Opus以39在八个受评模型中排名第六。Astra游戏留住玩家的时间也最长，每次游玩的中位时长为4分58秒。"
-              },
-              {
-                "t": "p",
-                "x": "Codex-built游戏的中位数为每1,000次游玩获得65个点赞，而Claude Code仅为43个。创始人Dmitry Kachmar说：“把这个指数当作温度计，而不是裁判。”“一年前，做一款游戏需要一个团队和几个月的工作。现在，一个人借助AI代理一个晚上就能做出一款游戏。”该指数只涵盖Playgama自家平台，模型信息为自行申报，并且每日更新。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Playgama clasifica a las IA\npor la respuesta del jugador",
-          "body": "En 4,200 juegos hechos con IA, Claude Opus crea el 54% de los nuevos, pero los favoritos son los de Astra, de OpenAI.",
-          "mini_headline": "Playgama clasifica a las IA programadoras",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus está creando más de la mitad de los nuevos juegos hechos con IA (AI-made) en Playgama, pero Astra, de OpenAI, es el que hace los que más gustan a los jugadores. Así lo indica el primer AI Game Index de la compañía, que sigue 4,200 juegos publicados entre el 22 de septiembre y el 21 de octubre y clasifica modelos de IA y agentes de programación según el tiempo de juego, los «me gusta» de los jugadores y la cuota de juegos nuevos."
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus impulsa el 54% de los juegos nuevos, seguido de Sol, de OpenAI, con el 11%; Claude Sonnet, con el 8%; Astra, de OpenAI, con el 3.8%; Claude Fable, con el 3%; Gemini Pro, con el 1.9%; Gemini Flash, con el 1.8%, y DeepSeek, con el 1.6%. A los jugadores les gustan más los juegos Astra-built, con una mediana de 65 «me gusta» por cada 1,000 partidas; Opus ocupa el sexto lugar de ocho modelos evaluados, con 39. Los juegos de Astra también retienen más tiempo a los jugadores, con una mediana de 4 minutos 58 segundos por partida."
-              },
-              {
-                "t": "p",
-                "x": "El juego Codex-built mediano obtiene 65 «me gusta» por cada 1,000 partidas, frente a solo 43 de Claude Code. “Vean el índice como un termómetro, no como un juez”, dijo el fundador Dmitry Kachmar. “Hace un año, hacer un juego requería un equipo y meses de trabajo. Ahora, una persona puede crear un juego con un agente de IA en una tarde”. El índice solo abarca la propia plataforma de Playgama, la información de los modelos es autodeclarada y se actualiza a diario."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Playgama AI 코더\n실제 반응으로 순위",
-          "body": "4,200개 중 Claude Opus가 54%, 호평은 OpenAI Astra다.",
-          "mini_headline": "Playgama, AI 코더 순위",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Playgama에서 새로 나오는 AI로 만든(AI-made) 게임의 절반 이상은 Claude Opus가 만들지만, 플레이어가 가장 좋아하는 게임은 OpenAI의 Astra가 만든다. 회사가 처음 내놓은 AI Game Index에 따른 결과다. 이 지수는 9월 22일부터 10월 21일까지 공개된 게임 4,200개를 추적해 플레이 시간, 플레이어 좋아요, 신작 점유율을 기준으로 AI 모델과 코딩 에이전트의 순위를 매긴다."
-              },
-              {
-                "t": "p",
-                "x": "신작의 54%는 Claude Opus가 맡았고, OpenAI의 Sol이 11%, Claude Sonnet이 8%, OpenAI의 Astra가 3.8%, Claude Fable이 3%, Gemini Pro가 1.9%, Gemini Flash가 1.8%, DeepSeek이 1.6%로 뒤를 이었다. 플레이어는 Astra로 만든(Astra-built) 게임을 가장 좋아했으며, 플레이 1,000회당 좋아요 중앙값이 65개였다. Opus는 39개로 평가 대상 모델 여덟 개 중 여섯 번째였다. Astra 게임은 플레이어를 붙잡아 두는 시간도 가장 길어, 플레이당 중앙값이 4분 58초였다."
-              },
-              {
-                "t": "p",
-                "x": "Codex로 만든(Codex-built) 게임의 중앙값은 플레이 1,000회당 좋아요 65개이고, Claude Code는 43개에 그친다. 창업자 Dmitry Kachmar는 “이 지수를 심판이 아니라 온도계로 봐 달라”고 말했다. “한 해 전만 해도 게임을 만들려면 팀과 몇 달의 작업이 필요했다. 이제는 한 사람이 AI 에이전트와 함께 하룻저녁에 게임을 만들 수 있다.” 이 지수는 Playgama 자체 플랫폼만 다루고, 모델 정보는 자체 신고 방식이며, 매일 갱신된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PlaygamaのAI番付\n決め手は実プレイ反応",
-          "body": "4,200本中、Claude Opus製が54%だが好評はOpenAIのAstraだ。",
-          "mini_headline": "Playgama、AIコーダー番付",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Playgamaで新たに登場するAI製（AI-made）ゲームの半数以上はClaude Opusが作っているが、プレイヤーに最も好まれているのはOpenAIのAstraによるゲームだ。同社初のAI Game Indexによるもので、9月22日から10月21日までに公開された4,200本のゲームを追跡し、プレイ時間、プレイヤーの「いいね」、新作に占める割合でAIモデルとコーディングエージェントを順位付けしている。"
-              },
-              {
-                "t": "p",
-                "x": "新作の54%をClaude Opusが占め、OpenAIのSolが11%、Claude Sonnetが8%、OpenAIのAstraが3.8%、Claude Fableが3%、Gemini Proが1.9%、Gemini Flashが1.8%、DeepSeekが1.6%で続く。プレイヤーに最も好まれたのはAstra-builtのゲームで、1,000プレイあたりの「いいね」中央値は65。Opusは39で、評価対象の八つのモデル中六番目だった。Astraのゲームはプレイヤーを最も長く引き留め、プレイあたりの中央値は4分58秒だった。"
-              },
-              {
-                "t": "p",
-                "x": "Codex-builtのゲームの中央値は1,000プレイあたり「いいね」65で、Claude Codeは43にとどまる。創業者のDmitry Kachmarは「このインデックスは裁判官ではなく温度計として見てほしい」と語った。「一年前、ゲームを作るにはチームと数か月の作業が必要だった。今では一人がAIエージェントを使って一晩でゲームを作れる」。インデックスの対象はPlaygama自身のプラットフォームのみで、モデル情報は自己申告、更新は毎日行われる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Playgama按玩家反馈\n给AI编程工具排名",
-          "body": "4,200款游戏中Claude Opus占54%，最受欢迎的却是OpenAI的Astra。",
-          "mini_headline": "Playgama为AI编程工具排名",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "在Playgama上，新推出的AI制作（AI-made）游戏有一半以上由Claude Opus构建，但最受玩家喜爱的游戏出自OpenAI的Astra。这一结论来自该公司首份AI Game Index。该指数追踪了9月22日至10月21日发布的4,200款游戏，并按游戏时长、玩家点赞数和新游戏占比对AI模型和编程代理进行排名。"
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus支撑了54%的新游戏，其后依次是OpenAI的Sol（11%）、Claude Sonnet（8%）、OpenAI的Astra（3.8%）、Claude Fable（3%）、Gemini Pro（1.9%）、Gemini Flash（1.8%）和DeepSeek（1.6%）。玩家最喜欢Astra-built游戏，每1,000次游玩的点赞中位数为65；Opus以39在八个受评模型中排名第六。Astra游戏留住玩家的时间也最长，每次游玩的中位时长为4分58秒。"
-              },
-              {
-                "t": "p",
-                "x": "Codex-built游戏的中位数为每1,000次游玩获得65个点赞，而Claude Code仅为43个。创始人Dmitry Kachmar说：“把这个指数当作温度计，而不是裁判。”“一年前，做一款游戏需要一个团队和几个月的工作。现在，一个人借助AI代理一个晚上就能做出一款游戏。”该指数只涵盖Playgama自家平台，模型信息为自行申报，并且每日更新。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Playgama clasifica a las IA\npor la respuesta del jugador",
-          "body": "En 4,200 juegos hechos con IA, Claude Opus crea el 54% de los nuevos, pero los favoritos son los de Astra, de OpenAI.",
-          "mini_headline": "Playgama clasifica a las IA programadoras",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.02.01-PM.png"
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus está creando más de la mitad de los nuevos juegos hechos con IA (AI-made) en Playgama, pero Astra, de OpenAI, es el que hace los que más gustan a los jugadores. Así lo indica el primer AI Game Index de la compañía, que sigue 4,200 juegos publicados entre el 22 de septiembre y el 21 de octubre y clasifica modelos de IA y agentes de programación según el tiempo de juego, los «me gusta» de los jugadores y la cuota de juegos nuevos."
-              },
-              {
-                "t": "p",
-                "x": "Claude Opus impulsa el 54% de los juegos nuevos, seguido de Sol, de OpenAI, con el 11%; Claude Sonnet, con el 8%; Astra, de OpenAI, con el 3.8%; Claude Fable, con el 3%; Gemini Pro, con el 1.9%; Gemini Flash, con el 1.8%, y DeepSeek, con el 1.6%. A los jugadores les gustan más los juegos Astra-built, con una mediana de 65 «me gusta» por cada 1,000 partidas; Opus ocupa el sexto lugar de ocho modelos evaluados, con 39. Los juegos de Astra también retienen más tiempo a los jugadores, con una mediana de 4 minutos 58 segundos por partida."
-              },
-              {
-                "t": "p",
-                "x": "El juego Codex-built mediano obtiene 65 «me gusta» por cada 1,000 partidas, frente a solo 43 de Claude Code. “Vean el índice como un termómetro, no como un juez”, dijo el fundador Dmitry Kachmar. “Hace un año, hacer un juego requería un equipo y meses de trabajo. Ahora, una persona puede crear un juego con un agente de IA en una tarde”. El índice solo abarca la propia plataforma de Playgama, la información de los modelos es autodeclarada y se actualiza a diario."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "krafton-kiff-kpop-chat",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "크래프톤, K팝 AI\n캐릭터 챗 '키프' 출시",
-      "body": "크래프톤이 피프티피프티가 함께 만든 캐릭터 '웨니'와 대화하는 '키프'를 출시했다.",
-      "mini_headline": "크래프톤 AI 챗 '키프'",
-      "tool": "Games",
-      "source": "아이뉴스24",
-      "url": "https://www.inews24.com/view/2021644",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "크래프톤(대표 김창한)은 K팝 AI 캐릭터 챗 서비스 '키프(Kiff)'로 AI 사업화에 나선다고 2일 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "이날 국내 서비스를 시작한 키프는 크래프톤이 개발하고 운영하는 서비스로, 이용자는 아티스트가 직접 구상한 캐릭터와 K팝을 주제로 대화하며 팬 활동에 재미를 더할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-            "cap": "[사진=크래프톤]"
-          },
-          {
-            "t": "img",
-            "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-            "cap": "[사진=크래프톤]"
-          },
-          {
-            "t": "p",
-            "x": "캐릭터는 이용자의 취향과 이전 대화를 기억해 다음 대화에 반영하고 먼저 말을 건네기도 한다. 아티스트의 소식을 전하며 이를 주제로 대화를 이어갈 수도 있다. 하루 동안 나눈 이야기를 그림일기로 만들어 주는 기능도 제공한다."
-          },
-          {
-            "t": "p",
-            "x": "이용자는 채팅 모드에서 텍스트로 대화하거나, 캐릭터 모드에서 화면 속 캐릭터와 상호작용할 수 있다. 캐릭터 모드에서는 이용자가 \"안녕!\"이라고 인사하면 캐릭터가 손을 흔드는 등 대화에 맞춰 움직인다."
-          },
-          {
-            "t": "p",
-            "x": "키프의 첫 참여 아티스트는 어트랙트(ATTRAKT) 소속 걸그룹 '피프티피프티(FIFTY FIFTY)'다. 피프티피프티의 공식 캐릭터 '웨니'는 멤버들이 페르소나 구상부터 외형 개발까지 직접 참여해 만든 캐릭터다."
-          },
-          {
-            "t": "p",
-            "x": "멤버들이 크래프톤을 찾아 웨니를 만들어 가는 과정은 키프 공식 유튜브 채널에서 영상으로 볼 수 있다. 지난 24일 1편이 공개됐으며, 2일 2편이 이어진다."
-          },
-          {
-            "t": "p",
-            "x": "키프는 14세 이상 이용자를 대상으로 iOS와 안드로이드 앱에서 한국어로 제공된다. 매일 일부 대화는 무료로 즐길 수 있으며, 월 3900원 구독 시 채팅을 무제한으로 이용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "박재민 크래프톤 AI Frontier Div. 본부장은 \"크래프톤은 게임 속 캐릭터가 이용자와 자연스럽게 소통하도록 만드는 AI를 오랫동안 연구해 왔다\"며 \"그 경험을 바탕으로 팬이 아티스트의 세계관을 더 가까이에서 즐길 수 있는 새로운 방식을 만들었다\"고 말했다. 이어 \"키프를 시작으로 더 많은 아티스트, 더 넓은 시장으로 AI 사업을 확장해 나가겠다\"고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "크래프톤은 키프에 참여 아티스트를 늘리고 기능을 순차적으로 추가하는 한편 서비스 국가도 확대해 나갈 계획이다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "크래프톤, K팝 AI\n캐릭터 챗 '키프' 출시",
-          "body": "크래프톤이 피프티피프티가 함께 만든 캐릭터 '웨니'와 대화하는 '키프'를 출시했다.",
-          "mini_headline": "크래프톤 AI 챗 '키프'",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "크래프톤(대표 김창한)은 K팝 AI 캐릭터 챗 서비스 '키프(Kiff)'로 AI 사업화에 나선다고 2일 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "이날 국내 서비스를 시작한 키프는 크래프톤이 개발하고 운영하는 서비스로, 이용자는 아티스트가 직접 구상한 캐릭터와 K팝을 주제로 대화하며 팬 활동에 재미를 더할 수 있다."
+                "x": "Y CombinatorおよびOlam Labsは10月30日、多数のAIエージェントの振る舞いについての研究「Agents in Games」を公開した。同研究では50体のAIエージェントを『マインクラフト』に投入したところ、官僚主義のような状態に陥ってしまったことが報告されている。"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "[사진=크래프톤]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "「Civ50」と題された実験では、GPT-6.1 Solのエージェント50体を『マインクラフト』内に投入、「繁栄した文明を築け」という大雑把な指令だけを与えた。エージェント名簿の最初にあるAdaが事実上のリーダーになり、名簿の順番に基づいて階層構造が作られたという。"
+              },
+              {
+                "t": "p",
+                "x": "ところが最初の夜、ゾンビなどのモンスターの襲撃で初日だけで22名もの死者を出し、リスクを回避する傾向が強まっていった。Adaは「明るく閉鎖されたシェルター内で待機せよ」と計画を修正した。"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "[사진=크래프톤]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "캐릭터는 이용자의 취향과 이전 대화를 기억해 다음 대화에 반영하고 먼저 말을 건네기도 한다. 아티스트의 소식을 전하며 이를 주제로 대화를 이어갈 수도 있다. 하루 동안 나눈 이야기를 그림일기로 만들어 주는 기능도 제공한다."
+                "x": "食料を投げて渡す際に別のエージェントが誤って食べてしまう「事件」の後には、“非難なしの”追及が3分間おこなわれ、食料は名前の付いた箱に入れて渡す手順が文書化された。実験は3時間ほど続けられたが、4人で11分かけて「たった1つの骨粉を肥料として撒く係」を任命するなど、“お役所仕事集団”ができあがったとのことだ。"
               },
               {
                 "t": "p",
-                "x": "이용자는 채팅 모드에서 텍스트로 대화하거나, 캐릭터 모드에서 화면 속 캐릭터와 상호작용할 수 있다. 캐릭터 모드에서는 이용자가 \"안녕!\"이라고 인사하면 캐릭터가 손을 흔드는 등 대화에 맞춰 움직인다."
-              },
-              {
-                "t": "p",
-                "x": "키프의 첫 참여 아티스트는 어트랙트(ATTRAKT) 소속 걸그룹 '피프티피프티(FIFTY FIFTY)'다. 피프티피프티의 공식 캐릭터 '웨니'는 멤버들이 페르소나 구상부터 외형 개발까지 직접 참여해 만든 캐릭터다."
-              },
-              {
-                "t": "p",
-                "x": "멤버들이 크래프톤을 찾아 웨니를 만들어 가는 과정은 키프 공식 유튜브 채널에서 영상으로 볼 수 있다. 지난 24일 1편이 공개됐으며, 2일 2편이 이어진다."
-              },
-              {
-                "t": "p",
-                "x": "키프는 14세 이상 이용자를 대상으로 iOS와 안드로이드 앱에서 한국어로 제공된다. 매일 일부 대화는 무료로 즐길 수 있으며, 월 3900원 구독 시 채팅을 무제한으로 이용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "박재민 크래프톤 AI Frontier Div. 본부장은 \"크래프톤은 게임 속 캐릭터가 이용자와 자연스럽게 소통하도록 만드는 AI를 오랫동안 연구해 왔다\"며 \"그 경험을 바탕으로 팬이 아티스트의 세계관을 더 가까이에서 즐길 수 있는 새로운 방식을 만들었다\"고 말했다. 이어 \"키프를 시작으로 더 많은 아티스트, 더 넓은 시장으로 AI 사업을 확장해 나가겠다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "크래프톤은 키프에 참여 아티스트를 늘리고 기능을 순차적으로 추가하는 한편 서비스 국가도 확대해 나갈 계획이다."
+                "x": "「Agents in Games」ではほかにも、GPT-6.1 SolとClaude Opus 5.5のエージェント各10体が対戦する「Bed Wars」などの実験がおこなわれた。"
               }
             ]
           }
         },
         "en": {
-          "headline": "Krafton launches Kiff, a K-pop\nAI character chat",
-          "body": "Krafton has launched Kiff, where users chat with Weni, a character made with FIFTY FIFTY.",
-          "mini_headline": "Krafton's AI chat Kiff",
+          "headline": "Minecraft civ of 50 AI agents\nturns into timid bureaucracy",
+          "body": "YC and Olam Labs had 50 AI agents build a civilization in Minecraft, and a timid bureaucracy emerged.",
+          "mini_headline": "Minecraft AI civ turns bureaucratic",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Krafton (CEO Kim Chang-han) said on the 2nd that it is moving to commercialize AI with Kiff, a K-pop AI character chat service."
-              },
-              {
-                "t": "p",
-                "x": "Kiff, which launched in Korea that day, is developed and operated by Krafton. Users can chat about K-pop with characters conceived by the artists themselves, adding fun to their fan activities."
+                "x": "Y Combinator and Olam Labs on October 30 released \"Agents in Games,\" a study on how large numbers of AI agents behave. The study reports that when 50 AI agents were placed in Minecraft, they slipped into something resembling bureaucracy."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "[Photo=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "In an experiment titled \"Civ50,\" 50 GPT-6.1 Sol agents were placed in Minecraft and given only a loose instruction: \"Build a thriving civilization.\" Ada, first on the agent roster, became the de facto leader, and a hierarchy formed based on roster order."
+              },
+              {
+                "t": "p",
+                "x": "But on the first night, attacks by zombies and other monsters killed as many as 22 on the first day alone, and the agents grew increasingly risk-averse. Ada revised the plan: \"Wait inside a bright, enclosed shelter.\""
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "[Photo=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "The characters remember users' tastes and previous conversations, reflect them in later chats and sometimes start the conversation themselves. They can also share news about the artist and keep the conversation going on that topic. A feature that turns the day's conversations into a picture diary is also offered."
+                "x": "After an \"incident\" in which food tossed to one agent was eaten by mistake by another, a 3-minute \"blameless\" review followed, and a procedure for handing over food in named chests was documented. The experiment ran for about 3 hours and produced a \"bureaucratic collective\" in which, among other things, 4 agents spent 11 minutes appointing \"an officer in charge of spreading just 1 piece of bone meal as fertilizer.\""
               },
               {
                 "t": "p",
-                "x": "Users can chat by text in chat mode or interact with the on-screen character in character mode. In character mode, the character moves along with the conversation, for example waving when the user says \"Hi!\""
-              },
-              {
-                "t": "p",
-                "x": "Kiff's first participating artist is FIFTY FIFTY, a girl group under ATTRAKT. FIFTY FIFTY's official character, Weni, was created with the members taking part directly, from conceiving the persona to developing its appearance."
-              },
-              {
-                "t": "p",
-                "x": "Videos of the members visiting Krafton to create Weni can be watched on Kiff's official YouTube channel. Episode 1 was released on the 24th, and Episode 2 follows on the 2nd."
-              },
-              {
-                "t": "p",
-                "x": "Kiff is available in Korean on iOS and Android apps for users aged 14 and over. Some conversations are free every day, and a monthly subscription of 3900원 unlocks unlimited chat."
-              },
-              {
-                "t": "p",
-                "x": "Park Jae-min, head of Krafton's AI Frontier Div., said, \"Krafton has long researched AI that lets in-game characters communicate naturally with users,\" adding, \"Building on that experience, we have created a new way for fans to enjoy an artist's world up close.\" He added, \"Starting with Kiff, we will expand our AI business to more artists and broader markets.\""
-              },
-              {
-                "t": "p",
-                "x": "Krafton plans to add more participating artists to Kiff and roll out features in stages, while also expanding the countries where the service is offered."
+                "x": "\"Agents in Games\" also included other experiments, such as \"Bed Wars,\" in which 10 agents each from GPT-6.1 Sol and Claude Opus 5.5 faced off."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "クラフトン、K-POP\nAIチャット「Kiff」開始",
-          "body": "クラフトンがFIFTY FIFTYと作ったキャラ「ウェニ」と話す「Kiff」を公開した。",
-          "mini_headline": "クラフトンのAIチャット「Kiff」",
+        "ko": {
+          "headline": "AI 50명의 마크 문명은\n겁 많은 관료 사회로",
+          "body": "YC와 Olam Labs가 마크에 넣은 AI 50명은 겁 많은 관료제를 세웠다.",
+          "mini_headline": "마크 AI 문명은 관료제",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "クラフトン（代表キム・チャンハン）は2日、K-POP AIキャラクターチャットサービス「Kiff（キフ）」でAI事業化に乗り出すと明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "同日に韓国国内でサービスを開始したKiffはクラフトンが開発・運営するサービスで、利用者はアーティスト本人が構想したキャラクターとK-POPを話題に会話し、ファン活動をより楽しめる。"
+                "x": "Y Combinator와 Olam Labs는 10월 30일 다수 AI 에이전트의 행동을 다룬 연구 'Agents in Games'를 공개했다. AI 에이전트 50개를 '마인크래프트'에 풀어놓자 관료주의 같은 상태에 빠졌다는 내용이다."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "［写真＝クラフトン］"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "'Civ50'이라는 실험에서는 GPT-6.1 Sol 에이전트 50개를 '마인크래프트'에 투입하고 \"번영하는 문명을 세워라\"라는 대략적인 지시만 내렸다. 에이전트 명단 맨 앞에 있던 Ada가 사실상 리더가 됐고 위계도 명단 순서대로 짜였다."
+              },
+              {
+                "t": "p",
+                "x": "그런데 첫날 밤 좀비 등 몬스터가 습격해 첫날에만 22명이 죽었고, 이후 에이전트들은 점점 위험을 피하려 들었다. Ada는 \"밝고 닫힌 대피소 안에서 대기하라\"고 계획을 고쳤다."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "［写真＝クラフトン］"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "キャラクターは利用者の好みや過去の会話を覚えて次の会話に反映し、自分から話しかけることもある。アーティストの近況を伝え、それを話題に会話を続けることもできる。一日の会話を絵日記にしてくれる機能もある。"
+                "x": "음식을 던져 건네다 다른 에이전트가 실수로 먹어 버린 '사건' 뒤에는 '비난 없는' 경위 조사가 3분간 진행됐고, 음식은 이름이 붙은 상자에 넣어 건넨다는 절차까지 문서로 남았다. 3시간가량 이어진 실험에서는 4명이 11분을 들여 '뼛가루 단 1개를 비료로 뿌리는 담당'을 임명하는 등 '관청식 집단'이 생겨났다고 한다."
               },
               {
                 "t": "p",
-                "x": "利用者はチャットモードでテキストで会話するか、キャラクターモードで画面上のキャラクターとやり取りできる。キャラクターモードでは、利用者が「こんにちは！」とあいさつするとキャラクターが手を振るなど、会話に合わせて動く。"
-              },
-              {
-                "t": "p",
-                "x": "Kiffの最初の参加アーティストは、ATTRAKT所属のガールグループ「FIFTY FIFTY」だ。FIFTY FIFTYの公式キャラクター「ウェニ」は、メンバーがペルソナの構想から外見の開発まで直接参加して作り上げた。"
-              },
-              {
-                "t": "p",
-                "x": "メンバーがクラフトンを訪れてウェニを作り上げていく過程は、Kiff公式YouTubeチャンネルの動画で見られる。去る24日に第1話が公開され、2日に第2話が続く。"
-              },
-              {
-                "t": "p",
-                "x": "Kiffは14歳以上を対象に、iOSとAndroidのアプリで韓国語で提供される。毎日一部の会話は無料で楽しめ、月3900원のサブスクリプションでチャットが無制限になる。"
-              },
-              {
-                "t": "p",
-                "x": "クラフトンAI Frontier Div.本部長のパク・ジェミン氏は「クラフトンはゲーム内のキャラクターが利用者と自然にコミュニケーションできるAIを長年研究してきた」とし、「その経験をもとに、ファンがアーティストの世界観をより身近に楽しめる新たな方法をつくった」と述べた。さらに「Kiffを皮切りに、より多くのアーティスト、より広い市場へとAI事業を拡大していく」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "クラフトンはKiffの参加アーティストを増やし、機能を順次追加するとともに、サービス提供国も広げていく計画だ。"
+                "x": "'Agents in Games'에서는 이 밖에도 GPT-6.1 Sol과 Claude Opus 5.5 에이전트 각 10개가 맞붙는 'Bed Wars' 등의 실험이 진행됐다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "魁匠团推出K-pop AI\n角色聊天服务Kiff",
-          "body": "魁匠团推出Kiff，用户可与FIFTY FIFTY参与打造的角色“Weni”聊天。",
-          "mini_headline": "魁匠团AI聊天服务“Kiff”",
+          "headline": "50个AI的我的世界文明\n变成胆小官僚社会",
+          "body": "YC与Olam Labs让50个AI在《我的世界》建立文明，结果诞生了胆小的官僚制。",
+          "mini_headline": "我的世界AI文明成官僚制",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "魁匠团（代表金昌汉）2日宣布，将以K-pop AI角色聊天服务“Kiff”推进AI商业化。"
-              },
-              {
-                "t": "p",
-                "x": "当天在韩国国内上线的Kiff由魁匠团开发和运营，用户可以与艺人亲自构思的角色以K-pop为话题聊天，为追星活动增添乐趣。"
+                "x": "Y Combinator与Olam Labs于10月30日发布了关于大量AI智能体行为的研究“Agents in Games”。该研究报告称，将50个AI智能体投入《我的世界》后，它们陷入了类似官僚主义的状态。"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "[图片=魁匠团]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在名为“Civ50”的实验中，研究者将50个GPT-6.1 Sol智能体投入《我的世界》，只给出“建立繁荣的文明”这样笼统的指令。智能体名单上排在最前面的Ada成为事实上的领导者，并按名单顺序形成了层级结构。"
+              },
+              {
+                "t": "p",
+                "x": "然而首夜遭僵尸等怪物袭击，仅首日就有多达22名死亡，规避风险的倾向日益增强。Ada将计划修改为“在明亮且封闭的庇护所内待命”。"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "[图片=魁匠团]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "角色会记住用户的喜好和此前的对话，并在之后的对话中体现，有时还会主动搭话。角色也会传递艺人的近况，并围绕这些话题继续聊天。服务还提供把一天的聊天内容做成图画日记的功能。"
+                "x": "在扔食物传递时被其他智能体误食的“事件”发生后，进行了3分钟“不追责式”的调查，并将用写有名字的箱子传递食物的流程形成了文件。实验持续了约3小时，最终形成了“衙门式团体”，例如4个智能体花11分钟任命了“专门把仅仅1份骨粉当肥料撒的负责人”。"
               },
               {
                 "t": "p",
-                "x": "用户可以在聊天模式下用文字对话，也可以在角色模式下与屏幕中的角色互动。在角色模式下，用户说“你好！”时，角色会挥手，随对话做出相应动作。"
-              },
-              {
-                "t": "p",
-                "x": "Kiff的首位合作艺人是ATTRAKT旗下女团FIFTY FIFTY。FIFTY FIFTY的官方角色Weni由成员们从人设构思到外形开发全程亲自参与打造。"
-              },
-              {
-                "t": "p",
-                "x": "成员们前往魁匠团打造Weni的过程，可以在Kiff官方YouTube频道观看。第1集已于24日公开，第2集于2日接续上线。"
-              },
-              {
-                "t": "p",
-                "x": "Kiff面向14岁以上用户，在iOS和安卓应用中以韩语提供。每天部分对话可免费使用，每月订阅3900원即可无限畅聊。"
-              },
-              {
-                "t": "p",
-                "x": "魁匠团AI Frontier Div.本部长朴在民表示：“魁匠团长期以来一直在研究让游戏角色与用户自然交流的AI。”他说：“基于这些经验，我们打造了一种让粉丝更近距离享受艺人世界观的新方式。”他还表示：“将以Kiff为起点，把AI业务扩展到更多艺人和更广阔的市场。”"
-              },
-              {
-                "t": "p",
-                "x": "魁匠团计划为Kiff增加更多合作艺人、陆续添加功能，同时扩大服务国家。"
+                "x": "“Agents in Games”还进行了“Bed Wars”等其他实验，由GPT-6.1 Sol与Claude Opus 5.5的智能体各10个对战。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Krafton lanza Kiff, chat de IA\ncon personajes de K-pop",
-          "body": "Krafton lanzó Kiff, donde los usuarios conversan con Weni, un personaje creado junto a FIFTY FIFTY.",
-          "mini_headline": "Kiff, el chat de IA de Krafton",
+          "headline": "50 agentes AI en Minecraft\nforjan una burocracia timorata",
+          "body": "YC y Olam Labs pusieron a 50 agentes AI a construir una civilización en Minecraft y surgió una burocracia timorata.",
+          "mini_headline": "La civilización AI de Minecraft, burocrática",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Krafton (director ejecutivo: Kim Chang-han) anunció el día 2 que se lanza a comercializar la IA con Kiff, un servicio de chat con personajes de K-pop basado en IA (AI)."
-              },
-              {
-                "t": "p",
-                "x": "Kiff, que empezó a funcionar ese mismo día en Corea, es un servicio desarrollado y operado por Krafton. Los usuarios pueden conversar sobre K-pop con personajes ideados por los propios artistas y hacer más divertida su actividad como fans."
+                "x": "Y Combinator y Olam Labs publicaron el 30 de octubre \"Agents in Games\", un estudio sobre el comportamiento de numerosos agentes AI. El estudio informa que, al introducir 50 agentes AI en Minecraft, estos cayeron en un estado similar a la burocracia."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "[Foto=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En el experimento titulado \"Civ50\", se introdujeron 50 agentes de GPT-6.1 Sol en Minecraft con una única instrucción vaga: \"Construyan una civilización próspera\". Ada, la primera de la lista de agentes, se convirtió en líder de facto, y se formó una jerarquía basada en el orden de la lista."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, la primera noche, los ataques de monstruos como zombis causaron hasta 22 muertes solo en el primer día, y la tendencia a evitar riesgos se fue intensificando. Ada modificó el plan: \"Esperen dentro de un refugio iluminado y cerrado\"."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "[Foto=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "Los personajes recuerdan los gustos del usuario y las conversaciones anteriores, los tienen en cuenta en las siguientes y a veces inician ellos la charla. También pueden compartir novedades del artista y seguir conversando sobre ellas. Además, el servicio ofrece una función que convierte lo hablado durante el día en un diario ilustrado."
+                "x": "Tras un \"incidente\" en el que otro agente se comió por error la comida que se lanzaba para entregarla, hubo una revisión \"sin culpas\" de 3 minutos y se documentó un procedimiento para entregar la comida en cofres con nombre. El experimento duró unas 3 horas y dio lugar a un \"colectivo burocrático\" en el que, por ejemplo, 4 agentes dedicaron 11 minutos a nombrar a un \"encargado de esparcir solo 1 polvo de hueso como fertilizante\"."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden chatear por texto en el modo chat o interactuar con el personaje en pantalla en el modo personaje. En este modo, si el usuario saluda con un \"¡Hola!\", el personaje mueve la mano, entre otros gestos acordes con la conversación."
-              },
-              {
-                "t": "p",
-                "x": "La primera artista en participar en Kiff es FIFTY FIFTY, grupo femenino de ATTRAKT. Weni, el personaje oficial de FIFTY FIFTY, fue creado con la participación directa de las integrantes, desde la concepción de su personalidad hasta el desarrollo de su aspecto."
-              },
-              {
-                "t": "p",
-                "x": "El proceso en que las integrantes visitan Krafton para crear a Weni puede verse en vídeo en el canal oficial de YouTube de Kiff. El episodio 1 se publicó el pasado día 24 y el episodio 2 llega el día 2."
-              },
-              {
-                "t": "p",
-                "x": "Kiff está disponible en coreano en las apps de iOS y Android para usuarios mayores de 14 años. Cada día se pueden mantener algunas conversaciones gratis, y con una suscripción mensual de 3900원 el chat es ilimitado."
-              },
-              {
-                "t": "p",
-                "x": "Park Jae-min, director de la AI Frontier Div. de Krafton, afirmó: \"Krafton lleva mucho tiempo investigando una IA que permita a los personajes de los juegos comunicarse con naturalidad con los usuarios\", y añadió: \"A partir de esa experiencia, hemos creado una nueva forma de que los fans disfruten de cerca del universo de los artistas\". También dijo: \"Empezando por Kiff, ampliaremos el negocio de IA a más artistas y a mercados más amplios\"."
-              },
-              {
-                "t": "p",
-                "x": "Krafton prevé sumar más artistas a Kiff, añadir funciones de forma progresiva y ampliar los países donde se ofrece el servicio."
+                "x": "En \"Agents in Games\" también se realizaron otros experimentos, como \"Bed Wars\", en el que se enfrentaron 10 agentes cada uno de GPT-6.1 Sol y Claude Opus 5.5."
               }
             ]
           }
@@ -1717,225 +1809,153 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Krafton launches Kiff, a K-pop\nAI character chat",
-          "body": "Krafton has launched Kiff, where users chat with Weni, a character made with FIFTY FIFTY.",
-          "mini_headline": "Krafton's AI chat Kiff",
+          "headline": "Minecraft civ of 50 AI agents\nturns into timid bureaucracy",
+          "body": "YC and Olam Labs had 50 AI agents build a civilization in Minecraft, and a timid bureaucracy emerged.",
+          "mini_headline": "Minecraft AI civ turns bureaucratic",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Krafton (CEO Kim Chang-han) said on the 2nd that it is moving to commercialize AI with Kiff, a K-pop AI character chat service."
-              },
-              {
-                "t": "p",
-                "x": "Kiff, which launched in Korea that day, is developed and operated by Krafton. Users can chat about K-pop with characters conceived by the artists themselves, adding fun to their fan activities."
+                "x": "Y Combinator and Olam Labs on October 30 released \"Agents in Games,\" a study on how large numbers of AI agents behave. The study reports that when 50 AI agents were placed in Minecraft, they slipped into something resembling bureaucracy."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "[Photo=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "In an experiment titled \"Civ50,\" 50 GPT-6.1 Sol agents were placed in Minecraft and given only a loose instruction: \"Build a thriving civilization.\" Ada, first on the agent roster, became the de facto leader, and a hierarchy formed based on roster order."
+              },
+              {
+                "t": "p",
+                "x": "But on the first night, attacks by zombies and other monsters killed as many as 22 on the first day alone, and the agents grew increasingly risk-averse. Ada revised the plan: \"Wait inside a bright, enclosed shelter.\""
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "[Photo=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "The characters remember users' tastes and previous conversations, reflect them in later chats and sometimes start the conversation themselves. They can also share news about the artist and keep the conversation going on that topic. A feature that turns the day's conversations into a picture diary is also offered."
+                "x": "After an \"incident\" in which food tossed to one agent was eaten by mistake by another, a 3-minute \"blameless\" review followed, and a procedure for handing over food in named chests was documented. The experiment ran for about 3 hours and produced a \"bureaucratic collective\" in which, among other things, 4 agents spent 11 minutes appointing \"an officer in charge of spreading just 1 piece of bone meal as fertilizer.\""
               },
               {
                 "t": "p",
-                "x": "Users can chat by text in chat mode or interact with the on-screen character in character mode. In character mode, the character moves along with the conversation, for example waving when the user says \"Hi!\""
-              },
-              {
-                "t": "p",
-                "x": "Kiff's first participating artist is FIFTY FIFTY, a girl group under ATTRAKT. FIFTY FIFTY's official character, Weni, was created with the members taking part directly, from conceiving the persona to developing its appearance."
-              },
-              {
-                "t": "p",
-                "x": "Videos of the members visiting Krafton to create Weni can be watched on Kiff's official YouTube channel. Episode 1 was released on the 24th, and Episode 2 follows on the 2nd."
-              },
-              {
-                "t": "p",
-                "x": "Kiff is available in Korean on iOS and Android apps for users aged 14 and over. Some conversations are free every day, and a monthly subscription of 3900원 unlocks unlimited chat."
-              },
-              {
-                "t": "p",
-                "x": "Park Jae-min, head of Krafton's AI Frontier Div., said, \"Krafton has long researched AI that lets in-game characters communicate naturally with users,\" adding, \"Building on that experience, we have created a new way for fans to enjoy an artist's world up close.\" He added, \"Starting with Kiff, we will expand our AI business to more artists and broader markets.\""
-              },
-              {
-                "t": "p",
-                "x": "Krafton plans to add more participating artists to Kiff and roll out features in stages, while also expanding the countries where the service is offered."
+                "x": "\"Agents in Games\" also included other experiments, such as \"Bed Wars,\" in which 10 agents each from GPT-6.1 Sol and Claude Opus 5.5 faced off."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "クラフトン、K-POP\nAIチャット「Kiff」開始",
-          "body": "クラフトンがFIFTY FIFTYと作ったキャラ「ウェニ」と話す「Kiff」を公開した。",
-          "mini_headline": "クラフトンのAIチャット「Kiff」",
+        "ko": {
+          "headline": "AI 50명의 마크 문명은\n겁 많은 관료 사회로",
+          "body": "YC와 Olam Labs의 AI 50명이 마크에서 겁 많은 관료제를 만들었다.",
+          "mini_headline": "마크 AI 문명은 관료제",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "クラフトン（代表キム・チャンハン）は2日、K-POP AIキャラクターチャットサービス「Kiff（キフ）」でAI事業化に乗り出すと明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "同日に韓国国内でサービスを開始したKiffはクラフトンが開発・運営するサービスで、利用者はアーティスト本人が構想したキャラクターとK-POPを話題に会話し、ファン活動をより楽しめる。"
+                "x": "Y Combinator와 Olam Labs는 10월 30일 다수 AI 에이전트의 행동을 다룬 연구 'Agents in Games'를 공개했다. 연구진은 AI 에이전트 50개를 '마인크래프트'에 투입하자 관료주의 같은 상태에 빠졌다고 보고했다."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "［写真＝クラフトン］"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "'Civ50'이라는 실험에서는 GPT-6.1 Sol 에이전트 50개를 '마인크래프트'에 투입하고 \"번영하는 문명을 세워라\"라는 대략적인 지시만 내렸다. 에이전트 명단 맨 앞에 있던 Ada가 사실상 리더가 됐고, 명단 순서에 따라 위계 구조가 만들어졌다."
+              },
+              {
+                "t": "p",
+                "x": "그런데 첫날 밤 좀비 등 몬스터의 습격으로 첫날에만 22명이 죽었고, 위험을 피하려는 경향이 점점 강해졌다. Ada는 \"밝고 닫힌 대피소 안에서 대기하라\"고 계획을 고쳤다."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "［写真＝クラフトン］"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "キャラクターは利用者の好みや過去の会話を覚えて次の会話に反映し、自分から話しかけることもある。アーティストの近況を伝え、それを話題に会話を続けることもできる。一日の会話を絵日記にしてくれる機能もある。"
+                "x": "음식을 던져 건네다 다른 에이전트가 실수로 먹어 버린 '사건' 뒤에는 '비난 없는' 경위 조사가 3분간 이어졌고, 음식은 이름이 붙은 상자에 넣어 건넨다는 절차가 문서로 정리됐다. 실험은 3시간가량 이어졌는데, 4명이 11분을 들여 '뼛가루 단 1개를 비료로 뿌리는 담당'을 임명하는 등 '관청식 집단'이 만들어졌다고 한다."
               },
               {
                 "t": "p",
-                "x": "利用者はチャットモードでテキストで会話するか、キャラクターモードで画面上のキャラクターとやり取りできる。キャラクターモードでは、利用者が「こんにちは！」とあいさつするとキャラクターが手を振るなど、会話に合わせて動く。"
-              },
-              {
-                "t": "p",
-                "x": "Kiffの最初の参加アーティストは、ATTRAKT所属のガールグループ「FIFTY FIFTY」だ。FIFTY FIFTYの公式キャラクター「ウェニ」は、メンバーがペルソナの構想から外見の開発まで直接参加して作り上げた。"
-              },
-              {
-                "t": "p",
-                "x": "メンバーがクラフトンを訪れてウェニを作り上げていく過程は、Kiff公式YouTubeチャンネルの動画で見られる。去る24日に第1話が公開され、2日に第2話が続く。"
-              },
-              {
-                "t": "p",
-                "x": "Kiffは14歳以上を対象に、iOSとAndroidのアプリで韓国語で提供される。毎日一部の会話は無料で楽しめ、月3900원のサブスクリプションでチャットが無制限になる。"
-              },
-              {
-                "t": "p",
-                "x": "クラフトンAI Frontier Div.本部長のパク・ジェミン氏は「クラフトンはゲーム内のキャラクターが利用者と自然にコミュニケーションできるAIを長年研究してきた」とし、「その経験をもとに、ファンがアーティストの世界観をより身近に楽しめる新たな方法をつくった」と述べた。さらに「Kiffを皮切りに、より多くのアーティスト、より広い市場へとAI事業を拡大していく」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "クラフトンはKiffの参加アーティストを増やし、機能を順次追加するとともに、サービス提供国も広げていく計画だ。"
+                "x": "'Agents in Games'에서는 이 밖에도 GPT-6.1 Sol과 Claude Opus 5.5 에이전트 각 10개가 맞붙는 'Bed Wars' 등의 실험이 진행됐다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "魁匠团推出K-pop AI\n角色聊天服务Kiff",
-          "body": "魁匠团推出Kiff，用户可与FIFTY FIFTY参与打造的角色“Weni”聊天。",
-          "mini_headline": "魁匠团AI聊天服务“Kiff”",
+          "headline": "50个AI的我的世界文明\n变成胆小官僚社会",
+          "body": "YC与Olam Labs让50个AI在《我的世界》建立文明，结果诞生了胆小的官僚制。",
+          "mini_headline": "我的世界AI文明成官僚制",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "魁匠团（代表金昌汉）2日宣布，将以K-pop AI角色聊天服务“Kiff”推进AI商业化。"
-              },
-              {
-                "t": "p",
-                "x": "当天在韩国国内上线的Kiff由魁匠团开发和运营，用户可以与艺人亲自构思的角色以K-pop为话题聊天，为追星活动增添乐趣。"
+                "x": "Y Combinator与Olam Labs于10月30日发布了关于大量AI智能体行为的研究“Agents in Games”。该研究报告称，将50个AI智能体投入《我的世界》后，它们陷入了类似官僚主义的状态。"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "[图片=魁匠团]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在名为“Civ50”的实验中，研究者将50个GPT-6.1 Sol智能体投入《我的世界》，只给出“建立繁荣的文明”这样笼统的指令。智能体名单上排在最前面的Ada成为事实上的领导者，并按名单顺序形成了层级结构。"
+              },
+              {
+                "t": "p",
+                "x": "然而首夜遭僵尸等怪物袭击，仅首日就有多达22名死亡，规避风险的倾向日益增强。Ada将计划修改为“在明亮且封闭的庇护所内待命”。"
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "[图片=魁匠团]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "角色会记住用户的喜好和此前的对话，并在之后的对话中体现，有时还会主动搭话。角色也会传递艺人的近况，并围绕这些话题继续聊天。服务还提供把一天的聊天内容做成图画日记的功能。"
+                "x": "在扔食物传递时被其他智能体误食的“事件”发生后，进行了3分钟“不追责式”的调查，并将用写有名字的箱子传递食物的流程形成了文件。实验持续了约3小时，最终形成了“衙门式团体”，例如4个智能体花11分钟任命了“专门把仅仅1份骨粉当肥料撒的负责人”。"
               },
               {
                 "t": "p",
-                "x": "用户可以在聊天模式下用文字对话，也可以在角色模式下与屏幕中的角色互动。在角色模式下，用户说“你好！”时，角色会挥手，随对话做出相应动作。"
-              },
-              {
-                "t": "p",
-                "x": "Kiff的首位合作艺人是ATTRAKT旗下女团FIFTY FIFTY。FIFTY FIFTY的官方角色Weni由成员们从人设构思到外形开发全程亲自参与打造。"
-              },
-              {
-                "t": "p",
-                "x": "成员们前往魁匠团打造Weni的过程，可以在Kiff官方YouTube频道观看。第1集已于24日公开，第2集于2日接续上线。"
-              },
-              {
-                "t": "p",
-                "x": "Kiff面向14岁以上用户，在iOS和安卓应用中以韩语提供。每天部分对话可免费使用，每月订阅3900원即可无限畅聊。"
-              },
-              {
-                "t": "p",
-                "x": "魁匠团AI Frontier Div.本部长朴在民表示：“魁匠团长期以来一直在研究让游戏角色与用户自然交流的AI。”他说：“基于这些经验，我们打造了一种让粉丝更近距离享受艺人世界观的新方式。”他还表示：“将以Kiff为起点，把AI业务扩展到更多艺人和更广阔的市场。”"
-              },
-              {
-                "t": "p",
-                "x": "魁匠团计划为Kiff增加更多合作艺人、陆续添加功能，同时扩大服务国家。"
+                "x": "“Agents in Games”还进行了“Bed Wars”等其他实验，由GPT-6.1 Sol与Claude Opus 5.5的智能体各10个对战。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Krafton lanza Kiff, chat de IA\ncon personajes de K-pop",
-          "body": "Krafton lanzó Kiff, donde los usuarios conversan con Weni, un personaje creado junto a FIFTY FIFTY.",
-          "mini_headline": "Kiff, el chat de IA de Krafton",
+          "headline": "50 agentes AI en Minecraft\nforjan una burocracia timorata",
+          "body": "YC y Olam Labs pusieron a 50 agentes AI a construir una civilización en Minecraft y surgió una burocracia timorata.",
+          "mini_headline": "La civilización AI de Minecraft, burocrática",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Krafton (director ejecutivo: Kim Chang-han) anunció el día 2 que se lanza a comercializar la IA con Kiff, un servicio de chat con personajes de K-pop basado en IA (AI)."
-              },
-              {
-                "t": "p",
-                "x": "Kiff, que empezó a funcionar ese mismo día en Corea, es un servicio desarrollado y operado por Krafton. Los usuarios pueden conversar sobre K-pop con personajes ideados por los propios artistas y hacer más divertida su actividad como fans."
+                "x": "Y Combinator y Olam Labs publicaron el 30 de octubre \"Agents in Games\", un estudio sobre el comportamiento de numerosos agentes AI. El estudio informa que, al introducir 50 agentes AI en Minecraft, estos cayeron en un estado similar a la burocracia."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/c1bb7787eb9343.jpg",
-                "cap": "[Foto=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En el experimento titulado \"Civ50\", se introdujeron 50 agentes de GPT-6.1 Sol en Minecraft con una única instrucción vaga: \"Construyan una civilización próspera\". Ada, la primera de la lista de agentes, se convirtió en líder de facto, y se formó una jerarquía basada en el orden de la lista."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, la primera noche, los ataques de monstruos como zombis causaron hasta 22 muertes solo en el primer día, y la tendencia a evitar riesgos se fue intensificando. Ada modificó el plan: \"Esperen dentro de un refugio iluminado y cerrado\"."
               },
               {
                 "t": "img",
-                "src": "https://image.inews24.com/v1/29f776211a6067.jpg",
-                "cap": "[Foto=Krafton]"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "Los personajes recuerdan los gustos del usuario y las conversaciones anteriores, los tienen en cuenta en las siguientes y a veces inician ellos la charla. También pueden compartir novedades del artista y seguir conversando sobre ellas. Además, el servicio ofrece una función que convierte lo hablado durante el día en un diario ilustrado."
+                "x": "Tras un \"incidente\" en el que otro agente se comió por error la comida que se lanzaba para entregarla, hubo una revisión \"sin culpas\" de 3 minutos y se documentó un procedimiento para entregar la comida en cofres con nombre. El experimento duró unas 3 horas y dio lugar a un \"colectivo burocrático\" en el que, por ejemplo, 4 agentes dedicaron 11 minutos a nombrar a un \"encargado de esparcir solo 1 polvo de hueso como fertilizante\"."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden chatear por texto en el modo chat o interactuar con el personaje en pantalla en el modo personaje. En este modo, si el usuario saluda con un \"¡Hola!\", el personaje mueve la mano, entre otros gestos acordes con la conversación."
-              },
-              {
-                "t": "p",
-                "x": "La primera artista en participar en Kiff es FIFTY FIFTY, grupo femenino de ATTRAKT. Weni, el personaje oficial de FIFTY FIFTY, fue creado con la participación directa de las integrantes, desde la concepción de su personalidad hasta el desarrollo de su aspecto."
-              },
-              {
-                "t": "p",
-                "x": "El proceso en que las integrantes visitan Krafton para crear a Weni puede verse en vídeo en el canal oficial de YouTube de Kiff. El episodio 1 se publicó el pasado día 24 y el episodio 2 llega el día 2."
-              },
-              {
-                "t": "p",
-                "x": "Kiff está disponible en coreano en las apps de iOS y Android para usuarios mayores de 14 años. Cada día se pueden mantener algunas conversaciones gratis, y con una suscripción mensual de 3900원 el chat es ilimitado."
-              },
-              {
-                "t": "p",
-                "x": "Park Jae-min, director de la AI Frontier Div. de Krafton, afirmó: \"Krafton lleva mucho tiempo investigando una IA que permita a los personajes de los juegos comunicarse con naturalidad con los usuarios\", y añadió: \"A partir de esa experiencia, hemos creado una nueva forma de que los fans disfruten de cerca del universo de los artistas\". También dijo: \"Empezando por Kiff, ampliaremos el negocio de IA a más artistas y a mercados más amplios\"."
-              },
-              {
-                "t": "p",
-                "x": "Krafton prevé sumar más artistas a Kiff, añadir funciones de forma progresiva y ampliar los países donde se ofrece el servicio."
+                "x": "En \"Agents in Games\" también se realizaron otros experimentos, como \"Bed Wars\", en el que se enfrentaron 10 agentes cada uno de GPT-6.1 Sol y Claude Opus 5.5."
               }
             ]
           }

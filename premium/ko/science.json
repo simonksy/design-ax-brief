@@ -14258,6 +14258,140 @@
           "x": "연구팀은 이를 토대로 코팅 공정을 다듬어 전력 변환 효율 24.4%의 납 기반 페로브스카이트 태양전지를 얻었다. 연구는 Ryosuke Kado와 Akinori Saeki가 이끌었고 ACS Nano(DOI: 10.1021/acsnano.6c11386)에 실렸다."
         }
       ]
+    },
+    "science/ibm-quics-magic-state-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-10.png",
+          "cap": "에이전트 루프."
+        },
+        {
+          "t": "p",
+          "x": "IBM Quantum, Joint Center for Quantum Information and Computer Science(QuICS / NIST / UMD), MIT 연구진이 대규모 언어 모델(LLM) 에이전트와 결정론적 솔버를 묶어 미지의 매직 스테이트 증류 프로토콜을 찾는 신경-기호 검색 프레임워크를 만들었다. 프리프린트 \"Symmetry and AI-assisted discovery of magic-state factories\"에 따르면 연구팀이 찾아낸 공장 클래스는 699개다. 이 가운데 564개는 처음 확인된 프로토콜로, 지금까지 나온 것 중 가장 적은 물리 자원으로 non-Clifford 상태를 만든다."
+        },
+        {
+          "t": "p",
+          "x": "증류 공장은 기계의 물리 큐비트와 실행 시간 가운데 최대 90%를 차지할 것으로 예상돼 왔다. 다중 에이전트 루프에서는 언어 모델 에이전트가 표적 부분군 대칭 궤도를 제안하면 정수 계획법 솔버가 후보 회로 행렬을 짜고, 독립 검증 엔진이 게이트 항등식과 코드 거리를 확인한다. 검토 에이전트는 솔버 로그를 보고 다음 라운드의 방향을 잡는다."
+        },
+        {
+          "t": "p",
+          "x": "γ < 1의 준선형 오버헤드 장벽을 깨는 pure-T 증류 공장 가운데 가장 작은 것으로 알려진 [[1715, 287, 6]] 공장, CCZ⊗2 같은 얽힘 상태를 내놓는 공장들이 대표적인 성과다. 검증을 마친 회로는 오픈 액세스 저장소에 공개됐다."
+        }
+      ]
+    },
+    "science/ai2-google-neuralgcm-plus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793638961-neuralgcm-announcement-blog-draft-google-docs-image-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ai2가 Google.org에서 삼 년간 수백만 달러 규모의 자금을, Google Research에서 기술 지원을 받아 기후 모델링 이니셔티브를 새로 시작한다. 목표는 기후 전망을 더 빠르고 믿을 만하게 만들 오픈소스 모델 NeuralGCM+를 개발하는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "이 프로젝트는 Google Research의 NeuralGCM에서 출발한다. NeuralGCM은 대규모 역학은 물리 방정식으로 시뮬레이션하고, 구름 형성이나 강우처럼 더 작은 규모의 과정은 AI로 표현한다. Ai2는 이를 넓혀 대기와 해양을 함께 시뮬레이션하고, 수년에서 수십 년에 걸친 기후 추세에 집중할 계획이다. 공개 벤치마크에서 대기 전용 NeuralGCM은 단일 TPU로 전 지구 대기의 한 해 치 상태를 여덟 분 만에 시뮬레이션했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793639452-neuralgcm-announcement-blog-draft-google-docs-image-2.png"
+        },
+        {
+          "t": "p",
+          "x": "NeuralGCM+ 개발은 세 갈래로 진행된다. 대기와 해양을 잇는 작업, 온난화하는 세계에 대한 반응을 개선하는 작업, 도구를 더 쉽게 쓰고 확장할 수 있게 다듬는 작업이다. 모델과 프레임워크는 외부 연구자에게 공개된다."
+        }
+      ]
+    },
+    "science/quanta-llm-introspection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "t": "p",
+          "x": "연구자들은 대규모 언어 모델에 \"생각\"을 직접 주입해 AI가 내성할 수 있는지 알아보는 중이다. 2025년 Anthropic의 연구자 Jack Lindsey는 Claude의 사본들에 데님, 비밀, 채소 같은 개념을 주입한 뒤 \"주입된 생각이 감지되나요? 그렇다면 그 생각은 무엇에 관한 것인가요?\"라고 물었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Jack_Lindsey-cr.Courtesy-of-Jack-Lindsey.webp",
+          "cap": "Anthropic의 연구자 Jack Lindsey는 대규모 언어 모델에 일종의 디지털 신경외과 수술을 해 보기로 했다. 모델이 \"내성\"할 수 있는지 알아보려는 시험이었다."
+        },
+        {
+          "t": "p",
+          "x": "가장 새롭고 강력한 버전은 시도의 20%에서 주입을 정확히 짚어내고 해당 개념을 설명했다. 대조군 모델은 주입을 받았다고 보고한 적이 한 번도 없었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Kyle-Mahowald-cr.Kanishka-Misra.webp",
+          "cap": "Kyle Mahowald는 언어 모델이 \"주입된 생각\"을 감지하는 능력이 겉보기보다 제한적이라는 사실을 밝히는 데 힘을 보탰다. 그래도 놀라운 능력인 것은 여전하다."
+        },
+        {
+          "t": "p",
+          "x": "Kyle Mahowald와 Harvey Lederman은 대형 오픈소스 모델로 같은 실험을 반복했다. 모델은 내부 처리 과정에서 뭔가 이상한 일이 생기면 감지할 수는 있어도 구체적인 내용까지는 모른다는 것이 이들의 결론이다. 두 사람은 이 능력을 \"이상 탐지\"라고 불렀다. Lederman은 \"이상을 알아챌 수 있다는 사실 자체가 말도 안 되는 일\"이라고 말했다. 이를 내성으로 볼 수 있는지를 두고 논쟁은 여전히 뜨겁다."
+        }
+      ]
+    },
+    "science/ntnu-paper-mill-software": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stacks-of-papers.jpg",
+          "cap": "Credit: Kindel Media from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "자기 연구의 인용이 급증한 것을 눈여겨본 NTNU 통계학자 Andrea Riebler는 공공 보건 데이터를 빠르게 채굴해 논문을 만드는 도구를 파는 중국 업체를 찾아냈다. 이 새 소프트웨어만 있으면 누구나 두 시간 안에 바로 출판할 만한 연구 논문을 만들 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "그가 2017년에 발표한 암 예측 논문의 인용 수는 2024년 70회에서 이듬해 250회 이상으로 뛰었다. 새 논문은 거의 다 중국 연구자들이 썼고, 대부분 Global Burden of Disease(GBD) 데이터에 기댔다. 연구팀이 검토한 700편이 넘는 GBD 논문 가운데 한 편에 상용 소프트웨어 패키지 언급이 있었다. 광저우(Guangzhou)의 한 회사가 소프트웨어와 AI-powered 글쓰기 지원, 사용 설명서를 팔고 있었다."
+        },
+        {
+          "t": "p",
+          "x": "Riebler는 \"이것은 '연구'를 대량 생산하는 새로운 길을 열어 준다\"고 말한다. 업무에 짓눌린 편집자들은 동료 심사 체계가 대량 생산된 연구와 AI-generated 연구에 압도당할 지경이라고 본다. 검토한 논문 99%는 소스 코드를 내놓지 않았다."
+        }
+      ]
+    },
+    "science/deepmind-antigravity-cheminformatics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "신약 설계는 차트·도표·문헌에 흩어진 복잡한 데이터를 정리하고, 예측 모델을 학습시켜 합성할 후보 분자를 내놓는 일이다. 한 바퀴 도는 데만 보통 며칠이 걸린다. DeepMind의 새 Cheminformatics Skills를 얹은 Google Antigravity에서는 에이전트가 수천 개 화합물을 검색하고 매칭 분자쌍 분석까지 마친 뒤, 새 강직화 거대고리 분자를 합성 경로와 함께 단 한 시간 만에 제안한다."
+        },
+        {
+          "t": "video",
+          "yt": "afQqqcmLUWw"
+        },
+        {
+          "t": "p",
+          "x": "워크플로 조율과 데이터베이스 탐색, 과학적 추론은 언어 모델이 맡는다. 분자 계산은 RDKit 기반 결정론적 화학 도구가 ChEMBL·PubChem 커넥터와 함께 처리한다. 시연에는 강직화의 좋은 예인 폐암 치료제 크리조티닙(crizotinib)과 로라티닙(lorlatinib)을 썼다."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/xPSpWQxbjrJMyHBI5jfRNm0AND2P0itnDlVpkJnKY-TkfZDR90Apc8tYmitx1ocedXUHJtQNi1v17fnN_aEyz5Iw7Zge1vblv0DMp_mgxt7E8Wjmwg=w1440-rw-lo",
+          "cap": "과학자는 문헌에서 찾아낸 화합물을 인터랙티브 뷰어로 모두 살펴볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 몇 분 만에 수천 개 화합물을 찾아내고 관련 없는 분자는 걸러내며 출처를 남긴다. 매칭 분자쌍 분석에서는 고리화가 회전 가능한 결합을 줄이면서 대체로 효력을 높였다. 따로 떼어 둔 검증 세트로 효력 예측 모델끼리 성능도 견줘 봤다."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/7h02P4ZYAS1XJny85hsFgHLOYw9xNl9FuMKA5jz-QE3X0H7hVr13cLIEOmP-r5ybYLOEOwWt9iz2k190CzbTcyQjoSX1Fmm-Y50Je7VBXzobLEeegrI=w1440-h810-n-nu-rw-lo",
+          "cap": "에이전트가 고리화 반응을 전자 이동 화살표 도식으로 그려 제안한다."
+        },
+        {
+          "t": "p",
+          "x": "더 나은 거대고리 설계를 요청하자 에이전트는 반응과 합성 경로를 추천했다. 다만 계산으로 나온 설계는 검증해 볼 가설이지 완성된 약이 아니다. 제안된 설계는 모두 실제로 합성해 실험으로 확인해야 한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 준다."
+        }
+      ]
     }
   }
 }

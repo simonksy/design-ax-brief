@@ -10641,6 +10641,163 @@
           "x": "With the Figma node, you can copy a frame from Figma Design and paste it into Weave, where it stays connected to the original. If you change the original frame in Figma Design, that change is reflected in its connected Figma node in Weave."
         }
       ]
+    },
+    "design/openai-astra-hardware-device": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Today, we’re sharing advances in how OpenAI models help engineers design, simulate, and build physical products. These capabilities span mechanical and electrical engineering and end-to-end system design."
+        },
+        {
+          "t": "p",
+          "x": "We tested Astra’s state-of-the-art performance in multimodal and computer use workflows by seeing if we can create a device without any direct human edits. We used GPT‑6 to define the functional requirements and design the enclosure, printed circuit board (PCB), and software integrations needed to create a device users can use to talk to Codex."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+          "cap": "Prototype device enclosure"
+        },
+        {
+          "t": "p",
+          "x": "Astra developed the look of the device, designed the enclosure and the internal structures that hold the components, selected the electrical components and designed the PCB, and generated the firmware and software integrations needed to connect the device to Codex."
+        },
+        {
+          "t": "p",
+          "x": "Two team members designed this test device with Astra in under a week. A contract manufacturer built a small batch of prototypes in under a month. Getting the device ready for manufacturing still required several rounds of review and iteration."
+        },
+        {
+          "t": "p",
+          "x": "Since February, model usage across OpenAI’s hardware teams, measured in tokens, has grown 23-fold. On BenchCAD 2.0, a newer internal model achieved an average score of 0.875, compared with 0.594 for GPT‑6 Astra at its highest reasoning setting."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is expanding its collaboration with Chip Ganassi Racing and announcing a new research collaboration with Mazda."
+        }
+      ]
+    },
+    "design/tripo-agentic-canvas-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI has released Tripo Agentic Canvas, an artificial intelligence agent that builds and runs 3D workflows on a visual, node-based canvas. The San Francisco company designed the tool around its 3D native foundation models, turning ideas, reference images and existing assets into connected sequences that run from 3D generation through asset refinement to export."
+        },
+        {
+          "t": "p",
+          "x": "On the canvas, each node carries out a single operation, and links pass the output of one node into the next to form a workflow. Users can add texturing, retopology, Smart UV, physically based rendering (PBR) processing, segmentation and rigging as nodes and wire them together for a given project."
+        },
+        {
+          "t": "p",
+          "x": "Users can also ask the agent to generate a workflow, then examine the results, change individual nodes and revise the sequence. Finished workflows can be saved, duplicated and reused, and batch processing applies a single workflow to multiple assets."
+        },
+        {
+          "t": "p",
+          "x": "An AI 3D Lab node adds conversational tools for inspecting and refining specific assets or producing new results from upstream nodes."
+        },
+        {
+          "t": "p",
+          "x": "Tripo lists game development, 3D printing, product design and e-commerce, film, animation and visualization as target uses."
+        }
+      ]
+    },
+    "design/ncircle-nvibe-aec-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "nCircle Tech has launched nVibe, an AI-powered development platform designed specifically to help AEC professionals turn ideas into working applications without needing coding skills."
+        },
+        {
+          "t": "p",
+          "x": "Domain experts, including site managers, project engineers and VDC leads, can describe a workflow in plain language, and nVibe builds the application within a sandboxed environment designed to give IT teams control over security, permissions and deployment."
+        },
+        {
+          "t": "p",
+          "x": "According to nCircle Tech, nVibe differs from general-purpose AI coding tools through its built-in understanding of AEC terminology and workflows, such as WBS codes, CSI MasterFormat, RFIs, submittals and LoD 100–500."
+        },
+        {
+          "t": "p",
+          "x": "nVibe comes with pre-built connectors for Autodesk Forma, Autodesk Platform Services (APS), Autodesk AEC Data Model, SAP and other ERP systems, and Model Context Protocol (MCP). Integrations with Navisworks, Procore, AutoCAD and Revit are coming soon."
+        },
+        {
+          "t": "p",
+          "x": "nVibe for Revit is intended to translate plain-language instructions into native Revit plugins that appear on a team’s Revit ribbon. Once AI has been used during the application-building process, subsequent runs of the application are token-free."
+        }
+      ]
+    },
+    "design/claude-design-reference-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ask Claude for a design and you often get something that looks like a template you've seen before. So the author kept the request identical — an Instagram feed image (1080×1350) for a new “Lemonade” menu item at ONGI Coffee, a small café in Paju, Korea, as a single HTML file — and changed only how references were handed over. Tool: Claude Code, October 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+          "cap": "LV1 — request only. Clean, but it looks like a template."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+          "cap": "LV2 — two references attached. The two images got mixed at random."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+          "cap": "LV3 — references + a few lines on what to take. The brand tone came through."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+          "cap": "LV3+ — a real photo + one fix. Ready to post."
+        },
+        {
+          "t": "p",
+          "x": "Each level was run two more times (9 runs). The direction stayed the same: attaching references (LV2) changed less than adding a few lines about them (LV3)."
+        },
+        {
+          "t": "p",
+          "x": "In LV2, Claude read both images as equally important instructions. It didn't know what to take from which image, so it combined everything that stood out — or copied the menu's dark card almost as is."
+        },
+        {
+          "t": "p",
+          "x": "Takeaways: Showing a reference matters less than saying \"take only this from it.\" Write take and don't take as separate lists. Give each reference one job — two to three references with different roles work best. When something's off, fix one or two things at a time and say \"keep everything else as is.\""
+        }
+      ]
+    },
+    "design/autom8labs-aec-mcp-skills": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Guides AI agent through tasks in Revit, AutoCAD, 3ds Max and more, with “clear steps” for doing the work and checking the result."
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labs has released 22 free MCP Skills, which work alongside the company’s relevant MCP Connectors for Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D and Advance Steel. Rather than simply telling an AI agent what to do, each MCP skill guides it through the steps an experienced professional would follow."
+        },
+        {
+          "t": "p",
+          "x": "“Giving an AI agent access to a design application doesn’t automatically mean it knows the best way to work in it,” said James Gray, Autom8Labs. “The MCP Connectors give your AI agent the tools. Skills give it the method.”"
+        },
+        {
+          "t": "p",
+          "x": "The majority of skills focus on Revit and include family creation, scan-to-BIM, model health, structure, MEP, coordination, site, and document control. For Grasshopper, a computational design skill is designed to build parametric definitions the way a computational designer would, while 3ds Max skills sets up Corona or V-Ray the way a visualiser would."
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labs can also build and test custom skills for AEC firms, based around their templates, standards and sign-off checks."
+        }
+      ]
     }
   }
 }

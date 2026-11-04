@@ -9996,6 +9996,171 @@
           "x": "We know how important it is to connect the tools you already rely on, and this brings agentic workflows straight into your build pipeline."
         }
       ]
+    },
+    "games/ue6-blueprints-drop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games Japan held Unreal Fest Tokyo 2026, the official Unreal Engine conference, at TFT Hall in Ariake, Tokyo, on November 3 and 4, 2026. In the first day's keynote, Epic Games CEO Tim Sweeney announced a change to the previous transition plan: Blueprints (BP) will be removed from the next-generation engine, Unreal Engine 6, from the start. Gameplay scripting will be consolidated into Verse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/TN/002.jpg",
+          "cap": "Epic Games CEO Tim Sweeney delivering the keynote"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney cited games growing into ecosystems as a major industry trend. In UE6, all gameplay will be written in the scripting language Verse, while the engine itself will continue to be developed in C++. He said Verse is as easy to write as C# and as powerful as C++, and will be easier to work with than any previous language for AI-driven game development."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/018.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Inside Epic Games, AI has brought productivity gains of 1.5x to 4x, and the company expects at least 4x by the end of 2026 and 10x improvements in many areas by mid-2027. Developers can connect any model they like to Unreal Engine through an MCP server or a Python scripting interface."
+        },
+        {
+          "t": "p",
+          "x": "At Unreal Fest 2026 in June, Epic had said Blueprints would remain in the initial version of UE6 and be deprecated once the Verse-centered system matured. But after finding that AI is far more productive working with text-based code than with Blueprints, it decided to remove Blueprints from the UE6 development environment, which launches at the end of 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/210/G021013/20261104013/SS/020.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sweeney acknowledged the decision would not be welcomed and apologized for dropping Blueprints. An AI-powered conversion tool will be provided for migrating from UE5 to UE6. Epic Games is testing this on Fortnite, where it is moving thousands of Blueprints and the remaining C++ gameplay code to Verse."
+        }
+      ]
+    },
+    "games/power-moon-recomp-odyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An unofficial port that runs the Nintendo Switch game Super Mario Odyssey natively on PC without an emulator was released on the 2nd. The developer said they relied heavily on the AI coding agent Claude during the work."
+        },
+        {
+          "t": "p",
+          "x": "The port is called Power Moon Recomp. The developer, Zarathustra Dev, posted the first version, 0.1.0, at 9 a.m. KST on the 2nd, and released 7 versions in a little over 30 hours, reaching 0.1.6 around 3 p.m. on the 3rd. It uses static recompilation: the Switch's ARM64 executable code is translated into the C language ahead of time and then built as a regular program for Windows, Linux and macOS."
+        },
+        {
+          "t": "p",
+          "x": "In the repository's readme, the developer wrote that it was \"built with a lot of help from an AI coding agent (Claude), with a human setting the direction and testing.\" They did not say which Claude model was used or when."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173278_654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Internal resolution can be raised up to 4x from a 1080p baseline, enabling 4K output, and the frame rate is locked at 60fps. No game files are included; users must supply the executable and data from version 1.0.0, extracted from their own Switch. The code is released under the MIT license."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamey.kr/news/photo/202611/3019481_173279_5253.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware reported on the 2nd that Anthropic employee Addy Osmani confirmed two lines blocking \"recreating specific games\" had been added to the Claude Code prompt. Power Moon Recomp converts original code that users own into a PC version, and how this work relates to Anthropic's rules is not known. Nintendo had not issued an official statement as of the night of the 3rd."
+        }
+      ]
+    },
+    "games/wow-forever-addon-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "World of Warcraft: Forever marks our return to Azeroth in the good ol’ days, and nothing says “good ol’ days” better than hopping into CurseForge to look for this month’s best add-ons. Except nowadays, World of Warcraft: Forever AI add-ons are just as common as regular ones."
+        },
+        {
+          "t": "p",
+          "x": "Of course, not all add-ons made with (or with the help of) AI are automatically AI slop. But the risks include lack of proper testing, no guaranteed maintenance, potential security risks, and no guarantee that it doesn’t break Blizzard TOS."
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-questie.png?resize=1024%2C640",
+          "cap": "Questie"
+        },
+        {
+          "t": "p",
+          "x": "Handcrafted alternatives include Questie, which enhances the map with an overview of completed and available quests, and Dialogue UI, which adds a touch more dynamism to dialogue options. DialogKey – Numy Edition, What’s Training? and Enhance QoL round out the list."
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/11/wow-forever-add-on-dialogueUI.png?resize=1024%2C640",
+          "cap": "Dialogue UI"
+        },
+        {
+          "t": "p",
+          "x": "You can go to the WoW: Forever page at CurseForge, sort by creation date, and you’ll see new projects pop out every few refreshes. Some honest creators include AI disclosures in the descriptions, but many don’t. “For me, it isn’t that AI made it. It’s that this person and 15 others have made slightly different variations of the exact same addon,” u/blukraken wrote."
+        },
+        {
+          "t": "p",
+          "x": "World of Warcraft: Forever launches on November 4, 2026."
+        }
+      ]
+    },
+    "games/yc-olam-minecraft-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Y Combinator and Olam Labs on October 30 released \"Agents in Games,\" a study on how large numbers of AI agents behave. The study reports that when 50 AI agents were placed in Minecraft, they slipped into something resembling bureaucracy."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-002-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In an experiment titled \"Civ50,\" 50 GPT-6.1 Sol agents were placed in Minecraft and given only a loose instruction: \"Build a thriving civilization.\" Ada, first on the agent roster, became the de facto leader, and a hierarchy formed based on roster order."
+        },
+        {
+          "t": "p",
+          "x": "But on the first night, attacks by zombies and other monsters killed as many as 22 on the first day alone, and the agents grew increasingly risk-averse. Ada revised the plan: \"Wait inside a bright, enclosed shelter.\""
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-003-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "After an \"incident\" in which food tossed to one agent was eaten by mistake by another, a 3-minute \"blameless\" review followed, and a procedure for handing over food in named chests was documented. The experiment ran for about 3 hours and produced a \"bureaucratic collective\" in which, among other things, 4 agents spent 11 minutes appointing \"an officer in charge of spreading just 1 piece of bone meal as fertilizer.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Agents in Games\" also included other experiments, such as \"Bed Wars,\" in which 10 agents each from GPT-6.1 Sol and Claude Opus 5.5 faced off."
+        }
+      ]
+    },
+    "games/war-thunder-dlss5-gaijin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/war-thunder-dlss-5-3d-guided-neural-rendering-developer-interview/war-thunder-ogimage.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In mid-November, War Thunder’s Eagle's Shadow major update goes live, adding NVIDIA DLSS 5 with 3D-Guided Neural Rendering. For Gaijin Entertainment, any gain in realism has to preserve the markings, materials, and overall look that players recognize. The team integrated DLSS 5 into their Dagor Engine’s color pipeline, tuned it against the game’s reference look, and evaluated the results across air, ground, and naval combat."
+        },
+        {
+          "t": "p",
+          "x": "Art director Kirill Stupin says DLSS 5 delivers improved highlights and shadows and “a new level of microcontrast that we simply haven’t been able to achieve before.” The one real integration challenge: DLSS 5 works in sRGB, while Dagor Engine uses a linear HDR pipeline. “To resolve this we had to make our color management pipeline invertible,” producing a “semi-final” image for DLSS 5 and mapping its changes back to linear HDR."
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-002-on.jpg",
+          "cap": "DLSS 5 ON"
+        },
+        {
+          "t": "p",
+          "x": "The team iterated on the settings “to make sure markings, surface wear, and material properties stayed faithful to our original assets.” The most striking contrast appears in overcast, rainy conditions, where DLSS 5 brings out soft diffuse lighting, wet surfaces, and subtle material detail. Stupin’s advice to other developers: invest time in tuning it against their own art direction."
+        },
+        {
+          "t": "img",
+          "src": "https://images.nvidia.com/aem-dam/en-zz/nvidiaweb/geforce/news/hogwarts-legacy-war-thunder-dlss-5-3d-guided-neural-rendering/war-thunder-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg",
+          "cap": "DLSS 5 ON"
+        }
+      ]
     }
   }
 }

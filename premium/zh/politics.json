@@ -4702,6 +4702,146 @@
           "x": "Brave、Anthropic、Mistral、SpaceXSI和Cohere未立即回应置评请求。Perplexity首席传播官Jesse Dwyer表示：“The New York Times给律师付得太多，给记者付得太少。”"
         }
       ]
+    },
+    "politics/data-center-ballot-measures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/Fj46sqadNbyowndeSfdF6IIflC0=/0x0:1920x1080/1920x1080/2026/10/05/1791215497887.jpeg?w=1920",
+          "cap": "插图：Brendan Lynch/Axios。图片素材：Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据Axios报道，选民周二批准了数十项数据中心暂停令，并选出多名主张放缓10万亿美元AI建设的候选人，其中包括得克萨斯州。"
+        },
+        {
+          "t": "p",
+          "x": "据Ballotpedia统计，在10个州付诸投票的41项数据中心相关措施中，根据初步计票结果，约二十项旨在限制或阻止开发的提案似已通过。俄亥俄州的此类投票之争最多，阿肯色州和北达科他州等地仍有部分投票尚未进行。"
+        },
+        {
+          "t": "p",
+          "x": "得克萨斯州当选州长Gina Hinojosa在竞选中承诺，在该州于2027年年中（mid-2027）结束的立法会期内通过应对水、电力、空气和财产权影响的法律之前，维持数据中心建设暂停令。据研究公司SemiAnalysis称，2028年美国（U.S.）新增容量中有41%来自得克萨斯州。"
+        },
+        {
+          "t": "p",
+          "x": "“我们刚刚目睹的是一场AI地震，”Americans for Responsible Innovation联合创始人Brad Carson对Axios表示，“选民刚刚发出明确信息：他们希望为AI和数据中心制定规则。”"
+        },
+        {
+          "t": "p",
+          "x": "纽约州众议员、RAISE Act起草人Alex Bores对Axios表示，AI已作为美国政治中最大的议题“正式亮相”。Axios报道称，大多数政治分析人士并不认为建设会被永久叫停。"
+        }
+      ]
+    },
+    "politics/metsola-ai-lawmaking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
+          "cap": "Roberta Metsola delivers a speech during a plenary session at the European Parliament in Strasbourg, France on May 20, 2026. | Sébastien Bozon/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "European Parliament President Roberta Metsola warned MEPs Wednesday not to be overreliant on AI in decision-making, as the Parliament prepares new guidelines for lawmakers on how to use it."
+        },
+        {
+          "t": "p",
+          "x": "“Drafting an amendment with the help of AI cannot replace fundamentally the constructive debate with a colleague,” she said at an event on AI use in the Parliament. Metsola said there must be “democratic accountability” in lawmaking and argued that “where AI is used, people should know.”"
+        },
+        {
+          "t": "p",
+          "x": "Secretary-General Alessandro Chiocchetti said Parliament is building its own AI tool for sensitive work, hosted on its internal infrastructure. Parliament officials have warned of a surge in AI-written amendments, including some that reference laws that don't exist. “Our jurists took two days just to prove ChatGPT wrong,” he said."
+        },
+        {
+          "t": "p",
+          "x": "The administration will submit new guidelines on using AI to senior leaders “very soon,” Chiocchetti said: “be open about using artificial intelligence ... never put sensitive material into a public tool; and check everything before it leaves your desk because it is your name on it.”"
+        }
+      ]
+    },
+    "politics/ni-eu-ai-act-products": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/760/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png",
+          "cap": "英国政府表示，欧盟部分人工智能规则将适用于北爱尔兰"
+        },
+        {
+          "t": "p",
+          "x": "英国政府表示，欧盟部分人工智能（AI）规则将适用于北爱尔兰。不过，北爱尔兰（NI）的AI监管将主要由英国政府和斯托蒙特负责。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟规则仅适用于嵌入AI系统（AI-integrated）的实物商品。这些规则之所以适用，是因为《温莎框架》——这项脱欧协议让北爱尔兰留在欧盟商品单一市场内。"
+        },
+        {
+          "t": "p",
+          "x": "政府表示：“EU AI Act并不完全适用于NI。只有当AI系统与投放NI市场的有形实物产品紧密集成时才适用。”"
+        },
+        {
+          "t": "p",
+          "x": "内阁办公室大臣Hamish Falconer表示，将AI规则纳入《温莎框架》不会与英国其他地区形成新的监管边界。"
+        },
+        {
+          "t": "p",
+          "x": "受欧盟法律管辖的产品例子包括内置AI语音助手的智能音箱，以及需要使用制造商AI健康监测应用的智能手表。"
+        }
+      ]
+    },
+    "politics/uk-ai-400bn-google": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/w_2560%2Cc_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+        },
+        {
+          "t": "p",
+          "x": "过去两年里，英国政府一直告诉英国公众，得益于AI，国家经济可能获得4000亿英镑（5380亿美元）的提振。"
+        },
+        {
+          "t": "p",
+          "x": "AI大臣Kanishka Narayan在答复议会质询时表示，到2030年，AI应用和数据投资可能为英国经济增加550亿至1400亿英镑，使中位估计达到1200亿英镑——不到4000亿英镑这一数字的三分之一。他称，即便是这份“较新的评估”，也是“极不确定”的估计。"
+        },
+        {
+          "t": "p",
+          "x": "Narayan表示，4000亿英镑这一数字“取自一份公开的2023年报告，该报告由Google委托、Public First制作”，Public First现名PF Global。答复既未撤回4000亿英镑的数字，也未表示该数字有误。"
+        },
+        {
+          "t": "p",
+          "x": "PF Global的Jonathan Dupont表示，差距部分源于他们所认为的政府AI应用迟缓。PF Global表示，所有研究都是独立的，所有判断和假设均为其自身观点。"
+        },
+        {
+          "t": "p",
+          "x": "英国下议院科学、创新和技术委员会主席Dame Chi Onwurah对WIRED表示：“夸大技术的好处，可能会削弱推动变革的理由。”内阁办公室和Google已被请求置评。"
+        }
+      ]
+    },
+    "politics/politics-cjeu-szpunar-ai-news": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2297502877-1185x788.jpg",
+          "cap": "Samuel Boivin/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据EU最高法院的一位重要法律顾问称，AI公司可以自由使用受版权保护的数据训练模型，但在AI回答中使用新闻出版物则受到限制。这是关于AI实验室在数据使用上能走多远的讨论首次进入欧盟法院（CJEU）。"
+        },
+        {
+          "t": "p",
+          "x": "该法院总法务官Maciej Szpunar周二发表不具约束力的意见，认为根据EU法律中的文本与数据挖掘例外，使用受版权保护的作品“原则上是自由允许的”。虽然CJEU在法律上不受总法务官意见约束，但法院通常会采纳其建议。"
+        },
+        {
+          "t": "p",
+          "x": "Szpunar建议法院驳回与基础案件相关的问题。在该案中，一家匈牙利新闻出版商声称Google的Gemini聊天机器人能够复现其一篇文章；Szpunar认为，没有证据表明Google使用了该出版商的文章来训练其AI。"
+        },
+        {
+          "t": "p",
+          "x": "但他表示，聊天机器人在线访问文章以生成回答时，仍可能侵犯新闻出版商的权利——这取决于文章是否被非法访问，例如绕过付费墙，以及聊天机器人是“仅报道事实”，还是以“可识别的方式”复用文章的“表达形式”。"
+        },
+        {
+          "t": "p",
+          "x": "总法务官认为，如果侵权行为是其商业模式所固有的，或公司未能采取有效措施防止非法网络抓取等侵权行为，运营聊天机器人的公司须承担责任。"
+        }
+      ]
     }
   }
 }

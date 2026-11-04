@@ -10478,6 +10478,163 @@
           "x": "Con el nodo de Figma se puede copiar un marco de Figma Design y pegarlo en Weave, donde sigue conectado al original. Si se modifica el marco original en Figma Design, el cambio se refleja en el nodo de Figma conectado en Weave."
         }
       ]
+    },
+    "design/openai-astra-hardware-device": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy compartimos avances en cómo los modelos de OpenAI ayudan a los ingenieros a diseñar, simular y construir productos físicos. Estas capacidades abarcan la ingeniería mecánica y eléctrica, y el diseño de sistemas de principio a fin."
+        },
+        {
+          "t": "p",
+          "x": "Probamos el rendimiento de vanguardia de Astra en flujos de trabajo multimodales y de uso de computadora comprobando si podíamos crear un dispositivo sin ninguna edición humana directa. Usamos GPT‑6 para definir los requisitos funcionales y diseñar la carcasa, la placa de circuito impreso (PCB) y las integraciones de software necesarias para crear un dispositivo con el que los usuarios puedan hablar con Codex."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+          "cap": "Carcasa del prototipo del dispositivo"
+        },
+        {
+          "t": "p",
+          "x": "Astra desarrolló el aspecto del dispositivo, diseñó la carcasa y las estructuras internas que sujetan los componentes, seleccionó los componentes eléctricos y diseñó la PCB, y generó el firmware y las integraciones de software necesarias para conectar el dispositivo a Codex."
+        },
+        {
+          "t": "p",
+          "x": "Dos miembros del equipo diseñaron este dispositivo de prueba con Astra en menos de una semana. Un fabricante por contrato construyó un pequeño lote de prototipos en menos de un mes. Preparar el dispositivo para la fabricación aún requirió varias rondas de revisión e iteración."
+        },
+        {
+          "t": "p",
+          "x": "Desde febrero, el uso de modelos en los equipos de hardware de OpenAI, medido en tokens, se ha multiplicado por 23. En BenchCAD 2.0, un modelo interno más reciente obtuvo una puntuación media de 0.875, frente a 0.594 de GPT‑6 Astra en su ajuste de razonamiento más alto."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI amplía su colaboración con Chip Ganassi Racing y anuncia una nueva colaboración de investigación con Mazda."
+        }
+      ]
+    },
+    "design/tripo-agentic-canvas-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/11/Tripo-AI-Agentic-Canvas.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI ha lanzado Tripo Agentic Canvas, un agente de inteligencia artificial que construye y ejecuta flujos de trabajo 3D en un lienzo visual basado en nodos. La empresa de San Francisco diseñó la herramienta en torno a sus modelos fundacionales nativos en 3D, y convierte ideas, imágenes de referencia y recursos existentes en secuencias conectadas que van desde la generación 3D y el refinamiento de recursos hasta la exportación."
+        },
+        {
+          "t": "p",
+          "x": "En el lienzo, cada nodo realiza una sola operación, y los enlaces pasan la salida de un nodo al siguiente para formar un flujo de trabajo. Los usuarios pueden añadir texturizado, retopología, Smart UV, procesamiento de renderizado basado en la física (PBR), segmentación y rigging como nodos, y conectarlos entre sí para un proyecto concreto."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios también pueden pedir al agente que genere un flujo de trabajo y luego examinar los resultados, cambiar nodos individuales y revisar la secuencia. Los flujos terminados se pueden guardar, duplicar y reutilizar, y el procesamiento por lotes aplica un mismo flujo a varios recursos."
+        },
+        {
+          "t": "p",
+          "x": "Un nodo AI 3D Lab añade herramientas conversacionales para inspeccionar y refinar recursos concretos o producir nuevos resultados a partir de nodos anteriores."
+        },
+        {
+          "t": "p",
+          "x": "Tripo señala como usos previstos el desarrollo de videojuegos, la impresión 3D, el diseño de productos y el comercio electrónico, el cine, la animación y la visualización."
+        }
+      ]
+    },
+    "design/ncircle-nvibe-aec-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nVibe2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "nCircle Tech ha lanzado nVibe, una plataforma de desarrollo AI-powered diseñada específicamente para ayudar a los profesionales de AEC a convertir ideas en aplicaciones funcionales sin necesidad de saber programar."
+        },
+        {
+          "t": "p",
+          "x": "Los expertos del sector, como jefes de obra, ingenieros de proyecto y responsables de VDC, pueden describir un flujo de trabajo en lenguaje sencillo, y nVibe crea la aplicación dentro de un entorno aislado diseñado para que los equipos de IT controlen la seguridad, los permisos y el despliegue."
+        },
+        {
+          "t": "p",
+          "x": "Según nCircle Tech, nVibe se diferencia de las herramientas de programación con AI de uso general por su comprensión integrada de la terminología y los flujos de trabajo de AEC, como los códigos WBS, CSI MasterFormat, RFIs, submittals y LoD 100–500."
+        },
+        {
+          "t": "p",
+          "x": "nVibe incluye conectores predefinidos para Autodesk Forma, Autodesk Platform Services (APS), Autodesk AEC Data Model, SAP y otros sistemas ERP, y Model Context Protocol (MCP). Pronto llegarán integraciones con Navisworks, Procore, AutoCAD y Revit."
+        },
+        {
+          "t": "p",
+          "x": "nVibe for Revit está pensado para traducir instrucciones en lenguaje sencillo a plugins nativos de Revit que aparecen en la cinta de Revit del equipo. Una vez que se ha usado la AI durante el proceso de creación de la aplicación, las ejecuciones posteriores de la aplicación no consumen tokens."
+        }
+      ]
+    },
+    "design/claude-design-reference-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si le pides un diseño a Claude, a menudo obtienes algo que parece una plantilla ya vista. Por eso, el autor mantuvo idéntica la petición —una imagen para el feed de Instagram (1080×1350) que anuncia el nuevo “Lemonade” del menú de ONGI Coffee, una pequeña cafetería de Paju, Corea, en un único archivo HTML— y solo cambió la forma de entregar las referencias. Herramienta: Claude Code, octubre de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fitxxgpsmpf3n5hmvyfpe.png",
+          "cap": "LV1 — solo la petición. Limpio, pero parece una plantilla."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6v32oiktfpxhewsl6yqa.png",
+          "cap": "LV2 — dos referencias adjuntas. Las dos imágenes se mezclaron al azar."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F66bczcmccz8mu67o4scb.png",
+          "cap": "LV3 — referencias + unas líneas sobre qué tomar. El tono de la marca se notó."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbzkyhoihhqsqks8yeqr2.png",
+          "cap": "LV3+ — una foto real + una corrección. Listo para publicar."
+        },
+        {
+          "t": "p",
+          "x": "Cada nivel se ejecutó dos veces más (9 ejecuciones). La tendencia se mantuvo: adjuntar referencias (LV2) cambió menos que añadir unas líneas sobre ellas (LV3)."
+        },
+        {
+          "t": "p",
+          "x": "En LV2, Claude leyó ambas imágenes como instrucciones igual de importantes. No sabía qué tomar de cada imagen, así que combinó todo lo que destacaba, o copió casi tal cual la tarjeta oscura del menú."
+        },
+        {
+          "t": "p",
+          "x": "Conclusiones: mostrar una referencia importa menos que decir \"toma solo esto de ella\". Escribe qué tomar y qué no tomar en listas separadas. Da a cada referencia una sola función: dos o tres referencias con funciones distintas funcionan mejor. Cuando algo falle, corrige una o dos cosas a la vez y di \"deja todo lo demás como está\"."
+        }
+      ]
+    },
+    "design/autom8labs-aec-mcp-skills": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/MCP-skills.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Guía a los agentes de IA en tareas de Revit, AutoCAD, 3ds Max y otros programas, con “pasos claros” para hacer el trabajo y comprobar el resultado."
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labs ha lanzado 22 MCP Skills gratuitas, que funcionan junto con los MCP Connectors de la empresa para Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D y Advance Steel. En lugar de limitarse a decirle a un agente de IA qué hacer, cada habilidad MCP lo guía por los pasos que seguiría un profesional con experiencia."
+        },
+        {
+          "t": "p",
+          "x": "“Dar a un agente de IA acceso a una aplicación de diseño no significa automáticamente que sepa cuál es la mejor manera de trabajar en ella”, dijo James Gray, de Autom8Labs. “Los MCP Connectors le dan las herramientas a tu agente de IA. Las Skills le dan el método”."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las habilidades se centran en Revit e incluyen creación de familias, scan-to-BIM, salud del modelo, estructura, MEP, coordinación, emplazamiento y control de documentos. Para Grasshopper, una habilidad de diseño computacional construye definiciones paramétricas como lo haría un diseñador computacional, mientras que las habilidades de 3ds Max configuran Corona o V-Ray como lo haría un visualizador."
+        },
+        {
+          "t": "p",
+          "x": "Autom8Labs también puede crear y probar habilidades personalizadas para empresas AEC, basadas en sus plantillas, estándares y controles de aprobación."
+        }
+      ]
     }
   }
 }
