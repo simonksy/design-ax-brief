@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "issue": "UE6, 블루프린트를 처음부터 뺀다",
+    "date": "2026.11.04",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "4Gamer.net 원문(2026.11.04 14:17 JST, 編集部：或鷹) 대조. 제목 '最初から廃止'·'2027年末にローンチするUE6の開発環境から取り除く'와 일치 — 6월 시카고 Unreal Fest 2026 방침(UE6 초기판엔 남기고 Verse 체계가 성숙하면 비권장)을 뒤집은 것. 수치 1.5~4배, 2026년 말 최소 4배, 2027년 중반 많은 영역 10배 원문 그대로. 기사에 직접 인용문이 없어 quote 카드는 쓰지 않았다(사과는 간접화법으로만). 영상은 모두 Unreal Engine 공식 YouTube의 Unreal Fest Chicago 2026(6월) 세션 클립: src/ue6_reveal.mp4 = 'Unreal Engine 6 | State of Unreal'(mGuaRAWdXPA) 38s~, src/ue6_arch.mp4·src/verse_code.mp4 = 'Unreal Engine 6: Verse | State of Unreal'(V8e-vdhzN88) 167s~·72s~. 워터마크 없음. 4Gamer 현장 사진(pipeline/media/ue6-blueprints-drop.jpg 포함)은 매체 자체 사진이라 쓰지 않았다.",
+    "sources": [
+      "4Gamer.net — UE6ではブループリントを最初から廃止へ。AIの生産性を優先した方針転換を，Tim Sweeney氏が謝罪とともに明かした「Unreal Fest Tokyo 2026」基調講演 (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/ue6_reveal.mp4",
+      "start": 0,
+      "dur": 6,
+      "eyebrow": "AI × 게임 · 2026.11.04",
+      "headline": "UE6, 블루프린트를 처음부터 뺀다",
+      "body": "Epic CEO Tim Sweeney가 Unreal Fest Tokyo 2026 기조연설에서 방침을 바꿨다고 밝혔다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/ue6_arch.mp4",
+      "start": 0,
+      "dur": 7,
+      "eyebrow": "무슨 일인가",
+      "headline": "게임플레이는 Verse 하나로",
+      "body": "UE6에선 게임플레이를 전부 스크립트 언어 Verse로 쓴다. 엔진은 지금처럼 C++로 만든다.",
+      "foot": "2026.11.04",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "1.5~4배",
+      "stat_arrow": "2027년 중반 목표",
+      "stat_bottom": "10배",
+      "stat_strike": false,
+      "eyebrow": "왜 바꿨나",
+      "headline": "AI가 끌어올린 생산성",
+      "body": "Epic 사내 생산성은 AI로 이미 1.5~4배 올랐다. 2026년 말엔 최소 4배, 2027년 중반엔 많은 영역에서 10배를 본다.",
+      "foot": "2026.11.04",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "초기판엔 남긴다",
+      "stat_arrow": "6월 시카고 → 11월 도쿄",
+      "stat_bottom": "처음부터 뺀다",
+      "stat_strike": true,
+      "eyebrow": "짚을 대목",
+      "headline": "다섯 달 만에 뒤집었다",
+      "body": "6월엔 Verse 체계가 자리 잡으면 비권장으로 돌린다고 했다. AI엔 블루프린트보다 텍스트 코드가 훨씬 생산적이었다.",
+      "foot": "2026.11.04",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "video": "src/verse_code.mp4",
+      "start": 0,
+      "dur": 7,
+      "eyebrow": "그래서 지금",
+      "headline": "사과하고, AI로 옮겨 준다",
+      "body": "Sweeney는 반기지 않을 결정이라며 사과했다. 대신 UE5에서 넘어올 땐 AI 변환 수단을 준다. UE6는 2027년 말 나온다.",
+      "foot": "2026.11.04",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

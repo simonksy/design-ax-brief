@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "issue": "뉴스와 AI, 규칙이 생긴다",
+    "date": "2026.11.05",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 다시 대조(Verge 2건·GOV.UK·Folha는 curl 전문, Wikimedia 재단 블로그 원문 확인, Euractiv는 Cloudflare 차단이라 수집 당시 전문·published_iso 2026-11-03로 확인). 전선을 '기사 × AI 학습·답변 규칙' 하나로 좁힘: 업계 robots.txt 공통 거부 신호(10.30)는 뉴스 콘텐츠 규칙이 아니라 웹 크롤링 일반이라 빼고, 같은 Meta 약관(11월 20일 시행 예정)을 다룬 브라질 상파울루 법원 가처분(판결 11.03 화, Folha 영문판 게재 11.04)으로 바꿈 — 하루 R$100만·상한 R$1억, 상업적 데이터 마이닝 예외 없음 확인. Wikimedia 장은 The Verge 자체 일러스트라 빼고 Wikimedia 재단 법률총괄 LaPorte 성명 quote로(재단 블로그: 학습은 공정이용, RAG·그라운딩 답변은 라이선스). CMA는 '위법 판단 전'을 명시, Brave 건은 소장 주장으로, Szpunar는 비구속 의견으로 적음. CMA 장은 보도자료 이미지의 원 출처를 확인할 수 없어 stat 카드로 바꿈 — 이 회차에 사진 없음.",
+    "sources": [
+      "The Verge — Wikipedia’s operator says a bad AI copyright ruling could threaten the open web (2026.10.30)",
+      "GOV.UK (CMA) — CMA opens investigation into Meta’s commercial terms (2026.10.30)",
+      "The Verge — The New York Times sues Brave web browser for AI scraping and bypassing paywalls (2026.11.02)",
+      "Euractiv (Rapporteur) — AI faces limits in reusing news articles, says top EU court advisor (2026.11.03)",
+      "Folha de S.Paulo — Court Bars Meta From Using News Articles to Train AI in Brazil (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 10.30~11.04",
+      "thread": [
+        {
+          "d": "10.30",
+          "t": "의견서",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.30",
+          "t": "CMA 조사",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.02",
+          "t": "Brave 소송",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.03",
+          "t": "EU 법무관",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.04",
+          "t": "브라질 판결",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "기사로 AI를 학습시키는 것과 기사로 답하는 것, 그 사이에 선이 그어지고 있다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "뉴스와 AI,\n규칙이 생긴다",
+      "body": "Wikimedia와 EU 법무관은 학습은 열고 답변은 묶자고 했다. 브라질 법원은 학습부터 사전 허락이 필요하다고 봤다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.30",
+      "headline": "학습과 답변,\n따로 보자",
+      "body": "Wikimedia 재단이 NYT v. OpenAI 사건에 중립 의견서를 냈다. 학습은 공정이용, 기사를 되풀이하는 답변은 아니다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "_id": "wikimedia-nyt-amicus",
+      "quote": "공정이용을 신중히 따지지 않은\n판결은 자유 지식의 지속을\n위협할 수 있다",
+      "quote_by": "Stephen LaPorte · Wikimedia 재단 법률총괄"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "선택권 없는 약관,\n영국이 조사",
+      "body": "영국 CMA가 매체 콘텐츠를 선택권 없이 AI에 쓸 수 있게 한 Meta 약관을 조사한다. 위법 여부는 아직 판단 전이다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "_id": "politics-cma-meta-probe",
+      "stat_top": "Meta 새 약관",
+      "stat_arrow": "11월 20일 시행 예정",
+      "stat_bottom": "CMA 조사 착수",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.02",
+      "headline": "NYT 등,\nBrave에 AI 소송",
+      "body": "소장은 Brave가 수집한 기사를 AI 기업에 팔고 페이월 우회를 도왔다고 주장한다. Brave는 즉답하지 않았다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "_id": "brave-nyt-scraping-suit",
+      "quote": "Brave는 언론사 사이트에\n접근하는 데 허락을\n구한 적이 없다",
+      "quote_by": "New York Daily News 등 소장 · 2026.11.02"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "학습은 허용,\n답변은 따로",
+      "body": "CJEU Szpunar 법무관의 비구속 의견. 기사 표현을 알아볼 수 있게 재사용하면 언론사권 침해일 수 있다고 봤다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
+      "_id": "politics-cjeu-szpunar-ai-news",
+      "stat_top": "모델 학습은 원칙적 허용",
+      "stat_arrow": "챗봇 답변에 기사를 쓰면",
+      "stat_bottom": "제약 가능",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "브라질 법원,\n학습엔 사전 허락",
+      "body": "영국이 조사하는 Meta 새 약관의 수집 조항을 상파울루 법원이 가처분으로 멈췄다. 언론단체 기사의 AI 학습도 금지.",
+      "foot": "2026.11.04",
+      "_src": "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml",
+      "_id": "brazil-meta-news-ruling",
+      "stat_top": "어기면 하루 100만 헤알",
+      "stat_arrow": "벌금 상한",
+      "stat_bottom": "1억 헤알",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

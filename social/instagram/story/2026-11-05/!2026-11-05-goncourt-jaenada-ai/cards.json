@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "issue": "공쿠르상 수상작에 숨은 ChatGPT 한 문장",
+    "date": "2026.11.04",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "Euronews(2026.11.04 16:59 CET, AFP 인용) 원문 대조. 프랑스어 원 발언은 AFP 계열 보도 두 곳(Keystone-ATS via bluewin.ch 2026.11.04 10:29, Belga via La Libre 2026.11.04 11:32)으로 확인 — 인용은 프랑스어 원문(\"Si ça sort, je sais de qui ça viendra\" / \"Je pense qu'on ne peut pas refouler l'IA, on ne peut pas faire comme si ça n'existait pas. Il faut s'en servir, il faut le reconnaître, il faut l'apprivoiser et ne pas se faire remplacer. Il faut qu'elle soit utile.\")에서 옮겼다. 수상은 화요일 2026.11.03, France Inter 출연은 수요일 11.04. 쓰임은 세 가지(ChatGPT 문장 하나를 '독자와 놀려고' 삽입·기술 데이터에 대한 엉뚱한 답을 놀림·기술 조사) — '집필을 맡기지 않았다'는 Keystone-ATS의 정리. 초안 정정: 날짜 11.05→11.04(기사일), Euronews 리드의 'AI로 소설을 썼다'는 과장이라 쓰지 않음. 표지 사진: Gérald Garitan, 'Philippe jaenada Lslap 1559932.jpg', CC BY-SA 4.0 (Wikimedia Commons, 2024.09.13 촬영) — 가로로 잘라 흑백 그대로 사용, 캡션에 저작자 표기. Euronews/AFP 보도사진(pipeline/media/goncourt-jaenada-ai.jpg)은 쓰지 않는다. 나머지 장은 stat·quote.",
+    "sources": [
+      "Euronews — Goncourt 2026 winner Philippe Jaenada admits using AI in novel to 'play with reader' (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 책 · 2026.11.04",
+      "headline": "수상작 속 ChatGPT 한 문장",
+      "body": "2026 공쿠르상을 받은 Philippe Jaenada가 이튿날 라디오에서 털어놨다. 소설을 쓰며 AI를 썼다고.",
+      "foot": "밀어서 보기 →",
+      "media": "src/jaenada.jpg",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "ChatGPT가 쓴 문장",
+      "stat_arrow": "소설에 들어간 것",
+      "stat_bottom": "단 하나",
+      "stat_strike": false,
+      "eyebrow": "무엇에 썼나",
+      "headline": "소설에 넣은 건\n한 문장뿐",
+      "body": "나머지는 기술 자료 조사, 그리고 엉뚱한 답을 내놓는 ChatGPT를 놀리는 데 썼다고 France Inter에서 밝혔다.",
+      "foot": "2026.11.04",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "이게 새어 나가면, 누구한테서 나온 건지 알죠.",
+      "quote_by": "Philippe Jaenada · 2026 공쿠르상 수상자",
+      "eyebrow": "숨은 문장",
+      "headline": "어느 문장인지는\n심사위원만 안다",
+      "body": "'독자와 놀려고' ChatGPT가 쓴 문장을 끼워 넣었다. 어느 문장인지는 수상 날인 화요일, 심사위원들에게만 알렸다.",
+      "foot": "2026.11.04",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "AI를 밀어낼 수도, 없는 척할 수도 없다고 봐요. 써야 하고, 인정해야 하고, 길들여야죠. 대체되지 말고요.",
+      "quote_by": "Philippe Jaenada · France Inter",
+      "eyebrow": "그의 입장",
+      "headline": "쓰되, 길들인다",
+      "body": "글쓰기 자체는 맡기지 않는 제한적 사용이라는 설명이다. \"쓸모가 있어야 한다\"고도 했다.",
+      "foot": "2026.11.04",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "Thélyson Orélien",
+      "stat_arrow": "AI 사용 의혹·표절 시비",
+      "stat_bottom": "공쿠르 2차 후보 제외",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "같은 시즌,\n다른 결말",
+      "body": "몇 주 전 일이다. 반응도 '맞춤법 검사기처럼 될 것'과 '혼자 쓸 줄 모르나'로 갈렸다. 문단이 어디에 선을 그을지가 남았다.",
+      "foot": "2026.11.04",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
