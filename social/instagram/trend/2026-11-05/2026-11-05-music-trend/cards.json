@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 곡, 누가 가려내나",
+    "date": "2026.11.05",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로(UMG Music Ally 10.30, iTunes HITS 11.02, JASRAC 경기데일리 11.03, DMN 11.04) 고치고 시간순으로 재배열. 수치 하루 9만 곡(Deezer 집계)·Top 10 중 4곡(1위 포함, Looze Cannon은 부인)·10월 실증·12월 KENDRIX 무료·23곡 전부·원곡 7곡 확인. 사진은 JASRAC 한 장만.",
+    "sources": [
+      "Music Ally — UMG talks AI music: ‘The volume is growing faster than the safeguards’ (2026.10.30)",
+      "HITS Daily Double — Slop Till You Drop: A Peek at the iTunes U.S. Top 10 (2026.11.02)",
+      "경기데일리 — 일본음악저작권협회, 인간이 창작한 음악 보호 위해 AI 생성곡 탐지 나서 (2026.11.03)",
+      "Digital Music News — AI Detector False Positives Threaten Indie Musicians (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.30~11.04",
+      "thread": [
+        {
+          "d": "10.30",
+          "t": "하루 9만",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.02",
+          "t": "차트 1위",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.03",
+          "t": "탐지 실증",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.04",
+          "t": "오판",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 곡이 쏟아지자 가려내는 일 자체가 새 싸움터가 됐다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 곡,\n누가 가려내나",
+      "body": "하루 9만 곡이 올라오고 차트 1위까지 섞였다. 그런데 막겠다는 탐지기는 40년 전 사람 노래도 AI로 찍는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.30",
+      "headline": "물량이 안전장치를\n앞지른다",
+      "body": "UMG Grainge는 Deezer 집계를 들어 완전 AI 곡이 하루 9만 곡 넘게 스트리밍에 올라온다고 경고했다.",
+      "foot": "2026.10.30",
+      "_src": "https://musically.com/2026/10/30/umg-talks-ai-music-the-volume-is-growing-faster-than-the-safeguards/",
+      "_id": "umg-grainge-ai-volume",
+      "quote": "물량이 안전장치보다\n빠르게 늘고 있다",
+      "quote_by": "Lucian Grainge · UMG, 3분기 실적 콜"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.02",
+      "headline": "차트 1위도\nAI 도움 곡",
+      "body": "11월 1일 iTunes 미국 Top 10 가운데 1위를 포함한 넷이 AI 도움을 받은 듯하다. 그중 한 명은 부인했다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.hitsdailydouble.com/news/streaming/itunes-top-10-ai-2026-11-02",
+      "_id": "music-itunes-top10-ai",
+      "stat_top": "iTunes 미국 Top 10",
+      "stat_arrow": "11월 1일, AI 도움 받은 듯한 곡",
+      "stat_bottom": "4곡 · 1위 포함",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "저작권협회가\n탐지기를 시험",
+      "body": "JASRAC은 AI 생성곡을 관리 대상에서 빼고 10월부터 탐지 시스템을 실증 중이다. 12월엔 KENDRIX로 무료 제공.",
+      "foot": "2026.11.03",
+      "_src": "https://www.kdfnews.com/news/articleView.html?idxno=190260",
+      "_id": "jasrac-ai-song-detection",
+      "media": "pipeline/media/jasrac-ai-song-detection.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "탐지기가 사람을\nAI로 찍다",
+      "body": "AI 없이 만든 커버 앨범 23곡이 SubmitHub에서 모두 AI 의심. 40년 전 원곡 7곡도 'AI/하이브리드 가능'이었다.",
+      "foot": "2026.11.04",
+      "_src": "https://www.digitalmusicnews.com/2026/11/04/ai-detector-false-positives/",
+      "_id": "music-ai-detector-false-positives",
+      "stat_top": "손으로 만든 23곡",
+      "stat_arrow": "SubmitHub 판정",
+      "stat_bottom": "23곡 모두 AI 의심",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

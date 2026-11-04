@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "BIM 안으로 들어온 에이전트",
+    "date": "2026.11.05",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Snaptrude 10.30→10.29, Allplan 11.02→10.30, Autom8Labs 11.04→11.03, nVibe 11.05→11.03), nVibe(15:00)가 Autom8Labs(15:38)보다 앞서 4·5장 순서를 바꿈. Allplan 사진은 stat(최대 36%, 자체 보고)로. LoD 400·몇 분, AI 기능 9종, 스킬 22개·MCP, WBS·RFI·LoD 확인.",
+    "sources": [
+      "AEC Magazine — Snaptrude Agent launches for BIM workflows (2026.10.29)",
+      "Engineering.com — Allplan Max 2027 launched for engineering workflows (2026.10.30)",
+      "AEC Magazine — nCircle Tech launches nVibe AI app builder (2026.11.03)",
+      "AEC Magazine — Autom8Labs launches AEC skills for AI agents (2026.11.03)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 10.29~11.03",
+      "thread": [
+        {
+          "d": "10.29",
+          "t": "에이전트",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.30",
+          "t": "AI 9종",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.03",
+          "t": "앱 빌더",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "11.03",
+          "t": "스킬 22",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "건축 BIM 도구 안에서 AI가 일을 직접 맡기 시작했다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "BIM 안으로\n들어온 에이전트",
+      "body": "한 건씩 보면 신제품 소식이다. 닷새 사이 네 곳이 모델링·도면·앱 제작까지 BIM 실무를 맡는 AI를 냈다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.29",
+      "headline": "구상에서\nLoD 400 모델까지",
+      "body": "Snaptrude Agent는 계획을 먼저 보여주고 승인을 받는다. 매스 모델을 몇 분 만에 LoD 400 BIM으로 바꾼다고 한다.",
+      "foot": "2026.10.29",
+      "_src": "https://aecmag.com/bim/snaptrude-agent-launches-for-bim-workflows/",
+      "_id": "snaptrude-bim-agent",
+      "media": "pipeline/media/snaptrude-bim-agent.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "엔지니어 도구에\nAI 아홉 가지",
+      "body": "Allplan Max 2027이 BIM 분석·도면·구조해석 등 9가지 AI 기능을 넣었다. 판단과 승인은 엔지니어 몫으로 남긴다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+      "_id": "allplan-max-2027-ai",
+      "stat_top": "일부 작업 완료 속도",
+      "stat_arrow": "사용자 자체 보고",
+      "stat_bottom": "최대 36% 빨라짐",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "말로 설명하면\nAEC 앱이 된다",
+      "body": "nCircle Tech nVibe는 현장 소장·VDC 리드가 업무를 말로 설명하면 앱을 만든다. WBS·RFI·LoD 용어를 안다.",
+      "foot": "2026.11.03",
+      "_src": "https://aecmag.com/automation/ncircletech-launches-nvibe-ai-app-builder/",
+      "_id": "ncircle-nvibe-aec-apps",
+      "media": "pipeline/media/ncircle-nvibe-aec-apps.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "도구에 이어\n방법까지",
+      "body": "Autom8Labs가 Revit·AutoCAD 등에서 쓸 MCP 스킬 22개를 무료로 냈다. 숙련자가 밟는 단계를 에이전트에 가르친다.",
+      "foot": "2026.11.03",
+      "_src": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
+      "_id": "autom8labs-aec-mcp-skills",
+      "media": "pipeline/media/autom8labs-aec-mcp-skills.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

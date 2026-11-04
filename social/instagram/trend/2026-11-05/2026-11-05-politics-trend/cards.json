@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "issue": "뉴스와 AI, 규칙이 생긴다",
+    "date": "2026.11.05",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 대조(Verge 3건·GOV.UK는 curl, Euractiv는 Cloudflare 차단이라 수집 당시 전문·published_iso로 확인). 날짜를 기사 게재일로 고침: Wikimedia·CMA·opt-out 11.02→10.30, Brave 11.03→11.02, Szpunar 11.04→11.03(의견 낸 화요일). 오늘 story인 브라질 Meta 판결은 뺌. CMA는 '위법 판단 전'을 명시하고, Brave 건은 소장 주장으로 적음. Szpunar 카드는 사진이 없어 stat, Brave 사진은 11-03 story가 써서 소장 인용 quote로.",
+    "sources": [
+      "The Verge — Wikipedia's operator says a bad AI copyright ruling could threaten the open web (2026.10.30)",
+      "GOV.UK (CMA) — CMA opens investigation into Meta's commercial terms (2026.10.30)",
+      "The Verge — The biggest names in AI are backing a new way to opt out of scraping (2026.10.30)",
+      "The Verge — The New York Times sues Brave web browser for AI scraping and bypassing paywalls (2026.11.02)",
+      "Euractiv (Rapporteur) — AI faces limits in reusing news articles, says top EU court advisor (2026.11.03)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 10.30~11.03",
+      "thread": [
+        {
+          "d": "10.30",
+          "t": "의견서",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.30",
+          "t": "CMA 조사",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.30",
+          "t": "거부 신호",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.02",
+          "t": "Brave",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.03",
+          "t": "EU 법원",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "기사를 AI에 어디까지 쓸지, 법원·규제당국·업계가 같은 주에 선을 긋는다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "뉴스와 AI,\n규칙이 생긴다",
+      "body": "한 건씩 보면 소송 하나, 조사 하나다. 닷새 사이 법원·규제당국·AI 기업이 같은 질문에 답을 내놓기 시작했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.30",
+      "headline": "학습과 복제,\n따로 보자",
+      "body": "Wikimedia 재단이 NYT v. OpenAI 사건에 중립 의견서를 냈다. 학습은 공정이용, 기사 복제 출력은 아니라는 입장.",
+      "foot": "2026.10.30",
+      "_src": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "_id": "wikimedia-nyt-amicus",
+      "media": "pipeline/media/wikimedia-nyt-amicus.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.30",
+      "headline": "선택권 없는 약관,\n영국이 조사",
+      "body": "영국 CMA가 매체 콘텐츠를 선택권 없이 AI에 쓰게 한 Meta 약관을 조사한다. 위법 여부는 아직 판단 전이다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "_id": "politics-cma-meta-probe",
+      "media": "pipeline/media/politics-cma-meta-probe.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.30",
+      "headline": "거부 신호 하나로\n여러 AI에",
+      "body": "OpenAI·Google·Microsoft·Anthropic이 robots.txt 공통 신호를 따른다. 회사마다 따로 막을 일이 준다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "_id": "ai-training-optout-standard",
+      "media": "pipeline/media/ai-training-optout-standard.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.02",
+      "headline": "NYT 등,\nBrave에 AI 소송",
+      "body": "소장은 Brave가 수집한 기사를 AI 기업에 팔고 페이월 우회를 도왔다고 주장한다. Brave는 즉답하지 않았다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "_id": "brave-nyt-scraping-suit",
+      "quote": "Brave는 언론사 사이트에\n접근하는 데 허락을\n구한 적이 없다",
+      "quote_by": "New York Daily News 등 소장 · 2026.11.02"
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.03",
+      "headline": "학습은 허용,\n답변은 따로",
+      "body": "CJEU Szpunar 법무관의 비구속 의견. 기사 표현을 알아볼 수 있게 재사용하면 언론사권 침해일 수 있다고 봤다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/",
+      "_id": "politics-cjeu-szpunar-ai-news",
+      "stat_top": "모델 학습은 원칙적 허용",
+      "stat_arrow": "챗봇 답변에 기사를 쓰면",
+      "stat_bottom": "제약 가능",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

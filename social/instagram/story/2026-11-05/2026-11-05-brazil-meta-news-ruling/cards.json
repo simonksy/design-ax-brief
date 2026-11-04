@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "브라질 법원, Meta의 뉴스 AI 학습 금지",
+    "date": "2026.11.05",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 정책 · 2026.11.05",
+      "headline": "브라질 법원, Meta의 뉴스 AI 학습…",
+      "body": "상파울루 법원은 화요일(3) Facebook·Instagram·WhatsApp·Threads를 소유한 Meta가 봇으로 브라질 세…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/brazil-meta-news-ruling.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "브라질 법원, Meta의 뉴스 AI 학습…",
+      "body": "판결은 이 자료를 Meta AI 같은 인공지능 시스템의 개발·학습에 쓰는 것도 막았다. 소송은 11월 20일 시행될 예정인 회사의 새…",
+      "foot": "2026.11.05",
+      "media": "pipeline/media/brazil-meta-news-ruling.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "브라질 법원, Meta의 뉴스 AI 학습…",
+      "body": "협회들은 이 약관으로 Meta가 뉴스 사이트 콘텐츠에 접근해 복제·저장·분석할 수 있게 된다고 주장했다. 판사는 기업이 “웹…",
+      "foot": "2026.11.05",
+      "media": "pipeline/media/brazil-meta-news-ruling.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "브라질 법원, Meta의 뉴스 AI 학습…",
+      "body": "판사는 언어 모델에 넣으려고 뉴스 사이트를 긁어 가는 행위가 저작물 복제여서 사전 허락이 필요하고, 브라질 법에는 상업 목적 데이터…",
+      "foot": "2026.11.05",
+      "media": "pipeline/media/brazil-meta-news-ruling.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "브라질 법원, Meta의 뉴스 AI 학습…",
+      "body": "위반하면 하루 100만 헤알(182,400달러)의 벌금이 붙고, 상한은 1억 헤알(1,800만 달러)이다. Meta는 5일 안에…",
+      "foot": "2026.11.05",
+      "media": "pipeline/media/brazil-meta-news-ruling.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

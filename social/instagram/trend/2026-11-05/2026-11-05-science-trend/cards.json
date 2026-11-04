@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "양자컴의 뒷일, AI가 맡는다",
+    "date": "2026.11.05",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Pasqal 10.29→10.28, 연세대 10.30→10.28, 찰머스 11.03→10.28, IBM 11.05→11.04). 수치 O(d⁴)→O(d²)·AlphaQubit·Sycamore, MWPM 2.60%→1.26%(IBM d=3)·GPU 한 장, 699개 부류 중 564개 신규·최대 90% 확인. 스틸은 Pasqal 한 장만 두고 나머지는 stat.",
+    "sources": [
+      "The Quantum Insider — Pasqal Launches AI Workflow for Cloud Quantum Experiments (2026.10.28)",
+      "Quantum Computing Report — Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction (2026.10.28)",
+      "Quantum Computing Report — Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery (2026.10.28)",
+      "Quantum Computing Report — IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories (2026.11.04)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 10.28~11.04",
+      "thread": [
+        {
+          "d": "10.28",
+          "t": "실험 준비",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.28",
+          "t": "실시간 해독",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.28",
+          "t": "모듈 해독",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.04",
+          "t": "증류 공장",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "양자컴퓨터를 굴리는 공정을 AI가 하나씩 떠맡는다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "양자컴의 뒷일,\nAI가 맡는다",
+      "body": "한 건씩 보면 연구실 성과다. 꿰어 보면 실험 준비, 오류 해독, 매직 스테이트 공장 설계까지 AI가 차례로 들어왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.28",
+      "headline": "아이디어에서\nQPU 실험까지",
+      "body": "Pasqal이 클라우드에 AI 워크플로를 붙였다. 논문 속 실험을 하드웨어 작업으로 옮기고 에뮬레이션 검증 뒤 결과까지 낸다.",
+      "foot": "2026.10.28",
+      "_src": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
+      "_id": "pasqal",
+      "media": "pipeline/media/pasqal.png"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "실시간에 맞춘\n가벼운 디코더",
+      "body": "연세대 Mamba 디코더는 Sycamore 데이터에서 AlphaQubit급 정확도를 냈다. 계산량은 d⁴에서 d²로 줄었다.",
+      "foot": "2026.10.28",
+      "_src": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
+      "_id": "yonsei-mamba-qec-decoder",
+      "stat_top": "O(d⁴)",
+      "stat_arrow": "Transformer 대신 Mamba",
+      "stat_bottom": "O(d²)",
+      "stat_strike": true
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.28",
+      "headline": "칩을 넘나드는\n모듈형 디코더",
+      "body": "예테보리·찰머스 GNN 디코더는 IBM 실데이터에서 MWPM의 논리 오류를 절반으로 줄였다. 학습은 상용 GPU 한 장이면 된다.",
+      "foot": "2026.10.28",
+      "_src": "https://quantumcomputingreport.com/gothenburg-and-chalmers-researchers-develop-modular-graph-neural-decoder-for-surface-code-memory-and-lattice-surgery",
+      "_id": "chalmers-gnn-qec-decoder",
+      "stat_top": "MWPM 2.60%",
+      "stat_arrow": "IBM d=3 · 라운드당 논리 오류",
+      "stat_bottom": "1.26%",
+      "stat_strike": true
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.04",
+      "headline": "매직 스테이트 공장,\n에이전트가 찾다",
+      "body": "IBM·QuICS·MIT의 LLM 에이전트가 후보를 내고 솔버가 검증했다. 큐비트·실행 시간의 최대 90%를 쓴다던 공정이다.",
+      "foot": "2026.11.04",
+      "_src": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/",
+      "_id": "ibm-quics-magic-state-agents",
+      "stat_top": "찾아낸 공장 699개 부류",
+      "stat_arrow": "그중 처음 보는 프로토콜",
+      "stat_bottom": "564개",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
