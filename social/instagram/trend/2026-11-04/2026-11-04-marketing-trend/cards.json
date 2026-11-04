@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "손님이 AI 에이전트가 된다",
+    "date": "2026.11.04",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(SEJ 지식베이스 10.28→10.27, SEJ 수수료 11.02→10.30, PPC Land Clarity 11.03→11.01, SEJ Claude 실험 11.04→11.02, Retail Dive 11.04→11.03). 수치 10개 범주·Storefront MCP, 0.3%·예시 1.5%, 25.21%·14.65%·230,511개, 20개·1,980번·여섯 검색 1위 불일치·48/50, 반품 사유 1위 '설명과 다름'·일반 반품 사이즈 42% 확인. 사진은 반품 상자 한 장만 남기고 나머지는 stat·quote로.",
+    "sources": [
+      "Search Engine Journal — Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin (2026.10.27)",
+      "Search Engine Journal — Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent (2026.10.30)",
+      "PPC Land — Checkout appears in 25% of AI agent sessions vs 15% for humans, Clarity finds (2026.11.01)",
+      "Search Engine Journal — 3 AI Models Shopped Shopify's Catalog – Each Picked A Different Winner (2026.11.02)",
+      "Retail Dive — AI recommendations are leading to returns (2026.11.03)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 10.27~11.03",
+      "thread": [
+        {
+          "d": "10.27",
+          "t": "가게 안내",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.30",
+          "t": "수수료",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.01",
+          "t": "결제",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.02",
+          "t": "고르기",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.03",
+          "t": "반품",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "가게가 사람 대신 AI 에이전트를 손님으로 맞기 시작했다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "손님이 AI\n에이전트가 된다",
+      "body": "한 건씩 보면 공지나 설문 하나다. 꿰어 보면 가게 안내, 수수료, 결제, 고르기, 반품이 차례로 에이전트 몫이 됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.27",
+      "headline": "가게 안내, 에이전트용으로",
+      "body": "Shopify가 지식베이스 앱을 접고 관리자로 옮겼다. 반품·배송 같은 가게 정보를 Storefront MCP로 에이전트에 연다.",
+      "foot": "2026.10.27",
+      "_src": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
+      "_id": "shopifykb",
+      "stat_top": "반품·배송·결제 등",
+      "stat_arrow": "에이전트가 읽는 가게 정보",
+      "stat_bottom": "10개 범주",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.30",
+      "headline": "에이전트에게 수수료를",
+      "body": "판촉 상품이 팔리면 Shopify가 에이전트 개발사에 주문액 0.3%를 준다. 상점은 Shop Campaigns로 더 얹을 수 있다.",
+      "foot": "2026.10.30",
+      "_src": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+      "_id": "shopify-agent-commission",
+      "stat_top": "기본 0.3%",
+      "stat_arrow": "상점이 캠페인으로 얹으면",
+      "stat_bottom": "예시 1.5%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.01",
+      "headline": "결제는 에이전트 쪽이 더",
+      "body": "Microsoft Clarity가 230,511개 사이트를 봤다. 다만 사람이 넘겨받은 장면도 섞여 누가 눌렀는지는 모른다.",
+      "foot": "2026.11.01",
+      "_src": "https://ppc.land/checkout-appears-in-25-of-ai-agent-sessions-vs-15-for-humans-clarity-finds/",
+      "_id": "clarity-ai-agent-checkout",
+      "stat_top": "사람만 14.65%",
+      "stat_arrow": "에이전트가 낀 세션의 결제",
+      "stat_bottom": "25.21%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.11.02",
+      "headline": "모델마다 고른 게 달랐다",
+      "body": "Claude 세 모델에 같은 Shopify 상품 20개를 주고 1,980번 고르게 했다. 여섯 검색 어디서도 1위가 같지 않았다.",
+      "foot": "2026.11.02",
+      "_src": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+      "_id": "sej-shopify-claude-shopping-test",
+      "quote": "선호를 말하지 않았다면 미디엄 로스트가 가장 무난하다.",
+      "quote_by": "Claude Opus 5 · 커피 원두 50번 중 48번 고른 이유"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.11.03",
+      "headline": "추천받은 상품이 되돌아온다",
+      "body": "Blue Yonder 조사에서 AI 추천 상품의 반품 사유 1위는 '설명과 다르다'였다. 사이즈가 1위인 일반 반품과 다르다.",
+      "foot": "2026.11.03",
+      "_src": "https://www.retaildive.com/news/ai-recommendations-returns/873075/",
+      "_id": "retaildive-ai-recs-returns",
+      "media": "pipeline/media/retaildive-ai-recs-returns.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
