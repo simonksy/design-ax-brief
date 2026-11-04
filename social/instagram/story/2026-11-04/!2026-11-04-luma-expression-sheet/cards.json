@@ -1,76 +1,76 @@
 {
- "meta": {
-  "issue": "Luma, 표정만 바꾸는 Expression Sheet",
-  "date": "2026.11.03",
-  "section": "MOVIES",
-  "accent": "#7928ca",
-  "note": "Luma 공식 YouTube 'Expression Sheet - Luma'(2026.11.03 02:43 UTC 업로드, 18초) 설명문·영상 자막과 lumalabs.ai 앱 공지 카드('See your character’s emotional range in one reference sheet.') 대조. 별도 기사·블로그는 없다. 초안 날짜 11.04 → 11.03 정정. 무료 제공·입력 방식 등 Luma가 밝히지 않은 내용은 쓰지 않았다. 영상: src/faces.mp4 = YouTube 원본 0–7.5초(자막 없는 구간, 세로 1080×1080 크롭), src/sheet.mp4 = Luma 공식 앱 공지 영상(static.cdn-luma.com, 16:9, 8초). 4장은 영상 자막 'Change the expression / Keep everything else' 인용.",
-  "sources": [
-   "Luma — Expression Sheet - Luma (YouTube · 2026.11.03)"
+  "meta": {
+    "issue": "Luma, 표정만 바꾸는 Expression Sheet",
+    "date": "2026.11.03",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "Luma 공식 YouTube 'Expression Sheet - Luma'(2026.11.03 02:43 UTC 업로드, 18초) 설명문·영상 자막과 lumalabs.ai 앱 공지 카드('See your character’s emotional range in one reference sheet.') 대조. 별도 기사·블로그는 없다. 초안 날짜 11.04 → 11.03 정정. 무료 제공·입력 방식 등 Luma가 밝히지 않은 내용은 쓰지 않았다. 영상: src/faces.mp4 = YouTube 원본 0–7.5초(자막 없는 구간, 세로 1080×1080 크롭), src/sheet.mp4 = Luma 공식 앱 공지 영상(static.cdn-luma.com, 16:9, 8초). 4장은 영상 자막 'Change the expression / Keep everything else' 인용. 3·5장 클립은 인스타 최소 3초 규격에 맞춰 공식 영상 구간을 느리게 늘린 별도 파일(sheet-grid, sheet-pick)로 뺐다.",
+    "sources": [
+      "Luma — Expression Sheet - Luma (YouTube · 2026.11.03)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/faces.mp4",
+      "start": 0,
+      "dur": 3,
+      "eyebrow": "AI × 영화 · 2026.11.03",
+      "headline": "얼굴 하나로 표정을 여럿",
+      "body": "Luma가 11월 3일 Expression Sheet를 공개했다. 캐릭터가 지을 수 있는 표정을 미리 펼쳐 본다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/sheet.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "무슨 일인가",
+      "headline": "감정 폭을 시트 한 장에",
+      "body": "캐릭터의 감정 폭을 참고 시트 한 장에 모아 보여 주는 기능이다. 지금 Luma에서 쓸 수 있다.",
+      "foot": "2026.11.03",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/sheet-grid.mp4",
+      "start": 0,
+      "dur": 3.2,
+      "eyebrow": "어떻게 보이나",
+      "headline": "같은 얼굴, 다른 표정",
+      "body": "공개 영상 속 시트에는 한 인물의 얼굴이 웃음, 찡그림, 놀람으로 줄지어 늘어선다.",
+      "foot": "2026.11.03",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "표정은 바꾸고, 나머지는 그대로.",
+      "quote_by": "Luma · Expression Sheet 공개 영상",
+      "eyebrow": "짚을 대목",
+      "headline": "바꾸는 건 표정뿐",
+      "body": "영상 속 인물은 옷차림도 배경도 그대로다. 달라지는 건 얼굴에 떠오른 감정 하나다.",
+      "foot": "2026.11.03",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "video": "src/sheet-pick.mp4",
+      "start": 0,
+      "dur": 3.4,
+      "eyebrow": "그래서 지금",
+      "headline": "방향은 고르기 전에 본다",
+      "body": "연기가 어디까지 갈 수 있는지 먼저 훑어보고, 어느 쪽으로 갈지는 그다음에 정한다.",
+      "foot": "2026.11.03",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
   ]
- },
- "cards": [
-  {
-   "kind": "cover",
-   "video": "src/faces.mp4",
-   "start": 0,
-   "dur": 3,
-   "eyebrow": "AI × 영화 · 2026.11.03",
-   "headline": "얼굴 하나로 표정을 여럿",
-   "body": "Luma가 11월 3일 Expression Sheet를 공개했다. 캐릭터가 지을 수 있는 표정을 미리 펼쳐 본다.",
-   "foot": "밀어서 보기 →",
-   "n": 1
-  },
-  {
-   "kind": "photo",
-   "video": "src/sheet.mp4",
-   "start": 0,
-   "dur": 4,
-   "eyebrow": "무슨 일인가",
-   "headline": "감정 폭을 시트 한 장에",
-   "body": "캐릭터의 감정 폭을 참고 시트 한 장에 모아 보여 주는 기능이다. 지금 Luma에서 쓸 수 있다.",
-   "foot": "2026.11.03",
-   "n": 2
-  },
-  {
-   "kind": "photo",
-   "video": "src/sheet.mp4",
-   "start": 5.2,
-   "dur": 1.8,
-   "eyebrow": "어떻게 보이나",
-   "headline": "같은 얼굴, 다른 표정",
-   "body": "공개 영상 속 시트에는 한 인물의 얼굴이 웃음, 찡그림, 놀람으로 줄지어 늘어선다.",
-   "foot": "2026.11.03",
-   "n": 3
-  },
-  {
-   "kind": "quote",
-   "quote": "표정은 바꾸고, 나머지는 그대로.",
-   "quote_by": "Luma · Expression Sheet 공개 영상",
-   "eyebrow": "짚을 대목",
-   "headline": "바꾸는 건 표정뿐",
-   "body": "영상 속 인물은 옷차림도 배경도 그대로다. 달라지는 건 얼굴에 떠오른 감정 하나다.",
-   "foot": "2026.11.03",
-   "n": 4
-  },
-  {
-   "kind": "photo",
-   "video": "src/sheet.mp4",
-   "start": 6.5,
-   "dur": 1.4,
-   "eyebrow": "그래서 지금",
-   "headline": "방향은 고르기 전에 본다",
-   "body": "연기가 어디까지 갈 수 있는지 먼저 훑어보고, 어느 쪽으로 갈지는 그다음에 정한다.",
-   "foot": "2026.11.03",
-   "n": 5
-  },
-  {
-   "kind": "outro",
-   "eyebrow": "매일 아침, AI가 바꾸는 현장",
-   "headline": "더 많은 소식은 axitnow.com",
-   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
-   "foot": "",
-   "n": 6
-  }
- ]
 }
